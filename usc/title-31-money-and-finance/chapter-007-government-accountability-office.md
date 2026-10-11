@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2017—Pub. L. 115–3, § 2(d), Jan. 31, 2017, 131 Stat. 8, added item 721.
+2017—Pub. L. 115–3, § 2(d), Jan. 31, 2017, 131 Stat. 8, added item 721.
 
-2014—Pub. L. 113–235, div. H, title I, § 1401(a)(2), Dec. 16, 2014, 128 Stat. 2541, added subchapter VII heading and items 791 to 793.
+2014—Pub. L. 113–235, div. H, title I, § 1401(a)(2), Dec. 16, 2014, 128 Stat. 2541, added subchapter VII heading and items 791 to 793.
 
-2008—Pub. L. 110–323, § 5(c), Sept. 22, 2008, 122 Stat. 3547, added item 705.
+2008—Pub. L. 110–323, § 5(c), Sept. 22, 2008, 122 Stat. 3547, added item 705.
 
-2004—Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, substituted “GOVERNMENT ACCOUNTABILITY OFFICE” for “GENERAL ACCOUNTING OFFICE” in chapter heading and “Government Accountability Office” for “General Accounting Office” in item 702.
+2004—Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, substituted “GOVERNMENT ACCOUNTABILITY OFFICE” for “GENERAL ACCOUNTING OFFICE” in chapter heading and “Government Accountability Office” for “General Accounting Office” in item 702.
 
-2000—Pub. L. 106–303, § 4(a)(3), Oct. 13, 2000, 114 Stat. 1069, added item 732a.
+2000—Pub. L. 106–303, § 4(a)(3), Oct. 13, 2000, 114 Stat. 1069, added item 732a.
 
-1994—Pub. L. 103–272, § 4(f)(1)(C), July 5, 1994, 108 Stat. 1362, struck out “Sec.” immediately above item 781.
+1994—Pub. L. 103–272, § 4(f)(1)(C), July 5, 1994, 108 Stat. 1362, struck out “Sec.” immediately above item 781.
 
-1988—Pub. L. 100–545, § 2(a), Oct. 28, 1988, 102 Stat. 2728, added subchapter VI heading and items 781 to 783.
+1988—Pub. L. 100–545, § 2(a), Oct. 28, 1988, 102 Stat. 2728, added subchapter VI heading and items 781 to 783.
 
 ## SUBCHAPTER I—DEFINITIONS AND GENERAL ORGANIZATION
 
-### § 701. Definitions
+### § 701. Definitions
 
 In this chapter—
 
@@ -55,8 +55,8 @@ In this chapter—
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 701(1) | 31:2(1st–4th pars.). | June 10, 1921, ch. 18, § 2(1st–5th pars.), 42 Stat. 20; Apr. 3, 1939, ch. 36, § 201, 53 Stat. 565; July 31, 1953, ch. 302, § 101(1st proviso in par. under heading “Bureau of the Budget”), 67 Stat. 299. |
-| 701(2) | 31:2(last par.). | June 10, 1921, ch. 18, 42 Stat. 20, § 2(last par.); added Sept. 12, 1950, ch. 946, § 101, 64 Stat. 832. |
+| 701(1) | 31:2(1st–4th pars.). | June 10, 1921, ch. 18, § 2(1st–5th pars.), 42 Stat. 20; Apr. 3, 1939, ch. 36, § 201, 53 Stat. 565; July 31, 1953, ch. 302, § 101(1st proviso in par. under heading “Bureau of the Budget”), 67 Stat. 299. |
+| 701(2) | 31:2(last par.). | June 10, 1921, ch. 18, 42 Stat. 20, § 2(last par.); added Sept. 12, 1950, ch. 946, § 101, 64 Stat. 832. |
 
 In clause (1), “agency” (which is defined for purposes of this title in section 101 to mean a department, agency, or instrumentality of the United States) is coextensive with and substituted for the term “department or establishment” which was defined in 31:2 as in part meaning “any executive department, independent commission, board, bureau, office, agency, or other establishment of the Government, including any independent regulatory commission or board”. This definition merely restates and continues, and does not in any way change or expand, the definition in 31:2. Under that definition, entities such as the Tennessee Valley Authority that have been interpreted to be outside the purview of the definition will continue to be outside the purview in the same manner and to the same extent that they were under 31:2. The words “includes the District of Columbia government” are used because of existing law but the inclusion of these words is not to be interpreted as construing the extent to which the District of Columbia Self-Government and Governmental Reorganizational Act (Pub. L. 93–198, 87 Stat. 774) supersedes the provisions codified in this title. The words “of the United States” are omitted as surplus. The text of 31:2 (2d–4th pars.) is omitted as unnecessary because of the restatement. The text of section 2 (3d par.) of the Budget and Accounting Act, 1921 (ch. 18, 42 Stat. 20), is omitted as obsolete because of section 501 of the revised title.
 
@@ -64,29 +64,29 @@ In clause (1), “agency” (which is defined for purposes of this title in sect
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–131, § 1, Nov. 25, 2024, 138 Stat. 1641, provided that: “This Act [amending section 705 of this title] may be cited as the ‘GAO Inspector General Parity Act’.”
+Pub. L. 118–131, § 1, Nov. 25, 2024, 138 Stat. 1641, provided that: “This Act [amending section 705 of this title] may be cited as the ‘GAO Inspector General Parity Act’.”
 
 **Short Title of 2017 Amendment**
 
-Pub. L. 115–3, § 1, Jan. 31, 2017, 131 Stat. 7, provided that: “This Act [enacting section 721 of this title and amending sections 716 and 720 of this title] may be cited as the ‘GAO Access and Oversight Act of 2017’.”
+Pub. L. 115–3, § 1, Jan. 31, 2017, 131 Stat. 7, provided that: “This Act [enacting section 721 of this title and amending sections 716 and 720 of this title] may be cited as the ‘GAO Access and Oversight Act of 2017’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–323, § 1(a), Sept. 22, 2008, 122 Stat. 3539, provided that: “This Act [enacting section 705 of this title, amending sections 731 to 733, 735, and 3521 of this title and section 109 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 705, 732, and 3523 of this title, and repealing provisions set out as a note under section 3523 of this title] may be cited as the ‘Government Accountability Office Act of 2008’.”
+Pub. L. 110–323, § 1(a), Sept. 22, 2008, 122 Stat. 3539, provided that: “This Act [enacting section 705 of this title, amending sections 731 to 733, 735, and 3521 of this title and section 109 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 705, 732, and 3523 of this title, and repealing provisions set out as a note under section 3523 of this title] may be cited as the ‘Government Accountability Office Act of 2008’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–271, § 1(a), July 7, 2004, 118 Stat. 811, provided that: “This Act [see Tables for classification] may be cited as the ‘GAO Human Capital Reform Act of 2004’.”
+Pub. L. 108–271, § 1(a), July 7, 2004, 118 Stat. 811, provided that: “This Act [see Tables for classification] may be cited as the ‘GAO Human Capital Reform Act of 2004’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–316, § 1, Oct. 19, 1996, 110 Stat. 3826, provided that: “This Act [see Tables for classification] may be cited as the ‘General Accounting Office Act of 1996’.”
+Pub. L. 104–316, § 1, Oct. 19, 1996, 110 Stat. 3826, provided that: “This Act [see Tables for classification] may be cited as the ‘General Accounting Office Act of 1996’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–426, § 1, Sept. 9, 1988, 102 Stat. 1598, provided that: “This Act [amending sections 703, 732, 751, 752, 755, 771 to 774, 776, and 777 of this title and section 5349 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under sections 755 and 772 of this title] may be cited as the ‘General Accounting Office Personnel Amendments Act of 1988’.”
+Pub. L. 100–426, § 1, Sept. 9, 1988, 102 Stat. 1598, provided that: “This Act [amending sections 703, 732, 751, 752, 755, 771 to 774, 776, and 777 of this title and section 5349 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under sections 755 and 772 of this title] may be cited as the ‘General Accounting Office Personnel Amendments Act of 1988’.”
 
-### § 702. Government Accountability Office
+### § 702. Government Accountability Office
 
 **(a)** The Government Accountability Office is an instrumentality of the United States Government independent of the executive departments.
 
@@ -94,21 +94,21 @@ Pub. L. 100–426, § 1, Sept. 9, 1988, 102 Stat. 1598, provided that: “This
 
 **(c)** The Comptroller General may adopt a seal for the Office.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 887; Pub. L. 100–545, § 2(b), Oct. 28, 1988, 102 Stat. 2729; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 887; Pub. L. 100–545, § 2(b), Oct. 28, 1988, 102 Stat. 2729; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 702(a) | 31:41(1st sentence less last 14 words, 2d, 3d sentences). | June 10, 1921, ch. 18, § 301, 42 Stat. 23. |
+| 702(a) | 31:41(1st sentence less last 14 words, 2d, 3d sentences). | June 10, 1921, ch. 18, § 301, 42 Stat. 23. |
 | 702(b) | 31:41(1st sentence last 14 words). |  |
-|  | 31:42(a)(1st sentence words before comma). | June 10, 1921, ch. 18, § 302(a)(1st sentence words before 1st comma), 42 Stat. 23; Apr. 3, 1980, Pub. L. 96–226, § 104(a), 94 Stat. 314. |
-|  | 31:1154(d)(1st sentence). | Oct. 26, 1970, Pub. L. 91–510, § 204(d)(1st sentence), 84 Stat. 1168; restated July 12, 1974, Pub. L. 93–344, § 702(a), 88 Stat. 326. |
-|  | 31:1155(a). | Oct. 26, 1970, Pub. L. 91–510, § 205(a), 84 Stat. 1168. |
-| 702(c) | 31:51–1. | Jan. 2, 1975, Pub. L. 93–604, § 501(a), 88 Stat. 1962. |
+|  | 31:42(a)(1st sentence words before comma). | June 10, 1921, ch. 18, § 302(a)(1st sentence words before 1st comma), 42 Stat. 23; Apr. 3, 1980, Pub. L. 96–226, § 104(a), 94 Stat. 314. |
+|  | 31:1154(d)(1st sentence). | Oct. 26, 1970, Pub. L. 91–510, § 204(d)(1st sentence), 84 Stat. 1168; restated July 12, 1974, Pub. L. 93–344, § 702(a), 88 Stat. 326. |
+|  | 31:1155(a). | Oct. 26, 1970, Pub. L. 91–510, § 205(a), 84 Stat. 1168. |
+| 702(c) | 31:51–1. | Jan. 2, 1975, Pub. L. 93–604, § 501(a), 88 Stat. 1962. |
 | 702(d) | 31:41(last sentence). |  |
 
-In subsection (a), the words “instrumentality of the United States Government” are substituted for “establishment of the Government” for consistency. The words “created . . . to be” and 31:41(2d, 3d sentences) are omitted as executed.
+In subsection (a), the words “instrumentality of the United States Government” are substituted for “establishment of the Government” for consistency. The words “created . . . to be” and 31:41(2d, 3d sentences) are omitted as executed.
 
 Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1st sentence words before comma) to eliminate unnecessary words and for consistency. The word “Deputy” is substituted for “Assistant” because of section 101 of the Act of July 9, 1971 (Pub. L. 92–51, 85 Stat. 143). The text of 31:1154(d)(1st sentence) and 1155(a) is omitted as unnecessary because the Comptroller General, as the head of the Office, has the authority to establish constituent parts of the Office to carry out duties and powers unless otherwise specified by law.
 
@@ -126,7 +126,7 @@ In subsection (c), the words “Administrator of General Services” are substit
 
 **Change of Name**
 
-Pub. L. 108–271, § 8, July 7, 2004, 118 Stat. 814, provided that:
+Pub. L. 108–271, § 8, July 7, 2004, 118 Stat. 814, provided that:
 
 > **“(a) In General.—** The General Accounting Office is hereby redesignated the Government Accountability Office.
 
@@ -134,7 +134,7 @@ Pub. L. 108–271, § 8, July 7, 2004, 118 Stat. 814, provided that:
 
 **Transfers and Terminations of Functions**
 
-Pub. L. 104–316, title I, § 101(a)–(d), Oct. 19, 1996, 110 Stat. 3826, 3827, provided that:
+Pub. L. 104–316, title I, § 101(a)–(d), Oct. 19, 1996, 110 Stat. 3826, 3827, provided that:
 
 > **“(a) In General.—**
 
@@ -168,7 +168,7 @@ Pub. L. 104–316, title I, § 101(a)–(d), Oct. 19, 1996, 110 Stat. 3826, 38
 
 **Contract Appeals Board**
 
-Pub. L. 110–161, div. H, title I, § 1501, Dec. 26, 2007, 121 Stat. 2249, as amended by Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that:
+Pub. L. 110–161, div. H, title I, § 1501, Dec. 26, 2007, 121 Stat. 2249, as amended by Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that:
 
 > **“(a) Definitions.—** In this section—
 
@@ -206,7 +206,7 @@ Pub. L. 110–161, div. H, title I, § 1501, Dec. 26, 2007, 121 Stat. 2249, as
 
 > **“(e) Effective Date.—** This section shall apply with respect to fiscal year 2008 and each fiscal year thereafter.”
 
-### § 703. Comptroller General and Deputy Comptroller General
+### § 703. Comptroller General and Deputy Comptroller General
 
 **(a)**
 
@@ -262,19 +262,19 @@ Pub. L. 110–161, div. H, title I, § 1501, Dec. 26, 2007, 121 Stat. 2249, as
 
 **(2)** Deputy Comptroller General is equal to the rate for level III of the Executive Schedule.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 888; Pub. L. 100–426, title II, § 201, Sept. 9, 1988, 102 Stat. 1599; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 888; Pub. L. 100–426, title II, § 201, Sept. 9, 1988, 102 Stat. 1599; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 703(a)(1) | 31:42(a)(1st sentence words after comma). | June 10, 1921, ch. 18, § 302(a)(1st sentence words after 1st comma, last sentence), 42 Stat. 23; Apr. 3, 1980, Pub. L. 96–226, § 104(a), 94 Stat. 314. |
-| 703(a)(2), (3) | 31:42(b). | June 10, 1921, ch. 18, 42 Stat. 20, § 302(b); added Apr. 3, 1980, Pub. L. 96–226, § 104(a), 94 Stat. 314. |
-| 703(b) | 31:43(1st par. 1st, 2d sentence). | June 10, 1921, ch. 18, § 303(1st par.), 42 Stat. 23; Apr. 3, 1980, Pub. L. 96–226, § 104(b)(1), 94 Stat. 315. |
+| 703(a)(1) | 31:42(a)(1st sentence words after comma). | June 10, 1921, ch. 18, § 302(a)(1st sentence words after 1st comma, last sentence), 42 Stat. 23; Apr. 3, 1980, Pub. L. 96–226, § 104(a), 94 Stat. 314. |
+| 703(a)(2), (3) | 31:42(b). | June 10, 1921, ch. 18, 42 Stat. 20, § 302(b); added Apr. 3, 1980, Pub. L. 96–226, § 104(a), 94 Stat. 314. |
+| 703(b) | 31:43(1st par. 1st, 2d sentence). | June 10, 1921, ch. 18, § 303(1st par.), 42 Stat. 23; Apr. 3, 1980, Pub. L. 96–226, § 104(b)(1), 94 Stat. 315. |
 | 703(c) | 31:42(a)(last sentence). |  |
-| 703(d) | 31:43a. | June 27, 1944, ch. 286, § 101(last par. on p. 371), 58 Stat. 371. |
+| 703(d) | 31:43a. | June 27, 1944, ch. 286, § 101(last par. on p. 371), 58 Stat. 371. |
 | 703(e) | 31:43(1st par. 3d–last sentences). |  |
-| 703(f) | 31:42a. | Aug. 14, 1964, Pub. L. 88–426, § 203(a), (b), 78 Stat. 415; Dec. 16, 1967, Pub. L. 90–206, § 219(1), 81 Stat. 639; restated Aug. 9, 1975, Pub. L. 94–82, § 204(b), 89 Stat. 421. |
+| 703(f) | 31:42a. | Aug. 14, 1964, Pub. L. 88–426, § 203(a), (b), 78 Stat. 415; Dec. 16, 1967, Pub. L. 90–206, § 219(1), 81 Stat. 639; restated Aug. 9, 1975, Pub. L. 94–82, § 204(b), 89 Stat. 421. |
 
 In subsections (a)(1), (b), (d), and (e), the word “Deputy” is substituted for “Assistant” because of section 101 of the Act of July 9, 1971 (Pub. L. 92–51, 85 Stat. 143).
 
@@ -284,7 +284,7 @@ In subsection (a)(2), before clause (A), the words “after April 3, 1980” are
 
 In subsection (a)(3), the words “because of a vacancy in the office of the Comptroller General” are substituted for “under paragraph (1)” for clarity. The word “recommend” is substituted for “submit” and “submitted” for consistency. The words “to the President for consideration the names of”, “for the Office of Comptroller General”, and “within his discretion” are omitted as surplus.
 
-In subsection (b), the words “the term of . . . is 15 years” are substituted for “shall hold office for fifteen years” for consistency. The words “eligible for” are omitted as surplus. The words “the term of . . . expires on” are substituted for “shall hold office from the date of his appointment until” to eliminate unnecessary words and for consistency. The words “to fill a vacancy in the Office of” are omitted as surplus.
+In subsection (b), the words “the term of . . . is 15 years” are substituted for “shall hold office for fifteen years” for consistency. The words “eligible for” are omitted as surplus. The words “the term of . . . expires on” are substituted for “shall hold office from the date of his appointment until” to eliminate unnecessary words and for consistency. The words “to fill a vacancy in the Office of” are omitted as surplus.
 
 In subsection (c), the words “carries out duties and powers prescribed” are substituted for “perform such duties as may be assigned” for consistency. The words “to him” are omitted as surplus.
 
@@ -326,7 +326,7 @@ Amendment by Pub. L. 100–426 effective after end of 60-day period beginning Se
 
 1969—Salaries of Comptroller General and Assistant Comptroller General increased respectively to $42,500 and $40,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
 
-### § 704. Relationship to other laws
+### § 704. Relationship to other laws
 
 **(a)** To the extent applicable, all laws generally related to administering an agency apply to the Comptroller General.
 
@@ -338,7 +338,7 @@ Amendment by Pub. L. 100–426 effective after end of 60-day period beginning Se
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 704(a) | 31:46(1st sentence). | June 10, 1921, ch. 18, § 306, 42 Stat. 24. |
+| 704(a) | 31:46(1st sentence). | June 10, 1921, ch. 18, § 306, 42 Stat. 24. |
 | 704(b) | 31:46(last sentence). |  |
 
 In the section, the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
@@ -347,7 +347,7 @@ In subsection (a), the word “agency” is substituted for “departments and e
 
 In subsection (b), the word “record” is substituted for “books, rec­ords, papers, or documents” for consistency in the revised title and with other titles of the United States Code.
 
-### § 705. Inspector General for the Government Accountability Office
+### § 705. Inspector General for the Government Accountability Office
 
 **(a) Establishment of Office.—** There is established an Office of the Inspector General in the Government Accountability Office, to—
 
@@ -475,31 +475,31 @@ In subsection (b), the word “record” is substituted for “books, rec­ords,
 
 **(i) Definition.—** As used in this section, the term “Federal agency” means a department, agency, instrumentality, or unit thereof, of the Federal Government.
 
-(Added Pub. L. 110–323, § 5(a), Sept. 22, 2008, 122 Stat. 3544; amended Pub. L. 118–131, § 2, Nov. 25, 2024, 138 Stat. 1641.)
+(Added Pub. L. 110–323, § 5(a), Sept. 22, 2008, 122 Stat. 3544; amended Pub. L. 118–131, § 2, Nov. 25, 2024, 138 Stat. 1641.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (b)(2). Pub. L. 118–131, § 2(1)(A), designated existing provisions as subpar. (A), struck out “The Comptroller General shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of Congress.” at end of subpar. (A), and added subpars. (B) to (D).
+2024—Subsec. (b)(2). Pub. L. 118–131, § 2(1)(A), designated existing provisions as subpar. (A), struck out “The Comptroller General shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of Congress.” at end of subpar. (A), and added subpars. (B) to (D).
 
-Subsecs. (b)(3), (4). Pub. L. 118–131, § 2(1)(B), (C), added par. (3) and redesignated former par. (3) as (4).
+Subsecs. (b)(3), (4). Pub. L. 118–131, § 2(1)(B), (C), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (f). Pub. L. 118–131, § 2(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (f). Pub. L. 118–131, § 2(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (g)(1). Pub. L. 118–131, § 2(3)(A), struck out “, except that no personnel of the Office may be paid at an annual rate greater than $1,000 less than the annual rate of pay of the Inspector General” after “competitive service”.
+Subsec. (g)(1). Pub. L. 118–131, § 2(3)(A), struck out “, except that no personnel of the Office may be paid at an annual rate greater than $1,000 less than the annual rate of pay of the Inspector General” after “competitive service”.
 
-Subsec. (g)(5). Pub. L. 118–131, § 2(3)(B), added par. (5).
+Subsec. (g)(5). Pub. L. 118–131, § 2(3)(B), added par. (5).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Incumbent**
 
-Pub. L. 110–323, § 5(b), Sept. 22, 2008, 122 Stat. 3547, provided that: “The individual who serves in the position of Inspector General of the Government Accountability Office on the date of the enactment of this Act [Sept. 22, 2008] shall continue to serve in such position subject to removal in accordance with the amendments made by this section [enacting this section].”
+Pub. L. 110–323, § 5(b), Sept. 22, 2008, 122 Stat. 3547, provided that: “The individual who serves in the position of Inspector General of the Government Accountability Office on the date of the enactment of this Act [Sept. 22, 2008] shall continue to serve in such position subject to removal in accordance with the amendments made by this section [enacting this section].”
 
 ## SUBCHAPTER II—GENERAL DUTIES AND POWERS
 
-### § 711. General authority
+### § 711. General authority
 
 The Comptroller General may—
 
@@ -511,18 +511,18 @@ The Comptroller General may—
 
 **(4)** administer oaths to witnesses when auditing and settling accounts.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 889; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 889; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 711 | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
-|  | 31:52(c), (d). | June 10, 1921, ch. 18, § 311(c), (d), 42 Stat. 25; Feb. 15, 1980, Pub. L. 96–191, § 8(e)(4), 94 Stat. 33. |
-|  | 31:52–1(related to direct). | Feb. 15, 1980, Pub. L. 96–191, § 2(related to direct), 94 Stat. 27. |
-|  | 31:117. | R.S. § 297. |
+| 711 | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
+|  | 31:52(c), (d). | June 10, 1921, ch. 18, § 311(c), (d), 42 Stat. 25; Feb. 15, 1980, Pub. L. 96–191, § 8(e)(4), 94 Stat. 33. |
+|  | 31:52–1(related to direct). | Feb. 15, 1980, Pub. L. 96–191, § 2(related to direct), 94 Stat. 27. |
+|  | 31:117. | R.S. § 297. |
 
-In clause (1), the words “may . . . prescribe regulations to carry out the duties and powers of the Comptroller General” are substituted for “shall make such rules and regulations as may be necessary for carrying on the work of the General Accounting Office” in 31:52(d) for consistency.
+In clause (1), the words “may . . . prescribe regulations to carry out the duties and powers of the Comptroller General” are substituted for “shall make such rules and regulations as may be necessary for carrying on the work of the General Accounting Office” in 31:52(d) for consistency.
 
 In clause (2), the word “delegate” is substituted for “direct” in 31:52–1, and the words “officers and employees” are substituted for “personnel”, and 31:52(c) is omitted, for consistency in the revised title and with other titles of the United States Code.
 
@@ -538,13 +538,13 @@ In clause (4), the words “in any case in which they may deem it necessary for 
 
 **Expired Appropriations Available for Deposit Into Employees’ Compensation Fund**
 
-Pub. L. 113–6, div. F, title VI, § 1611, Mar. 26, 2013, 127 Stat. 427, provided that:
+Pub. L. 113–6, div. F, title VI, § 1611, Mar. 26, 2013, 127 Stat. 427, provided that:
 
 > **“(a) In General.—** Available balances of expired Government Accountability Office appropriations shall be available to the Government Accountability Office to make the deposit to the credit of the Employees’ Compensation Fund required by section 8147(b) of title 5[,] United States Code.
 
 > **“(b) Effective Date.—** This section shall apply with respect to fiscal year 2013 and each fiscal year thereafter.”
 
-### § 712. Investigating the use of public money
+### § 712. Investigating the use of public money
 
 The Comptroller General shall—
 
@@ -564,15 +564,15 @@ The Comptroller General shall—
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 712(1) | 31:53(a)(1st sentence words before 5th comma). | June 10, 1921, ch. 18, § 312(a)(1st sentence words before 5th comma), (b), 42 Stat. 25. |
-| 712(2) | 31:59. | Aug. 2, 1946, ch. 753, §§ 205, 206(1st sentence), 60 Stat. 837. |
+| 712(1) | 31:53(a)(1st sentence words before 5th comma). | June 10, 1921, ch. 18, § 312(a)(1st sentence words before 5th comma), (b), 42 Stat. 25. |
+| 712(2) | 31:59. | Aug. 2, 1946, ch. 753, §§ 205, 206(1st sentence), 60 Stat. 837. |
 | 712(3) | 31:60(1st sentence). |  |
 | 712(4) | 31:53(b)(1st sentence). |  |
 | 712(5) | 31:53(b)(last sentence). |  |
 
 In clause (1), the words “at the seat of government or elsewhere” are omitted as surplus.
 
-In clause (2), the words “estimate the cost to the United States Government of complying with each restriction on expenditures” are substituted for “make a full and complete study of restrictions . . . limiting the expenditure therein with a view to determining the cost to the Government incident to complying with such restrictions”, and the word “desirable” is substituted for “necessary or desirable”, to eliminate unnecessary words.
+In clause (2), the words “estimate the cost to the United States Government of complying with each restriction on expenditures” are substituted for “make a full and complete study of restrictions . . . limiting the expenditure therein with a view to determining the cost to the Government incident to complying with such restrictions”, and the word “desirable” is substituted for “necessary or desirable”, to eliminate unnecessary words.
 
 In clause (3), the words “executive agency” are substituted for “agency in the executive branch of the Government (including Government corporations)” because of section 102 of the revised title.
 
@@ -584,7 +584,7 @@ In clause (5), the words “at the request of any such committee, direct assista
 
 **Oversight and Audit Authority**
 
-Pub. L. 116–136, div. B, title IX, § 19010, Mar. 27, 2020, 134 Stat. 579, as amended by Pub. L. 116–260, div. N, title II, § 282, Dec. 27, 2020, 134 Stat. 1984, provided that:
+Pub. L. 116–136, div. B, title IX, § 19010, Mar. 27, 2020, 134 Stat. 579, as amended by Pub. L. 116–260, div. N, title II, § 282, Dec. 27, 2020, 134 Stat. 1984, provided that:
 
 > **“(a) Definitions.—** In this section—
 
@@ -640,17 +640,17 @@ Pub. L. 116–136, div. B, title IX, § 19010, Mar. 27, 2020, 134 Stat. 579, a
 
 **Identification, Consolidation, and Elimination of Duplicative Government Programs**
 
-Pub. L. 111–139, title II, § 21, Feb. 12, 2010, 124 Stat. 29, provided that: “The Comptroller General of the Government Accountability Office shall conduct routine investigations to identify programs, agencies, offices, and initiatives with duplicative goals and activities within Departments and governmentwide and report annually to Congress on the findings, including the cost of such duplication and with recommendations for consolidation and elimination to reduce duplication identifying specific rescissions.”
+Pub. L. 111–139, title II, § 21, Feb. 12, 2010, 124 Stat. 29, provided that: “The Comptroller General of the Government Accountability Office shall conduct routine investigations to identify programs, agencies, offices, and initiatives with duplicative goals and activities within Departments and governmentwide and report annually to Congress on the findings, including the cost of such duplication and with recommendations for consolidation and elimination to reduce duplication identifying specific rescissions.”
 
 **Report on Tobacco Settlement Agreement**
 
-Pub. L. 107–171, title X, § 10908, May 13, 2002, 116 Stat. 538, provided that: “Not later than December 31, 2002, and annually thereafter through 2006, the Comptroller General shall submit to Congress a report that describes all programs and activities that States have carried out using funds received under all phases of the Master Settlement Agreement of 1997.”
+Pub. L. 107–171, title X, § 10908, May 13, 2002, 116 Stat. 538, provided that: “Not later than December 31, 2002, and annually thereafter through 2006, the Comptroller General shall submit to Congress a report that describes all programs and activities that States have carried out using funds received under all phases of the Master Settlement Agreement of 1997.”
 
-### § 713. Audit of Internal Revenue Service, Tax and Trade Bureau, and Bureau of Alcohol, Tobacco, Firearms, and Explosives
+### § 713. Audit of Internal Revenue Service, Tax and Trade Bureau, and Bureau of Alcohol, Tobacco, Firearms, and Explosives
 
 **(a)** Under regulations of the Comptroller General, the Comptroller General shall audit the Internal Revenue Service and the Tax and Trade Bureau, Department of the Treasury, and the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice of the Department of the Treasury.1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 An audit under this section does not affect a final decision of the Secretary of the Treasury under section 6406 of the Internal Revenue Code of 1986 (26 U.S.C. 6406).
 
@@ -666,13 +666,13 @@ An audit under this section does not affect a final decision of the Secretary of
 
 **(3)** Except as expressly provided by law, an officer or employee of the Office may make known information derived from a record or property of, or in use by, the Service or either Bureau that can identify a particular taxpayer only to another officer or employee of the Office whose duties or powers require that the record or property be made known.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 889; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–296, title XI, § 1112(m), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 889; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–296, title XI, § 1112(m), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 713(a) | 31:67(d)(1). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(d)(1)–(3); added Oct. 7, 1977, Pub. L. 95–125, § 1, 91 Stat. 1104. |
+| 713(a) | 31:67(d)(1). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(d)(1)–(3); added Oct. 7, 1977, Pub. L. 95–125, § 1, 91 Stat. 1104. |
 | 713(b)(1) | 31:67(d)(2)(1st sentence less proviso). |  |
 | 713(b)(2) | 31:67(d)(3). |  |
 | 713(b)(3) | 31:67(d)(2)(1st sentence proviso, last sentence). |  |
@@ -681,9 +681,9 @@ In subsection (a), the words “rules and” and “findings or” are omitted a
 
 In subsection (b)(1), before clause (A), the words “To carry out” are substituted for “For the purposes of, and to the extent necessary in, making the audits required by”, and the word “only” is substituted for “but notwithstanding the provisions of any other law”, to eliminate unnecessary words. The words “the requirements imposed by” are omitted as surplus. The words “Comptroller General” are substituted for “representatives of the General Accounting Office” for consistency. In clause (B), the word “records” is substituted for “books, accounts, financial records, reports, files, papers” for consistency in the revised title and with other titles of the United States Code. The words “other” and “things” are omitted as surplus.
 
-In subsection (b)(2), the words “in writing” and “pursuant to the provisions of paragraph (2) of this subsection” are omitted as surplus. The words “records or property of the Service or the Bureau” are substituted for “any information described in clause (B) of such paragraph (2)” for clarity. The words “in a form . . . be associated with or otherwise . . . directly or indirectly”, “such written”, and “promptly” are omitted as surplus.
+In subsection (b)(2), the words “in writing” and “pursuant to the provisions of paragraph (2) of this subsection” are omitted as surplus. The words “records or property of the Service or the Bureau” are substituted for “any information described in clause (B) of such paragraph (2)” for clarity. The words “in a form . . . be associated with or otherwise . . . directly or indirectly”, “such written”, and “promptly” are omitted as surplus.
 
-In subsection (b)(3), the words “divulge . . . in any manner whatever to any person” are omitted as surplus. The words “information derived from a record or property of, or in use by, the Service or the Bureau” are substituted for “any information described in clause (B)” for clarity and consistency. The words “in a form . . . be associated with or otherwise . . . directly or indirectly” are omitted as surplus. The word “powers” is substituted for “responsibilities” for consistency. The words “that the record or property be made known” are substituted for “such disclosure” for clarity. The text of 31:67(d)(2)(last sentence) is omitted as surplus.
+In subsection (b)(3), the words “divulge . . . in any manner whatever to any person” are omitted as surplus. The words “information derived from a record or property of, or in use by, the Service or the Bureau” are substituted for “any information described in clause (B)” for clarity and consistency. The words “in a form . . . be associated with or otherwise . . . directly or indirectly” are omitted as surplus. The word “powers” is substituted for “responsibilities” for consistency. The words “that the record or property be made known” are substituted for “such disclosure” for clarity. The text of 31:67(d)(2)(last sentence) is omitted as surplus.
 
 **Editorial Notes**
 
@@ -691,15 +691,15 @@ In subsection (b)(3), the words “divulge . . . in any manner whatever to a
 
 2004—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-2002—Pub. L. 107–296, § 1112(m)(1), substituted “, Tax and Trade Bureau, and Bureau of Alcohol, Tobacco, Firearms, and Explosives” for “and Bureau of Alcohol, Tobacco, and Firearms” in section catchline.
+2002—Pub. L. 107–296, § 1112(m)(1), substituted “, Tax and Trade Bureau, and Bureau of Alcohol, Tobacco, Firearms, and Explosives” for “and Bureau of Alcohol, Tobacco, and Firearms” in section catchline.
 
-Subsec. (a). Pub. L. 107–296, § 1112(m)(2), substituted “Tax and Trade Bureau, Department of the Treasury, and the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco, and Firearms,”.
+Subsec. (a). Pub. L. 107–296, § 1112(m)(2), substituted “Tax and Trade Bureau, Department of the Treasury, and the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco, and Firearms,”.
 
-Subsec. (b)(1)(B). Pub. L. 107–296, § 1112(m)(3)(A), substituted “or either Bureau” for “or the Bureau”.
+Subsec. (b)(1)(B). Pub. L. 107–296, § 1112(m)(3)(A), substituted “or either Bureau” for “or the Bureau”.
 
-Subsec. (b)(2). Pub. L. 107–296, § 1112(m)(3)(B), substituted “or either Bureau” for “or the Bureau” and “the Tax and Trade Bureau, Department of the Treasury, and the Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “and the Director of the Bureau”.
+Subsec. (b)(2). Pub. L. 107–296, § 1112(m)(3)(B), substituted “or either Bureau” for “or the Bureau” and “the Tax and Trade Bureau, Department of the Treasury, and the Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “and the Director of the Bureau”.
 
-Subsec. (b)(3). Pub. L. 107–296, § 1112(m)(3)(C), substituted “or either Bureau” for “or the Bureau”.
+Subsec. (b)(3). Pub. L. 107–296, § 1112(m)(3)(C), substituted “or either Bureau” for “or the Bureau”.
 
 1986—Subsecs. (a), (b)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
 
@@ -715,7 +715,7 @@ Committee on Government Operations of House of Representatives treated as referr
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-### § 714. Audit of Financial Institutions Examination Council, Federal Reserve Board, Federal reserve banks, Federal Deposit Insurance Corporation, and Office of Comptroller of the Currency
+### § 714. Audit of Financial Institutions Examination Council, Federal Reserve Board, Federal reserve banks, Federal Deposit Insurance Corporation, and Office of Comptroller of the Currency
 
 **(a)** In this section, “agency” means the Financial Institutions Examination Council, the Board of Governors of the Federal Reserve System (in this section referred to as the “Board”), Federal reserve banks, the Federal Deposit Insurance Corporation, and the Office of the Comptroller of the Currency.
 
@@ -759,17 +759,17 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 **(iii)** the officers, directors, employees, independent public accountants, financial advisors and any and all representatives of any entity described under clause (i) or (ii); to the extent that the access and request relates to that assistance;
 
-**(B)** The Comptroller General shall have access as provided under subparagraph (A) at such time as the Comptroller General may request. The Comptroller General may make and retain copies of books, accounts, and other records provided under subparagraph (A) as the Comptroller General deems appropriate. The Comptroller General shall provide to any person or entity described in subparagraph (A) a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out a 1
+**(B)** The Comptroller General shall have access as provided under subparagraph (A) at such time as the Comptroller General may request. The Comptroller General may make and retain copies of books, accounts, and other records provided under subparagraph (A) as the Comptroller General deems appropriate. The Comptroller General shall provide to any person or entity described in subparagraph (A) a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out a 1
 
-<sup>1</sup>  So in original. Probably should be “an”.
+<sup>1</sup> So in original. Probably should be “an”.
 
 audit or examination under this subsection.
 
 **(C)** Each contract, term sheet, or other agreement between the Board or any Federal reserve bank (or any entity established by the Board or any Federal reserve bank) and an entity receiving assistance from any action taken by the Board described under subsection (e) or (f) shall provide for access by the Comptroller General in accordance with this paragraph.
 
-**(e)** Notwithstanding subsection (b), the Comptroller General may conduct audits, including onsite examinations when the Comptroller General determines such audits and examinations are appropriate, of any action taken by the Board under the third undesignated paragraph of section 13 2
+**(e)** Notwithstanding subsection (b), the Comptroller General may conduct audits, including onsite examinations when the Comptroller General determines such audits and examinations are appropriate, of any action taken by the Board under the third undesignated paragraph of section 13 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of the Federal Reserve Act (12 U.S.C. 343); with respect to a single and specific partnership or corporation.
 
@@ -809,13 +809,13 @@ of the Federal Reserve Act (12 U.S.C. 343); with respect to a single and specifi
 
 **(v) Release of covered transaction information.—** The Comptroller General shall release a nonredacted version of any report regarding covered transactions upon the release of the information regarding such covered transactions by the Board of Governors of the Federal Reserve System, as provided in section 11(s) of the Federal Reserve Act.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 890; Pub. L. 101–73, title III, § 307(c), Aug. 9, 1989, 103 Stat. 353; Pub. L. 104–316, title I, § 115(a), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–22, div. A, title VIII, § 801, May 20, 2009, 123 Stat. 1662; Pub. L. 111–203, title III, § 378(2), title XI, § 1102, July 21, 2010, 124 Stat. 1570, 2115.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 890; Pub. L. 101–73, title III, § 307(c), Aug. 9, 1989, 103 Stat. 353; Pub. L. 104–316, title I, § 115(a), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–22, div. A, title VIII, § 801, May 20, 2009, 123 Stat. 1662; Pub. L. 111–203, title III, § 378(2), title XI, § 1102, July 21, 2010, 124 Stat. 1570, 2115.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 714(a) | 31:67(e)(2). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(e)(1)–(5), (7); added July 21, 1978, Pub. L. 95–320, § 2, 92 Stat. 391; Nov. 10, 1978, Pub. L. 95–630, § 1010, 92 Stat. 3696. |
+| 714(a) | 31:67(e)(2). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(e)(1)–(5), (7); added July 21, 1978, Pub. L. 95–320, § 2, 92 Stat. 391; Nov. 10, 1978, Pub. L. 95–630, § 1010, 92 Stat. 3696. |
 | 714(b) | 31:67(e)(1), (3), (4). |  |
 | 714(c) | 31:67(e)(5). |  |
 | 714(d) | 31:67(e)(7). |  |
@@ -832,7 +832,7 @@ In subsection (c)(2), the words “An officer or employee of the Office” are s
 
 In subsection (c)(3), the words “or subcommittee of the” are omitted as surplus. The words “authorized to have the information” are substituted for “duly authorized” for clarity.
 
-In subsection (d)(1), the words “To carry out this section, all rec­ords and property of or used by an agency . . . shall be made available to the Comptroller General” are substituted for 31:67(e)(7)(A)(words before 11th comma) for consistency in the revised title and with other titles of the Code and to eliminate unnecessary words. The words “without deletions” are omitted as surplus. The words “from whatever source” and “whether or not a part of the reports” are omitted as surplus. The words “shall have the authority to authorize Office personnel to conduct such audits and to have access to agency materials described in subparagraph (A) and” are omitted because of sections 702(b) and 711 of the revised title. The words “records and property” are substituted for “such agency materials” for clarity and consistency.
+In subsection (d)(1), the words “To carry out this section, all rec­ords and property of or used by an agency . . . shall be made available to the Comptroller General” are substituted for 31:67(e)(7)(A)(words before 11th comma) for consistency in the revised title and with other titles of the Code and to eliminate unnecessary words. The words “without deletions” are omitted as surplus. The words “from whatever source” and “whether or not a part of the reports” are omitted as surplus. The words “shall have the authority to authorize Office personnel to conduct such audits and to have access to agency materials described in subparagraph (A) and” are omitted because of sections 702(b) and 711 of the revised title. The words “records and property” are substituted for “such agency materials” for clarity and consistency.
 
 In subsection (d)(2), the words “records and property of or used by an agency” are substituted for “agency materials described in subparagraph (A)” for consistency. The words “The Comptroller General shall prevent unauthorized access to records or property” are substituted for 31:67(e)(7)(D)(last sentence) for clarity.
 
@@ -846,35 +846,35 @@ Section 11(s) of the Federal Reserve Act, referred to in subsec. (f)(1)(B), (3)(
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 378(2), substituted “and the Office of the Comptroller of the Currency.” for “the Office of the Comptroller of the Currency, and the Office of Thrift Supervision.”
+2010—Subsec. (a). Pub. L. 111–203, § 378(2), substituted “and the Office of the Comptroller of the Currency.” for “the Office of the Comptroller of the Currency, and the Office of Thrift Supervision.”
 
-Subsec. (d)(2). Pub. L. 111–203, § 1102(b)(1), inserted “or any person or entity described in paragraph (3)(A)” after “used by an agency”.
+Subsec. (d)(2). Pub. L. 111–203, § 1102(b)(1), inserted “or any person or entity described in paragraph (3)(A)” after “used by an agency”.
 
-Subsec. (d)(3). Pub. L. 111–203, § 1102(b)(2), inserted “or (f)” after “subsection (e)” wherever appearing.
+Subsec. (d)(3). Pub. L. 111–203, § 1102(b)(2), inserted “or (f)” after “subsection (e)” wherever appearing.
 
-Subsec. (d)(3)(A)(i). Pub. L. 111–203, § 1102(b)(3), inserted “or the Federal Reserve banks” after “by the Board”.
+Subsec. (d)(3)(A)(i). Pub. L. 111–203, § 1102(b)(3), inserted “or the Federal Reserve banks” after “by the Board”.
 
-Subsec. (d)(3)(A)(ii). Pub. L. 111–203, § 1102(b)(3), (4), inserted “participating in or” after “any entity” and “or the Federal Reserve banks” after “by the Board”.
+Subsec. (d)(3)(A)(ii). Pub. L. 111–203, § 1102(b)(3), (4), inserted “participating in or” after “any entity” and “or the Federal Reserve banks” after “by the Board”.
 
-Subsec. (d)(3)(B). Pub. L. 111–203, § 1102(b)(5), inserted at end “The Comptroller General may make and retain copies of books, accounts, and other records provided under subparagraph (A) as the Comptroller General deems appropriate. The Comptroller General shall provide to any person or entity described in subparagraph (A) a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out a audit or examination under this subsection.”
+Subsec. (d)(3)(B). Pub. L. 111–203, § 1102(b)(5), inserted at end “The Comptroller General may make and retain copies of books, accounts, and other records provided under subparagraph (A) as the Comptroller General deems appropriate. The Comptroller General shall provide to any person or entity described in subparagraph (A) a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out a audit or examination under this subsection.”
 
-Subsec. (f). Pub. L. 111–203, § 1102(a), added subsec. (f).
+Subsec. (f). Pub. L. 111–203, § 1102(a), added subsec. (f).
 
-2009—Subsec. (a). Pub. L. 111–22, § 801(a)(1), substituted “Board of Governors of the Federal Reserve System (in this section referred to as the ‘Board’),” for “Federal Reserve Board,”.
+2009—Subsec. (a). Pub. L. 111–22, § 801(a)(1), substituted “Board of Governors of the Federal Reserve System (in this section referred to as the ‘Board’),” for “Federal Reserve Board,”.
 
-Subsec. (b). Pub. L. 111–22, § 801(a)(2)(A), which directed substitution of “Board” for “Federal Reserve Board,” in introductory provisions, was executed by making the substitution for “Federal Reserve Board” to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 111–22, § 801(a)(2)(A), which directed substitution of “Board” for “Federal Reserve Board,” in introductory provisions, was executed by making the substitution for “Federal Reserve Board” to reflect the probable intent of Congress.
 
-Subsec. (b)(4). Pub. L. 111–22, § 801(a)(2)(B), struck out “of Governors” after “Board”.
+Subsec. (b)(4). Pub. L. 111–22, § 801(a)(2)(B), struck out “of Governors” after “Board”.
 
-Subsec. (c)(3), (4). Pub. L. 111–22, § 801(b), added pars. (3) and (4) and struck out former par. (3) which read as follows: “This subsection does not authorize an officer or employee of an agency to withhold information from a committee of Congress authorized to have the information.”
+Subsec. (c)(3), (4). Pub. L. 111–22, § 801(b), added pars. (3) and (4) and struck out former par. (3) which read as follows: “This subsection does not authorize an officer or employee of an agency to withhold information from a committee of Congress authorized to have the information.”
 
-Subsec. (d)(1). Pub. L. 111–22, § 801(c)(1), inserted after first sentence “The Comptroller General shall have access to the officers, employees, contractors, and other agents and representatives of an agency and any entity established by an agency at any reasonable time as the Comptroller General may request. The Comptroller General may make and retain copies of such books, accounts, and other records as the Comptroller General determines appropriate.”
+Subsec. (d)(1). Pub. L. 111–22, § 801(c)(1), inserted after first sentence “The Comptroller General shall have access to the officers, employees, contractors, and other agents and representatives of an agency and any entity established by an agency at any reasonable time as the Comptroller General may request. The Comptroller General may make and retain copies of such books, accounts, and other records as the Comptroller General determines appropriate.”
 
-Subsec. (d)(2). Pub. L. 111–22, § 801(c)(2), inserted “, copies of any record,” after “records”.
+Subsec. (d)(2). Pub. L. 111–22, § 801(c)(2), inserted “, copies of any record,” after “records”.
 
-Subsec. (d)(3). Pub. L. 111–22, § 801(c)(3), added par. (3).
+Subsec. (d)(3). Pub. L. 111–22, § 801(c)(3), added par. (3).
 
-Subsec. (e). Pub. L. 111–22, § 801(d), added subsec. (e).
+Subsec. (e). Pub. L. 111–22, § 801(d), added subsec. (e).
 
 2004—Subsec. (c)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -890,9 +890,9 @@ Amendment by section 378(2) of Pub. L. 111–203 effective on the transfer date,
 
 Amendment by section 1102 of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-### § 715. Audit of accounts and operations of the District of Columbia government
+### § 715. Audit of accounts and operations of the District of Columbia government
 
-**(a)** In addition to the audit carried out under section 455 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 803; D.C. Code, § 47–117), the Comptroller General each year shall audit the accounts and operations of the District of Columbia government. An audit shall be carried out according to principles, under regulations, and in a way the Comptroller General prescribes. When prescribing the procedures to follow and the extent of the inspection of records, the Comptroller General shall consider generally accepted principles of auditing, including the effectiveness of accounting organizations and systems, internal audit and control, and related administrative practices.
+**(a)** In addition to the audit carried out under section 455 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 803; D.C. Code, § 47–117), the Comptroller General each year shall audit the accounts and operations of the District of Columbia government. An audit shall be carried out according to principles, under regulations, and in a way the Comptroller General prescribes. When prescribing the procedures to follow and the extent of the inspection of records, the Comptroller General shall consider generally accepted principles of auditing, including the effectiveness of accounting organizations and systems, internal audit and control, and related administrative practices.
 
 **(b)** The Comptroller General shall submit each audit report to Congress and (other than the audit reports of the District of Columbia Courts) the Mayor and Council of the District of Columbia. The report shall include the scope of an audit, information the Comptroller General considers necessary to keep Congress, the Mayor, and the Council informed of operations audited, and recommendations the Comptroller General considers advisable.
 
@@ -906,13 +906,13 @@ Amendment by section 1102 of Pub. L. 111–203 effective 1 day after July 21, 20
 
 **(e)** Not later than March 1 of each year, the Comptroller General shall submit to the Committee on the District of Columbia of the House of Representatives and the Subcommittee on General Services, Federalism, and the District of Columbia of the Committee on Governmental Affairs of the Senate a review of the report of the breakdown of the independently audited revenues of the District of Columbia for the preceding fiscal year by revenues derived from the Federal Government and revenues derived from sources other than the Federal Government that is included in the independent annual audit of the funds of the District of Columbia conducted for such fiscal year.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 891; Pub. L. 102–102, § 2(c)(2), Aug. 17, 1991, 105 Stat. 496; Pub. L. 105–33, title XI, §§ 11244(b), 11717(b), Aug. 5, 1997, 111 Stat. 754, 786.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 891; Pub. L. 102–102, § 2(c)(2), Aug. 17, 1991, 105 Stat. 496; Pub. L. 105–33, title XI, §§ 11244(b), 11717(b), Aug. 5, 1997, 111 Stat. 754, 786.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 715(a) | 31:61(a)(1st, 2d sentences). | Dec. 24, 1973, Pub. L. 93–198, § 736, 87 Stat. 823. |
+| 715(a) | 31:61(a)(1st, 2d sentences). | Dec. 24, 1973, Pub. L. 93–198, § 736, 87 Stat. 823. |
 | 715(b) | 31:61(b)(1). |  |
 | 715(c)(1) | 31:61(b)(3). |  |
 | 715(c)(2) | 31:61(b)(2). |  |
@@ -924,15 +924,15 @@ In subsection (b), the words “of the District of Columbia” are added for cla
 
 In subsection (c)(2), the words “After the Council receives the statement of the Mayor” are substituted for “After the Mayor has had an opportunity to be heard”, and the words “of the Comptroller General” are added, for clarity. The word “thereto” is omitted as surplus.
 
-In subsection (d), the words “To carry out this section” are added for clarity. The words “records and property of or used by . . . shall be made available to the Comptroller General” are substituted for 31:61(a)(last sentence 1st–30th words) for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words. The words “of Columbia government” are added for consistency. The words “The Mayor shall provide facilities to carry out an audit” are substituted for 31:61(a)(last sentence words after last comma) for clarity.
+In subsection (d), the words “To carry out this section” are added for clarity. The words “records and property of or used by . . . shall be made available to the Comptroller General” are substituted for 31:61(a)(last sentence 1st–30th words) for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words. The words “of Columbia government” are added for consistency. The words “The Mayor shall provide facilities to carry out an audit” are substituted for 31:61(a)(last sentence words after last comma) for clarity.
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Subsec. (a). Pub. L. 105–33, § 11717(b), substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
+1997—Subsec. (a). Pub. L. 105–33, § 11717(b), substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
 
-Subsec. (b). Pub. L. 105–33, § 11244(b), substituted “and (other than the audit reports of the District of Columbia Courts) the Mayor” for “and the Mayor”.
+Subsec. (b). Pub. L. 105–33, § 11244(b), substituted “and (other than the audit reports of the District of Columbia Courts) the Mayor” for “and the Mayor”.
 
 1991—Subsec. (e). Pub. L. 102–102 added subsec. (e).
 
@@ -948,17 +948,17 @@ Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provid
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–102, § 2(e), Aug. 17, 1991, 105 Stat. 496, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 17, 1991].”
+Pub. L. 102–102, § 2(e), Aug. 17, 1991, 105 Stat. 496, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 17, 1991].”
 
 **Termination of Reporting Requirements**
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit annual audit reports to Congress under subsec. (b) of this section is listed on page 4), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit annual audit reports to Congress under subsec. (b) of this section is listed on page 4), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 **Abolition of House Committee on the District of Columbia**
 
 Committee on the District of Columbia of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on the District of Columbia treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 716. Availability of information and inspection of records
+### § 716. Availability of information and inspection of records
 
 **(a)**
 
@@ -1010,14 +1010,14 @@ Committee on the District of Columbia of House of Representatives abolished by H
 
 **(3)** This section does not authorize information to be withheld from Congress.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 892; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 115–3, § 2(c), Jan. 31, 2017, 131 Stat. 7.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 892; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 115–3, § 2(c), Jan. 31, 2017, 131 Stat. 7.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 716(a) | 31:54(a). | June 10, 1921, ch. 18, § 313(a), 42 Stat. 26; Apr. 3, 1980, Pub. L. 96–226, § 102, 94 Stat. 312. |
-| 716(b) | 31:54(b). | June 10, 1921, ch. 18, 42 Stat. 20, § 313(b)–(f); added Apr. 3, 1980, Pub. L. 96–226, § 102, 94 Stat. 312. |
+| 716(a) | 31:54(a). | June 10, 1921, ch. 18, § 313(a), 42 Stat. 26; Apr. 3, 1980, Pub. L. 96–226, § 102, 94 Stat. 312. |
+| 716(b) | 31:54(b). | June 10, 1921, ch. 18, 42 Stat. 20, § 313(b)–(f); added Apr. 3, 1980, Pub. L. 96–226, § 102, 94 Stat. 312. |
 | 716(c) | 31:54(c). |  |
 | 716(d) | 31:54(d). |  |
 | 716(e) | 31:54(e), (f). |  |
@@ -1026,7 +1026,7 @@ In the section, the word “records” is substituted for “books, documents, p
 
 In subsections (a) and (b), the word “agency” is substituted for “departments and establishments” because of section 701 of the revised title.
 
-In subsection (a), the words “methods of business” are omitted as surplus. The words “or any of his assistants or employees, when duly authorized by him” are omitted because of sections 702(b) and 711 of the revised title. The word “inspect” is substituted for “shall . . . have access to and the right to examine” for consistency. The cross reference to section 3524 is added for clarity.
+In subsection (a), the words “methods of business” are omitted as surplus. The words “or any of his assistants or employees, when duly authorized by him” are omitted because of sections 702(b) and 711 of the revised title. The word “inspect” is substituted for “shall . . . have access to and the right to examine” for consistency. The cross reference to section 3524 is added for clarity.
 
 In subsection (b)(1), the words “to the Comptroller General” are substituted for “access to” for clarity and consistency. The words “in his discretion”, “in addition to subsection (a)”, “a period of”, and “to the written request of the Comptroller General” are omitted as surplus. The words “or any of his designated assistants or employees” are omitted because of sections 702(b) and 711 of the revised title.
 
@@ -1034,11 +1034,11 @@ In subsection (b)(2), before clause (A), the words “bring a civil action” ar
 
 In subsection (b)(3), the words “head of the agency” are substituted for “defendant official” for consistency.
 
-In subsection (c)(1), the words “require by . . . the production of” are omitted as surplus. The words “person not in the United States Government” are substituted for “contractors, subcontractors, or other non-Federal persons” for consistency and to eliminate unnecessary words. The words “from whom access is sought”, “in the case of service by certified or registered mail”, and “post office” are omitted as surplus.
+In subsection (c)(1), the words “require by . . . the production of” are omitted as surplus. The words “person not in the United States Government” are substituted for “contractors, subcontractors, or other non-Federal persons” for consistency and to eliminate unnecessary words. The words “from whom access is sought”, “in the case of service by certified or registered mail”, and “post office” are omitted as surplus.
 
 In subsection (c)(2), the words “judicial district” are substituted for “jurisdiction of any district court of the United States” for consistency and to eliminate unnecessary words. The words “contumacy or” are omitted as surplus. The words “may bring a civil action” are substituted for “upon application made by” to conform to rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
-In subsection (d)(1), before clause (A), the words “requiring the production of material” are omitted as surplus. In clause (C), the words “in writing”, “consists of matters which . . . from disclosure”, “United States Code”, “of such material to the Comptroller General”, and “Federal” are omitted as surplus.
+In subsection (d)(1), before clause (A), the words “requiring the production of material” are omitted as surplus. In clause (C), the words “in writing”, “consists of matters which . . . from disclosure”, “United States Code”, “of such material to the Comptroller General”, and “Federal” are omitted as surplus.
 
 In subsection (e)(1), the words “the head of” are added for consistency. The words “from which such material was obtained” are omitted as surplus.
 
@@ -1050,7 +1050,7 @@ In subsection (e)(1), the words “the head of” are added for consistency. The
 
 2004—Subsec. (e)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-### § 717. Evaluating programs and activities of the United States Government
+### § 717. Evaluating programs and activities of the United States Government
 
 **(a)** In this section, “agency” means a department, agency, or instrumentality of the United States Government (except a mixed-ownership Government corporation) or the District of Columbia government.
 
@@ -1080,8 +1080,8 @@ In subsection (e)(1), the words “the head of” are added for consistency. The
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 717(a) | 31:1157. | Oct. 26, 1970, Pub. L. 91–510, § 207, 84 Stat. 1168. |
-| 717(b) | 31:1154(a). | Oct. 26, 1970, Pub. L. 91–510, § 204(a)–(c), 84 Stat. 1168; restated July 12, 1974, Pub. L. 93–344, § 702(a), 88 Stat. 326. |
+| 717(a) | 31:1157. | Oct. 26, 1970, Pub. L. 91–510, § 207, 84 Stat. 1168. |
+| 717(b) | 31:1154(a). | Oct. 26, 1970, Pub. L. 91–510, § 204(a)–(c), 84 Stat. 1168; restated July 12, 1974, Pub. L. 93–344, § 702(a), 88 Stat. 326. |
 | 717(c) | 31:1154(c). |  |
 | 717(d) | 31:1154(b). |  |
 
@@ -1095,7 +1095,7 @@ In subsection (d)(1), before clause (A), the words “committee of Congress” a
 
 In subsection (d)(2), the word “Congress” is substituted for “either House” for clarity. The words “statement or other” are omitted as surplus.
 
-### § 718. Availability of draft reports
+### § 718. Availability of draft reports
 
 **(a)** A draft report of an audit under section 714 of this title shall be submitted to the Financial Institutions Examination Council, the Federal Reserve Board, the Federal Deposit Insurance Corporation, or the Office of the Comptroller of the Currency for comment for 30 days.
 
@@ -1125,8 +1125,8 @@ In subsection (d)(2), the word “Congress” is substituted for “either House
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 718(a) | 31:67(e)(6)(B)(1st sentence). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(e)(6)(B); added July 21, 1978, Pub. L. 95–320, § 2, 92 Stat. 392. |
-| 718(b)(1) | 31:53(f)(1), (2). | June 10, 1921, ch. 18, 42 Stat. 20, § 312(f); added Apr. 3, 1980, Pub. L. 96–226, § 103, 94 Stat. 314. |
+| 718(a) | 31:67(e)(6)(B)(1st sentence). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(e)(6)(B); added July 21, 1978, Pub. L. 95–320, § 2, 92 Stat. 392. |
+| 718(b)(1) | 31:53(f)(1), (2). | June 10, 1921, ch. 18, 42 Stat. 20, § 312(f); added Apr. 3, 1980, Pub. L. 96–226, § 103, 94 Stat. 314. |
 | 718(b)(2) | 31:53(f)(3). |  |
 | 718(b)(3) | 31:53(f)(5). |  |
 | 718(c)(1) | 31:53(f)(4)(A). |  |
@@ -1153,7 +1153,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 719. Comptroller General reports
+### § 719. Comptroller General reports
 
 **(a)** At the beginning of each regular session of Congress, the Comptroller General shall report to Congress (and to the President when requested by the President) on the work of the Comptroller General. A report shall include recommendations on—
 
@@ -1167,9 +1167,9 @@ Committee on Government Operations of House of Representatives treated as referr
 
 **(A)** a review of activities under sections 717(b)–(d) and 731(e)(2) of this title, including recommendations under section 717(c) of this title;
 
-**(B)** information on carrying out duties and powers of the Comptroller General under clauses (A) and (C) of this paragraph, subsections (g) and (h) 1
+**(B)** information on carrying out duties and powers of the Comptroller General under clauses (A) and (C) of this paragraph, subsections (g) and (h) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this section, and sections 717, 731(e)(2), 734, 1112, and 1113 of this title; and
 
@@ -1227,23 +1227,23 @@ of this section, and sections 717, 731(e)(2), 734, 1112, and 1113 of this title;
 
 **(2)** in its consideration of proposed legislation.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 894; Pub. L. 104–316, title I, § 115(b), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 105–85, div. A, title X, § 1044, Nov. 18, 1997, 111 Stat. 1887; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–188, title IX, § 902(b), Nov. 26, 2014, 128 Stat. 2021.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 894; Pub. L. 104–316, title I, § 115(b), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 105–85, div. A, title X, § 1044, Nov. 18, 1997, 111 Stat. 1887; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–188, title IX, § 902(b), Nov. 26, 2014, 128 Stat. 2021.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 719(a) | 31:53(a)(1st sentence words after 5th comma). | June 10, 1921, ch. 18, § 312(a)(1st sentence words after 5th comma, last sentence), (c)–(e), 42 Stat. 25. |
-| 719(b)(1) (A) | 31:1154(e). | Oct. 26, 1970, Pub. L. 91–510, § 204(e), 84 Stat. 1168; restated July 12, 1974, Pub. L. 93–344, § 702(a), 88 Stat. 326. |
-| 719(b)(1) (B) | 31:1155(b). | Oct. 26, 1970, Pub. L. 91–510, §§ 205(b), 207, 231–234, 235(b), 84 Stat. 1168, 1170, 1171. |
+| 719(a) | 31:53(a)(1st sentence words after 5th comma). | June 10, 1921, ch. 18, § 312(a)(1st sentence words after 5th comma, last sentence), (c)–(e), 42 Stat. 25. |
+| 719(b)(1) (A) | 31:1154(e). | Oct. 26, 1970, Pub. L. 91–510, § 204(e), 84 Stat. 1168; restated July 12, 1974, Pub. L. 93–344, § 702(a), 88 Stat. 326. |
+| 719(b)(1) (B) | 31:1155(b). | Oct. 26, 1970, Pub. L. 91–510, §§ 205(b), 207, 231–234, 235(b), 84 Stat. 1168, 1170, 1171. |
 | 719(b)(1) (C) | 31:1175(b). |  |
 | 719(b)(2) | 31:53(a)(last sentence). |  |
 | 719(c)(1) | 31:53(c). |  |
 | 719(c)(2) | 31:53(d). |  |
-| 719(c)(3) | 31:67(d)(4)(1st sentence). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(d)(4); added Oct. 7, 1977, Pub. L. 95–125, 91 Stat. 1105. |
-|  | 31:67(e)(6)(A). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(e)(6)(A); added July 21, 1978, Pub. L. 95–320, § 2, 92 Stat. 392. |
+| 719(c)(3) | 31:67(d)(4)(1st sentence). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(d)(4); added Oct. 7, 1977, Pub. L. 95–125, 91 Stat. 1105. |
+|  | 31:67(e)(6)(A). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(e)(6)(A); added July 21, 1978, Pub. L. 95–320, § 2, 92 Stat. 392. |
 | 719(d) | 31:67(d)(4)(last sentence). |  |
-| 719(e) | 31:60(last sentence). | Aug. 2, 1946, ch. 753, § 206(last sentence), 60 Stat. 837. |
+| 719(e) | 31:60(last sentence). | Aug. 2, 1946, ch. 753, § 206(last sentence), 60 Stat. 837. |
 | 719(f) | 31:53(e). |  |
 | 719(g) | 31:1157. |  |
 |  | 31:1172. |  |
@@ -1261,7 +1261,7 @@ In subsection (c), the word “agency” is substituted for “department or est
 
 In subsection (d), before clause (1), the word “written” is omitted as surplus. In clause (1), the words “Comptroller General, the Commissioner of Internal Revenue, and the Director of the Bureau of Alcohol, Tobacco, and Firearms” are substituted for “General Accounting Office, the Internal Revenue Service, and the Bureau of Alcohol, Tobacco, and Firearms” for consistency. In clauses (2) and (3), the words “or other examination or review” are omitted as surplus.
 
-In subsections (e) and (g), the words “Governmental Affairs . . . of the Senate” are substituted for “Government Operations . . . of the two Houses” in 31:60(last sentence) and “Government Operations of the . . . Senate” in 31:1172 because of Rule 25.1(k) of the Standing Rules of the Senate (S. Doc. 96–1, 96th Cong., 1st Sess.).
+In subsections (e) and (g), the words “Governmental Affairs . . . of the Senate” are substituted for “Government Operations . . . of the two Houses” in 31:60(last sentence) and “Government Operations of the . . . Senate” in 31:1172 because of Rule 25.1(k) of the Standing Rules of the Senate (S. Doc. 96–1, 96th Cong., 1st Sess.).
 
 In subsection (e), the words “carried out under section 712(3) of this title” are added because of the restatement. The words “legislative” before “committees”, and “respective”, are omitted as surplus. The words “executive agency” are substituted for “agencies” because of section 102 of the revised title.
 
@@ -1269,7 +1269,7 @@ In subsection (f), the word “President” is substituted for “Office of Mana
 
 In subsection (g), before clause (1), the words “Comptroller General” are substituted for “General Accounting Office” in 31:1172 for consistency. In clause (3), the words “committee of Congress” are substituted for “other committee of the House or Senate, or any joint committee of the two Houses” for consistency and to eliminate unnecessary words. The words in the parentheses are included for consistency with section 101 of the revised title. The word “establishment” in 31:1157 is omitted as surplus. Clause (4) is substituted for 31:1173 to eliminate unnecessary words.
 
-In subsection (h)(1), the words “once . . . calendar”, “of the General Accounting Office”, “immediately”, and “cumulative” are omitted as surplus.
+In subsection (h)(1), the words “once . . . calendar”, “of the General Accounting Office”, “immediately”, and “cumulative” are omitted as surplus.
 
 In subsection (h)(2), the words “committee of Congress” are substituted for “committee of the House or Senate, each joint committee of the two Houses” for consistency and to eliminate unnecessary words. The words “member of Congress” are substituted for “Member of the House or Senate, and the Resident Commissioner from Puerto Rico” for consistency and to eliminate unnecessary words. The words “On request, the Comptroller General promptly shall provide a copy of a report to a committee or member” are substituted for 31:1174(last sentence) to eliminate unnecessary words.
 
@@ -1279,7 +1279,7 @@ In subsection (i), before clause (1), the words “committee of Congress” are 
 
 **References in Text**
 
-Subsections (g) and (h) of this section, referred to in subsec. (b)(1)(B), were redesignated subsecs. (f) and (g), respectively, by Pub. L. 104–316, title I, § 115(b)(2), Oct. 19, 1996, 110 Stat. 3834.
+Subsections (g) and (h) of this section, referred to in subsec. (b)(1)(B), were redesignated subsecs. (f) and (g), respectively, by Pub. L. 104–316, title I, § 115(b)(2), Oct. 19, 1996, 110 Stat. 3834.
 
 **Amendments**
 
@@ -1307,11 +1307,11 @@ Committee on Government Operations of House of Representatives treated as referr
 
 **Termination of Reporting Requirements**
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsecs. (a) and (g)(2) (1st sentence) of this section are listed on pages 9 and 7, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsecs. (a) and (g)(2) (1st sentence) of this section are listed on pages 9 and 7, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 **Reporting Requirements**
 
-Pub. L. 117–263, div. G, title LXXII, § 7211, Dec. 23, 2022, 136 Stat. 3668, provided that:
+Pub. L. 117–263, div. G, title LXXII, § 7211, Dec. 23, 2022, 136 Stat. 3668, provided that:
 
 > **“(a) In General.—** The Comptroller General of the United States shall, as part of the Comptroller General’s annual reporting to committees of Congress—
 
@@ -1325,7 +1325,7 @@ Pub. L. 117–263, div. G, title LXXII, § 7211, Dec. 23, 2022, 136 Stat. 3668
 
 > **“(b) Rule of Construction.—** Nothing in this section shall be construed to require reporting relating to unimplemented priority recommendations or any other report, recommendation, information, or item relating to any element of the intelligence community, as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).”
 
-Pub. L. 108–271, § 11, July 7, 2004, 118 Stat. 815, provided that:
+Pub. L. 108–271, § 11, July 7, 2004, 118 Stat. 815, provided that:
 
 > **“(a) Annual Reports.—** The Comptroller General shall include—
 
@@ -1365,7 +1365,7 @@ Pub. L. 108–271, § 11, July 7, 2004, 118 Stat. 815, provided that:
 
 **GAO Voluntary Early Retirement and Separation Incentives: Reporting Requirements**
 
-Pub. L. 106–303, § 6, Oct. 13, 2000, 114 Stat. 1069, provided that:
+Pub. L. 106–303, § 6, Oct. 13, 2000, 114 Stat. 1069, provided that:
 
 > **“(a) Annual Reports.—** The Comptroller General shall include in each report submitted to Congress under section 719(a) of title 31, United States Code, during the 5-year period beginning on the date of the enactment of this Act [Oct. 13, 2000]—
 
@@ -1395,7 +1395,7 @@ Pub. L. 106–303, § 6, Oct. 13, 2000, 114 Stat. 1069, provided that:
 
 > **“(c) Preference Eligible Defined.—** For purposes of this section, the term ‘preference eligible’ has the meaning given such term under section 2108(3) of title 5, United States Code.”
 
-### § 720. Agency reports
+### § 720. Agency reports
 
 **(a)** In this section, “agency” means a department, agency, or instrumentality of the United States Government (except a mixed-ownership Government corporation) or the District of Columbia government.
 
@@ -1405,30 +1405,30 @@ Pub. L. 106–303, § 6, Oct. 13, 2000, 114 Stat. 1069, provided that:
 
 **(2)** the Committees on Appropriations of both Houses of Congress in the first request for appropriations submitted more than 180 days after the date of the report.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 896; Pub. L. 115–3, § 2(b), Jan. 31, 2017, 131 Stat. 7; Pub. L. 115–414, § 3, Jan. 3, 2019, 132 Stat. 5431.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 896; Pub. L. 115–3, § 2(b), Jan. 31, 2017, 131 Stat. 7; Pub. L. 115–414, § 3, Jan. 3, 2019, 132 Stat. 5431.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 720(a) | 31:1157. | Oct. 26, 1970, Pub. L. 91–510, §§ 207, 236, 84 Stat. 1168, 1171. |
+| 720(a) | 31:1157. | Oct. 26, 1970, Pub. L. 91–510, §§ 207, 236, 84 Stat. 1168, 1171. |
 | 720(b) | 31:1176. |  |
 
-In subsection (a), the words “As used . . . the term”, “Federal”, and “establishment” are omitted as surplus. The words in parentheses are included for consistency with section 101 of the revised title.
+In subsection (a), the words “As used . . . the term”, “Federal”, and “establishment” are omitted as surplus. The words in parentheses are included for consistency with section 101 of the revised title.
 
-In subsection (b), before clause (1), the words “Comptroller General” are substituted for “General Accounting Office”, and the words “head of the” are added, for consistency. The word “written” is omitted as surplus. In clause (1), the words “Governmental Affairs of the Senate” are substituted for “Government Operations of the . . . Senate” because of Rule 25.1(k) of the Standing Rules of the Senate (S. Doc. 96–1, 96th Cong., 1st Sess.). In clause (2), the words “both Houses of Congress” are substituted for “the House of Representatives and the Senate” for consistency. The words “connection with”, “for that agency”, and “to the Congress” are omitted as surplus.
+In subsection (b), before clause (1), the words “Comptroller General” are substituted for “General Accounting Office”, and the words “head of the” are added, for consistency. The word “written” is omitted as surplus. In clause (1), the words “Governmental Affairs of the Senate” are substituted for “Government Operations of the . . . Senate” because of Rule 25.1(k) of the Standing Rules of the Senate (S. Doc. 96–1, 96th Cong., 1st Sess.). In clause (2), the words “both Houses of Congress” are substituted for “the House of Representatives and the Senate” for consistency. The words “connection with”, “for that agency”, and “to the Congress” are omitted as surplus.
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (b)(1). Pub. L. 115–414, § 3(1), substituted “181st” for “61st”.
+2019—Subsec. (b)(1). Pub. L. 115–414, § 3(1), substituted “181st” for “61st”.
 
-Subsec. (b)(2). Pub. L. 115–414, § 3(2), substituted “180” for “60”.
+Subsec. (b)(2). Pub. L. 115–414, § 3(2), substituted “180” for “60”.
 
-2017—Subsec. (b). Pub. L. 115–3, § 2(b)(1), inserted “or planned” after “action taken” in introductory provisions.
+2017—Subsec. (b). Pub. L. 115–3, § 2(b)(1), inserted “or planned” after “action taken” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 115–3, § 2(b)(2), added par. (1) and struck out former par. (1) which read as follows: “the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives before the 61st day after the date of the report; and”.
+Subsec. (b)(1). Pub. L. 115–3, § 2(b)(2), added par. (1) and struck out former par. (1) which read as follows: “the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives before the 61st day after the date of the report; and”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1436,23 +1436,23 @@ Subsec. (b)(1). Pub. L. 115–3, § 2(b)(2), added par. (1) and struck out for
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 721. Access to certain information
+### § 721. Access to certain information
 
 **(a)** No provision of the Social Security Act, including section 453(*l*) of that Act (42 U.S.C. 653(*l*)), shall be construed to limit, amend, or supersede the authority of the Comptroller General to obtain any information or to inspect any record under section 716 of this title.
 
 **(b)** The specific reference to a statute in subsection (a) shall not be construed to affect access by the Government Accountability Office to information under statutes that are not so referenced.
 
-(Added Pub. L. 115–3, § 2(a), Jan. 31, 2017, 131 Stat. 7.)
+(Added Pub. L. 115–3, § 2(a), Jan. 31, 2017, 131 Stat. 7.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 ## SUBCHAPTER III—PERSONNEL
 
-### § 731. General
+### § 731. General
 
 **(a)** The Comptroller General may appoint, pay, assign, and remove officers (except the Deputy Comptroller General) and employees the Comptroller General decides are necessary to carry out the duties and powers of the Government Accountability Office.
 
@@ -1460,7 +1460,7 @@ The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 5
 
 **(c)** The annual rate of basic pay of the General Counsel of the Government Accountability Office is equal to the rate for level IV of the Executive Schedule.
 
-**[(d)** Repealed. Pub. L. 110–323, § 9(a)(1), Sept. 22, 2008, 122 Stat. 3548.]
+**[(d)** Repealed. Pub. L. 110–323, § 9(a)(1), Sept. 22, 2008, 122 Stat. 3548.]
 
 **(e)** The Comptroller General may procure the services of experts and consultants under section 3109 of title 5 at rates not in excess of the daily rate for level IV of the Executive Schedule, except that the services of not more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable.
 
@@ -1510,21 +1510,21 @@ The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 5
 
 **(k) Federal Government Details.—** The activities of the Government Accountability Office may, in the reasonable discretion of the Comptroller General, be carried out by receiving details of personnel from other offices of the Federal Government on a reimbursable, partially-reimbursable, or nonreimbursable basis.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 896; Pub. L. 98–326, § 1(a), June 22, 1984, 98 Stat. 269; Pub. L. 98–615, title II, § 204(b), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, § 3(b)(4), Sept. 30, 1993, 107 Stat. 983; Pub. L. 106–303, § 5, Oct. 13, 2000, 114 Stat. 1069; Pub. L. 108–271, §§ 5–7, 8(b), July 7, 2004, 118 Stat. 813, 814; Pub. L. 110–323, § 9(a), Sept. 22, 2008, 122 Stat. 3548; Pub. L. 111–350, § 5(h)(2), Jan. 4, 2011, 124 Stat. 3849; Pub. L. 114–113, div. I, title I, § 1301(a), Dec. 18, 2015, 129 Stat. 2671; Pub. L. 117–286, § 4(c)(35), Dec. 27, 2022, 136 Stat. 4358.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 896; Pub. L. 98–326, § 1(a), June 22, 1984, 98 Stat. 269; Pub. L. 98–615, title II, § 204(b), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, § 3(b)(4), Sept. 30, 1993, 107 Stat. 983; Pub. L. 106–303, § 5, Oct. 13, 2000, 114 Stat. 1069; Pub. L. 108–271, §§ 5–7, 8(b), July 7, 2004, 118 Stat. 813, 814; Pub. L. 110–323, § 9(a), Sept. 22, 2008, 122 Stat. 3548; Pub. L. 111–350, § 5(h)(2), Jan. 4, 2011, 124 Stat. 3849; Pub. L. 114–113, div. I, title I, § 1301(a), Dec. 18, 2015, 129 Stat. 2671; Pub. L. 117–286, § 4(c)(35), Dec. 27, 2022, 136 Stat. 4358.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 731(a) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
-|  | 31:52(a), (b). | June 10, 1921, ch. 18, § 311(a), (b), 42 Stat. 25; restated Feb. 15, 1980, Pub. L. 96–191, § 8(e)(3), 94 Stat. 33. |
-|  | 31:52–1(related to appointment, pay, and assignment). | Feb. 15, 1980, Pub. L. 96–191, §§ 2(related to appointment, pay, and assignment), 5(b), 94 Stat. 27, 32. |
-|  | 31:56. | Mar. 4, 1909, ch. 297, § 1(proviso on p. 866), 35 Stat 866; May 29, 1920, ch. 214, § 1(last par. under heading “Office of Comptroller of the Treasury”), 41 Stat. 647. |
+| 731(a) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
+|  | 31:52(a), (b). | June 10, 1921, ch. 18, § 311(a), (b), 42 Stat. 25; restated Feb. 15, 1980, Pub. L. 96–191, § 8(e)(3), 94 Stat. 33. |
+|  | 31:52–1(related to appointment, pay, and assignment). | Feb. 15, 1980, Pub. L. 96–191, §§ 2(related to appointment, pay, and assignment), 5(b), 94 Stat. 27, 32. |
+|  | 31:56. | Mar. 4, 1909, ch. 297, § 1(proviso on p. 866), 35 Stat 866; May 29, 1920, ch. 214, § 1(last par. under heading “Office of Comptroller of the Treasury”), 41 Stat. 647. |
 | 731(b) | 31:52–4(b). |  |
-| 731(c) | 31:51a. | Aug. 14, 1964, Pub. L. 88–426, § 203(c)(5th–14th words), 78 Stat. 415; Dec. 16, 1967, Pub. L. 90–206, § 219(2), 81 Stat. 639; restated Aug. 9, 1975, Pub. L. 94–82, § 204(b), 89 Stat. 421. |
-| 731(d) | 31:52b. | Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 400, § 203(i); added Dec. 15, 1971, Pub. L. 92–190, 85 Stat. 646. |
-| 731(e) | 31:52c. | Jan. 2, 1975, Pub. L. 93–604, § 401, 88 Stat. 1962. |
-|  | 31:1154(d)(last sentence). | Oct. 26, 1970, Pub. L. 91–510, § 204(d)(last sentence), 84 Stat. 1168; restated July 12, 1974, Pub. L. 93–344, § 702(a), 88 Stat. 326. |
+| 731(c) | 31:51a. | Aug. 14, 1964, Pub. L. 88–426, § 203(c)(5th–14th words), 78 Stat. 415; Dec. 16, 1967, Pub. L. 90–206, § 219(2), 81 Stat. 639; restated Aug. 9, 1975, Pub. L. 94–82, § 204(b), 89 Stat. 421. |
+| 731(d) | 31:52b. | Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 400, § 203(i); added Dec. 15, 1971, Pub. L. 92–190, 85 Stat. 646. |
+| 731(e) | 31:52c. | Jan. 2, 1975, Pub. L. 93–604, § 401, 88 Stat. 1962. |
+|  | 31:1154(d)(last sentence). | Oct. 26, 1970, Pub. L. 91–510, § 204(d)(last sentence), 84 Stat. 1168; restated July 12, 1974, Pub. L. 93–344, § 702(a), 88 Stat. 326. |
 
 In subsection (a), the text of 31:52(a) and (b) and 31:56 is omitted as superseded by the other source provisions restated in this subchapter and subchapter IV of this chapter. The word “remove” is added for consistency with other provisions of the subchapter. The words “officers (except the Deputy Comptroller General) and employees” are substituted for “personnel” in 31:52–1, and the word “powers” is substituted for “functions”, for consistency in the revised title and with other titles of the United States Code.
 
@@ -1534,7 +1534,7 @@ In subsections (c) and (d), the words “basic pay” are substituted for “com
 
 In subsection (c), the words “United States” and “positions at” are omitted as surplus.
 
-In subsection (d), the words “in the General Accounting Office”, “prescribed . . . under section 5315 of title 5”, and “of the Office” are omitted as surplus.
+In subsection (d), the words “in the General Accounting Office”, “prescribed . . . under section 5315 of title 5”, and “of the Office” are omitted as surplus.
 
 In subsection (e), before clause (1), the words “procure the services of” are substituted for “employ” for consistency with 5:3109. The words “at rates not in excess of the maximum daily rate prescribed for GS–18 under section 5332 of title 5 for persons in the Government service employed intermittently” are omitted as unnecessary because of 5:3109. In clause (1), the word “periods” is omitted as surplus. Clause (2) is substituted for 31:1154(d)(last sentence) to eliminate unnecessary words. The words “and consultants” are added because of 5:3109.
 
@@ -1542,7 +1542,7 @@ In subsection (e), before clause (1), the words “procure the services of” ar
 
 **References in Text**
 
-Section 5401 of title 5, referred to in subsec. (b), was repealed by Pub. L. 103–89, § 3(a)(1), Sept. 30, 1993, 107 Stat. 981.
+Section 5401 of title 5, referred to in subsec. (b), was repealed by Pub. L. 103–89, § 3(a)(1), Sept. 30, 1993, 107 Stat. 981.
 
 Level IV of the Executive Schedule, referred to in subsecs. (c) and (e), is set out in section 5315 of Title 5, Government Organization and Employees.
 
@@ -1558,29 +1558,29 @@ Section 1043 of the Internal Revenue Code of 1986, referred to in subsec. (i)(6)
 
 2011—Subsec. (i)(7). Pub. L. 111–350 substituted “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423)”.
 
-2008—Subsec. (d). Pub. L. 110–323, § 9(a)(1), struck out subsec. (d) which read as follows: “When a change in organization, management responsibility, or workload makes it necessary, the Comptroller General may fix the rate of basic pay of 5 positions at rates not more than the rate for level IV of the Executive Schedule.”
+2008—Subsec. (d). Pub. L. 110–323, § 9(a)(1), struck out subsec. (d) which read as follows: “When a change in organization, management responsibility, or workload makes it necessary, the Comptroller General may fix the rate of basic pay of 5 positions at rates not more than the rate for level IV of the Executive Schedule.”
 
-Subsec. (e). Pub. L. 110–323, § 9(a)(2), substituted “daily rate for level IV of the Executive Schedule” for “maximum daily rate for GS–18 under section 5332 of such title” and “more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable.” for “more than—
+Subsec. (e). Pub. L. 110–323, § 9(a)(2), substituted “daily rate for level IV of the Executive Schedule” for “maximum daily rate for GS–18 under section 5332 of such title” and “more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable.” for “more than—
 
 “(1) 15 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable; and
 
 “(2) 10 experts and consultants may be procured permanently, temporarily, or intermittently to carry out sections 717(b)–(d) and 719(b)(1)(A) of this title at rates that are not more than the rate for level IV of the Executive Schedule.”
 
-Subsec. (j). Pub. L. 110–323, § 9(a)(3), added subsec. (j).
+Subsec. (j). Pub. L. 110–323, § 9(a)(3), added subsec. (j).
 
-2004—Subsecs. (a), (c). Pub. L. 108–271, § 8(b), substituted “Government Accountability Office” for “General Accounting Office”.
+2004—Subsecs. (a), (c). Pub. L. 108–271, § 8(b), substituted “Government Accountability Office” for “General Accounting Office”.
 
-Subsec. (f). Pub. L. 108–271, § 5, added subsec. (f).
+Subsec. (f). Pub. L. 108–271, § 5, added subsec. (f).
 
-Subsec. (g). Pub. L. 108–271, § 6, added subsec. (g).
+Subsec. (g). Pub. L. 108–271, § 6, added subsec. (g).
 
-Subsecs. (h), (i). Pub. L. 108–271, § 7, added subsecs. (h) and (i).
+Subsecs. (h), (i). Pub. L. 108–271, § 7, added subsecs. (h) and (i).
 
-2000—Subsec. (e)(1). Pub. L. 106–303, § 5(1), substituted “terms of not more than 3 years, but which shall be renewable” for “not more than 3 years”.
+2000—Subsec. (e)(1). Pub. L. 106–303, § 5(1), substituted “terms of not more than 3 years, but which shall be renewable” for “not more than 3 years”.
 
-Subsec. (e)(2). Pub. L. 106–303, § 5(2), substituted “level IV” for “level V”.
+Subsec. (e)(2). Pub. L. 106–303, § 5(2), substituted “level IV” for “level V”.
 
-1993—Subsec. (b). Pub. L. 103–89 inserted before period at end “, as in effect on October 31, 1993”.
+1993—Subsec. (b). Pub. L. 103–89 inserted before period at end “, as in effect on October 31, 1993”.
 
 1984—Subsec. (b). Pub. L. 98–615 substituted “section 5401 of title 5” for “section 5401(a) of title 5”.
 
@@ -1590,11 +1590,11 @@ Subsec. (e). Pub. L. 98–236 substituted “title 5 at rates not in excess of t
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. I, title I, § 1301(b), Dec. 18, 2015, 129 Stat. 2671, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2016 and each succeeding fiscal year.”
+Pub. L. 114–113, div. I, title I, § 1301(b), Dec. 18, 2015, 129 Stat. 2671, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2016 and each succeeding fiscal year.”
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–271, § 13, July 7, 2004, 118 Stat. 816, provided that:
+Pub. L. 108–271, § 13, July 7, 2004, 118 Stat. 816, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), this Act [see Tables for classification] and the amendments made by this Act shall take effect on the date of enactment of this Act [July 7, 2004].
 
@@ -1620,15 +1620,15 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 **Effective Date of 1984 Amendments**
 
-Pub. L. 98–615, title II, § 205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
+Pub. L. 98–615, title II, § 205, Nov. 8, 1984, 98 Stat. 3217, provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
 
-Pub. L. 98–326, § 2, June 22, 1984, 98 Stat. 269, provided that: “The amendments made by this Act [amending this section and sections 732 and 733 of this title] shall take effect beginning on October 1, 1984.”
+Pub. L. 98–326, § 2, June 22, 1984, 98 Stat. 269, provided that: “The amendments made by this Act [amending this section and sections 732 and 733 of this title] shall take effect beginning on October 1, 1984.”
 
 **Consultation**
 
-Pub. L. 108–271, § 10, July 7, 2004, 118 Stat. 815, provided that: “Before the implementation of any changes authorized under this Act [see Tables for classification], the Comptroller General shall consult with any interested groups or associations representing officers and employees of the General Accounting Office [now Government Accountability Office].”
+Pub. L. 108–271, § 10, July 7, 2004, 118 Stat. 815, provided that: “Before the implementation of any changes authorized under this Act [see Tables for classification], the Comptroller General shall consult with any interested groups or associations representing officers and employees of the General Accounting Office [now Government Accountability Office].”
 
-### § 732. Personnel management system
+### § 732. Personnel management system
 
 **(a)** The Comptroller General shall maintain a personnel management system. The Comptroller General may prescribe a regulation about the system only after notice and opportunity for public comment. A reprisal or threat of reprisal may not be made against an officer or employee of the Government Accountability Office because of comments on a proposed regulation about the system.
 
@@ -1668,9 +1668,9 @@ Pub. L. 108–271, § 10, July 7, 2004, 118 Stat. 815, provided that: “Befor
 
 notwithstanding any other provision of this paragraph, an adjustment under this paragraph shall not be applied in the case of any officer or employee whose performance is not at a satisfactory level, as determined by the Comptroller General for purposes of such adjustment;
 
-**(4)** the pay schedule for officers and employees of the Office may provide that the basic pay rates for not more than 129 positions (including senior-level positions under section 732a of this title) may be at rates not more than the rate of basic pay payable for grade GS–18 of the General Schedule, less the number of positions in the General Accounting Office Senior Executive Service 1
+**(4)** the pay schedule for officers and employees of the Office may provide that the basic pay rates for not more than 129 positions (including senior-level positions under section 732a of this title) may be at rates not more than the rate of basic pay payable for grade GS–18 of the General Schedule, less the number of positions in the General Accounting Office Senior Executive Service 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 under section 733 of this title (except positions included in the Service under section 733(c) of this title and senior-level positions described in section 732a(b) of this title); and
 
@@ -1682,9 +1682,9 @@ under section 733 of this title (except positions included in the Service under 
 
 **(d)** The personnel management system shall provide—
 
-**(1)** for a system to appraise the performance of officers and employees of the General Accounting Office 2
+**(1)** for a system to appraise the performance of officers and employees of the General Accounting Office 2
 
-<sup>2</sup>  So in original. Probably should be “Government Accountability Office”.
+<sup>2</sup> So in original. Probably should be “Government Accountability Office”.
 
 that meets the requirements of section 4302 of title 5 and in addition includes—
 
@@ -1722,7 +1722,7 @@ that meets the requirements of section 4302 of title 5 and in addition includes�
 
 **(2)** This subchapter and subchapter IV of this chapter do not affect a right or remedy of an officer, employee, or applicant for employment under a law prohibiting discrimination in employment in the Government on the basis of race, color, religion, age, sex, national origin, political affiliation, marital status, or handicapping condition. However, for officers, employees, or applicants in the Government Accountability Office—
 
-**(A)** the General Accounting Office Personnel Appeals Board <sup>1</sup> has the same authority over oversight and appeals matters as an executive agency has over oversight and appeals matters; and
+**(A)** the General Accounting Office Personnel Appeals Board <sup>1</sup> has the same authority over oversight and appeals matters as an executive agency has over oversight and appeals matters; and
 
 **(B)** the Comptroller General has the same authority over matters (except oversight and appeals) as an executive agency has over matters (except oversight and appeals).
 
@@ -1750,13 +1750,13 @@ that meets the requirements of section 4302 of title 5 and in addition includes�
 
 **(vi)** other objective factors such as skills and knowledge that the Comptroller General considers necessary and appropriate to realign the agency’s workforce in order to meet current and future mission needs, to correct skill imbalances, or to reduce high-grade, managerial, or supervisory positions.
 
-**(C)** Notwithstanding subparagraph (B), the regulations relating to removal from the General Accounting Office Senior Executive Service <sup>1</sup> in a reduction in force or other adjustment in force shall be consistent with section 3595(a) of title 5.
+**(C)** Notwithstanding subparagraph (B), the regulations relating to removal from the General Accounting Office Senior Executive Service <sup>1</sup> in a reduction in force or other adjustment in force shall be consistent with section 3595(a) of title 5.
 
 **(2)**
 
-**(A)** The regulations shall provide a right of appeal to the General Accounting Office Personnel Appeals Board <sup>1</sup> regarding a personnel action under the regulations, consistent with section 753 of this title.
+**(A)** The regulations shall provide a right of appeal to the General Accounting Office Personnel Appeals Board <sup>1</sup> regarding a personnel action under the regulations, consistent with section 753 of this title.
 
-**(B)** The regulations shall provide that final decision by the General Accounting Office Personnel Appeals Board <sup>1</sup> may be reviewed by the United States Court of Appeals for the Federal Circuit consistent with section 755 of this title.
+**(B)** The regulations shall provide that final decision by the General Accounting Office Personnel Appeals Board <sup>1</sup> may be reviewed by the United States Court of Appeals for the Federal Circuit consistent with section 755 of this title.
 
 **(3)**
 
@@ -1808,13 +1808,13 @@ that meets the requirements of section 4302 of title 5 and in addition includes�
 
 **(3)** Notwithstanding any other provision of this chapter, the effective date of any pay increase (within the meaning of paragraph (1)(A)) taking effect with respect to a covered officer or employee in any year shall be the same as the effective date of any adjustment taking effect under section 5303 of title 5 with respect to statutory pay systems (as defined by section 5302(1) of title 5) in such year.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 897; Pub. L. 98–326, § 1(b), June 22, 1984, 98 Stat. 269; Pub. L. 100–426, title III, §§ 302, 303, Sept. 9, 1988, 102 Stat. 1602; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(2)(B)], Nov. 5, 1990, 104 Stat. 1427, 1439; Pub. L. 104–53, title II, § 212(a), Nov. 19, 1995, 109 Stat. 535; Pub. L. 106–303, §§ 3(a)(1), (b)(1), 4(a)(2), Oct. 13, 2000, 114 Stat. 1066, 1068, 1069; Pub. L. 108–271, §§ 3(a), (c), 4, 8(b), 9, 12, July 7, 2004, 118 Stat. 812, 814, 816; Pub. L. 110–323, §§ 2(a), 8, Sept. 22, 2008, 122 Stat. 3539, 3548.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 897; Pub. L. 98–326, § 1(b), June 22, 1984, 98 Stat. 269; Pub. L. 100–426, title III, §§ 302, 303, Sept. 9, 1988, 102 Stat. 1602; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(2)(B)], Nov. 5, 1990, 104 Stat. 1427, 1439; Pub. L. 104–53, title II, § 212(a), Nov. 19, 1995, 109 Stat. 535; Pub. L. 106–303, §§ 3(a)(1), (b)(1), 4(a)(2), Oct. 13, 2000, 114 Stat. 1066, 1068, 1069; Pub. L. 108–271, §§ 3(a), (c), 4, 8(b), 9, 12, July 7, 2004, 118 Stat. 812, 814, 816; Pub. L. 110–323, §§ 2(a), 8, Sept. 22, 2008, 122 Stat. 3539, 3548.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 732(a) | 31:52–2(a). | Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32. |
+| 732(a) | 31:52–2(a). | Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32. |
 |  | 31:52–5(b). |  |
 | 732(b) | 31:52–2(b)(1), (c)(1st sentence). |  |
 | 732(c) | 31:52–2(c)(last sentence). |  |
@@ -1830,7 +1830,7 @@ In subsection (a), the words “not later than October 1, 1980” and 31:52–5(
 
 In subsection (b)(1), the words “merit system” are omitted as surplus. In clause (5), the words “of the United States Government” are added for consistency. In clause (6), the words “the principles of” are omitted as surplus.
 
-In subsection (c)(2), the words “payable . . . under the General Schedule” are omitted as surplus. In clause (4), the words “not more than 100 positions” are substituted for “up to one hundred employees” for consistency. The words “payable . . . grade . . . of the General Schedule” are omitted as surplus. In clause (5), the words “the principles of” are omitted as surplus.
+In subsection (c)(2), the words “payable . . . under the General Schedule” are omitted as surplus. In clause (4), the words “not more than 100 positions” are substituted for “up to one hundred employees” for consistency. The words “payable . . . grade . . . of the General Schedule” are omitted as surplus. In clause (5), the words “the principles of” are omitted as surplus.
 
 In subsection (d)(2), the words “Director of” are added for consistency. The text of 31:52–2(d)(last sentence) is omitted as executed. In clause (4), the words “the taking of” are omitted as surplus.
 
@@ -1838,7 +1838,7 @@ In subsections (e)–(g), the word “management” is added for consistency.
 
 In subsection (f)(1), the words “in the General Accounting Office” are omitted as surplus.
 
-In subsection (f)(2), before clause (A), the word “affect” is substituted for “abolish or diminish” to eliminate unnecessary words. The words “in the General Accounting Office by section 717 of the Civil Rights Act of 1964, by sections 12 and 15 of the Age Discrimination in Employment Act of 1967, by section 6(d) of the Fair Labor Standards Act of 1938, by sections 501 and 505 of the Rehabilitation Act of 1973, or . . . other” are omitted as surplus. In clauses (A) and (B), the words “has the same authority . . . as . . . has” are substituted for “authorities granted thereunder to . . . shall be exercised by” for clarity. The words “the Equal Employment Opportunity Commission, Office of Personnel Management, the Merit Systems Protection Board, or . . . other” are omitted as surplus. In clause (A), the words “established by section 52–3” are omitted as surplus.
+In subsection (f)(2), before clause (A), the word “affect” is substituted for “abolish or diminish” to eliminate unnecessary words. The words “in the General Accounting Office by section 717 of the Civil Rights Act of 1964, by sections 12 and 15 of the Age Discrimination in Employment Act of 1967, by section 6(d) of the Fair Labor Standards Act of 1938, by sections 501 and 505 of the Rehabilitation Act of 1973, or . . . other” are omitted as surplus. In clauses (A) and (B), the words “has the same authority . . . as . . . has” are substituted for “authorities granted thereunder to . . . shall be exercised by” for clarity. The words “the Equal Employment Opportunity Commission, Office of Personnel Management, the Merit Systems Protection Board, or . . . other” are omitted as surplus. In clause (A), the words “established by section 52–3” are omitted as surplus.
 
 In subsection (f)(3), the word “affect” is substituted for “prohibits or restricts” for consistency.
 
@@ -1856,39 +1856,39 @@ Section 4(c)(1) of the Government Accountability Office Act of 2008, referred to
 
 **Amendments**
 
-2008—Subsec. (c)(2). Pub. L. 110–323, § 8, substituted “rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5” for “highest basic rate for GS–15”.
+2008—Subsec. (c)(2). Pub. L. 110–323, § 8, substituted “rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5” for “highest basic rate for GS–15”.
 
-Subsec. (j). Pub. L. 110–323, § 2(a), added subsec. (j).
+Subsec. (j). Pub. L. 110–323, § 2(a), added subsec. (j).
 
-2004—Subsec. (a). Pub. L. 108–271, § 8(b), substituted “Government Accountability Office” for “General Accounting Office”.
+2004—Subsec. (a). Pub. L. 108–271, § 8(b), substituted “Government Accountability Office” for “General Accounting Office”.
 
-Subsec. (b)(6). Pub. L. 108–271, § 3(c), substituted “title 5, except as provided under subsection (c)(3) of this section and section 733(a)(3)(B) of this title” for “title 5”.
+Subsec. (b)(6). Pub. L. 108–271, § 3(c), substituted “title 5, except as provided under subsection (c)(3) of this section and section 733(a)(3)(B) of this title” for “title 5”.
 
-Subsec. (c)(3). Pub. L. 108–271, § 3(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “except as provided under section 733(a)(3)(B) of this title or section 5349(a) of title 5, basic pay rates of officers and employees of the Office shall be adjusted at the same time and to the same extent as basic pay rates of the General Schedule are adjusted;”.
+Subsec. (c)(3). Pub. L. 108–271, § 3(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “except as provided under section 733(a)(3)(B) of this title or section 5349(a) of title 5, basic pay rates of officers and employees of the Office shall be adjusted at the same time and to the same extent as basic pay rates of the General Schedule are adjusted;”.
 
-Subsec. (c)(5). Pub. L. 108–271, § 4, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “officers and employees of the Office are entitled to grade and basic pay retention consistent with subchapter VI of chapter 53 of title 5.”
+Subsec. (c)(5). Pub. L. 108–271, § 4, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “officers and employees of the Office are entitled to grade and basic pay retention consistent with subchapter VI of chapter 53 of title 5.”
 
-Subsec. (d)(1). Pub. L. 108–271, § 4, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “for a system to appraise the performance of officers and employees of the General Accounting Office that meets the requirements of section 4302 of title 5;”.
+Subsec. (d)(1). Pub. L. 108–271, § 4, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “for a system to appraise the performance of officers and employees of the General Accounting Office that meets the requirements of section 4302 of title 5;”.
 
-Subsecs. (e)(1), (f)(2) (introductory provisions), (g), (h)(1)(A). Pub. L. 108–271, § 8(b), substituted “Government Accountability Office” for “General Accounting Office”.
+Subsecs. (e)(1), (f)(2) (introductory provisions), (g), (h)(1)(A). Pub. L. 108–271, § 8(b), substituted “Government Accountability Office” for “General Accounting Office”.
 
-Subsec. (h)(3)(A). Pub. L. 108–271, § 12, substituted “reduction in force” for “reduction force”.
+Subsec. (h)(3)(A). Pub. L. 108–271, § 12, substituted “reduction in force” for “reduction force”.
 
-Subsec. (i). Pub. L. 108–271, § 8(b), substituted “Government Accountability Office” for “General Accounting Office”.
+Subsec. (i). Pub. L. 108–271, § 8(b), substituted “Government Accountability Office” for “General Accounting Office”.
 
-2000—Subsec. (c)(4). Pub. L. 106–303, § 4(a)(2), inserted “(including senior-level positions under section 732a of this title)” after “129 positions” and substituted “733(c) of this title and senior-level positions described in section 732a(b) of this title);” for “733(c) of this title);”.
+2000—Subsec. (c)(4). Pub. L. 106–303, § 4(a)(2), inserted “(including senior-level positions under section 732a of this title)” after “129 positions” and substituted “733(c) of this title and senior-level positions described in section 732a(b) of this title);” for “733(c) of this title);”.
 
-Subsec. (h). Pub. L. 106–303, § 3(a)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Notwithstanding the provisions of subchapter I of chapter 35 of title 5, United States Code, the Comptroller General shall prescribe regulations for the release of officers and employees of the General Accounting Office in a reduction in force which give due effect to tenure of employment, military preference, performance and/or contributions to the agency’s goals and objectives, and length of service. The regulations shall, to the extent deemed feasible by the Comptroller General, be designed to minimize disruption to the Office and to assist in promoting the efficiency of the Office.”
+Subsec. (h). Pub. L. 106–303, § 3(a)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Notwithstanding the provisions of subchapter I of chapter 35 of title 5, United States Code, the Comptroller General shall prescribe regulations for the release of officers and employees of the General Accounting Office in a reduction in force which give due effect to tenure of employment, military preference, performance and/or contributions to the agency’s goals and objectives, and length of service. The regulations shall, to the extent deemed feasible by the Comptroller General, be designed to minimize disruption to the Office and to assist in promoting the efficiency of the Office.”
 
-Subsec. (i). Pub. L. 106–303, § 3(b)(1), added subsec. (i).
+Subsec. (i). Pub. L. 106–303, § 3(b)(1), added subsec. (i).
 
 1995—Subsec. (h). Pub. L. 104–53 added subsec. (h).
 
 1990—Subsec. (b)(6). Pub. L. 101–509 substituted “5301” for “5301(a)”.
 
-1988—Subsec. (c)(3). Pub. L. 100–426, § 303, substituted “under section 733(a)(3)(B) of this title or section 5349(a) of title 5” for “in section 733(a)(3)(B) of this title”.
+1988—Subsec. (c)(3). Pub. L. 100–426, § 303, substituted “under section 733(a)(3)(B) of this title or section 5349(a) of title 5” for “in section 733(a)(3)(B) of this title”.
 
-Subsec. (c)(4). Pub. L. 100–426, § 302, substituted “129” for “119” and “the rate of basic pay payable for grade GS–18 of the General Schedule” for “the highest rate for GS–18”.
+Subsec. (c)(4). Pub. L. 100–426, § 302, substituted “129” for “119” and “the rate of basic pay payable for grade GS–18 of the General Schedule” for “the highest rate for GS–18”.
 
 1984—Subsec. (c)(4). Pub. L. 98–326 substituted “119” for “100”.
 
@@ -1900,7 +1900,7 @@ General Accounting Office redesignated Government Accountability Office. See sec
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–323, § 2(b), Sept. 22, 2008, 122 Stat. 3540, provided that: “The amendment made by this section [amending this section] shall apply with respect to any pay increase (as defined by such amendment) taking effect on or after the date of the enactment of this Act [Sept. 22, 2008].”
+Pub. L. 110–323, § 2(b), Sept. 22, 2008, 122 Stat. 3540, provided that: “The amendment made by this section [amending this section] shall apply with respect to any pay increase (as defined by such amendment) taking effect on or after the date of the enactment of this Act [Sept. 22, 2008].”
 
 **Effective Date of 2004 Amendment**
 
@@ -1908,7 +1908,7 @@ Amendment by section 3 of Pub. L. 108–271 effective Oct. 1, 2005, and applicab
 
 **Effective Date of 2000 Amendment; Savings Provision**
 
-Pub. L. 106–303, § 3(a)(2), (3), Oct. 13, 2000, 114 Stat. 1067, 1068, provided that:
+Pub. L. 106–303, § 3(a)(2), (3), Oct. 13, 2000, 114 Stat. 1067, 1068, provided that:
 
 > **“(2) Effective date.—** Subject to paragraph (3), the amendment made by paragraph (1) [amending this section] shall apply with respect to all reduction-in-force actions taking effect on or after—
 
@@ -1918,11 +1918,11 @@ Pub. L. 106–303, § 3(a)(2), (3), Oct. 13, 2000, 114 Stat. 1067, 1068, provi
 
 > **“(3) Savings provisions.—** If, before the effective date determined under paragraph (2), specific notice of a reduction-in-force action is given to an individual in accordance with section 1 of chapter 5 of GAO Order 2351.1 (dated February 28, 1996), then, for purposes of determining such individual’s rights in connection with such action, the amendment made by paragraph (1) shall be treated as if it had never been enacted.”
 
-Pub. L. 106–303, § 3(b)(2), Oct. 13, 2000, 114 Stat. 1068, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [Oct. 13, 2000].”
+Pub. L. 106–303, § 3(b)(2), Oct. 13, 2000, 114 Stat. 1068, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [Oct. 13, 2000].”
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 **Effective Date of 1984 Amendment**
 
@@ -1930,7 +1930,7 @@ Amendment by Pub. L. 98–326 effective Oct. 1, 1984, see section 2 of Pub. L. 9
 
 **Pay Adjustment Relating to Certain Previous Years**
 
-Pub. L. 110–323, § 3, Sept. 22, 2008, 122 Stat. 3540, provided that:
+Pub. L. 110–323, § 3, Sept. 22, 2008, 122 Stat. 3540, provided that:
 
 > **“(a) Applicability.—** This section applies in the case of any individual who, as of the date of the enactment of this Act [Sept. 22, 2008], is an officer or employee of the Government Accountability Office, excluding—
 
@@ -1992,7 +1992,7 @@ Pub. L. 110–323, § 3, Sept. 22, 2008, 122 Stat. 3540, provided that:
 
 **Lump-Sum Payment for Certain Performance-Based Compensation**
 
-Pub. L. 110–323, § 4, Sept. 22, 2008, 122 Stat. 3543, provided that:
+Pub. L. 110–323, § 4, Sept. 22, 2008, 122 Stat. 3543, provided that:
 
 > **“(a) In General.—** Not later than 6 months after the date of the enactment of this Act [Sept. 22, 2008], the Comptroller General shall, subject to the availability of appropriations, pay to each qualified individual a lump-sum payment equal to the amount of performance-based compensation such individual was denied for 2006, as determined under subsection (b).
 
@@ -2024,19 +2024,19 @@ Pub. L. 110–323, § 4, Sept. 22, 2008, 122 Stat. 3543, provided that:
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 732a. Critical positions
+### § 732a. Critical positions
 
 **(a)** The Comptroller General may establish senior-level positions to meet critical scientific, technical or professional needs of the Government Accountability Office. An individual serving in such a position shall—
 
-**(1)** be subject to the laws and regulations applicable to the General Accounting Office Senior Executive Service 1
+**(1)** be subject to the laws and regulations applicable to the General Accounting Office Senior Executive Service 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 under section 733 of this title, with respect to rates of basic pay, performance awards, ranks, carry over of annual leave, benefits, performance appraisals, removal or suspension, and reductions in force;
 
-**(2)** have the same rights of appeal to the General Accounting Office Personnel Appeals Board <sup>1</sup> as are provided to the Office Senior Executive Service;
+**(2)** have the same rights of appeal to the General Accounting Office Personnel Appeals Board <sup>1</sup> as are provided to the Office Senior Executive Service;
 
 **(3)** be exempt from the same provisions of law as are made inapplicable to the Office Senior Executive Service under section 733(d) of this title, except for section 732(e) of this title;
 
@@ -2046,7 +2046,7 @@ under section 733 of this title, with respect to rates of basic pay, performance
 
 **(b)** Senior-level positions under this section may include positions referred to in paragraph (1) or (2) of section 731(e) of this title.
 
-(Added Pub. L. 106–303, § 4(a)(1), Oct. 13, 2000, 114 Stat. 1068; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–323, § 9(b)(1), Sept. 22, 2008, 122 Stat. 3548.)
+(Added Pub. L. 106–303, § 4(a)(1), Oct. 13, 2000, 114 Stat. 1068; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–323, § 9(b)(1), Sept. 22, 2008, 122 Stat. 3548.)
 
 **Editorial Notes**
 
@@ -2062,11 +2062,11 @@ under section 733 of this title, with respect to rates of basic pay, performance
 
 General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under section 702 of this title.
 
-### § 733. Senior Executive Service
+### § 733. Senior Executive Service
 
-**(a)** The Comptroller General may establish a General Accounting Office Senior Executive Service 1
+**(a)** The Comptroller General may establish a General Accounting Office Senior Executive Service 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 —
 
@@ -2096,22 +2096,22 @@ General Accounting Office redesignated Government Accountability Office. See sec
 
 **(d)** Section 732(b)(6), (c), (d)(1)–(4), and (e) of this title does not apply to the Office Senior Executive Service.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 899; Pub. L. 98–326, § 1(c), June 22, 1984, 98 Stat. 269; Pub. L. 106–303, § 4(b), Oct. 13, 2000, 114 Stat. 1069; Pub. L. 108–271, § 3(b), July 7, 2004, 118 Stat. 812; Pub. L. 110–323, § 9(b)(2), Sept. 22, 2008, 122 Stat. 3548.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 899; Pub. L. 98–326, § 1(c), June 22, 1984, 98 Stat. 269; Pub. L. 106–303, § 4(b), Oct. 13, 2000, 114 Stat. 1069; Pub. L. 108–271, § 3(b), July 7, 2004, 118 Stat. 812; Pub. L. 110–323, § 9(b)(2), Sept. 22, 2008, 122 Stat. 3548.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 733(a) | 31:52–4(a)(1). | Feb. 15, 1980, Pub. L. 96–191, § 5(a), 94 Stat. 31. |
+| 733(a) | 31:52–4(a)(1). | Feb. 15, 1980, Pub. L. 96–191, § 5(a), 94 Stat. 31. |
 | 733(b) | 31:52–4(a)(2). |  |
 | 733(c) | 31:52–4(a)(4). |  |
 | 733(d) | 31:52–4(a)(3). |  |
 
-In subsection (a), before clause (1), the words “promulgate regulations” are omitted as surplus. The words “(hereinafter referred to as the GAO Senior Executive Service)” are omitted because of the restatement. In clause (1), the words “for the Senior Executive Service” are omitted as surplus. In clause (2), the words “in the GAO Senior Executive Service . . . which are” are omitted as surplus. In clause (3), before subclause (A), the words “for the GAO Senior Executive Service” are omitted as surplus. In subclause (A), the word “established” is omitted as surplus. In clause (4), the words “for the GAO Senior Executive Service” are omitted as surplus. In clauses (5) and (7), the words “officers and employees” are substituted for “members” for consistency in the revised title and with other titles of the United States Code. In clause (5), the words “the provisions applicable to the Office of Personnel Management and the President under” are omitted as surplus. In clause (7), the words “the provisions applicable to performance awards under” are omitted as surplus.
+In subsection (a), before clause (1), the words “promulgate regulations” are omitted as surplus. The words “(hereinafter referred to as the GAO Senior Executive Service)” are omitted because of the restatement. In clause (1), the words “for the Senior Executive Service” are omitted as surplus. In clause (2), the words “in the GAO Senior Executive Service . . . which are” are omitted as surplus. In clause (3), before subclause (A), the words “for the GAO Senior Executive Service” are omitted as surplus. In subclause (A), the word “established” is omitted as surplus. In clause (4), the words “for the GAO Senior Executive Service” are omitted as surplus. In clauses (5) and (7), the words “officers and employees” are substituted for “members” for consistency in the revised title and with other titles of the United States Code. In clause (5), the words “the provisions applicable to the Office of Personnel Management and the President under” are omitted as surplus. In clause (7), the words “the provisions applicable to performance awards under” are omitted as surplus.
 
 In subsection (b), the words “officer or employee” are substituted for “member” for consistency in the revised title and with other titles of the Code.
 
-In subsection (d), the words “Employees in . . . the personnel system established under” are omitted as surplus.
+In subsection (d), the words “Employees in . . . the personnel system established under” are omitted as surplus.
 
 **Editorial Notes**
 
@@ -2139,18 +2139,18 @@ Amendment by section 3 of Pub. L. 108–271 effective Oct. 1, 2005, and applicab
 
 Amendment by Pub. L. 98–326 effective Oct. 1, 1984, see section 2 of Pub. L. 98–326, set out as a note under section 731 of this title.
 
-### § 734. Assignments and details to Congress
+### § 734. Assignments and details to Congress
 
 The Comptroller General may assign or detail an officer or employee of the Government Accountability Office to full-time continuous duty with a committee of Congress for not more than one year.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 899; Pub. L. 98–367, title I, § 8, July 17, 1984, 98 Stat. 475; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 899; Pub. L. 98–367, title I, § 8, July 17, 1984, 98 Stat. 475; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 734(a) | 31:1175(a). | Oct. 26, 1970, Pub. L. 91–510, § 235(a), 84 Stat. 1171. |
-| 734(b) | 31:1175(c). | Oct. 26, 1970, Pub. L. 91–510, 84 Stat. 1140, § 235(c); added Oct. 11, 1971, Pub. L. 92–136, § 8, 85 Stat. 378. |
+| 734(a) | 31:1175(a). | Oct. 26, 1970, Pub. L. 91–510, § 235(a), 84 Stat. 1171. |
+| 734(b) | 31:1175(c). | Oct. 26, 1970, Pub. L. 91–510, 84 Stat. 1140, § 235(c); added Oct. 11, 1971, Pub. L. 92–136, § 8, 85 Stat. 378. |
 
 In the section, the words “officer or” are added for consistency in the revised title and with other titles of the United States Code.
 
@@ -2166,24 +2166,24 @@ In subsection (b), the words “Comptroller General” are substituted for “Ge
 
 1984—Pub. L. 98–367 struck out designation of provisions as “(a)” and struck out subsec. (b) which read as follows: “A committee of the Senate or a joint committee of Congress for which the Secretary of the Senate disburses amounts shall reimburse the Comptroller General for the pay of each officer or employee of the Office for the time the officer or employee is assigned or detailed to the committee or joint committee.”
 
-### § 735. Relationship to other laws
+### § 735. Relationship to other laws
 
 **(a)** Except as provided in section 733(c) of this title, this subchapter and subchapter IV of this chapter do not affect sections 702(b), 703, 731(c) and (e), 772, 775(a) and (d) of this title.
 
 **(b)** Except as specifically provided in this subchapter and subchapter IV of this chapter, those subchapters do not change the application of a law applicable to officers and employees of the Government Accountability Office.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 899; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–323, § 9(b)(3), Sept. 22, 2008, 122 Stat. 3548.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 899; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–323, § 9(b)(3), Sept. 22, 2008, 122 Stat. 3548.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 735(a) | 31:52–6(a). | Feb. 15, 1980, Pub. L. 96–191, § 7, 94 Stat. 33. |
+| 735(a) | 31:52–6(a). | Feb. 15, 1980, Pub. L. 96–191, § 7, 94 Stat. 33. |
 | 735(b) | 31:52–6(b). |  |
 
 In subsection (a), the words “repealing, amending, or otherwise” are omitted as surplus.
 
-In subsection (b), the words “repeal . . . or limit” are omitted as surplus. The words “officers and” are added for consistency in the revised title and with other titles of the United States Code.
+In subsection (b), the words “repeal . . . or limit” are omitted as surplus. The words “officers and” are added for consistency in the revised title and with other titles of the United States Code.
 
 **Editorial Notes**
 
@@ -2193,7 +2193,7 @@ In subsection (b), the words “repeal . . . or limit” are omitted as surp
 
 2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-### § 736. Authorization of appropriations
+### § 736. Authorization of appropriations
 
 Amounts necessary to carry out this subchapter and subchapter IV of this chapter may be appropriated to the Comptroller General.
 
@@ -2203,23 +2203,23 @@ Amounts necessary to carry out this subchapter and subchapter IV of this chapter
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 736 | 31:52–7. | Feb. 15, 1980, Pub. L. 96–191, § 9, 94 Stat. 34. |
+| 736 | 31:52–7. | Feb. 15, 1980, Pub. L. 96–191, § 9, 94 Stat. 34. |
 
 The word “hereby” is omitted as surplus. The words “to the Comptroller General” are added for consistency. The words “beginning fiscal year 1981 and for each fiscal year thereafter” are omitted as executed.
 
 ## SUBCHAPTER IV—PERSONNEL APPEALS BOARD
 
-### § 751. Organization
+### § 751. Organization
 
 **(a)** The Government Accountability Office has a General Accounting Office Personnel Appeals Board.1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 The Board is composed of 5 members appointed by the Comptroller General. An individual may be appointed only if the individual—
 
-**(1)** is not a current or former officer or employee of the Office or of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants,; 2
+**(1)** is not a current or former officer or employee of the Office or of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants,; 2
 
-<sup>2</sup>  So in original. The comma probably should not appear.
+<sup>2</sup> So in original. The comma probably should not appear.
 
 **(2)** has the demonstrated ability, background, training, and experience necessary to be qualified specially to serve on the Board; and
 
@@ -2261,27 +2261,27 @@ The Board is composed of 5 members appointed by the Comptroller General. An indi
 
 **(e)** While carrying out a member’s duties (including travel), a member who is not an officer or employee of the United States Government is entitled to basic pay at a rate equal to the daily rate of basic pay payable for grade GS–18 of the General Schedule. Each member is entitled to travel expenses and per diem allowances under section 5703 of title 5.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 900; Pub. L. 100–426, title I, §§ 101, 102(b), Sept. 9, 1988, 102 Stat. 1598, 1599; Pub. L. 103–283, title III, § 312(e)(4)(A), July 22, 1994, 108 Stat. 1446; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 900; Pub. L. 100–426, title I, §§ 101, 102(b), Sept. 9, 1988, 102 Stat. 1598, 1599; Pub. L. 103–283, title III, § 312(e)(4)(A), July 22, 1994, 108 Stat. 1446; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 751(a) | 31:52–3(a)(1), (3). | Feb. 15, 1980, Pub. L. 96–191, § 4(a)–(d), 94 Stat. 29. |
+| 751(a) | 31:52–3(a)(1), (3). | Feb. 15, 1980, Pub. L. 96–191, § 4(a)–(d), 94 Stat. 29. |
 | 751(b) | 31:52–3(a)(2), (4). |  |
 | 751(c) | 31:52–3(b). |  |
 | 751(d) | 31:52–3(c). |  |
 | 751(e) | 31:52–3(d). |  |
 
-In subsection (a), before clause (1), the words “The General Accounting Office has a General Accounting Office Personnel Appeals Board” are substituted for 31:52–3(a)(1)(1st sentence less words between parentheses) for consistency. The text of 31:52–3(a)(1)(1st sentence words between parentheses) is omitted because of the restatement. The words “in accordance with this subsection” and “as a member of the Board” are omitted as surplus. In clause (1), the words “a total of” are omitted as surplus. In clause (4), the words “to service as a member of the Board in order to enable the Board . . . under this section” are omitted as surplus.
+In subsection (a), before clause (1), the words “The General Accounting Office has a General Accounting Office Personnel Appeals Board” are substituted for 31:52–3(a)(1)(1st sentence less words between parentheses) for consistency. The text of 31:52–3(a)(1)(1st sentence words between parentheses) is omitted because of the restatement. The words “in accordance with this subsection” and “as a member of the Board” are omitted as surplus. In clause (1), the words “a total of” are omitted as surplus. In clause (4), the words “to service as a member of the Board in order to enable the Board . . . under this section” are omitted as surplus.
 
-In subsection (b), before clause (1), the words “under paragraph (1)” are omitted as surplus. The word “only” is added for clarity. In clause (1), the words “in a way” are substituted for “in the form . . . and according to the procedures” to eliminate unnecessary words. The words “eligible to make such a submission under paragraph (4)”, “shall be eligible to submit a list of candidates to the Comptroller General under paragraph (2)(A)”, and “the membership of” are omitted as surplus. In clause (2), the word “management” is added for consistency. The words “under section 772 of this title” are added for clarity. The words “to consult with the Comptroller General” are omitted as surplus.
+In subsection (b), before clause (1), the words “under paragraph (1)” are omitted as surplus. The word “only” is added for clarity. In clause (1), the words “in a way” are substituted for “in the form . . . and according to the procedures” to eliminate unnecessary words. The words “eligible to make such a submission under paragraph (4)”, “shall be eligible to submit a list of candidates to the Comptroller General under paragraph (2)(A)”, and “the membership of” are omitted as surplus. In clause (2), the word “management” is added for consistency. The words “under section 772 of this title” are added for clarity. The words “to consult with the Comptroller General” are omitted as surplus.
 
 In subsection (c), the words “Except as provided in paragraph (2)” are omitted because of the restatement. The text of 31:52–3(b)(2) is omitted as executed. The words “of the Board” and 31:52–3(b)(4)(1st sentence) are omitted as surplus. The words “occurring before the expiration of a term of office” are substituted for “with respect to which such vacancy has occurred” for clarity. The words “or for 6 months after the term expires, whichever is earlier” are substituted for 31:52–3(b)(5)(words after comma) to eliminate unnecessary words.
 
-In subsection (d), the words “of the Board . . . from the Board”, “the members of”, and “proposed action of” are omitted as surplus. The words “prior to any vote of the members of the Board under paragraph (1)(A)” are omitted as surplus. The words “unless the member waives the opportunity in writing” are substituted for 31:52–3(c)(2)(last sentence) to eliminate unnecessary words.
+In subsection (d), the words “of the Board . . . from the Board”, “the members of”, and “proposed action of” are omitted as surplus. The words “prior to any vote of the members of the Board under paragraph (1)(A)” are omitted as surplus. The words “unless the member waives the opportunity in writing” are substituted for 31:52–3(c)(2)(last sentence) to eliminate unnecessary words.
 
-In subsection (e), the words “While carrying out a member’s duties” are substituted for “for each day such member is engaged in the actual performance of duties as a member of the Board” to eliminate unnecessary words. The words “an officer or employee of” are substituted for “otherwise employed by” for consistency in the revised title and with other titles of the United States Code. The words “payable . . . under the General Schedule under section 5332 of title 5, United States Code” and 31:52–3(d)(2d sentence) are omitted as surplus.
+In subsection (e), the words “While carrying out a member’s duties” are substituted for “for each day such member is engaged in the actual performance of duties as a member of the Board” to eliminate unnecessary words. The words “an officer or employee of” are substituted for “otherwise employed by” for consistency in the revised title and with other titles of the United States Code. The words “payable . . . under the General Schedule under section 5332 of title 5, United States Code” and 31:52–3(d)(2d sentence) are omitted as surplus.
 
 **Editorial Notes**
 
@@ -2295,15 +2295,15 @@ The date of the enactment of the General Accounting Office Personnel Amendments 
 
 1994—Subsec. (a)(1). Pub. L. 103–283 inserted “or of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants,” after “Office”. See Application of Provisions Amended by Pub. L. 103–283 note below.
 
-1988—Subsec. (a). Pub. L. 100–426, § 101(a), struck out par. (1) which required that Board appointees have 3 years full-time or part-time experience in adjudicating or arbitrating personnel matters, and redesignated pars. (2), (3), and (4) as (1), (2), and (3), respectively.
+1988—Subsec. (a). Pub. L. 100–426, § 101(a), struck out par. (1) which required that Board appointees have 3 years full-time or part-time experience in adjudicating or arbitrating personnel matters, and redesignated pars. (2), (3), and (4) as (1), (2), and (3), respectively.
 
-Subsec. (b)(1). Pub. L. 100–426, § 101(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “from a written list of candidates, submitted to the Comptroller General in a way and at the time the Comptroller General requires, by any organization the Comptroller General believes is composed primarily of individuals experienced in adjudicating or arbitrating personnel matters; and”.
+Subsec. (b)(1). Pub. L. 100–426, § 101(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “from a written list of candidates, submitted to the Comptroller General in a way and at the time the Comptroller General requires, by any organization the Comptroller General believes is composed primarily of individuals experienced in adjudicating or arbitrating personnel matters; and”.
 
-Subsec. (c)(1). Pub. L. 100–426, § 101(c)(1), (2), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, and substituted “5” for “3” in two places.
+Subsec. (c)(1). Pub. L. 100–426, § 101(c)(1), (2), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, and substituted “5” for “3” in two places.
 
-Subsec. (c)(2). Pub. L. 100–426, § 101(c)(3), added par. (2).
+Subsec. (c)(2). Pub. L. 100–426, § 101(c)(3), added par. (2).
 
-Subsec. (e). Pub. L. 100–426, § 102(b), substituted “basic pay at a rate equal to the daily rate of basic pay payable for grade GS–18 of the General Schedule” for “pay at a rate equal to the daily rate for GS–18”.
+Subsec. (e). Pub. L. 100–426, § 102(b), substituted “basic pay at a rate equal to the daily rate of basic pay payable for grade GS–18 of the General Schedule” for “pay at a rate equal to the daily rate for GS–18”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2311,19 +2311,19 @@ Subsec. (e). Pub. L. 100–426, § 102(b), substituted “basic pay at a rate 
 
 General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under section 702 of this title.
 
-**Application of Provisions Amended by Pub. L. 103–283**
+**Application of Provisions Amended by Pub. L. 103–283**
 
-Pub. L. 104–1, title V, § 504(c)(2), Jan. 23, 1995, 109 Stat. 41, provided that: “The provisions of sections 751, 753, and 755 of title 31, United States Code, amended by section 312(e) of the Architect of the Capitol Human Resources Act [Pub. L. 103–283], shall be applied and administered as if such section 312(e) [amending this section and sections 753 and 755 of this title and enacting section 1831(e) of Title 2, The Congress] (and the amendments made by such section) had not been enacted.”
+Pub. L. 104–1, title V, § 504(c)(2), Jan. 23, 1995, 109 Stat. 41, provided that: “The provisions of sections 751, 753, and 755 of title 31, United States Code, amended by section 312(e) of the Architect of the Capitol Human Resources Act [Pub. L. 103–283], shall be applied and administered as if such section 312(e) [amending this section and sections 753 and 755 of this title and enacting section 1831(e) of Title 2, The Congress] (and the amendments made by such section) had not been enacted.”
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 752. Chairman and General Counsel
+### § 752. Chairman and General Counsel
 
-**(a)** The General Accounting Office Personnel Appeals Board 1
+**(a)** The General Accounting Office Personnel Appeals Board 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 shall select one of its members as Chairman. The Chairman is the chief executive and administrative officer of the Board.
 
@@ -2343,20 +2343,20 @@ shall select one of its members as Chairman. The Chairman is the chief executive
 
 **(D)** help the Board carry out its duties and powers.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 901; Pub. L. 100–426, title I, § 102(a), Sept. 9, 1988, 102 Stat. 1599; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 901; Pub. L. 100–426, title I, § 102(a), Sept. 9, 1988, 102 Stat. 1599; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 752(a) | 31:52–3(e). | Feb. 15, 1980, Pub. L. 96–191, § 4(e)–(g), 94 Stat. 30. |
+| 752(a) | 31:52–3(e). | Feb. 15, 1980, Pub. L. 96–191, § 4(e)–(g), 94 Stat. 30. |
 | 752(b) | 31:52–3(f), (g). |  |
 
 In subsection (a), the words “members of the” are omitted as surplus.
 
 In subsection (b)(1), the words “(hereinafter referred to as the ‘General Counsel’)” are omitted because of the restatement. The words “shall be eligible for reappointment and” are omitted as surplus.
 
-In subsection (b)(2), the word “annual” is added for clarity. The word “basic” is added for consistency in the revised title and with other titles of the United States Code. The words “payable . . . of the General Schedule” are omitted as surplus.
+In subsection (b)(2), the word “annual” is added for clarity. The word “basic” is added for consistency in the revised title and with other titles of the United States Code. The words “payable . . . of the General Schedule” are omitted as surplus.
 
 In subsection (b)(3)(A), the words “to the extent necessary” are omitted as surplus. The words “officer or” are added for consistency in the revised title and with other titles of the Code.
 
@@ -2378,13 +2378,13 @@ General Accounting Office redesignated Government Accountability Office. See sec
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 753. Duties and powers
+### § 753. Duties and powers
 
-**(a)** The General Accounting Office Personnel Appeals Board 1
+**(a)** The General Accounting Office Personnel Appeals Board 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 may consider and order corrective or disciplinary action in a case arising from—
 
@@ -2404,9 +2404,9 @@ may consider and order corrective or disciplinary action in a case arising from�
 
 **(8)** an issue about Office personnel the Comptroller General by regulation decides the Board shall resolve; and
 
-**(9)** an action involving discrimination prohibited under section 312(e)(2) 2
+**(9)** an action involving discrimination prohibited under section 312(e)(2) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of the Architect of the Capitol Human Resources Act.
 
@@ -2422,13 +2422,13 @@ of the Architect of the Capitol Human Resources Act.
 
 **(2)** on the operating procedure of the Board.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 901; Pub. L. 103–283, title III, § 312(e)(4)(B), July 22, 1994, 108 Stat. 1446; Pub. L. 104–53, title II, § 213, Nov. 19, 1995, 109 Stat. 535.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 901; Pub. L. 103–283, title III, § 312(e)(4)(B), July 22, 1994, 108 Stat. 1446; Pub. L. 104–53, title II, § 213, Nov. 19, 1995, 109 Stat. 535.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 753(a) | 31:52–3(h). | Feb. 15, 1980, Pub. L. 96–191, § 4(h), (j), (k), (m), 94 Stat. 30, 31. |
+| 753(a) | 31:52–3(h). | Feb. 15, 1980, Pub. L. 96–191, § 4(h), (j), (k), (m), 94 Stat. 30, 31. |
 | 753(b) | 31:52–3(j). |  |
 | 753(c) | 31:52–3(k). |  |
 | 753(d) | 31:52–3(m). |  |
@@ -2437,7 +2437,7 @@ In the section, the words “officer or” are added for consistency in the revi
 
 In subsection (a), before clause (1), the words “decide” and “(where appropriate)” are omitted as surplus. In clause (6), the words “relations program” are substituted for “system” for consistency. In clause (8), the words “most appropriately” are omitted as surplus.
 
-In subsection (b), the words “delegate . . . to act” are substituted for “designate . . . to take any action which the Board is authorized to take” for consistency and to eliminate unnecessary words. The words “individual” and “reopened and” are omitted as surplus.
+In subsection (b), the words “delegate . . . to act” are substituted for “designate . . . to take any action which the Board is authorized to take” for consistency and to eliminate unnecessary words. The words “individual” and “reopened and” are omitted as surplus.
 
 In subsection (c), the words “reopen and” are omitted as surplus.
 
@@ -2447,15 +2447,15 @@ In subsection (d)(1), the words “the principles of” are omitted as surplus.
 
 **References in Text**
 
-Section 312(e)(2) of the Architect of the Capitol Human Resources Act, referred to in subsec. (a)(9), was classified to section 1831(e)(2) of Title 2, The Congress, and was repealed by Pub. L. 104–1, title V, § 504(c)(1), Jan. 23, 1995, 109 Stat. 41, except as provided in section 1435 of Title 2.
+Section 312(e)(2) of the Architect of the Capitol Human Resources Act, referred to in subsec. (a)(9), was classified to section 1831(e)(2) of Title 2, The Congress, and was repealed by Pub. L. 104–1, title V, § 504(c)(1), Jan. 23, 1995, 109 Stat. 41, except as provided in section 1435 of Title 2.
 
 **Amendments**
 
-1995—Subsec. (b). Pub. L. 104–53, § 213(2), added subsec. (b). Former subsec. (b) redesignated (c).
+1995—Subsec. (b). Pub. L. 104–53, § 213(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 104–53, § 213(1), (3), redesignated subsec. (b) as (c) and in second sentence substituted “under subsection (d)” for “under subsection (c)”. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 104–53, § 213(1), (3), redesignated subsec. (b) as (c) and in second sentence substituted “under subsection (d)” for “under subsection (c)”. Former subsec. (c) redesignated (d).
 
-Subsecs. (d), (e). Pub. L. 104–53, § 213(1), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
+Subsecs. (d), (e). Pub. L. 104–53, § 213(1), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
 
 1994—Subsec. (a)(9). Pub. L. 103–283 added par. (9). See Application of Provisions Amended by Pub. L. 103–283 note below.
 
@@ -2465,15 +2465,15 @@ Subsecs. (d), (e). Pub. L. 104–53, § 213(1), redesignated subsecs. (c) and 
 
 General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under section 702 of this title.
 
-**Application of Provisions Amended by Pub. L. 103–283**
+**Application of Provisions Amended by Pub. L. 103–283**
 
 Provisions of this section amended by section 312(e) of Pub. L. 103–283 to be applied and administered as if section 312(e) and the amendments made by section 312(e) had not been enacted, see section 504(c)(2) of Pub. L. 104–1, set out as a note under section 751 of this title.
 
-### § 754. Action by the Comptroller General
+### § 754. Action by the Comptroller General
 
-When the Comptroller General has authority, the Comptroller General promptly shall carry out action the General Accounting Office Personnel Appeals Board 1
+When the Comptroller General has authority, the Comptroller General promptly shall carry out action the General Accounting Office Personnel Appeals Board 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 orders under section 753 of this title.
 
@@ -2483,7 +2483,7 @@ orders under section 753 of this title.
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 754 | 31:52–3(i). | Feb. 15, 1980, Pub. L. 96–191, § 4(i), 94 Stat. 31. |
+| 754 | 31:52–3(i). | Feb. 15, 1980, Pub. L. 96–191, § 4(i), 94 Stat. 31. |
 
 The words “to do so” and “corrective” are omitted as surplus. The words “under section 753 of this title” are added for clarity.
 
@@ -2493,11 +2493,11 @@ The words “to do so” and “corrective” are omitted as surplus. The words 
 
 General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under section 702 of this title.
 
-### § 755. Judicial review
+### § 755. Judicial review
 
 **(a)** A final decision under section 753(a)(1)–(3), (6),,1
 
-<sup>1</sup>  So in original. Second comma probably should follow “(7)”.
+<sup>1</sup> So in original. Second comma probably should follow “(7)”.
 
 (7) or (9) of this title may be reviewed by the United States Court of Appeals for the Federal Circuit. Chapter 158 of title 28 applies to a review under this subchapter, except the petition for review shall be filed by the 30th day after the petitioner receives notice of the decision. The court shall set aside a final decision the court decides is—
 
@@ -2507,13 +2507,13 @@ General Accounting Office redesignated Government Accountability Office. See sec
 
 **(3)** unsupported by substantial evidence.
 
-**(b)** If an officer, employee, applicant for employment, or employee of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants is the prevailing party in a proceeding under this section, and the decision is based on a finding of discrimination prohibited under section 732(f) of this title or under section 312(e)(2) 2
+**(b)** If an officer, employee, applicant for employment, or employee of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants is the prevailing party in a proceeding under this section, and the decision is based on a finding of discrimination prohibited under section 732(f) of this title or under section 312(e)(2) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of the Architect of the Capitol Human Resources Act, attorney’s fees may be allowed by the court in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 902; Pub. L. 98–216, § 1(1), Feb. 14, 1984, 98 Stat. 3; Pub. L. 100–426, title I, § 103(a), (b), Sept. 9, 1988, 102 Stat. 1599; Pub. L. 103–283, title III, § 312(e)(4)(C), July 22, 1994, 108 Stat. 1446.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 902; Pub. L. 98–216, § 1(1), Feb. 14, 1984, 98 Stat. 3; Pub. L. 100–426, title I, § 103(a), (b), Sept. 9, 1988, 102 Stat. 1599; Pub. L. 103–283, title III, § 312(e)(4)(C), July 22, 1994, 108 Stat. 1446.)
 
 **Historical and Revision Notes**
 
@@ -2521,9 +2521,9 @@ of the Architect of the Capitol Human Resources Act, attorney’s fees may be al
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 755 | 31:52–3(*l*). | Feb. 15, 1980, Pub. L. 96–191, § 4(*l*), 94 Stat. 31. |
+| 755 | 31:52–3(*l*). | Feb. 15, 1980, Pub. L. 96–191, § 4(*l*), 94 Stat. 31. |
 
-In the section, before clause (1), the first sentence is substituted for 31:52–3(*l*)(1)(1st sentence) for consistency with other titles of the United States Code. The word “review” is substituted for “appeal” for consistency. The words “the procedures of”, “any other provision of law”, “of a final decision of the Board . . . the date . . . of the Board”, and “In any case filed under paragraph (1) . . . review the record and” are omitted as surplus. The words “final decision” are substituted for “agency action, findings, or conclusions” for consistency. Clause (2) is substituted for 31:52–3(*l*)(2)(B) to eliminate unnecessary words.
+In the section, before clause (1), the first sentence is substituted for 31:52–3(*l*)(1)(1st sentence) for consistency with other titles of the United States Code. The word “review” is substituted for “appeal” for consistency. The words “the procedures of”, “any other provision of law”, “of a final decision of the Board . . . the date . . . of the Board”, and “In any case filed under paragraph (1) . . . review the record and” are omitted as surplus. The words “final decision” are substituted for “agency action, findings, or conclusions” for consistency. Clause (2) is substituted for 31:52–3(*l*)(2)(B) to eliminate unnecessary words.
 
 **1984 Act**
 
@@ -2533,19 +2533,19 @@ This clarifies section 755 by conforming it more closely to the language of the 
 
 **References in Text**
 
-Section 312(e)(2) of the Architect of the Capitol Human Resources Act, referred to in subsec. (b), was classified to section 1831(e)(2) of Title 2, The Congress, and was repealed by Pub. L. 104–1, title V, § 504(c)(1), Jan. 23, 1995, 109 Stat. 41, except as provided in section 1435 of Title 2.
+Section 312(e)(2) of the Architect of the Capitol Human Resources Act, referred to in subsec. (b), was classified to section 1831(e)(2) of Title 2, The Congress, and was repealed by Pub. L. 104–1, title V, § 504(c)(1), Jan. 23, 1995, 109 Stat. 41, except as provided in section 1435 of Title 2.
 
 Section 706(k) of the Civil Rights Act of 1964, referred to in subsec. (b), is classified to section 2000e–5(k) of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–283, § 312(e)(4)(C)(i), substituted “, (7) or (9)” for “or (7)” in introductory provisions. See Application of Provisions Amended by Pub. L. 103–283 note below.
+1994—Subsec. (a). Pub. L. 103–283, § 312(e)(4)(C)(i), substituted “, (7) or (9)” for “or (7)” in introductory provisions. See Application of Provisions Amended by Pub. L. 103–283 note below.
 
-Subsec. (b). Pub. L. 103–283, § 312(e)(4)(C)(ii), substituted “applicant for employment, or employee of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants” for “or applicant for employment”, and inserted “or under section 312(e)(2) of the Architect of the Capitol Human Resources Act” after “of this title”. See Application of Provisions Amended by Pub. L. 103–283 note below.
+Subsec. (b). Pub. L. 103–283, § 312(e)(4)(C)(ii), substituted “applicant for employment, or employee of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants” for “or applicant for employment”, and inserted “or under section 312(e)(2) of the Architect of the Capitol Human Resources Act” after “of this title”. See Application of Provisions Amended by Pub. L. 103–283 note below.
 
-1988—Subsec. (a). Pub. L. 100–426, § 103(a), (b)(1), designated existing provisions as subsec. (a) and substituted “Federal Circuit” for “District of Columbia Circuit or by the court of appeals of the United States for the circuit in which the petitioner resides”.
+1988—Subsec. (a). Pub. L. 100–426, § 103(a), (b)(1), designated existing provisions as subsec. (a) and substituted “Federal Circuit” for “District of Columbia Circuit or by the court of appeals of the United States for the circuit in which the petitioner resides”.
 
-Subsec. (b). Pub. L. 100–426, § 103(b)(2), added subsec. (b).
+Subsec. (b). Pub. L. 100–426, § 103(b)(2), added subsec. (b).
 
 1984—Pub. L. 98–216 substituted “A final decision under section 753(a)(1)–(3), (6), or (7) of this title may be reviewed by the United States Court of Appeals for the District of Columbia Circuit or by the court of appeals of the United States for the circuit in which the petitioner resides” for “A person may apply for review of a final decision under section 753(a)(1)–(3), (6), or (7) of this title by filing a petition for review with the United States Court of Appeals for the District of Columbia Circuit or with the court of appeals of the United States for the circuit in which the person resides” in provisions preceding par. (1).
 
@@ -2553,15 +2553,15 @@ Subsec. (b). Pub. L. 100–426, § 103(b)(2), added subsec. (b).
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–426, title I, § 103(c), Sept. 9, 1988, 102 Stat. 1599, provided that: “Nothing in any of the amendments made by this section [amending this section] shall apply with respect to an appeal pending on the date of the enactment of this Act [Sept. 9, 1988].”
+Pub. L. 100–426, title I, § 103(c), Sept. 9, 1988, 102 Stat. 1599, provided that: “Nothing in any of the amendments made by this section [amending this section] shall apply with respect to an appeal pending on the date of the enactment of this Act [Sept. 9, 1988].”
 
-**Application of Provisions Amended by Pub. L. 103–283**
+**Application of Provisions Amended by Pub. L. 103–283**
 
 Provisions of this section amended by section 312(e) of Pub. L. 103–283 to be applied and administered as if section 312(e) and the amendments made by section 312(e) had not been enacted, see section 504(c)(2) of Pub. L. 104–1, set out as a note under section 751 of this title.
 
 ## SUBCHAPTER V—ANNUITIES
 
-### § 771. Definitions
+### § 771. Definitions
 
 In this subchapter—
 
@@ -2581,13 +2581,13 @@ In this subchapter—
 
 **(3)** service as a Comptroller General equals the number of years and complete months an individual is Comptroller General.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 902; Pub. L. 100–426, title II, § 202, Sept. 9, 1988, 102 Stat. 1600; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 902; Pub. L. 100–426, title II, § 202, Sept. 9, 1988, 102 Stat. 1600; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 771(1), (2) | 31:43b(g). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(g), (p); added July 13, 1959, Pub. L. 86–87, 73 Stat. 198, 200. |
+| 771(1), (2) | 31:43b(g). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(g), (p); added July 13, 1959, Pub. L. 86–87, 73 Stat. 198, 200. |
 | 771(3) | 31:43b(p). |  |
 
 In this subchapter, the words “surviving spouse”, “spouse”, “surviving spouse’s”, and “parent” are substituted for “widow”, “wife”, “surviving widow’s”, and “mother”, respectively, because of 5:7202(c).
@@ -2600,11 +2600,11 @@ In clause (3), the words “or retired Comptroller General” are omitted as exe
 
 2004—Par. (1)(C). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1988—Par. (1)(C). Pub. L. 100–426, § 202(a), added subpar. (C).
+1988—Par. (1)(C). Pub. L. 100–426, § 202(a), added subpar. (C).
 
-Par. (2)(A). Pub. L. 100–426, § 202(b)(1), substituted “1 year” for “2 years”.
+Par. (2)(A). Pub. L. 100–426, § 202(b)(1), substituted “1 year” for “2 years”.
 
-Par. (2)(B). Pub. L. 100–426, § 202(b)(2), inserted “before age 55” after “remarried”.
+Par. (2)(B). Pub. L. 100–426, § 202(b)(2), inserted “before age 55” after “remarried”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2612,7 +2612,7 @@ Par. (2)(B). Pub. L. 100–426, § 202(b)(2), inserted “before age 55” aft
 
 Amendment by Pub. L. 100–426 effective after end of 60-day period beginning Sept. 9, 1988, with certain exceptions, see section 208 of Pub. L. 100–426, set out as a note under section 772 of this title.
 
-### § 772. Annuity of the Comptroller General
+### § 772. Annuity of the Comptroller General
 
 **(a)** Except as provided in subsection (c) of this section, a Comptroller General serving a complete term as Comptroller General or who retires under section 703(e)(1) of this title is entitled to receive an annuity for life equal to the pay the Comptroller General is receiving on completion of the term or at the time of retirement. An annuity of a Comptroller General who completes a term before becoming 65 years of age is reduced by .25 percent for each complete month the Comptroller General is under 65 years of age.
 
@@ -2640,16 +2640,16 @@ Amendment by Pub. L. 100–426 effective after end of 60-day period beginning Se
 
 **(e)** A Comptroller General receiving benefits under this section may not receive retirement or disability benefits under another law of the United States.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 902; Pub. L. 100–426, title II, § 203, Sept. 9, 1988, 102 Stat. 1600; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 902; Pub. L. 100–426, title II, § 203, Sept. 9, 1988, 102 Stat. 1600; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 772(a) | 31:43(2d par. 1st sentence). | June 10, 1921, ch. 18, 42 Stat. 20, § 303(2d par. 1st, 2d, last sentences); added July 28, 1953, ch. 256, 67 Stat. 229. |
+| 772(a) | 31:43(2d par. 1st sentence). | June 10, 1921, ch. 18, 42 Stat. 20, § 303(2d par. 1st, 2d, last sentences); added July 28, 1953, ch. 256, 67 Stat. 229. |
 | 772(b) | 31:43(2d par. 2d sentence). |  |
-| 772(c) | 31:43(3d par. 1st, 2d sentences, 3d sentence words before comma). | June 10, 1921, ch. 18, 42 Stat. 20, § 303(3d par. 1st–3d sentences); added July 26, 1966, Pub. L. 89–520, § 1, 80 Stat. 329; Oct. 25, 1978, Pub. L. 95–512, § 4(b)(1), 92 Stat. 1800. |
-| 772(d) | 31:43(2d par. 4th sentence, 3d par. last sentence). | June 10, 1921, ch. 18, 42 Stat. 20, § 303(2d par. 4th sentence, 3d par. last sentence); added Oct. 25, 1978, Pub. L. 95–512, § 4(a), (b)(2), 92 Stat. 1800. |
+| 772(c) | 31:43(3d par. 1st, 2d sentences, 3d sentence words before comma). | June 10, 1921, ch. 18, 42 Stat. 20, § 303(3d par. 1st–3d sentences); added July 26, 1966, Pub. L. 89–520, § 1, 80 Stat. 329; Oct. 25, 1978, Pub. L. 95–512, § 4(b)(1), 92 Stat. 1800. |
+| 772(d) | 31:43(2d par. 4th sentence, 3d par. last sentence). | June 10, 1921, ch. 18, 42 Stat. 20, § 303(2d par. 4th sentence, 3d par. last sentence); added Oct. 25, 1978, Pub. L. 95–512, § 4(a), (b)(2), 92 Stat. 1800. |
 | 772(e) | 31:43(2d par. last sentence, 3d par. 3d sentence words after comma). |  |
 
 In subsections (a) and (b), the words “Except as provided in subsection (c) of this section” are added for clarity. The words “is entitled to receive” are substituted for “shall receive” as being more precise and for consistency with title 5.
@@ -2660,7 +2660,7 @@ In subsection (b), before clause (1), the words “from performing his duties”
 
 In subsections (c) and (d), the words “Comptroller General” are substituted for “person appointed to the Office of Comptroller General” and “person who is appointed to the Office of Comptroller General” to eliminate unnecessary words.
 
-In subsection (c), the words “Notwithstanding the preceding paragraph of this section” are omitted as surplus. The words “after January 1, 1966” are omitted as executed. The words “receive an annuity under this section” are substituted for “and no deduction from his salary shall be made under the preceding paragraph . . . be subject to the provisions of the preceding paragraph of this section” for clarity and because of the restatement.
+In subsection (c), the words “Notwithstanding the preceding paragraph of this section” are omitted as surplus. The words “after January 1, 1966” are omitted as executed. The words “receive an annuity under this section” are substituted for “and no deduction from his salary shall be made under the preceding paragraph . . . be subject to the provisions of the preceding paragraph of this section” for clarity and because of the restatement.
 
 In subsection (d), before clause (1), the words “after October 25, 1978” are omitted as executed. The words “(except a Comptroller General remaining subject to subchapter III of chapter 83 of title 5)” are added for clarity. In clauses (1) and (2), the word “pay” is substituted for “salary” for consistency in the revised title and with other titles of the United States Code. The words “a sum equal to” are omitted as surplus. In clause (1), before subclause (A), the words “makes such an election under this paragraph” are omitted as surplus. The word “redeposit” is substituted for “covering” for clarity. The words “the general fund of” and “authorized under the preceding paragraph” are omitted as surplus. In subclauses (A) and (B), the words “before deductions are made under clause (2)(A) of this subsection” and “before deductions are made under clause (2)(B) of this subsection” are substituted for “prior to the date current deductions begin from his salary” for clarity. The words “per annum” are omitted as surplus. In clause (2), the words “authorized by this paragraph” are omitted as surplus.
 
@@ -2672,17 +2672,17 @@ In subsection (e), the words “Comptroller General” are substituted for “pe
 
 2004—Subsec. (d)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
 
-1988—Subsec. (a). Pub. L. 100–426, § 203(1), substituted “retires under section 703(e)(1) of this title” for “is retired for age under section 703(e)(1) of this title after serving at least 10 years”.
+1988—Subsec. (a). Pub. L. 100–426, § 203(1), substituted “retires under section 703(e)(1) of this title” for “is retired for age under section 703(e)(1) of this title after serving at least 10 years”.
 
-Subsec. (c). Pub. L. 100–426, § 203(2), substituted “subchapter III of chapter 83 or chapter 84 of title 5 remains subject to such subchapter III or such chapter 84 (as the case may be)” for “subchapter III of chapter 83 of title 5 remains subject to subchapter III”.
+Subsec. (c). Pub. L. 100–426, § 203(2), substituted “subchapter III of chapter 83 or chapter 84 of title 5 remains subject to such subchapter III or such chapter 84 (as the case may be)” for “subchapter III of chapter 83 of title 5 remains subject to subchapter III”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–426, title II, § 208, Sept. 9, 1988, 102 Stat. 1601, provided that: “The amendments made by this title [amending this section and sections 703, 771, 773, 774, 776, and 777 of this title] shall be effective after the end of the 60-day period beginning on the date of enactment of this Act [Sept. 9, 1988], except that an individual who, as of such date of enactment, is receiving an annuity under subchapter V of chapter 7 of title 31, United States Code, as a retired Comptroller General (and the spouse and any dependent children of such individual who may survive such individual) shall remain subject to the provisions of such subchapter, as in effect immediately before such date, if the retired Comptroller General makes an election under this section. An election under this section shall be ineffective unless it is made in writing and received by the General Counsel of the General Accounting Office [now Government Accountability Office] before the end of the 60-day period referred to in the preceding sentence.”
+Pub. L. 100–426, title II, § 208, Sept. 9, 1988, 102 Stat. 1601, provided that: “The amendments made by this title [amending this section and sections 703, 771, 773, 774, 776, and 777 of this title] shall be effective after the end of the 60-day period beginning on the date of enactment of this Act [Sept. 9, 1988], except that an individual who, as of such date of enactment, is receiving an annuity under subchapter V of chapter 7 of title 31, United States Code, as a retired Comptroller General (and the spouse and any dependent children of such individual who may survive such individual) shall remain subject to the provisions of such subchapter, as in effect immediately before such date, if the retired Comptroller General makes an election under this section. An election under this section shall be ineffective unless it is made in writing and received by the General Counsel of the General Accounting Office [now Government Accountability Office] before the end of the 60-day period referred to in the preceding sentence.”
 
-### § 773. Election of survivor benefits
+### § 773. Election of survivor benefits
 
 **(a)** To provide survivor benefits, a Comptroller General may elect in writing to reduce the pay and annuity of the Comptroller General. An election shall be made within 6 months of taking office or, if an election is made under section 772(c) of this title, by the 60th day after making an election under section 772(c).
 
@@ -2702,23 +2702,23 @@ Pub. L. 100–426, title II, § 208, Sept. 9, 1988, 102 Stat. 1601, provided t
 
 **(d)** The reduction in the Comptroller General’s annuity under subsection (b)(1) for the purpose of providing survivor benefits shall be terminated for each full month after the death of the spouse.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 903; Pub. L. 100–426, title II, § 204, Sept. 9, 1988, 102 Stat. 1600; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 903; Pub. L. 100–426, title II, § 204, Sept. 9, 1988, 102 Stat. 1600; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 773(a) | 31:43b(a). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(a); added July 13, 1959, Pub. L. 86–87, 73 Stat. 197; July 26, 1966, Pub. L. 89–520, § 2, 80 Stat. 329. |
-| 773(b) | 31:43b(b), (c). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(b), (c); added July 13, 1959, Pub. L. 86–87, 73 Stat. 197; Oct. 25, 1978, Pub. L. 95–512, § 2(1), 92 Stat. 1799. |
-| 773(c) | 31:43b(q). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(q); added July 13, 1959, Pub. L. 86–87, 73 Stat. 200. |
+| 773(a) | 31:43b(a). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(a); added July 13, 1959, Pub. L. 86–87, 73 Stat. 197; July 26, 1966, Pub. L. 89–520, § 2, 80 Stat. 329. |
+| 773(b) | 31:43b(b), (c). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(b), (c); added July 13, 1959, Pub. L. 86–87, 73 Stat. 197; Oct. 25, 1978, Pub. L. 95–512, § 2(1), 92 Stat. 1799. |
+| 773(c) | 31:43b(q). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(q); added July 13, 1959, Pub. L. 86–87, 73 Stat. 200. |
 
 In subsections (a) and (b), the word “pay” is substituted for “salary”, and the word “annuity” is substituted for “retirement pay”, for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (a), the words “To provide” are substituted for “for purposes of” for clarity. The words “or in the case of the Comptroller General currently in office and any retired Comptroller General, within six months after July 13, 1959” are omitted as executed. The words “as hereinafter provided” are omitted as surplus.
 
-In subsection (b), before clause (1), the words “of the United States” are omitted as surplus. The words “or retired Comptroller General” are omitted as executed. The word “provide” is substituted for “receive” for clarity and consistency. In clause (2), before subclause (A), the word “redeposit” is substituted for “covering” for clarity. The words “the general fund of” and “a sum equal to” are omitted as surplus. In subclause (A), the words “the date current . . . from his salary and retirement pay” and 31:43b(c)(last sentence) are omitted as surplus. In subclause (B), the words “salary . . . or compensation for service” are omitted as surplus. The words “member of Congress” are substituted for “Senator, Representative, Delegate, or Resident Commissioner in the Congress of the United States” for consistency and to eliminate unnecessary words.
+In subsection (b), before clause (1), the words “of the United States” are omitted as surplus. The words “or retired Comptroller General” are omitted as executed. The word “provide” is substituted for “receive” for clarity and consistency. In clause (2), before subclause (A), the word “redeposit” is substituted for “covering” for clarity. The words “the general fund of” and “a sum equal to” are omitted as surplus. In subclause (A), the words “the date current . . . from his salary and retirement pay” and 31:43b(c)(last sentence) are omitted as surplus. In subclause (B), the words “salary . . . or compensation for service” are omitted as surplus. The words “member of Congress” are substituted for “Senator, Representative, Delegate, or Resident Commissioner in the Congress of the United States” for consistency and to eliminate unnecessary words.
 
-In subsection (c), the words “be construed to” and “eligible therefore” are omitted as surplus. The words “receiving another annuity while” are substituted for “simultaneously . . . and any annuity . . . to which she would otherwise be entitled under any other law” to eliminate unnecessary words. The words “(including old age and survivor benefits)” and “without regard to this section” are omitted as surplus.
+In subsection (c), the words “be construed to” and “eligible therefore” are omitted as surplus. The words “receiving another annuity while” are substituted for “simultaneously . . . and any annuity . . . to which she would otherwise be entitled under any other law” to eliminate unnecessary words. The words “(including old age and survivor benefits)” and “without regard to this section” are omitted as surplus.
 
 **Editorial Notes**
 
@@ -2726,11 +2726,11 @@ In subsection (c), the words “be construed to” and “eligible therefore” 
 
 2004—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
 
-1988—Subsec. (b)(1). Pub. L. 100–426, § 204(1), inserted “5 percent of the” before “annuity”.
+1988—Subsec. (b)(1). Pub. L. 100–426, § 204(1), inserted “5 percent of the” before “annuity”.
 
-Subsec. (b)(2)(C). Pub. L. 100–426, § 204(2), substituted “3 percent” for “4.5 percent”.
+Subsec. (b)(2)(C). Pub. L. 100–426, § 204(2), substituted “3 percent” for “4.5 percent”.
 
-Subsec. (d). Pub. L. 100–426, § 204(3), added subsec. (d).
+Subsec. (d). Pub. L. 100–426, § 204(3), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2738,7 +2738,7 @@ Subsec. (d). Pub. L. 100–426, § 204(3), added subsec. (d).
 
 Amendment by Pub. L. 100–426 effective after end of 60-day period beginning Sept. 9, 1988, with certain exceptions, see section 208 of Pub. L. 100–426, set out as a note under section 772 of this title.
 
-### § 774. Survivor annuities
+### § 774. Survivor annuities
 
 **(a)** In this section—
 
@@ -2792,14 +2792,14 @@ Amendment by Pub. L. 100–426 effective after end of 60-day period beginning Se
 
 **(e)** A surviving spouse’s annuity may not be more than 50 percent nor less than 25 percent of the average annual pay computed under subsection (d)(1) of this section. If a Comptroller General does not make the deposit under section 773(b) of this title, a surviving spouse’s annuity shall be credited with the service during which a deposit was not made, unless the spouse elects not to have the service credited. However, the annuity shall be reduced by 10 percent of the amount of the unpaid deposit, computed on the date the Comptroller General or retired Comptroller General dies.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 904; Pub. L. 100–426, title II, § 205, Sept. 9, 1988, 102 Stat. 1600.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 904; Pub. L. 100–426, title II, § 205, Sept. 9, 1988, 102 Stat. 1600.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 774(a) | 31:43b(*o*). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(d), (*o*); added July 13, 1959, Pub. L. 86–87, 73 Stat. 197, 200. |
-| 774(b), (c) | 31:43b(e). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(e), (n); added July 13, 1959, Pub. L. 86–87, 73 Stat. 197, 200; Oct. 25, 1978, Pub. L. 95–512, § 2(2)–(4), 92 Stat. 1799. |
+| 774(a) | 31:43b(*o*). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(d), (*o*); added July 13, 1959, Pub. L. 86–87, 73 Stat. 197, 200. |
+| 774(b), (c) | 31:43b(e). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(e), (n); added July 13, 1959, Pub. L. 86–87, 73 Stat. 197, 200; Oct. 25, 1978, Pub. L. 95–512, § 2(2)–(4), 92 Stat. 1799. |
 | 774(d) | 31:43b(n)(less words after last comma). |  |
 | 774(e) | 31:43b(d). |  |
 |  | 31:43b(n)(words after last comma). |  |
@@ -2814,9 +2814,9 @@ In subsection (c)(1), the words “only by a spouse” are substituted for “by
 
 In subsection (c)(2), before subclause (A), the words “or children” and “in an amount” are omitted as surplus.
 
-In subsection (c)(3), before subclause (A), the words “only by a dependent child” are substituted for “no surviving widow but leaves a surviving dependent child or children” to eliminate unnecessary words. In subclause (A), the words “the amount of” are omitted as surplus. The words “a surviving spouse” are substituted for “such widow . . . had she survived” to eliminate unnecessary words.
+In subsection (c)(3), before subclause (A), the words “only by a dependent child” are substituted for “no surviving widow but leaves a surviving dependent child or children” to eliminate unnecessary words. In subclause (A), the words “the amount of” are omitted as surplus. The words “a surviving spouse” are substituted for “such widow . . . had she survived” to eliminate unnecessary words.
 
-In subsection (d), before clause (1), the words “of a Comptroller General or retired Comptroller General who has elected to bring himself within the purview of this section” are omitted as surplus. In clauses (1) and (2), the word “pay” is substituted for “salary” for consistency in the revised title and with other titles of the Code. In clause (1), before subclause (A), the words “by him for service . . . service in which his” are omitted as surplus. In subclause (A)(i), the words “member of Congress” are substituted for “Senator, Representative, Delegate, or Resident Commissioner in the Congress of the United States” for consistency and to eliminate unnecessary words. The words “his years of service as” and “of the United States” are omitted as surplus.
+In subsection (d), before clause (1), the words “of a Comptroller General or retired Comptroller General who has elected to bring himself within the purview of this section” are omitted as surplus. In clauses (1) and (2), the word “pay” is substituted for “salary” for consistency in the revised title and with other titles of the Code. In clause (1), before subclause (A), the words “by him for service . . . service in which his” are omitted as surplus. In subclause (A)(i), the words “member of Congress” are substituted for “Senator, Representative, Delegate, or Resident Commissioner in the Congress of the United States” for consistency and to eliminate unnecessary words. The words “his years of service as” and “of the United States” are omitted as surplus.
 
 In subsection (e), the words “and shall be further reduced in accordance with subsection (d) of this section if applicable” are omitted because of the restatement. The words “or a retired Comptroller General” are omitted as executed. The words “during which a deposit was not made” are substituted for “rendered” for clarity. The word “unpaid” is added for clarity.
 
@@ -2824,9 +2824,9 @@ In subsection (e), the words “and shall be further reduced in accordance with 
 
 **Amendments**
 
-1988—Subsec. (b)(3), (4). Pub. L. 100–426, § 205(1), substituted “18 months” for “5 years”.
+1988—Subsec. (b)(3), (4). Pub. L. 100–426, § 205(1), substituted “18 months” for “5 years”.
 
-Subsec. (c)(2), (3). Pub. L. 100–426, § 205(2), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
+Subsec. (c)(2), (3). Pub. L. 100–426, § 205(2), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 
 “(2) by a spouse and a dependent child, the surviving spouse shall receive an immediate annuity under subsection (d) of this section and each dependent child shall receive an immediate annuity equal to the smaller of—
 
@@ -2842,9 +2842,9 @@ Subsec. (c)(2), (3). Pub. L. 100–426, § 205(2), amended pars. (2) and (3) g
 
 “(C) $5,580 divided by the number of dependent children.”
 
-Subsec. (d)(1). Pub. L. 100–426, § 205(3), substituted “1.5 percent” for “1.25 percent” in introductory provisions.
+Subsec. (d)(1). Pub. L. 100–426, § 205(3), substituted “1.5 percent” for “1.25 percent” in introductory provisions.
 
-Subsec. (e). Pub. L. 100–426, § 205(4), substituted “more than 50 percent nor less than 25 percent” for “more than 40 percent”.
+Subsec. (e). Pub. L. 100–426, § 205(4), substituted “more than 50 percent nor less than 25 percent” for “more than 40 percent”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2852,7 +2852,7 @@ Subsec. (e). Pub. L. 100–426, § 205(4), substituted “more than 50 percent
 
 Amendment by Pub. L. 100–426 effective after end of 60-day period beginning Sept. 9, 1988, with certain exceptions, see section 208 of Pub. L. 100–426, set out as a note under section 772 of this title.
 
-### § 775. Refunds
+### § 775. Refunds
 
 **(a)** A Comptroller General separated from office before becoming entitled to receive an annuity under section 772 of this title is entitled to a lump-sum refund of the amount deducted from pay or deposited as a contribution under section 772, plus 3 percent interest on the amount compounded every December 31.
 
@@ -2882,14 +2882,14 @@ Amendment by Pub. L. 100–426 effective after end of 60-day period beginning Se
 
 **(f)** If the annuities of all individuals entitled to survivor annuities under this subchapter end before the amount of annuities paid equals the amount deducted under sections 772 and 773 of this title, plus interest of 4 percent before January 1, 1948, and 3 percent after December 31, 1947, compounded every December 31 until the date of death, the remainder shall be paid under subsection (d) of this section.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 905; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 905; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 775(a) | 31:43(last par. 1st sentence). | June 10, 1921, ch. 18, 42 Stat. 20, § 303(last par.); added Oct. 25, 1978, Pub. L. 95–512, § 4(c), 92 Stat. 1801. |
-| 775(b) | 31:43b(i). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(i), (j)(less last 13 words before colon), (k); added July 13, 1959, Pub. L. 86–87, 73 Stat. 198. |
+| 775(a) | 31:43(last par. 1st sentence). | June 10, 1921, ch. 18, 42 Stat. 20, § 303(last par.); added Oct. 25, 1978, Pub. L. 95–512, § 4(c), 92 Stat. 1801. |
+| 775(b) | 31:43b(i). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(i), (j)(less last 13 words before colon), (k); added July 13, 1959, Pub. L. 86–87, 73 Stat. 198. |
 | 775(c)–(e) | 31:43(last par. last sentence). |  |
 |  | 31:43b(j)(less last 13 words before colon). |  |
 | 775(f) | 31:43b(k). |  |
@@ -2904,9 +2904,9 @@ In subsection (c), before clause (1), the words “A lump-sum refund of the amou
 
 In subsection (d), the words before clause (1) are included for clarity. In clauses (2)–(4) and (6), the words “of such Comptroller General or retired Comptroller General” are omitted as surplus. In clause (5), the words “duly appointed” are omitted as surplus.
 
-In subsection (e), the words “of a Comptroller General or retired Comptroller General” are omitted as surplus. The words “is not subject to” are substituted for “shall be made . . . without regard to the definitions of these terms in” to eliminate unnecessary words.
+In subsection (e), the words “of a Comptroller General or retired Comptroller General” are omitted as surplus. The words “is not subject to” are substituted for “shall be made . . . without regard to the definitions of these terms in” to eliminate unnecessary words.
 
-In subsection (f), the word “individuals” is substituted for “persons” for consistency. The word “aggregate” is omitted as surplus. The words “under sections 772 and 773 of this title” are substituted for “total . . . from the salary and retirement pay of a Comptroller General or retired Comptroller General” for clarity and consistency. The word “under” is substituted for “in the order of precedence prescribed in” to eliminate unnecessary words.
+In subsection (f), the word “individuals” is substituted for “persons” for consistency. The word “aggregate” is omitted as surplus. The words “under sections 772 and 773 of this title” are substituted for “total . . . from the salary and retirement pay of a Comptroller General or retired Comptroller General” for clarity and consistency. The word “under” is substituted for “in the order of precedence prescribed in” to eliminate unnecessary words.
 
 **Editorial Notes**
 
@@ -2914,7 +2914,7 @@ In subsection (f), the word “individuals” is substituted for “persons” f
 
 2004—Subsec. (d)(1), (6). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-### § 776. Payment of survivor benefits
+### § 776. Payment of survivor benefits
 
 **(a)** An annuity under section 774 of this title accrues monthly and is paid monthly on the first business day of the month after the month in which an annuity accrues.
 
@@ -2944,13 +2944,13 @@ In subsection (f), the word “individuals” is substituted for “persons” f
 
 **(2)** A benefit under this section and sections 773–775 of this title is not assignable or subject to legal process.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 906; Pub. L. 100–426, title II, § 206, Sept. 9, 1988, 102 Stat. 1601; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 906; Pub. L. 100–426, title II, § 206, Sept. 9, 1988, 102 Stat. 1601; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 776(a) | 31:43b(m)(1st sentence). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(f), (j)(last 13 words before colon), (*l*), (m); added July 13, 1959, Pub. L. 86–87, 73 Stat. 198, 199. |
+| 776(a) | 31:43b(m)(1st sentence). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(f), (j)(last 13 words before colon), (*l*), (m); added July 13, 1959, Pub. L. 86–87, 73 Stat. 198, 199. |
 | 776(b) | 31:43b(f). |  |
 | 776(c) | 31:43b(*l*)(words before last comma). |  |
 | 776(d)(1) | 31:43b(j)(last 13 words before colon). |  |
@@ -2967,7 +2967,7 @@ In subsection (b)(3) and (4), the words “and paid” are omitted as surplus.
 
 In subsection (c)(2)(A), the words “duly appointed” are omitted as surplus. The word “individual” is substituted for “person” for consistency.
 
-In subsection (c)(2)(B), the words “payment may be made” and “the expiration of . . . from” are omitted as surplus. The words “to the payment” are substituted for “thereto” for clarity.
+In subsection (c)(2)(B), the words “payment may be made” and “the expiration of . . . from” are omitted as surplus. The words “to the payment” are substituted for “thereto” for clarity.
 
 In subsection (d)(2), the words “A benefit” are substituted for “None of the moneys mentioned” to eliminate unnecessary words. The words “either in law or equity” and “execution, levy, attachment, garnishment, or other” are omitted as surplus.
 
@@ -2977,9 +2977,9 @@ In subsection (d)(2), the words “A benefit” are substituted for “None of t
 
 2004—Subsec. (c)(2)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1988—Subsec. (b)(1). Pub. L. 100–426, § 206(1), inserted “before age 55” after “remarries”.
+1988—Subsec. (b)(1). Pub. L. 100–426, § 206(1), inserted “before age 55” after “remarries”.
 
-Subsec. (b)(2). Pub. L. 100–426, § 206(2), inserted “(unless the child is then a student as described in section 771(1)(C) of this title)” after “age”.
+Subsec. (b)(2). Pub. L. 100–426, § 206(2), inserted “(unless the child is then a student as described in section 771(1)(C) of this title)” after “age”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2987,19 +2987,19 @@ Subsec. (b)(2). Pub. L. 100–426, § 206(2), inserted “(unless the child is
 
 Amendment by Pub. L. 100–426 effective after end of 60-day period beginning Sept. 9, 1988, with certain exceptions, see section 208 of Pub. L. 100–426, set out as a note under section 772 of this title.
 
-### § 777. Annuity increases
+### § 777. Annuity increases
 
 **(a)** An annuity payable under this subchapter shall be increased at the same time that, and by the same percent as the percentage by which, annuities are increased under section 8340(b) of title 5.
 
 **(b)** An annuity under section 772 of this title may not be more than the basic pay of the Comptroller General. A surviving spouse’s annuity may be increased under this section without regard to any limitation set forth in section 774(e) of this title.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 906; Pub. L. 100–426, title II, § 207, Sept. 9, 1988, 102 Stat. 1601.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 906; Pub. L. 100–426, title II, § 207, Sept. 9, 1988, 102 Stat. 1601.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 777(a) | 31:43c(a)(words before colon), (1). | June 10, 1921, ch. 18, 42 Stat. 20, § 320; added Oct. 25, 1978, Pub. L. 95–512, § 3, 92 Stat. 1799. |
+| 777(a) | 31:43c(a)(words before colon), (1). | June 10, 1921, ch. 18, 42 Stat. 20, § 320; added Oct. 25, 1978, Pub. L. 95–512, § 3, 92 Stat. 1799. |
 | 777(b) | 31:43c(a)(2). |  |
 | 777(c) | 31:43c(a)(3), (b). |  |
 
@@ -3035,17 +3035,17 @@ In subsection (c)(2), the words “by reason of the application of subsection (a
 
 Amendment by Pub. L. 100–426 effective after end of 60-day period beginning Sept. 9, 1988, with certain exceptions, see section 208 of Pub. L. 100–426, set out as a note under section 772 of this title.
 
-### § 778. Dependency and disability decisions
+### § 778. Dependency and disability decisions
 
 The General Counsel of the Government Accountability Office shall decide a question of dependency, disability, or dependency and disability under sections 773–776 of this title. A decision under this section is final.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 907; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 907; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 778 | 31:43b(h). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(h); added July 13, 1959, Pub. L. 86–87, 73 Stat. 198. |
+| 778 | 31:43b(h). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(h); added July 13, 1959, Pub. L. 86–87, 73 Stat. 198. |
 
 The words “arising” and “and conclusive” are omitted as surplus.
 
@@ -3055,18 +3055,18 @@ The words “arising” and “and conclusive” are omitted as surplus.
 
 2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-### § 779. Use of appropriations
+### § 779. Use of appropriations
 
 Annuities and refunds under this subchapter shall be paid by the Comptroller General from appropriations of the Government Accountability Office.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 907; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 907; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 779 | 31:43(2d par. 3d sentence). | June 10, 1921, ch. 18, 42 Stat. 20, § 303(2d par. 3d sentence); added July 28, 1953, ch. 256, 67 Stat. 229. |
-|  | 31:43b(r). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(r); added July 13, 1959, Pub. L. 86–87, 73 Stat. 200. |
+| 779 | 31:43(2d par. 3d sentence). | June 10, 1921, ch. 18, 42 Stat. 20, § 303(2d par. 3d sentence); added July 28, 1953, ch. 256, 67 Stat. 229. |
+|  | 31:43b(r). | June 10, 1921, ch. 18, 42 Stat. 20, § 319(r); added July 13, 1959, Pub. L. 86–87, 73 Stat. 200. |
 
 The words “of deposits” in 31:43b(r) are omitted as surplus.
 
@@ -3078,11 +3078,11 @@ The words “of deposits” in 31:43b(r) are omitted as surplus.
 
 ## SUBCHAPTER VI—PROPERTY MANAGEMENT
 
-### § 781. Authority over the General Accounting Office Building
+### § 781. Authority over the General Accounting Office Building
 
 **(a)** The Comptroller General shall have exclusive custody and control over the building located at 441 G Street, N.W., in the District of Columbia, that is generally known as the General Accounting Office Building,1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 including operation, maintenance, protection, alteration, repair, and assignment of space therein. Such custody and control shall also extend to any machinery, equipment, spare parts and tools located in and usable for the operation and maintenance of the General Accounting Office Building.1 For the purposes of securing approval of any prospectus detailing proposed alterations of the General Accounting Office Building,1 as required by section 3307 of title 40, the Comptroller General shall perform the functions assigned to the Administrator of General Services by that section.
 
@@ -3096,7 +3096,7 @@ including operation, maintenance, protection, alteration, repair, and assignment
 
 **(3)** The Comptroller General may make advance, progress, and other payments which relate to agreements or contracts entered into under authority of this section, without regard to the provisions of section 3324(a) and (b) of this title.
 
-(Added Pub. L. 100–545, § 1, Oct. 28, 1988, 102 Stat. 2727; amended Pub. L. 107–217, § 3(h)(1), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 111–350, § 5(h)(3), Jan. 4, 2011, 124 Stat. 3849.)
+(Added Pub. L. 100–545, § 1, Oct. 28, 1988, 102 Stat. 2727; amended Pub. L. 107–217, § 3(h)(1), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 111–350, § 5(h)(3), Jan. 4, 2011, 124 Stat. 3849.)
 
 **Editorial Notes**
 
@@ -3118,7 +3118,7 @@ General Accounting Office redesignated Government Accountability Office. See sec
 
 **Source of Funds Used for Payment of Salaries and Expenses of Tiny Findings Child Development Center**
 
-Pub. L. 116–136, div. B, title IX, § 19009, Mar. 27, 2020, 134 Stat. 579, as amended by Pub. L. 116–260, div. O, title XI, § 1101(b)(3), Dec. 27, 2020, 134 Stat. 2157, provided that:
+Pub. L. 116–136, div. B, title IX, § 19009, Mar. 27, 2020, 134 Stat. 579, as amended by Pub. L. 116–260, div. O, title XI, § 1101(b)(3), Dec. 27, 2020, 134 Stat. 2157, provided that:
 
 > **“(a) Reimbursements.—** During the period beginning on the date of enactment of the Consolidated Appropriations Act, 2021 [Dec. 27, 2020] and ending on the termination date of the public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) resulting from the COVID–19 pandemic, the Government Accountability Office shall reimburse the Tiny Findings Child Development Center for expenses, due to measures taken in the Capitol complex to combat coronavirus, as calculated under subsection (b) and from amounts in the appropriations account ‘Government Accountability Office—Salaries and Expenses’.
 
@@ -3134,15 +3134,15 @@ Pub. L. 116–136, div. B, title IX, § 19009, Mar. 27, 2020, 134 Stat. 579, a
 
 [For definition of “coronavirus” as used in section 19009 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under section 162b of Title 2, The Congress.]
 
-### § 782. Leasing of space in the General Accounting Office Building
+### § 782. Leasing of space in the General Accounting Office Building
 
-The Comptroller General is authorized to lease or otherwise provide space and services within the General Accounting Office Building 1
+The Comptroller General is authorized to lease or otherwise provide space and services within the General Accounting Office Building 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
-to persons, both public and private, or to any department, agency or instrumentality of the United States Government upon such terms and conditions as the Comptroller General deems necessary to protect the public interest. The Comptroller General shall establish a rental rate for such leased space equivalent to the prevailing commercial rate for comparable space devoted to a similar purpose in the vicinity of the General Accounting Office Building.1 Additionally, the Comptroller General may make available, on occasion, or may lease at such rates and on such other terms and conditions as the Comptroller General deems to be in the public interest, auditoriums, meeting rooms, and lobbies of the General Accounting Office Building 1 to persons, firms, or organizations engaged in cultural, educational, or recreational activities (as defined in section 3306(a) of title 40). The Comptroller General will consult with the Administrator of General Services and will give priority to Federal agencies in filling available space within the General Accounting Office Building.1 Payments for space or services may be made in advance or by way of reimbursement and shall be deposited to a special account and shall be available for expenditure for operation, maintenance, protection, alteration, or repair of the General Accounting Office Building 1 in such amounts as are specified in annual appropriation Acts without regard to fiscal year limitations.
+to persons, both public and private, or to any department, agency or instrumentality of the United States Government upon such terms and conditions as the Comptroller General deems necessary to protect the public interest. The Comptroller General shall establish a rental rate for such leased space equivalent to the prevailing commercial rate for comparable space devoted to a similar purpose in the vicinity of the General Accounting Office Building.1 Additionally, the Comptroller General may make available, on occasion, or may lease at such rates and on such other terms and conditions as the Comptroller General deems to be in the public interest, auditoriums, meeting rooms, and lobbies of the General Accounting Office Building 1 to persons, firms, or organizations engaged in cultural, educational, or recreational activities (as defined in section 3306(a) of title 40). The Comptroller General will consult with the Administrator of General Services and will give priority to Federal agencies in filling available space within the General Accounting Office Building.1 Payments for space or services may be made in advance or by way of reimbursement and shall be deposited to a special account and shall be available for expenditure for operation, maintenance, protection, alteration, or repair of the General Accounting Office Building 1 in such amounts as are specified in annual appropriation Acts without regard to fiscal year limitations.
 
-(Added Pub. L. 100–545, § 1, Oct. 28, 1988, 102 Stat. 2728; amended Pub. L. 103–272, § 4(f)(1)(D), July 5, 1994, 108 Stat. 1362; Pub. L. 107–217, § 3(h)(2), Aug. 21, 2002, 116 Stat. 1299.)
+(Added Pub. L. 100–545, § 1, Oct. 28, 1988, 102 Stat. 2728; amended Pub. L. 103–272, § 4(f)(1)(D), July 5, 1994, 108 Stat. 1362; Pub. L. 107–217, § 3(h)(2), Aug. 21, 2002, 116 Stat. 1299.)
 
 **Editorial Notes**
 
@@ -3160,19 +3160,19 @@ General Accounting Office redesignated Government Accountability Office. See sec
 
 **Payments of Reimbursements Incident to Operation of General Accounting Office Building**
 
-Pub. L. 101–520, title II, Nov. 5, 1990, 104 Stat. 2275, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided in part that “notwithstanding the provisions of section 782 of title 31, United States Code, hereinafter any payments of reimbursements received incident to the operation of the General Accounting Office Building shall be credited to the appropriation currently available to the Government Accountability Office and remain available until expended, and not more than $5,915,000 of such funds shall be available for use in fiscal year 1991”.
+Pub. L. 101–520, title II, Nov. 5, 1990, 104 Stat. 2275, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided in part that “notwithstanding the provisions of section 782 of title 31, United States Code, hereinafter any payments of reimbursements received incident to the operation of the General Accounting Office Building shall be credited to the appropriation currently available to the Government Accountability Office and remain available until expended, and not more than $5,915,000 of such funds shall be available for use in fiscal year 1991”.
 
-### § 783. Rules and regulations
+### § 783. Rules and regulations
 
 **(a)** The Comptroller General is authorized to make all needful rules and regulations for the Government of the General Accounting Office Building,1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 and to annex to such rules and regulations such reasonable penalties, within the limits prescribed in subsection (b), as will ensure their enforcement. Such rules and regulations shall be posted and kept posted in a conspicuous place on such Federal property.
 
 **(b)** Whoever shall violate any rule or regulation promulgated pursuant to subsection (a) shall be fined not more than $500 or imprisoned not more than 6 months, or both.
 
-(Added Pub. L. 100–545, § 1, Oct. 28, 1988, 102 Stat. 2728.)
+(Added Pub. L. 100–545, § 1, Oct. 28, 1988, 102 Stat. 2728.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3182,7 +3182,7 @@ General Accounting Office redesignated Government Accountability Office. See sec
 
 ## SUBCHAPTER VII—CENTER FOR AUDIT EXCELLENCE
 
-### § 791. Center for Audit Excellence
+### § 791. Center for Audit Excellence
 
 **(a) Establishment.—** The Comptroller General shall establish, maintain, and operate a center within the Government Accountability Office to be known as the “Center for Audit Excellence” (hereafter in this subchapter referred to as the “Center”).
 
@@ -3202,13 +3202,13 @@ General Accounting Office redesignated Government Accountability Office. See sec
 
 **(e) Sense of Congress Regarding Personnel.—** It is the sense of Congress that the Center should be staffed primarily by personnel of the Government Accountability Office who are not otherwise engaged in carrying out other duties of the Office under this chapter, so as to ensure that the operation of the Center will not detract from or impact the oversight and audit work of the Office.
 
-(Added Pub. L. 113–235, div. H, title I, § 1401(a)(1), Dec. 16, 2014, 128 Stat. 2539.)
+(Added Pub. L. 113–235, div. H, title I, § 1401(a)(1), Dec. 16, 2014, 128 Stat. 2539.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Approval of Business Plan**
 
-Pub. L. 113–235, div. H, title I, § 1401(b), Dec. 16, 2014, 128 Stat. 2541, provided that:
+Pub. L. 113–235, div. H, title I, § 1401(b), Dec. 16, 2014, 128 Stat. 2541, provided that:
 
 > “The Comptroller General may not begin operating the Center for Audit Excellence under subchapter VII of chapter 7 of title 31, United States Code (as added by subsection (a)) until—
 
@@ -3216,16 +3216,16 @@ Pub. L. 113–235, div. H, title I, § 1401(b), Dec. 16, 2014, 128 Stat. 2541,
 
 > **“(2)** each such Committee approves the plan.”
 
-### § 792. Account
+### § 792. Account
 
 **(a) Establishment of Separate Account.—** There is established in the Treasury as a separate account for the Government Accountability Office the “Center for Audit Excellence Account”, which shall consist of the fees deposited by the Comptroller General under section 791(c) and such other amounts as may be appropriated under law.
 
 **(b) Use of Account.—** Amounts in the Center for Audit Excellence Account shall be available to the Comptroller General, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out this subchapter.
 
-(Added Pub. L. 113–235, div. H, title I, § 1401(a)(1), Dec. 16, 2014, 128 Stat. 2540.)
+(Added Pub. L. 113–235, div. H, title I, § 1401(a)(1), Dec. 16, 2014, 128 Stat. 2540.)
 
-### § 793. Authorization of appropriations
+### § 793. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 
-(Added Pub. L. 113–235, div. H, title I, § 1401(a)(1), Dec. 16, 2014, 128 Stat. 2540.)
+(Added Pub. L. 113–235, div. H, title I, § 1401(a)(1), Dec. 16, 2014, 128 Stat. 2540.)

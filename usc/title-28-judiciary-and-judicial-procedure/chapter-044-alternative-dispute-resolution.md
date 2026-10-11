@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1998—Pub. L. 105–315, § 12(b)(1), (2), Oct. 30, 1998, 112 Stat. 2998, substituted “ALTERNATIVE DISPUTE RESOLUTION” for “ARBITRATION” in chapter heading and amended analysis generally, substituting items 651 to 658 for former items 651 “Authorization of arbitration”, 652 “Jurisdiction”, 653 “Powers of arbitrator; arbitration hearing”, 654 “Arbitration award and judgment”, 655 “Trial de novo”, 656 “Certification of arbitrators”, 657 “Compensation of arbitrators”, and 658 “District courts that may authorize arbitration”.
+1998—Pub. L. 105–315, § 12(b)(1), (2), Oct. 30, 1998, 112 Stat. 2998, substituted “ALTERNATIVE DISPUTE RESOLUTION” for “ARBITRATION” in chapter heading and amended analysis generally, substituting items 651 to 658 for former items 651 “Authorization of arbitration”, 652 “Jurisdiction”, 653 “Powers of arbitrator; arbitration hearing”, 654 “Arbitration award and judgment”, 655 “Trial de novo”, 656 “Certification of arbitrators”, 657 “Compensation of arbitrators”, and 658 “District courts that may authorize arbitration”.
 
-## § 651. Authorization of alternative dispute resolution
+## § 651. Authorization of alternative dispute resolution
 
 **(a) Definition.—** For purposes of this chapter, an alternative dispute resolution process includes any process or procedure, other than an adjudication by a presiding judge, in which a neutral third party participates to assist in the resolution of issues in controversy, through processes such as early neutral evaluation, mediation, minitrial, and arbitration as provided in sections 654 through 658.
 
@@ -35,7 +35,7 @@ retrieved: 2026-10-11
 
 **(f) Program Support.—** The Federal Judicial Center and the Administrative Office of the United States Courts are authorized to assist the district courts in the establishment and improvement of alternative dispute resolution programs by identifying particular practices employed in successful programs and providing additional assistance as needed and appropriate.
 
-(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4659; amended Pub. L. 105–315, § 3, Oct. 30, 1998, 112 Stat. 2993.)
+(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4659; amended Pub. L. 105–315, § 3, Oct. 30, 1998, 112 Stat. 2993.)
 
 **Editorial Notes**
 
@@ -51,15 +51,15 @@ The date of the enactment of the Alternative Dispute Resolution Act of 1998, ref
 
 **Effective Date**
 
-Pub. L. 100–702, title IX, § 907, Nov. 19, 1988, 102 Stat. 4664, provided that: “This title and the amendments made by this title [enacting this chapter and provisions set out as notes under this section and section 652 of this title] shall take effect 180 days after the date of enactment of this Act [Nov. 19, 1988].”
+Pub. L. 100–702, title IX, § 907, Nov. 19, 1988, 102 Stat. 4664, provided that: “This title and the amendments made by this title [enacting this chapter and provisions set out as notes under this section and section 652 of this title] shall take effect 180 days after the date of enactment of this Act [Nov. 19, 1988].”
 
-Pub. L. 100–702, title IX, § 906, Nov. 19, 1988, 102 Stat. 4664, as amended by Pub. L. 103–192, § 1(a), Dec. 14, 1993, 107 Stat. 2292, provided that, effective Dec. 31, 1994, this chapter and the item relating to this chapter in the table of chapters at the beginning of part III of this title were repealed, prior to repeal by Pub. L. 103–420, § 3(b), Oct. 25, 1994, 108 Stat. 4345.
+Pub. L. 100–702, title IX, § 906, Nov. 19, 1988, 102 Stat. 4664, as amended by Pub. L. 103–192, § 1(a), Dec. 14, 1993, 107 Stat. 2292, provided that, effective Dec. 31, 1994, this chapter and the item relating to this chapter in the table of chapters at the beginning of part III of this title were repealed, prior to repeal by Pub. L. 103–420, § 3(b), Oct. 25, 1994, 108 Stat. 4345.
 
-Pub. L. 103–192, § 2, Dec. 14, 1993, 107 Stat. 2292, provided that this chapter and the item relating to this chapter in the table of chapters at the beginning of part III of this title continued on or after Dec. 14, 1993, as if they had not been repealed by section 906 of Pub. L. 100–702, formerly set out above, as such section was in effect on the day before Dec. 14, 1993.
+Pub. L. 103–192, § 2, Dec. 14, 1993, 107 Stat. 2292, provided that this chapter and the item relating to this chapter in the table of chapters at the beginning of part III of this title continued on or after Dec. 14, 1993, as if they had not been repealed by section 906 of Pub. L. 100–702, formerly set out above, as such section was in effect on the day before Dec. 14, 1993.
 
 **Congressional Findings and Declaration of Policy**
 
-Pub. L. 105–315, § 2, Oct. 30, 1998, 112 Stat. 2993, provided that:
+Pub. L. 105–315, § 2, Oct. 30, 1998, 112 Stat. 2993, provided that:
 
 > “Congress finds that—
 
@@ -71,11 +71,11 @@ Pub. L. 105–315, § 2, Oct. 30, 1998, 112 Stat. 2993, provided that:
 
 **Model Procedures**
 
-Pub. L. 100–702, title IX, § 902, Nov. 19, 1988, 102 Stat. 4663, provided that: “The Judicial Conference of the United States may develop model rules relating to procedures for arbitration under chapter 44, as added by section 901 of this Act. No model rule may supersede any provision of such chapter 44, this title [enacting this chapter and provisions set out as notes under this section and section 652 of this title], or any law of the United States.”
+Pub. L. 100–702, title IX, § 902, Nov. 19, 1988, 102 Stat. 4663, provided that: “The Judicial Conference of the United States may develop model rules relating to procedures for arbitration under chapter 44, as added by section 901 of this Act. No model rule may supersede any provision of such chapter 44, this title [enacting this chapter and provisions set out as notes under this section and section 652 of this title], or any law of the United States.”
 
 **Reports by Director of Administrative Office of United States Courts and by Federal Judicial Center**
 
-Pub. L. 100–702, title IX, § 903, Nov. 19, 1988, 102 Stat. 4663, provided that:
+Pub. L. 100–702, title IX, § 903, Nov. 19, 1988, 102 Stat. 4663, provided that:
 
 > **“(a) Annual Report by Director of Administrative Office of the United States Courts.—** The Director of the Administrative Office of the United States Courts shall include in the annual report of the activities of the Administrative Office required under section 604(a)(3) [28 U.S.C. 604(a)(3)], statistical information about the implementation of chapter 44, as added by section 901 of this Act.
 
@@ -93,15 +93,15 @@ Pub. L. 100–702, title IX, § 903, Nov. 19, 1988, 102 Stat. 4663, provided t
 
 **Effect on Judicial Rulemaking Powers**
 
-Pub. L. 100–702, title IX, § 904, Nov. 19, 1988, 102 Stat. 4663, provided that: “Nothing in this title [enacting this chapter and provisions set out as notes under this section and section 652 of this title], or in chapter 44, as added by section 901 of this Act, is intended to abridge, modify, or enlarge the rule making powers of the Federal judiciary.”
+Pub. L. 100–702, title IX, § 904, Nov. 19, 1988, 102 Stat. 4663, provided that: “Nothing in this title [enacting this chapter and provisions set out as notes under this section and section 652 of this title], or in chapter 44, as added by section 901 of this Act, is intended to abridge, modify, or enlarge the rule making powers of the Federal judiciary.”
 
 **Authorization of Appropriations**
 
-Pub. L. 105–315, § 11, Oct. 30, 1998, 112 Stat. 2998, provided that: “There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out chapter 44 of title 28, United States Code, as amended by this Act.”
+Pub. L. 105–315, § 11, Oct. 30, 1998, 112 Stat. 2998, provided that: “There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out chapter 44 of title 28, United States Code, as amended by this Act.”
 
-Pub. L. 100–702, title IX, § 905, Nov. 19, 1988, 102 Stat. 4664, as amended by Pub. L. 103–192, § 1(b), Dec. 14, 1993, 107 Stat. 2292; Pub. L. 103–420, § 3(a), Oct. 25, 1994, 108 Stat. 4345; Pub. L. 105–53, § 1, Oct. 6, 1997, 111 Stat. 1173, provided that: “There are authorized to be appropriated for each fiscal year to the judicial branch such sums as may be necessary to carry out the purposes of chapter 44, as added by section 901 of this Act. Funds appropriated under this section shall be allocated by the Administrative Office of the United States Courts to Federal judicial districts and the Federal Judicial Center. The funds so appropriated are authorized to remain available until expended.”
+Pub. L. 100–702, title IX, § 905, Nov. 19, 1988, 102 Stat. 4664, as amended by Pub. L. 103–192, § 1(b), Dec. 14, 1993, 107 Stat. 2292; Pub. L. 103–420, § 3(a), Oct. 25, 1994, 108 Stat. 4345; Pub. L. 105–53, § 1, Oct. 6, 1997, 111 Stat. 1173, provided that: “There are authorized to be appropriated for each fiscal year to the judicial branch such sums as may be necessary to carry out the purposes of chapter 44, as added by section 901 of this Act. Funds appropriated under this section shall be allocated by the Administrative Office of the United States Courts to Federal judicial districts and the Federal Judicial Center. The funds so appropriated are authorized to remain available until expended.”
 
-## § 652. Jurisdiction
+## § 652. Jurisdiction
 
 **(a) Consideration of Alternative Dispute Resolution in Appropriate Cases.—** Notwithstanding any provision of law to the contrary and except as provided in subsections (b) and (c), each district court shall, by local rule adopted under section 2071(a), require that litigants in all civil cases consider the use of an alternative dispute resolution process at an appropriate stage in the litigation. Each district court shall provide litigants in all civil cases with at least one alternative dispute resolution process, including, but not limited to, mediation, early neutral evaluation, minitrial, and arbitration as authorized in sections 654 through 658. Any district court that elects to require the use of alternative dispute resolution in certain cases may do so only with respect to mediation, early neutral evaluation, and, if the parties consent, arbitration.
 
@@ -111,7 +111,7 @@ Pub. L. 100–702, title IX, § 905, Nov. 19, 1988, 102 Stat. 4664, as amended
 
 **(d) Confidentiality Provisions.—** Until such time as rules are adopted under chapter 131 of this title providing for the confidentiality of alternative dispute resolution processes under this chapter, each district court shall, by local rule adopted under section 2071(a), provide for the confidentiality of the alternative dispute resolution processes and to prohibit disclosure of confidential dispute resolution communications.
 
-(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4659; amended Pub. L. 105–315, § 4, Oct. 30, 1998, 112 Stat. 2994.)
+(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4659; amended Pub. L. 105–315, § 4, Oct. 30, 1998, 112 Stat. 2994.)
 
 **Editorial Notes**
 
@@ -123,15 +123,15 @@ Pub. L. 100–702, title IX, § 905, Nov. 19, 1988, 102 Stat. 4664, as amended
 
 **Exception to Limitation on Money Damages**
 
-Pub. L. 100–702, title IX, § 901(c), Nov. 19, 1988, 102 Stat. 4663, provided that notwithstanding establishment by former section 652 of this title of a $100,000 limitation on money damages with respect to cases referred to arbitration, a district court listed in former section 658 of this title whose local rule on Nov. 19, 1988, provided for a limitation on money damages of not more than $150,000, could continue to apply the higher limitation, prior to repeal by Pub. L. 105–315, § 12(a), Oct. 30, 1998, 112 Stat. 2998.
+Pub. L. 100–702, title IX, § 901(c), Nov. 19, 1988, 102 Stat. 4663, provided that notwithstanding establishment by former section 652 of this title of a $100,000 limitation on money damages with respect to cases referred to arbitration, a district court listed in former section 658 of this title whose local rule on Nov. 19, 1988, provided for a limitation on money damages of not more than $150,000, could continue to apply the higher limitation, prior to repeal by Pub. L. 105–315, § 12(a), Oct. 30, 1998, 112 Stat. 2998.
 
-## § 653. Neutrals
+## § 653. Neutrals
 
 **(a) Panel of Neutrals.—** Each district court that authorizes the use of alternative dispute resolution processes shall adopt appropriate processes for making neutrals available for use by the parties for each category of process offered. Each district court shall promulgate its own procedures and criteria for the selection of neutrals on its panels.
 
 **(b) Qualifications and Training.—** Each person serving as a neutral in an alternative dispute resolution process should be qualified and trained to serve as a neutral in the appropriate alternative dispute resolution process. For this purpose, the district court may use, among others, magistrate judges who have been trained to serve as neutrals in alternative dispute resolution processes, professional neutrals from the private sector, and persons who have been trained to serve as neutrals in alternative dispute resolution processes. Until such time as rules are adopted under chapter 131 of this title relating to the disqualification of neutrals, each district court shall issue rules under section 2071(a) relating to the disqualification of neutrals (including, where appropriate, disqualification under section 455 of this title, other applicable law, and professional responsibility standards).
 
-(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4660; amended Pub. L. 105–315, § 5, Oct. 30, 1998, 112 Stat. 2995.)
+(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4660; amended Pub. L. 105–315, § 5, Oct. 30, 1998, 112 Stat. 2995.)
 
 **Editorial Notes**
 
@@ -139,7 +139,7 @@ Pub. L. 100–702, title IX, § 901(c), Nov. 19, 1988, 102 Stat. 4663, provide
 
 1998—Pub. L. 105–315 amended section generally, substituting provisions relating to neutrals in alternative dispute resolution process for provisions relating to powers of arbitrator and arbitration hearing.
 
-## § 654. Arbitration
+## § 654. Arbitration
 
 **(a) Referral of Actions to Arbitration.—** Notwithstanding any provision of law to the contrary and except as provided in subsections (a), (b), and (c) of section 652 and subsection (d) of this section, a district court may allow the referral to arbitration of any civil action (including any adversary proceeding in bankruptcy) pending before it when the parties consent, except that referral to arbitration may not be made where—
 
@@ -157,13 +157,13 @@ Pub. L. 100–702, title IX, § 901(c), Nov. 19, 1988, 102 Stat. 4663, provide
 
 **(c) Presumptions.—** For purposes of subsection (a)(3), a district court may presume damages are not in excess of $150,000 unless counsel certifies that damages exceed such amount.
 
-**(d) Existing Programs.—** Nothing in this chapter is deemed to affect any program in which arbitration is conducted pursuant to section 1
+**(d) Existing Programs.—** Nothing in this chapter is deemed to affect any program in which arbitration is conducted pursuant to section 1
 
-<sup>1</sup>  So in original. The word “section” probably should not appear.
+<sup>1</sup> So in original. The word “section” probably should not appear.
 
 title IX of the Judicial Improvements and Access to Justice Act (Public Law 100–702), as amended by section 1 of Public Law 105–53.
 
-(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4660; amended Pub. L. 105–315, § 6, Oct. 30, 1998, 112 Stat. 2995.)
+(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4660; amended Pub. L. 105–315, § 6, Oct. 30, 1998, 112 Stat. 2995.)
 
 **Editorial Notes**
 
@@ -175,7 +175,7 @@ Title IX of the Judicial Improvements and Access to Justice Act (Public Law 100�
 
 1998—Pub. L. 105–315 amended section generally, substituting provisions relating to arbitration for provisions relating to arbitration award and judgment.
 
-## § 655. Arbitrators
+## § 655. Arbitrators
 
 **(a) Powers of Arbitrators.—** An arbitrator to whom an action is referred under section 654 shall have the power, within the judicial district of the district court which referred the action to arbitration—
 
@@ -193,7 +193,7 @@ Title IX of the Judicial Improvements and Access to Justice Act (Public Law 100�
 
 **(c) Immunity.—** All individuals serving as arbitrators in an alternative dispute resolution program under this chapter are performing quasi-judicial functions and are entitled to the immunities and protections that the law accords to persons serving in such capacity.
 
-(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4661; amended Pub. L. 105–315, § 7, Oct. 30, 1998, 112 Stat. 2996.)
+(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4661; amended Pub. L. 105–315, § 7, Oct. 30, 1998, 112 Stat. 2996.)
 
 **Editorial Notes**
 
@@ -201,11 +201,11 @@ Title IX of the Judicial Improvements and Access to Justice Act (Public Law 100�
 
 1998—Pub. L. 105–315 amended section generally, substituting provisions relating to arbitrators for provisions relating to trial de novo.
 
-## § 656. Subpoenas
+## § 656. Subpoenas
 
 Rule 45 of the Federal Rules of Civil Procedure (relating to subpoenas) applies to subpoenas for the attendance of witnesses and the production of documentary evidence at an arbitration hearing under this chapter.
 
-(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4662; amended Pub. L. 105–315, § 8, Oct. 30, 1998, 112 Stat. 2996.)
+(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4662; amended Pub. L. 105–315, § 8, Oct. 30, 1998, 112 Stat. 2996.)
 
 **Editorial Notes**
 
@@ -217,7 +217,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 1998—Pub. L. 105–315 amended section generally, substituting provisions relating to subpoenas for provisions relating to certification of arbitrators.
 
-## § 657. Arbitration award and judgment
+## § 657. Arbitration award and judgment
 
 **(a) Filing and Effect of Arbitration Award.—** An arbitration award made by an arbitrator under this chapter, along with proof of service of such award on the other party by the prevailing party or by the plaintiff, shall be filed promptly after the arbitration hearing is concluded with the clerk of the district court that referred the case to arbitration. Such award shall be entered as the judgment of the court after the time has expired for requesting a trial de novo. The judgment so entered shall be subject to the same provisions of law and shall have the same force and effect as a judgment of the court in a civil action, except that the judgment shall not be subject to review in any other court by appeal or otherwise.
 
@@ -235,7 +235,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 **(B)** the parties have otherwise stipulated.
 
-(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4662; amended Pub. L. 105–315, § 9, Oct. 30, 1998, 112 Stat. 2997.)
+(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4662; amended Pub. L. 105–315, § 9, Oct. 30, 1998, 112 Stat. 2997.)
 
 **Editorial Notes**
 
@@ -247,13 +247,13 @@ The Federal Rules of Evidence, referred to in subsec. (c)(3)(A), are set out in 
 
 1998—Pub. L. 105–315 amended section generally, substituting provisions relating to arbitration award and judgment for provisions relating to compensation of arbitrators.
 
-## § 658. Compensation of arbitrators and neutrals
+## § 658. Compensation of arbitrators and neutrals
 
 **(a) Compensation.—** The district court shall, subject to regulations approved by the Judicial Conference of the United States, establish the amount of compensation, if any, that each arbitrator or neutral shall receive for services rendered in each case under this chapter.
 
 **(b) Transportation Allowances.—** Under regulations prescribed by the Director of the Administrative Office of the United States Courts, a district court may reimburse arbitrators and other neutrals for actual transportation expenses necessarily incurred in the performance of duties under this chapter.
 
-(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4662; amended Pub. L. 105–315, § 10, Oct. 30, 1998, 112 Stat. 2997.)
+(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4662; amended Pub. L. 105–315, § 10, Oct. 30, 1998, 112 Stat. 2997.)
 
 **Editorial Notes**
 

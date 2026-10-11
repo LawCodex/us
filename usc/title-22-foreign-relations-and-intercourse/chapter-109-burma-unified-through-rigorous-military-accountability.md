@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 109—BURMA UNIFIED THROUGH RIGOROUS MILITARY ACCOUNTABILITY
 
-## § 10201. Definitions
+## § 10201. Definitions
 
 In this chapter:
 
@@ -37,7 +37,7 @@ The term “genocide” means any offense described in section 1091(a) of title 
 
 The term “war crime” has the meaning given the term in section 2441(c) of title 18.
 
-(Pub. L. 117–263, div. E, title LV, § 5568, Dec. 23, 2022, 136 Stat. 3361.)
+(Pub. L. 117–263, div. E, title LV, § 5568, Dec. 23, 2022, 136 Stat. 3361.)
 
 **Editorial Notes**
 
@@ -49,11 +49,11 @@ Executive Order 14014, referred to in par. (2), is Ex. Ord. No. 14014, Feb. 10, 
 
 **Short Title**
 
-Pub. L. 117–263, div. E, title LV, § 5567, Dec. 23, 2022, 136 Stat. 3361, provided that: “This subtitle [subtitle E (§§ 5567–5579) of title LV of div. E of Pub. L. 117–263, enacting this chapter] may be cited as the ‘Burma Unified through Rigorous Military Accountability Act of 2022’ or the ‘BURMA Act of 2022’.”
+Pub. L. 117–263, div. E, title LV, § 5567, Dec. 23, 2022, 136 Stat. 3361, provided that: “This subtitle [subtitle E (§§ 5567–5579) of title LV of div. E of Pub. L. 117–263, enacting this chapter] may be cited as the ‘Burma Unified through Rigorous Military Accountability Act of 2022’ or the ‘BURMA Act of 2022’.”
 
 ## SUBCHAPTER I—MATTERS RELATING TO THE CONFLICT IN BURMA
 
-### § 10211. Statement of policy
+### § 10211. Statement of policy
 
 It is the policy of the United States to—
 
@@ -73,11 +73,11 @@ It is the policy of the United States to—
 
 **(8)** provide humanitarian assistance to the people of Burma in Burma, Bangladesh, Thailand, and the surrounding region without going through the Burmese military.
 
-(Pub. L. 117–263, div. E, title LV, § 5569, Dec. 23, 2022, 136 Stat. 3362.)
+(Pub. L. 117–263, div. E, title LV, § 5569, Dec. 23, 2022, 136 Stat. 3362.)
 
 ## SUBCHAPTER II—SANCTIONS AND POLICY COORDINATION WITH RESPECT TO BURMA
 
-### § 10221. Definitions
+### § 10221. Definitions
 
 In this subchapter:
 
@@ -123,9 +123,9 @@ The term “support”, with respect to the Burmese military, means to knowingly
 
 **(C)** any person in the United States.
 
-(Pub. L. 117–263, div. E, title LV, § 5570, Dec. 23, 2022, 136 Stat. 3362.)
+(Pub. L. 117–263, div. E, title LV, § 5570, Dec. 23, 2022, 136 Stat. 3362.)
 
-### § 10222. Imposition of sanctions with respect to human rights abuses and perpetration of a coup in Burma
+### § 10222. Imposition of sanctions with respect to human rights abuses and perpetration of a coup in Burma
 
 **(a) Mandatory sanctions** Not later than 180 days after December 23, 2022, the President shall impose the sanctions described in subsection (d) with respect to any foreign person that the President determines—
 
@@ -269,17 +269,17 @@ The penalties provided for in subsections (b) and (c) of section 206 of the Inte
 
 **(2)** assesses the impact of the sanctions imposed pursuant to the authorities under this section on the Burmese people and the Burmese military.
 
-(Pub. L. 117–263, div. E, title LV, § 5571, Dec. 23, 2022, 136 Stat. 3363.)
+(Pub. L. 117–263, div. E, title LV, § 5571, Dec. 23, 2022, 136 Stat. 3363.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (d)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (d)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (d)(3)(A)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (d)(3)(A)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-### § 10223. Sanctions and policy coordination for Burma
+### § 10223. Sanctions and policy coordination for Burma
 
 **(a) In general**
 
@@ -301,9 +301,9 @@ The head of the Office of Sanctions Coordination in the Department of State shou
 
 **(5)** provide timely input for reporting on the impacts of the implementation of sanctions on the Burmese military and the people of Burma.
 
-(Pub. L. 117–263, div. E, title LV, § 5572, Dec. 23, 2022, 136 Stat. 3366.)
+(Pub. L. 117–263, div. E, title LV, § 5572, Dec. 23, 2022, 136 Stat. 3366.)
 
-### § 10224. Support for greater United Nations action with respect to Burma
+### § 10224. Support for greater United Nations action with respect to Burma
 
 **(a) Sense of Congress** It is the sense of Congress that—
 
@@ -329,9 +329,9 @@ The head of the Office of Sanctions Coordination in the Department of State shou
 
 **(2)** work to ensure the Burmese military is not recognized as the legitimate government of Burma in any United Nations body.
 
-(Pub. L. 117–263, div. E, title LV, § 5573, Dec. 23, 2022, 136 Stat. 3367.)
+(Pub. L. 117–263, div. E, title LV, § 5573, Dec. 23, 2022, 136 Stat. 3367.)
 
-### § 10225. Sunset
+### § 10225. Sunset
 
 **(a) In general**
 
@@ -359,11 +359,11 @@ The authority to impose sanctions and the sanctions imposed under this subchapte
 
 The notice required by paragraph (1) shall be submitted in unclassified form but may include a classified annex.
 
-(Pub. L. 117–263, div. E, title LV, § 5574, Dec. 23, 2022, 136 Stat. 3368.)
+(Pub. L. 117–263, div. E, title LV, § 5574, Dec. 23, 2022, 136 Stat. 3368.)
 
 ## SUBCHAPTER III—AUTHORIZATIONS OF APPROPRIATIONS FOR ASSISTANCE FOR BURMA
 
-### § 10241. General authorization of appropriations
+### § 10241. General authorization of appropriations
 
 During each of the fiscal years 2023 through 2027, following consultation with the appropriate congressional committees and subject to the limitations described in section 10242 of this title, funds authorized to be made available to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 may be made available, notwithstanding any other provision of law, for—
 
@@ -381,15 +381,15 @@ During each of the fiscal years 2023 through 2027, following consultation with t
 
 **(7)** programs to assist civil society organizations and ethnic groups with reconciliation activities related to Burma.
 
-(Pub. L. 117–263, div. E, title LV, § 5575, Dec. 23, 2022, 136 Stat. 3369.)
+(Pub. L. 117–263, div. E, title LV, § 5575, Dec. 23, 2022, 136 Stat. 3369.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-### § 10242. Limitations
+### § 10242. Limitations
 
 Except as provided for by this subchapter, none of the funds authorized to be appropriated for assistance for Burma by this subchapter may be made available to—
 
@@ -397,9 +397,9 @@ Except as provided for by this subchapter, none of the funds authorized to be ap
 
 **(2)** the Burmese military.
 
-(Pub. L. 117–263, div. E, title LV, § 5576, Dec. 23, 2022, 136 Stat. 3369.)
+(Pub. L. 117–263, div. E, title LV, § 5576, Dec. 23, 2022, 136 Stat. 3369.)
 
-### § 10243. Appropriate congressional committees defined
+### § 10243. Appropriate congressional committees defined
 
 In this subchapter, the term “appropriate congressional committees” means—
 
@@ -407,11 +407,11 @@ In this subchapter, the term “appropriate congressional committees” means—
 
 **(2)** the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 117–263, div. E, title LV, § 5577, Dec. 23, 2022, 136 Stat. 3370.)
+(Pub. L. 117–263, div. E, title LV, § 5577, Dec. 23, 2022, 136 Stat. 3370.)
 
 ## SUBCHAPTER IV—EFFORTS AGAINST HUMAN RIGHTS ABUSES
 
-### § 10251. Authorization to provide technical assistance for efforts against human rights abuses
+### § 10251. Authorization to provide technical assistance for efforts against human rights abuses
 
 **(a) In general** The Secretary of State is authorized to provide assistance to support appropriate civilian or international entities that—
 
@@ -427,11 +427,11 @@ In this subchapter, the term “appropriate congressional committees” means—
 
 The Secretary of State, taking into account any relevant findings in the report submitted under section 5941,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 is authorized to provide support for the establishment and operation of transitional justice mechanisms, including a hybrid tribunal, to prosecute individuals suspected of committing war crimes, crimes against humanity, or genocide in Burma.
 
-(Pub. L. 117–263, div. E, title LV, § 5578, Dec. 23, 2022, 136 Stat. 3370.)
+(Pub. L. 117–263, div. E, title LV, § 5578, Dec. 23, 2022, 136 Stat. 3370.)
 
 **Editorial Notes**
 
@@ -441,7 +441,7 @@ Section 5941, referred to in subsec. (b), is unidentifiable in the original. Alt
 
 ## SUBCHAPTER V—SANCTIONS EXCEPTION RELATING TO IMPORTATION OF GOODS
 
-### § 10261. Sanctions exception relating to importation of goods
+### § 10261. Sanctions exception relating to importation of goods
 
 **(a) In general**
 
@@ -451,4 +451,4 @@ The authorities and requirements to impose sanctions under this chapter shall no
 
 In this section, the term “good” means any article, natural or man-made substance, material, supply, or manufactured product, including inspection and test equipment, and excluding technical data.
 
-(Pub. L. 117–263, div. E, title LV, § 5579, Dec. 23, 2022, 136 Stat. 3370.)
+(Pub. L. 117–263, div. E, title LV, § 5579, Dec. 23, 2022, 136 Stat. 3370.)

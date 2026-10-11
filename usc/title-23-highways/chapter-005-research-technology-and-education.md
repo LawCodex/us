@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 5, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 830, consisting of sections 501 to 512, related to highway relocation assistance, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903. See section 4601 et seq. of Title 42, The Public Health and Welfare. For Effective Date of Repeal and Savings Provisions, see sections 221 and 220(b) of Pub. L. 91–646, set out as notes under sections 4601 and 4621, respectively, of Title 42.
+A prior chapter 5, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 830, consisting of sections 501 to 512, related to highway relocation assistance, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903. See section 4601 et seq. of Title 42, The Public Health and Welfare. For Effective Date of Repeal and Savings Provisions, see sections 221 and 220(b) of Pub. L. 91–646, set out as notes under sections 4601 and 4621, respectively, of Title 42.
 
 **Amendments**
 
-2021—Pub. L. 117–58, div. A, title III, § 13009(b), Nov. 15, 2021, 135 Stat. 644, added item 520.
+2021—Pub. L. 117–58, div. A, title III, § 13009(b), Nov. 15, 2021, 135 Stat. 644, added item 520.
 
-2015—Pub. L. 114–94, div. A, title VI, §§ 6010(b), 6019(d)(1)(B), Dec. 4, 2015, 129 Stat. 1568, 1581, struck out item 508 “Transportation research and development strategic planning”, substituted “National ITS program plan” for “National ITS Program Plan” in item 512, and added item 519.
+2015—Pub. L. 114–94, div. A, title VI, §§ 6010(b), 6019(d)(1)(B), Dec. 4, 2015, 129 Stat. 1568, 1581, struck out item 508 “Transportation research and development strategic planning”, substituted “National ITS program plan” for “National ITS Program Plan” in item 512, and added item 519.
 
-2012—Pub. L. 112–141, div. E, title II, §§ 52002(b), 52003(b), 52006(b), 52007(b), 52008(b), title III, §§ 53002(b), 53003(b), 53004(b), 53005(b), 53006(b), July 6, 2012, 126 Stat. 872, 880, 882, 899, 901–903, 905, substituted “Surface transportation research, development, and technology” for “Surface transportation research” in item 502 and “Research and technology development and deployment” for “Technology deployment program” in item 503, struck out items 506 “International highway transportation outreach program”, 507 “Surface transportation environment and planning cooperative research program”, and 509 “National cooperative freight transportation research program”, and added items 514 to 518.
+2012—Pub. L. 112–141, div. E, title II, §§ 52002(b), 52003(b), 52006(b), 52007(b), 52008(b), title III, §§ 53002(b), 53003(b), 53004(b), 53005(b), 53006(b), July 6, 2012, 126 Stat. 872, 880, 882, 899, 901–903, 905, substituted “Surface transportation research, development, and technology” for “Surface transportation research” in item 502 and “Research and technology development and deployment” for “Technology deployment program” in item 503, struck out items 506 “International highway transportation outreach program”, 507 “Surface transportation environment and planning cooperative research program”, and 509 “National cooperative freight transportation research program”, and added items 514 to 518.
 
-2008—Pub. L. 110–244, title I, § 111(b)(2)(B), June 6, 2008, 122 Stat. 1605, amended Pub. L. 109–59, § 5210. See 2005 Amendment note below.
+2008—Pub. L. 110–244, title I, § 111(b)(2)(B), June 6, 2008, 122 Stat. 1605, amended Pub. L. 109–59, § 5210. See 2005 Amendment note below.
 
-2005—Pub. L. 109–59, title V, § 5210(c), formerly § 5210(d), Aug. 10, 2005, 119 Stat. 1804, as renumbered by Pub. L. 110–244, title I, § 111(b)(2)(B), June 6, 2008, 122 Stat. 1605, added item 510.
+2005—Pub. L. 109–59, title V, § 5210(c), formerly § 5210(d), Aug. 10, 2005, 119 Stat. 1804, as renumbered by Pub. L. 110–244, title I, § 111(b)(2)(B), June 6, 2008, 122 Stat. 1605, added item 510.
 
-Pub. L. 109–59, title V, §§ 5201(a)(2), 5207(c), 5208(b), 5209(c), 5211(c), 5301(b), 5302(b), Aug. 10, 2005, 119 Stat. 1781, 1798, 1799, 1801, 1804, 1805, substituted “RESEARCH, TECHNOLOGY, AND EDUCATION” for “RESEARCH AND TECHNOLOGY” in chapter heading, “Surface transportation environment and planning cooperative research program” for “Surface transportation-environment cooperative research program” in item 507, “Transportation research and development strategic planning” for “Surface transportation research strategic planning” in item 508, and added items 509 and 511 to 513.
+Pub. L. 109–59, title V, §§ 5201(a)(2), 5207(c), 5208(b), 5209(c), 5211(c), 5301(b), 5302(b), Aug. 10, 2005, 119 Stat. 1781, 1798, 1799, 1801, 1804, 1805, substituted “RESEARCH, TECHNOLOGY, AND EDUCATION” for “RESEARCH AND TECHNOLOGY” in chapter heading, “Surface transportation environment and planning cooperative research program” for “Surface transportation-environment cooperative research program” in item 507, “Transportation research and development strategic planning” for “Surface transportation research strategic planning” in item 508, and added items 509 and 511 to 513.
 
-## § 501. Definitions
+## § 501. Definitions
 
 In this chapter, the following definitions apply:
 
@@ -83,11 +83,11 @@ In this chapter, the following definitions apply:
 
 **(ii)** interoperability among intelligent transportation system technologies implemented throughout the States.
 
-(Added Pub. L. 105–178, title V, § 5101(2), June 9, 1998, 112 Stat. 422; amended Pub. L. 112–141, div. E, title II, § 52001, July 6, 2012, 126 Stat. 865.)
+(Added Pub. L. 105–178, title V, § 5101(2), June 9, 1998, 112 Stat. 422; amended Pub. L. 112–141, div. E, title II, § 52001, July 6, 2012, 126 Stat. 865.)
 
 **Prior Provisions**
 
-A prior section 501, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 830, related to declaration of policy as to highway relocation assistance, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
+A prior section 501, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 830, related to declaration of policy as to highway relocation assistance, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 **Editorial Notes**
 
@@ -103,7 +103,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **Authorization of Appropriations**
 
-Pub. L. 114–94, div. A, title VI, § 6002, Dec. 4, 2015, 129 Stat. 1561, provided that:
+Pub. L. 114–94, div. A, title VI, § 6002, Dec. 4, 2015, 129 Stat. 1561, provided that:
 
 > **“(a) In General.—** The following amounts are authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account):
 
@@ -151,7 +151,7 @@ Pub. L. 114–94, div. A, title VI, § 6002, Dec. 4, 2015, 129 Stat. 1561, pro
 
 > **“(2)** remain available until expended and not be transferable, except as otherwise provided in this Act.”
 
-## § 502. Surface transportation research, development, and technology
+## § 502. Surface transportation research, development, and technology
 
 **(a) Basic Principles Governing Research and Technology Investments.—**
 
@@ -397,7 +397,7 @@ Pub. L. 114–94, div. A, title VI, § 6002, Dec. 4, 2015, 129 Stat. 1561, pro
 
 **(5) Waiver of advertising requirements.—** Section 6101(b) to (d) of title 41 shall not apply to a contract or agreement entered into under this chapter.
 
-(Added Pub. L. 105–178, title V, § 5102, June 9, 1998, 112 Stat. 422; amended Pub. L. 109–59, title V, §§ 5201(b)–(g), (i)(1), (j)(1), (k), (*l*), 5202(a)(1), Aug. 10, 2005, 119 Stat. 1781–1785; Pub. L. 110–244, title I, § 111(g)(1), June 6, 2008, 122 Stat. 1605; Pub. L. 111–350, § 5(e)(2), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–141, div. E, title II, § 52002(a), July 6, 2012, 126 Stat. 866; Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(C), Dec. 4, 2015, 129 Stat. 1581.)
+(Added Pub. L. 105–178, title V, § 5102, June 9, 1998, 112 Stat. 422; amended Pub. L. 109–59, title V, §§ 5201(b)–(g), (i)(1), (j)(1), (k), (*l*), 5202(a)(1), Aug. 10, 2005, 119 Stat. 1781–1785; Pub. L. 110–244, title I, § 111(g)(1), June 6, 2008, 122 Stat. 1605; Pub. L. 111–350, § 5(e)(2), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–141, div. E, title II, § 52002(a), July 6, 2012, 126 Stat. 866; Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(C), Dec. 4, 2015, 129 Stat. 1581.)
 
 **Editorial Notes**
 
@@ -405,33 +405,33 @@ Pub. L. 114–94, div. A, title VI, § 6002, Dec. 4, 2015, 129 Stat. 1561, pro
 
 Section 51001 of the Transportation Research and Innovative Technology Act of 2012, referred to in subsec. (b)(7)(A), is section 51001 of title I of div. E of Pub. L. 112–141, which is not classified to the Code.
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short title note set out under section 3701 of Title 15 and Tables.
 
 **Prior Provisions**
 
-A prior section 502, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 831, related to State assurances of adequate highway relocation assistance program, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
+A prior section 502, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 831, related to State assurances of adequate highway relocation assistance program, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 **Amendments**
 
-2015—Subsec. (a)(9). Pub. L. 114–94, § 6019(d)(1)(C)(i), substituted “transportation research and development strategic plan under section 6503 of title 49” for “transportation research and technology development strategic plan developed under section 508”.
+2015—Subsec. (a)(9). Pub. L. 114–94, § 6019(d)(1)(C)(i), substituted “transportation research and development strategic plan under section 6503 of title 49” for “transportation research and technology development strategic plan developed under section 508”.
 
-Subsec. (b)(4). Pub. L. 114–94, § 6019(d)(1)(C)(ii), substituted “transportation research and development strategic plan under section 6503 of title 49” for “transportation research and development strategic plan of the Secretary developed under section 508”.
+Subsec. (b)(4). Pub. L. 114–94, § 6019(d)(1)(C)(ii), substituted “transportation research and development strategic plan under section 6503 of title 49” for “transportation research and development strategic plan of the Secretary developed under section 508”.
 
-2012—Pub. L. 112–141, § 52002(a)(1), which directed insertion of “, development, and technology” after “surface transportation research” in section catchline, was executed by making the insertion after “Surface transportation research”, to reflect the probable intent of Congress.
+2012—Pub. L. 112–141, § 52002(a)(1), which directed insertion of “, development, and technology” after “surface transportation research” in section catchline, was executed by making the insertion after “Surface transportation research”, to reflect the probable intent of Congress.
 
-Subsec. (a)(1). Pub. L. 112–141, § 52002(a)(2)(B), added par. (1). Former par. (1) redesignated (2).
+Subsec. (a)(1). Pub. L. 112–141, § 52002(a)(2)(B), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (a)(2). Pub. L. 112–141, § 52002(a)(2)(A), (C), redesignated par. (1) as (2) and inserted “within the innovation lifecycle” after “activities” and “communications, impact analysis,” after “training,”. Former par. (2) redesignated (3).
+Subsec. (a)(2). Pub. L. 112–141, § 52002(a)(2)(A), (C), redesignated par. (1) as (2) and inserted “within the innovation lifecycle” after “activities” and “communications, impact analysis,” after “training,”. Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 112–141, § 52002(a)(2)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Subsec. (a)(3). Pub. L. 112–141, § 52002(a)(2)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (a)(3)(B). Pub. L. 112–141, § 52002(a)(2)(D)(i), substituted “delivers a clear public benefit and occurs where” for “supports research in which there is a clear public benefit and”.
+Subsec. (a)(3)(B). Pub. L. 112–141, § 52002(a)(2)(D)(i), substituted “delivers a clear public benefit and occurs where” for “supports research in which there is a clear public benefit and”.
 
-Subsec. (a)(3)(D) to (I). Pub. L. 112–141, § 52002(a)(2)(D)(ii)–(iv), added subpars. (D) to (H) and redesignated former subpar. (D) as (I).
+Subsec. (a)(3)(D) to (I). Pub. L. 112–141, § 52002(a)(2)(D)(ii)–(iv), added subpars. (D) to (H) and redesignated former subpar. (D) as (I).
 
-Subsec. (a)(4). Pub. L. 112–141, § 52002(a)(2)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+Subsec. (a)(4). Pub. L. 112–141, § 52002(a)(2)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(4)(B) to (G). Pub. L. 112–141, § 52002(a)(2)(E), added subpars. (B) to (G) and struck out former subpars. (B) to (D) which read as follows:
+Subsec. (a)(4)(B) to (G). Pub. L. 112–141, § 52002(a)(2)(E), added subpars. (B) to (G) and struck out former subpars. (B) to (D) which read as follows:
 
 “(B) support and facilitate research and technology transfer activities by State highway agencies;
 
@@ -439,43 +439,43 @@ Subsec. (a)(4)(B) to (G). Pub. L. 112–141, § 52002(a)(2)(E), added subpars.
 
 “(D) support and facilitate technology and innovation deployment.”
 
-Subsec. (a)(5). Pub. L. 112–141, § 52002(a)(2)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 112–141, § 52002(a)(2)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (a)(5)(C). Pub. L. 112–141, § 52002(a)(2)(F), substituted “all highway objectives seeking to improve the performance of the transportation system” for “policy and planning”.
+Subsec. (a)(5)(C). Pub. L. 112–141, § 52002(a)(2)(F), substituted “all highway objectives seeking to improve the performance of the transportation system” for “policy and planning”.
 
-Subsec. (a)(6). Pub. L. 112–141, § 52002(a)(2)(A), (G), redesignated par. (5) as (6) and inserted “tribal governments,” after “local governments,”. Former par. (6) redesignated (7).
+Subsec. (a)(6). Pub. L. 112–141, § 52002(a)(2)(A), (G), redesignated par. (5) as (6) and inserted “tribal governments,” after “local governments,”. Former par. (6) redesignated (7).
 
-Subsec. (a)(7). Pub. L. 112–141, § 52002(a)(2)(A), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+Subsec. (a)(7). Pub. L. 112–141, § 52002(a)(2)(A), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-Subsec. (a)(8). Pub. L. 112–141, § 52002(a)(2)(A), (H), redesignated par. (7) as (8), designated first, second, and third sentences as subpars. (A), (B), and (D), respectively, inserted subpar. headings, substituted “All evaluations under this paragraph” for “All evaluations” in subpar. (D), and added subpar. (C). Former par. (8) redesignated (9).
+Subsec. (a)(8). Pub. L. 112–141, § 52002(a)(2)(A), (H), redesignated par. (7) as (8), designated first, second, and third sentences as subpars. (A), (B), and (D), respectively, inserted subpar. headings, substituted “All evaluations under this paragraph” for “All evaluations” in subpar. (D), and added subpar. (C). Former par. (8) redesignated (9).
 
-Subsec. (a)(9). Pub. L. 112–141, § 52002(a)(2)(A), (I), redesignated par. (8) as (9) and struck out “surface” before “transportation research”.
+Subsec. (a)(9). Pub. L. 112–141, § 52002(a)(2)(A), (I), redesignated par. (8) as (9) and struck out “surface” before “transportation research”.
 
-Subsec. (b)(4). Pub. L. 112–141, § 52002(a)(3)(A), substituted “transportation research and development strategic plan of the Secretary developed under section 508” for “surface transportation research and technology development strategic plan developed under section 508”.
+Subsec. (b)(4). Pub. L. 112–141, § 52002(a)(3)(A), substituted “transportation research and development strategic plan of the Secretary developed under section 508” for “surface transportation research and technology development strategic plan developed under section 508”.
 
-Subsec. (b)(5). Pub. L. 112–141, § 52002(a)(3)(B), substituted “chapter” for “section” wherever appearing.
+Subsec. (b)(5). Pub. L. 112–141, § 52002(a)(3)(B), substituted “chapter” for “section” wherever appearing.
 
-Subsec. (b)(6)(C), (D). Pub. L. 112–141, § 52002(a)(3)(C), added subpars. (C) and (D).
+Subsec. (b)(6)(C), (D). Pub. L. 112–141, § 52002(a)(3)(C), added subpars. (C) and (D).
 
-Subsec. (b)(7). Pub. L. 112–141, § 52002(a)(3)(D), added par. (7).
+Subsec. (b)(7). Pub. L. 112–141, § 52002(a)(3)(D), added par. (7).
 
-Subsec. (c)(3)(A). Pub. L. 112–141, § 52002(a)(4)(A), substituted “chapter” for “subsection” and “80” for “50”.
+Subsec. (c)(3)(A). Pub. L. 112–141, § 52002(a)(4)(A), substituted “chapter” for “subsection” and “80” for “50”.
 
-Subsec. (c)(4). Pub. L. 112–141, § 52002(a)(4)(B), substituted “chapter” for “subsection”.
+Subsec. (c)(4). Pub. L. 112–141, § 52002(a)(4)(B), substituted “chapter” for “subsection”.
 
-Subsecs. (d) to (j). Pub. L. 112–141, § 52002(a)(5), struck out subsecs. (d) to (j) relating to contents of research program, exploratory advanced research, long-term pavement performance program, seismic research, infrastructure investment needs report, Turner-Fairbank Highway Research Center, and long-term bridge performance program, respectively.
+Subsecs. (d) to (j). Pub. L. 112–141, § 52002(a)(5), struck out subsecs. (d) to (j) relating to contents of research program, exploratory advanced research, long-term pavement performance program, seismic research, infrastructure investment needs report, Turner-Fairbank Highway Research Center, and long-term bridge performance program, respectively.
 
 2011—Subsec. (c)(5). Pub. L. 111–350 substituted “Section 6101(b) to (d) of title 41” for “Section 3709 of the Revised Statutes (41 U.S.C. 5)”.
 
 2008—Subsec. (h). Pub. L. 110–244 struck out subsec. (h) relating to infrastructure investment needs report to be submitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter.
 
-2005—Subsec. (a). Pub. L. 109–59, § 5201(b)(2), added subsec. (a). Former subsec. (a) redesignated (b).
+2005—Subsec. (a). Pub. L. 109–59, § 5201(b)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 109–59, § 5201(b)(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 109–59, § 5201(b)(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 
-Subsec. (b)(1)(B). Pub. L. 109–59, § 5201(e)(1), inserted “transportation system management and operations,” after “operation,”.
+Subsec. (b)(1)(B). Pub. L. 109–59, § 5201(e)(1), inserted “transportation system management and operations,” after “operation,”.
 
-Subsec. (b)(3). Pub. L. 109–59, § 5201(c), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The Secretary may carry out this section—
+Subsec. (b)(3). Pub. L. 109–59, § 5201(c), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The Secretary may carry out this section—
 
 “(A) independently;
 
@@ -483,37 +483,37 @@ Subsec. (b)(3). Pub. L. 109–59, § 5201(c), reenacted heading without change
 
 “(C) by making grants to, or entering into contracts, cooperative agreements, and other transactions with, the National Academy of Sciences, the American Association of State Highway and Transportation Officials, or any Federal laboratory, State agency, authority, association, institution, for-profit or nonprofit corporation, organization, foreign country, or person.”
 
-Subsec. (b)(6). Pub. L. 109–59, § 5201(d), added par. (6).
+Subsec. (b)(6). Pub. L. 109–59, § 5201(d), added par. (6).
 
-Subsec. (c). Pub. L. 109–59, § 5201(b)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 109–59, § 5201(b)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (c)(2). Pub. L. 109–59, § 5201(f), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In carrying out this subsection, the Secretary may enter into cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a)).”
+Subsec. (c)(2). Pub. L. 109–59, § 5201(f), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In carrying out this subsection, the Secretary may enter into cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a)).”
 
-Subsec. (d). Pub. L. 109–59, § 5201(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 109–59, § 5201(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(5)(C). Pub. L. 109–59, § 5201(e)(2), inserted “system management and” before “operations programs”.
+Subsec. (d)(5)(C). Pub. L. 109–59, § 5201(e)(2), inserted “system management and” before “operations programs”.
 
-Subsec. (d)(12) to (14). Pub. L. 109–59, § 5201(e)(3), added pars. (12) to (14).
+Subsec. (d)(12) to (14). Pub. L. 109–59, § 5201(e)(3), added pars. (12) to (14).
 
-Subsec. (e). Pub. L. 109–59, § 5201(g), amended heading and text of subsec. (e) generally, substituting provisions relating to exploratory advanced research for provisions relating to establishment of an advanced research program and authorizing the Secretary to make grants and enter into cooperative agreements and contracts in such areas including: characterization of materials used in highway infrastructure; diagnostics for evaluation of the condition of bridge and pavement structures to enable the assessment of risks of failure; design and construction details for composite structures; safety technology-based problems in the areas of pedestrian and bicycle safety, roadside hazards, and composite materials for roadside safety hardware; environmental research, including particulate matter source apportionment and model development; data acquisition techniques for system condition and performance monitoring; and human factors, including prediction of the response of travelers to new technologies.
+Subsec. (e). Pub. L. 109–59, § 5201(g), amended heading and text of subsec. (e) generally, substituting provisions relating to exploratory advanced research for provisions relating to establishment of an advanced research program and authorizing the Secretary to make grants and enter into cooperative agreements and contracts in such areas including: characterization of materials used in highway infrastructure; diagnostics for evaluation of the condition of bridge and pavement structures to enable the assessment of risks of failure; design and construction details for composite structures; safety technology-based problems in the areas of pedestrian and bicycle safety, roadside hazards, and composite materials for roadside safety hardware; environmental research, including particulate matter source apportionment and model development; data acquisition techniques for system condition and performance monitoring; and human factors, including prediction of the response of travelers to new technologies.
 
-Pub. L. 109–59, § 5201(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Pub. L. 109–59, § 5201(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 109–59, § 5201(i)(1), reenacted heading without change and amended text of subsec. (f) generally, substituting provisions authorizing tests, monitoring, and data analysis under the long-term pavement performance program through Sept. 30, 2009, for provisions directing the completion of long-term pavement performance program tests through the midpoint of a planned 20-year life of the long-term pavement performance program.
+Subsec. (f). Pub. L. 109–59, § 5201(i)(1), reenacted heading without change and amended text of subsec. (f) generally, substituting provisions authorizing tests, monitoring, and data analysis under the long-term pavement performance program through Sept. 30, 2009, for provisions directing the completion of long-term pavement performance program tests through the midpoint of a planned 20-year life of the long-term pavement performance program.
 
-Pub. L. 109–59, § 5201(b)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Pub. L. 109–59, § 5201(b)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 109–59, § 5201(j)(1), amended heading and text of subsec. (g) generally. Prior to amendment, subsec. (g) directed the Secretary to establish a seismic research program and to conduct such program in cooperation with the National Center for Earthquake Engineering Research at the University of Buffalo and in consultation and cooperation with Federal departments and agencies participating in the National Earthquake Hazards Reduction Program.
+Subsec. (g). Pub. L. 109–59, § 5201(j)(1), amended heading and text of subsec. (g) generally. Prior to amendment, subsec. (g) directed the Secretary to establish a seismic research program and to conduct such program in cooperation with the National Center for Earthquake Engineering Research at the University of Buffalo and in consultation and cooperation with Federal departments and agencies participating in the National Earthquake Hazards Reduction Program.
 
-Pub. L. 109–59, § 5201(b)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Pub. L. 109–59, § 5201(b)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 109–59, § 5201(k), added subsec. (h) relating to infrastructure investment needs report to be submitted not later than July 31, 2006, and July 31 of every second year thereafter.
+Subsec. (h). Pub. L. 109–59, § 5201(k), added subsec. (h) relating to infrastructure investment needs report to be submitted not later than July 31, 2006, and July 31 of every second year thereafter.
 
-Pub. L. 109–59, § 5201(b)(1), redesignated subsec. (g), relating to infrastructure investment needs report to be submitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter, as (h).
+Pub. L. 109–59, § 5201(b)(1), redesignated subsec. (g), relating to infrastructure investment needs report to be submitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter, as (h).
 
-Subsec. (i). Pub. L. 109–59, § 5201(*l*), added subsec. (i).
+Subsec. (i). Pub. L. 109–59, § 5201(*l*), added subsec. (i).
 
-Subsec. (j). Pub. L. 109–59, § 5202(a)(1), added subsec. (j).
+Subsec. (j). Pub. L. 109–59, § 5202(a)(1), added subsec. (j).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -527,7 +527,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **Smart Community Resource Center**
 
-Pub. L. 117–58, div. B, title V, § 25002, Nov. 15, 2021, 135 Stat. 837, provided that:
+Pub. L. 117–58, div. B, title V, § 25002, Nov. 15, 2021, 135 Stat. 837, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -563,7 +563,7 @@ Pub. L. 117–58, div. B, title V, § 25002, Nov. 15, 2021, 135 Stat. 837, pro
 
 **Strengthening Mobility and Revolutionizing Transportation Grant Program**
 
-Pub. L. 117–58, div. B, title V, § 25005, Nov. 15, 2021, 135 Stat. 840, provided that:
+Pub. L. 117–58, div. B, title V, § 25005, Nov. 15, 2021, 135 Stat. 840, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -805,7 +805,7 @@ means any community that is not a large community or a rural community.
 
 **Transportation Safety Information Management System Project**
 
-Pub. L. 109–59, title V, § 5501, Aug. 10, 2005, 119 Stat. 1820, provided that:
+Pub. L. 109–59, title V, § 5501, Aug. 10, 2005, 119 Stat. 1820, provided that:
 
 > **“(a) In General.—** The Secretary [of Transportation] shall fund and carry out a project to further the development of a comprehensive transportation safety information management system (in this section referred to as ‘TSIMS’).
 
@@ -819,7 +819,7 @@ Pub. L. 109–59, title V, § 5501, Aug. 10, 2005, 119 Stat. 1820, provided th
 
 **Surface Transportation Congestion Relief Solutions Research Initiative**
 
-Pub. L. 109–59, title V, § 5502, Aug. 10, 2005, 119 Stat. 1820, provided that:
+Pub. L. 109–59, title V, § 5502, Aug. 10, 2005, 119 Stat. 1820, provided that:
 
 > **“(a) Establishment.—** The Secretary [of Transportation] shall establish a surface transportation congestion solutions research initiative consisting of 2 independent research programs described in subsections (b)(1) and (b)(2) and designed to develop information to assist State transportation departments and metropolitan planning organizations [to] measure and address surface transportation congestion problems.
 
@@ -845,7 +845,7 @@ Pub. L. 109–59, title V, § 5502, Aug. 10, 2005, 119 Stat. 1820, provided th
 
 **Thermal Imaging**
 
-Pub. L. 109–59, title V, § 5513(a), Aug. 10, 2005, 119 Stat. 1829, provided that:
+Pub. L. 109–59, title V, § 5513(a), Aug. 10, 2005, 119 Stat. 1829, provided that:
 
 > **“(1) In general.—** The Secretary [of Transportation] shall make a grant to carry out a demonstration project that uses a thermal imaging inspection system (TIIS) that leverages state-of-the-art thermal imagery technology, integrated with signature recognition software, providing the capability to identify, in real time, faults and failures in tires, brakes and bearings mounted on commercial motor vehicles.
 
@@ -861,7 +861,7 @@ Pub. L. 109–59, title V, § 5513(a), Aug. 10, 2005, 119 Stat. 1829, provided
 
 **Study of Future Strategic Highway Research Program**
 
-Pub. L. 105–178, title V, § 5112, June 9, 1998, 112 Stat. 445, provided that:
+Pub. L. 105–178, title V, § 5112, June 9, 1998, 112 Stat. 445, provided that:
 
 > **“(a) Study.—** Not later than 120 days after the date of enactment of this Act [June 9, 1998], the Secretary shall make a grant to, or enter into a cooperative agreement or contract with, the Transportation Research Board of the National Academy of Sciences (in this section referred to as the ‘Board’) to conduct a study to determine the goals, purposes, research agenda and projects, administrative structure, and fiscal needs for a new strategic highway research program to replace the program established under section 307(d) (as in effect on the day before the date of enactment of this Act), or a similar effort.
 
@@ -871,7 +871,7 @@ Pub. L. 105–178, title V, § 5112, June 9, 1998, 112 Stat. 445, provided tha
 
 **Commercial Remote Sensing Products and Spatial Information Technologies**
 
-Pub. L. 109–59, title V, § 5506, Aug. 10, 2005, 119 Stat. 1823, provided that:
+Pub. L. 109–59, title V, § 5506, Aug. 10, 2005, 119 Stat. 1823, provided that:
 
 > **“(a) In General.—** The Secretary [of Transportation] shall establish and carry out a program to validate commercial remote sensing products and spatial information technologies for application to national transportation infrastructure development and construction.
 
@@ -885,7 +885,7 @@ Pub. L. 109–59, title V, § 5506, Aug. 10, 2005, 119 Stat. 1823, provided th
 
 > **“(d) Funding.—** Of the amounts made available by section 5101(a)(1) of this Act [119 Stat. 1779], $7,750,000 for each of fiscal years 2006 through 2009 shall be available to carry out this section.”
 
-Pub. L. 105–178, title V, § 5113, June 9, 1998, 112 Stat. 445, provided that:
+Pub. L. 105–178, title V, § 5113, June 9, 1998, 112 Stat. 445, provided that:
 
 > **“(a) In General.—** The Secretary shall establish and carry out a program to validate commercial remote sensing products and spatial information technologies for application to national transportation infrastructure development and construction.
 
@@ -901,7 +901,7 @@ Pub. L. 105–178, title V, § 5113, June 9, 1998, 112 Stat. 445, provided tha
 
 **Transportation Technology Innovation and Demonstration Program**
 
-Pub. L. 109–59, title V, § 5204(g), Aug. 10, 2005, 119 Stat. 1794, provided that:
+Pub. L. 109–59, title V, § 5204(g), Aug. 10, 2005, 119 Stat. 1794, provided that:
 
 > **“(1) Fundamental properties of asphalts and modified asphalts.—** The Secretary [of Transportation] shall continue to carry out section 5117(b)(5) of the Transportation Equity Act for the 21st Century [Pub. L. 105–178, set out below] (112 Stat. 450).
 
@@ -909,7 +909,7 @@ Pub. L. 109–59, title V, § 5204(g), Aug. 10, 2005, 119 Stat. 1794, provided
 
 > **“(3) Funding.—** Of the amounts made available by section 5101(a)(1) of this Act [119 Stat. 1779], for each of fiscal years 2005 through 2009 $4,200,000 shall be available to carry out paragraph (1) and $1,000,000 shall be available to carry out paragraph (2).”
 
-Pub. L. 105–178, title V, § 5117, June 9, 1998, 112 Stat. 448, as amended by Pub. L. 105–206, title IX, § 9011(g), (h), July 22, 1998, 112 Stat. 864; Pub. L. 105–277, div. A, § 101(g) [title III, § 3769 [369]], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 107–117, div. B, § 1101, Jan. 10, 2002, 115 Stat. 2330; Pub. L. 109–59, title V, § 5508, Aug. 10, 2005, 119 Stat. 1824, provided that:
+Pub. L. 105–178, title V, § 5117, June 9, 1998, 112 Stat. 448, as amended by Pub. L. 105–206, title IX, § 9011(g), (h), July 22, 1998, 112 Stat. 864; Pub. L. 105–277, div. A, § 101(g) [title III, § 3769 [369]], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 107–117, div. B, § 1101, Jan. 10, 2002, 115 Stat. 2330; Pub. L. 109–59, title V, § 5508, Aug. 10, 2005, 119 Stat. 1824, provided that:
 
 > **“(a) In General.—** The Secretary shall carry out a transportation technology innovation and demonstration program in accordance with the requirements of this section.
 
@@ -1087,7 +1087,7 @@ Pub. L. 105–178, title V, § 5117, June 9, 1998, 112 Stat. 448, as amended b
 
 **Intelligent Transportation Systems**
 
-Pub. L. 117–58, div. A, title I, § 11304, Nov. 15, 2021, 135 Stat. 531, provided that:
+Pub. L. 117–58, div. A, title I, § 11304, Nov. 15, 2021, 135 Stat. 531, provided that:
 
 > **“(a) In General.—** The Secretary [of Transportation] shall develop guidance for using existing flexibilities with respect to the systems engineering analysis described in part 940 of title 23, Code of Federal Regulations (or successor regulations).
 
@@ -1101,7 +1101,7 @@ Pub. L. 117–58, div. A, title I, § 11304, Nov. 15, 2021, 135 Stat. 531, pro
 
 > **“(c) Savings Provision.—** Nothing in this section prevents the Secretary from amending part 940 of title 23, Code of Federal Regulations (or successor regulations), to reduce State administrative burdens.”
 
-Pub. L. 105–178, title V, subtitle C, June 9, 1998, 112 Stat. 452, as amended by Pub. L. 105–206, title IX, § 9011(c), July 22, 1998, 112 Stat. 863; Pub. L. 105–277, div. A, § 101(g) [title III, § 370], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 109–59, title V, § 5509, Aug. 10, 2005, 119 Stat. 1828; Pub. L. 114–94, div. A, title VI, § 6019(d)(2), Dec. 4, 2015, 129 Stat. 1581; Pub. L. 117–286, § 4(a)(174), Dec. 27, 2022, 136 Stat. 4325, provided that:
+Pub. L. 105–178, title V, subtitle C, June 9, 1998, 112 Stat. 452, as amended by Pub. L. 105–206, title IX, § 9011(c), July 22, 1998, 112 Stat. 863; Pub. L. 105–277, div. A, § 101(g) [title III, § 370], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 109–59, title V, § 5509, Aug. 10, 2005, 119 Stat. 1828; Pub. L. 114–94, div. A, title VI, § 6019(d)(2), Dec. 4, 2015, 129 Stat. 1581; Pub. L. 117–286, § 4(a)(174), Dec. 27, 2022, 136 Stat. 4325, provided that:
 
 > **“SEC. 5201. SHORT TITLE.**
 
@@ -1283,7 +1283,7 @@ Pub. L. 105–178, title V, subtitle C, June 9, 1998, 112 Stat. 452, as amended 
 
 > **“(d) Federal Share.—** The Federal share of the cost of operational tests and demonstrations under subsection (a) shall not exceed 80 percent.
 
-> “[SECS. 5208, 5209. Repealed. Pub. L. 109–59, title V, § 5509, Aug. 10, 2005, 119 Stat. 1828.]
+> “[SECS. 5208, 5209. Repealed. Pub. L. 109–59, title V, § 5509, Aug. 10, 2005, 119 Stat. 1828.]
 
 > **“SEC. 5210. USE OF FUNDS.**
 
@@ -1373,13 +1373,13 @@ Pub. L. 105–178, title V, subtitle C, June 9, 1998, 112 Stat. 452, as amended 
 
 > **“SEC. 5213. REPEAL.**
 
-> “The Intermodal Surface Transportation Efficiency Act of 1991 [Pub. L. 102–240] is amended by striking part B [§§ 6051–6059] of title VI (23 U.S.C. 307 note; 105 Stat. 2189).”
+> “The Intermodal Surface Transportation Efficiency Act of 1991 [Pub. L. 102–240] is amended by striking part B [§§ 6051–6059] of title VI (23 U.S.C. 307 note; 105 Stat. 2189).”
 
-[Pub. L. 109–59, title V, § 5509, Aug. 10, 2005, 119 Stat. 1828, provided that the amendment made by section 5509, repealing sections 5208 and 5209 of Pub. L. 105–178, set out above, is effective Oct. 1 2005.]
+[Pub. L. 109–59, title V, § 5509, Aug. 10, 2005, 119 Stat. 1828, provided that the amendment made by section 5509, repealing sections 5208 and 5209 of Pub. L. 105–178, set out above, is effective Oct. 1 2005.]
 
 **Research Advisory Committee**
 
-Pub. L. 102–240, title VI, § 6011, Dec. 18, 1991, 105 Stat. 2179, as amended by Pub. L. 117–286, § 4(a)(175), Dec. 27, 2022, 136 Stat. 4325, provided that:
+Pub. L. 102–240, title VI, § 6011, Dec. 18, 1991, 105 Stat. 2179, as amended by Pub. L. 117–286, § 4(a)(175), Dec. 27, 2022, 136 Stat. 4325, provided that:
 
 > **“(a) Establishment.—** Not later than 180 days after the date of transmittal of the report to Congress under section 6010 [of Pub. L. 102–240, formerly set out as a note under section 307 of this title], the Secretary shall establish an independent surface transportation research advisory committee (hereinafter in this section referred to as the ‘advisory committee’).
 
@@ -1401,13 +1401,13 @@ Pub. L. 102–240, title VI, § 6011, Dec. 18, 1991, 105 Stat. 2179, as amende
 
 **Fundamental Properties of Asphalts and Modified Asphalts**
 
-Pub. L. 102–240, title VI, § 6016, Dec. 18, 1991, 105 Stat. 2182, as amended by Pub. L. 114–94, div. A, title I, § 1419(a), Dec. 4, 2015, 129 Stat. 1423, required the Administrator of the Federal Highway Administration to conduct studies of the fundamental chemical and physical properties of petroleum asphalts and modified asphalts used in highway construction in the United States and to submit reports on the progress of the studies and authorized appropriations for fiscal years 1992 to 1996.
+Pub. L. 102–240, title VI, § 6016, Dec. 18, 1991, 105 Stat. 2182, as amended by Pub. L. 114–94, div. A, title I, § 1419(a), Dec. 4, 2015, 129 Stat. 1423, required the Administrator of the Federal Highway Administration to conduct studies of the fundamental chemical and physical properties of petroleum asphalts and modified asphalts used in highway construction in the United States and to submit reports on the progress of the studies and authorized appropriations for fiscal years 1992 to 1996.
 
 **Study of Factors Affecting Safe and Efficient Operation of Bridges, Tunnels and Roads Within United States**
 
-Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: “The Secretary of Transportation shall make a full and complete investigation and study of all those factors affecting the safe and efficient operation of bridges, tunnels, and roads within the United States, including, but not limited to, structural, operational, environmental, and civil disturbance factors.”
+Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that: “The Secretary of Transportation shall make a full and complete investigation and study of all those factors affecting the safe and efficient operation of bridges, tunnels, and roads within the United States, including, but not limited to, structural, operational, environmental, and civil disturbance factors.”
 
-## § 503. Research and technology development and deployment
+## § 503. Research and technology development and deployment
 
 **(a) In General.—** The Secretary shall—
 
@@ -2129,7 +2129,7 @@ Pub. L. 95–599, title I, § 166, Nov. 6, 1978, 92 Stat. 2722, provided that:
 
 **(D) Partnerships.—** In establishing the Center of Excellence under subparagraph (B), the Secretary shall enter into appropriate partnerships with any institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) or public or private research entity.
 
-(Added Pub. L. 105–178, title V, § 5103, June 9, 1998, 112 Stat. 427; amended Pub. L. 109–59, title V, §§ 5202(b)(1), (2), 5203(a), (b)(1), (c)(1), (d), Aug. 10, 2005, 119 Stat. 1786–1789; Pub. L. 112–141, div. E, title II, § 52003(a), July 6, 2012, 126 Stat. 872; Pub. L. 114–94, div. A, title VI, §§ 6003, 6004, Dec. 4, 2015, 129 Stat. 1562; Pub. L. 117–58, div. A, title III, § 13006(a)–(c), Nov. 15, 2021, 135 Stat. 630–637.)
+(Added Pub. L. 105–178, title V, § 5103, June 9, 1998, 112 Stat. 427; amended Pub. L. 109–59, title V, §§ 5202(b)(1), (2), 5203(a), (b)(1), (c)(1), (d), Aug. 10, 2005, 119 Stat. 1786–1789; Pub. L. 112–141, div. E, title II, § 52003(a), July 6, 2012, 126 Stat. 872; Pub. L. 114–94, div. A, title VI, §§ 6003, 6004, Dec. 4, 2015, 129 Stat. 1562; Pub. L. 117–58, div. A, title III, § 13006(a)–(c), Nov. 15, 2021, 135 Stat. 630–637.)
 
 **Editorial Notes**
 
@@ -2141,131 +2141,131 @@ The date of enactment of this subparagraph and the date of enactment of the Surf
 
 **Prior Provisions**
 
-A prior section 503, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 831, related to administration of highway relocation assistance program, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
+A prior section 503, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 831, related to administration of highway relocation assistance program, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 **Amendments**
 
-2021—Subsec. (a)(2). Pub. L. 117–58, § 13006(a)(1), substituted “section 6503 of title 49” for “section 508”.
+2021—Subsec. (a)(2). Pub. L. 117–58, § 13006(a)(1), substituted “section 6503 of title 49” for “section 508”.
 
-Subsec. (b)(1)(E), (F). Pub. L. 117–58, § 13006(a)(2)(A), added subpars. (E) and (F).
+Subsec. (b)(1)(E), (F). Pub. L. 117–58, § 13006(a)(2)(A), added subpars. (E) and (F).
 
-Subsec. (b)(2)(C)(x) to (xvi). Pub. L. 117–58, § 13006(a)(2)(B), added cl. (x) and redesignated former cls. (x) to (xv) as (xi) to (xvi), respectively.
+Subsec. (b)(2)(C)(x) to (xvi). Pub. L. 117–58, § 13006(a)(2)(B), added cl. (x) and redesignated former cls. (x) to (xv) as (xi) to (xvi), respectively.
 
-Subsec. (b)(3)(B)(viii). Pub. L. 117–58, § 13006(a)(2)(C)(i), inserted “, including weather,” after “events”.
+Subsec. (b)(3)(B)(viii). Pub. L. 117–58, § 13006(a)(2)(C)(i), inserted “, including weather,” after “events”.
 
-Subsec. (b)(3)(C)(xv). Pub. L. 117–58, § 13006(a)(2)(C)(ii)(I), inserted “extreme weather events and” after “withstand”.
+Subsec. (b)(3)(C)(xv). Pub. L. 117–58, § 13006(a)(2)(C)(ii)(I), inserted “extreme weather events and” after “withstand”.
 
-Subsec. (b)(3)(C)(xx). Pub. L. 117–58, § 13006(a)(2)(C)(ii)(II)–(IV), added cl. (xx).
+Subsec. (b)(3)(C)(xx). Pub. L. 117–58, § 13006(a)(2)(C)(ii)(II)–(IV), added cl. (xx).
 
-Subsec. (b)(6)(C). Pub. L. 117–58, § 13006(a)(2)(D), added subpar. (C).
+Subsec. (b)(6)(C). Pub. L. 117–58, § 13006(a)(2)(D), added subpar. (C).
 
-Subsec. (b)(7)(B). Pub. L. 117–58, § 13006(a)(2)(E)(i), inserted “innovations by leading” after “support” in introductory provisions.
+Subsec. (b)(7)(B). Pub. L. 117–58, § 13006(a)(2)(E)(i), inserted “innovations by leading” after “support” in introductory provisions.
 
-Subsec. (b)(7)(B)(v). Pub. L. 117–58, § 13006(a)(2)(E)(ii)–(iv), added cl. (v).
+Subsec. (b)(7)(B)(v). Pub. L. 117–58, § 13006(a)(2)(E)(ii)–(iv), added cl. (v).
 
-Subsec. (b)(8)(A). Pub. L. 117–58, § 13006(a)(2)(F), substituted “current conditions and future needs of highways, bridges, and tunnels of the United States, including—” and cls. (i) to (iv) for “future highway and bridge needs of the United States and the backlog of current highway and bridge needs.”
+Subsec. (b)(8)(A). Pub. L. 117–58, § 13006(a)(2)(F), substituted “current conditions and future needs of highways, bridges, and tunnels of the United States, including—” and cls. (i) to (iv) for “future highway and bridge needs of the United States and the backlog of current highway and bridge needs.”
 
-Subsec. (b)(9). Pub. L. 117–58, § 13006(a)(2)(G), added par. (9).
+Subsec. (b)(9). Pub. L. 117–58, § 13006(a)(2)(G), added par. (9).
 
-Subsec. (c)(1). Pub. L. 117–58, § 13006(a)(3)(A)(i), inserted “use of rights-of-way permissible under applicable law,” after “structures,” in introductory provisions.
+Subsec. (c)(1). Pub. L. 117–58, § 13006(a)(3)(A)(i), inserted “use of rights-of-way permissible under applicable law,” after “structures,” in introductory provisions.
 
-Subsec. (c)(1)(F). Pub. L. 117–58, § 13006(a)(3)(A)(ii)–(iv), added subpar. (F).
+Subsec. (c)(1)(F). Pub. L. 117–58, § 13006(a)(3)(A)(ii)–(iv), added subpar. (F).
 
-Subsec. (c)(2)(B)(iii). Pub. L. 117–58, § 13006(a)(3)(B)(i), substituted “and deploy improved tools and methods to accelerate the adoption of early-stage and proven innovative practices and technologies and, as the Secretary determines to be appropriate, support continued implementation” for “improved tools and methods to accelerate the adoption”.
+Subsec. (c)(2)(B)(iii). Pub. L. 117–58, § 13006(a)(3)(B)(i), substituted “and deploy improved tools and methods to accelerate the adoption of early-stage and proven innovative practices and technologies and, as the Secretary determines to be appropriate, support continued implementation” for “improved tools and methods to accelerate the adoption”.
 
-Subsec. (c)(2)(D). Pub. L. 117–58, § 13006(a)(3)(B)(ii), added subpar. (D).
+Subsec. (c)(2)(D). Pub. L. 117–58, § 13006(a)(3)(B)(ii), added subpar. (D).
 
-Subsec. (c)(3)(C). Pub. L. 117–58, § 13006(a)(3)(C)(ii), added subpar. (C). Former subpar. (C) redesignated (D).
+Subsec. (c)(3)(C). Pub. L. 117–58, § 13006(a)(3)(C)(ii), added subpar. (C). Former subpar. (C) redesignated (D).
 
-Subsec. (c)(3)(D). Pub. L. 117–58, § 13006(a)(3)(C)(i), (iii), redesignated subpar. (C) as (D) and substituted “fiscal years 2022 through 2026” for “fiscal years 2016 through 2020”. Former subpar. (D) redesignated (E).
+Subsec. (c)(3)(D). Pub. L. 117–58, § 13006(a)(3)(C)(i), (iii), redesignated subpar. (C) as (D) and substituted “fiscal years 2022 through 2026” for “fiscal years 2016 through 2020”. Former subpar. (D) redesignated (E).
 
-Subsec. (c)(3)(E). Pub. L. 117–58, § 13006(a)(3)(C)(i), redesignated subpar. (D) as (E).
+Subsec. (c)(3)(E). Pub. L. 117–58, § 13006(a)(3)(C)(i), redesignated subpar. (D) as (E).
 
-Subsec. (c)(3)(E)(i). Pub. L. 117–58, § 13006(a)(3)(C)(iv)(I), substituted “once every 3 years” for “annually”.
+Subsec. (c)(3)(E)(i). Pub. L. 117–58, § 13006(a)(3)(C)(iv)(I), substituted “once every 3 years” for “annually”.
 
-Subsec. (c)(3)(E)(ii)(V) to (X). Pub. L. 117–58, § 13006(a)(3)(C)(iv)(II), added subcls. (V) to (X).
+Subsec. (c)(3)(E)(ii)(V) to (X). Pub. L. 117–58, § 13006(a)(3)(C)(iv)(II), added subcls. (V) to (X).
 
-Subsec. (c)(4). Pub. L. 117–58, § 13006(b)(1), inserted “and innovative mobility” before “deployment” in heading.
+Subsec. (c)(4). Pub. L. 117–58, § 13006(b)(1), inserted “and innovative mobility” before “deployment” in heading.
 
-Subsec. (c)(4)(A). Pub. L. 117–58, § 13006(b)(2), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Not later than 6 months after the date of enactment of this paragraph, the Secretary shall establish an advanced transportation and congestion management technologies deployment initiative to provide grants to eligible entities to develop model deployment sites for large scale installation and operation of advanced transportation technologies to improve safety, efficiency, system performance, and infrastructure return on investment.”
+Subsec. (c)(4)(A). Pub. L. 117–58, § 13006(b)(2), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Not later than 6 months after the date of enactment of this paragraph, the Secretary shall establish an advanced transportation and congestion management technologies deployment initiative to provide grants to eligible entities to develop model deployment sites for large scale installation and operation of advanced transportation technologies to improve safety, efficiency, system performance, and infrastructure return on investment.”
 
-Subsec. (c)(4)(B)(i). Pub. L. 117–58, § 13006(b)(3)(D), added cl. (i). Former cl. (i) redesignated (iii).
+Subsec. (c)(4)(B)(i). Pub. L. 117–58, § 13006(b)(3)(D), added cl. (i). Former cl. (i) redesignated (iii).
 
-Pub. L. 117–58, § 13006(b)(3)(A), substituted “optimization” for “the enhanced use”.
+Pub. L. 117–58, § 13006(b)(3)(A), substituted “optimization” for “the enhanced use”.
 
-Subsec. (c)(4)(B)(ii). Pub. L. 117–58, § 13006(b)(3)(D), added cl. (ii). Former cl. (ii) redesignated (iv).
+Subsec. (c)(4)(B)(ii). Pub. L. 117–58, § 13006(b)(3)(D), added cl. (ii). Former cl. (ii) redesignated (iv).
 
-Subsec. (c)(4)(B)(iii). Pub. L. 117–58, § 13006(b)(3)(C), redesignated cl. (i) as (iii). Former cl. (iii) redesignated (v).
+Subsec. (c)(4)(B)(iii). Pub. L. 117–58, § 13006(b)(3)(C), redesignated cl. (i) as (iii). Former cl. (iii) redesignated (v).
 
-Subsec. (c)(4)(B)(iv). Pub. L. 117–58, § 13006(b)(3)(C), (E), redesignated cl. (ii) as (iv) and substituted “protect the environment and deliver” for “deliver”. Former cl. (iv) redesignated (vi).
+Subsec. (c)(4)(B)(iv). Pub. L. 117–58, § 13006(b)(3)(C), (E), redesignated cl. (ii) as (iv) and substituted “protect the environment and deliver” for “deliver”. Former cl. (iv) redesignated (vi).
 
-Subsec. (c)(4)(B)(v). Pub. L. 117–58, § 13006(b)(3)(C), redesignated cl. (iii) as (v). Former cl. (v) redesignated (vii).
+Subsec. (c)(4)(B)(v). Pub. L. 117–58, § 13006(b)(3)(C), redesignated cl. (iii) as (v). Former cl. (v) redesignated (vii).
 
-Pub. L. 117–58, § 13006(b)(3)(B), substituted “work zone, weather, transit, paratransit,” for “transit,” and “, accessible, and integrated transportation and transportation services” for “and accessible transportation”.
+Pub. L. 117–58, § 13006(b)(3)(B), substituted “work zone, weather, transit, paratransit,” for “transit,” and “, accessible, and integrated transportation and transportation services” for “and accessible transportation”.
 
-Subsec. (c)(4)(B)(vi), (vii). Pub. L. 117–58, § 13006(b)(3)(C), redesignated cls. (iv) and (v) as (vi) and (vii), respectively. Former cl. (vii) redesignated (x).
+Subsec. (c)(4)(B)(vi), (vii). Pub. L. 117–58, § 13006(b)(3)(C), redesignated cls. (iv) and (v) as (vi) and (vii), respectively. Former cl. (vii) redesignated (x).
 
-Subsec. (c)(4)(B)(viii). Pub. L. 117–58, § 13006(b)(3)(F), added cl. (viii).
+Subsec. (c)(4)(B)(viii). Pub. L. 117–58, § 13006(b)(3)(F), added cl. (viii).
 
-Subsec. (c)(4)(B)(ix). Pub. L. 117–58, § 13006(b)(3)(C), redesignated cl. (vi) as (ix).
+Subsec. (c)(4)(B)(ix). Pub. L. 117–58, § 13006(b)(3)(C), redesignated cl. (vi) as (ix).
 
-Subsec. (c)(4)(B)(x). Pub. L. 117–58, § 13006(b)(3)(C), (G), redesignated cl. (vii) as (x) and struck out “or” at end.
+Subsec. (c)(4)(B)(x). Pub. L. 117–58, § 13006(b)(3)(C), (G), redesignated cl. (vii) as (x) and struck out “or” at end.
 
-Subsec. (c)(4)(B)(xi). Pub. L. 117–58, § 13006(b)(3)(C), (H), redesignated cl. (viii) as (xi), inserted “vehicle-to-pedestrian,” after “vehicle-to-infrastructure,”, and substituted “; or” for period at end.
+Subsec. (c)(4)(B)(xi). Pub. L. 117–58, § 13006(b)(3)(C), (H), redesignated cl. (viii) as (xi), inserted “vehicle-to-pedestrian,” after “vehicle-to-infrastructure,”, and substituted “; or” for period at end.
 
-Subsec. (c)(4)(B)(xii). Pub. L. 117–58, § 13006(b)(3)(I), added cl. (xii).
+Subsec. (c)(4)(B)(xii). Pub. L. 117–58, § 13006(b)(3)(I), added cl. (xii).
 
-Subsec. (c)(4)(C)(i). Pub. L. 117–58, § 13006(b)(4)(A), substituted “Each fiscal year for which funding is made available for activities under this paragraph” for “Not later than 6 months after the date of enactment of this paragraph, and for every fiscal year thereafter”.
+Subsec. (c)(4)(C)(i). Pub. L. 117–58, § 13006(b)(4)(A), substituted “Each fiscal year for which funding is made available for activities under this paragraph” for “Not later than 6 months after the date of enactment of this paragraph, and for every fiscal year thereafter”.
 
-Subsec. (c)(4)(C)(ii)(I). Pub. L. 117–58, § 13006(b)(4)(B)(i), inserted “mobility,” after “safety,”.
+Subsec. (c)(4)(C)(ii)(I). Pub. L. 117–58, § 13006(b)(4)(B)(i), inserted “mobility,” after “safety,”.
 
-Subsec. (c)(4)(C)(ii)(II)(dd). Pub. L. 117–58, § 13006(b)(4)(B)(ii), added item (dd).
+Subsec. (c)(4)(C)(ii)(II)(dd). Pub. L. 117–58, § 13006(b)(4)(B)(ii), added item (dd).
 
-Subsec. (c)(4)(D)(i). Pub. L. 117–58, § 13006(b)(5)(A), substituted “Each fiscal year for which funding is made available for activities under this paragraph” for “Not later than 1 year after the date of enactment of this paragraph, and for every fiscal year thereafter”.
+Subsec. (c)(4)(D)(i). Pub. L. 117–58, § 13006(b)(5)(A), substituted “Each fiscal year for which funding is made available for activities under this paragraph” for “Not later than 1 year after the date of enactment of this paragraph, and for every fiscal year thereafter”.
 
-Subsec. (c)(4)(D)(ii). Pub. L. 117–58, § 13006(b)(5)(B), designated existing provisions as subcl. (I), inserted heading, substituted “Subject to subclause (II), in awarding” for “In awarding”, and added subcl. (II).
+Subsec. (c)(4)(D)(ii). Pub. L. 117–58, § 13006(b)(5)(B), designated existing provisions as subcl. (I), inserted heading, substituted “Subject to subclause (II), in awarding” for “In awarding”, and added subcl. (II).
 
-Subsec. (c)(4)(E)(iii) to (x). Pub. L. 117–58, § 13006(b)(6)(A)–(C), added cls. (iii), (ix), and (x) and redesignated former cls. (iii) to (vii) as (iv) to (viii), respectively. Former cls. (viii) and (ix) redesignated (xi) and (xiv), respectively.
+Subsec. (c)(4)(E)(iii) to (x). Pub. L. 117–58, § 13006(b)(6)(A)–(C), added cls. (iii), (ix), and (x) and redesignated former cls. (iii) to (vii) as (iv) to (viii), respectively. Former cls. (viii) and (ix) redesignated (xi) and (xiv), respectively.
 
-Subsec. (c)(4)(E)(xi). Pub. L. 117–58, § 13006(b)(6)(A), (D), redesignated cl. (viii) as (xi), inserted “, toll collection,” after “pricing”, and struck out “or” at end.
+Subsec. (c)(4)(E)(xi). Pub. L. 117–58, § 13006(b)(6)(A), (D), redesignated cl. (viii) as (xi), inserted “, toll collection,” after “pricing”, and struck out “or” at end.
 
-Subsec. (c)(4)(E)(xii), (xiii). Pub. L. 117–58, § 13006(b)(6)(E), added cls. (xii) and (xiii).
+Subsec. (c)(4)(E)(xii), (xiii). Pub. L. 117–58, § 13006(b)(6)(E), added cls. (xii) and (xiii).
 
-Subsec. (c)(4)(E)(xiv). Pub. L. 117–58, § 13006(b)(6)(A), (F), redesignated cl. (ix) as (xiv), substituted “, access, and on-demand transportation service” for “and access”, inserted “and other shared-use mobility applications” after “ridesharing”, and substituted semicolon for period at end.
+Subsec. (c)(4)(E)(xiv). Pub. L. 117–58, § 13006(b)(6)(A), (F), redesignated cl. (ix) as (xiv), substituted “, access, and on-demand transportation service” for “and access”, inserted “and other shared-use mobility applications” after “ridesharing”, and substituted semicolon for period at end.
 
-Subsec. (c)(4)(E)(xv), (xvi). Pub. L. 117–58, § 13006(b)(6)(G), added cls. (xv) and (xvi).
+Subsec. (c)(4)(E)(xv), (xvi). Pub. L. 117–58, § 13006(b)(6)(G), added cls. (xv) and (xvi).
 
-Subsec. (c)(4)(F)(ii)(IV). Pub. L. 117–58, § 13006(b)(7), substituted “mobility, efficiency, multimodal system performance, and payment system performance” for “efficiency and multimodal system performance”.
+Subsec. (c)(4)(F)(ii)(IV). Pub. L. 117–58, § 13006(b)(7), substituted “mobility, efficiency, multimodal system performance, and payment system performance” for “efficiency and multimodal system performance”.
 
-Subsec. (c)(4)(G)(vi) to (ix). Pub. L. 117–58, § 13006(b)(8), added cl. (vi) and redesignated former cls. (vi) to (viii) as (vii) to (ix), respectively.
+Subsec. (c)(4)(G)(vi) to (ix). Pub. L. 117–58, § 13006(b)(8), added cl. (vi) and redesignated former cls. (vi) to (viii) as (vii) to (ix), respectively.
 
-Subsec. (c)(4)(I)(i). Pub. L. 117–58, § 13006(b)(9), substituted “fiscal years 2022 through 2026” for “fiscal years 2016 through 2020”.
+Subsec. (c)(4)(I)(i). Pub. L. 117–58, § 13006(b)(9), substituted “fiscal years 2022 through 2026” for “fiscal years 2016 through 2020”.
 
-Subsec. (c)(4)(J). Pub. L. 117–58, § 13006(b)(10), substituted “80” for “50”.
+Subsec. (c)(4)(J). Pub. L. 117–58, § 13006(b)(10), substituted “80” for “50”.
 
-Subsec. (c)(4)(N). Pub. L. 117–58, § 13006(b)(11)(A), struck out “, the following definitions apply” after “In this paragraph” in introductory provisions.
+Subsec. (c)(4)(N). Pub. L. 117–58, § 13006(b)(11)(A), struck out “, the following definitions apply” after “In this paragraph” in introductory provisions.
 
-Subsec. (c)(4)(N)(i). Pub. L. 117–58, § 13006(b)(11)(B), struck out “representing a population of over 200,000” after “metropolitan planning organization”.
+Subsec. (c)(4)(N)(i). Pub. L. 117–58, § 13006(b)(11)(B), struck out “representing a population of over 200,000” after “metropolitan planning organization”.
 
-Subsec. (c)(4)(N)(iii). Pub. L. 117–58, § 13006(b)(11)(C), substituted “any” for “a any” in introductory provisions.
+Subsec. (c)(4)(N)(iii). Pub. L. 117–58, § 13006(b)(11)(C), substituted “any” for “a any” in introductory provisions.
 
-Subsec. (c)(5). Pub. L. 117–58, § 13006(a)(3)(D), added par. (5).
+Subsec. (c)(5). Pub. L. 117–58, § 13006(a)(3)(D), added par. (5).
 
-Subsec. (c)(6). Pub. L. 117–58, § 13006(c), added par. (6).
+Subsec. (c)(6). Pub. L. 117–58, § 13006(c), added par. (6).
 
-2015—Subsec. (c)(3)(C). Pub. L. 114–94, § 6003(1), substituted “2016 through 2020” for “2013 through 2014”.
+2015—Subsec. (c)(3)(C). Pub. L. 114–94, § 6003(1), substituted “2016 through 2020” for “2013 through 2014”.
 
-Subsec. (c)(3)(D). Pub. L. 114–94, § 6003(2), added subpar. (D).
+Subsec. (c)(3)(D). Pub. L. 114–94, § 6003(2), added subpar. (D).
 
-Subsec. (c)(4). Pub. L. 114–94, § 6004, added par. (4).
+Subsec. (c)(4). Pub. L. 114–94, § 6004, added par. (4).
 
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to technology deployment.
 
-2005—Subsec. (a). Pub. L. 109–59, § 5203(a)(1), struck out “initiatives and partnerships” before “program” in heading.
+2005—Subsec. (a). Pub. L. 109–59, § 5203(a)(1), struck out “initiatives and partnerships” before “program” in heading.
 
-Subsec. (a)(1). Pub. L. 109–59, § 5203(a)(2), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary shall develop and administer a national technology deployment initiatives and partnerships program.”
+Subsec. (a)(1). Pub. L. 109–59, § 5203(a)(2), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary shall develop and administer a national technology deployment initiatives and partnerships program.”
 
-Subsec. (a)(7). Pub. L. 109–59, § 5203(a)(3), added par. (7) and struck out heading and text of former par. (7). Text read as follows: “Under the program, the Secretary may make grants and enter into cooperative agreements and contracts to foster alliances and support efforts to stimulate advances in transportation technology, including—
+Subsec. (a)(7). Pub. L. 109–59, § 5203(a)(3), added par. (7) and struck out heading and text of former par. (7). Text read as follows: “Under the program, the Secretary may make grants and enter into cooperative agreements and contracts to foster alliances and support efforts to stimulate advances in transportation technology, including—
 
 “(A) the testing and evaluation of products of the strategic highway research program;
 
@@ -2275,11 +2275,11 @@ Subsec. (a)(7). Pub. L. 109–59, § 5203(a)(3), added par. (7) and struck out
 
 “(D) other activities to achieve the goals established under paragraph (3).”
 
-Subsec. (a)(8). Pub. L. 109–59, § 5203(a)(4), added par. (8) and struck out heading and text of former par. (8). Text read as follows: “Not later than 18 months after the date of enactment of this section, and biennially thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the progress and results of activities carried out under this section.”
+Subsec. (a)(8). Pub. L. 109–59, § 5203(a)(4), added par. (8) and struck out heading and text of former par. (8). Text read as follows: “Not later than 18 months after the date of enactment of this section, and biennially thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the progress and results of activities carried out under this section.”
 
-Subsec. (b)(1). Pub. L. 109–59, § 5202(b)(1), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “The Secretary shall establish and carry out a program to demonstrate the application of innovative material technology in the construction of bridges and other structures.”
+Subsec. (b)(1). Pub. L. 109–59, § 5202(b)(1), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “The Secretary shall establish and carry out a program to demonstrate the application of innovative material technology in the construction of bridges and other structures.”
 
-Subsec. (b)(2). Pub. L. 109–59, § 5202(b)(2), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “The goals of the program shall include—
+Subsec. (b)(2). Pub. L. 109–59, § 5202(b)(2), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “The goals of the program shall include—
 
 “(A) the development of new, cost-effective innovative material highway bridge applications;
 
@@ -2295,11 +2295,11 @@ Subsec. (b)(2). Pub. L. 109–59, § 5202(b)(2), reenacted heading without cha
 
 “(G) the development of new nondestructive bridge evaluation technologies and techniques.”
 
-Subsec. (c). Pub. L. 109–59, § 5203(b)(1), added subsec. (c).
+Subsec. (c). Pub. L. 109–59, § 5203(b)(1), added subsec. (c).
 
-Subsec. (d). Pub. L. 109–59, § 5203(c)(1), added subsec. (d).
+Subsec. (d). Pub. L. 109–59, § 5203(c)(1), added subsec. (d).
 
-Subsec. (e). Pub. L. 109–59, § 5203(d), added subsec. (e).
+Subsec. (e). Pub. L. 109–59, § 5203(d), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2317,7 +2317,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **Strategic Innovation for Revenue Collection**
 
-Pub. L. 117–58, div. A, title III, § 13001(a)–(e), Nov. 15, 2021, 135 Stat. 622–624, provided that:
+Pub. L. 117–58, div. A, title III, § 13001(a)–(e), Nov. 15, 2021, 135 Stat. 622–624, provided that:
 
 > **“(a) In General.—** The Secretary [of Transportation] shall establish a program to test the feasibility of a road usage fee and other user-based alternative revenue mechanisms (referred to in this section as ‘user-based alternative revenue mechanisms’) to help maintain the long-term solvency of the Highway Trust Fund, through pilot projects at the State, local, and regional level.
 
@@ -2407,7 +2407,7 @@ Pub. L. 117–58, div. A, title III, § 13001(a)–(e), Nov. 15, 2021, 135 Sta
 
 **National Motor Vehicle Per-Mile User Fee Pilot**
 
-Pub. L. 117–58, div. A, title III, § 13002, Nov. 15, 2021, 135 Stat. 624, provided that:
+Pub. L. 117–58, div. A, title III, § 13002, Nov. 15, 2021, 135 Stat. 624, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -2593,7 +2593,7 @@ Pub. L. 117–58, div. A, title III, § 13002, Nov. 15, 2021, 135 Stat. 624, p
 
 **Data Integration Pilot Program**
 
-Pub. L. 117–58, div. A, title III, § 13004, Nov. 15, 2021, 135 Stat. 629, provided that:
+Pub. L. 117–58, div. A, title III, § 13004, Nov. 15, 2021, 135 Stat. 629, provided that:
 
 > **“(a) Establishment.—** The Secretary [of Transportation] shall establish a pilot program—
 
@@ -2631,7 +2631,7 @@ Pub. L. 117–58, div. A, title III, § 13004, Nov. 15, 2021, 135 Stat. 629, p
 
 **Emerging Technology Research Pilot Program**
 
-Pub. L. 117–58, div. A, title III, § 13005, Nov. 15, 2021, 135 Stat. 629, provided that:
+Pub. L. 117–58, div. A, title III, § 13005, Nov. 15, 2021, 135 Stat. 629, provided that:
 
 > **“(a) Establishment.—** The Secretary [of Transportation] shall establish a pilot program to conduct emerging technology research in accordance with this section.
 
@@ -2655,7 +2655,7 @@ Pub. L. 117–58, div. A, title III, § 13005, Nov. 15, 2021, 135 Stat. 629, p
 
 **Open Challenge and Research Proposal Pilot Program**
 
-Pub. L. 117–58, div. A, title III, § 13006(e), Nov. 15, 2021, 135 Stat. 638, provided that:
+Pub. L. 117–58, div. A, title III, § 13006(e), Nov. 15, 2021, 135 Stat. 638, provided that:
 
 > **“(1) In general.—** The Secretary [of Transportation] shall establish an open challenge and research proposal pilot program under which eligible entities may propose open highway challenges and research proposals that are linked to identified or potential research needs.
 
@@ -2703,7 +2703,7 @@ Pub. L. 117–58, div. A, title III, § 13006(e), Nov. 15, 2021, 135 Stat. 638
 
 **Research on Connected Vehicle Technology**
 
-Pub. L. 117–58, div. B, title IV, § 24219, Nov. 15, 2021, 135 Stat. 831, provided that:
+Pub. L. 117–58, div. B, title IV, § 24219, Nov. 15, 2021, 135 Stat. 831, provided that:
 
 > “The Administrator of the National Highway Traffic Safety Administration, in collaboration with the head of the Intelligent Transportation Systems Joint Program Office and the Administrator of the Federal Highway Administration, shall—
 
@@ -2713,11 +2713,11 @@ Pub. L. 117–58, div. B, title IV, § 24219, Nov. 15, 2021, 135 Stat. 831, pr
 
 **Surface Transportation System Funding Alternatives**
 
-Pub. L. 114–94, div. A, title VI, § 6020, Dec. 4, 2015, 129 Stat. 1582, which established a program to provide grants to States to demonstrate user-based alternative revenue mechanisms that utilize a user fee structure to maintain the long-term solvency of the Highway Trust Fund, was repealed by Pub. L. 117–58, div. A, title III, § 13001(f)(1), Nov. 15, 2021, 135 Stat. 624.
+Pub. L. 114–94, div. A, title VI, § 6020, Dec. 4, 2015, 129 Stat. 1582, which established a program to provide grants to States to demonstrate user-based alternative revenue mechanisms that utilize a user fee structure to maintain the long-term solvency of the Highway Trust Fund, was repealed by Pub. L. 117–58, div. A, title III, § 13001(f)(1), Nov. 15, 2021, 135 Stat. 624.
 
 **High Performing Steel Bridge Research and Technology Transfer**
 
-Pub. L. 109–59, title V, § 5202(c), Aug. 10, 2005, 119 Stat. 1786, provided that:
+Pub. L. 109–59, title V, § 5202(c), Aug. 10, 2005, 119 Stat. 1786, provided that:
 
 > **“(1) In general.—** The Secretary [of Transportation] shall carry out a program to demonstrate the application of high-performing steel in the construction and rehabilitation of bridges.
 
@@ -2725,7 +2725,7 @@ Pub. L. 109–59, title V, § 5202(c), Aug. 10, 2005, 119 Stat. 1786, provided
 
 **Steel Bridge Testing**
 
-Pub. L. 109–59, title V, § 5202(d), Aug. 10, 2005, 119 Stat. 1787, provided that:
+Pub. L. 109–59, title V, § 5202(d), Aug. 10, 2005, 119 Stat. 1787, provided that:
 
 > **“(1) In general.—** The Secretary [of Transportation] shall carry out a program to test steel bridges using a nondestructive technology that is able to detect growing cracks, including subsurface flaws as small as 0.010 inches in length or depth, in the bridges.
 
@@ -2733,7 +2733,7 @@ Pub. L. 109–59, title V, § 5202(d), Aug. 10, 2005, 119 Stat. 1787, provided
 
 > **“(3) Federal share.—** The Federal share of the cost of activities carried out in accordance with this subsection shall be 80 percent.”
 
-## § 504. Training and education
+## § 504. Training and education
 
 **(a) National Highway Institute.—**
 
@@ -3039,7 +3039,7 @@ Pub. L. 109–59, title V, § 5202(d), Aug. 10, 2005, 119 Stat. 1787, provided
 
 **(2)** the activities are for entities other than employees of the Secretary, such as States, units of local government, Federal land management agencies, and Tribal governments.
 
-(Added Pub. L. 105–178, title V, § 5104, June 9, 1998, 112 Stat. 429; amended Pub. L. 109–59, title V, § 5204(a)(1), (b), (d)(1), (e), (h)(1), Aug. 10, 2005, 119 Stat. 1790, 1792–1794; Pub. L. 112–141, div. E, title II, § 52004, July 6, 2012, 126 Stat. 880; Pub. L. 114–94, div. A, title I, § 1109(c)(4), Dec. 4, 2015, 129 Stat. 1343; Pub. L. 114–95, title IX, § 9215(vvv), Dec. 10, 2015, 129 Stat. 2191; Pub. L. 117–58, div. A, title I, § 11525(s), title III, § 13007, Nov. 15, 2021, 135 Stat. 608, 639.)
+(Added Pub. L. 105–178, title V, § 5104, June 9, 1998, 112 Stat. 429; amended Pub. L. 109–59, title V, § 5204(a)(1), (b), (d)(1), (e), (h)(1), Aug. 10, 2005, 119 Stat. 1790, 1792–1794; Pub. L. 112–141, div. E, title II, § 52004, July 6, 2012, 126 Stat. 880; Pub. L. 114–94, div. A, title I, § 1109(c)(4), Dec. 4, 2015, 129 Stat. 1343; Pub. L. 114–95, title IX, § 9215(vvv), Dec. 10, 2015, 129 Stat. 2191; Pub. L. 117–58, div. A, title I, § 11525(s), title III, § 13007, Nov. 15, 2021, 135 Stat. 608, 639.)
 
 **Editorial Notes**
 
@@ -3049,69 +3049,69 @@ Section 8101 of the Elementary and Secondary Education Act of 1965, referred to 
 
 **Prior Provisions**
 
-A prior section 504, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 831, related to Federal reimbursement for highway relocation assistance, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
+A prior section 504, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 831, related to Federal reimbursement for highway relocation assistance, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 **Amendments**
 
-2021—Subsec. (e)(1)(D). Pub. L. 117–58, § 13007(a)(1)(B), added subpar. (D). Former subpar. (D) redesignated (E).
+2021—Subsec. (e)(1)(D). Pub. L. 117–58, § 13007(a)(1)(B), added subpar. (D). Former subpar. (D) redesignated (E).
 
-Subsec. (e)(1)(E). Pub. L. 117–58, § 13007(a)(1)(A), (C), redesignated subpar. (D) as (E) and substituted “, college, community college, or vocational school” for “or community college”. Former subpar. (E) redesignated (F).
+Subsec. (e)(1)(E). Pub. L. 117–58, § 13007(a)(1)(A), (C), redesignated subpar. (D) as (E) and substituted “, college, community college, or vocational school” for “or community college”. Former subpar. (E) redesignated (F).
 
-Subsec. (e)(1)(F) to (I). Pub. L. 117–58, § 13007(a)(1)(A), (D), added subpar. (G) and redesignated former subpars. (E) to (G) as (F), (H), and (I), respectively.
+Subsec. (e)(1)(F) to (I). Pub. L. 117–58, § 13007(a)(1)(A), (D), added subpar. (G) and redesignated former subpars. (E) to (G) as (F), (H), and (I), respectively.
 
-Subsec. (e)(2). Pub. L. 117–58, § 13007(a)(2), substituted “paragraph (1)(I)” for “paragraph (1)(G)”.
+Subsec. (e)(2). Pub. L. 117–58, § 13007(a)(2), substituted “paragraph (1)(I)” for “paragraph (1)(G)”.
 
-Subsec. (e)(3). Pub. L. 117–58, § 13007(a)(3), inserted dash after “including” and subpar. (A) designation before “activities” and added subpars. (B) to (D).
+Subsec. (e)(3). Pub. L. 117–58, § 13007(a)(3), inserted dash after “including” and subpar. (A) designation before “activities” and added subpars. (B) to (D).
 
-Subsec. (f). Pub. L. 117–58, § 13007(b)(1), substituted “and Training Development and Deployment” for “Development” in heading.
+Subsec. (f). Pub. L. 117–58, § 13007(b)(1), substituted “and Training Development and Deployment” for “Development” in heading.
 
-Subsec. (f)(1). Pub. L. 117–58, § 13007(b)(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary shall establish a program to make grants to institutions of higher education that, in partnership with industry or State departments of transportation, will develop, test, and revise new curricula and education programs to train individuals at all levels of the transportation workforce.”
+Subsec. (f)(1). Pub. L. 117–58, § 13007(b)(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary shall establish a program to make grants to institutions of higher education that, in partnership with industry or State departments of transportation, will develop, test, and revise new curricula and education programs to train individuals at all levels of the transportation workforce.”
 
-Subsec. (f)(2). Pub. L. 117–58, § 13007(b)(3)(A), substituted “may” for “shall” in introductory provisions.
+Subsec. (f)(2). Pub. L. 117–58, § 13007(b)(3)(A), substituted “may” for “shall” in introductory provisions.
 
-Subsec. (f)(2)(A). Pub. L. 117–58, § 13007(b)(3)(B), inserted “current or future” after “specific”.
+Subsec. (f)(2)(A). Pub. L. 117–58, § 13007(b)(3)(B), inserted “current or future” after “specific”.
 
-Subsec. (f)(2)(E). Pub. L. 117–58, § 13007(b)(3)(C), struck out “in nontraditional departments” after “curricula” and inserted “construction,” after “such as” and “or emerging” after “industrial”.
+Subsec. (f)(2)(E). Pub. L. 117–58, § 13007(b)(3)(C), struck out “in nontraditional departments” after “curricula” and inserted “construction,” after “such as” and “or emerging” after “industrial”.
 
-Subsec. (f)(3), (4). Pub. L. 117–58, § 13007(b)(4), (5), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (f)(3), (4). Pub. L. 117–58, § 13007(b)(4), (5), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (g)(6). Pub. L. 117–58, § 11525(s), substituted “make grants to” for “make grants or to”.
+Subsec. (g)(6). Pub. L. 117–58, § 11525(s), substituted “make grants to” for “make grants or to”.
 
-Subsec. (i). Pub. L. 117–58, § 13007(c), added subsec. (i).
+Subsec. (i). Pub. L. 117–58, § 13007(c), added subsec. (i).
 
 2015—Subsec. (a)(4). Pub. L. 114–94 substituted “104(b)(2)” for “104(b)(3)” and “surface transportation block grant program” for “surface transportation program”.
 
 Subsec. (d)(4)(B), (C). Pub. L. 114–95 substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)”.
 
-2012—Subsec. (a)(2)(A). Pub. L. 112–141, § 52004(1)(A), inserted “and the employees of any other applicable Federal agency” before the semicolon at end.
+2012—Subsec. (a)(2)(A). Pub. L. 112–141, § 52004(1)(A), inserted “and the employees of any other applicable Federal agency” before the semicolon at end.
 
-Subsec. (a)(3)(A)(ii)(V). Pub. L. 112–141, § 52004(1)(B), substituted “reducing the amount of time required for” for “expediting”.
+Subsec. (a)(3)(A)(ii)(V). Pub. L. 112–141, § 52004(1)(B), substituted “reducing the amount of time required for” for “expediting”.
 
-Subsec. (b)(3). Pub. L. 112–141, § 52004(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Federal share of the cost of activities carried out by the tribal technical assistance centers under paragraph (2)(D)(ii) shall be 100 percent.”
+Subsec. (b)(3). Pub. L. 112–141, § 52004(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Federal share of the cost of activities carried out by the tribal technical assistance centers under paragraph (2)(D)(ii) shall be 100 percent.”
 
-Subsec. (c)(2). Pub. L. 112–141, § 52004(3), designated existing provisions as subpar. (A), inserted subpar. heading, substituted “, which program” for “. The program”, and added subpar. (B).
+Subsec. (c)(2). Pub. L. 112–141, § 52004(3), designated existing provisions as subpar. (A), inserted subpar. heading, substituted “, which program” for “. The program”, and added subpar. (B).
 
-Subsec. (e)(1). Pub. L. 112–141, § 52004(4)(A)(i), substituted “paragraphs (1) through (4) of section 104(b)” for “sections 104(b)(1), 104(b)(2), 104(b)(3), 104(b)(4), and 144(e)” in introductory provisions.
+Subsec. (e)(1). Pub. L. 112–141, § 52004(4)(A)(i), substituted “paragraphs (1) through (4) of section 104(b)” for “sections 104(b)(1), 104(b)(2), 104(b)(3), 104(b)(4), and 144(e)” in introductory provisions.
 
-Subsec. (e)(1)(F), (G). Pub. L. 112–141, § 52004(4)(A)(ii)–(iv), added subpars. (F) and (G).
+Subsec. (e)(1)(F), (G). Pub. L. 112–141, § 52004(4)(A)(ii)–(iv), added subpars. (F) and (G).
 
-Subsec. (e)(2). Pub. L. 112–141, § 52004(4)(B), inserted “, except for activities carried out under paragraph (1)(G), for which the Federal share shall be 50 percent” before the period at end.
+Subsec. (e)(2). Pub. L. 112–141, § 52004(4)(B), inserted “, except for activities carried out under paragraph (1)(G), for which the Federal share shall be 50 percent” before the period at end.
 
-Subsec. (f). Pub. L. 112–141, § 52004(5), struck out “Pilot” before “Program” in heading.
+Subsec. (f). Pub. L. 112–141, § 52004(5), struck out “Pilot” before “Program” in heading.
 
-Subsec. (g)(4)(F). Pub. L. 112–141, § 52004(6), substituted “stewardship” for “excellence”.
+Subsec. (g)(4)(F). Pub. L. 112–141, § 52004(6), substituted “stewardship” for “excellence”.
 
-Subsec. (h). Pub. L. 112–141, § 52004(7), added subsec. (h).
+Subsec. (h). Pub. L. 112–141, § 52004(7), added subsec. (h).
 
-2005—Subsec. (a)(3). Pub. L. 109–59, § 5204(a)(1), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The Institute may develop and administer courses in modern developments, techniques, methods, regulations, management, and procedures relating to surface transportation, environmental mitigation and compliance, acquisition of rights-of-way, relocation assistance, engineering, safety, construction, maintenance and operations, contract administration, motor carrier safety activities, inspection, and highway finance.”
+2005—Subsec. (a)(3). Pub. L. 109–59, § 5204(a)(1), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The Institute may develop and administer courses in modern developments, techniques, methods, regulations, management, and procedures relating to surface transportation, environmental mitigation and compliance, acquisition of rights-of-way, relocation assistance, engineering, safety, construction, maintenance and operations, contract administration, motor carrier safety activities, inspection, and highway finance.”
 
-Subsec. (b). Pub. L. 109–59, § 5204(b), reenacted heading without change and amended text of subsec. (b) generally, substituting provisions relating to authority to carry out a local technical assistance program, authority to make grants and enter into cooperative agreements and contracts, and Federal share of the cost of activities carried out by tribal technical assistance centers, consisting of pars. (1) to (3), for provisions relating to authority to carry out a local technical assistance program and authority to make grants and enter into cooperative agreements and contracts, consisting of pars. (1) and (2).
+Subsec. (b). Pub. L. 109–59, § 5204(b), reenacted heading without change and amended text of subsec. (b) generally, substituting provisions relating to authority to carry out a local technical assistance program, authority to make grants and enter into cooperative agreements and contracts, and Federal share of the cost of activities carried out by tribal technical assistance centers, consisting of pars. (1) to (3), for provisions relating to authority to carry out a local technical assistance program and authority to make grants and enter into cooperative agreements and contracts, consisting of pars. (1) and (2).
 
-Subsec. (d). Pub. L. 109–59, § 5204(d)(1), added subsec. (d).
+Subsec. (d). Pub. L. 109–59, § 5204(d)(1), added subsec. (d).
 
-Subsecs. (e), (f). Pub. L. 109–59, § 5204(e), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 109–59, § 5204(e), added subsecs. (e) and (f).
 
-Subsec. (g). Pub. L. 109–59, § 5204(h)(1), added subsec. (g).
+Subsec. (g). Pub. L. 109–59, § 5204(h)(1), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3131,7 +3131,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **Center for Transportation Advancement and Regional Development**
 
-Pub. L. 109–59, title V, § 5504, Aug. 10, 2005, 119 Stat. 1822, provided that:
+Pub. L. 109–59, title V, § 5504, Aug. 10, 2005, 119 Stat. 1822, provided that:
 
 > **“(a) Establishment.—** The Secretary [of Transportation] shall establish a Center for Transportation Advancement and Regional Development (referred to in this section as the ‘Center’) to assist, through training, education, and research, in the comprehensive development of small metropolitan and rural regional transportation systems that are responsive to the needs of businesses and local communities.
 
@@ -3153,7 +3153,7 @@ Pub. L. 109–59, title V, § 5504, Aug. 10, 2005, 119 Stat. 1822, provided th
 
 **Transportation Scholarship Opportunities Program**
 
-Pub. L. 109–59, title V, § 5505, Aug. 10, 2005, 119 Stat. 1822, provided that:
+Pub. L. 109–59, title V, § 5505, Aug. 10, 2005, 119 Stat. 1822, provided that:
 
 > **“(a) In General.—**
 
@@ -3165,7 +3165,7 @@ Pub. L. 109–59, title V, § 5505, Aug. 10, 2005, 119 Stat. 1822, provided th
 
 > **“(c) Funding.—** Notwithstanding any other provision of law, the Secretary [of Transportation] may use funds available to an operating administration or from the Office of Inspector General of the Department for the purpose of carrying out this section.”
 
-## § 505. State planning and research
+## § 505. State planning and research
 
 **(a) General Rule.—** Two percent of the sums apportioned to a State for fiscal year 1998 and each fiscal year thereafter under paragraphs (1) through (5) of section 104(b) shall be available for expenditure by the State, in consultation with the Secretary, only for the following purposes:
 
@@ -3201,29 +3201,29 @@ Pub. L. 109–59, title V, § 5505, Aug. 10, 2005, 119 Stat. 1822, provided th
 
 **(e) Administration of Sums.—** Funds subject to subsection (a) shall be combined and administered by the Secretary as a single fund and shall be available for obligation for the period described in section 118(b).
 
-(Added Pub. L. 105–178, title V, § 5105, June 9, 1998, 112 Stat. 432; amended Pub. L. 109–59, title V, § 5205, Aug. 10, 2005, 119 Stat. 1795; Pub. L. 112–141, div. E, title II, § 52005, July 6, 2012, 126 Stat. 882; Pub. L. 114–94, div. A, title I, § 1104(e)(6), Dec. 4, 2015, 129 Stat. 1332.)
+(Added Pub. L. 105–178, title V, § 5105, June 9, 1998, 112 Stat. 432; amended Pub. L. 109–59, title V, § 5205, Aug. 10, 2005, 119 Stat. 1795; Pub. L. 112–141, div. E, title II, § 52005, July 6, 2012, 126 Stat. 882; Pub. L. 114–94, div. A, title I, § 1104(e)(6), Dec. 4, 2015, 129 Stat. 1332.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 505, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 831, related to highway relocation assistance payments, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
+A prior section 505, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 831, related to highway relocation assistance payments, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 **Amendments**
 
 2015—Subsec. (a). Pub. L. 114–94 substituted “through (5)” for “through (4)” in introductory provisions.
 
-2012—Subsec. (a). Pub. L. 112–141, § 52005(1)(A), substituted “paragraphs (1) through (4) of section 104(b)” for “section 104 (other than sections 104(f) and 104(h)) and under section 144” in introductory provisions.
+2012—Subsec. (a). Pub. L. 112–141, § 52005(1)(A), substituted “paragraphs (1) through (4) of section 104(b)” for “section 104 (other than sections 104(f) and 104(h)) and under section 144” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 112–141, § 52005(1)(B), substituted “, plans, and processes under sections 119, 148, 149, and 167” for “under section 303”.
+Subsec. (a)(3). Pub. L. 112–141, § 52005(1)(B), substituted “, plans, and processes under sections 119, 148, 149, and 167” for “under section 303”.
 
-Subsecs. (c), (d). Pub. L. 112–141, § 52005(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsecs. (c), (d). Pub. L. 112–141, § 52005(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 112–141, § 52005(2), (4), redesignated subsec. (d) as (e) and substituted “section 118(b)” for “section 118(b)(2)”.
+Subsec. (e). Pub. L. 112–141, § 52005(2), (4), redesignated subsec. (d) as (e) and substituted “section 118(b)” for “section 118(b)(2)”.
 
-2005—Subsec. (a)(7). Pub. L. 109–59, § 5205(1), added par. (7).
+2005—Subsec. (a)(7). Pub. L. 109–59, § 5205(1), added par. (7).
 
-Subsec. (d). Pub. L. 109–59, § 5205(2), substituted “for the period described in section 118(b)(2)” for “for the same period as funds apportioned under section 104(b)(1)”.
+Subsec. (d). Pub. L. 109–59, § 5205(2), substituted “for the period described in section 118(b)(2)” for “for the same period as funds apportioned under section 104(b)(1)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3237,7 +3237,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **Alaska Highway Study**
 
-Pub. L. 87–866, § 13, Oct. 23, 1962, 76 Stat. 1149, as amended by Pub. L. 97–449, § 2(a), Jan. 12, 1983, 96 Stat. 2439, provided that:
+Pub. L. 87–866, § 13, Oct. 23, 1962, 76 Stat. 1149, as amended by Pub. L. 97–449, § 2(a), Jan. 12, 1983, 96 Stat. 2439, provided that:
 
 > **“(a)** The Secretary of Transportation, in cooperation with the State of Alaska, is hereby authorized to make engineering studies and estimates and planning surveys relative to a highway construction program for the State of Alaska, and, in accordance with treaties or other agreements to be negotiated with Canada by the Secretary of State in consultation with the Secretary of Transportation, engineering studies, estimates, and planning surveys relative to connecting Alaskan roads with Canadian roads at the International boundary.
 
@@ -3255,15 +3255,15 @@ Pub. L. 87–866, § 13, Oct. 23, 1962, 76 Stat. 1149, as amended by Pub. L. 9
 
 > **“(e)** There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to be available until expended, the sum of $800,000 for the purpose of making the studies, surveys, and report authorized by subsections (a) and (b) hereof.”
 
-## [§§ 506, 507. Repealed. Pub. L. 112–141, div. E, title II, §§ 52006(a), 52007(a), July 6, 2012, 126 Stat. 882]
+## [§§ 506, 507. Repealed. Pub. L. 112–141, div. E, title II, §§ 52006(a), 52007(a), July 6, 2012, 126 Stat. 882]
 
-Section 506, added Pub. L. 105–178, title V, § 5106, June 9, 1998, 112 Stat. 433; amended Pub. L. 109–59, title V, § 5206(a), Aug. 10, 2005, 119 Stat. 1795, related to international highway transportation outreach program.
+Section 506, added Pub. L. 105–178, title V, § 5106, June 9, 1998, 112 Stat. 433; amended Pub. L. 109–59, title V, § 5206(a), Aug. 10, 2005, 119 Stat. 1795, related to international highway transportation outreach program.
 
-A prior section 506, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 832; amended Pub. L. 91–605, title I, § 137, Dec. 31, 1970, 84 Stat. 1735, related to replacement housing, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
+A prior section 506, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 832; amended Pub. L. 91–605, title I, § 137, Dec. 31, 1970, 84 Stat. 1735, related to replacement housing, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
-Section 507, added Pub. L. 105–178, title V, § 5107, June 9, 1998, 112 Stat. 434; amended Pub. L. 109–59, title V, § 5207(a), Aug. 10, 2005, 119 Stat. 1797, related to surface transportation-environmental cooperative research program.
+Section 507, added Pub. L. 105–178, title V, § 5107, June 9, 1998, 112 Stat. 434; amended Pub. L. 109–59, title V, § 5207(a), Aug. 10, 2005, 119 Stat. 1797, related to surface transportation-environmental cooperative research program.
 
-A prior section 507, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 832, related to expenses incidental to transfer of property, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
+A prior section 507, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 832, related to expenses incidental to transfer of property, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3271,11 +3271,11 @@ A prior section 507, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 83
 
 Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## [§ 508. Repealed. Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(A), Dec. 4, 2015, 129 Stat. 1581]
+## [§ 508. Repealed. Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(A), Dec. 4, 2015, 129 Stat. 1581]
 
-Section, added Pub. L. 105–178, title V, § 5108, June 9, 1998, 112 Stat. 435; amended Pub. L. 109–59, title V, § 5208(a), Aug. 10, 2005, 119 Stat. 1798; Pub. L. 112–141, div. E, title II, § 52013, July 6, 2012, 126 Stat. 897, related to transportation research and development strategic planning.
+Section, added Pub. L. 105–178, title V, § 5108, June 9, 1998, 112 Stat. 435; amended Pub. L. 109–59, title V, § 5208(a), Aug. 10, 2005, 119 Stat. 1798; Pub. L. 112–141, div. E, title II, § 52013, July 6, 2012, 126 Stat. 897, related to transportation research and development strategic planning.
 
-A prior section 508, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 833, related to highway relocation services, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
+A prior section 508, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 833, related to highway relocation services, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3283,11 +3283,11 @@ A prior section 508, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 83
 
 Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.
 
-## [§ 509. Repealed. Pub. L. 112–141, div. E, title II, § 52008(a), July 6, 2012, 126 Stat. 882]
+## [§ 509. Repealed. Pub. L. 112–141, div. E, title II, § 52008(a), July 6, 2012, 126 Stat. 882]
 
-Section, added Pub. L. 109–59, title V, § 5209(a), Aug. 10, 2005, 119 Stat. 1800, related to national cooperative freight transportation research program.
+Section, added Pub. L. 109–59, title V, § 5209(a), Aug. 10, 2005, 119 Stat. 1800, related to national cooperative freight transportation research program.
 
-A prior section 509, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 833, related to relocation assistance programs on Federal highway projects, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
+A prior section 509, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 833, related to relocation assistance programs on Federal highway projects, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3295,7 +3295,7 @@ A prior section 509, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 83
 
 Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 510. Future strategic highway research program
+## § 510. Future strategic highway research program
 
 **(a) Establishment.—** The Secretary, in consultation with the American Association of State Highway and Transportation Officials, shall establish and carry out, acting through the National Research Council of the National Academy of Sciences, the future strategic highway research program.
 
@@ -3367,13 +3367,13 @@ Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as
 
 **(h) Implementation.—** Notwithstanding any other provision of this section, the Secretary may use funds made available to carry out this section for implementation of research products related to the future strategic highway research program, including development, demonstration, evaluation, and technology transfer activities.
 
-(Added Pub. L. 109–59, title V, § 5210(a), Aug. 10, 2005, 119 Stat. 1801; amended Pub. L. 111–322, title II, § 2203(d), Dec. 22, 2010, 124 Stat. 3526.)
+(Added Pub. L. 109–59, title V, § 5210(a), Aug. 10, 2005, 119 Stat. 1801; amended Pub. L. 111–322, title II, § 2203(d), Dec. 22, 2010, 124 Stat. 3526.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 510, added Pub. L. 91–605, title I, § 117(b), Dec. 31, 1970, 84 Stat. 1724, related to construction of replacement housing, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
+A prior section 510, added Pub. L. 91–605, title I, § 117(b), Dec. 31, 1970, 84 Stat. 1724, related to construction of replacement housing, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 Another prior section 510 was renumbered section 511 of this title and subsequently repealed.
 
@@ -3381,13 +3381,13 @@ Another prior section 510 was renumbered section 511 of this title and subsequen
 
 2010—Subsec. (h). Pub. L. 111–322 added subsec. (h).
 
-## § 511. Multistate corridor operations and management
+## § 511. Multistate corridor operations and management
 
 **(a) In General.—** The Secretary shall encourage multistate cooperative agreements, coalitions, or other arrangements to promote regional cooperation, planning, and shared project implementation for programs and projects to improve transportation system management and operations.
 
 **(b) Interstate Route 95 Corridor Coalition Transportation Systems Management and Operations.—** The Secretary shall make grants under this subsection to States to continue intelligent transportation system management and operations in the Interstate Route 95 corridor coalition region initiated under the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240).
 
-(Added Pub. L. 109–59, title V, § 5211(a), Aug. 10, 2005, 119 Stat. 1804.)
+(Added Pub. L. 109–59, title V, § 5211(a), Aug. 10, 2005, 119 Stat. 1804.)
 
 **Editorial Notes**
 
@@ -3397,11 +3397,11 @@ The Intermodal Surface Transportation Efficiency Act of 1991, referred to in sub
 
 **Prior Provisions**
 
-A prior section 511, formerly 510, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 834; renumbered § 511, Pub. L. 91–605, title I, § 117(a), Dec. 31, 1970, 84 Stat. 1724, related to authority of Secretary, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
+A prior section 511, formerly 510, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 834; renumbered § 511, Pub. L. 91–605, title I, § 117(a), Dec. 31, 1970, 84 Stat. 1724, related to authority of Secretary, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 Another prior section 511 was renumbered section 512 of this title and subsequently repealed.
 
-## § 512. National ITS program plan
+## § 512. National ITS program plan
 
 **(a) In General.—**
 
@@ -3429,7 +3429,7 @@ Another prior section 511 was renumbered section 512 of this title and subsequen
 
 **(b) Reporting.—** The National ITS program plan shall be submitted and biennially updated.
 
-(Added Pub. L. 109–59, title V, § 5301(a), Aug. 10, 2005, 119 Stat. 1804; amended Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(D), Dec. 4, 2015, 129 Stat. 1581.)
+(Added Pub. L. 109–59, title V, § 5301(a), Aug. 10, 2005, 119 Stat. 1804; amended Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(D), Dec. 4, 2015, 129 Stat. 1581.)
 
 **Editorial Notes**
 
@@ -3439,7 +3439,7 @@ The date of enactment of the SAFETEA–LU, referred to in subsec. (a)(1), is the
 
 **Prior Provisions**
 
-A prior section 512, formerly 511, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 834; renumbered § 512, Pub. L. 91–605, title I, § 117(a), Dec. 31, 1970, 84 Stat. 1724, related to definitions for chapter, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
+A prior section 512, formerly 511, added Pub. L. 90–495, § 30, Aug. 23, 1968, 82 Stat. 834; renumbered § 512, Pub. L. 91–605, title I, § 117(a), Dec. 31, 1970, 84 Stat. 1724, related to definitions for chapter, prior to repeal by Pub. L. 91–646, title II, § 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 **Amendments**
 
@@ -3453,7 +3453,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 **Intelligent Transportation System Program**
 
-Pub. L. 109–59, title V, §§ 5303–5310, Aug. 10, 2005, 119 Stat. 1806–1813, as amended by Pub. L. 114–94, div. A, title VI, § 6019(d)(3), Dec. 4, 2015, 129 Stat. 1582; Pub. L. 117–286, § 4(a)(176), (177), Dec. 27, 2022, 136 Stat. 4325, provided that:
+Pub. L. 109–59, title V, §§ 5303–5310, Aug. 10, 2005, 119 Stat. 1806–1813, as amended by Pub. L. 114–94, div. A, title VI, § 6019(d)(3), Dec. 4, 2015, 129 Stat. 1582; Pub. L. 117–286, § 4(a)(176), (177), Dec. 27, 2022, 136 Stat. 4325, provided that:
 
 > **“SEC. 5303. GOALS AND PURPOSES.**
 
@@ -3489,7 +3489,7 @@ Pub. L. 109–59, title V, §§ 5303–5310, Aug. 10, 2005, 119 Stat. 1806–1
 
 > **“SEC. 5304. INFRASTRUCTURE DEVELOPMENT.**
 
-> “Funds made available to carry out this subtitle [subtitle C (§§ 5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title] for operational tests—
+> “Funds made available to carry out this subtitle [subtitle C (§§ 5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title] for operational tests—
 
 > **“(1)** shall be used primarily for the development of intelligent transportation system infrastructure; and
 
@@ -3497,7 +3497,7 @@ Pub. L. 109–59, title V, §§ 5303–5310, Aug. 10, 2005, 119 Stat. 1806–1
 
 > **“SEC. 5305. GENERAL AUTHORITIES AND REQUIREMENTS.**
 
-> **“(a) Scope.—** Subject to the provisions of this subtitle [subtitle C (§§ 5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title], the Secretary [of Transportation] shall conduct an ongoing intelligent transportation system program to research, develop, and operationally test intelligent transportation systems and to provide technical assistance in the nationwide application of those systems as a component of the surface transportation systems of the United States.
+> **“(a) Scope.—** Subject to the provisions of this subtitle [subtitle C (§§ 5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title], the Secretary [of Transportation] shall conduct an ongoing intelligent transportation system program to research, develop, and operationally test intelligent transportation systems and to provide technical assistance in the nationwide application of those systems as a component of the surface transportation systems of the United States.
 
 > **“(b) Policy.—** Intelligent transportation system research projects and operational tests funded pursuant to this subtitle shall encourage and not displace public-private partnerships or private sector investment in such tests and projects.
 
@@ -3591,7 +3591,7 @@ Pub. L. 109–59, title V, §§ 5303–5310, Aug. 10, 2005, 119 Stat. 1806–1
 
 > **“SEC. 5306. RESEARCH AND DEVELOPMENT.**
 
-> **“(a) In General.—** The Secretary [of Transportation] shall carry out a comprehensive program of intelligent transportation system research, development, and operational tests of intelligent vehicles and intelligent infrastructure systems and other similar activities that are necessary to carry out this subtitle [subtitle C (§§ 5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title].
+> **“(a) In General.—** The Secretary [of Transportation] shall carry out a comprehensive program of intelligent transportation system research, development, and operational tests of intelligent vehicles and intelligent infrastructure systems and other similar activities that are necessary to carry out this subtitle [subtitle C (§§ 5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title].
 
 > **“(b) Priority Areas.—** Under the program, the Secretary shall give higher priority to funding projects that—
 
@@ -3655,7 +3655,7 @@ Pub. L. 109–59, title V, §§ 5303–5310, Aug. 10, 2005, 119 Stat. 1806–1
 
 > **“(B)** the upgrade or expansion of an intelligent transportation system in existence on the date of enactment of this Act [Aug. 10, 2005] if the Secretary determines that the upgrade or expansion—
 
-> **“(i)** would not adversely affect the goals or purposes of this subtitle [subtitle C (§§ 5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title];
+> **“(i)** would not adversely affect the goals or purposes of this subtitle [subtitle C (§§ 5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title];
 
 > **“(ii)** is carried out before the end of the useful life of such system; and
 
@@ -3743,7 +3743,7 @@ Pub. L. 109–59, title V, §§ 5303–5310, Aug. 10, 2005, 119 Stat. 1806–1
 
 > **“SEC. 5310. DEFINITIONS.**
 
-> “In this subtitle [subtitle C (§§ 5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title], the following definitions apply:
+> “In this subtitle [subtitle C (§§ 5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title], the following definitions apply:
 
 > **“(1) Incident.—** The term ‘incident’ means a crash, a natural disaster, workzone activity, special event, or other emergency road user occurrence that adversely affects or impedes the normal flow of traffic.
 
@@ -3779,7 +3779,7 @@ Pub. L. 109–59, title V, §§ 5303–5310, Aug. 10, 2005, 119 Stat. 1806–1
 
 **Environmental Review of Activities That Support Deployment of Intelligent Transportation Systems**
 
-Pub. L. 109–59, title VI, § 6010, Aug. 10, 2005, 119 Stat. 1877, provided that:
+Pub. L. 109–59, title VI, § 6010, Aug. 10, 2005, 119 Stat. 1877, provided that:
 
 > **“(a) Categorical Exclusions.—** Not later than one year after the date of enactment of this Act [Aug. 10, 2005], the Secretary [of Transportation] shall initiate a rulemaking process to establish, to the extent appropriate, categorical exclusions for activities that support the deployment of intelligent transportation infrastructure and systems from the requirement that an environmental assessment or an environmental impact statement be prepared under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) in compliance with the standards for categorical exclusions established by that Act [42 U.S.C. 4321 et seq.].
 
@@ -3789,9 +3789,9 @@ Pub. L. 109–59, title VI, § 6010, Aug. 10, 2005, 119 Stat. 1877, provided t
 
 > **“(2) Consultation.—** The Secretary shall develop the agreement under paragraph (1) in consultation with the National Conference of State Historic Preservation Officers and the Advisory Council on Historic Preservation established under title II of the National Historic Preservation Act (26 [sic] U.S.C. 470i et seq. [former 16 U.S.C. 470i et seq., see 54 U.S.C. 304101 et seq.]) and after soliciting the views of other interested parties.
 
-> **“(c) Intelligent Transportation Infrastructure and Systems Defined.—** In this section, the term ‘intelligent transportation infrastructure and systems’ means intelligent transportation infrastructure and intelligent transportation systems, as such terms are defined in subtitle C of title V of this Act [subtitle C (§§ 5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title and provisions set out as a note above].”
+> **“(c) Intelligent Transportation Infrastructure and Systems Defined.—** In this section, the term ‘intelligent transportation infrastructure and systems’ means intelligent transportation infrastructure and intelligent transportation systems, as such terms are defined in subtitle C of title V of this Act [subtitle C (§§ 5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title and provisions set out as a note above].”
 
-## § 513. Use of funds for ITS activities
+## § 513. Use of funds for ITS activities
 
 **(a) Definitions.—** In this section, the following definitions apply:
 
@@ -3819,7 +3819,7 @@ Pub. L. 109–59, title VI, § 6010, Aug. 10, 2005, 119 Stat. 1877, provided t
 
 **(2) Comprehensive plan.—** To carry out this section, the Secretary shall develop a detailed and comprehensive plan that addresses the manner in which incentives may be adopted, as appropriate, through the existing deployment activities carried out by surface transportation modal administrations.
 
-(Added Pub. L. 109–59, title V, § 5302(a), Aug. 10, 2005, 119 Stat. 1805; amended Pub. L. 112–141, div. E, title III, § 53001, July 6, 2012, 126 Stat. 897.)
+(Added Pub. L. 109–59, title V, § 5302(a), Aug. 10, 2005, 119 Stat. 1805; amended Pub. L. 112–141, div. E, title III, § 53001, July 6, 2012, 126 Stat. 897.)
 
 **Editorial Notes**
 
@@ -3837,7 +3837,7 @@ Pub. L. 109–59, title VI, § 6010, Aug. 10, 2005, 119 Stat. 1877, provided t
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 514. Goals and purposes
+## § 514. Goals and purposes
 
 **(a) Goals.—** The goals of the intelligent transportation system program include—
 
@@ -3875,15 +3875,15 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **(10)** to assist in the development of cybersecurity research in cooperation with relevant modal administrations of the Department of Transportation and other Federal agencies to help prevent hacking, spoofing, and disruption of connected and automated transportation vehicles.
 
-(Added Pub. L. 112–141, div. E, title III, § 53002(a), July 6, 2012, 126 Stat. 898; amended Pub. L. 114–94, div. A, title VI, §§ 6005, 6006, Dec. 4, 2015, 129 Stat. 1567.)
+(Added Pub. L. 112–141, div. E, title III, § 53002(a), July 6, 2012, 126 Stat. 898; amended Pub. L. 114–94, div. A, title VI, §§ 6005, 6006, Dec. 4, 2015, 129 Stat. 1567.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (a)(6). Pub. L. 114–94, § 6005, added par. (6).
+2015—Subsec. (a)(6). Pub. L. 114–94, § 6005, added par. (6).
 
-Subsec. (b)(10). Pub. L. 114–94, § 6006, added par. (10).
+Subsec. (b)(10). Pub. L. 114–94, § 6006, added par. (10).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3895,7 +3895,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 515. General authorities and requirements
+## § 515. General authorities and requirements
 
 **(a) Scope.—** Subject to the provisions of sections 512 through 518, the Secretary shall conduct an ongoing intelligent transportation system program—
 
@@ -4031,51 +4031,51 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 **(2) Special rule.—** Any survey, questionnaire, or interview that the Secretary considers necessary to carry out the reporting of any test, deployment project, or program assessment activity under sections 512 through 518 shall not be subject to chapter 35 of title 44, United States Code.
 
-(Added Pub. L. 112–141, div. E, title III, § 53003(a), July 6, 2012, 126 Stat. 899; amended Pub. L. 114–94, div. A, title I, § 1446(a)(14), title VI, § 6007, Dec. 4, 2015, 129 Stat. 1438, 1567; Pub. L. 117–58, div. A, title III, § 13008(a), div. B, title V, § 25001, Nov. 15, 2021, 135 Stat. 641, 836; Pub. L. 117–286, § 4(a)(178), Dec. 27, 2022, 136 Stat. 4325.)
+(Added Pub. L. 112–141, div. E, title III, § 53003(a), July 6, 2012, 126 Stat. 899; amended Pub. L. 114–94, div. A, title I, § 1446(a)(14), title VI, § 6007, Dec. 4, 2015, 129 Stat. 1438, 1567; Pub. L. 117–58, div. A, title III, § 13008(a), div. B, title V, § 25001, Nov. 15, 2021, 135 Stat. 641, 836; Pub. L. 117–286, § 4(a)(178), Dec. 27, 2022, 136 Stat. 4325.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (h)(7). Pub. L. 117–286, which directed amendment of subsec. (h)(5) by substituting “chapter 10 of title 5, united states code” for “federal advisory committee act” in heading and “chapter 10 of title 5, United States Code.” for “the Federal Advisory Committee Act (5 U.S.C. App.).” in text, was executed by making the substitutions in subsec. (h)(7) to reflect the probable intent of Congress and the prior amendment by Pub. L. 117–58, § 25001(4). See 2021 Amendment note, below.
+2022—Subsec. (h)(7). Pub. L. 117–286, which directed amendment of subsec. (h)(5) by substituting “chapter 10 of title 5, united states code” for “federal advisory committee act” in heading and “chapter 10 of title 5, United States Code.” for “the Federal Advisory Committee Act (5 U.S.C. App.).” in text, was executed by making the substitutions in subsec. (h)(7) to reflect the probable intent of Congress and the prior amendment by Pub. L. 117–58, § 25001(4). See 2021 Amendment note, below.
 
-2021—Subsec. (h)(1). Pub. L. 117–58, § 25001(1), inserted “(referred to in this subsection as the ‘Advisory Committee’)” after “an Advisory Committee”.
+2021—Subsec. (h)(1). Pub. L. 117–58, § 25001(1), inserted “(referred to in this subsection as the ‘Advisory Committee’)” after “an Advisory Committee”.
 
-Subsec. (h)(2). Pub. L. 117–58, § 25001(2)(A), substituted “25 members” for “20 members” in introductory provisions.
+Subsec. (h)(2). Pub. L. 117–58, § 25001(2)(A), substituted “25 members” for “20 members” in introductory provisions.
 
-Subsec. (h)(2)(D) to (W). Pub. L. 117–58, § 13008(a) and § 25001(2)(D)–(G), added various subpars. and successively redesignated existing subpars., resulting in ultimate redesignations of original subpars. as follows: (D) as (E), (E) as (H), (F) as (J), (G) as (K), (H) as (L), (I) as (N), (J) as (O), (K) as (S), and (L) as (U). For newly added subpars., see notes below.
+Subsec. (h)(2)(D) to (W). Pub. L. 117–58, § 13008(a) and § 25001(2)(D)–(G), added various subpars. and successively redesignated existing subpars., resulting in ultimate redesignations of original subpars. as follows: (D) as (E), (E) as (H), (F) as (J), (G) as (K), (H) as (L), (I) as (N), (J) as (O), (K) as (S), and (L) as (U). For newly added subpars., see notes below.
 
-Subsec. (h)(2)(D). Pub. L. 117–58, § 13008(a)(3), added subpar. (D).
+Subsec. (h)(2)(D). Pub. L. 117–58, § 13008(a)(3), added subpar. (D).
 
-Subsec. (h)(2)(F), (G). Pub. L. 117–58, § 25001(2)(D), added subpars. (F) and (G).
+Subsec. (h)(2)(F), (G). Pub. L. 117–58, § 25001(2)(D), added subpars. (F) and (G).
 
-Subsec. (h)(2)(I). Pub. L. 117–58, § 25001(2)(E), added subpar. (I).
+Subsec. (h)(2)(I). Pub. L. 117–58, § 25001(2)(E), added subpar. (I).
 
-Subsec. (h)(2)(J). Pub. L. 117–58, § 13008(a)(4), added subpar. (J), which was subsequently redesignated (M) by Pub. L. 117–58, § 25001(2)(C).
+Subsec. (h)(2)(J). Pub. L. 117–58, § 13008(a)(4), added subpar. (J), which was subsequently redesignated (M) by Pub. L. 117–58, § 25001(2)(C).
 
-Subsec. (h)(2)(N). Pub. L. 117–58, § 13008(a)(5), added subpar. (N), which was subsequently redesignated (T) by Pub. L. 117–58, § 25001(2)(C).
+Subsec. (h)(2)(N). Pub. L. 117–58, § 13008(a)(5), added subpar. (N), which was subsequently redesignated (T) by Pub. L. 117–58, § 25001(2)(C).
 
-Subsec. (h)(2)(O). Pub. L. 117–58, § 25001(2)(B), prior to redesignation of subpar. (O) as (U), struck out “utilities,” after “telecommunications,” and substituted semicolon for period at end.
+Subsec. (h)(2)(O). Pub. L. 117–58, § 25001(2)(B), prior to redesignation of subpar. (O) as (U), struck out “utilities,” after “telecommunications,” and substituted semicolon for period at end.
 
-Subsec. (h)(2)(P) to (R). Pub. L. 117–58, § 25001(2)(F), added subpars. (P) to (R).
+Subsec. (h)(2)(P) to (R). Pub. L. 117–58, § 25001(2)(F), added subpars. (P) to (R).
 
-Subsec. (h)(2)(V), (W). Pub. L. 117–58, § 25001(2)(G), added subpars. (V) and (W).
+Subsec. (h)(2)(V), (W). Pub. L. 117–58, § 25001(2)(G), added subpars. (V) and (W).
 
-Subsec. (h)(3). Pub. L. 117–58, § 25001(5), added par. (3). Former par. (3) redesignated (5).
+Subsec. (h)(3). Pub. L. 117–58, § 25001(5), added par. (3). Former par. (3) redesignated (5).
 
-Subsec. (h)(3)(A). Pub. L. 117–58, § 25001(3)(A), substituted “section 6503 of title 49” for “section 508”.
+Subsec. (h)(3)(A). Pub. L. 117–58, § 25001(3)(A), substituted “section 6503 of title 49” for “section 508”.
 
-Subsec. (h)(3)(B). Pub. L. 117–58, § 25001(3)(B)(i), inserted “programs and” before “research” in introductory provisions.
+Subsec. (h)(3)(B). Pub. L. 117–58, § 25001(3)(B)(i), inserted “programs and” before “research” in introductory provisions.
 
-Subsec. (h)(3)(B)(iii). Pub. L. 117–58, § 25001(3)(B)(ii), substituted “programs, research, and” for “research and”.
+Subsec. (h)(3)(B)(iii). Pub. L. 117–58, § 25001(3)(B)(ii), substituted “programs, research, and” for “research and”.
 
-Subsec. (h)(4). Pub. L. 117–58, § 25001(5), added par. (4). Former par. (4) redesignated (6).
+Subsec. (h)(4). Pub. L. 117–58, § 25001(5), added par. (4). Former par. (4) redesignated (6).
 
-Subsec. (h)(5) to (7). Pub. L. 117–58, § 25001(4), redesignated pars. (3) to (5) as (5) to (7), respectively.
+Subsec. (h)(5) to (7). Pub. L. 117–58, § 25001(4), redesignated pars. (3) to (5) as (5) to (7), respectively.
 
-2015—Pub. L. 114–94, § 1446(a)(14), substituted “sections 512 through 518” for “this chapter” wherever appearing.
+2015—Pub. L. 114–94, § 1446(a)(14), substituted “sections 512 through 518” for “this chapter” wherever appearing.
 
-Subsec. (h)(4). Pub. L. 114–94, § 6007, in introductory provisions, substituted “May 1 of each year” for “February 1 of each year after the date of enactment of the Transportation Research and Innovative Technology Act of 2012” and “make available to the public on a Department of Transportation website” for “submit to Congress”.
+Subsec. (h)(4). Pub. L. 114–94, § 6007, in introductory provisions, substituted “May 1 of each year” for “February 1 of each year after the date of enactment of the Transportation Research and Innovative Technology Act of 2012” and “make available to the public on a Department of Transportation website” for “submit to Congress”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4091,7 +4091,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 516. Research and development
+## § 516. Research and development
 
 **(a) In General.—** The Secretary shall carry out a comprehensive program of intelligent transportation system research and development, and operational tests of intelligent vehicles, intelligent infrastructure systems, and other similar activities that are necessary to carry out this chapter.
 
@@ -4113,13 +4113,13 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 **(c) Federal Share.—** The Federal share payable on account of any project or activity carried out under subsection (a) shall not exceed 80 percent.
 
-(Added Pub. L. 112–141, div. E, title III, § 53004(a), July 6, 2012, 126 Stat. 902; amended Pub. L. 117–58, div. A, title III, § 13008(b), Nov. 15, 2021, 135 Stat. 641.)
+(Added Pub. L. 112–141, div. E, title III, § 53004(a), July 6, 2012, 126 Stat. 902; amended Pub. L. 117–58, div. A, title III, § 13008(b), Nov. 15, 2021, 135 Stat. 641.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (b)(6). Pub. L. 117–58 inserted “, including animal detection systems to reduce the number of wildlife-vehicle collisions” after “systems”.
+2021—Subsec. (b)(6). Pub. L. 117–58 inserted “, including animal detection systems to reduce the number of wildlife-vehicle collisions” after “systems”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4131,7 +4131,7 @@ Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. 
 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 517. National architecture and standards
+## § 517. National architecture and standards
 
 **(a) In General.—**
 
@@ -4155,9 +4155,9 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 **(2) Discretion of the secretary.—** The Secretary, at the discretion of the Secretary, may offer an exemption from paragraph (1) for projects designed to achieve specific research objectives outlined in the national intelligent transportation system program plan or the surface transportation research and development strategic plan developed under section 508.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Added Pub. L. 112–141, div. E, title III, § 53005(a), July 6, 2012, 126 Stat. 902; amended Pub. L. 114–94, div. A, title VI, § 6008, Dec. 4, 2015, 129 Stat. 1567.)
+(Added Pub. L. 112–141, div. E, title III, § 53005(a), July 6, 2012, 126 Stat. 902; amended Pub. L. 114–94, div. A, title VI, § 6008, Dec. 4, 2015, 129 Stat. 1567.)
 
 **Editorial Notes**
 
@@ -4165,7 +4165,7 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 Section 12(d) of the National Technology Transfer and Advancement Act of 1995, referred to in subsec. (a)(1), is section 12(d) of Pub. L. 104–113, Mar. 7, 1996, 110 Stat. 783, which is set out as a note under section 272 of Title 15, Commerce and Trade.
 
-Section 508, referred to in subsec. (d)(2), was repealed by Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(A), Dec. 4, 2015, 129 Stat. 1581, effective Oct. 1, 2015.
+Section 508, referred to in subsec. (d)(2), was repealed by Pub. L. 114–94, div. A, title VI, § 6019(d)(1)(A), Dec. 4, 2015, 129 Stat. 1581, effective Oct. 1, 2015.
 
 **Amendments**
 
@@ -4181,7 +4181,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 518. Vehicle-to-vehicle and vehicle-to-infrastructure communications systems deployment
+## § 518. Vehicle-to-vehicle and vehicle-to-infrastructure communications systems deployment
 
 **(a) In General.—** Not later than July 6, 2016, the Secretary shall make available to the public on a Department of Transportation website a report that—
 
@@ -4201,7 +4201,7 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 **(b) Report Review.—** The Secretary shall enter into agreements with the National Research Council and an independent third party with subject matter expertise for the review of the report described in subsection (a).
 
-(Added Pub. L. 112–141, div. E, title III, § 53006(a), July 6, 2012, 126 Stat. 904; amended Pub. L. 114–94, div. A, title VI, § 6009, Dec. 4, 2015, 129 Stat. 1567.)
+(Added Pub. L. 112–141, div. E, title III, § 53006(a), July 6, 2012, 126 Stat. 904; amended Pub. L. 114–94, div. A, title VI, § 6009, Dec. 4, 2015, 129 Stat. 1567.)
 
 **Editorial Notes**
 
@@ -4219,7 +4219,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 519. Infrastructure development
+## § 519. Infrastructure development
 
 Funds made available to carry out this chapter for operational tests of intelligent transportation systems—
 
@@ -4227,7 +4227,7 @@ Funds made available to carry out this chapter for operational tests of intellig
 
 **(2)** to the maximum extent practicable, shall not be used for the construction of physical surface transportation infrastructure unless the construction is incidental and critically necessary to the implementation of an intelligent transportation system project.
 
-(Added Pub. L. 114–94, div. A, title VI, § 6010(a), Dec. 4, 2015, 129 Stat. 1567.)
+(Added Pub. L. 114–94, div. A, title VI, § 6010(a), Dec. 4, 2015, 129 Stat. 1567.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4235,7 +4235,7 @@ Funds made available to carry out this chapter for operational tests of intellig
 
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.
 
-## § 520. Transportation Resilience and Adaptation Centers of Excellence
+## § 520. Transportation Resilience and Adaptation Centers of Excellence
 
 **(a) Definition of Center of Excellence.—** In this section, the term “Center of Excellence” means a Center of Excellence for Resilience and Adaptation designated under subsection (b).
 
@@ -4309,7 +4309,7 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
 **(h) Federal Share.—** The Federal share of the cost of an activity under this section, including the costs of establishing and operating a Center of Excellence, shall be 50 percent.
 
-(Added Pub. L. 117–58, div. A, title III, § 13009(a), Nov. 15, 2021, 135 Stat. 642.)
+(Added Pub. L. 117–58, div. A, title III, § 13009(a), Nov. 15, 2021, 135 Stat. 642.)
 
 **Statutory Notes and Related Subsidiaries**
 

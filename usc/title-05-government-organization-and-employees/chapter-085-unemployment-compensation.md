@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1992—Pub. L. 102–378, § 2(73), Oct. 2, 1992, 106 Stat. 1355, added item 8509.
+1992—Pub. L. 102–378, § 2(73), Oct. 2, 1992, 106 Stat. 1355, added item 8509.
 
-1975—Pub. L. 94–183, § 2(42), Dec. 31, 1975, 89 Stat. 1059, substituted “Repealed” for “Accrued leave” in item 8524.
+1975—Pub. L. 94–183, § 2(42), Dec. 31, 1975, 89 Stat. 1059, substituted “Repealed” for “Accrued leave” in item 8524.
 
 ## SUBCHAPTER I—EMPLOYEES GENERALLY
 
-### § 8501. Definitions
+### § 8501. Definitions
 
 For the purpose of this subchapter—
 
@@ -75,16 +75,16 @@ if contributions on account of the service are required to be made to an unemplo
 
 **(8)** “base period” means the base period as defined by the applicable State unemployment compensation law for the benefit year.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 585; Pub. L. 94–566, title I, § 116(e)(1), title II, § 214(b), Oct. 20, 1976, 90 Stat. 2672, 2678; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–215, § 4(a), Mar. 25, 1980, 94 Stat. 124; Pub. L. 96–465, title II, § 2314(h), Oct. 17, 1980, 94 Stat. 2168.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 585; Pub. L. 94–566, title I, § 116(e)(1), title II, § 214(b), Oct. 20, 1976, 90 Stat. 2672, 2678; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–215, § 4(a), Mar. 25, 1980, 94 Stat. 124; Pub. L. 96–465, title II, § 2314(h), Oct. 17, 1980, 94 Stat. 2168.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 42 U.S.C. 1361. | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1501”, 68 Stat. 1130. |
-|  |  | Aug. 28, 1958, Pub. L. 85–848, § 2, 72 Stat. 1087. |
-|  |  | July 12, 1960, Pub. L. 86–624, § 30(g), 74 Stat. 420. |
-|  |  | Sept. 13, 1960, Pub. L. 86–778, §§ 531(e), 542(d), 74 Stat. 984, 986. |
+|  | 42 U.S.C. 1361. | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1501”, 68 Stat. 1130. |
+|  |  | Aug. 28, 1958, Pub. L. 85–848, § 2, 72 Stat. 1087. |
+|  |  | July 12, 1960, Pub. L. 86–624, § 30(g), 74 Stat. 420. |
+|  |  | Sept. 13, 1960, Pub. L. 86–778, §§ 531(e), 542(d), 74 Stat. 984, 986. |
 
 Clause (4) of former section 1361(a) is omitted as obsolete.
 
@@ -118,9 +118,9 @@ Par. (1)(C). Pub. L. 96–465 substituted “members of the Foreign Service for 
 
 1978—Par. (1)(E). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1976—Par. (6). Pub. L. 94–566, § 116(e)(1), added the Virgin Islands in definition of “State”.
+1976—Par. (6). Pub. L. 94–566, § 116(e)(1), added the Virgin Islands in definition of “State”.
 
-Par. (8). Pub. L. 94–566, § 214(b), added par. (8).
+Par. (8). Pub. L. 94–566, § 214(b), added par. (8).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -128,7 +128,7 @@ Par. (8). Pub. L. 94–566, § 214(b), added par. (8).
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
-Pub. L. 96–215, § 4(c), Mar. 25, 1980, 94 Stat. 124, provided that: “The amendments made by this section [amending this section and section 8521 of this title] shall apply with respect to assignments of services and wages pursuant to any first claim (for a benefit year) which is filed after the date of the enactment of this Act [Mar. 25, 1980].”
+Pub. L. 96–215, § 4(c), Mar. 25, 1980, 94 Stat. 124, provided that: “The amendments made by this section [amending this section and section 8521 of this title] shall apply with respect to assignments of services and wages pursuant to any first claim (for a benefit year) which is filed after the date of the enactment of this Act [Mar. 25, 1980].”
 
 **Effective Date of 1978 Amendment**
 
@@ -138,13 +138,13 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 Amendment by section 116(e)(1) of Pub. L. 94–566 applicable with respect to benefit years beginning on or after the later of Oct. 1, 1976, or the first day of the first week for which compensation becomes payable under an unemployment compensation law of the Virgin Islands which is approved by the Secretary of Labor under section 3304(a) of Title 26, Internal Revenue Code, see section 116(f)(3) of Pub. L. 94–566, set out as a note under section 3304 of Title 26.
 
-Pub. L. 94–566, title II, § 214(c), Oct. 20, 1976, 90 Stat. 2678, provided that: “The amendments made by this section [amending this section and section 8505 of this title] shall apply with regard to compensation paid on the basis of claims for compensation filed on or after July 1, 1977”.
+Pub. L. 94–566, title II, § 214(c), Oct. 20, 1976, 90 Stat. 2678, provided that: “The amendments made by this section [amending this section and section 8505 of this title] shall apply with regard to compensation paid on the basis of claims for compensation filed on or after July 1, 1977”.
 
 **Temporary 1990 Census Services Constituting Federal Service**
 
 Determination respecting temporary 1990 census services as Federal service for purposes of this subchapter, see section 141 of Pub. L. 101–382, set out as a note under section 23 of Title 13, Census.
 
-### § 8502. Compensation under State agreement
+### § 8502. Compensation under State agreement
 
 **(a)** The Secretary of Labor, on behalf of the United States, may enter into an agreement with a State, or with an agency administering the unemployment compensation law of a State, under which the State agency shall—
 
@@ -154,13 +154,13 @@ Determination respecting temporary 1990 census services as Federal service for p
 
 **(b)** The agreement shall provide that compensation will be paid by the State to a Federal employee in the same amount, on the same terms, and subject to the same conditions as the compensation which would be payable to him under the unemployment compensation law of the State if his Federal service and Federal wages assigned under section 8504 of this title to the State had been included as employment and wages under that State law.
 
-**[(c)** Repealed. Pub. L. 90–83, § 1(86)(B), Sept. 11, 1967, 81 Stat. 218.]
+**[(c)** Repealed. Pub. L. 90–83, § 1(86)(B), Sept. 11, 1967, 81 Stat. 218.]
 
 **(d)** A determination by a State agency with respect to entitlement to compensation under an agreement is subject to review in the same manner and to the same extent as determinations under the State unemployment compensation law, and only in that manner and to that extent.
 
 **(e)** Each agreement shall provide the terms and conditions on which it may be amended or terminated.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 586; Pub. L. 90–83, § 1(86), Sept. 11, 1967, 81 Stat. 218.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 586; Pub. L. 90–83, § 1(86), Sept. 11, 1967, 81 Stat. 218.)
 
 **Historical and Revision Notes**
 
@@ -168,8 +168,8 @@ Determination respecting temporary 1990 census services as Federal service for p
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 42 U.S.C. 1362. | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1502”, 68 Stat. 1131. |
-|  |  | Sept. 13, 1960, Pub. L. 86–778, § 542(b)(1)(A), 74 Stat. 985. |
+|  | 42 U.S.C. 1362. | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1502”, 68 Stat. 1131. |
+|  |  | Sept. 13, 1960, Pub. L. 86–778, § 542(b)(1)(A), 74 Stat. 985. |
 
 In subsection (a), the words “under this subchapter” are substituted for “on the basis provided in subsection (b) of this section”.
 
@@ -183,13 +183,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 This section amends 5 U.S.C. 8502 to eliminate certain provisions that are now obsolete. The obsolete provisions were based on section 542(b)(1)(A) of the act of September 13, 1960, 74 Stat. 985, that amended section 1502(b) of the Social Security Act effective January 1, 1961, but only in the case of weeks of unemployment beginning before January 1, 1966. Any existing rights are preserved by section 7 of this bill.
 
-### § 8503. Compensation absent State agreement
+### § 8503. Compensation absent State agreement
 
 **(a)** In the case of a Federal employee whose Federal service and Federal wages are assigned under section 8504 of this title to a State which does not have an agreement with the Secretary of Labor, the Secretary, under regulations prescribed by him, shall, on the filing by the Federal employee of a claim for compensation under this subsection, pay compensation to him in the same amount, on the same terms, and subject to the same conditions as would be paid to him under the unemployment compensation law of the State if his Federal service and Federal wages had been included as employment and wages under that State law. However, if the Federal employee, without regard to his Federal service and Federal wages, has employment or wages sufficient to qualify for compensation during the benefit year under that State law, then payments of compensation under this subsection may be made only on the basis of his Federal service and Federal wages.
 
 **(b)** A Federal employee whose claim for compensation under subsection (a) of this section is denied is entitled to a fair hearing under regulations prescribed by the Secretary. A final determination by the Secretary with respect to entitlement to compensation under this section is subject to review by the courts in the same manner and to the same extent as is provided by section 405(g) of title 42.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 587; Pub. L. 90–83, § 1(87), Sept. 11, 1967, 81 Stat. 218; Pub. L. 94–566, title I, § 116(e)(2), Oct. 20, 1976, 90 Stat. 2673.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 587; Pub. L. 90–83, § 1(87), Sept. 11, 1967, 81 Stat. 218; Pub. L. 94–566, title I, § 116(e)(2), Oct. 20, 1976, 90 Stat. 2673.)
 
 **Historical and Revision Notes**
 
@@ -197,8 +197,8 @@ This section amends 5 U.S.C. 8502 to eliminate certain provisions that are now o
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 42 U.S.C. 1363. | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1503”, 68 Stat. 1132. |
-|  |  | Sept. 13, 1960, Pub. L. 86–778, § 542(b)(1)(B), (C), (c)(1), 74 Stat. 986. |
+|  | 42 U.S.C. 1363. | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1503”, 68 Stat. 1132. |
+|  |  | Sept. 13, 1960, Pub. L. 86–778, § 542(b)(1)(B), (C), (c)(1), 74 Stat. 986. |
 
 In subsections (a) and (b), the words “with respect to unemployment after December 31, 1954” are omitted as obsolete.
 
@@ -212,7 +212,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8503(b) | [Uncodified]. | Sept. 13, 1960, Pub. L. 86–778, § 542(a)(1), 74 Stat. 985. |
+| 8503(b) | [Uncodified]. | Sept. 13, 1960, Pub. L. 86–778, § 542(a)(1), 74 Stat. 985. |
 
 This section also amends 5 U.S.C. 8503 to eliminate certain provisions that are now obsolete. The obsolete provisions were based on section 542(b)(1)(B) and (C) of the act of September 13, 1960, 74 Stat. 986, that amended section 1503 (a) and (b) of the Social Security Act effective January 1, 1961, but only in the case of weeks of unemployment beginning before January 1, 1966. Any existing rights are preserved by section 7 of this bill.
 
@@ -220,9 +220,9 @@ This section also amends 5 U.S.C. 8503 to eliminate certain provisions that are 
 
 **Amendments**
 
-1976—Subsecs. (b), (c). Pub. L. 94–566, § 116(e)(2), redesignated subsec. (c) as (b) and substituted “subsection (a)” for “subsection (a) or (b)”. Former subsec. (b), which made special provision for Federal employees whose Federal service and Federal wages were assigned to the Virgin Islands, was struck out.
+1976—Subsecs. (b), (c). Pub. L. 94–566, § 116(e)(2), redesignated subsec. (c) as (b) and substituted “subsection (a)” for “subsection (a) or (b)”. Former subsec. (b), which made special provision for Federal employees whose Federal service and Federal wages were assigned to the Virgin Islands, was struck out.
 
-Subsec. (d). Pub. L. 94–566, § 116(e)(2)(A), struck out subsec. (d) which authorized the Secretary to use the personnel and facilities of the agency in the Virgin Islands cooperating with the United States Employment Service.
+Subsec. (d). Pub. L. 94–566, § 116(e)(2)(A), struck out subsec. (d) which authorized the Secretary to use the personnel and facilities of the agency in the Virgin Islands cooperating with the United States Employment Service.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -230,7 +230,7 @@ Subsec. (d). Pub. L. 94–566, § 116(e)(2)(A), struck out subsec. (d) which a
 
 Amendment by Pub. L. 94–566 applicable with respect to benefit years beginning on or after later of Oct. 1, 1976, or first day of first week for which compensation becomes payable under an unemployment compensation law of Virgin Islands which is approved by Secretary of Labor under section 3304(a) of Title 26, Internal Revenue Code, see section 116(f)(3) of Pub. L. 94–566, set out as a note under section 3304 of Title 26.
 
-### § 8504. Assignment of Federal service and wages
+### § 8504. Assignment of Federal service and wages
 
 Under regulations prescribed by the Secretary of Labor, the Federal service and Federal wages of a Federal employee shall be assigned to the State in which he had his last official station in Federal service before the filing of his first claim for compensation for the benefit year. However—
 
@@ -238,7 +238,7 @@ Under regulations prescribed by the Secretary of Labor, the Federal service and 
 
 **(2)** if his last official station in Federal service, before filing his first claim, was outside the United States, his Federal service and Federal wages shall be assigned to the State where he resides at the time he files his first claim.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 588; Pub. L. 90–83, § 1(88), Sept. 11, 1967, 81 Stat. 218; Pub. L. 94–566, title I, § 116(e)(3), Oct. 20, 1976, 90 Stat. 2673.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 588; Pub. L. 90–83, § 1(88), Sept. 11, 1967, 81 Stat. 218; Pub. L. 94–566, title I, § 116(e)(3), Oct. 20, 1976, 90 Stat. 2673.)
 
 **Historical and Revision Notes**
 
@@ -246,8 +246,8 @@ Under regulations prescribed by the Secretary of Labor, the Federal service and 
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 42 U.S.C. 1364. | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1504”, 68 Stat. 1133. |
-|  |  | Sept. 13, 1960, Pub. L. 86–778, § 542(b)(2), 74 Stat. 986. |
+|  | 42 U.S.C. 1364. | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1504”, 68 Stat. 1133. |
+|  |  | Sept. 13, 1960, Pub. L. 86–778, § 542(b)(2), 74 Stat. 986. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -255,7 +255,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8504(3) | [Uncodified]. | Sept. 13, 1960, Pub. L. 86–778, § 542(a)(2), 74 Stat. 985. |
+| 8504(3) | [Uncodified]. | Sept. 13, 1960, Pub. L. 86–778, § 542(a)(2), 74 Stat. 985. |
 
 This section also amends 5 U.S.C. 8504 to eliminate certain provisions that are now obsolete. The obsolete provisions were based on section 542(b)(2) of the act of September 13, 1960, 74 Stat. 986, that amended section 1504 of the Social Security Act effective January 1, 1961, but only in the case of first claims filed before January 1, 1966. Any existing rights are preserved by section 7 of this bill.
 
@@ -271,7 +271,7 @@ This section also amends 5 U.S.C. 8504 to eliminate certain provisions that are 
 
 Amendment by Pub. L. 94–566 applicable with respect to benefit years beginning on or after later of Oct. 1, 1976, or first day of first week for which compensation becomes payable under an unemployment compensation law of Virgin Islands which is approved by Secretary of Labor under section 3304(a) of Title 26, Internal Revenue Code, see section 116(f)(3), set out as a note under section 3304 of Title 26.
 
-### § 8505. Payments to States
+### § 8505. Payments to States
 
 **(a)** Each State is entitled to be paid by the United States with respect to each individual whose base period wages included Federal wages an amount which shall bear the same ratio to the total amount of compensation paid to such individual as the amount of his Federal wages in his base period bears to the total amount of his base period wages.
 
@@ -293,13 +293,13 @@ Amendment by Pub. L. 94–566 applicable with respect to benefit years beginning
 
 **(h)** For the purpose of payments made to a State under subchapter III of chapter 7 of title 42, administration by a State agency under an agreement is deemed a part of the administration of the State unemployment compensation law.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 588; Pub. L. 94–566, title II, § 214(a), Oct. 20, 1976, 90 Stat. 2678; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 588; Pub. L. 94–566, title II, § 214(a), Oct. 20, 1976, 90 Stat. 2678; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 42 U.S.C. 1366. | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1506”, 68 Stat. 1133. |
+|  | 42 U.S.C. 1366. | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1506”, 68 Stat. 1133. |
 
 In the first sentence of subsection (d), the word “may” is substituted for “shall” since the sentence does not direct the use of the money, rather it limits the purposes for which the money may be used.
 
@@ -321,7 +321,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 94–566 applicable with regard to compensation paid on the basis of claims for compensation filed on or after July 1, 1977, see section 214(c) of Pub. L. 94–566, set out as a note under section 8501 of this title.
 
-### § 8506. Dissemination of information
+### § 8506. Dissemination of information
 
 **(a)** Each agency of the United States and each wholly or partially owned instrumentality of the United States shall make available to State agencies which have agreements under this subchapter, or to the Secretary of Labor, as the case may be, such information concerning the Federal service and Federal wages of a Federal employee as the Secretary considers practicable and necessary for the determination of the entitlement of the Federal employee to compensation under this subchapter. The information shall include the findings of the employing agency concerning—
 
@@ -337,15 +337,15 @@ The employing agency shall make the findings in the form and manner prescribed b
 
 **(b)** The agency administering the unemployment compensation law of a State shall furnish the Secretary such information as he considers necessary or appropriate in carrying out this subchapter. The information is deemed the report required by the Secretary for the purpose of section 503(a)(6) of title 42.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 589; Pub. L. 94–566, title III, § 313(a), Oct. 20, 1976, 90 Stat. 2680.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 589; Pub. L. 94–566, title III, § 313(a), Oct. 20, 1976, 90 Stat. 2680.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 42 U.S.C. 1367. | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1507”, 68 Stat. 1134. |
-|  |  | Aug. 28, 1958, Pub. L. 85–848, § 4, 72 Stat. 1089. |
-|  |  | Sept. 13, 1960, Pub. L. 86–778, § 531(f), 74 Stat. 984. |
+|  | 42 U.S.C. 1367. | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1507”, 68 Stat. 1134. |
+|  |  | Aug. 28, 1958, Pub. L. 85–848, § 4, 72 Stat. 1089. |
+|  |  | Sept. 13, 1960, Pub. L. 86–778, § 531(f), 74 Stat. 984. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -359,9 +359,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–566, title III, § 313(b), Oct. 20, 1976, 90 Stat. 2680, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to findings made after the date of the enactment of this Act [Oct. 20, 1976].”
+Pub. L. 94–566, title III, § 313(b), Oct. 20, 1976, 90 Stat. 2680, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to findings made after the date of the enactment of this Act [Oct. 20, 1976].”
 
-### § 8507. False statements and misrepresentations
+### § 8507. False statements and misrepresentations
 
 **(a)** If a State agency, the Secretary of Labor, or a court of competent jurisdiction finds that an individual—
 
@@ -383,13 +383,13 @@ the individual shall repay the amount to the State agency or the Secretary. Inst
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 42 U.S.C. 1368(b). | Sept. 1, 1954, ch. 1212, § 4(a), “Sec. 1508(b)”, 68 Stat. 1135. |
+|  | 42 U.S.C. 1368(b). | Sept. 1, 1954, ch. 1212, § 4(a), “Sec. 1508(b)”, 68 Stat. 1135. |
 
 In subsection (a), the words “as the case may be”, “be liable to”, and “of any amount” are omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 8508. Regulations
+### § 8508. Regulations
 
 The Secretary of Labor may prescribe rules and regulations necessary to carry out this subchapter and subchapter II of this chapter. The Secretary, insofar as practicable, shall consult with representatives of the State unemployment compensation agencies before prescribing rules or regulations which may affect the performance by the State agencies of functions under agreements under this subchapter.
 
@@ -399,11 +399,11 @@ The Secretary of Labor may prescribe rules and regulations necessary to carry ou
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 42 U.S.C. 1369. | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1509”, 68 Stat. 1135. |
+|  | 42 U.S.C. 1369. | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1509”, 68 Stat. 1135. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 8509. Federal Employees Compensation Account
+### § 8509. Federal Employees Compensation Account
 
 **(a)** The Federal Employees Compensation Account (as established by section 909 of the Social Security Act, and hereafter in this section referred to as the “Account”) in the Unemployment Trust Fund (as established by section 904 of such Act) shall consist of—
 
@@ -443,7 +443,7 @@ he shall certify the amount of such excess to the Secretary of the Treasury and 
 
 **(h)** For purposes of this section, the term “Federal service” includes Federal service as defined in section 8521(a).
 
-(Added Pub. L. 96–499, title X, § 1023(b), Dec. 5, 1980, 94 Stat. 2657; amended Pub. L. 97–362, title II, § 202(a), Oct. 25, 1982, 96 Stat. 1732; Pub. L. 102–318, title V, § 532(a), July 3, 1992, 106 Stat. 317.)
+(Added Pub. L. 96–499, title X, § 1023(b), Dec. 5, 1980, 94 Stat. 2657; amended Pub. L. 97–362, title II, § 202(a), Oct. 25, 1982, 96 Stat. 1732; Pub. L. 102–318, title V, § 532(a), July 3, 1992, 106 Stat. 317.)
 
 **Editorial Notes**
 
@@ -455,29 +455,29 @@ Sections 909 and 904 of the Social Security Act, referred to in subsec. (a), are
 
 1992—Subsec. (c)(3). Pub. L. 102–318 added par. (3).
 
-1982—Subsecs. (b), (c)(1). Pub. L. 97–362, § 202(a)(1), substituted “chapter” for “subchapter” wherever appearing.
+1982—Subsecs. (b), (c)(1). Pub. L. 97–362, § 202(a)(1), substituted “chapter” for “subchapter” wherever appearing.
 
-Subsec. (h). Pub. L. 97–362, § 202(a)(2), added subsec. (h).
+Subsec. (h). Pub. L. 97–362, § 202(a)(2), added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–318, title V, § 532(b), July 3, 1992, 106 Stat. 317, provided that: “The amendment made by subsection (a) [amending this section] shall apply to failures outstanding on the date of the enactment of this Act [July 3, 1992] or at any time thereafter.”
+Pub. L. 102–318, title V, § 532(b), July 3, 1992, 106 Stat. 317, provided that: “The amendment made by subsection (a) [amending this section] shall apply to failures outstanding on the date of the enactment of this Act [July 3, 1992] or at any time thereafter.”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–362, title II, § 202(b)(1), Oct. 25, 1982, 96 Stat. 1733, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1983.”
+Pub. L. 97–362, title II, § 202(b)(1), Oct. 25, 1982, 96 Stat. 1733, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1983.”
 
 **Transfer of Appropriated Unemployment Compensation Funds**
 
-Pub. L. 97–362, title II, § 202(b)(2), Oct. 25, 1982, 96 Stat. 1733, provided that: “All funds appropriated which are available (on October 1, 1983) for the making of payments to States under chapter 85 of title 5, United States Code, on the basis of Federal service (as defined in section 8521(a) of such title 5) or for the making of payments under such chapter on the basis of such service in States which do not have in effect an agreement under such chapter, shall be transferred on such date to the Federal Employees Compensation Account established by section 909 of the Social Security Act [42 U.S.C. 1109]. On and after such date, all payments described in the preceding sentence shall be made from such account as provided by section 8509 of such title 5.”
+Pub. L. 97–362, title II, § 202(b)(2), Oct. 25, 1982, 96 Stat. 1733, provided that: “All funds appropriated which are available (on October 1, 1983) for the making of payments to States under chapter 85 of title 5, United States Code, on the basis of Federal service (as defined in section 8521(a) of such title 5) or for the making of payments under such chapter on the basis of such service in States which do not have in effect an agreement under such chapter, shall be transferred on such date to the Federal Employees Compensation Account established by section 909 of the Social Security Act [42 U.S.C. 1109]. On and after such date, all payments described in the preceding sentence shall be made from such account as provided by section 8509 of such title 5.”
 
-Pub. L. 96–499, title X, § 1023(c), Dec. 5, 1980, 94 Stat. 2658, provided that: “All funds appropriated which are available for the making of payments to States after December 31, 1980, pursuant to agreements entered into under subchapter I of chapter 85 of title 5, United States Code, or for the making of payments after such date of compensation under such subchapter in States which do not have in effect such an agreement, shall be transferred on January 1, 1981, to the Federal Employees Compensation Account established by section 909 of the Social Security Act [42 U.S.C. 1109]. On and after such date, all payments described in the preceding sentence shall be made from such Account as provided by section 8509 of title 5, United States Code.”
+Pub. L. 96–499, title X, § 1023(c), Dec. 5, 1980, 94 Stat. 2658, provided that: “All funds appropriated which are available for the making of payments to States after December 31, 1980, pursuant to agreements entered into under subchapter I of chapter 85 of title 5, United States Code, or for the making of payments after such date of compensation under such subchapter in States which do not have in effect such an agreement, shall be transferred on January 1, 1981, to the Federal Employees Compensation Account established by section 909 of the Social Security Act [42 U.S.C. 1109]. On and after such date, all payments described in the preceding sentence shall be made from such Account as provided by section 8509 of title 5, United States Code.”
 
 ## SUBCHAPTER II—EX-SERVICEMEN
 
-### § 8521. Definitions; application
+### § 8521. Definitions; application
 
 **(a)** For the purpose of this subchapter—
 
@@ -505,7 +505,7 @@ Pub. L. 96–499, title X, § 1023(c), Dec. 5, 1980, 94 Stat. 2658, provided t
 
 **(b)** The provisions of subchapter I of this chapter, subject to the modifications made by this subchapter, apply to individuals who have had Federal service as defined by subsection (a) of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 590; Pub. L. 90–83, § 1(89), Sept. 11, 1967, 81 Stat. 218; Pub. L. 94–566, title I, § 116(e)(4), Oct. 20, 1976, 90 Stat. 2673; Pub. L. 96–215, § 4(b), Mar. 25, 1980, 94 Stat. 124; Pub. L. 96–364, title IV, § 415(a), Sept. 26, 1980, 94 Stat. 1310; Pub. L. 97–35, title XXIV, § 2405(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–362, title II, § 201(a), (b), Oct. 25, 1982, 96 Stat. 1732; Pub. L. 102–164, title III, § 301(a), (b), Nov. 15, 1991, 105 Stat. 1059; Pub. L. 110–317, § 7, Aug. 29, 2008, 122 Stat. 3529; Pub. L. 114–92, div. A, title V, § 513(a), Nov. 25, 2015, 129 Stat. 809.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 590; Pub. L. 90–83, § 1(89), Sept. 11, 1967, 81 Stat. 218; Pub. L. 94–566, title I, § 116(e)(4), Oct. 20, 1976, 90 Stat. 2673; Pub. L. 96–215, § 4(b), Mar. 25, 1980, 94 Stat. 124; Pub. L. 96–364, title IV, § 415(a), Sept. 26, 1980, 94 Stat. 1310; Pub. L. 97–35, title XXIV, § 2405(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–362, title II, § 201(a), (b), Oct. 25, 1982, 96 Stat. 1732; Pub. L. 102–164, title III, § 301(a), (b), Nov. 15, 1991, 105 Stat. 1059; Pub. L. 110–317, § 7, Aug. 29, 2008, 122 Stat. 3529; Pub. L. 114–92, div. A, title V, § 513(a), Nov. 25, 2015, 129 Stat. 809.)
 
 **Historical and Revision Notes**
 
@@ -513,7 +513,7 @@ Pub. L. 96–499, title X, § 1023(c), Dec. 5, 1980, 94 Stat. 2658, provided t
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 42 U.S.C. 1371 (a)–(c). | Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(a)–(c)”, 72 Stat. 1088. |
+|  | 42 U.S.C. 1371 (a)–(c). | Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(a)–(c)”, 72 Stat. 1088. |
 
 In subsection (a)(1), the words “armed forces” are coextensive with and substituted for “Army, Navy, Air Force, Marine Corps, or Coast Guard of the United States” in view of the definition of “armed forces” in section 2101. The words “after October 27, 1958” are substituted for “after the sixtieth day after August 28, 1958”.
 
@@ -537,17 +537,17 @@ Section 8 of Pub. L. 102–107, Aug. 17, 1991, 105 Stat. 546, which contained pr
 
 2008—Subsec. (a)(1)(B)(ii)(III). Pub. L. 110–317 substituted “hardship (including pursuant to a sole survivorship discharge, as that term is defined in section 1174(i) of title 10),” for “hardship,”.
 
-1991—Subsec. (a)(1). Pub. L. 102–164, § 301(b), substituted “90 days” for “180 days” in introductory provisions.
+1991—Subsec. (a)(1). Pub. L. 102–164, § 301(b), substituted “90 days” for “180 days” in introductory provisions.
 
-Subsec. (c). Pub. L. 102–164, § 301(a), struck out subsec. (c) which read as follows:
+Subsec. (c). Pub. L. 102–164, § 301(a), struck out subsec. (c) which read as follows:
 
 “(1) An individual shall not be entitled to compensation under this subchapter for any week before the fifth week beginning after the week in which the individual was discharged or released.
 
 “(2) The aggregate amount of compensation payable on the basis of Federal service (as defined in subsection (a)) to any individual with respect to any benefit year shall not exceed 13 times the individual’s weekly benefit amount for total unemployment.”
 
-1982—Subsec. (a)(1). Pub. L. 97–362, § 201(a), substituted provision that “Federal service” means active service (not including active duty in a reserve status unless for a continuous period of 180 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service the individual was discharged or released under honorable conditions (and, if an officer, did not resign for the good of the service), and the individual was discharged or released after completing his first full term of active service which the individual initially agreed to serve, or the individual was discharged or released before completing such term of active service for the convenience of the Government under an early release program, because of medical disqualification, pregnancy, parenthood, or any service-incurred injury or disability, because of hardship, or because of personality disorders or inaptitude but only if the service was continuous for 365 days or more, for provision that “Federal service” meant active service, including active duty for training purposes, in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration which either began after January 31, 1955, or terminated after October 27, 1958, if that service was continuous for 365 days or more, or was terminated earlier because of an actual service-incurred injury or disability, and with respect to that service, the individual was discharged or released under honorable conditions, did not resign or voluntarily leave the service, and was not released or discharged for cause as defined by the Department of Defense.
+1982—Subsec. (a)(1). Pub. L. 97–362, § 201(a), substituted provision that “Federal service” means active service (not including active duty in a reserve status unless for a continuous period of 180 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service the individual was discharged or released under honorable conditions (and, if an officer, did not resign for the good of the service), and the individual was discharged or released after completing his first full term of active service which the individual initially agreed to serve, or the individual was discharged or released before completing such term of active service for the convenience of the Government under an early release program, because of medical disqualification, pregnancy, parenthood, or any service-incurred injury or disability, because of hardship, or because of personality disorders or inaptitude but only if the service was continuous for 365 days or more, for provision that “Federal service” meant active service, including active duty for training purposes, in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration which either began after January 31, 1955, or terminated after October 27, 1958, if that service was continuous for 365 days or more, or was terminated earlier because of an actual service-incurred injury or disability, and with respect to that service, the individual was discharged or released under honorable conditions, did not resign or voluntarily leave the service, and was not released or discharged for cause as defined by the Department of Defense.
 
-Subsec. (c). Pub. L. 97–362, § 201(b), added subsec. (c).
+Subsec. (c). Pub. L. 97–362, § 201(b), added subsec. (c).
 
 1981—Subsec. (a)(1)(B). Pub. L. 97–35 substituted “honorable conditions;” for “conditions other than dishonorable; and” in cl. (i), and “did not resign or voluntarily leave the service; and” for “was not given a bad conduct discharge, or, if an officer, did not resign for the good of the service;” in cl. (ii), and added cl. (iii).
 
@@ -561,7 +561,7 @@ Subsec. (a)(1)(A). Pub. L. 96–364 substituted “365” for “90”.
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–92, div. A, title V, § 513(b), Nov. 25, 2015, 129 Stat. 809, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 25, 2015], and shall apply with respect to periods of Federal service commencing on or after that date.”
+Pub. L. 114–92, div. A, title V, § 513(b), Nov. 25, 2015, 129 Stat. 809, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 25, 2015], and shall apply with respect to periods of Federal service commencing on or after that date.”
 
 **Effective Date of 2008 Amendment**
 
@@ -569,11 +569,11 @@ Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship 
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–164, title III, § 301(c), Nov. 15, 1991, 105 Stat. 1059, provided that: “The amendments made by this section [amending this section] shall apply to weeks of unemployment beginning on or after the date of the enactment of this Act [Nov. 15, 1991].”
+Pub. L. 102–164, title III, § 301(c), Nov. 15, 1991, 105 Stat. 1059, provided that: “The amendments made by this section [amending this section] shall apply to weeks of unemployment beginning on or after the date of the enactment of this Act [Nov. 15, 1991].”
 
 **Effective Date of 1982 Amendment; Transitional Rule**
 
-Pub. L. 97–362, title II, § 201(c), Oct. 25, 1982, 96 Stat. 1732, provided that:
+Pub. L. 97–362, title II, § 201(c), Oct. 25, 1982, 96 Stat. 1732, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section], shall apply with respect to terminations of service on or after July 1, 1981, but only for purposes of determining eligibility for benefits for weeks of unemployment beginning after the date of the enactment of this Act [Oct. 25, 1982].
 
@@ -581,11 +581,11 @@ Pub. L. 97–362, title II, § 201(c), Oct. 25, 1982, 96 Stat. 1732, provided 
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title XXIV, § 2405(b), Aug. 13, 1981, 95 Stat. 876, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to terminations of service on or after July 1, 1981, but only in the case of weeks of unemployment beginning after the date of the enactment of this Act [Aug. 13, 1981].”
+Pub. L. 97–35, title XXIV, § 2405(b), Aug. 13, 1981, 95 Stat. 876, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to terminations of service on or after July 1, 1981, but only in the case of weeks of unemployment beginning after the date of the enactment of this Act [Aug. 13, 1981].”
 
 **Effective Date of 1980 Amendments**
 
-Pub. L. 96–364, title IV, § 415(b), Sept. 26, 1980, 94 Stat. 1310, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to determinations of Federal service in the case of individuals filing claims for unemployment compensation on or after October 1, 1980.”
+Pub. L. 96–364, title IV, § 415(b), Sept. 26, 1980, 94 Stat. 1310, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to determinations of Federal service in the case of individuals filing claims for unemployment compensation on or after October 1, 1980.”
 
 Amendment by Pub. L. 96–215 applicable with respect to assignments of services and wages pursuant to any first claim (for a benefit year) which is filed after Mar. 25, 1980, see section 4(c) of Pub. L. 96–215, set out as a note under section 8501 of this title.
 
@@ -597,18 +597,18 @@ Amendment by Pub. L. 94–566 applicable with respect to benefit years beginning
 
 Amendment by Pub. L. 90–83 effective as of Sept. 6, 1966, for all purposes, see section 9(h) of Pub. L. 90–83, set out as a note under section 5102 of this title.
 
-### § 8522. Assignment of Federal service and wages
+### § 8522. Assignment of Federal service and wages
 
 Notwithstanding section 8504 of this title, Federal service and Federal wages not previously assigned shall be assigned to the State in which the claimant first files claim for unemployment compensation after his latest discharge or release from Federal service. This assignment is deemed an assignment under section 8504 of this title for the purpose of this subchapter.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 591; Pub. L. 94–566, title I, § 116(e)(5), Oct. 20, 1976, 90 Stat. 2673.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 591; Pub. L. 94–566, title I, § 116(e)(5), Oct. 20, 1976, 90 Stat. 2673.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 42 U.S.C. 1371(e). | Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(e)”, 72 Stat. 1088. |
-|  |  | Sept. 13, 1960, Pub. L. 86–778, § 542(c)(2), 74 Stat. 986. |
+|  | 42 U.S.C. 1371(e). | Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(e)”, 72 Stat. 1088. |
+|  |  | Sept. 13, 1960, Pub. L. 86–778, § 542(c)(2), 74 Stat. 986. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -624,7 +624,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 94–566 applicable with respect to benefit years beginning on or after later of Oct. 1, 1976, or first day of first week for which compensation becomes payable under an unemployment compensation law of Virgin Islands which is approved by Secretary of Labor under section 3304(a) of Title 26, Internal Revenue Code, see section 116(f)(3) of Pub. L. 94–566, set out as a note under section 3304 of Title 26.
 
-### § 8523. Dissemination of information
+### § 8523. Dissemination of information
 
 **(a)** When designated by the Secretary of Labor, an agency of the United States shall make available to the appropriate State agency or to the Secretary, as the case may be, such information, including findings in the form and manner prescribed by regulations of the Secretary, as the Secretary considers practicable and necessary for the determination of the entitlement of an individual to compensation under this subchapter.
 
@@ -646,11 +646,11 @@ Amendment by Pub. L. 94–566 applicable with respect to benefit years beginning
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 42 U.S.C. 1371(d). | Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(d)”, 72 Stat. 1088. |
+|  | 42 U.S.C. 1371(d). | Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(d)”, 72 Stat. 1088. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### [§ 8524. Repealed. Pub. L. 91–373, title I, § 107, Aug. 10, 1970, 84 Stat. 701]
+### [§ 8524. Repealed. Pub. L. 91–373, title I, § 107, Aug. 10, 1970, 84 Stat. 701]
 
 Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 591, provided that a payment to ex-servicemen for unused accrued leave was to be deemed to continue Federal service during period after termination with respect to which the serviceman received payment and that such payment was to be deemed Federal wages subject to regulations concerning allocation over the period after termination.
 
@@ -658,9 +658,9 @@ Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 591, provided that a payment 
 
 **Effective Date of Repeal**
 
-Pub. L. 91–373, title I, § 107, Aug. 10, 1970, 84 Stat. 701, provided that the repeal is effective with respect to benefit years which begin more than 30 days after the date of enactment of Pub. L. 91–373, which was approved on Aug. 10, 1970.
+Pub. L. 91–373, title I, § 107, Aug. 10, 1970, 84 Stat. 701, provided that the repeal is effective with respect to benefit years which begin more than 30 days after the date of enactment of Pub. L. 91–373, which was approved on Aug. 10, 1970.
 
-### § 8525. Effect on other statutes
+### § 8525. Effect on other statutes
 
 **(a)** Subsection (b)(2) does not apply to an individual who—
 
@@ -680,7 +680,7 @@ Pub. L. 91–373, title I, § 107, Aug. 10, 1970, 84 Stat. 701, provided that 
 
 **(3)** an educational assistance allowance under chapter 35 of title 38.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 591; Pub. L. 90–83, § 1(90), Sept. 11, 1967, 81 Stat. 219; Pub. L. 114–92, div. A, title V, § 560, Nov. 25, 2015, 129 Stat. 828.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 591; Pub. L. 90–83, § 1(90), Sept. 11, 1967, 81 Stat. 219; Pub. L. 114–92, div. A, title V, § 560, Nov. 25, 2015, 129 Stat. 828.)
 
 **Historical and Revision Notes**
 
@@ -688,7 +688,7 @@ Pub. L. 91–373, title I, § 107, Aug. 10, 1970, 84 Stat. 701, provided that 
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 42 U.S.C. 1371(g)–(i). | Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511 (g)–(i)”, 72 Stat. 1089. Sept. 2, 1958, Pub. L. 85–857, § 13(i)(3), 72 Stat. 1265. |
+|  | 42 U.S.C. 1371(g)–(i). | Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511 (g)–(i)”, 72 Stat. 1089. Sept. 2, 1958, Pub. L. 85–857, § 13(i)(3), 72 Stat. 1265. |
 
 In subsection (b), the words “an education and training allowance under subsection (a), (b), (c), or (d) of section 1632 of title 38” are omitted as obsolete. The authority to pay an education and training allowance under section 1632 of title 38 terminated on January 31, 1965, pursuant to section 1613(a) of title 38.
 
@@ -704,8 +704,8 @@ This section deletes subsection (a) of 5 U.S.C. 8525. That subsection is now obs
 
 **Amendments**
 
-2015—Subsec. (a). Pub. L. 114–92, § 560(b), added subsec. (a).
+2015—Subsec. (a). Pub. L. 114–92, § 560(b), added subsec. (a).
 
-Subsec. (b). Pub. L. 114–92, § 560(a)(1), substituted “the individual receives” for “he receives” in introductory provisions.
+Subsec. (b). Pub. L. 114–92, § 560(a)(1), substituted “the individual receives” for “he receives” in introductory provisions.
 
-Subsec. (b)(2), (3). Pub. L. 114–92, § 560(a)(2)–(4), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (b)(2), (3). Pub. L. 114–92, § 560(a)(2)–(4), added par. (2) and redesignated former par. (2) as (3).

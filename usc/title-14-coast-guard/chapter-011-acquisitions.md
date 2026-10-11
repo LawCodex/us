@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior analysis for chapter 11 “PERSONNEL” consisted of items 211 “Original appointment of permanent commissioned officers”, 214 “Appointment of temporary officers”, 215 “Rank of warrant officers”, 251 “Selection boards; convening of boards”, 252 “Selection boards; composition of boards”, 253 “Selection boards; notice of convening; communication with board”, 254 “Selection boards; oath of members”, 255 “Number of officers to be selected for promotion”, 256 “Promotion zones”, 256a “Promotion year; defined”, 257 “Eligibility of officers for consideration for promotion”, 258 “Selection boards; information to be furnished boards”, 259 “Officers to be recommended for promotion”, 260 “Selection boards; reports”, 261 “Selection boards; submission of reports”, 262 “Failure of selection for promotion”, 263 “Special selection boards; correction of errors”, 271 “Promotions; appointments”, 272 “Removal of officer from list of selectees for promotion”, 273 “Promotions; acceptance; oath of office”, 274 “Promotions; pay and allowances”, 275 “Wartime temporary service promotions”, 276 “Promotion of officers not included on active duty promotion list”, 281 “Revocation of commissions during first five years of commissioned service”, 282 “Regular lieutenants (junior grade); separation for failure of selection for promotion”, 283 “Regular lieutenants; separation for failure of selection for promotion; continuation”, 284 “Regular Coast Guard; officers serving under temporary appointments”, 285 “Regular lieutenant commanders and commanders; retirement for failure of selection for promotion”, 286 “Discharge in lieu of retirement; separation pay”, 286a “Regular warrant officers: separation pay”, 287 “Separation for failure of selection for promotion or continuation; time of”, 288 “Regular captains; retirement”, 289 “Captains; continuation on active duty; involuntary retirement”, 290 “Rear admirals and rear admirals (lower half); continuation on active duty; involuntary retirement”, 291 “Voluntary retirement after twenty years’ service”, 292 “Voluntary retirement after thirty years’ service”, 293 “Compulsory retirement”, 294 “Retirement for physical disability after selection for promotion; grade in which retired”, 295 “Deferment of retirement or separation for medical reasons”, 296 “Flag officers”, 321 “Review of records of officers”, 322 “Boards of inquiry”, 323 “Boards of review”, 324 “Composition of boards”, 325 “Rights and procedures”, 326 “Removal of officer from active duty; action by Secretary”, 327 “Officers considered for removal; retirement or discharge; separation benefits”, 331 “Recall to active duty during war or national emergency”, 332 “Recall to active duty with consent of officer”, 333 “Relief of retired officer promoted while on active duty”, 334 “Grade on retirement”, 335 “Physical fitness of officers”, 336 “United States Coast Guard Band; composition; director”, 350 “Recruiting campaigns”, 351 “Enlistments; term, grade”, 352 “Promotion”, 353 “Compulsory retirement at age of sixty-two”, 354 “Voluntary retirement after thirty years’ service”, 355 “Voluntary retirement after twenty years’ service”, 357 “Retirement of enlisted members: increase in retired pay”, 359 “Recall to active duty during war or national emergency”, 360 “Recall to active duty with consent of member”, 361 “Relief of retired enlisted member promoted while on active duty”, 362 “Retirement in cases where higher grade or rating has been held”, 365 “Extension of enlistments”, 366 “Retention beyond term of enlistment in case of disability”, 367 “Detention beyond term of enlistment”, 369 “Inclusion of certain conditions in enlistment contract”, 370 “Discharge within three months before expiration of enlistment”, 371 “Aviation cadets; procurement; transfer”, 372 “Aviation cadets; benefits”, 373 “Aviation cadets; appointment as Reserve officers”, 374 “Critical skill training bonus”, 421 “Retirement”, 422 “Status of recalled personnel”, 423 “Computation of retired pay”, 424 “Limitations on retirement and retired pay”, 424a “Suspension of payment of retired pay of members who are absent from the United States to avoid prosecution”, 425 “Board for Correction of Military Records deadline”, 426 “Emergency leave retention authority”, 427 “Prohibition of certain involuntary administrative separations”, 428 “Sea service letters”, 429 “Multirater assessment of certain personnel”, 430 “Investigations of flag officers and Senior Executive Service employees”, 431 “Leave policies for the Coast Guard”, and 432 “Personnel of former Lighthouse Service”, prior to repeal by Pub. L. 115–282, title I, § 108(a), Dec. 4, 2018, 132 Stat. 4207.
+A prior analysis for chapter 11 “PERSONNEL” consisted of items 211 “Original appointment of permanent commissioned officers”, 214 “Appointment of temporary officers”, 215 “Rank of warrant officers”, 251 “Selection boards; convening of boards”, 252 “Selection boards; composition of boards”, 253 “Selection boards; notice of convening; communication with board”, 254 “Selection boards; oath of members”, 255 “Number of officers to be selected for promotion”, 256 “Promotion zones”, 256a “Promotion year; defined”, 257 “Eligibility of officers for consideration for promotion”, 258 “Selection boards; information to be furnished boards”, 259 “Officers to be recommended for promotion”, 260 “Selection boards; reports”, 261 “Selection boards; submission of reports”, 262 “Failure of selection for promotion”, 263 “Special selection boards; correction of errors”, 271 “Promotions; appointments”, 272 “Removal of officer from list of selectees for promotion”, 273 “Promotions; acceptance; oath of office”, 274 “Promotions; pay and allowances”, 275 “Wartime temporary service promotions”, 276 “Promotion of officers not included on active duty promotion list”, 281 “Revocation of commissions during first five years of commissioned service”, 282 “Regular lieutenants (junior grade); separation for failure of selection for promotion”, 283 “Regular lieutenants; separation for failure of selection for promotion; continuation”, 284 “Regular Coast Guard; officers serving under temporary appointments”, 285 “Regular lieutenant commanders and commanders; retirement for failure of selection for promotion”, 286 “Discharge in lieu of retirement; separation pay”, 286a “Regular warrant officers: separation pay”, 287 “Separation for failure of selection for promotion or continuation; time of”, 288 “Regular captains; retirement”, 289 “Captains; continuation on active duty; involuntary retirement”, 290 “Rear admirals and rear admirals (lower half); continuation on active duty; involuntary retirement”, 291 “Voluntary retirement after twenty years’ service”, 292 “Voluntary retirement after thirty years’ service”, 293 “Compulsory retirement”, 294 “Retirement for physical disability after selection for promotion; grade in which retired”, 295 “Deferment of retirement or separation for medical reasons”, 296 “Flag officers”, 321 “Review of records of officers”, 322 “Boards of inquiry”, 323 “Boards of review”, 324 “Composition of boards”, 325 “Rights and procedures”, 326 “Removal of officer from active duty; action by Secretary”, 327 “Officers considered for removal; retirement or discharge; separation benefits”, 331 “Recall to active duty during war or national emergency”, 332 “Recall to active duty with consent of officer”, 333 “Relief of retired officer promoted while on active duty”, 334 “Grade on retirement”, 335 “Physical fitness of officers”, 336 “United States Coast Guard Band; composition; director”, 350 “Recruiting campaigns”, 351 “Enlistments; term, grade”, 352 “Promotion”, 353 “Compulsory retirement at age of sixty-two”, 354 “Voluntary retirement after thirty years’ service”, 355 “Voluntary retirement after twenty years’ service”, 357 “Retirement of enlisted members: increase in retired pay”, 359 “Recall to active duty during war or national emergency”, 360 “Recall to active duty with consent of member”, 361 “Relief of retired enlisted member promoted while on active duty”, 362 “Retirement in cases where higher grade or rating has been held”, 365 “Extension of enlistments”, 366 “Retention beyond term of enlistment in case of disability”, 367 “Detention beyond term of enlistment”, 369 “Inclusion of certain conditions in enlistment contract”, 370 “Discharge within three months before expiration of enlistment”, 371 “Aviation cadets; procurement; transfer”, 372 “Aviation cadets; benefits”, 373 “Aviation cadets; appointment as Reserve officers”, 374 “Critical skill training bonus”, 421 “Retirement”, 422 “Status of recalled personnel”, 423 “Computation of retired pay”, 424 “Limitations on retirement and retired pay”, 424a “Suspension of payment of retired pay of members who are absent from the United States to avoid prosecution”, 425 “Board for Correction of Military Records deadline”, 426 “Emergency leave retention authority”, 427 “Prohibition of certain involuntary administrative separations”, 428 “Sea service letters”, 429 “Multirater assessment of certain personnel”, 430 “Investigations of flag officers and Senior Executive Service employees”, 431 “Leave policies for the Coast Guard”, and 432 “Personnel of former Lighthouse Service”, prior to repeal by Pub. L. 115–282, title I, § 108(a), Dec. 4, 2018, 132 Stat. 4207.
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. G, title LXXII, §§ 7212(b), 7213(b), 7214(b), Dec. 18, 2025, 139 Stat. 1695, 1696, added items 1138 to 1140, 1151, and 1159 and struck out former item 1151 “Restriction on construction of vessels in foreign shipyards”.
+2025—Pub. L. 119–60, div. G, title LXXII, §§ 7212(b), 7213(b), 7214(b), Dec. 18, 2025, 139 Stat. 1695, 1696, added items 1138 to 1140, 1151, and 1159 and struck out former item 1151 “Restriction on construction of vessels in foreign shipyards”.
 
-Pub. L. 119–21, title IV, § 40001(b), July 4, 2025, 139 Stat. 128, added item for subchapter V and added item 1181.
+Pub. L. 119–21, title IV, § 40001(b), July 4, 2025, 139 Stat. 128, added item for subchapter V and added item 1181.
 
-2022—Pub. L. 117–263, div. K, title CXI, § 11205(b), Dec. 23, 2022, 136 Stat. 4010, added item 1158.
+2022—Pub. L. 117–263, div. K, title CXI, § 11205(b), Dec. 23, 2022, 136 Stat. 4010, added item 1158.
 
-2021—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], §§ 8219(b), 8221(a)(3), title LVXXXV [LXXXV], § 8501(b)(3), Jan. 1, 2021, 134 Stat. 4656, 4657, 4746, substituted “Elevation of disputes to the Chief Acquisition Officer” for “Mission need statement” in item 1110 and added items 1111 and 1157. Item 1111 was added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding that item to the analysis for subchapter I of this chapter.
+2021—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], §§ 8219(b), 8221(a)(3), title LVXXXV [LXXXV], § 8501(b)(3), Jan. 1, 2021, 134 Stat. 4656, 4657, 4746, substituted “Elevation of disputes to the Chief Acquisition Officer” for “Mission need statement” in item 1110 and added items 1111 and 1157. Item 1111 was added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding that item to the analysis for subchapter I of this chapter.
 
-2018—Pub. L. 115–282, title I, § 108(a), title III, §§ 304(c)(2), 311(c), Dec. 4, 2018, 132 Stat. 4208, 4245, 4249, inserted chapter 11 designation and heading and added items 1101 to 1171.
+2018—Pub. L. 115–282, title I, § 108(a), title III, §§ 304(c)(2), 311(c), Dec. 4, 2018, 132 Stat. 4208, 4245, 4249, inserted chapter 11 designation and heading and added items 1101 to 1171.
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
@@ -39,9 +39,9 @@ Pub. L. 119–21, title IV, § 40001(b), July 4, 2025, 139 Stat. 128, added it
 
 **Amendments**
 
-2018—Pub. L. 115–282, title I, § 108(c)(2), Dec. 4, 2018, 132 Stat. 4210, inserted subchapter I designation and heading.
+2018—Pub. L. 115–282, title I, § 108(c)(2), Dec. 4, 2018, 132 Stat. 4210, inserted subchapter I designation and heading.
 
-### § 1101. Acquisition directorate
+### § 1101. Acquisition directorate
 
 **(a) Establishment.—** The Commandant shall establish an acquisition directorate to provide guidance and oversight for the implementation and management of all Coast Guard acquisition processes, programs, and projects.
 
@@ -53,7 +53,7 @@ Pub. L. 119–21, title IV, § 40001(b), July 4, 2025, 139 Stat. 128, added it
 
 **(3)** to meet the needs of customers of major acquisition programs in the most cost-effective manner practicable.
 
-(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2931, § 561; amended Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(A), Dec. 23, 2016, 130 Stat. 2333; Pub. L. 115–232, div. C, title XXXV, § 3531(c)(6), Aug. 13, 2018, 132 Stat. 2320; renumbered § 1101, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2931, § 561; amended Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(A), Dec. 23, 2016, 130 Stat. 2333; Pub. L. 115–232, div. C, title XXXV, § 3531(c)(6), Aug. 13, 2018, 132 Stat. 2320; renumbered § 1101, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
 **Editorial Notes**
 
@@ -69,7 +69,7 @@ Subsec. (a). Pub. L. 115–232 substituted “Commandant” for “Commandant of
 
 **Review Required**
 
-Pub. L. 114–328, div. A, title VIII, § 899(c), Dec. 23, 2016, 130 Stat. 2335, provided that:
+Pub. L. 114–328, div. A, title VIII, § 899(c), Dec. 23, 2016, 130 Stat. 2335, provided that:
 
 > **“(1) Requirement.—** The Commandant of the Coast Guard shall conduct a review of—
 
@@ -87,7 +87,7 @@ Pub. L. 114–328, div. A, title VIII, § 899(c), Dec. 23, 2016, 130 Stat. 233
 
 > **“(3) Modification of policies, directives, and regulations.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2016], the Commandant of the Coast Guard shall modify the acquisition policies, directives, and regulations of the Coast Guard as necessary to ensure the development and implementation of a customer-oriented acquisition system, pursuant to the review under paragraph (1)(C).”
 
-### § 1102. Improvements in Coast Guard acquisition management
+### § 1102. Improvements in Coast Guard acquisition management
 
 **(a) Project or Program Managers.—**
 
@@ -149,7 +149,7 @@ Pub. L. 114–328, div. A, title VIII, § 899(c), Dec. 23, 2016, 130 Stat. 233
 
 **(2) Promotion parity.—** The Commandant shall ensure that promotion parity is established for officers and members of the Coast Guard who have been assigned to the acquisition workforce relative to officers and members who have not been assigned to the acquisition workforce.
 
-(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2931, § 562; amended Pub. L. 111–330, § 1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 112–213, title II, § 210(c)(2)(A), Dec. 20, 2012, 126 Stat. 1551; Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(B), Dec. 23, 2016, 130 Stat. 2333; renumbered § 1102, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(10), Jan. 1, 2021, 134 Stat. 4748.)
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2931, § 562; amended Pub. L. 111–330, § 1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 112–213, title II, § 210(c)(2)(A), Dec. 20, 2012, 126 Stat. 1551; Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(B), Dec. 23, 2016, 130 Stat. 2333; renumbered § 1102, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(10), Jan. 1, 2021, 134 Stat. 4748.)
 
 **Editorial Notes**
 
@@ -167,19 +167,19 @@ The date of enactment of the Coast Guard Authorization Act of 2010 and the date 
 
 2012—Subsec. (e). Pub. L. 112–213 struck out subsec. (e) which related to annual report on adequacy of acquisition workforce.
 
-2010—Pub. L. 111–330 amended Pub. L. 111–281, § 402(a), which enacted this section.
+2010—Pub. L. 111–330 amended Pub. L. 111–281, § 402(a), which enacted this section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(4) is effective with the enactment of Pub. L. 111–281.
+Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(4) is effective with the enactment of Pub. L. 111–281.
 
 **Acquisition Workforce Expedited Hiring Authority**
 
-Pub. L. 111–281, title IV, § 404, Oct. 15, 2010, 124 Stat. 2950, as amended by Pub. L. 112–213, title II, § 218, Dec. 20, 2012, 126 Stat. 1558; Pub. L. 115–282, title VIII, § 804, Dec. 4, 2018, 132 Stat. 4300, which authorized the Commandant of the Coast Guard to recruit and appoint persons directly to certain acqusition positions in the Coast Guard, was repealed by Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8219(c), Jan. 1, 2021, 134 Stat. 4656.
+Pub. L. 111–281, title IV, § 404, Oct. 15, 2010, 124 Stat. 2950, as amended by Pub. L. 112–213, title II, § 218, Dec. 20, 2012, 126 Stat. 1558; Pub. L. 115–282, title VIII, § 804, Dec. 4, 2018, 132 Stat. 4300, which authorized the Commandant of the Coast Guard to recruit and appoint persons directly to certain acqusition positions in the Coast Guard, was repealed by Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8219(c), Jan. 1, 2021, 134 Stat. 4656.
 
-### § 1103. Role of Vice Commandant in major acquisition programs
+### § 1103. Role of Vice Commandant in major acquisition programs
 
 The Vice Commandant—
 
@@ -187,7 +187,7 @@ The Vice Commandant—
 
 **(2)** shall advise the Commandant in decisions regarding the balancing of resources against priorities, and associated trade-offs referred to in paragraph (1), on behalf of the customer of a major acquisition program.
 
-(Added Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(E), Dec. 23, 2016, 130 Stat. 2334, § 578; renumbered § 1103, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
+(Added Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(E), Dec. 23, 2016, 130 Stat. 2334, § 578; renumbered § 1103, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
 **Editorial Notes**
 
@@ -195,7 +195,7 @@ The Vice Commandant—
 
 2018—Pub. L. 115–282 renumbered section 578 of this title as this section.
 
-### § 1104. Recognition of Coast Guard personnel for excellence in acquisition
+### § 1104. Recognition of Coast Guard personnel for excellence in acquisition
 
 **(a) In General.—** The Commandant shall maintain a program to recognize excellent performance by individuals and teams comprised of officers, members, and employees of the Coast Guard that contributed to the long-term success of a Coast Guard acquisition project or program.
 
@@ -209,7 +209,7 @@ The Vice Commandant—
 
 **(c) Award of Cash Bonuses.—** As part of the program required by subsection (a), the Commandant, subject to the availability of appropriations, may award to any civilian employee recognized pursuant to the program a cash bonus to the extent that the performance of such individual so recognized warrants the award of such bonus.
 
-(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2934, § 563; amended Pub. L. 111–330, § 1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(C), Dec. 23, 2016, 130 Stat. 2333; renumbered § 1104, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2934, § 563; amended Pub. L. 111–330, § 1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(C), Dec. 23, 2016, 130 Stat. 2333; renumbered § 1104, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
 **Editorial Notes**
 
@@ -219,15 +219,15 @@ The Vice Commandant—
 
 2016—Subsec. (a). Pub. L. 114–328 substituted “The Commandant shall maintain” for “Not later than 180 days after the date of enactment of the Coast Guard Authorization Act of 2010, the Commandant shall commence implementation of”.
 
-2010—Pub. L. 111–330 amended Pub. L. 111–281, § 402(a), which enacted this section.
+2010—Pub. L. 111–330 amended Pub. L. 111–281, § 402(a), which enacted this section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(4) is effective with the enactment of Pub. L. 111–281.
+Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(4) is effective with the enactment of Pub. L. 111–281.
 
-### § 1105. Prohibition on use of lead systems integrators
+### § 1105. Prohibition on use of lead systems integrators
 
 **(a) In General.—**
 
@@ -249,13 +249,13 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amen
 
 **(c) Lead Systems Integrator Defined.—** In this section, the term “lead systems integrator” has the meaning given such term in section 805(c) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163).
 
-(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2935, § 564; amended Pub. L. 111–330, § 1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 112–213, title II, § 217(7), Dec. 20, 2012, 126 Stat. 1557; Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(D), Dec. 23, 2016, 130 Stat. 2333; renumbered § 1105 and amended Pub. L. 115–282, title I, § 108(b), title III, § 304(d), Dec. 4, 2018, 132 Stat. 4208, 4245; Pub. L. 119–60, div. G, title LXXII, § 7211, Dec. 18, 2025, 139 Stat. 1693.)
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2935, § 564; amended Pub. L. 111–330, § 1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 112–213, title II, § 217(7), Dec. 20, 2012, 126 Stat. 1557; Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(D), Dec. 23, 2016, 130 Stat. 2333; renumbered § 1105 and amended Pub. L. 115–282, title I, § 108(b), title III, § 304(d), Dec. 4, 2018, 132 Stat. 4208, 4245; Pub. L. 119–60, div. G, title LXXII, § 7211, Dec. 18, 2025, 139 Stat. 1693.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Small Business Act, referred to in subsec. (a)(3), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (a)(3), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 Section 805(c) of the National Defense Authorization Act for Fiscal Year 2006, referred to in subsec. (c), is section 805(c) of Pub. L. 109–163, div. A, title VIII, Jan. 6, 2006, 119 Stat. 3372, which is not classified to the Code.
 
@@ -263,23 +263,23 @@ Section 805(c) of the National Defense Authorization Act for Fiscal Year 2006, r
 
 2025—Subsec. (c). Pub. L. 119–60 added subsec. (c).
 
-2018—Pub. L. 115–282, § 108(b), renumbered section 564 of this title as this section.
+2018—Pub. L. 115–282, § 108(b), renumbered section 564 of this title as this section.
 
-Subsec. (c). Pub. L. 115–282, § 304(d), struck out subsec. (c) which related to acquisition of unmanned aerial systems.
+Subsec. (c). Pub. L. 115–282, § 304(d), struck out subsec. (c) which related to acquisition of unmanned aerial systems.
 
 2016—Subsec. (c). Pub. L. 114–328 added subsec. (c).
 
 2012—Pub. L. 112–213 amended section generally. Prior to amendment, section related to prohibition on use of lead systems integrators and provided for certain exceptions to such prohibition.
 
-2010—Pub. L. 111–330 amended Pub. L. 111–281, § 402(a), which enacted this section.
+2010—Pub. L. 111–330 amended Pub. L. 111–281, § 402(a), which enacted this section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(4) is effective with the enactment of Pub. L. 111–281.
+Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(4) is effective with the enactment of Pub. L. 111–281.
 
-### § 1106. Required contract terms
+### § 1106. Required contract terms
 
 **(a) In General.—** The Commandant shall ensure that a contract awarded or a delivery order or task order issued for an acquisition of a capability or an asset with an expected service life of 10 or more years and with a total acquisition cost that is equal to or exceeds $10,000,000—
 
@@ -307,33 +307,33 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amen
 
 **(d) Technical Authority.—** The Commandant shall maintain or designate the technical authority to establish, approve, and maintain technical requirements. Any such designation shall be made in writing and may not be delegated to the authority of the Chief Acquisition Officer established by section 308 of this title.
 
-(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2936, § 565; amended Pub. L. 111–330, § 1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 115–232, div. C, title XXXV, § 3533(f), Aug. 13, 2018, 132 Stat. 2321; renumbered § 1106 and amended Pub. L. 115–282, title I, §§ 108(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4208, 4240.)
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2936, § 565; amended Pub. L. 111–330, § 1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 115–232, div. C, title XXXV, § 3533(f), Aug. 13, 2018, 132 Stat. 2321; renumbered § 1106 and amended Pub. L. 115–282, title I, §§ 108(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4208, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 108(b), renumbered section 565 of this title as this section.
+2018—Pub. L. 115–282, § 108(b), renumbered section 565 of this title as this section.
 
-Subsec. (a). Pub. L. 115–232, § 3533(f)(1), struck out “awarded or issued by the Coast Guard after the date of enactment of the Coast Guard Authorization Act of 2010” after “$10,000,000” in introductory provisions.
+Subsec. (a). Pub. L. 115–232, § 3533(f)(1), struck out “awarded or issued by the Coast Guard after the date of enactment of the Coast Guard Authorization Act of 2010” after “$10,000,000” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 115–232, § 3533(f)(2), struck out “after the date of enactment of the Coast Guard Authorization Act of 2010” after “Coast Guard”.
+Subsec. (b)(1). Pub. L. 115–232, § 3533(f)(2), struck out “after the date of enactment of the Coast Guard Authorization Act of 2010” after “Coast Guard”.
 
-Subsec. (d). Pub. L. 115–282, § 123(b)(2), substituted “section 308” for “section 56”.
+Subsec. (d). Pub. L. 115–282, § 123(b)(2), substituted “section 308” for “section 56”.
 
-2010—Pub. L. 111–330 amended Pub. L. 111–281, § 402(a), which enacted this section.
+2010—Pub. L. 111–330 amended Pub. L. 111–281, § 402(a), which enacted this section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(4) is effective with the enactment of Pub. L. 111–281.
+Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(4) is effective with the enactment of Pub. L. 111–281.
 
-### § 1107. Extension of major acquisition program contracts
+### § 1107. Extension of major acquisition program contracts
 
-**(a) In General.—** Notwithstanding section 1105(a)(2) of this title and section 2304 1
+**(a) In General.—** Notwithstanding section 1105(a)(2) of this title and section 2304 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 10, and subject to subsections (b) and (c) of this section, the Secretary may acquire additional units procured under a Coast Guard major acquisition program contract, by extension of such contract without competition, if the Director of the Cost Analysis Division of the Department of Homeland Security determines that the costs that would be saved through award of a new contract in accordance with such sections would not exceed the costs of such an award.
 
@@ -347,21 +347,21 @@ of title 10, and subject to subsections (b) and (c) of this section, the Secreta
 
 **(d) Number of Extensions.—** A contract may be extended under this section more than once.
 
-(Added Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(E), Dec. 23, 2016, 130 Stat. 2334, § 579; renumbered § 1107 and amended Pub. L. 115–282, title I, §§ 108(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4208, 4240.)
+(Added Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(E), Dec. 23, 2016, 130 Stat. 2334, § 579; renumbered § 1107 and amended Pub. L. 115–282, title I, §§ 108(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4208, 4240.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2304 of this title, referred to in subsec. (a), was repealed by Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (*l*) of section 2304 were transferred to various provisions in chapter 221 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, § 1811(c)(2)–(5), (d)(2)–(9), Jan. 1, 2021, 134 Stat. 4165–4170.
+Section 2304 of this title, referred to in subsec. (a), was repealed by Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (*l*) of section 2304 were transferred to various provisions in chapter 221 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, § 1811(c)(2)–(5), (d)(2)–(9), Jan. 1, 2021, 134 Stat. 4165–4170.
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 108(b), renumbered section 579 of this title as this section.
+2018—Pub. L. 115–282, § 108(b), renumbered section 579 of this title as this section.
 
-Subsecs. (a), (c)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 1105(a)(2)” for “section 564(a)(2)”.
+Subsecs. (a), (c)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 1105(a)(2)” for “section 564(a)(2)”.
 
-### § 1108. Department of Defense consultation
+### § 1108. Department of Defense consultation
 
 **(a) In General.—** The Commandant shall make arrangements as appropriate with the Secretary of Defense for support in contracting and management of Coast Guard acquisition programs. The Commandant shall also seek opportunities to make use of Department of Defense contracts, and contracts of other appropriate agencies, to obtain the best possible price for assets acquired for the Coast Guard.
 
@@ -375,7 +375,7 @@ Subsecs. (a), (c)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 
 
 **(c) Technical Requirement Approval Procedures.—** The Chief Acquisition Officer shall adopt, to the extent practicable, procedures modeled after those used by the Navy Senior Acquisition Official to approve all technical requirements.
 
-(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2937, § 566; amended Pub. L. 111–330, § 1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 115–232, div. C, title XXXV, § 3534, Aug. 13, 2018, 132 Stat. 2322; renumbered § 1108, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2937, § 566; amended Pub. L. 111–330, § 1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 115–232, div. C, title XXXV, § 3534, Aug. 13, 2018, 132 Stat. 2322; renumbered § 1108, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
 **Editorial Notes**
 
@@ -383,19 +383,19 @@ Subsecs. (a), (c)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 
 
 2018—Pub. L. 115–282 renumbered section 566 of this title as this section.
 
-Subsec. (b). Pub. L. 115–232, § 3534(1), substituted “maintain” for “enter into” in introductory provisions.
+Subsec. (b). Pub. L. 115–232, § 3534(1), substituted “maintain” for “enter into” in introductory provisions.
 
-Subsec. (d). Pub. L. 115–232, § 3534(2), struck out subsec. (d) which related to report on assessment of Coast Guard acquisition and management capabilities.
+Subsec. (d). Pub. L. 115–232, § 3534(2), struck out subsec. (d) which related to report on assessment of Coast Guard acquisition and management capabilities.
 
-2010—Subsec. (d). Pub. L. 111–330, which directed the amendment of Pub. L. 111–281, § 402(a), which enacted this section, by substituting “Coast Guard Authorization Act of 2010” for “Coast Guard Authorization Act for Fiscal Years 2010 and 2011” wherever appearing, was executed in subsec. (d) of this section as added by section 402(a) by making the substitution for text which read “Coast Guard Authorization Act for fiscal years 2010 and 2011”, to reflect the probable intent of Congress.
+2010—Subsec. (d). Pub. L. 111–330, which directed the amendment of Pub. L. 111–281, § 402(a), which enacted this section, by substituting “Coast Guard Authorization Act of 2010” for “Coast Guard Authorization Act for Fiscal Years 2010 and 2011” wherever appearing, was executed in subsec. (d) of this section as added by section 402(a) by making the substitution for text which read “Coast Guard Authorization Act for fiscal years 2010 and 2011”, to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(4) is effective with the enactment of Pub. L. 111–281.
+Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(4) is effective with the enactment of Pub. L. 111–281.
 
-### § 1109. Undefinitized contractual actions
+### § 1109. Undefinitized contractual actions
 
 **(a) In General.—** The Coast Guard may not enter into an undefinitized contractual action unless such action is directly approved by the Head of Contracting Activity of the Coast Guard.
 
@@ -419,9 +419,9 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amen
 
 **(A)** a contingency operation (as that term is defined in section 101(a)(13) of title 10);
 
-**(B)** operations to prevent or respond to a transportation security incident (as defined in section 70101(6) 1
+**(B)** operations to prevent or respond to a transportation security incident (as defined in section 70101(6) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 46);
 
@@ -465,25 +465,25 @@ of title 46);
 
 **(2) Qualifying proposal.—** The term “qualifying proposal” means a proposal that contains sufficient information to enable complete and meaningful audits of the information contained in the proposal as determined by the contracting officer.
 
-(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2938, § 567; renumbered § 1109, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2938, § 567; renumbered § 1109, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 70101(6) of title 46, referred to in subsec. (c)(3)(B), was redesignated section 70101(7) of title 46 by Pub. L. 115–254, div. J, § 1805(b)(1), Oct. 5, 2018, 132 Stat. 3534.
+Section 70101(6) of title 46, referred to in subsec. (c)(3)(B), was redesignated section 70101(7) of title 46 by Pub. L. 115–254, div. J, § 1805(b)(1), Oct. 5, 2018, 132 Stat. 3534.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(3)(D), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(3)(D), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Amendments**
 
 2018—Pub. L. 115–282 renumbered section 567 of this title as this section.
 
-### § 1110. Elevation of disputes to the Chief Acquisition Officer
+### § 1110. Elevation of disputes to the Chief Acquisition Officer
 
 If, after 90 days following the elevation to the Chief Acquisition Officer of any design or other dispute regarding level 1 or level 2 acquisition, the dispute remains unresolved, the Commandant shall provide to the appropriate congressional committees a detailed description of the issue and the rationale underlying the decision taken by the Chief Acquisition Officer to resolve the issue.
 
-(Added Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8501(a)(5), Jan. 1, 2021, 134 Stat. 4745.)
+(Added Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8501(a)(5), Jan. 1, 2021, 134 Stat. 4745.)
 
 **Editorial Notes**
 
@@ -491,7 +491,7 @@ If, after 90 days following the elevation to the Chief Acquisition Officer of an
 
 A prior section 1110 was renumbered section 5110 of this title.
 
-### § 1111. Acquisition workforce authorities
+### § 1111. Acquisition workforce authorities
 
 **(a) Expedited Hiring Authority.—**
 
@@ -517,7 +517,7 @@ A prior section 1110 was renumbered section 5110 of this title.
 
 **(B) Application.—** Paragraph (1) shall apply to an individual who is eligible to file an election under subparagraph (A) and does not file a timely election under clause (i) of such subparagraph.
 
-(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8219(a), Jan. 1, 2021, 134 Stat. 4655.)
+(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8219(a), Jan. 1, 2021, 134 Stat. 4655.)
 
 **Editorial Notes**
 
@@ -531,9 +531,9 @@ The date of the enactment of the Elijah E. Cummings Coast Guard Authorization Ac
 
 **Amendments**
 
-2018—Pub. L. 115–282, title I, § 108(c)(3), Dec. 4, 2018, 132 Stat. 4210, inserted subchapter II designation and heading.
+2018—Pub. L. 115–282, title I, § 108(c)(3), Dec. 4, 2018, 132 Stat. 4210, inserted subchapter II designation and heading.
 
-### § 1131. Identification of major system acquisitions
+### § 1131. Identification of major system acquisitions
 
 **(a) In General.—**
 
@@ -557,7 +557,7 @@ The date of the enactment of the Elijah E. Cummings Coast Guard Authorization Ac
 
 **(c) Human Resource Capital Planning.—** The Commandant shall develop staffing predictions, define human capital performance initiatives, and identify preliminary training needs required to implement each Level 1 and Level 2 acquisition project and program.
 
-(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2941, § 571; renumbered § 1131, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2941, § 571; renumbered § 1131, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
 **Editorial Notes**
 
@@ -565,7 +565,7 @@ The date of the enactment of the Elijah E. Cummings Coast Guard Authorization Ac
 
 2018—Pub. L. 115–282 renumbered section 571 of this title as this section.
 
-### § 1132. Acquisition
+### § 1132. Acquisition
 
 **(a) In General.—** The Commandant may not establish a Level 1 or Level 2 acquisition project or program until the Commandant—
 
@@ -673,7 +673,7 @@ The date of the enactment of the Elijah E. Cummings Coast Guard Authorization Ac
 
 **(B)** an independent cost estimate or independent cost assessment, as appropriate, be developed to validate life-cycle cost estimates developed under paragraph (1).
 
-(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2942, § 572; amended Pub. L. 114–120, title II, § 204(a), Feb. 8, 2016, 130 Stat. 34; renumbered § 1132, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208; Pub. L. 117–263, div. K, title CXII, § 11210, Dec. 23, 2022, 136 Stat. 4012.)
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2942, § 572; amended Pub. L. 114–120, title II, § 204(a), Feb. 8, 2016, 130 Stat. 34; renumbered § 1132, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208; Pub. L. 117–263, div. K, title CXII, § 11210, Dec. 23, 2022, 136 Stat. 4012.)
 
 **Editorial Notes**
 
@@ -689,7 +689,7 @@ The date of the enactment of the Elijah E. Cummings Coast Guard Authorization Ac
 
 2016—Subsec. (d)(3)(B) to (J). Pub. L. 114–120 added subpars. (B) and (D) and redesignated former subpar. (B) as (C) and former subpars. (C) to (H) as (E) to (J), respectively.
 
-### § 1133. Preliminary development and demonstration
+### § 1133. Preliminary development and demonstration
 
 **(a) In General.—** The Commandant shall ensure that developmental test and evaluation, operational test and evaluation, life-cycle cost estimates, and the development and demonstration requirements applied by this chapter to acquisition projects and programs are met to confirm that the projects or programs meet the requirements identified in the mission-analysis and affordability assessment prepared under section 1131(a)(2), the operational requirements developed under section 1132(a)(1) and the following development and demonstration objectives:
 
@@ -703,7 +703,7 @@ The date of the enactment of the Elijah E. Cummings Coast Guard Authorization Ac
 
 **(1) In general.—** The Commandant shall ensure that the Coast Guard conducts developmental tests and evaluations and operational tests and evaluations of a capability or asset and the subsystems of the capability or asset in accordance with the master plan prepared for the capability or asset under section 1132(d)(1).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2) Use of third parties.—** The Commandant shall ensure that the Coast Guard uses independent third parties with expertise in testing and evaluating the capabilities or assets and the subsystems of the capabilities or assets being acquired to conduct developmental tests and evaluations and operational tests and evaluations whenever the Coast Guard lacks the capability to conduct the tests and evaluations required by a master plan.
 
@@ -737,43 +737,43 @@ The date of the enactment of the Elijah E. Cummings Coast Guard Authorization Ac
 
 **(A) In general.—** The Commandant shall cause each cutter, other than a National Security Cutter, acquired by the Coast Guard and delivered after the date of enactment of the Coast Guard Authorization Act of 2010 to be classed by the American Bureau of Shipping before final acceptance.
 
-**[(B)** Repealed. Pub. L. 112–213, title II, § 210(c)(2)(B), Dec. 20, 2012, 126 Stat. 1551.]
+**[(B)** Repealed. Pub. L. 112–213, title II, § 210(c)(2)(B), Dec. 20, 2012, 126 Stat. 1551.]
 
 **(4) Other vessels.—** The Commandant shall cause the design and construction of each National Security Cutter, other than National Security Cutters 1, 2, and 3, to be assessed by an independent third party with expertise in vessel design and construction certification.
 
 **(5) Aircraft airworthiness.—** The Commandant shall cause all aircraft and aircraft engines acquired by the Coast Guard to be assessed for airworthiness by an independent third party with expertise in aircraft and aircraft engine certification before final acceptance.
 
-(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2944, § 573; amended Pub. L. 112–213, title II, § 210(c)(2)(B), Dec. 20, 2012, 126 Stat. 1551; Pub. L. 115–232, div. C, title XXXV, § 3522, Aug. 13, 2018, 132 Stat. 2314; renumbered § 1133 and amended Pub. L. 115–282, title I, §§ 108(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4208, 4240.)
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2944, § 573; amended Pub. L. 112–213, title II, § 210(c)(2)(B), Dec. 20, 2012, 126 Stat. 1551; Pub. L. 115–232, div. C, title XXXV, § 3522, Aug. 13, 2018, 132 Stat. 2314; renumbered § 1133 and amended Pub. L. 115–282, title I, §§ 108(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4208, 4240.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1132(d)(1), referred to in subsec. (b)(1), was, prior to amendment of this section by Pub. L. 115–282, a reference to section 572(d)(1) of this title, which was redesignated section 572(f)(1) of this title by Pub. L. 114–120, title II, § 204(a)(1), Feb. 8, 2016, 130 Stat. 34. Section 572 of this title was renumbered section 1132 of this title by Pub. L. 115–282, title I, § 108(b)(2), Dec. 4, 2018, 132 Stat. 4208.
+Section 1132(d)(1), referred to in subsec. (b)(1), was, prior to amendment of this section by Pub. L. 115–282, a reference to section 572(d)(1) of this title, which was redesignated section 572(f)(1) of this title by Pub. L. 114–120, title II, § 204(a)(1), Feb. 8, 2016, 130 Stat. 34. Section 572 of this title was renumbered section 1132 of this title by Pub. L. 115–282, title I, § 108(b)(2), Dec. 4, 2018, 132 Stat. 4208.
 
 The date of enactment of the Coast Guard Authorization Act of 2010, referred to in subsec. (c)(3)(A), is the date of enactment of Pub. L. 111–281, which was approved Oct. 15, 2010.
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 108(b), renumbered section 573 of this title as this section.
+2018—Pub. L. 115–282, § 108(b), renumbered section 573 of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, § 123(b)(2), in introductory provisions, substituted “section 1131(a)(2)” for “section 571(a)(2)” and “section 1132(a)(1)” for “section 572(a)(1)”.
+Subsec. (a). Pub. L. 115–282, § 123(b)(2), in introductory provisions, substituted “section 1131(a)(2)” for “section 571(a)(2)” and “section 1132(a)(1)” for “section 572(a)(1)”.
 
-Subsec. (b)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 1132(d)(1)” for “section 572(d)(1)”.
+Subsec. (b)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 1132(d)(1)” for “section 572(d)(1)”.
 
-Subsec. (b)(3). Pub. L. 115–232, § 3522(1), substituted “ensure that independent third parties and Government employees that identify safety concerns” for “require that safety concerns identified” and “Coast Guard communicate such concerns as” for “Coast Guard shall be communicated as”.
+Subsec. (b)(3). Pub. L. 115–232, § 3522(1), substituted “ensure that independent third parties and Government employees that identify safety concerns” for “require that safety concerns identified” and “Coast Guard communicate such concerns as” for “Coast Guard shall be communicated as”.
 
-Subsec. (b)(4). Pub. L. 115–232, § 3522(2), substituted “The Commandant shall ensure that any safety concerns that have been communicated under paragraph (3) for an acquisition program or project are reported” for “Any safety concerns that have been reported to the Chief Acquisition Officer for an acquisition program or project shall be reported by the Commandant”.
+Subsec. (b)(4). Pub. L. 115–232, § 3522(2), substituted “The Commandant shall ensure that any safety concerns that have been communicated under paragraph (3) for an acquisition program or project are reported” for “Any safety concerns that have been reported to the Chief Acquisition Officer for an acquisition program or project shall be reported by the Commandant”.
 
-Subsec. (b)(5). Pub. L. 115–232, § 3522(3)(A), added introductory provisions and struck out former introductory provisions which read as follows: “If operational test and evaluation of a capability or asset already in low, initial, or full-rate production identifies a safety concern with the capability or asset or any subsystems of the capability or asset not previously identified during developmental or operational test and evaluation, the Commandant shall—”.
+Subsec. (b)(5). Pub. L. 115–232, § 3522(3)(A), added introductory provisions and struck out former introductory provisions which read as follows: “If operational test and evaluation of a capability or asset already in low, initial, or full-rate production identifies a safety concern with the capability or asset or any subsystems of the capability or asset not previously identified during developmental or operational test and evaluation, the Commandant shall—”.
 
-Subsec. (b)(5)(A). Pub. L. 115–232, § 3522(3)(B), inserted “the Commandant, through the Assistant Commandant for Capability, shall” before “notify”.
+Subsec. (b)(5)(A). Pub. L. 115–232, § 3522(3)(B), inserted “the Commandant, through the Assistant Commandant for Capability, shall” before “notify”.
 
-Subsec. (b)(5)(B). Pub. L. 115–232, § 3522(3)(C), substituted “the Deputy Commandant for Mission Support shall notify the Commandant and the Deputy Commandant for Operations of the safety concern within 50 days after the notification required under subparagraph (A), and include in such notification” for “notify the Chief Acquisition Officer and include in such notification” in introductory provisions.
+Subsec. (b)(5)(B). Pub. L. 115–232, § 3522(3)(C), substituted “the Deputy Commandant for Mission Support shall notify the Commandant and the Deputy Commandant for Operations of the safety concern within 50 days after the notification required under subparagraph (A), and include in such notification” for “notify the Chief Acquisition Officer and include in such notification” in introductory provisions.
 
-Subsec. (c)(2)(A). Pub. L. 115–232, § 3522(4)(A), struck out “and that are delivered after the date of enactment of the Coast Guard Authorization Act of 2010” after “TEMPEST certification”.
+Subsec. (c)(2)(A). Pub. L. 115–232, § 3522(4)(A), struck out “and that are delivered after the date of enactment of the Coast Guard Authorization Act of 2010” after “TEMPEST certification”.
 
-Subsec. (c)(5). Pub. L. 115–232, § 3522(4)(B), struck out “and delivered after the date of enactment of the Coast Guard Authorization Act of 2010” after “acquired by the Coast Guard”.
+Subsec. (c)(5). Pub. L. 115–232, § 3522(4)(B), struck out “and delivered after the date of enactment of the Coast Guard Authorization Act of 2010” after “acquired by the Coast Guard”.
 
 2012—Subsec. (c)(3)(B). Pub. L. 112–213 struck out subpar. (B). Text read as follows: “Not later than December 31, 2011, and biennially thereafter, the Commandant shall provide a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate identifying which, if any, Coast Guard cutters that have been issued a certificate of classification by the American Bureau of Shipping have not been maintained in class and detailing the reasons why they have not been maintained in class.”
 
@@ -781,9 +781,9 @@ Subsec. (c)(5). Pub. L. 115–232, § 3522(4)(B), struck out “and delivered 
 
 **National Security Cutters**
 
-Pub. L. 115–282, title III, § 311(f), Dec. 4, 2018, 132 Stat. 4249, provided that: “The Secretary of the department in which the Coast Guard is operating is authorized to enter into a multiyear contract for the procurement of a tenth, eleventh, and twelfth National Security Cutter and associated government-furnished equipment.”
+Pub. L. 115–282, title III, § 311(f), Dec. 4, 2018, 132 Stat. 4249, provided that: “The Secretary of the department in which the Coast Guard is operating is authorized to enter into a multiyear contract for the procurement of a tenth, eleventh, and twelfth National Security Cutter and associated government-furnished equipment.”
 
-Pub. L. 115–282, title VIII, § 818(a), Dec. 4, 2018, 132 Stat. 4307, provided that:
+Pub. L. 115–282, title VIII, § 818(a), Dec. 4, 2018, 132 Stat. 4307, provided that:
 
 > “The Commandant of the Coast Guard may not certify an eighth National Security Cutter as Ready for Operations before the date on which the Commandant provides to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
 
@@ -799,7 +799,7 @@ Pub. L. 115–282, title VIII, § 818(a), Dec. 4, 2018, 132 Stat. 4307, provid
 
 > **“(B)** examines the optimal level of operational employment of National Security Cutters to balance National Security Cutter cost and mission performance.”
 
-### § 1134. Acquisition, production, deployment, and support
+### § 1134. Acquisition, production, deployment, and support
 
 **(a) In General.—** The Commandant shall—
 
@@ -819,7 +819,7 @@ Pub. L. 115–282, title VIII, § 818(a), Dec. 4, 2018, 132 Stat. 4307, provid
 
 **(4)** prepare an acquisition project or program transition plan to enter into programmatic sustainment, operations, and support.
 
-(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2947, § 574; renumbered § 1134, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2947, § 574; renumbered § 1134, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
 **Editorial Notes**
 
@@ -827,7 +827,7 @@ Pub. L. 115–282, title VIII, § 818(a), Dec. 4, 2018, 132 Stat. 4307, provid
 
 2018—Pub. L. 115–282 renumbered section 574 of this title as this section.
 
-### § 1135. Acquisition program baseline breach
+### § 1135. Acquisition program baseline breach
 
 **(a) In General.—** The Commandant shall submit a report to the appropriate congressional committees and the Committee on Homeland Security of the House of Representatives as soon as possible, but not later than 30 days, after the Chief Acquisition Officer of the Coast Guard becomes aware of the breach of an acquisition program baseline for any Level 1 or Level 2 acquisition program, by—
 
@@ -869,7 +869,7 @@ Pub. L. 115–282, title VIII, § 818(a), Dec. 4, 2018, 132 Stat. 4307, provid
 
 **(2)** an assessment of whether the applicable contract officer has issued a cease and desist order to the contractor based on the breach of such terms of the contract.
 
-(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2947, § 575; amended Pub. L. 115–232, div. C, title XXXV, § 3533(g), Aug. 13, 2018, 132 Stat. 2321; renumbered § 1135, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8221(b), Jan. 1, 2021, 134 Stat. 4657.)
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2947, § 575; amended Pub. L. 115–232, div. C, title XXXV, § 3533(g), Aug. 13, 2018, 132 Stat. 2321; renumbered § 1135, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8221(b), Jan. 1, 2021, 134 Stat. 4657.)
 
 **Editorial Notes**
 
@@ -881,31 +881,31 @@ Pub. L. 115–282, title VIII, § 818(a), Dec. 4, 2018, 132 Stat. 4307, provid
 
 Subsec. (c). Pub. L. 115–232, in introductory provisions, substituted “determination, with a supporting explanation, of whether” for “certification, with a supporting explanation, that”.
 
-### § 1136. Acquisition approval authority
+### § 1136. Acquisition approval authority
 
 Nothing in this subchapter shall be construed as altering or diminishing in any way the statutory authority and responsibility of the Secretary of the department in which the Coast Guard is operating, or the Secretary’s designee, to—
 
 **(1)** manage and administer department procurements, including procurements by department components, as required by section 701 of the Homeland Security Act of 2002 (6 U.S.C. 341); or
 
-**(2)** manage department acquisition activities and act as the Acquisition Decision Authority with regard to the review or approval of a Coast Guard Level 1 or Level 2 acquisition project or program, as required by section 16 1
+**(2)** manage department acquisition activities and act as the Acquisition Decision Authority with regard to the review or approval of a Coast Guard Level 1 or Level 2 acquisition project or program, as required by section 16 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Office of Federal Procurement Policy Act (41 U.S.C. 414) and related implementing regulations and directives.
 
-(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2948, § 576; renumbered § 1136, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2948, § 576; renumbered § 1136, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 16 of the Office of Federal Procurement Policy Act, referred to in par. (2), is section 16 of Pub. L. 93–400, which was classified to section 414 of former Title 41, Public Contracts, and was repealed and reenacted as section 1702 of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
+Section 16 of the Office of Federal Procurement Policy Act, referred to in par. (2), is section 16 of Pub. L. 93–400, which was classified to section 414 of former Title 41, Public Contracts, and was repealed and reenacted as section 1702 of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
 **Amendments**
 
 2018—Pub. L. 115–282 renumbered section 576 of this title as this section.
 
-### § 1137. Contracting for major acquisitions programs
+### § 1137. Contracting for major acquisitions programs
 
 **(a) In General.—** In carrying out authorities provided to the Secretary to design, construct, accept, or otherwise acquire assets and systems under section 501(d), the Secretary, acting through the Commandant or the head of an integrated program office established for a major acquisition program, may enter into contracts for a major acquisition program and 3 Polar Security Cutters in addition to those approved as part of a major acquisition program on November 1, 2019.
 
@@ -925,7 +925,7 @@ Section 16 of the Office of Federal Procurement Policy Act, referred to in par. 
 
 **(c) Subject to Appropriations.—** Any contract entered into under subsection (a) shall provide that any obligation of the United States to make a payment under the contract is subject to the availability of amounts specifically provided in advance for that purpose in subsequent appropriations Acts.
 
-(Added Pub. L. 115–282, title III, § 311(b), Dec. 4, 2018, 132 Stat. 4249; amended Pub. L. 116–283, div. G, title LVXXXI [LXXXI], § 8111(b), Jan. 1, 2021, 134 Stat. 4639; Pub. L. 117–81, div. A, title XVII, § 1702(d)(2), Dec. 27, 2021, 135 Stat. 2156.)
+(Added Pub. L. 115–282, title III, § 311(b), Dec. 4, 2018, 132 Stat. 4249; amended Pub. L. 116–283, div. G, title LVXXXI [LXXXI], § 8111(b), Jan. 1, 2021, 134 Stat. 4639; Pub. L. 117–81, div. A, title XVII, § 1702(d)(2), Dec. 27, 2021, 135 Stat. 2156.)
 
 **Editorial Notes**
 
@@ -939,23 +939,23 @@ Subsec. (b)(4). Pub. L. 117–81 substituted “section 3501” for “section 2
 
 **Internal Regulations and Policy**
 
-Pub. L. 115–282, title III, § 311(e), Dec. 4, 2018, 132 Stat. 4249, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 4, 2018], the Secretary of the department in which the Coast Guard is operating shall establish the internal regulations and policies necessary to exercise the authorities provided under this section [enacting this section, amending section 501 of this title, enacting provisions set out as a note under section 1133 of this title, amending provisions formerly set out as a note under former section 573 of this title, and repealing provisions set out as notes under former sections 87 and 577 of this title], including the amendments made in this section.”
+Pub. L. 115–282, title III, § 311(e), Dec. 4, 2018, 132 Stat. 4249, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 4, 2018], the Secretary of the department in which the Coast Guard is operating shall establish the internal regulations and policies necessary to exercise the authorities provided under this section [enacting this section, amending section 501 of this title, enacting provisions set out as a note under section 1133 of this title, amending provisions formerly set out as a note under former section 573 of this title, and repealing provisions set out as notes under former sections 87 and 577 of this title], including the amendments made in this section.”
 
-### § 1138. Service life extension programs
+### § 1138. Service life extension programs
 
 **(a) In General.—** Requirements for a Level 1 or Level 2 acquisition project or program under sections 1131 through 1134 shall not apply to an acquisition by the Coast Guard that is a service life extension program.
 
 **(b) Service Life Extension Program Defined.—** In this section, the term “service life extension program” means a capital investment that is solely intended to extend the service life and address obsolescence of components or systems of a particular capability or asset.
 
-(Added Pub. L. 119–60, div. G, title LXXII, § 7212(a), Dec. 18, 2025, 139 Stat. 1693.)
+(Added Pub. L. 119–60, div. G, title LXXII, § 7212(a), Dec. 18, 2025, 139 Stat. 1693.)
 
-### § 1139. Consideration of life-cycle cost estimates for acquisition and procurement
+### § 1139. Consideration of life-cycle cost estimates for acquisition and procurement
 
 In carrying out the acquisition and procurement of vessels and aircraft, the Secretary of the department in which the Coast Guard is operating, acting through the Commandant, shall consider the life-cycle cost estimates of vessels and aircraft, as applicable, during the design and evaluation processes to the maximum extent practicable.
 
-(Added Pub. L. 119–60, div. G, title LXXII, § 7212(a), Dec. 18, 2025, 139 Stat. 1694.)
+(Added Pub. L. 119–60, div. G, title LXXII, § 7212(a), Dec. 18, 2025, 139 Stat. 1694.)
 
-### § 1140. Contracts that provide best value for taxpayer
+### § 1140. Contracts that provide best value for taxpayer
 
 **(a) In General.—** In carrying out a Level 1 or Level 2 acquisition project or program under this subchapter, the Commandant may publicly announce all construction, design, and engineering requirements and negotiate contracts for construction, design, and engineering services on the basis of demonstrated competence and qualification for the type of professional services required and at fair and reasonable prices.
 
@@ -983,7 +983,7 @@ In carrying out the acquisition and procurement of vessels and aircraft, the Sec
 
 **(5) Additional firms.—** If the Commandant is unable to negotiate a satisfactory contract or contracts with any of the selected firms, the Commandant shall select additional firms in order of competence and qualification and continue negotiations in accordance with this section until 1 or more agreements are reached.
 
-(Added Pub. L. 119–60, div. G, title LXXII, § 7212(a), Dec. 18, 2025, 139 Stat. 1694.)
+(Added Pub. L. 119–60, div. G, title LXXII, § 7212(a), Dec. 18, 2025, 139 Stat. 1694.)
 
 ## SUBCHAPTER III—PROCUREMENT
 
@@ -991,13 +991,13 @@ In carrying out the acquisition and procurement of vessels and aircraft, the Sec
 
 **Amendments**
 
-2018—Pub. L. 115–282, title I, § 108(c)(4), Dec. 4, 2018, 132 Stat. 4210, inserted subchapter III designation and heading.
+2018—Pub. L. 115–282, title I, § 108(c)(4), Dec. 4, 2018, 132 Stat. 4210, inserted subchapter III designation and heading.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Prohibition on Major Acquisition Contracts With Entities Associated With Chinese Communist Party**
 
-Pub. L. 117–263, div. K, title CXII, § 11267, Dec. 23, 2022, 136 Stat. 4063, provided that:
+Pub. L. 117–263, div. K, title CXII, § 11267, Dec. 23, 2022, 136 Stat. 4063, provided that:
 
 > **“(a) In General.—** The Commandant [of the Coast Guard] may not award any major acquisition contract until the Commandant receives a certification from the party that it has not, during the 10-year period preceding the planned date of award, directly or indirectly held an economic interest in an entity that is—
 
@@ -1007,7 +1007,7 @@ Pub. L. 117–263, div. K, title CXII, § 11267, Dec. 23, 2022, 136 Stat. 4063
 
 > **“(b) Inapplicability to Taiwan.—** Subsection (a) shall not apply with respect to an economic interest in an entity owned or controlled by Taiwan.”
 
-### § 1151. Restriction on acquisition, procurement, or construction of vessels in foreign shipyards
+### § 1151. Restriction on acquisition, procurement, or construction of vessels in foreign shipyards
 
 **(a) In General.—** Except as provided in subsection (b), the Commandant may not lease, charter, or otherwise procure a vessel which contains a major component of the hull or superstructure constructed in a foreign shipyard.
 
@@ -1019,7 +1019,7 @@ Pub. L. 117–263, div. K, title CXII, § 11267, Dec. 23, 2022, 136 Stat. 4063
 
 **(3) Justification.—** The notice required under paragraph (2) shall include a written explanation of the national security interest and a detailed summary of market research demonstrating the lack of availability of United States shipyards to meet the Coast Guard requirements consistent with national security interest.
 
-(Added Pub. L. 100–448, § 26(a), Sept. 28, 1988, 102 Stat. 1847, § 665; renumbered § 1151, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208; amended Pub. L. 119–60, div. G, title LXXII, § 7213(a), Dec. 18, 2025, 139 Stat. 1695.)
+(Added Pub. L. 100–448, § 26(a), Sept. 28, 1988, 102 Stat. 1847, § 665; renumbered § 1151, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208; amended Pub. L. 119–60, div. G, title LXXII, § 7213(a), Dec. 18, 2025, 139 Stat. 1695.)
 
 **Editorial Notes**
 
@@ -1033,7 +1033,7 @@ Pub. L. 117–263, div. K, title CXII, § 11267, Dec. 23, 2022, 136 Stat. 4063
 
 2018—Pub. L. 115–282 renumbered section 665 of this title as this section.
 
-### § 1152. Advance procurement funding
+### § 1152. Advance procurement funding
 
 **(a) In General.—** With respect to any Coast Guard vessel for which amounts are appropriated and any amounts otherwise made available for vessels for the Coast Guard in any fiscal year, the Commandant may enter into a contract or place an order, in advance of a contract or order for construction of a vessel, for—
 
@@ -1047,7 +1047,7 @@ Pub. L. 117–263, div. K, title CXII, § 11267, Dec. 23, 2022, 136 Stat. 4063
 
 **(b) Use of Materials, Parts, and Components Manufactured in the United States.—** In entering into contracts and placing orders under subsection (a), the Commandant may give priority to persons that manufacture materials, parts, and components in the United States.
 
-(Added Pub. L. 112–213, title II, § 211(a), Dec. 20, 2012, 126 Stat. 1551, § 577; amended Pub. L. 115–232, div. C, title XXXV, § 3531(c)(7), Aug. 13, 2018, 132 Stat. 2320; renumbered § 1152, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
+(Added Pub. L. 112–213, title II, § 211(a), Dec. 20, 2012, 126 Stat. 1551, § 577; amended Pub. L. 115–232, div. C, title XXXV, § 3531(c)(7), Aug. 13, 2018, 132 Stat. 2320; renumbered § 1152, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
 **Editorial Notes**
 
@@ -1061,7 +1061,7 @@ Subsec. (a). Pub. L. 115–232 substituted “Commandant” for “Commandant of
 
 **Long Lead Time Materials and Vessel Production; Immediate Availability of Funding**
 
-Pub. L. 113–6, div. D, title V, § 557, Mar. 26, 2013, 127 Stat. 377, provided that:
+Pub. L. 113–6, div. D, title V, § 557, Mar. 26, 2013, 127 Stat. 377, provided that:
 
 > **“(a)** Notwithstanding Office of Management and Budget Circular A–11, funds made available in fiscal year 2013, or any fiscal year thereafter, under Department of Homeland Security, Coast Guard, ‘Acquisition, Construction, and Improvements’ for—
 
@@ -1079,11 +1079,11 @@ Pub. L. 113–6, div. D, title V, § 557, Mar. 26, 2013, 127 Stat. 377, provid
 
 > **“(3)** the term ‘post-delivery activities’ means design, planning, Government-furnished material, and related labor for non-production and non-long lead time items contract activities and other work, including certifications, full operational capability activities and other equipment installation; spares, logistics, technical analysis, and support; correction of Government-responsible defects and deficiencies identified during builders trials, acceptance trials, and testing during the post-delivery period; costs of all work required to correct defects or deficiencies identified during the post-delivery period; and costs of all work required to correct trial card deficiencies on a vessel of a particular class, as well as on subsequent vessels of that class (whether or not delivered) until the corrective action for that cutter class is completed.”
 
-### § 1153. Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards
+### § 1153. Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards
 
 A Coast Guard vessel the home port of which is in the United States or Guam may not be overhauled, repaired, or maintained in a shipyard outside the United States or Guam, other than in the case of voyage repairs.
 
-(Added Pub. L. 104–324, title III, § 311(a), Oct. 19, 1996, 110 Stat. 3920, § 96; amended Pub. L. 111–281, title II, § 218, Oct. 15, 2010, 124 Stat. 2918; renumbered § 1153, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
+(Added Pub. L. 104–324, title III, § 311(a), Oct. 19, 1996, 110 Stat. 3920, § 96; amended Pub. L. 111–281, title II, § 218, Oct. 15, 2010, 124 Stat. 2918; renumbered § 1153, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
 **Editorial Notes**
 
@@ -1093,7 +1093,7 @@ A Coast Guard vessel the home port of which is in the United States or Guam may 
 
 2010—Pub. L. 111–281 substituted “in the United States or Guam” for “in a State of the United States” and inserted “or Guam” after “outside the United States”.
 
-### § 1154. Procurement of buoy chain
+### § 1154. Procurement of buoy chain
 
 **(a)** Except as provided in subsection (b), the Coast Guard may not procure buoy chain—
 
@@ -1107,7 +1107,7 @@ A Coast Guard vessel the home port of which is in the United States or Guam may 
 
 **(2)** emergency circumstances exist.
 
-(Added Pub. L. 104–324, title XI, § 1128(a), Oct. 19, 1996, 110 Stat. 3984, § 97; renumbered § 1154, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
+(Added Pub. L. 104–324, title XI, § 1128(a), Oct. 19, 1996, 110 Stat. 3984, § 97; renumbered § 1154, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
 **Editorial Notes**
 
@@ -1115,7 +1115,7 @@ A Coast Guard vessel the home port of which is in the United States or Guam may 
 
 2018—Pub. L. 115–282 renumbered section 97 of this title as this section.
 
-### § 1155. Contract termination
+### § 1155. Contract termination
 
 **(a) In General.—**
 
@@ -1155,7 +1155,7 @@ A Coast Guard vessel the home port of which is in the United States or Guam may 
 
 **(2) Limitation.—** The Commandant is not required to provide a report under paragraph (1) for any fiscal year for which there is no responsive information as described in subparagraphs (A) through (E) of paragraph (1).
 
-(Added Pub. L. 115–232, div. C, title XXXV, § 3523(a), Aug. 13, 2018, 132 Stat. 2315, § 657; renumbered § 1155, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
+(Added Pub. L. 115–232, div. C, title XXXV, § 3523(a), Aug. 13, 2018, 132 Stat. 2315, § 657; renumbered § 1155, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
 **Editorial Notes**
 
@@ -1163,7 +1163,7 @@ A Coast Guard vessel the home port of which is in the United States or Guam may 
 
 2018—Pub. L. 115–282 renumbered section 657 of this title as this section.
 
-### § 1156. Limitation on unmanned aircraft systems
+### § 1156. Limitation on unmanned aircraft systems
 
 **(a) In General.—** During any fiscal year for which funds are appropriated for the design or construction of an Offshore Patrol Cutter, the Commandant—
 
@@ -1179,7 +1179,7 @@ A Coast Guard vessel the home port of which is in the United States or Guam may 
 
 **(c) Definitions.—** In this section, the terms “small unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 44801 of title 49.
 
-(Added Pub. L. 115–282, title III, § 304(b), Dec. 4, 2018, 132 Stat. 4244; amended Pub. L. 117–263, div. K, title CXVIII, § 11803(b), Dec. 23, 2022, 136 Stat. 4163.)
+(Added Pub. L. 115–282, title III, § 304(b), Dec. 4, 2018, 132 Stat. 4244; amended Pub. L. 117–263, div. K, title CXVIII, § 11803(b), Dec. 23, 2022, 136 Stat. 4163.)
 
 **Editorial Notes**
 
@@ -1191,7 +1191,7 @@ A Coast Guard vessel the home port of which is in the United States or Guam may 
 
 **Prohibition on Operation or Procurement of Foreign-Made Unmanned Aircraft Systems**
 
-Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8414, Jan. 1, 2021, 134 Stat. 4725, as amended by Pub. L. 117–263, div. K, title CXII, § 11255, Dec. 23, 2022, 136 Stat. 4055, provided that:
+Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8414, Jan. 1, 2021, 134 Stat. 4725, as amended by Pub. L. 117–263, div. K, title CXII, § 11255, Dec. 23, 2022, 136 Stat. 4055, provided that:
 
 > **“(a) Prohibition on Agency Operation or Procurement.—** The Commandant [of the Coast Guard] may not operate or enter into or renew a contract for the procurement of—
 
@@ -1235,7 +1235,7 @@ Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8414, Jan. 1, 2021, 134 
 
 > **“(e) Replacement.—** Not later than 90 days after the date of the enactment of the Don Young Coast Guard Authorization Act of 2022 [Dec. 23, 2022], the Commandant shall replace covered unmanned aircraft systems of the Coast Guard with unmanned aircraft systems manufactured in the United States or an allied country (as that term is defined in section 2350f(d)(1) of title 10, United States Code).”
 
-### § 1157. Extraordinary relief
+### § 1157. Extraordinary relief
 
 **(a) In General.—** With respect to any prime contracting entity receiving extraordinary relief pursuant to the Act entitled “An Act to authorize the making, amendment, and modification of contracts to facilitate the national defense”, approved August 28, 1958 (Public Law 85–804; 50 U.S.C. 1432 et seq.) for a major acquisition, the Secretary shall not consider any further request by the prime contracting entity for extraordinary relief under such Act for such major acquisition.
 
@@ -1243,15 +1243,15 @@ Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8414, Jan. 1, 2021, 134 
 
 **(c) Quarterly Report.—** Not less frequently than quarterly during each fiscal year in which extraordinary relief is approved or provided to an entity under the Act referred to in subsection (a) for the acquisition of Offshore Patrol Cutters, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes in detail such relief and the compliance of the entity with the oversight measures required as a condition of receiving such relief.
 
-(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8221(a)(1), Jan. 1, 2021, 134 Stat. 4657.)
+(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8221(a)(1), Jan. 1, 2021, 134 Stat. 4657.)
 
 **Editorial Notes**
 
 **References in Text**
 
-An Act to authorize the making, amendment, and modification of contracts to facilitate the national defense, referred to in subsec. (a), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, which is classified generally to chapter 29 (§ 1431 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+An Act to authorize the making, amendment, and modification of contracts to facilitate the national defense, referred to in subsec. (a), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, which is classified generally to chapter 29 (§ 1431 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-### § 1158. Authority to enter into transactions other than contracts and grants to procure cost-effective, advanced technology for mission-critical needs
+### § 1158. Authority to enter into transactions other than contracts and grants to procure cost-effective, advanced technology for mission-critical needs
 
 **(a) In General.—** Subject to subsections (b) and (c), the Commandant may enter into transactions (other than contracts, cooperative agreements, and grants) to operate, test, and acquire cost-effective technology for the purpose of meeting the mission needs of the Coast Guard.
 
@@ -1277,9 +1277,9 @@ An Act to authorize the making, amendment, and modification of contracts to faci
 
 **(f) Counter-UAS Defined.—** In this section, the term “counter-UAS” has the meaning given such term in section 44801 of title 49.
 
-(Added Pub. L. 117–263, div. K, title CXII, § 11205(a), Dec. 23, 2022, 136 Stat. 4009.)
+(Added Pub. L. 117–263, div. K, title CXII, § 11205(a), Dec. 23, 2022, 136 Stat. 4009.)
 
-### § 1159. Floating drydock for United States Coast Guard Yard
+### § 1159. Floating drydock for United States Coast Guard Yard
 
 **(a) In General.—** Except as provided in subsection (b), the Commandant, using funds appropriated pursuant to section 1181, may not acquire, procure, or construct a floating dry dock for the Coast Guard Yard.
 
@@ -1301,7 +1301,7 @@ An Act to authorize the making, amendment, and modification of contracts to faci
 
 **(2)** capable of meeting the lifting and maintenance requirements of an Offshore Patrol Cutter or a National Security Cutter.
 
-(Added Pub. L. 119–60, div. G, title LXXII, § 7214(a), Dec. 18, 2025, 139 Stat. 1695.)
+(Added Pub. L. 119–60, div. G, title LXXII, § 7214(a), Dec. 18, 2025, 139 Stat. 1695.)
 
 ## SUBCHAPTER IV—DEFINITIONS
 
@@ -1309,9 +1309,9 @@ An Act to authorize the making, amendment, and modification of contracts to faci
 
 **Amendments**
 
-2018—Pub. L. 115–282, title I, § 108(c)(5), Dec. 4, 2018, 132 Stat. 4210, inserted subchapter IV designation and heading.
+2018—Pub. L. 115–282, title I, § 108(c)(5), Dec. 4, 2018, 132 Stat. 4210, inserted subchapter IV designation and heading.
 
-### § 1171. Definitions
+### § 1171. Definitions
 
 In this chapter:
 
@@ -1373,33 +1373,33 @@ In this chapter:
 
 **(B)** the evaluation of the results of such testing.
 
-(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2948, § 581; amended Pub. L. 114–120, title II, § 209(8), Feb. 8, 2016, 130 Stat. 41; Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(F), Dec. 23, 2016, 130 Stat. 2334; Pub. L. 115–232, div. C, title XXXV, § 3531(c)(8), Aug. 13, 2018, 132 Stat. 2320; renumbered § 1171 and amended Pub. L. 115–282, title I, §§ 108(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4208, 4240.)
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2948, § 581; amended Pub. L. 114–120, title II, § 209(8), Feb. 8, 2016, 130 Stat. 41; Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(F), Dec. 23, 2016, 130 Stat. 2334; Pub. L. 115–232, div. C, title XXXV, § 3531(c)(8), Aug. 13, 2018, 132 Stat. 2320; renumbered § 1171 and amended Pub. L. 115–282, title I, §§ 108(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4208, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 108(b), renumbered section 581 of this title as this section.
+2018—Pub. L. 115–282, § 108(b), renumbered section 581 of this title as this section.
 
-Par. (2). Pub. L. 115–282, § 123(b)(2), substituted “section 308” for “section 56”.
+Par. (2). Pub. L. 115–282, § 123(b)(2), substituted “section 308” for “section 56”.
 
 Pars. (4) to (12). Pub. L. 115–232 redesignated pars. (5) to (12) as (4) to (11), respectively, and struck out former par. (4) which defined “Commandant” as the Commandant of the Coast Guard.
 
-2016—Par. (3). Pub. L. 114–328, § 899(b)(1)(F)(ii), added par. (3). Former par. (3) redesignated (4).
+2016—Par. (3). Pub. L. 114–328, § 899(b)(1)(F)(ii), added par. (3). Former par. (3) redesignated (4).
 
-Pars. (4), (5). Pub. L. 114–328, § 899(b)(1)(F)(i), redesignated pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
+Pars. (4), (5). Pub. L. 114–328, § 899(b)(1)(F)(i), redesignated pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
 
 Par. (5)(B). Pub. L. 114–120 substituted “$300,000,000,” for “$300,000,0000,”.
 
-Pars. (6), (7). Pub. L. 114–328, § 899(b)(1)(F)(i), redesignated pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (9).
+Pars. (6), (7). Pub. L. 114–328, § 899(b)(1)(F)(i), redesignated pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (9).
 
-Par. (8). Pub. L. 114–328, § 899(b)(1)(F)(iii), added par. (8). Former par. (8) redesignated (10).
+Par. (8). Pub. L. 114–328, § 899(b)(1)(F)(iii), added par. (8). Former par. (8) redesignated (10).
 
-Pars. (9) to (12). Pub. L. 114–328, § 899(b)(1)(F)(i), redesignated pars. (7) to (10) as (9) to (12), respectively.
+Pars. (9) to (12). Pub. L. 114–328, § 899(b)(1)(F)(i), redesignated pars. (7) to (10) as (9) to (12), respectively.
 
 ## SUBCHAPTER V—COAST GUARD MISSION READINESS
 
-### § 1181. Special appropriations
+### § 1181. Special appropriations
 
 In addition to amounts otherwise available, there is appropriated to the Coast Guard for fiscal year 2025, out of any money in the Treasury not otherwise appropriated, $24,593,500,000, to remain available until September 30, 2029, notwithstanding paragraphs (1) and (2) of section 1105(a) and sections 1131, 1132, 1133, and 1156, to use expedited processes to procure or acquire new operational assets and systems, to maintain existing assets and systems, to design, construct, plan, engineer, and improve necessary shore infrastructure, and to enhance operational resilience for monitoring, search and rescue, interdiction, hardening of maritime approaches, and navigational safety, of which—
 
@@ -1445,4 +1445,4 @@ In addition to amounts otherwise available, there is appropriated to the Coast G
 
 **(13)** $75,000,000 is provided to contract the services of, acquire, or procure autonomous maritime systems.
 
-(Added Pub. L. 119–21, title IV, § 40001(a), July 4, 2025, 139 Stat. 127.)
+(Added Pub. L. 119–21, title IV, § 40001(a), July 4, 2025, 139 Stat. 127.)

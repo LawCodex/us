@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 75—HIGH SEAS FISHING COMPLIANCE
 
-## § 5501. Purpose
+## § 5501. Purpose
 
 It is the purpose of this chapter—
 
@@ -23,7 +23,7 @@ It is the purpose of this chapter—
 
 **(2)** to establish a system of permitting, reporting, and regulation for vessels of the United States fishing on the high seas.
 
-(Pub. L. 104–43, title I, § 102, Nov. 3, 1995, 109 Stat. 367.)
+(Pub. L. 104–43, title I, § 102, Nov. 3, 1995, 109 Stat. 367.)
 
 **Editorial Notes**
 
@@ -35,15 +35,15 @@ This chapter, referred to in text, was in the original “this Act”, and was t
 
 **Effective Date**
 
-Pub. L. 104–43, title I, § 111, Nov. 3, 1995, 109 Stat. 376, provided that: “This title [enacting this chapter] shall take effect 120 days after the date of enactment of this Act [Nov. 3, 1995].”
+Pub. L. 104–43, title I, § 111, Nov. 3, 1995, 109 Stat. 376, provided that: “This title [enacting this chapter] shall take effect 120 days after the date of enactment of this Act [Nov. 3, 1995].”
 
 **Short Title**
 
-Pub. L. 104–43, § 1, Nov. 3, 1995, 109 Stat. 366, provided that: “This Act [enacting this chapter, chapters 76 (§ 5601 et seq.) and 77 (§ 5701 et seq.) of this title, sections 971j, 971k, and 1826d to 1826g of this title, and sections 1980a and 1980b of Title 22, Foreign Relations and Intercourse, amending sections 971, 971b, 971c to 971e, 971h, 971i, 973g, 1383a, and 5002 of this title and section 1977 of Title 22, enacting provisions set out as notes under this section, sections 971, 971c, 1383a, 1801, 1821, 1823, 1826d, 5601, and 5701 of this title, and section 1980a of Title 22, and amending provisions set out as a note under section 1823 of this title] may be cited as the ‘Fisheries Act of 1995’.”
+Pub. L. 104–43, § 1, Nov. 3, 1995, 109 Stat. 366, provided that: “This Act [enacting this chapter, chapters 76 (§ 5601 et seq.) and 77 (§ 5701 et seq.) of this title, sections 971j, 971k, and 1826d to 1826g of this title, and sections 1980a and 1980b of Title 22, Foreign Relations and Intercourse, amending sections 971, 971b, 971c to 971e, 971h, 971i, 973g, 1383a, and 5002 of this title and section 1977 of Title 22, enacting provisions set out as notes under this section, sections 971, 971c, 1383a, 1801, 1821, 1823, 1826d, 5601, and 5701 of this title, and section 1980a of Title 22, and amending provisions set out as a note under section 1823 of this title] may be cited as the ‘Fisheries Act of 1995’.”
 
-Pub. L. 104–43, title I, § 101, Nov. 3, 1995, 109 Stat. 367, provided that: “This title [enacting this chapter] may be cited as the ‘High Seas Fishing Compliance Act of 1995’.”
+Pub. L. 104–43, title I, § 101, Nov. 3, 1995, 109 Stat. 367, provided that: “This title [enacting this chapter] may be cited as the ‘High Seas Fishing Compliance Act of 1995’.”
 
-## § 5502. Definitions
+## § 5502. Definitions
 
 As used in this chapter—
 
@@ -91,7 +91,7 @@ As used in this chapter—
 
 **(10)** The terms “vessel subject to the jurisdiction of the United States” and “vessel without nationality” have the same meaning as in subsections (c) and (d) of section 70502 of title 46.
 
-(Pub. L. 104–43, title I, § 103, Nov. 3, 1995, 109 Stat. 367; Pub. L. 106–562, title III, § 305, Dec. 23, 2000, 114 Stat. 2807.)
+(Pub. L. 104–43, title I, § 103, Nov. 3, 1995, 109 Stat. 367; Pub. L. 106–562, title III, § 305, Dec. 23, 2000, 114 Stat. 2807.)
 
 **Editorial Notes**
 
@@ -101,7 +101,7 @@ This chapter, referred to in text, was in the original “this Act”, and was t
 
 **Codification**
 
-In par. (10), “subsections (c) and (d) of section 70502 of title 46” substituted for “section 3(c) of the Maritime Drug Law Enforcement Act (46 U.S.C. 1903(c))” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 70502 of Title 46, Shipping.
+In par. (10), “subsections (c) and (d) of section 70502 of title 46” substituted for “section 3(c) of the Maritime Drug Law Enforcement Act (46 U.S.C. 1903(c))” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 70502 of Title 46, Shipping.
 
 **Amendments**
 
@@ -113,7 +113,7 @@ In par. (10), “subsections (c) and (d) of section 70502 of title 46” substit
 
 Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–43, set out as a note under section 5501 of this title.
 
-## § 5503. Permitting
+## § 5503. Permitting
 
 **(a) In general**
 
@@ -173,7 +173,7 @@ No high seas fishing vessel shall engage in harvesting operations on the high se
 
 **(2)** the vessel is no longer documented under the laws of the United States or eligible for such documentation.
 
-(Pub. L. 104–43, title I, § 104, Nov. 3, 1995, 109 Stat. 369; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 114–81, title I, § 108, Nov. 5, 2015, 129 Stat. 658.)
+(Pub. L. 104–43, title I, § 104, Nov. 3, 1995, 109 Stat. 369; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 114–81, title I, § 108, Nov. 5, 2015, 129 Stat. 658.)
 
 **Editorial Notes**
 
@@ -191,13 +191,13 @@ This chapter, referred to in subsec. (e)(2), was in the original “this Act”,
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date**
 
 Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–43, set out as a note under section 5501 of this title.
 
-## § 5504. Responsibilities of Secretary
+## § 5504. Responsibilities of Secretary
 
 **(a) Record**
 
@@ -231,13 +231,13 @@ The Secretary, after consultation with the Secretary of State and the Secretary 
 
 The Secretary, in consultation with the Secretary of State, shall publish in the Federal Register, from time to time, a notice listing international conservation and management measures recognized by the United States.
 
-(Pub. L. 104–43, title I, § 105, Nov. 3, 1995, 109 Stat. 370; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 104–43, title I, § 105, Nov. 3, 1995, 109 Stat. 370; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 **Amendments**
 
@@ -247,7 +247,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date**
 
@@ -257,7 +257,7 @@ Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 5505. Unlawful activities
+## § 5505. Unlawful activities
 
 It is unlawful for any person subject to the jurisdiction of the United States—
 
@@ -281,7 +281,7 @@ It is unlawful for any person subject to the jurisdiction of the United States�
 
 **(10)** to violate any provision of this chapter or any regulation or permit issued under this chapter.
 
-(Pub. L. 104–43, title I, § 106, Nov. 3, 1995, 109 Stat. 371.)
+(Pub. L. 104–43, title I, § 106, Nov. 3, 1995, 109 Stat. 371.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -289,7 +289,7 @@ It is unlawful for any person subject to the jurisdiction of the United States�
 
 Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–43, set out as a note under section 5501 of this title.
 
-## § 5506. Enforcement provisions
+## § 5506. Enforcement provisions
 
 **(a) Duties of Secretaries**
 
@@ -329,7 +329,7 @@ If any authorized officer finds that a high seas fishing vessel is operating or 
 
 Any person assessed a civil penalty for, or convicted of, any violation of this chapter shall be liable for the cost incurred in storage, care, and maintenance of any living marine resource or other property seized in connection with the violation.
 
-(Pub. L. 104–43, title I, § 107, Nov. 3, 1995, 109 Stat. 372.)
+(Pub. L. 104–43, title I, § 107, Nov. 3, 1995, 109 Stat. 372.)
 
 **Editorial Notes**
 
@@ -347,7 +347,7 @@ Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 5507. Civil penalties and permit sanctions
+## § 5507. Civil penalties and permit sanctions
 
 **(a) Civil penalties**
 
@@ -399,7 +399,7 @@ Any person against whom a civil penalty is assessed under subsection (a) or agai
 
 **(2)** A high seas fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used in the commission of an act prohibited by section 5505 of this title shall be liable in rem for any civil penalty assessed for such violation under subsection (a) and may be proceeded against in any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel that may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
 
-(Pub. L. 104–43, title I, § 108, Nov. 3, 1995, 109 Stat. 373.)
+(Pub. L. 104–43, title I, § 108, Nov. 3, 1995, 109 Stat. 373.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -407,7 +407,7 @@ Any person against whom a civil penalty is assessed under subsection (a) or agai
 
 Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–43, set out as a note under section 5501 of this title.
 
-## § 5508. Criminal offenses
+## § 5508. Criminal offenses
 
 **(a) Offenses**
 
@@ -417,7 +417,7 @@ A person is guilty of an offense if the person commits any act prohibited by par
 
 Any offense described in subsection (a) is a class A misdemeanor punishable by a fine under title 18, or imprisonment for not more than one year, or both; except that if in the commission of any offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any authorized officer, or places any such officer in fear of imminent bodily injury, the offense is a felony punishable by a fine under title 18, or imprisonment for not more than 10 years, or both.
 
-(Pub. L. 104–43, title I, § 109, Nov. 3, 1995, 109 Stat. 375.)
+(Pub. L. 104–43, title I, § 109, Nov. 3, 1995, 109 Stat. 375.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -425,7 +425,7 @@ Any offense described in subsection (a) is a class A misdemeanor punishable by a
 
 Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–43, set out as a note under section 5501 of this title.
 
-## § 5509. Forfeitures
+## § 5509. Forfeitures
 
 **(a) In general**
 
@@ -461,7 +461,7 @@ upon receipt of a satisfactory bond or other security from any person claiming s
 
 For purposes of this section, all living marine resources found on board a high seas fishing vessel and which are seized in connection with an act prohibited by section 5505 of this title are presumed to have been taken or retained in violation of this chapter, but the presumption can be rebutted by an appropriate showing of evidence to the contrary.
 
-(Pub. L. 104–43, title I, § 110, Nov. 3, 1995, 109 Stat. 375.)
+(Pub. L. 104–43, title I, § 110, Nov. 3, 1995, 109 Stat. 375.)
 
 **Statutory Notes and Related Subsidiaries**
 

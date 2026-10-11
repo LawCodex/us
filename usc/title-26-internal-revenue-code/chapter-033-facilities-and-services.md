@@ -17,35 +17,35 @@ retrieved: 2026-10-11
 
 **Repeal of Subchapter B**
 
-Table of subchapters for chapter 33 amended by striking out the item relating to subchapter B dealing with Communications, effective Jan. 1, 1982, see Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843. Repeal of item B was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
+Table of subchapters for chapter 33 amended by striking out the item relating to subchapter B dealing with Communications, effective Jan. 1, 1982, see Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843. Repeal of item B was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
 
 **Editorial Notes**
 
 **Amendments**
 
-1970—Pub. L. 91–258, title II, § 205(c)(5), May 21, 1970, 84 Stat. 242, substituted “Transportation by air” for “Transportation of persons by air” in item for subchapter C.
+1970—Pub. L. 91–258, title II, § 205(c)(5), May 21, 1970, 84 Stat. 242, substituted “Transportation by air” for “Transportation of persons by air” in item for subchapter C.
 
-1965—Pub. L. 89–44, title III, §§ 301, 304, June 21, 1965, 79 Stat. 145, 148, struck out items for subchapters A and D.
+1965—Pub. L. 89–44, title III, §§ 301, 304, June 21, 1965, 79 Stat. 145, 148, struck out items for subchapters A and D.
 
-1962—Pub. L. 87–508, § 5(c)(1), June 28, 1962, 76 Stat. 118, substituted “Transportation of persons by air” for “Transportation of persons” in item for subchapter C.
+1962—Pub. L. 87–508, § 5(c)(1), June 28, 1962, 76 Stat. 118, substituted “Transportation of persons by air” for “Transportation of persons” in item for subchapter C.
 
-1958—Pub. L. 85–475, § 4(b)(1), June 30, 1958, 72 Stat. 260, substituted “Transportation of persons” for “Transportation” in item for subchapter C.
+1958—Pub. L. 85–475, § 4(b)(1), June 30, 1958, 72 Stat. 260, substituted “Transportation of persons” for “Transportation” in item for subchapter C.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–508, § 5(d), June 28, 1962, 76 Stat. 119, provided in part that: “The amendment made by subsection (c)(1) [amending item for subchapter C in the analysis] shall apply only with respect to transportation beginning after November 15, 1962.”
+Pub. L. 87–508, § 5(d), June 28, 1962, 76 Stat. 119, provided in part that: “The amendment made by subsection (c)(1) [amending item for subchapter C in the analysis] shall apply only with respect to transportation beginning after November 15, 1962.”
 
 ## [Subchapter A—Repealed]
 
-### [§§ 4231 to 4234. Repealed. Pub. L. 89–44, title III, § 301, June 21, 1965, 79 Stat. 145]
+### [§§ 4231 to 4234. Repealed. Pub. L. 89–44, title III, § 301, June 21, 1965, 79 Stat. 145]
 
-Section 4231, acts Aug. 16, 1954, ch. 736, 68A Stat. 497; Aug. 6, 1956, ch. 1019, § 1, 70 Stat. 1074; Sept. 2, 1958, Pub. L. 85–859, title I, § 131(a)–(c), 72 Stat. 1286, 1287; Apr. 8, 1960, Pub. L. 86–422, § 1, 74 Stat. 41, imposed a tax on admissions, permanent use or lease of boxes or seats, sales outside of box office in excess of established price, sales by proprietors in excess of established price, and cabarets.
+Section 4231, acts Aug. 16, 1954, ch. 736, 68A Stat. 497; Aug. 6, 1956, ch. 1019, § 1, 70 Stat. 1074; Sept. 2, 1958, Pub. L. 85–859, title I, § 131(a)–(c), 72 Stat. 1286, 1287; Apr. 8, 1960, Pub. L. 86–422, § 1, 74 Stat. 41, imposed a tax on admissions, permanent use or lease of boxes or seats, sales outside of box office in excess of established price, sales by proprietors in excess of established price, and cabarets.
 
-Section 4232, acts Aug. 16, 1954, ch. 736, 68A Stat. 498; Sept. 2, 1958, Pub. L. 85–859, title I, § 131(d), 72 Stat. 1287, defined admission, roof garden, cabaret, or other similar place, and performance for profit as used in section 4231.
+Section 4232, acts Aug. 16, 1954, ch. 736, 68A Stat. 498; Sept. 2, 1958, Pub. L. 85–859, title I, § 131(d), 72 Stat. 1287, defined admission, roof garden, cabaret, or other similar place, and performance for profit as used in section 4231.
 
-Section 4233, acts Aug. 16, 1954, ch. 736, 68A Stat. 498; Aug. 11, 1955, ch. 792, § 1, 69 Stat. 675; Apr. 16, 1958, Pub. L. 85–380, §§ 1–3, 72 Stat. 88; Sept. 2, 1958, Pub. L. 85–859, title I, § 131(e), (f), 72 Stat. 1287; June 25, 1959, Pub. L. 86–70, § 22(a), 73 Stat. 146; Sept. 21, 1959, Pub. L. 86–319, § 1, 73 Stat. 590; Sept. 21, 1959, Pub. L. 86–344, § 2(c), 73 Stat. 617; July 12, 1960, Pub. L. 86–624, § 18(d), 74 Stat. 416, granted certain exemptions to certain charitable, educational, or religious entertainments, agricultural fairs, certain musical or dramatic performances, swimming pools, etc., home and garden tours, historic sites, certain amateur theatricals, certain amateur baseball games, rodeos, pageants, and certain benefit performances.
+Section 4233, acts Aug. 16, 1954, ch. 736, 68A Stat. 498; Aug. 11, 1955, ch. 792, § 1, 69 Stat. 675; Apr. 16, 1958, Pub. L. 85–380, §§ 1–3, 72 Stat. 88; Sept. 2, 1958, Pub. L. 85–859, title I, § 131(e), (f), 72 Stat. 1287; June 25, 1959, Pub. L. 86–70, § 22(a), 73 Stat. 146; Sept. 21, 1959, Pub. L. 86–319, § 1, 73 Stat. 590; Sept. 21, 1959, Pub. L. 86–344, § 2(c), 73 Stat. 617; July 12, 1960, Pub. L. 86–624, § 18(d), 74 Stat. 416, granted certain exemptions to certain charitable, educational, or religious entertainments, agricultural fairs, certain musical or dramatic performances, swimming pools, etc., home and garden tours, historic sites, certain amateur theatricals, certain amateur baseball games, rodeos, pageants, and certain benefit performances.
 
 Section 4234, act Aug. 16, 1954, ch. 736, 68A Stat. 501, required that price of tickets be printed on face or back of such tickets and provided a penalty for selling tickets not so stamped.
 
@@ -55,13 +55,13 @@ Section 4234, act Aug. 16, 1954, ch. 736, 68A Stat. 501, required that price of 
 
 Repeal applicable with respect to admissions, services, or uses after noon, December 31, 1965, see section 701(b)(1) of Pub. L. 89–44, set out as an Effective Date of 1965 Amendment note under section 4291 of this title.
 
-### [§§ 4241 to 4243. Repealed. Pub. L. 89–44, title III, § 301, June 21, 1965, 79 Stat. 145]
+### [§§ 4241 to 4243. Repealed. Pub. L. 89–44, title III, § 301, June 21, 1965, 79 Stat. 145]
 
-Section 4241, acts Aug. 16, 1954, ch. 736, 68A Stat. 501; Sept. 2, 1958, Pub. L. 85–859, title I, § 132(a), 72 Stat. 1288; Sept. 21, 1959, Pub. L. 86–344, § 3(b), 73 Stat. 618, imposed a tax on dues or membership fees, initiation, fees, and life memberships in social, athletic, or sporting clubs or organizations.
+Section 4241, acts Aug. 16, 1954, ch. 736, 68A Stat. 501; Sept. 2, 1958, Pub. L. 85–859, title I, § 132(a), 72 Stat. 1288; Sept. 21, 1959, Pub. L. 86–344, § 3(b), 73 Stat. 618, imposed a tax on dues or membership fees, initiation, fees, and life memberships in social, athletic, or sporting clubs or organizations.
 
 Section 4242, act Aug. 16, 1954, ch. 736, 68A Stat. 501, defined dues and initiation fees as used in section 4241.
 
-Section 4243, acts Aug. 16, 1954, ch. 736, 68A Stat. 502; Sept. 2, 1958, Pub. L. 85–859, title I, § 132(b), 72 Stat. 1288; Sept. 21, 1959, Pub. L. 86–344, § 3(a), 73 Stat. 618, granted exemptions to fraternal organizations, payments for capital improvements, and nonprofit swimming or skating facilities.
+Section 4243, acts Aug. 16, 1954, ch. 736, 68A Stat. 502; Sept. 2, 1958, Pub. L. 85–859, title I, § 132(b), 72 Stat. 1288; Sept. 21, 1959, Pub. L. 86–344, § 3(a), 73 Stat. 618, granted exemptions to fraternal organizations, payments for capital improvements, and nonprofit swimming or skating facilities.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -73,9 +73,9 @@ Repeal applicable with respect to dues and membership fees attributable to perio
 
 **Repeal**
 
-This subchapter, relating to the tax on communication, was repealed by Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
+This subchapter, relating to the tax on communication, was repealed by Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
 
-### § 4251. Imposition of tax
+### § 4251. Imposition of tax
 
 **(a) Tax imposed**
 
@@ -121,15 +121,15 @@ In the case of any prepaid telephone card which entitles the user other than to 
 
 For purposes of this subsection, the term “prepaid telephone card” means any card or any other similar arrangement which permits its holder to obtain communications services and pay for such services in advance.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 503; Pub. L. 85–859, title I, § 133(a), Sept. 2, 1958, 72 Stat. 1289; Pub. L. 86–75, § 5, June 30, 1959, 73 Stat. 158; Pub. L. 86–564, title II, § 202(a)(2), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, § 3(a)(2), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, § 3(a)(2), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, § 3(a)(2), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, § 2(a)(2), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title III, § 302, title VII, § 701(b)(2)(B), June 21, 1965, 79 Stat. 145, 156; Pub. L. 89–368, title II, § 202(a), Mar. 15, 1966, 80 Stat. 66; Pub. L. 90–285, § 1(a)(3), Apr. 12, 1968, 82 Stat. 92; Pub. L. 90–364, title I, § 105(b)(1), (2), June 28, 1968, 82 Stat. 265; Pub. L. 91–172, title VII, § 702(b)(1), (2), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(1), (2), Dec. 31, 1970, 84 Stat. 1843; Pub. L. 96–499, title XI, § 1151, Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title VIII, § 821, Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–248, title II, § 282(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 98–369, div. A, title I, § 26, July 18, 1984, 98 Stat. 507; Pub. L. 99–514, title XVIII, § 1801(b), Oct. 22, 1986, 100 Stat. 2785; Pub. L. 100–203, title X, § 10501, Dec. 22, 1987, 101 Stat. 1330–438; Pub. L. 101–508, title XI, § 11217(a), Nov. 5, 1990, 104 Stat. 1388–437; Pub. L. 105–34, title X, § 1034(a), Aug. 5, 1997, 111 Stat. 937; Pub. L. 105–206, title VI, § 6010(i), July 22, 1998, 112 Stat. 815.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 503; Pub. L. 85–859, title I, § 133(a), Sept. 2, 1958, 72 Stat. 1289; Pub. L. 86–75, § 5, June 30, 1959, 73 Stat. 158; Pub. L. 86–564, title II, § 202(a)(2), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, § 3(a)(2), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, § 3(a)(2), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, § 3(a)(2), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, § 2(a)(2), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title III, § 302, title VII, § 701(b)(2)(B), June 21, 1965, 79 Stat. 145, 156; Pub. L. 89–368, title II, § 202(a), Mar. 15, 1966, 80 Stat. 66; Pub. L. 90–285, § 1(a)(3), Apr. 12, 1968, 82 Stat. 92; Pub. L. 90–364, title I, § 105(b)(1), (2), June 28, 1968, 82 Stat. 265; Pub. L. 91–172, title VII, § 702(b)(1), (2), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(1), (2), Dec. 31, 1970, 84 Stat. 1843; Pub. L. 96–499, title XI, § 1151, Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title VIII, § 821, Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–248, title II, § 282(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 98–369, div. A, title I, § 26, July 18, 1984, 98 Stat. 507; Pub. L. 99–514, title XVIII, § 1801(b), Oct. 22, 1986, 100 Stat. 2785; Pub. L. 100–203, title X, § 10501, Dec. 22, 1987, 101 Stat. 1330–438; Pub. L. 101–508, title XI, § 11217(a), Nov. 5, 1990, 104 Stat. 1388–437; Pub. L. 105–34, title X, § 1034(a), Aug. 5, 1997, 111 Stat. 937; Pub. L. 105–206, title VI, § 6010(i), July 22, 1998, 112 Stat. 815.)
 
 **Editorial Notes**
 
 **Codification**
 
-This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981.
+This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981.
 
-Pub. L. 96–499, title XI, § 1151, Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title VIII, § 821, Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–248, title II, § 282(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 98–369, div. A, title I, § 26, July 18, 1984, 98 Stat. 507; Pub. L. 99–514, title XVIII, § 1801(b), Oct. 22, 1986, 100 Stat. 2785; Pub. L. 100–203, title X, § 10501, Dec. 22, 1987, 101 Stat. 1330–438; Pub. L. 101–508, title XI, § 11217(a), Nov. 5, 1990, 104 Stat. 1388–437, amended this section, relating to the imposition of the tax on communications, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date, without amending Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, which, as amended, had repealed this subchapter, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982.
+Pub. L. 96–499, title XI, § 1151, Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title VIII, § 821, Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–248, title II, § 282(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 98–369, div. A, title I, § 26, July 18, 1984, 98 Stat. 507; Pub. L. 99–514, title XVIII, § 1801(b), Oct. 22, 1986, 100 Stat. 2785; Pub. L. 100–203, title X, § 10501, Dec. 22, 1987, 101 Stat. 1330–438; Pub. L. 101–508, title XI, § 11217(a), Nov. 5, 1990, 104 Stat. 1388–437, amended this section, relating to the imposition of the tax on communications, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date, without amending Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, which, as amended, had repealed this subchapter, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982.
 
 **Amendments**
 
@@ -141,7 +141,7 @@ Pub. L. 96–499, title XI, § 1151, Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97�
 
 1987—Subsec. (b)(2). Pub. L. 100–203 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘applicable percentage’ means—
 
-| **“With respect to amount paid pursuant to**  **bills first rendered:** | **The percentage is:** |
+| **“With respect to amount paid pursuant to** **bills first rendered:** | **The percentage is:** |
 |---|---|
 | During 1983, 1984, 1985, 1986, or 1987 | 3 |
 | During 1988 or thereafter | 0.” |
@@ -167,41 +167,41 @@ Pub. L. 96–499, title XI, § 1151, Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97�
 
 Subsec. (b). Pub. L. 97–248 added subsec. (b) and struck out former subsec. (b) which provided that the tax imposed by former subsec. (a) would not apply to amounts paid pursuant to bills first rendered on or after January 1, 1985.
 
-1981—Subsec. (a)(2). Pub. L. 97–34, § 821(a), substituted “During 1982, 1983, or 1984” for “During 1982” in table.
+1981—Subsec. (a)(2). Pub. L. 97–34, § 821(a), substituted “During 1982, 1983, or 1984” for “During 1982” in table.
 
-Subsec. (b). Pub. L. 97–34, § 821(b), extended termination date to Jan. 1, 1985, from Jan. 1, 1983.
+Subsec. (b). Pub. L. 97–34, § 821(b), extended termination date to Jan. 1, 1985, from Jan. 1, 1983.
 
-1980—Subsec. (a)(2). Pub. L. 96–499, § 1151(a), substituted “During 1980 or 1981” for “During 1980” and “During 1982” for “During 1981” in table.
+1980—Subsec. (a)(2). Pub. L. 96–499, § 1151(a), substituted “During 1980 or 1981” for “During 1980” and “During 1982” for “During 1981” in table.
 
-Subsec. (b). Pub. L. 96–499, § 1151(b), substituted “1983” for “1982”.
+Subsec. (b). Pub. L. 96–499, § 1151(b), substituted “1983” for “1982”.
 
-1970—Subsec. (a)(2). Pub. L. 91–614, § 201(b)(1), substituted provisions providing the rate of tax on amounts paid for communication services pursuant to bills first rendered before Jan. 1, 1973 is 10% of such amount, amounts paid pursuant to bills first rendered during 1973 is 9% of such amount, during 1974 is 8% of such amount, during 1975 is 7% of such amount, during 1976 is 6% of such amount, during 1977 is 5% of such amount, during 1978 is 4% of such amount, during 1979 is 3% of such amount, during 1980 is 2% of such amount, and during 1981 is 1% of such amount for provisions providing the rate of tax on amounts paid for communication services pursuant to bills first rendered before Jan. 1, 1971 is 10% of such amount, amounts paid pursuant to bills first rendered during 1971 is 5% of such amount, during 1972 is 3% of such amount, and during 1973 is 1% of such amount.
+1970—Subsec. (a)(2). Pub. L. 91–614, § 201(b)(1), substituted provisions providing the rate of tax on amounts paid for communication services pursuant to bills first rendered before Jan. 1, 1973 is 10% of such amount, amounts paid pursuant to bills first rendered during 1973 is 9% of such amount, during 1974 is 8% of such amount, during 1975 is 7% of such amount, during 1976 is 6% of such amount, during 1977 is 5% of such amount, during 1978 is 4% of such amount, during 1979 is 3% of such amount, during 1980 is 2% of such amount, and during 1981 is 1% of such amount for provisions providing the rate of tax on amounts paid for communication services pursuant to bills first rendered before Jan. 1, 1971 is 10% of such amount, amounts paid pursuant to bills first rendered during 1971 is 5% of such amount, during 1972 is 3% of such amount, and during 1973 is 1% of such amount.
 
-Subsec. (b). Pub. L. 91–614, § 201(b)(2), substituted “January 1, 1982” for “January 1, 1974”.
+Subsec. (b). Pub. L. 91–614, § 201(b)(2), substituted “January 1, 1982” for “January 1, 1974”.
 
-1969—Subsec. (a)(2). Pub. L. 91–172, § 702(b)(1), increased rate of tax on amounts paid for communication services from 5 to 10 percent during 1970, from 3 to 5 percent during 1971, from 1 to 3 percent during 1972, and imposed a 1 percent tax on amounts paid for communication services during 1973.
+1969—Subsec. (a)(2). Pub. L. 91–172, § 702(b)(1), increased rate of tax on amounts paid for communication services from 5 to 10 percent during 1970, from 3 to 5 percent during 1971, from 1 to 3 percent during 1972, and imposed a 1 percent tax on amounts paid for communication services during 1973.
 
-Subsec. (b). Pub. L. 91–172, § 702(b)(2), substituted “January 1, 1974” for “January 1, 1973”.
+Subsec. (b). Pub. L. 91–172, § 702(b)(2), substituted “January 1, 1974” for “January 1, 1973”.
 
-1968—Subsec. (a)(2). Pub. L. 90–364, § 105(b)(1), extended from April 30, 1968, through the end of 1969 the period for the imposition of the 10 percent rate, thereby increasing the rate from 1 percent to 10 percent for the period May 1, 1968, through the end of 1968 and from 0 percent to 10 percent for 1969, and imposed a rate of 5 percent during 1970, a rate of 3 percent during 1971, and a rate of 1 percent during 1972.
+1968—Subsec. (a)(2). Pub. L. 90–364, § 105(b)(1), extended from April 30, 1968, through the end of 1969 the period for the imposition of the 10 percent rate, thereby increasing the rate from 1 percent to 10 percent for the period May 1, 1968, through the end of 1968 and from 0 percent to 10 percent for 1969, and imposed a rate of 5 percent during 1970, a rate of 3 percent during 1971, and a rate of 1 percent during 1972.
 
 Pub. L. 90–285 substituted “April 30, 1968” and “May 1, 1968” for “March 31, 1968” and “April 1, 1968” respectively.
 
-Subsec. (b). Pub. L. 90–364, § 105(b)(2), substituted “1973” for “1969”.
+Subsec. (b). Pub. L. 90–364, § 105(b)(2), substituted “1973” for “1969”.
 
-Subsec. (c). Pub. L. 90–364, § 105(b)(2), extended provisions calling for treatment of bills not rendered before the end of a year for service rendered before November 1 of that year as having been first rendered on December 31 of that year so as to include years subsequent to 1968 and struck out special provision for the application of subsec. (a) in the case of communication services rendered before March 1, 1968, for which a bill was not rendered before May 1, 1968.
+Subsec. (c). Pub. L. 90–364, § 105(b)(2), extended provisions calling for treatment of bills not rendered before the end of a year for service rendered before November 1 of that year as having been first rendered on December 31 of that year so as to include years subsequent to 1968 and struck out special provision for the application of subsec. (a) in the case of communication services rendered before March 1, 1968, for which a bill was not rendered before May 1, 1968.
 
 Pub. L. 90–285 substituted “March 1, 1968,” for “February 1, 1968”, “May 1, 1968” for “April 1, 1968”, “April 30, 1968” for “March 31, 1968”, and “February 29, 1968” for “January 31, 1968”.
 
-1966—Subsec. (a)(2). Pub. L. 89–368, § 202(a)(1), increased to 10 percent the schedule of rates for tax imposed for the period up to April 1, 1968, and authorized a reduction to 1 percent for the period after March 31, 1968, and before January 1, 1969.
+1966—Subsec. (a)(2). Pub. L. 89–368, § 202(a)(1), increased to 10 percent the schedule of rates for tax imposed for the period up to April 1, 1968, and authorized a reduction to 1 percent for the period after March 31, 1968, and before January 1, 1969.
 
-Subsec. (c). Pub. L. 89–368, § 202(a)(2), conformed subsection to rate reduction schedule alterations by providing that, in the case of communications services rendered before February 1, 1968, for which a bill has not been rendered before April 1, 1968, the bill shall be treated as having been first rendered on March 31, 1968, and, in the case of services rendered after January 31, 1968, and before November 1, 1968, for which a bill has not been rendered before January 1, 1969, the bill shall be treated as having first been rendered on December 31, 1968.
+Subsec. (c). Pub. L. 89–368, § 202(a)(2), conformed subsection to rate reduction schedule alterations by providing that, in the case of communications services rendered before February 1, 1968, for which a bill has not been rendered before April 1, 1968, the bill shall be treated as having been first rendered on March 31, 1968, and, in the case of services rendered after January 31, 1968, and before November 1, 1968, for which a bill has not been rendered before January 1, 1969, the bill shall be treated as having first been rendered on December 31, 1968.
 
-1965—Subsec. (a). Pub. L. 89–44, § 302, substituted local telephone service, toll telephone service, and teletypewriter exchange service, for general telephone service, toll telephone service, telegraph service, teletypewriter exchange service, wire mileage service, and wire and equipment service as the taxed services and reduced the rate of tax to 3 percent during 1966, 2 percent during 1967, and 1 percent during 1968.
+1965—Subsec. (a). Pub. L. 89–44, § 302, substituted local telephone service, toll telephone service, and teletypewriter exchange service, for general telephone service, toll telephone service, telegraph service, teletypewriter exchange service, wire mileage service, and wire and equipment service as the taxed services and reduced the rate of tax to 3 percent during 1966, 2 percent during 1967, and 1 percent during 1968.
 
-Subsec. (b). Pub. L. 89–44, § 302, added subsec. (b). Pub. L. 89–44, § 701(b)(2)(B), repealed former subsec. (b), as in effect June 30, 1965, effective on and after July 1, 1965. Such repealed provision had called for termination of the tax on general telephone service as of July 1, 1965.
+Subsec. (b). Pub. L. 89–44, § 302, added subsec. (b). Pub. L. 89–44, § 701(b)(2)(B), repealed former subsec. (b), as in effect June 30, 1965, effective on and after July 1, 1965. Such repealed provision had called for termination of the tax on general telephone service as of July 1, 1965.
 
-Subsec. (c). Pub. L. 89–44, § 302, added subsec. (c).
+Subsec. (c). Pub. L. 89–44, § 302, added subsec. (c).
 
 1964—Subsec. (b)(2). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964” in two places.
 
@@ -225,7 +225,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title X, § 1034(b), Aug. 5, 1997, 111 Stat. 937, provided that: “The amendments made by this section [amending this section] shall apply to amounts paid in calendar months beginning more than 60 days after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title X, § 1034(b), Aug. 5, 1997, 111 Stat. 937, provided that: “The amendments made by this section [amending this section] shall apply to amounts paid in calendar months beginning more than 60 days after the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1986 Amendment**
 
@@ -233,7 +233,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title II, § 282(b), Sept. 3, 1982, 96 Stat. 568, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to amounts paid for communications services pursuant to bills first rendered after December 31, 1982.”
+Pub. L. 97–248, title II, § 282(b), Sept. 3, 1982, 96 Stat. 568, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to amounts paid for communications services pursuant to bills first rendered after December 31, 1982.”
 
 **Effective Date of 1968 Amendments**
 
@@ -243,25 +243,25 @@ Amendment by Pub. L. 90–285 effective Mar. 31, 1968, see section 1(b) of Pub. 
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–368, title II, § 202(c), Mar. 15, 1966, 80 Stat. 66, provided that: “The amendments made by subsections (a) [amending this section] and (b) [amending section 4253 of this title] shall apply to amounts paid pursuant to bills first rendered on or after April 1, 1966, for services rendered on or after such date. In the case of amounts paid pursuant to bills rendered on or after such date for services which were rendered before such date and for which no previous bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Code in effect at the time such services were rendered, subject to the provision of section 701(b)(2) of the Excise Tax Reduction Act of 1965 [see Effective Date of 1965 Amendment note below], shall apply to the amounts paid for such services.”
+Pub. L. 89–368, title II, § 202(c), Mar. 15, 1966, 80 Stat. 66, provided that: “The amendments made by subsections (a) [amending this section] and (b) [amending section 4253 of this title] shall apply to amounts paid pursuant to bills first rendered on or after April 1, 1966, for services rendered on or after such date. In the case of amounts paid pursuant to bills rendered on or after such date for services which were rendered before such date and for which no previous bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Code in effect at the time such services were rendered, subject to the provision of section 701(b)(2) of the Excise Tax Reduction Act of 1965 [see Effective Date of 1965 Amendment note below], shall apply to the amounts paid for such services.”
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–44, title VII, § 701(b)(2)(A), June 21, 1965, 79 Stat. 156, provided that: “The amendments made by section 302 [amending this section and sections 4252, 4253, and 4254 of this title] (relating to communication services) shall apply to amounts paid pursuant to bills rendered on or after January 1, 1966, for services rendered on or after such date. In the case of amounts paid pursuant to bills rendered on or after January 1, 1966, for services which were rendered before such date and for which no previous bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Code in effect at the time such services were rendered shall apply to the amounts paid for such services.”
+Pub. L. 89–44, title VII, § 701(b)(2)(A), June 21, 1965, 79 Stat. 156, provided that: “The amendments made by section 302 [amending this section and sections 4252, 4253, and 4254 of this title] (relating to communication services) shall apply to amounts paid pursuant to bills rendered on or after January 1, 1966, for services rendered on or after such date. In the case of amounts paid pursuant to bills rendered on or after January 1, 1966, for services which were rendered before such date and for which no previous bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Code in effect at the time such services were rendered shall apply to the amounts paid for such services.”
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–859, title I, § 133(b), Sept. 2, 1958, 72 Stat. 1292, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 85–859, title I, § 133(b), Sept. 2, 1958, 72 Stat. 1292, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** Subject to the provisions of paragraph (2), the amendment made by subsection (a) [amending this section and sections 4252 to 4254 of this title] shall apply with respect to amounts paid on or after the effective date prescribed in section (1)(c) of this Act for services rendered on or after such date.
 
 > **“(2)** The amendment made by subsection (a) [amending this section and sections 4252 to 4254 of this title] shall not apply with respect to amounts paid pursuant to bills rendered before the effective date prescribed in section 1(c) of this Act. In the case of amounts paid pursuant to bills rendered on or after such date for services for which no previous bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date the provisions of subchapter B of chapter 33 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] in effect at the time such services were rendered shall apply to the amounts paid for such services.”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-### § 4252. Definitions
+### § 4252. Definitions
 
 **(a) Local telephone service** For purposes of this subchapter, the term “local telephone service” means—
 
@@ -297,13 +297,13 @@ regardless of whether such channel, groups of channels, or intercommunication sy
 
 except that such term does not include any communication service unless a separate charge is made for such service.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 503; Pub. L. 85–859, title I, § 133(a), Sept. 2, 1958, 72 Stat. 1290; Pub. L. 87–508, § 4(a), June 28, 1962, 76 Stat. 115; Pub. L. 89–44, title III, § 302, June 21, 1965, 79 Stat. 145.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 503; Pub. L. 85–859, title I, § 133(a), Sept. 2, 1958, 72 Stat. 1290; Pub. L. 87–508, § 4(a), June 28, 1962, 76 Stat. 115; Pub. L. 89–44, title III, § 302, June 21, 1965, 79 Stat. 145.)
 
 **Editorial Notes**
 
 **Codification**
 
-This subchapter, relating to the tax on communications was repealed by Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
+This subchapter, relating to the tax on communications was repealed by Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
 
 **Amendments**
 
@@ -339,13 +339,13 @@ Amendment by Pub. L. 89–44 applicable to amounts paid pursuant to bills render
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–508, § 4(c), June 28, 1962, 76 Stat. 115, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 4253 of this title] shall apply with respect to services furnished on or after January 1, 1963.”
+Pub. L. 87–508, § 4(c), June 28, 1962, 76 Stat. 115, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 4253 of this title] shall apply with respect to services furnished on or after January 1, 1963.”
 
 **Effective Date of 1958 Amendment**
 
 For effective date of amendment made by Pub. L. 85–859, see section 133(b) of Pub. L. 85–859, set out as a note under section 4251 of this title.
 
-### § 4253. Exemptions
+### § 4253. Exemptions
 
 **(a) Certain coin-operated service**
 
@@ -405,7 +405,7 @@ In order to claim an exemption under subsection (c), (h), (i), (j), or (k), a pe
 
 If any information provided in such statement is no longer accurate, the person providing such statement shall inform the provider of communications services within 30 days of any change of information.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 504; Pub. L. 85–859, title I, § 133(a), Sept. 2, 1958, 72 Stat. 1290; Pub. L. 86–344, § 4(a), Sept. 21, 1959, 73 Stat. 619; Pub. L. 87–508, § 4(b), June 28, 1962, 76 Stat. 115; Pub. L. 89–44, title III, § 302, June 21, 1965, 79 Stat. 146; Pub. L. 89–368, title II, § 202(b), Mar. 15, 1966, 80 Stat. 66; Pub. L. 91–172, title I, § 101(j)(27), Dec. 30, 1969, 83 Stat. 529; Pub. L. 94–455, title XIX, §§ 1904(a)(6), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1811, 1834; Pub. L. 101–508, title XI, § 11217(c)(1), Nov. 5, 1990, 104 Stat. 1388–438; Pub. L. 109–280, title XII, § 1207(c), Aug. 17, 2006, 120 Stat. 1070.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 504; Pub. L. 85–859, title I, § 133(a), Sept. 2, 1958, 72 Stat. 1290; Pub. L. 86–344, § 4(a), Sept. 21, 1959, 73 Stat. 619; Pub. L. 87–508, § 4(b), June 28, 1962, 76 Stat. 115; Pub. L. 89–44, title III, § 302, June 21, 1965, 79 Stat. 146; Pub. L. 89–368, title II, § 202(b), Mar. 15, 1966, 80 Stat. 66; Pub. L. 91–172, title I, § 101(j)(27), Dec. 30, 1969, 83 Stat. 529; Pub. L. 94–455, title XIX, §§ 1904(a)(6), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1811, 1834; Pub. L. 101–508, title XI, § 11217(c)(1), Nov. 5, 1990, 104 Stat. 1388–438; Pub. L. 109–280, title XII, § 1207(c), Aug. 17, 2006, 120 Stat. 1070.)
 
 **Editorial Notes**
 
@@ -413,21 +413,21 @@ If any information provided in such statement is no longer accurate, the person 
 
 Section 1207(c) of Pub. L. 109–280, which directed the amendment of section 4253 without specifying the act to be amended, was executed to this section, which is section 4253 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
-This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
+This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
 
 **Amendments**
 
-2006—Subsec. (k). Pub. L. 109–280, § 1207(c)(1), added subsec. (k). Former subsec. (k) redesignated (*l*). See Codification note above.
+2006—Subsec. (k). Pub. L. 109–280, § 1207(c)(1), added subsec. (k). Former subsec. (k) redesignated (*l*). See Codification note above.
 
-Subsec. (*l*). Pub. L. 109–280, § 1207(c)(1), redesignated subsec. (k) as (*l*). See Codification note above.
+Subsec. (*l*). Pub. L. 109–280, § 1207(c)(1), redesignated subsec. (k) as (*l*). See Codification note above.
 
-Subsec. (*l*)(1). Pub. L. 109–280, § 1207(c)(2), substituted “(j), or (k)” for “or (j)”. See Codification note above.
+Subsec. (*l*)(1). Pub. L. 109–280, § 1207(c)(2), substituted “(j), or (k)” for “or (j)”. See Codification note above.
 
 1990—Subsec. (k). Pub. L. 101–508 added subsec. (k).
 
-1976—Subsec. (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsecs. (i), (j). Pub. L. 94–455, § 1904(a)(6), added subsecs. (i) and (j).
+Subsecs. (i), (j). Pub. L. 94–455, § 1904(a)(6), added subsecs. (i) and (j).
 
 1969—Subsec. (h). Pub. L. 91–172 substituted “section 170(b)(1)(A)(iii)” for “section 503(b)(5)”.
 
@@ -475,7 +475,7 @@ Amendment by Pub. L. 109–280 effective Jan. 1, 2007, see section 1207(g)(1) of
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11217(c)(2), Nov. 5, 1990, 104 Stat. 1388–438, provided that:
+Pub. L. 101–508, title XI, § 11217(c)(2), Nov. 5, 1990, 104 Stat. 1388–438, provided that:
 
 > **“(A) In general.—** The amendment made by paragraph (1) [amending this section] shall apply to any claim for exemption made after the date of the enactment of this Act [Nov. 5, 1990].
 
@@ -503,7 +503,7 @@ Amendment by Pub. L. 87–508 applicable with respect to services furnished on o
 
 **Effective Date of 1959 Amendment**
 
-Pub. L. 86–344, § 4(b), Sept. 21, 1959, 73 Stat. 619, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 86–344, § 4(b), Sept. 21, 1959, 73 Stat. 619, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** Subject to the provisions of paragraph (2), the amendment made by subsection (a) [amending this section] shall apply with respect to amounts paid on or after January 1, 1959, for services rendered on or after such date.
 
@@ -513,7 +513,7 @@ Pub. L. 86–344, § 4(b), Sept. 21, 1959, 73 Stat. 619, as amended by Pub. L.
 
 For effective date of amendment made by Pub. L. 85–859, see section 133(b) of Pub. L. 85–859, set out as a note under section 4251 of this title.
 
-### § 4254. Computation of tax
+### § 4254. Computation of tax
 
 **(a) General rule** If a bill is rendered the taxpayer for local telephone service or toll telephone service—
 
@@ -529,13 +529,13 @@ If the tax imposed by section 4251 with respect to toll telephone service is pai
 
 For purposes of this subchapter, in determining the amounts paid for communications services, there shall not be included the amount of any State or local tax imposed on the furnishing or sale of such services, if the amount of such tax is separately stated in the bill.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 504; Pub. L. 85–859, title I, § 133(a), Sept. 2, 1958, 72 Stat. 1291; Pub. L. 89–44, title III, § 302, June 21, 1965, 79 Stat. 147; Pub. L. 95–172, § 2(a), Nov. 12, 1977, 91 Stat. 1358.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 504; Pub. L. 85–859, title I, § 133(a), Sept. 2, 1958, 72 Stat. 1291; Pub. L. 89–44, title III, § 302, June 21, 1965, 79 Stat. 147; Pub. L. 95–172, § 2(a), Nov. 12, 1977, 91 Stat. 1358.)
 
 **Editorial Notes**
 
 **Codification**
 
-This subchapter, relating to the tax on communications was repealed by Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
+This subchapter, relating to the tax on communications was repealed by Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
 
 **Amendments**
 
@@ -553,7 +553,7 @@ Subsec. (b). Pub. L. 85–859 substituted “toll telephone service” for “lo
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–172, § 2(b), Nov. 12, 1977, 91 Stat. 1358, provided that: “The amendment made by this section [amending this section] shall take effect only with respect to amounts paid pursuant to bills first rendered on or after the first day of the first month which begins more than 20 days after the date of the enactment of this Act [Nov. 12, 1977]. For purposes of the preceding sentence, in the case of communications services rendered more than 2 months before the effective date provided in the preceding sentence, no bill shall be treated as having been first rendered on or after such effective date.”
+Pub. L. 95–172, § 2(b), Nov. 12, 1977, 91 Stat. 1358, provided that: “The amendment made by this section [amending this section] shall take effect only with respect to amounts paid pursuant to bills first rendered on or after the first day of the first month which begins more than 20 days after the date of the enactment of this Act [Nov. 12, 1977]. For purposes of the preceding sentence, in the case of communications services rendered more than 2 months before the effective date provided in the preceding sentence, no bill shall be treated as having been first rendered on or after such effective date.”
 
 **Effective Date of 1965 Amendment**
 
@@ -569,7 +569,7 @@ For effective date of amendment made by Pub. L. 85–859, see section 133(b) of 
 
 **Amendments**
 
-2018—Pub. L. 115–141, div. U, title IV, § 401(a)(222), Mar. 23, 2018, 132 Stat. 1194, substituted “applicable” for “relating” in item for part III.
+2018—Pub. L. 115–141, div. U, title IV, § 401(a)(222), Mar. 23, 2018, 132 Stat. 1194, substituted “applicable” for “relating” in item for part III.
 
 ### PART I—PERSONS
 
@@ -577,15 +577,15 @@ For effective date of amendment made by Pub. L. 85–859, see section 133(b) of 
 
 **Amendments**
 
-1970—Pub. L. 91–258, title II, § 205(c)(4), May 21, 1970, 84 Stat. 242, substituted “Transportation by Air” for “Transportation of Persons by Air” in subchapter heading, inserted part I to III headings in subchapter analysis, inserted “PART I—PERSONS” as analysis heading preceding section 4261, struck out item 4263, and redesignated item 4264 as 4263.
+1970—Pub. L. 91–258, title II, § 205(c)(4), May 21, 1970, 84 Stat. 242, substituted “Transportation by Air” for “Transportation of Persons by Air” in subchapter heading, inserted part I to III headings in subchapter analysis, inserted “PART I—PERSONS” as analysis heading preceding section 4261, struck out item 4263, and redesignated item 4264 as 4263.
 
-1962—Pub. L. 87–508, § 5(b), June 28, 1962, 76 Stat. 115, substituted “Transportation of Persons by Air” for “Transportation of Persons” in subchapter heading.
+1962—Pub. L. 87–508, § 5(b), June 28, 1962, 76 Stat. 115, substituted “Transportation of Persons by Air” for “Transportation of Persons” in subchapter heading.
 
-1958—Pub. L. 85–475, § 4(b)(2), June 30, 1958, 72 Stat. 260, substituted “Transportation of Persons” for “Transportation” in subchapter heading and struck out parts I–III, which were included in subchapter C.
+1958—Pub. L. 85–475, § 4(b)(2), June 30, 1958, 72 Stat. 260, substituted “Transportation of Persons” for “Transportation” in subchapter heading and struck out parts I–III, which were included in subchapter C.
 
-1956—Act July 25, 1956, ch. 725, § 5, 70 Stat. 646, added items 4262 and 4264 and redesignated former item 4262 as 4263.
+1956—Act July 25, 1956, ch. 725, § 5, 70 Stat. 646, added items 4262 and 4264 and redesignated former item 4262 as 4263.
 
-#### § 4261. Imposition of tax
+#### § 4261. Imposition of tax
 
 **(a) In general**
 
@@ -767,7 +767,7 @@ No tax shall be imposed by this section or section 4271 on any air transportatio
 
 If, as of the date any transportation begins, the taxes imposed by this section would not have applied to such transportation if paid for on such date, any tax paid under paragraph (1)(B) with respect to such transportation shall be treated as an overpayment.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 506; July 25, 1956, ch. 725, §§ 1, 4(b), 70 Stat. 644, 646; Pub. L. 86–75, § 4, June 30, 1959, 73 Stat. 158; Pub. L. 86–564, title II, § 202(a)(3), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, § 3(a)(3), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, § 5(a), (b), June 28, 1962, 76 Stat. 115; Pub. L. 88–52, § 3(a)(3), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, § 2(a)(3), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title III, § 303(a), June 21, 1965, 79 Stat. 148; Pub. L. 91–258, title II, § 203(a), May 21, 1970, 84 Stat. 238; Pub. L. 94–455, title XIX, § 1904(a)(7), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, § 1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, § 280(a), Sept. 3, 1982, 96 Stat. 564; Pub. L. 98–369, div. A, title X, § 1018(b), July 18, 1984, 98 Stat. 1021; Pub. L. 99–514, title XVIII, § 1878(c)(2), Oct. 22, 1986, 100 Stat. 2903; Pub. L. 100–223, title IV, §§ 402(a)(1), 404(a), (c), Dec. 30, 1987, 101 Stat. 1532, 1533; Pub. L. 101–239, title VII, § 7503(a), Dec. 19, 1989, 103 Stat. 2362; Pub. L. 101–508, title XI, § 11213(a)(1), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 103–272, § 5(g)(2), July 5, 1994, 108 Stat. 1374; Pub. L. 104–188, title I, § 1609(b), (d), (e), Aug. 20, 1996, 110 Stat. 1841, 1842; Pub. L. 105–2, § 2(b)(1), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, § 1031(b)(1), (c)(1), (2), title XIV, § 1435(a), title XVI, § 1601(f)(4)(D), Aug. 5, 1997, 111 Stat. 929, 930, 1052, 1091; Pub. L. 108–176, title IX, § 902(a), Dec. 12, 2003, 117 Stat. 2598; Pub. L. 109–59, title XI, §§ 11121(c), 11122(a), 11123(a), Aug. 10, 2005, 119 Stat. 1951, 1952; Pub. L. 109–135, title IV, § 412(vv), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–161, div. K, title I, § 116(b)(1), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, § 2(b)(1), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, § 2(b)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, § 2(b)(1), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, § 2(b)(1), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, § 2(b)(1), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, § 2(b)(1), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, § 2(b)(1), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, § 2(b)(1), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, § 2(b)(1), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, § 101(b)(1), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, § 2(b)(1), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, § 2(b)(1), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, § 2(b)(1), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, § 2(b)(1), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, § 2(b)(1), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, § 2(b)(1), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title II, § 202(b)(1), Sept. 16, 2011, 125 Stat. 357; Pub. L. 112–91, § 2(b)(1), Jan. 31, 2012, 126 Stat. 3; Pub. L. 112–95, title XI, §§ 1101(b)(1), 1103(c), Feb. 14, 2012, 126 Stat. 148, 151; Pub. L. 113–295, div. A, title II, § 221(a)(104), Dec. 19, 2014, 128 Stat. 4053; Pub. L. 114–55, title II, § 202(b)(1), (c)(2), Sept. 30, 2015, 129 Stat. 525; Pub. L. 114–141, title II, § 202(b)(1), (c)(2), Mar. 30, 2016, 130 Stat. 324, 325; Pub. L. 114–190, title I, § 1202(b)(1), (c)(2), July 15, 2016, 130 Stat. 619; Pub. L. 115–63, title II, § 202(b)(1), (c)(2), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–97, title I, §§ 11002(d)(1)(FF), 13822(a), Dec. 22, 2017, 131 Stat. 2060, 2182; Pub. L. 115–141, div. M, title I, § 202(b)(1), (c)(2), div. U, title IV, § 401(b)(42), Mar. 23, 2018, 132 Stat. 1048, 1049, 1204; Pub. L. 115–254, div. B, title VIII, § 802(b)(1), (c)(3), Oct. 5, 2018, 132 Stat. 3429; Pub. L. 118–15, div. B, title II, § 2212(b)(1), (c)(3), Sept. 30, 2023, 137 Stat. 85; Pub. L. 118–34, title II, § 202(b)(1), (c)(3), Dec. 26, 2023, 137 Stat. 1115, 1116; Pub. L. 118–41, title II, § 202(b)(1), (c)(3), Mar. 8, 2024, 138 Stat. 23, 24; Pub. L. 118–63, title XIII, § 1302(b)(1), (c)(3), May 16, 2024, 138 Stat. 1433, 1434.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 506; July 25, 1956, ch. 725, §§ 1, 4(b), 70 Stat. 644, 646; Pub. L. 86–75, § 4, June 30, 1959, 73 Stat. 158; Pub. L. 86–564, title II, § 202(a)(3), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, § 3(a)(3), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, § 5(a), (b), June 28, 1962, 76 Stat. 115; Pub. L. 88–52, § 3(a)(3), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, § 2(a)(3), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title III, § 303(a), June 21, 1965, 79 Stat. 148; Pub. L. 91–258, title II, § 203(a), May 21, 1970, 84 Stat. 238; Pub. L. 94–455, title XIX, § 1904(a)(7), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, § 1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, § 280(a), Sept. 3, 1982, 96 Stat. 564; Pub. L. 98–369, div. A, title X, § 1018(b), July 18, 1984, 98 Stat. 1021; Pub. L. 99–514, title XVIII, § 1878(c)(2), Oct. 22, 1986, 100 Stat. 2903; Pub. L. 100–223, title IV, §§ 402(a)(1), 404(a), (c), Dec. 30, 1987, 101 Stat. 1532, 1533; Pub. L. 101–239, title VII, § 7503(a), Dec. 19, 1989, 103 Stat. 2362; Pub. L. 101–508, title XI, § 11213(a)(1), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 103–272, § 5(g)(2), July 5, 1994, 108 Stat. 1374; Pub. L. 104–188, title I, § 1609(b), (d), (e), Aug. 20, 1996, 110 Stat. 1841, 1842; Pub. L. 105–2, § 2(b)(1), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, § 1031(b)(1), (c)(1), (2), title XIV, § 1435(a), title XVI, § 1601(f)(4)(D), Aug. 5, 1997, 111 Stat. 929, 930, 1052, 1091; Pub. L. 108–176, title IX, § 902(a), Dec. 12, 2003, 117 Stat. 2598; Pub. L. 109–59, title XI, §§ 11121(c), 11122(a), 11123(a), Aug. 10, 2005, 119 Stat. 1951, 1952; Pub. L. 109–135, title IV, § 412(vv), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–161, div. K, title I, § 116(b)(1), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, § 2(b)(1), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, § 2(b)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, § 2(b)(1), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, § 2(b)(1), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, § 2(b)(1), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, § 2(b)(1), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, § 2(b)(1), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, § 2(b)(1), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, § 2(b)(1), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, § 101(b)(1), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, § 2(b)(1), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, § 2(b)(1), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, § 2(b)(1), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, § 2(b)(1), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, § 2(b)(1), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, § 2(b)(1), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title II, § 202(b)(1), Sept. 16, 2011, 125 Stat. 357; Pub. L. 112–91, § 2(b)(1), Jan. 31, 2012, 126 Stat. 3; Pub. L. 112–95, title XI, §§ 1101(b)(1), 1103(c), Feb. 14, 2012, 126 Stat. 148, 151; Pub. L. 113–295, div. A, title II, § 221(a)(104), Dec. 19, 2014, 128 Stat. 4053; Pub. L. 114–55, title II, § 202(b)(1), (c)(2), Sept. 30, 2015, 129 Stat. 525; Pub. L. 114–141, title II, § 202(b)(1), (c)(2), Mar. 30, 2016, 130 Stat. 324, 325; Pub. L. 114–190, title I, § 1202(b)(1), (c)(2), July 15, 2016, 130 Stat. 619; Pub. L. 115–63, title II, § 202(b)(1), (c)(2), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–97, title I, §§ 11002(d)(1)(FF), 13822(a), Dec. 22, 2017, 131 Stat. 2060, 2182; Pub. L. 115–141, div. M, title I, § 202(b)(1), (c)(2), div. U, title IV, § 401(b)(42), Mar. 23, 2018, 132 Stat. 1048, 1049, 1204; Pub. L. 115–254, div. B, title VIII, § 802(b)(1), (c)(3), Oct. 5, 2018, 132 Stat. 3429; Pub. L. 118–15, div. B, title II, § 2212(b)(1), (c)(3), Sept. 30, 2023, 137 Stat. 85; Pub. L. 118–34, title II, § 202(b)(1), (c)(3), Dec. 26, 2023, 137 Stat. 1115, 1116; Pub. L. 118–41, title II, § 202(b)(1), (c)(3), Mar. 8, 2024, 138 Stat. 23, 24; Pub. L. 118–63, title XIII, § 1302(b)(1), (c)(3), May 16, 2024, 138 Stat. 1433, 1434.)
 
 **Inflation Adjusted Items for Certain Years**
 
@@ -779,69 +779,69 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 The date of the enactment of this paragraph, referred to in subsec. (e)(1)(B)(ii)(II), is the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
 
-The Airport and Airway Development Act of 1970, referred to in subsec. (f), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, which was classified principally to chapter 25 (§ 1701 et seq.) of former Title 49, Transportation. Sections 1 to 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49 and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, § 523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+The Airport and Airway Development Act of 1970, referred to in subsec. (f), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, which was classified principally to chapter 25 (§ 1701 et seq.) of former Title 49, Transportation. Sections 1 to 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49 and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, § 523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
 The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (k)(1)(A)(i), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
 
 **Amendments**
 
-2024—Subsec. (j). Pub. L. 118–63, § 1302(c)(3), substituted “September 30, 2028” for “May 10, 2024”.
+2024—Subsec. (j). Pub. L. 118–63, § 1302(c)(3), substituted “September 30, 2028” for “May 10, 2024”.
 
-Pub. L. 118–41, § 202(c)(3), substituted “May 10, 2024” for “March 8, 2024”.
+Pub. L. 118–41, § 202(c)(3), substituted “May 10, 2024” for “March 8, 2024”.
 
-Subsec. (k)(1)(A)(ii). Pub. L. 118–63, § 1302(b)(1), substituted “September 30, 2028” for “May 10, 2024”.
+Subsec. (k)(1)(A)(ii). Pub. L. 118–63, § 1302(b)(1), substituted “September 30, 2028” for “May 10, 2024”.
 
-Pub. L. 118–41, § 202(b)(1), substituted “May 10, 2024” for “March 8, 2024”.
+Pub. L. 118–41, § 202(b)(1), substituted “May 10, 2024” for “March 8, 2024”.
 
-2023—Subsec. (j). Pub. L. 118–34, § 202(c)(3), substituted “March 8, 2024” for “December 31, 2023”.
+2023—Subsec. (j). Pub. L. 118–34, § 202(c)(3), substituted “March 8, 2024” for “December 31, 2023”.
 
-Pub. L. 118–15, § 2212(c)(3), substituted “December 31, 2023” for “September 30, 2023”.
+Pub. L. 118–15, § 2212(c)(3), substituted “December 31, 2023” for “September 30, 2023”.
 
-Subsec. (k)(1)(A)(ii). Pub. L. 118–34, § 202(b)(1), substituted “March 8, 2024” for “December 31, 2023”.
+Subsec. (k)(1)(A)(ii). Pub. L. 118–34, § 202(b)(1), substituted “March 8, 2024” for “December 31, 2023”.
 
-Pub. L. 118–15, § 2212(b)(1), substituted “December 31, 2023” for “September 30, 2023”.
+Pub. L. 118–15, § 2212(b)(1), substituted “December 31, 2023” for “September 30, 2023”.
 
-2018—Subsec. (b)(1). Pub. L. 115–141, § 401(b)(42), substituted “a tax in the amount of $3.00.” for “a tax in the amount determined in accordance with the following table for the period in which the segment begins:” and table which set out tax amounts ranging from $1.00 to $3.00 for segments beginning after Sept. 30, 1997, to 2002 and thereafter.
+2018—Subsec. (b)(1). Pub. L. 115–141, § 401(b)(42), substituted “a tax in the amount of $3.00.” for “a tax in the amount determined in accordance with the following table for the period in which the segment begins:” and table which set out tax amounts ranging from $1.00 to $3.00 for segments beginning after Sept. 30, 1997, to 2002 and thereafter.
 
-Subsec. (j). Pub. L. 115–254, § 802(c)(3), substituted “September 30, 2023” for “September 30, 2018”.
+Subsec. (j). Pub. L. 115–254, § 802(c)(3), substituted “September 30, 2023” for “September 30, 2018”.
 
-Pub. L. 115–141, § 202(c)(2), substituted “September 30, 2018” for “March 31, 2018”.
+Pub. L. 115–141, § 202(c)(2), substituted “September 30, 2018” for “March 31, 2018”.
 
-Subsec. (k)(1)(A)(ii). Pub. L. 115–254, § 802(b)(1), substituted “September 30, 2023” for “September 30, 2018”.
+Subsec. (k)(1)(A)(ii). Pub. L. 115–254, § 802(b)(1), substituted “September 30, 2023” for “September 30, 2018”.
 
-Pub. L. 115–141, § 202(b)(1), substituted “September 30, 2018” for “March 31, 2018”.
+Pub. L. 115–141, § 202(b)(1), substituted “September 30, 2018” for “March 31, 2018”.
 
-2017—Subsec. (e)(4)(A)(ii). Pub. L. 115–97, § 11002(d)(1)(FF), substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
+2017—Subsec. (e)(4)(A)(ii). Pub. L. 115–97, § 11002(d)(1)(FF), substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
 
-Subsec. (e)(5). Pub. L. 115–97, § 13822(a), added par. (5).
+Subsec. (e)(5). Pub. L. 115–97, § 13822(a), added par. (5).
 
-Subsec. (j). Pub. L. 115–63, § 202(c)(2), substituted “March 31, 2018” for “September 30, 2017”.
+Subsec. (j). Pub. L. 115–63, § 202(c)(2), substituted “March 31, 2018” for “September 30, 2017”.
 
-Subsec. (k)(1)(A)(ii). Pub. L. 115–63, § 202(b)(1), substituted “March 31, 2018” for “September 30, 2017”.
+Subsec. (k)(1)(A)(ii). Pub. L. 115–63, § 202(b)(1), substituted “March 31, 2018” for “September 30, 2017”.
 
-2016—Subsec. (j). Pub. L. 114–190, § 1202(c)(2), substituted “September 30, 2017” for “July 15, 2016”.
+2016—Subsec. (j). Pub. L. 114–190, § 1202(c)(2), substituted “September 30, 2017” for “July 15, 2016”.
 
-Pub. L. 114–141, § 202(c)(2), substituted “July 15, 2016” for “March 31, 2016”.
+Pub. L. 114–141, § 202(c)(2), substituted “July 15, 2016” for “March 31, 2016”.
 
-Subsec. (k)(1)(A)(ii). Pub. L. 114–190, § 1202(b)(1), substituted “September 30, 2017” for “July 15, 2016”.
+Subsec. (k)(1)(A)(ii). Pub. L. 114–190, § 1202(b)(1), substituted “September 30, 2017” for “July 15, 2016”.
 
-Pub. L. 114–141, § 202(b)(1), substituted “July 15, 2016” for “March 31, 2016”.
+Pub. L. 114–141, § 202(b)(1), substituted “July 15, 2016” for “March 31, 2016”.
 
-2015—Subsec. (j). Pub. L. 114–55, § 202(c)(2), substituted “March 31, 2016” for “September 30, 2015”.
+2015—Subsec. (j). Pub. L. 114–55, § 202(c)(2), substituted “March 31, 2016” for “September 30, 2015”.
 
-Subsec. (k)(1)(A)(ii). Pub. L. 114–55, § 202(b)(1), substituted “March 31, 2016” for “September 30, 2015”.
+Subsec. (k)(1)(A)(ii). Pub. L. 114–55, § 202(b)(1), substituted “March 31, 2016” for “September 30, 2015”.
 
-2014—Subsec. (e)(1)(C). Pub. L. 113–295, § 221(a)(104)(A), struck out subpar. (C) which provided for no phasein of reduced ticket tax for certain transportation.
+2014—Subsec. (e)(1)(C). Pub. L. 113–295, § 221(a)(104)(A), struck out subpar. (C) which provided for no phasein of reduced ticket tax for certain transportation.
 
-Subsec. (e)(5). Pub. L. 113–295, § 221(a)(104)(B), struck out par. (5) which related to rates of ticket tax for transportation beginning before Oct. 1, 1999.
+Subsec. (e)(5). Pub. L. 113–295, § 221(a)(104)(B), struck out par. (5) which related to rates of ticket tax for transportation beginning before Oct. 1, 1999.
 
-2012—Subsec. (j). Pub. L. 112–95, § 1103(c), added subsec. (j). Former subsec. (j) redesignated (k).
+2012—Subsec. (j). Pub. L. 112–95, § 1103(c), added subsec. (j). Former subsec. (j) redesignated (k).
 
-Subsec. (j)(1)(A)(ii). Pub. L. 112–95, § 1101(b)(1), substituted “September 30, 2015” for “February 17, 2012”.
+Subsec. (j)(1)(A)(ii). Pub. L. 112–95, § 1101(b)(1), substituted “September 30, 2015” for “February 17, 2012”.
 
 Pub. L. 112–91 substituted “February 17, 2012” for “January 31, 2012”.
 
-Subsec. (k). Pub. L. 112–95, § 1103(c), redesignated subsec. (j) as (k).
+Subsec. (k). Pub. L. 112–95, § 1103(c), redesignated subsec. (j) as (k).
 
 2011—Subsec. (j)(1)(A)(ii). Pub. L. 112–30 substituted “January 31, 2012” for “September 16, 2011”.
 
@@ -879,13 +879,13 @@ Pub. L. 110–190 substituted “June 30, 2008” for “February 29, 2008”.
 
 2007—Subsec. (j)(1)(A)(ii). Pub. L. 110–161 substituted “February 29, 2008” for “September 30, 2007”.
 
-2005—Subsec. (e)(1)(B)(i). Pub. L. 109–59, § 11122(a)(1), inserted “(in the case of any airport described in clause (ii)(III), on flight segments of at least 100 miles)” after “by air”.
+2005—Subsec. (e)(1)(B)(i). Pub. L. 109–59, § 11122(a)(1), inserted “(in the case of any airport described in clause (ii)(III), on flight segments of at least 100 miles)” after “by air”.
 
-Subsec. (e)(1)(B)(ii)(III). Pub. L. 109–59, § 11122(a)(2), added subcl. (III).
+Subsec. (e)(1)(B)(ii)(III). Pub. L. 109–59, § 11122(a)(2), added subcl. (III).
 
 Subsec. (e)(4)(C). Pub. L. 109–135 substituted “imposed by subsection (b)” for “imposed subsection (b)”.
 
-Subsec. (f). Pub. L. 109–59, § 11121(c), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “No tax shall be imposed under subsection (a) or (b) on air transportation by helicopter for the purpose of—
+Subsec. (f). Pub. L. 109–59, § 11121(c), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “No tax shall be imposed under subsection (a) or (b) on air transportation by helicopter for the purpose of—
 
 “(1) transporting individuals, equipment, or supplies in the exploration for, or the development or removal of, hard minerals, oil, or gas, or
 
@@ -893,35 +893,35 @@ Subsec. (f). Pub. L. 109–59, § 11121(c), amended heading and text of subsec
 
 but only if the helicopter does not take off from, or land at, a facility eligible for assistance under the Airport and Airway Development Act of 1970, or otherwise use services provided pursuant to section 44509 or 44913(b) or subchapter I of chapter 471 of title 49, United States Code, during such use. In the case of helicopter transportation described in paragraph (1), this subsection shall be applied by treating each flight segment as a distinct flight.”
 
-Subsecs. (i), (j). Pub. L. 109–59, § 11123(a), added subsec. (i) and redesignated former subsec. (i) as (j).
+Subsecs. (i), (j). Pub. L. 109–59, § 11123(a), added subsec. (i) and redesignated former subsec. (i) as (j).
 
 2003—Subsec. (e)(4)(D). Pub. L. 108–176 added subpar. (D).
 
-1997—Subsec. (a). Pub. L. 105–34, § 1031(c)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There is hereby imposed upon the amount paid for taxable transportation (as defined in section 4262) of any person a tax equal to 10 percent of the amount so paid. In the case of amounts paid outside of the United States for taxable transportation, the tax imposed by this subsection shall apply only if such transportation begins and ends in the United States.”
+1997—Subsec. (a). Pub. L. 105–34, § 1031(c)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There is hereby imposed upon the amount paid for taxable transportation (as defined in section 4262) of any person a tax equal to 10 percent of the amount so paid. In the case of amounts paid outside of the United States for taxable transportation, the tax imposed by this subsection shall apply only if such transportation begins and ends in the United States.”
 
-Subsec. (b). Pub. L. 105–34, § 1031(c)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “There is hereby imposed upon the amount paid for seating or sleeping accommodations in connection with transportation and with respect to which a tax is imposed by subsection (a), a tax equal to 10 percent of the amount so paid.”
+Subsec. (b). Pub. L. 105–34, § 1031(c)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “There is hereby imposed upon the amount paid for seating or sleeping accommodations in connection with transportation and with respect to which a tax is imposed by subsection (a), a tax equal to 10 percent of the amount so paid.”
 
-Subsec. (c). Pub. L. 105–34, § 1031(c)(1), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “There is hereby imposed a tax of $6 upon any amount paid (whether within or without the United States) for any transportation of any person by air, if such transportation begins in the United States. This subsection shall not apply to any transportation all of which is taxable under subsection (a) (determined without regard to sections 4281 and 4282).”
+Subsec. (c). Pub. L. 105–34, § 1031(c)(1), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “There is hereby imposed a tax of $6 upon any amount paid (whether within or without the United States) for any transportation of any person by air, if such transportation begins in the United States. This subsection shall not apply to any transportation all of which is taxable under subsection (a) (determined without regard to sections 4281 and 4282).”
 
-Subsecs. (e), (f). Pub. L. 105–34, § 1031(c)(2), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsecs. (e), (f). Pub. L. 105–34, § 1031(c)(2), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 105–34, § 1031(c)(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 105–34, § 1031(c)(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
 Pub. L. 105–2 amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “The taxes imposed by this section shall apply with respect to transportation beginning after August 31, 1982, and before January 1, 1996, and to transportation beginning on or after the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and before January 1, 1997.”
 
-Subsec. (g)(1)(A)(ii). Pub. L. 105–34, § 1031(b)(1), substituted “September 30, 2007” for “September 30, 1997”.
+Subsec. (g)(1)(A)(ii). Pub. L. 105–34, § 1031(b)(1), substituted “September 30, 2007” for “September 30, 1997”.
 
-Subsec. (g)(2). Pub. L. 105–34, § 1601(f)(4)(D), inserted “on that flight” after “dedicated”.
+Subsec. (g)(2). Pub. L. 105–34, § 1601(f)(4)(D), inserted “on that flight” after “dedicated”.
 
-Subsec. (h). Pub. L. 105–34, § 1435(a), added subsec. (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 105–34, § 1435(a), added subsec. (h). Former subsec. (h) redesignated (i).
 
-Pub. L. 105–34, § 1031(c)(2), redesignated subsec. (g) as (h).
+Pub. L. 105–34, § 1031(c)(2), redesignated subsec. (g) as (h).
 
-Subsec. (i). Pub. L. 105–34, § 1435(a), redesignated subsec. (h) as (i).
+Subsec. (i). Pub. L. 105–34, § 1435(a), redesignated subsec. (h) as (i).
 
-1996—Subsec. (e). Pub. L. 104–188, § 1609(e), inserted at end “In the case of helicopter transportation described in paragraph (1), this subsection shall be applied by treating each flight segment as a distinct flight.”
+1996—Subsec. (e). Pub. L. 104–188, § 1609(e), inserted at end “In the case of helicopter transportation described in paragraph (1), this subsection shall be applied by treating each flight segment as a distinct flight.”
 
-Subsec. (f). Pub. L. 104–188, § 1609(d), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+Subsec. (f). Pub. L. 104–188, § 1609(d), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
 “(f) Exemption for Certain Emergency Medical Transportation.—No tax shall be imposed under this section or section 4271 on any air transportation by helicopter for the purpose of providing emergency medical services if such helicopter—
 
@@ -929,23 +929,23 @@ Subsec. (f). Pub. L. 104–188, § 1609(d), amended subsec. (f) generally. Pri
 
 “(2) does not otherwise use services provided pursuant to section 44509 or 44913(b) or subchapter I of chapter 471 of title 49, United States Code, during such transportation.”
 
-Subsec. (g). Pub. L. 104–188, § 1609(b), substituted “January 1, 1996, and to transportation beginning on or after the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and before January 1, 1997” for “January 1, 1996”.
+Subsec. (g). Pub. L. 104–188, § 1609(b), substituted “January 1, 1996, and to transportation beginning on or after the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and before January 1, 1997” for “January 1, 1996”.
 
-1994—Subsecs. (e), (f)(2). Pub. L. 103–272, § 5(g)(2), substituted “section 44509 or 44913(b) or subchapter I of chapter 471 of title 49, United States Code,” for “the Airport and Airway Improvement Act of 1982”.
+1994—Subsecs. (e), (f)(2). Pub. L. 103–272, § 5(g)(2), substituted “section 44509 or 44913(b) or subchapter I of chapter 471 of title 49, United States Code,” for “the Airport and Airway Improvement Act of 1982”.
 
-1990—Subsecs. (a), (b). Pub. L. 101–508, § 11213(a)(1), substituted “10 percent” for “8 percent”.
+1990—Subsecs. (a), (b). Pub. L. 101–508, § 11213(a)(1), substituted “10 percent” for “8 percent”.
 
-Subsec. (g). Pub. L. 101–508, § 11213(d)(1), substituted “January 1, 1996” for “January 1, 1991”.
+Subsec. (g). Pub. L. 101–508, § 11213(d)(1), substituted “January 1, 1996” for “January 1, 1991”.
 
 1989—Subsec. (c). Pub. L. 101–239 substituted “$6” for “$3”.
 
-1987—Subsec. (e). Pub. L. 100–223, § 404(c), which directed the substitution of “Improvement Act” for “System Improvement Act” could not be executed because such words do not appear.
+1987—Subsec. (e). Pub. L. 100–223, § 404(c), which directed the substitution of “Improvement Act” for “System Improvement Act” could not be executed because such words do not appear.
 
-Subsec. (f). Pub. L. 100–223, § 404(a), added subsec. (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 100–223, § 404(a), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Pub. L. 100–223, § 402(a)(1), substituted “January 1, 1991” for “January 1, 1988”.
+Pub. L. 100–223, § 402(a)(1), substituted “January 1, 1991” for “January 1, 1988”.
 
-Subsec. (g). Pub. L. 100–223, § 404(a), redesignated former subsec. (f) as (g).
+Subsec. (g). Pub. L. 100–223, § 404(a), redesignated former subsec. (f) as (g).
 
 1986—Subsec. (e)(1). Pub. L. 99–514, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “transporting individuals, equipment, or supplies in—
 
@@ -961,11 +961,11 @@ Subsec. (f). Pub. L. 97–248 added subsec. (f).
 
 1980—Subsec. (e). Pub. L. 96–298 substituted “September 30, 1980” for “June 30, 1980”.
 
-1976—Subsec. (a). Pub. L. 94–455, § 1904(a)(7)(A), struck out “which begins after June 30, 1970” after “any person”.
+1976—Subsec. (a). Pub. L. 94–455, § 1904(a)(7)(A), struck out “which begins after June 30, 1970” after “any person”.
 
-Subsec. (b). Pub. L. 94–455, § 1904(a)(7)(A), struck out “which begins after June 30, 1970” after “with transportation”.
+Subsec. (b). Pub. L. 94–455, § 1904(a)(7)(A), struck out “which begins after June 30, 1970” after “with transportation”.
 
-Subsec. (c). Pub. L. 94–455, § 1904(a)(7)(B), struck out “and begins after June 30, 1970” after “United States”.
+Subsec. (c). Pub. L. 94–455, § 1904(a)(7)(B), struck out “and begins after June 30, 1970” after “United States”.
 
 1970—Subsec. (a). Pub. L. 91–258 consolidated former provisions of subsecs. (a) and (b) for imposition of tax on amounts paid within and outside the United States, substituting an 8 percent rate commencing after June 30, 1970, for prior 5 percent rate commencing after Nov. 15, 1962.
 
@@ -981,13 +981,13 @@ Subsec. (e). Pub. L. 91–258 added subsec. (e).
 
 1963—Pub. L. 88–52 substituted “July 1, 1964” for “July 1, 1963” wherever appearing.
 
-1962—Subsecs. (a), (b). Pub. L. 87–508, § 5(b), struck out imposition of tax on transportation of persons by rail, motor vehicle, or water and substituted “tax equal to 5 percent of the amount so paid in connection with transportation which begins after November 15, 1962, and before July 1, 1963” for “tax equal to 10 percent of the amount so paid for transportation which begins before November 16, 1962”.
+1962—Subsecs. (a), (b). Pub. L. 87–508, § 5(b), struck out imposition of tax on transportation of persons by rail, motor vehicle, or water and substituted “tax equal to 5 percent of the amount so paid in connection with transportation which begins after November 15, 1962, and before July 1, 1963” for “tax equal to 10 percent of the amount so paid for transportation which begins before November 16, 1962”.
 
-Pub. L. 87–508, § 5(a), substituted provisions imposing a tax equal to 10 percent of the amount paid for transportation which begins before Nov. 16, 1962, for provisions imposing a tax equal to 10 percent of the amount paid before July 1, 1962, or 5 percent of the amount paid on or after July 1, 1962.
+Pub. L. 87–508, § 5(a), substituted provisions imposing a tax equal to 10 percent of the amount paid for transportation which begins before Nov. 16, 1962, for provisions imposing a tax equal to 10 percent of the amount paid before July 1, 1962, or 5 percent of the amount paid on or after July 1, 1962.
 
-Subsec. (c). Pub. L. 87–508, § 5(b), substituted “tax equivalent to 5 percent of the amount so paid in connection with transportation which begins after November 15, 1962, and before July 1, 1963” for “tax equivalent to 10 percent of the amount so paid in connection with transportation which begins before November 16, 1962”.
+Subsec. (c). Pub. L. 87–508, § 5(b), substituted “tax equivalent to 5 percent of the amount so paid in connection with transportation which begins after November 15, 1962, and before July 1, 1963” for “tax equivalent to 10 percent of the amount so paid in connection with transportation which begins before November 16, 1962”.
 
-Pub. L. 87–508, § 5(a), substituted provision imposing a tax equivalent to 10 percent of the amount paid in connection with transportation which begins before Nov. 16, 1962 for provision imposing a tax equivalent to 10 percent of the amount paid before July 1, 1962, or 5 percent of the amount paid on or after July 1, 1962.
+Pub. L. 87–508, § 5(a), substituted provision imposing a tax equivalent to 10 percent of the amount paid in connection with transportation which begins before Nov. 16, 1962 for provision imposing a tax equivalent to 10 percent of the amount paid before July 1, 1962, or 5 percent of the amount paid on or after July 1, 1962.
 
 1961—Pub. L. 87–72 substituted “July 1, 1962” for “July 1, 1961”, wherever appearing.
 
@@ -995,11 +995,11 @@ Pub. L. 87–508, § 5(a), substituted provision imposing a tax equivalent to 
 
 1959—Pub. L. 86–75 reduced tax on transportation of persons from ten to five percent effective July 1, 1960.
 
-1956—Subsec. (a). Act July 25, 1956, § 1, substituted “taxable transportation (as defined in section 4262) of any person by rail, motor vehicle, water, or air a tax” for “the transportation of persons by rail, motor vehicle, water, or air within or without the United States a tax”.
+1956—Subsec. (a). Act July 25, 1956, § 1, substituted “taxable transportation (as defined in section 4262) of any person by rail, motor vehicle, water, or air a tax” for “the transportation of persons by rail, motor vehicle, water, or air within or without the United States a tax”.
 
-Subsec. (b). Act July 25, 1956, § 1, substituted “taxable transportation (as defined in section 4262) of any person by rail, motor vehicle, water, or air, but only if such transportation begins and ends in the United States” for “transportation of persons by rail, motor vehicle, water, or air which begins and ends in the United States”.
+Subsec. (b). Act July 25, 1956, § 1, substituted “taxable transportation (as defined in section 4262) of any person by rail, motor vehicle, water, or air, but only if such transportation begins and ends in the United States” for “transportation of persons by rail, motor vehicle, water, or air which begins and ends in the United States”.
 
-Subsec. (d). Act July 25, 1956, § 4(b), substituted “Except as provided in section 4264, the” for “The”.
+Subsec. (d). Act July 25, 1956, § 4(b), substituted “Except as provided in section 4264, the” for “The”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1007,7 +1007,7 @@ Subsec. (d). Act July 25, 1956, § 4(b), substituted “Except as provided in 
 
 Amendment by section 11002(d)(1)(FF) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
-Pub. L. 115–97, title I, § 13822(b), Dec. 22, 2017, 131 Stat. 2183, provided that: “The amendment made by this section [amending this section] shall apply to amounts paid after the date of the enactment of this Act [Dec. 22, 2017].”
+Pub. L. 115–97, title I, § 13822(b), Dec. 22, 2017, 131 Stat. 2183, provided that: “The amendment made by this section [amending this section] shall apply to amounts paid after the date of the enactment of this Act [Dec. 22, 2017].”
 
 **Effective Date of 2014 Amendment**
 
@@ -1017,7 +1017,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 Amendment by section 1101(b)(1) of Pub. L. 112–95 effective Feb. 18, 2012, see section 1101(c) of Pub. L. 112–95, set out as an Effective and Termination Dates of 2012 Amendment note under section 4081 of this title.
 
-Pub. L. 112–95, title XI, § 1103(d)(3), Feb. 14, 2012, 126 Stat. 151, provided that: “The amendments made by subsection (c) [amending this section] shall apply to taxable transportation provided after March 31, 2012.”
+Pub. L. 112–95, title XI, § 1103(d)(3), Feb. 14, 2012, 126 Stat. 151, provided that: “The amendments made by subsection (c) [amending this section] shall apply to taxable transportation provided after March 31, 2012.”
 
 Amendment by Pub. L. 112–91 effective Feb. 1, 2012, see section 2(c) of Pub. L. 112–91, set out as an Effective and Termination Dates of 2012 Amendment note under section 4081 of this title.
 
@@ -1069,19 +1069,19 @@ Amendment by Pub. L. 110–161 effective Oct. 1, 2007, see section 116(d) of div
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–59, title XI, § 11121(d), Aug. 10, 2005, 119 Stat. 1952, provided that: “The amendments made by this section [amending this section and section 6420 of this title] shall apply to fuel use or air transportation after September 30, 2005.”
+Pub. L. 109–59, title XI, § 11121(d), Aug. 10, 2005, 119 Stat. 1952, provided that: “The amendments made by this section [amending this section and section 6420 of this title] shall apply to fuel use or air transportation after September 30, 2005.”
 
-Pub. L. 109–59, title XI, § 11122(b), Aug. 10, 2005, 119 Stat. 1952, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2005.”
+Pub. L. 109–59, title XI, § 11122(b), Aug. 10, 2005, 119 Stat. 1952, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2005.”
 
 Amendment by section 11123(a) of Pub. L. 109–59 applicable to transportation beginning after Sept. 30, 2005, see section 11123(c) of Pub. L. 109–59, set out as a note under section 4083 of this title.
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–176, title IX, § 902(b), Dec. 12, 2003, 117 Stat. 2598, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the provisions of the Taxpayer Relief Act of 1997 [Pub. L. 105–34] to which they relate.”
+Pub. L. 108–176, title IX, § 902(b), Dec. 12, 2003, 117 Stat. 2598, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the provisions of the Taxpayer Relief Act of 1997 [Pub. L. 105–34] to which they relate.”
 
 **Effective Date of 1997 Amendments**
 
-Pub. L. 105–34, title X, § 1031(e)(2), Aug. 5, 1997, 111 Stat. 932, provided that:
+Pub. L. 105–34, title X, § 1031(e)(2), Aug. 5, 1997, 111 Stat. 932, provided that:
 
 > **“(A) In general.—** Except as otherwise provided in this paragraph, the amendments made by subsections (b) and (c) [amending this section and sections 4263 and 4271 of this title] shall apply to transportation beginning on or after October 1, 1997.
 
@@ -1097,11 +1097,11 @@ Pub. L. 105–34, title X, § 1031(e)(2), Aug. 5, 1997, 111 Stat. 932, provide
 
 > **“(ii) Payments within controlled group.—** For purposes of clause (i), any amount paid after June 11, 1997, and before October 1, 1997, by 1 member of a controlled group for a right which is described in such section 4261(e)(3) and is furnished by another member of such group after September 30, 1997, shall be treated as paid after September 30, 1997. For purposes of the preceding sentence, all persons treated as a single employer under subsection (a) or (b) of section 52 of such Code shall be treated as members of a controlled group.”
 
-Pub. L. 105–34, title XIV, § 1435(c)(1), Aug. 5, 1997, 111 Stat. 1053, provided that: “The amendment made by subsection (a) [amending this section] shall apply to amounts paid after September 30, 1997.”
+Pub. L. 105–34, title XIV, § 1435(c)(1), Aug. 5, 1997, 111 Stat. 1053, provided that: “The amendment made by subsection (a) [amending this section] shall apply to amounts paid after September 30, 1997.”
 
 Amendment by section 1601(f)(4)(D) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
-Pub. L. 105–2, § 2(e)(2), Feb. 28, 1997, 111 Stat. 7, provided that:
+Pub. L. 105–2, § 2(e)(2), Feb. 28, 1997, 111 Stat. 7, provided that:
 
 > **“(A) In general.—** The amendments made by subsection (b) [amending this section and section 4271 of this title] shall apply to transportation beginning on or after such 7th day [means the 7th day after Feb. 28, 1997].
 
@@ -1115,15 +1115,15 @@ Amendment by Pub. L. 104–188 effective on 7th calendar day after Aug. 20, 1996
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11213(a)(3), Nov. 5, 1990, 104 Stat. 1388–432, provided that: “The amendments made by this subsection [amending this section and section 4271 of this title] shall apply to transportation beginning after November 30, 1990, but shall not apply to amounts paid on or before such date.”
+Pub. L. 101–508, title XI, § 11213(a)(3), Nov. 5, 1990, 104 Stat. 1388–432, provided that: “The amendments made by this subsection [amending this section and section 4271 of this title] shall apply to transportation beginning after November 30, 1990, but shall not apply to amounts paid on or before such date.”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–239, title VII, § 7503(b), Dec. 19, 1989, 103 Stat. 2362, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to transportation beginning after December 31, 1989, which was not paid for before such date.”
+Pub. L. 101–239, title VII, § 7503(b), Dec. 19, 1989, 103 Stat. 2362, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to transportation beginning after December 31, 1989, which was not paid for before such date.”
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–223, title IV, § 404(d)(1), Dec. 30, 1987, 101 Stat. 1533, provided that: “The amendment made by subsection (a) [amending this section] shall apply to transportation beginning after September 30, 1988, but shall not apply to amounts paid on or before such date.”
+Pub. L. 100–223, title IV, § 404(d)(1), Dec. 30, 1987, 101 Stat. 1533, provided that: “The amendment made by subsection (a) [amending this section] shall apply to transportation beginning after September 30, 1988, but shall not apply to amounts paid on or before such date.”
 
 **Effective Date of 1986 Amendment**
 
@@ -1131,11 +1131,11 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title X, § 1018(c)(2), July 18, 1984, 98 Stat. 1022, provided that: “The amendment made by subsection (b) [amending this section] shall apply to transportation beginning after March 31, 1984, but shall not apply to any amount paid on or before such date.”
+Pub. L. 98–369, div. A, title X, § 1018(c)(2), July 18, 1984, 98 Stat. 1022, provided that: “The amendment made by subsection (b) [amending this section] shall apply to transportation beginning after March 31, 1984, but shall not apply to any amount paid on or before such date.”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title II, § 280(d), Sept. 3, 1982, 96 Stat. 565, provided that: “The amendments made by this section [amending this section and sections 4271, 4281, and 6156 of this title and repealing sections 4491 to 4494 and 6426 of this title] shall apply with respect to transportation beginning after August 31, 1982; except that such amendments shall not apply to any amount paid on or before such date.”
+Pub. L. 97–248, title II, § 280(d), Sept. 3, 1982, 96 Stat. 565, provided that: “The amendments made by this section [amending this section and sections 4271, 4281, and 6156 of this title and repealing sections 4491 to 4494 and 6426 of this title] shall apply with respect to transportation beginning after August 31, 1982; except that such amendments shall not apply to any amount paid on or before such date.”
 
 **Effective Date of 1976 Amendment**
 
@@ -1147,15 +1147,15 @@ Amendment by Pub. L. 91–258 applicable to transportation beginning after June 
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–44, title VII, § 701(b)(3), June 21, 1965, 79 Stat. 157, provided that: “The amendments made by section 303 [amending this section] shall apply with respect to amounts paid for transportation, and amounts paid for accommodations in connection with transportation, beginning on or after July 1, 1965.”
+Pub. L. 89–44, title VII, § 701(b)(3), June 21, 1965, 79 Stat. 157, provided that: “The amendments made by section 303 [amending this section] shall apply with respect to amounts paid for transportation, and amounts paid for accommodations in connection with transportation, beginning on or after July 1, 1965.”
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–508, § 5(b), June 28, 1962, 76 Stat. 115, provided that the amendment made by that section is effective with respect to transportation beginning after Nov. 15, 1962.
+Pub. L. 87–508, § 5(b), June 28, 1962, 76 Stat. 115, provided that the amendment made by that section is effective with respect to transportation beginning after Nov. 15, 1962.
 
 **Effective Date of 1956 Amendment**
 
-Act July 25, 1956, ch. 725, § 6, 70 Stat. 646, provided that: “The amendments made by this Act [amending this section and sections 4262 to 4264, 4291, and 6421 of this title] shall apply to amounts paid on or after the first day of the first month which begins more than sixty days after the date of the enactment of this Act [July 25, 1956] for transportation commencing on or after such first day.”
+Act July 25, 1956, ch. 725, § 6, 70 Stat. 646, provided that: “The amendments made by this Act [amending this section and sections 4262 to 4264, 4291, and 6421 of this title] shall apply to amounts paid on or after the first day of the first month which begins more than sixty days after the date of the enactment of this Act [July 25, 1956] for transportation commencing on or after such first day.”
 
 **Savings Provision**
 
@@ -1165,9 +1165,9 @@ For provisions that nothing in amendment by section 401(b)(42) of Pub. L. 115–
 
 Due date for deposits of taxes imposed by this section which would be required to be made after Aug. 14, 1997, and before Oct. 1, 1997, to be Oct. 10, 1997, and due date for deposits of taxes imposed by this section which would be required to be made after Aug. 14, 1998, and before Oct. 1, 1998, to be Oct. 5, 1998, see section 1031(g) of Pub. L. 105–34, set out as a note under section 6302 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 **Inflation Adjusted Items for Certain Years**
 
@@ -1177,7 +1177,7 @@ Provisions relating to inflation adjustment of items in this section for certain
 
 2010—Internal Revenue News Release IR 2009–120, Dec. 23, 2009.
 
-#### § 4262. Definition of taxable transportation
+#### § 4262. Definition of taxable transportation
 
 **(a) Taxable transportation; in general** For purposes of this part, except as provided in subsection (b), the term “taxable transportation” means—
 
@@ -1249,7 +1249,7 @@ For purposes of this part, the term “transportation” includes layover or wai
 
 No notice may be published under paragraph (1)(A) with respect to any qualified agreement before the date 90 days after the date on which a copy of such agreement was furnished to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-(Added July 25, 1956, ch. 725, § 3, 70 Stat. 644; amended Pub. L. 86–70, § 22(b), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, § 18(a), July 12, 1960, 74 Stat. 416; Pub. L. 87–508, § 5(b), June 28, 1962, 76 Stat. 116; Pub. L. 89–44, title VIII, § 803(a), June 21, 1965, 79 Stat. 160; Pub. L. 91–258, title II, § 203(b), May 21, 1970, 84 Stat. 238; Pub. L. 97–248, title II, § 281A(a)(1), (2), Sept. 3, 1982, 96 Stat. 566, 567.)
+(Added July 25, 1956, ch. 725, § 3, 70 Stat. 644; amended Pub. L. 86–70, § 22(b), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, § 18(a), July 12, 1960, 74 Stat. 416; Pub. L. 87–508, § 5(b), June 28, 1962, 76 Stat. 116; Pub. L. 89–44, title VIII, § 803(a), June 21, 1965, 79 Stat. 160; Pub. L. 91–258, title II, § 203(b), May 21, 1970, 84 Stat. 238; Pub. L. 97–248, title II, § 281A(a)(1), (2), Sept. 3, 1982, 96 Stat. 566, 567.)
 
 **Editorial Notes**
 
@@ -1259,19 +1259,19 @@ A prior section 4262 was renumbered 4263 of this title and later repealed.
 
 **Amendments**
 
-1982—Subsec. (c)(3). Pub. L. 97–248, § 281A(a)(1), substituted “12 hours” for “6 hours” wherever appearing.
+1982—Subsec. (c)(3). Pub. L. 97–248, § 281A(a)(1), substituted “12 hours” for “6 hours” wherever appearing.
 
-Subsec. (e). Pub. L. 97–248, § 281A(a)(2), added subsec. (e).
+Subsec. (e). Pub. L. 97–248, § 281A(a)(2), added subsec. (e).
 
-1970—Subsec. (a). Pub. L. 91–258, § 203(b)(1)–(3), substituted “part” for “subchapter” in introductory text, “transportation by air” for “transportation” in par. (1), and “in the case of transportation by air” for “in the case of transportation” in par. (2), respectively.
+1970—Subsec. (a). Pub. L. 91–258, § 203(b)(1)–(3), substituted “part” for “subchapter” in introductory text, “transportation by air” for “transportation” in par. (1), and “in the case of transportation by air” for “in the case of transportation” in par. (2), respectively.
 
-Subsec. (b). Pub. L. 91–258, § 203(b)(1), (4), substituted “part” for “subchapter” and “transportation by air which” for “transportation which”, in introductory text, respectively.
+Subsec. (b). Pub. L. 91–258, § 203(b)(1), (4), substituted “part” for “subchapter” and “transportation by air which” for “transportation which”, in introductory text, respectively.
 
-Subsec. (d). Pub. L. 91–258, § 203(b)(5), added subsec. (d).
+Subsec. (d). Pub. L. 91–258, § 203(b)(5), added subsec. (d).
 
 1965—Subsec. (c)(4). Pub. L. 89–44 inserted sentence relating to personnel of the Armed Forces traveling in uniform at their own expense following subpar. (B).
 
-1962—Subsec. (a). Pub. L. 87–508 substituted in introductory phrase “subchapter” for “part” and inserted in par. (2) “, but only if such portion is not a part of uninterrupted international air transportation (within the meaning of subsection (c)(3))”.
+1962—Subsec. (a). Pub. L. 87–508 substituted in introductory phrase “subchapter” for “part” and inserted in par. (2) “, but only if such portion is not a part of uninterrupted international air transportation (within the meaning of subsection (c)(3))”.
 
 Subsec. (b). Pub. L. 87–508 substituted in introductory phrase “subchapter” for “part”.
 
@@ -1285,7 +1285,7 @@ Subsec. (c)(3). Pub. L. 87–508 added par. (3).
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title II, § 281A(a)(3), Sept. 3, 1982, 96 Stat. 567, provided that: “The amendments made by this subsection [amending this section] shall apply to transportation beginning after August 31, 1982.”
+Pub. L. 97–248, title II, § 281A(a)(3), Sept. 3, 1982, 96 Stat. 567, provided that: “The amendments made by this subsection [amending this section] shall apply to transportation beginning after August 31, 1982.”
 
 **Effective Date of 1970 Amendment**
 
@@ -1293,11 +1293,11 @@ Amendment by Pub. L. 91–258 applicable to transportation beginning after June 
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–44, title VIII, § 803(b), June 21, 1965, 79 Stat. 160, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to amounts paid for transportation beginning on or after July 1, 1965.”
+Pub. L. 89–44, title VIII, § 803(b), June 21, 1965, 79 Stat. 160, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to amounts paid for transportation beginning on or after July 1, 1965.”
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–508, § 5(b), June 28, 1962, 76 Stat. 115, provided that the amendment made by that section is effective with respect to transportation beginning after Nov. 15, 1962.
+Pub. L. 87–508, § 5(b), June 28, 1962, 76 Stat. 115, provided that the amendment made by that section is effective with respect to transportation beginning after Nov. 15, 1962.
 
 **Effective Date of 1960 Amendment**
 
@@ -1315,7 +1315,7 @@ Section applicable to amounts paid on or after first day of first month which be
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### § 4263. Special rules
+#### § 4263. Special rules
 
 **(a) Payments made outside the United States for prepaid orders**
 
@@ -1341,13 +1341,13 @@ In applying this subchapter to a round trip, such round trip shall be considered
 
 In applying this subchapter to transportation any part of which is outside the northern portion of the Western Hemisphere, if the route of such transportation leaves and reenters the northern portion of the Western Hemisphere, such transportation shall be considered to consist of transportation to a point outside such northern portion, and of separate transportation thereafter. For purposes of this subsection, the term “northern portion of the Western Hemisphere” means the area lying west of the 30th meridian west of Greenwich, east of the international dateline, and north of the Equator, but not including any country of South America.
 
-(Added July 25, 1956, ch. 725, § 4(a), 70 Stat. 645, § 4264; amended Pub. L. 87–508, § 5(b), June 28, 1962, 76 Stat. 117; renumbered § 4263, Pub. L. 91–258, title II, § 205(c)(2), May 21, 1970, 84 Stat. 242; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title X, § 1031(c)(3), Aug. 5, 1997, 111 Stat. 932.)
+(Added July 25, 1956, ch. 725, § 4(a), 70 Stat. 645, § 4264; amended Pub. L. 87–508, § 5(b), June 28, 1962, 76 Stat. 117; renumbered § 4263, Pub. L. 91–258, title II, § 205(c)(2), May 21, 1970, 84 Stat. 242; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title X, § 1031(c)(3), Aug. 5, 1997, 111 Stat. 932.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4263, acts Aug. 16, 1954, ch. 736, 68A Stat. 506, § 4263, formerly § 4262; renumbered § 4263 and amended July 25, 1956, ch. 725, § 2, 70 Stat. 644; Aug. 7, 1956, ch. 1024, § 1, 70 Stat. 1077; June 29, 1957, Pub. L. 85–74, 71 Stat. 243; Sept. 2, 1958, Pub. L. 85–859, title I, § 134, 72 Stat. 1292; June 28, 1962, Pub. L. 87–508, § 5(b), 76 Stat. 117, provided for exemptions, subsecs. (a) to (d) relating to commutation travel, etc., certain organizations; members of the Armed Forces, and small aircraft on nonestablished lines, respectively, prior to repeal by Pub. L. 91–258, title II, § 205(c)(1), May 21, 1970, 84 Stat. 242, effective on July 1, 1970, as provided in section 211(a) of Pub. L. 91–258, set out as a note under section 4041 of this title.
+A prior section 4263, acts Aug. 16, 1954, ch. 736, 68A Stat. 506, § 4263, formerly § 4262; renumbered § 4263 and amended July 25, 1956, ch. 725, § 2, 70 Stat. 644; Aug. 7, 1956, ch. 1024, § 1, 70 Stat. 1077; June 29, 1957, Pub. L. 85–74, 71 Stat. 243; Sept. 2, 1958, Pub. L. 85–859, title I, § 134, 72 Stat. 1292; June 28, 1962, Pub. L. 87–508, § 5(b), 76 Stat. 117, provided for exemptions, subsecs. (a) to (d) relating to commutation travel, etc., certain organizations; members of the Armed Forces, and small aircraft on nonestablished lines, respectively, prior to repeal by Pub. L. 91–258, title II, § 205(c)(1), May 21, 1970, 84 Stat. 242, effective on July 1, 1970, as provided in section 211(a) of Pub. L. 91–258, set out as a note under section 4041 of this title.
 
 **Amendments**
 
@@ -1381,7 +1381,7 @@ Amendment by Pub. L. 105–34 applicable to transportation beginning on or after
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–508, § 5(b), June 28, 1962, 76 Stat. 115, provided that the amendment made by that section is effective with respect to transportation beginning after Nov. 15, 1962.
+Pub. L. 87–508, § 5(b), June 28, 1962, 76 Stat. 115, provided that the amendment made by that section is effective with respect to transportation beginning after Nov. 15, 1962.
 
 **Effective Date**
 
@@ -1393,9 +1393,9 @@ Section applicable to amounts paid on or after first day of first month which be
 
 **Amendments**
 
-1970—Pub. L. 91–258, title II, § 204, May 21, 1970, 84 Stat. 239, added “PART II—PROPERTY” and items 4271 and 4272.
+1970—Pub. L. 91–258, title II, § 204, May 21, 1970, 84 Stat. 239, added “PART II—PROPERTY” and items 4271 and 4272.
 
-#### § 4271. Imposition of tax
+#### § 4271. Imposition of tax
 
 **(a) In general**
 
@@ -1433,7 +1433,7 @@ For purposes of this section, in any case in which a person engaged in the busin
 
 If, as of the date any transportation begins, the taxes imposed by this section would not have applied to such transportation if paid for on such date, any tax paid under paragraph (1)(B) with respect to such transportation shall be treated as an overpayment.
 
-(Added Pub. L. 91–258, title II, § 204, May 21, 1970, 84 Stat. 239; amended Pub. L. 94–455, title XIX, § 1904(a)(8), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, § 1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, § 280(b), Sept. 3, 1982, 96 Stat. 564; Pub. L. 100–223, title IV, § 402(a)(2), Dec. 30, 1987, 101 Stat. 1532; Pub. L. 101–508, title XI, § 11213(a)(2), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 104–188, title I, § 1609(b), Aug. 20, 1996, 110 Stat. 1841; Pub. L. 105–2, § 2(b)(2), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, § 1031(b)(2), Aug. 5, 1997, 111 Stat. 929; Pub. L. 110–161, div. K, title I, § 116(b)(2), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, § 2(b)(2), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, § 2(b)(2), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, § 2(b)(2), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, § 2(b)(2), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, § 2(b)(2), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, § 2(b)(2), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, § 2(b)(2), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, § 2(b)(2), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, § 2(b)(2), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, § 101(b)(2), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, § 2(b)(2), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, § 2(b)(2), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, § 2(b)(2), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, § 2(b)(2), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, § 2(b)(2), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, § 2(b)(2), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title II, § 202(b)(2), Sept. 16, 2011, 125 Stat. 357; Pub. L. 112–91, § 2(b)(2), Jan. 31, 2012, 126 Stat. 3; Pub. L. 112–95, title XI, § 1101(b)(2), Feb. 14, 2012, 126 Stat. 148; Pub. L. 114–55, title II, § 202(b)(2), Sept. 30, 2015, 129 Stat. 525; Pub. L. 114–141, title II, § 202(b)(2), Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, § 1202(b)(2), July 15, 2016, 130 Stat. 619; Pub. L. 115–63, title II, § 202(b)(2), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–141, div. M, title I, § 202(b)(2), Mar. 23, 2018, 132 Stat. 1048; Pub. L. 115–254, div. B, title VIII, § 802(b)(2), Oct. 5, 2018, 132 Stat. 3429; Pub. L. 118–15, div. B, title II, § 2212(b)(2), Sept. 30, 2023, 137 Stat. 85; Pub. L. 118–34, title II, § 202(b)(2), Dec. 26, 2023, 137 Stat. 1115; Pub. L. 118–41, title II, § 202(b)(2), Mar. 8, 2024, 138 Stat. 23; Pub. L. 118–63, title XIII, § 1302(b)(2), May 16, 2024, 138 Stat. 1433.)
+(Added Pub. L. 91–258, title II, § 204, May 21, 1970, 84 Stat. 239; amended Pub. L. 94–455, title XIX, § 1904(a)(8), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, § 1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, § 280(b), Sept. 3, 1982, 96 Stat. 564; Pub. L. 100–223, title IV, § 402(a)(2), Dec. 30, 1987, 101 Stat. 1532; Pub. L. 101–508, title XI, § 11213(a)(2), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 104–188, title I, § 1609(b), Aug. 20, 1996, 110 Stat. 1841; Pub. L. 105–2, § 2(b)(2), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, § 1031(b)(2), Aug. 5, 1997, 111 Stat. 929; Pub. L. 110–161, div. K, title I, § 116(b)(2), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, § 2(b)(2), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, § 2(b)(2), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, § 2(b)(2), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, § 2(b)(2), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, § 2(b)(2), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, § 2(b)(2), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, § 2(b)(2), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, § 2(b)(2), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, § 2(b)(2), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, § 101(b)(2), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, § 2(b)(2), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, § 2(b)(2), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, § 2(b)(2), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, § 2(b)(2), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, § 2(b)(2), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, § 2(b)(2), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title II, § 202(b)(2), Sept. 16, 2011, 125 Stat. 357; Pub. L. 112–91, § 2(b)(2), Jan. 31, 2012, 126 Stat. 3; Pub. L. 112–95, title XI, § 1101(b)(2), Feb. 14, 2012, 126 Stat. 148; Pub. L. 114–55, title II, § 202(b)(2), Sept. 30, 2015, 129 Stat. 525; Pub. L. 114–141, title II, § 202(b)(2), Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, § 1202(b)(2), July 15, 2016, 130 Stat. 619; Pub. L. 115–63, title II, § 202(b)(2), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–141, div. M, title I, § 202(b)(2), Mar. 23, 2018, 132 Stat. 1048; Pub. L. 115–254, div. B, title VIII, § 802(b)(2), Oct. 5, 2018, 132 Stat. 3429; Pub. L. 118–15, div. B, title II, § 2212(b)(2), Sept. 30, 2023, 137 Stat. 85; Pub. L. 118–34, title II, § 202(b)(2), Dec. 26, 2023, 137 Stat. 1115; Pub. L. 118–41, title II, § 202(b)(2), Mar. 8, 2024, 138 Stat. 23; Pub. L. 118–63, title XIII, § 1302(b)(2), May 16, 2024, 138 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -1443,7 +1443,7 @@ The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement
 
 **Prior Provisions**
 
-A prior section 4271, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to tax for the transportation of property, prior to repeal by Pub. L. 85–475, § 4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
+A prior section 4271, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to tax for the transportation of property, prior to repeal by Pub. L. 85–475, § 4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
 
 **Amendments**
 
@@ -1513,9 +1513,9 @@ Subsec. (d)(1)(A)(ii). Pub. L. 105–34 substituted “September 30, 2007” for
 
 1996—Subsec. (d). Pub. L. 104–188 substituted “January 1, 1996, and to transportation beginning on or after the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and before January 1, 1997” for “January 1, 1996”.
 
-1990—Subsec. (a). Pub. L. 101–508, § 11213(a)(2), substituted “6.25 percent” for “5 percent”.
+1990—Subsec. (a). Pub. L. 101–508, § 11213(a)(2), substituted “6.25 percent” for “5 percent”.
 
-Subsec. (d). Pub. L. 101–508, § 11213(d)(1), substituted “January 1, 1996” for “January 1, 1991”.
+Subsec. (d). Pub. L. 101–508, § 11213(d)(1), substituted “January 1, 1996” for “January 1, 1991”.
 
 1987—Subsec. (d). Pub. L. 100–223 substituted “1991” for “1988”.
 
@@ -1609,7 +1609,7 @@ Section applicable to transportation beginning after June 30, 1970, see section 
 
 Due date for deposits of taxes imposed by this section which would be required to be made after July 31, 1998, and before Oct. 1, 1998, to be Oct. 5, 1998, see section 1031(g) of Pub. L. 105–34, set out as a note under section 6302 of this title.
 
-#### § 4272. Definition of taxable transportation, etc.
+#### § 4272. Definition of taxable transportation, etc.
 
 **(a) In general**
 
@@ -1629,13 +1629,13 @@ For purposes of this part, the term “property” does not include excess bagga
 
 For purposes of this part, the term “transportation” includes layover or waiting time and movement of the aircraft in deadhead service.
 
-(Added Pub. L. 91–258, title II, § 204, May 21, 1970, 84 Stat. 240; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 91–258, title II, § 204, May 21, 1970, 84 Stat. 240; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior sections 4272 and 4273 were repealed by Pub. L. 85–475, § 4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
+Prior sections 4272 and 4273 were repealed by Pub. L. 85–475, § 4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
 
 Section 4272, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to exemptions from tax for the transportation of property.
 
@@ -1651,13 +1651,13 @@ Section 4273, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to registr
 
 **Amendments**
 
-1990—Pub. L. 101–508, title XI, § 11213(e)(2), Nov. 5, 1990, 104 Stat. 1388–436, struck out item 4283 “Reduction in aviation-related taxes in certain cases”.
+1990—Pub. L. 101–508, title XI, § 11213(e)(2), Nov. 5, 1990, 104 Stat. 1388–436, struck out item 4283 “Reduction in aviation-related taxes in certain cases”.
 
-1987—Pub. L. 100–223, title IV, § 405(c), Dec. 30, 1987, 101 Stat. 1535, added item 4283.
+1987—Pub. L. 100–223, title IV, § 405(c), Dec. 30, 1987, 101 Stat. 1535, added item 4283.
 
-1970—Pub. L. 91–258, title II, § 205(a)(1), May 21, 1970, 84 Stat. 241, inserted “PART III—SPECIAL PROVISIONS APPLICABLE TO TAXES ON TRANSPORTATION BY AIR.”
+1970—Pub. L. 91–258, title II, § 205(a)(1), May 21, 1970, 84 Stat. 241, inserted “PART III—SPECIAL PROVISIONS APPLICABLE TO TAXES ON TRANSPORTATION BY AIR.”
 
-#### § 4281. Small aircraft on nonestablished lines
+#### § 4281. Small aircraft on nonestablished lines
 
 **(a) In general**
 
@@ -1675,13 +1675,13 @@ For purposes of this section, an aircraft shall not be considered as operated on
 
 For purposes of this section, the term “jet aircraft” shall not include any aircraft which is a rotorcraft or propeller aircraft.
 
-(Added Pub. L. 91–258, title II, § 205(a)(1), May 21, 1970, 84 Stat. 241; amended Pub. L. 97–248, title II, § 280(c)(2)(B), Sept. 3, 1982, 96 Stat. 564; Pub. L. 109–59, title XI, § 11124(a), Aug. 10, 2005, 119 Stat. 1952; Pub. L. 112–95, title XI, § 1107(a), Feb. 14, 2012, 126 Stat. 154; Pub. L. 113–295, div. A, title II, § 204(a), Dec. 19, 2014, 128 Stat. 4025.)
+(Added Pub. L. 91–258, title II, § 205(a)(1), May 21, 1970, 84 Stat. 241; amended Pub. L. 97–248, title II, § 280(c)(2)(B), Sept. 3, 1982, 96 Stat. 564; Pub. L. 109–59, title XI, § 11124(a), Aug. 10, 2005, 119 Stat. 1952; Pub. L. 112–95, title XI, § 1107(a), Feb. 14, 2012, 126 Stat. 154; Pub. L. 113–295, div. A, title II, § 204(a), Dec. 19, 2014, 128 Stat. 4025.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4281, act Aug. 16, 1954, ch. 736, 68A Stat. 508, related to tax on transportation of oil by pipeline, prior to repeal by Pub. L. 85–475, § 4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
+A prior section 4281, act Aug. 16, 1954, ch. 736, 68A Stat. 508, related to tax on transportation of oil by pipeline, prior to repeal by Pub. L. 85–475, § 4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
 
 **Amendments**
 
@@ -1697,15 +1697,15 @@ A prior section 4281, act Aug. 16, 1954, ch. 736, 68A Stat. 508, related to tax 
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–295, div. A, title II, § 204(b), Dec. 19, 2014, 128 Stat. 4025, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in section 1107 of the FAA Modernization and Reform Act of 2012 [Pub. L. 112–95].”
+Pub. L. 113–295, div. A, title II, § 204(b), Dec. 19, 2014, 128 Stat. 4025, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in section 1107 of the FAA Modernization and Reform Act of 2012 [Pub. L. 112–95].”
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–95, title XI, § 1107(b), Feb. 14, 2012, 126 Stat. 154, provided that: “The amendment made by this section [amending this section] shall apply to taxable transportation provided after March 31, 2012.”
+Pub. L. 112–95, title XI, § 1107(b), Feb. 14, 2012, 126 Stat. 154, provided that: “The amendment made by this section [amending this section] shall apply to taxable transportation provided after March 31, 2012.”
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–59, title XI, § 11124(b), Aug. 10, 2005, 119 Stat. 1953, provided that: “The amendment made by this section [amending this section] shall apply with respect to transportation beginning after September 30, 2005, but shall not apply to any amount paid before such date for such transportation.”
+Pub. L. 109–59, title XI, § 11124(b), Aug. 10, 2005, 119 Stat. 1953, provided that: “The amendment made by this section [amending this section] shall apply with respect to transportation beginning after September 30, 2005, but shall not apply to any amount paid before such date for such transportation.”
 
 **Effective Date of 1982 Amendment**
 
@@ -1715,7 +1715,7 @@ Amendment by Pub. L. 97–248 applicable with respect to transportation beginnin
 
 Section effective on July 1, 1970, see section 211(a) of Pub. L. 91–258, set out as an Effective Date of 1970 Amendment note under section 4041 of this title.
 
-#### § 4282. Transportation by air for other members of affiliated group
+#### § 4282. Transportation by air for other members of affiliated group
 
 **(a) General rule** Under regulations prescribed by the Secretary, if—
 
@@ -1733,13 +1733,13 @@ For purposes of subsection (a), the determination of whether an aircraft is avai
 
 For purposes of subsection (a), the term “affiliated group” has the meaning assigned to such term by section 1504(a), except that all corporations shall be treated as includible corporations (without any exclusion under section 1504(b)).
 
-(Added Pub. L. 91–258, title II, § 205(a)(1), May 21, 1970, 84 Stat. 241; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–188, title I, § 1609(f), Aug. 20, 1996, 110 Stat. 1842.)
+(Added Pub. L. 91–258, title II, § 205(a)(1), May 21, 1970, 84 Stat. 241; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–188, title I, § 1609(f), Aug. 20, 1996, 110 Stat. 1842.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4282, act Aug. 16, 1954, ch. 736, 68A Stat. 508, defined “fair charge” in connection with tax on transportation of oil by pipeline, prior to repeal by Pub. L. 85–475, § 4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
+A prior section 4282, act Aug. 16, 1954, ch. 736, 68A Stat. 508, defined “fair charge” in connection with tax on transportation of oil by pipeline, prior to repeal by Pub. L. 85–475, § 4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
 
 **Amendments**
 
@@ -1753,13 +1753,13 @@ A prior section 4282, act Aug. 16, 1954, ch. 736, 68A Stat. 508, defined “fair
 
 Amendment by Pub. L. 104–188 effective on 7th calendar day after Aug. 20, 1996, see section 1609(i) of Pub. L. 104–188, set out as a note under section 4041 of this title.
 
-#### [§ 4283. Repealed. Pub. L. 101–508, title XI, § 11213(e)(1), Nov. 5, 1990, 104 Stat. 1388–436]
+#### [§ 4283. Repealed. Pub. L. 101–508, title XI, § 11213(e)(1), Nov. 5, 1990, 104 Stat. 1388–436]
 
-Section, added Pub. L. 100–223, title IV, § 405(a), Dec. 30, 1987, 101 Stat. 1533; amended Pub. L. 101–239, title VII, § 7501(a)–(b)(2), Dec. 19, 1989, 103 Stat. 2361, provided for reduction in aviation-related taxes in certain cases.
+Section, added Pub. L. 100–223, title IV, § 405(a), Dec. 30, 1987, 101 Stat. 1533; amended Pub. L. 101–239, title VII, § 7501(a)–(b)(2), Dec. 19, 1989, 103 Stat. 2361, provided for reduction in aviation-related taxes in certain cases.
 
 ## [Subchapter D—Repealed]
 
-### [§§ 4286, 4287. Repealed. Pub. L. 89–44, title III, § 304, June 21, 1965, 79 Stat. 148]
+### [§§ 4286, 4287. Repealed. Pub. L. 89–44, title III, § 304, June 21, 1965, 79 Stat. 148]
 
 Section 4286, act Aug. 16, 1954, ch. 736, 68A Stat. 510, imposed a tax equivalent to 10 percent of the amount collected for the use of safety deposit boxes.
 
@@ -1769,7 +1769,7 @@ Section 4287, act Aug. 16, 1954, ch. 736, 68A Stat. 510, defined safety deposit 
 
 **Effective Date of Repeal**
 
-Pub. L. 89–44, title VII, § 701(b)(4), June 21, 1965, 79 Stat. 157, provided that: “The amendments made by section 304 [repealing these sections] shall apply with respect to use periods beginning on or after July 1, 1965.”
+Pub. L. 89–44, title VII, § 701(b)(4), June 21, 1965, 79 Stat. 157, provided that: “The amendments made by section 304 [repealing these sections] shall apply with respect to use periods beginning on or after July 1, 1965.”
 
 ## Subchapter E—Special Provisions Applicable to Services and Facilities Taxes
 
@@ -1777,15 +1777,15 @@ Pub. L. 89–44, title VII, § 701(b)(4), June 21, 1965, 79 Stat. 157, provide
 
 **Amendments**
 
-1976—Pub. L. 94–455, title XIX, § 1904(b)(4), Oct. 4, 1976, 90 Stat. 1815, struck out items 4292, 4294, and 4295 relating to State and local governmental exemption, exemption for nonprofit educational organizations, and cross reference to general administrative provisions, respectively.
+1976—Pub. L. 94–455, title XIX, § 1904(b)(4), Oct. 4, 1976, 90 Stat. 1815, struck out items 4292, 4294, and 4295 relating to State and local governmental exemption, exemption for nonprofit educational organizations, and cross reference to general administrative provisions, respectively.
 
-1958—Pub. L. 85–859, title I, § 135(b), Sept. 2, 1958, 72 Stat. 1292, added item 4294 and redesignated former item 4294 as 4295.
+1958—Pub. L. 85–859, title I, § 135(b), Sept. 2, 1958, 72 Stat. 1292, added item 4294 and redesignated former item 4294 as 4295.
 
-### § 4291. Cases where persons receiving payment must collect tax
+### § 4291. Cases where persons receiving payment must collect tax
 
 Except as otherwise provided in section 4263(a), every person receiving any payment for facilities or services on which a tax is imposed upon the payor thereof under this chapter shall collect the amount of the tax from the person making such payment.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 511; July 25, 1956, ch. 725, § 4(c), 70 Stat. 646; Pub. L. 85–859, title I, § 131(g), Sept. 2, 1958, 72 Stat. 1287; Pub. L. 89–44, title III, § 305(a), June 21, 1965, 79 Stat. 148; Pub. L. 91–258, title II, § 205(c)(3), May 21, 1970, 84 Stat. 242.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 511; July 25, 1956, ch. 725, § 4(c), 70 Stat. 646; Pub. L. 85–859, title I, § 131(g), Sept. 2, 1958, 72 Stat. 1287; Pub. L. 89–44, title III, § 305(a), June 21, 1965, 79 Stat. 148; Pub. L. 91–258, title II, § 205(c)(3), May 21, 1970, 84 Stat. 242.)
 
 **Editorial Notes**
 
@@ -1807,7 +1807,7 @@ Amendment by Pub. L. 91–258 effective on July 1, 1970, see section 211(a) of P
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–44, title VII, § 701(b)(1), June 21, 1965, 79 Stat. 156, provided that:
+Pub. L. 89–44, title VII, § 701(b)(1), June 21, 1965, 79 Stat. 156, provided that:
 
 > **“(A)** The amendments made by sections 301 and 305 [repealing sections 4231 to 4234 and 4241 to 4243 of this title and amending this section and section 6040 of this title] insofar as they relate to the taxes imposed by section 4231 of the Code, shall apply with respect to admissions, services, or uses after noon, December 31, 1965.
 
@@ -1829,9 +1829,9 @@ Amendment by Pub. L. 85–859 effective on first day of first calendar quarter w
 
 Amendment by act July 25, 1956, applicable to amounts paid on or after first day of first month which begins more than sixty days after July 25, 1956, for transportation commencing on or after such first day, see section 6 of act July 25, 1956, set out as a note under section 4261 of this title.
 
-### [§ 4292. Repealed. Pub. L. 94–455, title XIX, § 1904(a)(9), Oct. 4, 1976, 90 Stat. 1812]
+### [§ 4292. Repealed. Pub. L. 94–455, title XIX, § 1904(a)(9), Oct. 4, 1976, 90 Stat. 1812]
 
-Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 511; June 30, 1958, Pub. L. 85–475, § 4(b)(3), 72 Stat. 260; May 21, 1970, Pub. L. 91–258, title II, § 205(a)(2), 84 Stat. 241, provided tax exemption for any payment received for services or facilities furnished to any State, Territory, or political subdivision of such, or the District of Columbia.
+Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 511; June 30, 1958, Pub. L. 85–475, § 4(b)(3), 72 Stat. 260; May 21, 1970, Pub. L. 91–258, title II, § 205(a)(2), 84 Stat. 241, provided tax exemption for any payment received for services or facilities furnished to any State, Territory, or political subdivision of such, or the District of Columbia.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1839,11 +1839,11 @@ Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 511; June 30, 1958, Pub. L. 85�
 
 Repeal effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 4041 of this title.
 
-### § 4293. Exemption for United States and possessions
+### § 4293. Exemption for United States and possessions
 
 The Secretary of the Treasury may authorize exemption from the taxes imposed by section 4041, section 4051, chapter 32 (other than the taxes imposed by sections 4064 and 4121) and subchapter B of chapter 33, as to any particular article, or service or class of articles or services, to be purchased for the exclusive use of the United States, if he determines that the imposition of such taxes with respect to such articles or services, or class of articles or services will cause substantial burden or expense which can be avoided by granting tax exemption and that full benefit of such exemption, if granted, will accrue to the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 511; Pub. L. 91–258, title II, § 205(a)(3), May 21, 1970, 84 Stat. 241; Pub. L. 94–455, title XIX, § 1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, § 2(b)(3), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–502, title II, § 202(b), Oct. 21, 1978, 92 Stat. 1697; Pub. L. 95–618, title II, § 201(c)(2), Nov. 9, 1978, 92 Stat. 3184; Pub. L. 100–647, title VI, § 6103(a), Nov. 10, 1988, 102 Stat. 3711; Pub. L. 101–508, title XI, § 11221(c), Nov. 5, 1990, 104 Stat. 1388–444; Pub. L. 113–295, div. A, title II, § 221(a)(103)(B)(iii), Dec. 19, 2014, 128 Stat. 4053.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 511; Pub. L. 91–258, title II, § 205(a)(3), May 21, 1970, 84 Stat. 241; Pub. L. 94–455, title XIX, § 1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, § 2(b)(3), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–502, title II, § 202(b), Oct. 21, 1978, 92 Stat. 1697; Pub. L. 95–618, title II, § 201(c)(2), Nov. 9, 1978, 92 Stat. 3184; Pub. L. 100–647, title VI, § 6103(a), Nov. 10, 1988, 102 Stat. 3711; Pub. L. 101–508, title XI, § 11221(c), Nov. 5, 1990, 104 Stat. 1388–444; Pub. L. 113–295, div. A, title II, § 221(a)(103)(B)(iii), Dec. 19, 2014, 128 Stat. 4053.)
 
 **Editorial Notes**
 
@@ -1877,7 +1877,7 @@ Amendment by Pub. L. 101–508 effective Jan. 1, 1991, with exception for contra
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title VI, § 6103(b), Nov. 10, 1988, 102 Stat. 3711, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title VI, § 6103(b), Nov. 10, 1988, 102 Stat. 3711, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 10, 1988].”
 
 **Effective Date of 1978 Amendments**
 
@@ -1895,11 +1895,11 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 Amendment by Pub. L. 91–258 effective July 1, 1970, see section 211(a) of Pub. L. 91–258, set out as a note under section 4041 of this title.
 
-### [§§ 4294, 4295. Repealed. Pub. L. 94–455, title XIX, § 1904(a)(10), (11), Oct. 4, 1976, 90 Stat. 1812]
+### [§§ 4294, 4295. Repealed. Pub. L. 94–455, title XIX, § 1904(a)(10), (11), Oct. 4, 1976, 90 Stat. 1812]
 
-Section 4294, added Pub. L. 85–859, title I, § 135(a), Sept. 2, 1958, 72 Stat. 1292; amended Pub. L. 86–344, § 2(d), Sept. 21, 1959, 73 Stat. 618; Pub. L. 91–72, title I, § 101(j)(28), Dec. 30, 1969, 83 Stat. 529; Pub. L. 91–258, title II, § 205(a)(4), May 21, 1970, 84 Stat. 241, provided an exemption from tax for services and facilities furnished to a nonprofit educational organization and defined “nonprofit educational organization”.
+Section 4294, added Pub. L. 85–859, title I, § 135(a), Sept. 2, 1958, 72 Stat. 1292; amended Pub. L. 86–344, § 2(d), Sept. 21, 1959, 73 Stat. 618; Pub. L. 91–72, title I, § 101(j)(28), Dec. 30, 1969, 83 Stat. 529; Pub. L. 91–258, title II, § 205(a)(4), May 21, 1970, 84 Stat. 241, provided an exemption from tax for services and facilities furnished to a nonprofit educational organization and defined “nonprofit educational organization”.
 
-Section 4295, act Aug. 16, 1954, ch. 736, 68A Stat. 511, § 4295, formerly § 4294, renumbered Sept. 2, 1958, Pub. L. 85–859, title I, § 135(a), 72 Stat. 1292, related to a cross reference to general administrative provisions.
+Section 4295, act Aug. 16, 1954, ch. 736, 68A Stat. 511, § 4295, formerly § 4294, renumbered Sept. 2, 1958, Pub. L. 85–859, title I, § 135(a), 72 Stat. 1292, related to a cross reference to general administrative provisions.
 
 **Statutory Notes and Related Subsidiaries**
 

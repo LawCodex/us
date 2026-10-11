@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 69—GENERAL PROVISIONS RELATING TO STAMPS
 
-## § 6801. Authority for establishment, alteration, and distribution
+## § 6801. Authority for establishment, alteration, and distribution
 
 **(a) Establishment and alteration**
 
@@ -25,13 +25,13 @@ The Secretary may establish, and from time to time alter, renew, replace, or cha
 
 The Secretary shall prepare and distribute all the instructions, regulations, directions, forms, blanks, and stamps; and shall provide proper and sufficient adhesive stamps and other stamps or dies for expressing and denoting the several stamp taxes.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 829; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 94–569, § 2, Oct. 20, 1976, 90 Stat. 2699; Pub. L. 98–369, div. A, title IV, § 454(c)(13), July 18, 1984, 98 Stat. 822.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 829; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 94–569, § 2, Oct. 20, 1976, 90 Stat. 2699; Pub. L. 98–369, div. A, title IV, § 454(c)(13), July 18, 1984, 98 Stat. 822.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (b). Pub. L. 98–369 struck out “, except that stamps required by or prescribed pursuant to the provisions of section 5205 or section 5235 may be prepared and distributed by persons authorized by the Secretary, under such controls for the protection of the revenue as shall be deemed necessary” before the period at end.
+1984—Subsec. (b). Pub. L. 98–369 struck out “, except that stamps required by or prescribed pursuant to the provisions of section 5205 or section 5235 may be prepared and distributed by persons authorized by the Secretary, under such controls for the protection of the revenue as shall be deemed necessary” before the period at end.
 
 1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
@@ -43,7 +43,7 @@ Subsec. (b). Pub. L. 94–455 and Pub. L. 94–569 struck out “or his delegate
 
 Amendment by Pub. L. 98–369 effective July 1, 1985, see section 456(b) of Pub. L. 98–369, set out as an Effective Date note under section 5101 of this title.
 
-## § 6802. Supply and distribution
+## § 6802. Supply and distribution
 
 The Secretary shall furnish, without prepayment, to—
 
@@ -57,7 +57,7 @@ The Secretary shall furnish, without prepayment, to—
 
 Any designated depositary of the United States a suitable quantity of adhesive stamps to be kept on sale by such designated depositary.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 829; Pub. L. 89–44, title VI, § 601(d), June 21, 1965, 79 Stat. 154; Pub. L. 94–455, title XIX, § 1906(a)(36), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 829; Pub. L. 89–44, title VI, § 601(d), June 21, 1965, 79 Stat. 154; Pub. L. 94–455, title XIX, § 1906(a)(36), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834.)
 
 **Editorial Notes**
 
@@ -65,9 +65,9 @@ Any designated depositary of the United States a suitable quantity of adhesive s
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing and substituted in par. (2) “designated depositary.” for “designated depositary;”.
 
-1965—Par. (1). Pub. L. 89–44, § 601(d)(1), struck out “(other than the stamps on playing cards)” after “quantity of adhesive stamps”.
+1965—Par. (1). Pub. L. 89–44, § 601(d)(1), struck out “(other than the stamps on playing cards)” after “quantity of adhesive stamps”.
 
-Par. (3). Pub. L. 89–44, § 601(d)(2), struck out par. (3) which related to supply and distribution of stamps to State agents.
+Par. (3). Pub. L. 89–44, § 601(d)(2), struck out par. (3) which related to supply and distribution of stamps to State agents.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -77,9 +77,9 @@ Amendment by Pub. L. 89–44 to take effect in a manner consistent with effectiv
 
 **Transfer of Functions**
 
-Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
+Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
 
-## § 6803. Accounting and safeguarding
+## § 6803. Accounting and safeguarding
 
 **(a) Bond**
 
@@ -89,7 +89,7 @@ In cases coming within the provisions of paragraph (2) of section 6802, the Secr
 
 The Secretary may from time to time make such regulations as he may find necessary to insure the safekeeping or prevent the illegal use of all adhesive stamps referred to in paragraph (2) of section 6802.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 830; Pub. L. 92–310, title II, § 230(a), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, § 1906(a)(37), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 830; Pub. L. 92–310, title II, § 230(a), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, § 1906(a)(37), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834.)
 
 **Editorial Notes**
 
@@ -101,11 +101,11 @@ Subsec. (b). Pub. L. 94–455 redesignated par. (2) as entire subsection, struck
 
 1972—Subsec. (a). Pub. L. 92–310 repealed subsec. (a) which related to bonds, deposits of receipts, and accounts of postmasters, and which required the Postmaster General to transfer all receipts to the Treasury.
 
-## § 6804. Attachment and cancellation
+## § 6804. Attachment and cancellation
 
 Except as otherwise expressly provided in this title, the stamps referred to in section 6801 shall be attached, protected, removed, canceled, obliterated, and destroyed, in such manner and by such instruments or other means as the Secretary may prescribe by rules or regulations.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 830; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 830; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -113,7 +113,7 @@ Except as otherwise expressly provided in this title, the stamps referred to in 
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-## § 6805. Redemption of stamps
+## § 6805. Redemption of stamps
 
 **(a) Authorization**
 
@@ -131,7 +131,7 @@ No claim for the redemption of, or allowance for, stamps shall be allowed under 
 
 The findings of fact in and the decision of the Secretary upon the merits of any claim presented under or authorized by this section shall, in the absence of fraud or mistake in mathematical calculation, be final and not subject to revision by any accounting officer.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 830; Pub. L. 85–859, title I, § 165(b), (c), Sept. 2, 1958, 72 Stat. 1313; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 830; Pub. L. 85–859, title I, § 165(b), (c), Sept. 2, 1958, 72 Stat. 1313; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -139,9 +139,9 @@ The findings of fact in and the decision of the Secretary upon the merits of any
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1958—Subsec. (a). Pub. L. 85–859, § 165(b), struck out provisions which authorized the Secretary to make allowances for or redeem stamps which through mistake may have been improperly or unnecessarily used, or where the rates or duties represented thereby have been excessive in amount, paid in error, or in any manner wrongfully collected.
+1958—Subsec. (a). Pub. L. 85–859, § 165(b), struck out provisions which authorized the Secretary to make allowances for or redeem stamps which through mistake may have been improperly or unnecessarily used, or where the rates or duties represented thereby have been excessive in amount, paid in error, or in any manner wrongfully collected.
 
-Subsec. (c). Pub. L. 85–859, § 165(c), inserted “under this section” after “shall be allowed”.
+Subsec. (c). Pub. L. 85–859, § 165(c), inserted “under this section” after “shall be allowed”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -149,17 +149,17 @@ Subsec. (c). Pub. L. 85–859, § 165(c), inserted “under this section” af
 
 Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859, Sept. 2, 1958, 72 Stat. 1275.
 
-## § 6806. Occupational tax stamps
+## § 6806. Occupational tax stamps
 
 Every person engaged in any business, avocation, or employment, who is thereby made liable to a special tax (other than a special tax under subchapter B of chapter 35, under subchapter B of chapter 36, or under subtitle E) shall place and keep conspicuously in his establishment or place of business all stamps denoting payment of such special tax.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 831; Pub. L. 89–44, title VI, § 601(e), June 21, 1965, 79 Stat. 155; Pub. L. 90–618, title II, § 204, Oct. 22, 1968, 82 Stat. 1235.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 831; Pub. L. 89–44, title VI, § 601(e), June 21, 1965, 79 Stat. 155; Pub. L. 90–618, title II, § 204, Oct. 22, 1968, 82 Stat. 1235.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter B of chapter 36, referred to in text, was repealed by Pub. L. 95–600, title V, § 521(b), Nov. 6, 1978, 92 Stat. 2884.
+Subchapter B of chapter 36, referred to in text, was repealed by Pub. L. 95–600, title V, § 521(b), Nov. 6, 1978, 92 Stat. 2884.
 
 **Amendments**
 
@@ -177,13 +177,13 @@ Amendment by Pub. L. 90–618 effective Oct. 22, 1968, see section 207 of Pub. L
 
 Amendment by Pub. L. 89–44 to take effect in a manner consistent with effective date of change of tax provision to which related, see section 701(e) of Pub. L. 89–44, set out as a note under section 6103 of this title.
 
-## § 6807. Stamping, marking, and branding seized goods
+## § 6807. Stamping, marking, and branding seized goods
 
 If any article of manufacture or produce requiring brands, stamps, or marks of whatever kind to be placed thereon, is sold upon levy, forfeiture (except as provided in section 5688 with respect to distilled spirits), or other process provided by law, the same not having been branded, stamped, or marked, as required by law, the officer selling the same shall, upon sale thereof, fix or cause to be affixed the brands, stamps, or marks so required.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 831.)
 
-## § 6808. Special provisions relating to stamps
+## § 6808. Special provisions relating to stamps
 
 For special provisions on stamps relating to—
 
@@ -193,29 +193,29 @@ For special provisions on stamps relating to—
 
 **(3)** Tobacco, snuff, cigars and cigarettes, see chapter 52.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 831; Pub. L. 88–36, title II, § 201(d), June 4, 1963, 77 Stat. 54; Pub. L. 89–44, title VI, § 601(f), June 21, 1965, 79 Stat. 155; Pub. L. 91–513, title III, § 1102(c), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 93–490, § 3(b)(6), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIX, §§ 1904(b)(5)(B), (7)(A), (8)(B), (9)(A), 1952(n)(1), Oct. 4, 1976, 90 Stat. 1815, 1816, 1846.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 831; Pub. L. 88–36, title II, § 201(d), June 4, 1963, 77 Stat. 54; Pub. L. 89–44, title VI, § 601(f), June 21, 1965, 79 Stat. 155; Pub. L. 91–513, title III, § 1102(c), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 93–490, § 3(b)(6), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIX, §§ 1904(b)(5)(B), (7)(A), (8)(B), (9)(A), 1952(n)(1), Oct. 4, 1976, 90 Stat. 1815, 1816, 1846.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Par. (1). Pub. L. 94–455, § 1952(n)(1), redesignated par. (3) as (1).
+1976—Par. (1). Pub. L. 94–455, § 1952(n)(1), redesignated par. (3) as (1).
 
-Par. (2). Pub. L. 94–455, § 1952(n)(1), redesignated par. (6) as (2). Former par. (2), relating to cotton futures, with the included reference to subchapter D of chapter 39, was struck out.
+Par. (2). Pub. L. 94–455, § 1952(n)(1), redesignated par. (6) as (2). Former par. (2), relating to cotton futures, with the included reference to subchapter D of chapter 39, was struck out.
 
-Par. (3). Pub. L. 94–455, § 1952(n)(1), redesignated par. (11) as (3). Former par. (3) redesignated (1).
+Par. (3). Pub. L. 94–455, § 1952(n)(1), redesignated par. (11) as (3). Former par. (3) redesignated (1).
 
-Par. (4). Pub. L. 94–455, § 1904(b)(5)(B), struck out par. (4) relating to documents and other instruments, with the included reference to chapter 34.
+Par. (4). Pub. L. 94–455, § 1904(b)(5)(B), struck out par. (4) relating to documents and other instruments, with the included reference to chapter 34.
 
-Par. (6). Pub. L. 94–455, § 1952(n)(1), redesignated par. (6) as (2).
+Par. (6). Pub. L. 94–455, § 1952(n)(1), redesignated par. (6) as (2).
 
-Par. (7). Pub. L. 94–455, § 1904(b)(7)(A), struck out par. (7) relating to oleomargarine, with the included reference to subchapter F of chapter 38.
+Par. (7). Pub. L. 94–455, § 1904(b)(7)(A), struck out par. (7) relating to oleomargarine, with the included reference to subchapter F of chapter 38.
 
-Par. (10). Pub. L. 94–455, § 1904(b)(9)(A), struck out par. (10) relating to process, renovated, or adulterated butter, with the included reference to subchapter C of chapter 39.
+Par. (10). Pub. L. 94–455, § 1904(b)(9)(A), struck out par. (10) relating to process, renovated, or adulterated butter, with the included reference to subchapter C of chapter 39.
 
-Par. (11). Pub. L. 94–455, § 1952(n)(1), redesignated par. (11) as (3).
+Par. (11). Pub. L. 94–455, § 1952(n)(1), redesignated par. (11) as (3).
 
-Par. (12). Pub. L. 94–455, § 1904(b)(8)(B), struck out par. (12) relating to white phosphorous matches, with the included reference to subchapter B of chapter 39.
+Par. (12). Pub. L. 94–455, § 1904(b)(8)(B), struck out par. (12) relating to white phosphorous matches, with the included reference to subchapter B of chapter 39.
 
 1974—Par. (5). Pub. L. 93–490 struck out par. (5) relating to filled cheese, with the included reference to subchapter C of chapter 39.
 

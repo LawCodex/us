@@ -13,7 +13,7 @@ retrieved: 2026-10-11
 
 # Title 12—BANKS AND BANKING
 
-Current through 119-102not101
+Current through 119-102not101
 
 - [CHAPTER 1—THE COMPTROLLER OF THE CURRENCY](chapter-001-the-comptroller-of-the-currency.md)
 

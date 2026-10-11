@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–263, div. A, title X, § 1081(e)(1), (2), Dec. 23, 2022, 136 Stat. 2798, substituted “DEFINITIONS, RULES OF CONSTRUCTION, CROSS REFERENCES, AND RELATED MATTERS” for “DEFINITIONS” in chapter heading and added item 102. Addition of item 102 was made pursuant to operation of section 102 of this title.
+2022—Pub. L. 117–263, div. A, title X, § 1081(e)(1), (2), Dec. 23, 2022, 136 Stat. 2798, substituted “DEFINITIONS, RULES OF CONSTRUCTION, CROSS REFERENCES, AND RELATED MATTERS” for “DEFINITIONS” in chapter heading and added item 102. Addition of item 102 was made pursuant to operation of section 102 of this title.
 
-## § 101. Definitions
+## § 101. Definitions
 
 **(a) In General.—** The following definitions apply in this title:
 
 **(1)** The term “United States”, in a geographic sense, means the States and the District of Columbia.
 
-**[(2)** Repealed. Pub. L. 109–163, div. A, title X, § 1057(a)(1), Jan. 6, 2006, 119 Stat. 3440.]
+**[(2)** Repealed. Pub. L. 109–163, div. A, title X, § 1057(a)(1), Jan. 6, 2006, 119 Stat. 3440.]
 
 **(3)** The term “possessions” includes the Virgin Islands, Guam, American Samoa, and the Guano Islands, so long as they remain possessions, but does not include any Commonwealth.
 
@@ -289,7 +289,7 @@ Such term includes those duties when performed by Reserves in their status as me
 
 **(2)** “may” is used in a permissive sense;
 
-**(3)** “no person may \* \* \*” means that no person is required, authorized, or permitted to do the act prescribed;
+**(3)** “no person may \* \* \*” means that no person is required, authorized, or permitted to do the act prescribed;
 
 **(4)** “includes” means “includes but is not limited to”; and
 
@@ -297,7 +297,7 @@ Such term includes those duties when performed by Reserves in their status as me
 
 **(h) Reference to Title 1 Definitions.—** For other definitions applicable to this title, see sections 1 through 5 of title 1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§ 1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, § 6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, § 4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, § 6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, § 7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, § 2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, § 1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§ 101, 115(a), title V, § 501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, § 2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, § 405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, § 414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, § 514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, § 303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, § 302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, § 7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§ 1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, § 1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, § 631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, § 1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, § 514, title XVI, §§ 1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, § 1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, § 522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§ 1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, § 1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§ 1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, § 524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, § 876, Jan. 7, 2011, 124 Stat. 4305; Pub. L. 112–81, div. A, title V, § 515(b), Dec. 31, 2011, 125 Stat. 1395; Pub. L. 112–239, div. A, title VI, § 681(a), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 114–328, div. A, title X, § 1081(b)(1)(A)(i), Dec. 23, 2016, 130 Stat. 2417; Pub. L. 115–91, div. B, title XXVIII, § 2831(d), Dec. 12, 2017, 131 Stat. 1858; Pub. L. 115–232, div. A, title III, § 312(f), title XII, § 1204(a)(3), div. B, title XXVIII, § 2805(e), Aug. 13, 2018, 132 Stat. 1711, 2017, 2263; Pub. L. 116–92, div. A, title IX, §§ 952(c), 958(a)(1), Dec. 20, 2019, 133 Stat. 1562, 1567; Pub. L. 116–283, div. A, title IX, § 924(a), title X, § 1081(a)(5), Jan. 1, 2021, 134 Stat. 3820, 3871; Pub. L. 117–81, div. A, title III, § 332(c), Dec. 27, 2021, 135 Stat. 1638; Pub. L. 118–31, div. A, title XVII, §§ 1713, 1716(b)(1), 1741(a)(3), Dec. 22, 2023, 137 Stat. 625, 633, 679; Pub. L. 119–60, div. A, title VIII, § 811(c)(1), div. B, title XXVIII, § 2801, Dec. 18, 2025, 139 Stat. 950, 1291.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§ 1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, § 6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, § 4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, § 6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, § 7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, § 2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, § 1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§ 101, 115(a), title V, § 501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, § 2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, § 405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, § 414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, § 514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, § 303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, § 302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, § 7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§ 1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, § 1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, § 631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, § 1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, § 514, title XVI, §§ 1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, § 1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, § 522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§ 1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, § 1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§ 1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, § 524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, § 876, Jan. 7, 2011, 124 Stat. 4305; Pub. L. 112–81, div. A, title V, § 515(b), Dec. 31, 2011, 125 Stat. 1395; Pub. L. 112–239, div. A, title VI, § 681(a), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 114–328, div. A, title X, § 1081(b)(1)(A)(i), Dec. 23, 2016, 130 Stat. 2417; Pub. L. 115–91, div. B, title XXVIII, § 2831(d), Dec. 12, 2017, 131 Stat. 1858; Pub. L. 115–232, div. A, title III, § 312(f), title XII, § 1204(a)(3), div. B, title XXVIII, § 2805(e), Aug. 13, 2018, 132 Stat. 1711, 2017, 2263; Pub. L. 116–92, div. A, title IX, §§ 952(c), 958(a)(1), Dec. 20, 2019, 133 Stat. 1562, 1567; Pub. L. 116–283, div. A, title IX, § 924(a), title X, § 1081(a)(5), Jan. 1, 2021, 134 Stat. 3820, 3871; Pub. L. 117–81, div. A, title III, § 332(c), Dec. 27, 2021, 135 Stat. 1638; Pub. L. 118–31, div. A, title XVII, §§ 1713, 1716(b)(1), 1741(a)(3), Dec. 22, 2023, 137 Stat. 625, 633, 679; Pub. L. 119–60, div. A, title VIII, § 811(c)(1), div. B, title XXVIII, § 2801, Dec. 18, 2025, 139 Stat. 950, 1291.)
 
 **Historical and Revision Notes**
 
@@ -305,17 +305,17 @@ Such term includes those duties when performed by Reserves in their status as me
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 101(1) 101(2) 101(3) 101(4) 101(5)         101(6) 101(7) | 50:351 (clause (b)). 32:4c (1st 33 words). [No source]. 50:901(e). 5:181–1(c) (for definition purposes); 5:411a(a) (for definition purposes); 5:626(c) (for definition purposes). [No source]. 5:171(b) (last 23 words of clause (1), for definition purposes). | Sept. 16, 1942, ch. 561, § 401 (clause (b)); added Apr. 1, 1944, ch. 150, § 401 (clause (b)); restated Apr. 19, 1946, ch. 142, § 401 (clause (b)), 60 Stat. 102. July 9, 1952, ch. 608, § 101(d) (less 2d sentence), (e), (g), § 702 (for definition purposes), 66 Stat. 481, 482, 501. |
-| 101(8) 101(9) 101(10)     101(11) | 10:600(a); 34:135(a). [No source]. 32:2 (for definition purposes); 32:4b (for definition purposes). 50:1112(a) (for definition purposes). | July 26, 1947, ch. 343, §§ 205(c) (for definition purposes), 206(a) (for definition purposes), 207(c) (for definition purposes), 61 Stat. 501, 502. |
-| 101(12)           101(13)   101(14) | 10:1835 (less last 16 words, for definition purposes); 32:2 (for definition purposes); 32:4b (for definition purposes). 50:1112(b) (for definition purposes). 5:181–3(b) (less last sentence); 10:1a(b) (less last sentence); 10:1801(b) (less last sentence); 37:231(c) (1st sentence, for definition purposes); 50:901(g). | July 26, 1947, ch. 343, § 201(b) (last 31 words of clause (1), for definition purposes); restated Aug. 10, 1949, ch. 412, § 4 (last 31 words of clause (1) of 201(b), for definition purposes), 63 Stat. 579. June 3, 1916, ch. 134, § 62 (1st 36 words of last proviso), 39 Stat. 198. June 3, 1916, ch. 134, § 117 (for definition purposes), 39 Stat. 212. |
+| 101(1) 101(2) 101(3) 101(4) 101(5) 101(6) 101(7) | 50:351 (clause (b)). 32:4c (1st 33 words). [No source]. 50:901(e). 5:181–1(c) (for definition purposes); 5:411a(a) (for definition purposes); 5:626(c) (for definition purposes). [No source]. 5:171(b) (last 23 words of clause (1), for definition purposes). | Sept. 16, 1942, ch. 561, § 401 (clause (b)); added Apr. 1, 1944, ch. 150, § 401 (clause (b)); restated Apr. 19, 1946, ch. 142, § 401 (clause (b)), 60 Stat. 102. July 9, 1952, ch. 608, § 101(d) (less 2d sentence), (e), (g), § 702 (for definition purposes), 66 Stat. 481, 482, 501. |
+| 101(8) 101(9) 101(10) 101(11) | 10:600(a); 34:135(a). [No source]. 32:2 (for definition purposes); 32:4b (for definition purposes). 50:1112(a) (for definition purposes). | July 26, 1947, ch. 343, §§ 205(c) (for definition purposes), 206(a) (for definition purposes), 207(c) (for definition purposes), 61 Stat. 501, 502. |
+| 101(12) 101(13) 101(14) | 10:1835 (less last 16 words, for definition purposes); 32:2 (for definition purposes); 32:4b (for definition purposes). 50:1112(b) (for definition purposes). 5:181–3(b) (less last sentence); 10:1a(b) (less last sentence); 10:1801(b) (less last sentence); 37:231(c) (1st sentence, for definition purposes); 50:901(g). | July 26, 1947, ch. 343, § 201(b) (last 31 words of clause (1), for definition purposes); restated Aug. 10, 1949, ch. 412, § 4 (last 31 words of clause (1) of 201(b), for definition purposes), 63 Stat. 579. June 3, 1916, ch. 134, § 62 (1st 36 words of last proviso), 39 Stat. 198. June 3, 1916, ch. 134, § 117 (for definition purposes), 39 Stat. 212. |
 | 101(15) | [No source]. |  |
-| 101(16) 101(17)       101(18) 101(19) 101(20) 101(21) 101(22) | 10:600(b); 34:135(b). 5:181–3(b) (last sentence); 10:1a(b) (last sentence); 10:1801(b) (last sentence); 50:551(9). [No source]. [No source]. [No source]. [No source]. 10:1036e(d) (for definition purposes); 34: 440m(d) (for definition purposes). | June 3, 1916, ch. 134, § 71 (for definition purposes); added June 15, 1933, ch. 87, § 9 (for definition purposes), 48 Stat. 157; Oct. 12, 1949, ch. 681, § 530 (for definition purposes), 63 Stat. 837; July 9, 1952, ch. 608, § 803 (9th par., for definition purposes), 66 Stat. 505. |
-| 101(23) 101(24) 101(26) 101(27) 101(28) | [No source]. [No source]. [No source]. [No source]. [No source]. | Sept. 19, 1951, ch. 407, §§ 2(b), 305 (less last 16 words, for definition purposes), 65 Stat. 326, 330. |
-| 101(29) 101(30) 101(31) | [No source]. [No source]. 50:901(d) (less 2d sentence). | June 28, 1950, ch. 383, § 2(b), 64 Stat. 263; July 9, 1952, ch. 608, § 807(a), 66 Stat. 508. |
-| 101(32) 101(33) 101(34) | [No source]. [No source]. [No source]. | Oct. 12, 1949, ch. 681, § 102(c) (1st sentence, for definition purposes), 63 Stat. 804. |
-|  |  | May 5, 1950, ch. 169, § 1 (Art. 1 (clause (9))), 64 Stat. 108. |
-|  |  | May 29, 1954, ch. 249, § 2(a), (b), 68 Stat. 157. |
-|  |  | June 29, 1948, ch. 708, § 306(d) (for definition purposes), 62 Stat. 1089. |
+| 101(16) 101(17) 101(18) 101(19) 101(20) 101(21) 101(22) | 10:600(b); 34:135(b). 5:181–3(b) (last sentence); 10:1a(b) (last sentence); 10:1801(b) (last sentence); 50:551(9). [No source]. [No source]. [No source]. [No source]. 10:1036e(d) (for definition purposes); 34: 440m(d) (for definition purposes). | June 3, 1916, ch. 134, § 71 (for definition purposes); added June 15, 1933, ch. 87, § 9 (for definition purposes), 48 Stat. 157; Oct. 12, 1949, ch. 681, § 530 (for definition purposes), 63 Stat. 837; July 9, 1952, ch. 608, § 803 (9th par., for definition purposes), 66 Stat. 505. |
+| 101(23) 101(24) 101(26) 101(27) 101(28) | [No source]. [No source]. [No source]. [No source]. [No source]. | Sept. 19, 1951, ch. 407, §§ 2(b), 305 (less last 16 words, for definition purposes), 65 Stat. 326, 330. |
+| 101(29) 101(30) 101(31) | [No source]. [No source]. 50:901(d) (less 2d sentence). | June 28, 1950, ch. 383, § 2(b), 64 Stat. 263; July 9, 1952, ch. 608, § 807(a), 66 Stat. 508. |
+| 101(32) 101(33) 101(34) | [No source]. [No source]. [No source]. | Oct. 12, 1949, ch. 681, § 102(c) (1st sentence, for definition purposes), 63 Stat. 804. |
+|  |  | May 5, 1950, ch. 169, § 1 (Art. 1 (clause (9))), 64 Stat. 108. |
+|  |  | May 29, 1954, ch. 249, § 2(a), (b), 68 Stat. 157. |
+|  |  | June 29, 1948, ch. 708, § 306(d) (for definition purposes), 62 Stat. 1089. |
 
 The definitions in clauses (3), (15), (18)–(21), (23)–(30), and (31)–(33) reflect the adoption of terminology which, though undefined in the source statutes restated in this title, represents the closest practicable approximation of the ways in which the terms defined have been most commonly used. A choice has been made where established uses conflict.
 
@@ -331,7 +331,7 @@ In clause (8), the term “Secretary concerned” is created and defined for leg
 
 In clause (9), a definition of “National Guard” is inserted for clarity.
 
-In clause (10)(A), the words “a land force” are substituted for 32:2 (as applicable to Army National Guard). The National Defense Act of 1916, § 117 (last 66 words), 39 Stat. 212, is not contained in 32:2. It is also omitted from the revised section as repealed by the Act of February 28, 1925, ch. 374, § 3, 43 Stat. 1081.
+In clause (10)(A), the words “a land force” are substituted for 32:2 (as applicable to Army National Guard). The National Defense Act of 1916, § 117 (last 66 words), 39 Stat. 212, is not contained in 32:2. It is also omitted from the revised section as repealed by the Act of February 28, 1925, ch. 374, § 3, 43 Stat. 1081.
 
 In clauses (10) and (11), the word “Army” is inserted to distinguish the organizations defined from their Air Force counterparts.
 
@@ -353,9 +353,9 @@ In clause (22), the definition of “active duty” is based on the definition o
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 101(25) | 50:1181(6). | Sept. 3, 1954, ch. 1257, § 102(6), 68 Stat. 1150. |
+| 101(25) | 50:1181(6). | Sept. 3, 1954, ch. 1257, § 102(6), 68 Stat. 1150. |
 
-The words “, other than a commissioned warrant officer,” are inserted to reflect 50:1181(1).
+The words “, other than a commissioned warrant officer,” are inserted to reflect 50:1181(1).
 
 [Clause (35).] The word “original” is defined to make clear that when used in relation to an appointment it refers to the member’s first appointment in his current series of appointments and excludes any appointment made before a lapse in service.
 
@@ -363,49 +363,49 @@ The words “, other than a commissioned warrant officer,” are inserted to r
 
 **References in Text**
 
-Section 125(d) of this title, referred to in subsec. (a)(12)(A), was repealed by Pub. L. 99–433, title III, § 301(b)(1), Oct. 1, 1986, 100 Stat. 1022.
+Section 125(d) of this title, referred to in subsec. (a)(12)(A), was repealed by Pub. L. 99–433, title III, § 301(b)(1), Oct. 1, 1986, 100 Stat. 1022.
 
 The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (a)(17)(B), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under section 2687 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (a)(17)(C), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623. Title II of the Act is set out as a note under section 2687 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 2687 of this title and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsec. (f)(4)(C)(iii), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (f)(4)(C)(iii), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 **Codification**
 
-Pub. L. 107–296, § 1704(b)(1), which directed amendment of section 101(9) of this title by substituting of “of Homeland Security” for “of Transportation” wherever appearing, could not be executed because there is no section 101(9).
+Pub. L. 107–296, § 1704(b)(1), which directed amendment of section 101(9) of this title by substituting of “of Homeland Security” for “of Transportation” wherever appearing, could not be executed because there is no section 101(9).
 
 **Amendments**
 
-2025—Subsec. (a)(21). Pub. L. 119–60, § 811(c)(1), added par. (21).
+2025—Subsec. (a)(21). Pub. L. 119–60, § 811(c)(1), added par. (21).
 
-Subsec. (f)(8). Pub. L. 119–60, § 2801, struck out “or from” before “anticipated or unanticipated changes in environmental conditions” and inserted “, energy or water disruptions, or human-induced hazards with respect to the environment” before “, that do”.
+Subsec. (f)(8). Pub. L. 119–60, § 2801, struck out “or from” before “anticipated or unanticipated changes in environmental conditions” and inserted “, energy or water disruptions, or human-induced hazards with respect to the environment” before “, that do”.
 
-2023—Subsec. (b)(4). Pub. L. 118–31, § 1741(a)(3), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+2023—Subsec. (b)(4). Pub. L. 118–31, § 1741(a)(3), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
-Subsec. (b)(10). Pub. L. 118–31, § 1716(b)(1), inserted before period at end “and, with respect to the appointment of a member of the armed forces in the Space Force, refers to that member’s most recent appointment in the Space Force that is neither a promotion nor a demotion”.
+Subsec. (b)(10). Pub. L. 118–31, § 1716(b)(1), inserted before period at end “and, with respect to the appointment of a member of the armed forces in the Space Force, refers to that member’s most recent appointment in the Space Force that is neither a promotion nor a demotion”.
 
-Subsec. (d)(1). Pub. L. 118–31, § 1713(b)(1), inserted “, including sustained duty in the Space Force” after “United States”.
+Subsec. (d)(1). Pub. L. 118–31, § 1713(b)(1), inserted “, including sustained duty in the Space Force” after “United States”.
 
-Subsec. (d)(7). Pub. L. 118–31, § 1713(b)(2), inserted “, or a member of the Space Force,” after “Reserves” in subpars. (A) and (B).
+Subsec. (d)(7). Pub. L. 118–31, § 1713(b)(2), inserted “, or a member of the Space Force,” after “Reserves” in subpars. (A) and (B).
 
-Subsecs. (e) to (h). Pub. L. 118–31, § 1713(a), added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
+Subsecs. (e) to (h). Pub. L. 118–31, § 1713(a), added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
 
-2021—Subsec. (a)(13)(B). Pub. L. 116–283, § 1081(a)(5), substituted “section 3713” for “section 712”.
+2021—Subsec. (a)(13)(B). Pub. L. 116–283, § 1081(a)(5), substituted “section 3713” for “section 712”.
 
 Subsec. (a)(19), (20). Pub. L. 117–81 added pars. (19) and (20).
 
-Subsec. (b)(13). Pub. L. 116–283, § 924(a), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+Subsec. (b)(13). Pub. L. 116–283, § 924(a), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
-2019—Subsec. (a)(4). Pub. L. 116–92, § 952(c), inserted “Space Force,” after “Marine Corps,”.
+2019—Subsec. (a)(4). Pub. L. 116–92, § 952(c), inserted “Space Force,” after “Marine Corps,”.
 
-Subsec. (a)(9)(C). Pub. L. 116–92, § 958(a)(1), inserted “and the Space Force” after “concerning the Air Force”.
+Subsec. (a)(9)(C). Pub. L. 116–92, § 958(a)(1), inserted “and the Space Force” after “concerning the Air Force”.
 
-2018—Subsec. (a)(13)(B). Pub. L. 115–232, § 1204(a)(3), substituted “chapter 13” for “chapter 15”.
+2018—Subsec. (a)(13)(B). Pub. L. 115–232, § 1204(a)(3), substituted “chapter 13” for “chapter 15”.
 
-Subsec. (e)(6). Pub. L. 115–232, § 312(f), struck out “task critical assets and other” before “mission essential operations”.
+Subsec. (e)(6). Pub. L. 115–232, § 312(f), struck out “task critical assets and other” before “mission essential operations”.
 
-Subsec. (e)(8). Pub. L. 115–232, § 2805(e), added par. (8).
+Subsec. (e)(8). Pub. L. 115–232, § 2805(e), added par. (8).
 
 2017—Subsec. (e)(6), (7). Pub. L. 115–91 added pars. (6) and (7).
 
@@ -417,33 +417,33 @@ Subsec. (e)(8). Pub. L. 115–232, § 2805(e), added par. (8).
 
 Subsec. (a)(18). Pub. L. 111–383 added par. (18).
 
-2006—Subsec. (a)(2). Pub. L. 109–163, § 1057(a)(1), struck out par. (2) which read as follows: “The term ‘Territory’ (except as provided in section 101(1) of title 32 for laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States) means any Territory organized after August 10, 1956, so long as it remains a Territory.”
+2006—Subsec. (a)(2). Pub. L. 109–163, § 1057(a)(1), struck out par. (2) which read as follows: “The term ‘Territory’ (except as provided in section 101(1) of title 32 for laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States) means any Territory organized after August 10, 1956, so long as it remains a Territory.”
 
-Subsec. (a)(3). Pub. L. 109–163, § 1057(a)(2), struck out “Territory or” before “Commonwealth”.
+Subsec. (a)(3). Pub. L. 109–163, § 1057(a)(2), struck out “Territory or” before “Commonwealth”.
 
-Subsec. (b)(16). Pub. L. 109–364, § 524(1), added par. (16).
+Subsec. (b)(16). Pub. L. 109–364, § 524(1), added par. (16).
 
-Subsec. (d)(6)(A). Pub. L. 109–364, § 524(2), struck out “or full-time National Guard duty” after “means active duty” and substituted “pursuant to an order to full-time National Guard duty,” for “, pursuant to an order to active duty or full-time National Guard duty”.
+Subsec. (d)(6)(A). Pub. L. 109–364, § 524(2), struck out “or full-time National Guard duty” after “means active duty” and substituted “pursuant to an order to full-time National Guard duty,” for “, pursuant to an order to active duty or full-time National Guard duty”.
 
-Subsec. (e)(4)(B)(ii). Pub. L. 109–163, § 1056(c)(1), struck out comma after “bulk explosives”.
+Subsec. (e)(4)(B)(ii). Pub. L. 109–163, § 1056(c)(1), struck out comma after “bulk explosives”.
 
 2004—Subsec. (e)(3). Pub. L. 108–375 substituted “Secretary of a military department” for “Secretary of Defense” in introductory provisions.
 
-2003—Subsec. (a)(9)(D). Pub. L. 108–136, § 1045(a)(2), substituted “Homeland Security” for “Transportation”.
+2003—Subsec. (a)(9)(D). Pub. L. 108–136, § 1045(a)(2), substituted “Homeland Security” for “Transportation”.
 
-Subsec. (a)(16), (17). Pub. L. 108–136, § 1043(a), added pars. (16) and (17).
+Subsec. (a)(16), (17). Pub. L. 108–136, § 1043(a), added pars. (16) and (17).
 
-Subsecs. (e) to (g). Pub. L. 108–136, § 1042(a), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+Subsecs. (e) to (g). Pub. L. 108–136, § 1042(a), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 1996—Subsec. (d)(4). Pub. L. 104–201 substituted “a member of a reserve component” for “a reserve commissioned officer, other than a commissioned warrant officer,”.
 
 Subsec. (d)(6)(B)(i). Pub. L. 104–160 substituted “section 10301” for “section 175”.
 
-1994—Subsec. (a)(13)(B). Pub. L. 103–337, § 1671(c)(1), substituted “688, 12301(a), 12302, 12304, 12305, or 12406” for “672(a), 673, 673b, 673c, 688, 3500, or 8500”.
+1994—Subsec. (a)(13)(B). Pub. L. 103–337, § 1671(c)(1), substituted “688, 12301(a), 12302, 12304, 12305, or 12406” for “672(a), 673, 673b, 673c, 688, 3500, or 8500”.
 
-Subsec. (c)(7). Pub. L. 103–337, § 1621, added par. (7).
+Subsec. (c)(7). Pub. L. 103–337, § 1621, added par. (7).
 
-Subsec. (d)(6), (7). Pub. L. 103–337, § 514, added par. (6) and redesignated former par. (6) as (7).
+Subsec. (d)(6), (7). Pub. L. 103–337, § 514, added par. (6) and redesignated former par. (6) as (7).
 
 1992—Pub. L. 102–484 amended section generally, substituting subsecs. (a) to (f) for former pars. (1) to (47) which defined terms for purposes of this title.
 
@@ -453,29 +453,29 @@ Subsec. (d)(6), (7). Pub. L. 103–337, § 514, added par. (6) and redesignate
 
 1988—Pars. (3), (10), (12). Pub. L. 100–456 struck out “the Canal Zone,” after “the Virgin Islands,” in par. (3) and after “Puerto Rico,” in pars. (10) and (12).
 
-1987—Par. (1). Pub. L. 100–26, § 7(k)(1)(A), inserted “The term” after par. designation.
+1987—Par. (1). Pub. L. 100–26, § 7(k)(1)(A), inserted “The term” after par. designation.
 
-Par. (2). Pub. L. 100–26, § 7(1)(k)(B), inserted “the term” after “Air National Guard of the United States,”.
+Par. (2). Pub. L. 100–26, § 7(1)(k)(B), inserted “the term” after “Air National Guard of the United States,”.
 
-Pub. L. 100–180, § 1233(a)(2), amended directory language of Pub. L. 100–26, § 7(k)(1)(C), by adding par. (2) to those pars. excepted from direction that initial letter of first word after open quotation marks in each par. be made lowercase rather than uppercase.
+Pub. L. 100–180, § 1233(a)(2), amended directory language of Pub. L. 100–26, § 7(k)(1)(C), by adding par. (2) to those pars. excepted from direction that initial letter of first word after open quotation marks in each par. be made lowercase rather than uppercase.
 
-Pars. (3) to (7). Pub. L. 100–26, § 7(k)(1)(A), (C), inserted “The term” after par. designation and struck out uppercase letter of first word after open quotation marks and substituted lowercase letter.
+Pars. (3) to (7). Pub. L. 100–26, § 7(k)(1)(A), (C), inserted “The term” after par. designation and struck out uppercase letter of first word after open quotation marks and substituted lowercase letter.
 
-Pars. (8) to (13). Pub. L. 100–26, § 7(k)(1)(A), inserted “The term” after par. designation.
+Pars. (8) to (13). Pub. L. 100–26, § 7(k)(1)(A), inserted “The term” after par. designation.
 
-Par. (14). Pub. L. 100–180, § 1231(1), inserted “a” after “means”.
+Par. (14). Pub. L. 100–180, § 1231(1), inserted “a” after “means”.
 
-Pub. L. 100–26, § 7(k)(1)(A), (C), inserted “The term” after par. designation and struck out uppercase letter of first word after open quotation marks and substituted lowercase letter.
+Pub. L. 100–26, § 7(k)(1)(A), (C), inserted “The term” after par. designation and struck out uppercase letter of first word after open quotation marks and substituted lowercase letter.
 
-Pars. (15) to (19). Pub. L. 100–26, § 7(k)(1)(A), (C), inserted “The term” after par. designation and struck out uppercase letter of first word after open quotation marks and substituted lowercase letter.
+Pars. (15) to (19). Pub. L. 100–26, § 7(k)(1)(A), (C), inserted “The term” after par. designation and struck out uppercase letter of first word after open quotation marks and substituted lowercase letter.
 
-Par. (20). Pub. L. 100–180, § 1231(20), substituted “The term ‘rate” for “ ‘Rate” in second sentence.
+Par. (20). Pub. L. 100–180, § 1231(20), substituted “The term ‘rate” for “ ‘Rate” in second sentence.
 
-Pub. L. 100–26, § 7(k)(1)(A), (C), inserted “The term” after par. designation and struck out uppercase letter of first word after open quotation marks and substituted lowercase letter.
+Pub. L. 100–26, § 7(k)(1)(A), (C), inserted “The term” after par. designation and struck out uppercase letter of first word after open quotation marks and substituted lowercase letter.
 
-Pars. (21) to (43). Pub. L. 100–26, § 7(k)(1)(A), (C), inserted “The term” after par. designation and struck out uppercase letter of first word after open quotation marks and substituted lowercase letter.
+Pars. (21) to (43). Pub. L. 100–26, § 7(k)(1)(A), (C), inserted “The term” after par. designation and struck out uppercase letter of first word after open quotation marks and substituted lowercase letter.
 
-Pars. (44), (45). Pub. L. 100–26, § 7(i)(1), (k)(1)(A), inserted “The term” after par. designation and substituted “October 1, 1986” for “the date of the enactment of the Goldwater-Nichols Department of Defense Reorganization Act of 1986”.
+Pars. (44), (45). Pub. L. 100–26, § 7(i)(1), (k)(1)(A), inserted “The term” after par. designation and substituted “October 1, 1986” for “the date of the enactment of the Goldwater-Nichols Department of Defense Reorganization Act of 1986”.
 
 1986—Par. (43). Pub. L. 99–348 added par. (43).
 
@@ -483,21 +483,21 @@ Pars. (44), (45). Pub. L. 99–433 added pars. (44) and (45).
 
 1985—Par. (41). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
 
-1984—Par. (22). Pub. L. 98–525, § 414(a)(1)(A), inserted “It does not include full-time National Guard duty.”
+1984—Par. (22). Pub. L. 98–525, § 414(a)(1)(A), inserted “It does not include full-time National Guard duty.”
 
-Par. (24). Pub. L. 98–525, § 414(a)(1)(B), inserted “or full-time National Guard duty”.
+Par. (24). Pub. L. 98–525, § 414(a)(1)(B), inserted “or full-time National Guard duty”.
 
-Par. (42). Pub. L. 98–525, § 414(a)(1)(C), added par. (42).
+Par. (42). Pub. L. 98–525, § 414(a)(1)(C), added par. (42).
 
 1981—Par. (41). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
 
 Pub. L. 97–22 inserted “or Coast Guard” after “Navy”.
 
-1980—Par. (22). Pub. L. 96–513, § 501(2), struck out “duty on the active list,” after “It includes”.
+1980—Par. (22). Pub. L. 96–513, § 501(2), struck out “duty on the active list,” after “It includes”.
 
-Par. (36). Pub. L. 96–513, § 115(a), struck out par. (36) which provided that “dependent”, with respect to a female member of an armed force, did not include her husband, unless he was in fact dependent on her for his chief support, or her child, unless his father was dead or he was in fact dependent on her for his chief support.
+Par. (36). Pub. L. 96–513, § 115(a), struck out par. (36) which provided that “dependent”, with respect to a female member of an armed force, did not include her husband, unless he was in fact dependent on her for his chief support, or her child, unless his father was dead or he was in fact dependent on her for his chief support.
 
-Pars. (37) to (41). Pub. L. 96–513, § 101, added pars. (37) to (41).
+Pars. (37) to (41). Pub. L. 96–513, § 101, added pars. (37) to (41).
 
 1972—Par. (2). Pub. L. 92–492 inserted “Except as provided in section 101(1) of title 32 for laws relating to the militia, the National Guard, the Army National Guard of the United States,” before “Territory”.
 
@@ -511,15 +511,15 @@ Par. 36. Pub. L. 90–235 added par. (36).
 
 1959—Par. (2). Pub. L. 80–70 struck out reference to Alaska.
 
-1958—Par. (25). Pub. L. 85–861, § 1(1), added par. (25).
+1958—Par. (25). Pub. L. 85–861, § 1(1), added par. (25).
 
-Par. (35). Pub. L. 85–861, § 33(a)(1), added par. (35).
+Par. (35). Pub. L. 85–861, § 33(a)(1), added par. (35).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title VI, § 681(d), Jan. 2, 2013, 126 Stat. 1795, provided that:
+Pub. L. 112–239, div. A, title VI, § 681(d), Jan. 2, 2013, 126 Stat. 1795, provided that:
 
 > **“(1) Inclusion of prior orders.—** The amendments made by this section [amending this section, section 12731 of this title, and section 3301 of Title 38, Veterans’ Benefits] shall apply to any call or order to active duty authorized under section 712 [now 3713] of title 14, United States Code, on or after December 31, 2011, by the Secretary of the executive department in which the Coast Guard is operating.
 
@@ -533,11 +533,11 @@ Pub. L. 112–239, div. A, title VI, § 681(d), Jan. 2, 2013, 126 Stat. 1795, 
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–296, title XVII, § 1704(g), Nov. 25, 2002, 116 Stat. 2316, provided that: “The amendments made by this section (other than subsection (f)) [see Tables for classification] shall take effect on the date of transfer of the Coast Guard to the Department [of Homeland Security].”
+Pub. L. 107–296, title XVII, § 1704(g), Nov. 25, 2002, 116 Stat. 2316, provided that: “The amendments made by this section (other than subsection (f)) [see Tables for classification] shall take effect on the date of transfer of the Coast Guard to the Department [of Homeland Security].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 **Effective Date of 1994 Amendment**
 
@@ -545,15 +545,15 @@ Amendment by section 1671(c)(1) of Pub. L. 103–337 effective Dec. 1, 1994, exc
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–180, div. A, title XII, § 1233(c)[(1)], Dec. 4, 1987, 101 Stat. 1161, provided that: “The amendments made by subsection (a) [amending this section, section 2432 of this title, and section 406b of Title 37, Pay and Allowances of the Uniformed Services] shall apply as if included in the enactment of the Defense Technical Corrections Act of 1987 (Public Law 100–26).”
+Pub. L. 100–180, div. A, title XII, § 1233(c)[(1)], Dec. 4, 1987, 101 Stat. 1161, provided that: “The amendments made by subsection (a) [amending this section, section 2432 of this title, and section 406b of Title 37, Pay and Allowances of the Uniformed Services] shall apply as if included in the enactment of the Defense Technical Corrections Act of 1987 (Public Law 100–26).”
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–86, title IV, § 405(f), Dec. 1, 1981, 95 Stat. 1106, provided that: “The amendments made by this section [amending this section, sections 525, 601, 611, 612, 619, 625, 634, 635, 637, 638, 645, 741, 5138, 5149, 5155, 5442, 5444, 5457, 5501, and 6389 of this title, section 201 of Title 37, Pay and Allowances of the Uniformed Services, and a provision set out as a note under section 611 of this title] shall take effect as of September 15, 1981.”
+Pub. L. 97–86, title IV, § 405(f), Dec. 1, 1981, 95 Stat. 1106, provided that: “The amendments made by this section [amending this section, sections 525, 601, 611, 612, 619, 625, 634, 635, 637, 638, 645, 741, 5138, 5149, 5155, 5442, 5444, 5457, 5501, and 6389 of this title, section 201 of Title 37, Pay and Allowances of the Uniformed Services, and a provision set out as a note under section 611 of this title] shall take effect as of September 15, 1981.”
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–513, title VII, § 701, Dec. 12, 1980, 94 Stat. 2955, provided that:
+Pub. L. 96–513, title VII, § 701, Dec. 12, 1980, 94 Stat. 2955, provided that:
 
 > **“(a)** Except as provided in subsection (b), this Act and the amendments made by this Act [see Tables for classification] shall take effect on September 15, 1981.
 
@@ -577,91 +577,91 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–861, § 33(g), Sept. 2, 1958, 72 Stat. 1568, provided that: “This section [see Tables for classification] is effective as of August 10, 1956, for all purposes.”
+Pub. L. 85–861, § 33(g), Sept. 2, 1958, 72 Stat. 1568, provided that: “This section [see Tables for classification] is effective as of August 10, 1956, for all purposes.”
 
 **Short Title of 2025 Amendment**
 
-Pub. L. 119–18, § 1, June 12, 2025, 139 Stat. 68, provided that: “This Act [amending provisions set out as a note under section 2576 of this title] may be cited as the ‘Aerial Firefighting Enhancement Act of 2025’.”
+Pub. L. 119–18, § 1, June 12, 2025, 139 Stat. 68, provided that: “This Act [amending provisions set out as a note under section 2576 of this title] may be cited as the ‘Aerial Firefighting Enhancement Act of 2025’.”
 
 **Short Title of 2023 Amendment**
 
-Pub. L. 118–31, div. A, title XVII, § 1701, Dec. 22, 2023, 137 Stat. 624, provided that: “This title [see Tables for classification] may be cited as the ‘Space Force Personnel Management Act’.”
+Pub. L. 118–31, div. A, title XVII, § 1701, Dec. 22, 2023, 137 Stat. 624, provided that: “This title [see Tables for classification] may be cited as the ‘Space Force Personnel Management Act’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title IX, § 951, Dec. 20, 2019, 133 Stat. 1561, provided that: “This subtitle [subtitle D (§§ 951–961) of div. A of Pub. L. 116–92, see Tables for classification] may be cited as the ‘United States Space Force Act’.”
+Pub. L. 116–92, div. A, title IX, § 951, Dec. 20, 2019, 133 Stat. 1561, provided that: “This subtitle [subtitle D (§§ 951–961) of div. A of Pub. L. 116–92, see Tables for classification] may be cited as the ‘United States Space Force Act’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–232, div. A, title VI, § 621(a), Aug. 13, 2018, 132 Stat. 1798, provided that: “This section [enacting section 1065 of this title and provisions set out as a note under section 1065 of this title] may be cited as the ‘Purple Heart and Disabled Veterans Equal Access Act of 2018’.”
+Pub. L. 115–232, div. A, title VI, § 621(a), Aug. 13, 2018, 132 Stat. 1798, provided that: “This section [enacting section 1065 of this title and provisions set out as a note under section 1065 of this title] may be cited as the ‘Purple Heart and Disabled Veterans Equal Access Act of 2018’.”
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–328, div. E, § 5001, Dec. 23, 2016, 130 Stat. 2894, provided that: “This division [div. E (§§ 5001–5542) of Pub. L. 114–328, see Tables for classification] may be cited as the ‘Military Justice Act of 2016’.”
+Pub. L. 114–328, div. E, § 5001, Dec. 23, 2016, 130 Stat. 2894, provided that: “This division [div. E (§§ 5001–5542) of Pub. L. 114–328, see Tables for classification] may be cited as the ‘Military Justice Act of 2016’.”
 
 **Short Title of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title VIII, § 860, Jan. 7, 2011, 124 Stat. 4287, provided that: “This subtitle [subtitle F (§§ 860–896) of title VIII of div. A of Pub. L. 111–383, see Tables for classification] may be cited as the ‘Improve Acquisition Act of 2010’.”
+Pub. L. 111–383, div. A, title VIII, § 860, Jan. 7, 2011, 124 Stat. 4287, provided that: “This subtitle [subtitle F (§§ 860–896) of title VIII of div. A of Pub. L. 111–383, see Tables for classification] may be cited as the ‘Improve Acquisition Act of 2010’.”
 
 **Short Title of 2009 Amendment**
 
-Pub. L. 111–23, § 1(a), May 22, 2009, 123 Stat. 1704, provided that: “This Act [enacting sections 139c, 139d, 2334, and 2433a of this title, amending sections 139a, 181, 2306b, 2366a, 2366b, 2430, 2433, 2434, 2445c, 2501, and 2505 of this title and section 5315 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 139a, 139c, 181, 2302, 2366a, 2366b, 2430, and 2433a of this title, and amending provisions set out as a note under section 2304 of this title] may be cited as the ‘Weapon Systems Acquisition Reform Act of 2009’.”
+Pub. L. 111–23, § 1(a), May 22, 2009, 123 Stat. 1704, provided that: “This Act [enacting sections 139c, 139d, 2334, and 2433a of this title, amending sections 139a, 181, 2306b, 2366a, 2366b, 2430, 2433, 2434, 2445c, 2501, and 2505 of this title and section 5315 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 139a, 139c, 181, 2302, 2366a, 2366b, 2430, and 2433a of this title, and amending provisions set out as a note under section 2304 of this title] may be cited as the ‘Weapon Systems Acquisition Reform Act of 2009’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–317, § 1(a), Aug. 29, 2008, 122 Stat. 3526, provided that: “This Act [amending sections 1145, 1146, and 1174 of this title, sections 2108 and 8521 of Title 5, Government Organization and Employees, section 685 of Title 26, Internal Revenue Code, section 303a of Title 37, Pay and Allowances of the Uniformed Services, and sections 3011, 3012, 3702, and 4211 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under section 2108 of Title 5 and section 685 of Title 26] may be cited as the ‘Hubbard Act’.”
+Pub. L. 110–317, § 1(a), Aug. 29, 2008, 122 Stat. 3526, provided that: “This Act [amending sections 1145, 1146, and 1174 of this title, sections 2108 and 8521 of Title 5, Government Organization and Employees, section 685 of Title 26, Internal Revenue Code, section 303a of Title 37, Pay and Allowances of the Uniformed Services, and sections 3011, 3012, 3702, and 4211 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under section 2108 of Title 5 and section 685 of Title 26] may be cited as the ‘Hubbard Act’.”
 
-Pub. L. 110–181, div. A, title VIII, § 800, Jan. 28, 2008, 122 Stat. 202, provided that: “This title [see Tables for classification] may be cited as the ‘Acquisition Improvement and Accountability Act of 2007’.”
+Pub. L. 110–181, div. A, title VIII, § 800, Jan. 28, 2008, 122 Stat. 202, provided that: “This title [see Tables for classification] may be cited as the ‘Acquisition Improvement and Accountability Act of 2007’.”
 
-Pub. L. 110–181, div. A, title XVIII, § 1801, Jan. 28, 2008, 122 Stat. 496, provided that: “This title [enacting section 10508 of this title, amending sections 113, 164, 526, 10501 to 10503, 10541, 14508, 14511, and 14512 of this title, and enacting provisions set out as notes under sections 113 and 164 of this title and section 104 of Title 32, National Guard] may be cited as the ‘National Guard Empowerment Act of 2007’.”
+Pub. L. 110–181, div. A, title XVIII, § 1801, Jan. 28, 2008, 122 Stat. 496, provided that: “This title [enacting section 10508 of this title, amending sections 113, 164, 526, 10501 to 10503, 10541, 14508, 14511, and 14512 of this title, and enacting provisions set out as notes under sections 113 and 164 of this title and section 104 of Title 32, National Guard] may be cited as the ‘National Guard Empowerment Act of 2007’.”
 
 **Short Title of 2005 Amendment**
 
-Pub. L. 109–148, div. A, title VIII, § 8126(a), Dec. 30, 2005, 119 Stat. 2728, which provided that this Act, probably meaning section 8126 of div. A of Pub. L. 109–148, which amended section 2554 of this title and section 5309 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under section 2554 of this title and section 301 of Title 5, Government Organization and Employees, could be cited as the “Support Our Scouts Act of 2005”, was repealed by Pub. L. 109–364, div. A, title X, § 1071(f)(3), Oct. 17, 2006, 120 Stat. 2402.
+Pub. L. 109–148, div. A, title VIII, § 8126(a), Dec. 30, 2005, 119 Stat. 2728, which provided that this Act, probably meaning section 8126 of div. A of Pub. L. 109–148, which amended section 2554 of this title and section 5309 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under section 2554 of this title and section 301 of Title 5, Government Organization and Employees, could be cited as the “Support Our Scouts Act of 2005”, was repealed by Pub. L. 109–364, div. A, title X, § 1071(f)(3), Oct. 17, 2006, 120 Stat. 2402.
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–38, § 1, July 22, 1999, 113 Stat. 205, provided that: “This Act [enacting provisions set out as notes under section 2431 of this title and section 5901 of Title 22, Foreign Relations and Intercourse] may be cited as the ‘National Missile Defense Act of 1999’.”
+Pub. L. 106–38, § 1, July 22, 1999, 113 Stat. 205, provided that: “This Act [enacting provisions set out as notes under section 2431 of this title and section 5901 of Title 22, Foreign Relations and Intercourse] may be cited as the ‘National Missile Defense Act of 1999’.”
 
 **Short Title of 1991 Amendment**
 
-Pub. L. 102–25, § 1, Apr. 6, 1991, 105 Stat. 75, provided that: “This Act [see Tables for classification] may be cited as the ‘Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991’.”
+Pub. L. 102–25, § 1, Apr. 6, 1991, 105 Stat. 75, provided that: “This Act [see Tables for classification] may be cited as the ‘Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–26, § 1, Apr. 21, 1987, 101 Stat. 273, provided that: “This Act [see Tables for classification] may be cited as the ‘Defense Technical Corrections Act of 1987’.”
+Pub. L. 100–26, § 1, Apr. 21, 1987, 101 Stat. 273, provided that: “This Act [see Tables for classification] may be cited as the ‘Defense Technical Corrections Act of 1987’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–500, § 101(c) [title X, § 900], Oct. 18, 1986, 100 Stat. 1783–82, 1783–130, Pub. L. 99–591, § 101(c) [title X, § 900], Oct. 30, 1986, 100 Stat. 3341–82, 3341–130, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 900, Nov. 14, 1986, 100 Stat. 3910, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “This title [see Tables for classification] may be cited as the ‘Defense Acquisition Improvement Act of 1986’.”
+Pub. L. 99–500, § 101(c) [title X, § 900], Oct. 18, 1986, 100 Stat. 1783–82, 1783–130, Pub. L. 99–591, § 101(c) [title X, § 900], Oct. 30, 1986, 100 Stat. 3341–82, 3341–130, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 900, Nov. 14, 1986, 100 Stat. 3910, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “This title [see Tables for classification] may be cited as the ‘Defense Acquisition Improvement Act of 1986’.”
 
 **Short Title of 1985 Amendment**
 
-Pub. L. 99–145, title IX, § 901, Nov. 8, 1985, 99 Stat. 682, provided that: “This title [see Tables for classification] may be cited as the ‘Defense Procurement Improvement Act of 1985’.”
+Pub. L. 99–145, title IX, § 901, Nov. 8, 1985, 99 Stat. 682, provided that: “This title [see Tables for classification] may be cited as the ‘Defense Procurement Improvement Act of 1985’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–525, title XII, § 1201, Oct. 19, 1984, 98 Stat. 2588, provided that: “This title [see Tables for classification] may be cited as the ‘Defense Procurement Reform Act of 1984’.”
+Pub. L. 98–525, title XII, § 1201, Oct. 19, 1984, 98 Stat. 2588, provided that: “This title [see Tables for classification] may be cited as the ‘Defense Procurement Reform Act of 1984’.”
 
 **Short Title of 1981 Amendment**
 
-Pub. L. 97–22, § 1(a), July 10, 1981, 95 Stat. 124, provided that: “this Act [see Tables for classification] may be cited as the ‘Defense Officer Personnel Management Act Technical Corrections Act’.”
+Pub. L. 97–22, § 1(a), July 10, 1981, 95 Stat. 124, provided that: “this Act [see Tables for classification] may be cited as the ‘Defense Officer Personnel Management Act Technical Corrections Act’.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–513, § 1(a), Dec. 12, 1980, 94 Stat. 2835, provided that: “This Act [see Tables for classification] may be cited as the ‘Defense Officer Personnel Management Act’.”
+Pub. L. 96–513, § 1(a), Dec. 12, 1980, 94 Stat. 2835, provided that: “This Act [see Tables for classification] may be cited as the ‘Defense Officer Personnel Management Act’.”
 
 **Savings Provision**
 
-Pub. L. 96–513, title VII, § 703, Dec. 12, 1980, 94 Stat. 2956, provided that: “Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act [see Tables for classification] do not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act [see Effective Date of 1980 Amendment note above].”
+Pub. L. 96–513, title VII, § 703, Dec. 12, 1980, 94 Stat. 2956, provided that: “Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act [see Tables for classification] do not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act [see Effective Date of 1980 Amendment note above].”
 
 **Rule of Construction Relating to Use of Military Force**
 
-Pub. L. 116–283, div. A, title XII, § 1299S, Jan. 1, 2021, 134 Stat. 4028, provided that: “Nothing in this Act [see Tables for classification] or any amendment made by this Act may be construed to authorize the use of military force.”
+Pub. L. 116–283, div. A, title XII, § 1299S, Jan. 1, 2021, 134 Stat. 4028, provided that: “Nothing in this Act [see Tables for classification] or any amendment made by this Act may be construed to authorize the use of military force.”
 
 **Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661; Definitions**
 
-Pub. L. 100–26, §§ 2, 6, Apr. 21, 1987, 101 Stat. 273, 274, provided that:
+Pub. L. 100–26, §§ 2, 6, Apr. 21, 1987, 101 Stat. 273, 274, provided that:
 
 > **“SEC. 2. REFERENCES TO 99TH CONGRESS LAWS**
 
@@ -704,7 +704,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Laws in Suspended Status Prior to 1980 Amendment by Pub. L. 96–513**
 
-Pub. L. 96–513, title VII, § 702, Dec. 12, 1980, 94 Stat. 2955, provided that: “If a provision of law that is in a suspended status on the day before the effective date of this Act [see Effective Date of 1980 Amendment note above] is amended by this Act [see Tables for classification], the suspended status of that provision is not affected by that amendment.”
+Pub. L. 96–513, title VII, § 702, Dec. 12, 1980, 94 Stat. 2955, provided that: “If a provision of law that is in a suspended status on the day before the effective date of this Act [see Effective Date of 1980 Amendment note above] is amended by this Act [see Tables for classification], the suspended status of that provision is not affected by that amendment.”
 
 **National Oceanic and Atmospheric Administration**
 
@@ -716,7 +716,7 @@ Authority vested by this title in “military departments”, “the Secretary c
 
 **Suicide Cluster: Standardized Definition for Use by Department of Defense; Congressional Notification**
 
-Pub. L. 117–263, div. A, title VII, § 740, Dec. 23, 2022, 136 Stat. 2676, provided that:
+Pub. L. 117–263, div. A, title VII, § 740, Dec. 23, 2022, 136 Stat. 2676, provided that:
 
 > **“(a) Standardization of Definition.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense, in consultation with the Secretaries concerned, shall develop, for use across the Armed Forces, a standardized definition for the term ‘suicide cluster’.
 
@@ -736,63 +736,63 @@ Pub. L. 117–263, div. A, title VII, § 740, Dec. 23, 2022, 136 Stat. 2676, p
 
 **Coordination of Certain Sections of an Act With Other Provisions of That Act**
 
-Pub. L. 119–60, div. A, title XVII, § 1701(b), Dec. 18, 2025, 139 Stat. 1210, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
+Pub. L. 119–60, div. A, title XVII, § 1701(b), Dec. 18, 2025, 139 Stat. 1210, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
 
 Similar provisions were contained in the following prior acts:
 
-Pub. L. 118–159, div. A, title XVII, § 1701(h), Dec. 23, 2024, 138 Stat. 2207.
+Pub. L. 118–159, div. A, title XVII, § 1701(h), Dec. 23, 2024, 138 Stat. 2207.
 
-Pub. L. 118–31, div. A, title XVIII, § 1801(b), Dec. 22, 2023, 137 Stat. 685.
+Pub. L. 118–31, div. A, title XVIII, § 1801(b), Dec. 22, 2023, 137 Stat. 685.
 
-Pub. L. 117–81, div. A, title X, § 1081(d), Dec. 27, 2021, 135 Stat. 1922.
+Pub. L. 117–81, div. A, title X, § 1081(d), Dec. 27, 2021, 135 Stat. 1922.
 
-Pub. L. 116–283, div. A, title X, § 1081(g), Jan. 1, 2021, 134 Stat. 3875.
+Pub. L. 116–283, div. A, title X, § 1081(g), Jan. 1, 2021, 134 Stat. 3875.
 
-Pub. L. 116–92, div. A, title XVII, § 1731(f), Dec. 20, 2019, 133 Stat. 1816.
+Pub. L. 116–92, div. A, title XVII, § 1731(f), Dec. 20, 2019, 133 Stat. 1816.
 
-Pub. L. 115–232, div. A, title X, § 1081(g), Aug. 13, 2018, 132 Stat. 1987.
+Pub. L. 115–232, div. A, title X, § 1081(g), Aug. 13, 2018, 132 Stat. 1987.
 
-Pub. L. 115–91, div. A, title X, § 1081(j), Dec. 12, 2017, 131 Stat. 1601.
+Pub. L. 115–91, div. A, title X, § 1081(j), Dec. 12, 2017, 131 Stat. 1601.
 
-Pub. L. 114–328, div. A, title X, § 1081(d), Dec. 23, 2016, 130 Stat. 2420.
+Pub. L. 114–328, div. A, title X, § 1081(d), Dec. 23, 2016, 130 Stat. 2420.
 
-Pub. L. 114–92, div. A, title X, § 1081(e), Nov. 25, 2015, 129 Stat. 1002.
+Pub. L. 114–92, div. A, title X, § 1081(e), Nov. 25, 2015, 129 Stat. 1002.
 
-Pub. L. 113–291, div. A, title X, § 1071(k), Dec. 19, 2014, 128 Stat. 3512.
+Pub. L. 113–291, div. A, title X, § 1071(k), Dec. 19, 2014, 128 Stat. 3512.
 
-Pub. L. 113–66, div. A, title X, § 1091(f), Dec. 26, 2013, 127 Stat. 877.
+Pub. L. 113–66, div. A, title X, § 1091(f), Dec. 26, 2013, 127 Stat. 877.
 
-Pub. L. 112–239, div. A, title X, § 1076(m), Jan. 2, 2013, 126 Stat. 1956.
+Pub. L. 112–239, div. A, title X, § 1076(m), Jan. 2, 2013, 126 Stat. 1956.
 
-Pub. L. 109–364, div. A, title X, § 1071(i), Oct. 17, 2006, 120 Stat. 2403.
+Pub. L. 109–364, div. A, title X, § 1071(i), Oct. 17, 2006, 120 Stat. 2403.
 
-Pub. L. 107–107, div. A, title X, § 1048(j), Dec. 28, 2001, 115 Stat. 1230.
+Pub. L. 107–107, div. A, title X, § 1048(j), Dec. 28, 2001, 115 Stat. 1230.
 
-Pub. L. 106–398, § 1 [[div. A], title X, § 1087(h)], Oct. 30, 2000, 114 Stat. 1654, 1654A–294.
+Pub. L. 106–398, § 1 [[div. A], title X, § 1087(h)], Oct. 30, 2000, 114 Stat. 1654, 1654A–294.
 
-Pub. L. 106–65, div. A, title X, § 1066(e), Oct. 5, 1999, 113 Stat. 773.
+Pub. L. 106–65, div. A, title X, § 1066(e), Oct. 5, 1999, 113 Stat. 773.
 
-Pub. L. 105–261, div. A, title X, § 1069(e), Oct. 17, 1998, 112 Stat. 2137.
+Pub. L. 105–261, div. A, title X, § 1069(e), Oct. 17, 1998, 112 Stat. 2137.
 
-Pub. L. 105–85, div. A, title X, § 1073(i), Nov. 18, 1997, 111 Stat. 1907.
+Pub. L. 105–85, div. A, title X, § 1073(i), Nov. 18, 1997, 111 Stat. 1907.
 
-Pub. L. 104–201, div. A, title X, § 1074(e), Sept. 23, 1996, 110 Stat. 2661.
+Pub. L. 104–201, div. A, title X, § 1074(e), Sept. 23, 1996, 110 Stat. 2661.
 
-Pub. L. 104–106, div. A, title XV, § 1506, Feb. 10, 1996, 110 Stat. 515.
+Pub. L. 104–106, div. A, title XV, § 1506, Feb. 10, 1996, 110 Stat. 515.
 
-Pub. L. 103–337, div. A, title X, § 1070(h), Oct. 5, 1994, 108 Stat. 2859.
+Pub. L. 103–337, div. A, title X, § 1070(h), Oct. 5, 1994, 108 Stat. 2859.
 
-Pub. L. 103–160, div. A, title XI, § 1182(h), Nov. 30, 1993, 107 Stat. 1774.
+Pub. L. 103–160, div. A, title XI, § 1182(h), Nov. 30, 1993, 107 Stat. 1774.
 
-Pub. L. 102–484, div. A, title X, § 1055, Oct. 23, 1992, 106 Stat. 2503.
+Pub. L. 102–484, div. A, title X, § 1055, Oct. 23, 1992, 106 Stat. 2503.
 
 **Establishment of Certain Definitions**
 
-Pub. L. 117–81, div. A, title VI, § 626(c), Dec. 27, 2021, 135 Stat. 1775, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall publish an interim rule that establishes standard definitions, for use across the military departments, of the terms ‘gold star family’ and ‘gold star survivor’.”
+Pub. L. 117–81, div. A, title VI, § 626(c), Dec. 27, 2021, 135 Stat. 1775, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall publish an interim rule that establishes standard definitions, for use across the military departments, of the terms ‘gold star family’ and ‘gold star survivor’.”
 
 **Standardization of Definitions Used by the Department of Defense for Terms Related to Suicide**
 
-Pub. L. 117–81, div. A, title VII, § 726, Dec. 27, 2021, 135 Stat. 1795, provided that:
+Pub. L. 117–81, div. A, title VII, § 726, Dec. 27, 2021, 135 Stat. 1795, provided that:
 
 > **“(a) Standardization of Definitions.—** Not later than 120 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop standardized definitions for the following terms:
 
@@ -814,147 +814,147 @@ Pub. L. 117–81, div. A, title VII, § 726, Dec. 27, 2021, 135 Stat. 1795, pr
 
 **References to NDAA for Fiscal Year 2025**
 
-Pub. L. 118–159, § 1(b), Dec. 23, 2024, 138 Stat. 1773, provided that: “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2025’ shall be deemed to be a reference to the ‘Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025’.”
+Pub. L. 118–159, § 1(b), Dec. 23, 2024, 138 Stat. 1773, provided that: “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2025’ shall be deemed to be a reference to the ‘Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025’.”
 
 **References to NDAA for Fiscal Year 2023**
 
-Pub. L. 117–263, § 1(b), Dec. 23, 2022, 136 Stat. 2395, provided that: “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2023’ shall be deemed to be a reference to the ‘James M. Inhofe National Defense Authorization Act for Fiscal Year 2023’.”
+Pub. L. 117–263, § 1(b), Dec. 23, 2022, 136 Stat. 2395, provided that: “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2023’ shall be deemed to be a reference to the ‘James M. Inhofe National Defense Authorization Act for Fiscal Year 2023’.”
 
 **References to NDAA for Fiscal Year 2021**
 
-Pub. L. 116–283, § 1(b), as added by Pub. L. 117–81, div. A, title X, § 1081(b)(2), Dec. 27, 2021, 135 Stat. 1922, provided that: “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2021’ shall be deemed to be a reference to the ‘William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021’ [Pub. L. 116–283].”
+Pub. L. 116–283, § 1(b), as added by Pub. L. 117–81, div. A, title X, § 1081(b)(2), Dec. 27, 2021, 135 Stat. 1922, provided that: “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2021’ shall be deemed to be a reference to the ‘William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021’ [Pub. L. 116–283].”
 
-[Pub. L. 117–81, div. A, title X, § 1081(b), Dec. 27, 2021, 135 Stat. 1922, provided that the enactment of section 1(b) of Pub. L. 116–283, set out above, by section 1081(b)(2) of Pub. L. 117–81 is effective as of Jan. 1, 2021, and as if included in Pub. L. 116–283.]
+[Pub. L. 117–81, div. A, title X, § 1081(b), Dec. 27, 2021, 135 Stat. 1922, provided that the enactment of section 1(b) of Pub. L. 116–283, set out above, by section 1081(b)(2) of Pub. L. 117–81 is effective as of Jan. 1, 2021, and as if included in Pub. L. 116–283.]
 
 **Congressional Defense Committees Defined**
 
 The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
 
-Pub. L. 119–60, § 3(2), Dec. 18, 2025, 139 Stat. 748.
+Pub. L. 119–60, § 3(2), Dec. 18, 2025, 139 Stat. 748.
 
-Pub. L. 118–159, § 3(2), Dec. 23, 2024, 138 Stat. 1799.
+Pub. L. 118–159, § 3(2), Dec. 23, 2024, 138 Stat. 1799.
 
-Pub. L. 118–31, § 3, Dec. 22, 2023, 137 Stat. 164.
+Pub. L. 118–31, § 3, Dec. 22, 2023, 137 Stat. 164.
 
-Pub. L. 117–263, § 3, Dec. 23, 2022, 136 Stat. 2438.
+Pub. L. 117–263, § 3, Dec. 23, 2022, 136 Stat. 2438.
 
-Pub. L. 117–81, § 3, Dec. 27, 2021, 135 Stat. 1565.
+Pub. L. 117–81, § 3, Dec. 27, 2021, 135 Stat. 1565.
 
-Pub. L. 116–283, § 3, Jan. 1, 2021, 134 Stat. 3421.
+Pub. L. 116–283, § 3, Jan. 1, 2021, 134 Stat. 3421.
 
-Pub. L. 116–92, § 3, Dec. 20, 2019, 133 Stat. 1231.
+Pub. L. 116–92, § 3, Dec. 20, 2019, 133 Stat. 1231.
 
-Pub. L. 115–232, § 3, Aug. 13, 2018, 132 Stat. 1658.
+Pub. L. 115–232, § 3, Aug. 13, 2018, 132 Stat. 1658.
 
-Pub. L. 115–91, § 3, Dec. 12, 2017, 131 Stat. 1305.
+Pub. L. 115–91, § 3, Dec. 12, 2017, 131 Stat. 1305.
 
-Pub. L. 114–328, § 3, Dec. 23, 2016, 130 Stat. 2025.
+Pub. L. 114–328, § 3, Dec. 23, 2016, 130 Stat. 2025.
 
-Pub. L. 114–92, § 3, Nov. 25, 2015, 129 Stat. 745.
+Pub. L. 114–92, § 3, Nov. 25, 2015, 129 Stat. 745.
 
-Pub. L. 113–291, § 3, Dec. 19, 2014, 128 Stat. 3312.
+Pub. L. 113–291, § 3, Dec. 19, 2014, 128 Stat. 3312.
 
-Pub. L. 113–66, § 3, Dec. 26, 2013, 127 Stat. 689.
+Pub. L. 113–66, § 3, Dec. 26, 2013, 127 Stat. 689.
 
-Pub. L. 112–239, § 3, Jan. 2, 2013, 126 Stat. 1652.
+Pub. L. 112–239, § 3, Jan. 2, 2013, 126 Stat. 1652.
 
-Pub. L. 112–81, § 3, Dec. 31, 2011, 125 Stat. 1316.
+Pub. L. 112–81, § 3, Dec. 31, 2011, 125 Stat. 1316.
 
-Pub. L. 111–383, § 3, Jan. 7, 2011, 124 Stat. 4151.
+Pub. L. 111–383, § 3, Jan. 7, 2011, 124 Stat. 4151.
 
-Pub. L. 111–84, § 3, Oct. 28, 2009, 123 Stat. 2208.
+Pub. L. 111–84, § 3, Oct. 28, 2009, 123 Stat. 2208.
 
-Pub. L. 110–417, § 3, Oct. 14, 2008, 122 Stat. 4372.
+Pub. L. 110–417, § 3, Oct. 14, 2008, 122 Stat. 4372.
 
-Pub. L. 110–181, § 3, Jan. 28, 2007, 122 Stat. 23.
+Pub. L. 110–181, § 3, Jan. 28, 2007, 122 Stat. 23.
 
-Pub. L. 109–364, § 3, Oct. 17, 2006, 120 Stat. 2100.
+Pub. L. 109–364, § 3, Oct. 17, 2006, 120 Stat. 2100.
 
-Pub. L. 109–163, § 3, Jan. 6, 2006, 119 Stat. 3152.
+Pub. L. 109–163, § 3, Jan. 6, 2006, 119 Stat. 3152.
 
-Pub. L. 108–375, § 3, Oct. 28, 2004, 118 Stat. 1825.
+Pub. L. 108–375, § 3, Oct. 28, 2004, 118 Stat. 1825.
 
-Pub. L. 109–148, div. A, title VIII, § 8028, Dec. 30, 2005, 119 Stat. 2704, provided that for purposes of Pub. L. 109–148 the term “congressional defense committees” means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives and, for any matter pertaining to basic allowance for housing, facilities sustainment, restoration and modernization, environmental restoration and the Defense Health Program, “congressional defense committees” also means the Subcommittee on Military Quality of Life and Veterans Affairs, and Related Agencies [subcommittee jurisdiction now in Subcommittee on Military Construction, Veterans Affairs, and Related Agencies and Subcommittee on Defense] of the Committee on Appropriations of the House of Representatives.
+Pub. L. 109–148, div. A, title VIII, § 8028, Dec. 30, 2005, 119 Stat. 2704, provided that for purposes of Pub. L. 109–148 the term “congressional defense committees” means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives and, for any matter pertaining to basic allowance for housing, facilities sustainment, restoration and modernization, environmental restoration and the Defense Health Program, “congressional defense committees” also means the Subcommittee on Military Quality of Life and Veterans Affairs, and Related Agencies [subcommittee jurisdiction now in Subcommittee on Military Construction, Veterans Affairs, and Related Agencies and Subcommittee on Defense] of the Committee on Appropriations of the House of Representatives.
 
 The following provisions defined the term “congressional defense committees” for purposes of the Acts in which they were contained to mean the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives:
 
-Pub. L. 111–118, div. A, title VIII, § 8028, Dec. 19, 2009, 123 Stat. 3434.
+Pub. L. 111–118, div. A, title VIII, § 8028, Dec. 19, 2009, 123 Stat. 3434.
 
-Pub. L. 110–329, div. C, title VIII, § 8028, Sept. 30, 2008, 122 Stat. 3627 (definition applies to div. C only).
+Pub. L. 110–329, div. C, title VIII, § 8028, Sept. 30, 2008, 122 Stat. 3627 (definition applies to div. C only).
 
-Pub. L. 110–116, div. A, title VIII, § 8027, Nov. 13, 2007, 121 Stat. 1320.
+Pub. L. 110–116, div. A, title VIII, § 8027, Nov. 13, 2007, 121 Stat. 1320.
 
-Pub. L. 109–289, div. A, title VIII, § 8025, Sept. 29, 2006, 120 Stat. 1279.
+Pub. L. 109–289, div. A, title VIII, § 8025, Sept. 29, 2006, 120 Stat. 1279.
 
-Pub. L. 108–287, title VIII, § 8030, Aug. 5, 2004, 118 Stat. 977.
+Pub. L. 108–287, title VIII, § 8030, Aug. 5, 2004, 118 Stat. 977.
 
-Pub. L. 108–87, title VIII, § 8031, Sept. 30, 2003, 117 Stat. 1079.
+Pub. L. 108–87, title VIII, § 8031, Sept. 30, 2003, 117 Stat. 1079.
 
-Pub. L. 107–248, title VIII, § 8031, Oct. 23, 2002, 116 Stat. 1543.
+Pub. L. 107–248, title VIII, § 8031, Oct. 23, 2002, 116 Stat. 1543.
 
-Pub. L. 107–117, div. A, title VIII, § 8034, Jan. 10, 2002, 115 Stat. 2255.
+Pub. L. 107–117, div. A, title VIII, § 8034, Jan. 10, 2002, 115 Stat. 2255.
 
-Pub. L. 106–259, title VIII, § 8034, Aug. 9, 2000, 114 Stat. 682.
+Pub. L. 106–259, title VIII, § 8034, Aug. 9, 2000, 114 Stat. 682.
 
-Pub. L. 106–79, title VIII, § 8036, Oct. 25, 1999, 113 Stat. 1239.
+Pub. L. 106–79, title VIII, § 8036, Oct. 25, 1999, 113 Stat. 1239.
 
 The following provisions defined the term “congressional defense committees” for purposes of the Acts in which they were contained to mean the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives:
 
-Pub. L. 108–136, § 3, Nov. 24, 2003, 117 Stat. 1406.
+Pub. L. 108–136, § 3, Nov. 24, 2003, 117 Stat. 1406.
 
-Pub. L. 107–314, § 3, Dec. 2, 2002, 116 Stat. 2471.
+Pub. L. 107–314, § 3, Dec. 2, 2002, 116 Stat. 2471.
 
-Pub. L. 107–107, § 3, Dec. 28, 2001, 115 Stat. 1027.
+Pub. L. 107–107, § 3, Dec. 28, 2001, 115 Stat. 1027.
 
-Pub. L. 106–398, § 1 [§ 3], Oct. 30, 2000, 114 Stat. 1654, 1654A–19.
+Pub. L. 106–398, § 1 [§ 3], Oct. 30, 2000, 114 Stat. 1654, 1654A–19.
 
-Pub. L. 106–65, § 3, Oct. 5, 1999, 113 Stat. 529.
+Pub. L. 106–65, § 3, Oct. 5, 1999, 113 Stat. 529.
 
-Pub. L. 103–337, § 3, Oct. 5, 1994, 108 Stat. 2678.
+Pub. L. 103–337, § 3, Oct. 5, 1994, 108 Stat. 2678.
 
-Pub. L. 103–160, § 3, Nov. 30, 1993, 107 Stat. 1562.
+Pub. L. 103–160, § 3, Nov. 30, 1993, 107 Stat. 1562.
 
-Pub. L. 102–484, § 3, Oct. 23, 1992, 106 Stat. 2331.
+Pub. L. 102–484, § 3, Oct. 23, 1992, 106 Stat. 2331.
 
-Pub. L. 102–190, § 3, Dec. 5, 1991, 105 Stat. 1301.
+Pub. L. 102–190, § 3, Dec. 5, 1991, 105 Stat. 1301.
 
-Pub. L. 102–25, § 3(4), Apr. 6, 1991, 105 Stat. 77.
+Pub. L. 102–25, § 3(4), Apr. 6, 1991, 105 Stat. 77.
 
-Pub. L. 101–510, § 3, Nov. 5, 1990, 104 Stat. 1498.
+Pub. L. 101–510, § 3, Nov. 5, 1990, 104 Stat. 1498.
 
-Pub. L. 101–189, § 4, Nov. 29, 1989, 103 Stat. 1364.
+Pub. L. 101–189, § 4, Nov. 29, 1989, 103 Stat. 1364.
 
 The following provisions defined the term “congressional defense committees” for purposes of the Acts in which they were contained to mean the National Security Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on National Security of the Committee on Appropriations of the House of Representatives:
 
-Pub. L. 105–262, title VIII, § 8036, Oct. 17, 1998, 112 Stat. 2305.
+Pub. L. 105–262, title VIII, § 8036, Oct. 17, 1998, 112 Stat. 2305.
 
-Pub. L. 105–56, title VIII, § 8038, Oct. 8, 1997, 111 Stat. 1229.
+Pub. L. 105–56, title VIII, § 8038, Oct. 8, 1997, 111 Stat. 1229.
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8040], Sept. 30, 1996, 110 Stat. 3009–71, 3009–97.
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8040], Sept. 30, 1996, 110 Stat. 3009–71, 3009–97.
 
-Pub. L. 104–61, title VIII, § 8049, Dec. 1, 1995, 109 Stat. 661.
+Pub. L. 104–61, title VIII, § 8049, Dec. 1, 1995, 109 Stat. 661.
 
 The following provisions defined the term “congressional defense committees” for purposes of the Acts in which they were contained to mean the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives:
 
-Pub. L. 105–261, § 3, Oct. 17, 1998, 112 Stat. 1935.
+Pub. L. 105–261, § 3, Oct. 17, 1998, 112 Stat. 1935.
 
-Pub. L. 105–85, § 3, Nov. 18, 1997, 111 Stat. 1645.
+Pub. L. 105–85, § 3, Nov. 18, 1997, 111 Stat. 1645.
 
-Pub. L. 104–201, § 3, Sept. 23, 1996, 110 Stat. 2439.
+Pub. L. 104–201, § 3, Sept. 23, 1996, 110 Stat. 2439.
 
-Pub. L. 104–106, § 3, Feb. 10, 1996, 110 Stat. 204.
+Pub. L. 104–106, § 3, Feb. 10, 1996, 110 Stat. 204.
 
 The following provisions defined the term “congressional defense committees” for purposes of the Acts in which they were contained to mean the Committees on Armed Services, the Committees on Appropriations, and the subcommittees on Defense of the Committee on Appropriations, of the Senate and the House of Representatives:
 
-Pub. L. 103–335, title VIII, § 8056, Sept. 30, 1994, 108 Stat. 2631.
+Pub. L. 103–335, title VIII, § 8056, Sept. 30, 1994, 108 Stat. 2631.
 
-Pub. L. 103–139, title VIII, § 8067, Nov. 11, 1993, 107 Stat. 1455.
+Pub. L. 103–139, title VIII, § 8067, Nov. 11, 1993, 107 Stat. 1455.
 
-Pub. L. 102–172, title VIII, § 8116, Nov. 26, 1991, 105 Stat. 1203.
+Pub. L. 102–172, title VIII, § 8116, Nov. 26, 1991, 105 Stat. 1203.
 
 **Definitions for Purposes of Pub. L. 102–25**
 
-Pub. L. 102–25, § 3, Apr. 6, 1991, 105 Stat. 77, as amended by Pub. L. 102–190, div. A, title XII, § 1203(a), Dec. 5, 1991, 105 Stat. 1508, provided that:
+Pub. L. 102–25, § 3, Apr. 6, 1991, 105 Stat. 77, as amended by Pub. L. 102–190, div. A, title XII, § 1203(a), Dec. 5, 1991, 105 Stat. 1508, provided that:
 
 > “For the purposes of this Act [see Short Title of 1991 Amendment note above]:
 
@@ -966,7 +966,7 @@ Pub. L. 102–25, § 3, Apr. 6, 1991, 105 Stat. 77, as amended by Pub. L. 102�
 
 > **“(4)** The term ‘congressional defense committees’ has the meaning given that term in section 3 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1498).”
 
-## § 102. Effect of certain amendments on conforming changes to tables of sections, tables of contents, and similar tabular entries
+## § 102. Effect of certain amendments on conforming changes to tables of sections, tables of contents, and similar tabular entries
 
 **(a) Automatic Execution of Conforming Changes.—** When an amendment to a covered defense law adds a section or larger organizational unit to the covered defense law, repeals or transfers a section or larger organizational unit in the covered defense law, or amends the designation or heading of a section or larger organizational unit in the covered defense law, that amendment also shall have the effect of amending any table of sections, table of contents, or similar tabular entries in the covered defense law to alter the table to conform to the changes made by the amendment.
 
@@ -986,21 +986,21 @@ Pub. L. 102–25, § 3, Apr. 6, 1991, 105 Stat. 77, as amended by Pub. L. 102�
 
 **(4)** any other law designated in the text thereof as a covered defense law for purposes of application of this section.
 
-(Added Pub. L. 117–263, div. A, title X, § 1081(e)(1), Dec. 23, 2022, 136 Stat. 2798.)
+(Added Pub. L. 117–263, div. A, title X, § 1081(e)(1), Dec. 23, 2022, 136 Stat. 2798.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Application of Amendment**
 
-Pub. L. 117–263, div. A, title X, § 1081(e)(3), Dec. 23, 2022, 136 Stat. 2798, provided that: “Section 102 of title 10, United States Code, as added by paragraph (1), shall apply to the amendments made by this section and other amendments made by this Act [see Tables for classification].”
+Pub. L. 117–263, div. A, title X, § 1081(e)(3), Dec. 23, 2022, 136 Stat. 2798, provided that: “Section 102 of title 10, United States Code, as added by paragraph (1), shall apply to the amendments made by this section and other amendments made by this Act [see Tables for classification].”
 
 **Coordination With Other Amendments Made by Pub. L. 117–263**
 
-Pub. L. 117–263, div. A, title X, § 1081(f), Dec. 23, 2022, 136 Stat. 2798, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section [enacting this section, amending sections 113, 2691, 3014, 4423, 4831, and 4833 of this title, and amending provisions set out as notes under sections 113, 391, and 2224 of this title] shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
+Pub. L. 117–263, div. A, title X, § 1081(f), Dec. 23, 2022, 136 Stat. 2798, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section [enacting this section, amending sections 113, 2691, 3014, 4423, 4831, and 4833 of this title, and amending provisions set out as notes under sections 113, 391, and 2224 of this title] shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
 
 **Elimination of Need for Certain Separate Conforming Amendments**
 
-Pub. L. 117–263, div. B, § 2803(b), Dec. 23, 2022, 136 Stat. 2970, provided that:
+Pub. L. 117–263, div. B, § 2803(b), Dec. 23, 2022, 136 Stat. 2970, provided that:
 
 > **“(1) Automatic execution of conforming changes.—** When an amendment made by a provision of this division [see Tables for classification] to a covered defense law adds a section or larger organizational unit to the covered defense law, repeals or transfers a section or larger organizational unit in the covered defense law, or amends the designation or heading of a section or larger organizational unit in the covered defense law, that amendment also shall have the effect of amending any table of sections, table of contents, or similar table of tabular entries in the covered defense law to alter the table to conform to the changes made by the amendment.
 
@@ -1022,4 +1022,4 @@ Pub. L. 117–263, div. B, § 2803(b), Dec. 23, 2022, 136 Stat. 2970, provided
 
 Similar provisions were contained in the following prior act:
 
-Pub. L. 117–81, div. B, § 2003(b), Dec. 27, 2021, 135 Stat. 2162.
+Pub. L. 117–81, div. B, § 2003(b), Dec. 27, 2021, 135 Stat. 2162.

@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—STATEMENT OF PURPOSES
 
-### § 2001. Congressional declaration of purposes
+### § 2001. Congressional declaration of purposes
 
 The purposes of this chapter are—
 
@@ -25,7 +25,7 @@ The purposes of this chapter are—
 
 **(2)** to authorize the implementation of such other international agreements providing for the mutual reduction or elimination of duties applicable to automotive products as the Government of the United States may hereafter enter into.
 
-(Pub. L. 89–283, title I, § 102, Oct. 21, 1965, 79 Stat. 1016.)
+(Pub. L. 89–283, title I, § 102, Oct. 21, 1965, 79 Stat. 1016.)
 
 **Editorial Notes**
 
@@ -37,11 +37,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Short Title**
 
-Pub. L. 89–283, title I, § 101, Oct. 21, 1965, 79 Stat. 1016, provided that: “This Act [enacting this chapter, amending section 1202 of this title and Schedules 2, 3, 5, 6, and 7 of the Tariff Schedules of the United States, and enacting provisions set out as a note preceding section 1202 of this title] may be cited as the ‘Automotive Products Trade Act of 1965’.”
+Pub. L. 89–283, title I, § 101, Oct. 21, 1965, 79 Stat. 1016, provided that: “This Act [enacting this chapter, amending section 1202 of this title and Schedules 2, 3, 5, 6, and 7 of the Tariff Schedules of the United States, and enacting provisions set out as a note preceding section 1202 of this title] may be cited as the ‘Automotive Products Trade Act of 1965’.”
 
 ## SUBCHAPTER II—BASIC AUTHORITIES
 
-### § 2011. Implementation of the Agreement
+### § 2011. Implementation of the Agreement
 
 **(a) Modification of Harmonized Tariff Schedule**
 
@@ -51,7 +51,7 @@ The President is authorized to proclaim the modifications of the Harmonized Tari
 
 At any time after the issuance of the proclamation authorized by subsection (a), the President is authorized to proclaim further modifications of the Harmonized Tariff Schedule of the United States to provide for the duty-free treatment of any Canadian article which is original motor-vehicle equipment (as defined by such Schedules as modified pursuant to subsection (a)) if he determines that the importation of such article is actually or potentially of commercial significance and that such duty-free treatment is required to carry out the Agreement.
 
-(Pub. L. 89–283, title II, § 201, Oct. 21, 1965, 79 Stat. 1016; Pub. L. 100–418, title I, § 1214(i), Aug. 23, 1988, 102 Stat. 1157.)
+(Pub. L. 89–283, title II, § 201, Oct. 21, 1965, 79 Stat. 1016; Pub. L. 100–418, title I, § 1214(i), Aug. 23, 1988, 102 Stat. 1157.)
 
 **Editorial Notes**
 
@@ -125,15 +125,15 @@ DONE at the City of Washington this eighth day of September in the year of our L
 
 Lyndon B. Johnson.
 
-### § 2012. Omitted
+### § 2012. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 89–283, title II, § 202, Oct. 21, 1965, 79 Stat. 1016, which related to the modification of tariff schedules to implement duty free motor vehicle agreements and duty reduced or duty free automotive product agreements, the necessity for advice and public notice prior to negotiation of such agreements, the transmission to the Congress of copies of such agreements, and Presidential proclamations to implement such agreements, expired by its own terms on Oct. 22, 1965.
+Section, Pub. L. 89–283, title II, § 202, Oct. 21, 1965, 79 Stat. 1016, which related to the modification of tariff schedules to implement duty free motor vehicle agreements and duty reduced or duty free automotive product agreements, the necessity for advice and public notice prior to negotiation of such agreements, the transmission to the Congress of copies of such agreements, and Presidential proclamations to implement such agreements, expired by its own terms on Oct. 22, 1965.
 
-### § 2013. Effective date of proclamations
+### § 2013. Effective date of proclamations
 
 **(a) Retroactive effect; authority of President**
 
@@ -143,15 +143,15 @@ Subject to subsection (b), the President is authorized, notwithstanding section 
 
 In the case of liquidated customs entries, the retroactive effect pursuant to subsection (a) of any proclamation shall apply only upon request therefor filed with the customs officer concerned on or before the 90th day after the date of such proclamation and subject to such other conditions as the President may specify.
 
-(Pub. L. 89–283, title II, § 203, Oct. 21, 1965, 79 Stat. 1018.)
+(Pub. L. 89–283, title II, § 203, Oct. 21, 1965, 79 Stat. 1018.)
 
-### § 2014. Termination of proclamations
+### § 2014. Termination of proclamations
 
 The President is authorized at any time to terminate, in whole or in part, any proclamation issued pursuant to section 2011 or 2012 of this title.
 
-(Pub. L. 89–283, title II, § 204, Oct. 21, 1965, 79 Stat. 1018.)
+(Pub. L. 89–283, title II, § 204, Oct. 21, 1965, 79 Stat. 1018.)
 
-### § 2015. Special reports to Congress
+### § 2015. Special reports to Congress
 
 **(a) Report on required comprehensive review**
 
@@ -165,7 +165,7 @@ Whenever the President finds that any manufacturer has entered into any undertak
 
 The reports provided for in subsections (a) and (b) of this section shall include recommendations for such further steps, including legislative action, if any, as may be necessary for the achievement of the purposes of the Agreement and this chapter.
 
-(Pub. L. 89–283, title II, § 205, Oct. 21, 1965, 79 Stat. 1018.)
+(Pub. L. 89–283, title II, § 205, Oct. 21, 1965, 79 Stat. 1018.)
 
 **Editorial Notes**
 
@@ -177,19 +177,19 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 ## SUBCHAPTER III—TARIFF ADJUSTMENT AND OTHER ADJUSTMENT ASSISTANCE
 
-### § 2021. General authority
+### § 2021. General authority
 
 A petition may be filed for tariff adjustment or for a determination of eligibility to apply for adjustment assistance under title III of the Trade Expansion Act of 1962 [19 U.S.C. 1901 et seq.] as though the reduction or elimination of a duty proclaimed by the President pursuant to section 2011 or 2012 of this title were a concession granted under a trade agreement referred to in section 301 of the Trade Expansion Act of 1962 [19 U.S.C. 1901].
 
-(Pub. L. 89–283, title III, § 301, Oct. 21, 1965, 79 Stat. 1018.)
+(Pub. L. 89–283, title III, § 301, Oct. 21, 1965, 79 Stat. 1018.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trade Expansion Act of 1962, referred to in text, is Pub. L. 87–794, Oct. 11, 1962, 76 Stat. 872. Title III of the Trade Expansion Act of 1962 is classified generally to subchapter III (§ 1901 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Trade Expansion Act of 1962, referred to in text, is Pub. L. 87–794, Oct. 11, 1962, 76 Stat. 872. Title III of the Trade Expansion Act of 1962 is classified generally to subchapter III (§ 1901 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-Section 301 of the Trade Expansion Act of 1962, referred to in text, was classified to section 1901 of this title and was repealed by Pub. L. 93–618, title VI, § 602(d), (e), Jan. 3, 1975, 88 Stat. 2072. See section 2251 et seq. of this title.
+Section 301 of the Trade Expansion Act of 1962, referred to in text, was classified to section 1901 of this title and was repealed by Pub. L. 93–618, title VI, § 602(d), (e), Jan. 3, 1975, 88 Stat. 2072. See section 2251 et seq. of this title.
 
 Section 2012 of this title, referred to in text, was omitted from the Code.
 
@@ -197,25 +197,25 @@ Section 2012 of this title, referred to in text, was omitted from the Code.
 
 The words “subject to section 2022 of this title” omitted in view of the omission of section 2022 of this title, which provided special authority after Oct. 21, 1965, and before July 1, 1968, for filing of petitions for determination by the President of eligibility to apply for adjustment assistance.
 
-### §§ 2022, 2023. Omitted
+### §§ 2022, 2023. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 2022, Pub. L. 89–283, title III, § 302, Oct. 21, 1965, 79 Stat. 1018; Pub. L. 95–598, title III, § 316, Nov. 6, 1978, 92 Stat. 2678, set forth procedures for Presidential certification of petitions filed by firms or group of workers for determination of eligibility to apply for adjustment assistance after the 90th day after Oct. 21, 1965, and before July 1, 1968. See section 2021 of this title for general authority for filing of petition.
+Section 2022, Pub. L. 89–283, title III, § 302, Oct. 21, 1965, 79 Stat. 1018; Pub. L. 95–598, title III, § 316, Nov. 6, 1978, 92 Stat. 2678, set forth procedures for Presidential certification of petitions filed by firms or group of workers for determination of eligibility to apply for adjustment assistance after the 90th day after Oct. 21, 1965, and before July 1, 1968. See section 2021 of this title for general authority for filing of petition.
 
-Section 2023, Pub. L. 89–283, title III, § 303, Oct. 21, 1965, 79 Stat. 1021, required the President, at the time he transmits an agreement under section 2012(d)(1) of this title, to recommend legislation concerning adjustment assistance to firms and workers in light of the anticipated economic impact of the reduction of duties provided for by such agreement.
+Section 2023, Pub. L. 89–283, title III, § 303, Oct. 21, 1965, 79 Stat. 1021, required the President, at the time he transmits an agreement under section 2012(d)(1) of this title, to recommend legislation concerning adjustment assistance to firms and workers in light of the anticipated economic impact of the reduction of duties provided for by such agreement.
 
-### § 2024. Authorization of appropriations
+### § 2024. Authorization of appropriations
 
 There are hereby authorized to be appropriated such sums as may be necessary from time to time to carry out the provisions of this subchapter, which sums are authorized to be appropriated to remain available until expended.
 
-(Pub. L. 89–283, title III, § 304, Oct. 21, 1965, 79 Stat. 1021.)
+(Pub. L. 89–283, title III, § 304, Oct. 21, 1965, 79 Stat. 1021.)
 
 ## SUBCHAPTER IV—GENERAL PROVISIONS
 
-### § 2031. Authorities; delegation of functions; rules and regulations
+### § 2031. Authorities; delegation of functions; rules and regulations
 
 The head of any agency performing functions authorized by this chapter may—
 
@@ -223,7 +223,7 @@ The head of any agency performing functions authorized by this chapter may—
 
 **(2)** prescribe such rules and regulations as may be necessary to perform such functions.
 
-(Pub. L. 89–283, title V, § 501, Oct. 21, 1965, 79 Stat. 1025.)
+(Pub. L. 89–283, title V, § 501, Oct. 21, 1965, 79 Stat. 1025.)
 
 **Editorial Notes**
 
@@ -231,7 +231,7 @@ The head of any agency performing functions authorized by this chapter may—
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 89–283, Oct. 21, 1965, 79 Stat. 1016. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 
-### § 2032. Annual report to Congress
+### § 2032. Annual report to Congress
 
 The President shall submit to the Congress an annual report on the implementation of this chapter. Such report shall include information regarding new negotiations, reductions or eliminations of duties, reciprocal concessions obtained, and other information relating to activities under this chapter. Such report shall also include information providing an evaluation of the Agreement and this chapter in relation to the total national interest, and specifically shall include, to the extent practicable, information with respect to—
 
@@ -243,7 +243,7 @@ The President shall submit to the Congress an annual report on the implementatio
 
 **(4)** United States and Canadian trade in motor vehicles and motor vehicle parts, particularly trade between the United States and Canada.
 
-(Pub. L. 89–283, title V, § 502, Oct. 21, 1965, 79 Stat. 1025.)
+(Pub. L. 89–283, title V, § 502, Oct. 21, 1965, 79 Stat. 1025.)
 
 **Editorial Notes**
 
@@ -261,11 +261,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 George Bush.
 
-### § 2033. Applicability of antidumping provisions and antitrust laws
+### § 2033. Applicability of antidumping provisions and antitrust laws
 
 Nothing contained in this chapter shall be construed to affect or modify the provisions of subtitle B of title VII of the Tariff Act of 1930 [19 U.S.C. 1673 et seq.] or of any of the antitrust laws as designated in section 12 of title 15.
 
-(Pub. L. 89–283, title V, § 503, Oct. 21, 1965, 79 Stat. 1026; Pub. L. 96–39, title I, § 106(b)(2), July 26, 1979, 93 Stat. 193.)
+(Pub. L. 89–283, title V, § 503, Oct. 21, 1965, 79 Stat. 1026; Pub. L. 96–39, title I, § 106(b)(2), July 26, 1979, 93 Stat. 193.)
 
 **Editorial Notes**
 
@@ -273,7 +273,7 @@ Nothing contained in this chapter shall be construed to affect or modify the pro
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 89–283, Oct. 21, 1965, 79 Stat. 1016. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 
-The Tariff Act of 1930, referred to in text, is act June 17, 1930, ch. 497, 46 Stat. 590. Subtitle B of title VII of the Tariff Act of 1930 is classified generally to part II of subtitle IV (§ 1673 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+The Tariff Act of 1930, referred to in text, is act June 17, 1930, ch. 497, 46 Stat. 590. Subtitle B of title VII of the Tariff Act of 1930 is classified generally to part II of subtitle IV (§ 1673 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 **Amendments**
 

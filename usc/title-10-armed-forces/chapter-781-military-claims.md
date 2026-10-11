@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 451 of this title as this chapter and items 4801 to 4806 as 7801 to 7806, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 451 of this title as this chapter and items 4801 to 4806 as 7801 to 7806, respectively.
 
-1972—Pub. L. 92–417, § 1(2), Aug. 29, 1972, 86 Stat. 654, substituted “Admiralty claims against the United States” for “Damage by United States vessels; towage and salvage of United States vessels” in item 4802.
+1972—Pub. L. 92–417, § 1(2), Aug. 29, 1972, 86 Stat. 654, substituted “Admiralty claims against the United States” for “Damage by United States vessels; towage and salvage of United States vessels” in item 4802.
 
-1960—Pub. L. 86–533, § 1(8)(B), June 29, 1960, 74 Stat. 247, struck out item 4805 “Reports to Congress”.
+1960—Pub. L. 86–533, § 1(8)(B), June 29, 1960, 74 Stat. 247, struck out item 4805 “Reports to Congress”.
 
-## § 7801. Definition
+## § 7801. Definition
 
 In this chapter, the term “settle” means consider, ascertain, adjust, determine, and dispose of a claim, whether by full or partial allowance or by disallowance.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 270, § 4801; Pub. L. 100–180, div. A, title XII, § 1231(19)(B), Dec. 4, 1987, 101 Stat. 1161; renumbered § 7801, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 270, § 4801; Pub. L. 100–180, div. A, title XII, § 1231(19)(B), Dec. 4, 1987, 101 Stat. 1161; renumbered § 7801, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -53,7 +53,7 @@ The revised section is inserted for clarity, and is based on usage in the source
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7802. Admiralty claims against the United States
+## § 7802. Admiralty claims against the United States
 
 **(a)** The Secretary of the Army may settle or compromise an admiralty claim against the United States for—
 
@@ -67,13 +67,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** In any case where the amount to be paid is not more than $100,000, the Secretary of the Army may delegate his authority under subsection (a) to any person in the Department of the Army designated by him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 271, § 4802; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 92–417, § 1(1), Aug. 29, 1972, 86 Stat. 654; Pub. L. 101–189, div. A, title XVI, § 1633, Nov. 29, 1989, 103 Stat. 1608; renumbered § 7802, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 271, § 4802; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 92–417, § 1(1), Aug. 29, 1972, 86 Stat. 654; Pub. L. 101–189, div. A, title XVI, § 1633, Nov. 29, 1989, 103 Stat. 1608; renumbered § 7802, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4802(a)     4802(b) 4802(c) | 10:1861 (less 35 words before 1st proviso, and less last proviso). 10:1861 (last proviso). 10:1866 (as applicable to 10:1861). | Oct. 20, 1951, ch. 524, §§ 1 (less 35 words before 1st proviso), 6 (as applicable to § 1), 65 Stat. 572, 573. |
+| 4802(a) 4802(b) 4802(c) | 10:1861 (less 35 words before 1st proviso, and less last proviso). 10:1861 (last proviso). 10:1866 (as applicable to 10:1861). | Oct. 20, 1951, ch. 524, §§ 1 (less 35 words before 1st proviso), 6 (as applicable to § 1), 65 Stat. 572, 573. |
 
 In subsection (a), the words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in section 4801 of this title. 10:1861 (1st proviso) is omitted as unnecessary, since other applicable claims laws are restated in this title. 10:1861 (2d proviso) is omitted as surplusage.
 
@@ -95,7 +95,7 @@ In subsection (a), the words “consider, ascertain, adjust, determine” are om
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7803. Admiralty claims by United States
+## § 7803. Admiralty claims by United States
 
 **(a)** Under the direction of the Secretary of Defense, the Secretary of the Army may settle, or compromise, and receive payment of a claim by the United States for damage to property under the jurisdiction of the Department of the Army or property for which the Department has assumed an obligation to respond for damage, if—
 
@@ -111,13 +111,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** In any case where the amount to be received by the United States is not more than $100,000, the Secretary of the Army may delegate his authority under subsections (a) and (b) to any person in the Department of the Army designated by him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 271, § 4803; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 101–189, div. A, title XVI, § 1633, Nov. 29, 1989, 103 Stat. 1608; renumbered § 7803, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 271, § 4803; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 101–189, div. A, title XVI, § 1633, Nov. 29, 1989, 103 Stat. 1608; renumbered § 7803, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4803(a)       4803(b) | 10:1862 (1st sentence; 2d sentence, less last 32 words; and provisos of last sentence). 10:1862 (3d sentence; and last sentence, less provisos). | Oct. 20, 1951, ch. 524, §§ 2 (less last 32 words of 2d sentence), 6 (less applicability to § 1), 65 Stat. 572, 573. |
+| 4803(a) 4803(b) | 10:1862 (1st sentence; 2d sentence, less last 32 words; and provisos of last sentence). 10:1862 (3d sentence; and last sentence, less provisos). | Oct. 20, 1951, ch. 524, §§ 2 (less last 32 words of 2d sentence), 6 (less applicability to § 1), 65 Stat. 572, 573. |
 | 4803(c) | 10:1866 less applicability to 10:1861). |  |
 
 In subsection (a), the words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in section 4801 of this title. The words “receive payment” are substituted for 10:1862 (2d sentence, less last 32 words). The words “of a kind that is within the admiralty jurisdiction” are substituted for the words “cognizable in admiralty”. Clause (2) is substituted for 10:1862 (last proviso of last sentence). 10:1862 (1st proviso of last sentence) is omitted as unnecessary, since other applicable claims laws are restated in this title. The words “by contract or otherwise” are omitted as surplusage.
@@ -140,19 +140,19 @@ In subsection (b), the words “of the United States as miscellaneous receipts�
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7804. Salvage claims by United States
+## § 7804. Salvage claims by United States
 
 **(a)** The Secretary of the Army may settle, or compromise, and receive payment of a claim by the United States for salvage services performed by the Department of the Army. Amounts received under this section shall be covered into the Treasury.
 
 **(b)** In any case where the amount to be received by the United States is not more than $10,000, the Secretary of the Army may delegate his authority under subsection (a) to any person designated by him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 271, § 4804; Pub. L. 92–417, § 1(3), Aug. 29, 1972, 86 Stat. 654; renumbered § 7804, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 271, § 4804; Pub. L. 92–417, § 1(3), Aug. 29, 1972, 86 Stat. 654; renumbered § 7804, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4804 | 10:1863. | Oct. 20, 1951, ch. 524, § 3, 65 Stat. 573. |
+| 4804 | 10:1863. | Oct. 20, 1951, ch. 524, § 3, 65 Stat. 573. |
 
 The words “under this section” are substituted for the words “for salvage services rendered”. The words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in section 4801 of this title. The words “and receive payment of” are inserted for clarity and to conform to section 4803 of this title. The words “as miscellaneous receipts” are omitted as surplusage.
 
@@ -170,17 +170,17 @@ The words “under this section” are substituted for the words “for salvage 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7806. Settlement or compromise: final and conclusive
+## § 7806. Settlement or compromise: final and conclusive
 
 Notwithstanding any other provision of law, upon acceptance of payment the settlement or compromise of a claim under section 7802 or 7803 of this title is final and conclusive.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 272, § 4806; renumbered § 7806 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(d), 809(a), Aug. 13, 2018, 132 Stat. 1839, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 272, § 4806; renumbered § 7806 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(d), 809(a), Aug. 13, 2018, 132 Stat. 1839, 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4806 | 10:1861 (35 words before 1st proviso). 10:1862 (last 32 words of 2d sentence). | Oct. 20, 1951, ch. 524, §§ 1 (35 words before 1st proviso), 2 (last 32 words of 2d sentence), 65 Stat. 572, 573. |
+| 4806 | 10:1861 (35 words before 1st proviso). 10:1862 (last 32 words of 2d sentence). | Oct. 20, 1951, ch. 524, §§ 1 (35 words before 1st proviso), 2 (last 32 words of 2d sentence), 65 Stat. 572, 573. |
 
 The words “for all purposes” and “to the contrary”, in 10:1861 and 1862; “by the claimant and not until then”, in 10:1861; and “but not until then”, in 10:1862; are omitted as surplusage.
 
@@ -188,9 +188,9 @@ The words “for all purposes” and “to the contrary”, in 10:1861 and 1862;
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 809(a), substituted “section 7802 or 7803” for “section 4802 or 4803”.
+2018—Pub. L. 115–232, § 809(a), substituted “section 7802 or 7803” for “section 4802 or 4803”.
 
-Pub. L. 115–232, § 808(d), renumbered section 4806 of this title as this section.
+Pub. L. 115–232, § 808(d), renumbered section 4806 of this title as this section.
 
 **Statutory Notes and Related Subsidiaries**
 

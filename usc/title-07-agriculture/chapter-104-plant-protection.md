@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 104—PLANT PROTECTION
 
-## § 7701. Findings
+## § 7701. Findings
 
 Congress finds that—
 
@@ -27,9 +27,9 @@ Congress finds that—
 
 **(4)** decisions affecting imports, exports, and interstate movement of products regulated under this chapter shall be based on sound science;
 
-**(5)** the smooth movement of enterable plants, plant products, biological control organisms, or other articles into, out of, or within the United States is vital to the United State’s 1
+**(5)** the smooth movement of enterable plants, plant products, biological control organisms, or other articles into, out of, or within the United States is vital to the United State’s 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 economy and should be facilitated to the extent possible;
 
@@ -41,7 +41,7 @@ economy and should be facilitated to the extent possible;
 
 **(9)** all plant pests, noxious weeds, plants, plant products, articles capable of harboring plant pests or noxious weeds regulated under this chapter are in or affect interstate commerce or foreign commerce.
 
-(Pub. L. 106–224, title IV, § 402, June 20, 2000, 114 Stat. 438.)
+(Pub. L. 106–224, title IV, § 402, June 20, 2000, 114 Stat. 438.)
 
 **Editorial Notes**
 
@@ -53,9 +53,9 @@ This chapter, referred to in pars. (4) and (9), was in the original “this titl
 
 **Short Title**
 
-Pub. L. 106–224, title IV, § 401, June 20, 2000, 114 Stat. 438, provided that: “This title [enacting this chapter, amending section 7759 of this title and section 129a of Title 21, Food and Drugs, and repealing sections 148, 148a, 148c to 148f, 149, 150, 150a to 150g, 150aa to 150jj, 151 to 154, 156 to 164, 164a, 167, 1651 to 1656, and 2801 to 2813 of this title, and provisions set out as notes under sections 147a, 150, 150aa, 151, and 1651 of this title] may be cited as the ‘Plant Protection Act’.”
+Pub. L. 106–224, title IV, § 401, June 20, 2000, 114 Stat. 438, provided that: “This title [enacting this chapter, amending section 7759 of this title and section 129a of Title 21, Food and Drugs, and repealing sections 148, 148a, 148c to 148f, 149, 150, 150a to 150g, 150aa to 150jj, 151 to 154, 156 to 164, 164a, 167, 1651 to 1656, and 2801 to 2813 of this title, and provisions set out as notes under sections 147a, 150, 150aa, 151, and 1651 of this title] may be cited as the ‘Plant Protection Act’.”
 
-Pub. L. 106–224, title IV, § 451, as added by Pub. L. 108–412, § 1, Oct. 30, 2004, 118 Stat. 2320, provided that: “This subtitle [subtitle E (§§ 451–457) of title IV of Pub. L. 106–224, enacting subchapter V of this chapter] may be cited as the ‘Noxious Weed Control and Eradication Act of 2004’.”
+Pub. L. 106–224, title IV, § 451, as added by Pub. L. 108–412, § 1, Oct. 30, 2004, 118 Stat. 2320, provided that: “This subtitle [subtitle E (§§ 451–457) of title IV of Pub. L. 106–224, enacting subchapter V of this chapter] may be cited as the ‘Noxious Weed Control and Eradication Act of 2004’.”
 
 **Transfer of Functions**
 
@@ -63,7 +63,7 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 
 **Regulations To Improve Management and Oversight of Certain Regulated Articles**
 
-Pub. L. 110–234, title X, § 10204, May 22, 2008, 122 Stat. 1343, and Pub. L. 110–246, § 4(a), title X, § 10204, June 18, 2008, 122 Stat. 1664, 2105, provided that:
+Pub. L. 110–234, title X, § 10204, May 22, 2008, 122 Stat. 1343, and Pub. L. 110–246, § 4(a), title X, § 10204, June 18, 2008, 122 Stat. 1664, 2105, provided that:
 
 > **“(a) In General.—** Not later than 18 months after the date of enactment of this Act [June 18, 2008], the Secretary [of Agriculture] shall—
 
@@ -119,7 +119,7 @@ Pub. L. 110–234, title X, § 10204, May 22, 2008, 122 Stat. 1343, and Pub. L
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
-## § 7702. Definitions
+## § 7702. Definitions
 
 In this chapter:
 
@@ -233,7 +233,7 @@ Except when used in this section, the term “this chapter” includes any regul
 
 The term “United States” means all of the States.
 
-(Pub. L. 106–224, title IV, § 403, June 20, 2000, 114 Stat. 438.)
+(Pub. L. 106–224, title IV, § 403, June 20, 2000, 114 Stat. 438.)
 
 **Editorial Notes**
 
@@ -243,7 +243,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 ## SUBCHAPTER I—PLANT PROTECTION
 
-### § 7711. Regulation of movement of plant pests
+### § 7711. Regulation of movement of plant pests
 
 **(a) Prohibition of unauthorized movement of plant pests**
 
@@ -293,7 +293,7 @@ Nothing in this subsection authorizes any person to open any mailed letter or ot
 
 **(4)** be subject to remedial measures the Secretary determines to be necessary to prevent the spread of plant pests.
 
-(Pub. L. 106–224, title IV, § 411, June 20, 2000, 114 Stat. 440.)
+(Pub. L. 106–224, title IV, § 411, June 20, 2000, 114 Stat. 440.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -301,7 +301,7 @@ Nothing in this subsection authorizes any person to open any mailed letter or ot
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7712. Regulation of movement of plants, plant products, biological control organisms, noxious weeds, articles, and means of conveyance
+### § 7712. Regulation of movement of plants, plant products, biological control organisms, noxious weeds, articles, and means of conveyance
 
 **(a) In general**
 
@@ -379,7 +379,7 @@ Any person may petition the Secretary to add a biological control organism to, o
 
 In the case of a petition submitted under paragraph (2), the Secretary shall act on the petition within a reasonable time and notify the petitioner of the final action the Secretary takes on the petition. The Secretary’s determination on the petition shall be based on sound science.
 
-(Pub. L. 106–224, title IV, § 412, June 20, 2000, 114 Stat. 441.)
+(Pub. L. 106–224, title IV, § 412, June 20, 2000, 114 Stat. 441.)
 
 **Editorial Notes**
 
@@ -393,7 +393,7 @@ This chapter, referred to in subsec. (d)(2)(E), was in the original “this titl
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7712a. Reduction in backlog of agricultural export petitions
+### § 7712a. Reduction in backlog of agricultural export petitions
 
 **(a) Reduction efforts** To the maximum extent practicable, the Secretary of Agriculture shall endeavor to reduce the backlog in the number of applications for permits for the export of United States agricultural commodities. In achieving such reduction, the Secretary shall not dilute or diminish existing personnel resources that are currently managing sanitary and phytosanitary issues for—
 
@@ -411,7 +411,7 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 
 **(4)** the number of backlog applications remaining.
 
-(Pub. L. 108–465, title II, § 202, Dec. 21, 2004, 118 Stat. 3884.)
+(Pub. L. 108–465, title II, § 202, Dec. 21, 2004, 118 Stat. 3884.)
 
 **Editorial Notes**
 
@@ -419,7 +419,7 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 
 Section was enacted as part of the Specialty Crops Competitiveness Act of 2004, and not as part of the Plant Protection Act which comprises this chapter.
 
-### § 7713. Notification and holding requirements upon arrival
+### § 7713. Notification and holding requirements upon arrival
 
 **(a) Duty of Secretary of the Treasury**
 
@@ -461,7 +461,7 @@ The notification shall be provided to the Secretary, or, at the Secretary’s di
 
 **(2)** is otherwise released by the Secretary.
 
-(Pub. L. 106–224, title IV, § 413, June 20, 2000, 114 Stat. 443.)
+(Pub. L. 106–224, title IV, § 413, June 20, 2000, 114 Stat. 443.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -469,7 +469,7 @@ The notification shall be provided to the Secretary, or, at the Secretary’s di
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7714. General remedial measures for new plant pests and noxious weeds
+### § 7714. General remedial measures for new plant pests and noxious weeds
 
 **(a) Authority to hold, treat, or destroy items** If the Secretary considers it necessary in order to prevent the dissemination of a plant pest or noxious weed that is new to or not known to be widely prevalent or distributed within and throughout the United States, the Secretary may hold, seize, quarantine, treat, apply other remedial measures to, destroy, or otherwise dispose of any plant, plant pest, noxious weed, biological control organism, plant product, article, or means of conveyance that—
 
@@ -507,7 +507,7 @@ In conjunction with the classification system, the Secretary may develop integra
 
 No plant, biological control organism, plant product, plant pest, noxious weed, article, or means of conveyance shall be destroyed, exported, or returned to the shipping point of origin, or ordered to be destroyed, exported, or returned to the shipping point of origin under this section unless, in the opinion of the Secretary, there is no less drastic action that is feasible and that would be adequate to prevent the dissemination of any plant pest or noxious weed new to or not known to be widely prevalent or distributed within and throughout the United States.
 
-(Pub. L. 106–224, title IV, § 414, June 20, 2000, 114 Stat. 444; Pub. L. 107–171, title X, § 10418(b)(1), May 13, 2002, 116 Stat. 508.)
+(Pub. L. 106–224, title IV, § 414, June 20, 2000, 114 Stat. 444; Pub. L. 107–171, title X, § 10418(b)(1), May 13, 2002, 116 Stat. 508.)
 
 **Editorial Notes**
 
@@ -517,9 +517,9 @@ This chapter, referred to in subsec. (a)(1)(B), (3), was in the original “this
 
 **Amendments**
 
-2002—Subsec. (b)(1). Pub. L. 107–171, § 10418(b)(1)(A), struck out “, or the owner’s agent,” after “subsection (a)”.
+2002—Subsec. (b)(1). Pub. L. 107–171, § 10418(b)(1)(A), struck out “, or the owner’s agent,” after “subsection (a)”.
 
-Subsec. (b)(2). Pub. L. 107–171, § 10418(b)(1)(B), struck out “or agent of the owner” after “the owner” in two places.
+Subsec. (b)(2). Pub. L. 107–171, § 10418(b)(1)(B), struck out “or agent of the owner” after “the owner” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -527,7 +527,7 @@ Subsec. (b)(2). Pub. L. 107–171, § 10418(b)(1)(B), struck out “or agent o
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7715. Declaration of extraordinary emergency and resulting authorities
+### § 7715. Declaration of extraordinary emergency and resulting authorities
 
 **(a) Authority to declare** If the Secretary determines that an extraordinary emergency exists because of the presence of a plant pest or noxious weed that is new to or not known to be widely prevalent in or distributed within and throughout the United States and that the presence of the plant pest or noxious weed threatens plants or plant products of the United States, the Secretary may—
 
@@ -567,7 +567,7 @@ No plant, biological control organism, plant product, plant pest, noxious weed, 
 
 The Secretary may pay compensation to any person for economic losses incurred by the person as a result of action taken by the Secretary under this section. The determination by the Secretary of the amount of any compensation to be paid under this subsection shall be final and shall not be subject to judicial review or a review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
 
-(Pub. L. 106–224, title IV, § 415, June 20, 2000, 114 Stat. 445; Pub. L. 107–171, title VII, § 7504(a), May 13, 2002, 116 Stat. 465; Pub. L. 110–234, title X, § 10203(a), May 22, 2008, 122 Stat. 1342; Pub. L. 110–246, § 4(a), title X, § 10203(a), June 18, 2008, 122 Stat. 1664, 2104.)
+(Pub. L. 106–224, title IV, § 415, June 20, 2000, 114 Stat. 445; Pub. L. 107–171, title VII, § 7504(a), May 13, 2002, 116 Stat. 465; Pub. L. 110–234, title X, § 10203(a), May 22, 2008, 122 Stat. 1342; Pub. L. 110–246, § 4(a), title X, § 10203(a), June 18, 2008, 122 Stat. 1664, 2104.)
 
 **Editorial Notes**
 
@@ -577,7 +577,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (e). Pub. L. 110–246, § 10203(a), struck out “of longer than 60 days” after “or a review”.
+2008—Subsec. (e). Pub. L. 110–246, § 10203(a), struck out “of longer than 60 days” after “or a review”.
 
 2002—Subsec. (e). Pub. L. 107–171 inserted before period at end “or a review of longer than 60 days by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary”.
 
@@ -591,7 +591,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7716. Recovery of compensation for unauthorized activities
+### § 7716. Recovery of compensation for unauthorized activities
 
 **(a) Recovery action**
 
@@ -601,7 +601,7 @@ The owner of any plant, plant biological control organism, plant product, plant 
 
 An action under this section shall be brought not later than 1 year after the destruction or disposal of the plant, plant biological control organism, plant product, plant pest, noxious weed, article, or means of conveyance involved. The action may be brought in any United States district court where the owner is found, resides, transacts business, is licensed to do business, or is incorporated.
 
-(Pub. L. 106–224, title IV, § 416, June 20, 2000, 114 Stat. 447.)
+(Pub. L. 106–224, title IV, § 416, June 20, 2000, 114 Stat. 447.)
 
 **Editorial Notes**
 
@@ -609,7 +609,7 @@ An action under this section shall be brought not later than 1 year after the de
 
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
-### § 7717. Control of grasshoppers and Mormon crickets
+### § 7717. Control of grasshoppers and Mormon crickets
 
 **(a) In general**
 
@@ -661,7 +661,7 @@ Out of funds made available under this section, the Secretary shall pay 33.3 per
 
 From appropriated funds made available or transferred by the Secretary of the Interior to the Secretary of Agriculture for such purposes, the Secretary of Agriculture shall provide adequate funding for a program to train personnel to accomplish effectively the objective of this section.
 
-(Pub. L. 106–224, title IV, § 417, June 20, 2000, 114 Stat. 447.)
+(Pub. L. 106–224, title IV, § 417, June 20, 2000, 114 Stat. 447.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -669,11 +669,11 @@ From appropriated funds made available or transferred by the Secretary of the In
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7718. Certification for exports
+### § 7718. Certification for exports
 
 The Secretary may certify as to the freedom of plants, plant products, or biological control organisms from plant pests or noxious weeds, or the exposure of plants, plant products, or biological control organisms to plant pests or noxious weeds, according to the phytosanitary or other requirements of the countries to which the plants, plant products, or biological control organisms may be exported.
 
-(Pub. L. 106–224, title IV, § 418, June 20, 2000, 114 Stat. 448.)
+(Pub. L. 106–224, title IV, § 418, June 20, 2000, 114 Stat. 448.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -681,7 +681,7 @@ The Secretary may certify as to the freedom of plants, plant products, or biolog
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7719. Methyl bromide
+### § 7719. Methyl bromide
 
 **(a) In general**
 
@@ -705,15 +705,15 @@ Upon the promulgation of regulations to carry out this section, the Secretary sh
 
 Nothing in this section shall be construed to alter or modify the authority of the Administrator of the Environmental Protection Agency or to provide any authority to the Secretary of Agriculture under the Clean Air Act [42 U.S.C. 7401 et seq.] or regulations promulgated under the Clean Air Act.
 
-(Pub. L. 106–224, title IV, § 419, as added Pub. L. 107–171, title VII, § 7504(c), May 13, 2002, 116 Stat. 466.)
+(Pub. L. 106–224, title IV, § 419, as added Pub. L. 107–171, title VII, § 7504(c), May 13, 2002, 116 Stat. 466.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Clean Air Act, referred to in subsec. (d)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (d)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-### § 7720. National plan for control and management of Sudden Oak Death
+### § 7720. National plan for control and management of Sudden Oak Death
 
 **(a) Development of national plan**
 
@@ -739,7 +739,7 @@ The Secretary shall complete the plan and commence implementation as soon as pra
 
 There is authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section.
 
-(Pub. L. 108–488, § 1, Dec. 23, 2004, 118 Stat. 3964.)
+(Pub. L. 108–488, § 1, Dec. 23, 2004, 118 Stat. 3964.)
 
 **Editorial Notes**
 
@@ -747,7 +747,7 @@ There is authorized to be appropriated to the Secretary such sums as may be nece
 
 Section was not enacted as part of the Plant Protection Act which comprises this chapter.
 
-### § 7721. Plant pest and disease management and disaster prevention
+### § 7721. Plant pest and disease management and disaster prevention
 
 **(a) Definitions** In this section:
 
@@ -927,7 +927,7 @@ Of the funds made available under subsection (f) to carry out this section for a
 
 **(2)** the indirect cost rate applicable to the recipient as otherwise established by law.
 
-(Pub. L. 106–224, title IV, § 420, as added Pub. L. 110–234, title X, § 10201(a), May 22, 2008, 122 Stat. 1339, and Pub. L. 110–246, § 4(a), title X, § 10201(a), June 18, 2008, 122 Stat. 1664, 2101; Pub. L. 113–79, title X, § 10007(a), (b), (d), Feb. 7, 2014, 128 Stat. 947, 948; Pub. L. 117–286, § 4(a)(40), Dec. 27, 2022, 136 Stat. 4309; Pub. L. 119–21, title I, § 10606(a), July 4, 2025, 139 Stat. 110.)
+(Pub. L. 106–224, title IV, § 420, as added Pub. L. 110–234, title X, § 10201(a), May 22, 2008, 122 Stat. 1339, and Pub. L. 110–246, § 4(a), title X, § 10201(a), June 18, 2008, 122 Stat. 1664, 2101; Pub. L. 113–79, title X, § 10007(a), (b), (d), Feb. 7, 2014, 128 Stat. 947, 948; Pub. L. 117–286, § 4(a)(40), Dec. 27, 2022, 136 Stat. 4309; Pub. L. 119–21, title I, § 10606(a), July 4, 2025, 139 Stat. 110.)
 
 **Editorial Notes**
 
@@ -945,11 +945,11 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 2022—Subsec. (b)(3). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-2014—Subsecs. (e), (f). Pub. L. 113–79, § 10007(a), added subsec. (e) and redesignated former subsec. (e) as (f).
+2014—Subsecs. (e), (f). Pub. L. 113–79, § 10007(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-Subsec. (f)(4) to (6). Pub. L. 113–79, § 10007(b), substituted semicolon at end for “and each fiscal year thereafter.” in par. (4), and added pars. (5) and (6).
+Subsec. (f)(4) to (6). Pub. L. 113–79, § 10007(b), substituted semicolon at end for “and each fiscal year thereafter.” in par. (4), and added pars. (5) and (6).
 
-Subsecs. (g), (h). Pub. L. 113–79, § 10007(d), added subsecs. (g) and (h).
+Subsecs. (g), (h). Pub. L. 113–79, § 10007(d), added subsecs. (g) and (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -959,7 +959,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ## SUBCHAPTER II—INSPECTION AND ENFORCEMENT
 
-### § 7731. Inspections, seizures, and warrants
+### § 7731. Inspections, seizures, and warrants
 
 **(a) Role of Attorney General**
 
@@ -981,13 +981,13 @@ The Secretary may enter, with a warrant, any premises in the United States for t
 
 **(2) Application and issuance of a warrant**
 
-Upon proper oath or affirmation showing probable cause to believe that there is on certain premises any plant, plant product, biological control organism, plant pest, noxious weed, article, facility, or means of conveyance regulated under this chapter, a United States judge, a judge of a court of record in the United States, or a United States magistrate judge may, within the judge’s or magistrate’s 1
+Upon proper oath or affirmation showing probable cause to believe that there is on certain premises any plant, plant product, biological control organism, plant pest, noxious weed, article, facility, or means of conveyance regulated under this chapter, a United States judge, a judge of a court of record in the United States, or a United States magistrate judge may, within the judge’s or magistrate’s 1
 
-<sup>1</sup>  So in original. Probably should be “magistrate judges’s”.
+<sup>1</sup> So in original. Probably should be “magistrate judges’s”.
 
 jurisdiction, issue a warrant for the entry upon the premises to conduct any investigation or make any inspection or seizure under this chapter. The warrant may be applied for and executed by the Secretary or any United States Marshal.
 
-(Pub. L. 106–224, title IV, § 421, June 20, 2000, 114 Stat. 448.)
+(Pub. L. 106–224, title IV, § 421, June 20, 2000, 114 Stat. 448.)
 
 **Editorial Notes**
 
@@ -1001,11 +1001,11 @@ This chapter, referred to in subsecs. (b)(1), (2) and (c), was in the original �
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7732. Collection of information
+### § 7732. Collection of information
 
 The Secretary may gather and compile information and conduct any investigations the Secretary considers necessary for the administration and enforcement of this chapter.
 
-(Pub. L. 106–224, title IV, § 422, June 20, 2000, 114 Stat. 449.)
+(Pub. L. 106–224, title IV, § 422, June 20, 2000, 114 Stat. 449.)
 
 **Editorial Notes**
 
@@ -1019,7 +1019,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7733. Subpoena authority
+### § 7733. Subpoena authority
 
 **(a) Authority to issue**
 
@@ -1041,7 +1041,7 @@ Witnesses summoned by the Secretary shall be paid the same fees and mileage that
 
 The Secretary shall publish procedures for the issuance of subpoenas under this section. Such procedures shall include a requirement that subpoenas be reviewed for legal sufficiency and signed by the Secretary. If the authority to sign a subpoena is delegated to an agency other than the Office of Administrative Law Judges, the agency receiving the delegation shall seek review for legal sufficiency outside that agency.
 
-(Pub. L. 106–224, title IV, § 423, June 20, 2000, 114 Stat. 449; Pub. L. 107–171, title X, § 10418(b)(2), May 13, 2002, 116 Stat. 508; Pub. L. 110–234, title X, § 10203(c), May 22, 2008, 122 Stat. 1343; Pub. L. 110–246, § 4(a), title X, § 10203(c), June 18, 2008, 122 Stat. 1664, 2104.)
+(Pub. L. 106–224, title IV, § 423, June 20, 2000, 114 Stat. 449; Pub. L. 107–171, title X, § 10418(b)(2), May 13, 2002, 116 Stat. 508; Pub. L. 110–234, title X, § 10203(c), May 22, 2008, 122 Stat. 1343; Pub. L. 110–246, § 4(a), title X, § 10203(c), June 18, 2008, 122 Stat. 1664, 2104.)
 
 **Editorial Notes**
 
@@ -1055,17 +1055,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–246, § 10203(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall have power to subpoena the attendance and testimony of any witness, and the production of all documentary evidence relating to the administration or enforcement of this chapter or any matter under investigation in connection with this chapter.”
+2008—Subsec. (a). Pub. L. 110–246, § 10203(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall have power to subpoena the attendance and testimony of any witness, and the production of all documentary evidence relating to the administration or enforcement of this chapter or any matter under investigation in connection with this chapter.”
 
-Subsec. (b). Pub. L. 110–246, § 10203(c)(2), struck out “documentary” before “evidence”.
+Subsec. (b). Pub. L. 110–246, § 10203(c)(2), struck out “documentary” before “evidence”.
 
-Subsec. (c). Pub. L. 110–246, § 10203(c)(3), in first sentence substituted “testimony of any witness, the production of evidence, or the inspection of premises” for “testimony of any witness and the production of documentary evidence” and in second sentence substituted “question, produce evidence, or permit the inspection of premises” for “question or to produce documentary evidence”.
+Subsec. (c). Pub. L. 110–246, § 10203(c)(3), in first sentence substituted “testimony of any witness, the production of evidence, or the inspection of premises” for “testimony of any witness and the production of documentary evidence” and in second sentence substituted “question, produce evidence, or permit the inspection of premises” for “question or to produce documentary evidence”.
 
-2002—Subsec. (b). Pub. L. 107–171, § 10418(b)(2)(A), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The attendance of any witness and production of documentary evidence may be required from any place in the United States at any designated place of hearing.”
+2002—Subsec. (b). Pub. L. 107–171, § 10418(b)(2)(A), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The attendance of any witness and production of documentary evidence may be required from any place in the United States at any designated place of hearing.”
 
-Subsec. (e). Pub. L. 107–171, § 10418(b)(2)(B), inserted “to an agency other than the Office of Administrative Law Judges” after “subpoena is delegated”.
+Subsec. (e). Pub. L. 107–171, § 10418(b)(2)(B), inserted “to an agency other than the Office of Administrative Law Judges” after “subpoena is delegated”.
 
-Subsec. (f). Pub. L. 107–171, § 10418(b)(2)(C), struck out heading and text of subsec. (f). Text read as follows: “Subpoenas for witnesses to attend court in any judicial district or to testify or produce evidence at an administrative hearing in any judicial district in any action or proceeding arising under this chapter may run to any other judicial district.”
+Subsec. (f). Pub. L. 107–171, § 10418(b)(2)(C), struck out heading and text of subsec. (f). Text read as follows: “Subpoenas for witnesses to attend court in any judicial district or to testify or produce evidence at an administrative hearing in any judicial district in any action or proceeding arising under this chapter may run to any other judicial district.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1077,7 +1077,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7734. Penalties for violation
+### § 7734. Penalties for violation
 
 **(a) Criminal penalties**
 
@@ -1131,7 +1131,7 @@ When construing and enforcing this chapter, the act, omission, or failure of any
 
 The Secretary shall coordinate with the Attorney General to establish guidelines to determine under what circumstances the Secretary may issue a civil penalty or suitable notice of warning in lieu of prosecution by the Attorney General of a violation of this chapter.
 
-(Pub. L. 106–224, title IV, § 424, June 20, 2000, 114 Stat. 450; Pub. L. 107–171, title X, § 10810, May 13, 2002, 116 Stat. 531; Pub. L. 110–234, title X, § 10203(d), May 22, 2008, 122 Stat. 1343; Pub. L. 110–246, § 4(a), title X, § 10203(d), June 18, 2008, 122 Stat. 1664, 2105.)
+(Pub. L. 106–224, title IV, § 424, June 20, 2000, 114 Stat. 450; Pub. L. 107–171, title X, § 10810, May 13, 2002, 116 Stat. 531; Pub. L. 110–234, title X, § 10203(d), May 22, 2008, 122 Stat. 1343; Pub. L. 110–246, § 4(a), title X, § 10203(d), June 18, 2008, 122 Stat. 1664, 2105.)
 
 **Editorial Notes**
 
@@ -1145,7 +1145,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (b)(1)(A). Pub. L. 110–246, § 10203(d), substituted “$500,000 for all violations adjudicated in a single proceeding if the violations do not include a willful violation, and $1,000,000 for all violations adjudicated in a single proceeding if the violations include a willful violation” for “and $500,000 for all violations adjudicated in a single proceeding”.
+2008—Subsec. (b)(1)(A). Pub. L. 110–246, § 10203(d), substituted “$500,000 for all violations adjudicated in a single proceeding if the violations do not include a willful violation, and $1,000,000 for all violations adjudicated in a single proceeding if the violations include a willful violation” for “and $500,000 for all violations adjudicated in a single proceeding”.
 
 2002—Subsec. (a). Pub. L. 107–171 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Any person that knowingly violates this chapter, or that knowingly forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided for in this chapter shall be guilty of a misdemeanor, and, upon conviction, shall be fined in accordance with title 18, imprisoned for a period not exceeding 1 year, or both.”
 
@@ -1159,7 +1159,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7735. Enforcement actions of Attorney General
+### § 7735. Enforcement actions of Attorney General
 
 The Attorney General may—
 
@@ -1169,7 +1169,7 @@ The Attorney General may—
 
 **(3)** bring an action for the recovery of any unpaid civil penalty, funds under reimbursable agreements, late payment penalty, or interest assessed under this chapter.
 
-(Pub. L. 106–224, title IV, § 425, June 20, 2000, 114 Stat. 451.)
+(Pub. L. 106–224, title IV, § 425, June 20, 2000, 114 Stat. 451.)
 
 **Editorial Notes**
 
@@ -1183,7 +1183,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7736. Court jurisdiction
+### § 7736. Court jurisdiction
 
 **(a) In general**
 
@@ -1193,7 +1193,7 @@ The United States district courts, the District Court of Guam, the District Cour
 
 This section does not apply to the imposition of civil penalties under section 7734(b) of this title.
 
-(Pub. L. 106–224, title IV, § 426, June 20, 2000, 114 Stat. 451.)
+(Pub. L. 106–224, title IV, § 426, June 20, 2000, 114 Stat. 451.)
 
 **Editorial Notes**
 
@@ -1203,7 +1203,7 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 ## SUBCHAPTER III—MISCELLANEOUS PROVISIONS
 
-### § 7751. Cooperation
+### § 7751. Cooperation
 
 **(a) In general**
 
@@ -1253,7 +1253,7 @@ A State may provide to a unit of local government in the State described in para
 
 **(ii)** the State department of agriculture that has jurisdiction over the unit of local government.
 
-(Pub. L. 106–224, title IV, § 431, June 20, 2000, 114 Stat. 451; Pub. L. 110–234, title X, § 10206, May 22, 2008, 122 Stat. 1346; Pub. L. 110–246, § 4(a), title X, § 10206, June 18, 2008, 122 Stat. 1664, 2107.)
+(Pub. L. 106–224, title IV, § 431, June 20, 2000, 114 Stat. 451; Pub. L. 110–234, title X, § 10206, May 22, 2008, 122 Stat. 1346; Pub. L. 110–246, § 4(a), title X, § 10206, June 18, 2008, 122 Stat. 1664, 2107.)
 
 **Editorial Notes**
 
@@ -1269,7 +1269,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (f). Pub. L. 110–246, § 10206, added subsec. (f).
+2008—Subsec. (f). Pub. L. 110–246, § 10206, added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1281,7 +1281,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7752. Buildings, land, people, claims, and agreements
+### § 7752. Buildings, land, people, claims, and agreements
 
 **(a) In general**
 
@@ -1297,7 +1297,7 @@ Except as provided in paragraph (2), the Secretary may pay tort claims in the ma
 
 A claim may not be allowed under this subsection unless the claim is presented in writing to the Secretary within 2 years after the date on which the claim accrues.
 
-(Pub. L. 106–224, title IV, § 432, June 20, 2000, 114 Stat. 452.)
+(Pub. L. 106–224, title IV, § 432, June 20, 2000, 114 Stat. 452.)
 
 **Editorial Notes**
 
@@ -1311,7 +1311,7 @@ This chapter, referred to in subsecs. (a) and (b)(1), was in the original “thi
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7753. Reimbursable agreements
+### § 7753. Reimbursable agreements
 
 **(a) Authority to enter into agreements**
 
@@ -1347,7 +1347,7 @@ Upon failure to reimburse the Secretary in accordance with this section, the Sec
 
 Any late payment penalty and any accrued interest shall be credited to the account that incurs the costs and shall remain available until expended without fiscal year limitation.
 
-(Pub. L. 106–224, title IV, § 433, June 20, 2000, 114 Stat. 452.)
+(Pub. L. 106–224, title IV, § 433, June 20, 2000, 114 Stat. 452.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1355,11 +1355,11 @@ Any late payment penalty and any accrued interest shall be credited to the accou
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7754. Regulations and orders
+### § 7754. Regulations and orders
 
 The Secretary may issue such regulations and orders as the Secretary considers necessary to carry out this chapter.
 
-(Pub. L. 106–224, title IV, § 434, June 20, 2000, 114 Stat. 453.)
+(Pub. L. 106–224, title IV, § 434, June 20, 2000, 114 Stat. 453.)
 
 **Editorial Notes**
 
@@ -1373,11 +1373,11 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7755. Protection for mail handlers
+### § 7755. Protection for mail handlers
 
 This chapter shall not apply to any employee of the United States in the performance of the duties of the employee in handling the mail.
 
-(Pub. L. 106–224, title IV, § 435, June 20, 2000, 114 Stat. 453.)
+(Pub. L. 106–224, title IV, § 435, June 20, 2000, 114 Stat. 453.)
 
 **Editorial Notes**
 
@@ -1385,7 +1385,7 @@ This chapter shall not apply to any employee of the United States in the perform
 
 This chapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
-### § 7756. Preemption
+### § 7756. Preemption
 
 **(a) Regulation of foreign commerce** No State or political subdivision of a State may regulate in foreign commerce any article, means of conveyance, plant, biological control organism, plant pest, noxious weed, or plant product in order—
 
@@ -1411,7 +1411,7 @@ A State or a political subdivision of a State may impose prohibitions or restric
 
 A State or political subdivision of a State may impose prohibitions or restrictions upon the movement in interstate commerce of articles, means of conveyance, plants, plant products, biological control organisms, plant pests, or noxious weeds that are in addition to the prohibitions or restrictions imposed by the Secretary, if the State or political subdivision of a State demonstrates to the Secretary and the Secretary finds that there is a special need for additional prohibitions or restrictions based on sound scientific data or a thorough risk assessment.
 
-(Pub. L. 106–224, title IV, § 436, June 20, 2000, 114 Stat. 453.)
+(Pub. L. 106–224, title IV, § 436, June 20, 2000, 114 Stat. 453.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1419,11 +1419,11 @@ A State or political subdivision of a State may impose prohibitions or restricti
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7757. Severability
+### § 7757. Severability
 
 If any provision of this chapter or application of any provision of this chapter to any person or circumstances is held invalid, the remainder of this chapter and the application of the provision to other persons and circumstances shall not be affected by the invalidity.
 
-(Pub. L. 106–224, title IV, § 437, June 20, 2000, 114 Stat. 454.)
+(Pub. L. 106–224, title IV, § 437, June 20, 2000, 114 Stat. 454.)
 
 **Editorial Notes**
 
@@ -1431,19 +1431,19 @@ If any provision of this chapter or application of any provision of this chapter
 
 This chapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
-### § 7758. Repeal of superseded laws
+### § 7758. Repeal of superseded laws
 
 **(a) , (b) Omitted**
 
 **(c) Effect on regulations**
 
-Regulations issued under the authority of a provision of law repealed by subsection (a) 1
+Regulations issued under the authority of a provision of law repealed by subsection (a) 1
 
-<sup>1</sup>  See Codification note below.
+<sup>1</sup> See Codification note below.
 
 shall remain in effect until such time as the Secretary issues a regulation under section 7754 of this title that supersedes the earlier regulation.
 
-(Pub. L. 106–224, title IV, § 438, June 20, 2000, 114 Stat. 454.)
+(Pub. L. 106–224, title IV, § 438, June 20, 2000, 114 Stat. 454.)
 
 **Editorial Notes**
 
@@ -1457,9 +1457,9 @@ Section is comprised of section 438 of Pub. L. 106–224. Subsec. (a) of section
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7759. Fees for inspection of plants for exporting or transiting
+### § 7759. Fees for inspection of plants for exporting or transiting
 
-**(a) to (e) Repealed. Pub. L. 106–224, title IV, § 438(a)(3), June 20, 2000, 114 Stat. 454**
+**(a) to (e) Repealed. Pub. L. 106–224, title IV, § 438(a)(3), June 20, 2000, 114 Stat. 454**
 
 **(f) Authorization of appropriations; fees, late payment penalties, and accrued interest**
 
@@ -1467,7 +1467,7 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 
 **(2)** The Secretary of Agriculture is authorized to prescribe and collect fees to recover the costs of providing for the inspection of plants and plant products offered for export or transiting the United States and certifying to shippers and interested parties as to the freedom of such plants and plant products from plant pests according to the phytosanitary requirements of the foreign countries to which such plants and plant products may be exported, or to the freedom from exposure to plant pests while in transit through the United States. Any person for whom such an activity is performed shall be liable for payment of fees assessed. Upon failure to pay such fees when due, the Secretary of Agriculture shall assess a late payment penalty, and such overdue fees shall accrue interest, as required by section 3717 of title 31. All fees, late payment penalties, and accrued interest collected shall be credited to such accounts that incur the costs and shall remain available until expended without fiscal year limitation. The Secretary of Agriculture shall have a lien for the fees, any late payment penalty, and any accrued interest assessed against the plant or plant product for which services have been provided. In the case of any person who fails to make payment when due, the Secretary of Agriculture shall also have a lien against any plant or plant product thereafter attempted to be exported by such person. The Secretary of Agriculture may, in case of nonpayment of the fees, late payment penalty, or accrued interest, after giving reasonable notice of default to the person liable for payment of such assessments, sell at public sale after reasonable public notice, or otherwise dispose of, any such plant or plant product upon which the Secretary of Agriculture has a lien pursuant to this section. If the sale proceeds exceed the fees due, any late payment penalty assessed, any accrued interest and the expenses of the sale, the excess shall be paid, in accordance with regulations of the Secretary of Agriculture, to the owner of the plant or plant product sold upon the owner making application therefore with proof of ownership, within six months after such sale, and otherwise the excess shall be credited to accounts that incur the costs and shall remain available until expended. The Secretary of Agriculture shall, pursuant to regulations as prescribed by the Secretary of Agriculture, suspend performance of services to persons who have failed to pay such fees, late payment penalty and accrued interest.
 
-(Sept. 21, 1944, ch. 412, title I, § 102, 58 Stat. 735; June 17, 1949, ch. 220, 63 Stat. 200; Pub. L. 85–36, title II, § 201, May 23, 1957, 71 Stat. 35; Pub. L. 94–231, § 1, Mar. 15, 1976, 90 Stat. 215; Pub. L. 101–624, title XXV, §§ 2504, 2509(b), Nov. 28, 1990, 104 Stat. 4068, 4070; Pub. L. 106–224, title IV, § 438(a)(3), June 20, 2000, 114 Stat. 454.)
+(Sept. 21, 1944, ch. 412, title I, § 102, 58 Stat. 735; June 17, 1949, ch. 220, 63 Stat. 200; Pub. L. 85–36, title II, § 201, May 23, 1957, 71 Stat. 35; Pub. L. 94–231, § 1, Mar. 15, 1976, 90 Stat. 215; Pub. L. 101–624, title XXV, §§ 2504, 2509(b), Nov. 28, 1990, 104 Stat. 4068, 4070; Pub. L. 106–224, title IV, § 438(a)(3), June 20, 2000, 114 Stat. 454.)
 
 **Editorial Notes**
 
@@ -1481,9 +1481,9 @@ Section was not enacted as part of the Plant Protection Act which comprises this
 
 2000—Subsecs. (a) to (e). Pub. L. 106–224 struck out subsecs. (a) to (e), which authorized measures for control and eradication of plant pests, set forth provisions relating to intergovernmental cooperation and responsibility of cooperating foreign agencies, defined terms as used in this section, and authorized rules and regulations to provide for inspection and certification of plants and plant products offered for export or transiting the United States.
 
-1990—Subsec. (b). Pub. L. 101–624, § 2504, substituted “foreign countries” for “all countries of the Western Hemisphere” and inserted “foreign or” before “international”.
+1990—Subsec. (b). Pub. L. 101–624, § 2504, substituted “foreign countries” for “all countries of the Western Hemisphere” and inserted “foreign or” before “international”.
 
-Subsec. (f). Pub. L. 101–624, § 2509(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “There are hereby authorized to be appropriated such sums as the Congress may annually determine to be necessary to enable the Secretary of Agriculture to carry out the provisions of this section. Unless otherwise specifically authorized, or provided for in appropriations, no part of such sums shall be used to pay the cost or value of property injured or destroyed.”
+Subsec. (f). Pub. L. 101–624, § 2509(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “There are hereby authorized to be appropriated such sums as the Congress may annually determine to be necessary to enable the Secretary of Agriculture to carry out the provisions of this section. Unless otherwise specifically authorized, or provided for in appropriations, no part of such sums shall be used to pay the cost or value of property injured or destroyed.”
 
 1976—Subsecs. (a) to (d). Pub. L. 94–231 redesignated existing provisions of subsec. (a) as subsecs. (a) to (d) and broadened Secretary’s authority to control and eradicate plant pests and animal diseases, extended Secretary’s authority to cooperate with foreign governments, and inserted definitions for “plant pest” and “living stage”. Former subsecs. (b) and (c) redesignated (e) and (f), respectively.
 
@@ -1495,11 +1495,11 @@ Subsec. (f). Pub. L. 94–231 redesignated subsec. (c) as (f) and substituted pr
 
 1949—Subsec. (a). Act June 17, 1949, authorized the Secretary to carry out operations to combat the citrus blackfly, white-fringed beetle, and the Hall scale.
 
-### § 7760. State terminal inspection; transmission of mailed packages for State inspection; nonmailable matter; punishment for violations; rules and regulations by United States Postal Service
+### § 7760. State terminal inspection; transmission of mailed packages for State inspection; nonmailable matter; punishment for violations; rules and regulations by United States Postal Service
 
-When any State shall provide for terminal inspection of plants and plant products, and shall establish and maintain, at the sole expense of the State, such inspection at one or more places therein, the proper officials of said State may submit to the Secretary of Agriculture a list of plants and plant products and the plant pests transmitted thereby, that in the opinion of said officials should be subject to terminal inspection in order to prevent the introduction or dissemination in said State of pests injurious to agriculture. Upon his approval of said list, in whole or in part, the Secretary of Agriculture shall transmit the same to the United States Postal Service, and thereafter all packages containing any plants or plant products named in said approved lists shall, upon payment of postage therefor, be forwarded by the postmaster at the destination of said package to the proper State official at the nearest place where inspection is maintained. If the plants or plant products (including seed) are found upon inspection to be free from injurious pests and not in violation of a plant-quarantine law or plant-quarantine regulation of the United States Department of Agriculture or of the State of destination pertaining to such injurious pests, or if infected shall be disinfected by said official, they shall upon payment of postage therefor be returned to the postmaster at the place of inspection to be forward 1
+When any State shall provide for terminal inspection of plants and plant products, and shall establish and maintain, at the sole expense of the State, such inspection at one or more places therein, the proper officials of said State may submit to the Secretary of Agriculture a list of plants and plant products and the plant pests transmitted thereby, that in the opinion of said officials should be subject to terminal inspection in order to prevent the introduction or dissemination in said State of pests injurious to agriculture. Upon his approval of said list, in whole or in part, the Secretary of Agriculture shall transmit the same to the United States Postal Service, and thereafter all packages containing any plants or plant products named in said approved lists shall, upon payment of postage therefor, be forwarded by the postmaster at the destination of said package to the proper State official at the nearest place where inspection is maintained. If the plants or plant products (including seed) are found upon inspection to be free from injurious pests and not in violation of a plant-quarantine law or plant-quarantine regulation of the United States Department of Agriculture or of the State of destination pertaining to such injurious pests, or if infected shall be disinfected by said official, they shall upon payment of postage therefor be returned to the postmaster at the place of inspection to be forward 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 to the person to whom they are addressed; but if found to be infected with injurious pests and incapable of satisfactory disinfection or in violation of a plant-quarantine law or plant-quarantine regulation of the United States Department of Agriculture or of the State of destination pertaining to such injurious pests, the State inspector shall so notify the postmaster at the place of inspection who shall promptly notify the sender of said plants or plant products that they will be returned to him upon his request and at his expense, or in default of such request that they will be turned over to the State authorities for destruction.
 
@@ -1507,7 +1507,7 @@ It shall be unlawful for any person, firm, or corporation to deposit in the Unit
 
 The United States Postal Service is authorized and directed to make all needful rules and regulations for carrying out the purposes hereof.
 
-(Mar. 4, 1915, ch. 144, 38 Stat. 1113; June 4, 1936, ch. 495, 49 Stat. 1461; Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773.)
+(Mar. 4, 1915, ch. 144, 38 Stat. 1113; June 4, 1936, ch. 495, 49 Stat. 1461; Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773.)
 
 **Editorial Notes**
 
@@ -1529,21 +1529,21 @@ This section is popularly known as the “Terminal Inspection Act.”
 
 **Transfer of Functions**
 
-In first and third pars., “United States Postal Service” substituted for “Postmaster General” pursuant to Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
+In first and third pars., “United States Postal Service” substituted for “Postmaster General” pursuant to Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-### § 7761. Repealed. Pub. L. 113–79, title X, § 10007(c), Feb. 7, 2014, 128 Stat. 947
+### § 7761. Repealed. Pub. L. 113–79, title X, § 10007(c), Feb. 7, 2014, 128 Stat. 947
 
-Section, Pub. L. 110–234, title X, § 10202, May 22, 2008, 122 Stat. 1342; Pub. L. 110–246, § 4(a), title X, § 10202, June 18, 2008, 122 Stat. 1664, 2104; Pub. L. 112–240, title VII, § 701(g)(2), Jan. 2, 2013, 126 Stat. 2366, related to the National Clean Plant Network. See section 7721(e) of this title.
+Section, Pub. L. 110–234, title X, § 10202, May 22, 2008, 122 Stat. 1342; Pub. L. 110–246, § 4(a), title X, § 10202, June 18, 2008, 122 Stat. 1664, 2104; Pub. L. 112–240, title VII, § 701(g)(2), Jan. 2, 2013, 126 Stat. 2366, related to the National Clean Plant Network. See section 7721(e) of this title.
 
 ## SUBCHAPTER IV—AUTHORIZATION OF APPROPRIATIONS
 
-### § 7771. Authorization of appropriations
+### § 7771. Authorization of appropriations
 
 There are authorized to be appropriated such amounts as may be necessary to carry out this chapter. Except as specifically authorized by law, no part of the money appropriated under this section shall be used to pay indemnities for property injured or destroyed by or at the direction of the Secretary.
 
-(Pub. L. 106–224, title IV, § 441, June 20, 2000, 114 Stat. 455.)
+(Pub. L. 106–224, title IV, § 441, June 20, 2000, 114 Stat. 455.)
 
 **Editorial Notes**
 
@@ -1557,7 +1557,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 7772. Transfer authority
+### § 7772. Transfer authority
 
 **(a) Authority to transfer certain funds**
 
@@ -1571,7 +1571,7 @@ Any funds transferred under this section shall remain available for such purpose
 
 The action of any officer, employee, or agent of the Secretary in carrying out this Act, including determining the amount of and making any payment authorized to be made under this chapter, shall not be subject to a review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
 
-(Pub. L. 106–224, title IV, § 442, June 20, 2000, 114 Stat. 455; Pub. L. 107–171, title VII, § 7504(b), May 13, 2002, 116 Stat. 466; Pub. L. 110–234, title X, § 10203(b), May 22, 2008, 122 Stat. 1342; Pub. L. 110–246, § 4(a), title X, § 10203(b), June 18, 2008, 122 Stat. 1664, 2104.)
+(Pub. L. 106–224, title IV, § 442, June 20, 2000, 114 Stat. 455; Pub. L. 107–171, title VII, § 7504(b), May 13, 2002, 116 Stat. 466; Pub. L. 110–234, title X, § 10203(b), May 22, 2008, 122 Stat. 1342; Pub. L. 110–246, § 4(a), title X, § 10203(b), June 18, 2008, 122 Stat. 1664, 2104.)
 
 **Editorial Notes**
 
@@ -1585,11 +1585,11 @@ This chapter, referred to in subsec. (c), was in the original “this title”, 
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
-Similar provisions relating to authority to transfer funds for emergency arrest of animal, poultry, or plant diseases or pests were contained in section 129 of Title 21, Food and Drugs, prior to its omission from the Code, and similar provisions relating to authority to transfer funds for emergency arrest of animal or poultry diseases were contained in section 129a of Title 21, prior to repeal by Pub. L. 107–171, title X, § 10418(a)(1), May 13, 2002, 116 Stat. 507.
+Similar provisions relating to authority to transfer funds for emergency arrest of animal, poultry, or plant diseases or pests were contained in section 129 of Title 21, Food and Drugs, prior to its omission from the Code, and similar provisions relating to authority to transfer funds for emergency arrest of animal or poultry diseases were contained in section 129a of Title 21, prior to repeal by Pub. L. 107–171, title X, § 10418(a)(1), May 13, 2002, 116 Stat. 507.
 
 **Amendments**
 
-2008—Subsec. (c). Pub. L. 110–246, § 10203(b), struck out “of longer than 60 days” after “review”.
+2008—Subsec. (c). Pub. L. 110–246, § 10203(b), struck out “of longer than 60 days” after “review”.
 
 2002—Subsec. (c). Pub. L. 107–171 added subsec. (c).
 
@@ -1605,7 +1605,7 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 
 ## SUBCHAPTER V—NOXIOUS WEED CONTROL AND ERADICATION
 
-### § 7781. Definitions
+### § 7781. Definitions
 
 In this subchapter:
 
@@ -1629,7 +1629,7 @@ The term “Indian Tribe” has the meaning given that term in section 5304 of t
 
 The term “Federal lands” means those lands owned and managed by the United States Forest Service or the Bureau of Land Management.
 
-(Pub. L. 106–224, title IV, § 452, as added Pub. L. 108–412, § 1, Oct. 30, 2004, 118 Stat. 2320.)
+(Pub. L. 106–224, title IV, § 452, as added Pub. L. 108–412, § 1, Oct. 30, 2004, 118 Stat. 2320.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1801,7 +1801,7 @@ Pub. L. 109–320, Oct. 11, 2006, 120 Stat. 1748, provided that:
 
 > **“(l) Termination of Authority.—** This Act and the authority provided by this Act terminate on the date that is 5 years after the date of the enactment of this Act [Oct. 11, 2006].”
 
-### § 7782. Establishment of program
+### § 7782. Establishment of program
 
 **(a) In general**
 
@@ -1815,9 +1815,9 @@ Subject to the availability of appropriations under section 7786(a) of this titl
 
 Subject to the availability of appropriations under section 7786(b) of this title, the Secretary shall enter into agreements under section 7784 of this title with weed management entities to provide financial and technical assistance for the control or eradication of noxious weeds.
 
-(Pub. L. 106–224, title IV, § 453, as added Pub. L. 108–412, § 1, Oct. 30, 2004, 118 Stat. 2321.)
+(Pub. L. 106–224, title IV, § 453, as added Pub. L. 108–412, § 1, Oct. 30, 2004, 118 Stat. 2321.)
 
-### § 7783. Grants to weed management entities
+### § 7783. Grants to weed management entities
 
 **(a) Consultation and consent** In carrying out a grant under this subchapter, the weed management entity and the Secretary shall—
 
@@ -1891,9 +1891,9 @@ To be eligible to receive assistance under this section, a weed management entit
 
 The Secretary shall give special consideration to States with approved weed management entities established by Indian Tribes and may provide an additional allocation to a State to meet the particular needs and projects that the weed management entity plans to address.
 
-(Pub. L. 106–224, title IV, § 454, as added Pub. L. 108–412, § 1, Oct. 30, 2004, 118 Stat. 2321.)
+(Pub. L. 106–224, title IV, § 454, as added Pub. L. 108–412, § 1, Oct. 30, 2004, 118 Stat. 2321.)
 
-### § 7784. Agreements
+### § 7784. Agreements
 
 **(a) Consultation and consent** In carrying out an agreement under this section, the Secretary shall—
 
@@ -1947,21 +1947,21 @@ The Secretary may enter into agreements under this section with weed management 
 
 **(C)** minimizes adverse impacts to the structure and function of an ecosystem and adverse effects on nontarget species and ecosystems.
 
-(Pub. L. 106–224, title IV, § 455, as added Pub. L. 108–412, § 1, Oct. 30, 2004, 118 Stat. 2322.)
+(Pub. L. 106–224, title IV, § 455, as added Pub. L. 108–412, § 1, Oct. 30, 2004, 118 Stat. 2322.)
 
-### § 7785. Relationship to other programs
+### § 7785. Relationship to other programs
 
 Funds under this Act (other than those made available for section 7784(f) of this title) are intended to supplement, not replace, assistance available to weed management entities, areas, and districts for control or eradication of noxious weeds on Federal lands and non-Federal lands. The provision of funds to a weed management entity under this Act (other than those made available for section 7784(f) of this title) shall have no effect on the amount of any payment received by a county from the Federal Government under chapter 69 of title 31.
 
-(Pub. L. 106–224, title IV, § 456, as added Pub. L. 108–412, § 1, Oct. 30, 2004, 118 Stat. 2324.)
+(Pub. L. 106–224, title IV, § 456, as added Pub. L. 108–412, § 1, Oct. 30, 2004, 118 Stat. 2324.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, probably means the Noxious Weed Control and Eradication Act of 2004, subtitle E (§§ 451–457) of title IV of Pub. L. 106–224, as added by Pub. L. 108–412, § 1, Oct. 30, 2004, 118 Stat. 2320, which enacted this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+This Act, referred to in text, probably means the Noxious Weed Control and Eradication Act of 2004, subtitle E (§§ 451–457) of title IV of Pub. L. 106–224, as added by Pub. L. 108–412, § 1, Oct. 30, 2004, 118 Stat. 2320, which enacted this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
-### § 7786. Authorization of appropriations
+### § 7786. Authorization of appropriations
 
 **(a) Grants**
 
@@ -1971,4 +1971,4 @@ To carry out section 7783 of this title, there are authorized to be appropriated
 
 To carry out section 7784 of this title, there are authorized to be appropriated to the Secretary $7,500,000 for each of fiscal years 2005 through 2009, of which not more than 5 percent of the funds made available for a fiscal year may be used by the Secretary for administrative costs of Federal agencies.
 
-(Pub. L. 106–224, title IV, § 457, as added Pub. L. 108–412, § 1, Oct. 30, 2004, 118 Stat. 2324.)
+(Pub. L. 106–224, title IV, § 457, as added Pub. L. 108–412, § 1, Oct. 30, 2004, 118 Stat. 2324.)

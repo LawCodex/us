@@ -23,57 +23,57 @@ A prior chapter 843, consisting of sections 8531 to 8549, related to Air Force s
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 573 of this title as this chapter and items 6371, 6383, 6389, 6404, and 6408 as 8371, 8372, 8373, 8374, and 8375, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 573 of this title as this chapter and items 6371, 6383, 6389, 6404, and 6408 as 8371, 8372, 8373, 8374, and 8375, respectively.
 
-2006—Pub. L. 109–163, div. A, title V, § 515(b)(4)(C), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for ‘Naval Reserve” in item 6389.
+2006—Pub. L. 109–163, div. A, title V, § 515(b)(4)(C), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for ‘Naval Reserve” in item 6389.
 
-2004—Pub. L. 108–375, div. A, title V, § 541(c)(2)(B), Oct. 28, 2004, 118 Stat. 1904, inserted “; waiver authority” after “Academy” in item 6371.
+2004—Pub. L. 108–375, div. A, title V, § 541(c)(2)(B), Oct. 28, 2004, 118 Stat. 1904, inserted “; waiver authority” after “Academy” in item 6371.
 
-1999—Pub. L. 106–65, div. A, title V, § 532(a)(4)(C), Oct. 5, 1999, 113 Stat. 604, added item 6371.
+1999—Pub. L. 106–65, div. A, title V, § 532(a)(4)(C), Oct. 5, 1999, 113 Stat. 604, added item 6371.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1673(b)(4), Oct. 5, 1994, 108 Stat. 3016, struck out items 6391 “Naval Reserve and Marine Corps Reserve; officers: retirement at age 62”, 6392 “Retention in active status of certain officers”, 6397 “Naval Reserves; officers in the Nurse Corps: elimination from active status”, 6403 “Naval Reserve and Marine Corps Reserve; women officers: elimination from active status”, and 6410 “Naval Reserve and Marine Corps Reserve; officers: elimination from active status to provide a flow of promotion”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1673(b)(4), Oct. 5, 1994, 108 Stat. 3016, struck out items 6391 “Naval Reserve and Marine Corps Reserve; officers: retirement at age 62”, 6392 “Retention in active status of certain officers”, 6397 “Naval Reserves; officers in the Nurse Corps: elimination from active status”, 6403 “Naval Reserve and Marine Corps Reserve; women officers: elimination from active status”, and 6410 “Naval Reserve and Marine Corps Reserve; officers: elimination from active status to provide a flow of promotion”.
 
-1987—Pub. L. 100–180, div. A, title VII, § 717(b)(2), Dec. 4, 1987, 101 Stat. 1114, added item 6392.
+1987—Pub. L. 100–180, div. A, title VII, § 717(b)(2), Dec. 4, 1987, 101 Stat. 1114, added item 6392.
 
-1980—Pub. L. 96–513, title V, § 503(48), Dec. 12, 1980, 94 Stat. 2915, struck out items 6371 “Regular Navy; line rear admirals not restricted in performance of duty; continuation on active list; retirement”, 6372 “Regular Navy; line rear admirals restricted in performance of duty and staff corps rear admirals: retention on active list; retirement”, 6373 “Regular Marine Corps; major generals: retention on active list; retirement”, 6374 “Regular Marine Corps: brigadier generals: retirement for failures of selection for promotion”, 6376 “Regular Navy, line captains not restricted in performance of duty; Regular Marine Corps, colonels: retirement for length of service”, 6377 “Regular Navy, line captains restricted in performance of duty, staff corps captains, and Nurse Corps commanders; Regular Marine Corps, colonels designated for supply duty; retirement for length of service”, 6378 “Regular Navy, line captains restricted in performance of duty, staff corps captains, and Nurse Corps commanders: continuation on active list; retirement”, 6379 “Regular Navy, commanders; Regular Marine Corps. lieutenant colonels: retirement for length of service and failures of selection for promotion”, 6380 “Regular Navy, lieutenant commanders; Regular Marine Corps, majors: retirement for length of service and failures of selection for promotion”, 6381 “Officers retired under preceding sections; retired grade and pay; general rule”, and 6382 “Regular Navy, lieutenants and lieutenants (junior grade); Regular Marine Corps, captains and first lieutenants: discharge for failures of selection for promotion; severance pay”, substituted “retired pay” for “retired or severance pay” in item 6383, struck out items 6384 “Regular Navy and Regular Marine Corps; officers having less than 20 years of service: discharge for unsatisfactory performance of duty; severance pay; reversion of limited duty officers to prior status”, 6385 “Officers appointed under sections 5231, 5232, 5787, or 5787d of this title; grade for purpose of preceding sections”, 6386 “Suspension: preceding sections”, 6387 “Regular Navy, male line officers: Regular Marine Corps, male officers: computation of total commissioned service”, 6388 “Regular Navy; certain staff corps officers: computation of total commissioned service”, 6390 “Regular Navy and Regular Marine Corps; officers: retirement at age 62”, 6392 “Regular Navy and Regular Marine Corps, officers having less than three years of service: revocation of appointments; reversion of certain officers to prior status”, 6393 “Regular Navy and Regular Marine Corps; women officers: termination of appointments”, 6394 “Regular Navy, rear admirals and commodores; Regular Marine Corps, major generals and brigadier generals: retirement on recommendation of board”, 6395 “Regular Navy and Regular Marine Corps; officers having less than 20 years of service: discharge during war or emergency for unsatisfactory performance of duty”, 6396 “Regular Navy; officers in Nurse Corps in grades below commander: retirement or discharge”, 6398 “Regular Navy; women captains and commanders; Regular Marine Corps; women colonels and lieutenant colonels: retirement for length of service: retired grade and pay”, 6400 “Regular Navy, women lieutenant commanders; Regular Marine Corps, women majors: retirement for length of service; retired grade and pay”, 6401 “Regular Navy, women lieutenants; Regular Marine Corps, women captains: discharge for length of service; severance pay”, and 6402 “Regular Navy, women lieutenants (junior grade); Regular Marine Corps, women first lieutenants: discharge for length of service; severance pay”, substituted “separation pay” for “severance pay” in item 6404, and struck out item 6407 “Communication with selection board”.
+1980—Pub. L. 96–513, title V, § 503(48), Dec. 12, 1980, 94 Stat. 2915, struck out items 6371 “Regular Navy; line rear admirals not restricted in performance of duty; continuation on active list; retirement”, 6372 “Regular Navy; line rear admirals restricted in performance of duty and staff corps rear admirals: retention on active list; retirement”, 6373 “Regular Marine Corps; major generals: retention on active list; retirement”, 6374 “Regular Marine Corps: brigadier generals: retirement for failures of selection for promotion”, 6376 “Regular Navy, line captains not restricted in performance of duty; Regular Marine Corps, colonels: retirement for length of service”, 6377 “Regular Navy, line captains restricted in performance of duty, staff corps captains, and Nurse Corps commanders; Regular Marine Corps, colonels designated for supply duty; retirement for length of service”, 6378 “Regular Navy, line captains restricted in performance of duty, staff corps captains, and Nurse Corps commanders: continuation on active list; retirement”, 6379 “Regular Navy, commanders; Regular Marine Corps. lieutenant colonels: retirement for length of service and failures of selection for promotion”, 6380 “Regular Navy, lieutenant commanders; Regular Marine Corps, majors: retirement for length of service and failures of selection for promotion”, 6381 “Officers retired under preceding sections; retired grade and pay; general rule”, and 6382 “Regular Navy, lieutenants and lieutenants (junior grade); Regular Marine Corps, captains and first lieutenants: discharge for failures of selection for promotion; severance pay”, substituted “retired pay” for “retired or severance pay” in item 6383, struck out items 6384 “Regular Navy and Regular Marine Corps; officers having less than 20 years of service: discharge for unsatisfactory performance of duty; severance pay; reversion of limited duty officers to prior status”, 6385 “Officers appointed under sections 5231, 5232, 5787, or 5787d of this title; grade for purpose of preceding sections”, 6386 “Suspension: preceding sections”, 6387 “Regular Navy, male line officers: Regular Marine Corps, male officers: computation of total commissioned service”, 6388 “Regular Navy; certain staff corps officers: computation of total commissioned service”, 6390 “Regular Navy and Regular Marine Corps; officers: retirement at age 62”, 6392 “Regular Navy and Regular Marine Corps, officers having less than three years of service: revocation of appointments; reversion of certain officers to prior status”, 6393 “Regular Navy and Regular Marine Corps; women officers: termination of appointments”, 6394 “Regular Navy, rear admirals and commodores; Regular Marine Corps, major generals and brigadier generals: retirement on recommendation of board”, 6395 “Regular Navy and Regular Marine Corps; officers having less than 20 years of service: discharge during war or emergency for unsatisfactory performance of duty”, 6396 “Regular Navy; officers in Nurse Corps in grades below commander: retirement or discharge”, 6398 “Regular Navy; women captains and commanders; Regular Marine Corps; women colonels and lieutenant colonels: retirement for length of service: retired grade and pay”, 6400 “Regular Navy, women lieutenant commanders; Regular Marine Corps, women majors: retirement for length of service; retired grade and pay”, 6401 “Regular Navy, women lieutenants; Regular Marine Corps, women captains: discharge for length of service; severance pay”, and 6402 “Regular Navy, women lieutenants (junior grade); Regular Marine Corps, women first lieutenants: discharge for length of service; severance pay”, substituted “separation pay” for “severance pay” in item 6404, and struck out item 6407 “Communication with selection board”.
 
-1978—Pub. L. 95–377, § 8(d), Sept. 19, 1978, 92 Stat. 721, inserted reference to section 5787d in item 6385.
+1978—Pub. L. 95–377, § 8(d), Sept. 19, 1978, 92 Stat. 721, inserted reference to section 5787d in item 6385.
 
-1970—Pub. L. 91–482, § 2E, Oct. 21, 1970, 84 Stat. 1082, struck out item 6406 “Regular Navy and Regular Marine Corps; officers: furlough; furlough pay”.
+1970—Pub. L. 91–482, § 2E, Oct. 21, 1970, 84 Stat. 1082, struck out item 6406 “Regular Navy and Regular Marine Corps; officers: furlough; furlough pay”.
 
-1968—Pub. L. 90–235, §§ 3(b)(5), 4(a)(13), Jan. 2, 1968, 81 Stat. 758, 760, struck out item 6405 “Effect of acceptance of appointment in Foreign Service”, and item 6409 “Navy and Marine Corps; warrant officers: suspension of laws for mandatory retirement and separation during war or emergency”.
+1968—Pub. L. 90–235, §§ 3(b)(5), 4(a)(13), Jan. 2, 1968, 81 Stat. 758, 760, struck out item 6405 “Effect of acceptance of appointment in Foreign Service”, and item 6409 “Navy and Marine Corps; warrant officers: suspension of laws for mandatory retirement and separation during war or emergency”.
 
-1967—Pub. L. 90–130, § 1(24)(B), (G), (H), Nov. 8, 1967, 81 Stat. 380, 382 struck out “or for age” after “length of service” in item 6377, substituted “officers in Nurse Corps in grades below commander: retirement or discharge” for “officers in Nurse Corps: retirement for age or length of service; retired grade and pay” in item 6396, substituted “Regular Navy; women captains and commanders; Regular Marine Corps; women colonels and lieutenant colonels: retirement for length of service; retired grade and pay” for “Regular Navy, women commanders; Regular Marine Corps, women lieutenant colonels: retirement for age of length or service; retired grade and pay” in item 6398, and eliminated item 6399 which read: “Regular Navy, women lieutenant commanders and below; Regular Marine Corps, women majors and below: retirement at age 50; retired grade and pay”.
+1967—Pub. L. 90–130, § 1(24)(B), (G), (H), Nov. 8, 1967, 81 Stat. 380, 382 struck out “or for age” after “length of service” in item 6377, substituted “officers in Nurse Corps in grades below commander: retirement or discharge” for “officers in Nurse Corps: retirement for age or length of service; retired grade and pay” in item 6396, substituted “Regular Navy; women captains and commanders; Regular Marine Corps; women colonels and lieutenant colonels: retirement for length of service; retired grade and pay” for “Regular Navy, women commanders; Regular Marine Corps, women lieutenant colonels: retirement for age of length or service; retired grade and pay” in item 6398, and eliminated item 6399 which read: “Regular Navy, women lieutenant commanders and below; Regular Marine Corps, women majors and below: retirement at age 50; retired grade and pay”.
 
-1961—Pub. L. 87–123, § 5(30), Aug. 3, 1961, 75 Stat. 267, struck out “not restricted in performance of duty” after “brigadier generals” and “colonels” in items 6374 and 6376, respectively, “; Regular Marine Corps, colonels designated for supply duty” after “Nurse Corps commanders;” in items 6377 and 6378, and struck out item 6375 “Regular Marine Corps; brigadier generals designated for supply duty: retention on active list; retirement”.
+1961—Pub. L. 87–123, § 5(30), Aug. 3, 1961, 75 Stat. 267, struck out “not restricted in performance of duty” after “brigadier generals” and “colonels” in items 6374 and 6376, respectively, “; Regular Marine Corps, colonels designated for supply duty” after “Nurse Corps commanders;” in items 6377 and 6378, and struck out item 6375 “Regular Marine Corps; brigadier generals designated for supply duty: retention on active list; retirement”.
 
-1958—Pub. L. 85–861, § 1(144)(G), Sept. 2, 1958, 72 Stat. 1512, added items 6389, 6391, 6397, 6403, 6410.
+1958—Pub. L. 85–861, § 1(144)(G), Sept. 2, 1958, 72 Stat. 1512, added items 6389, 6391, 6397, 6403, 6410.
 
-1957—Pub. L. 85–155, title II, § 201(14), Aug. 21, 1957, 71 Stat. 383, included Nurse Corps commanders and retirement for age in item 6377, and included Nurse Corps commanders in item 6378.
+1957—Pub. L. 85–155, title II, § 201(14), Aug. 21, 1957, 71 Stat. 383, included Nurse Corps commanders and retirement for age in item 6377, and included Nurse Corps commanders in item 6378.
 
-## § 8371. Mandatory retirement: Superintendent of the United States Naval Academy; waiver authority
+## § 8371. Mandatory retirement: Superintendent of the United States Naval Academy; waiver authority
 
 **(a) Mandatory Retirement.—** Upon the termination of the detail of an officer to the position of Superintendent of the United States Naval Academy, the Secretary of the Navy shall retire the officer under any provision of chapter 841 of this title under which the officer is eligible to retire.
 
 **(b) Waiver Authority.—** The Secretary of Defense may waive the requirement in subsection (a) for good cause. In each case in which such a waiver is granted for an officer, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written notification of the waiver, with a statement of the reasons supporting the decision that the officer not retire, and a written notification of the intent of the President to nominate the officer for reassignment. In the event a waiver under this subsection is granted, the subsequent nomination and appointment of such officer having served as Superintendent of the Academy to a further assignment in lieu of retirement shall be subject to the advice and consent of the Senate.
 
-(Added Pub. L. 106–65, div. A, title V, § 532(a)(2)(A), Oct. 5, 1999, 113 Stat. 603, § 6371; amended Pub. L. 108–375, div. A, title V, § 541(a)(2), (c)(2)(A), Oct. 28, 2004, 118 Stat. 1902, 1904; renumbered § 8371 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(b)(16), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840; Pub. L. 117–263, div. A, title V, § 509(b), Dec. 23, 2022, 136 Stat. 2560.)
+(Added Pub. L. 106–65, div. A, title V, § 532(a)(2)(A), Oct. 5, 1999, 113 Stat. 603, § 6371; amended Pub. L. 108–375, div. A, title V, § 541(a)(2), (c)(2)(A), Oct. 28, 2004, 118 Stat. 1902, 1904; renumbered § 8371 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(b)(16), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840; Pub. L. 117–263, div. A, title V, § 509(b), Dec. 23, 2022, 136 Stat. 2560.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8371, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1527, related to promotion of officers to grade of colonel to fill vacancies in Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14301 et seq. of this title.
+A prior section 8371, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1527, related to promotion of officers to grade of colonel to fill vacancies in Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14301 et seq. of this title.
 
 **Amendments**
 
 2022—Subsec. (b). Pub. L. 117–263 inserted at end “In the event a waiver under this subsection is granted, the subsequent nomination and appointment of such officer having served as Superintendent of the Academy to a further assignment in lieu of retirement shall be subject to the advice and consent of the Senate.”
 
-2018—Pub. L. 115–232, § 807(b)(16), renumbered section 6371 of this title as this section.
+2018—Pub. L. 115–232, § 807(b)(16), renumbered section 6371 of this title as this section.
 
-Subsec. (a). Pub. L. 115–232, § 809(a), substituted “chapter 841” for “chapter 571”.
+Subsec. (a). Pub. L. 115–232, § 809(a), substituted “chapter 841” for “chapter 571”.
 
-2004—Pub. L. 108–375 inserted “; waiver authority” after “Academy” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+2004—Pub. L. 108–375 inserted “; waiver authority” after “Academy” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -85,7 +85,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Section not applicable to an officer serving on Oct. 5, 1999, in the position of Superintendent of the United States Military Academy, Naval Academy, or Air Force Academy for so long as that officer continues on and after that date to serve in that position without a break in service, see section 532(a)(5) of Pub. L. 106–65, set out as a note under section 7321 of this title.
 
-## § 8372. Regular Navy and Regular Marine Corps; officers designated for limited duty: retirement for length of service or failures of selection for promotion; discharge for failures of selection for promotion; reversion to prior status; retired grade; retired pay
+## § 8372. Regular Navy and Regular Marine Corps; officers designated for limited duty: retirement for length of service or failures of selection for promotion; discharge for failures of selection for promotion; reversion to prior status; retired grade; retired pay
 
 **(a) Mandatory Retirement.—**
 
@@ -105,9 +105,9 @@ Section not applicable to an officer serving on Oct. 5, 1999, in the position of
 
 **(c) Retired Grade and Retired Pay.—** Each officer retired under subsection (a) or (b)—
 
-**(1)** unless otherwise entitled to a higher grade, shall be retired in the grade determined under section 1370 1
+**(1)** unless otherwise entitled to a higher grade, shall be retired in the grade determined under section 1370 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and
 
@@ -145,129 +145,129 @@ of this title; and
 
 **(l) Applicability of Section Only to Permanent LDOs.—** This section does not apply to officers designated for limited duty under section 8146 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 405, § 6383; Pub. L. 85–422, § 11(a)(6)(D), May 20, 1958, 72 Stat. 131; Pub. L. 86–616, § 5(2), July 12, 1960, 74 Stat. 390; Pub. L. 87–509, § 4(b), June 28, 1962, 76 Stat. 121; Pub. L. 88–132, § 5(h)(4), Oct. 2, 1963, 77 Stat. 214; Pub. L. 96–342, title VIII, § 813(d)(7), Sept. 8, 1980, 94 Stat. 1106; Pub. L. 96–513, title III, § 336, title V, § 513(17), Dec. 12, 1980, 94 Stat. 2898, 2932; Pub. L. 98–94, title IX, § 922(a)(11), Sept. 24, 1983, 97 Stat. 642; Pub. L. 98–525, title V, § 529(c), Oct. 19, 1984, 98 Stat. 2526; Pub. L. 99–348, title II, § 203(b)(7), July 1, 1986, 100 Stat. 696; Pub. L. 101–510, div. A, title V, § 501(f)(2), Nov. 5, 1990, 104 Stat. 1551; Pub. L. 102–484, div. A, title V, § 504(c), (d), Oct. 23, 1992, 106 Stat. 2403, 2404; Pub. L. 103–160, div. A, title V, § 561(e), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title V, § 503, Oct. 5, 1994, 108 Stat. 2749; Pub. L. 105–261, div. A, title V, § 504(c), (d), Oct. 17, 1998, 112 Stat. 2004; renumbered § 8372 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(b)(16), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840; Pub. L. 118–31, div. A, title V, § 508(b), Dec. 22, 2023, 137 Stat. 242; Pub. L. 118–159, div. A, title V, § 505(b)(3), Dec. 23, 2024, 138 Stat. 1870.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 405, § 6383; Pub. L. 85–422, § 11(a)(6)(D), May 20, 1958, 72 Stat. 131; Pub. L. 86–616, § 5(2), July 12, 1960, 74 Stat. 390; Pub. L. 87–509, § 4(b), June 28, 1962, 76 Stat. 121; Pub. L. 88–132, § 5(h)(4), Oct. 2, 1963, 77 Stat. 214; Pub. L. 96–342, title VIII, § 813(d)(7), Sept. 8, 1980, 94 Stat. 1106; Pub. L. 96–513, title III, § 336, title V, § 513(17), Dec. 12, 1980, 94 Stat. 2898, 2932; Pub. L. 98–94, title IX, § 922(a)(11), Sept. 24, 1983, 97 Stat. 642; Pub. L. 98–525, title V, § 529(c), Oct. 19, 1984, 98 Stat. 2526; Pub. L. 99–348, title II, § 203(b)(7), July 1, 1986, 100 Stat. 696; Pub. L. 101–510, div. A, title V, § 501(f)(2), Nov. 5, 1990, 104 Stat. 1551; Pub. L. 102–484, div. A, title V, § 504(c), (d), Oct. 23, 1992, 106 Stat. 2403, 2404; Pub. L. 103–160, div. A, title V, § 561(e), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title V, § 503, Oct. 5, 1994, 108 Stat. 2749; Pub. L. 105–261, div. A, title V, § 504(c), (d), Oct. 17, 1998, 112 Stat. 2004; renumbered § 8372 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(b)(16), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840; Pub. L. 118–31, div. A, title V, § 508(b), Dec. 22, 2023, 137 Stat. 242; Pub. L. 118–159, div. A, title V, § 505(b)(3), Dec. 23, 2024, 138 Stat. 1870.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6383(a)–(h) | 34 U.S.C. 410j(a). | Aug. 7, 1947, ch. 512, § 312(a), 61 Stat. 858. |
-|  | 34 U.S.C. 626–1(a) (1st sentence). | Aug. 7, 1947, ch. 512, § 314(a) (1st sentence), 61 Stat. 863; May 5, 1954, ch. 180, § 205, 68 Stat. 68. |
-|  | 34 U.S.C. 626–1(*o*). | Aug. 7, 1947, ch. 512, § 314(*o*), 61 Stat. 865. |
-|  | 34 U.S.C. 3c(b) (1st sentence). | Aug. 7, 1947, ch. 512, § 302(b) (1st sentence), 61 Stat. 829. |
-| 6383(a) | 34 U.S.C. 410j(d). | Aug. 7, 1947, ch. 512, § 312(d), 61 Stat. 859. |
-| 6383(b) | 34 U.S.C. 410j(f) (less provisos). | Aug. 7, 1947, ch. 512, § 312(f) (less provisos), 61 Stat. 859. |
+| 6383(a)–(h) | 34 U.S.C. 410j(a). | Aug. 7, 1947, ch. 512, § 312(a), 61 Stat. 858. |
+|  | 34 U.S.C. 626–1(a) (1st sentence). | Aug. 7, 1947, ch. 512, § 314(a) (1st sentence), 61 Stat. 863; May 5, 1954, ch. 180, § 205, 68 Stat. 68. |
+|  | 34 U.S.C. 626–1(*o*). | Aug. 7, 1947, ch. 512, § 314(*o*), 61 Stat. 865. |
+|  | 34 U.S.C. 3c(b) (1st sentence). | Aug. 7, 1947, ch. 512, § 302(b) (1st sentence), 61 Stat. 829. |
+| 6383(a) | 34 U.S.C. 410j(d). | Aug. 7, 1947, ch. 512, § 312(d), 61 Stat. 859. |
+| 6383(b) | 34 U.S.C. 410j(f) (less provisos). | Aug. 7, 1947, ch. 512, § 312(f) (less provisos), 61 Stat. 859. |
 | 6383(c) | 34 U.S.C. 389 (1st sentence as applicable to grade). | R.S. 1457 (1st sentence as applicable to grade). |
-|  | 34 U.S.C. 410j(g) (less provisos). | Aug. 7, 1947, ch. 512, § 312(g) (less provisos), 61 Stat. 860. |
-|  | 34 U.S.C. 3c(j). | Aug. 7, 1947, ch. 512, § 312(j), 61 Stat. 831. |
-| 6383(d), (e), (f) | 34 U.S.C. 410j(h) (as applicable to officers designated for limited duty who fail of selection, less provisos). | Aug. 7, 1947, ch. 512, § 312(h) (as applicable to officers designated for limited duty who fail of selection less provisos), 61 Stat. 860. |
-|  | 34 U.S.C. 410j(m) (less applicability to persons discharged under 34 U.S.C. 410j(*l*)). | Aug. 7, 1947, ch. 512, § 312(m); added June 18, 1954, ch. 311, (b) (less applicability to persons discharged under § 312(*l*)), 68 Stat. 257. |
-| 6383(g), (h) | 34 U.S.C. 410j(f) (provisos). | Aug. 7, 1947, ch. 512, § 312(f) (provisos), 61 Stat. 859. |
-|  | 34 U.S.C. 410j(h) (2d proviso as applicable to officers designated for limited duty who fail of selection). | Aug. 7, 1947, ch. 512, § 312(h) (2d proviso as applicable to officers designated for limited duty who fail of selection), 61 Stat. 860. |
+|  | 34 U.S.C. 410j(g) (less provisos). | Aug. 7, 1947, ch. 512, § 312(g) (less provisos), 61 Stat. 860. |
+|  | 34 U.S.C. 3c(j). | Aug. 7, 1947, ch. 512, § 312(j), 61 Stat. 831. |
+| 6383(d), (e), (f) | 34 U.S.C. 410j(h) (as applicable to officers designated for limited duty who fail of selection, less provisos). | Aug. 7, 1947, ch. 512, § 312(h) (as applicable to officers designated for limited duty who fail of selection less provisos), 61 Stat. 860. |
+|  | 34 U.S.C. 410j(m) (less applicability to persons discharged under 34 U.S.C. 410j(*l*)). | Aug. 7, 1947, ch. 512, § 312(m); added June 18, 1954, ch. 311, (b) (less applicability to persons discharged under § 312(*l*)), 68 Stat. 257. |
+| 6383(g), (h) | 34 U.S.C. 410j(f) (provisos). | Aug. 7, 1947, ch. 512, § 312(f) (provisos), 61 Stat. 859. |
+|  | 34 U.S.C. 410j(h) (2d proviso as applicable to officers designated for limited duty who fail of selection). | Aug. 7, 1947, ch. 512, § 312(h) (2d proviso as applicable to officers designated for limited duty who fail of selection), 61 Stat. 860. |
 
 In subsection (a) the words “if not otherwise retired pursuant to law” are omitted as surplusage.
 
 In subsection (c) the pay provisions are worded so as to conform to the terminology of the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.).
 
-The second proviso in § 312(g) of the Officer Personnel Act of 1947 (34 U.S.C. 410j(g)), relating to the retired pay of officers commissioned in the Regular Navy under the Act of April 18, 1946, ch. 141, as amended (34 U.S.C. 15), and officers commissioned in the Regular Navy while serving on active duty as officers of the Naval Reserve, is not codified in this section because it is inapplicable to officers designated for limited duty. The only authority to appoint limited duty officers is § 404(a) of the Officer Personnel Act of 1947 (34 U.S.C. 211c(a)). Naval Reserve officers are not eligible for such appointments. Hence there can be no limited duty officers in the categories mentioned in the proviso.
+The second proviso in § 312(g) of the Officer Personnel Act of 1947 (34 U.S.C. 410j(g)), relating to the retired pay of officers commissioned in the Regular Navy under the Act of April 18, 1946, ch. 141, as amended (34 U.S.C. 15), and officers commissioned in the Regular Navy while serving on active duty as officers of the Naval Reserve, is not codified in this section because it is inapplicable to officers designated for limited duty. The only authority to appoint limited duty officers is § 404(a) of the Officer Personnel Act of 1947 (34 U.S.C. 211c(a)). Naval Reserve officers are not eligible for such appointments. Hence there can be no limited duty officers in the categories mentioned in the proviso.
 
 In subsection (f) the words “to which he would otherwise become entitled” are omitted as surplusage and the words “based on the service for which he has received payment” are substituted for the words “attributable to the active service in respect of which lump-sum payment shall have been made to him”.
 
-The second proviso in § 312(f) of the Officer Personnel Act of 1947 (34 U.S.C. 410j(f)), which provides that officers who exercise their option to revert to a warrant officer grade shall be retired upon completing 30 years of active naval service, is omitted as superseded by § 14(b)(2) of the Warrant Officer Act of 1954 (34 U.S.C. 430(b)(2)), codified in § 1305 of this title.
+The second proviso in § 312(f) of the Officer Personnel Act of 1947 (34 U.S.C. 410j(f)), which provides that officers who exercise their option to revert to a warrant officer grade shall be retired upon completing 30 years of active naval service, is omitted as superseded by § 14(b)(2) of the Warrant Officer Act of 1954 (34 U.S.C. 430(b)(2)), codified in § 1305 of this title.
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1370 of this title, referred to in subsec. (c)(1), was repealed and new sections 1370 and 1370a of this title were enacted by Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3574, 3580. In determining the retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of this title in such determination with respect to such officers deemed to be a reference to section 1370a of this title, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of this title.
+Section 1370 of this title, referred to in subsec. (c)(1), was repealed and new sections 1370 and 1370a of this title were enacted by Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3574, 3580. In determining the retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of this title in such determination with respect to such officers deemed to be a reference to section 1370a of this title, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of this title.
 
 **Prior Provisions**
 
-A prior section 8372, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1527; amended Pub. L. 86–559, § 1(57), June 30, 1960, 74 Stat. 276, related to promotion of officers with special qualifications to grade of captain, major, lieutenant colonel, or colonel of Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14301 et seq. of this title.
+A prior section 8372, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1527; amended Pub. L. 86–559, § 1(57), June 30, 1960, 74 Stat. 276, related to promotion of officers with special qualifications to grade of captain, major, lieutenant colonel, or colonel of Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14301 et seq. of this title.
 
 **Amendments**
 
-2024—Subsec. (b). Pub. L. 118–159, § 505(b)(3)(A), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the selection board in which the officer is considered as having failed of selection for promotion to the grade of commander or lieutenant colonel for the second time”.
+2024—Subsec. (b). Pub. L. 118–159, § 505(b)(3)(A), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the selection board in which the officer is considered as having failed of selection for promotion to the grade of commander or lieutenant colonel for the second time”.
 
-Subsec. (d). Pub. L. 118–159, § 505(b)(3)(B), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the selection board in which the officer is considered as having failed of selection for promotion to the grade of lieutenant commander or major for the second time”.
+Subsec. (d). Pub. L. 118–159, § 505(b)(3)(B), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the selection board in which the officer is considered as having failed of selection for promotion to the grade of lieutenant commander or major for the second time”.
 
-Subsec. (e)(1). Pub. L. 118–159, § 505(b)(3)(C), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the selection board in which the officer is considered as having failed of selection for promotion to the grade of lieutenant or captain, respectively, for the second time”.
+Subsec. (e)(1). Pub. L. 118–159, § 505(b)(3)(C), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the selection board in which the officer is considered as having failed of selection for promotion to the grade of lieutenant or captain, respectively, for the second time”.
 
 2023—Subsec. (a)(2)(A). Pub. L. 118–31, which directed the substitution of “Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “President approves the report of the board which considered him for the second time”, was executed by making the substitution for “President approves the report of the selection board in which the officer is considered as having failed for promotion to the grade of captain for a second time”, to reflect the probable intent of Congress.
 
-2018—Pub. L. 115–232, § 807(b)(16), renumbered section 6383 of this title as this section.
+2018—Pub. L. 115–232, § 807(b)(16), renumbered section 6383 of this title as this section.
 
-Subsec. (c)(2). Pub. L. 115–232, § 809(a), substituted “section 8333” for “section 6333”.
+Subsec. (c)(2). Pub. L. 115–232, § 809(a), substituted “section 8333” for “section 6333”.
 
-Subsec. (f). Pub. L. 115–232, § 809(a), substituted “section 8323” for “section 6323”.
+Subsec. (f). Pub. L. 115–232, § 809(a), substituted “section 8323” for “section 6323”.
 
-Subsec. (*l*). Pub. L. 115–232, § 809(a), substituted “section 8146” for “section 5596”.
+Subsec. (*l*). Pub. L. 115–232, § 809(a), substituted “section 8146” for “section 5596”.
 
-1998—Subsec. (a)(5). Pub. L. 105–261, § 504(c), struck out par. (5) which read as follows: “Paragraphs (2) through (4) shall be effective only during the period beginning on July 1, 1993, and ending on October 1, 1999.”
+1998—Subsec. (a)(5). Pub. L. 105–261, § 504(c), struck out par. (5) which read as follows: “Paragraphs (2) through (4) shall be effective only during the period beginning on July 1, 1993, and ending on October 1, 1999.”
 
-Subsec. (k). Pub. L. 105–261, § 504(d), struck out at end “During the period beginning on July 1, 1993, and ending on October 1, 1999, an officer of the Navy in the grade of commander or captain whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond age 62 or, if earlier, 28 years of active commissioned service if in the grade of commander or 30 years of active commissioned service if in the grade of captain.”
+Subsec. (k). Pub. L. 105–261, § 504(d), struck out at end “During the period beginning on July 1, 1993, and ending on October 1, 1999, an officer of the Navy in the grade of commander or captain whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond age 62 or, if earlier, 28 years of active commissioned service if in the grade of commander or 30 years of active commissioned service if in the grade of captain.”
 
-1994—Subsec. (a). Pub. L. 103–337, § 503(c)(1), (d)(1), inserted heading and substituted “Except as provided in subsection (k)” for “Except as provided in subsection (i)” in pars. (1) to (4).
+1994—Subsec. (a). Pub. L. 103–337, § 503(c)(1), (d)(1), inserted heading and substituted “Except as provided in subsection (k)” for “Except as provided in subsection (i)” in pars. (1) to (4).
 
-Subsec. (b). Pub. L. 103–337, § 503(c)(2), (d)(2), inserted heading and substituted “Except as provided in subsections (f) and (k)” for “Except as provided in subsection (i)”.
+Subsec. (b). Pub. L. 103–337, § 503(c)(2), (d)(2), inserted heading and substituted “Except as provided in subsections (f) and (k)” for “Except as provided in subsection (i)”.
 
-Subsec. (c). Pub. L. 103–337, § 503(d)(3), inserted heading.
+Subsec. (c). Pub. L. 103–337, § 503(d)(3), inserted heading.
 
-Subsec. (d). Pub. L. 103–337, § 503(c)(2), (d)(4), inserted heading and substituted “Except as provided in subsections (f) and (k)” for “Except as provided in subsection (i)”.
+Subsec. (d). Pub. L. 103–337, § 503(c)(2), (d)(4), inserted heading and substituted “Except as provided in subsections (f) and (k)” for “Except as provided in subsection (i)”.
 
-Subsec. (e). Pub. L. 103–337, § 503(d)(5), inserted heading.
+Subsec. (e). Pub. L. 103–337, § 503(d)(5), inserted heading.
 
-Subsec. (f). Pub. L. 103–337, § 503(a)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “If any officer subject to discharge under subsection (d) or (e) had the permanent status of a warrant officer when first appointed as an officer designated for limited duty, he has the option, instead of being discharged, of reverting to the grade and status he would hold if he had not been so appointed. If any such officer had a permanent grade below the grade of warrant officer, W–1, when first so appointed, he has the option, instead of being discharged, of reverting to the grade and status he would hold if he had not been so appointed but had instead been appointed a warrant officer, W–1.”
+Subsec. (f). Pub. L. 103–337, § 503(a)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “If any officer subject to discharge under subsection (d) or (e) had the permanent status of a warrant officer when first appointed as an officer designated for limited duty, he has the option, instead of being discharged, of reverting to the grade and status he would hold if he had not been so appointed. If any such officer had a permanent grade below the grade of warrant officer, W–1, when first so appointed, he has the option, instead of being discharged, of reverting to the grade and status he would hold if he had not been so appointed but had instead been appointed a warrant officer, W–1.”
 
-Subsecs. (g), (h). Pub. L. 103–337, § 503(a)(2), added subsecs. (g) and (h). Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
+Subsecs. (g), (h). Pub. L. 103–337, § 503(a)(2), added subsecs. (g) and (h). Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
 
-Subsec. (i). Pub. L. 103–337, § 503(a)(1), (d)(6), redesignated subsec. (g) as (i) and inserted heading. Former subsec. (i) redesignated (k).
+Subsec. (i). Pub. L. 103–337, § 503(a)(1), (d)(6), redesignated subsec. (g) as (i) and inserted heading. Former subsec. (i) redesignated (k).
 
-Subsec. (j). Pub. L. 103–337, § 503(a)(1), (d)(7), redesignated subsec. (h) as (j) and inserted heading. Former subsec. (j) redesignated (*l*).
+Subsec. (j). Pub. L. 103–337, § 503(a)(1), (d)(7), redesignated subsec. (h) as (j) and inserted heading. Former subsec. (j) redesignated (*l*).
 
-Subsec. (k). Pub. L. 103–337, § 503(a)(1), (b), (d)(8), redesignated subsec. (i) as (k), inserted heading, and substituted “or the discharge under subsection (b) or (d)” for “or the discharge under subsection (d)”.
+Subsec. (k). Pub. L. 103–337, § 503(a)(1), (b), (d)(8), redesignated subsec. (i) as (k), inserted heading, and substituted “or the discharge under subsection (b) or (d)” for “or the discharge under subsection (d)”.
 
-Subsec. (*l*). Pub. L. 103–337, § 503(a)(1), (d)(9), redesignated subsec. (j) as (*l*) and inserted heading.
+Subsec. (*l*). Pub. L. 103–337, § 503(a)(1), (d)(9), redesignated subsec. (j) as (*l*) and inserted heading.
 
 1993—Subsecs. (a)(5), (i). Pub. L. 103–160 substituted “October 1, 1999” for “October 1, 1995”.
 
-1992—Subsec. (a). Pub. L. 102–484, § 504(c), designated existing provisions as par. (1) and added pars. (2) to (5).
+1992—Subsec. (a). Pub. L. 102–484, § 504(c), designated existing provisions as par. (1) and added pars. (2) to (5).
 
-Subsec. (i). Pub. L. 102–484, § 504(d), inserted at end “During the period beginning on July 1, 1993, and ending on October 1, 1995, an officer of the Navy in the grade of commander or captain whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond age 62 or, if earlier, 28 years of active commissioned service if in the grade of commander or 30 years of active commissioned service if in the grade of captain.”
+Subsec. (i). Pub. L. 102–484, § 504(d), inserted at end “During the period beginning on July 1, 1993, and ending on October 1, 1995, an officer of the Navy in the grade of commander or captain whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond age 62 or, if earlier, 28 years of active commissioned service if in the grade of commander or 30 years of active commissioned service if in the grade of captain.”
 
 1990—Subsec. (h). Pub. L. 101–510 substituted “section 1174(a)(1)” for “section 1174(a)”.
 
-1986—Subsec. (c)(2). Pub. L. 99–348, § 203(b)(7)(A), substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 2½ percent of the basic pay to which he would have been entitled if serving on active duty in the grade in which he retired, or in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 2½ percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based.
+1986—Subsec. (c)(2). Pub. L. 99–348, § 203(b)(7)(A), substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 2½ percent of the basic pay to which he would have been entitled if serving on active duty in the grade in which he retired, or in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 2½ percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based.
 
-Subsec. (k). Pub. L. 99–348, § 203(b)(7)(B), struck out subsec. (k) which provided that retired pay computed under subsec. (c), if not a multiple of $1, was to be rounded to the next lower multiple of $1.
+Subsec. (k). Pub. L. 99–348, § 203(b)(7)(B), struck out subsec. (k) which provided that retired pay computed under subsec. (c), if not a multiple of $1, was to be rounded to the next lower multiple of $1.
 
-1984—Subsec. (a). Pub. L. 98–525, § 529(c)(1), substituted “each regular officer of the Navy who is an officer designated for limited duty and who is serving in a grade below the grade of commander and each regular officer of the Marine Corps who is an officer” for “each regular officer of the Navy or Marine Corps”.
+1984—Subsec. (a). Pub. L. 98–525, § 529(c)(1), substituted “each regular officer of the Navy who is an officer designated for limited duty and who is serving in a grade below the grade of commander and each regular officer of the Marine Corps who is an officer” for “each regular officer of the Navy or Marine Corps”.
 
-Subsec. (d). Pub. L. 98–525, § 529(c)(2), substituted “Except as provided in subsection (i), each” for “Each”.
+Subsec. (d). Pub. L. 98–525, § 529(c)(2), substituted “Except as provided in subsection (i), each” for “Each”.
 
-Subsec. (i). Pub. L. 98–525, § 529(c)(3), inserted “or the discharge under subsection (d)” after “the retirement under subsection (a) or (b)” and substituted “An officer whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond 20 years active commissioned service, if in the grade of lieutenant or captain, beyond 24 years active commissioned service, if in the grade of lieutenant commander or major, or beyond 28 years active commissioned service, if in the grade of lieutenant colonel, or beyond age 62, whichever is earlier” for “An officer whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond 24 years active commissioned service, if in the grade of lieutenant commander or major or 28 years active commissioned service, if in the grade of commander or lieutenant colonel, or beyond age 62, whichever is earlier”.
+Subsec. (i). Pub. L. 98–525, § 529(c)(3), inserted “or the discharge under subsection (d)” after “the retirement under subsection (a) or (b)” and substituted “An officer whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond 20 years active commissioned service, if in the grade of lieutenant or captain, beyond 24 years active commissioned service, if in the grade of lieutenant commander or major, or beyond 28 years active commissioned service, if in the grade of lieutenant colonel, or beyond age 62, whichever is earlier” for “An officer whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond 24 years active commissioned service, if in the grade of lieutenant commander or major or 28 years active commissioned service, if in the grade of commander or lieutenant colonel, or beyond age 62, whichever is earlier”.
 
 1983—Subsec. (k). Pub. L. 98–94 added subsec. (k).
 
-1980—Pub. L. 96–513, § 336(i), struck out “or severance” before “pay” in section catchline.
+1980—Pub. L. 96–513, § 336(i), struck out “or severance” before “pay” in section catchline.
 
-Subsec. (a). Pub. L. 96–513, § 336(a), substituted “Except as provided in subsection (i), each regular officer of the Navy or Marine Corps designated for limited duty” for “Each officer designated for limited duty on the active list of the Navy or Marine Corps”.
+Subsec. (a). Pub. L. 96–513, § 336(a), substituted “Except as provided in subsection (i), each regular officer of the Navy or Marine Corps designated for limited duty” for “Each officer designated for limited duty on the active list of the Navy or Marine Corps”.
 
-Subsec. (b). Pub. L. 96–513, § 336(b), authorized the discharge of certain officers considered as having failed of selection for promotion and provided that in cases of retirement such retirements were to occur on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which such officer was considered as having failed of selection.
+Subsec. (b). Pub. L. 96–513, § 336(b), authorized the discharge of certain officers considered as having failed of selection for promotion and provided that in cases of retirement such retirements were to occur on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which such officer was considered as having failed of selection.
 
-Subsec. (c)(1). Pub. L. 96–513, § 336(c), substituted “determined under section 1370 of this title” for “in which he was serving at the time of retirement”.
+Subsec. (c)(1). Pub. L. 96–513, § 336(c), substituted “determined under section 1370 of this title” for “in which he was serving at the time of retirement”.
 
-Subsec. (c)(2). Pub. L. 96–513, § 513(17), substituted “September 8, 1980” for “the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
+Subsec. (c)(2). Pub. L. 96–513, § 513(17), substituted “September 8, 1980” for “the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
 
 Pub. L. 96–342, designated existing provisions as subpar. (A), inserted provision limiting applicability to officers who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B).
 
-Subsec. (d). Pub. L. 96–513, § 336(d), provided that Navy lieutenants designated for limited duty and Marine Corps captains similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection.
+Subsec. (d). Pub. L. 96–513, § 336(d), provided that Navy lieutenants designated for limited duty and Marine Corps captains similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection.
 
-Subsec. (e). Pub. L. 96–513, § 336(d), designated existing provisions as par. (1), provided that Navy lieutenants (junior grade) designated for limited duty and Marine Corps first lieutenants similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection, and added par. (2).
+Subsec. (e). Pub. L. 96–513, § 336(d), designated existing provisions as par. (1), provided that Navy lieutenants (junior grade) designated for limited duty and Marine Corps first lieutenants similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection, and added par. (2).
 
-Subsec. (f). Pub. L. 96–513, § 336(e), (f), redesignated subsec. (g) as (f), substituted “discharge under subsection (d)” for “retirement or discharge under subsections (b), (d)” and “instead of being discharged” for “instead of being retired or discharged” in two places, and struck out former subsec. (f) authorizing a lump-sum severance payment to certain discharged officers.
+Subsec. (f). Pub. L. 96–513, § 336(e), (f), redesignated subsec. (g) as (f), substituted “discharge under subsection (d)” for “retirement or discharge under subsections (b), (d)” and “instead of being discharged” for “instead of being retired or discharged” in two places, and struck out former subsec. (f) authorizing a lump-sum severance payment to certain discharged officers.
 
-Subsecs. (g) to (j). Pub. L. 96–513, § 336(f)–(h), added subsecs. (h) to (j) and redesignated existing subsecs. (g) and (h) as (f) and (g), respectively.
+Subsecs. (g) to (j). Pub. L. 96–513, § 336(f)–(h), added subsecs. (h) to (j) and redesignated existing subsecs. (g) and (h) as (f) and (g), respectively.
 
 1963—Subsec. (c)(2). Pub. L. 88–132 substituted “of” for “to which he would be entitled if serving on active duty in” after “2½ percent of the basic pay”.
 
@@ -305,7 +305,7 @@ Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 8
 
 For transition provisions relating to limited-duty officers of the Regular Navy or Regular Marine Corps, see section 616 of Pub. L. 96–513, set out as a note under section 611 of this title.
 
-## § 8373. Navy Reserve and Marine Corps Reserve; officers: elimination from active status; computation of total commissioned service
+## § 8373. Navy Reserve and Marine Corps Reserve; officers: elimination from active status; computation of total commissioned service
 
 **(a)** Subject to section 12645 of this title, an officer in an active status in the Navy Reserve in the permanent grade of lieutenant or lieutenant (junior grade), and an officer in an active status in the Marine Corps Reserve in the permanent grade of captain or first lieutenant, who is considered as having twice failed of selection for promotion to the next higher grade while on the active-duty list may, in the discretion of the Secretary of the Navy, be eliminated from an active status or released from active duty and placed on the reserve active-status list.
 
@@ -330,19 +330,19 @@ For transition provisions relating to limited-duty officers of the Regular Navy 
 
 **(d)** For the purposes of subsection (c), the total commissioned service of an officer who has served continuously in the Navy Reserve or the Marine Corps Reserve following appointment therein in the permanent grade of ensign or second lieutenant, as the case may be, shall be computed from June 30 of the fiscal year in which he accepted the appointment. Each other officer is considered to have for this purpose as much total commissioned service as the years of active commissioned service of any regular officer on the active-duty list of the Navy not restricted in the performance of duty, or any regular officer on the active-duty list of the Marine Corps not restricted in the performance of duty, as appropriate, who has served continuously since original appointment as an ensign on the active-duty list of the Navy or as a second lieutenant on the active-duty list of the Marine Corps, has not lost numbers or prec­edence, and is, or has been after September 6, 1947, junior to that other officer. However, the total commissioned service that the other officer is considered to have may not be less than the actual number of years he has served as a commissioned officer in a grade above chief warrant officer, W–5.
 
-(Added Pub. L. 85–861, § 1(144)(A), Sept. 2, 1958, 72 Stat. 1509, § 6389; amended Pub. L. 86–559, § 1(46), June 30, 1960, 74 Stat. 274; Pub. L. 96–513, title III, § 337(a), Dec. 12, 1980, 94 Stat. 2900; Pub. L. 97–86, title IV, § 405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, § 528(c), Oct. 19, 1984, 98 Stat. 2526; Pub. L. 99–145, title V, § 514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 102–190, div. A, title XI, § 1131(8)(A), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–337, div. A, title XVI, §§ 1628, 1673(c)(1), Oct. 5, 1994, 108 Stat. 2962, 3016; Pub. L. 104–106, div. A, title XV, § 1501(c)(25), Feb. 10, 1996, 110 Stat. 499; Pub. L. 109–163, div. A, title V, § 515(b)(1)(M), (3)(C), Jan. 6, 2006, 119 Stat. 3233, 3234; renumbered § 8373, Pub. L. 115–232, div. A, title VIII, § 807(b)(16), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 85–861, § 1(144)(A), Sept. 2, 1958, 72 Stat. 1509, § 6389; amended Pub. L. 86–559, § 1(46), June 30, 1960, 74 Stat. 274; Pub. L. 96–513, title III, § 337(a), Dec. 12, 1980, 94 Stat. 2900; Pub. L. 97–86, title IV, § 405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, § 528(c), Oct. 19, 1984, 98 Stat. 2526; Pub. L. 99–145, title V, § 514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 102–190, div. A, title XI, § 1131(8)(A), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–337, div. A, title XVI, §§ 1628, 1673(c)(1), Oct. 5, 1994, 108 Stat. 2962, 3016; Pub. L. 104–106, div. A, title XV, § 1501(c)(25), Feb. 10, 1996, 110 Stat. 499; Pub. L. 109–163, div. A, title V, § 515(b)(1)(M), (3)(C), Jan. 6, 2006, 119 Stat. 3233, 3234; renumbered § 8373, Pub. L. 115–232, div. A, title VIII, § 807(b)(16), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6389(a) | 50:1311(c) (1st sentence). | Sept. 3, 1954, ch. 1257, § 411(c) (1st sentence), 68 Stat. 1170. |
-| 6389(b) | 50:1311(a) (as applicable to 1311(c)). | Sept. 3, 1954, ch. 1257, § 411(a) (as applicable to 411(c)), 68 Stat. 1169. |
-| 6389(c) | 50:1311(c) (2d sentence). | Sept. 3, 1954, ch. 1257, § 411(c) (2d sentence), 68 Stat. 1170. |
-| 6389(d) | 50:1311(c) (less 1st and 2d sentences). | Sept. 3, 1954, ch. 1257, § 411(c) (less 1st and 2d sentences), 68 Stat. 1170. |
+| 6389(a) | 50:1311(c) (1st sentence). | Sept. 3, 1954, ch. 1257, § 411(c) (1st sentence), 68 Stat. 1170. |
+| 6389(b) | 50:1311(a) (as applicable to 1311(c)). | Sept. 3, 1954, ch. 1257, § 411(a) (as applicable to 411(c)), 68 Stat. 1169. |
+| 6389(c) | 50:1311(c) (2d sentence). | Sept. 3, 1954, ch. 1257, § 411(c) (2d sentence), 68 Stat. 1170. |
+| 6389(d) | 50:1311(c) (less 1st and 2d sentences). | Sept. 3, 1954, ch. 1257, § 411(c) (less 1st and 2d sentences), 68 Stat. 1170. |
 | 6389(e) | [No source]. | [No source]. |
 
-In subsection (a), the words “who is considered as having twice failed of selection for promotion” are substituted for the words “after failing of selection for promotion \* \* \* a second time” to conform to similar statements in this title. (See the revision note on section 5776.) The words “may be retained in” are omitted as surplusage, since the authority to eliminate such officers from an active status is discretionary with the Secretary.
+In subsection (a), the words “who is considered as having twice failed of selection for promotion” are substituted for the words “after failing of selection for promotion \* \* \* a second time” to conform to similar statements in this title. (See the revision note on section 5776.) The words “may be retained in” are omitted as surplusage, since the authority to eliminate such officers from an active status is discretionary with the Secretary.
 
 Subsection (e) is added to avoid conflict with 50:1311(d) and (e), codified in sections 6397 and 6403 of this title. 50:1311(d) and (e) contain special provisions for “women officers” and officers in the Nurse Corps, respectively, so that officers in these categories must be excepted from this section. Women officers appointed under the act of June 24, 1952, ch. 457 (66 Stat. 155; 34 U.S.C. 21e) (codified in section 5581 of this title), are not “women officers” within the meaning of 50:1311(d), however, but are required to be promoted, retired, or eliminated from active status as if they were men. (See the revision note on section 5665 of this title.) The application of this section to these officers is therefore made explicit.
 
@@ -352,47 +352,47 @@ Both men and women are eligible for appointment as reserve officers in the Nurse
 
 **Prior Provisions**
 
-A prior section 8373, added Pub. L. 89–172, § 1, Sept. 8, 1965, 79 Stat. 662, related to promotion of officers to grades of brigadier general and major general of Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14315 of this title.
+A prior section 8373, added Pub. L. 89–172, § 1, Sept. 8, 1965, 79 Stat. 662, related to promotion of officers to grades of brigadier general and major general of Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14315 of this title.
 
-Another prior section 8373, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1528; amended Pub. L. 86–559, § 1(58), June 30, 1960, 74 Stat. 277, containing similar subject matter, expired by its own terms on June 30, 1964.
+Another prior section 8373, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1528; amended Pub. L. 86–559, § 1(58), June 30, 1960, 74 Stat. 277, containing similar subject matter, expired by its own terms on June 30, 1964.
 
 **Amendments**
 
 2018—Pub. L. 115–232 renumbered section 6389 of this title as this section.
 
-2006—Pub. L. 109–163, § 515(b)(3)(C), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+2006—Pub. L. 109–163, § 515(b)(3)(C), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
-Pub. L. 109–163, § 515(b)(1)(M), substituted “Navy Reserve” for “Naval Reserve” wherever appearing in text.
+Pub. L. 109–163, § 515(b)(1)(M), substituted “Navy Reserve” for “Naval Reserve” wherever appearing in text.
 
 1996—Subsec. (c). Pub. L. 104–106 substituted “section 12732” for “section 1332”.
 
-1994—Subsec. (a). Pub. L. 103–337, § 1673(c), substituted “12645” for “1005”.
+1994—Subsec. (a). Pub. L. 103–337, § 1673(c), substituted “12645” for “1005”.
 
-Pub. L. 103–337, § 1628(1), inserted “while on the active-duty list” after “to the next higher grade” and “or released from active duty and placed on the reserve active-status list” after “from an active status”.
+Pub. L. 103–337, § 1628(1), inserted “while on the active-duty list” after “to the next higher grade” and “or released from active duty and placed on the reserve active-status list” after “from an active status”.
 
-Subsec. (b). Pub. L. 103–337, § 1628(2), struck out “or (f)” after “subsection (a)”.
+Subsec. (b). Pub. L. 103–337, § 1628(2), struck out “or (f)” after “subsection (a)”.
 
-Subsec. (c). Pub. L. 103–337, § 1628(3)(H), designated last sentence as par. (4) and in that sentence substituted “paragraph (1)” for “the first two sentences of this subsection” and struck out “captain or” after “permanent grade of”.
+Subsec. (c). Pub. L. 103–337, § 1628(3)(H), designated last sentence as par. (4) and in that sentence substituted “paragraph (1)” for “the first two sentences of this subsection” and struck out “captain or” after “permanent grade of”.
 
-Pub. L. 103–337, § 1628(3)(G), designated 4th sentence as par. (3) and in that sentence substituted “paragraph (1)” for “the first two sentences of this subsection”.
+Pub. L. 103–337, § 1628(3)(G), designated 4th sentence as par. (3) and in that sentence substituted “paragraph (1)” for “the first two sentences of this subsection”.
 
-Pub. L. 103–337, § 1628(3)(F), designated sentence after table as par. (2) and in that sentence substituted “the first sentence of paragraph (1)” for “the first sentence of this subsection”.
+Pub. L. 103–337, § 1628(3)(F), designated sentence after table as par. (2) and in that sentence substituted “the first sentence of paragraph (1)” for “the first sentence of this subsection”.
 
-Pub. L. 103–337, § 1628(3)(E), in table struck out line relating to grades of captain in Navy and colonel in Marine Corps and substituted “28 years” for “26 years”.
+Pub. L. 103–337, § 1628(3)(E), in table struck out line relating to grades of captain in Navy and colonel in Marine Corps and substituted “28 years” for “26 years”.
 
-Pub. L. 103–337, § 1628(3)(D), inserted “while on the active-duty list” after “to the next higher grade” in first sentence.
+Pub. L. 103–337, § 1628(3)(D), inserted “while on the active-duty list” after “to the next higher grade” in first sentence.
 
-Pub. L. 103–337, § 1628(3)(C), substituted “major or lieutenant colonel” for “major or above” in two places.
+Pub. L. 103–337, § 1628(3)(C), substituted “major or lieutenant colonel” for “major or above” in two places.
 
-Pub. L. 103–337, § 1628(3)(B), substituted “lieutenant commander or commander” for “lieutenant commander or above” in two places.
+Pub. L. 103–337, § 1628(3)(B), substituted “lieutenant commander or commander” for “lieutenant commander or above” in two places.
 
-Pub. L. 103–337, § 1628(3)(A), inserted “(1)” after “(c)”.
+Pub. L. 103–337, § 1628(3)(A), inserted “(1)” after “(c)”.
 
-Subsec. (e). Pub. L. 103–337, § 1628(4), struck out subsec. (e) which read as follows: “This section does not apply to women reserve officers or to reserve officers in the Nurse Corps.”
+Subsec. (e). Pub. L. 103–337, § 1628(4), struck out subsec. (e) which read as follows: “This section does not apply to women reserve officers or to reserve officers in the Nurse Corps.”
 
-Subsec. (f). Pub. L. 103–337, § 1628(4), struck out subsec. (f) which provided for transfer or discharge of rear admirals (lower half) in Naval Reserve and brigadier generals in Marine Corps Reserve on completion of 30 years service or five years in grade and for rear admirals in Naval Reserve and major generals in Marine Corps Reserve on completion of 35 years service or five years in grade and provided that rear admirals (lower half) and rear admirals in Naval Reserve and brigadier generals and major generals in Marine Corps Reserve could be considered for early retirement by continuation board. See sections 14508 and 14705 of this title.
+Subsec. (f). Pub. L. 103–337, § 1628(4), struck out subsec. (f) which provided for transfer or discharge of rear admirals (lower half) in Naval Reserve and brigadier generals in Marine Corps Reserve on completion of 30 years service or five years in grade and for rear admirals in Naval Reserve and major generals in Marine Corps Reserve on completion of 35 years service or five years in grade and provided that rear admirals (lower half) and rear admirals in Naval Reserve and brigadier generals and major generals in Marine Corps Reserve could be considered for early retirement by continuation board. See sections 14508 and 14705 of this title.
 
-Subsec. (g). Pub. L. 103–337, § 1628(4), struck out subsec. (g) which read as follows: “An officer in an active status in the Naval Reserve in the permanent grade of ensign who is found not qualified for promotion to the grade of lieutenant (junior grade), and an officer in an active status in the Marine Corps Reserve in the permanent grade of second lieutenant who is found not qualified for promotion to the grade of first lieutenant, may (unless he is sooner promoted) be eliminated from an active status.”
+Subsec. (g). Pub. L. 103–337, § 1628(4), struck out subsec. (g) which read as follows: “An officer in an active status in the Naval Reserve in the permanent grade of ensign who is found not qualified for promotion to the grade of lieutenant (junior grade), and an officer in an active status in the Marine Corps Reserve in the permanent grade of second lieutenant who is found not qualified for promotion to the grade of first lieutenant, may (unless he is sooner promoted) be eliminated from an active status.”
 
 1991—Subsec. (d). Pub. L. 102–190 substituted “W–5” for “W–4”.
 
@@ -402,13 +402,13 @@ Subsec. (g). Pub. L. 103–337, § 1628(4), struck out subsec. (g) which read 
 
 1981—Subsec. (f)(1), (3). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
 
-1980—Subsec. (b). Pub. L. 96–513, § 337(a)(1), substituted “subsection (a) or (f)” for “subsection (a)”.
+1980—Subsec. (b). Pub. L. 96–513, § 337(a)(1), substituted “subsection (a) or (f)” for “subsection (a)”.
 
-Subsec. (d). Pub. L. 96–513, § 337(a)(2), substituted “as the years of active commissioned service of any regular officer on the active-duty” for “as any officer in the line on the active” and “or any regular officer on the active-duty list of the Marine Corps” for “or any officer on the active list of the Marine Corps”.
+Subsec. (d). Pub. L. 96–513, § 337(a)(2), substituted “as the years of active commissioned service of any regular officer on the active-duty” for “as any officer in the line on the active” and “or any regular officer on the active-duty list of the Marine Corps” for “or any officer on the active list of the Marine Corps”.
 
-Subsec. (e). Pub. L. 96–513, § 337(a)(3), substituted “does not apply to” for “applies to women officers appointed under section 5581 of this title, but not to other”.
+Subsec. (e). Pub. L. 96–513, § 337(a)(3), substituted “does not apply to” for “applies to women officers appointed under section 5581 of this title, but not to other”.
 
-Subsec. (f). Pub. L. 96–513, § 337(a)(4), added subsec. (f).
+Subsec. (f). Pub. L. 96–513, § 337(a)(4), added subsec. (f).
 
 1960—Subsec. (c). Pub. L. 86–559 empowered the Secretary to defer the retirement or discharge of officers serving in the grade of lieutenant commander in the Ready Reserve, in the permanent grade of lieutenant commander or above in the Naval Reserve, in the permanent grade of major or above in the Marine Corps Reserve, and in the permanent grade of captain or commander in the Medical Corps, Chaplain Corps, or Dental Corps in the Naval Reserve.
 
@@ -420,7 +420,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 **Effective Date of 1994 Amendment**
 
@@ -438,24 +438,24 @@ Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 8374. Treatment of fractions of years of service in computing retired pay and separation pay
+## § 8374. Treatment of fractions of years of service in computing retired pay and separation pay
 
 In determining the total number of years of service to be used as a multiplier in computing retired pay and separation pay on discharge under this chapter, each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 415, § 6404; Pub. L. 96–513, title V, § 503(50), Dec. 12, 1980, 94 Stat. 2915; Pub. L. 98–94, title IX, § 923(c)(4), Sept. 24, 1983, 97 Stat. 643; renumbered § 8374, Pub. L. 115–232, div. A, title VIII, § 807(b)(16), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 415, § 6404; Pub. L. 96–513, title V, § 503(50), Dec. 12, 1980, 94 Stat. 2915; Pub. L. 98–94, title IX, § 923(c)(4), Sept. 24, 1983, 97 Stat. 643; renumbered § 8374, Pub. L. 115–232, div. A, title VIII, § 807(b)(16), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6404 | 34 U.S.C. 410c(a) (1st proviso). | Feb. 21, 1946, ch. 34, § 7 (a) (1st proviso), 60 Stat. 27; Aug. 7, 1947, ch. 512, § 432(a), 61 Stat. 881. |
-|  | 34 U.S.C. 410j(g) (1st proviso). | Aug. 7, 1947, ch. 512, § 312(g) (1st proviso), 61 Stat. 860. |
-|  | 34 U.S.C. 410d (1st proviso). | Feb. 21, 1946, ch. 34, § 9 (1st proviso), 60 Stat. 28; Aug. 7, 1947, ch. 512, § 432(b), 61 Stat. 881. |
-|  | 34 U.S.C. 410j(h) (1st proviso). | Aug. 7, 1947, ch. 512, § 312(h) (1st proviso), 61 Stat. 860. |
-|  | 34 U.S.C. 410r(h). | June 12, 1948, ch. 449, § 207(h), 62 Stat. 368. |
-|  | 34 U.S.C. 410r(j) (proviso). | June 12, 1948, ch. 449, § 207(j) (proviso), 62 Stat. 366. |
-|  | 34 U.S.C. 43g(g). | Apr. 16, 1947, ch. 38, § 207(h), 61 Stat. 50; redesignated (g), Aug. 7, 1947, ch. 512, § 434(d), 61 Stat. 882; May 16, 1950, ch. 186, § 3(j), 64 Stat. 162. |
-|  | 34 U.S.C. 625h(a). | June 12, 1948, ch. 449, § 213(a), 62 Stat. 369. |
+| 6404 | 34 U.S.C. 410c(a) (1st proviso). | Feb. 21, 1946, ch. 34, § 7 (a) (1st proviso), 60 Stat. 27; Aug. 7, 1947, ch. 512, § 432(a), 61 Stat. 881. |
+|  | 34 U.S.C. 410j(g) (1st proviso). | Aug. 7, 1947, ch. 512, § 312(g) (1st proviso), 61 Stat. 860. |
+|  | 34 U.S.C. 410d (1st proviso). | Feb. 21, 1946, ch. 34, § 9 (1st proviso), 60 Stat. 28; Aug. 7, 1947, ch. 512, § 432(b), 61 Stat. 881. |
+|  | 34 U.S.C. 410j(h) (1st proviso). | Aug. 7, 1947, ch. 512, § 312(h) (1st proviso), 61 Stat. 860. |
+|  | 34 U.S.C. 410r(h). | June 12, 1948, ch. 449, § 207(h), 62 Stat. 368. |
+|  | 34 U.S.C. 410r(j) (proviso). | June 12, 1948, ch. 449, § 207(j) (proviso), 62 Stat. 366. |
+|  | 34 U.S.C. 43g(g). | Apr. 16, 1947, ch. 38, § 207(h), 61 Stat. 50; redesignated (g), Aug. 7, 1947, ch. 512, § 434(d), 61 Stat. 882; May 16, 1950, ch. 186, § 3(j), 64 Stat. 162. |
+|  | 34 U.S.C. 625h(a). | June 12, 1948, ch. 449, § 213(a), 62 Stat. 369. |
 
 The words “and a part of a year that is less than six months is disregarded” are added for clarity. The legislative history of the Career Compensation Act of 1949, which contains a provision identical to those codified in this section, indicates that all of these provisions are construed as requiring a fractional year of less than six months to be disregarded (hearing before the Committee on Armed Services of the Senate on H.R. 5007, 81st Cong., 1st sess., p. 313, July 6, 1949).
 
@@ -463,7 +463,7 @@ The words “and a part of a year that is less than six months is disregarded”
 
 **Prior Provisions**
 
-A prior section 8374, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1528, provided that promotion of reserve commissioned officers be effective upon Federal recognition in next higher grade of Air National Guard, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14308(f) of this title.
+A prior section 8374, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1528, provided that promotion of reserve commissioned officers be effective upon Federal recognition in next higher grade of Air National Guard, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14308(f) of this title.
 
 **Amendments**
 
@@ -487,7 +487,7 @@ Amendment by Pub. L. 98–94 applicable with respect to the computation of retir
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 8375. Navy and Marine Corps; warrant officers, W–1: limitation on dismissal
+## § 8375. Navy and Marine Corps; warrant officers, W–1: limitation on dismissal
 
 **(a)** No officer who holds the grade of warrant officer, W–1, may be dismissed from the Navy or the Marine Corps except in time of war, by order of the President.
 
@@ -497,15 +497,15 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 **(2)** is sentenced to confinement in a Federal or State penitentiary or correctional institution after having been found guilty of an offense by a court other than a court-martial or other military court, and whose sentence has become final.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 416, § 6408; renumbered § 8375, Pub. L. 115–232, div. A, title VIII, § 807(b)(16), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 416, § 6408; renumbered § 8375, Pub. L. 115–232, div. A, title VIII, § 807(b)(16), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6408 | 50 U.S.C. 739 (as applicable to warrant officers, W–1, of the Navy and the Marine Corps). | May 5, 1950, ch. 169, § 10 (as applicable to warrant officers, W–1, of the Navy and the Marine Corps), 64 Stat. 146. |
+| 6408 | 50 U.S.C. 739 (as applicable to warrant officers, W–1, of the Navy and the Marine Corps). | May 5, 1950, ch. 169, § 10 (as applicable to warrant officers, W–1, of the Navy and the Marine Corps), 64 Stat. 146. |
 
-This section reflects the opinion of the Judge Advocate General of the Navy (JAG:I:2:ERS:cmr, dtd. 13 April 1954) that 50 U.S.C. 739 applies to warrant officers (now warrant officers, W–1), of the Navy and the Marine Corps. The Warrant Officer Act of 1954 established the grade of warrant officer, W–1, in lieu of the former warrant officer (as distinguished from commissioned warrant officer) grades. 50 U.S.C. 739, as applicable to officers above the grade of warrant officer, W–1, is codified in § 1161 of this title.
+This section reflects the opinion of the Judge Advocate General of the Navy (JAG:I:2:ERS:cmr, dtd. 13 April 1954) that 50 U.S.C. 739 applies to warrant officers (now warrant officers, W–1), of the Navy and the Marine Corps. The Warrant Officer Act of 1954 established the grade of warrant officer, W–1, in lieu of the former warrant officer (as distinguished from commissioned warrant officer) grades. 50 U.S.C. 739, as applicable to officers above the grade of warrant officer, W–1, is codified in § 1161 of this title.
 
 In subsection (a) the words “by sentence of a general court-martial, or in commutation thereof” are omitted since the separation from the service of a warrant officer, W–1, by sentence of court-martial is effected by dishonorable discharge.
 
@@ -515,23 +515,23 @@ In subsection (b) the words “from his place of duty” are omitted as surplusa
 
 **Prior Provisions**
 
-Prior sections 8375 to 8378 were repealed by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
+Prior sections 8375 to 8378 were repealed by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
 
-Section 8375, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1528; amended Pub. L. 86–559, § 1(59), June 30, 1960, 74 Stat. 277; Pub. L. 96–513, title V, § 514(3), Dec. 12, 1980, 94 Stat. 2935, related to transfer or discharge of officers promoted to reserve grade of brigadier general or major general ceasing to occupy those positions. See section 14314(a), (c) of this title.
+Section 8375, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1528; amended Pub. L. 86–559, § 1(59), June 30, 1960, 74 Stat. 277; Pub. L. 96–513, title V, § 514(3), Dec. 12, 1980, 94 Stat. 2935, related to transfer or discharge of officers promoted to reserve grade of brigadier general or major general ceasing to occupy those positions. See section 14314(a), (c) of this title.
 
-Section 8376, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1528; amended Pub. L. 86–559, § 1(60), June 30, 1960, 74 Stat. 277, related to promotion of commissioned officers of Air Force Reserve or Air National Guard of United States to higher reserve grades after temporary appointments. See section 14301 et seq. of this title.
+Section 8376, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1528; amended Pub. L. 86–559, § 1(60), June 30, 1960, 74 Stat. 277, related to promotion of commissioned officers of Air Force Reserve or Air National Guard of United States to higher reserve grades after temporary appointments. See section 14301 et seq. of this title.
 
-Section 8377, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1529; amended Pub. L. 86–559, § 1(61), June 30, 1960, 74 Stat. 277, related to effect of removal of reserve commissioned officer from recommended promotion list by President. See section 14301 et seq. of this title.
+Section 8377, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1529; amended Pub. L. 86–559, § 1(61), June 30, 1960, 74 Stat. 277, related to effect of removal of reserve commissioned officer from recommended promotion list by President. See section 14301 et seq. of this title.
 
-Section 8378, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1530, related to promotion of reserve commissioned officers removed from active status. See section 14317(a) of this title.
+Section 8378, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1530, related to promotion of reserve commissioned officers removed from active status. See section 14317(a) of this title.
 
-A prior section 8379, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1530, provided that appointing commissioned officers of Air National Guard was function of governors, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1636(c), Oct. 5, 1994, 108 Stat. 2968, effective Feb. 10, 1996.
+A prior section 8379, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1530, provided that appointing commissioned officers of Air National Guard was function of governors, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1636(c), Oct. 5, 1994, 108 Stat. 2968, effective Feb. 10, 1996.
 
-Prior sections 8380 and 8381 were repealed by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
+Prior sections 8380 and 8381 were repealed by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
 
-Section 8380, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1530; amended Pub. L. 86–559, § 1(62), June 30, 1960, 74 Stat. 277; Pub. L. 98–94, title X, § 1015(b)(1), Sept. 24, 1983, 97 Stat. 667; Pub. L. 99–145, title V, § 521(b), Nov. 8, 1985, 99 Stat. 631; Pub. L. 100–180, div. A, title V, § 502(b)(1), Dec. 4, 1987, 101 Stat. 1085; Pub. L. 101–189, div. A, title V, § 503(b)(1), Nov. 29, 1989, 103 Stat. 1437; Pub. L. 102–484, div. A, title V, § 519(b), Oct. 23, 1992, 106 Stat. 2408; Pub. L. 103–160, div. A, title V, § 514(b), Nov. 30, 1993, 107 Stat. 1649; Pub. L. 104–106, div. A, title V, § 511(b), title XV, § 1501(c)(31), Feb. 10, 1996, 110 Stat. 298, 500, related to promotion of reserve commissioned officers on active duty and not on the active duty list. See section 14311(e) of this title.
+Section 8380, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1530; amended Pub. L. 86–559, § 1(62), June 30, 1960, 74 Stat. 277; Pub. L. 98–94, title X, § 1015(b)(1), Sept. 24, 1983, 97 Stat. 667; Pub. L. 99–145, title V, § 521(b), Nov. 8, 1985, 99 Stat. 631; Pub. L. 100–180, div. A, title V, § 502(b)(1), Dec. 4, 1987, 101 Stat. 1085; Pub. L. 101–189, div. A, title V, § 503(b)(1), Nov. 29, 1989, 103 Stat. 1437; Pub. L. 102–484, div. A, title V, § 519(b), Oct. 23, 1992, 106 Stat. 2408; Pub. L. 103–160, div. A, title V, § 514(b), Nov. 30, 1993, 107 Stat. 1649; Pub. L. 104–106, div. A, title V, § 511(b), title XV, § 1501(c)(31), Feb. 10, 1996, 110 Stat. 298, 500, related to promotion of reserve commissioned officers on active duty and not on the active duty list. See section 14311(e) of this title.
 
-Section 8381, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1531; amended Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to transfer, discharge, or withdrawal of Federal recognition of reserve officers ceasing to occupy position of adjutant general or assistant adjutant general. See section 14314(b), (c) of this title.
+Section 8381, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1531; amended Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to transfer, discharge, or withdrawal of Federal recognition of reserve officers ceasing to occupy position of adjutant general or assistant adjutant general. See section 14314(b), (c) of this title.
 
 **Amendments**
 

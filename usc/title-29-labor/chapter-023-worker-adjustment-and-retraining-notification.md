@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 23—WORKER ADJUSTMENT AND RETRAINING NOTIFICATION
 
-## § 2101. Definitions; exclusions from definition of loss of employment
+## § 2101. Definitions; exclusions from definition of loss of employment
 
 **(a) Definitions** As used in this chapter—
 
@@ -61,19 +61,19 @@ retrieved: 2026-10-11
 
 **(B)** the employer offers to transfer the employee to any other site of employment regardless of distance with no more than a 6-month break in employment, and the employee accepts within 30 days of the offer or of the closing or layoff, whichever is later.
 
-(Pub. L. 100–379, § 2, Aug. 4, 1988, 102 Stat. 890.)
+(Pub. L. 100–379, § 2, Aug. 4, 1988, 102 Stat. 890.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–379, § 11, Aug. 4, 1988, 102 Stat. 895, provided that: “This Act [enacting this chapter] shall take effect on the date which is 6 months after the date of enactment of this Act [Aug. 4, 1988], except that the authority of the Secretary of Labor under section 8 [section 2107 of this title] is effective upon enactment.”
+Pub. L. 100–379, § 11, Aug. 4, 1988, 102 Stat. 895, provided that: “This Act [enacting this chapter] shall take effect on the date which is 6 months after the date of enactment of this Act [Aug. 4, 1988], except that the authority of the Secretary of Labor under section 8 [section 2107 of this title] is effective upon enactment.”
 
 **Short Title**
 
-Pub. L. 100–379, § 1(a), Aug. 4, 1988, 102 Stat. 890, provided that: “This Act [enacting this chapter] may be cited as the ‘Worker Adjustment and Retraining Notification Act’.”
+Pub. L. 100–379, § 1(a), Aug. 4, 1988, 102 Stat. 890, provided that: “This Act [enacting this chapter] may be cited as the ‘Worker Adjustment and Retraining Notification Act’.”
 
-## § 2102. Notice required before plant closings and mass layoffs
+## § 2102. Notice required before plant closings and mass layoffs
 
 **(a) Notice to employees, State dislocated worker units, and local governments** An employer shall not order a plant closing or mass layoff until the end of a 60-day period after the employer serves written notice of such an order—
 
@@ -105,7 +105,7 @@ If there is more than one such unit, the unit of local government which the empl
 
 For purposes of this section, in determining whether a plant closing or mass layoff has occurred or will occur, employment losses for 2 or more groups at a single site of employment, each of which is less than the minimum number of employees specified in section 2101(a)(2) or (3) of this title but which in the aggregate exceed that minimum number, and which occur within any 90-day period shall be considered to be a plant closing or mass layoff unless the employer demonstrates that the employment losses are the result of separate and distinct actions and causes and are not an attempt by the employer to evade the requirements of this chapter.
 
-(Pub. L. 100–379, § 3, Aug. 4, 1988, 102 Stat. 891; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(26), (f)(18)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 113–128, title V, § 512(kk), July 22, 2014, 128 Stat. 1722.)
+(Pub. L. 100–379, § 3, Aug. 4, 1988, 102 Stat. 891; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(26), (f)(18)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 113–128, title V, § 512(kk), July 22, 2014, 128 Stat. 1722.)
 
 **Editorial Notes**
 
@@ -113,9 +113,9 @@ For purposes of this section, in determining whether a plant closing or mass lay
 
 2014—Subsec. (a)(2). Pub. L. 113–128 substituted “the State or entity designated by the State to carry out rapid response activities under section 3174(a)(2)(A) of this title,” for “the State or entity designated by the State to carry out rapid response activities under section 2864(a)(2)(A) of this title,”.
 
-1998—Subsec. (a)(2). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(18)], struck out “the State dislocated worker unit or office (referred to in section 1661(b)(2) of this title), or” before “the State or entity”.
+1998—Subsec. (a)(2). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(18)], struck out “the State dislocated worker unit or office (referred to in section 1661(b)(2) of this title), or” before “the State or entity”.
 
-Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(26)], substituted “to the State dislocated worker unit or office (referred to in section 1661(b)(2) of this title), or the State or entity designated by the State to carry out rapid response activities under section 2864(a)(2)(A) of this title, and the chief” for “to the State dislocated worker unit (designated or created under title III of the Job Training Partnership Act) and the chief”.
+Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(26)], substituted “to the State dislocated worker unit or office (referred to in section 1661(b)(2) of this title), or the State or entity designated by the State to carry out rapid response activities under section 2864(a)(2)(A) of this title, and the chief” for “to the State dislocated worker unit (designated or created under title III of the Job Training Partnership Act) and the chief”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -125,13 +125,13 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 **Effective Date of 1998 Amendment**
 
-Amendment by section 101(f) [title VIII, § 405(d)(26)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(18)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) [title VIII, § 405(d)(26)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(18)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 **Effective Date**
 
 Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under section 2101 of this title.
 
-## § 2103. Exemptions
+## § 2103. Exemptions
 
 This chapter shall not apply to a plant closing or mass layoff if—
 
@@ -139,19 +139,19 @@ This chapter shall not apply to a plant closing or mass layoff if—
 
 **(2)** the closing or layoff constitutes a strike or constitutes a lockout not intended to evade the requirements of this chapter. Nothing in this chapter shall require an employer to serve written notice pursuant to section 2102(a) of this title when permanently replacing a person who is deemed to be an economic striker under the National Labor Relations Act [29 U.S.C. 151 et seq.]: *Provided*, That nothing in this chapter shall be deemed to validate or invalidate any judicial or administrative ruling relating to the hiring of permanent replacements for economic strikers under the National Labor Relations Act.
 
-(Pub. L. 100–379, § 4, Aug. 4, 1988, 102 Stat. 892.)
+(Pub. L. 100–379, § 4, Aug. 4, 1988, 102 Stat. 892.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Labor Relations Act, referred to in par. (2), is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
+The National Labor Relations Act, referred to in par. (2), is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
 
 **Effective Date**
 
 Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under section 2101 of this title.
 
-## § 2104. Administration and enforcement of requirements
+## § 2104. Administration and enforcement of requirements
 
 **(a) Civil actions against employers**
 
@@ -187,7 +187,7 @@ In addition, any liability incurred under paragraph (1) with respect to a define
 
 **(7)** For purposes of this subsection, the term,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 “aggrieved employee” means an employee who has worked for the employer ordering the plant closing or mass layoff and who, as a result of the failure by the employer to comply with section 2102 of this title, did not receive timely notice either directly or through his or her representative as required by section 2102 of this title.
 
@@ -195,7 +195,7 @@ In addition, any liability incurred under paragraph (1) with respect to a define
 
 The remedies provided for in this section shall be the exclusive remedies for any violation of this chapter. Under this chapter, a Federal court shall not have authority to enjoin a plant closing or mass layoff.
 
-(Pub. L. 100–379, § 5, Aug. 4, 1988, 102 Stat. 893.)
+(Pub. L. 100–379, § 5, Aug. 4, 1988, 102 Stat. 893.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -203,11 +203,11 @@ The remedies provided for in this section shall be the exclusive remedies for an
 
 Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under section 2101 of this title.
 
-## § 2105. Procedures in addition to other rights of employees
+## § 2105. Procedures in addition to other rights of employees
 
 The rights and remedies provided to employees by this chapter are in addition to, and not in lieu of, any other contractual or statutory rights and remedies of the employees, and are not intended to alter or affect such rights and remedies, except that the period of notification required by this chapter shall run concurrently with any period of notification required by contract or by any other statute.
 
-(Pub. L. 100–379, § 6, Aug. 4, 1988, 102 Stat. 894.)
+(Pub. L. 100–379, § 6, Aug. 4, 1988, 102 Stat. 894.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -215,11 +215,11 @@ The rights and remedies provided to employees by this chapter are in addition to
 
 Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under section 2101 of this title.
 
-## § 2106. Procedures encouraged where not required
+## § 2106. Procedures encouraged where not required
 
 It is the sense of Congress that an employer who is not required to comply with the notice requirements of section 2102 of this title should, to the extent possible, provide notice to its employees about a proposal to close a plant or permanently reduce its workforce.
 
-(Pub. L. 100–379, § 7, Aug. 4, 1988, 102 Stat. 894.)
+(Pub. L. 100–379, § 7, Aug. 4, 1988, 102 Stat. 894.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -227,13 +227,13 @@ It is the sense of Congress that an employer who is not required to comply with 
 
 Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under section 2101 of this title.
 
-## § 2107. Authority to prescribe regulations
+## § 2107. Authority to prescribe regulations
 
 **(a)** The Secretary of Labor shall prescribe such regulations as may be necessary to carry out this chapter. Such regulations shall, at a minimum, include interpretative regulations describing the methods by which employers may provide for appropriate service of notice as required by this chapter.
 
 **(b)** The mailing of notice to an employee’s last known address or inclusion of notice in the employee’s paycheck will be considered acceptable methods for fulfillment of the employer’s obligation to give notice to each affected employee under this chapter.
 
-(Pub. L. 100–379, § 8, Aug. 4, 1988, 102 Stat. 894.)
+(Pub. L. 100–379, § 8, Aug. 4, 1988, 102 Stat. 894.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -241,19 +241,19 @@ Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–3
 
 Section effective 6 months after Aug. 4, 1988, except that the authority of the Secretary of Labor under this section is effective on Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under section 2101 of this title.
 
-## § 2108. Effect on other laws
+## § 2108. Effect on other laws
 
 The giving of notice pursuant to this chapter, if done in good faith compliance with this chapter, shall not constitute a violation of the National Labor Relations Act [29 U.S.C. 151 et seq.] or the Railway Labor Act [45 U.S.C. 151 et seq.].
 
-(Pub. L. 100–379, § 9, Aug. 4, 1988, 102 Stat. 894.)
+(Pub. L. 100–379, § 9, Aug. 4, 1988, 102 Stat. 894.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Labor Relations Act, referred to in text, is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
+The National Labor Relations Act, referred to in text, is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
 
-The Railway Labor Act, referred to in text, is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in text, is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -261,11 +261,11 @@ The Railway Labor Act, referred to in text, is act May 20, 1926, ch. 347, 44 Sta
 
 Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under section 2101 of this title.
 
-## § 2109. Report on employment and international competitiveness
+## § 2109. Report on employment and international competitiveness
 
 Two years after August 4, 1988, the Comptroller General shall submit to the Committee on Small Business of both the House and Senate, the Committee on Labor and Human Resources, and the Committee on Education and Labor a report containing a detailed and objective analysis of the effect of this chapter on employers (especially small- and medium-sized businesses), the economy (international competitiveness), and employees (in terms of levels and conditions of employment). The Comptroller General shall assess both costs and benefits, including the effect on productivity, competitiveness, unemployment rates and compensation, and worker retraining and readjustment.
 
-(Pub. L. 100–379, § 10, Aug. 4, 1988, 102 Stat. 894.)
+(Pub. L. 100–379, § 10, Aug. 4, 1988, 102 Stat. 894.)
 
 **Statutory Notes and Related Subsidiaries**
 

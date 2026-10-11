@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 40—INTERNATIONAL EXPOSITIONS
 
-## § 2801. Congressional findings
+## § 2801. Congressional findings
 
 The Congress finds that—
 
@@ -25,9 +25,9 @@ The Congress finds that—
 
 **(c)** such orderly consideration is best achieved by the development of uniform standards, criteria, and procedures to establish the conditions under which the Government hereafter will (A) recognize international expositions proposed to be held in the United States, and (B) take part in such expositions.
 
-(Pub. L. 91–269, § 1, May 27, 1970, 84 Stat. 271.)
+(Pub. L. 91–269, § 1, May 27, 1970, 84 Stat. 271.)
 
-## § 2802. Federal recognition
+## § 2802. Federal recognition
 
 **(a) Eligibility requirements** Any international exposition proposed to be held in the United States shall be eligible on application from its sponsors to receive the recognition of the Federal Government upon a finding of the President that recognition will be in the national interest. In making such a finding the President shall consider—
 
@@ -49,9 +49,9 @@ The Congress finds that—
 
 The President shall report his actions under this section promptly to the Congress.
 
-(Pub. L. 91–269, § 2, May 27, 1970, 84 Stat. 271.)
+(Pub. L. 91–269, § 2, May 27, 1970, 84 Stat. 271.)
 
-## § 2803. Federal participation
+## § 2803. Federal participation
 
 **(a) Congressional authorization; proposals** The Federal Government may participate in an international exposition proposed to be held in the United States only upon the authorization of the Congress. If the President finds that Federal participation is in the national interest, he shall transmit to the Congress his proposal for such participation, which proposal shall include—
 
@@ -91,44 +91,44 @@ The President shall report his actions under this section promptly to the Congre
 
 **(2)** a Federal pavilion is temporary if the Federal pavilion is designed to satisfy the minimum needs of the Federal Government described in subsection (b)(1)(B)(i) of this section and is intended for disposal by the Federal Government after the termination of participation in the exposition.
 
-(Pub. L. 91–269, § 3, May 27, 1970, 84 Stat. 272; Pub. L. 97–254, § 16(a), Sept. 8, 1982, 96 Stat. 812.)
+(Pub. L. 91–269, § 3, May 27, 1970, 84 Stat. 272; Pub. L. 97–254, § 16(a), Sept. 8, 1982, 96 Stat. 812.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1982—Subsec. (a). Pub. L. 97–254, § 16(a)(1)–(3), designated existing provisions as subsec. (a), redesignated cls. (a) to (c) thereof as cls. (1) to (3) respectively, and in cl. (3) as so redesignated, substituted provisions requiring the Secretary of Commerce to include in a plan under this section any documentation, designs, or recommendations described in subsec. (b) of this section for provisions that the Secretary in developing a plan should consider whether there was a need for the construction of a Federal pavilion, and if so, that there could be included in the plan a recommendation that Government participation in the exposition be conditioned on its being deeded a satisfactory site for the pavilion and that the Secretary would seek the advice of the Administrator of the General Services Administration in carrying out the provisions of former subsec. (c).
+1982—Subsec. (a). Pub. L. 97–254, § 16(a)(1)–(3), designated existing provisions as subsec. (a), redesignated cls. (a) to (c) thereof as cls. (1) to (3) respectively, and in cl. (3) as so redesignated, substituted provisions requiring the Secretary of Commerce to include in a plan under this section any documentation, designs, or recommendations described in subsec. (b) of this section for provisions that the Secretary in developing a plan should consider whether there was a need for the construction of a Federal pavilion, and if so, that there could be included in the plan a recommendation that Government participation in the exposition be conditioned on its being deeded a satisfactory site for the pavilion and that the Secretary would seek the advice of the Administrator of the General Services Administration in carrying out the provisions of former subsec. (c).
 
-Subsecs. (b) to (d). Pub. L. 97–254, § 16(a)(4), added subsecs. (b) to (d).
+Subsecs. (b) to (d). Pub. L. 97–254, § 16(a)(4), added subsecs. (b) to (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1982 Amendment**
 
-Amendment by Pub. L. 97–254 effective Sept. 8, 1982, see Pub. L. 97–254, § 15, Sept. 18, 1982, 96 Stat. 812.
+Amendment by Pub. L. 97–254 effective Sept. 8, 1982, see Pub. L. 97–254, § 15, Sept. 18, 1982, 96 Stat. 812.
 
-## § 2804. Establishment of standards and criteria; publication in the Federal Register
+## § 2804. Establishment of standards and criteria; publication in the Federal Register
 
 **(a)** The Secretary of Commerce is hereby authorized and directed to establish and maintain standards, definitions, and criteria which are adequate to carry out the purposes of section 2802(a)(1) and section 2803(a) of this title; and
 
 **(b)** Standards, definitions, and criteria established by the Secretary and such revisions in them as he may make from time to time shall be published in the Federal Register.
 
-(Pub. L. 91–269, § 4, May 27, 1970, 84 Stat. 272.)
+(Pub. L. 91–269, § 4, May 27, 1970, 84 Stat. 272.)
 
-## § 2805. Withdrawal of Federal recognition or participation
+## § 2805. Withdrawal of Federal recognition or participation
 
 The President may withdraw Federal recognition or participation whenever he finds that continuing recognition or participation would be inconsistent with the national interest and with the purposes of this chapter.
 
-(Pub. L. 91–269, § 5, May 27, 1970, 84 Stat. 272.)
+(Pub. L. 91–269, § 5, May 27, 1970, 84 Stat. 272.)
 
-## § 2806. Other provisions unaffected
+## § 2806. Other provisions unaffected
 
 Nothing in this chapter shall affect or limit the authority of Federal departments and agencies to participate in international expositions or events otherwise authorized by law.
 
-(Pub. L. 91–269, § 6, May 27, 1970, 84 Stat. 272.)
+(Pub. L. 91–269, § 6, May 27, 1970, 84 Stat. 272.)
 
-## § 2807. Authorization of appropriations
+## § 2807. Authorization of appropriations
 
 There are authorized to be appropriated such sums, not to exceed $200,000 in any fiscal year, as may be necessary to carry out the purposes of this chapter.
 
-(Pub. L. 91–269, § 8, May 27, 1970, 84 Stat. 272.)
+(Pub. L. 91–269, § 8, May 27, 1970, 84 Stat. 272.)

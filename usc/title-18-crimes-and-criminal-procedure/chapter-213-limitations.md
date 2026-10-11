@@ -19,41 +19,41 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2010—Pub. L. 111–203, title X, § 1079A(b)(2), July 21, 2010, 124 Stat. 2079, added item 3301.
+2010—Pub. L. 111–203, title X, § 1079A(b)(2), July 21, 2010, 124 Stat. 2079, added item 3301.
 
-2008—Pub. L. 110–340, § 2(a)(3)(B), Oct. 3, 2008, 122 Stat. 3736, added item 3300.
+2008—Pub. L. 110–340, § 2(a)(3)(B), Oct. 3, 2008, 122 Stat. 3736, added item 3300.
 
-2006—Pub. L. 109–248, title II, § 211(2), July 27, 2006, 120 Stat. 616, added item 3299.
+2006—Pub. L. 109–248, title II, § 211(2), July 27, 2006, 120 Stat. 616, added item 3299.
 
-Pub. L. 109–162, title XI, § 1182(b), Jan. 5, 2006, 119 Stat. 3126, added item 3298.
+Pub. L. 109–162, title XI, § 1182(b), Jan. 5, 2006, 119 Stat. 3126, added item 3298.
 
-2004—Pub. L. 108–405, title II, § 204(b), Oct. 30, 2004, 118 Stat. 2271, added item 3297.
+2004—Pub. L. 108–405, title II, § 204(b), Oct. 30, 2004, 118 Stat. 2271, added item 3297.
 
-2002—Pub. L. 107–273, div. B, title III, § 3003(b), Nov. 2, 2002, 116 Stat. 1805, added item 3296.
+2002—Pub. L. 107–273, div. B, title III, § 3003(b), Nov. 2, 2002, 116 Stat. 1805, added item 3296.
 
-1996—Pub. L. 104–132, title VII, § 708(c)(2), Apr. 24, 1996, 110 Stat. 1297, added item 3295.
+1996—Pub. L. 104–132, title VII, § 708(c)(2), Apr. 24, 1996, 110 Stat. 1297, added item 3295.
 
-1994—Pub. L. 103–322, title XII, § 120001(c), title XXXII, § 320902(d)(2), title XXXIII, § 330018(c), Sept. 13, 1994, 108 Stat. 2021, 2124, 2149, substituted “Child abuse offenses” for “Customs and slave trade violations” in item 3283 and added items 3286 and 3294.
+1994—Pub. L. 103–322, title XII, § 120001(c), title XXXII, § 320902(d)(2), title XXXIII, § 330018(c), Sept. 13, 1994, 108 Stat. 2021, 2124, 2149, substituted “Child abuse offenses” for “Customs and slave trade violations” in item 3283 and added items 3286 and 3294.
 
-1990—Pub. L. 101–647, title XII, § 1207(b), Nov. 29, 1990, 104 Stat. 4832, struck out item 3286 “Seduction on vessel of United States”.
+1990—Pub. L. 101–647, title XII, § 1207(b), Nov. 29, 1990, 104 Stat. 4832, struck out item 3286 “Seduction on vessel of United States”.
 
-1989—Pub. L. 101–73, title IX, § 961(*l*)(2), Aug. 9, 1989, 103 Stat. 501, added item 3293.
+1989—Pub. L. 101–73, title IX, § 961(*l*)(2), Aug. 9, 1989, 103 Stat. 501, added item 3293.
 
-1988—Pub. L. 100–690, title VII, § 7081(c), Nov. 18, 1988, 102 Stat. 4407, substituted “Indictments and information dismissed after period of limitations” for “Reindictment where defect found after period of limitations” in item 3288 and “Indictments and information dismissed before period of limitations” for “Reindictment where defect found before period of limitations” in item 3289.
+1988—Pub. L. 100–690, title VII, § 7081(c), Nov. 18, 1988, 102 Stat. 4407, substituted “Indictments and information dismissed after period of limitations” for “Reindictment where defect found after period of limitations” in item 3288 and “Indictments and information dismissed before period of limitations” for “Reindictment where defect found before period of limitations” in item 3289.
 
-1984—Pub. L. 98–473, title II, § 1218(b), Oct. 12, 1984, 98 Stat. 2167, added item 3292.
+1984—Pub. L. 98–473, title II, § 1218(b), Oct. 12, 1984, 98 Stat. 2167, added item 3292.
 
-1951—Act June 30, 1951, ch. 194, § 2, 65 Stat. 107, added item 3291.
+1951—Act June 30, 1951, ch. 194, § 2, 65 Stat. 107, added item 3291.
 
-## § 3281. Capital offenses
+## § 3281. Capital offenses
 
 An indictment for any offense punishable by death may be found at any time without limitation.
 
-(June 25, 1948, ch. 645, 62 Stat. 827; Pub. L. 103–322, title XXXIII, § 330004(16), Sept. 13, 1994, 108 Stat. 2142.)
+(June 25, 1948, ch. 645, 62 Stat. 827; Pub. L. 103–322, title XXXIII, § 330004(16), Sept. 13, 1994, 108 Stat. 2142.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 581a, 581b (Aug. 4, 1939, ch. 419, §§ 1, 2, 53 Stat. 1198).
+Based on title 18, U.S.C., 1940 ed., §§ 581a, 581b (Aug. 4, 1939, ch. 419, §§ 1, 2, 53 Stat. 1198).
 
 Sections 581a and 581b of title 18, U.S.C., 1940 ed., were consolidated into this section without change of substance.
 
@@ -63,7 +63,7 @@ Sections 581a and 581b of title 18, U.S.C., 1940 ed., were consolidated into thi
 
 1994—Pub. L. 103–322 struck out before period at end “except for offenses barred by the provisions of law existing on August 4, 1939”.
 
-## § 3282. Offenses not capital
+## § 3282. Offenses not capital
 
 **(a) In General.—** Except as otherwise expressly provided by law, no person shall be prosecuted, tried, or punished for any offense, not capital, unless the indictment is found or the information is instituted within five years next after such offense shall have been committed.
 
@@ -79,11 +79,11 @@ Sections 581a and 581b of title 18, U.S.C., 1940 ed., were consolidated into thi
 
 **(3) Defined term.—** For purposes of this subsection, the term “DNA profile” means a set of DNA identification characteristics.
 
-(June 25, 1948, ch. 645, 62 Stat. 828; Sept. 1, 1954, ch. 1214, § 12(a), formerly § 10(a), 68 Stat. 1145; renumbered Pub. L. 87–299, § 1, Sept. 26, 1961, 75 Stat. 648; Pub. L. 108–21, title VI, § 610(a), Apr. 30, 2003, 117 Stat. 692.)
+(June 25, 1948, ch. 645, 62 Stat. 828; Sept. 1, 1954, ch. 1214, § 12(a), formerly § 10(a), 68 Stat. 1145; renumbered Pub. L. 87–299, § 1, Sept. 26, 1961, 75 Stat. 648; Pub. L. 108–21, title VI, § 610(a), Apr. 30, 2003, 117 Stat. 692.)
 
 **Historical and Revision Notes**
 
-Based on section 746(g) of title 8, U.S.C., 1940 ed., Aliens and Nationality, and on title 18, U.S.C., 1940 ed., § 582 (R.S. § 1044; Apr. 13, 1876, ch. 56, 19 Stat. 32; Nov. 17, 1921, ch. 124, § 1, 42 Stat. 220; Dec. 27, 1927, ch. 6, 45 Stat. 51; Oct. 14, 1940, ch. 876, title I, subchap. III, § 346(g), 54 Stat. 1167).
+Based on section 746(g) of title 8, U.S.C., 1940 ed., Aliens and Nationality, and on title 18, U.S.C., 1940 ed., § 582 (R.S. § 1044; Apr. 13, 1876, ch. 56, 19 Stat. 32; Nov. 17, 1921, ch. 124, § 1, 42 Stat. 220; Dec. 27, 1927, ch. 6, 45 Stat. 51; Oct. 14, 1940, ch. 876, title I, subchap. III, § 346(g), 54 Stat. 1167).
 
 Section 582 of title 18, U.S.C., 1940 ed., and section 746(g) of title 8, U.S.C., 1940 ed., Aliens and Nationality, were consolidated. “Except as otherwise expressly provided by law” was inserted to avoid enumeration of exceptive provisions.
 
@@ -103,7 +103,7 @@ In the consolidation of these sections the 5-year period of limitation for viola
 
 **Effective Date of 1954 Amendment**
 
-Act Sept. 1, 1954, ch. 1214, § 12(b), formerly section 10(b), 68 Stat. 1145, as renumbered by Pub. L. 87–299, § 1, Sept. 26, 1961, 75 Stat. 648, provided that: “The amendment made by subsection (a) [amending this section] shall be effective with respect to offenses (1) committed on or after September 1, 1954, or (2) committed prior to such date, if on such date prosecution therefor is not barred by provisions of law in effect prior to such date.”
+Act Sept. 1, 1954, ch. 1214, § 12(b), formerly section 10(b), 68 Stat. 1145, as renumbered by Pub. L. 87–299, § 1, Sept. 26, 1961, 75 Stat. 648, provided that: “The amendment made by subsection (a) [amending this section] shall be effective with respect to offenses (1) committed on or after September 1, 1954, or (2) committed prior to such date, if on such date prosecution therefor is not barred by provisions of law in effect prior to such date.”
 
 **Fugitives From Justice**
 
@@ -117,15 +117,15 @@ Limitation period in connection with offenses against internal security, see sec
 
 Limitation period in connection with sections 792, 793, and 794 of this title, see note set out under section 792.
 
-## § 3283. Offenses against children
+## § 3283. Offenses against children
 
 No statute of limitations that would otherwise preclude prosecution for an offense involving the sexual or physical abuse, or kidnaping, of a child under the age of 18 years shall preclude such prosecution during the life of the child, or for ten years after the offense, whichever is longer.
 
-(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 103–322, title XXXIII, § 330018(a), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 108–21, title II, § 202, Apr. 30, 2003, 117 Stat. 660; Pub. L. 109–162, title XI, § 1182(c), Jan. 5, 2006, 119 Stat. 3126.)
+(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 103–322, title XXXIII, § 330018(a), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 108–21, title II, § 202, Apr. 30, 2003, 117 Stat. 660; Pub. L. 109–162, title XI, § 1182(c), Jan. 5, 2006, 119 Stat. 3126.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 584 (R.S. § 1046; July 5, 1884, ch. 225, § 2, 23 Stat. 122).
+Based on title 18, U.S.C., 1940 ed., § 584 (R.S. § 1046; July 5, 1884, ch. 225, § 2, 23 Stat. 122).
 
 Words “customs laws” were substituted for “revenue laws,” since different limitations are provided for internal revenue violations by section 3748 of title 26, U.S.C., 1940 ed., Internal Revenue Code.
 
@@ -147,21 +147,21 @@ Changes were made in phraseology.
 
 **Amendments**
 
-2006—Pub. L. 109–162 inserted “, or for ten years after the offense, whichever is longer” after “of the child”.
+2006—Pub. L. 109–162 inserted “, or for ten years after the offense, whichever is longer” after “of the child”.
 
 2003—Pub. L. 108–21 substituted “Offenses against children” for “Child abuse offenses” in section catchline and amended text generally. Prior to amendment, text read as follows: “No statute of limitations that would otherwise preclude prosecution for an offense involving the sexual or physical abuse of a child under the age of 18 years shall preclude such prosecution before the child reaches the age of 25 years.”
 
 1994—Pub. L. 103–322 substituted “Child abuse offenses” for “Customs and slave trade violations” as section catchline and amended text generally. Prior to amendment, text read as follows: “No person shall be prosecuted, tried or punished for any violation of the customs laws or the slave trade laws of the United States unless the indictment is found or the information is instituted within five years next after the commission of the offense.”
 
-## § 3284. Concealment of bankrupt’s assets
+## § 3284. Concealment of bankrupt’s assets
 
 The concealment of assets of a debtor in a case under title 11 shall be deemed to be a continuing offense until the debtor shall have been finally discharged or a discharge denied, and the period of limitations shall not begin to run until such final discharge or denial of discharge.
 
-(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 95–598, title III, § 314(k), Nov. 6, 1978, 92 Stat. 2678.)
+(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 95–598, title III, § 314(k), Nov. 6, 1978, 92 Stat. 2678.)
 
 **Historical and Revision Notes**
 
-Based on section 52(d) of title 11, U.S.C., 1940 ed., Bankruptcy (May 27, 1926, ch. 406, § 11d, 44 Stat. 665; June 22, 1938, ch. 575, § 1, 52 Stat. 856).
+Based on section 52(d) of title 11, U.S.C., 1940 ed., Bankruptcy (May 27, 1926, ch. 406, § 11d, 44 Stat. 665; June 22, 1938, ch. 575, § 1, 52 Stat. 856).
 
 The 3-year-limitation provision was omitted as unnecessary in view of the general statute, section 3282 of this title.
 
@@ -185,9 +185,9 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 **Savings Provision**
 
-Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 
-## § 3285. Criminal contempt
+## § 3285. Criminal contempt
 
 No proceeding for criminal contempt within section 402 of this title shall be instituted against any person, corporation or association unless begun within one year from the date of the act complained of; nor shall any such proceeding be a bar to any criminal prosecution for the same act.
 
@@ -195,71 +195,71 @@ No proceeding for criminal contempt within section 402 of this title shall be in
 
 **Historical and Revision Notes**
 
-Based on section 390 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Oct. 15, 1914, ch. 323, § 25, 38 Stat. 740).
+Based on section 390 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Oct. 15, 1914, ch. 323, § 25, 38 Stat. 740).
 
 Word “criminal” was inserted before “contempt” in first line. Words “within section 402 of this title” were inserted after “contempt”.
 
-The correct meaning and narrow application of title 28, U.S.C., 1940 ed., § 390, are preserved, as section 389 of that title is incorporated in sections 402 and 3691 of this title.
+The correct meaning and narrow application of title 28, U.S.C., 1940 ed., § 390, are preserved, as section 389 of that title is incorporated in sections 402 and 3691 of this title.
 
 Words “corporation or association” were inserted after “person”, thus embodying applicable definition of section 390a of title 28, U.S.C., 1940 ed. (See reviser’s note under section 402 of this title.)
 
-## § 3286. Extension of statute of limitation for certain terrorism offenses
+## § 3286. Extension of statute of limitation for certain terrorism offenses
 
 **(a) Eight-Year Limitation.—** Notwithstanding section 3282, no person shall be prosecuted, tried, or punished for any noncapital offense involving a violation of any provision listed in section 2332b(g)(5)(B), or a violation of section 112, 351(e), 1361, or 1751(e) of this title, or section 46504, 46505, or 46506 of title 49, unless the indictment is found or the information is instituted within 8 years after the offense was committed. Notwithstanding the preceding sentence, offenses listed in section 3295 are subject to the statute of limitations set forth in that section.
 
-**(b) No Limitation.—** Notwithstanding any other law, an indictment may be found or an information instituted at any time without limitation for any offense listed in section 2332b(g)(5)(B), if the commission of such offense resulted in, or created a forseeable 1
+**(b) No Limitation.—** Notwithstanding any other law, an indictment may be found or an information instituted at any time without limitation for any offense listed in section 2332b(g)(5)(B), if the commission of such offense resulted in, or created a forseeable 1
 
-<sup>1</sup>  So in original. Probably should be “foreseeable”.
+<sup>1</sup> So in original. Probably should be “foreseeable”.
 
 risk of, death or serious bodily injury to another person.
 
-(Added Pub. L. 103–322, title XII, § 120001(a), Sept. 13, 1994, 108 Stat. 2021; amended Pub. L. 104–132, title VII, § 702(c), Apr. 24, 1996, 110 Stat. 1294; Pub. L. 104–294, title VI, § 601(b)(1), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–56, title VIII, § 809(a), Oct. 26, 2001, 115 Stat. 379; Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808.)
+(Added Pub. L. 103–322, title XII, § 120001(a), Sept. 13, 1994, 108 Stat. 2021; amended Pub. L. 104–132, title VII, § 702(c), Apr. 24, 1996, 110 Stat. 1294; Pub. L. 104–294, title VI, § 601(b)(1), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–56, title VIII, § 809(a), Oct. 26, 2001, 115 Stat. 379; Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3286, act June 25, 1948, ch. 645, 62 Stat. 828, related to seduction on vessel of United States, prior to repeal by Pub. L. 101–647, title XII, § 1207(b), Nov. 29, 1990, 104 Stat. 4832.
+A prior section 3286, act June 25, 1948, ch. 645, 62 Stat. 828, related to seduction on vessel of United States, prior to repeal by Pub. L. 101–647, title XII, § 1207(b), Nov. 29, 1990, 104 Stat. 4832.
 
 **Amendments**
 
-2002—Pub. L. 107–273 repealed Pub. L. 104–294, § 601(b)(1). See 1996 Amendment note below.
+2002—Pub. L. 107–273 repealed Pub. L. 104–294, § 601(b)(1). See 1996 Amendment note below.
 
 2001—Pub. L. 107–56 reenacted section catchline without change and amended text generally. Text read as follows: “Notwithstanding section 3282, no person shall be prosecuted, tried, or punished for any non-capital offense involving a violation of section 32 (aircraft destruction), section 37 (airport violence), section 112 (assaults upon diplomats), section 351 (crimes against Congressmen or Cabinet officers), section 1116 (crimes against diplomats), section 1203 (hostage taking), section 1361 (willful injury to government property), section 1751 (crimes against the President), section 2280 (maritime violence), section 2281 (maritime platform violence), section 2332 (terrorist acts abroad against United States nationals), section 2332a (use of weapons of mass destruction), 2332b (acts of terrorism transcending national boundaries), or section 2340A (torture) of this title or section 46502, 46504, 46505, or 46506 of title 49, unless the indictment is found or the information is instituted within 8 years after the offense was committed.”
 
-1996—Pub. L. 104–132, § 702(c)(2)–(4), substituted “2332” for “2331”, “2332a” for “2339”, and “37” for “36”. Pub. L. 104–294, § 601(b)(1), which amended section identically, was repealed by Pub. L. 107–273.
+1996—Pub. L. 104–132, § 702(c)(2)–(4), substituted “2332” for “2331”, “2332a” for “2339”, and “37” for “36”. Pub. L. 104–294, § 601(b)(1), which amended section identically, was repealed by Pub. L. 107–273.
 
-Pub. L. 104–132, § 702(c)(1), (5), inserted “2332b (acts of terrorism transcending national boundaries),” after “(use of weapons of mass destruction),”, and substituted “any non-capital offense” for “any offense”.
+Pub. L. 104–132, § 702(c)(1), (5), inserted “2332b (acts of terrorism transcending national boundaries),” after “(use of weapons of mass destruction),”, and substituted “any non-capital offense” for “any offense”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
+Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–56, title VIII, § 809(b), Oct. 26, 2001, 115 Stat. 380, provided that: “The amendments made by this section [amending this section] shall apply to the prosecution of any offense committed before, on, or after the date of the enactment of this section [Oct. 26, 2001].”
+Pub. L. 107–56, title VIII, § 809(b), Oct. 26, 2001, 115 Stat. 380, provided that: “The amendments made by this section [amending this section] shall apply to the prosecution of any offense committed before, on, or after the date of the enactment of this section [Oct. 26, 2001].”
 
 **Effective Date**
 
-Pub. L. 103–322, title XII, § 120001(b), Sept. 13, 1994, 108 Stat. 2021, provided that: “The amendment made by subsection (a) [enacting this section] shall not apply to any offense committed more than 5 years prior to the date of enactment of this Act [Sept. 13, 1994].”
+Pub. L. 103–322, title XII, § 120001(b), Sept. 13, 1994, 108 Stat. 2021, provided that: “The amendment made by subsection (a) [enacting this section] shall not apply to any offense committed more than 5 years prior to the date of enactment of this Act [Sept. 13, 1994].”
 
-## § 3287. Wartime suspension of limitations
+## § 3287. Wartime suspension of limitations
 
 When the United States is at war or Congress has enacted a specific authorization for the use of the Armed Forces, as described in section 5(b) of the War Powers Resolution (50 U.S.C. 1544(b)), the running of any statute of limitations applicable to any offense (1) involving fraud or attempted fraud against the United States or any agency thereof in any manner, whether by conspiracy or not, or (2) committed in connection with the acquisition, care, handling, custody, control or disposition of any real or personal property of the United States, or (3) committed in connection with the negotiation, procurement, award, performance, payment for, interim financing, cancelation, or other termination or settlement, of any contract, subcontract, or purchase order which is connected with or related to the prosecution of the war or directly connected with or related to the authorized use of the Armed Forces, or with any disposition of termination inventory by any war contractor or Government agency, shall be suspended until 5 years after the termination of hostilities as proclaimed by a Presidential proclamation, with notice to Congress, or by a concurrent resolution of Congress.
 
-Definitions of terms in section 103 1
+Definitions of terms in section 103 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 41 shall apply to similar terms used in this section. For purposes of applying such definitions in this section, the term “war” includes a specific authorization for the use of the Armed Forces, as described in section 5(b) of the War Powers Resolution (50 U.S.C. 1544(b)).
 
-(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 110–329, div. C, title VIII, § 8117, Sept. 30, 2008, 122 Stat. 3647; Pub. L. 110–417, [div. A], title VIII, § 855, Oct. 14, 2008, 122 Stat. 4545; Pub. L. 111–84, div. A, title X, § 1073(c)(7), Oct. 28, 2009, 123 Stat. 2475.)
+(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 110–329, div. C, title VIII, § 8117, Sept. 30, 2008, 122 Stat. 3647; Pub. L. 110–417, [div. A], title VIII, § 855, Oct. 14, 2008, 122 Stat. 4545; Pub. L. 111–84, div. A, title X, § 1073(c)(7), Oct. 28, 2009, 123 Stat. 2475.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 590a (Aug. 24, 1942, ch. 555, § 1, 56 Stat. 747; July 1, 1944, ch. 358, § 19(b), 58 Stat. 667; Oct. 3, 1944, ch. 479, § 28, 58 Stat. 781).
+Based on title 18, U.S.C., 1940 ed., § 590a (Aug. 24, 1942, ch. 555, § 1, 56 Stat. 747; July 1, 1944, ch. 358, § 19(b), 58 Stat. 667; Oct. 3, 1944, ch. 479, § 28, 58 Stat. 781).
 
 The phrase “when the United States is at war” was inserted at the beginning of this section to make it permanent instead of temporary legislation, and to obviate the necessity of reenacting such legislation in the future. This permitted the elimination of references to dates and to the provision limiting the application of the section to transactions not yet fully barred. When the provisions of the War Contract Settlements Act of 1944, upon which this section is based, are considered in connection with said section 590a which it amends, it is obvious that no purpose can be served now by the provisions omitted.
 
@@ -277,13 +277,13 @@ Changes were made in phraseology.
 
 **References in Text**
 
-Section 103 of title 41, referred to in text, probably means section 3 of act July 1, 1944, ch. 358, 58 Stat. 650, which was classified to section 103 of former Title 41, Public Contracts, prior to repeal by Pub. L. 111–350, § 7(b), Jan. 4, 2011, 124 Stat. 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+Section 103 of title 41, referred to in text, probably means section 3 of act July 1, 1944, ch. 358, 58 Stat. 650, which was classified to section 103 of former Title 41, Public Contracts, prior to repeal by Pub. L. 111–350, § 7(b), Jan. 4, 2011, 124 Stat. 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 **Amendments**
 
-2009—Pub. L. 111–84 repealed Pub. L. 110–417, § 855. See 2008 Amendment note below.
+2009—Pub. L. 111–84 repealed Pub. L. 110–417, § 855. See 2008 Amendment note below.
 
-2008—Pub. L. 110–417, § 855, which amended this section identically to amendment by Pub. L. 110–329, was repealed by Pub. L. 111–84. See 2008 Amendment note below.
+2008—Pub. L. 110–417, § 855, which amended this section identically to amendment by Pub. L. 110–329, was repealed by Pub. L. 111–84. See 2008 Amendment note below.
 
 Pub. L. 110–329, in first par., inserted “or Congress has enacted a specific authorization for the use of the Armed Forces, as described in section 5(b) of the War Powers Resolution (50 U.S.C. 1544(b)),” after “is at war” and “or directly connected with or related to the authorized use of the Armed Forces” after “prosecution of the war” and substituted “5 years” for “three years” and “proclaimed by a Presidential proclamation, with notice to Congress,” for “proclaimed by the President”, and, in second par., inserted last sentence.
 
@@ -291,17 +291,17 @@ Pub. L. 110–329, in first par., inserted “or Congress has enacted a specific
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided in part that the amendment made by section 1073(c)(7) of Pub. L. 111–84 is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided in part that the amendment made by section 1073(c)(7) of Pub. L. 111–84 is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
-## § 3288. Indictments and information dismissed after period of limitations
+## § 3288. Indictments and information dismissed after period of limitations
 
 Whenever an indictment or information charging a felony is dismissed for any reason after the period prescribed by the applicable statute of limitations has expired, a new indictment may be returned in the appropriate jurisdiction within six calendar months of the date of the dismissal of the indictment or information, or, in the event of an appeal, within 60 days of the date the dismissal of the indictment or information becomes final, or, if no regular grand jury is in session in the appropriate jurisdiction when the indictment or information is dismissed, within six calendar months of the date when the next regular grand jury is convened, which new indictment shall not be barred by any statute of limitations. This section does not permit the filing of a new indictment or information where the reason for the dismissal was the failure to file the indictment or information within the period prescribed by the applicable statute of limitations, or some other reason that would bar a new prosecution.
 
-(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 88–139, § 2, Oct. 16, 1963, 77 Stat. 248; Pub. L. 88–520, § 1, Aug. 30, 1964, 78 Stat. 699; Pub. L. 100–690, title VII, § 7081(a), Nov. 18, 1988, 102 Stat. 4407.)
+(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 88–139, § 2, Oct. 16, 1963, 77 Stat. 248; Pub. L. 88–520, § 1, Aug. 30, 1964, 78 Stat. 699; Pub. L. 100–690, title VII, § 7081(a), Nov. 18, 1988, 102 Stat. 4407.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 556a, 587, 589 (Apr. 30, 1934, ch. 170, § 1, 48 Stat. 648; May 10, 1934, ch. 278, §§ 1, 3, 48 Stat. 772; July 10, 1940, ch. 567, 54 Stat. 747).
+Based on title 18, U.S.C., 1940 ed., §§ 556a, 587, 589 (Apr. 30, 1934, ch. 170, § 1, 48 Stat. 648; May 10, 1934, ch. 278, §§ 1, 3, 48 Stat. 772; July 10, 1940, ch. 567, 54 Stat. 747).
 
 This section is a consolidation of sections 556a, 587, and 589 of title 18, U.S.C., 1940 ed., without change of substance. (See reviser’s note under section 3289 of this title.)
 
@@ -309,21 +309,21 @@ This section is a consolidation of sections 556a, 587, and 589 of title 18, U.S.
 
 **Amendments**
 
-1988—Pub. L. 100–690, in section catchline, substituted “Indictments and information dismissed after period of limitations” for “Indictment where defect found after period of limitations”, and in text, substituted “Whenever an indictment or information charging a felony is dismissed for any reason” for “Whenever an indictment is dismissed for any error, defect, or irregularity with respect to the grand jury, or an indictment or information filed after the defendant waives in open court prosecution by indictment is found otherwise defective or insufficient for any cause,”, inserted “, or, in the event of an appeal, within 60 days of the date the dismissal of the indictment or information becomes final” after “dismissal of the indictment or information”, and inserted provisions which prohibited filing of new indictment or information where reason for dismissal was failure to file within period prescribed or some other reason that would bar a new prosecution.
+1988—Pub. L. 100–690, in section catchline, substituted “Indictments and information dismissed after period of limitations” for “Indictment where defect found after period of limitations”, and in text, substituted “Whenever an indictment or information charging a felony is dismissed for any reason” for “Whenever an indictment is dismissed for any error, defect, or irregularity with respect to the grand jury, or an indictment or information filed after the defendant waives in open court prosecution by indictment is found otherwise defective or insufficient for any cause,”, inserted “, or, in the event of an appeal, within 60 days of the date the dismissal of the indictment or information becomes final” after “dismissal of the indictment or information”, and inserted provisions which prohibited filing of new indictment or information where reason for dismissal was failure to file within period prescribed or some other reason that would bar a new prosecution.
 
 1964—Pub. L. 88–520 substituted “Indictment” for “Reindictment” in section catchline, included indictments or informations filed after the defendant waives in open court prosecution by indictment which are dismissed for any error, defect, or irregularity, or are otherwise found defective or insufficient, and substituted provisions authorizing the return of a new indictment in the appropriate jurisdiction within six calendar months of the date of the dismissal of the indictment or information, or, if no regular grand jury is in session when the indictment or information is dismissed, within six calendar months of the date when the next grand jury is convened, for provisions which authorized the return of a new indictment not later than the end of the next succeeding regular session of the court, following the session at which the indictment was found defective or insufficient, during which a grand jury shall be in session.
 
 1963—Pub. L. 88–139 substituted “session” for “term” wherever appearing.
 
-## § 3289. Indictments and information dismissed before period of limitations
+## § 3289. Indictments and information dismissed before period of limitations
 
 Whenever an indictment or information charging a felony is dismissed for any reason before the period prescribed by the applicable statute of limitations has expired, and such period will expire within six calendar months of the date of the dismissal of the indictment or information, a new indictment may be returned in the appropriate jurisdiction within six calendar months of the expiration of the applicable statute of limitations, or, in the event of an appeal, within 60 days of the date the dismissal of the indictment or information becomes final, or, if no regular grand jury is in session in the appropriate jurisdiction at the expiration of the applicable statute of limitations, within six calendar months of the date when the next regular grand jury is convened, which new indictment shall not be barred by any statute of limitations. This section does not permit the filing of a new indictment or information where the reason for the dismissal was the failure to file the indictment or information within the period prescribed by the applicable statute of limitations, or some other reason that would bar a new prosecution.
 
-(June 25, 1948, ch. 645, 62 Stat. 829; Pub. L. 88–139, § 2, Oct. 16, 1963, 77 Stat. 248; Pub. L. 88–520, § 2, Aug. 30, 1964, 78 Stat. 699; Pub. L. 100–690, title VII, § 7081(b), Nov. 18, 1988, 102 Stat. 4407; Pub. L. 101–647, title XII, § 1213, title XXV, § 2595(b), title XXXV, § 3580, Nov. 29, 1990, 104 Stat. 4833, 4907, 4929; Pub. L. 103–322, title XXXIII, § 330011(q)(2), Sept. 13, 1994, 108 Stat. 2145.)
+(June 25, 1948, ch. 645, 62 Stat. 829; Pub. L. 88–139, § 2, Oct. 16, 1963, 77 Stat. 248; Pub. L. 88–520, § 2, Aug. 30, 1964, 78 Stat. 699; Pub. L. 100–690, title VII, § 7081(b), Nov. 18, 1988, 102 Stat. 4407; Pub. L. 101–647, title XII, § 1213, title XXV, § 2595(b), title XXXV, § 3580, Nov. 29, 1990, 104 Stat. 4833, 4907, 4929; Pub. L. 103–322, title XXXIII, § 330011(q)(2), Sept. 13, 1994, 108 Stat. 2145.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 556a, 588, 589 (Apr. 30, 1934, ch. 170, § 1, 48 Stat. 648; May 10, 1934, ch. 278, §§ 2, 3, 48 Stat. 772).
+Based on title 18, U.S.C., 1940 ed., §§ 556a, 588, 589 (Apr. 30, 1934, ch. 170, § 1, 48 Stat. 648; May 10, 1934, ch. 278, §§ 2, 3, 48 Stat. 772).
 
 Consolidation of sections 556a, 588, and 589 of title 18, U.S.C., 1940 ed., without change of substance. The provisions of said section 556a, with reference to time of filing motion, were omitted and numerous changes of phraseology were necessary to effect consolidation, particularly in view of rules 6(b) and 12(b)(2), (3), (5) of the Federal Rules of Criminal Procedure.
 
@@ -333,13 +333,13 @@ Words “regular or special” were omitted and “regular” inserted after “
 
 **Amendments**
 
-1994—Pub. L. 103–322, § 330011(q)(2), repealed amendment by Pub. L. 101–647, § 1213. See 1990 Amendment note below.
+1994—Pub. L. 103–322, § 330011(q)(2), repealed amendment by Pub. L. 101–647, § 1213. See 1990 Amendment note below.
 
-1990—Pub. L. 101–647, § 3580, inserted a comma after “information” the second place it appeared.
+1990—Pub. L. 101–647, § 3580, inserted a comma after “information” the second place it appeared.
 
-Pub. L. 101–647, § 2595(b), struck out “or, in the event of an appeal, within 60 days of the date the dismissal of the indictment or information becomes final,” after “the date of the dismissal of the indictment or information” and inserted such language after “within six calendar months of the expiration of the applicable statute of limitations,”.
+Pub. L. 101–647, § 2595(b), struck out “or, in the event of an appeal, within 60 days of the date the dismissal of the indictment or information becomes final,” after “the date of the dismissal of the indictment or information” and inserted such language after “within six calendar months of the expiration of the applicable statute of limitations,”.
 
-Pub. L. 101–647, § 1213, which directed the striking of “or, in the event of an appeal, within 60 days of the date the dismissal of the indictment or information becomes final,” and the insertion of such language after “within six months of the expiration of the statute of limitations,”, was repealed by Pub. L. 103–322, § 330011(q)(2). See above.
+Pub. L. 101–647, § 1213, which directed the striking of “or, in the event of an appeal, within 60 days of the date the dismissal of the indictment or information becomes final,” and the insertion of such language after “within six months of the expiration of the statute of limitations,”, was repealed by Pub. L. 103–322, § 330011(q)(2). See above.
 
 1988—Pub. L. 100–690 in section catchline substituted “Indictments and information dismissed after period of limitations” for “Indictment where defect found before period of limitations”, and in text, substituted “Whenever an indictment or information charging a felony is dismissed for any reason” for “Whenever an indictment is dismissed for any error, defect, or irregularity with respect to the grand jury, or an indictment or information filed after the defendant waives in open court prosecution by indictment is found otherwise defective or insufficient for any cause,”, inserted “or, in the event of an appeal, within 60 days of the date the dismissal of the indictment or information becomes final” after “dismissal of the indictment or information”, and inserted provisions which prohibited filing of new indictment or information where reason for dismissal was failure to file within period prescribed or some other reason that would bar a new prosecution.
 
@@ -351,9 +351,9 @@ Pub. L. 101–647, § 1213, which directed the striking of “or, in the event
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–322, title XXXIII, § 330011(q)(2), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 1213 of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, § 330011(q)(2), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 1213 of Pub. L. 101–647 took effect.
 
-## § 3290. Fugitives from justice
+## § 3290. Fugitives from justice
 
 No statute of limitations shall extend to any person fleeing from justice.
 
@@ -361,15 +361,15 @@ No statute of limitations shall extend to any person fleeing from justice.
 
 **Historical and Revision Notes**
 
-Based on Title 18, U.S.C., 1940 ed., § 583 (R.S. § 1045).
+Based on Title 18, U.S.C., 1940 ed., § 583 (R.S. § 1045).
 
 Said section 583 was rephrased and made applicable to all statutes of limitation and is merely declaratory of the generally accepted rule of law.
 
-## § 3291. Nationality, citizenship and passports
+## § 3291. Nationality, citizenship and passports
 
 No person shall be prosecuted, tried, or punished for violation of any provision of sections 1423 to 1428, inclusive, of chapter 69 and sections 1541 to 1544, inclusive, of chapter 75 of title 18 of the United States Code, or for conspiracy to violate any of such sections, unless the indictment is found or the information is instituted within ten years after the commission of the offense.
 
-(Added June 30, 1951, ch. 194, § 1, 65 Stat. 107; amended Pub. L. 103–322, title XXXIII, § 330008(9), Sept. 13, 1994, 108 Stat. 2143.)
+(Added June 30, 1951, ch. 194, § 1, 65 Stat. 107; amended Pub. L. 103–322, title XXXIII, § 330008(9), Sept. 13, 1994, 108 Stat. 2143.)
 
 **Editorial Notes**
 
@@ -377,7 +377,7 @@ No person shall be prosecuted, tried, or punished for violation of any provision
 
 1994—Pub. L. 103–322 substituted “violate any of such sections” for “violate any of the afore-mentioned sections”.
 
-## § 3292. Suspension of limitations to permit United States to obtain foreign evidence
+## § 3292. Suspension of limitations to permit United States to obtain foreign evidence
 
 **(a)**
 
@@ -395,7 +395,7 @@ No person shall be prosecuted, tried, or punished for violation of any provision
 
 **(d)** As used in this section, the term “official request” means a letter rogatory, a request under a treaty or convention, or any other request for evidence made by a court of the United States or an authority of the United States having criminal law enforcement responsibility, to a court or other authority of a foreign country.
 
-(Added Pub. L. 98–473, title II, § 1218(a), Oct. 12, 1984, 98 Stat. 2167.)
+(Added Pub. L. 98–473, title II, § 1218(a), Oct. 12, 1984, 98 Stat. 2167.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -403,7 +403,7 @@ No person shall be prosecuted, tried, or punished for violation of any provision
 
 Section effective 30 days after Oct. 12, 1984, see section 1220 of Pub. L. 98–473, set out as a note under section 3505 of this title.
 
-## § 3293. Financial institution offenses
+## § 3293. Financial institution offenses
 
 No person shall be prosecuted, tried, or punished for a violation of, or a conspiracy to violate—
 
@@ -415,7 +415,7 @@ No person shall be prosecuted, tried, or punished for a violation of, or a consp
 
 unless the indictment is returned or the information is filed within 10 years after the commission of the offense.
 
-(Added Pub. L. 101–73, title IX, § 961(*l*)(1), Aug. 9, 1989, 103 Stat. 501; amended Pub. L. 101–647, title XXV, § 2505(a), Nov. 29, 1990, 104 Stat. 4862; Pub. L. 103–322, title XXXII, § 320604(b), title XXXIII, § 330002(e), Sept. 13, 1994, 108 Stat. 2119, 2140.)
+(Added Pub. L. 101–73, title IX, § 961(*l*)(1), Aug. 9, 1989, 103 Stat. 501; amended Pub. L. 101–647, title XXV, § 2505(a), Nov. 29, 1990, 104 Stat. 4862; Pub. L. 103–322, title XXXII, § 320604(b), title XXXIII, § 330002(e), Sept. 13, 1994, 108 Stat. 2119, 2140.)
 
 **Editorial Notes**
 
@@ -429,25 +429,25 @@ unless the indictment is returned or the information is filed within 10 years af
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–647, title XXV, § 2505(b), Nov. 29, 1990, 104 Stat. 4862, provided that: “The amendments made by subsection (a) [amending this section] shall apply to any offense committed before the date of the enactment of this section [Nov. 29, 1990], if the statute of limitations applicable to that offense had not run as of such date.”
+Pub. L. 101–647, title XXV, § 2505(b), Nov. 29, 1990, 104 Stat. 4862, provided that: “The amendments made by subsection (a) [amending this section] shall apply to any offense committed before the date of the enactment of this section [Nov. 29, 1990], if the statute of limitations applicable to that offense had not run as of such date.”
 
 **Effect of This Section on Offenses for Which Prior Period of Limitations Had Not Run**
 
-Pub. L. 101–73, title IX, § 961(*l*)(3), Aug. 9, 1989, 103 Stat. 501, provided that: “The amendments made by this subsection [enacting this section] shall apply to an offense committed before the effective date of this section [Aug. 9, 1989], if the statute of limitations applicable to that offense under this chapter had not run as of such date.”
+Pub. L. 101–73, title IX, § 961(*l*)(3), Aug. 9, 1989, 103 Stat. 501, provided that: “The amendments made by this subsection [enacting this section] shall apply to an offense committed before the effective date of this section [Aug. 9, 1989], if the statute of limitations applicable to that offense under this chapter had not run as of such date.”
 
-## § 3294. Theft of major artwork
+## § 3294. Theft of major artwork
 
 No person shall be prosecuted, tried, or punished for a violation of or conspiracy to violate section 668 unless the indictment is returned or the information is filed within 20 years after the commission of the offense.
 
-(Added Pub. L. 103–322, title XXXII, § 320902(b), Sept. 13, 1994, 108 Stat. 2124.)
+(Added Pub. L. 103–322, title XXXII, § 320902(b), Sept. 13, 1994, 108 Stat. 2124.)
 
-## § 3295. Arson offenses
+## § 3295. Arson offenses
 
 No person shall be prosecuted, tried, or punished for any non-capital offense under section 81 or subsection (f), (h), or (i) of section 844 unless the indictment is found or the information is instituted not later than 10 years after the date on which the offense was committed.
 
-(Added Pub. L. 104–132, title VII, § 708(c)(1), Apr. 24, 1996, 110 Stat. 1297.)
+(Added Pub. L. 104–132, title VII, § 708(c)(1), Apr. 24, 1996, 110 Stat. 1297.)
 
-## § 3296. Counts dismissed pursuant to a plea agreement
+## § 3296. Counts dismissed pursuant to a plea agreement
 
 **(a) In General.—** Notwithstanding any other provision of this chapter, any counts of an indictment or information that are dismissed pursuant to a plea agreement shall be reinstated by the District Court if—
 
@@ -461,13 +461,13 @@ No person shall be prosecuted, tried, or punished for any non-capital offense un
 
 **(b) Defenses; Objections.—** Nothing in this section shall preclude the District Court from considering any defense or objection, other than statute of limitations, to the prosecution of the counts reinstated under subsection (a).
 
-(Added Pub. L. 107–273, div. B, title III, § 3003(a), Nov. 2, 2002, 116 Stat. 1805.)
+(Added Pub. L. 107–273, div. B, title III, § 3003(a), Nov. 2, 2002, 116 Stat. 1805.)
 
-## § 3297. Cases involving DNA evidence
+## § 3297. Cases involving DNA evidence
 
 In a case in which DNA testing implicates an identified person in the commission of a felony, no statute of limitations that would otherwise preclude prosecution of the offense shall preclude such prosecution until a period of time following the implication of the person by DNA testing has elapsed that is equal to the otherwise applicable limitation period.
 
-(Added Pub. L. 108–405, title II, § 204(a), Oct. 30, 2004, 118 Stat. 2271; amended Pub. L. 109–162, title X, § 1005, Jan. 5, 2006, 119 Stat. 3086.)
+(Added Pub. L. 108–405, title II, § 204(a), Oct. 30, 2004, 118 Stat. 2271; amended Pub. L. 109–162, title X, § 1005, Jan. 5, 2006, 119 Stat. 3086.)
 
 **Editorial Notes**
 
@@ -479,13 +479,13 @@ In a case in which DNA testing implicates an identified person in the commission
 
 **Effective Date**
 
-Pub. L. 108–405, title II, § 204(c), Oct. 30, 2004, 118 Stat. 2271, provided that: “The amendments made by this section [enacting this section] shall apply to the prosecution of any offense committed before, on, or after the date of the enactment of this section [Oct. 30, 2004] if the applicable limitation period has not yet expired.”
+Pub. L. 108–405, title II, § 204(c), Oct. 30, 2004, 118 Stat. 2271, provided that: “The amendments made by this section [enacting this section] shall apply to the prosecution of any offense committed before, on, or after the date of the enactment of this section [Oct. 30, 2004] if the applicable limitation period has not yet expired.”
 
-## § 3298. Trafficking-related offenses
+## § 3298. Trafficking-related offenses
 
 No person shall be prosecuted, tried, or punished for any non-capital offense or conspiracy to commit a non-capital offense under section 1581 (Peonage; Obstructing Enforcement), 1583 (Enticement into Slavery), 1584 (Sale into Involuntary Servitude), 1589 (Forced Labor), 1590 (Trafficking with Respect to Peonage, Slavery, Involuntary Servitude, or Forced Labor), or 1592 (Unlawful Conduct with Respect to Documents in furtherance of Trafficking, Peonage, Slavery, Involuntary Servitude, or Forced Labor) of this title or under section 274(a) of the Immigration and Nationality Act unless the indictment is found or the information is instituted not later than 10 years after the commission of the offense.
 
-(Added Pub. L. 109–162, title XI, § 1182(a), Jan. 5, 2006, 119 Stat. 3126.)
+(Added Pub. L. 109–162, title XI, § 1182(a), Jan. 5, 2006, 119 Stat. 3126.)
 
 **Editorial Notes**
 
@@ -493,23 +493,23 @@ No person shall be prosecuted, tried, or punished for any non-capital offense or
 
 Section 274(a) of the Immigration and Nationality Act, referred to in text, is classified to section 1324(a) of Title 8, Aliens and Nationality.
 
-## § 3299. Child abduction and sex offenses
+## § 3299. Child abduction and sex offenses
 
-Notwithstanding any other law, an indictment may be found or an information instituted at any time without limitation for any offense under section 1201 involving a minor victim, and for any felony under chapter 109A, 110 (except for section 1
+Notwithstanding any other law, an indictment may be found or an information instituted at any time without limitation for any offense under section 1201 involving a minor victim, and for any felony under chapter 109A, 110 (except for section 1
 
-<sup>1</sup>  So in original. Probably should be “sections”.
+<sup>1</sup> So in original. Probably should be “sections”.
 
 2257 and 2257A), or 117, or section 1591.
 
-(Added Pub. L. 109–248, title II, § 211(1), July 27, 2006, 120 Stat. 616.)
+(Added Pub. L. 109–248, title II, § 211(1), July 27, 2006, 120 Stat. 616.)
 
-## § 3300. Recruitment or use of child soldiers
+## § 3300. Recruitment or use of child soldiers
 
 No person may be prosecuted, tried, or punished for a violation of section 2442 unless the indictment or the information is filed not later than 10 years after the commission of the offense.
 
-(Added Pub. L. 110–340, § 2(a)(2), Oct. 3, 2008, 122 Stat. 3736.)
+(Added Pub. L. 110–340, § 2(a)(2), Oct. 3, 2008, 122 Stat. 3736.)
 
-## § 3301. Securities fraud offenses
+## § 3301. Securities fraud offenses
 
 **(a) Definition.—** In this section, the term “securities fraud offense” means a violation of, or a conspiracy or an attempt to violate—
 
@@ -527,7 +527,7 @@ No person may be prosecuted, tried, or punished for a violation of section 2442 
 
 **(b) Limitation.—** No person shall be prosecuted, tried, or punished for a securities fraud offense, unless the indictment is found or the information is instituted within 6 years after the commission of the offense.
 
-(Added Pub. L. 111–203, title X, § 1079A(b)(1), July 21, 2010, 124 Stat. 2079.)
+(Added Pub. L. 111–203, title X, § 1079A(b)(1), July 21, 2010, 124 Stat. 2079.)
 
 **Statutory Notes and Related Subsidiaries**
 

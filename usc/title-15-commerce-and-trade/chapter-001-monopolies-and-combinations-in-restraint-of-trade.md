@@ -25,7 +25,7 @@ This chapter includes among other statutory provisions the Sherman Act, comprisi
 
 **Congressional Investigation of Monopoly**
 
-Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, created a Temporary National Economic Committee which was authorized to make a full investigation on monopoly and the concentration of economic power in and financial control over production and distribution of goods and services. The time for submitting the final report under Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, as amended Apr. 26, 1939, ch. 104, §§ 1, 2, 53 Stat. 624, was extended to Apr. 3, 1941, by Joint Res. Dec. 16, 1940, ch. 932, 54 Stat. 1225. The committee’s report was presented to Congress on Mar. 31, 1941, and was published in Senate Document No. 35.
+Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, created a Temporary National Economic Committee which was authorized to make a full investigation on monopoly and the concentration of economic power in and financial control over production and distribution of goods and services. The time for submitting the final report under Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, as amended Apr. 26, 1939, ch. 104, §§ 1, 2, 53 Stat. 624, was extended to Apr. 3, 1941, by Joint Res. Dec. 16, 1940, ch. 932, 54 Stat. 1225. The committee’s report was presented to Congress on Mar. 31, 1941, and was published in Senate Document No. 35.
 
 **Executive Documents**
 
@@ -33,11 +33,11 @@ Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, created a Temporary National Ec
 
 Ex. Ord. No. 12022, Dec. 1, 1977, 42 F.R. 61441, as amended by Ex. Ord. No. 12052, Apr. 7, 1978, 43 F.R. 15133, which related to the National Commission for the Review of Antitrust Laws and Procedures, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
-## § 1. Trusts, etc., in restraint of trade illegal; penalty
+## § 1. Trusts, etc., in restraint of trade illegal; penalty
 
 Every contract, combination in the form of trust or otherwise, or conspiracy, in restraint of trade or commerce among the several States, or with foreign nations, is declared to be illegal. Every person who shall make any contract or engage in any combination or conspiracy hereby declared to be illegal shall be deemed guilty of a felony, and, on conviction thereof, shall be punished by fine not exceeding $100,000,000 if a corporation, or, if any other person, $1,000,000, or by imprisonment not exceeding 10 years, or by both said punishments, in the discretion of the court.
 
-(July 2, 1890, ch. 647, § 1, 26 Stat. 209; Aug. 17, 1937, ch. 690, title VIII, 50 Stat. 693; July 7, 1955, ch. 281, 69 Stat. 282; Pub. L. 93–528, § 3, Dec. 21, 1974, 88 Stat. 1708; Pub. L. 94–145, § 2, Dec. 12, 1975, 89 Stat. 801; Pub. L. 101–588, § 4(a), Nov. 16, 1990, 104 Stat. 2880; Pub. L. 108–237, title II, § 215(a), June 22, 2004, 118 Stat. 668.)
+(July 2, 1890, ch. 647, § 1, 26 Stat. 209; Aug. 17, 1937, ch. 690, title VIII, 50 Stat. 693; July 7, 1955, ch. 281, 69 Stat. 282; Pub. L. 93–528, § 3, Dec. 21, 1974, 88 Stat. 1708; Pub. L. 94–145, § 2, Dec. 12, 1975, 89 Stat. 801; Pub. L. 101–588, § 4(a), Nov. 16, 1990, 104 Stat. 2880; Pub. L. 108–237, title II, § 215(a), June 22, 2004, 118 Stat. 668.)
 
 **Editorial Notes**
 
@@ -59,111 +59,111 @@ Every contract, combination in the form of trust or otherwise, or conspiracy, in
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–72, § 4, Nov. 20, 2001, 115 Stat. 650, provided that: “This Act [enacting and amending provisions set out as notes under this section] and the amendments made by this Act shall take effect on September 30, 2001.”
+Pub. L. 107–72, § 4, Nov. 20, 2001, 115 Stat. 650, provided that: “This Act [enacting and amending provisions set out as notes under this section] and the amendments made by this Act shall take effect on September 30, 2001.”
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–145, § 4, Dec. 12, 1974, 89 Stat. 801, provided that: “The amendments made by sections 2 and 3 of this Act [amending this section and section 45 of this title] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act [Dec. 12, 1975].”
+Pub. L. 94–145, § 4, Dec. 12, 1974, 89 Stat. 801, provided that: “The amendments made by sections 2 and 3 of this Act [amending this section and section 45 of this title] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act [Dec. 12, 1975].”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–328, div. GG, § 101, Dec. 29, 2022, 136 Stat. 5967, provided that: “This division [enacting section 18b of this title, amending section 1407 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as a note under section 18b of this title, and amending provisions set out as a note under section 18a of this title] may be cited as the ‘Merger Filing Fee Modernization Act of 2022’.”
+Pub. L. 117–328, div. GG, § 101, Dec. 29, 2022, 136 Stat. 5967, provided that: “This division [enacting section 18b of this title, amending section 1407 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as a note under section 18b of this title, and amending provisions set out as a note under section 18a of this title] may be cited as the ‘Merger Filing Fee Modernization Act of 2022’.”
 
 [Another section 101 of div. GG of Pub. L. 117–328 amended provisions set out as a note under section 18a of this title.]
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–257, § 1, Dec. 23, 2020, 134 Stat. 1147, provided that: “This Act [enacting section 7a–3 of this title] may be cited as the ‘Criminal Antitrust Anti-Retaliation Act of 2019’.”
+Pub. L. 116–257, § 1, Dec. 23, 2020, 134 Stat. 1147, provided that: “This Act [enacting section 7a–3 of this title] may be cited as the ‘Criminal Antitrust Anti-Retaliation Act of 2019’.”
 
-Pub. L. 116–159, div. D, title III, § 4301, Oct. 1, 2020, 134 Stat. 742, provided that: “This title [enacting provisions set out as notes under section 7a of this title and amending and repealing provisions set out as notes under this section] may be cited as the ‘Antitrust Criminal Penalty Enhancement and Reform Permanent Extension Act’.”
+Pub. L. 116–159, div. D, title III, § 4301, Oct. 1, 2020, 134 Stat. 742, provided that: “This title [enacting provisions set out as notes under section 7a of this title and amending and repealing provisions set out as notes under this section] may be cited as the ‘Antitrust Criminal Penalty Enhancement and Reform Permanent Extension Act’.”
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–44, § 1, Aug. 6, 2015, 129 Stat. 472, provided that: “This Act [amending provisions set out as a note under this section] may be cited as the ‘Need-Based Educational Aid Act of 2015’.”
+Pub. L. 114–44, § 1, Aug. 6, 2015, 129 Stat. 472, provided that: “This Act [amending provisions set out as a note under this section] may be cited as the ‘Need-Based Educational Aid Act of 2015’.”
 
 **Short Title of 2009 Amendment**
 
-Pub. L. 111–30, § 1, June 19, 2009, 123 Stat. 1775, provided that: “This Act [enacting and amending provisions set out as notes under this section] may be cited as the ‘Antitrust Criminal Penalty Enhancement and Reform Act of 2004 Extension Act’.”
+Pub. L. 111–30, § 1, June 19, 2009, 123 Stat. 1775, provided that: “This Act [enacting and amending provisions set out as notes under this section] may be cited as the ‘Antitrust Criminal Penalty Enhancement and Reform Act of 2004 Extension Act’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–327, § 1, Sept. 30, 2008, 122 Stat. 3566, provided that: “This Act [amending provisions set out as a note under this section] may be cited as the ‘Need-Based Educational Aid Act of 2008’.”
+Pub. L. 110–327, § 1, Sept. 30, 2008, 122 Stat. 3566, provided that: “This Act [amending provisions set out as a note under this section] may be cited as the ‘Need-Based Educational Aid Act of 2008’.”
 
 **Short Title of 2007 Amendment**
 
-Pub. L. 110–6, § 1, Feb. 26, 2007, 121 Stat. 61, provided that: “This Act [amending provisions set out as a note under this section] may be cited as the ‘Antitrust Modernization Commission Extension Act of 2007’.”
+Pub. L. 110–6, § 1, Feb. 26, 2007, 121 Stat. 61, provided that: “This Act [amending provisions set out as a note under this section] may be cited as the ‘Antitrust Modernization Commission Extension Act of 2007’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–237, title II, § 201, June 22, 2004, 118 Stat. 665, provided that: “This title [amending this section and sections 2, 3, and 16 of this title and enacting provisions set out as notes under this section and section 16 of this title] may be cited as the ‘Antitrust Criminal Penalty Enhancement and Reform Act of 2004’.”
+Pub. L. 108–237, title II, § 201, June 22, 2004, 118 Stat. 665, provided that: “This title [amending this section and sections 2, 3, and 16 of this title and enacting provisions set out as notes under this section and section 16 of this title] may be cited as the ‘Antitrust Criminal Penalty Enhancement and Reform Act of 2004’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–273, div. C, title IV, § 14101, Nov. 2, 2002, 116 Stat. 1921, provided that: “This title [amending sections 3, 12, 27, and 44 of this title, section 225 of Title 7, Agriculture, section 1413 of Title 30, Mineral Lands and Mining, and section 2135 of Title 42, The Public Health and Welfare, repealing sections 30 and 31 of this title, enacting provisions set out as a note under section 3 of this title, amending provisions set out as notes under this section and section 8 of this title, and repealing provisions set out as notes under section 15 of this title and section 41309 of Title 49, Transportation] may be cited as the ‘Antitrust Technical Corrections Act of 2002’.”
+Pub. L. 107–273, div. C, title IV, § 14101, Nov. 2, 2002, 116 Stat. 1921, provided that: “This title [amending sections 3, 12, 27, and 44 of this title, section 225 of Title 7, Agriculture, section 1413 of Title 30, Mineral Lands and Mining, and section 2135 of Title 42, The Public Health and Welfare, repealing sections 30 and 31 of this title, enacting provisions set out as a note under section 3 of this title, amending provisions set out as notes under this section and section 8 of this title, and repealing provisions set out as notes under section 15 of this title and section 41309 of Title 49, Transportation] may be cited as the ‘Antitrust Technical Corrections Act of 2002’.”
 
 **Short Title of 2001 Amendment**
 
-Pub. L. 107–72, § 1, Nov. 20, 2001, 115 Stat. 648, provided that: “This Act [enacting and amending provisions set out as notes under this section] may be cited as the ‘Need-Based Educational Aid Act of 2001’.”
+Pub. L. 107–72, § 1, Nov. 20, 2001, 115 Stat. 648, provided that: “This Act [enacting and amending provisions set out as notes under this section] may be cited as the ‘Need-Based Educational Aid Act of 2001’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–297, § 1, Oct. 27, 1998, 112 Stat. 2824, provided that: “This Act [enacting section 26b of this title and provisions set out as a note under section 26b of this title] may be cited as the ‘Curt Flood Act of 1998’.”
+Pub. L. 105–297, § 1, Oct. 27, 1998, 112 Stat. 2824, provided that: “This Act [enacting section 26b of this title and provisions set out as a note under section 26b of this title] may be cited as the ‘Curt Flood Act of 1998’.”
 
 **Short Title of 1997 Amendments**
 
-Pub. L. 105–43, § 1, Sept. 17, 1997, 111 Stat. 1140, provided that: “This Act [enacting and amending provisions set out as notes below] may be cited as the ‘Need-Based Educational Aid Antitrust Protection Act of 1997’.”
+Pub. L. 105–43, § 1, Sept. 17, 1997, 111 Stat. 1140, provided that: “This Act [enacting and amending provisions set out as notes below] may be cited as the ‘Need-Based Educational Aid Antitrust Protection Act of 1997’.”
 
-Pub. L. 105–26, § 1, July 3, 1997, 111 Stat. 241, provided that: “This Act [amending sections 37 and 37a of this title and enacting provisions set out as notes under section 37 of this title] may be cited as the ‘Charitable Donation Antitrust Immunity Act of 1997’.”
+Pub. L. 105–26, § 1, July 3, 1997, 111 Stat. 241, provided that: “This Act [amending sections 37 and 37a of this title and enacting provisions set out as notes under section 37 of this title] may be cited as the ‘Charitable Donation Antitrust Immunity Act of 1997’.”
 
 **Short Title of 1995 Amendment**
 
-Pub. L. 104–63, § 1, Dec. 8, 1995, 109 Stat. 687, provided that: “This Act [enacting sections 37 and 37a of this title and provisions set out as a note under section 37 of this title] may be cited as the ‘Charitable Gift Annuity Antitrust Relief Act of 1995’.”
+Pub. L. 104–63, § 1, Dec. 8, 1995, 109 Stat. 687, provided that: “This Act [enacting sections 37 and 37a of this title and provisions set out as a note under section 37 of this title] may be cited as the ‘Charitable Gift Annuity Antitrust Relief Act of 1995’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–588, § 1, Nov. 16, 1990, 104 Stat. 2879, provided: “That this Act [amending this section and sections 2, 3, 15a, and 19 of this title and repealing section 20 of this title] may be cited as the ‘Antitrust Amendments Act of 1990’.”
+Pub. L. 101–588, § 1, Nov. 16, 1990, 104 Stat. 2879, provided: “That this Act [amending this section and sections 2, 3, 15a, and 19 of this title and repealing section 20 of this title] may be cited as the ‘Antitrust Amendments Act of 1990’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–544, § 1, Oct. 24, 1984, 98 Stat. 2750, provided: “That this Act [enacting sections 34 to 36 of this title and provisions set out as a note under section 34 of this title] may be cited as the ‘Local Government Antitrust Act of 1984’.”
+Pub. L. 98–544, § 1, Oct. 24, 1984, 98 Stat. 2750, provided: “That this Act [enacting sections 34 to 36 of this title and provisions set out as a note under section 34 of this title] may be cited as the ‘Local Government Antitrust Act of 1984’.”
 
 **Short Title of 1982 Amendment**
 
-Pub. L. 97–290, title IV, § 401, Oct. 8, 1982, 96 Stat. 1246, provided that: “This title [enacting section 6a of this title and amending section 45 of this title] may be cited as the ‘Foreign Trade Antitrust Improvements Act of 1982’.”
+Pub. L. 97–290, title IV, § 401, Oct. 8, 1982, 96 Stat. 1246, provided that: “This title [enacting section 6a of this title and amending section 45 of this title] may be cited as the ‘Foreign Trade Antitrust Improvements Act of 1982’.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–493, § 1, Dec. 2, 1980, 94 Stat. 2568, provided: “That this Act [enacting section 26a of this title] may be cited as the ‘Gasohol Competition Act of 1980’.”
+Pub. L. 96–493, § 1, Dec. 2, 1980, 94 Stat. 2568, provided: “That this Act [enacting section 26a of this title] may be cited as the ‘Gasohol Competition Act of 1980’.”
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–435, § 1, Sept. 30, 1976, 90 Stat. 1383, provided: “That this Act [enacting sections 15c to 15h, 18a, and 66 of this title, amending sections 12, 15b, 16, 26, and 1311 to 1314 of this title, section 1505 of Title 18, Crimes and Criminal Procedure, and section 1407 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 8, 15c, 18a, and 1311 of this title] may be cited as the ‘Hart-Scott-Rodino Antitrust Improvements Act of 1976’.”
+Pub. L. 94–435, § 1, Sept. 30, 1976, 90 Stat. 1383, provided: “That this Act [enacting sections 15c to 15h, 18a, and 66 of this title, amending sections 12, 15b, 16, 26, and 1311 to 1314 of this title, section 1505 of Title 18, Crimes and Criminal Procedure, and section 1407 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 8, 15c, 18a, and 1311 of this title] may be cited as the ‘Hart-Scott-Rodino Antitrust Improvements Act of 1976’.”
 
 **Short Title of 1975 Amendment**
 
-Pub. L. 94–145, § 1, Dec. 12, 1975, 89 Stat. 801, provided: “That this Act [amending this section and section 45 of this title and enacting provisions set out as a note under this section] may be cited as the ‘Consumer Goods Pricing Act of 1975’.”
+Pub. L. 94–145, § 1, Dec. 12, 1975, 89 Stat. 801, provided: “That this Act [amending this section and section 45 of this title and enacting provisions set out as a note under this section] may be cited as the ‘Consumer Goods Pricing Act of 1975’.”
 
 **Short Title of 1974 Amendment**
 
-Pub. L. 93–528, § 1, Dec. 21, 1974, 88 Stat. 1706, provided: “That this Act [amending this section and section 2, 3, 16, 28, and 29 of this title, section 401 of Title 47, Telecommunications, and sections 43, 44, and 45 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 29 of this title] may be cited as the ‘Antitrust Procedures and Penalties Act’.”
+Pub. L. 93–528, § 1, Dec. 21, 1974, 88 Stat. 1706, provided: “That this Act [amending this section and section 2, 3, 16, 28, and 29 of this title, section 401 of Title 47, Telecommunications, and sections 43, 44, and 45 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 29 of this title] may be cited as the ‘Antitrust Procedures and Penalties Act’.”
 
 **Short Title**
 
-Pub. L. 94–435, title III, § 305(a), Sept. 30, 1976, 90 Stat. 1397, added immediately following the enacting clause of act July 2, 1890, the following: “That this Act [this section and sections 2 to 7 of this title] may be cited as the ‘Sherman Act’.”
+Pub. L. 94–435, title III, § 305(a), Sept. 30, 1976, 90 Stat. 1397, added immediately following the enacting clause of act July 2, 1890, the following: “That this Act [this section and sections 2 to 7 of this title] may be cited as the ‘Sherman Act’.”
 
 **Antitrust Enforcement Enhancements and Cooperation Incentives**
 
-Pub. L. 108–237, title II, § 211, June 22, 2004, 118 Stat. 666, as amended by Pub. L. 111–30, § 2, June 19, 2009, 123 Stat. 1775; Pub. L. 111–190, § 1, June 9, 2010, 124 Stat. 1275, which provided a sunset date for sections 211 to 214 of Pub. L. 108–237, with exceptions, was repealed by Pub. L. 116–159, div. D, title III, § 4303(a), Oct. 1, 2020, 134 Stat. 742, with continuity provision for markers and agreements existing on or before June 22, 2020.
+Pub. L. 108–237, title II, § 211, June 22, 2004, 118 Stat. 666, as amended by Pub. L. 111–30, § 2, June 19, 2009, 123 Stat. 1775; Pub. L. 111–190, § 1, June 9, 2010, 124 Stat. 1275, which provided a sunset date for sections 211 to 214 of Pub. L. 108–237, with exceptions, was repealed by Pub. L. 116–159, div. D, title III, § 4303(a), Oct. 1, 2020, 134 Stat. 742, with continuity provision for markers and agreements existing on or before June 22, 2020.
 
-Pub. L. 108–237, title II, § 212, June 22, 2004, 118 Stat. 666, as amended by Pub. L. 111–190, § 2, June 9, 2010, 124 Stat. 1275; Pub. L. 116–159, div. D, title III, § 4303(b)(2), Oct. 1, 2020, 134 Stat. 742, which defined terms for sections 211 to 215 of Pub. L. 108–237, was transferred to section 7a of this title.
+Pub. L. 108–237, title II, § 212, June 22, 2004, 118 Stat. 666, as amended by Pub. L. 111–190, § 2, June 9, 2010, 124 Stat. 1275; Pub. L. 116–159, div. D, title III, § 4303(b)(2), Oct. 1, 2020, 134 Stat. 742, which defined terms for sections 211 to 215 of Pub. L. 108–237, was transferred to section 7a of this title.
 
-Pub. L. 108–237, title II, § 213, June 22, 2004, 118 Stat. 666, as amended by Pub. L. 111–190, § 3, June 9, 2010, 124 Stat. 1275, which provided limitation on recovery, was transferred to section 7a–1 of this title.
+Pub. L. 108–237, title II, § 213, June 22, 2004, 118 Stat. 666, as amended by Pub. L. 111–190, § 3, June 9, 2010, 124 Stat. 1275, which provided limitation on recovery, was transferred to section 7a–1 of this title.
 
-Pub. L. 108–237, title II, § 214, June 22, 2004, 118 Stat. 667, as amended by Pub. L. 111–190, § 4, June 9, 2010, 124 Stat. 1276, which provided rights, authorities, and liabilities not affected by sections 211 to 215 of Pub. L. 108–237, was transferred to section 7a–2 of this title.
+Pub. L. 108–237, title II, § 214, June 22, 2004, 118 Stat. 667, as amended by Pub. L. 111–190, § 4, June 9, 2010, 124 Stat. 1276, which provided rights, authorities, and liabilities not affected by sections 211 to 215 of Pub. L. 108–237, was transferred to section 7a–2 of this title.
 
 **Antitrust Modernization Commission**
 
-Pub. L. 107–273, div. C, title I, subtitle D, Nov. 2, 2002, 116 Stat. 1856, as amended by Pub. L. 110–6, § 2, Feb. 26, 2007, 121 Stat. 61, provided that:
+Pub. L. 107–273, div. C, title I, subtitle D, Nov. 2, 2002, 116 Stat. 1856, as amended by Pub. L. 110–6, § 2, Feb. 26, 2007, 121 Stat. 61, provided that:
 
 > **“SEC. 11051. SHORT TITLE.**
 
@@ -273,11 +273,11 @@ Pub. L. 107–273, div. C, title I, subtitle D, Nov. 2, 2002, 116 Stat. 1856, as
 
 **Year 2000 Information and Readiness Disclosure**
 
-Pub. L. 105–271, Oct. 19, 1998, 112 Stat. 2386, as amended by Pub. L. 107–273, div. C, title IV, § 14102(e), Nov. 2, 2002, 116 Stat. 1922, known as the Year 2000 Information and Readiness Disclosure Act, provided for the free disclosure and exchange of information about computer processing problems, solutions, test practices and test results, and related matters in connection with the transition to the year 2000.
+Pub. L. 105–271, Oct. 19, 1998, 112 Stat. 2386, as amended by Pub. L. 107–273, div. C, title IV, § 14102(e), Nov. 2, 2002, 116 Stat. 1922, known as the Year 2000 Information and Readiness Disclosure Act, provided for the free disclosure and exchange of information about computer processing problems, solutions, test practices and test results, and related matters in connection with the transition to the year 2000.
 
 **Application of Antitrust Laws to Award of Need-Based Educational Aid**
 
-Pub. L. 107–72, § 3, Nov. 20, 2001, 115 Stat. 648, provided that:
+Pub. L. 107–72, § 3, Nov. 20, 2001, 115 Stat. 648, provided that:
 
 > **“(a) Study.—**
 
@@ -343,7 +343,7 @@ Pub. L. 107–72, § 3, Nov. 20, 2001, 115 Stat. 648, provided that:
 
 > **“(2) Non-participating institutions.—** Nothing in this subsection shall be construed to require an institution of higher education that does not participate under the antitrust exemption under section 568 of the Improving America’s Schools Act of 1994 (15 U.S.C. 1 note) to collect and maintain data under this subsection.”
 
-Pub. L. 103–382, title V, § 568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 4061, as amended by Pub. L. 105–43, § 2(a), Sept. 17, 1997, 111 Stat. 1140; Pub. L. 105–244, title I, § 102(a)(3), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–72, § 2, Nov. 20, 2001, 115 Stat. 648; Pub. L. 110–327, § 2, Sept. 30, 2008, 122 Stat. 3566; Pub. L. 114–44, § 2, Aug. 6, 2015, 129 Stat. 472, provided that:
+Pub. L. 103–382, title V, § 568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 4061, as amended by Pub. L. 105–43, § 2(a), Sept. 17, 1997, 111 Stat. 1140; Pub. L. 105–244, title I, § 102(a)(3), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–72, § 2, Nov. 20, 2001, 115 Stat. 648; Pub. L. 110–327, § 2, Sept. 30, 2008, 122 Stat. 3566; Pub. L. 114–44, § 2, Aug. 6, 2015, 129 Stat. 472, provided that:
 
 > **“(a) Exemption.—** It shall not be unlawful under the antitrust laws for 2 or more institutions of higher education at which all students admitted are admitted on a need-blind basis, to agree or attempt to agree—
 
@@ -377,7 +377,7 @@ Pub. L. 103–382, title V, § 568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 40
 
 > **“(d) Expiration.—** Subsection (a) shall expire on September 30, 2022.”
 
-[Pub. L. 105–43, § 2(b), Sept. 17, 1997, 111 Stat. 1140, provided that: “The amendments made by subsection (a) [amending section 568(a)–(d) of Pub. L. 103–382, set out above] shall take effect immediately before September 30, 1997.” ]
+[Pub. L. 105–43, § 2(b), Sept. 17, 1997, 111 Stat. 1140, provided that: “The amendments made by subsection (a) [amending section 568(a)–(d) of Pub. L. 103–382, set out above] shall take effect immediately before September 30, 1997.” ]
 
 **Executive Documents**
 
@@ -411,11 +411,11 @@ Sec. 3. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 2. Monopolizing trade a felony; penalty
+## § 2. Monopolizing trade a felony; penalty
 
 Every person who shall monopolize, or attempt to monopolize, or combine or conspire with any other person or persons, to monopolize any part of the trade or commerce among the several States, or with foreign nations, shall be deemed guilty of a felony, and, on conviction thereof, shall be punished by fine not exceeding $100,000,000 if a corporation, or, if any other person, $1,000,000, or by imprisonment not exceeding 10 years, or by both said punishments, in the discretion of the court.
 
-(July 2, 1890, ch. 647, § 2, 26 Stat. 209; July 7, 1955, ch. 281, 69 Stat. 282; Pub. L. 93–528, § 3, Dec. 21, 1974, 88 Stat. 1708; Pub. L. 101–588, § 4(b), Nov. 16, 1990, 104 Stat. 2880; Pub. L. 108–237, title II, § 215(b), June 22, 2004, 118 Stat. 668.)
+(July 2, 1890, ch. 647, § 2, 26 Stat. 209; July 7, 1955, ch. 281, 69 Stat. 282; Pub. L. 93–528, § 3, Dec. 21, 1974, 88 Stat. 1708; Pub. L. 101–588, § 4(b), Nov. 16, 1990, 104 Stat. 2880; Pub. L. 108–237, title II, § 215(b), June 22, 2004, 118 Stat. 668.)
 
 **Editorial Notes**
 
@@ -429,13 +429,13 @@ Every person who shall monopolize, or attempt to monopolize, or combine or consp
 
 1955—Act July 7, 1955, substituted “fifty thousand dollars” for “five thousand dollars”.
 
-## § 3. Trusts in Territories or District of Columbia illegal; combination a felony
+## § 3. Trusts in Territories or District of Columbia illegal; combination a felony
 
 **(a)** Every contract, combination in form of trust or otherwise, or conspiracy, in restraint of trade or commerce in any Territory of the United States or of the District of Columbia, or in restraint of trade or commerce between any such Territory and another, or between any such Territory or Territories and any State or States or the District of Columbia, or with foreign nations, or between the District of Columbia and any State or States or foreign nations, is declared illegal. Every person who shall make any such contract or engage in any such combination or conspiracy, shall be deemed guilty of a felony, and, on conviction thereof, shall be punished by fine not exceeding $100,000,000 if a corporation, or, if any other person, $1,000,000, or by imprisonment not exceeding 10 years, or by both said punishments, in the discretion of the court.
 
 **(b)** Every person who shall monopolize, or attempt to monopolize, or combine or conspire with any other person or persons, to monopolize any part of the trade or commerce in any Territory of the United States or of the District of Columbia, or between any such Territory and another, or between any such Territory or Territories and any State or States or the District of Columbia, or with foreign nations, or between the District of Columbia, and any State or States or foreign nations, shall be deemed guilty of a felony, and, on conviction thereof, shall be punished by fine not exceeding $100,000,000 if a corporation, or, if any other person, $1,000,000, or by imprisonment not exceeding 10 years, or by both said punishments, in the discretion of the court.
 
-(July 2, 1890, ch. 647, § 3, 26 Stat. 209; July 7, 1955, ch. 281, 69 Stat. 282; Pub. L. 93–528, § 3, Dec. 21, 1974, 88 Stat. 1708; Pub. L. 101–588, § 4(c), Nov. 16, 1990, 104 Stat. 2880; Pub. L. 107–273, div. C, title IV, § 14102(b), Nov. 2, 2002, 116 Stat. 1921; Pub. L. 108–237, title II, § 215(c), June 22, 2004, 118 Stat. 668.)
+(July 2, 1890, ch. 647, § 3, 26 Stat. 209; July 7, 1955, ch. 281, 69 Stat. 282; Pub. L. 93–528, § 3, Dec. 21, 1974, 88 Stat. 1708; Pub. L. 101–588, § 4(c), Nov. 16, 1990, 104 Stat. 2880; Pub. L. 107–273, div. C, title IV, § 14102(b), Nov. 2, 2002, 116 Stat. 1921; Pub. L. 108–237, title II, § 215(c), June 22, 2004, 118 Stat. 668.)
 
 **Editorial Notes**
 
@@ -455,7 +455,7 @@ Every person who shall monopolize, or attempt to monopolize, or combine or consp
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. C, title IV, § 14103, Nov. 2, 2002, 116 Stat. 1922, provided that:
+Pub. L. 107–273, div. C, title IV, § 14103, Nov. 2, 2002, 116 Stat. 1922, provided that:
 
 > **“(a) Effective Date.—** Except as provided in subsection (b), this subtitle [probably means this title, amending this section and sections 12, 27, and 44 of this title, section 225 of Title 7, Agriculture, section 1413 of Title 30, Mineral Lands and Mining, and section 2135 of Title 42, The Public Health and Welfare, repealing sections 30 and 31 of this title, enacting provisions set out as a note under section 1 of this title, amending provisions set out as notes under sections 1 and 8 of this title, and repealing provisions set out as notes under section 15 of this title and section 41309 of Title 49, Transportation] and the amendments made by this subtitle shall take effect on the date of enactment of this Act [Nov. 2, 2002].
 
@@ -465,11 +465,11 @@ Pub. L. 107–273, div. C, title IV, § 14103, Nov. 2, 2002, 116 Stat. 1922, p
 
 > **“(2)** The amendments made by subsections (a), (b), and (c) of section 14102 [amending this section and sections 12 and 44 of this title, section 225 of Title 7, Agriculture, section 1413 of Title 30, Mineral Lands and Mining, and section 2135 of Title 42, The Public Health and Welfare, repealing section 31 of this title, amending provisions set out as a note under section 8 of this title, and repealing provisions set out as a note under section 15 of this title] shall apply only with respect to cases commenced on or after the date of enactment of this Act.”
 
-## § 4. Jurisdiction of courts; duty of United States attorneys; procedure
+## § 4. Jurisdiction of courts; duty of United States attorneys; procedure
 
 The several district courts of the United States are invested with jurisdiction to prevent and restrain violations of sections 1 to 7 of this title; and it shall be the duty of the several United States attorneys, in their respective districts, under the direction of the Attorney General, to institute proceedings in equity to prevent and restrain such violations. Such proceedings may be by way of petition setting forth the case and praying that such violation shall be enjoined or otherwise prohibited. When the parties complained of shall have been duly notified of such petition the court shall proceed, as soon as may be, to the hearing and determination of the case; and pending such petition and before final decree, the court may at any time make such temporary restraining order or prohibition as shall be deemed just in the premises.
 
-(July 2, 1890, ch. 647, § 4, 26 Stat. 209; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
+(July 2, 1890, ch. 647, § 4, 26 Stat. 209; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
 
 **Editorial Notes**
 
@@ -483,19 +483,19 @@ Act Mar. 3, 1911, vested jurisdiction in “district” courts, instead of “ci
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys of the United States”. See section 541 et seq. of Title 28, Judiciary and Judicial Procedure.
 
-## § 5. Bringing in additional parties
+## § 5. Bringing in additional parties
 
 Whenever it shall appear to the court before which any proceeding under section 4 of this title may be pending, that the ends of justice require that other parties should be brought before the court, the court may cause them to be summoned, whether they reside in the district in which the court is held or not; and subpoenas to that end may be served in any district by the marshal thereof.
 
-(July 2, 1890, ch. 647, § 5, 26 Stat. 210.)
+(July 2, 1890, ch. 647, § 5, 26 Stat. 210.)
 
-## § 6. Forfeiture of property in transit
+## § 6. Forfeiture of property in transit
 
 Any property owned under any contract or by any combination, or pursuant to any conspiracy (and being the subject thereof) mentioned in section 1 of this title, and being in the course of transportation from one State to another, or to a foreign country, shall be forfeited to the United States, and may be seized and condemned by like proceedings as those provided by law for the forfeiture, seizure, and condemnation of property imported into the United States contrary to law.
 
-(July 2, 1890, ch. 647, § 6, 26 Stat. 210.)
+(July 2, 1890, ch. 647, § 6, 26 Stat. 210.)
 
-## § 6a. Conduct involving trade or commerce with foreign nations
+## § 6a. Conduct involving trade or commerce with foreign nations
 
 Sections 1 to 7 of this title shall not apply to conduct involving trade or commerce (other than import trade or import commerce) with foreign nations unless—
 
@@ -509,21 +509,21 @@ Sections 1 to 7 of this title shall not apply to conduct involving trade or comm
 
 If sections 1 to 7 of this title apply to such conduct only because of the operation of paragraph (1)(B), then sections 1 to 7 of this title shall apply to such conduct only for injury to export business in the United States.
 
-(July 2, 1890, ch. 647, § 7, as added Pub. L. 97–290, title IV, § 402, Oct. 8, 1982, 96 Stat. 1246.)
+(July 2, 1890, ch. 647, § 7, as added Pub. L. 97–290, title IV, § 402, Oct. 8, 1982, 96 Stat. 1246.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7 of act July 2, 1890, ch. 647, 26 Stat. 210, related to suits by persons injured by acts in violation of sections 1 to 7 of this title and was classified as a note under section 15 of this title, prior to repeal by act July 7, 1955, ch. 283, § 3, 69 Stat. 283, effective six months after July 7, 1955.
+A prior section 7 of act July 2, 1890, ch. 647, 26 Stat. 210, related to suits by persons injured by acts in violation of sections 1 to 7 of this title and was classified as a note under section 15 of this title, prior to repeal by act July 7, 1955, ch. 283, § 3, 69 Stat. 283, effective six months after July 7, 1955.
 
-## § 7. “Person” or “persons” defined
+## § 7. “Person” or “persons” defined
 
 The word “person”, or “persons”, wherever used in sections 1 to 7 of this title shall be deemed to include corporations and associations existing under or authorized by the laws of either the United States, the laws of any of the Territories, the laws of any State, or the laws of any foreign country.
 
-(July 2, 1890, ch. 647, § 8, 26 Stat. 210.)
+(July 2, 1890, ch. 647, § 8, 26 Stat. 210.)
 
-## § 7a. Definitions
+## § 7a. Definitions
 
 In sections 7a to 7a–3 of this title:
 
@@ -551,13 +551,13 @@ The term “cooperating individual” means, with respect to an antitrust lenien
 
 The term “person” has the meaning given it in subsection (a) of section 12 of this title.
 
-(Pub. L. 108–237, title II, § 212, June 22, 2004, 118 Stat. 666; Pub. L. 111–190, § 2, June 9, 2010, 124 Stat. 1275; Pub. L. 116–159, div. D, title III, § 4303(b)(2), Oct. 1, 2020, 134 Stat. 742.)
+(Pub. L. 108–237, title II, § 212, June 22, 2004, 118 Stat. 666; Pub. L. 111–190, § 2, June 9, 2010, 124 Stat. 1275; Pub. L. 116–159, div. D, title III, § 4303(b)(2), Oct. 1, 2020, 134 Stat. 742.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 7a to 7a–3 of this title, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 211–216) of title II of Pub. L. 108–237, June 22, 2004, 118 Stat. 666, which enacted this section and sections 7a–1 to 7a–3 of this title, amended sections 1, 2, and 3 of this title, and enacted provisions formerly set out in a note under section 1 of this title. For complete classification of subtitle A to the Code, see Tables.
+Sections 7a to 7a–3 of this title, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 211–216) of title II of Pub. L. 108–237, June 22, 2004, 118 Stat. 666, which enacted this section and sections 7a–1 to 7a–3 of this title, amended sections 1, 2, and 3 of this title, and enacted provisions formerly set out in a note under section 1 of this title. For complete classification of subtitle A to the Code, see Tables.
 
 **Codification**
 
@@ -573,7 +573,7 @@ Section was formerly set out in a note under section 1 of this title, prior to t
 
 **Findings; Purpose of 2020 Amendment**
 
-Pub. L. 116–159, div. D, title III, § 4302, Oct. 1, 2020, 134 Stat. 742, provided that:
+Pub. L. 116–159, div. D, title III, § 4302, Oct. 1, 2020, 134 Stat. 742, provided that:
 
 > **“(a) Findings.—** Congress finds the following:
 
@@ -581,11 +581,11 @@ Pub. L. 116–159, div. D, title III, § 4302, Oct. 1, 2020, 134 Stat. 742, pr
 
 > **“(2)** Cooperation incentives are important to the efforts of the Antitrust Division of the Department of Justice to prosecute and deter the offenses described in paragraph (1).
 
-> **“(b) Purpose.—** The purpose of this Act [probably means title III of div. D (§ 4301 et seq.) of Pub. L. 116–159, see Tables for classification], and the amendments made by this Act, is to strengthen public and private antitrust enforcement by providing incentives for antitrust violators to cooperate fully with government prosecutors and private litigants through the repeal of the sunset provision of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 [section 211 of Pub. L. 108–237] ([former] 15 U.S.C. 1 note).”
+> **“(b) Purpose.—** The purpose of this Act [probably means title III of div. D (§ 4301 et seq.) of Pub. L. 116–159, see Tables for classification], and the amendments made by this Act, is to strengthen public and private antitrust enforcement by providing incentives for antitrust violators to cooperate fully with government prosecutors and private litigants through the repeal of the sunset provision of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 [section 211 of Pub. L. 108–237] ([former] 15 U.S.C. 1 note).”
 
 **Technical and Conforming Amendments**
 
-Pub. L. 116–159, div. D, title III, § 4303(b)(1), Oct. 1, 2020, 134 Stat. 742, provided that:
+Pub. L. 116–159, div. D, title III, § 4303(b)(1), Oct. 1, 2020, 134 Stat. 742, provided that:
 
 > **“(1) Revival and restoration.—**
 
@@ -599,13 +599,13 @@ Pub. L. 116–159, div. D, title III, § 4303(b)(1), Oct. 1, 2020, 134 Stat. 7
 
 **Applicability of 2020 Amendment**
 
-Pub. L. 116–159, div. D, title III, § 4303(c), Oct. 1, 2020, 134 Stat. 742, provided that:
+Pub. L. 116–159, div. D, title III, § 4303(c), Oct. 1, 2020, 134 Stat. 742, provided that:
 
 > **“(1) Markers and agreements before sunset.—** Notwithstanding the repeal under subsection (a) [repealing section 211 of Pub. L. 108–237], section 211(b) of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 [Pub. L. 108–237] ([former] 15 U.S.C. 1 note), as in effect on the day before the date of enactment of this Act [Oct. 1, 2020], shall continue to apply to any person who received a marker or entered into an antitrust leniency agreement on or before June 22, 2020.
 
 > **“(2) Markers and agreements after sunset.—** The repeal under subsection (a) shall apply to any person who received a marker or entered into an antitrust leniency agreement on or after June 23, 2020.”
 
-## § 7a–1. Limitation on recovery
+## § 7a–1. Limitation on recovery
 
 **(a) In general**
 
@@ -639,7 +639,7 @@ If the Antitrust Division does obtain a stay or protective order in a civil acti
 
 Nothing in this section shall be construed to modify, impair, or supersede the provisions of sections 15, 15a, and 15c of this title relating to the recovery of costs of suit, including a reasonable attorney’s fee, and interest on damages, to the extent that such recovery is authorized by such sections.
 
-(Pub. L. 108–237, title II, § 213, June 22, 2004, 118 Stat. 666; Pub. L. 111–190, § 3, June 9, 2010, 124 Stat. 1275.)
+(Pub. L. 108–237, title II, § 213, June 22, 2004, 118 Stat. 666; Pub. L. 111–190, § 3, June 9, 2010, 124 Stat. 1275.)
 
 **Editorial Notes**
 
@@ -649,11 +649,11 @@ Section was formerly set out in a note under section 1 of this title, prior to t
 
 **Amendments**
 
-2010—Subsec. (c). Pub. L. 111–190, § 3(a), amended subsec. (c) generally. Prior to amendment, text read as follows: “If the initial contact by the antitrust leniency applicant with the Antitrust Division regarding conduct covered by the antitrust leniency agreement occurs after a State, or subdivision of a State, has issued compulsory process in connection with an investigation of allegations of a violation of section 1 or 3 of this title or any similar State law based on conduct covered by the antitrust leniency agreement or after a civil action described in subsection (a) has been filed, then the court shall consider, in making the determination concerning satisfactory cooperation described in subsection (b), the timeliness of the applicant’s initial cooperation with the claimant.”
+2010—Subsec. (c). Pub. L. 111–190, § 3(a), amended subsec. (c) generally. Prior to amendment, text read as follows: “If the initial contact by the antitrust leniency applicant with the Antitrust Division regarding conduct covered by the antitrust leniency agreement occurs after a State, or subdivision of a State, has issued compulsory process in connection with an investigation of allegations of a violation of section 1 or 3 of this title or any similar State law based on conduct covered by the antitrust leniency agreement or after a civil action described in subsection (a) has been filed, then the court shall consider, in making the determination concerning satisfactory cooperation described in subsection (b), the timeliness of the applicant’s initial cooperation with the claimant.”
 
-Subsecs. (d), (e). Pub. L. 111–190, § 3(b), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 111–190, § 3(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-## § 7a–2. Rights, authorities, and liabilities not affected
+## § 7a–2. Rights, authorities, and liabilities not affected
 
 Nothing in sections 7a to 7a–3 of this title shall be construed to—
 
@@ -663,13 +663,13 @@ Nothing in sections 7a to 7a–3 of this title shall be construed to—
 
 **(3)** affect, in any way, the joint and several liability of any party to a civil action described in section 7a–1(a) of this title, other than that of the antitrust leniency applicant and cooperating individuals as provided in section 7a–1(a) of this title.
 
-(Pub. L. 108–237, title II, § 214, June 22, 2004, 118 Stat. 667; Pub. L. 111–190, § 4, June 9, 2010, 124 Stat. 1276.)
+(Pub. L. 108–237, title II, § 214, June 22, 2004, 118 Stat. 667; Pub. L. 111–190, § 4, June 9, 2010, 124 Stat. 1276.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 7a to 7a–3 of this title, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 211–216) of title II of Pub. L. 108–237, June 22, 2004, 118 Stat. 666, which enacted this section and sections 7a, 7a–1, and 7a–3 of this title, amended sections 1, 2, and 3 of this title, and enacted provisions formerly set out in a note under section 1 of this title. For complete classification of subtitle A to the Code, see Tables.
+Sections 7a to 7a–3 of this title, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 211–216) of title II of Pub. L. 108–237, June 22, 2004, 118 Stat. 666, which enacted this section and sections 7a, 7a–1, and 7a–3 of this title, amended sections 1, 2, and 3 of this title, and enacted provisions formerly set out in a note under section 1 of this title. For complete classification of subtitle A to the Code, see Tables.
 
 **Codification**
 
@@ -677,11 +677,11 @@ Section was formerly set out in a note under section 1 of this title, prior to t
 
 **Amendments**
 
-2010—Par. (1). Pub. L. 111–190, § 4(1), made technical amendment to reference in original act which appears in text as reference to section 7a–1(b) of this title.
+2010—Par. (1). Pub. L. 111–190, § 4(1), made technical amendment to reference in original act which appears in text as reference to section 7a–1(b) of this title.
 
-Par. (3). Pub. L. 111–190, § 4(2), made technical amendment to references in original act which appear in two places in text as references to section 7a–1(a) of this title.
+Par. (3). Pub. L. 111–190, § 4(2), made technical amendment to references in original act which appear in two places in text as references to section 7a–1(a) of this title.
 
-## § 7a–3. Anti-retaliation protection for whistleblowers
+## § 7a–3. Anti-retaliation protection for whistleblowers
 
 **(a) Whistleblower protections for employees, contractors, subcontractors, and agents**
 
@@ -783,13 +783,13 @@ A covered individual prevailing in any action under subsection (b)(1) shall be e
 
 Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any covered individual under any Federal or State law, or under any collective bargaining agreement.
 
-(Pub. L. 108–237, title II, § 216, as added Pub. L. 116–257, § 2, Dec. 23, 2020, 134 Stat. 1147.)
+(Pub. L. 108–237, title II, § 216, as added Pub. L. 116–257, § 2, Dec. 23, 2020, 134 Stat. 1147.)
 
-## § 8. Trusts in restraint of import trade illegal; penalty
+## § 8. Trusts in restraint of import trade illegal; penalty
 
 Every combination, conspiracy, trust, agreement, or contract is declared to be contrary to public policy, illegal, and void when the same is made by or between two or more persons or corporations, either of whom, as agent or principal, is engaged in importing any article from any foreign country into the United States, and when such combination, conspiracy, trust, agreement, or contract is intended to operate in restraint of lawful trade, or free competition in lawful trade or commerce, or to increase the market price in any part of the United States of any article or articles imported or intended to be imported into the United States, or of any manufacture into which such imported article enters or is intended to enter. Every person who shall be engaged in the importation of goods or any commodity from any foreign country in violation of this section, or who shall combine or conspire with another to violate the same, is guilty of a misdemeanor, and on conviction thereof in any court of the United States such person shall be fined in a sum not less than $100 and not exceeding $5,000, and shall be further punished by imprisonment, in the discretion of the court, for a term not less than three months nor exceeding twelve months.
 
-(Aug. 27, 1894, ch. 349, § 73, 28 Stat. 570; Feb. 12, 1913, ch. 40, 37 Stat. 667.)
+(Aug. 27, 1894, ch. 349, § 73, 28 Stat. 570; Feb. 12, 1913, ch. 40, 37 Stat. 667.)
 
 **Editorial Notes**
 
@@ -801,13 +801,13 @@ Every combination, conspiracy, trust, agreement, or contract is declared to be c
 
 **Short Title**
 
-Section 77, formerly § 78, of act Aug. 27, 1894, as added by Pub. L. 94–435, title III, § 305(d), Sept. 30, 1976, 90 Stat. 1397; renumbered § 77 and amended Pub. L. 107–273, div. C, title IV, § 14102(c)(1)(B), Nov. 2, 2002, 116 Stat. 1921, provided that: “Sections 73, 74, 75, and 76 of this Act [enacting sections 8 to 11 of this title] may be cited as the ‘Wilson Tariff Act’.”
+Section 77, formerly § 78, of act Aug. 27, 1894, as added by Pub. L. 94–435, title III, § 305(d), Sept. 30, 1976, 90 Stat. 1397; renumbered § 77 and amended Pub. L. 107–273, div. C, title IV, § 14102(c)(1)(B), Nov. 2, 2002, 116 Stat. 1921, provided that: “Sections 73, 74, 75, and 76 of this Act [enacting sections 8 to 11 of this title] may be cited as the ‘Wilson Tariff Act’.”
 
-## § 9. Jurisdiction of courts; duty of United States attorneys; procedure
+## § 9. Jurisdiction of courts; duty of United States attorneys; procedure
 
 The several district courts of the United States are invested with jurisdiction to prevent and restrain violations of section 8 of this title; and it shall be the duty of the several United States attorneys, in their respective districts, under the direction of the Attorney General, to institute proceedings in equity to prevent and restrain such violations. Such proceedings may be by way of petitions setting forth the case and praying that such violations shall be enjoined or otherwise prohibited. When the parties complained of shall have been duly notified of such petition the court shall proceed, as soon as may be, to the hearing and determination of the case; and pending such petition and before final decree, the court may at any time make such temporary restraining order or prohibition as shall be deemed just in the premises.
 
-(Aug. 27, 1894, ch. 349, § 74, 28 Stat. 570; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
+(Aug. 27, 1894, ch. 349, § 74, 28 Stat. 570; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
 
 **Editorial Notes**
 
@@ -821,17 +821,17 @@ Act Mar. 3, 1911, vested jurisdiction in “district” courts, instead of “ci
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys of the United States”. See section 541 et seq. of Title 28, Judiciary and Judicial Procedure.
 
-## § 10. Bringing in additional parties
+## § 10. Bringing in additional parties
 
 Whenever it shall appear to the court before which any proceeding under section 9 of this title may be pending, that the ends of justice require that other parties should be brought before the court, the court may cause them to be summoned, whether they reside in the district in which the court is held or not; and subpoenas to that end may be served in any district by the marshal thereof.
 
-(Aug. 27, 1894, ch. 349, § 75, 28 Stat. 570.)
+(Aug. 27, 1894, ch. 349, § 75, 28 Stat. 570.)
 
-## § 11. Forfeiture of property in transit
+## § 11. Forfeiture of property in transit
 
 Any property owned under any contract or by any combination, or pursuant to any conspiracy, and being the subject thereof, mentioned in section 8 of this title, imported into and being within the United States or being in the course of transportation from one State to another, or to or from a Territory or the District of Columbia, shall be forfeited to the United States, and may be seized and condemned by like proceedings as those provided by law for the forfeiture, seizure, and condemnation of property imported into the United States contrary to law.
 
-(Aug. 27, 1894, ch. 349, § 76, 28 Stat. 570; Feb. 12, 1913, ch. 40, 37 Stat. 667.)
+(Aug. 27, 1894, ch. 349, § 76, 28 Stat. 570; Feb. 12, 1913, ch. 40, 37 Stat. 667.)
 
 **Editorial Notes**
 
@@ -839,9 +839,9 @@ Any property owned under any contract or by any combination, or pursuant to any 
 
 1913—Act Feb. 12, 1913, substituted “imported into and being within the United States or” for “and”.
 
-## § 12. Definitions; short title
+## § 12. Definitions; short title
 
-**(a)** “Antitrust laws,” as used herein, includes the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July second, eighteen hundred and ninety; sections seventy-three to seventy-six, inclusive, of an Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” of August twenty-seventh, eighteen hundred and ninety-four; an Act entitled “An Act to amend sections seventy-three and seventy-six of the Act of August twenty-seventh, eighteen hundred and ninety-four, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes,’ ” approved February twelfth, nineteen hundred and thirteen; and also this Act.
+**(a)** “Antitrust laws,” as used herein, includes the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July second, eighteen hundred and ninety; sections seventy-three to seventy-six, inclusive, of an Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” of August twenty-seventh, eighteen hundred and ninety-four; an Act entitled “An Act to amend sections seventy-three and seventy-six of the Act of August twenty-seventh, eighteen hundred and ninety-four, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes,’ ” approved February twelfth, nineteen hundred and thirteen; and also this Act.
 
 “Commerce,” as used herein, means trade or commerce among the several States and with foreign nations, or between the District of Columbia or any Territory of the United States and any State, Territory, or foreign nation, or between any insular possessions or other places under the jurisdiction of the United States, or between any such possession or place and any State or Territory of the United States or the District of Columbia or any foreign nation, or within the District of Columbia or any Territory or any insular possession or other place under the jurisdiction of the United States: *Provided*, That nothing in this Act contained shall apply to the Philippine Islands.
 
@@ -849,7 +849,7 @@ The word “person” or “persons” wherever used in this Act shall be deemed
 
 **(b)** This Act may be cited as the “Clayton Act”.
 
-(Oct. 15, 1914, ch. 323, § 1, 38 Stat. 730; Pub. L. 94–435, title III, § 305(b), Sept. 30, 1976, 90 Stat. 1397; Pub. L. 107–273, div. C, title IV, § 14102(c)(2)(A), Nov. 2, 2002, 116 Stat. 1921.)
+(Oct. 15, 1914, ch. 323, § 1, 38 Stat. 730; Pub. L. 94–435, title III, § 305(b), Sept. 30, 1976, 90 Stat. 1397; Pub. L. 107–273, div. C, title IV, § 14102(c)(2)(A), Nov. 2, 2002, 116 Stat. 1921.)
 
 **Editorial Notes**
 
@@ -863,7 +863,7 @@ The Act entitled “An Act to reduce taxation, to provide revenue for the Govern
 
 The Act entitled “An Act to amend sections seventy-three and seventy-six of the Act of August twenty-seventh, eighteen hundred and ninety-four, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes’,” approved February twelfth, nineteen hundred and thirteen, referred to in subsec. (a), is act Feb. 12, 1913, ch. 40, 37 Stat. 667, which is classified to sections 8 and 11 of this title.
 
-The Clayton Act, referred to in subsec. (b), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. Sections 9 and 21 to 25 of the act were repealed by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948, and their provisions are now covered by sections 402, 660, 3285 and 3691 of Title 18, Crimes and Criminal Procedure, except that former section 23 of the act is obsolete and not now covered. Sections 17 to 19 of the act were repealed by act June 25, 1948, ch. 646, § 39, 62 Stat. 992, eff. Sept. 1, 1948, and their provisions are now covered by rule 65 of the Federal Rules of Civil Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Tables.
+The Clayton Act, referred to in subsec. (b), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. Sections 9 and 21 to 25 of the act were repealed by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948, and their provisions are now covered by sections 402, 660, 3285 and 3691 of Title 18, Crimes and Criminal Procedure, except that former section 23 of the act is obsolete and not now covered. Sections 17 to 19 of the act were repealed by act June 25, 1948, ch. 646, § 39, 62 Stat. 992, eff. Sept. 1, 1948, and their provisions are now covered by rule 65 of the Federal Rules of Civil Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
@@ -881,7 +881,7 @@ The 3d par. of subsec. (a) is also classified to section 53 of Title 29, Labor.
 
 Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to cases commenced on or after Nov. 2, 2002, see section 14103 of Pub. L. 107–273, set out as a note under section 3 of this title.
 
-## § 13. Discrimination in price, services, or facilities
+## § 13. Discrimination in price, services, or facilities
 
 **(a) Price; selection of customers**
 
@@ -907,7 +907,7 @@ It shall be unlawful for any person to discriminate in favor of one purchaser ag
 
 It shall be unlawful for any person engaged in commerce, in the course of such commerce, knowingly to induce or receive a discrimination in price which is prohibited by this section.
 
-(Oct. 15, 1914, ch. 323, § 2, 38 Stat. 730; June 19, 1936, ch. 592, § 1, 49 Stat. 1526.)
+(Oct. 15, 1914, ch. 323, § 2, 38 Stat. 730; June 19, 1936, ch. 592, § 1, 49 Stat. 1526.)
 
 **Editorial Notes**
 
@@ -921,19 +921,19 @@ It shall be unlawful for any person engaged in commerce, in the course of such c
 
 Act June 19, 1936, which amended this section and added sections 13a, 13b, and 21a of this title, is popularly known as the Robinson-Patman Act, as the Robinson-Patman Antidiscrimination Act, and also as the Robinson-Patman Price Discrimination Act.
 
-## § 13a. Discrimination in rebates, discounts, or advertising service charges; underselling in particular localities; penalties
+## § 13a. Discrimination in rebates, discounts, or advertising service charges; underselling in particular localities; penalties
 
 It shall be unlawful for any person engaged in commerce, in the course of such commerce, to be a party to, or assist in, any transaction of sale, or contract to sell, which discriminates to his knowledge against competitors of the purchaser, in that, any discount, rebate, allowance, or advertising service charge is granted to the purchaser over and above any discount, rebate, allowance, or advertising service charge available at the time of such transaction to said competitors in respect of a sale of goods of like grade, quality, and quantity; to sell, or contract to sell, goods in any part of the United States at prices lower than those exacted by said person elsewhere in the United States for the purpose of destroying competition, or eliminating a competitor in such part of the United States; or, to sell, or contract to sell, goods at unreasonably low prices for the purpose of destroying competition or eliminating a competitor.
 
 Any person violating any of the provisions of this section shall, upon conviction thereof, be fined not more than $5,000 or imprisoned not more than one year, or both.
 
-(June 19, 1936, ch. 592, § 3, 49 Stat. 1528.)
+(June 19, 1936, ch. 592, § 3, 49 Stat. 1528.)
 
-## § 13b. Cooperative association; return of net earnings or surplus
+## § 13b. Cooperative association; return of net earnings or surplus
 
 Nothing in this Act shall prevent a cooperative association from returning to its members, producers, or consumers the whole, or any part of, the net earnings or surplus resulting from its trading operations, in proportion to their purchases or sales from, to, or through the association.
 
-(June 19, 1936, ch. 592, § 4, 49 Stat. 1528.)
+(June 19, 1936, ch. 592, § 4, 49 Stat. 1528.)
 
 **Editorial Notes**
 
@@ -941,7 +941,7 @@ Nothing in this Act shall prevent a cooperative association from returning to it
 
 This Act, referred to in text, is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of this title and amended section 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 13 of this title and Tables.
 
-## § 13c. Exemption of non-profit institutions from price discrimination provisions
+## § 13c. Exemption of non-profit institutions from price discrimination provisions
 
 Nothing in the Act approved June 19, 1936, known as the Robinson-Patman Antidiscrimination Act, shall apply to purchases of their supplies for their own use by schools, colleges, universities, public libraries, churches, hospitals, and charitable institutions not operated for profit.
 
@@ -953,13 +953,13 @@ Nothing in the Act approved June 19, 1936, known as the Robinson-Patman Antidisc
 
 The Act approved June 19, 1936, known as the Robinson-Patman Antidiscrimination Act, referred to in text, is act June 19, 1936, ch. 592, 49 Stat. 1526, also known as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of this title and amended section 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 13 of this title and Tables.
 
-## § 14. Sale, etc., on agreement not to use goods of competitor
+## § 14. Sale, etc., on agreement not to use goods of competitor
 
 It shall be unlawful for any person engaged in commerce, in the course of such commerce, to lease or make a sale or contract for sale of goods, wares, merchandise, machinery, supplies, or other commodities, whether patented or unpatented, for use, consumption, or resale within the United States or any Territory thereof or the District of Columbia or any insular possession or other place under the jurisdiction of the United States, or fix a price charged therefor, or discount from, or rebate upon, such price, on the condition, agreement, or understanding that the lessee or purchaser thereof shall not use or deal in the goods, wares, merchandise, machinery, supplies, or other commodities of a competitor or competitors of the lessor or seller, where the effect of such lease, sale, or contract for sale or such condition, agreement, or understanding may be to substantially lessen competition or tend to create a monopoly in any line of commerce.
 
-(Oct. 15, 1914, ch. 323, § 3, 38 Stat. 731.)
+(Oct. 15, 1914, ch. 323, § 3, 38 Stat. 731.)
 
-## § 15. Suits by persons injured
+## § 15. Suits by persons injured
 
 **(a) Amount of recovery; prejudgment interest** Except as provided in subsection (b), any person who shall be injured in his business or property by reason of anything forbidden in the antitrust laws may sue therefor in any district court of the United States in the district in which the defendant resides or is found or has an agent, without respect to the amount in controversy, and shall recover threefold the damages by him sustained, and the cost of suit, including a reasonable attorney’s fee. The court may award under this section, pursuant to a motion by such person promptly made, simple interest on actual damages for the period beginning on the date of service of such person’s pleading setting forth a claim under the antitrust laws and ending on the date of judgment, or for any shorter period therein, if the court finds that the award of such interest for such period is just in the circumstances. In determining whether an award of interest under this section for any period is just in the circumstances, the court shall consider only—
 
@@ -989,7 +989,7 @@ It shall be unlawful for any person engaged in commerce, in the course of such c
 
 **(2)** the term “foreign state” shall have the meaning given it in section 1603(a) of title 28.
 
-(Oct. 15, 1914, ch. 323, § 4, 38 Stat. 731; Pub. L. 96–349, § 4(a)(1), Sept. 12, 1980, 94 Stat. 1156; Pub. L. 97–393, Dec. 29, 1982, 96 Stat. 1964.)
+(Oct. 15, 1914, ch. 323, § 4, 38 Stat. 731; Pub. L. 96–349, § 4(a)(1), Sept. 12, 1980, 94 Stat. 1156; Pub. L. 97–393, Dec. 29, 1982, 96 Stat. 1964.)
 
 **Editorial Notes**
 
@@ -999,7 +999,7 @@ The antitrust laws, referred to in subsec. (a), are defined in section 12 of thi
 
 **Prior Provisions**
 
-Section supersedes two former similar sections enacted by act July 2, 1890, ch. 647, § 7, 26 Stat. 210, and act Aug. 27, 1894, ch. 349, § 77, 28 Stat. 570, each of which were restricted in operation to the particular act cited. Section 7 of act July 2, 1890, was repealed by act July 7, 1955, ch. 283, § 3, 69 Stat. 283, effective six months after July 7, 1955. Section 77 of act Aug. 27, 1894, was repealed by Pub. L. 107–273, div. C, title IV, §§ 14102(c)(1)(A), 14103, Nov. 2, 2002, 116 Stat. 1921, 1922, effective Nov. 2, 2002, and applicable only with respect to cases commenced on or after Nov. 2, 2002.
+Section supersedes two former similar sections enacted by act July 2, 1890, ch. 647, § 7, 26 Stat. 210, and act Aug. 27, 1894, ch. 349, § 77, 28 Stat. 570, each of which were restricted in operation to the particular act cited. Section 7 of act July 2, 1890, was repealed by act July 7, 1955, ch. 283, § 3, 69 Stat. 283, effective six months after July 7, 1955. Section 77 of act Aug. 27, 1894, was repealed by Pub. L. 107–273, div. C, title IV, §§ 14102(c)(1)(A), 14103, Nov. 2, 2002, 116 Stat. 1921, 1922, effective Nov. 2, 2002, and applicable only with respect to cases commenced on or after Nov. 2, 2002.
 
 **Amendments**
 
@@ -1011,9 +1011,9 @@ Section supersedes two former similar sections enacted by act July 2, 1890, ch. 
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–349, § 4(b), Sept. 12, 1980, 94 Stat. 1157, provided that: “The amendments made by this section [amending this section and sections 15a and 15c of this title] shall apply only with respect to actions commenced after the date of the enactment of this Act [Sept 12, 1980].”
+Pub. L. 96–349, § 4(b), Sept. 12, 1980, 94 Stat. 1157, provided that: “The amendments made by this section [amending this section and sections 15a and 15c of this title] shall apply only with respect to actions commenced after the date of the enactment of this Act [Sept 12, 1980].”
 
-## § 15a. Suits by United States; amount of recovery; prejudgment interest
+## § 15a. Suits by United States; amount of recovery; prejudgment interest
 
 Whenever the United States is hereafter injured in its business or property by reason of anything forbidden in the antitrust laws it may sue therefor in the United States district court for the district in which the defendant resides or is found or has an agent, without respect to the amount in controversy, and shall recover threefold the damages by it sustained and the cost of suit. The court may award under this section, pursuant to a motion by the United States promptly made, simple interest on actual damages for the period beginning on the date of service of the pleading of the United States setting forth a claim under the antitrust laws and ending on the date of judgment, or for any shorter period therein, if the court finds that the award of such interest for such period is just in the circumstances. In determining whether an award of interest under this section for any period is just in the circumstances, the court shall consider only—
 
@@ -1025,7 +1025,7 @@ Whenever the United States is hereafter injured in its business or property by r
 
 **(4)** whether the award of such interest is necessary to compensate the United States adequately for the injury sustained by the United States.
 
-(Oct. 15, 1914, ch. 323, § 4A, as added July 7, 1955, ch. 283, § 1, 69 Stat. 282; amended Pub. L. 96–349, § 4(a)(2), Sept. 12, 1980, 94 Stat. 1156; Pub. L. 101–588, § 5, Nov. 16, 1990, 104 Stat. 2880.)
+(Oct. 15, 1914, ch. 323, § 4A, as added July 7, 1955, ch. 283, § 1, 69 Stat. 282; amended Pub. L. 96–349, § 4(a)(2), Sept. 12, 1980, 94 Stat. 1156; Pub. L. 101–588, § 5, Nov. 16, 1990, 104 Stat. 2880.)
 
 **Editorial Notes**
 
@@ -1049,11 +1049,11 @@ Amendment by Pub. L. 96–349 applicable only with respect to actions commenced 
 
 Section effective six months after July 7, 1955, see note set out under section 15b of this title.
 
-## § 15b. Limitation of actions
+## § 15b. Limitation of actions
 
 Any action to enforce any cause of action under section 15, 15a, or 15c of this title shall be forever barred unless commenced within four years after the cause of action accrued. No cause of action barred under existing law on the effective date of this Act shall be revived by this Act.
 
-(Oct. 15, 1914, ch. 323, § 4B, as added July 7, 1955, ch. 283, § 1, 69 Stat. 283; amended Pub. L. 94–435, title III, § 302(1), Sept. 30, 1976, 90 Stat. 1396.)
+(Oct. 15, 1914, ch. 323, § 4B, as added July 7, 1955, ch. 283, § 1, 69 Stat. 283; amended Pub. L. 94–435, title III, § 302(1), Sept. 30, 1976, 90 Stat. 1396.)
 
 **Editorial Notes**
 
@@ -1071,9 +1071,9 @@ This Act, referred to in text, probably refers to act July 7, 1955.
 
 **Effective Date**
 
-Act July 7, 1955, ch. 283, § 4, 69 Stat. 283, provided: “This Act [enacting this section and section 15a of this title, amending section 16 of this title, and repealing provisions set out as a note under section 15 of this title] shall take effect six months after its enactment [July 7, 1955].”
+Act July 7, 1955, ch. 283, § 4, 69 Stat. 283, provided: “This Act [enacting this section and section 15a of this title, amending section 16 of this title, and repealing provisions set out as a note under section 15 of this title] shall take effect six months after its enactment [July 7, 1955].”
 
-## § 15c. Actions by State attorneys general
+## § 15c. Actions by State attorneys general
 
 **(a) Parens patriae; monetary relief; damages; prejudgment interest**
 
@@ -1105,7 +1105,7 @@ An action under subsection (a)(1) shall not be dismissed or compromised without 
 
 **(2)** the court may, in its discretion, award a reasonable attorney’s fee to a prevailing defendant upon a finding that the State attorney general has acted in bad faith, vexatiously, wantonly, or for oppressive reasons.
 
-(Oct. 15, 1914, ch. 323, § 4C, as added Pub. L. 94–435, title III, § 301, Sept. 30, 1976, 90 Stat. 1394; amended Pub. L. 96–349, § 4(a)(3), Sept. 12, 1980, 94 Stat. 1157.)
+(Oct. 15, 1914, ch. 323, § 4C, as added Pub. L. 94–435, title III, § 301, Sept. 30, 1976, 90 Stat. 1394; amended Pub. L. 96–349, § 4(a)(3), Sept. 12, 1980, 94 Stat. 1157.)
 
 **Editorial Notes**
 
@@ -1125,13 +1125,13 @@ Amendment by Pub. L. 96–349 applicable only with respect to actions commenced 
 
 **Effective Date**
 
-Pub. L. 94–435, title III, § 304, Sept. 30, 1976, 90 Stat. 1396, provided that: “The amendments to the Clayton Act made by section 301 of this Act [enacting this section and sections 15d to 15h of this title] shall not apply to any injury sustained prior to the date of enactment of this Act [Sept. 30, 1976].”
+Pub. L. 94–435, title III, § 304, Sept. 30, 1976, 90 Stat. 1396, provided that: “The amendments to the Clayton Act made by section 301 of this Act [enacting this section and sections 15d to 15h of this title] shall not apply to any injury sustained prior to the date of enactment of this Act [Sept. 30, 1976].”
 
-## § 15d. Measurement of damages
+## § 15d. Measurement of damages
 
 In any action under section 15c(a)(1) of this title, in which there has been a determination that a defendant agreed to fix prices in violation of sections 1 to 7 of this title, damages may be proved and assessed in the aggregate by statistical or sampling methods, by the computation of illegal overcharges, or by such other reasonable system of estimating aggregate damages as the court in its discretion may permit without the necessity of separately proving the individual claim of, or amount of damage to, persons on whose behalf the suit was brought.
 
-(Oct. 15, 1914, ch. 323, § 4D, as added Pub. L. 94–435, title III, § 301, Sept. 30, 1976, 90 Stat. 1395.)
+(Oct. 15, 1914, ch. 323, § 4D, as added Pub. L. 94–435, title III, § 301, Sept. 30, 1976, 90 Stat. 1395.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1139,7 +1139,7 @@ In any action under section 15c(a)(1) of this title, in which there has been a d
 
 Injuries sustained prior to Sept. 30, 1976, not covered by this section, see section 304 of Pub. L. 94–435, set out as a note under section 15c of this title.
 
-## § 15e. Distribution of damages
+## § 15e. Distribution of damages
 
 Monetary relief recovered in an action under section 15c(a)(1) of this title shall—
 
@@ -1149,7 +1149,7 @@ Monetary relief recovered in an action under section 15c(a)(1) of this title sha
 
 subject in either case to the requirement that any distribution procedure adopted afford each person a reasonable opportunity to secure his appropriate portion of the net monetary relief.
 
-(Oct. 15, 1914, ch. 323, § 4E, as added Pub. L. 94–435, title III, § 301, Sept. 30, 1976, 90 Stat. 1395.)
+(Oct. 15, 1914, ch. 323, § 4E, as added Pub. L. 94–435, title III, § 301, Sept. 30, 1976, 90 Stat. 1395.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1157,7 +1157,7 @@ subject in either case to the requirement that any distribution procedure adopte
 
 Injuries sustained prior to Sept. 30, 1976, not covered by this section, see section 304 of Pub. L. 94–435, set out as a note under section 15c of this title.
 
-## § 15f. Actions by Attorney General
+## § 15f. Actions by Attorney General
 
 **(a) Notification to State attorney general**
 
@@ -1167,7 +1167,7 @@ Whenever the Attorney General of the United States has brought an action under t
 
 To assist a State attorney general in evaluating the notice or in bringing any action under this Act, the Attorney General of the United States shall, upon request by such State attorney general, make available to him, to the extent permitted by law, any investigative files or other materials which are or may be relevant or material to the actual or potential cause of action under this Act.
 
-(Oct. 15, 1914, ch. 323, § 4F, as added Pub. L. 94–435, title III, § 301, Sept. 30, 1976, 90 Stat. 1395.)
+(Oct. 15, 1914, ch. 323, § 4F, as added Pub. L. 94–435, title III, § 301, Sept. 30, 1976, 90 Stat. 1395.)
 
 **Editorial Notes**
 
@@ -1183,7 +1183,7 @@ This Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 730, know
 
 Injuries sustained prior to Sept. 30, 1976, not covered by this section, see section 304 of Pub. L. 94–435, set out as a note under section 15c of this title.
 
-## § 15g. Definitions
+## § 15g. Definitions
 
 For the purposes of sections 15c, 15d, 15e, and 15f of this title:
 
@@ -1197,7 +1197,7 @@ For the purposes of sections 15c, 15d, 15e, and 15f of this title:
 
 **(3)** The term “natural persons” does not include proprietorships or partnerships.
 
-(Oct. 15, 1914, ch. 323, § 4G, as added Pub. L. 94–435, title III, § 301, Sept. 30, 1976, 90 Stat. 1396.)
+(Oct. 15, 1914, ch. 323, § 4G, as added Pub. L. 94–435, title III, § 301, Sept. 30, 1976, 90 Stat. 1396.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1205,11 +1205,11 @@ For the purposes of sections 15c, 15d, 15e, and 15f of this title:
 
 Injuries sustained prior to Sept. 30, 1976, not covered by this section, see section 304 of Pub. L. 94–435, set out as a note under section 15c of this title.
 
-## § 15h. Applicability of parens patriae actions
+## § 15h. Applicability of parens patriae actions
 
 Sections 15c, 15d, 15e, 15f, and 15g of this title shall apply in any State, unless such State provides by law for its nonapplicability in such State.
 
-(Oct. 15, 1914, ch. 323, § 4H, as added Pub. L. 94–435, title III, § 301, Sept. 30, 1976, 90 Stat. 1396.)
+(Oct. 15, 1914, ch. 323, § 4H, as added Pub. L. 94–435, title III, § 301, Sept. 30, 1976, 90 Stat. 1396.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1217,7 +1217,7 @@ Sections 15c, 15d, 15e, 15f, and 15g of this title shall apply in any State, unl
 
 Injuries sustained prior to Sept. 30, 1976, not covered by this section, see section 304 of Pub. L. 94–435, set out as a note under section 15c of this title.
 
-## § 16. Judgments
+## § 16. Judgments
 
 **(a) Prima facie evidence; collateral estoppel**
 
@@ -1283,7 +1283,7 @@ Proceedings before the district court under subsections (e) and (f) of this sect
 
 Whenever any civil or criminal proceeding is instituted by the United States to prevent, restrain, or punish violations of any of the antitrust laws, but not including an action under section 15a of this title, the running of the statute of limitations in respect to every private or State right of action arising under said laws and based in whole or in part on any matter complained of in said proceeding shall be suspended during the pendency thereof and for one year thereafter: *Provided, however*, That whenever the running of the statute of limitations in respect of a cause of action arising under section 15 or 15c of this title is suspended hereunder, any action to enforce such cause of action shall be forever barred unless commenced either within the period of suspension or within four years after the cause of action accrued.
 
-(Oct. 15, 1914, ch. 323, § 5, 38 Stat. 731; July 7, 1955, ch. 283, § 2, 69 Stat. 283; Pub. L. 93–528, § 2, Dec. 21, 1974, 88 Stat. 1706; Pub. L. 94–435, title III, § 302(2), Sept. 30, 1976, 90 Stat. 1396; Pub. L. 96–349, § 5(a), Sept. 12, 1980, 94 Stat. 1157; Pub. L. 108–237, title II, § 221(b), June 22, 2004, 118 Stat. 668.)
+(Oct. 15, 1914, ch. 323, § 5, 38 Stat. 731; July 7, 1955, ch. 283, § 2, 69 Stat. 283; Pub. L. 93–528, § 2, Dec. 21, 1974, 88 Stat. 1706; Pub. L. 94–435, title III, § 302(2), Sept. 30, 1976, 90 Stat. 1396; Pub. L. 96–349, § 5(a), Sept. 12, 1980, 94 Stat. 1157; Pub. L. 108–237, title II, § 221(b), June 22, 2004, 118 Stat. 668.)
 
 **Editorial Notes**
 
@@ -1293,15 +1293,15 @@ The antitrust laws, referred to in subsecs. (a), (b), and (g) to (i), are define
 
 **Amendments**
 
-2004—Subsec. (d). Pub. L. 108–237, § 221(b)(1), inserted at end “Upon application by the United States, the district court may, for good cause (based on a finding that the expense of publication in the Federal Register exceeds the public interest benefits to be gained from such publication), authorize an alternative method of public dissemination of the public comments received and the response to those comments.”
+2004—Subsec. (d). Pub. L. 108–237, § 221(b)(1), inserted at end “Upon application by the United States, the district court may, for good cause (based on a finding that the expense of publication in the Federal Register exceeds the public interest benefits to be gained from such publication), authorize an alternative method of public dissemination of the public comments received and the response to those comments.”
 
-Subsec. (e). Pub. L. 108–237, § 221(b)(2), designated introductory provisions as par. (1), substituted “court shall” for “court may”, added subpars. (A) and (B) and par. (2), and struck out former pars. (1) and (2) which read as follows:
+Subsec. (e). Pub. L. 108–237, § 221(b)(2), designated introductory provisions as par. (1), substituted “court shall” for “court may”, added subpars. (A) and (B) and par. (2), and struck out former pars. (1) and (2) which read as follows:
 
 “(1) the competitive impact of such judgment, including termination of alleged violations, provisions for enforcement and modification, duration or relief sought, anticipated effects of alternative remedies actually considered, and any other considerations bearing upon the adequacy of such judgment;
 
 “(2) the impact of entry of such judgment upon the public generally and individuals alleging specific injury from the violations set forth in the complaint including consideration of the public benefit, if any, to be derived from a determination of the issues at trial.”
 
-Subsec. (g). Pub. L. 108–237, § 221(b)(3), inserted “by any officer, director, employee, or agent of such defendant” before “, or other person” in first sentence.
+Subsec. (g). Pub. L. 108–237, § 221(b)(3), inserted “by any officer, director, employee, or agent of such defendant” before “, or other person” in first sentence.
 
 1980—Subsec. (a). Pub. L. 96–349 made collateral estoppel inapplicable in any action or proceeding brought under the antitrust laws to any finding made by the Commission under the antitrust laws or under section 45 of this title which could give rise to a claim for relief under the antitrust laws; struck out “or by the United States under section 15a of this title,” after “under said laws”; and deleted from proviso “or to judgments or decrees entered in actions under section 15a of this title” after “testimony has been taken”.
 
@@ -1315,7 +1315,7 @@ Subsec. (g). Pub. L. 108–237, § 221(b)(3), inserted “by any officer, dire
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–349, § 5(b), Sept. 12, 1980, 94 Stat. 1157, provided that: “The amendments made by this section [amending this section] shall apply only with respect to actions commenced after the date of the enactment of this Act [Sept. 12, 1980].”
+Pub. L. 96–349, § 5(b), Sept. 12, 1980, 94 Stat. 1157, provided that: “The amendments made by this section [amending this section] shall apply only with respect to actions commenced after the date of the enactment of this Act [Sept. 12, 1980].”
 
 **Suspension of Limitation**
 
@@ -1323,7 +1323,7 @@ Act Oct. 10, 1942, ch. 589, 56 Stat. 781, as amended June 30, 1945, ch. 213, 59 
 
 **Findings and Purposes of 2004 Amendment**
 
-Pub. L. 108–237, title II, § 221(a), June 22, 2004, 118 Stat. 668, provided that:
+Pub. L. 108–237, title II, § 221(a), June 22, 2004, 118 Stat. 668, provided that:
 
 > **“(1) Findings.—** Congress finds that—
 
@@ -1333,11 +1333,11 @@ Pub. L. 108–237, title II, § 221(a), June 22, 2004, 118 Stat. 668, provided
 
 > **“(2) Purposes.—** The purpose of this section [amending this section] is to effectuate the original Congressional intent in enacting the Tunney Act and to ensure that United States settlements of civil antitrust suits are in the public interest.”
 
-## § 17. Antitrust laws not applicable to labor organizations
+## § 17. Antitrust laws not applicable to labor organizations
 
 The labor of a human being is not a commodity or article of commerce. Nothing contained in the antitrust laws shall be construed to forbid the existence and operation of labor, agricultural, or horticultural organizations, instituted for the purposes of mutual help, and not having capital stock or conducted for profit, or to forbid or restrain individual members of such organizations from lawfully carrying out the legitimate objects thereof; nor shall such organizations, or the members thereof, be held or construed to be illegal combinations or conspiracies in restraint of trade, under the antitrust laws.
 
-(Oct. 15, 1914, ch. 323, § 6, 38 Stat. 731.)
+(Oct. 15, 1914, ch. 323, § 6, 38 Stat. 731.)
 
 **Editorial Notes**
 
@@ -1345,7 +1345,7 @@ The labor of a human being is not a commodity or article of commerce. Nothing co
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.
 
-## § 18. Acquisition by one corporation of stock of another
+## § 18. Acquisition by one corporation of stock of another
 
 No person engaged in commerce or in any activity affecting commerce shall acquire, directly or indirectly, the whole or any part of the stock or other share capital and no person subject to the jurisdiction of the Federal Trade Commission shall acquire the whole or any part of the assets of another person engaged also in commerce or in any activity affecting commerce, where in any line of commerce or in any activity affecting commerce in any section of the country, the effect of such acquisition may be substantially to lessen competition, or to tend to create a monopoly.
 
@@ -1359,23 +1359,23 @@ Nothing contained in this section shall be held to affect or impair any right he
 
 Nothing contained in this section shall apply to transactions duly consummated pursuant to authority given by the Secretary of Transportation, Federal Power Commission, Surface Transportation Board, the Securities and Exchange Commission in the exercise of its jurisdiction under section 79j of this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the United States Maritime Commission, or the Secretary of Agriculture under any statutory provision vesting such power in such Commission, Board, or Secretary.
 
-(Oct. 15, 1914, ch. 323, § 7, 38 Stat. 731; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Pub. L. 96–349, § 6(a), Sept. 12, 1980, 94 Stat. 1157; Pub. L. 98–443, § 9(*l*), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 104–88, title III, § 318(1), Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–104, title VI, § 601(b)(3), Feb. 8, 1996, 110 Stat. 143.)
+(Oct. 15, 1914, ch. 323, § 7, 38 Stat. 731; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Pub. L. 96–349, § 6(a), Sept. 12, 1980, 94 Stat. 1157; Pub. L. 98–443, § 9(*l*), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 104–88, title III, § 318(1), Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–104, title VI, § 601(b)(3), Feb. 8, 1996, 110 Stat. 143.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 79j of this title, referred to in text, was repealed by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974.
+Section 79j of this title, referred to in text, was repealed by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974.
 
 **Amendments**
 
 1996—Pub. L. 104–104, in sixth par., struck out “Federal Communications Commission,” after “Secretary of Transportation,”.
 
-1995—Pub. L. 104–88, in sixth par., substituted “Surface Transportation Board” for “Interstate Commerce Commission” and inserted “, Board,” after “vesting such power in such Commission”.
+1995—Pub. L. 104–88, in sixth par., substituted “Surface Transportation Board” for “Interstate Commerce Commission” and inserted “, Board,” after “vesting such power in such Commission”.
 
 1984—Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board” and “Commission or Secretary” for “Commission, Secretary, or Board” in sixth par.
 
@@ -1395,25 +1395,25 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–349, § 6(b), Sept. 12, 1980, 94 Stat. 1158, provided that: “The amendments made by this section [amending this section] shall apply only with respect to acquisitions made after the date of the enactment of this Act [Sept. 12, 1980].”
+Pub. L. 96–349, § 6(b), Sept. 12, 1980, 94 Stat. 1158, provided that: “The amendments made by this section [amending this section] shall apply only with respect to acquisitions made after the date of the enactment of this Act [Sept. 12, 1980].”
 
 **Transfer of Functions**
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
-Maritime Administration of Department of Commerce transferred to Department of Transportation, and all related functions of Secretary and other officers and offices of Department of Commerce transferred to Department of Transportation and vested in Secretary of Transportation, by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710. See section 109 of Title 49, Transportation.
+Maritime Administration of Department of Commerce transferred to Department of Transportation, and all related functions of Secretary and other officers and offices of Department of Commerce transferred to Department of Transportation and vested in Secretary of Transportation, by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710. See section 109 of Title 49, Transportation.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Executive and administrative functions of Maritime Commission transferred to Chairman of Maritime Commission by Reorg. Plan No. 6 of 1949, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1069, which was repealed by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710, and was formerly set out in the Appendix to Title 5, Government Organization and Employees.
+Executive and administrative functions of Maritime Commission transferred to Chairman of Maritime Commission by Reorg. Plan No. 6 of 1949, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1069, which was repealed by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710, and was formerly set out in the Appendix to Title 5, Government Organization and Employees.
 
-United States Maritime Commission abolished by Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, which was superseded in part by Reorg. Plan No. 7 of 1961, § 305, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, repealed in part by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710, and remains only partially set out in the Appendix to Title 5. Reorg. Plan No. 21 of 1950 transferred part of Commission’s functions and part of functions of its Chairman, to Federal Maritime Board and Chairman thereof, such Board having been created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder of such Commission’s functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator (the head of Maritime Administration, which likewise established by the Plan in Department of Commerce) with provision that Chairman of Federal Maritime Board should, ex officio, be such Administrator.
+United States Maritime Commission abolished by Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, which was superseded in part by Reorg. Plan No. 7 of 1961, § 305, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, repealed in part by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710, and remains only partially set out in the Appendix to Title 5. Reorg. Plan No. 21 of 1950 transferred part of Commission’s functions and part of functions of its Chairman, to Federal Maritime Board and Chairman thereof, such Board having been created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder of such Commission’s functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator (the head of Maritime Administration, which likewise established by the Plan in Department of Commerce) with provision that Chairman of Federal Maritime Board should, ex officio, be such Administrator.
 
-Section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, set out in the Appendix to Title 5, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission, by section 103 of Reorg. Plan No. 7 of 1961, which was repealed by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710 and formerly set out in the Appendix to Title 5, or to Secretary of Commerce, by section 202 of Reorg. Plan No. 7 of 1961, set out in the Appendix to Title 5.
+Section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, set out in the Appendix to Title 5, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission, by section 103 of Reorg. Plan No. 7 of 1961, which was repealed by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710 and formerly set out in the Appendix to Title 5, or to Secretary of Commerce, by section 202 of Reorg. Plan No. 7 of 1961, set out in the Appendix to Title 5.
 
-## § 18a. Premerger notification and waiting period
+## § 18a. Premerger notification and waiting period
 
 **(a) Filing** Except as exempted pursuant to subsection (c), no person shall acquire, directly or indirectly, any voting securities or assets of any other person, unless both persons (or in the case of a tender offer, the acquiring person) file notification pursuant to rules under subsection (d)(1) and the waiting period described in subsection (b)(1) has expired, if—
 
@@ -1561,7 +1561,7 @@ Any information or documentary material filed with the Assistant Attorney Genera
 
 If the end of any period of time provided in this section falls on a Saturday, Sunday, or legal public holiday (as defined in section 6103(a) of title 5), then such period shall be extended to the end of the next day that is not a Saturday, Sunday, or legal public holiday.
 
-(Oct. 15, 1914, ch. 323, § 7A, as added Pub. L. 94–435, title II, § 201, Sept. 30, 1976, 90 Stat. 1390; amended Pub. L. 98–620, title IV, § 402(10)(A), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 101–73, title XII, § 1214, Aug. 9, 1989, 103 Stat. 529; Pub. L. 106–102, title I, § 133(c), Nov. 12, 1999, 113 Stat. 1383; Pub. L. 106–553, § 1(a)(2) [title VI, § 630(a), (c), (d)], Dec. 21, 2000, 114 Stat. 2762, 2762A–108, 2762A–110.)
+(Oct. 15, 1914, ch. 323, § 7A, as added Pub. L. 94–435, title II, § 201, Sept. 30, 1976, 90 Stat. 1390; amended Pub. L. 98–620, title IV, § 402(10)(A), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 101–73, title XII, § 1214, Aug. 9, 1989, 103 Stat. 529; Pub. L. 106–102, title I, § 133(c), Nov. 12, 1999, 113 Stat. 1383; Pub. L. 106–553, § 1(a)(2) [title VI, § 630(a), (c), (d)], Dec. 21, 2000, 114 Stat. 2762, 2762A–108, 2762A–110.)
 
 **Editorial Notes**
 
@@ -1571,9 +1571,9 @@ The antitrust laws, referred to in subsecs. (c) and (d), are defined in section 
 
 This Act, referred to in subsec. (i)(1), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (i)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (i)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-The Antitrust Civil Process Act, referred to in subsec. (i)(2), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§ 1311 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
+The Antitrust Civil Process Act, referred to in subsec. (i)(2), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§ 1311 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
 
 **Codification**
 
@@ -1583,7 +1583,7 @@ Subsection (j), which required the Federal Trade Commission, with the concurrenc
 
 **Amendments**
 
-2000—Subsec. (a). Pub. L. 106–553, § 1(a)(2) [title VI, § 630(a)], amended subsec. (a) generally, reenacting introductory provisions, par. (1), and concluding provisions without change, adding par. (2), and striking out former pars. (2) and (3) which read as follows:
+2000—Subsec. (a). Pub. L. 106–553, § 1(a)(2) [title VI, § 630(a)], amended subsec. (a) generally, reenacting introductory provisions, par. (1), and concluding provisions without change, adding par. (2), and striking out former pars. (2) and (3) which read as follows:
 
 “(2)(A) any voting securities or assets of a person engaged in manufacturing which has annual net sales or total assets of $10,000,000 or more are being acquired by any person which has total assets or annual net sales of $100,000,000 or more;
 
@@ -1597,19 +1597,19 @@ Subsection (j), which required the Federal Trade Commission, with the concurrenc
 
 “(B) an aggregate total amount of the voting securities and assets of the acquired person in excess of $15,000,000.”
 
-Subsec. (e)(1). Pub. L. 106–553, § 1(a)(2) [title VI, § 630(c)], designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (e)(1). Pub. L. 106–553, § 1(a)(2) [title VI, § 630(c)], designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (e)(2). Pub. L. 106–553, § 1(a)(2) [title VI, § 630(d)(1)], substituted “30 days” for “20 days”.
+Subsec. (e)(2). Pub. L. 106–553, § 1(a)(2) [title VI, § 630(d)(1)], substituted “30 days” for “20 days”.
 
-Subsec. (k). Pub. L. 106–553, § 1(a)(2) [title VI, § 630(d)(2)], added subsec. (k).
+Subsec. (k). Pub. L. 106–553, § 1(a)(2) [title VI, § 630(d)(2)], added subsec. (k).
 
-1999—Subsec. (c)(7). Pub. L. 106–102, § 133(c)(1), inserted before semicolon at end “, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 1843(k) of title 12; and (B) does not require agency approval under section 1842 of title 12”.
+1999—Subsec. (c)(7). Pub. L. 106–102, § 133(c)(1), inserted before semicolon at end “, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 1843(k) of title 12; and (B) does not require agency approval under section 1842 of title 12”.
 
-Subsec. (c)(8). Pub. L. 106–102, § 133(c)(2), inserted before semicolon at end “, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 1843(k) of title 12; and (B) does not require agency approval under section 1843 of title 12”.
+Subsec. (c)(8). Pub. L. 106–102, § 133(c)(2), inserted before semicolon at end “, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 1843(k) of title 12; and (B) does not require agency approval under section 1843 of title 12”.
 
-1989—Subsec. (c)(7). Pub. L. 101–73, § 1214(1), inserted reference to section 1467a(e) of title 12.
+1989—Subsec. (c)(7). Pub. L. 101–73, § 1214(1), inserted reference to section 1467a(e) of title 12.
 
-Subsec. (c)(8). Pub. L. 101–73, § 1214(2), struck out reference to section 1726 or 1730a(e) of title 12.
+Subsec. (c)(8). Pub. L. 101–73, § 1214(2), struck out reference to section 1726 or 1730a(e) of title 12.
 
 1984—Subsec. (f)(2). Pub. L. 98–620 struck out designation “(A)” before “upon the filing”, and struck out subpar. (B) which had provided that if the Federal Trade Commission or the Assistant Attorney General certified that he or it believed that the public interest required relief pendente lite pursuant to this subsection, the motion for a preliminary injunction had to be set down for hearing by the district judge so designated at the earliest practicable time, would take precedence over all matters except older matters of the same character and trials pursuant to section 3161 of title 18, and had to be in every way expedited.
 
@@ -1617,7 +1617,7 @@ Subsec. (c)(8). Pub. L. 101–73, § 1214(2), struck out reference to section 
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–553, § 1(a)(2) [title VI, § 630(e)], Dec. 21, 2000, 114 Stat. 2762, 2762A–111, provided that: “This section [amending this section and provisions set out as a note under this section] and the amendments made by this section shall take effect on the 1st day of the 1st month that begins more than 30 days after the date of the enactment of this Act [Dec. 21, 2000].”
+Pub. L. 106–553, § 1(a)(2) [title VI, § 630(e)], Dec. 21, 2000, 114 Stat. 2762, 2762A–111, provided that: “This section [amending this section and provisions set out as a note under this section] and the amendments made by this section shall take effect on the 1st day of the 1st month that begins more than 30 days after the date of the enactment of this Act [Dec. 21, 2000].”
 
 **Effective Date of 1999 Amendment**
 
@@ -1629,15 +1629,15 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 **Effective Date**
 
-Pub. L. 94–435, title II, § 202, Sept. 30, 1976, 90 Stat. 1394, provided that: “The amendment made by section 201 of this Act [enacting this section] shall take effect 150 days after the date of enactment of this Act [Sept. 30, 1976], except that subsection (d) of section 7A of the Clayton Act [subsec. (d) of this section] (as added by section 201 of this Act) shall take effect on the date of enactment of this Act.”
+Pub. L. 94–435, title II, § 202, Sept. 30, 1976, 90 Stat. 1394, provided that: “The amendment made by section 201 of this Act [enacting this section] shall take effect 150 days after the date of enactment of this Act [Sept. 30, 1976], except that subsection (d) of section 7A of the Clayton Act [subsec. (d) of this section] (as added by section 201 of this Act) shall take effect on the date of enactment of this Act.”
 
 **Department of Defense Notification of Certain Transactions**
 
-Pub. L. 118–31, div. A, title VIII, § 857, Dec. 22, 2023, 137 Stat. 346, provided that: “The parties to a proposed merger or acquisition that will require a review by the Department of Defense who are required to file the notification and provide supplementary information to the Department of Justice or the Federal Trade Commission under section 7A of the Clayton Act (15 U.S.C. 18a) shall concurrently provide such information to the Department of Defense during the waiting period under section 7A of the Clayton Act (15 U.S.C. 18a).”
+Pub. L. 118–31, div. A, title VIII, § 857, Dec. 22, 2023, 137 Stat. 346, provided that: “The parties to a proposed merger or acquisition that will require a review by the Department of Defense who are required to file the notification and provide supplementary information to the Department of Justice or the Federal Trade Commission under section 7A of the Clayton Act (15 U.S.C. 18a) shall concurrently provide such information to the Department of Defense during the waiting period under section 7A of the Clayton Act (15 U.S.C. 18a).”
 
 **Assessment and Collection of Filing Fees**
 
-Pub. L. 101–162, title VI, § 605, Nov. 21, 1989, 103 Stat. 1031, as amended by Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 217; Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1847; Pub. L. 103–317, title I, Aug. 26, 1994, 108 Stat. 1739; Pub. L. 106–553, § 1(a)(2) [title VI, § 630(b)], Dec. 21, 2000, 114 Stat. 2762, 2762A–109; Pub. L. 117–328, div. GG, title I, § 101, Dec. 29, 2022, 136 Stat. 5967, provided that:
+Pub. L. 101–162, title VI, § 605, Nov. 21, 1989, 103 Stat. 1031, as amended by Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 217; Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1847; Pub. L. 103–317, title I, Aug. 26, 1994, 108 Stat. 1739; Pub. L. 106–553, § 1(a)(2) [title VI, § 630(b)], Dec. 21, 2000, 114 Stat. 2762, 2762A–109; Pub. L. 117–328, div. GG, title I, § 101, Dec. 29, 2022, 136 Stat. 5967, provided that:
 
 > **“(a)** Five working days after enactment of this Act [Nov. 21, 1989] and thereafter, the Federal Trade Commission shall assess and collect filing fees established in subsection (b) which shall be paid by persons acquiring voting securities or assets who are required to file premerger notifications by the [sic] section 7A of the Clayton Act (15 U.S.C. 18a) and the regulations promulgated thereunder. For purposes of said Act, no notification shall be considered filed until payment of the fee required by this section. Fees collected pursuant to this section shall be divided evenly between and credited to the appropriations, Federal Trade Commission, ‘Salaries and Expenses’ and Department of Justice, ‘Salaries and Expenses, Antitrust Division’: *Provided*, That fees in excess of $40,000,000 in fiscal year 1990 shall be deposited to the credit of the Treasury of the United States: *Provided further*, That fees made available to the Federal Trade Commission and the Antitrust Division herein shall remain available until expended.
 
@@ -1667,7 +1667,7 @@ Pub. L. 101–162, title VI, § 605, Nov. 21, 1989, 103 Stat. 1031, as amended
 
 [Another section 101 of div. GG of Pub. L. 117–328 is set out as a note under section 1 of this title.]
 
-## § 18b. Mergers involving foreign government subsidies
+## § 18b. Mergers involving foreign government subsidies
 
 **(a) Definition**
 
@@ -1685,13 +1685,13 @@ The Federal Trade Commission, with the concurrence of the Assistant Attorney Gen
 
 Subsection (b) shall take effect on the date on which the rule described in subsection (c) takes effect.
 
-(Pub. L. 117–328, div. GG, title II, § 202, Dec. 29, 2022, 136 Stat. 5970.)
+(Pub. L. 117–328, div. GG, title II, § 202, Dec. 29, 2022, 136 Stat. 5970.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Findings and Purpose**
 
-Pub. L. 117–328, div. GG, title II, § 201, Dec. 29, 2022, 136 Stat. 5969, provided that:
+Pub. L. 117–328, div. GG, title II, § 201, Dec. 29, 2022, 136 Stat. 5969, provided that:
 
 > **“(a) Findings.—** Congress finds the following:
 
@@ -1701,13 +1701,13 @@ Pub. L. 117–328, div. GG, title II, § 201, Dec. 29, 2022, 136 Stat. 5969, p
 
 > **“(3)** The Made in China 2025 plan, states that the Chinese Communist Party will ‘support enterprises to carry out mergers and acquisitions (M&A), equity investment, and venture capital overseas’.
 
-> **“(4)** The 2020 report to Congress from the bipartisan U.S.-China Economic and Security Review Commission concluded that the Chinese Government subsidizes companies with a goal of their expanding into the United States and other countries, finding that ‘[t]his process assists Chinese national champions in surpassing and supplanting global market leaders’. The report warns that the risk is particularly acute when it comes to emerging technologies, where China seeks to ‘surpass and displace the United States altogether [and that] [f]ailure to appreciate the gravity of this challenge and defend U.S. competitiveness would be dire … [and] risks setting back U.S. economic and technological progress for decades’.
+> **“(4)** The 2020 report to Congress from the bipartisan U.S.-China Economic and Security Review Commission concluded that the Chinese Government subsidizes companies with a goal of their expanding into the United States and other countries, finding that ‘[t]his process assists Chinese national champions in surpassing and supplanting global market leaders’. The report warns that the risk is particularly acute when it comes to emerging technologies, where China seeks to ‘surpass and displace the United States altogether [and that] [f]ailure to appreciate the gravity of this challenge and defend U.S. competitiveness would be dire … [and] risks setting back U.S. economic and technological progress for decades’.
 
-> **“(5)** In remarks before the Hudson Institute on December 8, 2020, FTC Commissioner Noah Phillips stated, ‘[O]ne area where antitrust needs to reckon with the strategic interests of other nations is when we scrutinize mergers or conduct involving state-owned entities … companies that are controlled, to varying degrees, by the state … [and] often are a government tool for implementing industrial policies or to protect national security’.
+> **“(5)** In remarks before the Hudson Institute on December 8, 2020, FTC Commissioner Noah Phillips stated, ‘[O]ne area where antitrust needs to reckon with the strategic interests of other nations is when we scrutinize mergers or conduct involving state-owned entities … companies that are controlled, to varying degrees, by the state … [and] often are a government tool for implementing industrial policies or to protect national security’.
 
 > **“(b) Purpose.—** The purpose of this section [probably means “this title”, enacting this section and this note] is to require parties providing pre-merger notifications to include in the notification required under section 7A of the Clayton Act (15 U.S.C. 18a) information concerning subsidies they receive from countries or entities that are strategic or economic threats to the United States.”
 
-## § 19. Interlocking directorates and officers
+## § 19. Interlocking directorates and officers
 
 **(a)**
 
@@ -1737,7 +1737,7 @@ For purposes of this paragraph, “competitive sales” means the gross revenues
 
 **(b)** When any person elected or chosen as a director or officer of any corporation subject to the provisions hereof is eligible at the time of his election or selection to act for such corporation in such capacity, his eligibility to act in such capacity shall not be affected by any of the provisions hereof by reason of any change in the capital, surplus and undivided profits, or affairs of such corporation from whatever cause, until the expiration of one year from the date on which the event causing ineligibility occurred.
 
-(Oct. 15, 1914, ch. 323, § 8, 38 Stat. 732; May 15, 1916, ch. 120, 39 Stat. 121; May 26, 1920, ch. 206, 41 Stat. 626; Mar. 9, 1928, ch. 165, 45 Stat. 253; Mar. 2, 1929, ch. 581, 45 Stat. 1536; Aug. 23, 1935, ch. 614, § 329, 49 Stat. 717; Pub. L. 101–588, § 2, Nov. 16, 1990, 104 Stat. 2879; Pub. L. 103–203, § 1, Dec. 17, 1993, 107 Stat. 2368.)
+(Oct. 15, 1914, ch. 323, § 8, 38 Stat. 732; May 15, 1916, ch. 120, 39 Stat. 121; May 26, 1920, ch. 206, 41 Stat. 626; Mar. 9, 1928, ch. 165, 45 Stat. 253; Mar. 2, 1929, ch. 581, 45 Stat. 1536; Aug. 23, 1935, ch. 614, § 329, 49 Stat. 717; Pub. L. 101–588, § 2, Nov. 16, 1990, 104 Stat. 2879; Pub. L. 103–203, § 1, Dec. 17, 1993, 107 Stat. 2368.)
 
 **Editorial Notes**
 
@@ -1757,15 +1757,15 @@ The antitrust laws, referred to in subsec. (a)(1)(B), are defined in section 12 
 
 1928—Act Mar. 9, 1928, amended second par.
 
-## § 19a. Repealed. Aug. 23, 1935, ch. 614, § 329, 49 Stat. 717
+## § 19a. Repealed. Aug. 23, 1935, ch. 614, § 329, 49 Stat. 717
 
-Section, act Oct. 15, 1914, ch. 323, § 8a, as added June 16, 1933, ch. 89, § 33, 48 Stat. 194, related to interlocking corporations or partnerships making loans on securities.
+Section, act Oct. 15, 1914, ch. 323, § 8a, as added June 16, 1933, ch. 89, § 33, 48 Stat. 194, related to interlocking corporations or partnerships making loans on securities.
 
-## § 20. Repealed. Pub. L. 101–588, § 3, Nov. 16, 1990, 104 Stat. 2880
+## § 20. Repealed. Pub. L. 101–588, § 3, Nov. 16, 1990, 104 Stat. 2880
 
-Section, act Oct. 15, 1914, ch. 323, § 10, 38 Stat. 734, related to a $50,000 yearly, aggregate limitation on purchases and contracts between a common carrier and any entity with whom such carrier has any form of interlocking directorate, etc., required filing with ICC of a full statement of transactions excluded from such limitation, and set forth fines and penalties for violation of such limitation.
+Section, act Oct. 15, 1914, ch. 323, § 10, 38 Stat. 734, related to a $50,000 yearly, aggregate limitation on purchases and contracts between a common carrier and any entity with whom such carrier has any form of interlocking directorate, etc., required filing with ICC of a full statement of transactions excluded from such limitation, and set forth fines and penalties for violation of such limitation.
 
-## § 21. Enforcement provisions
+## § 21. Enforcement provisions
 
 **(a) Commission, Board, or Secretary authorized to enforce compliance**
 
@@ -1821,7 +1821,7 @@ As used in this section the term “mandate”, in case a mandate has been recal
 
 Any person who violates any order issued by the commission, board, or Secretary under subsection (b) after such order has become final, and while such order is in effect, shall forfeit and pay to the United States a civil penalty of not more than $5,000 for each violation, which shall accrue to the United States and may be recovered in a civil action brought by the United States. Each separate violation of any such order shall be a separate offense, except that in the case of a violation through continuing failure or neglect to obey a final order of the commission, board, or Secretary each day of continuance of such failure or neglect shall be deemed a separate offense.
 
-(Oct. 15, 1914, ch. 323, § 11, 38 Stat. 734; June 19, 1934, ch. 652, title VII, § 702(d), formerly title VI, § 602(d), 48 Stat. 1102; renumbered Pub. L. 98–549, § 6(a), Oct. 30, 1984, 98 Stat. 2804; Aug. 23, 1935, ch. 614, § 203(a), 49 Stat. 704; June 23, 1938, ch. 601, § 1107(g), 52 Stat. 1028; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Pub. L. 85–726, title XIV, § 1401(b), Aug. 23, 1958, 72 Stat. 806; Pub. L. 85–791, § 4, Aug. 28, 1958, 72 Stat. 943; Pub. L. 86–107, § 1, July 23, 1959, 73 Stat. 243; Pub. L. 98–443, § 9(m), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 98–620, title IV, § 402(10)(B), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 104–88, title III, § 318(2), Dec. 29, 1995, 109 Stat. 949.)
+(Oct. 15, 1914, ch. 323, § 11, 38 Stat. 734; June 19, 1934, ch. 652, title VII, § 702(d), formerly title VI, § 602(d), 48 Stat. 1102; renumbered Pub. L. 98–549, § 6(a), Oct. 30, 1984, 98 Stat. 2804; Aug. 23, 1935, ch. 614, § 203(a), 49 Stat. 704; June 23, 1938, ch. 601, § 1107(g), 52 Stat. 1028; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Pub. L. 85–726, title XIV, § 1401(b), Aug. 23, 1958, 72 Stat. 806; Pub. L. 85–791, § 4, Aug. 28, 1958, 72 Stat. 943; Pub. L. 86–107, § 1, July 23, 1959, 73 Stat. 243; Pub. L. 98–443, § 9(m), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 98–620, title IV, § 402(10)(B), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 104–88, title III, § 318(2), Dec. 29, 1995, 109 Stat. 949.)
 
 **Editorial Notes**
 
@@ -1831,33 +1831,33 @@ The antitrust laws, referred to in subsec. (e), are defined in section 12 of thi
 
 **Codification**
 
-In subsec. (a), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 [49 App. U.S.C. 1301 et seq.]” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
+In subsec. (a), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 [49 App. U.S.C. 1301 et seq.]” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
 **Amendments**
 
 1995—Subsec. (a). Pub. L. 104–88 substituted “Surface Transportation Board where applicable to common carriers subject to jurisdiction under subtitle IV of title 49” for “Interstate Commerce Commission where applicable to common carriers subject to the Interstate Commerce Act, as amended”.
 
-1984—Subsec. (a). Pub. L. 98–443, § 9(m)(1), substituted “Secretary of Transportation where applicable to air carriers and foreign air carriers subject to the Federal Aviation Act of 1958” for “Civil Aeronautics Board where applicable to air carriers and foreign air carriers subject to the Civil Aeronautics Act of 1938”.
+1984—Subsec. (a). Pub. L. 98–443, § 9(m)(1), substituted “Secretary of Transportation where applicable to air carriers and foreign air carriers subject to the Federal Aviation Act of 1958” for “Civil Aeronautics Board where applicable to air carriers and foreign air carriers subject to the Civil Aeronautics Act of 1938”.
 
-Subsec. (b). Pub. L. 98–443, § 9(m)(2), substituted “Commission, Board, or Secretary” for “Commission or Board” wherever appearing.
+Subsec. (b). Pub. L. 98–443, § 9(m)(2), substituted “Commission, Board, or Secretary” for “Commission or Board” wherever appearing.
 
-Subsecs. (c), (d). Pub. L. 98–443, § 9(m)(3), substituted “commission, board, or Secretary” for “commission or board” wherever appearing.
+Subsecs. (c), (d). Pub. L. 98–443, § 9(m)(3), substituted “commission, board, or Secretary” for “commission or board” wherever appearing.
 
 Subsec. (e). Pub. L. 98–620 struck out provision that such proceedings in the court of appeals had to be given precedence over other cases pending therein, and had to be in every way expedited.
 
-Pub. L. 98–443, § 9(m)(3), substituted “commission, board, or Secretary” for “commission or board”.
+Pub. L. 98–443, § 9(m)(3), substituted “commission, board, or Secretary” for “commission or board”.
 
-Subsecs. (f) to (j), (*l*). Pub. L. 98–443, § 9(m)(3), substituted “commission, board, or Secretary” for “commission or board” wherever appearing.
+Subsecs. (f) to (j), (*l*). Pub. L. 98–443, § 9(m)(3), substituted “commission, board, or Secretary” for “commission or board” wherever appearing.
 
 1959—Pub. L. 86–107 amended section generally, and among other changes, authorized the Commission or Board, upon notice and opportunity for hearing, in cases where a petition for review has not been filed within the time allowed, to reopen and alter, modify, or set aside, in whole or in part, any report or order, whenever conditions of fact or law have so changed as to require such action or if the public interest so requires, and added subsecs. (g) to (k), providing for finality of orders, and subsec. (*l*), prescribing the civil penalty for violation of orders.
 
-1958—Pub. L. 85–791, § 4(a), struck out “a transcript of” after “Until” in last sentence of second par.
+1958—Pub. L. 85–791, § 4(a), struck out “a transcript of” after “Until” in last sentence of second par.
 
-Pub. L. 85–791, § 4(b), substituted in first sentence of third par., “file the record in the proceeding, as provided in section 2112 of title 28” for “certify and file with its application a transcript of the entire record in the proceeding, including all the testimony taken and the report and order of the Commission or Board”, and in second sentence of third par., struck out “and transcript” after “application”, inserted “concurrently with the Commission or Board until the filing of the record”, and struck out “upon the pleadings, testimony, and proceedings set forth in such transcript” after “make and enter”.
+Pub. L. 85–791, § 4(b), substituted in first sentence of third par., “file the record in the proceeding, as provided in section 2112 of title 28” for “certify and file with its application a transcript of the entire record in the proceeding, including all the testimony taken and the report and order of the Commission or Board”, and in second sentence of third par., struck out “and transcript” after “application”, inserted “concurrently with the Commission or Board until the filing of the record”, and struck out “upon the pleadings, testimony, and proceedings set forth in such transcript” after “make and enter”.
 
-Pub. L. 85–791, § 4(c), substituted in second sentence of fourth par., “transmitted by the clerk of the court to” for “served upon” and “shall file in the court the record in the proceeding, as provided in section 2112 of title 28” for “forthwith shall certify and file in the court a transcript of the record in the proceeding, as hereinbefore provided”, and in third sentence of fourth paragraph substituted “such petition” for “the transcript” and inserted “determined as provided in section 1009(e) of title 5,”.
+Pub. L. 85–791, § 4(c), substituted in second sentence of fourth par., “transmitted by the clerk of the court to” for “served upon” and “shall file in the court the record in the proceeding, as provided in section 2112 of title 28” for “forthwith shall certify and file in the court a transcript of the record in the proceeding, as hereinbefore provided”, and in third sentence of fourth paragraph substituted “such petition” for “the transcript” and inserted “determined as provided in section 1009(e) of title 5,”.
 
-Pub. L. 85–791, § 4(d), substituted in fifth par., “Upon the filing of the record with it the” for “The”.
+Pub. L. 85–791, § 4(d), substituted in fifth par., “Upon the filing of the record with it the” for “The”.
 
 1950—Act Dec. 29, 1950, amended section generally to allow the Attorney General to intervene and appear in any proceeding brought by any Commission or Board to enforce sections 13, 14, 18, and 19 of this title, but the amendment in nowise affects the jurisdiction of the Department of Justice to enforce these sections in the courts.
 
@@ -1891,13 +1891,13 @@ Section 2 of Pub. L. 86–107 provided that: “The amendments made by section 1
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-## § 21a. Actions and proceedings pending prior to June 19, 1936; additional and continuing violations
+## § 21a. Actions and proceedings pending prior to June 19, 1936; additional and continuing violations
 
 Nothing herein contained shall affect rights of action arising, or litigation pending, or orders of the Federal Trade Commission issued and in effect or pending on review, based on section 13 of this title, prior to June 19, 1936: *Provided*, That where, prior to June 19, 1936, the Federal Trade Commission has issued an order requiring any person to cease and desist from a violation of section 13 of this title, and such order is pending on review or is in effect, either as issued or as affirmed or modified by a court of competent jurisdiction, and the Commission shall have reason to believe that such person has committed, used or carried on, since June 19, 1936, or is committing, using or carrying on, any act, practice or method in violation of any of the provisions of said section 13 of this title, it may reopen such original proceedings and may issue and serve upon such person its complaint, supplementary to the original complaint, stating its charges in that respect. Thereupon the same proceedings shall be had upon such supplementary complaint as provided in section 21 of this title. If upon such hearing the Commission shall be of the opinion that any act, practice, or method charged in said supplementary complaint has been committed, used, or carried on since June 19, 1936, or is being committed, used or carried on, in violation of said section 13 of this title, it shall make a report in writing in which it shall state its findings as to the facts and shall issue and serve upon such person its order modifying or amending its original order to include any additional violations of law so found. Thereafter the provisions of section 21 of this title, as to review and enforcement of orders of the Commission shall in all things apply to such modified or amended order. If upon review as provided in said section 21 of this title the court shall set aside such modified or amended order, the original order shall not be affected thereby, but it shall be and remain in force and effect as fully and to the same extent as if such supplementary proceedings had not been taken.
 
-(June 19, 1936, ch. 592, § 2, 49 Stat. 1527.)
+(June 19, 1936, ch. 592, § 2, 49 Stat. 1527.)
 
 **Editorial Notes**
 
@@ -1909,13 +1909,13 @@ Nothing herein contained, referred to in text, probably means nothing contained 
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-## § 22. District in which to sue corporation
+## § 22. District in which to sue corporation
 
 Any suit, action, or proceeding under the antitrust laws against a corporation may be brought not only in the judicial district whereof it is an inhabitant, but also in any district wherein it may be found or transacts business; and all process in such cases may be served in the district of which it is an inhabitant, or wherever it may be found.
 
-(Oct. 15, 1914, ch. 323, § 12, 38 Stat. 736.)
+(Oct. 15, 1914, ch. 323, § 12, 38 Stat. 736.)
 
 **Editorial Notes**
 
@@ -1923,11 +1923,11 @@ Any suit, action, or proceeding under the antitrust laws against a corporation m
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.
 
-## § 23. Suits by United States; subpoenas for witnesses
+## § 23. Suits by United States; subpoenas for witnesses
 
 In any suit, action, or proceeding brought by or on behalf of the United States subpoenas for witnesses who are required to attend a court of the United States in any judicial district in any case, civil or criminal, arising under the antitrust laws may run into any other district: *Provided*, That in civil cases no writ of subpoena shall issue for witnesses living out of the district in which the court is held at a greater distance than one hundred miles from the place of holding the same without the permission of the trial court being first had upon proper application and cause shown.
 
-(Oct. 15, 1914, ch. 323, § 13, 38 Stat. 736.)
+(Oct. 15, 1914, ch. 323, § 13, 38 Stat. 736.)
 
 **Editorial Notes**
 
@@ -1935,11 +1935,11 @@ In any suit, action, or proceeding brought by or on behalf of the United States 
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.
 
-## § 24. Liability of directors and agents of corporation
+## § 24. Liability of directors and agents of corporation
 
 Whenever a corporation shall violate any of the penal provisions of the antitrust laws, such violation shall be deemed to be also that of the individual directors, officers, or agents of such corporation who shall have authorized, ordered, or done any of the acts constituting in whole or in part such violation, and such violation shall be deemed a misdemeanor, and upon conviction therefor of any such director, officer, or agent he shall be punished by a fine of not exceeding $5,000 or by imprisonment for not exceeding one year, or by both, in the discretion of the court.
 
-(Oct. 15, 1914, ch. 323, § 14, 38 Stat. 736.)
+(Oct. 15, 1914, ch. 323, § 14, 38 Stat. 736.)
 
 **Editorial Notes**
 
@@ -1947,11 +1947,11 @@ Whenever a corporation shall violate any of the penal provisions of the antitrus
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.
 
-## § 25. Restraining violations; procedure
+## § 25. Restraining violations; procedure
 
 The several district courts of the United States are invested with jurisdiction to prevent and restrain violations of this Act, and it shall be the duty of the several United States attorneys, in their respective districts, under the direction of the Attorney General, to institute proceedings in equity to prevent and restrain such violations. Such proceedings may be by way of petition setting forth the case and praying that such violation shall be enjoined or otherwise prohibited. When the parties complained of shall have been duly notified of such petition, the court shall proceed, as soon as may be, to the hearing and determination of the case; and pending such petition, and before final decree, the court may at any time make such temporary restraining order or prohibition as shall be deemed just in the premises. Whenever it shall appear to the court before which any such proceeding may be pending that the ends of justice require that other parties should be brought before the court, the court may cause them to be summoned whether they reside in the district in which the court is held or not, and subpoenas to that end may be served in any district by the marshal thereof.
 
-(Oct. 15, 1914, ch. 323, § 15, 38 Stat. 736; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
+(Oct. 15, 1914, ch. 323, § 15, 38 Stat. 736; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
 
 **Editorial Notes**
 
@@ -1965,11 +1965,11 @@ This Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 730, whic
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys of the United States”. See section 541 et seq. of Title 28, Judiciary and Judicial Procedure.
 
-## § 26. Injunctive relief for private parties; exception; costs
+## § 26. Injunctive relief for private parties; exception; costs
 
 Any person, firm, corporation, or association shall be entitled to sue for and have injunctive relief, in any court of the United States having jurisdiction over the parties, against threatened loss or damage by a violation of the antitrust laws, including sections 13, 14, 18, and 19 of this title, when and under the same conditions and principles as injunctive relief against threatened conduct that will cause loss or damage is granted by courts of equity, under the rules governing such proceedings, and upon the execution of proper bond against damages for an injunction improvidently granted and a showing that the danger of irreparable loss or damage is immediate, a preliminary injunction may issue: *Provided*, That nothing herein contained shall be construed to entitle any person, firm, corporation, or association, except the United States, to bring suit for injunctive relief against any common carrier subject to the jurisdiction of the Surface Transportation Board under subtitle IV of title 49. In any action under this section in which the plaintiff substantially prevails, the court shall award the cost of suit, including a reasonable attorney’s fee, to such plaintiff.
 
-(Oct. 15, 1914, ch. 323, § 16, 38 Stat. 737; Pub. L. 94–435, title III, § 302(3), Sept. 30, 1976, 90 Stat. 1396; Pub. L. 104–88, title III, § 318(3), Dec. 29, 1995, 109 Stat. 949.)
+(Oct. 15, 1914, ch. 323, § 16, 38 Stat. 737; Pub. L. 94–435, title III, § 302(3), Sept. 30, 1976, 90 Stat. 1396; Pub. L. 104–88, title III, § 318(3), Dec. 29, 1995, 109 Stat. 949.)
 
 **Editorial Notes**
 
@@ -1989,7 +1989,7 @@ The antitrust laws, referred to in text, are defined in section 12 of this title
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
-## § 26a. Restrictions on the purchase of gasohol and synthetic motor fuel
+## § 26a. Restrictions on the purchase of gasohol and synthetic motor fuel
 
 **(a) Limitations on the use of credit instruments; sales, resales, and transfers** Except as provided in subsection (b), it shall be unlawful for any person engaged in commerce, in the course of such commerce, directly or indirectly to impose any condition, restriction, agreement, or understanding that—
 
@@ -2017,7 +2017,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 As used in this section, “United States” includes the several States, the District of Columbia, any territory of the United States, and any insular possession or other place under the jurisdiction of the United States.
 
-(Oct. 15, 1914, ch. 323, § 26, as added Pub. L. 96–493, § 2, Dec. 2, 1980, 94 Stat. 2568.)
+(Oct. 15, 1914, ch. 323, § 26, as added Pub. L. 96–493, § 2, Dec. 2, 1980, 94 Stat. 2568.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2025,7 +2025,7 @@ As used in this section, “United States” includes the several States, the Di
 
 For short title of Pub. L. 96–493 as the “Gasohol Competition Act of 1980”, see section 1 of Pub. L. 96–493, set out as a Short Title of 1980 Amendment note under section 1 of this title.
 
-## § 26b. Application of antitrust laws to professional major league baseball
+## § 26b. Application of antitrust laws to professional major league baseball
 
 **(a) Major league baseball subject to antitrust laws**
 
@@ -2067,7 +2067,7 @@ Subject to subsections (b) through (d), the conduct, acts, practices, or agreeme
 
 **(5)** The scope of the conduct, acts, practices, or agreements covered by subsection (b) shall not be strictly or narrowly construed.
 
-(Oct. 15, 1914, ch. 323, § 27, as added Pub. L. 105–297, § 3, Oct. 27, 1998, 112 Stat. 2824.)
+(Oct. 15, 1914, ch. 323, § 27, as added Pub. L. 105–297, § 3, Oct. 27, 1998, 112 Stat. 2824.)
 
 **Editorial Notes**
 
@@ -2075,7 +2075,7 @@ Subject to subsections (b) through (d), the conduct, acts, practices, or agreeme
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.
 
-Public Law 87–331, referred to in subsec. (b)(4), is Pub. L. 87–331, Sept. 30, 1961, 75 Stat. 732, which is classified generally to chapter 32 (§ 1291 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Public Law 87–331, referred to in subsec. (b)(4), is Pub. L. 87–331, Sept. 30, 1961, 75 Stat. 732, which is classified generally to chapter 32 (§ 1291 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
@@ -2085,13 +2085,13 @@ Another section 27 of act Oct. 15, 1914, ch. 323, was renumbered section 28 and 
 
 **Purpose**
 
-Pub. L. 105–297, § 2, Oct. 27, 1998, 112 Stat. 2824, provided that: “It is the purpose of this legislation to state that major league baseball players are covered under the antitrust laws (i.e., that major league baseball players will have the same rights under the antitrust laws as do other professional athletes, e.g., football and basketball players), along with a provision that makes it clear that the passage of this Act [enacting this section and provisions set out as a note under section 1 of this title] does not change the application of the antitrust laws in any other context or with respect to any other person or entity.”
+Pub. L. 105–297, § 2, Oct. 27, 1998, 112 Stat. 2824, provided that: “It is the purpose of this legislation to state that major league baseball players are covered under the antitrust laws (i.e., that major league baseball players will have the same rights under the antitrust laws as do other professional athletes, e.g., football and basketball players), along with a provision that makes it clear that the passage of this Act [enacting this section and provisions set out as a note under section 1 of this title] does not change the application of the antitrust laws in any other context or with respect to any other person or entity.”
 
-## § 27. Effect of partial invalidity
+## § 27. Effect of partial invalidity
 
 If any clause, sentence, paragraph, or part of this Act shall, for any reason, be adjudged by any court of competent jurisdiction to be in­valid, such judgment shall not affect, impair, or invalidate the remainder thereof, but shall be confined in its operation to the clause, sentence, paragraph, or part thereof directly involved in the controversy in which such judgment shall have been rendered.
 
-(Oct. 15, 1914, ch. 323, § 28, formerly § 26, 38 Stat. 740; renumbered § 27, Pub. L. 96–493, § 2, Dec. 2, 1980, 94 Stat. 2568; renumbered § 28, Pub. L. 107–273, div. C, title IV, § 14102(d), Nov. 2, 2002, 116 Stat. 1922.)
+(Oct. 15, 1914, ch. 323, § 28, formerly § 26, 38 Stat. 740; renumbered § 27, Pub. L. 96–493, § 2, Dec. 2, 1980, 94 Stat. 2568; renumbered § 28, Pub. L. 107–273, div. C, title IV, § 14102(d), Nov. 2, 2002, 116 Stat. 1922.)
 
 **Editorial Notes**
 
@@ -2099,17 +2099,17 @@ If any clause, sentence, paragraph, or part of this Act shall, for any reason, b
 
 This Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 730, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
-## § 27a. Transferred
+## § 27a. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Oct. 15, 1914, ch. 323, § 27, as added Pub. L. 105–297, § 3, Oct. 27, 1998, 112 Stat. 2824, which related to application of antitrust laws to professional major league baseball, was transferred to section 26b of this title.
+Section, act Oct. 15, 1914, ch. 323, § 27, as added Pub. L. 105–297, § 3, Oct. 27, 1998, 112 Stat. 2824, which related to application of antitrust laws to professional major league baseball, was transferred to section 26b of this title.
 
-## § 28. Repealed. Pub. L. 98–620, title IV, § 402(11), Nov. 8, 1984, 98 Stat. 3358
+## § 28. Repealed. Pub. L. 98–620, title IV, § 402(11), Nov. 8, 1984, 98 Stat. 3358
 
-Section, acts Feb. 11, 1903, ch. 544, § 1, 32 Stat. 823; June 25, 1910, ch. 428, 36 Stat. 854; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; Apr. 6, 1942, ch. 210, § 1, 56 Stat. 198; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Dec. 21, 1974, Pub. L. 93–528, § 4, 88 Stat. 1708, related to expedition of actions by the United States involving general public importance.
+Section, acts Feb. 11, 1903, ch. 544, § 1, 32 Stat. 823; June 25, 1910, ch. 428, 36 Stat. 854; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; Apr. 6, 1942, ch. 210, § 1, 56 Stat. 198; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Dec. 21, 1974, Pub. L. 93–528, § 4, 88 Stat. 1708, related to expedition of actions by the United States involving general public importance.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2117,7 +2117,7 @@ Section, acts Feb. 11, 1903, ch. 544, § 1, 32 Stat. 823; June 25, 1910, ch. 4
 
 Repeal not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
-## § 29. Appeals
+## § 29. Appeals
 
 **(a) Court of appeals; review by Supreme Court**
 
@@ -2127,7 +2127,7 @@ Except as otherwise expressly provided by this section, in every civil action br
 
 An appeal from a final judgment pursuant to subsection (a) shall lie directly to the Supreme Court, if, upon application of a party filed within fifteen days of the filing of a notice of appeal, the district judge who adjudicated the case enters an order stating that immediate consideration of the appeal by the Supreme Court is of general public importance in the administration of justice. Such order shall be filed within thirty days after the filing of a notice of appeal. When such an order is filed, the appeal and any cross appeal shall be docketed in the time and manner prescribed by the rules of the Supreme Court. The Supreme Court shall thereupon either (1) dispose of the appeal and any cross appeal in the same manner as any other direct appeal authorized by law, or (2) in its discretion, deny the direct appeal and remand the case to the court of appeals, which shall then have jurisdiction to hear and determine the same as if the appeal and any cross appeal therein had been docketed in the court of appeals in the first instance pursuant to subsection (a).
 
-(Feb. 11, 1903, ch. 544, § 2, 32 Stat. 823; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 9, 1944, ch. 239, 58 Stat. 272; June 25, 1948, ch. 646, § 17, 62 Stat. 989; Pub. L. 93–528, § 5, Dec. 21, 1974, 88 Stat. 1709.)
+(Feb. 11, 1903, ch. 544, § 2, 32 Stat. 823; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 9, 1944, ch. 239, 58 Stat. 272; June 25, 1948, ch. 646, § 17, 62 Stat. 989; Pub. L. 93–528, § 5, Dec. 21, 1974, 88 Stat. 1709.)
 
 **Editorial Notes**
 
@@ -2155,7 +2155,7 @@ Act Mar. 3, 1911, which transferred the powers and duties of the circuit courts 
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–528, § 7, Dec. 21, 1974, 88 Stat. 1710, provided that: “The amendment made by section 5 of this Act [amending this section] shall not apply to an action in which a notice of appeal to the Supreme Court has been filed on or before the fifteenth day following the date of enactment of this Act [Dec. 21, 1974]. Appeal in any such action shall be taken pursuant to the provisions of section 2 of the Act of February 11, 1903 (32 Stat. 823), as amended (15 U.S.C. 29; [former] 49 U.S.C. 45) which were in effect on the day preceding the date of enactment of this Act.”
+Pub. L. 93–528, § 7, Dec. 21, 1974, 88 Stat. 1710, provided that: “The amendment made by section 5 of this Act [amending this section] shall not apply to an action in which a notice of appeal to the Supreme Court has been filed on or before the fifteenth day following the date of enactment of this Act [Dec. 21, 1974]. Appeal in any such action shall be taken pursuant to the provisions of section 2 of the Act of February 11, 1903 (32 Stat. 823), as amended (15 U.S.C. 29; [former] 49 U.S.C. 45) which were in effect on the day preceding the date of enactment of this Act.”
 
 **Effective Date of 1948 Amendment**
 
@@ -2169,7 +2169,7 @@ Act June 9, 1944, ch. 239, 58 Stat. 272, provided in part: “This Act [this sec
 
 Act Feb. 11, 1903, which enacted sections 28 and 29 of this title, is commonly known as the “Expediting Act”.
 
-## § 30. Repealed. Pub. L. 107–273, div. C, title IV, § 14102(f), Nov. 2, 2002, 116 Stat. 1922
+## § 30. Repealed. Pub. L. 107–273, div. C, title IV, § 14102(f), Nov. 2, 2002, 116 Stat. 1922
 
 Section, act Mar. 3, 1913, ch. 114, 37 Stat. 731, provided that depositions for use in suits in equity brought under sections 1 to 7 of this title would be open to public.
 
@@ -2179,9 +2179,9 @@ Section, act Mar. 3, 1913, ch. 114, 37 Stat. 731, provided that depositions for 
 
 Repeal effective Nov. 2, 2002, and applicable to cases pending on or after Nov. 2, 2002, see section 14103 of Pub. L. 107–273, set out as an Effective Date of 2002 Amendment note under section 3 of this title.
 
-## § 31. Repealed. Pub. L. 107–273, div. C, title IV, § 14102(a), Nov. 2, 2002, 116 Stat. 1921
+## § 31. Repealed. Pub. L. 107–273, div. C, title IV, § 14102(a), Nov. 2, 2002, 116 Stat. 1921
 
-Section, act Aug. 24, 1912, ch. 390, § 11, 37 Stat. 567, related to closure of Panama Canal to violators of antitrust laws.
+Section, act Aug. 24, 1912, ch. 390, § 11, 37 Stat. 567, related to closure of Panama Canal to violators of antitrust laws.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2189,9 +2189,9 @@ Section, act Aug. 24, 1912, ch. 390, § 11, 37 Stat. 567, related to closure o
 
 Repeal effective Nov. 2, 2002, and applicable only with respect to cases commenced on or after Nov. 2, 2002, see section 14103 of Pub. L. 107–273, set out as a note under section 3 of this title.
 
-## §§ 32, 33. Repealed. Pub. L. 91–452, title II, §§ 209, 210, Oct. 15, 1970, 84 Stat. 929
+## §§ 32, 33. Repealed. Pub. L. 91–452, title II, §§ 209, 210, Oct. 15, 1970, 84 Stat. 929
 
-Section 32, act Feb. 25, 1903, ch. 755, § 1, 32 Stat. 904, granted immunity from prosecution to witnesses testifying or producing evidence, documentary or otherwise, in any proceeding, suit, or prosecution under section 1 to 11 of this title. See section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
+Section 32, act Feb. 25, 1903, ch. 755, § 1, 32 Stat. 904, granted immunity from prosecution to witnesses testifying or producing evidence, documentary or otherwise, in any proceeding, suit, or prosecution under section 1 to 11 of this title. See section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
 Section 33, act June 30, 1906, ch. 3920, 34 Stat. 798, provided that, under the immunity provisions of former section 32 of this title, immunity was to extend only to a natural person who, in obedience to a subpoena, testified or produced evidence.
 
@@ -2205,7 +2205,7 @@ Repeal effective on sixtieth day following Oct. 15, 1970, see section 260 of Pub
 
 Repeal of sections by Pub. L. 91–452 not to affect any immunity to which any individual was entitled under sections by reason of any testimony given before the sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
-## § 34. Definitions applicable to sections 34 to 36
+## § 34. Definitions applicable to sections 34 to 36
 
 For purposes of sections 34 to 36 of this title—
 
@@ -2219,15 +2219,15 @@ For purposes of sections 34 to 36 of this title—
 
 **(3)** the term “State” has the meaning given it in section 4G(2) of the Clayton Act (15 U.S.C. 15g(2)).
 
-(Pub. L. 98–544, § 2, Oct. 24, 1984, 98 Stat. 2750.)
+(Pub. L. 98–544, § 2, Oct. 24, 1984, 98 Stat. 2750.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 98–544, § 6, Oct. 24, 1984, 98 Stat. 2751, provided that: “This Act [enacting this section, sections 35 and 36 of this title, and provisions set out as a note under section 1 of this title] shall take effect thirty days before the date of the enactment of this Act [Oct. 24, 1984].”
+Pub. L. 98–544, § 6, Oct. 24, 1984, 98 Stat. 2751, provided that: “This Act [enacting this section, sections 35 and 36 of this title, and provisions set out as a note under section 1 of this title] shall take effect thirty days before the date of the enactment of this Act [Oct. 24, 1984].”
 
-## § 35. Recovery of damages, etc., for antitrust violations from any local government, or official or employee thereof acting in an official capacity
+## § 35. Recovery of damages, etc., for antitrust violations from any local government, or official or employee thereof acting in an official capacity
 
 **(a) Prohibition in general**
 
@@ -2237,7 +2237,7 @@ No damages, interest on damages, costs, or attorney’s fees may be recovered un
 
 Subsection (a) shall not apply to cases commenced before the effective date of this Act unless the defendant establishes and the court determines, in light of all the circumstances, including the stage of litigation and the availability of alternative relief under the Clayton Act, that it would be inequitable not to apply this subsection to a pending case. In consideration of this section, existence of a jury verdict, district court judgment, or any stage of litigation subsequent thereto, shall be deemed to be prima facie evidence that subsection (a) shall not apply.
 
-(Pub. L. 98–544, § 3, Oct. 24, 1984, 98 Stat. 2750.)
+(Pub. L. 98–544, § 3, Oct. 24, 1984, 98 Stat. 2750.)
 
 **Editorial Notes**
 
@@ -2253,7 +2253,7 @@ The Clayton Act, referred to in subsecs. (a) and (b), is act Oct. 15, 1914, ch. 
 
 Section effective thirty days before Oct. 24, 1984, see section 6 of Pub. L. 98–544, set out as a note under section 34 of this title.
 
-## § 36. Recovery of damages, etc., for antitrust violations on claim against person based on official action directed by local government, or official or employee thereof acting in an official capacity
+## § 36. Recovery of damages, etc., for antitrust violations on claim against person based on official action directed by local government, or official or employee thereof acting in an official capacity
 
 **(a) Prohibition in general**
 
@@ -2263,7 +2263,7 @@ No damages, interest on damages, costs or attorney’s fees may be recovered und
 
 Subsection (a) shall not apply with respect to cases commenced before the effective date of this Act.
 
-(Pub. L. 98–544, § 4, Oct. 24, 1984, 98 Stat. 2750.)
+(Pub. L. 98–544, § 4, Oct. 24, 1984, 98 Stat. 2750.)
 
 **Editorial Notes**
 
@@ -2277,7 +2277,7 @@ For effective date of this Act, referred to in subsec. (b), see Effective Date n
 
 Section effective thirty days before Oct. 24, 1984, see section 6 of Pub. L. 98–544, set out as a note under section 34 of this title.
 
-## § 37. Immunity from antitrust laws
+## § 37. Immunity from antitrust laws
 
 **(a) Inapplicability of antitrust laws**
 
@@ -2299,7 +2299,7 @@ shall be conclusively presumed for the purposes of this section and section 37a 
 
 Subsections (a) and (b) shall not apply with respect to the enforcement of a State law similar to any of the antitrust laws, with respect to charitable gift annuities, or charitable remainder trusts, created after the State enacts a statute, not later than December 8, 1998, that expressly provides that subsections (a) and (b) shall not apply with respect to such charitable gift annuities and such charitable remainder trusts.
 
-(Pub. L. 104–63, § 2, Dec. 8, 1995, 109 Stat. 687; Pub. L. 105–26, § 2(1), July 3, 1997, 111 Stat. 241.)
+(Pub. L. 104–63, § 2, Dec. 8, 1995, 109 Stat. 687; Pub. L. 105–26, § 2(1), July 3, 1997, 111 Stat. 241.)
 
 **Editorial Notes**
 
@@ -2315,15 +2315,15 @@ For definition of “antitrust laws”, referred to in text, see section 37a(1) 
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–26, § 3, July 3, 1997, 111 Stat. 242, provided that: “This Act [see Short Title of 1997 Amendments note set out under section 1 of this title], and the amendments made by this Act, shall apply with respect to all conduct occurring before, on, or after the date of the enactment of this Act [July 3, 1997] and shall apply in all administrative and judicial actions pending on or commenced after the date of the enactment of this Act.”
+Pub. L. 105–26, § 3, July 3, 1997, 111 Stat. 242, provided that: “This Act [see Short Title of 1997 Amendments note set out under section 1 of this title], and the amendments made by this Act, shall apply with respect to all conduct occurring before, on, or after the date of the enactment of this Act [July 3, 1997] and shall apply in all administrative and judicial actions pending on or commenced after the date of the enactment of this Act.”
 
 **Effective Date**
 
-Pub. L. 104–63, § 4, Dec. 8, 1995, 109 Stat. 688, provided that: “This Act [enacting this section, section 37a of this title, and provisions set out as a note under section 1 of this title] shall apply with respect to conduct occurring before, on, or after the date of the enactment of this Act [Dec. 8, 1995].”
+Pub. L. 104–63, § 4, Dec. 8, 1995, 109 Stat. 688, provided that: “This Act [enacting this section, section 37a of this title, and provisions set out as a note under section 1 of this title] shall apply with respect to conduct occurring before, on, or after the date of the enactment of this Act [Dec. 8, 1995].”
 
 **Study and Report**
 
-Pub. L. 105–26, § 4, July 3, 1997, 111 Stat. 242, provided that:
+Pub. L. 105–26, § 4, July 3, 1997, 111 Stat. 242, provided that:
 
 > **“(a) Study and Report.—** The Attorney General shall carry out a study to determine the effect of this Act [see Short Title of 1997 Amendments note set out under section 1 of this title] on markets for noncharitable annuities, charitable gift annuities, and charitable remainder trusts. The Attorney General shall prepare a report summarizing the results of the study.
 
@@ -2331,7 +2331,7 @@ Pub. L. 105–26, § 4, July 3, 1997, 111 Stat. 242, provided that:
 
 > **“(c) Submission of Report.—** The Attorney General shall submit the report referred to in subsection (a) to the Chairman and the ranking member of the Committee on the Judiciary of the House of Representatives, and to the Chairman and the ranking member of the Committee on the Judiciary of the Senate, not later than 27 months after the date of the enactment of this Act [July 3, 1997].”
 
-## § 37a. Definitions
+## § 37a. Definitions
 
 For purposes of this section and section 37 of this title:
 
@@ -2359,15 +2359,15 @@ The term “person” has the meaning given it in subsection (a) of section 12 o
 
 The term “State” has the meaning given it in section 15g(2) of this title.
 
-(Pub. L. 104–63, § 3, Dec. 8, 1995, 109 Stat. 687; Pub. L. 105–26, § 2(2), July 3, 1997, 111 Stat. 242.)
+(Pub. L. 104–63, § 3, Dec. 8, 1995, 109 Stat. 687; Pub. L. 105–26, § 2(2), July 3, 1997, 111 Stat. 242.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Pars. (1), (2). Pub. L. 105–26, § 2(2)(A)–(C), added par. (2), redesignated former par. (2) as (1), and struck out heading and text of former par. (1). Text read as follows: “The term ‘annuity rate’ means the percentage of the fair market value of a gift (determined as of the date of the gift) given in exchange for a charitable gift annuity, that represents the amount of the annual payment to be made to 1 or 2 annuitants over the life of either or both under the terms of the agreement to give such gift in exchange for such annuity.”
+1997—Pars. (1), (2). Pub. L. 105–26, § 2(2)(A)–(C), added par. (2), redesignated former par. (2) as (1), and struck out heading and text of former par. (1). Text read as follows: “The term ‘annuity rate’ means the percentage of the fair market value of a gift (determined as of the date of the gift) given in exchange for a charitable gift annuity, that represents the amount of the annual payment to be made to 1 or 2 annuitants over the life of either or both under the terms of the agreement to give such gift in exchange for such annuity.”
 
-Pars. (4) to (6). Pub. L. 105–26, § 2(2)(D), (E), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+Pars. (4) to (6). Pub. L. 105–26, § 2(2)(D), (E), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2379,7 +2379,7 @@ Amendment by Pub. L. 105–26 applicable with respect to all conduct occurring b
 
 Section applicable with respect to conduct occurring before, on, or after Dec. 8, 1995, see section 4 of Pub. L. 104–63, set out as a note under section 37 of this title.
 
-## § 37b. Confirmation of antitrust status of graduate medical resident matching programs
+## § 37b. Confirmation of antitrust status of graduate medical resident matching programs
 
 **(a) Findings and purposes**
 
@@ -2439,9 +2439,9 @@ Nothing in this section shall be construed to exempt from the antitrust laws any
 
 This section shall take effect on April 10, 2004, shall apply to conduct whether it occurs prior to, on, or after April 10, 2004, and shall apply to all judicial and administrative actions or other proceedings pending on April 10, 2004.
 
-(Pub. L. 108–218, title II, § 207, Apr. 10, 2004, 118 Stat. 611.)
+(Pub. L. 108–218, title II, § 207, Apr. 10, 2004, 118 Stat. 611.)
 
-## § 38. Association of marine insurance companies; application of antitrust laws
+## § 38. Association of marine insurance companies; application of antitrust laws
 
 **(a)** Whenever used in this section—
 
@@ -2451,7 +2451,7 @@ This section shall take effect on April 10, 2004, shall apply to conduct whether
 
 **(b)** Nothing contained in the “antitrust laws” as designated in section 12 of this title, shall be construed as declaring illegal an association entered into by marine insurance companies for the following purposes: To transact a marine insurance and reinsurance business in the United States and in foreign countries and to reinsure or otherwise apportion among its membership the risks undertaken by such association or any of the component members.
 
-(June 5, 1920, ch. 250, § 29, 41 Stat. 1000.)
+(June 5, 1920, ch. 250, § 29, 41 Stat. 1000.)
 
 **Editorial Notes**
 

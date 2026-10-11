@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 20A—PERISHABLE AGRICULTURAL COMMODITIES
 
-## § 499a. Short title and definitions
+## § 499a. Short title and definitions
 
 **(a) Short title**
 
@@ -53,7 +53,7 @@ This chapter may be cited as the “Perishable Agricultural Commodities Act, 193
 
 **(13)** The term “collateral fees and expenses” means any promotional allowances, rebates, service or materials fees paid or provided, directly or indirectly, in connection with the distribution or marketing of any perishable agricultural commodity.
 
-(June 10, 1930, ch. 436, § 1, 46 Stat. 531; Apr. 13, 1934, ch. 120, § 1, 48 Stat. 584; Aug. 20, 1937, ch. 719, § 1, 50 Stat. 725; June 29, 1940, ch. 456, §§ 1, 2, 54 Stat. 696; Pub. L. 87–725, §§ 1, 2, Oct. 1, 1962, 76 Stat. 673; Pub. L. 91–107, §§ 1, 2, Nov. 4, 1969, 83 Stat. 182; Pub. L. 95–562, § 1, Nov. 1, 1978, 92 Stat. 2381; Pub. L. 97–98, title XI, § 1115(a), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 102–237, title X, § 1011(1), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§ 2, 9(a), 12(a), Nov. 15, 1995, 109 Stat. 424, 429, 430.)
+(June 10, 1930, ch. 436, § 1, 46 Stat. 531; Apr. 13, 1934, ch. 120, § 1, 48 Stat. 584; Aug. 20, 1937, ch. 719, § 1, 50 Stat. 725; June 29, 1940, ch. 456, §§ 1, 2, 54 Stat. 696; Pub. L. 87–725, §§ 1, 2, Oct. 1, 1962, 76 Stat. 673; Pub. L. 91–107, §§ 1, 2, Nov. 4, 1969, 83 Stat. 182; Pub. L. 95–562, § 1, Nov. 1, 1978, 92 Stat. 2381; Pub. L. 97–98, title XI, § 1115(a), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 102–237, title X, § 1011(1), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§ 2, 9(a), 12(a), Nov. 15, 1995, 109 Stat. 424, 429, 430.)
 
 **Editorial Notes**
 
@@ -63,35 +63,35 @@ Section was formerly classified to section 551 of this title.
 
 **Amendments**
 
-1995—Subsec. (b)(9). Pub. L. 104–48, § 12(a), inserted at end “A person shall not be deemed to be responsibly connected if the person demonstrates by a preponderance of the evidence that the person was not actively involved in the activities resulting in a violation of this chapter and that the person either was only nominally a partner, officer, director, or shareholder of a violating licensee or entity subject to license or was not an owner of a violating licensee or entity subject to license which was the alter ego of its owners.”
+1995—Subsec. (b)(9). Pub. L. 104–48, § 12(a), inserted at end “A person shall not be deemed to be responsibly connected if the person demonstrates by a preponderance of the evidence that the person was not actively involved in the activities resulting in a violation of this chapter and that the person either was only nominally a partner, officer, director, or shareholder of a violating licensee or entity subject to license or was not an owner of a violating licensee or entity subject to license which was the alter ego of its owners.”
 
-Subsec. (b)(11), (12). Pub. L. 104–48, § 2, added pars. (11) and (12).
+Subsec. (b)(11), (12). Pub. L. 104–48, § 2, added pars. (11) and (12).
 
-Subsec. (b)(13). Pub. L. 104–48, § 9(a), added par. (13).
+Subsec. (b)(13). Pub. L. 104–48, § 9(a), added par. (13).
 
 1991—Pub. L. 102–237 inserted section catchline, added subsec. (a), designated existing provisions as subsec. (b), and in subsec. (b), inserted heading, substituted “For purposes of this chapter:” for “When used in this chapter—” and periods for semicolons at the end of pars. (1) to (6) and (9).
 
 1981—Pars. (6), (7). Pub. L. 97–98 substituted “$230,000” for “$200,000”.
 
-1978—Par. (6)(B). Pub. L. 95–562, § 1(a)(1), substituted “$200,000” for “$100,000”.
+1978—Par. (6)(B). Pub. L. 95–562, § 1(a)(1), substituted “$200,000” for “$100,000”.
 
-Par. (6)(C). Pub. L. 95–562, § 1(b), inserted “other than potatoes” after “commodity”.
+Par. (6)(C). Pub. L. 95–562, § 1(b), inserted “other than potatoes” after “commodity”.
 
-Par. (7). Pub. L. 95–562, § 1(a)(2), substituted “$200,000” for “$100,000”.
+Par. (7). Pub. L. 95–562, § 1(a)(2), substituted “$200,000” for “$100,000”.
 
-1969—Par. (6)(B). Pub. L. 91–107, § 1, substituted “$100,000” for “$90,000”.
+1969—Par. (6)(B). Pub. L. 91–107, § 1, substituted “$100,000” for “$90,000”.
 
-Par. (7). Pub. L. 91–107, § 2, substituted “$100,000” for “$90,000”.
+Par. (7). Pub. L. 91–107, § 2, substituted “$100,000” for “$90,000”.
 
-1962—Par. (6). Pub. L. 87–725, § 1, substituted “wholesale or jobbing quantities” for “carloads”, the requirement that the dealer’s invoice cost of his purchases in any calendar year exceed $90,000 for the requirement that his purchases in such year exceed 20 carloads, and struck out definition of “in carloads”.
+1962—Par. (6). Pub. L. 87–725, § 1, substituted “wholesale or jobbing quantities” for “carloads”, the requirement that the dealer’s invoice cost of his purchases in any calendar year exceed $90,000 for the requirement that his purchases in such year exceed 20 carloads, and struck out definition of “in carloads”.
 
-Par. (7). Pub. L. 87–725, § 1, excluded from definition of “broker”, persons who are independent agents negotiating sales for vendors and whose sales are of frozen fruits and vegetables having an invoice value not exceeding $90,000 in any calendar year.
+Par. (7). Pub. L. 87–725, § 1, excluded from definition of “broker”, persons who are independent agents negotiating sales for vendors and whose sales are of frozen fruits and vegetables having an invoice value not exceeding $90,000 in any calendar year.
 
-Pars. (9), (10). Pub. L. 87–725, § 2, added pars. (9) and (10).
+Pars. (9), (10). Pub. L. 87–725, § 2, added pars. (9) and (10).
 
-1940—Par. (4). Act June 29, 1940, § 1, designated existing provisions as cl. (A) and added cl. (B).
+1940—Par. (4). Act June 29, 1940, § 1, designated existing provisions as cl. (A) and added cl. (B).
 
-Par. (6)(C). Act June 29, 1940, § 2, inserted “, or consists of cherries in brine,” after “ice”.
+Par. (6)(C). Act June 29, 1940, § 2, inserted “, or consists of cherries in brine,” after “ice”.
 
 1937—Par. (6)(C). Act Aug. 20, 1937, inserted “unless such product is frozen or packed in ice within the meaning of paragraph 4 of this section” after “foreign commerce”.
 
@@ -105,15 +105,15 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–562, § 1(a), Nov. 1, 1978, 92 Stat. 2381, provided that the amendment made by section 1(a) of Pub. L. 95–562 is effective Jan. 1, 1979.
+Pub. L. 95–562, § 1(a), Nov. 1, 1978, 92 Stat. 2381, provided that the amendment made by section 1(a) of Pub. L. 95–562 is effective Jan. 1, 1979.
 
 **Short Title of 1995 Amendment**
 
-Pub. L. 104–48, § 1(a), Nov. 15, 1995, 109 Stat. 424, provided that: “This Act [amending this section and sections 499b, 499c to 499f, and 499h of this title and repealing provisions set out as a note under section 499f of this title] may be cited as the ‘Perishable Agricultural Commodities Act Amendments of 1995’.”
+Pub. L. 104–48, § 1(a), Nov. 15, 1995, 109 Stat. 424, provided that: “This Act [amending this section and sections 499b, 499c to 499f, and 499h of this title and repealing provisions set out as a note under section 499f of this title] may be cited as the ‘Perishable Agricultural Commodities Act Amendments of 1995’.”
 
 **Study of Domestic Fruit and Vegetable Industry**
 
-Pub. L. 101–624, title XIII, §§ 1301–1305, Nov. 28, 1990, 104 Stat. 3559, 3560, provided that:
+Pub. L. 101–624, title XIII, §§ 1301–1305, Nov. 28, 1990, 104 Stat. 3559, 3560, provided that:
 
 > **“SEC. 1301. FINDINGS.**
 
@@ -125,7 +125,7 @@ Pub. L. 101–624, title XIII, §§ 1301–1305, Nov. 28, 1990, 104 Stat. 3559
 
 > **“SEC. 1302. PURPOSES.**
 
-> “The purposes of this subtitle [subtitle A (§§ 1301–1309) of Pub. L. 101–624, enacting section 499b–1 of this title, amending sections 608c and 608e–1 of this title, and enacting this note] are to—
+> “The purposes of this subtitle [subtitle A (§§ 1301–1309) of Pub. L. 101–624, enacting section 499b–1 of this title, amending sections 608c and 608e–1 of this title, and enacting this note] are to—
 
 > **“(1)** improve the Nation’s dietary and nutritional standards by promoting domestically produced wholesome and nutritious fruit and vegetable products;
 
@@ -187,9 +187,9 @@ Pub. L. 101–624, title XIII, §§ 1301–1305, Nov. 28, 1990, 104 Stat. 3559
 
 **Potato Dealers**
 
-Pub. L. 95–562, § 1(b), Nov. 1, 1978, 92 Stat. 2381, provided in part that no person buying potatoes for processing solely within the State where grown shall be deemed or considered to be a dealer under par. (6) of this section, as amended by section 1(b) of Pub. L. 95–562, until Jan. 1, 1982.
+Pub. L. 95–562, § 1(b), Nov. 1, 1978, 92 Stat. 2381, provided in part that no person buying potatoes for processing solely within the State where grown shall be deemed or considered to be a dealer under par. (6) of this section, as amended by section 1(b) of Pub. L. 95–562, until Jan. 1, 1982.
 
-## § 499b. Unfair conduct
+## § 499b. Unfair conduct
 
 It shall be unlawful in or in connection with any transaction in interstate or foreign commerce:
 
@@ -213,7 +213,7 @@ and pay, in the case of a violation under either clause (A) or (B) of this parag
 
 **(7)** For any commission merchant, dealer or broker, without the consent of an inspector, to make, cause, or permit to be made any change by way of substitution or otherwise in the contents of a load or lot of any perishable agricultural commodity after it has been officially inspected for grading and certification, but this shall not prohibit re-sorting and discarding inferior produce.
 
-(June 10, 1930, ch. 436, § 2, 46 Stat. 532; Apr. 13, 1934, ch. 120, §§ 2, 3, 48 Stat. 585; June 19, 1936, ch. 602, § 1, 49 Stat. 1533; Aug. 20, 1937, ch. 719, §§ 2–4, 50 Stat. 725, 726; June 29, 1940, ch. 456, §§ 3, 4, 54 Stat. 696; Apr. 6, 1942, ch. 211, 56 Stat. 200; July 30, 1956, ch. 786, § 1, 70 Stat. 726; Pub. L. 93–369, Aug. 10, 1974, 88 Stat. 423; Pub. L. 97–352, § 1, Oct. 18, 1982, 96 Stat. 1667; Pub. L. 98–273, § 2, May 7, 1984, 98 Stat. 166; Pub. L. 104–48, §§ 9(b), 10, Nov. 15, 1995, 109 Stat. 430.)
+(June 10, 1930, ch. 436, § 2, 46 Stat. 532; Apr. 13, 1934, ch. 120, §§ 2, 3, 48 Stat. 585; June 19, 1936, ch. 602, § 1, 49 Stat. 1533; Aug. 20, 1937, ch. 719, §§ 2–4, 50 Stat. 725, 726; June 29, 1940, ch. 456, §§ 3, 4, 54 Stat. 696; Apr. 6, 1942, ch. 211, 56 Stat. 200; July 30, 1956, ch. 786, § 1, 70 Stat. 726; Pub. L. 93–369, Aug. 10, 1974, 88 Stat. 423; Pub. L. 97–352, § 1, Oct. 18, 1982, 96 Stat. 1667; Pub. L. 98–273, § 2, May 7, 1984, 98 Stat. 166; Pub. L. 104–48, §§ 9(b), 10, Nov. 15, 1995, 109 Stat. 430.)
 
 **Editorial Notes**
 
@@ -223,15 +223,15 @@ Section was formerly classified to section 552 of this title.
 
 **Amendments**
 
-1995—Pub. L. 104–48, § 9(b)(1), substituted “commerce:” for “commerce—” in introductory provisions.
+1995—Pub. L. 104–48, § 9(b)(1), substituted “commerce:” for “commerce—” in introductory provisions.
 
-Pars. (1) to (3). Pub. L. 104–48, § 9(b)(2), substituted period for semicolon at end.
+Pars. (1) to (3). Pub. L. 104–48, § 9(b)(2), substituted period for semicolon at end.
 
-Par. (4). Pub. L. 104–48, § 9(b)(2), (3), substituted period for semicolon after “section 499e(c) of this title” and inserted at end “However, this paragraph shall not be considered to make the good faith offer, solicitation, payment, or receipt of collateral fees and expenses, in and of itself, unlawful under this chapter.”
+Par. (4). Pub. L. 104–48, § 9(b)(2), (3), substituted period for semicolon after “section 499e(c) of this title” and inserted at end “However, this paragraph shall not be considered to make the good faith offer, solicitation, payment, or receipt of collateral fees and expenses, in and of itself, unlawful under this chapter.”
 
-Par. (5). Pub. L. 104–48, §§ 9(b)(2), 10, substituted “foreign commerce. However,” for “foreign commerce: *Provided*, That”, substituted period for semicolon after “miscellaneous receipts”, and inserted at end “A person other than the first licensee handling misbranded perishable agricultural commodities shall not be held liable for a violation of this paragraph by reason of the conduct of another if the person did not have knowledge of the violation or lacked the ability to correct the violation.”
+Par. (5). Pub. L. 104–48, §§ 9(b)(2), 10, substituted “foreign commerce. However,” for “foreign commerce: *Provided*, That”, substituted period for semicolon after “miscellaneous receipts”, and inserted at end “A person other than the first licensee handling misbranded perishable agricultural commodities shall not be held liable for a violation of this paragraph by reason of the conduct of another if the person did not have knowledge of the violation or lacked the ability to correct the violation.”
 
-Par. (6). Pub. L. 104–48, § 9(b)(2), substituted period for semicolon at end.
+Par. (6). Pub. L. 104–48, § 9(b)(2), substituted period for semicolon at end.
 
 1984—Par. (4). Pub. L. 98–273 inserted “or to fail to maintain the trust as required under section 499e(c) of this title;”.
 
@@ -243,27 +243,27 @@ Par. (6). Pub. L. 104–48, § 9(b)(2), substituted period for semicolon at en
 
 1942—Par. (4). Act Apr. 6, 1942, inserted “and make full payment” and “or to fail, without reasonable cause, to perform any specification or duty, express or implied, arising out of any undertaking in connection with any such transaction”.
 
-1940—Par. (1). Act June 29, 1940, § 3, among other changes, inserted “dealer” after “merchant”.
+1940—Par. (1). Act June 29, 1940, § 3, among other changes, inserted “dealer” after “merchant”.
 
 Par. (5). Act June 29, 1940, inserted “quantity, size, pack, weight” after “quality”.
 
-1937—Par. (5). Act Aug. 20, 1937, § 2, among other changes, inserted “mark, stencil, label, statement” after “act” and “the character, kind, grade, quality, condition, degree of maturity” after “or deed”.
+1937—Par. (5). Act Aug. 20, 1937, § 2, among other changes, inserted “mark, stencil, label, statement” after “act” and “the character, kind, grade, quality, condition, degree of maturity” after “or deed”.
 
-Par. (6). Act Aug. 20, 1937, § 3, inserted “or in compliance with any Federal or State law or regulation” after “inspector”.
+Par. (6). Act Aug. 20, 1937, § 3, inserted “or in compliance with any Federal or State law or regulation” after “inspector”.
 
-Par. (7). Act Aug. 20, 1937, § 4, added par. (7).
+Par. (7). Act Aug. 20, 1937, § 4, added par. (7).
 
 1936—Par. (4). Act June 17, 1936, struck out “or concerning the condition of the market for” after “involving”.
 
-1934—Par. (2). Act Apr. 13, 1934, § 2, inserted “or consigned” after “sold”.
+1934—Par. (2). Act Apr. 13, 1934, § 2, inserted “or consigned” after “sold”.
 
-Par. (4). Act Apr. 13, 1934, § 3, substituted “in connection with any transaction involving or concerning” for “concerning the condition, quality, quantity or disposition of” and inserted “or consigned” after “contracted to be bought or sold”.
+Par. (4). Act Apr. 13, 1934, § 3, substituted “in connection with any transaction involving or concerning” for “concerning the condition, quality, quantity or disposition of” and inserted “or consigned” after “contracted to be bought or sold”.
 
-## § 499b–1. Products produced in distinct geographic areas
+## § 499b–1. Products produced in distinct geographic areas
 
-**(a) In general** In the case of a perishable agricultural commodity (as defined under the Perishable Agricultural Commodity Act (7 U.S.C. 499a(4))— 1
+**(a) In general** In the case of a perishable agricultural commodity (as defined under the Perishable Agricultural Commodity Act (7 U.S.C. 499a(4))— 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(1)** subject to a Federal marketing order under the Agricultural Marketing Agreement Act of 1937 (7 U.S.C. 601 et seq.);
 
@@ -289,23 +289,23 @@ The Secretary of Agriculture shall not increase any fees charged under the Peris
 
 The Secretary shall promulgate regulations to carry out this section.
 
-(Pub. L. 101–624, title XIII, § 1309, Nov. 28, 1990, 104 Stat. 3562.)
+(Pub. L. 101–624, title XIII, § 1309, Nov. 28, 1990, 104 Stat. 3562.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Perishable Agricultural Commodity Act, and the Perishable Agricultural Commodities Act, referred to in subsecs. (a), (b), and (d), probably mean the Perishable Agricultural Commodities Act, 1930, act June 10, 1930, ch. 436, 46 Stat. 531, which is classified generally to this chapter (§ 499a et seq.). For complete classification of this Act to the Code, see section 499a(a) of this title and Tables.
+The Perishable Agricultural Commodity Act, and the Perishable Agricultural Commodities Act, referred to in subsecs. (a), (b), and (d), probably mean the Perishable Agricultural Commodities Act, 1930, act June 10, 1930, ch. 436, 46 Stat. 531, which is classified generally to this chapter (§ 499a et seq.). For complete classification of this Act to the Code, see section 499a(a) of this title and Tables.
 
-7 U.S.C. 499a(4), referred to in subsec. (a), was redesignated 7 U.S.C. 499a(b)(4) by Pub. L. 102–237, title X, § 1011(1)(A), Dec. 13, 1991, 105 Stat. 1898.
+7 U.S.C. 499a(4), referred to in subsec. (a), was redesignated 7 U.S.C. 499a(b)(4) by Pub. L. 102–237, title X, § 1011(1)(A), Dec. 13, 1991, 105 Stat. 1898.
 
-The Agricultural Marketing Agreement Act of 1937 (7 U.S.C. 601 et seq.), referred to in subsec. (a)(1), is act June 3, 1937, ch. 296, 50 Stat. 246, which is classified principally to chapter 26A (§ 671 et seq.) of this title. For complete classification of this Act to the Code, see section 674 of this title and Tables. The Agricultural Marketing Agreement Act of 1937 reenacted and amended the Agricultural Adjustment Act, title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
+The Agricultural Marketing Agreement Act of 1937 (7 U.S.C. 601 et seq.), referred to in subsec. (a)(1), is act June 3, 1937, ch. 296, 50 Stat. 246, which is classified principally to chapter 26A (§ 671 et seq.) of this title. For complete classification of this Act to the Code, see section 674 of this title and Tables. The Agricultural Marketing Agreement Act of 1937 reenacted and amended the Agricultural Adjustment Act, title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Perishable Agricultural Commodities Act, 1930 which comprises this chapter.
 
-## § 499c. Licenses
+## § 499c. Licenses
 
 **(a) License required; penalties for violations**
 
@@ -345,13 +345,13 @@ Such fee, when collected, shall be deposited in the Treasury of the United State
 
 A licensee may conduct business in more than one trade name or change the name under which business is conducted without requiring an additional or new license. The Secretary may disapprove the use of a trade name if, in his opinion, the use of the trade name by the licensee would be deceptive, misleading, or confusing to the trade, and the Secretary may, after notice and opportunity for a hearing, suspend for a period not to exceed ninety days the license of any licensee who continues to use a trade name which the Secretary has disapproved for use by such licensee. The Secretary may refuse to issue a license to an applicant if he finds that the trade name in which the applicant proposes to do business would be deceptive, misleading, or confusing to the trade if used by such applicant.
 
-(June 10, 1930, ch. 436, § 3, 46 Stat. 533; Aug. 20, 1937, ch. 719, § 5, 50 Stat. 726; June 15, 1950, ch. 254, § 1, 64 Stat. 217; July 30, 1956, ch. 786, § 2(a), 70 Stat. 726; Pub. L. 87–725, §§ 3, 4, Oct. 1, 1962, 76 Stat. 673, 674; Pub. L. 91–107, § 3, Nov. 4, 1969, 83 Stat. 182; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 95–562, § 2, Nov. 1, 1978, 92 Stat. 2381; Pub. L. 97–98, title XI, § 1115(b), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 100–414, § 1, Aug. 22, 1988, 102 Stat. 1102; Pub. L. 101–624, title XIII, § 1361, Nov. 28, 1990, 104 Stat. 3568; Pub. L. 104–48, §§ 3–4(b), 5(a), Nov. 15, 1995, 109 Stat. 425–427.)
+(June 10, 1930, ch. 436, § 3, 46 Stat. 533; Aug. 20, 1937, ch. 719, § 5, 50 Stat. 726; June 15, 1950, ch. 254, § 1, 64 Stat. 217; July 30, 1956, ch. 786, § 2(a), 70 Stat. 726; Pub. L. 87–725, §§ 3, 4, Oct. 1, 1962, 76 Stat. 673, 674; Pub. L. 91–107, § 3, Nov. 4, 1969, 83 Stat. 182; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 95–562, § 2, Nov. 1, 1978, 92 Stat. 2381; Pub. L. 97–98, title XI, § 1115(b), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 100–414, § 1, Aug. 22, 1988, 102 Stat. 1102; Pub. L. 101–624, title XIII, § 1361, Nov. 28, 1990, 104 Stat. 3568; Pub. L. 104–48, §§ 3–4(b), 5(a), Nov. 15, 1995, 109 Stat. 425–427.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Act to prevent the destruction or dumping of farm produce, approved March 3, 1927, referred to in subsec. (b)(2), (5), is act Mar. 3, 1927, ch. 309, 44 Stat. 1355, which is classified generally to chapter 20 (§ 491 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Act to prevent the destruction or dumping of farm produce, approved March 3, 1927, referred to in subsec. (b)(2), (5), is act Mar. 3, 1927, ch. 309, 44 Stat. 1355, which is classified generally to chapter 20 (§ 491 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
@@ -359,23 +359,23 @@ Section was formerly classified to section 553 of this title.
 
 **Amendments**
 
-1995—Pub. L. 104–48, § 3(b)(1), reenacted section catchline without change.
+1995—Pub. L. 104–48, § 3(b)(1), reenacted section catchline without change.
 
-Subsec. (a). Pub. L. 104–48, §§ 3(b)(1), 5(a), inserted heading and substituted “$1,000” for “$500” in first paragraph and “$250” for “$25” in two places.
+Subsec. (a). Pub. L. 104–48, §§ 3(b)(1), 5(a), inserted heading and substituted “$1,000” for “$500” in first paragraph and “$250” for “$25” in two places.
 
-Subsec. (b). Pub. L. 104–48, § 3(b)(2), inserted heading.
+Subsec. (b). Pub. L. 104–48, § 3(b)(2), inserted heading.
 
-Subsec. (b)(1). Pub. L. 104–48, § 3(a)(1), (2), inserted heading, realigned margins, and struck out after second sentence “Upon the filing of the application, and annually thereafter, the applicant shall pay such fee as the Secretary determines necessary to meet the reasonably anticipated expenses for administering this chapter and the Act to prevent the destruction or dumping of farm produce, approved March 3, 1927 (7 U.S.C. 491–497), but in no event shall such fee exceed $400, plus $200 for each branch or additional business facility operated by the applicant in excess of nine such facilities, as determined by the Secretary. Total annual fees for any applicant shall not exceed $4,000 in the aggregate.”
+Subsec. (b)(1). Pub. L. 104–48, § 3(a)(1), (2), inserted heading, realigned margins, and struck out after second sentence “Upon the filing of the application, and annually thereafter, the applicant shall pay such fee as the Secretary determines necessary to meet the reasonably anticipated expenses for administering this chapter and the Act to prevent the destruction or dumping of farm produce, approved March 3, 1927 (7 U.S.C. 491–497), but in no event shall such fee exceed $400, plus $200 for each branch or additional business facility operated by the applicant in excess of nine such facilities, as determined by the Secretary. Total annual fees for any applicant shall not exceed $4,000 in the aggregate.”
 
-Subsec. (b)(2). Pub. L. 104–48, § 4(a), added par. (2).
+Subsec. (b)(2). Pub. L. 104–48, § 4(a), added par. (2).
 
-Subsec. (b)(3), (4). Pub. L. 104–48, § 3(a)(5), added pars. (3) and (4).
+Subsec. (b)(3), (4). Pub. L. 104–48, § 3(a)(5), added pars. (3) and (4).
 
-Subsec. (b)(5). Pub. L. 104–48, §§ 3(a)(3), (4), 4(b), designated provisions of subsec. (b) relating to Perishable Agricultural Commodities Act Fund as par. (5), inserted heading, realigned margins, and struck out “The amount of money accumulated and on hand in the special fund at the end of any fiscal year shall not exceed 25 percent of the projected budget for the next following fiscal year.” after “fees deposited in such fund.” and “The Secretary shall give public notice of any increase to be made in the annual fee prescribed by him hereunder and shall allow a reasonable time prior to the effective date of such increase for interested persons to file their views on or objections to such increase.” after “budget as submitted to the Congress annually.”
+Subsec. (b)(5). Pub. L. 104–48, §§ 3(a)(3), (4), 4(b), designated provisions of subsec. (b) relating to Perishable Agricultural Commodities Act Fund as par. (5), inserted heading, realigned margins, and struck out “The amount of money accumulated and on hand in the special fund at the end of any fiscal year shall not exceed 25 percent of the projected budget for the next following fiscal year.” after “fees deposited in such fund.” and “The Secretary shall give public notice of any increase to be made in the annual fee prescribed by him hereunder and shall allow a reasonable time prior to the effective date of such increase for interested persons to file their views on or objections to such increase.” after “budget as submitted to the Congress annually.”
 
-Subsec. (c). Pub. L. 104–48, § 3(b)(3), inserted heading.
+Subsec. (c). Pub. L. 104–48, § 3(b)(3), inserted heading.
 
-1990—Subsec. (b). Pub. L. 101–624 substituted “. Any reserve funds in the Perishable Agricultural Commodities Act Fund may be invested by the Secretary in insured or fully-collateralized interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. Any interest earned on such reserve funds shall be credited to the Perishable Agricultural Commodities Act Fund and shall be available for the same purposes as the fees deposited in such fund. The” for “: *Provided*, That the” and “. Financial” for “: *Provided further*, That financial”.
+1990—Subsec. (b). Pub. L. 101–624 substituted “. Any reserve funds in the Perishable Agricultural Commodities Act Fund may be invested by the Secretary in insured or fully-collateralized interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. Any interest earned on such reserve funds shall be credited to the Perishable Agricultural Commodities Act Fund and shall be available for the same purposes as the fees deposited in such fund. The” for “: *Provided*, That the” and “. Financial” for “: *Provided further*, That financial”.
 
 1988—Subsec. (b). Pub. L. 100–414 substituted “$400, plus $200” for “$300, plus $150” and “$4,000” for “$3,000”.
 
@@ -385,9 +385,9 @@ Subsec. (c). Pub. L. 104–48, § 3(b)(3), inserted heading.
 
 1969—Subsec. (b). Pub. L. 91–107 increased limitation on fees from $50 to $100.
 
-1962—Subsec. (b). Pub. L. 87–725, § 3, increased annual fee from a maximum of $25, to such fee as the Secretary determines necessary to meet the expenses of administering this chapter and the Act approved March 3, 1927, but not exceeding $50, directed the Secretary to give public notice of any increase in the annual fee and to allow reasonable time before the effective date of such increase for submission of views on, or objections to, such increase, and struck out references to the availability of the Perishable Agricultural Commodities Act Fund for administrative expenses of sections 581 to 589 of this title.
+1962—Subsec. (b). Pub. L. 87–725, § 3, increased annual fee from a maximum of $25, to such fee as the Secretary determines necessary to meet the expenses of administering this chapter and the Act approved March 3, 1927, but not exceeding $50, directed the Secretary to give public notice of any increase in the annual fee and to allow reasonable time before the effective date of such increase for submission of views on, or objections to, such increase, and struck out references to the availability of the Perishable Agricultural Commodities Act Fund for administrative expenses of sections 581 to 589 of this title.
 
-Subsec. (c). Pub. L. 87–725, § 4, added subsec. (c).
+Subsec. (c). Pub. L. 87–725, § 4, added subsec. (c).
 
 1956—Subsec. (b). Act July 30, 1956, increased fee from $15 annually to not more than $25 annually.
 
@@ -407,7 +407,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of 1970 Reorg. Plan No. 2. Section 102 of 1970 Reorg. Plan No. 2 redesignated Bureau of the Budget as Office of Management and Budget and offices of Director of Bureau of the Budget, Deputy Director of Bureau of the Budget, and Assistant Directors of Bureau of the Budget as Director of Office of Management and Budget, Deputy Director of Office of Management and Budget, and Assistant Directors of Office of Management and Budget, respectively. Section 103 of 1970 Reorg. Plan No. 2 transferred all records, property, personnel, and funds of Bureau to Office of Management and Budget. See part I of Reorg. Plan No. 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 499d. Issuance of license
+## § 499d. Issuance of license
 
 **(a) Authority to do business; termination; renewal**
 
@@ -435,7 +435,7 @@ The Secretary may withhold the issuance of a license to an applicant, for a peri
 
 The Secretary may refuse to issue a license to an applicant if he finds that the applicant, or in case the applicant is a partnership, any general partner, or in case the applicant is a corporation, any officer or holder of more than 10 per centum of the stock, has, within three years prior to the date of the application, been adjudicated or discharged as a bankrupt, or was a general partner of a partnership or officer or holder of more than 10 per centum of the stock of a corporation adjudicated or discharged as a bankrupt, and if he finds that the circumstances of such bankruptcy warrant such a refusal, unless the applicant furnishes a bond of such nature and amount as may be determined by the Secretary or other assurance satisfactory to the Secretary that the business of the applicant will be conducted in accordance with this chapter.
 
-(June 10, 1930, ch. 436, § 4, 46 Stat. 533; Apr. 13, 1934, ch. 120, §§ 4–7, 48 Stat. 585, 586; June 19, 1936, ch. 602, § 2, 49 Stat. 1533; Aug. 20, 1937, ch. 719, § 6, 50 Stat. 726; June 15, 1950, ch. 254, § 2, 64 Stat. 218; July 30, 1956, ch. 786, §§ 2(b), 3, 4, 70 Stat. 726; Pub. L. 87–725, §§ 5–7, Oct. 1, 1962, 76 Stat. 674; Pub. L. 95–598, title III, § 303, Nov. 6, 1978, 92 Stat. 2673; Pub. L. 102–237, title X, § 1011(2), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§ 4(c), 5(b), 12(c), Nov. 15, 1995, 109 Stat. 427, 431.)
+(June 10, 1930, ch. 436, § 4, 46 Stat. 533; Apr. 13, 1934, ch. 120, §§ 4–7, 48 Stat. 585, 586; June 19, 1936, ch. 602, § 2, 49 Stat. 1533; Aug. 20, 1937, ch. 719, § 6, 50 Stat. 726; June 15, 1950, ch. 254, § 2, 64 Stat. 218; July 30, 1956, ch. 786, §§ 2(b), 3, 4, 70 Stat. 726; Pub. L. 87–725, §§ 5–7, Oct. 1, 1962, 76 Stat. 674; Pub. L. 95–598, title III, § 303, Nov. 6, 1978, 92 Stat. 2673; Pub. L. 102–237, title X, § 1011(2), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§ 4(c), 5(b), 12(c), Nov. 15, 1995, 109 Stat. 427, 431.)
 
 **Editorial Notes**
 
@@ -445,29 +445,29 @@ Section was formerly classified to section 554 of this title.
 
 **Amendments**
 
-1995—Subsec. (a). Pub. L. 104–48, §§ 4(c), 5(b), substituted “the anniversary date of the license at the end of the annual or multiyear period covered by the license fee unless the licensee submits the required renewal application and pays the applicable renewal fee (if such fee is required)” for “any anniversary date thereof unless the annual fee has been paid” in provisions before first proviso, “the necessity of renewing the license and of paying the renewal fee (if such fee is required)” for “the necessity of paying the annual fee” in first proviso and “renewal fee (if required)” for “annual fee” and “plus $50” for “plus $5” in second proviso.
+1995—Subsec. (a). Pub. L. 104–48, §§ 4(c), 5(b), substituted “the anniversary date of the license at the end of the annual or multiyear period covered by the license fee unless the licensee submits the required renewal application and pays the applicable renewal fee (if such fee is required)” for “any anniversary date thereof unless the annual fee has been paid” in provisions before first proviso, “the necessity of renewing the license and of paying the renewal fee (if such fee is required)” for “the necessity of paying the annual fee” in first proviso and “renewal fee (if required)” for “annual fee” and “plus $50” for “plus $5” in second proviso.
 
-Subsec. (b). Pub. L. 104–48, § 12(c)(1), inserted “is prohibited from employment with a licensee under section 499h(b) of this title or” after “with the applicant,” in introductory provisions.
+Subsec. (b). Pub. L. 104–48, § 12(c)(1), inserted “is prohibited from employment with a licensee under section 499h(b) of this title or” after “with the applicant,” in introductory provisions.
 
-Subsec. (c). Pub. L. 104–48, § 12(c)(2), inserted at end “The Secretary may not issue a license to an applicant under this subsection if the applicant or any person responsibly connected with the applicant is prohibited from employment with a licensee under section 499h(b) of this title.”
+Subsec. (c). Pub. L. 104–48, § 12(c)(2), inserted at end “The Secretary may not issue a license to an applicant under this subsection if the applicant or any person responsibly connected with the applicant is prohibited from employment with a licensee under section 499h(b) of this title.”
 
 1991—Subsec. (a). Pub. L. 102–237 substituted “annual” for “anual” before “fee has been paid”.
 
-1978—Subsec. (a). Pub. L. 95–598, § 303(a), inserted “, unless the Secretary finds upon examination of the circumstances of such bankruptcy, which he shall examine if requested to do so by said licensee, that such circumstances do not warrant such termination”.
+1978—Subsec. (a). Pub. L. 95–598, § 303(a), inserted “, unless the Secretary finds upon examination of the circumstances of such bankruptcy, which he shall examine if requested to do so by said licensee, that such circumstances do not warrant such termination”.
 
-Subsec. (e). Pub. L. 95–598, § 303(b), inserted “and if he finds that the circumstances of such bankruptcy warrant such a refusal,”.
+Subsec. (e). Pub. L. 95–598, § 303(b), inserted “and if he finds that the circumstances of such bankruptcy warrant such a refusal,”.
 
-1962—Subsec. (a). Pub. L. 87–725, § 5, inserted proviso that the license of any licensee shall terminate, if he, or in case the licensee is a partnership, any partner, is discharged as a bankrupt.
+1962—Subsec. (a). Pub. L. 87–725, § 5, inserted proviso that the license of any licensee shall terminate, if he, or in case the licensee is a partnership, any partner, is discharged as a bankrupt.
 
-Subsec. (b). Pub. L. 87–725, § 6, amended subsection generally, and among other changes, required refusal of a license upon showing responsible connection by the applicant, or by any person responsibly connected with him, with a person guilty of the specified conduct, without requiring that the applicant was responsible in whole or in part for such conduct, and upon the grounds specified in clause (C) relating to being found guilty in a Federal court of having violated the provisions of sections 491, 493 to 497 of this title, provided that the provisions regarding flagrant or repeated violation of section 499b of this title shall not apply where the license in such case was suspended and the suspension period has expired or is not in effect, and eliminated provisions which, notwithstanding the grounds for refusal specified in the section, permitted the Secretary to issue a license upon the applicant furnishing a bond or other satisfactory assurance that his business would be conducted in accordance with this chapter, and that he would pay reparation orders previously issued against him or which could be issued against him within two years after receiving the license, but such license could not be issued until after the expiration of one year from the revocation or from the finding that the applicant was responsible, for any flagrant or repeated violation of section 499b of this title.
+Subsec. (b). Pub. L. 87–725, § 6, amended subsection generally, and among other changes, required refusal of a license upon showing responsible connection by the applicant, or by any person responsibly connected with him, with a person guilty of the specified conduct, without requiring that the applicant was responsible in whole or in part for such conduct, and upon the grounds specified in clause (C) relating to being found guilty in a Federal court of having violated the provisions of sections 491, 493 to 497 of this title, provided that the provisions regarding flagrant or repeated violation of section 499b of this title shall not apply where the license in such case was suspended and the suspension period has expired or is not in effect, and eliminated provisions which, notwithstanding the grounds for refusal specified in the section, permitted the Secretary to issue a license upon the applicant furnishing a bond or other satisfactory assurance that his business would be conducted in accordance with this chapter, and that he would pay reparation orders previously issued against him or which could be issued against him within two years after receiving the license, but such license could not be issued until after the expiration of one year from the revocation or from the finding that the applicant was responsible, for any flagrant or repeated violation of section 499b of this title.
 
-Subsec. (c). Pub. L. 87–725, § 7, substituted provisions which permit a license to be issued to an applicant ineligible under subsec. (b) of this section, upon expiration of the two year period applicable to him, if he furnishes a surety bond as assurance that his business will be conducted in accordance with this chapter and that he will pay all reparation orders issued against him in connection with transactions occurring within four years following issuance of license, subject to appeal under section 499g(c) of this title, or if no bond is given, permit issuance of the license after three years from the applicable order, or decision of the court on appeal, and which provide that if a bond is terminated without the Secretary’s approval, the license is automatically canceled and cannot be re-issued during the four year period without a new bond, that the Secretary may order an increase or a reduction in the bond, and that a licensee notified to increase the bond must do so in a reasonable time or his license will be suspended until such bond is provided, for provisions which required the Secretary to refuse a license to an applicant, or if the applicant was a partnership, or an association or a corporation, to a partner or officer or any person holding a responsible position therein, respectively, found within two years of being guilty of violating sections 491 to 497 or 499n(b) of this title.
+Subsec. (c). Pub. L. 87–725, § 7, substituted provisions which permit a license to be issued to an applicant ineligible under subsec. (b) of this section, upon expiration of the two year period applicable to him, if he furnishes a surety bond as assurance that his business will be conducted in accordance with this chapter and that he will pay all reparation orders issued against him in connection with transactions occurring within four years following issuance of license, subject to appeal under section 499g(c) of this title, or if no bond is given, permit issuance of the license after three years from the applicable order, or decision of the court on appeal, and which provide that if a bond is terminated without the Secretary’s approval, the license is automatically canceled and cannot be re-issued during the four year period without a new bond, that the Secretary may order an increase or a reduction in the bond, and that a licensee notified to increase the bond must do so in a reasonable time or his license will be suspended until such bond is provided, for provisions which required the Secretary to refuse a license to an applicant, or if the applicant was a partnership, or an association or a corporation, to a partner or officer or any person holding a responsible position therein, respectively, found within two years of being guilty of violating sections 491 to 497 or 499n(b) of this title.
 
-1956—Subsec. (a). Act July 30, 1956, § 2(b), substituted “the fee provided in section 499c(b) of this title, plus $5” for “a fee of $20”.
+1956—Subsec. (a). Act July 30, 1956, § 2(b), substituted “the fee provided in section 499c(b) of this title, plus $5” for “a fee of $20”.
 
-Subsec. (d). Act July 30, 1956, § 3, included within term “applicant” any general partner of a partnership, and officers or holders of more than 10 per centum of the stock of a corporation, and permitted the Secretary to refuse to issue a license to an applicant who was convicted of a felony in any State or Federal court.
+Subsec. (d). Act July 30, 1956, § 3, included within term “applicant” any general partner of a partnership, and officers or holders of more than 10 per centum of the stock of a corporation, and permitted the Secretary to refuse to issue a license to an applicant who was convicted of a felony in any State or Federal court.
 
-Subsec. (e). Act July 30, 1956, § 4, added subsec. (e).
+Subsec. (e). Act July 30, 1956, § 4, added subsec. (e).
 
 1950—Subsec. (a). Act June 15, 1950, increased fee for late registration from $15 to $20, and provided for its disposition in the fund.
 
@@ -479,9 +479,9 @@ Subsecs. (c), (d). Act Aug. 20, 1937, amended subsecs. (c) and (d) generally.
 
 1936—Subsec. (b). Act June 19, 1936, among other changes, inserted “if he finds” after “or (3)” and “or (5)” after “section 499b”.
 
-1934—Subsec. (b). Act Apr. 13, 1934, § 4, among other changes, added cls. (3) and (4).
+1934—Subsec. (b). Act Apr. 13, 1934, § 4, among other changes, added cls. (3) and (4).
 
-Subsecs. (c) to (e). Act Apr. 13, 1934, §§ 5–7, added subsecs. (c) to (e).
+Subsecs. (c) to (e). Act Apr. 13, 1934, §§ 5–7, added subsecs. (c) to (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -489,7 +489,7 @@ Subsecs. (c) to (e). Act Apr. 13, 1934, §§ 5–7, added subsecs. (c) to (e).
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-## § 499e. Liability to persons injured
+## § 499e. Liability to persons injured
 
 **(a) Amount of damages**
 
@@ -511,7 +511,7 @@ Such liability may be enforced either (1) by complaint to the Secretary as herei
 
 **(5)** The several district courts of the United States are vested with jurisdiction specifically to entertain (i) actions by trust beneficiaries to enforce payment from the trust, and (ii) actions by the Secretary to prevent and restrain dissipation of the trust.
 
-(June 10, 1930, ch. 436, § 5, 46 Stat. 534; Aug. 20, 1937, ch. 719, § 7, 50 Stat. 728; Pub. L. 98–273, § 1, May 7, 1984, 98 Stat. 165; Pub. L. 102–237, title X, § 1011(3), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§ 6, 8(b), Nov. 15, 1995, 109 Stat. 427, 429.)
+(June 10, 1930, ch. 436, § 5, 46 Stat. 534; Aug. 20, 1937, ch. 719, § 7, 50 Stat. 728; Pub. L. 98–273, § 1, May 7, 1984, 98 Stat. 165; Pub. L. 102–237, title X, § 1011(3), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§ 6, 8(b), Nov. 15, 1995, 109 Stat. 427, 429.)
 
 **Editorial Notes**
 
@@ -521,19 +521,19 @@ Section was formerly classified to section 555 of this title.
 
 **Amendments**
 
-1995—Subsec. (a). Pub. L. 104–48, § 8(b), inserted “(including any handling fee paid by the injured person or persons under section 499f(a)(2) of this title)” after “damages”.
+1995—Subsec. (a). Pub. L. 104–48, § 8(b), inserted “(including any handling fee paid by the injured person or persons under section 499f(a)(2) of this title)” after “damages”.
 
-Subsec. (c)(3). Pub. L. 104–48, § 6(a), (b), struck out “and has filed such notice with the Secretary” before “within thirty calendar days” in first sentence and inserted after first sentence “The written notice to the commission merchant, dealer, or broker shall set forth information in sufficient detail to identify the transaction subject to the trust.”
+Subsec. (c)(3). Pub. L. 104–48, § 6(a), (b), struck out “and has filed such notice with the Secretary” before “within thirty calendar days” in first sentence and inserted after first sentence “The written notice to the commission merchant, dealer, or broker shall set forth information in sufficient detail to identify the transaction subject to the trust.”
 
-Subsec. (c)(4), (5). Pub. L. 104–48, § 6(c), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (c)(4), (5). Pub. L. 104–48, § 6(c), added par. (4) and redesignated former par. (4) as (5).
 
-1991—Subsec. (c)(2). Pub. L. 102–237 substituted “, as” for “(as” before “defined”.
+1991—Subsec. (c)(2). Pub. L. 102–237 substituted “, as” for “(as” before “defined”.
 
 1984—Subsec. (c). Pub. L. 98–273 added subsec. (c).
 
 1937—Subsec. (a). Act Aug. 20, 1937, struck out “paragraph (1), (2), (3), or (4) of” after “provisions of”.
 
-## § 499f. Complaints, written notifications, and investigations
+## § 499f. Complaints, written notifications, and investigations
 
 **(a) Reparation complaints**
 
@@ -571,7 +571,7 @@ After opportunity for hearing on complaints where the damages claimed exceed the
 
 In case a complaint is made by a nonresident of the United States, or by a resident of the United States to whom the claim of a nonresident of the United States has been assigned, the complainant shall be required, before any formal action is taken on his complaint, to furnish a bond in double the amount of the claim conditioned upon the payment of costs, including a reasonable attorney’s fee for the respondent if the respondent shall prevail, and any reparation award that may be issued by the Secretary of Agriculture against the complainant on any counter claim by respondent: *Provided*, That the Secretary shall have authority to waive the furnishing of a bond by a complainant who is a resident of a country which permits the filing of a complaint by a resident of the United States without the furnishing of a bond.
 
-(June 10, 1930, ch. 436, § 6, 46 Stat. 534; Apr. 13, 1934, ch. 120, §§ 8–10, 48 Stat. 586, 587; Aug. 20, 1937, ch. 719, §§ 8, 9, 50 Stat. 728; Pub. L. 86–507, § 1(4), June 11, 1960, 74 Stat. 200; Pub. L. 87–725, § 8, Oct. 1, 1962, 76 Stat. 675; Pub. L. 92–231, § 1, Feb. 15, 1972, 86 Stat. 38; Pub. L. 97–98, title XI, § 1115(c), Dec. 22, 1981, 95 Stat. 1270; Pub. L. 97–352, § 2, Oct. 18, 1982, 96 Stat. 1667; Pub. L. 102–237, title X, § 1011(4), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§ 7, 8(a), Nov. 15, 1995, 109 Stat. 428, 429.)
+(June 10, 1930, ch. 436, § 6, 46 Stat. 534; Apr. 13, 1934, ch. 120, §§ 8–10, 48 Stat. 586, 587; Aug. 20, 1937, ch. 719, §§ 8, 9, 50 Stat. 728; Pub. L. 86–507, § 1(4), June 11, 1960, 74 Stat. 200; Pub. L. 87–725, § 8, Oct. 1, 1962, 76 Stat. 675; Pub. L. 92–231, § 1, Feb. 15, 1972, 86 Stat. 38; Pub. L. 97–98, title XI, § 1115(c), Dec. 22, 1981, 95 Stat. 1270; Pub. L. 97–352, § 2, Oct. 18, 1982, 96 Stat. 1667; Pub. L. 102–237, title X, § 1011(4), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§ 7, 8(a), Nov. 15, 1995, 109 Stat. 428, 429.)
 
 **Editorial Notes**
 
@@ -581,17 +581,17 @@ Section was formerly classified to section 556 of this title.
 
 **Amendments**
 
-1995—Pub. L. 104–48, § 7(d)(1), substituted “Complaints, written notifications, and investigations” for “Complaint and investigation” in section catchline.
+1995—Pub. L. 104–48, § 7(d)(1), substituted “Complaints, written notifications, and investigations” for “Complaint and investigation” in section catchline.
 
-Subsec. (a). Pub. L. 104–48, § 8(a), inserted subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
+Subsec. (a). Pub. L. 104–48, § 8(a), inserted subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
-Subsec. (b). Pub. L. 104–48, § 7(a), inserted heading and amended text generally. Prior to amendment, text read as follows: “Any officer or agency of any State or Territory having jurisdiction over commission merchants, dealers, or brokers in such State or Territory and any employee of the United States Department of Agriculture or any interested person may file, in accordance with rules and regulations of the Secretary, a complaint of any violation of any provision of this chapter by any commission merchant, dealer, or broker and may request an investigation of such complaint by the Secretary.”
+Subsec. (b). Pub. L. 104–48, § 7(a), inserted heading and amended text generally. Prior to amendment, text read as follows: “Any officer or agency of any State or Territory having jurisdiction over commission merchants, dealers, or brokers in such State or Territory and any employee of the United States Department of Agriculture or any interested person may file, in accordance with rules and regulations of the Secretary, a complaint of any violation of any provision of this chapter by any commission merchant, dealer, or broker and may request an investigation of such complaint by the Secretary.”
 
-Subsec. (c). Pub. L. 104–48, § 7(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “If there appear to be, in the opinion of the Secretary, any reasonable grounds for investigating any complaint made under this section, the Secretary shall investigate such complaint and may, if in his opinion the facts warrant such action, have said complaint served by registered mail or by certified mail or otherwise on the person concerned and afford such person an opportunity for a hearing thereon before a duly authorized examiner of the Secretary in any place in which the said person is engaged in business: *Provided*, That in complaints wherein the amount claimed as damages does not exceed the sum of $15,000, a hearing need not be held and proof in support of the complaint and in support of respondent’s answer may be supplied in the form of depositions or verified statements of fact.”
+Subsec. (c). Pub. L. 104–48, § 7(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “If there appear to be, in the opinion of the Secretary, any reasonable grounds for investigating any complaint made under this section, the Secretary shall investigate such complaint and may, if in his opinion the facts warrant such action, have said complaint served by registered mail or by certified mail or otherwise on the person concerned and afford such person an opportunity for a hearing thereon before a duly authorized examiner of the Secretary in any place in which the said person is engaged in business: *Provided*, That in complaints wherein the amount claimed as damages does not exceed the sum of $15,000, a hearing need not be held and proof in support of the complaint and in support of respondent’s answer may be supplied in the form of depositions or verified statements of fact.”
 
-Subsec. (d). Pub. L. 104–48, § 7(c), (d)(2), inserted heading and substituted “$30,000” for “$15,000” in two places in text.
+Subsec. (d). Pub. L. 104–48, § 7(c), (d)(2), inserted heading and substituted “$30,000” for “$15,000” in two places in text.
 
-Subsec. (e). Pub. L. 104–48, § 7(d)(3), inserted heading.
+Subsec. (e). Pub. L. 104–48, § 7(d)(3), inserted heading.
 
 1991—Subsecs. (c), (d). Pub. L. 102–237 inserted a period at end of subsec. (c) and substituted a period for semicolon at end of subsec. (d).
 
@@ -609,21 +609,21 @@ Subsec. (d). Pub. L. 87–725 substituted “$1,500” for “$500” wherever a
 
 1960—Subsec. (c). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 
-1937—Subsec. (b). Act Aug. 20, 1937, § 8, substituted “section 499b of this title” for “this chapter”.
+1937—Subsec. (b). Act Aug. 20, 1937, § 8, substituted “section 499b of this title” for “this chapter”.
 
-Subsec. (e). Act Aug. 20, 1937, § 9, inserted “and any reparation award that may be issued by the Secretary of Agriculture against the complainant on any counter claim by respondent” and proviso.
+Subsec. (e). Act Aug. 20, 1937, § 9, inserted “and any reparation award that may be issued by the Secretary of Agriculture against the complainant on any counter claim by respondent” and proviso.
 
-1934—Subsec. (c). Act Apr. 13, 1934, § 8, inserted proviso.
+1934—Subsec. (c). Act Apr. 13, 1934, § 8, inserted proviso.
 
-Subsec. (d). Act Apr. 13, 1934, § 9, substituted “complaints” for “a complaint” after “on” and inserted “where damages claimed do not exceed the sum of $500 not requiring hearing as provided herein” after “complaints”.
+Subsec. (d). Act Apr. 13, 1934, § 9, substituted “complaints” for “a complaint” after “on” and inserted “where damages claimed do not exceed the sum of $500 not requiring hearing as provided herein” after “complaints”.
 
-Subsec. (e). Act Apr. 13, 1934, § 10, among other changes, inserted “formal” before “action”.
+Subsec. (e). Act Apr. 13, 1934, § 10, among other changes, inserted “formal” before “action”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–352, § 3, Oct. 18, 1982, 96 Stat. 1667, provided that: “The amendment made by section 2 [amending this section] shall not apply with respect to complaints made under section 6(e) of the Perishable Agricultural Commodities Act, 1930 [7 U.S.C. 499f(e)], before the date of enactment of this Act [Oct. 18, 1982].”
+Pub. L. 97–352, § 3, Oct. 18, 1982, 96 Stat. 1667, provided that: “The amendment made by section 2 [amending this section] shall not apply with respect to complaints made under section 6(e) of the Perishable Agricultural Commodities Act, 1930 [7 U.S.C. 499f(e)], before the date of enactment of this Act [Oct. 18, 1982].”
 
 **Effective Date of 1981 Amendment**
 
@@ -631,9 +631,9 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 **Filing and Handling Fees During Fiscal Years 1995 and 1996**
 
-Pub. L. 103–276, § 1, July 5, 1994, 108 Stat. 1406, during fiscal years 1995 and 1996, directed Secretary of Agriculture to require filing fee of $60 per petition for petitions alleging violation of section 499b of this title and handling fee of $300 for petitions that warrant further action, which handling fee was to be included in determining amount of damages, with both fees to be deposited into the Perishable Agricultural Commodities Act Fund, prior to repeal by Pub. L. 104–48, § 8(c), Nov. 15, 1995, 109 Stat. 429. See subsec. (a)(2) of this section.
+Pub. L. 103–276, § 1, July 5, 1994, 108 Stat. 1406, during fiscal years 1995 and 1996, directed Secretary of Agriculture to require filing fee of $60 per petition for petitions alleging violation of section 499b of this title and handling fee of $300 for petitions that warrant further action, which handling fee was to be included in determining amount of damages, with both fees to be deposited into the Perishable Agricultural Commodities Act Fund, prior to repeal by Pub. L. 104–48, § 8(c), Nov. 15, 1995, 109 Stat. 429. See subsec. (a)(2) of this section.
 
-## § 499g. Reparation order
+## § 499g. Reparation order
 
 **(a) Determination by Secretary of Agriculture of amount of damages; order for payment**
 
@@ -651,7 +651,7 @@ Either party adversely affected by the entry of a reparation order by the Secret
 
 Unless the licensee against whom a reparation order has been issued shows to the satisfaction of the Secretary within five days from the expiration of the period allowed for compliance with such order that he has either taken an appeal as herein authorized or has made payment in full as required by such order his license shall be suspended automatically at the expiration of such five-day period until he shows to the satisfaction of the Secretary that he has paid the amount therein specified with interest thereon to date of payment: *Provided*, That if on appeal the appellee prevails or if the appeal is dismissed the automatic suspension of license shall become effective at the expiration of thirty days from the date of the judgment on the appeal, but if the judgment is stayed by a court of competent jurisdiction the suspension shall become effective ten days after the expiration of such stay, unless prior thereto the judgment of the court has been satisfied.
 
-(June 10, 1930, ch. 436, § 7, 46 Stat. 534; Apr. 13, 1934, ch. 120, §§ 11–13, 48 Stat. 587, 588; June 19, 1936, ch. 602, § 3, 49 Stat. 1534; Aug. 20, 1937, ch. 719, § 10, 50 Stat. 728; June 23, 1938, ch. 599, 52 Stat. 953; May 14, 1940, ch. 196, 54 Stat. 214; Pub. L. 87–725, §§ 9, 10, Oct. 1, 1962, 76 Stat. 675; Pub. L. 92–231, § 2, Feb. 15, 1972, 86 Stat. 38; Pub. L. 102–237, title X, § 1011(5), Dec. 13, 1991, 105 Stat. 1898.)
+(June 10, 1930, ch. 436, § 7, 46 Stat. 534; Apr. 13, 1934, ch. 120, §§ 11–13, 48 Stat. 587, 588; June 19, 1936, ch. 602, § 3, 49 Stat. 1534; Aug. 20, 1937, ch. 719, § 10, 50 Stat. 728; June 23, 1938, ch. 599, 52 Stat. 953; May 14, 1940, ch. 196, 54 Stat. 214; Pub. L. 87–725, §§ 9, 10, Oct. 1, 1962, 76 Stat. 675; Pub. L. 92–231, § 2, Feb. 15, 1972, 86 Stat. 38; Pub. L. 102–237, title X, § 1011(5), Dec. 13, 1991, 105 Stat. 1898.)
 
 **Editorial Notes**
 
@@ -665,9 +665,9 @@ Section was formerly classified to section 557 of this title.
 
 1972—Subsec. (a). Pub. L. 92–231 directed the Secretary to order commission merchants, dealers, or brokers who are the losing party to pay the prevailing party, as reparation or additional reparation, reasonable fees and expenses incurred in connection with hearings.
 
-1962—Subsec. (c). Pub. L. 87–725, § 9, limited time for filing the bond to within 30 days from and after the date of the reparation order, and required such bond to be in cash, negotiable securities having a market value of at least equivalent to the amount of bond prescribed or the undertaking of a surety company on the approved list of sureties issued by the Treasury Department.
+1962—Subsec. (c). Pub. L. 87–725, § 9, limited time for filing the bond to within 30 days from and after the date of the reparation order, and required such bond to be in cash, negotiable securities having a market value of at least equivalent to the amount of bond prescribed or the undertaking of a surety company on the approved list of sureties issued by the Treasury Department.
 
-Subsec. (d). Pub. L. 87–725, § 10, lengthened period upon the expiration of which the license is suspended from ten to thirty days, and provided that if the judgment is stayed by a court of competent jurisdiction the suspension becomes effective ten days after the expiration of such stay.
+Subsec. (d). Pub. L. 87–725, § 10, lengthened period upon the expiration of which the license is suspended from ten to thirty days, and provided that if the judgment is stayed by a court of competent jurisdiction the suspension becomes effective ten days after the expiration of such stay.
 
 1940—Subsec. (c). Act May 14, 1940, inserted proviso in first sentence.
 
@@ -683,11 +683,11 @@ Subsec. (d). Act Aug. 20, 1937, inserted proviso.
 
 1936—Subsec. (c). Act June 19, 1936, inserted proviso in first sentence and “by registered mail” after “adverse party”.
 
-1934—Subsec. (b). Act Apr. 13, 1934, § 11, inserted after first sentence “The orders, writs and processes of the district courts may in these cases run, be served, and be returnable anywhere in the United States.”
+1934—Subsec. (b). Act Apr. 13, 1934, § 11, inserted after first sentence “The orders, writs and processes of the district courts may in these cases run, be served, and be returnable anywhere in the United States.”
 
-Subsecs. (c), (d). Act Apr. 13, 1934, §§ 12, 13, added subsecs. (c) and (d).
+Subsecs. (c), (d). Act Apr. 13, 1934, §§ 12, 13, added subsecs. (c) and (d).
 
-## § 499h. Grounds for suspension or revocation of license
+## § 499h. Grounds for suspension or revocation of license
 
 **(a) Authority of Secretary**
 
@@ -715,7 +715,7 @@ In addition to being subject to the penalties provided by section 499c(a) of thi
 
 In lieu of suspending or revoking a license under this section when the Secretary determines, as provided by section 499f of this title, that a commission merchant, dealer, or broker has violated section 499b of this title or subsection (b) of this section, the Secretary may assess a civil penalty not to exceed $2,000 for each violative transaction or each day the violation continues. In assessing the amount of a penalty under this subsection, the Secretary shall give due consideration to the size of the business, the number of employees, and the seriousness, nature, and amount of the violation. Amounts collected under this subsection shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-(June 10, 1930, ch. 436, § 8, 46 Stat. 535; Apr. 13, 1934, ch. 120, § 14, 48 Stat. 588; Aug. 20, 1937, ch. 719, § 11, 50 Stat. 730; July 30, 1956, ch. 786, § 5, 70 Stat. 727; Pub. L. 87–725, § 11, Oct. 1, 1962, 76 Stat. 675; Pub. L. 102–237, title X, § 1011(6), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§ 11, 12(b), Nov. 15, 1995, 109 Stat. 430, 431.)
+(June 10, 1930, ch. 436, § 8, 46 Stat. 535; Apr. 13, 1934, ch. 120, § 14, 48 Stat. 588; Aug. 20, 1937, ch. 719, § 11, 50 Stat. 730; July 30, 1956, ch. 786, § 5, 70 Stat. 727; Pub. L. 87–725, § 11, Oct. 1, 1962, 76 Stat. 675; Pub. L. 102–237, title X, § 1011(6), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§ 11, 12(b), Nov. 15, 1995, 109 Stat. 430, 431.)
 
 **Editorial Notes**
 
@@ -725,9 +725,9 @@ Section was formerly classified to section 558 of this title.
 
 **Amendments**
 
-1995—Subsec. (b). Pub. L. 104–48, § 12(b), inserted at end “The Secretary may extend the period of employment sanction as to a responsibly connected person for an additional one-year period upon the determination that the person has been unlawfully employed as provided in this subsection.”
+1995—Subsec. (b). Pub. L. 104–48, § 12(b), inserted at end “The Secretary may extend the period of employment sanction as to a responsibly connected person for an additional one-year period upon the determination that the person has been unlawfully employed as provided in this subsection.”
 
-Subsec. (e). Pub. L. 104–48, § 11, added subsec. (e).
+Subsec. (e). Pub. L. 104–48, § 11, added subsec. (e).
 
 1991—Subsec. (a). Pub. L. 102–237 redesignated cls. (a) and (b) as (1) and (2), respectively, and substituted a period for semicolon at end.
 
@@ -743,11 +743,11 @@ Subsecs. (c), (d). Act Aug. 20, 1937, added subsecs. (c) and (d).
 
 1934—Subsec. (b). Act Apr. 13, 1934, added subsec. (b).
 
-## § 499i. Accounts, records, and memoranda; duty of licensees to keep; contents; suspension of license for violation of duty
+## § 499i. Accounts, records, and memoranda; duty of licensees to keep; contents; suspension of license for violation of duty
 
 Every commission merchant, dealer, and broker shall keep such accounts, records, and memoranda as fully and correctly disclose all transactions involved in his business, including the true ownership of such business by stockholding or otherwise. If such accounts, records, and memoranda are not so kept, the Secretary may publish the facts and circumstances and/or, by order, suspend the license of the offender for a period not to exceed ninety days.
 
-(June 10, 1930, ch. 436, § 9, 46 Stat. 535.)
+(June 10, 1930, ch. 436, § 9, 46 Stat. 535.)
 
 **Editorial Notes**
 
@@ -755,11 +755,11 @@ Every commission merchant, dealer, and broker shall keep such accounts, records,
 
 Section was formerly classified to section 559 of this title.
 
-## § 499j. Orders; effective date; continuance in force; suspension, modification and setting aside; penalty
+## § 499j. Orders; effective date; continuance in force; suspension, modification and setting aside; penalty
 
 Any order of the Secretary under this chapter other than an order for the payment of money shall take effect within such reasonable time, not less than ten days, as is prescribed in the order, and shall continue in force until his further order, or for a specified period of time, accordingly as it is prescribed in the order, unless such order is suspended, modified, or set aside by the Secretary or is suspended, modified, or set aside by a court of competent jurisdiction. Any such order of the Secretary, if regularly made, shall be final, unless before the date prescribed for its taking effect application is made to a court of competent jurisdiction by the commission merchant, dealer, or broker against whom such order is directed to have such order set aside or its enforcement, operation, or execution suspended or restrained.
 
-(June 10, 1930, ch. 436, § 10, 46 Stat. 535.)
+(June 10, 1930, ch. 436, § 10, 46 Stat. 535.)
 
 **Editorial Notes**
 
@@ -767,11 +767,11 @@ Any order of the Secretary under this chapter other than an order for the paymen
 
 Section was formerly classified to section 560 of this title.
 
-## § 499k. Injunctions; application of injunction laws governing orders of Interstate Commerce Commission
+## § 499k. Injunctions; application of injunction laws governing orders of Interstate Commerce Commission
 
 For the purposes of this chapter the provisions of all laws relating to the suspending or restraining of the enforcement, operation, or execution, or the setting-aside, in whole or in part, of the orders of the Interstate Commerce Commission are made applicable to orders of the Secretary under this chapter and to any person subject to the provisions of this chapter.
 
-(June 10, 1930, ch. 436, § 11, 46 Stat. 535.)
+(June 10, 1930, ch. 436, § 11, 46 Stat. 535.)
 
 **Editorial Notes**
 
@@ -785,11 +785,11 @@ Section was formerly classified to section 561 of this title.
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 
-## § 499l. Violations; report to Attorney General; proceedings; costs
+## § 499l. Violations; report to Attorney General; proceedings; costs
 
 The Secretary may report any violation of this chapter for which a civil penalty is provided to the Attorney General of the United States, who shall cause appropriate proceedings to be commenced and prosecuted in the proper courts of the United States without delay. The costs and expenses of such proceedings shall be paid out of the appropriation for the expenses of the courts of the United States.
 
-(June 10, 1930, ch. 436, § 12, 46 Stat. 536.)
+(June 10, 1930, ch. 436, § 12, 46 Stat. 536.)
 
 **Editorial Notes**
 
@@ -797,7 +797,7 @@ The Secretary may report any violation of this chapter for which a civil penalty
 
 Section was formerly classified to section 562 of this title.
 
-## § 499m. Complaints; procedure, penalties, etc.
+## § 499m. Complaints; procedure, penalties, etc.
 
 **(a) Investigation by Secretary of Agriculture; inspection of accounts, records, and memoranda; penalty for refusing inspection**
 
@@ -823,7 +823,7 @@ The Secretary may order testimony to be taken by deposition in any proceeding or
 
 Witnesses summoned before the Secretary or any officer or employee designated by him shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like service in the courts of the United States.
 
-(June 10, 1930, ch. 436, § 13, 46 Stat. 536; July 30, 1956, ch. 786, § 6, 70 Stat. 727; Pub. L. 91–452, title II, § 205, Oct. 15, 1970, 84 Stat. 928; Pub. L. 95–562, § 3, Nov. 1, 1978, 92 Stat. 2381.)
+(June 10, 1930, ch. 436, § 13, 46 Stat. 536; July 30, 1956, ch. 786, § 6, 70 Stat. 727; Pub. L. 91–452, title II, § 205, Oct. 15, 1970, 84 Stat. 928; Pub. L. 95–562, § 3, Nov. 1, 1978, 92 Stat. 2381.)
 
 **Editorial Notes**
 
@@ -845,7 +845,7 @@ Section was formerly classified to section 563 of this title.
 
 Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
-## § 499n. Inspection of perishable agricultural commodities
+## § 499n. Inspection of perishable agricultural commodities
 
 **(a) Employment of inspectors; fees and expenses; inspection certificate as evidence**
 
@@ -855,13 +855,13 @@ The Secretary is authorized, independently and in cooperation with other branche
 
 Whoever shall falsely make, issue, alter, forge, or counterfeit, or cause or procure to be falsely made, issued, altered, forged, or counterfeited, or willingly aid, cause, procure or assist in, or be a party to the false making, issuing, altering, forging, or counterfeiting of any certificate of inspection issued under authority of this chapter, sections 491, 493 to 497 of this title, or any Act making appropriations for the Department of Agriculture; or shall utter or publish as true or cause to be uttered or published as true any such false, forged, altered, or counterfeited certificate, for a fraudulent purpose, shall be guilty of a misdemeanor and upon conviction shall be punished by a fine of not more than $500 or by imprisonment for a period of not more than one year, or both, at the discretion of the court.
 
-(June 10, 1930, ch. 436, § 14, 46 Stat. 537; Apr. 13, 1934, ch. 120, § 15, 48 Stat. 588; Aug. 20, 1937, ch. 719, § 12, 50 Stat. 730; Pub. L. 102–237, title X, § 1011(7), Dec. 13, 1991, 105 Stat. 1898.)
+(June 10, 1930, ch. 436, § 14, 46 Stat. 537; Apr. 13, 1934, ch. 120, § 15, 48 Stat. 588; Aug. 20, 1937, ch. 719, § 12, 50 Stat. 730; Pub. L. 102–237, title X, § 1011(7), Dec. 13, 1991, 105 Stat. 1898.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Commodities Exchange Act, referred to in subsec. (a), probably means act Sept. 21, 1922, ch. 369, 42 Stat. 998, known as the Commodity Exchange Act, which is classified generally to chapter 1 (§ 1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables.
+The Commodities Exchange Act, referred to in subsec. (a), probably means act Sept. 21, 1922, ch. 369, 42 Stat. 998, known as the Commodity Exchange Act, which is classified generally to chapter 1 (§ 1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables.
 
 **Codification**
 
@@ -879,13 +879,13 @@ Section was formerly classified to section 564 of this title.
 
 **Potato Inspection**
 
-Pub. L. 99–198, title XVII, § 1704, Dec. 23, 1985, 99 Stat. 1635, as amended by Pub. L. 104–66, title I, § 1011(g), Dec. 21, 1995, 109 Stat. 710, provided that: “The Secretary of Agriculture shall perform random spot checks of potatoes entering through ports of entry in the northeastern United States.”
+Pub. L. 99–198, title XVII, § 1704, Dec. 23, 1985, 99 Stat. 1635, as amended by Pub. L. 104–66, title I, § 1011(g), Dec. 21, 1995, 109 Stat. 710, provided that: “The Secretary of Agriculture shall perform random spot checks of potatoes entering through ports of entry in the northeastern United States.”
 
-## § 499o. Rules, regulations, and orders; appointment, removal, and compensation of officers and employees; expenditures; authorization of appropriations; abrogation of inconsistent statutes
+## § 499o. Rules, regulations, and orders; appointment, removal, and compensation of officers and employees; expenditures; authorization of appropriations; abrogation of inconsistent statutes
 
 The Secretary may make such rules, regulations, and orders as may be necessary to carry out the provisions of this chapter, and may cooperate with any department or agency of the Government, any State, Territory, District, or possession, or department, agency, or political subdivision thereof, or any person; and shall have the power to appoint, remove, and fix the compensation of such officers and employees not in conflict with existing law, and make such expenditures for rent outside the District of Columbia, printing, binding, telegrams, telephones, lawbooks, books of reference, publications, furniture, stationery, office equipment, travel, and other supplies and expenses, including reporting services, as shall be necessary to the administration of this chapter in the District of Columbia and elsewhere, from the Perishable Agricultural Commodities Act fund provided for by section 499c(b) of this title and any supplements to such fund, and as may be appropriated for by Congress; and there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for such purposes. This chapter shall not abrogate nor nullify any other statute, whether State or Federal, dealing with the same subjects of this chapter; but it is intended that all such statutes shall remain in full force and effect except insofar only as they are inconsistent herewith or repugnant hereto.
 
-(June 10, 1930, ch. 436, § 15, 46 Stat. 537; June 15, 1950, ch. 254, § 3, 64 Stat. 218.)
+(June 10, 1930, ch. 436, § 15, 46 Stat. 537; June 15, 1950, ch. 254, § 3, 64 Stat. 218.)
 
 **Editorial Notes**
 
@@ -897,11 +897,11 @@ Section was formerly classified to section 565 of this title.
 
 1950—Act June 15, 1950, provided for payment of administrative costs out of fund and any supplements thereto as well as by Congressional appropriations.
 
-## § 499p. Liability of licensees for acts and omissions of agents
+## § 499p. Liability of licensees for acts and omissions of agents
 
 In construing and enforcing the provisions of this chapter, the act, omission, or failure of any agent, officer, or other person acting for or employed by any commission merchant, dealer, or broker, within the scope of his employment or office, shall in every case be deemed the act, omission, or failure of such commission merchant, dealer, or broker as that of such agent, officer, or other person.
 
-(June 10, 1930, ch. 436, § 16, 46 Stat. 538.)
+(June 10, 1930, ch. 436, § 16, 46 Stat. 538.)
 
 **Editorial Notes**
 
@@ -909,11 +909,11 @@ In construing and enforcing the provisions of this chapter, the act, omission, o
 
 Section was formerly classified to section 566 of this title.
 
-## § 499q. Separability
+## § 499q. Separability
 
 If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-(June 10, 1930, ch. 436, § 17, 46 Stat. 538.)
+(June 10, 1930, ch. 436, § 17, 46 Stat. 538.)
 
 **Editorial Notes**
 
@@ -921,26 +921,26 @@ If any provision of this chapter or the application thereof to any person or cir
 
 Section was formerly classified to section 567 of this title.
 
-## § 499r. Repealed. Pub. L. 102–237, title X, § 1011(8), Dec. 13, 1991, 105 Stat. 1898
+## § 499r. Repealed. Pub. L. 102–237, title X, § 1011(8), Dec. 13, 1991, 105 Stat. 1898
 
-Section, act June 10, 1930, ch. 436, § 18, 46 Stat. 538, provided for short title of chapter. See section 499a(a) of this title.
+Section, act June 10, 1930, ch. 436, § 18, 46 Stat. 538, provided for short title of chapter. See section 499a(a) of this title.
 
-## § 499s. Depositing appropriations in fund
+## § 499s. Depositing appropriations in fund
 
 Any unexpended balances of appropriations for the current fiscal year, and any subsequent appropriations, made to carry out the Acts referred to in section 499c(b) of this title, may be deposited in the Perishable Agricultural Commodities Act fund.
 
-(June 10, 1930, ch. 436, § 19, as added June 15, 1950, ch. 254, § 4, 64 Stat. 218.)
+(June 10, 1930, ch. 436, § 19, as added June 15, 1950, ch. 254, § 4, 64 Stat. 218.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Acts referred to in section 499c(b) of this title, referred to in text, mean the Perishable Agricultural Commodities Act, 1930, which was translated to read “this chapter” and the Act to prevent the destruction or dumping of farm produce, act Mar. 3, 1927, ch. 309, 44 Stat. 1355, which is classified to chapter 20 (§ 491 et seq.) of this title.
+The Acts referred to in section 499c(b) of this title, referred to in text, mean the Perishable Agricultural Commodities Act, 1930, which was translated to read “this chapter” and the Act to prevent the destruction or dumping of farm produce, act Mar. 3, 1927, ch. 309, 44 Stat. 1355, which is classified to chapter 20 (§ 491 et seq.) of this title.
 
-## § 499t. Omitted
+## § 499t. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 10, 1930, ch. 436, § 20, as added Aug. 22, 1988, Pub. L. 100–414, § 2, 102 Stat. 1102, established Perishable Agricultural Commodities Act Industry Advisory Committee, provided for its membership, compensation, etc., directed advisory committee to review Perishable Agricultural Commodities Act program and to make findings and recommendations to Congress and Secretary of Agriculture with respect to future operations of program, with an interim report not later than Sept. 30, 1989, and a final report not later than May 1, 1990, containing results of its review and recommendations, and provided that advisory committee cease to exist on date of its final report.
+Section, act June 10, 1930, ch. 436, § 20, as added Aug. 22, 1988, Pub. L. 100–414, § 2, 102 Stat. 1102, established Perishable Agricultural Commodities Act Industry Advisory Committee, provided for its membership, compensation, etc., directed advisory committee to review Perishable Agricultural Commodities Act program and to make findings and recommendations to Congress and Secretary of Agriculture with respect to future operations of program, with an interim report not later than Sept. 30, 1989, and a final report not later than May 1, 1990, containing results of its review and recommendations, and provided that advisory committee cease to exist on date of its final report.

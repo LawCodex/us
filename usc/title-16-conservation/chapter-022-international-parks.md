@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 22—INTERNATIONAL PARKS
 
-## § 1101. Definitions
+## § 1101. Definitions
 
 For the purposes of this chapter:
 
@@ -23,15 +23,15 @@ For the purposes of this chapter:
 
 **(b)** The term “United States members” means members of the Commission appointed by the President. The term “Canadian members” means members of the Commission appointed by the appropriate authorities in Canada.
 
-(Pub. L. 88–363, § 2, July 7, 1964, 78 Stat. 299.)
+(Pub. L. 88–363, § 2, July 7, 1964, 78 Stat. 299.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 88–363, § 1, July 7, 1964, 78 Stat. 299, provided: “That this Act [enacting this chapter] may be cited as the ‘Roosevelt Campobello International Park Act’.”
+Pub. L. 88–363, § 1, July 7, 1964, 78 Stat. 299, provided: “That this Act [enacting this chapter] may be cited as the ‘Roosevelt Campobello International Park Act’.”
 
-## § 1102. Joint United States-Canadian Commission; establishment; functions
+## § 1102. Joint United States-Canadian Commission; establishment; functions
 
 There shall be established, in accordance with the agreement between the Governments of the United States and Canada, signed January 22, 1964, a joint United States-Canadian Commission, to be called the “Roosevelt Campobello International Park Commission,” which shall have as its functions—
 
@@ -41,9 +41,9 @@ There shall be established, in accordance with the agreement between the Governm
 
 **(c)** to administer as a memorial the Roosevelt Campobello International Park comprising the Roosevelt estate and such other lands as may be acquired.
 
-(Pub. L. 88–363, § 3, July 7, 1964, 78 Stat. 299.)
+(Pub. L. 88–363, § 3, July 7, 1964, 78 Stat. 299.)
 
-## § 1103. Powers of Commission
+## § 1103. Powers of Commission
 
 The Commission shall have juridical personality and all powers and capacity necessary or appropriate for the purpose of performing its functions pursuant to the agreement between the Governments of the United States and Canada signed January 22, 1964, which shall include but not be limited to the power and capacity—
 
@@ -67,9 +67,9 @@ The Commission shall have juridical personality and all powers and capacity nece
 
 **(j)** to obtain without reimbursement for use either in the United States or in Canada, legal, engineering, architectural, accounting, financial, maintenance, and other services, whether by assignment, detail, or otherwise, from competent agencies in the United States or in Canada, by arrangements with such agencies.
 
-(Pub. L. 88–363, § 4, July 7, 1964, 78 Stat. 299.)
+(Pub. L. 88–363, § 4, July 7, 1964, 78 Stat. 299.)
 
-## § 1104. Membership of Commission
+## § 1104. Membership of Commission
 
 **(a) Selection**
 
@@ -83,45 +83,45 @@ The Commission shall elect a Chairman and a Vice Chairman from among its members
 
 Four members of the Commission shall constitute a quorum for the transaction of business, but the affirmative votes of at least two United States members, or their alternates, and at least two Canadian members, or their alternates, shall be required for any decision to be made by the Commission.
 
-(Pub. L. 88–363, § 5, July 7, 1964, 78 Stat. 300.)
+(Pub. L. 88–363, § 5, July 7, 1964, 78 Stat. 300.)
 
-## § 1105. Compensation
+## § 1105. Compensation
 
 No compensation will be attached to the position of United States members of the Commission. United States members or their alternates shall be reimbursed by the Commission for travel expenses in accordance with section 5703 of title 5 and the Standardized Government Travel Regulations.
 
-(Pub. L. 88–363, § 6, July 7, 1964, 78 Stat. 300.)
+(Pub. L. 88–363, § 6, July 7, 1964, 78 Stat. 300.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 5703 of title 5” substituted in text for “section 5 of the Administrative Expenses Act of 1946, as amended [5 U.S.C. 73b–2],” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Section 5703 of title 5” substituted in text for “section 5 of the Administrative Expenses Act of 1946, as amended [5 U.S.C. 73b–2],” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-## § 1106. Employees
+## § 1106. Employees
 
 The Commission may employ both United States and Canadian citizens.
 
-(Pub. L. 88–363, § 7, July 7, 1964, 78 Stat. 300.)
+(Pub. L. 88–363, § 7, July 7, 1964, 78 Stat. 300.)
 
-## § 1107. Meetings and reports; inspection of records
+## § 1107. Meetings and reports; inspection of records
 
 The Commission shall hold at least one meeting every calendar year and shall submit an annual report to the United States and Canadian Governments on or before March 31 of each year, including a general statement of the operation for the previous year and the results of an independent audit of the financial operations of the Commission. The Commission shall permit inspection of its records by the accounting agencies of both the United States and Canadian Governments.
 
-(Pub. L. 88–363, § 8, July 7, 1964, 78 Stat. 301.)
+(Pub. L. 88–363, § 8, July 7, 1964, 78 Stat. 301.)
 
-## § 1108. Insurance
+## § 1108. Insurance
 
 The Commission shall maintain insurance in reasonable amounts, including, but not limited to, liability and property insurance. Such insurance may not cover the Commissioners or employees of the Commission except when sued by name for acts done in the scope of their employment.
 
-(Pub. L. 88–363, § 9, July 7, 1964, 78 Stat. 301.)
+(Pub. L. 88–363, § 9, July 7, 1964, 78 Stat. 301.)
 
-## § 1109. Court action; service of process
+## § 1109. Court action; service of process
 
 In an action against the Commission instituted in a district court of the United States, service of the summons and of the complaint upon the Commission shall be made by delivering a copy thereof to the United States attorney for the district in which the action is brought, or to an assistant United States attorney, or to a clerical employee designated by the United States attorney to accept service in a writing filed with the clerk of the court, and by sending a copy of the summons and of the complaint to the Commission by registered or certified mail.
 
-(Pub. L. 88–363, § 10, July 7, 1964, 78 Stat. 301.)
+(Pub. L. 88–363, § 10, July 7, 1964, 78 Stat. 301.)
 
-## § 1110. Liability
+## § 1110. Liability
 
 **(a) United States**
 
@@ -135,22 +135,22 @@ Any liability of the Commission shall be met from funds of the Commission to the
 
 No liability of the Commission shall be imputed to any member of the Commission solely on the basis that he occupies the position of member of the Commission.
 
-(Pub. L. 88–363, § 11, July 7, 1964, 78 Stat. 301.)
+(Pub. L. 88–363, § 11, July 7, 1964, 78 Stat. 301.)
 
-## § 1111. Exemption from taxation
+## § 1111. Exemption from taxation
 
 The Commission shall not be subject to Federal, State, or municipal taxation in the United States on any real or personal property held by it or on any gift, bequest, or devise to it of any personal or real property, or on its income, whether from governmental appropriations, admission fees, concessions, or donations.
 
-(Pub. L. 88–363, § 12, July 7, 1964, 78 Stat. 301.)
+(Pub. L. 88–363, § 12, July 7, 1964, 78 Stat. 301.)
 
-## § 1112. Tax treatment of any gift, devise or bequest to the Commission
+## § 1112. Tax treatment of any gift, devise or bequest to the Commission
 
 For the purpose of Federal income, estate, and gift taxes, any gift, devise, or bequest to or for the use of the Commission, and accepted by the Commission under authority of this chapter, shall be deemed to be a gift, devise, or bequest to or for the use of the United States, as the case may be, if it is not deducted as a gift, devise, or bequest to or for the use of the Government of Canada under the income, estate, or gift tax laws of the Government of Canada.
 
-(Pub. L. 88–363, § 13, July 7, 1964, 78 Stat. 301.)
+(Pub. L. 88–363, § 13, July 7, 1964, 78 Stat. 301.)
 
-## § 1113. Authorization of appropriations
+## § 1113. Authorization of appropriations
 
 There are hereby authorized to be appropriated to the Department of the Interior without fiscal year limitation such sums as may be necessary for the purposes of this chapter and the agreement with the Government of Canada signed January 22, 1964, article 11 of which provides that the Governments of the United States and Canada shall share equally the costs of developing and the annual cost of operating and maintaining the Roosevelt Campobello International Park.
 
-(Pub. L. 88–363, § 14, July 7, 1964, 78 Stat. 301.)
+(Pub. L. 88–363, § 14, July 7, 1964, 78 Stat. 301.)

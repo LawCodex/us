@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 50—INSTITUTE FOR SCIENTIFIC AND TECHNOLOGICAL COOPERATION
 
-## § 3501. Congressional statement of policy
+## § 3501. Congressional statement of policy
 
-As declared by Congress in the Foreign Assistant 1
+As declared by Congress in the Foreign Assistant 1
 
-<sup>1</sup>  So in original. Probably should be “Assistance”.
+<sup>1</sup> So in original. Probably should be “Assistance”.
 
 Act of 1961 [22 U.S.C. 2151 et seq.], a principal objective of the foreign policy of the United States is the encouragement and sustained support of the people of developing countries in their efforts to acquire the knowledge and resources essential to development and to build the economic, political, and social institutions which will improve the quality of their lives. The Congress reaffirms the profound humanitarian and foreign policy concerns of the United States in the economic and social progress of the developing countries and in the alleviation of the worst physical manifestations of poverty in these countries.
 
@@ -27,13 +27,13 @@ In furtherance of that objective, the Congress recognizes that developing countr
 
 It is therefore in the mutual interest of the United States and the developing countries to increase scientific and technological cooperation and jointly to support long-term research on critical problems that impede development and limit the efficient use of the world’s human, natural, and capital resources.
 
-(Pub. L. 96–53, title IV, § 401, Aug. 14, 1979, 93 Stat. 371.)
+(Pub. L. 96–53, title IV, § 401, Aug. 14, 1979, 93 Stat. 371.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -41,13 +41,13 @@ The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Se
 
 Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of this title.
 
-## § 3502. Purposes and establishment; policy guidelines and objectives
+## § 3502. Purposes and establishment; policy guidelines and objectives
 
 **(a)** To strengthen the capacity of the people of developing countries to solve their development problems through scientific and technological innovation, to foster research on problems of development, and to facilitate scientific and technological cooperation with developing countries, the President is authorized to establish an Institute for Scientific and Technological Cooperation (hereafter in this chapter referred to as the “Institute”), which shall be subject to the foreign policy guidance of the Secretary of State.
 
 **(b)** The Institute shall be guided by the policies set forth in sections 2151 and 2151–1 of this title and shall direct a substantial share of its resources to those objectives.
 
-(Pub. L. 96–53, title IV, § 402, Aug. 14, 1979, 93 Stat. 372.)
+(Pub. L. 96–53, title IV, § 402, Aug. 14, 1979, 93 Stat. 372.)
 
 **Editorial Notes**
 
@@ -61,7 +61,7 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of this title.
 
-## § 3503. Functions
+## § 3503. Functions
 
 **(a) Assistance, support, etc., activities in United States and developing countries** In carrying out its purposes, the Institute shall—
 
@@ -79,9 +79,9 @@ Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out a
 
 **(b) Review of programs, projects, and other activities; objectives of review**
 
-In carrying out the functions specified in subsection (a), the Institute shall take particular care to review all of its programs, projects, and other activities to ensure that technologies which are developed, utilized, or promoted are assessed with regard to minimizing any new problems and that participants in such programs, projects, and activities are fully aware of the need for such review with respect to any technology-related activities for which the 1
+In carrying out the functions specified in subsection (a), the Institute shall take particular care to review all of its programs, projects, and other activities to ensure that technologies which are developed, utilized, or promoted are assessed with regard to minimizing any new problems and that participants in such programs, projects, and activities are fully aware of the need for such review with respect to any technology-related activities for which the 1
 
-<sup>1</sup>  So in original. Probably should be “they”.
+<sup>1</sup> So in original. Probably should be “they”.
 
 are responsible.
 
@@ -97,7 +97,7 @@ The Institute shall carry out its functions in consultation and cooperation with
 
 The President shall prescribe appropriate procedures to assure coordination of the activities of the Institute with other activities of the United States Government in furthering the use of science and technology in the cause of development.
 
-(Pub. L. 96–53, title IV, § 403, Aug. 14, 1979, 93 Stat. 372; Pub. L. 96–465, title II, § 2206(a)(11), Oct. 17, 1980, 94 Stat. 2162.)
+(Pub. L. 96–53, title IV, § 403, Aug. 14, 1979, 93 Stat. 372; Pub. L. 96–465, title II, § 2206(a)(11), Oct. 17, 1980, 94 Stat. 2162.)
 
 **Editorial Notes**
 
@@ -105,9 +105,9 @@ The President shall prescribe appropriate procedures to assure coordination of t
 
 This chapter, referred to in subsec. (c), was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (c), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (c), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec. (c), is Pub. L. 95–426, Oct. 7, 1978, 92 Stat. 963. Title V of the Act is classified generally to sections 2656a to 2656d of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -127,7 +127,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of this title.
 
-## § 3504. General authorities; fiscal requirement for authorities
+## § 3504. General authorities; fiscal requirement for authorities
 
 **(a)** To carry out the purposes and functions of the Institute, the President may—
 
@@ -157,7 +157,7 @@ Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out a
 
 **(b)** Any authority provided by this section involving the expenditure of appropriated funds shall be effective for a fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-(Pub. L. 96–53, title IV, § 404, Aug. 14, 1979, 93 Stat. 373.)
+(Pub. L. 96–53, title IV, § 404, Aug. 14, 1979, 93 Stat. 373.)
 
 **Editorial Notes**
 
@@ -171,7 +171,7 @@ This chapter, referred to in subsec. (a)(4), (10), was in the original “this t
 
 Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of this title.
 
-## § 3505. Director
+## § 3505. Director
 
 **(a) Appointment; compensation**
 
@@ -181,7 +181,7 @@ There shall be a Director of the Institute (hereafter in this chapter referred t
 
 The President may exercise any authorities conferred upon him by this chapter through the Director or any other agency or officer of the United States Government as he shall direct. The Director or head of any such agency or any such officer may delegate to any of his subordinates authority to perform any of such functions.
 
-(Pub. L. 96–53, title IV, § 405, Aug. 14, 1979, 93 Stat. 373.)
+(Pub. L. 96–53, title IV, § 405, Aug. 14, 1979, 93 Stat. 373.)
 
 **Editorial Notes**
 
@@ -195,7 +195,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of this title.
 
-## § 3506. Deputy Director
+## § 3506. Deputy Director
 
 **(a) Appointment; compensation**
 
@@ -209,7 +209,7 @@ The Deputy Director shall perform such duties and exercise such powers as the Di
 
 The President may establish up to two additional positions in the Institute to be compensated at the rate payable for level V of the Executive Schedule under section 5316 of title 5.
 
-(Pub. L. 96–53, title IV, § 406, Aug. 14, 1979, 93 Stat. 374.)
+(Pub. L. 96–53, title IV, § 406, Aug. 14, 1979, 93 Stat. 374.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -217,7 +217,7 @@ The President may establish up to two additional positions in the Institute to b
 
 Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of this title.
 
-## § 3507. Council on International Scientific and Technological Cooperation
+## § 3507. Council on International Scientific and Technological Cooperation
 
 **(a) Establishment**
 
@@ -255,7 +255,7 @@ Members of the Council who are not officials of the United States Government sha
 
 The Council may appoint from among its members an Executive Committee, and such other committees it deems necessary, to assist it in exercising its powers and functions. The Executive Committee shall consist of seven members, one of whom shall be the Chairman of the Council and not more than three of whom shall be employees of the United States Government. The Executive Committee shall exercise such powers and functions as are delegated to it by the Council.
 
-(Pub. L. 96–53, title IV, § 407, Aug. 14, 1979, 93 Stat. 374.)
+(Pub. L. 96–53, title IV, § 407, Aug. 14, 1979, 93 Stat. 374.)
 
 **Editorial Notes**
 
@@ -271,9 +271,9 @@ Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out a
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 3508. Fellowships
+## § 3508. Fellowships
 
 **(a) Authorization; number; duration; renewal; criteria; foreign recipients; designation of recipients as Institute Fellows**
 
@@ -295,7 +295,7 @@ Except as provided otherwise in this section, Institute Fellows shall not be dee
 
 Alien participants in any program of the Institute, including Institute Fellows and their dependents, may be admitted to the United States, if otherwise qualified as non-immigrants under section 1101(a)(15) of title 8, for such time and under such conditions as may be prescribed by regulations promulgated by the Secretary of State and the Attorney General.
 
-(Pub. L. 96–53, title IV, § 408, Aug. 14, 1979, 93 Stat. 375.)
+(Pub. L. 96–53, title IV, § 408, Aug. 14, 1979, 93 Stat. 375.)
 
 **Editorial Notes**
 
@@ -315,9 +315,9 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 3509. Conflict of interest; personnel and activities covered
+## § 3509. Conflict of interest; personnel and activities covered
 
 Members of the Council and Institute Fellows shall avoid any action, in their activities with respect to the Institute, which might result in, or create the appearance of, a conflict of interest, including but not limited to—
 
@@ -331,7 +331,7 @@ Members of the Council and Institute Fellows shall avoid any action, in their ac
 
 **(5)** affecting adversely the confidence of the public in the integrity of the Institute.
 
-(Pub. L. 96–53, title IV, § 409, Aug. 14, 1979, 93 Stat. 376.)
+(Pub. L. 96–53, title IV, § 409, Aug. 14, 1979, 93 Stat. 376.)
 
 **Editorial Notes**
 
@@ -345,11 +345,11 @@ This chapter, referred to in par. (3), was in the original “this title”, mea
 
 Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of this title.
 
-## § 3510. Authorization of appropriations
+## § 3510. Authorization of appropriations
 
 There are authorized to be appropriated to the President to carry out this chapter, in addition to funds otherwise available for such purpose, $12,000,000 for the fiscal year 1981. Funds appropriated under this section are authorized to remain available until expended.
 
-(Pub. L. 96–53, title IV, § 410, Aug. 14, 1979, 93 Stat. 376; amended Pub. L. 96–533, title III, § 312, Dec. 16, 1980, 94 Stat. 3148.)
+(Pub. L. 96–53, title IV, § 410, Aug. 14, 1979, 93 Stat. 376; amended Pub. L. 96–533, title III, § 312, Dec. 16, 1980, 94 Stat. 3148.)
 
 **Editorial Notes**
 
@@ -367,13 +367,13 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of this title.
 
-## § 3511. Repealed. Pub. L. 98–164, title X, § 1011(a)(6), Nov. 22, 1983, 97 Stat. 1061
+## § 3511. Repealed. Pub. L. 98–164, title X, § 1011(a)(6), Nov. 22, 1983, 97 Stat. 1061
 
-Section, Pub. L. 96–53, title IV, § 411, Aug. 14, 1979, 93 Stat. 376, required the President to submit an annual report to Congress relating to the operations of the Institute during the preceding fiscal year, and set forth the contents of such report.
+Section, Pub. L. 96–53, title IV, § 411, Aug. 14, 1979, 93 Stat. 376, required the President to submit an annual report to Congress relating to the operations of the Institute during the preceding fiscal year, and set forth the contents of such report.
 
-## § 3512. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(b)(5), Oct. 21, 1998, 112 Stat. 2681–793
+## § 3512. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(b)(5), Oct. 21, 1998, 112 Stat. 2681–793
 
-Section, Pub. L. 96–53, title IV, § 413, Aug. 14, 1979, 93 Stat. 377, related to establishment of Institute within International Development Cooperation Agency.
+Section, Pub. L. 96–53, title IV, § 413, Aug. 14, 1979, 93 Stat. 377, related to establishment of Institute within International Development Cooperation Agency.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -381,11 +381,11 @@ Section, Pub. L. 96–53, title IV, § 413, Aug. 14, 1979, 93 Stat. 377, relat
 
 Repeal effective Apr. 1, 1999, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
 
-## § 3513. Expiration of statutory authorities
+## § 3513. Expiration of statutory authorities
 
 The authorities contained in this chapter shall expire on September 30, 1984.
 
-(Pub. L. 96–53, title IV, § 414, Aug. 14, 1979, 93 Stat. 377.)
+(Pub. L. 96–53, title IV, § 414, Aug. 14, 1979, 93 Stat. 377.)
 
 **Editorial Notes**
 

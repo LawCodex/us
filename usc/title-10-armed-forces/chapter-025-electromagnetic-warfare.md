@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title XVI, § 1682(a), Dec. 18, 2025, 139 Stat. 1203, added item 500g. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title XVI, § 1682(a), Dec. 18, 2025, 139 Stat. 1203, added item 500g. Amendment was made pursuant to operation of section 102 of this title.
 
-## § 500. Electromagnetic Spectrum Operations Executive Committee
+## § 500. Electromagnetic Spectrum Operations Executive Committee
 
 **(a) In General.—** There is within the Department of Defense an Electromagnetic Spectrum Operations Executive Committee (in this section referred to as the “Executive Committee”).
 
@@ -121,9 +121,9 @@ retrieved: 2026-10-11
 
 **(k) Report to Congress.—** Not later than February 28, 2024, and annually thereafter through 2030, the Executive Committee shall submit to the congressional defense committees a summary of activities of the Executive Committee during the preceding fiscal year.
 
-(Added Pub. L. 118–31, div. A, title XVI, § 1682(a), Dec. 22, 2023, 137 Stat. 611.)
+(Added Pub. L. 118–31, div. A, title XVI, § 1682(a), Dec. 22, 2023, 137 Stat. 611.)
 
-## § 500a. Guidance on electromagnetic spectrum operations mission area and joint electromagnetic spectrum operations
+## § 500a. Guidance on electromagnetic spectrum operations mission area and joint electromagnetic spectrum operations
 
 The Secretary of Defense shall—
 
@@ -131,7 +131,7 @@ The Secretary of Defense shall—
 
 **(2)** ensure that such processes and procedures provide for integrated defense-wide strategy, planning, and budgeting with respect to the conduct of such operations by the Department, including activities conducted to counter and deter such operations by malign actors.
 
-(Added Pub. L. 118–31, div. A, title XVI, § 1682(a), Dec. 22, 2023, 137 Stat. 613, § 501; renumbered § 500a, Pub. L. 118–159, div. A, title XVII, § 1701(a)(10), Dec. 23, 2024, 138 Stat. 2203.)
+(Added Pub. L. 118–31, div. A, title XVI, § 1682(a), Dec. 22, 2023, 137 Stat. 613, § 501; renumbered § 500a, Pub. L. 118–159, div. A, title XVII, § 1701(a)(10), Dec. 23, 2024, 138 Stat. 2203.)
 
 **Editorial Notes**
 
@@ -139,7 +139,7 @@ The Secretary of Defense shall—
 
 2024—Pub. L. 118–159 renumbered section 501 of this title, relating to guidance on electromagnetic spectrum operations mission area and joint electromagnetic spectrum operations, as this section.
 
-## § 500b. Annual report on electromagnetic spectrum operations strategy of the Department of Defense
+## § 500b. Annual report on electromagnetic spectrum operations strategy of the Department of Defense
 
 **(a) In General.—** At the same time as the President submits to Congress the budget of the President under section 1105(a) of title 31 for each of fiscal years 2025 through 2029, the Secretary of Defense, in coordination with the Chief Information Officer of the Department of Defense, the Chairman of the Joint Chiefs of Staff, and the Secretary of each of the military departments, shall submit to the congressional defense committees an annual report on the Electromagnetic Spectrum Superiority Strategy of the Department of Defense.
 
@@ -175,7 +175,7 @@ The Secretary of Defense shall—
 
 **(4)** A classified annex that contains the items described in subparagraphs (A) through (H) of paragraph (3) for each classified program or project on the list required by paragraph (2).
 
-(Added Pub. L. 118–31, div. A, title XVI, § 1682(a), Dec. 22, 2023, 137 Stat. 614, § 502; renumbered § 500b, Pub. L. 118–159, div. A, title XVII, § 1701(a)(10), Dec. 23, 2024, 138 Stat. 2203.)
+(Added Pub. L. 118–31, div. A, title XVI, § 1682(a), Dec. 22, 2023, 137 Stat. 614, § 502; renumbered § 500b, Pub. L. 118–159, div. A, title XVII, § 1701(a)(10), Dec. 23, 2024, 138 Stat. 2203.)
 
 **Editorial Notes**
 
@@ -183,7 +183,7 @@ The Secretary of Defense shall—
 
 2024—Pub. L. 118–159 renumbered section 502 of this title, relating to annual reports on the electromagnetic spectrum operations strategy of the Department of Defense, as this section.
 
-## § 500c. Annual assessment of budget with respect to electromagnetic spectrum operations capabilities
+## § 500c. Annual assessment of budget with respect to electromagnetic spectrum operations capabilities
 
 At the same time as the President submits to Congress the budget of the President under section 1105(a) of title 31 for each of fiscal years 2025 through 2029, the Secretary of Defense shall submit to the congressional defense committees an assessment by the Electromagnetic Spectrum Operations Executive Committee as to whether sufficient funds are requested in such budget for anticipated activities in such fiscal year for each of the following:
 
@@ -197,17 +197,17 @@ At the same time as the President submits to Congress the budget of the Presiden
 
 **(B)** inform improvements to such operations.
 
-(Added Pub. L. 118–31, div. A, title XVI, § 1682(a), Dec. 22, 2023, 137 Stat. 615, § 503; renumbered § 500c and amended Pub. L. 118–159, div. A, title XVI, § 1653, title XVII, § 1701(a)(10), Dec. 23, 2024, 138 Stat. 2201, 2203.)
+(Added Pub. L. 118–31, div. A, title XVI, § 1682(a), Dec. 22, 2023, 137 Stat. 615, § 503; renumbered § 500c and amended Pub. L. 118–159, div. A, title XVI, § 1653, title XVII, § 1701(a)(10), Dec. 23, 2024, 138 Stat. 2201, 2203.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Pub. L. 118–159, § 1701(a)(10), renumbered section 503 of this title, relating to the annual assessment of the budget with respect to electromagnetic spectrum operations capabilities, as this section.
+2024—Pub. L. 118–159, § 1701(a)(10), renumbered section 503 of this title, relating to the annual assessment of the budget with respect to electromagnetic spectrum operations capabilities, as this section.
 
-Par. (3). Pub. L. 118–159, § 1653, added par. (3).
+Par. (3). Pub. L. 118–159, § 1653, added par. (3).
 
-## § 500d. Electromagnetic spectrum superiority implementation plan
+## § 500d. Electromagnetic spectrum superiority implementation plan
 
 **(a) In General.—** The Chief Information Officer of the Department of Defense shall be responsible for oversight of the electromagnetic superiority implementation plan.
 
@@ -227,7 +227,7 @@ Par. (3). Pub. L. 118–159, § 1653, added par. (3).
 
 **(c) Electromagnetic Superiority Implementation Plan Defined.—** In this section, the term “electromagnetic superiority implementation plan” means the Electromagnetic Superiority Implementation Plan signed by the Secretary of Defense on July 15, 2021, and any successor plan.
 
-(Added Pub. L. 118–31, div. A, title XVI, § 1682(a), Dec. 22, 2023, 137 Stat. 615, § 504; renumbered § 500d, Pub. L. 118–159, div. A, title XVII, § 1701(a)(10), Dec. 23, 2024, 138 Stat. 2203.)
+(Added Pub. L. 118–31, div. A, title XVI, § 1682(a), Dec. 22, 2023, 137 Stat. 615, § 504; renumbered § 500d, Pub. L. 118–159, div. A, title XVII, § 1701(a)(10), Dec. 23, 2024, 138 Stat. 2203.)
 
 **Editorial Notes**
 
@@ -235,7 +235,7 @@ Par. (3). Pub. L. 118–159, § 1653, added par. (3).
 
 2024—Pub. L. 118–159 renumbered section 504 of this title, relating to an electromagnetic spectrum superiority implementation plan, as this section.
 
-## § 500e. Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations
+## § 500e. Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations
 
 **(a) In General.—** Not later than 30 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, the Secretary of Defense shall establish an Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations (in this section referred to as the “operational lead”) at the United States Strategic Command. The operational lead shall report to the Commander of the United States Strategic Command.
 
@@ -259,7 +259,7 @@ Par. (3). Pub. L. 118–159, § 1653, added par. (3).
 
 **(6)** Such other matters as the Chairman considers important to ensuring that the combatant commands are capable of conducting such operations.
 
-(Added Pub. L. 118–31, div. A, title XVI, § 1682(a), Dec. 22, 2023, 137 Stat. 616, § 505; renumbered § 500e, Pub. L. 118–159, div. A, title XVII, § 1701(a)(10), Dec. 23, 2024, 138 Stat. 2203; amended Pub. L. 119–60, div. A, title XVI, § 1681, Dec. 18, 2025, 139 Stat. 1203.)
+(Added Pub. L. 118–31, div. A, title XVI, § 1682(a), Dec. 22, 2023, 137 Stat. 616, § 505; renumbered § 500e, Pub. L. 118–159, div. A, title XVII, § 1701(a)(10), Dec. 23, 2024, 138 Stat. 2203; amended Pub. L. 119–60, div. A, title XVI, § 1681, Dec. 18, 2025, 139 Stat. 1203.)
 
 **Editorial Notes**
 
@@ -269,13 +269,13 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Amendments**
 
-2025—Subsec. (b). Pub. L. 119–60, § 1681(1), substituted “responsible for—” for “responsible for” and “; and” for period at end, inserted par. (1) designation before “synchronizing”, and added par. (2).
+2025—Subsec. (b). Pub. L. 119–60, § 1681(1), substituted “responsible for—” for “responsible for” and “; and” for period at end, inserted par. (1) designation before “synchronizing”, and added par. (2).
 
-Subsec. (c)(4) to (6). Pub. L. 119–60, § 1681(2), added pars. (4) and (5) and redesignated former par. (4) as (6).
+Subsec. (c)(4) to (6). Pub. L. 119–60, § 1681(2), added pars. (4) and (5) and redesignated former par. (4) as (6).
 
 2024—Pub. L. 118–159 renumbered section 505 of this title, relating to establishment of an Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations, as this section.
 
-## § 500f. Evaluations of abilities of armed forces and combatant commands to perform electromagnetic spectrum operations missions
+## § 500f. Evaluations of abilities of armed forces and combatant commands to perform electromagnetic spectrum operations missions
 
 **(a) Evaluations of Armed Forces.—**
 
@@ -317,9 +317,9 @@ Subsec. (c)(4) to (6). Pub. L. 119–60, § 1681(2), added pars. (4) and (5) a
 
 **(b) Evaluations of Combatant Commands.—**
 
-**(1)** Not later than October 1, 2024, and annually thereafter through 2029, the Chairman of the Joint Chiefs of Staff, acting through the Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations established under section 500e 1
+**(1)** Not later than October 1, 2024, and annually thereafter through 2029, the Chairman of the Joint Chiefs of Staff, acting through the Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations established under section 500e 1
 
-<sup>1</sup>  So in original. Probably should refer to section 505 of this chapter.
+<sup>1</sup> So in original. Probably should refer to section 505 of this chapter.
 
 (in this section referred to as the “operational lead”), shall carry out an evaluation of the plans and posture of the combatant commands to execute the electromagnetic spectrum operations envisioned in each of the following:
 
@@ -339,7 +339,7 @@ Subsec. (c)(4) to (6). Pub. L. 119–60, § 1681(2), added pars. (4) and (5) a
 
 **(3)** Not later than December 31 of each year in which an evaluation is required under paragraph (A), the Chairman of the Joint Chiefs of Staff, acting through the operational lead, shall brief the congressional defense committees on the results of the evaluation.
 
-(Added Pub. L. 118–31, div. A, title XVI, § 1682(a), Dec. 22, 2023, 137 Stat. 616, § 506; renumbered § 500f, Pub. L. 118–159, div. A, title XVII, § 1701(a)(10), Dec. 23, 2024, 138 Stat. 2203.)
+(Added Pub. L. 118–31, div. A, title XVI, § 1682(a), Dec. 22, 2023, 137 Stat. 616, § 506; renumbered § 500f, Pub. L. 118–159, div. A, title XVII, § 1701(a)(10), Dec. 23, 2024, 138 Stat. 2203.)
 
 **Editorial Notes**
 
@@ -347,7 +347,7 @@ Subsec. (c)(4) to (6). Pub. L. 119–60, § 1681(2), added pars. (4) and (5) a
 
 2024—Pub. L. 118–159 renumbered section 506 of this title, relating to evaluations of the abilities of armed forces and combatant commands to perform electromagnetic spectrum operations missions, as this section.
 
-## § 500g. Integration of electronic warfare into Tier 1 and Tier 2 joint training exercises
+## § 500g. Integration of electronic warfare into Tier 1 and Tier 2 joint training exercises
 
 **(a) Requirement.—** During fiscal years 2026 through 2030, the Chairman of the Joint Chiefs of Staff shall require the integration of offensive and defensive electronic warfare capabilities into Tier 1 and Tier 2 joint training exercises.
 
@@ -389,4 +389,4 @@ Subsec. (c)(4) to (6). Pub. L. 119–60, § 1681(2), added pars. (4) and (5) a
 
 **(3)** The term “joint fires” has the meaning given such term in the publication of the Joint Staff entitled “Insights and Best Practices Focus Paper on Integration and Synchronization of Joint Fires”, dated July 2018.
 
-(Added Pub. L. 119–60, div. A, title XVI, § 1682(a), Dec. 18, 2025, 139 Stat. 1203.)
+(Added Pub. L. 119–60, div. A, title XVI, § 1682(a), Dec. 18, 2025, 139 Stat. 1203.)

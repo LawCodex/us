@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—FINDINGS, PURPOSES, AND DEFINITIONS
 
-### § 3101. Purposes of agricultural research, extension, and education
+### § 3101. Purposes of agricultural research, extension, and education
 
 The purposes of federally supported agricultural research, extension, and education are to—
 
@@ -45,13 +45,13 @@ The purposes of federally supported agricultural research, extension, and educat
 
 **(C)** developing safe, efficient, and nutritious food systems.
 
-(Pub. L. 95–113, title XIV, § 1402, as added Pub. L. 101–624, title XVI, § 1602(a), Nov. 28, 1990, 104 Stat. 3705; amended Pub. L. 104–127, title VIII, § 801, Apr. 4, 1996, 110 Stat. 1156; Pub. L. 115–334, title VII, § 7101, Dec. 20, 2018, 132 Stat. 4779.)
+(Pub. L. 95–113, title XIV, § 1402, as added Pub. L. 101–624, title XVI, § 1602(a), Nov. 28, 1990, 104 Stat. 3705; amended Pub. L. 104–127, title VIII, § 801, Apr. 4, 1996, 110 Stat. 1156; Pub. L. 115–334, title VII, § 7101, Dec. 20, 2018, 132 Stat. 4779.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3101, Pub. L. 95–113, title XIV, § 1402, Sept. 29, 1977, 91 Stat. 981; Pub. L. 97–98, title XIV, § 1402, Dec. 22, 1981, 95 Stat. 1294; Pub. L. 99–198, title XIV, § 1402, Dec. 23, 1985, 99 Stat. 1542, stated Congressional findings, prior to repeal by Pub. L. 101–624, title XVI, § 1601(f)(1)(A), Nov. 28, 1990, 104 Stat. 3704.
+A prior section 3101, Pub. L. 95–113, title XIV, § 1402, Sept. 29, 1977, 91 Stat. 981; Pub. L. 97–98, title XIV, § 1402, Dec. 22, 1981, 95 Stat. 1294; Pub. L. 99–198, title XIV, § 1402, Dec. 23, 1985, 99 Stat. 1542, stated Congressional findings, prior to repeal by Pub. L. 101–624, title XVI, § 1601(f)(1)(A), Nov. 28, 1990, 104 Stat. 3704.
 
 **Amendments**
 
@@ -63,19 +63,19 @@ A prior section 3101, Pub. L. 95–113, title XIV, § 1402, Sept. 29, 1977, 91
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–465, § 1, Dec. 21, 2004, 118 Stat. 3882, provided that: “This Act [enacting sections 3123a, 7712a, and 8321 of this title, amending section 5925 of this title, and enacting provisions set out as notes under sections 1621 and 5925 of this title] may be cited as the ‘Specialty Crops Competitiveness Act of 2004’.”
+Pub. L. 108–465, § 1, Dec. 21, 2004, 118 Stat. 3882, provided that: “This Act [enacting sections 3123a, 7712a, and 8321 of this title, amending section 5925 of this title, and enacting provisions set out as notes under sections 1621 and 5925 of this title] may be cited as the ‘Specialty Crops Competitiveness Act of 2004’.”
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–161, § 1, Dec. 6, 2003, 117 Stat. 2014, provided that: “This Act [enacting section 3151a of this title] may be cited as the ‘National Veterinary Medical Service Act’.”
+Pub. L. 108–161, § 1, Dec. 6, 2003, 117 Stat. 2014, provided that: “This Act [enacting section 3151a of this title] may be cited as the ‘National Veterinary Medical Service Act’.”
 
 **Short Title of 1985 Amendment**
 
-Pub. L. 99–198, title XIV, § 1401, Dec. 23, 1985, 99 Stat. 1542, provided that: “This title [enacting sections 1632, 3224, 3292, 3319a to 3319d, and 4701 to 4710 of this title, amending this section and sections 178c, 342, 343, 390 to 390d, 390f, 390h, 390i, 390j, 2266, 2662, 2663, 3103, 3121 to 3123, 3124a, 3125, 3151, 3152, 3157, 3194 to 3196, 3221 to 3223, 3291, 3311, 3312, 3318, 3319, 3322, 3324, 3335, and 3336 of this title, repealing sections 390e, 390g, 3174, 3177, 3301 to 3304, and 3323 of this title, enacting provisions set out as notes under sections 343, 390, 390c, 3157, 3173, 3292, 3311, 3312, and 4701 of this title, amending provisions set out as a note under section 3222 of this title, and repealing provisions set out as a note under section 2281 of this title] may be cited as the ‘National Agricultural Research, Extension, and Teaching Policy Act Amendments of 1985’.”
+Pub. L. 99–198, title XIV, § 1401, Dec. 23, 1985, 99 Stat. 1542, provided that: “This title [enacting sections 1632, 3224, 3292, 3319a to 3319d, and 4701 to 4710 of this title, amending this section and sections 178c, 342, 343, 390 to 390d, 390f, 390h, 390i, 390j, 2266, 2662, 2663, 3103, 3121 to 3123, 3124a, 3125, 3151, 3152, 3157, 3194 to 3196, 3221 to 3223, 3291, 3311, 3312, 3318, 3319, 3322, 3324, 3335, and 3336 of this title, repealing sections 390e, 390g, 3174, 3177, 3301 to 3304, and 3323 of this title, enacting provisions set out as notes under sections 343, 390, 390c, 3157, 3173, 3292, 3311, 3312, and 4701 of this title, amending provisions set out as a note under section 3222 of this title, and repealing provisions set out as a note under section 2281 of this title] may be cited as the ‘National Agricultural Research, Extension, and Teaching Policy Act Amendments of 1985’.”
 
 **Short Title of 1981 Amendment**
 
-Pub. L. 97–98, title XIV, § 1401, Dec. 22, 1981, 95 Stat. 1294, provided that: “This title [enacting sections 2271, 2661 to 2667, 3124a, 3223, 3317 to 3319, 3321 to 3324, and 3331 to 3336 of this title, amending this section and sections 322, 361c, 390c, 3102, 3103, 3121 to 3124, 3125 to 3128, 3151 to 3154, 3157, 3175, 3177, 3191, 3192, 3194 to 3196, 3221, 3222, 3263, 3282, 3291, 3311, and 3312 of this title, section 5315 of Title 5, Government Organization and Employees, sections 582a, 582a–1, and 582a–3 to 582a–5 of Title 16, Conservation, section 483 of former Title 40, Public Buildings, Property, and Works, and sections 6651 and 8852 of Title 42, The Public Health and Welfare, repealing sections 2670 and 3176 of this title, omitting section 2668 of this title, and enacting provisions set out as notes under sections 2281 and 3176 of this title] may be cited as the ‘National Agricultural Research, Extension, and Teaching Policy Act Amendments of 1981’.”
+Pub. L. 97–98, title XIV, § 1401, Dec. 22, 1981, 95 Stat. 1294, provided that: “This title [enacting sections 2271, 2661 to 2667, 3124a, 3223, 3317 to 3319, 3321 to 3324, and 3331 to 3336 of this title, amending this section and sections 322, 361c, 390c, 3102, 3103, 3121 to 3124, 3125 to 3128, 3151 to 3154, 3157, 3175, 3177, 3191, 3192, 3194 to 3196, 3221, 3222, 3263, 3282, 3291, 3311, and 3312 of this title, section 5315 of Title 5, Government Organization and Employees, sections 582a, 582a–1, and 582a–3 to 582a–5 of Title 16, Conservation, section 483 of former Title 40, Public Buildings, Property, and Works, and sections 6651 and 8852 of Title 42, The Public Health and Welfare, repealing sections 2670 and 3176 of this title, omitting section 2668 of this title, and enacting provisions set out as notes under sections 2281 and 3176 of this title] may be cited as the ‘National Agricultural Research, Extension, and Teaching Policy Act Amendments of 1981’.”
 
 **Short Title of 1935 Amendment**
 
@@ -83,13 +83,13 @@ Act June 29, 1935, ch. 338, 49 Stat. 436 (see Tables for classification), is pop
 
 **Short Title**
 
-Pub. L. 95–113, title XIV, § 1401, Sept. 29, 1977, 91 Stat. 981, provided that: “This title [enacting this chapter and sections 2669 and 2670 of this title, amending sections 341, 342, 343, 361c, 390 to 390j, 1923, 1942, 2662, 2663, 2667, 3104, and 3157 of this title and section 6651 of Title 42, The Public Health and Welfare, and repealing section 390k of this title] may be cited as the ‘National Agricultural Research, Extension, and Teaching Policy Act of 1977’.”
+Pub. L. 95–113, title XIV, § 1401, Sept. 29, 1977, 91 Stat. 981, provided that: “This title [enacting this chapter and sections 2669 and 2670 of this title, amending sections 341, 342, 343, 361c, 390 to 390j, 1923, 1942, 2662, 2663, 2667, 3104, and 3157 of this title and section 6651 of Title 42, The Public Health and Welfare, and repealing section 390k of this title] may be cited as the ‘National Agricultural Research, Extension, and Teaching Policy Act of 1977’.”
 
 **Review of Agricultural Research Service**
 
-Pub. L. 107–171, title VII, § 7404, May 13, 2002, 116 Stat. 457, as amended by Pub. L. 108–11, title II, § 2101(b), Apr. 16, 2003, 117 Stat. 589; Pub. L. 110–234, title VII, § 7511(c)(7), May 22, 2008, 122 Stat. 1267; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(7), June 18, 2008, 122 Stat. 1664, 2029, which provided for the establishment of a task force to review the Agricultural Research Service and to evaluate the merits of establishing one or more National Institutes related to food and agricultural science, was repealed by Pub. L. 115–334, title VII, § 7506, Dec. 20, 2018, 132 Stat. 4823.
+Pub. L. 107–171, title VII, § 7404, May 13, 2002, 116 Stat. 457, as amended by Pub. L. 108–11, title II, § 2101(b), Apr. 16, 2003, 117 Stat. 589; Pub. L. 110–234, title VII, § 7511(c)(7), May 22, 2008, 122 Stat. 1267; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(7), June 18, 2008, 122 Stat. 1664, 2029, which provided for the establishment of a task force to review the Agricultural Research Service and to evaluate the merits of establishing one or more National Institutes related to food and agricultural science, was repealed by Pub. L. 115–334, title VII, § 7506, Dec. 20, 2018, 132 Stat. 4823.
 
-### § 3102. Additional purposes of agricultural research and extension
+### § 3102. Additional purposes of agricultural research and extension
 
 The purposes of this chapter are to—
 
@@ -107,7 +107,7 @@ The purposes of this chapter are to—
 
 **(7)** establish a new program of education grants and fellowships to strengthen research, extension, and teaching programs in the food and agricultural sciences, to be awarded on the basis of competition.
 
-(Pub. L. 95–113, title XIV, § 1403, Sept. 29, 1977, 91 Stat. 983; Pub. L. 97–98, title XIV, § 1403, Dec. 22, 1981, 95 Stat. 1296; Pub. L. 101–624, title XVI, § 1602(b), Nov. 28, 1990, 104 Stat. 3705.)
+(Pub. L. 95–113, title XIV, § 1403, Sept. 29, 1977, 91 Stat. 983; Pub. L. 97–98, title XIV, § 1403, Dec. 22, 1981, 95 Stat. 1296; Pub. L. 101–624, title XVI, § 1602(b), Nov. 28, 1990, 104 Stat. 3705.)
 
 **Editorial Notes**
 
@@ -119,13 +119,13 @@ This chapter, referred to in text, was in the original this “title”, meaning
 
 1990—Pub. L. 101–624 amended section catchline generally.
 
-1981—Par. (2). Pub. L. 97–98, § 1403(1), inserted “extension, and teaching programs,” and substituted “these programs” for “such research, assure that high priority research is given adequate funding”.
+1981—Par. (2). Pub. L. 97–98, § 1403(1), inserted “extension, and teaching programs,” and substituted “these programs” for “such research, assure that high priority research is given adequate funding”.
 
-Par. (4). Pub. L. 97–98, § 1403(2), substituted “programs through” for “programs, including the initiatives specified in section 3101(8) of this title, through”.
+Par. (4). Pub. L. 97–98, § 1403(2), substituted “programs through” for “programs, including the initiatives specified in section 3101(8) of this title, through”.
 
-Par. (5). Pub. L. 97–98, § 1403(3), substituted “among research workers” for “among scientific research workers”.
+Par. (5). Pub. L. 97–98, § 1403(3), substituted “among research workers” for “among scientific research workers”.
 
-Par. (7). Pub. L. 97–98, § 1403(4), substituted “research, extension, and teaching” for “training and research”.
+Par. (7). Pub. L. 97–98, § 1403(4), substituted “research, extension, and teaching” for “training and research”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -137,7 +137,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3103. Definitions
+### § 3103. Definitions
 
 When used in this chapter:
 
@@ -365,7 +365,7 @@ When used in this chapter:
 
 **(20) Teaching and education.—** The terms “teaching” and “education” mean formal classroom instruction, laboratory instruction, and practicum experience in the food and agricultural sciences and matters relating thereto (such as faculty development, student recruitment and services, curriculum development, instructional materials and equipment, and innovative teaching methodologies) conducted by colleges and universities offering baccalaureate or higher degrees.
 
-(Pub. L. 95–113, title XIV, § 1404, Sept. 29, 1977, 91 Stat. 983; Pub. L. 97–98, title XIV, § 1404, Dec. 22, 1981, 95 Stat. 1297; Pub. L. 99–198, title XIV, § 1403, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, § 1603, Nov. 28, 1990, 104 Stat. 3705; Pub. L. 102–237, title IV, § 402(3), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §§ 802(b)(1), 815(b), 820(a), 853(b)(1), Apr. 4, 1996, 110 Stat. 1159, 1167, 1168, 1172; Pub. L. 105–185, title II, §§ 221, 226(c)(1), June 23, 1998, 112 Stat. 537, 543; Pub. L. 107–171, title VII, § 7502(a), May 13, 2002, 116 Stat. 463; Pub. L. 110–234, title VII, § 7101(a), May 22, 2008, 122 Stat. 1212; Pub. L. 110–246, § 4(a), title VII, § 7101(a), June 18, 2008, 122 Stat. 1664, 1973; Pub. L. 113–79, title VII, §§ 7101, 7111(b)(1), Feb. 7, 2014, 128 Stat. 862, 873; Pub. L. 115–334, title VII, § 7102(a), Dec. 20, 2018, 132 Stat. 4779.)
+(Pub. L. 95–113, title XIV, § 1404, Sept. 29, 1977, 91 Stat. 983; Pub. L. 97–98, title XIV, § 1404, Dec. 22, 1981, 95 Stat. 1297; Pub. L. 99–198, title XIV, § 1403, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, § 1603, Nov. 28, 1990, 104 Stat. 3705; Pub. L. 102–237, title IV, § 402(3), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §§ 802(b)(1), 815(b), 820(a), 853(b)(1), Apr. 4, 1996, 110 Stat. 1159, 1167, 1168, 1172; Pub. L. 105–185, title II, §§ 221, 226(c)(1), June 23, 1998, 112 Stat. 537, 543; Pub. L. 107–171, title VII, § 7502(a), May 13, 2002, 116 Stat. 463; Pub. L. 110–234, title VII, § 7101(a), May 22, 2008, 122 Stat. 1212; Pub. L. 110–246, § 4(a), title VII, § 7101(a), June 18, 2008, 122 Stat. 1664, 1973; Pub. L. 113–79, title VII, §§ 7101, 7111(b)(1), Feb. 7, 2014, 128 Stat. 862, 873; Pub. L. 115–334, title VII, § 7102(a), Dec. 20, 2018, 132 Stat. 4779.)
 
 **Editorial Notes**
 
@@ -373,13 +373,13 @@ When used in this chapter:
 
 For definition of “this chapter”, referred to in text, see note set out under section 3102 of this title.
 
-Public Law 87–788 or Act of October 10, 1962, referred to in pars. (5)(A)(i) and (18)(E), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
+Public Law 87–788 or Act of October 10, 1962, referred to in pars. (5)(A)(i) and (18)(E), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 
-The Smith-Lever Act of May 8, 1914, referred to in pars. (6) and (18)(D), is act May 8, 1914, ch. 79, 38 Stat. 372, which is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
+The Smith-Lever Act of May 8, 1914, referred to in pars. (6) and (18)(D), is act May 8, 1914, ch. 79, 38 Stat. 372, which is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
 
-Act of July 2, 1862, 12 Stat. 503, referred to in pars. (13), (14)(C)(ii)(I), and (18)(A), is popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, 12 Stat. 503, referred to in pars. (13), (14)(C)(ii)(I), and (18)(A), is popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, 26 Stat. 417, referred to in pars. (13), (14)(C)(ii)(II), and (18)(B), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, 26 Stat. 417, referred to in pars. (13), (14)(C)(ii)(II), and (18)(B), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 The Equity in Educational Land-Grant Status Act of 1994, referred to in par. (14)(C)(ii)(III), is Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, which is set out as a note under section 301 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -391,103 +391,103 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Par. (14)(A). Pub. L. 115–334, § 7102(a)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “The terms ‘NLGCA Institution’ and ‘non-land-grant college of agriculture’ mean a public college or university offering a baccalaureate or higher degree in the study of food and agricultural sciences.”
+2018—Par. (14)(A). Pub. L. 115–334, § 7102(a)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “The terms ‘NLGCA Institution’ and ‘non-land-grant college of agriculture’ mean a public college or university offering a baccalaureate or higher degree in the study of food and agricultural sciences.”
 
-Par. (14)(C). Pub. L. 115–334, § 7102(a)(2), inserted “any institution designated under” after “include” in introductory provisions, redesignated subcls. (I) to (III) of cl. (ii) as cls. (i) to (iii), respectively, and struck out former cl. (i), which read “Hispanic-serving agricultural colleges and universities; or”, introductory provisions of former cl. (ii) which read “any institution designated under—”, and subcl. (IV) of former cl. (ii) which read “Public Law 87–788 (commonly known as the ‘McIntire-Stennis Cooperative Forestry Act’) (16 U.S.C. 582a et seq.).”
+Par. (14)(C). Pub. L. 115–334, § 7102(a)(2), inserted “any institution designated under” after “include” in introductory provisions, redesignated subcls. (I) to (III) of cl. (ii) as cls. (i) to (iii), respectively, and struck out former cl. (i), which read “Hispanic-serving agricultural colleges and universities; or”, introductory provisions of former cl. (ii) which read “any institution designated under—”, and subcl. (IV) of former cl. (ii) which read “Public Law 87–788 (commonly known as the ‘McIntire-Stennis Cooperative Forestry Act’) (16 U.S.C. 582a et seq.).”
 
-2014—Par. (5). Pub. L. 113–79, § 7101(1), added par. (5) and struck out former par. (5) which read as follows: “The term ‘cooperating forestry schools’ means those institutions eligible to receive funds under the Act of October 10, 1962 (16 U.S.C. 582a et seq.), commonly known as the McIntire-Stennis Act of 1962.”
+2014—Par. (5). Pub. L. 113–79, § 7101(1), added par. (5) and struck out former par. (5) which read as follows: “The term ‘cooperating forestry schools’ means those institutions eligible to receive funds under the Act of October 10, 1962 (16 U.S.C. 582a et seq.), commonly known as the McIntire-Stennis Act of 1962.”
 
-Par. (10)(A). Pub. L. 113–79, § 7101(2)(A), struck out “that” after “colleges or universities” in introductory provisions, inserted “that” before “qualify” in cl. (i) and before “offer” in cl. (ii), and added cl. (iii).
+Par. (10)(A). Pub. L. 113–79, § 7101(2)(A), struck out “that” after “colleges or universities” in introductory provisions, inserted “that” before “qualify” in cl. (i) and before “offer” in cl. (ii), and added cl. (iii).
 
-Par. (10)(C). Pub. L. 113–79, § 7101(2)(B), added subpar. (C).
+Par. (10)(C). Pub. L. 113–79, § 7101(2)(B), added subpar. (C).
 
-Par. (14)(A). Pub. L. 113–79, § 7101(3)(A), substituted “food and agricultural sciences” for “agriculture or forestry”.
+Par. (14)(A). Pub. L. 113–79, § 7101(3)(A), substituted “food and agricultural sciences” for “agriculture or forestry”.
 
-Par. (14)(B), (C). Pub. L. 113–79, § 7101(3)(B), (C), added subpar. (B) and redesignated former subpar. (B) as (C).
+Par. (14)(B), (C). Pub. L. 113–79, § 7101(3)(B), (C), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Par. (18)(F). Pub. L. 113–79, § 7111(b)(1)(A), (D), added subpar. (F). Former subpar. (F) redesignated (G).
+Par. (18)(F). Pub. L. 113–79, § 7111(b)(1)(A), (D), added subpar. (F). Former subpar. (F) redesignated (G).
 
-Pub. L. 113–79, § 7111(b)(1)(B), substituted “subchapters VI,” for “subchapters V, VI,”.
+Pub. L. 113–79, § 7111(b)(1)(B), substituted “subchapters VI,” for “subchapters V, VI,”.
 
-Par. (18)(G). Pub. L. 113–79, § 7111(b)(1)(C), redesignated subpar. (F) as (G).
+Par. (18)(G). Pub. L. 113–79, § 7111(b)(1)(C), redesignated subpar. (F) as (G).
 
-2008—Par. (4). Pub. L. 110–246, § 7101(a)(1), inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, redesignated former subpars. (A) to (E) as cls. (i) to (v), respectively, of subpar. (A), and added subpar. (B).
+2008—Par. (4). Pub. L. 110–246, § 7101(a)(1), inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, redesignated former subpars. (A) to (E) as cls. (i) to (v), respectively, of subpar. (A), and added subpar. (B).
 
-Pars. (5) to (8). Pub. L. 110–246, § 7101(a)(2), designated pars. (16) and (5) to (7) as (5) to (8), respectively. Former par. (8) redesignated (9).
+Pars. (5) to (8). Pub. L. 110–246, § 7101(a)(2), designated pars. (16) and (5) to (7) as (5) to (8), respectively. Former par. (8) redesignated (9).
 
-Par. (9). Pub. L. 110–246, § 7101(a)(2), (3), redesignated par. (8) as (9), substituted “renewable energy and natural resources” for “renewable natural resources” in introductory provisions, added subpar. (F), and struck out former subpar. (F) which read as follows: “Soil and water conservation and improvement.” Former par. (9) redesignated (11).
+Par. (9). Pub. L. 110–246, § 7101(a)(2), (3), redesignated par. (8) as (9), substituted “renewable energy and natural resources” for “renewable natural resources” in introductory provisions, added subpar. (F), and struck out former subpar. (F) which read as follows: “Soil and water conservation and improvement.” Former par. (9) redesignated (11).
 
-Par. (10). Pub. L. 110–246, § 7101(a)(4), added par. (10). Former par. (10) redesignated (12).
+Par. (10). Pub. L. 110–246, § 7101(a)(4), added par. (10). Former par. (10) redesignated (12).
 
-Par. (11). Pub. L. 110–246, § 7101(a)(5), added par. (11) and struck out former par. (11) which read as follows: “The term ‘Hispanic-serving institution’ has the meaning given the term by section 1059c(b)(1) of title 20.”
+Par. (11). Pub. L. 110–246, § 7101(a)(5), added par. (11) and struck out former par. (11) which read as follows: “The term ‘Hispanic-serving institution’ has the meaning given the term by section 1059c(b)(1) of title 20.”
 
-Pub. L. 110–246, § 7101(a)(2), redesignated par. (9) as (11). Former par. (11) redesignated (13).
+Pub. L. 110–246, § 7101(a)(2), redesignated par. (9) as (11). Former par. (11) redesignated (13).
 
-Pars. (12), (13). Pub. L. 110–246, § 7101(a)(2), redesignated pars. (10) and (11) as (12) and (13), respectively. Former pars. (12) and (13) redesignated (15) and (16), respectively.
+Pars. (12), (13). Pub. L. 110–246, § 7101(a)(2), redesignated pars. (10) and (11) as (12) and (13), respectively. Former pars. (12) and (13) redesignated (15) and (16), respectively.
 
-Par. (14). Pub. L. 110–246, § 7101(a)(6), added par. (14). Former par. (14) redesignated (17).
+Par. (14). Pub. L. 110–246, § 7101(a)(6), added par. (14). Former par. (14) redesignated (17).
 
-Pars. (15) to (20). Pub. L. 110–246, § 7101(a)(2), redesignated pars. (12) to (14), (17), (18), and (15) as (15) to (20), respectively. Former par. (16) redesignated (5).
+Pars. (15) to (20). Pub. L. 110–246, § 7101(a)(2), redesignated pars. (12) to (14), (17), (18), and (15) as (15) to (20), respectively. Former par. (16) redesignated (5).
 
-2002—Pars. (10) to (12). Pub. L. 107–171, § 7502(a)(1), (2), redesignated pars. (10) and (11) as (11) and (12), respectively, and added par. (10). Former par. (12) redesignated (13).
+2002—Pars. (10) to (12). Pub. L. 107–171, § 7502(a)(1), (2), redesignated pars. (10) and (11) as (11) and (12), respectively, and added par. (10). Former par. (12) redesignated (13).
 
-Par. (13). Pub. L. 107–171, § 7502(a)(3), added par. (13) and struck out former par. (13) which read as follows: “The term ‘State’ means any one of the fifty States, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Marianas, the Trust Territory of the Pacific Islands, the Virgin Islands of the United States, and the District of Columbia.”
+Par. (13). Pub. L. 107–171, § 7502(a)(3), added par. (13) and struck out former par. (13) which read as follows: “The term ‘State’ means any one of the fifty States, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Marianas, the Trust Territory of the Pacific Islands, the Virgin Islands of the United States, and the District of Columbia.”
 
-Pub. L. 107–171, § 7502(a)(1), redesignated par. (12) as (13). Former par. (13) redesignated (14).
+Pub. L. 107–171, § 7502(a)(1), redesignated par. (12) as (13). Former par. (13) redesignated (14).
 
-Pars. (14) to (18). Pub. L. 107–171, § 7502(a)(1), redesignated pars. (13) to (17) as (14) to (18), respectively.
+Pars. (14) to (18). Pub. L. 107–171, § 7502(a)(1), redesignated pars. (13) to (17) as (14) to (18), respectively.
 
-1998—Pub. L. 105–185, § 221(c)(1), substituted “chapter:” for “chapter—” in introductory provisions.
+1998—Pub. L. 105–185, § 221(c)(1), substituted “chapter:” for “chapter—” in introductory provisions.
 
-Pars. (1) to (3). Pub. L. 105–185, § 221(c)(2), (5), substituted “The term” for “the term” and period for semicolon at end.
+Pars. (1) to (3). Pub. L. 105–185, § 221(c)(2), (5), substituted “The term” for “the term” and period for semicolon at end.
 
-Par. (4). Pub. L. 105–185, § 221(c)(3), (5), substituted “The terms” for “the terms” and period for semicolon at end.
+Par. (4). Pub. L. 105–185, § 221(c)(3), (5), substituted “The terms” for “the terms” and period for semicolon at end.
 
-Pars. (5) to (7). Pub. L. 105–185, § 221(c)(2), (5), substituted “The term” for “the term” and period for semicolon at end.
+Pars. (5) to (7). Pub. L. 105–185, § 221(c)(2), (5), substituted “The term” for “the term” and period for semicolon at end.
 
-Par. (8). Pub. L. 105–185, § 221(a), added par. (8) and struck out former par. (8) which defined term “food and agricultural sciences” in broadest sense of terms, including but not limited to activities relating to agriculture, food processing, forestry, acquaculture, home economics, rural community welfare, youth development, market expansion, improvement of productivity, and international food and agricultural issues.
+Par. (8). Pub. L. 105–185, § 221(a), added par. (8) and struck out former par. (8) which defined term “food and agricultural sciences” in broadest sense of terms, including but not limited to activities relating to agriculture, food processing, forestry, acquaculture, home economics, rural community welfare, youth development, market expansion, improvement of productivity, and international food and agricultural issues.
 
-Par. (9). Pub. L. 105–185, § 221(c)(4), (5), substituted “The term” for “the term” after “(9)” and substituted period for semicolon at end.
+Par. (9). Pub. L. 105–185, § 221(c)(4), (5), substituted “The term” for “the term” after “(9)” and substituted period for semicolon at end.
 
-Par. (10). Pub. L. 105–185, §§ 221(c)(2), (5), 226(c)(1), substituted “The term” for “the term”, “Tuskegee University” for “the Tuskegee Institute”, and period for semicolon at end.
+Par. (10). Pub. L. 105–185, §§ 221(c)(2), (5), 226(c)(1), substituted “The term” for “the term”, “Tuskegee University” for “the Tuskegee Institute”, and period for semicolon at end.
 
-Pars. (11) to (13). Pub. L. 105–185, § 221(c)(2), (5), substituted “The term” for “the term” and period for semicolon at end.
+Pars. (11) to (13). Pub. L. 105–185, § 221(c)(2), (5), substituted “The term” for “the term” and period for semicolon at end.
 
-Par. (14). Pub. L. 105–185, § 221(b), (c)(5), inserted par. heading, substituted “The terms ‘teaching’ and ‘education’ mean” for “the term ‘teaching’ means”, and substituted period for semicolon at end.
+Par. (14). Pub. L. 105–185, § 221(b), (c)(5), inserted par. heading, substituted “The terms ‘teaching’ and ‘education’ mean” for “the term ‘teaching’ means”, and substituted period for semicolon at end.
 
-Par. (15). Pub. L. 105–185, § 221(c)(2), (5), substituted “The term” for “the term” and period for semicolon at end.
+Par. (15). Pub. L. 105–185, § 221(c)(2), (5), substituted “The term” for “the term” and period for semicolon at end.
 
-Par. (16). Pub. L. 105–185, § 221(c)(2), substituted “The term” for “the term” in introductory provisions.
+Par. (16). Pub. L. 105–185, § 221(c)(2), substituted “The term” for “the term” in introductory provisions.
 
-Par. (16)(B). Pub. L. 105–185, § 226(c)(1), substituted “Tuskegee University” for “the Tuskegee Institute”.
+Par. (16)(B). Pub. L. 105–185, § 226(c)(1), substituted “Tuskegee University” for “the Tuskegee Institute”.
 
-Par. (16)(F). Pub. L. 105–185, § 221(c)(6), substituted period for “; and” at end.
+Par. (16)(F). Pub. L. 105–185, § 221(c)(6), substituted period for “; and” at end.
 
-Par. (17). Pub. L. 105–185, § 221(c)(2), substituted “The term” for “the term”.
+Par. (17). Pub. L. 105–185, § 221(c)(2), substituted “The term” for “the term”.
 
-1996—Par. (1). Pub. L. 104–127, § 802(b)(1), substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board” for “National Agricultural Research and Extension Users Advisory Board”.
+1996—Par. (1). Pub. L. 104–127, § 802(b)(1), substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board” for “National Agricultural Research and Extension Users Advisory Board”.
 
-Par. (3). Pub. L. 104–127, § 820(a), inserted “ornamental fish,” after “reptile,”.
+Par. (3). Pub. L. 104–127, § 820(a), inserted “ornamental fish,” after “reptile,”.
 
-Par. (9). Pub. L. 104–127, § 815(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “the term ‘Joint Council’ means the Joint Council on Food and Agricultural Sciences;”.
+Par. (9). Pub. L. 104–127, § 815(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “the term ‘Joint Council’ means the Joint Council on Food and Agricultural Sciences;”.
 
-Pars. (16) to (18). Pub. L. 104–127, § 853(b)(1), inserted “and” at end of par. (16), substituted a period for “; and” at end of par. (17), and struck out par. (18) which read as follows: “the term ‘Technology Board’ means the Agricultural Science and Technology Review Board established in section 3123a of this title.”
+Pars. (16) to (18). Pub. L. 104–127, § 853(b)(1), inserted “and” at end of par. (16), substituted a period for “; and” at end of par. (17), and struck out par. (18) which read as follows: “the term ‘Technology Board’ means the Agricultural Science and Technology Review Board established in section 3123a of this title.”
 
 1991—Par. (18). Pub. L. 102–237 inserted “and” after “Science”.
 
-1990—Par. (16)(F). Pub. L. 101–624, § 1603(2), inserted reference to subchapter VI of this chapter.
+1990—Par. (16)(F). Pub. L. 101–624, § 1603(2), inserted reference to subchapter VI of this chapter.
 
-Pars. (17), (18). Pub. L. 101–624, § 1603(1), (3), added pars. (17) and (18).
+Pars. (17), (18). Pub. L. 101–624, § 1603(1), (3), added pars. (17) and (18).
 
 1985—Par. (8)(J). Pub. L. 99–198 added subpar. (J).
 
-1981—Par. (8). Pub. L. 97–98, § 1404(1), substituted in provision preceding subpar. (A) “basic, applied, and developmental research, extension, and teaching activities in the food, agricultural, renewable natural resources, forestry, and physical and social sciences, in the broadest sense of these terms, including but not limited to, activities relating to” for “sciences relating to food and agriculture in the broadest sense, including the social, economic, and political considerations of”, in subpar. (E) “including consumer affairs, food and nutrition, clothing and textiles, housing, and family well-being and financial management;” for “human nutrition, and family life; and”, and in subpar. (F) “community welfare and development” for “and community development”, and added subpars. (G) to (I).
+1981—Par. (8). Pub. L. 97–98, § 1404(1), substituted in provision preceding subpar. (A) “basic, applied, and developmental research, extension, and teaching activities in the food, agricultural, renewable natural resources, forestry, and physical and social sciences, in the broadest sense of these terms, including but not limited to, activities relating to” for “sciences relating to food and agriculture in the broadest sense, including the social, economic, and political considerations of”, in subpar. (E) “including consumer affairs, food and nutrition, clothing and textiles, housing, and family well-being and financial management;” for “human nutrition, and family life; and”, and in subpar. (F) “community welfare and development” for “and community development”, and added subpars. (G) to (I).
 
-Par. (12). Pub. L. 97–98, § 1404(2), struck out “except as provided in subchapter VII of this chapter,” before “the term” and included within term “State” American Samoa, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
+Par. (12). Pub. L. 97–98, § 1404(2), struck out “except as provided in subchapter VII of this chapter,” before “the term” and included within term “State” American Samoa, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
 
-Par. (14). Pub. L. 97–98, § 1404(4), struck out reference to laboratory training, inserted reference to practicum experience and matters relating to formal classroom instruction, laboratory instruction, and practicum experience, and substituted provision that the teaching be conducted at colleges or universities offering baccalaureate or higher degrees for provision that the teaching be conducted at colleges and universities leading to a baccalaureate and other recognized degrees.
+Par. (14). Pub. L. 97–98, § 1404(4), struck out reference to laboratory training, inserted reference to practicum experience and matters relating to formal classroom instruction, laboratory instruction, and practicum experience, and substituted provision that the teaching be conducted at colleges or universities offering baccalaureate or higher degrees for provision that the teaching be conducted at colleges and universities leading to a baccalaureate and other recognized degrees.
 
-Pars. (15), (16). Pub. L. 97–98, § 1404(5), added pars. (15) and (16).
+Pars. (15), (16). Pub. L. 97–98, § 1404(5), added pars. (15) and (16).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -505,7 +505,7 @@ Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as
 
 **Construction of 2002 Amendment**
 
-Pub. L. 107–171, title VII, § 7502(b), May 13, 2002, 116 Stat. 463, provided that:
+Pub. L. 107–171, title VII, § 7502(b), May 13, 2002, 116 Stat. 463, provided that:
 
 > “The amendments made by subsection (a) [amending this section] shall not affect any basis for distribution of funds by formula (in effect on the date of enactment of this Act [May 13, 2002]) to—
 
@@ -517,7 +517,7 @@ Pub. L. 107–171, title VII, § 7502(b), May 13, 2002, 116 Stat. 463, provide
 
 **Designation Review**
 
-Pub. L. 115–334, title VII, § 7102(b), Dec. 20, 2018, 132 Stat. 4781, provided that:
+Pub. L. 115–334, title VII, § 7102(b), Dec. 20, 2018, 132 Stat. 4781, provided that:
 
 > **“(1) In general.—** Not later than 90 days after the date of the enactment of this Act [Dec. 20, 2018], the Secretary [of Agriculture] shall establish a process to review each designated NLGCA Institution (as defined in section 1404(14)(A) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3103(14)(A))) to ensure compliance with such section, as amended by this subsection [probably means “as amended by this section”].
 
@@ -529,23 +529,23 @@ Pub. L. 115–334, title VII, § 7102(b), Dec. 20, 2018, 132 Stat. 4781, provi
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 3104. Agriculture research; declaration of policy; duties of Secretary of Agriculture; use of existing facilities
+### § 3104. Agriculture research; declaration of policy; duties of Secretary of Agriculture; use of existing facilities
 
-It is declared to be the policy of the Congress to promote the efficient production and utilization of products of the soil as essential to the health and welfare of our people and to promote a sound and prosperous agriculture and rural life as indispensable to the maintenance of maximum employment and national prosperity. It is also the intent of Congress to assure agriculture a position in research equal to that of industry which will aid in maintaining an equitable balance between agriculture and other sections of our economy. For the attainment of these objectives, the Secretary of Agriculture is authorized and directed to conduct and to stimulate research into the laws and principles underlying the basic problems of agriculture in its broadest aspects, including but not limited to: Research relating to the improvement of the quality of, and the development of new and improved methods of the production, marketing, distribution, processing, and utilization of plant and animal commodities at all stages from the original producer through to the ultimate consumer; research into the problems of human nutrition and the nutritive value of agricultural commodities, with particular reference to their content of vitamins, minerals, amino and fatty acids, and all other constituents that may be found necessary for the health of the consumer and to the gains or losses in nutritive value that may take place at any stage in their production, distribution, processing, and preparation for use by the consumer; research relating to the development of present, new, and extended uses and markets for agricultural commodities and byproducts as food or in commerce, manufacture, or trade, both at home and abroad, with particular reference to those foods and fibers for which our capacity to produce exceeds or may exceed existing economic demand; research to encourage the discovery, introduction, and breeding of new and useful agricultural crops, plants, and animals, both foreign and native, particularly for those crops and plants which may be adapted to utilization in chemical and manufacturing industries; research relating to new and more profitable uses for our resources of agricultural manpower, soils, plants, animals, and equipment than those to which they are now, or may hereafter be, devoted; research relating to the conservation, development, and use of land, forest, and water resources for agricultural purposes; research relating to the design, development, and the more efficient and satisfactory use of farm buildings, farm homes, farm machinery, including the application of electricity and other forms of power; research and development relating to uses of solar energy with respect to farm buildings, farm homes, and farm machinery (including equipment used to dry and cure crops and provide irrigation); applied research to develop agricultural, forestry, and rural energy conservation and biomass energy production and use; research relating to the diversification of farm enterprises, both as to the type of commodities produced, and as to the types of operations performed, on the individual farm; research relating to any other laws and principles that may contribute to the establishment and maintenance of a permanent and effective agricultural industry including such investigations as have for their purpose the development and improvement of the rural home and rural life, and the maximum contribution by agriculture to the welfare of the consumer and the maintenance of maximum employment and national prosperity; and such other researches or experiments bearing on the agricultural industry or on rural homes of the United States as may in each case be deemd 1
+It is declared to be the policy of the Congress to promote the efficient production and utilization of products of the soil as essential to the health and welfare of our people and to promote a sound and prosperous agriculture and rural life as indispensable to the maintenance of maximum employment and national prosperity. It is also the intent of Congress to assure agriculture a position in research equal to that of industry which will aid in maintaining an equitable balance between agriculture and other sections of our economy. For the attainment of these objectives, the Secretary of Agriculture is authorized and directed to conduct and to stimulate research into the laws and principles underlying the basic problems of agriculture in its broadest aspects, including but not limited to: Research relating to the improvement of the quality of, and the development of new and improved methods of the production, marketing, distribution, processing, and utilization of plant and animal commodities at all stages from the original producer through to the ultimate consumer; research into the problems of human nutrition and the nutritive value of agricultural commodities, with particular reference to their content of vitamins, minerals, amino and fatty acids, and all other constituents that may be found necessary for the health of the consumer and to the gains or losses in nutritive value that may take place at any stage in their production, distribution, processing, and preparation for use by the consumer; research relating to the development of present, new, and extended uses and markets for agricultural commodities and byproducts as food or in commerce, manufacture, or trade, both at home and abroad, with particular reference to those foods and fibers for which our capacity to produce exceeds or may exceed existing economic demand; research to encourage the discovery, introduction, and breeding of new and useful agricultural crops, plants, and animals, both foreign and native, particularly for those crops and plants which may be adapted to utilization in chemical and manufacturing industries; research relating to new and more profitable uses for our resources of agricultural manpower, soils, plants, animals, and equipment than those to which they are now, or may hereafter be, devoted; research relating to the conservation, development, and use of land, forest, and water resources for agricultural purposes; research relating to the design, development, and the more efficient and satisfactory use of farm buildings, farm homes, farm machinery, including the application of electricity and other forms of power; research and development relating to uses of solar energy with respect to farm buildings, farm homes, and farm machinery (including equipment used to dry and cure crops and provide irrigation); applied research to develop agricultural, forestry, and rural energy conservation and biomass energy production and use; research relating to the diversification of farm enterprises, both as to the type of commodities produced, and as to the types of operations performed, on the individual farm; research relating to any other laws and principles that may contribute to the establishment and maintenance of a permanent and effective agricultural industry including such investigations as have for their purpose the development and improvement of the rural home and rural life, and the maximum contribution by agriculture to the welfare of the consumer and the maintenance of maximum employment and national prosperity; and such other researches or experiments bearing on the agricultural industry or on rural homes of the United States as may in each case be deemd 1
 
-<sup>1</sup>  So in original. Probably should be “deemed”.
+<sup>1</sup> So in original. Probably should be “deemed”.
 
 advisable, having due regard to the varying conditions and needs of Puerto Rico, the respective States, and Territories. In effectuating the purposes of this section, maximum use shall be made of existing research facilities owned or controlled by the Federal Government or by State agricultural experiment stations and of the facilities of the Federal and State extension services. Research authorized under this section shall be in addition to research provided for under existing law (but both activities shall be coordinated so far as practicable). For purposes of this title,2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
-the term “solar energy” means energy derived from sources (other than fossil fuels) and technologies included in the Federal Non-Nuclear 3
+the term “solar energy” means energy derived from sources (other than fossil fuels) and technologies included in the Federal Non-Nuclear 3
 
-<sup>3</sup>  So in original. Probably should be “Nonnuclear”.
+<sup>3</sup> So in original. Probably should be “Nonnuclear”.
 
 Energy Research and Development Act of 1974, as amended [42 U.S.C. 5901 et seq.].
 
-(June 29, 1935, ch. 338, title I, § 1, 49 Stat. 436; Aug. 14, 1946, ch. 966, title I, § 101(1), 60 Stat. 1082; Pub. L. 95–113, title XIV, § 1446, Sept. 29, 1977, 91 Stat. 1011; Pub. L. 96–294, title II, § 253, June 30, 1980, 94 Stat. 707.)
+(June 29, 1935, ch. 338, title I, § 1, 49 Stat. 436; Aug. 14, 1946, ch. 966, title I, § 101(1), 60 Stat. 1082; Pub. L. 95–113, title XIV, § 1446, Sept. 29, 1977, 91 Stat. 1011; Pub. L. 96–294, title II, § 253, June 30, 1980, 94 Stat. 707.)
 
 **Editorial Notes**
 
@@ -553,7 +553,7 @@ Energy Research and Development Act of 1974, as amended [42 U.S.C. 5901 et seq.]
 
 This title, referred to in text, means title I of act June 29, 1935, ch. 338, 49 Stat. 436. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note set out under section 3101 of this title and Tables.
 
-The Federal Nonnuclear Energy Research and Development Act of 1974, as amended, referred to in text, is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974, as amended, referred to in text, is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 
 **Codification**
 
@@ -581,7 +581,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 **Ex. Ord. No. 9310. Transferring Nutrition Functions of Office of Defense Health and Welfare Services to Department of Agriculture**
 
@@ -595,11 +595,11 @@ By virtue of the authority vested in me by Title I of the First War Powers Act, 
 
 Franklin D. Roosevelt.
 
-### § 3105. Agricultural research; authorization of additional appropriations; administrative expenses; availability of special research fund
+### § 3105. Agricultural research; authorization of additional appropriations; administrative expenses; availability of special research fund
 
 **(a)** In order to carry out further research on utilization and associated problems in connection with the development and application of present, new, and extended uses of agricultural commodities and products thereof authorized by section 3104 of this title, and to disseminate information relative thereto, and in addition to all other appropriations authorized by this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 there is authorized to be appropriated the following sums:
 
@@ -629,13 +629,13 @@ The Secretary of Agriculture, in accordance with such regulations as he deems ne
 
 **(5)** In addition to the foregoing such additional funds beginning with the fiscal year ending June 30, 1951, and thereafter, as the Congress may deem necessary.
 
-**(c)** The Secretary may incur necessary administrative expenses not to exceed 3 per centum of the amount appropriated in any fiscal year in carrying out this section, including the specific objects of expense enumerated in section 427b <sup>1</sup> of this title.
+**(c)** The Secretary may incur necessary administrative expenses not to exceed 3 per centum of the amount appropriated in any fiscal year in carrying out this section, including the specific objects of expense enumerated in section 427b <sup>1</sup> of this title.
 
-**(d)** The “Special research fund, Department of Agriculture,” provided by section 427c <sup>1</sup> of this title, shall continue to be available solely for research into laws and principles underlying basic problems of agriculture in its broadest aspects; research relating to the improvement of the quality of, and the development of, new and improved methods of production of, distribution of, and new and extended uses and markets for, agricultural commodities and byproducts and manufactures thereof; and research relating to the conservation, development, and use of land and water resources for agricultural purposes. Such research shall be in addition to research provided for under other law (but both activities shall be coordinated so far as practicable) and shall be conducted by such agencies of the Department of Agriculture as the Secretary of Agriculture may designate or establish.
+**(d)** The “Special research fund, Department of Agriculture,” provided by section 427c <sup>1</sup> of this title, shall continue to be available solely for research into laws and principles underlying basic problems of agriculture in its broadest aspects; research relating to the improvement of the quality of, and the development of, new and improved methods of production of, distribution of, and new and extended uses and markets for, agricultural commodities and byproducts and manufactures thereof; and research relating to the conservation, development, and use of land and water resources for agricultural purposes. Such research shall be in addition to research provided for under other law (but both activities shall be coordinated so far as practicable) and shall be conducted by such agencies of the Department of Agriculture as the Secretary of Agriculture may designate or establish.
 
 **(e)** Appropriations for research work in the Department of Agriculture shall be available for accomplishing such purposes by contract through the means provided in subsection (a) of this section.
 
-(June 29, 1935, ch. 338, title I, § 10, as added Aug. 14, 1946, ch. 966, title I, § 101(2), 60 Stat. 1085; amended July 28, 1954, ch. 591, 68 Stat. 574.)
+(June 29, 1935, ch. 338, title I, § 10, as added Aug. 14, 1946, ch. 966, title I, § 101(2), 60 Stat. 1085; amended July 28, 1954, ch. 591, 68 Stat. 574.)
 
 **Editorial Notes**
 
@@ -643,11 +643,11 @@ The Secretary of Agriculture, in accordance with such regulations as he deems ne
 
 This title, referred to in subsecs. (a) and (b), means title I of act June 29, 1935, ch. 338, 49 Stat. 436. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note set out under section 3101 of this title and Tables.
 
-Section 5 of the Act of June 20, 1874, as amended (31 U.S.C. 713), referred to in subsec. (a), was repealed by act July 6, 1949, ch. 299, § 3, 63 Stat. 407.
+Section 5 of the Act of June 20, 1874, as amended (31 U.S.C. 713), referred to in subsec. (a), was repealed by act July 6, 1949, ch. 299, § 3, 63 Stat. 407.
 
-Section 427b of this title, referred to in subsec. (c), was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674.
+Section 427b of this title, referred to in subsec. (c), was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674.
 
-Section 427c of this title, referred to in subsec. (d), was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674.
+Section 427c of this title, referred to in subsec. (d), was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674.
 
 **Codification**
 
@@ -655,9 +655,9 @@ Section was formerly classified to section 427i of this title prior to editorial
 
 Section was enacted as part of act June 29, 1935, ch. 338, popularly known as the “Agricultural Research Act” and also as the “Bankhead-Jones Act”, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
 
-In subsec. (a), “section 6101 of title 41” substituted for “section 3709, Revised Statutes” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), “section 6101 of title 41” substituted for “section 3709, Revised Statutes” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a), “section 3324(a) and (b) of title 31” substituted for “section 3648, Revised Statutes [31 U.S.C. 529]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a), “section 3324(a) and (b) of title 31” substituted for “section 3648, Revised Statutes [31 U.S.C. 529]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
@@ -667,11 +667,11 @@ In subsec. (a), “section 3324(a) and (b) of title 31” substituted for “sec
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 ## SUBCHAPTER II—COORDINATION AND PLANNING OF AGRICULTURAL RESEARCH, EXTENSION, AND TEACHING
 
-### § 3121. Responsibilities of Secretary and Department of Agriculture
+### § 3121. Responsibilities of Secretary and Department of Agriculture
 
 The Department of Agriculture is designated as the lead agency of the Federal Government for agricultural research (except with respect to the biomedical aspects of human nutrition concerned with diagnosis or treatment of disease), extension, and teaching in the food and agricultural sciences, and the Secretary, in carrying out the Secretary’s responsibilities, shall—
 
@@ -699,29 +699,29 @@ The Department of Agriculture is designated as the lead agency of the Federal Go
 
 **(12)** establish appropriate controls with respect to the development and use of the application of biotechnology to agriculture.
 
-(Pub. L. 95–113, title XIV, § 1405, Sept. 29, 1977, 91 Stat. 985; Pub. L. 97–98, title XIV, § 1405, Dec. 22, 1981, 95 Stat. 1298; Pub. L. 99–198, title XIV, § 1404, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, § 1605(b)(3), Nov. 28, 1990, 104 Stat. 3714; Pub. L. 104–127, title VIII, §§ 852(b)(1), 853(b)(2), Apr. 4, 1996, 110 Stat. 1171, 1172.)
+(Pub. L. 95–113, title XIV, § 1405, Sept. 29, 1977, 91 Stat. 985; Pub. L. 97–98, title XIV, § 1405, Dec. 22, 1981, 95 Stat. 1298; Pub. L. 99–198, title XIV, § 1404, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, § 1605(b)(3), Nov. 28, 1990, 104 Stat. 3714; Pub. L. 104–127, title VIII, §§ 852(b)(1), 853(b)(2), Apr. 4, 1996, 110 Stat. 1171, 1172.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Par. (5). Pub. L. 104–127, § 852(b)(1)(A), substituted “Advisory Board” for “Joint Council, Advisory Board,”.
+1996—Par. (5). Pub. L. 104–127, § 852(b)(1)(A), substituted “Advisory Board” for “Joint Council, Advisory Board,”.
 
-Par. (11). Pub. L. 104–127, § 852(b)(1)(B), struck out “the Joint Council,” before “the Advisory Board”.
+Par. (11). Pub. L. 104–127, § 852(b)(1)(B), struck out “the Joint Council,” before “the Advisory Board”.
 
-Par. (12). Pub. L. 104–127, § 853(b)(2), struck out “, after coordination with the Technology Board,” after “establish”.
+Par. (12). Pub. L. 104–127, § 853(b)(2), struck out “, after coordination with the Technology Board,” after “establish”.
 
-1990—Par. (12). Pub. L. 101–624 inserted “, after coordination with the Technology Board,” after “establish”.
+1990—Par. (12). Pub. L. 101–624 inserted “, after coordination with the Technology Board,” after “establish”.
 
 1985—Pars. (11), (12). Pub. L. 99–198 added pars. (11) and (12) and struck out former par. (11) which required the Secretary to “take the initiative in overcoming barriers to long-range planning by developing, in conjunction with the States, State cooperative institutions, the Joint Council, the Advisory Board, and other appropriate institutions, a long-term needs assessment for food, fiber, and forest products, and by determining the research requirements necessary to meet the identified needs.”
 
-1981—Par. (1). Pub. L. 97–98, § 1405(1), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+1981—Par. (1). Pub. L. 97–98, § 1405(1), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-Par. (5). Pub. L. 97–98, § 1405(2), substituted “and appropriate advisory” for “and other appropriate advisory”.
+Par. (5). Pub. L. 97–98, § 1405(2), substituted “and appropriate advisory” for “and other appropriate advisory”.
 
-Par. (6). Pub. L. 97–98, § 1405(3), inserted “or proposed”.
+Par. (6). Pub. L. 97–98, § 1405(3), inserted “or proposed”.
 
-Pars. (10), (11). Pub. L. 97–98, § 1405(4)–(6), added pars. (10) and (11).
+Pars. (10), (11). Pub. L. 97–98, § 1405(4)–(6), added pars. (10) and (11).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -793,11 +793,11 @@ Sec. 10. *General Provisions*. (a) Nothing in this order shall be construed to i
 
 Donald J. Trump.
 
-### § 3122. Repealed. Pub. L. 104–127, title VIII, § 852(a), Apr. 4, 1996, 110 Stat. 1171
+### § 3122. Repealed. Pub. L. 104–127, title VIII, § 852(a), Apr. 4, 1996, 110 Stat. 1171
 
-Section, Pub. L. 95–113, title XIV, § 1407, Sept. 29, 1977, 91 Stat. 986; Pub. L. 97–98, title XIV, § 1407, Dec. 22, 1981, 95 Stat. 1299; Pub. L. 99–198, title XIV, § 1405, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, § 1604(a), Nov. 28, 1990, 104 Stat. 3706; Pub. L. 102–237, title IV, §§ 402(1), 407(1), Dec. 13, 1991, 105 Stat. 1863, 1864; Pub. L. 104–66, title I, § 1012(d), (e), Dec. 21, 1995, 109 Stat. 712, related to establishment of Joint Council on Food and Agricultural Sciences.
+Section, Pub. L. 95–113, title XIV, § 1407, Sept. 29, 1977, 91 Stat. 986; Pub. L. 97–98, title XIV, § 1407, Dec. 22, 1981, 95 Stat. 1299; Pub. L. 99–198, title XIV, § 1405, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, § 1604(a), Nov. 28, 1990, 104 Stat. 3706; Pub. L. 102–237, title IV, §§ 402(1), 407(1), Dec. 13, 1991, 105 Stat. 1863, 1864; Pub. L. 104–66, title I, § 1012(d), (e), Dec. 21, 1995, 109 Stat. 712, related to establishment of Joint Council on Food and Agricultural Sciences.
 
-### § 3123. National Agricultural Research, Extension, Education, and Economics Advisory Board
+### § 3123. National Agricultural Research, Extension, Education, and Economics Advisory Board
 
 **(a) Establishment**
 
@@ -947,15 +947,15 @@ The expenses of the Advisory Board shall not be counted toward any general limit
 
 The Advisory Board shall remain in existence until September 30, 2023.
 
-(Pub. L. 95–113, title XIV, § 1408, Sept. 29, 1977, 91 Stat. 988; Pub. L. 97–98, title XIV, § 1408, Dec. 22, 1981, 95 Stat. 1300; Pub. L. 99–198, title XIV, § 1406, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, § 1604(b), Nov. 28, 1990, 104 Stat. 3709; Pub. L. 102–237, title IV, § 402(2), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–66, title I, §§ 1011(t), 1012(f), Dec. 21, 1995, 109 Stat. 710, 712; Pub. L. 104–127, title VIII, § 802(a), Apr. 4, 1996, 110 Stat. 1156; Pub. L. 105–185, title II, § 222, June 23, 1998, 112 Stat. 538; Pub. L. 107–171, title VII, §§ 7133, 7209(a), May 13, 2002, 116 Stat. 435, 444; Pub. L. 110–234, title VII, §§ 7102(a), 7511(c)(8), May 22, 2008, 122 Stat. 1214, 1268; Pub. L. 110–246, § 4(a), title VII, §§ 7102(a), 7511(c)(8), June 18, 2008, 122 Stat. 1664, 1975, 2029; Pub. L. 113–79, title VII, § 7102, Feb. 7, 2014, 128 Stat. 863; Pub. L. 115–334, title VII, § 7103, Dec. 20, 2018, 132 Stat. 4781; Pub. L. 117–286, § 4(a)(31), Dec. 27, 2022, 136 Stat. 4308.)
+(Pub. L. 95–113, title XIV, § 1408, Sept. 29, 1977, 91 Stat. 988; Pub. L. 97–98, title XIV, § 1408, Dec. 22, 1981, 95 Stat. 1300; Pub. L. 99–198, title XIV, § 1406, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, § 1604(b), Nov. 28, 1990, 104 Stat. 3709; Pub. L. 102–237, title IV, § 402(2), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–66, title I, §§ 1011(t), 1012(f), Dec. 21, 1995, 109 Stat. 710, 712; Pub. L. 104–127, title VIII, § 802(a), Apr. 4, 1996, 110 Stat. 1156; Pub. L. 105–185, title II, § 222, June 23, 1998, 112 Stat. 538; Pub. L. 107–171, title VII, §§ 7133, 7209(a), May 13, 2002, 116 Stat. 435, 444; Pub. L. 110–234, title VII, §§ 7102(a), 7511(c)(8), May 22, 2008, 122 Stat. 1214, 1268; Pub. L. 110–246, § 4(a), title VII, §§ 7102(a), 7511(c)(8), June 18, 2008, 122 Stat. 1664, 1975, 2029; Pub. L. 113–79, title VII, § 7102, Feb. 7, 2014, 128 Stat. 863; Pub. L. 115–334, title VII, § 7103, Dec. 20, 2018, 132 Stat. 4781; Pub. L. 117–286, § 4(a)(31), Dec. 27, 2022, 136 Stat. 4308.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of July 2, 1862, referred to in subsec. (b)(3)(C)(i), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (b)(3)(C)(i), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, referred to in subsec. (b)(3)(C)(ii), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (b)(3)(C)(ii), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 For definition of “this chapter”, referred to in subsec. (d)(2), see note set out under section 3102 of this title.
 
@@ -971,83 +971,83 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2022—Subsec. (f). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “section 1008(c) of title 5.” for “section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.).” in text.
 
-2018—Subsec. (b)(1). Pub. L. 115–334, § 7103(1)(A), substituted “15” for “25”.
+2018—Subsec. (b)(1). Pub. L. 115–334, § 7103(1)(A), substituted “15” for “25”.
 
-Subsec. (b)(3). Pub. L. 115–334, § 7103(1)(B), amended par. (3) generally. Prior to amendment, par. (3) provided 25 membership categories of the Advisory Board.
+Subsec. (b)(3). Pub. L. 115–334, § 7103(1)(B), amended par. (3) generally. Prior to amendment, par. (3) provided 25 membership categories of the Advisory Board.
 
-Subsec. (c)(1). Pub. L. 115–334, § 7103(2)(A)(i), substituted “make recommendations, review, and” for “review and” in introductory provisions.
+Subsec. (c)(1). Pub. L. 115–334, § 7103(2)(A)(i), substituted “make recommendations, review, and” for “review and” in introductory provisions.
 
-Subsec. (c)(1)(A). Pub. L. 115–334, § 7103(2)(A)(ii), added subpar. (A) and struck out former subpar. (A) which read as follows: “long-term and short-term national policies and priorities consistent with the purposes specified in section 3101 of this title for agricultural research, extension, education, and economics; and”.
+Subsec. (c)(1)(A). Pub. L. 115–334, § 7103(2)(A)(ii), added subpar. (A) and struck out former subpar. (A) which read as follows: “long-term and short-term national policies and priorities consistent with the purposes specified in section 3101 of this title for agricultural research, extension, education, and economics; and”.
 
-Subsec. (c)(1)(B). Pub. L. 115–334, § 7103(2)(A)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the annual establishment of priorities that—
+Subsec. (c)(1)(B). Pub. L. 115–334, § 7103(2)(A)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the annual establishment of priorities that—
 
 “(i) are in accordance with the purposes specified in a provision of a covered law (as defined in subsection (d) of section 3371 of this title) under which competitive grants (described in subsection (c) of such section) are awarded; and
 
 “(ii) the Board determines are national priorities.”
 
-Subsec. (c)(2). Pub. L. 115–334, § 7103(2)(B), inserted “and make recommendations to the Secretary based on such evaluation” after “priorities”.
+Subsec. (c)(2). Pub. L. 115–334, § 7103(2)(B), inserted “and make recommendations to the Secretary based on such evaluation” after “priorities”.
 
-Subsec. (c)(4). Pub. L. 115–334, § 7103(2)(C), inserted “and make recommendations on” after “review” in introductory provisions.
+Subsec. (c)(4). Pub. L. 115–334, § 7103(2)(C), inserted “and make recommendations on” after “review” in introductory provisions.
 
-Subsec. (h). Pub. L. 115–334, § 7103(3), substituted “2023” for “2018”.
+Subsec. (h). Pub. L. 115–334, § 7103(3), substituted “2023” for “2018”.
 
-2014—Subsec. (c)(1). Pub. L. 113–79, § 7102(b)(1), substituted “Committee on Appropriations of the Senate on—” for “Committee on Appropriations of the Senate on long-term and short-term national policies and priorities, as set forth in section 3101 of this title, relating to agricultural research, extension, education, and economics;” and added subpars. (A) and (B).
+2014—Subsec. (c)(1). Pub. L. 113–79, § 7102(b)(1), substituted “Committee on Appropriations of the Senate on—” for “Committee on Appropriations of the Senate on long-term and short-term national policies and priorities, as set forth in section 3101 of this title, relating to agricultural research, extension, education, and economics;” and added subpars. (A) and (B).
 
-Subsec. (c)(4)(B). Pub. L. 113–79, § 7102(b)(3)(A), substituted “national research policies and priorities that are consistent with the purposes specified in” for “the national research policies and priorities set forth in”.
+Subsec. (c)(4)(B). Pub. L. 113–79, § 7102(b)(3)(A), substituted “national research policies and priorities that are consistent with the purposes specified in” for “the national research policies and priorities set forth in”.
 
-Subsec. (c)(5). Pub. L. 113–79, § 7102(b)(2), (3)(B), (4), added par. (5).
+Subsec. (c)(5). Pub. L. 113–79, § 7102(b)(2), (3)(B), (4), added par. (5).
 
-Subsec. (h). Pub. L. 113–79, § 7102(a), substituted “2018” for “2012”.
+Subsec. (h). Pub. L. 113–79, § 7102(a), substituted “2018” for “2012”.
 
-2008—Subsec. (b)(1). Pub. L. 110–246, § 7102(a)(1)(A), substituted “25” for “31”.
+2008—Subsec. (b)(1). Pub. L. 110–246, § 7102(a)(1)(A), substituted “25” for “31”.
 
-Subsec. (b)(3). Pub. L. 110–246, § 7102(a)(1)(B), added par. (3) and struck out former par. (3) which related to membership categories and directed that the Advisory Board consist of members from each of the categories listed in former subpars. (A) to (EE).
+Subsec. (b)(3). Pub. L. 110–246, § 7102(a)(1)(B), added par. (3) and struck out former par. (3) which related to membership categories and directed that the Advisory Board consist of members from each of the categories listed in former subpars. (A) to (EE).
 
-Subsec. (b)(4). Pub. L. 110–246, § 7511(c)(8), substituted “the Director of the National Institute of Food and Agriculture” for “the Administrator of the Cooperative State Research, Education, and Extension Service”.
+Subsec. (b)(4). Pub. L. 110–246, § 7511(c)(8), substituted “the Director of the National Institute of Food and Agriculture” for “the Administrator of the Cooperative State Research, Education, and Extension Service”.
 
-Subsec. (g)(1). Pub. L. 110–246, § 7102(a)(2), substituted “$500,000” for “$350,000”.
+Subsec. (g)(1). Pub. L. 110–246, § 7102(a)(2), substituted “$500,000” for “$350,000”.
 
-Subsec. (h). Pub. L. 110–246, § 7102(a)(3), substituted “2012” for “2007”.
+Subsec. (h). Pub. L. 110–246, § 7102(a)(3), substituted “2012” for “2007”.
 
-2002—Subsec. (b)(1). Pub. L. 107–171, § 7209(a)(1), substituted “31 members” for “30 members”.
+2002—Subsec. (b)(1). Pub. L. 107–171, § 7209(a)(1), substituted “31 members” for “30 members”.
 
-Subsec. (b)(3)(R) to (EE). Pub. L. 107–171, § 7209(a)(2), added subpar. (R) and redesignated former subpars. (R) to (DD) as (S) to (EE), respectively.
+Subsec. (b)(3)(R) to (EE). Pub. L. 107–171, § 7209(a)(2), added subpar. (R) and redesignated former subpars. (R) to (DD) as (S) to (EE), respectively.
 
-Subsec. (c)(1). Pub. L. 107–171, § 7209(a)(3), substituted “Secretary, land-grant colleges and universities, and the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Subcommittee on Agriculture, Rural Development, Food and Drug Administration and Related Agencies of the Committee on Appropriations of the House of Representatives, and the Subcommittee on Agriculture, Rural Development and Related Agencies of the Committee on Appropriations of the Senate” for “Secretary and land-grant colleges and universities”.
+Subsec. (c)(1). Pub. L. 107–171, § 7209(a)(3), substituted “Secretary, land-grant colleges and universities, and the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Subcommittee on Agriculture, Rural Development, Food and Drug Administration and Related Agencies of the Committee on Appropriations of the House of Representatives, and the Subcommittee on Agriculture, Rural Development and Related Agencies of the Committee on Appropriations of the Senate” for “Secretary and land-grant colleges and universities”.
 
-Subsec. (d)(1). Pub. L. 107–171, § 7209(a)(4), inserted “consult with any appropriate agencies of the Department of Agriculture and” after “The Advisory Board shall”.
+Subsec. (d)(1). Pub. L. 107–171, § 7209(a)(4), inserted “consult with any appropriate agencies of the Department of Agriculture and” after “The Advisory Board shall”.
 
-Subsec. (h). Pub. L. 107–171, § 7133, substituted “2007” for “2002”.
+Subsec. (h). Pub. L. 107–171, § 7133, substituted “2007” for “2002”.
 
-1998—Subsec. (b)(7). Pub. L. 105–185, § 222(a), added par. (7).
+1998—Subsec. (b)(7). Pub. L. 105–185, § 222(a), added par. (7).
 
-Subsec. (d). Pub. L. 105–185, § 222(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (d). Pub. L. 105–185, § 222(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsecs. (g), (h). Pub. L. 105–185, § 222(c), added subsec. (g) and redesignated former subsec. (g) as (h).
+Subsecs. (g), (h). Pub. L. 105–185, § 222(c), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 1996—Pub. L. 104–127 amended section generally, substituting present provisions for provisions which established National Agricultural Research and Extension Users Advisory Board and provided for membership, chairperson and vice-chairperson, meetings, panels of the Board, responsibilities of the Board, reports by the Board, and a report by the Secretary of Agriculture on manner in which recommendations of Board had been incorporated into programs of Department of Agriculture.
 
-1995—Subsec. (g)(1). Pub. L. 104–66, § 1012(f), inserted “may provide” before “a written report” in first sentence.
+1995—Subsec. (g)(1). Pub. L. 104–66, § 1012(f), inserted “may provide” before “a written report” in first sentence.
 
-Subsec. (g)(2), (3). Pub. L. 104–66, § 1011(t), redesignated par. (3) as (2) and struck out former par. (2) which required Advisory Board to submit to the President and congressional committees a report containing appraisal by Board of President’s proposed budget for food and agricultural sciences and recommendations of Secretary.
+Subsec. (g)(2), (3). Pub. L. 104–66, § 1011(t), redesignated par. (3) as (2) and struck out former par. (2) which required Advisory Board to submit to the President and congressional committees a report containing appraisal by Board of President’s proposed budget for food and agricultural sciences and recommendations of Secretary.
 
-1991—Subsec. (e). Pub. L. 102–237, § 402(2)(A), substituted “Government” for “government”.
+1991—Subsec. (e). Pub. L. 102–237, § 402(2)(A), substituted “Government” for “government”.
 
-Subsec. (g)(1). Pub. L. 102–237, § 402(2)(B), substituted “federally” for “Federally”.
+Subsec. (g)(1). Pub. L. 102–237, § 402(2)(B), substituted “federally” for “Federally”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which established National Agricultural Research and Extension Users Advisory Board to expire on Sept. 30, 1990, authorized membership of Board at 25 representatives, provided for selection of chairman and vice-chairman, provided for meetings at least once during each three month period, authorized establishment of panels to assist Board in meeting its responsibilities, and outlined general and specific responsibilities of Board, including the submission of reports.
 
-1985—Subsec. (a). Pub. L. 99–198, § 1406(a), substituted “1990” for “1985”.
+1985—Subsec. (a). Pub. L. 99–198, § 1406(a), substituted “1990” for “1985”.
 
-Subsec. (f)(2)(G). Pub. L. 99–198, § 1406(b), added subpar. (G).
+Subsec. (f)(2)(G). Pub. L. 99–198, § 1406(b), added subpar. (G).
 
-1981—Subsec. (a). Pub. L. 97–98, § 1408(a), substituted “that expires September 30, 1985” for “of five years”.
+1981—Subsec. (a). Pub. L. 97–98, § 1408(a), substituted “that expires September 30, 1985” for “of five years”.
 
-Subsec. (b). Pub. L. 97–98, § 1408(b), in provision preceding par. (1) substituted “twenty-five” for “twenty-one” and inserted “to serve staggered terms” and in par. (1) substituted “eight” for “four” and “agricultural, forestry, and aquacultural products, from various geographical regions” for “agricultural commodities, forest products, and aquacultural products”.
+Subsec. (b). Pub. L. 97–98, § 1408(b), in provision preceding par. (1) substituted “twenty-five” for “twenty-one” and inserted “to serve staggered terms” and in par. (1) substituted “eight” for “four” and “agricultural, forestry, and aquacultural products, from various geographical regions” for “agricultural commodities, forest products, and aquacultural products”.
 
-Subsec. (f)(2)(E). Pub. L. 97–98, § 1408(c)(1), substituted “July 1” for “October 1”.
+Subsec. (f)(2)(E). Pub. L. 97–98, § 1408(c)(1), substituted “July 1” for “October 1”.
 
-Subsec. (f)(2)(F). Pub. L. 97–98, § 1408(c)(2), substituted “February 20 of” for “March 1 of”.
+Subsec. (f)(2)(F). Pub. L. 97–98, § 1408(c)(2), substituted “February 20 of” for “March 1 of”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1071,11 +1071,11 @@ Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as
 
 **Effect of 2008 Amendment on Terms**
 
-Pub. L. 110–234, title VII, § 7102(b), May 22, 2008, 122 Stat. 1215, and Pub. L. 110–246, § 4(a), title VII, § 7102(b), June 18, 2008, 122 Stat. 1664, 1976, provided that: “Nothing in this section [amending this section] or any amendment made by this section affects the term of any member of the National Agricultural Research, Extension, Education, and Economics Advisory Board serving as of the date of enactment of this Act [June 18, 2008].”
+Pub. L. 110–234, title VII, § 7102(b), May 22, 2008, 122 Stat. 1215, and Pub. L. 110–246, § 4(a), title VII, § 7102(b), June 18, 2008, 122 Stat. 1664, 1976, provided that: “Nothing in this section [amending this section] or any amendment made by this section affects the term of any member of the National Agricultural Research, Extension, Education, and Economics Advisory Board serving as of the date of enactment of this Act [June 18, 2008].”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
-### § 3123a. Specialty crop committee
+### § 3123a. Specialty crop committee
 
 **(a) Establishment**
 
@@ -1099,9 +1099,9 @@ Not later than 45 days after February 7, 2014, the Secretary shall establish wit
 
 **(C) Membership**
 
-The Secretary may appoint individuals who are not members of the specialty crops committee or the Advisory Board established under section 3123 of this title as members of the citrus disease subcommittee 1
+The Secretary may appoint individuals who are not members of the specialty crops committee or the Advisory Board established under section 3123 of this title as members of the citrus disease subcommittee 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(D) Termination**
 
@@ -1187,7 +1187,7 @@ In the budget material submitted to Congress by the Secretary in connection with
 
 **(D)** providing the Secretary with such information and advice as the Secretary may request.
 
-(Pub. L. 95–113, title XIV, § 1408A, as added Pub. L. 108–465, title III, § 303, Dec. 21, 2004, 118 Stat. 3885; amended Pub. L. 110–234, title VII, § 7103, May 22, 2008, 122 Stat. 1215; Pub. L. 110–246, § 4(a), title VII, § 7103, June 18, 2008, 122 Stat. 1664, 1976; Pub. L. 113–79, title VII, § 7103, Feb. 7, 2014, 128 Stat. 864; Pub. L. 115–334, title VII, § 7104, Dec. 20, 2018, 132 Stat. 4783; Pub. L. 117–286, § 4(a)(32), Dec. 27, 2022, 136 Stat. 4308.)
+(Pub. L. 95–113, title XIV, § 1408A, as added Pub. L. 108–465, title III, § 303, Dec. 21, 2004, 118 Stat. 3885; amended Pub. L. 110–234, title VII, § 7103, May 22, 2008, 122 Stat. 1215; Pub. L. 110–246, § 4(a), title VII, § 7103, June 18, 2008, 122 Stat. 1664, 1976; Pub. L. 113–79, title VII, § 7103, Feb. 7, 2014, 128 Stat. 864; Pub. L. 115–334, title VII, § 7104, Dec. 20, 2018, 132 Stat. 4783; Pub. L. 117–286, § 4(a)(32), Dec. 27, 2022, 136 Stat. 4308.)
 
 **Editorial Notes**
 
@@ -1199,45 +1199,45 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 3123a, Pub. L. 95–113, title XIV, § 1408A, as added Pub. L. 101–624, title XVI, § 1605(a), Nov. 28, 1990, 104 Stat. 3711; amended Pub. L. 102–237, title IV, § 402(3), (4), Dec. 13, 1991, 105 Stat. 1863, related to establishment of Agricultural Science and Technology Review Board, prior to repeal by Pub. L. 104–127, title VIII, § 853(a), Apr. 4, 1996, 110 Stat. 1172.
+A prior section 3123a, Pub. L. 95–113, title XIV, § 1408A, as added Pub. L. 101–624, title XVI, § 1605(a), Nov. 28, 1990, 104 Stat. 3711; amended Pub. L. 102–237, title IV, § 402(3), (4), Dec. 13, 1991, 105 Stat. 1863, related to establishment of Agricultural Science and Technology Review Board, prior to repeal by Pub. L. 104–127, title VIII, § 853(a), Apr. 4, 1996, 110 Stat. 1172.
 
 **Amendments**
 
 2022—Subsec. (a)(2)(E). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “section 1008(c) of title 5” for “section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-2018—Subsec. (a)(2)(A). Pub. L. 115–334, § 7104(1), substituted “specialty” for “speciality”.
+2018—Subsec. (a)(2)(A). Pub. L. 115–334, § 7104(1), substituted “specialty” for “speciality”.
 
-Subsec. (a)(2)(B). Pub. L. 115–334, § 7104(2)(A), substituted “11” for “9” in introductory provisions.
+Subsec. (a)(2)(B). Pub. L. 115–334, § 7104(2)(A), substituted “11” for “9” in introductory provisions.
 
-Subsec. (a)(2)(B)(i). Pub. L. 115–334, § 7104(2)(B), substituted “Five” for “Three”.
+Subsec. (a)(2)(B)(i). Pub. L. 115–334, § 7104(2)(B), substituted “Five” for “Three”.
 
-Subsec. (a)(2)(D). Pub. L. 115–334, § 7104(3), substituted “2023” for “2018”.
+Subsec. (a)(2)(D). Pub. L. 115–334, § 7104(3), substituted “2023” for “2018”.
 
-2014—Subsec. (a). Pub. L. 113–79, § 7103(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+2014—Subsec. (a). Pub. L. 113–79, § 7103(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (b). Pub. L. 113–79, § 7103(b), designated first sentence of existing provisions as par. (1) and second sentence as par. (2), inserted headings, and added par. (3).
+Subsec. (b). Pub. L. 113–79, § 7103(b), designated first sentence of existing provisions as par. (1) and second sentence as par. (2), inserted headings, and added par. (3).
 
-Subsec. (c)(1). Pub. L. 113–79, § 7103(c)(1), substituted “Programs” for “Measures”.
+Subsec. (c)(1). Pub. L. 113–79, § 7103(c)(1), substituted “Programs” for “Measures”.
 
-Subsec. (c)(2). Pub. L. 113–79, § 7103(c)(4)(A), substituted “Research, extension, and teaching programs designed to improve competitiveness in the specialty crop industry, including programs that would” for “Programs that would” in introductory provisions.
+Subsec. (c)(2). Pub. L. 113–79, § 7103(c)(4)(A), substituted “Research, extension, and teaching programs designed to improve competitiveness in the specialty crop industry, including programs that would” for “Programs that would” in introductory provisions.
 
-Pub. L. 113–79, § 7103(c)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Measures designed to improve competitiveness in research, extension, and economics programs affecting the specialty crop industry.”
+Pub. L. 113–79, § 7103(c)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Measures designed to improve competitiveness in research, extension, and economics programs affecting the specialty crop industry.”
 
-Subsec. (c)(2)(D). Pub. L. 113–79, § 7103(c)(4)(B), inserted “, including improving the quality and taste of processed specialty crops” before semicolon at end.
+Subsec. (c)(2)(D). Pub. L. 113–79, § 7103(c)(4)(B), inserted “, including improving the quality and taste of processed specialty crops” before semicolon at end.
 
-Subsec. (c)(2)(G). Pub. L. 113–79, § 7103(c)(4)(C), inserted “the remote sensing and the” before “mechanization”.
+Subsec. (c)(2)(G). Pub. L. 113–79, § 7103(c)(4)(C), inserted “the remote sensing and the” before “mechanization”.
 
-Subsec. (c)(3), (4). Pub. L. 113–79, § 7103(c)(3), redesignated pars. (4) and (5) as (3) and (4), respectively.
+Subsec. (c)(3), (4). Pub. L. 113–79, § 7103(c)(3), redesignated pars. (4) and (5) as (3) and (4), respectively.
 
-Subsec. (c)(5). Pub. L. 113–79, § 7103(c)(5), added par. (5). Former par. (5) redesignated (4).
+Subsec. (c)(5). Pub. L. 113–79, § 7103(c)(5), added par. (5). Former par. (5) redesignated (4).
 
-Subsecs. (d), (e). Pub. L. 113–79, § 7103(d)(1), (2), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 113–79, § 7103(d)(1), (2), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-Subsec. (f). Pub. L. 113–79, § 7103(d)(1), (3), redesignated subsec. (e) as (f) and substituted “subsection (e)” for “subsection (d)”.
+Subsec. (f). Pub. L. 113–79, § 7103(d)(1), (3), redesignated subsec. (e) as (f) and substituted “subsection (e)” for “subsection (d)”.
 
-Subsec. (g). Pub. L. 113–79, § 7103(e), added subsec. (g).
+Subsec. (g). Pub. L. 113–79, § 7103(e), added subsec. (g).
 
-2008—Subsec. (c)(4), (5). Pub. L. 110–246, § 7103, added pars. (4) and (5).
+2008—Subsec. (c)(4), (5). Pub. L. 110–246, § 7103, added pars. (4) and (5).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1245,15 +1245,15 @@ Subsec. (g). Pub. L. 113–79, § 7103(e), added subsec. (g).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 3123b. Repealed. Pub. L. 115–334, title VII, § 7105, Dec. 20, 2018, 132 Stat. 4783
+### § 3123b. Repealed. Pub. L. 115–334, title VII, § 7105, Dec. 20, 2018, 132 Stat. 4783
 
-Section, Pub. L. 95–113, title XIV, § 1408B, as added Pub. L. 110–234, title VII, § 7104, May 22, 2008, 122 Stat. 1216, and Pub. L. 110–246, § 4(a), title VII, § 7104, June 18, 2008, 122 Stat. 1664, 1977, related to the establishment of a renewable energy committee.
+Section, Pub. L. 95–113, title XIV, § 1408B, as added Pub. L. 110–234, title VII, § 7104, May 22, 2008, 122 Stat. 1216, and Pub. L. 110–246, § 4(a), title VII, § 7104, June 18, 2008, 122 Stat. 1664, 1977, related to the establishment of a renewable energy committee.
 
-### § 3124. Existing research programs
+### § 3124. Existing research programs
 
 It is the intent of Congress in enacting this chapter to augment, coordinate, and supplement the planning, initiation, and conduct of agricultural research programs existing prior to September 29, 1977, except that it is not the intent of Congress in enacting this title to limit the authority of the Secretary of Health and Human Services under any Act which the Secretary of Health and Human Services administers.
 
-(Pub. L. 95–113, title XIV, § 1409, Sept. 29, 1977, 91 Stat. 989; Pub. L. 97–98, title XIV, § 1409, Dec. 22, 1981, 95 Stat. 1301.)
+(Pub. L. 95–113, title XIV, § 1409, Sept. 29, 1977, 91 Stat. 989; Pub. L. 97–98, title XIV, § 1409, Dec. 22, 1981, 95 Stat. 1301.)
 
 **Editorial Notes**
 
@@ -1275,7 +1275,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3124a. Federal-State partnership and coordination
+### § 3124a. Federal-State partnership and coordination
 
 **(a) Covered programs; statement of purposes** A unique partnership arrangement exists in food and agricultural research, extension, and teaching between the Federal Government and the governments of the several States whereby the States have accepted and have supported, through legislation and appropriations—
 
@@ -1345,7 +1345,7 @@ Chapter 10 of title 5 and title XVIII of this Act [7 U.S.C. 2281 et seq.] shall 
 
 **(II)** a public college or university or other postsecondary institution.
 
-(Pub. L. 95–113, title XIV, § 1409A, as added Pub. L. 97–98, title XIV, § 1410(a), Dec. 22, 1981, 95 Stat. 1301; amended Pub. L. 99–198, title XIV, § 1407, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, § 1601(f)(1)(B), Nov. 28, 1990, 104 Stat. 3704; Pub. L. 104–127, title VIII, § 803, Apr. 4, 1996, 110 Stat. 1159; Pub. L. 117–286, § 4(a)(33), Dec. 27, 2022, 136 Stat. 4308.)
+(Pub. L. 95–113, title XIV, § 1409A, as added Pub. L. 97–98, title XIV, § 1410(a), Dec. 22, 1981, 95 Stat. 1301; amended Pub. L. 99–198, title XIV, § 1407, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, § 1601(f)(1)(B), Nov. 28, 1990, 104 Stat. 3704; Pub. L. 104–127, title VIII, § 803, Apr. 4, 1996, 110 Stat. 1159; Pub. L. 117–286, § 4(a)(33), Dec. 27, 2022, 136 Stat. 4308.)
 
 **Editorial Notes**
 
@@ -1353,33 +1353,33 @@ Chapter 10 of title 5 and title XVIII of this Act [7 U.S.C. 2281 et seq.] shall 
 
 Act of March 2, 1887, referred to in subsec. (a)(1)(A), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
-Act of October 10, 1962, referred to in subsec. (a)(1)(B), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
+Act of October 10, 1962, referred to in subsec. (a)(1)(B), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 
-Act of May 8, 1914, referred to in subsec. (a)(2), is act May 8, 1914, ch. 79, 38 Stat. 372, popularly known as the Smith-Lever Act, which is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
+Act of May 8, 1914, referred to in subsec. (a)(2), is act May 8, 1914, ch. 79, 38 Stat. 372, popularly known as the Smith-Lever Act, which is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
 
-Act of July 2, 1862, referred to in subsec. (a)(3)(A), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (a)(3)(A), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, referred to in subsec. (a)(3)(B), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (a)(3)(B), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 Act of June 29, 1935, referred to in subsec. (a)(3)(C), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly known as the Bankhead-Jones Act and as the Agricultural Research Act. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note under section 3101 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Title XII of the Foreign Assistance Act of 1961 probably means title XII of chapter 2 of part I of the Act, which is classified generally to subpart XII (§ 2220a et seq.) of part II of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Title XII of the Foreign Assistance Act of 1961 probably means title XII of chapter 2 of part I of the Act, which is classified generally to subpart XII (§ 2220a et seq.) of part II of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
-Title XVIII of this Act, referred to in subsec. (e)(2), is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, which is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
+Title XVIII of this Act, referred to in subsec. (e)(2), is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, which is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
 **Amendments**
 
-2022—Subsec. (e). Pub. L. 117–286, § 4(a)(33)(A), substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading.
+2022—Subsec. (e). Pub. L. 117–286, § 4(a)(33)(A), substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading.
 
-Subsec. (e)(2). Pub. L. 117–286, § 4(a)(33)(B), substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
+Subsec. (e)(2). Pub. L. 117–286, § 4(a)(33)(B), substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
 1996—Subsec. (e). Pub. L. 104–127 added subsec. (e).
 
 1990—Subsecs. (c) to (e). Pub. L. 101–624 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “In order to meet the increasing needs of consumers and to promote the health and welfare of people, the Secretary shall ensure that the cooperative research, extension, and teaching programs of the various States adequately address the challenges described in paragraph (10) of section 3101 of this title. The Secretary may implement new cooperative initiatives in home economics and related disciplines to address such challenges.”
 
-1985—Subsec. (a)(4). Pub. L. 99–198, § 1407(a), added par. (4).
+1985—Subsec. (a)(4). Pub. L. 99–198, § 1407(a), added par. (4).
 
-Subsecs. (d), (e). Pub. L. 99–198, § 1407(b), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 99–198, § 1407(b), added subsecs. (d) and (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1387,7 +1387,7 @@ Subsecs. (d), (e). Pub. L. 99–198, § 1407(b), added subsecs. (d) and (e).
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### § 3125. Annual report of Secretary of Agriculture to President and Congress
+### § 3125. Annual report of Secretary of Agriculture to President and Congress
 
 The Secretary shall submit to the President and Congress by January 1 of each year a report on the Nation’s agricultural research, extension, and teaching activities, and such report shall include—
 
@@ -1403,7 +1403,7 @@ The Secretary shall submit to the President and Congress by January 1 of each ye
 
 **(3)** in the second and succeeding years, a five-year projection of national priorities with respect to agricultural research, extension, and teaching, taking into account both domestic and international needs.
 
-(Pub. L. 95–113, title XIV, § 1410, Sept. 29, 1977, 91 Stat. 989; Pub. L. 97–98, title XIV, § 1411, Dec. 22, 1981, 95 Stat. 1302; Pub. L. 99–198, title XIV, § 1408, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XVI, § 1605(b)(4), Nov. 28, 1990, 104 Stat. 3714; Pub. L. 104–127, title VIII, §§ 802(b)(2), 852(b)(2), 853(b)(3), Apr. 4, 1996, 110 Stat. 1159, 1171, 1172.)
+(Pub. L. 95–113, title XIV, § 1410, Sept. 29, 1977, 91 Stat. 989; Pub. L. 97–98, title XIV, § 1411, Dec. 22, 1981, 95 Stat. 1302; Pub. L. 99–198, title XIV, § 1408, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XVI, § 1605(b)(4), Nov. 28, 1990, 104 Stat. 3714; Pub. L. 104–127, title VIII, §§ 802(b)(2), 852(b)(2), 853(b)(3), Apr. 4, 1996, 110 Stat. 1159, 1171, 1172.)
 
 **Editorial Notes**
 
@@ -1431,7 +1431,7 @@ Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as
 
 For termination, effective May 15, 2000, of provisions of this section relating to submittal to Congress of annual report on agricultural research, extension, and teaching activities, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 44 of House Document No. 103–7.
 
-### § 3125a. National Agricultural Library
+### § 3125a. National Agricultural Library
 
 **(a) Purpose**
 
@@ -1487,13 +1487,13 @@ Funds received under this subsection for payments for library products and servi
 
 There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out this section.
 
-(Pub. L. 95–113, title XIV, § 1410A, as added Pub. L. 101–624, title XVI, § 1606(a), Nov. 28, 1990, 104 Stat. 3714.)
+(Pub. L. 95–113, title XIV, § 1410A, as added Pub. L. 101–624, title XVI, § 1606(a), Nov. 28, 1990, 104 Stat. 3714.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Enhanced Use Lease Authority Program**
 
-Pub. L. 103–354, title III, § 308, as added by Pub. L. 110–234, title VII, § 7409, May 22, 2008, 122 Stat. 1252, and Pub. L. 110–246, § 4(a), title VII, § 7409, June 18, 2008, 122 Stat. 1664, 2014; Pub. L. 113–79, title VII, §§ 7511, 7605, Feb. 7, 2014, 128 Stat. 901, 912; Pub. L. 115–334, title VII, § 7601, Dec. 20, 2018, 132 Stat. 4825, provided that:
+Pub. L. 103–354, title III, § 308, as added by Pub. L. 110–234, title VII, § 7409, May 22, 2008, 122 Stat. 1252, and Pub. L. 110–246, § 4(a), title VII, § 7409, June 18, 2008, 122 Stat. 1664, 2014; Pub. L. 113–79, title VII, §§ 7511, 7605, Feb. 7, 2014, 128 Stat. 901, 912; Pub. L. 115–334, title VII, § 7601, Dec. 20, 2018, 132 Stat. 4825, provided that:
 
 > **“(a) Establishment.—** To enhance the use of real property administered by agencies of the Department, the Secretary may establish a program, in accordance with this section, at the Beltsville Agricultural Research Center of the Agricultural Research Service and the National Agricultural Library to lease nonexcess property of the Center or the Library to any individual or entity, including agencies or instrumentalities of State or local governments.
 
@@ -1569,7 +1569,7 @@ Pub. L. 103–354, title III, § 308, as added by Pub. L. 110–234, title VII
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
-### § 3125a–1. Agricultural and food law research, legal tools, and information
+### § 3125a–1. Agricultural and food law research, legal tools, and information
 
 **(a) Partnerships**
 
@@ -1579,7 +1579,7 @@ The Secretary of Agriculture, acting through the National Agricultural Library, 
 
 There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2014 and each fiscal year thereafter.
 
-(Pub. L. 113–79, title VII, § 7603, Feb. 7, 2014, 128 Stat. 911.)
+(Pub. L. 113–79, title VII, § 7603, Feb. 7, 2014, 128 Stat. 911.)
 
 **Editorial Notes**
 
@@ -1587,7 +1587,7 @@ There are authorized to be appropriated to carry out this section $5,000,000 for
 
 Section was enacted as part of the Agricultural Act of 2014, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
 
-### § 3125b. National Rural Information Center Clearinghouse
+### § 3125b. National Rural Information Center Clearinghouse
 
 **(a) Establishment**
 
@@ -1609,7 +1609,7 @@ The Secretary shall request State and local governments and private nonprofit or
 
 To carry out this section, there are authorized to be appropriated $500,000 for each of the fiscal years 1991 through 2023.
 
-(Pub. L. 101–624, title XXIII, § 2381, Nov. 28, 1990, 104 Stat. 4049; Pub. L. 104–127, title VIII, § 842, Apr. 4, 1996, 110 Stat. 1170; Pub. L. 105–185, title III, § 301(b)(3), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, § 7101, May 13, 2002, 116 Stat. 431; Pub. L. 110–234, title VII, §§ 7212, 7511(c)(9), May 22, 2008, 122 Stat. 1242, 1268; Pub. L. 110–246, § 4(a), title VII, §§ 7212, 7511(c)(9), June 18, 2008, 122 Stat. 1664, 2003, 2029; Pub. L. 113–79, title VII, § 7217, Feb. 7, 2014, 128 Stat. 887; Pub. L. 115–334, title VII, § 7215, Dec. 20, 2018, 132 Stat. 4814.)
+(Pub. L. 101–624, title XXIII, § 2381, Nov. 28, 1990, 104 Stat. 4049; Pub. L. 104–127, title VIII, § 842, Apr. 4, 1996, 110 Stat. 1170; Pub. L. 105–185, title III, § 301(b)(3), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, § 7101, May 13, 2002, 116 Stat. 431; Pub. L. 110–234, title VII, §§ 7212, 7511(c)(9), May 22, 2008, 122 Stat. 1242, 1268; Pub. L. 110–246, § 4(a), title VII, §§ 7212, 7511(c)(9), June 18, 2008, 122 Stat. 1664, 2003, 2029; Pub. L. 113–79, title VII, § 7217, Feb. 7, 2014, 128 Stat. 887; Pub. L. 115–334, title VII, § 7215, Dec. 20, 2018, 132 Stat. 4814.)
 
 **Editorial Notes**
 
@@ -1625,9 +1625,9 @@ Section was enacted as part of the Rural Economic Development Act of 1990, and a
 
 2014—Subsec. (e). Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 7511(c)(9), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+2008—Subsec. (a). Pub. L. 110–246, § 7511(c)(9), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
-Subsec. (e). Pub. L. 110–246, § 7212, substituted “2012” for “2007”.
+Subsec. (e). Pub. L. 110–246, § 7212, substituted “2012” for “2007”.
 
 2002—Subsec. (e). Pub. L. 107–171 substituted “2007” for “2002”.
 
@@ -1643,11 +1643,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 7511(c)(9) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 
-### § 3125c. Repealed. Pub. L. 104–127, title VIII, § 859(a), Apr. 4, 1996, 110 Stat. 1173
+### § 3125c. Repealed. Pub. L. 104–127, title VIII, § 859(a), Apr. 4, 1996, 110 Stat. 1173
 
-Section, Pub. L. 101–624, title XIV, § 1499A, as added Pub. L. 102–237, title II, § 201(h)(1), Dec. 13, 1991, 105 Stat. 1847, related to education program regarding handling of agricultural chemicals and agricultural chemical containers.
+Section, Pub. L. 101–624, title XIV, § 1499A, as added Pub. L. 102–237, title II, § 201(h)(1), Dec. 13, 1991, 105 Stat. 1847, related to education program regarding handling of agricultural chemicals and agricultural chemical containers.
 
-### § 3126. Libraries and information network
+### § 3126. Libraries and information network
 
 **(a) Congressional declaration of policy** It is declared to be the policy of Congress that—
 
@@ -1675,7 +1675,7 @@ Section, Pub. L. 101–624, title XIV, § 1499A, as added Pub. L. 102–237, t
 
 Funds are authorized to be appropriated annually in such amounts as Congress may determine necessary to support the purposes of this section. The Secretary is authorized to carry out this section with existing facilities through the use of grants, contracts, or such other means as the Secretary deems appropriate and to require matching of funds. No funds appropriated to support the purposes of this section shall be used to purchase additional equipment unless specifically authorized by law subsequent to September 29, 1977.
 
-(Pub. L. 95–113, title XIV, § 1411, Sept. 29, 1977, 91 Stat. 990; Pub. L. 97–98, title XIV, § 1412, Dec. 22, 1981, 95 Stat. 1302.)
+(Pub. L. 95–113, title XIV, § 1411, Sept. 29, 1977, 91 Stat. 990; Pub. L. 97–98, title XIV, § 1412, Dec. 22, 1981, 95 Stat. 1302.)
 
 **Editorial Notes**
 
@@ -1685,9 +1685,9 @@ For definition of “this chapter”, referred to in subsec. (b)(1), see note se
 
 **Amendments**
 
-1981—Subsec. (a)(6). Pub. L. 97–98, § 1412(1)–(3), added par. (6).
+1981—Subsec. (a)(6). Pub. L. 97–98, § 1412(1)–(3), added par. (6).
 
-Subsec. (b)(3). Pub. L. 97–98, § 1412(4), substituted “notification about these collections on a regular basis to the State cooperative extension services, State educational agencies, and other interested persons” for “for the dissemination of such information and materials on a regular basis to State educational agencies and other interested persons”.
+Subsec. (b)(3). Pub. L. 97–98, § 1412(4), substituted “notification about these collections on a regular basis to the State cooperative extension services, State educational agencies, and other interested persons” for “for the dissemination of such information and materials on a regular basis to State educational agencies and other interested persons”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1699,7 +1699,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3127. Support for Advisory Board
+### § 3127. Support for Advisory Board
 
 **(a) Appointment of staff** To assist the Advisory Board in the performance of its duties, the Secretary may appoint, after consultation with the chairperson of the Advisory Board—
 
@@ -1715,33 +1715,33 @@ The Secretary shall provide such additional clerical assistance and staff person
 
 In formulating its recommendations to the Secretary, the Advisory Board may obtain the assistance of Department of Agriculture employees, and, to the maximum extent practicable, the assistance of employees of other Federal departments and agencies conducting related programs of agricultural research, extension, and teaching and of appropriate representatives of colleges and universities, including State agricultural experiment stations, cooperative extension services, and other non-Federal organizations conducting significant programs in the food and agricultural sciences.
 
-(Pub. L. 95–113, title XIV, § 1412, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, § 1413, Dec. 22, 1981, 95 Stat. 1302; Pub. L. 101–624, title XVI, § 1605(b)(1), Nov. 28, 1990, 104 Stat. 3713; Pub. L. 102–237, title IV, § 402(5), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §§ 852(b)(3), 853(b)(4), Apr. 4, 1996, 110 Stat. 1171, 1172; Pub. L. 105–185, title VI, § 606(c)(1), June 23, 1998, 112 Stat. 603.)
+(Pub. L. 95–113, title XIV, § 1412, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, § 1413, Dec. 22, 1981, 95 Stat. 1302; Pub. L. 101–624, title XVI, § 1605(b)(1), Nov. 28, 1990, 104 Stat. 3713; Pub. L. 102–237, title IV, § 402(5), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §§ 852(b)(3), 853(b)(4), Apr. 4, 1996, 110 Stat. 1171, 1172; Pub. L. 105–185, title VI, § 606(c)(1), June 23, 1998, 112 Stat. 603.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsecs. (a), (b). Pub. L. 105–185, § 606(c)(1)(A), substituted “its duties” for “their duties”.
+1998—Subsecs. (a), (b). Pub. L. 105–185, § 606(c)(1)(A), substituted “its duties” for “their duties”.
 
-Subsec. (c). Pub. L. 105–185, § 606(c)(1)(B), substituted “its recommendations” for “their recommendations”.
+Subsec. (c). Pub. L. 105–185, § 606(c)(1)(B), substituted “its recommendations” for “their recommendations”.
 
-1996—Pub. L. 104–127, §§ 852(b)(3)(A), 853(b)(4)(A), in section catchline, substituted “Advisory Board” for “Joint Council, Advisory Board, and Technology Board”.
+1996—Pub. L. 104–127, §§ 852(b)(3)(A), 853(b)(4)(A), in section catchline, substituted “Advisory Board” for “Joint Council, Advisory Board, and Technology Board”.
 
-Subsec. (a). Pub. L. 104–127, §§ 852(b)(3)(B)(i), (ii), 853(b)(4)(B)(i), in introductory provisions, substituted “To assist the Advisory Board in” for “To assist the Joint Council, the Advisory Board, and the Technology Board in” and “with the chairperson of the Advisory Board” for “with the cochairpersons of the Joint Council and the chairperson of the Advisory Board and the Technology Board”.
+Subsec. (a). Pub. L. 104–127, §§ 852(b)(3)(B)(i), (ii), 853(b)(4)(B)(i), in introductory provisions, substituted “To assist the Advisory Board in” for “To assist the Joint Council, the Advisory Board, and the Technology Board in” and “with the chairperson of the Advisory Board” for “with the cochairpersons of the Joint Council and the chairperson of the Advisory Board and the Technology Board”.
 
-Subsec. (a)(1). Pub. L. 104–127, §§ 852(b)(3)(B)(ii), 853(b)(4)(B)(i), substituted “the chairperson of the Advisory Board” for “the cochairpersons of the Joint Council and the chairperson of the Advisory Board and the Technology Board”.
+Subsec. (a)(1). Pub. L. 104–127, §§ 852(b)(3)(B)(ii), 853(b)(4)(B)(i), substituted “the chairperson of the Advisory Board” for “the cochairpersons of the Joint Council and the chairperson of the Advisory Board and the Technology Board”.
 
-Subsec. (a)(2). Pub. L. 104–127, §§ 852(b)(3)(B)(iii), 853(b)(4)(B)(ii), substituted “one shall serve as the executive secretary to the Advisory Board” for “one shall serve as the executive secretary to the Joint Council, one shall serve as the executive secretary to the Advisory Board, and one shall serve as the executive secretary to the Technology Board”.
+Subsec. (a)(2). Pub. L. 104–127, §§ 852(b)(3)(B)(iii), 853(b)(4)(B)(ii), substituted “one shall serve as the executive secretary to the Advisory Board” for “one shall serve as the executive secretary to the Joint Council, one shall serve as the executive secretary to the Advisory Board, and one shall serve as the executive secretary to the Technology Board”.
 
-Subsecs. (b), (c). Pub. L. 104–127, §§ 852(b)(3)(C), 853(b)(4)(C), substituted “Advisory Board” for “Joint Council, Advisory Board, and Technology Board”.
+Subsecs. (b), (c). Pub. L. 104–127, §§ 852(b)(3)(C), 853(b)(4)(C), substituted “Advisory Board” for “Joint Council, Advisory Board, and Technology Board”.
 
-1991—Subsecs. (b), (c). Pub. L. 102–237 substituted “, Advisory Board, and Technology Board” for “and Advisory Board”.
+1991—Subsecs. (b), (c). Pub. L. 102–237 substituted “, Advisory Board, and Technology Board” for “and Advisory Board”.
 
-1990—Pub. L. 101–624, § 1605(b)(1)(A), amended section catchline generally.
+1990—Pub. L. 101–624, § 1605(b)(1)(A), amended section catchline generally.
 
-Subsec. (a). Pub. L. 101–624, § 1605(b)(1)(B), in introductory provision, substituted “, the Advisory Board, and the Technology Board” for “and the Advisory Board” and inserted “and the Technology Board” before the dash, in par. (1), inserted “and the Technology Board” before “may direct”, and in par. (2), substituted “Council,” for “Council and” and inserted before period at end “, and one shall serve as the executive secretary to the Technology Board”.
+Subsec. (a). Pub. L. 101–624, § 1605(b)(1)(B), in introductory provision, substituted “, the Advisory Board, and the Technology Board” for “and the Advisory Board” and inserted “and the Technology Board” before the dash, in par. (1), inserted “and the Technology Board” before “may direct”, and in par. (2), substituted “Council,” for “Council and” and inserted before period at end “, and one shall serve as the executive secretary to the Technology Board”.
 
-Subsecs. (b), (c). Pub. L. 101–624, § 1605(b)(1)(C), (D), which directed the substitution of “, the Advisory Board, and the Technology Board” for “and the Advisory Board”, could not be executed because the phrase “and the Advisory Board” did not appear in text.
+Subsecs. (b), (c). Pub. L. 101–624, § 1605(b)(1)(C), (D), which directed the substitution of “, the Advisory Board, and the Technology Board” for “and the Advisory Board”, could not be executed because the phrase “and the Advisory Board” did not appear in text.
 
 1981—Subsec. (a). Pub. L. 97–98 inserted in provision preceding par. (1) provision requiring consultation with the cochairpersons of the Joint Council and the chairperson of the Advisory Board, redesignated former par. (2) as (1) and substituted provision that a full-time executive director perform such duties as the cochairpersons of the Joint Council and chairperson of the Advisory Board direct for provision that an executive director perform such duties as the chairman of the Joint Council and the chairman of the Advisory Board direct, and redesignated former par. (1) as (2) and inserted provision that one of the full-time staff serve as the executive secretary to the Joint Council and one serve as executive secretary to the Advisory Board.
 
@@ -1757,9 +1757,9 @@ Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 3128. General provisions
+### § 3128. General provisions
 
 **(a) Vacancies in Advisory Board**
 
@@ -1773,7 +1773,7 @@ Members of the Advisory Board shall serve without compensation, if not otherwise
 
 There are authorized to be appropriated annually such sums as Congress may determine necessary to carry out the provisions of section 3127 of this title and subsection (b) of this section.
 
-(Pub. L. 95–113, title XIV, § 1413, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, § 1414(a), Dec. 22, 1981, 95 Stat. 1303; Pub. L. 101–624, title XVI, § 1605(b)(2), Nov. 28, 1990, 104 Stat. 3713; Pub. L. 103–354, title II, § 218(e)(7), Oct. 13, 1994, 108 Stat. 3213; Pub. L. 104–127, title VIII, §§ 852(b)(4), 853(b)(5), Apr. 4, 1996, 110 Stat. 1171, 1172; Pub. L. 105–185, title VI, § 606(b), (c)(2), June 23, 1998, 112 Stat. 603, 604.)
+(Pub. L. 95–113, title XIV, § 1413, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, § 1414(a), Dec. 22, 1981, 95 Stat. 1303; Pub. L. 101–624, title XVI, § 1605(b)(2), Nov. 28, 1990, 104 Stat. 3713; Pub. L. 103–354, title II, § 218(e)(7), Oct. 13, 1994, 108 Stat. 3213; Pub. L. 104–127, title VIII, §§ 852(b)(4), 853(b)(5), Apr. 4, 1996, 110 Stat. 1171, 1172; Pub. L. 105–185, title VI, § 606(b), (c)(2), June 23, 1998, 112 Stat. 603, 604.)
 
 **Editorial Notes**
 
@@ -1783,23 +1783,23 @@ For definition of “this chapter”, referred to in subsec. (b), see note set o
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–185, § 606(c)(2), substituted “its duties” for “their powers”.
+1998—Subsec. (a). Pub. L. 105–185, § 606(c)(2), substituted “its duties” for “their powers”.
 
-Subsec. (b). Pub. L. 105–185, § 606(b), substituted “Advisory Board” for “Joint Council, the Advisory Board,”.
+Subsec. (b). Pub. L. 105–185, § 606(b), substituted “Advisory Board” for “Joint Council, the Advisory Board,”.
 
-1996—Subsec. (a). Pub. L. 104–127, §§ 852(b)(4)(A), 853(b)(5)(A), substituted “the Advisory Board” for “the Joint Council, the Advisory Board, or the Technology Board”.
+1996—Subsec. (a). Pub. L. 104–127, §§ 852(b)(4)(A), 853(b)(5)(A), substituted “the Advisory Board” for “the Joint Council, the Advisory Board, or the Technology Board”.
 
-Subsec. (b). Pub. L. 104–127, § 853(b)(5)(B), struck out “and the Technology Board” before “shall serve without”.
+Subsec. (b). Pub. L. 104–127, § 853(b)(5)(B), struck out “and the Technology Board” before “shall serve without”.
 
-Pub. L. 104–127, § 852(b)(4)(B), which directed substitution of “Advisory Board” for “Joint Council, Advisory Board,” could not be executed because those words did not appear in text.
+Pub. L. 104–127, § 852(b)(4)(B), which directed substitution of “Advisory Board” for “Joint Council, Advisory Board,” could not be executed because those words did not appear in text.
 
 1994—Subsec. (d). Pub. L. 103–354 struck out subsec. (d) which read as follows: “The President shall appoint, by and with the advice and consent of the Senate, an Assistant Secretary of Agriculture who shall perform such duties as are necessary to carry out this chapter and who shall receive compensation at the rate now or hereafter prescribed by law for Assistant Secretaries of Agriculture.”
 
-1990—Subsec. (a). Pub. L. 101–624, § 1605(b)(2)(A), substituted “, the Advisory Board, or the Technology Board” for “or the Advisory Board”.
+1990—Subsec. (a). Pub. L. 101–624, § 1605(b)(2)(A), substituted “, the Advisory Board, or the Technology Board” for “or the Advisory Board”.
 
-Subsec. (b). Pub. L. 101–624, § 1605(b)(2)(B), substituted “, the Advisory Board, and the Technology Board” for “and Advisory Board”.
+Subsec. (b). Pub. L. 101–624, § 1605(b)(2)(B), substituted “, the Advisory Board, and the Technology Board” for “and Advisory Board”.
 
-Subsecs. (d), (e). Pub. L. 101–624, § 1605(b)(2)(C), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The Subcommittee on Food, Agricultural, and Forestry Research, the Joint Council, and the Advisory Board shall improve communication and interaction among themselves and with others in the agricultural science and education system through such mechanisms as the exchange of reports, joint meetings, and the use of liaison representatives.”
+Subsecs. (d), (e). Pub. L. 101–624, § 1605(b)(2)(C), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The Subcommittee on Food, Agricultural, and Forestry Research, the Joint Council, and the Advisory Board shall improve communication and interaction among themselves and with others in the agricultural science and education system through such mechanisms as the exchange of reports, joint meetings, and the use of liaison representatives.”
 
 1981—Subsecs. (c) to (e). Pub. L. 97–98 added subsecs. (c) to (e).
 
@@ -1813,7 +1813,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3129. Accountability
+### § 3129. Accountability
 
 **(a) Review of information technology systems**
 
@@ -1831,7 +1831,7 @@ The Secretary shall develop and implement the system in a manner consistent with
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Pub. L. 95–113, title XIV, § 1413A, as added Pub. L. 104–127, title VIII, § 804, Apr. 4, 1996, 110 Stat. 1160.)
+(Pub. L. 95–113, title XIV, § 1413A, as added Pub. L. 104–127, title VIII, § 804, Apr. 4, 1996, 110 Stat. 1160.)
 
 **Editorial Notes**
 
@@ -1841,31 +1841,31 @@ The Government Performance and Results Act of 1993, referred to in subsec. (c), 
 
 **Prior Provisions**
 
-A prior section 3129, Pub. L. 95–113, title XIV, § 1413A, as added Pub. L. 96–294, title II, § 255(a), June 30, 1980, 94 Stat. 707, provided for biomass energy educational and technical assistance programs, prior to repeal by Pub. L. 101–624, title XVI, § 1601(f)(1)(C), Nov. 28, 1990, 104 Stat. 3704.
+A prior section 3129, Pub. L. 95–113, title XIV, § 1413A, as added Pub. L. 96–294, title II, § 255(a), June 30, 1980, 94 Stat. 707, provided for biomass energy educational and technical assistance programs, prior to repeal by Pub. L. 101–624, title XVI, § 1601(f)(1)(C), Nov. 28, 1990, 104 Stat. 3704.
 
-### § 3129a. Exemption from chapter 10 of title 5 for competitive research, extension, and education programs
+### § 3129a. Exemption from chapter 10 of title 5 for competitive research, extension, and education programs
 
 Chapter 10 of title 5 and title XVIII of this Act [7 U.S.C. 2281 et seq.] shall not apply to any committee, board, commission, panel, or task force, or similar entity, created solely for the purpose of reviewing applications or proposals requesting funding under any competitive research, extension, or education program carried out by the Secretary.
 
-(Pub. L. 95–113, title XIV, § 1413B, as added Pub. L. 104–127, title VIII, § 804, Apr. 4, 1996, 110 Stat. 1160; amended Pub. L. 117–286, § 4(a)(34), Dec. 27, 2022, 136 Stat. 4309.)
+(Pub. L. 95–113, title XIV, § 1413B, as added Pub. L. 104–127, title VIII, § 804, Apr. 4, 1996, 110 Stat. 1160; amended Pub. L. 117–286, § 4(a)(34), Dec. 27, 2022, 136 Stat. 4309.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title XVIII of this Act, referred to in text, is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, which is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
+Title XVIII of this Act, referred to in text, is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, which is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
 **Amendments**
 
 Pub. L. 117–286 substituted “Exemption from chapter 10 of title 5” for “Federal Advisory Committee Act exemption” in section catchline and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-### § 3130. Repealed. Pub. L. 104–127, title VIII, § 858, Apr. 4, 1996, 110 Stat. 1173
+### § 3130. Repealed. Pub. L. 104–127, title VIII, § 858, Apr. 4, 1996, 110 Stat. 1173
 
-Section, Pub. L. 101–624, title XIV, § 1456, Nov. 28, 1990, 104 Stat. 3614, related to composting research and extension program.
+Section, Pub. L. 101–624, title XIV, § 1456, Nov. 28, 1990, 104 Stat. 3614, related to composting research and extension program.
 
 ## SUBCHAPTER III—AGRICULTURAL RESEARCH AND EDUCATION GRANTS AND FELLOWSHIPS
 
-### § 3151. Grants to enhance research capacity in schools of veterinary medicine
+### § 3151. Grants to enhance research capacity in schools of veterinary medicine
 
 **(a) Competitive grant program**
 
@@ -1893,7 +1893,7 @@ Notwithstanding clause (1) of this subsection, no State which the Secretary dete
 
 **(2)** The remainder shall be apportioned and distributed by the Secretary to those States which have applied for funds under this section on such basis as the Secretary may deem appropriate.
 
-(Pub. L. 95–113, title XIV, § 1415, Sept. 29, 1977, 91 Stat. 993; Pub. L. 97–98, title XIV, § 1417, Dec. 22, 1981, 95 Stat. 1305; Pub. L. 99–198, title XIV, § 1410, Dec. 23, 1985, 99 Stat. 1547; Pub. L. 101–624, title XVI, § 1607(a), (b), Nov. 28, 1990, 104 Stat. 3716; Pub. L. 113–79, title VII, § 7128(b)(1)(A), Feb. 7, 2014, 128 Stat. 878; Pub. L. 115–334, title VII, § 7614(b)(1)(A), Dec. 20, 2018, 132 Stat. 4833.)
+(Pub. L. 95–113, title XIV, § 1415, Sept. 29, 1977, 91 Stat. 993; Pub. L. 97–98, title XIV, § 1417, Dec. 22, 1981, 95 Stat. 1305; Pub. L. 99–198, title XIV, § 1410, Dec. 23, 1985, 99 Stat. 1547; Pub. L. 101–624, title XVI, § 1607(a), (b), Nov. 28, 1990, 104 Stat. 3716; Pub. L. 113–79, title VII, § 7128(b)(1)(A), Feb. 7, 2014, 128 Stat. 878; Pub. L. 115–334, title VII, § 7614(b)(1)(A), Dec. 20, 2018, 132 Stat. 4833.)
 
 **Editorial Notes**
 
@@ -1903,21 +1903,21 @@ Notwithstanding clause (1) of this subsection, no State which the Secretary dete
 
 2014—Subsec. (a). Pub. L. 113–79 struck out “This grant program shall be based on a matching formula of 50 per centum Federal and 50 per centum State funding.” at end.
 
-1990—Pub. L. 101–624, § 1607(b)(1), amended section catchline generally.
+1990—Pub. L. 101–624, § 1607(b)(1), amended section catchline generally.
 
-Subsec. (a). Pub. L. 101–624, § 1607(b)(1), inserted heading.
+Subsec. (a). Pub. L. 101–624, § 1607(b)(1), inserted heading.
 
-Pub. L. 101–624, § 1607(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The Secretary shall conduct a program of grants to States for the purpose of meeting the costs of construction, employing faculty, acquiring equipment, and taking other action relating to the initial establishment and initial operation of schools of veterinary medicine, or the expansion of existing schools of veterinary medicine, as determned [sic] by the Secretary by regulations.”
+Pub. L. 101–624, § 1607(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The Secretary shall conduct a program of grants to States for the purpose of meeting the costs of construction, employing faculty, acquiring equipment, and taking other action relating to the initial establishment and initial operation of schools of veterinary medicine, or the expansion of existing schools of veterinary medicine, as determned [sic] by the Secretary by regulations.”
 
-Subsec. (b). Pub. L. 101–624, § 1607(b)(2), inserted heading.
+Subsec. (b). Pub. L. 101–624, § 1607(b)(2), inserted heading.
 
-Subsec. (b)(1). Pub. L. 101–624, § 1607(a)(2), struck out “, or has made a reasonable effort to establish,” after “established”, and “and” after “States;”.
+Subsec. (b)(1). Pub. L. 101–624, § 1607(a)(2), struck out “, or has made a reasonable effort to establish,” after “established”, and “and” after “States;”.
 
-Subsec. (b)(2). Pub. L. 101–624, § 1607(a)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the clinical training of the school to be established or expanded shall emphasize care and preventive medical programs for food-producing animals.”
+Subsec. (b)(2). Pub. L. 101–624, § 1607(a)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the clinical training of the school to be established or expanded shall emphasize care and preventive medical programs for food-producing animals.”
 
-Subsec. (b)(3). Pub. L. 101–624, § 1607(a)(3), added par. (3).
+Subsec. (b)(3). Pub. L. 101–624, § 1607(a)(3), added par. (3).
 
-Subsec. (c). Pub. L. 101–624, § 1607(b)(3), inserted heading.
+Subsec. (c). Pub. L. 101–624, § 1607(b)(3), inserted heading.
 
 1985—Subsec. (c)(1). Pub. L. 99–198 substituted “Five” for “Four”.
 
@@ -1927,7 +1927,7 @@ Subsec. (c). Pub. L. 101–624, § 1607(b)(3), inserted heading.
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–334, title VII, § 7614(c), Dec. 20, 2018, 132 Stat. 4837, provided that:
+Pub. L. 115–334, title VII, § 7614(c), Dec. 20, 2018, 132 Stat. 4837, provided that:
 
 > **“(1) Awards made after date of enactment.—** The amendments made by subsections (a) [repealing section 3371 of this title] and (b) [amending this section and sections 3157, 3322, 3333, 5813, 5924, 5925, 5925b, 7626, 7632, and 8114 of this title] shall apply with respect to grants, cooperative agreements, or other awards described in subsection (b) that are made after the date of the enactment of this Act [Dec. 20, 2018].
 
@@ -1935,7 +1935,7 @@ Pub. L. 115–334, title VII, § 7614(c), Dec. 20, 2018, 132 Stat. 4837, provi
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–79, title VII, § 7128(c)(2), Feb. 7, 2014, 128 Stat. 879, provided that: “Notwithstanding the amendments made by subsection (b) [amending this section and sections 3157, 3322, 3333, 5813, 5924, 5925, 5925b, 7626, 7632, and 8114 of this title], a matching funds requirement in effect on or before the date of the enactment of this section [Feb. 7, 2014] under a provision of a covered law shall continue to apply to a grant awarded under such provision on or before October 1, 2014.”
+Pub. L. 113–79, title VII, § 7128(c)(2), Feb. 7, 2014, 128 Stat. 879, provided that: “Notwithstanding the amendments made by subsection (b) [amending this section and sections 3157, 3322, 3333, 5813, 5924, 5925, 5925b, 7626, 7632, and 8114 of this title], a matching funds requirement in effect on or before the date of the enactment of this section [Feb. 7, 2014] under a provision of a covered law shall continue to apply to a grant awarded under such provision on or before October 1, 2014.”
 
 **Effective Date of 1981 Amendment**
 
@@ -1945,7 +1945,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3151a. Veterinary medicine loan repayment
+### § 3151a. Veterinary medicine loan repayment
 
 **(a) Program**
 
@@ -2029,7 +2029,7 @@ Notwithstanding subchapter II of chapter 5 of title 5, not later than 270 days a
 
 There are authorized to be appropriated for carrying out this section such sums as may be necessary and such sums shall remain available to the Secretary for the purposes of this section until expended.
 
-(Pub. L. 95–113, title XIV, § 1415A, as added Pub. L. 108–161, § 2, Dec. 6, 2003, 117 Stat. 2014; amended Pub. L. 110–234, title VII, § 7105(a), May 22, 2008, 122 Stat. 1216; Pub. L. 110–246, § 4(a), title VII, § 7105(a), June 18, 2008, 122 Stat. 1664, 1977.)
+(Pub. L. 95–113, title XIV, § 1415A, as added Pub. L. 108–161, § 2, Dec. 6, 2003, 117 Stat. 2014; amended Pub. L. 110–234, title VII, § 7105(a), May 22, 2008, 122 Stat. 1216; Pub. L. 110–246, § 4(a), title VII, § 7105(a), June 18, 2008, 122 Stat. 1664, 1977.)
 
 **Editorial Notes**
 
@@ -2043,11 +2043,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (b). Pub. L. 110–246, § 7105(a)(1), added subsec. (b) and struck out former subsec. (b) which authorized the Secretary to consider certain factors in determining “veterinarian shortage situations”.
+2008—Subsec. (b). Pub. L. 110–246, § 7105(a)(1), added subsec. (b) and struck out former subsec. (b) which authorized the Secretary to consider certain factors in determining “veterinarian shortage situations”.
 
-Subsec. (c)(8). Pub. L. 110–246, § 7105(a)(2), added par. (8).
+Subsec. (c)(8). Pub. L. 110–246, § 7105(a)(2), added par. (8).
 
-Subsecs. (d) to (f). Pub. L. 110–246, § 7105(a)(3), (4), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
+Subsecs. (d) to (f). Pub. L. 110–246, § 7105(a)(3), (4), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2055,7 +2055,7 @@ Subsecs. (d) to (f). Pub. L. 110–246, § 7105(a)(3), (4), added subsecs. (d)
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 3151b. Veterinary services grant program
+### § 3151b. Veterinary services grant program
 
 **(a) Definitions** In this section:
 
@@ -2191,17 +2191,17 @@ There are authorized to be appropriated to the Secretary to carry out this secti
 
 From amounts made available for grants under this section, the Secretary shall prioritize grant awards for programs or activities with a focus on the practice of food animal medicine.
 
-(Pub. L. 95–113, title XIV, § 1415B, as added Pub. L. 113–79, title VII, § 7104, Feb. 7, 2014, 128 Stat. 866; amended Pub. L. 115–334, title VII, § 7106, Dec. 20, 2018, 132 Stat. 4783.)
+(Pub. L. 95–113, title XIV, § 1415B, as added Pub. L. 113–79, title VII, § 7104, Feb. 7, 2014, 128 Stat. 866; amended Pub. L. 115–334, title VII, § 7106, Dec. 20, 2018, 132 Stat. 4783.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (d)(1)(F). Pub. L. 115–334, § 7106(1), added subpar. (F).
+2018—Subsec. (d)(1)(F). Pub. L. 115–334, § 7106(1), added subpar. (F).
 
-Subsec. (h). Pub. L. 115–334, § 7106(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (h). Pub. L. 115–334, § 7106(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-### § 3152. Grants and fellowships for food and agricultural sciences education
+### § 3152. Grants and fellowships for food and agricultural sciences education
 
 **(a) Higher education teaching programs**
 
@@ -2323,7 +2323,7 @@ The Secretary shall submit to the Committee on Agriculture of the House of Repre
 
 **(2)** $40,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 95–113, title XIV, § 1417, Sept. 29, 1977, 91 Stat. 996; Pub. L. 97–98, title XIV, § 1418, Dec. 22, 1981, 95 Stat. 1305; Pub. L. 99–198, title XIV, § 1412, Dec. 23, 1985, 99 Stat. 1548; Pub. L. 101–624, title XVI, § 1608, Nov. 28, 1990, 104 Stat. 3716; Pub. L. 102–237, title IV, § 402(6), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, § 805, Apr. 4, 1996, 110 Stat. 1160; Pub. L. 105–185, title II, § 223, title III, § 301(a)(1), June 23, 1998, 112 Stat. 539, 562; Pub. L. 105–244, title I, § 102(a)(1)(B), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 107–110, title X, § 1076(c), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 107–171, title VII, § 7102, May 13, 2002, 116 Stat. 431; Pub. L. 110–234, title VII, §§ 7106–7109(c), May 22, 2008, 122 Stat. 1217, 1218; Pub. L. 110–246, § 4(a), title VII, §§ 7106–7109(c), June 18, 2008, 122 Stat. 1664, 1978, 1979; Pub. L. 113–79, title VII, § 7105, Feb. 7, 2014, 128 Stat. 869; Pub. L. 114–95, title IX, § 9215(*ll*), Dec. 10, 2015, 129 Stat. 2175; Pub. L. 115–334, title VII, § 7107, Dec. 20, 2018, 132 Stat. 4783; Pub. L. 117–286, § 4(a)(35), Dec. 27, 2022, 136 Stat. 4309.)
+(Pub. L. 95–113, title XIV, § 1417, Sept. 29, 1977, 91 Stat. 996; Pub. L. 97–98, title XIV, § 1418, Dec. 22, 1981, 95 Stat. 1305; Pub. L. 99–198, title XIV, § 1412, Dec. 23, 1985, 99 Stat. 1548; Pub. L. 101–624, title XVI, § 1608, Nov. 28, 1990, 104 Stat. 3716; Pub. L. 102–237, title IV, § 402(6), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, § 805, Apr. 4, 1996, 110 Stat. 1160; Pub. L. 105–185, title II, § 223, title III, § 301(a)(1), June 23, 1998, 112 Stat. 539, 562; Pub. L. 105–244, title I, § 102(a)(1)(B), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 107–110, title X, § 1076(c), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 107–171, title VII, § 7102, May 13, 2002, 116 Stat. 431; Pub. L. 110–234, title VII, §§ 7106–7109(c), May 22, 2008, 122 Stat. 1217, 1218; Pub. L. 110–246, § 4(a), title VII, §§ 7106–7109(c), June 18, 2008, 122 Stat. 1664, 1978, 1979; Pub. L. 113–79, title VII, § 7105, Feb. 7, 2014, 128 Stat. 869; Pub. L. 114–95, title IX, § 9215(*ll*), Dec. 10, 2015, 129 Stat. 2175; Pub. L. 115–334, title VII, § 7107, Dec. 20, 2018, 132 Stat. 4783; Pub. L. 117–286, § 4(a)(35), Dec. 27, 2022, 136 Stat. 4309.)
 
 **Editorial Notes**
 
@@ -2331,7 +2331,7 @@ The Secretary shall submit to the Committee on Agriculture of the House of Repre
 
 The Act of June 29, 1935, referred to in subsec. (h), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly known as the Bankhead-Jones Act and also as the Agricultural Research Act. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note under section 3101 of this title and Tables.
 
-The Food and Agriculture Act of 1977, referred to in subsec. (k), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
+The Food and Agriculture Act of 1977, referred to in subsec. (k), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
 **Codification**
 
@@ -2347,89 +2347,89 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (m). Pub. L. 113–79 substituted “section—” for “section $60,000,000 for each of the fiscal years 1990 through 2012.” and added pars. (1) and (2).
 
-2008—Subsec. (b). Pub. L. 110–246, § 7106(1), inserted “(including the University of the District of Columbia)” after “land-grant colleges and universities” in introductory provisions.
+2008—Subsec. (b). Pub. L. 110–246, § 7106(1), inserted “(including the University of the District of Columbia)” after “land-grant colleges and universities” in introductory provisions.
 
-Subsec. (b)(4). Pub. L. 110–246, § 7107, substituted “teaching, research, and extension” for “teaching and research”.
+Subsec. (b)(4). Pub. L. 110–246, § 7107, substituted “teaching, research, and extension” for “teaching and research”.
 
-Subsec. (d)(2). Pub. L. 110–246, § 7106(2), inserted “(including the University of the District of Columbia)” after “universities”.
+Subsec. (d)(2). Pub. L. 110–246, § 7106(2), inserted “(including the University of the District of Columbia)” after “universities”.
 
-Subsec. (i). Pub. L. 110–246, § 7108(1), substituted “Teaching, Extension, and Research Awards” for “Teaching Awards” in heading.
+Subsec. (i). Pub. L. 110–246, § 7108(1), substituted “Teaching, Extension, and Research Awards” for “Teaching Awards” in heading.
 
-Subsec. (i)(1). Pub. L. 110–246, § 7108(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary shall establish a National Food and Agricultural Sciences Teaching Awards program to recognize and promote excellence in teaching food and agricultural sciences at a college or university. The Secretary shall make at least one cash award in each fiscal year to a nominee selected by the Secretary for excellence in teaching a food and agricultural science at a college or university.”
+Subsec. (i)(1). Pub. L. 110–246, § 7108(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary shall establish a National Food and Agricultural Sciences Teaching Awards program to recognize and promote excellence in teaching food and agricultural sciences at a college or university. The Secretary shall make at least one cash award in each fiscal year to a nominee selected by the Secretary for excellence in teaching a food and agricultural science at a college or university.”
 
-Subsec. (j). Pub. L. 110–246, § 7109(a)(1), substituted “Secondary education, 2-year postsecondary education, and agriculture in the K–12 classroom” for “Secondary education and 2-year postsecondary education teaching programs” in heading.
+Subsec. (j). Pub. L. 110–246, § 7109(a)(1), substituted “Secondary education, 2-year postsecondary education, and agriculture in the K–12 classroom” for “Secondary education and 2-year postsecondary education teaching programs” in heading.
 
-Subsec. (j)(3). Pub. L. 110–246, § 7109(a)(2)(A), substituted “secondary schools, institutions of higher education that award an associate’s degree, other institutions of higher education, and nonprofit organizations” for “secondary schools, and institutions of higher education that award an associate’s degree” in introductory provisions.
+Subsec. (j)(3). Pub. L. 110–246, § 7109(a)(2)(A), substituted “secondary schools, institutions of higher education that award an associate’s degree, other institutions of higher education, and nonprofit organizations” for “secondary schools, and institutions of higher education that award an associate’s degree” in introductory provisions.
 
-Subsec. (j)(3)(G). Pub. L. 110–246, § 7109(a)(2)(B)–(D), added subpar. (G).
+Subsec. (j)(3)(G). Pub. L. 110–246, § 7109(a)(2)(B)–(D), added subpar. (G).
 
-Subsec. (*l*). Pub. L. 110–246, § 7109(b)(2), added subsec. (*l*). Former subsec. (*l*) redesignated (m).
+Subsec. (*l*). Pub. L. 110–246, § 7109(b)(2), added subsec. (*l*). Former subsec. (*l*) redesignated (m).
 
-Subsec. (m). Pub. L. 110–246, § 7109(b)(1), (c), redesignated subsec. (*l*) as (m) and substituted “2012” for “2007”.
+Subsec. (m). Pub. L. 110–246, § 7109(b)(1), (c), redesignated subsec. (*l*) as (m) and substituted “2012” for “2007”.
 
-2002—Subsec. (a). Pub. L. 107–171, § 7102(1), struck out “and” after “home economics,” and inserted “, and rural economic, community, and business development” before period at end.
+2002—Subsec. (a). Pub. L. 107–171, § 7102(1), struck out “and” after “home economics,” and inserted “, and rural economic, community, and business development” before period at end.
 
-Subsec. (b)(1), (2). Pub. L. 107–171, § 7102(2)(A), (B), inserted “, or in rural economic, community, and business development” before semicolon.
+Subsec. (b)(1), (2). Pub. L. 107–171, § 7102(2)(A), (B), inserted “, or in rural economic, community, and business development” before semicolon.
 
-Subsec. (b)(3). Pub. L. 107–171, § 7102(2)(C), inserted “, or teaching programs emphasizing rural economic, community, and business development” before semicolon.
+Subsec. (b)(3). Pub. L. 107–171, § 7102(2)(C), inserted “, or teaching programs emphasizing rural economic, community, and business development” before semicolon.
 
-Subsec. (b)(4). Pub. L. 107–171, § 7102(2)(D), inserted “, or programs emphasizing rural economic, community, and business development,” after “agricultural programs”.
+Subsec. (b)(4). Pub. L. 107–171, § 7102(2)(D), inserted “, or programs emphasizing rural economic, community, and business development,” after “agricultural programs”.
 
-Subsec. (b)(5). Pub. L. 107–171, § 7102(2)(E), inserted “, or professionals in rural economic, community, and business development” before semicolon.
+Subsec. (b)(5). Pub. L. 107–171, § 7102(2)(E), inserted “, or professionals in rural economic, community, and business development” before semicolon.
 
-Subsec. (d)(1). Pub. L. 107–171, § 7102(3)(A), inserted “, or in rural economic, community, and business development,” after “food and agricultural sciences”.
+Subsec. (d)(1). Pub. L. 107–171, § 7102(3)(A), inserted “, or in rural economic, community, and business development,” after “food and agricultural sciences”.
 
-Subsec. (d)(2). Pub. L. 107–171, § 7102(3)(B), inserted “, or in the rural economic, community, and business development workforce,” after “food and agricultural sciences workforce”.
+Subsec. (d)(2). Pub. L. 107–171, § 7102(3)(B), inserted “, or in the rural economic, community, and business development workforce,” after “food and agricultural sciences workforce”.
 
 Subsec. (j)(1)(B). Pub. L. 107–110 substituted “7801” for “8801(25)”.
 
-Subsec. (*l*). Pub. L. 107–171, § 7102(4), substituted “2007” for “2002”.
+Subsec. (*l*). Pub. L. 107–171, § 7102(4), substituted “2007” for “2002”.
 
-1998—Subsecs. (c), (d). Pub. L. 105–185, § 223(1), (2), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (f).
+1998—Subsecs. (c), (d). Pub. L. 105–185, § 223(1), (2), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (f).
 
-Subsec. (e). Pub. L. 105–185, § 223(3), added subsec. (e). Former subsec. (e) redesignated (g).
+Subsec. (e). Pub. L. 105–185, § 223(3), added subsec. (e). Former subsec. (e) redesignated (g).
 
-Subsecs. (f) to (i). Pub. L. 105–185, § 223(1), redesignated subsecs. (d) to (g) as (f) to (i), respectively. Former subsecs. (h) and (i) redesignated (j) and (k), respectively.
+Subsecs. (f) to (i). Pub. L. 105–185, § 223(1), redesignated subsecs. (d) to (g) as (f) to (i), respectively. Former subsecs. (h) and (i) redesignated (j) and (k), respectively.
 
-Subsec. (j). Pub. L. 105–185, § 223(1), redesignated subsec. (h) as (j). Former subsec. (j) redesignated (*l*).
+Subsec. (j). Pub. L. 105–185, § 223(1), redesignated subsec. (h) as (j). Former subsec. (j) redesignated (*l*).
 
 Subsec. (j)(1)(A). Pub. L. 105–244 substituted “section 1001 of title 20” for “section 1141(a) of title 20”.
 
-Subsec. (k). Pub. L. 105–185, § 223(1), redesignated subsec. (i) as (k).
+Subsec. (k). Pub. L. 105–185, § 223(1), redesignated subsec. (i) as (k).
 
-Subsec. (*l*). Pub. L. 105–185, § 301(a)(1), substituted “2002” for “1997”.
+Subsec. (*l*). Pub. L. 105–185, § 301(a)(1), substituted “2002” for “1997”.
 
-Pub. L. 105–185, § 223(1), redesignated subsec. (j) as (*l*).
+Pub. L. 105–185, § 223(1), redesignated subsec. (j) as (*l*).
 
-1996—Subsec. (b)(4). Pub. L. 104–127, § 805(a), added par. (4) and struck out former par. (4) which read as follows: “to design and implement innovative food and agricultural educational programs;”.
+1996—Subsec. (b)(4). Pub. L. 104–127, § 805(a), added par. (4) and struck out former par. (4) which read as follows: “to design and implement innovative food and agricultural educational programs;”.
 
-Subsec. (c)(3). Pub. L. 104–127, § 805(b), added par. (3).
+Subsec. (c)(3). Pub. L. 104–127, § 805(b), added par. (3).
 
-Subsec. (h). Pub. L. 104–127, § 805(d)(2), added subsec. (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 104–127, § 805(d)(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 104–127, § 805(d)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 104–127, § 805(d)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Pub. L. 104–127, § 805(c), substituted “1997” for “1995”.
+Pub. L. 104–127, § 805(c), substituted “1997” for “1995”.
 
-Subsec. (j). Pub. L. 104–127, § 805(d)(1), redesignated subsec. (i) as (j).
+Subsec. (j). Pub. L. 104–127, § 805(d)(1), redesignated subsec. (i) as (j).
 
 1991—Subsec. (i). Pub. L. 102–237 struck out at end “Of amounts appropriated to carry out this section for a fiscal year, not less than $10,000,000 shall be used for the national needs graduate fellowship program referred to in subsection (b)(6) of this section.”
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which established grant categories for promotion and development of higher education in food and agricultural sciences, provided for program of predoctoral and postdoctoral fellowships in food and agricultural sciences, provided for transfer of funds, functions and duties to Secretary of Agriculture, authorized appropriations to carry out the section, and provided for nonapplicability of certain Federal laws to any panel or board created to review applications submitted under the section.
 
-1985—Subsec. (a)(2). Pub. L. 99–198, § 1412(a)(1), substituted “Each” for “Such grants shall be made without regard to matching funds, but each”.
+1985—Subsec. (a)(2). Pub. L. 99–198, § 1412(a)(1), substituted “Each” for “Such grants shall be made without regard to matching funds, but each”.
 
-Subsec. (a)(3). Pub. L. 99–198, § 1412(a)(2), substituted “Each recipient institution shall have a significant ongoing commitment to the food and agricultural sciences generally and to the specific subject area for which such grant is to be used.” for “Such grants shall be made without regard to matching funds provided by recipients.”
+Subsec. (a)(3). Pub. L. 99–198, § 1412(a)(2), substituted “Each recipient institution shall have a significant ongoing commitment to the food and agricultural sciences generally and to the specific subject area for which such grant is to be used.” for “Such grants shall be made without regard to matching funds provided by recipients.”
 
-Subsec. (d). Pub. L. 99–198, § 1412(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are hereby authorized to be appropriated for the purposes of carrying out the provisions of this section $25,000,000 for the fiscal year ending September 30, 1978, $30,000,000 for the fiscal year ending September 30, 1979, $35,000,000 for the fiscal year ending September 30, 1980, $40,000,000 for the fiscal year ending September 30, 1981, and $50,000,000 for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985, and not in excess of such sums as may after the date of enactment of this title be authorized by law for any subsequent fiscal year.”
+Subsec. (d). Pub. L. 99–198, § 1412(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are hereby authorized to be appropriated for the purposes of carrying out the provisions of this section $25,000,000 for the fiscal year ending September 30, 1978, $30,000,000 for the fiscal year ending September 30, 1979, $35,000,000 for the fiscal year ending September 30, 1980, $40,000,000 for the fiscal year ending September 30, 1981, and $50,000,000 for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985, and not in excess of such sums as may after the date of enactment of this title be authorized by law for any subsequent fiscal year.”
 
-Subsec. (e). Pub. L. 99–198, § 1412(c), added subsec. (e).
+Subsec. (e). Pub. L. 99–198, § 1412(c), added subsec. (e).
 
-1981—Subsec. (a). Pub. L. 97–98, § 1418(a), substituted provisions authorizing the Secretary to promote and develop higher education in the food and agricultural science by formulating and administering higher education programs, to make grants to land-grant colleges and universities and other institutions capable of teaching food and agricultural education for specified purposes for a period not to exceed five years without regard to matching funds and to make competitive grants to colleges and universities to develop or administer programs to meet unique food and agricultural educational problems, and to administer and conduct specialized programs and graduate fellowship programs for a period not to exceed five years without regard to matching funds for provisions relating to competitive grants to all colleges and universities for the purpose of furthering education in the food and agricultural sciences in two specified categories.
+1981—Subsec. (a). Pub. L. 97–98, § 1418(a), substituted provisions authorizing the Secretary to promote and develop higher education in the food and agricultural science by formulating and administering higher education programs, to make grants to land-grant colleges and universities and other institutions capable of teaching food and agricultural education for specified purposes for a period not to exceed five years without regard to matching funds and to make competitive grants to colleges and universities to develop or administer programs to meet unique food and agricultural educational problems, and to administer and conduct specialized programs and graduate fellowship programs for a period not to exceed five years without regard to matching funds for provisions relating to competitive grants to all colleges and universities for the purpose of furthering education in the food and agricultural sciences in two specified categories.
 
 Subsec. (c). Pub. L. 97–98 inserted provisions relating to the transfer to the Secretary of all the functions and duties of the Secretary of Education under the act of June 29, 1935, applicable to the activities and programs for which funds are made available under section 329 of this title.
 
-Subsec. (d). Pub. L. 97–98, § 1418(c), inserted provisions relating to the authorization of appropriations for fiscal years ending Sept. 30, 1983, Sept. 30, 1984, and Sept. 30, 1985.
+Subsec. (d). Pub. L. 97–98, § 1418(c), inserted provisions relating to the authorization of appropriations for fiscal years ending Sept. 30, 1983, Sept. 30, 1984, and Sept. 30, 1985.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2441,7 +2441,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Pub. L. 110–234, title VII, § 7109(d), May 22, 2008, 122 Stat. 1218, and Pub. L. 110–246, § 4(a), title VII, § 7109(d), June 18, 2008, 122 Stat. 1664, 1979, provided that: “The amendments made by subsection (a) [amending this section] take effect on October 1, 2008.”
+Pub. L. 110–234, title VII, § 7109(d), May 22, 2008, 122 Stat. 1218, and Pub. L. 110–246, § 4(a), title VII, § 7109(d), June 18, 2008, 122 Stat. 1664, 1979, provided that: “The amendments made by subsection (a) [amending this section] take effect on October 1, 2008.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
@@ -2461,7 +2461,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3153. National Agricultural Science Award
+### § 3153. National Agricultural Science Award
 
 **(a) Establishment**
 
@@ -2485,15 +2485,15 @@ The awards shall be open to persons in agricultural research, extension, teachin
 
 The Secretary may establish such nominating and selection committees, to consist of scientists and others, to receive nominations and make recommendations for awards under this section, as the Secretary deems appropriate.
 
-(Pub. L. 95–113, title XIV, § 1418, Sept. 29, 1977, 91 Stat. 997; Pub. L. 97–98, title XIV, § 1420(a), Dec. 22, 1981, 95 Stat. 1306.)
+(Pub. L. 95–113, title XIV, § 1418, Sept. 29, 1977, 91 Stat. 997; Pub. L. 97–98, title XIV, § 1420(a), Dec. 22, 1981, 95 Stat. 1306.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1981—Subsec. (a). Pub. L. 97–98, § 1420(a)(2), substituted “Science Award” for “Research Award”, and “subsection (d)” for “subsection (c)”.
+1981—Subsec. (a). Pub. L. 97–98, § 1420(a)(2), substituted “Science Award” for “Research Award”, and “subsection (d)” for “subsection (c)”.
 
-Subsecs. (c) to (e). Pub. L. 97–98, § 1420(a)(3), (4), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+Subsecs. (c) to (e). Pub. L. 97–98, § 1420(a)(3), (4), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2505,9 +2505,9 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3154. Repealed. Pub. L. 110–234, title VII, § 7110(a), May 22, 2008, 122 Stat. 1218, and Pub. L. 110–246, § 4(a), title VII, § 7110(a), June 18, 2008, 122 Stat. 1664, 1980
+### § 3154. Repealed. Pub. L. 110–234, title VII, § 7110(a), May 22, 2008, 122 Stat. 1218, and Pub. L. 110–246, § 4(a), title VII, § 7110(a), June 18, 2008, 122 Stat. 1664, 1980
 
-Section, Pub. L. 95–113, title XIV, § 1419, Sept. 29, 1977, 91 Stat. 997; Pub. L. 96–294, title II, § 252, June 30, 1980, 94 Stat. 705; Pub. L. 97–98, title XIV, § 1422, Dec. 22, 1981, 95 Stat. 1306; Pub. L. 101–624, title XVI, § 1609(a), Nov. 28, 1990, 104 Stat. 3718; Pub. L. 102–237, title IV, § 402(7), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, § 806, Apr. 4, 1996, 110 Stat. 1162; Pub. L. 105–185, title III, § 301(a)(2), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §§ 7134, 7209(b), May 13, 2002, 116 Stat. 436, 445, related to grants for research on production and marketing of alcohols and industrial hydrocarbons from agricultural commodities and forest products.
+Section, Pub. L. 95–113, title XIV, § 1419, Sept. 29, 1977, 91 Stat. 997; Pub. L. 96–294, title II, § 252, June 30, 1980, 94 Stat. 705; Pub. L. 97–98, title XIV, § 1422, Dec. 22, 1981, 95 Stat. 1306; Pub. L. 101–624, title XVI, § 1609(a), Nov. 28, 1990, 104 Stat. 3718; Pub. L. 102–237, title IV, § 402(7), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, § 806, Apr. 4, 1996, 110 Stat. 1162; Pub. L. 105–185, title III, § 301(a)(2), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §§ 7134, 7209(b), May 13, 2002, 116 Stat. 436, 445, related to grants for research on production and marketing of alcohols and industrial hydrocarbons from agricultural commodities and forest products.
 
 **Editorial Notes**
 
@@ -2521,7 +2521,7 @@ Pub. L. 110–234 and Pub. L. 110–246 repealed this section. Pub. L. 110–234
 
 Repeal of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 3155. Agricultural and food policy research centers
+### § 3155. Agricultural and food policy research centers
 
 **(a) In general** Consistent with this section, the Secretary shall, acting through the Office of the Chief Economist, make competitive grants to, or enter into cooperative agreements with, policy research centers described in subsection (b) to conduct research and education programs that are objective, operationally independent, and external to the Federal Government and that concern the effect of public policies and trade agreements on—
 
@@ -2559,7 +2559,7 @@ Repeal of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effe
 
 There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 95–113, title XIV, § 1419A, as added Pub. L. 104–127, title VIII, § 807, Apr. 4, 1996, 110 Stat. 1162; amended Pub. L. 105–185, title II, § 224, title III, § 301(a)(3), June 23, 1998, 112 Stat. 540, 562; Pub. L. 107–171, title VII, §§ 7103, 7216, May 13, 2002, 116 Stat. 432, 449; Pub. L. 110–234, title VII, § 7111, May 22, 2008, 122 Stat. 1219; Pub. L. 110–246, § 4(a), title VII, § 7111, June 18, 2008, 122 Stat. 1664, 1980; Pub. L. 113–79, title VII, § 7106, Feb. 7, 2014, 128 Stat. 869; Pub. L. 115–334, title VII, § 7108, Dec. 20, 2018, 132 Stat. 4783.)
+(Pub. L. 95–113, title XIV, § 1419A, as added Pub. L. 104–127, title VIII, § 807, Apr. 4, 1996, 110 Stat. 1162; amended Pub. L. 105–185, title II, § 224, title III, § 301(a)(3), June 23, 1998, 112 Stat. 540, 562; Pub. L. 107–171, title VII, §§ 7103, 7216, May 13, 2002, 116 Stat. 432, 449; Pub. L. 110–234, title VII, § 7111, May 22, 2008, 122 Stat. 1219; Pub. L. 110–246, § 4(a), title VII, § 7111, June 18, 2008, 122 Stat. 1664, 1980; Pub. L. 113–79, title VII, § 7106, Feb. 7, 2014, 128 Stat. 869; Pub. L. 115–334, title VII, § 7108, Dec. 20, 2018, 132 Stat. 4783.)
 
 **Editorial Notes**
 
@@ -2571,35 +2571,35 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (e). Pub. L. 115–334 substituted “2023” for “2018”.
 
-2014—Pub. L. 113–79, § 7106(1), substituted “Agricultural and food policy” for “Policy” in section catchline.
+2014—Pub. L. 113–79, § 7106(1), substituted “Agricultural and food policy” for “Policy” in section catchline.
 
-Subsec. (a). Pub. L. 113–79, § 7106(2), substituted “Secretary shall, acting through the Office of the Chief Economist, make competitive grants to, or enter into cooperative agreements with,” for “Secretary may make grants, competitive grants, and special research grants to, and enter into cooperative agreements and other contracting instruments with,” in introductory provisions.
+Subsec. (a). Pub. L. 113–79, § 7106(2), substituted “Secretary shall, acting through the Office of the Chief Economist, make competitive grants to, or enter into cooperative agreements with,” for “Secretary may make grants, competitive grants, and special research grants to, and enter into cooperative agreements and other contracting instruments with,” in introductory provisions.
 
-Subsec. (b). Pub. L. 113–79, § 7106(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “State agricultural experiment stations, colleges and universities, other research institutions and organizations (including the Food Agricultural Policy Research Institute, the Agricultural and Food Policy Center, the Rural Policy Research Institute, and the National Drought Mitigation Center), private organizations, corporations, and individuals shall be eligible to apply for funding under subsection (a) of this section.”
+Subsec. (b). Pub. L. 113–79, § 7106(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “State agricultural experiment stations, colleges and universities, other research institutions and organizations (including the Food Agricultural Policy Research Institute, the Agricultural and Food Policy Center, the Rural Policy Research Institute, and the National Drought Mitigation Center), private organizations, corporations, and individuals shall be eligible to apply for funding under subsection (a) of this section.”
 
-Subsec. (c). Pub. L. 113–79, § 7106(5), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 113–79, § 7106(5), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 113–79, § 7106(4), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 113–79, § 7106(4), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(2). Pub. L. 113–79, § 7106(6), inserted “applied” after “theoretical and”.
+Subsec. (d)(2). Pub. L. 113–79, § 7106(6), inserted “applied” after “theoretical and”.
 
-Subsec. (e). Pub. L. 113–79, § 7106(7), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2012.”
+Subsec. (e). Pub. L. 113–79, § 7106(7), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2012.”
 
-Pub. L. 113–79, § 7106(4), redesignated subsec. (d) as (e).
+Pub. L. 113–79, § 7106(4), redesignated subsec. (d) as (e).
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 7111(1), inserted “(including commodities, livestock, dairy, and specialty crops)” after “agricultural sectors”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 7111(1), inserted “(including commodities, livestock, dairy, and specialty crops)” after “agricultural sectors”.
 
-Subsec. (b). Pub. L. 110–246, § 7111(2), inserted “(including the Food Agricultural Policy Research Institute, the Agricultural and Food Policy Center, the Rural Policy Research Institute, and the National Drought Mitigation Center)” after “research institutions and organizations”.
+Subsec. (b). Pub. L. 110–246, § 7111(2), inserted “(including the Food Agricultural Policy Research Institute, the Agricultural and Food Policy Center, the Rural Policy Research Institute, and the National Drought Mitigation Center)” after “research institutions and organizations”.
 
-Subsec. (d). Pub. L. 110–246, § 7111(3), substituted “2012” for “2007”.
+Subsec. (d). Pub. L. 110–246, § 7111(3), substituted “2012” for “2007”.
 
-2002—Subsec. (c)(3). Pub. L. 107–171, § 7216, substituted “collect, analyze, and disseminate data” for “collect and analyze data”.
+2002—Subsec. (c)(3). Pub. L. 107–171, § 7216, substituted “collect, analyze, and disseminate data” for “collect and analyze data”.
 
-Subsec. (d). Pub. L. 107–171, § 7103, substituted “2007” for “2002”.
+Subsec. (d). Pub. L. 107–171, § 7103, substituted “2007” for “2002”.
 
-1998—Subsec. (a). Pub. L. 105–185, § 224, inserted “and trade agreements” after “public policies” in introductory provisions.
+1998—Subsec. (a). Pub. L. 105–185, § 224, inserted “and trade agreements” after “public policies” in introductory provisions.
 
-Subsec. (d). Pub. L. 105–185, § 301(a)(3), substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
+Subsec. (d). Pub. L. 105–185, § 301(a)(3), substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2607,7 +2607,7 @@ Subsec. (d). Pub. L. 105–185, § 301(a)(3), substituted “each of fiscal ye
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 3156. Education grants to Alaska Native serving institutions and Native Hawaiian serving institutions
+### § 3156. Education grants to Alaska Native serving institutions and Native Hawaiian serving institutions
 
 **(a) Education grants program for Alaska Native serving institutions**
 
@@ -2649,7 +2649,7 @@ The Secretary of Agriculture may make competitive grants to Native Hawaiian serv
 
 There are authorized to be appropriated to make grants under this subsection $10,000,000 for each of fiscal years 2001 through 2023.
 
-(Pub. L. 95–113, title XIV, § 1419B, formerly Pub. L. 106–78, title VII, § 759, Oct. 22, 1999, 113 Stat. 1172; renumbered Pub. L. 95–113, § 1419B, and amended Pub. L. 110–234, title VII, § 7112, May 22, 2008, 122 Stat. 1219, and Pub. L. 110–246, § 4(a), title VII, § 7112, June 18, 2008, 122 Stat. 1664, 1980; Pub. L. 113–79, title VII, § 7107, Feb. 7, 2014, 128 Stat. 870; Pub. L. 115–334, title VII, § 7109, Dec. 20, 2018, 132 Stat. 4783.)
+(Pub. L. 95–113, title XIV, § 1419B, formerly Pub. L. 106–78, title VII, § 759, Oct. 22, 1999, 113 Stat. 1172; renumbered Pub. L. 95–113, § 1419B, and amended Pub. L. 110–234, title VII, § 7112, May 22, 2008, 122 Stat. 1219, and Pub. L. 110–246, § 4(a), title VII, § 7112, June 18, 2008, 122 Stat. 1664, 1980; Pub. L. 113–79, title VII, § 7107, Feb. 7, 2014, 128 Stat. 870; Pub. L. 115–334, title VII, § 7109, Dec. 20, 2018, 132 Stat. 4783.)
 
 **Editorial Notes**
 
@@ -2661,23 +2661,23 @@ Section was formerly classified to section 3242 of this title.
 
 **Amendments**
 
-2018—Subsec. (a)(3). Pub. L. 115–334, § 7109(1), substituted “2023” for “2018”.
+2018—Subsec. (a)(3). Pub. L. 115–334, § 7109(1), substituted “2023” for “2018”.
 
-Subsec. (b)(3). Pub. L. 115–334, § 7109(2), substituted “2023” for “2018”.
+Subsec. (b)(3). Pub. L. 115–334, § 7109(2), substituted “2023” for “2018”.
 
-2014—Subsec. (a)(1). Pub. L. 113–79, § 7107(1)(A), struck out “(or grants without regard to any requirement for competition)” after “competitive grants”.
+2014—Subsec. (a)(1). Pub. L. 113–79, § 7107(1)(A), struck out “(or grants without regard to any requirement for competition)” after “competitive grants”.
 
-Subsec. (a)(3). Pub. L. 113–79, § 7107(1)(B), substituted “2018” for “2012”.
+Subsec. (a)(3). Pub. L. 113–79, § 7107(1)(B), substituted “2018” for “2012”.
 
-Subsec. (b)(1). Pub. L. 113–79, § 7107(2)(A), struck out “(or grants without regard to any requirement for competition)” after “competitive grants”.
+Subsec. (b)(1). Pub. L. 113–79, § 7107(2)(A), struck out “(or grants without regard to any requirement for competition)” after “competitive grants”.
 
-Subsec. (b)(3). Pub. L. 113–79, § 7107(2)(B), substituted “2018” for “2012”.
+Subsec. (b)(3). Pub. L. 113–79, § 7107(2)(B), substituted “2018” for “2012”.
 
-2008—Subsec. (a)(3). Pub. L. 110–246, § 7112(1)(A), substituted “2012” for “2006”.
+2008—Subsec. (a)(3). Pub. L. 110–246, § 7112(1)(A), substituted “2012” for “2006”.
 
-Subsec. (b)(2)(A). Pub. L. 110–246, § 7112(1)(B)(i), inserted “, including permitting consortia to designate fiscal agents for the members of the consortia and to allocate among the members funds made available under this section” before semicolon at end.
+Subsec. (b)(2)(A). Pub. L. 110–246, § 7112(1)(B)(i), inserted “, including permitting consortia to designate fiscal agents for the members of the consortia and to allocate among the members funds made available under this section” before semicolon at end.
 
-Subsec. (b)(3). Pub. L. 110–246, § 7112(1)(B)(ii), substituted “2012” for “2006”.
+Subsec. (b)(3). Pub. L. 110–246, § 7112(1)(B)(ii), substituted “2012” for “2006”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2685,7 +2685,7 @@ Subsec. (b)(3). Pub. L. 110–246, § 7112(1)(B)(ii), substituted “2012” f
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 3157. Competitive, special, and facilities research grants
+### § 3157. Competitive, special, and facilities research grants
 
 **(a) Establishment of grant program**
 
@@ -3079,19 +3079,19 @@ Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 (7
 
 The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term “sustainable agriculture” has the meaning given that term in section 3103 of this title.
 
-(Pub. L. 89–106, § 2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, § 1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, § 1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, § 1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, § 1497, title XVI, §§ 1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, § 401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, § 1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, § 885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§ 211, 212, title III, § 301(f), title VI, § 606(h), June 23, 1998, 112 Stat. 536, 563, 604; Pub. L. 107–76, title VII, § 775, Nov. 28, 2001, 115 Stat. 746; Pub. L. 107–171, title VI, § 6403(b), title VII, §§ 7136, 7211, May 13, 2002, 116 Stat. 429, 436, 447; Pub. L. 110–234, title VII, §§ 7101(b)(2), 7406(a), (b)(2), May 22, 2008, 122 Stat. 1213, 1247, 1251; Pub. L. 110–246, § 4(a), title VII, §§ 7101(b)(2), 7406(a), (b)(2), June 18, 2008, 122 Stat. 1664, 1974, 2009, 2013; Pub. L. 113–79, title VII, §§ 7128(b)(4), 7404, Feb. 7, 2014, 128 Stat. 879, 895; Pub. L. 115–334, title VII, §§ 7504, 7505, 7614(b)(4)(B), Dec. 20, 2018, 132 Stat. 4821, 4822, 4836; Pub. L. 117–286, § 4(a)(36), Dec. 27, 2022, 136 Stat. 4309.)
+(Pub. L. 89–106, § 2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, § 1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, § 1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, § 1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, § 1497, title XVI, §§ 1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, § 401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, § 1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, § 885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§ 211, 212, title III, § 301(f), title VI, § 606(h), June 23, 1998, 112 Stat. 536, 563, 604; Pub. L. 107–76, title VII, § 775, Nov. 28, 2001, 115 Stat. 746; Pub. L. 107–171, title VI, § 6403(b), title VII, §§ 7136, 7211, May 13, 2002, 116 Stat. 429, 436, 447; Pub. L. 110–234, title VII, §§ 7101(b)(2), 7406(a), (b)(2), May 22, 2008, 122 Stat. 1213, 1247, 1251; Pub. L. 110–246, § 4(a), title VII, §§ 7101(b)(2), 7406(a), (b)(2), June 18, 2008, 122 Stat. 1664, 1974, 2009, 2013; Pub. L. 113–79, title VII, §§ 7128(b)(4), 7404, Feb. 7, 2014, 128 Stat. 879, 895; Pub. L. 115–334, title VII, §§ 7504, 7505, 7614(b)(4)(B), Dec. 20, 2018, 132 Stat. 4821, 4822, 4836; Pub. L. 117–286, § 4(a)(36), Dec. 27, 2022, 136 Stat. 4309.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of October 10, 1962, referred to in subsec. (c)(1)(B), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
+Act of October 10, 1962, referred to in subsec. (c)(1)(B), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 
 Section 3 of the Specialty Crops Competitiveness Act of 2004, referred to in subsec. (e)(1)(A), is section 3 of Pub. L. 108–465, which is set out as a note under section 1621 of this title.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e)(1)(A), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e)(1)(A), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
 
-The Food and Agriculture Act of 1977, referred to in subsec. (j), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
+The Food and Agriculture Act of 1977, referred to in subsec. (j), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
 **Codification**
 
@@ -3105,185 +3105,185 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2022—Subsec. (j). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act”.
 
-2018—Subsec. (b)(2)(D)(iii) to (viii). Pub. L. 115–334, § 7504(1)(A), added cl. (iii) and redesignated former cls. (iii) to (vii) as (iv) to (viii), respectively.
+2018—Subsec. (b)(2)(D)(iii) to (viii). Pub. L. 115–334, § 7504(1)(A), added cl. (iii) and redesignated former cls. (iii) to (vii) as (iv) to (viii), respectively.
 
-Subsec. (b)(2)(E)(v). Pub. L. 115–334, § 7504(1)(B), added cl. (v).
+Subsec. (b)(2)(E)(v). Pub. L. 115–334, § 7504(1)(B), added cl. (v).
 
-Subsec. (b)(2)(F)(viii). Pub. L. 115–334, § 7504(1)(C), added cl. (viii).
+Subsec. (b)(2)(F)(viii). Pub. L. 115–334, § 7504(1)(C), added cl. (viii).
 
-Subsec. (b)(6)(F). Pub. L. 115–334, § 7504(2), added subpar. (F).
+Subsec. (b)(6)(F). Pub. L. 115–334, § 7504(2), added subpar. (F).
 
-Subsec. (b)(9)(A)(iii). Pub. L. 115–334, § 7614(b)(4)(B)(i), struck out cl. (iii). Text read as follows: “The matching funds requirement under section 3371 of this title shall not apply in the case of a grant made under paragraph (6)(A).”
+Subsec. (b)(9)(A)(iii). Pub. L. 115–334, § 7614(b)(4)(B)(i), struck out cl. (iii). Text read as follows: “The matching funds requirement under section 3371 of this title shall not apply in the case of a grant made under paragraph (6)(A).”
 
-Subsec. (b)(9)(B)(i). Pub. L. 115–334, § 7614(b)(4)(B)(ii)(I), substituted “clause (ii),” for “clauses (ii) and (iii),”.
+Subsec. (b)(9)(B)(i). Pub. L. 115–334, § 7614(b)(4)(B)(ii)(I), substituted “clause (ii),” for “clauses (ii) and (iii),”.
 
-Subsec. (b)(9)(B)(iii). Pub. L. 115–334, § 7614(b)(4)(B)(ii)(II), struck out cl. (iii). Text read as follows: “The contribution requirement under clause (i) shall be in addition to any matching funds requirement for grant recipients required by section 3371 of this title.”
+Subsec. (b)(9)(B)(iii). Pub. L. 115–334, § 7614(b)(4)(B)(ii)(II), struck out cl. (iii). Text read as follows: “The contribution requirement under clause (i) shall be in addition to any matching funds requirement for grant recipients required by section 3371 of this title.”
 
-Subsec. (b)(9)(C). Pub. L. 115–334, § 7614(b)(4)(B)(iii), added subpar. (C).
+Subsec. (b)(9)(C). Pub. L. 115–334, § 7614(b)(4)(B)(iii), added subpar. (C).
 
-Subsec. (b)(11)(A). Pub. L. 115–334, § 7504(3)(A), substituted “2023” for “2018” in introductory provisions.
+Subsec. (b)(11)(A). Pub. L. 115–334, § 7504(3)(A), substituted “2023” for “2018” in introductory provisions.
 
-Subsec. (b)(11)(A)(ii). Pub. L. 115–334, § 7504(3)(B), substituted “5” for “4”.
+Subsec. (b)(11)(A)(ii). Pub. L. 115–334, § 7504(3)(B), substituted “5” for “4”.
 
-Subsec. (c)(2). Pub. L. 115–334, § 7505(b)(1), substituted “this subsection” for “this subsection—”, struck out subpar. (B) designation before “for the planning”, and struck out subpar. (A) which read as follows: “for any purpose for which a grant may be made under subsection (d); or”.
+Subsec. (c)(2). Pub. L. 115–334, § 7505(b)(1), substituted “this subsection” for “this subsection—”, struck out subpar. (B) designation before “for the planning”, and struck out subpar. (A) which read as follows: “for any purpose for which a grant may be made under subsection (d); or”.
 
-Subsec. (d). Pub. L. 115–334, § 7505(a), added subsec. (d).
+Subsec. (d). Pub. L. 115–334, § 7505(a), added subsec. (d).
 
-Subsec. (h). Pub. L. 115–334, § 7505(b)(2), inserted “, (d),” after “subsections (b)”.
+Subsec. (h). Pub. L. 115–334, § 7505(b)(2), inserted “, (d),” after “subsections (b)”.
 
-2014—Subsec. (b)(2)(B)(ix), (x). Pub. L. 113–79, § 7404(b)(1), added cls. (ix) and (x).
+2014—Subsec. (b)(2)(B)(ix), (x). Pub. L. 113–79, § 7404(b)(1), added cls. (ix) and (x).
 
-Subsec. (b)(2)(D). Pub. L. 113–79, § 7404(b)(2)(A), substituted “Bioenergy” for “Renewable energy” in heading.
+Subsec. (b)(2)(D). Pub. L. 113–79, § 7404(b)(2)(A), substituted “Bioenergy” for “Renewable energy” in heading.
 
-Subsec. (b)(2)(D)(iv) to (vii). Pub. L. 113–79, § 7404(b)(2)(B), (C), added cl. (iv) and redesignated former cls. (iv) to (vi) as (v) to (vii), respectively.
+Subsec. (b)(2)(D)(iv) to (vii). Pub. L. 113–79, § 7404(b)(2)(B), (C), added cl. (iv) and redesignated former cls. (iv) to (vi) as (v) to (vii), respectively.
 
-Subsec. (b)(2)(F). Pub. L. 113–79, § 7404(b)(3)(A), inserted “economics,” after “trade,” in introductory provisions.
+Subsec. (b)(2)(F). Pub. L. 113–79, § 7404(b)(3)(A), inserted “economics,” after “trade,” in introductory provisions.
 
-Subsec. (b)(2)(F)(v) to (vii). Pub. L. 113–79, § 7404(b)(3)(B), (C), added cl. (v) and redesignated former cls. (v) and (vi) as (vi) and (vii), respectively.
+Subsec. (b)(2)(F)(v) to (vii). Pub. L. 113–79, § 7404(b)(3)(B), (C), added cl. (v) and redesignated former cls. (v) and (vi) as (vi) and (vii), respectively.
 
-Subsec. (b)(4)(F). Pub. L. 113–79, § 7404(c), added subpar. (F).
+Subsec. (b)(4)(F). Pub. L. 113–79, § 7404(c), added subpar. (F).
 
-Subsec. (b)(6)(E). Pub. L. 113–79, § 7404(d), added subpar. (E).
+Subsec. (b)(6)(E). Pub. L. 113–79, § 7404(d), added subpar. (E).
 
-Subsec. (b)(7)(G). Pub. L. 113–79, § 7404(e), substituted “, foundations, or corporations” for “or corporations”.
+Subsec. (b)(7)(G). Pub. L. 113–79, § 7404(e), substituted “, foundations, or corporations” for “or corporations”.
 
-Subsec. (b)(9)(A)(iii). Pub. L. 113–79, § 7128(b)(4)(A), added cl. (iii).
+Subsec. (b)(9)(A)(iii). Pub. L. 113–79, § 7128(b)(4)(A), added cl. (iii).
 
-Subsec. (b)(9)(B). Pub. L. 113–79, § 7404(f), added subpar. (B).
+Subsec. (b)(9)(B). Pub. L. 113–79, § 7404(f), added subpar. (B).
 
-Pub. L. 113–79, § 7128(b)(4)(B), struck out subpar. (B) which related to applied research.
+Pub. L. 113–79, § 7128(b)(4)(B), struck out subpar. (B) which related to applied research.
 
-Subsec. (b)(11)(A). Pub. L. 113–79, § 7404(a), substituted “2018” for “2012” in introductory provisions.
+Subsec. (b)(11)(A). Pub. L. 113–79, § 7404(a), substituted “2018” for “2012” in introductory provisions.
 
-Subsec. (e)(1)(A). Pub. L. 113–79, § 7404(g)(1), substituted “pesticides for minor agricultural use and for use on specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note)),” for “minor use pesticides”.
+Subsec. (e)(1)(A). Pub. L. 113–79, § 7404(g)(1), substituted “pesticides for minor agricultural use and for use on specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note)),” for “minor use pesticides”.
 
-Subsec. (e)(4)(A). Pub. L. 113–79, § 7404(g)(2)(A), inserted “and for use on specialty crops” after “minor agricultural use”.
+Subsec. (e)(4)(A). Pub. L. 113–79, § 7404(g)(2)(A), inserted “and for use on specialty crops” after “minor agricultural use”.
 
-Subsec. (e)(4)(C) to (G). Pub. L. 113–79, § 7404(g)(2)(B)–(D), added subpars. (C) to (F) and redesignated former subpar. (C) as (G).
+Subsec. (e)(4)(C) to (G). Pub. L. 113–79, § 7404(g)(2)(B)–(D), added subpars. (C) to (F) and redesignated former subpar. (C) as (G).
 
-2008—Subsec. (b). Pub. L. 110–246, § 7406(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) authorized the Secretary to make competitive grants for research to further Department of Agriculture programs and to conduct a program to improve research capabilities in the agricultural, food, and environmental sciences and required an annual report to Congress describing the operations of the program during the preceding fiscal year.
+2008—Subsec. (b). Pub. L. 110–246, § 7406(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) authorized the Secretary to make competitive grants for research to further Department of Agriculture programs and to conduct a program to improve research capabilities in the agricultural, food, and environmental sciences and required an annual report to Congress describing the operations of the program during the preceding fiscal year.
 
-Subsec. (d). Pub. L. 110–246, § 7406(b)(2), struck out subsec. (d) which related to annual grants to support the renovation and refurbishment of research spaces in buildings or spaces to be used for research and the purchase and installation of fixed equipment in such spaces.
+Subsec. (d). Pub. L. 110–246, § 7406(b)(2), struck out subsec. (d) which related to annual grants to support the renovation and refurbishment of research spaces in buildings or spaces to be used for research and the purchase and installation of fixed equipment in such spaces.
 
-Subsec. (k). Pub. L. 110–246, § 7101(b)(2), which directed amendment of “Section 2(k) of the Competitive, Special, and Facilities Research Grant Act” by substituting “3103” for “3103(17)”, was executed by making the substitution to subsec. (k) of this section, which is the Competitive, Special, and Facilities Research Grant Act, to reflect the probable intent of Congress.
+Subsec. (k). Pub. L. 110–246, § 7101(b)(2), which directed amendment of “Section 2(k) of the Competitive, Special, and Facilities Research Grant Act” by substituting “3103” for “3103(17)”, was executed by making the substitution to subsec. (k) of this section, which is the Competitive, Special, and Facilities Research Grant Act, to reflect the probable intent of Congress.
 
-2002—Subsec. (b)(2). Pub. L. 107–171, § 7211, substituted “in the areas described in subparagraphs (A) through (F). Such needs shall be determined by the Secretary, in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, not later than July 1 of each fiscal year for the purposes of the following fiscal year.” for “in—” in provisions preceding subpar. (A).
+2002—Subsec. (b)(2). Pub. L. 107–171, § 7211, substituted “in the areas described in subparagraphs (A) through (F). Such needs shall be determined by the Secretary, in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, not later than July 1 of each fiscal year for the purposes of the following fiscal year.” for “in—” in provisions preceding subpar. (A).
 
-Subsec. (b)(8)(B). Pub. L. 107–171, § 6403(b), substituted “college, university, or research foundation maintained by a college or university that ranks in the lowest ⅓ of such colleges, universities, and research foundations on the basis of Federal research funds received” for “smaller college or university (as described in section 2204f(c)(2)(C)(ii) of this title)” in second sentence.
+Subsec. (b)(8)(B). Pub. L. 107–171, § 6403(b), substituted “college, university, or research foundation maintained by a college or university that ranks in the lowest ⅓ of such colleges, universities, and research foundations on the basis of Federal research funds received” for “smaller college or university (as described in section 2204f(c)(2)(C)(ii) of this title)” in second sentence.
 
-Subsec. (b)(10). Pub. L. 107–171, § 7136, substituted “2007” for “2002” in introductory provisions.
+Subsec. (b)(10). Pub. L. 107–171, § 7136, substituted “2007” for “2002” in introductory provisions.
 
-2001—Subsec. (b)(3)(G). Pub. L. 107–76, § 775(1), added subpar. (G).
+2001—Subsec. (b)(3)(G). Pub. L. 107–76, § 775(1), added subpar. (G).
 
-Subsec. (b)(10)(C). Pub. L. 107–76, § 775(2), substituted “, (F), and (G) of paragraph (3) for” for “and (F) of paragraph (3) for awarding grants in”.
+Subsec. (b)(10)(C). Pub. L. 107–76, § 775(2), substituted “, (F), and (G) of paragraph (3) for” for “and (F) of paragraph (3) for awarding grants in”.
 
-1998—Subsec. (b)(1). Pub. L. 105–185, §§ 211(1), 606(h)(1), in first sentence, inserted “national laboratories,” after “Federal agencies,” and in second sentence, substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under section 3123 of this title)” for “Joint Council on Food and Agricultural Sciences and the National Agricultural Research and Extension Users Advisory Board”.
+1998—Subsec. (b)(1). Pub. L. 105–185, §§ 211(1), 606(h)(1), in first sentence, inserted “national laboratories,” after “Federal agencies,” and in second sentence, substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under section 3123 of this title)” for “Joint Council on Food and Agricultural Sciences and the National Agricultural Research and Extension Users Advisory Board”.
 
-Subsec. (b)(2). Pub. L. 105–185, § 211(2), substituted “multistate” for “regional” in introductory provisions.
+Subsec. (b)(2). Pub. L. 105–185, § 211(2), substituted “multistate” for “regional” in introductory provisions.
 
-Subsec. (b)(3)(E). Pub. L. 105–185, § 211(3), substituted “an individual shall be within 5 years of the individual’s initial career track position” for “an individual shall have less than 5 years of post-graduate research experience” in second sentence.
+Subsec. (b)(3)(E). Pub. L. 105–185, § 211(3), substituted “an individual shall be within 5 years of the individual’s initial career track position” for “an individual shall have less than 5 years of post-graduate research experience” in second sentence.
 
-Subsec. (b)(8)(B). Pub. L. 105–185, § 211(4), substituted “the cost of” for “the cost” and inserted at end “The Secretary may waive all or part of the matching requirement under this subparagraph in the case of a smaller college or university (as described in section 2204f(c)(2)(C)(ii) of this title) if the equipment to be acquired costs not more than $25,000 and has multiple uses within a single research project or is usable in more than 1 research project.”
+Subsec. (b)(8)(B). Pub. L. 105–185, § 211(4), substituted “the cost of” for “the cost” and inserted at end “The Secretary may waive all or part of the matching requirement under this subparagraph in the case of a smaller college or university (as described in section 2204f(c)(2)(C)(ii) of this title) if the equipment to be acquired costs not more than $25,000 and has multiple uses within a single research project or is usable in more than 1 research project.”
 
-Subsec. (b)(10). Pub. L. 105–185, § 301(f), substituted “2002” for “1997” in introductory provisions.
+Subsec. (b)(10). Pub. L. 105–185, § 301(f), substituted “2002” for “1997” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 105–185, § 212(1)(A), substituted “3 years” for “5 years” in introductory provisions.
+Subsec. (c)(1). Pub. L. 105–185, § 212(1)(A), substituted “3 years” for “5 years” in introductory provisions.
 
-Subsec. (c)(1)(A). Pub. L. 105–185, § 212(1)(B), inserted “, extension, or education activities” after “conducting research”.
+Subsec. (c)(1)(A). Pub. L. 105–185, § 212(1)(B), inserted “, extension, or education activities” after “conducting research”.
 
-Subsec. (c)(1)(B). Pub. L. 105–185, § 212(1)(C)(i), inserted “, extension, or education” after “agricultural research” in introductory provisions.
+Subsec. (c)(1)(B). Pub. L. 105–185, § 212(1)(C)(i), inserted “, extension, or education” after “agricultural research” in introductory provisions.
 
-Subsec. (c)(1)(B)(i). Pub. L. 105–185, § 212(1)(C)(ii), inserted “, extension, or education” after “research”.
+Subsec. (c)(1)(B)(i). Pub. L. 105–185, § 212(1)(C)(ii), inserted “, extension, or education” after “research”.
 
-Subsec. (c)(1)(B)(iv). Pub. L. 105–185, § 212(1)(C)(iii), substituted “, extension, or education among States through regional” for “among States through regional research”.
+Subsec. (c)(1)(B)(iv). Pub. L. 105–185, § 212(1)(C)(iii), substituted “, extension, or education among States through regional” for “among States through regional research”.
 
-Subsec. (c)(5), (6). Pub. L. 105–185, § 212(2), added pars. (5) and (6).
+Subsec. (c)(5), (6). Pub. L. 105–185, § 212(2), added pars. (5) and (6).
 
-Subsec. (*l*). Pub. L. 105–185, § 606(h)(2), struck out heading and text of subsec. (*l*). Text read as follows: “The Secretary of Agriculture may consult with the Agricultural Science and Technology Review Board regarding the policies, priorities, and operation of subsections (b) and (c) of this section.”
+Subsec. (*l*). Pub. L. 105–185, § 606(h)(2), struck out heading and text of subsec. (*l*). Text read as follows: “The Secretary of Agriculture may consult with the Agricultural Science and Technology Review Board regarding the policies, priorities, and operation of subsections (b) and (c) of this section.”
 
-1996—Subsec. (b)(10). Pub. L. 104–127, § 885(a)(1), substituted “each of fiscal years 1995 through 1997” for “fiscal year 1995” in introductory provisions.
+1996—Subsec. (b)(10). Pub. L. 104–127, § 885(a)(1), substituted “each of fiscal years 1995 through 1997” for “fiscal year 1995” in introductory provisions.
 
-Subsec. (b)(10)(B). Pub. L. 104–127, § 885(a)(2), substituted “40 percent” for “20 percent”.
+Subsec. (b)(10)(B). Pub. L. 104–127, § 885(a)(2), substituted “40 percent” for “20 percent”.
 
-Subsec. (b)(11). Pub. L. 104–127, § 885(b), added par. (11).
+Subsec. (b)(11). Pub. L. 104–127, § 885(b), added par. (11).
 
 1995—Subsecs. (*l*), (m). Pub. L. 104–66 redesignated subsec. (m) as (*l*) and struck out former subsec. (*l*) which directed Secretary of Agriculture to submit annual reports to Congress on competitive grant and special grant awards.
 
-1991—Subsec. (a). Pub. L. 102–237, § 401(a), designated existing provisions as par. (1) and added par. (2).
+1991—Subsec. (a). Pub. L. 102–237, § 401(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(10). Pub. L. 102–237, § 401(b)(1), struck out “and” after “1993,”.
+Subsec. (b)(10). Pub. L. 102–237, § 401(b)(1), struck out “and” after “1993,”.
 
-Subsec. (e). Pub. L. 102–237, § 401(b)(2)(A), substituted “Inter-Regional Research Project Number 4” for “Record keeping” as heading.
+Subsec. (e). Pub. L. 102–237, § 401(b)(2)(A), substituted “Inter-Regional Research Project Number 4” for “Record keeping” as heading.
 
-Subsec. (e)(1). Pub. L. 102–237, § 401(b)(2)(B), substituted “this subsection” for “this section” in introductory provisions.
+Subsec. (e)(1). Pub. L. 102–237, § 401(b)(2)(B), substituted “this subsection” for “this section” in introductory provisions.
 
-Subsec. (e)(2) to (4). Pub. L. 102–237, § 401(b)(2)(C), substituted “IR–4 Program” for “IR–4 program”.
+Subsec. (e)(2) to (4). Pub. L. 102–237, § 401(b)(2)(C), substituted “IR–4 Program” for “IR–4 program”.
 
-Subsec. (e)(5)(B). Pub. L. 102–237, § 401(b)(2)(D), substituted “registrations,” for “registration,” and inserted “and” at end.
+Subsec. (e)(5)(B). Pub. L. 102–237, § 401(b)(2)(D), substituted “registrations,” for “registration,” and inserted “and” at end.
 
-Subsec. (e)(5)(C). Pub. L. 102–237, § 401(b)(2)(C), substituted “IR–4 Program” for “IR–4 program”.
+Subsec. (e)(5)(C). Pub. L. 102–237, § 401(b)(2)(C), substituted “IR–4 Program” for “IR–4 program”.
 
-Subsec. (e)(6). Pub. L. 102–237, § 401(b)(2)(E), substituted “not later than November 28, 1991,” for “within one year of November 28, 1990,” and inserted a comma after “reregistrations” in first sentence.
+Subsec. (e)(6). Pub. L. 102–237, § 401(b)(2)(E), substituted “not later than November 28, 1991,” for “within one year of November 28, 1990,” and inserted a comma after “reregistrations” in first sentence.
 
-Subsec. (e)(6)(A). Pub. L. 102–237, § 401(b)(2)(C), substituted “IR–4 Program” for “IR–4 program”.
+Subsec. (e)(6)(A). Pub. L. 102–237, § 401(b)(2)(C), substituted “IR–4 Program” for “IR–4 program”.
 
-Subsec. (e)(7). Pub. L. 102–237, § 401(b)(2)(B), substituted “this subsection” for “this section”.
+Subsec. (e)(7). Pub. L. 102–237, § 401(b)(2)(B), substituted “this subsection” for “this section”.
 
-Subsec. (f). Pub. L. 102–237, § 401(b)(3), substituted “Record keeping” for “Limits on overhead costs” as heading.
+Subsec. (f). Pub. L. 102–237, § 401(b)(3), substituted “Record keeping” for “Limits on overhead costs” as heading.
 
-Subsec. (g). Pub. L. 102–237, § 401(b)(4), substituted “Limits on overhead costs” for “Authorization of appropriations” as heading.
+Subsec. (g). Pub. L. 102–237, § 401(b)(4), substituted “Limits on overhead costs” for “Authorization of appropriations” as heading.
 
-Subsec. (h). Pub. L. 102–237, § 401(b)(5), substituted “Authorization of appropriations” for “Rules” as heading and “subsections (b) and (e)” for “subsection (b) of this section” and struck out “the provisions of” after “to carry out”.
+Subsec. (h). Pub. L. 102–237, § 401(b)(5), substituted “Authorization of appropriations” for “Rules” as heading and “subsections (b) and (e)” for “subsection (b) of this section” and struck out “the provisions of” after “to carry out”.
 
-Subsec. (i). Pub. L. 102–237, § 401(b)(6), substituted “Rules” for “Application of other laws” as heading, substituted “may” for “is authorized to”, and struck out “the provisions of” after “to carry out”.
+Subsec. (i). Pub. L. 102–237, § 401(b)(6), substituted “Rules” for “Application of other laws” as heading, substituted “may” for “is authorized to”, and struck out “the provisions of” after “to carry out”.
 
-Subsec. (j). Pub. L. 102–237, § 401(b)(7), (8), inserted “Application of other laws” as heading and redesignated another subsec. (j), relating to emphasis on sustainable agriculture, as (k).
+Subsec. (j). Pub. L. 102–237, § 401(b)(7), (8), inserted “Application of other laws” as heading and redesignated another subsec. (j), relating to emphasis on sustainable agriculture, as (k).
 
-Subsecs. (k) to (m). Pub. L. 102–237, § 401(b)(8), redesignated subsecs. (j) to (*l*), as added by Pub. L. 101–624, § 1615(b), as (k) to (m), respectively.
+Subsecs. (k) to (m). Pub. L. 102–237, § 401(b)(8), redesignated subsecs. (j) to (*l*), as added by Pub. L. 101–624, § 1615(b), as (k) to (m), respectively.
 
-1990—Pub. L. 101–624, § 1615(c)(1), inserted “Competitive, special, and facilities research grants” as section catchline.
+1990—Pub. L. 101–624, § 1615(c)(1), inserted “Competitive, special, and facilities research grants” as section catchline.
 
-Subsec. (a). Pub. L. 101–624, § 1615(c)(1), inserted heading.
+Subsec. (a). Pub. L. 101–624, § 1615(c)(1), inserted heading.
 
-Subsec. (b). Pub. L. 101–624, § 1615(a), inserted heading, designated first two sentences of existing text as par. (1), added pars. (2) to (10), and struck out former similar provisions which identified “high priority research” as well as provisions relating to the awarding, administration, and funding of such research.
+Subsec. (b). Pub. L. 101–624, § 1615(a), inserted heading, designated first two sentences of existing text as par. (1), added pars. (2) to (10), and struck out former similar provisions which identified “high priority research” as well as provisions relating to the awarding, administration, and funding of such research.
 
-Subsec. (c). Pub. L. 101–624, § 1616, amended subsec. (c) generally, designating former introductory text as par. (1), redesignating former pars. (1) and (2) as subpars. (A) and (B), respectively, and in subpar. (A), expanding the entities which may receive grants under this subsection to include all colleges and universities, other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals for the purpose of conducting research in areas of food and agriculture important to the U.S., and designating former closing provisions as pars. (2) through (4), and in par. (4), inserting provisions requiring that ninety percent of the amounts appropriated for a fiscal year under this subsection be used for regional research projects.
+Subsec. (c). Pub. L. 101–624, § 1616, amended subsec. (c) generally, designating former introductory text as par. (1), redesignating former pars. (1) and (2) as subpars. (A) and (B), respectively, and in subpar. (A), expanding the entities which may receive grants under this subsection to include all colleges and universities, other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals for the purpose of conducting research in areas of food and agriculture important to the U.S., and designating former closing provisions as pars. (2) through (4), and in par. (4), inserting provisions requiring that ninety percent of the amounts appropriated for a fiscal year under this subsection be used for regional research projects.
 
-Subsec. (d). Pub. L. 101–624, § 1615(c)(2), inserted heading.
+Subsec. (d). Pub. L. 101–624, § 1615(c)(2), inserted heading.
 
-Subsec. (e). Pub. L. 101–624, §§ 1497(1), (2), 1615(c)(3), added subsec. (e), inserted heading, and redesignated former subsec. (e) as (f).
+Subsec. (e). Pub. L. 101–624, §§ 1497(1), (2), 1615(c)(3), added subsec. (e), inserted heading, and redesignated former subsec. (e) as (f).
 
-Subsec. (f). Pub. L. 101–624, §§ 1497(1), 1615(c)(4), redesignated subsec. (e) as (f) and inserted heading. Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 101–624, §§ 1497(1), 1615(c)(4), redesignated subsec. (e) as (f) and inserted heading. Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 101–624, §§ 1497(1), 1615(c)(5), redesignated subsec. (f) as (g) and inserted heading. Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 101–624, §§ 1497(1), 1615(c)(5), redesignated subsec. (f) as (g) and inserted heading. Former subsec. (g) redesignated (h).
 
-Pub. L. 101–624, § 1497(3), which directed insertion of “and subsection (e)” after “subsection (b)”, could not be executed because “subsection (b)” did not appear in text.
+Pub. L. 101–624, § 1497(3), which directed insertion of “and subsection (e)” after “subsection (b)”, could not be executed because “subsection (b)” did not appear in text.
 
-Subsec. (h). Pub. L. 101–624, §§ 1497(1), 1615(c)(6), redesignated subsec. (g) as (h) and inserted heading. Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 101–624, §§ 1497(1), 1615(c)(6), redesignated subsec. (g) as (h) and inserted heading. Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 101–624, §§ 1497(1), 1615(c)(7), redesignated subsec. (h) as (i) and inserted heading. Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 101–624, §§ 1497(1), 1615(c)(7), redesignated subsec. (h) as (i) and inserted heading. Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 101–624, § 1615(b), added subsec. (j) relating to emphasis on sustainable agriculture.
+Subsec. (j). Pub. L. 101–624, § 1615(b), added subsec. (j) relating to emphasis on sustainable agriculture.
 
-Pub. L. 101–624, § 1497(1), redesignated subsec. (i), relating to application of other laws, as (j).
+Pub. L. 101–624, § 1497(1), redesignated subsec. (i), relating to application of other laws, as (j).
 
-Subsecs. (k) and (*l*). Pub. L. 101–624, § 1615(b), added subsecs. (k) and (*l*).
+Subsecs. (k) and (*l*). Pub. L. 101–624, § 1615(b), added subsecs. (k) and (*l*).
 
-1985—Subsec. (b). Pub. L. 99–198, § 1409(a)(1), (2), substituted in third sentence par. “(2) research, with emphasis on biotechnology,” for “(2) research” and added pars. (7) and (8), and prohibited any grant under subsec. (b) for any purpose for which a grant may be made under subsec. (d) or for the planning, repair, rehabilitation, acquisition, or construction of a building or a facility.
+1985—Subsec. (b). Pub. L. 99–198, § 1409(a)(1), (2), substituted in third sentence par. “(2) research, with emphasis on biotechnology,” for “(2) research” and added pars. (7) and (8), and prohibited any grant under subsec. (b) for any purpose for which a grant may be made under subsec. (d) or for the planning, repair, rehabilitation, acquisition, or construction of a building or a facility.
 
-Pub. L. 99–198, § 1409(a)(3), in concluding provisions substituted appropriations authorization of $70,000,000 annually for fiscal years ending Sept. 30, 1986, through Sept. 30, 1990 for prior authorization of 25, 30, 35, and 40 million dollars for fiscal years ending Sept. 30, 1978, through Sept. 30, 1981, and 50 million dollars annually for fiscal years ending Sept. 30, 1982, through Sept. 30, 1985, and for any subsequent fiscal year not in excess of such sums as may be authorized by law; and authorized retention of four percent of appropriated funds for payment of administrative costs.
+Pub. L. 99–198, § 1409(a)(3), in concluding provisions substituted appropriations authorization of $70,000,000 annually for fiscal years ending Sept. 30, 1986, through Sept. 30, 1990 for prior authorization of 25, 30, 35, and 40 million dollars for fiscal years ending Sept. 30, 1978, through Sept. 30, 1981, and 50 million dollars annually for fiscal years ending Sept. 30, 1982, through Sept. 30, 1985, and for any subsequent fiscal year not in excess of such sums as may be authorized by law; and authorized retention of four percent of appropriated funds for payment of administrative costs.
 
-Subsec. (c). Pub. L. 99–198, § 1409(b)(1), prohibited any grant under subsec. (c) for any purpose for which a grant may be made under subsec. (d) or for the planning, repair, rehabilitation, acquisition, or construction of a building or a facility.
+Subsec. (c). Pub. L. 99–198, § 1409(b)(1), prohibited any grant under subsec. (c) for any purpose for which a grant may be made under subsec. (d) or for the planning, repair, rehabilitation, acquisition, or construction of a building or a facility.
 
-Pub. L. 99–198, § 1409(b)(2), authorized retention of four percent of appropriated funds for payment of administrative costs.
+Pub. L. 99–198, § 1409(b)(2), authorized retention of four percent of appropriated funds for payment of administrative costs.
 
-Subsec. (i). Pub. L. 99–198, § 1409(c), added subsec. (i).
+Subsec. (i). Pub. L. 99–198, § 1409(c), added subsec. (i).
 
-1981—Subsec. (b). Pub. L. 97–98, § 1415(a), inserted “and the National Agricultural Research and Extension Users Advisory Board” and provision specifying what is included in high priority research and substituted “for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985” for “for the fiscal year ending September 30, 1982”.
+1981—Subsec. (b). Pub. L. 97–98, § 1415(a), inserted “and the National Agricultural Research and Extension Users Advisory Board” and provision specifying what is included in high priority research and substituted “for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985” for “for the fiscal year ending September 30, 1982”.
 
-Subsec. (c). Pub. L. 97–98, § 1415(b), in par. (1) inserted “research foundations established by land-grant colleges and universities,”, in par. (2) inserted reference to research foundations established by land-grant colleges and universities, colleges and universities receiving funds under the Act of October 10, 1962, and accredited schools or colleges of veterinary medicine, and added subpar. (D).
+Subsec. (c). Pub. L. 97–98, § 1415(b), in par. (1) inserted “research foundations established by land-grant colleges and universities,”, in par. (2) inserted reference to research foundations established by land-grant colleges and universities, colleges and universities receiving funds under the Act of October 10, 1962, and accredited schools or colleges of veterinary medicine, and added subpar. (D).
 
-Subsec. (d). Pub. L. 97–98, § 1415(c), in provision preceding par. (1) substituted provision directing that annual grants be made to support the renovation and refurbishment, including energy retrofitting, of research spaces in buildings or spaces to be used for research, and the purchase and installation of fixed equipment in such spaces and providing that grants may be used for new construction only for auxiliary facilities and fixed equipment used for research in such facilities, such as greenhouses, insectaries, and research farm structures and installations for provision that grants be made to support the purchase of equipment, supplies, and land, and the construction, alteration, or renovation of buildings, necessary for the conduct of food and agricultural research and added pars. (3) and (4).
+Subsec. (d). Pub. L. 97–98, § 1415(c), in provision preceding par. (1) substituted provision directing that annual grants be made to support the renovation and refurbishment, including energy retrofitting, of research spaces in buildings or spaces to be used for research, and the purchase and installation of fixed equipment in such spaces and providing that grants may be used for new construction only for auxiliary facilities and fixed equipment used for research in such facilities, such as greenhouses, insectaries, and research farm structures and installations for provision that grants be made to support the purchase of equipment, supplies, and land, and the construction, alteration, or renovation of buildings, necessary for the conduct of food and agricultural research and added pars. (3) and (4).
 
 1977—Pub. L. 95–113 designated existing provisions as subsec. (e) and a part of subsec. (b) and added the remainder of subsec. (b) and subsecs. (a), (c), (d), (f), (g), and (h).
 
@@ -3297,15 +3297,15 @@ Amendment by section 7614(b)(4)(B) of Pub. L. 115–334 applicable to grants, co
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Pub. L. 110–234, title VII, § 7406(c), May 22, 2008, 122 Stat. 1251, and Pub. L. 110–246, § 4(a), title VII, § 7406(c), June 18, 2008, 122 Stat. 1664, 2013, provided that: “The amendments made by this section [amending this section and sections 3319, 5924, and 5925b of this title and repealing section 7621 of this title] shall not apply to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before the date of enactment of this Act [June 18, 2008].”
+Pub. L. 110–234, title VII, § 7406(c), May 22, 2008, 122 Stat. 1251, and Pub. L. 110–246, § 4(a), title VII, § 7406(c), June 18, 2008, 122 Stat. 1664, 2013, provided that: “The amendments made by this section [amending this section and sections 3319, 5924, and 5925b of this title and repealing section 7621 of this title] shall not apply to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before the date of enactment of this Act [June 18, 2008].”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XIV, § 1409(a)(3), Dec. 23, 1985, 99 Stat. 1547, provided that the amendment made by section 1409(a)(3) of Pub. L. 99–198 is effective Oct. 1, 1985.
+Pub. L. 99–198, title XIV, § 1409(a)(3), Dec. 23, 1985, 99 Stat. 1547, provided that the amendment made by section 1409(a)(3) of Pub. L. 99–198 is effective Oct. 1, 1985.
 
-Pub. L. 99–198, title XIV, § 1409(b)(2), Dec. 23, 1985, 99 Stat. 1547, provided that the amendment made by section 1409(b)(2) of Pub. L. 99–198 is effective Oct. 1, 1985.
+Pub. L. 99–198, title XIV, § 1409(b)(2), Dec. 23, 1985, 99 Stat. 1547, provided that the amendment made by section 1409(b)(2) of Pub. L. 99–198 is effective Oct. 1, 1985.
 
 **Effective Date of 1981 Amendment**
 
@@ -3315,7 +3315,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
 
-### § 3158. Next generation agriculture technology challenge
+### § 3158. Next generation agriculture technology challenge
 
 **(a) In general**
 
@@ -3325,9 +3325,9 @@ The Secretary shall establish a next generation agriculture technology challenge
 
 The Secretary may award not more than $1,000,000 in the aggregate to 1 or more winners of the competition under subsection (a).
 
-(Pub. L. 95–113, title XIV, § 1419C, as added Pub. L. 115–334, title VII, § 7110, Dec. 20, 2018, 132 Stat. 4784.)
+(Pub. L. 95–113, title XIV, § 1419C, as added Pub. L. 115–334, title VII, § 7110, Dec. 20, 2018, 132 Stat. 4784.)
 
-### § 3159. Land-grant designation
+### § 3159. Land-grant designation
 
 **(a) Prohibition on designation**
 
@@ -3361,7 +3361,7 @@ No State shall receive an increase in funding under a covered program as a resul
 
 Nothing in this section shall be construed as limiting eligibility for a capacity and infrastructure program specified in section 6971(f)(1)(C) of this title that is not a covered program.
 
-(Pub. L. 95–113, title XIV, § 1419D, as added Pub. L. 115–334, title VII, § 7111, Dec. 20, 2018, 132 Stat. 4784.)
+(Pub. L. 95–113, title XIV, § 1419D, as added Pub. L. 115–334, title VII, § 7111, Dec. 20, 2018, 132 Stat. 4784.)
 
 **Editorial Notes**
 
@@ -3369,11 +3369,11 @@ Nothing in this section shall be construed as limiting eligibility for a capacit
 
 The Hatch Act of 1887, referred to in subsec. (c)(2), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
-Public Law 87–788, referred to in subsec. (c)(4), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
+Public Law 87–788, referred to in subsec. (c)(4), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 
 ## SUBCHAPTER IV—NATIONAL FOOD AND HUMAN NUTRITION RESEARCH AND EXTENSION PROGRAM
 
-### § 3171. Congressional findings and declaration of policy
+### § 3171. Congressional findings and declaration of policy
 
 **(a) Findings**
 
@@ -3383,7 +3383,7 @@ Congress finds that there is increasing evidence of a relationship between diet 
 
 It is declared to be the policy of the United States that the Department of Agriculture conduct research in the fields of human nutrition and the nutritive value of foods and conduct human nutrition education activities, as provided in this subchapter.
 
-(Pub. L. 95–113, title XIV, § 1421, Sept. 29, 1977, 91 Stat. 999.)
+(Pub. L. 95–113, title XIV, § 1421, Sept. 29, 1977, 91 Stat. 999.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3393,9 +3393,9 @@ Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as
 
 **Nutrition Information and Awareness Pilot Program**
 
-Pub. L. 107–171, title IV, § 4403, May 13, 2002, 116 Stat. 334, as amended by Pub. L. 110–234, title IV, § 4406(c)(2), May 22, 2008, 122 Stat. 1142; Pub. L. 110–246, § 4(a), title IV, § 4406(c)(2), June 18, 2008, 122 Stat. 1664, 1903, directed the Secretary of Agriculture to establish, in not more than 5 States, for a period not to exceed 4 years for each participating State, a pilot program to increase the domestic consumption of fresh fruits and vegetables, prior to repeal by Pub. L. 113–79, title IV, § 4210, Feb. 7, 2014, 128 Stat. 830.
+Pub. L. 107–171, title IV, § 4403, May 13, 2002, 116 Stat. 334, as amended by Pub. L. 110–234, title IV, § 4406(c)(2), May 22, 2008, 122 Stat. 1142; Pub. L. 110–246, § 4(a), title IV, § 4406(c)(2), June 18, 2008, 122 Stat. 1664, 1903, directed the Secretary of Agriculture to establish, in not more than 5 States, for a period not to exceed 4 years for each participating State, a pilot program to increase the domestic consumption of fresh fruits and vegetables, prior to repeal by Pub. L. 113–79, title IV, § 4210, Feb. 7, 2014, 128 Stat. 830.
 
-### § 3172. Duties of Secretary of Agriculture
+### § 3172. Duties of Secretary of Agriculture
 
 In order to carry out the policy of this subchapter, the Secretary shall develop and implement a national food and human nutrition research and extension program that shall include, but not be limited to—
 
@@ -3409,7 +3409,7 @@ In order to carry out the policy of this subchapter, the Secretary shall develop
 
 **(5)** the development of techniques and equipment to assist consumers in the home or in institutions in selecting food that supplies a nutritionally adequate diet.
 
-(Pub. L. 95–113, title XIV, § 1422, Sept. 29, 1977, 91 Stat. 999.)
+(Pub. L. 95–113, title XIV, § 1422, Sept. 29, 1977, 91 Stat. 999.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3417,7 +3417,7 @@ In order to carry out the policy of this subchapter, the Secretary shall develop
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3173. Research by Department of Agriculture
+### § 3173. Research by Department of Agriculture
 
 **(a) Increase in level of support**
 
@@ -3427,7 +3427,7 @@ The Secretary shall establish research into food and human nutrition as a separa
 
 The Secretary, in administering the food and human nutrition research program, shall periodically consult with the administrators of the other Federal departments and agencies that have responsibility for programs dealing with human food and nutrition, as to the specific research needs of those departments and agencies.
 
-(Pub. L. 95–113, title XIV, § 1423, Sept. 29, 1977, 91 Stat. 999.)
+(Pub. L. 95–113, title XIV, § 1423, Sept. 29, 1977, 91 Stat. 999.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3437,7 +3437,7 @@ Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as
 
 **National Food and Human Nutrition Research Program; Congressional Findings; Comprehensive Plan; Annual Report; Joint Dietary Assessment, Studies and Reports; Submission of Plan and Reports to Congressional Committees**
 
-Pub. L. 99–198, title XIV, subtitle B, §§ 1451–1453, Dec. 23, 1985, 99 Stat. 1561, 1562, as amended by Pub. L. 104–127, title VIII, § 872, Apr. 4, 1996, 110 Stat. 1175, provided that:
+Pub. L. 99–198, title XIV, subtitle B, §§ 1451–1453, Dec. 23, 1985, 99 Stat. 1561, 1562, as amended by Pub. L. 104–127, title VIII, § 872, Apr. 4, 1996, 110 Stat. 1175, provided that:
 
 > **“findings**
 
@@ -3457,7 +3457,7 @@ Pub. L. 99–198, title XIV, subtitle B, §§ 1451–1453, Dec. 23, 1985, 99 S
 
 > **“[Sec. 1452.**
 
-> Repealed. Pub. L. 104–127, title VIII, § 872, Apr. 4, 1996, 110 Stat. 1175.]
+> Repealed. Pub. L. 104–127, title VIII, § 872, Apr. 4, 1996, 110 Stat. 1175.]
 
 > **“dietary assessment and studies**
 
@@ -3473,21 +3473,21 @@ Pub. L. 99–198, title XIV, subtitle B, §§ 1451–1453, Dec. 23, 1985, 99 S
 
 > **“(b)** Not later than 1 year after the date of enactment of this Act [Dec. 23, 1985], the Secretary of Agriculture and the Secretary of Health and Human Services shall each submit to the House Committees on Agriculture and Energy and Commerce and the Senate Committees on Agriculture, Nutrition, and Forestry and Labor and Human Resources a report that shall include the results of the assessments conducted under subsection (a) and recommendations made under such subsection, for more complete studies of the issues examined under such subsection, including a protocol, feasibility assessment, budget estimates and a timetable for such research as each Secretary shall consider appropriate.”
 
-### §§ 3174, 3174a. Repealed. Pub. L. 113–79, title VII, §§ 7108, 7109, Feb. 7, 2014, 128 Stat. 870
+### §§ 3174, 3174a. Repealed. Pub. L. 113–79, title VII, §§ 7108, 7109, Feb. 7, 2014, 128 Stat. 870
 
-Section 3174, Pub. L. 95–113, title XIV, § 1424, as added Pub. L. 104–127, title VIII, § 808, Apr. 4, 1996, 110 Stat. 1162; amended Pub. L. 105–185, title III, § 301(a)(4), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7104, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§ 7113, 7114, May 22, 2008, 122 Stat. 1219; Pub. L. 110–246, § 4(a), title VII, §§ 7113, 7114, June 18, 2008, 122 Stat. 1664, 1980, 1981, related to human nutrition intervention and health promotion research program.
+Section 3174, Pub. L. 95–113, title XIV, § 1424, as added Pub. L. 104–127, title VIII, § 808, Apr. 4, 1996, 110 Stat. 1162; amended Pub. L. 105–185, title III, § 301(a)(4), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7104, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§ 7113, 7114, May 22, 2008, 122 Stat. 1219; Pub. L. 110–246, § 4(a), title VII, §§ 7113, 7114, June 18, 2008, 122 Stat. 1664, 1980, 1981, related to human nutrition intervention and health promotion research program.
 
-Section 3174a, Pub. L. 95–113, title XIV, § 1424A, as added Pub. L. 104–127, title VIII, § 808, Apr. 4, 1996, 110 Stat. 1163; amended Pub. L. 105–185, title III, § 301(a)(5), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7105, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§ 7115, 7511(c)(10)(A), May 22, 2008, 122 Stat. 1220, 1268; Pub. L. 110–246, § 4(a), title VII, §§ 7115, 7511(c)(10)(A), June 18, 2008, 122 Stat. 1664, 1981, 2029, related to pilot research program to combine medical and agricultural research.
+Section 3174a, Pub. L. 95–113, title XIV, § 1424A, as added Pub. L. 104–127, title VIII, § 808, Apr. 4, 1996, 110 Stat. 1163; amended Pub. L. 105–185, title III, § 301(a)(5), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7105, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§ 7115, 7511(c)(10)(A), May 22, 2008, 122 Stat. 1220, 1268; Pub. L. 110–246, § 4(a), title VII, §§ 7115, 7511(c)(10)(A), June 18, 2008, 122 Stat. 1664, 1981, 2029, related to pilot research program to combine medical and agricultural research.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3174, Pub. L. 95–113, title XIV, § 1424, as added Pub. L. 101–624, title XVI, § 1610(a), Nov. 28, 1990, 104 Stat. 3719, provided for establishment of food science and nutrition research center for Southeast region of United States prior to repeal by Pub. L. 104–127, title VIII, § 808, Apr. 4, 1996, 110 Stat. 1162.
+A prior section 3174, Pub. L. 95–113, title XIV, § 1424, as added Pub. L. 101–624, title XVI, § 1610(a), Nov. 28, 1990, 104 Stat. 3719, provided for establishment of food science and nutrition research center for Southeast region of United States prior to repeal by Pub. L. 104–127, title VIII, § 808, Apr. 4, 1996, 110 Stat. 1162.
 
-Another prior section 3174, Pub. L. 95–113, title XIV, § 1424, Sept. 29, 1977, 91 Stat. 1000, provided for a study assessing potential value and cost of establishing regional food and human nutrition research centers and a report thereon, with findings and recommendations, to be submitted to the Congress not later than one year after Oct. 1, 1977, prior to repeal by Pub. L. 99–198, title XIV, § 1413, Dec. 23, 1985, 99 Stat. 1549.
+Another prior section 3174, Pub. L. 95–113, title XIV, § 1424, Sept. 29, 1977, 91 Stat. 1000, provided for a study assessing potential value and cost of establishing regional food and human nutrition research centers and a report thereon, with findings and recommendations, to be submitted to the Congress not later than one year after Oct. 1, 1977, prior to repeal by Pub. L. 99–198, title XIV, § 1413, Dec. 23, 1985, 99 Stat. 1549.
 
-### § 3175. Nutrition education program
+### § 3175. Nutrition education program
 
 **(a) Definition of 1862 Institution and 1890 Institution**
 
@@ -3559,7 +3559,7 @@ Projects carried out with funds made available under section 343(d) of this titl
 
 There is authorized to be appropriated to carry out the expanded food and nutrition education program established under section 343(d) of this title and this section $90,000,000 for each of fiscal years 2009 through 2023.
 
-(Pub. L. 95–113, title XIV, § 1425, Sept. 29, 1977, 91 Stat. 1000; Pub. L. 97–98, title XIV, § 1423, Dec. 22, 1981, 95 Stat. 1307; Pub. L. 101–624, title XVII, § 1776(b), Nov. 28, 1990, 104 Stat. 3814; Pub. L. 104–127, title VIII, § 809, Apr. 4, 1996, 110 Stat. 1164; Pub. L. 105–185, title III, § 301(a)(6), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7106, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, § 7116(a), May 22, 2008, 122 Stat. 1220; Pub. L. 110–246, § 4(a), title VII, § 7116(a), June 18, 2008, 122 Stat. 1664, 1981; Pub. L. 113–79, title VII, § 7110, Feb. 7, 2014, 128 Stat. 870; Pub. L. 115–334, title VII, § 7112, Dec. 20, 2018, 132 Stat. 4785.)
+(Pub. L. 95–113, title XIV, § 1425, Sept. 29, 1977, 91 Stat. 1000; Pub. L. 97–98, title XIV, § 1423, Dec. 22, 1981, 95 Stat. 1307; Pub. L. 101–624, title XVII, § 1776(b), Nov. 28, 1990, 104 Stat. 3814; Pub. L. 104–127, title VIII, § 809, Apr. 4, 1996, 110 Stat. 1164; Pub. L. 105–185, title III, § 301(a)(6), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7106, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, § 7116(a), May 22, 2008, 122 Stat. 1220; Pub. L. 110–246, § 4(a), title VII, § 7116(a), June 18, 2008, 122 Stat. 1664, 1981; Pub. L. 113–79, title VII, § 7110, Feb. 7, 2014, 128 Stat. 870; Pub. L. 115–334, title VII, § 7112, Dec. 20, 2018, 132 Stat. 4785.)
 
 **Editorial Notes**
 
@@ -3569,27 +3569,27 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (f). Pub. L. 115–334, § 7112(2), added subsec. (f). Former subsec. (f) redesignated (g).
+2018—Subsec. (f). Pub. L. 115–334, § 7112(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 115–334, § 7112(1), (3), redesignated subsec. (f) as (g) and substituted “2023” for “2018”.
+Subsec. (g). Pub. L. 115–334, § 7112(1), (3), redesignated subsec. (f) as (g) and substituted “2023” for “2018”.
 
 2014—Subsec. (f). Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Pub. L. 110–246, § 7116(a)(2), reenacted section catchline without change.
+2008—Pub. L. 110–246, § 7116(a)(2), reenacted section catchline without change.
 
-Subsecs. (a) to (d). Pub. L. 110–246, § 7116(a)(1)–(5)(A), added subsec. (a), redesignated former subsecs. (a) to (c) as (b) to (d), respectively, inserted headings, and in subsec. (c) substituted “To enable” for “In order to enable”.
+Subsecs. (a) to (d). Pub. L. 110–246, § 7116(a)(1)–(5)(A), added subsec. (a), redesignated former subsecs. (a) to (c) as (b) to (d), respectively, inserted headings, and in subsec. (c) substituted “To enable” for “In order to enable”.
 
-Subsec. (d)(2)(B). Pub. L. 110–246, § 7116(a)(5)(B), added subpar. (B) and struck out former subpar. (B) which related to allocation of funds other than for administrative or technical purposes, 10 percent of which was to be distributed equally among all States, and the remainder was to be allocated to each State in an amount bearing the same ratio to the total amount to be allocated as the population of the State living at or below 125 percent of income poverty guidelines bore to the total population of all the States living at or below 125 percent of such guidelines.
+Subsec. (d)(2)(B). Pub. L. 110–246, § 7116(a)(5)(B), added subpar. (B) and struck out former subpar. (B) which related to allocation of funds other than for administrative or technical purposes, 10 percent of which was to be distributed equally among all States, and the remainder was to be allocated to each State in an amount bearing the same ratio to the total amount to be allocated as the population of the State living at or below 125 percent of income poverty guidelines bore to the total population of all the States living at or below 125 percent of such guidelines.
 
-Subsec. (d)(3). Pub. L. 110–246, § 7116(a)(5)(C), struck out par. (3) which read as follows: “There is authorized to be appropriated to carry out the expanded food and nutrition education program established under section 343(d) of this title and this section, $83,000,000 for each of fiscal years 1996 through 2007.”
+Subsec. (d)(3). Pub. L. 110–246, § 7116(a)(5)(C), struck out par. (3) which read as follows: “There is authorized to be appropriated to carry out the expanded food and nutrition education program established under section 343(d) of this title and this section, $83,000,000 for each of fiscal years 1996 through 2007.”
 
-Subsecs. (e), (f). Pub. L. 110–246, § 7116(a)(6), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 110–246, § 7116(a)(6), added subsecs. (e) and (f).
 
 2002—Subsec. (c)(3). Pub. L. 107–171 substituted “2007” for “2002”.
 
 1998—Subsec. (c)(3). Pub. L. 105–185 substituted “through 2002” for “and 1997”.
 
-1996—Subsec. (c)(3). Pub. L. 104–127 substituted “, $83,000,000 for each of fiscal years 1996 and 1997” for “$63,000,000 for fiscal year 1991, $68,000,000 for fiscal year 1992, $73,000,000 for fiscal year 1993, $78,000,000 for fiscal year 1994, and $83,000,000 for fiscal year 1995”.
+1996—Subsec. (c)(3). Pub. L. 104–127 substituted “, $83,000,000 for each of fiscal years 1996 and 1997” for “$63,000,000 for fiscal year 1991, $68,000,000 for fiscal year 1992, $73,000,000 for fiscal year 1993, $78,000,000 for fiscal year 1994, and $83,000,000 for fiscal year 1995”.
 
 1990—Subsec. (c)(3). Pub. L. 101–624 added par. (3).
 
@@ -3603,7 +3603,7 @@ Subsec. (c). Pub. L. 97–98 added subsec. (c), and included therein provisions 
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Pub. L. 110–234, title VII, § 7116(c), May 22, 2008, 122 Stat. 1221, and Pub. L. 110–246, § 4(a), title VII, § 7116(c), June 18, 2008, 122 Stat. 1664, 1982, provided that: “The amendments made by this section [amending this section and section 3175e of this title] take effect on October 1, 2008.”
+Pub. L. 110–234, title VII, § 7116(c), May 22, 2008, 122 Stat. 1221, and Pub. L. 110–246, § 4(a), title VII, § 7116(c), June 18, 2008, 122 Stat. 1664, 1982, provided that: “The amendments made by this section [amending this section and section 3175e of this title] take effect on October 1, 2008.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
@@ -3619,23 +3619,23 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3175a. Nutrition and consumer education; Congressional findings
+### § 3175a. Nutrition and consumer education; Congressional findings
 
 Congress finds that individuals in households eligible to participate in programs under the Food Stamp Act of 1977 [7 U.S.C. 2011 et seq.] and other low-income individuals, including those residing in rural areas, should have greater access to nutrition and consumer education to enable them to use their food budgets, including food assistance, effectively and to select and prepare foods that satisfy their nutritional needs and improve their diets.
 
-(Pub. L. 99–198, title XV, § 1584, Dec. 23, 1985, 99 Stat. 1596.)
+(Pub. L. 99–198, title XV, § 1584, Dec. 23, 1985, 99 Stat. 1596.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food Stamp Act of 1977, referred to in text, subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Food Stamp Act of 1977, referred to in text, subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
 
-### § 3175b. Expansion of effective food, nutrition, and consumer education services
+### § 3175b. Expansion of effective food, nutrition, and consumer education services
 
 The purpose of the program provided for under sections 3175a through 3175e of this title is to expand effective food, nutrition, and consumer education services to the greatest practicable number of low-income individuals, including those participating in or eligible to participate in the programs under the Food Stamp Act of 1977 [7 U.S.C. 2011 et seq.], to assist them to—
 
@@ -3645,19 +3645,19 @@ The purpose of the program provided for under sections 3175a through 3175e of th
 
 **(3)** improve their food preparation, storage, safety, preservation, and sanitation practices.
 
-(Pub. L. 99–198, title XV, § 1585, Dec. 23, 1985, 99 Stat. 1596.)
+(Pub. L. 99–198, title XV, § 1585, Dec. 23, 1985, 99 Stat. 1596.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food Stamp Act of 1977, referred to in text, subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Food Stamp Act of 1977, referred to in text, subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
 
-### § 3175c. Program of food, nutrition, and consumer education by State cooperative extension services
+### § 3175c. Program of food, nutrition, and consumer education by State cooperative extension services
 
 The cooperative extension services of the States shall, with funds made available under this subtitle, carry out an expanded program of food, nutrition, and consumer education for low-income individuals in a manner designed to achieve the purpose set forth in section 3175b of this title. In operating the program, the cooperative extension services may use the expanded food and nutrition education program, and other food, nutrition, and consumer education activities of the cooperative extension services or similar activities carried out by them in collaboration with other public or private nonprofit agencies or organizations. In carrying out their responsibilities under the program, the cooperative extension services are encouraged to—
 
@@ -3667,19 +3667,19 @@ The cooperative extension services of the States shall, with funds made availabl
 
 **(3)** to the extent practicable, coordinate activities carried out under the program with the delivery to low-income individuals of benefits under food assistance programs.
 
-(Pub. L. 99–198, title XV, § 1586, Dec. 23, 1985, 99 Stat. 1596.)
+(Pub. L. 99–198, title XV, § 1586, Dec. 23, 1985, 99 Stat. 1596.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in text, is subtitle C (§§ 1581–1589) of title XV of Pub. L. 99–198 which is classified as follows: sections 1581 and 1582 are not classified to the Code; section 1583 is set out as a note under section 2011 of this title; sections 1584 through 1588 are classified, respectively, to sections 3175a to 3175e of this title; and section 1589 is classified to section 3178a of this title.
+This subtitle, referred to in text, is subtitle C (§§ 1581–1589) of title XV of Pub. L. 99–198 which is classified as follows: sections 1581 and 1582 are not classified to the Code; section 1583 is set out as a note under section 2011 of this title; sections 1584 through 1588 are classified, respectively, to sections 3175a to 3175e of this title; and section 1589 is classified to section 3178a of this title.
 
 **Codification**
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
 
-### § 3175d. Administration of program of food, nutrition, and consumer education by State cooperative extension services
+### § 3175d. Administration of program of food, nutrition, and consumer education by State cooperative extension services
 
 **(a) Administration by Secretary of Agriculture**
 
@@ -3689,13 +3689,13 @@ The program provided for under section 3175c of this title shall be administered
 
 The Secretary of Agriculture, not later than April 1, 1989, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report evaluating the effectiveness of the program provided for under section 3175c of this title.
 
-(Pub. L. 99–198, title XV, § 1587, Dec. 23, 1985, 99 Stat. 1596; Pub. L. 110–234, title VII, § 7511(c)(11), May 22, 2008, 122 Stat. 1268; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(11), June 18, 2008, 122 Stat. 1664, 2029.)
+(Pub. L. 99–198, title XV, § 1587, Dec. 23, 1985, 99 Stat. 1596; Pub. L. 110–234, title VII, § 7511(c)(11), May 22, 2008, 122 Stat. 1268; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(11), June 18, 2008, 122 Stat. 1664, 2029.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in subsec. (a), is subtitle C (§§ 1581–1589) of title XV of Pub. L. 99–198, which is classified as follows: sections 1581 and 1582 are not classified to the Code; section 1583 is set out as a note under section 2011 of this title; sections 1584 through 1588 are classified, respectively, to sections 3175a to 3175e of this title; and section 1589 is classified to section 3178a of this title.
+This subtitle, referred to in subsec. (a), is subtitle C (§§ 1581–1589) of title XV of Pub. L. 99–198, which is classified as follows: sections 1581 and 1582 are not classified to the Code; section 1583 is set out as a note under section 2011 of this title; sections 1584 through 1588 are classified, respectively, to sections 3175a to 3175e of this title; and section 1589 is classified to section 3178a of this title.
 
 **Codification**
 
@@ -3705,7 +3705,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–246, § 7511(c)(11), substituted “National Institute of Food and Agriculture” for “Extension Service” in two places.
+2008—Subsec. (a). Pub. L. 110–246, § 7511(c)(11), substituted “National Institute of Food and Agriculture” for “Extension Service” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3715,7 +3715,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 7511(c)(11) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 
-### § 3175e. Authorization of appropriations
+### § 3175e. Authorization of appropriations
 
 **(a)** There are hereby authorized to be appropriated to carry out sections 3175a through 3175e of this title $8,000,000 for each of the fiscal years 1991 through 1995.
 
@@ -3723,7 +3723,7 @@ Amendment by section 7511(c)(11) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
 **(c)** Any funds appropriated to carry out sections 3175a through 3175e of this title shall supplement any other funds appropriated to the Department of Agriculture for use by the Department and the cooperative extension services of the States for food, nutrition, and consumer education for low-income households.
 
-(Pub. L. 99–198, title XV, § 1588, Dec. 23, 1985, 99 Stat. 1597; Pub. L. 101–624, title XVII, § 1776(a), Nov. 28, 1990, 104 Stat. 3814; Pub. L. 110–234, title VII, § 7116(b), May 22, 2008, 122 Stat. 1221; Pub. L. 110–246, § 4(a), title VII, § 7116(b), June 18, 2008, 122 Stat. 1664, 1982.)
+(Pub. L. 99–198, title XV, § 1588, Dec. 23, 1985, 99 Stat. 1597; Pub. L. 101–624, title XVII, § 1776(a), Nov. 28, 1990, 104 Stat. 3814; Pub. L. 110–234, title VII, § 7116(b), May 22, 2008, 122 Stat. 1221; Pub. L. 110–246, § 4(a), title VII, § 7116(b), June 18, 2008, 122 Stat. 1664, 1982.)
 
 **Editorial Notes**
 
@@ -3735,7 +3735,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 **Amendments**
 
-2008—Subsec. (b). Pub. L. 110–246, § 7116(b), substituted “section 3175(d)(2)” for “section 3175(c)(2)”.
+2008—Subsec. (b). Pub. L. 110–246, § 7116(b), substituted “section 3175(d)(2)” for “section 3175(c)(2)”.
 
 1990—Subsec. (a). Pub. L. 101–624 substituted “$8,000,000 for each of the fiscal years 1991 through 1995.” for “$5,000,000 for the fiscal year ending September 30, 1986; $6,000,000 for the fiscal year ending September 30, 1987; and $8,000,000 for each of the fiscal years ending September 30, 1988, September 30, 1989, and September 30, 1990.”
 
@@ -3751,9 +3751,9 @@ Amendment by section 7116(b) of Pub. L. 110–246 effective Oct. 1, 2008, see se
 
 Amendment by Pub. L. 101–624 effective Oct. 1, 1990, see section 1781(b)(1) of Pub. L. 101–624, set out as a note under section 2012 of this title.
 
-### § 3176. Repealed. Pub. L. 97–98, title XIV, § 1424(a), Dec. 22, 1981, 95 Stat. 1308
+### § 3176. Repealed. Pub. L. 97–98, title XIV, § 1424(a), Dec. 22, 1981, 95 Stat. 1308
 
-Section, Pub. L. 95–113, title XIV, § 1426, Sept. 29, 1977, 91 Stat. 1000, related to preparation and distribution of a comprehensive set of educational materials on food and nutrition education by Secretary to State departments of education.
+Section, Pub. L. 95–113, title XIV, § 1426, Sept. 29, 1977, 91 Stat. 1000, related to preparation and distribution of a comprehensive set of educational materials on food and nutrition education by Secretary to State departments of education.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3761,19 +3761,19 @@ Section, Pub. L. 95–113, title XIV, § 1426, Sept. 29, 1977, 91 Stat. 1000, 
 
 Repeal by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
 
-### § 3177. Repealed. Pub. L. 99–198, title XIV, § 1413, Dec. 23, 1985, 99 Stat. 1549
+### § 3177. Repealed. Pub. L. 99–198, title XIV, § 1413, Dec. 23, 1985, 99 Stat. 1549
 
-Section, Pub. L. 95–113, title XIV, § 1427, Sept. 29, 1977, 91 Stat. 1000; Pub. L. 97–98, title XIV, § 1425(a), Dec. 22, 1981, 95 Stat. 1308, required submission to Congress of a plan for a human nutrition research management system.
+Section, Pub. L. 95–113, title XIV, § 1427, Sept. 29, 1977, 91 Stat. 1000; Pub. L. 97–98, title XIV, § 1425(a), Dec. 22, 1981, 95 Stat. 1308, required submission to Congress of a plan for a human nutrition research management system.
 
-### § 3178. Nutritional status monitoring
+### § 3178. Nutritional status monitoring
 
 **(a) Formulation of system** The Secretary and the Secretary of Health and Human Services shall formulate and submit to Congress, within ninety days after September 29, 1977, a proposal for a comprehensive nutritional status monitoring system, to include:
 
 **(1)** an assessment system consisting of periodic surveys and continuous monitoring to determine: the extent of risk of nutrition-related health problems in the United States; which population groups or areas of the country face greatest risk; and the likely causes of risk and changes in the above risk factors over time;
 
-**(2)** a surveillance system to identify remediable nutrition-related health risks to individuals or for local areas, in such a manner as to tie detection to direct intervention and treatment. Such system should draw on screening and other information from other health programs, including those funded under titles V, XVIII, and XIX of the Social Security Act [42 U.S.C. 701 et seq., 1395 et seq., and 1396 et seq.] and section 330 of the Public Health Service Act; 1
+**(2)** a surveillance system to identify remediable nutrition-related health risks to individuals or for local areas, in such a manner as to tie detection to direct intervention and treatment. Such system should draw on screening and other information from other health programs, including those funded under titles V, XVIII, and XIX of the Social Security Act [42 U.S.C. 701 et seq., 1395 et seq., and 1396 et seq.] and section 330 of the Public Health Service Act; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
@@ -3783,15 +3783,15 @@ and
 
 The proposal shall provide for coordination of activities under existing authorities and contain recommendations for any additional authorities necessary to achieve a comprehensive monitoring system.
 
-(Pub. L. 95–113, title XIV, § 1428, Sept. 29, 1977, 91 Stat. 1001; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 95–113, title XIV, § 1428, Sept. 29, 1977, 91 Stat. 1001; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title V of the Social Security Act is classified principally to subchapter V (§ 701 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title V of the Social Security Act is classified principally to subchapter V (§ 701 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 330 of the Public Health Service Act, referred to in subsec. (a)(2), is section 330 of act July 1, 1944, which was classified to section 254c of Title 42, The Public Health and Welfare, and was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of chapter 6A of Title 42 by Pub. L. 104–299, § 2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of Title 42.
+Section 330 of the Public Health Service Act, referred to in subsec. (a)(2), is section 330 of act July 1, 1944, which was classified to section 254c of Title 42, The Public Health and Welfare, and was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of chapter 6A of Title 42 by Pub. L. 104–299, § 2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of Title 42.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3803,7 +3803,7 @@ Section 330 of the Public Health Service Act, referred to in subsec. (a)(2), is 
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3178a. Nutrition monitoring
+### § 3178a. Nutrition monitoring
 
 The Secretary of Agriculture shall—
 
@@ -3813,7 +3813,7 @@ The Secretary of Agriculture shall—
 
 **(3)** encourage research by public and private entities relating to effective standards, methodologies, and technologies for accurate assessment of the nutritional and dietary status of individuals.
 
-(Pub. L. 99–198, title XV, § 1589, Dec. 23, 1985, 99 Stat. 1597.)
+(Pub. L. 99–198, title XV, § 1589, Dec. 23, 1985, 99 Stat. 1597.)
 
 **Editorial Notes**
 
@@ -3821,7 +3821,7 @@ The Secretary of Agriculture shall—
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
 
-### § 3179. Research on strategies to promote the selection and consumption of healthy foods
+### § 3179. Research on strategies to promote the selection and consumption of healthy foods
 
 **(a) In general**
 
@@ -3867,7 +3867,7 @@ There are authorized to be appropriated to carry out this section such sums as a
 
 The Secretary may use up to 5 percent of the funds made available under paragraph (1) for Federal administrative expenses incurred in carrying out this section.
 
-(Pub. L. 111–296, title II, § 244, Dec. 13, 2010, 124 Stat. 3239.)
+(Pub. L. 111–296, title II, § 244, Dec. 13, 2010, 124 Stat. 3239.)
 
 **Editorial Notes**
 
@@ -3883,11 +3883,11 @@ Section effective Oct. 1, 2010, except as otherwise specifically provided, see s
 
 **Definition of Secretary**
 
-Pub. L. 111–296, § 2, Dec. 13, 2010, 124 Stat. 3185, provided that: “In this Act [see Short Title of 2010 Amendment note set out under section 1751 of Title 42, The Public Health and Welfare], the term ‘Secretary’ means the Secretary of Agriculture.”
+Pub. L. 111–296, § 2, Dec. 13, 2010, 124 Stat. 3185, provided that: “In this Act [see Short Title of 2010 Amendment note set out under section 1751 of Title 42, The Public Health and Welfare], the term ‘Secretary’ means the Secretary of Agriculture.”
 
 ## SUBCHAPTER V—ANIMAL HEALTH AND DISEASE RESEARCH
 
-### § 3191. Purposes and findings relating to animal health and disease research
+### § 3191. Purposes and findings relating to animal health and disease research
 
 **(a) Purposes** The purposes of this subchapter are to—
 
@@ -3915,7 +3915,7 @@ Pub. L. 111–296, § 2, Dec. 13, 2010, 124 Stat. 3185, provided that: “In t
 
 **(2)** colleges and universities having accredited schools or colleges of veterinary medicine and State agricultural experiment stations that conduct animal health and disease research are especially vital in training research workers in animal health and related disciplines.
 
-(Pub. L. 95–113, title XIV, § 1429, Sept. 29, 1977, 91 Stat. 1001; Pub. L. 97–98, title XIV, § 1426, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 104–127, title VIII, § 810, Apr. 4, 1996, 110 Stat. 1164.)
+(Pub. L. 95–113, title XIV, § 1429, Sept. 29, 1977, 91 Stat. 1001; Pub. L. 97–98, title XIV, § 1426, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 104–127, title VIII, § 810, Apr. 4, 1996, 110 Stat. 1164.)
 
 **Editorial Notes**
 
@@ -3937,7 +3937,7 @@ Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as
 
 **Studies on Agricultural Research and Technology**
 
-Pub. L. 107–171, title X, § 10907, May 13, 2002, 116 Stat. 538, provided that:
+Pub. L. 107–171, title X, § 10907, May 13, 2002, 116 Stat. 538, provided that:
 
 > **“(a) Scientific Studies.—**
 
@@ -3959,7 +3959,7 @@ Pub. L. 107–171, title X, § 10907, May 13, 2002, 116 Stat. 538, provided th
 
 > **“(2) Stockpiling of vaccines.—** If, after conducting the study and comparison described in paragraph (1), the Secretary determines that there is an insufficient number of doses of a particular vaccine referred to in that paragraph, the Secretary may take such actions as are necessary to obtain the required additional doses of the vaccine.”
 
-### § 3192. Definitions
+### § 3192. Definitions
 
 When used in this subchapter—
 
@@ -3971,7 +3971,7 @@ When used in this subchapter—
 
 **(4)** the term “animal health research capacity” means the capacity of an eligible institution to conduct animal health and disease research, as determined by the Secretary.
 
-(Pub. L. 95–113, title XIV, § 1430, Sept. 29, 1977, 91 Stat. 1002; Pub. L. 97–98, title XIV, § 1427, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 105–185, title VI, § 606(d)(1), June 23, 1998, 112 Stat. 604.)
+(Pub. L. 95–113, title XIV, § 1430, Sept. 29, 1977, 91 Stat. 1002; Pub. L. 97–98, title XIV, § 1427, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 105–185, title VI, § 606(d)(1), June 23, 1998, 112 Stat. 604.)
 
 **Editorial Notes**
 
@@ -3993,7 +3993,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3193. Authorization to Secretary of Agriculture
+### § 3193. Authorization to Secretary of Agriculture
 
 **(a) Authority to cooperate with, encourage, and assist States**
 
@@ -4013,7 +4013,7 @@ In order to carry out the purpose of this subchapter, the Secretary is authorize
 
 **(3)** The study required by this subsection shall include recommendations for changes in research and extension policies or priorities, food safety programs and policies, and policies and procedures governing the approval, use, and monitoring of animal drugs.
 
-(Pub. L. 95–113, title XIV, § 1431, Sept. 29, 1977, 91 Stat. 1002; Pub. L. 101–624, title XVI, § 1611(a), Nov. 28, 1990, 104 Stat. 3720; Pub. L. 113–79, title VII, § 7111(b)(3)(A), Feb. 7, 2014, 128 Stat. 874.)
+(Pub. L. 95–113, title XIV, § 1431, Sept. 29, 1977, 91 Stat. 1002; Pub. L. 101–624, title XVI, § 1611(a), Nov. 28, 1990, 104 Stat. 3720; Pub. L. 113–79, title VII, § 7111(b)(3)(A), Feb. 7, 2014, 128 Stat. 874.)
 
 **Editorial Notes**
 
@@ -4029,11 +4029,11 @@ In order to carry out the purpose of this subchapter, the Secretary is authorize
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3194. Repealed. Pub. L. 104–127, title VIII, § 854, Apr. 4, 1996, 110 Stat. 1172
+### § 3194. Repealed. Pub. L. 104–127, title VIII, § 854, Apr. 4, 1996, 110 Stat. 1172
 
-Section, Pub. L. 95–113, title XIV, § 1432, Sept. 29, 1977, 91 Stat. 1002; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–98, title XIV, § 1428, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, § 1414(a), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, § 1611(b), Nov. 28, 1990, 104 Stat. 3721; Pub. L. 102–237, title IV, § 402(8), Dec. 13, 1991, 105 Stat. 1863, related to establishment of Animal Health Science Research Advisory Board.
+Section, Pub. L. 95–113, title XIV, § 1432, Sept. 29, 1977, 91 Stat. 1002; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–98, title XIV, § 1428, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, § 1414(a), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, § 1611(b), Nov. 28, 1990, 104 Stat. 3721; Pub. L. 102–237, title IV, § 402(8), Dec. 13, 1991, 105 Stat. 1863, related to establishment of Animal Health Science Research Advisory Board.
 
-### § 3195. Continuing animal health and disease, food security, and stewardship research, education, and extension programs
+### § 3195. Continuing animal health and disease, food security, and stewardship research, education, and extension programs
 
 **(a) Capacity and infrastructure program**
 
@@ -4131,7 +4131,7 @@ The Secretary shall reserve not less than $5,000,000 of the funds made available
 
 **(C)** Whenever two or more States jointly establish an accredited regional college of veterinary medicine or jointly support an accredited college of veterinary medicine serving the States involved, the Secretary is authorized to make funds which are available to such States pursuant to paragraph (4) available for such college in such amount that reflects the combined relative value of, and income from, domestic livestock, poultry, and commercial aquaculture species in the cooperating States, such amount to be adjusted, as necessary, pursuant to subsection (a)(1) and subparagraph (B).
 
-(Pub. L. 95–113, title XIV, § 1433, Sept. 29, 1977, 91 Stat. 1003; Pub. L. 97–98, title XIV, § 1429, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, § 1414(b), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, § 1601(b)(1), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, § 811, Apr. 4, 1996, 110 Stat. 1165; Pub. L. 105–185, title III, § 301(a)(7), title VI, § 606(d)(2), June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, § 7107, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§ 7117, 7118, May 22, 2008, 122 Stat. 1221, 1222; Pub. L. 110–246, § 4(a), title VII, §§ 7117, 7118, June 18, 2008, 122 Stat. 1664, 1983; Pub. L. 113–79, title VII, § 7111(a), Feb. 7, 2014, 128 Stat. 871; Pub. L. 115–334, title VII, § 7113, Dec. 20, 2018, 132 Stat. 4785.)
+(Pub. L. 95–113, title XIV, § 1433, Sept. 29, 1977, 91 Stat. 1003; Pub. L. 97–98, title XIV, § 1429, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, § 1414(b), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, § 1601(b)(1), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, § 811, Apr. 4, 1996, 110 Stat. 1165; Pub. L. 105–185, title III, § 301(a)(7), title VI, § 606(d)(2), June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, § 7107, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§ 7117, 7118, May 22, 2008, 122 Stat. 1221, 1222; Pub. L. 110–246, § 4(a), title VII, §§ 7117, 7118, June 18, 2008, 122 Stat. 1664, 1983; Pub. L. 113–79, title VII, § 7111(a), Feb. 7, 2014, 128 Stat. 871; Pub. L. 115–334, title VII, § 7113, Dec. 20, 2018, 132 Stat. 4785.)
 
 **Editorial Notes**
 
@@ -4145,27 +4145,27 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Pub. L. 113–79 amended section generally. Prior to amendment, section related to continuing animal health and disease research programs at eligible institutions.
 
-2008—Subsec. (a). Pub. L. 110–246, § 7117, substituted “2012” for “2007”.
+2008—Subsec. (a). Pub. L. 110–246, § 7117, substituted “2012” for “2007”.
 
-Subsec. (g). Pub. L. 110–246, § 7118, added subsec. (g).
+Subsec. (g). Pub. L. 110–246, § 7118, added subsec. (g).
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
-1998—Subsec. (a). Pub. L. 105–185, § 301(a)(7), substituted “2002” for “1997” in first sentence.
+1998—Subsec. (a). Pub. L. 105–185, § 301(a)(7), substituted “2002” for “1997” in first sentence.
 
-Subsec. (b)(3). Pub. L. 105–185, § 606(d)(2), struck out “with the advice, when available, of the Board” before period at end of second sentence.
+Subsec. (b)(3). Pub. L. 105–185, § 606(d)(2), struck out “with the advice, when available, of the Board” before period at end of second sentence.
 
-1996—Subsec. (a). Pub. L. 104–127, § 811(1), substituted “1997” for “1995” in first sentence.
+1996—Subsec. (a). Pub. L. 104–127, § 811(1), substituted “1997” for “1995” in first sentence.
 
-Subsec. (b)(2). Pub. L. 104–127, § 811(2), substituted “domestic livestock, poultry, and commercial aquaculture species” for “domestic livestock and poultry” wherever appearing, and “horses, poultry, and commercial aquaculture species” for “horses, and poultry” in second sentence.
+Subsec. (b)(2). Pub. L. 104–127, § 811(2), substituted “domestic livestock, poultry, and commercial aquaculture species” for “domestic livestock and poultry” wherever appearing, and “horses, poultry, and commercial aquaculture species” for “horses, and poultry” in second sentence.
 
-Subsecs. (d), (f). Pub. L. 104–127, § 811(3), (4), substituted “domestic livestock, poultry, and commercial aquaculture species” for “domestic livestock and poultry”.
+Subsecs. (d), (f). Pub. L. 104–127, § 811(3), (4), substituted “domestic livestock, poultry, and commercial aquaculture species” for “domestic livestock and poultry”.
 
 1990—Subsec. (a). Pub. L. 101–624 substituted “for each of the fiscal years 1991 through 1995,” for “annually for the period beginning October 1, 1981, and ending September 30, 1990,”.
 
 1985—Subsec. (a). Pub. L. 99–198 substituted “1990” for “1985”.
 
-1981—Subsec. (a). Pub. L. 97–98 substituted “as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year” for “, not to exceed $25,000,000 annually, as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions”.
+1981—Subsec. (a). Pub. L. 97–98 substituted “as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year” for “, not to exceed $25,000,000 annually, as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4181,7 +4181,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3196. Research on national and regional animal health or disease problems
+### § 3196. Research on national and regional animal health or disease problems
 
 **(a) Authorization of appropriations**
 
@@ -4215,13 +4215,13 @@ In the case of multiyear grants, the Secretary shall distribute funds to grant r
 
 Chapter 10 of title 5 and title XVIII of this Act [7 U.S.C. 2281 et seq.] shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
 
-(Pub. L. 95–113, title XIV, § 1434, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 97–98, title XIV, § 1430, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, § 1414(c), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, § 1601(b)(2), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §§ 812, 852(b)(5), Apr. 4, 1996, 110 Stat. 1165, 1171; Pub. L. 105–185, title III, § 301(a)(8), title VI, § 606(d)(3), June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, § 7108, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§ 7119, 7120, May 22, 2008, 122 Stat. 1222; Pub. L. 110–246, § 4(a), title VII, §§ 7119, 7120, June 18, 2008, 122 Stat. 1664, 1983; Pub. L. 117–286, § 4(a)(37), Dec. 27, 2022, 136 Stat. 4309.)
+(Pub. L. 95–113, title XIV, § 1434, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 97–98, title XIV, § 1430, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, § 1414(c), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, § 1601(b)(2), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §§ 812, 852(b)(5), Apr. 4, 1996, 110 Stat. 1165, 1171; Pub. L. 105–185, title III, § 301(a)(8), title VI, § 606(d)(3), June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, § 7108, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§ 7119, 7120, May 22, 2008, 122 Stat. 1222; Pub. L. 110–246, § 4(a), title VII, §§ 7119, 7120, June 18, 2008, 122 Stat. 1664, 1983; Pub. L. 117–286, § 4(a)(37), Dec. 27, 2022, 136 Stat. 4309.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title XVIII of this Act, referred to in subsec. (f), is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, which is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
+Title XVIII of this Act, referred to in subsec. (f), is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, which is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
 **Codification**
 
@@ -4231,39 +4231,39 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2022—Subsec. (f). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-2008—Subsec. (a). Pub. L. 110–246, § 7119, substituted “2012” for “2007”.
+2008—Subsec. (a). Pub. L. 110–246, § 7119, substituted “2012” for “2007”.
 
-Subsec. (b). Pub. L. 110–246, § 7120, inserted “(including 1890 Institutions (as defined in section 7601 of this title))” after “universities”.
+Subsec. (b). Pub. L. 110–246, § 7120, inserted “(including 1890 Institutions (as defined in section 7601 of this title))” after “universities”.
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
-1998—Subsec. (a). Pub. L. 105–185, § 301(a)(8), substituted “2002” for “1997”.
+1998—Subsec. (a). Pub. L. 105–185, § 301(a)(8), substituted “2002” for “1997”.
 
-Subsec. (c). Pub. L. 105–185, § 606(d)(3), struck out “and the Board” after “Advisory Board” in second sentence and substituted “and the Advisory Board” for “, the Advisory Board, and the Board” in fourth sentence.
+Subsec. (c). Pub. L. 105–185, § 606(d)(3), struck out “and the Board” after “Advisory Board” in second sentence and substituted “and the Advisory Board” for “, the Advisory Board, and the Board” in fourth sentence.
 
-1996—Subsec. (a). Pub. L. 104–127, § 812(1), inserted “or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being,” after “problems,” and substituted “1997” for “1995”.
+1996—Subsec. (a). Pub. L. 104–127, § 812(1), inserted “or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being,” after “problems,” and substituted “1997” for “1995”.
 
-Subsec. (b). Pub. L. 104–127, § 812(2), substituted “State agricultural experiment stations, colleges and universities, other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals” for “eligible institutions”.
+Subsec. (b). Pub. L. 104–127, § 812(2), substituted “State agricultural experiment stations, colleges and universities, other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals” for “eligible institutions”.
 
-Subsec. (c). Pub. L. 104–127, § 852(b)(5), in introductory provisions, substituted “after consultation with the Advisory Board” for “after consultation with the Joint Council, the Advisory Board,” and “the Secretary, the Advisory Board,” for “the Secretary, the Joint Council, the Advisory Board,”.
+Subsec. (c). Pub. L. 104–127, § 852(b)(5), in introductory provisions, substituted “after consultation with the Advisory Board” for “after consultation with the Joint Council, the Advisory Board,” and “the Secretary, the Advisory Board,” for “the Secretary, the Joint Council, the Advisory Board,”.
 
-Pub. L. 104–127, § 812(3)(A), in introductory provisions, inserted “, food safety, and animal well-being” after “animal health and disease”.
+Pub. L. 104–127, § 812(3)(A), in introductory provisions, inserted “, food safety, and animal well-being” after “animal health and disease”.
 
-Subsec. (c)(2) to (5). Pub. L. 104–127, § 812(3)(B), added pars. (2) and (3) and redesignated former pars. (2) and (3) as (4) and (5), respectively.
+Subsec. (c)(2) to (5). Pub. L. 104–127, § 812(3)(B), added pars. (2) and (3) and redesignated former pars. (2) and (3) as (4) and (5), respectively.
 
-Subsec. (d). Pub. L. 104–127, § 812(4), struck out “to eligible institutions” after “award grants”.
+Subsec. (d). Pub. L. 104–127, § 812(4), struck out “to eligible institutions” after “award grants”.
 
-Subsec. (f). Pub. L. 104–127, § 812(5), added subsec. (f).
+Subsec. (f). Pub. L. 104–127, § 812(5), added subsec. (f).
 
 1990—Subsec. (a). Pub. L. 101–624 substituted “for each of the fiscal years 1991 through 1995,” for “annually for the period beginning October 1, 1981, and ending September 30, 1990,”.
 
 1985—Subsec. (a). Pub. L. 99–198 substituted “1990” for “1985”.
 
-1981—Subsec. (a). Pub. L. 97–98, § 1430(a), substituted “as Congress may determine necessary to support research on specific national or regional animal health or disease problems, but not to exceed $35,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year” for “, not to exceed $15,000,000 annually, as Congress may determine necessary to support research on specific national or regional animal health or disease problems”.
+1981—Subsec. (a). Pub. L. 97–98, § 1430(a), substituted “as Congress may determine necessary to support research on specific national or regional animal health or disease problems, but not to exceed $35,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year” for “, not to exceed $15,000,000 annually, as Congress may determine necessary to support research on specific national or regional animal health or disease problems”.
 
-Subsec. (b). Pub. L. 97–98, § 1430(b), substituted provisions that funds appropriated under this section shall be awarded in the form of grants, for periods not to exceed five years, to eligible institutions for provisions that such funds shall be allocated by the Secretary to eligible institutions for work to be done, as mutually agreed upon between the Secretary and the eligible institution or institutions and that the Secretary shall consult the Board in developing plans for the use of these funds whenever possible.
+Subsec. (b). Pub. L. 97–98, § 1430(b), substituted provisions that funds appropriated under this section shall be awarded in the form of grants, for periods not to exceed five years, to eligible institutions for provisions that such funds shall be allocated by the Secretary to eligible institutions for work to be done, as mutually agreed upon between the Secretary and the eligible institution or institutions and that the Secretary shall consult the Board in developing plans for the use of these funds whenever possible.
 
-Subsecs. (c) to (e). Pub. L. 97–98, § 1430(c), added subsecs. (c) to (e).
+Subsecs. (c) to (e). Pub. L. 97–98, § 1430(c), added subsecs. (c) to (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4279,11 +4279,11 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3197. Availability of appropriated funds
+### § 3197. Availability of appropriated funds
 
 Funds available to carry out sections 3195(a) and 3196 of this title shall be paid to each State or eligible institution at such times and in such amounts as shall be determined by the Secretary. Funds shall remain available for payment of unliquidated obligations for one additional fiscal year following the year of appropriation.
 
-(Pub. L. 95–113, title XIV, § 1435, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 113–79, title VII, § 7111(b)(3)(B), Feb. 7, 2014, 128 Stat. 874.)
+(Pub. L. 95–113, title XIV, § 1435, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 113–79, title VII, § 7111(b)(3)(B), Feb. 7, 2014, 128 Stat. 874.)
 
 **Editorial Notes**
 
@@ -4297,11 +4297,11 @@ Funds available to carry out sections 3195(a) and 3196 of this title shall be pa
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3198. Withholding of appropriated funds
+### § 3198. Withholding of appropriated funds
 
 If the Secretary determines that a State is not entitled to receive its allocation of the annual appropriation under subsection (c) of section 3195 of this title to carry out subsection (a) of such section because of its failure to satisfy requirements of this subchapter or regulations issued under it, the Secretary shall withhold such amount. The facts and reasons concerning the determination and withholding shall be reported to the President; and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress does not direct such sum to be paid, it shall be carried to surplus.
 
-(Pub. L. 95–113, title XIV, § 1436, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 113–79, title VII, § 7111(b)(3)(C), Feb. 7, 2014, 128 Stat. 874.)
+(Pub. L. 95–113, title XIV, § 1436, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 113–79, title VII, § 7111(b)(3)(C), Feb. 7, 2014, 128 Stat. 874.)
 
 **Editorial Notes**
 
@@ -4315,11 +4315,11 @@ If the Secretary determines that a State is not entitled to receive its allocati
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3199. Requirements for use of funds
+### § 3199. Requirements for use of funds
 
 With respect to research projects on problems of animal health and disease to be performed at eligible institutions and supported with funds allocated to the States under subsection (c) of section 3195 of this title to carry out subsection (a) of such section, the dean or director of each eligible institution shall cause to be prepared and shall review proposals for such research projects, which contain data showing compliance with the purpose in section 3191 of this title and the provisions for use of funds specified in section 3195(a) of this title, and with general guidelines for project eligibility to be provided by the Secretary. Such research proposals that are approved by the dean or director shall be submitted to the Secretary prior to assignment of funds thereto with a brief summary showing compliance with the provisions of this subtitle and the Secretary’s general guidelines.
 
-(Pub. L. 95–113, title XIV, § 1437, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 105–185, title VI, § 606(d)(4), June 23, 1998, 112 Stat. 604; Pub. L. 113–79, title VII, § 7111(b)(3)(D), Feb. 7, 2014, 128 Stat. 874.)
+(Pub. L. 95–113, title XIV, § 1437, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 105–185, title VI, § 606(d)(4), June 23, 1998, 112 Stat. 604; Pub. L. 113–79, title VII, § 7111(b)(3)(D), Feb. 7, 2014, 128 Stat. 874.)
 
 **Editorial Notes**
 
@@ -4335,11 +4335,11 @@ With respect to research projects on problems of animal health and disease to be
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3200. Matching funds
+### § 3200. Matching funds
 
 No funds in excess of $100,000, exclusive of the funds provided for research on specific national or regional animal health and disease problems under the provisions of section 3196 of this title, shall be paid by the Federal Government to any State under subsection (c) of section 3195 of this title to carry out subsection (a) of such section during any fiscal year in excess of the amount from non-Federal sources made available to and budgeted for expenditure by eligible institutions in the State during the same fiscal year for animal health and disease research. The Secretary is authorized to make such payments in excess of $100,000 on the certificate of the appropriate official of the eligible institution having charge of the animal health and disease research for which such payments are to be made. If any eligible institution certified for receipt of matching funds fails to make available and budget for expenditure for animal health and disease research in any fiscal year sums at least equal to the amount for which it is certified, the difference between the Federal matching funds available and the funds made available to and budgeted for expenditure by the eligible institution shall be reapportioned by the Secretary among other eligible institutions of the same State, if there are any which qualify therefor, and, if there are none, the Secretary shall reapportion such difference among the other States.
 
-(Pub. L. 95–113, title XIV, § 1438, Sept. 29, 1977, 91 Stat. 1005; Pub. L. 113–79, title VII, § 7111(b)(3)(E), Feb. 7, 2014, 128 Stat. 874.)
+(Pub. L. 95–113, title XIV, § 1438, Sept. 29, 1977, 91 Stat. 1005; Pub. L. 113–79, title VII, § 7111(b)(3)(E), Feb. 7, 2014, 128 Stat. 874.)
 
 **Editorial Notes**
 
@@ -4353,11 +4353,11 @@ No funds in excess of $100,000, exclusive of the funds provided for research on 
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3201. Funds appropriated or otherwise made available pursuant to other provisions of law
+### § 3201. Funds appropriated or otherwise made available pursuant to other provisions of law
 
 The sums appropriated and allocated to States and eligible institutions under subsection (c) of section 3195 of this title to carry out subsection (a) of such section or section 3196 of this title, as applicable, shall be in addition to, and not in substitution for, sums appropriated or otherwise made available to such States and institutions pursuant to other provisions of law.
 
-(Pub. L. 95–113, title XIV, § 1439, Sept. 29, 1977, 91 Stat. 1005; Pub. L. 113–79, title VII, § 7111(b)(3)(F), Feb. 7, 2014, 128 Stat. 874.)
+(Pub. L. 95–113, title XIV, § 1439, Sept. 29, 1977, 91 Stat. 1005; Pub. L. 113–79, title VII, § 7111(b)(3)(F), Feb. 7, 2014, 128 Stat. 874.)
 
 **Editorial Notes**
 
@@ -4371,7 +4371,7 @@ The sums appropriated and allocated to States and eligible institutions under su
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3202. Research and education grants for the study of antibiotic-resistant bacteria
+### § 3202. Research and education grants for the study of antibiotic-resistant bacteria
 
 **(a) In general** The Secretary shall provide research and education grants, on a competitive basis—
 
@@ -4399,7 +4399,7 @@ Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 3157 of this 
 
 There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.
 
-(Pub. L. 110–234, title VII, § 7521, May 22, 2008, 122 Stat. 1271; Pub. L. 110–246, § 4(a), title VII, § 7521, June 18, 2008, 122 Stat. 1664, 2033.)
+(Pub. L. 110–234, title VII, § 7521, May 22, 2008, 122 Stat. 1271; Pub. L. 110–246, § 4(a), title VII, § 7521, June 18, 2008, 122 Stat. 1664, 2033.)
 
 **Editorial Notes**
 
@@ -4421,7 +4421,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ## SUBCHAPTER VI—1890 LAND-GRANT COLLEGE FUNDING
 
-### § 3221. Extension at 1890 land-grant colleges, including Tuskegee University
+### § 3221. Extension at 1890 land-grant colleges, including Tuskegee University
 
 **(a) Authorization of appropriations**
 
@@ -4545,15 +4545,15 @@ If any portion of the moneys received by any eligible institution for the suppor
 
 To the extent that the official mail consists of correspondence, bulletins, and reports for furtherance of the purposes of this section, it shall be transmitted in the mails of the United States. Such items may be mailed from a principal place of business of each eligible institution or from an established subunit of such institution.
 
-(Pub. L. 95–113, title XIV, § 1444, Sept. 29, 1977, 91 Stat. 1007; Pub. L. 97–98, title XIV, § 1431, Dec. 22, 1981, 95 Stat. 1310; Pub. L. 99–198, title XIV, § 1415, Dec. 23, 1985, 99 Stat. 1549; Pub. L. 104–127, title VIII, § 883(b), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, § 103(f)(3)(A), title II, §§ 225(a), 226(c)(2), June 23, 1998, 112 Stat. 528, 540, 543; Pub. L. 107–171, title VII, § 7203(a), May 13, 2002, 116 Stat. 438; Pub. L. 110–234, title VII, §§ 7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), May 22, 2008, 122 Stat. 1222, 1246, 1247, 1268; Pub. L. 110–246, § 4(a), title VII, §§ 7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), June 18, 2008, 122 Stat. 1664, 1983, 2008, 2029; Pub. L. 115–334, title VII, §§ 7114, 7115(a), 7612(c)(1), Dec. 20, 2018, 132 Stat. 4785, 4832.)
+(Pub. L. 95–113, title XIV, § 1444, Sept. 29, 1977, 91 Stat. 1007; Pub. L. 97–98, title XIV, § 1431, Dec. 22, 1981, 95 Stat. 1310; Pub. L. 99–198, title XIV, § 1415, Dec. 23, 1985, 99 Stat. 1549; Pub. L. 104–127, title VIII, § 883(b), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, § 103(f)(3)(A), title II, §§ 225(a), 226(c)(2), June 23, 1998, 112 Stat. 528, 540, 543; Pub. L. 107–171, title VII, § 7203(a), May 13, 2002, 116 Stat. 438; Pub. L. 110–234, title VII, §§ 7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), May 22, 2008, 122 Stat. 1222, 1246, 1247, 1268; Pub. L. 110–246, § 4(a), title VII, §§ 7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), June 18, 2008, 122 Stat. 1664, 1983, 2008, 2029; Pub. L. 115–334, title VII, §§ 7114, 7115(a), 7612(c)(1), Dec. 20, 2018, 132 Stat. 4785, 4832.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of August 30, 1890, 26 Stat. 417, as amended, referred to in subsec. (a)(1), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, and is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, 26 Stat. 417, as amended, referred to in subsec. (a)(1), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, and is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
-Act of May 8, 1914, 38 Stat. 372, referred to in subsec. (a)(2), is popularly known as the “Smith-Lever Act”, and is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
+Act of May 8, 1914, 38 Stat. 372, referred to in subsec. (a)(2), is popularly known as the “Smith-Lever Act”, and is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
 
 **Codification**
 
@@ -4561,25 +4561,25 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (a)(4). Pub. L. 115–334, § 7114, struck out par. (4). Text read as follows: “No more than 20 per centum of the funds received by an institution in any fiscal year may be carried forward to the succeeding fiscal year.”
+2018—Subsec. (a)(4). Pub. L. 115–334, § 7114, struck out par. (4). Text read as follows: “No more than 20 per centum of the funds received by an institution in any fiscal year may be carried forward to the succeeding fiscal year.”
 
-Subsec. (b). Pub. L. 115–334, § 7115(a)(4), inserted heading and struck out introductory provisions which read as follows: “Beginning with the fiscal year ending September 30, 1979—”.
+Subsec. (b). Pub. L. 115–334, § 7115(a)(4), inserted heading and struck out introductory provisions which read as follows: “Beginning with the fiscal year ending September 30, 1979—”.
 
-Subsec. (b)(1). Pub. L. 115–334, § 7115(a)(4), added par. (1). Former par. (1) redesignated (2).
+Subsec. (b)(1). Pub. L. 115–334, § 7115(a)(4), added par. (1). Former par. (1) redesignated (2).
 
-Pub. L. 115–334, § 7115(a)(3), substituted “were allocated” for “are allocated” and “, as so designated as of that date.” for “; and”.
+Pub. L. 115–334, § 7115(a)(3), substituted “were allocated” for “are allocated” and “, as so designated as of that date.” for “; and”.
 
-Subsec. (b)(2). Pub. L. 115–334, § 7115(a)(4), redesignated par. (1) as (2), inserted heading, and substituted “Any funds” for “any funds”. Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 115–334, § 7115(a)(4), redesignated par. (1) as (2), inserted heading, and substituted “Any funds” for “any funds”. Former par. (2) redesignated (3).
 
-Subsec. (b)(2)(B). Pub. L. 115–334, § 7115(a)(2)(A), substituted “Except as provided in paragraph (4), of the remainder” for “Of the remainder”.
+Subsec. (b)(2)(B). Pub. L. 115–334, § 7115(a)(2)(A), substituted “Except as provided in paragraph (4), of the remainder” for “Of the remainder”.
 
-Subsec. (b)(2)(C). Pub. L. 115–334, § 7115(a)(1), redesignated concluding provisions of subsec. (b) as subpar. (C) of par. (2) and substituted “this paragraph” for “paragraph (2) of this subsection”.
+Subsec. (b)(2)(C). Pub. L. 115–334, § 7115(a)(1), redesignated concluding provisions of subsec. (b) as subpar. (C) of par. (2) and substituted “this paragraph” for “paragraph (2) of this subsection”.
 
-Subsec. (b)(3). Pub. L. 115–334, § 7115(a)(2)(B), redesignated par. (2) as (3), inserted heading, and substituted “Any funds” for “any funds” in introductory provisions.
+Subsec. (b)(3). Pub. L. 115–334, § 7115(a)(2)(B), redesignated par. (2) as (3), inserted heading, and substituted “Any funds” for “any funds” in introductory provisions.
 
-Subsec. (b)(4). Pub. L. 115–334, § 7115(a)(5), added par. (4).
+Subsec. (b)(4). Pub. L. 115–334, § 7115(a)(5), added par. (4).
 
-Subsec. (d)(3). Pub. L. 115–334, § 7612(c)(1), added subpars. (A) and (B) and struck out former subpars. (A) to (E) which read as follows:
+Subsec. (d)(3). Pub. L. 115–334, § 7612(c)(1), added subpars. (A) and (B) and struck out former subpars. (A) to (E) which read as follows:
 
 “(A) The critical short-term, intermediate, and long-term agricultural issues in the State in which the eligible institution is located and the current and planned extension programs and projects targeted to address the issues.
 
@@ -4591,33 +4591,33 @@ Subsec. (d)(3). Pub. L. 115–334, § 7612(c)(1), added subpars. (A) and (B) a
 
 “(E) The education and outreach programs already underway to convey currently available research results that are pertinent to a critical agricultural issue, including efforts to encourage multicounty cooperation in the dissemination of research results.”
 
-2008—Subsec. (a)(2). Pub. L. 110–246, §§ 7121, 7403(c), substituted “20 percent” for “15 percent” and “under section 3(d) of that Act (7 U.S.C. 343(d))” for “after September 30, 1995, under section 3(d) of that Act (7 U.S.C. 343(d)), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section 3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary”.
+2008—Subsec. (a)(2). Pub. L. 110–246, §§ 7121, 7403(c), substituted “20 percent” for “15 percent” and “under section 3(d) of that Act (7 U.S.C. 343(d))” for “after September 30, 1995, under section 3(d) of that Act (7 U.S.C. 343(d)), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section 3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary”.
 
-Subsec. (b)(2)(A). Pub. L. 110–246, § 7511(c)(12), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+Subsec. (b)(2)(A). Pub. L. 110–246, § 7511(c)(12), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
-Subsec. (f). Pub. L. 110–246, § 7404(b)(2)(A)(i), struck out “under penalty indicia: *Provided*, That each item shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe” after “United States”.
+Subsec. (f). Pub. L. 110–246, § 7404(b)(2)(A)(i), struck out “under penalty indicia: *Provided*, That each item shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe” after “United States”.
 
 2002—Subsec. (a). Pub. L. 107–171 inserted subsec. heading, designated first, third, fourth, and fifth sentences as pars. (1) to (4), respectively, inserted headings, struck out “Beginning with the fiscal year ending September 30, 1979, and ending with the fiscal year ending September 30, 1981, there shall be appropriated under this section for each fiscal year an amount not less than 4 per centum of the total appropriations for such year under the Act of May 8, 1914 (38 Stat. 372–374, as amended; 7 U.S.C. 341–349): *Provided*, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available for the fiscal year ending September 30, 1978, to such eligible institutions under section 3(d) of the Act of May 8, 1914 (38 Stat. 373, as amended; 7 U.S.C. 343(d).” after “(hereinafter in this section referred to as ‘eligible institutions’).” in par. (1), and substituted “Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 15 percent” for “Beginning with the fiscal year ending September 30, 1982, there shall be appropriated under this section an amount not less than 5½ per centum, and for each fiscal year thereafter an amount not less than 6 per centum” in par. (2).
 
-1998—Pub. L. 105–185, § 226(c)(2)(A), substituted “University” for “Institute” in section catchline.
+1998—Pub. L. 105–185, § 226(c)(2)(A), substituted “University” for “Institute” in section catchline.
 
-Subsecs. (a), (b). Pub. L. 105–185, § 226(c)(2)(B), substituted “Tuskegee University” for “Tuskegee Institute” in first sentence of subsec. (a) and concluding provisions of subsec. (b).
+Subsecs. (a), (b). Pub. L. 105–185, § 226(c)(2)(B), substituted “Tuskegee University” for “Tuskegee Institute” in first sentence of subsec. (a) and concluding provisions of subsec. (b).
 
-Subsec. (d). Pub. L. 105–185, § 225(a), inserted subsec. heading, designated existing provisions as pars. (1) and (2) and inserted par. headings, in par. (2) substituted “The amount to which an eligible institution is entitled” for “Such sums”, and added pars. (3) to (5).
+Subsec. (d). Pub. L. 105–185, § 225(a), inserted subsec. heading, designated existing provisions as pars. (1) and (2) and inserted par. headings, in par. (2) substituted “The amount to which an eligible institution is entitled” for “Such sums”, and added pars. (3) to (5).
 
-Subsecs. (f), (g). Pub. L. 105–185, § 103(f)(3)(A), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “If the Secretary finds that an eligible institution is not entitled to receive its share of the annual appropriation, the facts and reasons therefor shall be reported to the President, and the amount involved shall be kept separate in the Treasury until the expiration of the next Congress in order that the institution may, if it should so desire, appeal to Congress from the determination of the Secretary. If the next Congress does not direct such sum to be paid, it shall be carried to surplus.”
+Subsecs. (f), (g). Pub. L. 105–185, § 103(f)(3)(A), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “If the Secretary finds that an eligible institution is not entitled to receive its share of the annual appropriation, the facts and reasons therefor shall be reported to the President, and the amount involved shall be kept separate in the Treasury until the expiration of the next Congress in order that the institution may, if it should so desire, appeal to Congress from the determination of the Secretary. If the next Congress does not direct such sum to be paid, it shall be carried to surplus.”
 
-1996—Subsec. (a). Pub. L. 104–127 inserted before period at end of third sentence “, except that for the purpose of this calculation, the total appropriations shall not include amounts made available after September 30, 1995, under section 3(d) of that Act (7 U.S.C. 343(d)), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section 3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary”.
+1996—Subsec. (a). Pub. L. 104–127 inserted before period at end of third sentence “, except that for the purpose of this calculation, the total appropriations shall not include amounts made available after September 30, 1995, under section 3(d) of that Act (7 U.S.C. 343(d)), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section 3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary”.
 
-1985—Subsec. (a). Pub. L. 99–198 in third sentence, struck out “, through the fiscal year ending September 30, 1985,” after “fiscal year thereafter” and inserted at end “, and related acts pertaining to cooperative extension work at the land-grant institutions identified in the Act of May 8, 1914 (38 Stat. 372, chapter 79; 7 U.S.C. 341 et seq.)”.
+1985—Subsec. (a). Pub. L. 99–198 in third sentence, struck out “, through the fiscal year ending September 30, 1985,” after “fiscal year thereafter” and inserted at end “, and related acts pertaining to cooperative extension work at the land-grant institutions identified in the Act of May 8, 1914 (38 Stat. 372, chapter 79; 7 U.S.C. 341 et seq.)”.
 
-1981—Subsec. (a). Pub. L. 97–98, § 1431(1), (2), inserted provisions designating the fiscal year ending Sept. 30, 1981, as the last of the fiscal years for which the appropriation under this section had to be 4 per centum or more of the total appropriation for each year under the Act of May 8, 1914, and inserted provisions that, beginning with the fiscal year ending Sept. 30, 1982, there must be appropriated under this section an amount not less than 5½ per centum and for each fiscal year thereafter, through the fiscal year ending Sept. 30, 1985, an amount not less than 6 per centum of the total appropriations for such year under the Act of May 8, 1914.
+1981—Subsec. (a). Pub. L. 97–98, § 1431(1), (2), inserted provisions designating the fiscal year ending Sept. 30, 1981, as the last of the fiscal years for which the appropriation under this section had to be 4 per centum or more of the total appropriation for each year under the Act of May 8, 1914, and inserted provisions that, beginning with the fiscal year ending Sept. 30, 1982, there must be appropriated under this section an amount not less than 5½ per centum and for each fiscal year thereafter, through the fiscal year ending Sept. 30, 1985, an amount not less than 6 per centum of the total appropriations for such year under the Act of May 8, 1914.
 
-Subsec. (b)(2)(B). Pub. L., 97–98, § 1431(3), inserted “current at the time each such additional sum is first appropriated” after “the last preceding decennial census” in two places.
+Subsec. (b)(2)(B). Pub. L., 97–98, § 1431(3), inserted “current at the time each such additional sum is first appropriated” after “the last preceding decennial census” in two places.
 
-Subsec. (c). Pub. L. 97–98, § 1431(4), substituted “extension administrator” for “administrative head for extension” and inserted provision for the submission of a comprehensive program of extension for approval by the Secretary each five years after Sept. 29, 1977.
+Subsec. (c). Pub. L. 97–98, § 1431(4), substituted “extension administrator” for “administrative head for extension” and inserted provision for the submission of a comprehensive program of extension for approval by the Secretary each five years after Sept. 29, 1977.
 
-Subsec. (d). Pub. L. 97–98, § 1431(5), substituted “submitted, as part of the State plan of work,” for “submitted by the proper officials of each institution”.
+Subsec. (d). Pub. L. 97–98, § 1431(5), substituted “submitted, as part of the State plan of work,” for “submitted by the proper officials of each institution”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4629,7 +4629,7 @@ Amendment by section 7511(c)(12) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–185, title II, § 225(c), June 23, 1998, 112 Stat. 542, provided that: “The amendments made by this section [amending this section and section 3222 of this title] take effect on October 1, 1999.”
+Pub. L. 105–185, title II, § 225(c), June 23, 1998, 112 Stat. 542, provided that: “The amendments made by this section [amending this section and section 3222 of this title] take effect on October 1, 1999.”
 
 **Effective Date of 1981 Amendment**
 
@@ -4639,11 +4639,11 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-**West Virginia State College, Institute, West Virginia**
+**West Virginia State College, Institute, West Virginia**
 
 Pub. L. 106–78, title I, Oct. 22, 1999, 113 Stat. 1141, provided in part that West Virginia State College in Institute, West Virginia: “for fiscal year 2000 and thereafter shall be designated as an eligible institution under section 1444 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3221)”.
 
-### § 3222. Agricultural research at 1890 land-grant colleges, including Tuskegee University
+### § 3222. Agricultural research at 1890 land-grant colleges, including Tuskegee University
 
 **(a) Authorization of appropriations**
 
@@ -4801,13 +4801,13 @@ On or before the first day of October in each year after September 29, 1977, the
 
 Nothing in this section shall be construed to impair or modify the legal relationship existing between any of the eligible institutions and the government of the States in which they are respectively located.
 
-(Pub. L. 95–113, title XIV, § 1445, Sept. 29, 1977, 91 Stat. 1009; Pub. L. 95–547, Oct. 28, 1978, 92 Stat. 2063; Pub. L. 97–98, title XIV, § 1432(a), Dec. 22, 1981, 95 Stat. 1311; Pub. L. 99–198, title XIV, § 1417, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 105–185, title I, § 103(f)(3)(B), title II, §§ 225(b), 226(b), (c)(3), June 23, 1998, 112 Stat. 528, 541, 543; Pub. L. 105–362, title I, § 101(e), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 107–171, title VII, §§ 7203(b), 7204, May 13, 2002, 116 Stat. 438; Pub. L. 110–234, title VII, §§ 7122, 7404(b)(2)(A)(ii), May 22, 2008, 122 Stat. 1222, 1247; Pub. L. 110–246, § 4(a), title VII, §§ 7122, 7404(b)(2)(A)(ii), June 18, 2008, 122 Stat. 1664, 1983, 2008; Pub. L. 115–334, title VII, §§ 7115(b), 7612(c)(2), Dec. 20, 2018, 132 Stat. 4787, 4832.)
+(Pub. L. 95–113, title XIV, § 1445, Sept. 29, 1977, 91 Stat. 1009; Pub. L. 95–547, Oct. 28, 1978, 92 Stat. 2063; Pub. L. 97–98, title XIV, § 1432(a), Dec. 22, 1981, 95 Stat. 1311; Pub. L. 99–198, title XIV, § 1417, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 105–185, title I, § 103(f)(3)(B), title II, §§ 225(b), 226(b), (c)(3), June 23, 1998, 112 Stat. 528, 541, 543; Pub. L. 105–362, title I, § 101(e), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 107–171, title VII, §§ 7203(b), 7204, May 13, 2002, 116 Stat. 438; Pub. L. 110–234, title VII, §§ 7122, 7404(b)(2)(A)(ii), May 22, 2008, 122 Stat. 1222, 1247; Pub. L. 110–246, § 4(a), title VII, §§ 7122, 7404(b)(2)(A)(ii), June 18, 2008, 122 Stat. 1664, 1983, 2008; Pub. L. 115–334, title VII, §§ 7115(b), 7612(c)(2), Dec. 20, 2018, 132 Stat. 4787, 4832.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of August 30, 1890, 26 Stat. 417, referred to in subsec. (a)(1), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, and is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, 26 Stat. 417, referred to in subsec. (a)(1), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, and is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 **Codification**
 
@@ -4815,23 +4815,23 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (b). Pub. L. 115–334, § 7115(b)(3), inserted heading and struck out introductory provisions which read as follows: “Beginning with the fiscal year ending September 30, 1979, the funds appropriated in each fiscal year under this section shall be distributed as follows:”.
+2018—Subsec. (b). Pub. L. 115–334, § 7115(b)(3), inserted heading and struck out introductory provisions which read as follows: “Beginning with the fiscal year ending September 30, 1979, the funds appropriated in each fiscal year under this section shall be distributed as follows:”.
 
-Subsec. (b)(1). Pub. L. 115–334, § 7115(b)(3), added par. (1). Former par. (1) redesignated (2).
+Subsec. (b)(1). Pub. L. 115–334, § 7115(b)(3), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (b)(2). Pub. L. 115–334, § 7115(b)(2), redesignated par. (1) as (2), inserted heading, and substituted “3 percent” for “Three per centum”. Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 115–334, § 7115(b)(2), redesignated par. (1) as (2), inserted heading, and substituted “3 percent” for “Three per centum”. Former par. (2) redesignated (3).
 
-Subsec. (b)(2)(A). Pub. L. 115–334, § 7115(b)(1)(C)(i), (ii), substituted “were allocated” for “are allocated” and inserted “, as so designated as of that date” before period at end.
+Subsec. (b)(2)(A). Pub. L. 115–334, § 7115(b)(1)(C)(i), (ii), substituted “were allocated” for “are allocated” and inserted “, as so designated as of that date” before period at end.
 
-Subsec. (b)(2)(B). Pub. L. 115–334, § 7115(b)(1)(C)(iii), redesignated subpar. (A) as (B) and inserted heading. Former subpar. (B) redesignated (C).
+Subsec. (b)(2)(B). Pub. L. 115–334, § 7115(b)(1)(C)(iii), redesignated subpar. (A) as (B) and inserted heading. Former subpar. (B) redesignated (C).
 
-Subsec. (b)(2)(C). Pub. L. 115–334, § 7115(b)(1)(B), redesignated subpar. (B) as (C), inserted heading, and substituted “Except as provided in subparagraph (D), of funds” for “Of funds”.
+Subsec. (b)(2)(C). Pub. L. 115–334, § 7115(b)(1)(B), redesignated subpar. (B) as (C), inserted heading, and substituted “Except as provided in subparagraph (D), of funds” for “Of funds”.
 
-Subsec. (b)(2)(D). Pub. L. 115–334, § 7115(b)(1)(A), added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 115–334, § 7115(b)(1)(A), added subpar. (D).
 
-Subsec. (b)(3). Pub. L. 115–334, § 7115(b)(1)(D), redesignated par. (2) as (3), inserted heading, added subpar. (A), and struck out introductory provisions which read as follows: “The remainder shall be allotted among the eligible institutions as follows:”.
+Subsec. (b)(3). Pub. L. 115–334, § 7115(b)(1)(D), redesignated par. (2) as (3), inserted heading, added subpar. (A), and struck out introductory provisions which read as follows: “The remainder shall be allotted among the eligible institutions as follows:”.
 
-Subsec. (c)(3). Pub. L. 115–334, § 7612(c)(2), added subpars. (A) and (B) and struck out former subpars. (A) to (E) which read as follows:
+Subsec. (c)(3). Pub. L. 115–334, § 7612(c)(2), added subpars. (A) and (B) and struck out former subpars. (A) to (E) which read as follows:
 
 “(A) The critical short-term, intermediate, and long-term agricultural issues in the State in which the eligible institution is located and the current and planned research programs and projects targeted to address the issues.
 
@@ -4843,41 +4843,41 @@ Subsec. (c)(3). Pub. L. 115–334, § 7612(c)(2), added subpars. (A) and (B) a
 
 “(E) The manner in which research and extension, including research and extension activities funded other than through formula funds, will cooperate to address the critical issues in the State, including the activities to be carried out separately, the activities to be carried out sequentially, and the activities to be carried out jointly.”
 
-2008—Subsec. (a)(2). Pub. L. 110–246, § 7122, substituted “30 percent” for “25 percent”.
+2008—Subsec. (a)(2). Pub. L. 110–246, § 7122, substituted “30 percent” for “25 percent”.
 
-Subsec. (e). Pub. L. 110–246, § 7404(b)(2)(A)(ii), struck out “under penalty indicia: *Provided*, That each publication shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe” after “United States”.
+Subsec. (e). Pub. L. 110–246, § 7404(b)(2)(A)(ii), struck out “under penalty indicia: *Provided*, That each publication shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe” after “United States”.
 
-2002—Subsec. (a). Pub. L. 107–171, § 7203(b), inserted heading, designated existing provisions as pars. (1) to (5), inserted headings, and substituted in par. (2) “Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 25 percent of the total appropriations for the fiscal year under section 361c of this title.” for “Beginning with the fiscal year ending September 30, 1979, there shall be appropriated under this section for each fiscal year an amount not less than 15 per centum of the total appropriations for such year under section 361c of this title: *Provided*, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available in the fiscal year ending September 30, 1978, to such eligible institutions under the Act of August 4, 1965 (79 Stat. 431, [former] 7 U.S.C. 450i).”
+2002—Subsec. (a). Pub. L. 107–171, § 7203(b), inserted heading, designated existing provisions as pars. (1) to (5), inserted headings, and substituted in par. (2) “Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 25 percent of the total appropriations for the fiscal year under section 361c of this title.” for “Beginning with the fiscal year ending September 30, 1979, there shall be appropriated under this section for each fiscal year an amount not less than 15 per centum of the total appropriations for such year under section 361c of this title: *Provided*, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available in the fiscal year ending September 30, 1978, to such eligible institutions under the Act of August 4, 1965 (79 Stat. 431, [former] 7 U.S.C. 450i).”
 
-Subsec. (a)(5). Pub. L. 107–171, § 7204, added par. (5) and struck out heading and text of former par. (5). Text read as follows: “No more than 5 percent of the funds received by an institution in any fiscal year, under this section, may be carried forward to the succeeding fiscal year.”
+Subsec. (a)(5). Pub. L. 107–171, § 7204, added par. (5) and struck out heading and text of former par. (5). Text read as follows: “No more than 5 percent of the funds received by an institution in any fiscal year, under this section, may be carried forward to the succeeding fiscal year.”
 
-1998—Pub. L. 105–185, § 226(c)(3)(A), substituted “University” for “Institute” in section catchline.
+1998—Pub. L. 105–185, § 226(c)(3)(A), substituted “University” for “Institute” in section catchline.
 
-Subsec. (a). Pub. L. 105–185, § 226(c)(3)(B), substituted “Tuskegee University” for “Tuskegee Institute” in first sentence.
+Subsec. (a). Pub. L. 105–185, § 226(c)(3)(B), substituted “Tuskegee University” for “Tuskegee Institute” in first sentence.
 
-Subsec. (b)(2)(B). Pub. L. 105–185, § 226(c)(3)(B), substituted “Tuskegee University” for “Tuskegee Institute”.
+Subsec. (b)(2)(B). Pub. L. 105–185, § 226(c)(3)(B), substituted “Tuskegee University” for “Tuskegee Institute”.
 
-Subsec. (c). Pub. L. 105–185, § 225(b), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added pars. (2) to (5).
+Subsec. (c). Pub. L. 105–185, § 225(b), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added pars. (2) to (5).
 
-Subsec. (g). Pub. L. 105–362, § 101(e)(1), struck out “(1)” before “On or before”.
+Subsec. (g). Pub. L. 105–362, § 101(e)(1), struck out “(1)” before “On or before”.
 
-Subsec. (g)(2). Pub. L. 105–362, § 101(e)(2), struck out par. (2) which read as follows: “The Secretary shall make an annual report to Congress during the first regular session of each year of the receipts and expenditures and work of the eligible institutions under the provisions of this section and also whether any portion of the appropriation available for allotment to any institution has been withheld and if so the reasons therefor.”
+Subsec. (g)(2). Pub. L. 105–362, § 101(e)(2), struck out par. (2) which read as follows: “The Secretary shall make an annual report to Congress during the first regular session of each year of the receipts and expenditures and work of the eligible institutions under the provisions of this section and also whether any portion of the appropriation available for allotment to any institution has been withheld and if so the reasons therefor.”
 
-Pub. L. 105–185, § 226(b) redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “If it appears to the Secretary from the annual statement of receipts and expenditures of funds by any eligible institution that an amount in excess of 5 percent of the preceding annual appropriation allotted to that institution under this section remains unexpended, such amount in excess of 5 percent of the preceding annual appropriation allotted to that institution shall be deducted from the next succeeding annual allotment to the institution.”
+Pub. L. 105–185, § 226(b) redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “If it appears to the Secretary from the annual statement of receipts and expenditures of funds by any eligible institution that an amount in excess of 5 percent of the preceding annual appropriation allotted to that institution under this section remains unexpended, such amount in excess of 5 percent of the preceding annual appropriation allotted to that institution shall be deducted from the next succeeding annual allotment to the institution.”
 
-Subsec. (g)(3). Pub. L. 105–185, § 103(f)(3)(B), struck out par. (3) which read as follows: “If the Secretary withholds from any eligible institution any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress does not direct such sum to be paid, it shall be carried to surplus.”
+Subsec. (g)(3). Pub. L. 105–185, § 103(f)(3)(B), struck out par. (3) which read as follows: “If the Secretary withholds from any eligible institution any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress does not direct such sum to be paid, it shall be carried to surplus.”
 
-Subsec. (g)(4). Pub. L. 105–185, § 226(b)(2), redesignated par. (4) as (2).
+Subsec. (g)(4). Pub. L. 105–185, § 226(b)(2), redesignated par. (4) as (2).
 
-1985—Subsec. (a). Pub. L. 99–198, § 1417(a), provided that not more than 5 percent of the funds received by an institution in any fiscal year, under this section, may be carried forward to the succeeding fiscal year.
+1985—Subsec. (a). Pub. L. 99–198, § 1417(a), provided that not more than 5 percent of the funds received by an institution in any fiscal year, under this section, may be carried forward to the succeeding fiscal year.
 
-Subsec. (g)(2). Pub. L. 99–198, § 1417(b), in amending par. (2) generally, substituted “If it appears” for “Whenever it shall appear” before “to the Secretary” and “that an amount in excess of 5 percent” for “that any portion” before “of the preceding annual appropriation” and inserted “in excess of 5 percent of the preceding annual appropriation allotted to that institution” before “shall be deducted”.
+Subsec. (g)(2). Pub. L. 99–198, § 1417(b), in amending par. (2) generally, substituted “If it appears” for “Whenever it shall appear” before “to the Secretary” and “that an amount in excess of 5 percent” for “that any portion” before “of the preceding annual appropriation” and inserted “in excess of 5 percent of the preceding annual appropriation allotted to that institution” before “shall be deducted”.
 
-1981—Subsec. (b)(1). Pub. L. 97–98, § 1432(a)(1), inserted provision authorizing use of administrative funds for transportation of scientists to research meetings convened for purpose of assessing research opportunities or research planning.
+1981—Subsec. (b)(1). Pub. L. 97–98, § 1432(a)(1), inserted provision authorizing use of administrative funds for transportation of scientists to research meetings convened for purpose of assessing research opportunities or research planning.
 
-Subsec. (b)(2)(B). Pub. L. 97–98, § 1432(a)(2), inserted “current at the time each such additional sum is first appropriated” after “the last preceding decennial census” in two places.
+Subsec. (b)(2)(B). Pub. L. 97–98, § 1432(a)(2), inserted “current at the time each such additional sum is first appropriated” after “the last preceding decennial census” in two places.
 
-Subsecs. (c), (d). Pub. L. 97–98, § 1432(a)(3), substituted “research director” for “chief administrative officer” wherever appearing.
+Subsecs. (c), (d). Pub. L. 97–98, § 1432(a)(3), substituted “research director” for “chief administrative officer” wherever appearing.
 
 1978—Subsec. (b). Pub. L. 95–547 amended subsec. (b) generally, substituting in par. (A) provisions relating to allocation of funds among eligible institutions in same proportion as funds made available under former section 450i of this title (now section 3157 of this title), for fiscal year ending Sept. 30, 1978, are allocated among eligible institutions for provisions relating to allocation of $100,000 to each eligible institution, and substituting in par. (B) provisions relating to allocation among eligible institutions of 20 per centum of the excess funds in equal proportions, 40 per centum in proportion that the rural population of the State in which each eligible institution is located bears to total rural population of all States in which such institutions are located, and balance in proportion that farm population of State in which each eligible institution is located bears to total farm population of all States in which such institutions are located for provisions relating to allocation among eligible institutions of one-half of remaining funds in an amount which bore same ratio to total amount to be allocated as rural population of State in which eligible institution was located bore to total rural population of all States in which such institutions were located, and one-half in an amount which bore same ratio to total amount to be allocated as farm population of State in which eligible institution was located bore to total farm population of all States in which such institutions were located.
 
@@ -4899,15 +4899,15 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-**West Virginia State College, Institute, West Virginia**
+**West Virginia State College, Institute, West Virginia**
 
 Pub. L. 106–78, title I, Oct. 22, 1999, 113 Stat. 1140, provided in part that West Virginia State College in Institute, West Virginia: “for fiscal year 2000 and thereafter shall be designated as an eligible institution under section 1445 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3222)”.
 
 **Grant for Dairy Goat Research Program**
 
-Pub. L. 97–98, title XIV, § 1432(b), Dec. 22, 1981, 95 Stat. 1311, as amended by Pub. L. 99–198, title XIV, § 1432, Dec. 23, 1985, 99 Stat. 1557; Pub. L. 101–624, title XVI, § 1601(c), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, § 887, Apr. 4, 1996, 110 Stat. 1180, authorized grant for dairy goat research, described uses for grant and times of payment, and authorized appropriations for fiscal years 1991 through 1997, prior to repeal by Pub. L. 105–185, title III, § 302(b), June 23, 1998, 112 Stat. 563.
+Pub. L. 97–98, title XIV, § 1432(b), Dec. 22, 1981, 95 Stat. 1311, as amended by Pub. L. 99–198, title XIV, § 1432, Dec. 23, 1985, 99 Stat. 1557; Pub. L. 101–624, title XVI, § 1601(c), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, § 887, Apr. 4, 1996, 110 Stat. 1180, authorized grant for dairy goat research, described uses for grant and times of payment, and authorized appropriations for fiscal years 1991 through 1997, prior to repeal by Pub. L. 105–185, title III, § 302(b), June 23, 1998, 112 Stat. 563.
 
-### § 3222a. Scholarships for students at 1890 Institutions
+### § 3222a. Scholarships for students at 1890 Institutions
 
 **(a) In general**
 
@@ -4969,13 +4969,13 @@ Of the funds made available under paragraphs (1) and (2) to carry out this secti
 
 **(3)** the amount of each such scholarship.
 
-(Pub. L. 95–113, title XIV, § 1446, as added Pub. L. 115–334, title VII, § 7117, Dec. 20, 2018, 132 Stat. 4789; amended Pub. L. 118–22, div. B, title I, § 102(d)(5)(A), Nov. 17, 2023, 137 Stat. 117; Pub. L. 119–21, title I, § 10604(c), July 4, 2025, 139 Stat. 109.)
+(Pub. L. 95–113, title XIV, § 1446, as added Pub. L. 115–334, title VII, § 7117, Dec. 20, 2018, 132 Stat. 4789; amended Pub. L. 118–22, div. B, title I, § 102(d)(5)(A), Nov. 17, 2023, 137 Stat. 117; Pub. L. 119–21, title I, § 10604(c), July 4, 2025, 139 Stat. 109.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of August 30, 1890, referred to in subsec. (a)(1), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (a)(1), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 **Codification**
 
@@ -4983,17 +4983,17 @@ Another section 1446 of Pub. L. 95–113 amended section 3104 of this title.
 
 **Prior Provisions**
 
-A prior section 3222a, Pub. L. 95–113, title XIV, § 1446, as added Pub. L. 101–624, title XVI, § 1612(a), Nov. 28, 1990, 104 Stat. 3721; amended Pub. L. 102–237, title IV, § 402(9), (10), Dec. 13, 1991, 105 Stat. 1863, which related to resident instruction at 1890 land-grant colleges, including Tuskegee University, was repealed by Pub. L. 104–127, title VIII, § 855, Apr. 4, 1996, 110 Stat. 1172.
+A prior section 3222a, Pub. L. 95–113, title XIV, § 1446, as added Pub. L. 101–624, title XVI, § 1612(a), Nov. 28, 1990, 104 Stat. 3721; amended Pub. L. 102–237, title IV, § 402(9), (10), Dec. 13, 1991, 105 Stat. 1863, which related to resident instruction at 1890 land-grant colleges, including Tuskegee University, was repealed by Pub. L. 104–127, title VIII, § 855, Apr. 4, 1996, 110 Stat. 1172.
 
 **Amendments**
 
 2025—Subsec. (b)(1)(C). Pub. L. 119–21 added subpar. (C).
 
-2023—Subsec. (a)(3). Pub. L. 118–22, § 102(d)(5)(A)(i), substituted “4 succeeding” for “three succeeding”.
+2023—Subsec. (a)(3). Pub. L. 118–22, § 102(d)(5)(A)(i), substituted “4 succeeding” for “three succeeding”.
 
-Subsec. (b)(1). Pub. L. 118–22, § 102(d)(5)(A)(ii), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+Subsec. (b)(1). Pub. L. 118–22, § 102(d)(5)(A)(ii), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-### § 3222b. Grants to upgrade agricultural and food sciences facilities at 1890 land-grant colleges, including Tuskegee University
+### § 3222b. Grants to upgrade agricultural and food sciences facilities at 1890 land-grant colleges, including Tuskegee University
 
 **(a) Purpose**
 
@@ -5019,13 +5019,13 @@ Federal funds provided under this section may not be utilized for the payment of
 
 The Secretary may promulgate such rules and regulations as the Secretary may consider necessary to carry out the provisions of this section.
 
-(Pub. L. 95–113, title XIV, § 1447, as added Pub. L. 101–624, title XVI, § 1612(b), Nov. 28, 1990, 104 Stat. 3722; amended Pub. L. 104–127, title VIII, § 813, Apr. 4, 1996, 110 Stat. 1166; Pub. L. 105–185, title III, § 301(a)(9), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7109, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, § 7123, May 22, 2008, 122 Stat. 1222; Pub. L. 110–246, § 4(a), title VII, § 7123, June 18, 2008, 122 Stat. 1664, 1983; Pub. L. 113–79, title VII, § 7112, Feb. 7, 2014, 128 Stat. 874; Pub. L. 115–334, title VII, § 7118, Dec. 20, 2018, 132 Stat. 4790.)
+(Pub. L. 95–113, title XIV, § 1447, as added Pub. L. 101–624, title XVI, § 1612(b), Nov. 28, 1990, 104 Stat. 3722; amended Pub. L. 104–127, title VIII, § 813, Apr. 4, 1996, 110 Stat. 1166; Pub. L. 105–185, title III, § 301(a)(9), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7109, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, § 7123, May 22, 2008, 122 Stat. 1222; Pub. L. 110–246, § 4(a), title VII, § 7123, June 18, 2008, 122 Stat. 1664, 1983; Pub. L. 113–79, title VII, § 7112, Feb. 7, 2014, 128 Stat. 874; Pub. L. 115–334, title VII, § 7118, Dec. 20, 2018, 132 Stat. 4790.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 **Codification**
 
@@ -5033,7 +5033,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 1447 of Pub. L. 95–113, title XIV, Sept. 29, 1977, 91 Stat. 1011, amended sections 341 and 342 of this title, prior to repeal by Pub. L. 101–624, title XVI, § 1601(f)(1)(D), Nov. 28, 1990, 104 Stat. 3704.
+A prior section 1447 of Pub. L. 95–113, title XIV, Sept. 29, 1977, 91 Stat. 1011, amended sections 341 and 342 of this title, prior to repeal by Pub. L. 101–624, title XVI, § 1601(f)(1)(D), Nov. 28, 1990, 104 Stat. 3704.
 
 **Amendments**
 
@@ -5041,13 +5041,13 @@ A prior section 1447 of Pub. L. 95–113, title XIV, Sept. 29, 1977, 91 Stat. 10
 
 2014—Subsec. (b). Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Subsec. (b). Pub. L. 110–246, § 7123, substituted “2012” for “2007”.
+2008—Subsec. (b). Pub. L. 110–246, § 7123, substituted “2012” for “2007”.
 
 2002—Subsec. (b). Pub. L. 107–171 substituted “$25,000,000 for each of fiscal years 2002 through 2007” for “$15,000,000 for each of fiscal years 1996 through 2002”.
 
 1998—Subsec. (b). Pub. L. 105–185 substituted “through 2002” for “and 1997”.
 
-1996—Subsec. (b). Pub. L. 104–127 substituted “, $15,000,000 for each of fiscal years 1996 and 1997” for “$8,000,000 for each of the fiscal years 1991 through 1995”.
+1996—Subsec. (b). Pub. L. 104–127 substituted “, $15,000,000 for each of fiscal years 1996 and 1997” for “$8,000,000 for each of the fiscal years 1991 through 1995”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5055,7 +5055,7 @@ A prior section 1447 of Pub. L. 95–113, title XIV, Sept. 29, 1977, 91 Stat. 10
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 3222b–1. Grants to upgrade agriculture and food sciences facilities at the District of Columbia land-grant university
+### § 3222b–1. Grants to upgrade agriculture and food sciences facilities at the District of Columbia land-grant university
 
 **(a) Purpose**
 
@@ -5065,7 +5065,7 @@ It is the intent of Congress to assist the land-grant university in the District
 
 There are authorized to be appropriated to carry out this section $750,000 for each of fiscal years 2008 through 2012.
 
-(Pub. L. 95–113, title XIV, § 1447A, as added Pub. L. 110–234, title VII, § 7124, May 22, 2008, 122 Stat. 1222, and Pub. L. 110–246, § 4(a), title VII, § 7124, June 18, 2008, 122 Stat. 1664, 1983.)
+(Pub. L. 95–113, title XIV, § 1447A, as added Pub. L. 110–234, title VII, § 7124, May 22, 2008, 122 Stat. 1222, and Pub. L. 110–246, § 4(a), title VII, § 7124, June 18, 2008, 122 Stat. 1664, 1983.)
 
 **Editorial Notes**
 
@@ -5083,7 +5083,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 3222b–2. Grants to upgrade agriculture and food sciences facilities and equipment and support tropical and subtropical agricultural research at insular area land-grant colleges and universities
+### § 3222b–2. Grants to upgrade agriculture and food sciences facilities and equipment and support tropical and subtropical agricultural research at insular area land-grant colleges and universities
 
 **(a) Purpose** It is the intent of Congress to assist the land-grant colleges and universities in the insular areas in efforts to—
 
@@ -5103,7 +5103,7 @@ The Secretary may promulgate such rules and regulations as the Secretary conside
 
 There is authorized to be appropriated to carry out this section $8,000,000 for each of fiscal years 2008 through 2023.
 
-(Pub. L. 95–113, title XIV, § 1447B, as added Pub. L. 110–234, title VII, § 7125, May 22, 2008, 122 Stat. 1223, and Pub. L. 110–246, § 4(a), title VII, § 7125, June 18, 2008, 122 Stat. 1664, 1984; amended Pub. L. 113–79, title VII, § 7113, Feb. 7, 2014, 128 Stat. 874; Pub. L. 115–334, title VII, § 7119, Dec. 20, 2018, 132 Stat. 4790.)
+(Pub. L. 95–113, title XIV, § 1447B, as added Pub. L. 110–234, title VII, § 7125, May 22, 2008, 122 Stat. 1223, and Pub. L. 110–246, § 4(a), title VII, § 7125, June 18, 2008, 122 Stat. 1664, 1984; amended Pub. L. 113–79, title VII, § 7113, Feb. 7, 2014, 128 Stat. 874; Pub. L. 115–334, title VII, § 7119, Dec. 20, 2018, 132 Stat. 4790.)
 
 **Editorial Notes**
 
@@ -5115,11 +5115,11 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 2018—Subsec. (d). Pub. L. 115–334 substituted “2023” for “2018”.
 
-2014—Pub. L. 113–79, § 7113(a)(2), inserted “and support tropical and subtropical agricultural research” after “equipment” and substituted “colleges and universities” for “institutions” in section catchline.
+2014—Pub. L. 113–79, § 7113(a)(2), inserted “and support tropical and subtropical agricultural research” after “equipment” and substituted “colleges and universities” for “institutions” in section catchline.
 
-Subsec. (a). Pub. L. 113–79, § 7113(a)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “It is the intent of Congress to assist the land-grant institutions in the insular areas in efforts to acquire, alter, or repair facilities or relevant equipment necessary for conducting agricultural research.”
+Subsec. (a). Pub. L. 113–79, § 7113(a)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “It is the intent of Congress to assist the land-grant institutions in the insular areas in efforts to acquire, alter, or repair facilities or relevant equipment necessary for conducting agricultural research.”
 
-Subsec. (d). Pub. L. 113–79, § 7113(b), substituted “2018” for “2012”.
+Subsec. (d). Pub. L. 113–79, § 7113(b), substituted “2018” for “2012”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5127,17 +5127,17 @@ Subsec. (d). Pub. L. 113–79, § 7113(b), substituted “2018” for “2012�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 3222c. Repealed. Pub. L. 113–79, title VII, § 7114, Feb. 7, 2014, 128 Stat. 875
+### § 3222c. Repealed. Pub. L. 113–79, title VII, § 7114, Feb. 7, 2014, 128 Stat. 875
 
-Section, Pub. L. 95–113, title XIV, § 1448, as added Pub. L. 101–624, title XVI, § 1612(c), Nov. 28, 1990, 104 Stat. 3723; amended Pub. L. 104–127, title VIII, § 814, Apr. 4, 1996, 110 Stat. 1166; Pub. L. 105–185, title III, § 301(a)(10), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7110, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, § 7126, May 22, 2008, 122 Stat. 1223; Pub. L. 110–246, § 4(a), title VII, § 7126, June 18, 2008, 122 Stat. 1664, 1984, related to national research and training virtual centers.
+Section, Pub. L. 95–113, title XIV, § 1448, as added Pub. L. 101–624, title XVI, § 1612(c), Nov. 28, 1990, 104 Stat. 3723; amended Pub. L. 104–127, title VIII, § 814, Apr. 4, 1996, 110 Stat. 1166; Pub. L. 105–185, title III, § 301(a)(10), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7110, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, § 7126, May 22, 2008, 122 Stat. 1223; Pub. L. 110–246, § 4(a), title VII, § 7126, June 18, 2008, 122 Stat. 1664, 1984, related to national research and training virtual centers.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1448 of Pub. L. 95–113, title XIV, Sept. 29, 1977, 91 Stat. 1011, amended sections 1923 and 1942 of this title, prior to repeal by Pub. L. 101–624, title XVI, § 1601(f)(1)(D), Nov. 28, 1990, 104 Stat. 3704.
+A prior section 1448 of Pub. L. 95–113, title XIV, Sept. 29, 1977, 91 Stat. 1011, amended sections 1923 and 1942 of this title, prior to repeal by Pub. L. 101–624, title XVI, § 1601(f)(1)(D), Nov. 28, 1990, 104 Stat. 3704.
 
-### § 3222d. Matching funds requirement for research and extension activities at eligible institutions
+### § 3222d. Matching funds requirement for research and extension activities at eligible institutions
 
 **(a) Definitions** In this section:
 
@@ -5177,13 +5177,13 @@ Federal funds that are not matched by a State in accordance with subsection (c) 
 
 Any redistribution of funds under this subsection shall be subject to the applicable matching requirement specified in subsection (c) and shall be made in a manner consistent with sections 3221 and 3222 of this title, as determined by the Secretary.
 
-(Pub. L. 95–113, title XIV, § 1449, as added Pub. L. 105–185, title II, § 226(a), June 23, 1998, 112 Stat. 542; amended Pub. L. 107–171, title VII, § 7212, May 13, 2002, 116 Stat. 447; Pub. L. 110–234, title VII, § 7127, May 22, 2008, 122 Stat. 1223; Pub. L. 110–246, § 4(a), title VII, § 7127, June 18, 2008, 122 Stat. 1664, 1984.)
+(Pub. L. 95–113, title XIV, § 1449, as added Pub. L. 105–185, title II, § 226(a), June 23, 1998, 112 Stat. 542; amended Pub. L. 107–171, title VII, § 7212, May 13, 2002, 116 Stat. 447; Pub. L. 110–234, title VII, § 7127, May 22, 2008, 122 Stat. 1223; Pub. L. 110–246, § 4(a), title VII, § 7127, June 18, 2008, 122 Stat. 1664, 1984.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of August 30, 1890, referred to in subsec. (a)(1), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (a)(1), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 **Codification**
 
@@ -5191,7 +5191,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (c). Pub. L. 110–246, § 7127, substituted “the State shall provide equal matching funds” for “for each of fiscal years 2003 through 2007, the State shall provide matching funds” and struck out at end “Such matching funds shall be for an amount equal to not less than—
+2008—Subsec. (c). Pub. L. 110–246, § 7127, substituted “the State shall provide equal matching funds” for “for each of fiscal years 2003 through 2007, the State shall provide matching funds” and struck out at end “Such matching funds shall be for an amount equal to not less than—
 
 “(1) 60 percent of the formula funds to be distributed to the eligible institution for fiscal year 2003;
 
@@ -5203,7 +5203,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 “(5) 100 percent of the formula funds to be distributed to the eligible institution for fiscal year 2007 and each fiscal year thereafter.”
 
-2002—Subsec. (c). Pub. L. 107–171, § 7212(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of this subchapter, the distribution of formula funds to an eligible institution shall be subject to the following matching requirements:
+2002—Subsec. (c). Pub. L. 107–171, § 7212(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of this subchapter, the distribution of formula funds to an eligible institution shall be subject to the following matching requirements:
 
 “(1) For fiscal year 2000, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 30 percent of the formula funds to be distributed to the eligible institution.
 
@@ -5211,7 +5211,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 “(3) For fiscal year 2002 and each fiscal year thereafter, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 50 percent of the formula funds to be distributed to the eligible institution.”
 
-Subsec. (d). Pub. L. 107–171, § 7212(2), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
+Subsec. (d). Pub. L. 107–171, § 7212(2), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
 “(1) Fiscal year 2000.—Notwithstanding subsection (f) of this section, the Secretary may waive the matching funds requirement under subsection (c)(1) of this section for fiscal year 2000 for an eligible institution of a State if the Secretary determines that, based on the report received under subsection (b) of this section, the State will be unlikely to satisfy the matching requirement.
 
@@ -5223,7 +5223,7 @@ Subsec. (d). Pub. L. 107–171, § 7212(2), amended heading and text of subsec
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 3222e. New beginning for tribal students
+### § 3222e. New beginning for tribal students
 
 **(a) Definitions** In this section:
 
@@ -5231,7 +5231,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 The term “Indian tribe” has the meaning given such term in section 5304 of title 25).1
 
-<sup>1</sup>  So in original. The closing parenthesis probably should not appear.
+<sup>1</sup> So in original. The closing parenthesis probably should not appear.
 
 **(2) Land-grant college or university**
 
@@ -5285,9 +5285,9 @@ Not later than 3 years after December 20, 2018, the Secretary shall submit to th
 
 There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 95–113, title XIV, § 1450, as added Pub. L. 115–334, title VII, § 7120, Dec. 20, 2018, 132 Stat. 4791.)
+(Pub. L. 95–113, title XIV, § 1450, as added Pub. L. 115–334, title VII, § 7120, Dec. 20, 2018, 132 Stat. 4791.)
 
-### § 3223. Grants for acquisition and improvement of research facilities and equipment
+### § 3223. Grants for acquisition and improvement of research facilities and equipment
 
 **(a) Eligible institutions; statement of purposes**
 
@@ -5313,13 +5313,13 @@ Federal funds provided under this section may not be utilized for the payment of
 
 The Secretary may promulgate such rules and regulations as the Secretary may deem necessary to carry out the provisions of this section.
 
-(Pub. L. 97–98, title XIV, § 1433, Dec. 22, 1981, 95 Stat. 1312; Pub. L. 99–198, title XIV, § 1433, Dec. 23, 1985, 99 Stat. 1557.)
+(Pub. L. 97–98, title XIV, § 1433, Dec. 22, 1981, 95 Stat. 1312; Pub. L. 99–198, title XIV, § 1433, Dec. 23, 1985, 99 Stat. 1557.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 **Codification**
 
@@ -5327,9 +5327,9 @@ Section was enacted as part of the Agriculture and Food Act of 1981, and not as 
 
 **Amendments**
 
-1985—Subsec. (a). Pub. L. 99–198, § 1432(a), inserted “, including agricultural libraries,” after “equipment”.
+1985—Subsec. (a). Pub. L. 99–198, § 1432(a), inserted “, including agricultural libraries,” after “equipment”.
 
-Subsec. (b). Pub. L. 99–198, § 1432(b), authorized appropriations for fiscal year ending Sept. 30, 1987.
+Subsec. (b). Pub. L. 99–198, § 1432(b), authorized appropriations for fiscal year ending Sept. 30, 1987.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5337,15 +5337,15 @@ Subsec. (b). Pub. L. 99–198, § 1432(b), authorized appropriations for fisca
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### § 3224. Repealed. Pub. L. 104–127, title VIII, § 873, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title VI, § 606(g), June 23, 1998, 112 Stat. 604
+### § 3224. Repealed. Pub. L. 104–127, title VIII, § 873, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title VI, § 606(g), June 23, 1998, 112 Stat. 604
 
-Section, Pub. L. 99–198, title XIV, § 1416, Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, § 1601(d)(1), Nov. 28, 1990, 104 Stat. 3704, provided for grants to upgrade 1890 land-grant college extension facilities.
+Section, Pub. L. 99–198, title XIV, § 1416, Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, § 1601(d)(1), Nov. 28, 1990, 104 Stat. 3704, provided for grants to upgrade 1890 land-grant college extension facilities.
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 105–185, title VI, § 606(g), June 23, 1998, 112 Stat. 604, provided that the technical amendment made by section 606(g) to section 873 of Pub. L. 104–127, which repealed this section, is effective Apr. 6, 1996.
+Pub. L. 105–185, title VI, § 606(g), June 23, 1998, 112 Stat. 604, provided that the technical amendment made by section 606(g) to section 873 of Pub. L. 104–127, which repealed this section, is effective Apr. 6, 1996.
 
 ## SUBCHAPTER VII—PROGRAMS FOR HISPANIC, ALASKA NATIVE, AND NATIVE HAWAIIAN SERVING INSTITUTIONS
 
@@ -5353,27 +5353,27 @@ Pub. L. 105–185, title VI, § 606(g), June 23, 1998, 112 Stat. 604, provided
 
 **Prior Provisions**
 
-A prior subchapter VII, consisting of parts A (§ 3241), B (§§ 3251, 3252), C (§§ 3261 to 3263), D (§ 3271), and E (§§ 3281, 3282), related to solar energy research and development, prior to repeal by Pub. L. 101–624, title XVI, § 1601(f)(1)(D), Nov. 28, 1990, 104 Stat. 3704.
+A prior subchapter VII, consisting of parts A (§ 3241), B (§§ 3251, 3252), C (§§ 3261 to 3263), D (§ 3271), and E (§§ 3281, 3282), related to solar energy research and development, prior to repeal by Pub. L. 101–624, title XVI, § 1601(f)(1)(D), Nov. 28, 1990, 104 Stat. 3704.
 
-Section 3241, Pub. L. 95–113, title XIV, § 1449, Sept. 29, 1977, 91 Stat. 1012, related to farm and forest uses of solar energy and nonrenewable fuel and petrochemical substitutes.
+Section 3241, Pub. L. 95–113, title XIV, § 1449, Sept. 29, 1977, 91 Stat. 1012, related to farm and forest uses of solar energy and nonrenewable fuel and petrochemical substitutes.
 
-Section 3251, Pub. L. 95–113, title XIV, § 1450, Sept. 20, 1977, 91 Stat. 1012, provided for a solar energy research information system.
+Section 3251, Pub. L. 95–113, title XIV, § 1450, Sept. 20, 1977, 91 Stat. 1012, provided for a solar energy research information system.
 
-Section 3252, Pub. L. 95–113, title XIV, § 1451, Sept. 29, 1977, 91 Stat. 1013, provided for assistance from an advisory committee respecting functions of Secretary on model farms and demonstration projects.
+Section 3252, Pub. L. 95–113, title XIV, § 1451, Sept. 29, 1977, 91 Stat. 1013, provided for assistance from an advisory committee respecting functions of Secretary on model farms and demonstration projects.
 
-Section 3261, Pub. L. 95–113, title XIV, § 1452, Sept. 29, 1977, 91 Stat. 1013, provided for model farms.
+Section 3261, Pub. L. 95–113, title XIV, § 1452, Sept. 29, 1977, 91 Stat. 1013, provided for model farms.
 
-Section 3262, Pub. L. 95–113, title XIV, § 1453, Sept. 29, 1977, 91 Stat. 1014, provided for demonstration projects.
+Section 3262, Pub. L. 95–113, title XIV, § 1453, Sept. 29, 1977, 91 Stat. 1014, provided for demonstration projects.
 
-Section 3263, Pub. L. 95–113, title XIV, § 1454, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, § 1434, Dec. 22, 1981, 95 Stat. 1312, authorized appropriation of funds.
+Section 3263, Pub. L. 95–113, title XIV, § 1454, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, § 1434, Dec. 22, 1981, 95 Stat. 1312, authorized appropriation of funds.
 
-Section 3271, Pub. L. 95–113, title XIV, § 1455, Sept. 29, 1977, 91 Stat. 1015, provided for establishment of regional solar energy research, development, and demonstration centers.
+Section 3271, Pub. L. 95–113, title XIV, § 1455, Sept. 29, 1977, 91 Stat. 1015, provided for establishment of regional solar energy research, development, and demonstration centers.
 
-Section 3281, Pub. L. 95–113, title XIV, § 1456, Sept. 29, 1977, 91 Stat. 1015, authorized appropriation of funds.
+Section 3281, Pub. L. 95–113, title XIV, § 1456, Sept. 29, 1977, 91 Stat. 1015, authorized appropriation of funds.
 
-Section 3282, Pub. L. 95–113, title XIV, § 1457, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, § 1435, Dec. 22, 1981, 95 Stat. 1313, defined “solar energy”.
+Section 3282, Pub. L. 95–113, title XIV, § 1457, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, § 1435, Dec. 22, 1981, 95 Stat. 1313, defined “solar energy”.
 
-### § 3241. Education grants programs for Hispanic-serving institutions
+### § 3241. Education grants programs for Hispanic-serving institutions
 
 **(a) Grant authority**
 
@@ -5393,7 +5393,7 @@ The Secretary may make competitive grants to Hispanic-serving institutions for t
 
 There are authorized to be appropriated to make grants under this section $40,000,000 for each of fiscal years 1997 through 2023.
 
-(Pub. L. 95–113, title XIV, § 1455, as added Pub. L. 104–127, title VIII, § 815(a), Apr. 4, 1996, 110 Stat. 1166; amended Pub. L. 105–185, title III, § 301(a)(11), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7111, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, § 7128, May 22, 2008, 122 Stat. 1223; Pub. L. 110–246, § 4(a), title VII, § 7128, June 18, 2008, 122 Stat. 1664, 1985; Pub. L. 113–79, title VII, § 7115, Feb. 7, 2014, 128 Stat. 875; Pub. L. 115–334, title VII, § 7121, Dec. 20, 2018, 132 Stat. 4792.)
+(Pub. L. 95–113, title XIV, § 1455, as added Pub. L. 104–127, title VIII, § 815(a), Apr. 4, 1996, 110 Stat. 1166; amended Pub. L. 105–185, title III, § 301(a)(11), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7111, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, § 7128, May 22, 2008, 122 Stat. 1223; Pub. L. 110–246, § 4(a), title VII, § 7128, June 18, 2008, 122 Stat. 1664, 1985; Pub. L. 113–79, title VII, § 7115, Feb. 7, 2014, 128 Stat. 875; Pub. L. 115–334, title VII, § 7121, Dec. 20, 2018, 132 Stat. 4792.)
 
 **Editorial Notes**
 
@@ -5411,11 +5411,11 @@ For prior section 3241 and prior section 1455 of Pub. L. 95–113, see note set 
 
 2014—Subsec. (c). Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 7128(1), struck out “(or grants without regard to any requirement for competition)” after “competitive grants”.
+2008—Subsec. (a). Pub. L. 110–246, § 7128(1), struck out “(or grants without regard to any requirement for competition)” after “competitive grants”.
 
-Subsec. (b)(1). Pub. L. 110–246, § 7128(2), struck out “of consortia” after “activities”.
+Subsec. (b)(1). Pub. L. 110–246, § 7128(2), struck out “of consortia” after “activities”.
 
-Subsec. (c). Pub. L. 110–246, § 7128(3), substituted “$40,000,000” for “$20,000,000” and “2012” for “2007”.
+Subsec. (c). Pub. L. 110–246, § 7128(3), substituted “$40,000,000” for “$20,000,000” and “2012” for “2007”.
 
 2002—Subsec. (c). Pub. L. 107–171 substituted “2007” for “2002”.
 
@@ -5427,15 +5427,15 @@ Subsec. (c). Pub. L. 110–246, § 7128(3), substituted “$40,000,000” for 
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 3242. Transferred
+### § 3242. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 106–78, title VII, § 759, Oct. 22, 1999, 113 Stat. 1172, which related to education grants to Alaska Native serving institutions and Native Hawaiian serving institutions, was renumbered section 1419B of title XIV of Pub. L. 95–113, and amended by Pub. L. 110–234, title VII, § 7112, May 22, 2008, 122 Stat. 1219, and Pub. L. 110–246, § 4(a), title VII, § 7112, June 18, 2008, 122 Stat. 1664, 1980, and was transferred to section 3156 of this title.
+Section, Pub. L. 106–78, title VII, § 759, Oct. 22, 1999, 113 Stat. 1172, which related to education grants to Alaska Native serving institutions and Native Hawaiian serving institutions, was renumbered section 1419B of title XIV of Pub. L. 95–113, and amended by Pub. L. 110–234, title VII, § 7112, May 22, 2008, 122 Stat. 1219, and Pub. L. 110–246, § 4(a), title VII, § 7112, June 18, 2008, 122 Stat. 1664, 1980, and was transferred to section 3156 of this title.
 
-### § 3243. Hispanic-serving agricultural colleges and universities
+### § 3243. Hispanic-serving agricultural colleges and universities
 
 **(a) Definition of endowment fund**
 
@@ -5547,13 +5547,13 @@ There are authorized to be appropriated to the Secretary such sums as are necess
 
 There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this subsection for fiscal year 2008 and each fiscal year thereafter.
 
-(Pub. L. 95–113, title XIV, § 1456, as added Pub. L. 110–234, title VII, § 7129(a), May 22, 2008, 122 Stat. 1224, and Pub. L. 110–246, § 4(a), title VII, § 7129(a), June 18, 2008, 122 Stat. 1664, 1985; amended Pub. L. 113–79, title VII, § 7116, Feb. 7, 2014, 128 Stat. 875.)
+(Pub. L. 95–113, title XIV, § 1456, as added Pub. L. 110–234, title VII, § 7129(a), May 22, 2008, 122 Stat. 1224, and Pub. L. 110–246, § 4(a), title VII, § 7129(a), June 18, 2008, 122 Stat. 1664, 1985; amended Pub. L. 113–79, title VII, § 7116, Feb. 7, 2014, 128 Stat. 875.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of August 30, 1890 and that Act, referred to in subsec. (c)(3), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890 and that Act, referred to in subsec. (c)(3), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 **Codification**
 
@@ -5575,7 +5575,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ## SUBCHAPTER VIII—INTERNATIONAL RESEARCH, EXTENSION, AND TEACHING
 
-### § 3291. International agricultural research, extension, and teaching
+### § 3291. International agricultural research, extension, and teaching
 
 **(a) Authority of Secretary** To carry out the policy of this subchapter, the Secretary (in consultation with the Agency for International Development and subject to such coordination with other Federal officials, Departments, and agencies as the President may direct) may—
 
@@ -5657,7 +5657,7 @@ Notwithstanding any other provision of law, the full amount of any funds appropr
 
 **(B)** encourage research carried out by governmental, nongovernmental, and private entities, including through collaboration with colleges and universities, research institutions, and the private sector.
 
-(Pub. L. 95–113, title XIV, § 1458, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, § 1436, Dec. 22, 1981, 95 Stat. 1313; Pub. L. 99–198, title XIV, § 1418, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 101–624, title XVI, § 1613(a), (b), (d)(1), Nov. 28, 1990, 104 Stat. 3724, 3726; Pub. L. 102–237, title IV, § 402(11), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, § 816, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title II, § 227(a)–(d), June 23, 1998, 112 Stat. 543–545; Pub. L. 107–171, title VII, § 7209(c), May 13, 2002, 116 Stat. 445; Pub. L. 110–234, title VII, §§ 7130, 7511(c)(10)(B), May 22, 2008, 122 Stat. 1227, 1268; Pub. L. 110–246, § 4(a), title VII, §§ 7130, 7511(c)(10)(B), June 18, 2008, 122 Stat. 1664, 1988, 2029; Pub. L. 115–334, title VII, § 7122, Dec. 20, 2018, 132 Stat. 4792.)
+(Pub. L. 95–113, title XIV, § 1458, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, § 1436, Dec. 22, 1981, 95 Stat. 1313; Pub. L. 99–198, title XIV, § 1418, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 101–624, title XVI, § 1613(a), (b), (d)(1), Nov. 28, 1990, 104 Stat. 3724, 3726; Pub. L. 102–237, title IV, § 402(11), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, § 816, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title II, § 227(a)–(d), June 23, 1998, 112 Stat. 543–545; Pub. L. 107–171, title VII, § 7209(c), May 13, 2002, 116 Stat. 445; Pub. L. 110–234, title VII, §§ 7130, 7511(c)(10)(B), May 22, 2008, 122 Stat. 1227, 1268; Pub. L. 110–246, § 4(a), title VII, §§ 7130, 7511(c)(10)(B), June 18, 2008, 122 Stat. 1664, 1988, 2029; Pub. L. 115–334, title VII, § 7122, Dec. 20, 2018, 132 Stat. 4792.)
 
 **Editorial Notes**
 
@@ -5669,53 +5669,53 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (e). Pub. L. 115–334 substituted “Certain” for “Full payment of funds made available for certain” in subsec. heading, designated existing provisions as par. (1), inserted par. heading, substituted “United States-Israel” for “Israel-United States” and inserted “(referred to in this subsection as the ‘BARD Fund’)” after “Development Fund”, and added par. (2).
 
-2008—Subsec. (a)(1)(C). Pub. L. 110–246, § 7130(1), added subpar. (C).
+2008—Subsec. (a)(1)(C). Pub. L. 110–246, § 7130(1), added subpar. (C).
 
-Subsec. (a)(3). Pub. L. 110–246, § 7130(2), added par. (3) and struck out former par. (3) which read as follows: “enter into agreements with land-grant colleges and universities, the Agency for International Development, and international organizations (such as the United Nations, World Bank, regional development banks, the International Agricultural Research Center), or other organizations, institutions or individuals with comparable goals, to promote and support the development of a viable and sustainable global agricultural system;”.
+Subsec. (a)(3). Pub. L. 110–246, § 7130(2), added par. (3) and struck out former par. (3) which read as follows: “enter into agreements with land-grant colleges and universities, the Agency for International Development, and international organizations (such as the United Nations, World Bank, regional development banks, the International Agricultural Research Center), or other organizations, institutions or individuals with comparable goals, to promote and support the development of a viable and sustainable global agricultural system;”.
 
-Subsec. (a)(7)(A). Pub. L. 110–246, § 7130(3), substituted “, land-grant colleges and universities, and Hispanic-serving agricultural colleges and universities” for “and land-grant colleges and universities”.
+Subsec. (a)(7)(A). Pub. L. 110–246, § 7130(3), substituted “, land-grant colleges and universities, and Hispanic-serving agricultural colleges and universities” for “and land-grant colleges and universities”.
 
-Subsec. (a)(9)(A). Pub. L. 110–246, § 7130(4)(A), substituted “, Hispanic-serving agricultural colleges and universities, or other colleges and universities” for “or other colleges and universities”.
+Subsec. (a)(9)(A). Pub. L. 110–246, § 7130(4)(A), substituted “, Hispanic-serving agricultural colleges and universities, or other colleges and universities” for “or other colleges and universities”.
 
-Subsec. (a)(10). Pub. L. 110–246, § 7511(c)(10)(B), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
+Subsec. (a)(10). Pub. L. 110–246, § 7511(c)(10)(B), substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.
 
-Subsec. (a)(11). Pub. L. 110–246, § 7130(4)(B)–(6), added par. (11).
+Subsec. (a)(11). Pub. L. 110–246, § 7130(4)(B)–(6), added par. (11).
 
 2002—Subsec. (a)(10). Pub. L. 107–171 added par. (10).
 
-1998—Pub. L. 105–185, § 227(a)(1), substituted “research, extension, and teaching” for “research and extension” in section catchline.
+1998—Pub. L. 105–185, § 227(a)(1), substituted “research, extension, and teaching” for “research and extension” in section catchline.
 
-Subsec. (a)(1). Pub. L. 105–185, § 227(a)(2)(A)(i), substituted “related research, extension, and teaching” for “related research and extension” in introductory provisions.
+Subsec. (a)(1). Pub. L. 105–185, § 227(a)(2)(A)(i), substituted “related research, extension, and teaching” for “related research and extension” in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 105–185, § 227(a)(2)(A)(ii), substituted “research, extension, and teaching activities that address” for “research and extension on”.
+Subsec. (a)(1)(B). Pub. L. 105–185, § 227(a)(2)(A)(ii), substituted “research, extension, and teaching activities that address” for “research and extension on”.
 
-Subsec. (a)(2). Pub. L. 105–185, § 227(a)(2)(B), substituted “teaching” for “education”.
+Subsec. (a)(2). Pub. L. 105–185, § 227(a)(2)(B), substituted “teaching” for “education”.
 
-Subsec. (a)(4). Pub. L. 105–185, § 227(a)(2)(C), substituted “science and education experts” for “scientists and experts”.
+Subsec. (a)(4). Pub. L. 105–185, § 227(a)(2)(C), substituted “science and education experts” for “scientists and experts”.
 
-Subsec. (a)(5). Pub. L. 105–185, § 227(a)(2)(D), inserted “teaching,” after “development,”.
+Subsec. (a)(5). Pub. L. 105–185, § 227(a)(2)(D), inserted “teaching,” after “development,”.
 
-Subsec. (a)(6). Pub. L. 105–185, § 227(a)(2)(B), substituted “teaching” for “education”.
+Subsec. (a)(6). Pub. L. 105–185, § 227(a)(2)(B), substituted “teaching” for “education”.
 
-Subsec. (a)(7). Pub. L. 105–185, § 227(a)(2)(E), substituted “research, extension, and teaching programs” for “research and extension that is”.
+Subsec. (a)(7). Pub. L. 105–185, § 227(a)(2)(E), substituted “research, extension, and teaching programs” for “research and extension that is”.
 
-Subsec. (a)(8). Pub. L. 105–185, § 227(a)(2)(F), substituted “research, extension, and teaching capabilities” for “research capabilities”.
+Subsec. (a)(8). Pub. L. 105–185, § 227(a)(2)(F), substituted “research, extension, and teaching capabilities” for “research capabilities”.
 
-Subsec. (a)(9). Pub. L. 105–185, § 227(b), added par. (9).
+Subsec. (a)(9). Pub. L. 105–185, § 227(b), added par. (9).
 
-Subsec. (b). Pub. L. 105–185, § 227(a)(3), substituted “counterpart research, extension, and teaching agencies” for “counterpart agencies”.
+Subsec. (b). Pub. L. 105–185, § 227(a)(3), substituted “counterpart research, extension, and teaching agencies” for “counterpart agencies”.
 
-Subsec. (d). Pub. L. 105–185, § 227(c), added subsec. (d).
+Subsec. (d). Pub. L. 105–185, § 227(c), added subsec. (d).
 
-Subsec. (e). Pub. L. 105–185, § 227(d), added subsec. (e).
+Subsec. (e). Pub. L. 105–185, § 227(d), added subsec. (e).
 
 1996—Subsec. (a)(8). Pub. L. 104–127 substituted “continue” for “establish” after “(8)” and struck out “to be” before “coordinated”.
 
 1991—Subsec. (a)(3). Pub. L. 102–237 substituted a semicolon for period at end.
 
-1990—Pub. L. 101–624, § 1613(d)(1)(A), inserted section catchline.
+1990—Pub. L. 101–624, § 1613(d)(1)(A), inserted section catchline.
 
-Subsec. (a). Pub. L. 101–624, § 1613(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary, subject to such coordination with other Federal officials, departments, and agencies as the President may direct, is authorized to—
+Subsec. (a). Pub. L. 101–624, § 1613(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary, subject to such coordination with other Federal officials, departments, and agencies as the President may direct, is authorized to—
 
 “(1) expand the operational coordination of the Department of Agriculture with institutions and other persons throughout the world performing agricultural and related research and extension activities by exchanging research materials and results with such institutions or persons and by conducting with such institutions or persons joint or coordinated research and extension on problems of significance to food and agriculture in the United States;
 
@@ -5727,9 +5727,9 @@ Subsec. (a). Pub. L. 101–624, § 1613(a), amended subsec. (a) generally. Pri
 
 “(5) further develop within the Department of Agriculture highly qualified and experienced scientists who specialize in international programs, to be available for the activities described in this section.”
 
-Subsec. (b). Pub. L. 101–624, § 1613(d)(1)(B), inserted heading.
+Subsec. (b). Pub. L. 101–624, § 1613(d)(1)(B), inserted heading.
 
-Subsec. (c). Pub. L. 101–624, § 1613(b), (d)(1)(C), inserted heading and “and other nongovernmental organizations” after “universities”.
+Subsec. (c). Pub. L. 101–624, § 1613(b), (d)(1)(C), inserted heading and “and other nongovernmental organizations” after “universities”.
 
 1985—Subsec. (a)(3). Pub. L. 99–198 substituted “providing technical assistance, training, and advice to” for “the training of”.
 
@@ -5753,7 +5753,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Subchapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3292. Partnerships to build capacity in international agricultural research, extension, and teaching
+### § 3292. Partnerships to build capacity in international agricultural research, extension, and teaching
 
 **(a) Definitions** In this section:
 
@@ -5825,15 +5825,15 @@ The term “international partner institution” means an agricultural higher ed
 
 There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 95–113, title XIV, § 1458A, as added Pub. L. 115–334, title VII, § 7123, Dec. 20, 2018, 132 Stat. 4792.)
+(Pub. L. 95–113, title XIV, § 1458A, as added Pub. L. 115–334, title VII, § 7123, Dec. 20, 2018, 132 Stat. 4792.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3292, Pub. L. 95–113, title XIV, § 1458A, as added Pub. L. 99–198, title XIV, § 1419(a), Dec. 23, 1985, 99 Stat. 1550; amended Pub. L. 101–624, title XVI, § 1613(c), (d)(2), Nov. 28, 1990, 104 Stat. 3726, related to grants to States for international trade development centers, prior to repeal by Pub. L. 104–127, title VIII, § 856, Apr. 4, 1996, 110 Stat. 1172.
+A prior section 3292, Pub. L. 95–113, title XIV, § 1458A, as added Pub. L. 99–198, title XIV, § 1419(a), Dec. 23, 1985, 99 Stat. 1550; amended Pub. L. 101–624, title XVI, § 1613(c), (d)(2), Nov. 28, 1990, 104 Stat. 3726, related to grants to States for international trade development centers, prior to repeal by Pub. L. 104–127, title VIII, § 856, Apr. 4, 1996, 110 Stat. 1172.
 
-### § 3292a. United States-Mexico joint agricultural research
+### § 3292a. United States-Mexico joint agricultural research
 
 **(a) Research and development program**
 
@@ -5851,7 +5851,7 @@ The provision of funds to the Foundation by the United States Government shall b
 
 Funds provided under this section may not be used for the planning, repair, rehabilitation, acquisition, or construction of a building or facility.
 
-(Pub. L. 95–113, title XIV, § 1459, as added Pub. L. 105–185, title II, § 228, June 23, 1998, 112 Stat. 545; amended Pub. L. 106–74, title IV, § 423, Oct. 20, 1999, 113 Stat. 1095.)
+(Pub. L. 95–113, title XIV, § 1459, as added Pub. L. 105–185, title II, § 228, June 23, 1998, 112 Stat. 545; amended Pub. L. 106–74, title IV, § 423, Oct. 20, 1999, 113 Stat. 1095.)
 
 **Editorial Notes**
 
@@ -5865,9 +5865,9 @@ A prior section 1459 of Pub. L. 95–113 was classified to section 3301 of this 
 
 “George E. Brown United States/Mexico Foundation for Science” substituted in subsec. (a) for “United States/Mexico Foundation for Science” pursuant to section 423 of Pub. L. 106–74, set out below.
 
-Pub. L. 106–74, title IV, § 423, Oct. 20, 1999, 113 Stat. 1095, provided in part: “That the United States/Mexico Foundation for Science is renamed the ‘George E. Brown United States/Mexico Foundation for Science’.”
+Pub. L. 106–74, title IV, § 423, Oct. 20, 1999, 113 Stat. 1095, provided in part: “That the United States/Mexico Foundation for Science is renamed the ‘George E. Brown United States/Mexico Foundation for Science’.”
 
-### § 3292b. Competitive grants for international agricultural science and education programs
+### § 3292b. Competitive grants for international agricultural science and education programs
 
 **(a) Competitive grants authorized**
 
@@ -5891,7 +5891,7 @@ The Secretary may make competitive grants to colleges and universities in order 
 
 **(2)** $5,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 95–113, title XIV, § 1459A, as added Pub. L. 105–185, title II, § 229, June 23, 1998, 112 Stat. 545; amended Pub. L. 107–171, title VII, § 7112, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, § 7131, May 22, 2008, 122 Stat. 1228; Pub. L. 110–246, § 4(a), title VII, § 7131, June 18, 2008, 122 Stat. 1664, 1989; Pub. L. 113–79, title VII, § 7117, Feb. 7, 2014, 128 Stat. 875; Pub. L. 115–334, title VII, § 7124, Dec. 20, 2018, 132 Stat. 4794.)
+(Pub. L. 95–113, title XIV, § 1459A, as added Pub. L. 105–185, title II, § 229, June 23, 1998, 112 Stat. 545; amended Pub. L. 107–171, title VII, § 7112, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, § 7131, May 22, 2008, 122 Stat. 1228; Pub. L. 110–246, § 4(a), title VII, § 7131, June 18, 2008, 122 Stat. 1664, 1989; Pub. L. 113–79, title VII, § 7117, Feb. 7, 2014, 128 Stat. 875; Pub. L. 115–334, title VII, § 7124, Dec. 20, 2018, 132 Stat. 4794.)
 
 **Editorial Notes**
 
@@ -5905,7 +5905,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (c). Pub. L. 113–79 amended subsec. (c) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2012.”
 
-2008—Subsec. (c). Pub. L. 110–246, § 7131, substituted “2012” for “2007”.
+2008—Subsec. (c). Pub. L. 110–246, § 7131, substituted “2012” for “2007”.
 
 2002—Subsec. (c). Pub. L. 107–171 substituted “2007” for “2002”.
 
@@ -5915,11 +5915,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 3293. Agricultural fellowship program for middle income countries, emerging democracies, and emerging markets
+### § 3293. Agricultural fellowship program for middle income countries, emerging democracies, and emerging markets
 
 **(a) Establishment** The Secretary of Agriculture shall establish a fellowship program for,1
 
-<sup>1</sup>  So in original. The word “for” probably should not appear.
+<sup>1</sup> So in original. The word “for” probably should not appear.
 
 to be known as the “Cochran Fellowship Program”, to provide fellowships to individuals from eligible countries (as determined under subsection (b)) who specialize in agriculture for study—
 
@@ -5989,7 +5989,7 @@ The Secretary shall consult with other United States Government agencies, United
 
 If the Secretary of Agriculture determines that it is advisable in furtherance of the purposes of the program established under this section, the Secretary may accept money, funds, property, and services of every kind by gift, devise, bequest, grant, or otherwise, and may, in any manner, dispose of all such holdings and use the receipts generated from such disposition as general program funds under this section. All funds so designated for the program established under this section shall remain available until expended.
 
-(Pub. L. 101–624, title XV, § 1543, Nov. 28, 1990, 104 Stat. 3694; Pub. L. 102–237, title X, § 1002, Dec. 13, 1991, 105 Stat. 1894; Pub. L. 102–511, title VII, § 705, Oct. 24, 1992, 106 Stat. 3349; Pub. L. 104–127, title II, § 277(b), Apr. 4, 1996, 110 Stat. 978; Pub. L. 115–334, title III, §§ 3201(b)(3)(B), 3305, Dec. 20, 2018, 132 Stat. 4616, 4619.)
+(Pub. L. 101–624, title XV, § 1543, Nov. 28, 1990, 104 Stat. 3694; Pub. L. 102–237, title X, § 1002, Dec. 13, 1991, 105 Stat. 1894; Pub. L. 102–511, title VII, § 705, Oct. 24, 1992, 106 Stat. 3349; Pub. L. 104–127, title II, § 277(b), Apr. 4, 1996, 110 Stat. 978; Pub. L. 115–334, title III, §§ 3201(b)(3)(B), 3305, Dec. 20, 2018, 132 Stat. 4616, 4619.)
 
 **Editorial Notes**
 
@@ -6003,35 +6003,35 @@ Section was enacted as part of the Agricultural Development and Trade Act of 199
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 3305(1), substituted “for study—” for “for study in the United States.” and added pars. (1) and (2).
+2018—Subsec. (a). Pub. L. 115–334, § 3305(1), substituted “for study—” for “for study in the United States.” and added pars. (1) and (2).
 
-Subsec. (b)(5). Pub. L. 115–334, § 3201(b)(3)(B), substituted “section 1542(e)” for “section 1542(f)”.
+Subsec. (b)(5). Pub. L. 115–334, § 3201(b)(3)(B), substituted “section 1542(e)” for “section 1542(f)”.
 
-Subsec. (c)(1). Pub. L. 115–334, § 3305(2)(A), inserted “(which may include agricultural extension services)” after “agricultural systems”.
+Subsec. (c)(1). Pub. L. 115–334, § 3305(2)(A), inserted “(which may include agricultural extension services)” after “agricultural systems”.
 
-Subsec. (c)(2). Pub. L. 115–334, § 3305(2)(B), inserted dash after “enhance” and subpar. (A) designation before “trade” and added subpar. (B).
+Subsec. (c)(2). Pub. L. 115–334, § 3305(2)(B), inserted dash after “enhance” and subpar. (A) designation before “trade” and added subpar. (B).
 
-Subsec. (f)(1). Pub. L. 115–334, § 3305(3)(A), substituted “$4,000,000” for “$3,000,000”.
+Subsec. (f)(1). Pub. L. 115–334, § 3305(3)(A), substituted “$4,000,000” for “$3,000,000”.
 
-Subsec. (f)(2). Pub. L. 115–334, § 3305(3)(B), substituted “$3,000,000” for “$2,000,000”.
+Subsec. (f)(2). Pub. L. 115–334, § 3305(3)(B), substituted “$3,000,000” for “$2,000,000”.
 
-Subsec. (f)(3). Pub. L. 115–334, § 3305(3)(C), substituted “$6,000,000” for “$5,000,000”.
+Subsec. (f)(3). Pub. L. 115–334, § 3305(3)(C), substituted “$6,000,000” for “$5,000,000”.
 
-1996—Pub. L. 104–127, § 277(b)(1), in section catchline, substituted “middle income countries, emerging democracies, and emerging markets” for “middle income countries and emerging democracies”.
+1996—Pub. L. 104–127, § 277(b)(1), in section catchline, substituted “middle income countries, emerging democracies, and emerging markets” for “middle income countries and emerging democracies”.
 
-Subsec. (b)(5). Pub. L. 104–127, § 277(b)(2), added par. (5).
+Subsec. (b)(5). Pub. L. 104–127, § 277(b)(2), added par. (5).
 
-Subsec. (c)(1). Pub. L. 104–127, § 277(b)(3), substituted “food and fiber needs” for “food needs”.
+Subsec. (c)(1). Pub. L. 104–127, § 277(b)(3), substituted “food and fiber needs” for “food needs”.
 
-1992—Subsec. (a). Pub. L. 102–511, § 705(a)(1), struck out “middle income countries and emerging democracies” after “fellowship program for” and inserted “(as determined under subsection (b))” after “eligible countries”.
+1992—Subsec. (a). Pub. L. 102–511, § 705(a)(1), struck out “middle income countries and emerging democracies” after “fellowship program for” and inserted “(as determined under subsection (b))” after “eligible countries”.
 
-Subsec. (b). Pub. L. 102–511, § 705(a)(2), substituted “described in any of the following paragraphs” for “that meet the following requirements” in introductory provisions and added par. (4).
+Subsec. (b). Pub. L. 102–511, § 705(a)(2), substituted “described in any of the following paragraphs” for “that meet the following requirements” in introductory provisions and added par. (4).
 
-Subsec. (d). Pub. L. 102–511, § 705(b), inserted at end “The Secretary may provide fellowships under the program authorized by this section to private agricultural producers from eligible countries.”
+Subsec. (d). Pub. L. 102–511, § 705(b), inserted at end “The Secretary may provide fellowships under the program authorized by this section to private agricultural producers from eligible countries.”
 
 1991—Subsec. (e). Pub. L. 102–237 substituted “program” for “Program”.
 
-### § 3294. Center For North American Studies
+### § 3294. Center For North American Studies
 
 **(a) Establishment**
 
@@ -6043,13 +6043,13 @@ The Institute shall be located at an institution of higher education or at a con
 
 **(c) Authorization of appropriations**
 
-To carry out this section, there are authorized to be appropriated $10,000,000 for fiscal year 1994 and such sums as may necessary 1
+To carry out this section, there are authorized to be appropriated $10,000,000 for fiscal year 1994 and such sums as may necessary 1
 
-<sup>1</sup>  So in original. Probably should be “may be necessary”.
+<sup>1</sup> So in original. Probably should be “may be necessary”.
 
 for each of fiscal years 1995 and 1996.
 
-(Pub. L. 102–532, § 4, Oct. 27, 1992, 106 Stat. 3512.)
+(Pub. L. 102–532, § 4, Oct. 27, 1992, 106 Stat. 3512.)
 
 **Editorial Notes**
 
@@ -6057,7 +6057,7 @@ for each of fiscal years 1995 and 1996.
 
 Section was enacted as part of the Enterprise for the Americas Initiative Act of 1992, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
 
-### § 3295. International Agricultural Education Fellowship Program
+### § 3295. International Agricultural Education Fellowship Program
 
 **(a) Fellowship program establishment**
 
@@ -6099,7 +6099,7 @@ There are authorized to be appropriated $5,000,000 to carry out this section for
 
 Any funds made available under this subsection shall remain available until expended.
 
-(Pub. L. 115–334, title III, § 3307, Dec. 20, 2018, 132 Stat. 4620.)
+(Pub. L. 115–334, title III, § 3307, Dec. 20, 2018, 132 Stat. 4620.)
 
 **Editorial Notes**
 
@@ -6115,19 +6115,19 @@ Section was enacted as part of the Agriculture Improvement Act of 2018, and not 
 
 ## SUBCHAPTER IX—STUDIES
 
-### §§ 3301 to 3304. Repealed. Pub. L. 99–198, title XIV, § 1421, Dec. 23, 1985, 99 Stat. 1552
+### §§ 3301 to 3304. Repealed. Pub. L. 99–198, title XIV, § 1421, Dec. 23, 1985, 99 Stat. 1552
 
-Section 3301, Pub. L. 95–113, title XIV, § 1459, Sept. 29, 1977, 91 Stat. 1016, required Secretary of Agriculture to transmit to Congress, not later than March 31, 1979, an evaluation of economic and social consequences of programs of Extension Service and cooperative extension services.
+Section 3301, Pub. L. 95–113, title XIV, § 1459, Sept. 29, 1977, 91 Stat. 1016, required Secretary of Agriculture to transmit to Congress, not later than March 31, 1979, an evaluation of economic and social consequences of programs of Extension Service and cooperative extension services.
 
-Section 3302, Pub. L. 95–113, title XIV, § 1460, Sept. 29, 1977, 91 Stat. 1016, required Secretary to conduct a comprehensive study of effects of changing climate and weather on crop and livestock productivity and submit a report, with recommendations, to President and Congress within twelve months after Sept. 29, 1977.
+Section 3302, Pub. L. 95–113, title XIV, § 1460, Sept. 29, 1977, 91 Stat. 1016, required Secretary to conduct a comprehensive study of effects of changing climate and weather on crop and livestock productivity and submit a report, with recommendations, to President and Congress within twelve months after Sept. 29, 1977.
 
-Section 3303, Pub. L. 95–113, title XIV, § 1461, Sept. 29, 1977, 91 Stat. 1016, required Secretary to conduct, and, within twelve months after September 29, 1977, submit to President and Congress a report containing results of and Secretary’s recommendations concerning an investigation and analysis of practicability, desirability, and feasibility of collecting organic waste materials.
+Section 3303, Pub. L. 95–113, title XIV, § 1461, Sept. 29, 1977, 91 Stat. 1016, required Secretary to conduct, and, within twelve months after September 29, 1977, submit to President and Congress a report containing results of and Secretary’s recommendations concerning an investigation and analysis of practicability, desirability, and feasibility of collecting organic waste materials.
 
-Section 3304, Pub. L. 95–113, title XIV, § 1462, Sept. 29, 1977, 91 Stat. 1017, required Secretary to conduct a comprehensive study of status and future needs of agricultural research facilities and, within fourteen months after September 29, 1977, submit to President and Congress a report on this study, with recommendations.
+Section 3304, Pub. L. 95–113, title XIV, § 1462, Sept. 29, 1977, 91 Stat. 1017, required Secretary to conduct a comprehensive study of status and future needs of agricultural research facilities and, within fourteen months after September 29, 1977, submit to President and Congress a report on this study, with recommendations.
 
 ## SUBCHAPTER X—FUNDING AND MISCELLANEOUS PROVISIONS
 
-### § 3310. Limitation on indirect costs for agricultural research, education, and extension programs
+### § 3310. Limitation on indirect costs for agricultural research, education, and extension programs
 
 **(a) In general**
 
@@ -6141,7 +6141,7 @@ Subsections (a) and (c) shall not apply to a grant awarded competitively under s
 
 In the case of a grant described in subsection (a), the limitation on indirect costs specified in such subsection shall be applied to both the initial grant award and any subgrant of the Federal funds provided under the initial grant award so that the total of all indirect costs charged against the total of the Federal funds provided under the initial grant award does not exceed such limitation.
 
-(Pub. L. 95–113, title XIV, § 1462, as added Pub. L. 105–185, title II, § 230(a), June 23, 1998, 112 Stat. 546; amended Pub. L. 107–171, title VII, § 7222, May 13, 2002, 116 Stat. 454; Pub. L. 110–234, title VII, § 7132(a), May 22, 2008, 122 Stat. 1228; Pub. L. 110–246, § 4(a), title VII, § 7132(a), June 18, 2008, 122 Stat. 1664, 1989; Pub. L. 115–334, title VII, § 7125, Dec. 20, 2018, 132 Stat. 4794.)
+(Pub. L. 95–113, title XIV, § 1462, as added Pub. L. 105–185, title II, § 230(a), June 23, 1998, 112 Stat. 546; amended Pub. L. 107–171, title VII, § 7222, May 13, 2002, 116 Stat. 454; Pub. L. 110–234, title VII, § 7132(a), May 22, 2008, 122 Stat. 1228; Pub. L. 110–246, § 4(a), title VII, § 7132(a), June 18, 2008, 122 Stat. 1664, 1989; Pub. L. 115–334, title VII, § 7125, Dec. 20, 2018, 132 Stat. 4794.)
 
 **Editorial Notes**
 
@@ -6155,13 +6155,13 @@ A prior section 1462 of Pub. L. 95–113 was classified to section 3304 of this 
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 7125(1), substituted “30 percent” for “22 percent”.
+2018—Subsec. (a). Pub. L. 115–334, § 7125(1), substituted “30 percent” for “22 percent”.
 
-Subsec. (b). Pub. L. 115–334, § 7125(2), substituted “Subsections (a) and (c)” for “Subsection (a)”.
+Subsec. (b). Pub. L. 115–334, § 7125(2), substituted “Subsections (a) and (c)” for “Subsection (a)”.
 
-Subsec. (c). Pub. L. 115–334, § 7125(3), added subsec. (c).
+Subsec. (c). Pub. L. 115–334, § 7125(3), added subsec. (c).
 
-2008—Subsec. (a). Pub. L. 110–246, § 7132(a), substituted “any agricultural” for “a competitive agricultural” and “22 percent” for “19 percent”.
+2008—Subsec. (a). Pub. L. 110–246, § 7132(a), substituted “any agricultural” for “a competitive agricultural” and “22 percent” for “19 percent”.
 
 2002—Pub. L. 107–171 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -6171,7 +6171,7 @@ Subsec. (c). Pub. L. 115–334, § 7125(3), added subsec. (c).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 3310a. Research equipment grants
+### § 3310a. Research equipment grants
 
 **(a) In general**
 
@@ -6197,25 +6197,25 @@ The amount of a grant made to an eligible institution under this section may not
 
 There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 95–113, title XIV, § 1462A, as added Pub. L. 115–334, title VII, § 7126, Dec. 20, 2018, 132 Stat. 4794.)
+(Pub. L. 95–113, title XIV, § 1462A, as added Pub. L. 115–334, title VII, § 7126, Dec. 20, 2018, 132 Stat. 4794.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3310a, Pub. L. 95–113, title XIV, § 1462A, as added Pub. L. 107–171, title VII, § 7402, May 13, 2002, 116 Stat. 456; amended Pub. L. 110–234, title VII, § 7133, May 22, 2008, 122 Stat. 1228; Pub. L. 110–246, § 4(a), title VII, § 7133, June 18, 2008, 122 Stat. 1664, 1989, related to research equipment grants, prior to repeal by Pub. L. 113–79, title VII, § 7118, Feb. 7, 2014, 128 Stat. 875.
+A prior section 3310a, Pub. L. 95–113, title XIV, § 1462A, as added Pub. L. 107–171, title VII, § 7402, May 13, 2002, 116 Stat. 456; amended Pub. L. 110–234, title VII, § 7133, May 22, 2008, 122 Stat. 1228; Pub. L. 110–246, § 4(a), title VII, § 7133, June 18, 2008, 122 Stat. 1664, 1989, related to research equipment grants, prior to repeal by Pub. L. 113–79, title VII, § 7118, Feb. 7, 2014, 128 Stat. 875.
 
-### § 3311. Authorization of appropriations
+### § 3311. Authorization of appropriations
 
 **(a) Existing programs**
 
 Notwithstanding any authorization for appropriations for agricultural research in any Act enacted prior to September 29, 1977, there are hereby authorized to be appropriated for the purposes of carrying out the provisions of this chapter, except sections 3152,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 and 2669 of this title, and the competitive grants program provided for in section 1414,2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 and except that the authorization for moneys provided under the Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i), is excluded and is provided for in subsection (b) of this section, such sums as may be necessary for each of fiscal years 1991 through 2023.
 
@@ -6225,9 +6225,9 @@ Notwithstanding any authorization for appropriations for agricultural research a
 
 **(c) Funding requirements for programs**
 
-Notwithstanding any other provision of law effective beginning October 1, 1983, not less than 25 per centum of the total funds appropriated to the Secretary in any fiscal year for the conduct of the cooperative research program provided for under the Act of March 2, 1887, commonly known as the Hatch Act (7 U.S.C. 361a et seq.); the cooperative forestry research program provided for under the Act of October 10, 1962, commonly known as the McIntire-Stennis Act (16 U.S.C. 582a et seq.); the special and competitive grants programs provided for in sections 2(b) and 2(c) of the Act of August 4, 1965 (7 U.S.C. 450i); <sup>2</sup> the animal health research program provided for under sections 3195(a) and 3196 of this title; the native latex research program provided for in the Native Latex Commercialization and Economic Development Act of 1978 (7 U.S.C. 178 et seq.); and the research provided for under various statutes for which funds are appropriated under the Agricultural Research heading or a successor heading, shall be appropriated for research at State agricultural experiment stations pursuant to the provision of the Act of March 2, 1887.
+Notwithstanding any other provision of law effective beginning October 1, 1983, not less than 25 per centum of the total funds appropriated to the Secretary in any fiscal year for the conduct of the cooperative research program provided for under the Act of March 2, 1887, commonly known as the Hatch Act (7 U.S.C. 361a et seq.); the cooperative forestry research program provided for under the Act of October 10, 1962, commonly known as the McIntire-Stennis Act (16 U.S.C. 582a et seq.); the special and competitive grants programs provided for in sections 2(b) and 2(c) of the Act of August 4, 1965 (7 U.S.C. 450i); <sup>2</sup> the animal health research program provided for under sections 3195(a) and 3196 of this title; the native latex research program provided for in the Native Latex Commercialization and Economic Development Act of 1978 (7 U.S.C. 178 et seq.); and the research provided for under various statutes for which funds are appropriated under the Agricultural Research heading or a successor heading, shall be appropriated for research at State agricultural experiment stations pursuant to the provision of the Act of March 2, 1887.
 
-(Pub. L. 95–113, title XIV, § 1463, Sept. 29, 1977, 91 Stat. 1017; Pub. L. 97–98, title XIV, § 1437, Dec. 22, 1981, 95 Stat. 1314; Pub. L. 99–198, title XIV, § 1422, Dec. 23, 1985, 99 Stat. 1552; Pub. L. 101–624, title XVI, § 1601(b)(3), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 102–237, title IV, § 402(12), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §§ 817, 884(d), Apr. 4, 1996, 110 Stat. 1167, 1179; Pub. L. 105–185, title III, § 301(a)(12), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7113, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, §§ 7110(b), 7134, May 22, 2008, 122 Stat. 1219, 1228; Pub. L. 110–246, § 4(a), title VII, §§ 7110(b), 7134, June 18, 2008, 122 Stat. 1664, 1980, 1989; Pub. L. 113–79, title VII, §§ 7111(b)(4), 7119, Feb. 7, 2014, 128 Stat. 874, 875; Pub. L. 115–334, title VII, § 7127, Dec. 20, 2018, 132 Stat. 4795.)
+(Pub. L. 95–113, title XIV, § 1463, Sept. 29, 1977, 91 Stat. 1017; Pub. L. 97–98, title XIV, § 1437, Dec. 22, 1981, 95 Stat. 1314; Pub. L. 99–198, title XIV, § 1422, Dec. 23, 1985, 99 Stat. 1552; Pub. L. 101–624, title XVI, § 1601(b)(3), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 102–237, title IV, § 402(12), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §§ 817, 884(d), Apr. 4, 1996, 110 Stat. 1167, 1179; Pub. L. 105–185, title III, § 301(a)(12), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7113, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, §§ 7110(b), 7134, May 22, 2008, 122 Stat. 1219, 1228; Pub. L. 110–246, § 4(a), title VII, §§ 7110(b), 7134, June 18, 2008, 122 Stat. 1664, 1980, 1989; Pub. L. 113–79, title VII, §§ 7111(b)(4), 7119, Feb. 7, 2014, 128 Stat. 874, 875; Pub. L. 115–334, title VII, § 7127, Dec. 20, 2018, 132 Stat. 4795.)
 
 **Editorial Notes**
 
@@ -6239,11 +6239,11 @@ Section 1414, referred to in subsec. (a), is section 1414 of Pub. L. 95–113, w
 
 Act of March 2, 1887, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
-Act of October 10, 1962, referred to in subsec. (c), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
+Act of October 10, 1962, referred to in subsec. (c), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 
 Sections 2(b) and 2(c) of the Act of August 4, 1965, referred to in subsec. (c), is section 2(b), (c) of Pub. L. 89–106, Aug. 4, 1965, 79 Stat. 431, which was classified to section 450i(b), (c) of this title prior to editorial reclassification and renumbering as section 3157(b), (c) of this title.
 
-The Native Latex Commercialization and Economic Development Act of 1978, referred to in subsec. (c), is Pub. L. 95–592, Nov. 4, 1978, 92 Stat. 2529, which, as amended by Pub. L. 98–284, May 16, 1984, 98 Stat. 181, is known as the Critical Agricultural Materials Act and is classified principally to subchapter II (§ 178 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 178 of this title and Tables.
+The Native Latex Commercialization and Economic Development Act of 1978, referred to in subsec. (c), is Pub. L. 95–592, Nov. 4, 1978, 92 Stat. 2529, which, as amended by Pub. L. 98–284, May 16, 1984, 98 Stat. 181, is known as the Critical Agricultural Materials Act and is classified principally to subchapter II (§ 178 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 178 of this title and Tables.
 
 **Codification**
 
@@ -6253,41 +6253,41 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsecs. (a), (b). Pub. L. 115–334 substituted “2023” for “2018”.
 
-2014—Subsecs. (a), (b). Pub. L. 113–79, § 7119, substituted “2018” for “2012”.
+2014—Subsecs. (a), (b). Pub. L. 113–79, § 7119, substituted “2018” for “2012”.
 
-Subsec. (c). Pub. L. 113–79, § 7111(b)(4), substituted “sections 3195(a) and 3196” for “sections 3195 and 3196”.
+Subsec. (c). Pub. L. 113–79, § 7111(b)(4), substituted “sections 3195(a) and 3196” for “sections 3195 and 3196”.
 
-2008—Subsec. (a). Pub. L. 110–246, §§ 7110(b), 7134, struck out “3154,” after “3152,” and substituted “2012” for “2007”.
+2008—Subsec. (a). Pub. L. 110–246, §§ 7110(b), 7134, struck out “3154,” after “3152,” and substituted “2012” for “2007”.
 
-Subsec. (b). Pub. L. 110–246, § 7134, substituted “2012” for “2007”.
+Subsec. (b). Pub. L. 110–246, § 7134, substituted “2012” for “2007”.
 
-2002—Subsec. (a). Pub. L. 107–171, § 7113(1), substituted “such sums as may be necessary for each of fiscal years 1991 through 2007” for “$850,000,000 for each of the fiscal years 1991 through 2002”.
+2002—Subsec. (a). Pub. L. 107–171, § 7113(1), substituted “such sums as may be necessary for each of fiscal years 1991 through 2007” for “$850,000,000 for each of the fiscal years 1991 through 2002”.
 
-Subsec. (b). Pub. L. 107–171, § 7113(2), substituted “such sums as may be necessary for each of fiscal years 1991 through 2007” for “$310,000,000 for each of the fiscal years 1991 through 2002”.
+Subsec. (b). Pub. L. 107–171, § 7113(2), substituted “such sums as may be necessary for each of fiscal years 1991 through 2007” for “$310,000,000 for each of the fiscal years 1991 through 2002”.
 
 1998—Subsecs. (a), (b). Pub. L. 105–185 substituted “2002” for “1997”.
 
-1996—Subsec. (a). Pub. L. 104–127, § 884(d), struck out “390 to 390j,” before “3152, 3154”.
+1996—Subsec. (a). Pub. L. 104–127, § 884(d), struck out “390 to 390j,” before “3152, 3154”.
 
-Pub. L. 104–127, § 817, substituted “1997” for “1995”.
+Pub. L. 104–127, § 817, substituted “1997” for “1995”.
 
-Subsec. (b). Pub. L. 104–127, § 817, substituted “1997” for “1995”.
+Subsec. (b). Pub. L. 104–127, § 817, substituted “1997” for “1995”.
 
 1991—Subsec. (a). Pub. L. 102–237 struck out “subchapter VII of this chapter and” after “chapter, except”.
 
-1990—Subsec. (a). Pub. L. 101–624, § 1601(b)(3)(A), substituted “$850,000,000 for each of the fiscal years 1991 through 1995” for “$600,000,000 for the fiscal year ending September 30, 1986, $610,000,000 for the fiscal year ending September 30, 1987, $620,000,000 for the fiscal year ending September 30, 1988, $630,000,000 for the fiscal year ending September 30, 1989, and $640,000,000 for the fiscal year ending September 30, 1990.”
+1990—Subsec. (a). Pub. L. 101–624, § 1601(b)(3)(A), substituted “$850,000,000 for each of the fiscal years 1991 through 1995” for “$600,000,000 for the fiscal year ending September 30, 1986, $610,000,000 for the fiscal year ending September 30, 1987, $620,000,000 for the fiscal year ending September 30, 1988, $630,000,000 for the fiscal year ending September 30, 1989, and $640,000,000 for the fiscal year ending September 30, 1990.”
 
-Subsec. (b). Pub. L. 101–624, § 1601(b)(3)(B), substituted “$310,000,000 for each of the fiscal years 1991 through 1995” for “$270,000,000 for the fiscal year ending September 30, 1986, $280,000,000 for the fiscal year ending September 30, 1987, $290,000,000 for the fiscal year ending September 30, 1988, $300,000,000 for the fiscal year ending September 30, 1989, and $310,000,000 for the fiscal year ending September 30, 1990.”
+Subsec. (b). Pub. L. 101–624, § 1601(b)(3)(B), substituted “$310,000,000 for each of the fiscal years 1991 through 1995” for “$270,000,000 for the fiscal year ending September 30, 1986, $280,000,000 for the fiscal year ending September 30, 1987, $290,000,000 for the fiscal year ending September 30, 1988, $300,000,000 for the fiscal year ending September 30, 1989, and $310,000,000 for the fiscal year ending September 30, 1990.”
 
-1985—Subsec. (a). Pub. L. 99–198, § 1422(a), substituted “$600,000,000 for the fiscal year ending September 30, 1986, $610,000,000 for the fiscal year ending September 30, 1987, $620,000,000 for the fiscal year ending September 30, 1988, $630,000,000 for the fiscal year ending September 30, 1989, and $640,000,000 for the fiscal year ending September 30, 1990” for “$505,000,000 for the fiscal year ending September 30, 1978, $575,000,000 for the fiscal year ending September 30, 1979, $645,000,000 for the fiscal year ending September 30, 1980, $715,000,000 for the fiscal year ending September 30, 1981, $780,000,000 for the fiscal year ending September 30, 1982, $780,000,000 for the fiscal year ending September 30, 1983, $835,000,000 for the fiscal year ending September 30, 1984, and $890,000,000 for the fiscal year ending September 30, 1985, and not in excess of such sums as may after the date of enactment of this title be authorized by law for any subsequent fiscal year”.
+1985—Subsec. (a). Pub. L. 99–198, § 1422(a), substituted “$600,000,000 for the fiscal year ending September 30, 1986, $610,000,000 for the fiscal year ending September 30, 1987, $620,000,000 for the fiscal year ending September 30, 1988, $630,000,000 for the fiscal year ending September 30, 1989, and $640,000,000 for the fiscal year ending September 30, 1990” for “$505,000,000 for the fiscal year ending September 30, 1978, $575,000,000 for the fiscal year ending September 30, 1979, $645,000,000 for the fiscal year ending September 30, 1980, $715,000,000 for the fiscal year ending September 30, 1981, $780,000,000 for the fiscal year ending September 30, 1982, $780,000,000 for the fiscal year ending September 30, 1983, $835,000,000 for the fiscal year ending September 30, 1984, and $890,000,000 for the fiscal year ending September 30, 1985, and not in excess of such sums as may after the date of enactment of this title be authorized by law for any subsequent fiscal year”.
 
-Subsec. (b). Pub. L. 99–198, § 1422(b), substituted “$270,000,000 for the fiscal year ending September 30, 1986, $280,000,000 for the fiscal year ending September 30, 1987, $290,000,000 for the fiscal year ending September 30, 1988, $300,000,000 for the fiscal year ending September 30, 1989, and $310,000,000 for the fiscal year ending September 30, 1990” for “$120,000,000 for the fiscal year ending September 30, 1978, $145,000,000 for the fiscal year ending September 30, 1979, $170,000,000 for the fiscal year ending September 30, 1980, $195,000,000 for the fiscal year ending September 30, 1981, $220,000,000 for the fiscal year ending September 30, 1982, $230,000,000 for the fiscal year ending September 30, 1983, $240,000,000 for the fiscal year ending September 30, 1984, and $250,000,000 for the fiscal year ending September 30, 1985, and not in excess of such sums as may after September 29, 1977 be authorized by law for any subsequent fiscal year”.
+Subsec. (b). Pub. L. 99–198, § 1422(b), substituted “$270,000,000 for the fiscal year ending September 30, 1986, $280,000,000 for the fiscal year ending September 30, 1987, $290,000,000 for the fiscal year ending September 30, 1988, $300,000,000 for the fiscal year ending September 30, 1989, and $310,000,000 for the fiscal year ending September 30, 1990” for “$120,000,000 for the fiscal year ending September 30, 1978, $145,000,000 for the fiscal year ending September 30, 1979, $170,000,000 for the fiscal year ending September 30, 1980, $195,000,000 for the fiscal year ending September 30, 1981, $220,000,000 for the fiscal year ending September 30, 1982, $230,000,000 for the fiscal year ending September 30, 1983, $240,000,000 for the fiscal year ending September 30, 1984, and $250,000,000 for the fiscal year ending September 30, 1985, and not in excess of such sums as may after September 29, 1977 be authorized by law for any subsequent fiscal year”.
 
-1981—Subsec. (a). Pub. L. 97–98, § 1437(1), inserted provisions authorizing appropriations of $780,000,000 for fiscal year ending Sept. 30, 1983, $835,000,000 for fiscal year ending Sept. 30, 1984, and $890,000,000 for fiscal year ending Sept. 30, 1985.
+1981—Subsec. (a). Pub. L. 97–98, § 1437(1), inserted provisions authorizing appropriations of $780,000,000 for fiscal year ending Sept. 30, 1983, $835,000,000 for fiscal year ending Sept. 30, 1984, and $890,000,000 for fiscal year ending Sept. 30, 1985.
 
-Subsec. (b). Pub. L. 97–98, § 1437(2), inserted provisions authorizing appropriations of $230,000,000 for fiscal year ending Sept. 30, 1983, $240,000,000 for fiscal year ending Sept. 30, 1984, and $250,000,000 for fiscal year ending Sept. 30, 1985.
+Subsec. (b). Pub. L. 97–98, § 1437(2), inserted provisions authorizing appropriations of $230,000,000 for fiscal year ending Sept. 30, 1983, $240,000,000 for fiscal year ending Sept. 30, 1984, and $250,000,000 for fiscal year ending Sept. 30, 1985.
 
-Subsec. (c). Pub. L. 97–98, § 1437(3), added subsec. (c).
+Subsec. (c). Pub. L. 97–98, § 1437(3), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6297,7 +6297,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XIV, § 1422(a), (b), Dec. 23, 1985, 99 Stat. 1552, provided that the amendments made by section 1422(a), (b) are effective Oct. 1, 1985.
+Pub. L. 99–198, title XIV, § 1422(a), (b), Dec. 23, 1985, 99 Stat. 1552, provided that the amendments made by section 1422(a), (b) are effective Oct. 1, 1985.
 
 **Effective Date of 1981 Amendment**
 
@@ -6307,11 +6307,11 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3312. Authorization of appropriations for extension education
+### § 3312. Authorization of appropriations for extension education
 
 Notwithstanding any authorization for appropriations for the Cooperative Extension Service in any Act enacted prior to September 29, 1977, there are hereby authorized to be appropriated for the purposes of carrying out the extension programs of the Department of Agriculture such sums as may be necessary for each of fiscal years 1991 through 2023.
 
-(Pub. L. 95–113, title XIV, § 1464, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, § 1438, Dec. 22, 1981, 95 Stat. 1314; Pub. L. 99–198, title XIV, § 1423, Dec. 23, 1985, 99 Stat. 1552; Pub. L. 101–624, title XVI, § 1601(b)(4), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, § 818, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title III, § 301(a)(13), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7114, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, § 7135, May 22, 2008, 122 Stat. 1228; Pub. L. 110–246, § 4(a), title VII, § 7135, June 18, 2008, 122 Stat. 1664, 1990; Pub. L. 113–79, title VII, § 7120, Feb. 7, 2014, 128 Stat. 876; Pub. L. 115–334, title VII, § 7128, Dec. 20, 2018, 132 Stat. 4795.)
+(Pub. L. 95–113, title XIV, § 1464, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, § 1438, Dec. 22, 1981, 95 Stat. 1314; Pub. L. 99–198, title XIV, § 1423, Dec. 23, 1985, 99 Stat. 1552; Pub. L. 101–624, title XVI, § 1601(b)(4), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, § 818, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title III, § 301(a)(13), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7114, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, § 7135, May 22, 2008, 122 Stat. 1228; Pub. L. 110–246, § 4(a), title VII, § 7135, June 18, 2008, 122 Stat. 1664, 1990; Pub. L. 113–79, title VII, § 7120, Feb. 7, 2014, 128 Stat. 876; Pub. L. 115–334, title VII, § 7128, Dec. 20, 2018, 132 Stat. 4795.)
 
 **Editorial Notes**
 
@@ -6325,7 +6325,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Pub. L. 110–246, § 7135, substituted “2012” for “2007”.
+2008—Pub. L. 110–246, § 7135, substituted “2012” for “2007”.
 
 2002—Pub. L. 107–171 substituted “such sums as may be necessary for each of fiscal years 1991 through 2007” for “$420,000,000 for fiscal year 1991, $430,000,000 for fiscal year 1992, $440,000,000 for fiscal year 1993, $450,000,000 for fiscal year 1994, and $460,000,000 for each of fiscal years 1995 through 2002”.
 
@@ -6347,7 +6347,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XIV, § 1423, Dec. 23, 1985, 99 Stat. 1552, provided that the amendment made by section 1423 is effective Oct. 1, 1985.
+Pub. L. 99–198, title XIV, § 1423, Dec. 23, 1985, 99 Stat. 1552, provided that the amendment made by section 1423 is effective Oct. 1, 1985.
 
 **Effective Date of 1981 Amendment**
 
@@ -6357,11 +6357,11 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3313. Payment of funds
+### § 3313. Payment of funds
 
 Except as provided elsewhere in this Act or any other Act of Congress, funds available for allotment under this chapter shall be paid to each eligible institution or State at such time and in such amounts as shall be determined by the Secretary.
 
-(Pub. L. 95–113, title XIV, § 1467, Sept. 29, 1977, 91 Stat. 1018.)
+(Pub. L. 95–113, title XIV, § 1467, Sept. 29, 1977, 91 Stat. 1018.)
 
 **Editorial Notes**
 
@@ -6375,17 +6375,17 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3314. Repealed. Pub. L. 105–185, title I, § 103(f)(3)(C), June 23, 1998, 112 Stat. 528
+### § 3314. Repealed. Pub. L. 105–185, title I, § 103(f)(3)(C), June 23, 1998, 112 Stat. 528
 
-Section, Pub. L. 95–113, title XIV, § 1468, Sept. 29, 1977, 91 Stat. 1018, related to withholding of funds if Secretary determines institution or State is not entitled to allotment under this chapter.
+Section, Pub. L. 95–113, title XIV, § 1468, Sept. 29, 1977, 91 Stat. 1018, related to withholding of funds if Secretary determines institution or State is not entitled to allotment under this chapter.
 
-### § 3315. Auditing, reporting, bookkeeping, and administrative requirements
+### § 3315. Auditing, reporting, bookkeeping, and administrative requirements
 
 **(a) In general** Except as provided elsewhere in this Act or any other Act of Congress—
 
-**(1)** assistance provided under this chapter shall be subject to the provisions of sections 3157(e), 3157(f), and 3157(h) 1
+**(1)** assistance provided under this chapter shall be subject to the provisions of sections 3157(e), 3157(f), and 3157(h) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title;
 
@@ -6411,7 +6411,7 @@ Notwithstanding any other provision of law regarding a competitive research, edu
 
 In any law relating to agricultural research, education, or extension activities administered by the Secretary, the term “in-kind support”, with regard to a requirement that the recipient of funds provided by the Secretary match all or part of the amount of the funds, means contributions such as office space, equipment, and staff support.
 
-(Pub. L. 95–113, title XIV, § 1469, Sept. 29, 1977, 91 Stat. 1019; Pub. L. 105–185, title II, § 230(b), June 23, 1998, 112 Stat. 547; Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(H), title VII, § 7132(b), May 22, 2008, 122 Stat. 1096, 1097, 1228; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(H), title VII, § 7132(b), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1989; Pub. L. 113–79, title VII, § 7121, Feb. 7, 2014, 128 Stat. 876.)
+(Pub. L. 95–113, title XIV, § 1469, Sept. 29, 1977, 91 Stat. 1019; Pub. L. 105–185, title II, § 230(b), June 23, 1998, 112 Stat. 547; Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(H), title VII, § 7132(b), May 22, 2008, 122 Stat. 1096, 1097, 1228; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(H), title VII, § 7132(b), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1989; Pub. L. 113–79, title VII, § 7121, Feb. 7, 2014, 128 Stat. 876.)
 
 **Editorial Notes**
 
@@ -6419,7 +6419,7 @@ In any law relating to agricultural research, education, or extension activities
 
 For definition of “this chapter”, referred to in subsec. (a), see note set out under section 3102 of this title.
 
-Sections 3157(e), 3157(f), and 3157(h) of this title, referred to in subsec. (a)(1), were redesignated as sections 3157(f), 3157(g), and 3157(i), respectively, by Pub. L. 101–624, title XIV, § 1497(1), Nov. 28, 1990, 104 Stat. 3630.
+Sections 3157(e), 3157(f), and 3157(h) of this title, referred to in subsec. (a)(1), were redesignated as sections 3157(f), 3157(g), and 3157(i), respectively, by Pub. L. 101–624, title XIV, § 1497(1), Nov. 28, 1990, 104 Stat. 3630.
 
 **Codification**
 
@@ -6429,15 +6429,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsecs. (b) to (e). Pub. L. 113–79 added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
 
-2008—Subsec. (a)(3). Pub. L. 110–246, § 7132(b), substituted “made available” for “appropriated”.
+2008—Subsec. (a)(3). Pub. L. 110–246, § 7132(b), substituted “made available” for “appropriated”.
 
-Subsec. (b). Pub. L. 110–246, § 4002(b)(1)(B), (2)(H), made technical amendment to reference in original act which appears in text as reference to section 2034 of this title.
+Subsec. (b). Pub. L. 110–246, § 4002(b)(1)(B), (2)(H), made technical amendment to reference in original act which appears in text as reference to section 2034 of this title.
 
-1998—Pub. L. 105–185, § 230(b)(1), reenacted section catchline without change, designated existing provisions as subsec. (a), and inserted heading.
+1998—Pub. L. 105–185, § 230(b)(1), reenacted section catchline without change, designated existing provisions as subsec. (a), and inserted heading.
 
-Subsec. (a)(3). Pub. L. 105–185, § 230(b)(2), added par. (3) and struck out former par. (3) which read as follows: “three per centum of the appropriations shall be retained by the Secretary for the administration of the programs authorized under this chapter; and”.
+Subsec. (a)(3). Pub. L. 105–185, § 230(b)(2), added par. (3) and struck out former par. (3) which read as follows: “three per centum of the appropriations shall be retained by the Secretary for the administration of the programs authorized under this chapter; and”.
 
-Subsecs. (b) to (d). Pub. L. 105–185, § 230(b)(3), added subsecs. (b) to (d).
+Subsecs. (b) to (d). Pub. L. 105–185, § 230(b)(3), added subsecs. (b) to (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6451,17 +6451,17 @@ Amendment by section 4002(b)(1)(B), (2)(H) of Pub. L. 110–246 effective Oct. 1
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3315a. Availability of competitive grant funds
+### § 3315a. Availability of competitive grant funds
 
 Except as otherwise provided by law, funds made available to the Secretary to carry out a competitive agricultural research, education, or extension grant program under this or any other Act shall be available for obligation for a 2-year period beginning on October 1 of the fiscal year for which the funds are made available.
 
-(Pub. L. 95–113, title XIV, § 1469A, as added Pub. L. 107–171, title VII, § 7217, May 13, 2002, 116 Stat. 449.)
+(Pub. L. 95–113, title XIV, § 1469A, as added Pub. L. 107–171, title VII, § 7217, May 13, 2002, 116 Stat. 449.)
 
-### § 3316. Rules and regulations
+### § 3316. Rules and regulations
 
 The Secretary is authorized to issue such rules and regulations as the Secretary deems necessary to carry out the provisions of this chapter.
 
-(Pub. L. 95–113, title XIV, § 1470, Sept. 29, 1977, 91 Stat. 1019.)
+(Pub. L. 95–113, title XIV, § 1470, Sept. 29, 1977, 91 Stat. 1019.)
 
 **Editorial Notes**
 
@@ -6475,13 +6475,13 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 3317. Program evaluation studies
+### § 3317. Program evaluation studies
 
 **(a)** The Secretary shall regularly conduct program evaluations to meet the purposes of this chapter and the responsibilities assigned to the Secretary and the Department of Agriculture in this chapter. Such evaluations shall be designed to provide information that may be used to improve the administration and effectiveness of agricultural research, extension, and teaching programs in achieving their stated objectives.
 
 **(b)** The Secretary is authorized to encourage and foster the regular evaluation of agricultural research, extension, and teaching programs within the State agricultural experiment stations, cooperative extension services, and colleges and universities, through the development and support of cooperative evaluation programs and program evaluation centers and institutes.
 
-(Pub. L. 95–113, title XIV, § 1471, as added Pub. L. 97–98, title XIV, § 1439(a), Dec. 22, 1981, 95 Stat. 1314.)
+(Pub. L. 95–113, title XIV, § 1471, as added Pub. L. 97–98, title XIV, § 1439(a), Dec. 22, 1981, 95 Stat. 1314.)
 
 **Editorial Notes**
 
@@ -6495,7 +6495,7 @@ For definition of “this chapter”, referred to in subsec. (a), see note set o
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### § 3318. Contract, grant, and cooperative agreement authorities
+### § 3318. Contract, grant, and cooperative agreement authorities
 
 **(a) Purposes, nature and construction**
 
@@ -6523,7 +6523,7 @@ The Secretary may vest title to expendable and nonexpendable equipment and suppl
 
 Unless otherwise provided in this chapter, the Secretary may enter into contracts, grants, or cooperative agreements, as authorized by this section, without regard to any requirements for competition, the provisions of section 6101 of title 41, and the provisions of section 3324(a) and (b) of title 31.
 
-(Pub. L. 95–113, title XIV, § 1472, as added Pub. L. 97–98, title XIV, § 1439(a), Dec. 22, 1981, 95 Stat. 1315; amended Pub. L. 99–198, title XIV, § 1424, Dec. 23, 1985, 99 Stat. 1552.)
+(Pub. L. 95–113, title XIV, § 1472, as added Pub. L. 97–98, title XIV, § 1439(a), Dec. 22, 1981, 95 Stat. 1315; amended Pub. L. 99–198, title XIV, § 1424, Dec. 23, 1985, 99 Stat. 1552.)
 
 **Editorial Notes**
 
@@ -6533,9 +6533,9 @@ For definition of “this chapter”, referred to in subsec. (e), see note set o
 
 **Codification**
 
-In subsec. (e), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (e), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (e), “section 3324(a) and (b) of title 31” substituted for reference to section 3648 of the Revised Statutes (31 U.S.C. 529) on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (e), “section 3324(a) and (b) of title 31” substituted for reference to section 3648 of the Revised Statutes (31 U.S.C. 529) on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
@@ -6547,7 +6547,7 @@ In subsec. (e), “section 3324(a) and (b) of title 31” substituted for refere
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### § 3318a. Cooperative research projects; agreements with and receipt of funds from State and other agencies
+### § 3318a. Cooperative research projects; agreements with and receipt of funds from State and other agencies
 
 On and after December 30, 1963, the Administrator of the Agricultural Research Service may enter into agreements with and receive funds from any State, other political subdivision, organization, or individual for the purpose of conducting cooperative research projects with such cooperators.
 
@@ -6561,11 +6561,11 @@ Section was formerly classified to section 450a of this title prior to editorial
 
 Section was enacted as part of the Department of Agriculture and Related Agencies Appropriation Act, 1964, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
 
-### § 3319. Restriction on treatment of indirect costs and tuition remission
+### § 3319. Restriction on treatment of indirect costs and tuition remission
 
 Funds made available by the Secretary under established Federal-State partnership arrangements to State cooperative institutions under the Acts referred to in section 3103(18) of this title and funds made available under subsection (c)(1)(B) of section 3157 of this title shall not be subject to reduction for indirect costs or for tuition remission. No indirect costs or tuition remission shall be charged against funds in connection with cooperative agreements between the Department of Agriculture and State cooperative institutions if the cooperative program or project involved is of mutual interest to all the parties and if all the parties contribute to the cooperative agreement involved. The prohibition on the use of such funds for the reimbursement of indirect costs shall not apply to funds for international agricultural programs conducted by a State cooperative institution and administered by the Secretary or to funds provided by a Federal agency for such cooperative program or project through a fund transfer, advance, or reimbursement. The Secretary shall limit the amount of such reimbursement to an amount necessary to carry out such program or agreement.
 
-(Pub. L. 95–113, title XIV, § 1473, as added Pub. L. 97–98, title XIV, § 1439(a), Dec. 22, 1981, 95 Stat. 1315; amended Pub. L. 99–198, title XIV, § 1425, Dec. 23, 1985, 99 Stat. 1553; Pub. L. 102–237, title IV, § 402(13), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 110–234, title VII, §§ 7101(b)(4), 7406(d)(1), May 22, 2008, 122 Stat. 1213, 1252; Pub. L. 110–246, § 4(a), title VII, §§ 7101(b)(4), 7406(d)(1), June 18, 2008, 122 Stat. 1664, 1975, 2013.)
+(Pub. L. 95–113, title XIV, § 1473, as added Pub. L. 97–98, title XIV, § 1439(a), Dec. 22, 1981, 95 Stat. 1315; amended Pub. L. 99–198, title XIV, § 1425, Dec. 23, 1985, 99 Stat. 1553; Pub. L. 102–237, title IV, § 402(13), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 110–234, title VII, §§ 7101(b)(4), 7406(d)(1), May 22, 2008, 122 Stat. 1213, 1252; Pub. L. 110–246, § 4(a), title VII, §§ 7101(b)(4), 7406(d)(1), June 18, 2008, 122 Stat. 1664, 1975, 2013.)
 
 **Editorial Notes**
 
@@ -6575,9 +6575,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 7406(d)(1), struck out “and subsection (d)” before “of section 3157”.
+2008—Pub. L. 110–246, § 7406(d)(1), struck out “and subsection (d)” before “of section 3157”.
 
-Pub. L. 110–246, § 7101(b)(4), substituted “section 3103(18)” for “section 3103(16)”.
+Pub. L. 110–246, § 7101(b)(4), substituted “section 3103(18)” for “section 3103(16)”.
 
 1991—Pub. L. 102–237 substituted “subsection (c)(1)(B)” for “subsection (c)(2)”.
 
@@ -6595,11 +6595,11 @@ Amendment by section 7406(d)(1) of Pub. L. 110–246 inapplicable to any solicit
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### § 3319a. Cost-reimbursable agreements
+### § 3319a. Cost-reimbursable agreements
 
 Notwithstanding any other provision of law, the Secretary of Agriculture may enter into cost-reimbursable agreements with State cooperative institutions or other colleges and universities without regard to any requirement for competition, for the acquisition of goods or services, including personal services, to carry out agricultural research, extension, or teaching activities of mutual interest. Reimbursable costs under such agreements shall include the actual direct costs of performance, as mutually agreed on by the parties, and the indirect costs of performance, not exceeding 10 percent of the direct cost.
 
-(Pub. L. 95–113, title XIV, § 1473A, as added Pub. L. 99–198, title XIV, § 1426, Dec. 23, 1985, 99 Stat. 1553; amended Pub. L. 105–185, title II, § 231, June 23, 1998, 112 Stat. 547.)
+(Pub. L. 95–113, title XIV, § 1473A, as added Pub. L. 99–198, title XIV, § 1426, Dec. 23, 1985, 99 Stat. 1553; amended Pub. L. 105–185, title II, § 231, June 23, 1998, 112 Stat. 547.)
 
 **Editorial Notes**
 
@@ -6607,7 +6607,7 @@ Notwithstanding any other provision of law, the Secretary of Agriculture may ent
 
 1998—Pub. L. 105–185 inserted “or other colleges and universities” after “institutions” in first sentence.
 
-### § 3319b. Joint requests for proposals
+### § 3319b. Joint requests for proposals
 
 **(a) In general**
 
@@ -6633,19 +6633,19 @@ The cooperating Federal agency may delegate to the Secretary authority to issue 
 
 Subject to section 3129a of this title, the Secretary and a cooperating Federal agency may establish joint peer review panels for the purpose of evaluating grant proposals.
 
-(Pub. L. 95–113, title XIV, § 1473B, as added Pub. L. 107–171, title VII, § 7403(b), May 13, 2002, 116 Stat. 456.)
+(Pub. L. 95–113, title XIV, § 1473B, as added Pub. L. 107–171, title VII, § 7403(b), May 13, 2002, 116 Stat. 456.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3319b, Pub. L. 95–113, title XIV, § 1473B, as added Pub. L. 99–198, title XIV, § 1427, Dec. 23, 1985, 99 Stat. 1553, provided for technology development for small- and medium-sized farming operations, prior to repeal by Pub. L. 101–624, title XVI, § 1601(f)(1)(E), Nov. 28, 1990, 104 Stat. 3704.
+A prior section 3319b, Pub. L. 95–113, title XIV, § 1473B, as added Pub. L. 99–198, title XIV, § 1427, Dec. 23, 1985, 99 Stat. 1553, provided for technology development for small- and medium-sized farming operations, prior to repeal by Pub. L. 101–624, title XVI, § 1601(f)(1)(E), Nov. 28, 1990, 104 Stat. 3704.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Purposes**
 
-Pub. L. 107–171, title VII, § 7403(a), May 13, 2002, 116 Stat. 456, provided that:
+Pub. L. 107–171, title VII, § 7403(a), May 13, 2002, 116 Stat. 456, provided that:
 
 > “The purposes of this section [enacting this section] are—
 
@@ -6657,19 +6657,19 @@ Pub. L. 107–171, title VII, § 7403(a), May 13, 2002, 116 Stat. 456, provide
 
 **Definitions**
 
-Pub. L. 107–171, title VII, § 7401, May 13, 2002, 116 Stat. 455, provided that:
+Pub. L. 107–171, title VII, § 7401, May 13, 2002, 116 Stat. 455, provided that:
 
-> “In this subtitle [subtitle D (§ 7401–7412) of title VII of Pub. L. 107–171, enacting this section and sections [former] 3310a, [former] 3319f, 5925c, 5925d, and 7630 of this title and provisions set out as notes under this section and sections 3101, [former] 3319f, [former] 5925a, and 5925b of this title]:
+> “In this subtitle [subtitle D (§ 7401–7412) of title VII of Pub. L. 107–171, enacting this section and sections [former] 3310a, [former] 3319f, 5925c, 5925d, and 7630 of this title and provisions set out as notes under this section and sections 3101, [former] 3319f, [former] 5925a, and 5925b of this title]:
 
 > **“(1) Department.—** The term ‘Department’ means the Department of Agriculture.
 
 > **“(2) Secretary.—** The term ‘Secretary’ means the Secretary of Agriculture.”
 
-### § 3319c. Repealed. Pub. L. 101–624, title XVI, § 1601(f)(1)(F), Nov. 28, 1990, 104 Stat. 3704
+### § 3319c. Repealed. Pub. L. 101–624, title XVI, § 1601(f)(1)(F), Nov. 28, 1990, 104 Stat. 3704
 
-Section, Pub. L. 95–113, title XIV, § 1473C, as added Pub. L. 99–198, title XIV, § 1427, Dec. 23, 1985, 99 Stat. 1554, provided for a special technology development research program.
+Section, Pub. L. 95–113, title XIV, § 1473C, as added Pub. L. 99–198, title XIV, § 1427, Dec. 23, 1985, 99 Stat. 1554, provided for a special technology development research program.
 
-### § 3319d. Supplemental and alternative crops
+### § 3319d. Supplemental and alternative crops
 
 **(a) Research and pilot project program**
 
@@ -6721,7 +6721,7 @@ The Secretary shall use the expertise and resources of the Agricultural Research
 
 **(3)** $2,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 95–113, title XIV, § 1473D, as added Pub. L. 99–198, title XIV, § 1428, Dec. 23, 1985, 99 Stat. 1554; amended Pub. L. 101–624, title XVI, § 1601(b)(5), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, § 819, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title III, § 301(a)(14), title VI, § 606(a), June 23, 1998, 112 Stat. 562, 603; Pub. L. 107–171, title VII, § 7115, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, §§ 7136, 7511(c)(13), May 22, 2008, 122 Stat. 1228, 1268; Pub. L. 110–246, § 4(a), title VII, §§ 7136, 7511(c)(13), June 18, 2008, 122 Stat. 1664, 1990, 2030; Pub. L. 113–79, title VII, § 7122, Feb. 7, 2014, 128 Stat. 876; Pub. L. 115–334, title VII, § 7129, Dec. 20, 2018, 132 Stat. 4795.)
+(Pub. L. 95–113, title XIV, § 1473D, as added Pub. L. 99–198, title XIV, § 1428, Dec. 23, 1985, 99 Stat. 1554; amended Pub. L. 101–624, title XVI, § 1601(b)(5), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, § 819, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title III, § 301(a)(14), title VI, § 606(a), June 23, 1998, 112 Stat. 562, 603; Pub. L. 107–171, title VII, § 7115, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, §§ 7136, 7511(c)(13), May 22, 2008, 122 Stat. 1228, 1268; Pub. L. 110–246, § 4(a), title VII, §§ 7136, 7511(c)(13), June 18, 2008, 122 Stat. 1664, 1990, 2030; Pub. L. 113–79, title VII, § 7122, Feb. 7, 2014, 128 Stat. 876; Pub. L. 115–334, title VII, § 7129, Dec. 20, 2018, 132 Stat. 4795.)
 
 **Editorial Notes**
 
@@ -6739,41 +6739,41 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 7129(1), substituted “2023” for “2018” and “crops (including canola),” for “crops,”.
+2018—Subsec. (a). Pub. L. 115–334, § 7129(1), substituted “2023” for “2018” and “crops (including canola),” for “crops,”.
 
-Subsec. (b). Pub. L. 115–334, § 7129(2), inserted “for agronomic rotational purposes and as a habitat for honey bees and other pollinators” after “alternative crops” and substituted “commodities.” for “commodities whose livelihood is threatened by the decline in demand experienced with respect to certain of their crops due to changes in consumption patterns or other related causes.”
+Subsec. (b). Pub. L. 115–334, § 7129(2), inserted “for agronomic rotational purposes and as a habitat for honey bees and other pollinators” after “alternative crops” and substituted “commodities.” for “commodities whose livelihood is threatened by the decline in demand experienced with respect to certain of their crops due to changes in consumption patterns or other related causes.”
 
-Subsec. (c)(3)(E). Pub. L. 115–334, § 7129(3), inserted “(including hemp (as defined in section 1639*o* of this title))” after “material”.
+Subsec. (c)(3)(E). Pub. L. 115–334, § 7129(3), inserted “(including hemp (as defined in section 1639*o* of this title))” after “material”.
 
-Subsec. (e)(3). Pub. L. 115–334, § 7129(4), added par. (3).
+Subsec. (e)(3). Pub. L. 115–334, § 7129(4), added par. (3).
 
-2014—Subsec. (a). Pub. L. 113–79, § 7122(a)(1), substituted “2018” for “2012”.
+2014—Subsec. (a). Pub. L. 113–79, § 7122(a)(1), substituted “2018” for “2012”.
 
-Subsec. (c)(1). Pub. L. 113–79, § 7122(b), substituted “make competitive grants” for “use such research funding, special or competitive grants, or other means, as the Secretary determines,”.
+Subsec. (c)(1). Pub. L. 113–79, § 7122(b), substituted “make competitive grants” for “use such research funding, special or competitive grants, or other means, as the Secretary determines,”.
 
-Subsec. (e). Pub. L. 113–79, § 7122(a)(2), added subsec. (e).
+Subsec. (e). Pub. L. 113–79, § 7122(a)(2), added subsec. (e).
 
-2008—Subsec. (a). Pub. L. 110–246, § 7136, substituted “2012” for “2007”.
+2008—Subsec. (a). Pub. L. 110–246, § 7136, substituted “2012” for “2007”.
 
-Subsec. (d). Pub. L. 110–246, § 7511(c)(13), substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research Service, the Extension Service”.
+Subsec. (d). Pub. L. 110–246, § 7511(c)(13), substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research Service, the Extension Service”.
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
-1998—Subsec. (a). Pub. L. 105–185, § 301(a)(14), substituted “2002” for “1997”.
+1998—Subsec. (a). Pub. L. 105–185, § 301(a)(14), substituted “2002” for “1997”.
 
-Subsec. (c)(3). Pub. L. 105–185, § 606(a), made technical amendment to directory language of Pub. L. 104–127, § 819(b)(5). See 1996 Amendment note below.
+Subsec. (c)(3). Pub. L. 105–185, § 606(a), made technical amendment to directory language of Pub. L. 104–127, § 819(b)(5). See 1996 Amendment note below.
 
-1996—Subsec. (a). Pub. L. 104–127, § 819(a), (b)(1), substituted “1997” for “1995” and struck out “and pilot” after “research”.
+1996—Subsec. (a). Pub. L. 104–127, § 819(a), (b)(1), substituted “1997” for “1995” and struck out “and pilot” after “research”.
 
-Subsec. (c)(2)(B). Pub. L. 104–127, § 819(b)(2), struck out “at pilot sites in areas adversely affected by declining demand for crops grown in the area” after “alternative crops”.
+Subsec. (c)(2)(B). Pub. L. 104–127, § 819(b)(2), struck out “at pilot sites in areas adversely affected by declining demand for crops grown in the area” after “alternative crops”.
 
-Subsec. (c)(2)(C). Pub. L. 104–127, § 819(b)(3), struck out “from pilot sites” after “research”.
+Subsec. (c)(2)(C). Pub. L. 104–127, § 819(b)(3), struck out “from pilot sites” after “research”.
 
-Subsec. (c)(2)(D). Pub. L. 104–127, § 819(b)(4), struck out “near such pilot sites” after “facilities” and “pilot” after “successful”.
+Subsec. (c)(2)(D). Pub. L. 104–127, § 819(b)(4), struck out “near such pilot sites” after “facilities” and “pilot” after “successful”.
 
-Subsec. (c)(3). Pub. L. 104–127, § 819(b)(5), as amended by Pub. L. 105–185, § 606(a), struck out “pilot” before “program” in introductory provisions.
+Subsec. (c)(3). Pub. L. 104–127, § 819(b)(5), as amended by Pub. L. 105–185, § 606(a), struck out “pilot” before “program” in introductory provisions.
 
-Subsec. (c)(3)(E), (F). Pub. L. 104–127, § 819(c), added subpars. (E) and (F).
+Subsec. (c)(3)(E), (F). Pub. L. 104–127, § 819(c), added subpars. (E) and (F).
 
 1990—Subsec. (a). Pub. L. 101–624 substituted “1995” for “1990”.
 
@@ -6787,9 +6787,9 @@ Amendment by section 7511(c)(13) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–185, title VI, § 606(a), June 23, 1998, 112 Stat. 603, provided that the amendment made by section 606(a) is effective Apr. 6, 1996.
+Pub. L. 105–185, title VI, § 606(a), June 23, 1998, 112 Stat. 603, provided that the amendment made by section 606(a) is effective Apr. 6, 1996.
 
-### § 3319e. New Era Rural Technology Program
+### § 3319e. New Era Rural Technology Program
 
 **(a) Definition of community college** In this section, the term “community college” means an institution of higher education (as defined in section 1001 of title 20)—
 
@@ -6843,7 +6843,7 @@ The Secretary shall establish a program to be known as the “New Era Rural Tech
 
 There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2019 through 2023.
 
-(Pub. L. 95–113, title XIV, § 1473E, as added Pub. L. 110–234, title VII, § 7137, May 22, 2008, 122 Stat. 1229, and Pub. L. 110–246, § 4(a), title VII, § 7137, June 18, 2008, 122 Stat. 1664, 1990; amended Pub. L. 115–334, title VII, § 7130, Dec. 20, 2018, 132 Stat. 4795.)
+(Pub. L. 95–113, title XIV, § 1473E, as added Pub. L. 110–234, title VII, § 7137, May 22, 2008, 122 Stat. 1229, and Pub. L. 110–246, § 4(a), title VII, § 7137, June 18, 2008, 122 Stat. 1664, 1990; amended Pub. L. 115–334, title VII, § 7130, Dec. 20, 2018, 132 Stat. 4795.)
 
 **Editorial Notes**
 
@@ -6857,13 +6857,13 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 3319e, Pub. L. 95–113, title XIV, § 1473E, as added Pub. L. 101–220, § 5, Dec. 12, 1989, 103 Stat. 1878, related to research into new commercial products from natural plant materials, prior to repeal by Pub. L. 102–237, title IV, § 402(14), Dec. 13, 1991, 105 Stat. 1863.
+A prior section 3319e, Pub. L. 95–113, title XIV, § 1473E, as added Pub. L. 101–220, § 5, Dec. 12, 1989, 103 Stat. 1878, related to research into new commercial products from natural plant materials, prior to repeal by Pub. L. 102–237, title IV, § 402(14), Dec. 13, 1991, 105 Stat. 1863.
 
 **Amendments**
 
-2018—Subsec. (b)(1)(B)(iv). Pub. L. 115–334, § 7130(1), added cl. (iv).
+2018—Subsec. (b)(1)(B)(iv). Pub. L. 115–334, § 7130(1), added cl. (iv).
 
-Subsec. (d). Pub. L. 115–334, § 7130(2), substituted “2019 through 2023” for “2008 through 2012”.
+Subsec. (d). Pub. L. 115–334, § 7130(2), substituted “2019 through 2023” for “2008 through 2012”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6871,11 +6871,11 @@ Subsec. (d). Pub. L. 115–334, § 7130(2), substituted “2019 through 2023�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 3319f. Repealed. Pub. L. 115–334, title XII, § 12301(a)(1), Dec. 20, 2018, 132 Stat. 4950
+### § 3319f. Repealed. Pub. L. 115–334, title XII, § 12301(a)(1), Dec. 20, 2018, 132 Stat. 4950
 
-Section, Pub. L. 107–171, title VII, § 7405, May 13, 2002, 116 Stat. 458; Pub. L. 110–234, title VII, § 7410, May 22, 2008, 122 Stat. 1254; Pub. L. 110–246, § 4(a), title VII, § 7410, June 18, 2008, 122 Stat. 1664, 2016; Pub. L. 112–240, title VII, § 701(e)(3), Jan. 2, 2013, 126 Stat. 2364; Pub. L. 113–79, title VII, § 7409, Feb. 7, 2014, 128 Stat. 898, related to beginning farmer and rancher development program.
+Section, Pub. L. 107–171, title VII, § 7405, May 13, 2002, 116 Stat. 458; Pub. L. 110–234, title VII, § 7410, May 22, 2008, 122 Stat. 1254; Pub. L. 110–246, § 4(a), title VII, § 7410, June 18, 2008, 122 Stat. 1664, 2016; Pub. L. 112–240, title VII, § 701(e)(3), Jan. 2, 2013, 126 Stat. 2364; Pub. L. 113–79, title VII, § 7409, Feb. 7, 2014, 128 Stat. 898, related to beginning farmer and rancher development program.
 
-### § 3319g. Fees
+### § 3319g. Fees
 
 In fiscal year 2003 and thereafter, the agency is authorized to charge fees, commensurate with the fair market value, for any permit, easement, lease, or other special use authorization for the occupancy or use of land and facilities (including land and facilities at the Beltsville Agricultural Research Center) issued by the agency, as authorized by law, and such fees shall be credited to this account, and shall remain available until expended for authorized purposes.
 
@@ -6897,13 +6897,13 @@ Provisions similar to those in this section were contained in the following prio
 
 Pub. L. 107–76, title I, Nov. 29, 2001, 115 Stat. 709.
 
-Pub. L. 106–387, § 1(a) [title I], Oct. 28, 2000, 114 Stat. 1549, 1549A–6.
+Pub. L. 106–387, § 1(a) [title I], Oct. 28, 2000, 114 Stat. 1549, 1549A–6.
 
 Pub. L. 106–78, title I, Oct. 22, 1999, 113 Stat. 1140.
 
-Pub. L. 105–277, div. A, § 101(a) [title I], Oct. 21, 1998, 112 Stat. 2681, 2681–5.
+Pub. L. 105–277, div. A, § 101(a) [title I], Oct. 21, 1998, 112 Stat. 2681, 2681–5.
 
-### § 3319h. Funds for research facilities
+### § 3319h. Funds for research facilities
 
 In fiscal year 2003 and thereafter, funds may be received from any State, other political subdivision, organization, or individual for the purpose of establishing any research facility of the Agricultural Research Service, as authorized by law.
 
@@ -6921,11 +6921,11 @@ Provisions similar to those in this section were contained in the following prio
 
 Pub. L. 107–76, title I, Nov. 29, 2001, 115 Stat. 709.
 
-Pub. L. 106–387, § 1(a) [title I], Oct. 28, 2000, 114 Stat. 1549, 1549A–6.
+Pub. L. 106–387, § 1(a) [title I], Oct. 28, 2000, 114 Stat. 1549, 1549A–6.
 
 Pub. L. 106–78, title I, Oct. 22, 1999, 113 Stat. 1140.
 
-Pub. L. 105–277, div. A, § 101(a) [title I], Oct. 21, 1998, 112 Stat. 2681, 2681–5.
+Pub. L. 105–277, div. A, § 101(a) [title I], Oct. 21, 1998, 112 Stat. 2681, 2681–5.
 
 Pub. L. 105–86, title I, Nov. 18, 1997, 111 Stat. 2084.
 
@@ -6939,7 +6939,7 @@ Pub. L. 103–111, title I, Oct. 21, 1993, 107 Stat. 1051.
 
 Pub. L. 102–341, title I, Aug. 14, 1992, 106 Stat. 878.
 
-### § 3319i. Capacity building grants for NLGCA Institutions
+### § 3319i. Capacity building grants for NLGCA Institutions
 
 **(a) Grant program**
 
@@ -6977,7 +6977,7 @@ Pub. L. 102–341, title I, Aug. 14, 1992, 106 Stat. 878.
 
 There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2008 through 2023.
 
-(Pub. L. 95–113, title XIV, § 1473F, as added Pub. L. 110–234, title VII, § 7138, May 22, 2008, 122 Stat. 1230, and Pub. L. 110–246, § 4(a), title VII, § 7138, June 18, 2008, 122 Stat. 1664, 1991; amended Pub. L. 113–79, title VII, § 7123, Feb. 7, 2014, 128 Stat. 876; Pub. L. 115–334, title VII, § 7131, Dec. 20, 2018, 132 Stat. 4796.)
+(Pub. L. 95–113, title XIV, § 1473F, as added Pub. L. 110–234, title VII, § 7138, May 22, 2008, 122 Stat. 1230, and Pub. L. 110–246, § 4(a), title VII, § 7138, June 18, 2008, 122 Stat. 1664, 1991; amended Pub. L. 113–79, title VII, § 7123, Feb. 7, 2014, 128 Stat. 876; Pub. L. 115–334, title VII, § 7131, Dec. 20, 2018, 132 Stat. 4796.)
 
 **Editorial Notes**
 
@@ -6997,7 +6997,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 3319j. Borlaug International Agricultural Science and Technology Fellowship Program
+### § 3319j. Borlaug International Agricultural Science and Technology Fellowship Program
 
 **(a) Fellowship program**
 
@@ -7071,7 +7071,7 @@ In carrying out the purposes and programs under this section, the Secretary shal
 
 There are authorized to be appropriated such sums as are necessary to carry out this section, to remain available until expended.
 
-(Pub. L. 95–113, title XIV, § 1473G, as added Pub. L. 110–234, title VII, § 7139, May 22, 2008, 122 Stat. 1231, and Pub. L. 110–246, § 4(a), title VII, § 7139, June 18, 2008, 122 Stat. 1664, 1992; amended Pub. L. 115–334, title III, § 3306, Dec. 20, 2018, 132 Stat. 4620.)
+(Pub. L. 95–113, title XIV, § 1473G, as added Pub. L. 110–234, title VII, § 7139, May 22, 2008, 122 Stat. 1231, and Pub. L. 110–246, § 4(a), title VII, § 7139, June 18, 2008, 122 Stat. 1664, 1992; amended Pub. L. 115–334, title III, § 3306, Dec. 20, 2018, 132 Stat. 4620.)
 
 **Editorial Notes**
 
@@ -7081,11 +7081,11 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-2018—Subsec. (c)(2). Pub. L. 115–334, § 3306(1)(A), struck out “shall” before “support—” in introductory provisions.
+2018—Subsec. (c)(2). Pub. L. 115–334, § 3306(1)(A), struck out “shall” before “support—” in introductory provisions.
 
-Subsec. (c)(2)(E). Pub. L. 115–334, § 3306(1)(B)–(D), added subpar. (E).
+Subsec. (c)(2)(E). Pub. L. 115–334, § 3306(1)(B)–(D), added subpar. (E).
 
-Subsec. (f). Pub. L. 115–334, § 3306(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (f). Pub. L. 115–334, § 3306(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7093,7 +7093,7 @@ Subsec. (f). Pub. L. 115–334, § 3306(2), designated existing provisions as 
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 3319k. Agriculture Advanced Research and Development Authority pilot
+### § 3319k. Agriculture Advanced Research and Development Authority pilot
 
 **(a) Definitions** In this section:
 
@@ -7363,9 +7363,9 @@ Except as provided under paragraph (2), the authority provided by this section t
 
 **(B)** grants awarded or contracts, cooperative agreements, or other transactions entered into before the end of the 5-year period referred to in such clause.1
 
-<sup>1</sup>  So in original. Probably should be “such paragraph.”.
+<sup>1</sup> So in original. Probably should be “such paragraph.”.
 
-(Pub. L. 95–113, title XIV, § 1473H, as added Pub. L. 115–334, title VII, § 7132, Dec. 20, 2018, 132 Stat. 4796; Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(1), Dec. 27, 2021, 135 Stat. 2160.)
+(Pub. L. 95–113, title XIV, § 1473H, as added Pub. L. 115–334, title VII, § 7132, Dec. 20, 2018, 132 Stat. 4796; Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(1), Dec. 27, 2021, 135 Stat. 2160.)
 
 **Editorial Notes**
 
@@ -7379,17 +7379,17 @@ This chapter, referred to in subsec. (b)(6)(B), was in the original “this Act�
 
 ## SUBCHAPTER XI—AQUACULTURE
 
-### § 3321. Statement of purpose
+### § 3321. Statement of purpose
 
 It is the purpose of this subchapter to promote research and extension activities of the institutions hereinafter referred to in section 3322(b) of this title, and to coordinate their efforts as an integral part in the implementation of the National Aquaculture Act of 1980 (16 U.S.C. 2801 et seq.) by encouraging landowners, individuals, and commercial institutions to develop aquaculture production and facilities and sound aquacultural practices that will, through research and technology transfer programs, provide for the increased production and marketing of aquacultural food products.
 
-(Pub. L. 95–113, title XIV, § 1474, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1316.)
+(Pub. L. 95–113, title XIV, § 1474, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1316.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Aquaculture Act of 1980, referred to in text, is Pub. L. 96–362, Sept. 26, 1980, 94 Stat. 1198, which is classified generally to chapter 48 (§ 2801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of Title 16 and Tables.
+The National Aquaculture Act of 1980, referred to in text, is Pub. L. 96–362, Sept. 26, 1980, 94 Stat. 1198, which is classified generally to chapter 48 (§ 2801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of Title 16 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7397,7 +7397,7 @@ The National Aquaculture Act of 1980, referred to in text, is Pub. L. 96–362, 
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### § 3322. Assistance programs
+### § 3322. Assistance programs
 
 **(a) Research and extension program**
 
@@ -7445,13 +7445,13 @@ The interagency aquaculture coordinating group established under section 6(a) of
 
 The Secretary shall implement, in consultation with the Joint Subcommittee on Aquaculture referred to in section 6 of the National Aquaculture Act of 1980 (16 U.S.C. 2805), a fish disease program to include the development of new diagnostic procedures for fish diseases, the determination of the effect of water environment on the development of the fish immune system, and the development of therapeutic, synthetic, or natural systems, for the control of fish diseases.
 
-(Pub. L. 95–113, title XIV, § 1475, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1316; amended Pub. L. 99–198, title XIV, § 1429(a), Dec. 23, 1985, 99 Stat. 1555; Pub. L. 101–624, title XVI, § 1614(a), Nov. 28, 1990, 104 Stat. 3727; Pub. L. 104–66, title I, § 1011(u), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, § 820(b), Apr. 4, 1996, 110 Stat. 1168; Pub. L. 113–79, title VII, §§ 7124(a), 7128(b)(1)(B), Feb. 7, 2014, 128 Stat. 876, 878; Pub. L. 115–334, title VII, § 7614(b)(1)(B), Dec. 20, 2018, 132 Stat. 4833.)
+(Pub. L. 95–113, title XIV, § 1475, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1316; amended Pub. L. 99–198, title XIV, § 1429(a), Dec. 23, 1985, 99 Stat. 1555; Pub. L. 101–624, title XVI, § 1614(a), Nov. 28, 1990, 104 Stat. 3727; Pub. L. 104–66, title I, § 1011(u), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, § 820(b), Apr. 4, 1996, 110 Stat. 1168; Pub. L. 113–79, title VII, §§ 7124(a), 7128(b)(1)(B), Feb. 7, 2014, 128 Stat. 876, 878; Pub. L. 115–334, title VII, § 7614(b)(1)(B), Dec. 20, 2018, 132 Stat. 4833.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Aquaculture Act of 1980, referred to in subsecs. (a) and (c), is Pub. L. 96–362, Sept. 26, 1980, 94 Stat. 1198, which is classified generally to chapter 48 (§ 2801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of Title 16 and Tables.
+The National Aquaculture Act of 1980, referred to in subsecs. (a) and (c), is Pub. L. 96–362, Sept. 26, 1980, 94 Stat. 1198, which is classified generally to chapter 48 (§ 2801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of Title 16 and Tables.
 
 **Amendments**
 
@@ -7467,31 +7467,31 @@ The National Aquaculture Act of 1980, referred to in subsecs. (a) and (c), is Pu
 
 “for research and extension to facilitate or expand promising advances in the production and marketing of aquacultural food species and products and to enhance further the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds.”
 
-2014—Subsec. (b). Pub. L. 113–79, § 7128(b)(1)(B), struck out at end of concluding provisions “Except in the case of Federal laboratories, no grant may be made under this subsection unless the State in which the grant recipient is located makes a matching grant (of which amount an in-kind contribution may not exceed 50 percent) to such recipient equal to the amount of the grant to be made under this subsection, and unless the grant is in implementation of the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980.”
+2014—Subsec. (b). Pub. L. 113–79, § 7128(b)(1)(B), struck out at end of concluding provisions “Except in the case of Federal laboratories, no grant may be made under this subsection unless the State in which the grant recipient is located makes a matching grant (of which amount an in-kind contribution may not exceed 50 percent) to such recipient equal to the amount of the grant to be made under this subsection, and unless the grant is in implementation of the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980.”
 
-Pub. L. 113–79, § 7124(a), inserted “competitive” before “grants” in introductory provisions.
+Pub. L. 113–79, § 7124(a), inserted “competitive” before “grants” in introductory provisions.
 
 1996—Subsecs. (e) to (g). Pub. L. 104–127 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of former subsec. (e). Text read as follows: “Not later than March 1 of each year, the Secretary shall submit a report to the President, the House Committee on Agriculture, the House Committee on Merchant Marine and Fisheries, the House Committee on Appropriations, the Senate Committee on Agriculture, Nutrition, and Forestry, and the Senate Committee on Appropriations, containing a summary outlining the progress of the Department of Agriculture in meeting the purposes of the programs established under this subchapter.”
 
 1995—Subsec. (e). Pub. L. 104–66 struck out “(1)” before “Not later than” and struck out par. (2) which required Secretary to conduct a study assessing economic impact of animal damage to the United States aquaculture industry.
 
-1990—Subsec. (a). Pub. L. 101–624, § 1614(a)(1), inserted heading and substituted “United States and to enhance further the safety of food products derived from the aquaculture industry,” for “United States,”.
+1990—Subsec. (a). Pub. L. 101–624, § 1614(a)(1), inserted heading and substituted “United States and to enhance further the safety of food products derived from the aquaculture industry,” for “United States,”.
 
-Subsec. (b). Pub. L. 101–624, § 1614(a)(2), inserted heading, inserted “and sea grant” after “land-grant” in par. (1), and inserted before period at end “and to enhance further the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds”.
+Subsec. (b). Pub. L. 101–624, § 1614(a)(2), inserted heading, inserted “and sea grant” after “land-grant” in par. (1), and inserted before period at end “and to enhance further the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds”.
 
-Subsec. (c). Pub. L. 101–624, § 1614(a)(3), inserted heading.
+Subsec. (c). Pub. L. 101–624, § 1614(a)(3), inserted heading.
 
-Subsec. (d). Pub. L. 101–624, § 1614(a)(4), inserted heading, substituted “five aquacultural” for “four aquacultural”, and inserted at end “To the extent practicable, the Secretary shall ensure that equitable efforts are made at these centers in addressing the research needs of those segments of the domestic aquaculture industry located within that region.”
+Subsec. (d). Pub. L. 101–624, § 1614(a)(4), inserted heading, substituted “five aquacultural” for “four aquacultural”, and inserted at end “To the extent practicable, the Secretary shall ensure that equitable efforts are made at these centers in addressing the research needs of those segments of the domestic aquaculture industry located within that region.”
 
-Subsec. (e). Pub. L. 101–624, § 1614(a)(5), inserted heading, designated existing provisions as par. (1), substituted “Not later than March 1 of each year,” for “Not later than one year after the effective date of this subchapter and not later than March 1 of each subsequent year,”, and added par. (2).
+Subsec. (e). Pub. L. 101–624, § 1614(a)(5), inserted heading, designated existing provisions as par. (1), substituted “Not later than March 1 of each year,” for “Not later than one year after the effective date of this subchapter and not later than March 1 of each subsequent year,”, and added par. (2).
 
-Subsecs. (f), (g). Pub. L. 101–624, § 1614(a)(6), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 101–624, § 1614(a)(6), added subsecs. (f) and (g).
 
-1985—Subsec. (b). Pub. L. 99–198, § 1429(a)(1), (2), added par. (4) and inserted “(of which amount an in-kind contribution may not exceed 50 percent)” after “matching grant”.
+1985—Subsec. (b). Pub. L. 99–198, § 1429(a)(1), (2), added par. (4) and inserted “(of which amount an in-kind contribution may not exceed 50 percent)” after “matching grant”.
 
-Subsec. (d). Pub. L. 99–198, § 1429(a)(3), (4), substituted in first sentence “any of the non-Federal entities specified in subsection (b)” for “State agencies (including State departments of agriculture), and land-grant colleges and universities,” and inserted provision respecting geographic location of aquaculture research, development, and demonstration centers.
+Subsec. (d). Pub. L. 99–198, § 1429(a)(3), (4), substituted in first sentence “any of the non-Federal entities specified in subsection (b)” for “State agencies (including State departments of agriculture), and land-grant colleges and universities,” and inserted provision respecting geographic location of aquaculture research, development, and demonstration centers.
 
-Subsec. (e). Pub. L. 99–198, § 1429(a)(5), inserted “the House Committee on Merchant Marine and Fisheries,”.
+Subsec. (e). Pub. L. 99–198, § 1429(a)(5), inserted “the House Committee on Merchant Marine and Fisheries,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7503,13 +7503,13 @@ Amendment by Pub. L. 115–334 applicable to grants, cooperative agreements, or 
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### § 3323. Repealed. Pub. L. 105–185, title III, § 302(a), June 23, 1998, 112 Stat. 563
+### § 3323. Repealed. Pub. L. 105–185, title III, § 302(a), June 23, 1998, 112 Stat. 563
 
-Section, Pub. L. 95–113, title XIV, § 1476, as added Pub. L. 101–624, title XVI, § 1614(b)(1), Nov. 28, 1990, 104 Stat. 3728; amended Pub. L. 104–127, title VIII, § 820(c), Apr. 4, 1996, 110 Stat. 1168, authorized grants and appropriations for acquaculture research facilities.
+Section, Pub. L. 95–113, title XIV, § 1476, as added Pub. L. 101–624, title XVI, § 1614(b)(1), Nov. 28, 1990, 104 Stat. 3728; amended Pub. L. 104–127, title VIII, § 820(c), Apr. 4, 1996, 110 Stat. 1168, authorized grants and appropriations for acquaculture research facilities.
 
-A prior section 3323, Pub. L. 95–113, title XIV, § 1476, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1317, related to establishment, duration, and meetings of Aquaculture Advisory Board, and appointment and compensation of Board members, prior to repeal by Pub. L. 99–198, title XIV, § 1429(b), Dec. 23, 1985, 99 Stat. 1556.
+A prior section 3323, Pub. L. 95–113, title XIV, § 1476, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1317, related to establishment, duration, and meetings of Aquaculture Advisory Board, and appointment and compensation of Board members, prior to repeal by Pub. L. 99–198, title XIV, § 1429(b), Dec. 23, 1985, 99 Stat. 1556.
 
-### § 3324. Authorization of appropriations
+### § 3324. Authorization of appropriations
 
 **(a) In general** There are authorized to be appropriated to carry out this subchapter—
 
@@ -7521,7 +7521,7 @@ A prior section 3323, Pub. L. 95–113, title XIV, § 1476, as added Pub. L. 9
 
 Funds made available under this section may not be used to acquire or construct a building.
 
-(Pub. L. 95–113, title XIV, § 1477, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1318; amended Pub. L. 99–198, title XIV, § 1429(c), Dec. 23, 1985, 99 Stat. 1556; Pub. L. 101–624, title XVI, § 1614(c), Nov. 28, 1990, 104 Stat. 3728; Pub. L. 104–127, title VIII, § 820(d), Apr. 4, 1996, 110 Stat. 1168; Pub. L. 105–185, title III, § 301(a)(15), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7116, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, § 7140, May 22, 2008, 122 Stat. 1232; Pub. L. 110–246, § 4(a), title VII, § 7140, June 18, 2008, 122 Stat. 1664, 1993; Pub. L. 113–79, title VII, § 7124(b), Feb. 7, 2014, 128 Stat. 876; Pub. L. 115–334, title VII, § 7133, Dec. 20, 2018, 132 Stat. 4802.)
+(Pub. L. 95–113, title XIV, § 1477, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1318; amended Pub. L. 99–198, title XIV, § 1429(c), Dec. 23, 1985, 99 Stat. 1556; Pub. L. 101–624, title XVI, § 1614(c), Nov. 28, 1990, 104 Stat. 3728; Pub. L. 104–127, title VIII, § 820(d), Apr. 4, 1996, 110 Stat. 1168; Pub. L. 105–185, title III, § 301(a)(15), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, § 7116, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, § 7140, May 22, 2008, 122 Stat. 1232; Pub. L. 110–246, § 4(a), title VII, § 7140, June 18, 2008, 122 Stat. 1664, 1993; Pub. L. 113–79, title VII, § 7124(b), Feb. 7, 2014, 128 Stat. 876; Pub. L. 115–334, title VII, § 7133, Dec. 20, 2018, 132 Stat. 4802.)
 
 **Editorial Notes**
 
@@ -7535,7 +7535,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Pub. L. 113–79 amended section generally. Prior to amendment, text read as follows: “There is authorized to be appropriated $7,500,000 for each of the fiscal years 1991 through 2012. Funds appropriated under this section or section 3323 of this title may not be used to acquire or construct a building.”
 
-2008—Pub. L. 110–246, § 7140, substituted “2012” for “2007”.
+2008—Pub. L. 110–246, § 7140, substituted “2012” for “2007”.
 
 2002—Pub. L. 107–171 substituted “2007” for “2002”.
 
@@ -7559,11 +7559,11 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 ## SUBCHAPTER XII—RANGELAND RESEARCH
 
-### § 3331. Congressional statement of purpose
+### § 3331. Congressional statement of purpose
 
 It is the purpose of this subchapter to promote the general welfare through improved productivity of the Nation’s rangelands, which comprise 60 per centum of the land area of the United States. Most of these rangelands are unsuited for cultivation, but produce a great volume of forage that is inedible by humans but readily converted, through an energy efficient process, to high quality food protein by grazing animals. These native grazing lands are located throughout the United States and are important resources for major segments of the Nation’s livestock industry. In addition to the many livestock producers directly dependent on rangelands, other segments of agriculture are indirectly dependent on range-fed livestock and on range-produced forage that can be substituted for grain in times of grain scarcity. Recent resource assessments indicate that forage production of rangeland can be increased at least 100 per centum through development and application of improved range management practices while simultaneously enhancing wildlife, watershed, recreational, and aesthetic values and reducing hazards of erosion and flooding.
 
-(Pub. L. 95–113, title XIV, § 1478, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1318.)
+(Pub. L. 95–113, title XIV, § 1478, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1318.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7571,17 +7571,17 @@ It is the purpose of this subchapter to promote the general welfare through impr
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### § 3332. Program; development, purposes, scope, etc.
+### § 3332. Program; development, purposes, scope, etc.
 
 The Secretary may develop and implement a cooperative rangeland research program in coordination with the program carried out under the Renewable Resources Extension Act of 1978 [16 U.S.C. 1671 et seq.], to improve the production and quality of desirable native forages or introduced forages which are managed in a similar manner to native forages for livestock and wildlife. The program shall include studies of: (1) management of rangelands and agricultural land as integrated systems for more efficient utilization of crops and waste products in the production of food and fiber; (2) methods of managing rangeland watersheds to maximize efficient use of water and improve water yield, water quality, and water conservation, to protect against onsite and offsite damage of rangeland resources from floods, erosion, and other detrimental influences, and to remedy unsatisfactory and unstable rangeland conditions; (3) revegetation and rehabilitation of rangelands including the control of undesirable species of plants; and (4) such other matters as the Secretary considers appropriate.
 
-(Pub. L. 95–113, title XIV, § 1479, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1318.)
+(Pub. L. 95–113, title XIV, § 1479, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1318.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Renewable Resources Extension Act of 1978, referred to in text, is Pub. L. 95–306, June 30, 1978, 92 Stat. 349, which is classified generally to subchapter III (§ 1671 et seq.) of chapter 36 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1978 Amendments note set out under section 1600 of Title 16 and Tables.
+The Renewable Resources Extension Act of 1978, referred to in text, is Pub. L. 95–306, June 30, 1978, 92 Stat. 349, which is classified generally to subchapter III (§ 1671 et seq.) of chapter 36 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1978 Amendments note set out under section 1600 of Title 16 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7589,7 +7589,7 @@ The Renewable Resources Extension Act of 1978, referred to in text, is Pub. L. 9
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### § 3333. Rangeland research grants
+### § 3333. Rangeland research grants
 
 **(a) In general** The Secretary may make grants to—
 
@@ -7607,7 +7607,7 @@ Except as provided in paragraph (2), this grant program shall be based on a matc
 
 Paragraph (1) shall not apply to a grant to a Federal laboratory or a grant under subsection (a)(2).
 
-(Pub. L. 95–113, title XIV, § 1480, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1319; amended Pub. L. 107–171, title VII, § 7209(d), May 13, 2002, 116 Stat. 445; Pub. L. 113–79, title VII, § 7128(b)(1)(C), Feb. 7, 2014, 128 Stat. 878; Pub. L. 115–334, title VII, § 7614(b)(1)(C), Dec. 20, 2018, 132 Stat. 4834.)
+(Pub. L. 95–113, title XIV, § 1480, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1319; amended Pub. L. 107–171, title VII, § 7209(d), May 13, 2002, 116 Stat. 445; Pub. L. 113–79, title VII, § 7128(b)(1)(C), Feb. 7, 2014, 128 Stat. 878; Pub. L. 115–334, title VII, § 7614(b)(1)(C), Dec. 20, 2018, 132 Stat. 4834.)
 
 **Editorial Notes**
 
@@ -7629,13 +7629,13 @@ Amendment by Pub. L. 115–334 applicable to grants, cooperative agreements, or 
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### §§ 3334, 3335. Repealed. Pub. L. 104–127, title VIII, § 857, Apr. 4, 1996, 110 Stat. 1173
+### §§ 3334, 3335. Repealed. Pub. L. 104–127, title VIII, § 857, Apr. 4, 1996, 110 Stat. 1173
 
-Section 3334, Pub. L. 95–113, title XIV, § 1481, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1319, required Secretary to submit annual report to President and congressional committees outlining progress of Department of Agriculture in meeting program requirements set forth in section 3332 of this title.
+Section 3334, Pub. L. 95–113, title XIV, § 1481, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1319, required Secretary to submit annual report to President and congressional committees outlining progress of Department of Agriculture in meeting program requirements set forth in section 3332 of this title.
 
-Section 3335, Pub. L. 95–113, title XIV, § 1482, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1319; amended Pub. L. 99–198, title XIV, § 1430(a), Dec. 23, 1985, 99 Stat. 1556; Pub. L. 101–624, title XVI, § 1601(b)(6), Nov. 28, 1990, 104 Stat. 3703, related to establishment of Rangeland Research Advisory Board.
+Section 3335, Pub. L. 95–113, title XIV, § 1482, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1319; amended Pub. L. 99–198, title XIV, § 1430(a), Dec. 23, 1985, 99 Stat. 1556; Pub. L. 101–624, title XVI, § 1601(b)(6), Nov. 28, 1990, 104 Stat. 3703, related to establishment of Rangeland Research Advisory Board.
 
-### § 3336. Authorization of appropriations; allocation of funds
+### § 3336. Authorization of appropriations; allocation of funds
 
 **(a)** There are authorized to be appropriated, to implement the provisions of this subchapter—
 
@@ -7645,7 +7645,7 @@ Section 3335, Pub. L. 95–113, title XIV, § 1482, as added Pub. L. 97–98, 
 
 **(b)** Funds appropriated under this section shall be allocated by the Secretary to eligible institutions for work to be done as mutually agreed upon between the Secretary and the eligible institution or institutions.
 
-(Pub. L. 95–113, title XIV, § 1483, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1319; amended Pub. L. 99–198, title XIV, § 1430(b), Dec. 23, 1985, 99 Stat. 1556; Pub. L. 101–624, title XVI, § 1601(b)(7), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, § 821, Apr. 4, 1996, 110 Stat. 1168; Pub. L. 105–185, title III, § 301(a)(16), title VI, § 606(e), June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, § 7117, May 13, 2002, 116 Stat. 434; Pub. L. 110–234, title VII, § 7141, May 22, 2008, 122 Stat. 1232; Pub. L. 110–246, § 4(a), title VII, § 7141, June 18, 2008, 122 Stat. 1664, 1993; Pub. L. 113–79, title VII, § 7125, Feb. 7, 2014, 128 Stat. 877; Pub. L. 115–334, title VII, § 7134, Dec. 20, 2018, 132 Stat. 4802.)
+(Pub. L. 95–113, title XIV, § 1483, as added Pub. L. 97–98, title XIV, § 1440(a), Dec. 22, 1981, 95 Stat. 1319; amended Pub. L. 99–198, title XIV, § 1430(b), Dec. 23, 1985, 99 Stat. 1556; Pub. L. 101–624, title XVI, § 1601(b)(7), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, § 821, Apr. 4, 1996, 110 Stat. 1168; Pub. L. 105–185, title III, § 301(a)(16), title VI, § 606(e), June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, § 7117, May 13, 2002, 116 Stat. 434; Pub. L. 110–234, title VII, § 7141, May 22, 2008, 122 Stat. 1232; Pub. L. 110–246, § 4(a), title VII, § 7141, June 18, 2008, 122 Stat. 1664, 1993; Pub. L. 113–79, title VII, § 7125, Feb. 7, 2014, 128 Stat. 877; Pub. L. 115–334, title VII, § 7134, Dec. 20, 2018, 132 Stat. 4802.)
 
 **Editorial Notes**
 
@@ -7659,13 +7659,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (a). Pub. L. 113–79 substituted “subchapter—” for “subchapter, such sums not to exceed $10,000,000 for each of the fiscal years 1991 through 2012.” and added pars. (1) and (2).
 
-2008—Subsec. (a). Pub. L. 110–246, § 7141, substituted “2012” for “2007”.
+2008—Subsec. (a). Pub. L. 110–246, § 7141, substituted “2012” for “2007”.
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
-1998—Subsec. (a). Pub. L. 105–185, § 301(a)(16), substituted “2002” for “1997”.
+1998—Subsec. (a). Pub. L. 105–185, § 301(a)(16), substituted “2002” for “1997”.
 
-Subsec. (b). Pub. L. 105–185, § 606(e), which directed that the second sentence of subsec. (b) be amended by striking out the last sentence, was executed by striking out “The Secretary shall, whenever possible, consult with the Board in developing plans for the use of these funds.”, which is both the second and last sentence of subsec. (b), to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 105–185, § 606(e), which directed that the second sentence of subsec. (b) be amended by striking out the last sentence, was executed by striking out “The Secretary shall, whenever possible, consult with the Board in developing plans for the use of these funds.”, which is both the second and last sentence of subsec. (b), to reflect the probable intent of Congress.
 
 1996—Subsec. (a). Pub. L. 104–127 substituted “1997” for “1995”.
 
@@ -7685,7 +7685,7 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 ## SUBCHAPTER XIII—BIOSECURITY
 
-### § 3351. Special authorization for biosecurity planning and response
+### § 3351. Special authorization for biosecurity planning and response
 
 **(a) Authorization of appropriations** In addition to amounts for agricultural research, extension, and education under this chapter, there are authorized to be appropriated for agricultural research, education, and extension activities for biosecurity planning and response—
 
@@ -7707,7 +7707,7 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 **(5)** To coordinate the tactical science activities of the Research, Education, and Economics mission area of the Department that protect the integrity, reliability, sustainability, and profitability of the food and agricultural system of the United States against biosecurity threats from pests, diseases, contaminants, and disasters.
 
-(Pub. L. 95–113, title XIV, § 1484, as added Pub. L. 107–171, title VII, § 7221(a), May 13, 2002, 116 Stat. 452; amended Pub. L. 110–234, title VII, § 7142, May 22, 2008, 122 Stat. 1232; Pub. L. 110–246, § 4(a), title VII, § 7142, June 18, 2008, 122 Stat. 1664, 1993; Pub. L. 113–79, title VII, § 7126, Feb. 7, 2014, 128 Stat. 877; Pub. L. 115–334, title VII, § 7135, Dec. 20, 2018, 132 Stat. 4802.)
+(Pub. L. 95–113, title XIV, § 1484, as added Pub. L. 107–171, title VII, § 7221(a), May 13, 2002, 116 Stat. 452; amended Pub. L. 110–234, title VII, § 7142, May 22, 2008, 122 Stat. 1232; Pub. L. 110–246, § 4(a), title VII, § 7142, June 18, 2008, 122 Stat. 1664, 1993; Pub. L. 113–79, title VII, § 7126, Feb. 7, 2014, 128 Stat. 877; Pub. L. 115–334, title VII, § 7135, Dec. 20, 2018, 132 Stat. 4802.)
 
 **Editorial Notes**
 
@@ -7721,17 +7721,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (a)(3). Pub. L. 115–334, § 7135(1), added par. (3).
+2018—Subsec. (a)(3). Pub. L. 115–334, § 7135(1), added par. (3).
 
-Subsec. (b). Pub. L. 115–334, § 7135(2)(A), inserted “and cooperative agreements” after “competitive grants” in introductory provisions.
+Subsec. (b). Pub. L. 115–334, § 7135(2)(A), inserted “and cooperative agreements” after “competitive grants” in introductory provisions.
 
-Subsec. (b)(3). Pub. L. 115–334, § 7135(2)(B), substituted “award competitive grants and cooperative agreements” for “make competitive grants”.
+Subsec. (b)(3). Pub. L. 115–334, § 7135(2)(B), substituted “award competitive grants and cooperative agreements” for “make competitive grants”.
 
-Subsec. (b)(5). Pub. L. 115–334, § 7135(2)(C), added par. (5).
+Subsec. (b)(5). Pub. L. 115–334, § 7135(2)(C), added par. (5).
 
 2014—Subsec. (a). Pub. L. 113–79 substituted “response—” for “response such sums as are necessary for each of fiscal years 2002 through 2012.” and added pars. (1) and (2).
 
-2008—Subsec. (a). Pub. L. 110–246, § 7142, substituted “2012” for “2007”.
+2008—Subsec. (a). Pub. L. 110–246, § 7142, substituted “2012” for “2007”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7739,7 +7739,7 @@ Subsec. (b)(5). Pub. L. 115–334, § 7135(2)(C), added par. (5).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 3352. Agriculture research facility expansion and security upgrades
+### § 3352. Agriculture research facility expansion and security upgrades
 
 **(a) In general**
 
@@ -7779,9 +7779,9 @@ The Federal share of the cost of any expansion or security upgrade carried out u
 
 There are authorized to be appropriated to carry out this section such sums as are necessary for each fiscal year.
 
-(Pub. L. 95–113, title XIV, § 1485, as added Pub. L. 107–171, title VII, § 7221(a), May 13, 2002, 116 Stat. 453.)
+(Pub. L. 95–113, title XIV, § 1485, as added Pub. L. 107–171, title VII, § 7221(a), May 13, 2002, 116 Stat. 453.)
 
-### § 3353. Agricultural biosecurity
+### § 3353. Agricultural biosecurity
 
 **(a) Security at colleges and universities**
 
@@ -7821,7 +7821,7 @@ Associations of food producers receiving grants under paragraph (1) may use such
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each fiscal year.
 
-(Pub. L. 107–188, title III, § 334, June 12, 2002, 116 Stat. 679.)
+(Pub. L. 107–188, title III, § 334, June 12, 2002, 116 Stat. 679.)
 
 **Editorial Notes**
 
@@ -7829,7 +7829,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 Section was enacted as part of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
 
-### § 3354. Agricultural bioterrorism research and development
+### § 3354. Agricultural bioterrorism research and development
 
 **(a) In general** The Secretary of Agriculture (referred to in this section as the “Secretary”) may utilize existing research authorities and research programs to protect the food supply of the United States by conducting and supporting research activities to—
 
@@ -7851,7 +7851,7 @@ Section was enacted as part of the Public Health Security and Bioterrorism Prepa
 
 There is authorized to be appropriated to carry out this section, $190,000,000 for fiscal year 2002, and such sums as may be necessary for each subsequent fiscal year.
 
-(Pub. L. 107–188, title III, § 335, June 12, 2002, 116 Stat. 680.)
+(Pub. L. 107–188, title III, § 335, June 12, 2002, 116 Stat. 680.)
 
 **Editorial Notes**
 
@@ -7861,19 +7861,19 @@ Section was enacted as part of the Public Health Security and Bioterrorism Prepa
 
 ## SUBCHAPTER XIV—INSTITUTIONS OF HIGHER EDUCATION IN INSULAR AREAS
 
-### § 3361. Definition
+### § 3361. Definition
 
 For the purposes of this subchapter, the term “eligible institution” means an institution of higher education (as defined in section 1001(a) of title 20) in an insular area that has demonstrable capacity to carry out teaching and extension programs in the food and agricultural sciences.
 
-(Pub. L. 95–113, title XIV, § 1489, as added Pub. L. 107–171, title VII, § 7503, May 13, 2002, 116 Stat. 464.)
+(Pub. L. 95–113, title XIV, § 1489, as added Pub. L. 107–171, title VII, § 7503, May 13, 2002, 116 Stat. 464.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Resident Instruction and Distance Education at Institutions of Higher Education in United States Insular Areas**
 
-Pub. L. 107–171, title VII, § 7501(a), May 13, 2002, 116 Stat. 463, provided that: “It is the purpose of this subtitle [subtitle E (§ 7501–7506) of title VII of Pub. L. 107–171, enacting this subchapter and sections 7631 and 7719 of this title, amending sections 3103, 7715, and 7772 of this title, and enacting provisions set out as a note under section 3103 of this title] to promote and strengthen higher education in the food and agricultural sciences at institutions of higher education (as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a))) that have demonstrable capacity to carry out teaching and extension programs in food and agricultural sciences and that are located in the insular areas of the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau by formulating and administering programs to enhance teaching programs in agriculture, natural resources, forestry, veterinary medicine, home economics, and disciplines closely allied to the food and agriculture production and delivery systems.”
+Pub. L. 107–171, title VII, § 7501(a), May 13, 2002, 116 Stat. 463, provided that: “It is the purpose of this subtitle [subtitle E (§ 7501–7506) of title VII of Pub. L. 107–171, enacting this subchapter and sections 7631 and 7719 of this title, amending sections 3103, 7715, and 7772 of this title, and enacting provisions set out as a note under section 3103 of this title] to promote and strengthen higher education in the food and agricultural sciences at institutions of higher education (as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a))) that have demonstrable capacity to carry out teaching and extension programs in food and agricultural sciences and that are located in the insular areas of the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau by formulating and administering programs to enhance teaching programs in agriculture, natural resources, forestry, veterinary medicine, home economics, and disciplines closely allied to the food and agriculture production and delivery systems.”
 
-### § 3362. Distance education grants for insular areas
+### § 3362. Distance education grants for insular areas
 
 **(a) In general**
 
@@ -7915,7 +7915,7 @@ If the Secretary establishes a matching requirement under paragraph (1), the Sec
 
 **(2)** $2,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 95–113, title XIV, § 1490, as added Pub. L. 107–171, title VII, § 7503, May 13, 2002, 116 Stat. 464; amended Pub. L. 110–234, title VII, § 7143(a), May 22, 2008, 122 Stat. 1232; Pub. L. 110–246, § 4(a), title VII, § 7143(a), June 18, 2008, 122 Stat. 1664, 1994; Pub. L. 113–79, title VII, § 7127(a), Feb. 7, 2014, 128 Stat. 877; Pub. L. 115–334, title VII, § 7136(a), Dec. 20, 2018, 132 Stat. 4802.)
+(Pub. L. 95–113, title XIV, § 1490, as added Pub. L. 107–171, title VII, § 7503, May 13, 2002, 116 Stat. 464; amended Pub. L. 110–234, title VII, § 7143(a), May 22, 2008, 122 Stat. 1232; Pub. L. 110–246, § 4(a), title VII, § 7143(a), June 18, 2008, 122 Stat. 1664, 1994; Pub. L. 113–79, title VII, § 7127(a), Feb. 7, 2014, 128 Stat. 877; Pub. L. 115–334, title VII, § 7136(a), Dec. 20, 2018, 132 Stat. 4802.)
 
 **Editorial Notes**
 
@@ -7927,11 +7927,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (f)(2). Pub. L. 115–334 substituted “2023” for “2018”.
 
-2014—Subsec. (a). Pub. L. 113–79, § 7127(a)(1), struck out “or noncompetitive” after “competitive”.
+2014—Subsec. (a). Pub. L. 113–79, § 7127(a)(1), struck out “or noncompetitive” after “competitive”.
 
-Subsec. (f). Pub. L. 113–79, § 7127(a)(2), substituted “section—” for “section such sums as may be necessary for each of fiscal years 2002 through 2012.” and added pars. (1) and (2).
+Subsec. (f). Pub. L. 113–79, § 7127(a)(2), substituted “section—” for “section such sums as may be necessary for each of fiscal years 2002 through 2012.” and added pars. (1) and (2).
 
-2008—Subsec. (f). Pub. L. 110–246, § 7143(a), substituted “2012” for “2007”.
+2008—Subsec. (f). Pub. L. 110–246, § 7143(a), substituted “2012” for “2007”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7939,7 +7939,7 @@ Subsec. (f). Pub. L. 113–79, § 7127(a)(2), substituted “section—” for
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 3363. Resident instruction grants for insular areas
+### § 3363. Resident instruction grants for insular areas
 
 **(a) In general** The Secretary of Agriculture shall make competitive grants to eligible institutions to—
 
@@ -7963,7 +7963,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(2)** $2,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 95–113, title XIV, § 1491, as added Pub. L. 107–171, title VII, § 7503, May 13, 2002, 116 Stat. 465; amended Pub. L. 110–234, title VII, § 7143(b), May 22, 2008, 122 Stat. 1233; Pub. L. 110–246, § 4(a), title VII, § 7143(b), June 18, 2008, 122 Stat. 1664, 1994; Pub. L. 113–79, title VII, § 7127(b), Feb. 7, 2014, 128 Stat. 877; Pub. L. 115–334, title VII, § 7136(b), Dec. 20, 2018, 132 Stat. 4802.)
+(Pub. L. 95–113, title XIV, § 1491, as added Pub. L. 107–171, title VII, § 7503, May 13, 2002, 116 Stat. 465; amended Pub. L. 110–234, title VII, § 7143(b), May 22, 2008, 122 Stat. 1233; Pub. L. 110–246, § 4(a), title VII, § 7143(b), June 18, 2008, 122 Stat. 1664, 1994; Pub. L. 113–79, title VII, § 7127(b), Feb. 7, 2014, 128 Stat. 877; Pub. L. 115–334, title VII, § 7136(b), Dec. 20, 2018, 132 Stat. 4802.)
 
 **Editorial Notes**
 
@@ -7977,7 +7977,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (c). Pub. L. 113–79 substituted “to carry out this section—” for “such sums as are necessary for each of the fiscal years 2002 through 2012 to carry out this section.” and added pars. (1) and (2).
 
-2008—Subsecs. (c), (e). Pub. L. 110–246, § 7143(b), redesignated subsec. (e) as (c) and substituted “2012” for “2007”.
+2008—Subsecs. (c), (e). Pub. L. 110–246, § 7143(b), redesignated subsec. (e) as (c) and substituted “2012” for “2007”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7987,12 +7987,12 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ## SUBCHAPTER XV—GENERAL PROVISIONS
 
-### § 3371. Repealed. Pub. L. 115–334, title VII, § 7614(a), Dec. 20, 2018, 132 Stat. 4833
+### § 3371. Repealed. Pub. L. 115–334, title VII, § 7614(a), Dec. 20, 2018, 132 Stat. 4833
 
-Section, Pub. L. 95–113, title XIV, § 1492, as added Pub. L. 113–79, title VII, § 7128(a), Feb. 7, 2014, 128 Stat. 877, related to matching funds requirement.
+Section, Pub. L. 95–113, title XIV, § 1492, as added Pub. L. 113–79, title VII, § 7128(a), Feb. 7, 2014, 128 Stat. 877, related to matching funds requirement.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Repeal of section by Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards described in Pub. L. 115–334, § 7614(b) (amending sections 3157, 3322, 3333, 5813, 5924, 5925, 5925b, 7626, 7632, and 8114 of this title) that are made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as an Effective Date of 2018 Amendment note under section 3151 of this title.
+Repeal of section by Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards described in Pub. L. 115–334, § 7614(b) (amending sections 3157, 3322, 3333, 5813, 5924, 5925, 5925b, 7626, 7632, and 8114 of this title) that are made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as an Effective Date of 2018 Amendment note under section 3151 of this title.

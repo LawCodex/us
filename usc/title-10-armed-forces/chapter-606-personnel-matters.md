@@ -31,9 +31,9 @@ Subchapter analysis added pursuant to operation of section 102 of this title.
 
 **National Security Positions Within the Department of Energy**
 
-Pub. L. 119–60, div. C, title XXXI, § 3127, Dec. 18, 2025, 139 Stat. 1470, provided that: “The Secretary of Energy shall treat any position in the Department of Energy which requires the performance of duties funded with amounts from subfunctional category 053, atomic energy defense activities, as a position necessary to fulfill the national security responsibilities of the Department of Energy.”
+Pub. L. 119–60, div. C, title XXXI, § 3127, Dec. 18, 2025, 139 Stat. 1470, provided that: “The Secretary of Energy shall treat any position in the Department of Energy which requires the performance of duties funded with amounts from subfunctional category 053, atomic energy defense activities, as a position necessary to fulfill the national security responsibilities of the Department of Energy.”
 
-### § 6241. Authority for appointment of certain scientific, engineering, and technical personnel
+### § 6241. Authority for appointment of certain scientific, engineering, and technical personnel
 
 **(a) Authority.—**
 
@@ -65,7 +65,7 @@ Pub. L. 119–60, div. C, title XXXI, § 3127, Dec. 18, 2025, 139 Stat. 1470, 
 
 **(2)** An employee may not be separated from employment with the Department of Energy or receive a reduction in pay by reason of the termination of authority under paragraph (1).
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, §§ 3111(a), (d)(1)(F), (2)(B), 3115, Dec. 18, 2025, 139 Stat. 1412, 1462, 1464.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, §§ 3111(a), (d)(1)(F), (2)(B), 3115, Dec. 18, 2025, 139 Stat. 1412, 1462, 1464.)
 
 **Editorial Notes**
 
@@ -77,15 +77,15 @@ Amendment by section 3115 of Pub. L. 119–60 directed to section 4601 of Pub. L
 
 A prior section 6241 was renumbered section 8291 of this title.
 
-Provisions similar to those in this section were contained in section 2701 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2701 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (c)(1). Pub. L. 119–60, §§ 3111(d)(1)(F), 3115, substituted “September 30, 2036” for “September 30, 2026”. See Codification note above.
+Subsec. (c)(1). Pub. L. 119–60, §§ 3111(d)(1)(F), 3115, substituted “September 30, 2036” for “September 30, 2026”. See Codification note above.
 
-### § 6242. Whistleblower protection program
+### § 6242. Whistleblower protection program
 
 **(a) Program Required.—** The Secretary of Energy shall establish a program to ensure that covered individuals may not be discharged, demoted, or otherwise discriminated against as a reprisal for making protected disclosures.
 
@@ -179,25 +179,25 @@ Subsec. (c)(1). Pub. L. 119–60, §§ 3111(d)(1)(F), 3115, substituted “Sep
 
 **(2)** A report under paragraph (1) may not identify or otherwise provide any information about an individual submitting a complaint under this section without the consent of the individual.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1413, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1413, 1462.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Whistleblower Protection Act of 1989, referred to in subsec. (*l*), is Pub. L. 101–12, Apr. 10, 1989, 103 Stat. 16, which enacted subchapters II (§ 1211 et seq.) and III (§ 1221 et seq.) of chapter 12 and section 3352 of Title 5, Government Organization and Employees, amended sections 1201 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of Title 5 and section 4139 of Title 22, Foreign Relations and Intercourse, repealed sections 1207 and 1208 of Title 5, and enacted provisions set out as notes under sections 1201, 1211, and 5509 of Title 5. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 1201 of Title 5 and Tables.
+The Whistleblower Protection Act of 1989, referred to in subsec. (*l*), is Pub. L. 101–12, Apr. 10, 1989, 103 Stat. 16, which enacted subchapters II (§ 1211 et seq.) and III (§ 1221 et seq.) of chapter 12 and section 3352 of Title 5, Government Organization and Employees, amended sections 1201 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of Title 5 and section 4139 of Title 22, Foreign Relations and Intercourse, repealed sections 1207 and 1208 of Title 5, and enacted provisions set out as notes under sections 1201, 1211, and 5509 of Title 5. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 1201 of Title 5 and Tables.
 
 **Prior Provisions**
 
 A prior section 6242 was renumbered section 8292 of this title.
 
-Provisions similar to those in this section were contained in section 2702 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2702 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6243. Department of Energy defense nuclear facilities workforce restructuring plan
+### § 6243. Department of Energy defense nuclear facilities workforce restructuring plan
 
 **(a) In General.—** Upon determination that a change in the workforce at a defense nuclear facility is necessary, the Secretary of Energy shall develop a plan for restructuring the workforce for the defense nuclear facility that takes into account—
 
@@ -243,7 +243,7 @@ Provisions similar to those in this section were contained in section 2702 of Ti
 
 **(1)** The Secretary shall submit to Congress a plan referred to in subsection (a) with respect to a defense nuclear facility within 90 days after the date on which a notice of changes described in subsection (c)(1)(B) is provided to employees of the facility, or 90 days after the date of the enactment of this Act,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 whichever is later.
 
@@ -267,7 +267,7 @@ whichever is later.
 
 **(C)** was operated for national security purposes.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1415, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1415, 1462.)
 
 **Editorial Notes**
 
@@ -275,9 +275,9 @@ whichever is later.
 
 Section 3152 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (c)(2), is section 3152 of Pub. L. 101–189, div. C, title XXXI, Nov. 29, 1989, 103 Stat. 1682, which is not classified to the Code.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(6)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(6)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552. Title II of the Act is classified generally to subchapter II (§ 3141 et seq.) of chapter 38 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
+The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552. Title II of the Act is classified generally to subchapter II (§ 3141 et seq.) of chapter 38 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
 
 The date of the enactment of this Act, referred to in subsec. (e)(1), originally meant the date of enactment of Pub. L. 102–484, which enacted the predecessor to this section and was approved Oct. 23, 1992. Such section was subsequently transferred to Pub. L. 107–314, which was approved Dec. 2, 2002, and later repealed and restated as this section by Pub. L. 119–60, which was approved Dec. 18, 2025.
 
@@ -287,13 +287,13 @@ Executive Order Number 12344, referred to in subsec. (f)(1), is set out as a not
 
 A prior section 6243 was renumbered section 8293 of this title.
 
-Provisions similar to those in this section were contained in section 2704 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2704 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6244. Authority to provide certificate of commendation to Department of Energy and contractor employees for exemplary service in stockpile stewardship and security
+### § 6244. Authority to provide certificate of commendation to Department of Energy and contractor employees for exemplary service in stockpile stewardship and security
 
 **(a) Authority to Present Certificate of Commendation.—** The Secretary of Energy may present a certificate of commendation to any current or former employee of the Department of Energy, and any current or former employee of a Department contractor, whose service to the Department in matters relating to stockpile stewardship and security assisted the Department in furthering the national security interests of the United States.
 
@@ -301,7 +301,7 @@ Provisions similar to those in this section were contained in section 2704 of Ti
 
 **(c) Department of Energy Defined.—** For purposes of this section, the term “Department of Energy” includes any predecessor agency of the Department of Energy.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1417.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1417.)
 
 **Editorial Notes**
 
@@ -309,7 +309,7 @@ Provisions similar to those in this section were contained in section 2704 of Ti
 
 A prior section 6244 was renumbered section 8294 of this title.
 
-Provisions similar to those in this section were contained in section 2705 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2705 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 Prior sections 6245 to 6250 were renumbered sections 8295 to 8300 of this title, respectively.
 
@@ -321,7 +321,7 @@ Prior sections 6245 to 6250 were renumbered sections 8295 to 8300 of this title,
 
 Subchapter analysis added pursuant to operation of section 102 of this title.
 
-### § 6251. Executive management training in Department of Energy
+### § 6251. Executive management training in Department of Energy
 
 **(a) Establishment of Training Program.—** The Secretary of Energy shall establish and implement a management training program for personnel of the Department of Energy involved in the management of atomic energy defense activities.
 
@@ -339,7 +339,7 @@ Subchapter analysis added pursuant to operation of section 102 of this title.
 
 **(6)** Procedures for reviewing and applying innovative technology to defense environmental cleanup.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1417.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1417.)
 
 **Editorial Notes**
 
@@ -347,9 +347,9 @@ Subchapter analysis added pursuant to operation of section 102 of this title.
 
 A prior section 6251 was renumbered section 8301 of this title.
 
-Provisions similar to those in this section were contained in section 2721 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2721 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6252. Stockpile stewardship recruitment and training program
+### § 6252. Stockpile stewardship recruitment and training program
 
 **(a) Conduct of Program.—**
 
@@ -361,7 +361,7 @@ Provisions similar to those in this section were contained in section 2721 of Ti
 
 **(c) Establishment of Retiree Corps.—** As part of the training and recruitment program, the Secretary, in coordination with the directors of the national security laboratories, shall establish for the laboratories a retiree corps of retired scientists who have expertise in research and development of nuclear weapons. The directors may employ the retired scientists on a part-time basis to provide appropriate assistance on nuclear weapons issues, to contribute relevant information to be archived, and to help to provide training to other scientists.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1418, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1418, 1462.)
 
 **Editorial Notes**
 
@@ -369,13 +369,13 @@ Provisions similar to those in this section were contained in section 2721 of Ti
 
 A prior section 6252 was renumbered section 8302 of this title.
 
-Provisions similar to those in this section were contained in section 2722 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2722 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6253. Fellowship program for development of skills critical to the nuclear security enterprise
+### § 6253. Fellowship program for development of skills critical to the nuclear security enterprise
 
 **(a) In General.—** The Secretary of Energy shall conduct a fellowship program for the development of skills critical to the ongoing mission of the nuclear security enterprise. Under the fellowship program, the Secretary shall provide educational assistance and research assistance to eligible individuals to facilitate the development by such individuals of skills critical to maintaining the ongoing mission of the nuclear security enterprise.
 
@@ -397,7 +397,7 @@ Provisions similar to those in this section were contained in section 2722 of Ti
 
 **(2)** An agreement referred to in paragraph (1) shall be in writing, shall be signed by the participant, and shall include the participant’s agreement to serve, after completion of the course of study for which the assistance was provided, as a full-time employee in a position in the nuclear security enterprise for a period of time to be established by the Secretary of Energy of not less than one year, if such a position is offered to the participant.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1418, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1418, 1462.)
 
 **Editorial Notes**
 
@@ -413,11 +413,11 @@ Another prior section 6257 was renumbered section 8308 of this title.
 
 A prior section 6258 was renumbered section 8308 of this title.
 
-Provisions similar to those in this section were contained in section 2723 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2723 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
 ## SUBCHAPTER III—WORKER SAFETY
 
@@ -427,7 +427,7 @@ Provisions similar to those in this section were contained in section 2723 of Ti
 
 Subchapter analysis added pursuant to operation of section 102 of this title.
 
-### § 6261. Worker protection at nuclear weapons facilities
+### § 6261. Worker protection at nuclear weapons facilities
 
 **(a) Training Grant Program.—**
 
@@ -463,19 +463,19 @@ Subchapter analysis added pursuant to operation of section 102 of this title.
 
 **(d) Definitions.—** For the purposes of this section, the term “hazardous substance” includes radioactive waste and mixed radioactive and hazardous waste.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1419, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1419, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2731 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2731 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6262. Safety oversight and enforcement at defense nuclear facilities
+### § 6262. Safety oversight and enforcement at defense nuclear facilities
 
 The Secretary of Energy shall take appropriate actions to ensure that—
 
@@ -499,15 +499,15 @@ The Secretary of Energy shall take appropriate actions to ensure that—
 
 **(4)** an adequate number of qualified personnel of the Department are assigned to oversee matters relating to nuclear safety at defense nuclear facilities and enforce nuclear safety standards at such facilities.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1420.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1420.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2732 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2732 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6263. Program to monitor department of energy workers exposed to hazardous and radioactive substances
+### § 6263. Program to monitor department of energy workers exposed to hazardous and radioactive substances
 
 **(a) In General.—** The Secretary of Energy shall establish and carry out a program for the identification and on-going medical evaluation of current and former Department of Energy employees who are subject to significant health risks as a result of the exposure of such employees to hazardous or radioactive substances during such employment.
 
@@ -557,19 +557,19 @@ Provisions similar to those in this section were contained in section 2732 of Ti
 
 **(2)** The term “Department of Energy employee” means any employee of the Department of Energy employed at a Department of Energy defense nuclear facility, including any employee of a contractor or subcontractor of the Department of Energy employed at such a facility.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1421, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1421, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2733 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2733 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6264. Programs for persons who may have been exposed to radiation released from Hanford Nuclear Reservation
+### § 6264. Programs for persons who may have been exposed to radiation released from Hanford Nuclear Reservation
 
 **(a) Funding.—** Of the funds authorized to be appropriated to the Department of Energy under title XXXI of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510), the Secretary of Energy shall make available $3,000,000 to the State of Washington, $1,000,000 to the State of Oregon, and $1,000,000 to the State of Idaho. Such funds shall be used to develop and implement programs for the benefit of persons who may have been exposed to radiation released from the Department of Energy Hanford Nuclear Reservation (Richland, Washington) between the years 1944 and 1972.
 
@@ -623,7 +623,7 @@ Provisions similar to those in this section were contained in section 2733 of Ti
 
 **(D)** Enforcement of the prohibition provided in paragraph (1) on the disclosure of information described in that paragraph.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1422, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1422, 1462.)
 
 **Editorial Notes**
 
@@ -633,13 +633,13 @@ Title XXXI of the National Defense Authorization Act for Fiscal Year 1991, refer
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2734 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2734 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6265. Use of probabilistic risk assessment to ensure nuclear safety of facilities of the Administration and the Office of Environmental Management
+### § 6265. Use of probabilistic risk assessment to ensure nuclear safety of facilities of the Administration and the Office of Environmental Management
 
 **(a) Nuclear Safety at NNSA and DOE Facilities.—** The Administrator and the Secretary of Energy shall ensure that the methods for assessing, certifying, and overseeing nuclear safety at the facilities specified in subsection (c) use national and international standards and nuclear industry best practices, including probabilistic or quantitative risk assessment if sufficient data exist.
 
@@ -651,15 +651,15 @@ Provisions similar to those in this section were contained in section 2734 of Ti
 
 **(2)** to the Secretary of Energy with respect to defense nuclear facilities of the Office of Environmental Management of the Department of Energy.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1424.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1424.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2735 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2735 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6266. Notification of nuclear criticality and non-nuclear incidents
+### § 6266. Notification of nuclear criticality and non-nuclear incidents
 
 **(a) Notification.—** The Secretary of Energy or the Administrator, as the case may be, shall submit to the appropriate congressional committees a notification of a nuclear criticality incident resulting from a covered program that results in an injury or fatality or results in the shutdown, or partial shutdown, of a covered facility by not later than 15 days after the date of such incident.
 
@@ -705,14 +705,14 @@ Provisions similar to those in this section were contained in section 2735 of Ti
 
 **(B)** defense environmental cleanup programs of the Office of Environmental Management of the Department of Energy.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1424, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1424, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2736 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2736 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.

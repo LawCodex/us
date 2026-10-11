@@ -21,55 +21,55 @@ retrieved: 2026-10-11
 
 A prior chapter 311, consisting of sections 4201–4210, act June 25, 1948, ch. 645, 62 Stat. 854, 855, as amended, was repealed by section 2 of Pub. L. 94–233 as part of the general revision of this chapter by Pub. L. 94–233.
 
-## [§§ 4201 to 4218. Repealed. Pub. L. 98–473, title II, § 218(a)(5), Oct. 12, 1984, 98 Stat. 2027]
+## [§§ 4201 to 4218. Repealed. Pub. L. 98–473, title II, § 218(a)(5), Oct. 12, 1984, 98 Stat. 2027]
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal; Chapter To Remain in Effect After November 1, 1987**
 
-Pub. L. 98–473, title II, § 235(a)(1), Oct. 12, 1984, 98 Stat. 2031, set out in an Effective Date; Savings Provision note under section 3551 of this title, provided that the repeal of this chapter is effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal. Pub. L. 98–473, title II, § 235(b)(1)(A), Oct. 12, 1984, 98 Stat. 2032, provided that the provisions of this chapter in effect before Nov. 1, 1987, would remain in effect for 5 years after Nov. 1, 1987, as to an individual who committed an offense or an act of juvenile delinquency before Nov. 1, 1987, and as to a term of imprisonment during the period described in section 235(a)(1)(B) of Pub. L. 98–473.
+Pub. L. 98–473, title II, § 235(a)(1), Oct. 12, 1984, 98 Stat. 2031, set out in an Effective Date; Savings Provision note under section 3551 of this title, provided that the repeal of this chapter is effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal. Pub. L. 98–473, title II, § 235(b)(1)(A), Oct. 12, 1984, 98 Stat. 2032, provided that the provisions of this chapter in effect before Nov. 1, 1987, would remain in effect for 5 years after Nov. 1, 1987, as to an individual who committed an offense or an act of juvenile delinquency before Nov. 1, 1987, and as to a term of imprisonment during the period described in section 235(a)(1)(B) of Pub. L. 98–473.
 
 Provisions further extending the period that this chapter would remain in effect after Nov. 1, 1987, were contained in the following:
 
-Pub. L. 119–75, div. I, § 5011, Feb. 3, 2026, 140 Stat. 630, suspended application of any expiration date during the period from Oct. 1, 2025, to Jan. 30, 2031.
+Pub. L. 119–75, div. I, § 5011, Feb. 3, 2026, 140 Stat. 630, suspended application of any expiration date during the period from Oct. 1, 2025, to Jan. 30, 2031.
 
-Pub. L. 119–37, div. A, § 123, Nov. 12, 2025, 139 Stat. 501, suspended application of any expiration date during the period from Oct. 1, 2025, to Jan. 30, 2026.
+Pub. L. 119–37, div. A, § 123, Nov. 12, 2025, 139 Stat. 501, suspended application of any expiration date during the period from Oct. 1, 2025, to Jan. 30, 2026.
 
-Pub. L. 119–4, div. A, title I, § 1115, Mar. 15, 2025, 139 Stat. 15, temporarily extended the period from 36 years and 335 days to 37 years and 335 days.
+Pub. L. 119–4, div. A, title I, § 1115, Mar. 15, 2025, 139 Stat. 15, temporarily extended the period from 36 years and 335 days to 37 years and 335 days.
 
-Pub. L. 118–83, div. A, § 121, Sept. 26, 2024, 138 Stat. 1528, temporarily extended the period from 36 years and 335 days to 37 years and 335 days.
+Pub. L. 118–83, div. A, § 121, Sept. 26, 2024, 138 Stat. 1528, temporarily extended the period from 36 years and 335 days to 37 years and 335 days.
 
-Pub. L. 118–42, div. G, title III, § 302(b), Mar. 9, 2024, 138 Stat. 451, extended the period from 36 years and 129 days to 36 years and 335 days.
+Pub. L. 118–42, div. G, title III, § 302(b), Mar. 9, 2024, 138 Stat. 451, extended the period from 36 years and 129 days to 36 years and 335 days.
 
-Pub. L. 118–15, div. A, § 123, Sept. 30, 2023, 137 Stat. 78, as amended by Pub. L. 118–22, div. A, § 101(5), Nov. 17, 2023, 137 Stat. 113; Pub. L. 118–35, div. A, § 101(3), Jan. 19, 2024, 138 Stat. 3, extended the period from 36 years to 36 years and 129 days.
+Pub. L. 118–15, div. A, § 123, Sept. 30, 2023, 137 Stat. 78, as amended by Pub. L. 118–22, div. A, § 101(5), Nov. 17, 2023, 137 Stat. 113; Pub. L. 118–35, div. A, § 101(3), Jan. 19, 2024, 138 Stat. 3, extended the period from 36 years to 36 years and 129 days.
 
-Pub. L. 117–328, div. O, title VIII, § 801(b), Dec. 29, 2022, 136 Stat. 5232, extended the period from 35 years and 46 days to 36 years.
+Pub. L. 117–328, div. O, title VIII, § 801(b), Dec. 29, 2022, 136 Stat. 5232, extended the period from 35 years and 46 days to 36 years.
 
-Pub. L. 117–180, div. C, title I, § 103(b), Sept. 30, 2022, 136 Stat. 2133, extended the period from 35 years to 35 years and 46 days.
+Pub. L. 117–180, div. C, title I, § 103(b), Sept. 30, 2022, 136 Stat. 2133, extended the period from 35 years to 35 years and 46 days.
 
-Pub. L. 116–159, div. D, title II, § 4202, Oct. 1, 2020, 134 Stat. 741, extended the period from 33 years to 35 years.
+Pub. L. 116–159, div. D, title II, § 4202, Oct. 1, 2020, 134 Stat. 741, extended the period from 33 years to 35 years.
 
-Pub. L. 115–274, § 2, Oct. 31, 2018, 132 Stat. 4160, extended the period from 31 years to 33 years.
+Pub. L. 115–274, § 2, Oct. 31, 2018, 132 Stat. 4160, extended the period from 31 years to 33 years.
 
-Pub. L. 113–47, § 2, Oct. 31, 2013, 127 Stat. 572, extended the period from 26 years to 31 years.
+Pub. L. 113–47, § 2, Oct. 31, 2013, 127 Stat. 572, extended the period from 26 years to 31 years.
 
-Pub. L. 112–44, § 2, Oct. 21, 2011, 125 Stat. 532, extended the period from 24 years to 26 years.
+Pub. L. 112–44, § 2, Oct. 21, 2011, 125 Stat. 532, extended the period from 24 years to 26 years.
 
-Pub. L. 110–312, § 2, Aug. 12, 2008, 122 Stat. 3013, extended the period from 21 years to 24 years.
+Pub. L. 110–312, § 2, Aug. 12, 2008, 122 Stat. 3013, extended the period from 21 years to 24 years.
 
-Pub. L. 109–76, § 2, Sept. 29, 2005, 119 Stat. 2035, extended the period from 18 years to 21 years.
+Pub. L. 109–76, § 2, Sept. 29, 2005, 119 Stat. 2035, extended the period from 18 years to 21 years.
 
-Pub. L. 107–273, div. C, title I, § 11017(a), Nov. 2, 2002, 116 Stat. 1824, extended the period from 15 years to 18 years.
+Pub. L. 107–273, div. C, title I, § 11017(a), Nov. 2, 2002, 116 Stat. 1824, extended the period from 15 years to 18 years.
 
-Pub. L. 104–232, § 2(a), Oct. 2, 1996, 110 Stat. 3055, extended the period from 10 years to 15 years.
+Pub. L. 104–232, § 2(a), Oct. 2, 1996, 110 Stat. 3055, extended the period from 10 years to 15 years.
 
-Pub. L. 101–650, title III, § 316, Dec. 1, 1990, 104 Stat. 5115, extended the period from 5 years to 10 years.
+Pub. L. 101–650, title III, § 316, Dec. 1, 1990, 104 Stat. 5115, extended the period from 5 years to 10 years.
 
 **Text of Chapter in Effect Prior to Repeal**
 
 The provisions of this chapter as in effect prior to repeal, and as amended subsequent to repeal, read as follows:
 
-§ 4201. Definitions
+§ 4201. Definitions
 
 As used in this chapter—
 
@@ -85,17 +85,17 @@ As used in this chapter—
 
 (6) “Rules and regulations” means rules and regulations promulgated by the Commission pursuant to section 4203 and section 553 of title 5, United States Code.
 
-(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 219.)
+(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 219.)
 
-§ 4202. Parole Commission created
+§ 4202. Parole Commission created
 
 There is hereby established, as an independent agency in the Department of Justice, a United States Parole Commission which shall be comprised of nine members appointed by the President, by and with the advice and consent of the Senate. The President shall designate from among the Commissioners one to serve as Chairman. The term of office of a Commissioner shall be six years, except that the term of a person appointed as a Commissioner to fill a vacancy shall expire six years from the date upon which such person was appointed and qualified. Upon the expiration of a term of office of a Commissioner, the Commissioner shall continue to act until a successor has been appointed and qualified, except that no Commissioner may serve in excess of twelve years. Commissioners shall be compensated at the highest rate now or hereafter prescribed for grade 18 of the General Schedule pay rates (5 U.S.C. 5332).
 
-(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 219.)
+(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 219.)
 
 **United States Parole Commission Extension**
 
-Pub. L. 107–273, div. C, title I, § 11017, Nov. 2, 2002, 116 Stat. 1824, provided that:
+Pub. L. 107–273, div. C, title I, § 11017, Nov. 2, 2002, 116 Stat. 1824, provided that:
 
 > **“(a) Extension of the Parole Commission.—** For purposes of section 235(b) of the Sentencing Reform Act of 1984 [Pub. L. 98–473, set out as a note under section 3551 of this title] (98 Stat. 2032) as such section relates to chapter 311 of title 18, United States Code, and the Parole Commission, each reference in such section to ‘fifteen years’ or ‘fifteen-year period’ shall be deemed to be a reference to ‘eighteen years’ or ‘eighteen-year period’, respectively.
 
@@ -105,7 +105,7 @@ Pub. L. 107–273, div. C, title I, § 11017, Nov. 2, 2002, 116 Stat. 1824, pr
 
 **Parole Commission Phaseout**
 
-Pub. L. 104–232, §§ 1–3, Oct. 2, 1996, 110 Stat. 3055, 3056, as amended by Pub. L. 105–33, title XI, § 11231(d), Aug. 5, 1997, 111 Stat. 745, provided that:
+Pub. L. 104–232, §§ 1–3, Oct. 2, 1996, 110 Stat. 3055, 3056, as amended by Pub. L. 105–33, title XI, § 11231(d), Aug. 5, 1997, 111 Stat. 745, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -131,13 +131,13 @@ Pub. L. 104–232, §§ 1–3, Oct. 2, 1996, 110 Stat. 3055, 3056, as amended 
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Extension of Term of Commissioner**
 
-Pub. L. 98–473, title II, § 235(b)(2), Oct. 12, 1984, 98 Stat. 2032, which provided that notwithstanding the provisions of section 4202 of this title as in effect on the day before Nov. 1, 1987 [set out above], the term of office of a Commissioner who is in office on Nov. 1, 1987, is extended to the end of the five-year period after Nov. 1, 1987, was repealed by Pub. L. 104–232, § 4, Oct. 2, 1996, 110 Stat. 3056. Pub. L. 101–650, title III, § 316, Dec. 1, 1990, 104 Stat. 5115, further extended the term of office of a Commissioner to a ten-year period after Nov. 1, 1987.
+Pub. L. 98–473, title II, § 235(b)(2), Oct. 12, 1984, 98 Stat. 2032, which provided that notwithstanding the provisions of section 4202 of this title as in effect on the day before Nov. 1, 1987 [set out above], the term of office of a Commissioner who is in office on Nov. 1, 1987, is extended to the end of the five-year period after Nov. 1, 1987, was repealed by Pub. L. 104–232, § 4, Oct. 2, 1996, 110 Stat. 3056. Pub. L. 101–650, title III, § 316, Dec. 1, 1990, 104 Stat. 5115, further extended the term of office of a Commissioner to a ten-year period after Nov. 1, 1987.
 
-§ 4203. Powers and duties of the Commission
+§ 4203. Powers and duties of the Commission
 
 (a) The Commission shall meet at least quarterly, and by majority vote shall—
 
@@ -185,9 +185,9 @@ Pub. L. 98–473, title II, § 235(b)(2), Oct. 12, 1984, 98 Stat. 2032, which 
 
 (2) Any law enforcement agency which receives information under this subsection shall not disseminate such information outside of such agency.
 
-(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 220; amended Pub. L. 99–646, § 57(b), (c), Nov. 10, 1986, 100 Stat. 3611, 3612.)
+(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 220; amended Pub. L. 99–646, § 57(b), (c), Nov. 10, 1986, 100 Stat. 3611, 3612.)
 
-§ 4204. Powers and duties of the Chairman
+§ 4204. Powers and duties of the Chairman
 
 (a) The Chairman shall—
 
@@ -229,7 +229,7 @@ Pub. L. 98–473, title II, § 235(b)(2), Oct. 12, 1984, 98 Stat. 2032, which 
 
 (c) In carrying out his functions under this section, the Chairman shall be governed by the national parole policies promulgated by the Commission.
 
-(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 221; amended Pub. L. 97–258, § 3(e)(3), (4), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 99–646, § 58(a), Nov. 10, 1986, 100 Stat. 3612.)
+(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 221; amended Pub. L. 97–258, § 3(e)(3), (4), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 99–646, § 58(a), Nov. 10, 1986, 100 Stat. 3612.)
 
 **Ex. Ord. No. 11919. Delegation of Presidential Authority To Concur in Designations of Commissioners**
 
@@ -239,7 +239,7 @@ By virtue of the authority vested in me by section 301 of title 3, United States
 
 Gerald R. Ford.
 
-§ 4205. Time of eligibility for release on parole
+§ 4205. Time of eligibility for release on parole
 
 (a) Whenever confined and serving a definite term or terms of more than one year, a prisoner shall be eligible for release on parole after serving one-third of such term or terms or after serving ten years of a life sentence or of a sentence of over thirty years, except to the extent otherwise provided by law.
 
@@ -257,9 +257,9 @@ Gerald R. Ford.
 
 (h) Nothing in this chapter shall be construed to provide that any prisoner shall be eligible for release on parole if such prisoner is ineligible for such release under any other provision of law.
 
-(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 222.)
+(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 222.)
 
-§ 4206. Parole determination criteria
+§ 4206. Parole determination criteria
 
 (a) If an eligible prisoner has substantially observed the rules of the institution or institutions to which he has been confined, and if the Commission, upon consideration of the nature and circumstances of the offense and the history and characteristics of the prisoner, determines:
 
@@ -275,9 +275,9 @@ subject to the provisions of subsections (b) and (c) of this section, and pursua
 
 (d) Any prisoner, serving a sentence of five years or longer, who is not earlier released under this section or any other applicable provision of law, shall be released on parole after having served two-thirds of each consecutive term or terms, or after serving thirty years of each consecutive term or terms of more than forty-five years including any life term, whichever is earlier: *Provided, however*, That the Commission shall not release such prisoner if it determines that he has seriously or frequently violated institution rules and regulations or that there is a reasonable probability that he will commit any Federal, State, or local crime.
 
-(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 223.)
+(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 223.)
 
-§ 4207. Information considered
+§ 4207. Information considered
 
 In making a determination under this chapter (relating to release on parole) the Commission shall consider, if available and relevant:
 
@@ -295,9 +295,9 @@ In making a determination under this chapter (relating to release on parole) the
 
 There shall also be taken into consideration such additional relevant information concerning the prisoner (including information submitted by the prisoner) as may be reasonably available.
 
-(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 224; amended Pub. L. 98–473, title II, § 1408(a), Oct. 12, 1984, 98 Stat. 2177.)
+(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 224; amended Pub. L. 98–473, title II, § 1408(a), Oct. 12, 1984, 98 Stat. 2177.)
 
-§ 4208. Parole determination proceeding; time
+§ 4208. Parole determination proceeding; time
 
 (a) In making a determination under this chapter (relating to parole) the Commission shall conduct a parole determination proceeding unless it determines on the basis of the prisoner’s record that the prisoner will be released on parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsections (a) and (b)(1) of section 4205 shall be held not later than thirty days before the date of such eligibility for parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsection (b)(2) of section 4205 or released on parole and whose parole has been revoked shall be held not later than one hundred and twenty days following such prisoner’s imprisonment or reimprisonment in a Federal institution, as the case may be. An eligible prisoner may knowingly and intelligently waive any proceeding.
 
@@ -329,9 +329,9 @@ If any document is deemed by either the Commission, the Bureau of Prisons, or an
 
 (2) twenty-four months in the case of a prisoner with a term or terms of seven years or longer.
 
-(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 224; amended Pub. L. 99–646, § 58(b), Nov. 10, 1986, 100 Stat. 3612.)
+(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 224; amended Pub. L. 99–646, § 58(b), Nov. 10, 1986, 100 Stat. 3612.)
 
-§ 4209. Conditions of parole
+§ 4209. Conditions of parole
 
 (a) In every case, the Commission shall impose as conditions of parole that the parolee not commit another Federal, State, or local crime, that the parolee not possess illegal controlled substances.[sic] and, if a fine was imposed, that the parolee make a diligent effort to pay the fine in accordance with the judgment. In every case, the Commission shall impose as a condition of parole for a person required to register under the Sex Offender Registration and Notification Act that the person comply with the requirements of that Act. In every case, the Commission shall impose as a condition of parole that the parolee cooperate in the collection of a DNA sample from the parolee, if the collection of such a sample is authorized pursuant to section 3 or section 4 of the DNA Analysis Backlog Elimination Act of 2000 or section 1565 of title 10. In every case, the Commission shall also impose as a condition of parole that the parolee pass a drug test prior to release and refrain from any unlawful use of a controlled substance and submit to at least 2 periodic drug tests (as determined by the Commission) for use of a controlled substance. The condition stated in the preceding sentence may be ameliorated or suspended by the Commission for any individual parolee if it determines that there is good cause for doing so. The results of a drug test administered in accordance with the provisions of the preceding sentence shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The Commission shall consider whether the availability of appropriate substance abuse treatment programs, or an individual’s current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 4214(f) when considering any action against a defendant who fails a drug test. The Commission may impose or modify other conditions of parole to the extent that such conditions are reasonably related to—
 
@@ -357,17 +357,17 @@ A parolee residing in a residential community treatment center pursuant to parag
 
 (3) The provisions of this subsection shall not apply to modifications of parole conditions pursuant to a revocation proceeding under section 4214.
 
-(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 225; amended Pub. L. 98–473, title II, §§ 235(a)(1), 238(e), (i), Oct. 12, 1984, 98 Stat. 2031, 2039; Pub. L. 98–596, §§ 7, 12(a)(5), (9), (b), Oct. 30, 1984, 98 Stat. 3138, 3139, 3140; Pub. L. 99–646, § 58(c), Nov. 10, 1986, 100 Stat. 3612; Pub. L. 100–690, title VII, §§ 7303(c)(1), (2), 7305(c), Nov. 18, 1988, 102 Stat. 4464, 4466; Pub. L. 103–322, title II, § 20414(d), Sept. 13, 1994, 108 Stat. 1832; Pub. L. 105–119, title I, § 115(a)(8)(B)(v), Nov. 26, 1997, 111 Stat. 2466; Pub. L. 106–546, § 7(c), Dec. 19, 2000, 114 Stat. 2734; Pub. L. 109–248, title I, § 141(j), July 27, 2006, 120 Stat. 604.)
+(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 225; amended Pub. L. 98–473, title II, §§ 235(a)(1), 238(e), (i), Oct. 12, 1984, 98 Stat. 2031, 2039; Pub. L. 98–596, §§ 7, 12(a)(5), (9), (b), Oct. 30, 1984, 98 Stat. 3138, 3139, 3140; Pub. L. 99–646, § 58(c), Nov. 10, 1986, 100 Stat. 3612; Pub. L. 100–690, title VII, §§ 7303(c)(1), (2), 7305(c), Nov. 18, 1988, 102 Stat. 4464, 4466; Pub. L. 103–322, title II, § 20414(d), Sept. 13, 1994, 108 Stat. 1832; Pub. L. 105–119, title I, § 115(a)(8)(B)(v), Nov. 26, 1997, 111 Stat. 2466; Pub. L. 106–546, § 7(c), Dec. 19, 2000, 114 Stat. 2734; Pub. L. 109–248, title I, § 141(j), July 27, 2006, 120 Stat. 604.)
 
 **References in Text**
 
-The Sex Offender Registration and Notification Act, referred to in subsec. (a), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of Title 34 and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsec. (a), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of Title 34 and Tables.
 
 Sections 3 and 4 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (a), are sections 3 and 4 of Pub. L. 106–546, which are classified to sections 40702 and 40703, respectively, of Title 34, Crime Control and Law Enforcement.
 
 **Codification**
 
-Pub. L. 98–473, §§ 235(a)(1), 238(e), (i), and Pub. L. 98–596, § 12(a)(5), (9), (b), amended section as follows: Section 238(e) of Pub. L. 98–473 amended provisions of subsec. (a) preceding par. (1) effective pursuant to section 235(a)(1) of Pub. L. 98–473 the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984. Section 12(a)(5) of Pub. L. 98–596 amended provisions of subsec. (a) preceding par. (1) to read as they had before amendment by Pub. L. 98–473, applicable pursuant to section 12(b) of Pub. L. 98–596 on and after the date of enactment of Pub. L. 98–473 (Oct. 12, 1984). Section 238(i) of Pub. L. 98–473 which repealed section 238 of Pub. L. 98–473 on the same date established by section 235(a)(1) of Pub. L. 98–473 was repealed by section 12(a)(9) of Pub. L. 98–596. The cumulative effect of the amendments resulted in no change in this section.
+Pub. L. 98–473, §§ 235(a)(1), 238(e), (i), and Pub. L. 98–596, § 12(a)(5), (9), (b), amended section as follows: Section 238(e) of Pub. L. 98–473 amended provisions of subsec. (a) preceding par. (1) effective pursuant to section 235(a)(1) of Pub. L. 98–473 the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984. Section 12(a)(5) of Pub. L. 98–596 amended provisions of subsec. (a) preceding par. (1) to read as they had before amendment by Pub. L. 98–473, applicable pursuant to section 12(b) of Pub. L. 98–596 on and after the date of enactment of Pub. L. 98–473 (Oct. 12, 1984). Section 238(i) of Pub. L. 98–473 which repealed section 238 of Pub. L. 98–473 on the same date established by section 235(a)(1) of Pub. L. 98–473 was repealed by section 12(a)(9) of Pub. L. 98–596. The cumulative effect of the amendments resulted in no change in this section.
 
 **Effective Date of 1997 Amendment**
 
@@ -377,7 +377,7 @@ Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section
 
 Amendment by section 7303(c)(1), (2) of Pub. L. 100–690 applicable with respect to persons whose probation, supervised release, or parole begins after Dec. 31, 1988, see section 7303(d) of Pub. L. 100–690, set out as a note under section 3563 of this title.
 
-§ 4210. Jurisdiction of Commission
+§ 4210. Jurisdiction of Commission
 
 (a) A parolee shall remain in the legal custody and under the control of the Attorney General, until the expiration of the maximum term or terms for which such parolee was sentenced.
 
@@ -393,9 +393,9 @@ Amendment by section 7303(c)(1), (2) of Pub. L. 100–690 applicable with respec
 
 (e) Upon the termination of the jurisdiction of the Commission over any parolee, the Commission shall issue a certificate of discharge to such parolee and to such other agencies as it may determine.
 
-(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 226; amended Pub. L. 99–646, § 58(d), (e), Nov. 10, 1986, 100 Stat. 3612.)
+(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 226; amended Pub. L. 99–646, § 58(d), (e), Nov. 10, 1986, 100 Stat. 3612.)
 
-§ 4211. Early termination of parole
+§ 4211. Early termination of parole
 
 (a) Upon its own motion or upon request of the parolee, the Commission may terminate supervision over a parolee prior to the termination of jurisdiction under section 4210.
 
@@ -407,17 +407,17 @@ Amendment by section 7303(c)(1), (2) of Pub. L. 100–690 applicable with respec
 
 (3) In calculating the five-year period referred to in subparagraph (1), there shall not be included any period of release on parole prior to the most recent such release, nor any period served in confinement on any other sentence.
 
-(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 227.)
+(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 227.)
 
-§ 4212. Aliens
+§ 4212. Aliens
 
 When an alien prisoner subject to deportation becomes eligible for parole, the Commission may authorize the release of such prisoner on condition that such person be deported and remain outside the United States.
 
 Such prisoner when his parole becomes effective, shall be delivered to the duly authorized immigration official for deportation.
 
-(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 227.)
+(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 227.)
 
-§ 4213. Summons to appear or warrant for retaking of parolee
+§ 4213. Summons to appear or warrant for retaking of parolee
 
 (a) If any parolee is alleged to have violated his parole, the Commission may—
 
@@ -437,9 +437,9 @@ Such prisoner when his parole becomes effective, shall be delivered to the duly 
 
 (d) Any officer of any Federal penal or correctional institution, or any Federal officer authorized to serve criminal process within the United States, to whom a warrant issued under this section is delivered, shall execute such warrant by taking such parolee and returning him to the custody of the regional commissioner, or to the custody of the Attorney General, if the Commission shall so direct.
 
-(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 227.)
+(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 227.)
 
-§ 4214. Revocation of parole
+§ 4214. Revocation of parole
 
 (a)(1) Except as provided in subsections (b) and (c), any alleged parole violator summoned or retaken under section 4213 shall be accorded the opportunity to have—
 
@@ -497,17 +497,17 @@ The Commission may take any such action provided it has taken into consideration
 
 (f) Notwithstanding any other provision of this section, a parolee who is found by the Commission to be in possession of a controlled substance shall have his parole revoked.
 
-(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 228; amended Pub. L. 98–473, title II, §§ 235(a)(1), 238(f), (i), Oct. 12, 1984, 98 Stat. 2031, 2039; Pub. L. 98–596, § 12(a)(6), (9), (b), Oct. 30, 1984, 98 Stat. 3139, 3140; Pub. L. 99–646, § 58(f), Nov. 10, 1986, 100 Stat. 3612; Pub. L. 100–690, title VII, § 7303(c)(3), Nov. 18, 1988, 102 Stat. 4464.)
+(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 228; amended Pub. L. 98–473, title II, §§ 235(a)(1), 238(f), (i), Oct. 12, 1984, 98 Stat. 2031, 2039; Pub. L. 98–596, § 12(a)(6), (9), (b), Oct. 30, 1984, 98 Stat. 3139, 3140; Pub. L. 99–646, § 58(f), Nov. 10, 1986, 100 Stat. 3612; Pub. L. 100–690, title VII, § 7303(c)(3), Nov. 18, 1988, 102 Stat. 4464.)
 
 **Codification**
 
-Pub. L. 98–473, §§ 235(a)(1), 238(f), (i), and Pub. L. 98–596, § 12(a)(6), (9), (b), amended section as follows: Section 238(f) of Pub. L. 98–473 amended par. (1) effective pursuant to section 235(a)(1) of Pub. L. 98–473 the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984. Section 12(a)(6) of Pub. L. 98–596 amended par. (1) to read as it had before amendment by Pub. L. 98–473, applicable pursuant to section 12(b) of Pub. L. 98–596 on and after the date of enactment of Pub. L. 98–473 (Oct. 12, 1984). Section 238(i) of Pub. L. 98–473 which repealed section 238 of Pub. L. 98–473 on the same date established by section 235(a)(1) of Pub. L. 98–473 was repealed by section 12(a)(9) of Pub. L. 98–596. The cumulative effect of the amendments resulted in no change in this section.
+Pub. L. 98–473, §§ 235(a)(1), 238(f), (i), and Pub. L. 98–596, § 12(a)(6), (9), (b), amended section as follows: Section 238(f) of Pub. L. 98–473 amended par. (1) effective pursuant to section 235(a)(1) of Pub. L. 98–473 the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984. Section 12(a)(6) of Pub. L. 98–596 amended par. (1) to read as it had before amendment by Pub. L. 98–473, applicable pursuant to section 12(b) of Pub. L. 98–596 on and after the date of enactment of Pub. L. 98–473 (Oct. 12, 1984). Section 238(i) of Pub. L. 98–473 which repealed section 238 of Pub. L. 98–473 on the same date established by section 235(a)(1) of Pub. L. 98–473 was repealed by section 12(a)(9) of Pub. L. 98–596. The cumulative effect of the amendments resulted in no change in this section.
 
 **Effective Date of 1988 Amendment**
 
 Amendment by section 7303(c)(3) of Pub. L. 100–690 applicable with respect to persons whose probation, supervised release, or parole begins after Dec. 31, 1988, see section 7303(d) of Pub. L. 100–690, set out as a note under section 3563 of this title.
 
-§ 4215. Appeal
+§ 4215. Appeal
 
 (a) Whenever parole release is denied under section 4206, parole conditions are imposed or modified under section 4209, parole discharge is denied under section 4211(c), or parole is modified or revoked under section 4214, the individual to whom any such decision applies may appeal such decision by submitting a written application to the National Appeal [Appeals] Board not later than thirty days following the date on which the decision is rendered.
 
@@ -515,13 +515,13 @@ Amendment by section 7303(c)(3) of Pub. L. 100–690 applicable with respect to 
 
 (c) The National Appeals Board may review any decision of a regional commissioner upon the written request of the Attorney General filed not later than thirty days following the decision and, by majority vote, shall reaffirm, modify, or reverse the decision within sixty days of the receipt of the Attorney General’s request. The Board shall inform the Attorney General and the individual to whom the decision applies in writing of its decision and the reasons therefor.
 
-(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 230; amended Pub. L. 98–473, title II, § 1408(c), Oct. 12, 1984, 98 Stat. 2178.)
+(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 230; amended Pub. L. 98–473, title II, § 1408(c), Oct. 12, 1984, 98 Stat. 2178.)
 
-[§ 4216. Repealed. Pub. L. 99–646, § 3(a), Nov. 10, 1986, 100 Stat. 3592]
+[§ 4216. Repealed. Pub. L. 99–646, § 3(a), Nov. 10, 1986, 100 Stat. 3592]
 
-[§ 4217. Repealed. Pub. L. 99–646, § 58(g)(1), Nov. 10, 1986, 100 Stat. 3612, as amended by Pub. L. 100–690, title VII, § 7014, Nov. 18, 1988, 102 Stat. 4395]
+[§ 4217. Repealed. Pub. L. 99–646, § 58(g)(1), Nov. 10, 1986, 100 Stat. 3612, as amended by Pub. L. 100–690, title VII, § 7014, Nov. 18, 1988, 102 Stat. 4395]
 
-§ 4218. Applicability of Administrative Procedure Act
+§ 4218. Applicability of Administrative Procedure Act
 
 (a) For purposes of the provisions of chapter 5 of title 5, United States Code, other than sections 554, 555, 556, and 557, the Commission is an “agency” as defined in such chapter.
 
@@ -531,4 +531,4 @@ Amendment by section 7303(c)(3) of Pub. L. 100–690 applicable with respect to 
 
 (d) Actions of the Commission pursuant to paragraphs (1), (2), and (3) of section 4203(b) shall be considered actions committed to agency discretion for purposes of section 701(a)(2) of title 5, United States Code.
 
-(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 231.)
+(Added Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 231.)

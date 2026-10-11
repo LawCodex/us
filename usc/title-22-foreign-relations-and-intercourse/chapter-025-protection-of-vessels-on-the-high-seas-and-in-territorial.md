@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Statement of Policy and Sense of Congress on, and Strategy To Fulfill Obligations Under, Mutual Defense Treaty With the Republic of the Philippines**
 
-Pub. L. 116–92, div. A, title XII, § 1258, Dec. 20, 2019, 133 Stat. 1674, provided that:
+Pub. L. 116–92, div. A, title XII, § 1258, Dec. 20, 2019, 133 Stat. 1674, provided that:
 
 > **“(a) Statement of Policy.—** It is the policy of the United States that—
 
@@ -99,7 +99,7 @@ Pub. L. 116–92, div. A, title XII, § 1258, Dec. 20, 2019, 133 Stat. 1674, p
 
 **Freedom of Navigation and Overflight; Promotion of International Law**
 
-Pub. L. 115–409, title II, § 213, Dec. 31, 2018, 132 Stat. 5401, provided that:
+Pub. L. 115–409, title II, § 213, Dec. 31, 2018, 132 Stat. 5401, provided that:
 
 > **“(a) Freedom of Navigation.—** It is the policy of the United States—
 
@@ -111,21 +111,21 @@ Pub. L. 115–409, title II, § 213, Dec. 31, 2018, 132 Stat. 5401, provided t
 
 [Nothing in section 213 of Pub. L. 115–409, set out above, to be construed as authorizing the use of military force, see section 412 of Pub. L. 115–409, set out as a note under section 2656 of this title.]
 
-## § 1971. “Vessel of the United States” defined
+## § 1971. “Vessel of the United States” defined
 
-For the purposes of this chapter the term “vessel of the United States” shall mean any private vessel documented or certificated under the laws of the United States. Notwithstanding any other law, the documentation or certification of any such vessel shall not be considered to be affected, for the purposes of this chapter, in any manner or to any extent if at any time during any voyage for the purpose of fishing beyond the fishery conservation zone (as defined in section 1802(8) 1
+For the purposes of this chapter the term “vessel of the United States” shall mean any private vessel documented or certificated under the laws of the United States. Notwithstanding any other law, the documentation or certification of any such vessel shall not be considered to be affected, for the purposes of this chapter, in any manner or to any extent if at any time during any voyage for the purpose of fishing beyond the fishery conservation zone (as defined in section 1802(8) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 16), the vessel is commanded by other than a citizen of the United States.
 
-(Aug. 27, 1954, ch. 1018, § 1, 68 Stat. 883; Pub. L. 95–541, § 14(a), Oct. 28, 1978, 92 Stat. 2057; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Aug. 27, 1954, ch. 1018, § 1, 68 Stat. 883; Pub. L. 95–541, § 14(a), Oct. 28, 1978, 92 Stat. 2057; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1802(8) of title 16, referred to in text, which defined “fishery conservation zone”, was repealed and section 1802(6) of Title 16, Conservation, defining the term “exclusive economic zone”, was added by Pub. L. 99–659, title I, § 101(a), Nov. 14, 1986, 100 Stat. 3706. Section 1802 was subsequently amended and the term “exclusive economic zone” is defined elsewhere in that section.
+Section 1802(8) of title 16, referred to in text, which defined “fishery conservation zone”, was repealed and section 1802(6) of Title 16, Conservation, defining the term “exclusive economic zone”, was added by Pub. L. 99–659, title I, § 101(a), Nov. 14, 1986, 100 Stat. 3706. Section 1802 was subsequently amended and the term “exclusive economic zone” is defined elsewhere in that section.
 
 **Amendments**
 
@@ -139,31 +139,31 @@ Section 1802(8) of title 16, referred to in text, which defined “fishery conse
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–541, § 14(b), Oct. 28, 1978, 92 Stat. 2057, provided that the amendment made by section 14(a) of Pub. L. 95–541, amending this section, was to take effect Jan. 1, 1978, prior to the general amendment by Pub. L. 104–227, title I, § 107, Oct. 2, 1996, 110 Stat. 3042.
+Pub. L. 95–541, § 14(b), Oct. 28, 1978, 92 Stat. 2057, provided that the amendment made by section 14(a) of Pub. L. 95–541, amending this section, was to take effect Jan. 1, 1978, prior to the general amendment by Pub. L. 104–227, title I, § 107, Oct. 2, 1996, 110 Stat. 3042.
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–450, title I, § 101, Nov. 7, 2000, 114 Stat. 1941, provided that: “This title [amending section 1977 of this title] may be cited as the ‘Fishermen’s Protective Act Amendments of 2000’.”
+Pub. L. 106–450, title I, § 101, Nov. 7, 2000, 114 Stat. 1941, provided that: “This title [amending section 1977 of this title] may be cited as the ‘Fishermen’s Protective Act Amendments of 2000’.”
 
 **Short Title**
 
-Pub. L. 90–482, § 4, Aug. 12, 1968, 82 Stat. 730, provided that: “The Act of August 27, 1954 (68 Stat. 883; 22 U.S.C. 1971–1976), as amended by this Act [this chapter], may be cited as the ‘Fishermen’s Protective Act of 1967’.”
+Pub. L. 90–482, § 4, Aug. 12, 1968, 82 Stat. 730, provided that: “The Act of August 27, 1954 (68 Stat. 883; 22 U.S.C. 1971–1976), as amended by this Act [this chapter], may be cited as the ‘Fishermen’s Protective Act of 1967’.”
 
-## § 1972. Action by Secretary of State upon seizure of vessel by foreign country; preconditions
+## § 1972. Action by Secretary of State upon seizure of vessel by foreign country; preconditions
 
 If—
 
-**(1)** any vessel of the United States is seized by a foreign country on the basis of claims to jurisdiction that are not recognized by the United States, or on the basis of claims to jurisdiction recognized by the United States but exercised in a manner inconsistent with international law as recognized by the United States; 1
+**(1)** any vessel of the United States is seized by a foreign country on the basis of claims to jurisdiction that are not recognized by the United States, or on the basis of claims to jurisdiction recognized by the United States but exercised in a manner inconsistent with international law as recognized by the United States; 1
 
-<sup>1</sup>  So in original. Probably should be followed by “or”.
+<sup>1</sup> So in original. Probably should be followed by “or”.
 
 **(2)** any general claim of any foreign country to exclusive fishery management authority is recognized by the United States, and any vessel of the United States is seized by such foreign country on the basis of conditions and restrictions under such claim, if such conditions and restrictions—
 
@@ -183,13 +183,13 @@ the Secretary of State, unless there is clear and convincing credible evidence t
 
 **(iii)** to determine the amount of any fine, license, fee, registration fee, or other direct charge reimbursable under section 1973(a) of this title.
 
-(Aug. 27, 1954, ch. 1018, § 2, 68 Stat. 883; Pub. L. 92–569, § 1, Oct. 26, 1972, 86 Stat. 1182; Pub. L. 94–265, title IV, § 403(a)(1), Apr. 13, 1976, 90 Stat. 360; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 98–364, title III, § 303(a), July 17, 1984, 98 Stat. 444; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Aug. 27, 1954, ch. 1018, § 2, 68 Stat. 883; Pub. L. 92–569, § 1, Oct. 26, 1972, 86 Stat. 1182; Pub. L. 94–265, title IV, § 403(a)(1), Apr. 13, 1976, 90 Stat. 360; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 98–364, title III, § 303(a), July 17, 1984, 98 Stat. 444; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331. Title I of the Act is classified generally to subchapter II (§ 1811 et seq.) of chapter 38 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331. Title I of the Act is classified generally to subchapter II (§ 1811 et seq.) of chapter 38 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 **Amendments**
 
@@ -207,25 +207,25 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–364, title III, § 303(c), July 17, 1984, 98 Stat. 445, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1974 of this title] apply with respect to seizures made after April 1, 1983, by foreign countries of vessels of the United States.”
+Pub. L. 98–364, title III, § 303(c), July 17, 1984, 98 Stat. 445, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1974 of this title] apply with respect to seizures made after April 1, 1983, by foreign countries of vessels of the United States.”
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–265, title IV, § 403(b), Apr. 13, 1976, 90 Stat. 360, provided in part that the amendment made by section 403(a)(1) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
+Pub. L. 94–265, title IV, § 403(b), Apr. 13, 1976, 90 Stat. 360, provided in part that the amendment made by section 403(a)(1) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–569, § 6, Oct. 26, 1972, 86 Stat. 1183, provided that: “The amendments made by this Act [enacting section 1979 of this title and amending this section and sections 1973, 1975, and 1977 of this title] shall apply with respect to seizures of vessels of the United States occurring on or after the date of the enactment of this Act [Oct. 26, 1972]; except that reimbursements under section 3 of the Fishermen’s Protective Act of 1967 [section 1973 of this title] (as in effect before such date of enactment [Oct. 26, 1972]) may be made from the fund established by the amendment made by section 5 of this Act [enacting section 1979 of this title] with respect to any seizure of a vessel occurring before such date of enactment [Oct. 26, 1972] and after December 31, 1970, if no reimbursement was made before such date of enactment [Oct. 26, 1972].”
+Pub. L. 92–569, § 6, Oct. 26, 1972, 86 Stat. 1183, provided that: “The amendments made by this Act [enacting section 1979 of this title and amending this section and sections 1973, 1975, and 1977 of this title] shall apply with respect to seizures of vessels of the United States occurring on or after the date of the enactment of this Act [Oct. 26, 1972]; except that reimbursements under section 3 of the Fishermen’s Protective Act of 1967 [section 1973 of this title] (as in effect before such date of enactment [Oct. 26, 1972]) may be made from the fund established by the amendment made by section 5 of this Act [enacting section 1979 of this title] with respect to any seizure of a vessel occurring before such date of enactment [Oct. 26, 1972] and after December 31, 1970, if no reimbursement was made before such date of enactment [Oct. 26, 1972].”
 
-## § 1973. Reimbursement of owner for any direct charges paid to secure release of vessel and crew
+## § 1973. Reimbursement of owner for any direct charges paid to secure release of vessel and crew
 
 **(a) Reimbursement by Secretary of State; “other direct charge” defined; source of reimbursement**
 
@@ -235,41 +235,41 @@ In any case where a vessel of the United States is seized by a foreign country u
 
 The Secretary of State shall make a determination and certification under subsection (a) of this section as soon as possible after he is notified pursuant to section 1972(b) of this title of the amounts of the fines, fees, and other direct charges which were paid by the owners to secure the release of their vessel and crew. The amount of reimbursement made by the Secretary of State to the owners of any vessel under subsection (a) of this section shall constitute a lien on the vessel which may be recovered in proceedings by libel in rem in the district court of the United States for any district within which the vessel may be. Any such lien shall terminate on the ninetieth day after the date on which the Secretary of State reimburses the owners under this section unless before such ninetieth day the United States initiates action to enforce the lien.
 
-(Aug. 27, 1954, ch. 1018, § 3, 68 Stat. 883; Pub. L. 90–482, § 2, Aug. 12, 1968, 82 Stat. 730; Pub. L. 92–569, § 2, Oct. 26, 1972, 86 Stat. 1182; Pub. L. 94–265, title IV, § 403(a)(2), Apr. 13, 1976, 90 Stat. 360; Pub. L. 98–364, title III, § 302(a), July 17, 1984, 98 Stat. 444.)
+(Aug. 27, 1954, ch. 1018, § 3, 68 Stat. 883; Pub. L. 90–482, § 2, Aug. 12, 1968, 82 Stat. 730; Pub. L. 92–569, § 2, Oct. 26, 1972, 86 Stat. 1182; Pub. L. 94–265, title IV, § 403(a)(2), Apr. 13, 1976, 90 Stat. 360; Pub. L. 98–364, title III, § 302(a), July 17, 1984, 98 Stat. 444.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (a). Pub. L. 98–364, § 302(a)(1), substituted “Secretary of State in the amount determined and certified by him” for “Secretary of the Treasury in the amount certified to him by the Secretary of State”.
+1984—Subsec. (a). Pub. L. 98–364, § 302(a)(1), substituted “Secretary of State in the amount determined and certified by him” for “Secretary of the Treasury in the amount certified to him by the Secretary of State”.
 
-Subsec. (b). Pub. L. 98–364, § 302(a)(2), inserted “determination and” before “certification” in first sentence, and substituted “State” for “the Treasury” in second and third sentences.
+Subsec. (b). Pub. L. 98–364, § 302(a)(2), inserted “determination and” before “certification” in first sentence, and substituted “State” for “the Treasury” in second and third sentences.
 
 1976—Subsec. (a). Pub. L. 94–265 inserted definition of “other direct charge”.
 
 1972—Pub. L. 92–569 designated existing provisions as subsec. (a), inserted provision that reimbursement under this section shall be made from the Fishermen’s Protective Fund, and added subsec. (b).
 
-1968—Pub. L. 90–482 inserted “, license fee, registration fee, or any other direct charge” after “fine” wherever appearing.
+1968—Pub. L. 90–482 inserted “, license fee, registration fee, or any other direct charge” after “fine” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–265, title IV, § 403(b), Apr. 13, 1976, 90 Stat. 360, provided in part that the amendment made by section 403(a)(2) of Pub. L. 94–265 to this section was to apply with respect to seizures of vessels of the United States occurring on or after Dec. 31, 1974, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
+Pub. L. 94–265, title IV, § 403(b), Apr. 13, 1976, 90 Stat. 360, provided in part that the amendment made by section 403(a)(2) of Pub. L. 94–265 to this section was to apply with respect to seizures of vessels of the United States occurring on or after Dec. 31, 1974, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
 
 **Effective Date of 1972 Amendment**
 
 Amendment by Pub. L. 92–569 applicable with respect to seizure of vessels of the United States occurring on or after Oct. 26, 1972, except that reimbursements under this section may be made from the fund established by section 1979 of this title with respect to seizure of vessels occurring after Dec. 31, 1970 and before Oct. 26, 1972 if no reimbursement was made before Oct. 26, 1972, see section 6 of Pub. L. 92–569, set out as a note under section 1972 of this title.
 
-## § 1974. Inapplicability of chapter to certain seizures
+## § 1974. Inapplicability of chapter to certain seizures
 
-The provisions of this chapter shall not apply with respect to a seizure made by a country at war with the United States or a seizure made in accordance with the provisions of any applicable convention or treaty, if that treaty or convention was made with advice and consent to 1
+The provisions of this chapter shall not apply with respect to a seizure made by a country at war with the United States or a seizure made in accordance with the provisions of any applicable convention or treaty, if that treaty or convention was made with advice and consent to 1
 
-<sup>1</sup>  So in original. Probably should be “of”.
+<sup>1</sup> So in original. Probably should be “of”.
 
 the Senate and was in force and effect for the United States and the seizing country at the time of the seizure.
 
-(Aug. 27, 1954, ch. 1018, § 4, 68 Stat. 883; Pub. L. 98–364, title III, § 303(b), July 17, 1984, 98 Stat. 444.)
+(Aug. 27, 1954, ch. 1018, § 4, 68 Stat. 883; Pub. L. 98–364, title III, § 303(b), July 17, 1984, 98 Stat. 444.)
 
 **Editorial Notes**
 
@@ -283,7 +283,7 @@ the Senate and was in force and effect for the United States and the seizing cou
 
 Amendment by Pub. L. 98–364 applicable with respect to seizures made after Apr. 1, 1983, by foreign countries of vessels of the United States, see section 303(c) of Pub. L. 98–364, set out as a note under section 1972 of this title.
 
-## § 1975. Claims for amounts expended because of seizure
+## § 1975. Claims for amounts expended because of seizure
 
 **(a) Action by Secretary** The Secretary of State shall—
 
@@ -299,13 +299,13 @@ Amendment by Pub. L. 98–364 applicable with respect to seizures made after Apr
 
 If a foreign country fails or refuses to make payment in full on any claim made under subsection (a)(2) of this section within one hundred and twenty days after the date on which such country is notified pursuant to subsection (a)(1) of this section, the Secretary of State shall transfer an amount equal to such unpaid claim or unpaid portion thereof from any funds appropriated by Congress and programed for the current fiscal year for assistance to the government of such country under the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.] unless the President certifies to the Congress that it is in the national interest not to do so in the particular instance (and if such funds are insufficient to cover such claim, transfer shall be made from any funds so appropriated and programed for the next and any succeeding fiscal year) to (1) the Fishermen’s Protective Fund established pursuant to section 1979 of this title if the amount is transferred with respect to an unpaid claim for a reimbursement made under section 1973 of this title, or (2) the separate account established in the Treasury of the United States pursuant to section 1977(c) of this title if the amount is transferred with respect to an unpaid claim for a payment made under section 1977(a) of this title. Amounts transferred under this section shall not constitute satisfaction of any such claim of the United States against such foreign country.
 
-(Aug. 27, 1954, ch. 1018, § 5, 68 Stat. 883; Pub. L. 90–482, § 3, Aug. 12, 1968, 82 Stat. 730; Pub. L. 92–569, § 3, Oct. 26, 1972, 86 Stat. 1182; Pub. L. 98–364, title III, § 302(b), July 17, 1984, 98 Stat. 444.)
+(Aug. 27, 1954, ch. 1018, § 5, 68 Stat. 883; Pub. L. 90–482, § 3, Aug. 12, 1968, 82 Stat. 730; Pub. L. 92–569, § 3, Oct. 26, 1972, 86 Stat. 1182; Pub. L. 98–364, title III, § 302(b), July 17, 1984, 98 Stat. 444.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Amendments**
 
@@ -331,13 +331,13 @@ By virtue of the authority vested in me by the Fishermen’s Protective Act of 1
 
 Richard Nixon.
 
-## § 1976. Authorization of appropriations
+## § 1976. Authorization of appropriations
 
 There are authorized to be appropriated such amounts as may be necessary to carry out the provisions of this chapter.
 
-(Aug. 27, 1954, ch. 1018, § 6, 68 Stat. 883.)
+(Aug. 27, 1954, ch. 1018, § 6, 68 Stat. 883.)
 
-## § 1977. Reimbursement for seized commercial fishermen
+## § 1977. Reimbursement for seized commercial fishermen
 
 **(a) Agreement to reimburse for actual costs, confiscation or spoilage of fish, and loss of income** The Secretary, upon receipt of an application filed with him at any time after the effective date of this section by the owner of any vessel of the United States which is documented or certificated as a commercial fishing vessel, shall enter into an agreement with such owner subject to the provision of this section and such other terms and conditions as the Secretary deems appropriate. Such agreement shall provide that, if said vessel is seized by a foreign country and detained under the conditions of section 1972 of this title, the Secretary shall guarantee—
 
@@ -369,7 +369,7 @@ Payments may be made under this section only to such extent and in such amounts 
 
 **(2)** the term “owner” includes any charterer of a commercial fishing vessel.
 
-(Aug. 27, 1954, ch. 1018, § 7, as added Pub. L. 90–482, § 1, Aug. 12, 1968, 82 Stat. 729; amended Pub. L. 92–569, § 4, Oct. 26, 1972, 86 Stat. 1183; Pub. L. 92–594, §§ 1, 2, Oct. 27, 1972, 86 Stat. 1313; Pub. L. 94–273, § 3(17), Apr. 21, 1976, 90 Stat. 377; Pub. L. 95–194, § 1, Nov. 18, 1977, 91 Stat. 1413; Pub. L. 95–376, § 1, Sept. 18, 1978, 92 Stat. 714; Pub. L. 97–68, § 1, Oct. 26, 1981, 95 Stat. 1040; Pub. L. 98–364, title III, § 301, July 17, 1984, 98 Stat. 444; Pub. L. 99–659, title IV, § 408, Nov. 14, 1986, 100 Stat. 3740; Pub. L. 100–151, § 1, Nov. 3, 1987, 101 Stat. 884; Pub. L. 100–350, § 2, June 27, 1988, 102 Stat. 660; Pub. L. 101–627, title III, § 301, Nov. 28, 1990, 104 Stat. 4462; Pub. L. 104–43, title IV, § 403, Nov. 3, 1995, 109 Stat. 390; Pub. L. 106–450, title I, § 102, Nov. 7, 2000, 114 Stat. 1941; Pub. L. 107–228, div. A, title II, § 209, Sept. 30, 2002, 116 Stat. 1365; Pub. L. 108–219, title III, § 302, Apr. 13, 2004, 118 Stat. 616; Pub. L. 114–323, title VII, § 705, Dec. 16, 2016, 130 Stat. 1942; Pub. L. 117–81, div. E, title LI, § 5111(a), Dec. 27, 2021, 135 Stat. 2350.)
+(Aug. 27, 1954, ch. 1018, § 7, as added Pub. L. 90–482, § 1, Aug. 12, 1968, 82 Stat. 729; amended Pub. L. 92–569, § 4, Oct. 26, 1972, 86 Stat. 1183; Pub. L. 92–594, §§ 1, 2, Oct. 27, 1972, 86 Stat. 1313; Pub. L. 94–273, § 3(17), Apr. 21, 1976, 90 Stat. 377; Pub. L. 95–194, § 1, Nov. 18, 1977, 91 Stat. 1413; Pub. L. 95–376, § 1, Sept. 18, 1978, 92 Stat. 714; Pub. L. 97–68, § 1, Oct. 26, 1981, 95 Stat. 1040; Pub. L. 98–364, title III, § 301, July 17, 1984, 98 Stat. 444; Pub. L. 99–659, title IV, § 408, Nov. 14, 1986, 100 Stat. 3740; Pub. L. 100–151, § 1, Nov. 3, 1987, 101 Stat. 884; Pub. L. 100–350, § 2, June 27, 1988, 102 Stat. 660; Pub. L. 101–627, title III, § 301, Nov. 28, 1990, 104 Stat. 4462; Pub. L. 104–43, title IV, § 403, Nov. 3, 1995, 109 Stat. 390; Pub. L. 106–450, title I, § 102, Nov. 7, 2000, 114 Stat. 1941; Pub. L. 107–228, div. A, title II, § 209, Sept. 30, 2002, 116 Stat. 1365; Pub. L. 108–219, title III, § 302, Apr. 13, 2004, 118 Stat. 616; Pub. L. 114–323, title VII, § 705, Dec. 16, 2016, 130 Stat. 1942; Pub. L. 117–81, div. E, title LI, § 5111(a), Dec. 27, 2021, 135 Stat. 2350.)
 
 **Editorial Notes**
 
@@ -383,13 +383,13 @@ Payments may be made under this section only to such extent and in such amounts 
 
 2002—Subsec. (a)(3). Pub. L. 107–228 substituted “Secretary of State” for “Secretary of Commerce”.
 
-2000—Subsec. (a)(3). Pub. L. 106–450, § 102(b), substituted “Secretary of Commerce” for “Secretary of the Interior”.
+2000—Subsec. (a)(3). Pub. L. 106–450, § 102(b), substituted “Secretary of Commerce” for “Secretary of the Interior”.
 
-Subsec. (e). Pub. L. 106–450, § 102(a), substituted “2003” for “2000”.
+Subsec. (e). Pub. L. 106–450, § 102(a), substituted “2003” for “2000”.
 
-1995—Subsec. (c). Pub. L. 104–43, § 403(a), struck out after second sentence “The amount fixed by the Secretary shall be predicated upon at least 33⅓ per centum of the contribution by the Government.”
+1995—Subsec. (c). Pub. L. 104–43, § 403(a), struck out after second sentence “The amount fixed by the Secretary shall be predicated upon at least 33⅓ per centum of the contribution by the Government.”
 
-Subsec. (e). Pub. L. 104–43, § 403(b), substituted “October 1, 2000” for “October 1, 1993”.
+Subsec. (e). Pub. L. 104–43, § 403(b), substituted “October 1, 2000” for “October 1, 1993”.
 
 1990—Subsec. (e). Pub. L. 101–627 substituted “October 1, 1993” for “October 1, 1989”.
 
@@ -401,9 +401,9 @@ Subsec. (e). Pub. L. 104–43, § 403(b), substituted “October 1, 2000” fo
 
 1984—Subsec. (e). Pub. L. 98–364 substituted “October 1, 1987” for “October 1, 1984”.
 
-1981—Subsec. (c). Pub. L. 97–68, § 1(1), inserted provision that fees not currently needed for payments under this section be kept on deposit or invested in obligations of, or guaranteed by, the United States and that all revenues accruing from such deposits or investments be credited to the separate account established in the Treasury of the United States to carry out the provisions of this section.
+1981—Subsec. (c). Pub. L. 97–68, § 1(1), inserted provision that fees not currently needed for payments under this section be kept on deposit or invested in obligations of, or guaranteed by, the United States and that all revenues accruing from such deposits or investments be credited to the separate account established in the Treasury of the United States to carry out the provisions of this section.
 
-Subsec. (e). Pub. L. 97–68, § 1(2), substituted “October 1, 1984” for “October 1, 1981”.
+Subsec. (e). Pub. L. 97–68, § 1(2), substituted “October 1, 1984” for “October 1, 1981”.
 
 1978—Subsec. (e). Pub. L. 95–376 substituted “October 1, 1981; except that payments may be made under this section only to such extent and in such amounts as are provided in advance in appropriation Acts” for “October 1, 1978”.
 
@@ -413,15 +413,15 @@ Subsec. (e). Pub. L. 97–68, § 1(2), substituted “October 1, 1984” for �
 
 1972—Subsec. (c). Pub. L. 92–569 inserted provision that amounts paid subsequent to transfer to the separate account be covered into the Treasury as miscellaneous receipts.
 
-Subsec. (e). Pub. L. 92–594, § 1, extended provisions of this section until July 1, 1977, and struck out provisions relating to issuance of regulations.
+Subsec. (e). Pub. L. 92–594, § 1, extended provisions of this section until July 1, 1977, and struck out provisions relating to issuance of regulations.
 
-Subsec. (f)(1). Pub. L. 92–594, § 2, substituted “Secretary of Commerce” for “Secretary of the Interior”.
+Subsec. (f)(1). Pub. L. 92–594, § 2, substituted “Secretary of Commerce” for “Secretary of the Interior”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–81, div. E, title LI, § 5111(b), Dec. 27, 2021, 135 Stat. 2350, provided that:
+Pub. L. 117–81, div. E, title LI, § 5111(b), Dec. 27, 2021, 135 Stat. 2350, provided that:
 
 > **“(1) Effective date.—** The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 27, 2021] and apply as if the date specified in subsection (e) of section 7 of the Fishermen’s Protective Act of 1967 [22 U.S.C. 1977(e)], as in effect on the day before the date of the enactment of this Act, were the day after such date of enactment.
 
@@ -435,13 +435,13 @@ Pub. L. 117–81, div. E, title LI, § 5111(b), Dec. 27, 2021, 135 Stat. 2350,
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–659, title IV, § 408, Nov. 14, 1986, 100 Stat. 3740, provided that the amendment made by that section is effective Oct. 1, 1986.
+Pub. L. 99–659, title IV, § 408, Nov. 14, 1986, 100 Stat. 3740, provided that the amendment made by that section is effective Oct. 1, 1986.
 
 **Effective Date of 1972 Amendment**
 
 Amendment by Pub. L. 92–569 applicable with respect to seizure of vessels of the United States occurring on or after Oct. 26, 1972, see section 6 of Pub. L. 92–569, set out as a note under section 1972 of this title.
 
-## § 1978. Restriction on importation of fishery or wildlife products from countries which violate international fishery or endangered or threatened species programs
+## § 1978. Restriction on importation of fishery or wildlife products from countries which violate international fishery or endangered or threatened species programs
 
 **(a) Certification to President**
 
@@ -517,37 +517,37 @@ The Secretary of the Treasury, the Secretary of Commerce, and the Secretary of t
 
 **(B)** attempt to harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect.
 
-(Aug. 27, 1954, ch. 1018, § 8, as added Pub. L. 92–219, Dec. 23, 1971, 85 Stat. 786; amended Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 95–376, § 2, Sept. 18, 1978, 92 Stat. 714; Pub. L. 96–61, § 3(b), Aug. 15, 1979, 93 Stat. 408; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–711, § 8, Nov. 23, 1988, 102 Stat. 4772; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–582, title II, § 201, Nov. 2, 1992, 106 Stat. 4904; Pub. L. 106–36, title I, § 1002(d), June 25, 1999, 113 Stat. 133; Pub. L. 114–231, title V, § 501, Oct. 7, 2016, 130 Stat. 956.)
+(Aug. 27, 1954, ch. 1018, § 8, as added Pub. L. 92–219, Dec. 23, 1971, 85 Stat. 786; amended Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 95–376, § 2, Sept. 18, 1978, 92 Stat. 714; Pub. L. 96–61, § 3(b), Aug. 15, 1979, 93 Stat. 408; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–711, § 8, Nov. 23, 1988, 102 Stat. 4772; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–582, title II, § 201, Nov. 2, 1992, 106 Stat. 4904; Pub. L. 106–36, title I, § 1002(d), June 25, 1999, 113 Stat. 133; Pub. L. 114–231, title V, § 501, Oct. 7, 2016, 130 Stat. 956.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a)(1). Pub. L. 114–231, § 501(1)(A), which directed the insertion of “, in consultation with the Secretary of State,” after “Secretary of Commerce”, was executed by making the insertion after “Secretary of Commerce” the first time appearing to reflect the probable intent of Congress.
+2016—Subsec. (a)(1). Pub. L. 114–231, § 501(1)(A), which directed the insertion of “, in consultation with the Secretary of State,” after “Secretary of Commerce”, was executed by making the insertion after “Secretary of Commerce” the first time appearing to reflect the probable intent of Congress.
 
-Subsec. (a)(2). Pub. L. 114–231, § 501(1)(B), inserted “, in consultation with the Secretary of State,” after “Secretary of the Interior”.
+Subsec. (a)(2). Pub. L. 114–231, § 501(1)(B), inserted “, in consultation with the Secretary of State,” after “Secretary of the Interior”.
 
-Subsec. (a)(3). Pub. L. 114–231, § 501(1)(C), inserted “in consultation with the Secretary of State,” after “, as appropriate,” in introductory provisions.
+Subsec. (a)(3). Pub. L. 114–231, § 501(1)(C), inserted “in consultation with the Secretary of State,” after “, as appropriate,” in introductory provisions.
 
-Subsec. (a)(4), (5). Pub. L. 114–231, § 501(1)(D), (E), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (a)(4), (5). Pub. L. 114–231, § 501(1)(D), (E), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (d). Pub. L. 114–231, § 501(2), inserted “in consultation with the Secretary of State,” after “as the case may be,”.
+Subsec. (d). Pub. L. 114–231, § 501(2), inserted “in consultation with the Secretary of State,” after “as the case may be,”.
 
 1999—Subsec. (a)(4). Pub. L. 106–36 substituted “World Trade Organization (as defined in section 3501(8) of title 19) or the multilateral trade agreements (as defined in section 3501(4) of title 19)” for “General Agreement on Tariffs and Trade”.
 
-1992—Subsec. (a)(4). Pub. L. 102–582, § 201(a)(1), substituted “any products from the offending country for any duration” for “fish products (if the certification is made under paragraph (1)) or wildlife products (if the certification is made under paragraph (2)) from the offending country for such duration”.
+1992—Subsec. (a)(4). Pub. L. 102–582, § 201(a)(1), substituted “any products from the offending country for any duration” for “fish products (if the certification is made under paragraph (1)) or wildlife products (if the certification is made under paragraph (2)) from the offending country for such duration”.
 
-Subsecs. (c), (e)(2). Pub. L. 102–582, § 201(a)(2), (3), substituted “products” for “fish products or wildlife products”.
+Subsecs. (c), (e)(2). Pub. L. 102–582, § 201(a)(2), (3), substituted “products” for “fish products or wildlife products”.
 
-Subsec. (f). Pub. L. 102–582, § 201(a)(4), substituted “products” for “fish products and wildlife products” in pars. (1) and (5) and “Products” for “Fish products and wildlife products” in par. (5).
+Subsec. (f). Pub. L. 102–582, § 201(a)(4), substituted “products” for “fish products and wildlife products” in pars. (1) and (5) and “Products” for “Fish products and wildlife products” in par. (5).
 
-Subsec. (h)(2). Pub. L. 102–582, § 201(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘United States’, when used in a geographical sense, means the continental United States, Alaska, Hawaii, Puerto Rico, and the United States Virgin Islands.”
+Subsec. (h)(2). Pub. L. 102–582, § 201(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘United States’, when used in a geographical sense, means the continental United States, Alaska, Hawaii, Puerto Rico, and the United States Virgin Islands.”
 
-Subsec. (h)(3). Pub. L. 102–582, § 201(b)(2), inserted “bilateral or” before “multilateral” and “, including marine mammals” before period at end.
+Subsec. (h)(3). Pub. L. 102–582, § 201(b)(2), inserted “bilateral or” before “multilateral” and “, including marine mammals” before period at end.
 
-Subsec. (h)(4). Pub. L. 102–582, § 201(b)(3), (4), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘fish products’ means any aquatic species (including marine mammals and plants) and all products thereof exported from an offending country, whether or not taken by fishing vessels of such country, or packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof.”
+Subsec. (h)(4). Pub. L. 102–582, § 201(b)(3), (4), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘fish products’ means any aquatic species (including marine mammals and plants) and all products thereof exported from an offending country, whether or not taken by fishing vessels of such country, or packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof.”
 
-Subsec. (h)(5). Pub. L. 102–582, § 201(b)(5), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘taking’ means—
+Subsec. (h)(5). Pub. L. 102–582, § 201(b)(5), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘taking’ means—
 
 “(A) for purposes of subsection (a)(2) of this section—
 
@@ -559,49 +559,49 @@ animals to which an international program for endangered or threatened species a
 
 “(B) for purposes of paragraph (6), any conduct described in subparagraph (A)(i), whether or not such conduct is legal under the laws of the offending country, undertaken with respect to any wild animal.”
 
-Pub. L. 102–582, § 201(b)(4), redesignated par. (7) as (5). Former par. (5) redesignated (4).
+Pub. L. 102–582, § 201(b)(4), redesignated par. (7) as (5). Former par. (5) redesignated (4).
 
-Subsec. (h)(6). Pub. L. 102–582, § 201(b)(3), struck out par. (6) which read as follows: “The term ‘wildlife products’ means fish (other than those to which paragraph (4) applies) and wild animals, and parts (including eggs) thereof, taken within an offending country and all products of any such fish and wild animals, or parts thereof, whether or not such products are packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof. Such term does not include any wild animal or fish if brought or imported into the United States for scientific research.”
+Subsec. (h)(6). Pub. L. 102–582, § 201(b)(3), struck out par. (6) which read as follows: “The term ‘wildlife products’ means fish (other than those to which paragraph (4) applies) and wild animals, and parts (including eggs) thereof, taken within an offending country and all products of any such fish and wild animals, or parts thereof, whether or not such products are packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof. Such term does not include any wild animal or fish if brought or imported into the United States for scientific research.”
 
-Subsec. (h)(7). Pub. L. 102–582, § 201(b)(4), redesignated par. (7) as (5).
+Subsec. (h)(7). Pub. L. 102–582, § 201(b)(4), redesignated par. (7) as (5).
 
 1988—Subsec. (h)(4). Pub. L. 100–711 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘fish products’ means fish and marine mammals and all products thereof taken by fishing vessels of an offending country whether or not packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof.”
 
-1979—Subsec. (a)(3), (4). Pub. L. 96–61, § 3(b)(1), added par. (3) and redesignated former par. (3) as (4).
+1979—Subsec. (a)(3), (4). Pub. L. 96–61, § 3(b)(1), added par. (3) and redesignated former par. (3) as (4).
 
-Subsecs. (d) to (h). Pub. L. 96–61, § 3(b)(2), (3), added subsec. (d) and redesignated subsecs. (d) to (g) as (e) to (h), respectively.
+Subsecs. (d) to (h). Pub. L. 96–61, § 3(b)(2), (3), added subsec. (d) and redesignated subsecs. (d) to (g) as (e) to (h), respectively.
 
-1978—Subsec. (a). Pub. L. 95–376, § 2(1), designated existing provisions as par. (1), struck out a provision enabling the President, upon receipt of certification, to direct the Secretary of the Treasury to prohibit importation of fish products of the offending country for as long as he determines appropriate and to the extent such prohibition is sanctioned by the General Agreement on Tariffs and Trade, and added pars. (2) and (3).
+1978—Subsec. (a). Pub. L. 95–376, § 2(1), designated existing provisions as par. (1), struck out a provision enabling the President, upon receipt of certification, to direct the Secretary of the Treasury to prohibit importation of fish products of the offending country for as long as he determines appropriate and to the extent such prohibition is sanctioned by the General Agreement on Tariffs and Trade, and added pars. (2) and (3).
 
-Subsec. (b). Pub. L. 95–376, § 2(2), inserted “or the Secretary of the Interior” after “Secretary of Commerce” and inserted “or wildlife products” after “fish products” in two places.
+Subsec. (b). Pub. L. 95–376, § 2(2), inserted “or the Secretary of the Interior” after “Secretary of Commerce” and inserted “or wildlife products” after “fish products” in two places.
 
-Subsec. (c). Pub. L. 95–376, § 2(3), inserted “or wildlife products” after “fish products”.
+Subsec. (c). Pub. L. 95–376, § 2(3), inserted “or wildlife products” after “fish products”.
 
-Subsecs. (d)(2), (e)(1). Pub. L. 95–376, § 2(4), (5)(A), inserted “and wildlife products” after “fish products”.
+Subsecs. (d)(2), (e)(1). Pub. L. 95–376, § 2(4), (5)(A), inserted “and wildlife products” after “fish products”.
 
-Subsec. (e)(4)(B). Pub. L. 95–376, § 2(5)(B), inserted “or other conveyance” after “vessel” wherever appearing.
+Subsec. (e)(4)(B). Pub. L. 95–376, § 2(5)(B), inserted “or other conveyance” after “vessel” wherever appearing.
 
-Subsec. (e)(5). Pub. L. 95–376, § 2(5)(A), (C), inserted “and wildlife products” after “all fish products”, and substituted “Fish products and wildlife products” for “Any fish products”.
+Subsec. (e)(5). Pub. L. 95–376, § 2(5)(A), (C), inserted “and wildlife products” after “all fish products”, and substituted “Fish products and wildlife products” for “Any fish products”.
 
-Subsec. (f). Pub. L. 95–376, § 2(6), inserted references to the Secretary of Commerce and the Secretary of the Interior.
+Subsec. (f). Pub. L. 95–376, § 2(6), inserted references to the Secretary of Commerce and the Secretary of the Interior.
 
-Subsec. (g)(3). Pub. L. 95–376, § 2(7)(A), (B), substituted “in effect” for “in force”, and “which is in force with respect to the United States” for “to which the United States is a signatory party”.
+Subsec. (g)(3). Pub. L. 95–376, § 2(7)(A), (B), substituted “in effect” for “in force”, and “which is in force with respect to the United States” for “to which the United States is a signatory party”.
 
-Subsec. (g)(5) to (7). Pub. L. 95–376, § 2(7)(C), added pars. (5) to (7).
+Subsec. (g)(5) to (7). Pub. L. 95–376, § 2(7)(C), added pars. (5) to (7).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-“United States magistrate judges” substituted for “United States magistrates” in subsec. (f)(2) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously “United States magistrates” substituted for “United States commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+“United States magistrate judges” substituted for “United States magistrates” in subsec. (f)(2) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously “United States magistrates” substituted for “United States commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (f)(5) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
-## § 1979. Fishermen’s Protective Fund
+## § 1979. Fishermen’s Protective Fund
 
 There is created a Fishermen’s Protective Fund which shall be used by the Secretary of State to reimburse owners of vessels for amounts determined and certified by him under section 1973 of this title. The amount of any claim or portion thereof collected by the Secretary of State from any foreign country pursuant to section 1975(a) of this title shall be deposited in the fund and shall be available for the purpose of reimbursing vessel owners under section 1973 of this title; except that if a transfer to the fund was made pursuant to section 1975(b)(1) of this title with respect to any such claim, an amount from the fund equal to the amount so collected shall be covered into the Treasury as miscellaneous receipts. There is authorized to be appropriated to the fund (1) the sum of $3,000,000 to provide initial capital, and (2) such additional sums as may be necessary from time to time to supplement the fund in order to meet the requirements of the fund.
 
-(Aug. 27, 1954, ch. 1018, § 9, as added Pub. L. 92–569, § 5, Oct. 26, 1972, 86 Stat. 1183; amended Pub. L. 98–364, title III, § 302(c), July 17, 1984, 98 Stat. 444.)
+(Aug. 27, 1954, ch. 1018, § 9, as added Pub. L. 92–569, § 5, Oct. 26, 1972, 86 Stat. 1183; amended Pub. L. 98–364, title III, § 302(c), July 17, 1984, 98 Stat. 444.)
 
 **Editorial Notes**
 
@@ -615,13 +615,13 @@ There is created a Fishermen’s Protective Fund which shall be used by the Secr
 
 Section applicable with respect to seizure of vessels of the United States occurring on or after Oct. 26, 1972, except that reimbursements under section 1973 of this title may be made from the fund established by this section with respect to seizure of vessels occurring after Dec. 31, 1970 and before Oct. 26, 1972, if no reimbursement was made before Oct. 26, 1972, see section 6 of Pub. L. 92–569, set out as an Effective Date of 1972 Amendment note under section 1972 of this title.
 
-## § 1980. Compensation for loss or destruction of commercial fishing vessel or gear
+## § 1980. Compensation for loss or destruction of commercial fishing vessel or gear
 
 **(a) Definitions** For purposes of this section—
 
 **(1)** The terms “fishery”, “fishery conservation zone”, “fishing”, “fishing vessel”, “Secretary”, and “vessel of the United States” shall each have the same respective meaning as is given to such terms in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** The term “fishing gear” means any equipment or appurtenance which is necessary for the carrying out of fishing operations by a fishing vessel, whether or not such equipment or appurtenance is attached to such vessel.
 
@@ -701,47 +701,47 @@ In addition to any fee imposed under section 204(b)(10) of the Magnuson-Stevens 
 
 Sums may be expended from the fund only to such extent and in such amounts as are provided in advance in appropriation Acts. Sums in the fund which are not currently needed for the purpose of paying such awards shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
-**(3)** Whenever the amount in the fund is not sufficient to pay compensation under this section, the Secretary may issue, in an amount not to exceed $5,000,000, notes or other obligations to the Secretary of the Treasury, in such forms and denominations, bearing such maturities, and subject to such terms and conditions as the Secretary of the Treasury may prescribe. Such notices 2
+**(3)** Whenever the amount in the fund is not sufficient to pay compensation under this section, the Secretary may issue, in an amount not to exceed $5,000,000, notes or other obligations to the Secretary of the Treasury, in such forms and denominations, bearing such maturities, and subject to such terms and conditions as the Secretary of the Treasury may prescribe. Such notices 2
 
-<sup>2</sup>  So in original. Probably should be “notes”.
+<sup>2</sup> So in original. Probably should be “notes”.
 
-or other obligations shall bear interest at a rate to be determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of such notices 2 or other obligations. Moneys obtained by the Secretary under this paragraph shall be deposited in the fund and redemptions of any such notices 2 or other obligations shall be made from the fund. The Secretary of the Treasury shall purchase any such notes or other obligations, and for such purpose he may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31. The Secretary of the Treasury may sell any such notices 2 or other obligations at such times and prices and upon such terms and conditions as he shall determine. All purchases, redemptions, and sales of such notes or other obligations by the Secretary of the Treasury shall be treated as public debt transactions of the United States. All borrowing authority contained herein shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
+or other obligations shall bear interest at a rate to be determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of such notices 2 or other obligations. Moneys obtained by the Secretary under this paragraph shall be deposited in the fund and redemptions of any such notices 2 or other obligations shall be made from the fund. The Secretary of the Treasury shall purchase any such notes or other obligations, and for such purpose he may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31. The Secretary of the Treasury may sell any such notices 2 or other obligations at such times and prices and upon such terms and conditions as he shall determine. All purchases, redemptions, and sales of such notes or other obligations by the Secretary of the Treasury shall be treated as public debt transactions of the United States. All borrowing authority contained herein shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 **(g) Penalty for false or misleading statements**
 
 Any person who willfully makes any false or misleading statement or representation for the purpose of obtaining compensation under this section is guilty of a criminal offense and, upon conviction thereof, shall be punished by a fine of not more than $25,000, or by imprisonment for not more than one year, or both.
 
-(Aug. 27, 1954, ch. 1018, § 10, as added Pub. L. 95–194, § 2, Nov. 18, 1977, 91 Stat. 1413; amended Pub. L. 95–376, § 3(a), Sept. 18, 1978, 92 Stat. 715; Pub. L. 96–289, § 4(b), June 28, 1980, 94 Stat. 606; Pub. L. 96–561, title II, §§ 238(b), 241, Dec. 22, 1980, 94 Stat. 3300, 3301; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Aug. 27, 1954, ch. 1018, § 10, as added Pub. L. 95–194, § 2, Nov. 18, 1977, 91 Stat. 1413; amended Pub. L. 95–376, § 3(a), Sept. 18, 1978, 92 Stat. 715; Pub. L. 96–289, § 4(b), June 28, 1980, 94 Stat. 606; Pub. L. 96–561, title II, §§ 238(b), 241, Dec. 22, 1980, 94 Stat. 3300, 3301; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802), referred to in subsec. (a)(1), contained a prior par. (8) defining “fishery conservation zone” which was repealed and a new par. defining “exclusive economic zone” was added by Pub. L. 99–659, title I, § 101(a), Nov. 14, 1986, 100 Stat. 3706.
+Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802), referred to in subsec. (a)(1), contained a prior par. (8) defining “fishery conservation zone” which was repealed and a new par. defining “exclusive economic zone” was added by Pub. L. 99–659, title I, § 101(a), Nov. 14, 1986, 100 Stat. 3706.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 **Codification**
 
-In subsec. (f)(3), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (f)(3), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
 1996—Subsecs. (a)(1), (b)(1)(A), (e). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-1980—Subsec. (a)(1). Pub. L. 96–561, § 238(b), substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
+1980—Subsec. (a)(1). Pub. L. 96–561, § 238(b), substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
 
-Subsec. (a)(4). Pub. L. 96–561, § 241(1), added par. (4).
+Subsec. (a)(4). Pub. L. 96–561, § 241(1), added par. (4).
 
-Subsec. (b). Pub. L. 96–561, §§ 238(b), 241(2), inserted in provision preceding par. (1) “and for any resulting economic loss” after “or both,” substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”, struck out provision in par. (2)(B) permitting compensation in the case of fishing gear lost, damaged, or destroyed by an act of God, and inserted provision following par. (2)(B) establishing for purposes of subpar. (B) a rebuttable presumption that any damage, loss, or destruction of fishing gear is attributable to another vessel.
+Subsec. (b). Pub. L. 96–561, §§ 238(b), 241(2), inserted in provision preceding par. (1) “and for any resulting economic loss” after “or both,” substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”, struck out provision in par. (2)(B) permitting compensation in the case of fishing gear lost, damaged, or destroyed by an act of God, and inserted provision following par. (2)(B) establishing for purposes of subpar. (B) a rebuttable presumption that any damage, loss, or destruction of fishing gear is attributable to another vessel.
 
-Subsec. (c). Pub. L. 96–561, § 241(3), inserted in provision preceding par. (1) “and resulting economic loss” after “destruction”.
+Subsec. (c). Pub. L. 96–561, § 241(3), inserted in provision preceding par. (1) “and resulting economic loss” after “destruction”.
 
 Pub. L. 96–289 substituted “90” for “sixty” in par. (1).
 
-Subsec. (d). Pub. L. 96–561, § 241(4), inserted in par. (1) “, and resulting economic loss,” after “destruction” and in par. (2) included within the amount of compensation awarded to any vessel owner 25 percent of any resulting economic loss.
+Subsec. (d). Pub. L. 96–561, § 241(4), inserted in par. (1) “, and resulting economic loss,” after “destruction” and in par. (2) included within the amount of compensation awarded to any vessel owner 25 percent of any resulting economic loss.
 
-Subsec. (e). Pub. L. 96–561, § 238(b), substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
+Subsec. (e). Pub. L. 96–561, § 238(b), substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
 
 1978—Subsec. (a). Pub. L. 95–376 substituted provisions defining “fishery”, “fishing conservation zone”, “fishing”, “fishing vessel”, “Secretary”, “vessel of the United States”, “fishing gear” and “fund” for provisions authorizing the Secretary to make a loan to an owner or operator whose commercial fishing vessel or its fishing gear was lost, damaged or destroyed by any vessel of a foreign nation.
 
@@ -759,23 +759,23 @@ Subsecs. (f), (g). Pub. L. 95–376 added subsecs. (f) and (g).
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–376, § 3(b), Sept. 18, 1978, 92 Stat. 718, provided that: “The amendment made by subsection (a) [amending this section] shall take effect January 1, 1979.”
+Pub. L. 95–376, § 3(b), Sept. 18, 1978, 92 Stat. 718, provided that: “The amendment made by subsection (a) [amending this section] shall take effect January 1, 1979.”
 
 **Savings Provision**
 
-Pub. L. 95–376, § 3(c), Sept. 18, 1978, 92 Stat. 718, provided that: “Nothing in the amendment made by subsection (a) [amending this section] shall be construed as affecting in any manner or to any extent any loan made under section 10 of the Fishermen’s Protective Act of 1967 (as in effect before January 1, 1979) [this section], and, for purposes of the consideration by the Secretary of Commerce of any application for a loan under such section which was filed, but not acted on, before January 1, 1979, the amendment made by subsection (a) shall not be deemed to have been enacted.”
+Pub. L. 95–376, § 3(c), Sept. 18, 1978, 92 Stat. 718, provided that: “Nothing in the amendment made by subsection (a) [amending this section] shall be construed as affecting in any manner or to any extent any loan made under section 10 of the Fishermen’s Protective Act of 1967 (as in effect before January 1, 1979) [this section], and, for purposes of the consideration by the Secretary of Commerce of any application for a loan under such section which was filed, but not acted on, before January 1, 1979, the amendment made by subsection (a) shall not be deemed to have been enacted.”
 
 **Compensation for Certain Fishing Vessel and Gear Damage; Application**
 
-Pub. L. 96–561, title II, § 240(a), (b)(1), Dec. 22, 1980, 94 Stat. 3300, 3301, provided that:
+Pub. L. 96–561, title II, § 240(a), (b)(1), Dec. 22, 1980, 94 Stat. 3300, 3301, provided that:
 
 > **“(a) In General.—** If—
 
@@ -795,9 +795,9 @@ Pub. L. 96–561, title II, § 240(a), (b)(1), Dec. 22, 1980, 94 Stat. 3300, 3
 
 **Timely Applications for Compensation**
 
-Pub. L. 96–289, § 4(a), June 28, 1980, 94 Stat. 605, provided that: “Notwithstanding the provisions of section 10(c)(1) of the Fishermens Protective Act of 1967 (22 U.S.C. 1980) [subsec. (c)(1) of this section] applications for compensation under such Act [this chapter], filed within 90 days after the date of enactment of this subsection [June 28, 1980] shall be deemed to be timely filed.”
+Pub. L. 96–289, § 4(a), June 28, 1980, 94 Stat. 605, provided that: “Notwithstanding the provisions of section 10(c)(1) of the Fishermens Protective Act of 1967 (22 U.S.C. 1980) [subsec. (c)(1) of this section] applications for compensation under such Act [this chapter], filed within 90 days after the date of enactment of this subsection [June 28, 1980] shall be deemed to be timely filed.”
 
-## § 1980a. Reimbursement of owner for fee paid to navigate foreign waters if fee inconsistent with international law
+## § 1980a. Reimbursement of owner for fee paid to navigate foreign waters if fee inconsistent with international law
 
 **(a) Reimbursable fees**
 
@@ -827,13 +827,13 @@ The Secretary of State shall take such action as the Secretary deems appropriate
 
 For purposes of this section, the term “owner” includes any charterer of a vessel of the United States.
 
-(Aug. 27, 1954, ch. 1018, § 11, as added Pub. L. 104–43, title IV, § 402(a), Nov. 3, 1995, 109 Stat. 389.)
+(Aug. 27, 1954, ch. 1018, § 11, as added Pub. L. 104–43, title IV, § 402(a), Nov. 3, 1995, 109 Stat. 389.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Congressional Findings**
 
-Pub. L. 104–43, title IV, § 401, Nov. 3, 1995, 109 Stat. 388, provided that:
+Pub. L. 104–43, title IV, § 401, Nov. 3, 1995, 109 Stat. 388, provided that:
 
 > “The Congress finds that—
 
@@ -863,7 +863,7 @@ Pub. L. 104–43, title IV, § 401, Nov. 3, 1995, 109 Stat. 388, provided that
 
 > **“(13)** the United States should continue its efforts to seek expeditious agreement with Canada on appropriate fishery conservation and management measures that can be implemented through the Pacific Salmon Treaty to address issues of mutual concern.”
 
-## § 1980b. Sanctions for imposition of conditions on U.S. fishing vessel found inconsistent with international law
+## § 1980b. Sanctions for imposition of conditions on U.S. fishing vessel found inconsistent with international law
 
 **(a) Certification**
 
@@ -881,7 +881,7 @@ For the purposes of this section, the term “fishing vessel” has the meaning 
 
 It is the sense of the Congress that any action taken by any Federal agency under subsection (b) should be commensurate with any conditions certified by the Secretary of State under subsection (a).
 
-(Aug. 27, 1954, ch. 1018, § 12, as added Pub. L. 104–43, title IV, § 402(b), Nov. 3, 1995, 109 Stat. 390; amended Pub. L. 115–232, div. C, title XXXV, § 3541(b)(4), Aug. 13, 2018, 132 Stat. 2323.)
+(Aug. 27, 1954, ch. 1018, § 12, as added Pub. L. 104–43, title IV, § 402(b), Nov. 3, 1995, 109 Stat. 390; amended Pub. L. 115–232, div. C, title XXXV, § 3541(b)(4), Aug. 13, 2018, 132 Stat. 2323.)
 
 **Editorial Notes**
 

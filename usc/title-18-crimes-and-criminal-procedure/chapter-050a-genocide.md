@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 50A—GENOCIDE
 
-## § 1091. Genocide
+## § 1091. Genocide
 
 **(a) Basic Offense.—** Whoever, whether in time of peace or in time of war and with the specific intent to destroy, in whole or in substantial part, a national, ethnic, racial, or religious group as such—
 
@@ -59,17 +59,17 @@ shall be punished as provided in subsection (b).
 
 **(f) Nonapplicability of Certain Limitations.—** Notwithstanding section 3282, in the case of an offense under this section, an indictment may be found, or information instituted, at any time without limitation.
 
-(Added Pub. L. 100–606, § 2(a), Nov. 4, 1988, 102 Stat. 3045; amended Pub. L. 103–322, title VI, § 60003(a)(13), Sept. 13, 1994, 108 Stat. 1970; Pub. L. 107–273, div. B, title IV, § 4002(a)(4), (b)(7), Nov. 2, 2002, 116 Stat. 1806, 1808; Pub. L. 110–151, § 2, Dec. 21, 2007, 121 Stat. 1821; Pub. L. 111–122, § 3(a), Dec. 22, 2009, 123 Stat. 3481.)
+(Added Pub. L. 100–606, § 2(a), Nov. 4, 1988, 102 Stat. 3045; amended Pub. L. 103–322, title VI, § 60003(a)(13), Sept. 13, 1994, 108 Stat. 1970; Pub. L. 107–273, div. B, title IV, § 4002(a)(4), (b)(7), Nov. 2, 2002, 116 Stat. 1806, 1808; Pub. L. 110–151, § 2, Dec. 21, 2007, 121 Stat. 1821; Pub. L. 111–122, § 3(a), Dec. 22, 2009, 123 Stat. 3481.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2009—Subsec. (a). Pub. L. 111–122, § 3(a)(1), struck out “, in a circumstance described in subsection (d)” before “and with the specific” in introductory provisions and “or attempts to do so,” before “shall be punished” in concluding provisions.
+2009—Subsec. (a). Pub. L. 111–122, § 3(a)(1), struck out “, in a circumstance described in subsection (d)” before “and with the specific” in introductory provisions and “or attempts to do so,” before “shall be punished” in concluding provisions.
 
-Subsec. (c). Pub. L. 111–122, § 3(a)(2), struck out “in a circumstance described in subsection (d)” before “directly”.
+Subsec. (c). Pub. L. 111–122, § 3(a)(2), struck out “in a circumstance described in subsection (d)” before “directly”.
 
-Subsecs. (d) to (f). Pub. L. 111–122, § 3(a)(3), (4), added subsecs. (d) to (f) and struck out former subsecs. (d) and (e) which related to the required circumstance for offenses referred to in subsecs. (a) and (c) and nonapplicability of certain limitations, respectively.
+Subsecs. (d) to (f). Pub. L. 111–122, § 3(a)(3), (4), added subsecs. (d) to (f) and struck out former subsecs. (d) and (e) which related to the required circumstance for offenses referred to in subsecs. (a) and (c) and nonapplicability of certain limitations, respectively.
 
 2007—Subsec. (d). Pub. L. 110–151 added subsec. (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: “The circumstance referred to in subsections (a) and (c) is that—
 
@@ -77,29 +77,29 @@ Subsecs. (d) to (f). Pub. L. 111–122, § 3(a)(3), (4), added subsecs. (d) to
 
 “(2) the alleged offender is a national of the United States (as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101)).”
 
-2002—Subsec. (b)(1). Pub. L. 107–273, § 4002(b)(7), substituted “subsection (a)(1),” for “subsection (a)(1),,”.
+2002—Subsec. (b)(1). Pub. L. 107–273, § 4002(b)(7), substituted “subsection (a)(1),” for “subsection (a)(1),,”.
 
-Pub. L. 107–273, § 4002(a)(4), made technical correction to directory language of Pub. L. 103–322. See 1994 Amendment note below.
+Pub. L. 107–273, § 4002(a)(4), made technical correction to directory language of Pub. L. 103–322. See 1994 Amendment note below.
 
-1994—Subsec. (b)(1). Pub. L. 103–322, as amended by Pub. L. 107–273, § 4002(a)(4), substituted “, where death results, by death or imprisonment for life and a fine of not more than $1,000,000, or both;” for “a fine of not more than $1,000,000 and imprisonment for life,”.
+1994—Subsec. (b)(1). Pub. L. 103–322, as amended by Pub. L. 107–273, § 4002(a)(4), substituted “, where death results, by death or imprisonment for life and a fine of not more than $1,000,000, or both;” for “a fine of not more than $1,000,000 and imprisonment for life,”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. B, title IV, § 4002(a)(4), Nov. 2, 2002, 116 Stat. 1806, provided that the amendment made by section 4002(a)(4) is effective Sept. 13, 1994.
+Pub. L. 107–273, div. B, title IV, § 4002(a)(4), Nov. 2, 2002, 116 Stat. 1806, provided that the amendment made by section 4002(a)(4) is effective Sept. 13, 1994.
 
 **Short Title**
 
-Pub. L. 100–606, § 1, Nov. 4, 1988, 102 Stat. 3045, provided that: “This Act [enacting this chapter] may be cited as the ‘Genocide Convention Implementation Act of 1987 (the Proxmire Act)’.”
+Pub. L. 100–606, § 1, Nov. 4, 1988, 102 Stat. 3045, provided that: “This Act [enacting this chapter] may be cited as the ‘Genocide Convention Implementation Act of 1987 (the Proxmire Act)’.”
 
-## § 1092. Exclusive remedies
+## § 1092. Exclusive remedies
 
 Nothing in this chapter shall be construed as precluding the application of State or local laws to the conduct proscribed by this chapter, nor shall anything in this chapter be construed as creating any substantive or procedural right enforceable by law by any party in any proceeding.
 
-(Added Pub. L. 100–606, § 2(a), Nov. 4, 1988, 102 Stat. 3046.)
+(Added Pub. L. 100–606, § 2(a), Nov. 4, 1988, 102 Stat. 3046.)
 
-## § 1093. Definitions
+## § 1093. Definitions
 
 As used in this chapter—
 
@@ -119,4 +119,4 @@ As used in this chapter—
 
 **(8)** the term “substantial part” means a part of a group of such numerical significance that the destruction or loss of that part would cause the destruction of the group as a viable entity within the nation of which such group is a part.
 
-(Added Pub. L. 100–606, § 2(a), Nov. 4, 1988, 102 Stat. 3046.)
+(Added Pub. L. 100–606, § 2(a), Nov. 4, 1988, 102 Stat. 3046.)

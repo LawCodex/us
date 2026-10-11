@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1990—Pub. L. 101–508, title XI, § 11801(b)(5), Nov. 5, 1990, 104 Stat. 1388–522, struck out item for part IV “Insolvency reorganizations”.
+1990—Pub. L. 101–508, title XI, § 11801(b)(5), Nov. 5, 1990, 104 Stat. 1388–522, struck out item for part IV “Insolvency reorganizations”.
 
-1988—Pub. L. 100–647, title I, § 1006(e)(8)(C), Nov. 10, 1988, 102 Stat. 3401, struck out item for part VII “Miscellaneous corporate provisions”.
+1988—Pub. L. 100–647, title I, § 1006(e)(8)(C), Nov. 10, 1988, 102 Stat. 3401, struck out item for part VII “Miscellaneous corporate provisions”.
 
-1984—Pub. L. 98–369, div. A, title I, § 75(d), July 18, 1984, 98 Stat. 595, added item for part VII.
+1984—Pub. L. 98–369, div. A, title I, § 75(d), July 18, 1984, 98 Stat. 595, added item for part VII.
 
-1976—Pub. L. 94–455, title XIX, § 1901(b)(15), Oct. 4, 1976, 90 Stat. 1796, struck out item for part VII “Effective date of subchapter C.”
+1976—Pub. L. 94–455, title XIX, § 1901(b)(15), Oct. 4, 1976, 90 Stat. 1796, struck out item for part VII “Effective date of subchapter C.”
 
-1969—Pub. L. 91–172, title IV, § 415(b), Dec. 30, 1969, 83 Stat. 614, redesignated item for part VI as VII and added part VI.
+1969—Pub. L. 91–172, title IV, § 415(b), Dec. 30, 1969, 83 Stat. 614, redesignated item for part VI as VII and added part VI.
 
 ## PART I—DISTRIBUTIONS BY CORPORATIONS
 
 ### Subpart A—Effects on Recipients
 
-#### § 301. Distributions of property
+#### § 301. Distributions of property
 
 **(a) In general**
 
@@ -111,71 +111,71 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 **(4)** For taxation of dividends received by individuals at capital gain rates, see section 1(h)(11).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 84; Pub. L. 87–403, § 2(a), Feb. 2, 1962, 76 Stat. 5; Pub. L. 87–834, §§ 5(a), (b), 13(f)(2), Oct. 16, 1962, 76 Stat. 977, 1035; Pub. L. 88–272, title II, § 231(b)(2), Feb. 26, 1964, 78 Stat. 105; Pub. L. 88–484, § 1(b)(1), Aug. 22, 1964, 78 Stat. 597; Pub. L. 89–570, § 1(b)(2), Sept. 12, 1966, 80 Stat. 762; Pub. L. 89–809, title I, § 104(f), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title II, § 211(b)(1), (2), title IX, § 905(b)(2), Dec. 30, 1969, 83 Stat. 570, 714; Pub. L. 92–178, title III, § 312(a), Dec. 10, 1971, 85 Stat. 526; Pub. L. 94–455, title II, § 205(c)(1)(B), (C), title XIX, §§ 1901(a)(41), (b)(32)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1771, 1800, 1834; Pub. L. 95–628, § 3(a), (b), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 98–369, div. A, title I, §§ 54(b), 61(d), title VII, § 712(i)(1), July 18, 1984, 98 Stat. 569, 582, 948; Pub. L. 99–514, title VI, § 612(b)(1), title XVIII, § 1804(f)(2)(B), Oct. 22, 1986, 100 Stat. 2250, 2805; Pub. L. 100–203, title X, § 10222(b)(1), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, § 1006(e)(10)–(12), title II, § 2004(j)(3)(B), Nov. 10, 1988, 102 Stat. 3401, 3402, 3605; Pub. L. 108–27, title III, § 302(e)(2), May 28, 2003, 117 Stat. 763; Pub. L. 113–295, div. A, title II, § 221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 84; Pub. L. 87–403, § 2(a), Feb. 2, 1962, 76 Stat. 5; Pub. L. 87–834, §§ 5(a), (b), 13(f)(2), Oct. 16, 1962, 76 Stat. 977, 1035; Pub. L. 88–272, title II, § 231(b)(2), Feb. 26, 1964, 78 Stat. 105; Pub. L. 88–484, § 1(b)(1), Aug. 22, 1964, 78 Stat. 597; Pub. L. 89–570, § 1(b)(2), Sept. 12, 1966, 80 Stat. 762; Pub. L. 89–809, title I, § 104(f), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title II, § 211(b)(1), (2), title IX, § 905(b)(2), Dec. 30, 1969, 83 Stat. 570, 714; Pub. L. 92–178, title III, § 312(a), Dec. 10, 1971, 85 Stat. 526; Pub. L. 94–455, title II, § 205(c)(1)(B), (C), title XIX, §§ 1901(a)(41), (b)(32)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1771, 1800, 1834; Pub. L. 95–628, § 3(a), (b), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 98–369, div. A, title I, §§ 54(b), 61(d), title VII, § 712(i)(1), July 18, 1984, 98 Stat. 569, 582, 948; Pub. L. 99–514, title VI, § 612(b)(1), title XVIII, § 1804(f)(2)(B), Oct. 22, 1986, 100 Stat. 2250, 2805; Pub. L. 100–203, title X, § 10222(b)(1), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, § 1006(e)(10)–(12), title II, § 2004(j)(3)(B), Nov. 10, 1988, 102 Stat. 3401, 3402, 3605; Pub. L. 108–27, title III, § 302(e)(2), May 28, 2003, 117 Stat. 763; Pub. L. 113–295, div. A, title II, § 221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (e)(2). Pub. L. 113–295 struck out “, 244,” after “section 243” in concluding provisions.
+2014—Subsec. (e)(2). Pub. L. 113–295 struck out “, 244,” after “section 243” in concluding provisions.
 
 2003—Subsec. (f)(4). Pub. L. 108–27 added par. (4).
 
-1988—Subsec. (b)(1). Pub. L. 100–647, § 1006(e)(10), amended par. (1) generally. Prior to amendment, par. (1) contained subpars. (A) to (D) which provided what the amount of any distribution would be for noncorporate distributees, corporate distributees, certain corporate distributees of foreign corporations, and foreign corporate distributees.
+1988—Subsec. (b)(1). Pub. L. 100–647, § 1006(e)(10), amended par. (1) generally. Prior to amendment, par. (1) contained subpars. (A) to (D) which provided what the amount of any distribution would be for noncorporate distributees, corporate distributees, certain corporate distributees of foreign corporations, and foreign corporate distributees.
 
-Subsec. (d). Pub. L. 100–647, § 1006(e)(11), amended subsec. (d) generally. Prior to amendment, subsec. (d) contained pars. (1) to (4) which provided what the basis of property received would be for noncorporate distributees, corporate distributees, foreign corporate distributees, and certain corporate distributees of foreign corporations.
+Subsec. (d). Pub. L. 100–647, § 1006(e)(11), amended subsec. (d) generally. Prior to amendment, subsec. (d) contained pars. (1) to (4) which provided what the basis of property received would be for noncorporate distributees, corporate distributees, foreign corporate distributees, and certain corporate distributees of foreign corporations.
 
-Subsec. (e). Pub. L. 100–647, § 2004(j)(3)(B), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (e). Pub. L. 100–647, § 2004(j)(3)(B), added par. (3) and redesignated former par. (3) as (4).
 
-Pub. L. 100–647, § 1006(e)(12), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to special rule for holding period of appreciated property distributed to corporation.
+Pub. L. 100–647, § 1006(e)(12), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to special rule for holding period of appreciated property distributed to corporation.
 
-Subsecs. (f), (g). Pub. L. 100–647, § 1006(e)(12), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+Subsecs. (f), (g). Pub. L. 100–647, § 1006(e)(12), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
 1987—Subsec. (f)(1). Pub. L. 100–203 substituted “subsections (k) and (n)” for “subsection (n)”.
 
-1986—Subsec. (f)(3). Pub. L. 99–514, § 1804(f)(2)(B), substituted “this subsection” for “this section”.
+1986—Subsec. (f)(3). Pub. L. 99–514, § 1804(f)(2)(B), substituted “this subsection” for “this section”.
 
-Subsec. (g)(4). Pub. L. 99–514, § 612(b)(1), struck out par. (4) which provided: “For partial exclusion from gross income of dividends received by individuals, see section 116.”
+Subsec. (g)(4). Pub. L. 99–514, § 612(b)(1), struck out par. (4) which provided: “For partial exclusion from gross income of dividends received by individuals, see section 116.”
 
-1984—Subsec. (e). Pub. L. 98–369, § 54(b), added subsec. (e). Former subsec. (e) redesignated (f).
+1984—Subsec. (e). Pub. L. 98–369, § 54(b), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(2). Pub. L. 98–369, § 712(i)(1), substituted “complete liquidation” for “partial or complete liquidation” in subsec. (e)(2), which became subsec. (g)(2).
+Subsec. (e)(2). Pub. L. 98–369, § 712(i)(1), substituted “complete liquidation” for “partial or complete liquidation” in subsec. (e)(2), which became subsec. (g)(2).
 
-Subsec. (f). Pub. L. 98–369, § 61(d), added subsec. (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 98–369, § 61(d), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Pub. L. 98–369, § 54(b), redesignated former subsec. (e) as (f).
+Pub. L. 98–369, § 54(b), redesignated former subsec. (e) as (f).
 
-Subsec. (g). Pub. L. 98–369, §§ 54(b), 61(d), redesignated former subsec. (e) successively as subsec. (f) and as subsec. (g).
+Subsec. (g). Pub. L. 98–369, §§ 54(b), 61(d), redesignated former subsec. (e) successively as subsec. (f) and as subsec. (g).
 
-Subsec. (g)(2). Pub. L. 98–369, § 712(i)(1), substituted “complete liquidation” for “partial or complete liquidation” in subsec. (e)(2), which became subsec. (g)(2).
+Subsec. (g)(2). Pub. L. 98–369, § 712(i)(1), substituted “complete liquidation” for “partial or complete liquidation” in subsec. (e)(2), which became subsec. (g)(2).
 
-1978—Subsec. (b)(1)(B)(ii). Pub. L. 95–628, § 3(a), substituted “amount of gain recognized to the distributing corporation on the distribution” for “amount of gain to the distributing corporation which is recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)”.
+1978—Subsec. (b)(1)(B)(ii). Pub. L. 95–628, § 3(a), substituted “amount of gain recognized to the distributing corporation on the distribution” for “amount of gain to the distributing corporation which is recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)”.
 
-Subsec. (d)(2)(B). Pub. L. 95–628, § 3(b), substituted “amount of gain recognized to the distributing corporation on the distribution” for “amount of gain to the distributing corporation which is recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)”.
+Subsec. (d)(2)(B). Pub. L. 95–628, § 3(b), substituted “amount of gain recognized to the distributing corporation on the distribution” for “amount of gain to the distributing corporation which is recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)”.
 
-1976—Subsec. (b)(1)(B)(ii). Pub. L. 94–455, § 205(c)(1)(B), substituted “1252(a), or 1254(a)” for “or 1252(a)”.
+1976—Subsec. (b)(1)(B)(ii). Pub. L. 94–455, § 205(c)(1)(B), substituted “1252(a), or 1254(a)” for “or 1252(a)”.
 
-Subsec. (b)(1)(C). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b)(1)(C). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (d)(2)(B). Pub. L. 94–455, § 205(c)(1)(C), substituted “1252(a), or 1254(a)” for “or 1252(a)”.
+Subsec. (d)(2)(B). Pub. L. 94–455, § 205(c)(1)(C), substituted “1252(a), or 1254(a)” for “or 1252(a)”.
 
-Subsec. (e). Pub. L. 94–455, § 1901(a)(41), (b)(32)(A), redesignated subsec. (g) as (e). Former subsec. (e), which related to exceptions for certain distributions by personal service corporations, was struck out.
+Subsec. (e). Pub. L. 94–455, § 1901(a)(41), (b)(32)(A), redesignated subsec. (g) as (e). Former subsec. (e), which related to exceptions for certain distributions by personal service corporations, was struck out.
 
-Subsec. (f). Pub. L. 94–455, § 1901(b)(32)(A), struck out subsec. (f) which related to special rules for distribution of antitrust stock to corporations.
+Subsec. (f). Pub. L. 94–455, § 1901(b)(32)(A), struck out subsec. (f) which related to special rules for distribution of antitrust stock to corporations.
 
-Subsec. (g). Pub. L. 94–455, § 1901(b)(32)(A), redesignated subsec. (g) as (e).
+Subsec. (g). Pub. L. 94–455, § 1901(b)(32)(A), redesignated subsec. (g) as (e).
 
-1971—Subsec. (b)(1)(B). Pub. L. 92–178, § 312(a)(1), substituted “corporation, unless subparagraph (D) applies” for “corporation” where first appearing.
+1971—Subsec. (b)(1)(B). Pub. L. 92–178, § 312(a)(1), substituted “corporation, unless subparagraph (D) applies” for “corporation” where first appearing.
 
-Subsec. (b)(1)(D). Pub. L. 92–178, § 312(a)(2), added subpar. (D).
+Subsec. (b)(1)(D). Pub. L. 92–178, § 312(a)(2), added subpar. (D).
 
-Subsec. (d)(2). Pub. L. 92–178, § 312(a)(3), substituted “corporation, unless paragraph (3) applies” for “corporation” where first appearing.
+Subsec. (d)(2). Pub. L. 92–178, § 312(a)(3), substituted “corporation, unless paragraph (3) applies” for “corporation” where first appearing.
 
-Subsec. (d)(3), (4). Pub. L. 92–178, § 312(a)(4), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (d)(3), (4). Pub. L. 92–178, § 312(a)(4), added par. (3) and redesignated former par. (3) as (4).
 
-1969—Subsec. (b)(1)(B)(ii). Pub. L. 91–172, §§ 211(b)(1), 905(b)(2), substituted “1250(a), 1251(c), or 1252(a)” for “or 1250(a)” and inserted reference to section 311(a).
+1969—Subsec. (b)(1)(B)(ii). Pub. L. 91–172, §§ 211(b)(1), 905(b)(2), substituted “1250(a), 1251(c), or 1252(a)” for “or 1250(a)” and inserted reference to section 311(a).
 
-Subsec. (d)(2)(B). Pub. L. 91–172, §§ 211(b)(2), 905(b)(2), substituted “1250(a), 1251(c), or 1252(a)”, for “or 1250(a)” and inserted reference to section 311(a).
+Subsec. (d)(2)(B). Pub. L. 91–172, §§ 211(b)(2), 905(b)(2), substituted “1250(a), 1251(c), or 1252(a)”, for “or 1250(a)” and inserted reference to section 311(a).
 
 1966—Subsec. (b)(1)(B)(ii). Pub. L. 89–570 included reference to section 617(d)(1).
 
@@ -191,13 +191,13 @@ Subsec. (d). Pub. L. 88–484 included amount of gain recognized under section 3
 
 Pub. L. 88–272 inserted reference to section 1250(a).
 
-1962—Subsec. (b)(1)(B). Pub. L. 87–834, § 13(f)(2), substituted “subsection (b) or (c) of section 311 or under section 1245(a)” for “subsection (b) or (c) of section 311”.
+1962—Subsec. (b)(1)(B). Pub. L. 87–834, § 13(f)(2), substituted “subsection (b) or (c) of section 311 or under section 1245(a)” for “subsection (b) or (c) of section 311”.
 
-Subsec. (b)(1)(C). Pub. L. 87–834, § 5(a), added subpar. (C).
+Subsec. (b)(1)(C). Pub. L. 87–834, § 5(a), added subpar. (C).
 
-Subsec. (d)(2). Pub. L. 87–834, § 13(f)(2), substituted “subsection (b) or (c) of section 311 or under section 1245(a)” for “subsection (b) or (c) of section 311”.
+Subsec. (d)(2). Pub. L. 87–834, § 13(f)(2), substituted “subsection (b) or (c) of section 311 or under section 1245(a)” for “subsection (b) or (c) of section 311”.
 
-Subsec. (d)(3). Pub. L. 87–834, § 5(b), added par. (3).
+Subsec. (d)(3). Pub. L. 87–834, § 5(b), added par. (3).
 
 Subsecs. (f), (g). Pub. L. 87–403 added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -221,7 +221,7 @@ Amendment by section 2004(j)(3)(B) of Pub. L. 100–647 effective, except as oth
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title X, § 10222(b)(2), Dec. 22, 1987, 101 Stat. 1330–411, as amended by Pub. L. 100–647, title II, § 2004(j)(4), Nov. 10, 1988, 102 Stat. 3605, provided that:
+Pub. L. 100–203, title X, § 10222(b)(2), Dec. 22, 1987, 101 Stat. 1330–411, as amended by Pub. L. 100–647, title II, § 2004(j)(4), Nov. 10, 1988, 102 Stat. 3605, provided that:
 
 > **“(A) In general.—** The amendment made by paragraph (1) [amending this section] shall apply to distributions after December 15, 1987. For purposes of applying such amendment to any such distribution—
 
@@ -233,7 +233,7 @@ Pub. L. 100–203, title X, § 10222(b)(2), Dec. 22, 1987, 101 Stat. 1330–41
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title VI, § 612(c), Oct. 22, 1986, 100 Stat. 2251, provided that: “The amendments made by this section [amending this section and sections 584, 642, 643, 702, 854, and 857 of this title, repealing section 116 of this title, and enacting provisions set out as a note under section 584 of this title] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title VI, § 612(c), Oct. 22, 1986, 100 Stat. 2251, provided that: “The amendments made by this section [amending this section and sections 584, 642, 643, 702, 854, and 857 of this title, repealing section 116 of this title, and enacting provisions set out as a note under section 584 of this title] shall apply to taxable years beginning after December 31, 1986.”
 
 Amendment by section 1804(f)(2)(B) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -241,13 +241,13 @@ Amendment by section 1804(f)(2)(B) of Pub. L. 99–514 effective, except as othe
 
 Amendment by section 54(b) of Pub. L. 98–369 applicable to distributions after July 18, 1984, in taxable years ending after July 18, 1984, see section 54(d)(2) of Pub. L. 98–369, set out as a note under section 311 of this title.
 
-Pub. L. 98–369, div. A, title I, § 61(e)(4), July 18, 1984, 98 Stat. 583, provided that: “The amendment made by subsection (d) [amending this section] shall apply to distributions after the date of the enactment of this Act [July 18, 1984] in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, § 61(e)(4), July 18, 1984, 98 Stat. 583, provided that: “The amendment made by subsection (d) [amending this section] shall apply to distributions after the date of the enactment of this Act [July 18, 1984] in taxable years ending after such date.”
 
 Amendment by section 712(i)(1) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–628, § 3(d), Nov. 10, 1978, 92 Stat. 3628, provided that: “The amendments made by this section [amending this section and section 312 of this title] shall apply to distributions made after the date of the enactment of this Act [Nov. 10, 1978].”
+Pub. L. 95–628, § 3(d), Nov. 10, 1978, 92 Stat. 3628, provided that: “The amendments made by this section [amending this section and section 312 of this title] shall apply to distributions made after the date of the enactment of this Act [Nov. 10, 1978].”
 
 **Effective Date of 1976 Amendment**
 
@@ -257,11 +257,11 @@ Amendment by section 1901(a)(41), (b)(32)(A) of Pub. L. 94–455 effective for t
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 92–178, title III, § 312(b), Dec. 10, 1971, 85 Stat. 526, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to distributions made after November 8, 1971.”
+Pub. L. 92–178, title III, § 312(b), Dec. 10, 1971, 85 Stat. 526, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to distributions made after November 8, 1971.”
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–172, title II, § 211(c), Dec. 30, 1969, 83 Stat. 570, provided that: “The amendments made by this section [enacting section 1251 of this title and amending this section and sections 312, 341, 453, and 751 of this title] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title II, § 211(c), Dec. 30, 1969, 83 Stat. 570, provided that: “The amendments made by this section [enacting section 1251 of this title and amending this section and sections 312, 341, 453, and 751 of this title] shall apply to taxable years beginning after December 31, 1969.”
 
 Amendment by section 905(b)(2) of Pub. L. 91–172 effective with respect to distributions made after Nov. 30, 1969, see section 905(c) of Pub. L. 91–172, set out as a note under section 311 of this title.
 
@@ -273,27 +273,27 @@ Amendment by Pub. L. 89–570 applicable to taxable years ending after Sept. 12,
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–484, § 2, Aug. 22, 1964, 78 Stat. 597, provided that: “The amendments made by the first section of this Act [amending this section and sections 312, 341, and 453 of this title] shall apply with respect to transactions after the date of the enactment of this Act [Aug. 22, 1964] in taxable years ending after such date.”
+Pub. L. 88–484, § 2, Aug. 22, 1964, 78 Stat. 597, provided that: “The amendments made by the first section of this Act [amending this section and sections 312, 341, and 453 of this title] shall apply with respect to transactions after the date of the enactment of this Act [Aug. 22, 1964] in taxable years ending after such date.”
 
 Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending after such date, see section 231(c) of Pub. L. 88–272, set out as an Effective Date note under section 1250 of this title.
 
 **Effective Date of 1962 Amendments**
 
-Pub. L. 87–834, § 5(d), Oct. 16, 1962, 76 Stat. 977, provided that: “The amendments made by this section [amending this section and section 245 of this title] shall apply to distributions made after December 31, 1962.”
+Pub. L. 87–834, § 5(d), Oct. 16, 1962, 76 Stat. 977, provided that: “The amendments made by this section [amending this section and section 245 of this title] shall apply to distributions made after December 31, 1962.”
 
 Amendment by section 13(f)(2) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1962, see section 13(g) of Pub. L. 87–834, set out as an Effective Date note under section 1245 of this title.
 
-Pub. L. 87–403, § 2(b), Feb. 2, 1962, 76 Stat. 6, provided that: “The amendments made by this section [amending this section] shall apply only with respect to distributions made after the date of the enactment of this Act [Feb. 2, 1962].”
+Pub. L. 87–403, § 2(b), Feb. 2, 1962, 76 Stat. 6, provided that: “The amendments made by this section [amending this section] shall apply only with respect to distributions made after the date of the enactment of this Act [Feb. 2, 1962].”
 
 **Study of Corporate Provisions**
 
-Pub. L. 99–514, title VI, § 634, Oct. 22, 1986, 100 Stat. 2282, directed Secretary of the Treasury or his delegate to conduct a study of proposals to reform the provisions of subchapter C of chapter 1 of the Internal Revenue Code of 1986, and not later than Jan. 1, 1988 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, § 11831(b), Nov. 5, 1990, 104 Stat. 1388–559), to submit to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate a report on the study conducted (together with such recommendations he deemed advisable).
+Pub. L. 99–514, title VI, § 634, Oct. 22, 1986, 100 Stat. 2282, directed Secretary of the Treasury or his delegate to conduct a study of proposals to reform the provisions of subchapter C of chapter 1 of the Internal Revenue Code of 1986, and not later than Jan. 1, 1988 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, § 11831(b), Nov. 5, 1990, 104 Stat. 1388–559), to submit to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate a report on the study conducted (together with such recommendations he deemed advisable).
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-#### § 302. Distributions in redemption of stock
+#### § 302. Distributions in redemption of stock
 
 **(a) General rule**
 
@@ -431,29 +431,29 @@ For purposes of determining under subsection (b)(4) whether any stock is held by
 
 **(3) Liquidations.—** Of stock in complete liquidation, see section 331.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 85; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, § 5(b), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, §§ 222(c), 228(a), Sept. 3, 1982, 96 Stat. 478, 493; Pub. L. 98–369, div. A, title VII, § 712(i)(1), July 18, 1984, 98 Stat. 948; Pub. L. 111–325, title III, § 306(a), Dec. 22, 2010, 124 Stat. 3549.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 85; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, § 5(b), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, §§ 222(c), 228(a), Sept. 3, 1982, 96 Stat. 478, 493; Pub. L. 98–369, div. A, title VII, § 712(i)(1), July 18, 1984, 98 Stat. 948; Pub. L. 111–325, title III, § 306(a), Dec. 22, 2010, 124 Stat. 3549.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–325, § 306(a)(2), substituted “(4), or (5)” for “or (4)”.
+2010—Subsec. (a). Pub. L. 111–325, § 306(a)(2), substituted “(4), or (5)” for “or (4)”.
 
-Subsec. (b)(5), (6). Pub. L. 111–325, § 306(a)(1), added par. (5) and redesignated former par. (5) as (6).
+Subsec. (b)(5), (6). Pub. L. 111–325, § 306(a)(1), added par. (5) and redesignated former par. (5) as (6).
 
 1984—Subsec. (f)(3). Pub. L. 98–369 substituted “complete liquidation” for “partial or complete liquidation”.
 
-1982—Subsec. (a). Pub. L. 97–248, § 222(c)(3), substituted “paragraph (1), (2), (3), or (4)” for “paragraph (1), (2), or (3)”.
+1982—Subsec. (a). Pub. L. 97–248, § 222(c)(3), substituted “paragraph (1), (2), (3), or (4)” for “paragraph (1), (2), or (3)”.
 
-Subsec. (b)(4), (5). Pub. L. 97–248, § 222(c)(1), (4), added par. (4), redesignated former par. (4) as (5) and substituted “paragraph (2), (3), or (4)” for “paragraph (2) or (3)” after “to meet the requirements of”, and “paragraph (1), (2), or (4)” for “paragraph (1) or (2)” after “and also the requirements of”.
+Subsec. (b)(4), (5). Pub. L. 97–248, § 222(c)(1), (4), added par. (4), redesignated former par. (4) as (5) and substituted “paragraph (2), (3), or (4)” for “paragraph (2) or (3)” after “to meet the requirements of”, and “paragraph (1), (2), or (4)” for “paragraph (1) or (2)” after “and also the requirements of”.
 
-Subsec. (c)(2)(C). Pub. L. 97–248, § 228(a), added subpar. (C).
+Subsec. (c)(2)(C). Pub. L. 97–248, § 228(a), added subpar. (C).
 
-Subsecs. (e), (f). Pub. L. 97–248, § 222(c)(2), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 97–248, § 222(c)(2), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1980—Subsec. (a). Pub. L. 96–589, § 5(b)(2)(A), struck out reference to par. (4) of subsec. (b).
+1980—Subsec. (a). Pub. L. 96–589, § 5(b)(2)(A), struck out reference to par. (4) of subsec. (b).
 
-Subsec. (b)(4), (5). Pub. L. 96–589, § 5(b)(1), (2)(B), redesignated par. (5) as (4) and struck out reference to par. (4) in two places. Former par. (4) was struck out.
+Subsec. (b)(4), (5). Pub. L. 96–589, § 5(b)(1), (2)(B), redesignated par. (5) as (4) and struck out reference to par. (4) in two places. Former par. (4) was struck out.
 
 1976—Subsec. (c)(2). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -469,9 +469,9 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 **Effective Date of 1982 Amendment; Partial Liquidations**
 
-Pub. L. 97–248, title II, § 228(b), Sept. 3, 1982, 96 Stat. 493, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to distributions after August 31, 1982, in taxable years ending after such date.”
+Pub. L. 97–248, title II, § 228(b), Sept. 3, 1982, 96 Stat. 493, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to distributions after August 31, 1982, in taxable years ending after such date.”
 
-Pub. L. 97–248, title II, § 222(f), Sept. 3, 1982, 96 Stat. 481, as amended by Pub. L. 97–448, title III, § 306(a)(6)(A), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title II, § 222(f), Sept. 3, 1982, 96 Stat. 481, as amended by Pub. L. 97–448, title III, § 306(a)(6)(A), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and sections 306, 312, 331, 334, 336, 341, 346, 543, and 562 of this title and repealing section 338 of this title] shall apply to distributions after August 31, 1982.
 
@@ -537,7 +537,7 @@ Amendment by Pub. L. 96–589 applicable to stock which is issued after Dec. 31,
 
 Applicability of subsec. (b)(1) to the determination of gross investment income under sections 4940 and 4948(a) of this title, see section 101(*l*)(8) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 
-#### § 303. Distributions in redemption of stock to pay death taxes
+#### § 303. Distributions in redemption of stock to pay death taxes
 
 **(a) In general** A distribution of property to a shareholder by a corporation in redemption of part or all of the stock of such corporation which (for Federal estate tax purposes) is included in determining the gross estate of a decedent, to the extent that the amount of such distribution does not exceed the sum of—
 
@@ -599,7 +599,7 @@ then, subject to the limitation specified in subsection (b), subsection (a) shal
 
 **(4)** the relationship of stock to the decedent’s estate shall be measured with reference solely to the amount of the generation-skipping transfer.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 88; Pub. L. 94–455, title XX, §§ 2004(e), 2006(b)(4), Oct. 4, 1976, 90 Stat. 1871, 1889; Pub. L. 97–34, title IV, § 422(b), (e)(1), Aug. 13, 1981, 95 Stat. 314, 316; Pub. L. 99–514, title XIV, § 1432(b), Oct. 22, 1986, 100 Stat. 2730.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 88; Pub. L. 94–455, title XX, §§ 2004(e), 2006(b)(4), Oct. 4, 1976, 90 Stat. 1871, 1889; Pub. L. 97–34, title IV, § 422(b), (e)(1), Aug. 13, 1981, 95 Stat. 314, 316; Pub. L. 99–514, title XIV, § 1432(b), Oct. 22, 1986, 100 Stat. 2730.)
 
 **Editorial Notes**
 
@@ -615,23 +615,23 @@ then, subject to the limitation specified in subsection (b), subsection (a) shal
 
 “(4) the relationship of stock to the decedent’s estate shall be measured with reference solely to the amount of the generation-skipping transfer.”
 
-1981—Subsec. (b)(1)(C). Pub. L. 97–34, § 422(e)(1), struck out “or 6166A” after “section 6166” in two places.
+1981—Subsec. (b)(1)(C). Pub. L. 97–34, § 422(e)(1), struck out “or 6166A” after “section 6166” in two places.
 
-Subsec. (b)(2)(A). Pub. L. 97–34, § 422(b)(1), substituted “35” for “50” before percent.
+Subsec. (b)(2)(A). Pub. L. 97–34, § 422(b)(1), substituted “35” for “50” before percent.
 
-Subsec. (b)(2)(B). Pub. L. 97–34, § 422(b)(2), in heading, substituted “stock in 2” for “stock of two”, in first sentence, struck out “the 50 percent requirement” before “of subparagraph (A)” and substituted “2” for “two” and “20 percent or more in value” for “more than 75 percent in value”, and, in last sentence, substituted “For purposes of the 20-percent requirement” for “For the purpose of the 75 percent requirement” and, in determining value of decedent’s gross estate, treated the estate as including stock which at decedent’s death represented surviving spouse’s interest in property held by the decedent and surviving spouse either as joint tenants, tenants by the entirety, or tenants in common.
+Subsec. (b)(2)(B). Pub. L. 97–34, § 422(b)(2), in heading, substituted “stock in 2” for “stock of two”, in first sentence, struck out “the 50 percent requirement” before “of subparagraph (A)” and substituted “2” for “two” and “20 percent or more in value” for “more than 75 percent in value”, and, in last sentence, substituted “For purposes of the 20-percent requirement” for “For the purpose of the 75 percent requirement” and, in determining value of decedent’s gross estate, treated the estate as including stock which at decedent’s death represented surviving spouse’s interest in property held by the decedent and surviving spouse either as joint tenants, tenants by the entirety, or tenants in common.
 
-1976—Subsec. (b)(1)(C). Pub. L. 94–455, § 2004(e)(1), added subpar. (C).
+1976—Subsec. (b)(1)(C). Pub. L. 94–455, § 2004(e)(1), added subpar. (C).
 
-Subsec. (b)(2)(A). Pub. L. 94–455, § 2004(e)(2)(A), substituted provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent’s gross estate exceeds 50 percent of the gross estate over deductions allowed under sections 2053 and 2054 for provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent’s gross estate is either more than 35 percent of the gross estate or 50 percent of the taxable estate.
+Subsec. (b)(2)(A). Pub. L. 94–455, § 2004(e)(2)(A), substituted provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent’s gross estate exceeds 50 percent of the gross estate over deductions allowed under sections 2053 and 2054 for provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent’s gross estate is either more than 35 percent of the gross estate or 50 percent of the taxable estate.
 
-Subsec. (b)(2)(B). Pub. L. 94–455, § 2004(e)(2)(B), substituted “the 50 percent requirement” for “the 35 percent and 50 percent requirements”.
+Subsec. (b)(2)(B). Pub. L. 94–455, § 2004(e)(2)(B), substituted “the 50 percent requirement” for “the 35 percent and 50 percent requirements”.
 
-Subsec. (b)(3), (4). Pub. L. 94–455, § 2004(e)(3), added pars. (3) and (4).
+Subsec. (b)(3), (4). Pub. L. 94–455, § 2004(e)(3), added pars. (3) and (4).
 
-Subsec. (c). Pub. L. 94–455, § 2004(e)(4), substituted “limitation specified in subsection (b)” for “limitation specified in subsection (b)(1)”.
+Subsec. (c). Pub. L. 94–455, § 2004(e)(4), substituted “limitation specified in subsection (b)” for “limitation specified in subsection (b)(1)”.
 
-Subsec. (d). Pub. L. 94–455, § 2006(b)(4), added subsec. (d).
+Subsec. (d). Pub. L. 94–455, § 2006(b)(4), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -649,7 +649,7 @@ Amendment by section 2004(e)(1)–(4) of Pub. L. 94–455 applicable to estates 
 
 For effective date of amendment by section 2006(b)(4) of Pub. L. 94–455, see section 2006(c) of Pub. L. 94–455, set out as an Effective Date note under section 2601 of this title.
 
-#### § 304. Redemption through use of related corporations
+#### § 304. Redemption through use of related corporations
 
 **(a) Treatment of certain stock purchases**
 
@@ -807,7 +807,7 @@ Section 318(a) (relating to constructive ownership of stock) shall apply for pur
 
 **(II)** in any case where such paragraph would not apply but for subclause (I), by considering a corporation as owning the stock (other than stock in such corporation) owned by or for any shareholder of such corporation in that proportion which the value of the stock which such shareholder owned in such corporation bears to the value of all stock in such corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 89; Pub. L. 88–554, § 4(b)(1), Aug. 31, 1964, 78 Stat. 763; Pub. L. 97–248, title II, § 226(a)(1)(A), (2), (3), Sept. 3, 1982, 96 Stat. 490, 491; Pub. L. 98–369, div. A, title VII, § 712(*l*)(1)–(5)(A), July 18, 1984, 98 Stat. 953, 954; Pub. L. 99–514, title XVIII, § 1875(b), Oct. 22, 1986, 100 Stat. 2894; Pub. L. 100–203, title X, § 10223(c), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title II, § 2004(k)(2), Nov. 10, 1988, 102 Stat. 3605; Pub. L. 105–34, title X, § 1013(a), (c), Aug. 5, 1997, 111 Stat. 918; Pub. L. 105–206, title VI, § 6010(d), July 22, 1998, 112 Stat. 814; Pub. L. 111–226, title II, § 215(a), Aug. 10, 2010, 124 Stat. 2399; Pub. L. 113–295, div. A, title II, § 221(a)(48), Dec. 19, 2014, 128 Stat. 4045.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 89; Pub. L. 88–554, § 4(b)(1), Aug. 31, 1964, 78 Stat. 763; Pub. L. 97–248, title II, § 226(a)(1)(A), (2), (3), Sept. 3, 1982, 96 Stat. 490, 491; Pub. L. 98–369, div. A, title VII, § 712(*l*)(1)–(5)(A), July 18, 1984, 98 Stat. 953, 954; Pub. L. 99–514, title XVIII, § 1875(b), Oct. 22, 1986, 100 Stat. 2894; Pub. L. 100–203, title X, § 10223(c), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title II, § 2004(k)(2), Nov. 10, 1988, 102 Stat. 3605; Pub. L. 105–34, title X, § 1013(a), (c), Aug. 5, 1997, 111 Stat. 918; Pub. L. 105–206, title VI, § 6010(d), July 22, 1998, 112 Stat. 814; Pub. L. 111–226, title II, § 215(a), Aug. 10, 2010, 124 Stat. 2399; Pub. L. 113–295, div. A, title II, § 221(a)(48), Dec. 19, 2014, 128 Stat. 4045.)
 
 **Editorial Notes**
 
@@ -817,19 +817,19 @@ Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (b)
 
 **Amendments**
 
-2014—Subsec. (b)(3)(D). Pub. L. 113–295, § 221(a)(48)(B), struck out “and special rule” after “Definitions” in heading.
+2014—Subsec. (b)(3)(D). Pub. L. 113–295, § 221(a)(48)(B), struck out “and special rule” after “Definitions” in heading.
 
-Subsec. (b)(3)(D)(iii). Pub. L. 113–295, § 221(a)(48)(A), struck out cl. (iii). Text read as follows: “In the case of a BHC which is formed before 1985, clause (i) of subparagraph (C) shall not apply.”
+Subsec. (b)(3)(D)(iii). Pub. L. 113–295, § 221(a)(48)(A), struck out cl. (iii). Text read as follows: “In the case of a BHC which is formed before 1985, clause (i) of subparagraph (C) shall not apply.”
 
 2010—Subsec. (b)(5)(B), (C). Pub. L. 111–226 added subpar. (B) and redesignated former subpar. (B) as (C).
 
-1998—Subsec. (b)(5)(B), (C). Pub. L. 105–206, § 6010(d)(1), redesignated subpar. (C) as (B) and struck out heading and text of former subpar. (B). Text read as follows: “For purposes of subparagraph (A), the rules of section 1248(d) shall apply except to the extent otherwise provided by the Secretary.”
+1998—Subsec. (b)(5)(B), (C). Pub. L. 105–206, § 6010(d)(1), redesignated subpar. (C) as (B) and struck out heading and text of former subpar. (B). Text read as follows: “For purposes of subparagraph (A), the rules of section 1248(d) shall apply except to the extent otherwise provided by the Secretary.”
 
-Subsec. (b)(6). Pub. L. 105–206, § 6010(d)(2), added par. (6).
+Subsec. (b)(6). Pub. L. 105–206, § 6010(d)(2), added par. (6).
 
-1997—Subsec. (a)(1). Pub. L. 105–34, § 1013(a), amended last sentence generally. Prior to amendment, last sentence read as follows: “To the extent that such distribution is treated as a distribution to which section 301 applies, the stock so acquired shall be treated as having been transferred by the person from whom acquired, and as having been received by the corporation acquiring it, as a contribution to the capital of such corporation.”
+1997—Subsec. (a)(1). Pub. L. 105–34, § 1013(a), amended last sentence generally. Prior to amendment, last sentence read as follows: “To the extent that such distribution is treated as a distribution to which section 301 applies, the stock so acquired shall be treated as having been transferred by the person from whom acquired, and as having been received by the corporation acquiring it, as a contribution to the capital of such corporation.”
 
-Subsec. (b)(5). Pub. L. 105–34, § 1013(c), added par. (5).
+Subsec. (b)(5). Pub. L. 105–34, § 1013(c), added par. (5).
 
 1988—Subsec. (b)(4)(A). Pub. L. 100–647 substituted “stock from 1 member” for “stock of 1 member”.
 
@@ -837,23 +837,23 @@ Subsec. (b)(5). Pub. L. 105–34, § 1013(c), added par. (5).
 
 1986—Subsec. (a)(1). Pub. L. 99–514 substituted “To the extent that such distribution is treated as a distribution to which section 301 applies” for “In any such case” in last sentence.
 
-1984—Subsec. (b)(2). Pub. L. 98–369, § 712(*l*)(1), consolidated former subpars. “(A) Where subsection (a)(1) applies” and “(B) Where subsection (a)(2) applies” in one paragraph, inserted provision respecting source of dividend, and incorporated in cls. (A) and (B) former subpar. (A) and (B) provisions which had required determination of amount which is a dividend to be made by reference to earnings and profits of the acquiring corporation and as if the property were distributed by the acquiring corporation to the issuing corporation and immediately thereafter distributed by the issuing corporation.
+1984—Subsec. (b)(2). Pub. L. 98–369, § 712(*l*)(1), consolidated former subpars. “(A) Where subsection (a)(1) applies” and “(B) Where subsection (a)(2) applies” in one paragraph, inserted provision respecting source of dividend, and incorporated in cls. (A) and (B) former subpar. (A) and (B) provisions which had required determination of amount which is a dividend to be made by reference to earnings and profits of the acquiring corporation and as if the property were distributed by the acquiring corporation to the issuing corporation and immediately thereafter distributed by the issuing corporation.
 
-Subsec. (b)(3)(A). Pub. L. 98–369, § 712(*l*)(2), substituted “section 351 and not so much of sections 357 and 358 as relates to section 351” for “part III”.
+Subsec. (b)(3)(A). Pub. L. 98–369, § 712(*l*)(2), substituted “section 351 and not so much of sections 357 and 358 as relates to section 351” for “part III”.
 
-Subsec. (b)(3)(B)(i). Pub. L. 98–369, § 712(*l*)(3)(A)(i), substituted “In the case of an acquisition described in section 351, subsection (a)” for “Subsection (a)”.
+Subsec. (b)(3)(B)(i). Pub. L. 98–369, § 712(*l*)(3)(A)(i), substituted “In the case of an acquisition described in section 351, subsection (a)” for “Subsection (a)”.
 
-Subsec. (b)(3)(B)(iii). Pub. L. 98–369, § 712(*l*)(3)(B), added cl. (iii).
+Subsec. (b)(3)(B)(iii). Pub. L. 98–369, § 712(*l*)(3)(B), added cl. (iii).
 
-Subsec. (b)(3)(C). Pub. L. 98–369, § 712(*l*)(4), inserted following cl. (iii) “For purposes of this subparagraph, any assumption of (or acquisition of stock subject to) a liability under subparagraph (B) shall not be treated as a distribution of property.”
+Subsec. (b)(3)(C). Pub. L. 98–369, § 712(*l*)(4), inserted following cl. (iii) “For purposes of this subparagraph, any assumption of (or acquisition of stock subject to) a liability under subparagraph (B) shall not be treated as a distribution of property.”
 
-Subsec. (c)(3). Pub. L. 98–369, § 712(*l*)(5)(A), designated existing first sentence as subpar. “(A) In general” and substituted subpar. (B) for former second sentence which read “For purposes of the preceding sentence, sections 318(a)(2)(C) and 318(a)(3)(C) shall be applied without regard to the 50 percent limitation contained therein.”
+Subsec. (c)(3). Pub. L. 98–369, § 712(*l*)(5)(A), designated existing first sentence as subpar. “(A) In general” and substituted subpar. (B) for former second sentence which read “For purposes of the preceding sentence, sections 318(a)(2)(C) and 318(a)(3)(C) shall be applied without regard to the 50 percent limitation contained therein.”
 
-1982—Subsec. (b)(2)(A). Pub. L. 97–248, § 226(a)(3), substituted “as if the property were distributed by the issuing corporation to the acquiring corporation and immediately thereafter distributed by the acquiring corporation” for “soley by reference to the earnings and profits of the acquiring corporation” after “dividend shall be made”.
+1982—Subsec. (b)(2)(A). Pub. L. 97–248, § 226(a)(3), substituted “as if the property were distributed by the issuing corporation to the acquiring corporation and immediately thereafter distributed by the acquiring corporation” for “soley by reference to the earnings and profits of the acquiring corporation” after “dividend shall be made”.
 
-Subsec. (b)(3). Pub. L. 97–248, § 226(a)(1)(A), added par. (3).
+Subsec. (b)(3). Pub. L. 97–248, § 226(a)(1)(A), added par. (3).
 
-Subsec. (c)(2), (3). Pub. L. 97–248, § 226(a)(2), added par. (2), redesignated former par. (2) as (3) and substituted “this section” for “paragraph (1)” after “determining control under”.
+Subsec. (c)(2), (3). Pub. L. 97–248, § 226(a)(2), added par. (2), redesignated former par. (2) as (3) and substituted “this section” for “paragraph (1)” after “determining control under”.
 
 1964—Subsecs. (b)(1), (c)(2). Pub. L. 88–554 inserted reference to section 318(a)(3)(C) of this title.
 
@@ -865,7 +865,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–226, title II, § 215(b), Aug. 10, 2010, 124 Stat. 2400, provided that: “The amendments made by this section [amending this section] shall apply to acquisitions after the date of the enactment of this Act [Aug. 10, 2010].”
+Pub. L. 111–226, title II, § 215(b), Aug. 10, 2010, 124 Stat. 2400, provided that: “The amendments made by this section [amending this section] shall apply to acquisitions after the date of the enactment of this Act [Aug. 10, 2010].”
 
 **Effective Date of 1998 Amendment**
 
@@ -873,7 +873,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title I, § 1013(d), Aug. 5, 1997, 111 Stat. 918, provided that:
+Pub. L. 105–34, title I, § 1013(d), Aug. 5, 1997, 111 Stat. 918, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and section 1059 of this title] shall apply to distributions and acquisitions after June 8, 1997.
 
@@ -891,7 +891,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title X, § 10223(d), Dec. 22, 1987, 101 Stat. 1330–412, as amended by Pub. L. 100–647, title II, § 2004(k)(3), (4), Nov. 10, 1988, 102 Stat. 3605, 3606, provided that:
+Pub. L. 100–203, title X, § 10223(d), Dec. 22, 1987, 101 Stat. 1330–412, as amended by Pub. L. 100–647, title II, § 2004(k)(3), (4), Nov. 10, 1988, 102 Stat. 3605, 3606, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and sections 337 and 355 of this title] shall apply to distributions or transfers after December 15, 1987.
 
@@ -931,7 +931,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title VII, § 712(*l*)(7), July 18, 1984, 98 Stat. 954, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title VII, § 712(*l*)(7), July 18, 1984, 98 Stat. 954, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(A) In general.—** Except as otherwise provided in this paragraph, the amendments made by paragraphs (1) and (3) [amending this section] shall apply to stock acquired after June 18, 1984, in taxable years ending after such date.
 
@@ -949,7 +949,7 @@ Amendment by section 712(*l*)(2), (4), (5)(A) of Pub. L. 98–369 effective as i
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title II, § 226(c), Sept. 3, 1982, 96 Stat. 492, provided that:
+Pub. L. 97–248, title II, § 226(c), Sept. 3, 1982, 96 Stat. 492, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 306 and 351 of this title] shall apply to transfers occurring after August 31, 1982, in taxable years ending after such date.
 
@@ -965,11 +965,11 @@ Pub. L. 97–248, title II, § 226(c), Sept. 3, 1982, 96 Stat. 492, provided t
 
 Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes of this section and section 302 of this title, such amendments shall not apply to distributions in payment for stock acquisitions or redemptions, if such acquisition or redemption occurred before Aug. 31, 1964, see section 4(c) of Pub. L. 88–554, set out as a note under section 318 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-#### § 305. Distributions of stock and stock rights
+#### § 305. Distributions of stock and stock rights
 
 **(a) General rule**
 
@@ -1073,7 +1073,7 @@ For treatment of stripped interests in certain accounts or entities holding pref
 
 **(3)** In the case of a distribution which has the effect of the payment of compensation, see section 61(a)(1).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 91–172, title IV, § 421(a), Dec. 30, 1969, 83 Stat. 614; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title III, § 321(a), (b), Aug. 13, 1981, 95 Stat. 287, 289; Pub. L. 97–448, title I, § 103(f), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 101–508, title XI, §§ 11322(a), 11801(a)(17), (c)(7), Nov. 5, 1990, 104 Stat. 1388–463, 1388–521, 1388–524; Pub. L. 103–66, title XIII, § 13206(c)(1), Aug. 10, 1993, 107 Stat. 465; Pub. L. 108–357, title VIII, § 831(b), Oct. 22, 2004, 118 Stat. 1587; Pub. L. 115–141, div. U, title IV, § 401(c)(2)(D), Mar. 23, 2018, 132 Stat. 1206.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 91–172, title IV, § 421(a), Dec. 30, 1969, 83 Stat. 614; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title III, § 321(a), (b), Aug. 13, 1981, 95 Stat. 287, 289; Pub. L. 97–448, title I, § 103(f), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 101–508, title XI, §§ 11322(a), 11801(a)(17), (c)(7), Nov. 5, 1990, 104 Stat. 1388–463, 1388–521, 1388–524; Pub. L. 103–66, title XIII, § 13206(c)(1), Aug. 10, 1993, 107 Stat. 465; Pub. L. 108–357, title VIII, § 831(b), Oct. 22, 2004, 118 Stat. 1587; Pub. L. 115–141, div. U, title IV, § 401(c)(2)(D), Mar. 23, 2018, 132 Stat. 1206.)
 
 **Editorial Notes**
 
@@ -1085,19 +1085,19 @@ For treatment of stripped interests in certain accounts or entities holding pref
 
 1993—Subsecs. (e), (f). Pub. L. 103–66 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1990—Subsec. (c). Pub. L. 101–508, § 11322(a), inserted sentence at end specifying the contents of regulations.
+1990—Subsec. (c). Pub. L. 101–508, § 11322(a), inserted sentence at end specifying the contents of regulations.
 
-Subsec. (d)(1). Pub. L. 101–508, § 11801(c)(7)(A), struck out “(other than subsection (e))” after “this section”.
+Subsec. (d)(1). Pub. L. 101–508, § 11801(c)(7)(A), struck out “(other than subsection (e))” after “this section”.
 
-Subsecs. (e), (f). Pub. L. 101–508, § 11801(a)(17), (c)(7)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) relating to dividend reinvestment in stock of public utilities.
+Subsecs. (e), (f). Pub. L. 101–508, § 11801(a)(17), (c)(7)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) relating to dividend reinvestment in stock of public utilities.
 
-1983—Subsec. (e)(3)(A). Pub. L. 97–448, § 103(f)(1), substituted “placed in service qualified long-life public utility property having a cost equal to at least 60 percent of the aggregate cost of all tangible property described in subparagraph (A) or (B) of section 1245(a)(3) placed in service by the corporation during such period” for “acquired public utility recovery property having a cost equal to at least 60 percent of the aggregate cost of all tangible property described in section 1245(a)(3) (other than subparagraphs (C) and (D) thereof) acquired by the corporation during such period”.
+1983—Subsec. (e)(3)(A). Pub. L. 97–448, § 103(f)(1), substituted “placed in service qualified long-life public utility property having a cost equal to at least 60 percent of the aggregate cost of all tangible property described in subparagraph (A) or (B) of section 1245(a)(3) placed in service by the corporation during such period” for “acquired public utility recovery property having a cost equal to at least 60 percent of the aggregate cost of all tangible property described in section 1245(a)(3) (other than subparagraphs (C) and (D) thereof) acquired by the corporation during such period”.
 
-Subsec. (e)(3)(C)(ii). Pub. L. 97–448, § 103(f)(2), substituted definition of “qualified long-life public utility property” for definition of “public utility recovery property” which had been defined as public utility property (within the meaning of section 167(*l*)(3)(A)) which was recovery property which was 10-year property or 15-year public utility property (within the meaning of section 168), except that any requirement that the property be placed in service after December 31, 1980, did not apply.
+Subsec. (e)(3)(C)(ii). Pub. L. 97–448, § 103(f)(2), substituted definition of “qualified long-life public utility property” for definition of “public utility recovery property” which had been defined as public utility property (within the meaning of section 167(*l*)(3)(A)) which was recovery property which was 10-year property or 15-year public utility property (within the meaning of section 168), except that any requirement that the property be placed in service after December 31, 1980, did not apply.
 
-1981—Subsec. (d)(1). Pub. L. 97–34, § 321(b), inserted “(other than subsection (e))” after “this section”.
+1981—Subsec. (d)(1). Pub. L. 97–34, § 321(b), inserted “(other than subsection (e))” after “this section”.
 
-Subsecs. (e), (f). Pub. L. 97–34, § 321(a), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 97–34, § 321(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 1976—Subsecs. (b)(5), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
@@ -1111,11 +1111,11 @@ Subsecs. (c) to (e). Pub. L. 91–172 added subsecs. (c) and (d) and redesignate
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–141, div. U, title IV, § 401(c)(2)(E), Mar. 23, 2018, 132 Stat. 1206, provided that: “The amendments made by this paragraph [amending this section and section 1286 of this title] shall apply to bonds purchased on or after July 2, 1982.”
+Pub. L. 115–141, div. U, title IV, § 401(c)(2)(E), Mar. 23, 2018, 132 Stat. 1206, provided that: “The amendments made by this paragraph [amending this section and section 1286 of this title] shall apply to bonds purchased on or after July 2, 1982.”
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 831(c), Oct. 22, 2004, 118 Stat. 1587, provided that: “The amendments made by this section [amending this section and section 1286 of this title] shall apply to purchases and dispositions after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 831(c), Oct. 22, 2004, 118 Stat. 1587, provided that: “The amendments made by this section [amending this section and section 1286 of this title] shall apply to purchases and dispositions after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 1993 Amendment**
 
@@ -1123,7 +1123,7 @@ Amendment by Pub. L. 103–66 effective Apr. 30, 1993, see section 13206(c)(3) o
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11322(b), Nov. 5, 1990, 104 Stat. 1388–464, provided that:
+Pub. L. 101–508, title XI, § 11322(b), Nov. 5, 1990, 104 Stat. 1388–464, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendment made by subsection (a) [amending this section] shall apply to stock issued after October 9, 1990.
 
@@ -1141,11 +1141,11 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–34, title III, § 321(c), Aug. 13, 1981, 95 Stat. 289, provided that: “The amendments made by this section [amending this section] shall apply to distributions after December 31, 1981, in taxable years ending after such date.”
+Pub. L. 97–34, title III, § 321(c), Aug. 13, 1981, 95 Stat. 289, provided that: “The amendments made by this section [amending this section] shall apply to distributions after December 31, 1981, in taxable years ending after such date.”
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–172, title IV, § 421(b), Dec. 30, 1969, 83 Stat. 615, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–172, title IV, § 421(b), Dec. 30, 1969, 83 Stat. 615, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** Except as otherwise provided in this subsection, the amendment made by subsection (a) [amending this section] shall apply with respect to distributions (or deemed distributions) made after January 10, 1969, in taxable years ending after such date.
 
@@ -1179,7 +1179,7 @@ Pub. L. 91–172, title IV, § 421(b), Dec. 30, 1969, 83 Stat. 615, as amended
 
 For provisions that nothing in amendment by section 11801(a)(17), (c)(7) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-#### § 306. Dispositions of certain stock
+#### § 306. Dispositions of certain stock
 
 **(a) General rule** If a shareholder sells or otherwise disposes of section 306 stock (as defined in subsection (c))—
 
@@ -1297,7 +1297,7 @@ The amount treated under subsection (a)(1)(A) as ordinary income shall, for purp
 
 **(3)** subsection (c)(2) shall not apply unless the stock meets the requirements of such subsection both at the time of such distribution and at the time of such change.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 94–455, title XIX, §§ 1901(b)(3)(J), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–600, title VII, § 702(a)(1), (2), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–223, title IV, § 401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–248, title II, §§ 222(e)(1)(A), (2), 226(b), 227(a), Sept. 3, 1982, 96 Stat. 480, 492; Pub. L. 98–369, div. A, title VII, § 712(i)(2), (*l*)(5)(B), (6), July 18, 1984, 98 Stat. 948, 954; Pub. L. 101–508, title XI, § 11801(a)(18), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 108–27, title III, § 302(e)(3), May 28, 2003, 117 Stat. 763.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 94–455, title XIX, §§ 1901(b)(3)(J), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–600, title VII, § 702(a)(1), (2), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–223, title IV, § 401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–248, title II, §§ 222(e)(1)(A), (2), 226(b), 227(a), Sept. 3, 1982, 96 Stat. 480, 492; Pub. L. 98–369, div. A, title VII, § 712(i)(2), (*l*)(5)(B), (6), July 18, 1984, 98 Stat. 948, 954; Pub. L. 101–508, title XI, § 11801(a)(18), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 108–27, title III, § 302(e)(3), May 28, 2003, 117 Stat. 763.)
 
 **Editorial Notes**
 
@@ -1307,31 +1307,31 @@ The amount treated under subsection (a)(1)(A) as ordinary income shall, for purp
 
 1990—Subsec. (h). Pub. L. 101–508 struck out subsec. (h) which related to stock received in distributions and reorganizations to which 1939 Code applied.
 
-1984—Subsec. (b)(1). Pub. L. 98–369, § 712(i)(2), substituted “interest, etc.” for “interest” in heading.
+1984—Subsec. (b)(1). Pub. L. 98–369, § 712(i)(2), substituted “interest, etc.” for “interest” in heading.
 
-Subsec. (c)(3). Pub. L. 98–369, § 712(*l*)(6), incorporated existing second sentence in provision designated subpar. (A) and added subpar. (B).
+Subsec. (c)(3). Pub. L. 98–369, § 712(*l*)(6), incorporated existing second sentence in provision designated subpar. (A) and added subpar. (B).
 
-Subsec. (c)(4). Pub. L. 98–369, § 712(*l*)(5)(B), substituted “the rules of section 304(c)(3)(B) shall apply” for “sections 318(a)(2)(C) and 318(a)(3)(C) shall be applied without regard to the 50 percent limitation contained therein”.
+Subsec. (c)(4). Pub. L. 98–369, § 712(*l*)(5)(B), substituted “the rules of section 304(c)(3)(B) shall apply” for “sections 318(a)(2)(C) and 318(a)(3)(C) shall be applied without regard to the 50 percent limitation contained therein”.
 
-1982—Subsec. (b)(1)(B). Pub. L. 97–248, § 222(e)(2), substituted “paragraph (3) or (4) of section 302(b)” for “section 302(b)(3)”.
+1982—Subsec. (b)(1)(B). Pub. L. 97–248, § 222(e)(2), substituted “paragraph (3) or (4) of section 302(b)” for “section 302(b)(3)”.
 
-Subsec. (b)(2). Pub. L. 97–248, § 222(e)(1)(A), struck out “partial or” before “complete liquidation”.
+Subsec. (b)(2). Pub. L. 97–248, § 222(e)(1)(A), struck out “partial or” before “complete liquidation”.
 
-Subsec. (c)(3). Pub. L. 97–248, § 226(b), added par. (3).
+Subsec. (c)(3). Pub. L. 97–248, § 226(b), added par. (3).
 
-Subsec. (c)(4). Pub. L. 97–248, § 227(a), added par. (4).
+Subsec. (c)(4). Pub. L. 97–248, § 227(a), added par. (4).
 
-1980—Subsecs. (a)(3), (b)(5). Pub. L. 96–223 repealed the amendments made by Pub. L. 95–600, § 702(a)(1), (2). See 1978 Amendment notes below.
+1980—Subsecs. (a)(3), (b)(5). Pub. L. 96–223 repealed the amendments made by Pub. L. 95–600, § 702(a)(1), (2). See 1978 Amendment notes below.
 
-1978—Subsec. (a)(3). Pub. L. 95–600, § 702(a)(1), added par. (3) which related to ordinary income from the sale or redemption of section 306 stock which was carryover basis property adjusted for 1976 value. See Repeals note below.
+1978—Subsec. (a)(3). Pub. L. 95–600, § 702(a)(1), added par. (3) which related to ordinary income from the sale or redemption of section 306 stock which was carryover basis property adjusted for 1976 value. See Repeals note below.
 
-Subsec. (b)(5). Pub. L. 95–600, § 702(a)(2), added par. (5) which provided that subsec. (a) of this section shall not apply to the extent that section 303 applies to a distribution in redemption of section 306 stock. See Repeals note below.
+Subsec. (b)(5). Pub. L. 95–600, § 702(a)(2), added par. (5) which provided that subsec. (a) of this section shall not apply to the extent that section 303 applies to a distribution in redemption of section 306 stock. See Repeals note below.
 
-1976—Subsec. (a)(1)(A), (B)(i). Pub. L. 94–455, § 1901(b)(3)(J), substituted “ordinary income” for “gain from the sale of property which is not a capital asset”.
+1976—Subsec. (a)(1)(A), (B)(i). Pub. L. 94–455, § 1901(b)(3)(J), substituted “ordinary income” for “gain from the sale of property which is not a capital asset”.
 
-Subsec. (b)(4). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b)(4). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (f). Pub. L. 94–455, § 1901(b)(3)(J), substituted “ordinary income” for “gain from the sale of property which is not a capital asset”.
+Subsec. (f). Pub. L. 94–455, § 1901(b)(3)(J), substituted “ordinary income” for “gain from the sale of property which is not a capital asset”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1349,7 +1349,7 @@ Amendment by section 222(e)(1)(A), (2) of Pub. L. 97–248 applicable to distrib
 
 Amendment by section 226(b) of Pub. L. 97–248 applicable to transfers occurring after Aug. 31, 1982, except for certain transfers pursuant to an application to form a BHC filed with the Federal Reserve Board before Aug. 16, 1982, see section 226(c) of Pub. L. 97–248, set out as a note under section 304 of this title.
 
-Pub. L. 97–248, title II, § 227(c)(1), Sept. 3, 1982, 96 Stat. 492, provided that: “The amendment made by subsection (a) [amending this section] shall apply to stock received after August 31, 1982, in taxable years ending after such date.”
+Pub. L. 97–248, title II, § 227(c)(1), Sept. 3, 1982, 96 Stat. 492, provided that: “The amendment made by subsection (a) [amending this section] shall apply to stock received after August 31, 1982, in taxable years ending after such date.”
 
 **Effective Date of 1980 Amendment and Revival of Prior Law**
 
@@ -1357,7 +1357,7 @@ Amendment by Pub. L. 96–223 (repealing section 702(a)(1), (2) of Pub. L. 95–
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–600, title VII, § 702(a)(3), Nov. 6, 1978, 92 Stat. 2925, provided that the amendments made by section 702(a) of Pub. L. 95–600 would apply to the estates of decedents dying after Dec. 31, 1979, prior to repeal by Pub. L. 96–223, title IV, § 401(a), Apr. 2, 1980, 94 Stat. 299.
+Pub. L. 95–600, title VII, § 702(a)(3), Nov. 6, 1978, 92 Stat. 2925, provided that the amendments made by section 702(a) of Pub. L. 95–600 would apply to the estates of decedents dying after Dec. 31, 1979, prior to repeal by Pub. L. 96–223, title IV, § 401(a), Apr. 2, 1980, 94 Stat. 299.
 
 **Effective Date of 1976 Amendment**
 
@@ -1365,13 +1365,13 @@ Amendment by section 1901(b)(3)(J) of Pub. L. 94–455 effective for taxable yea
 
 **Repeals**
 
-Pub. L. 95–600, § 702(a)(1), (2), cited as a credit to this section, and the amendments made thereby, were repealed by Pub. L. 96–223, title IV, § 401(a), Apr. 2, 1980, 94 Stat. 299, resulting in the text of this section reading as it read prior to enactment of section 702(a)(1), (2). See Effective Date of 1980 Amendment and Revival of Prior Law note above.
+Pub. L. 95–600, § 702(a)(1), (2), cited as a credit to this section, and the amendments made thereby, were repealed by Pub. L. 96–223, title IV, § 401(a), Apr. 2, 1980, 94 Stat. 299, resulting in the text of this section reading as it read prior to enactment of section 702(a)(1), (2). See Effective Date of 1980 Amendment and Revival of Prior Law note above.
 
 **Savings Provision**
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-#### § 307. Basis of stock and stock rights acquired in distributions
+#### § 307. Basis of stock and stock rights acquired in distributions
 
 **(a) General rule**
 
@@ -1395,7 +1395,7 @@ The election referred to in paragraph (1) shall be made in the return filed with
 
 For basis of stock and stock rights distributed before June 22, 1954, see section 1052.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 93; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 93; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -1405,7 +1405,7 @@ For basis of stock and stock rights distributed before June 22, 1954, see sectio
 
 ### Subpart B—Effects on Corporation
 
-#### § 311. Taxability of corporation on distribution
+#### § 311. Taxability of corporation on distribution
 
 **(a) General rule** Except as provided in subsection (b), no gain or loss shall be recognized to a corporation on the distribution (not in complete liquidation) with respect to its stock of—
 
@@ -1431,55 +1431,55 @@ Rules similar to the rules of section 336(b) shall apply for purposes of this su
 
 If the property distributed consists of an interest in a partnership or trust, the Secretary may by regulations provide that the amount of the gain recognized under paragraph (1) shall be computed without regard to any loss attributable to property contributed to the partnership or trust for the principal purpose of recognizing such loss on the distribution.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 94; Pub. L. 91–172, title IX, § 905(a), (b)(1), Dec. 30, 1969, 83 Stat. 713, 714; Pub. L. 94–452, § 2(b), Oct. 2, 1976, 90 Stat. 1511; Pub. L. 94–455, title XIX, § 1901(a)(42)(A), (B)(i), (C), Oct. 4, 1976, 90 Stat. 1771; Pub. L. 95–600, title VII, § 703(j)(2)(A), (B), Nov. 6, 1978, 92 Stat. 2941; Pub. L. 96–471, § 2(b)(1), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 97–248, title II, § 223(a), Sept. 3, 1982, 96 Stat. 483; Pub. L. 98–369, div. A, title I, § 54(a), title VII, § 712(j), July 18, 1984, 98 Stat. 568, 948; Pub. L. 99–514, title VI, § 631(c), Oct. 22, 1986, 100 Stat. 2272; Pub. L. 100–647, title I, §§ 1006(e)(8)(B), (21)(B), 1018(d)(5)(E), Nov. 10, 1988, 102 Stat. 3401, 3403, 3580.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 94; Pub. L. 91–172, title IX, § 905(a), (b)(1), Dec. 30, 1969, 83 Stat. 713, 714; Pub. L. 94–452, § 2(b), Oct. 2, 1976, 90 Stat. 1511; Pub. L. 94–455, title XIX, § 1901(a)(42)(A), (B)(i), (C), Oct. 4, 1976, 90 Stat. 1771; Pub. L. 95–600, title VII, § 703(j)(2)(A), (B), Nov. 6, 1978, 92 Stat. 2941; Pub. L. 96–471, § 2(b)(1), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 97–248, title II, § 223(a), Sept. 3, 1982, 96 Stat. 483; Pub. L. 98–369, div. A, title I, § 54(a), title VII, § 712(j), July 18, 1984, 98 Stat. 568, 948; Pub. L. 99–514, title VI, § 631(c), Oct. 22, 1986, 100 Stat. 2272; Pub. L. 100–647, title I, §§ 1006(e)(8)(B), (21)(B), 1018(d)(5)(E), Nov. 10, 1988, 102 Stat. 3401, 3403, 3580.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–647, § 1018(d)(5)(E), substituted “distribution (not in complete liquidation) with respect to its stock” for “distribution, with respect to its stock,”.
+1988—Subsec. (a). Pub. L. 100–647, § 1018(d)(5)(E), substituted “distribution (not in complete liquidation) with respect to its stock” for “distribution, with respect to its stock,”.
 
-Subsec. (b)(2). Pub. L. 100–647, § 1006(e)(21)(B), substituted “liabilities” for “liabilities in excess of basis” in heading.
+Subsec. (b)(2). Pub. L. 100–647, § 1006(e)(21)(B), substituted “liabilities” for “liabilities in excess of basis” in heading.
 
-Subsec. (b)(3). Pub. L. 100–647, § 1006(e)(8)(B), added par. (3).
+Subsec. (b)(3). Pub. L. 100–647, § 1006(e)(8)(B), added par. (3).
 
 1986—Pub. L. 99–514 amended section generally, substituting provisions relating to distributions of appreciated property for provisions relating to LIFO inventory, liability in excess of basis, and appreciated property used to redeem stock.
 
-1984—Subsec. (d). Pub. L. 98–369, § 54(a)(3), substituted “Distributions of appreciated property” for “Appreciated property used to redeem stock” in heading.
+1984—Subsec. (d). Pub. L. 98–369, § 54(a)(3), substituted “Distributions of appreciated property” for “Appreciated property used to redeem stock” in heading.
 
-Subsec. (d)(1). Pub. L. 98–369, § 54(a)(1), substituted “This subsection shall be applied after the applications of subsections (b) and (c)” for “Subsections (b) and (c) shall not apply to any distribution to which this subsection applies” in provisions following subpar. (B).
+Subsec. (d)(1). Pub. L. 98–369, § 54(a)(1), substituted “This subsection shall be applied after the applications of subsections (b) and (c)” for “Subsections (b) and (c) shall not apply to any distribution to which this subsection applies” in provisions following subpar. (B).
 
-Subsec. (d)(1)(A). Pub. L. 98–369, § 54(a)(1), struck out “of part or all of his stock in such corporation” before “and”.
+Subsec. (d)(1)(A). Pub. L. 98–369, § 54(a)(1), struck out “of part or all of his stock in such corporation” before “and”.
 
-Subsec. (d)(2)(A). Pub. L. 98–369, § 54(a)(2)(A), substituted provisions relating to a distribution which is made with respect to qualified stock if section 302(b)(4) applies to such distribution or such distribution is a qualified distribution for provisions which had related to a distribution to a corporate shareholder if the basis of the property distributed was determined under section 301(d)(2).
+Subsec. (d)(2)(A). Pub. L. 98–369, § 54(a)(2)(A), substituted provisions relating to a distribution which is made with respect to qualified stock if section 302(b)(4) applies to such distribution or such distribution is a qualified distribution for provisions which had related to a distribution to a corporate shareholder if the basis of the property distributed was determined under section 301(d)(2).
 
-Subsec. (d)(2)(B) to (F). Pub. L. 98–369, § 54(a)(2)(A), (B), redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which related to distributions to which section 302(b)(4) applied and which were made with respect to qualified stock.
+Subsec. (d)(2)(B) to (F). Pub. L. 98–369, § 54(a)(2)(A), (B), redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which related to distributions to which section 302(b)(4) applied and which were made with respect to qualified stock.
 
-Subsec. (e)(1)(C). Pub. L. 98–369, § 712(j), added subpar. (C).
+Subsec. (e)(1)(C). Pub. L. 98–369, § 712(j), added subpar. (C).
 
-Subsec. (e)(3). Pub. L. 98–369, § 54(a)(2)(C), added par. (3).
+Subsec. (e)(3). Pub. L. 98–369, § 54(a)(2)(C), added par. (3).
 
-1982—Subsec. (d)(2)(A). Pub. L. 97–248, § 223(a)(1), substituted reference to a distribution to a corporate shareholder if the basis of the property distributed is determined under section 301(d)(2) for reference to a distribution in complete redemption of all of the stock of a shareholder who, at all times within the 12-month period ending on the date of such distribution owned at least 10 percent in value of the outstanding stock of the distributing corporation, but only if the redemption qualified under section 302(b)(3) (determined without the application of section 302(c)(2)(A)(ii)).
+1982—Subsec. (d)(2)(A). Pub. L. 97–248, § 223(a)(1), substituted reference to a distribution to a corporate shareholder if the basis of the property distributed is determined under section 301(d)(2) for reference to a distribution in complete redemption of all of the stock of a shareholder who, at all times within the 12-month period ending on the date of such distribution owned at least 10 percent in value of the outstanding stock of the distributing corporation, but only if the redemption qualified under section 302(b)(3) (determined without the application of section 302(c)(2)(A)(ii)).
 
-Subsec. (d)(2)(B). Pub. L. 97–248, § 223(a)(1), substituted reference to a distribution to which section 302(b)(4) applies and which is made with respect to qualified stock for reference to a distribution of stock or an obligation of a corporation, which was engaged in at least one trade or business, which had not received property constituting a substantial part of its assets from the distributing corporation, in a transaction to which section 351 applied or as a contribution to capital, within the 5-year period ending on the date of the distribution, and at least 50 percent in value of the outstanding stock of which was owned by the distributing corporation at any time within the 9-year period ending one year before the date of the distribution.
+Subsec. (d)(2)(B). Pub. L. 97–248, § 223(a)(1), substituted reference to a distribution to which section 302(b)(4) applies and which is made with respect to qualified stock for reference to a distribution of stock or an obligation of a corporation, which was engaged in at least one trade or business, which had not received property constituting a substantial part of its assets from the distributing corporation, in a transaction to which section 351 applied or as a contribution to capital, within the 5-year period ending on the date of the distribution, and at least 50 percent in value of the outstanding stock of which was owned by the distributing corporation at any time within the 9-year period ending one year before the date of the distribution.
 
-Subsec. (d)(2)(C). Pub. L. 97–248, § 223(a)(1), substituted reference to a distribution of stock or an obligation of a corporation if the requirements of subsec. (e)(2) of this section are met with respect to the distribution for reference to a distribution of stock or securities pursuant to the terms of a final judgment rendered by a court with respect to the distributing corporation in a court proceeding under the Sherman Act (15 U.S.C. 1–7) or the Clayton Act (15 U.S.C. 12–27), or both, to which the United States was a party, but only if the distribution of such stock or securities in redemption of the distributing corporation’s stock was in furtherance of the purposes of the judgment.
+Subsec. (d)(2)(C). Pub. L. 97–248, § 223(a)(1), substituted reference to a distribution of stock or an obligation of a corporation if the requirements of subsec. (e)(2) of this section are met with respect to the distribution for reference to a distribution of stock or securities pursuant to the terms of a final judgment rendered by a court with respect to the distributing corporation in a court proceeding under the Sherman Act (15 U.S.C. 1–7) or the Clayton Act (15 U.S.C. 12–27), or both, to which the United States was a party, but only if the distribution of such stock or securities in redemption of the distributing corporation’s stock was in furtherance of the purposes of the judgment.
 
-Subsec. (d)(2)(G). Pub. L. 97–248, § 223(a)(3), struck out subpar. (G) which provided that a distribution of stock to a distributee which is not an organization exempt from tax under section 501(a) of this title, if with respect to such distributee, subsec. (a)(1) or (b)(1) of section 1101 of this title applied to such distribution.
+Subsec. (d)(2)(G). Pub. L. 97–248, § 223(a)(3), struck out subpar. (G) which provided that a distribution of stock to a distributee which is not an organization exempt from tax under section 501(a) of this title, if with respect to such distributee, subsec. (a)(1) or (b)(1) of section 1101 of this title applied to such distribution.
 
-Subsec. (e). Pub. L. 97–248, § 223(a)(2), added subsec. (e).
+Subsec. (e). Pub. L. 97–248, § 223(a)(2), added subsec. (e).
 
 1980—Subsec. (a). Pub. L. 96–471 substituted “section 453B” for “Section 453(d)”.
 
 1978—Subsec. (d)(2)(G), (H). Pub. L. 95–600 redesignated subpar. (H) as (G).
 
-1976—Subsec. (d)(1)(B). Pub. L. 94–455, § 1901(a) (42)(A), substituted “then a gain shall be recognized” for “then again shall be recognized”.
+1976—Subsec. (d)(1)(B). Pub. L. 94–455, § 1901(a) (42)(A), substituted “then a gain shall be recognized” for “then again shall be recognized”.
 
-Subsec. (d)(2). Pub. L. 94–452 and Pub. L. 94–455 § 1901(a)(42)(B)(i), (C), struck out subpar. (C) relating to certain distributions before Dec. 1, 1974, struck out “26 Stat. 209;” before “15 U.S.C. 1–7)” and “38 Stat. 730;” before “15 U.S.C. 12–27)” in subpar. (D), added subpar. (H), and redesignated subpars. (D) to (G), as so amended, as subpars. (C) to (F), respectively.
+Subsec. (d)(2). Pub. L. 94–452 and Pub. L. 94–455 § 1901(a)(42)(B)(i), (C), struck out subpar. (C) relating to certain distributions before Dec. 1, 1974, struck out “26 Stat. 209;” before “15 U.S.C. 1–7)” and “38 Stat. 730;” before “15 U.S.C. 12–27)” in subpar. (D), added subpar. (H), and redesignated subpars. (D) to (G), as so amended, as subpars. (C) to (F), respectively.
 
-1969—Subsec. (a). Pub. L. 91–172, § 905(b)(1), inserted reference to subsec. (d).
+1969—Subsec. (a). Pub. L. 91–172, § 905(b)(1), inserted reference to subsec. (d).
 
-Subsec. (d). Pub. L. 91–172, § 905(a), added subsec. (d).
+Subsec. (d). Pub. L. 91–172, § 905(a), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1493,7 +1493,7 @@ Amendment by Pub. L. 99–514 applicable to any distribution in complete liquida
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 54(d), July 18, 1984, 98 Stat. 569, as amended by Pub. L. 99–514, § 2, title XVIII, § 1804(b)(3), Oct. 22, 1986, 100 Stat. 2095, 2799; Pub. L. 100–647, title I, § 1018(d)(1)–(3), Nov. 10, 1988, 102 Stat. 3578, provided that:
+Pub. L. 98–369, div. A, title I, § 54(d), July 18, 1984, 98 Stat. 569, as amended by Pub. L. 99–514, § 2, title XVIII, § 1804(b)(3), Oct. 22, 1986, 100 Stat. 2095, 2799; Pub. L. 100–647, title I, § 1018(d)(1)–(3), Nov. 10, 1988, 102 Stat. 3578, provided that:
 
 > **“(1) Subsection (a).—** Except as otherwise provided in this subsection, the amendments made by subsection (a) [amending this section] shall apply to distributions declared on or after June 14, 1984, in taxable years ending after such date.
 
@@ -1577,7 +1577,7 @@ Amendment by section 712(j) of Pub. L. 98–369 effective as if included in the 
 
 **Effective Date of 1982 Amendment; Exceptions**
 
-Pub. L. 97–248, title II, § 223(b), Sept. 3, 1982, 96 Stat. 484, as amended by Pub. L. 97–448, title III, § 306(a)(7), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title II, § 223(b), Sept. 3, 1982, 96 Stat. 484, as amended by Pub. L. 97–448, title III, § 306(a)(7), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** Except as otherwise provided in this subsection, the amendments made by this section [amending this section] shall apply to distributions after August 31, 1982.
 
@@ -1613,19 +1613,19 @@ For effective date of amendment by Pub. L. 96–471, see section 6(a)(1) of Pub.
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–600, title VII, § 703(j)(2)(C), Nov. 6, 1978, 92 Stat. 2941, provided that: “The amendments made by this paragraph [amending this section] shall take effect as if included in section 2(b) of the Bank Holding Company Tax Act of 1976 [amending this section].”
+Pub. L. 95–600, title VII, § 703(j)(2)(C), Nov. 6, 1978, 92 Stat. 2941, provided that: “The amendments made by this paragraph [amending this section] shall take effect as if included in section 2(b) of the Bank Holding Company Tax Act of 1976 [amending this section].”
 
 **Effective Date of 1976 Amendment**
 
 Amendment by section 1901(a)(42)(A), (C) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Pub. L. 94–455, title XIX, § 1901(a)(42)(B)(ii), Oct. 4, 1976, 90 Stat. 1771, provided that: “The amendments made by clause (i) [amending this section] shall apply only with respect to distributions after November 30, 1974.”
+Pub. L. 94–455, title XIX, § 1901(a)(42)(B)(ii), Oct. 4, 1976, 90 Stat. 1771, provided that: “The amendments made by clause (i) [amending this section] shall apply only with respect to distributions after November 30, 1974.”
 
-Pub. L. 94–452, § 2(d)(4), Oct. 2, 1976, 90 Stat. 1512, provided that: “The amendment made by subsection (b) [amending this section] shall take effect on October 1, 1977, with respect to distributions after December 31, 1975, in taxable years ending after December 31, 1975.”
+Pub. L. 94–452, § 2(d)(4), Oct. 2, 1976, 90 Stat. 1512, provided that: “The amendment made by subsection (b) [amending this section] shall take effect on October 1, 1977, with respect to distributions after December 31, 1975, in taxable years ending after December 31, 1975.”
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–172, title IX, § 905(c), Dec. 30, 1969, 83 Stat. 714, as amended by Pub. L. 91–675, Jan. 12, 1971, 84 Stat. 2059, provided that:
+Pub. L. 91–172, title IX, § 905(c), Dec. 30, 1969, 83 Stat. 714, as amended by Pub. L. 91–675, Jan. 12, 1971, 84 Stat. 2059, provided that:
 
 > **“(1)** Except as provided in paragraphs (2), (3), (4), and (5), the amendments made by subsections (a) and (b) [amending this section and sections 301 and 312 of this title] shall apply with respect to distributions after November 30, 1969.
 
@@ -1667,7 +1667,7 @@ Pub. L. 91–172, title IX, § 905(c), Dec. 30, 1969, 83 Stat. 714, as amended
 
 > **“(E)** at least 50 percent of the outstanding voting stock of the employer corporation is owned by the distributing corporation at any time within the nine-year period ending one year before the date of such distribution.”
 
-#### § 312. Effect on earnings and profits
+#### § 312. Effect on earnings and profits
 
 **(a) General rule** Except as otherwise provided in this section, on the distribution of property by a corporation with respect to its stock, the earnings and profits of the corporation (to the extent thereof) shall be decreased by the sum of—
 
@@ -1703,7 +1703,7 @@ For purposes of this subsection and subsection (a), the adjusted basis of any pr
 
 For purposes of this subsection, the term “stock or securities” includes rights to acquire stock or securities.
 
-**[(e) Repealed. Pub. L. 98–369, div. A, title I, § 61(a)(2)(B), July 18, 1984, 98 Stat. 581]**
+**[(e) Repealed. Pub. L. 98–369, div. A, title I, § 61(a)(2)(B), July 18, 1984, 98 Stat. 581]**
 
 **(f) Effect on earnings and profits of gain or loss and of receipt of tax-free distributions**
 
@@ -1745,7 +1745,7 @@ In the case of a reorganization described in subparagraph (C) or (D) of section 
 
 then the earnings and profits of the corporation shall be increased by the amount of such excess, and (immediately after the distribution) shall be decreased by the amount of such excess. For purposes of paragraph (2), the adjusted basis of the property at the time of distribution shall be determined without regard to any adjustment under section 1016(a)(2) (relating to adjustment for depreciation, etc.). For purposes of this subsection, a commitment to make, guarantee, or insure a loan shall be treated as the making, guaranteeing, or insuring of a loan.
 
-**[(j) Repealed. Pub. L. 108–357, title IV, § 413(c)(4), Oct. 22, 2004, 118 Stat. 1507]**
+**[(j) Repealed. Pub. L. 108–357, title IV, § 413(c)(4), Oct. 22, 2004, 118 Stat. 1507]**
 
 **(k) Effect of depreciation on earnings and profits**
 
@@ -1797,9 +1797,9 @@ then such deficit shall be reduced by an amount equal to the paid-in capital whi
 
 **(m) No adjustment for interest paid on certain registration-required obligations not in registered form**
 
-The earnings and profits of any corporation shall not be decreased by any interest with respect to which a deduction is not or would not be allowable by reason of section 163(f), unless at the time of issuance the issuer is a foreign corporation that is not a controlled foreign corporation (within the meaning of section 957) and the issuance did not have as a purpose the avoidance of section 163(f) of this subsection 1
+The earnings and profits of any corporation shall not be decreased by any interest with respect to which a deduction is not or would not be allowable by reason of section 163(f), unless at the time of issuance the issuer is a foreign corporation that is not a controlled foreign corporation (within the meaning of section 957) and the issuance did not have as a purpose the avoidance of section 163(f) of this subsection 1
 
-<sup>1</sup>  Subsec. (m) was enacted without a period at the end.
+<sup>1</sup> Subsec. (m) was enacted without a period at the end.
 
 **(n) Adjustments to earnings and profits to more accurately reflect economic gain and loss** For purposes of computing the earnings and profits of a corporation, the following adjustments shall be made:
 
@@ -1825,7 +1825,7 @@ to the extent such interest, taxes, or charges are attributable to the construct
 
 The term “construction period” has the meaning given the term production period under section 263A(f)(4)(B).2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(2) Intangible drilling costs and mineral exploration and development costs**
 
@@ -1899,37 +1899,37 @@ If a corporation distributes amounts in a redemption to which section 302(a) or 
 
 For purposes of subsection (a)(2), the terms “original issue discount” and “issue price” have the same respective meanings as when used in subpart A of part V of subchapter P of this chapter.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 95; Pub. L. 87–403, § 3(a), Feb. 2, 1962, 76 Stat. 6; Pub. L. 87–834, §§ 13(f)(3), 14(b)(1), Oct. 16, 1962, 76 Stat. 1035, 1040; Pub. L. 88–272, title II, § 231(b)(3), Feb. 26, 1964, 78 Stat. 105; Pub. L. 88–484, § 1(b)(1), Aug. 22, 1964, 78 Stat. 597; Pub. L. 89–570, § 1(b)(3), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, § 211(b)(3), title IV, § 442(a), title IX, § 905(b)(2), Dec. 30, 1969, 83 Stat. 570, 628, 714; Pub. L. 94–455, title II, § 205(c)(1)(D), title XIX, §§ 1901(a)(43), (b)(32)(B)(i), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1771, 1800, 1834; Pub. L. 95–628, § 3(c), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 96–589, § 5(f), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–34, title II, § 206(a), (b), Aug. 13, 1981, 95 Stat. 224; Pub. L. 97–248, title II, §§ 205(a)(3), 222(e)(3), title III, § 310(b)(3), Sept. 3, 1982, 96 Stat. 429, 480, 597; Pub. L. 97–448, title III, § 306(a)(6)(B), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title I, §§ 61(a)–(c)(1), 63(b), 111(e)(5), July 18, 1984, 98 Stat. 579–581, 583, 633; Pub. L. 99–121, title I, § 103(b)(1)(C), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §§ 201(b), (d)(6), 241(b)(1), title VI, § 631(e)(1), title VIII, § 803(b)(3), title XVIII, §§ 1804(f)(1)(A)–(E), 1809(a)(2)(C)(ii), Oct. 22, 1986, 100 Stat. 2137, 2141, 2181, 2273, 2355, 2804, 2805, 2819; Pub. L. 100–647, title I, §§ 1002(a)(3), 1018(d)(4), (u)(4), Nov. 10, 1988, 102 Stat. 3353, 3578, 3590; Pub. L. 101–239, title VII, §§ 7611(f)(5)(A), 7811(m)(2), Dec. 19, 1989, 103 Stat. 2373, 2412; Pub. L. 101–508, title XI, §§ 11812(b)(5), 11813(b)(14), Nov. 5, 1990, 104 Stat. 1388–535, 1388–555; Pub. L. 105–34, title XVI, § 1604(a)(2), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–357, title III, § 338(b)(3), title IV, § 413(c)(4), (5), Oct. 22, 2004, 118 Stat. 1481, 1507; Pub. L. 109–58, title XIII, §§ 1323(b)(3), 1331(b)(5), Aug. 8, 2005, 119 Stat. 1015, 1024; Pub. L. 109–432, div. A, title IV, § 404(b)(2), Dec. 20, 2006, 120 Stat. 2956; Pub. L. 113–295, div. A, title II, § 221(a)(34)(F), (49), Dec. 19, 2014, 128 Stat. 4042, 4045; Pub. L. 117–169, title I, § 13303(b), Aug. 16, 2022, 136 Stat. 1951.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 95; Pub. L. 87–403, § 3(a), Feb. 2, 1962, 76 Stat. 6; Pub. L. 87–834, §§ 13(f)(3), 14(b)(1), Oct. 16, 1962, 76 Stat. 1035, 1040; Pub. L. 88–272, title II, § 231(b)(3), Feb. 26, 1964, 78 Stat. 105; Pub. L. 88–484, § 1(b)(1), Aug. 22, 1964, 78 Stat. 597; Pub. L. 89–570, § 1(b)(3), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, § 211(b)(3), title IV, § 442(a), title IX, § 905(b)(2), Dec. 30, 1969, 83 Stat. 570, 628, 714; Pub. L. 94–455, title II, § 205(c)(1)(D), title XIX, §§ 1901(a)(43), (b)(32)(B)(i), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1771, 1800, 1834; Pub. L. 95–628, § 3(c), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 96–589, § 5(f), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–34, title II, § 206(a), (b), Aug. 13, 1981, 95 Stat. 224; Pub. L. 97–248, title II, §§ 205(a)(3), 222(e)(3), title III, § 310(b)(3), Sept. 3, 1982, 96 Stat. 429, 480, 597; Pub. L. 97–448, title III, § 306(a)(6)(B), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title I, §§ 61(a)–(c)(1), 63(b), 111(e)(5), July 18, 1984, 98 Stat. 579–581, 583, 633; Pub. L. 99–121, title I, § 103(b)(1)(C), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §§ 201(b), (d)(6), 241(b)(1), title VI, § 631(e)(1), title VIII, § 803(b)(3), title XVIII, §§ 1804(f)(1)(A)–(E), 1809(a)(2)(C)(ii), Oct. 22, 1986, 100 Stat. 2137, 2141, 2181, 2273, 2355, 2804, 2805, 2819; Pub. L. 100–647, title I, §§ 1002(a)(3), 1018(d)(4), (u)(4), Nov. 10, 1988, 102 Stat. 3353, 3578, 3590; Pub. L. 101–239, title VII, §§ 7611(f)(5)(A), 7811(m)(2), Dec. 19, 1989, 103 Stat. 2373, 2412; Pub. L. 101–508, title XI, §§ 11812(b)(5), 11813(b)(14), Nov. 5, 1990, 104 Stat. 1388–535, 1388–555; Pub. L. 105–34, title XVI, § 1604(a)(2), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–357, title III, § 338(b)(3), title IV, § 413(c)(4), (5), Oct. 22, 2004, 118 Stat. 1481, 1507; Pub. L. 109–58, title XIII, §§ 1323(b)(3), 1331(b)(5), Aug. 8, 2005, 119 Stat. 1015, 1024; Pub. L. 109–432, div. A, title IV, § 404(b)(2), Dec. 20, 2006, 120 Stat. 2956; Pub. L. 113–295, div. A, title II, § 221(a)(34)(F), (49), Dec. 19, 2014, 128 Stat. 4042, 4045; Pub. L. 117–169, title I, § 13303(b), Aug. 16, 2022, 136 Stat. 1951.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 263A(f)(4)(B), referred to in subsec. (n)(1)(C), was redesignated section 263A(f)(5)(B) by Pub. L. 115–97, title I, § 13801(a)(1), Dec. 22, 2017, 131 Stat. 2169.
+Section 263A(f)(4)(B), referred to in subsec. (n)(1)(C), was redesignated section 263A(f)(5)(B) by Pub. L. 115–97, title I, § 13801(a)(1), Dec. 22, 2017, 131 Stat. 2169.
 
 **Amendments**
 
 2022—Subsec. (k)(3)(B). Pub. L. 117–169 designated existing provisions as cl. (i), inserted heading, substituted “For purposes of computing the earnings and profits of a corporation, except as provided in clause (ii)” for “For purposes of computing the earnings and profits of a corporation”, and added cl. (ii).
 
-2014—Subsec. (d)(2), (3). Pub. L. 113–295, § 221(a)(49), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “In the case of a distribution of stock or securities, or property, to which section 115(h) of the Internal Revenue Code of 1939 (or the corresponding provision of prior law) applied, the effect on earnings and profits of such distribution shall be determined under such section 115(h), or the corresponding provision of prior law, as the case may be.”
+2014—Subsec. (d)(2), (3). Pub. L. 113–295, § 221(a)(49), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “In the case of a distribution of stock or securities, or property, to which section 115(h) of the Internal Revenue Code of 1939 (or the corresponding provision of prior law) applied, the effect on earnings and profits of such distribution shall be determined under such section 115(h), or the corresponding provision of prior law, as the case may be.”
 
-Subsec. (k)(3)(B). Pub. L. 113–295, § 221(a)(34)(F), struck out “179A,” after “section 179,” in heading and in two places in text.
+Subsec. (k)(3)(B). Pub. L. 113–295, § 221(a)(34)(F), struck out “179A,” after “section 179,” in heading and in two places in text.
 
 2006—Subsec. (k)(3)(B). Pub. L. 109–432 substituted “179D, or 179E” for “or 179D” in heading and two places in text.
 
-2005—Subsec. (k)(3)(B). Pub. L. 109–58, § 1331(b)(5), substituted “179, 179A, 179B, 179C, or 179D” for “179, 179A, 179B, or 179C” in heading and two places in text.
+2005—Subsec. (k)(3)(B). Pub. L. 109–58, § 1331(b)(5), substituted “179, 179A, 179B, 179C, or 179D” for “179, 179A, 179B, or 179C” in heading and two places in text.
 
-Pub. L. 109–58, § 1323(b)(3), substituted “179, 179A, 179B, or 179C” for “179 179A, or 179B” in heading and two places in text.
+Pub. L. 109–58, § 1323(b)(3), substituted “179, 179A, 179B, or 179C” for “179 179A, or 179B” in heading and two places in text.
 
-2004—Subsec. (j). Pub. L. 108–357, § 413(c)(4), struck out subsec. (j) which related to earnings and profits of foreign investment companies.
+2004—Subsec. (j). Pub. L. 108–357, § 413(c)(4), struck out subsec. (j) which related to earnings and profits of foreign investment companies.
 
-Subsec. (k)(3)(B). Pub. L. 108–357, § 338(b)(3), substituted “179A, or 179B” for “or 179A” in heading and two places in text.
+Subsec. (k)(3)(B). Pub. L. 108–357, § 338(b)(3), substituted “179A, or 179B” for “or 179A” in heading and two places in text.
 
-Subsec. (m). Pub. L. 108–357, § 413(c)(5), struck out “, a foreign investment company (within the meaning of section 1246(b)), or a foreign personal holding company (within the meaning of section 552)” before “and the issuance”.
+Subsec. (m). Pub. L. 108–357, § 413(c)(5), struck out “, a foreign investment company (within the meaning of section 1246(b)), or a foreign personal holding company (within the meaning of section 552)” before “and the issuance”.
 
 1997—Subsec. (k)(3)(B). Pub. L. 105–34, in heading substituted “179 or 179A” for “179” and in text substituted “section 179 or 179A shall” for “section 179 shall” and “section 179 or 179A, as the case may be)” for “section 179)”.
 
-1990—Subsec. (k)(2). Pub. L. 101–508, § 11812(b)(5), substituted heading for one which read: “Exceptions” and amended text generally. Prior to amendment, text read as follows: “If for any taxable year beginning after June 30, 1972, a method of depreciation was used by the taxpayer which the Secretary has determined results in a reasonable allowance under section 167(a), and which is not—
+1990—Subsec. (k)(2). Pub. L. 101–508, § 11812(b)(5), substituted heading for one which read: “Exceptions” and amended text generally. Prior to amendment, text read as follows: “If for any taxable year beginning after June 30, 1972, a method of depreciation was used by the taxpayer which the Secretary has determined results in a reasonable allowance under section 167(a), and which is not—
 
 “(A) a declining balance method,
 
@@ -1939,67 +1939,67 @@ Subsec. (m). Pub. L. 108–357, § 413(c)(5), struck out “, a foreign inve
 
 then the adjustment to earnings and profits for depreciation for such year shall be determined under the method so used (in lieu of under the straight line method).”
 
-Subsec. (k)(5). Pub. L. 101–508, § 11813(b)(14), substituted “section 50(c)” for “section 48(q)”.
+Subsec. (k)(5). Pub. L. 101–508, § 11813(b)(14), substituted “section 50(c)” for “section 48(q)”.
 
-1989—Subsec. (b). Pub. L. 101–239, § 7811(m)(2), made clarifying amendment to directory language of Pub. L. 100–647, § 1018(d)(4), see 1988 Amendment note below.
+1989—Subsec. (b). Pub. L. 101–239, § 7811(m)(2), made clarifying amendment to directory language of Pub. L. 100–647, § 1018(d)(4), see 1988 Amendment note below.
 
-Subsec. (n)(2)(A)(ii). Pub. L. 101–239, § 7611(f)(5)(A), substituted “in which such amount was paid or incurred” for “in which the production from the well begins”.
+Subsec. (n)(2)(A)(ii). Pub. L. 101–239, § 7611(f)(5)(A), substituted “in which such amount was paid or incurred” for “in which the production from the well begins”.
 
-1988—Subsec. (b). Pub. L. 100–647, § 1018(d)(4), as amended by Pub. L. 101–239, § 7811(m)(2), substituted “of any property (other than an obligation of such corporation)” for “of any property” in introductory provisions.
+1988—Subsec. (b). Pub. L. 100–647, § 1018(d)(4), as amended by Pub. L. 101–239, § 7811(m)(2), substituted “of any property (other than an obligation of such corporation)” for “of any property” in introductory provisions.
 
-Subsec. (k)(4). Pub. L. 100–647, § 1002(a)(3), substituted “paragraph (1)” for “paragraphs (1) and (3)”.
+Subsec. (k)(4). Pub. L. 100–647, § 1002(a)(3), substituted “paragraph (1)” for “paragraphs (1) and (3)”.
 
-Subsec. (n)(1)(B). Pub. L. 100–647, § 1018(u)(4), made technical amendment to directory language of Pub. L. 99–514, § 803(b)(3)(A). See 1986 Amendment note below.
+Subsec. (n)(1)(B). Pub. L. 100–647, § 1018(u)(4), made technical amendment to directory language of Pub. L. 99–514, § 803(b)(3)(A). See 1986 Amendment note below.
 
-1986—Subsec. (b). Pub. L. 99–514, § 1804(f)(1)(A), amended subsec. (b) generally, substituting provisions relating to distributions of appreciated property for provisions relating to distribution of certain inventory assets.
+1986—Subsec. (b). Pub. L. 99–514, § 1804(f)(1)(A), amended subsec. (b) generally, substituting provisions relating to distributions of appreciated property for provisions relating to distribution of certain inventory assets.
 
-Subsec. (c). Pub. L. 99–514, § 1804(f)(1)(B), (C), struck out “, etc.” after “liabilities” in heading and struck out par. (3) which read as follows: “any gain recognized to the corporation on the distribution.”
+Subsec. (c). Pub. L. 99–514, § 1804(f)(1)(B), (C), struck out “, etc.” after “liabilities” in heading and struck out par. (3) which read as follows: “any gain recognized to the corporation on the distribution.”
 
-Subsec. (k)(3). Pub. L. 99–514, § 201(b), amended par. (3) generally, substituting provisions relating to tangible property to which section 168 applies and amounts deductible under section 179 for provisions relating to recovery property within the meaning of section 168, amounts deductible under section 179, and flexibility if a different recovery percentage is elected under section 168 based on a longer recovery period.
+Subsec. (k)(3). Pub. L. 99–514, § 201(b), amended par. (3) generally, substituting provisions relating to tangible property to which section 168 applies and amounts deductible under section 179 for provisions relating to recovery property within the meaning of section 168, amounts deductible under section 179, and flexibility if a different recovery percentage is elected under section 168 based on a longer recovery period.
 
-Subsec. (k)(3)(A). Pub. L. 99–514, § 1809(a)(2)(C)(ii), in subpar. (A), struck out “and rules similar to the rules under the next to the last sentence of section 168(b)(2)(A) and section 168(b)(2)(B) shall apply” after “low-income housing)”.
+Subsec. (k)(3)(A). Pub. L. 99–514, § 1809(a)(2)(C)(ii), in subpar. (A), struck out “and rules similar to the rules under the next to the last sentence of section 168(b)(2)(A) and section 168(b)(2)(B) shall apply” after “low-income housing)”.
 
-Subsec. (k)(4). Pub. L. 99–514, § 201(d)(6), struck out last sentence “In determining the earnings and profits of such corporation in the case of recovery property (within the meaning of section 168), the rules of section 168(f)(2) shall apply.”
+Subsec. (k)(4). Pub. L. 99–514, § 201(d)(6), struck out last sentence “In determining the earnings and profits of such corporation in the case of recovery property (within the meaning of section 168), the rules of section 168(f)(2) shall apply.”
 
-Subsec. (n)(1)(B). Pub. L. 99–514, § 803(b)(3)(A), as amended by Pub. L. 100–647, § 1018(u)(4), struck out “(determined without regard to section 189)” after “incurred”.
+Subsec. (n)(1)(B). Pub. L. 99–514, § 803(b)(3)(A), as amended by Pub. L. 100–647, § 1018(u)(4), struck out “(determined without regard to section 189)” after “incurred”.
 
-Subsec. (n)(1)(C). Pub. L. 99–514, § 803(b)(3)(B), added subpar. (C) and struck out former subpar. (C) which read as follows: “The term ‘construction period’ has the meaning given such term by section 189(e)(2) (determined without regard to any real property limitation).”
+Subsec. (n)(1)(C). Pub. L. 99–514, § 803(b)(3)(B), added subpar. (C) and struck out former subpar. (C) which read as follows: “The term ‘construction period’ has the meaning given such term by section 189(e)(2) (determined without regard to any real property limitation).”
 
-Subsec. (n)(3). Pub. L. 99–514, § 241(b)(1), struck out “, 177,” after “sections 173”.
+Subsec. (n)(3). Pub. L. 99–514, § 241(b)(1), struck out “, 177,” after “sections 173”.
 
-Subsec. (n)(4). Pub. L. 99–514, § 631(e)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Earnings and profits shall be increased or decreased by the amount of any increase or decrease in the LIFO recapture amount (determined under section 336(b)(3)) as of the close of each taxable year; except that any decrease below the LIFO recapture amount as of the close of the taxable year preceding the first taxable year to which this paragraph applies to the taxpayer shall be taken into account only to the extent provided in regulations prescribed by the Secretary.”
+Subsec. (n)(4). Pub. L. 99–514, § 631(e)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Earnings and profits shall be increased or decreased by the amount of any increase or decrease in the LIFO recapture amount (determined under section 336(b)(3)) as of the close of each taxable year; except that any decrease below the LIFO recapture amount as of the close of the taxable year preceding the first taxable year to which this paragraph applies to the taxpayer shall be taken into account only to the extent provided in regulations prescribed by the Secretary.”
 
-Pub. L. 99–514, § 1804(f)(1)(D), redesignated par. (5) as (4). Former par. (4), relating to certain untaxed appreciation of distributed property, was struck out.
+Pub. L. 99–514, § 1804(f)(1)(D), redesignated par. (5) as (4). Former par. (4), relating to certain untaxed appreciation of distributed property, was struck out.
 
-Subsec. (n)(5) to (7). Pub. L. 99–514, § 1804(f)(1)(D), redesignated pars. (6) to (8) as (5) to (7), respectively. Former par. (5) redesignated (4).
+Subsec. (n)(5) to (7). Pub. L. 99–514, § 1804(f)(1)(D), redesignated pars. (6) to (8) as (5) to (7), respectively. Former par. (5) redesignated (4).
 
-Subsec. (n)(8), (9). Pub. L. 99–514, § 1804(f)(1)(D), (E), redesignated par. (9) as (8) and substituted provisions of subpars. (A) and (B) for “paragraphs (5), (6), and (7) shall apply only in the case of taxable years beginning after December 31, 1985.” Former par. (8) redesignated (7).
+Subsec. (n)(8), (9). Pub. L. 99–514, § 1804(f)(1)(D), (E), redesignated par. (9) as (8) and substituted provisions of subpars. (A) and (B) for “paragraphs (5), (6), and (7) shall apply only in the case of taxable years beginning after December 31, 1985.” Former par. (8) redesignated (7).
 
 1985—Subsec. (k)(3)(A). Pub. L. 99–121 substituted “19-year real property” for “18-year real property” wherever appearing.
 
-1984—Subsec. (a)(2). Pub. L. 98–369, § 61(c)(1)(A), inserted “(or, in the case of obligations having original issue discount, the aggregate issue price of such obligations)”.
+1984—Subsec. (a)(2). Pub. L. 98–369, § 61(c)(1)(A), inserted “(or, in the case of obligations having original issue discount, the aggregate issue price of such obligations)”.
 
-Subsec. (e). Pub. L. 98–369, § 61(a)(2)(B), struck out subsec. (e) which provided: “In the case of amounts distributed in a redemption to which section 302(a) or 303 applies, the part of such distribution which is properly chargeable to capital account shall not be treated as a distribution of earnings and profits.”
+Subsec. (e). Pub. L. 98–369, § 61(a)(2)(B), struck out subsec. (e) which provided: “In the case of amounts distributed in a redemption to which section 302(a) or 303 applies, the part of such distribution which is properly chargeable to capital account shall not be treated as a distribution of earnings and profits.”
 
-Subsec. (h). Pub. L. 98–369, § 63(b), amended subsec. (h) generally, designating existing provisions as par. (1) and adding par. (2).
+Subsec. (h). Pub. L. 98–369, § 63(b), amended subsec. (h) generally, designating existing provisions as par. (1) and adding par. (2).
 
-Subsec. (j)(3). Pub. L. 98–369, § 61(a)(2)(A), struck out par. (3) which provided: “If a foreign investment company (as defined in section 1246) distributes amounts in a redemption to which section 302(a) or 303 applies, the part of such distribution which is properly chargeable to earnings and profits shall be an amount which is not in excess of the ratable share of the earnings and profits of the company accumulated after February 28, 1913, attributable to the stock so redeemed.”
+Subsec. (j)(3). Pub. L. 98–369, § 61(a)(2)(A), struck out par. (3) which provided: “If a foreign investment company (as defined in section 1246) distributes amounts in a redemption to which section 302(a) or 303 applies, the part of such distribution which is properly chargeable to earnings and profits shall be an amount which is not in excess of the ratable share of the earnings and profits of the company accumulated after February 28, 1913, attributable to the stock so redeemed.”
 
-Subsec. (k)(3)(A). Pub. L. 98–369, § 111(e)(5), substituted “18-year real property and low-income housing” for “15-year real property” in three places.
+Subsec. (k)(3)(A). Pub. L. 98–369, § 111(e)(5), substituted “18-year real property and low-income housing” for “15-year real property” in three places.
 
-Pub. L. 98–369, § 61(b), substituted “40 years” for “35 years” in table item relating to 15-year real property. Directory language that table be amended by substituting “40 years” for “35 years” in item relating to 15-year real property and 20-year real property, was executed by making the substitution in item relating to 15-year real property. The table contained no item relating to 20-year real property.
+Pub. L. 98–369, § 61(b), substituted “40 years” for “35 years” in table item relating to 15-year real property. Directory language that table be amended by substituting “40 years” for “35 years” in item relating to 15-year real property and 20-year real property, was executed by making the substitution in item relating to 15-year real property. The table contained no item relating to 20-year real property.
 
-Subsec. (n). Pub. L. 98–369, § 61(a)(1), added subsec. (n).
+Subsec. (n). Pub. L. 98–369, § 61(a)(1), added subsec. (n).
 
-Subsec. (*o*). Pub. L. 98–369, § 61(c)(1)(B), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 98–369, § 61(c)(1)(B), added subsec. (*o*).
 
 1983—Subsec. (j)(3). Pub. L. 97–448 substituted “Redemptions” for “Partial liquidations and redemptions” in heading, and in text struck out “in partial liquidation or” after “distributes amounts”.
 
-1982—Subsec. (e). Pub. L. 97–248, § 222(e)(3), struck out “partial liquidations and” in heading, and in text struck out “in partial liquidation (whether before, on, or after June 22, 1954) or” after “amounts distributed”.
+1982—Subsec. (e). Pub. L. 97–248, § 222(e)(3), struck out “partial liquidations and” in heading, and in text struck out “in partial liquidation (whether before, on, or after June 22, 1954) or” after “amounts distributed”.
 
-Subsec. (k)(5). Pub. L. 97–248, § 205(a)(3), added par. (5).
+Subsec. (k)(5). Pub. L. 97–248, § 205(a)(3), added par. (5).
 
-Subsec. (m). Pub. L. 97–248, § 310(b)(3), added subsec. (m).
+Subsec. (m). Pub. L. 97–248, § 310(b)(3), added subsec. (m).
 
 1981—Subsec. (k)(3), (4). Pub. L. 97–34 added par. (3), redesignated former par. (3) as (4) substituted “The provisions of paragraphs (1) and (3)” for “The provisions of paragraph (1)”, and inserted provision that the rules of section 168(f)(2) shall apply in determining the earnings and profits of the corporation in the case of recovery property (within the meaning of section 168).
 
@@ -2007,25 +2007,25 @@ Subsec. (m). Pub. L. 97–248, § 310(b)(3), added subsec. (m).
 
 1978—Subsec. (c)(3). Pub. L. 95–628 substituted “gain recognized to the corporation on the distribution” for “gain to the corporation recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)”.
 
-1976—Subsec. (c)(3). Pub. L. 94–455, § 205(c)(1)(D), substituted “1252(a), or 1254(a)” for “or 1252(a)”.
+1976—Subsec. (c)(3). Pub. L. 94–455, § 205(c)(1)(D), substituted “1252(a), or 1254(a)” for “or 1252(a)”.
 
-Subsec. (d)(1). Pub. L. 94–455, § 1901(a)(43)(A), substituted “this title” for “this Code” wherever appearing.
+Subsec. (d)(1). Pub. L. 94–455, § 1901(a)(43)(A), substituted “this title” for “this Code” wherever appearing.
 
-Subsec. (h). Pub. L. 94–455, §§ 1901(a)(43)(B), 1906(b)(13)(A), redesignated subsec. (i) as (h) and struck out “or his delegate” after “Secretary”. Former subsec. (h), which related to earnings and profits of personal service corporations, was struck out.
+Subsec. (h). Pub. L. 94–455, §§ 1901(a)(43)(B), 1906(b)(13)(A), redesignated subsec. (i) as (h) and struck out “or his delegate” after “Secretary”. Former subsec. (h), which related to earnings and profits of personal service corporations, was struck out.
 
-Subsec. (i). Pub. L. 94–455, § 1901(a)(43)(B), (C), redesignated subsec. (j) as (i), and, among other changes, substituted “paragraph (2)” for “subparagraph (B) of the preceding sentence” and “of this subsection” for “of this paragraph”, and struck out provisions relating to the effective date of this subsec. Former subsec. (i) redesignated (h).
+Subsec. (i). Pub. L. 94–455, § 1901(a)(43)(B), (C), redesignated subsec. (j) as (i), and, among other changes, substituted “paragraph (2)” for “subparagraph (B) of the preceding sentence” and “of this subsection” for “of this paragraph”, and struck out provisions relating to the effective date of this subsec. Former subsec. (i) redesignated (h).
 
-Subsec. (j). Pub. L. 94–455, §§ 1901(a)(43)(D), (b)(32)(B)(i), 1906(b)(13)(A), redesignated subsec. (*l*) as (j), struck out “or his delegate” after “Secretary” in par. (1) and in par. (3) provision relating to the effective date of such paragraph. Former subsec. (j) redesignated (i).
+Subsec. (j). Pub. L. 94–455, §§ 1901(a)(43)(D), (b)(32)(B)(i), 1906(b)(13)(A), redesignated subsec. (*l*) as (j), struck out “or his delegate” after “Secretary” in par. (1) and in par. (3) provision relating to the effective date of such paragraph. Former subsec. (j) redesignated (i).
 
-Subsec. (k). Pub. L. 94–455, §§ 1901(b)(32)(B)(i), 1906(b)(13)(A), redesignated subsec. (m) as (k) and struck out “or his delegate” after “Secretary” in par. (2). Former subsec. (k), relating to special adjustment on disposition of antitrust stock received as a dividend, was struck out.
+Subsec. (k). Pub. L. 94–455, §§ 1901(b)(32)(B)(i), 1906(b)(13)(A), redesignated subsec. (m) as (k) and struck out “or his delegate” after “Secretary” in par. (2). Former subsec. (k), relating to special adjustment on disposition of antitrust stock received as a dividend, was struck out.
 
-Subsec. (*l*). Pub. L. 94–455, § 1901(b)(32)(B)(i), redesignated subsec. (*l*) as (j).
+Subsec. (*l*). Pub. L. 94–455, § 1901(b)(32)(B)(i), redesignated subsec. (*l*) as (j).
 
-Subsec. (m). Pub. L. 94–455, § 1901(b)(32)(B)(i), redesignated subsec. (m) as (k).
+Subsec. (m). Pub. L. 94–455, § 1901(b)(32)(B)(i), redesignated subsec. (m) as (k).
 
-1969—Subsec. (c)(3). Pub. L. 91–172, §§ 211(b)(3), 905(b)(2), substituted “1250(a), 1251(c), or 1252(a)”, for “or 1250(a)” and inserted reference to section 311(d).
+1969—Subsec. (c)(3). Pub. L. 91–172, §§ 211(b)(3), 905(b)(2), substituted “1250(a), 1251(c), or 1252(a)”, for “or 1250(a)” and inserted reference to section 311(d).
 
-Subsec. (m). Pub. L. 91–172, § 442(a), added subsec. (m).
+Subsec. (m). Pub. L. 91–172, § 442(a), added subsec. (m).
 
 1966—Subsec. (c)(3). Pub. L. 89–570 inserted reference to section 617(d)(1).
 
@@ -2033,11 +2033,11 @@ Subsec. (m). Pub. L. 91–172, § 442(a), added subsec. (m).
 
 Pub. L. 88–272 inserted reference to section 1250(a).
 
-1962—Subsec. (c)(3). Pub. L. 87–834, § 13(f)(3), included any gain recognized under section 1245(a).
+1962—Subsec. (c)(3). Pub. L. 87–834, § 13(f)(3), included any gain recognized under section 1245(a).
 
 Subsec. (k). Pub. L. 87–403 added subsec. (k).
 
-Subsec. (*l*). Pub. L. 87–834, § 14(b)(1), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 87–834, § 14(b)(1), added subsec. (*l*).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2101,7 +2101,7 @@ Amendment by section 803(b)(3) of Pub. L. 99–514 applicable to costs incurred 
 
 Amendment by sections 1804(f)(1)(A)–(E) and 1809(a)(2)(C)(ii) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Pub. L. 99–514, title XVIII, § 1804(f)(3), Oct. 22, 1986, 100 Stat. 2805, provided that: “Paragraph (7) of section 312(n) of the Internal Revenue Code of 1954 [now 1986] (as redesignated by paragraph (1)(D) of this subsection), and the amendments made by section 61(a)(2) of the Tax Reform Act of 1984 [amending this section], shall apply to distributions in taxable years beginning after September 30, 1984.”
+Pub. L. 99–514, title XVIII, § 1804(f)(3), Oct. 22, 1986, 100 Stat. 2805, provided that: “Paragraph (7) of section 312(n) of the Internal Revenue Code of 1954 [now 1986] (as redesignated by paragraph (1)(D) of this subsection), and the amendments made by section 61(a)(2) of the Tax Reform Act of 1984 [amending this section], shall apply to distributions in taxable years beginning after September 30, 1984.”
 
 **Effective Date of 1985 Amendment**
 
@@ -2109,7 +2109,7 @@ Amendment by Pub. L. 99–121 applicable with respect to property placed in serv
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 61(e)(1)–(3), July 18, 1984, 98 Stat. 582, 583, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, § 61(e)(1)–(3), July 18, 1984, 98 Stat. 582, 583, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) Adjustments to earnings and profits.—**
 
@@ -2129,9 +2129,9 @@ Pub. L. 98–369, div. A, title I, § 61(e)(1)–(3), July 18, 1984, 98 Stat. 
 
 Amendment by section 61(a)(2) of Pub. L. 98–369 applicable to distributions in taxable years beginning after Sept. 30, 1984, see section 1804(f)(3) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note above.
 
-Pub. L. 99–514, title XVIII, § 1804(f)(1)(F), Oct. 22, 1986, 100 Stat. 2805, provided that: “Any reference in subsection (e) of section 61 of the Tax Reform Act of 1984 [set out above] to a paragraph of section 312(n) of the Internal Revenue Code of 1954 [now 1986] shall be treated as a reference to such paragraph as in effect before its redesignation by subparagraph (D) [see 1986 Amendment note above].”
+Pub. L. 99–514, title XVIII, § 1804(f)(1)(F), Oct. 22, 1986, 100 Stat. 2805, provided that: “Any reference in subsection (e) of section 61 of the Tax Reform Act of 1984 [set out above] to a paragraph of section 312(n) of the Internal Revenue Code of 1954 [now 1986] shall be treated as a reference to such paragraph as in effect before its redesignation by subparagraph (D) [see 1986 Amendment note above].”
 
-Pub. L. 98–369, div. A, title I, § 63(c), July 18, 1984, 98 Stat. 584, provided that: “The amendment made by this section [amending this section and section 368 of this title] shall apply to transactions pursuant to plans adopted after the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title I, § 63(c), July 18, 1984, 98 Stat. 584, provided that: “The amendment made by this section [amending this section and section 368 of this title] shall apply to transactions pursuant to plans adopted after the date of the enactment of this Act [July 18, 1984].”
 
 Amendment by section 111(e)(5) of Pub. L. 98–369 applicable with respect to property placed in service by the taxpayer after Mar. 15, 1984, subject to certain exceptions, see section 111(g) of Pub. L. 98–369, set out as a note under section 168 of this title.
 
@@ -2187,21 +2187,21 @@ Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in
 
 Amendment by section 13(f)(3) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1962, see section 13(g) of Pub. L. 87–834, set out as an Effective Date note under section 1245 of this title.
 
-Pub. L. 87–834, § 14(c), Oct. 16, 1962, 76 Stat. 1041, provided that: “The amendments made by this section [enacting sections 1246 and 1247 of this title and amending this section and sections 751 and 1223 of this title] shall apply with respect to taxable years beginning after December 31, 1962.”
+Pub. L. 87–834, § 14(c), Oct. 16, 1962, 76 Stat. 1041, provided that: “The amendments made by this section [enacting sections 1246 and 1247 of this title and amending this section and sections 751 and 1223 of this title] shall apply with respect to taxable years beginning after December 31, 1962.”
 
-Pub. L. 87–403, § 3(g), Feb. 2, 1962, 76 Stat. 8, provided that: “The amendments made by this section [amending this section and sections 535, 543, 545, 556 and 561 of this title] shall apply only with respect to distributions made after the date of the enactment of this Act [Feb. 2, 1962].”
+Pub. L. 87–403, § 3(g), Feb. 2, 1962, 76 Stat. 8, provided that: “The amendments made by this section [amending this section and sections 535, 543, 545, 556 and 561 of this title] shall apply only with respect to distributions made after the date of the enactment of this Act [Feb. 2, 1962].”
 
 **Savings Provision**
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 ### Subpart C—Definitions; Constructive Ownership of Stock
 
-#### § 316. Dividend defined
+#### § 316. Dividend defined
 
 **(a) General rule** For purposes of this subtitle, the term “dividend” means any distribution of property made by a corporation to its shareholders—
 
@@ -2243,7 +2243,7 @@ The term “dividend” also means any distribution of property (whether or not 
 
 In the case of a regulated investment company that has a taxable year other than a calendar year, if the distributions by the company with respect to any class of stock of such company for the taxable year exceed the company’s current and accumulated earnings and profits which may be used for the payment of dividends on such class of stock, the company’s current earnings and profits shall, for purposes of subsection (a), be allocated first to distributions with respect to such class of stock made during the portion of the taxable year which precedes January 1.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 98; Mar. 13, 1956, ch. 83, § 5(1), 70 Stat. 49; Pub. L. 88–272, title II, § 225(f)(1), Feb. 26, 1964, 78 Stat. 87; Pub. L. 94–455, title XVI, § 1601(d), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1834; Pub. L. 95–600, title III, § 362(d)(1), Nov. 6, 1978, 92 Stat. 2851; Pub. L. 111–325, title III, § 305(a), Dec. 22, 2010, 124 Stat. 3549.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 98; Mar. 13, 1956, ch. 83, § 5(1), 70 Stat. 49; Pub. L. 88–272, title II, § 225(f)(1), Feb. 26, 1964, 78 Stat. 87; Pub. L. 94–455, title XVI, § 1601(d), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1834; Pub. L. 95–600, title III, § 362(d)(1), Nov. 6, 1978, 92 Stat. 2851; Pub. L. 111–325, title III, § 305(a), Dec. 22, 2010, 124 Stat. 3549.)
 
 **Editorial Notes**
 
@@ -2253,9 +2253,9 @@ In the case of a regulated investment company that has a taxable year other than
 
 1978—Subsec. (b)(3). Pub. L. 95–600 inserted “regulated investment company or” after “distributions by a” in heading and substituted in text “section 860(f)” for “section 859(d)”.
 
-1976—Subsec. (b)(2)(B)(ii). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (b)(2)(B)(ii). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b)(3). Pub. L. 94–455, § 1601(d), added par. (3).
+Subsec. (b)(3). Pub. L. 94–455, § 1601(d), added par. (3).
 
 1964—Subsec. (b)(2). Pub. L. 88–272 inserted definition of “distribution of property”.
 
@@ -2265,7 +2265,7 @@ Subsec. (b)(3). Pub. L. 94–455, § 1601(d), added par. (3).
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–325, title III, § 305(b), Dec. 22, 2010, 124 Stat. 3549, provided that: “The amendment made by this section [amending this section] shall apply to distributions made in taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
+Pub. L. 111–325, title III, § 305(b), Dec. 22, 2010, 124 Stat. 3549, provided that: “The amendment made by this section [amending this section] shall apply to distributions made in taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
 
 **Effective Date of 1978 Amendment**
 
@@ -2277,7 +2277,7 @@ For effective date of amendment by section 1601(d) of Pub. L. 94–455, see sect
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–272, title II, § 225(*l*), Feb. 26, 1964, 78 Stat. 94, provided that:
+Pub. L. 88–272, title II, § 225(*l*), Feb. 26, 1964, 78 Stat. 94, provided that:
 
 > **“(1)** The amendments made by this section [enacting section 1022, redesignating former section 1022 as 1023, amending this section and sections 331, 333, 381, 541, 542, 543, 544, 545, 551, 553, 554, 562, 856, 1016, 1361, 6501, and the analysis preceding section 1011, and enacting provisions set out as a note under section 333 of this title] (other than by subsections (c)(1), (f), (g), and (j) [enacting section 1022, redesignating former section 1022 as 1023, amending this section and sections 331, 333, 542, 551, 562, 1016, and the analysis preceding section 1011 of this title]) shall apply to taxable years beginning after December 31, 1963.
 
@@ -2291,9 +2291,9 @@ Pub. L. 88–272, title II, § 225(*l*), Feb. 26, 1964, 78 Stat. 94, provided 
 
 **Effective Date of 1956 Amendment**
 
-Act Mar. 13, 1956, ch. 83, § 6, 70 Stat. 49, provided that: “The amendments made by this Act [amending this section and sections 501, 594, 801 to 805, 811 to 813, 816 to 818, 821, 822, 832, 841, 842, 843, 891, 1201, 1504, and 4371 of this title] shall apply only to taxable years beginning after December 31, 1954.”
+Act Mar. 13, 1956, ch. 83, § 6, 70 Stat. 49, provided that: “The amendments made by this Act [amending this section and sections 501, 594, 801 to 805, 811 to 813, 816 to 818, 821, 822, 832, 841, 842, 843, 891, 1201, 1504, and 4371 of this title] shall apply only to taxable years beginning after December 31, 1954.”
 
-#### § 317. Other definitions
+#### § 317. Other definitions
 
 **(a) Property**
 
@@ -2305,7 +2305,7 @@ For purposes of this part, stock shall be treated as redeemed by a corporation i
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 99.)
 
-#### § 318. Constructive ownership of stock
+#### § 318. Constructive ownership of stock
 
 **(a) General rule** For purposes of those provisions of this subchapter to which the rules contained in this section are expressly made applicable—
 
@@ -2401,7 +2401,7 @@ The preceding sentence shall not apply for purposes of determining whether stock
 
 **(8)** section 6038(e)(2) (relating to information with respect to certain foreign corporations).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 99; Pub. L. 86–779, § 10(h), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 87–834, § 20(d)(1), Oct. 16, 1962, 76 Stat. 1063; Pub. L. 88–554, § 4(a), (b)(2), Aug. 31, 1964, 78 Stat. 762, 763; Pub. L. 97–248, title II, § 224(c)(3), Sept. 3, 1982, 96 Stat. 489; Pub. L. 98–369, div. A, title VII, §§ 712(k)(5)(E), 721(j), July 18, 1984, 98 Stat. 950, 969; Pub. L. 99–514, title VI, § 621(c)(1), Oct. 22, 1986, 100 Stat. 2266; Pub. L. 105–34, title XI, § 1142(e)(3), Aug. 5, 1997, 111 Stat. 983; Pub. L. 109–135, title IV, § 412(u), Dec. 21, 2005, 119 Stat. 2638.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 99; Pub. L. 86–779, § 10(h), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 87–834, § 20(d)(1), Oct. 16, 1962, 76 Stat. 1063; Pub. L. 88–554, § 4(a), (b)(2), Aug. 31, 1964, 78 Stat. 762, 763; Pub. L. 97–248, title II, § 224(c)(3), Sept. 3, 1982, 96 Stat. 489; Pub. L. 98–369, div. A, title VII, §§ 712(k)(5)(E), 721(j), July 18, 1984, 98 Stat. 950, 969; Pub. L. 99–514, title VI, § 621(c)(1), Oct. 22, 1986, 100 Stat. 2266; Pub. L. 105–34, title XI, § 1142(e)(3), Aug. 5, 1997, 111 Stat. 983; Pub. L. 109–135, title IV, § 412(u), Dec. 21, 2005, 119 Stat. 2638.)
 
 **Editorial Notes**
 
@@ -2413,15 +2413,15 @@ The preceding sentence shall not apply for purposes of determining whether stock
 
 1986—Subsec. (b)(5). Pub. L. 99–514 substituted “382(*l*)(3)” for “382(a)(3)”.
 
-1984—Subsec. (a)(5)(E). Pub. L. 98–369, § 721(j), added subpar. (E).
+1984—Subsec. (a)(5)(E). Pub. L. 98–369, § 721(j), added subpar. (E).
 
-Subsec. (b)(4). Pub. L. 98–369, § 712(k)(5)(E), substituted “section 338(h)(3) (defining purchase)” for “section 338(h)(3)(B) (relating to purchase of stock from subsidiaries, etc.)”.
+Subsec. (b)(4). Pub. L. 98–369, § 712(k)(5)(E), substituted “section 338(h)(3) (defining purchase)” for “section 338(h)(3)(B) (relating to purchase of stock from subsidiaries, etc.)”.
 
 1982—Subsec. (b)(4). Pub. L. 97–248 substituted “section 338(h)(3)(B) (relating to purchase of stock from subsidiaries, etc.)” for “section 334(b)(3)(C) (relating to basis of property received in certain liquidations of subsidiaries)”.
 
-1964—Subsec. (a). Pub. L. 88–554, § 4(a), struck out sidewise attribution by providing that when stock is attributed to a partnership, estate, trust, or corporation from a partner, shareholder, or beneficiary, this stock is not to be attributed again to another partner, beneficiary, or shareholder.
+1964—Subsec. (a). Pub. L. 88–554, § 4(a), struck out sidewise attribution by providing that when stock is attributed to a partnership, estate, trust, or corporation from a partner, shareholder, or beneficiary, this stock is not to be attributed again to another partner, beneficiary, or shareholder.
 
-Subsec. (b)(7), (8). Pub. L. 88–554, § 4(b)(2), added par. (7) and redesignated former par. (7) as (8).
+Subsec. (b)(7), (8). Pub. L. 88–554, § 4(b)(2), added par. (7) and redesignated former par. (7) as (8).
 
 1962—Subsec. (b)(7). Pub. L. 87–834 added par. (7).
 
@@ -2431,7 +2431,7 @@ Subsec. (b)(7), (8). Pub. L. 88–554, § 4(b)(2), added par. (7) and redesign
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XI, § 1142(f), Aug. 5, 1997, 111 Stat. 983, provided that: “The amendments made by this section [amending this section and sections 901 and 6038 of this title] shall apply to annual accounting periods beginning after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XI, § 1142(f), Aug. 5, 1997, 111 Stat. 983, provided that: “The amendments made by this section [amending this section and sections 901 and 6038 of this title] shall apply to annual accounting periods beginning after the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1986 Amendment**
 
@@ -2451,7 +2451,7 @@ Amendment by Pub. L. 97–248 applicable to any target corporation with respect 
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–554, § 4(c), Aug. 31, 1964, 78 Stat. 764, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [amending this section and sections 304, 382, 856, 958, and 6038 of this title] shall take effect on the date of the enactment of this Act, [Aug. 31, 1964], except that, for purposes of sections 302 and 304 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], such amendments shall not apply with respect to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before the date of the enactment of this Act.”
+Pub. L. 88–554, § 4(c), Aug. 31, 1964, 78 Stat. 764, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [amending this section and sections 304, 382, 856, 958, and 6038 of this title] shall take effect on the date of the enactment of this Act, [Aug. 31, 1964], except that, for purposes of sections 302 and 304 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], such amendments shall not apply with respect to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before the date of the enactment of this Act.”
 
 **Effective Date of 1960 Amendment**
 
@@ -2463,11 +2463,11 @@ Amendment by Pub. L. 86–779 applicable with respect to taxable years of real e
 
 **Amendments**
 
-2003—Pub. L. 108–27, title III, § 302(e)(4)(B)(iii), May 28, 2003, 117 Stat. 764, struck out item for subpart C “Collapsible corporations”.
+2003—Pub. L. 108–27, title III, § 302(e)(4)(B)(iii), May 28, 2003, 117 Stat. 764, struck out item for subpart C “Collapsible corporations”.
 
-1982—Pub. L. 97–248, title II, § 222(e)(8)(B), Sept. 3, 1982, 96 Stat. 481, inserted “and special rule” in item for subpart D.
+1982—Pub. L. 97–248, title II, § 222(e)(8)(B), Sept. 3, 1982, 96 Stat. 481, inserted “and special rule” in item for subpart D.
 
-1976—Pub. L. 94–455, title XIX, § 1901(b)(12)(B), Oct. 4, 1976, 90 Stat. 1795, struck out in table of subparts for part II of subchapter C of chapter 1 in subpart (C) “; foreign personal holding companies” after “corporations”.
+1976—Pub. L. 94–455, title XIX, § 1901(b)(12)(B), Oct. 4, 1976, 90 Stat. 1795, struck out in table of subparts for part II of subchapter C of chapter 1 in subpart (C) “; foreign personal holding companies” after “corporations”.
 
 ### Subpart A—Effects on Recipients
 
@@ -2475,9 +2475,9 @@ Amendment by Pub. L. 86–779 applicable with respect to taxable years of real e
 
 **Amendments**
 
-1986—Pub. L. 99–514, title VI, § 631(e)(16), Oct. 22, 1986, 100 Stat. 2275, struck out item 333 “Election as to recognition of gain in certain liquidations”.
+1986—Pub. L. 99–514, title VI, § 631(e)(16), Oct. 22, 1986, 100 Stat. 2275, struck out item 333 “Election as to recognition of gain in certain liquidations”.
 
-#### § 331. Gain or loss to shareholder in corporate liquidations
+#### § 331. Gain or loss to shareholder in corporate liquidations
 
 **(a) Distributions in complete liquidation treated as exchanges**
 
@@ -2491,7 +2491,7 @@ Section 301 (relating to effects on shareholder of distributions of property) sh
 
 For general rule for determination of the amount of gain or loss recognized, see section 1001.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 101; Pub. L. 88–272, title II, § 225(f)(2), Feb. 26, 1964, 78 Stat. 88; Pub. L. 94–455, title XIX, § 1901(b)(28)(A), Oct. 4, 1976, 90 Stat. 1799; Pub. L. 97–248, title II, § 222(a), (e)(1)(B), Sept. 3, 1982, 96 Stat. 478, 480; Pub. L. 115–141, div. U, title IV, § 401(a)(63), Mar. 23, 2018, 132 Stat. 1187.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 101; Pub. L. 88–272, title II, § 225(f)(2), Feb. 26, 1964, 78 Stat. 88; Pub. L. 94–455, title XIX, § 1901(b)(28)(A), Oct. 4, 1976, 90 Stat. 1799; Pub. L. 97–248, title II, § 222(a), (e)(1)(B), Sept. 3, 1982, 96 Stat. 478, 480; Pub. L. 115–141, div. U, title IV, § 401(a)(63), Mar. 23, 2018, 132 Stat. 1187.)
 
 **Editorial Notes**
 
@@ -2499,9 +2499,9 @@ For general rule for determination of the amount of gain or loss recognized, see
 
 2018—Pub. L. 115–141 substituted “shareholder” for “shareholders” in section catchline.
 
-1982—Subsec. (a). Pub. L. 97–248, § 222(a), substituted provisions that amounts received by a shareholder in a distribution in complete liquidation of a corporation shall be treated as in full payment in exchange for the stock for provisions that, in complete liquidations, amounts distributed shall be treated as in full payment in exchange for the stock, while amounts distributed in partial liquidation shall be treated as in part or full payment in exchange for the stock.
+1982—Subsec. (a). Pub. L. 97–248, § 222(a), substituted provisions that amounts received by a shareholder in a distribution in complete liquidation of a corporation shall be treated as in full payment in exchange for the stock for provisions that, in complete liquidations, amounts distributed shall be treated as in full payment in exchange for the stock, while amounts distributed in partial liquidation shall be treated as in part or full payment in exchange for the stock.
 
-Subsec. (b). Pub. L. 97–248, § 222(e)(1)(B), struck out “partial or” before “complete liquidation”.
+Subsec. (b). Pub. L. 97–248, § 222(e)(1)(B), struck out “partial or” before “complete liquidation”.
 
 1976—Subsec. (c). Pub. L. 94–455 substituted “reference” for “references” in heading and struck out cross reference relating to general rule for determination of the amount of gain or loss to the distributee and substituted “section 1001” for “section 1002”.
 
@@ -2523,9 +2523,9 @@ Amendment by Pub. L. 88–272 applicable to distribution made in any taxable yea
 
 **Liquidations Before January 1, 1966**
 
-Pub. L. 88–272, title II, § 225(h), Feb. 26, 1964, 78 Stat. 90, provided that in the case of corporations referred to in former subsec. (g)(3) of this section the amendments made by section 225 of Pub. L. 88–272 do not apply if there is a complete liquidation of such corporation and if the distribution of all the property under such liquidation occurs before Jan. 1, 1966, except for certain liquidations to which section 332 of this title applies.
+Pub. L. 88–272, title II, § 225(h), Feb. 26, 1964, 78 Stat. 90, provided that in the case of corporations referred to in former subsec. (g)(3) of this section the amendments made by section 225 of Pub. L. 88–272 do not apply if there is a complete liquidation of such corporation and if the distribution of all the property under such liquidation occurs before Jan. 1, 1966, except for certain liquidations to which section 332 of this title applies.
 
-#### § 332. Complete liquidations of subsidiaries
+#### § 332. Complete liquidations of subsidiaries
 
 **(a) General rule**
 
@@ -2577,7 +2577,7 @@ If the distributee of a distribution described in paragraph (1) is a controlled 
 
 The Secretary shall provide such regulations as appropriate to prevent the abuse of this subsection, including regulations which provide, for the purposes of clause (iv) of paragraph (2)(A), that a corporation is not in existence for any period unless it is engaged in the active conduct of a trade or business or owns a significant ownership interest in another corporation so engaged.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 102; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, § 631(e)(2), title XVIII, § 1804(e)(6)(A), Oct. 22, 1986, 100 Stat. 2273, 2803; Pub. L. 105–277, div. J, title III, § 3001(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–904; Pub. L. 108–357, title VIII, § 893(a), Oct. 22, 2004, 118 Stat. 1646; Pub. L. 109–135, title IV, § 412(v), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 115–141, div. U, title IV, § 401(d)(1)(D)(xvii)(III), Mar. 23, 2018, 132 Stat. 1208.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 102; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, § 631(e)(2), title XVIII, § 1804(e)(6)(A), Oct. 22, 1986, 100 Stat. 2273, 2803; Pub. L. 105–277, div. J, title III, § 3001(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–904; Pub. L. 108–357, title VIII, § 893(a), Oct. 22, 2004, 118 Stat. 1646; Pub. L. 109–135, title IV, § 412(v), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 115–141, div. U, title IV, § 401(d)(1)(D)(xvii)(III), Mar. 23, 2018, 132 Stat. 1208.)
 
 **Editorial Notes**
 
@@ -2589,13 +2589,13 @@ The Secretary shall provide such regulations as appropriate to prevent the abuse
 
 2004—Subsec. (d). Pub. L. 108–357 added subsec. (d).
 
-1998—Subsec. (b). Pub. L. 105–277, § 3001(b)(1), substituted “this section” for “subsection (a)” in introductory provisions.
+1998—Subsec. (b). Pub. L. 105–277, § 3001(b)(1), substituted “this section” for “subsection (a)” in introductory provisions.
 
-Subsec. (c). Pub. L. 105–277, § 3001(a), added subsec. (c).
+Subsec. (c). Pub. L. 105–277, § 3001(a), added subsec. (c).
 
-1986—Subsec. (b)(1). Pub. L. 99–514, § 1804(e)(6)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the corporation receiving such property was, on the date of the adoption of the plan of liquidation, and has continued to be at all times until the receipt of the property, the owner of stock (in such other corporation) possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and the owner of at least 80 percent of the total number of shares of all other classes of stock (except nonvoting stock which is limited and preferred as to dividends); and either”.
+1986—Subsec. (b)(1). Pub. L. 99–514, § 1804(e)(6)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the corporation receiving such property was, on the date of the adoption of the plan of liquidation, and has continued to be at all times until the receipt of the property, the owner of stock (in such other corporation) possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and the owner of at least 80 percent of the total number of shares of all other classes of stock (except nonvoting stock which is limited and preferred as to dividends); and either”.
 
-Subsec. (c). Pub. L. 99–514, § 631(e)(2), struck out subsec. (c) containing special rule for indebtedness of subsidiary to parent in relation to complete liquidations of subsidiaries.
+Subsec. (c). Pub. L. 99–514, § 631(e)(2), struck out subsec. (c) containing special rule for indebtedness of subsidiary to parent in relation to complete liquidations of subsidiaries.
 
 1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
@@ -2603,17 +2603,17 @@ Subsec. (c). Pub. L. 99–514, § 631(e)(2), struck out subsec. (c) containing
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 893(b), Oct. 22, 2004, 118 Stat. 1647, provided that: “The amendment made by this section [amending this section] shall apply to distributions in complete liquidation occurring on or after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 893(b), Oct. 22, 2004, 118 Stat. 1647, provided that: “The amendment made by this section [amending this section] shall apply to distributions in complete liquidation occurring on or after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–277, div. J, title III, § 3001(c), Oct. 21, 1998, 112 Stat. 2681–904, provided that: “The amendments made by this section [amending this section and section 334 of this title] shall apply to distributions after May 21, 1998.”
+Pub. L. 105–277, div. J, title III, § 3001(c), Oct. 21, 1998, 112 Stat. 2681–904, provided that: “The amendments made by this section [amending this section and section 334 of this title] shall apply to distributions after May 21, 1998.”
 
 **Effective Date of 1986 Amendment**
 
 Amendment by section 631(e)(2) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
-Pub. L. 99–514, title XVIII, § 1804(e)(6)(B), Oct. 22, 1986, 100 Stat. 2803, provided that:
+Pub. L. 99–514, title XVIII, § 1804(e)(6)(B), Oct. 22, 1986, 100 Stat. 2803, provided that:
 
 > **“(i) In general.—** Except as provided in clause (iii), the amendment made by subparagraph (A) [amending this section] shall apply with respect to plans of complete liquidation adopted after March 28, 1985.
 
@@ -2625,13 +2625,13 @@ Pub. L. 99–514, title XVIII, § 1804(e)(6)(B), Oct. 22, 1986, 100 Stat. 2803
 
 For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-#### [§ 333. Repealed. Pub. L. 99–514, title VI, § 631(e)(3), Oct. 22, 1986, 100 Stat. 2273]
+#### [§ 333. Repealed. Pub. L. 99–514, title VI, § 631(e)(3), Oct. 22, 1986, 100 Stat. 2273]
 
-Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 103; Feb. 26, 1964, Pub. L. 88–272, title II, § 225(g), 78 Stat. 89; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§ 1901(a)(44), 1906(b)(13)(A), 1951(b)(6)(A), 90 Stat. 1772, 1834, 1838, related to election as to recognition of gain in certain liquidations.
+Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 103; Feb. 26, 1964, Pub. L. 88–272, title II, § 225(g), 78 Stat. 89; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§ 1901(a)(44), 1906(b)(13)(A), 1951(b)(6)(A), 90 Stat. 1772, 1834, 1838, related to election as to recognition of gain in certain liquidations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2639,7 +2639,7 @@ Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 103; Feb. 26, 1964, Pub. L. 88�
 
 Repeal applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
-#### § 334. Basis of property received in liquidations
+#### § 334. Basis of property received in liquidations
 
 **(a) General rule**
 
@@ -2657,7 +2657,7 @@ If property is received in a distribution in complete liquidation, and if gain o
 
 For purposes of this subsection, the term “corporate distributee” means only the corporation which meets the stock ownership requirements specified in section 332(b).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 104; Pub. L. 89–809, title II, § 202(a), (b), Nov. 13, 1966, 80 Stat. 1576; Pub. L. 94–455, title XIX, §§ 1901(a)(45), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1772, 1834; Pub. L. 97–248, title II, §§ 222(e)(1)(C), 224(b), Sept. 3, 1982, 96 Stat. 480, 488; Pub. L. 99–514, title VI, § 631(e)(4), Oct. 22, 1986, 100 Stat. 2273; Pub. L. 100–647, title I, § 1006(e)(6), Nov. 10, 1988, 102 Stat. 3401; Pub. L. 105–277, div. J, title III, § 3001(b)(2), Oct. 21, 1998, 112 Stat. 2681–904; Pub. L. 108–357, title VIII, § 836(b), Oct. 22, 2004, 118 Stat. 1595; Pub. L. 109–135, title IV, § 403(dd)(1), Dec. 21, 2005, 119 Stat. 2630.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 104; Pub. L. 89–809, title II, § 202(a), (b), Nov. 13, 1966, 80 Stat. 1576; Pub. L. 94–455, title XIX, §§ 1901(a)(45), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1772, 1834; Pub. L. 97–248, title II, §§ 222(e)(1)(C), 224(b), Sept. 3, 1982, 96 Stat. 480, 488; Pub. L. 99–514, title VI, § 631(e)(4), Oct. 22, 1986, 100 Stat. 2273; Pub. L. 100–647, title I, § 1006(e)(6), Nov. 10, 1988, 102 Stat. 3401; Pub. L. 105–277, div. J, title III, § 3001(b)(2), Oct. 21, 1998, 112 Stat. 2681–904; Pub. L. 108–357, title VIII, § 836(b), Oct. 22, 2004, 118 Stat. 1595; Pub. L. 109–135, title IV, § 403(dd)(1), Dec. 21, 2005, 119 Stat. 2630.)
 
 **Editorial Notes**
 
@@ -2681,19 +2681,19 @@ For purposes of this subsection, the term “corporate distributee” means only
 
 “(3) Distributee defined.—For purposes of this subsection, the term ‘distributee’ means only the corporation which meets the 80-percent stock ownership requirements specified in section 332(b).”
 
-1986—Subsec. (a). Pub. L. 99–514, § 631(e)(4)(A), struck out “(other than a distribution to which section 333 applies)” after “liquidation”.
+1986—Subsec. (a). Pub. L. 99–514, § 631(e)(4)(A), struck out “(other than a distribution to which section 333 applies)” after “liquidation”.
 
-Subsec. (c). Pub. L. 99–514, § 631(e)(4)(B), struck out subsec. (c) relating to property received in liquidation under section 333.
+Subsec. (c). Pub. L. 99–514, § 631(e)(4)(B), struck out subsec. (c) relating to property received in liquidation under section 333.
 
-1982—Subsec. (a). Pub. L. 97–248, § 222(e)(1)(C), struck out “partial or” before “complete liquidation”.
+1982—Subsec. (a). Pub. L. 97–248, § 222(e)(1)(C), struck out “partial or” before “complete liquidation”.
 
-Subsec. (b). Pub. L. 97–248, § 224(b), struck out heading to par. (1) “In general”, redesignated first sentence as par. (1) with heading “Distribution in complete liquidation”, in par. (1) as so redesignated substituted reference to section 332(a) for reference to section 332(b) relating to a distribution in complete liquidation, struck out reference to par. (2) as an exception to the determination of basis, redesignated second sentence as par. (2) with heading “Transfers to which section 332(c) applies”, in par. (2) as so redesignated struck out reference to par. (2) as an exception to the determination of basis, struck out par. (2) which had provided that if property was received by a corporation in a distribution in complete liquidation of another corporation and if the distribution was pursuant to a plan of liquidation adopted not more than 2 years after the date of the transaction described below, or in the case of a series of transactions, the date of the last such transaction, and stock of the distributing corporation possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote, and at least 80 percent of the total number of shares of all other classes of stock (except nonvoting stock which was limited and preferred as to dividends), was acquired by the distributee by purchase (as defined in par. (3)) during a 12-month period beginning with the earlier of the date of the first acquisition by purchase of such stock, or if any of such stock was acquired in an acquisition which is a purchase within the meaning of second sentence of par. (3), the date on which the distributee was first considered under section 318(a) as owning stock owned by the corporation from which such acquisition was made, then the basis of the property in the hands of the distributee would be the adjusted basis of the stock with respect to which the distribution was made, and under regulations prescribed by the Secretary, proper adjustment in the adjusted basis of any stock would be made for any distribution made to the distributee with respect to such stock before the adoption of the plan of liquidation, for any money received, for any liabilities assumed or subject to which the property was received, and for other items, and struck out par. (3) which provided that “purchase” meant any acquisition of stock, but only if the basis of the stock in the hands of the distributee was not determined in whole or in part by reference to the adjusted basis of such stock in the hands of the person from whom acquired, or under section 1014(a) of this title the stock was not acquired in an exchange to which section 351 of this title applies, and the stock was not acquired from a person the ownership of whose stock would, under section 318(a) of this title, be attributed to the person acquiring such stock, but that “purchase” also meant an acquisition of stock from a corporation when ownership of such stock would be attributed under section 318(a) to the person acquiring such stock, if the stock of such corporation by reason of which such ownership would be attributed was acquired by purchase, and redesignated par. (4) as (3).
+Subsec. (b). Pub. L. 97–248, § 224(b), struck out heading to par. (1) “In general”, redesignated first sentence as par. (1) with heading “Distribution in complete liquidation”, in par. (1) as so redesignated substituted reference to section 332(a) for reference to section 332(b) relating to a distribution in complete liquidation, struck out reference to par. (2) as an exception to the determination of basis, redesignated second sentence as par. (2) with heading “Transfers to which section 332(c) applies”, in par. (2) as so redesignated struck out reference to par. (2) as an exception to the determination of basis, struck out par. (2) which had provided that if property was received by a corporation in a distribution in complete liquidation of another corporation and if the distribution was pursuant to a plan of liquidation adopted not more than 2 years after the date of the transaction described below, or in the case of a series of transactions, the date of the last such transaction, and stock of the distributing corporation possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote, and at least 80 percent of the total number of shares of all other classes of stock (except nonvoting stock which was limited and preferred as to dividends), was acquired by the distributee by purchase (as defined in par. (3)) during a 12-month period beginning with the earlier of the date of the first acquisition by purchase of such stock, or if any of such stock was acquired in an acquisition which is a purchase within the meaning of second sentence of par. (3), the date on which the distributee was first considered under section 318(a) as owning stock owned by the corporation from which such acquisition was made, then the basis of the property in the hands of the distributee would be the adjusted basis of the stock with respect to which the distribution was made, and under regulations prescribed by the Secretary, proper adjustment in the adjusted basis of any stock would be made for any distribution made to the distributee with respect to such stock before the adoption of the plan of liquidation, for any money received, for any liabilities assumed or subject to which the property was received, and for other items, and struck out par. (3) which provided that “purchase” meant any acquisition of stock, but only if the basis of the stock in the hands of the distributee was not determined in whole or in part by reference to the adjusted basis of such stock in the hands of the person from whom acquired, or under section 1014(a) of this title the stock was not acquired in an exchange to which section 351 of this title applies, and the stock was not acquired from a person the ownership of whose stock would, under section 318(a) of this title, be attributed to the person acquiring such stock, but that “purchase” also meant an acquisition of stock from a corporation when ownership of such stock would be attributed under section 318(a) to the person acquiring such stock, if the stock of such corporation by reason of which such ownership would be attributed was acquired by purchase, and redesignated par. (4) as (3).
 
-1976—Subsec. (b)(2). Pub. L. 94–455, §§ 1901(a)(45), 1906(b)(13)(A), struck out in subpar. (A) provision relating to distributions made pursuant to a plan of liquidation adopted on or before June 22, 1954, and in provisions following subpar. (B)(ii) “or his delegate” after “Secretary”.
+1976—Subsec. (b)(2). Pub. L. 94–455, §§ 1901(a)(45), 1906(b)(13)(A), struck out in subpar. (A) provision relating to distributions made pursuant to a plan of liquidation adopted on or before June 22, 1954, and in provisions following subpar. (B)(ii) “or his delegate” after “Secretary”.
 
-1966—Subsec. (b)(2)(B). Pub. L. 89–809, § 202(b), inserted provisions for the determination of the date on which to commence the running of the 12-month period during which the distributee must have acquired the stock by purchase by adding clauses (i) and (ii).
+1966—Subsec. (b)(2)(B). Pub. L. 89–809, § 202(b), inserted provisions for the determination of the date on which to commence the running of the 12-month period during which the distributee must have acquired the stock by purchase by adding clauses (i) and (ii).
 
-Subsec. (b)(3). Pub. L. 89–809, § 202(a), inserted provision that, for purposes of par. (2)(B), “purchase” also means an acquisition of stock from a corporation when ownership of such stock would be attributed under section 318(a) to the person acquiring such stock, if the stock of such corporation by reason of which such ownership would be attributed was acquired by purchase.
+Subsec. (b)(3). Pub. L. 89–809, § 202(a), inserted provision that, for purposes of par. (2)(B), “purchase” also means an acquisition of stock from a corporation when ownership of such stock would be attributed under section 318(a) to the person acquiring such stock, if the stock of such corporation by reason of which such ownership would be attributed was acquired by purchase.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2703,7 +2703,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 836(c)(2), Oct. 22, 2004, 118 Stat. 1596, provided that: “The amendment made by subsection (b) [amending this section] shall apply to liquidations after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 836(c)(2), Oct. 22, 2004, 118 Stat. 1596, provided that: “The amendment made by subsection (b) [amending this section] shall apply to liquidations after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 1998 Amendment**
 
@@ -2729,11 +2729,11 @@ Amendment by section 1901(a)(45) of Pub. L. 94–455 effective for taxable years
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–809, title II, § 202(d), Nov. 13, 1966, 80 Stat. 1576, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to acquisitions of stock after December 31, 1965. The amendment made by subsections (b) and (c) [amending this section and section 453 of this title] shall apply only with respect to distributions made after the date of the enactment of this Act [Nov. 13, 1966].”
+Pub. L. 89–809, title II, § 202(d), Nov. 13, 1966, 80 Stat. 1576, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to acquisitions of stock after December 31, 1965. The amendment made by subsections (b) and (c) [amending this section and section 453 of this title] shall apply only with respect to distributions made after the date of the enactment of this Act [Nov. 13, 1966].”
 
 **Adjustment for Liability to Basis of Property Distributed in Complete Liquidation of Corporation Prior to July 1, 1957; Deduction for Uncompensated Liability**
 
-Pub. L. 93–497, § 3, Oct. 29, 1974, 88 Stat. 1534, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 93–497, § 3, Oct. 29, 1974, 88 Stat. 1534, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a)** Notwithstanding the provisions of section 334 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to basis of property received in liquidations), no adjustment to the basis of any property distributed in complete liquidation of a corporation prior to July 1, 1957, shall be made for any liability if—
 
@@ -2753,11 +2753,11 @@ Pub. L. 93–497, § 3, Oct. 29, 1974, 88 Stat. 1534, as amended by Pub. L. 99
 
 **Amendments**
 
-1986—Pub. L. 99–514, title VI, § 631(e)(17), Oct. 22, 1986, 100 Stat. 2275, substituted “Gain or loss recognized on property distributed in complete liquidation” for “General rule” in item 336 and “Nonrecognition for property distributed to parent in complete liquidation of subsidiary” for “Gain or loss on sales or exchanges in connection with certain liquidations” in item 337.
+1986—Pub. L. 99–514, title VI, § 631(e)(17), Oct. 22, 1986, 100 Stat. 2275, substituted “Gain or loss recognized on property distributed in complete liquidation” for “General rule” in item 336 and “Nonrecognition for property distributed to parent in complete liquidation of subsidiary” for “Gain or loss on sales or exchanges in connection with certain liquidations” in item 337.
 
-1982—Pub. L. 97–248, title II, § 224(c)(9), Sept. 3, 1982, 96 Stat. 489, substituted “Certain stock purchases treated as asset acquisitions” for “Effect on earnings and profits” in item 338.
+1982—Pub. L. 97–248, title II, § 224(c)(9), Sept. 3, 1982, 96 Stat. 489, substituted “Certain stock purchases treated as asset acquisitions” for “Effect on earnings and profits” in item 338.
 
-#### § 336. Gain or loss recognized on property distributed in complete liquidation
+#### § 336. Gain or loss recognized on property distributed in complete liquidation
 
 **(a) General rule**
 
@@ -2823,25 +2823,25 @@ In the case of any liquidation to which section 332 applies, no loss shall be re
 
 an election may be made to treat such sale, exchange, or distribution as a disposition of all of the assets of such other corporation, and no gain or loss shall be recognized on the sale, exchange, or distribution of such stock.
 
-(Added Pub. L. 99–514, title VI, § 631(a), Oct. 22, 1986, 100 Stat. 2269; amended Pub. L. 100–647, title I, §§ 1006(e)(1)–(3), (21)(A), 1018(d)(5)(D), Nov. 10, 1988, 102 Stat. 3400, 3403, 3580.)
+(Added Pub. L. 99–514, title VI, § 631(a), Oct. 22, 1986, 100 Stat. 2269; amended Pub. L. 100–647, title I, §§ 1006(e)(1)–(3), (21)(A), 1018(d)(5)(D), Nov. 10, 1988, 102 Stat. 3400, 3403, 3580.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 336, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Apr. 2, 1980, Pub. L. 96–223, title IV, § 403(b)(1), 94 Stat. 304; Oct. 19, 1980, Pub. L. 96–471, § 2(b)(1), (c)(1), 94 Stat. 2253, 2254; Sept. 3, 1982, Pub. L. 97–248, title II, § 222(b), (e)(1)(D), 224(c)(4), 96 Stat. 478, 480, 489, related to distributions of property in liquidation, prior to repeal by Pub. L. 99–514, § 631(a).
+A prior section 336, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Apr. 2, 1980, Pub. L. 96–223, title IV, § 403(b)(1), 94 Stat. 304; Oct. 19, 1980, Pub. L. 96–471, § 2(b)(1), (c)(1), 94 Stat. 2253, 2254; Sept. 3, 1982, Pub. L. 97–248, title II, § 222(b), (e)(1)(D), 224(c)(4), 96 Stat. 478, 480, 489, related to distributions of property in liquidation, prior to repeal by Pub. L. 99–514, § 631(a).
 
 **Amendments**
 
-1988—Subsec. (b). Pub. L. 100–647, § 1006(e)(21)(A), substituted “liabilities” for “liabilities in excess of basis” in heading.
+1988—Subsec. (b). Pub. L. 100–647, § 1006(e)(21)(A), substituted “liabilities” for “liabilities in excess of basis” in heading.
 
-Subsec. (c). Pub. L. 100–647, § 1018(d)(5)(D), substituted “liquidations which are part of a reorganization” for “certain liquidations to which part III applies” in heading and amended text generally. Prior to amendment, text read as follows: “This section shall not apply with respect to any distribution of property to the extent there is nonrecognition of gain or loss with respect to such property to the recipient under part III.”
+Subsec. (c). Pub. L. 100–647, § 1018(d)(5)(D), substituted “liquidations which are part of a reorganization” for “certain liquidations to which part III applies” in heading and amended text generally. Prior to amendment, text read as follows: “This section shall not apply with respect to any distribution of property to the extent there is nonrecognition of gain or loss with respect to such property to the recipient under part III.”
 
-Subsec. (d)(2)(B)(ii). Pub. L. 100–647, § 1006(e)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “For purposes of clause (i), any property described in clause (i)(I) acquired by the liquidating corporation during the 2-year period ending on the date of the adoption of the plan of complete liquidation shall, except as provided in regulations, be treated as part of a plan described in clause (i)(II).”
+Subsec. (d)(2)(B)(ii). Pub. L. 100–647, § 1006(e)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “For purposes of clause (i), any property described in clause (i)(I) acquired by the liquidating corporation during the 2-year period ending on the date of the adoption of the plan of complete liquidation shall, except as provided in regulations, be treated as part of a plan described in clause (i)(II).”
 
-Subsec. (d)(3). Pub. L. 100–647, § 1006(e)(2), inserted at end “The preceding sentence shall apply to any distribution to the 80-percent distributee only if subsection (a) or (b)(1) of section 337 applies to such distribution.”
+Subsec. (d)(3). Pub. L. 100–647, § 1006(e)(2), inserted at end “The preceding sentence shall apply to any distribution to the 80-percent distributee only if subsection (a) or (b)(1) of section 337 applies to such distribution.”
 
-Subsec. (e). Pub. L. 100–647, § 1006(e)(3), substituted “an election may be made” for “such corporation may elect” in concluding provisions.
+Subsec. (e). Pub. L. 100–647, § 1006(e)(3), substituted “an election may be made” for “such corporation may elect” in concluding provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2851,9 +2851,9 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 **Effective Date**
 
-Pub. L. 99–514, title VI, § 633, Oct. 22, 1986, 100 Stat. 2277, as amended by Pub. L. 100–647, title I, § 1006(g), Nov. 10, 1988, 102 Stat. 3407, provided that:
+Pub. L. 99–514, title VI, § 633, Oct. 22, 1986, 100 Stat. 2277, as amended by Pub. L. 100–647, title I, § 1006(g), Nov. 10, 1988, 102 Stat. 3407, provided that:
 
-> **“(a) General Rule.—** Except as otherwise provided in this section, the amendments made by this subtitle [subtitle D (§§ 631–634) of title VI of Pub. L. 99–514, enacting this section and section 337 of this title, amending sections 26, 311, 312, 332, 334, 338, 341, 346, 367, 453, 453B, 467, 852, 897, 1056, 1248, 1255, 1276, 1363, 1366, 1374, and 1375 of this title, and repealing former sections 333, 336, and 337 of this title] shall apply to—
+> **“(a) General Rule.—** Except as otherwise provided in this section, the amendments made by this subtitle [subtitle D (§§ 631–634) of title VI of Pub. L. 99–514, enacting this section and section 337 of this title, amending sections 26, 311, 312, 332, 334, 338, 341, 346, 367, 453, 453B, 467, 852, 897, 1056, 1248, 1255, 1276, 1363, 1366, 1374, and 1375 of this title, and repealing former sections 333, 336, and 337 of this title] shall apply to—
 
 > **“(1)** any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before January 1, 1987,
 
@@ -2867,7 +2867,7 @@ Pub. L. 99–514, title VI, § 633, Oct. 22, 1986, 100 Stat. 2277, as amended 
 
 > **“(2) Application of prior law.—** In the case of any taxable year of an S corporation which begins after December 31, 1986, and to which the amendments made by section 632 (other than subsection (b) thereof) do not apply, paragraph (1) of section 1374(b) of the Internal Revenue Code of 1954 (as in effect on the date before the date of the enactment of this Act [Oct. 22, 1986]) shall be applied as if it read as follows:
 
-> “ ‘(1) an amount equal to 34 percent of the amount by which the net capital gain of the corporation for the taxable year exceeds $25,000, or’[.]
+> “ ‘(1) an amount equal to 34 percent of the amount by which the net capital gain of the corporation for the taxable year exceeds $25,000, or’[.]
 
 > **“(c) Exception for Certain Plans of Liquidation and Binding Contracts.—**
 
@@ -3051,7 +3051,7 @@ Pub. L. 99–514, title VI, § 633, Oct. 22, 1986, 100 Stat. 2277, as amended 
 
 > **“(B) Qualified subsidiary.—** The term ‘qualified subsidiary’ means a corporation created or organized under the laws of Delaware on September 7, 1976, all of the stock of which was owned by parent immediately before the qualified distribution.”
 
-#### § 337. Nonrecognition for property distributed to parent in complete liquidation of subsidiary
+#### § 337. Nonrecognition for property distributed to parent in complete liquidation of subsidiary
 
 **(a) In general**
 
@@ -3093,25 +3093,25 @@ For purposes of this section, the term “80-percent distributee” means only t
 
 **(2)** regulations providing for appropriate coordination of the provisions of this section with the provisions of this title relating to taxation of foreign corporations and their shareholders.
 
-(Added Pub. L. 99–514, title VI, § 631(a), Oct. 22, 1986, 100 Stat. 2271; amended Pub. L. 100–203, title X, § 10223(a), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, § 1006(e)(4), (5)(A), Nov. 10, 1988, 102 Stat. 3400.)
+(Added Pub. L. 99–514, title VI, § 631(a), Oct. 22, 1986, 100 Stat. 2271; amended Pub. L. 100–203, title X, § 10223(a), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, § 1006(e)(4), (5)(A), Nov. 10, 1988, 102 Stat. 3400.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Tax Reform Act of 1986, referred to in subsec. (d), is Pub. L. 99–514, Oct. 22, 1986, 100 Stat. 2085. Subtitle D (§§ 631–634) of title VI of the Tax Reform Act of 1986 enacted sections 336 and 337 of this title, amended sections 26, 311, 312, 332, 334, 338, 341, 346, 367, 453, 453B, 467, 852, 897, 1056, 1248, 1255, 1276, 1363, 1366, 1374, and 1375 of this title, and repealed former sections 333, 336, and 337 of this title. For complete classification of this Act to the Code, see Tables.
+The Tax Reform Act of 1986, referred to in subsec. (d), is Pub. L. 99–514, Oct. 22, 1986, 100 Stat. 2085. Subtitle D (§§ 631–634) of title VI of the Tax Reform Act of 1986 enacted sections 336 and 337 of this title, amended sections 26, 311, 312, 332, 334, 338, 341, 346, 367, 453, 453B, 467, 852, 897, 1056, 1248, 1255, 1276, 1363, 1366, 1374, and 1375 of this title, and repealed former sections 333, 336, and 337 of this title. For complete classification of this Act to the Code, see Tables.
 
 **Prior Provisions**
 
-A prior section 337, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Sept. 2, 1958, Pub. L. 85–866, title I, § 19, 72 Stat. 1615; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§ 1901(a)(46), 1906(b)(13)(A), title XXI, § 2118(a), 90 Stat. 1772, 1834, 1912; Nov. 6, 1978, Pub. L. 95–600, title VII, § 701(i)(1), 92 Stat. 2904; Nov. 10, 1978, Pub. L. 95–628, § 4(a), 92 Stat. 3628; Apr. 2, 1980, Pub. L. 96–223, title IV, § 403(b)(2)(A), 94 Stat. 304; Oct. 19, 1980, Pub. L. 96–471, § 2(c)(2), 94 Stat. 2254; Dec. 24, 1980, Pub. L. 96–589, § 5(c), 94 Stat. 3405; Sept. 3, 1982, Pub. L. 97–248, title II, § 224(c)(5), (6), 96 Stat. 489; Oct. 22, 1986, Pub. L. 99–514, title XVIII, § 1804(e)(7)(A), 100 Stat. 2803, related to gain or loss on sales or exchanges in connection with certain liquidations, prior to repeal by Pub. L. 99–514, § 631(a).
+A prior section 337, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Sept. 2, 1958, Pub. L. 85–866, title I, § 19, 72 Stat. 1615; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§ 1901(a)(46), 1906(b)(13)(A), title XXI, § 2118(a), 90 Stat. 1772, 1834, 1912; Nov. 6, 1978, Pub. L. 95–600, title VII, § 701(i)(1), 92 Stat. 2904; Nov. 10, 1978, Pub. L. 95–628, § 4(a), 92 Stat. 3628; Apr. 2, 1980, Pub. L. 96–223, title IV, § 403(b)(2)(A), 94 Stat. 304; Oct. 19, 1980, Pub. L. 96–471, § 2(c)(2), 94 Stat. 2254; Dec. 24, 1980, Pub. L. 96–589, § 5(c), 94 Stat. 3405; Sept. 3, 1982, Pub. L. 97–248, title II, § 224(c)(5), (6), 96 Stat. 489; Oct. 22, 1986, Pub. L. 99–514, title XVIII, § 1804(e)(7)(A), 100 Stat. 2803, related to gain or loss on sales or exchanges in connection with certain liquidations, prior to repeal by Pub. L. 99–514, § 631(a).
 
 **Amendments**
 
-1988—Subsec. (b)(2)(B)(i). Pub. L. 100–647, § 1006(e)(4)(A), (B), substituted “described in section 511(a)(2)” for “described in section 511(a)(2) or 511(b)(2)” and “in an activity the income from which is subject to tax under section 511(a)” for “in an unrelated trade or business (as defined in section 513)”.
+1988—Subsec. (b)(2)(B)(i). Pub. L. 100–647, § 1006(e)(4)(A), (B), substituted “described in section 511(a)(2)” for “described in section 511(a)(2) or 511(b)(2)” and “in an activity the income from which is subject to tax under section 511(a)” for “in an unrelated trade or business (as defined in section 513)”.
 
-Subsec. (b)(2)(B)(ii). Pub. L. 100–647, § 1006(e)(4)(C), substituted “an activity referred to in clause (i)” for “an unrelated trade or business of such organization”.
+Subsec. (b)(2)(B)(ii). Pub. L. 100–647, § 1006(e)(4)(C), substituted “an activity referred to in clause (i)” for “an unrelated trade or business of such organization”.
 
-Subsec. (d). Pub. L. 100–647, § 1006(e)(5)(A), in introductory provisions, substituted “amendments made by subtitle D of title VI of the Tax Reform Act of 1986” for “amendments made to this subpart by the Tax Reform Act of 1986”, and in par. (1), substituted “this subchapter) or through the use of a regulated investment company, real estate investment trust, or tax-exempt entity” for “this subchapter)”.
+Subsec. (d). Pub. L. 100–647, § 1006(e)(5)(A), in introductory provisions, substituted “amendments made by subtitle D of title VI of the Tax Reform Act of 1986” for “amendments made to this subpart by the Tax Reform Act of 1986”, and in par. (1), substituted “this subchapter) or through the use of a regulated investment company, real estate investment trust, or tax-exempt entity” for “this subchapter)”.
 
 1987—Subsec. (c). Pub. L. 100–203 inserted at end “For purposes of this section, the determination of whether any corporation is an 80-percent distributee shall be made without regard to any consolidated return regulation.”
 
@@ -3119,7 +3119,7 @@ Subsec. (d). Pub. L. 100–647, § 1006(e)(5)(A), in introductory provisions, 
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1006(e)(5)(B), Nov. 10, 1988, 102 Stat. 3401, provided that:
+Pub. L. 100–647, title I, § 1006(e)(5)(B), Nov. 10, 1988, 102 Stat. 3401, provided that:
 
 > “The amendment made by subparagraph (A)(ii) [amending this section] shall not apply to any reorganization if before June 10, 1987—
 
@@ -3137,7 +3137,7 @@ Amendment by Pub. L. 100–203 applicable to distributions or transfers after De
 
 Section applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as a note under section 336 of this title.
 
-#### § 338. Certain stock purchases treated as asset acquisitions
+#### § 338. Certain stock purchases treated as asset acquisitions
 
 **(a) General rule** For purposes of this subtitle, if a purchasing corporation makes an election under this section (or is treated under subsection (e) as having made such an election), then, in the case of any qualified stock purchase, the target corporation—
 
@@ -3189,7 +3189,7 @@ The term “recently purchased stock” means any stock in the target corporatio
 
 The term “nonrecently purchased stock” means any stock in the target corporation which is held by the purchasing corporation on the acquisition date and which is not recently purchased stock.
 
-**[(c) Repealed. Pub. L. 99–514, title VI, § 631(b)(2), Oct. 22, 1986, 100 Stat. 2272]**
+**[(c) Repealed. Pub. L. 99–514, title VI, § 631(b)(2), Oct. 22, 1986, 100 Stat. 2272]**
 
 **(d) Purchasing corporation; target corporation; qualified stock purchase** For purposes of this section—
 
@@ -3315,7 +3315,7 @@ A corporation shall be treated as a target affiliate of the target corporation i
 
 **(ii)** stock held by a target affiliate in a foreign corporation or a domestic corporation which is a DISC or described in section 1248(e) shall be excluded from the operation of this section.
 
-**[(7) Repealed. Pub. L. 100–647, title I, § 1006(e)(20), Nov. 10, 1988, 102 Stat. 3403]**
+**[(7) Repealed. Pub. L. 100–647, title I, § 1006(e)(20), Nov. 10, 1988, 102 Stat. 3403]**
 
 **(8) Acquisitions by affiliated group treated as made by 1 corporation**
 
@@ -3355,13 +3355,13 @@ To the extent provided in regulations, such term also includes any affiliated gr
 
 For purposes of subsection (a)(1), fair market value may be determined on the basis of a formula provided in regulations prescribed by the Secretary which takes into account liabilities and other relevant items.
 
-**[(12) Repealed. Pub. L. 99–514, title VI, § 631(e)(5), Oct. 22, 1986, 100 Stat. 2273]**
+**[(12) Repealed. Pub. L. 99–514, title VI, § 631(e)(5), Oct. 22, 1986, 100 Stat. 2273]**
 
 **(13) Tax on deemed sale not taken into account for estimated tax purposes**
 
 For purposes of section 6655, tax attributable to the sale described in subsection (a)(1) shall not be taken into account. The preceding sentence shall not apply with respect to a qualified stock purchase for which an election is made under paragraph (10).
 
-**[(14) Repealed. Pub. L. 108–27, title III, § 302(e)(4)(B)(i), May 28, 2003, 117 Stat. 763]**
+**[(14) Repealed. Pub. L. 108–27, title III, § 302(e)(4)(B)(i), May 28, 2003, 117 Stat. 763]**
 
 **(15) Combined deemed sale return**
 
@@ -3377,19 +3377,19 @@ Except as provided in regulations, this section shall not apply for purposes of 
 
 **(2)** regulations providing for the coordination of the provisions of this section with the provision of this title relating to foreign corporations and their shareholders.
 
-(Added Pub. L. 97–248, title II, § 224(a), Sept. 3, 1982, 96 Stat. 485; amended Pub. L. 97–448, title III, § 306(a)(8)(A)(i), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title VII, § 712(k)(1)–(5)(D), (6), (7), July 18, 1984, 98 Stat. 948–952; Pub. L. 99–514, title VI, § 631(b), (e)(5), title XII, § 1275(c)(6), title XVIII, §§ 1804(e)(8)(A), 1899A(7), Oct. 22, 1986, 100 Stat. 2272, 2273, 2599, 2804, 2958; Pub. L. 100–647, title I, §§ 1006(e)(20), 1012(bb)(5)(A), 1018(d)(9), Nov. 10, 1988, 102 Stat. 3403, 3535, 3581; Pub. L. 101–508, title XI, § 11323(c)(1), Nov. 5, 1990, 104 Stat. 1388–465; Pub. L. 108–27, title III, § 302(e)(4)(B)(i), May 28, 2003, 117 Stat. 763; Pub. L. 108–357, title VIII, § 839(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 115–141, div. U, title IV, § 401(a)(64), (d)(1)(D)(vii), Mar. 23, 2018, 132 Stat. 1187, 1207.)
+(Added Pub. L. 97–248, title II, § 224(a), Sept. 3, 1982, 96 Stat. 485; amended Pub. L. 97–448, title III, § 306(a)(8)(A)(i), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title VII, § 712(k)(1)–(5)(D), (6), (7), July 18, 1984, 98 Stat. 948–952; Pub. L. 99–514, title VI, § 631(b), (e)(5), title XII, § 1275(c)(6), title XVIII, §§ 1804(e)(8)(A), 1899A(7), Oct. 22, 1986, 100 Stat. 2272, 2273, 2599, 2804, 2958; Pub. L. 100–647, title I, §§ 1006(e)(20), 1012(bb)(5)(A), 1018(d)(9), Nov. 10, 1988, 102 Stat. 3403, 3535, 3581; Pub. L. 101–508, title XI, § 11323(c)(1), Nov. 5, 1990, 104 Stat. 1388–465; Pub. L. 108–27, title III, § 302(e)(4)(B)(i), May 28, 2003, 117 Stat. 763; Pub. L. 108–357, title VIII, § 839(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 115–141, div. U, title IV, § 401(a)(64), (d)(1)(D)(vii), Mar. 23, 2018, 132 Stat. 1187, 1207.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 338, act Aug. 16, 1954, ch. 736, 68A Stat. 107, made reference to a special rule relating to the effect on earnings and profits of certain distributions in partial liquidation in section 312(e), prior to repeal by Pub. L. 97–248, § 222(e)(4).
+A prior section 338, act Aug. 16, 1954, ch. 736, 68A Stat. 107, made reference to a special rule relating to the effect on earnings and profits of certain distributions in partial liquidation in section 312(e), prior to repeal by Pub. L. 97–248, § 222(e)(4).
 
 **Amendments**
 
-2018—Subsec. (h)(3)(A)(iii). Pub. L. 115–141, § 401(a)(64), substituted “paragraph” for “paragaraph”.
+2018—Subsec. (h)(3)(A)(iii). Pub. L. 115–141, § 401(a)(64), substituted “paragraph” for “paragaraph”.
 
-Subsec. (h)(6)(B)(i). Pub. L. 115–141, § 401(d)(1)(D)(vii), substituted “or a DISC” for “, a DISC, or a corporation to which an election under section 936 applies”.
+Subsec. (h)(6)(B)(i). Pub. L. 115–141, § 401(d)(1)(D)(vii), substituted “or a DISC” for “, a DISC, or a corporation to which an election under section 936 applies”.
 
 2004—Subsec. (h)(13). Pub. L. 108–357 inserted at end “The preceding sentence shall not apply with respect to a qualified stock purchase for which an election is made under paragraph (10).”
 
@@ -3397,9 +3397,9 @@ Subsec. (h)(6)(B)(i). Pub. L. 115–141, § 401(d)(1)(D)(vii), substituted “
 
 1990—Subsec. (h)(10)(C). Pub. L. 101–508 added subpar. (C).
 
-1988—Subsec. (e)(3). Pub. L. 100–647, § 1018(d)(9), substituted “which meet the requirements of section 1504(a)(2)” for “which meet the 80 percent requirements of subparagraphs (A) and (B) of subsection (d)(3)”.
+1988—Subsec. (e)(3). Pub. L. 100–647, § 1018(d)(9), substituted “which meet the requirements of section 1504(a)(2)” for “which meet the 80 percent requirements of subparagraphs (A) and (B) of subsection (d)(3)”.
 
-Subsec. (h)(7). Pub. L. 100–647, § 1006(e)(20), struck out par. (7) which read as follows: “Additional percentage must be attributable to purchase, etc.—For purposes of subsection (c)(1), any increase in the maximum percentage of stock taken into account over the percentage of stock (by value) of the target corporation held by the purchasing corporation on the acquisition date shall be taken into account only to the extent such increase is attributable to—
+Subsec. (h)(7). Pub. L. 100–647, § 1006(e)(20), struck out par. (7) which read as follows: “Additional percentage must be attributable to purchase, etc.—For purposes of subsection (c)(1), any increase in the maximum percentage of stock taken into account over the percentage of stock (by value) of the target corporation held by the purchasing corporation on the acquisition date shall be taken into account only to the extent such increase is attributable to—
 
 “(A) purchase, or
 
@@ -3409,13 +3409,13 @@ Subsec. (h)(7). Pub. L. 100–647, § 1006(e)(20), struck out par. (7) which r
 
 “(ii) in the case of a shareholder who is not a corporation, to which section 301 applies.”
 
-Subsec. (h)(16). Pub. L. 100–647, § 1012(bb)(5)(A), added par. (16).
+Subsec. (h)(16). Pub. L. 100–647, § 1012(bb)(5)(A), added par. (16).
 
-1986—Subsec. (a)(1). Pub. L. 99–514, § 631(b)(1), struck out “to which section 337 applies” after “in a single transaction”.
+1986—Subsec. (a)(1). Pub. L. 99–514, § 631(b)(1), struck out “to which section 337 applies” after “in a single transaction”.
 
-Subsec. (c). Pub. L. 99–514, § 631(b)(2), struck out subsec. (c) relating to special rules for coordination with section 337 where purchasing corporation holds less than 100 percent of stock, and in case of certain redemptions where an election is made under this section.
+Subsec. (c). Pub. L. 99–514, § 631(b)(2), struck out subsec. (c) relating to special rules for coordination with section 337 where purchasing corporation holds less than 100 percent of stock, and in case of certain redemptions where an election is made under this section.
 
-Subsec. (d)(3). Pub. L. 99–514, § 1804(e)(8)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘qualified stock purchase’ means any transaction or series of transactions in which stock of 1 corporation possessing—
+Subsec. (d)(3). Pub. L. 99–514, § 1804(e)(8)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘qualified stock purchase’ means any transaction or series of transactions in which stock of 1 corporation possessing—
 
 “(A) at least 80 percent of total combined voting power of all classes of stock entitled to vote, and
 
@@ -3423,55 +3423,55 @@ Subsec. (d)(3). Pub. L. 99–514, § 1804(e)(8)(A), amended par. (3) generally
 
 is acquired by another corporation by purchase during the 12-month acquisition period.”
 
-Subsec. (h)(3)(C)(i). Pub. L. 99–514, § 1899A(7), substituted “subparagraphs” for “subparagraph”.
+Subsec. (h)(3)(C)(i). Pub. L. 99–514, § 1899A(7), substituted “subparagraphs” for “subparagraph”.
 
-Subsec. (h)(6)(B)(i). Pub. L. 99–514, § 1275(c)(6), struck out “a corporation described in section 934(b),” after “DISC,”.
+Subsec. (h)(6)(B)(i). Pub. L. 99–514, § 1275(c)(6), struck out “a corporation described in section 934(b),” after “DISC,”.
 
-Subsec. (h)(10)(B). Pub. L. 99–514, § 631(b)(3), inserted provision that to the extent provided in regulations, term “selling consolidated group” also includes any affiliated group of corporations which includes the target corporation (whether or not such group files a consolidated return).
+Subsec. (h)(10)(B). Pub. L. 99–514, § 631(b)(3), inserted provision that to the extent provided in regulations, term “selling consolidated group” also includes any affiliated group of corporations which includes the target corporation (whether or not such group files a consolidated return).
 
-Subsec. (h)(12). Pub. L. 99–514, § 631(e)(5), struck out par. (12) relating to applicability of section 337 where target had adopted plan for complete liquidation.
+Subsec. (h)(12). Pub. L. 99–514, § 631(e)(5), struck out par. (12) relating to applicability of section 337 where target had adopted plan for complete liquidation.
 
-1984—Subsec. (a)(1). Pub. L. 98–369, § 712(k)(1)(A), inserted “at fair market value” after “acquisition date”.
+1984—Subsec. (a)(1). Pub. L. 98–369, § 712(k)(1)(A), inserted “at fair market value” after “acquisition date”.
 
-Subsec. (b). Pub. L. 98–369, § 712(k)(1)(B), substituted “Basis of assets after deemed purchase” for “Price at which deemed sale made” in heading.
+Subsec. (b). Pub. L. 98–369, § 712(k)(1)(B), substituted “Basis of assets after deemed purchase” for “Price at which deemed sale made” in heading.
 
-Subsec. (b)(1). Pub. L. 98–369, § 712(k)(1)(B), amended par. (1) generally, substituting “as purchased for an amount equal to the sum of” for “as sold (and purchased) at an amount equal to” in introductory text, “purchasing corporation’s recently purchased stock, and” for “purchasing corporation’s stock in the target corporation on the acquisition date” in subpar. (A), and “the basis of the purchasing corporation’s nonrecently purchased stock” in subpar. (B) in lieu of provision relating to adjustment for liabilities and other relevant items, now covered in par. (2).
+Subsec. (b)(1). Pub. L. 98–369, § 712(k)(1)(B), amended par. (1) generally, substituting “as purchased for an amount equal to the sum of” for “as sold (and purchased) at an amount equal to” in introductory text, “purchasing corporation’s recently purchased stock, and” for “purchasing corporation’s stock in the target corporation on the acquisition date” in subpar. (A), and “the basis of the purchasing corporation’s nonrecently purchased stock” in subpar. (B) in lieu of provision relating to adjustment for liabilities and other relevant items, now covered in par. (2).
 
-Subsec. (b)(2). Pub. L. 98–369, § 712(k)(1)(B), amended par. (2) generally, incorporating former par. (1)(B) provision, inserting heading “Adjustment for liabilities and other relevant items” and substituting “adjusted under regulations” for “properly adjusted under regulations”. Former par. (2) redesignated (4).
+Subsec. (b)(2). Pub. L. 98–369, § 712(k)(1)(B), amended par. (2) generally, incorporating former par. (1)(B) provision, inserting heading “Adjustment for liabilities and other relevant items” and substituting “adjusted under regulations” for “properly adjusted under regulations”. Former par. (2) redesignated (4).
 
-Subsec. (b)(3). Pub. L. 98–369, § 712(k)(1)(B), added par. (3). Former par. (3) redesignated (5).
+Subsec. (b)(3). Pub. L. 98–369, § 712(k)(1)(B), added par. (3). Former par. (3) redesignated (5).
 
-Subsec. (b)(4). Pub. L. 98–369, § 712(k)(1)(B), redesignated former par. (2) as (4), substituted in introductory text “corporation’s recently purchased stock,” for “purchasing corporation’s stock in the target corporation on the acquisition date”, inserted in subpar. (A) “minus the percentage of stock (by value) in the target corporation attributable to the purchasing corporation’s nonrecently purchased stock”, and substituted in subpar. (B) “in the target corporation attributable to the purchasing corporation’s recently purchased stock” for “of the target corporation held by the purchasing corporation on the acquisition date”.
+Subsec. (b)(4). Pub. L. 98–369, § 712(k)(1)(B), redesignated former par. (2) as (4), substituted in introductory text “corporation’s recently purchased stock,” for “purchasing corporation’s stock in the target corporation on the acquisition date”, inserted in subpar. (A) “minus the percentage of stock (by value) in the target corporation attributable to the purchasing corporation’s nonrecently purchased stock”, and substituted in subpar. (B) “in the target corporation attributable to the purchasing corporation’s recently purchased stock” for “of the target corporation held by the purchasing corporation on the acquisition date”.
 
-Subsec. (b)(5). Pub. L. 98–369, § 712(k)(1)(B), redesignated former par. (3) as (5) and inserted reference to par. (2).
+Subsec. (b)(5). Pub. L. 98–369, § 712(k)(1)(B), redesignated former par. (3) as (5) and inserted reference to par. (2).
 
-Subsec. (b)(6). Pub. L. 98–369, § 712(k)(1)(B), added par. (6).
+Subsec. (b)(6). Pub. L. 98–369, § 712(k)(1)(B), added par. (6).
 
-Subsec. (c)(1). Pub. L. 98–369, § 712(k)(2), inserted in last sentence “and section 333 does not apply to such liquidation”.
+Subsec. (c)(1). Pub. L. 98–369, § 712(k)(2), inserted in last sentence “and section 333 does not apply to such liquidation”.
 
-Subsec. (e)(2). Pub. L. 98–369, § 712(k)(3), substituted “wholly” for “(in whole or in part)” in subpar. (B), struck out subpar. (D) providing for nonapplication of par. (1) to any acquisition by the purchasing corporation if, to the extent provided in regulations, the property acquired is located outside the United States, redesignated subpar. (E) as (D), and, in subpar. (D) as redesignated, inserted “and meets such conditions as such regulations may provide”.
+Subsec. (e)(2). Pub. L. 98–369, § 712(k)(3), substituted “wholly” for “(in whole or in part)” in subpar. (B), struck out subpar. (D) providing for nonapplication of par. (1) to any acquisition by the purchasing corporation if, to the extent provided in regulations, the property acquired is located outside the United States, redesignated subpar. (E) as (D), and, in subpar. (D) as redesignated, inserted “and meets such conditions as such regulations may provide”.
 
-Subsec. (g)(1). Pub. L. 98–369, § 712(k)(4), substituted “the 15th day of the 9th month beginning after the month in which the acquisition date occurs” for “75 days after the acquisition date”.
+Subsec. (g)(1). Pub. L. 98–369, § 712(k)(4), substituted “the 15th day of the 9th month beginning after the month in which the acquisition date occurs” for “75 days after the acquisition date”.
 
-Subsec. (h)(1). Pub. L. 98–369, § 712(k)(5)(C), included within 12-month acquisition period the period beginning with the date on which the acquiring corporation is first considered as owning stock owned by corporation from which acquisition was made.
+Subsec. (h)(1). Pub. L. 98–369, § 712(k)(5)(C), included within 12-month acquisition period the period beginning with the date on which the acquiring corporation is first considered as owning stock owned by corporation from which acquisition was made.
 
-Subsec. (h)(3)(A)(ii). Pub. L. 98–369, § 712(k)(5)(D), included references to sections 354, 355, and 356 and in defining “purchase” provided that the stock not be acquired in any other transaction described in regulations in which the transferor does not recognize the entire amount of the gain or loss realized on the transaction.
+Subsec. (h)(3)(A)(ii). Pub. L. 98–369, § 712(k)(5)(D), included references to sections 354, 355, and 356 and in defining “purchase” provided that the stock not be acquired in any other transaction described in regulations in which the transferor does not recognize the entire amount of the gain or loss realized on the transaction.
 
-Subsec. (h)(3)(B). Pub. L. 98–369, § 712(k)(5)(A), substituted in heading “under subsection (a)” for “of stock of subsidiaries” and in text “The term ‘purchase’ includes any deemed purchase under subsection (a)(2). The acquisition date for a corporation which is deemed purchased under subsection (a)(2) shall be determined under regulations prescribed by the Secretary” for “If stock in a corporation is acquired by purchase (within the meaning of subparagraph (A)) and, as a result of such acquisition, the corporation making such purchase is treated (by reason of section 318(a)) as owning stock in a 3rd corporation, the corporation making such purchase shall be treated as having purchased such stock in such 3rd corporation. The corporation making such purchase shall be treated as purchasing stock in the 3rd corporation by reason of the preceding sentence on the first day on which the purchasing corporation is considered under section 318(a) as owning such stock”.
+Subsec. (h)(3)(B). Pub. L. 98–369, § 712(k)(5)(A), substituted in heading “under subsection (a)” for “of stock of subsidiaries” and in text “The term ‘purchase’ includes any deemed purchase under subsection (a)(2). The acquisition date for a corporation which is deemed purchased under subsection (a)(2) shall be determined under regulations prescribed by the Secretary” for “If stock in a corporation is acquired by purchase (within the meaning of subparagraph (A)) and, as a result of such acquisition, the corporation making such purchase is treated (by reason of section 318(a)) as owning stock in a 3rd corporation, the corporation making such purchase shall be treated as having purchased such stock in such 3rd corporation. The corporation making such purchase shall be treated as purchasing stock in the 3rd corporation by reason of the preceding sentence on the first day on which the purchasing corporation is considered under section 318(a) as owning such stock”.
 
-Subsec. (h)(3)(C). Pub. L. 98–369, § 712(k)(5)(B), added subpar. (C).
+Subsec. (h)(3)(C). Pub. L. 98–369, § 712(k)(5)(B), added subpar. (C).
 
-Subsec. (h)(7). Pub. L. 98–369, § 712(k)(6)(A), added par. (7) and struck out former par. (7) which had provided that acquisitions by purchasing corporation include acquisitions by corporations affiliated with purchasing corporation. See subsec. (h)(8).
+Subsec. (h)(7). Pub. L. 98–369, § 712(k)(6)(A), added par. (7) and struck out former par. (7) which had provided that acquisitions by purchasing corporation include acquisitions by corporations affiliated with purchasing corporation. See subsec. (h)(8).
 
-Subsec. (h)(8). Pub. L. 98–369, § 712(k)(6)(A), added par. (8) incorporating former par. (7) provision stating that “Except as otherwise provided in regulations, an acquisition of stock or assets by any member of an affiliated group which includes a purchasing corporation shall be treated as made by the purchasing corporation.” Former par. (8) redesignated (9).
+Subsec. (h)(8). Pub. L. 98–369, § 712(k)(6)(A), added par. (8) incorporating former par. (7) provision stating that “Except as otherwise provided in regulations, an acquisition of stock or assets by any member of an affiliated group which includes a purchasing corporation shall be treated as made by the purchasing corporation.” Former par. (8) redesignated (9).
 
-Subsec. (h)(9). Pub. L. 98–369, § 712(k)(6)(A), (B), redesignated former par. (8) as (9) and substituted therein “paragraph (10)” for “paragraph (9)”. Former par. (9) redesignated (10).
+Subsec. (h)(9). Pub. L. 98–369, § 712(k)(6)(A), (B), redesignated former par. (8) as (9) and substituted therein “paragraph (10)” for “paragraph (9)”. Former par. (9) redesignated (10).
 
-Subsec. (h)(10). Pub. L. 98–369, § 712(k)(6)(A), redesignated former par. (9) as (10).
+Subsec. (h)(10). Pub. L. 98–369, § 712(k)(6)(A), redesignated former par. (9) as (10).
 
-Subsec. (h)(11) to (15). Pub. L. 98–369, § 712(k)(6)(C), added pars. (11) to (15).
+Subsec. (h)(11) to (15). Pub. L. 98–369, § 712(k)(6)(C), added pars. (11) to (15).
 
-Subsec. (i). Pub. L. 98–369, § 712(k)(7), provided in introductory text that the regulations be appropriate to carry out the purposes of this section; designated existing provisions as par. (1) and substituted therein “treatment of stock and asset sales and purchases” for “treatment of stock and asset purchases with respect to a target corporation and its target affiliates (whether by treating all of them as stock purchases or as asset purchases)” before “may not be circumvented”, and added par. (2).
+Subsec. (i). Pub. L. 98–369, § 712(k)(7), provided in introductory text that the regulations be appropriate to carry out the purposes of this section; designated existing provisions as par. (1) and substituted therein “treatment of stock and asset sales and purchases” for “treatment of stock and asset purchases with respect to a target corporation and its target affiliates (whether by treating all of them as stock purchases or as asset purchases)” before “may not be circumvented”, and added par. (2).
 
 1983—Subsec. (h)(8), (9). Pub. L. 97–448 added pars. (8) and (9).
 
@@ -3479,7 +3479,7 @@ Subsec. (i). Pub. L. 98–369, § 712(k)(7), provided in introductory text tha
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 839(b), Oct. 22, 2004, 118 Stat. 1597, provided that: “The amendment made by subsection (a) [amending this section] shall apply to transactions occurring after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 839(b), Oct. 22, 2004, 118 Stat. 1597, provided that: “The amendment made by subsection (a) [amending this section] shall apply to transactions occurring after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 2003 Amendment**
 
@@ -3487,7 +3487,7 @@ Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxab
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11323(d), Nov. 5, 1990, 104 Stat. 1388–465, provided that:
+Pub. L. 101–508, title XI, § 11323(d), Nov. 5, 1990, 104 Stat. 1388–465, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 1060 and 6724 of this title] shall apply to acquisitions after October 9, 1990.
 
@@ -3495,7 +3495,7 @@ Pub. L. 101–508, title XI, § 11323(d), Nov. 5, 1990, 104 Stat. 1388–465, 
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1012(bb)(5)(B), Nov. 10, 1988, 102 Stat. 3535, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to qualified stock purchases (as defined in section 338(d)(3) of the 1986 Code) after March 31, 1988, except that, in the case of an election under section 338(h)(10) of the 1986 Code, such amendment shall apply to qualified stock purchases (as so defined) after June 10, 1987.”
+Pub. L. 100–647, title I, § 1012(bb)(5)(B), Nov. 10, 1988, 102 Stat. 3535, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to qualified stock purchases (as defined in section 338(d)(3) of the 1986 Code) after March 31, 1988, except that, in the case of an election under section 338(h)(10) of the 1986 Code, such amendment shall apply to qualified stock purchases (as so defined) after June 10, 1987.”
 
 Amendment by sections 1006(e)(20) and 1018(d)(9) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -3505,11 +3505,11 @@ Amendment by section 631(b), (e)(5) of Pub. L. 99–514 applicable to any distri
 
 Amendment by section 1275(c)(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
-Pub. L. 99–514, title XVIII, § 1804(e)(8)(B), Oct. 22, 1986, 100 Stat. 2804, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply in cases where the 12-month acquisition period (as defined in section 338(h)(1) of the Internal Revenue Code of 1954 [now 1986] begins after December 31, 1985.”
+Pub. L. 99–514, title XVIII, § 1804(e)(8)(B), Oct. 22, 1986, 100 Stat. 2804, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply in cases where the 12-month acquisition period (as defined in section 338(h)(1) of the Internal Revenue Code of 1954 [now 1986] begins after December 31, 1985.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title VII, § 712(k)(9), July 18, 1984, 98 Stat. 952, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title VII, § 712(k)(9), July 18, 1984, 98 Stat. 952, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(A) In general.—** The amendments made by this subsection [amending this section and sections 269 and 318 of this title] shall not apply to any qualified stock purchase (as defined in section 338(d)(3) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) where the acquisition date (as defined in section 338(h)(2) of such Code) is before September 1, 1982.
 
@@ -3523,7 +3523,7 @@ Amendment by Pub. L. 97–448 effective as if included in the provisions of the 
 
 **Effective Date**
 
-Pub. L. 97–248, title II, § 224(d), Sept. 3, 1982, 96 Stat. 489, as amended by Pub. L. 97–448, title III, § 306(a)(8)(B), Jan. 12, 1983, 96 Stat. 2403; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title II, § 224(d), Sept. 3, 1982, 96 Stat. 489, as amended by Pub. L. 97–448, title III, § 306(a)(8)(B), Jan. 12, 1983, 96 Stat. 2403; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting this section and amending sections 168, 318, 334, 336, 337, 381, and 617 of this title] shall apply to any target corporation (within the meaning of section 338 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] as added by this section) with respect to which the acquisition date (within the meaning of such section) occurs after August 31, 1982.
 
@@ -3575,7 +3575,7 @@ For provisions that nothing in amendment by section 401(d)(1)(D)(vii) of Pub. L.
 
 **Treatment of Certain Corporation Organized on February 22, 1983**
 
-Pub. L. 99–514, title XVIII, § 1804(e)(9), Oct. 22, 1986, 100 Stat. 2804, provided that:
+Pub. L. 99–514, title XVIII, § 1804(e)(9), Oct. 22, 1986, 100 Stat. 2804, provided that:
 
 > “In the case of a Rhode Island corporation which was organized on February 22, 1983, and which on February 25, 1983—
 
@@ -3589,11 +3589,11 @@ Pub. L. 99–514, title XVIII, § 1804(e)(9), Oct. 22, 1986, 100 Stat. 2804, p
 
 **Special Rules for Deemed Purchases under Prior Law**
 
-Pub. L. 98–369, div. A, title VII, § 712(k)(10), July 18, 1984, 98 Stat. 953, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If, before October 20, 1983, a corporation was treated as making a qualified stock purchase (as defined in section 338(d)(3) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]), but would not be so treated under the amendments made by paragraphs (5) and (6) [amending subsec. (h) and section 318(b)(4) of this title] of this subsection, the amendments made by such paragraphs shall not apply to such purchase unless such corporation elects (at such time and in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to have the amendments made by such paragraphs apply.”
+Pub. L. 98–369, div. A, title VII, § 712(k)(10), July 18, 1984, 98 Stat. 953, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If, before October 20, 1983, a corporation was treated as making a qualified stock purchase (as defined in section 338(d)(3) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]), but would not be so treated under the amendments made by paragraphs (5) and (6) [amending subsec. (h) and section 318(b)(4) of this title] of this subsection, the amendments made by such paragraphs shall not apply to such purchase unless such corporation elects (at such time and in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to have the amendments made by such paragraphs apply.”
 
 **Exception for Stock Purchases in Contemplation of Target Corporation as Member of Affiliated Group**
 
-Pub. L. 97–448, title III, § 306(a)(8)(A)(ii), Jan. 12, 1983, 96 Stat. 2402, as amended by Pub. L. 98–369, div. A, title VII, § 722(a)(3), July 18, 1984, 98 Stat. 973; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–448, title III, § 306(a)(8)(A)(ii), Jan. 12, 1983, 96 Stat. 2402, as amended by Pub. L. 98–369, div. A, title VII, § 722(a)(3), July 18, 1984, 98 Stat. 973; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “If—
 
@@ -3605,9 +3605,9 @@ Pub. L. 97–448, title III, § 306(a)(8)(A)(ii), Jan. 12, 1983, 96 Stat. 2402
 
 ### [Subpart C—Repealed]
 
-#### [§ 341. Repealed. Pub. L. 108–27, title III, § 302(e)(4)(A), May 28, 2003, 117 Stat. 763]
+#### [§ 341. Repealed. Pub. L. 108–27, title III, § 302(e)(4)(A), May 28, 2003, 117 Stat. 763]
 
-Section, act Aug. 16, 1954, ch. 736, 68A Stat. 107; Pub. L. 85–866, title I, § 20(a), Sept. 2, 1958, 72 Stat. 1615; Pub. L. 87–834, § 13(f)(4), Oct. 16, 1962, 76 Stat. 1035; Pub. L. 88–272, title II, § 231(b)(4), Feb. 26, 1964, 78 Stat. 105; Pub. L. 88–484, § 1(a), Aug. 22, 1964, 78 Stat. 596; Pub. L. 89–570, § 1(b)(4), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, § 211(b)(4), title V, § 514(b)(1), Dec. 30, 1969, 83 Stat. 570, 643; Pub. L. 94–455, title II, § 205(c)(2), title XIV, § 1402(b)(1)(B), (2), title XIX, §§ 1901(b)(3)(A), (I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1731, 1732, 1792, 1793, 1834; Pub. L. 97–34, title V, § 505(c)(2), Aug. 13, 1981, 95 Stat. 332; Pub. L. 97–248, title II, § 222(e)(5), Sept. 3, 1982, 96 Stat. 480; Pub. L. 98–369, div. A, title I, §§ 43(c)(1), 65(a)–(c), 135(a), title IV, § 492(b)(2), title X, § 1001(b)(2), (e), July 18, 1984, 98 Stat. 558, 584, 669, 854, 1011, 1012; Pub. L. 99–514, title VI, § 631(e)(6), title XVIII, §§ 1804(i)(1), 1899A(8), Oct. 22, 1986, 100 Stat. 2273, 2807, 2958; Pub. L. 100–647, title I, § 1006(e)(18), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 104–188, title I, § 1702(h)(7), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 106–170, title V, § 532(c)(2)(D), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 107–147, title IV, § 417(24)(B)(i), Mar. 9, 2002, 116 Stat. 57, related to collapsible corporations.
+Section, act Aug. 16, 1954, ch. 736, 68A Stat. 107; Pub. L. 85–866, title I, § 20(a), Sept. 2, 1958, 72 Stat. 1615; Pub. L. 87–834, § 13(f)(4), Oct. 16, 1962, 76 Stat. 1035; Pub. L. 88–272, title II, § 231(b)(4), Feb. 26, 1964, 78 Stat. 105; Pub. L. 88–484, § 1(a), Aug. 22, 1964, 78 Stat. 596; Pub. L. 89–570, § 1(b)(4), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, § 211(b)(4), title V, § 514(b)(1), Dec. 30, 1969, 83 Stat. 570, 643; Pub. L. 94–455, title II, § 205(c)(2), title XIV, § 1402(b)(1)(B), (2), title XIX, §§ 1901(b)(3)(A), (I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1731, 1732, 1792, 1793, 1834; Pub. L. 97–34, title V, § 505(c)(2), Aug. 13, 1981, 95 Stat. 332; Pub. L. 97–248, title II, § 222(e)(5), Sept. 3, 1982, 96 Stat. 480; Pub. L. 98–369, div. A, title I, §§ 43(c)(1), 65(a)–(c), 135(a), title IV, § 492(b)(2), title X, § 1001(b)(2), (e), July 18, 1984, 98 Stat. 558, 584, 669, 854, 1011, 1012; Pub. L. 99–514, title VI, § 631(e)(6), title XVIII, §§ 1804(i)(1), 1899A(8), Oct. 22, 1986, 100 Stat. 2273, 2807, 2958; Pub. L. 100–647, title I, § 1006(e)(18), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 104–188, title I, § 1702(h)(7), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 106–170, title V, § 532(c)(2)(D), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 107–147, title IV, § 417(24)(B)(i), Mar. 9, 2002, 116 Stat. 57, related to collapsible corporations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3615,7 +3615,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 107; Pub. L. 85–866, title I, �
 
 Repeal applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
-#### [§ 342. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(47), Oct. 4, 1976, 90 Stat. 1772]
+#### [§ 342. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(47), Oct. 4, 1976, 90 Stat. 1772]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 110, related to liquidation of certain foreign personal holding companies.
 
@@ -3631,9 +3631,9 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
 
 **Amendments**
 
-1982—Pub. L. 97–248, title II, § 222(e)(8)(A), Sept. 3, 1982, 96 Stat. 481, inserted “and Special Rule” in subpart heading, and substituted “Definition and special rule” for “Partial liquidation defined” in item 346.
+1982—Pub. L. 97–248, title II, § 222(e)(8)(A), Sept. 3, 1982, 96 Stat. 481, inserted “and Special Rule” in subpart heading, and substituted “Definition and special rule” for “Partial liquidation defined” in item 346.
 
-#### § 346. Definition and special rule
+#### § 346. Definition and special rule
 
 **(a) Complete liquidation**
 
@@ -3643,13 +3643,13 @@ For purposes of this subchapter, a distribution shall be treated as in complete 
 
 The Secretary shall prescribe such regulations as may be necessary to ensure that the purposes of subsections (a) and (b) of section 222 of the Tax Equity and Fiscal Responsibility Act of 1982 (which repeal the special tax treatment for partial liquidations) may not be circumvented through the use of section 355, 351, or any other provision of law or regulations (including the consolidated return regulations).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 110; Pub. L. 97–248, title II, § 222(d), Sept. 3, 1982, 96 Stat. 479; Pub. L. 99–514, title VI, § 631(e)(7), Oct. 22, 1986, 100 Stat. 2273.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 110; Pub. L. 97–248, title II, § 222(d), Sept. 3, 1982, 96 Stat. 479; Pub. L. 99–514, title VI, § 631(e)(7), Oct. 22, 1986, 100 Stat. 2273.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsections (a) and (b) of section 222 of the Tax Equity and Fiscal Responsibility Act of 1982, referred to in subsec. (b), are subsecs. (a) and (b) of Pub. L. 97–248, title II, § 222, Sept. 3, 1982, 96 Stat. 478, which amended sections 331(a) and 336(a) of this title.
+Subsections (a) and (b) of section 222 of the Tax Equity and Fiscal Responsibility Act of 1982, referred to in subsec. (b), are subsecs. (a) and (b) of Pub. L. 97–248, title II, § 222, Sept. 3, 1982, 96 Stat. 478, which amended sections 331(a) and 336(a) of this title.
 
 **Amendments**
 
@@ -3675,7 +3675,7 @@ Amendment by Pub. L. 97–248 applicable to distributions after Aug. 31, 1982, w
 
 ### Subpart A—Corporate Organizations
 
-#### § 351. Transfer to corporation controlled by transferor
+#### § 351. Transfer to corporation controlled by transferor
 
 **(a) General rule**
 
@@ -3817,7 +3817,7 @@ The Secretary may prescribe such regulations as may be necessary or appropriate 
 
 **(5)** For coordination of this section with section 304, see section 304(b)(3).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 111; Pub. L. 89–809, title II, § 203(a), (b), Nov. 13, 1966, 80 Stat. 1577; Pub. L. 94–455, title XIX, § 1901(a)(48)(A), (B), Oct. 4, 1976, 90 Stat. 1772; Pub. L. 96–589, § 5(e), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–248, title II, § 226(a)(1)(B), Sept. 3, 1982, 96 Stat. 491; Pub. L. 100–647, title I, § 1018(d)(5)(G), Nov. 10, 1988, 102 Stat. 3580; Pub. L. 101–239, title VII, § 7203(a), (b), Dec. 19, 1989, 103 Stat. 2333; Pub. L. 101–508, title XI, § 11704(a)(3), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 105–34, title X, §§ 1002(a), 1012(c)(1), 1014(a), Aug. 5, 1997, 111 Stat. 909, 916, 919; Pub. L. 105–206, title VI, § 6010(c)(3)(A), (e)(1), July 22, 1998, 112 Stat. 813, 814; Pub. L. 105–277, div. J, title IV, § 4003(f)(1), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, § 3001(d)(1), June 25, 1999, 113 Stat. 183; Pub. L. 107–147, title IV, § 417(9), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–357, title VIII, § 899(a), Oct. 22, 2004, 118 Stat. 1649; Pub. L. 109–135, title IV, § 403(kk), Dec. 21, 2005, 119 Stat. 2632.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 111; Pub. L. 89–809, title II, § 203(a), (b), Nov. 13, 1966, 80 Stat. 1577; Pub. L. 94–455, title XIX, § 1901(a)(48)(A), (B), Oct. 4, 1976, 90 Stat. 1772; Pub. L. 96–589, § 5(e), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–248, title II, § 226(a)(1)(B), Sept. 3, 1982, 96 Stat. 491; Pub. L. 100–647, title I, § 1018(d)(5)(G), Nov. 10, 1988, 102 Stat. 3580; Pub. L. 101–239, title VII, § 7203(a), (b), Dec. 19, 1989, 103 Stat. 2333; Pub. L. 101–508, title XI, § 11704(a)(3), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 105–34, title X, §§ 1002(a), 1012(c)(1), 1014(a), Aug. 5, 1997, 111 Stat. 909, 916, 919; Pub. L. 105–206, title VI, § 6010(c)(3)(A), (e)(1), July 22, 1998, 112 Stat. 813, 814; Pub. L. 105–277, div. J, title IV, § 4003(f)(1), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, § 3001(d)(1), June 25, 1999, 113 Stat. 183; Pub. L. 107–147, title IV, § 417(9), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–357, title VIII, § 899(a), Oct. 22, 2004, 118 Stat. 1649; Pub. L. 109–135, title IV, § 403(kk), Dec. 21, 2005, 119 Stat. 2632.)
 
 **Editorial Notes**
 
@@ -3829,9 +3829,9 @@ The Secretary may prescribe such regulations as may be necessary or appropriate 
 
 2002—Subsec. (h)(1). Pub. L. 107–147 inserted comma after “liability”.
 
-1999—Subsec. (h)(1). Pub. L. 106–36 struck out “, or acquires property subject to a liability,” after “liability”.
+1999—Subsec. (h)(1). Pub. L. 106–36 struck out “, or acquires property subject to a liability,” after “liability”.
 
-1998—Subsec. (c). Pub. L. 105–206, § 6010(c)(3)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In determining control for purposes of this section—
+1998—Subsec. (c). Pub. L. 105–206, § 6010(c)(3)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In determining control for purposes of this section—
 
 “(1) the fact that any corporate transferor distributes part or all of the stock in the corporation which it receives in the exchange to its shareholders shall not be taken into account, and
 
@@ -3841,47 +3841,47 @@ The Secretary may prescribe such regulations as may be necessary or appropriate 
 
 “(B) more than 50 percent of the total value of shares of all classes of stock of such corporation.”
 
-Subsec. (c)(2). Pub. L. 105–277 inserted “, or the fact that the corporation whose stock was distributed issues additional stock,” after “dispose of part or all of the distributed stock”.
+Subsec. (c)(2). Pub. L. 105–277 inserted “, or the fact that the corporation whose stock was distributed issues additional stock,” after “dispose of part or all of the distributed stock”.
 
-Subsec. (g)(1)(A) to (C). Pub. L. 105–206, § 6010(e)(1), inserted “and” at end of subpar. (A), added subpar. (B), and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (g)(1)(A) to (C). Pub. L. 105–206, § 6010(e)(1), inserted “and” at end of subpar. (A), added subpar. (B), and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) subsection (b) shall apply to such transferor, and
 
 “(C) such nonqualified preferred stock shall be treated as other property for purposes of applying subsection (b).”
 
-1997—Subsec. (c). Pub. L. 105–34, § 1012(c)(1), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “In determining control, for purposes of this section, the fact that any corporate transferor distributes part or all of the stock which it receives in the exchange to its shareholders shall not be taken into account.”
+1997—Subsec. (c). Pub. L. 105–34, § 1012(c)(1), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “In determining control, for purposes of this section, the fact that any corporate transferor distributes part or all of the stock which it receives in the exchange to its shareholders shall not be taken into account.”
 
-Subsec. (e)(1). Pub. L. 105–34, § 1002(a), inserted last two sentences.
+Subsec. (e)(1). Pub. L. 105–34, § 1002(a), inserted last two sentences.
 
-Subsecs. (g), (h). Pub. L. 105–34, § 1014(a), added subsec. (g) and redesignated former subsec. (g) as (h).
+Subsecs. (g), (h). Pub. L. 105–34, § 1014(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 1990—Subsec. (e)(2). Pub. L. 101–508 substituted “is used” for “are used”.
 
-1989—Subsec. (a). Pub. L. 101–239, § 7203(a), struck out “or securities” after “stock”.
+1989—Subsec. (a). Pub. L. 101–239, § 7203(a), struck out “or securities” after “stock”.
 
-Subsecs. (b), (d), (e)(2). Pub. L. 101–239, § 7203(b)(1), struck out “or securities” after “stock”.
+Subsecs. (b), (d), (e)(2). Pub. L. 101–239, § 7203(b)(1), struck out “or securities” after “stock”.
 
-Subsec. (g)(2). Pub. L. 101–239, § 7203(b)(2), substituted “stock or property” for “stock, securities, or property”.
+Subsec. (g)(2). Pub. L. 101–239, § 7203(b)(2), substituted “stock or property” for “stock, securities, or property”.
 
 1988—Subsecs. (f), (g). Pub. L. 100–647 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 1982—Subsec. (f)(5). Pub. L. 97–248 added par. (5).
 
-1980—Subsec. (a). Pub. L. 96–589, § 5(e)(2), struck out provision that stock or securities issued for services shall not be considered as issued in return for property for purposes of this section.
+1980—Subsec. (a). Pub. L. 96–589, § 5(e)(2), struck out provision that stock or securities issued for services shall not be considered as issued in return for property for purposes of this section.
 
-Subsec. (d). Pub. L. 96–589, § 5(e)(1), added subsec. (d). Former subsec. (d) redesignated (e)(1).
+Subsec. (d). Pub. L. 96–589, § 5(e)(1), added subsec. (d). Former subsec. (d) redesignated (e)(1).
 
-Subsec. (e). Pub. L. 96–589, § 5(e)(2), redesignated former subsec. (d) as par. (1) and added par. (2). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 96–589, § 5(e)(2), redesignated former subsec. (d) as par. (1) and added par. (2). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 96–589, § 5(e)(1), redesignated former subsec. (e) as (f).
+Subsec. (f). Pub. L. 96–589, § 5(e)(1), redesignated former subsec. (e) as (f).
 
-1976—Subsec. (a). Pub. L. 94–455, § 1901(a)(48)(A), struck out “(including, in the case of transfers made on or before June 30, 1967, an investment company)” after “property is transferred to a corporation”.
+1976—Subsec. (a). Pub. L. 94–455, § 1901(a)(48)(A), struck out “(including, in the case of transfers made on or before June 30, 1967, an investment company)” after “property is transferred to a corporation”.
 
-Subsec. (d). Pub. L. 94–455, § 1901(a)(48)(B), among other changes, substituted “Exception” for “Application of June 30, 1967, date” in heading and in text provision that this section does not apply to a transfer of property to an investment company for provisions relating to treatment of a transfer of property to an investment company as made on or before June 30, 1967.
+Subsec. (d). Pub. L. 94–455, § 1901(a)(48)(B), among other changes, substituted “Exception” for “Application of June 30, 1967, date” in heading and in text provision that this section does not apply to a transfer of property to an investment company for provisions relating to treatment of a transfer of property to an investment company as made on or before June 30, 1967.
 
-1966—Subsec. (a). Pub. L. 89–809, § 203(a), inserted “(including, in the case of transfers made on or before June 30, 1967, an investment company)” after “if property is transferred to a corporation”.
+1966—Subsec. (a). Pub. L. 89–809, § 203(a), inserted “(including, in the case of transfers made on or before June 30, 1967, an investment company)” after “if property is transferred to a corporation”.
 
-Subsecs. (d), (e). Pub. L. 89–809, § 203(b), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 89–809, § 203(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3891,11 +3891,11 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 899(b), Oct. 22, 2004, 118 Stat. 1649, provided that: “The amendment made by this section [amending this section] shall apply to transactions after May 14, 2003.”
+Pub. L. 108–357, title VIII, § 899(b), Oct. 22, 2004, 118 Stat. 1649, provided that: “The amendment made by this section [amending this section] shall apply to transactions after May 14, 2003.”
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–36, title III, § 3001(e), June 25, 1999, 113 Stat. 184, provided that: “The amendments made by this section [amending this section and sections 357, 358, 362, 368, 584, and 1031 of this title] shall apply to transfers after October 18, 1998.”
+Pub. L. 106–36, title III, § 3001(e), June 25, 1999, 113 Stat. 184, provided that: “The amendments made by this section [amending this section and sections 357, 358, 362, 368, 584, and 1031 of this title] shall apply to transfers after October 18, 1998.”
 
 **Effective Date of 1998 Amendments**
 
@@ -3905,13 +3905,13 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title X, § 1002(b), Aug. 5, 1997, 111 Stat. 909, provided that:
+Pub. L. 105–34, title X, § 1002(b), Aug. 5, 1997, 111 Stat. 909, provided that:
 
 > **“(1) In general.—** The amendment made by subsection (a) [amending this section] shall apply to transfers after June 8, 1997, in taxable years ending after such date.
 
 > **“(2) Binding contracts.—** The amendment made by subsection (a) shall not apply to any transfer pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such transfer if such contract provides for the transfer of a fixed amount of property.”
 
-Pub. L. 105–34, title X, § 1012(d), Aug. 5, 1997, 111 Stat. 917, as amended by Pub. L. 105–206, title VI, § 6010(c)(1), July 22, 1998, 112 Stat. 813, provided that:
+Pub. L. 105–34, title X, § 1012(d), Aug. 5, 1997, 111 Stat. 917, as amended by Pub. L. 105–206, title VI, § 6010(c)(1), July 22, 1998, 112 Stat. 813, provided that:
 
 > **“(1) Section 355 rules.—** The amendments made by subsections (a) and (b) [amending sections 355 and 358 of this title] shall apply to distributions after April 16, 1997; except that the amendment made by subsection (a) [amending section 355 of this title] shall apply to such distributions only if pursuant to a plan (or series of related transactions) which involves an acquisition described in section 355(e)(2)(A)(ii) of the Internal Revenue Code of 1986 occurring after such date.
 
@@ -3927,7 +3927,7 @@ Pub. L. 105–34, title X, § 1012(d), Aug. 5, 1997, 111 Stat. 917, as amended
 
 > This paragraph shall not apply to any agreement, ruling request, or public announcement or filing unless it identifies the acquirer of the distributing corporation or any controlled corporation, or the transferee, whichever is applicable.”
 
-Pub. L. 105–34, title X, § 1014(f), Aug. 5, 1997, 111 Stat. 921, provided that:
+Pub. L. 105–34, title X, § 1014(f), Aug. 5, 1997, 111 Stat. 921, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and sections 354 to 356 and 1036 of this title] shall apply to transactions after June 8, 1997.
 
@@ -3941,7 +3941,7 @@ Pub. L. 105–34, title X, § 1014(f), Aug. 5, 1997, 111 Stat. 921, provided t
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–239, title VII, § 7203(c), Dec. 19, 1989, 103 Stat. 2334, provided that:
+Pub. L. 101–239, title VII, § 7203(c), Dec. 19, 1989, 103 Stat. 2334, provided that:
 
 > **“(1) In general.—** Except as provided in this subsection, the amendments made by this section [amending this section] shall apply to transfers after October 2, 1989, in taxable years ending after such date.
 
@@ -3951,7 +3951,7 @@ Pub. L. 101–239, title VII, § 7203(c), Dec. 19, 1989, 103 Stat. 2334, provi
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1018(d)(5)(G), Nov. 10, 1988, 102 Stat. 3580, provided that the amendment made by that section is effective with respect to transfers on or after June 21, 1988.
+Pub. L. 100–647, title I, § 1018(d)(5)(G), Nov. 10, 1988, 102 Stat. 3580, provided that the amendment made by that section is effective with respect to transfers on or after June 21, 1988.
 
 **Effective Date of 1982 Amendment**
 
@@ -3963,15 +3963,15 @@ Amendment by Pub. L. 96–589 applicable to transactions which occur after Dec. 
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XIX, § 1901(a)(48)(C), Oct. 4, 1976, 90 Stat. 1772, provided that: “The amendments made by this paragraph [amending this section] shall take effect with respect to transfers of property occurring after the date of the enactment of this Act [Oct. 4, 1976].”
+Pub. L. 94–455, title XIX, § 1901(a)(48)(C), Oct. 4, 1976, 90 Stat. 1772, provided that: “The amendments made by this paragraph [amending this section] shall take effect with respect to transfers of property occurring after the date of the enactment of this Act [Oct. 4, 1976].”
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–809, title II, § 203(c), Nov. 13, 1966, 80 Stat. 1577, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to transfers of property to investment companies whether made before, on, or after the date of the enactment of this Act [Nov. 13, 1966].”
+Pub. L. 89–809, title II, § 203(c), Nov. 13, 1966, 80 Stat. 1577, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to transfers of property to investment companies whether made before, on, or after the date of the enactment of this Act [Nov. 13, 1966].”
 
 ### Subpart B—Effects on Shareholders and Security Holders
 
-#### § 354. Exchanges of stock and securities in certain reorganizations
+#### § 354. Exchanges of stock and securities in certain reorganizations
 
 **(a) General rule**
 
@@ -4005,9 +4005,9 @@ Clause (i) shall not apply in the case of a recapitalization under section 368(a
 
 **(II) Family-owned corporation**
 
-For purposes of this clause, except as provided in regulations, the term “family-owned corporation” means any corporation which is described in clause (i) of section 447(d)(2)(C) 1
+For purposes of this clause, except as provided in regulations, the term “family-owned corporation” means any corporation which is described in clause (i) of section 447(d)(2)(C) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 throughout the 8-year period beginning on the date which is 5 years before the date of the recapitalization. For purposes of the preceding sentence, stock shall not be treated as owned by a family member during any period described in section 355(d)(6)(B).
 
@@ -4037,35 +4037,35 @@ For special rules for certain exchanges in pursuance of plans of reorganization 
 
 Notwithstanding any other provision of this subchapter, subsection (a)(1) (and so much of section 356 as relates to this section) shall apply with respect to a plan of reorganization (whether or not a reorganization within the meaning of section 368(a)) for a railroad confirmed under section 1173 of title 11 of the United States Code, as being in the public interest.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 112; Pub. L. 94–253, § 1(c), Mar. 31, 1976, 90 Stat. 296; Pub. L. 95–473, § 2(a)(2)(F), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 96–589, §§ 4(e)(1), (h)(1), 6(i)(2), Dec. 24, 1980, 94 Stat. 3403, 3404, 3410; Pub. L. 101–508, title XI, § 11801(c)(8)(D), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 104–88, title III, § 304(c), Dec. 29, 1995, 109 Stat. 944; Pub. L. 105–34, title X, § 1014(b), (e)(1), (2), Aug. 5, 1997, 111 Stat. 920, 921; Pub. L. 105–206, title VI, § 6010(e)(2), July 22, 1998, 112 Stat. 814.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 112; Pub. L. 94–253, § 1(c), Mar. 31, 1976, 90 Stat. 296; Pub. L. 95–473, § 2(a)(2)(F), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 96–589, §§ 4(e)(1), (h)(1), 6(i)(2), Dec. 24, 1980, 94 Stat. 3403, 3404, 3410; Pub. L. 101–508, title XI, § 11801(c)(8)(D), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 104–88, title III, § 304(c), Dec. 29, 1995, 109 Stat. 944; Pub. L. 105–34, title X, § 1014(b), (e)(1), (2), Aug. 5, 1997, 111 Stat. 920, 921; Pub. L. 105–206, title VI, § 6010(e)(2), July 22, 1998, 112 Stat. 814.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 447(d), referred to in subsec. (a)(2)(C)(ii)(II), was repealed and provisions not relating to family-owned corporations were redesignated as section 447(d) by Pub. L. 115–97, title I, § 13102(a)(5)(C), Dec. 22, 2017, 131 Stat. 2103.
+Section 447(d), referred to in subsec. (a)(2)(C)(ii)(II), was repealed and provisions not relating to family-owned corporations were redesignated as section 447(d) by Pub. L. 115–97, title I, § 13102(a)(5)(C), Dec. 22, 2017, 131 Stat. 2103.
 
 **Amendments**
 
 1998—Subsec. (a)(2)(C)(ii)(III). Pub. L. 105–206 added subcl. (III).
 
-1997—Subsec. (a)(2)(B). Pub. L. 105–34, § 1014(e)(1), inserted “(including nonqualified preferred stock, as defined in section 351(g)(2))” after “stock”.
+1997—Subsec. (a)(2)(B). Pub. L. 105–34, § 1014(e)(1), inserted “(including nonqualified preferred stock, as defined in section 351(g)(2))” after “stock”.
 
-Subsec. (a)(2)(C). Pub. L. 105–34, § 1014(b), added subpar. (C).
+Subsec. (a)(2)(C). Pub. L. 105–34, § 1014(b), added subpar. (C).
 
-Subsec. (a)(3)(A). Pub. L. 105–34, § 1014(e)(2), inserted “nonqualified preferred stock and” after “subsection (including”.
+Subsec. (a)(3)(A). Pub. L. 105–34, § 1014(e)(2), inserted “nonqualified preferred stock and” after “subsection (including”.
 
 1995—Subsec. (c). Pub. L. 104–88 struck out “or approved by the Interstate Commerce Commission under subchapter IV of chapter 113 of title 49,” after “Code,”.
 
 1990—Subsec. (d). Pub. L. 101–508 struck out subsec. (d) “Exchanges under the final system plan for ConRail” which read as follows: “No gain or loss shall be recognized if stock or securities in a corporation are, in pursuance of an exchange to which paragraph (1) or (2) of section 374(c) applies, exchanged solely for stock of the Consolidated Rail Corporation, securities of such Corporation, certificates of value of the United States Railway Association, or any combination thereof.”
 
-1980—Subsec. (a)(2). Pub. L. 96–589, § 4(e)(1), redesignated existing pars. (A) and (B) as par. (A)(i), (ii), and added par. (B).
+1980—Subsec. (a)(2). Pub. L. 96–589, § 4(e)(1), redesignated existing pars. (A) and (B) as par. (A)(i), (ii), and added par. (B).
 
-Subsec. (a)(3). Pub. L. 96–589, § 4(e)(1), designated existing provisions as subpar. (A), inserted provisions excluding property to which paragraph (2)(B) applies, and added subpar. (B).
+Subsec. (a)(3). Pub. L. 96–589, § 4(e)(1), designated existing provisions as subpar. (A), inserted provisions excluding property to which paragraph (2)(B) applies, and added subpar. (B).
 
-Subsec. (b). Pub. L. 96–589, § 4(h)(1), substituted “subparagraph (D) or (G) of section 368(a)(1)” for “section 368(a)(1)(D)”, wherever appearing.
+Subsec. (b). Pub. L. 96–589, § 4(h)(1), substituted “subparagraph (D) or (G) of section 368(a)(1)” for “section 368(a)(1)(D)”, wherever appearing.
 
-Subsec. (c). Pub. L. 96–589, § 6(i)(2), substituted “confirmed under section 1173 of title 11 of the United States Code, or approved by the Interstate Commerce Commission” for “approved by the Interstate Commerce Commission under section 77 of the Bankruptcy Act, or”.
+Subsec. (c). Pub. L. 96–589, § 6(i)(2), substituted “confirmed under section 1173 of title 11 of the United States Code, or approved by the Interstate Commerce Commission” for “approved by the Interstate Commerce Commission under section 77 of the Bankruptcy Act, or”.
 
 1978—Subsec. (c). Pub. L. 95–473 substituted “subchapter IV of chapter 113 of title 49” for “section 20b of the Interstate Commerce Act”.
 
@@ -4095,7 +4095,7 @@ Amendment by section 6(i)(2) of Pub. L. 96–589 effective Oct. 1, 1979, but not
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–253, § 2, Mar. 31, 1976, 90 Stat. 297, provided that: “The amendments made by section 1 [amending this section and sections 356, 358, and 374 of this title] shall apply to taxable years ending after March 31, 1976.”
+Pub. L. 94–253, § 2, Mar. 31, 1976, 90 Stat. 297, provided that: “The amendments made by section 1 [amending this section and sections 356, 358, and 374 of this title] shall apply to taxable years ending after March 31, 1976.”
 
 **Savings Provision**
 
@@ -4105,7 +4105,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 United States Railway Association abolished effective Apr. 1, 1987, all powers, duties, rights, and obligations of Association relating to Consolidated Rail Corporation under Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) transferred to Secretary of Transportation on Jan. 1, 1987, and any securities of Corporation held by Association transferred to Secretary of Transportation on Oct. 21, 1986, see section 1341 of Title 45, Railroads.
 
-#### § 355. Distribution of stock and securities of a controlled corporation
+#### § 355. Distribution of stock and securities of a controlled corporation
 
 **(a) Effect on distributees**
 
@@ -4545,7 +4545,7 @@ Paragraph (1) shall not apply to any distribution if, immediately after the dist
 
 A controlled corporation will be treated as meeting the requirements of clauses (ii) and (iii) if the stock of such corporation was distributed by a taxable REIT subsidiary in a transaction to which this section (or so much of section 356 as relates to this section) applies and the assets of such corporation consist solely of the stock or assets held by one or more taxable REIT subsidiaries of the distributing corporation meeting the requirements of clauses (ii) and (iii). For purposes of clause (iii), control of a partnership means ownership of at least 80 percent of the profits interest and at least 80 percent of the capital interests.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 113; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, § 4(e)(2), Dec. 24, 1980, 94 Stat. 3403; Pub. L. 100–203, title X, § 10223(b), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, § 1018(d)(5)(C), title II, § 2004(k)(1), Nov. 10, 1988, 102 Stat. 3580, 3605; Pub. L. 101–508, title XI, §§ 11321(a), 11702(e)(2), Nov. 5, 1990, 104 Stat. 1388–460, 1388–515; Pub. L. 104–188, title I, § 1704(t)(31), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 105–34, title X, §§ 1012(a), (b)(1), 1014(c), (e)(1), (2), Aug. 5, 1997, 111 Stat. 914, 916, 921; Pub. L. 105–206, title VI, § 6010(c)(2), July 22, 1998, 112 Stat. 813; Pub. L. 109–222, title II, § 202, title V, § 507(a), May 17, 2006, 120 Stat. 348, 358; Pub. L. 109–432, div. A, title IV, § 410(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 110–172, § 4(b)(1), (2), Dec. 29, 2007, 121 Stat. 2476; Pub. L. 113–295, div. A, title II, § 221(a)(50), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 114–113, div. Q, title III, § 311(a), Dec. 18, 2015, 129 Stat. 3090; Pub. L. 115–141, div. U, title I, § 101(m), title IV, § 401(a)(65), Mar. 23, 2018, 132 Stat. 1165, 1187.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 113; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, § 4(e)(2), Dec. 24, 1980, 94 Stat. 3403; Pub. L. 100–203, title X, § 10223(b), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, § 1018(d)(5)(C), title II, § 2004(k)(1), Nov. 10, 1988, 102 Stat. 3580, 3605; Pub. L. 101–508, title XI, §§ 11321(a), 11702(e)(2), Nov. 5, 1990, 104 Stat. 1388–460, 1388–515; Pub. L. 104–188, title I, § 1704(t)(31), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 105–34, title X, §§ 1012(a), (b)(1), 1014(c), (e)(1), (2), Aug. 5, 1997, 111 Stat. 914, 916, 921; Pub. L. 105–206, title VI, § 6010(c)(2), July 22, 1998, 112 Stat. 813; Pub. L. 109–222, title II, § 202, title V, § 507(a), May 17, 2006, 120 Stat. 348, 358; Pub. L. 109–432, div. A, title IV, § 410(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 110–172, § 4(b)(1), (2), Dec. 29, 2007, 121 Stat. 2476; Pub. L. 113–295, div. A, title II, § 221(a)(50), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 114–113, div. Q, title III, § 311(a), Dec. 18, 2015, 129 Stat. 3090; Pub. L. 115–141, div. U, title I, § 101(m), title IV, § 401(a)(65), Mar. 23, 2018, 132 Stat. 1165, 1187.)
 
 **Editorial Notes**
 
@@ -4555,33 +4555,33 @@ The date of the enactment of this subsection, referred to in subsec. (g)(2)(A)(i
 
 **Amendments**
 
-2018—Subsec. (h)(2). Pub. L. 115–141, § 101(m)(2)(A), substituted “distributions” for “spinoffs” in heading.
+2018—Subsec. (h)(2). Pub. L. 115–141, § 101(m)(2)(A), substituted “distributions” for “spinoffs” in heading.
 
-Subsec. (h)(2)(A). Pub. L. 115–141, § 101(m)(2)(B), substituted “Distributions” for “Spinoffs” in heading.
+Subsec. (h)(2)(A). Pub. L. 115–141, § 101(m)(2)(B), substituted “Distributions” for “Spinoffs” in heading.
 
-Subsec. (h)(2)(B). Pub. L. 115–141, § 401(a)(65), struck out “of assets” after “the stock or assets” in concluding provisions.
+Subsec. (h)(2)(B). Pub. L. 115–141, § 401(a)(65), struck out “of assets” after “the stock or assets” in concluding provisions.
 
-Pub. L. 115–141, § 101(m)(2)(B), substituted “Distributions” for “Spinoffs” in heading.
+Pub. L. 115–141, § 101(m)(2)(B), substituted “Distributions” for “Spinoffs” in heading.
 
-Pub. L. 115–141, § 101(m)(1), in concluding provisions, substituted “at least 80 percent” for “80 percent” in two places.
+Pub. L. 115–141, § 101(m)(1), in concluding provisions, substituted “at least 80 percent” for “80 percent” in two places.
 
 2015—Subsec. (h). Pub. L. 114–113 added subsec. (h).
 
 2014—Subsec. (d)(3)(A), (B)(i), (ii)(II). Pub. L. 113–295 struck out “after October 9, 1990, and” after “acquired by purchase”.
 
-2007—Subsec. (b)(2)(A). Pub. L. 110–172, § 4(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “it is engaged in the active conduct of a trade or business, or substantially all of its assets consist of stock and securities of a corporation controlled by it (immediately after the distribution) which is so engaged,”.
+2007—Subsec. (b)(2)(A). Pub. L. 110–172, § 4(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “it is engaged in the active conduct of a trade or business, or substantially all of its assets consist of stock and securities of a corporation controlled by it (immediately after the distribution) which is so engaged,”.
 
-Subsec. (b)(3). Pub. L. 110–172, § 4(b)(2), amended par. (3) generally. Prior to amendment, par. (3) provided for special rule relating to active business requirement applicable in the case of any distribution made after May 17, 2006.
+Subsec. (b)(3). Pub. L. 110–172, § 4(b)(2), amended par. (3) generally. Prior to amendment, par. (3) provided for special rule relating to active business requirement applicable in the case of any distribution made after May 17, 2006.
 
-2006—Subsec. (b)(3). Pub. L. 109–222, § 202, added par. (3).
+2006—Subsec. (b)(3). Pub. L. 109–222, § 202, added par. (3).
 
 Subsec. (b)(3)(A), (D). Pub. L. 109–432 struck out “and on or before December 31, 2010” after “this paragraph” in subpar. (A) and after “such date” in subpar. (D).
 
-Subsec. (g). Pub. L. 109–222, § 507(a), added subsec. (g).
+Subsec. (g). Pub. L. 109–222, § 507(a), added subsec. (g).
 
-1998—Subsec. (e)(3)(A). Pub. L. 105–206, § 6010(c)(2)(A), substituted “shall not be taken into account in applying” for “shall not be treated as described in” in introductory provisions.
+1998—Subsec. (e)(3)(A). Pub. L. 105–206, § 6010(c)(2)(A), substituted “shall not be taken into account in applying” for “shall not be treated as described in” in introductory provisions.
 
-Subsec. (e)(3)(A)(iv). Pub. L. 105–206, § 6010(c)(2)(B), added cl. (iv) and struck out former cl. (iv) which read as follows: “The acquisition of stock in a corporation if shareholders owning directly or indirectly stock possessing—
+Subsec. (e)(3)(A)(iv). Pub. L. 105–206, § 6010(c)(2)(B), added cl. (iv) and struck out former cl. (iv) which read as follows: “The acquisition of stock in a corporation if shareholders owning directly or indirectly stock possessing—
 
 “(I) more than 50 percent of the total combined voting power of all classes of stock entitled to vote, and
 
@@ -4589,19 +4589,19 @@ Subsec. (e)(3)(A)(iv). Pub. L. 105–206, § 6010(c)(2)(B), added cl. (iv) and
 
 in the distributing corporation or any controlled corporation before such acquisition own directly or indirectly stock possessing such vote and value in such distributing or controlled corporation after such acquisition.”
 
-1997—Subsec. (a)(3)(C). Pub. L. 105–34, § 1014(e)(1), inserted “(including nonqualified preferred stock, as defined in section 351(g)(2))” after “stock”.
+1997—Subsec. (a)(3)(C). Pub. L. 105–34, § 1014(e)(1), inserted “(including nonqualified preferred stock, as defined in section 351(g)(2))” after “stock”.
 
-Subsec. (a)(3)(D). Pub. L. 105–34, § 1014(c), added subpar. (D).
+Subsec. (a)(3)(D). Pub. L. 105–34, § 1014(c), added subpar. (D).
 
-Subsec. (a)(4)(A). Pub. L. 105–34, § 1014(e)(2), inserted “nonqualified preferred stock and” after “subsection (including”.
+Subsec. (a)(4)(A). Pub. L. 105–34, § 1014(e)(2), inserted “nonqualified preferred stock and” after “subsection (including”.
 
-Subsec. (e). Pub. L. 105–34, § 1012(a), added subsec. (e).
+Subsec. (e). Pub. L. 105–34, § 1012(a), added subsec. (e).
 
-Subsec. (f). Pub. L. 105–34, § 1012(b)(1), added subsec. (f).
+Subsec. (f). Pub. L. 105–34, § 1012(b)(1), added subsec. (f).
 
 1996—Subsec. (d)(7)(A). Pub. L. 104–188 inserted “section” before “267(b)”.
 
-1990—Subsec. (c). Pub. L. 101–508, § 11321(a), added subsec. (c) and struck out former subsec. (c) which read as follows:
+1990—Subsec. (c). Pub. L. 101–508, § 11321(a), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
 “(1) In general.—Except as provided in paragraph (2), no gain or loss shall be recognized to a corporation on any distribution to which this section (or so much of section 356 as relates to this section) applies and which is not in pursuance of a plan of reorganization.
 
@@ -4619,7 +4619,7 @@ then gain shall be recognized to the distributing corporation as if such propert
 
 “(3) Coordination with sections 311 and 336(a).—Sections 311 and 336(a) shall not apply to any distribution referred to in paragraph (1).”
 
-Pub. L. 101–508, § 11702(e)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Section 311 shall apply to any distribution—
+Pub. L. 101–508, § 11702(e)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Section 311 shall apply to any distribution—
 
 “(1) to which this section (or so much of section 356 as relates to this section) applies, and
 
@@ -4627,25 +4627,25 @@ Pub. L. 101–508, § 11702(e)(2), amended subsec. (c) generally. Prior to ame
 
 in the same manner as if such distribution were a distribution to which subpart A of part I applies; except that subsection (b) of section 311 shall not apply to any distribution of stock or securities in the controlled corporation.”
 
-Subsec. (d). Pub. L. 101–508, § 11321(a), added subsec. (d).
+Subsec. (d). Pub. L. 101–508, § 11321(a), added subsec. (d).
 
-1988—Subsec. (b)(2)(D)(i), (ii). Pub. L. 100–647, § 2004(k)(1), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+1988—Subsec. (b)(2)(D)(i), (ii). Pub. L. 100–647, § 2004(k)(1), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) was not acquired by any distributee corporation directly (or through 1 or more corporations, whether through the distributing corporation or otherwise) within the period described in subparagraph (B), or
 
 “(ii) was so acquired such distributee corporation within such period, but such control was so acquired only by reason of transactions in which gain or loss was not recognized in whole or in part, or only by reason of such transactions combined with acquisitions before the beginning of such period.”
 
-Subsec. (c). Pub. L. 100–647, § 1018(d)(5)(C), added subsec. (c).
+Subsec. (c). Pub. L. 100–647, § 1018(d)(5)(C), added subsec. (c).
 
-1987—Subsec. (b)(2)(D). Pub. L. 100–203, § 10223(b)(3), inserted at end “For purposes of subparagraph (D), all distributee corporations which are members of the same affiliated group (as defined in section 1504(a) without regard to section 1504(b)) shall be treated as 1 distributee corporation.”
+1987—Subsec. (b)(2)(D). Pub. L. 100–203, § 10223(b)(3), inserted at end “For purposes of subparagraph (D), all distributee corporations which are members of the same affiliated group (as defined in section 1504(a) without regard to section 1504(b)) shall be treated as 1 distributee corporation.”
 
-Subsec. (b)(2)(D)(i). Pub. L. 100–203, § 10223(b)(1), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “was not acquired directly (or through one or more corporations) by another corporation within the period described in subparagraph (B), or”.
+Subsec. (b)(2)(D)(i). Pub. L. 100–203, § 10223(b)(1), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “was not acquired directly (or through one or more corporations) by another corporation within the period described in subparagraph (B), or”.
 
-Subsec. (b)(2)(D)(ii). Pub. L. 100–203, § 10223(b)(2), substituted “such distributee corporation” for “by another corporation”.
+Subsec. (b)(2)(D)(ii). Pub. L. 100–203, § 10223(b)(2), substituted “such distributee corporation” for “by another corporation”.
 
 1980—Subsec. (a)(3). Pub. L. 96–589 designated existing provisions as subpars. (A) and (B) and added subpar. (C).
 
-Subsec. (a)(4). Pub. L. 96–589, § 4(e)(2), designated existing provisions as subpar. (A), substituted “exchange if any property” for “distribution if any property”, inserted provisions excluding property to which paragraph (3)(C) applies, and added subpar. (B).
+Subsec. (a)(4). Pub. L. 96–589, § 4(e)(2), designated existing provisions as subpar. (A), substituted “exchange if any property” for “distribution if any property”, inserted provisions excluding property to which paragraph (3)(C) applies, and added subpar. (B).
 
 1976—Subsec. (a)(1)(D)(ii). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
@@ -4657,7 +4657,7 @@ Amendment by section 101(m) of Pub. L. 115–141 effective as if included in the
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title III, § 311(c), Dec. 18, 2015, 129 Stat. 3091, provided that: “The amendments made by this section [amending this section and section 856 of this title] shall apply to distributions on or after December 7, 2015, but shall not apply to any distribution pursuant to a transaction described in a ruling request initially submitted to the Internal Revenue Service on or before such date, which request has not been withdrawn and with respect to which a ruling has not been issued or denied in its entirety as of such date.”
+Pub. L. 114–113, div. Q, title III, § 311(c), Dec. 18, 2015, 129 Stat. 3091, provided that: “The amendments made by this section [amending this section and section 856 of this title] shall apply to distributions on or after December 7, 2015, but shall not apply to any distribution pursuant to a transaction described in a ruling request initially submitted to the Internal Revenue Service on or before such date, which request has not been withdrawn and with respect to which a ruling has not been issued or denied in its entirety as of such date.”
 
 **Effective Date of 2014 Amendment**
 
@@ -4665,7 +4665,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–172, § 4(d), Dec. 29, 2007, 121 Stat. 2478, provided that:
+Pub. L. 110–172, § 4(d), Dec. 29, 2007, 121 Stat. 2478, provided that:
 
 > **“(1) In general.—** Except as otherwise provided in this subsection, the amendments made by this section [amending this section and sections 911 and 954 of this title] shall take effect as if included in the provisions of the Tax Increase Prevention and Reconciliation Act of 2005 [Pub. L. 109–222] to which they relate.
 
@@ -4689,9 +4689,9 @@ Pub. L. 110–172, § 4(d), Dec. 29, 2007, 121 Stat. 2478, provided that:
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–432, div. A, title IV, § 410(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendments made by this section [amending this section] shall take effect as if included in section 202 of the Tax Increase Prevention and Reconciliation Act of 2005 [Pub. L. 109–222].”
+Pub. L. 109–432, div. A, title IV, § 410(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendments made by this section [amending this section] shall take effect as if included in section 202 of the Tax Increase Prevention and Reconciliation Act of 2005 [Pub. L. 109–222].”
 
-Pub. L. 109–222, title V, § 507(b), May 17, 2006, 120 Stat. 361, provided that:
+Pub. L. 109–222, title V, § 507(b), May 17, 2006, 120 Stat. 361, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section] shall apply to distributions after the date of the enactment of this Act [May 17, 2006].
 
@@ -4715,7 +4715,7 @@ Amendment by section 1014(c), (e)(1), (2) of Pub. L. 105–34 applicable, with c
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11321(c), Nov. 5, 1990, 104 Stat. 1388–463, provided that:
+Pub. L. 101–508, title XI, § 11321(c), Nov. 5, 1990, 104 Stat. 1388–463, provided that:
 
 > **“(1) In general.—** Except as otherwise provided in this subsection, the amendments made by this section [amending this section and section 361 of this title] shall apply to distributions after October 9, 1990.
 
@@ -4753,9 +4753,9 @@ Amendment by Pub. L. 96–589 applicable to bankruptcy cases or similar judicial
 
 **Termination of Tax Increase Prevention and Reconciliation Act of 2005 and Tax Relief and Health Care Act of 2006 Amendments**
 
-Pub. L. 110–172, § 4(b)(3), Dec. 29, 2007, 121 Stat. 2476, provided that: “The Internal Revenue Code of 1986 shall be applied and administered as if the amendments made by section 202 of the Tax Increase Prevention and Reconciliation Act of 2005 [Pub. L. 109–222, amending this section] and by section 410 of division A of the Tax Relief and Health Care Act of 2006 [Pub. L. 109–432, amending this section] had never been enacted.”
+Pub. L. 110–172, § 4(b)(3), Dec. 29, 2007, 121 Stat. 2476, provided that: “The Internal Revenue Code of 1986 shall be applied and administered as if the amendments made by section 202 of the Tax Increase Prevention and Reconciliation Act of 2005 [Pub. L. 109–222, amending this section] and by section 410 of division A of the Tax Relief and Health Care Act of 2006 [Pub. L. 109–432, amending this section] had never been enacted.”
 
-#### § 356. Receipt of additional consideration
+#### § 356. Receipt of additional consideration
 
 **(a) Gain on exchanges**
 
@@ -4831,7 +4831,7 @@ Notwithstanding any other provision of this section, to the extent that any of t
 
 **(2)** has the effect of the payment of compensation, see section 61(a)(1).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 115; Pub. L. 94–253, § 1(c), Mar. 31, 1976, 90 Stat. 296; Pub. L. 97–248, title II, § 227(b), Sept. 3, 1982, 96 Stat. 492; Pub. L. 101–508, title XI, § 11801(c)(8)(E), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 105–34, title X, § 1014(d), Aug. 5, 1997, 111 Stat. 921.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 115; Pub. L. 94–253, § 1(c), Mar. 31, 1976, 90 Stat. 296; Pub. L. 97–248, title II, § 227(b), Sept. 3, 1982, 96 Stat. 492; Pub. L. 101–508, title XI, § 11801(c)(8)(E), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 105–34, title X, § 1014(d), Aug. 5, 1997, 111 Stat. 921.)
 
 **Editorial Notes**
 
@@ -4853,7 +4853,7 @@ Amendment by Pub. L. 105–34 applicable, with certain exceptions, to transactio
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title II, § 227(c)(2), Sept. 3, 1982, 96 Stat. 492, provided that: “The amendment made by subsection (b) [amending this section] shall apply to distributions after August 31, 1982, in taxable years ending after such date.”
+Pub. L. 97–248, title II, § 227(c)(2), Sept. 3, 1982, 96 Stat. 492, provided that: “The amendment made by subsection (b) [amending this section] shall apply to distributions after August 31, 1982, in taxable years ending after such date.”
 
 **Effective Date of 1976 Amendment**
 
@@ -4863,7 +4863,7 @@ Amendment by Pub. L. 94–253 applicable to taxable years ending after Mar. 31, 
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-#### § 357. Assumption of liability
+#### § 357. Assumption of liability
 
 **(a) General rule** Except as provided in subsections (b) and (c), if—
 
@@ -4935,7 +4935,7 @@ Subparagraph (A) shall not apply to any liability to the extent that the incurre
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection and section 362(d). The Secretary may also prescribe regulations which provide that the manner in which a liability is treated as assumed under this subsection is applied, where appropriate, elsewhere in this title.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 116; June 29, 1956, ch. 463, § 2, 70 Stat. 403; Pub. L. 95–600, title III, § 365(a), Nov. 6, 1978, 92 Stat. 2854; Pub. L. 96–222, title I, § 103(a)(12), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–589, § 4(h)(2), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 101–508, title XI, § 11801(c)(8)(F), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 106–36, title III, § 3001(a)(1), (b)(1), (d)(2)–(5), June 25, 1999, 113 Stat. 181–184; Pub. L. 106–554, § 1(a)(7) [title III, § 309(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–638; Pub. L. 108–357, title VIII, § 898(b), Oct. 22, 2004, 118 Stat. 1649; Pub. L. 109–135, title IV, § 403(jj)(2), Dec. 21, 2005, 119 Stat. 2632.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 116; June 29, 1956, ch. 463, § 2, 70 Stat. 403; Pub. L. 95–600, title III, § 365(a), Nov. 6, 1978, 92 Stat. 2854; Pub. L. 96–222, title I, § 103(a)(12), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–589, § 4(h)(2), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 101–508, title XI, § 11801(c)(8)(F), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 106–36, title III, § 3001(a)(1), (b)(1), (d)(2)–(5), June 25, 1999, 113 Stat. 181–184; Pub. L. 106–554, § 1(a)(7) [title III, § 309(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–638; Pub. L. 108–357, title VIII, § 898(b), Oct. 22, 2004, 118 Stat. 1649; Pub. L. 109–135, title IV, § 403(jj)(2), Dec. 21, 2005, 119 Stat. 2632.)
 
 **Editorial Notes**
 
@@ -4947,21 +4947,21 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 2000—Subsec. (d)(1). Pub. L. 106–554 inserted “section 358(h),” after “section 358(d),” in introductory provisions.
 
-1999—Subsec. (a). Pub. L. 106–36, § 3001(d)(2), struck out “or acquisition” after “assumption” in concluding provisions.
+1999—Subsec. (a). Pub. L. 106–36, § 3001(d)(2), struck out “or acquisition” after “assumption” in concluding provisions.
 
-Subsec. (a)(2). Pub. L. 106–36, § 3001(a)(1), struck out “, or acquires from the taxpayer property subject to a liability” before comma at end.
+Subsec. (a)(2). Pub. L. 106–36, § 3001(a)(1), struck out “, or acquires from the taxpayer property subject to a liability” before comma at end.
 
-Subsec. (b). Pub. L. 106–36, § 3001(d)(2), (3), struck out “or acquisition” after “assumption” wherever appearing and struck out “or acquired” after “liability assumed” in concluding provisions of par. (1).
+Subsec. (b). Pub. L. 106–36, § 3001(d)(2), (3), struck out “or acquisition” after “assumption” wherever appearing and struck out “or acquired” after “liability assumed” in concluding provisions of par. (1).
 
-Subsec. (c)(1). Pub. L. 106–36, § 3001(d)(4), struck out “, plus the amount of the liabilities to which the property is subject,” after “liabilities assumed” in concluding provisions.
+Subsec. (c)(1). Pub. L. 106–36, § 3001(d)(4), struck out “, plus the amount of the liabilities to which the property is subject,” after “liabilities assumed” in concluding provisions.
 
-Subsec. (c)(3)(A). Pub. L. 106–36, § 3001(d)(5), struck out “or to which the property transferred is subject” after “liabilities assumed” in concluding provisions.
+Subsec. (c)(3)(A). Pub. L. 106–36, § 3001(d)(5), struck out “or to which the property transferred is subject” after “liabilities assumed” in concluding provisions.
 
-Subsec. (d). Pub. L. 106–36, § 3001(b)(1), added subsec. (d).
+Subsec. (d). Pub. L. 106–36, § 3001(b)(1), added subsec. (d).
 
-1990—Subsecs. (a), (b)(1). Pub. L. 101–508, § 11801(c)(8)(F)(i), substituted “351 or 361” for “351, 361, 371, or 374” wherever appearing.
+1990—Subsecs. (a), (b)(1). Pub. L. 101–508, § 11801(c)(8)(F)(i), substituted “351 or 361” for “351, 361, 371, or 374” wherever appearing.
 
-Subsec. (c)(2). Pub. L. 101–508, § 11801(c)(8)(F)(ii), inserted “or” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “to which section 371 or 374 applies, or”.
+Subsec. (c)(2). Pub. L. 101–508, § 11801(c)(8)(F)(ii), inserted “or” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “to which section 371 or 374 applies, or”.
 
 1980—Subsec. (c)(2)(C). Pub. L. 96–589 added subpar. (C).
 
@@ -4969,11 +4969,11 @@ Subsec. (c)(3)(A). Pub. L. 96–222 struck out requirement that only taxpayers w
 
 1978—Subsec. (c)(3). Pub. L. 95–600 added par. (3).
 
-1956—Subsec. (a). Act June 29, 1956, § 2(1), substituted “371, or 374” for “or 371” in two places.
+1956—Subsec. (a). Act June 29, 1956, § 2(1), substituted “371, or 374” for “or 371” in two places.
 
-Subsec. (b). Act June 29, 1956, § 2(1), substituted “371, or 374” for “or 371”.
+Subsec. (b). Act June 29, 1956, § 2(1), substituted “371, or 374” for “or 371”.
 
-Subsec. (c)(2)(B). Act June 29, 1956, § 2(2), substituted “371 or 374” for “371”.
+Subsec. (c)(2)(B). Act June 29, 1956, § 2(2), substituted “371 or 374” for “371”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4983,11 +4983,11 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 898(c), Oct. 22, 2004, 118 Stat. 1649, provided that: “The amendments made by this section [amending this section and section 361 of this title] shall apply to transfers of money or other property, or liabilities assumed, in connection with a reorganization occurring on or after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 898(c), Oct. 22, 2004, 118 Stat. 1649, provided that: “The amendments made by this section [amending this section and section 361 of this title] shall apply to transfers of money or other property, or liabilities assumed, in connection with a reorganization occurring on or after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 2000 Amendment**
 
-Amendment by Pub. L. 106–554 applicable to assumptions of liability after Oct. 18, 1999, see section 1(a)(7) [title III, § 309(d)] of Pub. L. 106–554, set out as a note under section 358 of this title.
+Amendment by Pub. L. 106–554 applicable to assumptions of liability after Oct. 18, 1999, see section 1(a)(7) [title III, § 309(d)] of Pub. L. 106–554, set out as a note under section 358 of this title.
 
 **Effective Date of 1999 Amendment**
 
@@ -5001,13 +5001,13 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–600, title III, § 365(c), Nov. 6, 1978, 92 Stat. 2855, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 358 of this title] shall apply to transfers occurring on or after the date of the enactment of this Act [Nov. 6, 1978].”
+Pub. L. 95–600, title III, § 365(c), Nov. 6, 1978, 92 Stat. 2855, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 358 of this title] shall apply to transfers occurring on or after the date of the enactment of this Act [Nov. 6, 1978].”
 
 **Savings Provision**
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-#### § 358. Basis to distributees
+#### § 358. Basis to distributees
 
 **(a) General rule** In the case of an exchange to which section 351, 354, 355, 356, or 361 applies—
 
@@ -5089,7 +5089,7 @@ to appropriately reflect the proper treatment of such distribution.
 
 For purposes of this subsection, the term “liability” shall include any fixed or contingent obligation to make payment, without regard to whether the obligation is otherwise taken into account for purposes of this title.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 117; Pub. L. 85–866, title I, § 21(a), Sept. 2, 1958, 72 Stat. 1620; Pub. L. 90–621, § 2(a), Oct. 22, 1968, 82 Stat. 1311; Pub. L. 94–253, § 1(b), Mar. 31, 1976, 90 Stat. 296; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, § 365(b), Nov. 6, 1978, 92 Stat. 2855; Pub. L. 100–647, title I, § 1018(d)(5)(B), Nov. 10, 1988, 102 Stat. 3580; Pub. L. 101–508, title XI, § 11801(c)(8)(G), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 105–34, title X, § 1012(b)(2), Aug. 5, 1997, 111 Stat. 916; Pub. L. 106–36, title III, § 3001(a)(2), (d)(6), June 25, 1999, 113 Stat. 182, 184; Pub. L. 106–554, § 1(a)(7) [title III, § 309(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–638; Pub. L. 107–147, title IV, § 412(c), Mar. 9, 2002, 116 Stat. 53.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 117; Pub. L. 85–866, title I, § 21(a), Sept. 2, 1958, 72 Stat. 1620; Pub. L. 90–621, § 2(a), Oct. 22, 1968, 82 Stat. 1311; Pub. L. 94–253, § 1(b), Mar. 31, 1976, 90 Stat. 296; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, § 365(b), Nov. 6, 1978, 92 Stat. 2855; Pub. L. 100–647, title I, § 1018(d)(5)(B), Nov. 10, 1988, 102 Stat. 3580; Pub. L. 101–508, title XI, § 11801(c)(8)(G), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 105–34, title X, § 1012(b)(2), Aug. 5, 1997, 111 Stat. 916; Pub. L. 106–36, title III, § 3001(a)(2), (d)(6), June 25, 1999, 113 Stat. 182, 184; Pub. L. 106–554, § 1(a)(7) [title III, § 309(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–638; Pub. L. 107–147, title IV, § 412(c), Mar. 9, 2002, 116 Stat. 53.)
 
 **Editorial Notes**
 
@@ -5103,19 +5103,19 @@ For purposes of this subsection, the term “liability” shall include any fixe
 
 1997—Subsec. (g). Pub. L. 105–34 added subsec. (g).
 
-1990—Subsec. (a). Pub. L. 101–508, § 11801(c)(8)(G)(i), substituted “or 361” for “361, 371(b), or 374”.
+1990—Subsec. (a). Pub. L. 101–508, § 11801(c)(8)(G)(i), substituted “or 361” for “361, 371(b), or 374”.
 
-Subsec. (b)(3). Pub. L. 101–508, § 11801(c)(8)(G)(ii), struck out par. (3) “Certain exchanges involving ConRail” which read as follows: “To the extent provided in regulations prescribed by the Secretary in the case of an exchange to which section 354(d) (or so much of section 356 as relates to section 354(d)) or section 374(c) applies, for purposes of allocating basis under paragraph (1), stock of the Consolidated Rail Corporation and the certificate of value of the United States Railway Association which relates to such stock shall, so long as they are held by the same person, be treated as one property.”
+Subsec. (b)(3). Pub. L. 101–508, § 11801(c)(8)(G)(ii), struck out par. (3) “Certain exchanges involving ConRail” which read as follows: “To the extent provided in regulations prescribed by the Secretary in the case of an exchange to which section 354(d) (or so much of section 356 as relates to section 354(d)) or section 374(c) applies, for purposes of allocating basis under paragraph (1), stock of the Consolidated Rail Corporation and the certificate of value of the United States Railway Association which relates to such stock shall, so long as they are held by the same person, be treated as one property.”
 
 1988—Subsec. (f). Pub. L. 100–647 added subsec. (f).
 
 1978—Subsec. (d). Pub. L. 95–600 designated existing provisions as par. (1) and added par. (2).
 
-1976—Subsec. (a). Pub. L. 94–253, § 1(b)(1), substituted “371(b), or 374” for “or 371(b)”.
+1976—Subsec. (a). Pub. L. 94–253, § 1(b)(1), substituted “371(b), or 374” for “or 371(b)”.
 
 Subsec. (b)(1), (3). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-Pub. L. 94–253, § 1(b)(2), added par. (3).
+Pub. L. 94–253, § 1(b)(2), added par. (3).
 
 1968—Subsec. (e). Pub. L. 90–621 substituted exchange of stock and securities for issuance of stock or securities as the transaction involved and inserted parenthetical provisions making reference to stock or securities of a corporation which is in control of the acquiring corporation.
 
@@ -5129,7 +5129,7 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–554, § 1(a)(7) [title III, § 309(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–638, provided that:
+Pub. L. 106–554, § 1(a)(7) [title III, § 309(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–638, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and section 357 of this title] shall apply to assumptions of liability after October 18, 1999.
 
@@ -5157,11 +5157,11 @@ Amendment by Pub. L. 94–253 applicable to taxable years ending after Mar. 31, 
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–621, § 2(c), Oct. 22, 1968, 82 Stat. 1311, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 362 of this title] shall apply only in respect of plans of reorganization adopted after the date of the enactment of this Act [Oct. 22, 1968].”
+Pub. L. 90–621, § 2(c), Oct. 22, 1968, 82 Stat. 1311, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 362 of this title] shall apply only in respect of plans of reorganization adopted after the date of the enactment of this Act [Oct. 22, 1968].”
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–866, § 21(b), Sept. 2, 1958, 72 Stat. 1620, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) [amending this section] shall apply as provided in section 393 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] as if the clause (iii) added by such amendment had been included in such Code at the time of its enactment [Aug. 16, 1954].”
+Pub. L. 85–866, § 21(b), Sept. 2, 1958, 72 Stat. 1620, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) [amending this section] shall apply as provided in section 393 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] as if the clause (iii) added by such amendment had been included in such Code at the time of its enactment [Aug. 16, 1954].”
 
 **Savings Provision**
 
@@ -5173,7 +5173,7 @@ United States Railway Association abolished effective Apr. 1, 1987, all powers, 
 
 **Application of Comparable Rules to Partnerships and S Corporations**
 
-Pub. L. 106–554, § 1(a)(7) [title III, § 309(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–638, provided that:
+Pub. L. 106–554, § 1(a)(7) [title III, § 309(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–638, provided that:
 
 > “The Secretary of the Treasury or his delegate—
 
@@ -5187,15 +5187,15 @@ Pub. L. 106–554, § 1(a)(7) [title III, § 309(c)], Dec. 21, 2000, 114 Sta
 
 **Amendments**
 
-2018—Pub. L. 115–141, div. U, title IV, § 401(a)(66), Mar. 23, 2018, 132 Stat. 1187, substituted “Corporations” for “Corporation” in subpart heading.
+2018—Pub. L. 115–141, div. U, title IV, § 401(a)(66), Mar. 23, 2018, 132 Stat. 1187, substituted “Corporations” for “Corporation” in subpart heading.
 
-1988—Pub. L. 100–647, title I, § 1018(d)(5)(F), Nov. 10, 1988, 102 Stat. 3580, substituted “corporations; treatment of distributions.” for “transferor corporation; other treatment of transferor corporation; etc.” in item 361.
+1988—Pub. L. 100–647, title I, § 1018(d)(5)(F), Nov. 10, 1988, 102 Stat. 3580, substituted “corporations; treatment of distributions.” for “transferor corporation; other treatment of transferor corporation; etc.” in item 361.
 
-1986—Pub. L. 99–514, title XVIII, § 1804(g)(3), Oct. 22, 1986, 100 Stat. 2806, substituted “to transferor corporation; other treatment of transferor corporation; etc.” for “corporations” in item 361.
+1986—Pub. L. 99–514, title XVIII, § 1804(g)(3), Oct. 22, 1986, 100 Stat. 2806, substituted “to transferor corporation; other treatment of transferor corporation; etc.” for “corporations” in item 361.
 
-1976—Pub. L. 94–455, title XIX, § 1901(b)(13), Oct. 4, 1976, 90 Stat. 1795, struck out item 363 “Effect on earnings and profits”.
+1976—Pub. L. 94–455, title XIX, § 1901(b)(13), Oct. 4, 1976, 90 Stat. 1795, struck out item 363 “Effect on earnings and profits”.
 
-#### § 361. Nonrecognition of gain or loss to corporations; treatment of distributions
+#### § 361. Nonrecognition of gain or loss to corporations; treatment of distributions
 
 **(a) General rule**
 
@@ -5261,7 +5261,7 @@ Section 311 and subpart B of part II of this subchapter shall not apply to any d
 
 For provision providing for recognition of gain in certain distributions, see section 355(d).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 118; Pub. L. 99–514, title XVIII, § 1804(g)(1), Oct. 22, 1986, 100 Stat. 2805; Pub. L. 100–647, title I, § 1018(d)(5)(A), Nov. 10, 1988, 102 Stat. 3578; Pub. L. 101–508, title XI, § 11321(b), Nov. 5, 1990, 104 Stat. 1388–463; Pub. L. 108–357, title VIII, § 898(a), Oct. 22, 2004, 118 Stat. 1649; Pub. L. 109–135, title IV, § 403(jj)(1), Dec. 21, 2005, 119 Stat. 2632.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 118; Pub. L. 99–514, title XVIII, § 1804(g)(1), Oct. 22, 1986, 100 Stat. 2805; Pub. L. 100–647, title I, § 1018(d)(5)(A), Nov. 10, 1988, 102 Stat. 3578; Pub. L. 101–508, title XI, § 11321(b), Nov. 5, 1990, 104 Stat. 1388–463; Pub. L. 108–357, title VIII, § 898(a), Oct. 22, 2004, 118 Stat. 1649; Pub. L. 109–135, title IV, § 403(jj)(1), Dec. 21, 2005, 119 Stat. 2632.)
 
 **Editorial Notes**
 
@@ -5297,13 +5297,13 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title XVIII, § 1804(g)(4), Oct. 22, 1986, 100 Stat. 2806, provided that: “The amendments made by this subsection [amending this section and section 368 of this title] shall apply to plans of reorganizations adopted after the date of the enactment of this Act [Oct. 22, 1986].”
+Pub. L. 99–514, title XVIII, § 1804(g)(4), Oct. 22, 1986, 100 Stat. 2806, provided that: “The amendments made by this subsection [amending this section and section 368 of this title] shall apply to plans of reorganizations adopted after the date of the enactment of this Act [Oct. 22, 1986].”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-#### § 362. Basis to corporations
+#### § 362. Basis to corporations
 
 **(a) Property acquired by issuance of stock or as paid-in surplus** If property was acquired by a corporation—
 
@@ -5395,7 +5395,7 @@ The aggregate reduction in basis by reason of subparagraph (A) shall be allocate
 
 Any election under clause (i) shall be made at such time and in such form and manner as the Secretary may prescribe, and, once made, shall be irrevocable.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 118; Pub. L. 90–621, § 2(b), Oct. 22, 1968, 82 Stat. 1311; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), title XXI, § 2120(b), Oct. 4, 1976, 90 Stat. 1834, 1913; Pub. L. 99–514, title VIII, § 824(b), Oct. 22, 1986, 100 Stat. 2374; Pub. L. 106–36, title III, § 3001(b)(2), June 25, 1999, 113 Stat. 182; Pub. L. 108–357, title VIII, § 836(a), Oct. 22, 2004, 118 Stat. 1594; Pub. L. 109–135, title IV, § 403(dd)(2), Dec. 21, 2005, 119 Stat. 2631; Pub. L. 113–295, div. A, title II, § 221(a)(51), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 115–141, div. U, title IV, § 401(a)(67), Mar. 23, 2018, 132 Stat. 1187.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 118; Pub. L. 90–621, § 2(b), Oct. 22, 1968, 82 Stat. 1311; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), title XXI, § 2120(b), Oct. 4, 1976, 90 Stat. 1834, 1913; Pub. L. 99–514, title VIII, § 824(b), Oct. 22, 1986, 100 Stat. 2374; Pub. L. 106–36, title III, § 3001(b)(2), June 25, 1999, 113 Stat. 182; Pub. L. 108–357, title VIII, § 836(a), Oct. 22, 2004, 118 Stat. 1594; Pub. L. 109–135, title IV, § 403(dd)(2), Dec. 21, 2005, 119 Stat. 2631; Pub. L. 113–295, div. A, title II, § 221(a)(51), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 115–141, div. U, title IV, § 401(a)(67), Mar. 23, 2018, 132 Stat. 1187.)
 
 **Editorial Notes**
 
@@ -5405,7 +5405,7 @@ Any election under clause (i) shall be made at such time and in such form and ma
 
 2014—Subsec. (a). Pub. L. 113–295 struck out “on or after June 22, 1954” after “If property was acquired” in introductory provisions.
 
-Subsec. (c)(1)(A), (2)(A). Pub. L. 113–295 struck out “, on or after June 22, 1954,” after “by a corporation”.
+Subsec. (c)(1)(A), (2)(A). Pub. L. 113–295 struck out “, on or after June 22, 1954,” after “by a corporation”.
 
 2005—Subsec. (e)(2)(C)(ii). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “An election under clause (i) shall be included with the return of tax for the taxable year in which the transaction occurred, shall be in such form and manner as the Secretary may prescribe, and, once made, shall be irrevocable.”
 
@@ -5415,9 +5415,9 @@ Subsec. (c)(1)(A), (2)(A). Pub. L. 113–295 struck out “, on or after June 
 
 1986—Subsec. (c)(3). Pub. L. 99–514 struck out par. (3) relating to exceptions for contributions in aid of construction.
 
-1976—Subsec. (c)(2)(B). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (c)(2)(B). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c)(3). Pub. L. 94–455, § 2120(b), added par. (3).
+Subsec. (c)(3). Pub. L. 94–455, § 2120(b), added par. (3).
 
 1968—Subsec. (b). Pub. L. 90–621 substituted the exchange of stock or securities of the transferee (or of a corporation which is in control of the transferee) for the issuance of stock or securities of the transferee as the transaction rendering the subsection applicable.
 
@@ -5433,7 +5433,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 836(c)(1), Oct. 22, 2004, 118 Stat. 1596, provided that: “The amendment made by subsection (a) [amending this section] shall apply to transactions after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 836(c)(1), Oct. 22, 2004, 118 Stat. 1596, provided that: “The amendment made by subsection (a) [amending this section] shall apply to transactions after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 1999 Amendment**
 
@@ -5451,7 +5451,7 @@ Amendment by section 2120(b) of Pub. L. 94–455 applicable to contributions mad
 
 Amendment by Pub. L. 90–621 applicable only in respect of plans of reorganization adopted after Oct. 22, 1968, see section 2(c) of Pub. L. 90–621, set out as a note under section 358 of this title.
 
-#### [§ 363. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(49), Oct. 4, 1976, 90 Stat. 1773]
+#### [§ 363. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(49), Oct. 4, 1976, 90 Stat. 1773]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 119, related to cross reference for rules relating to effect on earnings and profits of transactions to which this part applies.
 
@@ -5463,7 +5463,7 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
 
 ### Subpart D—Special Rule; Definitions
 
-#### § 367. Foreign corporations
+#### § 367. Foreign corporations
 
 **(a) Transfers of property from the United States**
 
@@ -5587,7 +5587,7 @@ In the case of any liquidation to which section 332 applies, except as provided 
 
 **(2)** the adjusted basis (for purposes of determining gain) of such property in the hands of the transferor.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 119; Pub. L. 91–681, § 1(a), Jan. 12, 1971, 84 Stat. 2065; Pub. L. 94–455, title X, § 1042(a), Oct. 4, 1976, 90 Stat. 1634; Pub. L. 97–248, title II, § 213(d), Sept. 3, 1982, 96 Stat. 465; Pub. L. 98–369, div. A, title I, § 131(a)–(c), July 18, 1984, 98 Stat. 662–664; Pub. L. 99–514, title VI, § 631(d)(1), title XII, § 1231(e)(2), title XVIII, § 1810(g)(1), (4), Oct. 22, 1986, 100 Stat. 2272, 2563, 2828, 2829; Pub. L. 100–647, title I, § 1006(e)(13)(A), Nov. 10, 1988, 102 Stat. 3402; Pub. L. 101–508, title XI, § 11702(a)(1), Nov. 5, 1990, 104 Stat. 1388–514; Pub. L. 105–34, title XI, § 1131(b)(2), (4), (5)(A), Aug. 5, 1997, 111 Stat. 979, 980; Pub. L. 106–170, title V, § 532(c)(1)(C), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, § 406(a), Oct. 22, 2004, 118 Stat. 1498; Pub. L. 115–97, title I, §§ 14102(e)(1), (2), 14221(b)(1), Dec. 22, 2017, 131 Stat. 2194, 2218; Pub. L. 115–141, div. U, title IV, § 401(d)(1)(D)(viii)(I), (II), Mar. 23, 2018, 132 Stat. 1207.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 119; Pub. L. 91–681, § 1(a), Jan. 12, 1971, 84 Stat. 2065; Pub. L. 94–455, title X, § 1042(a), Oct. 4, 1976, 90 Stat. 1634; Pub. L. 97–248, title II, § 213(d), Sept. 3, 1982, 96 Stat. 465; Pub. L. 98–369, div. A, title I, § 131(a)–(c), July 18, 1984, 98 Stat. 662–664; Pub. L. 99–514, title VI, § 631(d)(1), title XII, § 1231(e)(2), title XVIII, § 1810(g)(1), (4), Oct. 22, 1986, 100 Stat. 2272, 2563, 2828, 2829; Pub. L. 100–647, title I, § 1006(e)(13)(A), Nov. 10, 1988, 102 Stat. 3402; Pub. L. 101–508, title XI, § 11702(a)(1), Nov. 5, 1990, 104 Stat. 1388–514; Pub. L. 105–34, title XI, § 1131(b)(2), (4), (5)(A), Aug. 5, 1997, 111 Stat. 979, 980; Pub. L. 106–170, title V, § 532(c)(1)(C), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, § 406(a), Oct. 22, 2004, 118 Stat. 1498; Pub. L. 115–97, title I, §§ 14102(e)(1), (2), 14221(b)(1), Dec. 22, 2017, 131 Stat. 2194, 2218; Pub. L. 115–141, div. U, title IV, § 401(d)(1)(D)(viii)(I), (II), Mar. 23, 2018, 132 Stat. 1207.)
 
 **Editorial Notes**
 
@@ -5597,47 +5597,47 @@ Another section 1131(b) of Pub. L. 105–34 enacted section 684 of this title.
 
 **Amendments**
 
-2018—Subsec. (d)(1). Pub. L. 115–141, § 401(d)(1)(D)(viii)(II), struck out “(within the meaning of section 936(h)(3)(B))” after “intangible property” in introductory provisions.
+2018—Subsec. (d)(1). Pub. L. 115–141, § 401(d)(1)(D)(viii)(II), struck out “(within the meaning of section 936(h)(3)(B))” after “intangible property” in introductory provisions.
 
-Subsec. (d)(4). Pub. L. 115–141, § 401(d)(1)(D)(viii)(I), added par. (4).
+Subsec. (d)(4). Pub. L. 115–141, § 401(d)(1)(D)(viii)(I), added par. (4).
 
-2017—Subsec. (a)(3). Pub. L. 115–97, § 14102(e)(1), redesignated par. (4) as (3) and struck out former par. (3) which related to exception for transfers of certain property used in the active conduct of a trade or business.
+2017—Subsec. (a)(3). Pub. L. 115–97, § 14102(e)(1), redesignated par. (4) as (3) and struck out former par. (3) which related to exception for transfers of certain property used in the active conduct of a trade or business.
 
-Subsec. (a)(4). Pub. L. 115–97, § 14102(e)(1), (2), redesignated par. (5) as (4) and substituted “Paragraph (2)” for “Paragraphs (2) and (3)” in heading and text. Former par. (4) redesignated (3).
+Subsec. (a)(4). Pub. L. 115–97, § 14102(e)(1), (2), redesignated par. (5) as (4) and substituted “Paragraph (2)” for “Paragraphs (2) and (3)” in heading and text. Former par. (4) redesignated (3).
 
-Subsec. (a)(5), (6). Pub. L. 115–97, § 14102(e)(1), redesignated pars. (5) and (6) as (4) and (5), respectively.
+Subsec. (a)(5), (6). Pub. L. 115–97, § 14102(e)(1), redesignated pars. (5) and (6) as (4) and (5), respectively.
 
-Subsec. (d)(2)(D). Pub. L. 115–97, § 14221(b)(1), added subpar. (D).
+Subsec. (d)(2)(D). Pub. L. 115–97, § 14221(b)(1), added subpar. (D).
 
 2004—Subsec. (d)(2)(C). Pub. L. 108–357 inserted at end “For purposes of applying section 904(d), any such amount shall be treated in the same manner as if such amount were a royalty.”
 
 1999—Subsec. (a)(3)(B)(i). Pub. L. 106–170 substituted “section 1221(a)” for “section 1221”.
 
-1997—Subsec. (d)(2)(C). Pub. L. 105–34, § 1131(b)(4), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “For purposes of this chapter, any amount included in gross income by reason of this subsection shall be treated as ordinary income from sources within the United States.”
+1997—Subsec. (d)(2)(C). Pub. L. 105–34, § 1131(b)(4), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “For purposes of this chapter, any amount included in gross income by reason of this subsection shall be treated as ordinary income from sources within the United States.”
 
-Subsec. (d)(3). Pub. L. 105–34, § 1131(b)(5)(A), added par. (3).
+Subsec. (d)(3). Pub. L. 105–34, § 1131(b)(5)(A), added par. (3).
 
-Subsec. (f). Pub. L. 105–34, § 1131(b)(2), added subsec. (f).
+Subsec. (f). Pub. L. 105–34, § 1131(b)(2), added subsec. (f).
 
 1990—Subsec. (a)(5). Pub. L. 101–508 substituted “subsection (a) or (b) of section 361” for “section 361”.
 
 1988—Subsec. (a)(5), (6). Pub. L. 100–647 added par. (5) and redesignated former par. (5) as (6).
 
-1986—Subsec. (a)(1). Pub. L. 99–514, § 1810(g)(4)(A), struck out “355,” after “354,”.
+1986—Subsec. (a)(1). Pub. L. 99–514, § 1810(g)(4)(A), struck out “355,” after “354,”.
 
-Subsec. (d)(2)(A). Pub. L. 99–514, § 1231(e)(2), inserted at end “The amounts taken into account under clause (ii) shall be commensurate with the income attributable to the intangible.”
+Subsec. (d)(2)(A). Pub. L. 99–514, § 1231(e)(2), inserted at end “The amounts taken into account under clause (ii) shall be commensurate with the income attributable to the intangible.”
 
-Subsec. (e). Pub. L. 99–514, § 631(d)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e), treatment of distributions described in section 336 or 355, read as follows: “In the case of any distribution described in section 336 or 355 (or so much of section 356 as relates to section 355) by a domestic corporation which is made to a person who is not a United States person, to the extent provided in regulations, gain shall be recognized under principles similar to the principles of this section.”
+Subsec. (e). Pub. L. 99–514, § 631(d)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e), treatment of distributions described in section 336 or 355, read as follows: “In the case of any distribution described in section 336 or 355 (or so much of section 356 as relates to section 355) by a domestic corporation which is made to a person who is not a United States person, to the extent provided in regulations, gain shall be recognized under principles similar to the principles of this section.”
 
-Subsec. (f). Pub. L. 99–514, § 1810(g)(1), struck out subsec. (f) which related to transitional rules in the case of any exchanges beginning before Jan. 1, 1978.
+Subsec. (f). Pub. L. 99–514, § 1810(g)(1), struck out subsec. (f) which related to transitional rules in the case of any exchanges beginning before Jan. 1, 1978.
 
-Pub. L. 99–514, § 1810(g)(4)(B), in heading substituted “distributions described in section 336 or 355” for “liquidations under section 336”, and in text inserted “or 355 (or so much of section 356 as relates to section 355)”.
+Pub. L. 99–514, § 1810(g)(4)(B), in heading substituted “distributions described in section 336 or 355” for “liquidations under section 336”, and in text inserted “or 355 (or so much of section 356 as relates to section 355)”.
 
-1984—Subsec. (a). Pub. L. 98–369, § 131(a), amended subsec. (a) generally, revising provisions of pars. (1) and (2), and adding pars. (3) to (5).
+1984—Subsec. (a). Pub. L. 98–369, § 131(a), amended subsec. (a) generally, revising provisions of pars. (1) and (2), and adding pars. (3) to (5).
 
-Subsec. (d). Pub. L. 98–369, § 131(b), amended subsec. (d) generally, substituting provision providing special rules relating to transfers of intangibles for provision providing special rules relating to transfers of intangibles by possession corporation.
+Subsec. (d). Pub. L. 98–369, § 131(b), amended subsec. (d) generally, substituting provision providing special rules relating to transfers of intangibles for provision providing special rules relating to transfers of intangibles by possession corporation.
 
-Subsecs. (e), (f). Pub. L. 98–369, § 131(c), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 98–369, § 131(c), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 1982—Subsecs. (d), (e). Pub. L. 97–248 added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -5655,13 +5655,13 @@ Subsec. (d). Pub. L. 91–681 added subsec. (d).
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–97, title I, § 14102(e)(3), Dec. 22, 2017, 131 Stat. 2195, provided that: “The amendments made by this subsection [amending this section] shall apply to transfers after December 31, 2017.”
+Pub. L. 115–97, title I, § 14102(e)(3), Dec. 22, 2017, 131 Stat. 2195, provided that: “The amendments made by this subsection [amending this section] shall apply to transfers after December 31, 2017.”
 
-Pub. L. 115–97, title I, § 14221(c)(1), Dec. 22, 2017, 131 Stat. 2219, provided that: “The amendments made by this section [amending this section and sections 482 and 936 of this title] shall apply to transfers in taxable years beginning after December 31, 2017.”
+Pub. L. 115–97, title I, § 14221(c)(1), Dec. 22, 2017, 131 Stat. 2219, provided that: “The amendments made by this section [amending this section and sections 482 and 936 of this title] shall apply to transfers in taxable years beginning after December 31, 2017.”
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title IV, § 406(b), Oct. 22, 2004, 118 Stat. 1498, provided that: “The amendment made by this section [amending this section] shall apply to amounts treated as received pursuant to section 367(d)(2) of the Internal Revenue Code of 1986 on or after August 5, 1997.”
+Pub. L. 108–357, title IV, § 406(b), Oct. 22, 2004, 118 Stat. 1498, provided that: “The amendment made by this section [amending this section] shall apply to amounts treated as received pursuant to section 367(d)(2) of the Internal Revenue Code of 1986 on or after August 5, 1997.”
 
 **Effective Date of 1999 Amendment**
 
@@ -5669,7 +5669,7 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XI, § 1131(d), Aug. 5, 1997, 111 Stat. 980, provided that: “The amendments made by this section [enacting section 684 of this title, amending this section and sections 721, 814, 1035, and 6422 of this title, and repealing sections 1057, 1491, 1492, and 1494 of this title] shall take effect on the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XI, § 1131(d), Aug. 5, 1997, 111 Stat. 980, provided that: “The amendments made by this section [enacting section 684 of this title, amending this section and sections 721, 814, 1035, and 6422 of this title, and repealing sections 1057, 1491, 1492, and 1494 of this title] shall take effect on the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1990 Amendment**
 
@@ -5677,13 +5677,13 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1006(e)(13)(B), Nov. 10, 1988, 102 Stat. 3402, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to exchanges on or after June 21, 1988, except that such amendment shall not apply to any exchange pursuant to any reorganization for which a plan of reorganization was adopted before June 21, 1988.”
+Pub. L. 100–647, title I, § 1006(e)(13)(B), Nov. 10, 1988, 102 Stat. 3402, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to exchanges on or after June 21, 1988, except that such amendment shall not apply to any exchange pursuant to any reorganization for which a plan of reorganization was adopted before June 21, 1988.”
 
 **Effective Date of 1986 Amendment**
 
 Amendment by section 631(d)(1) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
-Pub. L. 99–514, title XII, § 1231(g), Oct. 22, 1986, 100 Stat. 2563, as amended by Pub. L. 100–647, title I, § 1012(n)(1)–(3), Nov. 10, 1988, 102 Stat. 3514, provided that:
+Pub. L. 99–514, title XII, § 1231(g), Oct. 22, 1986, 100 Stat. 2563, as amended by Pub. L. 100–647, title I, § 1012(n)(1)–(3), Nov. 10, 1988, 102 Stat. 3514, provided that:
 
 > **“(1) In general.—** Except as provided in paragraphs (2) and (3), the amendments made by this section [amending this section and sections 482 and 936 of this title] shall apply to taxable years beginning after December 31, 1986.
 
@@ -5729,7 +5729,7 @@ Amendment by section 1810(g)(1), (4) of Pub. L. 99–514 effective, except as ot
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 131(g), July 18, 1984, 98 Stat. 665, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, § 131(g), July 18, 1984, 98 Stat. 665, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting section 6038B of this title, amending this section and sections 1492, 1494, 6501, and 7482 of this title, and repealing section 7477 of this title] shall apply to transfers or exchanges after December 31, 1984, in taxable years ending after such date.
 
@@ -5747,7 +5747,7 @@ Amendment by Pub. L. 97–248 applicable to taxable years ending after Aug. 14, 
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title X, § 1042(e), Oct. 4, 1976, 90 Stat. 1639, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title X, § 1042(e), Oct. 4, 1976, 90 Stat. 1639, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** The amendments made by this section (other than by subsection (d)) [amending this section and sections 751 and 1248 of this title] shall apply to transfers beginning after October 9, 1975, and to sales, exchanges, and distributions taking place after such date. The amendments made by subsection (d) [enacting section 7477 of this title and amending sections 7476 and 7482 of this title] shall apply with respect to pleadings filed with the Tax Court after the date of the enactment of this Act [Oct. 4, 1976] but only with respect to transfers beginning after October 9, 1975.
 
@@ -5755,7 +5755,7 @@ Pub. L. 94–455, title X, § 1042(e), Oct. 4, 1976, 90 Stat. 1639, as amended
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 91–681, § 1(c), Jan. 12, 1971, 84 Stat. 2066, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [amending this section and section 1492 of this title] shall apply to transfers made after December 31, 1967; except that sections 367(d) and 1492 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as amended by this section) shall apply only with respect to transfers made after December 31, 1970.”
+Pub. L. 91–681, § 1(c), Jan. 12, 1971, 84 Stat. 2066, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [amending this section and section 1492 of this title] shall apply to transfers made after December 31, 1967; except that sections 367(d) and 1492 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as amended by this section) shall apply only with respect to transfers made after December 31, 1970.”
 
 **Savings Provision**
 
@@ -5763,13 +5763,13 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 **Applicability of Subsection (e)(2)**
 
-Pub. L. 100–647, title I, § 1006(e)(13)(C), Nov. 10, 1988, 102 Stat. 3402, provided that: “Section 367(e)(2) of the 1986 Code (as amended by the Reform Act [Pub. L. 99–514]) shall not apply in the case of any corporation completely liquidated before June 10, 1987, into a corporation organized in a country which has an income tax treaty with the United States.”
+Pub. L. 100–647, title I, § 1006(e)(13)(C), Nov. 10, 1988, 102 Stat. 3402, provided that: “Section 367(e)(2) of the 1986 Code (as amended by the Reform Act [Pub. L. 99–514]) shall not apply in the case of any corporation completely liquidated before June 10, 1987, into a corporation organized in a country which has an income tax treaty with the United States.”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-#### § 368. Definitions relating to corporate reorganizations
+#### § 368. Definitions relating to corporate reorganizations
 
 **(a) Reorganization**
 
@@ -5837,7 +5837,7 @@ A transaction otherwise qualifying under paragraph (1)(A), (1)(B), or (1)(C) sha
 
 **(vii)** For purposes of clauses (ii) and (iii), the term “securities” includes obligations of State and local governments, commodity futures contracts, shares of regulated investment companies and real estate investment trusts, and other investments constituting a security within the meaning of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a)(36)).
 
-**[(viii)** Repealed. Pub. L. 98–369, div. A, title I, § 174(b)(5)(D), July 18, 1984, 98 Stat. 707]
+**[(viii)** Repealed. Pub. L. 98–369, div. A, title I, § 174(b)(5)(D), July 18, 1984, 98 Stat. 707]
 
 **(G) Distribution requirement for paragraph (1)(C)**
 
@@ -5899,23 +5899,23 @@ In the case of a reorganization qualifying under paragraph (1)(B) or (1)(C) of s
 
 For purposes of part I (other than section 304), part II, this part, and part V, the term “control” means the ownership of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 120; Pub. L. 88–272, title II, § 218(a), (b), Feb. 26, 1964, 78 Stat. 57; Pub. L. 90–621, § 1(a), (b), Oct. 22, 1968, 82 Stat. 1310, 1311; Pub. L. 91–693, § 1(a), (b), Jan. 12, 1971, 84 Stat. 2077; Pub. L. 94–455, title VIII, § 806(f)(1), title XXI, § 2131(a), Oct. 4, 1976, 90 Stat. 1605, 1922; Pub. L. 95–600, title VII, § 701(j)(1), Nov. 6, 1978, 92 Stat. 2905; Pub. L. 96–589, § 4(a)–(d), (h)(3), (4), Dec. 24, 1980, 94 Stat. 3401–3403, 3405; Pub. L. 97–34, title II, § 241, Aug. 13, 1981, 95 Stat. 254; Pub. L. 97–248, title II, § 225(a), Sept. 3, 1982, 96 Stat. 490; Pub. L. 97–448, title III, § 304(b), (c), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §§ 63(a), 64(a), 174(b)(5)(D), July 18, 1984, 98 Stat. 583, 584, 707; Pub. L. 99–514, title VI, § 621(e)(1), title IX, § 904(a), title XVIII, §§ 1804(g)(2), (h), 1879(*l*)(1), Oct. 22, 1986, 100 Stat. 2266, 2385, 2806, 2909; Pub. L. 100–647, title I, § 1018(q)(5), title IV, § 4012(b)(1)(A), Nov. 10, 1988, 102 Stat. 3586, 3656; Pub. L. 101–73, title XIV, § 1401(a)(1), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 105–34, title X, § 1012(c)(2), Aug. 5, 1997, 111 Stat. 917; Pub. L. 105–206, title VI, § 6010(c)(3)(B), July 22, 1998, 112 Stat. 813; Pub. L. 105–277, div. J, title IV, § 4003(f)(2), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, § 3001(a)(3), June 25, 1999, 113 Stat. 182; Pub. L. 115–141, div. U, title IV, § 401(a)(68), Mar. 23, 2018, 132 Stat. 1187.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 120; Pub. L. 88–272, title II, § 218(a), (b), Feb. 26, 1964, 78 Stat. 57; Pub. L. 90–621, § 1(a), (b), Oct. 22, 1968, 82 Stat. 1310, 1311; Pub. L. 91–693, § 1(a), (b), Jan. 12, 1971, 84 Stat. 2077; Pub. L. 94–455, title VIII, § 806(f)(1), title XXI, § 2131(a), Oct. 4, 1976, 90 Stat. 1605, 1922; Pub. L. 95–600, title VII, § 701(j)(1), Nov. 6, 1978, 92 Stat. 2905; Pub. L. 96–589, § 4(a)–(d), (h)(3), (4), Dec. 24, 1980, 94 Stat. 3401–3403, 3405; Pub. L. 97–34, title II, § 241, Aug. 13, 1981, 95 Stat. 254; Pub. L. 97–248, title II, § 225(a), Sept. 3, 1982, 96 Stat. 490; Pub. L. 97–448, title III, § 304(b), (c), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §§ 63(a), 64(a), 174(b)(5)(D), July 18, 1984, 98 Stat. 583, 584, 707; Pub. L. 99–514, title VI, § 621(e)(1), title IX, § 904(a), title XVIII, §§ 1804(g)(2), (h), 1879(*l*)(1), Oct. 22, 1986, 100 Stat. 2266, 2385, 2806, 2909; Pub. L. 100–647, title I, § 1018(q)(5), title IV, § 4012(b)(1)(A), Nov. 10, 1988, 102 Stat. 3586, 3656; Pub. L. 101–73, title XIV, § 1401(a)(1), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 105–34, title X, § 1012(c)(2), Aug. 5, 1997, 111 Stat. 917; Pub. L. 105–206, title VI, § 6010(c)(3)(B), July 22, 1998, 112 Stat. 813; Pub. L. 105–277, div. J, title IV, § 4003(f)(2), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, § 3001(a)(3), June 25, 1999, 113 Stat. 182; Pub. L. 115–141, div. U, title IV, § 401(a)(68), Mar. 23, 2018, 132 Stat. 1187.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Investment Company Act of 1940, referred to in subsec. (a)(2)(F)(vii), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(2)(F)(vii), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 **Amendments**
 
 2018—Subsec. (a)(2)(F)(vii). Pub. L. 115–141 substituted “(15 U.S.C. 80a–2(a)(36))” for “(15 U.S.C. 80a–2(36))”.
 
-1999—Subsec. (a)(1)(C). Pub. L. 106–36, § 3001(a)(3)(A), struck out “, or the fact that property acquired is subject to a liability,” before “shall be disregarded”.
+1999—Subsec. (a)(1)(C). Pub. L. 106–36, § 3001(a)(3)(A), struck out “, or the fact that property acquired is subject to a liability,” before “shall be disregarded”.
 
-Subsec. (a)(2)(B). Pub. L. 106–36, § 3001(a)(3)(B), which directed amendment of concluding provisions by striking out “, and the amount of any liability to which any property acquired from the acquiring corporation is subject,”, was executed by striking out “, and the amount of any liability to which any property acquired by the acquiring corporation is subject,” after “acquiring corporation”, to reflect the probable intent of Congress.
+Subsec. (a)(2)(B). Pub. L. 106–36, § 3001(a)(3)(B), which directed amendment of concluding provisions by striking out “, and the amount of any liability to which any property acquired from the acquiring corporation is subject,”, was executed by striking out “, and the amount of any liability to which any property acquired by the acquiring corporation is subject,” after “acquiring corporation”, to reflect the probable intent of Congress.
 
-1998—Subsec. (a)(2)(H)(ii). Pub. L. 105–277 inserted “, or the fact that the corporation whose stock was distributed issues additional stock,” after “dispose of part or all of the distributed stock”.
+1998—Subsec. (a)(2)(H)(ii). Pub. L. 105–277 inserted “, or the fact that the corporation whose stock was distributed issues additional stock,” after “dispose of part or all of the distributed stock”.
 
 Pub. L. 105–206 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “in the case of a transaction with respect to which the requirements of section 355 are met, the shareholders described in paragraph (1)(D) shall be treated as having control of the corporation to which the assets are transferred if such shareholders own (immediately after the distribution) stock possessing—
 
@@ -5925,69 +5925,69 @@ Pub. L. 105–206 amended cl. (ii) generally. Prior to amendment, cl. (ii) read 
 
 1997—Subsec. (a)(2)(H). Pub. L. 105–34 amended heading and text of subpar. (H) generally. Prior to amendment, text read as follows: “In the case of any transaction with respect to which the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met, for purposes of determining whether such transaction qualifies under subparagraph (D) of paragraph (1), the term ‘control’ has the meaning given to such term by section 304(c).”
 
-1989—Subsec. (a)(3)(D). Pub. L. 101–73, § 1401(b)(1), repealed amendment made by Pub. L. 99–514, § 904(a), see 1986 Amendment note below.
+1989—Subsec. (a)(3)(D). Pub. L. 101–73, § 1401(b)(1), repealed amendment made by Pub. L. 99–514, § 904(a), see 1986 Amendment note below.
 
-Pub. L. 101–73, § 1401(a)(1), inserted “receivership” in heading and amended text generally, changing the structure of the subparagraph from one consisting of five clauses designated (i) to (v) to one consisting of a single undesignated subparagraph.
+Pub. L. 101–73, § 1401(a)(1), inserted “receivership” in heading and amended text generally, changing the structure of the subparagraph from one consisting of five clauses designated (i) to (v) to one consisting of a single undesignated subparagraph.
 
-1988—Subsec. (a)(2)(F)(ii). Pub. L. 100–647, § 1018(q)(5), struck out “(other than stock in a regulated investment company, a real estate investment trust, or an investment company which meets the requirements of this clause (ii))” after “any one issuer” and after “or fewer issuers” and inserted at end “For purposes of this clause, a person holding stock in a regulated investment company, a real estate investment trust, or an investment company which meets the requirements of this clause shall, except as provided in regulations, be treated as holding its proportionate share of the assets held by such company or trust.”
+1988—Subsec. (a)(2)(F)(ii). Pub. L. 100–647, § 1018(q)(5), struck out “(other than stock in a regulated investment company, a real estate investment trust, or an investment company which meets the requirements of this clause (ii))” after “any one issuer” and after “or fewer issuers” and inserted at end “For purposes of this clause, a person holding stock in a regulated investment company, a real estate investment trust, or an investment company which meets the requirements of this clause shall, except as provided in regulations, be treated as holding its proportionate share of the assets held by such company or trust.”
 
-Subsec. (a)(3)(D)(iv), (v). Pub. L. 100–647, § 4012(b)(1)(A), amended subpar. (D), as in effect before the amendment made by section 904(a) of Pub. L. 99–514, by adding cls. (iv) and (v).
+Subsec. (a)(3)(D)(iv), (v). Pub. L. 100–647, § 4012(b)(1)(A), amended subpar. (D), as in effect before the amendment made by section 904(a) of Pub. L. 99–514, by adding cls. (iv) and (v).
 
-1986—Subsec. (a)(2)(A). Pub. L. 99–514, § 1804(h)(3), inserted “(other than for purposes of subparagraph (C))” after “subchapter”.
+1986—Subsec. (a)(2)(A). Pub. L. 99–514, § 1804(h)(3), inserted “(other than for purposes of subparagraph (C))” after “subchapter”.
 
-Subsec. (a)(2)(F)(ii). Pub. L. 99–514, § 1879(*l*)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “A corporation meets the requirements of this clause if not more than 25 percent of the value of its total assets is invested in the stock and securities of any one issuer, and not more than 50 percent of the value of its total assets is invested in the stock and securities of 5 or fewer issuers. For purposes of this clause, all members of a controlled group of corporations (within the meaning of section 1563(a)) shall be treated as one issuer.”
+Subsec. (a)(2)(F)(ii). Pub. L. 99–514, § 1879(*l*)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “A corporation meets the requirements of this clause if not more than 25 percent of the value of its total assets is invested in the stock and securities of any one issuer, and not more than 50 percent of the value of its total assets is invested in the stock and securities of 5 or fewer issuers. For purposes of this clause, all members of a controlled group of corporations (within the meaning of section 1563(a)) shall be treated as one issuer.”
 
-Subsec. (a)(2)(G)(i). Pub. L. 99–514, § 1804(g)(2), inserted “For purposes of the preceding sentence, if the acquired corporation is liquidated pursuant to the plan of reorganization, any distribution to its creditors in connection with such liquidation shall be treated as pursuant to the plan of reorganization.”
+Subsec. (a)(2)(G)(i). Pub. L. 99–514, § 1804(g)(2), inserted “For purposes of the preceding sentence, if the acquired corporation is liquidated pursuant to the plan of reorganization, any distribution to its creditors in connection with such liquidation shall be treated as pursuant to the plan of reorganization.”
 
-Subsec. (a)(2)(H). Pub. L. 99–514, § 1804(h)(2), added subpar. (H).
+Subsec. (a)(2)(H). Pub. L. 99–514, § 1804(h)(2), added subpar. (H).
 
-Subsec. (a)(3)(D). Pub. L. 99–514, § 904(a), (c)(1), as amended by Pub. L. 100–647, § 4012(a)(1), which (applicable to acquisitions after Dec. 31, 1989, in taxable years ending after such date) directed amendment of subpar. (D) to read “(D) Agency receivership proceedings which involve financial institutions.—For purposes of subparagraphs (A) and (B), in the case of a receivership, foreclosure, or similar proceeding before a Federal or State agency involving a financial institution referred to in section 581 or 591, the agency shall be treated as a court.”, was repealed by Pub. L. 101–73, § 1401(b)(1), (c)(4), eff. Oct. 22, 1986, and I.R.C. of 1986 applicable as if the amendments made by such section had not been enacted.
+Subsec. (a)(3)(D). Pub. L. 99–514, § 904(a), (c)(1), as amended by Pub. L. 100–647, § 4012(a)(1), which (applicable to acquisitions after Dec. 31, 1989, in taxable years ending after such date) directed amendment of subpar. (D) to read “(D) Agency receivership proceedings which involve financial institutions.—For purposes of subparagraphs (A) and (B), in the case of a receivership, foreclosure, or similar proceeding before a Federal or State agency involving a financial institution referred to in section 581 or 591, the agency shall be treated as a court.”, was repealed by Pub. L. 101–73, § 1401(b)(1), (c)(4), eff. Oct. 22, 1986, and I.R.C. of 1986 applicable as if the amendments made by such section had not been enacted.
 
-Subsec. (c). Pub. L. 99–514, § 1804(h)(1), in amending subsec. (c) generally, struck out par. (1) designation and struck out par. (2) defining term “control” as having meaning given to such term by section 304(c) in case of any transaction with respect to which requirements of subpars. (A) and (B) of section 354(b)(1) are met, for purposes of determining whether such transaction is described in subpar. (D) of subsec. (a)(1).
+Subsec. (c). Pub. L. 99–514, § 1804(h)(1), in amending subsec. (c) generally, struck out par. (1) designation and struck out par. (2) defining term “control” as having meaning given to such term by section 304(c) in case of any transaction with respect to which requirements of subpars. (A) and (B) of section 354(b)(1) are met, for purposes of determining whether such transaction is described in subpar. (D) of subsec. (a)(1).
 
-Pub. L. 99–514, § 621(e)(1), repealed amendment by Pub. L. 94–455, § 806(f)(1). See 1976 Amendment note below.
+Pub. L. 99–514, § 621(e)(1), repealed amendment by Pub. L. 94–455, § 806(f)(1). See 1976 Amendment note below.
 
-1984—Subsec. (a)(2)(F)(viii). Pub. L. 98–369, § 174(b)(5)(D), struck out cl. (viii) which provided that in applying paragraph (3) of section 267(b) in respect of any transaction to which this subparagraph applies, the reference to a personal holding company in such paragraph (3) be treated as including a reference to an investment company and the determination of whether a corporation is an investment company be made as of the time immediately before the transaction instead of with respect to the taxable year referred to in such paragraph (3).
+1984—Subsec. (a)(2)(F)(viii). Pub. L. 98–369, § 174(b)(5)(D), struck out cl. (viii) which provided that in applying paragraph (3) of section 267(b) in respect of any transaction to which this subparagraph applies, the reference to a personal holding company in such paragraph (3) be treated as including a reference to an investment company and the determination of whether a corporation is an investment company be made as of the time immediately before the transaction instead of with respect to the taxable year referred to in such paragraph (3).
 
-Subsec. (a)(2)(G). Pub. L. 98–369, § 63(a), added subpar. (G).
+Subsec. (a)(2)(G). Pub. L. 98–369, § 63(a), added subpar. (G).
 
-Subsec. (c). Pub. L. 98–369, § 64(a), designated existing provisions as par. (1) and added par. (2).
+Subsec. (c). Pub. L. 98–369, § 64(a), designated existing provisions as par. (1) and added par. (2).
 
-1983—Subsec. (a)(2)(C). Pub. L. 97–448, § 304(b), struck out “or stock” after “acquisition of the assets”.
+1983—Subsec. (a)(2)(C). Pub. L. 97–448, § 304(b), struck out “or stock” after “acquisition of the assets”.
 
-Subsec. (a)(3)(B)(i). Pub. L. 97–448, § 304(c), substituted “any party to the reorganization” for “such corporation”.
+Subsec. (a)(3)(B)(i). Pub. L. 97–448, § 304(c), substituted “any party to the reorganization” for “such corporation”.
 
 1982—Subsec. (a)(1)(F). Pub. L. 97–248 inserted “of one corporation” after “place of organization”.
 
 1981—Subsec. (a)(3)(D). Pub. L. 97–34 substituted “Agency proceedings” for “Agency receivership proceedings” in heading, incorporated existing provisions in text designated cl. (i), inserted in cl. (i)(II) definition for term “title 11 or similar case”, and added cls. (ii) and (iii).
 
-1980—Subsec. (a)(1)(G). Pub. L. 96–589, § 4(a), (h)(3), added subpar. (G).
+1980—Subsec. (a)(1)(G). Pub. L. 96–589, § 4(a), (h)(3), added subpar. (G).
 
-Subsec. (a)(2)(C). Pub. L. 96–589, § 4(c), inserted provision that a similar rule would apply to a transaction otherwise qualifying under par. (1)(G), where the requirements of subpars. (A) and (B) of section 354(b)(1) are met with respect to the acquisition of the assets or stock.
+Subsec. (a)(2)(C). Pub. L. 96–589, § 4(c), inserted provision that a similar rule would apply to a transaction otherwise qualifying under par. (1)(G), where the requirements of subpars. (A) and (B) of section 354(b)(1) are met with respect to the acquisition of the assets or stock.
 
-Subsec. (a)(2)(D). Pub. L. 96–589, § 4(d), among other changes, inserted reference to par. (1)(G).
+Subsec. (a)(2)(D). Pub. L. 96–589, § 4(d), among other changes, inserted reference to par. (1)(G).
 
-Subsec. (a)(3). Pub. L. 96–589, § 4(b), added par. (3).
+Subsec. (a)(3). Pub. L. 96–589, § 4(b), added par. (3).
 
-Subsec. (b). Pub. L. 96–589, § 4(h)(4), substituted “paragraph (1)(A), (1)(B), (1)(C), or (1)(G) of subsection (a) by reason of paragraph (2)(C)” and “paragraph (1)(A) or (1)(G) of subsection (a) by reason of paragraph (2)(D)” for “paragraph (1)(A), (1)(B), or (1)(C) of subsection (a) by reason of paragraph (2)(C)” and “paragraph (1)(A) of subsection (a) by reason of paragraph (2)(D)”, respectively.
+Subsec. (b). Pub. L. 96–589, § 4(h)(4), substituted “paragraph (1)(A), (1)(B), (1)(C), or (1)(G) of subsection (a) by reason of paragraph (2)(C)” and “paragraph (1)(A) or (1)(G) of subsection (a) by reason of paragraph (2)(D)” for “paragraph (1)(A), (1)(B), or (1)(C) of subsection (a) by reason of paragraph (2)(C)” and “paragraph (1)(A) of subsection (a) by reason of paragraph (2)(D)”, respectively.
 
 1978—Subsec. (a)(2)(F). Pub. L. 95–600 substituted in cl. (iii), first sentence, “50 percent or more” and “80 percent or more” for “more than 50 percent” and “more than 80 percent”; substituted in cl. (vi), first sentence, “does not meet the requirements” for “is not diversified within the meaning”; struck from cl. (vi), second sentence, “(hereafter referred to as the (‘actual acquisition’)” after “section 368(a)(1)(B)” and “and security holders” after “the shareholders” and substituted “stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange” for “stock in such investment company for a percentage of the value of the total outstanding stock of the other corporation equal to the percentage of the value of the total outstanding stock of such investment company which such shareholders own immediately after the actual acquisition”; and added cls. (vii) and (viii).
 
-1976—Subsec. (a)(2)(F). Pub. L. 94–455, § 2131(a), added subpar. (F).
+1976—Subsec. (a)(2)(F). Pub. L. 94–455, § 2131(a), added subpar. (F).
 
-Subsec. (c). Pub. L. 94–455, § 806(f)(1), which substituted “this part, and Part V,” for “and this part,” was repealed by Pub. L. 99–514, § 621(e)(1). See Effective Date of 1986 and 1976 Amendment notes below.
+Subsec. (c). Pub. L. 94–455, § 806(f)(1), which substituted “this part, and Part V,” for “and this part,” was repealed by Pub. L. 99–514, § 621(e)(1). See Effective Date of 1986 and 1976 Amendment notes below.
 
-1971—Subsec. (a)(2)(E). Pub. L. 91–693, § 1(a), added subpar. (E).
+1971—Subsec. (a)(2)(E). Pub. L. 91–693, § 1(a), added subpar. (E).
 
-Subsec. (b). Pub. L. 91–693, § 1(b), defined “party to a reorganization” in the case of a reorganization qualifying under subsection (a)(1)(A) by reason of subsection (a)(2)(E).
+Subsec. (b). Pub. L. 91–693, § 1(b), defined “party to a reorganization” in the case of a reorganization qualifying under subsection (a)(1)(A) by reason of subsection (a)(2)(E).
 
-1968—Subsec. (a)(2)(D). Pub. L. 90–621, § 1(a), added subpar. (D).
+1968—Subsec. (a)(2)(D). Pub. L. 90–621, § 1(a), added subpar. (D).
 
-Subsec. (b). Pub. L. 90–621, § 1(b), inserted reference to the inclusion of the controlling corporation in term “a party to a reorganization” in reorganizations qualifying under paragraph (1)(A) of subsection (a) by reason of paragraph (2)(D) of subsection (a).
+Subsec. (b). Pub. L. 90–621, § 1(b), inserted reference to the inclusion of the controlling corporation in term “a party to a reorganization” in reorganizations qualifying under paragraph (1)(A) of subsection (a) by reason of paragraph (2)(D) of subsection (a).
 
-1964—Subsec. (a). Pub. L. 88–272, § 218(a), (b)(1), inserted “(or in exchange solely for all or a part of the voting stock of a corporation which is in control of the acquiring corporation)” in par. (1)(B), and in par. (2)(C), inserted references to par. (1)(B), and substituted “assets or stock” for “assets” wherever appearing.
+1964—Subsec. (a). Pub. L. 88–272, § 218(a), (b)(1), inserted “(or in exchange solely for all or a part of the voting stock of a corporation which is in control of the acquiring corporation)” in par. (1)(B), and in par. (2)(C), inserted references to par. (1)(B), and substituted “assets or stock” for “assets” wherever appearing.
 
-Subsec. (b). Pub. L. 88–272, § 218(b)(2), inserted references to par. (1)(B) wherever appearing.
+Subsec. (b). Pub. L. 88–272, § 218(b)(2), inserted references to par. (1)(B) wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6009,41 +6009,41 @@ Amendment by Pub. L. 105–34 applicable, with certain exceptions, to transfers 
 
 Repeal of amendment by section 904(a) of Pub. L. 99–514 effective Oct. 22, 1986, and I.R.C. of 1986 applicable as if the amendment had not been enacted, see section 1401(b)(1) of Pub. L. 101–73, set out as a Repeal of Provisions Relating to Repeal of Special Reorganization Rules for Financial Institutions note set out under section 597 of this title, and section 1401(c)(4) of Pub. L. 101–73, set out as Effective Date of 1989 Amendment note under section 597 of this title.
 
-Pub. L. 101–73, title XIV, § 1401(c)(1), Aug. 9, 1989, 103 Stat. 550, provided that: “The amendment made by subsection (a)(1) [amending this section] shall apply to acquisitions on or after May 10, 1989.”
+Pub. L. 101–73, title XIV, § 1401(c)(1), Aug. 9, 1989, 103 Stat. 550, provided that: “The amendment made by subsection (a)(1) [amending this section] shall apply to acquisitions on or after May 10, 1989.”
 
 **Effective Date of 1988 Amendment**
 
 Amendment by section 1018(q)(5) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title IV, § 4012(b)(1)(C)(i), Nov. 10, 1988, 102 Stat. 3657, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to acquisitions after the date of the enactment of this Act [Nov. 10, 1988] and before January 1, 1990.”
+Pub. L. 100–647, title IV, § 4012(b)(1)(C)(i), Nov. 10, 1988, 102 Stat. 3657, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to acquisitions after the date of the enactment of this Act [Nov. 10, 1988] and before January 1, 1990.”
 
 **Effective Date of 1986 Amendment**
 
 Repeal of amendment by section 806(f)(1) of Pub. L. 94–455 effective Jan. 1, 1986, with certain exceptions, see section 621(f)(2) of Pub. L. 99–514, set out as a note under section 382 of this title.
 
-Pub. L. 99–514, title IX, § 904(c)(1), Oct. 22, 1986, 100 Stat. 2385, as amended by Pub. L. 100–647, title IV, § 4012(a)(1), Nov. 10, 1988, 102 Stat. 3656, which provided that the amendments made by subsection (a), amending this section, were to apply to acquisitions after Dec. 31, 1989, in taxable years ending after such date, was repealed by Pub. L. 101–73, title XIV, § 1401(b)(1), Aug. 9, 1989, 103 Stat. 549.
+Pub. L. 99–514, title IX, § 904(c)(1), Oct. 22, 1986, 100 Stat. 2385, as amended by Pub. L. 100–647, title IV, § 4012(a)(1), Nov. 10, 1988, 102 Stat. 3656, which provided that the amendments made by subsection (a), amending this section, were to apply to acquisitions after Dec. 31, 1989, in taxable years ending after such date, was repealed by Pub. L. 101–73, title XIV, § 1401(b)(1), Aug. 9, 1989, 103 Stat. 549.
 
 Amendment by section 1804(g)(2) of Pub. L. 99–514 applicable to plans of reorganizations adopted after Oct. 22, 1986, see section 1804(g)(4) of Pub. L. 99–514, set out as a note under section 361 of this title.
 
 Amendment by section 1804(h) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Pub. L. 99–514, title XVIII, § 1879(*l*)(2), Oct. 22, 1986, 100 Stat. 2910, provided that: “The amendment made by this subsection [amending this section] shall apply as if included in section 2131 of the Tax Reform Act of 1976 [Pub. L. 94–455].”
+Pub. L. 99–514, title XVIII, § 1879(*l*)(2), Oct. 22, 1986, 100 Stat. 2910, provided that: “The amendment made by this subsection [amending this section] shall apply as if included in section 2131 of the Tax Reform Act of 1976 [Pub. L. 94–455].”
 
 **Effective Date of 1984 Amendment**
 
 Amendment by section 63(a) of Pub. L. 98–369 applicable to transactions pursuant to plans adopted after July 18, 1984, see section 63(c) of Pub. L. 98–369, set out as a note under section 312 of this title.
 
-Pub. L. 98–369, div. A, title I, § 64(b), July 18, 1984, 98 Stat. 584, provided that: “The amendments made by this section [amending this section] shall apply to transactions pursuant to plans adopted after the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title I, § 64(b), July 18, 1984, 98 Stat. 584, provided that: “The amendments made by this section [amending this section] shall apply to transactions pursuant to plans adopted after the date of the enactment of this Act [July 18, 1984].”
 
 Amendment by section 174(b)(5)(D) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1983, in taxable years ending after that date, see section 174(c)(2)(A) of Pub. L. 98–369, set out as a note under section 267 of this title.
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 97–448, title III, § 311(b)(2), Jan. 12, 1983, 96 Stat. 2411, provided that: “The amendment made by subsection (b) of section 304 [amending this section] shall take effect as if included in the amendments made by section 4 of such Act [Pub. L. 96–589, the Bankruptcy Tax Act of 1980, see 1980 Amendment notes above].”
+Pub. L. 97–448, title III, § 311(b)(2), Jan. 12, 1983, 96 Stat. 2411, provided that: “The amendment made by subsection (b) of section 304 [amending this section] shall take effect as if included in the amendments made by section 4 of such Act [Pub. L. 96–589, the Bankruptcy Tax Act of 1980, see 1980 Amendment notes above].”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title II, § 225(b), Sept. 3, 1982, 96 Stat. 490, provided that:
+Pub. L. 97–248, title II, § 225(b), Sept. 3, 1982, 96 Stat. 490, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendment made by subsection (a) [amending this section] shall apply with respect to transactions occurring after August 31, 1982.
 
@@ -6051,7 +6051,7 @@ Pub. L. 97–248, title II, § 225(b), Sept. 3, 1982, 96 Stat. 490, provided t
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–34, title II, § 246(a), Aug. 13, 1981, 95 Stat. 256, provided that: “The amendment made by sections 241 and 242 [amending this section and section 382 of this title] shall apply to any transfer made on or after January 1, 1981.”
+Pub. L. 97–34, title II, § 246(a), Aug. 13, 1981, 95 Stat. 256, provided that: “The amendment made by sections 241 and 242 [amending this section and section 382 of this title] shall apply to any transfer made on or after January 1, 1981.”
 
 **Effective Date of 1980 Amendment**
 
@@ -6059,9 +6059,9 @@ Amendment by Pub. L. 96–589 applicable to bankruptcy cases or similar judicial
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–600, title VII, § 701(j)(2), Nov. 6, 1978, 92 Stat. 2906, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–600, title VII, § 701(j)(2), Nov. 6, 1978, 92 Stat. 2906, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-> **“(A)** Except as provided in subparagraphs (B) and (C), the amendments made by paragraph (1) [amending this section] shall apply as if included in section 368(a)(2)(F) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] as added by section 2131(a) of the Tax Reform Act of 1976 [Pub. L. 94–455, title XX, § 2131(a), Oct. 4, 1976, 90 Stat. 1922].
+> **“(A)** Except as provided in subparagraphs (B) and (C), the amendments made by paragraph (1) [amending this section] shall apply as if included in section 368(a)(2)(F) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] as added by section 2131(a) of the Tax Reform Act of 1976 [Pub. L. 94–455, title XX, § 2131(a), Oct. 4, 1976, 90 Stat. 1922].
 
 > **“(B)** Clause (viii) of section 368(a)(2)(F) of the Internal Revenue Code of 1986 (as added by paragraph (1)) shall apply only with respect to losses sustained after September 26, 1977.
 
@@ -6069,7 +6069,7 @@ Pub. L. 95–600, title VII, § 701(j)(2), Nov. 6, 1978, 92 Stat. 2906, as ame
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XXI, § 2131(f)(1), (2), Oct. 4, 1976, 90 Stat. 1924, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title XXI, § 2131(f)(1), (2), Oct. 4, 1976, 90 Stat. 1924, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendment made by subsection (a) [amending this section] shall apply to transfers made after February 17, 1976, in taxable years ending after such date.
 
@@ -6079,29 +6079,29 @@ For effective date of amendment by section 806(f)(1) of Pub. L. 94–455, see se
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 91–693, § 1(c), Jan. 12, 1971, 84 Stat. 2077, provided that: “The amendments made by this section [amending this section] shall apply to statutory mergers occurring after December 31, 1970.”
+Pub. L. 91–693, § 1(c), Jan. 12, 1971, 84 Stat. 2077, provided that: “The amendments made by this section [amending this section] shall apply to statutory mergers occurring after December 31, 1970.”
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–621, § 1(c), Oct. 22, 1968, 82 Stat. 1311, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply to statutory mergers occurring after the date of the enactment of this Act [Oct. 22, 1968].”
+Pub. L. 90–621, § 1(c), Oct. 22, 1968, 82 Stat. 1311, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply to statutory mergers occurring after the date of the enactment of this Act [Oct. 22, 1968].”
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–272, title II, § 218(c), Feb. 26, 1964, 78 Stat. 57, provided that: “The amendments made by this section [amending this section] shall apply with respect to transactions after December 31, 1963, in taxable years ending after such date.”
+Pub. L. 88–272, title II, § 218(c), Feb. 26, 1964, 78 Stat. 57, provided that: “The amendments made by this section [amending this section] shall apply with respect to transactions after December 31, 1963, in taxable years ending after such date.”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 ## [PART IV—REPEALED]
 
-### [§§ 370 to 372. Repealed. Pub. L. 101–508, title XI, § 11801(a)(19), Nov. 5, 1990, 104 Stat. 1388–521]
+### [§§ 370 to 372. Repealed. Pub. L. 101–508, title XI, § 11801(a)(19), Nov. 5, 1990, 104 Stat. 1388–521]
 
-Section 370, added Pub. L. 96–589, § 4(f), Dec. 24, 1980, 94 Stat. 3404, related to termination of part.
+Section 370, added Pub. L. 96–589, § 4(f), Dec. 24, 1980, 94 Stat. 3404, related to termination of part.
 
-Section 371, acts Aug. 16, 1954, ch. 736, 68A Stat. 121; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1901(a)(50), 90 Stat. 1773, related to reorganization in certain receivership and bankruptcy proceedings.
+Section 371, acts Aug. 16, 1954, ch. 736, 68A Stat. 121; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1901(a)(50), 90 Stat. 1773, related to reorganization in certain receivership and bankruptcy proceedings.
 
-Section 372, acts Aug. 16, 1954, ch. 736, 68A Stat. 122; Sept. 2, 1958, Pub. L. 85–866, title I, § 95(a), 72 Stat. 1671; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§ 1901(a)(51), (b)(14)(A), 1906(b)(13)(A), 90 Stat. 1773, 1795, 1834, related to basis in connection with certain receivership and bankruptcy proceedings.
+Section 372, acts Aug. 16, 1954, ch. 736, 68A Stat. 122; Sept. 2, 1958, Pub. L. 85–866, title I, § 95(a), 72 Stat. 1671; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§ 1901(a)(51), (b)(14)(A), 1906(b)(13)(A), 90 Stat. 1773, 1795, 1834, related to basis in connection with certain receivership and bankruptcy proceedings.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6109,9 +6109,9 @@ Section 372, acts Aug. 16, 1954, ch. 736, 68A Stat. 122; Sept. 2, 1958, Pub. L. 
 
 For provisions that nothing in repeal by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-### [§ 373. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(52), Oct. 4, 1976, 90 Stat. 1773]
+### [§ 373. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(52), Oct. 4, 1976, 90 Stat. 1773]
 
-Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 123; June 29, 1956, ch. 463, § 3, 70 Stat. 403, related to loss not recognized in certain railroad reorganizations.
+Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 123; June 29, 1956, ch. 463, § 3, 70 Stat. 403, related to loss not recognized in certain railroad reorganizations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6119,9 +6119,9 @@ Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 123; June 29, 1956, ch. 463, §�
 
 Repeal effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 2 of this title.
 
-### [§ 374. Repealed. Pub. L. 101–508, title XI, § 11801(a)(19), Nov. 5, 1990, 104 Stat. 1388–521]
+### [§ 374. Repealed. Pub. L. 101–508, title XI, § 11801(a)(19), Nov. 5, 1990, 104 Stat. 1388–521]
 
-Section, added June 29, 1956, ch. 463, § 1, 70 Stat. 402; amended Mar. 31, 1976, Pub. L. 94–253, § 1(a), (d), 90 Stat. 295, 296; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1901(a)(53), (b)(10)(A), (14)(B), (C), 90 Stat. 1773, 1795, 1796; Nov. 6, 1978, Pub. L. 95–600, title III, § 369(a), 92 Stat. 2857; Apr. 1, 1980, Pub. L. 96–222, title I, § 103(a)(14), 94 Stat. 214; Oct. 22, 1986, Pub. L. 99–514, title XVIII, § 1899A(9), 100 Stat. 2958, related to nonrecognition of gain or loss in certain railroad reorganizations.
+Section, added June 29, 1956, ch. 463, § 1, 70 Stat. 402; amended Mar. 31, 1976, Pub. L. 94–253, § 1(a), (d), 90 Stat. 295, 296; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1901(a)(53), (b)(10)(A), (14)(B), (C), 90 Stat. 1773, 1795, 1796; Nov. 6, 1978, Pub. L. 95–600, title III, § 369(a), 92 Stat. 2857; Apr. 1, 1980, Pub. L. 96–222, title I, § 103(a)(14), 94 Stat. 214; Oct. 22, 1986, Pub. L. 99–514, title XVIII, § 1899A(9), 100 Stat. 2958, related to nonrecognition of gain or loss in certain railroad reorganizations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6135,19 +6135,19 @@ For provisions that nothing in repeal by Pub. L. 101–508 be construed to affec
 
 **Amendments**
 
-1987—Pub. L. 100–203, title X, § 10226(b), Dec. 22, 1987, 101 Stat. 1330–415, added item 384.
+1987—Pub. L. 100–203, title X, § 10226(b), Dec. 22, 1987, 101 Stat. 1330–415, added item 384.
 
-1986—Pub. L. 99–514, title VI, § 621(c)(2), Oct. 22, 1986, 100 Stat. 2266, substituted “Limitation on net operating loss carryforwards and certain built-in losses following ownership change” for “Special limitations on net operating loss carryovers” in item 382 and “Special limitations on certain excess credits, etc.” for “Special limitations on unused business credits, research credits, foreign taxes, and capital losses” in item 383.
+1986—Pub. L. 99–514, title VI, § 621(c)(2), Oct. 22, 1986, 100 Stat. 2266, substituted “Limitation on net operating loss carryforwards and certain built-in losses following ownership change” for “Special limitations on net operating loss carryovers” in item 382 and “Special limitations on certain excess credits, etc.” for “Special limitations on unused business credits, research credits, foreign taxes, and capital losses” in item 383.
 
-1984—Pub. L. 98–369, div. A, title IV, § 474(r)(12)(C), July 18, 1984, 98 Stat. 842, substituted “unused business credits, research credits, foreign taxes, and capital losses” for “carryovers of unused investment credits, work incentive program credits, new employee credits, alcohol fuel credits, research credits, employee stock ownership credits, foreign taxes, and capital losses” in item 383.
+1984—Pub. L. 98–369, div. A, title IV, § 474(r)(12)(C), July 18, 1984, 98 Stat. 842, substituted “unused business credits, research credits, foreign taxes, and capital losses” for “carryovers of unused investment credits, work incentive program credits, new employee credits, alcohol fuel credits, research credits, employee stock ownership credits, foreign taxes, and capital losses” in item 383.
 
-1981—Pub. L. 97–34, title II, § 221(b)(1)(E), title III, § 331(d)(1)(E), Aug. 13, 1981, 95 Stat. 246, 295, inserted references to alcohol fuel credits, research credits, and employee stock ownership credits in item 383. For applicability of amendment by section 221(b)(1)(E) to amounts paid or incurred after June 30, 1981, and before Jan. 1, 1986, see section 221(d) of Pub. L. 97–34, set out as an Effective Date note under section 30 of this title.
+1981—Pub. L. 97–34, title II, § 221(b)(1)(E), title III, § 331(d)(1)(E), Aug. 13, 1981, 95 Stat. 246, 295, inserted references to alcohol fuel credits, research credits, and employee stock ownership credits in item 383. For applicability of amendment by section 221(b)(1)(E) to amounts paid or incurred after June 30, 1981, and before Jan. 1, 1986, see section 221(d) of Pub. L. 97–34, set out as an Effective Date note under section 30 of this title.
 
-1977—Pub. L. 95–30, title II, § 202(d)(3)(D), May 23, 1977, 91 Stat. 148, inserted “new employee credits,” after “work incentive program credits,” in item 383.
+1977—Pub. L. 95–30, title II, § 202(d)(3)(D), May 23, 1977, 91 Stat. 148, inserted “new employee credits,” after “work incentive program credits,” in item 383.
 
-1971—Pub. L. 92–178, title III, § 302(b), Dec. 10, 1971, 85 Stat. 521, added item 383.
+1971—Pub. L. 92–178, title III, § 302(b), Dec. 10, 1971, 85 Stat. 521, added item 383.
 
-### § 381. Carryovers in certain corporate acquisitions
+### § 381. Carryovers in certain corporate acquisitions
 
 **(a) General rule** In the case of the acquisition of assets of a corporation by another corporation—
 
@@ -6185,7 +6185,7 @@ the acquiring corporation shall succeed to and take into account, as of the clos
 
 **(v)** the net operating loss deduction for the pre-acquisition part year shall be determined as provided in section 172(b)(2)(B),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 but without regard to a net operating loss year of the distributor or transferor corporation; and
 
@@ -6217,7 +6217,7 @@ In any case in which inventories are received by the acquiring corporation, such
 
 The acquiring corporation shall be treated as the distributor or transferor corporation for purposes of computing the depreciation allowance under sections 167 and 168 on property acquired in a distribution or transfer with respect to so much of the basis in the hands of the acquiring corporation as does not exceed the adjusted basis in the hands of the distributor or transferor corporation.
 
-**[(7) Repealed. June 15, 1955, ch. 143, § 2(1), 69 Stat. 134]**
+**[(7) Repealed. June 15, 1955, ch. 143, § 2(1), 69 Stat. 134]**
 
 **(8) Installment method**
 
@@ -6247,7 +6247,7 @@ The acquiring corporation shall be treated as the distributor or transferor corp
 
 The dividend carryover (described in section 564) to taxable years ending after the date of distribution or transfer.
 
-**[(15) Repealed. Pub. L. 101–508, title XI, § 11801(c)(10)(A), Nov. 5, 1990, 104 Stat. 1388–526]**
+**[(15) Repealed. Pub. L. 101–508, title XI, § 11801(c)(10)(A), Nov. 5, 1990, 104 Stat. 1388–526]**
 
 **(16) Certain obligations of distributor or transferor corporation** If the acquiring corporation—
 
@@ -6273,7 +6273,7 @@ Contributions made in the taxable year ending on the date of distribution or tra
 
 The carryover of disallowed business interest described in section 163(j)(2) to taxable years ending after the date of distribution or transfer.
 
-**[(21) Repealed. Pub. L. 94–455, title XIX, § 1901(b)(16), Oct. 4, 1976, 90 Stat. 1796]**
+**[(21) Repealed. Pub. L. 94–455, title XIX, § 1901(b)(16), Oct. 4, 1976, 90 Stat. 1796]**
 
 **(22) Successor insurance company**
 
@@ -6295,31 +6295,31 @@ The acquiring corporation shall take into account (to the extent proper to carry
 
 The acquiring corporation shall take into account (to the extent proper to carry out the purposes of this section and subchapter U, and under such regulations as may be prescribed by the Secretary) the items required to be taken into account for purposes of subchapter U in respect of the distributor or transferor corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 124; June 15, 1955, ch. 143, § 2(1), 69 Stat. 134; Jan. 28, 1956, ch. 15, § 1, 70 Stat. 7; Pub. L. 85–866, title I, § 29(c), Sept. 2, 1958, 72 Stat. 1628; Pub. L. 86–69, § 3(c), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, § 2(d), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§ 209(d)(2), 225(i)(3), Feb. 26, 1964, 78 Stat. 46, 92; Pub. L. 90–240, § 5(d), Jan. 2, 1968, 81 Stat. 778; Pub. L. 91–172, title V, §§ 504(c)(2), 512(c), 521(f), Dec. 30, 1969, 83 Stat. 633, 639, 654; Pub. L. 92–178, title VI, § 601(c)(3), Dec. 10, 1971, 85 Stat. 557; Pub. L. 94–455, title XVI, § 1601(e), title XIX, §§ 1901(a)(54), (b)(16), (17), (21)(B), (33)(N), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1773, 1796, 1797, 1802, 1834; Pub. L. 95–30, title II, § 202(d)(3)(A), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title III, § 362(d)(2), Nov. 6, 1978, 92 Stat. 2851; Pub. L. 96–223, title II, § 232(b)(2)(B), Apr. 2, 1980, 94 Stat. 276; Pub. L. 96–471, § 2(b)(2), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 96–589, § 4(g), Dec. 24, 1980, 94 Stat. 3404; Pub. L. 97–34, title II, §§ 208, 221(b)(1)(B), title III, § 331(d)(1)(B), Aug. 13, 1981, 95 Stat. 226, 246, 294; Pub. L. 97–248, title II, § 224(c)(7), Sept. 3, 1982, 96 Stat. 489; Pub. L. 97–448, title I, §§ 102(h)(3), 103(g)(2)(F), Jan. 12, 1983, 96 Stat. 2372, 2379; Pub. L. 98–369, div. A, title II, § 211(b)(4), title IV, § 474(r)(11), July 18, 1984, 98 Stat. 754, 841; Pub. L. 99–514, title II, § 231(d)(3)(F), title IV, § 411(b)(2)(C)(iii), title VII, § 701(e)(1), title XVIII, § 1812(a)(3), Oct. 22, 1986, 100 Stat. 2179, 2227, 2342, 2833; Pub. L. 100–203, title X, § 10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, § 1002(a)(13), Nov. 10, 1988, 102 Stat. 3355; Pub. L. 101–239, title VII, § 7841(d)(10), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §§ 11801(c)(10)(A), 11812(b)(6), Nov. 5, 1990, 104 Stat. 1388–526, 1388–535; Pub. L. 103–66, title XIII, § 13302(e), Aug. 10, 1993, 107 Stat. 556; Pub. L. 104–188, title I, § 1704(t)(26), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 115–97, title I, §§ 13301(b)(1), 13511(b)(3), Dec. 22, 2017, 131 Stat. 2121, 2142; Pub. L. 115–141, div. U, title IV, § 401(b)(18), Mar. 23, 2018, 132 Stat. 1202.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 124; June 15, 1955, ch. 143, § 2(1), 69 Stat. 134; Jan. 28, 1956, ch. 15, § 1, 70 Stat. 7; Pub. L. 85–866, title I, § 29(c), Sept. 2, 1958, 72 Stat. 1628; Pub. L. 86–69, § 3(c), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, § 2(d), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§ 209(d)(2), 225(i)(3), Feb. 26, 1964, 78 Stat. 46, 92; Pub. L. 90–240, § 5(d), Jan. 2, 1968, 81 Stat. 778; Pub. L. 91–172, title V, §§ 504(c)(2), 512(c), 521(f), Dec. 30, 1969, 83 Stat. 633, 639, 654; Pub. L. 92–178, title VI, § 601(c)(3), Dec. 10, 1971, 85 Stat. 557; Pub. L. 94–455, title XVI, § 1601(e), title XIX, §§ 1901(a)(54), (b)(16), (17), (21)(B), (33)(N), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1773, 1796, 1797, 1802, 1834; Pub. L. 95–30, title II, § 202(d)(3)(A), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title III, § 362(d)(2), Nov. 6, 1978, 92 Stat. 2851; Pub. L. 96–223, title II, § 232(b)(2)(B), Apr. 2, 1980, 94 Stat. 276; Pub. L. 96–471, § 2(b)(2), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 96–589, § 4(g), Dec. 24, 1980, 94 Stat. 3404; Pub. L. 97–34, title II, §§ 208, 221(b)(1)(B), title III, § 331(d)(1)(B), Aug. 13, 1981, 95 Stat. 226, 246, 294; Pub. L. 97–248, title II, § 224(c)(7), Sept. 3, 1982, 96 Stat. 489; Pub. L. 97–448, title I, §§ 102(h)(3), 103(g)(2)(F), Jan. 12, 1983, 96 Stat. 2372, 2379; Pub. L. 98–369, div. A, title II, § 211(b)(4), title IV, § 474(r)(11), July 18, 1984, 98 Stat. 754, 841; Pub. L. 99–514, title II, § 231(d)(3)(F), title IV, § 411(b)(2)(C)(iii), title VII, § 701(e)(1), title XVIII, § 1812(a)(3), Oct. 22, 1986, 100 Stat. 2179, 2227, 2342, 2833; Pub. L. 100–203, title X, § 10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, § 1002(a)(13), Nov. 10, 1988, 102 Stat. 3355; Pub. L. 101–239, title VII, § 7841(d)(10), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §§ 11801(c)(10)(A), 11812(b)(6), Nov. 5, 1990, 104 Stat. 1388–526, 1388–535; Pub. L. 103–66, title XIII, § 13302(e), Aug. 10, 1993, 107 Stat. 556; Pub. L. 104–188, title I, § 1704(t)(26), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 115–97, title I, §§ 13301(b)(1), 13511(b)(3), Dec. 22, 2017, 131 Stat. 2121, 2142; Pub. L. 115–141, div. U, title IV, § 401(b)(18), Mar. 23, 2018, 132 Stat. 1202.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 172(b)(2)(B), referred to in subsec. (c)(1)(C)(v), (vi), was amended by Pub. L. 115–97, title I, § 13302(a)(2), Dec. 22, 2017, 131 Stat. 2121, and, as so amended, no longer relates to net operating loss deductions. Provisions similar to those contained in former subpar. (B) of section 172(b)(2) of this title are now contained in subpar. (A) of section 172(b)(2) of this title.
+Section 172(b)(2)(B), referred to in subsec. (c)(1)(C)(v), (vi), was amended by Pub. L. 115–97, title I, § 13302(a)(2), Dec. 22, 2017, 131 Stat. 2121, and, as so amended, no longer relates to net operating loss deductions. Provisions similar to those contained in former subpar. (B) of section 172(b)(2) of this title are now contained in subpar. (A) of section 172(b)(2) of this title.
 
 **Amendments**
 
 2018—Subsec. (c)(16). Pub. L. 115–141, in concluding provisions, struck out “A corporation which would have been an acquiring corporation under this section if the date of distribution or transfer had occurred on or after the effective date of the provisions of this subchapter applicable to a liquidation or reorganization, as the case may be, shall be entitled, even though the date of distribution or transfer occurred before such effective date, to apply this paragraph with respect to amounts paid or accrued in taxable years beginning after December 31, 1953, on account of such obligations of the distributor or transferor corporation.” before “This paragraph”.
 
-2017—Subsec. (c)(20). Pub. L. 115–97, § 13301(b)(1), added par. (20).
+2017—Subsec. (c)(20). Pub. L. 115–97, § 13301(b)(1), added par. (20).
 
-Subsec. (d). Pub. L. 115–97, § 13511(b)(3), struck out subsec. (d). Text read as follows: “For application of this part to operations loss carrybacks and carryovers of life insurance companies, see section 810.”
+Subsec. (d). Pub. L. 115–97, § 13511(b)(3), struck out subsec. (d). Text read as follows: “For application of this part to operations loss carrybacks and carryovers of life insurance companies, see section 810.”
 
 1996—Subsec. (c)(26), (27). Pub. L. 104–188 amended directory language of Pub. L. 101–239. See 1989 Amendment note below.
 
 1993—Subsec. (c)(26). Pub. L. 103–66 added par. (26).
 
-1990—Subsec. (c)(6). Pub. L. 101–508, § 11812(b)(6)(A), substituted “sections 167 and 168” for “subsections (b), (j), and (k) of section 167”.
+1990—Subsec. (c)(6). Pub. L. 101–508, § 11812(b)(6)(A), substituted “sections 167 and 168” for “subsections (b), (j), and (k) of section 167”.
 
-Subsec. (c)(15). Pub. L. 101–508, § 11801(c)(10)(A), struck out par. (15) “Indebtedness of certain personal holding companies” which read as follows: “The acquiring corporation shall be considered to be the distributor or transferor corporation for the purpose of determining the applicability of subsection (c) of section 545, relating to deduction with respect to payment of certain indebtedness.”
+Subsec. (c)(15). Pub. L. 101–508, § 11801(c)(10)(A), struck out par. (15) “Indebtedness of certain personal holding companies” which read as follows: “The acquiring corporation shall be considered to be the distributor or transferor corporation for the purpose of determining the applicability of subsection (c) of section 545, relating to deduction with respect to payment of certain indebtedness.”
 
-Subsec. (c)(24) to (26). Pub. L. 101–508, § 11812(b)(6)(B), redesignated pars. (25) and (26) as (24) and (25), respectively, and struck out former par. (24) “Method of computing depreciation deduction” which read as follows: “The acquiring corporation shall be treated as the distributor or transferor corporation for purposes of computing the deduction allowable under section 168(a) on property acquired in a distribution or transfer with respect to so much of the basis in the hands of the acquiring corporation as does not exceed the adjusted basis in the hands of the distributor or transferor corporation.”
+Subsec. (c)(24) to (26). Pub. L. 101–508, § 11812(b)(6)(B), redesignated pars. (25) and (26) as (24) and (25), respectively, and struck out former par. (24) “Method of computing depreciation deduction” which read as follows: “The acquiring corporation shall be treated as the distributor or transferor corporation for purposes of computing the deduction allowable under section 168(a) on property acquired in a distribution or transfer with respect to so much of the basis in the hands of the acquiring corporation as does not exceed the adjusted basis in the hands of the distributor or transferor corporation.”
 
 1989—Subsec. (c)(26), (27). Pub. L. 101–239, as amended by Pub. L. 104–188, redesignated par. (27) as (26).
 
@@ -6327,45 +6327,45 @@ Subsec. (c)(24) to (26). Pub. L. 101–508, § 11812(b)(6)(B), redesignated pa
 
 1987—Subsec. (c)(8). Pub. L. 100–203 struck out “or 453A” after “section 453” in two places.
 
-1986—Subsec. (c)(10). Pub. L. 99–514, § 411(b)(2)(C)(iii), struck out last sentence which read: “For the purpose of applying the limitation provided in section 617(h), if, for any taxable year, the distributor or transferor corporation was allowed a deduction under section 617(a), the acquiring corporation shall be deemed to have been allowed such deduction.”
+1986—Subsec. (c)(10). Pub. L. 99–514, § 411(b)(2)(C)(iii), struck out last sentence which read: “For the purpose of applying the limitation provided in section 617(h), if, for any taxable year, the distributor or transferor corporation was allowed a deduction under section 617(a), the acquiring corporation shall be deemed to have been allowed such deduction.”
 
-Subsec. (c)(12). Pub. L. 99–514, § 1812(a)(3), amended par. (12) generally. Prior to amendment, par. (12), recovery of bad debts, prior taxes, or delinquency amounts, read as follows: “If the acquiring corporation is entitled to the recovery of bad debts, prior taxes, or delinquency amounts previously deducted or credited by the distributor or transferor corporation, the acquiring corporation shall include in its income such amounts as would have been includible by the distributor or transferor corporation in accordance with section 111 (relating to the recovery of bad debts, prior taxes, and delinquency amounts).”
+Subsec. (c)(12). Pub. L. 99–514, § 1812(a)(3), amended par. (12) generally. Prior to amendment, par. (12), recovery of bad debts, prior taxes, or delinquency amounts, read as follows: “If the acquiring corporation is entitled to the recovery of bad debts, prior taxes, or delinquency amounts previously deducted or credited by the distributor or transferor corporation, the acquiring corporation shall include in its income such amounts as would have been includible by the distributor or transferor corporation in accordance with section 111 (relating to the recovery of bad debts, prior taxes, and delinquency amounts).”
 
-Subsec. (c)(25), (26). Pub. L. 99–514, § 231(d)(3)(F), redesignated par. (26) as (25). Former par. (25), relating to credit under section 30, was struck out.
+Subsec. (c)(25), (26). Pub. L. 99–514, § 231(d)(3)(F), redesignated par. (26) as (25). Former par. (25), relating to credit under section 30, was struck out.
 
-Subsec. (c)(27). Pub. L. 99–514, § 701(e)(1), added par. (27).
+Subsec. (c)(27). Pub. L. 99–514, § 701(e)(1), added par. (27).
 
-1984—Subsec. (c)(23). Pub. L. 98–369, § 474(r)(11)(B), redesignated par. (25) as (23). Former par. (23), relating to credit under section 38 for investment in certain depreciable property, was struck out.
+1984—Subsec. (c)(23). Pub. L. 98–369, § 474(r)(11)(B), redesignated par. (25) as (23). Former par. (23), relating to credit under section 38 for investment in certain depreciable property, was struck out.
 
-Subsec. (c)(24). Pub. L. 98–369, § 474(r)(11)(B), redesignated par. (28) as (24). Former par. (24), relating to credit under section 40 for work incentive program expenses, was struck out.
+Subsec. (c)(24). Pub. L. 98–369, § 474(r)(11)(B), redesignated par. (28) as (24). Former par. (24), relating to credit under section 40 for work incentive program expenses, was struck out.
 
-Subsec. (c)(25). Pub. L. 98–369, § 474(r)(11)(B), (C), redesignated par. (29) as (25), and substituted “30” for “44F” wherever appearing in heading and text. Former par. (25) redesignated (23).
+Subsec. (c)(25). Pub. L. 98–369, § 474(r)(11)(B), (C), redesignated par. (29) as (25), and substituted “30” for “44F” wherever appearing in heading and text. Former par. (25) redesignated (23).
 
-Subsec. (c)(26). Pub. L. 98–369, § 474(r)(11)(D), added par. (26). Former par. (26), relating to credit under section 44B for employment of certain new employees, was struck out.
+Subsec. (c)(26). Pub. L. 98–369, § 474(r)(11)(D), added par. (26). Former par. (26), relating to credit under section 44B for employment of certain new employees, was struck out.
 
-Subsec. (c)(27). Pub. L. 98–369, § 474(r)(11)(A), struck out par. (27) relating to credit under section 44E for alcohol used as fuel.
+Subsec. (c)(27). Pub. L. 98–369, § 474(r)(11)(A), struck out par. (27) relating to credit under section 44E for alcohol used as fuel.
 
-Subsec. (c)(28), (29). Pub. L. 98–369, § 474(r)(11)(B), redesignated pars. (28) and (29) as (24) and (25), respectively.
+Subsec. (c)(28), (29). Pub. L. 98–369, § 474(r)(11)(B), redesignated pars. (28) and (29) as (24) and (25), respectively.
 
-Subsec. (c)(30). Pub. L. 98–369, § 474(r)(11)(A), struck out par. (30) relating to credit under section 44G.
+Subsec. (c)(30). Pub. L. 98–369, § 474(r)(11)(A), struck out par. (30) relating to credit under section 44G.
 
-Subsec. (d). Pub. L. 98–369, § 211(b)(4), substituted “section 810” for “section 812(f)”.
+Subsec. (d). Pub. L. 98–369, § 211(b)(4), substituted “section 810” for “section 812(f)”.
 
-1983—Subsec. (c)(28), (29). Pub. L. 97–448, § 102(h)(3), redesignated par. (28), relating to credit under section 44F, as (29). Former par. (29) redesignated (30).
+1983—Subsec. (c)(28), (29). Pub. L. 97–448, § 102(h)(3), redesignated par. (28), relating to credit under section 44F, as (29). Former par. (29) redesignated (30).
 
-Subsec. (c)(30). Pub. L. 97–448, § 103(g)(2)(F), redesignated former par. (29), relating to credit under section 44G, as (30).
+Subsec. (c)(30). Pub. L. 97–448, § 103(g)(2)(F), redesignated former par. (29), relating to credit under section 44G, as (30).
 
-1982—Subsec. (a)(1). Pub. L. 97–248 struck out “, except in a case in which the basis of the assets distributed is determined under section 334(b)(2)” after “applies”.
+1982—Subsec. (a)(1). Pub. L. 97–248 struck out “, except in a case in which the basis of the assets distributed is determined under section 334(b)(2)” after “applies”.
 
-1981—Subsec. (c)(28). Pub. L. 97–34, § 208, added par. (28) relating to recovery allowance for recovery property.
+1981—Subsec. (c)(28). Pub. L. 97–34, § 208, added par. (28) relating to recovery allowance for recovery property.
 
-Pub. L. 97–34, § 221(b)(1)(B), added par. (28) relating to credit under section 44F.
+Pub. L. 97–34, § 221(b)(1)(B), added par. (28) relating to credit under section 44F.
 
-Subsec. (c)(29). Pub. L. 97–34, § 331(d)(1)(B), added par. (29).
+Subsec. (c)(29). Pub. L. 97–34, § 331(d)(1)(B), added par. (29).
 
-1980—Subsec. (a). Pub. L. 96–589, § 4(g)(2), inserted provisions that a reorganization shall be treated as meeting the requirements of subparagraph (D) or (G) of section 368(a)(1) only if the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met.
+1980—Subsec. (a). Pub. L. 96–589, § 4(g)(2), inserted provisions that a reorganization shall be treated as meeting the requirements of subparagraph (D) or (G) of section 368(a)(1) only if the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met.
 
-Subsec. (a)(2). Pub. L. 96–589, § 4(g)(1), substituted “subparagraph (A), (C), (D), (F), or (G) of section 368(a)(1)” for “subparagraph (A), (C), (D) (but only if the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met), or (F) of section 368(a)(1)”.
+Subsec. (a)(2). Pub. L. 96–589, § 4(g)(1), substituted “subparagraph (A), (C), (D), (F), or (G) of section 368(a)(1)” for “subparagraph (A), (C), (D) (but only if the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met), or (F) of section 368(a)(1)”.
 
 Subsec. (c)(8). Pub. L. 96–471 substituted “reports on the installment basis under section 453 or 453A” for “has elected, under section 453, to report on the installment basis” and “for purposes of section 453 or 453A” for “for purposes of section 453.”
 
@@ -6375,43 +6375,43 @@ Subsec. (c)(27). Pub. L. 96–223 added par. (27).
 
 1977—Subsec. (c)(26). Pub. L. 95–30 added par. (26).
 
-1976—Subsec. (b)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (b)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c)(3). Pub. L. 94–455, § 1901(b)(33)(N), substituted in subpars. (B) and (C) “capital gain net income” for “net capital gain”.
+Subsec. (c)(3). Pub. L. 94–455, § 1901(b)(33)(N), substituted in subpars. (B) and (C) “capital gain net income” for “net capital gain”.
 
-Subsec. (c)(4), (5). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (c)(4), (5). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c)(10). Pub. L. 94–455, § 1901(b)(21(B), among other changes, substituted reference to section 616 (relating to certain development expenditures) if the distributor or transferor corporation has so elected for reference to sections 615 and 616 (relating to pre-1970 exploration expenditures and development expenditures, respectively) if the distributor or transferor corporation has so elected and struck out provisions that if, for any taxable year, the distributor of transferor corporation was allowed or made the election of the deduction under section 615 of this title, the acquiring corporation shall be deemed to have been allowed or to have made such election of the deduction under section 615 of this title.
+Subsec. (c)(10). Pub. L. 94–455, § 1901(b)(21(B), among other changes, substituted reference to section 616 (relating to certain development expenditures) if the distributor or transferor corporation has so elected for reference to sections 615 and 616 (relating to pre-1970 exploration expenditures and development expenditures, respectively) if the distributor or transferor corporation has so elected and struck out provisions that if, for any taxable year, the distributor of transferor corporation was allowed or made the election of the deduction under section 615 of this title, the acquiring corporation shall be deemed to have been allowed or to have made such election of the deduction under section 615 of this title.
 
-Subsec. (c)(15). Pub. L. 94–455, § 1901(b)(17), substituted “subsection (c)” for “subsections (b)(7) and (c)”.
+Subsec. (c)(15). Pub. L. 94–455, § 1901(b)(17), substituted “subsection (c)” for “subsections (b)(7) and (c)”.
 
-Subsec. (c)(20). Pub. L. 94–455, § 1901(a)(54), struck out par. (20) which related to carry-over of unused pension trust deductions in certain cases.
+Subsec. (c)(20). Pub. L. 94–455, § 1901(a)(54), struck out par. (20) which related to carry-over of unused pension trust deductions in certain cases.
 
-Subsec. (c)(21). Pub. L. 94–455, § 1901(b)(16), struck out par. (21) which related to pre-1954 adjustments resulting from change in method of accounting.
+Subsec. (c)(21). Pub. L. 94–455, § 1901(b)(16), struck out par. (21) which related to pre-1954 adjustments resulting from change in method of accounting.
 
-Subsec. (c)(22) to (24). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (c)(22) to (24). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c)(25). Pub. L. 94–455, § 1601(e), added par. (25).
+Subsec. (c)(25). Pub. L. 94–455, § 1601(e), added par. (25).
 
 1971—Subsec. (c)(24). Pub. L. 92–178 added par. (24).
 
-1969—Subsec. (b)(3). Pub. L. 91–172, § 512(c), substituted “a net operating loss or a net capital loss” for “a net operating loss”.
+1969—Subsec. (b)(3). Pub. L. 91–172, § 512(c), substituted “a net operating loss or a net capital loss” for “a net operating loss”.
 
-Subsec. (c)(6). Pub. L. 91–172, § 521(f), substituted “subsections (b), (j) and (k) of section 167” for “paragraphs (2), (3) and (4) of section 167(b)” and inserted reference to adjusted basis in the hand of the distributor or transferor corporation.
+Subsec. (c)(6). Pub. L. 91–172, § 521(f), substituted “subsections (b), (j) and (k) of section 167” for “paragraphs (2), (3) and (4) of section 167(b)” and inserted reference to adjusted basis in the hand of the distributor or transferor corporation.
 
-Subsec. (c)(10). Pub. L. 91–172, § 504(c)(2), substituted “Treatment of certain mining exploration and development expenses of distributor or transferor corporation” for “Treatment of certain expenses deferred by the election of distributor or transferor corporation” in heading, limited deduction of expenses deferred under sections 615 and 616 of this title by the acquiring corporation as if it were the distributor or transferor corporation to pre-1970 exploration and development expenditures, and inserted provision that if distributor or transferor corporation, for any taxable year, was allowed the deduction in sections 615(a) or 617(a) of this title or made the election provided in section 615(b) of this title, acquiring corporation shall be deemed to have been allowed such deduction or deductions or to have made such election, as the case may be, for the purpose of applying the limitation provided in section 617 of this title.
+Subsec. (c)(10). Pub. L. 91–172, § 504(c)(2), substituted “Treatment of certain mining exploration and development expenses of distributor or transferor corporation” for “Treatment of certain expenses deferred by the election of distributor or transferor corporation” in heading, limited deduction of expenses deferred under sections 615 and 616 of this title by the acquiring corporation as if it were the distributor or transferor corporation to pre-1970 exploration and development expenditures, and inserted provision that if distributor or transferor corporation, for any taxable year, was allowed the deduction in sections 615(a) or 617(a) of this title or made the election provided in section 615(b) of this title, acquiring corporation shall be deemed to have been allowed such deduction or deductions or to have made such election, as the case may be, for the purpose of applying the limitation provided in section 617 of this title.
 
 1968—Subsec. (c)(22). Pub. L. 90–240 substituted successor insurance companies for successor life insurance companies as the business enterprise covered, substituted reference to insurance companies taxable under subchapter L for reference to life insurance companies as defined in section 801(a), and substituted reference to the purposes of this section and of subchapter L for reference to the purposes of this section and part I of subchapter L.
 
-1964—Subsec. (c)(15). Pub. L. 88–272, § 225(i)(3), substituted “subsections (b)(7) and (c) of section 545, relating to deductions with respect to payment of certain indebtedness” for “section 545(b)(7), relating to a deduction for payment of certain indebtedness incurred before Jan. 1, 1934”.
+1964—Subsec. (c)(15). Pub. L. 88–272, § 225(i)(3), substituted “subsections (b)(7) and (c) of section 545, relating to deductions with respect to payment of certain indebtedness” for “section 545(b)(7), relating to a deduction for payment of certain indebtedness incurred before Jan. 1, 1934”.
 
-Subsec. (c)(19). Pub. L. 88–272, § 209(d)(2), permitted deductions for contributions made in the taxable year and in 4 prior taxable years, instead of one prior taxable year, and provided that each taxable year beginning on or before the distribution or transfer date shall be treated as a prior taxable year with reference to the acquiring corporation’s taxable years beginning after such date.
+Subsec. (c)(19). Pub. L. 88–272, § 209(d)(2), permitted deductions for contributions made in the taxable year and in 4 prior taxable years, instead of one prior taxable year, and provided that each taxable year beginning on or before the distribution or transfer date shall be treated as a prior taxable year with reference to the acquiring corporation’s taxable years beginning after such date.
 
 1962—Subsec. (c)(23). Pub. L. 87–834 added par. (23).
 
-1959—Subsec. (c)(22). Pub. L. 86–69, § 3(c)(1), added par. (22).
+1959—Subsec. (c)(22). Pub. L. 86–69, § 3(c)(1), added par. (22).
 
-Subsec. (d). Pub. L. 86–69, § 3(c)(2), added subsec. (d).
+Subsec. (d). Pub. L. 86–69, § 3(c)(2), added subsec. (d).
 
 1958—Subsec. (c)(21). Pub. L. 85–866 added par. (21).
 
@@ -6425,7 +6425,7 @@ Subsec. (d). Pub. L. 86–69, § 3(c)(2), added subsec. (d).
 
 Amendment by section 13301 of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13301(c) of Pub. L. 115–97, set out as a note under section 163 of this title.
 
-Pub. L. 115–97, title I, § 13511(c), Dec. 22, 2017, 131 Stat. 2142, provided that: “The amendments made by this section [amending this section and sections 805, 831, 953, and 1351 of this title and repealing sections 810 and 844 of this title] shall apply to losses arising in taxable years beginning after December 31, 2017.”
+Pub. L. 115–97, title I, § 13511(c), Dec. 22, 2017, 131 Stat. 2142, provided that: “The amendments made by this section [amending this section and sections 805, 831, 953, and 1351 of this title and repealing sections 810 and 844 of this title] shall apply to losses arising in taxable years beginning after December 31, 2017.”
 
 **Effective Date of 1990 Amendment**
 
@@ -6495,7 +6495,7 @@ Amendment by section 1901(a)(54), (b)(16), (17), (21)(B), (33)(N) of Pub. L. 94�
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 92–178, title VI, § 601(f), Dec. 10, 1971, 85 Stat. 560, provided that: “The amendments made by this section [enacting sections 40, 50A, and 50B of this title and amending this section and sections 56, 6411, 6501, 6511, 6601, and 6611 of this title] shall apply to taxable years beginning after December 31, 1971.”
+Pub. L. 92–178, title VI, § 601(f), Dec. 10, 1971, 85 Stat. 560, provided that: “The amendments made by this section [enacting sections 40, 50A, and 50B of this title and amending this section and sections 56, 6411, 6501, 6511, 6601, and 6611 of this title] shall apply to taxable years beginning after December 31, 1971.”
 
 **Effective Date of 1969 Amendment**
 
@@ -6521,7 +6521,7 @@ Amendment by Pub. L. 87–834 applicable with respect to taxable years ending af
 
 **Effective Date of 1959 Amendment**
 
-Pub. L. 86–69, § 4, June 25, 1959, 73 Stat. 141, provided that: “Except as otherwise provided in this Act, the amendments made by this Act [amending this section, part I (§ 801 et seq.) of subchapter L, and sections 841, 842, 891, 1016, 1201, 1232, 1504, 4371, and 6501 of this title] shall apply only with respect to taxable years beginning after December 31, 1957.”
+Pub. L. 86–69, § 4, June 25, 1959, 73 Stat. 141, provided that: “Except as otherwise provided in this Act, the amendments made by this Act [amending this section, part I (§ 801 et seq.) of subchapter L, and sections 841, 842, 891, 1016, 1201, 1232, 1504, 4371, and 6501 of this title] shall apply only with respect to taxable years beginning after December 31, 1957.”
 
 **Effective Date of 1958 Amendment**
 
@@ -6529,11 +6529,11 @@ For effective date of amendment by Pub. L. 85–866, see section 29(d) of Pub. L
 
 **Effective Date of 1956 Amendment**
 
-Act Jan. 28, 1956, ch. 15, § 2, 70 Stat. 7, provided that: “The amendments made by the first section of this Act [amending this section] shall reply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
+Act Jan. 28, 1956, ch. 15, § 2, 70 Stat. 7, provided that: “The amendments made by the first section of this Act [amending this section] shall reply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
 
 **Effective Date of 1955 Amendment**
 
-Act June 15, 1955, ch. 143, § 3, 69 Stat. 135, provided that: “The amendments made by this Act [amending this section and repealing sections 452 and 462 of this title] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
+Act June 15, 1955, ch. 143, § 3, 69 Stat. 135, provided that: “The amendments made by this Act [amending this section and repealing sections 452 and 462 of this title] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
 
 **Savings Provision**
 
@@ -6541,7 +6541,7 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-Act June 15, 1955, ch. 143, § 4, 69 Stat. 135, as amended by act Oct. 22, 1986, Pub. L. 99–514, § 2, 100 Stat. 2095, provided:
+Act June 15, 1955, ch. 143, § 4, 69 Stat. 135, as amended by act Oct. 22, 1986, Pub. L. 99–514, § 2, 100 Stat. 2095, provided:
 
 > **“(a) Filing of Statement.—** If—
 
@@ -6581,11 +6581,11 @@ Act June 15, 1955, ch. 143, § 4, 69 Stat. 135, as amended by act Oct. 22, 198
 
 For applicability of amendment by section 701(e)(1) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-### § 382. Limitation on net operating loss carryforwards and certain built-in losses following ownership change
+### § 382. Limitation on net operating loss carryforwards and certain built-in losses following ownership change
 
 **(a) General rule**
 
@@ -7121,21 +7121,21 @@ Related persons shall be treated as a single person for purposes of this paragra
 
 **(II)** such persons are members of a group of persons acting in concert.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, § 4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, § 806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, § 2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, § 242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, § 62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, § 621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, § 10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, § 1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, § 4012(a)(3), (b)(1)(B), title V, § 5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, § 1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§ 7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66, title XIII, § 13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, § 1621(b)(3), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, § 835(b)(2), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 111–5, div. B, title I, § 1262(a), Feb. 17, 2009, 123 Stat. 343; Pub. L. 113–295, div. A, title II, § 221(a)(30)(D), Dec. 19, 2014, 128 Stat. 4042; Pub. L. 115–97, title I, §§ 11051(b)(3)(F), 13301(b)(2), (3), Dec. 22, 2017, 131 Stat. 2090, 2121.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, § 4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, § 806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, § 2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, § 242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, § 62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, § 621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, § 10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, § 1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, § 4012(a)(3), (b)(1)(B), title V, § 5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, § 1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§ 7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66, title XIII, § 13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, § 1621(b)(3), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, § 835(b)(2), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 111–5, div. B, title I, § 1262(a), Feb. 17, 2009, 123 Stat. 343; Pub. L. 113–295, div. A, title II, § 221(a)(30)(D), Dec. 19, 2014, 128 Stat. 4042; Pub. L. 115–97, title I, §§ 11051(b)(3)(F), 13301(b)(2), (3), Dec. 22, 2017, 131 Stat. 2090, 2121.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Emergency Economic Stabilization Act of 2008, referred to in subsec. (n)(1)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (n)(1)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
 **Amendments**
 
-2017—Subsec. (d)(3). Pub. L. 115–97, § 13301(b)(2), added par. (3).
+2017—Subsec. (d)(3). Pub. L. 115–97, § 13301(b)(2), added par. (3).
 
-Subsec. (k)(1). Pub. L. 115–97, § 13301(b)(3), inserted after first sentence “Such term shall include any corporation entitled to use a carryforward of disallowed interest described in section 381(c)(20).”
+Subsec. (k)(1). Pub. L. 115–97, § 13301(b)(3), inserted after first sentence “Such term shall include any corporation entitled to use a carryforward of disallowed interest described in section 381(c)(20).”
 
-Subsec. (*l*)(3)(B)(iii). Pub. L. 115–97, § 11051(b)(3)(F), substituted “section 121(d)(3)(C)” for “section 71(b)(2)”.
+Subsec. (*l*)(3)(B)(iii). Pub. L. 115–97, § 11051(b)(3)(F), substituted “section 121(d)(3)(C)” for “section 71(b)(2)”.
 
 2014—Subsec. (*l*)(5)(F) to (H). Pub. L. 113–295 redesignated subpars. (G) and (H) as (F) and (G), respectively, and struck out former subpar. (F) which related to a special rule for certain financial institutions for certain equity structure shifts and transactions occurring before May 10, 1989.
 
@@ -7151,105 +7151,105 @@ Subsec. (*l*)(3)(B)(iii). Pub. L. 115–97, § 11051(b)(3)(F), substituted “
 
 “(ii) Clarification with subparagraph (b).—In applying clause (i), there shall not be taken into account any indebtedness for interest described in subparagraph (B).”
 
-1989—Subsec. (h)(3)(B)(i). Pub. L. 101–239, § 7205(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “If the amount of the net unrealized built-in gain or net unrealized built-in loss (determined without regard to this subparagraph) of any old loss corporation is not greater than 25 percent of the amount determined for purposes of subparagraph (A)(i)(I), the net unrealized built-in gain or net unrealized built-in loss shall be zero.”
+1989—Subsec. (h)(3)(B)(i). Pub. L. 101–239, § 7205(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “If the amount of the net unrealized built-in gain or net unrealized built-in loss (determined without regard to this subparagraph) of any old loss corporation is not greater than 25 percent of the amount determined for purposes of subparagraph (A)(i)(I), the net unrealized built-in gain or net unrealized built-in loss shall be zero.”
 
-Subsec. (h)(6)(B). Pub. L. 101–239, § 7811(c)(5)(A)(i), inserted “(determined without regard to any carryover)” after “during the recognition period”.
+Subsec. (h)(6)(B). Pub. L. 101–239, § 7811(c)(5)(A)(i), inserted “(determined without regard to any carryover)” after “during the recognition period”.
 
-Subsec. (h)(6)(C). Pub. L. 101–239, § 7811(c)(5)(A)(ii), substituted “which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period” for “treated as recognized built-in gains or losses under this paragraph”.
+Subsec. (h)(6)(C). Pub. L. 101–239, § 7811(c)(5)(A)(ii), substituted “which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period” for “treated as recognized built-in gains or losses under this paragraph”.
 
-Subsec. (*l*)(3)(B)(i)(III). Pub. L. 101–239, § 7841(d)(11), substituted “incident to divorce),” for “incident to divorce,”.
+Subsec. (*l*)(3)(B)(i)(III). Pub. L. 101–239, § 7841(d)(11), substituted “incident to divorce),” for “incident to divorce,”.
 
-Subsec. (*l*)(3)(C). Pub. L. 101–239, § 7304(d)(1), redesignated subpar. (D) as (C) and struck out former subpar. (C) which related to special rule for employee stock ownership plans.
+Subsec. (*l*)(3)(C). Pub. L. 101–239, § 7304(d)(1), redesignated subpar. (D) as (C) and struck out former subpar. (C) which related to special rule for employee stock ownership plans.
 
-Subsec. (*l*)(3)(C)(ii). Pub. L. 101–239, § 7815(h), substituted “For purposes of subclause (III),” for “for purposes of subclause (III),” in concluding provisions.
+Subsec. (*l*)(3)(C)(ii). Pub. L. 101–239, § 7815(h), substituted “For purposes of subclause (III),” for “for purposes of subclause (III),” in concluding provisions.
 
-Subsec. (*l*)(3)(D). Pub. L. 101–239, § 7304(d)(1), redesignated subpar. (D) as (C).
+Subsec. (*l*)(3)(D). Pub. L. 101–239, § 7304(d)(1), redesignated subpar. (D) as (C).
 
 Subsec. (*l*)(5)(F). Pub. L. 101–73 substituted “on or after May 10, 1989” for “after December 31, 1989” in last sentence.
 
-1988—Subsec. (e)(2). Pub. L. 100–647, § 1006(d)(1)(A), inserted “or other corporate contraction” after “redemption” in heading and in two places in text.
+1988—Subsec. (e)(2). Pub. L. 100–647, § 1006(d)(1)(A), inserted “or other corporate contraction” after “redemption” in heading and in two places in text.
 
-Subsec. (e)(3). Pub. L. 100–647, § 1006(d)(17)(A), added par. (3).
+Subsec. (e)(3). Pub. L. 100–647, § 1006(d)(17)(A), added par. (3).
 
-Subsec. (g)(1)(A). Pub. L. 100–647, § 1006(d)(21)(A), struck out “new” after “stock of the”.
+Subsec. (g)(1)(A). Pub. L. 100–647, § 1006(d)(21)(A), struck out “new” after “stock of the”.
 
-Subsec. (g)(1)(B). Pub. L. 100–647, § 1006(d)(21)(B), struck out “old” after “stock of the”.
+Subsec. (g)(1)(B). Pub. L. 100–647, § 1006(d)(21)(B), struck out “old” after “stock of the”.
 
-Subsec. (g)(4)(C). Pub. L. 100–647, § 1006(d)(2), inserted “rules similar to” after “provided in regulations,”.
+Subsec. (g)(4)(C). Pub. L. 100–647, § 1006(d)(2), inserted “rules similar to” after “provided in regulations,”.
 
-Subsec. (h)(1)(C). Pub. L. 100–647, § 1006(d)(3)(A), substituted “Special rules for certain section 338 gains” for “Section 338 gain” in heading and amended text generally. Prior to amendment, text read as follows: “The section 382 limitation for any taxable year in which gain is recognized by reason of an election under section 338 shall be increased by the excess of—
+Subsec. (h)(1)(C). Pub. L. 100–647, § 1006(d)(3)(A), substituted “Special rules for certain section 338 gains” for “Section 338 gain” in heading and amended text generally. Prior to amendment, text read as follows: “The section 382 limitation for any taxable year in which gain is recognized by reason of an election under section 338 shall be increased by the excess of—
 
 “(i) the amount of such gain, over
 
 “(ii) the portion of such gain taken into account in computing recognized built-in gains for such taxable year.”
 
-Subsec. (h)(3)(A)(ii). Pub. L. 100–647, § 1006(d)(28)(A), inserted “to the extent provided in regulations,” after “an ownership change,”.
+Subsec. (h)(3)(A)(ii). Pub. L. 100–647, § 1006(d)(28)(A), inserted “to the extent provided in regulations,” after “an ownership change,”.
 
-Pub. L. 100–647, § 1006(d)(1)(B), inserted “or other corporate contractions” after “redemptions” in heading and “or other corporate contraction” after “redemption” in two places in text.
+Pub. L. 100–647, § 1006(d)(1)(B), inserted “or other corporate contractions” after “redemptions” in heading and “or other corporate contraction” after “redemption” in two places in text.
 
-Subsec. (h)(3)(B)(ii). Pub. L. 100–647, § 1006(d)(26), inserted “except as provided in regulations,” after “under clause (i),”.
+Subsec. (h)(3)(B)(ii). Pub. L. 100–647, § 1006(d)(26), inserted “except as provided in regulations,” after “under clause (i),”.
 
-Subsec. (h)(4). Pub. L. 100–647, § 1006(d)(20), substituted “allowed as a carryforward” for “treated as a net operating loss” in heading and inserted “(or to the extent the amount so disallowed is attributable to capital losses, under rules similar to the rules for the carrying forward of net capital losses)” after “net operating losses” in subpar. (A).
+Subsec. (h)(4). Pub. L. 100–647, § 1006(d)(20), substituted “allowed as a carryforward” for “treated as a net operating loss” in heading and inserted “(or to the extent the amount so disallowed is attributable to capital losses, under rules similar to the rules for the carrying forward of net capital losses)” after “net operating losses” in subpar. (A).
 
-Subsec. (h)(5)(A). Pub. L. 100–647, § 1006(d)(3)(B), substituted “recognized built-in gains to the extent such gains increased the section 382 limitation for the year (or recognized built-in losses to the extent such losses are treated as pre-change losses)” for “recognized built-in gains and losses”.
+Subsec. (h)(5)(A). Pub. L. 100–647, § 1006(d)(3)(B), substituted “recognized built-in gains to the extent such gains increased the section 382 limitation for the year (or recognized built-in losses to the extent such losses are treated as pre-change losses)” for “recognized built-in gains and losses”.
 
-Subsec. (h)(6). Pub. L. 100–647, § 1006(d)(22), substituted “Treatment of certain built-in items” for “Secretary may treat certain deductions as built-in losses” in heading and amended text generally. Prior to amendment, text read as follows: “The Secretary may by regulation treat amounts which accrue on or before the change date but which are allowable as a deduction after such date as recognized built-in losses.”
+Subsec. (h)(6). Pub. L. 100–647, § 1006(d)(22), substituted “Treatment of certain built-in items” for “Secretary may treat certain deductions as built-in losses” in heading and amended text generally. Prior to amendment, text read as follows: “The Secretary may by regulation treat amounts which accrue on or before the change date but which are allowable as a deduction after such date as recognized built-in losses.”
 
-Subsec. (h)(9). Pub. L. 100–647, § 1006(d)(23), substituted “was acquired (or is subsequently transferred)” for “is transferred”.
+Subsec. (h)(9). Pub. L. 100–647, § 1006(d)(23), substituted “was acquired (or is subsequently transferred)” for “is transferred”.
 
-Subsec. (i)(3). Pub. L. 100–647, § 1006(d)(4), inserted “the earlier of” after “not begin before” and “or the taxable year in which the transaction being tested occurs” after “1st post-change year”.
+Subsec. (i)(3). Pub. L. 100–647, § 1006(d)(4), inserted “the earlier of” after “not begin before” and “or the taxable year in which the transaction being tested occurs” after “1st post-change year”.
 
-Subsec. (k)(1). Pub. L. 100–647, § 1006(d)(5)(A), inserted “or having a net operating loss for the taxable year in which the ownership change occurs” after “operating loss carryover”.
+Subsec. (k)(1). Pub. L. 100–647, § 1006(d)(5)(A), inserted “or having a net operating loss for the taxable year in which the ownership change occurs” after “operating loss carryover”.
 
-Subsec. (k)(2). Pub. L. 100–647, § 1006(d)(5)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘old loss corporation’ means any corporation with respect to which there is an ownership change—
+Subsec. (k)(2). Pub. L. 100–647, § 1006(d)(5)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘old loss corporation’ means any corporation with respect to which there is an ownership change—
 
 “(A) which (before the ownership change) was a loss corporation, or
 
 “(B) with respect to which there is a pre-change loss described in subsection (d)(1)(B).”
 
-Subsec. (*l*)(3)(A)(iv), (v). Pub. L. 100–647, § 1006(d)(6), added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: “except to the extent provided in regulations, paragraph (4) of section 318(a) shall apply to an option if such application results in an ownership change.”
+Subsec. (*l*)(3)(A)(iv), (v). Pub. L. 100–647, § 1006(d)(6), added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: “except to the extent provided in regulations, paragraph (4) of section 318(a) shall apply to an option if such application results in an ownership change.”
 
-Subsec. (*l*)(3)(C)(ii). Pub. L. 100–647, § 5077(a), added subcl. (III) and concluding provisions.
+Subsec. (*l*)(3)(C)(ii). Pub. L. 100–647, § 5077(a), added subcl. (III) and concluding provisions.
 
-Subsec. (*l*)(4)(B)(ii). Pub. L. 100–647, § 1006(t)(22)(A), substituted “REMIC” for “real estate mortgage pool”.
+Subsec. (*l*)(4)(B)(ii). Pub. L. 100–647, § 1006(t)(22)(A), substituted “REMIC” for “real estate mortgage pool”.
 
-Subsec. (*l*)(5)(A)(ii). Pub. L. 100–647, § 1006(d)(25), substituted “stock of a controlling corporation” for “stock of controlling corporation”.
+Subsec. (*l*)(5)(A)(ii). Pub. L. 100–647, § 1006(d)(25), substituted “stock of a controlling corporation” for “stock of controlling corporation”.
 
-Pub. L. 100–647, § 1006(d)(7), substituted “after such ownership change and as a result of being shareholders or creditors immediately before such change” for “immediately after such ownership change”.
+Pub. L. 100–647, § 1006(d)(7), substituted “after such ownership change and as a result of being shareholders or creditors immediately before such change” for “immediately after such ownership change”.
 
-Subsec. (*l*)(5)(B). Pub. L. 100–647, § 1006(d)(27), substituted “the pre-change losses and excess credits (within the meaning of section 383(a)(2)) which may be carried to a post-change year shall be computed” for “the net operating loss deduction under section 172(a) for any post-change year shall be determined”.
+Subsec. (*l*)(5)(B). Pub. L. 100–647, § 1006(d)(27), substituted “the pre-change losses and excess credits (within the meaning of section 383(a)(2)) which may be carried to a post-change year shall be computed” for “the net operating loss deduction under section 172(a) for any post-change year shall be determined”.
 
-Subsec. (*l*)(5)(C). Pub. L. 100–647, § 1006(d)(18), substituted “tax attributes” for “carryforwards” in heading and amended text generally. Prior to amendment, text read as follows: “In any case to which subparagraph (A) applies, the pre-change losses and excess credits (within the meaning of section 383(a)(2)) which may be carried to a post-change year shall be computed as if 50 percent of the amount which, but for the application of section 108(e)(10)(B), would have been includible in gross income for any taxable year had been so included.”
+Subsec. (*l*)(5)(C). Pub. L. 100–647, § 1006(d)(18), substituted “tax attributes” for “carryforwards” in heading and amended text generally. Prior to amendment, text read as follows: “In any case to which subparagraph (A) applies, the pre-change losses and excess credits (within the meaning of section 383(a)(2)) which may be carried to a post-change year shall be computed as if 50 percent of the amount which, but for the application of section 108(e)(10)(B), would have been includible in gross income for any taxable year had been so included.”
 
-Subsec. (*l*)(5)(E). Pub. L. 100–647, § 1006(d)(19), substituted “taken into account” for “of creditors taken into account” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “For purposes of subparagraph (A)(ii), stock transferred to a creditor in satisfaction of indebtedness shall be taken into account only if such indebtedness—”.
+Subsec. (*l*)(5)(E). Pub. L. 100–647, § 1006(d)(19), substituted “taken into account” for “of creditors taken into account” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “For purposes of subparagraph (A)(ii), stock transferred to a creditor in satisfaction of indebtedness shall be taken into account only if such indebtedness—”.
 
-Subsec. (*l*)(5)(F). Pub. L. 100–647, § 4012(a)(3), substituted “1989” for “1988” in last sentence.
+Subsec. (*l*)(5)(F). Pub. L. 100–647, § 4012(a)(3), substituted “1989” for “1988” in last sentence.
 
-Subsec. (*l*)(5)(F)(i)(I). Pub. L. 100–647, § 1006(d)(8)(A), inserted “ ‘1504(a)(2)(B)’ for ‘1504(a)(2)’ and” after “by substituting”.
+Subsec. (*l*)(5)(F)(i)(I). Pub. L. 100–647, § 1006(d)(8)(A), inserted “ ‘1504(a)(2)(B)’ for ‘1504(a)(2)’ and” after “by substituting”.
 
-Subsec. (*l*)(5)(F)(ii)(III). Pub. L. 100–647, § 1006(d)(8)(B), substituted “the amount of deposits in the new loss corporation immediately after the change” for “deposits described in subclause (II)”.
+Subsec. (*l*)(5)(F)(ii)(III). Pub. L. 100–647, § 1006(d)(8)(B), substituted “the amount of deposits in the new loss corporation immediately after the change” for “deposits described in subclause (II)”.
 
-Subsec. (*l*)(5)(F)(iii)(I). Pub. L. 100–647, § 4012(b)(1)(B), inserted “(as modified by section 368(a)(3)(D)(iv))” after “section 368(a)(3)(D)(ii)”.
+Subsec. (*l*)(5)(F)(iii)(I). Pub. L. 100–647, § 4012(b)(1)(B), inserted “(as modified by section 368(a)(3)(D)(iv))” after “section 368(a)(3)(D)(ii)”.
 
-Pub. L. 100–647, § 1006(d)(29), which directed amendment of subcl. (I) by substituting “section 368(a)(3)(D)(ii)” for “section 368(a)(D)(ii)”, could not be executed because “section 368(a)(3)(D)(ii)” appeared and “section 368(a)(D)(ii)” did not appear.
+Pub. L. 100–647, § 1006(d)(29), which directed amendment of subcl. (I) by substituting “section 368(a)(3)(D)(ii)” for “section 368(a)(D)(ii)”, could not be executed because “section 368(a)(3)(D)(ii)” appeared and “section 368(a)(D)(ii)” did not appear.
 
-Subsec. (*l*)(6). Pub. L. 100–647, § 1006(d)(9), substituted “shall reflect the increase (if any) in value of the old loss corporation resulting from any surrender or cancellation of creditors’ claims in the transaction” for “shall be the value of the new loss corporation immediately after the ownership change”.
+Subsec. (*l*)(6). Pub. L. 100–647, § 1006(d)(9), substituted “shall reflect the increase (if any) in value of the old loss corporation resulting from any surrender or cancellation of creditors’ claims in the transaction” for “shall be the value of the new loss corporation immediately after the ownership change”.
 
-Subsec. (*l*)(8). Pub. L. 100–647, § 1006(d)(10), added par. (8).
+Subsec. (*l*)(8). Pub. L. 100–647, § 1006(d)(10), added par. (8).
 
-Subsec. (m)(4). Pub. L. 100–647, § 1006(d)(1)(C), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “providing for the treatment of corporate contractions as redemptions for purposes of subsections (e)(2) and (h)(3)(A), and”.
+Subsec. (m)(4). Pub. L. 100–647, § 1006(d)(1)(C), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “providing for the treatment of corporate contractions as redemptions for purposes of subsections (e)(2) and (h)(3)(A), and”.
 
-Subsec. (m)(5). Pub. L. 100–647, § 1006(d)(24), added par. (5).
+Subsec. (m)(5). Pub. L. 100–647, § 1006(d)(24), added par. (5).
 
-Pub. L. 100–647, § 1006(d)(1)(C), redesignated former par. (5) as (4).
+Pub. L. 100–647, § 1006(d)(1)(C), redesignated former par. (5) as (4).
 
-1987—Subsec. (g)(4)(D). Pub. L. 100–203, § 10225(a), added subpar. (D).
+1987—Subsec. (g)(4)(D). Pub. L. 100–203, § 10225(a), added subpar. (D).
 
-Subsec. (h)(2)(B). Pub. L. 100–203, § 10225(b), inserted at end “Such term includes any amount allowable as depreciation, amortization, or depletion for any period within the recognition period except to the extent the new loss corporation establishes that the amount so allowable is not attributable to the excess described in clause (ii).”
+Subsec. (h)(2)(B). Pub. L. 100–203, § 10225(b), inserted at end “Such term includes any amount allowable as depreciation, amortization, or depletion for any period within the recognition period except to the extent the new loss corporation establishes that the amount so allowable is not attributable to the excess described in clause (ii).”
 
-1986—Pub. L. 99–514, § 621(a), in amending section generally, in subsec. (a), substituted provisions setting forth general rule that amount of taxable income of any new loss corporation for any post-change year which may be offset by pre-change losses shall not exceed section 382 limitation for such year for provisions relating to change in ownership of corporation and change in its business, description of persons owning corporation, attribution of ownership, and definition of “purchase”, in subsec. (b), substituted provisions relating to section 382 limitation for provisions relating to change in ownership as result of reorganization, in subsec. (c), substituted provisions relating to disallowance of carryforwards if continuity of business requirements are not met for provisions defining stock as all shares except nonvoting stock which is limited and preferred as to dividends, and added subsecs. (d) to (m).
+1986—Pub. L. 99–514, § 621(a), in amending section generally, in subsec. (a), substituted provisions setting forth general rule that amount of taxable income of any new loss corporation for any post-change year which may be offset by pre-change losses shall not exceed section 382 limitation for such year for provisions relating to change in ownership of corporation and change in its business, description of persons owning corporation, attribution of ownership, and definition of “purchase”, in subsec. (b), substituted provisions relating to section 382 limitation for provisions relating to change in ownership as result of reorganization, in subsec. (c), substituted provisions relating to disallowance of carryforwards if continuity of business requirements are not met for provisions defining stock as all shares except nonvoting stock which is limited and preferred as to dividends, and added subsecs. (d) to (m).
 
-Pub. L. 99–514, § 621(e)(1), repealed amendment by Pub. L. 94–455, § 806(e). See 1976 Amendment note below.
+Pub. L. 99–514, § 621(e)(1), repealed amendment by Pub. L. 94–455, § 806(e). See 1976 Amendment note below.
 
 1984—Subsec. (b)(1). Pub. L. 98–369, in section as amended by Pub. L. 94–455, substituted “subparagraph (A), (B), (C), or (F) of section 368(a)(1) or subparagraph (D) or (G) of section 368(a)(1) (but only if the requirements of section 354(b)(1) are met)” for “section 368(a)(1)(A), (B), (C), (D) (but only if the requirements of section 354(b)(1) are met, or (F)”.
 
@@ -7257,7 +7257,7 @@ Pub. L. 99–514, § 621(e)(1), repealed amendment by Pub. L. 94–455, § 8
 
 1980—Subsec. (b)(7). Pub. L. 96–589 added par. (7).
 
-1976—Pub. L. 94–455, § 806(e), which amended section generally, substituting provisions relating to special limitations on net operating loss carryovers based on continuity of trade or business conducted, for provisions relating to special limitations on net operating loss carryovers based on continuity of ownership, was repealed by Pub. L. 99–514, § 621(e)(1). See Effective Date of 1986 and 1976 Amendment notes below.
+1976—Pub. L. 94–455, § 806(e), which amended section generally, substituting provisions relating to special limitations on net operating loss carryovers based on continuity of trade or business conducted, for provisions relating to special limitations on net operating loss carryovers based on continuity of ownership, was repealed by Pub. L. 99–514, § 621(e)(1). See Effective Date of 1986 and 1976 Amendment notes below.
 
 1964—Subsec. (a)(3). Pub. L. 88–554 inserted reference to section 318(a)(3)(C) of this title.
 
@@ -7275,7 +7275,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–5, div. B, title I, § 1262(b), Feb. 17, 2009, 123 Stat. 344, provided that: “The amendment made by this section [amending this section] shall apply to ownership changes after the date of the enactment of this Act [Feb. 17, 2009].”
+Pub. L. 111–5, div. B, title I, § 1262(b), Feb. 17, 2009, 123 Stat. 344, provided that: “The amendment made by this section [amending this section] shall apply to ownership changes after the date of the enactment of this Act [Feb. 17, 2009].”
 
 **Effective Date of 2004 Amendment**
 
@@ -7293,25 +7293,25 @@ Amendment by Pub. L. 103–66 applicable to stock transferred after Dec. 31, 199
 
 Amendment by section 7205(a) of Pub. L. 101–239 applicable, except as otherwise provided, to ownership changes and acquisitions after Oct. 2, 1989, in taxable years ending after such date, see section 7205(c) of Pub. L. 101–239, set out as a note under section 56 of this title.
 
-Pub. L. 101–239, title VII, § 7304(d)(2), Dec. 19, 1989, 103 Stat. 2354, provided that: “The amendments made by this subsection [amending this section] shall apply to acquisitions of employer securities after July 12, 1989, except that such amendments shall not apply to acquisitions after July 12, 1989, pursuant to a written binding contract in effect on July 12, 1989, and at all times thereafter before such acquisition.”
+Pub. L. 101–239, title VII, § 7304(d)(2), Dec. 19, 1989, 103 Stat. 2354, provided that: “The amendments made by this subsection [amending this section] shall apply to acquisitions of employer securities after July 12, 1989, except that such amendments shall not apply to acquisitions after July 12, 1989, pursuant to a written binding contract in effect on July 12, 1989, and at all times thereafter before such acquisition.”
 
 Amendment by sections 7811(c)(5)(A) and 7815(h) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
-Pub. L. 101–73, title XIV, § 1401(c)(2), Aug. 9, 1989, 103 Stat. 550, provided that: “The amendment made by subsection (a)(2) [amending this section] shall apply to transactions on or after May 10, 1989.”
+Pub. L. 101–73, title XIV, § 1401(c)(2), Aug. 9, 1989, 103 Stat. 550, provided that: “The amendment made by subsection (a)(2) [amending this section] shall apply to transactions on or after May 10, 1989.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1006(d)(1)(D), Nov. 10, 1988, 102 Stat. 3395, provided that: “The amendments made by this paragraph [amending this section] shall apply with respect to ownership changes after June 10, 1987.”
+Pub. L. 100–647, title I, § 1006(d)(1)(D), Nov. 10, 1988, 102 Stat. 3395, provided that: “The amendments made by this paragraph [amending this section] shall apply with respect to ownership changes after June 10, 1987.”
 
-Pub. L. 100–647, title I, § 1006(d)(17)(B), Nov. 10, 1988, 102 Stat. 3398, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to any ownership change after June 10, 1987. For purposes of the preceding sentence, any equity structure shift pursuant to a plan of reorganization adopted on or before June 10, 1987, shall be treated as occurring when such plan was adopted.”
+Pub. L. 100–647, title I, § 1006(d)(17)(B), Nov. 10, 1988, 102 Stat. 3398, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to any ownership change after June 10, 1987. For purposes of the preceding sentence, any equity structure shift pursuant to a plan of reorganization adopted on or before June 10, 1987, shall be treated as occurring when such plan was adopted.”
 
-Pub. L. 100–647, title I, § 1006(d)(28)(B), Nov. 10, 1988, 102 Stat. 3400, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply in the case of ownership changes on or after June 21, 1988.”
+Pub. L. 100–647, title I, § 1006(d)(28)(B), Nov. 10, 1988, 102 Stat. 3400, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply in the case of ownership changes on or after June 21, 1988.”
 
 Amendment by section 1006(d)(2)–(10), (18)–(27), (29), (t)(22)(A) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title IV, § 4012(b)(1)(C)(ii), Nov. 10, 1988, 102 Stat. 3657, provided that: “The amendment made by subparagraph (B) [amending this section] shall apply to any ownership change occurring after the date of the enactment of this Act [Nov. 10, 1988] and before January 1, 1990.”
+Pub. L. 100–647, title IV, § 4012(b)(1)(C)(ii), Nov. 10, 1988, 102 Stat. 3657, provided that: “The amendment made by subparagraph (B) [amending this section] shall apply to any ownership change occurring after the date of the enactment of this Act [Nov. 10, 1988] and before January 1, 1990.”
 
-Pub. L. 100–647, title V, § 5077(b), Nov. 10, 1988, 102 Stat. 3683, provided that:
+Pub. L. 100–647, title V, § 5077(b), Nov. 10, 1988, 102 Stat. 3683, provided that:
 
 > **“(1) In General.—** The amendment made by subsection (a) [amending this section] shall apply to acquisition after December 31, 1988.
 
@@ -7319,7 +7319,7 @@ Pub. L. 100–647, title V, § 5077(b), Nov. 10, 1988, 102 Stat. 3683, provide
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title X, § 10225(c), Dec. 22, 1987, 101 Stat. 1330–413, provided that:
+Pub. L. 100–203, title X, § 10225(c), Dec. 22, 1987, 101 Stat. 1330–413, provided that:
 
 > **“(1) Subsection (a).—** The amendment made by subsection (a) [amending this section] shall apply in the case of stock treated as becoming worthless in taxable years beginning after December 31, 1987.
 
@@ -7327,7 +7327,7 @@ Pub. L. 100–203, title X, § 10225(c), Dec. 22, 1987, 101 Stat. 1330–413, 
 
 **Effective Date of 1986 Amendment; Savings Provisions**
 
-Pub. L. 99–514, title VI, § 621(f), Oct. 22, 1986, 100 Stat. 2266, as amended by Pub. L. 100–647, title I, § 1006(d)(11)–(16), title VI, § 6277(a), (b), Nov. 10, 1988, 102 Stat. 3397, 3398, 3753, 3754, provided that:
+Pub. L. 99–514, title VI, § 621(f), Oct. 22, 1986, 100 Stat. 2266, as amended by Pub. L. 100–647, title I, § 1006(d)(11)–(16), title VI, § 6277(a), (b), Nov. 10, 1988, 102 Stat. 3397, 3398, 3753, 3754, provided that:
 
 > **“(1) Amendments made by subsections (a), (b), and (c).—**
 
@@ -7349,7 +7349,7 @@ Pub. L. 99–514, title VI, § 621(f), Oct. 22, 1986, 100 Stat. 2266, as amend
 
 > **“(2) For amendments to tax reform act of 1976.—**
 
-> **“(A) In general.—** The repeals made by subsection (e)(1) [repealing amendments by Pub. L. 94–455, § 806(e), (f), amending this section and sections 108, 368, and 383 of this title] and the amendment made by subsection (e)(2) [repealing section 806(g)(2), (3) of Pub. L. 94–455, formerly set out as an Effective Date of 1976 Amendment note below] shall take effect on January 1, 1986.
+> **“(A) In general.—** The repeals made by subsection (e)(1) [repealing amendments by Pub. L. 94–455, § 806(e), (f), amending this section and sections 108, 368, and 383 of this title] and the amendment made by subsection (e)(2) [repealing section 806(g)(2), (3) of Pub. L. 94–455, formerly set out as an Effective Date of 1976 Amendment note below] shall take effect on January 1, 1986.
 
 > **“(B) Election to have amendments apply.—**
 
@@ -7403,11 +7403,11 @@ Pub. L. 99–514, title VI, § 621(f), Oct. 22, 1986, 100 Stat. 2266, as amend
 
 > **“(9) Definitions.—** Except as otherwise provided, terms used in this subsection shall have the same meaning as when used in section 382 of the Internal Revenue Code of 1986 (as amended by this section).”
 
-[Pub. L. 100–647, title VI, § 6277(c), Nov. 10, 1988, 102 Stat. 3754, provided that: “The amendments made by this section [amending section 621(f) of Pub. L. 99–514, set out above] shall take effect as if included in section 621(f)(5) of the Tax Reform Act of 1986 [Pub. L. 99–514].” ]
+[Pub. L. 100–647, title VI, § 6277(c), Nov. 10, 1988, 102 Stat. 3754, provided that: “The amendments made by this section [amending section 621(f) of Pub. L. 99–514, set out above] shall take effect as if included in section 621(f)(5) of the Tax Reform Act of 1986 [Pub. L. 99–514].” ]
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 62(b)(2), July 18, 1984, 98 Stat. 583, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the amendments made by section 4 of the Bankruptcy Tax Act of 1980 [Pub. L. 96–589].”
+Pub. L. 98–369, div. A, title I, § 62(b)(2), July 18, 1984, 98 Stat. 583, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the amendments made by section 4 of the Bankruptcy Tax Act of 1980 [Pub. L. 96–589].”
 
 **Effective Date of 1981 Amendment**
 
@@ -7415,13 +7415,13 @@ Amendment by Pub. L. 97–34 applicable to any transfer made on or after Jan. 1,
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–589, § 2(d), Dec. 24, 1980, 94 Stat. 3396, provided that the amendment made by section 2(b) of Pub. L. 96–589 is to subsec. (b) as in effect before its amendment by section 806 of the Tax Reform Act of 1976, Pub. L. 94–455.
+Pub. L. 96–589, § 2(d), Dec. 24, 1980, 94 Stat. 3396, provided that the amendment made by section 2(b) of Pub. L. 96–589 is to subsec. (b) as in effect before its amendment by section 806 of the Tax Reform Act of 1976, Pub. L. 94–455.
 
 Amendment by Pub. L. 96–589 applicable to transactions which occur after Dec. 31, 1980, other than transactions which occur in a proceeding in a bankruptcy case or similar judicial proceeding or in a proceeding under Title 11 commencing on or before Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to transactions occurring after Sept. 30, 1979, in a specified manner, see section 7(a)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title VIII, § 806(g)(2), (3), Oct. 4, 1976, 90 Stat. 1605, 1606, as amended by Pub. L. 95–600, title III, § 368(a), Nov. 6, 1978, 92 Stat. 2857; Pub. L. 95–615, § 8, Nov. 8, 1978, 92 Stat. 3098; Pub. L. 96–167, § 9(e), Dec. 29, 1979, 93 Stat. 1279; Pub. L. 97–119, title I, § 111, Dec. 29, 1981, 95 Stat. 1640; Pub. L. 98–369, div. A, title I, § 62(a), July 18, 1984, 98 Stat. 583, which provided an effective date for the amendments made by section 806(e), (f) of Pub. L. 94–455 for purposes of applying sections 382(a) and 383 (as it relates to section 382(a)) of this title, was repealed by Pub. L. 99–514, title VI, § 621(e)(2), (f)(2), Oct. 22, 1986, 100 Stat. 2266, eff. Jan. 1, 1986.
+Pub. L. 94–455, title VIII, § 806(g)(2), (3), Oct. 4, 1976, 90 Stat. 1605, 1606, as amended by Pub. L. 95–600, title III, § 368(a), Nov. 6, 1978, 92 Stat. 2857; Pub. L. 95–615, § 8, Nov. 8, 1978, 92 Stat. 3098; Pub. L. 96–167, § 9(e), Dec. 29, 1979, 93 Stat. 1279; Pub. L. 97–119, title I, § 111, Dec. 29, 1981, 95 Stat. 1640; Pub. L. 98–369, div. A, title I, § 62(a), July 18, 1984, 98 Stat. 583, which provided an effective date for the amendments made by section 806(e), (f) of Pub. L. 94–455 for purposes of applying sections 382(a) and 383 (as it relates to section 382(a)) of this title, was repealed by Pub. L. 99–514, title VI, § 621(e)(2), (f)(2), Oct. 22, 1986, 100 Stat. 2266, eff. Jan. 1, 1986.
 
 **Effective Date of 1964 Amendment**
 
@@ -7429,11 +7429,11 @@ Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes 
 
 **Delay in Effective Date of 1976 Amendment**
 
-Pub. L. 95–600, title III, § 368, Nov. 6, 1978, 92 Stat. 2857, provided for delaying the effective date established by section 806(g)(2), (3) of Pub. L. 94–455, formerly set out above, by substituting “1980” for “1978”, with certain elections.
+Pub. L. 95–600, title III, § 368, Nov. 6, 1978, 92 Stat. 2857, provided for delaying the effective date established by section 806(g)(2), (3) of Pub. L. 94–455, formerly set out above, by substituting “1980” for “1978”, with certain elections.
 
 **Clarification of Regulations Related to Limitations on Certain Built-In Losses Following an Ownership Change**
 
-Pub. L. 111–5, div. B, title I, § 1261, Feb. 17, 2009, 123 Stat. 342, provided that:
+Pub. L. 111–5, div. B, title I, § 1261, Feb. 17, 2009, 123 Stat. 342, provided that:
 
 > **“(a) Findings.—** Congress finds as follows:
 
@@ -7461,9 +7461,9 @@ Pub. L. 111–5, div. B, title I, § 1261, Feb. 17, 2009, 123 Stat. 342, provi
 
 **Report on Depreciation and Built-In Deductions; Report on Bankruptcy Workouts**
 
-Pub. L. 99–514, title VI, § 621(d), Oct. 22, 1986, 100 Stat. 2266, directed Secretary of the Treasury or his delegate to, not later than Jan. 1, 1989, conduct a study and report to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate with respect to treatment of depreciation, amortization, depletion, and other built-in deductions for purposes of sections 382 and 383 of this title, and, not later than Jan. 1, 1988, conduct a study and report to committees referred to above with respect to treatment of informal bankruptcy workouts for purposes of sections 108 and 382 of this title, prior to repeal by Pub. L. 101–508, title XI, § 11832(3), Nov. 5, 1990, 104 Stat. 1388–559.
+Pub. L. 99–514, title VI, § 621(d), Oct. 22, 1986, 100 Stat. 2266, directed Secretary of the Treasury or his delegate to, not later than Jan. 1, 1989, conduct a study and report to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate with respect to treatment of depreciation, amortization, depletion, and other built-in deductions for purposes of sections 382 and 383 of this title, and, not later than Jan. 1, 1988, conduct a study and report to committees referred to above with respect to treatment of informal bankruptcy workouts for purposes of sections 108 and 382 of this title, prior to repeal by Pub. L. 101–508, title XI, § 11832(3), Nov. 5, 1990, 104 Stat. 1388–559.
 
-### § 383. Special limitations on certain excess credits, etc.
+### § 383. Special limitations on certain excess credits, etc.
 
 **(a) Excess credits**
 
@@ -7493,13 +7493,13 @@ For purposes of this section, rules similar to the rules of subsections (b)(3) a
 
 Terms used in this section shall have the same respective meanings as when used in section 382, except that appropriate adjustments shall be made to take into account that the limitations of this section apply to credits and net capital losses.
 
-(Added Pub. L. 92–178, title III, § 302(a), Dec. 10, 1971, 85 Stat. 521; amended Pub. L. 94–455, title VIII, § 806(f)(2), title X, § 1031(b)(5), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1605, 1623, 1834; Pub. L. 95–30, title II, § 202(d)(3)(B), (C), May 23, 1977, 91 Stat. 148; Pub. L. 96–222, title I, § 103(a)(6)(G)(xiii), Apr. 1, 1980, 94 Stat. 211; Pub. L. 96–223, title II, § 232(b)(2)(C), (D), Apr. 2, 1980, 94 Stat. 276; Pub. L. 97–34, title II, § 221(b)(1)(C), (D), title III, § 331(d)(1)(C), (D), Aug. 13, 1981, 95 Stat. 246, 294; Pub. L. 98–369, div. A, title IV, § 474(r)(12)(A), (B), July 18, 1984, 98 Stat. 841; Pub. L. 99–514, title VI, § 621(b), (e)(1), Oct. 22, 1986, 100 Stat. 2265, 2266.)
+(Added Pub. L. 92–178, title III, § 302(a), Dec. 10, 1971, 85 Stat. 521; amended Pub. L. 94–455, title VIII, § 806(f)(2), title X, § 1031(b)(5), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1605, 1623, 1834; Pub. L. 95–30, title II, § 202(d)(3)(B), (C), May 23, 1977, 91 Stat. 148; Pub. L. 96–222, title I, § 103(a)(6)(G)(xiii), Apr. 1, 1980, 94 Stat. 211; Pub. L. 96–223, title II, § 232(b)(2)(C), (D), Apr. 2, 1980, 94 Stat. 276; Pub. L. 97–34, title II, § 221(b)(1)(C), (D), title III, § 331(d)(1)(C), (D), Aug. 13, 1981, 95 Stat. 246, 294; Pub. L. 98–369, div. A, title IV, § 474(r)(12)(A), (B), July 18, 1984, 98 Stat. 841; Pub. L. 99–514, title VI, § 621(b), (e)(1), Oct. 22, 1986, 100 Stat. 2265, 2266.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1986—Pub. L. 99–514, § 621(b), amended section generally. Prior to amendment, section read as follows: “If—
+1986—Pub. L. 99–514, § 621(b), amended section generally. Prior to amendment, section read as follows: “If—
 
 “(1) the ownership and business of a corporation are changed in the manner described in section 382(a)(1), or
 
@@ -7507,45 +7507,45 @@ Terms used in this section shall have the same respective meanings as when used 
 
 then the limitations provided in section 382 in such cases with respect to the carryover of net operating losses shall apply in the same manner, as provided under regulations prescribed by the Secretary, with respect to any unused business credit of the corporation which can otherwise be carried forward under section 39, to any unused credit of the corporation which could otherwise be carried forward under section 30(g)(2), to any excess foreign taxes of the corporation which could otherwise be carried forward under section 904(c), and to any net capital loss of the corporation which can otherwise be carried forward under section 1212.”
 
-Pub. L. 99–514, § 621(e)(1), repealed amendment by Pub. L. 94–455, § 806(f)(2). See 1976 Amendment note below.
+Pub. L. 99–514, § 621(e)(1), repealed amendment by Pub. L. 94–455, § 806(f)(2). See 1976 Amendment note below.
 
-1984—Pub. L. 98–369, § 474(r)(12)(A)(ii), in catchline of section 383, as in effect prior to amendment by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, substituted “Special limitations on unused business credits, research credits, foreign taxes, and capital losses” for “Special limitations on carryovers of unused investment credits, work incentive program credits, new employee credits, alcohol fuel credits, research credits, employee stock ownership credits, foreign taxes, and capital losses”.
+1984—Pub. L. 98–369, § 474(r)(12)(A)(ii), in catchline of section 383, as in effect prior to amendment by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, substituted “Special limitations on unused business credits, research credits, foreign taxes, and capital losses” for “Special limitations on carryovers of unused investment credits, work incentive program credits, new employee credits, alcohol fuel credits, research credits, employee stock ownership credits, foreign taxes, and capital losses”.
 
-Pub. L. 98–369, § 474(r)(12)(B)(ii), in catchline of section 383, as amended by Pub. L. 94–455, § 806(f)(2), as related to section 382(b) of this title, substituted “business credits, research credits” for “investment credits, work incentive program credits”.
+Pub. L. 98–369, § 474(r)(12)(B)(ii), in catchline of section 383, as amended by Pub. L. 94–455, § 806(f)(2), as related to section 382(b) of this title, substituted “business credits, research credits” for “investment credits, work incentive program credits”.
 
-Pub. L. 98–369, § 474(r)(12)(B)(ii), in catchline of section 383, as amended by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, substituted “business credits” for “investment credits” and struck out references to work incentive program credits, new employee credits, alcohol fuel credits, and employee stock ownership credits.
+Pub. L. 98–369, § 474(r)(12)(B)(ii), in catchline of section 383, as amended by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, substituted “business credits” for “investment credits” and struck out references to work incentive program credits, new employee credits, alcohol fuel credits, and employee stock ownership credits.
 
-Pub. L. 98–369, § 474(r)(12)(A)(i), in section 383, as in effect prior to amendment by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, substituted “with respect to any unused business credit of the corporation which can otherwise be carried forward under section 39, to any unused credit of the corporation which could otherwise be carried forward under section 30(g)(2), to any excess foreign taxes of the corporation which could otherwise be carried forward under section 904(c), and to any net capital loss of the corporation which can otherwise be carried forward under section 1212” for “with respect to any unused investment credit of the corporation which can otherwise be carried forward under section 46(b), to any unused work incentive program credit of the corporation which can otherwise be carried forward under section 50A(b), to any unused new employee credit of the corporation which could otherwise be carried forward under section 53(b), to any unused credit of the corporation which could otherwise be carried forward under section 44E(e)(2), to any unused credit of the corporation which could otherwise be carried forward under section 44F(g)(2), to any unused credit of the corporation which could otherwise be carried forward under section 44G(b)(2), to any excess foreign taxes of the corporation which can otherwise be carried forward under section 904(c), and to any net capital loss of the corporation which can otherwise be carried forward under section 1212”.
+Pub. L. 98–369, § 474(r)(12)(A)(i), in section 383, as in effect prior to amendment by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, substituted “with respect to any unused business credit of the corporation which can otherwise be carried forward under section 39, to any unused credit of the corporation which could otherwise be carried forward under section 30(g)(2), to any excess foreign taxes of the corporation which could otherwise be carried forward under section 904(c), and to any net capital loss of the corporation which can otherwise be carried forward under section 1212” for “with respect to any unused investment credit of the corporation which can otherwise be carried forward under section 46(b), to any unused work incentive program credit of the corporation which can otherwise be carried forward under section 50A(b), to any unused new employee credit of the corporation which could otherwise be carried forward under section 53(b), to any unused credit of the corporation which could otherwise be carried forward under section 44E(e)(2), to any unused credit of the corporation which could otherwise be carried forward under section 44F(g)(2), to any unused credit of the corporation which could otherwise be carried forward under section 44G(b)(2), to any excess foreign taxes of the corporation which can otherwise be carried forward under section 904(c), and to any net capital loss of the corporation which can otherwise be carried forward under section 1212”.
 
-Pub. L. 98–369, § 474(r)(12)(B)(i), in section 383, as amended by Pub. L. 94–455, § 806(f)(2), as related to section 382(b) of this title, substituted “with respect to any unused business credit of the corporation under section 39, to any unused credit of the corporation under section 30(g)(2), to any excess foreign taxes of the corporation under section 904(c), and to any net capital loss of the corporation under section 1212” for “with respect to any unused investment credit of the corporation under section 46(b), to any unused work incentive program credit of the corporation under section 50A(b), to any excess foreign taxes of the corporation under section 904(c), and to any net capital loss of the corporation under section 1212”.
+Pub. L. 98–369, § 474(r)(12)(B)(i), in section 383, as amended by Pub. L. 94–455, § 806(f)(2), as related to section 382(b) of this title, substituted “with respect to any unused business credit of the corporation under section 39, to any unused credit of the corporation under section 30(g)(2), to any excess foreign taxes of the corporation under section 904(c), and to any net capital loss of the corporation under section 1212” for “with respect to any unused investment credit of the corporation under section 46(b), to any unused work incentive program credit of the corporation under section 50A(b), to any excess foreign taxes of the corporation under section 904(c), and to any net capital loss of the corporation under section 1212”.
 
-Pub. L. 98–369, § 474(r)(12)(B)(i), in section 383, as amended by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, substituted “with respect to any unused business credit of the corporation under section 39, to any unused credit of the corporation under section 30(g)(2), to any excess foreign taxes of the corporation under section 904(c), and to any net capital loss of the corporation under section 1212” for “with respect to any unused investment credit of the corporation under section 46(b), to any unused work incentive program credit of the corporation under section 50A(b), to any unused new employee credit of the corporation under section 53(b), to any unused credit of the corporation under section 44E(e)(2), to any unused credit of the corporation under section 44F(g)(2), to any unused credit of the corporation under section 44G(b)(2), to any excess foreign taxes of the corporation under section 904(c), and to any net capital loss of the corporation under section 1212”.
+Pub. L. 98–369, § 474(r)(12)(B)(i), in section 383, as amended by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, substituted “with respect to any unused business credit of the corporation under section 39, to any unused credit of the corporation under section 30(g)(2), to any excess foreign taxes of the corporation under section 904(c), and to any net capital loss of the corporation under section 1212” for “with respect to any unused investment credit of the corporation under section 46(b), to any unused work incentive program credit of the corporation under section 50A(b), to any unused new employee credit of the corporation under section 53(b), to any unused credit of the corporation under section 44E(e)(2), to any unused credit of the corporation under section 44F(g)(2), to any unused credit of the corporation under section 44G(b)(2), to any excess foreign taxes of the corporation under section 904(c), and to any net capital loss of the corporation under section 1212”.
 
-1981—Pub. L. 97–34, § 331(d)(1)(C)(ii), (D)(ii), in catchlines of sections 383, as related to section 382(a) of this title, before and after amendment by Pub. L. 94–455, § 806(f)(2), inserted reference to employee stock ownership credits.
+1981—Pub. L. 97–34, § 331(d)(1)(C)(ii), (D)(ii), in catchlines of sections 383, as related to section 382(a) of this title, before and after amendment by Pub. L. 94–455, § 806(f)(2), inserted reference to employee stock ownership credits.
 
-Pub. L. 97–34, § 331(d)(1)(D)(i), in section 383, as in effect prior to amendment by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, inserted “to any unused credit of the corporation which could otherwise be carried forward under section 44G(b)(2),”.
+Pub. L. 97–34, § 331(d)(1)(D)(i), in section 383, as in effect prior to amendment by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, inserted “to any unused credit of the corporation which could otherwise be carried forward under section 44G(b)(2),”.
 
-Pub. L. 97–34, § 331(d)(1)(C)(i), in section 383, as amended by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, inserted “to any unused credit of the corporation under section 44G(b)(2),”.
+Pub. L. 97–34, § 331(d)(1)(C)(i), in section 383, as amended by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, inserted “to any unused credit of the corporation under section 44G(b)(2),”.
 
-Pub. L. 97–34, § 221(b)(1)(C)(ii), (D)(ii), in catchlines of sections 383, as related to section 382(a) of this title, before and after amendment by Pub. L. 94–455, § 806(f)(2), inserted reference to research credits.
+Pub. L. 97–34, § 221(b)(1)(C)(ii), (D)(ii), in catchlines of sections 383, as related to section 382(a) of this title, before and after amendment by Pub. L. 94–455, § 806(f)(2), inserted reference to research credits.
 
-Pub. L. 97–34, § 221(b)(1)(D)(i), in section 383, as in effect prior to amendment by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, inserted “to any unused credit of the corporation which could otherwise be carried forward under section 44F(g)(2),” after “section 44E(e)(2),”.
+Pub. L. 97–34, § 221(b)(1)(D)(i), in section 383, as in effect prior to amendment by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, inserted “to any unused credit of the corporation which could otherwise be carried forward under section 44F(g)(2),” after “section 44E(e)(2),”.
 
-Pub. L. 97–34, § 221(b)(1)(C)(i), in section 383, as amended by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, inserted “to any unused credit of the corporation under section 44F(g)(2),” after “section 44E(e)(2),”.
+Pub. L. 97–34, § 221(b)(1)(C)(i), in section 383, as amended by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, inserted “to any unused credit of the corporation under section 44F(g)(2),” after “section 44E(e)(2),”.
 
-1980—Pub. L. 96–223, § 232(b)(2)(D), in section 383, as in effect prior to amendment by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, inserted reference to unused alcohol fuel credits in section catchline and reference to any unused credit of the corporation which could otherwise be carried forward under section 44E(e)(2) in text.
+1980—Pub. L. 96–223, § 232(b)(2)(D), in section 383, as in effect prior to amendment by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, inserted reference to unused alcohol fuel credits in section catchline and reference to any unused credit of the corporation which could otherwise be carried forward under section 44E(e)(2) in text.
 
-Pub. L. 96–223, § 232(b)(2)(C), in section 383, as amended by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, inserted reference to unused alcohol fuel credits in section catchline and reference to any unused credit of the corporation under section 44E(e)(2) in text.
+Pub. L. 96–223, § 232(b)(2)(C), in section 383, as amended by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, inserted reference to unused alcohol fuel credits in section catchline and reference to any unused credit of the corporation under section 44E(e)(2) in text.
 
-Pub. L. 96–222, in sections 383, as related to section 382(a) of this title, before and after amendment by Pub. L. 94–455, § 806(f)(2), substituted “section 53(b)” for “section 53(c)”.
+Pub. L. 96–222, in sections 383, as related to section 382(a) of this title, before and after amendment by Pub. L. 94–455, § 806(f)(2), substituted “section 53(b)” for “section 53(c)”.
 
-1977—Pub. L. 95–30, § 202(d)(3)(C), in section 383, as in effect prior to amendment by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, inserted “to any unused new employee credit of the corporation which could otherwise be carried forward under section 53(c)” in text and “new employee credits,” in catchline.
+1977—Pub. L. 95–30, § 202(d)(3)(C), in section 383, as in effect prior to amendment by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, inserted “to any unused new employee credit of the corporation which could otherwise be carried forward under section 53(c)” in text and “new employee credits,” in catchline.
 
-Pub. L. 95–30, § 202(d)(3)(B), in section 383, as amended by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, inserted “to any unused new employee credit of the corporation under section 53(c)” in text and “new employee credits,” in section catchline.
+Pub. L. 95–30, § 202(d)(3)(B), in section 383, as amended by Pub. L. 94–455, § 806(f)(2), as related to section 382(a) of this title, inserted “to any unused new employee credit of the corporation under section 53(c)” in text and “new employee credits,” in section catchline.
 
-1976—Pub. L. 94–455, §§ 1031(b)(5), 1906(b)(13)(A), struck out “or his delegate” after “Secretary”, and substituted “section 904(c)” for “section 904(d)”, respectively, in section 383 set out first.
+1976—Pub. L. 94–455, §§ 1031(b)(5), 1906(b)(13)(A), struck out “or his delegate” after “Secretary”, and substituted “section 904(c)” for “section 904(d)”, respectively, in section 383 set out first.
 
-Pub. L. 94–455, § 806(f)(2), which substituted, in sections 383 as related to section 382(a) and (b) of this title, provisions that the net operating loss limitations in section 382 shall apply to unused investment credits under section 46(b), to unused work incentive program credits under section 50A(b), to excess foreign taxes under section 904(d) and to net capital losses under section 1212 for provisions that the net operating loss carryover limitations in section 382 shall apply, in the case of ownership changes described in section 382(a)(1) or reorganizations specified in section 381(a)(2) resulting in ownership changes described in section 382(b)(1)(B), to unused investment credits under section 46(b), to unused work incentive program credits under section 50A(B), to excess foreign taxes under section 904(c), and to net capital losses under section 1212, was repealed by Pub. L. 99–514, § 621(e)(1). See Effective Date of 1986 and 1976 Amendment notes below.
+Pub. L. 94–455, § 806(f)(2), which substituted, in sections 383 as related to section 382(a) and (b) of this title, provisions that the net operating loss limitations in section 382 shall apply to unused investment credits under section 46(b), to unused work incentive program credits under section 50A(b), to excess foreign taxes under section 904(d) and to net capital losses under section 1212 for provisions that the net operating loss carryover limitations in section 382 shall apply, in the case of ownership changes described in section 382(a)(1) or reorganizations specified in section 381(a)(2) resulting in ownership changes described in section 382(b)(1)(B), to unused investment credits under section 46(b), to unused work incentive program credits under section 50A(B), to excess foreign taxes under section 904(c), and to net capital losses under section 1212, was repealed by Pub. L. 99–514, § 621(e)(1). See Effective Date of 1986 and 1976 Amendment notes below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7579,13 +7579,13 @@ For purposes of applying this section (as it relates to section 382(a) of this t
 
 **Effective Date**
 
-Pub. L. 92–178, title III, § 302(c), Dec. 10, 1971, 85 Stat. 521, provided that: “The amendments made by this section [enacting this section] shall be applicable only with respect to reorganizations and other changes in ownership occurring after the date of enactment of this Act [Dec. 10, 1971] pursuant to a plan of reorganization or contract entered into on or after September 29, 1971.”
+Pub. L. 92–178, title III, § 302(c), Dec. 10, 1971, 85 Stat. 521, provided that: “The amendments made by this section [enacting this section] shall be applicable only with respect to reorganizations and other changes in ownership occurring after the date of enactment of this Act [Dec. 10, 1971] pursuant to a plan of reorganization or contract entered into on or after September 29, 1971.”
 
 **Delay in Effective Date of 1976 Amendment**
 
 For election by taxpayer for application of prior law with respect to any acquisition or reorganization occurring before the end of the taxpayer’s first taxable year beginning after June 30, 1978, see section 368 of Pub. L. 95–600, set out as a Delay in Effective Date of 1976 Amendment note under section 382 of this title.
 
-### § 384. Limitation on use of preacquisition losses to offset built-in gains
+### § 384. Limitation on use of preacquisition losses to offset built-in gains
 
 **(a) General rule** If—
 
@@ -7705,7 +7705,7 @@ taxable income shall be treated as having been offset 1st by the loss subject to
 
 **(2)** contributions of property to a corporation.
 
-(Added Pub. L. 100–203, title X, § 10226(a), Dec. 22, 1987, 101 Stat. 1330–414; amended Pub. L. 100–647, title II, § 2004(m)(1)–(4), Nov. 10, 1988, 102 Stat. 3606, 3607; Pub. L. 101–239, title VII, § 7812(c)(1), Dec. 19, 1989, 103 Stat. 2412.)
+(Added Pub. L. 100–203, title X, § 10226(a), Dec. 22, 1987, 101 Stat. 1330–414; amended Pub. L. 100–647, title II, § 2004(m)(1)–(4), Nov. 10, 1988, 102 Stat. 3606, 3607; Pub. L. 101–239, title VII, § 7812(c)(1), Dec. 19, 1989, 103 Stat. 2412.)
 
 **Editorial Notes**
 
@@ -7713,9 +7713,9 @@ taxable income shall be treated as having been offset 1st by the loss subject to
 
 1989—Subsec. (e)(1). Pub. L. 101–239 substituted “built-in gain” for “build-in gain”.
 
-1988—Subsec. (a). Pub. L. 100–647, § 2004(m)(1)(A), amended subsec. (a) generally, making changes in substance and structure.
+1988—Subsec. (a). Pub. L. 100–647, § 2004(m)(1)(A), amended subsec. (a) generally, making changes in substance and structure.
 
-Subsec. (b). Pub. L. 100–647, § 2004(m)(3), substituted “corporations under common control” for “50 percent of gain corporation held” in heading and amended text generally. Prior to amendment, text read as follows: “Subsection (a) shall not apply if more than 50 percent of the stock (by vote and value) of the gain corporation was held throughout the 5-year period ending on the acquisition date—
+Subsec. (b). Pub. L. 100–647, § 2004(m)(3), substituted “corporations under common control” for “50 percent of gain corporation held” in heading and amended text generally. Prior to amendment, text read as follows: “Subsection (a) shall not apply if more than 50 percent of the stock (by vote and value) of the gain corporation was held throughout the 5-year period ending on the acquisition date—
 
 “(1) in any case described in subsection (a)(1), by members of the affiliated group referred to in subsection (a)(1), or
 
@@ -7723,13 +7723,13 @@ Subsec. (b). Pub. L. 100–647, § 2004(m)(3), substituted “corporations und
 
 For purposes of the preceding sentence, stock described in section 1504(a)(4) shall not be taken into account.”
 
-Subsec. (c)(1)(A). Pub. L. 100–647, § 2004(m)(1)(D), substituted “subsection (a)(1)(B)” for “subsection (a)(2)”.
+Subsec. (c)(1)(A). Pub. L. 100–647, § 2004(m)(1)(D), substituted “subsection (a)(1)(B)” for “subsection (a)(2)”.
 
-Subsec. (c)(2). Pub. L. 100–647, § 2004(m)(1)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘acquisition date’ means the date on which the gain corporation becomes a member of the affiliated group or, in any case described in subsection (a)(2), the date of the distribution or transfer in the liquidation or reorganization.”
+Subsec. (c)(2). Pub. L. 100–647, § 2004(m)(1)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘acquisition date’ means the date on which the gain corporation becomes a member of the affiliated group or, in any case described in subsection (a)(2), the date of the distribution or transfer in the liquidation or reorganization.”
 
-Subsec. (c)(4) to (8). Pub. L. 100–647, § 2004(m)(1)(B), redesignated par. (4) as (8) and added pars. (4) to (7).
+Subsec. (c)(4) to (8). Pub. L. 100–647, § 2004(m)(1)(B), redesignated par. (4) as (8) and added pars. (4) to (7).
 
-Subsecs. (e), (f). Pub. L. 100–647, § 2004(m)(2), (4), substituted “a corporation” for “the gain corporation” in subsec. (e)(2), redesignated subsec. (e) as (f), and added subsec. (e).
+Subsecs. (e), (f). Pub. L. 100–647, § 2004(m)(2), (4), substituted “a corporation” for “the gain corporation” in subsec. (e)(2), redesignated subsec. (e) as (f), and added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7743,7 +7743,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 **Effective Date**
 
-Pub. L. 100–203, title X, § 10226(c), Dec. 22, 1987, 101 Stat. 1330–416, provided that:
+Pub. L. 100–203, title X, § 10226(c), Dec. 22, 1987, 101 Stat. 1330–416, provided that:
 
 > “The amendments made by this section [enacting this section] shall apply in cases where the acquisition date (as defined in section 384(c)(2) of the Internal Revenue Code of 1986 as added by this section) is after December 15, 1987; except that such amendments shall not apply in the case of any transaction pursuant to—
 
@@ -7753,7 +7753,7 @@ Pub. L. 100–203, title X, § 10226(c), Dec. 22, 1987, 101 Stat. 1330–416, 
 
 **Election To Have Amendments by Pub. L. 100–647 Not Apply**
 
-Pub. L. 100–647, title II, § 2004(m)(5), Nov. 10, 1988, 102 Stat. 3607, provided that: “In any case where the acquisition date (as defined in section 384(c)(2) of the 1986 Code as amended by this subsection) is before March 31, 1988, the acquiring corporation may elect to have the amendments made by this subsection not apply. Such an election shall be made in such manner as the Secretary of the Treasury or his delegate shall prescribe and shall be made not later than the later of the due date (including extensions) for filing the return for the taxable year of the acquiring corporation in which the acquisition date occurs or the date 120 days after the date of the enactment of this Act [Nov. 10, 1989]. Such an election, once made, shall be irrevocable.”
+Pub. L. 100–647, title II, § 2004(m)(5), Nov. 10, 1988, 102 Stat. 3607, provided that: “In any case where the acquisition date (as defined in section 384(c)(2) of the 1986 Code as amended by this subsection) is before March 31, 1988, the acquiring corporation may elect to have the amendments made by this subsection not apply. Such an election shall be made in such manner as the Secretary of the Treasury or his delegate shall prescribe and shall be made not later than the later of the due date (including extensions) for filing the return for the taxable year of the acquiring corporation in which the acquisition date occurs or the date 120 days after the date of the enactment of this Act [Nov. 10, 1989]. Such an election, once made, shall be irrevocable.”
 
 ## PART VI—TREATMENT OF CERTAIN CORPORATE INTERESTS AS STOCK OR INDEBTEDNESS
 
@@ -7761,9 +7761,9 @@ Pub. L. 100–647, title II, § 2004(m)(5), Nov. 10, 1988, 102 Stat. 3607, pro
 
 **Amendments**
 
-1969—Pub. L. 91–172, title IV, § 415(a), Dec. 30, 1969, 83 Stat. 613, added part heading and analysis of sections.
+1969—Pub. L. 91–172, title IV, § 415(a), Dec. 30, 1969, 83 Stat. 613, added part heading and analysis of sections.
 
-### § 385. Treatment of certain interests in corporations as stock or indebtedness
+### § 385. Treatment of certain interests in corporations as stock or indebtedness
 
 **(a) Authority to prescribe regulations**
 
@@ -7795,7 +7795,7 @@ Except as provided in regulations, paragraph (1) shall not apply to any holder o
 
 The Secretary is authorized to require such information as the Secretary determines to be necessary to carry out the provisions of this subsection.
 
-(Added Pub. L. 91–172, title IV, § 415(a), Dec. 30, 1969, 83 Stat. 613; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 101–239, title VII, § 7208(a)(1), Dec. 19, 1989, 103 Stat. 2337; Pub. L. 102–486, title XIX, § 1936(a), Oct. 24, 1992, 106 Stat. 3032.)
+(Added Pub. L. 91–172, title IV, § 415(a), Dec. 30, 1969, 83 Stat. 613; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 101–239, title VII, § 7208(a)(1), Dec. 19, 1989, 103 Stat. 2337; Pub. L. 102–486, title XIX, § 1936(a), Oct. 24, 1992, 106 Stat. 3032.)
 
 **Editorial Notes**
 
@@ -7811,17 +7811,17 @@ The Secretary is authorized to require such information as the Secretary determi
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–486, title XIX, § 1936(b), Oct. 24, 1992, 106 Stat. 3032, provided that: “The amendment made by subsection (a) [amending this section] shall apply to instruments issued after the date of the enactment of this Act [Oct. 24, 1992].”
+Pub. L. 102–486, title XIX, § 1936(b), Oct. 24, 1992, 106 Stat. 3032, provided that: “The amendment made by subsection (a) [amending this section] shall apply to instruments issued after the date of the enactment of this Act [Oct. 24, 1992].”
 
 **Regulations Not To Be Applied Retroactively**
 
-Pub. L. 101–239, title VII, § 7208(a)(2), Dec. 19, 1989, 103 Stat. 2337, provided that: “Any regulations issued pursuant to the authority granted by the amendment made by paragraph (1) [amending this section] shall only apply with respect to instruments issued after the date on which the Secretary of the Treasury or his delegate provides public guidance as to the characterization of such instruments whether by regulation, ruling, or otherwise.”
+Pub. L. 101–239, title VII, § 7208(a)(2), Dec. 19, 1989, 103 Stat. 2337, provided that: “Any regulations issued pursuant to the authority granted by the amendment made by paragraph (1) [amending this section] shall only apply with respect to instruments issued after the date on which the Secretary of the Treasury or his delegate provides public guidance as to the characterization of such instruments whether by regulation, ruling, or otherwise.”
 
 ## [PART VII—REPEALED]
 
-### [§ 386. Repealed. Pub. L. 100–647, title I, § 1006(e)(8)(A), Nov. 10, 1988, 102 Stat. 3401]
+### [§ 386. Repealed. Pub. L. 100–647, title I, § 1006(e)(8)(A), Nov. 10, 1988, 102 Stat. 3401]
 
-Section, added Pub. L. 98–369, div. A, title I, § 75(a), July 18, 1984, 98 Stat. 594; amended Pub. L. 99–514, title XVIII, § 1805(c)(1), Oct. 22, 1986, 100 Stat. 2810, related to transfers of partnership and trust interests by corporations.
+Section, added Pub. L. 98–369, div. A, title I, § 75(a), July 18, 1984, 98 Stat. 594; amended Pub. L. 99–514, title XVIII, § 1805(c)(1), Oct. 22, 1986, 100 Stat. 2810, related to transfers of partnership and trust interests by corporations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7829,9 +7829,9 @@ Section, added Pub. L. 98–369, div. A, title I, § 75(a), July 18, 1984, 98 
 
 Repeal effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under section 1 of this title.
 
-### [§§ 391 to 395. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(55), Oct. 4, 1976, 90 Stat. 1773]
+### [§§ 391 to 395. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(55), Oct. 4, 1976, 90 Stat. 1773]
 
-Section 391, acts Aug. 16, 1954, ch. 736, 68A Stat. 131; Sept. 2, 1958, Pub. L. 85–866, title I, § 22(a), 72 Stat. 1620, related to effective date of section 301 et seq. of this title.
+Section 391, acts Aug. 16, 1954, ch. 736, 68A Stat. 131; Sept. 2, 1958, Pub. L. 85–866, title I, § 22(a), 72 Stat. 1620, related to effective date of section 301 et seq. of this title.
 
 Section 392, act Aug. 16, 1954, ch. 736, 68A Stat. 131, related to effective date of section 331 et seq. of this title.
 

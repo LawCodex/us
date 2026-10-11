@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 15—GIFTS AND BEQUESTS FROM EXPATRIATES
 
-## § 2801. Imposition of tax
+## § 2801. Imposition of tax
 
 **(a) In general** If, during any calendar year, any United States citizen or resident receives any covered gift or bequest, there is hereby imposed a tax equal to the product of—
 
@@ -79,7 +79,7 @@ Solely for purposes of this section, a foreign trust may elect to be treated as 
 
 For purposes of this section, the term “covered expatriate” has the meaning given to such term by section 877A(g)(1).
 
-(Added Pub. L. 110–245, title III, § 301(b)(1), June 17, 2008, 122 Stat. 1644; amended Pub. L. 113–295, div. A, title II, § 206(b)(1), Dec. 19, 2014, 128 Stat. 4027.)
+(Added Pub. L. 110–245, title III, § 301(b)(1), June 17, 2008, 122 Stat. 1644; amended Pub. L. 113–295, div. A, title II, § 206(b)(1), Dec. 19, 2014, 128 Stat. 4027.)
 
 **Editorial Notes**
 
@@ -95,7 +95,7 @@ Amendment by Pub. L. 113–295 effective as if included in the provisions of the
 
 **Effective Date**
 
-Pub. L. 110–245, title III, § 301(g), June 17, 2008, 122 Stat. 1647, provided that:
+Pub. L. 110–245, title III, § 301(g), June 17, 2008, 122 Stat. 1647, provided that:
 
 > **“(1) In general.—** Except as provided in this subsection, the amendments made by this section [enacting this chapter and section 877A of this title and amending sections 877, 6039G, and 7701 of this title] shall apply to any individual whose expatriation date (as so defined) is on or after the date of the enactment of this Act [June 17, 2008].
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 89A—ENHANCED DENTAL BENEFITS
 
-## § 8951. Definitions
+## § 8951. Definitions
 
 In this chapter:
 
@@ -35,21 +35,21 @@ In this chapter:
 
 **(8)** The term “covered TRICARE-eligible individual” means an individual entitled to dental care under chapter 55 of title 10, pursuant to section 1076c of such title, who the Secretary of Defense determines should be an eligible individual for purposes of this chapter.
 
-(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4001; amended Pub. L. 109–356, title I, § 117(a)(1), Oct. 16, 2006, 120 Stat. 2027; Pub. L. 114–328, div. A, title VII, § 715(a)(1), Dec. 23, 2016, 130 Stat. 2221; Pub. L. 115–232, div. A, title VII, § 713(a), Aug. 13, 2018, 132 Stat. 1811; Pub. L. 116–283, div. A, title VII, § 711(a), (c), Jan. 1, 2021, 134 Stat. 3691.)
+(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4001; amended Pub. L. 109–356, title I, § 117(a)(1), Oct. 16, 2006, 120 Stat. 2027; Pub. L. 114–328, div. A, title VII, § 715(a)(1), Dec. 23, 2016, 130 Stat. 2221; Pub. L. 115–232, div. A, title VII, § 713(a), Aug. 13, 2018, 132 Stat. 1811; Pub. L. 116–283, div. A, title VII, § 711(a), (c), Jan. 1, 2021, 134 Stat. 3691.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Par. (8). Pub. L. 116–283, § 711(c), repealed Pub. L. 115–232, § 713(a). See 2018 Amendment note below.
+2021—Par. (8). Pub. L. 116–283, § 711(c), repealed Pub. L. 115–232, § 713(a). See 2018 Amendment note below.
 
-Pub. L. 116–283, § 711(a), struck out “1076a or” before “1076c”.
+Pub. L. 116–283, § 711(a), struck out “1076a or” before “1076c”.
 
-2018—Par. (8). Pub. L. 115–232, § 713(a), which substituted “1076a or 1076c” for “1076c”, was repealed by Pub. L. 116–283, § 711(c).
+2018—Par. (8). Pub. L. 115–232, § 713(a), which substituted “1076a or 1076c” for “1076c”, was repealed by Pub. L. 116–283, § 711(c).
 
-2016—Par. (3). Pub. L. 114–328, § 715(a)(1)(A), substituted “paragraph (1), (2), or (8)” for “paragraph (1) or (2)”.
+2016—Par. (3). Pub. L. 114–328, § 715(a)(1)(A), substituted “paragraph (1), (2), or (8)” for “paragraph (1) or (2)”.
 
-Par. (8). Pub. L. 114–328, § 715(a)(1)(B), added par. (8).
+Par. (8). Pub. L. 114–328, § 715(a)(1)(B), added par. (8).
 
 2006—Par. (1). Pub. L. 109–356, which directed insertion of “and an employee of the District of Columbia courts” at end of par. (1), was executed by making the insertion before the period to reflect the probable intent of Congress.
 
@@ -57,17 +57,17 @@ Par. (8). Pub. L. 114–328, § 715(a)(1)(B), added par. (8).
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–232, div. A, title VII, § 713(c), Aug. 13, 2018, 132 Stat. 1812, which provided that the amendments made by this section (amending this section and section 1076a of Title 10, Armed Forces) applied with respect to the first contract year for chapter 89A of title 5, United States Code, that began on or after January 1, 2022, was repealed by Pub. L. 116–283, div. A, title VII, § 711(c), Jan. 1, 2021, 134 Stat. 3691.
+Pub. L. 115–232, div. A, title VII, § 713(c), Aug. 13, 2018, 132 Stat. 1812, which provided that the amendments made by this section (amending this section and section 1076a of Title 10, Armed Forces) applied with respect to the first contract year for chapter 89A of title 5, United States Code, that began on or after January 1, 2022, was repealed by Pub. L. 116–283, div. A, title VII, § 711(c), Jan. 1, 2021, 134 Stat. 3691.
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title VII, § 715(c), Dec. 23, 2016, 130 Stat. 2223, provided that: “The amendments made by this section [amending this section, sections 8958, 8981, and 8988 of this title and section 1076c of Title 10, Armed Forces] shall apply with respect to the first contract year for chapter 89A or 89B of title 5, United States Code, as applicable, that begins on or after January 1, 2018.”
+Pub. L. 114–328, div. A, title VII, § 715(c), Dec. 23, 2016, 130 Stat. 2223, provided that: “The amendments made by this section [amending this section, sections 8958, 8981, and 8988 of this title and section 1076c of Title 10, Armed Forces] shall apply with respect to the first contract year for chapter 89A or 89B of title 5, United States Code, as applicable, that begins on or after January 1, 2018.”
 
 **Effective Date**
 
-Pub. L. 108–496, § 7, Dec. 23, 2004, 118 Stat. 4011, provided that: “The amendments made by this Act [enacting this chapter and chapter 89B of this title, amending section 1005 of Title 39, Postal Service, and enacting provisions set out as a note under section 101 of this title] shall take effect on the date of enactment of this Act [Dec. 23, 2004] and shall apply to contracts that take effect with respect to the calendar year 2006.”
+Pub. L. 108–496, § 7, Dec. 23, 2004, 118 Stat. 4011, provided that: “The amendments made by this Act [enacting this chapter and chapter 89B of this title, amending section 1005 of Title 39, Postal Service, and enacting provisions set out as a note under section 101 of this title] shall take effect on the date of enactment of this Act [Dec. 23, 2004] and shall apply to contracts that take effect with respect to the calendar year 2006.”
 
-## § 8952. Availability of dental benefits
+## § 8952. Availability of dental benefits
 
 **(a)** The Office shall establish and administer a program through which an eligible individual may obtain dental coverage to supplement coverage available through chapter 89.
 
@@ -75,7 +75,7 @@ Pub. L. 108–496, § 7, Dec. 23, 2004, 118 Stat. 4011, provided that: “The 
 
 **(c)** Nothing in this chapter shall be construed to prohibit the availability of dental benefits provided by health benefits plans under chapter 89.
 
-(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4002.)
+(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4002.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -83,7 +83,7 @@ Pub. L. 108–496, § 7, Dec. 23, 2004, 118 Stat. 4011, provided that: “The 
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8953. Contracting authority
+## § 8953. Contracting authority
 
 **(a)**
 
@@ -115,27 +115,27 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 **(2)** A determination by a qualified company as to whether or not a particular individual is eligible to obtain coverage under this chapter shall be subject to review only to the extent and in the manner provided in the applicable contract.
 
-**(3)** For purposes of applying the Contract Disputes Act of 1978 1
+**(3)** For purposes of applying the Contract Disputes Act of 1978 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 to disputes arising under this chapter between a qualified company and the Office—
 
-**(A)** the agency board having jurisdiction to decide an appeal relative to such a dispute shall be such board of contract appeals as the Director of the Office of Personnel Management shall specify in writing (after appropriate arrangements, as described in section 8(c) <sup>1</sup> of such Act); and
+**(A)** the agency board having jurisdiction to decide an appeal relative to such a dispute shall be such board of contract appeals as the Director of the Office of Personnel Management shall specify in writing (after appropriate arrangements, as described in section 8(c) <sup>1</sup> of such Act); and
 
-**(B)** the district courts of the United States shall have original jurisdiction, concurrent with the United States Court of Federal Claims, of any action described in section 10(a)(1) <sup>1</sup> of such Act relative to such a dispute.
+**(B)** the district courts of the United States shall have original jurisdiction, concurrent with the United States Court of Federal Claims, of any action described in section 10(a)(1) <sup>1</sup> of such Act relative to such a dispute.
 
 **(e)** Nothing in this section shall be considered to grant authority for the Office or third-party reviewer to change the terms of any contract under this chapter.
 
 **(f)** Contracts under this chapter shall be for a uniform term of 7 years and may not be renewed automatically.
 
-(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4002; amended Pub. L. 111–350, § 5(a)(16), Jan. 4, 2011, 124 Stat. 3842.)
+(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4002; amended Pub. L. 111–350, § 5(a)(16), Jan. 4, 2011, 124 Stat. 3842.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Contract Disputes Act of 1978, referred to in subsec. (d)(3), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, which was classified principally to chapter 9 (§ 601 et seq.) of former Title 41, Public Contracts, and was substantially repealed and restated as chapter 71 (§ 7101 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Sections 8(c) and 10(a)(1) of the Act, which were classified to sections 607(c) and 609(a)(1), respectively, of former Title 41, were repealed and restated as section 7105(d), (e)(1)(C) and section 7104(b)(1), respectively, of Title 41. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+The Contract Disputes Act of 1978, referred to in subsec. (d)(3), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, which was classified principally to chapter 9 (§ 601 et seq.) of former Title 41, Public Contracts, and was substantially repealed and restated as chapter 71 (§ 7101 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Sections 8(c) and 10(a)(1) of the Act, which were classified to sections 607(c) and 609(a)(1), respectively, of former Title 41, were repealed and restated as section 7105(d), (e)(1)(C) and section 7104(b)(1), respectively, of Title 41. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 **Amendments**
 
@@ -147,7 +147,7 @@ The Contract Disputes Act of 1978, referred to in subsec. (d)(3), is Pub. L. 95�
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8954. Benefits
+## § 8954. Benefits
 
 **(a)** The Office may prescribe reasonable minimum standards for enhanced dental benefits plans offered under this chapter and for qualified companies offering the plans.
 
@@ -177,7 +177,7 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 **(e)** If an individual has dental coverage under a health benefits plan under chapter 89 and also has coverage under a plan under this chapter, the health benefits plan under chapter 89 shall be the first payor of any benefit payments.
 
-(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4003.)
+(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4003.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -185,17 +185,17 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8955. Information to individuals eligible to enroll
+## § 8955. Information to individuals eligible to enroll
 
-**(a)** The qualified companies 1
+**(a)** The qualified companies 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 at the direction and with the approval of the Office, shall make available to each individual eligible to enroll in a dental benefits plan information on services and benefits (including maximums, limitations, and exclusions), that the Office considers necessary to enable the individual to make an informed decision about electing coverage.
 
 **(b)** The Office shall make available to each individual eligible to enroll in a dental benefits plan, information on services and benefits provided by qualified companies participating under chapter 89.
 
-(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4004.)
+(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4004.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -203,7 +203,7 @@ at the direction and with the approval of the Office, shall make available to ea
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8956. Election of coverage
+## § 8956. Election of coverage
 
 **(a)** An eligible individual may enroll in a dental benefits plan for self-only, self plus one, or for self and family. If an eligible individual has a spouse who is also eligible to enroll, either spouse, but not both, may enroll for self plus one or self and family. An individual may not be enrolled both as an employee, annuitant, or other individual eligible to enroll and as a member of the family.
 
@@ -225,7 +225,7 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 **(d)** Coverage under a dental benefits plan under this chapter for any employee or a covered TRICARE-eligible individual enrolled in such a plan and who, as a result of a lapse in appropriations, is furloughed or excepted from furlough and working without pay shall continue during such lapse and may not be cancelled as a result of nonpayment of premiums or other periodic charges due to such lapse.
 
-(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4004; amended Pub. L. 116–92, div. A, title XI, § 1111(a)(1), Dec. 20, 2019, 133 Stat. 1600.)
+(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4004; amended Pub. L. 116–92, div. A, title XI, § 1111(a)(1), Dec. 20, 2019, 133 Stat. 1600.)
 
 **Editorial Notes**
 
@@ -237,7 +237,7 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title XI, § 1111(c), Dec. 20, 2019, 133 Stat. 1601, provided that: “The amendments made by subsection (a) [amending this section and sections 8986 and 9003 of this title] shall apply to any contract for supplemental dental, supplemental vision, or long-term care insurance under chapter 89A, 89B, or 90 (respectively) of title 5, United States Code, entered into before, on, or after the date of enactment of this Act [Dec. 20, 2019].”
+Pub. L. 116–92, div. A, title XI, § 1111(c), Dec. 20, 2019, 133 Stat. 1601, provided that: “The amendments made by subsection (a) [amending this section and sections 8986 and 9003 of this title] shall apply to any contract for supplemental dental, supplemental vision, or long-term care insurance under chapter 89A, 89B, or 90 (respectively) of title 5, United States Code, entered into before, on, or after the date of enactment of this Act [Dec. 20, 2019].”
 
 **Effective Date**
 
@@ -245,17 +245,17 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 **Regulations**
 
-Pub. L. 116–92, div. A, title XI, § 1111(b), Dec. 20, 2019, 133 Stat. 1601, provided that:
+Pub. L. 116–92, div. A, title XI, § 1111(b), Dec. 20, 2019, 133 Stat. 1601, provided that:
 
 > **“(1) In general.—** Consistent with paragraph (2), the Director of the Office of Personnel Management shall prescribe regulations under which premiums for supplemental dental, supplemental vision, or long-term care insurance under chapter 89A, 89B, or 90 (respectively) of title 5, United States Code, (as amended by subsection (a)) that are unpaid by an employee, a covered TRICARE-eligible individual, or a member of the uniformed services (as the case may be), as a result of that employee, covered TRICARE-eligible individual, or member being furloughed or excepted from furlough and working without pay as a result of a lapse in appropriations, are paid to the applicable carrier from back pay made available to the employee or member as soon as practicable upon the end of such lapse.
 
 > **“(2) Long-term care premiums from source other than backpay.—** The regulations promulgated under paragraph (1) for the amendments made by subsection (a)(3) [amending section 9003 of this title] may provide, with respect to any individual who elected under section 9004(d) of title 5, United States Code, to pay premiums directly to the carrier, that such individual may continue to pay premiums pursuant to such election instead of from back pay made available to such individual.”
 
-## § 8957. Coverage of restored survivor or disability annuitants
+## § 8957. Coverage of restored survivor or disability annuitants
 
 A surviving spouse, disability annuitant, or surviving child whose annuity is terminated and is later restored, may continue enrollment in a dental benefits plan subject to the terms and conditions prescribed in regulations issued by the Office.
 
-(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4004.)
+(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4004.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -263,7 +263,7 @@ A surviving spouse, disability annuitant, or surviving child whose annuity is te
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8958. Premiums
+## § 8958. Premiums
 
 **(a)** Each eligible individual obtaining supplemental dental coverage under this chapter shall be responsible for 100 percent of the premiums for such coverage.
 
@@ -297,7 +297,7 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 **(B)** A contract under this chapter shall include appropriate provisions under which the qualified company involved shall, during each year, make such periodic contributions to the Dental Benefits Administrative Account as necessary to ensure that the reasonable anticipated expenses of the Office in administering this chapter during such year are defrayed.
 
-(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4004; amended Pub. L. 114–328, div. A, title VII, § 715(b)(1), Dec. 23, 2016, 130 Stat. 2222.)
+(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4004; amended Pub. L. 114–328, div. A, title VII, § 715(b)(1), Dec. 23, 2016, 130 Stat. 2222.)
 
 **Editorial Notes**
 
@@ -315,11 +315,11 @@ Amendment by Pub. L. 114–328 applicable with respect to the first contract yea
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8959. Preemption
+## § 8959. Preemption
 
 The terms of any contract that relate to the nature, provision, or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to dental benefits, insurance, plans, or contracts.
 
-(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4005.)
+(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4005.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -327,7 +327,7 @@ The terms of any contract that relate to the nature, provision, or extent of cov
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8960. Studies, reports, and audits
+## § 8960. Studies, reports, and audits
 
 **(a)** Each contract shall contain provisions requiring the qualified company to—
 
@@ -339,7 +339,7 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 **(c)** The Office shall conduct periodic reviews of plans under this chapter, including a comparison of the dental benefits available under chapter 89, to ensure the competitiveness of plans under this chapter. The Office shall cooperate with the Government Accountability Office to provide periodic evaluations of the program.
 
-(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4005.)
+(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4005.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -347,11 +347,11 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8961. Jurisdiction of courts
+## § 8961. Jurisdiction of courts
 
 The district courts of the United States have original jurisdiction, concurrent with the United States Court of Federal Claims, of a civil action or claim against the United States under this chapter after such administrative remedies as required under section 8953(d) have been exhausted, but only to the extent judicial review is not precluded by any dispute resolution or other remedy under this chapter.
 
-(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4005.)
+(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4005.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -359,13 +359,13 @@ The district courts of the United States have original jurisdiction, concurrent 
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8962. Administrative functions
+## § 8962. Administrative functions
 
 **(a)** The Office shall prescribe regulations to carry out this chapter. The regulations may exclude an employee on the basis of the nature and type of employment or conditions pertaining to it.
 
 **(b)** The Office shall, as appropriate, provide for coordinated enrollment, promotion, and education efforts as appropriate in consultation with each qualified company. The information under this subsection shall include information relating to the dental benefits available under chapter 89, including the advantages and disadvantages of obtaining additional coverage under this chapter.
 
-(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4006.)
+(Added Pub. L. 108–496, § 2, Dec. 23, 2004, 118 Stat. 4006.)
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -19,51 +19,51 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(f)(2), Dec. 27, 2021, 135 Stat. 2139, struck out item 2784 “Management of purchase cards”.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(f)(2), Dec. 27, 2021, 135 Stat. 2139, struck out item 2784 “Management of purchase cards”.
 
-2011—Pub. L. 111–383, div. A, title III, § 355(b), Jan. 7, 2011, 124 Stat. 4197, added item 2790.
+2011—Pub. L. 111–383, div. A, title III, § 355(b), Jan. 7, 2011, 124 Stat. 4197, added item 2790.
 
-2008—Pub. L. 110–181, div. A, title III, § 375(b), Jan. 28, 2008, 122 Stat. 83, added items 2788 and 2789.
+2008—Pub. L. 110–181, div. A, title III, § 375(b), Jan. 28, 2008, 122 Stat. 83, added items 2788 and 2789.
 
-2006—Pub. L. 109–364, div. A, title X, § 1053(a)(2), Oct. 17, 2006, 120 Stat. 2396, added item 2773b.
+2006—Pub. L. 109–364, div. A, title X, § 1053(a)(2), Oct. 17, 2006, 120 Stat. 2396, added item 2773b.
 
-2002—Pub. L. 107–314, div. A, title X, §§ 1005(b), 1006(a)(2), 1007(b)(2), 1008(b), Dec. 2, 2002, 116 Stat. 2632–2635, substituted “purchase” for “credit” in item 2784 and added items 2773a, 2784a, and 2787.
+2002—Pub. L. 107–314, div. A, title X, §§ 1005(b), 1006(a)(2), 1007(b)(2), 1008(b), Dec. 2, 2002, 116 Stat. 2632–2635, substituted “purchase” for “credit” in item 2784 and added items 2773a, 2784a, and 2787.
 
-1999—Pub. L. 106–65, div. A, title IX, § 933(a)(2), title X, § 1008(a)(2), Oct. 5, 1999, 113 Stat. 730, 738, added items 2784 to 2786.
+1999—Pub. L. 106–65, div. A, title IX, § 933(a)(2), title X, § 1008(a)(2), Oct. 5, 1999, 113 Stat. 730, 738, added items 2784 to 2786.
 
-1996—Pub. L. 104–316, title I, § 105(d), Oct. 19, 1996, 110 Stat. 3830, struck out item 2778 “Accounts of the military departments”.
+1996—Pub. L. 104–316, title I, § 105(d), Oct. 19, 1996, 110 Stat. 3830, struck out item 2778 “Accounts of the military departments”.
 
-Pub. L. 104–106, div. B, title XXVIII, § 2821(b), Feb. 10, 1996, 110 Stat. 556, added item 2782.
+Pub. L. 104–106, div. B, title XXVIII, § 2821(b), Feb. 10, 1996, 110 Stat. 556, added item 2782.
 
-1993—Pub. L. 103–160, div. A, title XI, § 1182(a)(8)(C), Nov. 30, 1993, 107 Stat. 1771, added item 2783.
+1993—Pub. L. 103–160, div. A, title XI, § 1182(a)(8)(C), Nov. 30, 1993, 107 Stat. 1771, added item 2783.
 
-1990—Pub. L. 101–510, div. A, title XIV, § 1405(c)(2), title XV, § 1533(a)(4)(B), Nov. 5, 1990, 104 Stat. 1680, 1734, substituted “Retirement Home” for “retirement homes” in item 2772 and struck out item 2782 “Unobligated balances withdrawn from availability for obligation: limitations on restoration”.
+1990—Pub. L. 101–510, div. A, title XIV, § 1405(c)(2), title XV, § 1533(a)(4)(B), Nov. 5, 1990, 104 Stat. 1680, 1734, substituted “Retirement Home” for “retirement homes” in item 2772 and struck out item 2782 “Unobligated balances withdrawn from availability for obligation: limitations on restoration”.
 
-1989—Pub. L. 101–189, div. A, title III, § 342(a)(2), title XVI, § 1603(a)(2), Nov. 29, 1989, 103 Stat. 1420, 1598, added items 2772 and 2782.
+1989—Pub. L. 101–189, div. A, title III, § 342(a)(2), title XVI, § 1603(a)(2), Nov. 29, 1989, 103 Stat. 1420, 1598, added items 2772 and 2782.
 
-1988—Pub. L. 100–370, § 1(m)(2), July 19, 1988, 102 Stat. 850, added item 2781.
+1988—Pub. L. 100–370, § 1(m)(2), July 19, 1988, 102 Stat. 850, added item 2781.
 
-1987—Pub. L. 100–26, § 7(j)(7)(C), Apr. 21, 1987, 101 Stat. 283, substituted “allowances and of” for “allowances, and” in item 2774.
+1987—Pub. L. 100–26, § 7(j)(7)(C), Apr. 21, 1987, 101 Stat. 283, substituted “allowances and of” for “allowances, and” in item 2774.
 
-1986—Pub. L. 99–661, div. A, title XIII, § 1309(b), Nov. 14, 1986, 100 Stat. 3983, added item 2780.
+1986—Pub. L. 99–661, div. A, title XIII, § 1309(b), Nov. 14, 1986, 100 Stat. 3983, added item 2780.
 
-1985—Pub. L. 99–224, § 2(b), Dec. 28, 1985, 99 Stat. 1742, substituted “and” for “other than” in item 2774.
+1985—Pub. L. 99–224, § 2(b), Dec. 28, 1985, 99 Stat. 1742, substituted “and” for “other than” in item 2774.
 
-Pub. L. 99–167, title VIII, § 802(d)(2), Dec. 3, 1985, 99 Stat. 987, substituted “assigned to military housing” for “for damage to housing and related equipment and furnishings” in item 2775.
+Pub. L. 99–167, title VIII, § 802(d)(2), Dec. 3, 1985, 99 Stat. 987, substituted “assigned to military housing” for “for damage to housing and related equipment and furnishings” in item 2775.
 
-1984—Pub. L. 98–407, title VIII, § 801(a)(2), Aug. 28, 1984, 98 Stat. 1518, substituted “members for damage to housing and related equipment and furnishings” for “member for damages to family housing, equipment, and furnishings” in item 2775.
+1984—Pub. L. 98–407, title VIII, § 801(a)(2), Aug. 28, 1984, 98 Stat. 1518, substituted “members for damage to housing and related equipment and furnishings” for “member for damages to family housing, equipment, and furnishings” in item 2775.
 
-1982—Pub. L. 97–258, § 2(b)(7)(A), (8)(A), Sept. 13, 1982, 96 Stat. 1054, substituted “Designation, powers, and accountability of deputy disbursing officials” for “Accountability for public money: disbursing officers; agent officers” in item 2773 and added items 2776, 2777, 2778, and 2779.
+1982—Pub. L. 97–258, § 2(b)(7)(A), (8)(A), Sept. 13, 1982, 96 Stat. 1054, substituted “Designation, powers, and accountability of deputy disbursing officials” for “Accountability for public money: disbursing officers; agent officers” in item 2773 and added items 2776, 2777, 2778, and 2779.
 
-1980—Pub. L. 96–513, title V, § 511(96), Dec. 12, 1980, 94 Stat. 2928, struck out item 2772 “Withholding pay of officers”.
+1980—Pub. L. 96–513, title V, § 511(96), Dec. 12, 1980, 94 Stat. 2928, struck out item 2772 “Withholding pay of officers”.
 
-Pub. L. 96–418, title V, § 506(b), Oct. 10, 1980, 94 Stat. 1766, added item 2775.
+Pub. L. 96–418, title V, § 506(b), Oct. 10, 1980, 94 Stat. 1766, added item 2775.
 
-1972—Pub. L. 92–453, § 1(2), Oct. 2, 1972, 86 Stat. 759, added item 2774.
+1972—Pub. L. 92–453, § 1(2), Oct. 2, 1972, 86 Stat. 759, added item 2774.
 
-1962—Pub. L. 87–480, § 1(1)(B), June 8, 1962, 76 Stat. 94, added item 2773.
+1962—Pub. L. 87–480, § 1(1)(B), June 8, 1962, 76 Stat. 94, added item 2773.
 
-## § 2771. Final settlement of accounts: deceased members
+## § 2771. Final settlement of accounts: deceased members
 
 **(a)** In the settlement of the accounts of a deceased member of the armed forces, an amount due from the armed force of which he was a member shall be paid to the person highest on the following list living on the date of death:
 
@@ -85,7 +85,7 @@ Pub. L. 96–418, title V, § 506(b), Oct. 10, 1980, 94 Stat. 1766, added item
 
 **(d)** A payment under this section bars recovery by any other person of the amount paid.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 155; Pub. L. 85–861, § 1(56), Sept. 2, 1958, 72 Stat. 1461; Pub. L. 86–641, July 12, 1960, 74 Stat. 473; Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, § 511(97), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 103–160, div. A, title XI, § 1182(a)(11), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 104–316, title II, § 202(f), Oct. 19, 1996, 110 Stat. 3842.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 155; Pub. L. 85–861, § 1(56), Sept. 2, 1958, 72 Stat. 1461; Pub. L. 86–641, July 12, 1960, 74 Stat. 473; Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, § 511(97), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 103–160, div. A, title XI, § 1182(a)(11), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 104–316, title II, § 202(f), Oct. 19, 1996, 110 Stat. 3842.)
 
 **Historical and Revision Notes**
 
@@ -93,8 +93,8 @@ Pub. L. 96–418, title V, § 506(b), Oct. 10, 1980, 94 Stat. 1766, added item
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2771(a)   2771(b) | 10:868 (less proviso). 34:941a (less proviso). 10:868 (proviso). 34:941a (proviso). | June 30, 1906, ch. 3914, § 1 (last par. under “State or Territorial Homes for Disabled Soldiers and Sailors”); restated Dec. 7, 1944, ch. 519; restated Feb. 25, 1946, ch. 35, § 4, 60 Stat. 30. |
-|  |  | Feb. 25, 1946, ch. 35, § 1, 60 Stat. 30; Aug. 4, 1949, ch. 393, § 18, 63 Stat. 560. |
+| 2771(a) 2771(b) | 10:868 (less proviso). 34:941a (less proviso). 10:868 (proviso). 34:941a (proviso). | June 30, 1906, ch. 3914, § 1 (last par. under “State or Territorial Homes for Disabled Soldiers and Sailors”); restated Dec. 7, 1944, ch. 519; restated Feb. 25, 1946, ch. 35, § 4, 60 Stat. 30. |
+|  |  | Feb. 25, 1946, ch. 35, § 1, 60 Stat. 30; Aug. 4, 1949, ch. 393, § 18, 63 Stat. 560. |
 
 In subsections (a) and (b), the words “General Accounting Office” are substituted for the words “accounting officers”, for clarity.
 
@@ -106,8 +106,8 @@ In subsection (b), the words “That this section shall not be so construed as t
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2771(a)     2771(b) | 37:361. 37:362. 37:365. 37:364 (less proviso). | July 12, 1955, ch. 328, §§ 1–3, 4 (less proviso), 5 (first sentence), 69 Stat. 295, 296. |
-| 2771(c)   2771(d) | 37:363 (less last sentence). 37:363 (last sentence). |  |
+| 2771(a) 2771(b) | 37:361. 37:362. 37:365. 37:364 (less proviso). | July 12, 1955, ch. 328, §§ 1–3, 4 (less proviso), 5 (first sentence), 69 Stat. 295, 296. |
+| 2771(c) 2771(d) | 37:363 (less last sentence). 37:363 (last sentence). |  |
 
 In subsection (a), the definition of the term “Department”, in 37:361, is omitted as unnecessary, since the particular departments referred to are spelled out in the revised text. The definition of the term “uniformed services”, in 37:361, is omitted as covered by the word “member” in this revised section and by sections 3 and 4 of the Act enacting this revised section. Clauses (1)–(6) are substituted for the last 5 clauses of 37:362. The words “regulations to be prescribed by the Secretary concerned” are substituted for the words “regulations of the Department concerned”, since the “Department”, as such, cannot issue regulations.
 
@@ -127,13 +127,13 @@ In subsection (c), the word “Under” is substituted for the words “Subject 
 
 “(2) as otherwise authorized by the Comptroller General.”
 
-1993—Subsec. (a). Pub. L. 103–160, § 1182(a)(11)(A), struck out “who dies after December 31, 1955” after “armed forces” in introductory provisions.
+1993—Subsec. (a). Pub. L. 103–160, § 1182(a)(11)(A), struck out “who dies after December 31, 1955” after “armed forces” in introductory provisions.
 
-Subsec. (b). Pub. L. 103–160, § 1182(a)(11)(B), substituted “for the uniformed services” for “for the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service”.
+Subsec. (b). Pub. L. 103–160, § 1182(a)(11)(B), substituted “for the uniformed services” for “for the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service”.
 
-1980—Subsec. (b). Pub. L. 96–513, § 511(97)(A), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+1980—Subsec. (b). Pub. L. 96–513, § 511(97)(A), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-Subsec. (c). Pub. L. 96–513, § 511(97)(B), substituted “Department of Transportation” for “Department of the Treasury”.
+Subsec. (c). Pub. L. 96–513, § 511(97)(B), substituted “Department of Transportation” for “Department of the Treasury”.
 
 1966—Subsec. (b). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
@@ -153,15 +153,15 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Repeals**
 
-The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
+The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
 
 **Final Settlement of Accounts of Members Who Died Before January 1, 1960**
 
-Pub. L. 85–861, § 29, Sept. 2, 1958, 72 Stat. 1563, authorized the General Accounting Office, in the settlement of the accounts of a member of the Army, Navy, Air Force, or Marine Corps who died before Jan. 1, 1956, to allow any amount due to the person highest on a list of persons living on the date of settlement and to provide reimbursement for funeral expenses from the amount due the decedent’s estate.
+Pub. L. 85–861, § 29, Sept. 2, 1958, 72 Stat. 1563, authorized the General Accounting Office, in the settlement of the accounts of a member of the Army, Navy, Air Force, or Marine Corps who died before Jan. 1, 1956, to allow any amount due to the person highest on a list of persons living on the date of settlement and to provide reimbursement for funeral expenses from the amount due the decedent’s estate.
 
-**Designation of Beneficiary Made Before January 1, 1956**
+**Designation of Beneficiary Made Before January 1, 1956**
 
-Pub. L. 85–861, § 31, Sept. 2, 1958, 72 Stat. 1563, provided that: “The designation of a beneficiary made for the purposes of any six months’ death gratuity, including the designation of a person whose right to the gratuity does not depend upon that designation, and received in the military department concerned, the Department of the Treasury, the Department of Commerce, or the Department of Health, Education, and Welfare, as the case may be, before January 1, 1956, is considered as the designation of a beneficiary for the purposes of section 2771 of title 10, United States Code [this section], section 714 of title 32, United States Code, and sections 3 and 4 of this Act [amending section 857a of Title 33, and section 213a of Title 42], in the absence of a designation under one of those sections, unless the member making the designation was missing, missing in action, in the hands of a hostile force, or interned in a foreign country any time after July 11, 1955, and before January 1, 1956.”
+Pub. L. 85–861, § 31, Sept. 2, 1958, 72 Stat. 1563, provided that: “The designation of a beneficiary made for the purposes of any six months’ death gratuity, including the designation of a person whose right to the gratuity does not depend upon that designation, and received in the military department concerned, the Department of the Treasury, the Department of Commerce, or the Department of Health, Education, and Welfare, as the case may be, before January 1, 1956, is considered as the designation of a beneficiary for the purposes of section 2771 of title 10, United States Code [this section], section 714 of title 32, United States Code, and sections 3 and 4 of this Act [amending section 857a of Title 33, and section 213a of Title 42], in the absence of a designation under one of those sections, unless the member making the designation was missing, missing in action, in the hands of a hostile force, or interned in a foreign country any time after July 11, 1955, and before January 1, 1956.”
 
 **Executive Documents**
 
@@ -169,7 +169,7 @@ Pub. L. 85–861, § 31, Sept. 2, 1958, 72 Stat. 1563, provided that: “The d
 
 For transfer of functions of Public Health Service, see note set out under section 802 of this title.
 
-## § 2772. Share of fines and forfeitures to benefit Armed Forces Retirement Home
+## § 2772. Share of fines and forfeitures to benefit Armed Forces Retirement Home
 
 **(a) Deposit Required.—** The Secretary of the military department concerned or, in the case of the Coast Guard, the Commandant shall deposit in the Armed Forces Retirement Home Trust Fund a percentage (determined under subsection (b)) of the following amounts:
 
@@ -179,43 +179,43 @@ For transfer of functions of Public Health Service, see note set out under secti
 
 **(b) Determination of Percentage.—** The Chief Operating Officer of the Armed Forces Retirement Home shall determine, on the basis of the financial needs of the Armed Forces Retirement Home, the percentage of the amounts referred to in subsection (a) to be deposited in the trust fund referred to in such subsection.
 
-(Added Pub. L. 101–189, div. A, title III, § 342(a)(1), Nov. 29, 1989, 103 Stat. 1419; amended Pub. L. 101–510, div. A, title XV, § 1533(a)(3), (4)(A), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 111–281, title II, § 205(b)(1), Oct. 15, 2010, 124 Stat. 2911; Pub. L. 112–81, div. A, title V, § 567(b)(2)(B), Dec. 31, 2011, 125 Stat. 1425.)
+(Added Pub. L. 101–189, div. A, title III, § 342(a)(1), Nov. 29, 1989, 103 Stat. 1419; amended Pub. L. 101–510, div. A, title XV, § 1533(a)(3), (4)(A), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 111–281, title II, § 205(b)(1), Oct. 15, 2010, 124 Stat. 2911; Pub. L. 112–81, div. A, title V, § 567(b)(2)(B), Dec. 31, 2011, 125 Stat. 1425.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2772, act Aug. 10, 1956, ch. 1041, 70A Stat. 156, authorized withholding of pay of officers of the Army, Navy, Air Force, or Marine Corps, and is covered by section 1007 of Title 37, Pay and Allowances of the Uniformed Services, prior to repeal by Pub. L. 87–649, § 14c(3), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962.
+A prior section 2772, act Aug. 10, 1956, ch. 1041, 70A Stat. 156, authorized withholding of pay of officers of the Army, Navy, Air Force, or Marine Corps, and is covered by section 1007 of Title 37, Pay and Allowances of the Uniformed Services, prior to repeal by Pub. L. 87–649, § 14c(3), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962.
 
 **Amendments**
 
 2011—Subsec. (b). Pub. L. 112–81 substituted “Chief Operating Officer of the Armed Forces Retirement Home” for “Armed Forces Retirement Home Board”.
 
-2010—Subsec. (a). Pub. L. 111–281, § 205(b)(1)(A), inserted “or, in the case of the Coast Guard, the Commandant” after “concerned” in introductory provisions.
+2010—Subsec. (a). Pub. L. 111–281, § 205(b)(1)(A), inserted “or, in the case of the Coast Guard, the Commandant” after “concerned” in introductory provisions.
 
-Subsec. (c). Pub. L. 111–281, § 205(b)(1)(B), struck out subsec. (c). Text read as follows: “In this section, the term ‘armed forces’ does not include the Coast Guard when it is not operating as a service in the Navy.”
+Subsec. (c). Pub. L. 111–281, § 205(b)(1)(B), struck out subsec. (c). Text read as follows: “In this section, the term ‘armed forces’ does not include the Coast Guard when it is not operating as a service in the Navy.”
 
-1990—Pub. L. 101–510, § 1533(a)(4)(A), substituted “Retirement Home” for “retirement homes” in section catchline and amended text generally, substituting subsecs. (a) to (c) relating to shares of fines and forfeitures to benefit the Armed Forces Retirement Home for former subsecs. (a) and (b) relating to shares of fines and forfeitures to benefit the Soldiers’ Home and the Naval Home.
+1990—Pub. L. 101–510, § 1533(a)(4)(A), substituted “Retirement Home” for “retirement homes” in section catchline and amended text generally, substituting subsecs. (a) to (c) relating to shares of fines and forfeitures to benefit the Armed Forces Retirement Home for former subsecs. (a) and (b) relating to shares of fines and forfeitures to benefit the Soldiers’ Home and the Naval Home.
 
-Pub. L. 101–510, § 1533(a)(3), inserted “and forfeitures” after “fines” in subsecs. (a)(1)(A) and (b)(1)(A) and substituted “, warrant officer, or limited duty officer” for “or warrant officer” wherever appearing.
+Pub. L. 101–510, § 1533(a)(3), inserted “and forfeitures” after “fines” in subsecs. (a)(1)(A) and (b)(1)(A) and substituted “, warrant officer, or limited duty officer” for “or warrant officer” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–510, div. A, title XV, § 1533(a)(3), Nov. 5, 1990, 104 Stat. 1733, provided that the amendment by that section was effective Nov. 5, 1990, prior to repeal by Pub. L. 107–107, div. A, title XIV, § 1409, Dec. 28, 2001, 115 Stat. 1265.
+Pub. L. 101–510, div. A, title XV, § 1533(a)(3), Nov. 5, 1990, 104 Stat. 1733, provided that the amendment by that section was effective Nov. 5, 1990, prior to repeal by Pub. L. 107–107, div. A, title XIV, § 1409, Dec. 28, 2001, 115 Stat. 1265.
 
 Amendment by section 1533(a)(4)(A) of Pub. L. 101–510 effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, formerly set out as an Effective Date note under section 401 of Title 24, Hospitals and Asylums.
 
 **Effective Date**
 
-Pub. L. 101–189, div. A, title III, § 342(b), Nov. 29, 1989, 103 Stat. 1420, provided that:
+Pub. L. 101–189, div. A, title III, § 342(b), Nov. 29, 1989, 103 Stat. 1420, provided that:
 
 > **“(1)** Subsection (a) of section 2772 of such title [10 U.S.C. 2772(a)], as added by subsection (a), shall apply with respect to fines and forfeitures adjudged after the date of the enactment of this Act [Nov. 29, 1989].
 
 > **“(2)** Subsection (b) of such section shall apply with respect to fines and forfeitures adjudged after May 31, 1990.”
 
-## § 2773. Designation, powers, and accountability of deputy disbursing officials
+## § 2773. Designation, powers, and accountability of deputy disbursing officials
 
 **(a)**
 
@@ -237,7 +237,7 @@ Pub. L. 101–189, div. A, title III, § 342(b), Nov. 29, 1989, 103 Stat. 1420
 
 **(2)** The deputy disbursing official, and not the former disbursing official or the estate of the former disbursing official, is liable for the actions of the deputy disbursing official under this subsection.
 
-(Added Pub. L. 87–480, § 1(1)(A), June 8, 1962, 76 Stat. 94; amended Pub. L. 97–258, § 2(b)(7)(B), Sept. 13, 1982, 96 Stat. 1054; Pub. L. 104–106, div. A, title IX, § 913(a)(2), Feb. 10, 1996, 110 Stat. 410.)
+(Added Pub. L. 87–480, § 1(1)(A), June 8, 1962, 76 Stat. 94; amended Pub. L. 97–258, § 2(b)(7)(B), Sept. 13, 1982, 96 Stat. 1054; Pub. L. 104–106, div. A, title IX, § 913(a)(2), Feb. 10, 1996, 110 Stat. 410.)
 
 **Historical and Revision Notes**
 
@@ -246,32 +246,32 @@ Pub. L. 101–189, div. A, title III, § 342(b), Nov. 29, 1989, 103 Stat. 1420
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 2773(a) | 10:2773. |  |
-|  | 31:103a. | July 3, 1926, ch. 775, 44 Stat. 888; June 6, 1972, Pub. L. 92–310, § 231(bb), 86 Stat. 212. |
-| 2773(b) | 31:103b. | July 31, 1953, ch. 300, 67 Stat. 296; June 6, 1972, Pub. L. 92–310, § 231(ff), 86 Stat. 213. |
+|  | 31:103a. | July 3, 1926, ch. 775, 44 Stat. 888; June 6, 1972, Pub. L. 92–310, § 231(bb), 86 Stat. 212. |
+| 2773(b) | 31:103b. | July 31, 1953, ch. 300, 67 Stat. 296; June 6, 1972, Pub. L. 92–310, § 231(ff), 86 Stat. 213. |
 
 In the section, the words “disbursing official” are substituted for “disbursing officer” for consistency with other titles of the United States Code. The words “Secretary of the Treasury” are substituted for “Treasurer of the United States” because of section 1(a) of Reorganization Plan No. 26 of 1950 (eff. July 31, 1950, 64 Stat. 1280), restated as section 321 of the revised title contained in section 1 of the bill. The text of 10:2773 is omitted as being superseded by 31:103a and 103b.
 
-In subsection (a)(1), before clause (A), the words “With the approval of a Secretary of a military department when the Secretary considers it necessary” are substituted for “When, in the opinion of the Secretary of the Army, Navy, or Air Force, the exigencies of the service so require . . . with the approval of the head of their executive department” in 31:103a because of 10:101(7), to eliminate unnecessary words, and for consistency. The title of Secretary of War was changed to Secretary of the Army by section 205(a) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501), and by sections 1 and 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 157, 676). The Secretary of the Air Force is included because of sections 205(a) and 207(a) and (f) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501, 502), and section 1 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 488). The words “deputy disbursing official” are substituted for “deputies” for clarity. In clause (A), the words “to make payments” are substituted for “for the purpose of having them make disbursements” to eliminate unnecessary words. In clause (C), the words “to be performed by such disbursing officers” are omitted as unnecessary.
+In subsection (a)(1), before clause (A), the words “With the approval of a Secretary of a military department when the Secretary considers it necessary” are substituted for “When, in the opinion of the Secretary of the Army, Navy, or Air Force, the exigencies of the service so require . . . with the approval of the head of their executive department” in 31:103a because of 10:101(7), to eliminate unnecessary words, and for consistency. The title of Secretary of War was changed to Secretary of the Army by section 205(a) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501), and by sections 1 and 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 157, 676). The Secretary of the Air Force is included because of sections 205(a) and 207(a) and (f) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501, 502), and section 1 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 488). The words “deputy disbursing official” are substituted for “deputies” for clarity. In clause (A), the words “to make payments” are substituted for “for the purpose of having them make disbursements” to eliminate unnecessary words. In clause (C), the words “to be performed by such disbursing officers” are omitted as unnecessary.
 
 In subsection (a)(2), the words “deputy disbursing official” are substituted for “agent officer” for clarity and consistency.
 
 In subsection (b)(1), the word “disabled” is substituted for “incapacity” for consistency in the title. The word “until” is substituted for “for a period of time not to extend beyond” to eliminate unnecessary words.
 
-In subsection (b)(2), the words “The deputy disbursing official, and not the former disbursing official or the estate of the former disbursing official” are substituted for “The former disbursing officer or his estate . . . but the deputy disbursing officer shall be responsible therefor” for clarity and because of the restatement. The word “liable” is substituted for “subject to any legal liability or penalty” to eliminate unnecessary words. The word “actions” is substituted for “official acts and defaults”. The words “in the name or in the place of the former disbursing officer” are omitted as unnecessary.
+In subsection (b)(2), the words “The deputy disbursing official, and not the former disbursing official or the estate of the former disbursing official” are substituted for “The former disbursing officer or his estate . . . but the deputy disbursing officer shall be responsible therefor” for clarity and because of the restatement. The word “liable” is substituted for “subject to any legal liability or penalty” to eliminate unnecessary words. The word “actions” is substituted for “official acts and defaults”. The words “in the name or in the place of the former disbursing officer” are omitted as unnecessary.
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a)(1). Pub. L. 104–106, § 913(a)(2)(A)(i), substituted “Subject to paragraph (3), a disbursing official of the Department of Defense” for “With the approval of a Secretary of a military department when the Secretary considers it necessary, a disbursing official of the military department”.
+1996—Subsec. (a)(1). Pub. L. 104–106, § 913(a)(2)(A)(i), substituted “Subject to paragraph (3), a disbursing official of the Department of Defense” for “With the approval of a Secretary of a military department when the Secretary considers it necessary, a disbursing official of the military department”.
 
-Subsec. (a)(3). Pub. L. 104–106, § 913(a)(2)(A)(ii), added par. (3).
+Subsec. (a)(3). Pub. L. 104–106, § 913(a)(2)(A)(ii), added par. (3).
 
-Subsec. (b)(1). Pub. L. 104–106, § 913(a)(2)(B), substituted “the Department of Defense” for “any military department”.
+Subsec. (b)(1). Pub. L. 104–106, § 913(a)(2)(B), substituted “the Department of Defense” for “any military department”.
 
 1982—Pub. L. 97–258 substituted provisions authorizing a disbursing official of a military department to designate a deputy disbursing official with the same duties and penalties for misconduct as those of the disbursing official and allowing a deputy disbursing official to continue the accounts and payments in the name of a former disbursing official for two months after the death, disability, or separation of the former disbursing official for provisions authorizing any officer of an armed force accountable for public money to entrust it to another officer of an armed force to make disbursement as his agent, with both officers pecuniarily responsible to the United States for that money.
 
-## § 2773a. Departmental accountable officials
+## § 2773a. Departmental accountable officials
 
 **(a) Designation by Secretary of Defense.—** The Secretary of Defense may designate any civilian employee of the Department of Defense or member of the armed forces under the Secretary’s jurisdiction who is described in subsection (b) as an employee or member who, in addition to any other potential accountability, may be held accountable through personal monetary liability for an illegal, improper, or incorrect payment made by the Department of Defense described in subsection (c). Any such designation shall be in writing. Any employee or member who is so designated may be referred to as a “departmental accountable official”.
 
@@ -295,7 +295,7 @@ Subsec. (b)(1). Pub. L. 104–106, § 913(a)(2)(B), substituted “the Departm
 
 **(d) Certifying Official Defined.—** In this section, the term “certifying official” means an employee who has the responsibilities specified in section 3528(a) of title 31.
 
-(Added Pub. L. 107–314, div. A, title X, § 1005(a), Dec. 2, 2002, 116 Stat. 2631; amended Pub. L. 109–163, div. A, title X, § 1056(c)(8), Jan. 6, 2006, 119 Stat. 3440.)
+(Added Pub. L. 107–314, div. A, title X, § 1005(a), Dec. 2, 2002, 116 Stat. 2631; amended Pub. L. 109–163, div. A, title X, § 1056(c)(8), Jan. 6, 2006, 119 Stat. 3440.)
 
 **Editorial Notes**
 
@@ -303,25 +303,25 @@ Subsec. (b)(1). Pub. L. 104–106, § 913(a)(2)(B), substituted “the Departm
 
 2006—Subsec. (a). Pub. L. 109–163 inserted “by” after “incorrect payment made”.
 
-## § 2773b. Parking of funds: prohibition; penalties
+## § 2773b. Parking of funds: prohibition; penalties
 
 **(a) Prohibition.—** An officer or employee of the Department of Defense may not direct the designation of funds for a particular purpose in the budget of the President, as submitted to Congress pursuant to section 1105 of title 31, or the supporting documents of the Department of Defense component of such budget, with the knowledge or intent that such funds, if made available to the Department, will not be used for the purpose for which they are designated.
 
 **(b) Penalties.—** The direction of the designation of funds in violation of the prohibition in subsection (a) shall be treated for purposes of chapter 13 of title 31 as a violation of section 1341(a)(1)(A) of such title.
 
-(Added Pub. L. 109–364, div. A, title X, § 1053(a)(1), Oct. 17, 2006, 120 Stat. 2396.)
+(Added Pub. L. 109–364, div. A, title X, § 1053(a)(1), Oct. 17, 2006, 120 Stat. 2396.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 109–364, div. A, title X, § 1053(b), Oct. 17, 2006, 120 Stat. 2396, provided that:
+Pub. L. 109–364, div. A, title X, § 1053(b), Oct. 17, 2006, 120 Stat. 2396, provided that:
 
 > **“(1) In general.—** The amendments made by subsection (a) [enacting this section] shall take effect on the date that is 31 days after the date of the enactment of this Act [Oct. 17, 2006].
 
 > **“(2) Modification of certain policies and regulations.—** Not later than 30 days after the date of the enactment of this Act [Oct. 17, 2006], the Secretary of Defense shall modify the policies and regulations of the Department of Defense regarding the preparation and submittal to Congress of budget materials for the Department of Defense to take into account section 2773b of title 10, United States Code, as added by subsection (a).”
 
-## § 2774. Claims for overpayment of pay and allowances and of travel and transportation allowances
+## § 2774. Claims for overpayment of pay and allowances and of travel and transportation allowances
 
 **(a)** A claim of the United States against a person arising out of an erroneous payment of any pay or allowances made before, on, or after October 2, 1972, or arising out of an erroneous payment of travel and transportation allowances, to or on behalf of a member or former member of the uniformed services, the collection of which would be against equity and good conscience and not in the best interest of the United States, may be waived in whole or in part by—
 
@@ -347,31 +347,31 @@ Pub. L. 109–364, div. A, title X, § 1053(b), Oct. 17, 2006, 120 Stat. 2396,
 
 **(f)** This section does not affect any authority under any other law to litigate, settle, compromise, or waive any claim of the United States.
 
-(Added Pub. L. 92–453, § 1(1), Oct. 2, 1972, 86 Stat. 758; amended Pub. L. 96–513, title V, § 511(98), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 99–224, § 2(a), Dec. 28, 1985, 99 Stat. 1741; Pub. L. 100–26, § 7(j)(7)(A), (B), Apr. 21, 1987, 101 Stat. 283; Pub. L. 102–190, div. A, title VI, § 657(b), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, § 105(b), Oct. 19, 1996, 110 Stat. 3830; Pub. L. 109–364, div. A, title VI, § 671(a), Oct. 17, 2006, 120 Stat. 2270.)
+(Added Pub. L. 92–453, § 1(1), Oct. 2, 1972, 86 Stat. 758; amended Pub. L. 96–513, title V, § 511(98), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 99–224, § 2(a), Dec. 28, 1985, 99 Stat. 1741; Pub. L. 100–26, § 7(j)(7)(A), (B), Apr. 21, 1987, 101 Stat. 283; Pub. L. 102–190, div. A, title VI, § 657(b), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, § 105(b), Oct. 19, 1996, 110 Stat. 3830; Pub. L. 109–364, div. A, title VI, § 671(a), Oct. 17, 2006, 120 Stat. 2270.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (a)(2)(A). Pub. L. 109–364, § 671(a)(1), substituted “$10,000” for “$1,500”.
+2006—Subsec. (a)(2)(A). Pub. L. 109–364, § 671(a)(1), substituted “$10,000” for “$1,500”.
 
-Subsec. (b)(2). Pub. L. 109–364, § 671(a)(2), substituted “five years” for “three years”.
+Subsec. (b)(2). Pub. L. 109–364, § 671(a)(2), substituted “five years” for “three years”.
 
-1996—Subsec. (a). Pub. L. 104–316, § 105(b)(1), substituted “Director of the Office of Management and Budget” for “Comptroller General” in par. (1), and in par. (2) inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B) and substituted “Director of the Office of Management and Budget” for “Comptroller General”, and struck out former subpar. (B) which read as follows “the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official; and”.
+1996—Subsec. (a). Pub. L. 104–316, § 105(b)(1), substituted “Director of the Office of Management and Budget” for “Comptroller General” in par. (1), and in par. (2) inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B) and substituted “Director of the Office of Management and Budget” for “Comptroller General”, and struck out former subpar. (B) which read as follows “the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official; and”.
 
-Subsec. (b). Pub. L. 104–316, § 105(b)(2), substituted “Director of the Office of Management and Budget” for “Comptroller General”.
+Subsec. (b). Pub. L. 104–316, § 105(b)(2), substituted “Director of the Office of Management and Budget” for “Comptroller General”.
 
 1991—Subsec. (a)(2)(A). Pub. L. 102–190 substituted “$1,500” for “$500”.
 
-1987—Pub. L. 100–26, § 7(j)(7)(A), substituted “allowances and of” for “allowances, and” in section catchline.
+1987—Pub. L. 100–26, § 7(j)(7)(A), substituted “allowances and of” for “allowances, and” in section catchline.
 
-Subsec. (a). Pub. L. 100–26, § 7(j)(7)(B), struck out “as defined in section 101(3) of title 37,” after “uniformed services,”.
+Subsec. (a). Pub. L. 100–26, § 7(j)(7)(B), struck out “as defined in section 101(3) of title 37,” after “uniformed services,”.
 
-1985—Pub. L. 99–224, § 2(a)(1), substituted “and” for “other than” in section catchline.
+1985—Pub. L. 99–224, § 2(a)(1), substituted “and” for “other than” in section catchline.
 
-Subsec. (a). Pub. L. 99–224, § 2(a)(2), substituted “made before, on, or after October 2, 1972, or arising out of an erroneous payment of travel and transportation allowances” for “, other than travel and transportation allowances, made before or after October 2, 1972”.
+Subsec. (a). Pub. L. 99–224, § 2(a)(2), substituted “made before, on, or after October 2, 1972, or arising out of an erroneous payment of travel and transportation allowances” for “, other than travel and transportation allowances, made before or after October 2, 1972”.
 
-Subsec. (b)(2). Pub. L. 99–224, § 2(a)(3), struck out “of pay or allowances, other than travel and transportation allowances,” after “payment”.
+Subsec. (b)(2). Pub. L. 99–224, § 2(a)(3), struck out “of pay or allowances, other than travel and transportation allowances,” after “payment”.
 
 1980—Subsec. (a). Pub. L. 96–513 substituted “October 2, 1972” for “the effective date of this section”.
 
@@ -379,7 +379,7 @@ Subsec. (b)(2). Pub. L. 99–224, § 2(a)(3), struck out “of pay or allowanc
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title VI, § 671(c), Oct. 17, 2006, 120 Stat. 2270, provided that: “The amendments made by this section [amending this section and section 716 of Title 32, National Guard] shall take effect on March 1, 2007.”
+Pub. L. 109–364, div. A, title VI, § 671(c), Oct. 17, 2006, 120 Stat. 2270, provided that: “The amendments made by this section [amending this section and section 716 of Title 32, National Guard] shall take effect on March 1, 2007.”
 
 **Effective Date of 1996 Amendment**
 
@@ -395,19 +395,19 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Cancellation of Debts Up To $2,500 of Uniformed Service Members Incurred in Connection With Operation Desert Shield/Storm**
 
-Pub. L. 104–61, title VIII, § 8052, Dec. 1, 1995, 109 Stat. 662, provided that: “Notwithstanding any other provision of law, the Secretary of Defense may, when he considers it in the best interest of the United States, cancel any part of an indebtedness, up to $2,500, that is or was owed to the United States by a member or former member of a uniformed service if such indebtedness, as determined by the Secretary, was incurred in connection with Operation Desert Shield/Storm: *Provided*, That the amount of an indebtedness previously paid by a member or former member and cancelled under this section shall be refunded to the member.”
+Pub. L. 104–61, title VIII, § 8052, Dec. 1, 1995, 109 Stat. 662, provided that: “Notwithstanding any other provision of law, the Secretary of Defense may, when he considers it in the best interest of the United States, cancel any part of an indebtedness, up to $2,500, that is or was owed to the United States by a member or former member of a uniformed service if such indebtedness, as determined by the Secretary, was incurred in connection with Operation Desert Shield/Storm: *Provided*, That the amount of an indebtedness previously paid by a member or former member and cancelled under this section shall be refunded to the member.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 103–335, title VIII, § 8060, Sept. 30, 1994, 108 Stat. 2633.
+Pub. L. 103–335, title VIII, § 8060, Sept. 30, 1994, 108 Stat. 2633.
 
-Pub. L. 103–139, title VIII, § 8071, Nov. 11, 1993, 107 Stat. 1457.
+Pub. L. 103–139, title VIII, § 8071, Nov. 11, 1993, 107 Stat. 1457.
 
-Pub. L. 102–396, title IX, § 9100, Oct. 6, 1992, 106 Stat. 1926.
+Pub. L. 102–396, title IX, § 9100, Oct. 6, 1992, 106 Stat. 1926.
 
-Pub. L. 102–172, title VIII, § 8138, Nov. 26, 1991, 105 Stat. 1212.
+Pub. L. 102–172, title VIII, § 8138, Nov. 26, 1991, 105 Stat. 1212.
 
-## § 2775. Liability of members assigned to military housing
+## § 2775. Liability of members assigned to military housing
 
 **(a)**
 
@@ -439,7 +439,7 @@ shall be liable to the United States for the cost of cleaning made necessary as 
 
 **(3)** provisions for limitations of liability, the compromise or waiver of claims, and the collection of amounts owed under this section.
 
-(Added Pub. L. 96–418, title V, § 506(a), Oct. 10, 1980, 94 Stat. 1765; amended Pub. L. 97–214, § 10(a)(6), July 12, 1982, 96 Stat. 175; Pub. L. 98–407, title VIII, § 801(a)(1), Aug. 28, 1984, 98 Stat. 1517; Pub. L. 99–167, title VIII, § 802(a)–(d)(1), Dec. 3, 1985, 99 Stat. 986; Pub. L. 99–661, div. A, title XIII, § 1343(a)(19), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 96–418, title V, § 506(a), Oct. 10, 1980, 94 Stat. 1765; amended Pub. L. 97–214, § 10(a)(6), July 12, 1982, 96 Stat. 175; Pub. L. 98–407, title VIII, § 801(a)(1), Aug. 28, 1984, 98 Stat. 1517; Pub. L. 99–167, title VIII, § 802(a)–(d)(1), Dec. 3, 1985, 99 Stat. 986; Pub. L. 99–661, div. A, title XIII, § 1343(a)(19), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
@@ -447,23 +447,23 @@ shall be liable to the United States for the cost of cleaning made necessary as 
 
 2002—Subsecs. (a)(1), (2)(B), (b), (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1986—Subsec. (a)(1). Pub. L. 99–661, § 1343(a)(19)(A), substituted “(as determined under regulations prescribed by the Secretary of Defense or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy) the” for “it is determined, under regulations prescribed by the Secretary of Defense and the Secretary of Transportation when the Coast Guard is not operating as a service in the Navy, that the”.
+1986—Subsec. (a)(1). Pub. L. 99–661, § 1343(a)(19)(A), substituted “(as determined under regulations prescribed by the Secretary of Defense or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy) the” for “it is determined, under regulations prescribed by the Secretary of Defense and the Secretary of Transportation when the Coast Guard is not operating as a service in the Navy, that the”.
 
-Subsec. (b). Pub. L. 99–661, § 1343(a)(19)(B), inserted a comma after “Secretary of Defense”, substituted “with respect to the Coast Guard when it” for “when the Coast Guard”, and inserted a comma after “Navy”.
+Subsec. (b). Pub. L. 99–661, § 1343(a)(19)(B), inserted a comma after “Secretary of Defense”, substituted “with respect to the Coast Guard when it” for “when the Coast Guard”, and inserted a comma after “Navy”.
 
-Subsec. (e). Pub. L. 99–661, § 1343(a)(19)(C), substituted “with respect to the Coast Guard when it” for “when the Coast Guard”.
+Subsec. (e). Pub. L. 99–661, § 1343(a)(19)(C), substituted “with respect to the Coast Guard when it” for “when the Coast Guard”.
 
-1985—Pub. L. 99–167, § 802(d)(1), substituted “assigned to military housing” for “for damage to housing and related equipment and furnishings” in section catchline.
+1985—Pub. L. 99–167, § 802(d)(1), substituted “assigned to military housing” for “for damage to housing and related equipment and furnishings” in section catchline.
 
-Subsec. (a). Pub. L. 99–167, § 802(a), (b)(1), designated existing provisions as par. (1), and in par. (1) as so designated, inserted “and the Secretary of Transportation when the Coast Guard is not operating as a service in the Navy”, and added par. (2).
+Subsec. (a). Pub. L. 99–167, § 802(a), (b)(1), designated existing provisions as par. (1), and in par. (1) as so designated, inserted “and the Secretary of Transportation when the Coast Guard is not operating as a service in the Navy”, and added par. (2).
 
-Subsec. (b). Pub. L. 99–167, § 802(b)(1), (c)(1), inserted “and the Secretary of Transportation when the Coast Guard is not operating as a service in the Navy” and “(in the case of liability under subsection (a)(1))”.
+Subsec. (b). Pub. L. 99–167, § 802(b)(1), (c)(1), inserted “and the Secretary of Transportation when the Coast Guard is not operating as a service in the Navy” and “(in the case of liability under subsection (a)(1))”.
 
-Subsec. (c)(1). Pub. L. 99–167, § 802(c)(2), substituted “subsection (a)(1), or the cost of any cleaning made necessary by a failure to clean satisfactorily a family housing unit referred to in subsection (a)(2),” for “subsection (a)”.
+Subsec. (c)(1). Pub. L. 99–167, § 802(c)(2), substituted “subsection (a)(1), or the cost of any cleaning made necessary by a failure to clean satisfactorily a family housing unit referred to in subsection (a)(2),” for “subsection (a)”.
 
-Subsec. (d). Pub. L. 99–167, § 802(b)(2), (c)(3), inserted “or failure to clean satisfactorily a family housing unit” and “, or the operating expenses account of the Coast Guard, as appropriate”.
+Subsec. (d). Pub. L. 99–167, § 802(b)(2), (c)(3), inserted “or failure to clean satisfactorily a family housing unit” and “, or the operating expenses account of the Coast Guard, as appropriate”.
 
-Subsec. (e). Pub. L. 99–167, § 802(c)(4), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary of Defense shall prescribe regulations to carry out the provisions of this section, including (1) regulations for determining the cost of repairs and replacements made necessary as the result of abuse or negligence referred to in subsection (a), and (2) regulations providing for limitations of liability, the compromise or waiver of claims, and the collection of amounts owed under this section.”
+Subsec. (e). Pub. L. 99–167, § 802(c)(4), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary of Defense shall prescribe regulations to carry out the provisions of this section, including (1) regulations for determining the cost of repairs and replacements made necessary as the result of abuse or negligence referred to in subsection (a), and (2) regulations providing for limitations of liability, the compromise or waiver of claims, and the collection of amounts owed under this section.”
 
 1984—Pub. L. 98–407 substituted “Liability of members for damage to housing and related equipment and furnishings” for “Liability of member for damages to family housing, equipment, and furnishings” in section catchline.
 
@@ -477,7 +477,7 @@ Subsec. (d). Pub. L. 98–407 redesignated former subsec. (c) as (d) and substit
 
 Subsec. (e). Pub. L. 98–407 redesignated former subsec. (d) as (e)(1), substituted reference to abuse or negligence referred to in subsec. (a) for reference to abuse or negligence on the part of a member or dependent of a member, and added par. (2).
 
-1982—Subsec. (c). Pub. L. 97–214, § 10(a)(6), substituted “Military Family Housing Management Account provided for in section 2831 of this title” for “family housing management account established under section 501 of Public Law 87–554 (76 Stat. 236; 42 U.S.C. 1594a–1)”.
+1982—Subsec. (c). Pub. L. 97–214, § 10(a)(6), substituted “Military Family Housing Management Account provided for in section 2831 of this title” for “family housing management account established under section 501 of Public Law 87–554 (76 Stat. 236; 42 U.S.C. 1594a–1)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -495,25 +495,25 @@ Section effective Oct. 1, 1980, see section 608 of title VI of Pub. L. 96–418,
 
 **Promulgation of Regulations and Applicability of 1984 Amendments**
 
-Pub. L. 98–407, title VIII, § 801(b), Aug. 28, 1984, 98 Stat. 1518, provided that:
+Pub. L. 98–407, title VIII, § 801(b), Aug. 28, 1984, 98 Stat. 1518, provided that:
 
 > **“(1)** Regulations shall be prescribed under subsection (e) of section 2775 of title 10, United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act [Aug. 28, 1984]. That section shall apply with respect to the liability of a member under such section for damage or loss to an unaccompanied personnel housing unit (or the equipment or furnishings of an unaccompanied personnel housing unit) or for damage or loss caused by a guest of the member or of a dependent of the member to a family housing unit (or the equipment or furnishings of a family housing unit) only in the case of damage or loss caused on or after the date that such regulations take effect.
 
 > **“(2)** The authority of the Secretary of Defense under subsection (b) of such section is applicable to any claim of the United States under such section, whether such claim arose before, on, or after the date of the enactment of this Act [Aug. 28, 1984].”
 
-## § 2776. Use of receipts of public money for current expenditures
+## § 2776. Use of receipts of public money for current expenditures
 
 Without deposit to the credit of the Secretary of the Treasury and without withdrawal on money requisitions, a disbursing official of the Department of Defense may use receipts of public money charged in the disbursing official’s accounts (except receipts to be credited to river, harbor, and flood control appropriations) for current expenditures, with necessary bookkeeping adjustments being made.
 
-(Added Pub. L. 97–258, § 2(b)(8)(B), Sept. 13, 1982, 96 Stat. 1055.)
+(Added Pub. L. 97–258, § 2(b)(8)(B), Sept. 13, 1982, 96 Stat. 1055.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2776 | 31:493a. | Aug. 1, 1953, ch. 305, § 611, 67 Stat. 350. |
+| 2776 | 31:493a. | Aug. 1, 1953, ch. 305, § 611, 67 Stat. 350. |
 
-The words “disbursing official” are substituted for “officer . . . on disbursing duty” for consistency with other titles of the United States Code. The words “On and after August 1, 1953” are omitted as executed. The words “Secretary of the Treasury” are substituted for “Treasury of the United States” because of section 1(a) of Reorganization Plan No. 26 of 1950 (eff. July 31, 1950, 64 Stat. 1280), restated in section 321 of the revised title contained in section 1 of the bill. The words “from sales or other sources” are omitted as surplus. The words “with” and “being” are added because of the restatement. The words “of appropriations, funds, and accounts to be . . . in the settlement of their disbursing accounts” are omitted as unnecessary.
+The words “disbursing official” are substituted for “officer . . . on disbursing duty” for consistency with other titles of the United States Code. The words “On and after August 1, 1953” are omitted as executed. The words “Secretary of the Treasury” are substituted for “Treasury of the United States” because of section 1(a) of Reorganization Plan No. 26 of 1950 (eff. July 31, 1950, 64 Stat. 1280), restated in section 321 of the revised title contained in section 1 of the bill. The words “from sales or other sources” are omitted as surplus. The words “with” and “being” are added because of the restatement. The words “of appropriations, funds, and accounts to be . . . in the settlement of their disbursing accounts” are omitted as unnecessary.
 
 **Editorial Notes**
 
@@ -521,39 +521,39 @@ The words “disbursing official” are substituted for “officer . . . on 
 
 Act Aug. 1, 1953, cited as the source of this section in the Historical and Revision Notes above, is known as the Department of Defense Appropriation Act, 1954. Similar provisions were contained in the following appropriation acts:
 
-July 10, 1952, ch. 630, title VI, § 613, 66 Stat. 532.
+July 10, 1952, ch. 630, title VI, § 613, 66 Stat. 532.
 
-Oct. 18, 1951, ch. 512, title VI, § 613, 65 Stat. 446.
+Oct. 18, 1951, ch. 512, title VI, § 613, 65 Stat. 446.
 
-Sept. 6, 1950, ch. 896, Ch. X, title VI, § 615, 64 Stat. 753.
+Sept. 6, 1950, ch. 896, Ch. X, title VI, § 615, 64 Stat. 753.
 
-Oct. 29, 1949, ch. 787, title VI, § 618, 63 Stat. 1020.
+Oct. 29, 1949, ch. 787, title VI, § 618, 63 Stat. 1020.
 
 June 24, 1948, ch. 632, 62 Stat. 651.
 
-July 30, 1947, ch. 357, title I, § 1, 61 Stat. 551.
+July 30, 1947, ch. 357, title I, § 1, 61 Stat. 551.
 
-July 16, 1946, ch. 583, § 1, 60 Stat. 543.
+July 16, 1946, ch. 583, § 1, 60 Stat. 543.
 
-July 3, 1945, ch. 265, § 1, 59 Stat. 386.
+July 3, 1945, ch. 265, § 1, 59 Stat. 386.
 
-June 28, 1944, ch. 303, § 1, 58 Stat. 575.
+June 28, 1944, ch. 303, § 1, 58 Stat. 575.
 
-July 1, 1943, ch. 185, § 1, 57 Stat. 349.
+July 1, 1943, ch. 185, § 1, 57 Stat. 349.
 
-July 2, 1942, ch. 477, § 1, 56 Stat. 613.
+July 2, 1942, ch. 477, § 1, 56 Stat. 613.
 
-June 30, 1941, ch. 262, § 1, 55 Stat. 369.
+June 30, 1941, ch. 262, § 1, 55 Stat. 369.
 
-June 13, 1940, ch. 343, § 1, 54 Stat. 355.
+June 13, 1940, ch. 343, § 1, 54 Stat. 355.
 
-Apr. 26, 1939, ch. 88, § 1, 53 Stat. 597.
+Apr. 26, 1939, ch. 88, § 1, 53 Stat. 597.
 
-June 11, 1938, ch. 347, § 1, 52 Stat. 646.
+June 11, 1938, ch. 347, § 1, 52 Stat. 646.
 
-July 1, 1937, ch. 423, § 1, 50 Stat. 446.
+July 1, 1937, ch. 423, § 1, 50 Stat. 446.
 
-## § 2777. Requisitions for advances and removal of charges outstanding in accounts of advances
+## § 2777. Requisitions for advances and removal of charges outstanding in accounts of advances
 
 **(a)** The Secretary of a military department may issue to a disbursing official or agent of the department a requisition for an advance of not more than the total appropriation for the department. The amount advanced shall be—
 
@@ -579,15 +579,15 @@ July 1, 1937, ch. 423, § 1, 50 Stat. 446.
 
 **(c)** Subsection (b) does not affect the financial liability of a disbursing official or agent.
 
-(Added Pub. L. 97–258, § 2(b)(8)(B), Sept. 13, 1982, 96 Stat. 1055; amended Pub. L. 98–525, title XIV, § 1405(43), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 104–316, title I, § 105(c), Oct. 19, 1996, 110 Stat. 3830.)
+(Added Pub. L. 97–258, § 2(b)(8)(B), Sept. 13, 1982, 96 Stat. 1055; amended Pub. L. 98–525, title XIV, § 1405(43), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 104–316, title I, § 105(c), Oct. 19, 1996, 110 Stat. 3830.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 2777(a) | 31:536, 537. | June 5, 1920, ch. 240 (1st, 2d pars. under heading “Advances to Disbursing Officers”), 41 Stat. 975. |
-|  | 31:539, 540. | June 19, 1878, ch. 312, §§ 1, 2, 20 Stat. 167. |
-| 2777(b), (c) | 31:95b (related to Army, Navy, Air Force). | June 4, 1954, ch. 264, § 1 (related to Army, Navy, Air Force), 68 Stat. 175; June 6, 1972, Pub. L. 92–310, § 231(gg), 86 Stat. 213. |
+|  | 31:539, 540. | June 19, 1878, ch. 312, §§ 1, 2, 20 Stat. 167. |
+| 2777(b), (c) | 31:95b (related to Army, Navy, Air Force). | June 4, 1954, ch. 264, § 1 (related to Army, Navy, Air Force), 68 Stat. 175; June 6, 1972, Pub. L. 92–310, § 231(gg), 86 Stat. 213. |
 
 In the section, the words “disbursing official” are substituted for “disbursing officers” for consistency with other titles of the United States Code.
 
@@ -605,11 +605,11 @@ In subsection (c), the words “in any way” and “of the United States” are
 
 1984—Subsec. (c). Pub. L. 98–525 struck out “of this section” after “Subsection (b)”.
 
-## [§ 2778. Repealed. Pub. L. 104–316, title I, § 105(d), Oct. 19, 1996, 110 Stat. 3830]
+## [§ 2778. Repealed. Pub. L. 104–316, title I, § 105(d), Oct. 19, 1996, 110 Stat. 3830]
 
-Section, added Pub. L. 97–258, § 2(b)(8)(B), Sept. 13, 1982, 96 Stat. 1055, related to management of accounts of military departments by Comptroller General.
+Section, added Pub. L. 97–258, § 2(b)(8)(B), Sept. 13, 1982, 96 Stat. 1055, related to management of accounts of military departments by Comptroller General.
 
-## § 2779. Use of funds because of fluctuations in currency exchange rates of foreign countries
+## § 2779. Use of funds because of fluctuations in currency exchange rates of foreign countries
 
 **(a) Transfers Back to Foreign Currency Fluctuations Appropriation.—**
 
@@ -641,14 +641,14 @@ Section, added Pub. L. 97–258, § 2(b)(8)(B), Sept. 13, 1982, 96 Stat. 1055,
 
 **(e) Conditions of Availability for Transferred Funds.—** Amounts transferred under subsection (c) or (d) shall be merged with and be available for the same purposes and for the same period as the appropriations to which transferred.
 
-(Added Pub. L. 97–258, § 2(b)(8)(B), Sept. 13, 1982, 96 Stat. 1056; amended Pub. L. 101–510, div. A, title XIII, § 1301(15), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 104–106, div. A, title IX, § 911(a)–(c), (e), Feb. 10, 1996, 110 Stat. 406, 407.)
+(Added Pub. L. 97–258, § 2(b)(8)(B), Sept. 13, 1982, 96 Stat. 1056; amended Pub. L. 101–510, div. A, title XIII, § 1301(15), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 104–106, div. A, title IX, § 911(a)–(c), (e), Feb. 10, 1996, 110 Stat. 406, 407.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2779(a) | 31:628–2. | July 25, 1979, Pub. L. 96–38, § 100 (last par. under heading “General Provisions”), 93 Stat. 100. |
-| 2779(b) | 31:628–3. | Nov. 30, 1979, Pub. L. 96–130, § 100 (par. under heading “Foreign Currency Fluctuation, Construction, Defense”), 93 Stat. 1019. |
+| 2779(a) | 31:628–2. | July 25, 1979, Pub. L. 96–38, § 100 (last par. under heading “General Provisions”), 93 Stat. 100. |
+| 2779(b) | 31:628–3. | Nov. 30, 1979, Pub. L. 96–130, § 100 (par. under heading “Foreign Currency Fluctuation, Construction, Defense”), 93 Stat. 1019. |
 
 In subsection (a)(1), before clause (A), the words “during the current fiscal year or on and after July 25, 1979” are omitted as executed. The words “from an appropriation to which they were transferred” are omitted as surplus. In clause (A), the words “of foreign countries” are added for consistency.
 
@@ -658,27 +658,27 @@ In subsection (b)(1), the words “the sum of”, “which shall be derived”, 
 
 In subsection (b)(2), the words “or fund” are omitted as surplus. The words “now or on and after November 30, 1979” are omitted as executed. The words “contained within appropriations or other provisions of law”, “hereby”, and “applicable” are omitted as surplus.
 
-In subsection (b)(3), the words “contracts or other . . . entered into” are omitted as surplus.
+In subsection (b)(3), the words “contracts or other . . . entered into” are omitted as surplus.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in subsec. (d) of this section were contained in Pub. L. 97–377, title I, § 101(c) [title VII, § 791], Dec. 21, 1982, 96 Stat. 1865, which was set out as a note under section 114 of this title, prior to repeal by Pub. L. 104–106, § 911(d)(2).
+Provisions similar to those in subsec. (d) of this section were contained in Pub. L. 97–377, title I, § 101(c) [title VII, § 791], Dec. 21, 1982, 96 Stat. 1865, which was set out as a note under section 114 of this title, prior to repeal by Pub. L. 104–106, § 911(d)(2).
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–106, § 911(e)(1), inserted heading.
+1996—Subsec. (a). Pub. L. 104–106, § 911(e)(1), inserted heading.
 
-Subsec. (a)(2). Pub. L. 104–106, § 911(e)(2), substituted “second fiscal year” for “2d fiscal year”.
+Subsec. (a)(2). Pub. L. 104–106, § 911(e)(2), substituted “second fiscal year” for “2d fiscal year”.
 
-Subsec. (b). Pub. L. 104–106, § 911(e)(3), inserted heading.
+Subsec. (b). Pub. L. 104–106, § 911(e)(3), inserted heading.
 
-Subsec. (c). Pub. L. 104–106, § 911(a), added subsec. (c).
+Subsec. (c). Pub. L. 104–106, § 911(a), added subsec. (c).
 
-Subsec. (d). Pub. L. 104–106, § 911(b), added subsec. (d).
+Subsec. (d). Pub. L. 104–106, § 911(b), added subsec. (d).
 
-Subsec. (e). Pub. L. 104–106, § 911(c), added subsec. (e).
+Subsec. (e). Pub. L. 104–106, § 911(c), added subsec. (e).
 
 1990—Subsec. (b)(4). Pub. L. 101–510 struck out par. (4) which read as follows: “The Secretary each year shall report to Congress on funds made available under this subsection.”
 
@@ -686,9 +686,9 @@ Subsec. (e). Pub. L. 104–106, § 911(c), added subsec. (e).
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title IX, § 911(f), Feb. 10, 1996, 110 Stat. 407, provided that: “Subsections (c) and (d) of section 2779 of title 10, United States Code, as added by subsections (a) and (b), and the repeals made by subsection (d) [repealing provisions set out as a note under section 114 of this title], shall apply only with respect to amounts appropriated for a fiscal year after fiscal year 1995.”
+Pub. L. 104–106, div. A, title IX, § 911(f), Feb. 10, 1996, 110 Stat. 407, provided that: “Subsections (c) and (d) of section 2779 of title 10, United States Code, as added by subsections (a) and (b), and the repeals made by subsection (d) [repealing provisions set out as a note under section 114 of this title], shall apply only with respect to amounts appropriated for a fiscal year after fiscal year 1995.”
 
-## § 2780. Debt collection
+## § 2780. Debt collection
 
 **(a)**
 
@@ -704,7 +704,7 @@ Pub. L. 104–106, div. A, title IX, § 911(f), Feb. 10, 1996, 110 Stat. 407, 
 
 **(2)** No disclosure shall be made under paragraph (1) with respect to an indebtedness while a decision regarding waiver of collection of the indebtedness is pending under section 2774 of this title or section 716 of title 32, or while a decision regarding remission or cancellation of the indebtedness is pending under section 7837, 8271, or 9837 of this title, unless the Secretary concerned (as defined in section 101(5) of title 37) determines that disclosure under that paragraph pending such decision is in the best interests of the United States.
 
-(Added Pub. L. 99–661, div. A, title XIII, § 1309(a), Nov. 14, 1986, 100 Stat. 3982; amended Pub. L. 104–316, title I, § 115(g)(2)(C), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 109–364, div. A, title VI, § 672(a), Oct. 17, 2006, 120 Stat. 2270; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 99–661, div. A, title XIII, § 1309(a), Nov. 14, 1986, 100 Stat. 3982; amended Pub. L. 104–316, title I, § 115(g)(2)(C), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 109–364, div. A, title VI, § 672(a), Oct. 17, 2006, 120 Stat. 2270; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 **Editorial Notes**
 
@@ -724,7 +724,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title VI, § 672(b), Oct. 17, 2006, 120 Stat. 2270, provided that:
+Pub. L. 109–364, div. A, title VI, § 672(b), Oct. 17, 2006, 120 Stat. 2270, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section] shall take effect on March 1, 2007.
 
@@ -732,9 +732,9 @@ Pub. L. 109–364, div. A, title VI, § 672(b), Oct. 17, 2006, 120 Stat. 2270,
 
 **Contracts for Recovery of Indebtedness**
 
-Pub. L. 101–165, title IX, § 9019, Nov. 21, 1989, 103 Stat. 1133, provided that: “During the current fiscal year and hereafter, the Department of Defense may enter into contracts to recover indebtedness to the United States pursuant to section 3718 of title 31, United States Code.”
+Pub. L. 101–165, title IX, § 9019, Nov. 21, 1989, 103 Stat. 1133, provided that: “During the current fiscal year and hereafter, the Department of Defense may enter into contracts to recover indebtedness to the United States pursuant to section 3718 of title 31, United States Code.”
 
-## § 2781. Availability of appropriations: exchange fees; losses in accounts
+## § 2781. Availability of appropriations: exchange fees; losses in accounts
 
 Amounts appropriated to the Department of Defense may be used for—
 
@@ -742,25 +742,25 @@ Amounts appropriated to the Department of Defense may be used for—
 
 **(2)** losses in the accounts of disbursing officials and agents in accordance with law.
 
-(Added Pub. L. 100–370, § 1(m)(1), July 19, 1988, 102 Stat. 849.)
+(Added Pub. L. 100–370, § 1(m)(1), July 19, 1988, 102 Stat. 849.)
 
 **Historical and Revision Notes**
 
-Section is based on Pub. L. 99–190, § 101(b) [title VIII, § 8006(c)], Dec. 19, 1985, 99 Stat. 1185, 1203.
+Section is based on Pub. L. 99–190, § 101(b) [title VIII, § 8006(c)], Dec. 19, 1985, 99 Stat. 1185, 1203.
 
-## § 2782. Damage to real property: disposition of amounts recovered
+## § 2782. Damage to real property: disposition of amounts recovered
 
 Except as provided in section 2775 of this title, amounts recovered for damage caused to real property under the jurisdiction of the Secretary of a military department or, with respect to the Defense Agencies, under the jurisdiction of the Secretary of Defense shall be credited to the account available for the repair or replacement of the real property at the time of recovery. In such amounts as are provided in advance in appropriation Acts, amounts so credited shall be available for use for the same purposes and under the same circumstances as other funds in the account.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, § 2821(a), Feb. 10, 1996, 110 Stat. 556.)
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2821(a), Feb. 10, 1996, 110 Stat. 556.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2782, added Pub. L. 101–189, div. A, title XVI, § 1603(a)(1), Nov. 29, 1989, 103 Stat. 1597, related to limits on restoration of unobligated balances withdrawn from availability for obligation, prior to repeal by Pub. L. 101–510, div. A, title XIV, § 1405(c)(1), Nov. 5, 1990, 104 Stat. 1680.
+A prior section 2782, added Pub. L. 101–189, div. A, title XVI, § 1603(a)(1), Nov. 29, 1989, 103 Stat. 1597, related to limits on restoration of unobligated balances withdrawn from availability for obligation, prior to repeal by Pub. L. 101–510, div. A, title XIV, § 1405(c)(1), Nov. 5, 1990, 104 Stat. 1680.
 
-## § 2783. Nonappropriated fund instrumentalities: financial management and use of nonappropriated funds
+## § 2783. Nonappropriated fund instrumentalities: financial management and use of nonappropriated funds
 
 **(a) Regulation of Management and Use of Nonappropriated Funds.—** The Secretary of Defense shall prescribe regulations governing—
 
@@ -786,7 +786,7 @@ A prior section 2782, added Pub. L. 101–189, div. A, title XVI, § 1603(a)(1
 
 **(3)** The Secretary shall prescribe regulations to protect the confidentiality of a person making a notification under paragraph (1).
 
-(Added Pub. L. 102–484, div. A, title III, § 362(a), Oct. 23, 1992, 106 Stat. 2379, § 2490a; renumbered § 2783 and amended Pub. L. 103–160, div. A, title XI, § 1182(a)(8)(A), Nov. 30, 1993, 107 Stat. 1771.)
+(Added Pub. L. 102–484, div. A, title III, § 362(a), Oct. 23, 1992, 106 Stat. 2379, § 2490a; renumbered § 2783 and amended Pub. L. 103–160, div. A, title XI, § 1182(a)(8)(A), Nov. 30, 1993, 107 Stat. 1771.)
 
 **Editorial Notes**
 
@@ -794,19 +794,19 @@ A prior section 2782, added Pub. L. 101–189, div. A, title XVI, § 1603(a)(1
 
 1993—Pub. L. 103–160 renumbered section 2490a of this title as this section.
 
-Subsec. (b)(2). Pub. L. 103–160, § 1182(a)(8)(A)(i), substituted “chapter 47 of this title” for “chapter 47 of title 10, United States Code”, “Justice) is” for “Justice), is”, and “section 892 of this title” for “section 892 of such title”.
+Subsec. (b)(2). Pub. L. 103–160, § 1182(a)(8)(A)(i), substituted “chapter 47 of this title” for “chapter 47 of title 10, United States Code”, “Justice) is” for “Justice), is”, and “section 892 of this title” for “section 892 of such title”.
 
-Subsec. (c)(1). Pub. L. 103–160, § 1182(a)(8)(A)(ii), substituted “armed forces” for “Armed Forces”.
+Subsec. (c)(1). Pub. L. 103–160, § 1182(a)(8)(A)(ii), substituted “armed forces” for “Armed Forces”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Standardization of Certain Programs and Activities of Military Exchanges**
 
-Pub. L. 102–484, div. A, title III, § 361, Oct. 23, 1992, 106 Stat. 2379, directed the Secretary of Defense to standardize among the military departments the accounting, financial reporting formats, and automatic data processing and telecommunications data transfer of information by no later than Mar. 31, 1994, and report to Congress, no later than Mar. 31, 1993, on other programs and activities that could be standardized or consolidated.
+Pub. L. 102–484, div. A, title III, § 361, Oct. 23, 1992, 106 Stat. 2379, directed the Secretary of Defense to standardize among the military departments the accounting, financial reporting formats, and automatic data processing and telecommunications data transfer of information by no later than Mar. 31, 1994, and report to Congress, no later than Mar. 31, 1993, on other programs and activities that could be standardized or consolidated.
 
-## [§ 2784. Renumbered § 4754]
+## [§ 2784. Renumbered § 4754]
 
-## § 2784a. Management of travel cards
+## § 2784a. Management of travel cards
 
 **(a) Disbursement of Travel Allowances Directly to Creditors.—**
 
@@ -866,7 +866,7 @@ Pub. L. 102–484, div. A, title III, § 361, Oct. 23, 1992, 106 Stat. 2379, d
 
 **(g) Exclusion of Coast Guard.—** This section does not apply to the Coast Guard.
 
-(Added Pub. L. 107–314, div. A, title X, § 1008(a), Dec. 2, 2002, 116 Stat. 2634; amended Pub. L. 108–136, div. A, title X, § 1009(a)–(c)(1), Nov. 24, 2003, 117 Stat. 1587, 1588; Pub. L. 109–364, div. A, title X, § 1071(a)(25), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–81, div. A, title VI, § 603(e), Dec. 27, 2021, 135 Stat. 1767.)
+(Added Pub. L. 107–314, div. A, title X, § 1008(a), Dec. 2, 2002, 116 Stat. 2634; amended Pub. L. 108–136, div. A, title X, § 1009(a)–(c)(1), Nov. 24, 2003, 117 Stat. 1587, 1588; Pub. L. 109–364, div. A, title X, § 1071(a)(25), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–81, div. A, title VI, § 603(e), Dec. 27, 2021, 135 Stat. 1767.)
 
 **Editorial Notes**
 
@@ -874,29 +874,29 @@ Pub. L. 102–484, div. A, title III, § 361, Oct. 23, 1992, 106 Stat. 2379, d
 
 2021—Subsec. (a)(3). Pub. L. 117–81 substituted “section 452” for “section 474”.
 
-2013—Subsec. (a)(3). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
+2013—Subsec. (a)(3). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
-2011—Subsec. (a)(3). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404”.
+2011—Subsec. (a)(3). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404”.
 
 2006—Subsec. (a)(2). Pub. L. 109–364 substituted “card” for “care”.
 
-2003—Subsec. (a)(1). Pub. L. 108–136, § 1009(a)(1), substituted “The Secretary of Defense shall require” for “The Secretary of Defense may require”.
+2003—Subsec. (a)(1). Pub. L. 108–136, § 1009(a)(1), substituted “The Secretary of Defense shall require” for “The Secretary of Defense may require”.
 
-Subsec. (a)(2), (3). Pub. L. 108–136, § 1009(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (a)(2), (3). Pub. L. 108–136, § 1009(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
-Subsecs. (d) to (g). Pub. L. 108–136, § 1009(b), (c)(1), added subsecs. (d) and (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
+Subsecs. (d) to (g). Pub. L. 108–136, § 1009(b), (c)(1), added subsecs. (d) and (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Transfer of Functions**
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 2785. Remittance addresses: regulation of alterations
+## § 2785. Remittance addresses: regulation of alterations
 
 The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall prescribe regulations setting forth controls on alteration of remittance addresses. Those regulations shall ensure that—
 
@@ -908,27 +908,27 @@ The Secretary of Defense, acting through the Under Secretary of Defense (Comptro
 
 **(B)** is made by an officer or employee authorized to do so who is not an officer or employee referred to in paragraph (1).
 
-(Added Pub. L. 106–65, div. A, title IX, § 933(a)(1), Oct. 5, 1999, 113 Stat. 729.)
+(Added Pub. L. 106–65, div. A, title IX, § 933(a)(1), Oct. 5, 1999, 113 Stat. 729.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 106–65, div. A, title IX, § 933(b)(2), Oct. 5, 1999, 113 Stat. 730, provided that: “Regulations under section 2785 of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act [Oct. 5, 1999].”
+Pub. L. 106–65, div. A, title IX, § 933(b)(2), Oct. 5, 1999, 113 Stat. 730, provided that: “Regulations under section 2785 of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act [Oct. 5, 1999].”
 
-## § 2786. Department of Defense payments by electronic transfers of funds: exercise of authority for waivers
+## § 2786. Department of Defense payments by electronic transfers of funds: exercise of authority for waivers
 
 With respect to any Federal payment of funds covered by section 3332(f) of title 31 (relating to electronic funds transfers) for which payment is made or authorized by the Department of Defense, the waiver authority provided in paragraph (2)(A)(i) of that section shall be exercised by the Secretary of Defense. The Secretary of Defense shall carry out the authority provided under the preceding sentence in consultation with the Secretary of the Treasury.
 
-(Added Pub. L. 106–65, div. A, title X, § 1008(a)(1), Oct. 5, 1999, 113 Stat. 737.)
+(Added Pub. L. 106–65, div. A, title X, § 1008(a)(1), Oct. 5, 1999, 113 Stat. 737.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 106–65, div. A, title X, § 1008(a)(3), Oct. 5, 1999, 113 Stat. 738, provided that: “Any waiver in effect on the date of the enactment of this Act [Oct. 5, 1999] under paragraph (2)(A)(i) of section 3332(f) of title 31, United States Code, shall remain in effect until otherwise provided by the Secretary of Defense under section 2786 of title 10, United States Code, as added by paragraph (1).”
+Pub. L. 106–65, div. A, title X, § 1008(a)(3), Oct. 5, 1999, 113 Stat. 738, provided that: “Any waiver in effect on the date of the enactment of this Act [Oct. 5, 1999] under paragraph (2)(A)(i) of section 3332(f) of title 31, United States Code, shall remain in effect until otherwise provided by the Secretary of Defense under section 2786 of title 10, United States Code, as added by paragraph (1).”
 
-## § 2787. Reports of survey
+## § 2787. Reports of survey
 
 **(a) Action on Reports of Survey.—** Under regulations prescribed pursuant to subsection (c), any officer of the Army, Navy, Air Force, Marine Corps, or Space Force or any civilian employee of the Department of Defense designated in accordance with those regulations may act upon reports of surveys and vouchers pertaining to the loss, spoilage, unserviceability, unsuitability, or destruction of, or damage to, property of the United States under the control of the Department of Defense.
 
@@ -940,7 +940,7 @@ Pub. L. 106–65, div. A, title X, § 1008(a)(3), Oct. 5, 1999, 113 Stat. 738,
 
 **(c) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 107–314, div. A, title X, § 1006(a)(1), Dec. 2, 2002, 116 Stat. 2632; amended Pub. L. 116–283, div. A, title IX, § 924(b)(3)(HH), Jan. 1, 2021, 134 Stat. 3822.)
+(Added Pub. L. 107–314, div. A, title X, § 1006(a)(1), Dec. 2, 2002, 116 Stat. 2632; amended Pub. L. 116–283, div. A, title IX, § 924(b)(3)(HH), Jan. 1, 2021, 134 Stat. 3822.)
 
 **Editorial Notes**
 
@@ -952,15 +952,15 @@ Pub. L. 106–65, div. A, title X, § 1008(a)(3), Oct. 5, 1999, 113 Stat. 738,
 
 **Effective Date**
 
-Pub. L. 107–314, div. A, title X, § 1006(d), Dec. 2, 2002, 116 Stat. 2633, provided that: “The amendments made by this section [enacting this section, amending section 1007 of Title 37, Pay and Allowances of the Uniformed Services, and repealing sections 4835 and 9835 of this title] shall apply with respect to the loss, spoilage, unserviceability, unsuitability, or destruction of, or damage to, property of the United States under the control of the Department of Defense occurring on or after the effective date of regulations prescribed pursuant to section 2787 of title 10, United States Code, as added by subsection (a).”
+Pub. L. 107–314, div. A, title X, § 1006(d), Dec. 2, 2002, 116 Stat. 2633, provided that: “The amendments made by this section [enacting this section, amending section 1007 of Title 37, Pay and Allowances of the Uniformed Services, and repealing sections 4835 and 9835 of this title] shall apply with respect to the loss, spoilage, unserviceability, unsuitability, or destruction of, or damage to, property of the United States under the control of the Department of Defense occurring on or after the effective date of regulations prescribed pursuant to section 2787 of title 10, United States Code, as added by subsection (a).”
 
-## § 2788. Property accountability: regulations
+## § 2788. Property accountability: regulations
 
 The Secretary of a military department may prescribe regulations for the accounting for the property of that department and the fixing of responsibility for that property.
 
-(Added Pub. L. 110–181, div. A, title III, § 375(a), Jan. 28, 2008, 122 Stat. 83.)
+(Added Pub. L. 110–181, div. A, title III, § 375(a), Jan. 28, 2008, 122 Stat. 83.)
 
-## § 2789. Individual equipment: unauthorized disposition
+## § 2789. Individual equipment: unauthorized disposition
 
 **(a) Prohibition.—** No member of the armed forces may sell, lend, pledge, barter, or give any clothing, arms, or equipment furnished to such member by the United States to any person other than a member of the armed forces or an officer of the United States who is authorized to receive it.
 
@@ -968,9 +968,9 @@ The Secretary of a military department may prescribe regulations for the account
 
 **(c) Delivery of Seized Property.—** If an officer who seizes property under subsection (b) is not authorized to retain it for the United States, the officer shall deliver the property to a person who is authorized to retain it.
 
-(Added Pub. L. 110–181, div. A, title III, § 375(a), Jan. 28, 2008, 122 Stat. 83.)
+(Added Pub. L. 110–181, div. A, title III, § 375(a), Jan. 28, 2008, 122 Stat. 83.)
 
-## § 2790. Recovery of improperly disposed of Department of Defense property
+## § 2790. Recovery of improperly disposed of Department of Defense property
 
 **(a) Prohibition.—** No member of the armed forces, civilian employee of the United States Government, contractor personnel, or other person may sell, lend, pledge, barter, or give any clothing, arms, articles, equipment, or other military or Department of Defense property except in accordance with the statutes and regulations governing Government property.
 
@@ -1020,7 +1020,7 @@ The Secretary of a military department may prescribe regulations for the account
 
 **(4)** The term “veterans organization” means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under section 5902 of title 38.
 
-(Added Pub. L. 111–383, div. A, title III, § 355(a), Jan. 7, 2011, 124 Stat. 4195; amended Pub. L. 112–239, div. A, title X, § 1076(e)(5), Jan. 2, 2013, 126 Stat. 1951.)
+(Added Pub. L. 111–383, div. A, title III, § 355(a), Jan. 7, 2011, 124 Stat. 4195; amended Pub. L. 112–239, div. A, title X, § 1076(e)(5), Jan. 2, 2013, 126 Stat. 1951.)
 
 **Editorial Notes**
 

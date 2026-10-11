@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 105—GLOBAL FRAGILITY
 
-## § 9801. Appropriate congressional committees defined
+## § 9801. Appropriate congressional committees defined
 
 In this chapter:
 
@@ -27,21 +27,21 @@ In this chapter:
 
 **(2) Relevant Federal department or agency**
 
-The term “relevant Federal department or agency” means the Department of State, the United States Agency for International Development, the Department of Defense, the Department of 1
+The term “relevant Federal department or agency” means the Department of State, the United States Agency for International Development, the Department of Defense, the Department of 1
 
-<sup>1</sup>  So in original. Probably should be followed by “the”.
+<sup>1</sup> So in original. Probably should be followed by “the”.
 
 Treasury, and any other Federal department or agency the President determines is relevant to carry out the purposes of this chapter.
 
-(Pub. L. 116–94, div. J, title V, § 502, Dec. 20, 2019, 133 Stat. 3060.)
+(Pub. L. 116–94, div. J, title V, § 502, Dec. 20, 2019, 133 Stat. 3060.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 116–94, div. J, title V, § 501, Dec. 20, 2019, 133 Stat. 3060, provided that: “This title [enacting this chapter] may be cited as the ‘Global Fragility Act of 2019’.”
+Pub. L. 116–94, div. J, title V, § 501, Dec. 20, 2019, 133 Stat. 3060, provided that: “This title [enacting this chapter] may be cited as the ‘Global Fragility Act of 2019’.”
 
-## § 9802. Statement of policy
+## § 9802. Statement of policy
 
 It is the policy of the United States to seek to stabilize conflict-affected areas and prevent violence and fragility globally, including by—
 
@@ -51,9 +51,9 @@ It is the policy of the United States to seek to stabilize conflict-affected are
 
 **(3)** enhancing the effectiveness of United States foreign assistance programs and activities to carry out such policy, including by improving assessment, monitoring, and evaluation conducted by the relevant Federal departments and agencies.
 
-(Pub. L. 116–94, div. J, title V, § 503, Dec. 20, 2019, 133 Stat. 3060.)
+(Pub. L. 116–94, div. J, title V, § 503, Dec. 20, 2019, 133 Stat. 3060.)
 
-## § 9803. Global fragility strategy
+## § 9803. Global fragility strategy
 
 **(a) Strategy** The President, in coordination with the Secretary of State, the Administrator of the United States Agency for International Development (“USAID”), the Secretary of Defense, and the heads of other relevant Federal departments and agencies, shall establish a comprehensive, integrated, ten-year strategy, to be referred to as the “Global Fragility Strategy”, to contribute to the stabilization of conflict-affected areas, address global fragility, and strengthen the capacity of the United States to be an effective leader of international efforts to prevent extremism and violent conflict. The strategy shall focus on addressing long-term causes of fragility and violence, and shall—
 
@@ -109,7 +109,7 @@ The Global Fragility Strategy required under this section shall be developed in 
 
 **(7)** A list of priority countries and regions selected pursuant to section 9804 of this title, including descriptions of the rationale for such selections.
 
-(Pub. L. 116–94, div. J, title V, § 504, Dec. 20, 2019, 133 Stat. 3061.)
+(Pub. L. 116–94, div. J, title V, § 504, Dec. 20, 2019, 133 Stat. 3061.)
 
 **Executive Documents**
 
@@ -127,7 +127,7 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 Donald J. Trump.
 
-## § 9804. Selection of priority countries and regions
+## § 9804. Selection of priority countries and regions
 
 **(a) In general** The President, in coordination with the Secretary of State, the Administrator of the United States Agency for International Development, and the Secretary of Defense, and in consultation with the appropriate congressional committees specified in subsection (b), shall select certain countries as “priority countries” and certain regions as “priority regions” for the purpose of implementing the Global Fragility Strategy required under section 9803 of this title—
 
@@ -161,9 +161,9 @@ Donald J. Trump.
 
 Prior to finalization of the selection of priority countries and regions under subsection (a), representatives from the Department of State, USAID, the Department of Defense, and other relevant Federal departments and agencies, as necessary and appropriate, shall brief the appropriate congressional committees on the countries and regions being considered and shall consider congressional input on such prioritization.
 
-(Pub. L. 116–94, div. J, title V, § 505, Dec. 20, 2019, 133 Stat. 3063.)
+(Pub. L. 116–94, div. J, title V, § 505, Dec. 20, 2019, 133 Stat. 3063.)
 
-## § 9805. Priority country and regional plans
+## § 9805. Priority country and regional plans
 
 Not later than one year after December 20, 2019, the President, in coordination with the Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of Defense, and the heads of other relevant Federal departments and agencies, shall submit to the appropriate congressional committees ten-year plans to align and integrate under the Global Fragility Strategy established pursuant to section 9803 of this title all relevant diplomatic, development, and security assistance and activities of the United States Government with respect to each of the countries and regions selected pursuant to section 9804 of this title. Each such country and regional plan shall include the following elements:
 
@@ -199,9 +199,9 @@ Not later than one year after December 20, 2019, the President, in coordination 
 
 **(11)** When a region is selected, a component outlining plans to address factors at the individual country level that affect regional fragility or violence.
 
-(Pub. L. 116–94, div. J, title V, § 506, Dec. 20, 2019, 133 Stat. 3064.)
+(Pub. L. 116–94, div. J, title V, § 506, Dec. 20, 2019, 133 Stat. 3064.)
 
-## § 9806. Implementation
+## § 9806. Implementation
 
 The President, in coordination with the Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of Defense, the heads of other relevant Federal departments and agencies, relevant United States ambassadors, USAID mission directors, geographic combatant commanders, and other relevant individuals with responsibility over activities in each priority country or region selected pursuant to section 9804 of this title, shall ensure that—
 
@@ -209,9 +209,9 @@ The President, in coordination with the Secretary of State, the Administrator of
 
 **(2)** the strategy is used to guide United States Government policy at a senior level and incorporated into relevant strategies and plans across the United States Government such that the activities of all relevant Federal departments and agencies are consistent with the strategy.
 
-(Pub. L. 116–94, div. J, title V, § 507, Dec. 20, 2019, 133 Stat. 3065.)
+(Pub. L. 116–94, div. J, title V, § 507, Dec. 20, 2019, 133 Stat. 3065.)
 
-## § 9807. Biennial reports and congressional consultation
+## § 9807. Biennial reports and congressional consultation
 
 **(a) Biennial reports** Not later than two years after the submission of the plans required in section 9805 of this title, and every two years thereafter until the date that is ten years after the date of submission of such plans, the President, the Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of Defense, and the heads of other relevant Federal departments and agencies shall jointly submit to the appropriate congressional committees an unclassified report, which may include a classified annex, on progress made and lessons learned with respect to implementation of the Global Fragility Strategy established pursuant to section 9803 of this title. The report shall include the following elements:
 
@@ -227,9 +227,9 @@ The President, in coordination with the Secretary of State, the Administrator of
 
 The Secretary of State, the Administrator of the United States Agency for International Development, and the Secretary of Defense shall provide to any appropriate congressional committee briefings on the implementation of this chapter upon the request of any such committee.
 
-(Pub. L. 116–94, div. J, title V, § 508, Dec. 20, 2019, 133 Stat. 3065.)
+(Pub. L. 116–94, div. J, title V, § 508, Dec. 20, 2019, 133 Stat. 3065.)
 
-## § 9808. Authorization of appropriations
+## § 9808. Authorization of appropriations
 
 **(a) Prevention and Stabilization Fund**
 
@@ -301,15 +301,15 @@ The United States Agency for International Development shall notify the appropri
 
 **(ii)** are provided with an explanation of the emergency circumstances that necessitated such waiver.
 
-(Pub. L. 116–94, div. J, title V, § 509, Dec. 20, 2019, 133 Stat. 3066.)
+(Pub. L. 116–94, div. J, title V, § 509, Dec. 20, 2019, 133 Stat. 3066.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(3)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(3)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-## § 9809. Improving and leveraging assistance for the global fragility strategy
+## § 9809. Improving and leveraging assistance for the global fragility strategy
 
 **(a) Sense of Congress** It is the sense of Congress that the President, the Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of Defense, and the heads of other relevant Federal departments and agencies should—
 
@@ -345,10 +345,10 @@ Pursuant to sections 2357 and 2392 of this title, and consistent with subsection
 
 Funds may not be obligated under this section except in consultation with the appropriate congressional committees and subject to the notification of such committees of the amount and proposed uses of such funds at least 15 days in advance of such proposed obligation.
 
-(Pub. L. 116–94, div. J, title V, § 510, Dec. 20, 2019, 133 Stat. 3067.)
+(Pub. L. 116–94, div. J, title V, § 510, Dec. 20, 2019, 133 Stat. 3067.)
 
-## § 9810. Rule of construction
+## § 9810. Rule of construction
 
 Nothing in this chapter shall be construed as a declaration of war or an authorization for the use of military force.
 
-(Pub. L. 116–94, div. J, title V, § 511, Dec. 20, 2019, 133 Stat. 3069.)
+(Pub. L. 116–94, div. J, title V, § 511, Dec. 20, 2019, 133 Stat. 3069.)

@@ -17,33 +17,33 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL AND ADMINISTRATIVE PROVISIONS
 
-### §§ 1750 to 1753a. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), (5), Sept. 4, 1961, 75 Stat. 460
+### §§ 1750 to 1753a. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), (5), Sept. 4, 1961, 75 Stat. 460
 
-Section 1750, act Aug. 26, 1954, ch. 937, § 2, formerly ch. IV, § 549, as added July 8, 1955, ch. 301, § 11, 69 Stat. 289, renumbered and amended July 18, 1956, ch. 627, § 2, 70 Stat. 555; July 24, 1959, Pub. L. 86–108, § 2, 73 Stat. 246; May 14, 1960, Pub. L. 86–472, § 2, 74 Stat. 134, stated the Congressional declaration of purpose for this chapter. See section 2151 et seq. of this title.
+Section 1750, act Aug. 26, 1954, ch. 937, § 2, formerly ch. IV, § 549, as added July 8, 1955, ch. 301, § 11, 69 Stat. 289, renumbered and amended July 18, 1956, ch. 627, § 2, 70 Stat. 555; July 24, 1959, Pub. L. 86–108, § 2, 73 Stat. 246; May 14, 1960, Pub. L. 86–472, § 2, 74 Stat. 134, stated the Congressional declaration of purpose for this chapter. See section 2151 et seq. of this title.
 
-Section 1750a, Pub. L. 85–477, ch. V, § 503, June 30, 1958, 72 Stat. 275, related to strengthening cooperation in the Western Hemisphere.
+Section 1750a, Pub. L. 85–477, ch. V, § 503, June 30, 1958, 72 Stat. 275, related to strengthening cooperation in the Western Hemisphere.
 
-Section 1750b, act Aug. 26, 1954, ch. 937, ch. IV, § 552, as added May 14, 1960, Pub. L. 86–472, ch. IV, § 401(m), 74 Stat. 140, prohibited assistance to Cuba. See section 2370 of this title.
+Section 1750b, act Aug. 26, 1954, ch. 937, ch. IV, § 552, as added May 14, 1960, Pub. L. 86–472, ch. IV, § 401(m), 74 Stat. 140, prohibited assistance to Cuba. See section 2370 of this title.
 
-Section 1751, acts Aug. 26, 1954, ch. 937, ch. IV, § 545, 68 Stat. 862; July 18, 1956, ch. 627, § 11(b), 70 Stat. 565; June 30, 1958, Pub. L. 85–477, ch. IV, § 401(i), ch. V, § 501(31)–(33), 72 Stat. 270, 272, defined terms used in this chapter. See section 2403 of this title.
+Section 1751, acts Aug. 26, 1954, ch. 937, ch. IV, § 545, 68 Stat. 862; July 18, 1956, ch. 627, § 11(b), 70 Stat. 565; June 30, 1958, Pub. L. 85–477, ch. IV, § 401(i), ch. V, § 501(31)–(33), 72 Stat. 270, 272, defined terms used in this chapter. See section 2403 of this title.
 
-Section 1752, acts Aug. 26, 1954, ch. 937, ch. IV, § 546, 68 Stat. 863; Aug. 14, 1957, Pub. L. 85–141, § 11(c), 71 Stat 365, related to construction and application of this chapter.
+Section 1752, acts Aug. 26, 1954, ch. 937, ch. IV, § 546, 68 Stat. 863; Aug. 14, 1957, Pub. L. 85–141, § 11(c), 71 Stat 365, related to construction and application of this chapter.
 
-Section 1753, acts Aug. 26, 1954, ch. 937, ch. IV, § 501, 68 Stat. 849; July 18, 1956, ch. 627, § 9(a), 70 Stat. 560, authorized transferability of funds. See section 2360 of this title.
+Section 1753, acts Aug. 26, 1954, ch. 937, ch. IV, § 501, 68 Stat. 849; July 18, 1956, ch. 627, § 9(a), 70 Stat. 560, authorized transferability of funds. See section 2360 of this title.
 
-Section 1753a, act Aug. 26, 1954, ch. 937, ch. IV, § 551, as added July 24, 1959, Pub. L. 86–108, ch. IV, § 401(m), 73 Stat. 255; amended Sept. 8, 1960, Pub. L. 86–735, § 4, 74 Stat. 870, provided for limitations on the use of the President’s special authority.
+Section 1753a, act Aug. 26, 1954, ch. 937, ch. IV, § 551, as added July 24, 1959, Pub. L. 86–108, ch. IV, § 401(m), 73 Stat. 255; amended Sept. 8, 1960, Pub. L. 86–735, § 4, 74 Stat. 870, provided for limitations on the use of the President’s special authority.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Funds To Carry Out International Educational Exchange Activities**
 
-Section 13 of act July 18, 1956, ch. 627, § 13, 70 Stat. 565, which transferred available funds to the Department of State to carry out international educational exchange activities, was repealed by Pub. L. 87–195, pt. III, § 642(a)(4). Sept. 4, 1961, 75 Stat. 460.
+Section 13 of act July 18, 1956, ch. 627, § 13, 70 Stat. 565, which transferred available funds to the Department of State to carry out international educational exchange activities, was repealed by Pub. L. 87–195, pt. III, § 642(a)(4). Sept. 4, 1961, 75 Stat. 460.
 
-### § 1754. Foreign currencies
+### § 1754. Foreign currencies
 
-**(a) Availability and use** Notwithstanding section 1306 of title 31, or any other provision of law, proceeds of sales made under section 1675p 1
+**(a) Availability and use** Notwithstanding section 1306 of title 31, or any other provision of law, proceeds of sales made under section 1675p 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, shall remain available and shall be used for any of the purposes of this chapter, giving particular regard to the following purposes—
 
@@ -93,7 +93,7 @@ shall be made available to Members and employees of the Congress for their local
 
 **(B)** On a quarterly basis, the Clerk of the House of Representatives and the Secretary of the Senate shall each prepare a consolidation of the reports received by them under this paragraph with respect to expenditures during the preceding quarter by each Member and employee or by each group in the case of expenditures made on behalf of a group which are not allocable to individual members of the group. Each such consolidation shall be open to public inspection and shall be published in the Congressional Record within ten legislative days after its completion.
 
-(Aug. 26, 1954, ch. 937, ch. IV, § 502, 68 Stat. 849; Sept. 3, 1954, ch. 1262, § 104, 68 Stat. 1223; July 8, 1955, ch. 301, § 9(a), 69 Stat. 288; July 18, 1956, ch. 627, § 9(b), 70 Stat. 560; Pub. L. 85–477, ch. IV, § 401(a), June 30, 1958, 72 Stat. 268; Pub. L. 85–766, ch. X, § 1001, Aug. 27, 1958, 72 Stat. 880; Pub. L. 86–472, ch. IV, § 401(a), May 14, 1960, 74 Stat. 138; Pub. L. 86–628, title I, § 105(a), July 12, 1960, 74 Stat. 460; Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460; Pub. L. 88–633, pt. IV, § 402, Oct. 7, 1964, 78 Stat. 1015; Pub. L. 93–126, § 5, Oct. 18, 1973, 87 Stat. 452; Pub. L. 93–371, § 107, Aug. 13, 1974, 88 Stat. 444; Pub. L. 94–59, title XI, § 1105, July 25, 1975, 89 Stat. 299; Pub. L. 94–157, title I, ch. IV, Dec. 18, 1975, 89 Stat. 837; Pub. L. 94–350, title IV, § 402, July 12, 1976, 90 Stat. 833; Pub. L. 94–440, title I, § 109, Oct. 1, 1976, 90 Stat. 1445; Pub. L. 95–384, § 22(a), Sept. 26, 1978, 92 Stat. 742; Pub. L. 104–186, title II, § 218(2), Aug. 20, 1996, 110 Stat. 1747.)
+(Aug. 26, 1954, ch. 937, ch. IV, § 502, 68 Stat. 849; Sept. 3, 1954, ch. 1262, § 104, 68 Stat. 1223; July 8, 1955, ch. 301, § 9(a), 69 Stat. 288; July 18, 1956, ch. 627, § 9(b), 70 Stat. 560; Pub. L. 85–477, ch. IV, § 401(a), June 30, 1958, 72 Stat. 268; Pub. L. 85–766, ch. X, § 1001, Aug. 27, 1958, 72 Stat. 880; Pub. L. 86–472, ch. IV, § 401(a), May 14, 1960, 74 Stat. 138; Pub. L. 86–628, title I, § 105(a), July 12, 1960, 74 Stat. 460; Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460; Pub. L. 88–633, pt. IV, § 402, Oct. 7, 1964, 78 Stat. 1015; Pub. L. 93–126, § 5, Oct. 18, 1973, 87 Stat. 452; Pub. L. 93–371, § 107, Aug. 13, 1974, 88 Stat. 444; Pub. L. 94–59, title XI, § 1105, July 25, 1975, 89 Stat. 299; Pub. L. 94–157, title I, ch. IV, Dec. 18, 1975, 89 Stat. 837; Pub. L. 94–350, title IV, § 402, July 12, 1976, 90 Stat. 833; Pub. L. 94–440, title I, § 109, Oct. 1, 1976, 90 Stat. 1445; Pub. L. 95–384, § 22(a), Sept. 26, 1978, 92 Stat. 742; Pub. L. 104–186, title II, § 218(2), Aug. 20, 1996, 110 Stat. 1747.)
 
 **Editorial Notes**
 
@@ -103,7 +103,7 @@ Section 1675p of this title, referred to in subsec. (a), was repealed by section
 
 **Codification**
 
-In subsecs. (a) and (b)(1)(A), “section 1306 of title 31” substituted for “section 1415 of the Supplemental Appropriation Act, 1953 [31 U.S.C. 724]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsecs. (a) and (b)(1)(A), “section 1306 of title 31” substituted for “section 1415 of the Supplemental Appropriation Act, 1953 [31 U.S.C. 724]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
@@ -129,9 +129,9 @@ Pub. L. 94–59 struck out provisions requiring each member or employee to make,
 
 1960—Subsec. (b). Pub. L. 86–628 required inclusion in the reports of expenditures of each member and employee of the committees and subcommittees.
 
-Pub. L. 86–472, § 401(a)(1), required members and employees of committees to report the amounts of dollar expenditures made from appropriated funds in connection with travel outside the United States, and provided that the consolidated report shall show the total itemized expenditures incurred as a result of official activities of members and employees of committees or subcommittees.
+Pub. L. 86–472, § 401(a)(1), required members and employees of committees to report the amounts of dollar expenditures made from appropriated funds in connection with travel outside the United States, and provided that the consolidated report shall show the total itemized expenditures incurred as a result of official activities of members and employees of committees or subcommittees.
 
-Subsec. (c). Pub. L. 86–472, § 401(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 86–472, § 401(a)(2), added subsec. (c).
 
 1958—Subsec. (b). Pub. L. 85–766 required reports to the Select Committee on Astronautics and Space Exploration of the House of Representatives and the Special Committee on Space and Astronautics of the Senate.
 
@@ -147,7 +147,7 @@ Pub. L. 85–477 required each member or employee of the committees to make an i
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–384, § 22(b), Sept. 26, 1978, 92 Stat. 743, provided that: “Notwithstanding section 30 of this Act [set out as a note below], the amendment made by subsection (a) of this section [amending this section] shall take effect on the date of enactment of this Act [Sept. 26, 1978].”
+Pub. L. 95–384, § 22(b), Sept. 26, 1978, 92 Stat. 743, provided that: “Notwithstanding section 30 of this Act [set out as a note below], the amendment made by subsection (a) of this section [amending this section] shall take effect on the date of enactment of this Act [Sept. 26, 1978].”
 
 **Short Title of 1960 Amendment**
 
@@ -155,7 +155,7 @@ Pub. L. 86–735, Sept. 8, 1960, 74 Stat. 869, as amended, which enacted section
 
 **Short Title**
 
-Act Aug. 26, 1954, ch. 937, § 1, 68 Stat. 832, as amended by act June 30, 1958, Pub. L. 85–477, § 2, 72 Stat. 261, provided in part: “That this act [enacting this chapter, section 281b–2 of this title, and section 151c of former Title 5, Executive Departments and Government Officers and Employees, amending sections 279a, 281b, 290b, 1148, 1442, and 2658 of this title, section 1704 of Title 7, Agriculture, section 1441 of Title 26, Internal Revenue Code, and section 1641 of the former Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under section 1751 of this title] may be cited as the ‘Mutual Security Act of 1954’.”
+Act Aug. 26, 1954, ch. 937, § 1, 68 Stat. 832, as amended by act June 30, 1958, Pub. L. 85–477, § 2, 72 Stat. 261, provided in part: “That this act [enacting this chapter, section 281b–2 of this title, and section 151c of former Title 5, Executive Departments and Government Officers and Employees, amending sections 279a, 281b, 290b, 1148, 1442, and 2658 of this title, section 1704 of Title 7, Agriculture, section 1441 of Title 26, Internal Revenue Code, and section 1641 of the former Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under section 1751 of this title] may be cited as the ‘Mutual Security Act of 1954’.”
 
 **Transfer of Functions**
 
@@ -163,7 +163,7 @@ Certain functions of Clerk of House of Representatives transferred to Director o
 
 **International Security Assistance Act of 1978 Not To Affect Authorizations of Appropriations and Limitations of Authority Applicable to Fiscal Year 1978**
 
-Pub. L. 95–384, § 30, Sept. 26, 1978, 92 Stat. 748, provided that: “Enactment of this Act [see Short Title of 1978 Amendment note set out under section 2151 of this title] shall not affect the authorizations of appropriations and limitations of authority applicable to the fiscal year 1978 which are contained in provisions of law amended by this Act (other than sections 31(a), (b), and (d) of the Arms Export Control Act [section 2771(a), (b), and (d) of this title]).”
+Pub. L. 95–384, § 30, Sept. 26, 1978, 92 Stat. 748, provided that: “Enactment of this Act [see Short Title of 1978 Amendment note set out under section 2151 of this title] shall not affect the authorizations of appropriations and limitations of authority applicable to the fiscal year 1978 which are contained in provisions of law amended by this Act (other than sections 31(a), (b), and (d) of the Arms Export Control Act [section 2771(a), (b), and (d) of this title]).”
 
 **Executive Documents**
 
@@ -171,99 +171,99 @@ Pub. L. 95–384, § 30, Sept. 26, 1978, 92 Stat. 748, provided that: “Enact
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
-### §§ 1755 to 1759. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+### §§ 1755 to 1759. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section 1755, acts Aug. 26, 1954, ch. 937, ch. IV, § 503, 68 Stat. 850; July 8, 1955, ch. 301, § 9(b), 69 Stat. 288; Aug. 14, 1957, Pub. L. 85–141, § 9(a), 71 Stat. 363; June 30, 1958, Pub. L. 85–477, ch. V, § 501(17), 72 Stat. 271; July 24, 1959, Pub. L. 86–108, ch. IV, § 401(a), 73 Stat. 252, provided for termination of assistance under this chapter. See section 2367 of this title.
+Section 1755, acts Aug. 26, 1954, ch. 937, ch. IV, § 503, 68 Stat. 850; July 8, 1955, ch. 301, § 9(b), 69 Stat. 288; Aug. 14, 1957, Pub. L. 85–141, § 9(a), 71 Stat. 363; June 30, 1958, Pub. L. 85–477, ch. V, § 501(17), 72 Stat. 271; July 24, 1959, Pub. L. 86–108, ch. IV, § 401(a), 73 Stat. 252, provided for termination of assistance under this chapter. See section 2367 of this title.
 
-Section 1756, acts Aug. 26, 1954, ch. 937, ch. IV, § 504, 68 Stat. 851; Aug. 14, 1957, Pub. L. 85–141, § 9(b), 71 Stat. 363; June 30, 1958, Pub. L. 85–477, ch. V § 501(18), 72 Stat. 271; July 24, 1959, Pub. L. 86–108, ch. IV, § 401(b), 73 Stat. 252; May 14, 1960, Pub. L. 86–472, ch. IV, § 401(b), 74 Stat. 139, related to small business participation in furnishing of commodities and services. See section 2352 of this title.
+Section 1756, acts Aug. 26, 1954, ch. 937, ch. IV, § 504, 68 Stat. 851; Aug. 14, 1957, Pub. L. 85–141, § 9(b), 71 Stat. 363; June 30, 1958, Pub. L. 85–477, ch. V § 501(18), 72 Stat. 271; July 24, 1959, Pub. L. 86–108, ch. IV, § 401(b), 73 Stat. 252; May 14, 1960, Pub. L. 86–472, ch. IV, § 401(b), 74 Stat. 139, related to small business participation in furnishing of commodities and services. See section 2352 of this title.
 
-Section 1757, acts Aug. 26, 1954, ch. 937, ch. IV, § 505, 68 Stat. 851; July 8, 1955, ch. 301, § 9(c), 69 Stat. 288; Aug. 14, 1957, Pub. L. 85–141, § 9(c), 71 Stat. 363; July 24, 1959, Pub. L. 86–108, ch. IV, § 401(c), 73 Stat. 252; May 14, 1960, Pub. L. 86–472, ch. IV, § 401(c), 74 Stat. 139, provided for manner and terms of furnishing loan assistance and sales. See section 2395 of this title.
+Section 1757, acts Aug. 26, 1954, ch. 937, ch. IV, § 505, 68 Stat. 851; July 8, 1955, ch. 301, § 9(c), 69 Stat. 288; Aug. 14, 1957, Pub. L. 85–141, § 9(c), 71 Stat. 363; July 24, 1959, Pub. L. 86–108, ch. IV, § 401(c), 73 Stat. 252; May 14, 1960, Pub. L. 86–472, ch. IV, § 401(c), 74 Stat. 139, provided for manner and terms of furnishing loan assistance and sales. See section 2395 of this title.
 
-Section 1758, act Aug. 26, 1954, ch. 937, ch. IV, § 506, 68 Stat. 852, related to patents and technical information. See section 2356 of this title.
+Section 1758, act Aug. 26, 1954, ch. 937, ch. IV, § 506, 68 Stat. 852, related to patents and technical information. See section 2356 of this title.
 
-Section 1759, acts Aug. 26, 1954, ch. 937, ch. IV, § 507, 68 Stat. 852; July 18, 1956, ch. 627, § 9(c), 70 Stat. 560, related to availability of funds.
+Section 1759, acts Aug. 26, 1954, ch. 937, ch. IV, § 507, 68 Stat. 852; July 18, 1956, ch. 627, § 9(c), 70 Stat. 560, related to availability of funds.
 
-### § 1759a. Repealed. Pub. L. 86–108, ch. IV, § 401(l), July 24, 1959, 73 Stat. 255
+### § 1759a. Repealed. Pub. L. 86–108, ch. IV, § 401(l), July 24, 1959, 73 Stat. 255
 
-Section, act Aug. 26, 1954, ch. 937, ch. IV, § 549, as added July 18, 1956, ch. 627, § 1(d), 70 Stat. 565; amended Aug. 14, 1957, Pub. L. 85–141, § 11(e), 71 Stat. 365; June 30, 1958, Pub. L. 85–477, ch. V, § 501(34), 72 Stat. 272, authorized an amount equal to 25 per centum of funds authorized to be appropriated for any fiscal year for purposes of sections 1891 to 1896, 1897, 1898, or 1923 of this title to be continued available for three months beyond end of fiscal year for which appropriated.
+Section, act Aug. 26, 1954, ch. 937, ch. IV, § 549, as added July 18, 1956, ch. 627, § 1(d), 70 Stat. 565; amended Aug. 14, 1957, Pub. L. 85–141, § 11(e), 71 Stat. 365; June 30, 1958, Pub. L. 85–477, ch. V, § 501(34), 72 Stat. 272, authorized an amount equal to 25 per centum of funds authorized to be appropriated for any fiscal year for purposes of sections 1891 to 1896, 1897, 1898, or 1923 of this title to be continued available for three months beyond end of fiscal year for which appropriated.
 
-### § 1760. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+### § 1760. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section, act Aug. 26, 1954, ch. 937, ch. IV, § 508, 68 Stat. 853, prohibited use of funds for propaganda purposes.
+Section, act Aug. 26, 1954, ch. 937, ch. IV, § 508, 68 Stat. 853, prohibited use of funds for propaganda purposes.
 
-### § 1760a. Omitted
-
-**Editorial Notes**
-
-**Codification**
-
-Section, which limited use of counterpart funds with respect to payment of debts of foreign countries, was enacted as a part of section 105 of the Mutual Security Appropriation Act, 1958, Pub. L. 85–279, § 105, Sept. 3, 1957, 71 Stat. 603, and was not repeated in subsequent appropriation acts.
-
-### §§ 1761 to 1765. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
-
-Section 1761, acts Aug. 26, 1954, ch. 937, ch. IV, § 509, 68 Stat. 853; July 8, 1955, ch. 301, § 9(d), 69 Stat. 288; July 18, 1956, ch. 627, § 9(d), 70 Stat. 560; Aug. 14, 1957, Pub. L. 85–141, § 9(d), 71 Stat. 363; June 30, 1958, Pub. L. 85–477, ch. IV, § 401(b), 72 Stat. 269, related to shipping on United States vessels. See section 2353 of this title.
-
-Section 1762, acts Aug. 26, 1954, ch. 937, ch. IV, § 510, 68 Stat. 853; June 30, 1958, Pub. L. 85–477, ch. IV, § 401(c), ch. V, § 501(19), 72 Stat. 269, 271; July 24, 1959, Pub. L. 86–108, ch. IV, § 401(d), 73 Stat. 253, related to purchase of commodities in bulk and to surplus agricultural commodities. See section 2354 of this title.
-
-Section 1763, acts Aug. 26, 1954, ch. 937, ch. IV, § 511, 68 Stat. 853; Aug. 14, 1957, Pub. L. 85–141, § 9(e), 71 Stat. 363; June 30, 1958, Pub. L. 85–477, ch. V, § 501(20), (21), 72 Stat. 271, provided for preservation of military stock and retention and return of equipment. See section 2355 of this title.
-
-Section 1764, act Aug. 26, 1954, ch. 937, ch. IV, § 512, 68 Stat. 854, prescribed penalties for accepting commissions, etc., for procurement services by United States officers and employees.
-
-Section 1765, act Aug. 26, 1954, ch. 937, ch. IV, § 513, as added Aug. 14, 1957, Pub. L. 85–141, § 9(f), 71 Stat. 363; amended June 30, 1958, Pub. L. 85–477, ch. V, § 501(22), 72 Stat. 271; May 14, 1960, Pub. L. 86–472, ch. IV, § 401(d), 74 Stat. 139, provided for notice to legislative committees. See section 2394(d) of this title.
-
-### § 1766. Omitted
+### § 1760a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Aug. 26, 1954, ch. 937, ch. IV, § 514, 68 Stat. 854, related to reservation of foreign currencies or credits owed to or by the United States by the Secretary of the Treasury for sale to the Department of State for international educational exchange activities on basis of dollar value at time of reservation. See sections 2362 and 2455 of this title.
+Section, which limited use of counterpart funds with respect to payment of debts of foreign countries, was enacted as a part of section 105 of the Mutual Security Appropriation Act, 1958, Pub. L. 85–279, § 105, Sept. 3, 1957, 71 Stat. 603, and was not repeated in subsequent appropriation acts.
 
-### §§ 1766a to 1766c. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+### §§ 1761 to 1765. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section 1766a, act Aug. 26, 1954, ch. 937, ch. IV, § 515, as added July 18, 1956, ch. 627, § 9(e), 70 Stat. 560, related to authorization for grant of contract authority. See section 2365 of this title.
+Section 1761, acts Aug. 26, 1954, ch. 937, ch. IV, § 509, 68 Stat. 853; July 8, 1955, ch. 301, § 9(d), 69 Stat. 288; July 18, 1956, ch. 627, § 9(d), 70 Stat. 560; Aug. 14, 1957, Pub. L. 85–141, § 9(d), 71 Stat. 363; June 30, 1958, Pub. L. 85–477, ch. IV, § 401(b), 72 Stat. 269, related to shipping on United States vessels. See section 2353 of this title.
 
-Section 1766b, act Aug. 26, 1954, ch. 937, ch. IV, § 516, as added June 30, 1958, Pub. L. 85–477, ch. IV, § 401(d), 72 Stat. 269, prohibited use of funds for debt retirement.
+Section 1762, acts Aug. 26, 1954, ch. 937, ch. IV, § 510, 68 Stat. 853; June 30, 1958, Pub. L. 85–477, ch. IV, § 401(c), ch. V, § 501(19), 72 Stat. 269, 271; July 24, 1959, Pub. L. 86–108, ch. IV, § 401(d), 73 Stat. 253, related to purchase of commodities in bulk and to surplus agricultural commodities. See section 2354 of this title.
 
-Section 1766c, act Aug. 26, 1954, ch. 937, ch. IV, § 517, as added June 30, 1958, Pub. L. 85–477, ch. IV, § 401(d), 72 Stat. 269; amended July 24, 1959, Pub. L. 86–108, ch. IV, § 401(e), 73 Stat. 253; May 14, 1960, Pub. L. 86–472, ch. IV, § 401(e), 74 Stat. 139, related to completion of plans and cost estimates, and to computation of benefits and costs. See section 2361 of this title.
+Section 1763, acts Aug. 26, 1954, ch. 937, ch. IV, § 511, 68 Stat. 853; Aug. 14, 1957, Pub. L. 85–141, § 9(e), 71 Stat. 363; June 30, 1958, Pub. L. 85–477, ch. V, § 501(20), (21), 72 Stat. 271, provided for preservation of military stock and retention and return of equipment. See section 2355 of this title.
 
-### § 1767. Repealed. Pub. L. 85–141, § 11(d), Aug. 14, 1957, 71 Stat. 365
+Section 1764, act Aug. 26, 1954, ch. 937, ch. IV, § 512, 68 Stat. 854, prescribed penalties for accepting commissions, etc., for procurement services by United States officers and employees.
 
-Section, act Aug. 26, 1954, ch. 937, title V, § 547, 68 Stat. 864, provided for a general limitation on authorizations.
+Section 1765, act Aug. 26, 1954, ch. 937, ch. IV, § 513, as added Aug. 14, 1957, Pub. L. 85–141, § 9(f), 71 Stat. 363; amended June 30, 1958, Pub. L. 85–477, ch. V, § 501(22), 72 Stat. 271; May 14, 1960, Pub. L. 86–472, ch. IV, § 401(d), 74 Stat. 139, provided for notice to legislative committees. See section 2394(d) of this title.
 
-### §§ 1767a, 1768. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+### § 1766. Omitted
 
-Section 1767a, act Aug. 26, 1954, ch. 937, ch. IV, § 548, as added July 8, 1955, ch. 301, § 11, 69 Stat. 289; amended July 18, 1956, ch. 627, § 11(c), 70 Stat. 565, related to availability of unexpended balances of funds. See section 2404 of this title.
+**Editorial Notes**
 
-Section 1768, acts Aug. 26, 1954, ch. 937, ch. IV, § 543, 68 Stat. 861; Aug. 14, 1957, Pub. L. 85–141, § 11(a), 71 Stat. 365; June 30, 1958, Pub. L. 85–477, ch. IV, § 401(g), 72 Stat. 270; July 24, 1959, Pub. L. 86–108, ch. IV, § 401(k), 73 Stat. 255, contained savings provisions. See section 2392 of this title.
+**Codification**
 
-### §§ 1781, 1782. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+Section, act Aug. 26, 1954, ch. 937, ch. IV, § 514, 68 Stat. 854, related to reservation of foreign currencies or credits owed to or by the United States by the Secretary of the Treasury for sale to the Department of State for international educational exchange activities on basis of dollar value at time of reservation. See sections 2362 and 2455 of this title.
 
-Section 1781, acts Aug. 26, 1954, ch. 937, ch. IV, § 521, 68 Stat. 855; July 18, 1956, ch. 627, § 10(a), 70 Stat. 560; Aug. 14, 1957, Pub. L. 85–141, § 10(a), 71 Stat. 363; June 30, 1958, Pub. L. 85–477, ch. V, § 501(24), (25), 72 Stat. 271, empowered the President to delegate his authority and provided for the promulgation of rules and regulations. See section 2381 of this title.
+### §§ 1766a to 1766c. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section 1782, acts Aug. 26, 1954, ch. 937, ch. IV, § 522, 68 Stat. 855; July 18, 1956, ch. 627, § 10(b), 70 Stat. 560; June 30, 1958, Pub. L. 85–477, ch. V, § 501(26), 72 Stat. 272, related to allocation and transfer of funds among Government agencies, utilization of services and facilities, reimbursement for military assistance, commodities, services, and facilities, establishment of accounts, and to charge of expenses to appropriation. See section 2392 of this title.
+Section 1766a, act Aug. 26, 1954, ch. 937, ch. IV, § 515, as added July 18, 1956, ch. 627, § 9(e), 70 Stat. 560, related to authorization for grant of contract authority. See section 2365 of this title.
 
-### § 1783. Coordination with foreign policy
+Section 1766b, act Aug. 26, 1954, ch. 937, ch. IV, § 516, as added June 30, 1958, Pub. L. 85–477, ch. IV, § 401(d), 72 Stat. 269, prohibited use of funds for debt retirement.
 
-**(a)** to (c) Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460.
+Section 1766c, act Aug. 26, 1954, ch. 937, ch. IV, § 517, as added June 30, 1958, Pub. L. 85–477, ch. IV, § 401(d), 72 Stat. 269; amended July 24, 1959, Pub. L. 86–108, ch. IV, § 401(e), 73 Stat. 253; May 14, 1960, Pub. L. 86–472, ch. IV, § 401(e), 74 Stat. 139, related to completion of plans and cost estimates, and to computation of benefits and costs. See section 2361 of this title.
+
+### § 1767. Repealed. Pub. L. 85–141, § 11(d), Aug. 14, 1957, 71 Stat. 365
+
+Section, act Aug. 26, 1954, ch. 937, title V, § 547, 68 Stat. 864, provided for a general limitation on authorizations.
+
+### §§ 1767a, 1768. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+
+Section 1767a, act Aug. 26, 1954, ch. 937, ch. IV, § 548, as added July 8, 1955, ch. 301, § 11, 69 Stat. 289; amended July 18, 1956, ch. 627, § 11(c), 70 Stat. 565, related to availability of unexpended balances of funds. See section 2404 of this title.
+
+Section 1768, acts Aug. 26, 1954, ch. 937, ch. IV, § 543, 68 Stat. 861; Aug. 14, 1957, Pub. L. 85–141, § 11(a), 71 Stat. 365; June 30, 1958, Pub. L. 85–477, ch. IV, § 401(g), 72 Stat. 270; July 24, 1959, Pub. L. 86–108, ch. IV, § 401(k), 73 Stat. 255, contained savings provisions. See section 2392 of this title.
+
+### §§ 1781, 1782. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+
+Section 1781, acts Aug. 26, 1954, ch. 937, ch. IV, § 521, 68 Stat. 855; July 18, 1956, ch. 627, § 10(a), 70 Stat. 560; Aug. 14, 1957, Pub. L. 85–141, § 10(a), 71 Stat. 363; June 30, 1958, Pub. L. 85–477, ch. V, § 501(24), (25), 72 Stat. 271, empowered the President to delegate his authority and provided for the promulgation of rules and regulations. See section 2381 of this title.
+
+Section 1782, acts Aug. 26, 1954, ch. 937, ch. IV, § 522, 68 Stat. 855; July 18, 1956, ch. 627, § 10(b), 70 Stat. 560; June 30, 1958, Pub. L. 85–477, ch. V, § 501(26), 72 Stat. 272, related to allocation and transfer of funds among Government agencies, utilization of services and facilities, reimbursement for military assistance, commodities, services, and facilities, establishment of accounts, and to charge of expenses to appropriation. See section 2392 of this title.
+
+### § 1783. Coordination with foreign policy
+
+**(a)** to (c) Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460.
 
 **(d)** Whenever the President determines that the prevention of improper currency transactions in a given country requires it, he may direct the chief of the United States diplomatic mission there to issue regulations applicable to members of the Armed Forces and officers and employees of the United States Government, and to contractors with the United States Government and their employees, governing the extent to which their pay and allowances received and to be used in that country shall be paid in local currency. Notwithstanding any other law, United States Government agencies are authorized and directed to comply with such regulations.
 
-(Aug. 26, 1954, ch. 937, ch. IV, § 523, 68 Stat. 856; Pub. L. 85–141, § 10(b), Aug. 14, 1957, 71 Stat. 364; Pub. L. 85–477, ch. V, § 501(27), June 30, 1958, 72 Stat. 272; Pub. L. 86–108, ch. IV, § 401(f), July 24, 1959, 73 Stat. 253; Pub. L. 86–472, ch. IV, § 401(f), May 14, 1960, 74 Stat. 139; Pub. L. 87–195, pt. III, § 642(a)(2), pt. IV, § 707, Sept. 4, 1961, 75 Stat. 460, 464.)
+(Aug. 26, 1954, ch. 937, ch. IV, § 523, 68 Stat. 856; Pub. L. 85–141, § 10(b), Aug. 14, 1957, 71 Stat. 364; Pub. L. 85–477, ch. V, § 501(27), June 30, 1958, 72 Stat. 272; Pub. L. 86–108, ch. IV, § 401(f), July 24, 1959, 73 Stat. 253; Pub. L. 86–472, ch. IV, § 401(f), May 14, 1960, 74 Stat. 139; Pub. L. 87–195, pt. III, § 642(a)(2), pt. IV, § 707, Sept. 4, 1961, 75 Stat. 460, 464.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1961—Subsecs. (a) to (c). Pub. L. 87–195, § 642(a)(2), repealed subsecs. (a) to (c) which related to powers and functions of the Secretary of State, required the President to prescribe procedures to assure coordination among representatives of the Government, and made the Secretary of State responsible for the continuous supervision and general direction of the assistance programs. See section 2382 of this title.
+1961—Subsecs. (a) to (c). Pub. L. 87–195, § 642(a)(2), repealed subsecs. (a) to (c) which related to powers and functions of the Secretary of State, required the President to prescribe procedures to assure coordination among representatives of the Government, and made the Secretary of State responsible for the continuous supervision and general direction of the assistance programs. See section 2382 of this title.
 
-Subsec. (d). Pub. L. 87–195, § 707, substituted “prevention of improper currency transactions” for “achievement of United States foreign policy objectives”.
+Subsec. (d). Pub. L. 87–195, § 707, substituted “prevention of improper currency transactions” for “achievement of United States foreign policy objectives”.
 
 1960—Subsec. (d). Pub. L. 86–472 added subsec. (d).
 
-1959—Subsec. (b). Pub. L. 86–108, § 401(f)(1), required the chief of the diplomatic mission to make sure that recommendations of representatives pertaining to military assistance are coordinated with political and economic considerations.
+1959—Subsec. (b). Pub. L. 86–108, § 401(f)(1), required the chief of the diplomatic mission to make sure that recommendations of representatives pertaining to military assistance are coordinated with political and economic considerations.
 
-Subsec. (c). Pub. L. 86–108, § 401(f)(2), substituted provisions making the Secretary of State responsible for the continuous supervision and general direction of the assistance programs for provisions which required the Secretary of State to coordinate the various forms of assistance and to determine the value of the program under subchapter II of this chapter for any country.
+Subsec. (c). Pub. L. 86–108, § 401(f)(2), substituted provisions making the Secretary of State responsible for the continuous supervision and general direction of the assistance programs for provisions which required the Secretary of State to coordinate the various forms of assistance and to determine the value of the program under subchapter II of this chapter for any country.
 
 1958—Subsec. (c)(2). Pub. L. 85–477 substituted “subchapter II of this chapter” for “sections 1811 to 1817 of this title”.
 
@@ -277,7 +277,7 @@ Section 707 of Pub. L. 87–195, cited as a credit to this section, was repealed
 
 **Study of Agencies Engaged in Foreign Economic Activities**
 
-Pub. L. 86–472, ch. VI, § 604, May 14, 1960, 74 Stat. 141, which related to study of agencies engaged in foreign economic activities, was repealed by Pub. L. 87–195, pt. III, § 642(a)(8), Sept. 4, 1961, 75 Stat. 460.
+Pub. L. 86–472, ch. VI, § 604, May 14, 1960, 74 Stat. 141, which related to study of agencies engaged in foreign economic activities, was repealed by Pub. L. 87–195, pt. III, § 642(a)(8), Sept. 4, 1961, 75 Stat. 460.
 
 **Executive Documents**
 
@@ -285,73 +285,73 @@ Pub. L. 86–472, ch. VI, § 604, May 14, 1960, 74 Stat. 141, which related to
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
-### §§ 1784 to 1795. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+### §§ 1784 to 1795. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section 1784, acts Aug. 26, 1954, ch. 937, ch. IV, § 524, 68 Stat. 856; July 8, 1955, ch. 301, § 10(a), 69 Stat. 288; Aug. 14, 1957, Pub. L. 85–141, § 10(c), 71 Stat. 364; June 30, 1958, Pub. L. 85–477, ch. V, § 501(28), 72 Stat. 272, prescribed duties of Secretary of Defense. See section 2383 of this title.
+Section 1784, acts Aug. 26, 1954, ch. 937, ch. IV, § 524, 68 Stat. 856; July 8, 1955, ch. 301, § 10(a), 69 Stat. 288; Aug. 14, 1957, Pub. L. 85–141, § 10(c), 71 Stat. 364; June 30, 1958, Pub. L. 85–477, ch. V, § 501(28), 72 Stat. 272, prescribed duties of Secretary of Defense. See section 2383 of this title.
 
-Section 1785, acts Aug. 26, 1954, ch. 937, ch. IV, § 525, 68 Stat. 856; July 8, 1955, ch. 301, § 10(b), 69 Stat. 288; Aug. 14, 1957, Pub. L. 85–141, § 10(d), 71 Stat. 364, authorized transfer of functions of Foreign Operations Administration.
+Section 1785, acts Aug. 26, 1954, ch. 937, ch. IV, § 525, 68 Stat. 856; July 8, 1955, ch. 301, § 10(b), 69 Stat. 288; Aug. 14, 1957, Pub. L. 85–141, § 10(d), 71 Stat. 364, authorized transfer of functions of Foreign Operations Administration.
 
-Section 1786, acts Aug. 26, 1954, ch. 937, ch. IV, § 526, 68 Stat. 857; July 8, 1955, ch. 301, § 10(c), 69 Stat. 289, authorized maintenance of special missions and staffs abroad. See section 2391 of this title.
+Section 1786, acts Aug. 26, 1954, ch. 937, ch. IV, § 526, 68 Stat. 857; July 8, 1955, ch. 301, § 10(c), 69 Stat. 289, authorized maintenance of special missions and staffs abroad. See section 2391 of this title.
 
-Section 1787, acts Aug. 26, 1954, ch. 937, ch. IV, § 527, 68 Stat. 857; July 31, 1956, ch. 804, title I, § 113, 70 Stat. 740; Aug. 14, 1957, Pub. L. 85–141, § 10(e), 71 Stat. 364; June 30, 1958, Pub. L. 85–477, ch. IV, § 401(e), 72 Stat. 269; July 24, 1959, Pub. L. 86–108, ch. IV, § 401(g), 73 Stat. 253; May 14, 1960, Pub. L. 86–472, ch. IV, § 401(g), ch. V, § 501(c), (d), 74 Stat. 139, 140, related to employment of personnel. See section 2385 of this title.
+Section 1787, acts Aug. 26, 1954, ch. 937, ch. IV, § 527, 68 Stat. 857; July 31, 1956, ch. 804, title I, § 113, 70 Stat. 740; Aug. 14, 1957, Pub. L. 85–141, § 10(e), 71 Stat. 364; June 30, 1958, Pub. L. 85–477, ch. IV, § 401(e), 72 Stat. 269; July 24, 1959, Pub. L. 86–108, ch. IV, § 401(g), 73 Stat. 253; May 14, 1960, Pub. L. 86–472, ch. IV, § 401(g), ch. V, § 501(c), (d), 74 Stat. 139, 140, related to employment of personnel. See section 2385 of this title.
 
-Section 1788, act Aug. 26, 1954, ch. 937, ch. IV, § 528, 68 Stat. 858, authorized detail of personnel to foreign governments. See section 2387 of this title.
+Section 1788, act Aug. 26, 1954, ch. 937, ch. IV, § 528, 68 Stat. 858, authorized detail of personnel to foreign governments. See section 2387 of this title.
 
-Section 1789, act Aug. 26, 1954, ch. 937, ch. IV, § 529, 68 Stat. 858, authorized detail of personnel to international organizations. See section 2388 of this title.
+Section 1789, act Aug. 26, 1954, ch. 937, ch. IV, § 529, 68 Stat. 858, authorized detail of personnel to international organizations. See section 2388 of this title.
 
-Section 1790, acts Aug. 26, 1954, ch. 937, ch. IV, § 530, 68 Stat. 859; July 8, 1955, ch. 301, § 10(d), 69 Stat. 289; July 18, 1956, ch. 627, § 10(c), 70 Stat. 561; May 14, 1960, Pub. L. 86–472, ch. V, § 501(e), 74 Stat. 140, authorized employment of experts and consultants. See section 2386 of this title.
+Section 1790, acts Aug. 26, 1954, ch. 937, ch. IV, § 530, 68 Stat. 859; July 8, 1955, ch. 301, § 10(d), 69 Stat. 289; July 18, 1956, ch. 627, § 10(c), 70 Stat. 561; May 14, 1960, Pub. L. 86–472, ch. V, § 501(e), 74 Stat. 140, authorized employment of experts and consultants. See section 2386 of this title.
 
-Section 1791, acts Aug. 26, 1954, ch. 937, ch. IV, § 531, 68 Stat. 859; May 14, 1960, Pub. L. 86–472, ch. IV, § 401(h), 74 Stat. 139, related to security clearance.
+Section 1791, acts Aug. 26, 1954, ch. 937, ch. IV, § 531, 68 Stat. 859; May 14, 1960, Pub. L. 86–472, ch. IV, § 401(h), 74 Stat. 139, related to security clearance.
 
-Section 1792, acts Aug. 26, 1954, ch. 937, ch. IV, § 532, 68 Stat. 859; July 18, 1956, ch. 627, § 10(d), 70 Stat. 561, related to exemption of personnel from certain Federal laws. See section 2386 of this title.
+Section 1792, acts Aug. 26, 1954, ch. 937, ch. IV, § 532, 68 Stat. 859; July 18, 1956, ch. 627, § 10(d), 70 Stat. 561, related to exemption of personnel from certain Federal laws. See section 2386 of this title.
 
-Section 1793, act Aug. 26, 1954, ch. 937, ch. IV, § 533, 68 Stat. 860, provided for waiver of certain Federal laws. See section 2393 of this title.
+Section 1793, act Aug. 26, 1954, ch. 937, ch. IV, § 533, 68 Stat. 860, provided for waiver of certain Federal laws. See section 2393 of this title.
 
-Section 1793a, act Aug. 26, 1954, ch. 937, ch. IV, § 533A, as added July 24, 1959, Pub. L. 86–108, ch. IV, § 401(h), 73 Stat. 253; amended May 14, 1960, Pub. L. 86–472, ch. IV, § 401(i), 74 Stat. 140, established Office of Inspector General and Comptroller and transferred certain functions thereto. See section 2384 of this title.
+Section 1793a, act Aug. 26, 1954, ch. 937, ch. IV, § 533A, as added July 24, 1959, Pub. L. 86–108, ch. IV, § 401(h), 73 Stat. 253; amended May 14, 1960, Pub. L. 86–472, ch. IV, § 401(i), 74 Stat. 140, established Office of Inspector General and Comptroller and transferred certain functions thereto. See section 2384 of this title.
 
-Section 1794, acts Aug. 26, 1954, ch. 937, ch. V, § 534, 68 Stat. 860; July 8, 1955, ch. 301, § 10(e), 69 Stat. 289; Aug. 14, 1957, Pub. L. 85–141, § 10(f), 71 Stat. 364; July 24, 1959, Pub. L. 86–108, ch. IV, § 401(i), 73 Stat. 254; May 14, 1960, Pub. L. 86–472, ch. IV, § 401(j), 74 Stat. 140, provided for reports to Congress and for furnishing documents and other material to General Accounting Office and committees of Congress. See section 2394 of this title.
+Section 1794, acts Aug. 26, 1954, ch. 937, ch. V, § 534, 68 Stat. 860; July 8, 1955, ch. 301, § 10(e), 69 Stat. 289; Aug. 14, 1957, Pub. L. 85–141, § 10(f), 71 Stat. 364; July 24, 1959, Pub. L. 86–108, ch. IV, § 401(i), 73 Stat. 254; May 14, 1960, Pub. L. 86–472, ch. IV, § 401(j), 74 Stat. 140, provided for reports to Congress and for furnishing documents and other material to General Accounting Office and committees of Congress. See section 2394 of this title.
 
-Section 1794a, act Aug. 26, 1954, ch. 937, ch. IV, § 550, as added July 24, 1959, Pub. L. 86–108, ch. IV, § 401(m), 73 Stat. 255, required President to make public information concerning mutual security program not deemed to be incompatible with security of United States. See section 2394(b) of this title.
+Section 1794a, act Aug. 26, 1954, ch. 937, ch. IV, § 550, as added July 24, 1959, Pub. L. 86–108, ch. IV, § 401(m), 73 Stat. 255, required President to make public information concerning mutual security program not deemed to be incompatible with security of United States. See section 2394(b) of this title.
 
-Section 1795, acts Aug. 26, 1954, ch. 937, ch. IV, § 535, 68 Stat. 860; July 18, 1956, ch. 627, § 10(e), 70 Stat. 561; Aug. 14, 1957, Pub. L. 85–141, § 10(g), 71 Stat. 364, related to cooperation with nations and international organizations.
+Section 1795, acts Aug. 26, 1954, ch. 937, ch. IV, § 535, 68 Stat. 860; July 18, 1956, ch. 627, § 10(e), 70 Stat. 561; Aug. 14, 1957, Pub. L. 85–141, § 10(g), 71 Stat. 364, related to cooperation with nations and international organizations.
 
-### § 1796. Participation in Joint Commission on Rural Reconstruction in China
+### § 1796. Participation in Joint Commission on Rural Reconstruction in China
 
 The President is authorized to continue to participate in the Joint Commission on Rural Reconstruction in China and to appoint citizens of the United States to the Commission.
 
-(Aug. 26, 1954, ch. 937, ch. IV, § 536, 68 Stat. 861.)
+(Aug. 26, 1954, ch. 937, ch. IV, § 536, 68 Stat. 861.)
 
-### § 1797. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+### § 1797. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section, act Aug. 26, 1954, ch. 937, ch. IV, § 537, as added July 18, 1956, ch. 627, § 10(f), 70 Stat. 561; amended Aug. 14, 1957, Pub. L. 85–141, §§ 6, 10(h), 71 Stat. 357, 364; June 30, 1958, Pub. L. 85–477, ch. IV, § 401(f), ch. V, § 501(29), 72 Stat. 270, 272; July 24, 1959, Pub. L. 86–108, ch. IV, § 401(j), 73 Stat. 255; May 14, 1960, Pub. L. 86–472, ch. IV, § 401(k), (*l*), ch. V, § 501(f), 74 Stat. 140, related to uses of funds under this chapter. See section 2396 of this title.
+Section, act Aug. 26, 1954, ch. 937, ch. IV, § 537, as added July 18, 1956, ch. 627, § 10(f), 70 Stat. 561; amended Aug. 14, 1957, Pub. L. 85–141, §§ 6, 10(h), 71 Stat. 357, 364; June 30, 1958, Pub. L. 85–477, ch. IV, § 401(f), ch. V, § 501(29), 72 Stat. 270, 272; July 24, 1959, Pub. L. 86–108, ch. IV, § 401(j), 73 Stat. 255; May 14, 1960, Pub. L. 86–472, ch. IV, § 401(k), (*l*), ch. V, § 501(f), 74 Stat. 140, related to uses of funds under this chapter. See section 2396 of this title.
 
 ## SUBCHAPTER II—MILITARY ASSISTANCE
 
-### §§ 1811 to 1817. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+### §§ 1811 to 1817. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section 1811, act Aug. 26, 1954, ch. 937, ch. I, § 101, 68 Stat. 833, stated the Congressional declaration of purpose for military assistance. See section 2301 of this title.
+Section 1811, act Aug. 26, 1954, ch. 937, ch. I, § 101, 68 Stat. 833, stated the Congressional declaration of purpose for military assistance. See section 2301 of this title.
 
-Section 1811a, act Aug. 26, 1954, ch. 937, § 2, formerly ch. IV, § 549, as added July 8, 1955, ch. 301, § 11, 69 Stat. 289, renumbered and amended July 18, 1956, ch. 627, § 2, 70 Stat. 555; July 24, 1959, Pub. L. 86–108, § 2, 73 Stat. 246; May 14, 1960, Pub. L. 86–472, § 2, 74 Stat. 134, stated the Congressional declaration of purpose for this chapter. See sections 2151 and 2301 of this title.
+Section 1811a, act Aug. 26, 1954, ch. 937, § 2, formerly ch. IV, § 549, as added July 8, 1955, ch. 301, § 11, 69 Stat. 289, renumbered and amended July 18, 1956, ch. 627, § 2, 70 Stat. 555; July 24, 1959, Pub. L. 86–108, § 2, 73 Stat. 246; May 14, 1960, Pub. L. 86–472, § 2, 74 Stat. 134, stated the Congressional declaration of purpose for this chapter. See sections 2151 and 2301 of this title.
 
-Section 1812, act Aug. 26, 1954, ch. 937, ch. I, § 102, 68 Stat. 833, related to the basis and terms of military assistance. See section 2395 of this title.
+Section 1812, act Aug. 26, 1954, ch. 937, ch. I, § 102, 68 Stat. 833, related to the basis and terms of military assistance. See section 2395 of this title.
 
-Section 1813, acts Aug. 26, 1954, ch. 937, ch. I, § 103, 68 Stat. 833; July 8, 1955, ch. 301, § 2(a)–(c), 69 Stat. 283; July 18, 1956, ch. 627, § 3(a), 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, § 2(a), 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. I, § 101, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, ch. I, § 101(a), 73 Stat. 247; May 14, 1960, Pub. L. 86–472, ch. I, § 101(a), 74 Stat. 134, authorized appropriations for military assistance. See section 2312 of this title.
+Section 1813, acts Aug. 26, 1954, ch. 937, ch. I, § 103, 68 Stat. 833; July 8, 1955, ch. 301, § 2(a)–(c), 69 Stat. 283; July 18, 1956, ch. 627, § 3(a), 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, § 2(a), 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. I, § 101, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, ch. I, § 101(a), 73 Stat. 247; May 14, 1960, Pub. L. 86–472, ch. I, § 101(a), 74 Stat. 134, authorized appropriations for military assistance. See section 2312 of this title.
 
-Section 1814, acts Aug. 26, 1954, ch. 937, ch. I, § 104, 68 Stat. 834; Aug. 14, 1957, Pub. L. 85–141, § 2(b), 71 Stat. 356, authorized NATO infrastructure contributions.
+Section 1814, acts Aug. 26, 1954, ch. 937, ch. I, § 104, 68 Stat. 834; Aug. 14, 1957, Pub. L. 85–141, § 2(b), 71 Stat. 356, authorized NATO infrastructure contributions.
 
-Section 1815, acts Aug. 26, 1954, ch. 937, ch. I, § 105, 68 Stat. 834; July 8, 1955, ch. 301, § 2(d)–(f), 69 Stat. 284; July 18, 1956, ch. 627, § 3(b), 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, § 2(c), 71 Stat. 356; June 30, 1958, Pub. L. 85–477, ch. I, §§ 102, 103, 72 Stat. 262; July 24, 1959, Pub. L. 86–108, ch. I, § 101(b), 73 Stat. 247; May 14, 1960, Pub. L. 86–472, ch. I, § 101(b), 74 Stat. 134, prescribed the conditions and eligibility for military assistance. See section 2314 of this title.
+Section 1815, acts Aug. 26, 1954, ch. 937, ch. I, § 105, 68 Stat. 834; July 8, 1955, ch. 301, § 2(d)–(f), 69 Stat. 284; July 18, 1956, ch. 627, § 3(b), 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, § 2(c), 71 Stat. 356; June 30, 1958, Pub. L. 85–477, ch. I, §§ 102, 103, 72 Stat. 262; July 24, 1959, Pub. L. 86–108, ch. I, § 101(b), 73 Stat. 247; May 14, 1960, Pub. L. 86–472, ch. I, § 101(b), 74 Stat. 134, prescribed the conditions and eligibility for military assistance. See section 2314 of this title.
 
-Section 1816, act Aug. 26, 1954, ch. 937, ch. I, § 106, 68 Stat. 836, authorized the President to sell military equipment, materials and services and prescribed the manner of payment. See sections 2342 and 2343 of this title.
+Section 1816, act Aug. 26, 1954, ch. 937, ch. I, § 106, 68 Stat. 836, authorized the President to sell military equipment, materials and services and prescribed the manner of payment. See sections 2342 and 2343 of this title.
 
-Section 1817, acts Aug. 26, 1954, ch. 937, ch. I, § 107, 68 Stat. 836; Aug. 14, 1957, Pub. L. 85–141, § 2(d), 71 Stat. 356, authorized the waiver of certain laws. See section 2393 of this title.
+Section 1817, acts Aug. 26, 1954, ch. 937, ch. I, § 107, 68 Stat. 836; Aug. 14, 1957, Pub. L. 85–141, § 2(d), 71 Stat. 356, authorized the waiver of certain laws. See section 2393 of this title.
 
-### § 1818. Repealed. Pub. L. 85–141, § 2(e), Aug. 14, 1957, 71 Stat. 356
+### § 1818. Repealed. Pub. L. 85–141, § 2(e), Aug. 14, 1957, 71 Stat. 356
 
-Section, acts Aug. 26, 1954, ch. 937, title I, § 108, 68 Stat. 837; July 8, 1955, ch. 301, § 2(g), 69 Stat. 284, authorized, until June 30, 1956, the transfer of military equipment and supplies to Japan.
+Section, acts Aug. 26, 1954, ch. 937, title I, § 108, 68 Stat. 837; July 8, 1955, ch. 301, § 2(g), 69 Stat. 284, authorized, until June 30, 1956, the transfer of military equipment and supplies to Japan.
 
-### § 1819. Repealed. Pub. L. 95–148, title I, Oct. 31, 1977, 91 Stat. 1232
+### § 1819. Repealed. Pub. L. 95–148, title I, Oct. 31, 1977, 91 Stat. 1232
 
-Section, act Aug. 2, 1955, ch. 491, § 108, 69 Stat. 438, related to an accounting for military assistance funds.
+Section, act Aug. 2, 1955, ch. 491, § 108, 69 Stat. 438, related to an accounting for military assistance funds.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -359,37 +359,37 @@ Section, act Aug. 2, 1955, ch. 491, § 108, 69 Stat. 438, related to an accoun
 
 Pub. L. 95–148 provided that the repeal of this section is effective Oct. 1, 1977.
 
-### §§ 1831 to 1834. Repealed. Pub. L. 85–141, § 3, Aug. 14, 1957, 71 Stat. 356
+### §§ 1831 to 1834. Repealed. Pub. L. 85–141, § 3, Aug. 14, 1957, 71 Stat. 356
 
-Section 1831, acts Aug. 26, 1954, ch. 937, title 1, § 121, 68 Stat. 837; July 8, 1955, ch. 301, § 3(a), 69 Stat. 284, authorized appropriations for assistance for Southeast Asia and Western Pacific for the fiscal year 1955.
+Section 1831, acts Aug. 26, 1954, ch. 937, title 1, § 121, 68 Stat. 837; July 8, 1955, ch. 301, § 3(a), 69 Stat. 284, authorized appropriations for assistance for Southeast Asia and Western Pacific for the fiscal year 1955.
 
-Sections 1832, 1833, act Aug. 26, 1954, ch. 937, title I, §§ 122, 123, 68 Stat. 837, 838, authorized appropriations for fiscal year 1955 for manufacture in United Kingdom of military aircraft, and for provision of any common-use equipment, materials, commodities, or services which are to be used by military forces of nations receiving assistance.
+Sections 1832, 1833, act Aug. 26, 1954, ch. 937, title I, §§ 122, 123, 68 Stat. 837, 838, authorized appropriations for fiscal year 1955 for manufacture in United Kingdom of military aircraft, and for provision of any common-use equipment, materials, commodities, or services which are to be used by military forces of nations receiving assistance.
 
-Section 1834, act Aug. 20, 1954, ch. 937, title I, § 124, as added July 8, 1955, ch. 301, § 3(b), 69 Stat. 284, authorized appropriations for fiscal year 1956 to provide assistance in form of direct forces support to be delivered or rendered directly to military forces of nations eligible for military assistance.
+Section 1834, act Aug. 20, 1954, ch. 937, title I, § 124, as added July 8, 1955, ch. 301, § 3(b), 69 Stat. 284, authorized appropriations for fiscal year 1956 to provide assistance in form of direct forces support to be delivered or rendered directly to military forces of nations eligible for military assistance.
 
 ## SUBCHAPTER III—ECONOMIC ASSISTANCE
 
 ### Part A—Defense Support
 
-#### § 1841. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+#### § 1841. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section, acts Aug. 26, 1954, ch. 937, ch. II, § 131, 68 Stat. 838; July 8, 1955, ch. 301, § 4, 69 Stat. 284; July 18, 1956, ch. 627, § 4, 70 Stat. 556; Aug. 14, 1957, Pub. L. 85–141, § 4(a), 71 Stat. 356; June 30, 1958, Pub. L. 85–477, ch. II, § 201, ch. V, § 501(3), (4), 72 Stat. 262, 270; July 24, 1959, Pub. L. 86–108, ch. II, § 201, 73 Stat. 248; May 14, 1960, Pub. L. 86–472, ch. II, § 201(a), (b), 74 Stat. 134, authorized economic assistance to sustain and increase the military effort and provided for executive authority to furnish assistance, appropriations, marine insurance and assistance for Korea. See section 2354(d) of this title.
+Section, acts Aug. 26, 1954, ch. 937, ch. II, § 131, 68 Stat. 838; July 8, 1955, ch. 301, § 4, 69 Stat. 284; July 18, 1956, ch. 627, § 4, 70 Stat. 556; Aug. 14, 1957, Pub. L. 85–141, § 4(a), 71 Stat. 356; June 30, 1958, Pub. L. 85–477, ch. II, § 201, ch. V, § 501(3), (4), 72 Stat. 262, 270; July 24, 1959, Pub. L. 86–108, ch. II, § 201, 73 Stat. 248; May 14, 1960, Pub. L. 86–472, ch. II, § 201(a), (b), 74 Stat. 134, authorized economic assistance to sustain and increase the military effort and provided for executive authority to furnish assistance, appropriations, marine insurance and assistance for Korea. See section 2354(d) of this title.
 
-#### § 1842. Repealed. Pub. L. 85–141, § 4(b), Aug. 14, 1957, 71 Stat. 356
+#### § 1842. Repealed. Pub. L. 85–141, § 4(b), Aug. 14, 1957, 71 Stat. 356
 
-Section, act Aug. 26, 1954, ch. 937, title I, § 132, 68 Stat. 838, authorized appropriations for defense support, relief and rehabilitation, and other necessary assistance for those parts of Korea which the President determined to be not under Communist control.
+Section, act Aug. 26, 1954, ch. 937, title I, § 132, 68 Stat. 838, authorized appropriations for defense support, relief and rehabilitation, and other necessary assistance for those parts of Korea which the President determined to be not under Communist control.
 
-#### §§ 1851, 1852. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+#### §§ 1851, 1852. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section 1851, acts Aug. 26, 1954, ch. 937, ch. II, § 141, 68 Stat. 839; June 30, 1958, Pub. L. 85–477, ch. V, § 501(6), 72 Stat. 270; May 14, 1960, Pub. L. 86–472, ch. II, § 201(c), 74 Stat. 135, prescribed conditions of eligibility.
+Section 1851, acts Aug. 26, 1954, ch. 937, ch. II, § 141, 68 Stat. 839; June 30, 1958, Pub. L. 85–477, ch. V, § 501(6), 72 Stat. 270; May 14, 1960, Pub. L. 86–472, ch. II, § 201(c), 74 Stat. 135, prescribed conditions of eligibility.
 
-Section 1852, acts Aug. 26, 1954, ch. 937, ch. II, § 142, 68 Stat. 839; July 8, 1955, ch. 301, § 5, 69 Stat. 285; Aug. 14, 1957, Pub. L. 85–141, § 5(a), 71 Stat. 356; June 30, 1958, Pub. L. 85–477, ch. II, § 202, ch. V, § 501(7, 8), 72 Stat. 262, 271; July 24, 1959, Pub. L. 86–108, ch. II, § 202, 73 Stat. 248; May 14, 1960, Pub. L. 86–472, ch. II, § 201(d), 74 Stat. 135, related to agreements by recipient nations for furnishing of defense support or military equipment and materials.
+Section 1852, acts Aug. 26, 1954, ch. 937, ch. II, § 142, 68 Stat. 839; July 8, 1955, ch. 301, § 5, 69 Stat. 285; Aug. 14, 1957, Pub. L. 85–141, § 5(a), 71 Stat. 356; June 30, 1958, Pub. L. 85–477, ch. II, § 202, ch. V, § 501(7, 8), 72 Stat. 262, 271; July 24, 1959, Pub. L. 86–108, ch. II, § 202, 73 Stat. 248; May 14, 1960, Pub. L. 86–472, ch. II, § 201(d), 74 Stat. 135, related to agreements by recipient nations for furnishing of defense support or military equipment and materials.
 
-#### § 1853. Assistance to Yugoslavia
+#### § 1853. Assistance to Yugoslavia
 
 In furnishing assistance to Yugoslavia, the President shall continuously assure himself (1) that Yugoslavia continues to maintain its independence, (2) that Yugoslavia is not participating in any policy or program for the Communist conquest of the world, and (3) that the furnishing of such assistance is in the interest of the national security of the United States. The President shall keep the Foreign Relations Committee and the Appropriations Committee of the Senate and the Speaker of the House of Representatives fully and constantly informed of any assistance furnished to Yugoslavia under this chapter.
 
-(Aug. 26, 1954, ch. 937, ch. II, § 143, as added July 18, 1956, ch. 627, § 5, 70 Stat. 556; amended Pub. L. 85–141, § 5(b), Aug. 14, 1957, 71 Stat. 356.)
+(Aug. 26, 1954, ch. 937, ch. II, § 143, as added July 18, 1956, ch. 627, § 5, 70 Stat. 556; amended Pub. L. 85–141, § 5(b), Aug. 14, 1957, 71 Stat. 356.)
 
 **Editorial Notes**
 
@@ -397,49 +397,49 @@ In furnishing assistance to Yugoslavia, the President shall continuously assure 
 
 1957—Pub. L. 85–141 required the President to continuously assure himself that Yugoslavia continues to maintain its independence, that she is not participating in any policy or program for the Communist conquest of the world, and that the furnishing of assistance is in the interest of national security, and provided that certain committees of the Senate and the Speaker of the House of Representatives should be constantly informed of assistance furnished.
 
-#### § 1854. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+#### § 1854. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section, act Aug. 26, 1954, ch. 937, ch. II, § 144, as added Aug. 14, 1957, Pub. L. 85–141, § 5(c), 71 Stat. 357; amended June 30, 1958, Pub. L. 85–477, ch. V, § 501(9), 72 Stat. 271, authorized assistance to Southeast Asia.
+Section, act Aug. 26, 1954, ch. 937, ch. II, § 144, as added Aug. 14, 1957, Pub. L. 85–141, § 5(c), 71 Stat. 357; amended June 30, 1958, Pub. L. 85–477, ch. V, § 501(9), 72 Stat. 271, authorized assistance to Southeast Asia.
 
 ### Part B—Development Loan Fund
 
-#### §§ 1870 to 1876. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), (4), Sept. 4, 1961, 75 Stat. 460
+#### §§ 1870 to 1876. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), (4), Sept. 4, 1961, 75 Stat. 460
 
-Section 1870, act July 18, 1956, ch. 627, § 14, 70 Stat. 566, stated Congressional declaration of policy to promote economic development of underdeveloped countries. See section 2151 of this title.
+Section 1870, act July 18, 1956, ch. 627, § 14, 70 Stat. 566, stated Congressional declaration of policy to promote economic development of underdeveloped countries. See section 2151 of this title.
 
-Section 1871, act Aug. 26, 1954, ch. 937, ch. II, § 201, as added Aug. 14, 1957, Pub. L. 85–141, § 6, 71 Stat. 357; amended May 14, 1960, Pub. L. 86–472, ch. II, § 202(a), 74 Stat. 135, stated Congressional declaration of purpose for development loan program. See section 2151 of this title.
+Section 1871, act Aug. 26, 1954, ch. 937, ch. II, § 201, as added Aug. 14, 1957, Pub. L. 85–141, § 6, 71 Stat. 357; amended May 14, 1960, Pub. L. 86–472, ch. II, § 202(a), 74 Stat. 135, stated Congressional declaration of purpose for development loan program. See section 2151 of this title.
 
-Section 1872, act Aug. 26, 1954, ch. 937, ch. II, § 202, as added Aug. 14, 1957, Pub. L. 85–141, § 6, 71 Stat. 357; amended June 30, 1958, Pub. L. 85 477, ch. II, § 203(a), ch. V, § 501(10), 72 Stat. 262, 271; July 24, 1959, Pub. L. 86–108, ch. II, § 203(a), 73 Stat. 248; May 14, 1960, Pub. L. 86–472, ch. II, § 202(b), 74 Stat. 135, created Development Loan Fund, authorized Fund to make loans, credits or guaranties, provided for repayment, administration, and reports, and restricted allocation, reservation, earmarking, commitment, or set-aside of funds.
+Section 1872, act Aug. 26, 1954, ch. 937, ch. II, § 202, as added Aug. 14, 1957, Pub. L. 85–141, § 6, 71 Stat. 357; amended June 30, 1958, Pub. L. 85 477, ch. II, § 203(a), ch. V, § 501(10), 72 Stat. 262, 271; July 24, 1959, Pub. L. 86–108, ch. II, § 203(a), 73 Stat. 248; May 14, 1960, Pub. L. 86–472, ch. II, § 202(b), 74 Stat. 135, created Development Loan Fund, authorized Fund to make loans, credits or guaranties, provided for repayment, administration, and reports, and restricted allocation, reservation, earmarking, commitment, or set-aside of funds.
 
-Section 1873, act Aug. 26, 1954, ch. 937, ch. II, § 203, as added Aug. 14, 1957, Pub. L. 85–141, § 6, 71 Stat. 358; amended July 24, 1959, Pub. L. 86–108, ch. II, § 203(b), 73 Stat. 248, authorized appropriations for capitalization of Fund.
+Section 1873, act Aug. 26, 1954, ch. 937, ch. II, § 203, as added Aug. 14, 1957, Pub. L. 85–141, § 6, 71 Stat. 358; amended July 24, 1959, Pub. L. 86–108, ch. II, § 203(b), 73 Stat. 248, authorized appropriations for capitalization of Fund.
 
-Section 1874, act Aug. 26, 1954, ch. 937, ch. II, § 204, as added Aug. 14, 1957, Pub. L. 85–141, § 6, 71 Stat. 358; amended June 30, 1958, Pub. L. 86–477, ch. II, § 203(b), 72 Stat. 263; July 24, 1959, Pub. L. 86–108, ch. II, § 203(c), 73 Stat. 249, related to fiscal provisions for Fund.
+Section 1874, act Aug. 26, 1954, ch. 937, ch. II, § 204, as added Aug. 14, 1957, Pub. L. 85–141, § 6, 71 Stat. 358; amended June 30, 1958, Pub. L. 86–477, ch. II, § 203(b), 72 Stat. 263; July 24, 1959, Pub. L. 86–108, ch. II, § 203(c), 73 Stat. 249, related to fiscal provisions for Fund.
 
-Section 1875, act Aug. 26, 1954, ch. 937, ch. II, § 205, as added Aug. 14, 1957, Pub. L. 85–141, § 6, 71 Stat. 358; amended June 30, 1958, Pub. L. 85–477, ch. II, § 203(c), 72 Stat. 263; July 24, 1959, Pub. L. 86–108, ch. II, § 203(d), 73 Stat. 249; May 14, 1960, Pub. L. 86–472, ch. II, § 202(c), ch. V, § 501(a), 74 Stat. 135, 140, related to management of Fund, and powers and authority of Board of Directors.
+Section 1875, act Aug. 26, 1954, ch. 937, ch. II, § 205, as added Aug. 14, 1957, Pub. L. 85–141, § 6, 71 Stat. 358; amended June 30, 1958, Pub. L. 85–477, ch. II, § 203(c), 72 Stat. 263; July 24, 1959, Pub. L. 86–108, ch. II, § 203(d), 73 Stat. 249; May 14, 1960, Pub. L. 86–472, ch. II, § 202(c), ch. V, § 501(a), 74 Stat. 135, 140, related to management of Fund, and powers and authority of Board of Directors.
 
-Section 1876, act Aug. 26, 1954, ch. 937, ch. II, § 205, as added Aug. 14, 1957, Pub. L. 85–141, § 6, 71 Stat. 359, provided for applicability of functions of National Advisory Council on International Monetary and Financial Problems.
+Section 1876, act Aug. 26, 1954, ch. 937, ch. II, § 205, as added Aug. 14, 1957, Pub. L. 85–141, § 6, 71 Stat. 359, provided for applicability of functions of National Advisory Council on International Monetary and Financial Problems.
 
 ### Part C—Technical Cooperation
 
-#### §§ 1891 to 1896. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+#### §§ 1891 to 1896. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section 1891, act Aug. 26, 1954, ch. 937, ch. II, § 301, 68 Stat. 841, stated Congressional declaration of policy and purpose for technical cooperation.
+Section 1891, act Aug. 26, 1954, ch. 937, ch. II, § 301, 68 Stat. 841, stated Congressional declaration of policy and purpose for technical cooperation.
 
-Section 1892, act Aug. 26, 1954, ch. 937, ch. II, § 302, 68 Stat. 841, related to authority of President and defined technical cooperation programs. See section 2171 of this title.
+Section 1892, act Aug. 26, 1954, ch. 937, ch. II, § 302, 68 Stat. 841, related to authority of President and defined technical cooperation programs. See section 2171 of this title.
 
-Section 1893, act Aug. 26, 1954, ch. 937, ch. II, § 303, 68 Stat. 841, enumerated prerequisites to assistance. See section 2171 of this title.
+Section 1893, act Aug. 26, 1954, ch. 937, ch. II, § 303, 68 Stat. 841, enumerated prerequisites to assistance. See section 2171 of this title.
 
-Section 1894, acts Aug. 26, 1954, ch. 937, ch. II. § 304, 68 Stat. 842; July 8, 1955, ch. 301, § 7(a), 69 Stat. 285; July 18, 1956, ch. 627; § 7(a), 70 Stat. 557; Aug. 14, 1957, Pub. L. 85–141, § 7(a), 71 Stat. 359; June 30, 1958, Pub. L. 85–477, ch. II, § 204(a), 72 Stat. 265; July 24, 1959, Pub. L. 86–108, ch. II, § 204(a), 73 Stat. 249; May 14, 1960, Pub. L. 86–472, ch. II, § 203(a), 74 Stat. 136, authorized appropriations for technical cooperation programs. See section 2172 of this title.
+Section 1894, acts Aug. 26, 1954, ch. 937, ch. II. § 304, 68 Stat. 842; July 8, 1955, ch. 301, § 7(a), 69 Stat. 285; July 18, 1956, ch. 627; § 7(a), 70 Stat. 557; Aug. 14, 1957, Pub. L. 85–141, § 7(a), 71 Stat. 359; June 30, 1958, Pub. L. 85–477, ch. II, § 204(a), 72 Stat. 265; July 24, 1959, Pub. L. 86–108, ch. II, § 204(a), 73 Stat. 249; May 14, 1960, Pub. L. 86–472, ch. II, § 203(a), 74 Stat. 136, authorized appropriations for technical cooperation programs. See section 2172 of this title.
 
-Section 1895, act Aug. 26, 1954, ch. 937, ch. II, § 305, 68 Stat. 842, related to limitation on use of funds.
+Section 1895, act Aug. 26, 1954, ch. 937, ch. II, § 305, 68 Stat. 842, related to limitation on use of funds.
 
-Section 1896, acts Aug. 26, 1954, ch. 937, ch. II, § 306, 68 Stat. 842; July 8, 1955, ch. 301, § 7(b), 69 Stat. 285; July 18, 1956, ch. 627, § 7(b), 70 Stat. 557; Aug. 14, 1957, Pub. L. 85–141, § 7(b), 71 Stat. 359; June 30, 1958, Pub. L. 85–477, ch. II, § 204(b), 72 Stat. 265; July 24, 1959, Pub. L. 86–108, ch. II, § 204(b), 73 Stat. 249; May 14, 1960, Pub. L. 86–472, ch. II, § 203(b), 74 Stat. 136, authorized appropriations for multilateral technical cooperation and related programs.
+Section 1896, acts Aug. 26, 1954, ch. 937, ch. II, § 306, 68 Stat. 842; July 8, 1955, ch. 301, § 7(b), 69 Stat. 285; July 18, 1956, ch. 627, § 7(b), 70 Stat. 557; Aug. 14, 1957, Pub. L. 85–141, § 7(b), 71 Stat. 359; June 30, 1958, Pub. L. 85–477, ch. II, § 204(b), 72 Stat. 265; July 24, 1959, Pub. L. 86–108, ch. II, § 204(b), 73 Stat. 249; May 14, 1960, Pub. L. 86–472, ch. II, § 203(b), 74 Stat. 136, authorized appropriations for multilateral technical cooperation and related programs.
 
-#### § 1896a. Restriction on commitments for technical assistance
+#### § 1896a. Restriction on commitments for technical assistance
 
 No commitment for the calendar year 1955 or thereafter, with respect to contributions to the United Nations expanded program of technical assistance, shall be pledged on behalf of the United States until the Congress appropriates for said purpose.
 
-(Sept. 3, 1954, ch. 1262, § 101, 68 Stat. 1221.)
+(Sept. 3, 1954, ch. 1262, § 101, 68 Stat. 1221.)
 
 **Editorial Notes**
 
@@ -447,11 +447,11 @@ No commitment for the calendar year 1955 or thereafter, with respect to contribu
 
 Section was enacted as a part of section 101 of the Mutual Security Appropriation Act, 1955. No other part of section 101 of the Mutual Security Appropriation Act, 1955, was classified to the Code.
 
-#### § 1896b. Colombo Plan Council for Technical Cooperation; authorization
+#### § 1896b. Colombo Plan Council for Technical Cooperation; authorization
 
 To enable the United States to maintain membership in the Colombo Plan Council for Technical Cooperation, there is authorized to be appropriated from time to time to the Department of State such sums as may be necessary for the payment by the United States of its share of the expenses of the Colombo Plan Council for Technical Cooperation.
 
-(Pub. L. 86–108, ch. V, § 502, July 24, 1959, 73 Stat. 256.)
+(Pub. L. 86–108, ch. V, § 502, July 24, 1959, 73 Stat. 256.)
 
 **Editorial Notes**
 
@@ -465,45 +465,45 @@ Section was enacted as part of the Mutual Security Act of 1959.
 
 Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under section 269a of this title.
 
-#### § 1897. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+#### § 1897. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section, acts Aug. 26, 1954, ch. 937, ch. II, § 307, 68 Stat. 842; July 18, 1956, ch. 627, § 7(c), 70 Stat. 557; May 14, 1960, Pub. L. 86–472, ch. II, § 203(c), 74 Stat. 136, authorized advances and grants-in-aid for technical cooperation program.
+Section, acts Aug. 26, 1954, ch. 937, ch. II, § 307, 68 Stat. 842; July 18, 1956, ch. 627, § 7(c), 70 Stat. 557; May 14, 1960, Pub. L. 86–472, ch. II, § 203(c), 74 Stat. 136, authorized advances and grants-in-aid for technical cooperation program.
 
-#### § 1898. Repealed. Pub. L. 86–472, ch. II, § 203(d), May 14, 1960, 74 Stat. 136
+#### § 1898. Repealed. Pub. L. 86–472, ch. II, § 203(d), May 14, 1960, 74 Stat. 136
 
-Section, acts Aug. 26, 1954, ch. 937, ch. II, § 308, 68 Stat. 842; July 8, 1955, ch. 301, § 7(c), 69 Stat. 286; July 24, 1959, Pub. L. 86–108, ch. II, § 204(c), 73 Stat, 249, created an advisory board and provided for its duties, membership, allowances, and expenses.
+Section, acts Aug. 26, 1954, ch. 937, ch. II, § 308, 68 Stat. 842; July 8, 1955, ch. 301, § 7(c), 69 Stat. 286; July 24, 1959, Pub. L. 86–108, ch. II, § 204(c), 73 Stat, 249, created an advisory board and provided for its duties, membership, allowances, and expenses.
 
 ### Part D—Special Assistance and Other Programs
 
-#### §§ 1920, 1921. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+#### §§ 1920, 1921. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section 1920, act Aug. 26, 1954, ch. 937, ch. II, § 400, as added Aug. 14, 1957, Pub. L. 85–141, § 8(a), 71 Stat. 360; amended June 30, 1958, Pub. L. 85–477, ch. II, § 205(a), 72 Stat. 266; July 24, 1959, Pub. L. 86–108, ch. II, § 205(a), 73 Stat. 249; May 14, 1960, Pub. L. 86–472, ch. II, § 204(a), 74 Stat. 136, authorized assistance for special programs to maintain political or economic stability, for programs of economic development in Latin America and for schools and libraries abroad. See section 2171 et seq. of this title.
+Section 1920, act Aug. 26, 1954, ch. 937, ch. II, § 400, as added Aug. 14, 1957, Pub. L. 85–141, § 8(a), 71 Stat. 360; amended June 30, 1958, Pub. L. 85–477, ch. II, § 205(a), 72 Stat. 266; July 24, 1959, Pub. L. 86–108, ch. II, § 205(a), 73 Stat. 249; May 14, 1960, Pub. L. 86–472, ch. II, § 204(a), 74 Stat. 136, authorized assistance for special programs to maintain political or economic stability, for programs of economic development in Latin America and for schools and libraries abroad. See section 2171 et seq. of this title.
 
-Section 1921, act Aug. 26, 1954, ch. 937, ch. II, § 401, as added July 24, 1959, Pub. L. 86–108, ch. II, § 205(b), 73 Stat. 249; amended May 14, 1960, Pub. L. 86–472, ch. II, § 204(b), 74 Stat. 136, authorized contributions to the United Nations Emergency Fund. See section 2221 of this title.
+Section 1921, act Aug. 26, 1954, ch. 937, ch. II, § 401, as added July 24, 1959, Pub. L. 86–108, ch. II, § 205(b), 73 Stat. 249; amended May 14, 1960, Pub. L. 86–472, ch. II, § 204(b), 74 Stat. 136, authorized contributions to the United Nations Emergency Fund. See section 2221 of this title.
 
-#### § 1922. Repealed. Pub. L. 104–127, title II, § 228, Apr. 4, 1996, 110 Stat. 963
+#### § 1922. Repealed. Pub. L. 104–127, title II, § 228, Apr. 4, 1996, 110 Stat. 963
 
-Section, acts Aug. 26, 1954, ch. 937, title IV, § 402, 68 Stat. 843; July 8, 1955, ch. 301, § 8(b), 69 Stat. 286; July 18, 1956, ch. 627, § 8(b), 70 Stat. 558; Aug. 14, 1957, Pub. L. 85–141, § 8(c), 71 Stat. 361; June 30, 1958, Pub. L. 85–477, ch. II, § 205(b), 72 Stat. 266; July 24, 1959, Pub. L. 86–108, ch. II, § 205(c), 73 Stat. 250; May 14, 1960, Pub. L. 86–472, ch. II, § 204(c), 74 Stat. 136, related to disposition of surplus agricultural commodities and use of foreign currency proceeds.
+Section, acts Aug. 26, 1954, ch. 937, title IV, § 402, 68 Stat. 843; July 8, 1955, ch. 301, § 8(b), 69 Stat. 286; July 18, 1956, ch. 627, § 8(b), 70 Stat. 558; Aug. 14, 1957, Pub. L. 85–141, § 8(c), 71 Stat. 361; June 30, 1958, Pub. L. 85–477, ch. II, § 205(b), 72 Stat. 266; July 24, 1959, Pub. L. 86–108, ch. II, § 205(c), 73 Stat. 250; May 14, 1960, Pub. L. 86–472, ch. II, § 204(c), 74 Stat. 136, related to disposition of surplus agricultural commodities and use of foreign currency proceeds.
 
-#### §§ 1923, 1924. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+#### §§ 1923, 1924. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section 1923, act Aug. 26, 1954, ch. 937, ch. II, § 403, as added June 30, 1958, Pub. L. 85–477, ch. II, § 205(c), 72 Stat. 266; amended July 24, 1959, Pub. L. 86–108, ch. II, § 205(d), 73 Stat. 250; May 14, 1960, Pub. L. 86–472, ch. II, § 204(d), 74 Stat. 136, authorized the use of funds to meet responsibilities in Germany. See section 2364(b) of this title.
+Section 1923, act Aug. 26, 1954, ch. 937, ch. II, § 403, as added June 30, 1958, Pub. L. 85–477, ch. II, § 205(c), 72 Stat. 266; amended July 24, 1959, Pub. L. 86–108, ch. II, § 205(d), 73 Stat. 250; May 14, 1960, Pub. L. 86–472, ch. II, § 204(d), 74 Stat. 136, authorized the use of funds to meet responsibilities in Germany. See section 2364(b) of this title.
 
-Section 1924, act Aug. 26, 1954, ch. 937, ch. II, § 404, as added May 14, 1960, Pub. L. 86–472, ch. II, § 204(e), 74 Stat. 136, related to the Indus Basin Development. See section 2223 of this title.
+Section 1924, act Aug. 26, 1954, ch. 937, ch. II, § 404, as added May 14, 1960, Pub. L. 86–472, ch. II, § 204(e), 74 Stat. 136, related to the Indus Basin Development. See section 2223 of this title.
 
-#### § 1925. Repealed
+#### § 1925. Repealed
 
-Subsecs. (a), (c), and (d), acts Aug. 26, 1954, ch. 937, ch. II, § 405(a), (c), (d), 68 Stat. 844; July 8, 1955, ch. 301, § 8(d), 69 Stat. 286; July 18, 1956, ch. 627, § 8(d), 70 Stat. 558; Aug. 14, 1957, Pub. L. 85–141, § 8(e), 71 Stat. 361; June 30, 1958, Pub. L. 85–477, ch. II, § 205(d), ch. V, § 501(13), 72 Stat. 266, 271; July 24, 1959, Pub. L. 86–108, ch. II, § 205(e), 73 Stat. 250; May 14, 1960, Pub. L. 86–472, ch. II, § 204(f), 74 Stat. 137, related to movement of migrants, refugees, and escapees, and were repealed by Pub. L. 87–510, § 6, June 28, 1962, 76 Stat. 124. See section 2601(a), (b)(1) of this title.
+Subsecs. (a), (c), and (d), acts Aug. 26, 1954, ch. 937, ch. II, § 405(a), (c), (d), 68 Stat. 844; July 8, 1955, ch. 301, § 8(d), 69 Stat. 286; July 18, 1956, ch. 627, § 8(d), 70 Stat. 558; Aug. 14, 1957, Pub. L. 85–141, § 8(e), 71 Stat. 361; June 30, 1958, Pub. L. 85–477, ch. II, § 205(d), ch. V, § 501(13), 72 Stat. 266, 271; July 24, 1959, Pub. L. 86–108, ch. II, § 205(e), 73 Stat. 250; May 14, 1960, Pub. L. 86–472, ch. II, § 204(f), 74 Stat. 137, related to movement of migrants, refugees, and escapees, and were repealed by Pub. L. 87–510, § 6, June 28, 1962, 76 Stat. 124. See section 2601(a), (b)(1) of this title.
 
-Subsec. (b), act Aug. 26, 1954, ch. 937, ch. II, § 405(b), 68 Stat. 844, which related to the use of funds to facilitate migration of persons resident in Ryukyu Island Archipelago, was repealed by Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460. See section 1945(b) of this title.
+Subsec. (b), act Aug. 26, 1954, ch. 937, ch. II, § 405(b), 68 Stat. 844, which related to the use of funds to facilitate migration of persons resident in Ryukyu Island Archipelago, was repealed by Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460. See section 1945(b) of this title.
 
-#### §§ 1926, 1927. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+#### §§ 1926, 1927. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section 1926, acts Aug. 26, 1954, ch. 937, ch. II, § 406, 68 Stat. 844; July 8, 1955, ch. 301, § 8(e), 69 Stat. 286; July 18, 1956, ch. 627, § 8(e), 70 Stat. 558; Aug. 14, 1957, Pub. L. 85–141, § 8(f), 71 Stat. 361; June 30, 1958, Pub. L. 85–477, ch. II, § 205(e), 72 Stat. 266; July 24, 1959, Pub. L. 86–108, ch. II, § 205(f), 73 Stat. 250; May 14, 1960, Pub. L. 86–472, ch. II, § 204(g), 74 Stat. 137, authorized appropriations for United Nations Children’s Fund.
+Section 1926, acts Aug. 26, 1954, ch. 937, ch. II, § 406, 68 Stat. 844; July 8, 1955, ch. 301, § 8(e), 69 Stat. 286; July 18, 1956, ch. 627, § 8(e), 70 Stat. 558; Aug. 14, 1957, Pub. L. 85–141, § 8(f), 71 Stat. 361; June 30, 1958, Pub. L. 85–477, ch. II, § 205(e), 72 Stat. 266; July 24, 1959, Pub. L. 86–108, ch. II, § 205(f), 73 Stat. 250; May 14, 1960, Pub. L. 86–472, ch. II, § 204(g), 74 Stat. 137, authorized appropriations for United Nations Children’s Fund.
 
-Section 1927, acts Aug. 26, 1954, ch. 937, ch. II, § 407, 68 Stat. 844; July 8, 1955, ch. 301, § 8(f), 69 Stat. 286; July 18, 1956, ch. 627, § 8(f), 70 Stat. 558; Aug. 14, 1957, Pub. L. 85–141, § 8(g), 71 Stat. 361; June 30, 1958, Pub. L. 85–477, ch. II, § 205(f), 72 Stat. 266; July 24, 1959, Pub. L. 86–108, ch. II, § 205(g), 73 Stat. 250; May 14, 1960, Pub. L. 86–472, ch. II, § 204(h), 74 Stat. 137, authorized appropriations for contributions to Palestine refugees in Near East. See section 2221 of this title.
+Section 1927, acts Aug. 26, 1954, ch. 937, ch. II, § 407, 68 Stat. 844; July 8, 1955, ch. 301, § 8(f), 69 Stat. 286; July 18, 1956, ch. 627, § 8(f), 70 Stat. 558; Aug. 14, 1957, Pub. L. 85–141, § 8(g), 71 Stat. 361; June 30, 1958, Pub. L. 85–477, ch. II, § 205(f), 72 Stat. 266; July 24, 1959, Pub. L. 86–108, ch. II, § 205(g), 73 Stat. 250; May 14, 1960, Pub. L. 86–472, ch. II, § 204(h), 74 Stat. 137, authorized appropriations for contributions to Palestine refugees in Near East. See section 2221 of this title.
 
-#### § 1928. North Atlantic Treaty Organization
+#### § 1928. North Atlantic Treaty Organization
 
 **(a) Authorization for expenses**
 
@@ -517,21 +517,21 @@ The United States permanent representative to the North Atlantic Treaty Organiza
 
 Persons detailed to the international staff of the North Atlantic Treaty Organization in accordance with section 2388 of this title who are members of the Foreign Service serving under limited appointments may serve for periods of more than five years notwithstanding the limitation in section 309 of the Foreign Service Act of 1980 [22 U.S.C. 3949].
 
-(Aug. 26, 1954, ch. 937, title IV, § 408, 68 Stat. 845; Pub. L. 85–141, § 8(h), Aug. 14, 1957, 71 Stat. 361; Pub. L. 86–108, ch. II, § 205(h), July 24, 1959, 73 Stat. 250; Pub. L. 96–465, title II, § 2206(a)(6), Oct. 17, 1980, 94 Stat. 2161.)
+(Aug. 26, 1954, ch. 937, title IV, § 408, 68 Stat. 845; Pub. L. 85–141, § 8(h), Aug. 14, 1957, 71 Stat. 361; Pub. L. 86–108, ch. II, § 205(h), July 24, 1959, 73 Stat. 250; Pub. L. 96–465, title II, § 2206(a)(6), Oct. 17, 1980, 94 Stat. 2161.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Service Act of 1980, referred to in subsecs. (a) and (b), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsecs. (a) and (b), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 **Amendments**
 
-1980—Subsec. (a). Pub. L. 96–465, § 2206(a)(6)(A), substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946, as amended (22 U.S.C. 801),”.
+1980—Subsec. (a). Pub. L. 96–465, § 2206(a)(6)(A), substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946, as amended (22 U.S.C. 801),”.
 
-Subsec. (b). Pub. L. 96–465, § 2206(a)(6)(B), substituted “chief of mission under the Foreign Service Act of 1980” for “chief of mission, class 1, within the meaning of the Foreign Service Act of 1946, as amended (22 U.S.C. 801)”.
+Subsec. (b). Pub. L. 96–465, § 2206(a)(6)(B), substituted “chief of mission under the Foreign Service Act of 1980” for “chief of mission, class 1, within the meaning of the Foreign Service Act of 1946, as amended (22 U.S.C. 801)”.
 
-Subsec. (c). Pub. L. 96–465, § 2206(a)(6)(C), among other changes, substituted references to sections 2388 and 3949 of this title for references to sections 1789 and 922 of this title, respectively, and reference to members of the Foreign Service for reference to Foreign Service Reserve officers.
+Subsec. (c). Pub. L. 96–465, § 2206(a)(6)(C), among other changes, substituted references to sections 2388 and 3949 of this title for references to sections 1789 and 922 of this title, respectively, and reference to members of the Foreign Service for reference to Foreign Service Reserve officers.
 
 1959—Subsec. (c). Pub. L. 86–108 substituted “five years” for “four years”.
 
@@ -549,11 +549,11 @@ Annual appropriations to meet the obligations of membership in various internati
 
 **Annual Report Regarding NATO Special Operations Headquarters**
 
-Pub. L. 111–84, div. A, title XII, § 1244(d), as added by Pub. L. 112–239, div. A, title XII, § 1272(b), Jan. 2, 2013, 126 Stat. 2023, which mandated an annual report, with specified details, to Congress regarding support for NATO Special Operations Headquarters, was repealed by Pub. L. 115–232, div. A, title VIII, § 813(d), Aug. 13, 2018, 132 Stat. 1851.
+Pub. L. 111–84, div. A, title XII, § 1244(d), as added by Pub. L. 112–239, div. A, title XII, § 1272(b), Jan. 2, 2013, 126 Stat. 2023, which mandated an annual report, with specified details, to Congress regarding support for NATO Special Operations Headquarters, was repealed by Pub. L. 115–232, div. A, title VIII, § 813(d), Aug. 13, 2018, 132 Stat. 1851.
 
 **Report on Host Countries Assuming Greater Share of Common Defense Burden**
 
-Pub. L. 111–117, div. E, title I, § 118, Dec. 16, 2009, 123 Stat. 3293, provided that:
+Pub. L. 111–117, div. E, title I, § 118, Dec. 16, 2009, 123 Stat. 3293, provided that:
 
 > **“(a)** The Secretary of Defense, in consultation with the Secretary of State, shall submit to the Committees on Appropriations of both Houses of Congress, by February 15 of each year, an annual report in unclassified and, if necessary, classified form, on actions taken by the Department of Defense and the Department of State during the previous fiscal year to encourage host countries to assume a greater share of the common defense burden of such countries and the United States.
 
@@ -573,9 +573,9 @@ Pub. L. 111–117, div. E, title I, § 118, Dec. 16, 2009, 123 Stat. 3293, pro
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 110–329, div. E, title I, § 118, Sept. 30, 2008, 122 Stat. 3698.
+Pub. L. 110–329, div. E, title I, § 118, Sept. 30, 2008, 122 Stat. 3698.
 
-Pub. L. 110–161, div. I, title I, § 118, Dec. 26, 2007, 121 Stat. 2259.
+Pub. L. 110–161, div. I, title I, § 118, Dec. 26, 2007, 121 Stat. 2259.
 
 **NATO Freedom Consolidation**
 
@@ -595,17 +595,17 @@ Pub. L. 110–17, Apr. 9, 2007, 121 Stat. 73, provided that:
 
 > **“(3)** In an era of threats from terrorism and the proliferation of weapons of mass destruction, the North Atlantic Treaty Organization is increasingly contributing to security in the face of global security challenges for the protection and interests of its member states.
 
-> **“(4)** In the NATO Participation Act of 1994 (title II of Public Law 103–447; 22 U.S.C. 1928 note), Congress declared that ‘full and active participants in the Partnership for Peace in a position to further the principles of the North Atlantic Treaty and to contribute to the security of the North Atlantic area should be invited to become full NATO members in accordance with Article 10 of such Treaty at an early date …’.
+> **“(4)** In the NATO Participation Act of 1994 (title II of Public Law 103–447; 22 U.S.C. 1928 note), Congress declared that ‘full and active participants in the Partnership for Peace in a position to further the principles of the North Atlantic Treaty and to contribute to the security of the North Atlantic area should be invited to become full NATO members in accordance with Article 10 of such Treaty at an early date …’.
 
-> **“(5)** In the NATO Enlargement Facilitation Act of 1996 (title VI of section 101(c) of title I of division A of Public Law 104–208; 22 U.S.C. 1928 note), Congress called for the prompt admission of Poland, Hungary, the Czech Republic, and Slovenia to the North Atlantic Treaty Organization, and declared that ‘in order to promote economic stability and security in Slovakia, Estonia, Latvia, Lithuania, Romania, Bulgaria, Albania, Moldova, and Ukraine . . . the process of enlarging NATO to include emerging democracies in Central and Eastern Europe should not be limited to consideration of admitting Poland, Hungary, the Czech Republic, and Slovenia as full members of the NATO Alliance’.
+> **“(5)** In the NATO Enlargement Facilitation Act of 1996 (title VI of section 101(c) of title I of division A of Public Law 104–208; 22 U.S.C. 1928 note), Congress called for the prompt admission of Poland, Hungary, the Czech Republic, and Slovenia to the North Atlantic Treaty Organization, and declared that ‘in order to promote economic stability and security in Slovakia, Estonia, Latvia, Lithuania, Romania, Bulgaria, Albania, Moldova, and Ukraine . . . the process of enlarging NATO to include emerging democracies in Central and Eastern Europe should not be limited to consideration of admitting Poland, Hungary, the Czech Republic, and Slovenia as full members of the NATO Alliance’.
 
-> **“(6)** In the European Security Act of 1998 (title XXVII of division G of Public Law 105–277; 22 U.S.C. 1928 note), Congress declared that ‘Poland, Hungary, and the Czech Republic should not be the last emerging democracies in Central and Eastern Europe invited to join NATO’ and that ‘Romania, Estonia, Latvia, Lithuania, and Bulgaria . . . would make an outstanding contribution to furthering the goals of NATO and enhancing stability, freedom, and peace in Europe should they become NATO members [and] upon complete satisfaction of all relevant criteria should be invited to become full NATO members at the earliest possible date’.
+> **“(6)** In the European Security Act of 1998 (title XXVII of division G of Public Law 105–277; 22 U.S.C. 1928 note), Congress declared that ‘Poland, Hungary, and the Czech Republic should not be the last emerging democracies in Central and Eastern Europe invited to join NATO’ and that ‘Romania, Estonia, Latvia, Lithuania, and Bulgaria . . . would make an outstanding contribution to furthering the goals of NATO and enhancing stability, freedom, and peace in Europe should they become NATO members [and] upon complete satisfaction of all relevant criteria should be invited to become full NATO members at the earliest possible date’.
 
 > **“(7)** In the Gerald B. H. Solomon Freedom Consolidation Act of 2002 (Public Law 107–187; 22 U.S.C. 1928 note), Congress endorsed ‘… the vision of further enlargement of the NATO Alliance articulated by President George W. Bush on June 15, 2001, and by former President William J. Clinton on October 22, 1996’.
 
-> **“(8)** At the Madrid Summit of the North Atlantic Treaty Organization in July 1997, Poland, Hungary, and the Czech Republic were invited to join the Alliance, and the North Atlantic Treaty Organization heads of state and government issued a declaration stating ‘[t]he alliance expects to extend further invitations in coming years to nations willing and able to assume the responsibilities and obligations of membership . . . [n]o European democratic country whose admission would fulfill the objectives of the [North Atlantic] Treaty will be excluded from consideration’.
+> **“(8)** At the Madrid Summit of the North Atlantic Treaty Organization in July 1997, Poland, Hungary, and the Czech Republic were invited to join the Alliance, and the North Atlantic Treaty Organization heads of state and government issued a declaration stating ‘[t]he alliance expects to extend further invitations in coming years to nations willing and able to assume the responsibilities and obligations of membership . . . [n]o European democratic country whose admission would fulfill the objectives of the [North Atlantic] Treaty will be excluded from consideration’.
 
-> **“(9)** At the Washington Summit of the North Atlantic Treaty Organization in April 1999, the North Atlantic Treaty Organization heads of state and government issued a communiqué declaring ‘[w]e pledge that NATO will continue to welcome new members in a position to further the principles of the [North Atlantic] Treaty and contribute to peace and security in the Euro-Atlantic area . . . [t]he three new members will not be the last . . . [n]o European democratic country whose admission would fulfill the objectives of the Treaty will be excluded from consideration, regardless of its geographic location …’.
+> **“(9)** At the Washington Summit of the North Atlantic Treaty Organization in April 1999, the North Atlantic Treaty Organization heads of state and government issued a communiqué declaring ‘[w]e pledge that NATO will continue to welcome new members in a position to further the principles of the [North Atlantic] Treaty and contribute to peace and security in the Euro-Atlantic area . . . [t]he three new members will not be the last . . . [n]o European democratic country whose admission would fulfill the objectives of the Treaty will be excluded from consideration, regardless of its geographic location …’.
 
 > **“(10)** In May 2000 in Vilnius, Lithuania, the foreign ministers of Albania, Bulgaria, Estonia, Latvia, Lithuania, the Republic of Macedonia (FYROM), Romania, Slovakia, and Slovenia issued a statement (later joined by Croatia) declaring that—
 
@@ -615,9 +615,9 @@ Pub. L. 110–17, Apr. 9, 2007, 121 Stat. 73, provided that:
 
 > **“(C)** eventual membership in the North Atlantic Treaty Organization for all of these countries would be a success for Europe and for the North Atlantic Treaty Organization.
 
-> **“(11)** On June 15, 2001, in a speech in Warsaw, Poland, President George W. Bush stated ‘[a]ll of Europe’s new democracies, from the Baltic to the Black Sea and all that lie between, should have the same chance for security and freedom—and the same chance to join the institutions of Europe—as Europe’s old democracies have . . . I believe in NATO membership for all of Europe’s democracies that seek it and are ready to share the responsibilities that NATO brings . . . [a]s we plan to enlarge NATO, no nation should be used as a pawn in the agenda of others . . . [w]e will not trade away the fate of free European peoples . . . [n]o more Munichs . . . [n]o more Yaltas . . . [a]s we plan the Prague Summit, we should not calculate how little we can get away with, but how much we can do to advance the cause of freedom’.
+> **“(11)** On June 15, 2001, in a speech in Warsaw, Poland, President George W. Bush stated ‘[a]ll of Europe’s new democracies, from the Baltic to the Black Sea and all that lie between, should have the same chance for security and freedom—and the same chance to join the institutions of Europe—as Europe’s old democracies have . . . I believe in NATO membership for all of Europe’s democracies that seek it and are ready to share the responsibilities that NATO brings . . . [a]s we plan to enlarge NATO, no nation should be used as a pawn in the agenda of others . . . [w]e will not trade away the fate of free European peoples . . . [n]o more Munichs . . . [n]o more Yaltas . . . [a]s we plan the Prague Summit, we should not calculate how little we can get away with, but how much we can do to advance the cause of freedom’.
 
-> **“(12)** On October 22, 1996, in a speech in Detroit, Michigan, former President William J. Clinton stated ‘NATO’s doors will not close behind its first new members . . . NATO should remain open to all of Europe’s emerging democracies who are ready to shoulder the responsibilities of membership . . . [n]o nation will be automatically excluded . . . [n]o country outside NATO will have a veto . . . [a] gray zone of insecurity must not reemerge in Europe’.
+> **“(12)** On October 22, 1996, in a speech in Detroit, Michigan, former President William J. Clinton stated ‘NATO’s doors will not close behind its first new members . . . NATO should remain open to all of Europe’s emerging democracies who are ready to shoulder the responsibilities of membership . . . [n]o nation will be automatically excluded . . . [n]o country outside NATO will have a veto . . . [a] gray zone of insecurity must not reemerge in Europe’.
 
 > **“(13)** At the Prague Summit of the North Atlantic Treaty Organization in November 2002, Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia, and Slovenia were invited to join the Alliance in the second round of enlargement of the North Atlantic Treaty Organization since the end of the Cold War, and the North Atlantic Treaty Organization heads of state and government issued a declaration stating ‘NATO’s door will remain open to European democracies willing and able to assume the responsibilities and obligations of membership, in accordance with Article 10 of the Washington Treaty’.
 
@@ -627,7 +627,7 @@ Pub. L. 110–17, Apr. 9, 2007, 121 Stat. 73, provided that:
 
 > **“(16)** Georgia and Ukraine have stated their desire to join the Euro-Atlantic community, and in particular, are seeking to join the North Atlantic Treaty Organization. Georgia and Ukraine are working closely with the North Atlantic Treaty Organization and its members to meet criteria for eventual membership in NATO.
 
-> **“(17)** At a press conference with President Mikhail Saakashvili of Georgia in Washington, D.C. on July 5, 2006, President George W. Bush stated that ‘… I believe that NATO would benefit with Georgia being a member of NATO, and I think Georgia would benefit. And there’s a way forward through the Membership Action Plan . . . And I’m a believer in the expansion of NATO. I think it’s in the world’s interest that we expand NATO’.
+> **“(17)** At a press conference with President Mikhail Saakashvili of Georgia in Washington, D.C. on July 5, 2006, President George W. Bush stated that ‘… I believe that NATO would benefit with Georgia being a member of NATO, and I think Georgia would benefit. And there’s a way forward through the Membership Action Plan . . . And I’m a believer in the expansion of NATO. I think it’s in the world’s interest that we expand NATO’.
 
 > **“(18)** Following a meeting of NATO Foreign Ministers in New York on September 21, 2006, NATO Secretary General Jaap de Hoop Scheffer announced the launching of an Intensified Dialogue on membership between the Alliance and Georgia.
 
@@ -675,7 +675,7 @@ Pub. L. 110–17, Apr. 9, 2007, 121 Stat. 73, provided that:
 
 **Annual Report on the NATO Prague Capabilities Commitment and the NATO Response Force**
 
-Pub. L. 108–136, div. A, title XII, § 1231, Nov. 24, 2003, 117 Stat. 1654, provided that:
+Pub. L. 108–136, div. A, title XII, § 1231, Nov. 24, 2003, 117 Stat. 1654, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -739,7 +739,7 @@ Pub. L. 108–136, div. A, title XII, § 1231, Nov. 24, 2003, 117 Stat. 1654, 
 
 **Sense of Congress on Cooperation by United States and NATO With Russia on Ballistic Missile Defenses**
 
-Pub. L. 108–136, div. C, title XXXVI, § 3623, Nov. 24, 2003, 117 Stat. 1824, provided that:
+Pub. L. 108–136, div. C, title XXXVI, § 3623, Nov. 24, 2003, 117 Stat. 1824, provided that:
 
 > **“(a) Sense of Congress.—** It is the sense of Congress that the President should, in conjunction with the North Atlantic Treaty Organization, encourage appropriate cooperative relationships between the Russian Federation and the United States and North Atlantic Treaty Organization with respect to the development and deployment of ballistic missile defenses.
 
@@ -763,23 +763,23 @@ Pub. L. 107–187, June 10, 2002, 116 Stat. 590, provided that:
 
 > “The Congress makes the following findings:
 
-> **“(1)** In the NATO Participation Act of 1994 (title II of Public Law 103–447; 22 U.S.C. 1928 note), Congress declared that ‘full and active participants in the Partnership for Peace in a position to further the principles of the North Atlantic Treaty and to contribute to the security of the North Atlantic area should be invited to become full NATO members in accordance with Article 10 of such Treaty at an early date …’.
+> **“(1)** In the NATO Participation Act of 1994 (title II of Public Law 103–447; 22 U.S.C. 1928 note), Congress declared that ‘full and active participants in the Partnership for Peace in a position to further the principles of the North Atlantic Treaty and to contribute to the security of the North Atlantic area should be invited to become full NATO members in accordance with Article 10 of such Treaty at an early date …’.
 
-> **“(2)** In the NATO Enlargement Facilitation Act of 1996 (title VI of section 101(c) of title I of division A of Public Law 104–208; 22 U.S.C. 1928 note), Congress called for the prompt admission of Poland, Hungary, the Czech Republic, and Slovenia to NATO, and declared that ‘in order to promote economic stability and security in Slovakia, Estonia, Latvia, Lithuania, Romania, Bulgaria, Albania, Moldova, and Ukraine . . . the process of enlarging NATO to include emerging democracies in Central and Eastern Europe should not be limited to consideration of admitting Poland, Hungary, the Czech Republic, and Slovenia as full members of the NATO Alliance’.
+> **“(2)** In the NATO Enlargement Facilitation Act of 1996 (title VI of section 101(c) of title I of division A of Public Law 104–208; 22 U.S.C. 1928 note), Congress called for the prompt admission of Poland, Hungary, the Czech Republic, and Slovenia to NATO, and declared that ‘in order to promote economic stability and security in Slovakia, Estonia, Latvia, Lithuania, Romania, Bulgaria, Albania, Moldova, and Ukraine . . . the process of enlarging NATO to include emerging democracies in Central and Eastern Europe should not be limited to consideration of admitting Poland, Hungary, the Czech Republic, and Slovenia as full members of the NATO Alliance’.
 
-> **“(3)** In the European Security Act of 1998 (title XXVII of division G of Public Law 105–277; 22 U.S.C. 1928 note), Congress declared that ‘Poland, Hungary, and the Czech Republic should not be the last emerging democracies in Central and Eastern Europe invited to join NATO’ and that ‘Romania, Estonia, Latvia, Lithuania, and Bulgaria . . . would make an outstanding contribution to furthering the goals of NATO and enhancing stability, freedom, and peace in Europe should they become NATO members [and] upon complete satisfaction of all relevant criteria should be invited to become full NATO members at the earliest possible date’.
+> **“(3)** In the European Security Act of 1998 (title XXVII of division G of Public Law 105–277; 22 U.S.C. 1928 note), Congress declared that ‘Poland, Hungary, and the Czech Republic should not be the last emerging democracies in Central and Eastern Europe invited to join NATO’ and that ‘Romania, Estonia, Latvia, Lithuania, and Bulgaria . . . would make an outstanding contribution to furthering the goals of NATO and enhancing stability, freedom, and peace in Europe should they become NATO members [and] upon complete satisfaction of all relevant criteria should be invited to become full NATO members at the earliest possible date’.
 
-> **“(4)** At the Madrid Summit of the NATO Alliance in July 1997, Poland, Hungary, and the Czech Republic were invited to join the Alliance in the first round of NATO enlargement, and the NATO heads of state and government issued a declaration stating ‘[t]he Alliance expects to extend further invitations in coming years to nations willing and able to assume the responsibilities and obligations of membership . . . [n]o European democratic country whose admission would fulfill the objectives of the [North Atlantic] Treaty will be excluded from consideration’.
+> **“(4)** At the Madrid Summit of the NATO Alliance in July 1997, Poland, Hungary, and the Czech Republic were invited to join the Alliance in the first round of NATO enlargement, and the NATO heads of state and government issued a declaration stating ‘[t]he Alliance expects to extend further invitations in coming years to nations willing and able to assume the responsibilities and obligations of membership . . . [n]o European democratic country whose admission would fulfill the objectives of the [North Atlantic] Treaty will be excluded from consideration’.
 
-> **“(5)** At the Washington Summit of the NATO Alliance in April 1999, the NATO heads of state and government issued a communique declaring ‘[w]e pledge that NATO will continue to welcome new members in a position to further the principles of the [North Atlantic] Treaty and contribute to peace and security in the Euro-Atlantic area . . . [t]he three new members will not be the last . . . [n]o European democratic country whose admission would fulfill the objectives of the Treaty will be excluded from consideration, regardless of its geographic location …’.
+> **“(5)** At the Washington Summit of the NATO Alliance in April 1999, the NATO heads of state and government issued a communique declaring ‘[w]e pledge that NATO will continue to welcome new members in a position to further the principles of the [North Atlantic] Treaty and contribute to peace and security in the Euro-Atlantic area . . . [t]he three new members will not be the last . . . [n]o European democratic country whose admission would fulfill the objectives of the Treaty will be excluded from consideration, regardless of its geographic location …’.
 
 > **“(6)** In late 2002, NATO will hold a summit in Prague, the Czech Republic, at which it will decide which additional emerging democracies in Central and Eastern Europe to invite to join the Alliance in the next round of NATO enlargement.
 
 > **“(7)** In May 2000 in Vilnius, Lithuania, the foreign ministers of Albania, Bulgaria, Estonia, Latvia, Lithuania, the Former Yugoslav Republic of Macedonia, Romania, Slovakia, and Slovenia issued a statement (later joined by Croatia) declaring that their countries will cooperate in jointly seeking NATO membership in the next round of NATO enlargement, that the realization of NATO membership by one or more of these countries would be a success for all, and that eventual NATO membership for all of these countries would be a success for Europe and NATO.
 
-> **“(8)** On June 15, 2001, in a speech in Warsaw, Poland, President George W. Bush stated ‘[a]ll of Europe’s new democracies, from the Baltic to the Black Sea and all that lie between, should have the same chance for security and freedom—and the same chance to join the institutions of Europe—as Europe’s old democracies have . . . I believe in NATO membership for all of Europe’s democracies that seek it and are ready to share the responsibilities that NATO brings . . . [a]s we plan to enlarge NATO, no nation should be used as a pawn in the agenda of others . . . [w]e will not trade away the fate of free European peoples . . . [n]o more Munichs . . . [n]o more Yaltas . . . [a]s we plan the Prague Summit, we should not calculate how little we can get away with, but how much we can do to advance the cause of freedom’.
+> **“(8)** On June 15, 2001, in a speech in Warsaw, Poland, President George W. Bush stated ‘[a]ll of Europe’s new democracies, from the Baltic to the Black Sea and all that lie between, should have the same chance for security and freedom—and the same chance to join the institutions of Europe—as Europe’s old democracies have . . . I believe in NATO membership for all of Europe’s democracies that seek it and are ready to share the responsibilities that NATO brings . . . [a]s we plan to enlarge NATO, no nation should be used as a pawn in the agenda of others . . . [w]e will not trade away the fate of free European peoples . . . [n]o more Munichs . . . [n]o more Yaltas . . . [a]s we plan the Prague Summit, we should not calculate how little we can get away with, but how much we can do to advance the cause of freedom’.
 
-> **“(9)** On October 22, 1996, in a speech in Detroit, Michigan, former President William J. Clinton stated ‘NATO’s doors will not close behind its first new members . . . NATO should remain open to all of Europe’s emerging democracies who are ready to shoulder the responsibilities of membership . . . [n]o nation will be automatically excluded . . . [n]o country outside NATO will have a veto . . . [a] gray zone of insecurity must not reemerge in Europe’.
+> **“(9)** On October 22, 1996, in a speech in Detroit, Michigan, former President William J. Clinton stated ‘NATO’s doors will not close behind its first new members . . . NATO should remain open to all of Europe’s emerging democracies who are ready to shoulder the responsibilities of membership . . . [n]o nation will be automatically excluded . . . [n]o country outside NATO will have a veto . . . [a] gray zone of insecurity must not reemerge in Europe’.
 
 > **“SEC. 3. DECLARATIONS OF POLICY.**
 
@@ -823,7 +823,7 @@ Pub. L. 107–187, June 10, 2002, 116 Stat. 590, provided that:
 
 **Reports on Burdensharing of Future NATO Operations**
 
-Pub. L. 106–398, § 1 [[div. A], title XII, § 1221(b)–(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–328, provided that:
+Pub. L. 106–398, § 1 [[div. A], title XII, § 1221(b)–(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–328, provided that:
 
 > **“(b) Report on Burdensharing of Future NATO Operations.—** Whenever the North Atlantic Treaty Organization undertakes a military operation, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing—
 
@@ -837,7 +837,7 @@ Pub. L. 106–398, § 1 [[div. A], title XII, § 1221(b)–(d)], Oct. 30, 20
 
 **European Security**
 
-Pub. L. 105–277, div. G, subdiv. B, title XXVII, Oct. 21, 1998, 112 Stat. 2681–839, as amended by Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 209(d)], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, provided that:
+Pub. L. 105–277, div. G, subdiv. B, title XXVII, Oct. 21, 1998, 112 Stat. 2681–839, as amended by Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 209(d)], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, provided that:
 
 > **“SEC. 2701. SHORT TITLE.**
 
@@ -991,7 +991,7 @@ Pub. L. 105–277, div. G, subdiv. B, title XXVII, Oct. 21, 1998, 112 Stat. 2681
 
 **Limitation on United States Share of Costs of NATO Expansion**
 
-Pub. L. 105–261, div. A, title XII, § 1221, Oct. 17, 1998, 112 Stat. 2152, provided that:
+Pub. L. 105–261, div. A, title XII, § 1221, Oct. 17, 1998, 112 Stat. 2152, provided that:
 
 > **“(a) Limitation.—** The United States share of defined NATO expansion costs may not exceed the lesser of—
 
@@ -1003,11 +1003,11 @@ Pub. L. 105–261, div. A, title XII, § 1221, Oct. 17, 1998, 112 Stat. 2152, 
 
 **Reports on Development of European Security and Defense Identity**
 
-Pub. L. 105–261, div. A, title XII, § 1223, Oct. 17, 1998, 112 Stat. 2154, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774, required the submission of reports by the Secretary of Defense on the development of the European Security and Defense Identity within the NATO Alliance, prior to repeal by Pub. L. 108–136, div. A, title X, § 1031(g)(2), Nov. 24, 2003, 117 Stat. 1604.
+Pub. L. 105–261, div. A, title XII, § 1223, Oct. 17, 1998, 112 Stat. 2154, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774, required the submission of reports by the Secretary of Defense on the development of the European Security and Defense Identity within the NATO Alliance, prior to repeal by Pub. L. 108–136, div. A, title X, § 1031(g)(2), Nov. 24, 2003, 117 Stat. 1604.
 
 **NATO Enlargement Facilitation**
 
-Pub. L. 104–208, div. A, title I, § 101(c) [title VI], Sept. 30, 1996, 110 Stat. 3009–121, 3009–173, provided that:
+Pub. L. 104–208, div. A, title I, § 101(c) [title VI], Sept. 30, 1996, 110 Stat. 3009–121, 3009–173, provided that:
 
 > **“SEC. 601. SHORT TITLE.**
 
@@ -1169,7 +1169,7 @@ Pub. L. 104–208, div. A, title I, § 101(c) [title VI], Sept. 30, 1996, 110 
 
 **Defense Burdensharing**
 
-Pub. L. 105–85, div. A, title XII, § 1221, Nov. 18, 1997, 111 Stat. 1935, as amended by Pub. L. 105–261, div. A, title XII, § 1233, Oct. 17, 1998, 112 Stat. 2156; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(e)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, provided that:
+Pub. L. 105–85, div. A, title XII, § 1221, Nov. 18, 1997, 111 Stat. 1935, as amended by Pub. L. 105–261, div. A, title XII, § 1233, Oct. 17, 1998, 112 Stat. 2156; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(e)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, provided that:
 
 > **“(a) Efforts To Increase Allied Burdensharing.—** The President shall seek to have each nation that has cooperative military relations with the United States (including security agreements, basing arrangements, or mutual participation in multinational military organizations or operations) take one or more of the following actions:
 
@@ -1227,15 +1227,15 @@ Pub. L. 105–85, div. A, title XII, § 1221, Nov. 18, 1997, 111 Stat. 1935, a
 
 > **“(2)** The President shall submit to Congress a report on the review under paragraph (1). The report shall be submitted not later than March 1, 1999, in classified and unclassified form.”
 
-[Pub. L. 105–261, div. A, title XII, § 1233(a), Oct. 17, 1998, 112 Stat. 2156, provided that the amendments made by that section to section 1221(a) of Pub. L. 105–85, set out above, are effective Oct. 1, 1998.]
+[Pub. L. 105–261, div. A, title XII, § 1233(a), Oct. 17, 1998, 112 Stat. 2156, provided that the amendments made by that section to section 1221(a) of Pub. L. 105–85, set out above, are effective Oct. 1, 1998.]
 
 Similar provisions were contained in the following prior authorization act:
 
-Pub. L. 104–201, div. A, title X, § 1084, Sept. 23, 1996, 110 Stat. 2673, as amended by Pub. L. 108–136, div. A, title X, § 1045(e), Nov. 24, 2003, 117 Stat. 1613.
+Pub. L. 104–201, div. A, title X, § 1084, Sept. 23, 1996, 110 Stat. 2673, as amended by Pub. L. 108–136, div. A, title X, § 1045(e), Nov. 24, 2003, 117 Stat. 1613.
 
 **Nato Participation**
 
-Pub. L. 103–447, title II, Nov. 2, 1994, 108 Stat. 4695, as amended by Pub. L. 104–107, title V, § 585, Feb. 12, 1996, 110 Stat. 752; Pub. L. 104–208, div. A, title I, § 101(c) [title VI, § 612], Sept. 30, 1996, 110 Stat. 3009–121, 3009–178; Pub. L. 105–277, div. G, subdiv. B, title XXVII, § 2703(e), Oct. 21, 1998, 112 Stat. 2681–842, provided that:
+Pub. L. 103–447, title II, Nov. 2, 1994, 108 Stat. 4695, as amended by Pub. L. 104–107, title V, § 585, Feb. 12, 1996, 110 Stat. 752; Pub. L. 104–208, div. A, title I, § 101(c) [title VI, § 612], Sept. 30, 1996, 110 Stat. 3009–121, 3009–178; Pub. L. 105–277, div. G, subdiv. B, title XXVII, § 2703(e), Oct. 21, 1998, 112 Stat. 2681–842, provided that:
 
 > **“SEC. 201. SHORT TITLE.**
 
@@ -1341,7 +1341,7 @@ Pub. L. 103–447, title II, Nov. 2, 1994, 108 Stat. 4695, as amended by Pub. L.
 
 **Cost-Sharing Policy**
 
-Pub. L. 103–337, div. A, title XIII, § 1313(a)–(d), Oct. 5, 1994, 108 Stat. 2894, 2895, as amended by Pub. L. 110–417, [div. A], title XII, § 1238(b), Oct. 14, 2008, 122 Stat. 4644, provided that:
+Pub. L. 103–337, div. A, title XIII, § 1313(a)–(d), Oct. 5, 1994, 108 Stat. 2894, 2895, as amended by Pub. L. 110–417, [div. A], title XII, § 1238(b), Oct. 14, 2008, 122 Stat. 4644, provided that:
 
 > **“(a) Policy.—** It is the policy of the United States that the North Atlantic Treaty Organization (NATO) allies should assist the United States in paying the incremental costs incurred by the United States for maintaining members of the Armed Forces in assignments to permanent duty ashore in European member nations of NATO solely for support of NATO roles and missions.
 
@@ -1353,9 +1353,9 @@ Pub. L. 103–337, div. A, title XIII, § 1313(a)–(d), Oct. 5, 1994, 108 Sta
 
 **Implementation of Partnership for Peace**
 
-Pub. L. 103–236, title V, § 514, Apr. 30, 1994, 108 Stat. 467, as amended by Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217, provided that:
+Pub. L. 103–236, title V, § 514, Apr. 30, 1994, 108 Stat. 467, as amended by Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217, provided that:
 
-> **“[(a)** Repealed. Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217.]
+> **“[(a)** Repealed. Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217.]
 
 > **“(b) Authority of the President.—** The President is authorized to confer, pursuant to agreement with any country eligible to participate in the Partnership for Peace, rights in respect of the military and related civilian personnel (including dependents of any such personnel) and activities of that country in the United States comparable to the rights conferred by that country in respect of the military and related civilian personnel (including dependents of any such personnel) and activities of the United States in that country.”
 
@@ -1363,7 +1363,7 @@ Pub. L. 103–236, title V, § 514, Apr. 30, 1994, 108 Stat. 467, as amended b
 
 **Defense Cost-Sharing**
 
-Pub. L. 102–190, div. A, title X, § 1046, Dec. 5, 1991, 105 Stat. 1466, as amended by Pub. L. 103–160, div. A, title XIV, § 1412(b), Nov. 30, 1993, 107 Stat. 1829; Pub. L. 103–337, div. A, title XIII, § 1313(e), Oct. 5, 1994, 108 Stat. 2895; Pub. L. 115–91, div. A, title X, § 1051(e), Dec. 12, 2017, 131 Stat. 1563, provided that:
+Pub. L. 102–190, div. A, title X, § 1046, Dec. 5, 1991, 105 Stat. 1466, as amended by Pub. L. 103–160, div. A, title XIV, § 1412(b), Nov. 30, 1993, 107 Stat. 1829; Pub. L. 103–337, div. A, title XIII, § 1313(e), Oct. 5, 1994, 108 Stat. 2895; Pub. L. 115–91, div. A, title X, § 1051(e), Dec. 12, 2017, 131 Stat. 1563, provided that:
 
 > **“(a) Defense Cost-Sharing Agreements.—**
 
@@ -1397,11 +1397,11 @@ Pub. L. 102–190, div. A, title X, § 1046, Dec. 5, 1991, 105 Stat. 1466, as 
 
 **Active-Duty Forces in Europe of Member Nations of NATO**
 
-Pub. L. 101–189, div. A, title IX, § 912, Nov. 29, 1989, 103 Stat. 1523, directed Secretary of Defense to ensure that, for the next three years, the current ratio (expressed as a percentage) of U.S. active duty forces in Europe to allied active duty forces in Europe does not increase by more than a specified amount.
+Pub. L. 101–189, div. A, title IX, § 912, Nov. 29, 1989, 103 Stat. 1523, directed Secretary of Defense to ensure that, for the next three years, the current ratio (expressed as a percentage) of U.S. active duty forces in Europe to allied active duty forces in Europe does not increase by more than a specified amount.
 
 **Sense of Congress on Need for Modernization of Theater Nuclear Capabilities of NATO**
 
-Pub. L. 100–456, div. A, title X, § 1004, Sept. 29, 1988, 102 Stat. 2039, provided that:
+Pub. L. 100–456, div. A, title X, § 1004, Sept. 29, 1988, 102 Stat. 2039, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -1427,11 +1427,11 @@ Pub. L. 100–456, div. A, title X, § 1004, Sept. 29, 1988, 102 Stat. 2039, p
 
 **Report on Official Development Assistance Program of Japan**
 
-Pub. L. 100–456, div. A, title X, § 1009(b), Sept. 29, 1988, 102 Stat. 2041, which required annual reports on the Official Development Assistance program of the Government of Japan, was repealed by Pub. L. 115–91, div. A, title X, § 1051(c), Dec. 12, 2017, 131 Stat. 1562.
+Pub. L. 100–456, div. A, title X, § 1009(b), Sept. 29, 1988, 102 Stat. 2041, which required annual reports on the Official Development Assistance program of the Government of Japan, was repealed by Pub. L. 115–91, div. A, title X, § 1051(c), Dec. 12, 2017, 131 Stat. 1562.
 
 **Japan-United States Security Relationship and Efforts by Japan To Fulfill Self-Defense Responsibilities**
 
-Pub. L. 99–93, title VIII, § 812, Aug. 16, 1985, 99 Stat. 453, as amended by Pub. L. 103–236, title I, § 139(14), Apr. 30, 1994, 108 Stat. 398, provided that:
+Pub. L. 99–93, title VIII, § 812, Aug. 16, 1985, 99 Stat. 453, as amended by Pub. L. 103–236, title I, § 139(14), Apr. 30, 1994, 108 Stat. 398, provided that:
 
 > **“(a) Findings.—** The Congress hereby finds—
 
@@ -1453,13 +1453,13 @@ Pub. L. 99–93, title VIII, § 812, Aug. 16, 1985, 99 Stat. 453, as amended b
 
 **Sense of Congress Relating to Increase in Defense Spending by United States Allies**
 
-Pub. L. 98–525, title X, § 1001, Oct. 19, 1984, 98 Stat. 2574, expressed the sense of Congress that the President should call on the nations of the North Atlantic Treaty Organization to meet or exceed their pledges for an annual increase in defense spending during fiscal years 1984 and 1985 of at least 3 percent real growth and should call on Japan to further increase its defense spending during fiscal years 1984 and 1985.
+Pub. L. 98–525, title X, § 1001, Oct. 19, 1984, 98 Stat. 2574, expressed the sense of Congress that the President should call on the nations of the North Atlantic Treaty Organization to meet or exceed their pledges for an annual increase in defense spending during fiscal years 1984 and 1985 of at least 3 percent real growth and should call on Japan to further increase its defense spending during fiscal years 1984 and 1985.
 
-Similar provisions were contained in Pub. L. 98–473, title I, § 101(e) [§ 127], (h) [title VIII, § 8105], Oct. 12, 1984, 98 Stat. 1877, 1883, 1904, 1943.
+Similar provisions were contained in Pub. L. 98–473, title I, § 101(e) [§ 127], (h) [title VIII, § 8105], Oct. 12, 1984, 98 Stat. 1877, 1883, 1904, 1943.
 
 **Improvements to NATO Conventional Capability**
 
-Pub. L. 98–525, title X, § 1002, Oct. 19, 1984, 98 Stat. 2574, as amended by Pub. L. 99–145, title XI, § 1101, Nov. 8, 1985, 99 Stat. 707; Pub. L. 101–189, div. A, title IX, § 911(a), Nov. 29, 1989, 103 Stat. 1523; Pub. L. 101–510, div. A, title IV, § 406, title XIII, § 1312(c)(1), (2), Nov. 5, 1990, 104 Stat. 1546, 1670; Pub. L. 102–25, title VII, § 704(a)(2), Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–190, div. A, title X, § 1042, Dec. 5, 1991, 105 Stat. 1462; Pub. L. 102–484, div. A, title XIII, § 1303(a), Oct. 23, 1992, 106 Stat. 2546; Pub. L. 103–160, div. A, title XIV, § 1412(a), Nov. 30, 1993, 107 Stat. 1828; Pub. L. 103–337, div. A, title XIII, § 1303(a)–(c), Oct. 5, 1994, 108 Stat. 2889, 2890; Pub. L. 104–106, div. A, title XIII, § 1334(a), title XV, § 1502(c)(7), Feb. 10, 1996, 110 Stat. 484, 508; Pub. L. 106–65, div. A, title X, §§ 1032(b)(4), 1067(12), Oct. 5, 1999, 113 Stat. 751, 775, provided that:
+Pub. L. 98–525, title X, § 1002, Oct. 19, 1984, 98 Stat. 2574, as amended by Pub. L. 99–145, title XI, § 1101, Nov. 8, 1985, 99 Stat. 707; Pub. L. 101–189, div. A, title IX, § 911(a), Nov. 29, 1989, 103 Stat. 1523; Pub. L. 101–510, div. A, title IV, § 406, title XIII, § 1312(c)(1), (2), Nov. 5, 1990, 104 Stat. 1546, 1670; Pub. L. 102–25, title VII, § 704(a)(2), Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–190, div. A, title X, § 1042, Dec. 5, 1991, 105 Stat. 1462; Pub. L. 102–484, div. A, title XIII, § 1303(a), Oct. 23, 1992, 106 Stat. 2546; Pub. L. 103–160, div. A, title XIV, § 1412(a), Nov. 30, 1993, 107 Stat. 1828; Pub. L. 103–337, div. A, title XIII, § 1303(a)–(c), Oct. 5, 1994, 108 Stat. 2889, 2890; Pub. L. 104–106, div. A, title XIII, § 1334(a), title XV, § 1502(c)(7), Feb. 10, 1996, 110 Stat. 484, 508; Pub. L. 106–65, div. A, title X, §§ 1032(b)(4), 1067(12), Oct. 5, 1999, 113 Stat. 751, 775, provided that:
 
 > **“(a)** The Congress finds—
 
@@ -1489,7 +1489,7 @@ Pub. L. 98–525, title X, § 1002, Oct. 19, 1984, 98 Stat. 2574, as amended b
 
 > **“(B)** Members performing duties in Europe for more than 179 days under a military-to-military contact program under [former] section 168 of title 10, United States Code.
 
-> **“[(d)** Repealed. Pub. L. 106–65, div. A, title X, § 1032(b)(4), Oct. 5, 1999, 113 Stat. 751.]
+> **“[(d)** Repealed. Pub. L. 106–65, div. A, title X, § 1032(b)(4), Oct. 5, 1999, 113 Stat. 751.]
 
 > **“(e)**
 
@@ -1503,15 +1503,15 @@ Pub. L. 98–525, title X, § 1002, Oct. 19, 1984, 98 Stat. 2574, as amended b
 
 > **“(2)** This section may be waived by the President if he declares an emergency and immediately informs the Congress of his action and the reasons therefor.”
 
-[Pub. L. 103–337, div. A, title XIII, § 1303(d), Oct. 5, 1994, 108 Stat. 2890, provided that: “The amendment made by subsection (a) [amending section 1002(c)(1) of Pub. L. 98–525, set out above] shall take effect on October 1, 1995.” ]
+[Pub. L. 103–337, div. A, title XIII, § 1303(d), Oct. 5, 1994, 108 Stat. 2890, provided that: “The amendment made by subsection (a) [amending section 1002(c)(1) of Pub. L. 98–525, set out above] shall take effect on October 1, 1995.” ]
 
-[Pub. L. 102–484, div. A, title XIII, § 1303(b), Oct. 23, 1992, 106 Stat. 2546, which provided that the amendment of section 1002(c)(1) of Pub. L. 98–525, set out above, by section 1303(a) of Pub. L. 102–484, take effect Oct. 1, 1995, was repealed by Pub. L. 103–337, div. A, title XIII, § 1303(c), Oct. 5, 1994, 108 Stat. 2890.]
+[Pub. L. 102–484, div. A, title XIII, § 1303(b), Oct. 23, 1992, 106 Stat. 2546, which provided that the amendment of section 1002(c)(1) of Pub. L. 98–525, set out above, by section 1303(a) of Pub. L. 102–484, take effect Oct. 1, 1995, was repealed by Pub. L. 103–337, div. A, title XIII, § 1303(c), Oct. 5, 1994, 108 Stat. 2890.]
 
-[Pub. L. 101–189, div. A, title IX, § 911(b), Nov. 29, 1989, 103 Stat. 1523, which provided that the amendment of section 1002 of Pub. L. 98–525, set out above, by section 911(a) of Pub. L. 101–189, take effect on Sept. 30, 1991, was repealed by Pub. L. 101–510, div. A, title IV, § 406(c), Nov. 5, 1990, 104 Stat. 1546.]
+[Pub. L. 101–189, div. A, title IX, § 911(b), Nov. 29, 1989, 103 Stat. 1523, which provided that the amendment of section 1002 of Pub. L. 98–525, set out above, by section 911(a) of Pub. L. 101–189, take effect on Sept. 30, 1991, was repealed by Pub. L. 101–510, div. A, title IV, § 406(c), Nov. 5, 1990, 104 Stat. 1546.]
 
 **Report on Allied Contributions to the Common Defense**
 
-Pub. L. 98–525, title X, § 1003, Oct. 19, 1984, 98 Stat. 2576, as amended by Pub. L. 101–510, div. A, title XIII, § 1312(c)(3), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 104–201, div. A, title X, § 1084(e), Sept. 23, 1996, 110 Stat. 2675; Pub. L. 108–136, div. A, title X, § 1045(e), Nov. 24, 2003, 117 Stat. 1613; Pub. L. 110–417, [div. A], title XII, § 1238(a), Oct. 14, 2008, 122 Stat. 4644; Pub. L. 115–91, div. A, title X, § 1051(b), Dec. 12, 2017, 131 Stat. 1562, provided that:
+Pub. L. 98–525, title X, § 1003, Oct. 19, 1984, 98 Stat. 2576, as amended by Pub. L. 101–510, div. A, title XIII, § 1312(c)(3), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 104–201, div. A, title X, § 1084(e), Sept. 23, 1996, 110 Stat. 2675; Pub. L. 108–136, div. A, title X, § 1045(e), Nov. 24, 2003, 117 Stat. 1613; Pub. L. 110–417, [div. A], title XII, § 1238(a), Oct. 14, 2008, 122 Stat. 4644; Pub. L. 115–91, div. A, title X, § 1051(b), Dec. 12, 2017, 131 Stat. 1562, provided that:
 
 > **“(a)** In recognition of the increasing military threat faced by the Western World and in view of the growth, relative to the United States, in the economic strength of Japan, Canada, and a number of Western European countries which has occurred since the signing of the North Atlantic Treaty on April 4, 1949, and the Mutual Cooperation and Security Treaty between Japan and the United States on January 19, 1960, it is the sense of the Congress that—
 
@@ -1527,15 +1527,15 @@ Pub. L. 98–525, title X, § 1003, Oct. 19, 1984, 98 Stat. 2576, as amended b
 
 > **“(b)** It is further the sense of the Congress that the President should seek from each signatory country (other than the United States) of the two treaties referred to in subsection (a) acceptance of international security responsibilities and an agreement to make contributions to the common defense which are commensurate with the economic resources of such country, including, when appropriate, an increase in host nation support.
 
-> [Pub. L. 108–136, div. A, title X, § 1045(e), Nov. 24, 2003, 117 Stat. 1613, provided in part that: “The amendment made by the preceding sentence [amending section 1084(e) of 104–201, set out in the credit of the note above] shall take effect as if included in Public Law 104–201.”]
+> [Pub. L. 108–136, div. A, title X, § 1045(e), Nov. 24, 2003, 117 Stat. 1613, provided in part that: “The amendment made by the preceding sentence [amending section 1084(e) of 104–201, set out in the credit of the note above] shall take effect as if included in Public Law 104–201.”]
 
 > Similar provisions were contained in the following prior authorization act:
 
-> Pub. L. 98–94, title XI, § 1102, Sept. 24, 1983, 97 Stat. 673.
+> Pub. L. 98–94, title XI, § 1102, Sept. 24, 1983, 97 Stat. 673.
 
 **NATO Defense Industrial Cooperation**
 
-Pub. L. 97–252, title XI, § 1122, Sept. 8, 1982, 96 Stat. 755, provided that:
+Pub. L. 97–252, title XI, § 1122, Sept. 8, 1982, 96 Stat. 755, provided that:
 
 > **“(a)** The Congress finds that—
 
@@ -1561,7 +1561,7 @@ Pub. L. 97–252, title XI, § 1122, Sept. 8, 1982, 96 Stat. 755, provided tha
 
 **North Atlantic Treaty Organization Countries and Japan; Contributions of Allies of United States to Common Defense Commensurate With Economic Resources; Report to Congress**
 
-Pub. L. 96–342, title X, § 1006, Sept. 8, 1980, 94 Stat. 1120, as amended by Pub. L. 97–86, title IX, § 919, Dec. 1, 1981, 95 Stat. 1132; Pub. L. 97–252, title XI, § 1120, Sept. 8, 1982, 96 Stat. 754, provided that:
+Pub. L. 96–342, title X, § 1006, Sept. 8, 1980, 94 Stat. 1120, as amended by Pub. L. 97–86, title IX, § 919, Dec. 1, 1981, 95 Stat. 1132; Pub. L. 97–252, title XI, § 1120, Sept. 8, 1982, 96 Stat. 754, provided that:
 
 > **“(a)** In recognition of the growth, relative to the United States, in the economic strength of Japan, Canada, and Western European countries which has occurred since the signing of the North Atlantic Treaty on April 4, 1949, and the Mutual Cooperation and Security Treaty between Japan and the United States on January 19, 1960, it is the sense of Congress that—
 
@@ -1591,7 +1591,7 @@ Pub. L. 96–342, title X, § 1006, Sept. 8, 1980, 94 Stat. 1120, as amended b
 
 **North Atlantic Treaty Organization; Balance-of-Payments Deficit; Equitable Cost Sharing; Report to Congress**
 
-Pub. L. 93–155, title VIII, § 812, Nov. 16, 1973, 87 Stat. 619, provided that:
+Pub. L. 93–155, title VIII, § 812, Nov. 16, 1973, 87 Stat. 619, provided that:
 
 > **“(a)** The Congress finds that in order to achieve a more equitable sharing of the costs and expenses arising from commitments and obligations under the North Atlantic Treaty, the President should seek, through appropriate bilateral and multilateral arrangements, payments sufficient in amount to offset fully any balance-of-payment deficit incurred by the United States during the fiscal year ending June 30, 1974, as the result of the deployment of forces in Europe in fulfillment of the treaty commitments and obligations of the United States. This balance-of-payment deficit shall be determined by the Secretary of Commerce in consultation with the Secretary of Defense and the Comptroller General of the United States.
 
@@ -1639,11 +1639,11 @@ You are authorized and directed to notify the Congress of this determination and
 
 George Bush.
 
-#### § 1928a. North Atlantic Treaty Parliamentary Conference; participation; appointment of United States Group
+#### § 1928a. North Atlantic Treaty Parliamentary Conference; participation; appointment of United States Group
 
 Not to exceed twenty-four Members of Congress shall be appointed to meet jointly and annually with representative parliamentary groups from other NATO (North Atlantic Treaty Organization) members, for discussion of common problems in the interests of the maintenance of peace and security in the North Atlantic area. Of the Members of the Congress to be appointed for the purposes of this resolution (hereinafter designated as the “United States Group”), half shall be appointed by the Speaker of the House from Members of the House (not less than four of whom shall be from the Committee on Foreign Affairs), and half shall be appointed by the President of the Senate upon recommendations of the majority and minority leaders of the Senate from Members of the Senate. Not more than seven of the appointees from the Senate shall be of the same political party. The Chairman or Vice Chairman of the House delegation shall be a Member from the Foreign Affairs Committee, and, unless the President of the Senate, upon the recommendation of the Majority Leader, determines otherwise, the Chairman or Vice Chairman of the Senate delegation shall be a Member from the Foreign Relations Committee. Each delegation shall have a secretary. The secretaries of the Senate and House delegations shall be appointed, respectively, by the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Foreign Affairs of the House of Representatives.
 
-(July 11, 1956, ch. 562, § 1, 70 Stat. 523; Pub. L. 88–205, pt. IV, § 406, Dec. 16, 1963, 77 Stat. 392; Pub. L. 95–45, § 4(c), June 15, 1977, 91 Stat. 222; Pub. L. 100–204, title VII, § 744(a), Dec. 22, 1987, 101 Stat. 1396; Pub. L. 103–437, § 9(a)(5), Nov. 2, 1994, 108 Stat. 4588.)
+(July 11, 1956, ch. 562, § 1, 70 Stat. 523; Pub. L. 88–205, pt. IV, § 406, Dec. 16, 1963, 77 Stat. 392; Pub. L. 95–45, § 4(c), June 15, 1977, 91 Stat. 222; Pub. L. 100–204, title VII, § 744(a), Dec. 22, 1987, 101 Stat. 1396; Pub. L. 103–437, § 9(a)(5), Nov. 2, 1994, 108 Stat. 4588.)
 
 **Editorial Notes**
 
@@ -1661,11 +1661,11 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 
 1963—Pub. L. 88–205 struck out “and when Congress is not in session” after “to meet jointly and annually”.
 
-#### § 1928b. Authorization of appropriations
+#### § 1928b. Authorization of appropriations
 
 There is authorized to be appropriated annually (1) for the annual contribution of the United States toward the maintenance of the NATO Parliamentary Assembly, such sum as may be agreed upon by the United States Group and approved by such Assembly, but in no event to exceed for any year an amount equal to 25 per centum of the total annual contributions made for that year by all members of the NATO Parliamentary Treaty Organization toward the maintenance of such Assembly, and (2) $200,000, $100,000 for the House delegation and $100,000 for the Senate delegation, or so much thereof as may be necessary, to assist in meeting the expenses of the United States Group of the NATO Parliamentary Assembly for each fiscal year for which an appropriation is made, such appropriation to be dispersed on voucher to be approved by the Chairman of the House delegation and the Chairman of the Senate delegation.
 
-(July 11, 1956, ch. 562, § 2, 70 Stat. 523; Pub. L. 85–477, ch. V, § 502(d), June 30, 1958, 72 Stat. 273; Pub. L. 90–137, pt. IV, § 401(a), Nov. 14, 1967, 81 Stat. 463; Pub. L. 92–226, pt. IV, § 405, Feb. 7, 1972, 86 Stat. 34; Pub. L. 100–202, § 101(a) [title III, § 303], Dec. 22, 1987, 101 Stat. 1329, 1329–23; Pub. L. 100–204, title VII, § 744(b), Dec. 22, 1987, 101 Stat. 1396; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 701(b)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–459; Pub. L. 107–77, title IV, § 408(b)(1), Nov. 28, 2001, 115 Stat. 790.)
+(July 11, 1956, ch. 562, § 2, 70 Stat. 523; Pub. L. 85–477, ch. V, § 502(d), June 30, 1958, 72 Stat. 273; Pub. L. 90–137, pt. IV, § 401(a), Nov. 14, 1967, 81 Stat. 463; Pub. L. 92–226, pt. IV, § 405, Feb. 7, 1972, 86 Stat. 34; Pub. L. 100–202, § 101(a) [title III, § 303], Dec. 22, 1987, 101 Stat. 1329, 1329–23; Pub. L. 100–204, title VII, § 744(b), Dec. 22, 1987, 101 Stat. 1396; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 701(b)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–459; Pub. L. 107–77, title IV, § 408(b)(1), Nov. 28, 2001, 115 Stat. 790.)
 
 **Editorial Notes**
 
@@ -1693,11 +1693,11 @@ Pub. L. 100–202 substituted “annually (1)” for “annually,”, “(2) $10
 
 **Change of Name**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 701(b)(3)], Nov. 29, 1999, 113 Stat. 1536, 1501A–459, provided that: “In the case of any provision of law having application on or after May 31, 1999 (other than a provision of law specified in subparagraphs (A) or (B) [probably should be “paragraphs (1) or (2)”, which amended this section and sections 276c–1, 1928c, and 1928d of this title]), any reference contained in that provision to the North Atlantic Assembly shall, on and after that date, be considered to be a reference to the NATO Parliamentary Assembly.”
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 701(b)(3)], Nov. 29, 1999, 113 Stat. 1536, 1501A–459, provided that: “In the case of any provision of law having application on or after May 31, 1999 (other than a provision of law specified in subparagraphs (A) or (B) [probably should be “paragraphs (1) or (2)”, which amended this section and sections 276c–1, 1928c, and 1928d of this title]), any reference contained in that provision to the North Atlantic Assembly shall, on and after that date, be considered to be a reference to the NATO Parliamentary Assembly.”
 
 **Permanent Appropriation for Delegation Expenses**
 
-A permanent appropriation to carry out cl. (2) of this section is contained in section 101(a) [title III, § 303] of Pub. L. 100–202, as amended, set out as a note under section 276e of this title.
+A permanent appropriation to carry out cl. (2) of this section is contained in section 101(a) [title III, § 303] of Pub. L. 100–202, as amended, set out as a note under section 276e of this title.
 
 **Annual Appropriations**
 
@@ -1705,13 +1705,13 @@ Annual appropriations to meet the obligations of membership in various internati
 
 **Authorization of Appropriations for Expenses of 1959 Annual Meeting of North Atlantic Treaty Parliamentary Conference**
 
-Pub. L. 86–108, ch. VII, § 702, July 24, 1959, 73 Stat. 258, authorized appropriations for expenses of 1959 annual meeting of North Atlantic Treaty Parliamentary Conference, prior to repeal by Pub. L. 87–195, pt. III, § 642(a)(7), Sept. 4, 1961, 75 Stat. 460.
+Pub. L. 86–108, ch. VII, § 702, July 24, 1959, 73 Stat. 258, authorized appropriations for expenses of 1959 annual meeting of North Atlantic Treaty Parliamentary Conference, prior to repeal by Pub. L. 87–195, pt. III, § 642(a)(7), Sept. 4, 1961, 75 Stat. 460.
 
-#### § 1928c. Report to the Congress
+#### § 1928c. Report to the Congress
 
 The United States Group of the NATO Parliamentary Assembly shall submit to the Congress a report for each fiscal year for which an appropriation is made, including its expenditures under such appropriation.
 
-(July 11, 1956, ch. 562, § 3, 70 Stat. 524; Pub. L. 90–137, pt. IV, § 401(a)(2), Nov. 14, 1967, 81 Stat. 463; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 701(b)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–459.)
+(July 11, 1956, ch. 562, § 3, 70 Stat. 524; Pub. L. 90–137, pt. IV, § 401(a)(2), Nov. 14, 1967, 81 Stat. 463; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 701(b)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–459.)
 
 **Editorial Notes**
 
@@ -1725,11 +1725,11 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 
 1967—Pub. L. 90–137 substituted “North Atlantic Assembly” for “North Atlantic Treaty Parliamentary Conference”.
 
-#### § 1928d. Auditing and accounting
+#### § 1928d. Auditing and accounting
 
 The certificate of the Chairman of the House delegation and the Senate delegation of the NATO Parliamentary Assembly shall on and after July 11, 1956, be final and conclusive upon the accounting officers in the auditing of the accounts of the United States Group of the NATO Parliamentary Assembly.
 
-(July 11, 1956, ch. 562, § 4, 70 Stat. 524; Pub. L. 90–137, pt. IV, § 401(a)(2), Nov. 14, 1967, 81 Stat. 463; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 701(b)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–459.)
+(July 11, 1956, ch. 562, § 4, 70 Stat. 524; Pub. L. 90–137, pt. IV, § 401(a)(2), Nov. 14, 1967, 81 Stat. 463; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 701(b)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–459.)
 
 **Editorial Notes**
 
@@ -1743,11 +1743,11 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 
 1967—Pub. L. 90–137 substituted “North Atlantic Assembly” for “North Atlantic Treaty Parliamentary Conference” in two places.
 
-#### § 1928e. North Atlantic Assembly; appropriations for expenses of annual meeting
+#### § 1928e. North Atlantic Assembly; appropriations for expenses of annual meeting
 
 In addition to the amounts authorized by section 1928b of this title, there is authorized to be appropriated $50,000 for fiscal year 1977 to meet the expenses incurred by the United States group in hosting the twenty-second annual meeting of the North Atlantic Assembly. In addition to amounts authorized by section 1928b of this title, there is authorized to be appropriated $550,000 for fiscal year 1994 to meet the expenses incurred by the United States group in hosting the fortieth annual meeting of the North Atlantic Assembly. In addition to the amounts authorized by section 1928b of this title, there is authorized to be appropriated $450,000 for fiscal year 1984 to meet the expenses incurred by the United States group in hosting the thirty-first annual meeting of the North Atlantic Assembly. Amounts appropriated under this section are authorized to remain available until expended.
 
-(July 11, 1956, ch. 562, § 5, as added Pub. L. 94–350, title I, § 107, July 12, 1976, 90 Stat. 824; amended Pub. L. 98–164, title I, § 109(a), Nov. 22, 1983, 97 Stat. 1019; Pub. L. 102–138, title I, § 168(g), Oct. 28, 1991, 105 Stat. 677.)
+(July 11, 1956, ch. 562, § 5, as added Pub. L. 94–350, title I, § 107, July 12, 1976, 90 Stat. 824; amended Pub. L. 98–164, title I, § 109(a), Nov. 22, 1983, 97 Stat. 1019; Pub. L. 102–138, title I, § 168(g), Oct. 28, 1991, 105 Stat. 677.)
 
 **Editorial Notes**
 
@@ -1765,9 +1765,9 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 
 **Change of Name**
 
-Reference to North Atlantic Assembly considered to be reference to NATO Parliamentary Assembly, see section 1000(a)(7) [div. A, title VII, § 701(b)(3)] of Pub. L. 106–113, set out as a note under section 1928b of this title.
+Reference to North Atlantic Assembly considered to be reference to NATO Parliamentary Assembly, see section 1000(a)(7) [div. A, title VII, § 701(b)(3)] of Pub. L. 106–113, set out as a note under section 1928b of this title.
 
-#### § 1928f. Limitation on withdrawal from the North Atlantic Treaty Organization
+#### § 1928f. Limitation on withdrawal from the North Atlantic Treaty Organization
 
 **(a) Opposition of Congress to suspension, termination, denunciation, or withdrawal from North Atlantic Treaty**
 
@@ -1799,53 +1799,53 @@ If any provision of this section or the application of such provision is held by
 
 In this subtitle, the terms “withdrawal”, “denunciation”, “suspension”, and “termination” have the meaning given the terms in the Vienna Convention on the Law of Treaties, concluded at Vienna May 23, 1969.
 
-(Pub. L. 118–31, div. A, title XII, § 1250A, Dec. 22, 2023, 137 Stat. 464.)
+(Pub. L. 118–31, div. A, title XII, § 1250A, Dec. 22, 2023, 137 Stat. 464.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in subsecs. (e) and (f), is subtitle C (§§ 1241–1250B) of title XII of div. A of Pub. L. 118–31, Dec. 22, 2023, 137 Stat. 458, which enacted this section, amended section 9905 of Title 5, Government Organization and Employees, and section 8634 of Title 10, Armed Forces, and enacted provisions set out as notes under section 419 of Title 5 and section 113 of Title 10 and amended provisions set out as a note under section 333 of Title 10. For complete classification of subtitle C to the Code, see Tables.
+This subtitle, referred to in subsecs. (e) and (f), is subtitle C (§§ 1241–1250B) of title XII of div. A of Pub. L. 118–31, Dec. 22, 2023, 137 Stat. 458, which enacted this section, amended section 9905 of Title 5, Government Organization and Employees, and section 8634 of Title 10, Armed Forces, and enacted provisions set out as notes under section 419 of Title 5 and section 113 of Title 10 and amended provisions set out as a note under section 333 of Title 10. For complete classification of subtitle C to the Code, see Tables.
 
 **Codification**
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2024, and not as part of the Mutual Security Act of 1954 which comprises this chapter.
 
-#### § 1929. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+#### § 1929. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section, acts Aug. 26, 1954, ch. 937, ch. II, § 409, 68 Stat. 845; July 8, 1955, ch. 301, § 8(g), 69 Stat. 286; July 18, 1956, ch. 627, § 8(g), 70 Stat. 558; Aug. 14, 1957, Pub. L. 85–141, § 8(i), 71 Stat. 361; June 30, 1958, Pub. L. 85–477, ch. II, § 205(g), 72 Stat. 267; July 24, 1959, Pub. L. 86–108, ch. II, § 205(i), 73 Stat. 250; May 14, 1960, Pub. L. 86–472, ch. II, § 204(i), 74 Stat. 137, authorized payment of ocean freight charges and provided for arrangements for free entry.
+Section, acts Aug. 26, 1954, ch. 937, ch. II, § 409, 68 Stat. 845; July 8, 1955, ch. 301, § 8(g), 69 Stat. 286; July 18, 1956, ch. 627, § 8(g), 70 Stat. 558; Aug. 14, 1957, Pub. L. 85–141, § 8(i), 71 Stat. 361; June 30, 1958, Pub. L. 85–477, ch. II, § 205(g), 72 Stat. 267; July 24, 1959, Pub. L. 86–108, ch. II, § 205(i), 73 Stat. 250; May 14, 1960, Pub. L. 86–472, ch. II, § 204(i), 74 Stat. 137, authorized payment of ocean freight charges and provided for arrangements for free entry.
 
-#### § 1930. Repealed. Pub. L. 86–108, ch. II, § 205(j), July 24, 1959, 73 Stat. 250
+#### § 1930. Repealed. Pub. L. 86–108, ch. II, § 205(j), July 24, 1959, 73 Stat. 250
 
-Section, acts Aug. 26, 1954, ch. 937, ch. II, § 410, 68 Stat. 846; July 8, 1955, ch. 301, § 8(h), 69 Stat. 287; July 18, 1956, ch. 627, § 8(h), 70 Stat. 558; Aug. 14, 1957, Pub. L. 85–141, § 8(j), 71 Stat. 361; June 30, 1958, Pub. L. 85–477, ch. II, § 205(h), ch. V, § 501(14), 72 Stat. 267, 271, authorized appropriations for carrying out objectives of Mutual Defense Assistance Control Act of 1951, section 1611 et seq. of this title.
+Section, acts Aug. 26, 1954, ch. 937, ch. II, § 410, 68 Stat. 846; July 8, 1955, ch. 301, § 8(h), 69 Stat. 287; July 18, 1956, ch. 627, § 8(h), 70 Stat. 558; Aug. 14, 1957, Pub. L. 85–141, § 8(j), 71 Stat. 361; June 30, 1958, Pub. L. 85–477, ch. II, § 205(h), ch. V, § 501(14), 72 Stat. 267, 271, authorized appropriations for carrying out objectives of Mutual Defense Assistance Control Act of 1951, section 1611 et seq. of this title.
 
-#### § 1931. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+#### § 1931. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section, acts Aug. 26, 1954, ch. 937, ch. II, § 411, 68 Stat. 846; July 8, 1955, ch. 301, § 8(i), 69 Stat. 287; July 18, 1956, ch. 627, § 8(i), 70 Stat. 558; Aug. 14, 1957, Pub. L. 85–141, § 8(k), 71 Stat. 362; June 30, 1958, Pub. L. 85–477, ch. II, § 205(i), ch. V, § 501(15), 72 Stat. 267, 271; July 24, 1959, Pub. L. 86–108, ch. II, § 205(k), 73 Stat. 250; May 14, 1960, Pub. L. 86–472, ch. II, § 204(j), ch. V, § 501(b), 74 Stat. 137, 140, related to payment of administrative and other expenses. See sections 2396(b), (f) and 2397 of this title.
+Section, acts Aug. 26, 1954, ch. 937, ch. II, § 411, 68 Stat. 846; July 8, 1955, ch. 301, § 8(i), 69 Stat. 287; July 18, 1956, ch. 627, § 8(i), 70 Stat. 558; Aug. 14, 1957, Pub. L. 85–141, § 8(k), 71 Stat. 362; June 30, 1958, Pub. L. 85–477, ch. II, § 205(i), ch. V, § 501(15), 72 Stat. 267, 271; July 24, 1959, Pub. L. 86–108, ch. II, § 205(k), 73 Stat. 250; May 14, 1960, Pub. L. 86–472, ch. II, § 204(j), ch. V, § 501(b), 74 Stat. 137, 140, related to payment of administrative and other expenses. See sections 2396(b), (f) and 2397 of this title.
 
-#### § 1932. Repealed. Pub. L. 86–472, ch. II, § 204(k), May 14, 1960, 74 Stat. 138
+#### § 1932. Repealed. Pub. L. 86–472, ch. II, § 204(k), May 14, 1960, 74 Stat. 138
 
-Section, act Aug. 26, 1954, ch. 937, ch. II, § 412, as added July 24, 1959, Pub. L. 86–108, ch. II, § 205(*l*), 73 Stat. 250, authorized appropriations for President’s special education and training fund.
+Section, act Aug. 26, 1954, ch. 937, ch. II, § 412, as added July 24, 1959, Pub. L. 86–108, ch. II, § 205(*l*), 73 Stat. 250, authorized appropriations for President’s special education and training fund.
 
-A prior section 412 of act Aug. 26, 1954, which authorized assistance to selected Chinese and Korean students for studying or teaching, or for research and related academic and technical activities in the United States, was repealed by Pub. L. 85–141, § 8(*l*), Aug. 14, 1957, 71 Stat. 362.
+A prior section 412 of act Aug. 26, 1954, which authorized assistance to selected Chinese and Korean students for studying or teaching, or for research and related academic and technical activities in the United States, was repealed by Pub. L. 85–141, § 8(*l*), Aug. 14, 1957, 71 Stat. 362.
 
-#### § 1933. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+#### § 1933. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section, acts Aug. 26, 1954, ch. 937, ch. II, § 413, 68 Stat. 846; July 18, 1956, ch. 627, § 8(j), (k), 70 Stat. 558; June 30, 1958, Pub. L. 85–477, ch. II, § 205(j), 72 Stat. 267; July 24, 1959, Pub. L. 86–108, ch. II, § 205(m), 73 Stat. 251, related to encouragement of free enterprise and private participation. See section 2351 of this title.
+Section, acts Aug. 26, 1954, ch. 937, ch. II, § 413, 68 Stat. 846; July 18, 1956, ch. 627, § 8(j), (k), 70 Stat. 558; June 30, 1958, Pub. L. 85–477, ch. II, § 205(j), 72 Stat. 267; July 24, 1959, Pub. L. 86–108, ch. II, § 205(m), 73 Stat. 251, related to encouragement of free enterprise and private participation. See section 2351 of this title.
 
-#### § 1934. Repealed. Pub. L. 94–329, title II, § 212(b)(1), June 30, 1976, 90 Stat. 745
+#### § 1934. Repealed. Pub. L. 94–329, title II, § 212(b)(1), June 30, 1976, 90 Stat. 745
 
-Section, acts Aug. 26, 1954, ch. 937, ch. II, § 414, 68 Stat. 848; June 30, 1958, Pub. L. 85–477, ch. II, § 205(k), 72 Stat. 267; Oct. 18, 1962, Pub. L. 87–845, § 5, 76A Stat. 698; Nov. 14, 1967, Pub. L. 90–137, pt. IV, § 403, 81 Stat. 463; Dec. 17, 1973, Pub. L. 93–189, § 27, 87 Stat. 732; Nov. 29, 1975, Pub. L. 94–141, title I, § 150(a), 89 Stat. 760, related to authority of President to control export and import of arms, ammunition, and implements of war.
+Section, acts Aug. 26, 1954, ch. 937, ch. II, § 414, 68 Stat. 848; June 30, 1958, Pub. L. 85–477, ch. II, § 205(k), 72 Stat. 267; Oct. 18, 1962, Pub. L. 87–845, § 5, 76A Stat. 698; Nov. 14, 1967, Pub. L. 90–137, pt. IV, § 403, 81 Stat. 463; Dec. 17, 1973, Pub. L. 93–189, § 27, 87 Stat. 732; Nov. 29, 1975, Pub. L. 94–141, title I, § 150(a), 89 Stat. 760, related to authority of President to control export and import of arms, ammunition, and implements of war.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Reference to Former Section 1934 of This Title Deemed Reference to Section 2778**
 
-Pub. L. 94–329, title II, § 212(b)(1), June 30, 1976, 90 Stat. 745, provided in part that: “Any reference to such section [this section] shall be deemed to be a reference to section 38 of the Arms Export Control Act [section 2778 of this title] and any reference to licenses issued under section 38 of the Arms Export Control Act shall be deemed to include a reference to licenses issued under section 414 of the Mutual Security Act of 1954.”
+Pub. L. 94–329, title II, § 212(b)(1), June 30, 1976, 90 Stat. 745, provided in part that: “Any reference to such section [this section] shall be deemed to be a reference to section 38 of the Arms Export Control Act [section 2778 of this title] and any reference to licenses issued under section 38 of the Arms Export Control Act shall be deemed to include a reference to licenses issued under section 414 of the Mutual Security Act of 1954.”
 
 **Savings Provision**
 
-Pub. L. 94–329, title II, § 212(b)(2), June 30, 1976, 90 Stat. 745, provided that: “All determinations, authorizations, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under section 414 of the Mutual Security Act of 1954 [this section] shall continue in full force and effect until modified, revoked, or superseded by appropriate authority.”
+Pub. L. 94–329, title II, § 212(b)(2), June 30, 1976, 90 Stat. 745, provided that: “All determinations, authorizations, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under section 414 of the Mutual Security Act of 1954 [this section] shall continue in full force and effect until modified, revoked, or superseded by appropriate authority.”
 
 **Executive Documents**
 
@@ -1853,17 +1853,17 @@ Pub. L. 94–329, title II, § 212(b)(2), June 30, 1976, 90 Stat. 745, provide
 
 Ex. Ord. No. 11432, Oct. 22, 1968, 33 F.R. 15701, which amended section 301 of Ex. Ord. No. 10973, Nov. 6, 1961, 26 F.R. 10469, in regard to delegation of certain functions concerning arms control to the Department of the Treasury, was omitted in view of the subsequent amendment to section 301 by Ex. Ord. No. 11959, Jan. 18, 1977, 42 F.R. 4315.
 
-#### §§ 1935, 1936. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
+#### §§ 1935, 1936. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section 1935, acts Aug. 26, 1954, ch. 937, ch. II, § 415, 68 Stat. 849; July 18, 1956, ch. 627, § 8(*l*), 70 Stat. 559, related to stockpiling of supplies.
+Section 1935, acts Aug. 26, 1954, ch. 937, ch. II, § 415, 68 Stat. 849; July 18, 1956, ch. 627, § 8(*l*), 70 Stat. 559, related to stockpiling of supplies.
 
-Section 1936, acts Aug. 26, 1954, ch. 937, ch. II, § 416, 68 Stat. 849; Aug. 14, 1957, Pub. L. 85–141, § 8(m), 71 Stat. 362, provided for facilitation and encouragement of travel.
+Section 1936, acts Aug. 26, 1954, ch. 937, ch. II, § 416, 68 Stat. 849; Aug. 14, 1957, Pub. L. 85–141, § 8(m), 71 Stat. 362, provided for facilitation and encouragement of travel.
 
-#### § 1937. Irish counterpart account; approval of disposition
+#### § 1937. Irish counterpart account; approval of disposition
 
-Pursuant to section 1513(b)(6) 1
+Pursuant to section 1513(b)(6) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the disposition within Ireland of the unencumbered balance, in the amount of approximately 6,000,000 Irish pounds, of the special account of Irish funds established under article IV of the Economic Cooperation Agreement between the United States of America and Ireland, dated June 28, 1948, for the purposes of—
 
@@ -1875,7 +1875,7 @@ of this title, the disposition within Ireland of the unencumbered balance, in th
 
 is approved, as provided in the agreement between the Government of the United States of America and the Government of Ireland, dated June 17, 1954.
 
-(Aug. 26, 1954, ch. 937, ch. II, § 417, 68 Stat. 849.)
+(Aug. 26, 1954, ch. 937, ch. II, § 417, 68 Stat. 849.)
 
 **Editorial Notes**
 
@@ -1883,23 +1883,23 @@ is approved, as provided in the agreement between the Government of the United S
 
 Section 1513(b)(6) of this title, referred to in text, was repealed by section 542(a)(4) of act Aug. 26, 1954.
 
-#### § 1938. Repealed. July 18, 1956, ch. 627, § 8(m), 70 Stat. 559
+#### § 1938. Repealed. July 18, 1956, ch. 627, § 8(m), 70 Stat. 559
 
-Section, act Aug. 26, 1954, ch. 937, title IV, § 418, as added July 8, 1955, ch. 301, § 8(j), 69 Stat. 287, authorized the establishment of President’s Fund for Asian Economic Development.
+Section, act Aug. 26, 1954, ch. 937, title IV, § 418, as added July 8, 1955, ch. 301, § 8(j), 69 Stat. 287, authorized the establishment of President’s Fund for Asian Economic Development.
 
-#### §§ 1939 to 1941. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), (7), Sept. 4, 1961, 75 Stat. 460
+#### §§ 1939 to 1941. Repealed. Pub. L. 87–195, pt. III, § 642(a)(2), (7), Sept. 4, 1961, 75 Stat. 460
 
-Section 1939, act Aug. 26, 1954, ch. 937, ch. II, § 419, as added Aug. 14, 1957, Pub. L. 85–141, § 8(n), 71 Stat. 362; amended June 30, 1958, Pub. L. 85–477, ch. II, § 205(*l*), 72 Stat. 267; July 24, 1959, Pub. L. 86–108, ch. II, § 205(n), 73 Stat. 251; May 14, 1960, Pub. L. 86–472, ch. II, § 204(*l*), 74 Stat. 138, related to atoms for peace. See section 2171(c) of this title.
+Section 1939, act Aug. 26, 1954, ch. 937, ch. II, § 419, as added Aug. 14, 1957, Pub. L. 85–141, § 8(n), 71 Stat. 362; amended June 30, 1958, Pub. L. 85–477, ch. II, § 205(*l*), 72 Stat. 267; July 24, 1959, Pub. L. 86–108, ch. II, § 205(n), 73 Stat. 251; May 14, 1960, Pub. L. 86–472, ch. II, § 204(*l*), 74 Stat. 138, related to atoms for peace. See section 2171(c) of this title.
 
-Act July 18, 1956, ch. 627, § 12, 70 Stat. 565, which was formerly classified to section 1939 of this title and authorized appropriations for atoms for peace, was repealed by Pub. L. 87–195, pt. III, § 642(a)(4) Sept. 4, 1961, 75 Stat. 460.
+Act July 18, 1956, ch. 627, § 12, 70 Stat. 565, which was formerly classified to section 1939 of this title and authorized appropriations for atoms for peace, was repealed by Pub. L. 87–195, pt. III, § 642(a)(4) Sept. 4, 1961, 75 Stat. 460.
 
-Section 1940, act Aug. 26, 1954, ch. 937, ch. II, § 420, as added Aug. 14, 1957, Pub. L. 85–141, § 8(n), 71 Stat. 362; amended June 30, 1958, Pub. L. 85–477, ch. II, § 205(m), 72 Stat. 267, provided for a program of malaria eradication.
+Section 1940, act Aug. 26, 1954, ch. 937, ch. II, § 420, as added Aug. 14, 1957, Pub. L. 85–141, § 8(n), 71 Stat. 362; amended June 30, 1958, Pub. L. 85–477, ch. II, § 205(m), 72 Stat. 267, provided for a program of malaria eradication.
 
-Section 1940a, act Aug. 26, 1954, ch. 937, ch. II, § 421, as added May 14, 1960, Pub. L. 86–472, ch. II, § 204(m), 74 Stat. 138, related to loans to small farmers. See section 2175 of this title.
+Section 1940a, act Aug. 26, 1954, ch. 937, ch. II, § 421, as added May 14, 1960, Pub. L. 86–472, ch. II, § 204(m), 74 Stat. 138, related to loans to small farmers. See section 2175 of this title.
 
-Section 1941, Pub. L. 86–108, ch. V, § 501, July 24, 1959, 73 Stat. 255, provided for international cooperation in health. Subsec. (b) of section 501 of Pub. L. 86–108 was previously repealed by Pub. L. 86–472, ch. IV, § 602, May 14, 1960, 74 Stat. 141.
+Section 1941, Pub. L. 86–108, ch. V, § 501, July 24, 1959, 73 Stat. 255, provided for international cooperation in health. Subsec. (b) of section 501 of Pub. L. 86–108 was previously repealed by Pub. L. 86–472, ch. IV, § 602, May 14, 1960, 74 Stat. 141.
 
-#### § 1942. Development assistance in Latin America; Congressional declaration of policy
+#### § 1942. Development assistance in Latin America; Congressional declaration of policy
 
 **(a)** It is the sense of the Congress that—
 
@@ -1933,7 +1933,7 @@ Section 1941, Pub. L. 86–108, ch. V, § 501, July 24, 1959, 73 Stat. 255, pr
 
 **(7)** declares that it is prepared to give careful and sympathetic consideration to programs which the President may develop for the purpose of promoting these policies.
 
-(Pub. L. 86–735, § 1, Sept. 8, 1960, 74 Stat. 869.)
+(Pub. L. 86–735, § 1, Sept. 8, 1960, 74 Stat. 869.)
 
 **Editorial Notes**
 
@@ -1945,11 +1945,11 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 
 **Short Title**
 
-Pub. L. 88–205, pt. IV, § 401(a), Dec. 16, 1963, 77 Stat. 390, amended Pub. L. 86–735 to provide: “That this Act [enacting this section and sections 1943 to 1945 of this title and amending section 1753a of this title] may be cited as the ‘Latin American Development Act’.”
+Pub. L. 88–205, pt. IV, § 401(a), Dec. 16, 1963, 77 Stat. 390, amended Pub. L. 86–735 to provide: “That this Act [enacting this section and sections 1943 to 1945 of this title and amending section 1753a of this title] may be cited as the ‘Latin American Development Act’.”
 
 **Revision of Social Progress Trust Fund Agreement**
 
-Pub. L. 93–189, § 36, Dec. 17, 1973, 87 Stat. 734, as amended by Pub. L. 97–113, title VII, § 734(a)(9), Dec. 29, 1981, 95 Stat. 1560, provided that:
+Pub. L. 93–189, § 36, Dec. 17, 1973, 87 Stat. 734, as amended by Pub. L. 97–113, title VII, § 734(a)(9), Dec. 29, 1981, 95 Stat. 1560, provided that:
 
 > **“(a)** The President or his delegate shall seek, as soon as possible a revision of the Social Progress Trust Fund Agreement (dated June 19, 1961) between the United States and the Inter-American Development Bank. Such revision should provide for the—
 
@@ -1965,9 +1965,9 @@ Pub. L. 93–189, § 36, Dec. 17, 1973, 87 Stat. 734, as amended by Pub. L. 97
 
 > **“(d)** The revision of the Social Progress Trust Fund Agreement pursuant to this section shall provide that the President or his delegate shall specify, from time to time, after consultation with the Inter-American Development Bank, the particular currencies to be used in making the transfer or utilization described in this section.
 
-> **“(e)** [Repealed. Pub. L. 97–113, title VII, § 734(a)(9), Dec. 29, 1981, 95 Stat. 1560].”
+> **“(e)** [Repealed. Pub. L. 97–113, title VII, § 734(a)(9), Dec. 29, 1981, 95 Stat. 1560].”
 
-[Amendment of provisions of section 36 of Pub. L. 93–189, set out above, by Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 586(h)(2)], Nov. 29, 1999, 113 Stat. 1535, 1501A–120, did not become effective pursuant to section 1000(a)(2) [title V, § 586] of div. B of Pub. L. 106–113, formerly set out as an Abolition of the Inter-American Foundation note under section 290f of this title.]
+[Amendment of provisions of section 36 of Pub. L. 93–189, set out above, by Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 586(h)(2)], Nov. 29, 1999, 113 Stat. 1535, 1501A–120, did not become effective pursuant to section 1000(a)(2) [title V, § 586] of div. B of Pub. L. 106–113, formerly set out as an Abolition of the Inter-American Foundation note under section 290f of this title.]
 
 **Executive Documents**
 
@@ -1985,11 +1985,11 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George W. Bush.
 
-#### § 1943. Authorization of appropriations; restrictions; reports to congressional committees
+#### § 1943. Authorization of appropriations; restrictions; reports to congressional committees
 
 In order to carry out the purposes of section 1942 of this title, there is authorized to be appropriated to the President not to exceed $680,000,000, which shall remain available until expended, and which the President may use, subject to such further legislative provisions as may be enacted, in addition to other funds available for such purposes, on such terms and conditions as he may specify: *Provided*, That none of the funds made available pursuant to this section shall be used to furnish assistance to any country in Latin America being subjected to economic or diplomatic sanctions by the Organization of American States. The Secretary of State shall keep the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House currently informed about plans and programs for the utilization of such funds.
 
-(Pub. L. 86–735, § 2, Sept. 8, 1960, 74 Stat. 870; Pub. L. 88–205, pt. IV, § 401(b), Dec. 16, 1963, 77 Stat. 390.)
+(Pub. L. 86–735, § 2, Sept. 8, 1960, 74 Stat. 870; Pub. L. 88–205, pt. IV, § 401(b), Dec. 16, 1963, 77 Stat. 390.)
 
 **Editorial Notes**
 
@@ -2007,11 +2007,11 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 
 For delegation of certain functions of President under this section, see Memorandum of President of the United States, May 30, 2001, 66 F.R. 30629, set out as a note under section 1942 of this title.
 
-#### § 1944. Reconstruction assistance in Chile; authorization of appropriations
+#### § 1944. Reconstruction assistance in Chile; authorization of appropriations
 
 There is authorized to be appropriated to the President not to exceed $100,000,000, which shall remain available until expended, for use, in addition to other funds available for such purposes, in the reconstruction and rehabilitation of Chile on such terms and conditions as the President may specify.
 
-(Pub. L. 86–735, § 3, Sept. 8, 1960, 74 Stat. 870.)
+(Pub. L. 86–735, § 3, Sept. 8, 1960, 74 Stat. 870.)
 
 **Editorial Notes**
 
@@ -2025,19 +2025,19 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 
 For delegation of certain functions of President under this section, see Memorandum of President of the United States, May 30, 2001, 66 F.R. 30629, set out as a note under section 1942 of this title.
 
-#### § 1945. Utilization of funds for assistance in Latin America; availability for transportation of immigrants from Ryukyuan Archipelago
+#### § 1945. Utilization of funds for assistance in Latin America; availability for transportation of immigrants from Ryukyuan Archipelago
 
 **(a)** Funds appropriated under sections 1943 and 1944 of this title may be used for assistance under sections 1942 to 1945 of this title pursuant to such provisions applicable to the furnishing of such assistance contained in any successor Act to the Mutual Security Act of 1954, as amended, as the President determines to be necessary to carry out the purposes for which such funds are appropriated.
 
 **(b)** Of the funds appropriated under section 1943 of this title not more than $800,000 shall be available only for assisting in transporting to and settling in Latin America selected immigrants from that portion of the Ryukyuan Archipelago under United States administration.
 
-(Pub. L. 86–735, § 4, as added Pub. L. 87–195, pt. IV, § 706, Sept. 4, 1961, 75 Stat. 463.)
+(Pub. L. 86–735, § 4, as added Pub. L. 87–195, pt. IV, § 706, Sept. 4, 1961, 75 Stat. 463.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Mutual Security Act of 1954, referred to in text, is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§ 2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§ 101 to 103, ch. II, §§ 201 to 205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, § 2, ch. 1, § 101, ch. II, §§ 201 to 205(a) to (i), (k) to (n), ch. III, § 301, ch. IV, § 401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§ 1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, § 8(m), 70 Stat. 559, Pub. L. 85–141, §§ 2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§ 205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§ 203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, § 212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, § 228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
+The Mutual Security Act of 1954, referred to in text, is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§ 2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§ 101 to 103, ch. II, §§ 201 to 205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, § 2, ch. 1, § 101, ch. II, §§ 201 to 205(a) to (i), (k) to (n), ch. III, § 301, ch. IV, § 401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§ 1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, § 8(m), 70 Stat. 559, Pub. L. 85–141, §§ 2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§ 205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§ 203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, § 212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, § 228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
 
 **Codification**
 
@@ -2057,8 +2057,8 @@ For delegation of certain functions of President under this section, see Memoran
 
 ## SUBCHAPTER IV—CONTINGENCY FUND
 
-### § 1951. Repealed
+### § 1951. Repealed
 
-Subsecs. (a) and (b), acts Aug. 26, 1954, ch. 937, ch. III, § 451(a), (b), 68 Stat. 843; July 8, 1955, ch. 301, § 8(a), 69 Stat. 286; July 18, 1956, ch. 627, § 8(a), 70 Stat. 557; Aug. 14, 1957, Pub. L. 85–141, § 8(b), 71 Stat. 360; June 30, 1958, Pub. L. 85–477, ch. III, § 301, ch. V, § 501(12)(B), 72 Stat. 268, 271; July 24, 1959, Pub. L. 86–108, ch. III, § 301, 73 Stat. 252; May 14, 1960, Pub. L. 86–472, ch. III, § 301, 74 Stat. 138, which related to the creation of the President’s special authority and contingency fund authorized appropriations, were repealed by Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460. See section 2261 of this title.
+Subsecs. (a) and (b), acts Aug. 26, 1954, ch. 937, ch. III, § 451(a), (b), 68 Stat. 843; July 8, 1955, ch. 301, § 8(a), 69 Stat. 286; July 18, 1956, ch. 627, § 8(a), 70 Stat. 557; Aug. 14, 1957, Pub. L. 85–141, § 8(b), 71 Stat. 360; June 30, 1958, Pub. L. 85–477, ch. III, § 301, ch. V, § 501(12)(B), 72 Stat. 268, 271; July 24, 1959, Pub. L. 86–108, ch. III, § 301, 73 Stat. 252; May 14, 1960, Pub. L. 86–472, ch. III, § 301, 74 Stat. 138, which related to the creation of the President’s special authority and contingency fund authorized appropriations, were repealed by Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460. See section 2261 of this title.
 
-Subsec. (c), acts Aug. 26, 1954, ch. 937, ch. III, § 451(c), 68 Stat. 843; July 8, 1955, ch. 301, § 8(a), 69 Stat. 286; July 18, 1956, ch. 627, § 8(a), 70 Stat. 557; Aug. 14, 1957, Pub. L. 85–141, § 8(b), 71 Stat. 360; June 30, 1958, Pub. L. 85–477, ch. III, § 301, ch. V, § 501(12)(B), 72 Stat. 268, 271; July 24, 1959, Pub. L. 86–108, ch. III, § 301, 73 Stat. 252; May 14, 1960, Pub. L. 86–472, ch. III, § 301, 74 Stat. 138, related to declaration of purpose and use of funds in connection with right of self-determination for people subject to captivity of Communist despotism, and was repealed by Pub. L. 87–510, § 6, June 28, 1962, 76 Stat. 124.
+Subsec. (c), acts Aug. 26, 1954, ch. 937, ch. III, § 451(c), 68 Stat. 843; July 8, 1955, ch. 301, § 8(a), 69 Stat. 286; July 18, 1956, ch. 627, § 8(a), 70 Stat. 557; Aug. 14, 1957, Pub. L. 85–141, § 8(b), 71 Stat. 360; June 30, 1958, Pub. L. 85–477, ch. III, § 301, ch. V, § 501(12)(B), 72 Stat. 268, 271; July 24, 1959, Pub. L. 86–108, ch. III, § 301, 73 Stat. 252; May 14, 1960, Pub. L. 86–472, ch. III, § 301, 74 Stat. 138, related to declaration of purpose and use of funds in connection with right of self-determination for people subject to captivity of Communist despotism, and was repealed by Pub. L. 87–510, § 6, June 28, 1962, 76 Stat. 124.

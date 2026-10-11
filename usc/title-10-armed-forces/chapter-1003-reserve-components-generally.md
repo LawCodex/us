@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2016—Pub. L. 114–328, div. A, title III, § 321(a)(2), Dec. 23, 2016, 130 Stat. 2075, added item 10102a.
+2016—Pub. L. 114–328, div. A, title III, § 321(a)(2), Dec. 23, 2016, 130 Stat. 2075, added item 10102a.
 
-2006—Pub. L. 109–163, div. A, title V, § 515(b)(4)(E), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for “Naval Reserve” in item 10108.
+2006—Pub. L. 109–163, div. A, title V, § 515(b)(4)(E), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for “Naval Reserve” in item 10108.
 
-1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(2)(B), Feb. 10, 1996, 110 Stat. 495, substituted “into Federal service” for “of National Guard into Federal service” in item 10103.
+1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(2)(B), Feb. 10, 1996, 110 Stat. 495, substituted “into Federal service” for “of National Guard into Federal service” in item 10103.
 
-## § 10101. Reserve components named
+## § 10101. Reserve components named
 
 The reserve components of the armed forces are:
 
@@ -43,13 +43,13 @@ The reserve components of the armed forces are:
 
 **(7)** The Coast Guard Reserve.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2970; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(Z), Jan. 6, 2006, 119 Stat. 3233.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2970; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(Z), Jan. 6, 2006, 119 Stat. 3233.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 261(a) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in section 261(a) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 **Amendments**
 
@@ -59,11 +59,11 @@ Provisions similar to those in this section were contained in section 261(a) of 
 
 **Change of Name**
 
-Pub. L. 109–163, div. A, title V, § 515(a)(1), Jan. 6, 2006, 119 Stat. 3233, provided that: “The reserve component of the Armed Forces known as the Naval Reserve is redesignated as the Navy Reserve.”
+Pub. L. 109–163, div. A, title V, § 515(a)(1), Jan. 6, 2006, 119 Stat. 3233, provided that: “The reserve component of the Armed Forces known as the Naval Reserve is redesignated as the Navy Reserve.”
 
-Pub. L. 109–163, div. A, title V, § 515(h), Jan. 6, 2006, 119 Stat. 3237, as amended by Pub. L. 111–383, div. A, title X, § 1075(h)(1), Jan. 7, 2011, 124 Stat. 4377, provided that: “Any reference in any law, regulation, document, record, or other paper of the United States to the Naval Reserve, other than a reference to the Naval Reserve regarding the United States Naval Reserve Retired List, shall be considered to be a reference to the Navy Reserve.”
+Pub. L. 109–163, div. A, title V, § 515(h), Jan. 6, 2006, 119 Stat. 3237, as amended by Pub. L. 111–383, div. A, title X, § 1075(h)(1), Jan. 7, 2011, 124 Stat. 4377, provided that: “Any reference in any law, regulation, document, record, or other paper of the United States to the Naval Reserve, other than a reference to the Naval Reserve regarding the United States Naval Reserve Retired List, shall be considered to be a reference to the Navy Reserve.”
 
-Pub. L. 108–375, div. A, title V, § 517, Oct. 28, 2004, 118 Stat. 1884, which authorized the Secretary of the Navy, with the President’s approval, to redesignate the Naval Reserve as the “Navy Reserve”, was repealed by Pub. L. 109–163, div. A, title V, § 515(a)(2), Jan. 6, 2006, 119 Stat. 3233.
+Pub. L. 108–375, div. A, title V, § 517, Oct. 28, 2004, 118 Stat. 1884, which authorized the Secretary of the Navy, with the President’s approval, to redesignate the Naval Reserve as the “Navy Reserve”, was repealed by Pub. L. 109–163, div. A, title V, § 515(a)(2), Jan. 6, 2006, 119 Stat. 3233.
 
 **Effective Date**
 
@@ -75,7 +75,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Pilot Program on the Use of Robotic Targets To Enhance the Lethality of the Reserve Components of the Army**
 
-Pub. L. 118–159, div. A, title I, § 112, Dec. 23, 2024, 138 Stat. 1802, provided that:
+Pub. L. 118–159, div. A, title I, § 112, Dec. 23, 2024, 138 Stat. 1802, provided that:
 
 > **“(a) Establishment.—** The Secretary of the Army shall carry out a pilot program under which the Secretary incorporates the use of moving robotic target systems into live fire training provided to select infantry units of the reserve and National Guard components of the Army.
 
@@ -129,7 +129,7 @@ Pub. L. 118–159, div. A, title I, § 112, Dec. 23, 2024, 138 Stat. 1802, pro
 
 **Notice to Congress Before Certain Actions Regarding Units of Certain Reserve Components**
 
-Pub. L. 117–263, div. A, title V, § 518, Dec. 23, 2022, 136 Stat. 2567, provided that:
+Pub. L. 117–263, div. A, title V, § 518, Dec. 23, 2022, 136 Stat. 2567, provided that:
 
 > **“(a) Notice Required; Elements.—** The Secretary of a military department may not take any covered action regarding a covered unit until the day that is 60 days after the Secretary of a military department submits to Congress notice of such covered action. Such notice shall include the following elements:
 
@@ -173,7 +173,7 @@ Pub. L. 117–263, div. A, title V, § 518, Dec. 23, 2022, 136 Stat. 2567, pro
 
 **Direct Employment Pilot Program for Certain Members of the Reserve Components**
 
-Pub. L. 116–283, div. A, title V, § 518, Jan. 1, 2021, 134 Stat. 3590, provided that:
+Pub. L. 116–283, div. A, title V, § 518, Jan. 1, 2021, 134 Stat. 3590, provided that:
 
 > **“(a) In General.—** The Secretary of Defense may carry out a pilot program to enhance the efforts of the Department of Defense to provide job placement assistance and related employment services directly to members of the National Guard and Reserves in reserve active-status.
 
@@ -223,7 +223,7 @@ Pub. L. 116–283, div. A, title V, § 518, Jan. 1, 2021, 134 Stat. 3590, prov
 
 **Pilot Program on Enhancements of Department of Defense Efforts on Mental Health in the National Guard and Reserves Through Community Partnerships**
 
-Pub. L. 112–239, div. A, title VII, § 706, Jan. 2, 2013, 126 Stat. 1800, as amended by Pub. L. 113–66, div. A, title V, § 511(b), Dec. 26, 2013, 127 Stat. 751, provided that:
+Pub. L. 112–239, div. A, title VII, § 706, Jan. 2, 2013, 126 Stat. 1800, as amended by Pub. L. 113–66, div. A, title V, § 511(b), Dec. 26, 2013, 127 Stat. 751, provided that:
 
 > **“(a) Program Authority.—** The Secretary of Defense may carry out a pilot program to enhance the efforts of the Department of Defense in research, treatment, education, and outreach on mental health, substance use disorders, traumatic brain injury, and suicide prevention in members of the National Guard and Reserves, their family members, and their caregivers through community partners.
 
@@ -243,7 +243,7 @@ Pub. L. 112–239, div. A, title VII, § 706, Jan. 2, 2013, 126 Stat. 1800, as
 
 **Behavioral Health Support**
 
-Pub. L. 112–81, div. A, title VII, § 703(b), Dec. 31, 2011, 125 Stat. 1471, provided that:
+Pub. L. 112–81, div. A, title VII, § 703(b), Dec. 31, 2011, 125 Stat. 1471, provided that:
 
 > **“(1) In general.—** Each member of a reserve component of the Armed Forces participating in annual training or individual duty training shall have access, while so participating, to the behavioral health support programs for members of the reserve components described in paragraph (2).
 
@@ -263,7 +263,7 @@ Pub. L. 112–81, div. A, title VII, § 703(b), Dec. 31, 2011, 125 Stat. 1471,
 
 **Limitation on Scheduling of Mobilization or Pre-Mobilization Training for Reserve Units When Certain Suspension of Training is Likely**
 
-Pub. L. 111–84, div. A, title V, § 514, Oct. 28, 2009, 123 Stat. 2282, provided that:
+Pub. L. 111–84, div. A, title V, § 514, Oct. 28, 2009, 123 Stat. 2282, provided that:
 
 > **“(a) Limitation.—**
 
@@ -279,9 +279,9 @@ Pub. L. 111–84, div. A, title V, § 514, Oct. 28, 2009, 123 Stat. 2282, prov
 
 **Yellow Ribbon Reintegration Program**
 
-Pub. L. 111–84, div. A, title V, § 597(b), Oct. 28, 2009, 123 Stat. 2344, which related to annual reports on the Yellow Ribbon Reintegration Program, was repealed by Pub. L. 114–92, div. A, title X, § 1072(d)(2), Nov. 25, 2015, 129 Stat. 995.
+Pub. L. 111–84, div. A, title V, § 597(b), Oct. 28, 2009, 123 Stat. 2344, which related to annual reports on the Yellow Ribbon Reintegration Program, was repealed by Pub. L. 114–92, div. A, title X, § 1072(d)(2), Nov. 25, 2015, 129 Stat. 995.
 
-Pub. L. 110–181, div. A, title V, § 582, Jan. 28, 2008, 122 Stat. 122, as amended by Pub. L. 111–84, div. A, title V, § 595, Oct. 28, 2009, 123 Stat. 2338; Pub. L. 111–383, div. A, title V, § 583, Jan. 7, 2011, 124 Stat. 4228; Pub. L. 112–81, div. A, title V, § 590, Dec. 31, 2011, 125 Stat. 1438; Pub. L. 112–239, div. A, title V, § 581(b), Jan. 2, 2013, 126 Stat. 1766; Pub. L. 114–92, div. A, title V, § 551, title X, § 1072(d)(1), Nov. 25, 2015, 129 Stat. 820, 995; Pub. L. 119–60, div. A, title V, § 588, Dec. 18, 2025, 139 Stat. 893, provided that:
+Pub. L. 110–181, div. A, title V, § 582, Jan. 28, 2008, 122 Stat. 122, as amended by Pub. L. 111–84, div. A, title V, § 595, Oct. 28, 2009, 123 Stat. 2338; Pub. L. 111–383, div. A, title V, § 583, Jan. 7, 2011, 124 Stat. 4228; Pub. L. 112–81, div. A, title V, § 590, Dec. 31, 2011, 125 Stat. 1438; Pub. L. 112–239, div. A, title V, § 581(b), Jan. 2, 2013, 126 Stat. 1766; Pub. L. 114–92, div. A, title V, § 551, title X, § 1072(d)(1), Nov. 25, 2015, 129 Stat. 820, 995; Pub. L. 119–60, div. A, title V, § 588, Dec. 18, 2025, 139 Stat. 893, provided that:
 
 > **“(a) Establishment of Program.—** The Secretary of Defense shall establish a national reintegration program to provide eligible individuals with sufficient information, services, referral, and proactive outreach opportunities. This program shall be known as the Yellow Ribbon Reintegration Program.
 
@@ -431,11 +431,11 @@ Pub. L. 110–181, div. A, title V, § 582, Jan. 28, 2008, 122 Stat. 122, as a
 
 **Pilot Program on Enhanced Quality of Life for Members of the Army Reserve and Their Families**
 
-Pub. L. 109–163, div. A, title V, § 520, Jan. 6, 2006, 119 Stat. 3238, directed the Secretary of the Army to carry out a pilot program in two States to assess the feasibility and advisability of using a coalition of military and civilian community personnel to enhance the quality of life for members of the Army Reserve and their families and, not later than Apr. 1, 2007, submit to the appropriate Senate and House committees a report on the pilot program with appropriate assessments and recommendations.
+Pub. L. 109–163, div. A, title V, § 520, Jan. 6, 2006, 119 Stat. 3238, directed the Secretary of the Army to carry out a pilot program in two States to assess the feasibility and advisability of using a coalition of military and civilian community personnel to enhance the quality of life for members of the Army Reserve and their families and, not later than Apr. 1, 2007, submit to the appropriate Senate and House committees a report on the pilot program with appropriate assessments and recommendations.
 
 **Annual Review**
 
-Pub. L. 108–375, div. A, title V, § 513(h), Oct. 28, 2004, 118 Stat. 1882, as amended by Pub. L. 114–92, div. A, title X, § 1079(g), Nov. 25, 2015, 129 Stat. 999, provided that:
+Pub. L. 108–375, div. A, title V, § 513(h), Oct. 28, 2004, 118 Stat. 1882, as amended by Pub. L. 114–92, div. A, title X, § 1079(g), Nov. 25, 2015, 129 Stat. 999, provided that:
 
 > **“(1)** The Secretary of Defense shall annually review the reserve components of the Armed Forces with regard to—
 
@@ -447,77 +447,77 @@ Pub. L. 108–375, div. A, title V, § 513(h), Oct. 28, 2004, 118 Stat. 1882, 
 
 **Pay of Administration, Training, and Supply Maintenance Technicians for Army Reserve Contingent Upon Reserve Status**
 
-Pub. L. 104–61, title VIII, § 8016, Dec. 1, 1995, 109 Stat. 654, provided that none of the funds appropriated for Department of Defense during and after fiscal year 1996 were to be obligated for pay of any individual who was initially employed after Dec. 1, 1995, as technician in administration and training of Army Reserve and maintenance and repair of supplies issued to Army Reserve unless such individual was also military member of Army Reserve troop program unit that he or she was employed to support, prior to repeal by Pub. L. 105–85, div. A, title V, § 522(e), Nov. 18, 1997, 111 Stat. 1735.
+Pub. L. 104–61, title VIII, § 8016, Dec. 1, 1995, 109 Stat. 654, provided that none of the funds appropriated for Department of Defense during and after fiscal year 1996 were to be obligated for pay of any individual who was initially employed after Dec. 1, 1995, as technician in administration and training of Army Reserve and maintenance and repair of supplies issued to Army Reserve unless such individual was also military member of Army Reserve troop program unit that he or she was employed to support, prior to repeal by Pub. L. 105–85, div. A, title V, § 522(e), Nov. 18, 1997, 111 Stat. 1735.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 103–335, title VIII, § 8015, Sept. 30, 1994, 108 Stat. 2620.
+Pub. L. 103–335, title VIII, § 8015, Sept. 30, 1994, 108 Stat. 2620.
 
-Pub. L. 103–139, title VIII, § 8016, Nov. 11, 1993, 107 Stat. 1440.
+Pub. L. 103–139, title VIII, § 8016, Nov. 11, 1993, 107 Stat. 1440.
 
-Pub. L. 102–396, title IX, § 9019, Oct. 6, 1992, 106 Stat. 1904.
+Pub. L. 102–396, title IX, § 9019, Oct. 6, 1992, 106 Stat. 1904.
 
-Pub. L. 102–172, title VIII, § 8018, Nov. 26, 1991, 105 Stat. 1175.
+Pub. L. 102–172, title VIII, § 8018, Nov. 26, 1991, 105 Stat. 1175.
 
-Pub. L. 101–511, title VIII, § 8018, Nov. 5, 1990, 104 Stat. 1878.
+Pub. L. 101–511, title VIII, § 8018, Nov. 5, 1990, 104 Stat. 1878.
 
-Pub. L. 101–165, title IX, § 9027, Nov. 21, 1989, 103 Stat. 1135.
+Pub. L. 101–165, title IX, § 9027, Nov. 21, 1989, 103 Stat. 1135.
 
-Pub. L. 100–463, title VIII, § 8045, Oct. 1, 1988, 102 Stat. 2270–25.
+Pub. L. 100–463, title VIII, § 8045, Oct. 1, 1988, 102 Stat. 2270–25.
 
-Pub. L. 100–202, § 101(b) [title VIII, § 8055], Dec. 22, 1987, 101 Stat. 1329–43, 1329–72.
+Pub. L. 100–202, § 101(b) [title VIII, § 8055], Dec. 22, 1987, 101 Stat. 1329–43, 1329–72.
 
-Pub. L. 99–500, § 101(c) [title IX, § 9054], Oct. 18, 1986, 100 Stat. 1783–82, 1783–111, and Pub. L. 99–591, § 101(c) [title IX, § 9054], Oct. 30, 1986, 100 Stat. 3341–82, 3341–111.
+Pub. L. 99–500, § 101(c) [title IX, § 9054], Oct. 18, 1986, 100 Stat. 1783–82, 1783–111, and Pub. L. 99–591, § 101(c) [title IX, § 9054], Oct. 30, 1986, 100 Stat. 3341–82, 3341–111.
 
-Pub. L. 99–190, § 101(b) [title VIII, § 8059], Dec. 19, 1985, 99 Stat. 1185, 1212.
+Pub. L. 99–190, § 101(b) [title VIII, § 8059], Dec. 19, 1985, 99 Stat. 1185, 1212.
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, § 8076], Oct. 12, 1984, 98 Stat. 1904, 1938.
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8076], Oct. 12, 1984, 98 Stat. 1904, 1938.
 
-Pub. L. 98–212, title VII, § 783, Dec. 8, 1983, 97 Stat. 1453.
+Pub. L. 98–212, title VII, § 783, Dec. 8, 1983, 97 Stat. 1453.
 
 **Retention in Active Status of National Guard or Reserve Technicians Until Age Sixty**
 
-Pub. L. 104–61, title VIII, § 8017, Dec. 1, 1995, 109 Stat. 655, provided that: “Notwithstanding any other provision of law, during the current fiscal year and hereafter, the Secretaries of the Army and Air Force may authorize the retention in an active status until age sixty of any person who would otherwise be removed from an active status and who is employed as a National Guard or Reserve technician in a position in which active status in a reserve component of the Army or Air Force is required as a condition of that employment.”
+Pub. L. 104–61, title VIII, § 8017, Dec. 1, 1995, 109 Stat. 655, provided that: “Notwithstanding any other provision of law, during the current fiscal year and hereafter, the Secretaries of the Army and Air Force may authorize the retention in an active status until age sixty of any person who would otherwise be removed from an active status and who is employed as a National Guard or Reserve technician in a position in which active status in a reserve component of the Army or Air Force is required as a condition of that employment.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 103–335, title VIII, § 8016, Sept. 30, 1994, 108 Stat. 2620.
+Pub. L. 103–335, title VIII, § 8016, Sept. 30, 1994, 108 Stat. 2620.
 
-Pub. L. 103–139, title VIII, § 8018, Nov. 11, 1993, 107 Stat. 1441.
+Pub. L. 103–139, title VIII, § 8018, Nov. 11, 1993, 107 Stat. 1441.
 
-Pub. L. 102–396, title IX, § 9022, Oct. 6, 1992, 106 Stat. 1905.
+Pub. L. 102–396, title IX, § 9022, Oct. 6, 1992, 106 Stat. 1905.
 
-Pub. L. 102–172, title VIII, § 8022, Nov. 26, 1991, 105 Stat. 1176.
+Pub. L. 102–172, title VIII, § 8022, Nov. 26, 1991, 105 Stat. 1176.
 
-Pub. L. 101–511, title VIII, § 8022, Nov. 5, 1990, 104 Stat. 1879.
+Pub. L. 101–511, title VIII, § 8022, Nov. 5, 1990, 104 Stat. 1879.
 
-Pub. L. 101–165, title IX, § 9032, Nov. 21, 1989, 103 Stat. 1136.
+Pub. L. 101–165, title IX, § 9032, Nov. 21, 1989, 103 Stat. 1136.
 
-Pub. L. 100–463, title VIII, § 8052, Oct. 1, 1988, 102 Stat. 2270–26.
+Pub. L. 100–463, title VIII, § 8052, Oct. 1, 1988, 102 Stat. 2270–26.
 
-Pub. L. 100–202, § 101(b) [title VIII, § 8064], Dec. 22, 1987, 101 Stat. 1329–43, 1329–73.
+Pub. L. 100–202, § 101(b) [title VIII, § 8064], Dec. 22, 1987, 101 Stat. 1329–43, 1329–73.
 
-Pub. L. 99–500, § 101(c) [title IX, § 9063], Oct. 18, 1986, 100 Stat. 1783–82, 1783–112, and Pub. L. 99–591, § 101(c) [title IX, § 9063], Oct. 30, 1986, 100 Stat. 3341–82, 3341–112.
+Pub. L. 99–500, § 101(c) [title IX, § 9063], Oct. 18, 1986, 100 Stat. 1783–82, 1783–112, and Pub. L. 99–591, § 101(c) [title IX, § 9063], Oct. 30, 1986, 100 Stat. 3341–82, 3341–112.
 
-Pub. L. 99–190, § 101(b) [title VIII, § 8073], Dec. 19, 1985, 99 Stat. 1185, 1214.
+Pub. L. 99–190, § 101(b) [title VIII, § 8073], Dec. 19, 1985, 99 Stat. 1185, 1214.
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, § 8106], Oct. 12, 1984, 98 Stat. 1904, 1943.
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8106], Oct. 12, 1984, 98 Stat. 1904, 1943.
 
-## § 10102. Purpose of reserve components
+## § 10102. Purpose of reserve components
 
 The purpose of each reserve component is to provide trained units and qualified persons available for active duty in the armed forces, in time of war or national emergency, and at such other times as the national security may require, to fill the needs of the armed forces whenever more units and persons are needed than are in the regular components.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2970; amended Pub. L. 108–375, div. A, title V, § 511, Oct. 28, 2004, 118 Stat. 1877.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2970; amended Pub. L. 108–375, div. A, title V, § 511, Oct. 28, 2004, 118 Stat. 1877.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 262 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in section 262 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 **Amendments**
 
-2004—Pub. L. 108–375 struck out “, during and after the period needed to procure and train additional units and qualified persons to achieve the planned mobilization,” after “whenever”.
+2004—Pub. L. 108–375 struck out “, during and after the period needed to procure and train additional units and qualified persons to achieve the planned mobilization,” after “whenever”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -525,7 +525,7 @@ Provisions similar to those in this section were contained in section 262 of thi
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10102a. Deployment prioritization and readiness of Army components
+## § 10102a. Deployment prioritization and readiness of Army components
 
 **(a) Deployment Prioritization.—** The Secretary of the Army shall maintain a system for identifying the priority of deployment for units of all components of the Army.
 
@@ -547,19 +547,19 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(D)** assesses the effect of missing components and sets on the readiness of major equipment items.
 
-(Added Pub. L. 114–328, div. A, title III, § 321(a)(1), Dec. 23, 2016, 130 Stat. 2074.)
+(Added Pub. L. 114–328, div. A, title III, § 321(a)(1), Dec. 23, 2016, 130 Stat. 2074.)
 
-## § 10103. Basic policy for order into Federal service
+## § 10103. Basic policy for order into Federal service
 
 Whenever Congress determines that more units and organizations are needed for the national security than are in the regular components of the ground and air forces, the Army National Guard of the United States and the Air National Guard of the United States, or such parts of them as are needed, together with units of other reserve components necessary for a balanced force, shall be ordered to active duty and retained as long as so needed.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2970; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(2)(A), Feb. 10, 1996, 110 Stat. 495.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2970; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(2)(A), Feb. 10, 1996, 110 Stat. 495.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 263 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in section 263 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 **Amendments**
 
@@ -579,17 +579,17 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 For additional provisions authorizing ordering of Ready Reserve to active duty during national emergencies, see section 12303 of this title and notes thereunder.
 
-## § 10104. Army Reserve: composition
+## § 10104. Army Reserve: composition
 
 The Army Reserve includes all Reserves of the Army who are not members of the Army National Guard of the United States.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2970.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2970.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 3076 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in section 3076 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -597,7 +597,7 @@ Provisions similar to those in this section were contained in section 3076 of th
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10105. Army National Guard of the United States: composition
+## § 10105. Army National Guard of the United States: composition
 
 The Army National Guard of the United States is the reserve component of the Army that consists of—
 
@@ -605,13 +605,13 @@ The Army National Guard of the United States is the reserve component of the Arm
 
 **(2)** members of the Army National Guard who are also Reserves of the Army.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2970.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2970.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 3077 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in section 3077 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -621,7 +621,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **Active Component Support for Reserve Training**
 
-Pub. L. 103–160, div. A, title V, § 515, Nov. 30, 1993, 107 Stat. 1650, provided that:
+Pub. L. 103–160, div. A, title V, § 515, Nov. 30, 1993, 107 Stat. 1650, provided that:
 
 > **“(a) Requirement To Establish.—** The Secretary of the Army shall, not later than September 30, 1995, establish one or more active-component units of the Army with the primary mission of providing training support to reserve units. Each such unit shall be part of the active Army force structure and shall have a commander who is on the active-duty list of the Army.
 
@@ -629,11 +629,11 @@ Pub. L. 103–160, div. A, title V, § 515, Nov. 30, 1993, 107 Stat. 1650, pro
 
 **Test Program for Reserve Combat Maneuver Unit Integration**
 
-Pub. L. 103–160, div. A, title V, § 516, Nov. 30, 1993, 107 Stat. 1650, directed Secretary of the Army to prepare a plan for carrying out a test program to determine feasibility and advisability of applying the roundout and roundup models for integration of active and reserve component Army units at the battalion and company levels and submit to Congress not later than Mar. 31, 1994, a report that includes the plan for the test program.
+Pub. L. 103–160, div. A, title V, § 516, Nov. 30, 1993, 107 Stat. 1650, directed Secretary of the Army to prepare a plan for carrying out a test program to determine feasibility and advisability of applying the roundout and roundup models for integration of active and reserve component Army units at the battalion and company levels and submit to Congress not later than Mar. 31, 1994, a report that includes the plan for the test program.
 
 **Army National Guard Combat Readiness Reform**
 
-Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended by Pub. L. 103–35, title II, § 202(a)(11), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title V, § 520, Nov. 30, 1993, 107 Stat. 1651; Pub. L. 103–337, div. A, title V, § 516, Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title V, §§ 514, 515, title VII, § 704(b), Feb. 10, 1996, 110 Stat. 307, 308, 372; Pub. L. 114–328, div. A, title III, § 321(b), Dec. 23, 2016, 130 Stat. 2075; Pub. L. 116–92, div. A, title V, § 520, Dec. 20, 2019, 133 Stat. 1351, provided that:
+Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended by Pub. L. 103–35, title II, § 202(a)(11), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title V, § 520, Nov. 30, 1993, 107 Stat. 1651; Pub. L. 103–337, div. A, title V, § 516, Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title V, §§ 514, 515, title VII, § 704(b), Feb. 10, 1996, 110 Stat. 307, 308, 372; Pub. L. 114–328, div. A, title III, § 321(b), Dec. 23, 2016, 130 Stat. 2075; Pub. L. 116–92, div. A, title V, § 520, Dec. 20, 2019, 133 Stat. 1351, provided that:
 
 > **“SEC. 1101. SHORT TITLE.**
 
@@ -661,7 +661,7 @@ Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended b
 
 > **“[SEC. 1113.**
 
-> Repealed. Pub. L. 116–92, div. A, title V, § 520, Dec. 20, 2019, 133 Stat. 1351.]
+> Repealed. Pub. L. 116–92, div. A, title V, § 520, Dec. 20, 2019, 133 Stat. 1351.]
 
 > **“SEC. 1114. NONCOMMISSIONED OFFICER EDUCATION REQUIREMENTS.**
 
@@ -685,7 +685,7 @@ Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended b
 
 > “The Secretary of the Army shall transfer the personnel classification of a member of the Army Selected Reserve from the Selected Reserve unit of the member to the personnel account established pursuant to section 1115 if the member does not meet minimum physical profile standards required for deployment. Any such transfer shall be made not later than 90 days after the date on which the determination that the member does not meet such standards is made.
 
-> “[SECS. 1117, 1118. Repealed. Pub. L. 104–106, div. A, title VII, § 704(b), Feb. 10, 1996, 110 Stat. 372.]
+> “[SECS. 1117, 1118. Repealed. Pub. L. 104–106, div. A, title VII, § 704(b), Feb. 10, 1996, 110 Stat. 372.]
 
 > **“SEC. 1119. COMBAT UNIT TRAINING.**
 
@@ -709,7 +709,7 @@ Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended b
 
 > **“[SEC. 1121.**
 
-> Repealed. Pub. L. 114–328, div. A, title III, § 321(b), Dec. 23, 2016, 130 Stat. 2075.]
+> Repealed. Pub. L. 114–328, div. A, title III, § 321(b), Dec. 23, 2016, 130 Stat. 2075.]
 
 > **“SEC. 1122. INSPECTIONS.**
 
@@ -753,7 +753,7 @@ Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended b
 
 > **“[SEC. 1135.**
 
-> Repealed. Pub. L. 114–328, div. A, title III, § 321(b), Dec. 23, 2016, 130 Stat. 2075.]
+> Repealed. Pub. L. 114–328, div. A, title III, § 321(b), Dec. 23, 2016, 130 Stat. 2075.]
 
 > **“SEC. 1136. QUALIFICATION FOR PRIOR-SERVICE ENLISTMENT BONUS.**
 
@@ -763,17 +763,17 @@ Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended b
 
 > “The Secretary of Defense shall conduct an assessment of the feasibility of implementing the provisions of this title for all reserve components. Not later than December 31, 1993, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing a plan for such implementation.”
 
-## § 10106. Army National Guard: when a component of the Army
+## § 10106. Army National Guard: when a component of the Army
 
 The Army National Guard while in the service of the United States is a component of the Army.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2970.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2970.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 3078 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in section 3078 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -781,17 +781,17 @@ Provisions similar to those in this section were contained in section 3078 of th
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10107. Army National Guard of the United States: status when not in Federal service
+## § 10107. Army National Guard of the United States: status when not in Federal service
 
 When not on active duty, members of the Army National Guard of the United States shall be administered, armed, equipped, and trained in their status as members of the Army National Guard.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 3079 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in section 3079 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -799,25 +799,25 @@ Provisions similar to those in this section were contained in section 3079 of th
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10108. Navy Reserve: administration
+## § 10108. Navy Reserve: administration
 
 **(a)** The Navy Reserve is the reserve component of the Navy. It shall be organized, administered, trained, and supplied under the direction of the Chief of Naval Operations.
 
 **(b)** The bureaus and offices of the executive part of the Department of the Navy have the same relation and responsibility to the Navy Reserve as they do to the Regular Navy.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(AA), (3)(F), Jan. 6, 2006, 119 Stat. 3233, 3234.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(AA), (3)(F), Jan. 6, 2006, 119 Stat. 3233, 3234.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 5251(a), (b) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in section 5251(a), (b) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 **Amendments**
 
-2006—Pub. L. 109–163, § 515(b)(3)(F), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+2006—Pub. L. 109–163, § 515(b)(3)(F), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
-Pub. L. 109–163, § 515(b)(1)(AA), substituted “Navy Reserve” for “Naval Reserve” in subsecs. (a) and (b).
+Pub. L. 109–163, § 515(b)(1)(AA), substituted “Navy Reserve” for “Naval Reserve” in subsecs. (a) and (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -825,19 +825,19 @@ Pub. L. 109–163, § 515(b)(1)(AA), substituted “Navy Reserve” for “Nav
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10109. Marine Corps Reserve: administration
+## § 10109. Marine Corps Reserve: administration
 
 **(a)** The Marine Corps Reserve is the reserve component of the Marine Corps. It shall be organized, administered, trained, and supplied under the direction of the Commandant of the Marine Corps.
 
 **(b)** The departments and offices of Headquarters, Marine Corps have the same relation and responsibilities to the Marine Corps Reserve as they do to the Regular Marine Corps.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 5252(a), (b) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in section 5252(a), (b) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -845,17 +845,17 @@ Provisions similar to those in this section were contained in section 5252(a), (
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10110. Air Force Reserve: composition
+## § 10110. Air Force Reserve: composition
 
 The Air Force Reserve is a reserve component of the Air Force to provide a reserve for active duty. It consists of the members of the officers’ section of the Air Force Reserve and of the enlisted section of the Air Force Reserve. It includes all Reserves of the Air Force who are not members of the Air National Guard of the United States.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 8076 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in section 8076 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -863,7 +863,7 @@ Provisions similar to those in this section were contained in section 8076 of th
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10111. Air National Guard of the United States: composition
+## § 10111. Air National Guard of the United States: composition
 
 The Air National Guard of the United States is the reserve component of the Air Force that consists of—
 
@@ -871,13 +871,13 @@ The Air National Guard of the United States is the reserve component of the Air 
 
 **(2)** members of the Air National Guard who are also Reserves of the Air Force.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 8077 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in section 8077 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -885,17 +885,17 @@ Provisions similar to those in this section were contained in section 8077 of th
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10112. Air National Guard: when a component of the Air Force
+## § 10112. Air National Guard: when a component of the Air Force
 
 The Air National Guard while in the service of the United States is a component of the Air Force.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 8078 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in section 8078 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -903,17 +903,17 @@ Provisions similar to those in this section were contained in section 8078 of th
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10113. Air National Guard of the United States: status when not in Federal service
+## § 10113. Air National Guard of the United States: status when not in Federal service
 
 When not on active duty, members of the Air National Guard of the United States shall be administered, armed, equipped, and trained in their status as members of the Air National Guard.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 8079 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in section 8079 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -921,23 +921,23 @@ Provisions similar to those in this section were contained in section 8079 of th
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10114. Coast Guard Reserve
+## § 10114. Coast Guard Reserve
 
-As provided in section 701 1
+As provided in section 701 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of title 14, the Coast Guard Reserve is a component of the Coast Guard and is organized, administered, trained, and supplied under the direction of the Commandant of the Coast Guard. Laws applicable to the Coast Guard Reserve are set forth in chapter 21 1 of title 14 (14 U.S.C. 701 et seq.).
+of title 14, the Coast Guard Reserve is a component of the Coast Guard and is organized, administered, trained, and supplied under the direction of the Commandant of the Coast Guard. Laws applicable to the Coast Guard Reserve are set forth in chapter 21 1 of title 14 (14 U.S.C. 701 et seq.).
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 701 of title 14, referred to in text, was redesignated section 3701 of title 14 by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233, and references to section 701 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 701 of title 14, referred to in text, was redesignated section 3701 of title 14 by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233, and references to section 701 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
-Chapter 21 of title 14, referred to in text, was comprised of sections 701 to 713 and 720 to 746, prior to the renumbering of such sections as sections 3701 to 3714 and 3731 to 3757, respectively, of title 14 by Pub. L. 115–282, title I, § 118(b)(2), Dec. 4, 2018, 132 Stat. 4233. After renumbering, such sections now comprise chapter 37 (designated as chapter “1” in chapter analysis) of title 14.
+Chapter 21 of title 14, referred to in text, was comprised of sections 701 to 713 and 720 to 746, prior to the renumbering of such sections as sections 3701 to 3714 and 3731 to 3757, respectively, of title 14 by Pub. L. 115–282, title I, § 118(b)(2), Dec. 4, 2018, 132 Stat. 4233. After renumbering, such sections now comprise chapter 37 (designated as chapter “1” in chapter analysis) of title 14.
 
 **Statutory Notes and Related Subsidiaries**
 

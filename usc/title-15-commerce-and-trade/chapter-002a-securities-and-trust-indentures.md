@@ -17,25 +17,25 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—DOMESTIC SECURITIES
 
-### § 77a. Short title
+### § 77a. Short title
 
 This subchapter may be cited as the “Securities Act of 1933”.
 
-(May 27, 1933, ch. 38, title I, § 1, 48 Stat. 74.)
+(May 27, 1933, ch. 38, title I, § 1, 48 Stat. 74.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2012 Amendment**
 
-Pub. L. 112–142, § 1, July 9, 2012, 126 Stat. 989, provided that: “This Act [amending section 77c of this title] may be cited as the ‘Church Plan Investment Clarification Act’.”
+Pub. L. 112–142, § 1, July 9, 2012, 126 Stat. 989, provided that: “This Act [amending section 77c of this title] may be cited as the ‘Church Plan Investment Clarification Act’.”
 
-Pub. L. 112–106, title III, § 301, Apr. 5, 2012, 126 Stat. 315, provided that: “This title [enacting section 77d–1 of this title, amending sections 77d, 77r, 78c, 78*l*, and 78*o* of this title, and enacting provisions set out as notes under sections 77d, 77r, 78c, and 78*l* of this title] may be cited as the ‘Capital Raising Online While Deterring Fraud and Unethical Non-Disclosure Act of 2012’ or the ‘CROWDFUND Act’.”
+Pub. L. 112–106, title III, § 301, Apr. 5, 2012, 126 Stat. 315, provided that: “This title [enacting section 77d–1 of this title, amending sections 77d, 77r, 78c, 78*l*, and 78*o* of this title, and enacting provisions set out as notes under sections 77d, 77r, 78c, and 78*l* of this title] may be cited as the ‘Capital Raising Online While Deterring Fraud and Unethical Non-Disclosure Act of 2012’ or the ‘CROWDFUND Act’.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–477, title VI, § 601, Oct. 21, 1980, 94 Stat. 2294, provided that: “This title [amending sections 77b and 77d of this title] may be cited as the ‘Small Business Issuers’ Simplification Act of 1980’.”
+Pub. L. 96–477, title VI, § 601, Oct. 21, 1980, 94 Stat. 2294, provided that: “This title [amending sections 77b and 77d of this title] may be cited as the ‘Small Business Issuers’ Simplification Act of 1980’.”
 
-### § 77b. Definitions; promotion of efficiency, competition, and capital formation
+### § 77b. Definitions; promotion of efficiency, competition, and capital formation
 
 **(a) Definitions** When used in this subchapter, unless the context otherwise requires—
 
@@ -57,9 +57,9 @@ Pub. L. 96–477, title VI, § 601, Oct. 21, 1980, 94 Stat. 2294, provided tha
 
 **(9)** The term “write” or “written” shall include printed, lithographed, or any means of graphic communication.
 
-**(10)** The term “prospectus” means any prospectus, notice, circular, advertisement, letter, or communication, written or by radio or television, which offers any security for sale or confirms the sale of any security; except that (a) a communication sent or given after the effective date of the registration statement (other than a prospectus permitted under subsection (b) of section 77j of this title) shall not be deemed a prospectus if it is proved that prior to or at the same time with such communication a written prospectus meeting the requirements of subsection (a) of section 77j of this title at the time of 1
+**(10)** The term “prospectus” means any prospectus, notice, circular, advertisement, letter, or communication, written or by radio or television, which offers any security for sale or confirms the sale of any security; except that (a) a communication sent or given after the effective date of the registration statement (other than a prospectus permitted under subsection (b) of section 77j of this title) shall not be deemed a prospectus if it is proved that prior to or at the same time with such communication a written prospectus meeting the requirements of subsection (a) of section 77j of this title at the time of 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 such communication was sent or given to the person to whom the communication was made, and (b) a notice, circular, advertisement, letter, or communication in respect of a security shall not be deemed to be a prospectus if it states from whom a written prospectus meeting the requirements of section 77j of this title may be obtained and, in addition, does no more than identify the security, state the price thereof, state by whom orders will be executed, and contain such other information as the Commission, by rules or regulations deemed necessary or appropriate in the public interest and for the protection of investors, and subject to such terms and conditions as may be prescribed therein, may permit.
 
@@ -97,19 +97,19 @@ such communication was sent or given to the person to whom the communication was
 
 Whenever pursuant to this subchapter the Commission is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, the Commission shall also consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
 
-(May 27, 1933, ch. 38, title I, § 2, 48 Stat. 74; June 6, 1934, ch. 404, title II, § 201, 48 Stat. 905; Aug. 10, 1954, ch. 667, title I, §§ 1–4, 68 Stat. 683, 684; Pub. L. 86–70, § 12(a), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, § 7(a), July 12, 1960, 74 Stat. 412; Pub. L. 91–547, § 27(a), Dec. 14, 1970, 84 Stat. 1433; Pub. L. 96–477, title VI, § 603, Oct. 21, 1980, 94 Stat. 2294; Pub. L. 97–303, § 1, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title II, §§ 201, 202, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title I, § 106(a), Oct. 11, 1996, 110 Stat. 3424; Pub. L. 105–353, title III, § 301(a)(1), Nov. 3, 1998, 112 Stat. 3235; Pub. L. 106–554, § 1(a)(5) [title II, § 208(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–434; Pub. L. 111–203, title VII, § 768(a), July 21, 2010, 124 Stat. 1800; Pub. L. 112–106, title I, §§ 101(a), 105(a), Apr. 5, 2012, 126 Stat. 307, 310; Pub. L. 119–27, § 17(c), July 18, 2025, 139 Stat. 463.)
+(May 27, 1933, ch. 38, title I, § 2, 48 Stat. 74; June 6, 1934, ch. 404, title II, § 201, 48 Stat. 905; Aug. 10, 1954, ch. 667, title I, §§ 1–4, 68 Stat. 683, 684; Pub. L. 86–70, § 12(a), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, § 7(a), July 12, 1960, 74 Stat. 412; Pub. L. 91–547, § 27(a), Dec. 14, 1970, 84 Stat. 1433; Pub. L. 96–477, title VI, § 603, Oct. 21, 1980, 94 Stat. 2294; Pub. L. 97–303, § 1, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title II, §§ 201, 202, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title I, § 106(a), Oct. 11, 1996, 110 Stat. 3424; Pub. L. 105–353, title III, § 301(a)(1), Nov. 3, 1998, 112 Stat. 3235; Pub. L. 106–554, § 1(a)(5) [title II, § 208(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–434; Pub. L. 111–203, title VII, § 768(a), July 21, 2010, 124 Stat. 1800; Pub. L. 112–106, title I, §§ 101(a), 105(a), Apr. 5, 2012, 126 Stat. 307, 310; Pub. L. 119–27, § 17(c), July 18, 2025, 139 Stat. 463.)
 
 **Amendment of Subsection (a)(1)**
 
-Pub. L. 119–27, §§ 17(c), 20, July 18, 2025, 139 Stat. 463, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, subsection (a)(1) of this section is amended by adding at the end the following: “The term ‘security’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12.” See 2025 Amendment note below.
+Pub. L. 119–27, §§ 17(c), 20, July 18, 2025, 139 Stat. 463, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, subsection (a)(1) of this section is amended by adding at the end the following: “The term ‘security’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12.” See 2025 Amendment note below.
 
 **Editorial Notes**
 
 **References in Text**
 
-The Investment Company Act of 1940, referred to in subsec. (a)(15)(i), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(15)(i), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(15)(i), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(15)(i), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 **Codification**
 
@@ -119,29 +119,29 @@ Words “Philippine Islands” deleted from definition of term “Territory” u
 
 2025—Subsec. (a)(1). Pub. L. 119–27 inserted at end “The term ‘security’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12.”
 
-2012—Subsec. (a)(3). Pub. L. 112–106, § 105(a), inserted at end “The publication or distribution by a broker or dealer of a research report about an emerging growth company that is the subject of a proposed public offering of the common equity securities of such emerging growth company pursuant to a registration statement that the issuer proposes to file, or has filed, or that is effective shall be deemed for purposes of paragraph (10) of this subsection and section 77e(c) of this title not to constitute an offer for sale or offer to sell a security, even if the broker or dealer is participating or will participate in the registered offering of the securities of the issuer. As used in this paragraph, the term ‘research report’ means a written, electronic, or oral communication that includes information, opinions, or recommendations with respect to securities of an issuer or an analysis of a security or an issuer, whether or not it provides information reasonably sufficient upon which to base an investment decision.”
+2012—Subsec. (a)(3). Pub. L. 112–106, § 105(a), inserted at end “The publication or distribution by a broker or dealer of a research report about an emerging growth company that is the subject of a proposed public offering of the common equity securities of such emerging growth company pursuant to a registration statement that the issuer proposes to file, or has filed, or that is effective shall be deemed for purposes of paragraph (10) of this subsection and section 77e(c) of this title not to constitute an offer for sale or offer to sell a security, even if the broker or dealer is participating or will participate in the registered offering of the securities of the issuer. As used in this paragraph, the term ‘research report’ means a written, electronic, or oral communication that includes information, opinions, or recommendations with respect to securities of an issuer or an analysis of a security or an issuer, whether or not it provides information reasonably sufficient upon which to base an investment decision.”
 
-Subsec. (a)(19). Pub. L. 112–106, § 101(a), added par. (19).
+Subsec. (a)(19). Pub. L. 112–106, § 101(a), added par. (19).
 
-2010—Subsec. (a)(1). Pub. L. 111–203, § 768(a)(1), inserted “security-based swap,” after “security future,”.
+2010—Subsec. (a)(1). Pub. L. 111–203, § 768(a)(1), inserted “security-based swap,” after “security future,”.
 
-Subsec. (a)(3). Pub. L. 111–203, § 768(a)(2), inserted at end “Any offer or sale of a security-based swap by or on behalf of the issuer of the securities upon which such security-based swap is based or is referenced, an affiliate of the issuer, or an underwriter, shall constitute a contract for sale of, sale of, offer for sale, or offer to sell such securities.”
+Subsec. (a)(3). Pub. L. 111–203, § 768(a)(2), inserted at end “Any offer or sale of a security-based swap by or on behalf of the issuer of the securities upon which such security-based swap is based or is referenced, an affiliate of the issuer, or an underwriter, shall constitute a contract for sale of, sale of, offer for sale, or offer to sell such securities.”
 
-Subsec. (a)(17), (18). Pub. L. 111–203, § 768(a)(3), added pars. (17) and (18).
+Subsec. (a)(17), (18). Pub. L. 111–203, § 768(a)(3), added pars. (17) and (18).
 
-2000—Subsec. (a)(1). Pub. L. 106–554, § 1(a)(5) [title II, § 208(a)(1)(A)], inserted “security future,” after “treasury stock,”.
+2000—Subsec. (a)(1). Pub. L. 106–554, § 1(a)(5) [title II, § 208(a)(1)(A)], inserted “security future,” after “treasury stock,”.
 
-Subsec. (a)(3). Pub. L. 106–554, § 1(a)(5) [title II, § 208(a)(1)(B)], inserted at end “Any offer or sale of a security futures product by or on behalf of the issuer of the securities underlying the security futures product, an affiliate of the issuer, or an underwriter, shall constitute a contract for sale of, sale of, offer for sale, or offer to sell the underlying securities.”
+Subsec. (a)(3). Pub. L. 106–554, § 1(a)(5) [title II, § 208(a)(1)(B)], inserted at end “Any offer or sale of a security futures product by or on behalf of the issuer of the securities underlying the security futures product, an affiliate of the issuer, or an underwriter, shall constitute a contract for sale of, sale of, offer for sale, or offer to sell the underlying securities.”
 
-Subsec. (a)(16). Pub. L. 106–554, § 1(a)(5) [title II, § 208(a)(1)(C)], added par. (16).
+Subsec. (a)(16). Pub. L. 106–554, § 1(a)(5) [title II, § 208(a)(1)(C)], added par. (16).
 
 1998—Subsec. (a)(15)(i). Pub. L. 105–353 made technical amendment to reference in original act which appears in text as reference to section 77c(a)(2) of this title and inserted “of this subsection” after “paragraph (13)”.
 
 1996—Pub. L. 104–290 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1987—Par. (5). Pub. L. 100–181, § 201, substituted “Securities and Exchange Commission” for “Federal Trade Commission”.
+1987—Par. (5). Pub. L. 100–181, § 201, substituted “Securities and Exchange Commission” for “Federal Trade Commission”.
 
-Par. (6). Pub. L. 100–181, § 202, struck out reference to Canal Zone.
+Par. (6). Pub. L. 100–181, § 202, struck out reference to Canal Zone.
 
 1982—Par. (1). Pub. L. 97–303 inserted “any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency,” after “mineral rights,”.
 
@@ -165,11 +165,11 @@ Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 mo
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–106, title I, § 101(d), Apr. 5, 2012, 126 Stat. 308, provided that: “Notwithstanding section 2(a)(19) of the Securities Act of 1933 [15 U.S.C. 77b(a)(19)] and section 3(a)(80) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(80)], an issuer shall not be an emerging growth company for purposes of such Acts [15 U.S.C. 77a et seq., 78a et seq.] if the first sale of common equity securities of such issuer pursuant to an effective registration statement under the Securities Act of 1933 [15 U.S.C. 77a et seq.] occurred on or before December 8, 2011.”
+Pub. L. 112–106, title I, § 101(d), Apr. 5, 2012, 126 Stat. 308, provided that: “Notwithstanding section 2(a)(19) of the Securities Act of 1933 [15 U.S.C. 77b(a)(19)] and section 3(a)(80) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(80)], an issuer shall not be an emerging growth company for purposes of such Acts [15 U.S.C. 77a et seq., 78a et seq.] if the first sale of common equity securities of such issuer pursuant to an effective registration statement under the Securities Act of 1933 [15 U.S.C. 77a et seq.] occurred on or before December 8, 2011.”
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–203, title VII, § 774, July 21, 2010, 124 Stat. 1802, provided that: “Unless otherwise provided, the provisions of this subtitle [subtitle B (§§ 761–774) of title VII of Pub. L. 111–203, enacting subchapter II (§ 8341 et seq.) of chapter 109 and sections 78c–3 to 78c–5, 78j–2, 78m–1, and 78*o*–10 of this title, amending this section and sections 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78*o*, 78p, 78q–1, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, and amending provisions set out as a note under section 78c of this title] shall take effect on the later of 360 days after the date of the enactment of this subtitle [July 21, 2010] or, to the extent a provision of this subtitle requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of this subtitle.”
+Pub. L. 111–203, title VII, § 774, July 21, 2010, 124 Stat. 1802, provided that: “Unless otherwise provided, the provisions of this subtitle [subtitle B (§§ 761–774) of title VII of Pub. L. 111–203, enacting subchapter II (§ 8341 et seq.) of chapter 109 and sections 78c–3 to 78c–5, 78j–2, 78m–1, and 78*o*–10 of this title, amending this section and sections 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78*o*, 78p, 78q–1, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, and amending provisions set out as a note under section 78c of this title] shall take effect on the later of 360 days after the date of the enactment of this subtitle [July 21, 2010] or, to the extent a provision of this subtitle requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of this subtitle.”
 
 **Effective Date of 1970 Amendment**
 
@@ -177,11 +177,11 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 
 **Effective Date of 1954 Amendment**
 
-Act Aug. 10, 1954, ch. 667, § 501, 68 Stat. 689, provided that: “This Act [amending this section and sections 77c to 77e, 77j, 77*l*, 77q, 77v, 77ccc to 77fff, 77xxx, 78k, 78*l*, 80a–2 and 80a–24 of this title] shall take effect sixty days after the date of its enactment [Aug. 10, 1954].”
+Act Aug. 10, 1954, ch. 667, § 501, 68 Stat. 689, provided that: “This Act [amending this section and sections 77c to 77e, 77j, 77*l*, 77q, 77v, 77ccc to 77fff, 77xxx, 78k, 78*l*, 80a–2 and 80a–24 of this title] shall take effect sixty days after the date of its enactment [Aug. 10, 1954].”
 
 **Adjusting the Accredited Investor Standard**
 
-Pub. L. 111–203, title IV, § 413, July 21, 2010, 124 Stat. 1577, provided that:
+Pub. L. 111–203, title IV, § 413, July 21, 2010, 124 Stat. 1577, provided that:
 
 > **“(a) In General.—** The [Securities and Exchange] Commission shall adjust any net worth standard for an accredited investor, as set forth in the rules of the Commission under the Securities Act of 1933 [15 U.S.C. 77a et seq.], so that the individual net worth of any natural person, or joint net worth with the spouse of that person, at the time of purchase, is more than $1,000,000 (as such amount is adjusted periodically by rule of the Commission), excluding the value of the primary residence of such natural person, except that during the 4-year period that begins on the date of enactment of this Act [July 21, 2010], any net worth standard shall be $1,000,000, excluding the value of the primary residence of such natural person.
 
@@ -203,9 +203,9 @@ Pub. L. 111–203, title IV, § 413, July 21, 2010, 124 Stat. 1577, provided t
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77b–1. Swap agreements
+### § 77b–1. Swap agreements
 
 **(a) [Reserved]**
 
@@ -225,33 +225,33 @@ under this subchapter in a manner that imposes or specifies reporting or recordk
 
 **(4)** References in this subchapter to the “purchase” or “sale” of a security-based swap agreement shall be deemed to mean the execution, termination (prior to its scheduled maturity date), assignment, exchange, or similar transfer or conveyance of, or extinguishing of rights or obligations under, a security-based swap agreement (as defined in section 78c(a)(78) of this title), as the context may require.
 
-(May 27, 1933, ch. 38, title I, § 2A, as added Pub. L. 106–554, § 1(a)(5) [title III, § 302(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–451; amended Pub. L. 111–203, title VII, § 762(c)(1), July 21, 2010, 124 Stat. 1759.)
+(May 27, 1933, ch. 38, title I, § 2A, as added Pub. L. 106–554, § 1(a)(5) [title III, § 302(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–451; amended Pub. L. 111–203, title VII, § 762(c)(1), July 21, 2010, 124 Stat. 1759.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 762(c)(1)(A), struck out subsec. (a) and reserved subsec. (a) designation. Text read as follows: “The definition of ‘security’ in section 77b(a)(1) of this title does not include any non-security-based swap agreement (as defined in section 206C of the Gramm-Leach-Bliley Act).”
+2010—Subsec. (a). Pub. L. 111–203, § 762(c)(1)(A), struck out subsec. (a) and reserved subsec. (a) designation. Text read as follows: “The definition of ‘security’ in section 77b(a)(1) of this title does not include any non-security-based swap agreement (as defined in section 206C of the Gramm-Leach-Bliley Act).”
 
-Subsec. (b). Pub. L. 111–203, § 762(c)(1)(B), substituted “(as defined in section 78c(a)(78) of this title)” for “(as defined in section 206B of the Gramm-Leach-Bliley Act)” wherever appearing.
+Subsec. (b). Pub. L. 111–203, § 762(c)(1)(B), substituted “(as defined in section 78c(a)(78) of this title)” for “(as defined in section 206B of the Gramm-Leach-Bliley Act)” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
-### § 77c. Classes of securities under this subchapter
+### § 77c. Classes of securities under this subchapter
 
 **(a) Exempted securities** Except as hereinafter expressly provided, the provisions of this subchapter shall not apply to any of the following classes of securities:
 
 **(1)** Reserved.
 
-**(2)** Any security issued or guaranteed by the United States or any territory thereof, or by the District of Columbia, or by any State of the United States, or by any political subdivision of a State or territory, or by any public instrumentality of one or more States or territories, or by any person controlled or supervised by and acting as an instrumentality of the Government of the United States pursuant to authority granted by the Congress of the United States; or any certificate of deposit for any of the foregoing; or any security issued or guaranteed by any bank; or any security issued by or representing an interest in or a direct obligation of a Federal Reserve bank; or any interest or participation in any common trust fund or similar fund that is excluded from the definition of the term “investment company” under section 3(c)(3) of the Investment Company Act of 1940 [15 U.S.C. 80a–3(c)(3)]; or any security which is an industrial development bond (as defined in section 103(c)(2) 1
+**(2)** Any security issued or guaranteed by the United States or any territory thereof, or by the District of Columbia, or by any State of the United States, or by any political subdivision of a State or territory, or by any public instrumentality of one or more States or territories, or by any person controlled or supervised by and acting as an instrumentality of the Government of the United States pursuant to authority granted by the Congress of the United States; or any certificate of deposit for any of the foregoing; or any security issued or guaranteed by any bank; or any security issued by or representing an interest in or a direct obligation of a Federal Reserve bank; or any interest or participation in any common trust fund or similar fund that is excluded from the definition of the term “investment company” under section 3(c)(3) of the Investment Company Act of 1940 [15 U.S.C. 80a–3(c)(3)]; or any security which is an industrial development bond (as defined in section 103(c)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of title 26) the interest on which is excludable from gross income under section 103(a)(1) 1 of title 26 if, by reason of the application of paragraph (4) or (6) of section 103(c) 1 of title 26 (determined as if paragraphs (4)(A), (5), and (7) were not included in such section 103(c)),1 paragraph (1) of such section 103(c) 1 does not apply to such security; or any interest or participation in a single trust fund, or in a collective trust fund maintained by a bank, or any security arising out of a contract issued by an insurance company, which interest, participation, or security is issued in connection with (A) a stock bonus, pension, or profit-sharing plan which meets the requirements for qualification under section 401 of title 26, (B) an annuity plan which meets the requirements for the deduction of the employer’s contributions under section 404(a)(2) of title 26, (C) a governmental plan as defined in section 414(d) of title 26 which has been established by an employer for the exclusive benefit of its employees or their beneficiaries for the purpose of distributing to such employees or their beneficiaries the corpus and income of the funds accumulated under such plan, if under such plan it is impossible, prior to the satisfaction of all liabilities with respect to such employees and their beneficiaries, for any part of the corpus or income to be used for, or diverted to, purposes other than the exclusive benefit of such employees or their beneficiaries, or (D) a church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 [15 U.S.C. 80a–3(c)(14)], other than any plan described in subparagraph (A), (B), (C), or (D) of this paragraph (i) the contributions under which are held in a single trust fund or in a separate account maintained by an insurance company for a single employer and under which an amount in excess of the employer’s contribution is allocated to the purchase of securities (other than interests or participations in the trust or separate account itself) issued by the employer or any company directly or indirectly controlling, controlled by, or under common control with the employer, (ii) which covers employees some or all of whom are employees within the meaning of section 401(c)(1) of title 26 (other than a person participating in a church plan who is described in section 414(e)(3)(B) of title 26), or (iii) which is a plan funded by an annuity contract described in section 403(b) of title 26 (other than a retirement income account described in section 403(b)(9) of title 26, to the extent that the interest or participation in such single trust fund or collective trust fund is issued to a church, a convention or association of churches, or an organization described in section 414(e)(3)(A) of title 26 establishing or maintaining the retirement income account or to a trust established by any such entity in connection with the retirement income account). The Commission, by rules and regulations or order, shall exempt from the provisions of section 77e of this title any interest or participation issued in connection with a stock bonus, pension, profit-sharing, or annuity plan which covers employees some or all of whom are employees within the meaning of section 401(c)(1) of title 26, if and to the extent that the Commission determines this to be necessary or appropriate in the public interest and consistent with the protection of investors and the purposes fairly intended by the policy and provisions of this subchapter. For purposes of this paragraph, a security issued or guaranteed by a bank shall not include any interest or participation in any collective trust fund maintained by a bank; and the term “bank” means any national bank, or banking institution organized under the laws of any State, territory, or the District of Columbia, the business of which is substantially confined to banking and is supervised by the State or territorial banking commission or similar official; except that in the case of a common trust fund or similar fund, or a collective trust fund, the term “bank” has the same meaning as in the Investment Company Act of 1940 [15 U.S.C. 80a–1 et seq.];
+of title 26) the interest on which is excludable from gross income under section 103(a)(1) 1 of title 26 if, by reason of the application of paragraph (4) or (6) of section 103(c) 1 of title 26 (determined as if paragraphs (4)(A), (5), and (7) were not included in such section 103(c)),1 paragraph (1) of such section 103(c) 1 does not apply to such security; or any interest or participation in a single trust fund, or in a collective trust fund maintained by a bank, or any security arising out of a contract issued by an insurance company, which interest, participation, or security is issued in connection with (A) a stock bonus, pension, or profit-sharing plan which meets the requirements for qualification under section 401 of title 26, (B) an annuity plan which meets the requirements for the deduction of the employer’s contributions under section 404(a)(2) of title 26, (C) a governmental plan as defined in section 414(d) of title 26 which has been established by an employer for the exclusive benefit of its employees or their beneficiaries for the purpose of distributing to such employees or their beneficiaries the corpus and income of the funds accumulated under such plan, if under such plan it is impossible, prior to the satisfaction of all liabilities with respect to such employees and their beneficiaries, for any part of the corpus or income to be used for, or diverted to, purposes other than the exclusive benefit of such employees or their beneficiaries, or (D) a church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 [15 U.S.C. 80a–3(c)(14)], other than any plan described in subparagraph (A), (B), (C), or (D) of this paragraph (i) the contributions under which are held in a single trust fund or in a separate account maintained by an insurance company for a single employer and under which an amount in excess of the employer’s contribution is allocated to the purchase of securities (other than interests or participations in the trust or separate account itself) issued by the employer or any company directly or indirectly controlling, controlled by, or under common control with the employer, (ii) which covers employees some or all of whom are employees within the meaning of section 401(c)(1) of title 26 (other than a person participating in a church plan who is described in section 414(e)(3)(B) of title 26), or (iii) which is a plan funded by an annuity contract described in section 403(b) of title 26 (other than a retirement income account described in section 403(b)(9) of title 26, to the extent that the interest or participation in such single trust fund or collective trust fund is issued to a church, a convention or association of churches, or an organization described in section 414(e)(3)(A) of title 26 establishing or maintaining the retirement income account or to a trust established by any such entity in connection with the retirement income account). The Commission, by rules and regulations or order, shall exempt from the provisions of section 77e of this title any interest or participation issued in connection with a stock bonus, pension, profit-sharing, or annuity plan which covers employees some or all of whom are employees within the meaning of section 401(c)(1) of title 26, if and to the extent that the Commission determines this to be necessary or appropriate in the public interest and consistent with the protection of investors and the purposes fairly intended by the policy and provisions of this subchapter. For purposes of this paragraph, a security issued or guaranteed by a bank shall not include any interest or participation in any collective trust fund maintained by a bank; and the term “bank” means any national bank, or banking institution organized under the laws of any State, territory, or the District of Columbia, the business of which is substantially confined to banking and is supervised by the State or territorial banking commission or similar official; except that in the case of a common trust fund or similar fund, or a collective trust fund, the term “bank” has the same meaning as in the Investment Company Act of 1940 [15 U.S.C. 80a–1 et seq.];
 
 **(3)** Any note, draft, bill of exchange, or banker’s acceptance which arises out of a current transaction or the proceeds of which have been or are to be used for current transactions, and which has a maturity at the time of issuance of not exceeding nine months, exclusive of days of grace, or any renewal thereof the maturity of which is likewise limited;
 
@@ -333,21 +333,21 @@ Not later than 2 years after April 5, 2012,<sup>1</sup> and every 2 years therea
 
 The Commission may from time to time by its rules and regulations and subject to such terms and conditions as may be prescribed therein, add to the securities exempted as provided in this section any class of securities issued by a small business investment company under the Small Business Investment Act of 1958 [15 U.S.C. 661 et seq.] if it finds, having regard to the purposes of that Act, that the enforcement of this subchapter with respect to such securities is not necessary in the public interest and for the protection of investors.
 
-(May 27, 1933, ch. 38, title I, § 3, 48 Stat. 75; June 6, 1934, ch. 404, title II, § 202, 48 Stat. 906; Feb. 4, 1887, ch. 104, title II, § 214, as added Aug. 9, 1935, ch. 498, 49 Stat. 557; amended June 29, 1938, ch. 811, § 15, 52 Stat. 1240; May 15, 1945, ch. 122, 59 Stat. 167; Aug. 10, 1954, ch. 667, title I, § 5, 68 Stat. 684; Pub. L. 85–699, title III, § 307(a), Aug. 21, 1958, 72 Stat. 694; Pub. L. 91–373, title IV, § 401(a), Aug. 10, 1970, 84 Stat. 718; Pub. L. 91–547, § 27(b), (c), Dec. 14, 1970, 84 Stat. 1434; Pub. L. 91–565, Dec. 19, 1970, 84 Stat. 1480; Pub. L. 91–567, § 6(a), Dec. 22, 1970, 84 Stat. 1498; Pub. L. 94–210, title III, § 308(a)(1), (3), Feb. 5, 1976, 90 Stat. 56, 57; Pub. L. 95–283, § 18, May 21, 1978, 92 Stat. 275; Pub. L. 95–425, § 2, Oct. 6, 1978, 92 Stat. 962; Pub. L. 95–598, title III, § 306, Nov. 6, 1978, 92 Stat. 2674; Pub. L. 96–477, title III, § 301, title VII, § 701, Oct. 21, 1980, 94 Stat. 2291, 2294; Pub. L. 97–261, § 19(d), Sept. 20, 1982, 96 Stat. 1121; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–181, title II, §§ 203, 204, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 103–325, title III, § 320, Sept. 23, 1994, 108 Stat. 2225; Pub. L. 104–62, § 3, Dec. 8, 1995, 109 Stat. 684; Pub. L. 104–290, title V, § 508(b), Oct. 11, 1996, 110 Stat. 3447; Pub. L. 106–102, title II, § 221(a), Nov. 12, 1999, 113 Stat. 1401; Pub. L. 106–554, § 1(a)(5) [title II, § 208(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–435; Pub. L. 108–359, § 1(b), Oct. 25, 2004, 118 Stat. 1666; Pub. L. 111–203, title IX, § 985(a)(1), July 21, 2010, 124 Stat. 1933; Pub. L. 112–106, title IV, § 401(a), Apr. 5, 2012, 126 Stat. 323; Pub. L. 112–142, § 2, July 9, 2012, 126 Stat. 989.)
+(May 27, 1933, ch. 38, title I, § 3, 48 Stat. 75; June 6, 1934, ch. 404, title II, § 202, 48 Stat. 906; Feb. 4, 1887, ch. 104, title II, § 214, as added Aug. 9, 1935, ch. 498, 49 Stat. 557; amended June 29, 1938, ch. 811, § 15, 52 Stat. 1240; May 15, 1945, ch. 122, 59 Stat. 167; Aug. 10, 1954, ch. 667, title I, § 5, 68 Stat. 684; Pub. L. 85–699, title III, § 307(a), Aug. 21, 1958, 72 Stat. 694; Pub. L. 91–373, title IV, § 401(a), Aug. 10, 1970, 84 Stat. 718; Pub. L. 91–547, § 27(b), (c), Dec. 14, 1970, 84 Stat. 1434; Pub. L. 91–565, Dec. 19, 1970, 84 Stat. 1480; Pub. L. 91–567, § 6(a), Dec. 22, 1970, 84 Stat. 1498; Pub. L. 94–210, title III, § 308(a)(1), (3), Feb. 5, 1976, 90 Stat. 56, 57; Pub. L. 95–283, § 18, May 21, 1978, 92 Stat. 275; Pub. L. 95–425, § 2, Oct. 6, 1978, 92 Stat. 962; Pub. L. 95–598, title III, § 306, Nov. 6, 1978, 92 Stat. 2674; Pub. L. 96–477, title III, § 301, title VII, § 701, Oct. 21, 1980, 94 Stat. 2291, 2294; Pub. L. 97–261, § 19(d), Sept. 20, 1982, 96 Stat. 1121; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–181, title II, §§ 203, 204, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 103–325, title III, § 320, Sept. 23, 1994, 108 Stat. 2225; Pub. L. 104–62, § 3, Dec. 8, 1995, 109 Stat. 684; Pub. L. 104–290, title V, § 508(b), Oct. 11, 1996, 110 Stat. 3447; Pub. L. 106–102, title II, § 221(a), Nov. 12, 1999, 113 Stat. 1401; Pub. L. 106–554, § 1(a)(5) [title II, § 208(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–435; Pub. L. 108–359, § 1(b), Oct. 25, 2004, 118 Stat. 1666; Pub. L. 111–203, title IX, § 985(a)(1), July 21, 2010, 124 Stat. 1933; Pub. L. 112–106, title IV, § 401(a), Apr. 5, 2012, 126 Stat. 323; Pub. L. 112–142, § 2, July 9, 2012, 126 Stat. 989.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 103 of title 26, referred to in subsec. (a)(2), which related to interest on certain governmental obligations was amended generally by Pub. L. 99–514, title XIII, § 1301(a), Oct. 22, 1986, 100 Stat. 2602, and as so amended relates to interest on State and local bonds. Section 103(b)(2) (formerly section 103(c)(2)), which prior to the general amendment defined industrial development bond, relates to the applicability of the interest exclusion to arbitrage bonds.
+Section 103 of title 26, referred to in subsec. (a)(2), which related to interest on certain governmental obligations was amended generally by Pub. L. 99–514, title XIII, § 1301(a), Oct. 22, 1986, 100 Stat. 2602, and as so amended relates to interest on State and local bonds. Section 103(b)(2) (formerly section 103(c)(2)), which prior to the general amendment defined industrial development bond, relates to the applicability of the interest exclusion to arbitrage bonds.
 
-The Investment Company Act of 1940, referred to in subsec. (a)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 Section 926 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (b)(2)(G)(ii), is section 926 of Pub. L. 111–203, which is set out as a note under section 77d of this title.
 
 April 5, 2012, referred to in subsec. (b)(5), was in the original “the date of enactment of the Small Company Capital Formation Act of 2011”, and was translated as meaning the date of enactment of the Jumpstart Our Business Startups Act, Pub. L. 112–106, which enacted subsec. (b)(5), to reflect the probable intent of Congress.
 
-The Small Business Investment Act of 1958, referred to in subsec. (c), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (c), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 **Amendments**
 
@@ -369,21 +369,21 @@ Subsec. (b). Pub. L. 112–106 inserted subsec. heading, designated existing pro
 
 1994—Subsec. (a)(12). Pub. L. 103–325 added par. (12).
 
-1987—Subsec. (a)(1). Pub. L. 100–181, § 203, substituted “Reserved.” for “Any security which, prior to or within sixty days after May 27, 1933, has been sold or disposed of by the issuer or bona fide offered to the public, but this exemption shall not apply to any new offering of any such security by an issuer or underwriter subsequent to such sixty days;”.
+1987—Subsec. (a)(1). Pub. L. 100–181, § 203, substituted “Reserved.” for “Any security which, prior to or within sixty days after May 27, 1933, has been sold or disposed of by the issuer or bona fide offered to the public, but this exemption shall not apply to any new offering of any such security by an issuer or underwriter subsequent to such sixty days;”.
 
-Subsec. (a)(5)(A). Pub. L. 100–181, § 204, struck out “, except that the foregoing exemption shall not apply with respect to any such security where the issuer takes from the total amount paid or deposited by the purchaser, by way of any fee, cash value or other device whatsoever, either upon termination of the investment at maturity or before maturity, an aggregate amount in excess of 3 per centum of the face value of such security” after “any such institution”.
+Subsec. (a)(5)(A). Pub. L. 100–181, § 204, struck out “, except that the foregoing exemption shall not apply with respect to any such security where the issuer takes from the total amount paid or deposited by the purchaser, by way of any fee, cash value or other device whatsoever, either upon termination of the investment at maturity or before maturity, an aggregate amount in excess of 3 per centum of the face value of such security” after “any such institution”.
 
 1986—Subsec. (a)(2), (5). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1982—Subsec. (a)(6). Pub. L. 97–261 struck out provisions relating to any security issued by a motor carrier subject to provisions of section 314 [11302] of title 49.
 
-1980—Subsec. (a)(2). Pub. L. 96–477, § 701, provided that single trust funds did not have to be maintained by banks in order to qualify for exemption from the provisions of this subchapter, substituted provisions relating to securities arising out of contracts issued by insurance companies for provisions relating to separate accounts maintained by insurance companies, provided that an interest, participation, or security could be issued in connection with certain governmental plans as defined in section 414(d) of title 26 and qualify for exemption from the provisions of this subchapter, and excluded from exemption plans described in cls. (A), (B), or (C) of par. (2) which were funded by annuity contracts described in section 403(b) of title 26.
+1980—Subsec. (a)(2). Pub. L. 96–477, § 701, provided that single trust funds did not have to be maintained by banks in order to qualify for exemption from the provisions of this subchapter, substituted provisions relating to securities arising out of contracts issued by insurance companies for provisions relating to separate accounts maintained by insurance companies, provided that an interest, participation, or security could be issued in connection with certain governmental plans as defined in section 414(d) of title 26 and qualify for exemption from the provisions of this subchapter, and excluded from exemption plans described in cls. (A), (B), or (C) of par. (2) which were funded by annuity contracts described in section 403(b) of title 26.
 
-Subsec. (b). Pub. L. 96–477, § 301, substituted “$5,000,000” for “$2,000,000”.
+Subsec. (b). Pub. L. 96–477, § 301, substituted “$5,000,000” for “$2,000,000”.
 
-1978—Subsec. (a)(7). Pub. L. 95–598, § 306(a), substituted “or debtor in possession in a case under title 11” for “in bankruptcy”.
+1978—Subsec. (a)(7). Pub. L. 95–598, § 306(a), substituted “or debtor in possession in a case under title 11” for “in bankruptcy”.
 
-Subsec. (a)(9), (10). Pub. L. 95–598, § 306(b), substituted “Except with respect to a security exchanged in a case under title 11, any” for “Any”.
+Subsec. (a)(9), (10). Pub. L. 95–598, § 306(b), substituted “Except with respect to a security exchanged in a case under title 11, any” for “Any”.
 
 Subsec. (b). Pub. L. 95–425 substituted “$2,000,000” for “$1,500,000”.
 
@@ -393,11 +393,11 @@ Pub. L. 95–283 substituted “$1,500,000” for “$500,000”.
 
 1970—Subsec. (a)(2). Pub. L. 91–567 exempted any interest or participation in any common trust fund or similar fund maintained by a bank exclusively for the collective investment and reinvestment of assets contributed thereto by such bank in its capacity as trustee, executor, administrator, or guardian, any security which is an industrial development bond the interest on which is excludable from gross income under section 103(a)(1) of title 26, any interest or participation in a single or collective trust fund maintained by a bank or in a separate account maintained by an insurance company which interest or participation is issued in connection with a stock bonus, pension, or profit-sharing plan which meets the requirements for qualification under section 401 of title 26, or an annuity plan which meets the requirements for the deduction of the employer’s contribution under section 404(a)(2) of title 26, directed the Commission to exempt from the provisions of section 77e of this title any interest or participation issued in connection with a stock bonus, pension, profit-sharing, or annuity plan which covers employees some or all of whom are employees within the meaning of section 401(c)(1) of title 26 if and to the extent that the Commission determines this to be necessary or appropriate in the public interest and consistent with the protection of investors, and provided that for the purposes of this paragraph a security issued or guaranteed by a bank shall not include any interest or participation in any collective trust fund maintained by a bank, and that in the case of a common trust fund or similar fund, or a collective trust fund, the term “bank” has the same meaning as in the Investment Company Act of 1940.
 
-Pub. L. 91–547, § 27(b), struck out reference to industrial development bonds the interest on which is excludable from gross income under section 103(a)(1) of title 26; and exempted from registration provisions interests or participations in common trust funds maintained by a bank for collective investment of assets held by it in a fiduciary capacity interests or participations in bank collective trust funds maintained for funding of employees’ stock bonus, pension, or profit-sharing plans; interests or participations in separate accounts maintained by insurance companies for funding certain stock-bonus, pension, or profit-sharing plans which meet the requirements for qualification under section 401 of title 26; and interests or participations issued by bank collective trust funds or insurance company separate accounts for funding certain stock-bonus, pension, profit-sharing, or annuity plans when the Commission by rule, regulation, or order determines this to be necessary in the public interest; provided that a security issued or guaranteed by a bank shall not include any interest or participation in any collective trust fund maintained by a bank; substituted where first appearing “security issued or guaranteed by any bank” for “security issued or guaranteed by any national bank, or by any banking institution organized under the laws of any State or Territory or the District of Columbia, the business of which is substantially confined to banking and is supervised by the State or Territorial banking commission or similar official”, the latter provision now incorporated in a separate definition of term “bank”; and made the Investment Company Act definition of bank applicable as in the case of a common trust fund or similar fund, or a collective trust fund.
+Pub. L. 91–547, § 27(b), struck out reference to industrial development bonds the interest on which is excludable from gross income under section 103(a)(1) of title 26; and exempted from registration provisions interests or participations in common trust funds maintained by a bank for collective investment of assets held by it in a fiduciary capacity interests or participations in bank collective trust funds maintained for funding of employees’ stock bonus, pension, or profit-sharing plans; interests or participations in separate accounts maintained by insurance companies for funding certain stock-bonus, pension, or profit-sharing plans which meet the requirements for qualification under section 401 of title 26; and interests or participations issued by bank collective trust funds or insurance company separate accounts for funding certain stock-bonus, pension, profit-sharing, or annuity plans when the Commission by rule, regulation, or order determines this to be necessary in the public interest; provided that a security issued or guaranteed by a bank shall not include any interest or participation in any collective trust fund maintained by a bank; substituted where first appearing “security issued or guaranteed by any bank” for “security issued or guaranteed by any national bank, or by any banking institution organized under the laws of any State or Territory or the District of Columbia, the business of which is substantially confined to banking and is supervised by the State or Territorial banking commission or similar official”, the latter provision now incorporated in a separate definition of term “bank”; and made the Investment Company Act definition of bank applicable as in the case of a common trust fund or similar fund, or a collective trust fund.
 
 Pub. L. 91–373 inserted reference to industrial development bonds the interest on which is excludable from gross income under section 103(a)(1) of title 26.
 
-Subsec. (a)(5). Pub. L. 91–547, § 27(c), designated existing provisions as cl. (A), included cooperative bank issues, required the issuer to be an institution which is supervised and examined by State or Federal authority having supervision over such institution, struck out “substantially all the business of which is confined to the making of loans to members” after “similar institution” and substituted provisions designated as cl. (B) for prior provision relating to a security issued by a farmers’ cooperative association as defined in paragraphs (12), (13), and (14) of section 103 of the Revenue Act of 1932.
+Subsec. (a)(5). Pub. L. 91–547, § 27(c), designated existing provisions as cl. (A), included cooperative bank issues, required the issuer to be an institution which is supervised and examined by State or Federal authority having supervision over such institution, struck out “substantially all the business of which is confined to the making of loans to members” after “similar institution” and substituted provisions designated as cl. (B) for prior provision relating to a security issued by a farmers’ cooperative association as defined in paragraphs (12), (13), and (14) of section 103 of the Revenue Act of 1932.
 
 Subsec. (b). Pub. L. 91–565 substituted “$500,000” for “$300,000”.
 
@@ -421,15 +421,15 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–102, title II, § 225, Nov. 12, 1999, 113 Stat. 1402, provided that: “This subtitle [subtitle B (§§ 211–225) of title II of Pub. L. 106–102, enacting section 80b–10a of this title and amending this section and sections 78c, 80a–2, 80a–3, 80a–9, 80a–10, 80a–17, 80a–26, 80a–34, and 80b–2 of this title] shall take effect 18 months after the date of the enactment of this Act [Nov. 12, 1999].”
+Pub. L. 106–102, title II, § 225, Nov. 12, 1999, 113 Stat. 1402, provided that: “This subtitle [subtitle B (§§ 211–225) of title II of Pub. L. 106–102, enacting section 80b–10a of this title and amending this section and sections 78c, 80a–2, 80a–3, 80a–9, 80a–10, 80a–17, 80a–26, 80a–34, and 80b–2 of this title] shall take effect 18 months after the date of the enactment of this Act [Nov. 12, 1999].”
 
 **Effective Date of 1995 Amendment**
 
-Pub. L. 104–62, § 7, Dec. 8, 1995, 109 Stat. 686, provided that: “This Act [enacting section 80a–3a of this title, amending this section and sections 78c, 78*l*, 80a–3, 80a–7, and 80b–3 of this title, and enacting provisions set out as a note under section 80a–51 of this title] and the amendments made by this Act shall apply in all administrative and judicial actions pending on or commenced after the date of enactment of this Act [Dec. 8, 1995], as a defense to any claim that any person, security, interest, or participation of the type described in this Act and the amendments made by this Act is subject to the provisions of the Securities Act of 1933 [15 U.S.C. 77a et seq.], the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], the Investment Company Act of 1940 [15 U.S.C. 80a–1 et seq.], or the Investment Advisers Act of 1940 [15 U.S.C. 80b–1 et seq.], or any State statute or regulation preempted as provided in section 6 of this Act [enacting section 80a–3a of this title], except as otherwise specifically provided in such Acts or State law.”
+Pub. L. 104–62, § 7, Dec. 8, 1995, 109 Stat. 686, provided that: “This Act [enacting section 80a–3a of this title, amending this section and sections 78c, 78*l*, 80a–3, 80a–7, and 80b–3 of this title, and enacting provisions set out as a note under section 80a–51 of this title] and the amendments made by this Act shall apply in all administrative and judicial actions pending on or commenced after the date of enactment of this Act [Dec. 8, 1995], as a defense to any claim that any person, security, interest, or participation of the type described in this Act and the amendments made by this Act is subject to the provisions of the Securities Act of 1933 [15 U.S.C. 77a et seq.], the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], the Investment Company Act of 1940 [15 U.S.C. 80a–1 et seq.], or the Investment Advisers Act of 1940 [15 U.S.C. 80b–1 et seq.], or any State statute or regulation preempted as provided in section 6 of this Act [enacting section 80a–3a of this title], except as otherwise specifically provided in such Acts or State law.”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–261, § 31, Sept. 20, 1982, 96 Stat. 1129, provided that:
+Pub. L. 97–261, § 31, Sept. 20, 1982, 96 Stat. 1129, provided that:
 
 > **“(a)** Except as provided in subsections (b) and (c) of this section, this Act [see Tables for classification] shall take effect on the 60th day after the date of enactment of this Act [Sept. 20, 1982].
 
@@ -443,15 +443,15 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–210, § 308(d)(1), Feb. 5, 1976, 90 Stat. 57, provided that: “The amendments made by subsection (a) of this section [amending this section, section 77s of this title, and section 314 of former Title 49, Transportation] shall take effect on the 60th day after the date of enactment of this Act [Feb. 5, 1976], but shall not apply to any bona fide offering of a security made by the issuer, or by or through an underwriter, before such 60th day.”
+Pub. L. 94–210, § 308(d)(1), Feb. 5, 1976, 90 Stat. 57, provided that: “The amendments made by subsection (a) of this section [amending this section, section 77s of this title, and section 314 of former Title 49, Transportation] shall take effect on the 60th day after the date of enactment of this Act [Feb. 5, 1976], but shall not apply to any bona fide offering of a security made by the issuer, or by or through an underwriter, before such 60th day.”
 
 **Effective Date of 1970 Amendments**
 
-Pub. L. 91–567, § 6(d), Dec. 22, 1970, 84 Stat. 1499, provided that: “The amendments made by this section [amending this section and sections 77ddd and 78c of this title] shall apply with respect to securities sold after January 1, 1970.”
+Pub. L. 91–567, § 6(d), Dec. 22, 1970, 84 Stat. 1499, provided that: “The amendments made by this section [amending this section and sections 77ddd and 78c of this title] shall apply with respect to securities sold after January 1, 1970.”
 
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
 
-Pub. L. 91–373, title IV, § 401(c), Aug. 10, 1970, 84 Stat. 718, provided that: “The amendments made by this section [amending this section and section 78c of this title] shall apply with respect to securities sold after January 1, 1970.”
+Pub. L. 91–373, title IV, § 401(c), Aug. 10, 1970, 84 Stat. 718, provided that: “The amendments made by this section [amending this section and section 78c of this title] shall apply with respect to securities sold after January 1, 1970.”
 
 **Effective Date of 1954 Amendment**
 
@@ -459,11 +459,11 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 **Repeals**
 
-Section 214 of act Feb. 4, 1887 (the Interstate Commerce Act), as added Aug. 9, 1935, ch. 498, 49 Stat. 557, cited as a credit to this section, was repealed by Pub. L. 97–449, § 7(b), Jan. 12, 1983, 96 Stat. 2443, 2444.
+Section 214 of act Feb. 4, 1887 (the Interstate Commerce Act), as added Aug. 9, 1935, ch. 498, 49 Stat. 557, cited as a credit to this section, was repealed by Pub. L. 97–449, § 7(b), Jan. 12, 1983, 96 Stat. 2443, 2444.
 
 **Further Promoting the Adoption of the NAIC Model Regulations That Enhance Protection of Seniors and Other Consumers**
 
-Pub. L. 111–203, title IX, § 989J, July 21, 2010, 124 Stat. 1949, provided that:
+Pub. L. 111–203, title IX, § 989J, July 21, 2010, 124 Stat. 1949, provided that:
 
 > **“(a) In General.—** The Commission shall treat as exempt securities described under section 3(a)(8) of the Securities Act of 1933 (15 U.S.C. 77c(a)(8)) any insurance or endowment policy or annuity contract or optional annuity contract—
 
@@ -491,15 +491,15 @@ Pub. L. 111–203, title IX, § 989J, July 21, 2010, 124 Stat. 1949, provided 
 
 **Securities and Investment Company Provisions Inapplicable to Certain Life Insurance Benefits Issued Prior to March 23, 1959**
 
-Pub. L. 91–547, § 29, Dec. 14, 1970, 84 Stat. 1436, provided that: “The provisions of the Securities Act of 1933 [this subchapter] and the Investment Company Act of 1940 [section 80a–1 et seq. of this title] shall not apply, except for purposes of definition of terms used in this section, to any interest or participation (including any separate account or other fund providing for the sharing of income or gains and losses, and any interest or participation in such account or fund) in any contract, certificate, or policy providing for life insurance benefits which was issued prior to March 23, 1959, by an insurance company, if (1) the form of such contract, certificate, or policy was approved by the insurance commissioner, or similar official or agency, of a State, territory or the District of Columbia, and (2) under such contract, certificate, or policy not to exceed 49 per centum of the gross premiums or other consideration paid was to be allocated to a separate account or other fund providing for the sharing of income or gains and losses. Nothing herein contained shall be taken to imply that any such interest or participation constitutes a ‘security’ under any other laws of the United States.”
+Pub. L. 91–547, § 29, Dec. 14, 1970, 84 Stat. 1436, provided that: “The provisions of the Securities Act of 1933 [this subchapter] and the Investment Company Act of 1940 [section 80a–1 et seq. of this title] shall not apply, except for purposes of definition of terms used in this section, to any interest or participation (including any separate account or other fund providing for the sharing of income or gains and losses, and any interest or participation in such account or fund) in any contract, certificate, or policy providing for life insurance benefits which was issued prior to March 23, 1959, by an insurance company, if (1) the form of such contract, certificate, or policy was approved by the insurance commissioner, or similar official or agency, of a State, territory or the District of Columbia, and (2) under such contract, certificate, or policy not to exceed 49 per centum of the gross premiums or other consideration paid was to be allocated to a separate account or other fund providing for the sharing of income or gains and losses. Nothing herein contained shall be taken to imply that any such interest or participation constitutes a ‘security’ under any other laws of the United States.”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77d. Exempted transactions
+### § 77d. Exempted transactions
 
 **(a) In general** The provisions of section 77e of this title shall not apply to—
 
@@ -545,7 +545,7 @@ Offers and sales exempt under section 230.506 of title 17, Code of Federal Regul
 
 **(1)** With respect to securities offered and sold in compliance with Rule 506 of Regulation D under this subchapter, no person who meets the conditions set forth in paragraph (2) shall be subject to registration as a broker or dealer pursuant to section 78*o*(a)(1) of this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 solely because—
 
@@ -561,7 +561,7 @@ solely because—
 
 **(B)** such person and each person associated with that person does not have possession of customer funds or securities in connection with the purchase or sale of such security; and
 
-**(C)** such person is not subject to a statutory disqualification as defined in section 78c(a)(39) of this title <sup>1</sup> and does not have any person associated with that person subject to such a statutory disqualification.
+**(C)** such person is not subject to a statutory disqualification as defined in section 78c(a)(39) of this title <sup>1</sup> and does not have any person associated with that person subject to such a statutory disqualification.
 
 **(3)** For the purposes of this subsection, the term “ancillary services” means—
 
@@ -633,7 +633,7 @@ solely because—
 
 **(2) Rule of construction.—** The exemption provided by subsection (a)(7) shall not be the exclusive means for establishing an exemption from the registration requirements of section 77e of this title.
 
-(May 27, 1933, ch. 38, title I, § 4, 48 Stat. 77; June 6, 1934, ch. 404, title II, § 203, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, § 6, 68 Stat. 684; Pub. L. 88–467, § 12, Aug. 20, 1964, 78 Stat. 580; Pub. L. 94–29, § 30, June 4, 1975, 89 Stat. 169; Pub. L. 96–477, title VI, § 602, Oct. 21, 1980, 94 Stat. 2294; Pub. L. 111–203, title IX, § 944(a), July 21, 2010, 124 Stat. 1897; Pub. L. 112–106, title II, § 201(b), (c), title III, § 302(a), title IV, § 401(c), Apr. 5, 2012, 126 Stat. 314, 315, 325; Pub. L. 114–94, div. G, title LXXVI, § 76001(a), Dec. 4, 2015, 129 Stat. 1787.)
+(May 27, 1933, ch. 38, title I, § 4, 48 Stat. 77; June 6, 1934, ch. 404, title II, § 203, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, § 6, 68 Stat. 684; Pub. L. 88–467, § 12, Aug. 20, 1964, 78 Stat. 580; Pub. L. 94–29, § 30, June 4, 1975, 89 Stat. 169; Pub. L. 96–477, title VI, § 602, Oct. 21, 1980, 94 Stat. 2294; Pub. L. 111–203, title IX, § 944(a), July 21, 2010, 124 Stat. 1897; Pub. L. 112–106, title II, § 201(b), (c), title III, § 302(a), title IV, § 401(c), Apr. 5, 2012, 126 Stat. 314, 315, 325; Pub. L. 114–94, div. G, title LXXVI, § 76001(a), Dec. 4, 2015, 129 Stat. 1787.)
 
 **Editorial Notes**
 
@@ -647,21 +647,21 @@ Section 78c(a)(39) of this title, referrred to in subsec. (c)(2)(C), was in the 
 
 **Amendments**
 
-2015—Subsec. (a)(7). Pub. L. 114–94, § 76001(a)(1), added par. (7).
+2015—Subsec. (a)(7). Pub. L. 114–94, § 76001(a)(1), added par. (7).
 
-Subsec. (c). Pub. L. 114–94, § 76001(a)(2), redesignated subsec. (b) relating to securities offered and sold in compliance with Rule 506 of Regulation D as (c).
+Subsec. (c). Pub. L. 114–94, § 76001(a)(2), redesignated subsec. (b) relating to securities offered and sold in compliance with Rule 506 of Regulation D as (c).
 
-Subsecs. (d), (e). Pub. L. 114–94, § 76001(a)(3), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 114–94, § 76001(a)(3), added subsecs. (d) and (e).
 
-2012—Pub. L. 112–106, § 201(b)(1), (c)(1), made identical amendments, designating existing provisions as subsec. (a).
+2012—Pub. L. 112–106, § 201(b)(1), (c)(1), made identical amendments, designating existing provisions as subsec. (a).
 
-Subsec. (a)(5). Pub. L. 112–106, § 401(c), which directed amendment of this section by substituting “section 77c(b)(1)” for “section 77c(b)” in par. (5), was executed by making the substitution in subsec. (a)(5) to reflect the probable intent of Congress and the amendment by Pub. L. 112–106, § 201(b)(1), (c)(1). See above.
+Subsec. (a)(5). Pub. L. 112–106, § 401(c), which directed amendment of this section by substituting “section 77c(b)(1)” for “section 77c(b)” in par. (5), was executed by making the substitution in subsec. (a)(5) to reflect the probable intent of Congress and the amendment by Pub. L. 112–106, § 201(b)(1), (c)(1). See above.
 
-Subsec. (a)(6). Pub. L. 112–106, § 302(a), which directed amendment of this section by adding par. (6) at the end, was executed by making the addition at the end of subsec. (a) to reflect the probable intent of Congress and the amendment by Pub. L. 112–106, § 201(b)(1), (c)(1). See above.
+Subsec. (a)(6). Pub. L. 112–106, § 302(a), which directed amendment of this section by adding par. (6) at the end, was executed by making the addition at the end of subsec. (a) to reflect the probable intent of Congress and the amendment by Pub. L. 112–106, § 201(b)(1), (c)(1). See above.
 
-Subsec. (b). Pub. L. 112–106, § 201(c)(2), added subsec. (b) relating to securities offered and sold in compliance with Rule 506 of Regulation D under this subchapter.
+Subsec. (b). Pub. L. 112–106, § 201(c)(2), added subsec. (b) relating to securities offered and sold in compliance with Rule 506 of Regulation D under this subchapter.
 
-Pub. L. 112–106, § 201(b)(2), added subsec. (b) relating to offers and sales exempt under section 230.506 of title 17, Code of Federal Regulations.
+Pub. L. 112–106, § 201(b)(2), added subsec. (b) relating to offers and sales exempt under section 230.506 of title 17, Code of Federal Regulations.
 
 2010—Pars. (5), (6). Pub. L. 111–203 redesignated par. (6) as (5) and struck out former par. (5) which related to exemption for certain transactions involving offers or sales of one or more promissory notes directly secured by a first lien on a single parcel of real estate upon which is located a dwelling or other residential or commercial structure, and exemption for certain transactions between entities involving non-assignable contracts to buy or sell the foregoing securities which are to be completed within two years.
 
@@ -703,7 +703,7 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 **Modification of Exemption Rules**
 
-Pub. L. 112–106, title II, § 201(a), Apr. 5, 2012, 126 Stat. 313, provided that:
+Pub. L. 112–106, title II, § 201(a), Apr. 5, 2012, 126 Stat. 313, provided that:
 
 > **“(1)** Not later than 90 days after the date of the enactment of this Act [Apr. 5, 2012], the Securities and Exchange Commission shall revise its rules issued in section 230.506 of title 17, Code of Federal Regulations, to provide that the prohibition against general solicitation or general advertising contained in section 230.502(c) of such title shall not apply to offers and sales of securities made pursuant to section 230.506, provided that all purchasers of the securities are accredited investors. Such rules shall require the issuer to take reasonable steps to verify that purchasers of the securities are accredited investors, using such methods as determined by the Commission. Section 230.506 of title 17, Code of Federal Regulations, as revised pursuant to this section, shall continue to be treated as a regulation issued under section 4(2) of the Securities Act of 1933 ([now] 15 U.S.C. 77d[(a)](2)).
 
@@ -711,11 +711,11 @@ Pub. L. 112–106, title II, § 201(a), Apr. 5, 2012, 126 Stat. 313, provided 
 
 **Rulemaking**
 
-Pub. L. 112–106, title III, § 302(c), Apr. 5, 2012, 126 Stat. 320, provided that: “Not later than 270 days after the date of enactment of this Act [Apr. 5, 2012], the Securities and Exchange Commission (in this title [enacting section 77d–1 of this title, amending sections 77d, 77r, 78c, 78*l*, and 78*o* of this title, and enacting provisions set out as notes under sections 77d, 77r, 78c, and 78*l* of this title] referred to as the ‘Commission’) shall issue such rules as the Commission determines may be necessary or appropriate for the protection of investors to carry out sections 4(6) [probably means “section 4(a)(6)”] and section 4A of the Securities Act of 1933 [15 U.S.C. 77d(a)(6), 77d–1], as added by this title. In carrying out this section, the Commission shall consult with any securities commission (or any agency or office performing like functions) of the States, any territory of the United States, and the District of Columbia, which seeks to consult with the Commission, and with any applicable national securities association.”
+Pub. L. 112–106, title III, § 302(c), Apr. 5, 2012, 126 Stat. 320, provided that: “Not later than 270 days after the date of enactment of this Act [Apr. 5, 2012], the Securities and Exchange Commission (in this title [enacting section 77d–1 of this title, amending sections 77d, 77r, 78c, 78*l*, and 78*o* of this title, and enacting provisions set out as notes under sections 77d, 77r, 78c, and 78*l* of this title] referred to as the ‘Commission’) shall issue such rules as the Commission determines may be necessary or appropriate for the protection of investors to carry out sections 4(6) [probably means “section 4(a)(6)”] and section 4A of the Securities Act of 1933 [15 U.S.C. 77d(a)(6), 77d–1], as added by this title. In carrying out this section, the Commission shall consult with any securities commission (or any agency or office performing like functions) of the States, any territory of the United States, and the District of Columbia, which seeks to consult with the Commission, and with any applicable national securities association.”
 
 **Disqualification**
 
-Pub. L. 112–106, title III, § 302(d), Apr. 5, 2012, 126 Stat. 320, provided that:
+Pub. L. 112–106, title III, § 302(d), Apr. 5, 2012, 126 Stat. 320, provided that:
 
 > **“(1) In general.—** Not later than 270 days after the date of enactment of this Act [Apr. 5, 2012], the [Securities and Exchange] Commission shall, by rule, establish disqualification provisions under which—
 
@@ -745,7 +745,7 @@ Pub. L. 112–106, title III, § 302(d), Apr. 5, 2012, 126 Stat. 320, provided
 
 **Disqualifying Felons and Other “Bad Actors” From Regulation D Offerings**
 
-Pub. L. 111–203, title IX, § 926, July 21, 2010, 124 Stat. 1851, provided that:
+Pub. L. 111–203, title IX, § 926, July 21, 2010, 124 Stat. 1851, provided that:
 
 > “Not later than 1 year after the date of enactment of this Act [July 21, 2010], the Commission shall issue rules for the disqualification of offerings and sales of securities made under section 230.506 of title 17, Code of Federal Regulations, that—
 
@@ -773,13 +773,13 @@ Pub. L. 111–203, title IX, § 926, July 21, 2010, 124 Stat. 1851, provided t
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77d–1. Requirements with respect to certain small transactions
+### § 77d–1. Requirements with respect to certain small transactions
 
-**(a) Requirements on intermediaries** A person acting as an intermediary in a transaction involving the offer or sale of securities for the account of others pursuant to section 77d(6) 1
+**(a) Requirements on intermediaries** A person acting as an intermediary in a transaction involving the offer or sale of securities for the account of others pursuant to section 77d(6) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title shall—
 
@@ -787,9 +787,9 @@ of this title shall—
 
 **(A)** a broker; or
 
-**(B)** a funding portal (as defined in section 78c(a)(80) 2
+**(B)** a funding portal (as defined in section 78c(a)(80) 2
 
-<sup>2</sup>  So in original. Two pars. (a)(80) of section 78c have been enacted.
+<sup>2</sup> So in original. Two pars. (a)(80) of section 78c have been enacted.
 
 of this title);
 
@@ -817,7 +817,7 @@ of this title);
 
 **(7)** ensure that all offering proceeds are only provided to the issuer when the aggregate capital raised from all investors is equal to or greater than a target offering amount, and allow all investors to cancel their commitments to invest, as the Commission shall, by rule, determine appropriate;
 
-**(8)** make such efforts as the Commission determines appropriate, by rule, to ensure that no investor in a 12-month period has purchased securities offered pursuant to section 77d(6) <sup>1</sup> of this title that, in the aggregate, from all issuers, exceed the investment limits set forth in section 77d(6)(B) <sup>1</sup> of this title;
+**(8)** make such efforts as the Commission determines appropriate, by rule, to ensure that no investor in a 12-month period has purchased securities offered pursuant to section 77d(6) <sup>1</sup> of this title that, in the aggregate, from all issuers, exceed the investment limits set forth in section 77d(6)(B) <sup>1</sup> of this title;
 
 **(9)** take such steps to protect the privacy of information collected from investors as the Commission shall, by rule, determine appropriate;
 
@@ -827,7 +827,7 @@ of this title);
 
 **(12)** meet such other requirements as the Commission may, by rule, prescribe, for the protection of investors and in the public interest.
 
-**(b) Requirements for issuers** For purposes of section 77d(6) <sup>1</sup> of this title, an issuer who offers or sells securities shall—
+**(b) Requirements for issuers** For purposes of section 77d(6) <sup>1</sup> of this title, an issuer who offers or sells securities shall—
 
 **(1)** file with the Commission and provide to investors and the relevant broker or funding portal, and make available to potential investors—
 
@@ -837,7 +837,7 @@ of this title);
 
 **(C)** a description of the business of the issuer and the anticipated business plan of the issuer;
 
-**(D)** a description of the financial condition of the issuer, including, for offerings that, together with all other offerings of the issuer under section 77d(6) <sup>1</sup> of this title within the preceding 12-month period, have, in the aggregate, target offering amounts of—
+**(D)** a description of the financial condition of the issuer, including, for offerings that, together with all other offerings of the issuer under section 77d(6) <sup>1</sup> of this title within the preceding 12-month period, have, in the aggregate, target offering amounts of—
 
 **(i)** $100,000 or less—
 
@@ -883,7 +883,7 @@ of this title);
 
 **(A) In general**
 
-Subject to paragraph (2), a person who purchases a security in a transaction exempted by the provisions of section 77d(6) <sup>1</sup> of this title may bring an action against an issuer described in paragraph (2), either at law or in equity in any court of competent jurisdiction, to recover the consideration paid for such security with interest thereon, less the amount of any income received thereon, upon the tender of such security, or for damages if such person no longer owns the security.
+Subject to paragraph (2), a person who purchases a security in a transaction exempted by the provisions of section 77d(6) <sup>1</sup> of this title may bring an action against an issuer described in paragraph (2), either at law or in equity in any court of competent jurisdiction, to recover the consideration paid for such security with interest thereon, less the amount of any income received thereon, upon the tender of such security, or for damages if such person no longer owns the security.
 
 **(B) Liability**
 
@@ -891,19 +891,19 @@ An action brought under this paragraph shall be subject to the provisions of sec
 
 **(2) Applicability** An issuer shall be liable in an action under paragraph (1), if the issuer—
 
-**(A)** by the use of any means or instruments of transportation or communication in interstate commerce or of the mails, by any means of any written or oral communication, in the offering or sale of a security in a transaction exempted by the provisions of section 77d(6) <sup>1</sup> of this title, makes an untrue statement of a material fact or omits to state a material fact required to be stated or necessary in order to make the statements, in the light of the circumstances under which they were made, not misleading, provided that the purchaser did not know of such untruth or omission; and
+**(A)** by the use of any means or instruments of transportation or communication in interstate commerce or of the mails, by any means of any written or oral communication, in the offering or sale of a security in a transaction exempted by the provisions of section 77d(6) <sup>1</sup> of this title, makes an untrue statement of a material fact or omits to state a material fact required to be stated or necessary in order to make the statements, in the light of the circumstances under which they were made, not misleading, provided that the purchaser did not know of such untruth or omission; and
 
 **(B)** does not sustain the burden of proof that such issuer did not know, and in the exercise of reasonable care could not have known, of such untruth or omission.
 
 **(3) Definition**
 
-As used in this subsection, the term “issuer” includes any person who is a director or partner of the issuer, and the principal executive officer or officers, principal financial officer, and controller or principal accounting officer of the issuer (and any person occupying a similar status or performing a similar function) that offers or sells a security in a transaction exempted by the provisions of section 77d(6) <sup>1</sup> of this title, and any person who offers or sells the security in such offering.
+As used in this subsection, the term “issuer” includes any person who is a director or partner of the issuer, and the principal executive officer or officers, principal financial officer, and controller or principal accounting officer of the issuer (and any person occupying a similar status or performing a similar function) that offers or sells a security in a transaction exempted by the provisions of section 77d(6) <sup>1</sup> of this title, and any person who offers or sells the security in such offering.
 
 **(d) Information available to States**
 
 The Commission shall make, or shall cause to be made by the relevant broker or funding portal, the information described in subsection (b) and such other information as the Commission, by rule, determines appropriate, available to the securities commission (or any agency or office performing like functions) of each State and territory of the United States and the District of Columbia.
 
-**(e) Restrictions on sales** Securities issued pursuant to a transaction described in section 77d(6) <sup>1</sup> of this title—
+**(e) Restrictions on sales** Securities issued pursuant to a transaction described in section 77d(6) <sup>1</sup> of this title—
 
 **(1)** may not be transferred by the purchaser of such securities during the 1-year period beginning on the date of purchase, unless such securities are transferred—
 
@@ -917,7 +917,7 @@ The Commission shall make, or shall cause to be made by the relevant broker or f
 
 **(2)** shall be subject to such other limitations as the Commission shall, by rule, establish.
 
-**(f) Applicability** Section 77d(6) <sup>1</sup> of this title shall not apply to transactions involving the offer or sale of securities by any issuer that—
+**(f) Applicability** Section 77d(6) <sup>1</sup> of this title shall not apply to transactions involving the offer or sale of securities by any issuer that—
 
 **(1)** is not organized under and subject to the laws of a State or territory of the United States or the District of Columbia;
 
@@ -929,27 +929,27 @@ The Commission shall make, or shall cause to be made by the relevant broker or f
 
 **(g) Rule of construction**
 
-Nothing in this section or section 77d(6) <sup>1</sup> of this title shall be construed as preventing an issuer from raising capital through methods not described under section 77d(6) <sup>1</sup> of this title.
+Nothing in this section or section 77d(6) <sup>1</sup> of this title shall be construed as preventing an issuer from raising capital through methods not described under section 77d(6) <sup>1</sup> of this title.
 
 **(h) Certain calculations**
 
 **(1) Dollar amounts**
 
-Dollar amounts in section 77d(6) <sup>1</sup> of this title and subsection (b) of this section shall be adjusted by the Commission not less frequently than once every 5 years, by notice published in the Federal Register to reflect any change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics.
+Dollar amounts in section 77d(6) <sup>1</sup> of this title and subsection (b) of this section shall be adjusted by the Commission not less frequently than once every 5 years, by notice published in the Federal Register to reflect any change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics.
 
 **(2) Income and net worth**
 
-The income and net worth of a natural person under section 77d(6)(B) <sup>1</sup> of this title shall be calculated in accordance with any rules of the Commission under this subchapter regarding the calculation of the income and net worth, respectively, of an accredited investor.
+The income and net worth of a natural person under section 77d(6)(B) <sup>1</sup> of this title shall be calculated in accordance with any rules of the Commission under this subchapter regarding the calculation of the income and net worth, respectively, of an accredited investor.
 
-(May 27, 1933, ch. 38, title I, § 4A, as added Pub. L. 112–106, title III, § 302(b), Apr. 5, 2012, 126 Stat. 315.)
+(May 27, 1933, ch. 38, title I, § 4A, as added Pub. L. 112–106, title III, § 302(b), Apr. 5, 2012, 126 Stat. 315.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 77d(6) of this title, referred to in text, was redesignated section 77d(a)(6) of this title by Pub. L. 112–106, title II, § 201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
+Section 77d(6) of this title, referred to in text, was redesignated section 77d(a)(6) of this title by Pub. L. 112–106, title II, § 201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
 
-### § 77e. Prohibitions relating to interstate commerce and the mails
+### § 77e. Prohibitions relating to interstate commerce and the mails
 
 **(a) Sale or delivery after sale of unregistered securities** Unless a registration statement is in effect as to a security, it shall be unlawful for any person, directly or indirectly—
 
@@ -975,7 +975,7 @@ Notwithstanding any other provision of this section, an emerging growth company 
 
 Notwithstanding the provisions of section 77c or 77d of this title, unless a registration statement meeting the requirements of section 77j(a) of this title is in effect as to a security-based swap, it shall be unlawful for any person, directly or indirectly, to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to offer to sell, offer to buy or purchase or sell a security-based swap to any person who is not an eligible contract participant as defined in section 1a(18) of title 7.
 
-(May 27, 1933, ch. 38, title I, § 5, 48 Stat. 77; June 6, 1934, ch. 404, title II, § 204, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, § 7, 68 Stat. 684; Pub. L. 111–203, title VII, § 768(b), July 21, 2010, 124 Stat. 1801; Pub. L. 112–106, title I, § 105(c), Apr. 5, 2012, 126 Stat. 311.)
+(May 27, 1933, ch. 38, title I, § 5, 48 Stat. 77; June 6, 1934, ch. 404, title II, § 204, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, § 7, 68 Stat. 684; Pub. L. 111–203, title VII, § 768(b), July 21, 2010, 124 Stat. 1801; Pub. L. 112–106, title I, § 105(c), Apr. 5, 2012, 126 Stat. 311.)
 
 **Editorial Notes**
 
@@ -997,7 +997,7 @@ Subsec. (c). Act Aug. 10, 1954, added subsec. (c).
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
 **Effective Date of 1954 Amendment**
 
@@ -1005,7 +1005,7 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 **Encouraging Employee Ownership**
 
-Pub. L. 115–174, title V, § 507, May 24, 2018, 132 Stat. 1363, provided that: “Not later than 60 days after the date of the enactment of this Act [May 24, 2018], the Securities and Exchange Commission shall revise section 230.701(e) of title 17, Code of Federal Regulations, so as to increase from $5,000,000 to $10,000,000 the aggregate sales price or amount of securities sold during any consecutive 12-month period in excess of which the issuer is required under such section to deliver an additional disclosure to investors. The Commission shall index for inflation such aggregate sales price or amount every 5 years to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, rounding to the nearest $1,000,000.”
+Pub. L. 115–174, title V, § 507, May 24, 2018, 132 Stat. 1363, provided that: “Not later than 60 days after the date of the enactment of this Act [May 24, 2018], the Securities and Exchange Commission shall revise section 230.701(e) of title 17, Code of Federal Regulations, so as to increase from $5,000,000 to $10,000,000 the aggregate sales price or amount of securities sold during any consecutive 12-month period in excess of which the issuer is required under such section to deliver an additional disclosure to investors. The Commission shall index for inflation such aggregate sales price or amount every 5 years to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, rounding to the nearest $1,000,000.”
 
 **Fair Access to Investment Research**
 
@@ -1089,9 +1089,9 @@ Pub. L. 115–66, Oct. 6, 2017, 131 Stat. 1196, provided that:
 
 **Increased Access to Foreign Business Information**
 
-Pub. L. 104–290, title I, § 109, Oct. 11, 1996, 110 Stat. 3426, provided that: “Not later than 1 year after the date of enactment of this Act [Oct. 11, 1996], the Commission shall adopt rules under the Securities Act of 1933 [15 U.S.C. 77a et seq.] concerning the status under the registration provisions of the Securities Act of 1933 of foreign press conferences and foreign press releases by persons engaged in the offer and sale of securities.”
+Pub. L. 104–290, title I, § 109, Oct. 11, 1996, 110 Stat. 3426, provided that: “Not later than 1 year after the date of enactment of this Act [Oct. 11, 1996], the Commission shall adopt rules under the Securities Act of 1933 [15 U.S.C. 77a et seq.] concerning the status under the registration provisions of the Securities Act of 1933 of foreign press conferences and foreign press releases by persons engaged in the offer and sale of securities.”
 
-### § 77f. Registration of securities
+### § 77f. Registration of securities
 
 **(a) Method of registration**
 
@@ -1101,9 +1101,9 @@ Any security may be registered with the Commission under the terms and condition
 
 **(1) Fee payment required**
 
-At the time of filing a registration statement, the applicant shall pay to the Commission a fee at a rate that shall be equal to $92 1
+At the time of filing a registration statement, the applicant shall pay to the Commission a fee at a rate that shall be equal to $92 1
 
-<sup>1</sup>  See Adjustment of Registration Fee Rate notes below.
+<sup>1</sup> See Adjustment of Registration Fee Rate notes below.
 
 per $1,000,000 of the maximum aggregate price at which such securities are proposed to be offered, except that during fiscal year 2003 and any succeeding fiscal year such fee shall be adjusted pursuant to paragraph (2).
 
@@ -1121,9 +1121,9 @@ In exercising its authority under this subsection, the Commission shall not be r
 
 **(5) Publication**
 
-The Commission shall publish in the Federal Register notices of the rate applicable under this subsection and under sections 78m(e) and 78n(g) 2
+The Commission shall publish in the Federal Register notices of the rate applicable under this subsection and under sections 78m(e) and 78n(g) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title for each fiscal year not later than August 31 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such rate is based.
 
@@ -1178,7 +1178,7 @@ Any emerging growth company, prior to its initial public offering date, may conf
 
 Notwithstanding any other provision of this subchapter, the Commission shall not be compelled to disclose any information provided to or obtained by the Commission pursuant to this subsection. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. Information described in or obtained pursuant to this subsection shall be deemed to constitute confidential information for purposes of section 78x(b)(2) of this title.
 
-(May 27, 1933, ch. 38, title I, § 6, 48 Stat. 78; Pub. L. 89–289, § 1, Oct. 22, 1965, 79 Stat. 1051; Pub. L. 100–181, title II, § 205, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title IV, § 404, Oct. 11, 1996, 110 Stat. 3441; Pub. L. 107–123, § 4, Jan. 16, 2002, 115 Stat. 2393; Pub. L. 111–203, title IX, § 991(b)(1), July 21, 2010, 124 Stat. 1951; Pub. L. 112–106, title I, § 106(a), Apr. 5, 2012, 126 Stat. 312; Pub. L. 114–94, div. G, title LXXI, §§ 71001, 71002, Dec. 4, 2015, 129 Stat. 1783.)
+(May 27, 1933, ch. 38, title I, § 6, 48 Stat. 78; Pub. L. 89–289, § 1, Oct. 22, 1965, 79 Stat. 1051; Pub. L. 100–181, title II, § 205, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title IV, § 404, Oct. 11, 1996, 110 Stat. 3441; Pub. L. 107–123, § 4, Jan. 16, 2002, 115 Stat. 2393; Pub. L. 111–203, title IX, § 991(b)(1), July 21, 2010, 124 Stat. 1951; Pub. L. 112–106, title I, § 106(a), Apr. 5, 2012, 126 Stat. 312; Pub. L. 114–94, div. G, title LXXI, §§ 71001, 71002, Dec. 4, 2015, 129 Stat. 1783.)
 
 **Editorial Notes**
 
@@ -1192,17 +1192,17 @@ Sections 78m(e) and 78n(g) of this title, referred to in subsec. (b)(5), were in
 
 2012—Subsec. (e). Pub. L. 112–106 added subsec. (e).
 
-2010—Subsec. (b). Pub. L. 111–203, § 991(b)(1)(A)–(G), in par. (5), substituted “target fee” for “target offsetting” and, in par. (11)(A), substituted “Target fee” for “Target offsetting” in heading and table and “target fee” for “target offsetting” in introductory provisions, redesignated pars. (2), (5), (7), (10), and (11) as (1), (2), (3), (5), and (6), respectively, and struck out former pars. (1), (3), (4), (6), (8), and (9) which related to recovery of cost of services, offsetting collections, prohibition of treatment of fees as general revenues, final rate adjustment, review and effective date of rates, and rate during lapse of appropriation, respectively.
+2010—Subsec. (b). Pub. L. 111–203, § 991(b)(1)(A)–(G), in par. (5), substituted “target fee” for “target offsetting” and, in par. (11)(A), substituted “Target fee” for “Target offsetting” in heading and table and “target fee” for “target offsetting” in introductory provisions, redesignated pars. (2), (5), (7), (10), and (11) as (1), (2), (3), (5), and (6), respectively, and struck out former pars. (1), (3), (4), (6), (8), and (9) which related to recovery of cost of services, offsetting collections, prohibition of treatment of fees as general revenues, final rate adjustment, review and effective date of rates, and rate during lapse of appropriation, respectively.
 
-Subsec. (b)(1). Pub. L. 111–203, § 991(b)(1)(H), substituted “paragraph (2).” for “paragraph (5) or (6).”
+Subsec. (b)(1). Pub. L. 111–203, § 991(b)(1)(H), substituted “paragraph (2).” for “paragraph (5) or (6).”
 
-Subsec. (b)(2). Pub. L. 111–203, § 991(b)(1)(I), substituted “For each fiscal year” for “For each of the fiscal years 2003 through 2011” and “paragraph (1)” for “paragraph (2)”.
+Subsec. (b)(2). Pub. L. 111–203, § 991(b)(1)(I), substituted “For each fiscal year” for “For each of the fiscal years 2003 through 2011” and “paragraph (1)” for “paragraph (2)”.
 
-Subsec. (b)(4). Pub. L. 111–203, § 991(b)(1)(J), added par. (4). Former par. (4) struck out.
+Subsec. (b)(4). Pub. L. 111–203, § 991(b)(1)(J), added par. (4). Former par. (4) struck out.
 
-Subsec. (b)(5). Pub. L. 111–203, § 991(b)(1)(K), substituted “August 31” for “April 30”.
+Subsec. (b)(5). Pub. L. 111–203, § 991(b)(1)(K), substituted “August 31” for “April 30”.
 
-Subsec. (b)(6)(A). Pub. L. 111–203, § 991(b)(1)(L), substituted “each fiscal year” for “each of the fiscal years 2002 through 2011” in introductory provisions and, in table, added items for fiscal years 2012 to 2021 and each fiscal year thereafter.
+Subsec. (b)(6)(A). Pub. L. 111–203, § 991(b)(1)(L), substituted “each fiscal year” for “each of the fiscal years 2002 through 2011” in introductory provisions and, in table, added items for fiscal years 2012 to 2021 and each fiscal year thereafter.
 
 2002—Subsec. (b)(2) to (11). Pub. L. 107–123 added pars. (2) to (11) and struck out former pars. (2) to (5), which required fee payment, set out rates for general revenue and offsetting collection fees, and required pro rata rates for amounts and balances equal to less than $1,000,000.
 
@@ -1216,7 +1216,7 @@ Subsec. (b)(6)(A). Pub. L. 111–203, § 991(b)(1)(L), substituted “each fis
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–203, title IX, § 991(b)(4), July 21, 2010, 124 Stat. 1953, provided that: “The amendments made by this subsection [amending this section and sections 78m and 78n of this title] shall take effect on October 1, 2011, except that for fiscal year 2012, the [Securities and Exchange] Commission shall publish the rate established under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)), as amended by this Act, on August 31, 2011.”
+Pub. L. 111–203, title IX, § 991(b)(4), July 21, 2010, 124 Stat. 1953, provided that: “The amendments made by this subsection [amending this section and sections 78m and 78n of this title] shall take effect on October 1, 2011, except that for fiscal year 2012, the [Securities and Exchange] Commission shall publish the rate established under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)), as amended by this Act, on August 31, 2011.”
 
 **Effective Date of 2002 Amendment**
 
@@ -1224,23 +1224,23 @@ Amendment by Pub. L. 107–123 effective Oct. 1, 2001, except that authorities p
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–289, § 2, Oct. 22, 1965, 79 Stat. 1051, provided that: “The amendment made by the first section of this Act [amending this section] shall take effect January 1, 1966.”
+Pub. L. 89–289, § 2, Oct. 22, 1965, 79 Stat. 1051, provided that: “The amendment made by the first section of this Act [amending this section] shall take effect January 1, 1966.”
 
 **Increase in Registration Fees and Deposit Into Treasury**
 
-Pub. L. 105–46, § 113, Sept. 30, 1997, 111 Stat. 1156, provided that the amount made available to the Securities and Exchange Commission, under the heading Salaries and Expenses, was to include, in addition to direct appropriations, the amount collected under the fee rate and offsetting collection authority contained in Public Law 104–208, which fee rate and offsetting collection authority was to remain in effect during the period of Pub. L. 105–46 which provided continuing appropriations for fiscal year 1998.
+Pub. L. 105–46, § 113, Sept. 30, 1997, 111 Stat. 1156, provided that the amount made available to the Securities and Exchange Commission, under the heading Salaries and Expenses, was to include, in addition to direct appropriations, the amount collected under the fee rate and offsetting collection authority contained in Public Law 104–208, which fee rate and offsetting collection authority was to remain in effect during the period of Pub. L. 105–46 which provided continuing appropriations for fiscal year 1998.
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title V], Sept. 30, 1996, 110 Stat. 3009, 3009–61, which provided in part that on Sept. 30, 1996, the rate of fees under subsec. (b) of this section were increased from one-fiftieth of one percentum to one-thirty-third of one percentum, and such increase was to be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover costs of services of the securities registration process, was from the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 104–208, div. A, title I, § 101(a) [title V], Sept. 30, 1996, 110 Stat. 3009, 3009–61, which provided in part that on Sept. 30, 1996, the rate of fees under subsec. (b) of this section were increased from one-fiftieth of one percentum to one-thirty-third of one percentum, and such increase was to be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover costs of services of the securities registration process, was from the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 104–134, title I, § 101[(a)] [title V], Apr. 26, 1996, 110 Stat. 1321, 1321–60; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101[(a)] [title V], Apr. 26, 1996, 110 Stat. 1321, 1321–60; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
-Pub. L. 104–99, title II, § 209, Jan. 26, 1996, 110 Stat. 37.
+Pub. L. 104–99, title II, § 209, Jan. 26, 1996, 110 Stat. 37.
 
-Pub. L. 104–56, § 119, Nov. 20, 1995, 109 Stat. 552.
+Pub. L. 104–56, § 119, Nov. 20, 1995, 109 Stat. 552.
 
-Pub. L. 104–54, § 119, Nov. 19, 1995, 109 Stat. 544.
+Pub. L. 104–54, § 119, Nov. 19, 1995, 109 Stat. 544.
 
-Pub. L. 104–31, § 120, Sept. 30, 1995, 109 Stat. 282.
+Pub. L. 104–31, § 120, Sept. 30, 1995, 109 Stat. 282.
 
 Pub. L. 103–352, Oct. 10, 1994, 108 Stat. 3148.
 
@@ -1286,9 +1286,9 @@ By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted th
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77g. Information required in registration statement
+### § 77g. Information required in registration statement
 
 **(a) Information required in registration statement**
 
@@ -1348,9 +1348,9 @@ The Commission shall, by rule, adopt data standards for all disclosures required
 
 The data standards required under subparagraph (A) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
 
-**(d) Registration statement for asset-backed securities** Not later than 180 days after July 21, 2010, the Commission shall issue rules relating to the registration statement required to be filed by any issuer of an asset-backed security (as that term is defined in section 78c(a)(77) 1
+**(d) Registration statement for asset-backed securities** Not later than 180 days after July 21, 2010, the Commission shall issue rules relating to the registration statement required to be filed by any issuer of an asset-backed security (as that term is defined in section 78c(a)(77) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) that require any issuer of an asset-backed security—
 
@@ -1358,13 +1358,13 @@ of this title) that require any issuer of an asset-backed security—
 
 **(2)** to disclose the nature of the review under paragraph (1).
 
-(May 27, 1933, ch. 38, title I, § 7, 48 Stat. 78; Pub. L. 101–429, title V, § 508, Oct. 15, 1990, 104 Stat. 956; Pub. L. 111–203, title IX, §§ 942(b), 945, July 21, 2010, 124 Stat. 1897, 1898; Pub. L. 112–106, title I, § 102(b)(1), Apr. 5, 2012, 126 Stat. 309; Pub. L. 117–263, div. E, title LVIII, § 5821(d), Dec. 23, 2022, 136 Stat. 3425.)
+(May 27, 1933, ch. 38, title I, § 7, 48 Stat. 78; Pub. L. 101–429, title V, § 508, Oct. 15, 1990, 104 Stat. 956; Pub. L. 111–203, title IX, §§ 942(b), 945, July 21, 2010, 124 Stat. 1897, 1898; Pub. L. 112–106, title I, § 102(b)(1), Apr. 5, 2012, 126 Stat. 309; Pub. L. 117–263, div. E, title LVIII, § 5821(d), Dec. 23, 2022, 136 Stat. 3425.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 78c(a)(77) of this title, referred to in subsec. (d), was redesignated section 78c(a)(79) of this title by Pub. L. 112–106, title I, § 101(b)(1), Apr. 5, 2012, 126 Stat. 307.
+Section 78c(a)(77) of this title, referred to in subsec. (d), was redesignated section 78c(a)(79) of this title by Pub. L. 112–106, title I, § 101(b)(1), Apr. 5, 2012, 126 Stat. 307.
 
 **Amendments**
 
@@ -1372,9 +1372,9 @@ Section 78c(a)(77) of this title, referred to in subsec. (d), was redesignated s
 
 2012—Subsec. (a). Pub. L. 112–106 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-2010—Subsec. (c). Pub. L. 111–203, § 942(b), added subsec. (c).
+2010—Subsec. (c). Pub. L. 111–203, § 942(b), added subsec. (c).
 
-Subsec. (d). Pub. L. 111–203, § 945, added subsec. (d).
+Subsec. (d). Pub. L. 111–203, § 945, added subsec. (d).
 
 1990—Pub. L. 101–429 designated existing provision as subsec. (a) and added subsec. (b).
 
@@ -1386,7 +1386,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–429, § 1(c), Oct. 15, 1990, 104 Stat. 931, provided that:
+Pub. L. 101–429, § 1(c), Oct. 15, 1990, 104 Stat. 931, provided that:
 
 > **“(1) In general.—** Except as provided in paragraphs (2) and (3), the amendments made by this Act [enacting sections 77h–1, 78q–2, 78u–2, and 78u–3 of this title, amending this section and sections 77t, 78c, 78*o*, 78*o*–3, 78*o*–4, 78q–1, 78u, 78u–1, 78w, 78cc, 80a–9, 80a–41, 80b–3, 80b–9, and 80b–14 of this title, and enacting provisions set out as notes under sections 78a, 78*o*, and 78s of this title] shall be effective upon enactment [Oct. 15, 1990].
 
@@ -1406,7 +1406,7 @@ Pub. L. 101–429, § 1(c), Oct. 15, 1990, 104 Stat. 931, provided that:
 
 **Rulemaking**
 
-Pub. L. 117–263, div. E, title LVIII, § 5821(i), Dec. 23, 2022, 136 Stat. 3427, provided that:
+Pub. L. 117–263, div. E, title LVIII, § 5821(i), Dec. 23, 2022, 136 Stat. 3427, provided that:
 
 > **“(1) In general.—** The rules that the Securities and Exchange Commission are required to issue under the amendments made by this section [enacting sections 77z–4 and 78rr of this title and amending this section and sections 78m, 78n, 78*o*–7, 80a–8, 80a–29, and 80b–4 of this title] shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [12 U.S.C. 5334(b)(2)], as added by section 5811(a) of this title.
 
@@ -1418,7 +1418,7 @@ Pub. L. 117–263, div. E, title LVIII, § 5821(i), Dec. 23, 2022, 136 Stat. 3
 
 **Improvement of Regulation S–K**
 
-Pub. L. 114–94, div. G, title LXXII, § 72002, Dec. 4, 2015, 129 Stat. 1784, provided that:
+Pub. L. 114–94, div. G, title LXXII, § 72002, Dec. 4, 2015, 129 Stat. 1784, provided that:
 
 > “Not later than the end of the 180-day period beginning on the date of the enactment of this Act [Dec. 4, 2015], the Securities and Exchange Commission shall take all such actions to revise regulation S–K (17 CFR 229.10 et seq.)—
 
@@ -1430,11 +1430,11 @@ Pub. L. 114–94, div. G, title LXXII, § 72002, Dec. 4, 2015, 129 Stat. 1784,
 
 **Rule of Construction—No New Disclosure Requirements**
 
-Pub. L. 117–263, div. E, title LVIII, § 5826, Dec. 23, 2022, 136 Stat. 3430, provided that: “Nothing in this subtitle [subtitle B (§§ 5821–5826) of title LVIII of div. E of Pub. L. 117–263, enacting sections 77z–4 and 78rr of this title, amending this section and sections 78d, 78m, 78n, 78*o*–3, 78*o*–4, 78*o*–7, 80a–8, 80a–29, and 80b–4 of this title, and enacting provisions set out as notes under this section and sections 78*o*–3 and 78*o*–4 of this title], or the amendments made by this subtitle, shall be construed to require the Securities and Exchange Commission, the Municipal Securities Rulemaking Board, or any national securities association to collect or make publicly available additional information under the provisions of law amended by this subtitle (or under any provision of law referenced in an amendment made by this subtitle), beyond information that was collected or made publicly available under any such provision, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. E, title LVIII, § 5826, Dec. 23, 2022, 136 Stat. 3430, provided that: “Nothing in this subtitle [subtitle B (§§ 5821–5826) of title LVIII of div. E of Pub. L. 117–263, enacting sections 77z–4 and 78rr of this title, amending this section and sections 78d, 78m, 78n, 78*o*–3, 78*o*–4, 78*o*–7, 80a–8, 80a–29, and 80b–4 of this title, and enacting provisions set out as notes under this section and sections 78*o*–3 and 78*o*–4 of this title], or the amendments made by this subtitle, shall be construed to require the Securities and Exchange Commission, the Municipal Securities Rulemaking Board, or any national securities association to collect or make publicly available additional information under the provisions of law amended by this subtitle (or under any provision of law referenced in an amendment made by this subtitle), beyond information that was collected or made publicly available under any such provision, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
 
 **Shorter-Term Burden Reduction and Disclosure Simplification at the Securities and Exchange Commission; Sunset**
 
-Pub. L. 117–263, div. E, title LVIII, § 5825, Dec. 23, 2022, 136 Stat. 3429, provided that:
+Pub. L. 117–263, div. E, title LVIII, § 5825, Dec. 23, 2022, 136 Stat. 3429, provided that:
 
 > **“(a) Better Enforcement of the Quality of Corporate Financial Data Submitted to the Securities and Exchange Commission.—**
 
@@ -1472,15 +1472,15 @@ Pub. L. 117–263, div. E, title LVIII, § 5825, Dec. 23, 2022, 136 Stat. 3429
 
 **Forward Incorporation by Reference for Form S–1**
 
-Pub. L. 114–94, div. G, title LXXXIV, § 84001, Dec. 4, 2015, 129 Stat. 1797, provided that: “Not later than 45 days after the date of the enactment of this Act [Dec. 4, 2015], the Securities and Exchange Commission shall revise Form S–1 so as to permit a smaller reporting company (as defined in section 230.405 of title 17, Code of Federal Regulations) to incorporate by reference in a registration statement filed on such form any documents that such company files with the Commission after the effective date of such registration statement.”
+Pub. L. 114–94, div. G, title LXXXIV, § 84001, Dec. 4, 2015, 129 Stat. 1797, provided that: “Not later than 45 days after the date of the enactment of this Act [Dec. 4, 2015], the Securities and Exchange Commission shall revise Form S–1 so as to permit a smaller reporting company (as defined in section 230.405 of title 17, Code of Federal Regulations) to incorporate by reference in a registration statement filed on such form any documents that such company files with the Commission after the effective date of such registration statement.”
 
 **Other Disclosures**
 
-Pub. L. 112–106, title I, § 102(c), Apr. 5, 2012, 126 Stat. 310, provided that: “An emerging growth company may comply with section 229.303(a) of title 17, Code of Federal Regulations, or any successor thereto, by providing information required by such section with respect to the financial statements of the emerging growth company for each period presented pursuant to section 7(a) of the Securities Act of 1933 (15 U.S.C. 77g(a)). An emerging growth company may comply with section 229.402 of title 17, Code of Federal Regulations, or any successor thereto, by disclosing the same information as any issuer with a market value of outstanding voting and nonvoting common equity held by non-affiliates of less than $75,000,000.”
+Pub. L. 112–106, title I, § 102(c), Apr. 5, 2012, 126 Stat. 310, provided that: “An emerging growth company may comply with section 229.303(a) of title 17, Code of Federal Regulations, or any successor thereto, by providing information required by such section with respect to the financial statements of the emerging growth company for each period presented pursuant to section 7(a) of the Securities Act of 1933 (15 U.S.C. 77g(a)). An emerging growth company may comply with section 229.402 of title 17, Code of Federal Regulations, or any successor thereto, by disclosing the same information as any issuer with a market value of outstanding voting and nonvoting common equity held by non-affiliates of less than $75,000,000.”
 
 **Simplified Disclosure Requirements**
 
-Pub. L. 112–106, title I, § 102(d), as added by Pub. L. 114–94, div. G, title LXXI, § 71003, Dec. 4, 2015, 129 Stat. 1783, provided that:
+Pub. L. 112–106, title I, § 102(d), as added by Pub. L. 114–94, div. G, title LXXI, § 71003, Dec. 4, 2015, 129 Stat. 1783, provided that:
 
 > “With respect to an emerging growth company (as such term is defined under section 2 of the Securities Act of 1933 [15 U.S.C. 77b]):
 
@@ -1500,9 +1500,9 @@ Pub. L. 112–106, title I, § 102(d), as added by Pub. L. 114–94, div. G, t
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77h. Taking effect of registration statements and amendments thereto
+### § 77h. Taking effect of registration statements and amendments thereto
 
 **(a) Effective date of registration statement**
 
@@ -1528,7 +1528,7 @@ The Commission is empowered to make an examination in any case in order to deter
 
 Any notice required under this section shall be sent to or served on the issuer, or, in case of a foreign government or political subdivision thereof, to or on the underwriter, or, in the case of a foreign or Territorial person, to or on its duly authorized representative in the United States named in the registration statement, properly directed in each case of telegraphic notice to the address given in such statement.
 
-(May 27, 1933, ch. 38, title I, § 8, 48 Stat. 79; Aug. 22, 1940, ch. 686, title III, § 301, 54 Stat. 857.)
+(May 27, 1933, ch. 38, title I, § 8, 48 Stat. 79; Aug. 22, 1940, ch. 686, title III, § 301, 54 Stat. 857.)
 
 **Editorial Notes**
 
@@ -1540,9 +1540,9 @@ Any notice required under this section shall be sent to or served on the issuer,
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77h–1. Cease-and-desist proceedings
+### § 77h–1. Cease-and-desist proceedings
 
 **(a) Authority of Commission**
 
@@ -1628,7 +1628,7 @@ Notwithstanding subparagraph (A), the maximum amount of penalty for each such ac
 
 In any proceeding in which the Commission may impose a penalty under this section, a respondent may present evidence of the ability of the respondent to pay such penalty. The Commission may, in its discretion, consider such evidence in determining whether such penalty is in the public interest. Such evidence may relate to the extent of the ability of the respondent to continue in business and the collectability of a penalty, taking into account any other claims of the United States or third parties upon the assets of the respondent and the amount of the assets of the respondent.
 
-(May 27, 1933, ch. 38, title I, § 8A, as added Pub. L. 101–429, title I, § 102, Oct. 15, 1990, 104 Stat. 933; amended Pub. L. 107–204, title XI, § 1105(b), July 30, 2002, 116 Stat. 809; Pub. L. 111–203, title IX, § 929P(a)(1), July 21, 2010, 124 Stat. 1862.)
+(May 27, 1933, ch. 38, title I, § 8A, as added Pub. L. 101–429, title I, § 102, Oct. 15, 1990, 104 Stat. 933; amended Pub. L. 107–204, title XI, § 1105(b), July 30, 2002, 116 Stat. 809; Pub. L. 111–203, title IX, § 929P(a)(1), July 21, 2010, 124 Stat. 1862.)
 
 **Editorial Notes**
 
@@ -1648,13 +1648,13 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 Section effective Oct. 15, 1990, with provisions relating to civil penalties and accounting and disgorgement, see section 1(c)(1) and (2) of Pub. L. 101–429, set out in an Effective Date of 1990 Amendment note under section 77g of this title.
 
-### § 77i. Court review of orders
+### § 77i. Court review of orders
 
 **(a)** Any person aggrieved by an order of the Commission may obtain a review of such order in the court of appeals of the United States, within any circuit wherein such person resides or has his principal place of business, or in the United States Court of Appeals for the District of Columbia, by filing in such Court, within sixty days after the entry of such order, a written petition praying that the order of the Commission be modified or be set aside in whole or in part. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Commission, and thereupon the Commission shall file in the court the record upon which the order complained of was entered, as provided in section 2112 of title 28. No objection to the order of the Commission shall be considered by the court unless such objection shall have been urged before the Commission. The finding of the Commission as to the facts, if supported by evidence, shall be conclusive. If either party shall apply to the court for leave to adduce additional evidence, and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for failure to adduce such evidence in the hearing before the Commission, the court may order such additional evidence to be taken before the Commission and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings as to the facts, by reason of the additional evidence so taken, and it shall file such modified or new findings, which, if supported by evidence, shall be conclusive, and its recommendation, if any, for the modification or setting aside of the original order. The jurisdiction of the court shall be exclusive and its judgment and decree, affirming, modifying, or setting aside, in whole or in part, any order of the Commission, shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
 **(b)** The commencement of proceedings under subsection (a) shall not, unless specifically ordered by the court, operate as a stay of the Commission’s order.
 
-(May 27, 1933, ch. 38, title I, § 9, 48 Stat. 80; Pub. L. 85–791, § 9, Aug. 28, 1958, 72 Stat. 945; Pub. L. 100–181, title II, § 206, Dec. 4, 1987, 101 Stat. 1252.)
+(May 27, 1933, ch. 38, title I, § 9, 48 Stat. 80; Pub. L. 85–791, § 9, Aug. 28, 1958, 72 Stat. 945; Pub. L. 100–181, title II, § 206, Dec. 4, 1987, 101 Stat. 1252.)
 
 **Editorial Notes**
 
@@ -1668,9 +1668,9 @@ Section effective Oct. 15, 1990, with provisions relating to civil penalties and
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77j. Information required in prospectus
+### § 77j. Information required in prospectus
 
 **(a) Information in registration statement; documents not required** Except to the extent otherwise permitted or required pursuant to this subsection or subsections (c), (d), or (e)—
 
@@ -1702,7 +1702,7 @@ The statements or information required to be included in a prospectus by or unde
 
 In any case where a prospectus consists of a radio or television broadcast, copies thereof shall be filed with the Commission under such rules and regulations as it shall prescribe. The Commission may by rules and regulations require the filing with it of forms and prospectuses used in connection with the offer or sale of securities registered under this subchapter.
 
-(May 27, 1933, ch. 38, title I, § 10, 48 Stat. 81; June 6, 1934, ch. 404, title II, § 205, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, § 8, 68 Stat. 685.)
+(May 27, 1933, ch. 38, title I, § 10, 48 Stat. 81; June 6, 1934, ch. 404, title II, § 205, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, § 8, 68 Stat. 685.)
 
 **Editorial Notes**
 
@@ -1722,9 +1722,9 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77k. Civil liabilities on account of false registration statement
+### § 77k. Civil liabilities on account of false registration statement
 
 **(a) Persons possessing cause of action; persons liable** In case any part of the registration statement, when such part became effective, contained an untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary to make the statements therein not misleading, any person acquiring such security (unless it is proved that at the time of such acquisition he knew of such untruth or omission) may, either at law or in equity, in any court of competent jurisdiction, sue—
 
@@ -1774,7 +1774,7 @@ The suit authorized under subsection (a) may be to recover such damages as shall
 
 In no case shall the amount recoverable under this section exceed the price at which the security was offered to the public.
 
-(May 27, 1933, ch. 38, title I, § 11, 48 Stat. 82; June 6, 1934, ch. 404, title II, § 206, 48 Stat. 907; Pub. L. 104–67, title II, § 201(b), Dec. 22, 1995, 109 Stat. 762; Pub. L. 105–353, title III, § 301(a)(2), Nov. 3, 1998, 112 Stat. 3235.)
+(May 27, 1933, ch. 38, title I, § 11, 48 Stat. 82; June 6, 1934, ch. 404, title II, § 206, 48 Stat. 907; Pub. L. 104–67, title II, § 201(b), Dec. 22, 1995, 109 Stat. 762; Pub. L. 105–353, title III, § 301(a)(2), Nov. 3, 1998, 112 Stat. 3235.)
 
 **Editorial Notes**
 
@@ -1792,7 +1792,7 @@ Subsecs. (b)(3), (c) to (e). Act June 6, 1934, amended subsecs. (b)(3) and (c) t
 
 **Effective Date of 1995 Amendment**
 
-Pub. L. 104–67, title II, § 202, Dec. 22, 1995, 109 Stat. 762, provided that: “The amendments made by this title [amending this section and section 78u–4 of this title] shall not affect or apply to any private action arising under the securities laws commenced before and pending on the date of enactment of this Act [Dec. 22, 1995].”
+Pub. L. 104–67, title II, § 202, Dec. 22, 1995, 109 Stat. 762, provided that: “The amendments made by this title [amending this section and section 78u–4 of this title] shall not affect or apply to any private action arising under the securities laws commenced before and pending on the date of enactment of this Act [Dec. 22, 1995].”
 
 **Construction of 1995 Amendment**
 
@@ -1802,9 +1802,9 @@ Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any im
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77l. Civil liabilities arising in connection with prospectuses and communications
+### § 77l. Civil liabilities arising in connection with prospectuses and communications
 
 **(a) In general** Any person who—
 
@@ -1818,7 +1818,7 @@ shall be liable, subject to subsection (b), to the person purchasing such securi
 
 In an action described in subsection (a)(2), if the person who offered or sold such security proves that any portion or all of the amount recoverable under subsection (a)(2) represents other than the depreciation in value of the subject security resulting from such part of the prospectus or oral communication, with respect to which the liability of that person is asserted, not being true or omitting to state a material fact required to be stated therein or necessary to make the statement not misleading, then such portion or amount, as the case may be, shall not be recoverable.
 
-(May 27, 1933, ch. 38, title I, § 12, 48 Stat. 84; Aug. 10, 1954, ch. 667, title I, § 9, 68 Stat. 686; Pub. L. 104–67, title I, § 105, Dec. 22, 1995, 109 Stat. 757; Pub. L. 106–554, § 1(a)(5) [title II, § 208(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–435.)
+(May 27, 1933, ch. 38, title I, § 12, 48 Stat. 84; Aug. 10, 1954, ch. 667, title I, § 9, 68 Stat. 686; Pub. L. 104–67, title I, § 105, Dec. 22, 1995, 109 Stat. 757; Pub. L. 106–554, § 1(a)(5) [title II, § 208(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–435.)
 
 **Editorial Notes**
 
@@ -1826,7 +1826,7 @@ In an action described in subsection (a)(2), if the person who offered or sold s
 
 2000—Subsec. (a)(2). Pub. L. 106–554 substituted “paragraphs (2) and (14)” for “paragraph (2)”.
 
-1995—Pub. L. 104–67 designated existing provisions as subsec. (a), inserted heading, inserted “, subject to subsection (b),” after “shall be liable” in concluding provisions, and added subsec. (b).
+1995—Pub. L. 104–67 designated existing provisions as subsec. (a), inserted heading, inserted “, subject to subsection (b),” after “shall be liable” in concluding provisions, and added subsec. (b).
 
 1954—Act Aug. 10, 1954, inserted “offers or” before “sells” in pars. (1) and (2).
 
@@ -1834,7 +1834,7 @@ In an action described in subsection (a)(2), if the person who offered or sold s
 
 **Effective Date of 1995 Amendment**
 
-Pub. L. 104–67, title I, § 108, Dec. 22, 1995, 109 Stat. 758, provided that: “The amendments made by this title [enacting sections 77z–1, 77z–2, 78u–4, and 78u–5 of this title and amending this section and sections 77t, 78*o*, 78t, and 78u of this title and section 1964 of Title 18, Crimes and Criminal Procedure] shall not affect or apply to any private action arising under title I of the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.] or title I of the Securities Act of 1933 [15 U.S.C. 77a et seq.], commenced before and pending on the date of enactment of this Act [Dec. 22, 1995].”
+Pub. L. 104–67, title I, § 108, Dec. 22, 1995, 109 Stat. 758, provided that: “The amendments made by this title [enacting sections 77z–1, 77z–2, 78u–4, and 78u–5 of this title and amending this section and sections 77t, 78*o*, 78t, and 78u of this title and section 1964 of Title 18, Crimes and Criminal Procedure] shall not affect or apply to any private action arising under title I of the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.] or title I of the Securities Act of 1933 [15 U.S.C. 77a et seq.], commenced before and pending on the date of enactment of this Act [Dec. 22, 1995].”
 
 **Effective Date of 1954 Amendment**
 
@@ -1844,11 +1844,11 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a Construction note under section 78j–1 of this title.
 
-### § 77m. Limitation of actions
+### § 77m. Limitation of actions
 
 No action shall be maintained to enforce any liability created under section 77k or 77*l*(a)(2) of this title unless brought within one year after the discovery of the untrue statement or the omission, or after such discovery should have been made by the exercise of reasonable diligence, or, if the action is to enforce a liability created under section 77*l*(a)(1) of this title, unless brought within one year after the violation upon which it is based. In no event shall any such action be brought to enforce a liability created under section 77k or 77*l*(a)(1) of this title more than three years after the security was bona fide offered to the public, or under section 77*l*(a)(2) of this title more than three years after the sale.
 
-(May 27, 1933, ch. 38, title I, § 13, 48 Stat. 84; June 6, 1934, ch. 404, title II, § 207, 48 Stat. 908; Pub. L. 105–353, title III, § 301(a)(3), Nov. 3, 1998, 112 Stat. 3235.)
+(May 27, 1933, ch. 38, title I, § 13, 48 Stat. 84; June 6, 1934, ch. 404, title II, § 207, 48 Stat. 908; Pub. L. 105–353, title III, § 301(a)(3), Nov. 3, 1998, 112 Stat. 3235.)
 
 **Editorial Notes**
 
@@ -1858,19 +1858,19 @@ No action shall be maintained to enforce any liability created under section 77k
 
 1934—Act June 6, 1934, substituted “one year” for “two years”, “three years” for “ten years”, and inserted “or under section 77*l*(2) of this title more than three years after the sale”.
 
-### § 77n. Contrary stipulations void
+### § 77n. Contrary stipulations void
 
 Any condition, stipulation, or provision binding any person acquiring any security to waive compliance with any provision of this subchapter or of the rules and regulations of the Commission shall be void.
 
-(May 27, 1933, ch. 38, title I, § 14, 48 Stat. 84.)
+(May 27, 1933, ch. 38, title I, § 14, 48 Stat. 84.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77o. Liability of controlling persons
+### § 77o. Liability of controlling persons
 
 **(a) Controlling persons**
 
@@ -1880,7 +1880,7 @@ Every person who, by or through stock ownership, agency, or otherwise, or who, p
 
 For purposes of any action brought by the Commission under subparagraph (b) or (d) of section 77t of this title, any person that knowingly or recklessly provides substantial assistance to another person in violation of a provision of this subchapter, or of any rule or regulation issued under this subchapter, shall be deemed to be in violation of such provision to the same extent as the person to whom such assistance is provided.
 
-(May 27, 1933, ch. 38, title I, § 15, 48 Stat. 84; June 6, 1934, ch. 404, title II, § 208, 48 Stat. 908; Pub. L. 111–203, title IX, § 929M(a), July 21, 2010, 124 Stat. 1861.)
+(May 27, 1933, ch. 38, title I, § 15, 48 Stat. 84; June 6, 1934, ch. 404, title II, § 208, 48 Stat. 908; Pub. L. 111–203, title IX, § 929M(a), July 21, 2010, 124 Stat. 1861.)
 
 **Editorial Notes**
 
@@ -1896,7 +1896,7 @@ For purposes of any action brought by the Commission under subparagraph (b) or (
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-### § 77p. Additional remedies; limitation on remedies
+### § 77p. Additional remedies; limitation on remedies
 
 **(a) Remedies additional**
 
@@ -1988,19 +1988,19 @@ Nothing in this paragraph shall be construed to affect the discretion of a State
 
 **(3) Covered security**
 
-The term “covered security” means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 77r(b) of this title at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under this subchapter pursuant to rules issued by the Commission under section 77d(2) 1
+The term “covered security” means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 77r(b) of this title at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under this subchapter pursuant to rules issued by the Commission under section 77d(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-(May 27, 1933, ch. 38, title I, § 16, 48 Stat. 84; Pub. L. 105–353, title I, § 101(a)(1), Nov. 3, 1998, 112 Stat. 3227.)
+(May 27, 1933, ch. 38, title I, § 16, 48 Stat. 84; Pub. L. 105–353, title I, § 101(a)(1), Nov. 3, 1998, 112 Stat. 3227.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 77d(2) of this title, referred to in subsec. (f)(3), was redesignated section 77d(a)(2) of this title by Pub. L. 112–106, title II, § 201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
+Section 77d(2) of this title, referred to in subsec. (f)(3), was redesignated section 77d(a)(2) of this title by Pub. L. 112–106, title II, § 201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
 
 **Amendments**
 
@@ -2010,13 +2010,13 @@ Section 77d(2) of this title, referred to in subsec. (f)(3), was redesignated se
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–353, title I, § 101(c), Nov. 3, 1998, 112 Stat. 3233, provided that: “The amendments made by this section [amending this section and sections 77v, 77z–1, 78u–4, and 78bb of this title] shall not affect or apply to any action commenced before and pending on the date of enactment of this Act [Nov. 3, 1998].”
+Pub. L. 105–353, title I, § 101(c), Nov. 3, 1998, 112 Stat. 3233, provided that: “The amendments made by this section [amending this section and sections 77v, 77z–1, 78u–4, and 78bb of this title] shall not affect or apply to any action commenced before and pending on the date of enactment of this Act [Nov. 3, 1998].”
 
-### § 77q. Fraudulent interstate transactions
+### § 77q. Fraudulent interstate transactions
 
-**(a) Use of interstate commerce for purpose of fraud or deceit** It shall be unlawful for any person in the offer or sale of any securities (including security-based swaps) or any security-based swap agreement (as defined in section 78c(a)(78) 1
+**(a) Use of interstate commerce for purpose of fraud or deceit** It shall be unlawful for any person in the offer or sale of any securities (including security-based swaps) or any security-based swap agreement (as defined in section 78c(a)(78) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) by the use of any means or instruments of transportation or communication in interstate commerce or by use of the mails, directly or indirectly—
 
@@ -2038,7 +2038,7 @@ The exemptions provided in section 77c of this title shall not apply to the prov
 
 The authority of the Commission under this section with respect to security-based swap agreements (as defined in section 78c(a)(78) of this title) shall be subject to the restrictions and limitations of section 77b–1(b) of this title.
 
-(May 27, 1933, ch. 38, title I, § 17, 48 Stat. 84; Aug. 10, 1954, ch. 667, title I, § 10, 68 Stat. 686; Pub. L. 106–554, § 1(a)(5) [title III, § 302(b), (c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–452; Pub. L. 111–203, title VII, § 762(c)(2), July 21, 2010, 124 Stat. 1759.)
+(May 27, 1933, ch. 38, title I, § 17, 48 Stat. 84; Aug. 10, 1954, ch. 667, title I, § 10, 68 Stat. 686; Pub. L. 106–554, § 1(a)(5) [title III, § 302(b), (c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–452; Pub. L. 111–203, title VII, § 762(c)(2), July 21, 2010, 124 Stat. 1759.)
 
 **Editorial Notes**
 
@@ -2048,11 +2048,11 @@ Section 78c(a)(78) of this title, referred to in subsec. (a), was in the origina
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 762(c)(2)(A), in introductory provisions, inserted “(including security-based swaps)” after “securities” and substituted “(as defined in section 78c(a)(78) of this title)” for “(as defined in section 206B of the Gramm-Leach-Bliley Act)”.
+2010—Subsec. (a). Pub. L. 111–203, § 762(c)(2)(A), in introductory provisions, inserted “(including security-based swaps)” after “securities” and substituted “(as defined in section 78c(a)(78) of this title)” for “(as defined in section 206B of the Gramm-Leach-Bliley Act)”.
 
-Subsec. (d). Pub. L. 111–203, § 762(c)(2)(B), substituted “78c(a)(78) of this title” for “206B of the Gramm-Leach-Bliley Act”.
+Subsec. (d). Pub. L. 111–203, § 762(c)(2)(B), substituted “78c(a)(78) of this title” for “206B of the Gramm-Leach-Bliley Act”.
 
-2000—Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title III, § 302(b)], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “It shall be unlawful for any person in the offer or sale of any securities by the use of any means or instruments of transportation or communication in interstate commerce or by the use of the mails, directly or indirectly—
+2000—Subsec. (a). Pub. L. 106–554, § 1(a)(5) [title III, § 302(b)], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “It shall be unlawful for any person in the offer or sale of any securities by the use of any means or instruments of transportation or communication in interstate commerce or by the use of the mails, directly or indirectly—
 
 “(1) to employ any device, scheme, or artifice to defraud, or
 
@@ -2060,7 +2060,7 @@ Subsec. (d). Pub. L. 111–203, § 762(c)(2)(B), substituted “78c(a)(78) of 
 
 “(3) to engage in any transaction, practice, or course of business which operates or would operate as a fraud or deceit upon the purchaser.”
 
-Subsec. (d). Pub. L. 106–554, § 1(a)(5) [title III, § 302(c)], added subsec. (d).
+Subsec. (d). Pub. L. 106–554, § 1(a)(5) [title III, § 302(c)], added subsec. (d).
 
 1954—Subsec. (a). Act Aug. 10, 1954, inserted “offer or” before “sale” in introductory text.
 
@@ -2068,13 +2068,13 @@ Subsec. (d). Pub. L. 106–554, § 1(a)(5) [title III, § 302(c)], added sub
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
 **Effective Date of 1954 Amendment**
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
 
-### § 77r. Exemption from State regulation of securities offerings
+### § 77r. Exemption from State regulation of securities offerings
 
 **(a) Scope of exemption** Except as otherwise provided in this section, no law, rule, regulation, or order, or other administrative action of any State or any political subdivision thereof—
 
@@ -2110,15 +2110,15 @@ A security is a covered security with respect to the offer or sale of the securi
 
 **(4) Exemption in connection with certain exempt offerings** A security is a covered security with respect to a transaction that is exempt from registration under this subchapter pursuant to—
 
-**(A)** paragraph (1) or (3) of section 77d 1
+**(A)** paragraph (1) or (3) of section 77d 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, and the issuer of such security files reports with the Commission pursuant to section 78m or 78*o*(d) of this title;
 
-**(B)** section 77d(4) <sup>1</sup> of this title;
+**(B)** section 77d(4) <sup>1</sup> of this title;
 
-**(C)** section 77d(6) <sup>1</sup> of this title;
+**(C)** section 77d(6) <sup>1</sup> of this title;
 
 **(D)** a rule or regulation adopted pursuant to section 77c(b)(2) of this title and such security is—
 
@@ -2128,15 +2128,15 @@ of this title, and the issuer of such security files reports with the Commission
 
 **(E)** section 77c(a) of this title, other than the offer or sale of a security that is exempt from such registration pursuant to paragraph (4), (10), or (11) of such section, except that a municipal security that is exempt from such registration pursuant to paragraph (2) of such section is not a covered security with respect to the offer or sale of such security in the State in which the issuer of such security is located;
 
-**(F)** Commission rules or regulations issued under section 77d(2) <sup>1</sup> of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) <sup>1</sup> of this title that are in effect on September 1, 1996; or
+**(F)** Commission rules or regulations issued under section 77d(2) <sup>1</sup> of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) <sup>1</sup> of this title that are in effect on September 1, 1996; or
 
 **(G)** section 77d(a)(7) of this title.
 
 **(c) Preservation of authority**
 
-**(1) Fraud authority** Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions 2
+**(1) Fraud authority** Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions 2
 
-<sup>2</sup>  So in original. The comma after “enforcement actions” probably should be a hyphen and the words “in connection with securities or securities transactions” probably should be part of subpar. (A).
+<sup>2</sup> So in original. The comma after “enforcement actions” probably should be a hyphen and the words “in connection with securities or securities transactions” probably should be part of subpar. (A).
 
 **(A)** with respect to—
 
@@ -2144,11 +2144,11 @@ of this title, and the issuer of such security files reports with the Commission
 
 **(ii)** unlawful conduct by a broker, dealer, or funding portal; and
 
-**(B)** in connection to 3
+**(B)** in connection to 3
 
-<sup>3</sup>  So in original. Probably should be “with”.
+<sup>3</sup> So in original. Probably should be “with”.
 
-a transaction described under section 77d(6) <sup>1</sup> of this title, with respect to—
+a transaction described under section 77d(6) <sup>1</sup> of this title, with respect to—
 
 **(i)** fraud or deceit; or
 
@@ -2184,7 +2184,7 @@ For purposes of this subparagraph, delays in payment of fees or underpayments of
 
 Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(1), or will be such a covered security upon completion of the transaction, or is a security of the same issuer that is equal in seniority or that is a senior security to a security that is a covered security pursuant to subsection (b)(1).
 
-**(F) 4 [footnote: 4 So in original. No subpar. (E) has been enacted.] Fees not permitted on crowdfunded securities**
+**(F) 4 [footnote: 4 So in original. No subpar. (E) has been enacted.] Fees not permitted on crowdfunded securities**
 
 Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(4)(B), or will be such a covered security upon completion of the transaction, except for the securities commission (or any agency or office performing like functions) of the State of the principal place of business of the issuer, or any State in which purchasers of 50 percent or greater of the aggregate amount of the issue are residents, provided that for purposes of this subparagraph, the term “State” includes the District of Columbia and the territories of the United States.
 
@@ -2212,63 +2212,63 @@ The term “State” has the same meaning as in section 78c of this title.
 
 The term “senior security” means any bond, debenture, note, or similar obligation or instrument constituting a security and evidencing indebtedness, and any stock of a class having priority over any other class as to distribution of assets or payment of dividends.
 
-(May 27, 1933, ch. 38, title I, § 18, 48 Stat. 85; Pub. L. 104–290, title I, § 102(a), Oct. 11, 1996, 110 Stat. 3417; Pub. L. 105–353, title III, §§ 301(a)(4), 302, Nov. 3, 1998, 112 Stat. 3235, 3237; Pub. L. 111–203, title IX, § 985(a)(2), July 21, 2010, 124 Stat. 1933; Pub. L. 112–106, title III, § 305(a), (b)(2), (c), (d)(2), title IV, § 401(b), Apr. 5, 2012, 126 Stat. 322, 323, 325; Pub. L. 114–94, div. G, title LXXVI, § 76001(b), Dec. 4, 2015, 129 Stat. 1789; Pub. L. 115–174, title V, § 501, May 24, 2018, 132 Stat. 1361.)
+(May 27, 1933, ch. 38, title I, § 18, 48 Stat. 85; Pub. L. 104–290, title I, § 102(a), Oct. 11, 1996, 110 Stat. 3417; Pub. L. 105–353, title III, §§ 301(a)(4), 302, Nov. 3, 1998, 112 Stat. 3235, 3237; Pub. L. 111–203, title IX, § 985(a)(2), July 21, 2010, 124 Stat. 1933; Pub. L. 112–106, title III, § 305(a), (b)(2), (c), (d)(2), title IV, § 401(b), Apr. 5, 2012, 126 Stat. 322, 323, 325; Pub. L. 114–94, div. G, title LXXVI, § 76001(b), Dec. 4, 2015, 129 Stat. 1789; Pub. L. 115–174, title V, § 501, May 24, 2018, 132 Stat. 1361.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Investment Company Act of 1940, referred to in subsec. (b)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (b)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
-Section 77d(1), (2), (3), (4), and (6) of this title, referred to in subsecs. (b)(4)(A) to (C), (E) and (c)(1)(B), were redesignated section 77d(a)(1), (2), (3), (4), and (6), respectively, of this title by Pub. L. 112–106, title II, § 201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
+Section 77d(1), (2), (3), (4), and (6) of this title, referred to in subsecs. (b)(4)(A) to (C), (E) and (c)(1)(B), were redesignated section 77d(a)(1), (2), (3), (4), and (6), respectively, of this title by Pub. L. 112–106, title II, § 201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
 
 **Amendments**
 
-2018—Subsec. (b)(1)(A). Pub. L. 115–174, § 501(1), (4), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “listed, or authorized for listing, on the New York Stock Exchange or the American Stock Exchange, or listed, or authorized for listing, on the National Market System of the Nasdaq Stock Market (or any successor to such entities);”.
+2018—Subsec. (b)(1)(A). Pub. L. 115–174, § 501(1), (4), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “listed, or authorized for listing, on the New York Stock Exchange or the American Stock Exchange, or listed, or authorized for listing, on the National Market System of the Nasdaq Stock Market (or any successor to such entities);”.
 
-Subsec. (b)(1)(B). Pub. L. 115–174, § 501(4), redesignated subpar. (C) as (B). Former subpar. (B) redesignated (A).
+Subsec. (b)(1)(B). Pub. L. 115–174, § 501(4), redesignated subpar. (C) as (B). Former subpar. (B) redesignated (A).
 
-Pub. L. 115–174, § 501(2), inserted “a security designated as qualified for trading in the national market system pursuant to section 78k–1(a)(2) of this title that is” before “listed” and struck out “that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A)” after “(or tier or segment thereof)”.
+Pub. L. 115–174, § 501(2), inserted “a security designated as qualified for trading in the national market system pursuant to section 78k–1(a)(2) of this title that is” before “listed” and struck out “that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A)” after “(or tier or segment thereof)”.
 
-Subsec. (b)(1)(C). Pub. L. 115–174, § 501(4), redesignated subpar. (C) as (B).
+Subsec. (b)(1)(C). Pub. L. 115–174, § 501(4), redesignated subpar. (C) as (B).
 
-Pub. L. 115–174, § 501(3), struck out “or (B)” after “described in subparagraph (A)”.
+Pub. L. 115–174, § 501(3), struck out “or (B)” after “described in subparagraph (A)”.
 
-2015—Subsec. (b)(4)(E). Pub. L. 114–94, § 76001(b)(1), which directed amendment of subsec. (b)(4) by redesignating “the second subparagraph (D)” as (E), was executed by making the redesignation for the subpar. (D) relating to section 77c(a) of this title to reflect the probable intent of Congress. Former subpar. (E) redesignated (F).
+2015—Subsec. (b)(4)(E). Pub. L. 114–94, § 76001(b)(1), which directed amendment of subsec. (b)(4) by redesignating “the second subparagraph (D)” as (E), was executed by making the redesignation for the subpar. (D) relating to section 77c(a) of this title to reflect the probable intent of Congress. Former subpar. (E) redesignated (F).
 
-Subsec. (b)(4)(F). Pub. L. 114–94, § 76001(b)(1), redesignated subpar. (E) as (F).
+Subsec. (b)(4)(F). Pub. L. 114–94, § 76001(b)(1), redesignated subpar. (E) as (F).
 
-Subsec. (b)(4)(G). Pub. L. 114–94, § 76001(b)(2)–(4), added subpar. (G).
+Subsec. (b)(4)(G). Pub. L. 114–94, § 76001(b)(2)–(4), added subpar. (G).
 
-2012—Subsec. (b)(4)(C). Pub. L. 112–106, § 305(a)(2), added subpar. (C). Former subpar. (C) redesignated (D).
+2012—Subsec. (b)(4)(C). Pub. L. 112–106, § 305(a)(2), added subpar. (C). Former subpar. (C) redesignated (D).
 
-Subsec. (b)(4)(D). Pub. L. 112–106, § 401(b), added subpar. (D) relating to section 77c(b)(2) of this title.
+Subsec. (b)(4)(D). Pub. L. 112–106, § 401(b), added subpar. (D) relating to section 77c(b)(2) of this title.
 
-Pub. L. 112–106, § 305(a)(1), redesignated subpar. (C), relating to section 77c(a) of this title, as (D). Former subpar (D) redesignated (E).
+Pub. L. 112–106, § 305(a)(1), redesignated subpar. (C), relating to section 77c(a) of this title, as (D). Former subpar (D) redesignated (E).
 
-Subsec. (b)(4)(E). Pub. L. 112–106, § 305(a)(1), redesignated subpar. (D) as (E).
+Subsec. (b)(4)(E). Pub. L. 112–106, § 305(a)(1), redesignated subpar. (D) as (E).
 
-Subsec. (c)(1). Pub. L. 112–106, § 305(b)(2), substituted “, in connection with securities or securities transactions” for “with respect to fraud or deceit, or unlawful conduct by a broker or dealer, in connection with securities or securities transactions.” and added subpars. (A) and (B).
+Subsec. (c)(1). Pub. L. 112–106, § 305(b)(2), substituted “, in connection with securities or securities transactions” for “with respect to fraud or deceit, or unlawful conduct by a broker or dealer, in connection with securities or securities transactions.” and added subpars. (A) and (B).
 
-Subsec. (c)(1)(A)(ii). Pub. L. 112–106, § 305(d)(2), which directed amendment of subsec. (c)(1) by substituting “, dealer, or funding portal” for “or dealer”, was executed by making the substitution in subpar. (A)(ii) as added by Pub. L. 112–106, § 305(b)(2).
+Subsec. (c)(1)(A)(ii). Pub. L. 112–106, § 305(d)(2), which directed amendment of subsec. (c)(1) by substituting “, dealer, or funding portal” for “or dealer”, was executed by making the substitution in subpar. (A)(ii) as added by Pub. L. 112–106, § 305(b)(2).
 
-Subsec. (c)(2)(F). Pub. L. 112–106, § 305(c), added subpar. (F).
+Subsec. (c)(2)(F). Pub. L. 112–106, § 305(c), added subpar. (F).
 
-2010—Subsec. (b)(1)(C). Pub. L. 111–203, § 985(a)(2)(A), substituted “(C) a security” for “(C) is a security”.
+2010—Subsec. (b)(1)(C). Pub. L. 111–203, § 985(a)(2)(A), substituted “(C) a security” for “(C) is a security”.
 
-Subsec. (c)(2)(B)(i). Pub. L. 111–203, § 985(a)(2)(B), substituted “State or” for “State, or”.
+Subsec. (c)(2)(B)(i). Pub. L. 111–203, § 985(a)(2)(B), substituted “State or” for “State, or”.
 
-1998—Subsec. (b)(1)(A). Pub. L. 105–353, § 301(a)(4)(A), inserted “, or authorized for listing,” after “Exchange, or listed”.
+1998—Subsec. (b)(1)(A). Pub. L. 105–353, § 301(a)(4)(A), inserted “, or authorized for listing,” after “Exchange, or listed”.
 
-Subsec. (b)(4)(C). Pub. L. 105–353, § 302, substituted “paragraph (4), (10), or (11)” for “paragraph (4) or (11)”.
+Subsec. (b)(4)(C). Pub. L. 105–353, § 302, substituted “paragraph (4), (10), or (11)” for “paragraph (4) or (11)”.
 
-Subsec. (c)(2)(B)(i), (C)(i). Pub. L. 105–353, § 301(a)(4)(B), (C), made technical amendments to references in original act which appear in text as references to October 11, 1996.
+Subsec. (c)(2)(B)(i), (C)(i). Pub. L. 105–353, § 301(a)(4)(B), (C), made technical amendments to references in original act which appear in text as references to October 11, 1996.
 
-Subsec. (d)(1)(A). Pub. L. 105–353, § 301(a)(4)(D), substituted “section 77b(a)(10)” for “section 77b(10)” and “subparagraphs (a) and (b)” for “subparagraphs (A) and (B)”.
+Subsec. (d)(1)(A). Pub. L. 105–353, § 301(a)(4)(D), substituted “section 77b(a)(10)” for “section 77b(10)” and “subparagraphs (a) and (b)” for “subparagraphs (A) and (B)”.
 
-Subsec. (d)(2). Pub. L. 105–353, § 301(a)(4)(E), made technical amendment to reference in original act which appears in text as reference to October 11, 1996.
+Subsec. (d)(2). Pub. L. 105–353, § 301(a)(4)(E), made technical amendment to reference in original act which appears in text as reference to October 11, 1996.
 
-Subsec. (d)(4). Pub. L. 105–353, § 301(a)(4)(F), substituted “The term” for “For purposes of this paragraph, the term”.
+Subsec. (d)(4). Pub. L. 105–353, § 301(a)(4)(F), substituted “The term” for “For purposes of this paragraph, the term”.
 
 1996—Pub. L. 104–290 substituted “Exemption from State regulation of securities offerings” for “State control of securities” as section catchline and amended text generally. Prior to amendment, text read as follows: “Nothing in this subchapter shall affect the jurisdiction of the securities commission (or any agency or office performing like functions) of any State or Territory of the United States, or the District of Columbia, over any security or any person.”
 
@@ -2280,27 +2280,27 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Clarification of the Preservation of State Enforcement Authority**
 
-Pub. L. 112–106, title III, § 305(b)(1), Apr. 5, 2012, 126 Stat. 322, provided that: The amendments made by subsection (a) [amending this section] relate solely to State registration, documentation, and offering requirements, as described under section 18(a) of [the] Securities Act of 1933 (15 U.S.C. 77r(a)), and shall have no impact or limitation on other State authority to take enforcement action with regard to an issuer, funding portal, or any other person or entity using the exemption from registration provided by section 4(6) [probably means “section 4(a)(6)”] of that Act [15 U.S.C. 77d(a)(6)].”
+Pub. L. 112–106, title III, § 305(b)(1), Apr. 5, 2012, 126 Stat. 322, provided that: The amendments made by subsection (a) [amending this section] relate solely to State registration, documentation, and offering requirements, as described under section 18(a) of [the] Securities Act of 1933 (15 U.S.C. 77r(a)), and shall have no impact or limitation on other State authority to take enforcement action with regard to an issuer, funding portal, or any other person or entity using the exemption from registration provided by section 4(6) [probably means “section 4(a)(6)”] of that Act [15 U.S.C. 77d(a)(6)].”
 
 **Study and Report on Uniformity of State Regulatory Requirements**
 
-Pub. L. 104–290, title I, § 102(b), Oct. 11, 1996, 110 Stat. 3420, provided that: “The Commission shall conduct a study, after consultation with States, issuers, brokers, and dealers, on the extent to which uniformity of State regulatory requirements for securities or securities transactions has been achieved for securities that are not covered securities (within the meaning of section 18 of the Securities Act of 1933 [15 U.S.C. 77r], as amended by paragraph (1) of this subsection). Not later than 1 year after the date of enactment of this Act [Oct. 11, 1996], the Commission shall submit a report to the Congress on the results of such study.”
+Pub. L. 104–290, title I, § 102(b), Oct. 11, 1996, 110 Stat. 3420, provided that: “The Commission shall conduct a study, after consultation with States, issuers, brokers, and dealers, on the extent to which uniformity of State regulatory requirements for securities or securities transactions has been achieved for securities that are not covered securities (within the meaning of section 18 of the Securities Act of 1933 [15 U.S.C. 77r], as amended by paragraph (1) of this subsection). Not later than 1 year after the date of enactment of this Act [Oct. 11, 1996], the Commission shall submit a report to the Congress on the results of such study.”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77r–1. Preemption of State law
+### § 77r–1. Preemption of State law
 
 **(a) Authority to purchase, hold, and invest in securities; securities considered as obligations of United States**
 
 **(1)** Any person, trust, corporation, partnership, association, business trust, or business entity created pursuant to or existing under the laws of the United States or any State shall be authorized to purchase, hold, and invest in securities that are—
 
-**(A)** offered and sold pursuant to section 77d(5) 1
+**(A)** offered and sold pursuant to section 77d(5) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title,
 
@@ -2314,7 +2314,7 @@ to the same extent that such person, trust, corporation, partnership, associatio
 
 **(2)** Where State law limits the purchase, holding, or investment in obligations issued by the United States by such a person, trust, corporation, partnership, association, business trust, or business entity, such securities that are—
 
-**(A)** offered and sold pursuant to section 77d(5) <sup>1</sup> of this title,
+**(A)** offered and sold pursuant to section 77d(5) <sup>1</sup> of this title,
 
 **(B)** mortgage related securities (as that term is defined in section 78c(a)(41) of this title),
 
@@ -2330,7 +2330,7 @@ The provisions of subsection (a) shall not apply with respect to a particular pe
 
 **(c) Registration and qualification requirements; exemption; subsequent enactment by State**
 
-Any securities that are offered and sold pursuant to section 77d(5) <sup>1</sup> of this title, that are mortgage related securities (as that term is defined in section 78c(a)(41) of this title), or that are small business related securities (as defined in section 78c(a)(53) of this title) shall be exempt from any law of any State with respect to or requiring registration or qualification of securities or real estate to the same extent as any obligation issued by or guaranteed as to principal and interest by the United States or any agency or instrumentality thereof. Any State may, prior to the expiration of seven years after October 3, 1984, enact a statute that specifically refers to this section and requires registration or qualification of any such security on terms that differ from those applicable to any obligation issued by the United States.
+Any securities that are offered and sold pursuant to section 77d(5) <sup>1</sup> of this title, that are mortgage related securities (as that term is defined in section 78c(a)(41) of this title), or that are small business related securities (as defined in section 78c(a)(53) of this title) shall be exempt from any law of any State with respect to or requiring registration or qualification of securities or real estate to the same extent as any obligation issued by or guaranteed as to principal and interest by the United States or any agency or instrumentality thereof. Any State may, prior to the expiration of seven years after October 3, 1984, enact a statute that specifically refers to this section and requires registration or qualification of any such security on terms that differ from those applicable to any obligation issued by the United States.
 
 **(d) Implementation**
 
@@ -2342,13 +2342,13 @@ The provisions of subsections (a) and (b) concerning small business related secu
 
 Any State may, not later than 7 years after September 23, 1994, enact a statute that specifically refers to this section and requires registration or qualification of any small business related securities on terms that differ from those applicable to any obligation issued by the United States.
 
-(Pub. L. 98–440, title I, § 106, Oct. 3, 1984, 98 Stat. 1691; Pub. L. 103–325, title II, § 207, Sept. 23, 1994, 108 Stat. 2199.)
+(Pub. L. 98–440, title I, § 106, Oct. 3, 1984, 98 Stat. 1691; Pub. L. 103–325, title II, § 207, Sept. 23, 1994, 108 Stat. 2199.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 77d(5) of this title, referred to in subsecs. (a)(1)(A), (2)(A) and (c), was redesignated section 77d(a)(5) of this title by Pub. L. 112–106, title II, § 201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
+Section 77d(5) of this title, referred to in subsecs. (a)(1)(A), (2)(A) and (c), was redesignated section 77d(a)(5) of this title by Pub. L. 112–106, title II, § 201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
 
 **Codification**
 
@@ -2356,15 +2356,15 @@ Section was enacted as part of the Secondary Mortgage Market Enhancement Act of 
 
 **Amendments**
 
-1994—Subsec. (a)(1)(B) to (D). Pub. L. 103–325, § 207(a), struck out “or” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
+1994—Subsec. (a)(1)(B) to (D). Pub. L. 103–325, § 207(a), struck out “or” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
 
-Subsec. (a)(2)(B) to (D). Pub. L. 103–325, § 207(b), struck out “or” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
+Subsec. (a)(2)(B) to (D). Pub. L. 103–325, § 207(b), struck out “or” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
 
-Subsec. (c). Pub. L. 103–325, § 207(c), in first sentence substituted “, that” for “or that” before “are mortgage related securities” and inserted “, or that are small business related securities (as defined in section 78c(a)(53) of this title)” before “shall be exempt”.
+Subsec. (c). Pub. L. 103–325, § 207(c), in first sentence substituted “, that” for “or that” before “are mortgage related securities” and inserted “, or that are small business related securities (as defined in section 78c(a)(53) of this title)” before “shall be exempt”.
 
-Subsec. (d). Pub. L. 103–325, § 207(d), added subsec. (d).
+Subsec. (d). Pub. L. 103–325, § 207(d), added subsec. (d).
 
-### § 77s. Special powers of Commission
+### § 77s. Special powers of Commission
 
 **(a) Rules and regulations**
 
@@ -2478,23 +2478,23 @@ Accounting support fees collected under this subsection and other receipts of th
 
 Nothing in this subsection shall be construed to impair or limit the authority of a State or local government to establish accounting and financial reporting standards.
 
-(May 27, 1933, ch. 38, title I, § 19, 48 Stat. 85; June 6, 1934, ch. 404, title II, § 209, 48 Stat. 908; Pub. L. 94–210, title III, § 308(a)(2), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title V, § 505, Oct. 21, 1980, 94 Stat. 2292; Pub. L. 100–181, title II, § 207, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 107–204, title I, § 108(a), July 30, 2002, 116 Stat. 768; Pub. L. 111–203, title IX, §§ 912, 978(a), 985(a)(3), July 21, 2010, 124 Stat. 1824, 1924, 1933.)
+(May 27, 1933, ch. 38, title I, § 19, 48 Stat. 85; June 6, 1934, ch. 404, title II, § 209, 48 Stat. 908; Pub. L. 94–210, title III, § 308(a)(2), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title V, § 505, Oct. 21, 1980, 94 Stat. 2292; Pub. L. 100–181, title II, § 207, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 107–204, title I, § 108(a), July 30, 2002, 116 Stat. 768; Pub. L. 111–203, title IX, §§ 912, 978(a), 985(a)(3), July 21, 2010, 124 Stat. 1824, 1924, 1933.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Paperwork Reduction Act, referred to in subsec. (f), probably means chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents. See Short Title note set out under section 3501 of Title 44.
+The Paperwork Reduction Act, referred to in subsec. (f), probably means chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents. See Short Title note set out under section 3501 of Title 44.
 
-The Securities Exchange Act of 1934, referred to in subsec. (g)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (g)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 **Amendments**
 
-2010—Subsec. (d)(6)(A). Pub. L. 111–203, § 985(a)(3), which directed substitution of “in paragraph (1) or (3)” for “in paragraph (1) of (3)”, could not be executed because the phrase “in paragraph (1) of (3)” did not appear.
+2010—Subsec. (d)(6)(A). Pub. L. 111–203, § 985(a)(3), which directed substitution of “in paragraph (1) or (3)” for “in paragraph (1) of (3)”, could not be executed because the phrase “in paragraph (1) of (3)” did not appear.
 
-Subsecs. (e), (f). Pub. L. 111–203, § 912, added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 111–203, § 912, added subsecs. (e) and (f).
 
-Subsec. (g). Pub. L. 111–203, § 978(a), added subsec. (g).
+Subsec. (g). Pub. L. 111–203, § 978(a), added subsec. (g).
 
 2002—Subsecs. (b) to (d). Pub. L. 107–204 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
@@ -2522,7 +2522,7 @@ Amendment by Pub. L. 94–210 effective on 60th day after Feb. 5, 1976, but not 
 
 **Parity for Registered Index-Linked Annuities Regarding Registration Rules**
 
-Pub. L. 117–328, div. AA, title I, § 101, Dec. 29, 2022, 136 Stat. 5528, provided that:
+Pub. L. 117–328, div. AA, title I, § 101, Dec. 29, 2022, 136 Stat. 5528, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -2600,7 +2600,7 @@ Pub. L. 117–328, div. AA, title I, § 101, Dec. 29, 2022, 136 Stat. 5528, pr
 
 **Study on Modernization and Simplification of Regulation S–K**
 
-Pub. L. 114–94, div. G, title LXXII, § 72003, Dec. 4, 2015, 129 Stat. 1785, provided that:
+Pub. L. 114–94, div. G, title LXXII, § 72003, Dec. 4, 2015, 129 Stat. 1785, provided that:
 
 > **“(a) Study.—** The Securities and Exchange Commission shall carry out a study of the requirements contained in regulation S–K (17 CFR 229.10 et seq.). Such study shall—
 
@@ -2628,9 +2628,9 @@ Pub. L. 114–94, div. G, title LXXII, § 72003, Dec. 4, 2015, 129 Stat. 1785,
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77t. Injunctions and prosecution of offenses
+### § 77t. Injunctions and prosecution of offenses
 
 **(a) Investigation of violations**
 
@@ -2706,7 +2706,7 @@ In any proceeding under subsection (a) against any person participating in, or, 
 
 For purposes of this subsection, the term “person participating in an offering of penny stock” includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.
 
-(May 27, 1933, ch. 38, title I, § 20, 48 Stat. 86; Pub. L. 100–181, title II, § 208, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 101–429, title I, § 101, Oct. 15, 1990, 104 Stat. 932; Pub. L. 104–67, title I, § 103(b)(1), Dec. 22, 1995, 109 Stat. 756; Pub. L. 107–204, title III, §§ 305(a)(2), 308(d)(3), title VI, § 603(b), July 30, 2002, 116 Stat. 779, 785, 795; Pub. L. 111–203, title IX, § 923(a)(1), July 21, 2010, 124 Stat. 1849.)
+(May 27, 1933, ch. 38, title I, § 20, 48 Stat. 86; Pub. L. 100–181, title II, § 208, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 101–429, title I, § 101, Oct. 15, 1990, 104 Stat. 932; Pub. L. 104–67, title I, § 103(b)(1), Dec. 22, 1995, 109 Stat. 756; Pub. L. 107–204, title III, §§ 305(a)(2), 308(d)(3), title VI, § 603(b), July 30, 2002, 116 Stat. 779, 785, 795; Pub. L. 111–203, title IX, § 923(a)(1), July 21, 2010, 124 Stat. 1849.)
 
 **Editorial Notes**
 
@@ -2714,19 +2714,19 @@ For purposes of this subsection, the term “person participating in an offering
 
 2010—Subsec. (d)(3)(A). Pub. L. 111–203 inserted “and section 78u–6 of this title” after “section 7246 of this title”.
 
-2002—Subsec. (d)(3)(A). Pub. L. 107–204, § 308(d)(3), inserted “, except as otherwise provided in section 7246 of this title” before period at end.
+2002—Subsec. (d)(3)(A). Pub. L. 107–204, § 308(d)(3), inserted “, except as otherwise provided in section 7246 of this title” before period at end.
 
-Subsec. (e). Pub. L. 107–204, § 305(a)(2), substituted “unfitness” for “substantial unfitness”.
+Subsec. (e). Pub. L. 107–204, § 305(a)(2), substituted “unfitness” for “substantial unfitness”.
 
-Subsec. (g). Pub. L. 107–204, § 603(b), added subsec. (g).
+Subsec. (g). Pub. L. 107–204, § 603(b), added subsec. (g).
 
 1995—Subsec. (f). Pub. L. 104–67 added subsec. (f).
 
 1990—Subsecs. (d), (e). Pub. L. 101–429 added subsecs. (d) and (e).
 
-1987—Subsec. (b). Pub. L. 100–181, § 208(a), inserted first sentence and struck out former first sentence containing similar provisions.
+1987—Subsec. (b). Pub. L. 100–181, § 208(a), inserted first sentence and struck out former first sentence containing similar provisions.
 
-Subsec. (c). Pub. L. 100–181, § 208(b), amended subsec. (c) generally.
+Subsec. (c). Pub. L. 100–181, § 208(b), amended subsec. (c) generally.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2750,21 +2750,21 @@ Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any im
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77u. Hearings by Commission
+### § 77u. Hearings by Commission
 
 All hearings shall be public and may be held before the Commission or an officer or officers of the Commission designated by it, and appropriate records thereof shall be kept.
 
-(May 27, 1933, ch. 38, title I, § 21, 48 Stat. 86.)
+(May 27, 1933, ch. 38, title I, § 21, 48 Stat. 86.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77v. Jurisdiction of offenses and suits
+### § 77v. Jurisdiction of offenses and suits
 
 **(a) Federal and State courts; venue; service of process; review; removal; costs**
 
@@ -2780,7 +2780,7 @@ In case of contumacy or refusal to obey a subpena issued to any person, any of t
 
 **(2)** conduct occurring outside the United States that has a foreseeable substantial effect within the United States.
 
-(May 27, 1933, ch. 38, title I, § 22, 48 Stat. 86; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Aug. 10, 1954, ch. 667, title I, § 11, 68 Stat. 686; Pub. L. 91–452, title II, § 213, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title II, § 209, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 105–353, title I, § 101(a)(3), Nov. 3, 1998, 112 Stat. 3230; Pub. L. 111–203, title IX, §§ 929E(a), 929P(b)(1), July 21, 2010, 124 Stat. 1853, 1864.)
+(May 27, 1933, ch. 38, title I, § 22, 48 Stat. 86; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Aug. 10, 1954, ch. 667, title I, § 11, 68 Stat. 686; Pub. L. 91–452, title II, § 213, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title II, § 209, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 105–353, title I, § 101(a)(3), Nov. 3, 1998, 112 Stat. 3230; Pub. L. 111–203, title IX, §§ 929E(a), 929P(b)(1), July 21, 2010, 124 Stat. 1853, 1864.)
 
 **Editorial Notes**
 
@@ -2794,13 +2794,13 @@ As originally enacted subsec. (a) contained references to the Supreme Court of t
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 929E(a), inserted after second sentence “In any action or proceeding instituted by the Commission under this subchapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents or tangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence.”
+2010—Subsec. (a). Pub. L. 111–203, § 929E(a), inserted after second sentence “In any action or proceeding instituted by the Commission under this subchapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents or tangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence.”
 
-Subsec. (c). Pub. L. 111–203, § 929P(b)(1), added subsec. (c).
+Subsec. (c). Pub. L. 111–203, § 929P(b)(1), added subsec. (c).
 
 1998—Subsec. (a). Pub. L. 105–353 inserted “except as provided in section 77p of this title with respect to covered class actions,” after “Territorial courts,” in first sentence and substituted “Except as provided in section 77p(c) of this title, no case” for “No case” in penultimate sentence.
 
-1987—Subsec. (a). Pub. L. 100–181 substituted “United States and” for “United States, the”, struck out “, and the United States District Court for the District of Columbia” after “Territory”, and substituted “sections 1254, 1291, 1292, and 1294 of title 28” for “sections 128 and 240 of the Judicial Code, as amended (U.S.C., title 28, secs. 225 and 347)”. See Codification note above.
+1987—Subsec. (a). Pub. L. 100–181 substituted “United States and” for “United States, the”, struck out “, and the United States District Court for the District of Columbia” after “Territory”, and substituted “sections 1254, 1291, 1292, and 1294 of title 28” for “sections 128 and 240 of the Judicial Code, as amended (U.S.C., title 28, secs. 225 and 347)”. See Codification note above.
 
 1970—Subsec. (c). Pub. L. 91–452 struck out subsec. (c) which related to immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 
@@ -2832,25 +2832,25 @@ Amendment by Pub. L. 91–452 not to affect any immunity to which any individual
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77w. Unlawful representations
+### § 77w. Unlawful representations
 
 Neither the fact that the registration statement for a security has been filed or is in effect nor the fact that a stop order is not in effect with respect thereto shall be deemed a finding by the Commission that the registration statement is true and accurate on its face or that it does not contain an untrue statement of fact or omit to state a material fact, or be held to mean that the Commission has in any way passed upon the merits of, or given approval to, such security. It shall be unlawful to make, or cause to be made to any prospective purchaser any representation contrary to the foregoing provisions of this section.
 
-(May 27, 1933, ch. 38, title I, § 23, 48 Stat. 87.)
+(May 27, 1933, ch. 38, title I, § 23, 48 Stat. 87.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77x. Penalties
+### § 77x. Penalties
 
 Any person who willfully violates any of the provisions of this subchapter, or the rules and regulations promulgated by the Commission under authority thereof, or any person who willfully, in a registration statement filed under this subchapter, makes any untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statements therein not misleading, shall upon conviction be fined not more than $10,000 or imprisoned not more than five years, or both.
 
-(May 27, 1933, ch. 38, title I, § 24, 48 Stat. 87; Pub. L. 94–29, § 27(a), June 4, 1975, 89 Stat. 163.)
+(May 27, 1933, ch. 38, title I, § 24, 48 Stat. 87; Pub. L. 94–29, § 27(a), June 4, 1975, 89 Stat. 163.)
 
 **Editorial Notes**
 
@@ -2868,21 +2868,21 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77y. Jurisdiction of other Government agencies over securities
+### § 77y. Jurisdiction of other Government agencies over securities
 
 Nothing in this subchapter shall relieve any person from submitting to the respective supervisory units of the Government of the United States information, reports, or other documents that may be required by any provision of law.
 
-(May 27, 1933, ch. 38, title I, § 25, 48 Stat. 87.)
+(May 27, 1933, ch. 38, title I, § 25, 48 Stat. 87.)
 
-### § 77z. Separability
+### § 77z. Separability
 
 If any provision of this chapter, or the application of such provision to any person or circumstance, shall be held invalid, the remainder of this chapter, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-(May 27, 1933, ch. 38, title I, § 26, 48 Stat. 88.)
+(May 27, 1933, ch. 38, title I, § 26, 48 Stat. 88.)
 
-### § 77z–1. Private securities litigation
+### § 77z–1. Private securities litigation
 
 **(a) Private class actions**
 
@@ -3068,7 +3068,7 @@ If the party or attorney against whom sanctions are to be imposed meets its burd
 
 In any private action arising under this subchapter in which the plaintiff may recover money damages only on proof that a defendant acted with a particular state of mind, the court shall, when requested by a defendant, submit to the jury a written interrogatory on the issue of each such defendant’s state of mind at the time the alleged violation occurred.
 
-(May 27, 1933, ch. 38, title I, § 27, as added Pub. L. 104–67, title I, § 101(a), Dec. 22, 1995, 109 Stat. 737; amended Pub. L. 105–353, title I, § 101(a)(2), title III, § 301(a)(5), Nov. 3, 1998, 112 Stat. 3230, 3235.)
+(May 27, 1933, ch. 38, title I, § 27, as added Pub. L. 104–67, title I, § 101(a), Dec. 22, 1995, 109 Stat. 737; amended Pub. L. 105–353, title I, § 101(a)(2), title III, § 301(a)(5), Nov. 3, 1998, 112 Stat. 3230, 3235.)
 
 **Editorial Notes**
 
@@ -3078,9 +3078,9 @@ The Federal Rules of Civil Procedure, referred to in subsecs. (a)(1), (3)(A)(iii
 
 **Amendments**
 
-1998—Pub. L. 105–353, § 301(a)(5), made technical correction relating to placement of section in subchapter.
+1998—Pub. L. 105–353, § 301(a)(5), made technical correction relating to placement of section in subchapter.
 
-Subsec. (b)(4). Pub. L. 105–353, § 101(a)(2), added par. (4).
+Subsec. (b)(4). Pub. L. 105–353, § 101(a)(2), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3096,7 +3096,7 @@ Section not to affect or apply to any private action arising under this subchapt
 
 Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
 
-### § 77z–2. Application of safe harbor for forward-looking statements
+### § 77z–2. Application of safe harbor for forward-looking statements
 
 **(a) Applicability** This section shall apply only to a forward-looking statement made by—
 
@@ -3252,7 +3252,7 @@ The term “person acting on behalf of an issuer” means an officer, director, 
 
 The terms “blank check company”, “rollup transaction”, “partnership”, “limited liability company”, “executive officer of an entity” and “direct participation investment program”, have the meanings given those terms by rule or regulation of the Commission.
 
-(May 27, 1933, ch. 38, title I, § 27A, as added Pub. L. 104–67, title I, § 102(a), Dec. 22, 1995, 109 Stat. 749; amended Pub. L. 105–353, title III, § 301(a)(5), Nov. 3, 1998, 112 Stat. 3235; Pub. L. 111–203, title IX, § 985(a)(4), July 21, 2010, 124 Stat. 1933.)
+(May 27, 1933, ch. 38, title I, § 27A, as added Pub. L. 104–67, title I, § 102(a), Dec. 22, 1995, 109 Stat. 749; amended Pub. L. 105–353, title III, § 301(a)(5), Nov. 3, 1998, 112 Stat. 3235; Pub. L. 111–203, title IX, § 985(a)(4), July 21, 2010, 124 Stat. 1933.)
 
 **Editorial Notes**
 
@@ -3276,7 +3276,7 @@ Section not to affect or apply to any private action arising under this subchapt
 
 Nothing in section deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
 
-### § 77z–2a. Conflicts of interest relating to certain securitizations
+### § 77z–2a. Conflicts of interest relating to certain securitizations
 
 **(a) In general**
 
@@ -3298,25 +3298,25 @@ Not later than 270 days after July 21, 2010, the Commission shall issue rules fo
 
 **(d) Rule of construction**
 
-This subsection 1
+This subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 shall not otherwise limit the application of section 78*o*–11 of this title.
 
-(May 27, 1933, ch. 38, title I, § 27B, as added Pub. L. 111–203, title VI, § 621(a), July 21, 2010, 124 Stat. 1631.)
+(May 27, 1933, ch. 38, title I, § 27B, as added Pub. L. 111–203, title VI, § 621(a), July 21, 2010, 124 Stat. 1631.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 111–203, title VI, § 621(b), July 21, 2010, 124 Stat. 1632, provided that: “Section 27B of the Securities Act of 1933 [15 U.S.C. 77z–2a], as added by this section, shall take effect on the effective date of final rules issued by the [Securities and Exchange] Commission under subsection (b) of such section 27B, except that subsections (b) and (d) of such section 27B shall take effect on the date of enactment of this Act [July 21, 2010].”
+Pub. L. 111–203, title VI, § 621(b), July 21, 2010, 124 Stat. 1632, provided that: “Section 27B of the Securities Act of 1933 [15 U.S.C. 77z–2a], as added by this section, shall take effect on the effective date of final rules issued by the [Securities and Exchange] Commission under subsection (b) of such section 27B, except that subsections (b) and (d) of such section 27B shall take effect on the date of enactment of this Act [July 21, 2010].”
 
-### § 77z–3. General exemptive authority
+### § 77z–3. General exemptive authority
 
 The Commission, by rule or regulation, may conditionally or unconditionally exempt any person, security, or transaction, or any class or classes of persons, securities, or transactions, from any provision or provisions of this subchapter or of any rule or regulation issued under this subchapter, to the extent that such exemption is necessary or appropriate in the public interest, and is consistent with the protection of investors.
 
-(May 27, 1933, ch. 38, title I, § 28, as added Pub. L. 104–290, title I, § 105(a), Oct. 11, 1996, 110 Stat. 3424; amended Pub. L. 105–353, title III, § 301(a)(5), Nov. 3, 1998, 112 Stat. 3235.)
+(May 27, 1933, ch. 38, title I, § 28, as added Pub. L. 104–290, title I, § 105(a), Oct. 11, 1996, 110 Stat. 3424; amended Pub. L. 105–353, title III, § 301(a)(5), Nov. 3, 1998, 112 Stat. 3235.)
 
 **Editorial Notes**
 
@@ -3324,7 +3324,7 @@ The Commission, by rule or regulation, may conditionally or unconditionally exem
 
 1998—Pub. L. 105–353 made technical correction relating to placement of section in subchapter.
 
-### § 77z–4. Data standards
+### § 77z–4. Data standards
 
 **(a) Requirement**
 
@@ -3334,7 +3334,7 @@ The Commission shall, by rule, adopt data standards for all registration stateme
 
 The data standards required under subsection (a) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
 
-(May 27, 1933, ch. 38, title I, § 29, as added Pub. L. 117–263, div. E, title LVIII, § 5821(e), Dec. 23, 2022, 136 Stat. 3426.)
+(May 27, 1933, ch. 38, title I, § 29, as added Pub. L. 117–263, div. E, title LVIII, § 5821(e), Dec. 23, 2022, 136 Stat. 3426.)
 
 **Editorial Notes**
 
@@ -3348,7 +3348,7 @@ Section 5821(e) of Pub. L. 117–263 directed that this section be added at the 
 
 Enactment of section not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
 
-### § 77aa. Schedule of information required in registration statement
+### § 77aa. Schedule of information required in registration statement
 
 schedule a
 
@@ -3448,7 +3448,7 @@ schedule b
 
 **(14)** an agreement of the issuer to furnish a copy of the opinion or opinions of counsel in respect to the legality of the issue, with a translation, where necessary, into the English language. Such opinion shall set out in full all laws, decrees, ordinances, or other acts of Government under which the issue of such security has been authorized.
 
-(May 27, 1933, ch. 38, title I, schedules A, B, 48 Stat. 88, 91; Pub. L. 105–353, title III, § 301(a)(6), Nov. 3, 1998, 112 Stat. 3235.)
+(May 27, 1933, ch. 38, title I, schedules A, B, 48 Stat. 88, 91; Pub. L. 105–353, title III, § 301(a)(6), Nov. 3, 1998, 112 Stat. 3235.)
 
 **Editorial Notes**
 
@@ -3460,29 +3460,29 @@ schedule b
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 ## SUBCHAPTER II—FOREIGN SECURITIES
 
-### § 77bb. “Corporation of Foreign Security Holders”; creation; principal office; branch offices
+### § 77bb. “Corporation of Foreign Security Holders”; creation; principal office; branch offices
 
 For the purpose of protecting, conserving, and advancing the interests of the holders of foreign securities in default, there is hereby created a body corporate with the name “Corporation of Foreign Security Holders” (herein called the “Corporation”). The principal office of the Corporation shall be located in the District of Columbia, but there may be established agencies or branch offices in any city or cities of the United States under rules and regulations prescribed by the board of directors.
 
-(May 27, 1933, ch. 38, title II, § 201, 48 Stat. 92.)
+(May 27, 1933, ch. 38, title II, § 201, 48 Stat. 92.)
 
-### § 77cc. Directors of Corporation; appointment, term of office, and removal
+### § 77cc. Directors of Corporation; appointment, term of office, and removal
 
 The control and management of the Corporation shall be vested in a board of six directors, who shall be appointed and hold office in the following manner: As soon as practicable after the date this chapter takes effect the Federal Trade Commission (hereinafter in this subchapter called “Commission”) shall appoint six directors, and shall designate a chairman and a vice chairman from among their number. After the directors designated as chairman and vice chairman cease to be directors, their successors as chairman and vice chairman shall be elected by the board of directors itself. Of the directors first appointed, two shall continue in office for a term of two years, two for a term of four years, and two for a term of six years, from the date this chapter takes effect, the term of each to be designated by the Commission at the time of appointment. Their successors shall be appointed by the Commission, each for a term of six years from the date of the expiration of the term for which his predecessor was appointed, except that any person appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the unexpired term of such predecessor. No person shall be eligible to serve as a director who within the five years preceding has had any interest, direct or indirect, in any corporation, company, partnership, bank, or association which has sold or offered for sale any foreign securities. The office of a director shall be vacated if the board of directors shall, at a meeting specially convened for that purpose, by resolution passed by a majority of at least two-thirds of the board of directors, remove such member from office, provided that the member whom it is proposed to remove shall have seven days’ notice sent to him of such meeting, and that he may be heard.
 
-(May 27, 1933, ch. 38, title II, § 202, 48 Stat. 93.)
+(May 27, 1933, ch. 38, title II, § 202, 48 Stat. 93.)
 
-### § 77dd. Powers and duties of Corporation, generally
+### § 77dd. Powers and duties of Corporation, generally
 
 The Corporation shall have power to adopt, alter, and use a corporate seal; to make contracts; to lease such real estate as may be necessary for the transaction of its business; to sue and be sued, to complain and to defend, in any court of competent jurisdiction, State or Federal; to require from trustees, financial agents, or dealers in foreign securities information relative to the original or present holders of foreign securities and such other information as may be required, and to issue subpenas therefor; to take over the functions of any fiscal and paying agents of any foreign securities in default; to borrow money for the purposes of this subchapter, and to pledge as collateral for such loans any securities deposited with the Corporation pursuant to this subchapter; by and with the consent and approval of the Commission to select, employ, and fix the compensation of officers, directors, members of committees, employees, attorneys, and agents of the Corporation, without regard to the provisions of other laws applicable to the employment and compensation of officers or employees of the United States; to define their authority and duties, require bonds of them and fix the penalties thereof, and to dismiss at pleasure such officers, employees, attorneys, and agents; and to prescribe, amend, and repeal, by its board of directors, bylaws, rules, and regulations governing the manner in which its general business may be conducted and the powers granted to it by law may be exercised and enjoyed, together with provisions for such committees and the functions thereof as the board of directors may deem necessary for facilitating its business under this subchapter. The board of directors of the Corporation shall determine and prescribe the manner in which its obligations shall be incurred and its expenses allowed and paid.
 
-(May 27, 1933, ch. 38, title II, § 203, 48 Stat. 93.)
+(May 27, 1933, ch. 38, title II, § 203, 48 Stat. 93.)
 
-### § 77ee. Directors of Corporation, powers and duties generally
+### § 77ee. Directors of Corporation, powers and duties generally
 
 The board of directors may—
 
@@ -3502,37 +3502,37 @@ The board of directors may—
 
 **(8)** Generally, act in the name and on behalf of the holders of foreign securities the care or representation of whose interests may be entrusted to the Corporation; conserve and protect the rights and interests of holders of foreign securities issued, sold, or owned in the United States; adopt measures for the protection, vindication, and preservation or reservation of the rights and interests of holders of foreign securities either on any default in or on breach or contemplated breach of the conditions on which such foreign securities may have been issued, or otherwise; obtain for such holders such legal and other assistance and advice as the board of directors may deem expedient; and do all such other things as are incident or conducive to the attainment of the above objects.
 
-(May 27, 1933, ch. 38, title II, § 204, 48 Stat. 94.)
+(May 27, 1933, ch. 38, title II, § 204, 48 Stat. 94.)
 
-### § 77ff. Accounts and annual balance sheet of Corporation; audits
+### § 77ff. Accounts and annual balance sheet of Corporation; audits
 
 The board of directors shall cause accounts to be kept of all matters relating to or connected with the transactions and business of the Corporation, and cause a general account and balance sheet of the Corporation to be made out in each year, and cause all accounts to be audited by one or more auditors who shall examine the same and report thereon to the board of directors.
 
-(May 27, 1933, ch. 38, title II, § 205, 48 Stat. 94.)
+(May 27, 1933, ch. 38, title II, § 205, 48 Stat. 94.)
 
-### § 77gg. Annual report by Corporation; printing and distribution
+### § 77gg. Annual report by Corporation; printing and distribution
 
 The Corporation shall make, print, and make public an annual report of its operations during each year, send a copy thereof, together with a copy of the account and balance sheet and auditor’s report, to the Commission and to both Houses of Congress, and provide one copy of such report but not more than one on the application of any person and on receipt of a sum not exceeding $1: *Provided*, That the board of directors in its discretion may distribute copies gratuitously.
 
-(May 27, 1933, ch. 38, title II, § 206, 48 Stat. 95.)
+(May 27, 1933, ch. 38, title II, § 206, 48 Stat. 95.)
 
-### § 77hh. Assessments by Corporation on holders of foreign securities
+### § 77hh. Assessments by Corporation on holders of foreign securities
 
 The Corporation may in its discretion levy charges, assessed on a pro rata basis, on the holders of foreign securities deposited with it: *Provided*, That any charge levied at the time of depositing securities with the Corporation shall not exceed one fifth of 1 per centum of the face value of such securities: *Provided further*, That any additional charges shall bear a close relationship to the cost of operations and negotiations including those enumerated in sections 77dd and 77ee of this title and shall not exceed 1 per centum of the face value of such securities.
 
-(May 27, 1933, ch. 38, title II, § 207, 48 Stat. 95.)
+(May 27, 1933, ch. 38, title II, § 207, 48 Stat. 95.)
 
-### § 77ii. Subscriptions accepted by Corporation as loans; repayment
+### § 77ii. Subscriptions accepted by Corporation as loans; repayment
 
 The Corporation may receive subscriptions from any person, foundation with a public purpose, or agency of the United States Government, and such subscriptions may, in the discretion of the board of directors, be treated as loans repayable when and as the board of directors shall determine.
 
-(May 27, 1933, ch. 38, title II, § 208, 48 Stat. 95.)
+(May 27, 1933, ch. 38, title II, § 208, 48 Stat. 95.)
 
-### § 77jj. Loans to Corporation from Reconstruction Finance Corporation authorized
+### § 77jj. Loans to Corporation from Reconstruction Finance Corporation authorized
 
 The Reconstruction Finance Corporation is authorized to loan out of its funds not to exceed $75,000 for the use of the Corporation.
 
-(May 27, 1933, ch. 38, title II, § 209, 48 Stat. 95.)
+(May 27, 1933, ch. 38, title II, § 209, 48 Stat. 95.)
 
 **Executive Documents**
 
@@ -3540,7 +3540,7 @@ The Reconstruction Finance Corporation is authorized to loan out of its funds no
 
 Section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out as a note under section 601 of this title, abolished the Reconstruction Finance Corporation.
 
-### § 77kk. Representations by Corporation as acting for Department of State or United States forbidden; interference with foreign negotiations forbidden
+### § 77kk. Representations by Corporation as acting for Department of State or United States forbidden; interference with foreign negotiations forbidden
 
 Notwithstanding the foregoing provisions of this subchapter, it shall be unlawful for, and nothing in this subchapter shall be taken or construed as permitting or authorizing, the Corporation in this subchapter created, or any committee of said Corporation, or any person or persons acting for or representing or purporting to represent it—
 
@@ -3550,35 +3550,35 @@ Notwithstanding the foregoing provisions of this subchapter, it shall be unlawfu
 
 **(c)** to do any act directly or indirectly which would interfere with or obstruct or hinder or which might be calculated to obstruct, hinder, or interfere with the policy or policies of the said Department of State or the Government of the United States or any pending or contemplated diplomatic negotiations, arrangements, business or exchanges between the Government of the United States or said Department of State and any foreign government or any political subdivision thereof.
 
-(May 27, 1933, ch. 38, title II, § 210, 48 Stat. 95.)
+(May 27, 1933, ch. 38, title II, § 210, 48 Stat. 95.)
 
-### § 77ll. Effective date of subchapter
+### § 77ll. Effective date of subchapter
 
 This subchapter shall not take effect until the President finds that its taking effect is in the public interest and by proclamation so declares.
 
-(May 27, 1933, ch. 38, title II, § 211, 48 Stat. 95.)
+(May 27, 1933, ch. 38, title II, § 211, 48 Stat. 95.)
 
-### § 77mm. Short title
+### § 77mm. Short title
 
 This subchapter may be cited as the “Corporation of Foreign Bondholders Act, 1933.”
 
-(May 27, 1933, ch. 38, title II, § 212, 48 Stat. 95.)
+(May 27, 1933, ch. 38, title II, § 212, 48 Stat. 95.)
 
 ## SUBCHAPTER III—TRUST INDENTURES
 
-### § 77aaa. Short title
+### § 77aaa. Short title
 
 This subchapter may be cited as the “Trust Indenture Act of 1939.”
 
-(May 27, 1933, ch. 38, title III, § 301, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149.)
+(May 27, 1933, ch. 38, title III, § 301, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–550, title IV, § 401, Nov. 15, 1990, 104 Stat. 2721, provided that: “This title [amending sections 77ccc to 77eee, 77iii to 77rrr, and 77vvv of this title] may be cited as the ‘Trust Indenture Reform Act of 1990’.”
+Pub. L. 101–550, title IV, § 401, Nov. 15, 1990, 104 Stat. 2721, provided that: “This title [amending sections 77ccc to 77eee, 77iii to 77rrr, and 77vvv of this title] may be cited as the ‘Trust Indenture Reform Act of 1990’.”
 
-### § 77bbb. Necessity for regulation
+### § 77bbb. Necessity for regulation
 
 **(a) Practices adversely affecting public** Upon the basis of facts disclosed by the reports of the Securities and Exchange Commission made to the Congress pursuant to section 78jj of this title and otherwise disclosed and ascertained, it is hereby declared that the national public interest and the interest of investors in notes, bonds, debentures, evidences of indebtedness, and certificates of interest or participation therein, which are offered to the public, are adversely affected—
 
@@ -3598,7 +3598,7 @@ Pub. L. 101–550, title IV, § 401, Nov. 15, 1990, 104 Stat. 2721, provided t
 
 Practices of the character above enumerated have existed to such an extent that, unless regulated, the public offering of notes, bonds, debentures, evidences of indebtedness, and certificates of interest or participation therein, by the use of means and instruments of transportation and communication in interstate commerce and of the mails, is injurious to the capital markets, to investors, and to the general public; and it is hereby declared to be the policy of this subchapter, in accordance with which policy all the provisions of this subchapter shall be interpreted, to meet the problems and eliminate the practices, enumerated in this section, connected with such public offerings.
 
-(May 27, 1933, ch. 38, title III, § 302, as added Aug. 3, 1939, ch. 411, 53 Stat. 1150.)
+(May 27, 1933, ch. 38, title III, § 302, as added Aug. 3, 1939, ch. 411, 53 Stat. 1150.)
 
 **Editorial Notes**
 
@@ -3610,9 +3610,9 @@ Section 78jj of this title, referred to in subsec. (a), was omitted from the Cod
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77ccc. Definitions
+### § 77ccc. Definitions
 
 When used in this subchapter, unless the context otherwise requires—
 
@@ -3652,17 +3652,17 @@ When used in this subchapter, unless the context otherwise requires—
 
 **(18)** The term “Bankruptcy Act” means the Bankruptcy Act or title 11.
 
-(May 27, 1933, ch. 38, title III, § 303, as added Aug. 3, 1939, ch. 411, 53 Stat. 1151; amended Aug. 10, 1954, ch. 667, title III, § 301, 68 Stat. 686; Pub. L. 95–598, title III, § 307, Nov. 6, 1978, 92 Stat. 2674; Pub. L. 100–181, title V, §§ 501, 502, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 101–550, title IV, § 402, Nov. 15, 1990, 104 Stat. 2722; Pub. L. 105–353, title III, § 301(e)(1), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 111–203, title IX, § 986(b)(1), July 21, 2010, 124 Stat. 1935.)
+(May 27, 1933, ch. 38, title III, § 303, as added Aug. 3, 1939, ch. 411, 53 Stat. 1151; amended Aug. 10, 1954, ch. 667, title III, § 301, 68 Stat. 686; Pub. L. 95–598, title III, § 307, Nov. 6, 1978, 92 Stat. 2674; Pub. L. 100–181, title V, §§ 501, 502, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 101–550, title IV, § 402, Nov. 15, 1990, 104 Stat. 2722; Pub. L. 105–353, title III, § 301(e)(1), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 111–203, title IX, § 986(b)(1), July 21, 2010, 124 Stat. 1935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Act of 1933, referred to in pars. (3) and (17), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in pars. (3) and (17), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Securities Exchange Act of 1934, referred to in par. (17), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in par. (17), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
-The Bankruptcy Act, referred to in par. (18), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
+The Bankruptcy Act, referred to in par. (18), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
 
 **Amendments**
 
@@ -3672,9 +3672,9 @@ The Bankruptcy Act, referred to in par. (18), is act July 1, 1898, ch. 541, 30 S
 
 1990—Par. (8). Pub. L. 101–550 inserted “section 77eee of this title or” after “provided for in”.
 
-1987—Par. (4). Pub. L. 100–181, § 501, substituted “undertaking” for “undertakng”.
+1987—Par. (4). Pub. L. 100–181, § 501, substituted “undertaking” for “undertakng”.
 
-Par. (12). Pub. L. 100–181, § 502, inserted “(including a guarantor)” after “person” in two places.
+Par. (12). Pub. L. 100–181, § 502, inserted “(including a guarantor)” after “person” in two places.
 
 1978—Par. (18). Pub. L. 95–598 substituted “Bankruptcy Act or title 11” for “Act entitled ‘An Act to establish a uniform system of bankruptcy throughout the United States’, approved July 1, 1898, as amended, whether amended prior to or after August 3, 1939”.
 
@@ -3698,9 +3698,9 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77ddd. Exempted securities and transactions
+### § 77ddd. Exempted securities and transactions
 
 **(a) Specific securities exempted** The provisions of this subchapter shall not apply to any of the following securities:
 
@@ -3708,7 +3708,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 **(2)** any certificate of interest or participation in two or more securities having substantially different rights and privileges, or a temporary certificate for any such certificate;
 
-**(3)** Repealed. Pub. L. 101–550, title IV, § 403(1)(A), Nov. 15, 1990, 104 Stat. 2722.
+**(3)** Repealed. Pub. L. 101–550, title IV, § 403(1)(A), Nov. 15, 1990, 104 Stat. 2722.
 
 **(4)**
 
@@ -3716,7 +3716,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 **(B)** any security exempted from the provisions of the Securities Act of 1933, as amended [15 U.S.C. 77a et seq.], by paragraph (2) of subsection 3(a) thereof, as amended by section 401 of the Employment Security Amendments of 1970 [15 U.S.C. 77c(a)(2)];
 
-**(5)** any security issued under a mortgage indenture as to which a contract of insurance under the National Housing Act [12 U.S.C. 1701 et seq.] is in effect; and any such security shall be deemed to be exempt from the provisions of the Securities Act of 1933 [15 U.S.C. 77a et seq.] to the same extent as though such security were specifically enumerated in section 3(a)(2) of such Act [15 U.S.C. § 77c(a)(2)];
+**(5)** any security issued under a mortgage indenture as to which a contract of insurance under the National Housing Act [12 U.S.C. 1701 et seq.] is in effect; and any such security shall be deemed to be exempt from the provisions of the Securities Act of 1933 [15 U.S.C. 77a et seq.] to the same extent as though such security were specifically enumerated in section 3(a)(2) of such Act [15 U.S.C. § 77c(a)(2)];
 
 **(6)** any note, bond, debenture, or evidence of indebtedness issued or guaranteed by a foreign government or by a subdivision, department, municipality, agency, or instrumentality thereof;
 
@@ -3748,17 +3748,17 @@ The Commission may, by rules or regulations upon its own motion, or by order on 
 
 The Commission may from time to time by its rules and regulations, and subject to such terms and conditions as may be prescribed herein, add to the securities exempted as provided in this section any class of securities issued by a small business investment company under the Small Business Investment Act of 1958 [15 U.S.C. 661 et seq.] if it finds, having regard to the purposes of that Act, that the enforcement of this subchapter with respect to such securities is not necessary in the public interest and for the protection of investors.
 
-(May 27, 1933, ch. 38, title III, § 304, as added Aug. 3, 1939, ch. 411, 53 Stat. 1153; amended Aug. 10, 1954, ch. 667, title III, § 302, 68 Stat. 687; Pub. L. 85–699, title III, § 307(b), Aug. 21, 1958, 72 Stat. 694; Pub. L. 86–760, Sept. 13, 1960, 74 Stat. 902; Pub. L. 89–754, title V, § 504(b), Nov. 3, 1966, 80 Stat. 1278; Pub. L. 91–567, § 6(c), Dec. 22, 1970, 84 Stat. 1499; Pub. L. 96–477, title III, § 302, Oct. 21, 1980, 94 Stat. 2291; Pub. L. 101–550, title IV, § 403, Nov. 15, 1990, 104 Stat. 2722; Pub. L. 104–290, title V, § 508(e), Oct. 11, 1996, 110 Stat. 3448; Pub. L. 105–353, title III, § 301(e)(2), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 111–203, title IX, § 985(c)(1), July 21, 2010, 124 Stat. 1934.)
+(May 27, 1933, ch. 38, title III, § 304, as added Aug. 3, 1939, ch. 411, 53 Stat. 1153; amended Aug. 10, 1954, ch. 667, title III, § 302, 68 Stat. 687; Pub. L. 85–699, title III, § 307(b), Aug. 21, 1958, 72 Stat. 694; Pub. L. 86–760, Sept. 13, 1960, 74 Stat. 902; Pub. L. 89–754, title V, § 504(b), Nov. 3, 1966, 80 Stat. 1278; Pub. L. 91–567, § 6(c), Dec. 22, 1970, 84 Stat. 1499; Pub. L. 96–477, title III, § 302, Oct. 21, 1980, 94 Stat. 2291; Pub. L. 101–550, title IV, § 403, Nov. 15, 1990, 104 Stat. 2722; Pub. L. 104–290, title V, § 508(e), Oct. 11, 1996, 110 Stat. 3448; Pub. L. 105–353, title III, § 301(e)(2), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 111–203, title IX, § 985(c)(1), July 21, 2010, 124 Stat. 1934.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Act of 1933, referred to in subsec. (a)(4), (5), and (10), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (a)(4), (5), and (10), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The National Housing Act, referred to in subsec. (a)(5), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified generally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. Provisions of that act relating to insurance of mortgages are contained in section 1707 et seq. of Title 12. Title XI of the National Housing Act, is classified to subchapter IX–B (§ 1749aaa et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see References in Text note set out under section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (a)(5), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified generally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. Provisions of that act relating to insurance of mortgages are contained in section 1707 et seq. of Title 12. Title XI of the National Housing Act, is classified to subchapter IX–B (§ 1749aaa et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see References in Text note set out under section 1701 of Title 12 and Tables.
 
-The Small Business Investment Act of 1958, referred to in subsec. (e), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (e), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 **Amendments**
 
@@ -3768,15 +3768,15 @@ The Small Business Investment Act of 1958, referred to in subsec. (e), is Pub. L
 
 1996—Subsec. (a)(4)(A). Pub. L. 104–290 substituted “(11), or (14)” for “or (11)”.
 
-1990—Subsec. (a)(3). Pub. L. 101–550, § 403(1)(A), struck out par. (3) which read as follows: “any security which, prior to or within six months after August 3, 1939, has been sold or disposed of by the issuer or bona fide offered to the public, but this exemption shall not apply to any new offering of any such security by an issuer subsequent to such six months;”.
+1990—Subsec. (a)(3). Pub. L. 101–550, § 403(1)(A), struck out par. (3) which read as follows: “any security which, prior to or within six months after August 3, 1939, has been sold or disposed of by the issuer or bona fide offered to the public, but this exemption shall not apply to any new offering of any such security by an issuer subsequent to such six months;”.
 
-Subsec. (a)(4)(A). Pub. L. 101–550, § 403(1)(B), struck out “, as heretofore amended,” after “1933”.
+Subsec. (a)(4)(A). Pub. L. 101–550, § 403(1)(B), struck out “, as heretofore amended,” after “1933”.
 
-Subsec. (d). Pub. L. 101–550, § 403(2), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Commission may, on application by the issuer and after opportunity for hearing thereon, by order exempt from any one or more of the provisions of this subchapter any security issued or proposed to be issued by a person organized and existing under the laws of a foreign government or a political subdivision thereof, if and to the extent that the Commission finds that compliance with such provision or provisions is not necessary in the public interest and for the protection of investors.”
+Subsec. (d). Pub. L. 101–550, § 403(2), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Commission may, on application by the issuer and after opportunity for hearing thereon, by order exempt from any one or more of the provisions of this subchapter any security issued or proposed to be issued by a person organized and existing under the laws of a foreign government or a political subdivision thereof, if and to the extent that the Commission finds that compliance with such provision or provisions is not necessary in the public interest and for the protection of investors.”
 
-1980—Subsec. (a)(8). Pub. L. 96–477, § 302(a), substituted “an aggregate principal amount of securities of the same issuer greater than the figure stated in section 3(b) of the Securities Act of 1933 limiting exemptions thereunder, or such lesser amount as the Commission may establish by its rules and regulations” for “more than $250,000 aggregate principal amount of any securities of the same issuer”.
+1980—Subsec. (a)(8). Pub. L. 96–477, § 302(a), substituted “an aggregate principal amount of securities of the same issuer greater than the figure stated in section 3(b) of the Securities Act of 1933 limiting exemptions thereunder, or such lesser amount as the Commission may establish by its rules and regulations” for “more than $250,000 aggregate principal amount of any securities of the same issuer”.
 
-Subsec. (a)(9). Pub. L. 96–477, § 302(b), substituted “$10,000,000, or such lesser amount as the Commission may establish by its rules and regulations” for “$1,000,000 or less”, “more than $10,000,000” for “more than $1,000,000”, and inserted “, or such lesser amount as the Commission may establish by its rules and regulations” after “same issuer”.
+Subsec. (a)(9). Pub. L. 96–477, § 302(b), substituted “$10,000,000, or such lesser amount as the Commission may establish by its rules and regulations” for “$1,000,000 or less”, “more than $10,000,000” for “more than $1,000,000”, and inserted “, or such lesser amount as the Commission may establish by its rules and regulations” after “same issuer”.
 
 1970—Subsec. (a)(4). Pub. L. 91–567 designated existing provisions as cl. (A) and added cl. (B).
 
@@ -3806,9 +3806,9 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77eee. Securities required to be registered under Securities Act
+### § 77eee. Securities required to be registered under Securities Act
 
 **(a) Information required** Subject to the provisions of section 77ddd of this title, a registration statement relating to a security shall include the following information and documents, as though such inclusion were required by the provisions of section 7 of the Securities Act of 1933 [15 U.S.C. 77g]—
 
@@ -3838,19 +3838,19 @@ A prospectus relating to any such security shall include to the extent the Commi
 
 The provisions of sections 11, 12, 17, and 24 of the Securities Act of 1933 [15 U.S.C. 77k, 77*l*, 77q, 77x], and the provisions of sections 77www and 77yyy of this title, shall not apply to statements in or omissions from any analysis required under the provisions of this section or section 77fff or 77ggg of this title.
 
-(May 27, 1933, ch. 38, title III, § 305, as added Aug. 3, 1939, ch. 411, 53 Stat. 1154; amended Aug. 10, 1954, ch. 667, title III, § 303, 68 Stat. 687; Pub. L. 101–550, title IV, § 404, Nov. 15, 1990, 104 Stat. 2722.)
+(May 27, 1933, ch. 38, title III, § 305, as added Aug. 3, 1939, ch. 411, 53 Stat. 1154; amended Aug. 10, 1954, ch. 667, title III, § 303, 68 Stat. 687; Pub. L. 101–550, title IV, § 404, Nov. 15, 1990, 104 Stat. 2722.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Act of 1933, referred to in subsec. (b)(2), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (b)(2), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 **Amendments**
 
-1990—Subsec. (a)(1). Pub. L. 101–550, § 404(1), struck out “or has a conflicting interest as defined in subsection (b) of section 77jjj of this title” after “section 77jjj of this title”.
+1990—Subsec. (a)(1). Pub. L. 101–550, § 404(1), struck out “or has a conflicting interest as defined in subsection (b) of section 77jjj of this title” after “section 77jjj of this title”.
 
-Subsec. (b). Pub. L. 101–550, § 404(2), designated existing provisions as par. (1), substituted “Except as may be permitted by paragraph (2) of this subsection, the Commission shall issue” for “The Commission shall issue”, redesignated former par. (1) as subpar. (a) and inserted “or” at end, struck out former par. (2) which authorized Commission to prohibit a registration statement from taking effect if it finds that such indenture does not conform to requirements of sections 77jjj to 77rrr of this title, redesignated former par. (3) as subpar. (B) and struck out “or has any conflicting interest as defined in subsection (b) of section 77jjj of this title” after “section 77jjj of this title”, and added par. (2).
+Subsec. (b). Pub. L. 101–550, § 404(2), designated existing provisions as par. (1), substituted “Except as may be permitted by paragraph (2) of this subsection, the Commission shall issue” for “The Commission shall issue”, redesignated former par. (1) as subpar. (a) and inserted “or” at end, struck out former par. (2) which authorized Commission to prohibit a registration statement from taking effect if it finds that such indenture does not conform to requirements of sections 77jjj to 77rrr of this title, redesignated former par. (3) as subpar. (B) and struck out “or has any conflicting interest as defined in subsection (b) of section 77jjj of this title” after “section 77jjj of this title”, and added par. (2).
 
 1954—Subsec. (c). Act Aug. 10, 1954, authorized the Commission to prescribe by rule and regulation the extent to which summaries of indenture provisions must be contained in prospectuses.
 
@@ -3864,9 +3864,9 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77fff. Securities not registered under Securities Act
+### § 77fff. Securities not registered under Securities Act
 
 **(a) Prohibitions affecting unregistered securities not issued under indenture** In the case of any security which is not registered under the Securities Act of 1933 [15 U.S.C. 77a et seq.] and to which this subsection is applicable notwithstanding the provisions of section 77ddd of this title, unless such security has been or is to be issued under an indenture and an application for qualification is effective as to such indenture, it shall be unlawful for any person, directly or indirectly—
 
@@ -3884,13 +3884,13 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 It shall be unlawful for any person, directly or indirectly, to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to offer to sell through the use or medium of any prospectus or otherwise any security which is not registered under the Securities Act of 1933 [15 U.S.C. 77a et seq.] and to which this subsection is applicable notwithstanding the provisions of section 77ddd of this title, unless such security has been or is to be issued under an indenture and an application for qualification has been filed as to such indenture, or while the application is the subject of a refusal order or stop order or (prior to qualification) any public proceeding or examination under section 77ggg(c) of this title.
 
-(May 27, 1933, ch. 38, title III, § 306, as added Aug. 3, 1939, ch. 411, 53 Stat. 1155; amended Aug. 10, 1954, ch. 667, title III, § 304, 68 Stat. 687.)
+(May 27, 1933, ch. 38, title III, § 306, as added Aug. 3, 1939, ch. 411, 53 Stat. 1155; amended Aug. 10, 1954, ch. 667, title III, § 304, 68 Stat. 687.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Act of 1933, referred to in subsecs. (a) to (c), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsecs. (a) to (c), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 **Amendments**
 
@@ -3908,9 +3908,9 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77ggg. Qualification of indentures covering securities not required to be registered
+### § 77ggg. Qualification of indentures covering securities not required to be registered
 
 **(a) Application; information required; availability of information to public**
 
@@ -3924,13 +3924,13 @@ The filing with the Commission of an application, or of an amendment to an appli
 
 The provisions of section 77h of this title and the provisions of subsection (b) of section 77eee of this title shall apply with respect to every such application, as though such application were a registration statement filed pursuant to the provisions of the Securities Act of 1933 [15 U.S.C. 77a et seq.].
 
-(May 27, 1933, ch. 38, title III, § 307, as added Aug. 3, 1939, ch. 411, 53 Stat. 1156; amended Pub. L. 107–123, § 7, Jan. 16, 2002, 115 Stat. 2397.)
+(May 27, 1933, ch. 38, title III, § 307, as added Aug. 3, 1939, ch. 411, 53 Stat. 1156; amended Pub. L. 107–123, § 7, Jan. 16, 2002, 115 Stat. 2397.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Act of 1933, referred to in subsecs. (a) and (c), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsecs. (a) and (c), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 **Amendments**
 
@@ -3946,9 +3946,9 @@ Amendment by Pub. L. 107–123 effective Oct. 1, 2001, see section 11 of Pub. L.
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77hhh. Integration of procedure with Securities Act and other Acts
+### § 77hhh. Integration of procedure with Securities Act and other Acts
 
 **(a) Incorporation by reference**
 
@@ -3958,15 +3958,15 @@ The Commission, by such rules and regulations or orders as it deems necessary or
 
 The Commission, by such rules and regulations or orders as it deems necessary or appropriate in the public interest or for the protection of investors, shall provide for the consolidation of applications, reports, and proceedings under this subchapter with registration statements, applications, reports, and proceedings under the Securities Act of 1933 [15 U.S.C. 77a et seq.] or the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.].
 
-(May 27, 1933, ch. 38, title III, § 308, as added Aug. 3, 1939, ch. 411, 53 Stat. 1156; amended Pub. L. 111–203, title IX, § 986(b)(2), July 21, 2010, 124 Stat. 1936.)
+(May 27, 1933, ch. 38, title III, § 308, as added Aug. 3, 1939, ch. 411, 53 Stat. 1156; amended Pub. L. 111–203, title IX, § 986(b)(2), July 21, 2010, 124 Stat. 1936.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Act of 1933, referred to in subsecs. (a) and (b), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsecs. (a) and (b), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsecs. (a) and (b), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsecs. (a) and (b), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 **Amendments**
 
@@ -3982,9 +3982,9 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77iii. Effective time of qualification
+### § 77iii. Effective time of qualification
 
 **(a) Effective time of registration or application for qualification of indenture** The indenture under which a security has been or is to be issued shall be deemed to have been qualified under this subchapter—
 
@@ -4008,29 +4008,29 @@ No trustee under an indenture which has been qualified under this subchapter sha
 
 Nothing in this subchapter shall be construed as empowering the Commission to conduct an investigation or other proceeding for the purpose of determining whether the provisions of an indenture which has been qualified under this subchapter are being complied with, or to enforce such provisions.
 
-(May 27, 1933, ch. 38, title III, § 309, as added Aug. 3, 1939, ch. 411, 53 Stat. 1157; amended Pub. L. 101–550, title IV, § 405, Nov. 15, 1990, 104 Stat. 2723.)
+(May 27, 1933, ch. 38, title III, § 309, as added Aug. 3, 1939, ch. 411, 53 Stat. 1157; amended Pub. L. 101–550, title IV, § 405, Nov. 15, 1990, 104 Stat. 2723.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (b). Pub. L. 101–550 inserted before period at end “, or the failure of the issuer to file an application as provided for by section 77eee(b)(2) of this title”.
+1990—Subsec. (b). Pub. L. 101–550 inserted before period at end “, or the failure of the issuer to file an application as provided for by section 77eee(b)(2) of this title”.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77jjj. Eligibility and disqualification of trustee
+### § 77jjj. Eligibility and disqualification of trustee
 
 **(a) Persons eligible for appointment as trustee**
 
 **(1)** There shall at all times be one or more trustees under every indenture qualified or to be qualified pursuant to this subchapter, at least one of whom shall at all times be a corporation organized and doing business under the laws of the United States or of any State or Territory or of the District of Columbia or a corporation or other person permitted to act as trustee by the Commission (referred to in this subchapter as the institutional trustee), which (A) is authorized under such laws to exercise corporate trust powers, and (B) is subject to supervision or examination by Federal, State, Territorial, or District of Columbia authority. The Commission may, pursuant to such rules and regulations as it may prescribe, or by order on application, permit a corporation or other person organized and doing business under the laws of a foreign government to act as sole trustee under an indenture qualified or to be qualified pursuant to this subchapter, if such corporation or other person (i) is authorized under such laws to exercise corporate trust powers, and (ii) is subject to supervision or examination by authority of such foreign government or a political subdivision thereof substantially equivalent to supervision or examination applicable to United States institutional trustees. In prescribing such rules and regulations or making such order, the Commission shall consider whether under such laws, a United States institutional trustee is eligible to act as sole trustee under an indenture relating to securities sold within the jurisdiction of such foreign government.
 
-**(2)** Such institution 1
+**(2)** Such institution 1
 
-<sup>1</sup>  So in original. Probably should be “institutional”.
+<sup>1</sup> So in original. Probably should be “institutional”.
 
 trustee shall have at all times a combined capital and surplus of a specified minimum amount, which shall not be less than $150,000. If such institutional trustee publishes reports of condition at least annually, pursuant to law or to the requirements of said supervising or examining authority, the indenture may provide that, for the purposes of this paragraph, the combined capital and surplus of such trustee shall be deemed to be its combined capital and surplus as set forth in its most recent report of condition so published.
 
@@ -4080,9 +4080,9 @@ For the purposes of this subsection, an indenture trustee shall be deemed to hav
 
 **(6)** such trustee is the beneficial owner of, or holds as collateral security for an obligation which is in default as hereinafter defined—
 
-**(A)** 5 per centum or more of the voting securities, or 10 per centum or more of any other class of security, of an obligor upon the indenture securities, not including indentures 2
+**(A)** 5 per centum or more of the voting securities, or 10 per centum or more of any other class of security, of an obligor upon the indenture securities, not including indentures 2
 
-<sup>2</sup>  So in original. Probably should be “indenture”.
+<sup>2</sup> So in original. Probably should be “indenture”.
 
 securities and securities issued under any other indenture under which such trustee is also trustee, or
 
@@ -4094,9 +4094,9 @@ securities and securities issued under any other indenture under which such trus
 
 **(9)** such trustee owns, on the date of default upon the indenture securities (as such term is defined in such indenture but exclusive of any period of grace or requirement of notice) or any anniversary of such default while such default upon the indenture securities remains outstanding, in the capacity of executor, administrator, testamentary or inter vivos trustee, guardian, committee or conservator, or in any other similar capacity, an aggregate of 25 per centum or more of the voting securities, or of any class of security, of any person, the beneficial ownership of a specified percentage of which would have constituted a conflicting interest under paragraph (6), (7), or (8) of this subsection. As to any such securities of which the indenture trustee acquired ownership through becoming executor, administrator or testamentary trustee of an estate which include them, the provisions of the preceding sentence shall not apply for a period of not more than 2 years from the date of such acquisition, to the extent that such securities included in such estate do not exceed 25 per centum of such voting securities or 25 per centum of any such class of security. Promptly after the dates of any such default upon the indenture securities and annually in each succeeding year that the indenture securities remain in default the trustee shall make a check of its holding of such securities in any of the above-mentioned capacities as of such dates. If the obligor upon the indenture securities fails to make payment in full of principal or interest under such indenture when and as the same becomes due and payable, and such failure continues for 30 days thereafter, the trustee shall make a prompt check of its holdings of such securities in any of the above-mentioned capacities as of the date of the expiration of such 30-day period, and after such date, notwithstanding the foregoing provisions of this paragraph, all such securities so held by the trustee, with sole or joint control over such securities vested in it, shall be considered as though beneficially owned by such trustee, for the purposes of paragraphs (6), (7), and (8) of this subsection; or
 
-**(10)** except under the circumstances described in paragraphs 3
+**(10)** except under the circumstances described in paragraphs 3
 
-<sup>3</sup>  So in original. Probably should be “paragraph”.
+<sup>3</sup> So in original. Probably should be “paragraph”.
 
 (1), (3), (4), (5) or (6) of section 77kkk(b) of this title, the trustee shall be or shall become a creditor of the obligor.
 
@@ -4122,7 +4122,7 @@ Except in the case of a default in the payment of the principal of or interest o
 
 Any resignation of an indenture trustee shall become effective only upon the appointment of a successor trustee and such successor’s acceptance of such an appointment.
 
-(May 27, 1933, ch. 38, title III, § 310, as added Aug. 3, 1939, ch. 411, 53 Stat. 1157; amended Pub. L. 101–550, title IV, §§ 406–408, Nov. 15, 1990, 104 Stat. 2723, 2724; Pub. L. 111–203, title IX, § 986(b)(3), July 21, 2010, 124 Stat. 1936.)
+(May 27, 1933, ch. 38, title III, § 310, as added Aug. 3, 1939, ch. 411, 53 Stat. 1157; amended Pub. L. 101–550, title IV, §§ 406–408, Nov. 15, 1990, 104 Stat. 2723, 2724; Pub. L. 111–203, title IX, § 986(b)(3), July 21, 2010, 124 Stat. 1936.)
 
 **Editorial Notes**
 
@@ -4130,17 +4130,17 @@ Any resignation of an indenture trustee shall become effective only upon the app
 
 2010—Subsec. (c). Pub. L. 111–203 struck out subsec. (c). Text read as follows: “The Public Utility Holding Company Act of 1935 shall not be held to establish or authorize the establishment of any standards regarding the eligibility and qualifications of any trustee or prospective trustee under an indenture to be qualified under this subchapter, or regarding the provisions to be included in any such indenture with respect to the eligibility and qualifications of the trustee thereunder, other than those established by the provisions of this section.”
 
-1990—Subsec. (a)(1). Pub. L. 101–550, § 406(1)–(4), substituted “There shall” for “The indenture to be qualified shall require that there shall”, and “under every indenture qualified or to be qualified pursuant to this subchapter” for “thereunder”, inserted “or a corporation or other person permitted to act as trustee by the Commission” before “(referred to”, and inserted at end “The Commission may, pursuant to such rules and regulations as it may prescribe, or by order on application, permit a corporation or other person organized and doing business under the laws of a foreign government to act as sole trustee under an indenture qualified or to be qualified pursuant to this subchapter, if such corporation or other person (i) is authorized under such laws to exercise corporate trust powers, and (ii) is subject to supervision or examination by authority of such foreign government or a political subdivision thereof substantially equivalent to supervision or examination applicable to United States institutional trustees. In prescribing such rules and regulations or making such order, the Commission shall consider whether under such laws, a United States institutional trustee is eligible to act as sole trustee under an indenture relating to securities sold within the jurisdiction of such foreign government.”
+1990—Subsec. (a)(1). Pub. L. 101–550, § 406(1)–(4), substituted “There shall” for “The indenture to be qualified shall require that there shall”, and “under every indenture qualified or to be qualified pursuant to this subchapter” for “thereunder”, inserted “or a corporation or other person permitted to act as trustee by the Commission” before “(referred to”, and inserted at end “The Commission may, pursuant to such rules and regulations as it may prescribe, or by order on application, permit a corporation or other person organized and doing business under the laws of a foreign government to act as sole trustee under an indenture qualified or to be qualified pursuant to this subchapter, if such corporation or other person (i) is authorized under such laws to exercise corporate trust powers, and (ii) is subject to supervision or examination by authority of such foreign government or a political subdivision thereof substantially equivalent to supervision or examination applicable to United States institutional trustees. In prescribing such rules and regulations or making such order, the Commission shall consider whether under such laws, a United States institutional trustee is eligible to act as sole trustee under an indenture relating to securities sold within the jurisdiction of such foreign government.”
 
-Subsec. (a)(2). Pub. L. 101–550, § 406(5), which directed the substitution of “Such institution” for “The indenture to be qualified shall require that such institution”, was executed by making the substitution for “The indenture to be qualified shall require that such institutional”, as the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 101–550, § 406(5), which directed the substitution of “Such institution” for “The indenture to be qualified shall require that such institution”, was executed by making the substitution for “The indenture to be qualified shall require that such institutional”, as the probable intent of Congress.
 
-Subsec. (a)(3). Pub. L. 101–550, § 406(6), struck out “such indenture shall provide that” before “the rights”.
+Subsec. (a)(3). Pub. L. 101–550, § 406(6), struck out “such indenture shall provide that” before “the rights”.
 
-Subsec. (a)(4). Pub. L. 101–550, § 406(7), (8), struck out “the indenture to be qualified shall require that” before “the indenture” and inserted “shall” after “trustee or trustees”.
+Subsec. (a)(4). Pub. L. 101–550, § 406(7), (8), struck out “the indenture to be qualified shall require that” before “the indenture” and inserted “shall” after “trustee or trustees”.
 
-Subsec. (a)(5). Pub. L. 101–550, § 407, added par. (5).
+Subsec. (a)(5). Pub. L. 101–550, § 407, added par. (5).
 
-Subsec. (b). Pub. L. 101–550, § 408, amended subsec. (b) generally.
+Subsec. (b). Pub. L. 101–550, § 408, amended subsec. (b) generally.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4152,9 +4152,9 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77kkk. Preferential collection of claims against obligor
+### § 77kkk. Preferential collection of claims against obligor
 
 **(a) Trustee as creditor of obligor** Subject to the provisions of subsection (b) of this section, if the indenture trustee shall be, or shall become, a creditor, directly or indirectly, secured or unsecured, of an obligor upon the indenture securities, within three months prior to a default as defined in the last paragraph of this subsection, or subsequent to such a default, then, unless and until such default shall be cured, such trustee shall set apart and hold in a special account for the benefit of the trustee individually and the indenture security holders—
 
@@ -4194,29 +4194,29 @@ As used in this subsection, the term “default” means any failure to make pay
 
 **(4)** an indebtedness created as a result of services rendered or premises rented; or an indebtedness created as a result of goods or securities sold in a cash transaction as defined in the indenture;
 
-**(5)** the ownership of stock or of other securities of a corporation organized under the provisions of section 25(a) 1
+**(5)** the ownership of stock or of other securities of a corporation organized under the provisions of section 25(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Federal Reserve Act, as amended [12 U.S.C. 611 et seq.], which is directly or indirectly a creditor of an obligor upon the indenture securities; or
 
 **(6)** the acquisition, ownership, acceptance, or negotiation of any drafts, bills of exchange, acceptances, or obligations which fall within the classification of self-liquidating paper as defined in the indenture.
 
-(May 27, 1933, ch. 38, title III, § 311, as added Aug. 3, 1939, ch. 411, 53 Stat. 1161; amended Pub. L. 101–550, title IV, § 409, Nov. 15, 1990, 104 Stat. 2728; Pub. L. 111–203, title IX, § 986(b)(4), July 21, 2010, 124 Stat. 1936.)
+(May 27, 1933, ch. 38, title III, § 311, as added Aug. 3, 1939, ch. 411, 53 Stat. 1161; amended Pub. L. 101–550, title IV, § 409, Nov. 15, 1990, 104 Stat. 2728; Pub. L. 111–203, title IX, § 986(b)(4), July 21, 2010, 124 Stat. 1936.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 25(a) of the Federal Reserve Act, as amended, referred to in subsec. (b)(5), which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
+Section 25(a) of the Federal Reserve Act, as amended, referred to in subsec. (b)(5), which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
 
 **Amendments**
 
 2010—Subsec. (c). Pub. L. 111–203 struck out subsec. (c) which related to issue or sale of securities by a registered holding company.
 
-1990—Subsec. (a). Pub. L. 101–550, § 409(1)–(4), struck out “the indenture to be qualified shall provide that” before “if” in first par., substituted “If” for “The indenture to be qualified shall provide that, if” in third par., substituted “three months” for “four months” and “three months’ ” for “four months’ ” wherever appearing, and inserted at end “In any case commenced under the Bankruptcy Act of July 1, 1898, or any amendment thereto enacted prior to November 6, 1978, all references to periods of three months shall be deemed to be references to periods of four months.”
+1990—Subsec. (a). Pub. L. 101–550, § 409(1)–(4), struck out “the indenture to be qualified shall provide that” before “if” in first par., substituted “If” for “The indenture to be qualified shall provide that, if” in third par., substituted “three months” for “four months” and “three months’ ” for “four months’ ” wherever appearing, and inserted at end “In any case commenced under the Bankruptcy Act of July 1, 1898, or any amendment thereto enacted prior to November 6, 1978, all references to periods of three months shall be deemed to be references to periods of four months.”
 
-Subsec. (b). Pub. L. 101–550, § 409(5), substituted “shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “may”.
+Subsec. (b). Pub. L. 101–550, § 409(5), substituted “shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “may”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4228,9 +4228,9 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77lll. Bondholders’ lists
+### § 77lll. Bondholders’ lists
 
 **(a) Periodic filing of information by obligor with trustee**
 
@@ -4248,33 +4248,33 @@ If such trustee shall elect not to afford to such applicants access to such info
 
 The disclosure of any such information as to the names and addresses of the indenture security holders in accordance with the provisions of this section, regardless of the source from which such information was derived, shall not be deemed to be a violation of any existing law, or of any law hereafter enacted which does not specifically refer to this section, nor shall such trustee be held accountable by reason of mailing any material pursuant to a request made under subsection (b) of this section.
 
-(May 27, 1933, ch. 38, title III, § 312, as added Aug. 3, 1939, ch. 411, 53 Stat. 1164; amended Pub. L. 101–550, title IV, § 410, Nov. 15, 1990, 104 Stat. 2728.)
+(May 27, 1933, ch. 38, title III, § 312, as added Aug. 3, 1939, ch. 411, 53 Stat. 1164; amended Pub. L. 101–550, title IV, § 410, Nov. 15, 1990, 104 Stat. 2728.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–550, § 410(1), (2), substituted “Each obligor” for “The indenture to be qualified shall contain provisions requiring each obligor” and “indenture securities shall” for “indenture securities to”.
+1990—Subsec. (a). Pub. L. 101–550, § 410(1), (2), substituted “Each obligor” for “The indenture to be qualified shall contain provisions requiring each obligor” and “indenture securities shall” for “indenture securities to”.
 
-Subsec. (b). Pub. L. 101–550, § 410(3), substituted “Within” for “The indenture to be qualified shall also contain provisions requiring that, within”.
+Subsec. (b). Pub. L. 101–550, § 410(3), substituted “Within” for “The indenture to be qualified shall also contain provisions requiring that, within”.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77mmm. Reports by indenture trustee
+### § 77mmm. Reports by indenture trustee
 
-**(a) Report to security holders; time; contents** The indenture trustee shall transmit to the indenture security holders as hereinafter provided, at stated intervals of not more than 12 months, a brief report with respect to any of the following events which may have occurred within the previous 12 months (but if no such event has occurred within such period no report need be transmitted):— 1
+**(a) Report to security holders; time; contents** The indenture trustee shall transmit to the indenture security holders as hereinafter provided, at stated intervals of not more than 12 months, a brief report with respect to any of the following events which may have occurred within the previous 12 months (but if no such event has occurred within such period no report need be transmitted):— 1
 
-<sup>1</sup>  So in original. The colon probably should not appear.
+<sup>1</sup> So in original. The colon probably should not appear.
 
 **(1)** any change to its eligibility and its qualifications under section 77jjj of this title;
 
-**(2)** the creation of or any material change to a relationship specified in paragraph 2
+**(2)** the creation of or any material change to a relationship specified in paragraph 2
 
-<sup>2</sup>  So in original. Probably should be “paragraphs”.
+<sup>2</sup> So in original. Probably should be “paragraphs”.
 
 (1) through (10) of section 77jjj(b) of this title;
 
@@ -4308,47 +4308,47 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 A copy of each such report shall, at the time of such transmission to indenture security holders, be filed with each stock exchange upon which the indenture securities are listed, and also with the Commission.
 
-(May 27, 1933, ch. 38, title III, § 313, as added Aug. 3, 1939, ch. 411, 53 Stat. 1165; amended Pub. L. 101–550, title IV, §§ 411, 412, Nov. 15, 1990, 104 Stat. 2729; Pub. L. 105–353, title III, § 301(e)(3), Nov. 3, 1998, 112 Stat. 3237.)
+(May 27, 1933, ch. 38, title III, § 313, as added Aug. 3, 1939, ch. 411, 53 Stat. 1165; amended Pub. L. 101–550, title IV, §§ 411, 412, Nov. 15, 1990, 104 Stat. 2729; Pub. L. 105–353, title III, § 301(e)(3), Nov. 3, 1998, 112 Stat. 3237.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (a)(4). Pub. L. 105–353, § 301(e)(3)(A), inserted “any change to” before “the amount”.
+1998—Subsec. (a)(4). Pub. L. 105–353, § 301(e)(3)(A), inserted “any change to” before “the amount”.
 
-Subsec. (a)(6). Pub. L. 105–353, § 301(e)(3)(B), struck out “any change to” before “any release”.
+Subsec. (a)(6). Pub. L. 105–353, § 301(e)(3)(B), struck out “any change to” before “any release”.
 
-1990—Subsec. (a). Pub. L. 101–550, § 411(1), (2), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to” and inserted “any of the following events which may have occurred within the previous 12 months (but if no such event has occurred within such period no report need be transmitted):” after “a brief report with respect to”.
+1990—Subsec. (a). Pub. L. 101–550, § 411(1), (2), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to” and inserted “any of the following events which may have occurred within the previous 12 months (but if no such event has occurred within such period no report need be transmitted):” after “a brief report with respect to”.
 
-Subsec. (a)(1). Pub. L. 101–550, § 411(3), (4), inserted “any change to” before “its eligibility” and struck out “, or in lieu thereof, if to the best of its knowledge it has continued to be eligible and qualified under such section, a written statement to such effect” after “of this title”.
+Subsec. (a)(1). Pub. L. 101–550, § 411(3), (4), inserted “any change to” before “its eligibility” and struck out “, or in lieu thereof, if to the best of its knowledge it has continued to be eligible and qualified under such section, a written statement to such effect” after “of this title”.
 
-Subsec. (a)(2). Pub. L. 101–550, § 411(5), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (a)(2). Pub. L. 101–550, § 411(5), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (a)(3), (4). Pub. L. 101–550, § 411(5)(A), redesignated pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
+Subsec. (a)(3), (4). Pub. L. 101–550, § 411(5)(A), redesignated pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 101–550, § 411(5)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 101–550, § 411(5)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Pub. L. 101–550, § 411(3), inserted “any change to” after the paragraph designation.
+Pub. L. 101–550, § 411(3), inserted “any change to” after the paragraph designation.
 
-Subsec. (a)(6). Pub. L. 101–550, § 411(5)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+Subsec. (a)(6). Pub. L. 101–550, § 411(5)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Pub. L. 101–550, § 411(3), inserted “any change to” after the paragraph designation.
+Pub. L. 101–550, § 411(3), inserted “any change to” after the paragraph designation.
 
-Subsec. (a)(7), (8). Pub. L. 101–550, § 411(5)(A), redesignated pars. (6) and (7) as (7) and (8), respectively.
+Subsec. (a)(7), (8). Pub. L. 101–550, § 411(5)(A), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
-Subsec. (b). Pub. L. 101–550, § 412(1), substituted “The indenture trustee shall” for “The indenture to be qualified shall also contain provisions requiring the indenture trustee to”.
+Subsec. (b). Pub. L. 101–550, § 412(1), substituted “The indenture trustee shall” for “The indenture to be qualified shall also contain provisions requiring the indenture trustee to”.
 
-Subsec. (c). Pub. L. 101–550, § 412(2), substituted “Reports” for “The indenture to be qualified shall also provide that reports”.
+Subsec. (c). Pub. L. 101–550, § 412(2), substituted “Reports” for “The indenture to be qualified shall also provide that reports”.
 
-Subsec. (d). Pub. L. 101–550, § 412(3), substituted “A copy” for “The indenture to be qualified shall also provide that a copy”.
+Subsec. (d). Pub. L. 101–550, § 412(3), substituted “A copy” for “The indenture to be qualified shall also provide that a copy”.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77nnn. Reports by obligor; evidence of compliance with indenture provisions
+### § 77nnn. Reports by obligor; evidence of compliance with indenture provisions
 
 **(a) Periodic reports** Each person who, as set forth in the registration statement or application, is or is to be an obligor upon the indenture securities covered thereby shall—
 
@@ -4400,31 +4400,31 @@ Each certificate or opinion with respect to compliance with a condition or coven
 
 Nothing in this section shall be construed either as requiring the inclusion in the indenture to be qualified of provisions that the obligor upon the indenture securities shall furnish to the indenture trustee any other evidence of compliance with the conditions and covenants provided for in the indenture than the evidence specified in this section, or as preventing the inclusion of such provisions in such indenture, if the parties so agree.
 
-(May 27, 1933, ch. 38, title III, § 314, as added Aug. 3, 1939, ch. 411, 53 Stat. 1167; amended Pub. L. 101–550, title IV, § 413, Nov. 15, 1990, 104 Stat. 2729.)
+(May 27, 1933, ch. 38, title III, § 314, as added Aug. 3, 1939, ch. 411, 53 Stat. 1167; amended Pub. L. 101–550, title IV, § 413, Nov. 15, 1990, 104 Stat. 2729.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–550, § 413(1)–(6), in introductory provision substituted “Each” for “The indenture to be qualified shall contain provisions requiring each” and inserted “shall” after “thereby” and in pars. (1) to (3) struck out “to” after the paragraph designation, and directed the addition of par. (4) at the end which was executed by inserting par. (4) after par. (3) to reflect the probable intent of Congress.
+1990—Subsec. (a). Pub. L. 101–550, § 413(1)–(6), in introductory provision substituted “Each” for “The indenture to be qualified shall contain provisions requiring each” and inserted “shall” after “thereby” and in pars. (1) to (3) struck out “to” after the paragraph designation, and directed the addition of par. (4) at the end which was executed by inserting par. (4) after par. (3) to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 101–550, § 413(7), (8), struck out “such indenture shall contain provisions requiring” before “the obligor” and substituted “securities shall furnish” for “securities to furnish”.
+Subsec. (b). Pub. L. 101–550, § 413(7), (8), struck out “such indenture shall contain provisions requiring” before “the obligor” and substituted “securities shall furnish” for “securities to furnish”.
 
-Subsec. (c). Pub. L. 101–550, § 413(9), (10), substituted “The obligor” for “The indenture to be qualified shall contain provisions requiring the obligor” and “securities shall furnish” for “securities to furnish”.
+Subsec. (c). Pub. L. 101–550, § 413(9), (10), substituted “The obligor” for “The indenture to be qualified shall contain provisions requiring the obligor” and “securities shall furnish” for “securities to furnish”.
 
-Subsec. (d). Pub. L. 101–550, § 413(11), (13), (14), substituted “the obligor upon the indenture securities shall furnish to the indenture trustee a certificate or opinion of an engineer, appraiser, or other expert as to the fair value” for “such indenture shall contain provisions” in introductory provisions and “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to provide that” for “If the indenture to be qualified so provides,” and “duly authorized to make such certificate or opinion by the obligor from time to time” for “specified in the indenture” in penultimate sentence.
+Subsec. (d). Pub. L. 101–550, § 413(11), (13), (14), substituted “the obligor upon the indenture securities shall furnish to the indenture trustee a certificate or opinion of an engineer, appraiser, or other expert as to the fair value” for “such indenture shall contain provisions” in introductory provisions and “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to provide that” for “If the indenture to be qualified so provides,” and “duly authorized to make such certificate or opinion by the obligor from time to time” for “specified in the indenture” in penultimate sentence.
 
-Subsec. (d)(1) to (3). Pub. L. 101–550, § 413(12), which directed that “requiring the obligor upon the indenture securities to furnish to the indenture trustee a certificate or opinion of an engineer, appraiser or other expert as to the fair value” be struck out after the paragraph designations in pars. (1) to (3), was executed by striking out “requiring the obligor upon the indenture securities to furnish to the indenture trustee a certificate or opinion of an engineer, appraiser, or other expert as to the fair value”, as the probable intent of Congress.
+Subsec. (d)(1) to (3). Pub. L. 101–550, § 413(12), which directed that “requiring the obligor upon the indenture securities to furnish to the indenture trustee a certificate or opinion of an engineer, appraiser or other expert as to the fair value” be struck out after the paragraph designations in pars. (1) to (3), was executed by striking out “requiring the obligor upon the indenture securities to furnish to the indenture trustee a certificate or opinion of an engineer, appraiser, or other expert as to the fair value”, as the probable intent of Congress.
 
-Subsec. (e). Pub. L. 101–550, § 413(15), inserted “(other than certificates provided pursuant to subsection (a)(4) of this section)” after “indenture”.
+Subsec. (e). Pub. L. 101–550, § 413(15), inserted “(other than certificates provided pursuant to subsection (a)(4) of this section)” after “indenture”.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77ooo. Duties and responsibility of the trustee
+### § 77ooo. Duties and responsibility of the trustee
 
 **(a) Duties prior to default** The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to provide that, prior to default (as such term is defined in such indenture)—
 
@@ -4454,23 +4454,23 @@ The indenture trustee shall exercise in case of default (as such term is defined
 
 The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions to the effect that all parties thereto, including the indenture security holders, agree that the court may in its discretion require, in any suit for the enforcement of any right or remedy under such indenture, or in any suit against the trustee for any action taken or omitted by it as trustee, the filing by any party litigant in such suit of an undertaking to pay the costs of such suit, and that such court may in its discretion assess reasonable costs, including reasonable attorney’s fees, against any party litigant in such suit, having due regard to the merits and good faith of the claims or defenses made by such party litigant: *Provided*, That the provisions of this subsection shall not apply to any suit instituted by such trustee, to any suit instituted by any indenture security holder, or group of indenture security holders, holding in the aggregate more than 10 per centum in principal amount of the indenture securities outstanding, or to any suit instituted by any indenture security holder for the enforcement of the payment of the principal of or interest on any indenture security, on or after the respective due dates expressed in such indenture security.
 
-(May 27, 1933, ch. 38, title III, § 315, as added Aug. 3, 1939, ch. 411, 53 Stat. 1171; amended Pub. L. 101–550, title IV, § 414, Nov. 15, 1990, 104 Stat. 2730.)
+(May 27, 1933, ch. 38, title III, § 315, as added Aug. 3, 1939, ch. 411, 53 Stat. 1171; amended Pub. L. 101–550, title IV, § 414, Nov. 15, 1990, 104 Stat. 2730.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–550, § 414(1), (2), substituted “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “The indenture to be qualified may” and “the indenture trustee shall examine” for “such indenture shall contain provisions requiring the indenture trustee to examine”.
+1990—Subsec. (a). Pub. L. 101–550, § 414(1), (2), substituted “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “The indenture to be qualified may” and “the indenture trustee shall examine” for “such indenture shall contain provisions requiring the indenture trustee to examine”.
 
-Subsec. (b). Pub. L. 101–550, § 414(3), (4), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to” and “That such indenture shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to” for “That such indenture may”.
+Subsec. (b). Pub. L. 101–550, § 414(3), (4), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to” and “That such indenture shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to” for “That such indenture may”.
 
-Subsec. (c). Pub. L. 101–550, § 414(3), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to”.
+Subsec. (c). Pub. L. 101–550, § 414(3), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to”.
 
-Subsec. (d)(1) to (3). Pub. L. 101–550, § 414(5), substituted “such indenture shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “such indenture may”.
+Subsec. (d)(1) to (3). Pub. L. 101–550, § 414(5), substituted “such indenture shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “such indenture may”.
 
-Subsec. (e). Pub. L. 101–550, § 414(1), substituted “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “The indenture to be qualified may”.
+Subsec. (e). Pub. L. 101–550, § 414(1), substituted “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “The indenture to be qualified may”.
 
-### § 77ppp. Directions and waivers by bondholders; prohibition of impairment of holder’s right to payment; record date
+### § 77ppp. Directions and waivers by bondholders; prohibition of impairment of holder’s right to payment; record date
 
 **(a) Directions and waivers by bondholders** The indenture to be qualified—
 
@@ -4492,7 +4492,7 @@ For the purposes of this subsection and paragraph (3) of subsection (d) of secti
 
 The obligor upon any indenture qualified under this subchapter may set a record date for purposes of determining the identity of indenture security holders entitled to vote or consent to any action by vote or consent authorized or permitted by subsection (a) of this section. Unless the indenture provides otherwise, such record date shall be the later of 30 days prior to the first solicitation of such consent or the date of the most recent list of holders furnished to the trustee pursuant to section 77*lll* of this title prior to such solicitation.
 
-(May 27, 1933, ch. 38, title III, § 316, as added Aug. 3, 1939, ch. 411, 53 Stat. 1172; amended Pub. L. 101–550, title IV, § 415, Nov. 15, 1990, 104 Stat. 2731; Pub. L. 117–103, div. U, § 108, Mar. 15, 2022, 136 Stat. 832.)
+(May 27, 1933, ch. 38, title III, § 316, as added Aug. 3, 1939, ch. 411, 53 Stat. 1172; amended Pub. L. 101–550, title IV, § 415, Nov. 15, 1990, 104 Stat. 2731; Pub. L. 117–103, div. U, § 108, Mar. 15, 2022, 136 Stat. 832.)
 
 **Editorial Notes**
 
@@ -4500,13 +4500,13 @@ The obligor upon any indenture qualified under this subchapter may set a record 
 
 2022—Subsec. (b). Pub. L. 117–103 substituted “such holder, except—” for “such holder, except”, designated remainder of existing provisions as pars. (1) and (2), and added par. (3).
 
-1990—Subsec. (a). Pub. L. 101–550, § 415(1)–(3), in introductory provisions struck out “may contain provisions” after “qualified”, in par. (1) inserted “shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions” before “authorizing the holders” and “or if expressly specified in such indenture, of any series of securities” after “principal amount of the indenture securities”, and in par. (2) inserted “may contain provisions” before “authorizing the holders” and “or if expressly specified in such indenture, of any series of securities” after “principal amount of the indenture securities”.
+1990—Subsec. (a). Pub. L. 101–550, § 415(1)–(3), in introductory provisions struck out “may contain provisions” after “qualified”, in par. (1) inserted “shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions” before “authorizing the holders” and “or if expressly specified in such indenture, of any series of securities” after “principal amount of the indenture securities”, and in par. (2) inserted “may contain provisions” before “authorizing the holders” and “or if expressly specified in such indenture, of any series of securities” after “principal amount of the indenture securities”.
 
-Subsec. (b). Pub. L. 101–550, § 415(5), which directed the substitution of “of the indenture to be qualified” for “thereof”, was executed by making the substitution for “thereof” the first time appearing, as the probable intent of Congress.
+Subsec. (b). Pub. L. 101–550, § 415(5), which directed the substitution of “of the indenture to be qualified” for “thereof”, was executed by making the substitution for “thereof” the first time appearing, as the probable intent of Congress.
 
-Subsec. (c). Pub. L. 101–550, § 415(6), added subsec. (c).
+Subsec. (c). Pub. L. 101–550, § 415(6), added subsec. (c).
 
-### § 77qqq. Special powers of trustee; duties of paying agents
+### § 77qqq. Special powers of trustee; duties of paying agents
 
 **(a)** The indenture trustee shall be authorized—
 
@@ -4516,17 +4516,17 @@ Subsec. (c). Pub. L. 101–550, § 415(6), added subsec. (c).
 
 **(b)** Each paying agent shall hold in trust for the benefit of the indenture security holders or the indenture trustee all sums held by such paying agent for the payment of the principal of or interest on the indenture securities, and shall give to such trustee notice of any default by any obligor upon the indenture securities in the making of any such payment.
 
-(May 27, 1933, ch. 38, title III, § 317, as added Aug. 3, 1939, ch. 411, 53 Stat. 1173; amended Pub. L. 101–550, title IV, § 416, Nov. 15, 1990, 104 Stat. 2731; Pub. L. 111–203, title IX, § 985(c)(2), July 21, 2010, 124 Stat. 1934.)
+(May 27, 1933, ch. 38, title III, § 317, as added Aug. 3, 1939, ch. 411, 53 Stat. 1173; amended Pub. L. 101–550, title IV, § 416, Nov. 15, 1990, 104 Stat. 2731; Pub. L. 111–203, title IX, § 985(c)(2), July 21, 2010, 124 Stat. 1934.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a)(1). Pub. L. 111–203 substituted “(1) in the” for “(1) , in the”.
+2010—Subsec. (a)(1). Pub. L. 111–203 substituted “(1) in the” for “(1) , in the”.
 
-1990—Subsec. (a). Pub. L. 101–550, § 416(1)–(3), in introductory provisions, substituted “trustee shall be authorized” for “to be qualified shall contain provisions”, in par. (1) struck out “authorizing the indenture trustee” after the paragraph designation, and in par. (2) struck out “authorizing such trustee” after the paragraph designation.
+1990—Subsec. (a). Pub. L. 101–550, § 416(1)–(3), in introductory provisions, substituted “trustee shall be authorized” for “to be qualified shall contain provisions”, in par. (1) struck out “authorizing the indenture trustee” after the paragraph designation, and in par. (2) struck out “authorizing such trustee” after the paragraph designation.
 
-Subsec. (b). Pub. L. 101–550, § 416(4), substituted “Each” for “The indenture to be qualified shall provide that each”.
+Subsec. (b). Pub. L. 101–550, § 416(4), substituted “Each” for “The indenture to be qualified shall provide that each”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4534,7 +4534,7 @@ Subsec. (b). Pub. L. 101–550, § 416(4), substituted “Each” for “The i
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-### § 77rrr. Effect of prescribed indenture provisions
+### § 77rrr. Effect of prescribed indenture provisions
 
 **(a) Imposed duties to control**
 
@@ -4548,17 +4548,17 @@ The indenture to be qualified may contain, in addition to provisions specificall
 
 The provisions of sections 77jjj to and including 77qqq of this title that impose duties on any person (including provisions automatically deemed included in an indenture unless the indenture provides that such provisions are excluded) are a part of and govern every qualified indenture, whether or not physically contained therein, shall be deemed retroactively to govern each indenture heretofore qualified, and prospectively to govern each indenture hereafter qualified under this subchapter and shall be deemed retroactively to amend and supersede inconsistent provisions in each such indenture heretofore qualified. The foregoing provisions of this subsection shall not be deemed to effect the inclusion (by retroactive amendment or otherwise) in the text of any indenture heretofore qualified of any of the optional provisions contemplated by section 77jjj(b)(1), 77kkk(b), 77nnn(d), 77*ooo*(a), 77*ooo*(b), 77*ooo*(d), 77*ooo*(e), or 77ppp(a)(1) of this title.
 
-(May 27, 1933, ch. 38, title III, § 318, as added Aug. 3, 1939, ch. 411, 53 Stat. 1173; amended Pub. L. 101–550, title IV, § 417, Nov. 15, 1990, 104 Stat. 2731.)
+(May 27, 1933, ch. 38, title III, § 318, as added Aug. 3, 1939, ch. 411, 53 Stat. 1173; amended Pub. L. 101–550, title IV, § 417, Nov. 15, 1990, 104 Stat. 2731.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–550, § 417(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The indenture to be qualified shall provide that if any provision thereof limits, qualifies, or conflicts with another provision which is required to be included in such indenture by any of sections 77jjj to 77qqq of this title, inclusive, such required provision shall control.”
+1990—Subsec. (a). Pub. L. 101–550, § 417(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The indenture to be qualified shall provide that if any provision thereof limits, qualifies, or conflicts with another provision which is required to be included in such indenture by any of sections 77jjj to 77qqq of this title, inclusive, such required provision shall control.”
 
-Subsec. (c). Pub. L. 101–550, § 417(2), added subsec. (c).
+Subsec. (c). Pub. L. 101–550, § 417(2), added subsec. (c).
 
-### § 77sss. Rules, regulations, and orders
+### § 77sss. Rules, regulations, and orders
 
 **(a) Authority of Commission; subject matter of rules, etc.**
 
@@ -4572,7 +4572,7 @@ Subject to the provisions of chapter 15 of title 44 and regulations prescribed u
 
 No provision of this subchapter imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or order of the Commission, notwithstanding that such rule, regulation, or order may, after such act or omission, be amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
 
-(May 27, 1933, ch. 38, title III, § 319, as added Aug. 3, 1939, ch. 411, 53 Stat. 1173; Pub. L. 105–353, title III, § 301(e)(4), Nov. 3, 1998, 112 Stat. 3237.)
+(May 27, 1933, ch. 38, title III, § 319, as added Aug. 3, 1939, ch. 411, 53 Stat. 1173; Pub. L. 105–353, title III, § 301(e)(4), Nov. 3, 1998, 112 Stat. 3237.)
 
 **Editorial Notes**
 
@@ -4584,21 +4584,21 @@ No provision of this subchapter imposing any liability shall apply to any act do
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77ttt. Hearings by Commission
+### § 77ttt. Hearings by Commission
 
 Hearings may be public and may be held before the Commission, any member or members thereof, or any officer or officers of the Commission designated by it, and appropriate records thereof shall be kept.
 
-(May 27, 1933, ch. 38, title III, § 320, as added Aug. 3, 1939, ch. 411, 53 Stat. 1174.)
+(May 27, 1933, ch. 38, title III, § 320, as added Aug. 3, 1939, ch. 411, 53 Stat. 1174.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77uuu. Special powers of the Commission
+### § 77uuu. Special powers of the Commission
 
 **(a) Investigatory powers**
 
@@ -4624,7 +4624,7 @@ Notwithstanding any provision of this subchapter, no report, record, or other in
 
 **(2)** to lease and allocate such real property as may be necessary for carrying out its functions under this subchapter.
 
-(May 27, 1933, ch. 38, title III, § 321, as added Aug. 3, 1939, ch. 411, 53 Stat. 1174; amended Pub. L. 101–550, title I, § 104(b), Nov. 15, 1990, 104 Stat. 2714.)
+(May 27, 1933, ch. 38, title III, § 321, as added Aug. 3, 1939, ch. 411, 53 Stat. 1174; amended Pub. L. 101–550, title I, § 104(b), Nov. 15, 1990, 104 Stat. 2714.)
 
 **Editorial Notes**
 
@@ -4636,13 +4636,13 @@ Notwithstanding any provision of this subchapter, no report, record, or other in
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 **Exception as to Transfer of Functions**
 
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions of officers, agencies and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26 of 1950, § 1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280. See section 321(c)(2) of Title 31, Money and Finance.
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions of officers, agencies and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26 of 1950, § 1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280. See section 321(c)(2) of Title 31, Money and Finance.
 
-### § 77vvv. Judicial review
+### § 77vvv. Judicial review
 
 **(a) Review of orders**
 
@@ -4652,13 +4652,13 @@ Orders of the Commission under this subchapter (including orders pursuant to the
 
 Jurisdiction of offenses and violations under, and jurisdiction and venue of suits and actions brought to enforce any liability or duty created by, this subchapter, or any rules or regulations or orders prescribed under the authority thereof, shall be as provided in section 22(a) of the Securities Act of 1933 [15 U.S.C. 77v(a)].
 
-(May 27, 1933, ch. 38, title III, § 322, as added Aug. 3, 1939, ch. 411, 53 Stat. 1175; amended Pub. L. 101–550, title IV, § 418, Nov. 15, 1990, 104 Stat. 2732.)
+(May 27, 1933, ch. 38, title III, § 322, as added Aug. 3, 1939, ch. 411, 53 Stat. 1175; amended Pub. L. 101–550, title IV, § 418, Nov. 15, 1990, 104 Stat. 2732.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Such Act, referred to in subsec. (a), means the Securities Act of 1933, approved May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+Such Act, referred to in subsec. (a), means the Securities Act of 1933, approved May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 **Amendments**
 
@@ -4668,23 +4668,23 @@ Such Act, referred to in subsec. (a), means the Securities Act of 1933, approved
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77www. Liability for misleading statements
+### § 77www. Liability for misleading statements
 
 **(a)** Any person who shall make or cause to be made any statement in any application, report, or document filed with the Commission pursuant to any provisions of this subchapter, or any rule, regulation, or order thereunder, which statement was at the time and in the light of the circumstances under which it was made false or misleading with respect to any material fact, or who shall omit to state any material fact required to be stated therein or necessary to make the statements therein not misleading, shall be liable to any person (not knowing that such statement was false or misleading or of such omission) who, in reliance upon such statement or omission, shall have purchased or sold a security issued under the indenture to which such application, report, or document relates, for damages caused by such reliance, unless the person sued shall prove that he acted in good faith and had no knowledge that such statement was false or misleading or of such omission. A person seeking to enforce such liability may sue at law or in equity in any court of competent jurisdiction. In any such suit the court may, in its discretion, require an undertaking for the payment of the costs of such suit and assess reasonable costs, including reasonable attorneys’ fees, against either party litigant, having due regard to the merits and good faith of the suit or defense. No action shall be maintained to enforce any liability created under this section unless brought within one year after the discovery of the facts constituting the cause of action and within three years after such cause of action accrued.
 
 **(b)** The rights and remedies provided by this subchapter shall be in addition to any and all other rights and remedies that may exist under the Securities Act of 1933 [15 U.S.C. 77a et seq.] or the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], or otherwise at law or in equity; but no person permitted to maintain a suit for damages under the provisions of this subchapter shall recover, through satisfaction of judgment in one or more actions, a total amount in excess of his actual damages on account of the act complained of.
 
-(May 27, 1933, ch. 38, title III, § 323, as added Aug. 3, 1939, ch. 411, 53 Stat. 1176; amended Pub. L. 111–203, title IX, § 986(b)(5), July 21, 2010, 124 Stat. 1936.)
+(May 27, 1933, ch. 38, title III, § 323, as added Aug. 3, 1939, ch. 411, 53 Stat. 1176; amended Pub. L. 111–203, title IX, § 986(b)(5), July 21, 2010, 124 Stat. 1936.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Act of 1933, referred to in subsec. (b), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (b), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (b), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (b), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 **Amendments**
 
@@ -4700,13 +4700,13 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77xxx. Unlawful representations
+### § 77xxx. Unlawful representations
 
 It shall be unlawful for any person in offering, selling or issuing any security to represent or imply in any manner whatsoever that any action or failure to act by the Commission in the administration of this subchapter means that the Commission has in any way passed upon the merits of, or given approval to, any trustee, indenture or security, or any transaction or transactions therein, or that any such action or failure to act with regard to any statement or report filed with or examined by the Commission pursuant to this subchapter or any rule, regulation, or order thereunder, has the effect of a finding by the Commission that such statement or report is true and accurate on its face or that it is not false or misleading.
 
-(May 27, 1933, ch. 38, title III, § 324, as added Aug. 3, 1939, ch. 411, 53 Stat. 1176; amended Aug. 10, 1954, ch. 667, title III, § 305, 68 Stat. 688.)
+(May 27, 1933, ch. 38, title III, § 324, as added Aug. 3, 1939, ch. 411, 53 Stat. 1176; amended Aug. 10, 1954, ch. 667, title III, § 305, 68 Stat. 688.)
 
 **Editorial Notes**
 
@@ -4724,13 +4724,13 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77yyy. Penalties
+### § 77yyy. Penalties
 
 Any person who willfully violates any provision of this subchapter or any rule, regulation, or order thereunder, or any person who willfully, in any application, report, or document filed or required to be filed under the provisions of this subchapter or any rule, regulation, or order thereunder, makes any untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statements therein not misleading, shall upon conviction be fined not more than $10,000 or imprisoned not more than five years, or both.
 
-(May 27, 1933, ch. 38, title III, § 325, as added Aug. 3, 1939, ch. 411, 53 Stat. 1177; amended Pub. L. 94–29, § 27(d), June 4, 1975, 89 Stat. 163.)
+(May 27, 1933, ch. 38, title III, § 325, as added Aug. 3, 1939, ch. 411, 53 Stat. 1177; amended Pub. L. 94–29, § 27(d), June 4, 1975, 89 Stat. 163.)
 
 **Editorial Notes**
 
@@ -4744,19 +4744,19 @@ Any person who willfully violates any provision of this subchapter or any rule, 
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
 
-### § 77zzz. Effect on existing law
+### § 77zzz. Effect on existing law
 
 Except as otherwise expressly provided, nothing in this subchapter shall affect (1) the jurisdiction of the Commission under the Securities Act of 1933 [15 U.S.C. 77a et seq.] or the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.] over any person, security, or contract, or (2) the rights, obligations, duties, or liabilities of any person under such acts; nor shall anything in this subchapter affect the jurisdiction of any other commission, board, agency, or officer of the United States or of any State or political subdivision of any State, over any person or security, insofar as such jurisdiction does not conflict with any provision of this subchapter or any rule, regulation, or order thereunder.
 
-(May 27, 1933, ch. 38, title III, § 326, as added Aug. 3, 1939, ch. 411, 53 Stat. 1177; amended Pub. L. 111–203, title IX, § 986(b)(6), July 21, 2010, 124 Stat. 1936.)
+(May 27, 1933, ch. 38, title III, § 326, as added Aug. 3, 1939, ch. 411, 53 Stat. 1177; amended Pub. L. 111–203, title IX, § 986(b)(6), July 21, 2010, 124 Stat. 1936.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Act of 1933, referred to in text, is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in text, is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 **Amendments**
 
@@ -4772,16 +4772,16 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Transfer of Functions**
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-### § 77aaaa. Contrary stipulations void
+### § 77aaaa. Contrary stipulations void
 
 Any condition, stipulation, or provision binding any person to waive compliance with any provision of this subchapter or with any rule, regulation, or order thereunder shall be void.
 
-(May 27, 1933, ch. 38, title III, § 327, as added Aug. 3, 1939, ch. 411, 53 Stat. 1177.)
+(May 27, 1933, ch. 38, title III, § 327, as added Aug. 3, 1939, ch. 411, 53 Stat. 1177.)
 
-### § 77bbbb. Separability
+### § 77bbbb. Separability
 
 If any provision of this subchapter or the application of such provision to any person or circumstance shall be held invalid, the remainder of the subchapter and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.
 
-(May 27, 1933, ch. 38, title III, § 328, as added Aug. 3, 1939, ch. 411, 53 Stat. 1177.)
+(May 27, 1933, ch. 38, title III, § 328, as added Aug. 3, 1939, ch. 411, 53 Stat. 1177.)

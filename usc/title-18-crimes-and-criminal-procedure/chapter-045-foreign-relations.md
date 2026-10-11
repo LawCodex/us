@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1996—Pub. L. 104–132, title VII, § 704(b), Apr. 24, 1996, 110 Stat. 1295, substituted “Conspiracy to kill, kidnap, maim, or injure persons or damage property in a foreign country” for “Conspiracy to injure property of foreign government” in item 956.
+1996—Pub. L. 104–132, title VII, § 704(b), Apr. 24, 1996, 110 Stat. 1295, substituted “Conspiracy to kill, kidnap, maim, or injure persons or damage property in a foreign country” for “Conspiracy to injure property of foreign government” in item 956.
 
-1990—Pub. L. 101–647, title XII, § 1207(a), title XXXV, § 3530, Nov. 29, 1990, 104 Stat. 4832, 4924, struck out item 968 “Exportation of war materials to certain countries” and item 969 “Exportation of arms, liquors and narcotics to Pacific Islands”.
+1990—Pub. L. 101–647, title XII, § 1207(a), title XXXV, § 3530, Nov. 29, 1990, 104 Stat. 4832, 4924, struck out item 968 “Exportation of war materials to certain countries” and item 969 “Exportation of arms, liquors and narcotics to Pacific Islands”.
 
-1972—Pub. L. 92–539, title IV, § 402, Oct. 24, 1972, 86 Stat. 1073, added item 970.
+1972—Pub. L. 92–539, title IV, § 402, Oct. 24, 1972, 86 Stat. 1073, added item 970.
 
-## § 951. Agents of foreign governments
+## § 951. Agents of foreign governments
 
 **(a)** Whoever, other than a diplomatic or consular officer or attaché, acts in the United States as an agent of a foreign government without prior notification to the Attorney General if required in subsection (b), shall be fined under this title or imprisoned not more than ten years, or both.
 
@@ -51,17 +51,17 @@ retrieved: 2026-10-11
 
 **(A)** is an agent of Cuba or any other country that the President determines (and so reports to the Congress) poses a threat to the national security interest of the United States for purposes of this section, unless the Attorney General, after consultation with the Secretary of State, determines and so reports to the Congress that the national security or foreign policy interests of the United States require that the provisions of this section do not apply in specific circumstances to agents of such country; or
 
-**(B)** has been convicted of, or has entered a plea of nolo contendere with respect to, any offense under section 792 through 799, 831, or 2381 of this title or under section 11 1
+**(B)** has been convicted of, or has entered a plea of nolo contendere with respect to, any offense under section 792 through 799, 831, or 2381 of this title or under section 11 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Export Administration Act of 1979, except that the provisions of this subsection shall not apply to a person described in this clause for a period of more than five years beginning on the date of the conviction or the date of entry of the plea of nolo contendere, as the case may be.
 
-(June 25, 1948, ch. 645, 62 Stat. 743; Pub. L. 97–462, § 6, Jan. 12, 1983, 96 Stat. 2530; Pub. L. 98–473, title II, § 1209, Oct. 12, 1984, 98 Stat. 2164; Pub. L. 99–569, title VII, § 703, Oct. 27, 1986, 100 Stat. 3205; Pub. L. 103–199, title II, § 202, Dec. 17, 1993, 107 Stat. 2321; Pub. L. 103–322, title XXXIII, § 330016(1)(R), Sept. 13, 1994, 108 Stat. 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 743; Pub. L. 97–462, § 6, Jan. 12, 1983, 96 Stat. 2530; Pub. L. 98–473, title II, § 1209, Oct. 12, 1984, 98 Stat. 2164; Pub. L. 99–569, title VII, § 703, Oct. 27, 1986, 100 Stat. 3205; Pub. L. 103–199, title II, § 202, Dec. 17, 1993, 107 Stat. 2321; Pub. L. 103–322, title XXXIII, § 330016(1)(R), Sept. 13, 1994, 108 Stat. 2148.)
 
 **Historical and Revision Notes**
 
-Based on section 601 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse (June 15, 1917, ch. 30, title VIII, § 3, 40 Stat. 226; Mar. 28, 1940, ch. 72, § 6, 54 Stat. 80).
+Based on section 601 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse (June 15, 1917, ch. 30, title VIII, § 3, 40 Stat. 226; Mar. 28, 1940, ch. 72, § 6, 54 Stat. 80).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -71,7 +71,7 @@ Minor changes in phraseology were made.
 
 **References in Text**
 
-Section 11 of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B), was classified to section 4610 of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions relating to penalties are covered generally in section 4819 of Title 50, as enacted by Pub. L. 115–232.
+Section 11 of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B), was classified to section 4610 of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions relating to penalties are covered generally in section 4819 of Title 50, as enacted by Pub. L. 115–232.
 
 **Amendments**
 
@@ -91,11 +91,11 @@ Section 11 of the Export Administration Act of 1979, referred to in subsec. (e)(
 
 Amendment by Pub. L. 97–462 effective 45 days after Jan. 12, 1983, see section 4 of Pub. L. 97–462, set out as a note under section 2071 of Title 28, Judiciary and Judicial Procedure.
 
-## § 952. Diplomatic codes and correspondence
+## § 952. Diplomatic codes and correspondence
 
 Whoever, by virtue of his employment by the United States, obtains from another or has or has had custody of or access to, any official diplomatic code or any matter prepared in any such code, or which purports to have been prepared in any such code, and without authorization or competent authority, willfully publishes or furnishes to another any such code or matter, or any matter which was obtained while in the process of transmission between any foreign government and its diplomatic mission in the United States, shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 743; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 743; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
@@ -109,17 +109,17 @@ Minor changes of phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 953. Private correspondence with foreign governments
+## § 953. Private correspondence with foreign governments
 
 Any citizen of the United States, wherever he may be, who, without authority of the United States, directly or indirectly commences or carries on any correspondence or intercourse with any foreign government or any officer or agent thereof, with intent to influence the measures or conduct of any foreign government or of any officer or agent thereof, in relation to any disputes or controversies with the United States, or to defeat the measures of the United States, shall be fined under this title or imprisoned not more than three years, or both.
 
 This section shall not abridge the right of a citizen to apply, himself or his agent, to any foreign government or the agents thereof for redress of any injury which he may have sustained from such government or any of its agents or subjects.
 
-(June 25, 1948, ch. 645, 62 Stat. 744; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 744; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 5 (Mar. 4, 1909, ch. 321, § 5, 35 Stat. 1088; Apr. 22, 1932, ch. 126, 47 Stat. 132).
+Based on title 18, U.S.C., 1940 ed., § 5 (Mar. 4, 1909, ch. 321, § 5, 35 Stat. 1088; Apr. 22, 1932, ch. 126, 47 Stat. 132).
 
 The reference to any citizen or resident within the jurisdiction of the United States not duly authorized “who counsels, advises or assists in such correspondence with such intent” was omitted as unnecessary in view of definition of principal in section 2.
 
@@ -133,15 +133,15 @@ Minor changes of arrangement and in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in first par.
 
-## § 954. False statements influencing foreign government
+## § 954. False statements influencing foreign government
 
 Whoever, in relation to any dispute or controversy between a foreign government and the United States, willfully and knowingly makes any untrue statement, either orally or in writing, under oath before any person authorized and empowered to administer oaths, which the affiant has knowledge or reason to believe will, or may be used to influence the measures or conduct of any foreign government, or of any officer or agent of any foreign government, to the injury of the United States, or with a view or intent to influence any measure of or action by the United States or any department or agency thereof, to the injury of the United States, shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 744; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 744; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 231 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse (June 15, 1917, ch. 30, title VIII, § 1, 40 Stat. 226; Mar. 28, 1940, ch. 72, § 6, 54 Stat. 80).
+Based on section 231 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse (June 15, 1917, ch. 30, title VIII, § 1, 40 Stat. 226; Mar. 28, 1940, ch. 72, § 6, 54 Stat. 80).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -155,17 +155,17 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 955. Financial transactions with foreign governments
+## § 955. Financial transactions with foreign governments
 
 Whoever, within the United States, purchases or sells the bonds, securities, or other obligations of any foreign government or political subdivision thereof or any organization or association acting for or on behalf of a foreign government or political subdivision thereof, issued after April 13, 1934, or makes any loan to such foreign government, political subdivision, organization or association, except a renewal or adjustment of existing indebtedness, while such government, political subdivision, organization or association, is in default in the payment of its obligations, or any part thereof, to the United States, shall be fined under this title or imprisoned for not more than five years, or both.
 
 This section is applicable to individuals, partnerships, corporations, or associations other than public corporations created by or pursuant to special authorizations of Congress, or corporations in which the United States has or exercises a controlling interest through stock ownership or otherwise. While any foreign government is a member both of the International Monetary Fund and of the International Bank for Reconstruction and Development, this section shall not apply to the sale or purchase of bonds, securities, or other obligations of such government or any political subdivision thereof or of any organization or association acting for or on behalf of such government or political subdivision, or to making of any loan to such government, political subdivision, organization, or association.
 
-(June 25, 1948, ch. 645, 62 Stat. 744; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 744; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 804a of title 31, U.S.C., 1940 ed., Money and Finance (Apr. 13, 1934, ch. 112, §§ 1, 2, 48 Stat. 574).
+Based on section 804a of title 31, U.S.C., 1940 ed., Money and Finance (Apr. 13, 1934, ch. 112, §§ 1, 2, 48 Stat. 574).
 
 Words “within the United States” were substituted for “within the jurisdiction” etc., in view of the definition of United States in section 5 of this title.
 
@@ -175,7 +175,7 @@ Minor changes were made in phraseology.
 
 **Senate Revision Amendment**
 
-An additional paragraph was added to the text of this section by Senate amendment, which was taken from section 804b of Title 31, U.S.C., Money and Finance. Therefore, as finally enacted, such section 804b and the Acts from which it was derived (Act Apr. 13, 1934, ch. 112, § 3, as added July 31, 1945, ch. 339, § 9, 59 Stat. 516), were an additional source of this section. See Senate Report No. 1620, amendment No. 9, 80th Cong.
+An additional paragraph was added to the text of this section by Senate amendment, which was taken from section 804b of Title 31, U.S.C., Money and Finance. Therefore, as finally enacted, such section 804b and the Acts from which it was derived (Act Apr. 13, 1934, ch. 112, § 3, as added July 31, 1945, ch. 339, § 9, 59 Stat. 516), were an additional source of this section. See Senate Report No. 1620, amendment No. 9, 80th Cong.
 
 **Editorial Notes**
 
@@ -187,9 +187,9 @@ An additional paragraph was added to the text of this section by Senate amendmen
 
 **Applicability of Section**
 
-Pub. L. 102–511, title IX, § 902, Oct. 24, 1992, 106 Stat. 3355, provided that: “Section 955 of title 18, United States Code, shall not apply with respect to any obligations of the former Soviet Union, or any of the independent states of the former Soviet Union, or any political subdivision, organization, or association thereof.”
+Pub. L. 102–511, title IX, § 902, Oct. 24, 1992, 106 Stat. 3355, provided that: “Section 955 of title 18, United States Code, shall not apply with respect to any obligations of the former Soviet Union, or any of the independent states of the former Soviet Union, or any political subdivision, organization, or association thereof.”
 
-## § 956. Conspiracy to kill, kidnap, maim, or injure persons or damage property in a foreign country
+## § 956. Conspiracy to kill, kidnap, maim, or injure persons or damage property in a foreign country
 
 **(a)**
 
@@ -203,11 +203,11 @@ Pub. L. 102–511, title IX, § 902, Oct. 24, 1992, 106 Stat. 3355, provided t
 
 **(b)** Whoever, within the jurisdiction of the United States, conspires with one or more persons, regardless of where such other person or persons are located, to damage or destroy specific property situated within a foreign country and belonging to a foreign government or to any political subdivision thereof with which the United States is at peace, or any railroad, canal, bridge, airport, airfield, or other public utility, public conveyance, or public structure, or any religious, educational, or cultural property so situated, shall, if any of the conspirators commits an act within the jurisdiction of the United States to effect any object of the conspiracy, be imprisoned not more than 25 years.
 
-(June 25, 1948, ch. 645, 62 Stat. 744; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–132, title VII, § 704(a), Apr. 24, 1996, 110 Stat. 1294.)
+(June 25, 1948, ch. 645, 62 Stat. 744; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–132, title VII, § 704(a), Apr. 24, 1996, 110 Stat. 1294.)
 
 **Historical and Revision Notes**
 
-Based on section 234 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse (June 15, 1917, ch. 30, title VIII, § 5, 40 Stat. 226).
+Based on section 234 of title 22, U.S.C., 1940 ed., Foreign Relations and Intercourse (June 15, 1917, ch. 30, title VIII, § 5, 40 Stat. 226).
 
 **Editorial Notes**
 
@@ -221,15 +221,15 @@ Based on section 234 of title 22, U.S.C., 1940 ed., Foreign Relations and Interc
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 957. Possession of property in aid of foreign government
+## § 957. Possession of property in aid of foreign government
 
 Whoever, in aid of any foreign government, knowingly and willfully possesses or controls any property or papers used or designed or intended for use in violating any penal statute, or any of the rights or obligations of the United States under any treaty or the law of nations, shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 745; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 745; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed. § 98 (June 15, 1917, ch. 30, title XI, § 22, 40 Stat. 230; Mar. 28, 1940, ch. 72, § 8, 54 Stat. 80).
+Based on title 18, U.S.C., 1940 ed. § 98 (June 15, 1917, ch. 30, title XI, § 22, 40 Stat. 230; Mar. 28, 1940, ch. 72, § 8, 54 Stat. 80).
 
 Definition of “foreign government” was omitted and is incorporated in section 11 of this title.
 
@@ -243,15 +243,15 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 958. Commission to serve against friendly nation
+## § 958. Commission to serve against friendly nation
 
 Any citizen of the United States who, within the jurisdiction thereof, accepts and exercises a commission to serve a foreign prince, state, colony, district, or people, in war, against any prince, state, colony, district, or people, with whom the United States is at peace, shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 745; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 745; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 21 (Mar. 4, 1909, ch. 321, § 9, 35 Stat. 1089).
+Based on title 18, U.S.C., 1940 ed., § 21 (Mar. 4, 1909, ch. 321, § 9, 35 Stat. 1089).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -263,7 +263,7 @@ Minor changes in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 
-## § 959. Enlistment in foreign service
+## § 959. Enlistment in foreign service
 
 **(a)** Whoever, within the United States, enlists or enters himself, or hires or retains another to enlist or enter himself, or to go beyond the jurisdiction of the United States with intent to be enlisted or entered in the service of any foreign prince, state, colony, district, or people as a soldier or as a marine or seaman on board any vessel of war, letter of marque, or privateer, shall be fined under this title or imprisoned not more than three years, or both.
 
@@ -271,11 +271,11 @@ Minor changes in phraseology were made.
 
 **(c)** This section and sections 960 and 961 of this title shall not apply to any subject or citizen of any foreign prince, state, colony, district, or people who is transiently within the United States and enlists or enters himself on board any vessel of war, letter of marque, or privateer, which at the time of its arrival within the United States was fitted and equipped as such, or hires or retains another subject or citizen of the same foreign prince, state, colony, district, or people who is transiently within the United States to enlist or enter himself to serve such foreign prince, state, colony, district, or people on board such vessel of war, letter of marque, or privateer, if the United States shall then be at peace with such foreign prince, state, colony, district, or people.
 
-(June 25, 1948, ch. 645, 62 Stat. 745; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 745; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 22, 30 (Mar. 4, 1909, ch. 321, §§ 10, 18, 35 Stat. 1089, 1091; May 7, 1917, ch. 11, 40 Stat. 39).
+Based on title 18, U.S.C., 1940 ed., §§ 22, 30 (Mar. 4, 1909, ch. 321, §§ 10, 18, 35 Stat. 1089, 1091; May 7, 1917, ch. 11, 40 Stat. 39).
 
 Section consolidates said sections of title 18, U.S.C., 1940 ed. Last sentence of section 30 of title 18, U.S.C., 1940 ed., relating to piracy and treason, was omitted as unnecessary.
 
@@ -293,15 +293,15 @@ Minor changes were made in phraseology.
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 960. Expedition against friendly nation
+## § 960. Expedition against friendly nation
 
 Whoever, within the United States, knowingly begins or sets on foot or provides or prepares a means for or furnishes the money for, or takes part in, any military or naval expedition or enterprise to be carried on from thence against the territory or dominion of any foreign prince or state, or of any colony, district, or people with whom the United States is at peace, shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 745; Pub. L. 103–322, title XXXIII, § 330016(1)(J), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 745; Pub. L. 103–322, title XXXIII, § 330016(1)(J), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 25 (Mar. 4, 1909, ch. 321, § 13, 35 Stat. 1090; June 15, 1917, ch. 30, title V, § 8, 40 Stat. 223).
+Based on title 18, U.S.C., 1940 ed., § 25 (Mar. 4, 1909, ch. 321, § 13, 35 Stat. 1090; June 15, 1917, ch. 30, title V, § 8, 40 Stat. 223).
 
 Words “within the United States” were substituted for “within the jurisdiction” etc., in view of the definition of United States in section 5 of this title.
 
@@ -313,15 +313,15 @@ Reference to territory or possessions of the United States was omitted as covere
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $3,000”.
 
-## § 961. Strengthening armed vessel of foreign nation
+## § 961. Strengthening armed vessel of foreign nation
 
 Whoever, within the United States, increases or augments the force of any ship of war, cruiser, or other armed vessel which, at the time of her arrival within the United States, was a ship of war, or cruiser, or armed vessel, in the service of any foreign prince or state, or of any colony, district, or people, or belonging to the subjects or citizens of any such prince or state, colony, district, or people, the same being at war with any foreign prince or state, or of any colony, district, or people, with whom the United States is at peace, by adding to the number of the guns of such vessel, or by changing those on board of her for guns of a larger caliber, or by adding thereto any equipment solely applicable to war, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 746; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 746; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 24 (Mar. 4, 1909, ch. 321, § 12, 35 Stat. 1090).
+Based on title 18, U.S.C., 1940 ed., § 24 (Mar. 4, 1909, ch. 321, § 12, 35 Stat. 1090).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -337,7 +337,7 @@ Minor changes in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 962. Arming vessel against friendly nation
+## § 962. Arming vessel against friendly nation
 
 Whoever, within the United States, furnishes, fits out, arms, or attempts to furnish, fit out or arm, any vessel, with intent that such vessel shall be employed in the service of any foreign prince, or state, or of any colony, district, or people, to cruise, or commit hostilities against the subjects, citizens, or property of any foreign prince or state, or of any colony, district, or people with whom the United States is at peace; or
 
@@ -347,11 +347,11 @@ Shall be fined under this title or imprisoned not more than three years, or both
 
 Every such vessel, her tackle, apparel, and furniture, together with all materials, arms, ammunition, and stores which may have been procured for the building and equipment thereof, shall be forfeited, one half to the use of the informer and the other half to the use of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 746; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 746; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 23 (Mar. 4, 1909, ch. 321, § 11, 35 Stat. 1090).
+Based on title 18, U.S.C., 1940 ed., § 23 (Mar. 4, 1909, ch. 321, § 11, 35 Stat. 1090).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -367,7 +367,7 @@ Minor change was made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in third par.
 
-## § 963. Detention of armed vessel
+## § 963. Detention of armed vessel
 
 **(a)** During a war in which the United States is a neutral nation, the President, or any person authorized by him, may detain any armed vessel owned wholly or in part by citizens of the United States, or any vessel, domestic or foreign (other than one which has entered the ports of the United States as a public vessel), which is manifestly built for warlike purposes or has been converted or adapted from a private vessel to one suitable for warlike use, until the owner or master, or person having charge of such vessel, shall furnish proof satisfactory to the President, or to the person duly authorized by him, that the vessel will not be employed to cruise against or commit or attempt to commit hostilities upon the subjects, citizens, or property of any foreign prince or state, or of any colony, district, or people with which the United States is at peace, and that the said vessel will not be sold or delivered to any belligerent nation, or to an agent, officer, or citizen of such nation, by them or any of them, within the jurisdiction of the United States, or upon the high seas.
 
@@ -375,11 +375,11 @@ Minor change was made in phraseology.
 
 In addition, such vessel, her tackle, apparel, furniture, equipment, and her cargo shall be forfeited to the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 746; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 746; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 32, 36 (June 15, 1917, ch. 30, title V, §§ 2, 6, 40 Stat. 221, 222; Mar. 28, 1940, ch. 72, § 5, 54 Stat. 79).
+Based on title 18, U.S.C., 1940 ed., §§ 32, 36 (June 15, 1917, ch. 30, title V, §§ 2, 6, 40 Stat. 221, 222; Mar. 28, 1940, ch. 72, § 5, 54 Stat. 79).
 
 Section consolidates said sections of title 18, U.S.C., 1940 ed.
 
@@ -403,7 +403,7 @@ Changes in phraseology were also made.
 
 For delegation to Secretary of Homeland Security of authority vested in President by this section, see section 1(*l*) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, as amended, set out as a note under section 301 of Title 3, The President.
 
-## § 964. Delivering armed vessel to belligerent nation
+## § 964. Delivering armed vessel to belligerent nation
 
 **(a)** During a war in which the United States is a neutral nation, it shall be unlawful to send out of the United States any vessel built, armed, or equipped as a vessel of war, or converted from a private vessel into a vessel of war, with any intent or under any agreement or contract that such vessel will be delivered to a belligerent nation, or to an agent, officer, or citizen of such nation, or with reasonable cause to believe that the said vessel will be employed in the service of any such belligerent nation after its departure from the jurisdiction of the United States.
 
@@ -411,11 +411,11 @@ For delegation to Secretary of Homeland Security of authority vested in Presiden
 
 In addition, such vessel, her tackle, apparel, furniture, equipment, and her cargo shall be forfeited to the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 747; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 747; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 33, 36 (June 15, 1917, ch. 30, title V, §§ 3, 6, 40 Stat. 222; Mar. 28, 1940, ch. 72, § 5, 54 Stat. 79).
+Based on title 18, U.S.C., 1940 ed., §§ 33, 36 (June 15, 1917, ch. 30, title V, §§ 3, 6, 40 Stat. 222; Mar. 28, 1940, ch. 72, § 5, 54 Stat. 79).
 
 Section consolidates said sections of title 18, U.S.C., 1940 ed.
 
@@ -433,7 +433,7 @@ Minor changes of phraseology were made.
 
 1994—Subsec. (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 965. Verified statements as prerequisite to vessel’s departure
+## § 965. Verified statements as prerequisite to vessel’s departure
 
 **(a)** During a war in which the United States is a neutral nation, every master or person having charge or command of any vessel, domestic or foreign, whether requiring clearance or not, before departure of such vessel from port shall, in addition to the facts required by section 431 of the Tariff Act of 1930 (19 U.S.C. 1431) and section 60105 of title 46, to be set out in the masters’ and shippers’ manifests before clearance will be issued to vessels bound to foreign ports, deliver to the Customs Service a statement, duly verified by oath, that the cargo or any part of the cargo is or is not to be delivered to other vessels in port or to be transshipped on the high seas, and, if it is to be so delivered or transshipped, stating the kind and quantities and the value of the total quantity of each kind of article so to be delivered or transshipped, and the name of the person, corporation, vessel, or government to whom the delivery or transshipment is to be made; and the owners, shippers, or consignors of the cargo of such vessel shall in the same manner and under the same conditions deliver to the Customs Service like statements under oath as to the cargo or the parts thereof laden or shipped by them, respectively.
 
@@ -443,11 +443,11 @@ In addition, such vessel, her tackle, apparel, furniture, equipment, and her car
 
 The Secretary of the Treasury is authorized to promulgate regulations upon compliance with which vessels engaged in the coastwise trade or fisheries or used solely for pleasure may be relieved from complying with this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 747; Pub. L. 103–182, title VI, § 687, Dec. 8, 1993, 107 Stat. 2221; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–304, § 17(d)(5), Oct. 6, 2006, 120 Stat. 1707.)
+(June 25, 1948, ch. 645, 62 Stat. 747; Pub. L. 103–182, title VI, § 687, Dec. 8, 1993, 107 Stat. 2221; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–304, § 17(d)(5), Oct. 6, 2006, 120 Stat. 1707.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 34, 36 (June 15, 1917, ch. 30, title V, §§ 4, 6, 40 Stat. 222; Mar. 28, 1940, ch. 72, § 5, 54 Stat. 79).
+Based on title 18, U.S.C., 1940 ed., §§ 34, 36 (June 15, 1917, ch. 30, title V, §§ 4, 6, 40 Stat. 222; Mar. 28, 1940, ch. 72, § 5, 54 Stat. 79).
 
 Section consolidates said sections of title 18, U.S.C., 1940 ed.
 
@@ -485,7 +485,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950. eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
-## § 966. Departure of vessel forbidden for false statements
+## § 966. Departure of vessel forbidden for false statements
 
 **(a)** Whenever it appears that the vessel is not entitled to clearance or whenever there is reasonable cause to believe that the additional statements under oath required in section 965 of this title are false, the collector of customs for the district in which the vessel is located may, subject to review by the head of the department or agency charged with the administration of laws relating to clearance of vessels, refuse clearance to any vessel, domestic or foreign, and by formal notice served upon the owners, master, or person or persons in command or charge of any domestic vessel for which clearance is not required by law, forbid the departure of the vessel from the port or from the United States. It shall thereupon be unlawful for the vessel to depart.
 
@@ -493,11 +493,11 @@ All offices of collector of customs, comptroller of customs, surveyor of customs
 
 In addition, such vessel, her tackle, apparel, furniture, equipment, and her cargo shall be forfeited to the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 747; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 747; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 35, 36 (June 15, 1917, ch. 30, title V, §§ 5, 6, 40 Stat. 222; Mar. 28, 1940, ch. 72, § 5, 54 Stat. 79).
+Based on title 18, U.S.C., 1940 ed., §§ 35, 36 (June 15, 1917, ch. 30, title V, §§ 5, 6, 40 Stat. 222; Mar. 28, 1940, ch. 72, § 5, 54 Stat. 79).
 
 Section consolidates said sections of title 18, U.S.C., 1940 ed.
 
@@ -521,17 +521,17 @@ Minor changes of phraseology were made.
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
-## § 967. Departure of vessel forbidden in aid of neutrality
+## § 967. Departure of vessel forbidden in aid of neutrality
 
 **(a)** During a war in which the United States is a neutral nation, the President, or any person authorized by him, may withhold clearance from or to any vessel, domestic or foreign, or, by service of formal notice upon the owner, master, or person in command or in charge of any domestic vessel not required to secure clearances, may forbid its departure from port or from the United States, whenever there is reasonable cause to believe that such vessel is about to carry fuel, arms, ammunition, men, supplies, dispatches, or information to any warship, tender, or supply ship of a foreign belligerent nation in violation of the laws, treaties, or obligations of the United States under the law of nations. It shall thereupon be unlawful for such vessel to depart.
 
 **(b)** Whoever, in violation of this section, takes or attempts to take, or authorizes the taking of any such vessel, out of port or from the United States, shall be fined under this title or imprisoned not more than ten years, or both. In addition, such vessel, her tackle, apparel, furniture, equipment, and her cargo shall be forfeited to the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 748; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 748; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 31, 36 (June 15, 1917, ch. 30, title V, §§ 1, 6, 40 Stat. 221, 222; Mar. 28, 1940, ch. 72, § 5, 54 Stat. 79).
+Based on title 18, U.S.C., 1940 ed., §§ 31, 36 (June 15, 1917, ch. 30, title V, §§ 1, 6, 40 Stat. 221, 222; Mar. 28, 1940, ch. 72, § 5, 54 Stat. 79).
 
 Section consolidates said sections of title 18, U.S.C., 1940 ed., with minor changes in translations and phraseology.
 
@@ -553,15 +553,15 @@ Changes in phraseology were also made.
 
 For delegation to Secretary of Homeland Security of authority vested in President by this section, see section 1(m) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, as amended, set out as a note under section 301 of Title 3, The President.
 
-## [§ 968. Repealed. Aug. 26, 1954, ch. 937, title V, § 542(a)(14), 68 Stat. 861]
+## [§ 968. Repealed. Aug. 26, 1954, ch. 937, title V, § 542(a)(14), 68 Stat. 861]
 
 Section, act June 25, 1948, ch. 645, 62 Stat. 748, related to exportation of war materials to certain countries. See section 1934 of Title 22, Foreign Relations and Intercourse.
 
-## [§ 969. Repealed. Pub. L. 101–647, title XII, § 1207(a), Nov. 29, 1990, 104 Stat. 4832]
+## [§ 969. Repealed. Pub. L. 101–647, title XII, § 1207(a), Nov. 29, 1990, 104 Stat. 4832]
 
 Section, act June 25, 1948, ch. 645, 62 Stat. 748, related to penalties for exporting arms, liquor, and narcotics to Pacific Islands.
 
-## § 970. Protection of property occupied by foreign governments
+## § 970. Protection of property occupied by foreign governments
 
 **(a)** Whoever willfully injures, damages, or destroys, or attempts to injure, damage, or destroy, any property, real or personal, located within the United States and belonging to or utilized or occupied by any foreign government or international organization, by a foreign official or official guest, shall be fined under this title, or imprisoned not more than five years, or both.
 
@@ -591,7 +591,7 @@ shall be fined under this title or imprisoned not more than six months, or both.
 
 **(c)** For the purpose of this section “foreign government”, “foreign official”, “international organization”, and “official guest” shall have the same meanings as those provided in section 1116(b) of this title.
 
-(Added Pub. L. 92–539, title IV, § 401, Oct. 24, 1972, 86 Stat. 1073; amended Pub. L. 94–467, § 7, Oct. 8, 1976, 90 Stat. 2000; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 601(a)(2), Oct. 11, 1996, 110 Stat. 3498.)
+(Added Pub. L. 92–539, title IV, § 401, Oct. 24, 1972, 86 Stat. 1073; amended Pub. L. 94–467, § 7, Oct. 8, 1976, 90 Stat. 2000; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 601(a)(2), Oct. 11, 1996, 110 Stat. 3498.)
 
 **Editorial Notes**
 

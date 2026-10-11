@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 803—GIRL SCOUTS OF THE UNITED STATES OF AMERICA"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 803—GIRL SCOUTS OF THE UNITED STATES OF AMERICA"
 identifier: "/us/usc/t36/stII/ptB/ch803"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 803—GIRL SCOUTS OF THE UNITED STATES OF AMERICA
 
-## § 80301. Organization
+## § 80301. Organization
 
 **(a) Federal Charter.—** Girl Scouts of the United States of America (in this chapter, the “corporation”) is a body corporate and politic of the District of Columbia.
 
@@ -29,12 +29,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80301 | 36:31. | Mar. 16, 1950, ch. 62, §§ 1, 2 (words before 2d comma), 64 Stat. 22. |
+| 80301 | 36:31. | Mar. 16, 1950, ch. 62, §§ 1, 2 (words before 2d comma), 64 Stat. 22. |
 |  | 36:32 (words before 2d comma). |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
-## § 80302. Purposes
+## § 80302. Purposes
 
 The purposes of the corporation are—
 
@@ -50,9 +50,9 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80302 | 36:33 (words before 19th comma). | Mar. 16, 1950, ch. 62, § 3 (words before 19th comma), 64 Stat. 23. |
+| 80302 | 36:33 (words before 19th comma). | Mar. 16, 1950, ch. 62, § 3 (words before 19th comma), 64 Stat. 23. |
 
-## § 80303. Governing body
+## § 80303. Governing body
 
 **(a) National Council.—**
 
@@ -84,7 +84,7 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80303(a)(1) | 36:34 (1st sentence words before 1st comma, 2d sentence). | Mar. 16, 1950, ch. 62, §§ 4 (1st–7th sentences), 5, 64 Stat. 23, 24; Aug. 14, 1953, ch. 486, § 1, 67 Stat. 582. |
+| 80303(a)(1) | 36:34 (1st sentence words before 1st comma, 2d sentence). | Mar. 16, 1950, ch. 62, §§ 4 (1st–7th sentences), 5, 64 Stat. 23, 24; Aug. 14, 1953, ch. 486, § 1, 67 Stat. 582. |
 | 80303(a)(2) | 36:34 (1st sentence words after 1st comma). |  |
 | 80303(a)(3) | 36:34 (3d sentence). |  |
 | 80303(a)(4) | 36:35 (1st, 2d sentences). |  |
@@ -99,7 +99,7 @@ In subsection (a)(3), the words “entire Council” are substituted for “whol
 
 In subsection (b)(1), the first sentence is substituted for “The affairs of the corporation between meetings of the national council shall be managed by a board of directors” and “The board of directors, to the extent provided in the constitution and bylaws, shall have the powers of the national council, in the interim between its meetings” to eliminate unnecessary words.
 
-## § 80304. Powers
+## § 80304. Powers
 
 The corporation may—
 
@@ -121,8 +121,8 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80304 | 36:32 (words after 2d comma). | Mar. 16, 1950, ch. 62, §§ 2 (words after 2d comma), 8, 64 Stat. 23, 24. |
-|  | 36:34 (last sentence). | Mar. 16, 1950, ch. 62, § 4 (last sentence), 64 Stat. 23; Aug. 14, 1953, ch. 486, § 1, 67 Stat. 582. |
+| 80304 | 36:32 (words after 2d comma). | Mar. 16, 1950, ch. 62, §§ 2 (words after 2d comma), 8, 64 Stat. 23, 24. |
+|  | 36:34 (last sentence). | Mar. 16, 1950, ch. 62, § 4 (last sentence), 64 Stat. 23; Aug. 14, 1953, ch. 486, § 1, 67 Stat. 582. |
 |  | 36:38. |  |
 
 In this section, the text of 36:38 is omitted as executed and obsolete.
@@ -137,7 +137,7 @@ In clause (4), the words “acquire, own, lease, encumber, and transfer property
 
 In clause (5), the words “in courts of law and equity” are omitted as unnecessary.
 
-## § 80305. Exclusive right to emblems, badges, marks, and words
+## § 80305. Exclusive right to emblems, badges, marks, and words
 
 The corporation has the exclusive right to use all emblems and badges, descriptive or designating marks, and words or phrases the corporation adopts, including the badge of the Girl Scouts, Incorporated, referred to in the Act of August 12, 1937 (ch. 590, 50 Stat. 623), and to authorize their use, during the life of the corporation, in connection with the manufacture, advertisement, and sale of equipment and merchandise. This section does not affect any vested rights.
 
@@ -147,9 +147,9 @@ The corporation has the exclusive right to use all emblems and badges, descripti
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80305 | 36:36. | Mar. 16, 1950, ch. 62, § 6, 64 Stat. 24; Aug. 17, 1951, ch. 328, 65 Stat. 192. |
+| 80305 | 36:36. | Mar. 16, 1950, ch. 62, § 6, 64 Stat. 24; Aug. 17, 1951, ch. 328, 65 Stat. 192. |
 
-The word “sole” is omitted as included in “exclusive”. The words “to have” and “in carrying out its purposes” are omitted as unnecessary. The words “the corporation adopts” are substituted for “now or heretofore used by the old corporation and by its successor” for consistency in the revised title and to eliminate obsolete language. (The term “old corporation” is defined in 36:31.) The words “in carrying out its program” are omitted as unnecessary. The words “including the badge of the Girl Scouts, Incorporated, referred to in the Act of August 12, 1937 (ch. 590, 50 Stat. 623), and to authorize their use” are substituted for “including the sole and exclusive right to use, or to authorize the use of . . . the badge of the Girl Scouts, Incorporated, which is referred to in the Act of August 12, 1937 (Public, Numbered 259, Seventy-fifth Congress; 50 Stat. 623), and all the other aforesaid emblems and badges, descriptive or designating marks, and words or phrases” to eliminate unnecessary words.
+The word “sole” is omitted as included in “exclusive”. The words “to have” and “in carrying out its purposes” are omitted as unnecessary. The words “the corporation adopts” are substituted for “now or heretofore used by the old corporation and by its successor” for consistency in the revised title and to eliminate obsolete language. (The term “old corporation” is defined in 36:31.) The words “in carrying out its program” are omitted as unnecessary. The words “including the badge of the Girl Scouts, Incorporated, referred to in the Act of August 12, 1937 (ch. 590, 50 Stat. 623), and to authorize their use” are substituted for “including the sole and exclusive right to use, or to authorize the use of . . . the badge of the Girl Scouts, Incorporated, which is referred to in the Act of August 12, 1937 (Public, Numbered 259, Seventy-fifth Congress; 50 Stat. 623), and all the other aforesaid emblems and badges, descriptive or designating marks, and words or phrases” to eliminate unnecessary words.
 
 **Editorial Notes**
 
@@ -157,7 +157,7 @@ The word “sole” is omitted as included in “exclusive”. The words “to h
 
 Act of August 12, 1937 (ch. 590, 50 Stat. 623), referred to in text, is not classified to the Code.
 
-## § 80306. Restrictions
+## § 80306. Restrictions
 
 **(a) Profit.—** The corporation may not operate for profit.
 
@@ -169,13 +169,13 @@ Act of August 12, 1937 (ch. 590, 50 Stat. 623), referred to in text, is not clas
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80306 | 36:33 (words after 19th comma). | Mar. 16, 1950, ch. 62, § 3 (words after 19th comma), 64 Stat. 23. |
+| 80306 | 36:33 (words after 19th comma). | Mar. 16, 1950, ch. 62, § 3 (words after 19th comma), 64 Stat. 23. |
 
 In subsection (a), the word “pecuniary” is omitted as unnecessary.
 
 In subsection (b), the words “The corporation shall be” are substituted for “which purposes shall be” for clarity and consistency in the revised title.
 
-## § 80307. Annual report
+## § 80307. Annual report
 
 Not later than April 1 of each year, the corporation shall submit a report to Congress on the activities of the corporation during the prior fiscal year. The report shall be printed each year, with accompanying illustrations, as a separate House document of the session of the Congress to which the report is submitted.
 
@@ -185,7 +185,7 @@ Not later than April 1 of each year, the corporation shall submit a report to Co
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80307 | 36:37. | Mar. 16, 1950, ch. 62, § 7, 64 Stat. 24; Aug. 14, 1953, ch. 486, § 2, 67 Stat. 583; Aug. 30, 1964, Pub. L. 88–504, § 4(2), 78 Stat. 636. |
+| 80307 | 36:37. | Mar. 16, 1950, ch. 62, § 7, 64 Stat. 24; Aug. 14, 1953, ch. 486, § 2, 67 Stat. 583; Aug. 30, 1964, Pub. L. 88–504, § 4(2), 78 Stat. 636. |
 |  | 36:39. | Apr. 16, 1951, ch. 29, 65 Stat. 31. |
 
 **Statutory Notes and Related Subsidiaries**

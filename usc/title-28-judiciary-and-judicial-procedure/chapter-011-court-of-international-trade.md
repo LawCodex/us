@@ -17,51 +17,51 @@ retrieved: 2026-10-11
 
 **Historical and Revision Notes**
 
-The “Board of General Appraisers” was designated “United States Customs Court” by act May 28, 1926, ch. 411, § 1, 44 Stat. 669. General provisions concerning such court were incorporated in section 1518 of title 19, U.S.C., 1940 ed., Customs Duties, until amended by act October 10, 1940, ch. 843, § 1, 54 Stat. 1101, adding a new section to the Judicial Code of 1911, when they were transferred to section 296 of title 28, U.S.C., 1940 ed. They are retained in title 28 by this revision.
+The “Board of General Appraisers” was designated “United States Customs Court” by act May 28, 1926, ch. 411, § 1, 44 Stat. 669. General provisions concerning such court were incorporated in section 1518 of title 19, U.S.C., 1940 ed., Customs Duties, until amended by act October 10, 1940, ch. 843, § 1, 54 Stat. 1101, adding a new section to the Judicial Code of 1911, when they were transferred to section 296 of title 28, U.S.C., 1940 ed. They are retained in title 28 by this revision.
 
 In this connection former Congressman Walter Chandler said, “Among the major subjects needing study and revision are special courts, such as the Customs Court, which should be fitted into the judicial system.” (See U.S. Law Weekly, Nov. 7, 1939.)
 
 **History of Court**
 
-The United States Customs Court [now Court of International Trade] as “constituted on June 17, 1930”, consisted of nine members as provided by act Sept. 21, 1922, ch. 356, title IV, § 518, 42 Stat. 972, which established the Board of General Appraisers, designated the “United States Customs Court” by act May 28, 1926, ch. 411, § 1, 44 Stat. 669.
+The United States Customs Court [now Court of International Trade] as “constituted on June 17, 1930”, consisted of nine members as provided by act Sept. 21, 1922, ch. 356, title IV, § 518, 42 Stat. 972, which established the Board of General Appraisers, designated the “United States Customs Court” by act May 28, 1926, ch. 411, § 1, 44 Stat. 669.
 
-Provisions similar to these were contained in act Sept. 21, 1922, ch. 356, title IV, § 518, 42 Stat. 972. That section was superseded by section 518 of the Tariff Act of 1930, and was repealed by section 651 (a)(1) of said 1930 act.
+Provisions similar to these were contained in act Sept. 21, 1922, ch. 356, title IV, § 518, 42 Stat. 972. That section was superseded by section 518 of the Tariff Act of 1930, and was repealed by section 651 (a)(1) of said 1930 act.
 
-The sentence in the former first paragraph as to sitting in a case previously participated in, is from act Aug. 5, 1909, ch. 6, § 28, 36 Stat. 98, which combined and amended Customs Administrative Act June 10, 1890, ch. 407, § 12, 26 Stat. 136, and section 31, as added by act May 27, 1908, ch. 205, 35 Stat. 406. Section 12 of the act of 1890 was expressly saved from repeal by act Sept. 21, 1922, ch. 356, title IV, § 643, 42 Stat. 989, and prior acts, but its provisions, other than the sentence above mentioned, were omitted from the Code.
+The sentence in the former first paragraph as to sitting in a case previously participated in, is from act Aug. 5, 1909, ch. 6, § 28, 36 Stat. 98, which combined and amended Customs Administrative Act June 10, 1890, ch. 407, § 12, 26 Stat. 136, and section 31, as added by act May 27, 1908, ch. 205, 35 Stat. 406. Section 12 of the act of 1890 was expressly saved from repeal by act Sept. 21, 1922, ch. 356, title IV, § 643, 42 Stat. 989, and prior acts, but its provisions, other than the sentence above mentioned, were omitted from the Code.
 
 Provisions for the review of decisions of Boards of General Appraisers by the Circuit Courts, made by section 15 of the Customs Administrative Act of June 10, 1890, ch. 407, were superseded by provisions for such review by the Court of Customs Appeals created by section 29 added to that act by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6. The provisions of said new section 29 were incorporated in and superseded by chapter 8 of the Judicial Code of March 3, 1911, incorporated into the Code as former chapter 8 of Title 28, Judicial Code and Judiciary.
 
-R.S. § 2608 provided for the appointment of four appraisers of merchandise, to be employed in visiting ports of entry under the direction of the Secretary of the Treasury, and to assist in the appraisement of merchandise as might be deemed necessary by the Secretary to protect and insure uniformity in the collection of the revenue from customs. It was repealed by act June 10, 1890, ch. 407, § 29, 26 Stat. 141.
+R.S. § 2608 provided for the appointment of four appraisers of merchandise, to be employed in visiting ports of entry under the direction of the Secretary of the Treasury, and to assist in the appraisement of merchandise as might be deemed necessary by the Secretary to protect and insure uniformity in the collection of the revenue from customs. It was repealed by act June 10, 1890, ch. 407, § 29, 26 Stat. 141.
 
-R.S. § 2609 provided for the appointment of merchant appraisers. R.S. § 2610 made every merchant refusing to serve as such appraiser liable to a penalty. Both sections were superseded by the provisions relating to appraisers and appraisements of the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 131, and subsequent acts, and were repealed by act Sept. 21, 1922, ch. 356, title IV, § 642, 42 Stat. 989.
+R.S. § 2609 provided for the appointment of merchant appraisers. R.S. § 2610 made every merchant refusing to serve as such appraiser liable to a penalty. Both sections were superseded by the provisions relating to appraisers and appraisements of the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 131, and subsequent acts, and were repealed by act Sept. 21, 1922, ch. 356, title IV, § 642, 42 Stat. 989.
 
-R.S. § 2945, which contained a provision similar to that of R.S. § 2610, was repealed, without mention of section 2610, by said Customs Administrative Act of June 10, 1890, ch. 407, § 29, 26 Stat. 141, and was again repealed by act Sept. 21, 1922, ch. 356, § 642, 42 Stat. 989.
+R.S. § 2945, which contained a provision similar to that of R.S. § 2610, was repealed, without mention of section 2610, by said Customs Administrative Act of June 10, 1890, ch. 407, § 29, 26 Stat. 141, and was again repealed by act Sept. 21, 1922, ch. 356, § 642, 42 Stat. 989.
 
-R.S. § 2725, which prescribed the compensation of merchant appraisers, and section 2726, which prescribed the salary of the general appraiser at New York, were superseded by the provisions relating to general appraisers and appraisers made by the Customs Administrative Act of June 10, 1890, ch. 407, §§ 12, 13, 26 Stat. 136, as amended by the Payne-Aldrich Act of Aug. 5, 1909, ch. 6, § 28.
+R.S. § 2725, which prescribed the compensation of merchant appraisers, and section 2726, which prescribed the salary of the general appraiser at New York, were superseded by the provisions relating to general appraisers and appraisers made by the Customs Administrative Act of June 10, 1890, ch. 407, §§ 12, 13, 26 Stat. 136, as amended by the Payne-Aldrich Act of Aug. 5, 1909, ch. 6, § 28.
 
-R.S. § 2727 fixed the salary of the four general appraisers at the sum of $2,500 a year each, and their actual traveling expenses. It was repealed by act Feb. 27, 1877, ch. 69, 19 Stat. 246.
+R.S. § 2727 fixed the salary of the four general appraisers at the sum of $2,500 a year each, and their actual traveling expenses. It was repealed by act Feb. 27, 1877, ch. 69, 19 Stat. 246.
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Pub. L. 104–317, title V, § 501(b)(3), Oct. 19, 1996, 110 Stat. 3856, substituted “Duties of chief judge” for “Duties of chief judge; precedence of judges” in item 253 and added item 258.
+1996—Pub. L. 104–317, title V, § 501(b)(3), Oct. 19, 1996, 110 Stat. 3856, substituted “Duties of chief judge” for “Duties of chief judge; precedence of judges” in item 253 and added item 258.
 
-1980—Pub. L. 96–417, title V, § 501(2), Oct. 10, 1980, 94 Stat. 1742, substituted “COURT OF INTERNATIONAL TRADE” for “CUSTOMS COURT” in chapter heading.
+1980—Pub. L. 96–417, title V, § 501(2), Oct. 10, 1980, 94 Stat. 1742, substituted “COURT OF INTERNATIONAL TRADE” for “CUSTOMS COURT” in chapter heading.
 
-1970—Pub. L. 91–271, title I, § 123(a), June 2, 1970, 84 Stat. 282, substituted “Single-judge trial” for “Divisions; powers and assignments” in item 254 and “Three-judge trials” for “Publication of decisions” in item 255 and added items 256 and 257.
+1970—Pub. L. 91–271, title I, § 123(a), June 2, 1970, 84 Stat. 282, substituted “Single-judge trial” for “Divisions; powers and assignments” in item 254 and “Three-judge trials” for “Publication of decisions” in item 255 and added items 256 and 257.
 
-## § 251. Appointment and number of judges; offices
+## § 251. Appointment and number of judges; offices
 
 **(a)** The President shall appoint, by and with the advice and consent of the Senate, nine judges who shall constitute a court of record to be known as the United States Court of International Trade. Not more than five of such judges shall be from the same political party. The court is a court established under article III of the Constitution of the United States.
 
 **(b)** The offices of the Court of International Trade shall be located in New York, New York.
 
-(June 25, 1948, ch. 646, 62 Stat. 899; July 14, 1956, ch. 589, § 1, 70 Stat. 532; Pub. L. 96–417, title I, § 101, Oct. 10, 1980, 94 Stat. 1727; Pub. L. 104–317, title V, § 501(b)(1), Oct. 19, 1996, 110 Stat. 3856.)
+(June 25, 1948, ch. 646, 62 Stat. 899; July 14, 1956, ch. 589, § 1, 70 Stat. 532; Pub. L. 96–417, title I, § 101, Oct. 10, 1980, 94 Stat. 1727; Pub. L. 104–317, title V, § 501(b)(1), Oct. 19, 1996, 110 Stat. 3856.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 296 (Mar. 3, 1911, ch. 231, § 187(a), as added Oct. 10, 1940, ch. 843, § 1, 54 Stat. 1101).
+Based on title 28, U.S.C., 1940 ed., § 296 (Mar. 3, 1911, ch. 231, § 187(a), as added Oct. 10, 1940, ch. 843, § 1, 54 Stat. 1101).
 
 This section contains only a part of section 296 of title 28, U.S.C., 1940 ed. Other provisions of such section are incorporated in sections 252, 253, 254, 455, 1581, 2071, 2639, and 2640 of this title.
 
@@ -93,7 +93,7 @@ Subsec. (c). Pub. L. 96–417 designated third par. as subsec. (c) and substitut
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–417, title VII, § 701, Oct. 10, 1980, 94 Stat. 1747, as amended by Pub. L. 96–542, § 1, Dec. 17, 1980, 94 Stat. 3209, provided that:
+Pub. L. 96–417, title VII, § 701, Oct. 10, 1980, 94 Stat. 1747, as amended by Pub. L. 96–542, § 1, Dec. 17, 1980, 94 Stat. 3209, provided that:
 
 > **“(a)** Except as otherwise provided in this section, the provisions of and amendments made by this Act [see section 1 of Pub. L. 96–417, set out as a Short Title of 1980 Amendment note under section 1 of this title] shall take effect on November 1, 1980 and shall apply with respect to civil actions pending on or commenced on or after such date.
 
@@ -131,11 +131,11 @@ Pub. L. 96–417, title VII, § 701, Oct. 10, 1980, 94 Stat. 1747, as amended 
 
 **References to Certain Courts Deemed References to the United States Court of International Trade**
 
-Pub. L. 96–417, title VII, § 702, Oct. 10, 1980, 94 Stat. 1748, provided that: “Any reference in any statute or regulation of the United States to the United States Customs Court, the U.S. Customs Court, or the Customs Court shall be deemed to be a reference to the United States Court of International Trade.”
+Pub. L. 96–417, title VII, § 702, Oct. 10, 1980, 94 Stat. 1748, provided that: “Any reference in any statute or regulation of the United States to the United States Customs Court, the U.S. Customs Court, or the Customs Court shall be deemed to be a reference to the United States Court of International Trade.”
 
 **Effect on Customs Court Judges**
 
-Pub. L. 96–417, title VII, § 703, Oct. 10, 1980, 94 Stat. 1748, provided that:
+Pub. L. 96–417, title VII, § 703, Oct. 10, 1980, 94 Stat. 1748, provided that:
 
 > **“(a)** Except as provided in subsection (b) of this section, the amendments made by title I of this Act [amending this section and section 293 of this title] shall not affect the status of any individual serving as judge or chief judge of the Customs Court on the date of enactment of this Act [Oct. 10, 1980].
 
@@ -143,33 +143,33 @@ Pub. L. 96–417, title VII, § 703, Oct. 10, 1980, 94 Stat. 1748, provided th
 
 **Effect on Pending Cases**
 
-Pub. L. 96–417, title VII, § 704, Oct. 10, 1980, 94 Stat. 1748, provided that: “Nothing in this Act [see section 1 of Pub. L. 96–417, set out as a Short Title of 1980 Amendment note under section 1 of this title] shall cause the dismissal of any action commenced prior to the date of enactment of this Act [Oct. 10, 1980] under jurisdictional statutes relating to the Customs Court or the Court of Customs and Patent Appeals as in effect immediately prior to such date of enactment [Oct. 10, 1980].”
+Pub. L. 96–417, title VII, § 704, Oct. 10, 1980, 94 Stat. 1748, provided that: “Nothing in this Act [see section 1 of Pub. L. 96–417, set out as a Short Title of 1980 Amendment note under section 1 of this title] shall cause the dismissal of any action commenced prior to the date of enactment of this Act [Oct. 10, 1980] under jurisdictional statutes relating to the Customs Court or the Court of Customs and Patent Appeals as in effect immediately prior to such date of enactment [Oct. 10, 1980].”
 
 **Tennessee Valley Authority Legal Representation**
 
-Pub. L. 96–417, title VII, § 705, Oct. 10, 1980, 94 Stat. 1748, provided that: “Nothing in this Act [see section 1 of Pub. L. 96–417, set out as a Short Title of 1980 Amendment note under section 1 of this title] affects the authority of the Tennessee Valley Authority under the Tennessee Valley Authority Act of 1933 [16 U.S.C. 831 et seq.] to represent itself by attorneys of its choosing.”
+Pub. L. 96–417, title VII, § 705, Oct. 10, 1980, 94 Stat. 1748, provided that: “Nothing in this Act [see section 1 of Pub. L. 96–417, set out as a Short Title of 1980 Amendment note under section 1 of this title] affects the authority of the Tennessee Valley Authority under the Tennessee Valley Authority Act of 1933 [16 U.S.C. 831 et seq.] to represent itself by attorneys of its choosing.”
 
 **Limitation or Alteration of Jurisdiction**
 
-Act July 14, 1956, ch. 589, § 4, 70 Stat. 532, provided that: “Nothing contained in this Act [amending this section and sections 292, 293, and 295 of this title] shall be construed in any way to limit or alter the jurisdiction heretofore conferred upon the United States Customs Court [now Court of International Trade] by any provision of law.”
+Act July 14, 1956, ch. 589, § 4, 70 Stat. 532, provided that: “Nothing contained in this Act [amending this section and sections 292, 293, and 295 of this title] shall be construed in any way to limit or alter the jurisdiction heretofore conferred upon the United States Customs Court [now Court of International Trade] by any provision of law.”
 
 **Continuation of Organization of Court**
 
-Act June 25, 1948, ch. 646, § 2(b), 62 Stat. 985, provided in part that the provisions of this title as set out in section 1 of act June 25, 1948, with respect to the organization of the court, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees, in office on Sept. 1, 1948, shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title, pursuant to his prior appointment.
+Act June 25, 1948, ch. 646, § 2(b), 62 Stat. 985, provided in part that the provisions of this title as set out in section 1 of act June 25, 1948, with respect to the organization of the court, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees, in office on Sept. 1, 1948, shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title, pursuant to his prior appointment.
 
-## § 252. Tenure and salaries of judges
+## § 252. Tenure and salaries of judges
 
 Judges of the Court of International Trade shall hold office during good behavior. Each shall receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967 (2 U.S.C. 351–361), as adjusted by section 461 of this title.
 
-(June 25, 1948, ch. 646, 62 Stat. 899; Mar. 2, 1955, ch. 9, § 1(f), 69 Stat. 10; Pub. L. 88–426, title IV, § 403(f), Aug. 14, 1964, 78 Stat. 434; Pub. L. 94–82, title II, § 205(b)(6), Aug. 9, 1975, 89 Stat. 423; Pub. L. 96–417, title V, § 502, Oct. 10, 1980, 94 Stat. 1742.)
+(June 25, 1948, ch. 646, 62 Stat. 899; Mar. 2, 1955, ch. 9, § 1(f), 69 Stat. 10; Pub. L. 88–426, title IV, § 403(f), Aug. 14, 1964, 78 Stat. 434; Pub. L. 94–82, title II, § 205(b)(6), Aug. 9, 1975, 89 Stat. 423; Pub. L. 96–417, title V, § 502, Oct. 10, 1980, 94 Stat. 1742.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 296 (Mar. 3, 1911, ch. 231, § 187(a), as added Oct. 10, 1940, ch. 843, § 1, 54 Stat. 1101; July 31, 1946, ch. 704, § 1, 60 Stat. 716).
+Based on title 28, U.S.C., 1940 ed., § 296 (Mar. 3, 1911, ch. 231, § 187(a), as added Oct. 10, 1940, ch. 843, § 1, 54 Stat. 1101; July 31, 1946, ch. 704, § 1, 60 Stat. 716).
 
 This section contains a part of section 296 of title 28, U.S.C., 1940 ed., Other provisions of such section are incorporated in sections 251, 253, 254, 456, 1581, 2071, 2639, and 2640 of this title.
 
-A provision exempting judge’s salaries from section 1790 of the Revised Statutes was omitted, as such section was repealed by act Aug. 26, 1935, ch. 689, § 1, 49 Stat. 864.
+A provision exempting judge’s salaries from section 1790 of the Revised Statutes was omitted, as such section was repealed by act Aug. 26, 1935, ch. 689, § 1, 49 Stat. 864.
 
 A provision for monthly salary payments was omitted since time of payment is a matter for administrative determination.
 
@@ -179,7 +179,7 @@ Changes were made in phraseology.
 
 **References in Text**
 
-Section 225 of the Federal Salary Act of 1967, referred to in text, is section 225 of Pub. L. 90–206, Dec. 16, 1967, 81 Stat. 642, which is classified to chapter 11 (§ 351 et seq.) of Title 2, The Congress.
+Section 225 of the Federal Salary Act of 1967, referred to in text, is section 225 of Pub. L. 90–206, Dec. 16, 1967, 81 Stat. 642, which is classified to chapter 11 (§ 351 et seq.) of Title 2, The Congress.
 
 **Amendments**
 
@@ -215,25 +215,25 @@ For prior year salary increases per the recommendation of the President, see Pri
 
 For miscellaneous provisions dealing with adjustments of pay and limitations on use of funds to pay salaries in prior years, see notes under section 5318 of Title 5, Government Organization and Employees.
 
-Salaries of presiding judge and associate judges increased from $10,000 to $15,000 a year by act July 31, 1946, ch. 704, § 1, 60 Stat. 716.
+Salaries of presiding judge and associate judges increased from $10,000 to $15,000 a year by act July 31, 1946, ch. 704, § 1, 60 Stat. 716.
 
-Salaries of presiding judge and associate judges increased from $9,000 to $10,000 a year by the Tariff Act of 1930, act June 17, 1930, ch. 497, title IV, § 518, 46 Stat. 737.
+Salaries of presiding judge and associate judges increased from $9,000 to $10,000 a year by the Tariff Act of 1930, act June 17, 1930, ch. 497, title IV, § 518, 46 Stat. 737.
 
-## § 253. Duties of chief judge
+## § 253. Duties of chief judge
 
-**(a)** The chief judge of the Court of International Trade, with the approval of the court, shall supervise the fiscal affairs and clerical force of the court; 1
+**(a)** The chief judge of the Court of International Trade, with the approval of the court, shall supervise the fiscal affairs and clerical force of the court; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a period.
+<sup>1</sup> So in original. The semicolon probably should be a period.
 
 **(b)** The chief judge shall promulgate dockets.
 
 **(c)** The chief judge, under rules of the court, may designate any judge or judges of the court to try any case and, when the circumstances so warrant, reassign the case to another judge or judges.
 
-(June 25, 1948, ch. 646, 62 Stat. 900; Pub. L. 86–243, § 3, Sept. 9, 1959, 73 Stat. 474; Pub. L. 91–271, title I, § 105, June 2, 1970, 84 Stat. 276; Pub. L. 96–417, title V, § 501(3), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 104–317, title V, § 501(b)(2), Oct. 19, 1996, 110 Stat. 3856.)
+(June 25, 1948, ch. 646, 62 Stat. 900; Pub. L. 86–243, § 3, Sept. 9, 1959, 73 Stat. 474; Pub. L. 91–271, title I, § 105, June 2, 1970, 84 Stat. 276; Pub. L. 96–417, title V, § 501(3), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 104–317, title V, § 501(b)(2), Oct. 19, 1996, 110 Stat. 3856.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 296 (Mar. 3, 1911, ch. 231, § 187(a), as added Oct. 10, 1940, ch. 843, § 1, 54 Stat. 1101).
+Based on title 28, U.S.C., 1940 ed., § 296 (Mar. 3, 1911, ch. 231, § 187(a), as added Oct. 10, 1940, ch. 843, § 1, 54 Stat. 1101).
 
 This section contains a part of section 296 of title 28, U.S.C., 1940 ed. Other provisions of such section are incorporated in sections 251, 252, 254, 456, 1581, 2071, 2639, and 2640 of this title.
 
@@ -249,7 +249,7 @@ Changes were made in phraseology and arrangement.
 
 **Amendments**
 
-1996—Pub. L. 104–317 struck out “; precedence of judges” after “chief judge” in section catchline and struck out subsecs. (d) and (e) which read as follows:
+1996—Pub. L. 104–317 struck out “; precedence of judges” after “chief judge” in section catchline and struck out subsecs. (d) and (e) which read as follows:
 
 “(d) Whenever the chief judge is unable to perform the duties of his office or the office is vacant, his powers and duties shall devolve upon the judge next in precedence who is able to act, until such disability is removed or another chief judge is appointed and duly qualified.
 
@@ -275,17 +275,17 @@ Amendment by Pub. L. 91–271 effective Oct. 1, 1970, see section 122 of Pub. L.
 
 Amendment by Pub. L. 86–243 not to deprive Customs Court [now Court of International Trade] officers or employees of any rights, privileges, or civil service status, see section 4 of Pub. L. 86–243, set out as a note under section 871 of this title.
 
-## § 254. Single-judge trials
+## § 254. Single-judge trials
 
 Except as otherwise provided in section 255 of this title, the judicial power of the Court of International Trade with respect to any action, suit or proceeding shall be exercised by a single judge, who may preside alone and hold a regular or special session of court at the same time other sessions are held by other judges.
 
-(June 25, 1948, ch. 646, 62 Stat. 900; May 24, 1949, ch. 139, § 66, 63 Stat. 99; Pub. L. 91–271, title I, § 106, June 2, 1970, 84 Stat. 277; Pub. L. 96–417, title V, § 501(4), Oct. 10, 1980, 94 Stat. 1742.)
+(June 25, 1948, ch. 646, 62 Stat. 900; May 24, 1949, ch. 139, § 66, 63 Stat. 99; Pub. L. 91–271, title I, § 106, June 2, 1970, 84 Stat. 277; Pub. L. 96–417, title V, § 501(4), Oct. 10, 1980, 94 Stat. 1742.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., § 296 (Mar. 3, 1911, ch. 231, 187(a), as added Oct. 10, 1940, ch. 843, § 1, 54 Stat. 1101).
+Based on title 28, U.S.C., 1940 ed., § 296 (Mar. 3, 1911, ch. 231, 187(a), as added Oct. 10, 1940, ch. 843, § 1, 54 Stat. 1101).
 
 This section contains a part of section 296 of title 28, U.S.C., 1940 ed. Other provisions of such section are incorporated in sections 251, 252, 253, 456, 1581, 2071, 2639, and 2640 of this title.
 
@@ -329,13 +329,13 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 Amendment by Pub. L. 91–271 effective Oct. 1, 1970, see section 122 of Pub. L. 91–271, set out as a note under section 256 of this title.
 
-## § 255. Three-judge trials
+## § 255. Three-judge trials
 
 **(a)** Upon application of any party to a civil action, or upon his own initiative, the chief judge of the Court of International Trade shall designate any three judges of the court to hear and determine any civil action which the chief judge finds: (1) raises an issue of the constitutionality of an Act of Congress, a proclamation of the President or an Executive order; or (2) has broad or significant implications in the administration or interpretation of the customs laws.
 
 **(b)** A majority of the three judges designated may hear and determine the civil action and all questions pending therein.
 
-(Added Pub. L. 91–271, title I, § 108, June 2, 1970, 84 Stat. 277; amended Pub. L. 96–417, title V, § 501(5), Oct. 10, 1980, 94 Stat. 1742.)
+(Added Pub. L. 91–271, title I, § 108, June 2, 1970, 84 Stat. 277; amended Pub. L. 96–417, title V, § 501(5), Oct. 10, 1980, 94 Stat. 1742.)
 
 **Editorial Notes**
 
@@ -357,13 +357,13 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 Section effective Oct. 1, 1970, see section 122 of Pub. L. 91–271, set out as a note under section 256 of this title.
 
-## § 256. Trials at ports other than New York
+## § 256. Trials at ports other than New York
 
 **(a)** The chief judge may designate any judge or judges of the court to proceed, together with necessary assistants, to any port or to any place within the jurisdiction of the United States to preside at a trial or hearing at the port or place.
 
 **(b)** Upon application of a party or upon his own initiative, and upon a showing that the interests of economy, efficiency, and justice will be served, the chief judge may issue an order authorizing a judge of the court to preside in an evidentiary hearing in a foreign country whose laws do not prohibit such a hearing: *Provided, however*, That an interlocutory appeal may be taken from such an order pursuant to the provisions of section 1292(d)(1) of this title, and the United States Court of Appeals for the Federal Circuit may, in its discretion, consider the appeal.
 
-(Added Pub. L. 91–271, title I, § 109, June 2, 1970, 84 Stat. 277; amended Pub. L. 97–164, title I, § 107, Apr. 2, 1982, 96 Stat. 28.)
+(Added Pub. L. 91–271, title I, § 109, June 2, 1970, 84 Stat. 277; amended Pub. L. 97–164, title I, § 107, Apr. 2, 1982, 96 Stat. 28.)
 
 **Editorial Notes**
 
@@ -379,7 +379,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **Effective Date**
 
-Pub. L. 91–271, title I, § 122, June 2, 1970, 84 Stat. 281, provided that:
+Pub. L. 91–271, title I, § 122, June 2, 1970, 84 Stat. 281, provided that:
 
 > **“(a)** This title [see Short Title of 1970 Amendment note set out under section 1 of this title] shall become effective on October 1, 1970, and shall thereafter apply to all actions and proceedings in the Customs Court and the Court of Customs and Patent Appeals except those involving merchandise entered before the effective date for which trial has commenced by such effective date.
 
@@ -389,15 +389,15 @@ Pub. L. 91–271, title I, § 122, June 2, 1970, 84 Stat. 281, provided that:
 
 > **“(d)** All other provisions of this Act [see Short Title notes set out under section 1 of this title and section 1500 of Title 19] shall apply to appeals and disallowed protests deemed to have had summonses timely and properly filed under this section.”
 
-## § 257. Publication of decisions
+## § 257. Publication of decisions
 
 All decisions of the Court of International Trade shall be preserved and open to inspection. The court shall forward copies of each decision to the Secretary of the Treasury or his designee and to the appropriate customs officer for the district in which the case arose. The Secretary shall publish weekly such decisions as he or the court may designate and abstracts of all other decisions.
 
-(June 25, 1948, ch. 646, 62 Stat. 900, § 255; renumbered § 257 and amended Pub. L. 91–271, title I, § 107, June 2, 1970, 84 Stat. 277; Pub. L. 96–417, title V, § 501(6), Oct. 10, 1980, 94 Stat. 1742.)
+(June 25, 1948, ch. 646, 62 Stat. 900, § 255; renumbered § 257 and amended Pub. L. 91–271, title I, § 107, June 2, 1970, 84 Stat. 277; Pub. L. 96–417, title V, § 501(6), Oct. 10, 1980, 94 Stat. 1742.)
 
 **Historical and Revision Notes**
 
-Based on section 1519 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 519, 46 Stat. 739).
+Based on section 1519 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 519, 46 Stat. 739).
 
 Changes in phraseology were made.
 
@@ -419,7 +419,7 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 Amendment by Pub. L. 91–271 effective Oct. 1, 1970, see section 122 of Pub. L. 91–271, set out as an Effective Date note under section 256 of this title.
 
-## § 258. Chief judges; precedence of judges
+## § 258. Chief judges; precedence of judges
 
 **(a)**
 
@@ -451,13 +451,13 @@ Amendment by Pub. L. 91–271 effective Oct. 1, 1970, see section 122 of Pub. L.
 
 **(d)** If a chief judge is temporarily unable to perform the duties as such, such duties shall be performed by the judge of the court in active service, able and qualified to act, who is next in precedence.
 
-(Added Pub. L. 104–317, title V, § 501(a), Oct. 19, 1996, 110 Stat. 3855.)
+(Added Pub. L. 104–317, title V, § 501(a), Oct. 19, 1996, 110 Stat. 3855.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Continuance of Position of Chief Judge**
 
-Pub. L. 104–317, title V, § 501(c), Oct. 19, 1996, 110 Stat. 3856, provided that:
+Pub. L. 104–317, title V, § 501(c), Oct. 19, 1996, 110 Stat. 3856, provided that:
 
 > **“(1)** Notwithstanding the provisions of section 258(a) of title 28, United States Code (as added by subsection (a) of this section), the chief judge of the United States Court of International Trade who is in office on the day before the date of enactment of this Act [Oct. 19, 1996] shall continue to be such chief judge on or after such date until any one of the following events occurs:
 

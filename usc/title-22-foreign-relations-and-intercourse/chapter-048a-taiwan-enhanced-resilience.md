@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—IMPLEMENTATION OF AN ENHANCED DEFENSE PARTNERSHIP BETWEEN THE UNITED STATES AND TAIWAN
 
-### § 3351. Modernizing Taiwan’s security capabilities to deter and, if necessary, defeat aggression by the People’s Republic of China
+### § 3351. Modernizing Taiwan’s security capabilities to deter and, if necessary, defeat aggression by the People’s Republic of China
 
 **(a) Appropriate congressional committees defined** In this section, the term “appropriate congressional committees” means—
 
@@ -277,33 +277,33 @@ Of the amounts authorized to be appropriated for Foreign Military Financing and 
 
 Assistance may not be provided under this section after September 30, 2032.
 
-(Pub. L. 117–263, div. E, title LV, § 5502, Dec. 23, 2022, 136 Stat. 3292; Pub. L. 118–31, div. A, title XIII, § 1308(a), Dec. 22, 2023, 137 Stat. 494.)
+(Pub. L. 117–263, div. E, title LV, § 5502, Dec. 23, 2022, 136 Stat. 3292; Pub. L. 118–31, div. A, title XIII, § 1308(a), Dec. 22, 2023, 137 Stat. 494.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Taiwan Relations Act, referred to in subsec. (b), is Pub. L. 96–8, Apr. 10, 1979, 93 Stat. 14, which is classified generally to chapter 48 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The Taiwan Relations Act, referred to in subsec. (b), is Pub. L. 96–8, Apr. 10, 1979, 93 Stat. 14, which is classified generally to chapter 48 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsecs. (c) and (h)(3), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsecs. (c) and (h)(3), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 **Amendments**
 
-2023—Subsec. (e)(2)(A). Pub. L. 118–31, § 1308(a)(1), inserted “not later than 1 year after December 22, 2023, and” before “not less than annually”.
+2023—Subsec. (e)(2)(A). Pub. L. 118–31, § 1308(a)(1), inserted “not later than 1 year after December 22, 2023, and” before “not less than annually”.
 
-Subsec. (f)(2)(N) to (P). Pub. L. 118–31, § 1308(a)(2), added subpars. (N) to (P).
+Subsec. (f)(2)(N) to (P). Pub. L. 118–31, § 1308(a)(2), added subpars. (N) to (P).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 117–263, div. E, title LV, § 5501, Dec. 23, 2022, 136 Stat. 3292, provided that: “This subtitle [subtitle A (§§ 5501–5540) of title LV of div. E of Pub. L. 117–263, enacting this chapter, amending sections 2318, 2321h, 2321j, and 2348a of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Taiwan Enhanced Resilience Act’.”
+Pub. L. 117–263, div. E, title LV, § 5501, Dec. 23, 2022, 136 Stat. 3292, provided that: “This subtitle [subtitle A (§§ 5501–5540) of title LV of div. E of Pub. L. 117–263, enacting this chapter, amending sections 2318, 2321h, 2321j, and 2348a of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Taiwan Enhanced Resilience Act’.”
 
-Pub. L. 117–263, div. E, title LV, § 5526, Dec. 23, 2022, 136 Stat. 3324, provided that: “This part [part 5 (§§ 5526–5535) of subtitle A of title LV of div. E of Pub. L. 117–263, enacting subchapter IV of this chapter] may be cited as the ‘Taiwan Fellowship Act’.”
+Pub. L. 117–263, div. E, title LV, § 5526, Dec. 23, 2022, 136 Stat. 3324, provided that: “This part [part 5 (§§ 5526–5535) of subtitle A of title LV of div. E of Pub. L. 117–263, enacting subchapter IV of this chapter] may be cited as the ‘Taiwan Fellowship Act’.”
 
 **Military Cybersecurity Cooperation With Taiwan**
 
-Pub. L. 118–31, div. A, title XV, § 1518, Dec. 22, 2023, 137 Stat. 549, provided that:
+Pub. L. 118–31, div. A, title XV, § 1518, Dec. 22, 2023, 137 Stat. 549, provided that:
 
 > **“(a) Requirement.—** Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense, acting through the Under Secretary of Defense for Policy, with the concurrence of the Secretary of State and in coordination with the Commander of the United States Cyber Command and the Commander of the United States Indo-Pacific Command, shall seek to engage with appropriate officials of Taiwan for the purpose of cooperating with the military forces of Taiwan on defensive military cybersecurity activities.
 
@@ -339,7 +339,7 @@ Pub. L. 118–31, div. A, title XV, § 1518, Dec. 22, 2023, 137 Stat. 549, pro
 
 **Sense of Congress on Taiwan Defense Relations**
 
-Pub. L. 118–31, div. A, title XIII, § 1307, Dec. 22, 2023, 137 Stat. 493, provided that:
+Pub. L. 118–31, div. A, title XIII, § 1307, Dec. 22, 2023, 137 Stat. 493, provided that:
 
 > “It is the sense of Congress that—
 
@@ -373,7 +373,7 @@ Pub. L. 118–31, div. A, title XIII, § 1307, Dec. 22, 2023, 137 Stat. 493, p
 
 > **“(6)** the United States should increase its support to a free and open society in the face of aggressive efforts by the Government of the People’s Republic of China to curtail or influence the free exercise of rights and democratic franchise.”
 
-Pub. L. 117–263, div. E, title LV, § 5512, Dec. 23, 2022, 136 Stat. 3308, provided that:
+Pub. L. 117–263, div. E, title LV, § 5512, Dec. 23, 2022, 136 Stat. 3308, provided that:
 
 > “It is the sense of Congress that—
 
@@ -407,13 +407,13 @@ Pub. L. 117–263, div. E, title LV, § 5512, Dec. 23, 2022, 136 Stat. 3308, p
 
 > **“(6)** the United States should increase its support to a free and open society in the face of aggressive efforts by the Government of the People’s Republic of China to curtail or influence the free exercise of rights and democratic franchise.”
 
-### § 3352. Establishment
+### § 3352. Establishment
 
 Subject to section 2321h of this title, the President may establish a regional contingency stockpile for Taiwan that consists of munitions and other appropriate defense articles.
 
-(Pub. L. 117–263, div. E, title LV, § 5503(b), Dec. 23, 2022, 136 Stat. 3298.)
+(Pub. L. 117–263, div. E, title LV, § 5503(b), Dec. 23, 2022, 136 Stat. 3298.)
 
-### § 3353. International military education and training cooperation with Taiwan
+### § 3353. International military education and training cooperation with Taiwan
 
 **(a) In general** The Secretary of State and the Secretary of Defense shall establish or expand a comprehensive training program with Taiwan designed to—
 
@@ -433,29 +433,29 @@ The training program required by subsection (a) should prioritize relevant and r
 
 The Secretary of State is authorized to provide training and education to relevant entities in Taiwan through the International Military Education and Training program authorized under chapter 5 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2347 et seq).1
 
-<sup>1</sup>  So in original. Probably should be “seq.).”
+<sup>1</sup> So in original. Probably should be “seq.).”
 
-(Pub. L. 117–263, div. E, title LV, § 5504, Dec. 23, 2022, 136 Stat. 3298.)
+(Pub. L. 117–263, div. E, title LV, § 5504, Dec. 23, 2022, 136 Stat. 3298.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of the Act is classified generally to part V (§ 2347 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of the Act is classified generally to part V (§ 2347 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-### § 3354. Use of Special Defense Acquisition Fund
+### § 3354. Use of Special Defense Acquisition Fund
 
 The Secretary of Defense, in consultation with the Secretary of State, shall seek to utilize the Special Defense Acquisition Fund established under chapter 5 of the Arms Export Control Act (22 U.S.C. 2795 et seq.) to expedite the procurement and delivery of defense articles and defense services for the purpose of assisting and supporting the armed forces of Taiwan.
 
-(Pub. L. 117–263, div. E, title LV, § 5505(c), Dec. 23, 2022, 136 Stat. 3299.)
+(Pub. L. 117–263, div. E, title LV, § 5505(c), Dec. 23, 2022, 136 Stat. 3299.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Arms Export Control Act, referred to in text, is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320. Chapter 5 of the Act is classified generally to subchapter V (§ 2795 et seq.) of chapter 39 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in text, is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320. Chapter 5 of the Act is classified generally to subchapter V (§ 2795 et seq.) of chapter 39 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-### § 3355. Multi-year plan to fulfill defensive requirements of military forces of Taiwan
+### § 3355. Multi-year plan to fulfill defensive requirements of military forces of Taiwan
 
 **(a) Multi-year plan**
 
@@ -473,9 +473,9 @@ Not later than 180 days after December 23, 2022, the Secretary of Defense and th
 
 **(3)** An explanation of the annual resources committed by Taiwan to address such capability gaps and capacity shortfalls.
 
-**(4)** A description and justification of the relative importance of overcoming each identified capability gap and capacity shortfall for deterring, delaying, or defeating military aggression by the People’s Republic of China; 1
+**(4)** A description and justification of the relative importance of overcoming each identified capability gap and capacity shortfall for deterring, delaying, or defeating military aggression by the People’s Republic of China; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a period.
+<sup>1</sup> So in original. The semicolon probably should be a period.
 
 **(5)** An assessment of—
 
@@ -529,19 +529,19 @@ Not later than 180 days after December 23, 2022, the Secretary of Defense and th
 
 The joint consultative mechanism required in subsection (a) shall convene on a recurring basis and not less than annually.
 
-(Pub. L. 117–263, div. E, title LV, § 5506, Dec. 23, 2022, 136 Stat. 3299.)
+(Pub. L. 117–263, div. E, title LV, § 5506, Dec. 23, 2022, 136 Stat. 3299.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Taiwan Relations Act, referred to in subsec. (a), is Pub. L. 96–8, Apr. 10, 1979, 93 Stat. 14, which is classified generally to chapter 48 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The Taiwan Relations Act, referred to in subsec. (a), is Pub. L. 96–8, Apr. 10, 1979, 93 Stat. 14, which is classified generally to chapter 48 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(6)(C), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of the Act is classified generally to part V (§ 2347 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(6)(C), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of the Act is classified generally to part V (§ 2347 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (b)(6)(E), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (b)(6)(E), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-### § 3356. Fast-tracking sales to Taiwan under foreign military sales program
+### § 3356. Fast-tracking sales to Taiwan under foreign military sales program
 
 **(a) Preclearance of certain foreign military sales items**
 
@@ -573,17 +573,17 @@ The requirement under paragraph (1) shall continue until the Secretary of State 
 
 The Secretary of State and the Secretary of Defense shall jointly review and update interagency policies and implementation guidance related to Foreign Military Sales requests from Taiwan, including incorporating the preclearance provisions of this section.
 
-(Pub. L. 117–263, div. E, title LV, § 5507, Dec. 23, 2022, 136 Stat. 3301.)
+(Pub. L. 117–263, div. E, title LV, § 5507, Dec. 23, 2022, 136 Stat. 3301.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (a)(2)(B), was in the original “this Act”, meaning Pub. L. 117–263, div. E, title LV, subtitle A (§§ 5501–5540), Dec. 23, 2022, 136 Stat. 3292, known as the Taiwan Enhanced Resilience Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3351 of this title and Tables.
+This chapter, referred to in subsec. (a)(2)(B), was in the original “this Act”, meaning Pub. L. 117–263, div. E, title LV, subtitle A (§§ 5501–5540), Dec. 23, 2022, 136 Stat. 3292, known as the Taiwan Enhanced Resilience Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3351 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (a)(2)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (a)(2)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-### § 3357. Findings and statement of policy
+### § 3357. Findings and statement of policy
 
 **(a) Findings** Congress finds the following:
 
@@ -599,15 +599,15 @@ The Arms Export Control Act, referred to in subsec. (a)(2)(B), is Pub. L. 90–6
 
 **(2)** work with allies and partners to promote peace and stability in the Indo-Pacific and deter military acts or other forms of coercive behavior that would undermine regional stability.
 
-(Pub. L. 117–263, div. E, title LV, § 5511, Dec. 23, 2022, 136 Stat. 3308.)
+(Pub. L. 117–263, div. E, title LV, § 5511, Dec. 23, 2022, 136 Stat. 3308.)
 
-### § 3357a. Statement of policy on Taiwan
+### § 3357a. Statement of policy on Taiwan
 
 **(a) Statement of policy**
 
 Consistent with the Taiwan Relations Act (22 U.S.C. 3301 et.1
 
-<sup>1</sup>  So in original. The period probably should not appear.
+<sup>1</sup> So in original. The period probably should not appear.
 
 seq.), it shall be the policy of the United States to maintain the capacity of the United States to resist a fait accompli that would jeopardize the security of the people on Taiwan.
 
@@ -615,29 +615,29 @@ seq.), it shall be the policy of the United States to maintain the capacity of t
 
 In this section, the term “fait accompli” refers to the resort to force by the People’s Republic of China to invade and seize control of Taiwan before the United States can respond effectively.
 
-(Pub. L. 117–263, div. A, title XII, § 1263, Dec. 23, 2022, 136 Stat. 2858.)
+(Pub. L. 117–263, div. A, title XII, § 1263, Dec. 23, 2022, 136 Stat. 2858.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Taiwan Relations Act, referred to in subsec. (a), is Pub. L. 96–8, Apr. 10, 1979, 93 Stat. 14, which is classified generally to chapter 48 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The Taiwan Relations Act, referred to in subsec. (a), is Pub. L. 96–8, Apr. 10, 1979, 93 Stat. 14, which is classified generally to chapter 48 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Pub. L. 117–263), but not as part of the Taiwan Enhanced Resilience Act (Pub. L. 117–263, div. E, title LV, subtitle A) which comprises this chapter.
 
-### § 3357b. Establishment of training, advising, and institutional capacity-building program for military forces of Taiwan
+### § 3357b. Establishment of training, advising, and institutional capacity-building program for military forces of Taiwan
 
 Consistent with the Taiwan Relations Act (22 U.S.C. 3301 et seq.) and pursuant to section 3353 of this title, the Secretary of Defense, in consultation with appropriate officials of Taiwan, shall establish a comprehensive training, advising, and institutional capacity-building program for the military forces of Taiwan using the authorities provided in chapter 16 of title 10 and other applicable statutory authorities available to the Secretary of Defense.
 
-(Pub. L. 118–31, div. A, title XIII, § 1309(a), Dec. 22, 2023, 137 Stat. 494.)
+(Pub. L. 118–31, div. A, title XIII, § 1309(a), Dec. 22, 2023, 137 Stat. 494.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Taiwan Relations Act, referred to in text, is Pub. L. 96–8, Apr. 10, 1979, 93 Stat. 14, which is classified generally to chapter 48 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The Taiwan Relations Act, referred to in text, is Pub. L. 96–8, Apr. 10, 1979, 93 Stat. 14, which is classified generally to chapter 48 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 **Codification**
 
@@ -645,7 +645,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 ## SUBCHAPTER II—COUNTERING PEOPLE’S REPUBLIC OF CHINA’S COERCION AND INFLUENCE CAMPAIGNS
 
-### § 3361. Strategy to respond to influence and information operations targeting Taiwan
+### § 3361. Strategy to respond to influence and information operations targeting Taiwan
 
 **(a) In general** Not later than 180 days after December 23, 2022, and annually thereafter for the following 5 years, the Secretary of State, in coordination with the Director of National Intelligence, shall develop and implement a strategy to respond to—
 
@@ -669,9 +669,9 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 **(4)** programs carried out by the Global Engagement Center to expose misinformation and disinformation in the Chinese Communist Party’s propaganda.
 
-(Pub. L. 117–263, div. E, title LV, § 5513, Dec. 23, 2022, 136 Stat. 3309.)
+(Pub. L. 117–263, div. E, title LV, § 5513, Dec. 23, 2022, 136 Stat. 3309.)
 
-### § 3362. Task force to counter economic coercion by the People’s Republic of China
+### § 3362. Task force to counter economic coercion by the People’s Republic of China
 
 **(a) Sense of Congress** It is the sense of Congress that—
 
@@ -793,9 +793,9 @@ The Task Force shall terminate at the end of the 60-day period beginning on the 
 
 **(2) Additional actions**
 
-The Task force 1
+The Task force 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 may use the 60-day period referred to in paragraph (1) for the purposes of concluding its activities, including providing testimony to Congress concerning the final report required by subsection (e)(3).
 
@@ -803,7 +803,7 @@ may use the 60-day period referred to in paragraph (1) for the purposes of concl
 
 The Secretary of State, the Administrator of the United States Agency for International Development, the United States International Development Finance Corporation, the Secretary of Commerce, and the Secretary of the Treasury shall provide appropriate assistance to countries and entities that are subject to coercive economic practices by the People’s Republic of China.
 
-(Pub. L. 117–263, div. E, title LV, § 5514, Dec. 23, 2022, 136 Stat. 3310.)
+(Pub. L. 117–263, div. E, title LV, § 5514, Dec. 23, 2022, 136 Stat. 3310.)
 
 **Executive Documents**
 
@@ -885,7 +885,7 @@ Sec. 6. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 
 J.R. Biden, Jr.
 
-### § 3363. China censorship monitor and action group
+### § 3363. China censorship monitor and action group
 
 **(a) Definitions** In this section:
 
@@ -1017,7 +1017,7 @@ The report referred to in subparagraph (A) shall be made accessible to the publi
 
 This section shall terminate on the date that is 5 years after December 23, 2022.
 
-(Pub. L. 117–263, div. E, title LV, § 5515, Dec. 23, 2022, 136 Stat. 3313.)
+(Pub. L. 117–263, div. E, title LV, § 5515, Dec. 23, 2022, 136 Stat. 3313.)
 
 **Executive Documents**
 
@@ -1089,7 +1089,7 @@ J.R. Biden, Jr.
 
 ## SUBCHAPTER III—INCLUSION OF TAIWAN IN INTERNATIONAL ORGANIZATIONS
 
-### § 3371. Findings
+### § 3371. Findings
 
 Congress makes the following findings:
 
@@ -1101,15 +1101,15 @@ Congress makes the following findings:
 
 **(4)** United Nations (UN) General Assembly Resolution 2758 does not address the issue of representation of Taiwan and its people at the United Nations, nor does it give the PRC the right to represent the people of Taiwan.
 
-(Pub. L. 117–263, div. E, title LV, § 5516, Dec. 23, 2022, 136 Stat. 3317.)
+(Pub. L. 117–263, div. E, title LV, § 5516, Dec. 23, 2022, 136 Stat. 3317.)
 
-### § 3372. Strategy to support Taiwan’s meaningful participation in international organizations
+### § 3372. Strategy to support Taiwan’s meaningful participation in international organizations
 
 **(a) In general** Not later than 180 days after December 23, 2022, the Secretary of State, in consultation with other Federal departments and agencies as appropriate, shall submit to the appropriate congressional committees a strategy—
 
-**(1)** to advance Taiwan”s 1
+**(1)** to advance Taiwan”s 1
 
-<sup>1</sup>  So in original. Probably should be “Taiwan’s”.
+<sup>1</sup> So in original. Probably should be “Taiwan’s”.
 
 meaningful participation in a prioritized set of international organizations (IOs); and
 
@@ -1139,9 +1139,9 @@ The strategy required in subsection (a) shall be classified, but it may include 
 
 The Permanent Representative of the United States to the United Nations and other relevant United States officials shall actively support Taiwan’s meaningful participation in all appropriate international organizations.
 
-(Pub. L. 117–263, div. E, title LV, § 5518, Dec. 23, 2022, 136 Stat. 3318.)
+(Pub. L. 117–263, div. E, title LV, § 5518, Dec. 23, 2022, 136 Stat. 3318.)
 
-### § 3373. Meaningful participation of Taiwan in the International Civil Aviation Organization
+### § 3373. Meaningful participation of Taiwan in the International Civil Aviation Organization
 
 **(a) Sense of Congress** It is the sense of Congress that—
 
@@ -1169,11 +1169,11 @@ The Permanent Representative of the United States to the United Nations and othe
 
 **(3)** identifies the steps the Secretary of State and the Secretary of Commerce will take in the next year to ensure Taiwan’s meaningful participation in ICAO, including in ICAO triennial assembly sessions, conferences, technical working groups, meetings, activities, and mechanisms.
 
-(Pub. L. 117–263, div. E, title LV, § 5519, Dec. 23, 2022, 136 Stat. 3319.)
+(Pub. L. 117–263, div. E, title LV, § 5519, Dec. 23, 2022, 136 Stat. 3319.)
 
 ## SUBCHAPTER IV—SUPPORTING UNITED STATES EDUCATIONAL AND EXCHANGE PROGRAMS WITH TAIWAN
 
-### § 3381. Findings
+### § 3381. Findings
 
 Congress makes the following findings:
 
@@ -1189,19 +1189,19 @@ Congress makes the following findings:
 
 **(C)** April 2021 guidance from the Department of State based on a review required under the Taiwan Assurance Act of 2020 (subtitle B of title III of division FF of Public Law 116–260) to “encourage U.S. government engagement with Taiwan that reflects our deepening unofficial relationship”.
 
-(Pub. L. 117–263, div. E, title LV, § 5527, Dec. 23, 2022, 136 Stat. 3324.)
+(Pub. L. 117–263, div. E, title LV, § 5527, Dec. 23, 2022, 136 Stat. 3324.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Taiwan Relations Act, referred to in par. (1), is Pub. L. 96–8, Apr. 10, 1979, 93 Stat. 14, which is classified generally to chapter 48 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The Taiwan Relations Act, referred to in par. (1), is Pub. L. 96–8, Apr. 10, 1979, 93 Stat. 14, which is classified generally to chapter 48 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 The Asia Reassurance Initiative Act of 2018, referred to in par. (2), is Pub. L. 115–409, Dec. 31, 2018, 132 Stat. 5387. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 2651 of this title and Tables.
 
-The Taiwan Assurance Act of 2020, referred to in par. (3)(C), is subtitle B (§§ 311–315) of Pub. L. 116–260, div. FF, title III, Dec. 27, 2020, 134 Stat. 3099, which enacted provisions set out as notes under section 3301 of this title. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 3301 of this title and Tables.
+The Taiwan Assurance Act of 2020, referred to in par. (3)(C), is subtitle B (§§ 311–315) of Pub. L. 116–260, div. FF, title III, Dec. 27, 2020, 134 Stat. 3099, which enacted provisions set out as notes under section 3301 of this title. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 3301 of this title and Tables.
 
-### § 3382. Purposes
+### § 3382. Purposes
 
 The purposes of this subchapter are—
 
@@ -1215,9 +1215,9 @@ The purposes of this subchapter are—
 
 **(3)** to better position the United States to advance its economic, security, and human rights interests and values in the Indo-Pacific region.
 
-(Pub. L. 117–263, div. E, title LV, § 5528, Dec. 23, 2022, 136 Stat. 3325.)
+(Pub. L. 117–263, div. E, title LV, § 5528, Dec. 23, 2022, 136 Stat. 3325.)
 
-### § 3383. Definitions
+### § 3383. Definitions
 
 In this subchapter:
 
@@ -1255,9 +1255,9 @@ The term “agency of the United States Government” includes the Government Ac
 
 The term “Program” means the Taiwan Fellowship Program established pursuant to section 3384 of this title.
 
-(Pub. L. 117–263, div. E, title LV, § 5529, Dec. 23, 2022, 136 Stat. 3325.)
+(Pub. L. 117–263, div. E, title LV, § 5529, Dec. 23, 2022, 136 Stat. 3325.)
 
-### § 3384. Taiwan Fellowship Program
+### § 3384. Taiwan Fellowship Program
 
 **(a) Establishment**
 
@@ -1275,7 +1275,7 @@ The American Institute in Taiwan should use amounts appropriated pursuant to sec
 
 **(B)** approximately 10 fellowships during each of the remaining years of the Program.
 
-**(c) American Institution 1 [footnote: 1 So in original. Probably should be “Institute”.] in Taiwan agreement; implementing partner** Not later than 30 days after December 23, 2022, the American Institute in Taiwan, in consultation with the Department of State, should—
+**(c) American Institution 1 [footnote: 1 So in original. Probably should be “Institute”.] in Taiwan agreement; implementing partner** Not later than 30 days after December 23, 2022, the American Institute in Taiwan, in consultation with the Department of State, should—
 
 **(1)** begin negotiations with the Taipei Economic and Cultural Representative Office, or with another appropriate entity, for the purpose of entering into an agreement to facilitate the placement of fellows in an agency of Taiwan; and
 
@@ -1385,15 +1385,15 @@ Notwithstanding any requirement under this section, the Secretary of State, in c
 
 The fellowship program under this subchapter shall terminate 7 years after December 23, 2022.
 
-(Pub. L. 117–263, div. E, title LV, § 5530, Dec. 23, 2022, 136 Stat. 3326.)
+(Pub. L. 117–263, div. E, title LV, § 5530, Dec. 23, 2022, 136 Stat. 3326.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (d)(2), was in the original “this subtitle”, meaning subtitle A (§§ 5501–5540) of Pub. L. 117–263, div. E, title LV, Dec. 23, 2022, 136 Stat. 3292, known as the Taiwan Enhanced Resilience Act, which is classified principally to this chapter. For complete classification of subtitle A to the Code, see Short Title note set out under section 3351 of this title and Tables.
+This chapter, referred to in subsec. (d)(2), was in the original “this subtitle”, meaning subtitle A (§§ 5501–5540) of Pub. L. 117–263, div. E, title LV, Dec. 23, 2022, 136 Stat. 3292, known as the Taiwan Enhanced Resilience Act, which is classified principally to this chapter. For complete classification of subtitle A to the Code, see Short Title note set out under section 3351 of this title and Tables.
 
-### § 3385. Reports and audits
+### § 3385. Reports and audits
 
 **(a) Annual report** Not later than 90 days after the selection of the first class of fellows under this subchapter, and annually thereafter for 7 years, the Department of State shall offer to brief the appropriate committees of Congress regarding the following issues:
 
@@ -1447,9 +1447,9 @@ Not later than 270 days after the end of each fiscal year, the implementing part
 
 Each audit report shall be produced in sufficient copies for distribution to the public.
 
-(Pub. L. 117–263, div. E, title LV, § 5531, Dec. 23, 2022, 136 Stat. 3329.)
+(Pub. L. 117–263, div. E, title LV, § 5531, Dec. 23, 2022, 136 Stat. 3329.)
 
-### § 3386. Taiwan fellows on detail from Government service
+### § 3386. Taiwan fellows on detail from Government service
 
 **(a) In general**
 
@@ -1511,9 +1511,9 @@ Fellows may be detailed under subsection (a)(1) without reimbursement to the Uni
 
 Detailees may be paid by the American Institute in Taiwan for the allowances and benefits listed in subsection (c).
 
-(Pub. L. 117–263, div. E, title LV, § 5532, Dec. 23, 2022, 136 Stat. 3330.)
+(Pub. L. 117–263, div. E, title LV, § 5532, Dec. 23, 2022, 136 Stat. 3330.)
 
-### § 3387. Funding
+### § 3387. Funding
 
 **(a) Authorization of appropriations** There are authorized to be appropriated to the American Institute in Taiwan—
 
@@ -1535,9 +1535,9 @@ Detailees may be paid by the American Institute in Taiwan for the allowances and
 
 The implementing partner selected to implement the Taiwan Fellowship Program may accept, use, and dispose of gifts or donations of services or property in carrying out such program, subject to the review and approval of the American Institute in Taiwan.
 
-(Pub. L. 117–263, div. E, title LV, § 5533, Dec. 23, 2022, 136 Stat. 3332.)
+(Pub. L. 117–263, div. E, title LV, § 5533, Dec. 23, 2022, 136 Stat. 3332.)
 
-### § 3388. Supporting United States educational and exchange programs with Taiwan
+### § 3388. Supporting United States educational and exchange programs with Taiwan
 
 **(a) Establishment of the United States-Taiwan cultural exchange foundation** The Secretary of State should consider establishing an independent nonprofit entity that—
 
@@ -1549,11 +1549,11 @@ The implementing partner selected to implement the Taiwan Fellowship Program may
 
 State and local school districts and educational institutions, including public universities, are encouraged to partner with the Taipei Economic and Cultural Representative Office in the United States to establish programs to promote more educational and cultural exchanges.
 
-(Pub. L. 117–263, div. E, title LV, § 5535, Dec. 23, 2022, 136 Stat. 3332.)
+(Pub. L. 117–263, div. E, title LV, § 5535, Dec. 23, 2022, 136 Stat. 3332.)
 
 ## SUBCHAPTER V—RULES OF CONSTRUCTION
 
-### § 3391. Rule of construction
+### § 3391. Rule of construction
 
 Nothing in this chapter may be construed—
 
@@ -1561,22 +1561,22 @@ Nothing in this chapter may be construed—
 
 **(2)** to alter the United States Government’s position with respect to the international status of the Republic of China.
 
-(Pub. L. 117–263, div. E, title LV, § 5539, Dec. 23, 2022, 136 Stat. 3334.)
+(Pub. L. 117–263, div. E, title LV, § 5539, Dec. 23, 2022, 136 Stat. 3334.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 5501–5540) of Pub. L. 117–263, div. E, title LV, Dec. 23, 2022, 136 Stat. 3292, known as the Taiwan Enhanced Resilience Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3351 of this title and Tables.
+This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 5501–5540) of Pub. L. 117–263, div. E, title LV, Dec. 23, 2022, 136 Stat. 3292, known as the Taiwan Enhanced Resilience Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3351 of this title and Tables.
 
-### § 3392. Rule of construction regarding the use of military force
+### § 3392. Rule of construction regarding the use of military force
 
 Nothing in this chapter may be construed as authorizing the use of military force or the introduction of United States forces into hostilities.
 
-(Pub. L. 117–263, div. E, title LV, § 5540, Dec. 23, 2022, 136 Stat. 3334.)
+(Pub. L. 117–263, div. E, title LV, § 5540, Dec. 23, 2022, 136 Stat. 3334.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this title”, and was translated as reading “this subtitle”, meaning subtitle A (§§ 5501–5540) of Pub. L. 117–263, div. E, title LV, Dec. 23, 2022, 136 Stat. 3292, known as the Taiwan Enhanced Resilience Act, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of subtitle A to the Code, see Short Title note set out under section 3351 of this title and Tables.
+This chapter, referred to in text, was in the original “this title”, and was translated as reading “this subtitle”, meaning subtitle A (§§ 5501–5540) of Pub. L. 117–263, div. E, title LV, Dec. 23, 2022, 136 Stat. 3292, known as the Taiwan Enhanced Resilience Act, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of subtitle A to the Code, see Short Title note set out under section 3351 of this title and Tables.

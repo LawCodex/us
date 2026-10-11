@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1990—Pub. L. 101–647, title XXXV, § 3539, Nov. 29, 1990, 104 Stat. 4925, struck out item 1232 “Enticement of workman from armory or arsenal”.
+1990—Pub. L. 101–647, title XXXV, § 3539, Nov. 29, 1990, 104 Stat. 4925, struck out item 1232 “Enticement of workman from armory or arsenal”.
 
-## § 1231. Transportation of strikebreakers
+## § 1231. Transportation of strikebreakers
 
 Whoever willfully transports in interstate or foreign commerce any person who is employed or is to be employed for the purpose of obstructing or interfering by force or threats with (1) peaceful picketing by employees during any labor controversy affecting wages, hours, or conditions of labor, or (2) the exercise by employees of any of the rights of self-organization or collective bargaining; or
 
@@ -31,13 +31,13 @@ Shall be fined under this title or imprisoned not more than two years, or both.
 
 This section shall not apply to common carriers.
 
-(June 25, 1948, ch. 645, 62 Stat. 760; May 24, 1949, ch. 139, § 30, 63 Stat. 94; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 760; May 24, 1949, ch. 139, § 30, 63 Stat. 94; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., § 407a (June 24, 1936, ch. 746, 49 Stat. 1899; June 29, 1938, ch. 813, 52 Stat. 1242).
+Based on title 18, U.S.C., 1940 ed., § 407a (June 24, 1936, ch. 746, 49 Stat. 1899; June 29, 1938, ch. 813, 52 Stat. 1242).
 
 Language designating offense as felony was omitted in uniformity with definitive section 1 of this title. (See reviser’s note under section 550 of this title.)
 
@@ -59,6 +59,6 @@ This section [section 30] corrects a typographical error in section 1231 of titl
 
 1949—Act May 24, 1949, substituted “or travels in” for “in or travels” in second par.
 
-## [§ 1232. Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641]
+## [§ 1232. Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641]
 
 Section, act June 25, 1948, ch. 645, 62 Stat. 761, prohibited enticement of workman from armory or arsenal.

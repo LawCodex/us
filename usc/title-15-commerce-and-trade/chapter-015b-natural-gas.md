@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 15B—NATURAL GAS
 
-## § 717. Regulation of natural gas companies
+## § 717. Regulation of natural gas companies
 
 **(a) Necessity of regulation in public interest**
 
@@ -35,7 +35,7 @@ The provisions of this chapter shall not apply to any person engaged in or legal
 
 **(2)** subject primarily to regulation by a State commission, whether or not such State commission has, or is exercising, jurisdiction over the sale, sale for resale, or transportation of vehicular natural gas.
 
-(June 21, 1938, ch. 556, § 1, 52 Stat. 821; Mar. 27, 1954, ch. 115, 68 Stat. 36; Pub. L. 102–486, title IV, § 404(a)(1), Oct. 24, 1992, 106 Stat. 2879; Pub. L. 109–58, title III, § 311(a), Aug. 8, 2005, 119 Stat. 685.)
+(June 21, 1938, ch. 556, § 1, 52 Stat. 821; Mar. 27, 1954, ch. 115, 68 Stat. 36; Pub. L. 102–486, title IV, § 404(a)(1), Oct. 24, 1992, 106 Stat. 2879; Pub. L. 109–58, title III, § 311(a), Aug. 8, 2005, 119 Stat. 685.)
 
 **Editorial Notes**
 
@@ -55,7 +55,7 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 **State Laws and Regulations**
 
-Pub. L. 102–486, title IV, § 404(b), Oct. 24, 1992, 106 Stat. 2879, provided that:
+Pub. L. 102–486, title IV, § 404(b), Oct. 24, 1992, 106 Stat. 2879, provided that:
 
 > “The transportation or sale of natural gas by any person who is not otherwise a public utility, within the meaning of State law—
 
@@ -83,7 +83,7 @@ Proc. No. 4485, Feb. 2, 1977, 42 F.R. 6789, declared that a natural gas emergenc
 
 Proc. No. 4495, Apr. 1, 1977, 42 F.R. 18053, terminated the natural gas emergency declared to exist by Proc. No. 4485, Feb. 2, 1977, 42 F.R. 6789, formerly set out above.
 
-## § 717a. Definitions
+## § 717a. Definitions
 
 When used in this chapter, unless the context otherwise requires—
 
@@ -113,7 +113,7 @@ When used in this chapter, unless the context otherwise requires—
 
 **(B)** any pipeline or storage facility subject to the jurisdiction of the Commission under section 717f of this title.
 
-(June 21, 1938, ch. 556, § 2, 52 Stat. 821; Pub. L. 102–486, title IV, § 404(a)(2), Oct. 24, 1992, 106 Stat. 2879; Pub. L. 109–58, title III, § 311(b), Aug. 8, 2005, 119 Stat. 685.)
+(June 21, 1938, ch. 556, § 2, 52 Stat. 821; Pub. L. 102–486, title IV, § 404(a)(2), Oct. 24, 1992, 106 Stat. 2879; Pub. L. 109–58, title III, § 311(b), Aug. 8, 2005, 119 Stat. 685.)
 
 **Editorial Notes**
 
@@ -129,7 +129,7 @@ When used in this chapter, unless the context otherwise requires—
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
-## § 717b. Exportation or importation of natural gas; LNG terminals
+## § 717b. Exportation or importation of natural gas; LNG terminals
 
 **(a) Mandatory authorization order**
 
@@ -169,9 +169,9 @@ For purposes of subsection (a), the importation of the natural gas referred to i
 
 **(3)**
 
-**(A)** Except as provided in subparagraph (B), the Commission may approve an application described in paragraph (2), in whole or part, with such modifications and upon such terms and conditions as the Commission find 1
+**(A)** Except as provided in subparagraph (B), the Commission may approve an application described in paragraph (2), in whole or part, with such modifications and upon such terms and conditions as the Commission find 1
 
-<sup>1</sup>  So in original. Probably should be “finds”.
+<sup>1</sup> So in original. Probably should be “finds”.
 
 necessary or appropriate.
 
@@ -199,31 +199,31 @@ necessary or appropriate.
 
 **(B)** does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects, as determined by the Secretary of Defense.
 
-**(2)** The Commission shall enter into a memorandum of understanding with the Secretary of Defense for the purpose of ensuring that the Commission coordinate and consult 2
+**(2)** The Commission shall enter into a memorandum of understanding with the Secretary of Defense for the purpose of ensuring that the Commission coordinate and consult 2
 
-<sup>2</sup>  So in original. Probably should be “coordinates and consults”.
+<sup>2</sup> So in original. Probably should be “coordinates and consults”.
 
 with the Secretary of Defense on the siting, construction, expansion, or operation of liquefied natural gas facilities that may affect an active military installation.
 
 **(3)** The Commission shall obtain the concurrence of the Secretary of Defense before authorizing the siting, construction, expansion, or operation of liquefied natural gas facilities affecting the training or activities of an active military installation.
 
-(June 21, 1938, ch. 556, § 3, 52 Stat. 822; Pub. L. 102–486, title II, § 201, Oct. 24, 1992, 106 Stat. 2866; Pub. L. 109–58, title III, § 311(c), Aug. 8, 2005, 119 Stat. 685.)
+(June 21, 1938, ch. 556, § 3, 52 Stat. 822; Pub. L. 102–486, title II, § 201, Oct. 24, 1992, 106 Stat. 2866; Pub. L. 109–58, title III, § 311(c), Aug. 8, 2005, 119 Stat. 685.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
-The Clean Air Act, referred to in subsec. (d)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (d)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (d)(3), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (d)(3), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 **Amendments**
 
-2005—Pub. L. 109–58, § 311(c)(1), inserted “; LNG terminals” after “natural gas” in section catchline.
+2005—Pub. L. 109–58, § 311(c)(1), inserted “; LNG terminals” after “natural gas” in section catchline.
 
-Subsecs. (d) to (f). Pub. L. 109–58, § 311(c)(2), added subsecs. (d) to (f).
+Subsecs. (d) to (f). Pub. L. 109–58, § 311(c)(2), added subsecs. (d) to (f).
 
 1992—Pub. L. 102–486 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -231,7 +231,7 @@ Subsecs. (d) to (f). Pub. L. 109–58, § 311(c)(2), added subsecs. (d) to (f)
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of Energy and Commission, Commissioners, or other official in Federal Energy Regulatory Commission related to compliance with authorizations for importation of natural gas from Alberta as pre-deliveries of Alaskan gas issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to the Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(d), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
+Enforcement functions of Secretary or other official in Department of Energy and Commission, Commissioners, or other official in Federal Energy Regulatory Commission related to compliance with authorizations for importation of natural gas from Alberta as pre-deliveries of Alaskan gas issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to the Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(d), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 
 **Delegation of Functions**
 
@@ -259,7 +259,7 @@ Sec. 4. All Presidential Permits heretofore issued pursuant to Executive Order N
 
 Sec. 5. Executive Order No. 8202 of July 13, 1939, is hereby revoked.
 
-## § 717b–1. State and local safety considerations
+## § 717b–1. State and local safety considerations
 
 **(a) Promulgation of regulations**
 
@@ -297,15 +297,15 @@ The State commission of the State in which an LNG terminal is located may, after
 
 **(B)** in proximity to vessels that serve the facility.
 
-(June 21, 1938, ch. 556, § 3A, as added Pub. L. 109–58, title III, § 311(d), Aug. 8, 2005, 119 Stat. 687.)
+(June 21, 1938, ch. 556, § 3A, as added Pub. L. 109–58, title III, § 311(d), Aug. 8, 2005, 119 Stat. 687.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-## § 717c. Rates and charges
+## § 717c. Rates and charges
 
 **(a) Just and reasonable rates and charges**
 
@@ -339,13 +339,13 @@ Whenever any such new schedule is filed the Commission shall have authority, eit
 
 **(3)** If the Commission authorizes a natural gas company to charge market-based rates under this subsection, the Commission shall review periodically whether the market-based rate is just, reasonable, and not unduly discriminatory or preferential.
 
-(June 21, 1938, ch. 556, § 4, 52 Stat. 822; Pub. L. 87–454, May 21, 1962, 76 Stat. 72; Pub. L. 109–58, title III, § 312, Aug. 8, 2005, 119 Stat. 688.)
+(June 21, 1938, ch. 556, § 4, 52 Stat. 822; Pub. L. 87–454, May 21, 1962, 76 Stat. 72; Pub. L. 109–58, title III, § 312, Aug. 8, 2005, 119 Stat. 688.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Natural Gas Policy Act of 1978, referred to in subsec. (f)(1), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, which is classified generally to chapter 60 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The Natural Gas Policy Act of 1978, referred to in subsec. (f)(1), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, which is classified generally to chapter 60 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 **Amendments**
 
@@ -357,15 +357,15 @@ The Natural Gas Policy Act of 1978, referred to in subsec. (f)(1), is Pub. L. 95
 
 **Advance Recovery of Expenses Incurred by Natural Gas Companies for Natural Gas Research, Development, and Demonstration Projects**
 
-Pub. L. 102–104, title III, Aug. 17, 1991, 105 Stat. 531, authorized Federal Energy Regulatory Commission, pursuant to this section, to allow recovery, in advance, of expenses by natural-gas companies for research, development and demonstration activities by Gas Research Institute for projects on use of natural gas in motor vehicles and on use of natural gas to control emissions from combustion of other fuels, subject to Commission finding that benefits, including environmental benefits, to both existing and future ratepayers resulting from such activities exceed all direct costs to both existing and future ratepayers, prior to repeal by Pub. L. 102–486, title IV, § 408(c), Oct. 24, 1992, 106 Stat. 2882.
+Pub. L. 102–104, title III, Aug. 17, 1991, 105 Stat. 531, authorized Federal Energy Regulatory Commission, pursuant to this section, to allow recovery, in advance, of expenses by natural-gas companies for research, development and demonstration activities by Gas Research Institute for projects on use of natural gas in motor vehicles and on use of natural gas to control emissions from combustion of other fuels, subject to Commission finding that benefits, including environmental benefits, to both existing and future ratepayers resulting from such activities exceed all direct costs to both existing and future ratepayers, prior to repeal by Pub. L. 102–486, title IV, § 408(c), Oct. 24, 1992, 106 Stat. 2882.
 
-## § 717c–1. Prohibition on market manipulation
+## § 717c–1. Prohibition on market manipulation
 
 It shall be unlawful for any entity, directly or indirectly, to use or employ, in connection with the purchase or sale of natural gas or the purchase or sale of transportation services subject to the jurisdiction of the Commission, any manipulative or deceptive device or contrivance (as those terms are used in section 78j(b) of this title) in contravention of such rules and regulations as the Commission may prescribe as necessary in the public interest or for the protection of natural gas ratepayers. Nothing in this section shall be construed to create a private right of action.
 
-(June 21, 1938, ch. 556, § 4A, as added Pub. L. 109–58, title III, § 315, Aug. 8, 2005, 119 Stat. 691.)
+(June 21, 1938, ch. 556, § 4A, as added Pub. L. 109–58, title III, § 315, Aug. 8, 2005, 119 Stat. 691.)
 
-## § 717d. Fixing rates and charges; determination of cost of production or transportation
+## § 717d. Fixing rates and charges; determination of cost of production or transportation
 
 **(a) Decreases in rates**
 
@@ -375,9 +375,9 @@ Whenever the Commission, after a hearing had upon its own motion or upon complai
 
 The Commission upon its own motion, or upon the request of any State commission, whenever it can do so without prejudice to the efficient and proper conduct of its affairs, may investigate and determine the cost of the production or transportation of natural gas by a natural-gas company in cases where the Commission has no authority to establish a rate governing the transportation or sale of such natural gas.
 
-(June 21, 1938, ch. 556, § 5, 52 Stat. 823.)
+(June 21, 1938, ch. 556, § 5, 52 Stat. 823.)
 
-## § 717e. Ascertainment of cost of property
+## § 717e. Ascertainment of cost of property
 
 **(a) Cost of property**
 
@@ -387,9 +387,9 @@ The Commission may investigate and ascertain the actual legitimate cost of the p
 
 Every natural-gas company upon request shall file with the Commission an inventory of all or any part of its property and a statement of the original cost thereof, and shall keep the Commission informed regarding the cost of all additions, betterments, extensions, and new construction.
 
-(June 21, 1938, ch. 556, § 6, 52 Stat. 824.)
+(June 21, 1938, ch. 556, § 6, 52 Stat. 824.)
 
-## § 717f. Construction, extension, or abandonment of facilities
+## § 717f. Construction, extension, or abandonment of facilities
 
 **(a) Extension or improvement of facilities on order of court; notice and hearing**
 
@@ -435,7 +435,7 @@ Nothing contained in this section shall be construed as a limitation upon the po
 
 When any holder of a certificate of public convenience and necessity cannot acquire by contract, or is unable to agree with the owner of property to the compensation to be paid for, the necessary right-of-way to construct, operate, and maintain a pipe line or pipe lines for the transportation of natural gas, and the necessary land or other property, in addition to right-of-way, for the location of compressor stations, pressure apparatus, or other stations or equipment necessary to the proper operation of such pipe line or pipe lines, it may acquire the same by the exercise of the right of eminent domain in the district court of the United States for the district in which such property may be located, or in the State courts. The practice and procedure in any action or proceeding for that purpose in the district court of the United States shall conform as nearly as may be with the practice and procedure in similar action or proceeding in the courts of the State where the property is situated: *Provided*, That the United States district courts shall only have jurisdiction of cases when the amount claimed by the owner of the property to be condemned exceeds $3,000.
 
-(June 21, 1938, ch. 556, § 7, 52 Stat. 824; Feb. 7, 1942, ch. 49, 56 Stat. 83; July 25, 1947, ch. 333, 61 Stat. 459; Pub. L. 95–617, title VI, § 608, Nov. 9, 1978, 92 Stat. 3173; Pub. L. 100–474, § 2, Oct. 6, 1988, 102 Stat. 2302.)
+(June 21, 1938, ch. 556, § 7, 52 Stat. 824; Feb. 7, 1942, ch. 49, 56 Stat. 83; July 25, 1947, ch. 333, 61 Stat. 459; Pub. L. 95–617, title VI, § 608, Nov. 9, 1978, 92 Stat. 3173; Pub. L. 100–474, § 2, Oct. 6, 1988, 102 Stat. 2302.)
 
 **Editorial Notes**
 
@@ -443,9 +443,9 @@ When any holder of a certificate of public convenience and necessity cannot acqu
 
 1988—Subsec. (f). Pub. L. 100–474 designated existing provisions as par. (1) and added par. (2).
 
-1978—Subsec. (c). Pub. L. 95–617, § 608(a), (b)(1), designated existing first paragraph as par. (1)(A) and existing second paragraph as par. (1)(B) and added par. (2).
+1978—Subsec. (c). Pub. L. 95–617, § 608(a), (b)(1), designated existing first paragraph as par. (1)(A) and existing second paragraph as par. (1)(B) and added par. (2).
 
-Subsec. (e). Pub. L. 95–617, § 608(b)(2), substituted “subsection (c)(1)” for “subsection (c)”.
+Subsec. (e). Pub. L. 95–617, § 608(b)(2), substituted “subsection (c)(1)” for “subsection (c)”.
 
 1947—Subsec. (h). Act July 25, 1947, added subsec. (h).
 
@@ -455,15 +455,15 @@ Subsec. (e). Pub. L. 95–617, § 608(b)(2), substituted “subsection (c)(1)�
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–474, § 3, Oct. 6, 1988, 102 Stat. 2302, provided that: “The provisions of this Act [amending this section and enacting provisions set out as a note under section 717w of this title] shall become effective one hundred and twenty days after the date of enactment [Oct. 6, 1988].”
+Pub. L. 100–474, § 3, Oct. 6, 1988, 102 Stat. 2302, provided that: “The provisions of this Act [amending this section and enacting provisions set out as a note under section 717w of this title] shall become effective one hundred and twenty days after the date of enactment [Oct. 6, 1988].”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of Energy and Commission, Commissioners, or other official in Federal Energy Regulatory Commission related to compliance with certificates of public convenience and necessity issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(d), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
+Enforcement functions of Secretary or other official in Department of Energy and Commission, Commissioners, or other official in Federal Energy Regulatory Commission related to compliance with certificates of public convenience and necessity issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(d), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 
-## § 717g. Accounts; records; memoranda
+## § 717g. Accounts; records; memoranda
 
 **(a) Rules and regulations for keeping and preserving accounts, records, etc.**
 
@@ -477,9 +477,9 @@ The Commission shall at all times have access to and the right to inspect and ex
 
 The books, accounts, memoranda, and records of any person who controls directly or indirectly a natural-gas company subject to the jurisdiction of the Commission and of any other company controlled by such person, insofar as they relate to transactions with or the business of such natural-gas company, shall be subject to examination on the order of the Commission.
 
-(June 21, 1938, ch. 556, § 8, 52 Stat. 825.)
+(June 21, 1938, ch. 556, § 8, 52 Stat. 825.)
 
-## § 717h. Rates of depreciation
+## § 717h. Rates of depreciation
 
 **(a) Depreciation and amortization**
 
@@ -489,9 +489,9 @@ The Commission may, after hearing, require natural-gas companies to carry proper
 
 The Commission, before prescribing any rules or requirements as to accounts, records, or memoranda, or as to depreciation or amortization rates, shall notify each State commission having jurisdiction with respect to any natural-gas company involved and shall give reasonable opportunity to each such commission to pre­sent its views and shall receive and consider such views and recommendations.
 
-(June 21, 1938, ch. 556, § 9, 52 Stat. 826.)
+(June 21, 1938, ch. 556, § 9, 52 Stat. 826.)
 
-## § 717i. Periodic and special reports
+## § 717i. Periodic and special reports
 
 **(a) Form and contents of reports**
 
@@ -501,9 +501,9 @@ Every natural-gas company shall file with the Commission such annual and other p
 
 It shall be unlawful for any natural-gas company willfully to hinder, delay, or obstruct the making, filing, or keeping of any information, document, report, memorandum, record, or account required to be made, filed, or kept under this chapter or any rule, regulation, or order thereunder.
 
-(June 21, 1938, ch. 556, § 10, 52 Stat. 826.)
+(June 21, 1938, ch. 556, § 10, 52 Stat. 826.)
 
-## § 717j. State compacts for conservation, transportation, etc., of natural gas
+## § 717j. State compacts for conservation, transportation, etc., of natural gas
 
 **(a) Assembly of pertinent information; report to Congress**
 
@@ -517,21 +517,21 @@ It shall be the duty of the Commission to assemble and keep current pertinent in
 
 In carrying out the purposes of this chapter, the Commission shall, so far as practicable, avail itself of the services, records, reports, and information of the executive departments and other agencies of the Government, and the President may, from time to time, direct that such services and facilities be made available to the Commission.
 
-(June 21, 1938, ch. 556, § 11, 52 Stat. 827.)
+(June 21, 1938, ch. 556, § 11, 52 Stat. 827.)
 
-## § 717k. Officials dealing in securities
+## § 717k. Officials dealing in securities
 
 It shall be unlawful for any officer or director of any natural-gas company to receive for his own benefit, directly or indirectly, any money or thing of value in respect to the negotiation, hypothecation, or sale by such natural-gas company of any security issued, or to be issued, by such natural-gas company, or to share in any of the proceeds thereof, or to participate in the making or paying of any dividends, other than liquidating dividends, of such natural-gas company from any funds properly included in capital account.
 
-(June 21, 1938, ch. 556, § 12, 52 Stat. 827.)
+(June 21, 1938, ch. 556, § 12, 52 Stat. 827.)
 
-## § 717l. Complaints
+## § 717l. Complaints
 
 Any State, municipality, or State commission complaining of anything done or omitted to be done by any natural-gas company in contravention of the provisions of this chapter may apply to the Commission by petition, which shall briefly state the facts, whereupon a statement of the complaint thus made shall be forwarded by the Commission to such natural-gas company, which shall be called upon to satisfy the complaint or to answer the same in writing within a reasonable time to be specified by the Commission.
 
-(June 21, 1938, ch. 556, § 13, 52 Stat. 827.)
+(June 21, 1938, ch. 556, § 13, 52 Stat. 827.)
 
-## § 717m. Investigations by Commission
+## § 717m. Investigations by Commission
 
 **(a) Power of Commission**
 
@@ -561,7 +561,7 @@ If a witness whose testimony may be desired to be taken by deposition be in a fo
 
 Witnesses whose depositions are taken as authorized in this chapter, and the person or officer taking the same, shall be entitled to the same fees as are paid for like services in the courts of the United States.
 
-(June 21, 1938, ch. 556, § 14, 52 Stat. 828; Pub. L. 91–452, title II, § 218, Oct. 15, 1970, 84 Stat. 929.)
+(June 21, 1938, ch. 556, § 14, 52 Stat. 828; Pub. L. 91–452, title II, § 218, Oct. 15, 1970, 84 Stat. 929.)
 
 **Editorial Notes**
 
@@ -577,9 +577,9 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 **Study and Report on Natural Gas Pipeline and Storage Facilities in New England**
 
-Pub. L. 107–355, § 26, Dec. 17, 2002, 116 Stat. 3012, required the Federal Energy Regulatory Commission, in consultation with the Department of Energy, to conduct a study on the natural gas pipeline transmission network in New England and natural gas storage facilities associated with that network, and submit a report on the results to Congress by not later than 1 year after Dec. 17, 2002.
+Pub. L. 107–355, § 26, Dec. 17, 2002, 116 Stat. 3012, required the Federal Energy Regulatory Commission, in consultation with the Department of Energy, to conduct a study on the natural gas pipeline transmission network in New England and natural gas storage facilities associated with that network, and submit a report on the results to Congress by not later than 1 year after Dec. 17, 2002.
 
-## § 717n. Process coordination; hearings; rules of procedure
+## § 717n. Process coordination; hearings; rules of procedure
 
 **(a) Definition** In this section, the term “Federal authorization”—
 
@@ -623,27 +623,27 @@ Hearings under this chapter may be held before the Commission, any member or mem
 
 All hearings, investigations, and proceedings under this chapter shall be governed by rules of practice and procedure to be adopted by the Commission, and in the conduct thereof the technical rules of evidence need not be applied. No informality in any hearing, investigation, or proceeding or in the manner of taking testimony shall invalidate any order, decision, rule, or regulation issued under the authority of this chapter.
 
-(June 21, 1938, ch. 556, § 15, 52 Stat. 829; Pub. L. 109–58, title III, § 313(a), Aug. 8, 2005, 119 Stat. 688.)
+(June 21, 1938, ch. 556, § 15, 52 Stat. 829; Pub. L. 109–58, title III, § 313(a), Aug. 8, 2005, 119 Stat. 688.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
 **Amendments**
 
 2005—Pub. L. 109–58 substituted “Process coordination; hearings; rules of procedure” for “Hearings; rules of procedure” in section catchline, added subsecs. (a) to (d), and redesignated former subsecs. (a) and (b) as (e) and (f), respectively.
 
-## § 717o. Administrative powers of Commission; rules, regulations, and orders
+## § 717o. Administrative powers of Commission; rules, regulations, and orders
 
 The Commission shall have power to perform any and all acts, and to prescribe, issue, make, amend, and rescind such orders, rules, and regulations as it may find necessary or appropriate to carry out the provisions of this chapter. Among other things, such rules and regulations may define accounting, technical, and trade terms used in this chapter; and may prescribe the form or forms of all statements, declarations, applications, and reports to be filed with the Commission, the information which they shall contain, and the time within which they shall be filed. Unless a different date is specified therein, rules and regulations of the Commission shall be effective thirty days after publication in the manner which the Commission shall prescribe. Orders of the Commission shall be effective on the date and in the manner which the Commission shall prescribe. For the purposes of its rules and regulations, the Commission may classify persons and matters within its jurisdiction and prescribe different requirements for different classes of persons or matters. All rules and regulations of the Commission shall be filed with its secretary and shall be kept open in convenient form for public inspection and examination during reasonable business hours.
 
-(June 21, 1938, ch. 556, § 16, 52 Stat. 830.)
+(June 21, 1938, ch. 556, § 16, 52 Stat. 830.)
 
-## § 717p. Joint boards
+## § 717p. Joint boards
 
 **(a) Reference of matters to joint boards; composition and power**
 
@@ -657,13 +657,13 @@ The Commission may confer with any State commission regarding rate structures, c
 
 The Commission shall make available to the several State commissions such information and reports as may be of assistance in State regulation of natural-gas companies. Whenever the Commission can do so without prejudice to the efficient and proper conduct of its affairs, it may, upon request from a State commission, make available to such State commission as witnesses any of its trained rate, valuation, or other experts, subject to reimbursement of the compensation and traveling expenses of such witnesses. All sums collected hereunder shall be credited to the appropriation from which the amounts were expended in carrying out the provisions of this subsection.
 
-(June 21, 1938, ch. 556, § 17, 52 Stat. 830.)
+(June 21, 1938, ch. 556, § 17, 52 Stat. 830.)
 
-## § 717q. Appointment of officers and employees
+## § 717q. Appointment of officers and employees
 
 The Commission is authorized to appoint and fix the compensation of such officers, attorneys, examiners, and experts as may be necessary for carrying out its functions under this chapter; and the Commission may, subject to civil-service laws, appoint such other officers and employees as are necessary for carrying out such functions and fix their salaries in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
 
-(June 21, 1938, ch. 556, § 18, 52 Stat. 831; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972.)
+(June 21, 1938, ch. 556, § 18, 52 Stat. 831; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972.)
 
 **Editorial Notes**
 
@@ -671,11 +671,11 @@ The Commission is authorized to appoint and fix the compensation of such officer
 
 Provisions that authorized the Commission to appoint and fix the compensation of such officers, attorneys, examiners, and experts as may be necessary for carrying out its functions under this chapter “without regard to the provisions of other laws applicable to the employment and compensation of officers and employees of the United States” are omitted as obsolete and superseded.
 
-As to the compensation of such personnel, sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+As to the compensation of such personnel, sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
-Such appointments are now subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5.
+Such appointments are now subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5.
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
+“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
 **Amendments**
 
@@ -685,9 +685,9 @@ Such appointments are now subject to the civil service laws unless specifically 
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
-## § 717r. Rehearing and review
+## § 717r. Rehearing and review
 
 **(a) Application for rehearing; time**
 
@@ -723,13 +723,13 @@ For any action described in this subsection, the Commission shall file with the 
 
 The Court shall set any action brought under this subsection for expedited consideration.
 
-(June 21, 1938, ch. 556, § 19, 52 Stat. 831; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 19, Aug. 28, 1958, 72 Stat. 947; Pub. L. 109–58, title III, § 313(b), Aug. 8, 2005, 119 Stat. 689.)
+(June 21, 1938, ch. 556, § 19, 52 Stat. 831; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 19, Aug. 28, 1958, 72 Stat. 947; Pub. L. 109–58, title III, § 313(b), Aug. 8, 2005, 119 Stat. 689.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), (2), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), (2), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
 **Codification**
 
@@ -739,9 +739,9 @@ In subsec. (b), “section 1254 of title 28” substituted for “sections 239 a
 
 2005—Subsec. (d). Pub. L. 109–58 added subsec. (d).
 
-1958—Subsec. (a). Pub. L. 85–791, § 19(a), inserted sentence providing that until record in a proceeding has been filed in a court of appeals, Commission may modify or set aside any finding or order issued by it.
+1958—Subsec. (a). Pub. L. 85–791, § 19(a), inserted sentence providing that until record in a proceeding has been filed in a court of appeals, Commission may modify or set aside any finding or order issued by it.
 
-Subsec. (b). Pub. L. 85–791, § 19(b), in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, substituted “file with the court” for “certify and file with the court a transcript of”, and inserted “as provided in section 2112 of title 28”, and, in third sentence, substituted “petition” for “transcript”, and “jurisdiction, which upon the filing of the record with it shall be exclusive” for “exclusive jurisdiction”.
+Subsec. (b). Pub. L. 85–791, § 19(b), in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, substituted “file with the court” for “certify and file with the court a transcript of”, and inserted “as provided in section 2112 of title 28”, and, in third sentence, substituted “petition” for “transcript”, and “jurisdiction, which upon the filing of the record with it shall be exclusive” for “exclusive jurisdiction”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -749,7 +749,7 @@ Subsec. (b). Pub. L. 85–791, § 19(b), in second sentence, substituted “tr
 
 Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals” wherever appearing.
 
-## § 717s. Enforcement of chapter
+## § 717s. Enforcement of chapter
 
 **(a) Action in district court for injunction**
 
@@ -773,7 +773,7 @@ The Commission may employ such attorneys as it finds necessary for proper legal 
 
 **(B)** the purchasing or selling of transmission services subject to the jurisdiction of the Commission.
 
-(June 21, 1938, ch. 556, § 20, 52 Stat. 832; June 25, 1948, ch. 646, § 1, 62 Stat. 875, 895; Pub. L. 109–58, title III, § 318, Aug. 8, 2005, 119 Stat. 693.)
+(June 21, 1938, ch. 556, § 20, 52 Stat. 832; June 25, 1948, ch. 646, § 1, 62 Stat. 875, 895; Pub. L. 109–58, title III, § 318, Aug. 8, 2005, 119 Stat. 693.)
 
 **Editorial Notes**
 
@@ -785,23 +785,23 @@ The words “the District Court of the United States for the District of Columbi
 
 2005—Subsec. (d). Pub. L. 109–58 added subsec. (d).
 
-## § 717t. General penalties
+## § 717t. General penalties
 
 **(a)** Any person who willfully and knowingly does or causes or suffers to be done any act, matter, or thing in this chapter prohibited or declared to be unlawful, or who willfully and knowingly omits or fails to do any act, matter, or thing in this chapter required to be done, or willfully and knowingly causes or suffers such omission or failure, shall, upon conviction thereof, be punished by a fine of not more than $1,000,000 or by imprisonment for not more than 5 years, or both.
 
 **(b)** Any person who willfully and knowingly violates any rule, regulation, restriction, condition, or order made or imposed by the Commission under authority of this chapter, shall, in addition to any other penalties provided by law, be punished upon conviction thereof by a fine of not exceeding $50,000 for each and every day during which such offense occurs.
 
-(June 21, 1938, ch. 556, § 21, 52 Stat. 833; Pub. L. 109–58, title III, § 314(a)(1), Aug. 8, 2005, 119 Stat. 690.)
+(June 21, 1938, ch. 556, § 21, 52 Stat. 833; Pub. L. 109–58, title III, § 314(a)(1), Aug. 8, 2005, 119 Stat. 690.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2005—Subsec. (a). Pub. L. 109–58, § 314(a)(1)(A), substituted “$1,000,000” for “$5,000” and “5 years” for “two years”.
+2005—Subsec. (a). Pub. L. 109–58, § 314(a)(1)(A), substituted “$1,000,000” for “$5,000” and “5 years” for “two years”.
 
-Subsec. (b). Pub. L. 109–58, § 314(a)(1)(B), substituted “$50,000” for “$500”.
+Subsec. (b). Pub. L. 109–58, § 314(a)(1)(B), substituted “$50,000” for “$500”.
 
-## § 717t–1. Civil penalty authority
+## § 717t–1. Civil penalty authority
 
 **(a) In general**
 
@@ -815,7 +815,7 @@ The penalty shall be assessed by the Commission after notice and opportunity for
 
 In determining the amount of a proposed penalty, the Commission shall take into consideration the nature and seriousness of the violation and the efforts to remedy the violation.
 
-(June 21, 1938, ch. 556, § 22, as added Pub. L. 109–58, title III, § 314(b)(1)(B), Aug. 8, 2005, 119 Stat. 691.)
+(June 21, 1938, ch. 556, § 22, as added Pub. L. 109–58, title III, § 314(b)(1)(B), Aug. 8, 2005, 119 Stat. 691.)
 
 **Editorial Notes**
 
@@ -823,7 +823,7 @@ In determining the amount of a proposed penalty, the Commission shall take into 
 
 A prior section 22 of act June 21, 1938, was renumbered section 24 and is classified to section 717u of this title.
 
-## § 717t–2. Natural gas market transparency rules
+## § 717t–2. Natural gas market transparency rules
 
 **(a) In general**
 
@@ -863,23 +863,23 @@ A prior section 22 of act June 21, 1938, was renumbered section 24 and is classi
 
 **(2)** Paragraph (1) shall not apply in any case in which the Commission finds that a seller that has entered into a contract for the transportation or sale of natural gas subject to the jurisdiction of the Commission has engaged in fraudulent market manipulation activities materially affecting the contract in violation of section 717c–1 of this title.
 
-(June 21, 1938, ch. 556, § 23, as added Pub. L. 109–58, title III, § 316, Aug. 8, 2005, 119 Stat. 691.)
+(June 21, 1938, ch. 556, § 23, as added Pub. L. 109–58, title III, § 316, Aug. 8, 2005, 119 Stat. 691.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Commodity Exchange Act, referred to in subsec. (c)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (c)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 **Prior Provisions**
 
 A prior section 23 of act June 21, 1938, was renumbered section 25 and is classified to section 717v of this title.
 
-## § 717u. Jurisdiction of offenses; enforcement of liabilities and duties
+## § 717u. Jurisdiction of offenses; enforcement of liabilities and duties
 
 The District Courts of the United States and the United States courts of any Territory or other place subject to the jurisdiction of the United States shall have exclusive jurisdiction of violations of this chapter or the rules, regulations, and orders thereunder, and of all suits in equity and actions at law brought to enforce any liability or duty created by, or to enjoin any violation of, this chapter or any rule, regulation, or order thereunder. Any criminal proceeding shall be brought in the district wherein any act or transaction constituting the violation occurred. Any suit or action to enforce any liability or duty created by, or to enjoin any violation of, this chapter or any rule, regulation, or order thereunder may be brought in any such district or in the district wherein the defendant is an inhabitant, and process in such cases may be served wherever the defendant may be found. Judgments and decrees so rendered shall be subject to review as provided in sections 1254, 1291, and 1292 of title 28. No costs shall be assessed against the Commission in any judicial proceeding by or against the Commission under this chapter.
 
-(June 21, 1938, ch. 556, § 24, formerly § 22, 52 Stat. 833; June 25, 1948, ch. 646, § 1, 62 Stat. 875, 895; renumbered § 24, Pub. L. 109–58, title III, § 314(b)(1)(A), Aug. 8, 2005, 119 Stat. 690.)
+(June 21, 1938, ch. 556, § 24, formerly § 22, 52 Stat. 833; June 25, 1948, ch. 646, § 1, 62 Stat. 875, 895; renumbered § 24, Pub. L. 109–58, title III, § 314(b)(1)(A), Aug. 8, 2005, 119 Stat. 690.)
 
 **Editorial Notes**
 
@@ -893,25 +893,25 @@ The words “the District Court of the United States for the District of Columbi
 
 A prior section 24 of act June 21, 1938, was renumbered section 26 and is classified to section 717w of this title.
 
-## § 717v. Separability
+## § 717v. Separability
 
 If any provision of this chapter, or the application of such provision to any person or circumstance, shall be held invalid, the remainder of the chapter, and the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-(June 21, 1938, ch. 556, § 25, formerly § 23, 52 Stat. 833; renumbered § 25, Pub. L. 109–58, title III, § 314(b)(1)(A), Aug. 8, 2005, 119 Stat. 690.)
+(June 21, 1938, ch. 556, § 25, formerly § 23, 52 Stat. 833; renumbered § 25, Pub. L. 109–58, title III, § 314(b)(1)(A), Aug. 8, 2005, 119 Stat. 690.)
 
-## § 717w. Short title
+## § 717w. Short title
 
 This chapter may be cited as the “Natural Gas Act.”
 
-(June 21, 1938, ch. 556, § 26, formerly § 24, 52 Stat. 833; renumbered § 26, Pub. L. 109–58, title III, § 314(b)(1)(A), Aug. 8, 2005, 119 Stat. 690.)
+(June 21, 1938, ch. 556, § 26, formerly § 24, 52 Stat. 833; renumbered § 26, Pub. L. 109–58, title III, § 314(b)(1)(A), Aug. 8, 2005, 119 Stat. 690.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–474, § 1, Oct. 6, 1988, 102 Stat. 2302, provided that: “This Act [amending section 717f of this title and enacting provisions set out as a note under section 717f of this title] may be cited as the ‘Uniform Regulatory Jurisdiction Act of 1988’.”
+Pub. L. 100–474, § 1, Oct. 6, 1988, 102 Stat. 2302, provided that: “This Act [amending section 717f of this title and enacting provisions set out as a note under section 717f of this title] may be cited as the ‘Uniform Regulatory Jurisdiction Act of 1988’.”
 
-## § 717x. Conserved natural gas
+## § 717x. Conserved natural gas
 
 **(a) Determination of entitlement**
 
@@ -935,17 +935,17 @@ Subsection (a) shall not limit or otherwise affect any provision of any curtailm
 
 **(2)** The term “local distribution company” means any person engaged in the transportation, or local distribution, of natural gas and the sale of natural gas for ultimate consumption.
 
-**(3)** The term “curtailment plan” means a plan (including any modification of such plan required by the Natural Gas Policy Act of 1978 [15 U.S.C. 3301 et seq.] ) in effect under the Natural Gas Act [15 U.S.C. 717 et seq.] which provides for recognizing and implementing priorities of service during periods of curtailed deliveries.
+**(3)** The term “curtailment plan” means a plan (including any modification of such plan required by the Natural Gas Policy Act of 1978 [15 U.S.C. 3301 et seq.] ) in effect under the Natural Gas Act [15 U.S.C. 717 et seq.] which provides for recognizing and implementing priorities of service during periods of curtailed deliveries.
 
-(Pub. L. 95–617, title VI, § 605, Nov. 9, 1978, 92 Stat. 3167.)
+(Pub. L. 95–617, title VI, § 605, Nov. 9, 1978, 92 Stat. 3167.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Natural Gas Policy Act of 1978, referred to in subsec. (c)(3), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, which is classified generally to chapter 60 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The Natural Gas Policy Act of 1978, referred to in subsec. (c)(3), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, which is classified generally to chapter 60 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
-The Natural Gas Act, referred to in subsec. (c)(3), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to this chapter (§ 717 et seq.). For complete classification of this Act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, referred to in subsec. (c)(3), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to this chapter (§ 717 et seq.). For complete classification of this Act to the Code, see section 717w of this title and Tables.
 
 **Codification**
 
@@ -957,7 +957,7 @@ Section was enacted as part of the Public Utility Regulatory Policies Act of 197
 
 For definitions of terms used in this section, see section 2602 of Title 16, Conservation.
 
-## § 717y. Voluntary conversion of natural gas users to heavy fuel oil
+## § 717y. Voluntary conversion of natural gas users to heavy fuel oil
 
 **(a) Transfer of contractual interests**
 
@@ -1039,7 +1039,7 @@ For purposes of subparagraph (A), the reasonable costs directly associated with 
 
 **(10)** The term “facility” means any electric powerplant, or major fuel burning installation, as such terms are defined in the Powerplant and Industrial Fuel Use Act of 1978 [42 U.S.C. 8301 et seq.].
 
-**(11)** The term “curtailment plan” means a plan (including any modification of such plan required by the Natural Gas Policy Act of 1978 [15 U.S.C. 3301 et seq.] ), in effect under the Natural Gas Act or State law, which provides for recognizing and implementing priorities of service during periods of curtailed deliveries by any local distribution company, intrastate pipeline, or interstate pipeline.
+**(11)** The term “curtailment plan” means a plan (including any modification of such plan required by the Natural Gas Policy Act of 1978 [15 U.S.C. 3301 et seq.] ), in effect under the Natural Gas Act or State law, which provides for recognizing and implementing priorities of service during periods of curtailed deliveries by any local distribution company, intrastate pipeline, or interstate pipeline.
 
 **(12)** The term “interstate commerce” has the same meaning as such term has under the Natural Gas Act.
 
@@ -1061,17 +1061,17 @@ For purposes of subparagraph (A), the reasonable costs directly associated with 
 
 **(3)** the volume actually delivered or for which payment would have been made pursuant to such contract during the 12-calendar-month period ending immediately before such transfer of contractual interests.
 
-(Pub. L. 95–617, title VI, § 606, Nov. 9, 1978, 92 Stat. 3167.)
+(Pub. L. 95–617, title VI, § 606, Nov. 9, 1978, 92 Stat. 3167.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Natural Gas Act, referred to in subsecs. (a)(2)(A)(i)(II), (b)(1), (c), (e)(5), (9), (11), (12), (f)(2), (3), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to this chapter (§ 717 et seq.). For complete classification of this Act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, referred to in subsecs. (a)(2)(A)(i)(II), (b)(1), (c), (e)(5), (9), (11), (12), (f)(2), (3), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to this chapter (§ 717 et seq.). For complete classification of this Act to the Code, see section 717w of this title and Tables.
 
-The Powerplant and Industrial Fuel Use Act of 1978, referred to in subsec. (e)(10), is Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3291, which is classified principally to chapter 92 (§ 8301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 42 and Tables.
+The Powerplant and Industrial Fuel Use Act of 1978, referred to in subsec. (e)(10), is Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3291, which is classified principally to chapter 92 (§ 8301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 42 and Tables.
 
-The Natural Gas Policy Act of 1978, referred to in subsec. (e)(11), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, which is classified generally to chapter 60 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The Natural Gas Policy Act of 1978, referred to in subsec. (e)(11), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, which is classified generally to chapter 60 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 **Codification**
 
@@ -1083,7 +1083,7 @@ Section was enacted as part of the Public Utility Regulatory Policies Act of 197
 
 For definitions of terms used in this section, see section 2602 of Title 16, Conservation.
 
-## § 717z. Emergency conversion of utilities and other facilities
+## § 717z. Emergency conversion of utilities and other facilities
 
 **(a) Presidential declaration** The President may declare a natural gas supply emergency (or extend a previously declared emergency) if he finds that—
 
@@ -1151,7 +1151,7 @@ The President shall exempt any electric powerplant or major fuel-burning install
 
 In applying the provisions of this section in the case of natural gas subject to a prohibition order issued under this section, the term “petroleum products” (as defined in subsection (h)(2) of this section) shall be substituted for the term “heavy petroleum fuel oil” (as defined in section 717y(e)(7) of this title) if the person subject to any order under this section demonstrates to the Commission that the acquisition and use of heavy petroleum fuel oil is not technically or economically feasible.
 
-(Pub. L. 95–617, title VI, § 607, Nov. 9, 1978, 92 Stat. 3171.)
+(Pub. L. 95–617, title VI, § 607, Nov. 9, 1978, 92 Stat. 3171.)
 
 **Editorial Notes**
 

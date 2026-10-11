@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 26—DEBTS AND COLLECTION
 
-## § 2601. Collection and adjustment of debts
+## § 2601. Collection and adjustment of debts
 
 **(a)** The Postal Service—
 
@@ -35,7 +35,7 @@ The Postal Service may refer any matter, which is uncollectable through administ
 
 **(2)** compromise, release, or discharge the claim for such sum of money and damages.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 744; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 744; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -49,7 +49,7 @@ The Postal Service may refer any matter, which is uncollectable through administ
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 2602. Transportation of international mail by air carriers of the United States
+## § 2602. Transportation of international mail by air carriers of the United States
 
 **(a)** The Postal Service may offset against any balances due another country resulting from the transaction of international money order business, or otherwise, amounts due from that country to the United States, or to the United States for the account of air carriers of the United States transporting mail of that country, when—
 
@@ -85,7 +85,7 @@ Collection from another country of the amount so advanced shall be made by offse
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 2603. Settlement of claims for damages caused by the Postal Service
+## § 2603. Settlement of claims for damages caused by the Postal Service
 
 When the Postal Service finds a claim for damage to persons or property resulting from the operation of the Postal Service to be a proper charge against the United States, and it is not cognizable under section 2672 of title 28, it may adjust and settle the claim.
 
@@ -99,9 +99,9 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Charge Against Postal Revenues for Settlement of Claims for Damages and for Losses Resulting From Unavoidable Casualty**
 
-Pub. L. 89–57, title II, § 201, June 30, 1965, 79 Stat. 200, provided in part: “That hereafter settlement of claims, pursuant to law, current and prior fiscal years, for damages, and for losses resulting from unavoidable casualty shall be paid from postal revenues.”
+Pub. L. 89–57, title II, § 201, June 30, 1965, 79 Stat. 200, provided in part: “That hereafter settlement of claims, pursuant to law, current and prior fiscal years, for damages, and for losses resulting from unavoidable casualty shall be paid from postal revenues.”
 
-## § 2604. Delivery of stolen money to owner
+## § 2604. Delivery of stolen money to owner
 
 When the Postal Service is satisfied that money or property in the possession of the Postal Service represents money or property stolen from the mails, or the proceeds thereof, it may deliver it to the person it finds to be the rightful owner.
 
@@ -113,7 +113,7 @@ When the Postal Service is satisfied that money or property in the possession of
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 2605. Suits to recover wrongful or fraudulent payments
+## § 2605. Suits to recover wrongful or fraudulent payments
 
 The Postal Service shall request the Attorney General to bring a suit to recover with interest any payment made from moneys of, or credit granted by, the Postal Service as a result of—
 

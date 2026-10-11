@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 14—UNAUTHORIZED USE OF PRE-1972 SOUND RECORDINGS
 
-## § 1401. Unauthorized use of pre-1972 sound recordings
+## § 1401. Unauthorized use of pre-1972 sound recordings
 
 **(a) In General.—**
 
@@ -263,7 +263,7 @@ retrieved: 2026-10-11
 
 **(ii)** section 204.
 
-(Added Pub. L. 115–264, title II, § 202(a)(2), Oct. 11, 2018, 132 Stat. 3728.)
+(Added Pub. L. 115–264, title II, § 202(a)(2), Oct. 11, 2018, 132 Stat. 3728.)
 
 **Editorial Notes**
 

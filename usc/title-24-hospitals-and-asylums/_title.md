@@ -13,7 +13,7 @@ retrieved: 2026-10-11
 
 # Title 24—HOSPITALS AND ASYLUMS
 
-Current through 119-102not101
+Current through 119-102not101
 
 - [CHAPTER 1—NAVY HOSPITALS, ARMY AND NAVY HOSPITAL, AND HOSPITAL RELIEF FOR SEAMEN AND OTHERS](chapter-001-navy-hospitals-army-and-navy-hospital-and-hospital-relief.md)
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 99—SHEEP PROMOTION, RESEARCH, AND INFORMATION
 
-## § 7101. Findings and declaration of policy
+## § 7101. Findings and declaration of policy
 
 **(a) Findings** Congress finds that—
 
@@ -45,21 +45,21 @@ retrieved: 2026-10-11
 
 Nothing in this chapter provides for the control of production, or otherwise limits, the right of any person to produce sheep or sheep products.
 
-(Pub. L. 103–407, § 2, Oct. 22, 1994, 108 Stat. 4210.)
+(Pub. L. 103–407, § 2, Oct. 22, 1994, 108 Stat. 4210.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–429, title IV, § 4001, Dec. 3, 2004, 118 Stat. 2600, provided that: “This title [amending provisions set out as a note under this section] may be cited as the ‘Wool Suit and Textile Trade Extension Act of 2004’.”
+Pub. L. 108–429, title IV, § 4001, Dec. 3, 2004, 118 Stat. 2600, provided that: “This title [amending provisions set out as a note under this section] may be cited as the ‘Wool Suit and Textile Trade Extension Act of 2004’.”
 
 **Short Title**
 
-Pub. L. 103–407, § 1, Oct. 22, 1994, 108 Stat. 4210, provided that: “This Act [enacting this chapter] may be cited as the ‘Sheep Promotion, Research, and Information Act of 1994’.”
+Pub. L. 103–407, § 1, Oct. 22, 1994, 108 Stat. 4210, provided that: “This Act [enacting this chapter] may be cited as the ‘Sheep Promotion, Research, and Information Act of 1994’.”
 
 **Agriculture Wool Apparel Manufacturers Trust Fund**
 
-Pub. L. 113–79, title XII, § 12315, Feb. 7, 2014, 128 Stat. 995, as amended by Pub. L. 115–334, title XII, § 12603, Dec. 20, 2018, 132 Stat. 5005; Pub. L. 118–22, div. B, title I, § 102(d)(8)(B), Nov. 17, 2023, 137 Stat. 118; Pub. L. 119–21, title I, § 10607(d), July 4, 2025, 139 Stat. 111, provided that:
+Pub. L. 113–79, title XII, § 12315, Feb. 7, 2014, 128 Stat. 995, as amended by Pub. L. 115–334, title XII, § 12603, Dec. 20, 2018, 132 Stat. 5005; Pub. L. 118–22, div. B, title I, § 102(d)(8)(B), Nov. 17, 2023, 137 Stat. 118; Pub. L. 119–21, title I, § 10607(d), July 4, 2025, 139 Stat. 111, provided that:
 
 > **“(a) Establishment of Trust Fund.—** There is established in the Treasury of the United States a trust fund to be known as the ‘Agriculture Wool Apparel Manufacturers Trust Fund’ (in this section referred to as the ‘Trust Fund’), consisting of such amounts as may be transferred to the Trust Fund pursuant to subsection (f), and to be used for the purpose of reducing the injury to domestic manufacturers resulting from tariffs on wool fabric that are higher than tariffs on certain apparel articles made of wool fabric.
 
@@ -95,7 +95,7 @@ Pub. L. 113–79, title XII, § 12315, Feb. 7, 2014, 128 Stat. 995, as amended
 
 **Wool Research and Promotion**
 
-Pub. L. 113–79, title XII, § 12316, Feb. 7, 2014, 128 Stat. 997, as amended by Pub. L. 115–334, title XII, § 12604, Dec. 20, 2018, 132 Stat. 5006; Pub. L. 118–22, div. B, title I, § 102(d)(8)(C), Nov. 17, 2023, 137 Stat. 118; ; Pub. L. 119–21, title I, § 10607(e), July 4, 2025, 139 Stat. 111, provided that:
+Pub. L. 113–79, title XII, § 12316, Feb. 7, 2014, 128 Stat. 997, as amended by Pub. L. 115–334, title XII, § 12604, Dec. 20, 2018, 132 Stat. 5006; Pub. L. 118–22, div. B, title I, § 102(d)(8)(C), Nov. 17, 2023, 137 Stat. 118; ; Pub. L. 119–21, title I, § 10607(e), July 4, 2025, 139 Stat. 111, provided that:
 
 > **“(a) In General.—** Of the funds of the Commodity Credit Corporation, the Secretary [of Agriculture] shall use to provide grants described in section 506(d) of the Trade and Development Act of 2000 (7 U.S.C. 7101 note) [section 506(d) of Pub. L. 106–200] $2,250,000 for each of calendar years 2019 through 2031, to remain available until expended.
 
@@ -103,7 +103,7 @@ Pub. L. 113–79, title XII, § 12316, Feb. 7, 2014, 128 Stat. 997, as amended
 
 **Wool Research, Development, and Promotion Trust Fund**
 
-Pub. L. 106–200, title V, § 506, May 18, 2000, 114 Stat. 303, as amended by Pub. L. 107–210, div. E, title L, § 5102(c)(2), Aug. 6, 2002, 116 Stat. 1047; Pub. L. 108–429, title IV, § 4002(c)(5), Dec. 3, 2004, 118 Stat. 2603; Pub. L. 109–280, title XIV, § 1633(b)(2), Aug. 17, 2006, 120 Stat. 1166; Pub. L. 110–343, div. C, title III, § 325(b)(2), Oct. 3, 2008, 122 Stat. 3875, provided that:
+Pub. L. 106–200, title V, § 506, May 18, 2000, 114 Stat. 303, as amended by Pub. L. 107–210, div. E, title L, § 5102(c)(2), Aug. 6, 2002, 116 Stat. 1047; Pub. L. 108–429, title IV, § 4002(c)(5), Dec. 3, 2004, 118 Stat. 2603; Pub. L. 109–280, title XIV, § 1633(b)(2), Aug. 17, 2006, 120 Stat. 1166; Pub. L. 110–343, div. C, title III, § 325(b)(2), Oct. 3, 2008, 122 Stat. 3875, provided that:
 
 > **“(a) Establishment.—** There is hereby established within the Treasury of the United States a trust fund to be known as the Wool Research, Development, and Promotion Trust Fund (hereafter in this section referred to as the ‘Trust Fund’), consisting of such amounts as may be transferred to the Trust Fund under subsection (b)(1) and any amounts as may be credited to the Trust Fund under subsection (c)(2).
 
@@ -133,7 +133,7 @@ Pub. L. 106–200, title V, § 506, May 18, 2000, 114 Stat. 303, as amended by
 
 > **“(f) Sunset Provision.—** Effective January 1, 2015, the Trust Fund shall be abolished and all amounts in the Trust Fund on such date shall be transferred to the general fund of the Treasury of the United States.”
 
-## § 7102. Definitions
+## § 7102. Definitions
 
 As used in this chapter (unless the context clearly requires otherwise):
 
@@ -145,7 +145,7 @@ The term “Board” means the National Sheep Promotion, Research, and Informati
 
 The term “carbonized wool” means wool that has been immersed in a bath, usually of mineral acids or acid salts, that destroys vegetable matter in the wool, but does not affect the wool fibres.1
 
-<sup>1</sup>  So in original. Probably should be “fibers.”
+<sup>1</sup> So in original. Probably should be “fibers.”
 
 **(3) Consumer information**
 
@@ -273,7 +273,7 @@ The term “wool” means the fiber from the fleece of a sheep.
 
 The term “wool products” means products produced, in whole or in part, from wool and products containing wool fiber.
 
-(Pub. L. 103–407, § 3, Oct. 22, 1994, 108 Stat. 4211.)
+(Pub. L. 103–407, § 3, Oct. 22, 1994, 108 Stat. 4211.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -281,7 +281,7 @@ The term “wool products” means products produced, in whole or in part, from 
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 7103. Issuance and amendment of orders
+## § 7103. Issuance and amendment of orders
 
 **(a) In general**
 
@@ -309,9 +309,9 @@ The order shall go into effect only if the order is approved by producers, feede
 
 The Secretary, from time to time, may amend any order issued under this chapter.
 
-(Pub. L. 103–407, § 4, Oct. 22, 1994, 108 Stat. 4213.)
+(Pub. L. 103–407, § 4, Oct. 22, 1994, 108 Stat. 4213.)
 
-## § 7104. Required terms in orders
+## § 7104. Required terms in orders
 
 **(a) In general**
 
@@ -779,9 +779,9 @@ Any person who willfully violates this paragraph, on conviction, shall be subjec
 
 The order shall provide such terms and conditions, not inconsistent with this section, as are necessary to carry out the order, including provisions for the assessment of a penalty for the late payment of an assessment due under the order.
 
-(Pub. L. 103–407, § 5, Oct. 22, 1994, 108 Stat. 4213.)
+(Pub. L. 103–407, § 5, Oct. 22, 1994, 108 Stat. 4213.)
 
-## § 7105. Referenda
+## § 7105. Referenda
 
 **(a) Initial referendum**
 
@@ -829,9 +829,9 @@ Referenda under this section shall be conducted at locations determined by the S
 
 The Secretary shall determine a method of allocating, by a pro rata percentage of annual projected or actual assessments from importers, the volume of production represented by importers in referenda conducted pursuant to this section.
 
-(Pub. L. 103–407, § 6, Oct. 22, 1994, 108 Stat. 4223.)
+(Pub. L. 103–407, § 6, Oct. 22, 1994, 108 Stat. 4223.)
 
-## § 7106. Petition and review
+## § 7106. Petition and review
 
 **(a) Petition**
 
@@ -865,9 +865,9 @@ Service of process in a proceeding may be conducted on the Secretary by deliveri
 
 **(B)** to take such further action as, in the opinion of the court, the law requires.
 
-(Pub. L. 103–407, § 7, Oct. 22, 1994, 108 Stat. 4224.)
+(Pub. L. 103–407, § 7, Oct. 22, 1994, 108 Stat. 4224.)
 
-## § 7107. Enforcement
+## § 7107. Enforcement
 
 **(a) Jurisdiction**
 
@@ -933,9 +933,9 @@ If a person fails to pay a valid civil penalty imposed under this section by the
 
 The remedies provided in this section shall be in addition to, and not exclusive of, other remedies that may be available.
 
-(Pub. L. 103–407, § 8, Oct. 22, 1994, 108 Stat. 4224.)
+(Pub. L. 103–407, § 8, Oct. 22, 1994, 108 Stat. 4224.)
 
-## § 7108. Investigations and power to subpoena
+## § 7108. Investigations and power to subpoena
 
 **(a) Investigations** The Secretary may make such investigations as the Secretary considers necessary—
 
@@ -959,9 +959,9 @@ Any failure to obey the order of the court may be punished by the court as a con
 
 Process in any case under this section may be served in the judicial district in which the person resides or carries on business or wherever the person may be found.
 
-(Pub. L. 103–407, § 9, Oct. 22, 1994, 108 Stat. 4226.)
+(Pub. L. 103–407, § 9, Oct. 22, 1994, 108 Stat. 4226.)
 
-## § 7109. Administrative provisions
+## § 7109. Administrative provisions
 
 **(a) Construction**
 
@@ -971,15 +971,15 @@ Nothing in this chapter preempts or supersedes any other program relating to she
 
 The provisions of this chapter applicable to an order shall be applicable to amendments to the order, except that the Secretary is not required to conduct a referendum on a proposed amendment to an order.
 
-(Pub. L. 103–407, § 10, Oct. 22, 1994, 108 Stat. 4226.)
+(Pub. L. 103–407, § 10, Oct. 22, 1994, 108 Stat. 4226.)
 
-## § 7110. Regulations
+## § 7110. Regulations
 
 The Secretary may issue such regulations as are necessary to carry out this chapter.
 
-(Pub. L. 103–407, § 11, Oct. 22, 1994, 108 Stat. 4226.)
+(Pub. L. 103–407, § 11, Oct. 22, 1994, 108 Stat. 4226.)
 
-## § 7111. Authorization of appropriations
+## § 7111. Authorization of appropriations
 
 **(a) In general**
 
@@ -989,4 +989,4 @@ There are authorized to be appropriated for each fiscal year such sums as are ne
 
 Funds appropriated under subsection (a) shall not be available for payment of the expenses or expenditures of the Board in administering any provision of any order issued under this chapter.
 
-(Pub. L. 103–407, § 12, Oct. 22, 1994, 108 Stat. 4226.)
+(Pub. L. 103–407, § 12, Oct. 22, 1994, 108 Stat. 4226.)

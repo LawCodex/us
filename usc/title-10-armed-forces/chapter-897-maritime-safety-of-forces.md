@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 669 of this title as this chapter and item 7921 as 8951.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 669 of this title as this chapter and item 7921 as 8951.
 
-## § 8951. Safety and effectiveness information; hydrographic information
+## § 8951. Safety and effectiveness information; hydrographic information
 
 **(a) Safety and Effectiveness Information.—**
 
@@ -37,7 +37,7 @@ retrieved: 2026-10-11
 
 **(b) Hydrographic Information.—** The Secretary of the Navy shall collect, process, and provide to the Director of the National Geospatial-Intelligence Agency hydrographic information to support preparation of maps, charts, books, and geodetic products by that Agency.
 
-(Added Pub. L. 112–81, div. A, title III, § 363(a), Dec. 31, 2011, 125 Stat. 1379, § 7921; renumbered § 8951, Pub. L. 115–232, div. A, title VIII, § 807(d)(16), Aug. 13, 2018, 132 Stat. 1837.)
+(Added Pub. L. 112–81, div. A, title III, § 363(a), Dec. 31, 2011, 125 Stat. 1379, § 7921; renumbered § 8951, Pub. L. 115–232, div. A, title VIII, § 807(d)(16), Aug. 13, 2018, 132 Stat. 1837.)
 
 **Editorial Notes**
 
@@ -45,7 +45,7 @@ retrieved: 2026-10-11
 
 Prior sections 8961 to 8963 were renumbered sections 9341 to 9343 of this title, respectively.
 
-Another prior section 8963, acts Aug. 10, 1956, ch. 1041, 70A Stat. 555; Sept. 2, 1958, Pub. L. 85–861, § 1(156), (198), 72 Stat. 1513, 1541; Dec. 12, 1980, Pub. L. 96–513, title V, § 504(21), 94 Stat. 2917, related to higher grade for service during certain periods for regular and reserve commissioned officers, prior to repeal by Pub. L. 99–145, title XIII, § 1301(d)(2)(A), (C), Nov. 8, 1985, 99 Stat. 736, with such repeal not applicable in the case of an Air Force nurse or medical specialist described in section 8963 of this title, as such section was in effect on the day before Nov. 8, 1985.
+Another prior section 8963, acts Aug. 10, 1956, ch. 1041, 70A Stat. 555; Sept. 2, 1958, Pub. L. 85–861, § 1(156), (198), 72 Stat. 1513, 1541; Dec. 12, 1980, Pub. L. 96–513, title V, § 504(21), 94 Stat. 2917, related to higher grade for service during certain periods for regular and reserve commissioned officers, prior to repeal by Pub. L. 99–145, title XIII, § 1301(d)(2)(A), (C), Nov. 8, 1985, 99 Stat. 736, with such repeal not applicable in the case of an Air Force nurse or medical specialist described in section 8963 of this title, as such section was in effect on the day before Nov. 8, 1985.
 
 Prior sections 8964 to 8966 were renumbered sections 9344 to 9346 of this title, respectively.
 

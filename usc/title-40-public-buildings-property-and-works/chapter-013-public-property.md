@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2002—Pub. L. 107–296, title XVII, § 1706(b)(3), Nov. 25, 2002, 116 Stat. 2318, added item 1315 and struck out former item 1315 “Special police”.
+2002—Pub. L. 107–296, title XVII, § 1706(b)(3), Nov. 25, 2002, 116 Stat. 2318, added item 1315 and struck out former item 1315 “Special police”.
 
-## § 1301. Charge of property transferred to the Federal Government
+## § 1301. Charge of property transferred to the Federal Government
 
 **(a) In General.—** Except as provided in subsection (b), the Administrator of General Services shall have charge of—
 
@@ -47,7 +47,7 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1301 | 40:301. | R.S. § 3750; Pub. L. 89–30, § 2, June 2, 1965, 79 Stat. 119. |
+| 1301 | 40:301. | R.S. § 3750; Pub. L. 89–30, § 2, June 2, 1965, 79 Stat. 119. |
 
 In subsection (a), the words “Except as provided in subsection (b)” are added for clarity.
 
@@ -59,7 +59,7 @@ In subsection (b)(1), the words “the Internal Revenue Code of 1986 (26 U.S.C. 
 
 The Internal Revenue Code of 1986, referred to in subsec. (b)(1), is classified to Title 26, Internal Revenue Code.
 
-## § 1302. Lease of buildings
+## § 1302. Lease of buildings
 
 Except as otherwise specifically provided by law, the leasing of buildings and property of the Federal Government shall be for a money consideration only. The lease may not include any provision for the alteration, repair, or improvement of the buildings or property as a part of the consideration for the rent to be paid for the use and occupation of the buildings or property. Money derived from the rent shall be deposited in the Treasury as miscellaneous receipts.
 
@@ -69,11 +69,11 @@ Except as otherwise specifically provided by law, the leasing of buildings and p
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1302 | 40:303b. | June 30, 1932, ch. 314, § 321, 47 Stat. 412. |
+| 1302 | 40:303b. | June 30, 1932, ch. 314, § 321, 47 Stat. 412. |
 
 The words “On and after June 30, 1932” are omitted as obsolete.
 
-## § 1303. Disposition of surplus real property
+## § 1303. Disposition of surplus real property
 
 **(a) Definition.—** In this section, the term “federal agency” means an executive department, independent establishment, commission, board, bureau, division, or office in the executive branch, or other agency of the Federal Government, including wholly owned Government corporations.
 
@@ -105,20 +105,20 @@ The words “On and after June 30, 1932” are omitted as obsolete.
 
 **(g) Regulations.—** The Administrator may prescribe regulations as necessary to carry out this section.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1131; Pub. L. 113–287, § 5(j)(3), Dec. 19, 2014, 128 Stat. 3269.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1131; Pub. L. 113–287, § 5(j)(3), Dec. 19, 2014, 128 Stat. 3269.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1303(a) | 40:304e. | Aug. 27, 1935, ch. 744, § 5, 49 Stat. 886. |
-| 1303(b) | 40:304a. | Aug. 27, 1935, ch. 744, § 1, 49 Stat. 885; July 18, 1940, ch. 635, §§ 1, 3, 54 Stat. 764, 765. |
-| 1303(c) | 40:304a–2. | Aug. 27, 1935, ch. 744, §§ 6, 7, as added July 18, 1940, ch. 635, § 2, 54 Stat. 764. |
-| 1303(d) | 40:304b (1st sentence). | Aug. 27, 1935, ch. 744, § 2, 49 Stat. 886; July 18, 1940, ch. 635, § 3, 54 Stat. 765; June 14, 1946, ch. 404, § 4, 60 Stat. 257. |
+| 1303(a) | 40:304e. | Aug. 27, 1935, ch. 744, § 5, 49 Stat. 886. |
+| 1303(b) | 40:304a. | Aug. 27, 1935, ch. 744, § 1, 49 Stat. 885; July 18, 1940, ch. 635, §§ 1, 3, 54 Stat. 764, 765. |
+| 1303(c) | 40:304a–2. | Aug. 27, 1935, ch. 744, §§ 6, 7, as added July 18, 1940, ch. 635, § 2, 54 Stat. 764. |
+| 1303(d) | 40:304b (1st sentence). | Aug. 27, 1935, ch. 744, § 2, 49 Stat. 886; July 18, 1940, ch. 635, § 3, 54 Stat. 765; June 14, 1946, ch. 404, § 4, 60 Stat. 257. |
 | 1303(e)(1) | 40:304b (last sentence). |  |
-| 1303(e)(2) | 40:304c. | Aug. 27, 1935, ch. 744, § 3, 49 Stat. 886; July 18, 1940, ch. 635, § 3, 54 Stat. 765; June 14, 1946, ch. 404, § 4, 60 Stat. 257; Pub. L. 85–493, § 2, July 2, 1958, 72 Stat. 294. |
+| 1303(e)(2) | 40:304c. | Aug. 27, 1935, ch. 744, § 3, 49 Stat. 886; July 18, 1940, ch. 635, § 3, 54 Stat. 765; June 14, 1946, ch. 404, § 4, 60 Stat. 257; Pub. L. 85–493, § 2, July 2, 1958, 72 Stat. 294. |
 | 1303(f) | 40:304a–1. |  |
-| 1303(g) | 40:304d. | Aug. 27, 1935, ch. 744, § 4, 49 Stat. 886; July 18, 1940, ch. 635, § 3, 54 Stat. 765. |
+| 1303(g) | 40:304d. | Aug. 27, 1935, ch. 744, § 4, 49 Stat. 886; July 18, 1940, ch. 635, § 3, 54 Stat. 765. |
 
 In this chapter, the words “Administrator of General Services” are substituted for “Federal Works Administrator” and “Commissioner of Public Buildings” because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) [303(b)] of the revised title.
 
@@ -140,7 +140,7 @@ In subsection (f), the words “as hereinafter” are omitted as obsolete. The w
 
 **Savings Provisions**
 
-Pub. L. 115–141, div. P, title VI, § 608(e), Mar. 23, 2018, 132 Stat. 1107, provided that:
+Pub. L. 115–141, div. P, title VI, § 608(e), Mar. 23, 2018, 132 Stat. 1107, provided that:
 
 > **“(1) Real property authorities.—** Nothing in this section [enacting provisions set out as a note under this section and amending provisions set out as a note under this section], or an amendment made by this section, shall be construed as providing any Executive agency with any new leasing or other real property authority that did not exist prior to the date of enactment of this Act [Mar. 23, 2018].
 
@@ -154,7 +154,7 @@ Pub. L. 115–141, div. P, title VI, § 608(e), Mar. 23, 2018, 132 Stat. 1107,
 
 **Inclusion in Federal Real Property Database of Information Related to Communications Facility Installations**
 
-Pub. L. 115–141, div. P, title VI, § 608(b), (c), Mar. 23, 2018, 132 Stat. 1106, provided that:
+Pub. L. 115–141, div. P, title VI, § 608(b), (c), Mar. 23, 2018, 132 Stat. 1106, provided that:
 
 > **“(b) Public Comment.—**
 
@@ -176,7 +176,7 @@ Pub. L. 115–141, div. P, title VI, § 608(b), (c), Mar. 23, 2018, 132 Stat. 
 
 **Federal Assets Sale and Transfer**
 
-Pub. L. 114–287, Dec. 16, 2016, 130 Stat. 1463, as amended by Pub. L. 114–318, § 7(b), (d), Dec. 16, 2016, 130 Stat. 1616, 1617; Pub. L. 115–141, div. E, title V, § 527, div. P, title VI, § 608(a), Mar. 23, 2018, 132 Stat. 573, 1105; Pub. L. 115–437, § 1, Jan. 14, 2019, 132 Stat. 5563; Pub. L. 115–438, § 1, Jan. 14, 2019, 132 Stat. 5564; Pub. L. 118–272, div. B, title III, § 2301, Jan. 4, 2025, 138 Stat. 3214, provided that:
+Pub. L. 114–287, Dec. 16, 2016, 130 Stat. 1463, as amended by Pub. L. 114–318, § 7(b), (d), Dec. 16, 2016, 130 Stat. 1616, 1617; Pub. L. 115–141, div. E, title V, § 527, div. P, title VI, § 608(a), Mar. 23, 2018, 132 Stat. 573, 1105; Pub. L. 115–437, § 1, Jan. 14, 2019, 132 Stat. 5563; Pub. L. 115–438, § 1, Jan. 14, 2019, 132 Stat. 5564; Pub. L. 118–272, div. B, title III, § 2301, Jan. 4, 2025, 138 Stat. 3214, provided that:
 
 > **“SECTION 1. SHORT TITLE; TABLE OF CONTENTS.**
 
@@ -782,7 +782,7 @@ Pub. L. 114–287, Dec. 16, 2016, 130 Stat. 1463, as amended by Pub. L. 114–31
 
 [Amendment by Pub. L. 114–318 to Pub. L. 114–287, set out above, effective immediately after the enactment of Pub. L. 114–287, see section 7(e) of Pub. L. 114–318, set out as an Effective Date of 2016 Amendment note under section 571 of this title.]
 
-## § 1304. Transfer of federal property to States
+## § 1304. Transfer of federal property to States
 
 **(a) Obsolete Buildings and Sites.—**
 
@@ -814,23 +814,23 @@ Pub. L. 114–287, Dec. 16, 2016, 130 Stat. 1463, as amended by Pub. L. 114–31
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1304(a) | 40:345b. | Aug. 26, 1935, ch. 684, § 1, 49 Stat. 800; Pub. L. 86–608, July 7, 1960, 74 Stat. 363. |
-| 1304(b)(1)– (3) | 40:345c. | Aug. 26, 1935, ch. 684, § 2, as added Pub. L. 86–608, July 7, 1960, 74 Stat. 363. |
-| 1304(b)(4) | 40:345c note. | Pub. L. 94–579, title VII, § 706(a) (related to the Act of July 7, 1960 (Pub. L. 86–608, 74 Stat. 363)), Oct. 21, 1976, 90 Stat. 2793. |
+| 1304(a) | 40:345b. | Aug. 26, 1935, ch. 684, § 1, 49 Stat. 800; Pub. L. 86–608, July 7, 1960, 74 Stat. 363. |
+| 1304(b)(1)– (3) | 40:345c. | Aug. 26, 1935, ch. 684, § 2, as added Pub. L. 86–608, July 7, 1960, 74 Stat. 363. |
+| 1304(b)(4) | 40:345c note. | Pub. L. 94–579, title VII, § 706(a) (related to the Act of July 7, 1960 (Pub. L. 86–608, 74 Stat. 363)), Oct. 21, 1976, 90 Stat. 2793. |
 
 In subsection (a), the words “Administrator of General Services” and “Administrator” are substituted for “Treasury Department” and “Secretary of the Treasury” in the Act of August 26, 1935 because of sections 301 and 303 of Reorganization Plan No. I of 1939 (eff. July 1, 1939, 53 Stat. 1426, 1427) and section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) [303(b)] of the revised title. In paragraph (1), the words “a State or a political subdivision of a State” are substituted for “States, counties, municipalities, or other duly constituted political subdivisions of States” for consistency with subsection (b).
 
-## § 1305. Disposition of land acquired by devise
+## § 1305. Disposition of land acquired by devise
 
 The General Services Administration may take custody, for disposal as excess property under this subtitle and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, of land acquired by the Federal Government by devise.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1134; Pub. L. 111–350, § 5(*l*)(12), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1134; Pub. L. 111–350, § 5(*l*)(12), Jan. 4, 2011, 124 Stat. 3852.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1305 | 40:304. | Mar. 3, 1903, ch. 1007, [§] 1 (4th complete par. on p. 1112), 32 Stat. 1112; Oct. 31, 1951, ch. 654, § 4(8), 65 Stat. 709. |
+| 1305 | 40:304. | Mar. 3, 1903, ch. 1007, [§] 1 (4th complete par. on p. 1112), 32 Stat. 1112; Oct. 31, 1951, ch. 654, § 4(8), 65 Stat. 709. |
 
 The words “and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” are added to provide an accurate literal translation of the word “this Act”, meaning the Federal Property and Administrative Services Act of 1949. See the revision note under section 111 of this title. The words “as have been or may hereafter be” are omitted as unnecessary.
 
@@ -840,7 +840,7 @@ The words “and title III of the Federal Property and Administrative Services A
 
 2011—Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
-## § 1306. Disposition of abandoned or forfeited personal property
+## § 1306. Disposition of abandoned or forfeited personal property
 
 **(a) Definitions.—** In this section—
 
@@ -924,7 +924,7 @@ The words “and title III of the Federal Property and Administrative Services A
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1306(a) | 40:304f. | Aug. 27, 1935, ch. 740, title III, §§ 301–307, 49 Stat. 879. |
+| 1306(a) | 40:304f. | Aug. 27, 1935, ch. 740, title III, §§ 301–307, 49 Stat. 879. |
 | 1306(b) | 40:304g. |  |
 | 1306(c) | 40:304h. |  |
 | 1306(d) | 40:304i. |  |
@@ -932,9 +932,9 @@ The words “and title III of the Federal Property and Administrative Services A
 | 1306(f) | 40:304j. |  |
 | 1306(g) | 40:304*l* (related to report). |  |
 | 1306(h)(1) | 40:304*l* (related to regulations). |  |
-| 1306(h)(2), (3) | 40:304m. | Aug. 27, 1935, ch. 740, title III, § 308, 49 Stat. 880; Pub. L. 91–513, title III, § 1102(*o*), Oct. 27, 1970, 84 Stat. 1293. |
+| 1306(h)(2), (3) | 40:304m. | Aug. 27, 1935, ch. 740, title III, § 308, 49 Stat. 880; Pub. L. 91–513, title III, § 1102(*o*), Oct. 27, 1970, 84 Stat. 1293. |
 
-In this section, the words “Administrator” and “Administrator of General Services” are substituted for “Director” and “Director of the Procurement Division of the Treasury Department of the United States” [subsequently changed to “Bureau of Federal Supply” by regulation § 5.7 of subpart A of Part 5 of Title 41, Public Contracts, eff. January 1, 1947, 11 F. R. 13636] because of section 102(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(a)(1) of the revised title.
+In this section, the words “Administrator” and “Administrator of General Services” are substituted for “Director” and “Director of the Procurement Division of the Treasury Department of the United States” [subsequently changed to “Bureau of Federal Supply” by regulation § 5.7 of subpart A of Part 5 of Title 41, Public Contracts, eff. January 1, 1947, 11 F. R. 13636] because of section 102(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(a)(1) of the revised title.
 
 In subsection (a), the text of 40:304f(3) is omitted because the complete name of the Administrator of General Services is used the first time the term appears in a section.
 
@@ -952,9 +952,9 @@ In subsection (h)(3), the text of 40:304m(1) is omitted because section 4 of the
 
 **References in Text**
 
-The Controlled Substances Act, referred to in subsec. (h)(3)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (h)(3)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-## § 1307. Disposition of securities
+## § 1307. Disposition of securities
 
 The President, or an officer, agent, or agency the President may designate, may dispose of any securities acquired on behalf of the Federal Government under the provisions of the Transportation Act of 1920 (ch. 91, 41 Stat. 456), including any securities acquired as an incident to a case under title 11, under a receivership or reorganization proceeding, by assignment, transfer, substitution, or issuance, or by acquisition of collateral given for the payment of obligations to the Government, or may make arrangements for the extension of the maturity of the securities, in the manner, in amounts, at prices, for cash, securities, or other property or any combination of cash, securities, or other property, and on terms and conditions the President or designee considers advisable and in the public interest.
 
@@ -964,7 +964,7 @@ The President, or an officer, agent, or agency the President may designate, may 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1307 | 40:316. | Feb. 28, 1920, ch. 91, § 213, as added Aug. 13, 1940, ch. 666, 54 Stat. 788; Pub. L. 95–598, title III, § 325, Nov. 6, 1978, 92 Stat. 2679. |
+| 1307 | 40:316. | Feb. 28, 1920, ch. 91, § 213, as added Aug. 13, 1940, ch. 666, 54 Stat. 788; Pub. L. 95–598, title III, § 325, Nov. 6, 1978, 92 Stat. 2679. |
 
 The words “sell, exchange, or otherwise”, “bonds, notes, or other”, “purchase, default, or other”, and “(whether at a foreclosure sale or otherwise)” are omitted as unnecessary.
 
@@ -972,19 +972,19 @@ The words “sell, exchange, or otherwise”, “bonds, notes, or other”, “p
 
 **References in Text**
 
-The Transportation Act of 1920, referred to in text, is act Feb. 28, 1920, ch. 91, 41 Stat. 456, as amended, which was classified to section 316 of former Title 40, Public Buildings, Property, and Works, section 1375a of former Title 10, Army and Air Force, sections 131 to 146 of Title 45, Railroads, and sections 1 to 5, 6, 10 to 15a, 16, 17, 18, 19a, 20, 20a, 25 to 27, 71 to 74, 76 to 79, 141, and 142 of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. Numerous sections of the Act that were classified to Title 49 were repealed by Pub. L. 95–473, § 4(b), Oct. 13, 1978, 92 Stat. 1467, the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see table at the beginning of Title 49. Section 316 of former Title 40 was repealed and reenacted as this section by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+The Transportation Act of 1920, referred to in text, is act Feb. 28, 1920, ch. 91, 41 Stat. 456, as amended, which was classified to section 316 of former Title 40, Public Buildings, Property, and Works, section 1375a of former Title 10, Army and Air Force, sections 131 to 146 of Title 45, Railroads, and sections 1 to 5, 6, 10 to 15a, 16, 17, 18, 19a, 20, 20a, 25 to 27, 71 to 74, 76 to 79, 141, and 142 of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. Numerous sections of the Act that were classified to Title 49 were repealed by Pub. L. 95–473, § 4(b), Oct. 13, 1978, 92 Stat. 1467, the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see table at the beginning of Title 49. Section 316 of former Title 40 was repealed and reenacted as this section by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 
-## § 1308. Disposition of unfit horses and mules
+## § 1308. Disposition of unfit horses and mules
 
 Subject to applicable regulations under this subtitle and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, horses and mules belonging to the Federal Government that have become unfit for service may be destroyed or put out to pasture, either on pastures belonging to the Government or those belonging to financially sound and reputable humane organizations whose facilities permit them to care for the horses and mules during the remainder of their natural lives, at no cost to the Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1137; Pub. L. 111–350, § 5(*l*)(13), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1137; Pub. L. 111–350, § 5(*l*)(13), Jan. 4, 2011, 124 Stat. 3852.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1308 | 40:311b. | June 15, 1938, ch. 400, 52 Stat. 693; June 3, 1939, ch. 176, 53 Stat. 808; Oct. 31, 1951, ch. 654, § 2(24), 65 Stat. 707. |
+| 1308 | 40:311b. | June 15, 1938, ch. 400, 52 Stat. 693; June 3, 1939, ch. 176, 53 Stat. 808; Oct. 31, 1951, ch. 654, § 2(24), 65 Stat. 707. |
 
 The words “and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” are added to provide an accurate literal translation of the word “this Act”, meaning the Federal Property and Administrative Services Act of 1949. See the revision note under section 111 of this title.
 
@@ -994,7 +994,7 @@ The words “and title III of the Federal Property and Administrative Services A
 
 2011—Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
-## § 1309. Preservation, sale, or collection of wrecked, abandoned, or derelict property
+## § 1309. Preservation, sale, or collection of wrecked, abandoned, or derelict property
 
 The Administrator of General Services may make contracts and provisions for the preservation, sale, or collection of property, or the proceeds of property, which may have been wrecked, been abandoned, or become derelict, if the Administrator considers the contracts and provisions to be in the interest of the Federal Government and the property is within the jurisdiction of the United States and should come to the Government. A contract may provide compensation the Administrator considers just and reasonable to any person who gives information about the property or actually preserves, collects, surrenders, or pays over the property. Under each specific agreement for obtaining, preserving, collecting, or receiving property or making property available, the costs or claim chargeable to the Government may not exceed amounts realized and received by the Government.
 
@@ -1004,11 +1004,11 @@ The Administrator of General Services may make contracts and provisions for the 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1309 | 40:310. | R.S. § 3755; Pub. L. 89–30, § 4, June 2, 1965, 79 Stat. 119. |
+| 1309 | 40:310. | R.S. § 3755; Pub. L. 89–30, § 4, June 2, 1965, 79 Stat. 119. |
 
 The words “or of any moneys, dues, and other interests lately in the possession of or due to the so-called Confederate States, or their agents, and now belonging to the United States, which are now withheld or retained by any person, corporation or municipality whatever, and which ought to have come into the possession and custody of, or been collected or received by, the United States” in section 3755 of the Revised Statues [sic] and “debts, dues, or interests, which shall not be paid from such moneys as shall be realized and received from the property so collected, under each specific agreement” are omitted as obsolete.
 
-## § 1310. Sale of war supplies, land, and buildings
+## § 1310. Sale of war supplies, land, and buildings
 
 **(a) In General.—** The President, through the head of any executive department and on terms the head of the department considers expedient, may sell to a person, another department of the Federal Government, or the government of a foreign country engaged in war against a country with which the United States is at war—
 
@@ -1032,15 +1032,15 @@ The words “or of any moneys, dues, and other interests lately in the possessio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1310 | 40:314. | July 9, 1918, ch. 143 (last par. on p. 850), 40 Stat. 850; Feb. 25, 1919, ch. 39, § 3, 40 Stat. 1173; May 29, 1928, ch. 901, § 1(8), 45 Stat. 986; Aug. 7, 1946, ch. 770, (55), 60 Stat. 870. |
+| 1310 | 40:314. | July 9, 1918, ch. 143 (last par. on p. 850), 40 Stat. 850; Feb. 25, 1919, ch. 39, § 3, 40 Stat. 1173; May 29, 1928, ch. 901, § 1(8), 45 Stat. 986; Aug. 7, 1946, ch. 770, (55), 60 Stat. 870. |
 
 In this section, the words “government of a foreign country” are substituted for “foreign State or Government”, and the words “against a country” are substituted for “against any Government”, for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (a), before clause (1), the words “partnership, association” are omitted because of the definition of person in 1:1.
 
-In subsection (b), before clause (1), the words “in this section or . . . other” are omitted as unnecessary.
+In subsection (b), before clause (1), the words “in this section or . . . other” are omitted as unnecessary.
 
-## § 1311. Authority of President to obtain release
+## § 1311. Authority of President to obtain release
 
 For the use or benefit of the Federal Government, the President may obtain from an individual or officer to whom land has been or will be conveyed a release of the individual’s or officer’s interest to the Government.
 
@@ -1050,9 +1050,9 @@ For the use or benefit of the Federal Government, the President may obtain from 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1311 | 40:305. | R.S. § 3752. |
+| 1311 | 40:305. | R.S. § 3752. |
 
-## § 1312. Release of real estate in certain cases
+## § 1312. Release of real estate in certain cases
 
 **(a) In General.—** Real estate that has become the property of the Federal Government in payment of a debt which afterward is fully paid in money and received by the Government may be conveyed by the Administrator of General Services to the debtor from whom it was taken or to the heirs or devisees of the debtor or the person that they may appoint.
 
@@ -1064,7 +1064,7 @@ For the use or benefit of the Federal Government, the President may obtain from 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1312 | 40:306. | R.S. § 3751; Pub. L. 89–30, § 3, June 2, 1965, 79 Stat. 119. |
+| 1312 | 40:306. | R.S. § 3751; Pub. L. 89–30, § 3, June 2, 1965, 79 Stat. 119. |
 
 In subsection (a), the words “by conveyance, extent, or otherwise” are omitted as unnecessary. The words “General Counsel for the Department of the Treasury” were substituted for “Solicitor of the Treasury” in section 3751 of the Revised Statutes because section 512(b) of the Revenue Act of 1934 (ch. 277, 48 Stat. 759) abolished the offices of General Counsel and Assistant General Counsel for the Bureau of Internal Revenue and the offices of Solicitor and Assistant Solicitor of the Treasury and transferred the powers, duties, and functions of those offices to the General Counsel for the Department of the Treasury. The words “release by deed or otherwise” and “if he is living, or, if such debtor is dead” are omitted as unnecessary.
 
@@ -1076,7 +1076,7 @@ In subsection (b), the words “the Internal Revenue Code of 1986 (26 U.S.C. 1 e
 
 The Internal Revenue Code of 1986, referred to in subsec. (b), is classified to Title 26, Internal Revenue Code.
 
-## § 1313. Releasing property from attachment
+## § 1313. Releasing property from attachment
 
 **(a) Stipulation of Discharge.—**
 
@@ -1100,14 +1100,14 @@ The Internal Revenue Code of 1986, referred to in subsec. (b), is classified to 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1313(a) | 40:308. | R.S. § 3753; Pub. L. 89–30, § 1(a), June 2, 1965, 79 Stat. 118. |
-| 1313(b) | 40:309. | R.S. § 3754; Pub. L. 89–30, § 1(b), June 2, 1965, 79 Stat. 119. |
+| 1313(a) | 40:308. | R.S. § 3753; Pub. L. 89–30, § 1(a), June 2, 1965, 79 Stat. 118. |
+| 1313(b) | 40:309. | R.S. § 3754; Pub. L. 89–30, § 1(b), June 2, 1965, 79 Stat. 119. |
 
 In subsection (a)(1), the words “territory, or possession of the United States” are substituted for “or territory” for consistency in the revised title and with other titles of the United States Code. The words “in his discretion” are omitted as unnecessary. The words “General Counsel for the department of Treasury” were substituted for “Solicitor of the Treasury” in section 3753 of the Revised Statutes because section 512(b) of the Revenue Act of 1934 (ch. 277, 48 Stat. 759) abolished the offices of General Counsel and Assistant General Counsel for the Bureau of Internal Revenue and the offices of Solicitor and Assistant Solicitor of the Treasury and transferred the powers, duties, and functions of those offices to the General Counsel for the Department of the Treasury.
 
 In subsection (b), the words “in the court of last resort to which the Attorney General may deem proper to cause such proceedings to be carried”, “to all intents and purposes”, “and the same is by such judgment found to be due”, and “duly” are omitted as unnecessary.
 
-## § 1314. Easements
+## § 1314. Easements
 
 **(a) Definitions.—** In this section—
 
@@ -1153,7 +1153,7 @@ In subsection (b), the words “in the court of last resort to which the Attorne
 
 **(f) Limitation on Issuance of Rights of Way.—** Rights of way over, under, and through public lands and lands in the National Forest System may not be granted under this section.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1139; Pub. L. 113–287, § 5(j)(4), Dec. 19, 2014, 128 Stat. 3269.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1139; Pub. L. 113–287, § 5(j)(4), Dec. 19, 2014, 128 Stat. 3269.)
 
 **Historical and Revision Notes**
 
@@ -1164,7 +1164,7 @@ In subsection (b), the words “in the court of last resort to which the Attorne
 | 1314(c) | 40:319 (3d, last sentences). |  |
 | 1314(d) | 40:319a. |  |
 | 1314(e) | 40:319b. |  |
-| 1314(f) | 40:319 note, 319a note, 319b note, 319c note. | Pub. L. 94–579, title VII, § 706(a) (related to the Act of Oct. 23, 1962 (Pub. L. 87—852, 76 Stat. 1129)), Oct. 21, 1976, 90 Stat. 2793. |
+| 1314(f) | 40:319 note, 319a note, 319b note, 319c note. | Pub. L. 94–579, title VII, § 706(a) (related to the Act of Oct. 23, 1962 (Pub. L. 87—852, 76 Stat. 1129)), Oct. 21, 1976, 90 Stat. 2793. |
 
 In subsection (a), the text of 40:319c(c) is omitted because of 1:1. In clause (3), the words “territories and” are added for consistency in the revised title and with other titles of the United States Code.
 
@@ -1178,7 +1178,7 @@ In subsection (c), the words “affected” and “concerned” before “a noti
 
 2014—Subsec. (a)(2)(A)(ii). Pub. L. 113–287 substituted “section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54” for “the Act of August 25, 1916 (16 U.S.C. 1, 2, 3, 4) (known as the National Park Service Organic Act)”.
 
-## § 1315. Law enforcement authority of Secretary of Homeland Security for protection of public property
+## § 1315. Law enforcement authority of Secretary of Homeland Security for protection of public property
 
 **(a) In General.—** To the extent provided for by transfers made pursuant to the Homeland Security Act of 2002, the Secretary of Homeland Security (in this section referred to as the “Secretary”) shall protect the buildings, grounds, and property that are owned, occupied, or secured by the Federal Government (including any agency, instrumentality, or wholly owned or mixed-ownership corporation thereof) and the persons on the property.
 
@@ -1228,19 +1228,19 @@ In subsection (c), the words “affected” and “concerned” before “a noti
 
 **(2)** restrict the authority of the Administrator of General Services to promulgate regulations affecting property under the Administrator’s custody and control.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1140; Pub. L. 107–296, title XVII, § 1706(b)(1), Nov. 25, 2002, 116 Stat. 2316.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1140; Pub. L. 107–296, title XVII, § 1706(b)(1), Nov. 25, 2002, 116 Stat. 2316.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1315(a) | 40:318(a). | June 1, 1948, ch. 359, § 1, 62 Stat. 281; Pub. L. 100–678, § 8(a), (b), Nov. 17, 1988, 102 Stat. 4052. |
+| 1315(a) | 40:318(a). | June 1, 1948, ch. 359, § 1, 62 Stat. 281; Pub. L. 100–678, § 8(a), (b), Nov. 17, 1988, 102 Stat. 4052. |
 | 1315(b) | 40:318(b). |  |
-| 1315(c) | 40:318b (words before semicolon). | June 1, 1948, ch. 359, § 3, 62 Stat. 281; Pub. L. 100–678, § 8(a), (c)(2), Nov. 17, 1988, 102 Stat. 4052, 4053. |
+| 1315(c) | 40:318b (words before semicolon). | June 1, 1948, ch. 359, § 3, 62 Stat. 281; Pub. L. 100–678, § 8(a), (c)(2), Nov. 17, 1988, 102 Stat. 4052, 4053. |
 | 1315(d) | 40:318b (words after semicolon). |  |
-| 1315(e) | 40:318d. | June 1, 1948, ch. 359, § 5, as added Pub. L. 87–275, Sept. 22, 1961, 75 Stat. 574. |
-| 1315(f) | 40:318a. | June 1, 1948, ch. 359, § 2, 62 Stat. 281; Pub. L. 100–678, § 8(a), (c)(1), Nov. 17, 1988, 102 Stat. 4052, 4053. |
-| 1315(g) | 40:318c. | June 1, 1948, ch. 359, § 4, 62 Stat. 281; Pub. L. 104–201, div. A, title X, § 1067, Sept. 23, 1996, 110 Stat. 2654. |
+| 1315(e) | 40:318d. | June 1, 1948, ch. 359, § 5, as added Pub. L. 87–275, Sept. 22, 1961, 75 Stat. 574. |
+| 1315(f) | 40:318a. | June 1, 1948, ch. 359, § 2, 62 Stat. 281; Pub. L. 100–678, § 8(a), (c)(1), Nov. 17, 1988, 102 Stat. 4052, 4053. |
+| 1315(g) | 40:318c. | June 1, 1948, ch. 359, § 4, 62 Stat. 281; Pub. L. 104–201, div. A, title X, § 1067, Sept. 23, 1996, 110 Stat. 2654. |
 
 In this section, the word “duly” is omitted as unnecessary.
 
@@ -1254,7 +1254,7 @@ In subsection (g)(2)(B), the words “similar offense” are substituted for “
 
 **References in Text**
 
-The Homeland Security Act of 2002, referred to in subsecs. (a) and (b)(1), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
+The Homeland Security Act of 2002, referred to in subsecs. (a) and (b)(1), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
 
 **Amendments**
 
@@ -1294,7 +1294,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Pro
 
 **Delegation of Authority**
 
-Pub. L. 107–296, title XVII, § 1706(b)(2), Nov. 25, 2002, 116 Stat. 2318, provided that: “The Secretary may delegate authority for the protection of specific buildings to another Federal agency where, in the Secretary’s discretion, the Secretary determines it necessary for the protection of that building.”
+Pub. L. 107–296, title XVII, § 1706(b)(2), Nov. 25, 2002, 116 Stat. 2318, provided that: “The Secretary may delegate authority for the protection of specific buildings to another Federal agency where, in the Secretary’s discretion, the Secretary determines it necessary for the protection of that building.”
 
 [For definition of “Secretary” as used in section 1706(b)(2) of Pub. L. 107–296, set out above, see section 101(16) of Title 6, Domestic Security.]
 

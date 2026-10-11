@@ -19,77 +19,77 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title X, § 1061(a), title XVI, § 1622(a), Dec. 18, 2025, 139 Stat. 1045, 1182, added item 130g relating to oversight of sensitive activities of the Department of Defense and item 130g relating to notification requirements for waivers issued under Department of Defense guidance related to autonomy in weapon systems. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title X, § 1061(a), title XVI, § 1622(a), Dec. 18, 2025, 139 Stat. 1045, 1182, added item 130g relating to oversight of sensitive activities of the Department of Defense and item 130g relating to notification requirements for waivers issued under Department of Defense guidance related to autonomy in weapon systems. Amendments were made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title XVI, § 1649(b)(1), Dec. 23, 2024, 138 Stat. 2199, struck out item 130h “Prohibitions relating to missile defense information and systems”. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title XVI, § 1649(b)(1), Dec. 23, 2024, 138 Stat. 2199, struck out item 130h “Prohibitions relating to missile defense information and systems”. Amendment was made pursuant to operation of section 102 of this title.
 
-2023—Pub. L. 118–31, div. A, title XII, §§ 1201(b), 1221(b), Dec. 22, 2023, 137 Stat. 441, 453, added items 127d and 127f and struck out former item 127f “Expenditure of funds for clandestine activities that support operational preparation of the environment”.
+2023—Pub. L. 118–31, div. A, title XII, §§ 1201(b), 1221(b), Dec. 22, 2023, 137 Stat. 441, 453, added items 127d and 127f and struck out former item 127f “Expenditure of funds for clandestine activities that support operational preparation of the environment”.
 
-2022—Pub. L. 117–263, div. A, title X, § 1042(b), Dec. 23, 2022, 136 Stat. 2770, added item 130a.
+2022—Pub. L. 117–263, div. A, title X, § 1042(b), Dec. 23, 2022, 136 Stat. 2770, added item 130a.
 
-2021—Pub. L. 116–283, div. A, title IX, § 911(a)(2), title X, § 1052(b), Jan. 1, 2021, 134 Stat. 3801, 3850, added items 125a and 127f.
+2021—Pub. L. 116–283, div. A, title IX, § 911(a)(2), title X, § 1052(b), Jan. 1, 2021, 134 Stat. 3801, 3850, added items 125a and 127f.
 
-2018—Pub. L. 115–232, div. A, title X, § 1081(a)(2), title XVI, § 1631(c)(1), Aug. 13, 2018, 132 Stat. 1983, 2123, struck out item 130g “Authorities concerning military cyber operations” and made technical correction to and struck out items 130j “Notification requirements for sensitive military cyber operations” and 130k “Notification requirements for cyber weapons”.
+2018—Pub. L. 115–232, div. A, title X, § 1081(a)(2), title XVI, § 1631(c)(1), Aug. 13, 2018, 132 Stat. 1983, 2123, struck out item 130g “Authorities concerning military cyber operations” and made technical correction to and struck out items 130j “Notification requirements for sensitive military cyber operations” and 130k “Notification requirements for cyber weapons”.
 
-2017—Pub. L. 115–91, div. A, title XVI, § 1631(b), Dec. 12, 2017, 131 Stat. 1738, added items 130j and 130k.
+2017—Pub. L. 115–91, div. A, title XVI, § 1631(b), Dec. 12, 2017, 131 Stat. 1738, added items 130j and 130k.
 
-2016—Pub. L. 114–328, div. A, title X, § 1036(f)(2), title XI, § 1101(b)(2), title XII, §§ 1203(a)(2), 1245(b), title XVI, §§ 1662(a)(3), 1682(a)(2), 1697(b), Dec. 23, 2016, 130 Stat. 2392, 2444, 2476, 2520, 2614, 2624, 2640, added items 127e, 128, 130f, 130h, and 130i, substituted “Civilian personnel management” for “Prohibition of certain civilian personnel management constraints” in item 129, and struck out former items 127d “Allied forces participating in combined operations: authority to provide logistic support, supplies, and services”, 128 “Physical protection of special nuclear material: limitation on dissemination of unclassified information”, 130f “Congressional notification of sensitive military operations”, and 130h “Prohibitions on providing certain missile defense information to Russian Federation”.
+2016—Pub. L. 114–328, div. A, title X, § 1036(f)(2), title XI, § 1101(b)(2), title XII, §§ 1203(a)(2), 1245(b), title XVI, §§ 1662(a)(3), 1682(a)(2), 1697(b), Dec. 23, 2016, 130 Stat. 2392, 2444, 2476, 2520, 2614, 2624, 2640, added items 127e, 128, 130f, 130h, and 130i, substituted “Civilian personnel management” for “Prohibition of certain civilian personnel management constraints” in item 129, and struck out former items 127d “Allied forces participating in combined operations: authority to provide logistic support, supplies, and services”, 128 “Physical protection of special nuclear material: limitation on dissemination of unclassified information”, 130f “Congressional notification of sensitive military operations”, and 130h “Prohibitions on providing certain missile defense information to Russian Federation”.
 
-2015—Pub. L. 114–92, div. A, title X, § 1042(d)(2), title XVI, §§ 1642(b), 1671(a)(2), Nov. 25, 2015, 129 Stat. 977, 1116, 1130, added items 130g and 130h and substituted “Department of Defense rewards program” for “Assistance in combating terrorism: rewards” in item 127b.
+2015—Pub. L. 114–92, div. A, title X, § 1042(d)(2), title XVI, §§ 1642(b), 1671(a)(2), Nov. 25, 2015, 129 Stat. 977, 1116, 1130, added items 130g and 130h and substituted “Department of Defense rewards program” for “Assistance in combating terrorism: rewards” in item 127b.
 
-2014—Pub. L. 113–291, div. A, title X, § 1071(f)(2), Dec. 19, 2014, 128 Stat. 3510, substituted “Treatment under Freedom of Information Act of certain critical infrastructure security information” for “Treatment under Freedom of Information Act of critical infrastructure security information” in item 130e and “Congressional notification of sensitive military operations” for “Congressional notification regarding sensitive military operations” in item 130f.
+2014—Pub. L. 113–291, div. A, title X, § 1071(f)(2), Dec. 19, 2014, 128 Stat. 3510, substituted “Treatment under Freedom of Information Act of certain critical infrastructure security information” for “Treatment under Freedom of Information Act of critical infrastructure security information” in item 130e and “Congressional notification of sensitive military operations” for “Congressional notification regarding sensitive military operations” in item 130f.
 
-2013—Pub. L. 113–66, div. A, title X, §§ 1041(a)(2), 1091(a)(2), Dec. 26, 2013, 127 Stat. 857, 875, added item 130f and substituted “Treatment under Freedom of Information Act of critical infrastructure security information” for “Treatment under Freedom of Information Act of certain critical infrastructure security information” in item 130e.
+2013—Pub. L. 113–66, div. A, title X, §§ 1041(a)(2), 1091(a)(2), Dec. 26, 2013, 127 Stat. 857, 875, added item 130f and substituted “Treatment under Freedom of Information Act of critical infrastructure security information” for “Treatment under Freedom of Information Act of certain critical infrastructure security information” in item 130e.
 
-2011—Pub. L. 112–81, div. A, title VIII, § 802(a)(2), title IX, § 931(b), title X, § 1091(b), Dec. 31, 2011, 125 Stat. 1485, 1543, 1605, added items 129d and 130e and substituted “General policy for total force management” for “General personnel policy” in item 129a.
+2011—Pub. L. 112–81, div. A, title VIII, § 802(a)(2), title IX, § 931(b), title X, § 1091(b), Dec. 31, 2011, 125 Stat. 1485, 1543, 1605, added items 129d and 130e and substituted “General policy for total force management” for “General personnel policy” in item 129a.
 
-Pub. L. 111–383, div. A, title X, § 1061(a)(2), Jan. 7, 2011, 124 Stat. 4362, added item 122a.
+Pub. L. 111–383, div. A, title X, § 1061(a)(2), Jan. 7, 2011, 124 Stat. 4362, added item 122a.
 
-2008—Pub. L. 110–417, [div. A], title IV, § 416(c)(2), Oct. 14, 2008, 122 Stat. 4430, substituted “Suspension of end-strength and other strength limitations in time of war or national emergency” for “Suspension of end-strength limitations in time of war or national emergency” in item 123a.
+2008—Pub. L. 110–417, [div. A], title IV, § 416(c)(2), Oct. 14, 2008, 122 Stat. 4430, substituted “Suspension of end-strength and other strength limitations in time of war or national emergency” for “Suspension of end-strength limitations in time of war or national emergency” in item 123a.
 
-Pub. L. 110–181, div. A, title X, § 1063(a)(1)(B), Jan. 28, 2008, 122 Stat. 321, which directed amendment of chapter 3 of title 10 “by revising the table of sections at the beginning of such chapter to reflect the redesignation and transfer made by paragraph (1)”, was executed to reflect the probable intent of Congress by amending the analysis to this chapter to reflect the redesignation and transfer made by section 1063(a)(1)(A) of Pub. L. 110–181, which redesignated the section 127c relating to allied forces participating in combined operations as 127d, and transferred it so as to appear immediately after section 127c relating to purchase of weapons overseas.
+Pub. L. 110–181, div. A, title X, § 1063(a)(1)(B), Jan. 28, 2008, 122 Stat. 321, which directed amendment of chapter 3 of title 10 “by revising the table of sections at the beginning of such chapter to reflect the redesignation and transfer made by paragraph (1)”, was executed to reflect the probable intent of Congress by amending the analysis to this chapter to reflect the redesignation and transfer made by section 1063(a)(1)(A) of Pub. L. 110–181, which redesignated the section 127c relating to allied forces participating in combined operations as 127d, and transferred it so as to appear immediately after section 127c relating to purchase of weapons overseas.
 
-Pub. L. 110–181, div. A, title IX, § 901(a)(2), Jan. 28, 2008, 122 Stat. 272, struck out item 130a “Major Department of Defense headquarters activities personnel: limitation”.
+Pub. L. 110–181, div. A, title IX, § 901(a)(2), Jan. 28, 2008, 122 Stat. 272, struck out item 130a “Major Department of Defense headquarters activities personnel: limitation”.
 
-2006—Pub. L. 109–364, div. A, title XII, § 1201(b), title XIV, § 1405(b), Oct. 17, 2006, 120 Stat. 2412, 2436, added items 127c, relating to allied forces participating in combined operations, and 130d.
+2006—Pub. L. 109–364, div. A, title XII, § 1201(b), title XIV, § 1405(b), Oct. 17, 2006, 120 Stat. 2412, 2436, added items 127c, relating to allied forces participating in combined operations, and 130d.
 
-Pub. L. 109–163, div. A, title XII, § 1231(b), Jan. 6, 2006, 119 Stat. 3468, added item 127c relating to purchase of weapons overseas.
+Pub. L. 109–163, div. A, title XII, § 1231(b), Jan. 6, 2006, 119 Stat. 3468, added item 127c relating to purchase of weapons overseas.
 
-2003—Pub. L. 108–136, div. A, title VIII, § 841(b)(2), Nov. 24, 2003, 117 Stat. 1552, substituted “Authority to procure personal services” for “Experts and consultants: authority to procure services of” in item 129b.
+2003—Pub. L. 108–136, div. A, title VIII, § 841(b)(2), Nov. 24, 2003, 117 Stat. 1552, substituted “Authority to procure personal services” for “Experts and consultants: authority to procure services of” in item 129b.
 
-2002—Pub. L. 107–314, div. A, title X, § 1065(b), Dec. 2, 2002, 116 Stat. 2656, added item 127b.
+2002—Pub. L. 107–314, div. A, title X, § 1065(b), Dec. 2, 2002, 116 Stat. 2656, added item 127b.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1073(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–280, added item 130c.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1073(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–280, added item 130c.
 
-1999—Pub. L. 106–65, div. A, title IX, § 921(a)(2), title X, § 1044(b), Oct. 5, 1999, 113 Stat. 723, 762, substituted “Major Department of Defense headquarters activities personnel: limitation” for “Management headquarters and headquarters support activities personnel: limitation” in item 130a and added item 130b.
+1999—Pub. L. 106–65, div. A, title IX, § 921(a)(2), title X, § 1044(b), Oct. 5, 1999, 113 Stat. 723, 762, substituted “Major Department of Defense headquarters activities personnel: limitation” for “Management headquarters and headquarters support activities personnel: limitation” in item 130a and added item 130b.
 
-1997—Pub. L. 105–85, div. A, title IX, § 911(a)(2), Nov. 18, 1997, 111 Stat. 1858, added item 130a.
+1997—Pub. L. 105–85, div. A, title IX, § 911(a)(2), Nov. 18, 1997, 111 Stat. 1858, added item 130a.
 
-1996—Pub. L. 104–106, div. A, title XV, § 1504(a)(8), Feb. 10, 1996, 110 Stat. 513, made technical correction to directory language of Pub. L. 103–337, § 1312(a)(2). See 1994 Amendment note below.
+1996—Pub. L. 104–106, div. A, title XV, § 1504(a)(8), Feb. 10, 1996, 110 Stat. 513, made technical correction to directory language of Pub. L. 103–337, § 1312(a)(2). See 1994 Amendment note below.
 
-Pub. L. 104–106, div. A, title V, § 564(a)(2), title X, § 1003(a)(2), Feb. 10, 1996, 110 Stat. 326, 417, substituted “Operations for which funds are not provided in advance: funding mechanisms” for “Expenses for contingency operations” in item 127a and added item 129c.
+Pub. L. 104–106, div. A, title V, § 564(a)(2), title X, § 1003(a)(2), Feb. 10, 1996, 110 Stat. 326, 417, substituted “Operations for which funds are not provided in advance: funding mechanisms” for “Expenses for contingency operations” in item 127a and added item 129c.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1671(b)(2), Oct. 5, 1994, 108 Stat. 3013, added item 123 and struck out former item 123 “Suspension of certain provisions of law relating to reserve commissioned officers”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1671(b)(2), Oct. 5, 1994, 108 Stat. 3013, added item 123 and struck out former item 123 “Suspension of certain provisions of law relating to reserve commissioned officers”.
 
-Pub. L. 103–337, div. A, title XIII, § 1312(a)(2), Oct. 5, 1994, 108 Stat. 2894, as amended by Pub. L. 104–106, div. A, title XV, § 1504(a)(8), Feb. 10, 1996, 110 Stat. 513, added item 123b.
+Pub. L. 103–337, div. A, title XIII, § 1312(a)(2), Oct. 5, 1994, 108 Stat. 2894, as amended by Pub. L. 104–106, div. A, title XV, § 1504(a)(8), Feb. 10, 1996, 110 Stat. 513, added item 123b.
 
-1993—Pub. L. 103–160, div. A, title XI, § 1108(a)(2), Nov. 30, 1993, 107 Stat. 1752, added item 127a.
+1993—Pub. L. 103–160, div. A, title XI, § 1108(a)(2), Nov. 30, 1993, 107 Stat. 1752, added item 127a.
 
-1990—Pub. L. 101–510, div. A, title XIV, §§ 1481(b)(2), 1483(c)(2), Nov. 5, 1990, 104 Stat. 1705, 1715, added items 123a, 129a, and 129b.
+1990—Pub. L. 101–510, div. A, title XIV, §§ 1481(b)(2), 1483(c)(2), Nov. 5, 1990, 104 Stat. 1705, 1715, added items 123a, 129a, and 129b.
 
-1989—Pub. L. 101–189, div. A, title XII, § 1202(a)(2), Nov. 29, 1989, 103 Stat. 1563, added item 124.
+1989—Pub. L. 101–189, div. A, title XII, § 1202(a)(2), Nov. 29, 1989, 103 Stat. 1563, added item 124.
 
-1987—Pub. L. 100–180, div. A, title XI, § 1123(b), Dec. 4, 1987, 101 Stat. 1150, added item 128.
+1987—Pub. L. 100–180, div. A, title XI, § 1123(b), Dec. 4, 1987, 101 Stat. 1150, added item 128.
 
-Pub. L. 100–26, § 9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 “Funds transfers for foreign cryptologic support”.
+Pub. L. 100–26, § 9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 “Funds transfers for foreign cryptologic support”.
 
-1986—Pub. L. 99–433, title I, § 110(c)(2), (e)(1), title II, § 211(c)(2), Oct. 1, 1986, 100 Stat. 1002, 1003, 1017, inserted “and Functions” after “General Powers” in chapter heading, struck out item 124 “Combatant commands: establishment; composition; functions; administration and support”, and added items 127 to 130.
+1986—Pub. L. 99–433, title I, § 110(c)(2), (e)(1), title II, § 211(c)(2), Oct. 1, 1986, 100 Stat. 1002, 1003, 1017, inserted “and Functions” after “General Powers” in chapter heading, struck out item 124 “Combatant commands: establishment; composition; functions; administration and support”, and added items 127 to 130.
 
-1962—Pub. L. 87–651, title II, § 201(b), Sept. 7, 1962, 76 Stat. 517, added items 124 to 126.
+1962—Pub. L. 87–651, title II, § 201(b), Sept. 7, 1962, 76 Stat. 517, added items 124 to 126.
 
-1958—Pub. L. 85–861, § 1(2)(B), Sept. 2, 1958, 72 Stat. 1437, added items 122 and 123.
+1958—Pub. L. 85–861, § 1(2)(B), Sept. 2, 1958, 72 Stat. 1437, added items 122 and 123.
 
-## § 121. Regulations
+## § 121. Regulations
 
 The President may prescribe regulations to carry out his functions, powers, and duties under this title.
 
@@ -103,19 +103,19 @@ The President may prescribe regulations to carry out his functions, powers, and 
 
 The revised section is inserted to make express the President’s general authority to issue regulations, which has been expressly reflected in many laws and left to inference in the remainder.
 
-## § 122. Official registers
+## § 122. Official registers
 
 The Secretary of a military department may have published, annually or at such other times as he may designate, official registers containing the names of, and other pertinent information about, such regular and reserve officers of the armed forces under his jurisdiction as he considers appropriate. The register may also contain any other list that the Secretary considers appropriate.
 
-(Added Pub. L. 85–861, § 1(2)(A), Sept. 2, 1958, 72 Stat. 1437.)
+(Added Pub. L. 85–861, § 1(2)(A), Sept. 2, 1958, 72 Stat. 1437.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 122 | 10 App.:20b. 34 App.:609. | July 24, 1956, ch. 677, § 1, 70 Stat. 623. |
+| 122 | 10 App.:20b. 34 App.:609. | July 24, 1956, ch. 677, § 1, 70 Stat. 623. |
 
-## § 122a. Public availability of Department of Defense reports required by law
+## § 122a. Public availability of Department of Defense reports required by law
 
 **(a) In General.—** To the maximum extent practicable, on or after the date on which each report described in subsection (b) is submitted to Congress, the Secretary of Defense, acting through the Assistant to the Secretary of Defense for Public Affairs, shall ensure that the report is made available to the public by—
 
@@ -139,7 +139,7 @@ The Secretary of a military department may have published, annually or at such o
 
 **(c) Semi-annual Summaries.—** Not later than January 1 and July 1 of each year, the Secretary of Defense shall make publicly available on an appropriate internet website a summary of all reports submitted to Congress by the Department of Defense for the preceding six-month period that are required to be submitted by statute. Each such summary shall include, for each report covered by the summary, the title of report, the date of delivery, and the section of law under which such report is required.
 
-(Added Pub. L. 111–383, div. A, title X, § 1061(a)(1), Jan. 7, 2011, 124 Stat. 4362; amended Pub. L. 112–81, div. A, title X, § 1068, Dec. 31, 2011, 125 Stat. 1589; Pub. L. 113–66, div. A, title X, § 1081(a), Dec. 26, 2013, 127 Stat. 871; Pub. L. 115–91, div. A, title X, § 1081(a)(3), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 117–81, div. A, title X, § 1062(a), Dec. 27, 2021, 135 Stat. 1909.)
+(Added Pub. L. 111–383, div. A, title X, § 1061(a)(1), Jan. 7, 2011, 124 Stat. 4362; amended Pub. L. 112–81, div. A, title X, § 1068, Dec. 31, 2011, 125 Stat. 1589; Pub. L. 113–66, div. A, title X, § 1081(a), Dec. 26, 2013, 127 Stat. 871; Pub. L. 115–91, div. A, title X, § 1081(a)(3), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 117–81, div. A, title X, § 1062(a), Dec. 27, 2021, 135 Stat. 1909.)
 
 **Editorial Notes**
 
@@ -161,23 +161,23 @@ The Secretary of a military department may have published, annually or at such o
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–81, div. A, title X, § 1062(b), Dec. 27, 2021, 135 Stat. 1909, provided that: “Subsection (c) of section 122a of title 10, United States Code, as added by subsection (a), shall apply beginning on the date that is one year after the date of the enactment of this Act [Dec. 27, 2021].”
+Pub. L. 117–81, div. A, title X, § 1062(b), Dec. 27, 2021, 135 Stat. 1909, provided that: “Subsection (c) of section 122a of title 10, United States Code, as added by subsection (a), shall apply beginning on the date that is one year after the date of the enactment of this Act [Dec. 27, 2021].”
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–66, div. A, title X, § 1081(b), Dec. 26, 2013, 127 Stat. 871, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to reports submitted to Congress after the date of the enactment of this Act [Dec. 26, 2013].”
+Pub. L. 113–66, div. A, title X, § 1081(b), Dec. 26, 2013, 127 Stat. 871, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to reports submitted to Congress after the date of the enactment of this Act [Dec. 26, 2013].”
 
 **Effective Date**
 
-Pub. L. 111–383, div. A, title X, § 1061(b), Jan. 7, 2011, 124 Stat. 4362, provided that: “Section 122a of title 10, United States Code (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act [Jan. 7, 2011], and shall apply with respect to reports that are required by law to be submitted to Congress on or after that date.”
+Pub. L. 111–383, div. A, title X, § 1061(b), Jan. 7, 2011, 124 Stat. 4362, provided that: “Section 122a of title 10, United States Code (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act [Jan. 7, 2011], and shall apply with respect to reports that are required by law to be submitted to Congress on or after that date.”
 
 **Public Availability of Department of Defense Legislative Proposals**
 
-Pub. L. 116–283, div. A, title X, § 1059, Jan. 1, 2021, 134 Stat. 3857, provided that: “Not later than 21 days after the transmission to the Committee on Armed Services of the Senate or the Committee on Armed Services of the House of Representatives of any official Department of Defense legislative proposal, the Secretary of Defense shall make publicly available on a website of the Department such legislative proposal, including any bill text and section-by-section analysis associated with the proposal.”
+Pub. L. 116–283, div. A, title X, § 1059, Jan. 1, 2021, 134 Stat. 3857, provided that: “Not later than 21 days after the transmission to the Committee on Armed Services of the Senate or the Committee on Armed Services of the House of Representatives of any official Department of Defense legislative proposal, the Secretary of Defense shall make publicly available on a website of the Department such legislative proposal, including any bill text and section-by-section analysis associated with the proposal.”
 
 **Public Availability of Top-Line Numbers of Deployed Members of the Armed Forces**
 
-Pub. L. 115–232, div. A, title V, § 595, Aug. 13, 2018, 132 Stat. 1789, provided that:
+Pub. L. 115–232, div. A, title V, § 595, Aug. 13, 2018, 132 Stat. 1789, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), the Secretary of Defense shall make publicly available, on a quarterly basis, on a website of the Department the top-line numbers of members of the Armed Forces deployed for each country as of the date of the submittal of the report and the total number of members of the Armed Forces so deployed during the quarter covered by the report.
 
@@ -199,7 +199,7 @@ Pub. L. 115–232, div. A, title V, § 595, Aug. 13, 2018, 132 Stat. 1789, pro
 
 **Cost of Wars**
 
-Pub. L. 114–328, div. A, title X, § 1090, Dec. 23, 2016, 130 Stat. 2428, as amended by Pub. L. 117–263, div. A, title X, § 1085, Dec. 23, 2022, 136 Stat. 2800, provided that:
+Pub. L. 114–328, div. A, title X, § 1090, Dec. 23, 2016, 130 Stat. 2428, as amended by Pub. L. 117–263, div. A, title X, § 1085, Dec. 23, 2022, 136 Stat. 2800, provided that:
 
 > **“(a) Publication of Information.—** The Secretary of Defense, in consultation with the Commissioner of the Internal Revenue Service and the Director of the Bureau of Economic Analysis, shall post on the public Internet website of the Department of Defense the costs to each United States taxpayer of any contingency operation conducted by the United States Armed Forces on or after September 18, 2001.
 
@@ -215,7 +215,7 @@ Pub. L. 114–328, div. A, title X, § 1090, Dec. 23, 2016, 130 Stat. 2428, as
 
 > **“(d) Contingency Operation Defined.—** In this section, the term ‘contingency operation’ has the meaning given such term in section 101(a)(13) of title 10, United States Code.”
 
-## § 123. Authority to suspend officer personnel laws during war or national emergency
+## § 123. Authority to suspend officer personnel laws during war or national emergency
 
 **(a)** In time of war, or of national emergency declared by Congress or the President after November 30, 1980, the President may suspend the operation of any provision of law relating to the promotion, involuntary retirement, or separation of commissioned officers of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard Reserve. So long as such war or national emergency continues, any such suspension may be extended by the President.
 
@@ -225,13 +225,13 @@ Pub. L. 114–328, div. A, title X, § 1090, Dec. 23, 2016, 130 Stat. 2428, as
 
 **(d)** Upon the termination of a suspension made under the authority of subsection (a) of a provision of law otherwise requiring the separation or retirement of officers on active duty because of age, length of service or length of service in grade, or failure of selection for promotion, the Secretary concerned shall extend by up to 90 days the otherwise required separation or retirement date of any officer covered by the suspended provision whose separation or retirement date, but for the suspension, would have been before the date of the termination of the suspension or within 90 days after the date of such termination.
 
-(Added Pub. L. 85–861, § 1(2)(A), Sept. 2, 1958, 72 Stat. 1437; amended Pub. L. 86–559, § 1(1), June 30, 1960, 74 Stat. 264; Pub. L. 89–718, § 1, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, § 1(1), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V, §§ 501(3), 511(1), Dec. 12, 1980, 94 Stat. 2907, 2920; Pub. L. 97–22, § 10(b)(1), July 10, 1981, 95 Stat. 137; Pub. L. 103–337, div. A, title XVI, § 1622(a), Oct. 5, 1994, 108 Stat. 2961; Pub. L. 104–106, div. A, title XV, § 1501(c)(4), Feb. 10, 1996, 110 Stat. 498; Pub. L. 107–107, div. A, title V, § 508(b), Dec. 28, 2001, 115 Stat. 1090; Pub. L. 116–283, div. A, title IX, § 924(b)(2)(A)(i), Jan. 1, 2021, 134 Stat. 3821.)
+(Added Pub. L. 85–861, § 1(2)(A), Sept. 2, 1958, 72 Stat. 1437; amended Pub. L. 86–559, § 1(1), June 30, 1960, 74 Stat. 264; Pub. L. 89–718, § 1, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, § 1(1), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V, §§ 501(3), 511(1), Dec. 12, 1980, 94 Stat. 2907, 2920; Pub. L. 97–22, § 10(b)(1), July 10, 1981, 95 Stat. 137; Pub. L. 103–337, div. A, title XVI, § 1622(a), Oct. 5, 1994, 108 Stat. 2961; Pub. L. 104–106, div. A, title XV, § 1501(c)(4), Feb. 10, 1996, 110 Stat. 498; Pub. L. 107–107, div. A, title V, § 508(b), Dec. 28, 2001, 115 Stat. 1090; Pub. L. 116–283, div. A, title IX, § 924(b)(2)(A)(i), Jan. 1, 2021, 134 Stat. 3821.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 123 | 50:1199 (less applicability to National Guard). | Sept. 3, 1954, ch. 1257, § 209 (less applicability to National Guard), 68 Stat. 1152. |
+| 123 | 50:1199 (less applicability to National Guard). | Sept. 3, 1954, ch. 1257, § 209 (less applicability to National Guard), 68 Stat. 1152. |
 
 In subsection (b), the words “the same as” are substituted for the word “comparable”, since any necessary differences in the recommended legislation between Reserves and Regulars are fully taken account of in the words “So far as practicable”.
 
@@ -239,11 +239,11 @@ In subsection (b), the words “the same as” are substituted for the word “c
 
 **References in Text**
 
-The National Emergencies Act, referred to in subsec. (b), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255. Title II of the Act is classified generally to subchapter II (§ 1621 et seq.) of chapter 34 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (b), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255. Title II of the Act is classified generally to subchapter II (§ 1621 et seq.) of chapter 34 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 644 of this title prior to repeal by Pub. L. 103–337, § 1622(b).
+Provisions similar to those in this section were contained in section 644 of this title prior to repeal by Pub. L. 103–337, § 1622(b).
 
 **Amendments**
 
@@ -269,7 +269,7 @@ Provisions similar to those in this section were contained in section 644 of thi
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 **Effective Date of 1994 Amendment**
 
@@ -277,7 +277,7 @@ Amendment by Pub. L. 103–337 effective Oct. 1, 1996, see section 1691(b)(1) of
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–22, § 10(b), July 10, 1981, 95 Stat. 137, provided that the amendment made by that section is effective Sept. 15, 1981.
+Pub. L. 97–22, § 10(b), July 10, 1981, 95 Stat. 137, provided that the amendment made by that section is effective Sept. 15, 1981.
 
 **Effective Date of 1980 Amendment**
 
@@ -297,7 +297,7 @@ Functions of President under this section delegated to Secretary of Defense, see
 
 Authority of President under this section as invoked by sections 2 and 3 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, delegated to Secretary of Defense by section 4 of Ex. Ord. No. 13223, and authority of President under this section as invoked by section 2 of Ex. Ord. No. 13223 delegated to Secretary of Homeland Security by section 5 of Ex. Ord. No. 13223, as amended, set out as a note under section 12302 of this title.
 
-## § 123a. Suspension of end-strength and other strength limitations in time of war or national emergency
+## § 123a. Suspension of end-strength and other strength limitations in time of war or national emergency
 
 **(a) During War or National Emergency.—**
 
@@ -313,13 +313,13 @@ Authority of President under this section as invoked by sections 2 and 3 of Ex. 
 
 **(c) Statutory End Strength.—** In this section, the term “statutory end strength” means any end-strength limitation with respect to a fiscal year that is prescribed by law for any military or civilian component of the armed forces or of the Department of Defense.
 
-(Added Pub. L. 101–510, div. A, title XIV, § 1483(b)(1), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 107–107, div. A, title IV, § 421(b), Dec. 28, 2001, 115 Stat. 1076; Pub. L. 110–417, [div. A], title IV, § 416(a)–(c)(1), Oct. 14, 2008, 122 Stat. 4430; Pub. L. 118–31, div. A, title XVII, § 1722(a)(2), Dec. 22, 2023, 137 Stat. 667.)
+(Added Pub. L. 101–510, div. A, title XIV, § 1483(b)(1), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 107–107, div. A, title IV, § 421(b), Dec. 28, 2001, 115 Stat. 1076; Pub. L. 110–417, [div. A], title IV, § 416(a)–(c)(1), Oct. 14, 2008, 122 Stat. 4430; Pub. L. 118–31, div. A, title XVII, § 1722(a)(2), Dec. 22, 2023, 137 Stat. 667.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 115(b)(4) of this title, prior to repeal by Pub. L. 101–510, § 1483(a).
+Provisions similar to those in this section were contained in section 115(b)(4) of this title, prior to repeal by Pub. L. 101–510, § 1483(a).
 
 **Amendments**
 
@@ -335,7 +335,7 @@ Provisions similar to those in this section were contained in section 115(b)(4) 
 
 Authority of President under this section as invoked by sections 2 and 3 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, delegated to Secretary of Defense by section 4 of Ex. Ord. No. 13223, and authority of President under this section as invoked by section 2 of Ex. Ord. No. 13223 delegated to Secretary of Homeland Security by section 5 of Ex. Ord. No. 13223, as amended, set out as a note under section 12302 of this title.
 
-## § 123b. Forces stationed abroad: limitation on number
+## § 123b. Forces stationed abroad: limitation on number
 
 **(a) End-Strength Limitation.—** No funds appropriated to the Department of Defense may be used to support a strength level of members of the armed forces assigned to permanent duty ashore in nations outside the United States at the end of any fiscal year at a level in excess of 203,000.
 
@@ -343,21 +343,21 @@ Authority of President under this section as invoked by sections 2 and 3 of Ex. 
 
 **(c) Presidential Waiver.—** The President may waive the operation of subsection (a) if the President declares an emergency. The President shall immediately notify Congress of any such waiver.
 
-(Added Pub. L. 103–337, div. A, title XIII, § 1312(a)(1), Oct. 5, 1994, 108 Stat. 2894.)
+(Added Pub. L. 103–337, div. A, title XIII, § 1312(a)(1), Oct. 5, 1994, 108 Stat. 2894.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 102–484, div. A, title XIII, § 1302, Oct. 23, 1992, 106 Stat. 2545, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 103–337, § 1312(c).
+Provisions similar to those in this section were contained in Pub. L. 102–484, div. A, title XIII, § 1302, Oct. 23, 1992, 106 Stat. 2545, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 103–337, § 1312(c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 103–337, div. A, title XIII, § 1312(b), Oct. 5, 1994, 108 Stat. 2894, provided that: “Section 123b of title 10, United States Code, as added by subsection (a), does not apply with respect to a fiscal year before fiscal year 1996.”
+Pub. L. 103–337, div. A, title XIII, § 1312(b), Oct. 5, 1994, 108 Stat. 2894, provided that: “Section 123b of title 10, United States Code, as added by subsection (a), does not apply with respect to a fiscal year before fiscal year 1996.”
 
-## § 124. Detection and monitoring of aerial and maritime transit of illegal drugs: Department of Defense to be lead agency
+## § 124. Detection and monitoring of aerial and maritime transit of illegal drugs: Department of Defense to be lead agency
 
 **(a) Lead Agency.—**
 
@@ -377,13 +377,13 @@ Pub. L. 103–337, div. A, title XIII, § 1312(b), Oct. 5, 1994, 108 Stat. 289
 
 **(c) United States Defined.—** In this section, the term “United States” means the land area of the several States and any territory, commonwealth, or possession of the United States.
 
-(Added Pub. L. 101–189, div. A, title XII, § 1202(a)(1), Nov. 29, 1989, 103 Stat. 1563; amended Pub. L. 102–190, div. A, title X, § 1088(b), Dec. 5, 1991, 105 Stat. 1485.)
+(Added Pub. L. 101–189, div. A, title XII, § 1202(a)(1), Nov. 29, 1989, 103 Stat. 1563; amended Pub. L. 102–190, div. A, title X, § 1088(b), Dec. 5, 1991, 105 Stat. 1485.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 124, added Pub. L. 87–651, title II, § 201(a), Sept. 7, 1962, 76 Stat. 514; amended Pub. L. 98–525, title XIII, § 1301(a), Oct. 19, 1984, 98 Stat. 2611; Pub. L. 99–145, title XIII, § 1303(a)(1), Nov. 8, 1985, 99 Stat. 738, related to establishment, composition, and functions of combatant commands, prior to repeal by Pub. L. 99–433, § 211(c)(1). See section 161 et seq. of this title. Similar provisions were contained in Pub. L. 100–456, div. A, title XI, § 1102, Sept. 29, 1988, 102 Stat. 2042, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 101–189, § 1202(b).
+A prior section 124, added Pub. L. 87–651, title II, § 201(a), Sept. 7, 1962, 76 Stat. 514; amended Pub. L. 98–525, title XIII, § 1301(a), Oct. 19, 1984, 98 Stat. 2611; Pub. L. 99–145, title XIII, § 1303(a)(1), Nov. 8, 1985, 99 Stat. 738, related to establishment, composition, and functions of combatant commands, prior to repeal by Pub. L. 99–433, § 211(c)(1). See section 161 et seq. of this title. Similar provisions were contained in Pub. L. 100–456, div. A, title XI, § 1102, Sept. 29, 1988, 102 Stat. 2042, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 101–189, § 1202(b).
 
 **Amendments**
 
@@ -393,15 +393,15 @@ A prior section 124, added Pub. L. 87–651, title II, § 201(a), Sept. 7, 196
 
 **Support for Counterdrug Activities Affecting Flow of Drugs Into the United States**
 
-Pub. L. 118–159, div. A, title X, § 1011, Dec. 23, 2024, 138 Stat. 2050, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary shall prescribe Department-wide guidance that establishes support for counterdrug activities and programs affecting the flow of drugs into the United States as the principal foreign counterdrug program priority of the Department.”
+Pub. L. 118–159, div. A, title X, § 1011, Dec. 23, 2024, 138 Stat. 2050, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary shall prescribe Department-wide guidance that establishes support for counterdrug activities and programs affecting the flow of drugs into the United States as the principal foreign counterdrug program priority of the Department.”
 
 **Authority for Detection and Monitoring of Illegal Drugs Regardless of Destination**
 
-Pub. L. 118–159, div. A, title X, § 1012, Dec. 23, 2024, 138 Stat. 2050, provided that: “In conducting detection and monitoring of illegal drugs under section 124 of title 10, United States Code, the Joint Interagency Task Force South may conduct detection and monitoring of vessels or aircraft transiting illegal drugs in the air and maritime domains within the established joint operating area of such task force regardless of the destination of the illegal drugs.”
+Pub. L. 118–159, div. A, title X, § 1012, Dec. 23, 2024, 138 Stat. 2050, provided that: “In conducting detection and monitoring of illegal drugs under section 124 of title 10, United States Code, the Joint Interagency Task Force South may conduct detection and monitoring of vessels or aircraft transiting illegal drugs in the air and maritime domains within the established joint operating area of such task force regardless of the destination of the illegal drugs.”
 
 **Condition on Development of Forward Operating Locations for United States Southern Command Counter-Drug Detection and Monitoring Flights**
 
-Pub. L. 106–65, div. A, title X, § 1024, Oct. 5, 1999, 113 Stat. 748, provided that:
+Pub. L. 106–65, div. A, title X, § 1024, Oct. 5, 1999, 113 Stat. 748, provided that:
 
 > **“(a) Condition.—** Except as provided in subsection (b), none of the funds appropriated or otherwise made available to the Department of Defense for any fiscal year may be obligated or expended for the purpose of improving the physical infrastructure at any proposed forward operating location outside the United States from which the United States Southern Command may conduct counter-drug detection and monitoring flights until a formal agreement regarding the extent and use of, and host nation support for, the forward operating location is executed by both the host nation and the United States.
 
@@ -409,7 +409,7 @@ Pub. L. 106–65, div. A, title X, § 1024, Oct. 5, 1999, 113 Stat. 748, provi
 
 **Counter-Drug Detection and Monitoring Systems Plan**
 
-Pub. L. 102–484, div. A, title X, § 1043, Oct. 23, 1992, 106 Stat. 2492, provided that:
+Pub. L. 102–484, div. A, title X, § 1043, Oct. 23, 1992, 106 Stat. 2492, provided that:
 
 > **“(a) Requirements of Detection and Monitoring Systems.—** The Secretary of Defense shall establish requirements for counter-drug detection and monitoring systems to be used by the Department of Defense in the performance of its mission under section 124(a) of title 10, United States Code, as lead agency of the Federal Government for the detection and monitoring of the transit of illegal drugs into the United States. Such requirements shall be designed—
 
@@ -449,7 +449,7 @@ Pub. L. 102–484, div. A, title X, § 1043, Oct. 23, 1992, 106 Stat. 2492, pr
 
 **Integration of Communications Network**
 
-Pub. L. 101–189, div. A, title XII, § 1204(a), Nov. 29, 1989, 103 Stat. 1564, provided that:
+Pub. L. 101–189, div. A, title XII, § 1204(a), Nov. 29, 1989, 103 Stat. 1564, provided that:
 
 > **“(1)** The Secretary of Defense shall integrate into an effective communications network the command, control, communications, and technical intelligence assets of the United States that are dedicated (in whole or in part) to the interdiction of illegal drugs into the United States.
 
@@ -457,7 +457,7 @@ Pub. L. 101–189, div. A, title XII, § 1204(a), Nov. 29, 1989, 103 Stat. 156
 
 **Research and Development**
 
-Pub. L. 101–189, div. A, title XII, § 1205, Nov. 29, 1989, 103 Stat. 1564, provided that:
+Pub. L. 101–189, div. A, title XII, § 1205, Nov. 29, 1989, 103 Stat. 1564, provided that:
 
 > “The Secretary of Defense shall ensure that adequate research and development activities of the Department of Defense, including research and development activities of the Defense Advanced Research Projects Agency, are devoted to technologies designed to improve—
 
@@ -467,7 +467,7 @@ Pub. L. 101–189, div. A, title XII, § 1205, Nov. 29, 1989, 103 Stat. 1564, 
 
 **Training Exercises in Drug-Interdiction Areas**
 
-Pub. L. 101–189, div. A, title XII, § 1206, Nov. 29, 1989, 103 Stat. 1564, provided that:
+Pub. L. 101–189, div. A, title XII, § 1206, Nov. 29, 1989, 103 Stat. 1564, provided that:
 
 > **“(a) Exercises Required.—** The Secretary of Defense shall direct that the armed forces, to the maximum extent practicable, shall conduct military training exercises (including training exercises conducted by the reserve components) in drug-interdiction areas.
 
@@ -483,7 +483,7 @@ Pub. L. 101–189, div. A, title XII, § 1206, Nov. 29, 1989, 103 Stat. 1564, 
 
 > **“(c) Drug-Interdiction Areas Defined.—** For purposes of this section, the term ‘drug-interdiction areas’ includes land and sea areas in which, as determined by the Secretary, the smuggling of drugs into the United States occurs or is believed by the Secretary to have occurred.”
 
-## § 125. Functions, powers, and duties: transfer, reassignment, consolidation, or abolition
+## § 125. Functions, powers, and duties: transfer, reassignment, consolidation, or abolition
 
 **(a)** Subject to section 2 of the National Security Act of 1947 (50 U.S.C. 3002), the Secretary of Defense shall take appropriate action (including the transfer, reassignment, consolidation, or abolition of any function, power, or duty) to provide more effective, efficient, and economical administration and operation, and to eliminate duplication, in the Department of Defense. However, except as provided by subsections (b) and (c), a function, power, or duty vested in the Department of Defense, or an officer, official, or agency thereof, by law may not be substantially transferred, reassigned, consolidated, or abolished.
 
@@ -491,14 +491,14 @@ Pub. L. 101–189, div. A, title XII, § 1206, Nov. 29, 1989, 103 Stat. 1564, 
 
 **(c)** Notwithstanding subsection (a), the Secretary of Defense may assign or reassign the development and operational use of new weapons or weapons systems to one or more of the military departments or one or more of the armed forces.
 
-(Added Pub. L. 87–651, title II, § 201(a), Sept. 7, 1962, 76 Stat. 515; amended Pub. L. 89–501, title IV, § 401, July 13, 1966, 80 Stat. 278; Pub. L. 98–525, title XIV, § 1405(1), Oct. 19, 1984, 98 Stat. 2621; Pub. L. 99–433, title I, § 103, title III, § 301(b)(1), title V, § 514(c)(1), Oct. 1, 1986, 100 Stat. 996, 1022, 1055; Pub. L. 101–510, div. A, title XIII, § 1301(3), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 113–291, div. A, title X, § 1071(c)(1), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(A), (b)(6), Jan. 1, 2021, 134 Stat. 3821, 3822.)
+(Added Pub. L. 87–651, title II, § 201(a), Sept. 7, 1962, 76 Stat. 515; amended Pub. L. 89–501, title IV, § 401, July 13, 1966, 80 Stat. 278; Pub. L. 98–525, title XIV, § 1405(1), Oct. 19, 1984, 98 Stat. 2621; Pub. L. 99–433, title I, § 103, title III, § 301(b)(1), title V, § 514(c)(1), Oct. 1, 1986, 100 Stat. 996, 1022, 1055; Pub. L. 101–510, div. A, title XIII, § 1301(3), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 113–291, div. A, title X, § 1071(c)(1), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(A), (b)(6), Jan. 1, 2021, 134 Stat. 3821, 3822.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 125(a)     125(b)     125(c) 125(d) | 5:171a(c)(1), (2). 5:171n(a) (as applicable to 5:171a(c)(1)). 5:171a(c)(5). 5:171n(a) (as applicable to 5:171a(c)(5)). 5:171a(c)(4). 5:171a(c)(6). 5:171n(a) (as applicable to 5:171a(c)(6)). | July 26, 1947, ch. 343, § 202(c)(1), (2), (4), (5), (6); added Aug. 10, 1949, ch. 412, § 5(3d, 4th, 6th, 7th, and 8th pars.); restated Aug. 6, 1958, Pub. L. 85–599, § 3(a), (1st, 2d, 5th, 6th, and 7th pars.), 72 Stat. 514, 515. |
-|  |  | July 26, 1947, ch. 343, § 308(a) (as applicable to § 202(c)(1), (5), (6)), 61 Stat. 509. |
+| 125(a) 125(b) 125(c) 125(d) | 5:171a(c)(1), (2). 5:171n(a) (as applicable to 5:171a(c)(1)). 5:171a(c)(5). 5:171n(a) (as applicable to 5:171a(c)(5)). 5:171a(c)(4). 5:171a(c)(6). 5:171n(a) (as applicable to 5:171a(c)(6)). | July 26, 1947, ch. 343, § 202(c)(1), (2), (4), (5), (6); added Aug. 10, 1949, ch. 412, § 5(3d, 4th, 6th, 7th, and 8th pars.); restated Aug. 6, 1958, Pub. L. 85–599, § 3(a), (1st, 2d, 5th, 6th, and 7th pars.), 72 Stat. 514, 515. |
+|  |  | July 26, 1947, ch. 343, § 308(a) (as applicable to § 202(c)(1), (5), (6)), 61 Stat. 509. |
 
 In subsection (a), the following substitutions are made: “Except as provided by subsections (b) and (c)” for “except as otherwise provided in this subsection”; “vested . . . by law” for “established by law to be performed by”; “recommending” for “stating”; “proposes” for “contemplates”; and “the period” for “the thirty-day period or the forty-day period”. The words “on the first day after” are inserted for clarity. The words “if carried out” are omitted as surplusage.
 
@@ -520,11 +520,11 @@ In subsection (d), the following substitutions are made: “In subsection (a) (1
 
 1990—Subsec. (c). Pub. L. 101–510 struck out at end “However, notwithstanding any other provision of this title or any other law, the Secretary of Defense shall not direct or approve a plan to initiate or effect a substantial reduction or elimination of a major weapons system until the Secretary of Defense has reported all the pertinent details of the proposed action to the Congress of the United States while the Congress is in session.”
 
-1986—Subsec. (a). Pub. L. 99–433, § 103(1), struck out provision under which the Secretary of Defense could substantially transfer, reassign, consolidate, or abolish functions, powers, or duties vested in the Department of Defense by law if the Secretary reported the details of the proposed transfer, reassignment, consolidation, or abolition to Congress and if Congress did not affirmatively reject the proposal.
+1986—Subsec. (a). Pub. L. 99–433, § 103(1), struck out provision under which the Secretary of Defense could substantially transfer, reassign, consolidate, or abolish functions, powers, or duties vested in the Department of Defense by law if the Secretary reported the details of the proposed transfer, reassignment, consolidation, or abolition to Congress and if Congress did not affirmatively reject the proposal.
 
-Subsec. (b). Pub. L. 99–433, §§ 103(2), 514(c)(1), inserted “vested by law in the Department of Defense, or an officer, official, or agency thereof” and substituted “5062, 5063” for “5012, 5013”.
+Subsec. (b). Pub. L. 99–433, §§ 103(2), 514(c)(1), inserted “vested by law in the Department of Defense, or an officer, official, or agency thereof” and substituted “5062, 5063” for “5012, 5013”.
 
-Subsec. (d). Pub. L. 99–433, § 301(b)(1), struck out subsec. (d) which read as follows: “In subsection (a)(1), ‘major combatant function, power, or duty’ does not include a supply or service activity common to more than one military department. The Secretary of Defense shall, whenever he determines it will be more effective, economical, or efficient, provide for the performance of such an activity by one agency or such other organizations as he considers appropriate.”
+Subsec. (d). Pub. L. 99–433, § 301(b)(1), struck out subsec. (d) which read as follows: “In subsection (a)(1), ‘major combatant function, power, or duty’ does not include a supply or service activity common to more than one military department. The Secretary of Defense shall, whenever he determines it will be more effective, economical, or efficient, provide for the performance of such an activity by one agency or such other organizations as he considers appropriate.”
 
 1984—Subsec. (a). Pub. L. 98–525 substituted “section 2 of the National Security Act of 1947 (50 U.S.C. 401)” for “section 401 of title 50”.
 
@@ -538,7 +538,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Resolutions Relating to Transfers, Reassignments, Consolidations, or Abolitions of Combatant Functions**
 
-Pub. L. 87–651, title III, § 303, Sept. 7, 1962, 76 Stat. 525, provided that:
+Pub. L. 87–651, title III, § 303, Sept. 7, 1962, 76 Stat. 525, provided that:
 
 > **“(a)** For the purposes of this section, any resolution reported to the Senate or the House of Representatives pursuant to the provisions of section 125 of title 10, United States Code, shall be treated for the purpose of consideration by either House, in the same manner as a resolution with respect to a reorganization plan reported by a committee within the meaning of the Reorganization Act of 1949 as in effect on July 1, 1958 (5 U.S.C. 133z and the following) [63 Stat. 203; 71 Stat. 611], and shall be governed by the provisions applicable to the consideration of any such resolution by either House of the Congress as provided by sections 205 and 206 of that Act [63 Stat. 207].
 
@@ -548,7 +548,7 @@ Pub. L. 87–651, title III, § 303, Sept. 7, 1962, 76 Stat. 525, provided tha
 
 > **“(2)** with full recognition of the constitutional right of either House to change the rules (as far as relating to the procedure in that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.”
 
-## § 125a. Reform: improvement of efficacy and efficiency
+## § 125a. Reform: improvement of efficacy and efficiency
 
 **(a) In General.—** The Secretary of Defense shall take such action as is necessary to reform the Department of Defense to improve the efficacy and efficiency of the Department, and to improve the ability of the Department to prioritize among and assess the costs and benefits of covered elements of reform.
 
@@ -598,23 +598,23 @@ Pub. L. 87–651, title III, § 303, Sept. 7, 1962, 76 Stat. 525, provided tha
 
 **(2)** The proposed activities, expenditures, and accomplishments to effect reform under this section, and consistent with priorities established by the Secretary, during the fiscal year covered by such budget and each of the four succeeding fiscal years.
 
-(Added Pub. L. 116–283, div. A, title IX, § 911(a)(1), Jan. 1, 2021, 134 Stat. 3800; amended Pub. L. 117–263, div. A, title IX, § 911, Dec. 23, 2022, 136 Stat. 2750.)
+(Added Pub. L. 116–283, div. A, title IX, § 911(a)(1), Jan. 1, 2021, 134 Stat. 3800; amended Pub. L. 117–263, div. A, title IX, § 911, Dec. 23, 2022, 136 Stat. 2750.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (c)(1). Pub. L. 117–263, § 911(1)(A), substituted “2023” for “2022”.
+2022—Subsec. (c)(1). Pub. L. 117–263, § 911(1)(A), substituted “2023” for “2022”.
 
-Subsec. (c)(3). Pub. L. 117–263, § 911(1)(B), inserted “the Director for Administration and Management of the Department of Defense,” after “the Chief Information Officer of the Department of Defense,”.
+Subsec. (c)(3). Pub. L. 117–263, § 911(1)(B), inserted “the Director for Administration and Management of the Department of Defense,” after “the Chief Information Officer of the Department of Defense,”.
 
-Subsec. (d)(6) to (9). Pub. L. 117–263, § 911(2), added pars. (6) to (8) and redesignated former par. (6) as (9).
+Subsec. (d)(6) to (9). Pub. L. 117–263, § 911(2), added pars. (6) to (8) and redesignated former par. (6) as (9).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Strategic Management Dashboard Demonstration**
 
-Pub. L. 117–263, div. A, title IX, § 916, Dec. 23, 2022, 136 Stat. 2755, provided that:
+Pub. L. 117–263, div. A, title IX, § 916, Dec. 23, 2022, 136 Stat. 2755, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall conduct a demonstration of a strategic management dashboard to automate the data collection and data visualization of the primary management goals of the Department of Defense.
 
@@ -656,13 +656,13 @@ Pub. L. 117–263, div. A, title IX, § 916, Dec. 23, 2022, 136 Stat. 2755, pr
 
 **Implementing Policies, Guidance, and Reporting Framework**
 
-Pub. L. 116–283, div. A, title IX, § 911(b), Jan. 1, 2021, 134 Stat. 3801, provided that:
+Pub. L. 116–283, div. A, title IX, § 911(b), Jan. 1, 2021, 134 Stat. 3801, provided that:
 
 > **“(1) Submittal to congress.—** Not later than March 1, 2022, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report setting forth the policies, guidance, and reporting framework established pursuant to subsection (c) of section 125a of title 10, United States Code (as added by subsection (a) of this section).
 
 > **“(2) Update.—** Not later than 90 days after the date of the submittal to Congress of the report required by section 901(d) of this Act [10 U.S.C. 132a note], the Secretary shall update the reporting framework referred to in paragraph (1).”
 
-## § 126. Transfer of funds and employees
+## § 126. Transfer of funds and employees
 
 **(a)** When a function, power, or duty or an activity of a department or agency of the Department of Defense is transferred or assigned to another department or agency of that department, balances of appropriations that the Secretary of Defense determines are available and needed to finance or discharge that function, power, duty, or activity, as the case may be, may, with the approval of the President, be transferred to the department or agency to which that function, power, duty or activity, as the case may be, is transferred, and used for any purpose for which those appropriations were originally available. Balances of appropriations so transferred shall—
 
@@ -674,14 +674,14 @@ and be merged with the funds already credited to that account and accounted for 
 
 **(b)** When a function, power, or duty or an activity of a department or agency of the Department of Defense is transferred to another department or agency of that department, those civilian employees of the department or agency from which the transfer is made that the Secretary of Defense determines are needed to perform that function, power, or duty, or for that activity, as the case may be, may, with the approval of the President, be transferred to the department or agency to which that function, power, duty, or activity, as the case may be, is transferred. The authorized strength in civilian employees of a department or agency from which employees are transferred under this section is reduced by the number of employees so transferred. The authorized strength in civilian employees of a department or agency to which employees are transferred under this section is increased by the number of employees so transferred.
 
-(Added Pub. L. 87–651, title II, § 201(a), Sept. 7, 1962, 76 Stat. 516; amended Pub. L. 96–513, title V, § 511(2), Dec. 12, 1980, 94 Stat. 2920.)
+(Added Pub. L. 87–651, title II, § 201(a), Sept. 7, 1962, 76 Stat. 516; amended Pub. L. 96–513, title V, § 511(2), Dec. 12, 1980, 94 Stat. 2920.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 126(a)     126(b) | 5:172f(a). 5:171n(a) (as applicable to 5:172f(a)). 5:172f (less (a)). | July 26, 1947, ch. 343, § 407; added Aug. 10, 1949, ch. 412, § 11 (21st and 22d pars.), 63 Stat. 589. |
-|  |  | July 26, 1947, ch. 343, § 308(a) (as applicable to § 407), 61 Stat. 509. |
+| 126(a) 126(b) | 5:172f(a). 5:171n(a) (as applicable to 5:172f(a)). 5:172f (less (a)). | July 26, 1947, ch. 343, § 407; added Aug. 10, 1949, ch. 412, § 11 (21st and 22d pars.), 63 Stat. 589. |
+|  |  | July 26, 1947, ch. 343, § 308(a) (as applicable to § 407), 61 Stat. 509. |
 
 In subsection (a), the words “under authority of law” are omitted as surplusage. The following substitutions are made: “needed” for “necessary”; “used” for “be available for use by”; and “those appropriations” for “said funds”.
 
@@ -705,7 +705,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 Authority of President under subsec. (a) of this section to approve transfers of balances of appropriations provided for therein delegated to Director of Office of Management and Budget, see section 9(2) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
-## § 127. Emergency and extraordinary expenses
+## § 127. Emergency and extraordinary expenses
 
 **(a)** Subject to the limitations of subsection (c), and within the limitation of appropriations made for the purpose, the Secretary of Defense, the Inspector General of the Department of Defense, and the Secretary of a military department within his department, may provide for any emergency or extraordinary expense which cannot be anticipated or classified. When it is so provided in such an appropriation, the funds may be spent on approval or authority of the Secretary concerned or the Inspector General for any purpose he determines to be proper, and such a determination is final and conclusive upon the accounting officers of the United States. The Secretary concerned or the Inspector General may certify the amount of any such expenditure authorized by him that he considers advisable not to specify, and his certificate is sufficient voucher for the expenditure of that amount. The authority to expend amounts made available for the Military Intelligence Program for intelligence and counterintelligence objects of a confidential, extraordinary, or emergency nature is provided by section 429a of this title instead of this section.
 
@@ -751,7 +751,7 @@ Authority of President under subsec. (a) of this section to approve transfers of
 
 **(e) Definition of Congressional Intelligence Committees.—** In this section, the term “congressional intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(Added Pub. L. 94–106, title VIII, § 804(a), Oct. 7, 1975, 89 Stat. 538, § 140; amended Pub. L. 98–94, title XII, § 1268(2), Sept. 24, 1983, 97 Stat. 705; renumbered § 127 and amended Pub. L. 99–433, title I, §§ 101(a)(3), 110(d)(4), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 103–160, div. A, title III, § 361, Nov. 30, 1993, 107 Stat. 1627; Pub. L. 103–337, div. A, title III, § 378, Oct. 5, 1994, 108 Stat. 2737; Pub. L. 104–106, div. A, title IX, § 915, title XV, § 1502(a)(5), Feb. 10, 1996, 110 Stat. 413, 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1031(a)(2), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 115–91, div. A, title X, §§ 1041(a)–(c), 1081(a)(4), Dec. 12, 2017, 131 Stat. 1552, 1553, 1594; Pub. L. 116–92, div. A, title X, § 1012, title XVII, § 1731(a)(5), Dec. 20, 2019, 133 Stat. 1577, 1812; Pub. L. 118–159, div. A, title XVI, § 1614(e)(2), Dec. 23, 2024, 138 Stat. 2169.)
+(Added Pub. L. 94–106, title VIII, § 804(a), Oct. 7, 1975, 89 Stat. 538, § 140; amended Pub. L. 98–94, title XII, § 1268(2), Sept. 24, 1983, 97 Stat. 705; renumbered § 127 and amended Pub. L. 99–433, title I, §§ 101(a)(3), 110(d)(4), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 103–160, div. A, title III, § 361, Nov. 30, 1993, 107 Stat. 1627; Pub. L. 103–337, div. A, title III, § 378, Oct. 5, 1994, 108 Stat. 2737; Pub. L. 104–106, div. A, title IX, § 915, title XV, § 1502(a)(5), Feb. 10, 1996, 110 Stat. 413, 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1031(a)(2), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 115–91, div. A, title X, §§ 1041(a)–(c), 1081(a)(4), Dec. 12, 2017, 131 Stat. 1552, 1553, 1594; Pub. L. 116–92, div. A, title X, § 1012, title XVII, § 1731(a)(5), Dec. 20, 2019, 133 Stat. 1577, 1812; Pub. L. 118–159, div. A, title XVI, § 1614(e)(2), Dec. 23, 2024, 138 Stat. 2169.)
 
 **Editorial Notes**
 
@@ -759,35 +759,35 @@ Authority of President under subsec. (a) of this section to approve transfers of
 
 2024—Subsec. (a). Pub. L. 118–159 inserted at end “The authority to expend amounts made available for the Military Intelligence Program for intelligence and counterintelligence objects of a confidential, extraordinary, or emergency nature is provided by section 429a of this title instead of this section.”
 
-2019—Subsec. (c)(1). Pub. L. 116–92, § 1731(a)(5), inserted “the” before “congressional defense committees”.
+2019—Subsec. (c)(1). Pub. L. 116–92, § 1731(a)(5), inserted “the” before “congressional defense committees”.
 
-Subsec. (d)(2). Pub. L. 116–92, § 1012, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Each report required to be submitted under paragraph (1) shall include a detailed explanation, by category of activity and approving authority (the Secretary of Defense, the Inspector General of the Department of Defense, and the Secretary of a military department), of the expenditures during the preceding fiscal year.”
+Subsec. (d)(2). Pub. L. 116–92, § 1012, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Each report required to be submitted under paragraph (1) shall include a detailed explanation, by category of activity and approving authority (the Secretary of Defense, the Inspector General of the Department of Defense, and the Secretary of a military department), of the expenditures during the preceding fiscal year.”
 
-2017—Subsec. (c)(1). Pub. L. 115–91, § 1081(a)(4), substituted “congressional defense committees” for “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives” in introductory provisions.
+2017—Subsec. (c)(1). Pub. L. 115–91, § 1081(a)(4), substituted “congressional defense committees” for “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives” in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 115–91, § 1041(a), added par. (4).
+Subsec. (c)(4). Pub. L. 115–91, § 1041(a), added par. (4).
 
-Subsec. (d). Pub. L. 115–91, § 1041(b), designated existing provisions as par. (1), substituted “submit—” for “submit to the congressional defense committees a report on expenditures during the preceding fiscal year under subsections (a) and (b).”, added subpars. (A) and (B) of par. (1), and added par. (2).
+Subsec. (d). Pub. L. 115–91, § 1041(b), designated existing provisions as par. (1), substituted “submit—” for “submit to the congressional defense committees a report on expenditures during the preceding fiscal year under subsections (a) and (b).”, added subpars. (A) and (B) of par. (1), and added par. (2).
 
-Subsec. (e). Pub. L. 115–91, § 1041(c), added subsec. (e).
+Subsec. (e). Pub. L. 115–91, § 1041(c), added subsec. (e).
 
 2003—Subsec. (d). Pub. L. 108–136 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In any case in which funds are expended under the authority of subsections (a) and (b), the Secretary of Defense shall submit a report of such expenditures on a quarterly basis to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
 1999—Subsecs. (c)(1), (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1996—Subsec. (c). Pub. L. 104–106, § 915(2), added subsec. (c). Former subsec. (c) redesignated (d).
+1996—Subsec. (c). Pub. L. 104–106, § 915(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Pub. L. 104–106, § 1502(a)(5), substituted “Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of” for “Committees on Armed Services and Appropriations of the Senate and”.
+Pub. L. 104–106, § 1502(a)(5), substituted “Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of” for “Committees on Armed Services and Appropriations of the Senate and”.
 
-Subsec. (d). Pub. L. 104–106, § 915(1), redesignated subsec. (c), as amended by Pub. L. 104–106, §§ 1502(a)(5), 1506, as (d).
+Subsec. (d). Pub. L. 104–106, § 915(1), redesignated subsec. (c), as amended by Pub. L. 104–106, §§ 1502(a)(5), 1506, as (d).
 
 1994—Subsec. (c). Pub. L. 103–337 struck out par. (1) designation before “In any case” and struck out par. (2) which read as follows: “The amount of funds expended by the Inspector General of the Department of Defense under subsections (a) and (b) during a fiscal year may not exceed $400,000.”
 
-1993—Subsec. (a). Pub. L. 103–160, § 361(1), inserted “, the Inspector General of the Department of Defense,” after “the Secretary of Defense” and “or the Inspector General” after “the Secretary concerned” and after “The Secretary concerned”.
+1993—Subsec. (a). Pub. L. 103–160, § 361(1), inserted “, the Inspector General of the Department of Defense,” after “the Secretary of Defense” and “or the Inspector General” after “the Secretary concerned” and after “The Secretary concerned”.
 
-Subsec. (b). Pub. L. 103–160, § 361(2), inserted “, by the Inspector General to any person in the Office of the Inspector General,” after “the Department of Defense”.
+Subsec. (b). Pub. L. 103–160, § 361(2), inserted “, by the Inspector General to any person in the Office of the Inspector General,” after “the Department of Defense”.
 
-Subsec. (c). Pub. L. 103–160, § 361(3), designated existing provisions as par. (1) and added par. (2).
+Subsec. (c). Pub. L. 103–160, § 361(3), designated existing provisions as par. (1) and added par. (2).
 
 1986—Pub. L. 99–433 renumbered section 140 of this title as this section and substituted “Emergency” for “Emergencies” in section catchline.
 
@@ -799,9 +799,9 @@ Subsec. (c). Pub. L. 98–94 struck out “of this section” after “subsectio
 
 **Construction Authority of Secretary of Defense Under Declaration of War or National Emergency**
 
-Pub. L. 97–99, title IX, § 903, Dec. 23, 1981, 95 Stat. 1382, which authorized the Secretary of Defense, in the event of a declaration of war or the declaration of a national emergency by the President, to undertake military construction without regard to any other provisions of law, was repealed and restated as section 2808 of this title by Pub. L. 97–214, §§ 2(a), 7(18), July 12, 1982, 96 Stat. 157, 174, effective Oct. 1, 1982.
+Pub. L. 97–99, title IX, § 903, Dec. 23, 1981, 95 Stat. 1382, which authorized the Secretary of Defense, in the event of a declaration of war or the declaration of a national emergency by the President, to undertake military construction without regard to any other provisions of law, was repealed and restated as section 2808 of this title by Pub. L. 97–214, §§ 2(a), 7(18), July 12, 1982, 96 Stat. 157, 174, effective Oct. 1, 1982.
 
-## § 127a. Operations for which funds are not provided in advance: funding mechanisms
+## § 127a. Operations for which funds are not provided in advance: funding mechanisms
 
 **(a) In General.—**
 
@@ -841,7 +841,7 @@ Any operation the incremental cost of which is expected not to exceed $10,000,00
 
 **(6)** A transfer made from one account to another under the authority of this subsection shall be deemed to increase the amount authorized for the account to which the amount is transferred by an amount equal to the amount transferred.
 
-**[(d)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(3), Nov. 24, 2003, 117 Stat. 1596.]
+**[(d)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(3), Nov. 24, 2003, 117 Stat. 1596.]
 
 **(e) Limitations.—**
 
@@ -857,21 +857,21 @@ Any operation the incremental cost of which is expected not to exceed $10,000,00
 
 **(i) GAO Compliance Reviews.—** The Comptroller General of the United States shall from time to time, and when requested by a committee of Congress, conduct a review of the defense funding structure under this section to determine whether the Department of Defense is complying with the requirements and limitations of this section.
 
-(Added Pub. L. 103–160, div. A, title XI, § 1108(a)(1), Nov. 30, 1993, 107 Stat. 1751; amended Pub. L. 104–106, div. A, title X, § 1003(a)(1), Feb. 10, 1996, 110 Stat. 415; Pub. L. 108–136, div. A, title X, § 1031(a)(3), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 111–383, div. A, title X, § 1075(b)(2), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–81, div. A, title X, § 1061(1), Dec. 31, 2011, 125 Stat. 1583.)
+(Added Pub. L. 103–160, div. A, title XI, § 1108(a)(1), Nov. 30, 1993, 107 Stat. 1751; amended Pub. L. 104–106, div. A, title X, § 1003(a)(1), Feb. 10, 1996, 110 Stat. 415; Pub. L. 108–136, div. A, title X, § 1031(a)(3), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 111–383, div. A, title X, § 1075(b)(2), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–81, div. A, title X, § 1061(1), Dec. 31, 2011, 125 Stat. 1583.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
+The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 **Amendments**
 
-2011—Subsec. (a)(1)(A). Pub. L. 111–383, § 1075(b)(2)(A), substituted “armed forces” for “Armed Forces”.
+2011—Subsec. (a)(1)(A). Pub. L. 111–383, § 1075(b)(2)(A), substituted “armed forces” for “Armed Forces”.
 
 Subsec. (a)(3), (4). Pub. L. 112–81 redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Whenever an operation to which this section applies is commenced or subsequently becomes covered by this section, the Secretary of Defense shall designate and identify that operation for the purposes of this section and shall promptly notify Congress of that designation (and of the identification of the operation).”
 
-Subsec. (b)(1). Pub. L. 111–383, § 1075(b)(2)(B), substituted “armed forces” for “Armed Forces” in two places.
+Subsec. (b)(1). Pub. L. 111–383, § 1075(b)(2)(B), substituted “armed forces” for “Armed Forces” in two places.
 
 2003—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which required Secretary of Defense, within 45 days after identifying an operation pursuant to subsec. (a)(2), to submit a report to Congress relating to the funding, objectives, duration, cost, and exit criteria of the operation.
 
@@ -881,19 +881,19 @@ Subsec. (b)(1). Pub. L. 111–383, § 1075(b)(2)(B), substituted “armed forc
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title X, § 1003(b), Feb. 10, 1996, 110 Stat. 417, provided that: “The amendment to section 127a of title 10, United States Code, made by subsection (a) shall take effect on the date of the enactment of this Act [Feb. 10, 1996] and shall apply to any operation of the Department of Defense that is in effect on or after that date, whether such operation is begun before, on, or after such date of enactment. In the case of an operation begun before such date, any reference in such section to the commencement of such operation shall be treated as referring to the effective date under the preceding sentence.”
+Pub. L. 104–106, div. A, title X, § 1003(b), Feb. 10, 1996, 110 Stat. 417, provided that: “The amendment to section 127a of title 10, United States Code, made by subsection (a) shall take effect on the date of the enactment of this Act [Feb. 10, 1996] and shall apply to any operation of the Department of Defense that is in effect on or after that date, whether such operation is begun before, on, or after such date of enactment. In the case of an operation begun before such date, any reference in such section to the commencement of such operation shall be treated as referring to the effective date under the preceding sentence.”
 
 **Incremental Contingency Operations Cost Report**
 
-Pub. L. 114–113, div. C, title VIII, § 8093, Dec. 18, 2015, 129 Stat. 2373, provided that: “The Department of Defense shall continue to report incremental contingency operations costs for Operation Inherent Resolve, Operation Freedom’s Sentinel, and any named successor operations, on a monthly basis and any other operation designated and identified by the Secretary of Defense for the purposes of section 127a of title 10, United States Code, on a semi-annual basis in the Cost of War Execution Report as prescribed in the Department of Defense Financial Management Regulation Department of Defense Instruction 7000.14, Volume 12, Chapter 23 ‘Contingency Operations’, Annex 1, dated September 2005.”
+Pub. L. 114–113, div. C, title VIII, § 8093, Dec. 18, 2015, 129 Stat. 2373, provided that: “The Department of Defense shall continue to report incremental contingency operations costs for Operation Inherent Resolve, Operation Freedom’s Sentinel, and any named successor operations, on a monthly basis and any other operation designated and identified by the Secretary of Defense for the purposes of section 127a of title 10, United States Code, on a semi-annual basis in the Cost of War Execution Report as prescribed in the Department of Defense Financial Management Regulation Department of Defense Instruction 7000.14, Volume 12, Chapter 23 ‘Contingency Operations’, Annex 1, dated September 2005.”
 
 Similar provisions were contained in the following appropriation acts:
 
-Pub. L. 113–235, div. C, title VIII, § 8097, Dec. 16, 2014, 128 Stat. 2276.
+Pub. L. 113–235, div. C, title VIII, § 8097, Dec. 16, 2014, 128 Stat. 2276.
 
-Pub. L. 113–76, div. C, title VIII, § 8092, Jan. 17, 2014, 128 Stat. 126.
+Pub. L. 113–76, div. C, title VIII, § 8092, Jan. 17, 2014, 128 Stat. 126.
 
-## § 127b. Department of Defense rewards program
+## § 127b. Department of Defense rewards program
 
 **(a) Authority.—** The Secretary of Defense may pay a monetary amount, or provide a payment-in-kind, to a person as a reward for providing United States Government personnel, or government personnel of allied forces participating in a combined operation with the armed forces, with information or nonlethal assistance that is beneficial to—
 
@@ -969,21 +969,21 @@ Pub. L. 113–76, div. C, title VIII, § 8092, Jan. 17, 2014, 128 Stat. 126.
 
 **(3)** An estimate of the amount or value of the rewards to be paid as monetary payment or payment-in-kind under this section.
 
-(Added Pub. L. 107–314, div. A, title X, § 1065(a), Dec. 2, 2002, 116 Stat. 2655; amended Pub. L. 109–163, div. A, title X, § 1056(c)(2), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 109–364, div. A, title XIV, § 1401, Oct. 17, 2006, 120 Stat. 2433; Pub. L. 110–181, div. A, title X, § 1033, Jan. 28, 2008, 122 Stat. 307; Pub. L. 111–84, div. A, title X, § 1071, Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, § 1031, Jan. 7, 2011, 124 Stat. 4351; Pub. L. 112–81, div. A, title X, §§ 1033, 1064(3), Dec. 31, 2011, 125 Stat. 1572, 1587; Pub. L. 112–239, div. A, title X, § 1021(a), Jan. 2, 2013, 126 Stat. 1911; Pub. L. 113–291, div. A, title X, § 1031, Dec. 19, 2014, 128 Stat. 3491; Pub. L. 114–92, div. A, title X, § 1042(a)–(d)(1), Nov. 25, 2015, 129 Stat. 976; Pub. L. 114–328, div. A, title X, § 1063, Dec. 23, 2016, 130 Stat. 2408.)
+(Added Pub. L. 107–314, div. A, title X, § 1065(a), Dec. 2, 2002, 116 Stat. 2655; amended Pub. L. 109–163, div. A, title X, § 1056(c)(2), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 109–364, div. A, title XIV, § 1401, Oct. 17, 2006, 120 Stat. 2433; Pub. L. 110–181, div. A, title X, § 1033, Jan. 28, 2008, 122 Stat. 307; Pub. L. 111–84, div. A, title X, § 1071, Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, § 1031, Jan. 7, 2011, 124 Stat. 4351; Pub. L. 112–81, div. A, title X, §§ 1033, 1064(3), Dec. 31, 2011, 125 Stat. 1572, 1587; Pub. L. 112–239, div. A, title X, § 1021(a), Jan. 2, 2013, 126 Stat. 1911; Pub. L. 113–291, div. A, title X, § 1031, Dec. 19, 2014, 128 Stat. 3491; Pub. L. 114–92, div. A, title X, § 1042(a)–(d)(1), Nov. 25, 2015, 129 Stat. 976; Pub. L. 114–328, div. A, title X, § 1063, Dec. 23, 2016, 130 Stat. 2408.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (h)(2). Pub. L. 114–328, § 1063(1), inserted “and justification” after “reason”.
+2016—Subsec. (h)(2). Pub. L. 114–328, § 1063(1), inserted “and justification” after “reason”.
 
-Subsec. (h)(3). Pub. L. 114–328, § 1063(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A justification for the designation of the country for purposes of this section.”
+Subsec. (h)(3). Pub. L. 114–328, § 1063(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A justification for the designation of the country for purposes of this section.”
 
-2015—Pub. L. 114–92, § 1042(d)(1), substituted “Department of Defense rewards program” for “Assistance in combating terrorism: rewards” in section catchline.
+2015—Pub. L. 114–92, § 1042(d)(1), substituted “Department of Defense rewards program” for “Assistance in combating terrorism: rewards” in section catchline.
 
-Subsec. (c)(3)(A). Pub. L. 114–92, § 1042(a)(1), substituted “subparagraph (B)” for “subparagraphs (B) and (C)”.
+Subsec. (c)(3)(A). Pub. L. 114–92, § 1042(a)(1), substituted “subparagraph (B)” for “subparagraphs (B) and (C)”.
 
-Subsec. (c)(3)(C), (D). Pub. L. 114–92, § 1042(a)(2), struck out subpars. (C) and (D) which read as follows:
+Subsec. (c)(3)(C), (D). Pub. L. 114–92, § 1042(a)(2), struck out subpars. (C) and (D) which read as follows:
 
 “(C) Rewards may not be made in the manner described in subparagraph (A) after September 30, 2015.
 
@@ -995,45 +995,45 @@ Subsec. (c)(3)(C), (D). Pub. L. 114–92, § 1042(a)(2), struck out subpars. (
 
 “(iii) assess the success of the reward in advancing the effort to combat terrorism.”
 
-Subsec. (f)(2)(D) to (G). Pub. L. 114–92, § 1042(b), redesignated subpars. (E) to (G) as (D) to (F), respectively, inserted “, including in which countries the program is being operated” before period at end of subpar. (D), and struck out former subpar. (D) which read as follows: “Information on the implementation of paragraph (3) of subsection (c).”
+Subsec. (f)(2)(D) to (G). Pub. L. 114–92, § 1042(b), redesignated subpars. (E) to (G) as (D) to (F), respectively, inserted “, including in which countries the program is being operated” before period at end of subpar. (D), and struck out former subpar. (D) which read as follows: “Information on the implementation of paragraph (3) of subsection (c).”
 
-Subsec. (h). Pub. L. 114–92, § 1042(c), added subsec. (h).
+Subsec. (h). Pub. L. 114–92, § 1042(c), added subsec. (h).
 
 2014—Subsec. (c)(3)(C). Pub. L. 113–291 substituted “September 30, 2015” for “September 30, 2014”.
 
 2013—Subsec. (c)(3)(C). Pub. L. 112–239 substituted “September 30, 2014” for “September 30, 2013”.
 
-2011—Subsec. (c)(3)(C). Pub. L. 112–81, § 1033(1), substituted “September 30, 2013” for “September 30, 2011”.
+2011—Subsec. (c)(3)(C). Pub. L. 112–81, § 1033(1), substituted “September 30, 2013” for “September 30, 2011”.
 
 Pub. L. 111–383 substituted “2011” for “2010”.
 
-Subsec. (f)(1). Pub. L. 112–81, § 1064(3), which directed the substitution of “February 1” for “December 1”, could not be executed because of the intervening amendment by Pub. L. 112–81, § 1033(2)(A). See note below.
+Subsec. (f)(1). Pub. L. 112–81, § 1064(3), which directed the substitution of “February 1” for “December 1”, could not be executed because of the intervening amendment by Pub. L. 112–81, § 1033(2)(A). See note below.
 
-Pub. L. 112–81, § 1033(2)(A), substituted “February” for “December”.
+Pub. L. 112–81, § 1033(2)(A), substituted “February” for “December”.
 
-Subsec. (f)(2)(C)(ii). Pub. L. 112–81, § 1033(2)(B)(i), inserted “and the recipient’s geographic location” after “reward”.
+Subsec. (f)(2)(C)(ii). Pub. L. 112–81, § 1033(2)(B)(i), inserted “and the recipient’s geographic location” after “reward”.
 
-Subsec. (f)(2)(E) to (G). Pub. L. 112–81, § 1033(2)(B)(ii), added subpars. (E) to (G).
+Subsec. (f)(2)(E) to (G). Pub. L. 112–81, § 1033(2)(B)(ii), added subpars. (E) to (G).
 
 2009—Subsec. (c)(3)(C). Pub. L. 111–84 substituted “2010” for “2009”.
 
-2008—Subsec. (a). Pub. L. 110–181, § 1033(b)(1)(A), in introductory provisions, inserted “, or government personnel of allied forces participating in a combined operation with the armed forces,” after “United States Government personnel”.
+2008—Subsec. (a). Pub. L. 110–181, § 1033(b)(1)(A), in introductory provisions, inserted “, or government personnel of allied forces participating in a combined operation with the armed forces,” after “United States Government personnel”.
 
-Subsec. (a)(1). Pub. L. 110–181, § 1033(b)(1)(B), inserted “, or of allied forces participating in a combined operation with the armed forces,” after “armed forces”.
+Subsec. (a)(1). Pub. L. 110–181, § 1033(b)(1)(B), inserted “, or of allied forces participating in a combined operation with the armed forces,” after “armed forces”.
 
-Subsec. (a)(2). Pub. L. 110–181, § 1033(b)(1)(C), inserted “, or of allied forces participating in a combined operation with the armed forces” after “armed forces”.
+Subsec. (a)(2). Pub. L. 110–181, § 1033(b)(1)(C), inserted “, or of allied forces participating in a combined operation with the armed forces” after “armed forces”.
 
-Subsec. (b). Pub. L. 110–181, § 1033(a)(1), substituted “$5,000,000” for “$200,000”.
+Subsec. (b). Pub. L. 110–181, § 1033(a)(1), substituted “$5,000,000” for “$200,000”.
 
-Subsec. (c)(1)(B). Pub. L. 110–181, § 1033(a)(2), substituted “$1,000,000” for “$50,000”.
+Subsec. (c)(1)(B). Pub. L. 110–181, § 1033(a)(2), substituted “$1,000,000” for “$50,000”.
 
-Subsec. (c)(3). Pub. L. 110–181, § 1033(b)(2), added par. (3).
+Subsec. (c)(3). Pub. L. 110–181, § 1033(b)(2), added par. (3).
 
-Subsec. (d)(2). Pub. L. 110–181, § 1033(a)(3), substituted “$2,000,000” for “$100,000”.
+Subsec. (d)(2). Pub. L. 110–181, § 1033(a)(3), substituted “$2,000,000” for “$100,000”.
 
-Subsec. (f)(2)(D). Pub. L. 110–181, § 1033(c), added subpar. (D).
+Subsec. (f)(2)(D). Pub. L. 110–181, § 1033(c), added subpar. (D).
 
-2006—Subsec. (c)(2). Pub. L. 109–364 substituted “$10,000” for “$2,500”, inserted “, or to the commander of a command directly subordinate to that commander,” after “deputy commander”, and inserted at end “Such a delegation may be made to the commander of a command directly subordinate to the commander of a combatant command only with the approval of the Secretary of Defense, the Deputy Secretary of Defense, or an Under Secretary of Defense to whom authority has been delegated under subparagraph (1)(A).”
+2006—Subsec. (c)(2). Pub. L. 109–364 substituted “$10,000” for “$2,500”, inserted “, or to the commander of a command directly subordinate to that commander,” after “deputy commander”, and inserted at end “Such a delegation may be made to the commander of a command directly subordinate to the commander of a combatant command only with the approval of the Secretary of Defense, the Deputy Secretary of Defense, or an Under Secretary of Defense to whom authority has been delegated under subparagraph (1)(A).”
 
 Subsec. (d)(1). Pub. L. 109–163 substituted “Such policies” for “Such polices”.
 
@@ -1043,7 +1043,7 @@ Subsec. (d)(1). Pub. L. 109–163 substituted “Such policies” for “Such po
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (f) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
-## § 127c. Purchase of weapons overseas: force protection
+## § 127c. Purchase of weapons overseas: force protection
 
 **(a) Authority.—** When elements of the armed forces are engaged in ongoing military operations in a country, the Secretary of Defense may, for the purpose of protecting United States forces in that country, purchase weapons from any foreign person, foreign government, international organization, or other entity located in that country.
 
@@ -1055,7 +1055,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (f) of this s
 
 **(2)** A description of the dispositions (if any) during that six-month period of weapons purchased under subsection (a).
 
-(Added Pub. L. 109–163, div. A, title XII, § 1231(a), Jan. 6, 2006, 119 Stat. 3467.)
+(Added Pub. L. 109–163, div. A, title XII, § 1231(a), Jan. 6, 2006, 119 Stat. 3467.)
 
 **Editorial Notes**
 
@@ -1063,7 +1063,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (f) of this s
 
 Another section 127c was renumbered section 127d of this title prior to being renumbered section 331 of this title.
 
-## § 127d. Support of special operations for irregular warfare
+## § 127d. Support of special operations for irregular warfare
 
 **(a) Authority.—** The Secretary of Defense may, with the concurrence of the relevant Chief of Mission, expend up to $20,000,000 during any fiscal year to provide support to foreign forces, irregular forces, groups, or individuals engaged in supporting or facilitating ongoing and authorized irregular warfare operations by United States Special Operations Forces.
 
@@ -1187,7 +1187,7 @@ Another section 127c was renumbered section 127d of this title prior to being re
 
 **(k) Irregular Warfare Defined.—** Subject to subsection (d), in this section, the term “irregular warfare” means Department of Defense activities not involving armed conflict that support predetermined United States policy and military objectives conducted by, with, and through regular forces, irregular forces, groups, and individuals.
 
-(Added Pub. L. 118–31, div. A, title XII, § 1201(a), Dec. 22, 2023, 137 Stat. 437.)
+(Added Pub. L. 118–31, div. A, title XII, § 1201(a), Dec. 22, 2023, 137 Stat. 437.)
 
 **Editorial Notes**
 
@@ -1199,7 +1199,7 @@ A prior section 127d was renumbered section 331 of this title.
 
 **Irregular Warfare Exercise Laboratory**
 
-Pub. L. 119–60, div. A, title X, § 1094, Dec. 18, 2025, 139 Stat. 1066, provided that:
+Pub. L. 119–60, div. A, title X, § 1094, Dec. 18, 2025, 139 Stat. 1066, provided that:
 
 > **“(a) In General.—** The Secretary of Defense may establish and maintain an Irregular Warfare Exercise Laboratory to—
 
@@ -1211,7 +1211,7 @@ Pub. L. 119–60, div. A, title X, § 1094, Dec. 18, 2025, 139 Stat. 1066, pro
 
 > **“(c) National Security Forces Defined.—** In this section, the term ‘national security forces’ has the meaning given that term in section 301 of title 10, United States Code.”
 
-## § 127e. Support of special operations to combat terrorism
+## § 127e. Support of special operations to combat terrorism
 
 **(a) Authority.—** The Secretary of Defense may, with the concurrence of the relevant Chief of Mission, expend up to $100,000,000 during any fiscal year to provide support to foreign forces, irregular forces, groups, or individuals engaged in supporting or facilitating authorized ongoing military operations by United States special operations forces to combat terrorism.
 
@@ -1301,47 +1301,47 @@ Pub. L. 119–60, div. A, title X, § 1094, Dec. 18, 2025, 139 Stat. 1066, pro
 
 **(H)** A value assessment of the support provided under this section, including a summary of significant activities undertaken by foreign forces, irregular forces, groups, or individuals to support operations by United States special operations forces to combat terrorism.
 
-(Added Pub. L. 114–328, div. A, title XII, § 1203(a)(1), Dec. 23, 2016, 130 Stat. 2474; amended Pub. L. 115–91, div. A, title X, § 1031, Dec. 12, 2017, 131 Stat. 1550; Pub. L. 116–92, div. A, title X, § 1041, Dec. 20, 2019, 133 Stat. 1585; Pub. L. 116–283, div. A, title X, §§ 1051, 1081(a)(7), Jan. 1, 2021, 134 Stat. 3847, 3871.)
+(Added Pub. L. 114–328, div. A, title XII, § 1203(a)(1), Dec. 23, 2016, 130 Stat. 2474; amended Pub. L. 115–91, div. A, title X, § 1031, Dec. 12, 2017, 131 Stat. 1550; Pub. L. 116–92, div. A, title X, § 1041, Dec. 20, 2019, 133 Stat. 1585; Pub. L. 116–283, div. A, title X, §§ 1051, 1081(a)(7), Jan. 1, 2021, 134 Stat. 3847, 3871.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (c). Pub. L. 116–283, § 1051(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The authority in this section shall be exercised in accordance with such procedures as the Secretary shall establish for purposes of this section. The Secretary shall notify the congressional defense committees of any material modification of such procedures.”
+2021—Subsec. (c). Pub. L. 116–283, § 1051(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The authority in this section shall be exercised in accordance with such procedures as the Secretary shall establish for purposes of this section. The Secretary shall notify the congressional defense committees of any material modification of such procedures.”
 
-Subsec. (d)(2)(G) to (I). Pub. L. 116–283, § 1051(2), added subpars. (G) to (I).
+Subsec. (d)(2)(G) to (I). Pub. L. 116–283, § 1051(2), added subpars. (G) to (I).
 
-Subsecs. (e), (f). Pub. L. 116–283, § 1051(3), (4), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsecs. (e), (f). Pub. L. 116–283, § 1051(3), (4), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 116–283, § 1051(5), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “This section does not constitute authority to conduct a covert action, as such term is defined in section 503(e) of the National Security Act of 1947 (50 U.S.C. 3093(e)).”
+Subsec. (g). Pub. L. 116–283, § 1051(5), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “This section does not constitute authority to conduct a covert action, as such term is defined in section 503(e) of the National Security Act of 1947 (50 U.S.C. 3093(e)).”
 
-Pub. L. 116–283, § 1051(3), redesignated subsec. (f) as (g).
+Pub. L. 116–283, § 1051(3), redesignated subsec. (f) as (g).
 
-Subsec. (h). Pub. L. 116–283, § 1081(a)(7), which directed the substitution of “Low Intensity” for “Low-Intensity” in subsec. (g) as redesignated by section 1051 of Pub. L. 116–283, was executed by making substitution in subsec. (h) as redesignated by section 1051, to reflect the probable intent of Congress.
+Subsec. (h). Pub. L. 116–283, § 1081(a)(7), which directed the substitution of “Low Intensity” for “Low-Intensity” in subsec. (g) as redesignated by section 1051 of Pub. L. 116–283, was executed by making substitution in subsec. (h) as redesignated by section 1051, to reflect the probable intent of Congress.
 
-Pub. L. 116–283, § 1051(3), reesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+Pub. L. 116–283, § 1051(3), reesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 116–283, § 1051(3), reesignated subsec. (h) as (i).
+Subsec. (i). Pub. L. 116–283, § 1051(3), reesignated subsec. (h) as (i).
 
-2019—Subsec. (a). Pub. L. 116–92, § 1041(1), inserted “authorized” before “ongoing military operations”.
+2019—Subsec. (a). Pub. L. 116–92, § 1041(1), inserted “authorized” before “ongoing military operations”.
 
-Subsec. (d)(2)(A). Pub. L. 116–92, § 1041(2)(A), inserted “and a description of the authorized ongoing operation” before period at end.
+Subsec. (d)(2)(A). Pub. L. 116–92, § 1041(2)(A), inserted “and a description of the authorized ongoing operation” before period at end.
 
-Subsec. (d)(2)(B) to (D). Pub. L. 116–92, § 1041(2)(B), (C), added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which read as follows: “The type of support provided or to be provided to the recipient of the funds.”.
+Subsec. (d)(2)(B) to (D). Pub. L. 116–92, § 1041(2)(B), (C), added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which read as follows: “The type of support provided or to be provided to the recipient of the funds.”.
 
-Subsec. (d)(2)(E), (F). Pub. L. 116–92, § 1041(2)(D), added subpars. (E) and (F).
+Subsec. (d)(2)(E), (F). Pub. L. 116–92, § 1041(2)(D), added subpars. (E) and (F).
 
-2017—Subsecs. (g), (h). Pub. L. 115–91, § 1031(a), added subsec. (g) and redesignated former subsec. (g) as (h).
+2017—Subsecs. (g), (h). Pub. L. 115–91, § 1031(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-Subsec. (h)(1). Pub. L. 115–91, § 1031(b)(1), substituted “120 days after the last day of each fiscal year” for “March 1 each year”.
+Subsec. (h)(1). Pub. L. 115–91, § 1031(b)(1), substituted “120 days after the last day of each fiscal year” for “March 1 each year”.
 
-Subsec. (h)(2). Pub. L. 115–91, § 1031(b)(2), substituted “six months after the date of the submittal of the report most recently submitted under paragraph (1)” for “September 1 each year” and inserted “under this paragraph” after “in which the report”.
+Subsec. (h)(2). Pub. L. 115–91, § 1031(b)(2), substituted “six months after the date of the submittal of the report most recently submitted under paragraph (1)” for “September 1 each year” and inserted “under this paragraph” after “in which the report”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Chief of Mission Concurrence**
 
-Pub. L. 117–81, div. E, title LVII, § 5703, Dec. 27, 2021, 135 Stat. 2382, provided that:
+Pub. L. 117–81, div. E, title LVII, § 5703, Dec. 27, 2021, 135 Stat. 2382, provided that:
 
 > “In the course of a chief of mission providing concurrence to the exercise of the authority pursuant to section 127e of title 10, United States Code, or section 1202 of the National Defense Authorization Act for Fiscal Year 2018 [Pub. L. 115–91; 131 Stat. 1639]—
 
@@ -1349,7 +1349,7 @@ Pub. L. 117–81, div. E, title LVII, § 5703, Dec. 27, 2021, 135 Stat. 2382, 
 
 > **“(2)** the Secretary of State shall take such steps as may be necessary to ensure that such relevant individuals have the security clearances necessary and access to relevant compartmented and special programs to so consult in a timely manner with respect to such concurrence.”
 
-## § 127f. Expenditure of funds for clandestine activities that support operational preparation of the environment and non-conventional assisted recovery capabilities
+## § 127f. Expenditure of funds for clandestine activities that support operational preparation of the environment and non-conventional assisted recovery capabilities
 
 **(a) Authority.—**
 
@@ -1421,27 +1421,27 @@ Pub. L. 117–81, div. E, title LVII, § 5703, Dec. 27, 2021, 135 Stat. 2382, 
 
 **(j) Operational Preparation of the Environment Defined.—** In this section, the term “operational preparation of the environment” means the conduct of activities in likely or potential operational areas to set conditions for mission execution.
 
-(Added Pub. L. 116–283, div. A, title X, § 1052(a), Jan. 1, 2021, 134 Stat. 3849; amended Pub. L. 117–81, div. A, title X, § 1093(b), Dec. 27, 2021, 135 Stat. 1935; Pub. L. 117–263, div. A, title XVI, § 1621, Dec. 23, 2022, 136 Stat. 2933; Pub. L. 118–31, div. A, title XII, § 1221(a), Dec. 22, 2023, 137 Stat. 451.)
+(Added Pub. L. 116–283, div. A, title X, § 1052(a), Jan. 1, 2021, 134 Stat. 3849; amended Pub. L. 117–81, div. A, title X, § 1093(b), Dec. 27, 2021, 135 Stat. 1935; Pub. L. 117–263, div. A, title XVI, § 1621, Dec. 23, 2022, 136 Stat. 2933; Pub. L. 118–31, div. A, title XII, § 1221(a), Dec. 22, 2023, 137 Stat. 451.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Pub. L. 118–31, § 1221(a)(1), inserted “and non-conventional assisted recovery capabilities” after “environment” in section catchline.
+2023—Pub. L. 118–31, § 1221(a)(1), inserted “and non-conventional assisted recovery capabilities” after “environment” in section catchline.
 
-Subsec. (a). Pub. L. 118–31, § 1221(a)(2), substituted par. (1) for “Subject to subsections (b) through (d), the Secretary of Defense may expend up to $15,000,000 in any fiscal year for clandestine activities for any purpose the Secretary determines to be proper for preparation of the environment for operations of a confidential nature.” and designated remainder of subsec. (a) as par. (2).
+Subsec. (a). Pub. L. 118–31, § 1221(a)(2), substituted par. (1) for “Subject to subsections (b) through (d), the Secretary of Defense may expend up to $15,000,000 in any fiscal year for clandestine activities for any purpose the Secretary determines to be proper for preparation of the environment for operations of a confidential nature.” and designated remainder of subsec. (a) as par. (2).
 
-Subsec. (b). Pub. L. 118–31, § 1221(a)(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Funds for expenditures under this section in a fiscal year shall be derived from amounts authorized to be appropriated for that fiscal year for operation and maintenance, Defense-wide.”
+Subsec. (b). Pub. L. 118–31, § 1221(a)(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Funds for expenditures under this section in a fiscal year shall be derived from amounts authorized to be appropriated for that fiscal year for operation and maintenance, Defense-wide.”
 
-Subsec. (c). Pub. L. 118–31, § 1221(a)(5), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 118–31, § 1221(a)(5), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 118–31, § 1221(a)(6), substituted “Limitations” for “Limitation on Delegation” in heading and “The Secretary of Defense—”, par. (1), and “(2) may not delegate” for “The Secretary of Defense may not delegate” in text.
+Subsec. (d). Pub. L. 118–31, § 1221(a)(6), substituted “Limitations” for “Limitation on Delegation” in heading and “The Secretary of Defense—”, par. (1), and “(2) may not delegate” for “The Secretary of Defense may not delegate” in text.
 
-Pub. L. 118–31, § 1221(a)(4), redesignated subsec. (c) as (d).
+Pub. L. 118–31, § 1221(a)(4), redesignated subsec. (c) as (d).
 
-Subsecs. (e) to (g). Pub. L. 118–31, § 1221(a)(4), redesignated subsecs. (d) to (f) as (e) to (g), respectively. Former subsec. (g) redesignated (h).
+Subsecs. (e) to (g). Pub. L. 118–31, § 1221(a)(4), redesignated subsecs. (d) to (f) as (e) to (g), respectively. Former subsec. (g) redesignated (h).
 
-Subsec. (g)(1) to (5). Pub. L. 118–31, § 1221(a)(7), added pars. (1) to (4), redesignated former par. (4) as (5), and struck out former pars. (1) to (3) which read as follows:
+Subsec. (g)(1) to (5). Pub. L. 118–31, § 1221(a)(7), added pars. (1) to (4), redesignated former par. (4) as (5), and struck out former pars. (1) to (3) which read as follows:
 
 “(1) the amount and date of such expenditure;
 
@@ -1449,15 +1449,15 @@ Subsec. (g)(1) to (5). Pub. L. 118–31, § 1221(a)(7), added pars. (1) to (4)
 
 “(3) an explanation why other authorities available to the Department of Defense could not be used for such expenditure; and”.
 
-Subsec. (h). Pub. L. 118–31, § 1221(a)(4), redesignated subsec. (g) as (h).
+Subsec. (h). Pub. L. 118–31, § 1221(a)(4), redesignated subsec. (g) as (h).
 
-Subsecs. (i), (j). Pub. L. 118–31, § 1221(a)(8), added subsecs. (i) and (j).
+Subsecs. (i), (j). Pub. L. 118–31, § 1221(a)(8), added subsecs. (i) and (j).
 
 2022—Subsecs. (e) to (g). Pub. L. 117–263 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 2021—Subsec. (f). Pub. L. 117–81 added subsec. (f).
 
-## § 128. Control and physical protection of special nuclear material: limitation on dissemination of unclassified information
+## § 128. Control and physical protection of special nuclear material: limitation on dissemination of unclassified information
 
 **(a)**
 
@@ -1487,7 +1487,7 @@ Subsecs. (i), (j). Pub. L. 118–31, § 1221(a)(8), added subsecs. (i) and (j)
 
 **(d)** Information that the Secretary prohibits to be disseminated pursuant to subsection (a) that is provided to a State or local government shall remain under the control of the Department of Defense, and a State or local law authorizing or requiring a State or local government to disclose such information shall not apply to such information.
 
-(Added Pub. L. 100–180, div. A, title XI, § 1123(a), Dec. 4, 1987, 101 Stat. 1149; amended Pub. L. 101–510, div. A, title XIII, § 1311(1), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 108–136, div. A, title X, § 1031(a)(4), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 114–328, div. A, title XVI, § 1662(a)(1), (2), Dec. 23, 2016, 130 Stat. 2614.)
+(Added Pub. L. 100–180, div. A, title XI, § 1123(a), Dec. 4, 1987, 101 Stat. 1149; amended Pub. L. 101–510, div. A, title XIII, § 1311(1), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 108–136, div. A, title X, § 1031(a)(4), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 114–328, div. A, title XVI, § 1662(a)(1), (2), Dec. 23, 2016, 130 Stat. 2614.)
 
 **Editorial Notes**
 
@@ -1497,47 +1497,47 @@ A prior section 128 was renumbered section 421 of this title.
 
 **Amendments**
 
-2016—Pub. L. 114–328, § 1662(a)(2), substituted “Control and physical protection” for “Physical protection” in section catchline.
+2016—Pub. L. 114–328, § 1662(a)(2), substituted “Control and physical protection” for “Physical protection” in section catchline.
 
-Subsec. (d). Pub. L. 114–328, § 1662(a)(1), added subsec. (d).
+Subsec. (d). Pub. L. 114–328, § 1662(a)(1), added subsec. (d).
 
 2003—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which required the Secretary to prepare an annual report detailing the Secretary’s application during the year of each regulation or order prescribed or issued under this section.
 
 1990—Subsec. (d). Pub. L. 101–510 substituted “on an annual basis” for “on a quarterly basis”.
 
-## § 129. Civilian personnel management
+## § 129. Civilian personnel management
 
 **(a)** The civilian personnel of the Department of Defense shall be managed each fiscal year solely on the basis of and consistent with (1) the total force management policies and procedures established under section 129a of this title, (2) the workload required to carry out the functions and activities of the department, and (3) the funds made available to the department for such fiscal year. The management of such personnel in any fiscal year shall not be subject to any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense except in accordance with the requirements of this section and section 129a of this title.
 
 **(b)** With respect to each budget activity within an appropriation for a fiscal year for operations and maintenance, the Secretary of Defense shall ensure that there are employed during that fiscal year employees in the number and with the combination of skills and qualifications that are necessary to carry out the functions within that budget activity as determined under the total force management policies and procedures established under section 129a of this title.
 
-(Added Pub. L. 97–86, title IX, § 904(a), Dec. 1, 1981, 95 Stat. 1114, § 140b; renumbered § 129, Pub. L. 99–433, title I, § 101(a)(3), Oct. 1, 1986, 100 Stat. 994; amended Pub. L. 99–661, div. A, title V, § 533, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 102–190, div. A, title III, § 312(b), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title X, § 1031, Feb. 10, 1996, 110 Stat. 428; Pub. L. 104–201, div. A, title X, § 1074(a)(1), title XVI, § 1603, Sept. 23, 1996, 110 Stat. 2658, 2735; Pub. L. 105–85, div. A, title XI, § 1101, Nov. 18, 1997, 111 Stat. 1922; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–81, div. A, title IX, § 932, Dec. 31, 2011, 125 Stat. 1543; Pub. L. 114–328, div. A, title XI, § 1101(a), (b)(1), Dec. 23, 2016, 130 Stat. 2443; Pub. L. 116–92, div. A, title XI, § 1103, Dec. 20, 2019, 133 Stat. 1596; Pub. L. 117–81, div. A, title XI, § 1102, Dec. 27, 2021, 135 Stat. 1949; Pub. L. 119–60, div. A, title IV, § 422(b)(2), (3), Dec. 18, 2025, 139 Stat. 850, 851.)
+(Added Pub. L. 97–86, title IX, § 904(a), Dec. 1, 1981, 95 Stat. 1114, § 140b; renumbered § 129, Pub. L. 99–433, title I, § 101(a)(3), Oct. 1, 1986, 100 Stat. 994; amended Pub. L. 99–661, div. A, title V, § 533, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 102–190, div. A, title III, § 312(b), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title X, § 1031, Feb. 10, 1996, 110 Stat. 428; Pub. L. 104–201, div. A, title X, § 1074(a)(1), title XVI, § 1603, Sept. 23, 1996, 110 Stat. 2658, 2735; Pub. L. 105–85, div. A, title XI, § 1101, Nov. 18, 1997, 111 Stat. 1922; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–81, div. A, title IX, § 932, Dec. 31, 2011, 125 Stat. 1543; Pub. L. 114–328, div. A, title XI, § 1101(a), (b)(1), Dec. 23, 2016, 130 Stat. 2443; Pub. L. 116–92, div. A, title XI, § 1103, Dec. 20, 2019, 133 Stat. 1596; Pub. L. 117–81, div. A, title XI, § 1102, Dec. 27, 2021, 135 Stat. 1949; Pub. L. 119–60, div. A, title IV, § 422(b)(2), (3), Dec. 18, 2025, 139 Stat. 850, 851.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (c). Pub. L. 119–60, § 422(b)(3), struck out subsec. (c) which required the Secretary of Defense to submit to the congressional defense committees a report on the management of the civilian workforce of the Office of the Secretary of Defense and the Defense Agencies and Field Activities and the Secretary of each military department to submit to the congressional defense committees a report on the management of the civilian workforces under the jurisdiction of such Secretary. See section 115a(d) of this title.
+2025—Subsec. (c). Pub. L. 119–60, § 422(b)(3), struck out subsec. (c) which required the Secretary of Defense to submit to the congressional defense committees a report on the management of the civilian workforce of the Office of the Secretary of Defense and the Defense Agencies and Field Activities and the Secretary of each military department to submit to the congressional defense committees a report on the management of the civilian workforces under the jurisdiction of such Secretary. See section 115a(d) of this title.
 
-Subsec. (c)(2). Pub. L. 119–60, § 422(b)(2), in introductory provisions, substituted “The matter to be included in each discussion under paragraph (1)” for “Each report under paragraph (1) shall contain” and “of each element of the Department of Defense named in such paragraph, is” for “under the jurisdiction of the official submitting the report,” and redesignated par. (2) as section 115a(d)(2) of this title.
+Subsec. (c)(2). Pub. L. 119–60, § 422(b)(2), in introductory provisions, substituted “The matter to be included in each discussion under paragraph (1)” for “Each report under paragraph (1) shall contain” and “of each element of the Department of Defense named in such paragraph, is” for “under the jurisdiction of the official submitting the report,” and redesignated par. (2) as section 115a(d)(2) of this title.
 
 2021—Subsec. (a). Pub. L. 117–81, in first sentence, substituted “solely” for “primarily” and, in second sentence, struck out “solely” after “shall not be subject”.
 
-2019—Subsec. (a). Pub. L. 116–92, § 1103(1), in first sentence, substituted “each fiscal year primarily” for “each fiscal year”, and in second sentence, substituted “The management of such personnel in any fiscal year shall not be subject solely to any” for “Any” and struck out “shall be developed on the basis of those factors and shall be subject to adjustment solely for reasons of changed circumstances” after “number of employees”.
+2019—Subsec. (a). Pub. L. 116–92, § 1103(1), in first sentence, substituted “each fiscal year primarily” for “each fiscal year”, and in second sentence, substituted “The management of such personnel in any fiscal year shall not be subject solely to any” for “Any” and struck out “shall be developed on the basis of those factors and shall be subject to adjustment solely for reasons of changed circumstances” after “number of employees”.
 
-Subsec. (c)(2)(A). Pub. L. 116–92, § 1103(2)(A), inserted “and associated cost” after “projected size”.
+Subsec. (c)(2)(A). Pub. L. 116–92, § 1103(2)(A), inserted “and associated cost” after “projected size”.
 
-Subsec. (c)(2)(B). Pub. L. 116–92, § 1103(2), inserted “and associated cost” after “projected size” in two places and substituted “to reduce the overall costs of the total force of military, civilian, and contract workforces.” for “that have been taken to identify offsetting reductions and avoid unnecessary overall growth in the size of the civilian workforce.”
+Subsec. (c)(2)(B). Pub. L. 116–92, § 1103(2), inserted “and associated cost” after “projected size” in two places and substituted “to reduce the overall costs of the total force of military, civilian, and contract workforces.” for “that have been taken to identify offsetting reductions and avoid unnecessary overall growth in the size of the civilian workforce.”
 
-2016—Pub. L. 114–328, § 1101(b)(1), amended section catchline generally, substituting “Civilian personnel management” for “Prohibition of certain civilian personnel management constraints”.
+2016—Pub. L. 114–328, § 1101(b)(1), amended section catchline generally, substituting “Civilian personnel management” for “Prohibition of certain civilian personnel management constraints”.
 
-Subsec. (a). Pub. L. 114–328, § 1101(a)(1), in first sentence, struck out “solely” before “on the basis”, in second sentence, substituted “Any” for “The management of such personnel in any fiscal year shall not be subject to any” and inserted “shall be developed on the basis of those factors and shall be subject to adjustment solely for reasons of changed circumstances” after “employees”, and in third sentence, substituted “except in accordance with the requirements of this section and section 129a of this title.” for “unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after February 10, 1996, and that refers specifically to this subsection.”
+Subsec. (a). Pub. L. 114–328, § 1101(a)(1), in first sentence, struck out “solely” before “on the basis”, in second sentence, substituted “Any” for “The management of such personnel in any fiscal year shall not be subject to any” and inserted “shall be developed on the basis of those factors and shall be subject to adjustment solely for reasons of changed circumstances” after “employees”, and in third sentence, substituted “except in accordance with the requirements of this section and section 129a of this title.” for “unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after February 10, 1996, and that refers specifically to this subsection.”
 
-Subsec. (b). Pub. L. 114–328, § 1101(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to the number of, and the amount of funds available to be paid to, indirectly funded Government employees of the Department of Defense.
+Subsec. (b). Pub. L. 114–328, § 1101(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to the number of, and the amount of funds available to be paid to, indirectly funded Government employees of the Department of Defense.
 
-Subsec. (c). Pub. L. 114–328, § 1101(a)(2), (4), added subsec. (c) and struck out former subsec. (c) which defined the term “indirectly funded Government employees”.
+Subsec. (c). Pub. L. 114–328, § 1101(a)(2), (4), added subsec. (c) and struck out former subsec. (c) which defined the term “indirectly funded Government employees”.
 
-Subsecs. (d) to (f). Pub. L. 114–328, § 1101(a)(2), (3), redesignated subsec. (d) as (b) and struck out subsecs. (e) and (f) which read as follows:
+Subsecs. (d) to (f). Pub. L. 114–328, § 1101(a)(2), (3), redesignated subsec. (d) as (b) and struck out subsecs. (e) and (f) which read as follows:
 
 “(e) Subsections (a), (b), and (c) apply to the Major Range and Test Facility Base (MRTFB) at the installation level.
 
@@ -1551,35 +1551,35 @@ Subsecs. (d) to (f). Pub. L. 114–328, § 1101(a)(2), (3), redesignated subse
 
 “(C) A detailed description of the analytical tools used to determine civilian workforce requirements during the 12-month period referred to in subparagraph (A).”
 
-2011—Subsec. (a). Pub. L. 112–81, § 932(1), inserted “the total force management policies and procedures established under section 129a of this title, (2)” after “(1)” and substituted “department, and (3)” for “department and (2)”.
+2011—Subsec. (a). Pub. L. 112–81, § 932(1), inserted “the total force management policies and procedures established under section 129a of this title, (2)” after “(1)” and substituted “department, and (3)” for “department and (2)”.
 
-Subsec. (d). Pub. L. 112–81, § 932(2), substituted “within that budget activity as determined under the total force management policies and procedures established under section 129a of this title.” for “within that budget activity for which funds are provided for that fiscal year.”
+Subsec. (d). Pub. L. 112–81, § 932(2), substituted “within that budget activity as determined under the total force management policies and procedures established under section 129a of this title.” for “within that budget activity for which funds are provided for that fiscal year.”
 
-Subsec. (e). Pub. L. 112–81, § 932(3), struck out at end “With respect to the MRTFB structure, the term ‘funds made available’ includes both direct appropriated funds and funds provided by MRTFB customers.”
+Subsec. (e). Pub. L. 112–81, § 932(3), struck out at end “With respect to the MRTFB structure, the term ‘funds made available’ includes both direct appropriated funds and funds provided by MRTFB customers.”
 
 1999—Subsec. (f)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1997—Subsec. (f). Pub. L. 105–85 added subsec. (f).
 
-1996—Subsec. (a). Pub. L. 104–201, § 1074(a)(1), substituted “February 10, 1996,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996”.
+1996—Subsec. (a). Pub. L. 104–201, § 1074(a)(1), substituted “February 10, 1996,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996”.
 
-Pub. L. 104–106, § 1031(1), substituted “constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996 and that refers specifically to this subsection.” for “man-year constraint or limitation.”
+Pub. L. 104–106, § 1031(1), substituted “constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996 and that refers specifically to this subsection.” for “man-year constraint or limitation.”
 
-Subsec. (b)(2). Pub. L. 104–106, § 1031(2), substituted “any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees” for “any end-strength”.
+Subsec. (b)(2). Pub. L. 104–106, § 1031(2), substituted “any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees” for “any end-strength”.
 
-Subsec. (c)(1). Pub. L. 104–201, § 1603(1), inserted “, the Major Range and Test Facility Base,” after “industrial-type activities”.
+Subsec. (c)(1). Pub. L. 104–201, § 1603(1), inserted “, the Major Range and Test Facility Base,” after “industrial-type activities”.
 
-Subsec. (d). Pub. L. 104–106, § 1031(3), added subsec. (d).
+Subsec. (d). Pub. L. 104–106, § 1031(3), added subsec. (d).
 
-Subsec. (e). Pub. L. 104–201, § 1603(2), added subsec. (e).
+Subsec. (e). Pub. L. 104–201, § 1603(2), added subsec. (e).
 
-1991—Subsec. (a). Pub. L. 102–190 substituted “department and (2)” for “department, (2)” and struck out “, and (3) the authorized end strength for the civilian personnel of the department for such fiscal year” at end of first sentence.
+1991—Subsec. (a). Pub. L. 102–190 substituted “department and (2)” for “department, (2)” and struck out “, and (3) the authorized end strength for the civilian personnel of the department for such fiscal year” at end of first sentence.
 
 1986—Pub. L. 99–661 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 Pub. L. 99–433 renumbered section 140b of this title as this section.
 
-## § 129a. General policy for total force management
+## § 129a. General policy for total force management
 
 **(a) Policies and Procedures.—** The Secretary of Defense shall establish policies and procedures for determining the most appropriate and cost efficient mix of military, civilian, and contractor personnel to perform the mission of the Department of Defense.
 
@@ -1643,7 +1643,7 @@ Pub. L. 99–433 renumbered section 140b of this title as this section.
 
 **(h) Report to Congressional Defense Committees.—** Not later than 1 year after the date of the enactment of this subsection and annually thereafter, the Secretary of Defense shall submit a report to the congressional defense committees containing the analysis conducted pursuant to subsection (b).
 
-(Added Pub. L. 101–510, div. A, title XIV, § 1483(b)(2), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 112–81, div. A, title IX, § 931(a), Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–328, div. A, title IX, § 914, Dec. 23, 2016, 130 Stat. 2350; Pub. L. 115–91, div. A, title X, §§ 1051(a)(6)(B), 1081(a)(5), Dec. 12, 2017, 131 Stat. 1560, 1594; Pub. L. 115–232, div. A, title IX, § 933, Aug. 13, 2018, 132 Stat. 1938; Pub. L. 116–92, div. A, title IX, § 902(1), title XI, § 1106, Dec. 20, 2019, 133 Stat. 1542, 1597; Pub. L. 116–283, div. A, title IX, § 912, title XVIII, §§ 1808(d)(1), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3802, 4160, 4294; Pub. L. 118–31, div. A, title IX, § 911, Dec. 22, 2023, 137 Stat. 364; Pub. L. 119–60, div. A, title XI, § 1107(b), (c), Dec. 18, 2025, 139 Stat. 1074.)
+(Added Pub. L. 101–510, div. A, title XIV, § 1483(b)(2), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 112–81, div. A, title IX, § 931(a), Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–328, div. A, title IX, § 914, Dec. 23, 2016, 130 Stat. 2350; Pub. L. 115–91, div. A, title X, §§ 1051(a)(6)(B), 1081(a)(5), Dec. 12, 2017, 131 Stat. 1560, 1594; Pub. L. 115–232, div. A, title IX, § 933, Aug. 13, 2018, 132 Stat. 1938; Pub. L. 116–92, div. A, title IX, § 902(1), title XI, § 1106, Dec. 20, 2019, 133 Stat. 1542, 1597; Pub. L. 116–283, div. A, title IX, § 912, title XVIII, §§ 1808(d)(1), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3802, 4160, 4294; Pub. L. 118–31, div. A, title IX, § 911, Dec. 22, 2023, 137 Stat. 364; Pub. L. 119–60, div. A, title XI, § 1107(b), (c), Dec. 18, 2025, 139 Stat. 1074.)
 
 **Editorial Notes**
 
@@ -1653,31 +1653,31 @@ The date of the enactment of this subsection, referred to in subsec. (h), is the
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 115(b)(5) of this title, prior to repeal by Pub. L. 101–510, § 1483(a).
+Provisions similar to those in this section were contained in section 115(b)(5) of this title, prior to repeal by Pub. L. 101–510, § 1483(a).
 
 **Amendments**
 
-2025—Subsec. (b). Pub. L. 119–60, § 1107(b), inserted “, or conduct any reductions or realignments that occur outside the normal programming process (including ad hoc, immediate, or unprogrammed changes) of 50 employees or more implemented before or after the submission of the annual budget request,” after “full-time equivalent levels”.
+2025—Subsec. (b). Pub. L. 119–60, § 1107(b), inserted “, or conduct any reductions or realignments that occur outside the normal programming process (including ad hoc, immediate, or unprogrammed changes) of 50 employees or more implemented before or after the submission of the annual budget request,” after “full-time equivalent levels”.
 
-Subsec. (h). Pub. L. 119–60, § 1107(c), added subsec. (h).
+Subsec. (h). Pub. L. 119–60, § 1107(c), added subsec. (h).
 
 2023—Subsec. (c)(2). Pub. L. 118–31 inserted at end “The Secretary of Defense shall ensure that the requirements determination, planning, programming, and budgeting conducted under this paragraph considers all components of the total force (including active and reserve military, the civilian workforce, and contract support) in a holistic manner—” and added subpars. (A) and (B).
 
-2021—Subsec. (b). Pub. L. 116–283, § 912, inserted at end “The Secretary may not reduce the civilian workforce programmed full-time equivalent levels unless the Secretary conducts an appropriate analysis of the impacts of such reductions on workload, military force structure, lethality, readiness, operational effectiveness, stress on the military force, and fully burdened costs.”
+2021—Subsec. (b). Pub. L. 116–283, § 912, inserted at end “The Secretary may not reduce the civilian workforce programmed full-time equivalent levels unless the Secretary conducts an appropriate analysis of the impacts of such reductions on workload, military force structure, lethality, readiness, operational effectiveness, stress on the military force, and fully burdened costs.”
 
-Subsec. (c)(3). Pub. L. 116–283, § 1808(d)(1), substituted “section 3001” for “section 2545”.
+Subsec. (c)(3). Pub. L. 116–283, § 1808(d)(1), substituted “section 3001” for “section 2545”.
 
-Subsec. (d)(1). Pub. L. 116–283, § 1883(b)(2), substituted “section 4505(c)” for “section 2330a(c)”.
+Subsec. (d)(1). Pub. L. 116–283, § 1883(b)(2), substituted “section 4505(c)” for “section 2330a(c)”.
 
-2019—Subsec. (c)(3). Pub. L. 116–92, § 902(1), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+2019—Subsec. (c)(3). Pub. L. 116–92, § 902(1), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-Subsec. (g)(1)(B). Pub. L. 116–92, § 1106, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if the performance of such functions by military personnel is required to address critical staffing needs resulting from a reduction in personnel or budgetary resources by reason of an Act of Congress, in which case such functions may not be performed by military personnel for a period in excess of one year.”
+Subsec. (g)(1)(B). Pub. L. 116–92, § 1106, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if the performance of such functions by military personnel is required to address critical staffing needs resulting from a reduction in personnel or budgetary resources by reason of an Act of Congress, in which case such functions may not be performed by military personnel for a period in excess of one year.”
 
-2018—Subsec. (g)(1)(A). Pub. L. 115–232 substituted “is cost-effective, taking into account the fully-burdened costs of the civilian, military, and contractor workforces, including the impact of the performance of such functions on military career progression or when required by military necessity” for “, including a permanent conversion of such functions to performance by military personnel, is cost-effective or required by a mission”.
+2018—Subsec. (g)(1)(A). Pub. L. 115–232 substituted “is cost-effective, taking into account the fully-burdened costs of the civilian, military, and contractor workforces, including the impact of the performance of such functions on military career progression or when required by military necessity” for “, including a permanent conversion of such functions to performance by military personnel, is cost-effective or required by a mission”.
 
-2017—Subsec. (b). Pub. L. 115–91, § 1081(a)(5), struck out “(as identified pursuant to section 118b of this title)” after “armed forces”.
+2017—Subsec. (b). Pub. L. 115–91, § 1081(a)(5), struck out “(as identified pursuant to section 118b of this title)” after “armed forces”.
 
-Subsec. (d). Pub. L. 115–91, § 1051(a)(6)(B), redesignated pars. (3) and (4) as (1) and (2), respectively, and struck out former pars. (1) and (2) which read as follows:
+Subsec. (d). Pub. L. 115–91, § 1051(a)(6)(B), redesignated pars. (3) and (4) as (1) and (2), respectively, and struck out former pars. (1) and (2) which read as follows:
 
 “(1) The civilian strategic workforce plan (required by section 115b of this title).
 
@@ -1699,11 +1699,11 @@ Amendment by sections 1808(d)(1) and 1883(b)(2) of Pub. L. 116–283 effective J
 
 **Modifications to Total Force Management Requirements**
 
-Pub. L. 119–60, div. A, title XI, § 1107(a), Dec. 18, 2025, 139 Stat. 1074, provided that: “Not later than 30 days after the date of the enactment of this Act [Dec. 18, 2025], the Office of the Secretary of Defense shall, in consultation with each Secretary of a military department, provide guidance to each such Secretary on the analysis required under subsection (b) of section 129a of title 10, United States Code. Such guidance shall include defining the seven required elements of the analysis under such subsection, on either a Department-wide or component level.”
+Pub. L. 119–60, div. A, title XI, § 1107(a), Dec. 18, 2025, 139 Stat. 1074, provided that: “Not later than 30 days after the date of the enactment of this Act [Dec. 18, 2025], the Office of the Secretary of Defense shall, in consultation with each Secretary of a military department, provide guidance to each such Secretary on the analysis required under subsection (b) of section 129a of title 10, United States Code. Such guidance shall include defining the seven required elements of the analysis under such subsection, on either a Department-wide or component level.”
 
 **Management Innovation Activities**
 
-Pub. L. 117–81, div. A, title IX, § 908, Dec. 27, 2021, 135 Stat. 1875, provided that:
+Pub. L. 117–81, div. A, title IX, § 908, Dec. 27, 2021, 135 Stat. 1875, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall carry out a set of activities to improve the effectiveness of management activities within the Department of Defense, with the goals of incorporating appropriate private sector management practices and technologies and enhancing the capabilities of the defense management workforce.
 
@@ -1741,7 +1741,7 @@ Pub. L. 117–81, div. A, title IX, § 908, Dec. 27, 2021, 135 Stat. 1875, pro
 
 **Strategic Policy for the Retrograde, Reconstitution, and Replacement of Operating Forces Used To Support Overseas Contingency Operations**
 
-Pub. L. 113–66, div. A, title III, § 324, Dec. 26, 2013, 127 Stat. 733, provided that:
+Pub. L. 113–66, div. A, title III, § 324, Dec. 26, 2013, 127 Stat. 733, provided that:
 
 > **“(a) Establishment of Policy.—**
 
@@ -1777,35 +1777,35 @@ Pub. L. 113–66, div. A, title III, § 324, Dec. 26, 2013, 127 Stat. 733, pro
 
 **Savings To Be Achieved in Civilian Personnel Workforce and Service Contractor Workforce of the Department of Defense**
 
-Pub. L. 112–239, div. A, title IX, § 955, Jan. 2, 2013, 126 Stat. 1896, which related to efficiencies plan for the civilian personnel workforce and service contractor workforce of the Department of Defense, requiring specific savings, excluding certain expenses, setting reporting requirements, limiting transfers of functions, recommending application of certain funds saved to transition assistance for personnel separated from the Armed Forces, and providing definition of “service contractor workforce”, was repealed by Pub. L. 114–328, div. A, title IX, § 915, Dec. 23, 2016, 130 Stat. 2350.
+Pub. L. 112–239, div. A, title IX, § 955, Jan. 2, 2013, 126 Stat. 1896, which related to efficiencies plan for the civilian personnel workforce and service contractor workforce of the Department of Defense, requiring specific savings, excluding certain expenses, setting reporting requirements, limiting transfers of functions, recommending application of certain funds saved to transition assistance for personnel separated from the Armed Forces, and providing definition of “service contractor workforce”, was repealed by Pub. L. 114–328, div. A, title IX, § 915, Dec. 23, 2016, 130 Stat. 2350.
 
 **Conversion of Military Positions to Civilian Positions**
 
-Pub. L. 104–106, div. A, title X, § 1032, Feb. 10, 1996, 110 Stat. 429, as amended by Pub. L. 104–201, div. A, title XVI, § 1601, Sept. 23, 1996, 110 Stat. 2734, directed Secretary of Defense, by Sept. 30, 1996, to convert at least 3,000 military positions to civilian positions and, not later than Mar. 31, 1996, submit to Congress a plan for the implementation of conversion.
+Pub. L. 104–106, div. A, title X, § 1032, Feb. 10, 1996, 110 Stat. 429, as amended by Pub. L. 104–201, div. A, title XVI, § 1601, Sept. 23, 1996, 110 Stat. 2734, directed Secretary of Defense, by Sept. 30, 1996, to convert at least 3,000 military positions to civilian positions and, not later than Mar. 31, 1996, submit to Congress a plan for the implementation of conversion.
 
 **Prohibition on Use of Funds To Assign Supervisor’s Title or Grade Based Upon Number of People Supervised**
 
-Pub. L. 104–61, title VIII, § 8031, Dec. 1, 1995, 109 Stat. 658, provided that: “None of the funds appropriated during the current fiscal year and hereafter, may be used by the Department of Defense to assign a supervisor’s title or grade when the number of people he or she supervises is considered as a basis for this determination: *Provided*, That savings that result from this provision are represented as such in future budget proposals.”
+Pub. L. 104–61, title VIII, § 8031, Dec. 1, 1995, 109 Stat. 658, provided that: “None of the funds appropriated during the current fiscal year and hereafter, may be used by the Department of Defense to assign a supervisor’s title or grade when the number of people he or she supervises is considered as a basis for this determination: *Provided*, That savings that result from this provision are represented as such in future budget proposals.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 103–335, title VIII, § 8036, Sept. 30, 1994, 108 Stat. 2626.
+Pub. L. 103–335, title VIII, § 8036, Sept. 30, 1994, 108 Stat. 2626.
 
-Pub. L. 103–139, title VIII, § 8040, Nov. 11, 1993, 107 Stat. 1449.
+Pub. L. 103–139, title VIII, § 8040, Nov. 11, 1993, 107 Stat. 1449.
 
-Pub. L. 102–396, title IX, § 9053, Oct. 6, 1992, 106 Stat. 1914.
+Pub. L. 102–396, title IX, § 9053, Oct. 6, 1992, 106 Stat. 1914.
 
-Pub. L. 102–172, title VIII, § 8055, Nov. 26, 1991, 105 Stat. 1184.
+Pub. L. 102–172, title VIII, § 8055, Nov. 26, 1991, 105 Stat. 1184.
 
-Pub. L. 101–511, title VIII, § 8063, Nov. 5, 1990, 104 Stat. 1888.
+Pub. L. 101–511, title VIII, § 8063, Nov. 5, 1990, 104 Stat. 1888.
 
-Pub. L. 101–165, title IX, § 9085, Nov. 21, 1989, 103 Stat. 1147.
+Pub. L. 101–165, title IX, § 9085, Nov. 21, 1989, 103 Stat. 1147.
 
-Pub. L. 100–463, title VIII, § 8079, Oct. 1, 1988, 102 Stat. 2270–30.
+Pub. L. 100–463, title VIII, § 8079, Oct. 1, 1988, 102 Stat. 2270–30.
 
-Pub. L. 100–202, § 101(b) [title VIII, § 8105], Dec. 22, 1987, 101 Stat. 1329–43, 1329–81.
+Pub. L. 100–202, § 101(b) [title VIII, § 8105], Dec. 22, 1987, 101 Stat. 1329–43, 1329–81.
 
-## § 129b. Authority to procure personal services
+## § 129b. Authority to procure personal services
 
 **(a) Authority.—** Subject to subsection (b), the Secretary of Defense and the Secretaries of the military departments may—
 
@@ -1839,23 +1839,23 @@ Pub. L. 100–202, § 101(b) [title VIII, § 8105], Dec. 22, 1987, 101 Stat.
 
 **(3)** The requirements of section 3109 of title 5 shall not apply to a contract entered into under this subsection.
 
-(Added Pub. L. 101–510, div. A, title XIV, § 1481(b)(1), Nov. 5, 1990, 104 Stat. 1704; amended Pub. L. 102–190, div. A, title X, § 1061(a)(2), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 108–136, div. A, title VIII, § 841(a), (b)(1), Nov. 24, 2003, 117 Stat. 1552.)
+(Added Pub. L. 101–510, div. A, title XIV, § 1481(b)(1), Nov. 5, 1990, 104 Stat. 1704; amended Pub. L. 102–190, div. A, title X, § 1061(a)(2), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 108–136, div. A, title VIII, § 841(a), (b)(1), Nov. 24, 2003, 117 Stat. 1552.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, § 9002, Nov. 21, 1989, 103 Stat. 1129, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, § 1481(b)(3).
+Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, § 9002, Nov. 21, 1989, 103 Stat. 1129, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, § 1481(b)(3).
 
 **Amendments**
 
-2003—Pub. L. 108–136, § 841(b)(1), substituted “Authority to procure personal services” for “Experts and consultants: authority to procure services of” in section catchline.
+2003—Pub. L. 108–136, § 841(b)(1), substituted “Authority to procure personal services” for “Experts and consultants: authority to procure services of” in section catchline.
 
-Subsec. (d). Pub. L. 108–136, § 841(a), added subsec. (d).
+Subsec. (d). Pub. L. 108–136, § 841(a), added subsec. (d).
 
 1991—Pub. L. 102–190 inserted “of” after “services” in section catchline.
 
-## § 129c. Medical personnel: limitations on reductions
+## § 129c. Medical personnel: limitations on reductions
 
 **(a) Limitation on Reduction.—** For any fiscal year, the Secretary of Defense may not make a reduction in the number of medical personnel of the Department of Defense described in subsection (b) unless the Secretary makes a certification for that fiscal year described in subsection (c).
 
@@ -1875,25 +1875,25 @@ Subsec. (d). Pub. L. 108–136, § 841(a), added subsec. (d).
 
 **(e) Definition.—** In this section, the term “medical personnel” means—
 
-**(1)** the members of the armed forces covered by the term “medical personnel” as defined in section 115a(e)(2) 1
+**(1)** the members of the armed forces covered by the term “medical personnel” as defined in section 115a(e)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and
 
 **(2)** the civilian personnel of the Department of Defense assigned to military medical facilities.
 
-(Added Pub. L. 104–106, div. A, title V, § 564(a)(1), Feb. 10, 1996, 110 Stat. 325; amended Pub. L. 105–85, div. A, title X, § 1073(a)(4), Nov. 18, 1997, 111 Stat. 1900.)
+(Added Pub. L. 104–106, div. A, title V, § 564(a)(1), Feb. 10, 1996, 110 Stat. 325; amended Pub. L. 105–85, div. A, title X, § 1073(a)(4), Nov. 18, 1997, 111 Stat. 1900.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 115a(e)(2) of this title, referred to in subsec. (e)(1), was redesignated as section 115a(f)(2) of this title by Pub. L. 119–60, div. A, title IV, § 422(b)(1)(A), Dec. 18, 2025, 139 Stat. 850.
+Section 115a(e)(2) of this title, referred to in subsec. (e)(1), was redesignated as section 115a(f)(2) of this title by Pub. L. 119–60, div. A, title IV, § 422(b)(1)(A), Dec. 18, 2025, 139 Stat. 850.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 101–510, div. A, title VII, § 711, Nov. 5, 1990, 104 Stat. 1582, as amended, which was set out as a note under section 115 of this title, prior to repeal by Pub. L. 104–106, § 564(d)(1).
+Provisions similar to those in this section were contained in Pub. L. 101–510, div. A, title VII, § 711, Nov. 5, 1990, 104 Stat. 1582, as amended, which was set out as a note under section 115 of this title, prior to repeal by Pub. L. 104–106, § 564(d)(1).
 
 **Amendments**
 
@@ -1903,7 +1903,7 @@ Provisions similar to those in this section were contained in Pub. L. 101–510,
 
 **Limitation on Reduction of Military Medical Manning End Strength: Certification Requirement and Other Reforms**
 
-Pub. L. 117–263, div. A, title VII, § 741(a), (d), Dec. 23, 2022, 136 Stat. 2676, 2680, as amended by Pub. L. 119–60, div. A, title VII, § 713(1), Dec. 18, 2025, 139 Stat. 921, provided that:
+Pub. L. 117–263, div. A, title VII, § 741(a), (d), Dec. 23, 2022, 136 Stat. 2676, 2680, as amended by Pub. L. 119–60, div. A, title VII, § 713(1), Dec. 18, 2025, 139 Stat. 921, provided that:
 
 > **“(a) Limitation.—**
 
@@ -1989,15 +1989,15 @@ Pub. L. 117–263, div. A, title VII, § 741(a), (d), Dec. 23, 2022, 136 Stat.
 
 **Prohibition on Conversion of Military Medical and Dental Positions to Civilian Medical and Dental Positions**
 
-Pub. L. 110–181, div. A, title VII, § 721(a)–(d), Jan. 28, 2008, 122 Stat. 198, 199, as amended by Pub. L. 111–84, div. A, title VII, § 701, Oct. 28, 2009, 123 Stat. 2372, prohibited the Secretary of a military department from converting any military medical or dental position to a civilian medical or dental position on or after Oct. 1, 2007, and required restoration of certain converted positions to military positions, prior to repeal by Pub. L. 114–328, div. A, title VII, § 721(c), Dec. 23, 2016, 130 Stat. 2228.
+Pub. L. 110–181, div. A, title VII, § 721(a)–(d), Jan. 28, 2008, 122 Stat. 198, 199, as amended by Pub. L. 111–84, div. A, title VII, § 701, Oct. 28, 2009, 123 Stat. 2372, prohibited the Secretary of a military department from converting any military medical or dental position to a civilian medical or dental position on or after Oct. 1, 2007, and required restoration of certain converted positions to military positions, prior to repeal by Pub. L. 114–328, div. A, title VII, § 721(c), Dec. 23, 2016, 130 Stat. 2228.
 
 **Requirement To Certify and Report on Conversion of Military Medical and Dental Positions to Civilian Medical and Dental Positions**
 
-Pub. L. 109–364, div. A, title VII, § 742, Oct. 17, 2006, 120 Stat. 2306, which prohibited the Secretary of a military department from converting any military medical or dental position to a civilian medical or dental position in a fiscal year until the Secretary submitted to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives with respect to that fiscal year a certification that the conversions within that department would not increase cost or decrease quality of care or access to care, was repealed by Pub. L. 110–181, div. A, title VII, § 721(e), Jan. 28, 2008, 122 Stat. 199.
+Pub. L. 109–364, div. A, title VII, § 742, Oct. 17, 2006, 120 Stat. 2306, which prohibited the Secretary of a military department from converting any military medical or dental position to a civilian medical or dental position in a fiscal year until the Secretary submitted to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives with respect to that fiscal year a certification that the conversions within that department would not increase cost or decrease quality of care or access to care, was repealed by Pub. L. 110–181, div. A, title VII, § 721(e), Jan. 28, 2008, 122 Stat. 199.
 
 **Prohibition on Conversions of Military Medical and Dental Positions to Civilian Medical Positions Until Submission of Certification**
 
-Pub. L. 109–163, div. A, title VII, § 744, Jan. 6, 2006, 119 Stat. 3360, provided that:
+Pub. L. 109–163, div. A, title VII, § 744, Jan. 6, 2006, 119 Stat. 3360, provided that:
 
 > **“(a) Prohibition on Conversions.—**
 
@@ -2047,9 +2047,9 @@ Pub. L. 109–163, div. A, title VII, § 744, Jan. 6, 2006, 119 Stat. 3360, pr
 
 **Special Transition Rule for Fiscal Year 1996**
 
-Pub. L. 104–106, div. A, title V, § 564(b), Feb. 10, 1996, 110 Stat. 326, provided that, for purposes of applying subsec. (b)(1) of this section during fiscal year 1996, the number against which the percentage limitation of 95 percent was to be computed would be the number of medical personnel of the Department of Defense as of the end of fiscal year 1994, rather than the number as of the end of fiscal year 1995.
+Pub. L. 104–106, div. A, title V, § 564(b), Feb. 10, 1996, 110 Stat. 326, provided that, for purposes of applying subsec. (b)(1) of this section during fiscal year 1996, the number against which the percentage limitation of 95 percent was to be computed would be the number of medical personnel of the Department of Defense as of the end of fiscal year 1994, rather than the number as of the end of fiscal year 1995.
 
-## § 129d. Disclosure to litigation support contractors
+## § 129d. Disclosure to litigation support contractors
 
 **(a) Disclosure Authority.—** An officer or employee of the Department of Defense may disclose sensitive information to a litigation support contractor if—
 
@@ -2071,9 +2071,9 @@ Pub. L. 104–106, div. A, title V, § 564(b), Feb. 10, 1996, 110 Stat. 326, p
 
 **(2)** The term “sensitive information” means confidential commercial, financial, or proprietary information, technical data, or other privileged information.
 
-(Added Pub. L. 112–81, div. A, title VIII, § 802(a)(1), Dec. 31, 2011, 125 Stat. 1484.)
+(Added Pub. L. 112–81, div. A, title VIII, § 802(a)(1), Dec. 31, 2011, 125 Stat. 1484.)
 
-## § 130. Authority to withhold from public disclosure certain technical data
+## § 130. Authority to withhold from public disclosure certain technical data
 
 **(a)** Notwithstanding any other provision of law, the Secretary of Defense may withhold from public disclosure any technical data with military or space application in the possession of, or under the control of, the Department of Defense, if such data may not be exported lawfully outside the United States without an approval, authorization, or license under the Export Administration Act of 1979 (50 U.S.C. 4601 et seq.) or the Arms Export Control Act (22 U.S.C. 2751 et seq.). However, technical data may not be withheld under this section if regulations promulgated under either such Act authorize the export of such data pursuant to a general, unrestricted license or exemption in such regulations.
 
@@ -2081,15 +2081,15 @@ Pub. L. 104–106, div. A, title V, § 564(b), Feb. 10, 1996, 110 Stat. 326, p
 
 **(c)** In this section, the term “technical data with military or space application” means any blueprints, drawings, plans, instructions, computer software and documentation, or other technical information that can be used, or be adapted for use, to design, engineer, produce, manufacture, operate, repair, overhaul, or reproduce any military or space equipment or technology concerning such equipment.
 
-(Added Pub. L. 98–94, title XII, § 1217(a), Sept. 24, 1983, 97 Stat. 690, § 140c; amended Pub. L. 99–145, title XIII, § 1303(a)(3), Nov. 8, 1985, 99 Stat. 738; renumbered § 130 and amended Pub. L. 99–433, title I, §§ 101(a)(3), 110(d)(6), Oct. 1, 1986, 100 Stat. 994, 1003; Pub. L. 100–26, § 7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–510, div. A, title XIV, § 1484(b)(1), Nov. 5, 1990, 104 Stat. 1715; Pub. L. 114–328, div. A, title X, § 1081(b)(3)(A), Dec. 23, 2016, 130 Stat. 2418.)
+(Added Pub. L. 98–94, title XII, § 1217(a), Sept. 24, 1983, 97 Stat. 690, § 140c; amended Pub. L. 99–145, title XIII, § 1303(a)(3), Nov. 8, 1985, 99 Stat. 738; renumbered § 130 and amended Pub. L. 99–433, title I, §§ 101(a)(3), 110(d)(6), Oct. 1, 1986, 100 Stat. 994, 1003; Pub. L. 100–26, § 7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–510, div. A, title XIV, § 1484(b)(1), Nov. 5, 1990, 104 Stat. 1715; Pub. L. 114–328, div. A, title X, § 1081(b)(3)(A), Dec. 23, 2016, 130 Stat. 2418.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
+The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
-The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
 **Amendments**
 
@@ -2103,7 +2103,7 @@ The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oc
 
 1985—Subsec. (b)(1). Pub. L. 99–145 substituted “September 24, 1983” for “enactment of this section”.
 
-## § 130a. Department of Defense support for funerals and memorial events for Members and former Members of Congress
+## § 130a. Department of Defense support for funerals and memorial events for Members and former Members of Congress
 
 **(a) Support for Funerals.—** Subject to subsection (b), the Secretary of Defense may provide such support as the Secretary considers appropriate for a funeral or memorial event for a Member or former Member of Congress, including support with respect to transportation to and from such a funeral or memorial event, in accordance with this section.
 
@@ -2115,15 +2115,15 @@ The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oc
 
 **(c) Use of Funds.—** The Secretary may use funds authorized to be appropriated for operation and maintenance to provide support under this section.
 
-(Added Pub. L. 117–263, div. A, title X, § 1042(a), Dec. 23, 2022, 136 Stat. 2770.)
+(Added Pub. L. 117–263, div. A, title X, § 1042(a), Dec. 23, 2022, 136 Stat. 2770.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 130a, added Pub. L. 105–85, div. A, title IX, § 911(a)(1), Nov. 18, 1997, 111 Stat. 1857; amended Pub. L. 106–65, div. A, title IX, § 921(a)(1), Oct. 5, 1999, 113 Stat. 722; Pub. L. 106–398, § 1 [[div. A], title IX, § 941], Oct. 30, 2000, 114 Stat. 1654, 1654A–241; Pub. L. 108–375, div. A, title X, § 1084(d)(2), Oct. 28, 2004, 118 Stat. 2061, related to major Department of Defense headquarters activities personnel, prior to repeal by Pub. L. 110–181, div. A, title IX, § 901(a)(1), Jan. 28, 2008, 122 Stat. 272.
+A prior section 130a, added Pub. L. 105–85, div. A, title IX, § 911(a)(1), Nov. 18, 1997, 111 Stat. 1857; amended Pub. L. 106–65, div. A, title IX, § 921(a)(1), Oct. 5, 1999, 113 Stat. 722; Pub. L. 106–398, § 1 [[div. A], title IX, § 941], Oct. 30, 2000, 114 Stat. 1654, 1654A–241; Pub. L. 108–375, div. A, title X, § 1084(d)(2), Oct. 28, 2004, 118 Stat. 2061, related to major Department of Defense headquarters activities personnel, prior to repeal by Pub. L. 110–181, div. A, title IX, § 901(a)(1), Jan. 28, 2008, 122 Stat. 272.
 
-## § 130b. Personnel in overseas, sensitive, or routinely deployable units: nondisclosure of personally identifying information
+## § 130b. Personnel in overseas, sensitive, or routinely deployable units: nondisclosure of personally identifying information
 
 **(a) Exemption From Disclosure.—** The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security may, notwithstanding section 552 of title 5, authorize to be withheld from disclosure to the public personally identifying information regarding—
 
@@ -2161,7 +2161,7 @@ A prior section 130a, added Pub. L. 105–85, div. A, title IX, § 911(a)(1), 
 
 **(5)** The term “routinely deployable unit” means a unit that normally deploys from its permanent home station on a periodic or rotating basis to meet peacetime operational requirements that, or to participate in scheduled training exercises that, routinely require deployments outside the United States and its territories. Such term includes a unit that is alerted for deployment outside the United States and its territories during an actual execution of a contingency plan or in support of a crisis operation.
 
-(Added Pub. L. 106–65, div. A, title X, § 1044(a), Oct. 5, 1999, 113 Stat. 761; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 106–65, div. A, title X, § 1044(a), Oct. 5, 1999, 113 Stat. 761; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
@@ -2175,7 +2175,7 @@ A prior section 130a, added Pub. L. 105–85, div. A, title IX, § 911(a)(1), 
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-## § 130c. Nondisclosure of information: certain sensitive information of foreign governments and international organizations
+## § 130c. Nondisclosure of information: certain sensitive information of foreign governments and international organizations
 
 **(a) Exemption From Disclosure.—** The national security official concerned (as defined in subsection (h)) may withhold from public disclosure otherwise required by law sensitive information of foreign governments in accordance with this section.
 
@@ -2247,21 +2247,21 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(C)** An official mission, except a United States mission, to a public international organization referred to in subparagraph (A) or (B).
 
-(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1073(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–277; amended Pub. L. 107–107, div. A, title X, § 1048(a)(3), (c)(1), Dec. 28, 2001, 115 Stat. 1222, 1226; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1073(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–277; amended Pub. L. 107–107, div. A, title X, § 1048(a)(3), (c)(1), Dec. 28, 2001, 115 Stat. 1222, 1226; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Organizations Immunities Act, referred to in subsec. (h)(3)(A), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
+The International Organizations Immunities Act, referred to in subsec. (h)(3)(A), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
 **Amendments**
 
 2002—Subsec. (h)(1)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2001—Subsec. (b)(3)(C). Pub. L. 107–107, § 1048(a)(3), substituted “subsection (g)” for “subsection (f)”.
+2001—Subsec. (b)(3)(C). Pub. L. 107–107, § 1048(a)(3), substituted “subsection (g)” for “subsection (f)”.
 
-Subsec. (d)(1). Pub. L. 107–107, § 1048(c)(1), substituted “October 30, 2000,” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001”.
+Subsec. (d)(1). Pub. L. 107–107, § 1048(c)(1), substituted “October 30, 2000,” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2269,13 +2269,13 @@ Subsec. (d)(1). Pub. L. 107–107, § 1048(c)(1), substituted “October 30, 2
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-## § 130d. Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel
+## § 130d. Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel
 
 Confidential business information and other sensitive but unclassified homeland security information in the possession of the Department of Defense that is shared, pursuant to section 892 of the Homeland Security Act of 2002 (6 U.S.C. 482), with State and local personnel (as defined in such section) shall not be subject to disclosure under section 552 of title 5 by virtue of the sharing of such information with such personnel.
 
-(Added Pub. L. 109–364, div. A, title XIV, § 1405(a), Oct. 17, 2006, 120 Stat. 2436.)
+(Added Pub. L. 109–364, div. A, title XIV, § 1405(a), Oct. 17, 2006, 120 Stat. 2436.)
 
-## § 130e. Treatment under Freedom of Information Act of certain critical infrastructure security information
+## § 130e. Treatment under Freedom of Information Act of certain critical infrastructure security information
 
 **(a) Exemption.—** The Secretary of Defense may exempt Department of Defense critical infrastructure security information from disclosure pursuant to section 552(b)(3) of title 5, upon a written determination that—
 
@@ -2299,19 +2299,19 @@ Confidential business information and other sensitive but unclassified homeland 
 
 **(e) Definition.—** In this section, the term “Department of Defense critical infrastructure security information” means sensitive but unclassified information that, if disclosed, would reveal vulnerabilities in Department of Defense critical infrastructure that, if exploited, would likely result in the significant disruption, destruction, or damage of or to Department of Defense operations, property, or facilities, including information regarding the securing and safeguarding of explosives, hazardous chemicals, or pipelines, related to critical infrastructure or protected systems owned or operated by or on behalf of the Department of Defense, including vulnerability assessments prepared by or on behalf of the Department of Defense, explosives safety information (including storage and handling), and other site-specific information on or relating to installation security.
 
-(Added Pub. L. 112–81, div. A, title X, § 1091(a), Dec. 31, 2011, 125 Stat. 1604; amended Pub. L. 114–92, div. A, title X, § 1081(a)(2), Nov. 25, 2015, 129 Stat. 1000; Pub. L. 114–328, div. A, title XVI, § 1662(b), Dec. 23, 2016, 130 Stat. 2614; Pub. L. 118–31, div. A, title IX, § 901(e)(1), Dec. 22, 2023, 137 Stat. 355.)
+(Added Pub. L. 112–81, div. A, title X, § 1091(a), Dec. 31, 2011, 125 Stat. 1604; amended Pub. L. 114–92, div. A, title X, § 1081(a)(2), Nov. 25, 2015, 129 Stat. 1000; Pub. L. 114–328, div. A, title XVI, § 1662(b), Dec. 23, 2016, 130 Stat. 2614; Pub. L. 118–31, div. A, title IX, § 901(e)(1), Dec. 22, 2023, 137 Stat. 355.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsecs. (d) to (f). Pub. L. 118–31 redesignated subsecs. (e) and (f) as (d) and (e), respectively; struck out “, or the Secretary’s designee,” after “of the Secretary” and “, through the Office of the Director of Administration and Management” after “upon request” in subsec. (d) as redesignated; and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “The Secretary of Defense may delegate the authority to make a determination under subsection (a) to the Director of Administration and Management.”
+2023—Subsecs. (d) to (f). Pub. L. 118–31 redesignated subsecs. (e) and (f) as (d) and (e), respectively; struck out “, or the Secretary’s designee,” after “of the Secretary” and “, through the Office of the Director of Administration and Management” after “upon request” in subsec. (d) as redesignated; and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “The Secretary of Defense may delegate the authority to make a determination under subsection (a) to the Director of Administration and Management.”
 
 2016—Subsecs. (b), (c), (f). Pub. L. 114–328 added subsecs. (b) and (c), redesignated former subsec. (c) as (f), and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “Department of Defense critical infrastructure security information covered by a written determination under subsection (a) that is provided to a State or local government shall remain under the control of the Department of Defense.”
 
 2015—Pub. L. 114–92 substituted “Treatment under Freedom of Information Act of certain critical infrastructure security information” for “Treatment under Freedom of Information Act of critical infrastructure security information” in section catchline.
 
-## § 130f. Notification requirements for sensitive military operations
+## § 130f. Notification requirements for sensitive military operations
 
 **(a) In General.—** The Secretary of Defense shall promptly submit to the congressional defense committees notice in writing of any sensitive military operation conducted under this title no later than 48 hours following such operation.
 
@@ -2337,23 +2337,23 @@ Confidential business information and other sensitive but unclassified homeland 
 
 **(f) Collective Self-defense Notification Requirement.—** Not later than 48 hours after the date on which a foreign partner force has been designated as eligible for the provision of collective self-defense by the armed forces for the purposes of subsection (d)(1)(B), the Secretary of Defense shall provide to the congressional defense committees notice in writing of such designation.
 
-(Added Pub. L. 113–66, div. A, title X, § 1041(a)(1), Dec. 26, 2013, 127 Stat. 856; amended Pub. L. 114–92, div. A, title X, § 1043, Nov. 25, 2015, 129 Stat. 977; Pub. L. 114–328, div. A, title X, § 1036(a)–(f)(1), Dec. 23, 2016, 130 Stat. 2391, 2392; Pub. L. 115–91, div. A, title X, § 1081(a)(6), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 115–232, div. A, title X, § 1031(a), (b), Aug. 13, 2018, 132 Stat. 1953; Pub. L. 117–81, div. A, title X, § 1042, Dec. 27, 2021, 135 Stat. 1903.)
+(Added Pub. L. 113–66, div. A, title X, § 1041(a)(1), Dec. 26, 2013, 127 Stat. 856; amended Pub. L. 114–92, div. A, title X, § 1043, Nov. 25, 2015, 129 Stat. 977; Pub. L. 114–328, div. A, title X, § 1036(a)–(f)(1), Dec. 23, 2016, 130 Stat. 2391, 2392; Pub. L. 115–91, div. A, title X, § 1081(a)(6), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 115–232, div. A, title X, § 1031(a), (b), Aug. 13, 2018, 132 Stat. 1953; Pub. L. 117–81, div. A, title X, § 1042, Dec. 27, 2021, 135 Stat. 1903.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Security Act of 1947, referred to in subsecs. (c) and (e), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsecs. (c) and (e), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-The War Powers Resolution, referred to in subsec. (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
+The War Powers Resolution, referred to in subsec. (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 **Amendments**
 
-2021—Subsec. (d). Pub. L. 117–81, § 1042(1)–(3), substituted “In” for “(1) Except as provided in paragraph (2), in”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “For purposes of this section, the term ‘sensitive military operation’ does not include any operation conducted within Afghanistan, Syria, or Iraq.”
+2021—Subsec. (d). Pub. L. 117–81, § 1042(1)–(3), substituted “In” for “(1) Except as provided in paragraph (2), in”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “For purposes of this section, the term ‘sensitive military operation’ does not include any operation conducted within Afghanistan, Syria, or Iraq.”
 
-Subsec. (d)(3). Pub. L. 117–81, § 1042(4)–(6), added par. (3).
+Subsec. (d)(3). Pub. L. 117–81, § 1042(4)–(6), added par. (3).
 
-2018—Subsec. (d). Pub. L. 115–232, § 1031(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “The term ‘sensitive military operation’ means the following:
+2018—Subsec. (d). Pub. L. 115–232, § 1031(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “The term ‘sensitive military operation’ means the following:
 
 “(1) A lethal operation or capture operation—
 
@@ -2363,21 +2363,21 @@ Subsec. (d)(3). Pub. L. 117–81, § 1042(4)–(6), added par. (3).
 
 “(2) An operation conducted by the armed forces outside a declared theater of active armed conflict in self-defense or in defense of foreign partners, including during a cooperative operation.”
 
-Subsec. (f). Pub. L. 115–232, § 1031(b), added subsec. (f).
+Subsec. (f). Pub. L. 115–232, § 1031(b), added subsec. (f).
 
 2017—Subsec. (b)(1). Pub. L. 115–91 inserted period at end.
 
-2016—Pub. L. 114–328, § 1036(f)(1), amended section catchline generally, substituting “Notification requirements for sensitive military operations” for “Congressional notification of sensitive military operations”.
+2016—Pub. L. 114–328, § 1036(f)(1), amended section catchline generally, substituting “Notification requirements for sensitive military operations” for “Congressional notification of sensitive military operations”.
 
-Subsec. (a). Pub. L. 114–328, § 1036(a), (c)(1), inserted “no later than 48 hours” before “following such operation” and struck out at end “Department of Defense support to operations conducted under the National Security Act of 1947 (50 U.S.C. 3001 et seq.) is addressed in the classified annex prepared to accompany the National Defense Authorization Act for Fiscal Year 2014.”
+Subsec. (a). Pub. L. 114–328, § 1036(a), (c)(1), inserted “no later than 48 hours” before “following such operation” and struck out at end “Department of Defense support to operations conducted under the National Security Act of 1947 (50 U.S.C. 3001 et seq.) is addressed in the classified annex prepared to accompany the National Defense Authorization Act for Fiscal Year 2014.”
 
-Subsec. (b)(1). Pub. L. 114–328, § 1036(b)(1), inserted at end “The Secretary shall promptly notify the congressional defense committees in writing of any changes to such procedures at least 14 days prior to the adoption of any such changes”.
+Subsec. (b)(1). Pub. L. 114–328, § 1036(b)(1), inserted at end “The Secretary shall promptly notify the congressional defense committees in writing of any changes to such procedures at least 14 days prior to the adoption of any such changes”.
 
-Subsec. (b)(3). Pub. L. 114–328, § 1036(b)(2), added par. (3).
+Subsec. (b)(3). Pub. L. 114–328, § 1036(b)(2), added par. (3).
 
-Subsec. (c). Pub. L. 114–328, § 1036(c)(2), inserted before period at end “, including Department of Defense support to such operations conducted under the National Security Act of 1947 (50 U.S.C. 3001 et seq.)”.
+Subsec. (c). Pub. L. 114–328, § 1036(c)(2), inserted before period at end “, including Department of Defense support to such operations conducted under the National Security Act of 1947 (50 U.S.C. 3001 et seq.)”.
 
-Subsec. (d). Pub. L. 114–328, § 1036(d), substituted “means the following:” and pars. (1) and (2) for “means a lethal operation or capture operation conducted by the armed forces outside the United States and outside a theater of major hostilities pursuant to—
+Subsec. (d). Pub. L. 114–328, § 1036(d), substituted “means the following:” and pars. (1) and (2) for “means a lethal operation or capture operation conducted by the armed forces outside the United States and outside a theater of major hostilities pursuant to—
 
 “(1) the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note); or
 
@@ -2387,7 +2387,7 @@ Subsec. (d). Pub. L. 114–328, § 1036(d), substituted “means the following
 
 “(B) a specific statutory authorization for the use of force other than the authorization referred to in paragraph (1).”
 
-Subsecs. (e), (f). Pub. L. 114–328, § 1036(e), redesignated subsec. (f) as (e) and struck out former subsec. (e) which provided exception to notification requirement.
+Subsecs. (e), (f). Pub. L. 114–328, § 1036(e), redesignated subsec. (f) as (e) and struck out former subsec. (e) which provided exception to notification requirement.
 
 2015—Subsec. (e). Pub. L. 114–92 designated existing provisions as par. (1) and added par. (2).
 
@@ -2395,11 +2395,11 @@ Subsecs. (e), (f). Pub. L. 114–328, § 1036(e), redesignated subsec. (f) as 
 
 **Effective Date**
 
-Pub. L. 113–66, div. A, title X, § 1041(b), Dec. 26, 2013, 127 Stat. 857, provided that: “Section 130f of title 10, United States Code, as added by subsection (a), shall apply with respect to any sensitive military operation (as defined in subsection (d) of such section) executed on or after the date of the enactment of this Act [Dec. 26, 2013].”
+Pub. L. 113–66, div. A, title X, § 1041(b), Dec. 26, 2013, 127 Stat. 857, provided that: “Section 130f of title 10, United States Code, as added by subsection (a), shall apply with respect to any sensitive military operation (as defined in subsection (d) of such section) executed on or after the date of the enactment of this Act [Dec. 26, 2013].”
 
 **Comprehensive Department of Defense Policy on Collective Self-Defense**
 
-Pub. L. 116–92, div. A, title XVII, § 1754, Dec. 20, 2019, 133 Stat. 1853, provided that:
+Pub. L. 116–92, div. A, title XVII, § 1754, Dec. 20, 2019, 133 Stat. 1853, provided that:
 
 > **“(a) Comprehensive Policy Required.—** The Secretary of Defense shall prescribe a comprehensive written policy for the Department of Defense on the issuance of authorization for, and the provision by members and units of the United States Armed Forces of, collective self-defense to designated foreign nationals, their facilities, and their property.
 
@@ -2441,9 +2441,9 @@ Pub. L. 116–92, div. A, title XVII, § 1754, Dec. 20, 2019, 133 Stat. 1853, 
 
 **Deadline for Submittal of Procedures**
 
-Pub. L. 113–66, div. A, title X, § 1041(c), Dec. 26, 2013, 127 Stat. 857, provided that: “The Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the procedures required under section 130f(b) of title 10, United States Code, as added by subsection (a), by not later than 60 days after the date of the enactment of this Act [Dec. 26, 2013].”
+Pub. L. 113–66, div. A, title X, § 1041(c), Dec. 26, 2013, 127 Stat. 857, provided that: “The Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the procedures required under section 130f(b) of title 10, United States Code, as added by subsection (a), by not later than 60 days after the date of the enactment of this Act [Dec. 26, 2013].”
 
-## § 130g.1 [footnote: 1 Another section 130g is set out after this section.] Oversight of sensitive activities of the Department of Defense.
+## § 130g.1 [footnote: 1 Another section 130g is set out after this section.] Oversight of sensitive activities of the Department of Defense.
 
 **(a) Requirement.—** The Secretary of Defense shall keep the congressional defense committees fully and currently informed of Department of Defense sensitive activities.
 
@@ -2453,7 +2453,7 @@ Pub. L. 113–66, div. A, title X, § 1041(c), Dec. 26, 2013, 127 Stat. 857, p
 
 **(d) Sensitive Activities Defined.—** In this section, the term “Department of Defense sensitive activities” means operations, actions, activities, or programs of the Department of Defense that if compromised, could have enduring adverse effects on United States foreign policy, Department of Defense activities, or military operations, or cause significant embarrassment to the United States, its allies, or the Department of Defense. Such activities are generally handled through special access, compartmented, or other sensitive control mechanisms.
 
-(Added Pub. L. 119–60, div. A, title XVI, § 1622(a), Dec. 18, 2025, 139 Stat. 1182.)
+(Added Pub. L. 119–60, div. A, title XVI, § 1622(a), Dec. 18, 2025, 139 Stat. 1182.)
 
 **Editorial Notes**
 
@@ -2465,7 +2465,7 @@ A prior section 130g was renumbered section 394 of this title.
 
 **Application of Notifications**
 
-Pub. L. 119–60, div. A, title XVI, § 1622(b), Dec. 18, 2025, 139 Stat. 1182, provided that:
+Pub. L. 119–60, div. A, title XVI, § 1622(b), Dec. 18, 2025, 139 Stat. 1182, provided that:
 
 > “The Secretary of Defense shall—
 
@@ -2473,7 +2473,7 @@ Pub. L. 119–60, div. A, title XVI, § 1622(b), Dec. 18, 2025, 139 Stat. 1182
 
 > **“(2)** not later than 90 days after the date of such establishment, begin making notifications under subsection (b) of such section 130g.”
 
-## § 130g.1 [footnote: 1 Another section 130g is set out preceding this section.] Notification requirements for waivers issued under Department of Defense guidance related to autonomy in weapon systems
+## § 130g.1 [footnote: 1 Another section 130g is set out preceding this section.] Notification requirements for waivers issued under Department of Defense guidance related to autonomy in weapon systems
 
 **(a) In General.—** The Secretary of Defense shall submit to the congressional defense committees written notification of any waiver under Department of Defense Directive 3000.09 (relating to autonomy in weapon systems), or any successor directive, by not later than 30 days after the date on which the waiver is issued.
 
@@ -2487,7 +2487,7 @@ Pub. L. 119–60, div. A, title XVI, § 1622(b), Dec. 18, 2025, 139 Stat. 1182
 
 **(c) Form.—** A notification under subsection (a) shall be submitted in unclassified form, but may include a classified annex, as the Secretary determines necessary.
 
-(Added Pub. L. 119–60, div. A, title X, § 1061(a), Dec. 18, 2025, 139 Stat. 1045.)
+(Added Pub. L. 119–60, div. A, title X, § 1061(a), Dec. 18, 2025, 139 Stat. 1045.)
 
 **Editorial Notes**
 
@@ -2495,11 +2495,11 @@ Pub. L. 119–60, div. A, title XVI, § 1622(b), Dec. 18, 2025, 139 Stat. 1182
 
 A prior section 130g was renumbered section 394 of this title.
 
-## [§ 130h. Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)(1), Dec. 23, 2024, 138 Stat. 2199]
+## [§ 130h. Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)(1), Dec. 23, 2024, 138 Stat. 2199]
 
-Section, added Pub. L. 114–92, div. A, title XVI, § 1671(a)(1), Nov. 25, 2015, 129 Stat. 1129; amended Pub. L. 114–328, div. A, title X, § 1081(a)(1), title XVI, § 1682(a)(1), (b), Dec. 23, 2016, 130 Stat. 2417, 2623, 2624; Pub. L. 115–232, div. A, title XVI, § 1678, Aug. 13, 2018, 132 Stat. 2161; Pub. L. 116–283, div. A, title XVI, § 1642, Jan. 1, 2021, 134 Stat. 4062; Pub. L. 117–263, div. A, title XVI, § 1653, Dec. 23, 2022, 136 Stat. 2949, prohibited the Department of Defense from using appropriated funds to provide the Russian Federation with “hit-to-kill” technology and telemetry data for missile defense interceptors or target vehicles and other sensitive missile defense information. See section 5551 of this title.
+Section, added Pub. L. 114–92, div. A, title XVI, § 1671(a)(1), Nov. 25, 2015, 129 Stat. 1129; amended Pub. L. 114–328, div. A, title X, § 1081(a)(1), title XVI, § 1682(a)(1), (b), Dec. 23, 2016, 130 Stat. 2417, 2623, 2624; Pub. L. 115–232, div. A, title XVI, § 1678, Aug. 13, 2018, 132 Stat. 2161; Pub. L. 116–283, div. A, title XVI, § 1642, Jan. 1, 2021, 134 Stat. 4062; Pub. L. 117–263, div. A, title XVI, § 1653, Dec. 23, 2022, 136 Stat. 2949, prohibited the Department of Defense from using appropriated funds to provide the Russian Federation with “hit-to-kill” technology and telemetry data for missile defense interceptors or target vehicles and other sensitive missile defense information. See section 5551 of this title.
 
-## § 130i. Protection of certain facilities and assets from unmanned aircraft
+## § 130i. Protection of certain facilities and assets from unmanned aircraft
 
 **(a) Authority.—** Notwithstanding section 46502 of title 49, or section 32, 1030, or 1367 or chapter 119 or 206 of title 18, the Secretary of Defense may take, and may authorize members of the armed forces and officers, civilian employees, and contractors of the Department of Defense with assigned duties that include safety, security, or protection of personnel, facilities, or assets, to take, such actions described in subsection (b)(1) that are necessary to mitigate the threat (as defined by the Secretary of Defense, in consultation with the Secretary of Transportation) that an unmanned aircraft system or unmanned aircraft poses to the safety or security of a covered facility or asset.
 
@@ -2667,9 +2667,9 @@ Section, added Pub. L. 114–92, div. A, title XVI, § 1671(a)(1), Nov. 25, 20
 
 **(B)** has completed training for the counter-unmanned aircraft system the person will use in performance of such functions, as certified by the Secretary of Defense.
 
-**(4)** The term “covered facility or asset—” 1
+**(4)** The term “covered facility or asset—” 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(A)** means any facility or asset that—
 
@@ -2711,7 +2711,7 @@ Section, added Pub. L. 114–92, div. A, title XVI, § 1671(a)(1), Nov. 25, 20
 
 **(n) Termination.—** The authority to carry out this section shall terminate on December 31, 2030.
 
-(Added Pub. L. 114–328, div. A, title XVI, § 1697(a), Dec. 23, 2016, 130 Stat. 2639; amended Pub. L. 115–91, div. A, title XVI, § 1692, Dec. 12, 2017, 131 Stat. 1788; Pub. L. 116–92, div. A, title XVI, § 1694, title XVII, § 1731(a)(6), Dec. 20, 2019, 133 Stat. 1791, 1812; Pub. L. 116–283, div. A, title X, § 1081(a)(8), title XVIII, § 1845(c)(4), Jan. 1, 2021, 134 Stat. 3871, 4247; Pub. L. 118–31, div. A, title XVI, § 1681, Dec. 22, 2023, 137 Stat. 611; Pub. L. 118–159, div. A, title XVII, § 1701(a)(2), div. B, title XXVIII, § 2871(c)(1), Dec. 23, 2024, 138 Stat. 2203, 2281; Pub. L. 119–60, div. A, title XVII, § 1707, Dec. 18, 2025, 139 Stat. 1215.)
+(Added Pub. L. 114–328, div. A, title XVI, § 1697(a), Dec. 23, 2016, 130 Stat. 2639; amended Pub. L. 115–91, div. A, title XVI, § 1692, Dec. 12, 2017, 131 Stat. 1788; Pub. L. 116–92, div. A, title XVI, § 1694, title XVII, § 1731(a)(6), Dec. 20, 2019, 133 Stat. 1791, 1812; Pub. L. 116–283, div. A, title X, § 1081(a)(8), title XVIII, § 1845(c)(4), Jan. 1, 2021, 134 Stat. 3871, 4247; Pub. L. 118–31, div. A, title XVI, § 1681, Dec. 22, 2023, 137 Stat. 611; Pub. L. 118–159, div. A, title XVII, § 1701(a)(2), div. B, title XXVIII, § 2871(c)(1), Dec. 23, 2024, 138 Stat. 2203, 2281; Pub. L. 119–60, div. A, title XVII, § 1707, Dec. 18, 2025, 139 Stat. 1215.)
 
 **Editorial Notes**
 
@@ -2723,71 +2723,71 @@ The Presidential Protection Assistance Act of 1976, referred to in subsec. (m)(4
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 1707(1), substituted “section 32, 1030, or 1367 or chapter 119 or 206 of title 18” for “any provision of title 18” and a comma for “and” after “officers”, and inserted “, and contractors” after “civilian employees”.
+2025—Subsec. (a). Pub. L. 119–60, § 1707(1), substituted “section 32, 1030, or 1367 or chapter 119 or 206 of title 18” for “any provision of title 18” and a comma for “and” after “officers”, and inserted “, and contractors” after “civilian employees”.
 
-Subsec. (b)(1)(B). Pub. L. 119–60, § 1707(2), inserted “, including through the use of remote identification broadcast or other means” after “electromagnetic means”.
+Subsec. (b)(1)(B). Pub. L. 119–60, § 1707(2), inserted “, including through the use of remote identification broadcast or other means” after “electromagnetic means”.
 
-Subsec. (c). Pub. L. 119–60, § 1707(3), designated existing provisions as par. (1) and added par. (2).
+Subsec. (c). Pub. L. 119–60, § 1707(3), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d)(2)(C). Pub. L. 119–60, § 1707(4)(A), added subpar. (C).
+Subsec. (d)(2)(C). Pub. L. 119–60, § 1707(4)(A), added subpar. (C).
 
-Subsec. (d)(3). Pub. L. 119–60, § 1707(4)(B), added par. (3).
+Subsec. (d)(3). Pub. L. 119–60, § 1707(4)(B), added par. (3).
 
-Subsec. (e)(1). Pub. L. 119–60, § 1707(5)(A), substituted a comma for “or” before “acquisition” and “amendments” for “amendment”, and inserted “, maintenance, or use” after “acquisition” and “first and” before “fourth”.
+Subsec. (e)(1). Pub. L. 119–60, § 1707(5)(A), substituted a comma for “or” before “acquisition” and “amendments” for “amendment”, and inserted “, maintenance, or use” after “acquisition” and “first and” before “fourth”.
 
-Subsec. (e)(2). Pub. L. 119–60, § 1707(5)(B), substituted “an action described in subsection (b)(1)” for “a function of the Department of Defense”.
+Subsec. (e)(2). Pub. L. 119–60, § 1707(5)(B), substituted “an action described in subsection (b)(1)” for “a function of the Department of Defense”.
 
-Subsec. (e)(3). Pub. L. 119–60, § 1707(5)(C)(i), in introductory provisions, substituted “maintained only for as long as necessary, and in no event maintained” for “not maintained”.
+Subsec. (e)(3). Pub. L. 119–60, § 1707(5)(C)(i), in introductory provisions, substituted “maintained only for as long as necessary, and in no event maintained” for “not maintained”.
 
-Subsec. (e)(3)(A). Pub. L. 119–60, § 1707(5)(C)(ii), substituted “investigate or prosecute a violation of law or to directly support an ongoing security operation” for “support one or more functions of the Department of Defense”.
+Subsec. (e)(3)(A). Pub. L. 119–60, § 1707(5)(C)(ii), substituted “investigate or prosecute a violation of law or to directly support an ongoing security operation” for “support one or more functions of the Department of Defense”.
 
-Subsec. (e)(3)(B). Pub. L. 119–60, § 1707(5)(C)(iii), substituted “under Federal law or for the purpose of any litigation” for “for a longer period to support a civilian law enforcement agency or by any other applicable law or regulation”.
+Subsec. (e)(3)(B). Pub. L. 119–60, § 1707(5)(C)(iii), substituted “under Federal law or for the purpose of any litigation” for “for a longer period to support a civilian law enforcement agency or by any other applicable law or regulation”.
 
-Subsec. (e)(4)(A). Pub. L. 119–60, § 1707(6)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “would fulfill a function of the Department of Defense;”.
+Subsec. (e)(4)(A). Pub. L. 119–60, § 1707(6)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “would fulfill a function of the Department of Defense;”.
 
-Subsec. (e)(4)(C), (D). Pub. L. 119–60, § 1707(6)(B)–(D), added subpar. (C) and redesignated former subpar. (C) as (D).
+Subsec. (e)(4)(C), (D). Pub. L. 119–60, § 1707(6)(B)–(D), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsecs. (f), (g). Pub. L. 119–60, § 1707(10), (11), added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Subsecs. (f), (g). Pub. L. 119–60, § 1707(10), (11), added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 119–60, § 1707(12)(A), substituted “Reports” for “Briefings” in heading.
+Subsec. (h). Pub. L. 119–60, § 1707(12)(A), substituted “Reports” for “Briefings” in heading.
 
-Pub. L. 119–60, § 1707(10), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (j).
+Pub. L. 119–60, § 1707(10), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (j).
 
-Subsec. (h)(1) to (3). Pub. L. 119–60, § 1707(12)(B)–(D), substituted “2026” for “2018” and “shall submit to the appropriate congressional committees and publish on a publicly available website a report summarizing all detection and mitigation activities conducted under this section during the previous year to counter unmanned aircraft systems.” for “and the Secretary of Transportation, shall jointly provide a briefing to the appropriate congressional committees on the activities carried out pursuant to this section. Such briefings shall include—”; inserted “(2) Each report under paragraph (1) shall include—” before subpar. (A); redesignated former par. (2) as (3); and, in par. (3) as redesignated, substituted “and shall” for “but may”.
+Subsec. (h)(1) to (3). Pub. L. 119–60, § 1707(12)(B)–(D), substituted “2026” for “2018” and “shall submit to the appropriate congressional committees and publish on a publicly available website a report summarizing all detection and mitigation activities conducted under this section during the previous year to counter unmanned aircraft systems.” for “and the Secretary of Transportation, shall jointly provide a briefing to the appropriate congressional committees on the activities carried out pursuant to this section. Such briefings shall include—”; inserted “(2) Each report under paragraph (1) shall include—” before subpar. (A); redesignated former par. (2) as (3); and, in par. (3) as redesignated, substituted “and shall” for “but may”.
 
-Subsec. (i). Pub. L. 119–60, § 1707(8), (13), added subsec. (i) and struck out former subsec. (i), which terminated, on Dec. 31, 2026, authority to carry out this section with respect to certain covered facilities or assets.
+Subsec. (i). Pub. L. 119–60, § 1707(8), (13), added subsec. (i) and struck out former subsec. (i), which terminated, on Dec. 31, 2026, authority to carry out this section with respect to certain covered facilities or assets.
 
-Subsec. (j). Pub. L. 119–60, § 1707(9), redesignated subsec. (h) as (j). Former subsec. (j) redesignated (m).
+Subsec. (j). Pub. L. 119–60, § 1707(9), redesignated subsec. (h) as (j). Former subsec. (j) redesignated (m).
 
-Subsecs. (k), (*l*). Pub. L. 119–60, § 1707(14), added subsecs. (k) and (*l*).
+Subsecs. (k), (*l*). Pub. L. 119–60, § 1707(14), added subsecs. (k) and (*l*).
 
-Subsec. (m). Pub. L. 119–60, § 1707(15), which directed amendment of “subsection (m)(3)” of this section, as redesignated by Pub. L. 119–60, § 1707(7), was executed by making the following amendments to subsec. (m) as redesignated by Pub. L. 119–60, § 1707(7), to reflect the probable intent of Congress: adding par. (3); redesignating former pars. (3) to (6) as (4) to (7), respectively; and, in par. (4) as so redesignated, substituting “covered facility or asset—” for “ ‘covered facility or asset’ means any facility or asset that—” in introductory provisions, redesignating subpars. (A) to (C) as cls. (i) to (iii), respectively, inserting “(A) means any facility or asset that—” before cl. (i), as so redesignated, redesignating cls. (i) to (ix) of former subpar. (C) as subcls. (I) to (IX), respectively, of cl. (iii) and adding subcl. (X) at end of cl. (iii), and adding subpar. (B).
+Subsec. (m). Pub. L. 119–60, § 1707(15), which directed amendment of “subsection (m)(3)” of this section, as redesignated by Pub. L. 119–60, § 1707(7), was executed by making the following amendments to subsec. (m) as redesignated by Pub. L. 119–60, § 1707(7), to reflect the probable intent of Congress: adding par. (3); redesignating former pars. (3) to (6) as (4) to (7), respectively; and, in par. (4) as so redesignated, substituting “covered facility or asset—” for “ ‘covered facility or asset’ means any facility or asset that—” in introductory provisions, redesignating subpars. (A) to (C) as cls. (i) to (iii), respectively, inserting “(A) means any facility or asset that—” before cl. (i), as so redesignated, redesignating cls. (i) to (ix) of former subpar. (C) as subcls. (I) to (IX), respectively, of cl. (iii) and adding subcl. (X) at end of cl. (iii), and adding subpar. (B).
 
-Pub. L. 119–60, § 1707(7), redesignated subsec. (j) as (m).
+Pub. L. 119–60, § 1707(7), redesignated subsec. (j) as (m).
 
-Subsec. (n). Pub. L. 119–60, § 1707(16), added subsec. (n).
+Subsec. (n). Pub. L. 119–60, § 1707(16), added subsec. (n).
 
-2024—Subsec. (j)(3)(C)(ix). Pub. L. 118–159, § 2871(c)(1), which directed substitution of “section 4173” for “sections 4173(i)”, was executed by making the substitution for “section 4173(i)”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 118–159, § 1701(a)(2). See below and see section 1701(h) of Pub. L. 118–159, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act under section 101 of this title.
+2024—Subsec. (j)(3)(C)(ix). Pub. L. 118–159, § 2871(c)(1), which directed substitution of “section 4173” for “sections 4173(i)”, was executed by making the substitution for “section 4173(i)”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 118–159, § 1701(a)(2). See below and see section 1701(h) of Pub. L. 118–159, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act under section 101 of this title.
 
-Pub. L. 118–159, § 1701(a)(2), substituted “section” for “sections”.
+Pub. L. 118–159, § 1701(a)(2), substituted “section” for “sections”.
 
 2023—Subsec. (i). Pub. L. 118–31 substituted “2026” for “2023” in pars. (1) and (2).
 
-2021—Subsec. (i)(1). Pub. L. 116–283, § 1081(a)(8)(A), substituted “of subsection (j)(3)(C) shall” for “of subsection (j)(3)(C) shall”, resulting in no change in text. See 2019 Amendment notes and Coordination of Amendments by Pub. L. 116–92 note below.
+2021—Subsec. (i)(1). Pub. L. 116–283, § 1081(a)(8)(A), substituted “of subsection (j)(3)(C) shall” for “of subsection (j)(3)(C) shall”, resulting in no change in text. See 2019 Amendment notes and Coordination of Amendments by Pub. L. 116–92 note below.
 
-Subsec. (j)(3)(C)(ix). Pub. L. 116–283, § 1845(c)(4), substituted “sections 4173(i)” for “section 196(i)”.
+Subsec. (j)(3)(C)(ix). Pub. L. 116–283, § 1845(c)(4), substituted “sections 4173(i)” for “section 196(i)”.
 
-Subsec. (j)(6). Pub. L. 116–283, § 1081(a)(8)(B), inserted a period at end.
+Subsec. (j)(6). Pub. L. 116–283, § 1081(a)(8)(B), inserted a period at end.
 
-2019—Subsec. (i). Pub. L. 116–92, § 1694(a), substituted “2023” for “2020” in two places.
+2019—Subsec. (i). Pub. L. 116–92, § 1694(a), substituted “2023” for “2020” in two places.
 
-Subsec. (i)(1). Pub. L. 116–92, § 1731(a)(6)(A), inserted “(C)” after “subsection (j)(3)”.
+Subsec. (i)(1). Pub. L. 116–92, § 1731(a)(6)(A), inserted “(C)” after “subsection (j)(3)”.
 
-Pub. L. 116–92, § 1694(b)(1), which directed substitution of “of subsection (j)(3)(C)” for “of subsection (j)(3)”, resulted in no change in text because of prior execution of amendment by Pub. L. 116–92, § 1731(a)(6)(A). See Amendment note above and Coordination of Amendments by Pub. L. 116–92 note below.
+Pub. L. 116–92, § 1694(b)(1), which directed substitution of “of subsection (j)(3)(C)” for “of subsection (j)(3)”, resulted in no change in text because of prior execution of amendment by Pub. L. 116–92, § 1731(a)(6)(A). See Amendment note above and Coordination of Amendments by Pub. L. 116–92 note below.
 
-Subsec. (j)(6). Pub. L. 116–92, § 1731(a)(6)(B), substituted “44802” for “40101”.
+Subsec. (j)(6). Pub. L. 116–92, § 1731(a)(6)(B), substituted “44802” for “40101”.
 
-Pub. L. 116–92, § 1694(b)(2), substituted “in section 44801 of title 49” for “in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 44802 note).”
+Pub. L. 116–92, § 1694(b)(2), substituted “in section 44801 of title 49” for “in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 44802 note).”
 
 2017—Pub. L. 115–91 amended section generally. Prior to amendment, section related to protection of certain facilities and assets from unmanned aircraft and consisted of provisions relating to authority of Secretary of Defense, authorized actions, forfeiture, regulations, and definitions.
 
@@ -2799,7 +2799,7 @@ Amendment by section 1845(c)(4) of Pub. L. 116–283 effective Jan. 1, 2022, wit
 
 **Pilot Program on Enhanced Use of Advanced Sensor Networks To Improve Air Force Counter-Unmanned Aircraft System Capabilities for Base Defense**
 
-Pub. L. 119–60, div. A, title X, § 1088, Dec. 18, 2025, 139 Stat. 1059, provided that:
+Pub. L. 119–60, div. A, title X, § 1088, Dec. 18, 2025, 139 Stat. 1059, provided that:
 
 > **“(a) Establishment.—** Beginning not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of the Air Force, in coordination with the Director of the Joint Interagency Task Force 401 established under section 199 of title 10, United States Code, as added by section 912, and in consultation with the Administrator of the Federal Aviation Administration, shall carry out a pilot program, to be known as the ‘Enhancing Cooperation for Counter-Unmanned Aircraft Systems Program’, under which the Secretary shall incorporate the use of civilian civil airspace sensor networks into Air Force data processing systems to—
 
@@ -2857,7 +2857,7 @@ Pub. L. 119–60, div. A, title X, § 1088, Dec. 18, 2025, 139 Stat. 1059, pro
 
 **Pilot Program and Other Requirements for Accelerating Protection of Certain Facilities and Assets From Unmanned Aircraft**
 
-Pub. L. 119–60, div. A, title X, § 1089, Dec. 18, 2025, 139 Stat. 1060, provided that:
+Pub. L. 119–60, div. A, title X, § 1089, Dec. 18, 2025, 139 Stat. 1060, provided that:
 
 > **“(a) Requirements.—** Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense, acting through the Joint Interagency Task Force 401 established under section 199 of title 10, United States Code, as added by section 912, shall ensure that for each covered facility or asset at which the Secretary has determined counter-UAS operations are necessary to mitigate the threat that an unmanned aircraft system poses to the safety or security of such covered facility or asset—
 
@@ -2901,7 +2901,7 @@ Pub. L. 119–60, div. A, title X, § 1089, Dec. 18, 2025, 139 Stat. 1060, pro
 
 **Counter Unmanned Aerial System Threat Library**
 
-Pub. L. 118–159, div. A, title III, § 353, Dec. 23, 2024, 138 Stat. 1858, as amended by Pub. L. 119–60, div. A, title IX, § 912(d), Dec. 18, 2025, 139 Stat. 1018, provided that:
+Pub. L. 118–159, div. A, title III, § 353, Dec. 23, 2024, 138 Stat. 1858, as amended by Pub. L. 119–60, div. A, title IX, § 912(d), Dec. 18, 2025, 139 Stat. 1018, provided that:
 
 > **“(a) In General.—** Not later than June 30, 2027, the Director of the Joint Interagency Task Force 401 shall establish and maintain a threat library, or expand and maintain an existing threat library, to coordinate efforts across the Department of Defense to counter unmanned aircraft systems.
 
@@ -2917,7 +2917,7 @@ Pub. L. 118–159, div. A, title III, § 353, Dec. 23, 2024, 138 Stat. 1858, a
 
 **Counter Unmanned Aerial Systems Task Force**
 
-Pub. L. 118–159, div. A, title IX, § 925, Dec. 23, 2024, 138 Stat. 2041, provided that:
+Pub. L. 118–159, div. A, title IX, § 925, Dec. 23, 2024, 138 Stat. 2041, provided that:
 
 > **“(a) In General.—** Not later than 30 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall establish, or designate from existing organizations and personnel of the Department of Defense, a counter unmanned aerial systems task force, to be known as the ‘C-UAS Task Force’.
 
@@ -2961,7 +2961,7 @@ Pub. L. 118–159, div. A, title IX, § 925, Dec. 23, 2024, 138 Stat. 2041, pr
 
 **Assessment and Strategy for Fielding Capabilities To Counter Threats Posed by Unmanned Aerial System Swarms**
 
-Pub. L. 117–263, div. A, title I, § 162, Dec. 23, 2022, 136 Stat. 2462, provided that:
+Pub. L. 117–263, div. A, title I, § 162, Dec. 23, 2022, 136 Stat. 2462, provided that:
 
 > **“(a) Assessment, Analysis, and Review.—** The Secretary of Defense shall conduct—
 
@@ -3005,4 +3005,4 @@ Pub. L. 117–263, div. A, title I, § 162, Dec. 23, 2022, 136 Stat. 2462, pro
 
 Amendments to this section by section 1731 of Pub. L. 116–92 to be treated as having been enacted immediately before amendments by other provisions of Pub. L. 116–92, see section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.
 
-## [§§ 130j, 130k. Renumbered §§ 395, 396]
+## [§§ 130j, 130k. Renumbered §§ 395, 396]

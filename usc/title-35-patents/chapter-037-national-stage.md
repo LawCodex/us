@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2013—Pub. L. 112–274, § 1(i), Jan. 14, 2013, 126 Stat. 2457, struck out item 373 “Improper applicant”.
+2013—Pub. L. 112–274, § 1(i), Jan. 14, 2013, 126 Stat. 2457, struck out item 373 “Improper applicant”.
 
-1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4507(12)], as added by Pub. L. 107–273, div. C, title III, § 13205(2)(F), Nov. 2, 2002, 116 Stat. 1903, substituted “Publication of international application” for “Publication of international application: Effect” in item 374.
+1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4507(12)], as added by Pub. L. 107–273, div. C, title III, § 13205(2)(F), Nov. 2, 2002, 116 Stat. 1903, substituted “Publication of international application” for “Publication of international application: Effect” in item 374.
 
-## § 371. National stage: Commencement
+## § 371. National stage: Commencement
 
 **(a)** Receipt from the International Bureau of copies of international applications with any amendments to the claims, international search reports, and international preliminary examination reports including any annexes thereto may be required in the case of international applications designating or electing the United States.
 
@@ -47,49 +47,49 @@ retrieved: 2026-10-11
 
 **(f)** At the express request of the applicant, the national stage of processing may be commenced at any time at which the application is in order for such purpose and the applicable requirements of subsection (c) of this section have been complied with.
 
-(Added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 688; amended Pub. L. 98–622, title IV, §§ 402(a)–(d), 403(a), Nov. 8, 1984, 98 Stat. 3391, 3392; Pub. L. 99–616, § 7, Nov. 6, 1986, 100 Stat. 3486; Pub. L. 102–204, § 5(g)(2), Dec. 10, 1991, 105 Stat. 1641; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(a)(20), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1905, 1906; Pub. L. 112–29, § 20(i)(5), (j), Sept. 16, 2011, 125 Stat. 335; Pub. L. 112–211, title II, § 202(b)(9), Dec. 18, 2012, 126 Stat. 1536.)
+(Added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 688; amended Pub. L. 98–622, title IV, §§ 402(a)–(d), 403(a), Nov. 8, 1984, 98 Stat. 3391, 3392; Pub. L. 99–616, § 7, Nov. 6, 1986, 100 Stat. 3486; Pub. L. 102–204, § 5(g)(2), Dec. 10, 1991, 105 Stat. 1641; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(a)(20), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1905, 1906; Pub. L. 112–29, § 20(i)(5), (j), Sept. 16, 2011, 125 Stat. 335; Pub. L. 112–211, title II, § 202(b)(9), Dec. 18, 2012, 126 Stat. 1536.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2012—Subsec. (d). Pub. L. 112–211 struck out “, unless it be shown to the satisfaction of the Director that such failure to comply was unavoidable” after “by the parties thereof”.
+2012—Subsec. (d). Pub. L. 112–211 struck out “, unless it be shown to the satisfaction of the Director that such failure to comply was unavoidable” after “by the parties thereof”.
 
-2011—Subsec. (b). Pub. L. 112–29, § 20(i)(5), substituted “of the treaty.” for “of the treaty”.
+2011—Subsec. (b). Pub. L. 112–29, § 20(i)(5), substituted “of the treaty.” for “of the treaty”.
 
-Subsec. (c)(1). Pub. L. 112–29, § 20(j), struck out “of this title” after “41(a)”.
+Subsec. (c)(1). Pub. L. 112–29, § 20(j), struck out “of this title” after “41(a)”.
 
-Subsec. (c)(4). Pub. L. 112–29, § 20(j), struck out “of this title” after “11” and after “115”.
+Subsec. (c)(4). Pub. L. 112–29, § 20(j), struck out “of this title” after “11” and after “115”.
 
-2002—Subsec. (d). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+2002—Subsec. (d). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-Pub. L. 107–273, § 13206(a)(20), inserted period at end.
+Pub. L. 107–273, § 13206(a)(20), inserted period at end.
 
-1999—Subsec. (d). Pub. L. 106–113, as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
+1999—Subsec. (d). Pub. L. 106–113, as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
 
 1991—Subsec. (c)(1). Pub. L. 102–204 substituted “provided in section 41(a) of this title” for “prescribed under section 376(a)(4) of this part”.
 
-1986—Subsec. (a). Pub. L. 99–616, § 7(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Receipt from the International Bureau of copies of international applications with amendments to the claims, if any, and international search reports may be required in the case of all international applications designating the United States.”
+1986—Subsec. (a). Pub. L. 99–616, § 7(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Receipt from the International Bureau of copies of international applications with amendments to the claims, if any, and international search reports may be required in the case of all international applications designating the United States.”
 
-Subsec. (b). Pub. L. 99–616, § 7(b), amended subsec. (b) generally, substituting “, or under article 39(1)(a) of the treaty” for “of the treaty.”
+Subsec. (b). Pub. L. 99–616, § 7(b), amended subsec. (b) generally, substituting “, or under article 39(1)(a) of the treaty” for “of the treaty.”
 
-Subsec. (c)(4), (5). Pub. L. 99–616, § 7(c), (d), substituted a semicolon for a period at end of par. (4) and added par. (5).
+Subsec. (c)(4), (5). Pub. L. 99–616, § 7(c), (d), substituted a semicolon for a period at end of par. (4) and added par. (5).
 
-Subsec. (d). Pub. L. 99–616, § 7(e), inserted “The requirement of subsection (c)(5) shall be complied with at such time as may be fixed by the Commissioner and failure to do so shall be regarded as cancellation of the amendments made under article 34(2)(b) of the treaty” at end.
+Subsec. (d). Pub. L. 99–616, § 7(e), inserted “The requirement of subsection (c)(5) shall be complied with at such time as may be fixed by the Commissioner and failure to do so shall be regarded as cancellation of the amendments made under article 34(2)(b) of the treaty” at end.
 
-Subsec. (e). Pub. L. 99–616, § 7(f), inserted “or article 41” after “article 28”.
+Subsec. (e). Pub. L. 99–616, § 7(f), inserted “or article 41” after “article 28”.
 
-1984—Subsec. (a). Pub. L. 98–622, § 402(a), substituted “may be” for “is” and struck out “, except those filed in the Patent Office” after “United States”, which amendment was executed by striking out “, except those filed in the Patent and Trademark Office” as the probable intent of Congress in view of the amendment by section 403(a) of Pub. L. 98–622. See Effective Date of 1984 Amendment note below.
+1984—Subsec. (a). Pub. L. 98–622, § 402(a), substituted “may be” for “is” and struck out “, except those filed in the Patent Office” after “United States”, which amendment was executed by striking out “, except those filed in the Patent and Trademark Office” as the probable intent of Congress in view of the amendment by section 403(a) of Pub. L. 98–622. See Effective Date of 1984 Amendment note below.
 
-Pub. L. 98–622, § 403(a), substituted “Patent and Trademark Office” for “Patent Office”.
+Pub. L. 98–622, § 403(a), substituted “Patent and Trademark Office” for “Patent Office”.
 
-Subsec. (b). Pub. L. 98–622 struck out “, at which time the applicant shall have complied with the applicable requirements specified in subsection (c) of this section” after “of the treaty”.
+Subsec. (b). Pub. L. 98–622 struck out “, at which time the applicant shall have complied with the applicable requirements specified in subsection (c) of this section” after “of the treaty”.
 
-Subsec. (c). Pub. L. 98–622, § 403(a), substituted “Patent and Trademark Office” for “Patent Office” in provisions preceding par. (1) and in par. (3).
+Subsec. (c). Pub. L. 98–622, § 403(a), substituted “Patent and Trademark Office” for “Patent Office” in provisions preceding par. (1) and in par. (3).
 
-Subsec. (c)(2). Pub. L. 98–622, § 402(c)(1), (2), substituted “communicated by” for “received from” and struck out “verified” before “translation”.
+Subsec. (c)(2). Pub. L. 98–622, § 402(c)(1), (2), substituted “communicated by” for “received from” and struck out “verified” before “translation”.
 
-Subsec. (d). Pub. L. 98–622, § 402(d), substituted provisions setting forth time periods for compliance with the requirements of subsec. (c), payments of surcharges, and the effect of failure to comply for provisions related only to the effect of failure to comply with the requirements of subsec. (c).
+Subsec. (d). Pub. L. 98–622, § 402(d), substituted provisions setting forth time periods for compliance with the requirements of subsec. (c), payments of surcharges, and the effect of failure to comply for provisions related only to the effect of failure to comply with the requirements of subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -103,7 +103,7 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1986 Amendment**
 
@@ -119,7 +119,7 @@ Amendment by section 403(a) of Pub. L. 98–622 effective Nov. 8, 1984, see sect
 
 Section effective Jan. 24, 1978, and applicable to international and national applications filed, on and after that date, see section 11 of Pub. L. 94–131, set out as a note under section 351 of this title.
 
-## § 372. National stage: Requirements and procedure
+## § 372. National stage: Requirements and procedure
 
 **(a)** All questions of substance and, within the scope of the requirements of the treaty and Regulations, procedure in an international application designating the United States shall be determined as in the case of national applications regularly filed in the Patent and Trademark Office.
 
@@ -131,7 +131,7 @@ Section effective Jan. 24, 1978, and applicable to international and national ap
 
 **(3)** the Director may require a verification of the translation of the international application or any other document pertaining to the application if the application or other document was filed in a language other than English.
 
-(Added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 689; amended Pub. L. 98–622, title IV, §§ 402(e), (f), 403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
+(Added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 689; amended Pub. L. 98–622, title IV, §§ 402(e), (f), 403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
 
 **Editorial Notes**
 
@@ -143,11 +143,11 @@ Section effective Jan. 24, 1978, and applicable to international and national ap
 
 1999—Subsec. (b). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
 
-1984—Subsec. (a). Pub. L. 98–622, § 403(a), substituted “Patent and Trademark Office” for “Patent Office”.
+1984—Subsec. (a). Pub. L. 98–622, § 403(a), substituted “Patent and Trademark Office” for “Patent Office”.
 
-Subsec. (b)(3). Pub. L. 98–622, § 402(e), added par. (3).
+Subsec. (b)(3). Pub. L. 98–622, § 402(e), added par. (3).
 
-Subsec. (c). Pub. L. 98–622, § 402(f), struck out subsec. (c) which related to cancellation of claims and payment of special fees.
+Subsec. (c). Pub. L. 98–622, § 402(f), struck out subsec. (c) which related to cancellation of claims and payment of special fees.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -157,7 +157,7 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1984 Amendment**
 
@@ -169,9 +169,9 @@ Amendment by section 403(a) of Pub. L. 98–622 effective Nov. 8, 1984, see sect
 
 Section effective Jan. 24, 1978, and applicable to international and national applications filed, on and after that date, see section 11 of Pub. L. 94–131, set out as a note under section 351 of this title.
 
-## [§ 373. Repealed. Pub. L. 112–274, § 1(i), Jan. 14, 2013, 126 Stat. 2457]
+## [§ 373. Repealed. Pub. L. 112–274, § 1(i), Jan. 14, 2013, 126 Stat. 2457]
 
-Section, added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 689; amended Pub. L. 98–622, title IV, § 403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 103–465, title V, § 532(c)(5), Dec. 8, 1994, 108 Stat. 4987; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335, related to improper applicant.
+Section, added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 689; amended Pub. L. 98–622, title IV, § 403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 103–465, title V, § 532(c)(5), Dec. 8, 1994, 108 Stat. 4987; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335, related to improper applicant.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -179,21 +179,21 @@ Section, added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 689; amended Pu
 
 Repeal effective Jan. 14, 2013, and applicable to proceedings commenced on or after such date, see section 1(n) of Pub. L. 112–274, set out as an Effective Date of 2013 Amendment note under section 5 of this title.
 
-## § 374. Publication of international application
+## § 374. Publication of international application
 
 The publication under the treaty defined in section 351(a), of an international application designating the United States shall be deemed a publication under section 122(b), except as provided in section 154(d).
 
-(Added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 689; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4507(10)], Nov. 29, 1999, 113 Stat. 1536, 1501A–566; Pub. L. 107–273, div. C, title III, § 13205(2)(E), Nov. 2, 2002, 116 Stat. 1903; Pub. L. 112–29, §§ 3(g)(4), 20(j), Sept. 16, 2011, 125 Stat. 288, 335.)
+(Added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 689; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4507(10)], Nov. 29, 1999, 113 Stat. 1536, 1501A–566; Pub. L. 107–273, div. C, title III, § 13205(2)(E), Nov. 2, 2002, 116 Stat. 1903; Pub. L. 112–29, §§ 3(g)(4), 20(j), Sept. 16, 2011, 125 Stat. 288, 335.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 20(j), struck out “of this title” after “351(a)” and after “and 154(d)”.
+2011—Pub. L. 112–29, § 20(j), struck out “of this title” after “351(a)” and after “and 154(d)”.
 
-Pub. L. 112–29, § 3(g)(4), substituted “section 154(d)” for “sections 102(e) and 154(d)”.
+Pub. L. 112–29, § 3(g)(4), substituted “section 154(d)” for “sections 102(e) and 154(d)”.
 
-2002—Pub. L. 107–273 amended Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(10)], see 1999 Amendment note below. Prior to being amended by Pub. L. 107–273, Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(10)], had amended this section to read as follows: “The publication under the treaty defined in section 351(a) of this title, of an international application designating the United States shall confer the same rights and shall have the same effect under this title as an application for patent published under section 122(b), except as provided in sections 102(e) and 154(d) of this title.”
+2002—Pub. L. 107–273 amended Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(10)], see 1999 Amendment note below. Prior to being amended by Pub. L. 107–273, Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(10)], had amended this section to read as follows: “The publication under the treaty defined in section 351(a) of this title, of an international application designating the United States shall confer the same rights and shall have the same effect under this title as an application for patent published under section 122(b), except as provided in sections 102(e) and 154(d) of this title.”
 
 1999—Pub. L. 106–113, as amended by Pub. L. 107–273, amended section catchline and text generally. Prior to amendment, text read as follows: “The publication under the treaty of an international application shall confer no rights and shall have no effect under this title other than that of a printed publication.”
 
@@ -207,27 +207,27 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
+Amendment by Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
 **Effective Date**
 
 Section effective Jan. 24, 1978, and applicable to international and national applications filed, on and after that date, see section 11 of Pub. L. 94–131, set out as a note under section 351 of this title.
 
-## § 375. Patent issued on international application: Effect
+## § 375. Patent issued on international application: Effect
 
 **(a)** A patent may be issued by the Director based on an international application designating the United States, in accordance with the provisions of this title. Such patent shall have the force and effect of a patent issued on a national application filed under the provisions of chapter 11.
 
 **(b)** Where due to an incorrect translation the scope of a patent granted on an international application designating the United States, which was not originally filed in the English language, exceeds the scope of the international application in its original language, a court of competent jurisdiction may retroactively limit the scope of the patent, by declaring it unenforceable to the extent that it exceeds the scope of the international application in its original language.
 
-(Added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 689; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§ 3(g)(5), 20(j), Sept. 16, 2011, 125 Stat. 288, 335.)
+(Added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 689; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§ 3(g)(5), 20(j), Sept. 16, 2011, 125 Stat. 288, 335.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Subsec. (a). Pub. L. 112–29, § 20(j), struck out “of this title” after “102(e)” and after “11”.
+2011—Subsec. (a). Pub. L. 112–29, § 20(j), struck out “of this title” after “102(e)” and after “11”.
 
-Pub. L. 112–29, § 3(g)(5), which directed substitution of “Such” for “Subject to section 102(e) of this title, such”, was executed by making the substitution for “Subject to section 102(e), such”, to reflect the probable intent of Congress, because the words “of this title” did not appear after “section 102(e)” subsequent to amendment by Pub. L. 112–29, § 20(j). See note above and Effective Date of 2011 Amendment notes below.
+Pub. L. 112–29, § 3(g)(5), which directed substitution of “Such” for “Subject to section 102(e) of this title, such”, was executed by making the substitution for “Subject to section 102(e), such”, to reflect the probable intent of Congress, because the words “of this title” did not appear after “section 102(e)” subsequent to amendment by Pub. L. 112–29, § 20(j). See note above and Effective Date of 2011 Amendment notes below.
 
 2002—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
@@ -243,13 +243,13 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date**
 
 Section effective Jan. 24, 1978, and applicable to international and national applications filed, on and after that date, see section 11 of Pub. L. 94–131, set out as a note under section 351 of this title.
 
-## § 376. Fees
+## § 376. Fees
 
 **(a)** The required payment of the international fee and the handling fee, which amounts are specified in the Regulations, shall be paid in United States currency. The Patent and Trademark Office shall charge a national fee as provided in section 41(a), and may also charge the following fees:
 
@@ -265,35 +265,35 @@ Section effective Jan. 24, 1978, and applicable to international and national ap
 
 **(b)** The amounts of fees specified in subsection (a) of this section, except the international fee and the handling fee, shall be prescribed by the Director. He may refund any sum paid by mistake or in excess of the fees so specified, or if required under the treaty and the Regulations. The Director may also refund any part of the search fee, the national fee, the preliminary examination fee, and any additional fees, where he determines such refund to be warranted.
 
-(Added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 690; amended Pub. L. 98–622, title IV, §§ 402(g), 403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 99–616, § 8, Nov. 6, 1986, 100 Stat. 3486; Pub. L. 102–204, § 5(g)(1), Dec. 10, 1991, 105 Stat. 1640; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(a)(21), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1905, 1906.)
+(Added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 690; amended Pub. L. 98–622, title IV, §§ 402(g), 403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 99–616, § 8, Nov. 6, 1986, 100 Stat. 3486; Pub. L. 102–204, § 5(g)(1), Dec. 10, 1991, 105 Stat. 1640; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(a)(21), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1905, 1906.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (a)(1) to (3). Pub. L. 107–273, § 13206(a)(21), substituted period for semicolon at end.
+2002—Subsec. (a)(1) to (3). Pub. L. 107–273, § 13206(a)(21), substituted period for semicolon at end.
 
-Subsecs. (a)(5), (b). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+Subsecs. (a)(5), (b). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-1999—Subsecs. (a)(5), (b). Pub. L. 106–113, as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
+1999—Subsecs. (a)(5), (b). Pub. L. 106–113, as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
 
-1991—Subsec. (a). Pub. L. 102–204, § 5(g)(1)(A), in introductory provisions inserted “shall charge a national fee as provided in section 41(a), and” after “Office”, redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4), which read as follows: “A national fee (see section 371(c));”.
+1991—Subsec. (a). Pub. L. 102–204, § 5(g)(1)(A), in introductory provisions inserted “shall charge a national fee as provided in section 41(a), and” after “Office”, redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4), which read as follows: “A national fee (see section 371(c));”.
 
-Subsec. (b). Pub. L. 102–204, § 5(g)(1)(B), substituted “the national fee, the preliminary examination fee,” for “the preliminary examination fee”.
+Subsec. (b). Pub. L. 102–204, § 5(g)(1)(B), substituted “the national fee, the preliminary examination fee,” for “the preliminary examination fee”.
 
-1986—Subsec. (a). Pub. L. 99–616, § 8(a), in introductory provisions, inserted “and the handling fee” and substituted “amounts are” for “amount is”, added par. (5), and redesignated former par. (5) as (6).
+1986—Subsec. (a). Pub. L. 99–616, § 8(a), in introductory provisions, inserted “and the handling fee” and substituted “amounts are” for “amount is”, added par. (5), and redesignated former par. (5) as (6).
 
-Subsec. (b). Pub. L. 99–616, § 8(b), inserted “and the handling fee” and “the preliminary examination fee and any additional fees,”.
+Subsec. (b). Pub. L. 99–616, § 8(b), inserted “and the handling fee” and “the preliminary examination fee and any additional fees,”.
 
-1984—Subsec. (a). Pub. L. 98–622, § 403(a), substituted “Patent and Trademark Office” for “Patent Office” in provision preceding par. (1).
+1984—Subsec. (a). Pub. L. 98–622, § 403(a), substituted “Patent and Trademark Office” for “Patent Office” in provision preceding par. (1).
 
-Subsec. (a)(5), (6). Pub. L. 98–622, § 402(g), redesignated par. (6) as (5). Former par. (5), which read “A special fee (to be paid when required; see section 372(c))”, was struck out.
+Subsec. (a)(5), (6). Pub. L. 98–622, § 402(g), redesignated par. (6) as (5). Former par. (5), which read “A special fee (to be paid when required; see section 372(c))”, was struck out.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1986 Amendment**
 

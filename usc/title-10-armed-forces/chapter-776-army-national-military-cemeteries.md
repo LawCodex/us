@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 446 of this title as this chapter and items 4721 to 4727 as 7721 to 7727, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 446 of this title as this chapter and items 4721 to 4727 as 7721 to 7727, respectively.
 
-2013—Pub. L. 113–66, div. A, title V, § 585(b), Dec. 26, 2013, 127 Stat. 777, added item 4727.
+2013—Pub. L. 113–66, div. A, title V, § 585(b), Dec. 26, 2013, 127 Stat. 777, added item 4727.
 
-## § 7721. Authority and responsibilities of the Secretary of the Army
+## § 7721. Authority and responsibilities of the Secretary of the Army
 
 **(a) General Authority.—** The Secretary of the Army shall develop, operate, manage, administer, oversee, and fund the Army National Military Cemeteries specified in subsection (b) in a manner and to standards that fully honor the service and sacrifices of the deceased members of the armed forces buried or inurned in the Cemeteries.
 
@@ -39,7 +39,7 @@ retrieved: 2026-10-11
 
 **(e) Budgetary and Reporting Requirements.—** The Secretary of the Army shall submit to the congressional defense committees and the Committees on Veterans’ Affairs of the Senate and House of Representatives an annual budget request (and detailed justifications for the amount of the request) to fund administration, operation and maintenance, and construction related to the Cemeteries. The Secretary may include, as necessary, proposals for new or amended statutory authority related to the Cemeteries.
 
-(Added Pub. L. 112–81, div. A, title V, § 591(a)(1), Dec. 31, 2011, 125 Stat. 1439, § 4721; renumbered § 7721, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 112–81, div. A, title V, § 591(a)(1), Dec. 31, 2011, 125 Stat. 1439, § 4721; renumbered § 7721, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -63,7 +63,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this s
 
 **Resumption of Caisson Services at Funeral Services at Arlington National Cemetery**
 
-Pub. L. 118–159, div. A, title X, § 1088, Dec. 23, 2024, 138 Stat. 2080, provided that:
+Pub. L. 118–159, div. A, title X, § 1088, Dec. 23, 2024, 138 Stat. 2080, provided that:
 
 > **“(a) Requirement.—** The Secretary of the Army shall conduct at least 20 funeral services with caisson services each week at Arlington National Cemetery beginning on the date on which the Secretary of the Army determines that—
 
@@ -93,7 +93,7 @@ Pub. L. 118–159, div. A, title X, § 1088, Dec. 23, 2024, 138 Stat. 2080, pr
 
 **Establishment of Caisson Platoon and Support for Military and State Funeral Services at Arlington National Cemetery**
 
-Pub. L. 118–31, div. A, title III, § 366, Dec. 22, 2023, 137 Stat. 234, provided that:
+Pub. L. 118–31, div. A, title III, § 366, Dec. 22, 2023, 137 Stat. 234, provided that:
 
 > **“(a) Establishment.—** There is established in the Department of the Army an equine unit, to be known as the ‘Caisson Platoon’, assigned to the 3rd Infantry Regiment of the Army. The duties of such unit shall include the provision of support for military and State funerals.
 
@@ -113,13 +113,13 @@ Pub. L. 118–31, div. A, title III, § 366, Dec. 22, 2023, 137 Stat. 234, pro
 
 **Digitization of Arlington National Cemetery Interment and Inurnment Records**
 
-Pub. L. 112–81, div. A, title V, § 591(b), Dec. 31, 2011, 125 Stat. 1441, provided that:
+Pub. L. 112–81, div. A, title V, § 591(b), Dec. 31, 2011, 125 Stat. 1441, provided that:
 
 > **“(1) Deadline for conversion and use.—** Not later than June 1, 2012, all records related to interments and inurnments at Arlington National Cemetery shall be converted to a digitized format. Thereafter, use of the digitized format shall be the method by which all subsequent records related to interments and inurnments at Arlington National Cemetery are preserved and utilized.
 
 > **“(2) Digitized format defined.—** In this subsection, the term ‘digitized format’ refers to the use of an electronic database for recordkeeping and includes the full accounting of all records of each specific gravesite and niche location at Arlington National Cemetery and the identification of the individual interred or inurned at each specific gravesite and niche location.”
 
-## § 7722. Interment and inurnment policy
+## § 7722. Interment and inurnment policy
 
 **(a) Eligibility Determinations Generally.—**
 
@@ -143,7 +143,7 @@ Pub. L. 112–81, div. A, title V, § 591(b), Dec. 31, 2011, 125 Stat. 1441, p
 
 **(5)** whose remains were cremated and whose ashes were scattered without interment of any portion of the ashes.
 
-(Added Pub. L. 112–81, div. A, title V, § 591(a)(1), Dec. 31, 2011, 125 Stat. 1439, § 4722; renumbered § 7722 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(d), 809(a), Aug. 13, 2018, 132 Stat. 1839, 1840.)
+(Added Pub. L. 112–81, div. A, title V, § 591(a)(1), Dec. 31, 2011, 125 Stat. 1439, § 4722; renumbered § 7722 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(d), 809(a), Aug. 13, 2018, 132 Stat. 1839, 1840.)
 
 **Editorial Notes**
 
@@ -153,9 +153,9 @@ A prior section 7722 was renumbered section 8892 of this title.
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 808(d), renumbered section 4722 of this title as this section.
+2018—Pub. L. 115–232, § 808(d), renumbered section 4722 of this title as this section.
 
-Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 7721(d)” for “section 4721(d)”.
+Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 7721(d)” for “section 4721(d)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -163,7 +163,7 @@ Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 7721(d)” f
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7723. Advisory committee on Arlington National Cemetery
+## § 7723. Advisory committee on Arlington National Cemetery
 
 **(a) Appointment.—** The Secretary of the Army shall appoint an advisory committee on Arlington National Cemetery.
 
@@ -173,7 +173,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(d) Submission to Congress.—** Not later than 90 days after receiving a report or recommendations from the advisory committee under subsection (c), the Secretary of the Army shall submit the report or recommendations to the congressional defense committees and the Committees on Veterans’ Affairs of the Senate and House of Representatives and include such comments and recommendations of the Secretary as the Secretary considers appropriate.
 
-(Added Pub. L. 112–81, div. A, title V, § 591(a)(1), Dec. 31, 2011, 125 Stat. 1440, § 4723; renumbered § 7723, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 112–81, div. A, title V, § 591(a)(1), Dec. 31, 2011, 125 Stat. 1440, § 4723; renumbered § 7723, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -191,7 +191,7 @@ A prior section 7723 was renumbered section 8893 of this title.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7724. Executive Director
+## § 7724. Executive Director
 
 **(a) Appointment and Qualifications.—**
 
@@ -221,7 +221,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(10)** Supervising the superintendents of the Cemeteries.
 
-(Added Pub. L. 112–81, div. A, title V, § 591(a)(1), Dec. 31, 2011, 125 Stat. 1440, § 4724; renumbered § 7724, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 112–81, div. A, title V, § 591(a)(1), Dec. 31, 2011, 125 Stat. 1440, § 4724; renumbered § 7724, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -239,7 +239,7 @@ A prior section 7724 was renumbered section 8894 of this title.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7725. Superintendents
+## § 7725. Superintendents
 
 **(a) Appointment and Qualifications.—** An individual serving as the superintendent of one of the Cemeteries should have, as determined by the Secretary of the Army—
 
@@ -249,7 +249,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(b) Duties.—** The superintendents of the Cemeteries report directly to the Executive Director and performs such duties and responsibilities as the Executive Director prescribes.
 
-(Added Pub. L. 112–81, div. A, title V, § 591(a)(1), Dec. 31, 2011, 125 Stat. 1441, § 4725; renumbered § 7725, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 112–81, div. A, title V, § 591(a)(1), Dec. 31, 2011, 125 Stat. 1441, § 4725; renumbered § 7725, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -267,13 +267,13 @@ A prior section 7725 was renumbered section 8895 of this title.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7726. Oversight and inspections
+## § 7726. Oversight and inspections
 
 **(a) Inspections Required.—** The Secretary of the Army shall provide for the oversight of the Cemeteries to ensure the highest quality standards are maintained by providing for the periodic inspection of the administration, operation and maintenance, and construction elements applicable to the Cemeteries. The inspections shall be conducted by personnel of the Department of the Army with the assistance, as the Secretary considers appropriate, of personnel from other Federal agencies and civilian experts.
 
 **(b) Submission of Results.—** Not later than 120 days after the completion of an inspection conducted under subsection (a), the Secretary of the Army shall submit to the congressional defense committees a report containing the results of the inspection and recommendations and a plan for corrective actions to be taken in response to the inspection.
 
-(Added Pub. L. 112–81, div. A, title V, § 591(a)(1), Dec. 31, 2011, 125 Stat. 1441, § 4726; renumbered § 7726, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 112–81, div. A, title V, § 591(a)(1), Dec. 31, 2011, 125 Stat. 1441, § 4726; renumbered § 7726, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -291,7 +291,7 @@ A prior section 7726 was renumbered section 8896 of this title.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7727. Cemetery concessions contracts
+## § 7727. Cemetery concessions contracts
 
 **(a) Contracts Authorized.—** The Secretary of the Army may enter into a contract with an appropriate entity for the provision of transportation, interpretative, or other necessary or appropriate concession services to visitors at the Army National Military Cemeteries.
 
@@ -307,7 +307,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(e) Concession Contract Defined.—** In this section, the term “concession contract” means a contract authorized and entered into under this section.
 
-(Added Pub. L. 113–66, div. A, title V, § 585(a), Dec. 26, 2013, 127 Stat. 777, § 4727; renumbered § 7727, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 113–66, div. A, title V, § 585(a), Dec. 26, 2013, 127 Stat. 777, § 4727; renumbered § 7727, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 

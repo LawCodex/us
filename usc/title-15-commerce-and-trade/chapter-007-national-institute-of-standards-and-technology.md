@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 7—NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY
 
-## § 271. Findings and purposes
+## § 271. Findings and purposes
 
 **(a)** The Congress finds and declares the following:
 
@@ -43,7 +43,7 @@ retrieved: 2026-10-11
 
 **(4)** to promote shared risks, accelerated development, and pooling of skills which will be necessary to strengthen America’s manufacturing industries.
 
-(Mar. 3, 1901, ch. 872, § 1, 31 Stat. 1449; Pub. L. 100–418, title V, § 5111, Aug. 23, 1988, 102 Stat. 1427.)
+(Mar. 3, 1901, ch. 872, § 1, 31 Stat. 1449; Pub. L. 100–418, title V, § 5111, Aug. 23, 1988, 102 Stat. 1427.)
 
 **Editorial Notes**
 
@@ -61,57 +61,57 @@ This chapter, referred to in subsec. (b), was in the original “this Act” mea
 
 Section 5115(c) of Pub. L. 100–418 provided that: “References in any other Federal law to the National Bureau of Standards shall be deemed to refer to the National Institute of Standards and Technology.”
 
-Act Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, created the Department of Labor and renamed the Department of Commerce and Labor as the Department of Commerce.
+Act Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, created the Department of Labor and renamed the Department of Commerce and Labor as the Department of Commerce.
 
 **Short Title of 2023 Amendment**
 
-Pub. L. 118–23, § 1, Dec. 19, 2023, 137 Stat. 125, provided that: “This Act [enacting section 278u of this title] may be cited as the ‘Testing, Rapid Analysis, and Narcotic Quality Research Act of 2023’ or the ‘TRANQ Research Act of 2023’.”
+Pub. L. 118–23, § 1, Dec. 19, 2023, 137 Stat. 125, provided that: “This Act [enacting section 278u of this title] may be cited as the ‘Testing, Rapid Analysis, and Narcotic Quality Research Act of 2023’ or the ‘TRANQ Research Act of 2023’.”
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–207, § 1, Dec. 4, 2020, 134 Stat. 1001, provided that: “This Act [enacting sections 278g–3a to 278g–3e of this title and provisions set out as a note under section 278g–3a of this title] may be cited as the ‘Internet of Things Cybersecurity Improvement Act of 2020’ or the ‘IoT Cybersecurity Improvement Act of 2020’.”
+Pub. L. 116–207, § 1, Dec. 4, 2020, 134 Stat. 1001, provided that: “This Act [enacting sections 278g–3a to 278g–3e of this title and provisions set out as a note under section 278g–3a of this title] may be cited as the ‘Internet of Things Cybersecurity Improvement Act of 2020’ or the ‘IoT Cybersecurity Improvement Act of 2020’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–236, § 1, Aug. 14, 2018, 132 Stat. 2444, provided that: “This Act [amending section 272 of this title and enacting provisions set out as notes under section 272 of this title] may be cited as the ‘NIST Small Business Cybersecurity Act’.”
+Pub. L. 115–236, § 1, Aug. 14, 2018, 132 Stat. 2444, provided that: “This Act [amending section 272 of this title and enacting provisions set out as notes under section 272 of this title] may be cited as the ‘NIST Small Business Cybersecurity Act’.”
 
 **Short Title of 2017 Amendment**
 
-Pub. L. 114–329, title V, § 501(a), Jan. 6, 2017, 130 Stat. 3023, provided that: “This section [enacting section 278k–1 of this title, amending sections 278g–5, 278k, and 278*l* of this title and section 2199 of Title 10, Armed Forces, and enacting provisions set out as notes under section 278k of this title] may be cited as the ‘Manufacturing Extension Partnership Improvement Act’.”
+Pub. L. 114–329, title V, § 501(a), Jan. 6, 2017, 130 Stat. 3023, provided that: “This section [enacting section 278k–1 of this title, amending sections 278g–5, 278k, and 278*l* of this title and section 2199 of Title 10, Armed Forces, and enacting provisions set out as notes under section 278k of this title] may be cited as the ‘Manufacturing Extension Partnership Improvement Act’.”
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–235, div. B, title VII, § 701, Dec. 16, 2014, 128 Stat. 2220, provided that: “This title [enacting section 278s of this title, amending section 3722 of this title and section 6622 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 278s of this title, and amending provisions set out as a note under this section] may be cited as the ‘Revitalize American Manufacturing and Innovation Act of 2014’.”
+Pub. L. 113–235, div. B, title VII, § 701, Dec. 16, 2014, 128 Stat. 2220, provided that: “This title [enacting section 278s of this title, amending section 3722 of this title and section 6622 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 278s of this title, and amending provisions set out as a note under this section] may be cited as the ‘Revitalize American Manufacturing and Innovation Act of 2014’.”
 
 **Short Title of 2011 Amendment**
 
-Pub. L. 111–358, title VII, § 701, Jan. 4, 2011, 124 Stat. 4041, provided that: “This title [amending section 278k of this title and enacting provisions set out as a note under section 278k of this title] may be cited as the ‘NIST Grants for Energy Efficiency, New Job Opportunities, and Business Solutions Act of 2010’ or the ‘NIST GREEN JOBS Act of 2010’.”
+Pub. L. 111–358, title VII, § 701, Jan. 4, 2011, 124 Stat. 4041, provided that: “This title [amending section 278k of this title and enacting provisions set out as a note under section 278k of this title] may be cited as the ‘NIST Grants for Energy Efficiency, New Job Opportunities, and Business Solutions Act of 2010’ or the ‘NIST GREEN JOBS Act of 2010’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–240, title IV, § 4221, Sept. 27, 2010, 124 Stat. 2596, provided that: “This part [part I (§§ 4221–4228) of subtitle B of title IV of Pub. L. 111–240, amending section 278k of this title and enacting provisions set out as a note under section 278n of this title] may be cited as the ‘Export Promotion Act of 2010’.”
+Pub. L. 111–240, title IV, § 4221, Sept. 27, 2010, 124 Stat. 2596, provided that: “This part [part I (§§ 4221–4228) of subtitle B of title IV of Pub. L. 111–240, amending section 278k of this title and enacting provisions set out as a note under section 278n of this title] may be cited as the ‘Export Promotion Act of 2010’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–309, § 1, Oct. 30, 1998, 112 Stat. 2935, provided that: “This Act [enacting sections 278g–2a, 278p, and 1511e of this title, amending sections 278k, 3704, and 3711a of this title, enacting provisions set out as notes under sections 272 and 3711 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Technology Administration Act of 1998’.”
+Pub. L. 105–309, § 1, Oct. 30, 1998, 112 Stat. 2935, provided that: “This Act [enacting sections 278g–2a, 278p, and 1511e of this title, amending sections 278k, 3704, and 3711a of this title, enacting provisions set out as notes under sections 272 and 3711 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Technology Administration Act of 1998’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–245, title II, § 201(a), Feb. 14, 1992, 106 Stat. 15, provided that: “This title [amending sections 272 and 278n of this title and enacting provisions set out as notes under section 278n of this title] may be cited as the ‘Emerging Technologies and Advanced Technology Program Amendments Act of 1991’.”
+Pub. L. 102–245, title II, § 201(a), Feb. 14, 1992, 106 Stat. 15, provided that: “This title [amending sections 272 and 278n of this title and enacting provisions set out as notes under section 278n of this title] may be cited as the ‘Emerging Technologies and Advanced Technology Program Amendments Act of 1991’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–418, title V, § 5101, Aug. 23, 1988, 102 Stat. 1426, provided that: “This part [part I (§§ 5101–5164) of subtitle B of title V of Pub. L. 100–418, enacting sections 205j–1, 278i to 278*o*, 282a, 1532, 1533, 3704a, and 4632 of this title, amending this section, sections 205a, 205b, 205k, 272 to 275, 278, 278b, 278d, 278e, 278g to 278g–4, 3703, 3706, 3708, 3710, 3710c, and 3713 of this title, and section 5315 of Title 5, Government Organization and Employees, repealing sections 280 to 282 of this title, enacting provisions set out as notes under this section, sections 272, 278*l*, and 278n of this title, and section 1803 of Title 30, Mineral Lands and Mining, and amending provisions set out as a note under this section] may be cited as the ‘Technology Competitiveness Act’.”
+Pub. L. 100–418, title V, § 5101, Aug. 23, 1988, 102 Stat. 1426, provided that: “This part [part I (§§ 5101–5164) of subtitle B of title V of Pub. L. 100–418, enacting sections 205j–1, 278i to 278*o*, 282a, 1532, 1533, 3704a, and 4632 of this title, amending this section, sections 205a, 205b, 205k, 272 to 275, 278, 278b, 278d, 278e, 278g to 278g–4, 3703, 3706, 3708, 3710, 3710c, and 3713 of this title, and section 5315 of Title 5, Government Organization and Employees, repealing sections 280 to 282 of this title, enacting provisions set out as notes under this section, sections 272, 278*l*, and 278n of this title, and section 1803 of Title 30, Mineral Lands and Mining, and amending provisions set out as a note under this section] may be cited as the ‘Technology Competitiveness Act’.”
 
 **Short Title**
 
-Act Mar. 3, 1901, ch. 872, § 36, formerly § 23, as added by Pub. L. 100–235, § 3(3), Jan. 8, 1988, 101 Stat. 1728; renumbered § 31 and amended Pub. L. 100–418, title V, §§ 5114(1), 5115(a)(2), Aug. 23, 1988, 102 Stat. 1432, 1433; renumbered § 32, Pub. L. 105–309, § 4(a), Oct. 30, 1998, 112 Stat. 2935; renumbered § 34, Pub. L. 110–69, title III, § 3007(1), Aug. 9, 2007, 121 Stat. 590; renumbered § 35, Pub. L. 113–235, div. B, title VII, § 703(1), Dec. 16, 2014, 128 Stat. 2221; renumbered § 36, Pub. L. 117–167, div. B, title II, § 10230(1), Aug. 9, 2022, 136 Stat. 1482, provided that: “This Act [enacting this chapter] may be cited as the National Institute of Standards and Technology Act.”
+Act Mar. 3, 1901, ch. 872, § 36, formerly § 23, as added by Pub. L. 100–235, § 3(3), Jan. 8, 1988, 101 Stat. 1728; renumbered § 31 and amended Pub. L. 100–418, title V, §§ 5114(1), 5115(a)(2), Aug. 23, 1988, 102 Stat. 1432, 1433; renumbered § 32, Pub. L. 105–309, § 4(a), Oct. 30, 1998, 112 Stat. 2935; renumbered § 34, Pub. L. 110–69, title III, § 3007(1), Aug. 9, 2007, 121 Stat. 590; renumbered § 35, Pub. L. 113–235, div. B, title VII, § 703(1), Dec. 16, 2014, 128 Stat. 2221; renumbered § 36, Pub. L. 117–167, div. B, title II, § 10230(1), Aug. 9, 2022, 136 Stat. 1482, provided that: “This Act [enacting this chapter] may be cited as the National Institute of Standards and Technology Act.”
 
 **Savings Provision**
 
-Act Mar. 3, 1901, ch. 872, § 29, as added Aug. 23, 1988, Pub. L. 100–418, title V, § 5161, 102 Stat. 1449, provided that: “All rules and regulations, determinations, standards, contracts, certifications, authorizations, delegations, results and findings of investigations, or other actions duly issued, made, or taken by or pursuant to this Act [enacting this chapter], or under the authority of any other statutes which resulted in the assignment of functions or activities to the Secretary, the Department, the Director, or the Institute, as are in effect immediately before the date of enactment of this section [Aug. 23, 1988], and not suspended by the Secretary, the Director, the Institute or the courts, shall continue in full force and effect after the date of enactment of this section until modified or rescinded.”
+Act Mar. 3, 1901, ch. 872, § 29, as added Aug. 23, 1988, Pub. L. 100–418, title V, § 5161, 102 Stat. 1449, provided that: “All rules and regulations, determinations, standards, contracts, certifications, authorizations, delegations, results and findings of investigations, or other actions duly issued, made, or taken by or pursuant to this Act [enacting this chapter], or under the authority of any other statutes which resulted in the assignment of functions or activities to the Secretary, the Department, the Director, or the Institute, as are in effect immediately before the date of enactment of this section [Aug. 23, 1988], and not suspended by the Secretary, the Director, the Institute or the courts, shall continue in full force and effect after the date of enactment of this section until modified or rescinded.”
 
-## § 272. Establishment, functions, and activities
+## § 272. Establishment, functions, and activities
 
 **(a) Establishment of National Institute of Standards and Technology**
 
@@ -145,9 +145,9 @@ There is established within the Department of Commerce a science, engineering, t
 
 **(13)** to coordinate technical standards activities and conformity assessment activities of Federal, State, and local governments with private sector technical standards activities and conformity assessment activities, with the goal of eliminating unnecessary duplication and complexity in the development and promulgation of conformity assessment requirements and measures.
 
-**(c) Implementation activities** In carrying out the functions specified in subsection (b), the Secretary, acting through the Director 1
+**(c) Implementation activities** In carrying out the functions specified in subsection (b), the Secretary, acting through the Director 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 may, among other things—
 
@@ -175,9 +175,9 @@ may, among other things—
 
 **(12)** develop and test standard interfaces, communication protocols, and data structures for computer and related telecommunications systems;
 
-**(13)** study computer systems (as that term is defined in section 278g–3(d) 2
+**(13)** study computer systems (as that term is defined in section 278g–3(d) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title) and their use to control machinery and processes;
 
@@ -203,9 +203,9 @@ of this title) and their use to control machinery and processes;
 
 **(24)** host, participate in, and support scientific and technical workshops (as defined in section 202 of the American Innovation and Competitiveness Act);
 
-**(25)** collect and retain any fees charged by the Secretary for hosting a scientific and technical workshop described in paragraph (19); <sup>2</sup>
+**(25)** collect and retain any fees charged by the Secretary for hosting a scientific and technical workshop described in paragraph (19); <sup>2</sup>
 
-**(26)** notwithstanding title 31 of the United States Code, use the fees described in paragraph (20) <sup>2</sup> to pay for any related expenses, including subsistence expenses for participants;
+**(26)** notwithstanding title 31 of the United States Code, use the fees described in paragraph (20) <sup>2</sup> to pay for any related expenses, including subsistence expenses for participants;
 
 **(27)** compile, evaluate, publish, and otherwise disseminate general, specific and technical data resulting from the performance of the functions specified in this section or from other sources when such data are important to science, engineering, or industry, or to the general public, and are not available elsewhere;
 
@@ -275,7 +275,7 @@ The term “critical infrastructure” has the meaning given the term in section
 
 The term “sector-specific agency” means the Federal department or agency responsible for providing institutional knowledge and specialized expertise as well as leading, facilitating, or supporting the security and resilience programs and associated activities of its designated critical infrastructure sector in the all-hazards environment.
 
-(Mar. 3, 1901, ch. 872, § 2, 31 Stat. 1449; July 22, 1950, ch. 486, § 1, 64 Stat. 371; Pub. L. 92–317, § 3(b), June 22, 1972, 86 Stat. 235; Pub. L. 100–235, § 3(1), Jan. 8, 1988, 101 Stat. 1724; Pub. L. 100–418, title V, § 5112(a), Aug. 23, 1988, 102 Stat. 1428; Pub. L. 102–245, title II, § 201(e), Feb. 14, 1992, 106 Stat. 19; Pub. L. 104–113, § 12(a), (b), Mar. 7, 1996, 110 Stat. 782; Pub. L. 110–69, title III, §§ 3002(c)(2)(A), 3013(b), Aug. 9, 2007, 121 Stat. 586, 598; Pub. L. 113–274, title I, § 101(a), (b), Dec. 18, 2014, 128 Stat. 2972; Pub. L. 114–329, title I, § 104(b)(4), title II, §§ 202(d), 205(a)(2)(B), title IV, § 403, Jan. 6, 2017, 130 Stat. 2976, 2998, 3000, 3023; Pub. L. 115–236, § 2(b), Aug. 14, 2018, 132 Stat. 2444; Pub. L. 117–167, div. B, title II, §§ 10223, 10228, 10242(a), Aug. 9, 2022, 136 Stat. 1477, 1481, 1487.)
+(Mar. 3, 1901, ch. 872, § 2, 31 Stat. 1449; July 22, 1950, ch. 486, § 1, 64 Stat. 371; Pub. L. 92–317, § 3(b), June 22, 1972, 86 Stat. 235; Pub. L. 100–235, § 3(1), Jan. 8, 1988, 101 Stat. 1724; Pub. L. 100–418, title V, § 5112(a), Aug. 23, 1988, 102 Stat. 1428; Pub. L. 102–245, title II, § 201(e), Feb. 14, 1992, 106 Stat. 19; Pub. L. 104–113, § 12(a), (b), Mar. 7, 1996, 110 Stat. 782; Pub. L. 110–69, title III, §§ 3002(c)(2)(A), 3013(b), Aug. 9, 2007, 121 Stat. 586, 598; Pub. L. 113–274, title I, § 101(a), (b), Dec. 18, 2014, 128 Stat. 2972; Pub. L. 114–329, title I, § 104(b)(4), title II, §§ 202(d), 205(a)(2)(B), title IV, § 403, Jan. 6, 2017, 130 Stat. 2976, 2998, 3000, 3023; Pub. L. 115–236, § 2(b), Aug. 14, 2018, 132 Stat. 2444; Pub. L. 117–167, div. B, title II, §§ 10223, 10228, 10242(a), Aug. 9, 2022, 136 Stat. 1477, 1481, 1487.)
 
 **Editorial Notes**
 
@@ -285,47 +285,47 @@ Section 278g–3 of this title, referred to in subsec. (c)(13), was amended, and
 
 Section 202 of the American Innovation and Competitiveness Act, referred to in subsec. (c)(24), is section 202 of Pub. L. 114–329, title II, Jan. 6, 2017, 130 Stat. 2997. Subsec. (a) of that section, which defines “scientific and technical workshop”, is not classified to the Code.
 
-Paragraphs (19) and (20), referred to in subsec. (c)(25) and (26), were redesignated as pars. (24) and (25), respectively, of subsec. (c) of this section by Pub. L. 117–167, div. B, title II, § 10223(2), Aug. 9, 2022, 136 Stat. 1477.
+Paragraphs (19) and (20), referred to in subsec. (c)(25) and (26), were redesignated as pars. (24) and (25), respectively, of subsec. (c) of this section by Pub. L. 117–167, div. B, title II, § 10223(2), Aug. 9, 2022, 136 Stat. 1477.
 
 **Amendments**
 
-2022—Subsec. (b)(4). Pub. L. 117–167, § 10242(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “to enter into contracts, including cooperative research and development arrangements, and grants and cooperative agreements, in furtherance of the purposes of this chapter;”.
+2022—Subsec. (b)(4). Pub. L. 117–167, § 10242(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “to enter into contracts, including cooperative research and development arrangements, and grants and cooperative agreements, in furtherance of the purposes of this chapter;”.
 
-Subsec. (c)(16). Pub. L. 117–167, § 10223(3), added par. (16). Former par. (16) redesignated (21).
+Subsec. (c)(16). Pub. L. 117–167, § 10223(3), added par. (16). Former par. (16) redesignated (21).
 
-Pub. L. 117–167, § 10223(1), substituted semicolon for period at end.
+Pub. L. 117–167, § 10223(1), substituted semicolon for period at end.
 
-Subsec. (c)(17) to (32). Pub. L. 117–167, § 10223(2), (3), added pars. (17) to (20) and redesignated former pars. (16) to (27) as (21) to (32), respectively.
+Subsec. (c)(17) to (32). Pub. L. 117–167, § 10223(2), (3), added pars. (17) to (20) and redesignated former pars. (16) to (27) as (21) to (32), respectively.
 
-Subsec. (e)(1)(A)(ix), (x). Pub. L. 117–167, § 10228, added cl. (ix) and redesignated former cl. (ix) as (x).
+Subsec. (e)(1)(A)(ix), (x). Pub. L. 117–167, § 10228, added cl. (ix) and redesignated former cl. (ix) as (x).
 
 2018—Subsec. (e)(1)(A)(viii), (ix). Pub. L. 115–236 added cl. (viii) and redesignated former cl. (viii) as (ix).
 
-2017—Subsec. (b). Pub. L. 114–329, § 403(1), in introductory provisions, substituted “authorized to serve as the President’s principal adviser on standards policy pertaining to the Nation’s technological competitiveness and innovation ability and to take” for “authorized to take”.
+2017—Subsec. (b). Pub. L. 114–329, § 403(1), in introductory provisions, substituted “authorized to serve as the President’s principal adviser on standards policy pertaining to the Nation’s technological competitiveness and innovation ability and to take” for “authorized to take”.
 
-Subsec. (b)(3). Pub. L. 114–329, § 403(2), substituted “facilitate standards-related information sharing and cooperation between Federal agencies” for “compare standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government”.
+Subsec. (b)(3). Pub. L. 114–329, § 403(2), substituted “facilitate standards-related information sharing and cooperation between Federal agencies” for “compare standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government”.
 
-Subsec. (b)(13). Pub. L. 114–329, § 403(3), substituted “technical standards activities and conformity assessment activities of Federal, State, and local governments with private sector” for “Federal, State, and local technical standards activities and conformity assessment activities, with private sector”.
+Subsec. (b)(13). Pub. L. 114–329, § 403(3), substituted “technical standards activities and conformity assessment activities of Federal, State, and local governments with private sector” for “Federal, State, and local technical standards activities and conformity assessment activities, with private sector”.
 
-Subsec. (c)(16) to (27). Pub. L. 114–329, §§ 104(b)(4), 202(d), added pars. (16) and (19) to (21), redesignated former pars. (16) and (17) as (17) and (18), respectively, and redesignated former pars. (18) to (23) as (22) to (27), respectively.
+Subsec. (c)(16) to (27). Pub. L. 114–329, §§ 104(b)(4), 202(d), added pars. (16) and (19) to (21), redesignated former pars. (16) and (17) as (17) and (18), respectively, and redesignated former pars. (18) to (23) as (22) to (27), respectively.
 
-Subsec. (d). Pub. L. 114–329, § 205(a)(2)(B), substituted “sections 278k and 278*l*” for “sections 278k, 278*l*, and 278n”.
+Subsec. (d). Pub. L. 114–329, § 205(a)(2)(B), substituted “sections 278k and 278*l*” for “sections 278k, 278*l*, and 278n”.
 
-2014—Subsec. (c)(15) to (23). Pub. L. 113–274, § 101(a), added par. (15) and redesignated former pars. (15) to (22) as (16) to (23), respectively.
+2014—Subsec. (c)(15) to (23). Pub. L. 113–274, § 101(a), added par. (15) and redesignated former pars. (15) to (22) as (16) to (23), respectively.
 
-Subsec. (e). Pub. L. 113–274, § 101(b), added subsec. (e).
+Subsec. (e). Pub. L. 113–274, § 101(b), added subsec. (e).
 
-2007—Subsec. (b). Pub. L. 110–69, § 3002(c)(2)(A)(i), struck out “and, if appropriate, through other officials,” before “is authorized” in introductory provisions.
+2007—Subsec. (b). Pub. L. 110–69, § 3002(c)(2)(A)(i), struck out “and, if appropriate, through other officials,” before “is authorized” in introductory provisions.
 
-Subsec. (b)(4). Pub. L. 110–69, § 3013(b), inserted “and grants and cooperative agreements,” after “arrangements,”.
+Subsec. (b)(4). Pub. L. 110–69, § 3013(b), inserted “and grants and cooperative agreements,” after “arrangements,”.
 
-Subsec. (c). Pub. L. 110–69, § 3002(c)(2)(A)(ii), struck out “and, if appropriate, through other appropriate officials,” before “may,” in introductory provisions.
+Subsec. (c). Pub. L. 110–69, § 3002(c)(2)(A)(ii), struck out “and, if appropriate, through other appropriate officials,” before “may,” in introductory provisions.
 
-1996—Subsec. (b)(2). Pub. L. 104–113, § 12(a)(1), struck out “, including comparing standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government” after “consistent with those standards”.
+1996—Subsec. (b)(2). Pub. L. 104–113, § 12(a)(1), struck out “, including comparing standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government” after “consistent with those standards”.
 
-Subsec. (b)(3) to (12). Pub. L. 104–113, § 12(a)(2), (3), added par. (3) and redesignated former pars. (3) to (11) as (4) to (12), respectively.
+Subsec. (b)(3) to (12). Pub. L. 104–113, § 12(a)(2), (3), added par. (3) and redesignated former pars. (3) to (11) as (4) to (12), respectively.
 
-Subsec. (b)(13). Pub. L. 104–113, § 12(b)(3), added par. (13).
+Subsec. (b)(13). Pub. L. 104–113, § 12(b)(3), added par. (13).
 
 1992—Subsec. (d). Pub. L. 102–245 added subsec. (d).
 
@@ -345,11 +345,11 @@ Reference to a Sector Specific Agency (including any permutations or conjugation
 
 **Construction of Pub. L. 115–236**
 
-Pub. L. 115–236, § 2(d), Aug. 14, 2018, 132 Stat. 2445, provided that: “Nothing in this section [amending this section and enacting provisions set out as notes under this section] may be construed to supersede, alter, or otherwise affect any cybersecurity requirements applicable to Federal agencies.”
+Pub. L. 115–236, § 2(d), Aug. 14, 2018, 132 Stat. 2445, provided that: “Nothing in this section [amending this section and enacting provisions set out as notes under this section] may be construed to supersede, alter, or otherwise affect any cybersecurity requirements applicable to Federal agencies.”
 
 **Reporting**
 
-Pub. L. 117–167, div. B, title II, § 10242(b), Aug. 9, 2022, 136 Stat. 1487, provided that:
+Pub. L. 117–167, div. B, title II, § 10242(b), Aug. 9, 2022, 136 Stat. 1487, provided that:
 
 > “Not later than one year after the date of the enactment of this Act [Aug. 9, 2022] and not less than annually thereafter, the Secretary [of Commerce] shall submit to the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate a report on the use of agreements, activities, and associated funding for transactions (other than contracts, cooperative agreements, and grants) described in paragraph (4) of section 2(b) of the National Institute of Standards and Technology Act [15 U.S.C. 272(b)(4)] (as amended by subsection (a)), including the following elements:
 
@@ -361,7 +361,7 @@ Pub. L. 117–167, div. B, title II, § 10242(b), Aug. 9, 2022, 136 Stat. 1487
 
 **Dissemination of Resources for Small Businesses**
 
-Pub. L. 115–236, § 2(c), Aug. 14, 2018, 132 Stat. 2444, as amended by Pub. L. 116–283, div. H, title XCIV, § 9401(g)(4)(B), Jan. 1, 2021, 134 Stat. 4809, provided that:
+Pub. L. 115–236, § 2(c), Aug. 14, 2018, 132 Stat. 2444, as amended by Pub. L. 116–283, div. H, title XCIV, § 9401(g)(4)(B), Jan. 1, 2021, 134 Stat. 4809, provided that:
 
 > **“(1) In general.—** Not later than one year after the date of the enactment of this Act [Aug. 14, 2018], the Director, in carrying out section 2(e)(1)(A)(viii) of the National Institute of Standards and Technology Act [15 U.S.C. 272(e)(1)(A)(viii)], as added by subsection (b) of this Act, in consultation with the heads of other appropriate Federal agencies, shall disseminate clear and concise resources to help small business concerns identify, assess, manage, and reduce their cybersecurity risks.
 
@@ -391,7 +391,7 @@ Pub. L. 115–236, § 2(c), Aug. 14, 2018, 132 Stat. 2444, as amended by Pub. 
 
 **NIST Cybersecurity Priorities**
 
-Pub. L. 114–329, title I, § 104(b)(1), (2), Jan. 6, 2017, 130 Stat. 2975, provided that:
+Pub. L. 114–329, title I, § 104(b)(1), (2), Jan. 6, 2017, 130 Stat. 2975, provided that:
 
 > **“(1) Critical infrastructure awareness.—** The Director of NIST [National Institute of Standards and Technology] shall continue to raise public awareness of the voluntary, industry-led cybersecurity standards and best practices for critical infrastructure developed under section 2(c)(15) of the National Institute of Standards and Technology Act (15 U.S.C. 272(c)(15)).
 
@@ -407,7 +407,7 @@ Pub. L. 114–329, title I, § 104(b)(1), (2), Jan. 6, 2017, 130 Stat. 2975, p
 
 **Laboratory Program Improvements**
 
-Pub. L. 114–329, title I, § 107, Jan. 6, 2017, 130 Stat. 2987, provided that:
+Pub. L. 114–329, title I, § 107, Jan. 6, 2017, 130 Stat. 2987, provided that:
 
 > **“(a) In General.—** The Director of NIST [National Institute of Standards and Technology], acting through the Associate Director for Laboratory Programs, shall develop and implement a comprehensive strategic plan for laboratory programs that expands—
 
@@ -427,7 +427,7 @@ Pub. L. 114–329, title I, § 107, Jan. 6, 2017, 130 Stat. 2987, provided tha
 
 **Enhancement of Science and Mathematics Programs**
 
-Pub. L. 105–309, § 6, Oct. 30, 1998, 112 Stat. 2936, as amended by Pub. L. 114–329, title II, § 204(a)(1)(A), Jan. 6, 2017, 130 Stat. 2998, provided that:
+Pub. L. 105–309, § 6, Oct. 30, 1998, 112 Stat. 2936, as amended by Pub. L. 114–329, title II, § 204(a)(1)(A), Jan. 6, 2017, 130 Stat. 2998, provided that:
 
 > **“(a) Definitions.—** In this section—
 
@@ -439,11 +439,11 @@ Pub. L. 105–309, § 6, Oct. 30, 1998, 112 Stat. 2936, as amended by Pub. L. 
 
 **Transmittal of Plan for Standards Conformity to Congress**
 
-Pub. L. 104–113, § 12(c), Mar. 7, 1996, 110 Stat. 783, provided that: “The National Institute of Standards and Technology shall, within 90 days after the date of enactment of this Act [Mar. 7, 1996], transmit to the Congress a plan for implementing the amendments made by this section [amending this section and enacting provisions set out as a note below].”
+Pub. L. 104–113, § 12(c), Mar. 7, 1996, 110 Stat. 783, provided that: “The National Institute of Standards and Technology shall, within 90 days after the date of enactment of this Act [Mar. 7, 1996], transmit to the Congress a plan for implementing the amendments made by this section [amending this section and enacting provisions set out as a note below].”
 
 **Utilization of Consensus Technical Standards by Federal Agencies**
 
-Pub. L. 104–113, § 12(d), Mar. 7, 1996, 110 Stat. 783, as amended by Pub. L. 107–107, div. A, title XI, § 1115, Dec. 28, 2001, 115 Stat. 1241, provided that:
+Pub. L. 104–113, § 12(d), Mar. 7, 1996, 110 Stat. 783, as amended by Pub. L. 107–107, div. A, title XI, § 1115, Dec. 28, 2001, 115 Stat. 1241, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (3) of this subsection, all Federal agencies and departments shall use technical standards that are developed or adopted by voluntary consensus standards bodies, using such technical standards as a means to carry out policy objectives or activities determined by the agencies and departments.
 
@@ -457,7 +457,7 @@ Pub. L. 104–113, § 12(d), Mar. 7, 1996, 110 Stat. 783, as amended by Pub. L
 
 **International Standards**
 
-Pub. L. 100–519, title I, § 112, Oct. 24, 1988, 102 Stat. 2592, provided that:
+Pub. L. 100–519, title I, § 112, Oct. 24, 1988, 102 Stat. 2592, provided that:
 
 > **“(a) Program.—** The Secretary, acting through the Director of the National Institute of Standards and Technology and other appropriate officials, shall seek funding for and establish, within 6 months after the date of the enactment of this Act [Oct. 24, 1988], a program to assist other countries in the development of their domestic standards which are compatible with standards in general use in the United States. After the program is established, it shall be funded through voluntary contributions from the private sector to fully reimburse the United States for expenses incurred during fiscal years 1989 and 1990. The program shall begin on a pilot basis focusing on one or two countries or groups of countries which are major United States trading partners and have expressed interest in such program. The Secretary shall ensure that contributions which are earmarked by country are spent to assist the development of standards by that country or group of countries.
 
@@ -465,7 +465,7 @@ Pub. L. 100–519, title I, § 112, Oct. 24, 1988, 102 Stat. 2592, provided th
 
 **Initial Organization Plan for Institute**
 
-Pub. L. 100–418, title V, § 5112(d), Aug. 23, 1988, 102 Stat. 1431, provided that:
+Pub. L. 100–418, title V, § 5112(d), Aug. 23, 1988, 102 Stat. 1431, provided that:
 
 > **“(1)** At least 60 days before its effective date and within 120 days after the date of the enactment of this Act [Aug. 23, 1988], an initial organization plan for the National Institute of Standards and Technology (hereafter in this part [see Short Title of 1988 Amendment note set out under section 271 of this title] referred to as the ‘Institute’) shall be submitted by the Director of the Institute (hereafter in this part referred to as the ‘Director’) after consultation with the Visiting Committee on Advanced Technology, to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. Such plan shall—
 
@@ -485,7 +485,7 @@ Pub. L. 100–418, title V, § 5112(d), Aug. 23, 1988, 102 Stat. 1431, provide
 
 **National Institute of Standards and Technology; Small Business Plan**
 
-Pub. L. 100–418, title V, § 5163(b), Aug. 23, 1988, 102 Stat. 1450, provided that: “The Director of the National Institute of Standards and Technology shall prepare a plan detailing the manner in which the Institute will make small businesses more aware of the Institute’s activities and research, and the manner in which the Institute will seek to increase the application by small businesses of the Institute’s research, particularly in manufacturing. The plan shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives not later than 120 days after the date of the enactment of this Act [Aug. 23, 1988].”
+Pub. L. 100–418, title V, § 5163(b), Aug. 23, 1988, 102 Stat. 1450, provided that: “The Director of the National Institute of Standards and Technology shall prepare a plan detailing the manner in which the Institute will make small businesses more aware of the Institute’s activities and research, and the manner in which the Institute will seek to increase the application by small businesses of the Institute’s research, particularly in manufacturing. The plan shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives not later than 120 days after the date of the enactment of this Act [Aug. 23, 1988].”
 
 **Construction of Radio Laboratory Building**
 
@@ -497,7 +497,7 @@ Act Oct. 25, 1949, ch. 728, 63 Stat. 905, provided for the construction and equi
 
 **Definitions**
 
-Pub. L. 115–236, § 2(a), Aug. 14, 2018, 132 Stat. 2444, provided that:
+Pub. L. 115–236, § 2(a), Aug. 14, 2018, 132 Stat. 2444, provided that:
 
 > “In this section [amending this section and enacting provisions set out as notes under this section]:
 
@@ -507,7 +507,7 @@ Pub. L. 115–236, § 2(a), Aug. 14, 2018, 132 Stat. 2444, provided that:
 
 > **“(3) Small business concern.—** The term ‘small business concern’ has the meaning given such term in section 3 of the Small Business Act (15 U.S.C. 632).”
 
-## § 272a. Technology services
+## § 272a. Technology services
 
 In addition to such other technology services and technology extension activities which may be mandated or authorized by law, and in order to help improve the use of technology by small and medium-sized industrial firms within the United States, the Director of the National Institute of Standards and Technology, as appropriate, shall—
 
@@ -519,7 +519,7 @@ In addition to such other technology services and technology extension activitie
 
 **(4)** work with other Federal agencies to provide technical and related assistance to the States and businesses within the States.
 
-(Pub. L. 100–519, title I, § 109, Oct. 24, 1988, 102 Stat. 2591.)
+(Pub. L. 100–519, title I, § 109, Oct. 24, 1988, 102 Stat. 2591.)
 
 **Editorial Notes**
 
@@ -527,11 +527,11 @@ In addition to such other technology services and technology extension activitie
 
 Section was enacted as part of the National Institute of Standards and Technology Authorization Act for Fiscal Year 1989, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
 
-## § 272b. Annual budget submission
+## § 272b. Annual budget submission
 
 The National Institute of Standards and Technology shall annually submit to the Congress, at the time of the release of the President’s budget, a three year budget estimate for the Institute, including funding estimates for each major account and new initiative.
 
-(Pub. L. 100–519, title I, § 111, Oct. 24, 1988, 102 Stat. 2592.)
+(Pub. L. 100–519, title I, § 111, Oct. 24, 1988, 102 Stat. 2592.)
 
 **Editorial Notes**
 
@@ -539,11 +539,11 @@ The National Institute of Standards and Technology shall annually submit to the 
 
 Section was enacted as part of the National Institute of Standards and Technology Authorization Act for Fiscal Year 1989, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
 
-## § 273. Functions; for whom exercised
+## § 273. Functions; for whom exercised
 
 The Institute is authorized to exercise its functions for the Government of the United States and for international organizations of which the United States is a member; for governments of friendly countries; for any State or municipal government within the United States; or for any scientific society, educational institution, firm, corporation, or individual within the United States or friendly countries engaged in manufacturing or other pursuits requiring the use of standards or standard measuring instruments: *Provided*, That the exercise of these functions for international organizations, governments of friendly countries and scientific societies, educational institutions, firms, corporations, or individuals therein shall be in coordination with other agencies of the United States Government, in particular the Department of State in respect to foreign entities. All requests for the services of the Institute shall be made in accordance with the rules and regulations herein established.
 
-(Mar. 3, 1901, ch. 872, § 3, 31 Stat. 1449; Pub. L. 92–317, § 3(c), June 22, 1972, 86 Stat. 235; Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433.)
+(Mar. 3, 1901, ch. 872, § 3, 31 Stat. 1449; Pub. L. 92–317, § 3(c), June 22, 1972, 86 Stat. 235; Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -557,7 +557,7 @@ The Institute is authorized to exercise its functions for the Government of the 
 
 1972—Pub. L. 92–317 authorized the Bureau to extend its services to international organizations of which the United States is a member, and for governments of friendly countries in coordination with the Department of State.
 
-## § 273a. Under Secretary of Commerce for Standards and Technology
+## § 273a. Under Secretary of Commerce for Standards and Technology
 
 **(a) Establishment**
 
@@ -579,7 +579,7 @@ The Under Secretary shall serve as the Director of the Institute and shall perfo
 
 The individual serving as the Director of the Institute on January 4, 2011, shall also serve as the Under Secretary until such time as a successor is appointed under subsection (b).
 
-(Mar. 3, 1901, ch. 872, § 4, as added Pub. L. 111–358, title IV, § 403(a), Jan. 4, 2011, 124 Stat. 4000.)
+(Mar. 3, 1901, ch. 872, § 4, as added Pub. L. 111–358, title IV, § 403(a), Jan. 4, 2011, 124 Stat. 4000.)
 
 **Editorial Notes**
 
@@ -587,11 +587,11 @@ The individual serving as the Director of the Institute on January 4, 2011, shal
 
 A prior section 4 of act Mar. 3, 1901, ch. 872, 31 Stat. 1449, which was not classified to the Code, was repealed.
 
-## § 274. Director; powers and duties; report; compensation
+## § 274. Director; powers and duties; report; compensation
 
 The Director shall report directly to the Secretary and shall have the general supervision of the Institute, its equipment, and the exercise of its functions. The Director shall make an annual report to the Secretary of Commerce. The Director may issue, when necessary, bulletins for public distribution, containing such information as may be of value to the public or facilitate the exercise of the functions of the Institute.
 
-(Mar. 3, 1901, ch. 872, § 5, 31 Stat. 1449; Pub. L. 99–73, § 6(a), July 29, 1985, 99 Stat. 172; Pub. L. 100–418, title V, § 5112(c)(1), Aug. 23, 1988, 102 Stat. 1431; Pub. L. 110–69, title III, § 3002(c)(2)(B), Aug. 9, 2007, 121 Stat. 586; Pub. L. 111–358, title IV, § 403(b)(2), Jan. 4, 2011, 124 Stat. 4000.)
+(Mar. 3, 1901, ch. 872, § 5, 31 Stat. 1449; Pub. L. 99–73, § 6(a), July 29, 1985, 99 Stat. 172; Pub. L. 100–418, title V, § 5112(c)(1), Aug. 23, 1988, 102 Stat. 1431; Pub. L. 110–69, title III, § 3002(c)(2)(B), Aug. 9, 2007, 121 Stat. 586; Pub. L. 111–358, title IV, § 403(b)(2), Jan. 4, 2011, 124 Stat. 4000.)
 
 **Editorial Notes**
 
@@ -611,7 +611,7 @@ The Director shall report directly to the Secretary and shall have the general s
 
 Amendment by Pub. L. 99–73 effective Oct. 1, 1985, see section 6(c) of Pub. L. 99–73, set out as a note under section 5315 of Title 5, Government Organization and Employees.
 
-## § 275. Hiring critical technical experts
+## § 275. Hiring critical technical experts
 
 **(a) In general**
 
@@ -623,13 +623,13 @@ Notwithstanding section 3104 of title 5 or the provisions of any other law relat
 
 **(c) Sunset**
 
-The authority under section 1
+The authority under section 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (b) shall expire on the date that is 5 years after August 9, 2022.
 
-(Mar. 3, 1901, ch. 872, § 6, 31 Stat. 1450; Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 117–167, div. B, title II, § 10244, Aug. 9, 2022, 136 Stat. 1488.)
+(Mar. 3, 1901, ch. 872, § 6, 31 Stat. 1450; Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 117–167, div. B, title II, § 10244, Aug. 9, 2022, 136 Stat. 1488.)
 
 **Editorial Notes**
 
@@ -655,19 +655,19 @@ Act Feb. 14, 1903, transferred power and authority of Secretary of the Treasury 
 
 **Procurement of Temporary and Intermittent Services**
 
-Pub. L. 110–69, title III, § 3009, Aug. 9, 2007, 121 Stat. 592, permitted the Director of the National Institute of Standards and Technology, until Sept. 30, 2010, to procure the temporary or intermittent services of no more than 200 experts or consultants per year to assist with urgent or short-term research projects and required the Comptroller General to submit to Congress, no later than 2 years after Aug. 9, 2007, a report on possible additional safeguards needed should the authority under this section be made permanent.
+Pub. L. 110–69, title III, § 3009, Aug. 9, 2007, 121 Stat. 592, permitted the Director of the National Institute of Standards and Technology, until Sept. 30, 2010, to procure the temporary or intermittent services of no more than 200 experts or consultants per year to assist with urgent or short-term research projects and required the Comptroller General to submit to Congress, no later than 2 years after Aug. 9, 2007, a report on possible additional safeguards needed should the authority under this section be made permanent.
 
 **Demonstration Project Relating to Personnel Management**
 
-Pub. L. 99–574, § 10, Oct. 28, 1986, 100 Stat. 3238, as amended by Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433, directed the Office of Personnel Management and the National Institute of Standards and Technology to jointly design an alternative personnel management system demonstration project to be commenced not later than Jan. 1, 1988, and to be conducted by the Director of the Institute in accordance with section 4703 of Title 5, Government Organization and Employees, with the Director of the Office of Personnel Management to provide that the project be evaluated annually by a contractor, and a report of the contractor’s findings submitted to the Office, and, along with any comments of the Office and the Institute, submitted to the Congress, and a final report to be submitted to the Congress by the Comptroller General not later than 4 years after the date on which the project commences, such report to include any recommendations for legislation or other action considered appropriate by the Comptroller General.
+Pub. L. 99–574, § 10, Oct. 28, 1986, 100 Stat. 3238, as amended by Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433, directed the Office of Personnel Management and the National Institute of Standards and Technology to jointly design an alternative personnel management system demonstration project to be commenced not later than Jan. 1, 1988, and to be conducted by the Director of the Institute in accordance with section 4703 of Title 5, Government Organization and Employees, with the Director of the Office of Personnel Management to provide that the project be evaluated annually by a contractor, and a report of the contractor’s findings submitted to the Office, and, along with any comments of the Office and the Institute, submitted to the Congress, and a final report to be submitted to the Congress by the Comptroller General not later than 4 years after the date on which the project commences, such report to include any recommendations for legislation or other action considered appropriate by the Comptroller General.
 
-[Pub. L. 104–113, § 10, Mar. 7, 1996, 110 Stat. 779, provided that: “The personnel management demonstration project established under section 10 of the National Bureau of Standards Authorization Act for Fiscal Year 1987 [Pub. L. 99–574] (15 U.S.C. 275 note) is extended indefinitely.” ]
+[Pub. L. 104–113, § 10, Mar. 7, 1996, 110 Stat. 779, provided that: “The personnel management demonstration project established under section 10 of the National Bureau of Standards Authorization Act for Fiscal Year 1987 [Pub. L. 99–574] (15 U.S.C. 275 note) is extended indefinitely.” ]
 
-## § 275a. Service charges
+## § 275a. Service charges
 
 The Secretary shall charge for services performed under the authority of section 273 of this title, except in cases where he determines that the interest of the Government would be best served by waiving the charge. Such charges may be based upon fixed prices or costs. The appropriation or fund bearing the cost of the services may be reimbursed, or the Secretary may require advance payment subject to such adjustment on completion of the work as may be agreed upon.
 
-(Mar. 3, 1901, ch. 872, § 7, as added Aug. 3, 1956, ch. 906, § 1, 70 Stat. 959.)
+(Mar. 3, 1901, ch. 872, § 7, as added Aug. 3, 1956, ch. 906, § 1, 70 Stat. 959.)
 
 **Editorial Notes**
 
@@ -675,11 +675,11 @@ The Secretary shall charge for services performed under the authority of section
 
 Provisions relating to fees were formerly contained in section 276 of this title.
 
-## § 275b. Charges for activities performed for other agencies
+## § 275b. Charges for activities performed for other agencies
 
 The Secretary of Commerce shall charge for any service performed by the Institute, at the request of another Government agency, in compliance with any statute, enacted before, on, or after October 6, 1982, which names the Secretary or the Institute as a consultant to another Government agency, or calls upon the Secretary or the Institute to support or perform any activity for or on behalf of another Government agency, or to cooperate with any Government agency in the performance by that agency of any activity, regardless of whether the statute specifically requires reimbursement to the Secretary or the Institute by such other Government agency for such service, unless funds are specifically appropriated to the Secretary or the Institute to perform such service. The Secretary may, however, waive any charge where the service rendered by the Institute is such that the Institute will incur only nominal costs in performing it. Costs shall be determined in accordance with section 278b(e) of this title.
 
-(Pub. L. 97–286, § 8, Oct. 6, 1982, 96 Stat. 1223; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433.)
+(Pub. L. 97–286, § 8, Oct. 6, 1982, 96 Stat. 1223; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -691,15 +691,15 @@ Section was not enacted as part of the National Institute of Standards and Techn
 
 1988—Pub. L. 100–418 substituted “Institute” for “Bureau” wherever appearing.
 
-## § 275c. Cost recovery authority
+## § 275c. Cost recovery authority
 
 Fees for calibration services, standard reference materials, and other comparable services provided by the National Institute of Standards and Technology shall be at least sufficient to meet the requirements set forth in the amendments made by subsection (a),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and any funds recovered in excess of such requirements shall be returned to the Treasury of the United States.
 
-(Pub. L. 99–73, § 5(b), July 29, 1985, 99 Stat. 172; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433.)
+(Pub. L. 99–73, § 5(b), July 29, 1985, 99 Stat. 172; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -719,13 +719,13 @@ Section was not enacted as part of the National Institute and Technology Act whi
 
 **Effective Date**
 
-Pub. L. 99–73, § 5(c), July 29, 1985, 99 Stat. 172, provided that: “The amendments made by subsection (a) [amending section 278b of this title] (and the provisions of subsection (b) [enacting this section]) shall be effective October 1, 1984.”
+Pub. L. 99–73, § 5(c), July 29, 1985, 99 Stat. 172, provided that: “The amendments made by subsection (a) [amending section 278b of this title] (and the provisions of subsection (b) [enacting this section]) shall be effective October 1, 1984.”
 
-## § 276. Ownership of facilities
+## § 276. Ownership of facilities
 
 In the absence of specific agreement to the contrary, additional facilities, including equipment, purchased pursuant to the performance of services authorized by section 273 of this title shall become the property of the Department of Commerce.
 
-(Mar. 3, 1901, ch. 872, § 8, 31 Stat. 1450; June 30, 1932, ch. 314, pt. II, title III, § 312, 47 Stat. 410; Aug. 3, 1956, ch. 906, § 1, 70 Stat. 959.)
+(Mar. 3, 1901, ch. 872, § 8, 31 Stat. 1450; June 30, 1932, ch. 314, pt. II, title III, § 312, 47 Stat. 410; Aug. 3, 1956, ch. 906, § 1, 70 Stat. 959.)
 
 **Editorial Notes**
 
@@ -741,11 +741,11 @@ In the absence of specific agreement to the contrary, additional facilities, inc
 
 Amendment by act June 30, 1932, effective July 1, 1932, see section 314 of that act.
 
-## § 277. Regulations
+## § 277. Regulations
 
 The Secretary of Commerce shall, from time to time, make regulations regarding the payment of fees, the limits of tolerance to be attained in standards submitted for verification, the sealing of standards, the disbursement and receipt of moneys, and such other matters as he may deem necessary for carrying this chapter into effect.
 
-(Mar. 3, 1901, ch. 872, § 9, 31 Stat. 1450; Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736.)
+(Mar. 3, 1901, ch. 872, § 9, 31 Stat. 1450; Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -757,7 +757,7 @@ Act Mar. 4, 1913, substituted “Secretary of Commerce” for “Secretary of Co
 
 Act Feb. 14, 1903, transferred power and authority of Secretary of the Treasury over Bureau of Standards to Secretary of Commerce and Labor.
 
-## § 278. Visiting Committee on Advanced Technology
+## § 278. Visiting Committee on Advanced Technology
 
 **(a) Establishment; appointment; membership and composition; review and recommendations**
 
@@ -803,39 +803,39 @@ The Committee may, with the concurrence of a majority of its members, permit the
 
 **(2)** The Committee shall render to the Secretary and the Congress such additional reports on specific policy matters as it deems appropriate.
 
-(Mar. 3, 1901, ch. 872, § 10, 31 Stat. 1450; Pub. L. 100–418, title V, §§ 5115(a)(1), 5131(b), Aug. 23, 1988, 102 Stat. 1433, 1441; Pub. L. 104–113, § 8(1), Mar. 7, 1996, 110 Stat. 779; Pub. L. 110–69, title III, §§ 3005, 3006, Aug. 9, 2007, 121 Stat. 590; Pub. L. 114–329, title II, §§ 204(a)(1)(B)(ii), 205(a)(2)(C), title IV, § 404, Jan. 6, 2017, 130 Stat. 2998, 3001, 3023.)
+(Mar. 3, 1901, ch. 872, § 10, 31 Stat. 1450; Pub. L. 100–418, title V, §§ 5115(a)(1), 5131(b), Aug. 23, 1988, 102 Stat. 1433, 1441; Pub. L. 104–113, § 8(1), Mar. 7, 1996, 110 Stat. 779; Pub. L. 110–69, title III, §§ 3005, 3006, Aug. 9, 2007, 121 Stat. 590; Pub. L. 114–329, title II, §§ 204(a)(1)(B)(ii), 205(a)(2)(C), title IV, § 404, Jan. 6, 2017, 130 Stat. 2998, 3001, 3023.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (a). Pub. L. 114–329, § 404(1), substituted “not fewer than 9 members appointed by the Director, a majority of whom” for “15 members appointed by the Director, at least 10 of whom” and “National Institute of Standards and Technology” for “National Bureau of Standards”.
+2017—Subsec. (a). Pub. L. 114–329, § 404(1), substituted “not fewer than 9 members appointed by the Director, a majority of whom” for “15 members appointed by the Director, at least 10 of whom” and “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-Subsec. (h)(1). Pub. L. 114–329, §§ 205(a)(2)(C), 404(2), made identical amendments, striking out “, including the Program established under section 278n of this title,” after “which affect the Institute”.
+Subsec. (h)(1). Pub. L. 114–329, §§ 205(a)(2)(C), 404(2), made identical amendments, striking out “, including the Program established under section 278n of this title,” after “which affect the Institute”.
 
-Pub. L. 114–329, § 204(a)(1)(B)(ii), struck out at end “Such report also shall comment on the programmatic planning document and updates thereto submitted to Congress by the Director under subsections (c) and (d) of section 278i of this title.”
+Pub. L. 114–329, § 204(a)(1)(B)(ii), struck out at end “Such report also shall comment on the programmatic planning document and updates thereto submitted to Congress by the Director under subsections (c) and (d) of section 278i of this title.”
 
-2007—Subsec. (d). Pub. L. 110–69, § 3006, substituted “twice each year” for “quarterly”.
+2007—Subsec. (d). Pub. L. 110–69, § 3006, substituted “twice each year” for “quarterly”.
 
-Subsec. (h)(1). Pub. L. 110–69, § 3005, substituted “not later than 30 days after the submittal to Congress of the President’s annual budget request in each year” for “on or before January 31 in each year” and inserted at end “Such report also shall comment on the programmatic planning document and updates thereto submitted to Congress by the Director under subsections (c) and (d) of section 278i of this title.”
+Subsec. (h)(1). Pub. L. 110–69, § 3005, substituted “not later than 30 days after the submittal to Congress of the President’s annual budget request in each year” for “on or before January 31 in each year” and inserted at end “Such report also shall comment on the programmatic planning document and updates thereto submitted to Congress by the Director under subsections (c) and (d) of section 278i of this title.”
 
 1996—Subsec. (a). Pub. L. 104–113 substituted “15 members” for “nine members” and “at least 10” for “at least five”.
 
-1988—Pub. L. 100–418, § 5131(b), amended section generally, substituting provisions of subsecs. (a) to (h) relating to Visiting Committee on Advanced Technology for provisions of former single undesignated paragraph which related to a visiting committee which was to visit bureau at least once a year and report to Secretary of Commerce upon efficiency of its scientific work and condition of its equipment.
+1988—Pub. L. 100–418, § 5131(b), amended section generally, substituting provisions of subsecs. (a) to (h) relating to Visiting Committee on Advanced Technology for provisions of former single undesignated paragraph which related to a visiting committee which was to visit bureau at least once a year and report to Secretary of Commerce upon efficiency of its scientific work and condition of its equipment.
 
-Pub. L. 100–418, § 5115(a)(1), substituted “Institute” for “bureau”.
+Pub. L. 100–418, § 5115(a)(1), substituted “Institute” for “bureau”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 278a. Repealed. Pub. L. 88–611, § 4(a)(1), Oct. 2, 1964, 78 Stat. 991
+## § 278a. Repealed. Pub. L. 88–611, § 4(a)(1), Oct. 2, 1964, 78 Stat. 991
 
-Section, act Mar. 3, 1901, ch. 872, § 11, as added July 22, 1950, ch. 486, § 2, 64 Stat. 373; amended Aug. 3, 1956, ch. 906, § 2, 70 Stat. 959; Sept. 2, 1958, Pub. L. 85–890, § 2, 72 Stat. 1712, provided for acceptance of gifts and bequests. See sections 1522 and 1523 of this title.
+Section, act Mar. 3, 1901, ch. 872, § 11, as added July 22, 1950, ch. 486, § 2, 64 Stat. 373; amended Aug. 3, 1956, ch. 906, § 2, 70 Stat. 959; Sept. 2, 1958, Pub. L. 85–890, § 2, 72 Stat. 1712, provided for acceptance of gifts and bequests. See sections 1522 and 1523 of this title.
 
-## § 278b. Working Capital Fund
+## § 278b. Working Capital Fund
 
 **(a) Utilization**
 
@@ -861,7 +861,7 @@ As used in this chapter, the term “cost” shall be construed to include direc
 
 The amount of any earned net income resulting from the operation of the fund at the close of each fiscal year shall be paid into the general fund of the Treasury: *Provided*, That such earned net income may be applied to restore any prior impairment of the fund, and to ensure the availability of working capital necessary to replace equipment and inventories.
 
-(Mar. 3, 1901, ch. 872, § 12, as added Aug. 3, 1956, ch. 906, § 2, 70 Stat. 959; amended Pub. L. 95–322, § 2(a), July 21, 1978, 92 Stat. 395; Pub. L. 99–73, § 5(a), July 29, 1985, 99 Stat. 172; Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433.)
+(Mar. 3, 1901, ch. 872, § 12, as added Aug. 3, 1956, ch. 906, § 2, 70 Stat. 959; amended Pub. L. 95–322, § 2(a), July 21, 1978, 92 Stat. 395; Pub. L. 99–73, § 5(a), July 29, 1985, 99 Stat. 172; Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -871,7 +871,7 @@ Act of June 29, 1950 (64 Stat. 275), referred to in subsec. (a), was the Deficie
 
 **Prior Provisions**
 
-A prior section 12 of act Mar. 3, 1901, ch. 872, as added by act July 22, 1950, ch. 486, § 2, 64 Stat. 373, related to equipment purchased by Department of Commerce to carry out investigations, prior to repeal by act Aug. 3, 1956.
+A prior section 12 of act Mar. 3, 1901, ch. 872, as added by act July 22, 1950, ch. 486, § 2, 64 Stat. 373, related to equipment purchased by Department of Commerce to carry out investigations, prior to repeal by act Aug. 3, 1956.
 
 **Amendments**
 
@@ -879,7 +879,7 @@ A prior section 12 of act Mar. 3, 1901, ch. 872, as added by act July 22, 1950, 
 
 1985—Subsec. (f). Pub. L. 99–73 struck out “first” after “may be applied”, and inserted provisions relating to working capital for replacement of equipment and inventories.
 
-1978—Subsec. (a). Pub. L. 95–322 struck out “, and additional amounts as from time to time may be required for the purposes of said fund are authorized to be appropriated” after “(64 Stat. 275)”.
+1978—Subsec. (a). Pub. L. 95–322 struck out “, and additional amounts as from time to time may be required for the purposes of said fund are authorized to be appropriated” after “(64 Stat. 275)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -887,11 +887,11 @@ A prior section 12 of act Mar. 3, 1901, ch. 872, as added by act July 22, 1950, 
 
 Amendment by Pub. L. 99–73 effective Oct. 1, 1984, see section 5(c) of Pub. L. 99–73, set out as an Effective Date note under section 275c of this title.
 
-## § 278c. Acquisition of land for field sites
+## § 278c. Acquisition of land for field sites
 
 To the extent that funds are specifically appropriated therefor, the Secretary of Commerce is authorized to acquire land for such field sites as are necessary for the proper and efficient conduct of the activities authorized herein.
 
-(Mar. 3, 1901, ch. 872, § 13, as added Pub. L. 85–890, § 1, Sept. 2, 1958, 72 Stat. 1711.)
+(Mar. 3, 1901, ch. 872, § 13, as added Pub. L. 85–890, § 1, Sept. 2, 1958, 72 Stat. 1711.)
 
 **Editorial Notes**
 
@@ -901,9 +901,9 @@ To the extent that funds are specifically appropriated therefor, the Secretary o
 
 **Prior Provisions**
 
-A prior section 13 of act Mar. 3, 1901, ch. 872, as added July 22, 1950, ch. 486, § 2, 64 Stat. 373, related to acceptance of gifts and bequests, prior to repeal by act Aug. 3, 1956. See sections 1522 and 1523 of this title.
+A prior section 13 of act Mar. 3, 1901, ch. 872, as added July 22, 1950, ch. 486, § 2, 64 Stat. 373, related to acceptance of gifts and bequests, prior to repeal by act Aug. 3, 1956. See sections 1522 and 1523 of this title.
 
-## § 278d. Construction and improvement of buildings and facilities
+## § 278d. Construction and improvement of buildings and facilities
 
 **(a) In general**
 
@@ -913,7 +913,7 @@ Within the limits of funds which are appropriated for the Institute, the Secreta
 
 The Director is authorized to retain all building use and depreciation surcharge fees collected pursuant to OMB Circular A–25. Such fees shall be collected and credited to the Construction of Research Facilities Appropriation Account for use in maintenance and repair of the Institute’s existing facilities.
 
-(Mar. 3, 1901, ch. 872, § 14, as added Pub. L. 85–890, § 1, Sept. 2, 1958, 72 Stat. 1711; amended Pub. L. 92–317, § 3(d), June 22, 1972, 86 Stat. 235; Pub. L. 96–461, § 8, Oct. 15, 1980, 94 Stat. 2051; Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–245, title I, § 104(f), Feb. 14, 1992, 106 Stat. 11; Pub. L. 110–69, title III, § 3014, Aug. 9, 2007, 121 Stat. 599.)
+(Mar. 3, 1901, ch. 872, § 14, as added Pub. L. 85–890, § 1, Sept. 2, 1958, 72 Stat. 1711; amended Pub. L. 92–317, § 3(d), June 22, 1972, 86 Stat. 235; Pub. L. 96–461, § 8, Oct. 15, 1980, 94 Stat. 2051; Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–245, title I, § 104(f), Feb. 14, 1992, 106 Stat. 11; Pub. L. 110–69, title III, § 3014, Aug. 9, 2007, 121 Stat. 599.)
 
 **Editorial Notes**
 
@@ -941,23 +941,23 @@ Amendment by Pub. L. 96–461 effective Oct. 1, 1980, see section 11 of Pub. L. 
 
 **Facilities for Cold Neutron Research**
 
-Pub. L. 101–162, title I, § 104, Nov. 21, 1989, 103 Stat. 994, provided that: “Hereafter, the National Institute of Standards and Technology is authorized to accept contributions of funds, to remain available until expended, from any public or private source to construct a facility for cold neutron research on materials, notwithstanding the limitations contained in 15 U.S.C. 278d.”
+Pub. L. 101–162, title I, § 104, Nov. 21, 1989, 103 Stat. 994, provided that: “Hereafter, the National Institute of Standards and Technology is authorized to accept contributions of funds, to remain available until expended, from any public or private source to construct a facility for cold neutron research on materials, notwithstanding the limitations contained in 15 U.S.C. 278d.”
 
-## § 278e. Functions and activities
+## § 278e. Functions and activities
 
 In the performance of the functions of the Institute the Secretary of Commerce is authorized to undertake the following activities: (a) The purchase, repair, and cleaning of uniforms for guards; (b) the care, maintenance, protection, repair, and alteration of Institute buildings and other plant facilities, equipment, and property; (c) the rental of field sites and laboratory, office, and warehouse space; (d) the purchase of reprints from technical journals or other periodicals and the payment of page charges for the publication of research papers and reports in such journals; (e) the furnishing of food and shelter without repayment therefor to employees of the Government at Arctic and Antarctic stations; (f) for the conduct of observations on radio propagation phenomena in the Arctic or Antarctic regions, the appointment of employees at base rates established by the Secretary of Commerce which shall not exceed such maximum rates as may be specified from time to time in the appropriation concerned, and without regard to the civil service and classification laws and sections 5542 to 5546 of title 5; (g) the erection on leased property of specialized facilities and working and living quarters when the Secretary of Commerce determines that this will best serve the interests of the Government; and (h) the provision of transportation services for employees of the Institute between the facilities of the Institute and nearby public transportation, notwithstanding section 1344 of title 31.
 
-(Mar. 3, 1901, ch. 872, § 15, as added Pub. L. 85–890, § 1, Sept. 2, 1958, 72 Stat. 1711; amended Pub. L. 92–317, § 3(e), June 22, 1972, 86 Stat. 235; Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–113, § 8(2), Mar. 7, 1996, 110 Stat. 779.)
+(Mar. 3, 1901, ch. 872, § 15, as added Pub. L. 85–890, § 1, Sept. 2, 1958, 72 Stat. 1711; amended Pub. L. 92–317, § 3(e), June 22, 1972, 86 Stat. 235; Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–113, § 8(2), Mar. 7, 1996, 110 Stat. 779.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Sections 5542 to 5546 of title 5” substituted in text for “titles II and III of the Federal Employees Pay Act of 1945” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Sections 5542 to 5546 of title 5” substituted in text for “titles II and III of the Federal Employees Pay Act of 1945” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
-1996—Pub. L. 104–113 struck out “and” before “(g)” and inserted before period at end “; and (h) the provision of transportation services for employees of the Institute between the facilities of the Institute and nearby public transportation, notwithstanding section 1344 of title 31”.
+1996—Pub. L. 104–113 struck out “and” before “(g)” and inserted before period at end “; and (h) the provision of transportation services for employees of the Institute between the facilities of the Institute and nearby public transportation, notwithstanding section 1344 of title 31”.
 
 1988—Pub. L. 100–418 substituted “functions of the Institute” for “functions of the National Bureau of Standards” and “Institute buildings” for “Bureau buildings”.
 
@@ -967,9 +967,9 @@ In the performance of the functions of the Institute the Secretary of Commerce i
 
 **NIST Campus Security**
 
-Pub. L. 114–329, title I, § 113, Jan. 6, 2017, 130 Stat. 2993, which authorized the Department of Commerce Office of Security to directly manage the law enforcement and site security programs of the National Institute of Standards and Technology (NIST) and required the Director of Security for NIST to provide an activities and security report to the Under Secretary for Standards and Technology and the Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives, was repealed by Pub. L. 117–167, div. B, title II, § 10246(c), Aug. 9, 2022, 136 Stat. 1492.
+Pub. L. 114–329, title I, § 113, Jan. 6, 2017, 130 Stat. 2993, which authorized the Department of Commerce Office of Security to directly manage the law enforcement and site security programs of the National Institute of Standards and Technology (NIST) and required the Director of Security for NIST to provide an activities and security report to the Under Secretary for Standards and Technology and the Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives, was repealed by Pub. L. 117–167, div. B, title II, § 10246(c), Aug. 9, 2022, 136 Stat. 1492.
 
-## § 278f. Fire Research Center
+## § 278f. Fire Research Center
 
 **(a) Establishment; programs of research; functions of Secretary; dissemination of information** There is hereby established within the Department of Commerce a Fire Research Center which shall have the mission of performing and supporting research on all aspects of fire with the aim of providing scientific and technical knowledge applicable to the prevention and control of fires. The content and priorities of the research program shall be determined in consultation with the Administrator of the United States Fire Administration. In implementing this section, the Secretary is authorized to conduct, directly or through contracts or grants, a fire research program, including—
 
@@ -1015,33 +1015,33 @@ The Secretary shall insure that the results and advances arising from the work o
 
 **(b) Authorization of appropriations** For purposes of this section, there are authorized to be appropriated an amount not to exceed $5,650,000 for the fiscal year ending September 30, 1980, which amount includes—
 
-**(1)** $525,000 for programs which are recommended in the report submitted to the Congress by the Administrator of the United States Fire Administration pursuant to section 2220(b)(1) 1
+**(1)** $525,000 for programs which are recommended in the report submitted to the Congress by the Administrator of the United States Fire Administration pursuant to section 2220(b)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and
 
 **(2)** $119,000 for adjustments required by law in salaries, pay, retirement, and employee benefits.
 
-(Mar. 3, 1901, ch. 872, § 16, as added Pub. L. 93–498, § 18, Oct. 29, 1974, 88 Stat. 1545; amended Pub. L. 94–411, § 1(b), Sept. 13, 1976, 90 Stat. 1254; Pub. L. 95–422, §§ 1(b), 2(b), 3(b), Oct. 5, 1978, 92 Stat. 932, 933; Pub. L. 96–121, § 3, Nov. 16, 1979, 93 Stat. 863.)
+(Mar. 3, 1901, ch. 872, § 16, as added Pub. L. 93–498, § 18, Oct. 29, 1974, 88 Stat. 1545; amended Pub. L. 94–411, § 1(b), Sept. 13, 1976, 90 Stat. 1254; Pub. L. 95–422, §§ 1(b), 2(b), 3(b), Oct. 5, 1978, 92 Stat. 932, 933; Pub. L. 96–121, § 3, Nov. 16, 1979, 93 Stat. 863.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2220(b)(1) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 106–503, title I, § 110(a)(1)(D), Nov. 13, 2000, 114 Stat. 2302.
+Section 2220(b)(1) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 106–503, title I, § 110(a)(1)(D), Nov. 13, 2000, 114 Stat. 2302.
 
 **Prior Provisions**
 
-A prior section 16 of act Mar. 3, 1901, as added by act Mar. 1, 1968, Pub. L. 90–259, title I, § 102, 82 Stat. 35, related to fire research and safety programs, prior to repeal by act Oct. 29, 1974.
+A prior section 16 of act Mar. 3, 1901, as added by act Mar. 1, 1968, Pub. L. 90–259, title I, § 102, 82 Stat. 35, related to fire research and safety programs, prior to repeal by act Oct. 29, 1974.
 
 **Amendments**
 
 1979—Subsec. (b). Pub. L. 96–121 substituted provisions authorizing to be appropriated an amount not to exceed $5,650,000 for the fiscal year ending Sept. 30, 1980, for provisions authorizing appropriations not to exceed $1,275,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $5,500,000 for the fiscal year ending Sept. 30, 1977, not to exceed $6,000,000 for the fiscal year ending Sept. 30, 1978, and not to exceed $5,600,000 for the fiscal year ending Sept. 30, 1979, and added pars. (1) and (2).
 
-1978—Subsec. (a). Pub. L. 95–422, §§ 2(b), 3(b), in provisions preceding par. (1) substituted “United States Fire Administration” for “National Fire Prevention and Control Administration” and added par. (1)(I).
+1978—Subsec. (a). Pub. L. 95–422, §§ 2(b), 3(b), in provisions preceding par. (1) substituted “United States Fire Administration” for “National Fire Prevention and Control Administration” and added par. (1)(I).
 
-Subsec. (b). Pub. L. 95–422, § 1(b), inserted provision authorizing appropriation of not to exceed $5,600,000 for the fiscal year ending Sept. 30, 1979.
+Subsec. (b). Pub. L. 95–422, § 1(b), inserted provision authorizing appropriation of not to exceed $5,600,000 for the fiscal year ending Sept. 30, 1979.
 
 1976—Subsec. (b). Pub. L. 94–411 substituted provisions authorizing to be appropriated not to exceed $1,275,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $5,500,000 for the fiscal year ending Sept. 30, 1977, and not to exceed $6,000,000 for the fiscal year ending Sept. 30, 1978, for provisions authorizing to be appropriated not to exceed $3,500,000 for the fiscal year ending June 30, 1975, and not to exceed $4,000,000 for the fiscal year ending June 30, 1976.
 
@@ -1053,19 +1053,19 @@ Advisory councils in existence on Jan. 5, 1973, to terminate not later than the 
 
 **Combination of Fire Research and Building Technology Programs**
 
-Pub. L. 102–245, title I, § 104(g), Feb. 14, 1992, 106 Stat. 11, provided that: “The fire research and building technology programs of the Institute may be combined for administrative purposes only, and separate budget accounts for fire research and building technology shall be maintained. No later than December 31, 1992, the Secretary, acting through the Director of the Institute, shall report to Congress on the results of the combination, on efforts to preserve the integrity of the fire research and building technology programs, on the long-range basic and applied research plans of the two programs, on procedures for receiving advice on fire and earthquake research priorities from constituencies concerned with public safety, and on the relation between the combined program at the Institute and the United States Fire Administration.”
+Pub. L. 102–245, title I, § 104(g), Feb. 14, 1992, 106 Stat. 11, provided that: “The fire research and building technology programs of the Institute may be combined for administrative purposes only, and separate budget accounts for fire research and building technology shall be maintained. No later than December 31, 1992, the Secretary, acting through the Director of the Institute, shall report to Congress on the results of the combination, on efforts to preserve the integrity of the fire research and building technology programs, on the long-range basic and applied research plans of the two programs, on procedures for receiving advice on fire and earthquake research priorities from constituencies concerned with public safety, and on the relation between the combined program at the Institute and the United States Fire Administration.”
 
 **National Commission on Fire Prevention and Control**
 
-Pub. L. 90–259, §§ 101, 103, 104, and 201–207, established the National Commission on Fire Prevention and Control, directed the commission to study and investigate measures to reduce the destructive effects of fire throughout the country, and provided that the commission cease to exist thirty days after the submission of its report which was to be made no later than two years after the commission had been organized.
+Pub. L. 90–259, §§ 101, 103, 104, and 201–207, established the National Commission on Fire Prevention and Control, directed the commission to study and investigate measures to reduce the destructive effects of fire throughout the country, and provided that the commission cease to exist thirty days after the submission of its report which was to be made no later than two years after the commission had been organized.
 
 **Executive Documents**
 
 **Executive Order No. 11654**
 
-Ex. Ord. No. 11654, Mar. 13, 1972, 37 F.R. 5361, which established in the Department of Commerce the Federal Fire Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 19, Aug. 17, 1982, 47 F.R. 36100, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Ex. Ord. No. 11654, Mar. 13, 1972, 37 F.R. 5361, which established in the Department of Commerce the Federal Fire Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 19, Aug. 17, 1982, 47 F.R. 36100, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
-## § 278g. International activities
+## § 278g. International activities
 
 **(a) Financial assistance to foreign nationals**
 
@@ -1083,17 +1083,17 @@ Provisions of law prohibiting the use of any part of any appropriation for the p
 
 For any scientific and engineering disciplines for which there is a shortage of suitably qualified and available United States citizens and nationals, the Secretary is authorized to recruit and employ in scientific and engineering fields at the Institute foreign nationals who have been lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act [8 U.S.C. 1101 et seq.] and who intend to become United States citizens. Employment of a person under this paragraph shall not be subject to the provisions of title 5 governing employment in the competitive service, or to any prohibition in any other Act against the employment of aliens, or against the payment of compensation to them.
 
-(Mar. 3, 1901, ch. 872, § 17, as added Pub. L. 96–461, § 9, Oct. 15, 1980, 94 Stat. 2051; amended Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–245, title I, § 104(h)(2), Feb. 14, 1992, 106 Stat. 11; Pub. L. 117–167, div. B, title II, § 10246(a)(1), Aug. 9, 2022, 136 Stat. 1491.)
+(Mar. 3, 1901, ch. 872, § 17, as added Pub. L. 96–461, § 9, Oct. 15, 1980, 94 Stat. 2051; amended Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–245, title I, § 104(h)(2), Feb. 14, 1992, 106 Stat. 11; Pub. L. 117–167, div. B, title II, § 10246(a)(1), Aug. 9, 2022, 136 Stat. 1491.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in subsec. (d), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (d), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 **Prior Provisions**
 
-A prior section 278g, act Mar. 3, 1901, ch. 872, § 17, as added Mar. 1, 1968, Pub. L. 90–259, title I, § 102, 82 Stat. 35, related to grants to States, local governments, other non-Federal public agencies, and non-profit institutions, reimbursement of Federal agencies, delegation of powers, advance of public moneys, cooperation of Federal agencies, and issuance of rules and regulations, prior to repeal by Pub. L. 93–498, § 18, Oct. 29, 1974, 88 Stat. 1545.
+A prior section 278g, act Mar. 3, 1901, ch. 872, § 17, as added Mar. 1, 1968, Pub. L. 90–259, title I, § 102, 82 Stat. 35, related to grants to States, local governments, other non-Federal public agencies, and non-profit institutions, reimbursement of Federal agencies, delegation of powers, advance of public moneys, cooperation of Federal agencies, and issuance of rules and regulations, prior to repeal by Pub. L. 93–498, § 18, Oct. 29, 1974, 88 Stat. 1545.
 
 **Amendments**
 
@@ -1107,13 +1107,13 @@ A prior section 278g, act Mar. 3, 1901, ch. 872, § 17, as added Mar. 1, 1968,
 
 **Effective Date**
 
-Pub. L. 96–461, § 11, Oct. 15, 1980, 94 Stat. 2052, provided that: “The effective date of sections 8 and 9 of this Act [enacting this section, amending section 278d of this title, and enacting provisions set out below] shall be October 1, 1980.”
+Pub. L. 96–461, § 11, Oct. 15, 1980, 94 Stat. 2052, provided that: “The effective date of sections 8 and 9 of this Act [enacting this section, amending section 278d of this title, and enacting provisions set out below] shall be October 1, 1980.”
 
 **Congressional Declaration of Purpose**
 
-Pub. L. 96–461, § 9, Oct. 15, 1980, 94 Stat. 2051, as amended by Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433, provided in part that this section was enacted “[i]n order to develop and strengthen the expertise of the National Institute of Standards and Technology in science and engineering, to enhance the Secretary’s ability to maintain the Institute’s programs at the forefront of worldwide developments in science and engineering, and to cooperate in international scientific activities”.
+Pub. L. 96–461, § 9, Oct. 15, 1980, 94 Stat. 2051, as amended by Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433, provided in part that this section was enacted “[i]n order to develop and strengthen the expertise of the National Institute of Standards and Technology in science and engineering, to enhance the Secretary’s ability to maintain the Institute’s programs at the forefront of worldwide developments in science and engineering, and to cooperate in international scientific activities”.
 
-## § 278g–1. Education and outreach
+## § 278g–1. Education and outreach
 
 **(a) In general**
 
@@ -1173,9 +1173,9 @@ Notwithstanding section 1345 of title 31 or any other law to the contrary, the D
 
 **(4)** document publications, presentations, and interactions with visiting researchers and sponsoring interns as performance metrics for improving and continuing interactions with those individuals;
 
-**(5)** facilitate laboratory tours and provide presentations for educational, industry, and community groups; and 1
+**(5)** facilitate laboratory tours and provide presentations for educational, industry, and community groups; and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 **(6)** conduct outreach to and develop research collaborations with historically Black colleges and universities, Tribal Colleges or Universities, and minority serving institutions, including through the recruitment of students and faculty at such institutions to participate in programs developed under paragraph (3);
 
@@ -1185,29 +1185,29 @@ Notwithstanding section 1345 of title 31 or any other law to the contrary, the D
 
 **(9)** conduct outreach to and develop collaborations with nontraditional educational organizations, including those that offer training through nonprofit associations and professional associations or professional societies, to engage persons historically underrepresented in STEM through programs developed under this subsection.
 
-(Mar. 3, 1901, ch. 872, § 18, as added Pub. L. 114–329, title III, § 306(b), Jan. 6, 2017, 130 Stat. 3008; amended Pub. L. 117–167, div. B, title II, § 10241, Aug. 9, 2022, 136 Stat. 1486.)
+(Mar. 3, 1901, ch. 872, § 18, as added Pub. L. 114–329, title III, § 306(b), Jan. 6, 2017, 130 Stat. 3008; amended Pub. L. 117–167, div. B, title II, § 10241, Aug. 9, 2022, 136 Stat. 1486.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 278g–1, act Mar. 3, 1901, ch. 872, § 18, as added Pub. L. 99–574, § 6(a), Oct. 28, 1986, 100 Stat. 3237; amended Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–245, title I, § 104(h)(1), Feb. 14, 1992, 106 Stat. 11; Pub. L. 110–69, title III, §§ 3008, 3013(a), Aug. 9, 2007, 121 Stat. 591, 598; Pub. L. 111–358, title IV, §§ 406(a), § 407(b), Jan. 4, 2011, 124 Stat. 4003, 4004, related to research fellowships and other financial assistance to students at institutes of higher education, prior to repeal by Pub. L. 114–329, title III, § 306(a), Jan. 6, 2017, 130 Stat. 3008.
+A prior section 278g–1, act Mar. 3, 1901, ch. 872, § 18, as added Pub. L. 99–574, § 6(a), Oct. 28, 1986, 100 Stat. 3237; amended Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–245, title I, § 104(h)(1), Feb. 14, 1992, 106 Stat. 11; Pub. L. 110–69, title III, §§ 3008, 3013(a), Aug. 9, 2007, 121 Stat. 591, 598; Pub. L. 111–358, title IV, §§ 406(a), § 407(b), Jan. 4, 2011, 124 Stat. 4003, 4004, related to research fellowships and other financial assistance to students at institutes of higher education, prior to repeal by Pub. L. 114–329, title III, § 306(a), Jan. 6, 2017, 130 Stat. 3008.
 
 A prior section 18 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to section 278q of this title.
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–167, § 10241(1), substituted “shall” for “may” and “diverse types of institutions of higher education, including historically Black colleges and universities, Tribal Colleges and Universities, and minority-serving institutions, and community colleges” for “academia”.
+2022—Subsec. (a). Pub. L. 117–167, § 10241(1), substituted “shall” for “may” and “diverse types of institutions of higher education, including historically Black colleges and universities, Tribal Colleges and Universities, and minority-serving institutions, and community colleges” for “academia”.
 
-Subsec. (e)(6) to (9). Pub. L. 117–167, § 10241(2), added pars. (6) to (9).
+Subsec. (e)(6) to (9). Pub. L. 117–167, § 10241(2), added pars. (6) to (9).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Clause for Research Fellowships and Other Financial Assistance to Students at Institutes of Higher Education**
 
-Pub. L. 114–329, title III, § 306(d)(1), Jan. 6, 2017, 130 Stat. 3010, provided that: “The repeal made by subsection (a) of this section [repealing this section] shall not affect any award of a research fellowship or other form of financial assistance made under section 18 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–1) before the date of enactment of this Act [Jan. 6, 2017]. Such award shall continue to be subject to the requirements to which such funds were subject under that section before the date of enactment of this Act.”
+Pub. L. 114–329, title III, § 306(d)(1), Jan. 6, 2017, 130 Stat. 3010, provided that: “The repeal made by subsection (a) of this section [repealing this section] shall not affect any award of a research fellowship or other form of financial assistance made under section 18 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–1) before the date of enactment of this Act [Jan. 6, 2017]. Such award shall continue to be subject to the requirements to which such funds were subject under that section before the date of enactment of this Act.”
 
-## § 278g–2. Post-doctoral fellowship program
+## § 278g–2. Post-doctoral fellowship program
 
 **(a) In general**
 
@@ -1221,7 +1221,7 @@ The post-doctoral fellowship program shall include not less than 20 new fellows 
 
 In evaluating applications for post-doctoral fellowships under this section, the Director of the Institute and the President of the National Academy of Sciences shall give consideration to the goal of promoting the participation of individuals identified in sections 1885a and 1885b of title 42 in research areas supported by the Institute.
 
-(Mar. 3, 1901, ch. 872, § 19, as added Pub. L. 99–574, § 8(a), Oct. 28, 1986, 100 Stat. 3238; amended Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–113, § 8(3), Mar. 7, 1996, 110 Stat. 779; Pub. L. 110–69, title III, § 3015, Aug. 9, 2007, 121 Stat. 599; Pub. L. 111–358, title IV, §§ 406(b), 407(a), Jan. 4, 2011, 124 Stat. 4004; Pub. L. 114–329, title III, § 306(c), Jan. 6, 2017, 130 Stat. 3010.)
+(Mar. 3, 1901, ch. 872, § 19, as added Pub. L. 99–574, § 8(a), Oct. 28, 1986, 100 Stat. 3238; amended Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–113, § 8(3), Mar. 7, 1996, 110 Stat. 779; Pub. L. 110–69, title III, § 3015, Aug. 9, 2007, 121 Stat. 599; Pub. L. 111–358, title IV, §§ 406(b), 407(a), Jan. 4, 2011, 124 Stat. 4004; Pub. L. 114–329, title III, § 306(c), Jan. 6, 2017, 130 Stat. 3010.)
 
 **Editorial Notes**
 
@@ -1233,13 +1233,13 @@ A prior section 19 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and i
 
 2017—Pub. L. 114–329 amended section generally. Prior to amendment, text read as follows: “The Institute shall establish and conduct a post-doctoral fellowship program, subject to the availability of appropriations, which shall be organized and carried out in substantially the same manner as the National Academy of Sciences/National Research Council Post-Doctoral Research Associate Program that was in effect prior to 1986, and which shall include not less than twenty nor more than 120 new fellows per fiscal year. In evaluating applications for fellowships under this section, the Director shall give consideration to the goal of promoting the participation of underrepresented minorities in research areas supported by the Institute.”
 
-2011—Pub. L. 111–358, § 407(a), struck out “, in conjunction with the National Academy of Sciences,” after “The Institute”.
+2011—Pub. L. 111–358, § 407(a), struck out “, in conjunction with the National Academy of Sciences,” after “The Institute”.
 
-Pub. L. 111–358, § 406(b), inserted at end “In evaluating applications for fellowships under this section, the Director shall give consideration to the goal of promoting the participation of underrepresented minorities in research areas supported by the Institute.”
+Pub. L. 111–358, § 406(b), inserted at end “In evaluating applications for fellowships under this section, the Director shall give consideration to the goal of promoting the participation of underrepresented minorities in research areas supported by the Institute.”
 
 2007—Pub. L. 110–69 substituted “nor more than 120 new fellows” for “nor more than 60 new fellows”.
 
-1996—Pub. L. 104–113 inserted “, subject to the availability of appropriations,” after “post-doctoral fellowship program” and substituted “nor more than 60” for “nor more than forty”.
+1996—Pub. L. 104–113 inserted “, subject to the availability of appropriations,” after “post-doctoral fellowship program” and substituted “nor more than 60” for “nor more than forty”.
 
 1988—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards”.
 
@@ -1247,13 +1247,13 @@ Pub. L. 111–358, § 406(b), inserted at end “In evaluating applications fo
 
 **Effective Date**
 
-Pub. L. 99–574, § 8(b), Oct. 28, 1986, 100 Stat. 3238, provided that: “The amendments made by subsection (a) [enacting this section] shall be effective October 1, 1987.”
+Pub. L. 99–574, § 8(b), Oct. 28, 1986, 100 Stat. 3238, provided that: “The amendments made by subsection (a) [enacting this section] shall be effective October 1, 1987.”
 
 **Savings Clause for Post-Doctoral Fellowship Program**
 
-Pub. L. 114–329, title III, § 306(d)(2), Jan. 6, 2017, 130 Stat. 3010, provided that: “The amendment made by subsection (c) of this section [amending this section] shall not affect any award of a post-doctoral fellowship or other form of financial assistance made under section 19 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–2) before the date of enactment of this Act [Jan. 6, 2017]. Such awards shall continue to be subject to the requirements to which such funds were subject under that section before the date of enactment of this Act.”
+Pub. L. 114–329, title III, § 306(d)(2), Jan. 6, 2017, 130 Stat. 3010, provided that: “The amendment made by subsection (c) of this section [amending this section] shall not affect any award of a post-doctoral fellowship or other form of financial assistance made under section 19 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–2) before the date of enactment of this Act [Jan. 6, 2017]. Such awards shall continue to be subject to the requirements to which such funds were subject under that section before the date of enactment of this Act.”
 
-## § 278g–2a. Teacher science and technology enhancement Institute program
+## § 278g–2a. Teacher science and technology enhancement Institute program
 
 **(a) Establishment**
 
@@ -1285,7 +1285,7 @@ The program under this section shall be conducted on an annual basis during the 
 
 The program shall provide for teachers’ participation in activities at the laboratory facilities of the Institute, or shall utilize other means of accomplishing the goals of the program as determined by the Director, which may include the Internet, video conferencing and recording, and workshops and conferences.
 
-(Mar. 3, 1901, ch. 872, § 19A, as added Pub. L. 105–309, § 7, Oct. 30, 1998, 112 Stat. 2937; amended Pub. L. 111–358, title IV, § 406(c), Jan. 4, 2011, 124 Stat. 4004.)
+(Mar. 3, 1901, ch. 872, § 19A, as added Pub. L. 105–309, § 7, Oct. 30, 1998, 112 Stat. 2937; amended Pub. L. 111–358, title IV, § 406(c), Jan. 4, 2011, 124 Stat. 4004.)
 
 **Editorial Notes**
 
@@ -1293,7 +1293,7 @@ The program shall provide for teachers’ participation in activities at the lab
 
 2011—Subsec. (c). Pub. L. 111–358 inserted at end “The Director shall give special consideration to an application from a teacher from a high-need school, as defined in section 1021 of title 20.”
 
-## § 278g–3. Computer standards program
+## § 278g–3. Computer standards program
 
 **(a) In general** The Institute shall—
 
@@ -1393,9 +1393,9 @@ The program shall provide for teachers’ participation in activities at the lab
 
 **(1)** the term “agency” has the same meaning as provided in section 3502(1) of title 44;
 
-**(2)** the term “information security” has the same meaning as provided in section 3552(b)(2) 1
+**(2)** the term “information security” has the same meaning as provided in section 3552(b)(2) 1
 
-<sup>1</sup>  So in original. Probably should be “3552(b)(3)”.
+<sup>1</sup> So in original. Probably should be “3552(b)(3)”.
 
 of such title;
 
@@ -1403,15 +1403,15 @@ of such title;
 
 **(4)** the term “information technology” has the same meaning as provided in section 11101 of title 40; and
 
-**(5)** the term “national security system” has the same meaning as provided in section 3552(b)(5) 2
+**(5)** the term “national security system” has the same meaning as provided in section 3552(b)(5) 2
 
-<sup>2</sup>  So in original. Probably should be “3552(b)(6)”.
+<sup>2</sup> So in original. Probably should be “3552(b)(6)”.
 
 of such title.3
 
-<sup>3</sup>  So in original. “Such title” probably means title 44.
+<sup>3</sup> So in original. “Such title” probably means title 44.
 
-(Mar. 3, 1901, ch. 872, § 20, as added Pub. L. 100–235, § 3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, § 5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, § 1073(h)(1), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 107–296, title X, § 1003, Nov. 25, 2002, 116 Stat. 2269; Pub. L. 107–305, §§ 8(b), 9, 10, Nov. 27, 2002, 116 Stat. 2378, 2379; Pub. L. 107–347, title III, § 303, Dec. 17, 2002, 116 Stat. 2957; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–274, title II, § 204, Dec. 18, 2014, 128 Stat. 2980; Pub. L. 113–283, § 2(e)(4), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 114–329, title I, § 104(b)(3), Jan. 6, 2017, 130 Stat. 2976; Pub. L. 116–283, div. H, title XCIV, § 9402(a), Jan. 1, 2021, 134 Stat. 4810; Pub. L. 117–167, div. B, title II, §§ 10227, 10246(a)(2), (g), Aug. 9, 2022, 136 Stat. 1481, 1491, 1494.)
+(Mar. 3, 1901, ch. 872, § 20, as added Pub. L. 100–235, § 3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, § 5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, § 1073(h)(1), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 107–296, title X, § 1003, Nov. 25, 2002, 116 Stat. 2269; Pub. L. 107–305, §§ 8(b), 9, 10, Nov. 27, 2002, 116 Stat. 2378, 2379; Pub. L. 107–347, title III, § 303, Dec. 17, 2002, 116 Stat. 2957; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–274, title II, § 204, Dec. 18, 2014, 128 Stat. 2980; Pub. L. 113–283, § 2(e)(4), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 114–329, title I, § 104(b)(3), Jan. 6, 2017, 130 Stat. 2976; Pub. L. 116–283, div. H, title XCIV, § 9402(a), Jan. 1, 2021, 134 Stat. 4810; Pub. L. 117–167, div. B, title II, §§ 10227, 10246(a)(2), (g), Aug. 9, 2022, 136 Stat. 1481, 1491, 1494.)
 
 **Editorial Notes**
 
@@ -1425,27 +1425,27 @@ A prior section 20 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and i
 
 **Amendments**
 
-2022—Subsec. (a)(2). Pub. L. 117–167, § 10246(g), substituted “section 3552(b)(6) of title 44” for “section 3552(b)(5) of title 44”.
+2022—Subsec. (a)(2). Pub. L. 117–167, § 10246(g), substituted “section 3552(b)(6) of title 44” for “section 3552(b)(5) of title 44”.
 
-Subsec. (b)(4). Pub. L. 117–167, § 10227, added par. (4).
+Subsec. (b)(4). Pub. L. 117–167, § 10227, added par. (4).
 
-Subsec. (c)(3). Pub. L. 117–167, § 10246(a)(2)(A), amended par. (3) generally. Prior to amendment, par. (3) required Institute to submit standards and minimum information security requirements to Director of Office of Management and Budget for promulgation under section 11331 of title 40.
+Subsec. (c)(3). Pub. L. 117–167, § 10246(a)(2)(A), amended par. (3) generally. Prior to amendment, par. (3) required Institute to submit standards and minimum information security requirements to Director of Office of Management and Budget for promulgation under section 11331 of title 40.
 
-Subsec. (d)(1). Pub. L. 117–167, § 10246(a)(2)(B)(i), substituted “Secretary of Commerce” for “Director of the Office of Management and Budget”.
+Subsec. (d)(1). Pub. L. 117–167, § 10246(a)(2)(B)(i), substituted “Secretary of Commerce” for “Director of the Office of Management and Budget”.
 
-Subsec. (d)(8). Pub. L. 117–167, § 10246(a)(2)(B)(ii), which directed the substitution of “Secretary of Commerce with such standards submitted to the Secretary” for “Director of Management and Budget with such standards submitted to the Director”, was executed by making the substitution for “Director of the Office of Management and Budget with such standards submitted to the Director” to reflect the probable intent of Congress.
+Subsec. (d)(8). Pub. L. 117–167, § 10246(a)(2)(B)(ii), which directed the substitution of “Secretary of Commerce with such standards submitted to the Secretary” for “Director of Management and Budget with such standards submitted to the Director”, was executed by making the substitution for “Director of the Office of Management and Budget with such standards submitted to the Director” to reflect the probable intent of Congress.
 
 2021—Subsec. (a)(5). Pub. L. 116–283 added par. (5).
 
 2017—Subsec. (d)(3). Pub. L. 114–329 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “conduct research, as needed, to determine the nature and extent of information security vulnerabilities and techniques for providing cost-effective information security;”.
 
-2014—Subsec. (a)(2). Pub. L. 113–283, § 2(e)(4)(A), substituted “section 3552(b)(5)” for “section 3532(b)(2)”.
+2014—Subsec. (a)(2). Pub. L. 113–283, § 2(e)(4)(A), substituted “section 3552(b)(5)” for “section 3532(b)(2)”.
 
-Subsec. (e). Pub. L. 113–274, § 204(2), added subsec. (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 113–274, § 204(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 113–283, § 2(e)(4)(B), which directed amendment of subsec. (e) by substituting “section 3552(b)(2)” for “section 3532(1)” in par. (2) and “section 3552(b)(5)” for “section 3532(b)(2)” in par. (5), was executed to pars. (2) and (5), respectively, of subsec. (f), to reflect the probable intent of Congress and the redesignation of subsec. (e) as (f) by Pub. L. 113–274, § 204(1). See below.
+Subsec. (f). Pub. L. 113–283, § 2(e)(4)(B), which directed amendment of subsec. (e) by substituting “section 3552(b)(2)” for “section 3532(1)” in par. (2) and “section 3552(b)(5)” for “section 3532(b)(2)” in par. (5), was executed to pars. (2) and (5), respectively, of subsec. (f), to reflect the probable intent of Congress and the redesignation of subsec. (e) as (f) by Pub. L. 113–274, § 204(1). See below.
 
-Pub. L. 113–274, § 204(1), redesignated subsec. (e) as (f).
+Pub. L. 113–274, § 204(1), redesignated subsec. (e) as (f).
 
 2004—Subsec. (c)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -1619,27 +1619,27 @@ the Institute shall draw upon computer system technical security guidelines deve
 
 “(f) Authorization of Appropriations.—There are authorized to be appropriated to the Secretary $1,060,000 for fiscal year 2003 and $1,090,000 for fiscal year 2004 to enable the Computer System Security and Privacy Advisory Board, established by section 278g–4 of this title, to identify emerging issues, including research needs, related to computer security, privacy, and cryptography and, as appropriate, to convene public meetings on those subjects, receive presentations, and publish reports, digests, and summaries for public distribution on those subjects.”
 
-Subsec. (d)(1)(B)(i). Pub. L. 107–305, § 8(b), substituted “computers and computer networks” for “computers”.
+Subsec. (d)(1)(B)(i). Pub. L. 107–305, § 8(b), substituted “computers and computer networks” for “computers”.
 
-Subsecs. (e), (f). Pub. L. 107–305, §§ 9, 10, added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 107–305, §§ 9, 10, added subsecs. (e) and (f).
 
 1997—Subsecs. (a)(4), (b)(2). Pub. L. 105–85 made technical amendment to reference in original act which appears in text as reference to section 1441 of title 40.
 
-1996—Subsec. (a)(2), (3)(A). Pub. L. 104–106, § 5607(a)(1)(A), substituted “section 3502(9) of title 44” for “section 3502(2) of title 44”.
+1996—Subsec. (a)(2), (3)(A). Pub. L. 104–106, § 5607(a)(1)(A), substituted “section 3502(9) of title 44” for “section 3502(2) of title 44”.
 
-Subsec. (a)(4). Pub. L. 104–106, § 5607(a)(1)(B), substituted “section 1441 of title 40” for “section 759(d) of title 40”.
+Subsec. (a)(4). Pub. L. 104–106, § 5607(a)(1)(B), substituted “section 1441 of title 40” for “section 759(d) of title 40”.
 
-Subsec. (b)(2). Pub. L. 104–106, § 5607(a)(2)(A), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “to make recommendations, as appropriate, to the Administrator of General Services on policies and regulations proposed pursuant to section 1441 of title 40;”.
+Subsec. (b)(2). Pub. L. 104–106, § 5607(a)(2)(A), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “to make recommendations, as appropriate, to the Administrator of General Services on policies and regulations proposed pursuant to section 1441 of title 40;”.
 
-Subsec. (b)(3). Pub. L. 104–106, § 5607(a)(2)(C), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+Subsec. (b)(3). Pub. L. 104–106, § 5607(a)(2)(C), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-Pub. L. 104–106, § 5607(a)(2)(B), substituted “section 1441 of title 40” for “section 759(d) of title 40”.
+Pub. L. 104–106, § 5607(a)(2)(B), substituted “section 1441 of title 40” for “section 759(d) of title 40”.
 
-Subsec. (b)(4) to (6). Pub. L. 104–106, § 5607(a)(2)(C), redesignated pars. (4) to (6) as (3) to (5), respectively.
+Subsec. (b)(4) to (6). Pub. L. 104–106, § 5607(a)(2)(C), redesignated pars. (4) to (6) as (3) to (5), respectively.
 
-Subsec. (d)(1)(B)(v). Pub. L. 104–106, § 5607(a)(3)(A), struck out “as defined by regulations issued by the Administrator for General Services pursuant to section 759 of title 40” after “related resources”.
+Subsec. (d)(1)(B)(v). Pub. L. 104–106, § 5607(a)(3)(A), struck out “as defined by regulations issued by the Administrator for General Services pursuant to section 759 of title 40” after “related resources”.
 
-Subsec. (d)(2). Pub. L. 104–106, § 5607(a)(3)(B), substituted “system’ ” for “system’—”, struck out “(A)” before “means”, substituted “function;” for “function; and”, and struck out subpar. (B) which read as follows: “includes automatic data processing equipment as that term is defined in section 759(a)(2) of title 40;”.
+Subsec. (d)(2). Pub. L. 104–106, § 5607(a)(3)(B), substituted “system’ ” for “system’—”, struck out “(A)” before “means”, substituted “function;” for “function; and”, and struck out subpar. (B) which read as follows: “includes automatic data processing equipment as that term is defined in section 759(a)(2) of title 40;”.
 
 1988—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” in introductory provisions of subsecs. (a) and (b) and wherever appearing in closing provisions of subsec. (c).
 
@@ -1657,9 +1657,9 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 **Publication of Standards and Guidelines on Cybersecurity Awareness**
 
-Pub. L. 116–283, div. H, title XCIV, § 9402(b), Jan. 1, 2021, 134 Stat. 4810, provided that: “Not later than three years after the date of the enactment of this Act [Jan. 1, 2021] and pursuant to section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3), the Director of the National Institute of Standards and Technology shall publish standards and guidelines for improving cybersecurity awareness of employees and contractors of Federal agencies.”
+Pub. L. 116–283, div. H, title XCIV, § 9402(b), Jan. 1, 2021, 134 Stat. 4810, provided that: “Not later than three years after the date of the enactment of this Act [Jan. 1, 2021] and pursuant to section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3), the Director of the National Institute of Standards and Technology shall publish standards and guidelines for improving cybersecurity awareness of employees and contractors of Federal agencies.”
 
-## § 278g–3a. Definitions
+## § 278g–3a. Definitions
 
 In this Act:
 
@@ -1695,7 +1695,7 @@ The term “Secretary” means the Secretary of Homeland Security.
 
 The term “security vulnerability” has the meaning given that term in section 650 of title 6.
 
-(Pub. L. 116–207, § 3, Dec. 4, 2020, 134 Stat. 1001; Pub. L. 117–263, div. G, title LXXI, § 7143(d)(8), Dec. 23, 2022, 136 Stat. 3664.)
+(Pub. L. 116–207, § 3, Dec. 4, 2020, 134 Stat. 1001; Pub. L. 117–263, div. G, title LXXI, § 7143(d)(8), Dec. 23, 2022, 136 Stat. 3664.)
 
 **Editorial Notes**
 
@@ -1715,7 +1715,7 @@ Section was enacted as part of the Internet of Things Cybersecurity Improvement 
 
 **Sense of Congress**
 
-Pub. L. 116–207, § 2, Dec. 4, 2020, 134 Stat. 1001, provided that:
+Pub. L. 116–207, § 2, Dec. 4, 2020, 134 Stat. 1001, provided that:
 
 > “It is the sense of Congress that—
 
@@ -1731,7 +1731,7 @@ Pub. L. 116–207, § 2, Dec. 4, 2020, 134 Stat. 1001, provided that:
 
 > **“(B)** can function on their own and are not only able to function when acting as a component of another device, such as a processor.”
 
-## § 278g–3b. Security standards and guidelines for agencies on use and management of Internet of Things devices
+## § 278g–3b. Security standards and guidelines for agencies on use and management of Internet of Things devices
 
 **(a) National Institute of Standards and Technology development of standards and guidelines for use of Internet of Things devices by agencies**
 
@@ -1793,7 +1793,7 @@ Not later than 180 days after the Director of the Institute makes a revision pur
 
 The Federal Acquisition Regulation shall be revised as necessary to implement any standards and guidelines promulgated in this section.
 
-(Pub. L. 116–207, § 4, Dec. 4, 2020, 134 Stat. 1002.)
+(Pub. L. 116–207, § 4, Dec. 4, 2020, 134 Stat. 1002.)
 
 **Editorial Notes**
 
@@ -1807,7 +1807,7 @@ Section was enacted as part of the Internet of Things Cybersecurity Improvement 
 
 For definitions of terms used in this section, see section 278g–3a of this title.
 
-## § 278g–3c. Guidelines on the disclosure process for security vulnerabilities relating to information systems, including Internet of Things devices
+## § 278g–3c. Guidelines on the disclosure process for security vulnerabilities relating to information systems, including Internet of Things devices
 
 **(a) In general** Not later than 180 days after December 4, 2020, the Director of the Institute, in consultation with such cybersecurity researchers and private sector industry experts as the Director considers appropriate, and in consultation with the Secretary, shall develop and publish under section 278g–3 of this title guidelines—
 
@@ -1847,7 +1847,7 @@ The Director of OMB shall oversee the implementation of the guidelines published
 
 The Secretary, in consultation with the Director of OMB, shall administer the implementation of the guidelines published under subsection (a) and provide operational and technical assistance in implementing such guidelines.
 
-(Pub. L. 116–207, § 5, Dec. 4, 2020, 134 Stat. 1004.)
+(Pub. L. 116–207, § 5, Dec. 4, 2020, 134 Stat. 1004.)
 
 **Editorial Notes**
 
@@ -1861,7 +1861,7 @@ Section was enacted as part of the Internet of Things Cybersecurity Improvement 
 
 For definitions of terms used in this section, see section 278g–3a of this title.
 
-## § 278g–3d. Implementation of coordinated disclosure of security vulnerabilities relating to agency information systems, including Internet of Things devices
+## § 278g–3d. Implementation of coordinated disclosure of security vulnerabilities relating to agency information systems, including Internet of Things devices
 
 **(a) Agency guidelines required**
 
@@ -1879,7 +1879,7 @@ The Secretary shall ensure that the assistance provided under subsection (b) is 
 
 The Federal Acquisition Regulation shall be revised as necessary to implement the provisions under this section.
 
-(Pub. L. 116–207, § 6, Dec. 4, 2020, 134 Stat. 1005.)
+(Pub. L. 116–207, § 6, Dec. 4, 2020, 134 Stat. 1005.)
 
 **Editorial Notes**
 
@@ -1893,7 +1893,7 @@ Section was enacted as part of the Internet of Things Cybersecurity Improvement 
 
 For definitions of terms used in this section, see section 278g–3a of this title.
 
-## § 278g–3e. Contractor compliance with coordinated disclosure of security vulnerabilities relating to agency Internet of Things devices
+## § 278g–3e. Contractor compliance with coordinated disclosure of security vulnerabilities relating to agency Internet of Things devices
 
 **(a) Prohibition on procurement and use**
 
@@ -1941,7 +1941,7 @@ Each report submitted under this subsection shall be submitted in unclassified f
 
 The prohibition under subsection (a)(1) shall take effect 2 years after December 4, 2020.
 
-(Pub. L. 116–207, § 7, Dec. 4, 2020, 134 Stat. 1005.)
+(Pub. L. 116–207, § 7, Dec. 4, 2020, 134 Stat. 1005.)
 
 **Editorial Notes**
 
@@ -1959,11 +1959,11 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 For definitions of terms used in this section, see section 278g–3a of this title.
 
-## § 278g–4. Information Security and Privacy Advisory Board
+## § 278g–4. Information Security and Privacy Advisory Board
 
-**(a) Establishment and composition** There is hereby established a 1
+**(a) Establishment and composition** There is hereby established a 1
 
-<sup>1</sup>  So in original. Probably should be “an”.
+<sup>1</sup> So in original. Probably should be “an”.
 
 Information Security and Privacy Advisory Board within the Department of Commerce. The Secretary of Commerce shall appoint the chairman of the Board. The Board shall be composed of twelve additional members appointed by the Secretary of Commerce as follows:
 
@@ -2007,37 +2007,37 @@ To provide the staff services necessary to assist the Board in carrying out its 
 
 As used in this section, the terms “information system” and “information technology” have the meanings given in section 278g–3 of this title.
 
-(Mar. 3, 1901, ch. 872, § 21, as added Pub. L. 100–235, § 3(2), Jan. 8, 1988, 101 Stat. 1727; amended Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 107–296, title X, § 1004, Nov. 25, 2002, 116 Stat. 2271; Pub. L. 107–347, title III, § 304, Dec. 17, 2002, 116 Stat. 2959; Pub. L. 113–283, § 2(f)(2), Dec. 18, 2014, 128 Stat. 3087.)
+(Mar. 3, 1901, ch. 872, § 21, as added Pub. L. 100–235, § 3(2), Jan. 8, 1988, 101 Stat. 1727; amended Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 107–296, title X, § 1004, Nov. 25, 2002, 116 Stat. 2271; Pub. L. 107–347, title III, § 304, Dec. 17, 2002, 116 Stat. 2959; Pub. L. 113–283, § 2(f)(2), Dec. 18, 2014, 128 Stat. 3087.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (b)(2). Pub. L. 113–283, § 2(f)(2)(A), inserted “, the Secretary of Homeland Security,” after “the Institute”.
+2014—Subsec. (b)(2). Pub. L. 113–283, § 2(f)(2)(A), inserted “, the Secretary of Homeland Security,” after “the Institute”.
 
-Subsec. (b)(3). Pub. L. 113–283, § 2(f)(2)(B), inserted “the Secretary of Homeland Security,” after “the Secretary of Commerce,”.
+Subsec. (b)(3). Pub. L. 113–283, § 2(f)(2)(B), inserted “the Secretary of Homeland Security,” after “the Secretary of Commerce,”.
 
-2002—Subsec. (a). Pub. L. 107–296, § 1004(1), and Pub. L. 107–347, § 304(1), amended subsec. (a) identically, substituting “Information Security and Privacy Advisory Board” for “Computer System Security and Privacy Advisory Board” in introductory provisions.
+2002—Subsec. (a). Pub. L. 107–296, § 1004(1), and Pub. L. 107–347, § 304(1), amended subsec. (a) identically, substituting “Information Security and Privacy Advisory Board” for “Computer System Security and Privacy Advisory Board” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 107–296, § 1004(2), and Pub. L. 107–347, § 304(2), amended par. (1) identically, substituting “information technology” for “computer or telecommunications”.
+Subsec. (a)(1). Pub. L. 107–296, § 1004(2), and Pub. L. 107–347, § 304(2), amended par. (1) identically, substituting “information technology” for “computer or telecommunications”.
 
-Subsec. (a)(2). Pub. L. 107–296, § 1004(3), and Pub. L. 107–347, § 304(3), amended par. (2) identically, substituting “information technology” for “computer or telecommunications technology” and for “computer or telecommunications equipment”.
+Subsec. (a)(2). Pub. L. 107–296, § 1004(3), and Pub. L. 107–347, § 304(3), amended par. (2) identically, substituting “information technology” for “computer or telecommunications technology” and for “computer or telecommunications equipment”.
 
-Subsec. (a)(3). Pub. L. 107–296, § 1004(4), and Pub. L. 107–347, § 304(4), amended par. (3) identically, substituting “information system” for “computer systems” and “information security” for “computer systems security”.
+Subsec. (a)(3). Pub. L. 107–296, § 1004(4), and Pub. L. 107–347, § 304(4), amended par. (3) identically, substituting “information system” for “computer systems” and “information security” for “computer systems security”.
 
-Subsec. (b)(1). Pub. L. 107–296, § 1004(5), and Pub. L. 107–347, § 304(5), amended par. (1) identically, substituting “information security” for “computer systems security”.
+Subsec. (b)(1). Pub. L. 107–296, § 1004(5), and Pub. L. 107–347, § 304(5), amended par. (1) identically, substituting “information security” for “computer systems security”.
 
-Subsec. (b)(2). Pub. L. 107–347, § 304(6), added par. (2) and struck out former par. (2) which read as follows: “to advise the Institute and the Secretary of Commerce on security and privacy issues pertaining to Federal computer systems; and”.
+Subsec. (b)(2). Pub. L. 107–347, § 304(6), added par. (2) and struck out former par. (2) which read as follows: “to advise the Institute and the Secretary of Commerce on security and privacy issues pertaining to Federal computer systems; and”.
 
-Pub. L. 107–296, § 1004(6), added par. (2) and struck out former par. (2), as added by Pub. L. 107–347, which read as follows: “to advise the Institute, the Secretary of Commerce, and the Director of the Office of Management and Budget on information security and privacy issues pertaining to Federal Government information systems, including through review of proposed standards and guidelines developed under section 278g–3 of this title; and”.
+Pub. L. 107–296, § 1004(6), added par. (2) and struck out former par. (2), as added by Pub. L. 107–347, which read as follows: “to advise the Institute, the Secretary of Commerce, and the Director of the Office of Management and Budget on information security and privacy issues pertaining to Federal Government information systems, including through review of proposed standards and guidelines developed under section 278g–3 of this title; and”.
 
-Subsec. (b)(3). Pub. L. 107–296, § 1004(7), and Pub. L. 107–347, § 304(7), amended par. (3) identically, inserting “annually” after “report”.
+Subsec. (b)(3). Pub. L. 107–296, § 1004(7), and Pub. L. 107–347, § 304(7), amended par. (3) identically, inserting “annually” after “report”.
 
-Subsecs. (f), (g). Pub. L. 107–296, § 1004(8), (9), and Pub. L. 107–347, § 304(8), (9), amended section identically, adding subsec. (f) and redesignating former subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Subsecs. (f), (g). Pub. L. 107–296, § 1004(8), (9), and Pub. L. 107–347, § 304(8), (9), amended section identically, adding subsec. (f) and redesignating former subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 107–296, § 1004(10), and Pub. L. 107–347, § 304(10), amended section identically, adding subsec. (h) and striking out former subsec. (h) which read as follows: “As used in this section, the terms ‘computer system’ and ‘Federal computer system’ have the meanings given in section 278g–3 of this title.”
+Subsec. (h). Pub. L. 107–296, § 1004(10), and Pub. L. 107–347, § 304(10), amended section identically, adding subsec. (h) and striking out former subsec. (h) which read as follows: “As used in this section, the terms ‘computer system’ and ‘Federal computer system’ have the meanings given in section 278g–3 of this title.”
 
-Pub. L. 107–296, § 1004(9), and Pub. L. 107–347, § 304(9), amended section identically, redesignating subsec. (g) as (h).
+Pub. L. 107–296, § 1004(9), and Pub. L. 107–347, § 304(9), amended section identically, redesignating subsec. (g) as (h).
 
 1988—Subsec. (b)(2). Pub. L. 100–418, which directed that this chapter be amended by substituting “Institute” for “National Bureau of Standards”, “Bureau”, or “bureau”, wherever appearing, was executed to par. (2) by substituting “Institute” for “Bureau of Standards”, to reflect the probable intent of Congress.
 
@@ -2055,7 +2055,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-## § 278g–5. Enterprise integration initiative
+## § 278g–5. Enterprise integration initiative
 
 **(a) Establishment**
 
@@ -2079,7 +2079,7 @@ For each major manufacturing industry, the Director may work with industry, trad
 
 The Director shall ensure that the Manufacturing Extension Program is prepared to advise small- and medium-sized businesses on how to acquire the expertise, equipment, and training necessary to participate fully in supply chains using enterprise integration.
 
-(Pub. L. 107–277, § 3, Nov. 5, 2002, 116 Stat. 1936; Pub. L. 113–188, title II, § 201(b), Nov. 26, 2014, 128 Stat. 2018; Pub. L. 114–329, title V, § 501(e)(2), Jan. 6, 2017, 130 Stat. 3033.)
+(Pub. L. 107–277, § 3, Nov. 5, 2002, 116 Stat. 1936; Pub. L. 113–188, title II, § 201(b), Nov. 26, 2014, 128 Stat. 2018; Pub. L. 114–329, title V, § 501(e)(2), Jan. 6, 2017, 130 Stat. 3033.)
 
 **Editorial Notes**
 
@@ -2153,19 +2153,19 @@ Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, provided that:
 
 > **“(4)** $20,000,000 for fiscal year 2005.”
 
-## § 278h. Research program on security of computer systems
+## § 278h. Research program on security of computer systems
 
 **(a) Establishment** The Director shall establish a program of assistance to institutions of higher education that enter into partnerships with for-profit entities to support research to improve the security of computer systems. The partnerships may also include government laboratories and nonprofit research institutions. The program shall—
 
 **(1)** include multidisciplinary, long-term research;
 
-**(2)** include research directed toward addressing needs identified through the activities of the Computer System Security 1
+**(2)** include research directed toward addressing needs identified through the activities of the Computer System Security 1
 
-<sup>1</sup>  So in original. Probably should be “Information Security”.
+<sup>1</sup> So in original. Probably should be “Information Security”.
 
-and Privacy Advisory Board under section 278g–3(f) 2
+and Privacy Advisory Board under section 278g–3(f) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title; and
 
@@ -2245,7 +2245,7 @@ The Director shall report to the Senate Committee on Commerce, Science, and Tran
 
 **(1) Periodic review**
 
-The Director shall periodically review the portfolio of research awards monitored by each program manager designated in accordance with subsection (d). In conducting those reviews, the Director shall seek the advice of the Computer System Security <sup>1</sup> and Privacy Advisory Board, established under section 278g–4 of this title, on the appropriateness of the research goals and on the quality and utility of research projects managed by program managers in accordance with subsection (d).
+The Director shall periodically review the portfolio of research awards monitored by each program manager designated in accordance with subsection (d). In conducting those reviews, the Director shall seek the advice of the Computer System Security <sup>1</sup> and Privacy Advisory Board, established under section 278g–4 of this title, on the appropriateness of the research goals and on the quality and utility of research projects managed by program managers in accordance with subsection (d).
 
 **(2) Comprehensive 5-year review**
 
@@ -2255,21 +2255,21 @@ The Director shall also contract with the National Research Council for a compre
 
 **(1) Computer system**
 
-The term “computer system” has the meaning given that term in section 278g–3(d)(1) <sup>2</sup> of this title.
+The term “computer system” has the meaning given that term in section 278g–3(d)(1) <sup>2</sup> of this title.
 
 **(2) Institution of higher education**
 
 The term “institution of higher education” has the meaning given that term in section 1001(a) of title 20.
 
-(Mar. 3, 1901, ch. 872, § 22, as added Pub. L. 107–305, § 8(a)(2), Nov. 27, 2002, 116 Stat. 2375.)
+(Mar. 3, 1901, ch. 872, § 22, as added Pub. L. 107–305, § 8(a)(2), Nov. 27, 2002, 116 Stat. 2375.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 278g–3 of this title, referred to in subsecs. (a)(2) and (f)(1), was amended generally by Pub. L. 107–296, title X, § 1003, Nov. 25, 2002, 116 Stat. 2269, and, as so amended, did not contain a subsec. (d) defining “computer system” or a subsec. (f). A later amendment by Pub. L. 113–274, title II, § 204(1), Dec. 18, 2014, 128 Stat. 2980, redesignated subsec. (e) of section 278g–3 of this title, relating to definitions, as subsec. (f).
+Section 278g–3 of this title, referred to in subsecs. (a)(2) and (f)(1), was amended generally by Pub. L. 107–296, title X, § 1003, Nov. 25, 2002, 116 Stat. 2269, and, as so amended, did not contain a subsec. (d) defining “computer system” or a subsec. (f). A later amendment by Pub. L. 113–274, title II, § 204(1), Dec. 18, 2014, 128 Stat. 2980, redesignated subsec. (e) of section 278g–3 of this title, relating to definitions, as subsec. (f).
 
-The Intergovernmental Personnel Act of 1970, referred to in subsec. (d)(2), (4), is Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which enacted sections 3371 to 3376 of Title 5, Government Organization and Employees, and chapter 62 (§ 4701 et seq.) of Title 42, The Public Health and Welfare, amended section 1304 of Title 5 and section 246 of Title 42, repealed sections 1881 to 1888 of Title 7, Agriculture, and section 869b of Title 20, Education, and enacted provisions set out as notes under section 3371 of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 42 and Tables.
+The Intergovernmental Personnel Act of 1970, referred to in subsec. (d)(2), (4), is Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which enacted sections 3371 to 3376 of Title 5, Government Organization and Employees, and chapter 62 (§ 4701 et seq.) of Title 42, The Public Health and Welfare, amended section 1304 of Title 5 and section 246 of Title 42, repealed sections 1881 to 1888 of Title 7, Agriculture, and section 869b of Title 20, Education, and enacted provisions set out as notes under section 3371 of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 42 and Tables.
 
 **Prior Provisions**
 
@@ -2281,7 +2281,7 @@ A prior section 22 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and i
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-## § 278h–1. Standards for artificial intelligence
+## § 278h–1. Standards for artificial intelligence
 
 **(a) Mission** The Institute shall—
 
@@ -2323,7 +2323,7 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 **(5)** enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the National Institute of Standards and Technology and on such terms as the Director considers appropriate, in furtherance of the purposes of this division.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(c) Risk management framework** Not later than 2 years after January 1, 2021, the Director shall work to develop, and periodically update, in collaboration with other public and private sector organizations, including the National Science Foundation and the Department of Energy, a voluntary risk management framework for trustworthy artificial intelligence systems. The framework shall—
 
@@ -2393,7 +2393,7 @@ In coordination with other Federal agencies as appropriate, the private sector, 
 
 **(5)** $93,700,000 for fiscal year 2025.
 
-(Mar. 3, 1901, ch. 872, § 22A, as added Pub. L. 116–283, div. E, title LIII, § 5301, Jan. 1, 2021, 134 Stat. 4536; amended Pub. L. 117–167, div. B, title II, § 10232(b), Aug. 9, 2022, 136 Stat. 1484.)
+(Mar. 3, 1901, ch. 872, § 22A, as added Pub. L. 116–283, div. E, title LIII, § 5301, Jan. 1, 2021, 134 Stat. 4536; amended Pub. L. 117–167, div. B, title II, § 10232(b), Aug. 9, 2022, 136 Stat. 1484.)
 
 **Editorial Notes**
 
@@ -2405,7 +2405,7 @@ This division, referred to in subsec. (b)(5), probably means div. E of Pub. L. 1
 
 2022—Subsecs. (g), (h). Pub. L. 117–167 added subsec. (g) and redesignated former subsec. (g) as (h).
 
-## § 278i. Reports to Congress
+## § 278i. Reports to Congress
 
 **(a) Information to Congress on Institute activities**
 
@@ -2415,7 +2415,7 @@ The Director shall keep the Committee on Commerce, Science, and Transportation o
 
 The Director shall justify in writing all changes in policies regarding fees for standard reference materials and calibration services occurring after June 30, 1987, including a description of the anticipated impact of any proposed changes on demand for and anticipated revenues from the materials and services. Changes in policy and fees shall not be effective unless and until the Director has submitted the proposed schedule and justification to the Congress and 30 days on which both Houses of Congress are in session have elapsed since such submission, except that the requirement of this sentence shall not apply with respect to adjustments which are based solely on changes in the costs of raw materials or of producing and delivering standard reference materials or calibration services.
 
-(Mar. 3, 1901, ch. 872, § 23, as added Pub. L. 100–418, title V, § 5114(2), Aug. 23, 1988, 102 Stat. 1432; amended Pub. L. 110–69, title III, § 3004, Aug. 9, 2007, 121 Stat. 590; Pub. L. 114–329, title II, § 204(a)(1)(B)(i), Jan. 6, 2017, 130 Stat. 2998.)
+(Mar. 3, 1901, ch. 872, § 23, as added Pub. L. 100–418, title V, § 5114(2), Aug. 23, 1988, 102 Stat. 1432; amended Pub. L. 110–69, title III, § 3004, Aug. 9, 2007, 121 Stat. 590; Pub. L. 114–329, title II, § 204(a)(1)(B)(i), Jan. 6, 2017, 130 Stat. 2998.)
 
 **Editorial Notes**
 
@@ -2431,7 +2431,7 @@ The Director shall justify in writing all changes in policies regarding fees for
 
 Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-## § 278j. Studies by National Research Council
+## § 278j. Studies by National Research Council
 
 The Director may periodically contract with the National Research Council for advice and studies to assist the Institute to serve United States industry and science. The subjects of such advice and studies may include—
 
@@ -2441,9 +2441,9 @@ The Director may periodically contract with the National Research Council for ad
 
 **(3)** identification and assessment of likely barriers to widespread use of advanced manufacturing technology by the United States workforce, including training and other initiatives which could lead to a higher percentage of manufacturing jobs of United States companies being located within the borders of our country.
 
-(Mar. 3, 1901, ch. 872, § 24, as added Pub. L. 100–418, title V, § 5114(2), Aug. 23, 1988, 102 Stat. 1432.)
+(Mar. 3, 1901, ch. 872, § 24, as added Pub. L. 100–418, title V, § 5114(2), Aug. 23, 1988, 102 Stat. 1432.)
 
-## § 278k. Hollings Manufacturing Extension Partnership
+## § 278k. Hollings Manufacturing Extension Partnership
 
 **(a) Definitions** In this section:
 
@@ -2475,7 +2475,7 @@ The term “eligible entity” means a United States-based nonprofit institution
 
 The term “historically Black college and university” has the meaning given the term “part B institution” in section 1061 of title 20.
 
-**(7) 1 [footnote: 1 So in original. Two pars. (7) have been enacted.] Institution of higher education**
+**(7) 1 [footnote: 1 So in original. Two pars. (7) have been enacted.] Institution of higher education**
 
 The term “institution of higher education” has the meaning given such term in section 1001 of title 20.
 
@@ -2487,7 +2487,7 @@ The term “Hollings Manufacturing Extension Partnership” or “Program” mea
 
 The term “MEP Advisory Board” means the Manufacturing Extension Partnership Advisory Board established under subsection (n).2
 
-<sup>2</sup>  So in original. Probably should refer to subsec. (m).
+<sup>2</sup> So in original. Probably should refer to subsec. (m).
 
 **(9) Minority-serving institution**
 
@@ -2563,9 +2563,9 @@ An eligible entity shall submit an application to the Secretary at such time, in
 
 **(C)** performance metrics;
 
-**(D)** criteria for determining qualified applicants; and 3
+**(D)** criteria for determining qualified applicants; and 3
 
-<sup>3</sup>  So in original.
+<sup>3</sup> So in original.
 
 **(E)** criteria for choosing recipients of financial assistance from among the qualified applicants.<sup>3</sup>
 
@@ -2761,7 +2761,7 @@ Bylaws adopted under subparagraph (A) shall include policies to minimize conflic
 
 To the extent provided in advance in appropriations Acts, other Federal departments and agencies may transfer amounts to the Institute, and the Secretary and Director may accept and make available cash donations from the private sector pursuant to section 272(c)(7) of this title, to be used for strengthening United States manufacturing under this section.
 
-**(2) Competitive awards** Funds accepted from other Federal departments and agencies and from the private sector under paragraph (1) shall be awarded competitively by the Secretary and Director to Centers, provided that the Secretary and Director may make noncompetitive <sup>3</sup> awards, pursuant to this section or section 278k–1 of this title, or as a non-competitive <sup>3</sup> contract, as appropriate, if the Secretary and Director determine that—
+**(2) Competitive awards** Funds accepted from other Federal departments and agencies and from the private sector under paragraph (1) shall be awarded competitively by the Secretary and Director to Centers, provided that the Secretary and Director may make noncompetitive <sup>3</sup> awards, pursuant to this section or section 278k–1 of this title, or as a non-competitive <sup>3</sup> contract, as appropriate, if the Secretary and Director determine that—
 
 **(A)** the manufacturing market or sector targeted is limited geographically or in scope;
 
@@ -2837,9 +2837,9 @@ At a minimum, the MEP Advisory Board shall transmit an annual report to the Secr
 
 **(B) Contents**
 
-The report shall address the status of the Program and describe the relevant sections of the programmatic planning document and updates thereto transmitted to Congress by the Director under subsections (c) and (d) of section 278i 4
+The report shall address the status of the Program and describe the relevant sections of the programmatic planning document and updates thereto transmitted to Congress by the Director under subsections (c) and (d) of section 278i 4
 
-<sup>4</sup>  See References in Text note below.
+<sup>4</sup> See References in Text note below.
 
 of this title.
 
@@ -2857,63 +2857,63 @@ of this title.
 
 As part of the Program, the Secretary shall develop open access resources that address best practices related to inventory sourcing, supply chain management, manufacturing techniques, available Federal resources, and other topics to further the competitiveness and profitability of small manufacturers.
 
-(Mar. 3, 1901, ch. 872, § 25, as added Pub. L. 100–418, title V, § 5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, § 105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, § 2, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 110–69, title III, § 3003, Aug. 9, 2007, 121 Stat. 587; Pub. L. 111–240, title IV, § 4226(a), Sept. 27, 2010, 124 Stat. 2598; Pub. L. 111–358, title IV, § 404(a)–(f)(1), (3), (h), (i), title VII, § 703, Jan. 4, 2011, 124 Stat. 4001–4003, 4042; Pub. L. 114–329, title V, § 501(b), Jan. 6, 2017, 130 Stat. 3023; Pub. L. 117–167, div. B, title II, §§ 10252(a), (b), (d), 10255, Aug. 9, 2022, 136 Stat. 1499, 1503; Pub. L. 117–286, § 4(a)(65), Dec. 27, 2022, 136 Stat. 4312.)
+(Mar. 3, 1901, ch. 872, § 25, as added Pub. L. 100–418, title V, § 5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, § 105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, § 2, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 110–69, title III, § 3003, Aug. 9, 2007, 121 Stat. 587; Pub. L. 111–240, title IV, § 4226(a), Sept. 27, 2010, 124 Stat. 2598; Pub. L. 111–358, title IV, § 404(a)–(f)(1), (3), (h), (i), title VII, § 703, Jan. 4, 2011, 124 Stat. 4001–4003, 4042; Pub. L. 114–329, title V, § 501(b), Jan. 6, 2017, 130 Stat. 3023; Pub. L. 117–167, div. B, title II, §§ 10252(a), (b), (d), 10255, Aug. 9, 2022, 136 Stat. 1499, 1503; Pub. L. 117–286, § 4(a)(65), Dec. 27, 2022, 136 Stat. 4312.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsections (c) and (d) of section 278i of this title, referred to in subsec. (m)(5)(B), which related to 3-year programmatic planning documents and annual updates, were repealed by Pub. L. 114–329, title II, § 204(a)(1)(B)(i), Jan. 6, 2017, 130 Stat. 2998.
+Subsections (c) and (d) of section 278i of this title, referred to in subsec. (m)(5)(B), which related to 3-year programmatic planning documents and annual updates, were repealed by Pub. L. 114–329, title II, § 204(a)(1)(B)(i), Jan. 6, 2017, 130 Stat. 2998.
 
 **Amendments**
 
-2022—Subsec. (a)(5). Pub. L. 117–167, § 10252(b)(1), struck out “or consortium thereof,” before “an institution of higher education” and inserted “or a consortium thereof” before period at end.
+2022—Subsec. (a)(5). Pub. L. 117–167, § 10252(b)(1), struck out “or consortium thereof,” before “an institution of higher education” and inserted “or a consortium thereof” before period at end.
 
-Subsec. (a)(6) to (8). Pub. L. 117–167, § 10255(1)–(4), added pars. (6) defining historically Black college and university and (7) defining institution of higher education and redesignated former pars. (6) defining Hollings Manufacturing Extension Partnership or Program and (7) defining MEP Advisory Board as (7) and (8), respectively.
+Subsec. (a)(6) to (8). Pub. L. 117–167, § 10255(1)–(4), added pars. (6) defining historically Black college and university and (7) defining institution of higher education and redesignated former pars. (6) defining Hollings Manufacturing Extension Partnership or Program and (7) defining MEP Advisory Board as (7) and (8), respectively.
 
-Subsec. (a)(9) to (11). Pub. L. 117–167, § 10255(5), added pars. (9) to (11).
+Subsec. (a)(9) to (11). Pub. L. 117–167, § 10255(5), added pars. (9) to (11).
 
-Subsec. (c)(4). Pub. L. 117–167, § 10252(b)(2), inserted “United States-based” before “industrial”.
+Subsec. (c)(4). Pub. L. 117–167, § 10252(b)(2), inserted “United States-based” before “industrial”.
 
-Subsec. (c)(6). Pub. L. 117–167, § 10252(d)(1)(A), substituted “secondary schools, community colleges, and area career and technical education schools, including those in underserved and rural communities,” for “community colleges and area career and technical education schools”.
+Subsec. (c)(6). Pub. L. 117–167, § 10252(d)(1)(A), substituted “secondary schools, community colleges, and area career and technical education schools, including those in underserved and rural communities,” for “community colleges and area career and technical education schools”.
 
-Subsec. (c)(7). Pub. L. 117–167, § 10252(d)(1)(B), substituted “local secondary schools and local colleges, including historically Black colleges and universities, Tribal Colleges or Universities, minority-serving institutions, community colleges, and secondary schools and colleges in underserved and rural communities,” for “and local colleges” and inserted “or other applied learning opportunities” after “apprenticeships”.
+Subsec. (c)(7). Pub. L. 117–167, § 10252(d)(1)(B), substituted “local secondary schools and local colleges, including historically Black colleges and universities, Tribal Colleges or Universities, minority-serving institutions, community colleges, and secondary schools and colleges in underserved and rural communities,” for “and local colleges” and inserted “or other applied learning opportunities” after “apprenticeships”.
 
-Subsec. (d)(1). Pub. L. 117–167, § 10252(b)(3)(A), inserted “at United States-based industrial facilities, including small and medium manufacturing companies” before “based”.
+Subsec. (d)(1). Pub. L. 117–167, § 10252(b)(3)(A), inserted “at United States-based industrial facilities, including small and medium manufacturing companies” before “based”.
 
-Subsec. (d)(2). Pub. L. 117–167, § 10252(b)(3)(B), inserted “United States-based” before “companies”.
+Subsec. (d)(2). Pub. L. 117–167, § 10252(b)(3)(B), inserted “United States-based” before “companies”.
 
-Subsec. (d)(3). Pub. L. 117–167, § 10252(d)(2), substituted “and local high schools, community colleges, and area career and technical education schools, including those in underserved and rural communities,” for “, community colleges, and area career and technical education schools,”.
+Subsec. (d)(3). Pub. L. 117–167, § 10252(d)(2), substituted “and local high schools, community colleges, and area career and technical education schools, including those in underserved and rural communities,” for “, community colleges, and area career and technical education schools,”.
 
-Pub. L. 117–167, § 10252(b)(3)(C), inserted “United States-based” before “small”.
+Pub. L. 117–167, § 10252(b)(3)(C), inserted “United States-based” before “small”.
 
-Subsec. (f)(5)(B)(i). Pub. L. 117–167, § 10252(b)(4), inserted before semicolon at end “in the United States”.
+Subsec. (f)(5)(B)(i). Pub. L. 117–167, § 10252(b)(4), inserted before semicolon at end “in the United States”.
 
-Subsec. (*l*). Pub. L. 117–167, § 10252(a), amended subsec. (*l*) generally. Prior to amendment, text read as follows: “In addition to such sums as may be appropriated to the Secretary and Director to operate the Program, the Secretary and Director may also accept funds from other Federal departments and agencies and from the private sector under section 272(c)(7) of this title, to be available to the extent provided by appropriations Acts, for the purpose of strengthening United States manufacturing.”
+Subsec. (*l*). Pub. L. 117–167, § 10252(a), amended subsec. (*l*) generally. Prior to amendment, text read as follows: “In addition to such sums as may be appropriated to the Secretary and Director to operate the Program, the Secretary and Director may also accept funds from other Federal departments and agencies and from the private sector under section 272(c)(7) of this title, to be available to the extent provided by appropriations Acts, for the purpose of strengthening United States manufacturing.”
 
-Subsec. (m)(4). Pub. L. 117–286, § 4(a)(65)(A), substituted “Applicability of chapter 10 of title 5” for “FACA applicability” in heading.
+Subsec. (m)(4). Pub. L. 117–286, § 4(a)(65)(A), substituted “Applicability of chapter 10 of title 5” for “FACA applicability” in heading.
 
-Subsec. (m)(4)(A). Pub. L. 117–286, § 4(a)(65)(B), substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
+Subsec. (m)(4)(A). Pub. L. 117–286, § 4(a)(65)(B), substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
 
-Subsec. (m)(4)(B). Pub. L. 117–286, § 4(a)(65)(C), substituted “Section 1013 of title 5” for “Section 14 of the Federal Advisory Committee Act”.
+Subsec. (m)(4)(B). Pub. L. 117–286, § 4(a)(65)(C), substituted “Section 1013 of title 5” for “Section 14 of the Federal Advisory Committee Act”.
 
-Subsec. (n)(1)(A). Pub. L. 117–167, § 10252(b)(5), inserted “United States-based” before “small”.
+Subsec. (n)(1)(A). Pub. L. 117–167, § 10252(b)(5), inserted “United States-based” before “small”.
 
 2017—Pub. L. 114–329 amended section generally. Prior to amendment, section related to establishment of regional centers for the transfer of manufacturing technology, the MEP Advisory Board, a competitive grant program, and an innovative services initiative.
 
-2011—Subsec. (a). Pub. L. 111–358, § 404(f)(3)(A), substituted “regional centers for the transfer of manufacturing technology” for “Regional Centers for the Transfer of Manufacturing Technology” in introductory provisions.
+2011—Subsec. (a). Pub. L. 111–358, § 404(f)(3)(A), substituted “regional centers for the transfer of manufacturing technology” for “Regional Centers for the Transfer of Manufacturing Technology” in introductory provisions.
 
-Subsec. (a)(6). Pub. L. 111–358, § 404(a), added par. (6).
+Subsec. (a)(6). Pub. L. 111–358, § 404(a), added par. (6).
 
-Subsec. (c)(7), (8). Pub. L. 111–358, § 404(d), added pars. (7) and (8).
+Subsec. (c)(7), (8). Pub. L. 111–358, § 404(d), added pars. (7) and (8).
 
-Subsec. (e)(4). Pub. L. 111–358, § 404(e), amended par. (4) generally. Prior to amendment, text read as follows: “In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act.”
+Subsec. (e)(4). Pub. L. 111–358, § 404(e), amended par. (4) generally. Prior to amendment, text read as follows: “In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act.”
 
-Subsec. (f)(3). Pub. L. 111–358, § 703(a), substituted “to add capabilities to the MEP program, including the development of” for “to develop” and “Centers may be reimbursed for costs incurred under the program. These themes—” for “These themes shall be related to projects associated with manufacturing extension activities, including supply chain integration and quality management, and including the transfer of technology based on the technological needs of manufacturers and available technologies from institutions of higher education, laboratories, and other technology producing entities, or extend beyond these traditional areas.” and added subpars. (A) to (C).
+Subsec. (f)(3). Pub. L. 111–358, § 703(a), substituted “to add capabilities to the MEP program, including the development of” for “to develop” and “Centers may be reimbursed for costs incurred under the program. These themes—” for “These themes shall be related to projects associated with manufacturing extension activities, including supply chain integration and quality management, and including the transfer of technology based on the technological needs of manufacturers and available technologies from institutions of higher education, laboratories, and other technology producing entities, or extend beyond these traditional areas.” and added subpars. (A) to (C).
 
-Pub. L. 111–358, § 404(i), substituted “Director of the Hollings MEP program,” for “Director of the Centers program,”.
+Pub. L. 111–358, § 404(i), substituted “Director of the Hollings MEP program,” for “Director of the Centers program,”.
 
-Subsec. (f)(5). Pub. L. 111–358, § 703(b), amended par. (5) generally. Prior to amendment, text read as follows: “Awards under this subsection shall be peer reviewed and competitively awarded. The Director shall select proposals to receive awards—
+Subsec. (f)(5). Pub. L. 111–358, § 703(b), amended par. (5) generally. Prior to amendment, text read as follows: “Awards under this subsection shall be peer reviewed and competitively awarded. The Director shall select proposals to receive awards—
 
 “(A) that utilize innovative or collaborative approaches to solving the problem described in the competition;
 
@@ -2921,59 +2921,59 @@ Subsec. (f)(5). Pub. L. 111–358, § 703(b), amended par. (5) generally. Prio
 
 “(C) that will contribute to the long-term economic stability of that region.”
 
-Subsec. (f)(7). Pub. L. 111–358, § 703(c), added par. (7) relating to duration.
+Subsec. (f)(7). Pub. L. 111–358, § 703(c), added par. (7) relating to duration.
 
-Subsec. (f)(8), (9). Pub. L. 111–358, § 703(c), added pars. (8) and (9).
+Subsec. (f)(8), (9). Pub. L. 111–358, § 703(c), added pars. (8) and (9).
 
-Subsec. (g). Pub. L. 111–358, § 404(b), added subsec. (g).
+Subsec. (g). Pub. L. 111–358, § 404(b), added subsec. (g).
 
-Subsec. (h). Pub. L. 111–358, § 404(c), added subsec. (h).
+Subsec. (h). Pub. L. 111–358, § 404(c), added subsec. (h).
 
-Subsec. (i). Pub. L. 111–358, § 404(f)(1), added subsec. (i).
+Subsec. (i). Pub. L. 111–358, § 404(f)(1), added subsec. (i).
 
-Subsec. (j). Pub. L. 111–358, § 404(f)(3)(B), added subsec. (j).
+Subsec. (j). Pub. L. 111–358, § 404(f)(3)(B), added subsec. (j).
 
-Subsec. (k). Pub. L. 111–358, § 404(h), added subsec. (k).
+Subsec. (k). Pub. L. 111–358, § 404(h), added subsec. (k).
 
 2010—Subsec. (f)(7). Pub. L. 111–240 added par. (7) relating to global marketplace projects.
 
-2007—Subsec. (c)(3). Pub. L. 110–69, § 3003(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Any nonprofit institution, or group thereof, or consortia of nonprofit institutions, including entities existing on August 23, 1988, may submit to the Secretary an application for financial support under this subsection, in accordance with the procedures established by the Secretary and published in the Federal Register under paragraph (2). In order to receive assistance under this section, an applicant shall provide adequate assurances that it will contribute 50 percent or more of the proposed Center’s capital and annual operating and maintenance costs for the first three years and an increasing share for each of the last three years. Each applicant shall also submit a proposal for the allocation of the legal rights associated with any invention which may result from the proposed Center’s activities.”
+2007—Subsec. (c)(3). Pub. L. 110–69, § 3003(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Any nonprofit institution, or group thereof, or consortia of nonprofit institutions, including entities existing on August 23, 1988, may submit to the Secretary an application for financial support under this subsection, in accordance with the procedures established by the Secretary and published in the Federal Register under paragraph (2). In order to receive assistance under this section, an applicant shall provide adequate assurances that it will contribute 50 percent or more of the proposed Center’s capital and annual operating and maintenance costs for the first three years and an increasing share for each of the last three years. Each applicant shall also submit a proposal for the allocation of the legal rights associated with any invention which may result from the proposed Center’s activities.”
 
-Subsec. (c)(5). Pub. L. 110–69, § 3003(b), inserted “A Center that has not received a positive evaluation by the evaluation panel shall be notified by the panel of the deficiencies in its performance and shall be placed on probation for one year, after which time the panel shall reevaluate the Center. If the Center has not addressed the deficiencies identified by the panel, or shown a significant improvement in its performance, the Director shall conduct a new competition to select an operator for the Center or may close the Center.” after “at declining levels.”
+Subsec. (c)(5). Pub. L. 110–69, § 3003(b), inserted “A Center that has not received a positive evaluation by the evaluation panel shall be notified by the panel of the deficiencies in its performance and shall be placed on probation for one year, after which time the panel shall reevaluate the Center. If the Center has not addressed the deficiencies identified by the panel, or shown a significant improvement in its performance, the Director shall conduct a new competition to select an operator for the Center or may close the Center.” after “at declining levels.”
 
-Subsec. (d). Pub. L. 110–69, § 3003(c), added subsec. (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: “In addition to such sums as may be authorized and appropriated to the Secretary and Director to operate the Centers program, the Secretary and Director also may accept funds from other Federal departments and agencies for the purpose of providing Federal funds to support Centers. Any Center which is supported with funds which originally came from other Federal departments and agencies shall be selected and operated according to the provisions of this section.”
+Subsec. (d). Pub. L. 110–69, § 3003(c), added subsec. (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: “In addition to such sums as may be authorized and appropriated to the Secretary and Director to operate the Centers program, the Secretary and Director also may accept funds from other Federal departments and agencies for the purpose of providing Federal funds to support Centers. Any Center which is supported with funds which originally came from other Federal departments and agencies shall be selected and operated according to the provisions of this section.”
 
-Subsec. (e). Pub. L. 110–69, § 3003(d), added subsec. (e).
+Subsec. (e). Pub. L. 110–69, § 3003(d), added subsec. (e).
 
-Subsec. (f). Pub. L. 110–69, § 3003(e), added subsec. (f).
+Subsec. (f). Pub. L. 110–69, § 3003(e), added subsec. (f).
 
-1998—Subsec. (c)(5). Pub. L. 105–309 substituted “. After the sixth year, a Center may receive additional financial support under this section if it has received a positive evaluation through an independent review, under procedures established by the Institute. Such an independent review shall be required at least every two years after the sixth year of operation. Funding received for a fiscal year under this section after the sixth year of operation shall not exceed one third of the capital and annual operating and maintenance costs of the Center under the program.” for “, which are designed to ensure that the Center no longer needs financial support from the Institute by the seventh year. In no event shall funding for a Center be provided by the Department of Commerce after the sixth year of the operation of a Center.”
+1998—Subsec. (c)(5). Pub. L. 105–309 substituted “. After the sixth year, a Center may receive additional financial support under this section if it has received a positive evaluation through an independent review, under procedures established by the Institute. Such an independent review shall be required at least every two years after the sixth year of operation. Funding received for a fiscal year under this section after the sixth year of operation shall not exceed one third of the capital and annual operating and maintenance costs of the Center under the program.” for “, which are designed to ensure that the Center no longer needs financial support from the Institute by the seventh year. In no event shall funding for a Center be provided by the Department of Commerce after the sixth year of the operation of a Center.”
 
-1992—Subsec. (c)(6). Pub. L. 102–245, § 105(e)(1), inserted before period at end “except for contracts for such specific technology extension or transfer services as may be specified by statute or by the Director”.
+1992—Subsec. (c)(6). Pub. L. 102–245, § 105(e)(1), inserted before period at end “except for contracts for such specific technology extension or transfer services as may be specified by statute or by the Director”.
 
-Subsec. (d). Pub. L. 102–245, § 105(e)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated for the purposes of carrying out this section, a combined total of not to exceed $40,000,000 for fiscal years 1989 and 1990. Such sums shall remain available until expended.”
+Subsec. (d). Pub. L. 102–245, § 105(e)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated for the purposes of carrying out this section, a combined total of not to exceed $40,000,000 for fiscal years 1989 and 1990. Such sums shall remain available until expended.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2879, which in part renamed the Manufacturing Extension Partnership Program authorized under this section as the Hollings Manufacturing Partnership Program and which named the centers established and receiving funding under former subsec. (a) of this section the Hollings Manufacturing Extension Centers, was repealed by Pub. L. 111–358, title IV, § 404(f)(2), Jan. 4, 2011, 124 Stat. 4002.
+Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2879, which in part renamed the Manufacturing Extension Partnership Program authorized under this section as the Hollings Manufacturing Partnership Program and which named the centers established and receiving funding under former subsec. (a) of this section the Hollings Manufacturing Extension Centers, was repealed by Pub. L. 111–358, title IV, § 404(f)(2), Jan. 4, 2011, 124 Stat. 4002.
 
 **Savings Provisions**
 
-Pub. L. 114–329, title V, § 501(f), Jan. 6, 2017, 130 Stat. 3033, provided that: “Notwithstanding the amendments made by subsections (a) [sic; subsec. (a) is set out as a Short Title of 2017 Amendment note under section 271 of this title] and (b) of this section [amending this section], the Secretary of Commerce may carry out section 25 of the National Institute of Standards and Technology Act (15 U.S.C. 278k) as that section was in effect on the day before the date of enactment of this Act [Jan. 6, 2017], with respect to existing grants, agreements, cooperative agreements, or contracts, and with respect to applications for such items that are received by the Secretary prior to the date of enactment of this Act.”
+Pub. L. 114–329, title V, § 501(f), Jan. 6, 2017, 130 Stat. 3033, provided that: “Notwithstanding the amendments made by subsections (a) [sic; subsec. (a) is set out as a Short Title of 2017 Amendment note under section 271 of this title] and (b) of this section [amending this section], the Secretary of Commerce may carry out section 25 of the National Institute of Standards and Technology Act (15 U.S.C. 278k) as that section was in effect on the day before the date of enactment of this Act [Jan. 6, 2017], with respect to existing grants, agreements, cooperative agreements, or contracts, and with respect to applications for such items that are received by the Secretary prior to the date of enactment of this Act.”
 
 **Resource Optimization**
 
-Pub. L. 117–167, div. B, title II, § 10251(b), Aug. 9, 2022, 136 Stat. 1498, provided that: “Of amounts authorized for the Hollings Manufacturing Extension Partnership program under section 25 of the National Institute of Standards and Technology Act (15 U.S.C. 278k), the Secretary [of Commerce] shall optimize funding across sections 25 and 25A of such Act [15 U.S.C. 278k, 278k–1], as well as the program established under section 25B of such Act [15 U.S.C. 278k–2] (as added by subsection (a)), to the extent practicable and subject to the availability of appropriations, in order to maximize Center (as such term is defined in such section 25) participation as well as competitiveness, productivity, and technological performance in United States manufacturing.”
+Pub. L. 117–167, div. B, title II, § 10251(b), Aug. 9, 2022, 136 Stat. 1498, provided that: “Of amounts authorized for the Hollings Manufacturing Extension Partnership program under section 25 of the National Institute of Standards and Technology Act (15 U.S.C. 278k), the Secretary [of Commerce] shall optimize funding across sections 25 and 25A of such Act [15 U.S.C. 278k, 278k–1], as well as the program established under section 25B of such Act [15 U.S.C. 278k–2] (as added by subsection (a)), to the extent practicable and subject to the availability of appropriations, in order to maximize Center (as such term is defined in such section 25) participation as well as competitiveness, productivity, and technological performance in United States manufacturing.”
 
 **Patent Rights**
 
-Pub. L. 114–329, title V, § 501(g), Jan. 6, 2017, 130 Stat. 3033, provided that: “The provisions of chapter 18 of title 35, United States Code, shall apply, to the extent not inconsistent with section 25 of the National Institute of Standards and Technology Act (15 U.S.C. 278k) and section 25 [sic] of that Act, to the promotion of technology from research by Centers under those sections, except for contracts for such specific technology extension or transfer services as may be specified by the Director of NIST [National Institute of Standards and Technology] or under other law.”
+Pub. L. 114–329, title V, § 501(g), Jan. 6, 2017, 130 Stat. 3033, provided that: “The provisions of chapter 18 of title 35, United States Code, shall apply, to the extent not inconsistent with section 25 of the National Institute of Standards and Technology Act (15 U.S.C. 278k) and section 25 [sic] of that Act, to the promotion of technology from research by Centers under those sections, except for contracts for such specific technology extension or transfer services as may be specified by the Director of NIST [National Institute of Standards and Technology] or under other law.”
 
 **Findings**
 
-Pub. L. 111–358, title VII, § 702, Jan. 4, 2011, 124 Stat. 4041, provided that:
+Pub. L. 111–358, title VII, § 702, Jan. 4, 2011, 124 Stat. 4041, provided that:
 
 > “Congress finds the following:
 
@@ -3001,19 +3001,19 @@ Pub. L. 107–77, title II, Nov. 28, 2001, 115 Stat. 774.
 
 **Additional Renewal of Federal Financial Assistance for Centers**
 
-Pub. L. 105–277, div. A, § 101(b) [title II], Oct. 21, 1998, 112 Stat. 2681–50, 2681–83, which provided that Federal financial assistance awarded by the Secretary of Commerce to a Regional Center for the Transfer of Manufacturing Technology could continue beyond six years and could be renewed for additional periods, not to exceed one year, at a rate not to exceed one-third of the Center’s total annual costs or the level of funding in the sixth year, whichever was less, subject before any such renewal to a positive evaluation of the Center and to a finding by the Secretary of Commerce that continuation of Federal funding to the Center was in the best interest of the Regional Centers for the Transfer of Manufacturing Technology Program, was from the Departments of Commerce Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriations Acts. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 105–277, div. A, § 101(b) [title II], Oct. 21, 1998, 112 Stat. 2681–50, 2681–83, which provided that Federal financial assistance awarded by the Secretary of Commerce to a Regional Center for the Transfer of Manufacturing Technology could continue beyond six years and could be renewed for additional periods, not to exceed one year, at a rate not to exceed one-third of the Center’s total annual costs or the level of funding in the sixth year, whichever was less, subject before any such renewal to a positive evaluation of the Center and to a finding by the Secretary of Commerce that continuation of Federal funding to the Center was in the best interest of the Regional Centers for the Transfer of Manufacturing Technology Program, was from the Departments of Commerce Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriations Acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 105–119, title II, Nov. 26, 1997, 111 Stat. 2476.
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II], Sept. 30, 1996, 110 Stat. 3009, 3009–36.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II], Sept. 30, 1996, 110 Stat. 3009, 3009–36.
 
 Pub. L. 103–317, title II, Aug. 26, 1994, 108 Stat. 1741.
 
 **Publication in Federal Register**
 
-Pub. L. 100–519, title I, § 102(d), Oct. 24, 1988, 102 Stat. 2590, provided that the requirement of former subsec. (c)(2) of this section was met by the publication made by the National Bureau of Standards on July 18, 1988, at 53 F.R. 27060.
+Pub. L. 100–519, title I, § 102(d), Oct. 24, 1988, 102 Stat. 2590, provided that the requirement of former subsec. (c)(2) of this section was met by the publication made by the National Bureau of Standards on July 18, 1988, at 53 F.R. 27060.
 
-## § 278k–1. Competitive awards program
+## § 278k–1. Competitive awards program
 
 **(a) Establishment**
 
@@ -3079,7 +3079,7 @@ The duration of an award under this section shall be for not more than 3 years.
 
 The terms used in this section have the meanings given the terms in section 278k of this title.
 
-(Mar. 3, 1901, ch. 872, § 25A, as added Pub. L. 114–329, title V, § 501(c), Jan. 6, 2017, 130 Stat. 3031; amended Pub. L. 117–167, div. B, title II, § 10252(c), Aug. 9, 2022, 136 Stat. 1499.)
+(Mar. 3, 1901, ch. 872, § 25A, as added Pub. L. 114–329, title V, § 501(c), Jan. 6, 2017, 130 Stat. 3031; amended Pub. L. 117–167, div. B, title II, § 10252(c), Aug. 9, 2022, 136 Stat. 1499.)
 
 **Editorial Notes**
 
@@ -3091,7 +3091,7 @@ Provisions similar to this section were contained in section 278k(f) of this tit
 
 2022—Subsec. (c)(2). Pub. L. 117–167 inserted “United States” before “manufacturers”.
 
-## § 278k–2. Expansion awards pilot program
+## § 278k–2. Expansion awards pilot program
 
 **(a) Definitions**
 
@@ -3199,9 +3199,9 @@ The Director shall ensure that the duration of an award under this section is al
 
 **(5)** a recommendation, supported by a clear explanation, as to whether the pilot program should be continued.
 
-(Mar. 3, 1901, ch. 872, § 25B, as added Pub. L. 117–167, div. B, title II, § 10251(a), Aug. 9, 2022, 136 Stat. 1496.)
+(Mar. 3, 1901, ch. 872, § 25B, as added Pub. L. 117–167, div. B, title II, § 10251(a), Aug. 9, 2022, 136 Stat. 1496.)
 
-## § 278l. Assistance to State technology programs
+## § 278l. Assistance to State technology programs
 
 **(a)** In addition to the Hollings Manufacturing Extension Partnership under section 278k of this title, the Secretary, through the Director and, if appropriate, through other officials, shall provide technical assistance to State technology programs throughout the United States, in order to help those programs help businesses, particularly small- and medium-sized businesses, to enhance their competitiveness through the application of science and technology.
 
@@ -3213,7 +3213,7 @@ The Director shall ensure that the duration of an award under this section is al
 
 **(3)** entering into cooperative agreements when authorized to do so under this chapter or any other Act.
 
-(Mar. 3, 1901, ch. 872, § 26, as added Pub. L. 100–418, title V, § 5121(a), Aug. 23, 1988, 102 Stat. 1435; amended Pub. L. 114–329, title V, § 501(e)(3), Jan. 6, 2017, 130 Stat. 3033.)
+(Mar. 3, 1901, ch. 872, § 26, as added Pub. L. 100–418, title V, § 5121(a), Aug. 23, 1988, 102 Stat. 1435; amended Pub. L. 114–329, title V, § 501(e)(3), Jan. 6, 2017, 130 Stat. 3033.)
 
 **Editorial Notes**
 
@@ -3225,7 +3225,7 @@ The Director shall ensure that the duration of an award under this section is al
 
 **Technology Extension Services**
 
-Pub. L. 100–418, title V, § 5121(b), (c), Aug. 23, 1988, 102 Stat. 1436, 1437, as amended by Pub. L. 102–245, title I, § 105(d), Feb. 14, 1992, 106 Stat. 12, provided that:
+Pub. L. 100–418, title V, § 5121(b), (c), Aug. 23, 1988, 102 Stat. 1436, 1437, as amended by Pub. L. 102–245, title I, § 105(d), Feb. 14, 1992, 106 Stat. 12, provided that:
 
 > **“(b) Technology Extension Services.—**
 
@@ -3273,23 +3273,23 @@ Pub. L. 100–418, title V, § 5121(b), (c), Aug. 23, 1988, 102 Stat. 1436, 14
 
 > **“(c) Federal Technology Transfer Act of 1986.—** Nothing in sections [sic] 25 or 26 of the Act of March 3, 1901 [15 U.S.C. 278k, 278*l*], or in subsection (b) of this section shall be construed as limiting the authorities contained in the Federal Technology Transfer Act of 1986 (Public Law 99–502) [see Short Title of 1986 Amendments note set out under section 3701 of this title].”
 
-## § 278m. Repealed. Pub. L. 110–69, title III, § 3013(d), Aug. 9, 2007, 121 Stat. 599
+## § 278m. Repealed. Pub. L. 110–69, title III, § 3013(d), Aug. 9, 2007, 121 Stat. 599
 
-Section, act Mar. 3, 1901, ch. 872, § 27, as added Pub. L. 100–418, title V, § 5121(d), Aug. 23, 1988, 102 Stat. 1437, related to the establishment of a program for the evaluation of non-energy inventions.
+Section, act Mar. 3, 1901, ch. 872, § 27, as added Pub. L. 100–418, title V, § 5121(d), Aug. 23, 1988, 102 Stat. 1437, related to the establishment of a program for the evaluation of non-energy inventions.
 
-## § 278n. Repealed. Pub. L. 114–329, title II, § 205(a)(1), Jan. 6, 2017, 130 Stat. 3000
+## § 278n. Repealed. Pub. L. 114–329, title II, § 205(a)(1), Jan. 6, 2017, 130 Stat. 3000
 
-Section, act Mar. 3, 1901, ch. 872, § 28, as added Pub. L. 110–69, title III, § 3012(b), Aug. 9, 2007, 121 Stat. 593; amended Pub. L. 113–188, title II, § 201(d), (e), Nov. 26, 2014, 128 Stat. 2018, related to the Technology Innovation Program.
+Section, act Mar. 3, 1901, ch. 872, § 28, as added Pub. L. 110–69, title III, § 3012(b), Aug. 9, 2007, 121 Stat. 593; amended Pub. L. 113–188, title II, § 201(d), (e), Nov. 26, 2014, 128 Stat. 2018, related to the Technology Innovation Program.
 
-A prior section 278n, act Mar. 3, 1901, ch. 872, § 28, as added Pub. L. 100–418, title V, § 5131(a), Aug. 23, 1988, 102 Stat. 1439; amended Pub. L. 102–245, title II, § 201(c), Feb. 14, 1992, 106 Stat. 16, related to the Advanced Technology Program, prior to repeal by Pub. L. 110–69, title III, § 3012(a), Aug. 9, 2007, 121 Stat. 593.
+A prior section 278n, act Mar. 3, 1901, ch. 872, § 28, as added Pub. L. 100–418, title V, § 5131(a), Aug. 23, 1988, 102 Stat. 1439; amended Pub. L. 102–245, title II, § 201(c), Feb. 14, 1992, 106 Stat. 16, related to the Advanced Technology Program, prior to repeal by Pub. L. 110–69, title III, § 3012(a), Aug. 9, 2007, 121 Stat. 593.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Technology Innovation Program**
 
-Pub. L. 111–240, title IV, § 4226(b), Sept. 27, 2010, 124 Stat. 2598, which allowed the Director of NIST to consider the potential for enhancing the competitiveness of small- and medium-sized U.S. businesses in the global marketplace when awarding grants, cooperative agreements, or contracts under this section, was repealed by Pub. L. 114–329, title II, § 205(a)(2)(A), Jan. 6, 2017, 130 Stat. 3000.
+Pub. L. 111–240, title IV, § 4226(b), Sept. 27, 2010, 124 Stat. 2598, which allowed the Director of NIST to consider the potential for enhancing the competitiveness of small- and medium-sized U.S. businesses in the global marketplace when awarding grants, cooperative agreements, or contracts under this section, was repealed by Pub. L. 114–329, title II, § 205(a)(2)(A), Jan. 6, 2017, 130 Stat. 3000.
 
-## § 278n–1. Emergency communication and tracking technologies research initiative
+## § 278n–1. Emergency communication and tracking technologies research initiative
 
 **(a) Establishment**
 
@@ -3307,7 +3307,7 @@ The Director shall establish a research initiative to support the development of
 
 Not later than 18 months after January 4, 2011, the Director shall submit to Congress and make publicly available a report describing the assessment performed under subsection (b)(1) and making recommendations about research priorities to address gaps in the measurement, technical standards, and conformity assessment needs identified by the assessment.
 
-(Pub. L. 111–358, title IV, § 405, Jan. 4, 2011, 124 Stat. 4003.)
+(Pub. L. 111–358, title IV, § 405, Jan. 4, 2011, 124 Stat. 4003.)
 
 **Editorial Notes**
 
@@ -3319,7 +3319,7 @@ Section was enacted as part of the America COMPETES Reauthorization Act of 2010,
 
 **Definitions**
 
-Pub. L. 111–358, title IV, § 409, Jan. 4, 2011, 124 Stat. 4004, provided that:
+Pub. L. 111–358, title IV, § 409, Jan. 4, 2011, 124 Stat. 4004, provided that:
 
 > “In this title [enacting this section and sections 273a and 278n–2 of this title, amending sections 274, 278g–1, 278g–2, 278g–2a, and 278k of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees, and repealing section 1533 of this title and provisions set out as a note under section 278k of this title]:
 
@@ -3329,7 +3329,7 @@ Pub. L. 111–358, title IV, § 409, Jan. 4, 2011, 124 Stat. 4004, provided th
 
 > **“(3) High performance green building.—** The term ‘high performance green building’ has the meaning given that term by section 401(13) of the Energy Independence and Security Act of 2009 [probably should be “2007”] (42 U.S.C. 17061(13)).”
 
-## § 278n–2. Green manufacturing and construction
+## § 278n–2. Green manufacturing and construction
 
 The Director shall carry out a green manufacturing and construction initiative—
 
@@ -3339,7 +3339,7 @@ The Director shall carry out a green manufacturing and construction initiative�
 
 **(3)** to move buildings toward becoming high performance green buildings, including improving energy performance, service life, and indoor air quality of new and retrofitted buildings through validated measurement data.
 
-(Pub. L. 111–358, title IV, § 408, Jan. 4, 2011, 124 Stat. 4004.)
+(Pub. L. 111–358, title IV, § 408, Jan. 4, 2011, 124 Stat. 4004.)
 
 **Editorial Notes**
 
@@ -3353,13 +3353,13 @@ Section was enacted as part of the America COMPETES Reauthorization Act of 2010,
 
 For definitions of “Director” and “high performance green building” as used in this section, see section 409 of Pub. L. 111–358, set out as a note under section 278n–1 of this title.
 
-## § 278o. User fees
+## § 278o. User fees
 
 The Institute shall not implement a policy of charging fees with respect to the use of Institute research facilities by research associates in the absence of express statutory authority to charge such fees.
 
-(Mar. 3, 1901, ch. 872, § 30, as added Pub. L. 100–418, title V, § 5161, Aug. 23, 1988, 102 Stat. 1450.)
+(Mar. 3, 1901, ch. 872, § 30, as added Pub. L. 100–418, title V, § 5161, Aug. 23, 1988, 102 Stat. 1450.)
 
-## § 278p. Notice to Congress
+## § 278p. Notice to Congress
 
 **(a) Notice of reprogramming**
 
@@ -3375,7 +3375,7 @@ The Secretary shall provide notice to the Committees on Science and Appropriatio
 
 For purposes of this subsection, the term “major reorganization” means any reorganization of the Institute that involves the reassignment of more than 25 percent of the employees of the Institute.
 
-(Mar. 3, 1901, ch. 872, § 31, as added Pub. L. 105–309, § 4(b), Oct. 30, 1998, 112 Stat. 2935.)
+(Mar. 3, 1901, ch. 872, § 31, as added Pub. L. 105–309, § 4(b), Oct. 30, 1998, 112 Stat. 2935.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3383,11 +3383,11 @@ For purposes of this subsection, the term “major reorganization” means any r
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-## § 278q. Appropriations; availability
+## § 278q. Appropriations; availability
 
 Appropriations to carry out the provisions of this chapter may remain available for obligation and expenditure for such period or periods as may be specified in the Acts making such appropriations.
 
-(Mar. 3, 1901, ch. 872, § 32, formerly § 18, as added Pub. L. 92–317, § 3(a), June 22, 1972, 86 Stat. 235; amended Pub. L. 95–322, § 2(b), July 21, 1978, 92 Stat. 395; Pub. L. 96–461, § 10, Oct. 15, 1980, 94 Stat. 2052; renumbered § 19, Pub. L. 99–574, § 6(a), Oct. 28, 1986, 100 Stat. 3237; renumbered § 20, Pub. L. 99–574, § 8(a), Oct. 28, 1986, 100 Stat. 3238; renumbered § 22, Pub. L. 100–235, § 3(2), Jan. 8, 1988, 101 Stat. 1724; renumbered § 32, Pub. L. 107–305, § 8(a)(1), Nov. 27, 2002, 116 Stat. 2375.)
+(Mar. 3, 1901, ch. 872, § 32, formerly § 18, as added Pub. L. 92–317, § 3(a), June 22, 1972, 86 Stat. 235; amended Pub. L. 95–322, § 2(b), July 21, 1978, 92 Stat. 395; Pub. L. 96–461, § 10, Oct. 15, 1980, 94 Stat. 2052; renumbered § 19, Pub. L. 99–574, § 6(a), Oct. 28, 1986, 100 Stat. 3237; renumbered § 20, Pub. L. 99–574, § 8(a), Oct. 28, 1986, 100 Stat. 3238; renumbered § 22, Pub. L. 100–235, § 3(2), Jan. 8, 1988, 101 Stat. 1724; renumbered § 32, Pub. L. 107–305, § 8(a)(1), Nov. 27, 2002, 116 Stat. 2375.)
 
 **Editorial Notes**
 
@@ -3403,7 +3403,7 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
 1978—Pub. L. 95–322 designated existing provisions as subsec. (a) and added subsec. (b).
 
-## § 278r. Collaborative manufacturing research pilot grants
+## § 278r. Collaborative manufacturing research pilot grants
 
 **(a) Authority**
 
@@ -3449,9 +3449,9 @@ In selecting applications under this section the Director shall ensure, to the e
 
 In carrying out this section, the Director shall run a single pilot competition to solicit and make awards. Each award shall be for a 3-year period.
 
-(Mar. 3, 1901, ch. 872, § 33, as added Pub. L. 110–69, title III, § 3007(2), Aug. 9, 2007, 121 Stat. 591.)
+(Mar. 3, 1901, ch. 872, § 33, as added Pub. L. 110–69, title III, § 3007(2), Aug. 9, 2007, 121 Stat. 591.)
 
-## § 278s. Manufacturing USA
+## § 278s. Manufacturing USA
 
 **(a) Definitions** In this section:
 
@@ -3597,9 +3597,9 @@ In carrying out a rigorous merit review under clause (i) for renewal of an award
 
 **(iv) Further failure to meet performance standards** If a Manufacturing USA institute fails to remedy a deficiency identified or to show significant improvement in performance during the 1-year period set forth under clause (iii)(II)—
 
-**(I)** the institute shall not be eligible for 1
+**(I)** the institute shall not be eligible for 1
 
-<sup>1</sup>  So in original. Probably should be followed by “a”.
+<sup>1</sup> So in original. Probably should be followed by “a”.
 
 renewed award under clause (i); and
 
@@ -3917,9 +3917,9 @@ For purposes of this subsection, a covered entity is any Federal department, Fed
 
 **(I)** at the Department of Agriculture relating to outreach to rural communities;
 
-**(J)** additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes; and 2
+**(J)** additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes; and 2
 
-<sup>2</sup>  So in original. Subpars. (J) and (K) are identical and the words “additional programs” do not follow from introductory provisions.
+<sup>2</sup> So in original. Subpars. (J) and (K) are identical and the words “additional programs” do not follow from introductory provisions.
 
 **(K)** additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes.<sup>2</sup>
 
@@ -3931,7 +3931,7 @@ Chapter 18 of title 35 shall apply to any funding agreement (as defined in secti
 
 Any reference in law, regulation, map, document, paper, or other record of the United States to the “Network for Manufacturing Innovation Program”, the “Network for Manufacturing Innovation”, “National Office of the Network for Manufacturing Innovation Program”, or a “center for manufacturing innovation” shall be considered to be a reference to the Manufacturing USA Program, the Manufacturing USA Network, the National Office of the Manufacturing USA Network, or a Manufacturing USA institute, respectively.
 
-(Mar. 3, 1901, ch. 872, § 34, as added Pub. L. 113–235, div. B, title VII, § 703(2), Dec. 16, 2014, 128 Stat. 2221; amended Pub. L. 116–92, div. A, title XVII, § 1741(a), Dec. 20, 2019, 133 Stat. 1826; Pub. L. 117–167, div. B, title II, §§ 10261, 10263(b)–(d), Aug. 9, 2022, 136 Stat. 1503, 1505, 1506; Pub. L. 117–263, div. E, title LIX, § 5911, Dec. 23, 2022, 136 Stat. 3442; Pub. L. 119–60, div. H, title LXXXVIII, § 8802, Dec. 18, 2025, 139 Stat. 1971.)
+(Mar. 3, 1901, ch. 872, § 34, as added Pub. L. 113–235, div. B, title VII, § 703(2), Dec. 16, 2014, 128 Stat. 2221; amended Pub. L. 116–92, div. A, title XVII, § 1741(a), Dec. 20, 2019, 133 Stat. 1826; Pub. L. 117–167, div. B, title II, §§ 10261, 10263(b)–(d), Aug. 9, 2022, 136 Stat. 1503, 1505, 1506; Pub. L. 117–263, div. E, title LIX, § 5911, Dec. 23, 2022, 136 Stat. 3442; Pub. L. 119–60, div. H, title LXXXVIII, § 8802, Dec. 18, 2025, 139 Stat. 1971.)
 
 **Editorial Notes**
 
@@ -3941,25 +3941,25 @@ A prior section 34 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
 **Amendments**
 
-2025—Subsec. (i)(2)(C). Pub. L. 119–60, § 8802(a)(1), struck out “and update not less frequently than once every 3 years thereafter,” after “December 16, 2015,”.
+2025—Subsec. (i)(2)(C). Pub. L. 119–60, § 8802(a)(1), struck out “and update not less frequently than once every 3 years thereafter,” after “December 16, 2015,”.
 
-Subsec. (i)(2)(D) to (N). Pub. L. 119–60, § 8802(a)(2), (3), added subpar. (D) and redesignated former subpars. (D) to (M) as (E) to (N), respectively.
+Subsec. (i)(2)(D) to (N). Pub. L. 119–60, § 8802(a)(2), (3), added subpar. (D) and redesignated former subpars. (D) to (M) as (E) to (N), respectively.
 
-Subsec. (i)(3). Pub. L. 119–60, § 8802(b)(1), substituted “developing the strategic plan under subparagraph (C) of paragraph (2) and updating such plan under subparagraph (D) of such paragraph” for “developing and updating the strategic plan under paragraph (2)(C)”.
+Subsec. (i)(3). Pub. L. 119–60, § 8802(b)(1), substituted “developing the strategic plan under subparagraph (C) of paragraph (2) and updating such plan under subparagraph (D) of such paragraph” for “developing and updating the strategic plan under paragraph (2)(C)”.
 
-Subsec. (i)(4). Pub. L. 119–60, § 8802(b)(2), inserted at end “Upon completion of each update required under paragraph (2)(D), the Secretary shall transmit such strategic plan to such committees.”
+Subsec. (i)(4). Pub. L. 119–60, § 8802(b)(2), inserted at end “Upon completion of each update required under paragraph (2)(D), the Secretary shall transmit such strategic plan to such committees.”
 
-2022—Subsec. (e)(8). Pub. L. 117–167, § 10261, added par. (8).
+2022—Subsec. (e)(8). Pub. L. 117–167, § 10261, added par. (8).
 
-Subsecs. (f) to (h). Pub. L. 117–263, § 5911, added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
+Subsecs. (f) to (h). Pub. L. 117–263, § 5911, added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
 
-Subsec. (h)(2)(C). Pub. L. 117–167, § 10263(c), inserted “, including a strategy for retaining domestic public benefits from Manufacturing USA institutes once Federal funding has been discontinued” after “Program”.
+Subsec. (h)(2)(C). Pub. L. 117–167, § 10263(c), inserted “, including a strategy for retaining domestic public benefits from Manufacturing USA institutes once Federal funding has been discontinued” after “Program”.
 
-Subsec. (h)(2)(J). Pub. L. 117–167, § 10263(d), inserted “, including the development of industry credentials” after “activities”.
+Subsec. (h)(2)(J). Pub. L. 117–167, § 10263(d), inserted “, including the development of industry credentials” after “activities”.
 
-Subsec. (h)(7). Pub. L. 117–167, § 10263(b), added par. (7).
+Subsec. (h)(7). Pub. L. 117–167, § 10263(b), added par. (7).
 
-Subsecs. (i) to (m). Pub. L. 117–263, § 5911(1), redesignated subsecs. (h) to (*l*) as (i) to (m), respectively.
+Subsecs. (i) to (m). Pub. L. 117–263, § 5911(1), redesignated subsecs. (h) to (*l*) as (i) to (m), respectively.
 
 2019—Pub. L. 116–92 amended section generally. Prior to amendment, section related to Network for Manufacturing Innovation.
 
@@ -3967,15 +3967,15 @@ Subsecs. (i) to (m). Pub. L. 117–263, § 5911(1), redesignated subsecs. (h) 
 
 **Coordination With Hollings Manufacturing Extension Partnership Centers**
 
-Pub. L. 116–283, div. H, title XCIV, § 9415, Jan. 1, 2021, 134 Stat. 4822, provided that: “Notwithstanding section 34(d)(2)(A)(iv) of the National Institute for [of] Standards and Technology Act (15 U.S.C. 278s(d)(2)(A)(iv)), each Manufacturing USA Institute (established under subsection (d) of such section) shall, as appropriate, contract with a Hollings Manufacturing Extension Partnership Center (established under section 25 of such Act [15 U.S.C. 278k]) in each State in which such Institute provides services, either directly or through another such Center, to provide defense industrial base-related outreach, technical assistance, workforce development, and technology transfer assistance to small and medium-sized manufacturers. No Center shall charge in excess of its standard rate for such services. Funds received by a Center through such a contract shall not constitute financial assistance under section 25(e) of such Act.”
+Pub. L. 116–283, div. H, title XCIV, § 9415, Jan. 1, 2021, 134 Stat. 4822, provided that: “Notwithstanding section 34(d)(2)(A)(iv) of the National Institute for [of] Standards and Technology Act (15 U.S.C. 278s(d)(2)(A)(iv)), each Manufacturing USA Institute (established under subsection (d) of such section) shall, as appropriate, contract with a Hollings Manufacturing Extension Partnership Center (established under section 25 of such Act [15 U.S.C. 278k]) in each State in which such Institute provides services, either directly or through another such Center, to provide defense industrial base-related outreach, technical assistance, workforce development, and technology transfer assistance to small and medium-sized manufacturers. No Center shall charge in excess of its standard rate for such services. Funds received by a Center through such a contract shall not constitute financial assistance under section 25(e) of such Act.”
 
 **Expansion of Manufacturing USA Network**
 
-Pub. L. 116–92, div. A, title XVII, § 1741(b), Dec. 20, 2019, 133 Stat. 1837, provided that: “Subject to the availability of appropriations, the Secretary of Commerce shall take such actions as may be necessary to increase the number of Manufacturing USA institutes that participate in the Manufacturing USA Network.”
+Pub. L. 116–92, div. A, title XVII, § 1741(b), Dec. 20, 2019, 133 Stat. 1837, provided that: “Subject to the availability of appropriations, the Secretary of Commerce shall take such actions as may be necessary to increase the number of Manufacturing USA institutes that participate in the Manufacturing USA Network.”
 
 **Findings**
 
-Pub. L. 113–235, div. B, title VII, § 702, Dec. 16, 2014, 128 Stat. 2220, provided that:
+Pub. L. 113–235, div. B, title VII, § 702, Dec. 16, 2014, 128 Stat. 2220, provided that:
 
 > “Congress finds the following:
 
@@ -3991,7 +3991,7 @@ Pub. L. 113–235, div. B, title VII, § 702, Dec. 16, 2014, 128 Stat. 2220, p
 
 > **“(6)** Manufacturers in the United States perform two-thirds of all private-sector research and development in the United States, driving more innovation than any other sector.”
 
-## § 278t. Advanced communications research activities
+## § 278t. Advanced communications research activities
 
 **(a) Advanced communications research**
 
@@ -4053,9 +4053,9 @@ The Director, in coordination with the Administrator of the National Telecommuni
 
 **(F)** other activities as determined necessary by the Director.
 
-(Mar. 3, 1901, ch. 872, § 35, as added Pub. L. 117–167, div. B, title II, § 10230(2), Aug. 9, 2022, 136 Stat. 1482.)
+(Mar. 3, 1901, ch. 872, § 35, as added Pub. L. 117–167, div. B, title II, § 10230(2), Aug. 9, 2022, 136 Stat. 1482.)
 
-## § 278u. Xylazine detection and analysis
+## § 278u. Xylazine detection and analysis
 
 **(a) Definitions** In this section:
 
@@ -4117,7 +4117,7 @@ The term “xylazine” means the nonopioid tranquilizer methyl benzene compound
 
 **(I)** institutions of higher education,1
 
-<sup>1</sup>  So in original. The comma probably should be a semicolon.
+<sup>1</sup> So in original. The comma probably should be a semicolon.
 
 and
 
@@ -4135,7 +4135,7 @@ In carrying out activities under this section, the Director shall ensure proper 
 
 Not later than 1 year after December 19, 2023, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the implementation of this section. Such report may include recommendations for legislative action to improve the ability of the Director to carry out this section.
 
-(Pub. L. 118–23, § 2, Dec. 19, 2023, 137 Stat. 125.)
+(Pub. L. 118–23, § 2, Dec. 19, 2023, 137 Stat. 125.)
 
 **Editorial Notes**
 
@@ -4143,11 +4143,11 @@ Not later than 1 year after December 19, 2023, the Director shall submit to the 
 
 Section was enacted as part of the Testing, Rapid Analysis, and Narcotic Quality Research Act of 2023, also known as the TRANQ Research Act of 2023, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
 
-## § 279. Absence of Director
+## § 279. Absence of Director
 
 In the case of the absence of the Director of the National Institute of Standards and Technology the Secretary of Commerce may designate some officer of said Institute to perform the duties of the director during his absence.
 
-(Mar. 4, 1911, ch. 237, § 1, 36 Stat. 1231; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433.)
+(Mar. 4, 1911, ch. 237, § 1, 36 Stat. 1231; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -4165,23 +4165,23 @@ Section was not enacted as part of the National Institute of Standards and Techn
 
 Act Mar. 4, 1913, substituted “Secretary of Commerce” for “Secretary of Commerce and Labor”.
 
-## §§ 280, 281. Repealed. Pub. L. 100–418, title V, § 5113, Aug. 23, 1988, 102 Stat. 1432
+## §§ 280, 281. Repealed. Pub. L. 100–418, title V, § 5113, Aug. 23, 1988, 102 Stat. 1432
 
-Section 280, acts July 16, 1914, ch. 141, § 1, 38 Stat. 502; 1978 Reorg. Plan No. 2, § 102, 43 F.R. 36037, 92 Stat. 3783, related to promotion of apprentices in National Bureau of Standards.
+Section 280, acts July 16, 1914, ch. 141, § 1, 38 Stat. 502; 1978 Reorg. Plan No. 2, § 102, 43 F.R. 36037, 92 Stat. 3783, related to promotion of apprentices in National Bureau of Standards.
 
-Section 281, acts Mar. 4, 1913, ch. 150, § 1, 37 Stat. 945; 1967 Reorg. Plan No. 3, § 401, eff. Aug. 11, 1967, 32 F.R. 11669, 81 Stat. 948; Dec. 24, 1973, Pub. L. 93–198, title IV, § 421, title VII, § 711, 87 Stat. 789, 818, related to testing of building and other structural materials for District of Columbia.
+Section 281, acts Mar. 4, 1913, ch. 150, § 1, 37 Stat. 945; 1967 Reorg. Plan No. 3, § 401, eff. Aug. 11, 1967, 32 F.R. 11669, 81 Stat. 948; Dec. 24, 1973, Pub. L. 93–198, title IV, § 421, title VII, § 711, 87 Stat. 789, 818, related to testing of building and other structural materials for District of Columbia.
 
-## § 281a. Structural failures
+## § 281a. Structural failures
 
 The National Institute of Standards and Technology, on its own initiative but only after consultation with local authorities, may initiate and conduct investigations to determine the causes of structural failures in structures which are used or occupied by the general public. No part of any report resulting from such investigation, or from an investigation under the National Construction Safety Team Act [15 U.S.C. 7301 et seq.], shall be admitted as evidence or used in any suit or action for damages arising out of any matter mentioned in such report.
 
-(Pub. L. 99–73, § 7, July 29, 1985, 99 Stat. 173; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 107–231, § 13, Oct. 1, 2002, 116 Stat. 1476.)
+(Pub. L. 99–73, § 7, July 29, 1985, 99 Stat. 173; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 107–231, § 13, Oct. 1, 2002, 116 Stat. 1476.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Construction Safety Team Act, referred to in text, is Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, which is classified generally to chapter 99 [§ 7301 et seq.] of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7301 of this title and Tables.
+The National Construction Safety Team Act, referred to in text, is Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, which is classified generally to chapter 99 [§ 7301 et seq.] of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7301 of this title and Tables.
 
 **Codification**
 
@@ -4189,19 +4189,19 @@ Section was not enacted as part of the National Institute of Standards and Techn
 
 **Amendments**
 
-2002—Pub. L. 107–231 inserted “, or from an investigation under the National Construction Safety Team Act,” after “from such investigation”.
+2002—Pub. L. 107–231 inserted “, or from an investigation under the National Construction Safety Team Act,” after “from such investigation”.
 
 1988—Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-## § 282. Repealed. Pub. L. 100–418, title V, § 5113, Aug. 23, 1988, 102 Stat. 1432
+## § 282. Repealed. Pub. L. 100–418, title V, § 5113, Aug. 23, 1988, 102 Stat. 1432
 
-Section, act May 14, 1930, ch. 275, § 1, 46 Stat. 327, related to establishment and purpose of a national hydraulic laboratory and studies of Federal and State projects related thereto.
+Section, act May 14, 1930, ch. 275, § 1, 46 Stat. 327, related to establishment and purpose of a national hydraulic laboratory and studies of Federal and State projects related thereto.
 
-## § 282a. Assessment of emerging technologies requiring research in metrology
+## § 282a. Assessment of emerging technologies requiring research in metrology
 
 The Board of Assessment of the National Institute of Standards and Technology shall include, as part of its annual review, an assessment of emerging technologies which are expected to require research in metrology to keep the Institute abreast of its mission, including process and quality control, engineering databases, advanced materials, electronics and fiber optics, bioprocess engineering, and advanced computing concepts. Such review shall include estimates of the cost of the required effort, required staffing levels, appropriate interaction with industry, including technology transfer, and the period over which the research will be required.
 
-(Pub. L. 100–418, title V, § 5163(a), Aug. 23, 1988, 102 Stat. 1450.)
+(Pub. L. 100–418, title V, § 5163(a), Aug. 23, 1988, 102 Stat. 1450.)
 
 **Editorial Notes**
 
@@ -4213,22 +4213,22 @@ Section was not enacted as part of the National Institute of Standards and Techn
 
 **Prior Provisions**
 
-A prior section 282a, Pub. L. 99–574, § 7, Oct. 28, 1986, 100 Stat. 3237, consisted of provisions substantially identical to this section.
+A prior section 282a, Pub. L. 99–574, § 7, Oct. 28, 1986, 100 Stat. 3237, consisted of provisions substantially identical to this section.
 
-## § 283. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 655, 656
+## § 283. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 655, 656
 
-Section, acts July 20, 1949, ch. 354, title III, § 301, 63 Stat. 468; Sept. 6, 1950, ch. 896, ch. III, title III, § 301, 64 Stat. 628, related to appointment of personnel observing radio propagation phenomena in Arctic Region.
+Section, acts July 20, 1949, ch. 354, title III, § 301, 63 Stat. 468; Sept. 6, 1950, ch. 896, ch. III, title III, § 301, 64 Stat. 628, related to appointment of personnel observing radio propagation phenomena in Arctic Region.
 
-## § 284. Omitted
+## § 284. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, acts Oct. 22, 1951, ch. 533, title III, § 301, 65 Stat. 593; Sept. 6, 1950, ch. 896, ch. III, title III, § 301, 64 Stat. 628; July 20, 1949, ch. 354, title III, § 301, 63 Stat. 468, which related to transfer of materials, etc., to Bureau of ionosphere observation by Departments of the Army, Navy, and Air Force, was from the Department of Commerce Appropriation Act, 1952, and has not been repeated in subsequent appropriation acts.
+Section, acts Oct. 22, 1951, ch. 533, title III, § 301, 65 Stat. 593; Sept. 6, 1950, ch. 896, ch. III, title III, § 301, 64 Stat. 628; July 20, 1949, ch. 354, title III, § 301, 63 Stat. 468, which related to transfer of materials, etc., to Bureau of ionosphere observation by Departments of the Army, Navy, and Air Force, was from the Department of Commerce Appropriation Act, 1952, and has not been repeated in subsequent appropriation acts.
 
-## §§ 285, 286. Repealed. Pub. L. 85–890, § 3, Sept. 2, 1958, 72 Stat. 1712
+## §§ 285, 286. Repealed. Pub. L. 85–890, § 3, Sept. 2, 1958, 72 Stat. 1712
 
-Section 285, act July 21, 1950, ch. 485, § 1, 64 Stat. 370, related to functions and activities of National Bureau of Standards for which funds should be available. See section 278e of this title.
+Section 285, act July 21, 1950, ch. 485, § 1, 64 Stat. 370, related to functions and activities of National Bureau of Standards for which funds should be available. See section 278e of this title.
 
-Section 286, act July 21, 1950, ch. 485, § 2, 64 Stat. 371, related to construction and improvement of buildings and facilities. See section 278d of this title.
+Section 286, act July 21, 1950, ch. 485, § 2, 64 Stat. 371, related to construction and improvement of buildings and facilities. See section 278d of this title.

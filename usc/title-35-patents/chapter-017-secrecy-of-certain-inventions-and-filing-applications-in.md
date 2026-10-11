@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2002—Pub. L. 107–273, div. C, title III, § 13206(a)(10), Nov. 2, 2002, 116 Stat. 1904, substituted “to” for “of” in item 183.
+2002—Pub. L. 107–273, div. C, title III, § 13206(a)(10), Nov. 2, 2002, 116 Stat. 1904, substituted “to” for “of” in item 183.
 
-## § 181. Secrecy of certain inventions and withholding of patent
+## § 181. Secrecy of certain inventions and withholding of patent
 
 Whenever publication or disclosure by the publication of an application or by the grant of a patent on an invention in which the Government has a property interest might, in the opinion of the head of the interested Government agency, be detrimental to the national security, the Commissioner of Patents upon being so notified shall order that the invention be kept secret and shall withhold the publication of the application or the grant of a patent therefor under the conditions set forth hereinafter.
 
@@ -31,11 +31,11 @@ Each individual to whom the application is disclosed shall sign a dated acknowle
 
 An invention shall not be ordered kept secret and the publication of the application or the grant of a patent withheld for a period of more than one year. The Commissioner of Patents shall renew the order at the end thereof, or at the end of any renewal period, for additional periods of one year upon notification by the head of the department or the chief officer of the agency who caused the order to be issued that an affirmative determination has been made that the national interest continues so to require. An order in effect, or issued, during a time when the United States is at war, shall remain in effect for the duration of hostilities and one year following cessation of hostilities. An order in effect, or issued, during a national emergency declared by the President shall remain in effect for the duration of the national emergency and six months thereafter. The Commissioner of Patents may rescind any order upon notification by the heads of the departments and the chief officers of the agencies who caused the order to be issued that the publication or disclosure of the invention is no longer deemed detrimental to the national security.
 
-(July 19, 1952, ch. 950, 66 Stat. 805; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4507(7), 4732(a)(10)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 805; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4507(7), 4732(a)(10)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, 1501A–582.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 151 (Feb. 1, 1952, ch. 4, § 1, 66 Stat. 3, 4).
+Based on Title 35, U.S.C., 1946 ed., § 151 (Feb. 1, 1952, ch. 4, § 1, 66 Stat. 3, 4).
 
 Language is changed.
 
@@ -43,23 +43,23 @@ Language is changed.
 
 **Amendments**
 
-1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(B)], substituted “Commissioner of Patents” for “Commissioner” wherever appearing.
+1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(B)], substituted “Commissioner of Patents” for “Commissioner” wherever appearing.
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(7)(A)], in first par., inserted “by the publication of an application or” after “disclosure” and “the publication of the application or” after “withhold”.
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(7)(A)], in first par., inserted “by the publication of an application or” after “disclosure” and “the publication of the application or” after “withhold”.
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(7)(B)], inserted “by the publication of an application or” after “disclosure of an invention” in second par.
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(7)(B)], inserted “by the publication of an application or” after “disclosure of an invention” in second par.
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(7)(C)], in third par., inserted “by the publication of the application or” after “disclosure of the invention” and “the publication of the application or” after “withhold”.
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(7)(C)], in third par., inserted “by the publication of the application or” after “disclosure of the invention” and “the publication of the application or” after “withhold”.
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(7)(D)], inserted “the publication of an application or” after “kept secret and” in first sentence of fourth par.
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(7)(D)], inserted “the publication of an application or” after “kept secret and” in first sentence of fourth par.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1999 Amendment**
 
-Amendment by section 1000(a)(9) [title IV, § 4507(7)] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
+Amendment by section 1000(a)(9) [title IV, § 4507(7)] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
-Amendment by section 1000(a)(9) [title IV, § 4732(a)(10)(B)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by section 1000(a)(9) [title IV, § 4732(a)(10)(B)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Transfer of Functions**
 
@@ -69,17 +69,17 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 **Defense Agencies**
 
-Department of Homeland Security designated as a defense agency of United States for purposes of this chapter by Executive Order No. 13286, § 85, Feb. 28, 2003, 68 F.R. 10632.
+Department of Homeland Security designated as a defense agency of United States for purposes of this chapter by Executive Order No. 13286, § 85, Feb. 28, 2003, 68 F.R. 10632.
 
-## § 182. Abandonment of invention for unauthorized disclosure
+## § 182. Abandonment of invention for unauthorized disclosure
 
 The invention disclosed in an application for patent subject to an order made pursuant to section 181 may be held abandoned upon its being established by the Commissioner of Patents that in violation of said order the invention has been published or disclosed or that an application for a patent therefor has been filed in a foreign country by the inventor, his successors, assigns, or legal representatives, or anyone in privity with him or them, without the consent of the Commissioner of Patents. The abandonment shall be held to have occurred as of the time of violation. The consent of the Commissioner of Patents shall not be given without the concurrence of the heads of the departments and the chief officers of the agencies who caused the order to be issued. A holding of abandonment shall constitute forfeiture by the applicant, his successors, assigns, or legal representatives, or anyone in privity with him or them, of all claims against the United States based upon such invention.
 
-(July 19, 1952, ch. 950, 66 Stat. 806; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
+(July 19, 1952, ch. 950, 66 Stat. 806; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 152 (Feb. 1, 1952, ch. 4, § 2, 66 Stat. 4).
+Based on Title 35, U.S.C., 1946 ed., § 152 (Feb. 1, 1952, ch. 4, § 2, 66 Stat. 4).
 
 Language is changed.
 
@@ -99,17 +99,17 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
-## § 183. Right to compensation
+## § 183. Right to compensation
 
 An applicant, his successors, assigns, or legal representatives, whose patent is withheld as herein provided, shall have the right, beginning at the date the applicant is notified that, except for such order, his application is otherwise in condition for allowance, or February 1, 1952, whichever is later, and ending six years after a patent is issued thereon, to apply to the head of any department or agency who caused the order to be issued for compensation for the damage caused by the order of secrecy and/or for the use of the invention by the Government, resulting from his disclosure. The right to compensation for use shall begin on the date of the first use of the invention by the Government. The head of the department or agency is authorized, upon the presentation of a claim, to enter into an agreement with the applicant, his successors, assigns, or legal representatives, in full settlement for the damage and/or use. This settlement agreement shall be conclusive for all purposes notwithstanding any other provision of law to the contrary. If full settlement of the claim cannot be effected, the head of the department or agency may award and pay to such applicant, his successors, assigns, or legal representatives, a sum not exceeding 75 per centum of the sum which the head of the department or agency considers just compensation for the damage and/or use. A claimant may bring suit against the United States in the United States Court of Federal Claims or in the District Court of the United States for the district in which such claimant is a resident for an amount which when added to the award shall constitute just compensation for the damage and/or use of the invention by the Government. The owner of any patent issued upon an application that was subject to a secrecy order issued pursuant to section 181, who did not apply for compensation as above provided, shall have the right, after the date of issuance of such patent, to bring suit in the United States Court of Federal Claims for just compensation for the damage caused by reason of the order of secrecy and/or use by the Government of the invention resulting from his disclosure. The right to compensation for use shall begin on the date of the first use of the invention by the Government. In a suit under the provisions of this section the United States may avail itself of all defenses it may plead in an action under section 1498 of title 28. This section shall not confer a right of action on anyone or his successors, assigns, or legal representatives who, while in the full-time employment or service of the United States, discovered, invented, or developed the invention on which the claim is based.
 
-(July 19, 1952, ch. 950, 66 Stat. 806; Pub. L. 97–164, title I, § 160(a)(12), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
+(July 19, 1952, ch. 950, 66 Stat. 806; Pub. L. 97–164, title I, § 160(a)(12), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 153 (Feb. 1, 1952, ch. 4, § 3, 66 Stat. 4, 5).
+Based on Title 35, U.S.C., 1946 ed., § 153 (Feb. 1, 1952, ch. 4, § 3, 66 Stat. 4, 5).
 
 Language is changed.
 
@@ -137,7 +137,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
-## § 184. Filing of application in foreign country
+## § 184. Filing of application in foreign country
 
 **(a) Filing in Foreign Country.—** Except when authorized by a license obtained from the Commissioner of Patents a person shall not file or cause or authorize to be filed in any foreign country prior to six months after filing in the United States an application for patent or for the registration of a utility model, industrial design, or model in respect of an invention made in this country. A license shall not be granted with respect to an invention subject to an order issued by the Commissioner of Patents pursuant to section 181 without the concurrence of the head of the departments and the chief officers of the agencies who caused the order to be issued. The license may be granted retroactively where an application has been filed abroad through error and the application does not disclose an invention within the scope of section 181.
 
@@ -145,11 +145,11 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **(c) Subsequent Modifications, Amendments, and Supplements.—** The scope of a license shall permit subsequent modifications, amendments, and supplements containing additional subject matter if the application upon which the request for the license is based is not, or was not, required to be made available for inspection under section 181 and if such modifications, amendments, and supplements do not change the general nature of the invention in a manner which would require such application to be made available for inspection under such section 181. In any case in which a license is not, or was not, required in order to file an application in any foreign country, such subsequent modifications, amendments, and supplements may be made, without a license, to the application filed in the foreign country if the United States application was not required to be made available for inspection under section 181 and if such modifications, amendments, and supplements do not, or did not, change the general nature of the invention in a manner which would require the United States application to have been made available for inspection under such section 181.
 
-(July 19, 1952, ch. 950, 66 Stat. 807; Pub. L. 100–418, title IX, § 9101(b)(1), Aug. 23, 1988, 102 Stat. 1567; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 112–29, § 20(b), (j), Sept. 16, 2011, 125 Stat. 333, 335.)
+(July 19, 1952, ch. 950, 66 Stat. 807; Pub. L. 100–418, title IX, § 9101(b)(1), Aug. 23, 1988, 102 Stat. 1567; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 112–29, § 20(b), (j), Sept. 16, 2011, 125 Stat. 333, 335.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 154 (Feb. 1, 1952, ch. 4, § 4, 66 Stat. 5).
+Based on Title 35, U.S.C., 1946 ed., § 154 (Feb. 1, 1952, ch. 4, § 4, 66 Stat. 5).
 
 Language is changed.
 
@@ -161,9 +161,9 @@ Language is changed.
 
 1999—Pub. L. 106–113 substituted “Commissioner of Patents” for “Commissioner” two places in first par.
 
-1988—Pub. L. 100–418, § 9101(b)(1)(A), substituted “filed abroad through error and without deceptive intent” for “inadvertently filed abroad” in first par.
+1988—Pub. L. 100–418, § 9101(b)(1)(A), substituted “filed abroad through error and without deceptive intent” for “inadvertently filed abroad” in first par.
 
-Pub. L. 100–418, § 9101(b)(1)(B), added third par. relating to scope of a license.
+Pub. L. 100–418, § 9101(b)(1)(B), added third par. relating to scope of a license.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -173,11 +173,11 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–418, title IX, § 9101(d), Aug. 23, 1988, 102 Stat. 1568, provided that:
+Pub. L. 100–418, title IX, § 9101(d), Aug. 23, 1988, 102 Stat. 1568, provided that:
 
 > **“(1)** Subject to paragraphs (2), (3), and (4) of this subsection, the amendments made by this section [amending sections 184 to 186 of this title] shall apply to all United States patents granted before, on, or after the date of enactment of this section [Aug. 23, 1988], to all applications for United States patents pending on or filed after such date of enactment, and to all licenses under section 184 granted before, on, or after the date of enactment of this section.
 
@@ -195,17 +195,17 @@ Pub. L. 100–418, title IX, § 9101(d), Aug. 23, 1988, 102 Stat. 1568, provid
 
 **Promulgation of Regulations**
 
-Pub. L. 100–418, title IX, § 9101(c), Aug. 23, 1988, 102 Stat. 1568, directed Commissioner of Patents and Trademarks to prescribe such regulations as necessary to implement the amendments made by section 9101 (amending sections 184 to 186 of this title).
+Pub. L. 100–418, title IX, § 9101(c), Aug. 23, 1988, 102 Stat. 1568, directed Commissioner of Patents and Trademarks to prescribe such regulations as necessary to implement the amendments made by section 9101 (amending sections 184 to 186 of this title).
 
-## § 185. Patent barred for filing without license
+## § 185. Patent barred for filing without license
 
 Notwithstanding any other provisions of law any person, and his successors, assigns, or legal representatives, shall not receive a United States patent for an invention if that person, or his successors, assigns, or legal representatives shall, without procuring the license prescribed in section 184, have made, or consented to or assisted another’s making, application in a foreign country for a patent or for the registration of a utility model, industrial design, or model in respect of the invention. A United States patent issued to such person, his successors, assigns, or legal representatives shall be invalid, unless the failure to procure such license was through error, and the patent does not disclose subject matter within the scope of section 181.
 
-(July 19, 1952, ch. 950, 66 Stat. 807; Pub. L. 100–418, title IX, § 9101(b)(2), Aug. 23, 1988, 102 Stat. 1568; Pub. L. 107–273, div. C, title III, § 13206(a)(11), Nov. 2, 2002, 116 Stat. 1904; Pub. L. 112–29, § 20(c), (j), Sept. 16, 2011, 125 Stat. 333, 335.)
+(July 19, 1952, ch. 950, 66 Stat. 807; Pub. L. 100–418, title IX, § 9101(b)(2), Aug. 23, 1988, 102 Stat. 1568; Pub. L. 107–273, div. C, title III, § 13206(a)(11), Nov. 2, 2002, 116 Stat. 1904; Pub. L. 112–29, § 20(c), (j), Sept. 16, 2011, 125 Stat. 333, 335.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 155 (Feb. 1, 1952, ch. 4, § 5, 66 Stat. 5).
+Based on Title 35, U.S.C., 1946 ed., § 155 (Feb. 1, 1952, ch. 4, § 5, 66 Stat. 5).
 
 Language is changed.
 
@@ -217,7 +217,7 @@ Language is changed.
 
 2002—Pub. L. 107–273 struck out second period at end.
 
-1988—Pub. L. 100–418 inserted before period at end “, unless the failure to procure such license was through error and without deceptive intent, and the patent does not disclose subject matter within the scope of section 181 of this title.”
+1988—Pub. L. 100–418 inserted before period at end “, unless the failure to procure such license was through error and without deceptive intent, and the patent does not disclose subject matter within the scope of section 181 of this title.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -229,15 +229,15 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 Amendment by Pub. L. 100–418 applicable, subject to certain qualifications and exceptions, to all United States patents, and to all licenses under section 184 of this title, regardless of the date such patents or licenses are granted, and to all applications for such patents pending on or filed after Aug. 23, 1988, see section 9101(d) of Pub. L. 100–418, set out as a note under section 184 of this title.
 
-## § 186. Penalty
+## § 186. Penalty
 
 Whoever, during the period or periods of time an invention has been ordered to be kept secret and the grant of a patent thereon withheld pursuant to section 181, shall, with knowledge of such order and without due authorization, willfully publish or disclose or authorize or cause to be published or disclosed the invention, or material information with respect thereto, or whoever willfully, in violation of the provisions of section 184, shall file or cause or authorize to be filed in any foreign country an application for patent or for the registration of a utility model, industrial design, or model in respect of any invention made in the United States, shall, upon conviction, be fined not more than $10,000 or imprisoned for not more than two years, or both.
 
-(July 19, 1952, ch. 950, 66 Stat. 807; Pub. L. 100–418, title IX, § 9101(b)(3), Aug. 23, 1988, 102 Stat. 1568; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
+(July 19, 1952, ch. 950, 66 Stat. 807; Pub. L. 100–418, title IX, § 9101(b)(3), Aug. 23, 1988, 102 Stat. 1568; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 156 (Feb. 1, 1952, ch. 4, § 6, 66 Stat. 5, 6).
+Based on Title 35, U.S.C., 1946 ed., § 156 (Feb. 1, 1952, ch. 4, § 6, 66 Stat. 5, 6).
 
 Language is changed.
 
@@ -259,7 +259,7 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 Amendment by Pub. L. 100–418 applicable, subject to certain qualifications and exceptions, to all United States patents, and to all licenses under section 184 of this title, regardless of the date such patents or licenses are granted, and to all applications for such patents pending on or filed after Aug. 23, 1988, see section 9101(d) of Pub. L. 100–418, set out as a note under section 184 of this title.
 
-## § 187. Nonapplicability to certain persons
+## § 187. Nonapplicability to certain persons
 
 The prohibitions and penalties of this chapter shall not apply to any officer or agent of the United States acting within the scope of his authority, nor to any person acting upon his written instructions or permission.
 
@@ -267,11 +267,11 @@ The prohibitions and penalties of this chapter shall not apply to any officer or
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 157 (Feb. 1, 1952, ch. 4, § 7, 66 Stat. 6).
+Based on Title 35, U.S.C., 1946 ed., § 157 (Feb. 1, 1952, ch. 4, § 7, 66 Stat. 6).
 
 Language is changed.
 
-## § 188. Rules and regulations, delegation of power
+## § 188. Rules and regulations, delegation of power
 
 The Atomic Energy Commission, the Secretary of a defense department, the chief officer of any other department or agency of the Government designated by the President as a defense agency of the United States, and the Secretary of Commerce, may separately issue rules and regulations to enable the respective department or agency to carry out the provisions of this chapter, and may delegate any power conferred by this chapter.
 
@@ -279,7 +279,7 @@ The Atomic Energy Commission, the Secretary of a defense department, the chief o
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 158 (Feb. 1, 1952, ch. 4, § 8, 66 Stat. 6).
+Based on Title 35, U.S.C., 1946 ed., § 158 (Feb. 1, 1952, ch. 4, § 8, 66 Stat. 6).
 
 Language is changed.
 

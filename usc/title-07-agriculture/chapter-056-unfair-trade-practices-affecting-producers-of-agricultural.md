@@ -15,21 +15,21 @@ retrieved: 2026-10-11
 
 # CHAPTER 56—UNFAIR TRADE PRACTICES AFFECTING PRODUCERS OF AGRICULTURAL PRODUCTS
 
-## § 2301. Congressional findings and declaration of policy
+## § 2301. Congressional findings and declaration of policy
 
 Agricultural products are produced in the United States by many individual farmers and ranchers scattered throughout the various States of the Nation. Such products in fresh or processed form move in large part in the channels of interstate and foreign commerce, and such products which do not move in these channels directly burden or affect interstate commerce. The efficient production and marketing of agricultural products by farmers and ranchers is of vital concern to their welfare and to the general economy of the Nation. Because agricultural products are produced by numerous individual farmers, the marketing and bargaining position of individual farmers will be adversely affected unless they are free to join together voluntarily in cooperative organizations as authorized by law. Interference with this right is contrary to the public interest and adversely affects the free and orderly flow of goods in interstate and foreign commerce.
 
 It is, therefore, declared to be the policy of Congress and the purpose of this chapter to establish standards of fair practices required of handlers in their dealings in agricultural products.
 
-(Pub. L. 90–288, § 2, Apr. 16, 1968, 82 Stat. 93.)
+(Pub. L. 90–288, § 2, Apr. 16, 1968, 82 Stat. 93.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 90–288, § 1, Apr. 16, 1968, 82 Stat. 93, provided: “That this Act [enacting this chapter] shall be known as the Agricultural Fair Practices Act of 1967.”
+Pub. L. 90–288, § 1, Apr. 16, 1968, 82 Stat. 93, provided: “That this Act [enacting this chapter] shall be known as the Agricultural Fair Practices Act of 1967.”
 
-## § 2302. Definitions
+## § 2302. Definitions
 
 In this chapter:
 
@@ -37,9 +37,9 @@ In this chapter:
 
 The term “agricultural products” shall not include cotton or tobacco or their products.
 
-**(2)** (2) 1
+**(2)** (2) 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 Association of producers
 
@@ -51,7 +51,7 @@ The term “association of producers” means any association of producers of ag
 
 The term “association of producers” includes an organization whose membership is exclusively limited to agricultural producers and dedicated to promoting the common interest and general welfare of producers of agricultural products.
 
-**(3)** (3) <sup>1</sup> Handler
+**(3)** (3) <sup>1</sup> Handler
 
 **(A) In general**
 
@@ -65,7 +65,7 @@ The term “handler” does not include a person, other than a packer (as define
 
 The term “producer” means a person engaged in the production of agricultural products as a farmer, planter, rancher, dairyman, fruit, vegetable, or nut grower.
 
-(Pub. L. 90–288, § 3, Apr. 16, 1968, 82 Stat. 94; Pub. L. 110–234, title XI, § 11003, May 22, 2008, 122 Stat. 1354; Pub. L. 110–246, § 4(a), title XI, § 11003, June 18, 2008, 122 Stat. 1664, 2116.)
+(Pub. L. 90–288, § 3, Apr. 16, 1968, 82 Stat. 94; Pub. L. 110–234, title XI, § 11003, May 22, 2008, 122 Stat. 1354; Pub. L. 110–246, § 4(a), title XI, § 11003, June 18, 2008, 122 Stat. 1664, 2116.)
 
 **Editorial Notes**
 
@@ -75,7 +75,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 11003, in introductory provisions, substituted “In this chapter:” for “When used in this chapter—”, redesignated subsecs. (e), (c), (a), and (b) as pars. (1) to (4), respectively, inserted par. headings, in pars. (2) and (3), inserted duplicate par. designations, designated existing provisions as subpar. (A), and added subpar. (B), in par. (3), redesignated cls. (1) to (4) as (i) to (iv), respectively, in cl. (iv), substituted “clause (i), (ii), or (iii)” for “clause (1), (2), or (3) of this paragraph”, and struck out subsec. (d) which read as follows: “The term ‘person’ includes individuals, partnerships, corporations, and associations.”
+2008—Pub. L. 110–246, § 11003, in introductory provisions, substituted “In this chapter:” for “When used in this chapter—”, redesignated subsecs. (e), (c), (a), and (b) as pars. (1) to (4), respectively, inserted par. headings, in pars. (2) and (3), inserted duplicate par. designations, designated existing provisions as subpar. (A), and added subpar. (B), in par. (3), redesignated cls. (1) to (4) as (i) to (iv), respectively, in cl. (iv), substituted “clause (i), (ii), or (iii)” for “clause (1), (2), or (3) of this paragraph”, and struck out subsec. (d) which read as follows: “The term ‘person’ includes individuals, partnerships, corporations, and associations.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -83,7 +83,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-## § 2303. Prohibited practices
+## § 2303. Prohibited practices
 
 It shall be unlawful for any handler knowingly to engage or permit any employee or agent to engage in the following practices:
 
@@ -99,15 +99,15 @@ It shall be unlawful for any handler knowingly to engage or permit any employee 
 
 **(f)** To conspire, combine, agree, or arrange with any other person to do, or aid or abet the doing of, any act made unlawful by this chapter.
 
-(Pub. L. 90–288, § 4, Apr. 16, 1968, 82 Stat. 94.)
+(Pub. L. 90–288, § 4, Apr. 16, 1968, 82 Stat. 94.)
 
-## § 2304. Disclaimer of intention to prohibit normal dealing
+## § 2304. Disclaimer of intention to prohibit normal dealing
 
 Nothing in this chapter shall prevent handlers and producers from selecting their customers and suppliers for any reason other than a producer’s membership in or contract with an association of producers, nor require a handler to deal with an association of producers.
 
-(Pub. L. 90–288, § 5, Apr. 16, 1968, 82 Stat. 95.)
+(Pub. L. 90–288, § 5, Apr. 16, 1968, 82 Stat. 95.)
 
-## § 2305. Enforcement provisions
+## § 2305. Enforcement provisions
 
 **(a) Civil actions by persons aggrieved; preventive relief; attorneys’ fees; security**
 
@@ -127,10 +127,10 @@ The district courts of the United States shall have jurisdiction of proceedings 
 
 The provisions of this chapter shall not be construed to change or modify existing State law nor to deprive the proper State courts of jurisdiction.
 
-(Pub. L. 90–288, § 6, Apr. 16, 1968, 82 Stat. 95.)
+(Pub. L. 90–288, § 6, Apr. 16, 1968, 82 Stat. 95.)
 
-## § 2306. Separability
+## § 2306. Separability
 
 If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-(Pub. L. 90–288, § 7, Apr. 16, 1968, 82 Stat. 95.)
+(Pub. L. 90–288, § 7, Apr. 16, 1968, 82 Stat. 95.)

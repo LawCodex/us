@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2008—Pub. L. 110–403, title I, § 101(b)(2), Oct. 13, 2008, 122 Stat. 4258, inserted “civil” before “infringement” in item 411.
+2008—Pub. L. 110–403, title I, § 101(b)(2), Oct. 13, 2008, 122 Stat. 4258, inserted “civil” before “infringement” in item 411.
 
-1988—Pub. L. 100–568, §§ 7(g), 9(b)(2), Oct. 31, 1988, 102 Stat. 2859, inserted in items 405 and 406 “on certain copies and phonorecords” and substituted in item 411 “Registration and infringement actions” for “Registration as prerequisite to infringement suit”.
+1988—Pub. L. 100–568, §§ 7(g), 9(b)(2), Oct. 31, 1988, 102 Stat. 2859, inserted in items 405 and 406 “on certain copies and phonorecords” and substituted in item 411 “Registration and infringement actions” for “Registration as prerequisite to infringement suit”.
 
-## § 401. Notice of copyright: Visually perceptible copies
+## § 401. Notice of copyright: Visually perceptible copies
 
 **(a) General Provisions.—** Whenever a work protected under this title is published in the United States or elsewhere by authority of the copyright owner, a notice of copyright as provided by this section may be placed on publicly distributed copies from which the work can be visually perceived, either directly or with the aid of a machine or device.
 
@@ -39,7 +39,7 @@ retrieved: 2026-10-11
 
 **(d) Evidentiary Weight of Notice.—** If a notice of copyright in the form and position specified by this section appears on the published copy or copies to which a defendant in a copyright infringement suit had access, then no weight shall be given to such a defendant’s interposition of a defense based on innocent infringement in mitigation of actual or statutory damages, except as provided in the last sentence of section 504(c)(2).
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2576; Pub. L. 100–568, § 7(a), Oct. 31, 1988, 102 Stat. 2857.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2576; Pub. L. 100–568, § 7(a), Oct. 31, 1988, 102 Stat. 2857.)
 
 **Historical and Revision Notes**
 
@@ -73,11 +73,11 @@ By providing simply that the notice “shall be affixed to the copies in such ma
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–568, § 7(a)(1), (2), substituted “General provisions” for “General requirement” in heading, and “may be placed on” for “shall be placed on all” in text.
+1988—Subsec. (a). Pub. L. 100–568, § 7(a)(1), (2), substituted “General provisions” for “General requirement” in heading, and “may be placed on” for “shall be placed on all” in text.
 
-Subsec. (b). Pub. L. 100–568, § 7(a)(3), substituted “If a notice appears on the copies, it” for “The notice appearing on the copies”.
+Subsec. (b). Pub. L. 100–568, § 7(a)(3), substituted “If a notice appears on the copies, it” for “The notice appearing on the copies”.
 
-Subsec. (d). Pub. L. 100–568, § 7(a)(4), added subsec. (d).
+Subsec. (d). Pub. L. 100–568, § 7(a)(4), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -87,9 +87,9 @@ Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action 
 
 **Compliance With Predecessor Notice Provisions; Copies Distributed After Dec. 31, 1977**
 
-Pub. L. 94–553, title I, § 108, Oct. 19, 1976, 90 Stat. 2600, provided that: “The notice provisions of sections 401 through 403 of title 17 as amended by the first section of this Act [sections 401 through 403 of this title] apply to all copies or phonorecords publicly distributed on or after January 1, 1978. However, in the case of a work published before January 1, 1978, compliance with the notice provisions of title 17 either as it existed on December 31, 1977, or as amended by the first section of this Act, is adequate with respect to copies publicly distributed after December 31, 1977.”
+Pub. L. 94–553, title I, § 108, Oct. 19, 1976, 90 Stat. 2600, provided that: “The notice provisions of sections 401 through 403 of title 17 as amended by the first section of this Act [sections 401 through 403 of this title] apply to all copies or phonorecords publicly distributed on or after January 1, 1978. However, in the case of a work published before January 1, 1978, compliance with the notice provisions of title 17 either as it existed on December 31, 1977, or as amended by the first section of this Act, is adequate with respect to copies publicly distributed after December 31, 1977.”
 
-## § 402. Notice of copyright: Phonorecords of sound recordings
+## § 402. Notice of copyright: Phonorecords of sound recordings
 
 **(a) General Provisions.—** Whenever a sound recording protected under this title is published in the United States or elsewhere by authority of the copyright owner, a notice of copyright as provided by this section may be placed on publicly distributed phonorecords of the sound recording.
 
@@ -105,7 +105,7 @@ Pub. L. 94–553, title I, § 108, Oct. 19, 1976, 90 Stat. 2600, provided that
 
 **(d) Evidentiary Weight of Notice.—** If a notice of copyright in the form and position specified by this section appears on the published phonorecord or phonorecords to which a defendant in a copyright infringement suit had access, then no weight shall be given to such a defendant’s interposition of a defense based on innocent infringement in mitigation of actual or statutory damages, except as provided in the last sentence of section 504(c)(2).
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2577; Pub. L. 100–568, § 7(b), Oct. 31, 1988, 102 Stat. 2857.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2577; Pub. L. 100–568, § 7(b), Oct. 31, 1988, 102 Stat. 2857.)
 
 **Historical and Revision Notes**
 
@@ -121,11 +121,11 @@ There are at least three reasons for prescribing use of the symbol “℗” rat
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–568, § 7(b)(1), (2), substituted “General provisions” for “General requirement” in heading, and “may be placed on” for “shall be placed on all” in text.
+1988—Subsec. (a). Pub. L. 100–568, § 7(b)(1), (2), substituted “General provisions” for “General requirement” in heading, and “may be placed on” for “shall be placed on all” in text.
 
-Subsec. (b). Pub. L. 100–568, § 7(b)(3), substituted “If a notice appears on the phonorecords, it” for “The notice appearing on the phonorecords”.
+Subsec. (b). Pub. L. 100–568, § 7(b)(3), substituted “If a notice appears on the phonorecords, it” for “The notice appearing on the phonorecords”.
 
-Subsec. (d). Pub. L. 100–568, § 7(b)(4), added subsec. (d).
+Subsec. (d). Pub. L. 100–568, § 7(b)(4), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -133,11 +133,11 @@ Subsec. (d). Pub. L. 100–568, § 7(b)(4), added subsec. (d).
 
 Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
 
-## § 403. Notice of copyright: Publications incorporating United States Government works
+## § 403. Notice of copyright: Publications incorporating United States Government works
 
 Sections 401(d) and 402(d) shall not apply to a work published in copies or phonorecords consisting predominantly of one or more works of the United States Government unless the notice of copyright appearing on the published copies or phonorecords to which a defendant in the copyright infringement suit had access includes a statement identifying, either affirmatively or negatively, those portions of the copies or phonorecords embodying any work or works protected under this title.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2577; Pub. L. 100–568, § 7(c), Oct. 31, 1988, 102 Stat. 2858.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2577; Pub. L. 100–568, § 7(c), Oct. 31, 1988, 102 Stat. 2858.)
 
 **Historical and Revision Notes**
 
@@ -159,13 +159,13 @@ To make the notice meaningful rather than misleading, section 403 requires that,
 
 Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
 
-## § 404. Notice of copyright: Contributions to collective works
+## § 404. Notice of copyright: Contributions to collective works
 
 **(a)** A separate contribution to a collective work may bear its own notice of copyright, as provided by sections 401 through 403. However, a single notice applicable to the collective work as a whole is sufficient to invoke the provisions of section 401(d) or 402(d), as applicable with respect to the separate contributions it contains (not including advertisements inserted on behalf of persons other than the owner of copyright in the collective work), regardless of the ownership of copyright in the contributions and whether or not they have been previously published.
 
 **(b)** With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where the person named in a single notice applicable to a collective work as a whole is not the owner of copyright in a separate contribution that does not bear its own notice, the case is governed by the provisions of section 406(a).
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2577; Pub. L. 100–568, § 7(d), Oct. 31, 1988, 102 Stat. 2858.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2577; Pub. L. 100–568, § 7(d), Oct. 31, 1988, 102 Stat. 2858.)
 
 **Historical and Revision Notes**
 
@@ -191,9 +191,9 @@ The effective date of the Berne Convention Implementation Act of 1988, referred 
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–568, § 7(d)(1), substituted “to invoke the provisions of section 401(d) or 402(d), as applicable” for “to satisfy the requirements of sections 401 through 403”.
+1988—Subsec. (a). Pub. L. 100–568, § 7(d)(1), substituted “to invoke the provisions of section 401(d) or 402(d), as applicable” for “to satisfy the requirements of sections 401 through 403”.
 
-Subsec. (b). Pub. L. 100–568, § 7(d)(2), substituted “With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where” for “Where”.
+Subsec. (b). Pub. L. 100–568, § 7(d)(2), substituted “With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where” for “Where”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -201,7 +201,7 @@ Subsec. (b). Pub. L. 100–568, § 7(d)(2), substituted “With respect to cop
 
 Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
 
-## § 405. Notice of copyright: Omission of notice on certain copies and phonorecords
+## § 405. Notice of copyright: Omission of notice on certain copies and phonorecords
 
 **(a) Effect of Omission on Copyright.—** With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, the omission of the copyright notice described in sections 401 through 403 from copies or phonorecords publicly distributed by authority of the copyright owner does not invalidate the copyright in a work if—
 
@@ -215,7 +215,7 @@ Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action 
 
 **(c) Removal of Notice.—** Protection under this title is not affected by the removal, destruction, or obliteration of the notice, without the authorization of the copyright owner, from any publicly distributed copies or phonorecords.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2578; Pub. L. 100–568, § 7(e), Oct. 31, 1988, 102 Stat. 2858; Pub. L. 105–80, § 12(a)(10), Nov. 13, 1997, 111 Stat. 1535.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2578; Pub. L. 100–568, § 7(e), Oct. 31, 1988, 102 Stat. 2858; Pub. L. 105–80, § 12(a)(10), Nov. 13, 1997, 111 Stat. 1535.)
 
 **Historical and Revision Notes**
 
@@ -257,11 +257,11 @@ The effective date of the Berne Convention Implementation Act of 1988, referred 
 
 1997—Subsec. (b). Pub. L. 105–80 substituted “condition for permitting the continuation” for “condition or permitting the continuation”.
 
-1988—Pub. L. 100–568, § 7(e)(3), substituted “notice on certain copies and phonorecords” for “notice” in section catchline.
+1988—Pub. L. 100–568, § 7(e)(3), substituted “notice on certain copies and phonorecords” for “notice” in section catchline.
 
-Subsec. (a). Pub. L. 100–568, § 7(e)(1), substituted “With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, the omission of the copyright notice described in” for “The omission of the copyright notice prescribed by”.
+Subsec. (a). Pub. L. 100–568, § 7(e)(1), substituted “With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, the omission of the copyright notice described in” for “The omission of the copyright notice prescribed by”.
 
-Subsec. (b). Pub. L. 100–568, § 7(e)(2), substituted “omitted and which was publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988,” for “omitted,”.
+Subsec. (b). Pub. L. 100–568, § 7(e)(2), substituted “omitted and which was publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988,” for “omitted,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -269,7 +269,7 @@ Subsec. (b). Pub. L. 100–568, § 7(e)(2), substituted “omitted and which w
 
 Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
 
-## § 406. Notice of copyright: Error in name or date on certain copies and phonorecords
+## § 406. Notice of copyright: Error in name or date on certain copies and phonorecords
 
 **(a) Error in Name.—** With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where the person named in the copyright notice on copies or phonorecords publicly distributed by authority of the copyright owner is not the owner of copyright, the validity and ownership of the copyright are not affected. In such a case, however, any person who innocently begins an undertaking that infringes the copyright has a complete defense to any action for such infringement if such person proves that he or she was misled by the notice and began the undertaking in good faith under a purported transfer or license from the person named therein, unless before the undertaking was begun—
 
@@ -283,7 +283,7 @@ The person named in the notice is liable to account to the copyright owner for a
 
 **(c) Omission of Name or Date.—** Where copies or phonorecords publicly distributed before the effective date of the Berne Convention Implementation Act of 1988 by authority of the copyright owner contain no name or no date that could reasonably be considered a part of the notice, the work is considered to have been published without any notice and is governed by the provisions of section 405 as in effect on the day before the effective date of the Berne Convention Implementation Act of 1988.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2578; Pub. L. 100–568, § 7(f), Oct. 31, 1988, 102 Stat. 2858.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2578; Pub. L. 100–568, § 7(f), Oct. 31, 1988, 102 Stat. 2858.)
 
 **Historical and Revision Notes**
 
@@ -309,13 +309,13 @@ The effective date of the Berne Convention Implementation Act of 1988, referred 
 
 **Amendments**
 
-1988—Pub. L. 100–568, § 7(f)(4), substituted “date on certain copies and phonorecords” for “date” in section catchline.
+1988—Pub. L. 100–568, § 7(f)(4), substituted “date on certain copies and phonorecords” for “date” in section catchline.
 
-Subsec. (a). Pub. L. 100–568, § 7(f)(1), substituted “With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where” for “Where”.
+Subsec. (a). Pub. L. 100–568, § 7(f)(1), substituted “With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where” for “Where”.
 
-Subsec. (b). Pub. L. 100–568, § 7(f)(2), inserted “before the effective date of the Berne Convention Implementation Act of 1988” after “distributed”.
+Subsec. (b). Pub. L. 100–568, § 7(f)(2), inserted “before the effective date of the Berne Convention Implementation Act of 1988” after “distributed”.
 
-Subsec. (c). Pub. L. 100–568, § 7(f)(3), inserted “before the effective date of the Berne Convention Implementation Act of 1988” after “publicly distributed” and “as in effect on the day before the effective date of the Berne Convention Implementation Act of 1988” after “section 405”.
+Subsec. (c). Pub. L. 100–568, § 7(f)(3), inserted “before the effective date of the Berne Convention Implementation Act of 1988” after “publicly distributed” and “as in effect on the day before the effective date of the Berne Convention Implementation Act of 1988” after “section 405”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -323,7 +323,7 @@ Subsec. (c). Pub. L. 100–568, § 7(f)(3), inserted “before the effective d
 
 Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
 
-## § 407. Deposit of copies or phonorecords for Library of Congress
+## § 407. Deposit of copies or phonorecords for Library of Congress
 
 **(a)** Except as provided by subsection (c), and subject to the provisions of subsection (e), the owner of copyright or of the exclusive right of publication in a work published in the United States shall deposit, within three months after the date of such publication—
 
@@ -355,7 +355,7 @@ Neither the deposit requirements of this subsection nor the acquisition provisio
 
 **(4)** No activity undertaken in compliance with regulations prescribed under clauses (1) or (2) of this subsection shall result in liability if intended solely to assist in the acquisition of copies or phonorecords under this subsection.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2579; Pub. L. 100–568, § 8, Oct. 31, 1988, 102 Stat. 2859; Pub. L. 105–80, § 12(a)(11), Nov. 13, 1997, 111 Stat. 1535.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2579; Pub. L. 100–568, § 8, Oct. 31, 1988, 102 Stat. 2859; Pub. L. 105–80, § 12(a)(11), Nov. 13, 1997, 111 Stat. 1535.)
 
 **Historical and Revision Notes**
 
@@ -397,9 +397,9 @@ Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action 
 
 **Deposits and Registrations Made After December 31, 1977, in Response to Demand Under Predecessor Demand and Penalty Provisions**
 
-Pub. L. 94–553, title I, § 110, Oct. 19, 1976, 90 Stat. 2600, provided that: “The demand and penalty provisions of section 14 of title 17 as it existed on December 31, 1977, apply to any work in which copyright has been secured by publication with notice of copyright on or before that date, but any deposit and registration made after that date in response to a demand under that section shall be made in accordance with the provisions of title 17 as amended by the first section of this Act.”
+Pub. L. 94–553, title I, § 110, Oct. 19, 1976, 90 Stat. 2600, provided that: “The demand and penalty provisions of section 14 of title 17 as it existed on December 31, 1977, apply to any work in which copyright has been secured by publication with notice of copyright on or before that date, but any deposit and registration made after that date in response to a demand under that section shall be made in accordance with the provisions of title 17 as amended by the first section of this Act.”
 
-## § 408. Copyright registration in general
+## § 408. Copyright registration in general
 
 **(a) Registration Permissive.—** At any time during the subsistence of the first term of copyright in any published or unpublished work in which the copyright was secured before January 1, 1978, and during the subsistence of any copyright secured on or after that date, the owner of copyright or of any exclusive right in the work may obtain registration of the copyright claim by delivering to the Copyright Office the deposit specified by this section, together with the application and fee specified by sections 409 and 708. Such registration is not a condition of copyright protection.
 
@@ -459,7 +459,7 @@ Copies or phonorecords deposited for the Library of Congress under section 407 m
 
 **(B)** 1 month after the copyright owner has learned of the infringement.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2580; Pub. L. 100–568, § 9(a), Oct. 31, 1988, 102 Stat. 2859; Pub. L. 102–307, title I, § 102(e), June 26, 1992, 106 Stat. 266; Pub. L. 109–9, title I, § 104(a), Apr. 27, 2005, 119 Stat. 221.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2580; Pub. L. 100–568, § 9(a), Oct. 31, 1988, 102 Stat. 2859; Pub. L. 102–307, title I, § 102(e), June 26, 1992, 106 Stat. 266; Pub. L. 109–9, title I, § 104(a), Apr. 27, 2005, 119 Stat. 221.)
 
 **Historical and Revision Notes**
 
@@ -503,9 +503,9 @@ The date of enactment of this subsection, referred to in subsec. (f)(1), is the 
 
 1992—Subsec. (a). Pub. L. 102–307 substituted “At any time during the subsistence of the first term of copyright in any published or unpublished work in which the copyright was secured before January 1, 1978, and during the subsistence of any copyright secured on or after that date,” for “At any time during the subsistence of copyright in any published or unpublished work,”.
 
-1988—Subsec. (a). Pub. L. 100–568, § 9(a)(1), substituted “Such” for “Subject to the provisions of section 405(a), such”.
+1988—Subsec. (a). Pub. L. 100–568, § 9(a)(1), substituted “Such” for “Subject to the provisions of section 405(a), such”.
 
-Subsec. (c)(2). Pub. L. 100–568, § 9(a)(2), substituted “the following conditions:” for “all of the following conditions—”, struck out subpar. (A) which read “if each of the works as first published bore a separate copyright notice, and the name of the owner of copyright in the work, or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner was the same in each notice; and”, and redesignated subpars. (B) and (C) as (A) and (B), respectively.
+Subsec. (c)(2). Pub. L. 100–568, § 9(a)(2), substituted “the following conditions:” for “all of the following conditions—”, struck out subpar. (A) which read “if each of the works as first published bore a separate copyright notice, and the name of the owner of copyright in the work, or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner was the same in each notice; and”, and redesignated subpars. (B) and (C) as (A) and (B), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -517,7 +517,7 @@ Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to c
 
 Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
 
-## § 409. Application for copyright registration
+## § 409. Application for copyright registration
 
 The application for copyright registration shall be made on a form prescribed by the Register of Copyrights and shall include—
 
@@ -543,7 +543,7 @@ The application for copyright registration shall be made on a form prescribed by
 
 If an application is submitted for the renewed and extended term provided for in section 304(a)(3)(A) and an original term registration has not been made, the Register may request information with respect to the existence, ownership, or duration of the copyright for the original term.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2582; Pub. L. 102–307, title I, § 102(b)(1), June 26, 1992, 106 Stat. 266; Pub. L. 111–295, § 4(b)(2), Dec. 9, 2010, 124 Stat. 3180.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2582; Pub. L. 102–307, title I, § 102(b)(1), June 26, 1992, 106 Stat. 266; Pub. L. 111–295, § 4(b)(2), Dec. 9, 2010, 124 Stat. 3180.)
 
 **Historical and Revision Notes**
 
@@ -569,7 +569,7 @@ The catch-all clause at the end of the section will enable the Register to obtai
 
 Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to copyrights secured between January 1, 1964, and December 31, 1977, and not affecting court proceedings pending on June 26, 1992, with copyrights secured before January 1, 1964, governed by section 304(a) of this title as in effect on the day before June 26, 1992, except each reference to forty-seven years in such provisions deemed to be 67 years, see section 102(g) of Pub. L. 102–307, as amended, set out as a note under section 101 of this title.
 
-## § 410. Registration of claim and issuance of certificate
+## § 410. Registration of claim and issuance of certificate
 
 **(a)** When, after examination, the Register of Copyrights determines that, in accordance with the provisions of this title, the material deposited constitutes copyrightable subject matter and that the other legal and formal requirements of this title have been met, the Register shall register the claim and issue to the applicant a certificate of registration under the seal of the Copyright Office. The certificate shall contain the information given in the application, together with the number and effective date of the registration.
 
@@ -579,7 +579,7 @@ Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to c
 
 **(d)** The effective date of a copyright registration is the day on which an application, deposit, and fee, which are later determined by the Register of Copyrights or by a court of competent jurisdiction to be acceptable for registration, have all been received in the Copyright Office.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2582.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2582.)
 
 **Historical and Revision Notes**
 
@@ -597,13 +597,13 @@ Section 410(d), which is in accord with the present practice of the Copyright Of
 
 **Registration of Claims to Copyrights and Recordation of Assignments of Copyrights and Other Instruments Under Predecessor Provisions**
 
-Pub. L. 94–553, title I, § 109, Oct. 19, 1976, 90 Stat. 2600, provided that: “The registration of claims to copyright for which the required deposit, application, and fee were received in the Copyright Office before January 1, 1978, and the recordation of assignments of copyright or other instruments received in the Copyright Office before January 1, 1978, shall be made in accordance with title 17 as it existed on December 31, 1977.”
+Pub. L. 94–553, title I, § 109, Oct. 19, 1976, 90 Stat. 2600, provided that: “The registration of claims to copyright for which the required deposit, application, and fee were received in the Copyright Office before January 1, 1978, and the recordation of assignments of copyright or other instruments received in the Copyright Office before January 1, 1978, shall be made in accordance with title 17 as it existed on December 31, 1977.”
 
-## § 411. Registration and civil infringement actions
+## § 411. Registration and civil infringement actions
 
 **(a)** Except for an action brought for a violation of the rights of the author under section 106A(a), and subject to the provisions of subsection (b),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 no civil action for infringement of the copyright in any United States work shall be instituted until preregistration or registration of the copyright claim has been made in accordance with this title. In any case, however, where the deposit, application, and fee required for registration have been delivered to the Copyright Office in proper form and registration has been refused, the applicant is entitled to institute a civil action for infringement if notice thereof, with a copy of the complaint, is served on the Register of Copyrights. The Register may, at his or her option, become a party to the action with respect to the issue of registrability of the copyright claim by entering an appearance within sixty days after such service, but the Register’s failure to become a party shall not deprive the court of jurisdiction to determine that issue.
 
@@ -625,7 +625,7 @@ no civil action for infringement of the copyright in any United States work shal
 
 **(2)** makes registration for the work, if required by subsection (a), within three months after its first transmission.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2583; Pub. L. 100–568, § 9(b)(1), Oct. 31, 1988, 102 Stat. 2859; Pub. L. 101–650, title VI, § 606(c)(1), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 105–80, § 6, Nov. 13, 1997, 111 Stat. 1532; Pub. L. 105–304, title I, § 102(d), Oct. 28, 1998, 112 Stat. 2863; Pub. L. 109–9, title I, § 104(b), Apr. 27, 2005, 119 Stat. 222; Pub. L. 110–403, title I, § 101(a), title II, § 209(a)(6), Oct. 13, 2008, 122 Stat. 4257, 4264.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2583; Pub. L. 100–568, § 9(b)(1), Oct. 31, 1988, 102 Stat. 2859; Pub. L. 101–650, title VI, § 606(c)(1), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 105–80, § 6, Nov. 13, 1997, 111 Stat. 1532; Pub. L. 105–304, title I, § 102(d), Oct. 28, 1998, 112 Stat. 2863; Pub. L. 109–9, title I, § 104(b), Apr. 27, 2005, 119 Stat. 222; Pub. L. 110–403, title I, § 101(a), title II, § 209(a)(6), Oct. 13, 2008, 122 Stat. 4257, 4264.)
 
 **Historical and Revision Notes**
 
@@ -641,21 +641,21 @@ Section 411(b) is intended to deal with the special situation presented by works
 
 **References in Text**
 
-Subsection (b), referred to in subsec. (a), was redesignated subsec. (c) of this section by Pub. L. 110–403, title I, § 101(a)(3), Oct. 13, 2008, 122 Stat. 4257.
+Subsection (b), referred to in subsec. (a), was redesignated subsec. (c) of this section by Pub. L. 110–403, title I, § 101(a)(3), Oct. 13, 2008, 122 Stat. 4257.
 
 **Amendments**
 
-2008—Pub. L. 110–403, § 101(a)(1), inserted “civil” before “infringement” in section catchline.
+2008—Pub. L. 110–403, § 101(a)(1), inserted “civil” before “infringement” in section catchline.
 
-Subsec. (a). Pub. L. 110–403, § 101(a)(2), substituted “no civil action” for “no action” in first sentence and “a civil action” for “an action” in second sentence.
+Subsec. (a). Pub. L. 110–403, § 101(a)(2), substituted “no civil action” for “no action” in first sentence and “a civil action” for “an action” in second sentence.
 
-Subsec. (b). Pub. L. 110–403, § 209(a)(6), which directed amendment of subsec. (b) by substituting “section 510” for “sections 509 and 510”, could not be executed because of prior amendment by Pub. L. 110–403, § 101(a)(3), (4). See below.
+Subsec. (b). Pub. L. 110–403, § 209(a)(6), which directed amendment of subsec. (b) by substituting “section 510” for “sections 509 and 510”, could not be executed because of prior amendment by Pub. L. 110–403, § 101(a)(3), (4). See below.
 
-Pub. L. 110–403, § 101(a)(5), added subsec. (b). Former subsec. (b) redesignated (c).
+Pub. L. 110–403, § 101(a)(5), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 110–403, § 101(a)(4), substituted “505 and section” for “506 and sections 509 and” in introductory provisions.
+Subsec. (c). Pub. L. 110–403, § 101(a)(4), substituted “505 and section” for “506 and sections 509 and” in introductory provisions.
 
-Pub. L. 110–403, § 101(a)(3), redesignated subsec. (b) as (c).
+Pub. L. 110–403, § 101(a)(3), redesignated subsec. (b) as (c).
 
 2005—Subsec. (a). Pub. L. 109–9 inserted “preregistration or” after “shall be instituted until”.
 
@@ -665,11 +665,11 @@ Pub. L. 110–403, § 101(a)(3), redesignated subsec. (b) as (c).
 
 1990—Subsec. (a). Pub. L. 101–650 inserted “and an action brought for a violation of the rights of the author under section 106A(a)” after “United States”.
 
-1988—Pub. L. 100–568, § 9(b)(1)(A), substituted “Registration and infringement actions” for “Registration as prerequisite to infringement suit” in section catchline.
+1988—Pub. L. 100–568, § 9(b)(1)(A), substituted “Registration and infringement actions” for “Registration as prerequisite to infringement suit” in section catchline.
 
-Subsec. (a). Pub. L. 100–568, § 9(b)(1)(B), substituted “Except for actions for infringement of copyright in Berne Convention works whose country of origin is not the United States, and subject” for “Subject”.
+Subsec. (a). Pub. L. 100–568, § 9(b)(1)(B), substituted “Except for actions for infringement of copyright in Berne Convention works whose country of origin is not the United States, and subject” for “Subject”.
 
-Subsec. (b)(2). Pub. L. 100–568, § 9(b)(1)(C), substituted “work, if required by subsection (a),” for “work”.
+Subsec. (b)(2). Pub. L. 100–568, § 9(b)(1)(C), substituted “work, if required by subsection (a),” for “work”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -681,7 +681,7 @@ Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see sectio
 
 Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
 
-## § 412. Registration as prerequisite to certain remedies for infringement
+## § 412. Registration as prerequisite to certain remedies for infringement
 
 In any action under this title, other than an action brought for a violation of the rights of the author under section 106A(a), an action for infringement of the copyright of a work that has been preregistered under section 408(f) before the commencement of the infringement and that has an effective date of registration not later than the earlier of 3 months after the first publication of the work or 1 month after the copyright owner has learned of the infringement, or an action instituted under section 411(c), no award of statutory damages or of attorney’s fees, as provided by sections 504 and 505, shall be made for—
 
@@ -689,7 +689,7 @@ In any action under this title, other than an action brought for a violation of 
 
 **(2)** any infringement of copyright commenced after first publication of the work and before the effective date of its registration, unless such registration is made within three months after the first publication of the work.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2583; Pub. L. 101–650, title VI, § 606(c)(2), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 109–9, title I, § 104(c), Apr. 27, 2005, 119 Stat. 222; Pub. L. 110–403, title I, § 101(b)(1), Oct. 13, 2008, 122 Stat. 4258.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2583; Pub. L. 101–650, title VI, § 606(c)(2), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 109–9, title I, § 104(c), Apr. 27, 2005, 119 Stat. 222; Pub. L. 110–403, title I, § 101(b)(1), Oct. 13, 2008, 122 Stat. 4258.)
 
 **Historical and Revision Notes**
 
@@ -711,7 +711,7 @@ In providing that statutory damages and attorney’s fees are not recoverable fo
 
 2008—Pub. L. 110–403 substituted “section 411(c)” for “section 411(b)” in introductory provisions.
 
-2005—Pub. L. 109–9 inserted “, an action for infringement of the copyright of a work that has been preregistered under section 408(f) before the commencement of the infringement and that has an effective date of registration not later than the earlier of 3 months after the first publication of the work or 1 month after the copyright owner has learned of the infringement,” after “section 106A(a)” in introductory provisions.
+2005—Pub. L. 109–9 inserted “, an action for infringement of the copyright of a work that has been preregistered under section 408(f) before the commencement of the infringement and that has an effective date of registration not later than the earlier of 3 months after the first publication of the work or 1 month after the copyright owner has learned of the infringement,” after “section 106A(a)” in introductory provisions.
 
 1990—Pub. L. 101–650 inserted “an action brought for a violation of the rights of the author under section 106A(a) or” after “other than” in introductory provisions.
 

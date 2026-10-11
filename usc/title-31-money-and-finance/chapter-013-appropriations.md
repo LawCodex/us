@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–158, § 2(b), Mar. 27, 2018, 132 Stat. 1242, added item 1355. Item was added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language amending the analysis for subchapter III of this chapter.
+2018—Pub. L. 115–158, § 2(b), Mar. 27, 2018, 132 Stat. 1242, added item 1355. Item was added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language amending the analysis for subchapter III of this chapter.
 
-1998—Pub. L. 105–339, § 7(b)(2), Oct. 31, 1998, 112 Stat. 3189, added item 1354.
+1998—Pub. L. 105–339, § 7(b)(2), Oct. 31, 1998, 112 Stat. 3189, added item 1354.
 
-1990—Pub. L. 101–280, § 4(b)(2), May 4, 1990, 104 Stat. 157, redesignated item 1352 “Acceptance of travel and related expenses from non-Federal sources” as 1353.
+1990—Pub. L. 101–280, § 4(b)(2), May 4, 1990, 104 Stat. 157, redesignated item 1352 “Acceptance of travel and related expenses from non-Federal sources” as 1353.
 
-1989—Pub. L. 101–194, title III, § 302(b), Nov. 30, 1989, 103 Stat. 1746, added item 1352 “Acceptance of travel and related expenses from non-Federal sources”.
+1989—Pub. L. 101–194, title III, § 302(b), Nov. 30, 1989, 103 Stat. 1746, added item 1352 “Acceptance of travel and related expenses from non-Federal sources”.
 
-Pub. L. 101–121, title III, § 319(a)(2), Oct. 23, 1989, 103 Stat. 756, added item 1352 “Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions”.
+Pub. L. 101–121, title III, § 319(a)(2), Oct. 23, 1989, 103 Stat. 756, added item 1352 “Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions”.
 
-1986—Pub. L. 99–550, § 1(b), Oct. 27, 1986, 100 Stat. 3070, substituted “Passenger carrier use” for “Passenger motor vehicle and aircraft use” in item 1344.
+1986—Pub. L. 99–550, § 1(b), Oct. 27, 1986, 100 Stat. 3070, substituted “Passenger carrier use” for “Passenger motor vehicle and aircraft use” in item 1344.
 
 ## SUBCHAPTER I—GENERAL
 
-### § 1301. Application
+### § 1301. Application
 
 **(a)** Appropriations shall be applied only to the objects for which the appropriations were made except as otherwise provided by law.
 
@@ -53,10 +53,10 @@ Pub. L. 101–121, title III, § 319(a)(2), Oct. 23, 1989, 103 Stat. 756, adde
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1301(a) | 31:628. | R.S. § 3678. |
-| 1301(b) | 31:717. | Mar. 4, 1915, ch. 147, § 4, 38 Stat. 1161. |
-| 1301(c) | 31:718. | Aug. 24, 1912, ch. 355, § 7, 37 Stat. 487; Mar. 3, 1919, ch. 99, § 6(last sentence), 40 Stat. 1309. |
-| 1301(d) | 31:627. | June 30, 1906, ch. 3914, § 9, 34 Stat. 764. |
+| 1301(a) | 31:628. | R.S. § 3678. |
+| 1301(b) | 31:717. | Mar. 4, 1915, ch. 147, § 4, 38 Stat. 1161. |
+| 1301(c) | 31:718. | Aug. 24, 1912, ch. 355, § 7, 37 Stat. 487; Mar. 3, 1919, ch. 99, § 6(last sentence), 40 Stat. 1309. |
+| 1301(d) | 31:627. | June 30, 1906, ch. 3914, § 9, 34 Stat. 764. |
 
 In subsection (a), the word “Appropriations” is substituted for “sums appropriated for the various branches of expenditure in the public service” to eliminate unnecessary words. The words “they are respectively” and “and for no others” are omitted as surplus. The words “except as otherwise provided by law” are substituted for “All” in section 3678 of the Revised Statutes to inform the reader that there are exceptions to the source provisions restated in the subsection.
 
@@ -68,19 +68,19 @@ In subsection (d), the words “passed after June 30, 1906” are omitted as exe
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–1, § 1, Jan. 16, 2019, 133 Stat. 3, provided that: “This Act [amending section 1341 of this title] may be cited as the ‘Government Employee Fair Treatment Act of 2019’.”
+Pub. L. 116–1, § 1, Jan. 16, 2019, 133 Stat. 3, provided that: “This Act [amending section 1341 of this title] may be cited as the ‘Government Employee Fair Treatment Act of 2019’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–158, § 1, Mar. 27, 2018, 132 Stat. 1242, provided that: “This Act [enacting section 1355 of this title] may be cited as the ‘Eliminating Government-funded Oil-painting Act’ or the ‘EGO Act’.”
+Pub. L. 115–158, § 1, Mar. 27, 2018, 132 Stat. 1242, provided that: “This Act [enacting section 1355 of this title] may be cited as the ‘Eliminating Government-funded Oil-painting Act’ or the ‘EGO Act’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–359, § 1, July 13, 1984, 98 Stat. 402, provided: “That this Act [amending section 1322 of this title] may be cited as the ‘Postal Savings System Statute of Limitations Act’.”
+Pub. L. 98–359, § 1, July 13, 1984, 98 Stat. 402, provided: “That this Act [amending section 1322 of this title] may be cited as the ‘Postal Savings System Statute of Limitations Act’.”
 
 **Transfers From Appropriation Accounts; Salaries of Temporarily Reassigned Employees**
 
-Pub. L. 105–277, div. A, § 101(f) [title V, § 510], Oct. 21, 1998, 112 Stat. 2681–337, 2681–385, as amended by Pub. L. 106–31, title V, § 5005(*l*), May 21, 1999, 113 Stat. 111, provided that:
+Pub. L. 105–277, div. A, § 101(f) [title V, § 510], Oct. 21, 1998, 112 Stat. 2681–337, 2681–385, as amended by Pub. L. 106–31, title V, § 5005(*l*), May 21, 1999, 113 Stat. 111, provided that:
 
 > “Notwithstanding any other provision of law, hereafter—
 
@@ -92,13 +92,13 @@ Pub. L. 105–277, div. A, § 101(f) [title V, § 510], Oct. 21, 1998, 112 S
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 105–78, title V, § 511, Nov. 13, 1997, 111 Stat. 1516.
+Pub. L. 105–78, title V, § 511, Nov. 13, 1997, 111 Stat. 1516.
 
-Pub. L. 104–208, div. A, title I, § 101(e) [title V, § 509], Sept. 30, 1996, 110 Stat. 3009–233, 3009–269.
+Pub. L. 104–208, div. A, title I, § 101(e) [title V, § 509], Sept. 30, 1996, 110 Stat. 3009–233, 3009–269.
 
-Pub. L. 104–134, title I, § 101(d) [title V, § 509], Apr. 26, 1996, 110 Stat. 1321–211, 1321–244; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101(d) [title V, § 509], Apr. 26, 1996, 110 Stat. 1321–211, 1321–244; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
-Pub. L. 103–333, title V, § 515, Sept. 30, 1994, 108 Stat. 2574.
+Pub. L. 103–333, title V, § 515, Sept. 30, 1994, 108 Stat. 2574.
 
 **Executive Documents**
 
@@ -142,7 +142,7 @@ Sec. 4. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 George W. Bush.
 
-### § 1302. Determining amounts appropriated
+### § 1302. Determining amounts appropriated
 
 Except as specifically provided by law, the total amount appropriated in an appropriation law is determined by adding up the specific amounts or rates appropriated in each paragraph of the law.
 
@@ -152,11 +152,11 @@ Except as specifically provided by law, the total amount appropriated in an appr
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1302 | 31:670. | May 28, 1896, ch. 252, § 1(par. immediately before heading “Treasury Department”), 29 Stat. 148. |
+| 1302 | 31:670. | May 28, 1896, ch. 252, § 1(par. immediately before heading “Treasury Department”), 29 Stat. 148. |
 
 The words “by adding up” are substituted for “by the correct footing up” for clarity.
 
-### § 1303. Effect of changes in titles of appropriations
+### § 1303. Effect of changes in titles of appropriations
 
 Expenditures for a particular object or purpose authorized by a law (and referred to in that law by the specific title previously used for the appropriation item in the appropriation law concerned) may be made from a corresponding appropriation item when the specific title is changed or eliminated from a later appropriation law.
 
@@ -166,9 +166,9 @@ Expenditures for a particular object or purpose authorized by a law (and referre
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1303 | 31:581(note). | Sept. 12, 1950, ch. 946, § 302(b), 64 Stat. 844. |
+| 1303 | 31:581(note). | Sept. 12, 1950, ch. 946, § 302(b), 64 Stat. 844. |
 
-### § 1304. Judgments, awards, and compromise settlements
+### § 1304. Judgments, awards, and compromise settlements
 
 **(a)** Necessary amounts are appropriated to pay final judgments, awards, compromise settlements, and interest and costs specified in the judgments or otherwise authorized by law when—
 
@@ -198,9 +198,9 @@ Expenditures for a particular object or purpose authorized by a law (and referre
 
 **(c)**
 
-**(1)** A judgment or compromise settlement against the Government shall be paid under this section and sections 2414, 2517, and 2518 1
+**(1)** A judgment or compromise settlement against the Government shall be paid under this section and sections 2414, 2517, and 2518 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 28 when the judgment or settlement arises out of an express or implied contract made by—
 
@@ -230,13 +230,13 @@ of title 28 when the judgment or settlement arises out of an express or implied 
 
 **(6)** The name of the agency that submitted the claim.
 
-(Pub. L. 97–258, §§ 1, 2(m)(2), Sept. 13, 1982, 96 Stat. 917, 1062; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, § 202(m), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–314, § 4(b), Dec. 18, 2010, 124 Stat. 3440; Pub. L. 116–9, title IV, § 4201(b), Mar. 12, 2019, 133 Stat. 764; Pub. L. 116–92, div. A, title VII, § 731(c)(2), Dec. 20, 2019, 133 Stat. 1460.)
+(Pub. L. 97–258, §§ 1, 2(m)(2), Sept. 13, 1982, 96 Stat. 917, 1062; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, § 202(m), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–314, § 4(b), Dec. 18, 2010, 124 Stat. 3440; Pub. L. 116–9, title IV, § 4201(b), Mar. 12, 2019, 133 Stat. 764; Pub. L. 116–92, div. A, title VII, § 731(c)(2), Dec. 20, 2019, 133 Stat. 1460.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1304(a) | 31:724a(1st sentence words before 1st proviso). | July 27, 1956, ch. 748, § 1302(1st sentence), 70 Stat. 694; Aug. 30, 1961, Pub. L. 87–187, § 3, 75 Stat. 416; July 18, 1966, Pub. L. 89–506, § 6, 80 Stat. 307; July 23, 1970, Pub. L. 91–350, § 1(c), 84 Stat. 449; restated May 4, 1977, Pub. L. 95–26, § 101(2d par. under heading “Claims and Judgments”), 91 Stat. 96; Mar. 7, 1978, Pub. L. 95–240, § 201, 92 Stat. 116; Nov. 1, 1978, Pub. L. 95–563, § 14(c), 92 Stat. 2390; Apr. 2, 1982, Pub. L. 97–164, title I, § 155, title III, § 302(c), 96 Stat. 47, 56. |
+| 1304(a) | 31:724a(1st sentence words before 1st proviso). | July 27, 1956, ch. 748, § 1302(1st sentence), 70 Stat. 694; Aug. 30, 1961, Pub. L. 87–187, § 3, 75 Stat. 416; July 18, 1966, Pub. L. 89–506, § 6, 80 Stat. 307; July 23, 1970, Pub. L. 91–350, § 1(c), 84 Stat. 449; restated May 4, 1977, Pub. L. 95–26, § 101(2d par. under heading “Claims and Judgments”), 91 Stat. 96; Mar. 7, 1978, Pub. L. 95–240, § 201, 92 Stat. 116; Nov. 1, 1978, Pub. L. 95–563, § 14(c), 92 Stat. 2390; Apr. 2, 1982, Pub. L. 97–164, title I, § 155, title III, § 302(c), 96 Stat. 47, 56. |
 | 1304(b) | 28:2516(b)(less 1st sentence words after last comma). |  |
 |  | 31:724a(1st sentence 1st, 2d provisos). |  |
 | 1304(c) | 31:724a(1st sentence last proviso) |  |
@@ -251,7 +251,7 @@ In subsection (b)(1)(A), the words “through the day before the date” are sub
 
 **References in Text**
 
-Section 2518 of title 28, referred to in subsec. (c)(1), was repealed by Pub. L. 97–164, title I, § 139(*l*), Apr. 2, 1982, 96 Stat. 43.
+Section 2518 of title 28, referred to in subsec. (c)(1), was repealed by Pub. L. 97–164, title I, § 139(*l*), Apr. 2, 1982, 96 Stat. 43.
 
 The date of enactment of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, referred to in subsec. (d), is the date of enactment of Pub. L. 116–9, which was approved Mar. 12, 2019.
 
@@ -267,9 +267,9 @@ Subsec. (d). Pub. L. 116–9 added subsec. (d).
 
 1992—Subsec. (b)(1)(B). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Subsec. (b)(1)(A). Pub. L. 97–258, § 2(m)(2)(A), struck out “under section 2411(b) of title 28” after “district court”.
+1982—Subsec. (b)(1)(A). Pub. L. 97–258, § 2(m)(2)(A), struck out “under section 2411(b) of title 28” after “district court”.
 
-Subsec. (b)(1)(B). Pub. L. 97–258, § 2(m)(2)(B), substituted “Court of Appeals for the Federal Circuit or the United States Claims Court” for “Court of Claims”.
+Subsec. (b)(1)(B). Pub. L. 97–258, § 2(m)(2)(B), substituted “Court of Appeals for the Federal Circuit or the United States Claims Court” for “Court of Claims”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -283,13 +283,13 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–258, § 2(m), Sept. 13, 1982, 96 Stat. 1062, provided that the amendment made by that section is effective Oct. 1, 1982.
+Pub. L. 97–258, § 2(m), Sept. 13, 1982, 96 Stat. 1062, provided that the amendment made by that section is effective Oct. 1, 1982.
 
 **Transfer of Functions**
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1305. Miscellaneous permanent appropriations
+### § 1305. Miscellaneous permanent appropriations
 
 Necessary amounts are appropriated for the following:
 
@@ -321,7 +321,7 @@ homeownership and rental housing assistance
 
 **(10)** to make payments required under contracts under sections 235 and 236, respectively, of the National Housing Act, as amended (12 U.S.C. 1715z, 1715z–1).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 918; Pub. L. 97–452, § 1(4), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–371, title I, § 101, July 18, 1984, 98 Stat. 1220.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 918; Pub. L. 97–452, § 1(4), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–371, title I, § 101, July 18, 1984, 98 Stat. 1220.)
 
 **Historical and Revision Notes**
 
@@ -329,7 +329,7 @@ homeownership and rental housing assistance
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1305 | 31:711(1)–(3), (11a)–(23). | R.S. § 3689(less last 3 pars. on p. 725 related to redemption of stamps, debentures and other charges, and debentures and drawbacks, 2d par. on p. 726 related to repayment of excess of deposits, 3d–7th pars. on p. 726 related to refunding duties on goods destroyed, marine hospital establishment, refunding duties, refunding proceeds of goods seized and sold, and refunding proceeds of unclaimed merchandise); June 20, 1874, ch. 328, § 4(less words between 1st and 2d semicolons), 18 Stat. 109; Mar. 3, 1875, ch. 129, § 1(6th par. 3d sentence under heading “War Department”), 18 Stat. 359; June 19, 1878, ch. 329, § 1(par. immediately before heading “Office of the Attorney General”), 20 Stat. 205; May 26, 1908, ch. 198, § 1(last par. on p. 295), 35 Stat. 295; June 25, 1910, ch. 384, § 8(words before semicolon), 36 Stat. 773; Oct. 18, 1972, Pub. L. 92–500, § 12(p), 86 Stat. 902; Aug. 22, 1974, Pub. L. 93–383, §§ 108(i), 117(a), 88 Stat. 649, 653; Oct. 12, 1977, Pub. L. 95–128, § 108(2), 91 Stat. 1123. |
+| 1305 | 31:711(1)–(3), (11a)–(23). | R.S. § 3689(less last 3 pars. on p. 725 related to redemption of stamps, debentures and other charges, and debentures and drawbacks, 2d par. on p. 726 related to repayment of excess of deposits, 3d–7th pars. on p. 726 related to refunding duties on goods destroyed, marine hospital establishment, refunding duties, refunding proceeds of goods seized and sold, and refunding proceeds of unclaimed merchandise); June 20, 1874, ch. 328, § 4(less words between 1st and 2d semicolons), 18 Stat. 109; Mar. 3, 1875, ch. 129, § 1(6th par. 3d sentence under heading “War Department”), 18 Stat. 359; June 19, 1878, ch. 329, § 1(par. immediately before heading “Office of the Attorney General”), 20 Stat. 205; May 26, 1908, ch. 198, § 1(last par. on p. 295), 35 Stat. 295; June 25, 1910, ch. 384, § 8(words before semicolon), 36 Stat. 773; Oct. 18, 1972, Pub. L. 92–500, § 12(p), 86 Stat. 902; Aug. 22, 1974, Pub. L. 93–383, §§ 108(i), 117(a), 88 Stat. 649, 653; Oct. 12, 1977, Pub. L. 95–128, § 108(2), 91 Stat. 1123. |
 
 In the section, the words “out of any moneys in the Treasury not otherwise appropriated” and “and such appropriations shall be deemed permanent annual appropriations” are omitted as surplus.
 
@@ -363,7 +363,7 @@ This amends 31:1305(6) to conform to the Smithsonian Institution charter as amen
 
 Section 103(b) of the Housing Act of 1949 (42 U.S.C. 1453(b)), referred to in par. (5), was omitted from the Code pursuant to section 5316 of Title 42, The Public Health and Welfare, which terminated the authority to make grants or loans under title I of that Act (42 U.S.C. 1450 et seq.) after Jan. 1, 1975.
 
-The Housing Act of 1950, referred to in par. (8), is act Apr. 20, 1950, ch. 94, 64 Stat. 48. Title IV of the Housing Act of 1950, which was classified generally to subchapter IX (§ 1749 et seq.) of chapter 13 of Title 12, Banks and Banking, was repealed by Pub. L. 99–498, title VII, § 702, Oct. 17, 1986, 100 Stat. 1545. For complete classification of this Act to the Code, see Short Title of 1950 Amendment note set out under section 1701 of Title 12 and Tables.
+The Housing Act of 1950, referred to in par. (8), is act Apr. 20, 1950, ch. 94, 64 Stat. 48. Title IV of the Housing Act of 1950, which was classified generally to subchapter IX (§ 1749 et seq.) of chapter 13 of Title 12, Banks and Banking, was repealed by Pub. L. 99–498, title VII, § 702, Oct. 17, 1986, 100 Stat. 1545. For complete classification of this Act to the Code, see Short Title of 1950 Amendment note set out under section 1701 of Title 12 and Tables.
 
 Section 101 of the Housing and Urban Development Act of 1965, referred to in par. (9), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted section 1701s of Title 12, and amended sections 1451 and 1465 of this title.
 
@@ -375,19 +375,19 @@ Section 101 of the Housing and Urban Development Act of 1965, referred to in par
 
 1983—Par. (6). Pub. L. 97–452 substituted provisions relating to payment of the interest on the fund derived from the bequest of James Smithson, for the construction of buildings and the expenses of the Smithsonian Institution, at rates determined under section 5590 of the Revised Statutes, for provisions relating to payment for construction of buildings and expenses of the Smithsonian Institution, at 6 percent on the fund derived from the bequest of James Smithson.
 
-### § 1306. Use of foreign credits
+### § 1306. Use of foreign credits
 
 **(a) In General.—** Foreign credits (including currencies) owed to or owned by the United States may be used by any agency for any purpose for which appropriations are made for the agency for the current fiscal year (including the carrying out of Acts requiring or authorizing the use of such credits), but only when reimbursement therefor is made to the Treasury from applicable appropriations of the agency.
 
 **(b) Exception to Reimbursement Requirement.—** Credits described in subsection (a) that are received as exchanged allowances, or as the proceeds of the sale of personal property, may be used in whole or partial payment for the acquisition of similar items, to the extent and in the manner authorized by law, without reimbursement to the Treasury.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 918; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 612(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–355.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 918; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 612(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–355.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1306 | 31:724. | July 15, 1952, ch. 758, § 1415, 66 Stat. 662. |
+| 1306 | 31:724. | July 15, 1952, ch. 758, § 1415, 66 Stat. 662. |
 
 The words “are not available for expenditure by agencies except as provided annually in general appropriation laws” are substituted for “will not be available for expenditure by agencies of the United States after June 30, 1953, except as may be provided for annually in appropriation Acts” because of section 101 of the revised title.
 
@@ -401,19 +401,19 @@ The words “are not available for expenditure by agencies except as provided an
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 612(b)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–356, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Sept. 30, 1996] and shall apply thereafter.”
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 612(b)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–356, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Sept. 30, 1996] and shall apply thereafter.”
 
 **Appropriations of Excess Currencies**
 
-Pub. L. 102–391, title V, § 566, Oct. 6, 1992, 106 Stat. 1680, provided that: “The provisions of section 1306 of title 31, United States Code, shall not be waived to carry out the provisions of the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.] by any provision of law enacted after the date of enactment of this Act [Oct. 6, 1992] unless such provision makes specific reference to this section.”
+Pub. L. 102–391, title V, § 566, Oct. 6, 1992, 106 Stat. 1680, provided that: “The provisions of section 1306 of title 31, United States Code, shall not be waived to carry out the provisions of the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.] by any provision of law enacted after the date of enactment of this Act [Oct. 6, 1992] unless such provision makes specific reference to this section.”
 
 Similar provisions were contained in the following prior appropriations acts:
 
-Pub. L. 101–513, title V, § 570, Nov. 5, 1990, 104 Stat. 2041.
+Pub. L. 101–513, title V, § 570, Nov. 5, 1990, 104 Stat. 2041.
 
-Pub. L. 101–167, title V, § 583, Nov. 21, 1989, 103 Stat. 1251.
+Pub. L. 101–167, title V, § 583, Nov. 21, 1989, 103 Stat. 1251.
 
-### § 1307. Public building construction
+### § 1307. Public building construction
 
 Amounts appropriated to construct public buildings remain available until completion of the work. When a building is completed and outstanding liabilities for the construction are paid, balances remaining shall revert immediately to the Treasury.
 
@@ -423,11 +423,11 @@ Amounts appropriated to construct public buildings remain available until comple
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1307 | 31:682. | June 23, 1874, ch. 476, § 1, 18 Stat. 275. |
+| 1307 | 31:682. | June 23, 1874, ch. 476, § 1, 18 Stat. 275. |
 
 The words before the proviso in the Act of June 23, 1874 (ch. 476, 18 Stat. 275), are omitted as obsolete.
 
-### § 1308. Telephone and metered services
+### § 1308. Telephone and metered services
 
 Charges for telephone and metered services (such as gas, electricity, water, and steam) for a time period beginning in one fiscal year or allotment period and ending in another fiscal year or allotment period may be charged against the appropriation or allotment current at the end of the time period covered by the service.
 
@@ -439,19 +439,19 @@ Charges for telephone and metered services (such as gas, electricity, water, and
 |---|---|---|
 | 1308 | 31:668a. | Apr. 27, 1937, ch. 143, 50 Stat. 119; restated Apr. 26, 1939, ch. 103, 53 Stat. 624. |
 
-The words “On and after April 27, 1937” are omitted as executed. The words “Charges for telephone and metered services” are substituted for “in making payments for commodities or services the quantity of which is determined by metered readings . . . and for telephone services” to eliminate unnecessary words. The words “another fiscal year or allotment period” are substituted for “another”, and the words “time period covered by the service” are substituted for “such period”, for clarity.
+The words “On and after April 27, 1937” are omitted as executed. The words “Charges for telephone and metered services” are substituted for “in making payments for commodities or services the quantity of which is determined by metered readings . . . and for telephone services” to eliminate unnecessary words. The words “another fiscal year or allotment period” are substituted for “another”, and the words “time period covered by the service” are substituted for “such period”, for clarity.
 
-### § 1309. Social security tax
+### § 1309. Social security tax
 
 Amounts made available for the compensation of officers and employees of the United States Government may be used to pay taxes imposed on an agency as an employer under chapter 21 of the Internal Revenue Code of 1986 (26 U.S.C. 3101 et seq.).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 919; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 919; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1309 | 31:699a. | July 15, 1952, ch. 758, § 1410, 66 Stat. 661. |
+| 1309 | 31:699a. | July 15, 1952, ch. 758, § 1410, 66 Stat. 661. |
 
 The word “Amounts” is substituted for “Appropriations and funds” to eliminate unnecessary words. The words “salaries, wages, or” are omitted as being included in “compensation”.
 
@@ -461,7 +461,7 @@ The word “Amounts” is substituted for “Appropriations and funds” to elim
 
 1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-### § 1310. Appropriations for private organizations
+### § 1310. Appropriations for private organizations
 
 **(a)** The Secretary of the Treasury shall credit an appropriation for a private organization to the appropriate fiscal official of the organization. The credit shall be carried on the accounts of—
 
@@ -491,7 +491,7 @@ The word “Amounts” is substituted for “Appropriations and funds” to elim
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1310(a) | 31:721(words before 14th comma). | June 23, 1874, ch. 455, § 1(par. immediately before heading “Smithsonian Institution”), 18 Stat. 216. |
+| 1310(a) | 31:721(words before 14th comma). | June 23, 1874, ch. 455, § 1(par. immediately before heading “Smithsonian Institution”), 18 Stat. 216. |
 | 1310(b) | 31:721(words between 14th comma and proviso). |  |
 | 1310(c) | 31:721(proviso). |  |
 
@@ -507,7 +507,7 @@ In subsection (c)(2), the word “Secretary” is substituted for “Treasurer�
 
 ## SUBCHAPTER II—TRUST FUNDS AND REFUNDS
 
-### § 1321. Trust funds
+### § 1321. Trust funds
 
 **(a)** The following are classified as trust funds:
 
@@ -671,7 +671,7 @@ In subsection (c)(2), the word “Secretary” is substituted for “Treasurer�
 
 **(80)** To promote the education of the blind (interest).
 
-**[(81)** Repealed. Pub. L. 101–510, div. A, title XV, § 1533(c)(1)(A)(ii), Nov. 5, 1990, 104 Stat. 1735.]
+**[(81)** Repealed. Pub. L. 101–510, div. A, title XV, § 1533(c)(1)(A)(ii), Nov. 5, 1990, 104 Stat. 1735.]
 
 **(82)** Post-Vietnam Era Veterans Education Account, Department of Veterans Affairs.
 
@@ -707,13 +707,13 @@ In subsection (c)(2), the word “Secretary” is substituted for “Treasurer�
 
 **(D)** Fisher House Trust Fund, Department of the Navy.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 919; Pub. L. 98–426, § 27(d)(2), Sept. 28, 1984, 98 Stat. 1654; Pub. L. 101–189, div. A, title III, § 341(a), Nov. 29, 1989, 103 Stat. 1419; Pub. L. 101–510, div. A, title XV, § 1533(c)(1), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–54, § 13(*l*)(1), June 13, 1991, 105 Stat. 277; Pub. L. 103–322, title XXXI, § 310001(d), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 104–106, div. A, title IX, § 914(c), Feb. 10, 1996, 110 Stat. 413; Pub. L. 104–201, div. A, title X, § 1008(c), Sept. 23, 1996, 110 Stat. 2633; Pub. L. 105–261, div. A, title IX, § 906(f)(2), Oct. 17, 1998, 112 Stat. 2096; Pub. L. 108–199, div. B, title VI, § 633(f), Jan. 23, 2004, 118 Stat. 101.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 919; Pub. L. 98–426, § 27(d)(2), Sept. 28, 1984, 98 Stat. 1654; Pub. L. 101–189, div. A, title III, § 341(a), Nov. 29, 1989, 103 Stat. 1419; Pub. L. 101–510, div. A, title XV, § 1533(c)(1), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–54, § 13(*l*)(1), June 13, 1991, 105 Stat. 277; Pub. L. 103–322, title XXXI, § 310001(d), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 104–106, div. A, title IX, § 914(c), Feb. 10, 1996, 110 Stat. 413; Pub. L. 104–201, div. A, title X, § 1008(c), Sept. 23, 1996, 110 Stat. 2633; Pub. L. 105–261, div. A, title IX, § 906(f)(2), Oct. 17, 1998, 112 Stat. 2096; Pub. L. 108–199, div. B, title VI, § 633(f), Jan. 23, 2004, 118 Stat. 101.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1321(a) | 31:725s(a)(1st sentence, cls. (1)–(84)), (c). | June 26, 1934, ch. 756, § 20(less (a)(last sentence last proviso)), 48 Stat. 1233; June 15, 1943, ch. 125, §§ 1(a), 2(a), 57 Stat. 152, 153; Oct. 15, 1976, Pub. L. 94–502, § 407, 90 Stat. 2397. |
+| 1321(a) | 31:725s(a)(1st sentence, cls. (1)–(84)), (c). | June 26, 1934, ch. 756, § 20(less (a)(last sentence last proviso)), 48 Stat. 1233; June 15, 1943, ch. 125, §§ 1(a), 2(a), 57 Stat. 152, 153; Oct. 15, 1976, Pub. L. 94–502, § 407, 90 Stat. 2397. |
 | 1321(b) | 31:725s(a)(2d sentence, last sentence 1st, 2d provisos). |  |
 
 In the section, the cross-references to subsection (b) in the source provisions being restated are assumed to be references to clauses (1)–(84) of subsection (a) because the source provisions contain no subsection (b).
@@ -726,13 +726,13 @@ In subsection (b), the words “effective July 1, 1935” and the 2d proviso are
 
 **References in Text**
 
-The Longshore and Harbor Workers’ Compensation Act, referred to in subsec. (a)(12), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
+The Longshore and Harbor Workers’ Compensation Act, referred to in subsec. (a)(12), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
 
 The International Boundary Commission, United States and Mexico, referred to in subsec. (a)(41), was redesignated the International Boundary and Water Commission, United States and Mexico, by the Water Treaty of 1944.
 
-The National Capital Park and Planning Commission, referred to in subsec. (a)(53), was abolished and its functions transferred to the National Capital Planning Commission by section 9 of act June 6, 1924, ch. 270, as added by act July 19, 1952, ch. 949, § 1, 66 Stat. 790, which was classified to section 71h of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as section 8711(f) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+The National Capital Park and Planning Commission, referred to in subsec. (a)(53), was abolished and its functions transferred to the National Capital Planning Commission by section 9 of act June 6, 1924, ch. 270, as added by act July 19, 1952, ch. 949, § 1, 66 Stat. 790, which was classified to section 71h of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as section 8711(f) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 
-The Rock Creek and Potomac Parkway Commission, referred to in subsec. (a)(54), was abolished and its functions transferred to the Office of National Parks, Buildings, and Reservations, Department of the Interior, by Ex. Ord. No. 6166, § 2, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees. The name of the Office of National Parks, Buildings, and Reservations was changed to the “National Park Service” by act March 2, 1934, ch. 38, 48 Stat. 389.
+The Rock Creek and Potomac Parkway Commission, referred to in subsec. (a)(54), was abolished and its functions transferred to the Office of National Parks, Buildings, and Reservations, Department of the Interior, by Ex. Ord. No. 6166, § 2, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees. The name of the Office of National Parks, Buildings, and Reservations was changed to the “National Park Service” by act March 2, 1934, ch. 38, 48 Stat. 389.
 
 The District of Columbia Workmen’s Compensation Act, referred to in subsec. (a)(57), probably means the District of Columbia Unemployment Compensation Act, act Aug. 28, 1935, ch. 794, 49 Stat. 946, which is not classified to the Code.
 
@@ -748,23 +748,23 @@ The District of Columbia Workmen’s Compensation Act, referred to in subsec. (a
 
 “(94) Fisher House Trust Fund, Department of the Navy.”
 
-1996—Subsec. (a)(92), (93). Pub. L. 104–106, § 914(c)(1), added pars. (92) and (93).
+1996—Subsec. (a)(92), (93). Pub. L. 104–106, § 914(c)(1), added pars. (92) and (93).
 
-Subsec. (a)(94). Pub. L. 104–201, § 1008(c)(1), added par. (94).
+Subsec. (a)(94). Pub. L. 104–201, § 1008(c)(1), added par. (94).
 
-Subsec. (b). Pub. L. 104–106, § 914(c)(2), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), amounts accruing to these funds” for “Amounts accruing to these funds (except to the trust fund ‘Armed Forces Retirement Home Trust Fund’)”, struck out “Expenditures from the trust fund ‘Armed Forces Retirement Home Trust Fund’ shall be made only under annual appropriations and only if the appropriations are specifically authorized by law.” after second sentence, and added par. (2).
+Subsec. (b). Pub. L. 104–106, § 914(c)(2), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), amounts accruing to these funds” for “Amounts accruing to these funds (except to the trust fund ‘Armed Forces Retirement Home Trust Fund’)”, struck out “Expenditures from the trust fund ‘Armed Forces Retirement Home Trust Fund’ shall be made only under annual appropriations and only if the appropriations are specifically authorized by law.” after second sentence, and added par. (2).
 
-Subsec. (b)(2)(D). Pub. L. 104–201, § 1008(c)(2), added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 104–201, § 1008(c)(2), added subpar. (D).
 
 1994—Subsec. (a)(91). Pub. L. 103–322 added par. (91).
 
 1991—Subsec. (a)(45), (74), (82), (83). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”, wherever appearing.
 
-1990—Subsec. (a)(5). Pub. L. 101–510, § 1533(c)(1)(A)(i), substituted “Armed Forces Retirement Home Trust Fund” for “Personal funds of deceased inmates, Naval Home”.
+1990—Subsec. (a)(5). Pub. L. 101–510, § 1533(c)(1)(A)(i), substituted “Armed Forces Retirement Home Trust Fund” for “Personal funds of deceased inmates, Naval Home”.
 
-Subsec. (a)(59), (81). Pub. L. 101–510, § 1533(c)(1)(A)(ii), struck out pars. (59) “Soldiers’ Home, permanent fund.” and (81) “Soldiers’ Home, interest account.”
+Subsec. (a)(59), (81). Pub. L. 101–510, § 1533(c)(1)(A)(ii), struck out pars. (59) “Soldiers’ Home, permanent fund.” and (81) “Soldiers’ Home, interest account.”
 
-Subsec. (b). Pub. L. 101–510, § 1533(c)(1)(B), substituted “Armed Forces Retirement Home Trust Fund” for “Soldiers’ Home, Permanent Fund” in two places.
+Subsec. (b). Pub. L. 101–510, § 1533(c)(1)(B), substituted “Armed Forces Retirement Home Trust Fund” for “Soldiers’ Home, Permanent Fund” in two places.
 
 1989—Subsec. (b). Pub. L. 101–189 substituted “annual appropriations and only if the appropriations are specifically authorized by law.” for “annual appropriations. Those appropriations are authorized to be made.”
 
@@ -774,11 +774,11 @@ Subsec. (b). Pub. L. 101–510, § 1533(c)(1)(B), substituted “Armed Forces 
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. A, title IX, § 906(f)(3), Oct. 17, 1998, 112 Stat. 2096, provided that: “The amendments made by this subsection [amending this section and repealing section 2221 of Title 10, Armed Forces] shall take effect 90 days after the date of the enactment of this Act [Oct. 17, 1998].”
+Pub. L. 105–261, div. A, title IX, § 906(f)(3), Oct. 17, 1998, 112 Stat. 2096, provided that: “The amendments made by this subsection [amending this section and repealing section 2221 of Title 10, Armed Forces] shall take effect 90 days after the date of the enactment of this Act [Oct. 17, 1998].”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–189, div. A, title III, § 341(b), Nov. 29, 1989, 103 Stat. 1419, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to appropriations for the operation of the United States Soldiers’ and Airmen’s Home [now Armed Forces Retirement Home—Washington] made for fiscal years after fiscal year 1990.”
+Pub. L. 101–189, div. A, title III, § 341(b), Nov. 29, 1989, 103 Stat. 1419, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to appropriations for the operation of the United States Soldiers’ and Airmen’s Home [now Armed Forces Retirement Home—Washington] made for fiscal years after fiscal year 1990.”
 
 **Effective Date of 1984 Amendment**
 
@@ -792,7 +792,7 @@ Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2533, provided in p
 
 Section 725s of former Title 31 (now this section) was modified by act June 25, 1936, ch. 814, 49 Stat. 1928, providing that it shall not be applicable to funds held in trust for individual Indians, associations of individual Indians, or for Indian corporations chartered under sections 5101 to 5103, 5107 to 5113, 5115, 5116, 5118, 5120, 5121, 5123 to 5125, and 5129 of Title 25, Indians.
 
-### § 1322. Payments of unclaimed trust fund amounts and refund of amounts erroneously deposited
+### § 1322. Payments of unclaimed trust fund amounts and refund of amounts erroneously deposited
 
 **(a)** On September 30 of each year, the Secretary of the Treasury shall transfer to the Treasury trust fund receipt account “Unclaimed Moneys of Individuals Whose Whereabouts are Unknown” that part of the balance of a trust fund account named in section 1321(a)(1)–(82) of this title or an analogous trust fund established under section 1321(b) of this title that has been in the fund for more than one year and represents money belonging to individuals whose whereabouts are unknown. Subsequent claims to the transferred funds shall be paid from the account “Unclaimed Moneys of Individuals Whose Whereabouts are Unknown”.
 
@@ -812,28 +812,28 @@ Section 725s of former Title 31 (now this section) was modified by act June 25, 
 
 **(4)** The United States Postal Service shall assist the Secretary of the Treasury in providing public notice of the time limitation set forth in paragraph (3) of this subsection by posting notices thereof in all post offices as soon as practicable after the date of the enactment of the Postal Savings System Statute of Limitations Act.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 922; Pub. L. 98–359, § 2, July 13, 1984, 98 Stat. 402.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 922; Pub. L. 98–359, § 2, July 13, 1984, 98 Stat. 402.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1322(a) | 31:725s(a)(last sentence last proviso). | June 26, 1934, ch. 756, § 20(a)(last sentence last proviso), 48 Stat. 1233; Apr. 21, 1976, Pub. L. 94–273, § 2(16), 90 Stat. 375. |
-| 1322(b) | 31:725p–1. | June 30, 1949, ch. 286, § 101(par. under heading “Payments of Unclaimed Moneys”), 63 Stat. 359. |
-|  | 31:725q–1. | June 30, 1949, ch. 286, § 101(par. under heading “Refund of Moneys Erroneously Received and Covered”), 63 Stat. 358. |
+| 1322(a) | 31:725s(a)(last sentence last proviso). | June 26, 1934, ch. 756, § 20(a)(last sentence last proviso), 48 Stat. 1233; Apr. 21, 1976, Pub. L. 94–273, § 2(16), 90 Stat. 375. |
+| 1322(b) | 31:725p–1. | June 30, 1949, ch. 286, § 101(par. under heading “Payments of Unclaimed Moneys”), 63 Stat. 359. |
+|  | 31:725q–1. | June 30, 1949, ch. 286, § 101(par. under heading “Refund of Moneys Erroneously Received and Covered”), 63 Stat. 358. |
 | 1322(c) | 31:725p(note). | Aug. 13, 1971, Pub. L. 92–117, 85 Stat. 337. |
 
 In subsection (a), the words “directed to be established in section 725p of this title” are omitted as surplus.
 
-In subsection (b), before clause (1), the words “Secretary of the Treasury” are substituted for “Treasury Department” for consistency. The words “out of any money in the Treasury not otherwise appropriated” in 31:725q–1 are omitted as surplus. In clause (1), the words “of the character formerly chargeable to the appropriation accounts abolished under section 725p of this title” in 31:725p–1 are omitted as unnecessary because of the restatement. In clause (2), the words “United States Government account ‘Refund of Moneys Erroneously Received and Covered’ ” are substituted for “of the character formerly chargeable to the appropriation accounts abolished under section 725q of this title” in 31:725q–1 for clarity and to eliminate unnecessary words.
+In subsection (b), before clause (1), the words “Secretary of the Treasury” are substituted for “Treasury Department” for consistency. The words “out of any money in the Treasury not otherwise appropriated” in 31:725q–1 are omitted as surplus. In clause (1), the words “of the character formerly chargeable to the appropriation accounts abolished under section 725p of this title” in 31:725p–1 are omitted as unnecessary because of the restatement. In clause (2), the words “United States Government account ‘Refund of Moneys Erroneously Received and Covered’ ” are substituted for “of the character formerly chargeable to the appropriation accounts abolished under section 725q of this title” in 31:725q–1 for clarity and to eliminate unnecessary words.
 
-In subsection (c)(1), the words “claims for . . . deposits” are substituted for “claims by or on behalf of depositors” to eliminate unnecessary words. The text of section 1(a) of the Act of August 13, 1971 (Pub. L. 92–117, 85 Stat. 337), is omitted as executed.
+In subsection (c)(1), the words “claims for . . . deposits” are substituted for “claims by or on behalf of depositors” to eliminate unnecessary words. The text of section 1(a) of the Act of August 13, 1971 (Pub. L. 92–117, 85 Stat. 337), is omitted as executed.
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsection (a) of the first section of the Act of August 13, 1971 (Public Law 92–117; 85 Stat. 337), referred to in subsec. (c)(1), was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1081.
+Subsection (a) of the first section of the Act of August 13, 1971 (Public Law 92–117; 85 Stat. 337), referred to in subsec. (c)(1), was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1081.
 
 The date of the enactment of the Postal Savings System Statute of Limitations Act, referred to in subsec. (c)(3) and (4), is the date of enactment of Pub. L. 98–359, which was approved July 13, 1984.
 
@@ -845,7 +845,7 @@ Subsec. (c)(2). Pub. L. 98–359 substituted reference to par. (3) of this subse
 
 Subsec. (c)(3), (4). Pub. L. 98–359 added pars. (3) and (4).
 
-### § 1323. Trust funds for certain fees, donations, quasi-public amounts, and unearned amounts
+### § 1323. Trust funds for certain fees, donations, quasi-public amounts, and unearned amounts
 
 **(a)** Amounts from the following sources held in checking accounts of disbursing officials shall be deposited in the Treasury to the appropriate trust fund receipt accounts:
 
@@ -871,7 +871,7 @@ Subsec. (c)(3), (4). Pub. L. 98–359 added pars. (3) and (4).
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1323(a), (b) | 31:725r(less proviso). | June 26, 1934, ch. 756, § 19, 48 Stat. 1232; Dec. 21, 1944, ch. 631, § 2, 58 Stat. 845. |
+| 1323(a), (b) | 31:725r(less proviso). | June 26, 1934, ch. 756, § 19, 48 Stat. 1232; Dec. 21, 1944, ch. 631, § 2, 58 Stat. 845. |
 | 1323(c) | 31:725r(proviso). |  |
 
 In subsection (a), before clause (1), the words “Effective July 1, 1935” are omitted as executed. In clauses (2)–(4), the words “Department of Justice” are substituted for “Labor Department” (subsequently changed to “Justice Department” because of Reorganization Plan No. 5 of 1940 (eff. June 14, 1940, 54 Stat. 1238)) for consistency with title 28.
@@ -880,7 +880,7 @@ The words related to Patent Office (subsequently changed to Patent and Trademark
 
 In subsection (c), the words “officers and employees of the United States Government” are substituted for “officers of the United States by virtue of their official capacity” for consistency and to eliminate unnecessary words.
 
-### § 1324. Refund of internal revenue collections
+### § 1324. Refund of internal revenue collections
 
 **(a)** Necessary amounts are appropriated to the Secretary of the Treasury for refunding internal revenue collections as provided by law, including payment of—
 
@@ -904,26 +904,26 @@ In subsection (c), the words “officers and employees of the United States Gove
 
 **(2)** refunds due from credit provisions of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 21, 24, 25A, 35, 36, 36A,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 36B, 168(k)(4)(F), 53(e),1 54B(h),1 3131, 3132, 3134, 6428, 6428A, 6428B, 6431,1 or 7527A of such Code, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–34, title I, § 101(d)(1), Aug. 5, 1997, 111 Stat. 799; Pub. L. 107–210, div. A, title II, § 201(c)(1), Aug. 6, 2002, 116 Stat. 960; Pub. L. 109–432, div. A, title IV, § 402(b)(2), Dec. 20, 2006, 120 Stat. 2954; Pub. L. 110–185, title I, § 101(f)(1), Feb. 13, 2008, 122 Stat. 617; Pub. L. 110–234, title XV, § 15316(c)(6), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, § 4(a), title XV, § 15316(c)(6), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title I, § 3011(b)(3), title III, § 3081(c), July 30, 2008, 122 Stat. 2891, 2906; Pub. L. 111–5, div. B, title I, §§ 1001(e)(2), 1004(b)(8), 1531(c)(1), Feb. 17, 2009, 123 Stat. 312, 314, 360; Pub. L. 111–148, title I, § 1401(d)(1), title X, § 10909(b)(2)(P), (c), Mar. 23, 2010, 124 Stat. 220, 1023; Pub. L. 111–312, title I, § 101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 113–295, div. A, title II, § 221(a)(112)(D), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 116–136, div. A, title II, § 2201(g)(1), Mar. 27, 2020, 134 Stat. 339; Pub. L. 116–260, div. N, title II, § 272(g)(1), Dec. 27, 2020, 134 Stat. 1976; Pub. L. 117–2, title IX, §§ 9601(c)(3)(A), 9611(b)(4)(C), 9631(c)(2), 9641(b), 9651(b), Mar. 11, 2021, 135 Stat. 143, 150, 160, 171, 182; Pub. L. 117–328, div. T, title I, § 103(d), Dec. 29, 2022, 136 Stat. 5285.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–34, title I, § 101(d)(1), Aug. 5, 1997, 111 Stat. 799; Pub. L. 107–210, div. A, title II, § 201(c)(1), Aug. 6, 2002, 116 Stat. 960; Pub. L. 109–432, div. A, title IV, § 402(b)(2), Dec. 20, 2006, 120 Stat. 2954; Pub. L. 110–185, title I, § 101(f)(1), Feb. 13, 2008, 122 Stat. 617; Pub. L. 110–234, title XV, § 15316(c)(6), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, § 4(a), title XV, § 15316(c)(6), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title I, § 3011(b)(3), title III, § 3081(c), July 30, 2008, 122 Stat. 2891, 2906; Pub. L. 111–5, div. B, title I, §§ 1001(e)(2), 1004(b)(8), 1531(c)(1), Feb. 17, 2009, 123 Stat. 312, 314, 360; Pub. L. 111–148, title I, § 1401(d)(1), title X, § 10909(b)(2)(P), (c), Mar. 23, 2010, 124 Stat. 220, 1023; Pub. L. 111–312, title I, § 101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 113–295, div. A, title II, § 221(a)(112)(D), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 116–136, div. A, title II, § 2201(g)(1), Mar. 27, 2020, 134 Stat. 339; Pub. L. 116–260, div. N, title II, § 272(g)(1), Dec. 27, 2020, 134 Stat. 1976; Pub. L. 117–2, title IX, §§ 9601(c)(3)(A), 9611(b)(4)(C), 9631(c)(2), 9641(b), 9651(b), Mar. 11, 2021, 135 Stat. 143, 150, 160, 171, 182; Pub. L. 117–328, div. T, title I, § 103(d), Dec. 29, 2022, 136 Stat. 5285.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1324(a) | 31:725q–1a(1st par.). | June 19, 1948, ch. 558, § 101(words before proviso in par. under heading “Bureau of Internal Revenue”), 62 Stat. 561. |
-| 1324(b) | 31:725q–1a(last par.). | June 19, 1948, ch. 558, 62 Stat. 560, § 302(last par); added Sept. 8, 1978, Pub. L. 95–355, § 303, 92 Stat. 563. |
+| 1324(a) | 31:725q–1a(1st par.). | June 19, 1948, ch. 558, § 101(words before proviso in par. under heading “Bureau of Internal Revenue”), 62 Stat. 561. |
+| 1324(b) | 31:725q–1a(last par.). | June 19, 1948, ch. 558, 62 Stat. 560, § 302(last par); added Sept. 8, 1978, Pub. L. 95–355, § 303, 92 Stat. 563. |
 
 In subsection (a), the words “Necessary amounts are appropriated to the Secretary of the Treasury” are added to reflect the introductory language of the Act of June 19, 1948. The words “on and after June 19, 1948” are omitted as executed.
 
-In subsection (b), the words “appropriation made by this section” are substituted for “the appropriation to the Treasury Department entitled ‘Bureau of Internal Revenue Refunding Internal-Revenue Collections’ ” to eliminate unnecessary words.
+In subsection (b), the words “appropriation made by this section” are substituted for “the appropriation to the Treasury Department entitled ‘Bureau of Internal Revenue Refunding Internal-Revenue Collections’ ” to eliminate unnecessary words.
 
 **Amendment of Subsection (b)(2)**
 
-Pub. L. 117–328, div. T, title I, § 103(d), (f), Dec. 29, 2022, 136 Stat. 5285, 5286, provided that, applicable to taxable years beginning after Dec. 31, 2026, subsection (b)(2) of this section is amended by striking “or 7527A” and inserting “7527A, or 6433”. See 2022 Amendment note below.
+Pub. L. 117–328, div. T, title I, § 103(d), (f), Dec. 29, 2022, 136 Stat. 5285, 5286, provided that, applicable to taxable years beginning after Dec. 31, 2026, subsection (b)(2) of this section is amended by striking “or 7527A” and inserting “7527A, or 6433”. See 2022 Amendment note below.
 
 **Editorial Notes**
 
@@ -933,7 +933,7 @@ Act of March 30, 1928, referred to in subsec. (a)(2)(C), is act Mar. 30, 1928, c
 
 The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is Pub. L. 105–34, Aug. 5, 1997, 111 Stat. 788. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
-Sections 21, 24, 25A, 35, 36, 36A, 36B, 168, 53, 54B, 3131, 3132, 3134, 6428, 6428A, 6428B, 6431, and 7527A of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), are classified to sections 21, 24, 25A, 35, 36, 36A, 36B, 168, 53, 54B, 3131, 3132, 3134, 6428, 6428A, 6428B, 6431, and 7527A, respectively, of Title 26, Internal Revenue Code. Section 36A of Title 26 was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(5)(A), Dec. 19, 2014, 128 Stat. 4037. Subsec. (e) of section 53 of Title 26, which related to a special rule for individuals with long-term unused credits, was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(8)(A)(i), Dec. 19, 2014, 128 Stat. 4038. Sections 54B and 6431 of Title 26 were repealed by Pub. L. 115–97, title I, § 13404(a), Dec. 22, 2017, 131 Stat. 2138.
+Sections 21, 24, 25A, 35, 36, 36A, 36B, 168, 53, 54B, 3131, 3132, 3134, 6428, 6428A, 6428B, 6431, and 7527A of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), are classified to sections 21, 24, 25A, 35, 36, 36A, 36B, 168, 53, 54B, 3131, 3132, 3134, 6428, 6428A, 6428B, 6431, and 7527A, respectively, of Title 26, Internal Revenue Code. Section 36A of Title 26 was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(5)(A), Dec. 19, 2014, 128 Stat. 4037. Subsec. (e) of section 53 of Title 26, which related to a special rule for individuals with long-term unused credits, was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(8)(A)(i), Dec. 19, 2014, 128 Stat. 4038. Sections 54B and 6431 of Title 26 were repealed by Pub. L. 115–97, title I, § 13404(a), Dec. 22, 2017, 131 Stat. 2138.
 
 Section 3081(b)(2) of the Housing Assistance Tax Act of 2008, referred to in subsec. (b)(2), is section 3081(b)(2) of Pub. L. 110–289, div. C, title III, July 30, 2008, 122 Stat. 2906, which is not classified to the Code.
 
@@ -945,15 +945,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2022—Subsec. (b)(2). Pub. L. 117–328 substituted “7527A, or 6433” for “or 7527A”.
 
-2021—Subsec. (b)(2). Pub. L. 117–2, § 9651(b), inserted “3134,” before “6428”.
+2021—Subsec. (b)(2). Pub. L. 117–2, § 9651(b), inserted “3134,” before “6428”.
 
-Pub. L. 117–2, § 9641(b), inserted “3131, 3132,” before “6428”.
+Pub. L. 117–2, § 9641(b), inserted “3131, 3132,” before “6428”.
 
-Pub. L. 117–2, § 9631(c)(2), inserted “21,” before “24”.
+Pub. L. 117–2, § 9631(c)(2), inserted “21,” before “24”.
 
-Pub. L. 117–2, § 9611(b)(4)(C), inserted “24,” before “25A” and substituted “6431, or 7527A” for “or 6431”.
+Pub. L. 117–2, § 9611(b)(4)(C), inserted “24,” before “25A” and substituted “6431, or 7527A” for “or 6431”.
 
-Pub. L. 117–2, § 9601(c)(3)(A), inserted “6428B,” after “6428A,”.
+Pub. L. 117–2, § 9601(c)(3)(A), inserted “6428B,” after “6428A,”.
 
 2020—Subsec. (b)(2). Pub. L. 116–260 inserted “6428A,” after “6428,”.
 
@@ -961,29 +961,29 @@ Pub. L. 116–136 inserted “6428,” after “54B(h),”.
 
 2014—Subsec. (b)(2). Pub. L. 113–295 substituted “or 6431” for “6428, or 6431,”.
 
-2010—Subsec. (b)(2). Pub. L. 111–148, § 10909(b)(2)(P), (c), as amended by Pub. L. 111–312, temporarily inserted “36C,” after “36B,”. See Effective and Termination Dates of 2010 Amendment note below.
+2010—Subsec. (b)(2). Pub. L. 111–148, § 10909(b)(2)(P), (c), as amended by Pub. L. 111–312, temporarily inserted “36C,” after “36B,”. See Effective and Termination Dates of 2010 Amendment note below.
 
-Pub. L. 111–148, § 1401(d)(1), inserted “36B,” after “36A,”.
+Pub. L. 111–148, § 1401(d)(1), inserted “36B,” after “36A,”.
 
-2009—Subsec. (b)(2). Pub. L. 111–5, § 1531(c)(1), substituted “6428, or 6431,” for “or 6428”.
+2009—Subsec. (b)(2). Pub. L. 111–5, § 1531(c)(1), substituted “6428, or 6431,” for “or 6428”.
 
-Pub. L. 111–5, § 1004(b)(8), inserted “25A,” after “section”.
+Pub. L. 111–5, § 1004(b)(8), inserted “25A,” after “section”.
 
-Pub. L. 111–5, § 1001(e)(2), inserted “36A,” after “36,”.
+Pub. L. 111–5, § 1001(e)(2), inserted “36A,” after “36,”.
 
-2008—Subsec. (b)(2). Pub. L. 110–289, § 3081(c), inserted “168(k)(4)(F),” after “36,” and “, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008” before period at end.
+2008—Subsec. (b)(2). Pub. L. 110–289, § 3081(c), inserted “168(k)(4)(F),” after “36,” and “, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008” before period at end.
 
-Pub. L. 110–289, § 3011(b)(3), inserted “36,” after “35,”.
+Pub. L. 110–289, § 3011(b)(3), inserted “36,” after “35,”.
 
-Pub. L. 110–246, § 15316(c)(6), substituted “, 53(e), 54B(h), or 6428” for “or 6428 or 53(e)”.
+Pub. L. 110–246, § 15316(c)(6), substituted “, 53(e), 54B(h), or 6428” for “or 6428 or 53(e)”.
 
 Pub. L. 110–185 inserted “or 6428” after “section 35”.
 
 2006—Subsec. (b)(2). Pub. L. 109–432 inserted “or 53(e)” after “section 35”.
 
-2002—Subsec. (b)(2). Pub. L. 107–210 inserted “, or from section 35 of such Code” before period at end.
+2002—Subsec. (b)(2). Pub. L. 107–210 inserted “, or from section 35 of such Code” before period at end.
 
-1997—Subsec. (b)(2). Pub. L. 105–34 inserted before period at end “, or enacted by the Taxpayer Relief Act of 1997”.
+1997—Subsec. (b)(2). Pub. L. 105–34 inserted before period at end “, or enacted by the Taxpayer Relief Act of 1997”.
 
 1986—Subsec. (b)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -1047,7 +1047,7 @@ Nothing in amendment by Pub. L. 107–210, other than provisions relating to COB
 
 **Coordination With Refund Provision**
 
-Pub. L. 101–508, title XI, § 11116, Nov. 5, 1990, 104 Stat. 1388–415, provided that: “For purposes of section 1324(b)(2) of title 31 of the United States Code, section 32 of the Internal Revenue Code of 1986 [26 U.S.C. 32] (as amended by this Act) shall be considered to be a credit provision of the Internal Revenue Code of 1954 enacted before January 1, 1978.”
+Pub. L. 101–508, title XI, § 11116, Nov. 5, 1990, 104 Stat. 1388–415, provided that: “For purposes of section 1324(b)(2) of title 31 of the United States Code, section 32 of the Internal Revenue Code of 1986 [26 U.S.C. 32] (as amended by this Act) shall be considered to be a credit provision of the Internal Revenue Code of 1954 enacted before January 1, 1978.”
 
 ## SUBCHAPTER III—LIMITATIONS, EXCEPTIONS, AND PENALTIES
 
@@ -1057,7 +1057,7 @@ Pub. L. 101–508, title XI, § 11116, Nov. 5, 1990, 104 Stat. 1388–415, pro
 
 Certain provisions of this subchapter and subchapter II of chapter 15 of this title were originally enacted as section 3679 of the Revised Statutes, popularly known as the Anti-Deficiency Act. That section was repealed as part of the general revision of this title by Pub. L. 97–258, and its provisions restated in sections 1341, 1342, 1349 to 1351, and 1511 to 1519 of this title.
 
-### § 1341. Limitations on expending and obligating amounts
+### § 1341. Limitations on expending and obligating amounts
 
 **(a)**
 
@@ -1097,14 +1097,14 @@ Certain provisions of this subchapter and subchapter II of chapter 15 of this ti
 
 **(3)** During a covered lapse in appropriations, each excepted employee who is required to perform work shall be entitled to use leave under chapter 63 of title 5, or any other applicable law governing the use of leave by the excepted employee, for which compensation shall be paid at the earliest date possible after the lapse in appropriations ends, regardless of scheduled pay dates.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 101–508, title XIII, § 13213(a), Nov. 5, 1990, 104 Stat. 1388–621; Pub. L. 116–1, § 2, Jan. 16, 2019, 133 Stat. 3; Pub. L. 116–5, § 103, Jan. 25, 2019, 133 Stat. 11.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 101–508, title XIII, § 13213(a), Nov. 5, 1990, 104 Stat. 1388–621; Pub. L. 116–1, § 2, Jan. 16, 2019, 133 Stat. 3; Pub. L. 116–5, § 103, Jan. 25, 2019, 133 Stat. 11.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1341(a) | 31:665(a), (d)(2)(last sentence related to spending and obligations). | R.S. § 3679(a), (d)(2)(last sentence related to spending and obligations); Mar. 3, 1905, ch. 1484, § 4(1st par.), 33 Stat. 1257; Feb. 27, 1906, ch. 510, § 3, 34 Stat. 48; restated Sept. 6, 1950, ch. 896, § 1211, 64 Stat. 765. |
-| 1341(b) | 31:669(words after semicolon). | Aug. 23, 1912, ch. 350, § 6(words after semicolon), 37 Stat. 414. |
+| 1341(a) | 31:665(a), (d)(2)(last sentence related to spending and obligations). | R.S. § 3679(a), (d)(2)(last sentence related to spending and obligations); Mar. 3, 1905, ch. 1484, § 4(1st par.), 33 Stat. 1257; Feb. 27, 1906, ch. 510, § 3, 34 Stat. 48; restated Sept. 6, 1950, ch. 896, § 1211, 64 Stat. 765. |
+| 1341(b) | 31:669(words after semicolon). | Aug. 23, 1912, ch. 350, § 6(words after semicolon), 37 Stat. 414. |
 
 In subsection (b), the words “another amount available for obligation” are substituted for “any other fund” for consistency in the revised title.
 
@@ -1116,25 +1116,25 @@ Section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985, re
 
 **Amendments**
 
-2019—Subsec. (a)(1). Pub. L. 116–1, § 2(1), in introductory provisions, substituted “Except as specified in this subchapter or any other provision of law, an officer” for “An officer”.
+2019—Subsec. (a)(1). Pub. L. 116–1, § 2(1), in introductory provisions, substituted “Except as specified in this subchapter or any other provision of law, an officer” for “An officer”.
 
-Subsec. (c). Pub. L. 116–1, § 2(2), added subsec. (c).
+Subsec. (c). Pub. L. 116–1, § 2(2), added subsec. (c).
 
-Subsec. (c)(2). Pub. L. 116–5 inserted “, and subject to the enactment of appropriations Acts ending the lapse” before period at end.
+Subsec. (c)(2). Pub. L. 116–5 inserted “, and subject to the enactment of appropriations Acts ending the lapse” before period at end.
 
 1990—Subsec. (a)(1)(C), (D). Pub. L. 101–508 added subpars. (C) and (D).
 
-### § 1342. Limitation on voluntary services
+### § 1342. Limitation on voluntary services
 
-An officer or employee of the United States Government or of the District of Columbia government may not accept voluntary services for either government or employ personal services exceeding that authorized by law except for emergencies involving the safety of human life or the protection of property. This section does not apply to a corporation getting amounts to make loans (except paid in capital amounts) without legal liability of the United States Government. As used in this section, the term “emergencies involving the safety of human life or the protection of property” does not include ongoing, regular functions of government the suspension of which would not imminently threaten the safety of human life or the protection of property.
+An officer or employee of the United States Government or of the District of Columbia government may not accept voluntary services for either government or employ personal services exceeding that authorized by law except for emergencies involving the safety of human life or the protection of property. This section does not apply to a corporation getting amounts to make loans (except paid in capital amounts) without legal liability of the United States Government. As used in this section, the term “emergencies involving the safety of human life or the protection of property” does not include ongoing, regular functions of government the suspension of which would not imminently threaten the safety of human life or the protection of property.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 101–508, title XIII, § 13213(b), Nov. 5, 1990, 104 Stat. 1388–621; Pub. L. 104–92, title III, § 310(a), Jan. 6, 1996, 110 Stat. 20.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 101–508, title XIII, § 13213(b), Nov. 5, 1990, 104 Stat. 1388–621; Pub. L. 104–92, title III, § 310(a), Jan. 6, 1996, 110 Stat. 20.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1342 | 31:665(b). | R.S. § 3679(b), (d)(2)(last sentence related to voluntary services); Mar. 3, 1905, ch. 1484, § 4(1st par.), 33 Stat. 1257; Feb. 27, 1906, ch. 510, § 3, 34 Stat. 48; restated Sept. 6, 1950, ch. 896, § 1211, 64 Stat. 765. |
+| 1342 | 31:665(b). | R.S. § 3679(b), (d)(2)(last sentence related to voluntary services); Mar. 3, 1905, ch. 1484, § 4(1st par.), 33 Stat. 1257; Feb. 27, 1906, ch. 510, § 3, 34 Stat. 48; restated Sept. 6, 1950, ch. 896, § 1211, 64 Stat. 765. |
 |  | 31:665(d)(2)(last sentence related to voluntary services). |  |
 
 The words “District of Columbia government” are added because of section 47–105 of the D.C. Code.
@@ -1151,9 +1151,9 @@ The words “District of Columbia government” are added because of section 47�
 
 **Effective and Termination Dates of 1996 Amendment**
 
-Pub. L. 104–92, title III, § 310(a), Jan. 6, 1996, 110 Stat. 20, provided that the amendment made by that section is for the period Dec. 15, 1995, through Jan. 26, 1996.
+Pub. L. 104–92, title III, § 310(a), Jan. 6, 1996, 110 Stat. 20, provided that the amendment made by that section is for the period Dec. 15, 1995, through Jan. 26, 1996.
 
-### § 1343. Buying and leasing passenger motor vehicles and aircraft
+### § 1343. Buying and leasing passenger motor vehicles and aircraft
 
 **(a)** In this section, buying a passenger motor vehicle or aircraft includes a transfer of the vehicle or aircraft between agencies.
 
@@ -1199,12 +1199,12 @@ Pub. L. 104–92, title III, § 310(a), Jan. 6, 1996, 110 Stat. 20, provided t
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1343(a) | 31:638a(e). | July 16, 1914, ch. 141, § 5(a), (b), (e), 38 Stat. 508; restated Aug. 2, 1946, ch. 744, § 16(a), 60 Stat. 810, 811. |
+| 1343(a) | 31:638a(e). | July 16, 1914, ch. 141, § 5(a), (b), (e), 38 Stat. 508; restated Aug. 2, 1946, ch. 744, § 16(a), 60 Stat. 810, 811. |
 | 1343(b) | 31:638a(a). |  |
-| 1343(c) | 31:638a(c)(1). | July 16, 1914, ch. 141, § 5(c)(1), 38 Stat. 508; Aug. 2, 1946, ch. 744, § 16(a), 60 Stat. 810; restated Sept. 26, 1970, Pub. L. 91–423, 84 Stat. 879. |
+| 1343(c) | 31:638a(c)(1). | July 16, 1914, ch. 141, § 5(c)(1), 38 Stat. 508; Aug. 2, 1946, ch. 744, § 16(a), 60 Stat. 810; restated Sept. 26, 1970, Pub. L. 91–423, 84 Stat. 879. |
 | 1343(d) | 31:638a(b). |  |
-| 1343(e) | 31:638a–1. | July 25, 1975, Pub. L. 94–59, § 1108, 89 Stat. 300. |
-|  | 31:638d. | Mar. 4, 1915, ch. 142, § 10, 38 Stat. 1054. |
+| 1343(e) | 31:638a–1. | July 25, 1975, Pub. L. 94–59, § 1108, 89 Stat. 300. |
+|  | 31:638d. | Mar. 4, 1915, ch. 142, § 10, 38 Stat. 1054. |
 |  | 31:638e. | Aug. 11, 1916, ch. 313(last proviso on p. 491), 39 Stat. 491. |
 
 In subsection (a), the word “agency” is substituted for “department of the Government” because of section 101 of the revised title and for consistency with the other source provisions restated in the section.
@@ -1225,177 +1225,177 @@ In subsection (e)(3), the words “horse-drawn” in 31:638e are omitted because
 
 **Motor Vehicles Purchased for Intelligence Activities; Exception From Monetary Limitations**
 
-Pub. L. 103–139, title VIII, § 8105, Nov. 11, 1993, 107 Stat. 1464, provided that: “During the current fiscal year and thereafter, monetary limitations on the purchase price of a passenger motor vehicle shall not apply to vehicles purchased for intelligence activities conducted pursuant to Executive Order 12333 [50 U.S.C. 3001 note] or successor orders.”
+Pub. L. 103–139, title VIII, § 8105, Nov. 11, 1993, 107 Stat. 1464, provided that: “During the current fiscal year and thereafter, monetary limitations on the purchase price of a passenger motor vehicle shall not apply to vehicles purchased for intelligence activities conducted pursuant to Executive Order 12333 [50 U.S.C. 3001 note] or successor orders.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 102–396, title IX, § 9038, Oct. 6, 1992, 106 Stat. 1910.
+Pub. L. 102–396, title IX, § 9038, Oct. 6, 1992, 106 Stat. 1910.
 
-Pub. L. 102–172, title VIII, § 8038, Nov. 26, 1991, 105 Stat. 1180.
+Pub. L. 102–172, title VIII, § 8038, Nov. 26, 1991, 105 Stat. 1180.
 
-Pub. L. 101–511, title VIII, § 8039, Nov. 5, 1990, 104 Stat. 1883.
+Pub. L. 101–511, title VIII, § 8039, Nov. 5, 1990, 104 Stat. 1883.
 
-Pub. L. 101–165, title IX, § 9049, Nov. 21, 1989, 103 Stat. 1139.
+Pub. L. 101–165, title IX, § 9049, Nov. 21, 1989, 103 Stat. 1139.
 
-Pub. L. 100–463, title VIII, § 8086, Oct. 1, 1988, 102 Stat. 2270–32.
+Pub. L. 100–463, title VIII, § 8086, Oct. 1, 1988, 102 Stat. 2270–32.
 
-Pub. L. 100–202, § 101(b) [title VIII, § 8119], Dec. 22, 1987, 101 Stat. 1329–43, 1329–84.
+Pub. L. 100–202, § 101(b) [title VIII, § 8119], Dec. 22, 1987, 101 Stat. 1329–43, 1329–84.
 
 **Maximum Purchase Price of Motor Vehicles; Exceptions**
 
-Pub. L. 119–75, div. E, title VII, § 702, Feb. 3, 2026, 140 Stat. 492, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with section 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, vans, law enforcement vehicles, protective vehicles, undercover surveillance vehicles, and police-type vehicles), is hereby fixed at $40,000 except station wagons for which the maximum shall be $41,140: *Provided*, That these limits may be exceeded by not to exceed $7,775 for police-type vehicles: *Provided further*, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [15 U.S.C. 2501 et seq.]: *Provided further*, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: *Provided further*, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on alternative fuel, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
+Pub. L. 119–75, div. E, title VII, § 702, Feb. 3, 2026, 140 Stat. 492, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with section 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, vans, law enforcement vehicles, protective vehicles, undercover surveillance vehicles, and police-type vehicles), is hereby fixed at $40,000 except station wagons for which the maximum shall be $41,140: *Provided*, That these limits may be exceeded by not to exceed $7,775 for police-type vehicles: *Provided further*, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [15 U.S.C. 2501 et seq.]: *Provided further*, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: *Provided further*, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on alternative fuel, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 118–47, div. B, title VII, § 702, Mar. 23, 2024, 138 Stat. 573.
+Pub. L. 118–47, div. B, title VII, § 702, Mar. 23, 2024, 138 Stat. 573.
 
-Pub. L. 117–328, div. E, title VII, § 702, Dec. 29, 2022, 136 Stat. 4704.
+Pub. L. 117–328, div. E, title VII, § 702, Dec. 29, 2022, 136 Stat. 4704.
 
-Pub. L. 117–103, div. E, title VII, § 702, Mar. 15, 2022, 136 Stat. 293.
+Pub. L. 117–103, div. E, title VII, § 702, Mar. 15, 2022, 136 Stat. 293.
 
-Pub. L. 116–260, div. E, title VII, § 702, Dec. 27, 2020, 134 Stat. 1430.
+Pub. L. 116–260, div. E, title VII, § 702, Dec. 27, 2020, 134 Stat. 1430.
 
-Pub. L. 116–93, div. C, title VII, § 702, Dec. 20, 2019, 133 Stat. 2484.
+Pub. L. 116–93, div. C, title VII, § 702, Dec. 20, 2019, 133 Stat. 2484.
 
-Pub. L. 116–6, div. D, title VII, § 702, Feb. 15, 2019, 133 Stat. 187.
+Pub. L. 116–6, div. D, title VII, § 702, Feb. 15, 2019, 133 Stat. 187.
 
-Pub. L. 115–141, div. E, title VII, § 702, Mar. 23, 2018, 132 Stat. 588.
+Pub. L. 115–141, div. E, title VII, § 702, Mar. 23, 2018, 132 Stat. 588.
 
-Pub. L. 115–31, div. E, title VII, § 702, May 5, 2017, 131 Stat. 377.
+Pub. L. 115–31, div. E, title VII, § 702, May 5, 2017, 131 Stat. 377.
 
-Pub. L. 114–113, div. E, title VII, § 702, Dec. 18, 2015, 129 Stat. 2473.
+Pub. L. 114–113, div. E, title VII, § 702, Dec. 18, 2015, 129 Stat. 2473.
 
-Pub. L. 113–235, div. E, title VII, § 702, Dec. 16, 2014, 128 Stat. 2379.
+Pub. L. 113–235, div. E, title VII, § 702, Dec. 16, 2014, 128 Stat. 2379.
 
-Pub. L. 113–76, div. E, title VII, § 702, Jan. 17, 2014, 128 Stat. 230.
+Pub. L. 113–76, div. E, title VII, § 702, Jan. 17, 2014, 128 Stat. 230.
 
-Pub. L. 112–74, div. C, title VII, § 702, Dec. 23, 2011, 125 Stat. 928.
+Pub. L. 112–74, div. C, title VII, § 702, Dec. 23, 2011, 125 Stat. 928.
 
-Pub. L. 111–117, div. C, title VII, § 702, Dec. 16, 2009, 123 Stat. 3205.
+Pub. L. 111–117, div. C, title VII, § 702, Dec. 16, 2009, 123 Stat. 3205.
 
-Pub. L. 111–8, div. D, title VII, § 702, Mar. 11, 2009, 123 Stat. 680.
+Pub. L. 111–8, div. D, title VII, § 702, Mar. 11, 2009, 123 Stat. 680.
 
-Pub. L. 110–161, div. D, title VII, § 703, Dec. 26, 2007, 121 Stat. 2019.
+Pub. L. 110–161, div. D, title VII, § 703, Dec. 26, 2007, 121 Stat. 2019.
 
-Pub. L. 109–115, div. A, title VIII, § 803, Nov. 30, 2005, 119 Stat. 2495.
+Pub. L. 109–115, div. A, title VIII, § 803, Nov. 30, 2005, 119 Stat. 2495.
 
-Pub. L. 108–447, div. H, title VI, § 603, Dec. 8, 2004, 118 Stat. 3272.
+Pub. L. 108–447, div. H, title VI, § 603, Dec. 8, 2004, 118 Stat. 3272.
 
-Pub. L. 108–199, div. F, title VI, § 603, Jan. 23, 2004, 118 Stat. 350.
+Pub. L. 108–199, div. F, title VI, § 603, Jan. 23, 2004, 118 Stat. 350.
 
-Pub. L. 108–7, div. J, title VI, § 603, Feb. 20, 2003, 117 Stat. 463.
+Pub. L. 108–7, div. J, title VI, § 603, Feb. 20, 2003, 117 Stat. 463.
 
-Pub. L. 107–67, title VI, § 603, Nov. 12, 2001, 115 Stat. 545.
+Pub. L. 107–67, title VI, § 603, Nov. 12, 2001, 115 Stat. 545.
 
-Pub. L. 106–554, § 1(a)(3) [title VI, § 603], Dec. 21, 2000, 114 Stat. 2763, 2763A–155.
+Pub. L. 106–554, § 1(a)(3) [title VI, § 603], Dec. 21, 2000, 114 Stat. 2763, 2763A–155.
 
-Pub. L. 106–58, title VI, § 603, Sept. 29, 1999, 113 Stat. 466.
+Pub. L. 106–58, title VI, § 603, Sept. 29, 1999, 113 Stat. 466.
 
-Pub. L. 105–277, div. A, § 101(h) [title VI, § 604], Oct. 21, 1998, 112 Stat. 2681–480, 2681–513.
+Pub. L. 105–277, div. A, § 101(h) [title VI, § 604], Oct. 21, 1998, 112 Stat. 2681–480, 2681–513.
 
-Pub. L. 105–61, title VI, § 604, Oct. 10, 1997, 111 Stat. 1308.
+Pub. L. 105–61, title VI, § 604, Oct. 10, 1997, 111 Stat. 1308.
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 604], Sept. 30, 1996, 110 Stat. 3009–314, 3009–353.
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 604], Sept. 30, 1996, 110 Stat. 3009–314, 3009–353.
 
-Pub. L. 104–52, title VI, § 604, Nov. 19, 1995, 109 Stat. 497.
+Pub. L. 104–52, title VI, § 604, Nov. 19, 1995, 109 Stat. 497.
 
-Pub. L. 103–329, title VI, § 604, Sept. 30, 1994, 108 Stat. 2416.
+Pub. L. 103–329, title VI, § 604, Sept. 30, 1994, 108 Stat. 2416.
 
-Pub. L. 103–123, title VI, § 604, Oct. 28, 1993, 107 Stat. 1259.
+Pub. L. 103–123, title VI, § 604, Oct. 28, 1993, 107 Stat. 1259.
 
-Pub. L. 102–393, title VI, § 605, Oct. 6, 1992, 106 Stat. 1766.
+Pub. L. 102–393, title VI, § 605, Oct. 6, 1992, 106 Stat. 1766.
 
-Pub. L. 102–141, title VI, § 605, Oct. 28, 1991, 105 Stat. 868.
+Pub. L. 102–141, title VI, § 605, Oct. 28, 1991, 105 Stat. 868.
 
-Pub. L. 101–509, title VI, § 601, Nov. 5, 1990, 104 Stat. 1470.
+Pub. L. 101–509, title VI, § 601, Nov. 5, 1990, 104 Stat. 1470.
 
-Pub. L. 101–136, title VI, § 601, Nov. 3, 1989, 103 Stat. 816.
+Pub. L. 101–136, title VI, § 601, Nov. 3, 1989, 103 Stat. 816.
 
-Pub. L. 100–440, title VI, § 601, Sept. 22, 1988, 102 Stat. 1751.
+Pub. L. 100–440, title VI, § 601, Sept. 22, 1988, 102 Stat. 1751.
 
-Pub. L. 100–202, § 101(m) [title VI, § 601], Dec. 22, 1987, 101 Stat. 1329–390, 1329–419.
+Pub. L. 100–202, § 101(m) [title VI, § 601], Dec. 22, 1987, 101 Stat. 1329–390, 1329–419.
 
-Pub. L. 99–500, § 101(m) [title VI, § 601], Oct. 18, 1986, 100 Stat. 1783–308, 1783–328, and Pub. L. 99–591, § 101(m) [title VI, § 601], Oct. 30, 1986, 100 Stat. 3341–308, 3341–328.
+Pub. L. 99–500, § 101(m) [title VI, § 601], Oct. 18, 1986, 100 Stat. 1783–308, 1783–328, and Pub. L. 99–591, § 101(m) [title VI, § 601], Oct. 30, 1986, 100 Stat. 3341–308, 3341–328.
 
-Pub. L. 99–190, § 101(h) [H.R. 3036, title VI, § 601], Dec. 19, 1985, 99 Stat. 1291.
+Pub. L. 99–190, § 101(h) [H.R. 3036, title VI, § 601], Dec. 19, 1985, 99 Stat. 1291.
 
-Pub. L. 98–473, title I, § 101(j) [H.R. 5798, title VI, § 602], Oct. 12, 1984, 98 Stat. 1963.
+Pub. L. 98–473, title I, § 101(j) [H.R. 5798, title VI, § 602], Oct. 12, 1984, 98 Stat. 1963.
 
-Pub. L. 98–151, § 101(f) [H.R. 4139, title VI, § 602], Nov. 14, 1983, 97 Stat. 973.
+Pub. L. 98–151, § 101(f) [H.R. 4139, title VI, § 602], Nov. 14, 1983, 97 Stat. 973.
 
-Pub. L. 97–377, title I, § 101(a) [H.R. 7158, title VI, § 602], Dec. 21, 1982, 96 Stat. 1830.
+Pub. L. 97–377, title I, § 101(a) [H.R. 7158, title VI, § 602], Dec. 21, 1982, 96 Stat. 1830.
 
-Pub. L. 97–92, § 101(a) [H.R. 4121, title VI, § 602], Dec. 15, 1981, 95 Stat. 1183.
+Pub. L. 97–92, § 101(a) [H.R. 4121, title VI, § 602], Dec. 15, 1981, 95 Stat. 1183.
 
-Pub. L. 96–536, § 113, Dec. 16, 1980, 94 Stat. 3171.
+Pub. L. 96–536, § 113, Dec. 16, 1980, 94 Stat. 3171.
 
-Pub. L. 96–74, title VI, § 601, Sept. 29, 1979, 93 Stat. 573.
+Pub. L. 96–74, title VI, § 601, Sept. 29, 1979, 93 Stat. 573.
 
-Pub. L. 95–429, title VI, § 601, Oct. 10, 1978, 92 Stat. 1015.
+Pub. L. 95–429, title VI, § 601, Oct. 10, 1978, 92 Stat. 1015.
 
-Pub. L. 95–81, title VI, § 601, July 31, 1977, 91 Stat. 354.
+Pub. L. 95–81, title VI, § 601, July 31, 1977, 91 Stat. 354.
 
-Pub. L. 94–363, title VI, § 601, July 14, 1976, 90 Stat. 977.
+Pub. L. 94–363, title VI, § 601, July 14, 1976, 90 Stat. 977.
 
-Pub. L. 94–91, title VI, § 601, Aug. 9, 1975, 89 Stat. 458.
+Pub. L. 94–91, title VI, § 601, Aug. 9, 1975, 89 Stat. 458.
 
-Pub. L. 93–381, title VI, § 601, Aug. 21, 1974, 88 Stat. 630.
+Pub. L. 93–381, title VI, § 601, Aug. 21, 1974, 88 Stat. 630.
 
-Pub. L. 93–143, title VI, § 601, Oct. 30, 1973, 87 Stat. 524.
+Pub. L. 93–143, title VI, § 601, Oct. 30, 1973, 87 Stat. 524.
 
-Pub. L. 92–351, title VI, § 601, July 13, 1972, 86 Stat. 487.
+Pub. L. 92–351, title VI, § 601, July 13, 1972, 86 Stat. 487.
 
-Pub. L. 92–49, title VI, § 601, July 9, 1971, 85 Stat. 122.
+Pub. L. 92–49, title VI, § 601, July 9, 1971, 85 Stat. 122.
 
-Pub. L. 91–439, title V, § 501, Oct. 7, 1970, 84 Stat. 902.
+Pub. L. 91–439, title V, § 501, Oct. 7, 1970, 84 Stat. 902.
 
-Pub. L. 91–144, title V, § 501, Dec. 11, 1969, 83 Stat. 336.
+Pub. L. 91–144, title V, § 501, Dec. 11, 1969, 83 Stat. 336.
 
-Pub. L. 90–479, title V, § 501, Aug. 12, 1968, 82 Stat. 717.
+Pub. L. 90–479, title V, § 501, Aug. 12, 1968, 82 Stat. 717.
 
-Pub. L. 90–147, title V, § 501, Nov. 20, 1967, 81 Stat. 482.
+Pub. L. 90–147, title V, § 501, Nov. 20, 1967, 81 Stat. 482.
 
-Pub. L. 89–689, title V, § 501, Oct. 15, 1966, 80 Stat. 1014.
+Pub. L. 89–689, title V, § 501, Oct. 15, 1966, 80 Stat. 1014.
 
-Pub. L. 89–299, title V, § 501, Oct. 28, 1965, 79 Stat. 1108.
+Pub. L. 89–299, title V, § 501, Oct. 28, 1965, 79 Stat. 1108.
 
-Pub. L. 88–511, title V, § 501, Aug. 30, 1964, 78 Stat. 693.
+Pub. L. 88–511, title V, § 501, Aug. 30, 1964, 78 Stat. 693.
 
-Pub. L. 88–257, title V, § 501, Dec. 31, 1963, 77 Stat. 855.
+Pub. L. 88–257, title V, § 501, Dec. 31, 1963, 77 Stat. 855.
 
-Pub. L. 87–880, title V, § 501, Oct. 24, 1962, 76 Stat. 1227.
+Pub. L. 87–880, title V, § 501, Oct. 24, 1962, 76 Stat. 1227.
 
-Pub. L. 87–125, title V, § 501, Aug. 3, 1961, 75 Stat. 282.
+Pub. L. 87–125, title V, § 501, Aug. 3, 1961, 75 Stat. 282.
 
-Pub. L. 86–642, title II, § 201, July 12, 1960, 74 Stat. 476.
+Pub. L. 86–642, title II, § 201, July 12, 1960, 74 Stat. 476.
 
-Pub. L. 86–79, title II, § 201, July 8, 1959, 73 Stat. 165.
+Pub. L. 86–79, title II, § 201, July 8, 1959, 73 Stat. 165.
 
-Pub. L. 85–468, title II, § 201, June 25, 1958, 72 Stat. 224.
+Pub. L. 85–468, title II, § 201, June 25, 1958, 72 Stat. 224.
 
-Pub. L. 85–48, title II, § 201, June 5, 1957, 71 Stat. 53.
+Pub. L. 85–48, title II, § 201, June 5, 1957, 71 Stat. 53.
 
-June 13, 1956, ch. 385, title II, § 201, 70 Stat. 279.
+June 13, 1956, ch. 385, title II, § 201, 70 Stat. 279.
 
-June 29, 1955, ch. 226, title II, § 201, 69 Stat. 195.
+June 29, 1955, ch. 226, title II, § 201, 69 Stat. 195.
 
-Aug. 26, 1954, ch. 935, Ch. XIII, § 1301, 68 Stat. 828.
+Aug. 26, 1954, ch. 935, Ch. XIII, § 1301, 68 Stat. 828.
 
-Aug. 7, 1953, ch. 340, Ch. XIII, § 1301, 67 Stat. 435.
+Aug. 7, 1953, ch. 340, Ch. XIII, § 1301, 67 Stat. 435.
 
-July 15, 1952, ch. 758, Ch. XIV, § 1401, 66 Stat. 659.
+July 15, 1952, ch. 758, Ch. XIV, § 1401, 66 Stat. 659.
 
-Nov. 1, 1951, ch. 664, Ch. XIII, § 1301, 65 Stat. 755.
+Nov. 1, 1951, ch. 664, Ch. XIII, § 1301, 65 Stat. 755.
 
-Sept. 6, 1950, ch. 896, Ch. XII, § 1201, 64 Stat. 763.
+Sept. 6, 1950, ch. 896, Ch. XII, § 1201, 64 Stat. 763.
 
-Aug. 24, 1949, ch. 506, title III, § 301, 63 Stat. 661.
+Aug. 24, 1949, ch. 506, title III, § 301, 63 Stat. 661.
 
-Apr. 20, 1948, ch. 219, title II, § 201, 62 Stat. 193.
+Apr. 20, 1948, ch. 219, title II, § 201, 62 Stat. 193.
 
-July 30, 1947, ch. 359, title II, § 201, 61 Stat. 608.
+July 30, 1947, ch. 359, title II, § 201, 61 Stat. 608.
 
-### § 1344. Passenger carrier use
+### § 1344. Passenger carrier use
 
 **(a)**
 
@@ -1433,9 +1433,9 @@ is transportation for an official purpose, when approved in writing by the head 
 
 **(5)** the Deputy Secretary of Defense and Under Secretaries of Defense, the Secretary of the Air Force, the Secretary of the Army, the Secretary of the Navy, the members and Vice Chairman of the Joint Chiefs of Staff, and the Commandant of the Coast Guard;
 
-**(6)** the Director of the Central Intelligence Agency, the Director of the Federal Bureau of Investigation, Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives 1
+**(6)** the Director of the Central Intelligence Agency, the Director of the Federal Bureau of Investigation, Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 the Administrator of the Drug Enforcement Administration, and the Administrator of the National Aeronautics and Space Administration;
 
@@ -1515,9 +1515,9 @@ Except as provided in paragraph (2) of subsection (d), any authorization made pu
 
 **(G)** any establishment in the executive branch of the Government (including the Executive Office of the President);
 
-**(H)** any independent regulatory agency (including an independent regulatory agency specified in section 3502(10) 2
+**(H)** any independent regulatory agency (including an independent regulatory agency specified in section 3502(10) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 44);
 
@@ -1529,13 +1529,13 @@ except that such term does not include the government of the District of Columbi
 
 **(i)** Notwithstanding section 410(a) of title 39, this section applies to the United States Postal Service.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924; Pub. L. 99–550, § 1(a), Oct. 27, 1986, 100 Stat. 3067; Pub. L. 100–180, div. A, title XIII, § 1314(d)(2), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–202, § 101(a) [title IV, § 407], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 101–510, div. A, title III, § 326(b), Nov. 5, 1990, 104 Stat. 1531; Pub. L. 103–272, § 4(f)(2), July 5, 1994, 108 Stat. 1363; Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 108–7, div. K, title IV, § 423, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–447, div. B, title I, § 117, Dec. 8, 2004, 118 Stat. 2870; Pub. L. 109–59, title III, § 3049(b)(1), (2), Aug. 10, 2005, 119 Stat. 1712, 1713; Pub. L. 111–350, § 5(h)(4), Jan. 4, 2011, 124 Stat. 3849; Pub. L. 117–103, div. X, title III, § 306, Mar. 15, 2022, 136 Stat. 966.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924; Pub. L. 99–550, § 1(a), Oct. 27, 1986, 100 Stat. 3067; Pub. L. 100–180, div. A, title XIII, § 1314(d)(2), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–202, § 101(a) [title IV, § 407], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 101–510, div. A, title III, § 326(b), Nov. 5, 1990, 104 Stat. 1531; Pub. L. 103–272, § 4(f)(2), July 5, 1994, 108 Stat. 1363; Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 108–7, div. K, title IV, § 423, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–447, div. B, title I, § 117, Dec. 8, 2004, 118 Stat. 2870; Pub. L. 109–59, title III, § 3049(b)(1), (2), Aug. 10, 2005, 119 Stat. 1712, 1713; Pub. L. 111–350, § 5(h)(4), Jan. 4, 2011, 124 Stat. 3849; Pub. L. 117–103, div. X, title III, § 306, Mar. 15, 2022, 136 Stat. 966.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1344(a) | 31:638a(c)(2)(1st sentence). | July 16, 1914, ch. 141, § 5(c)(2)(1st, last sentences), 38 Stat. 508; restated Aug. 2, 1946, ch. 744, § 16(a), 60 Stat. 810. |
+| 1344(a) | 31:638a(c)(2)(1st sentence). | July 16, 1914, ch. 141, § 5(c)(2)(1st, last sentences), 38 Stat. 508; restated Aug. 2, 1946, ch. 744, § 16(a), 60 Stat. 810. |
 | 1344(b) | 31:638a(c)(2)(last sentence). |  |
 
 In subsection (a), before clause (1), the words “officers and employees of the Government” are substituted for “officers and employees” for clarity. In clause (2), the words “performing field work requiring transportation” are substituted for “engaged in field work the character of whose duties makes such transportation necessary” to eliminate unnecessary words. The word “agency” is substituted for “department” because of section 101 of the revised title and for consistency with the source provisions restated in the section and section 1341.
@@ -1554,7 +1554,7 @@ Section 8(a)(1) of the Central Intelligence Agency Act of 1949, referred to in s
 
 Subsection (b)(2)(B) of this section, referred to in subsec. (d)(3), (4), was redesignated subsec. (b)(3)(B) by Pub. L. 100–202. See 1987 Amendment note below.
 
-Section 3502 of title 44, referred to in subsec. (h)(2)(H), which in par. (10) defined “independent regulatory agency”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3502 of Title 44 which also defines “independent regulatory agency”.
+Section 3502 of title 44, referred to in subsec. (h)(2)(H), which in par. (10) defined “independent regulatory agency”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3502 of Title 44 which also defines “independent regulatory agency”.
 
 **Codification**
 
@@ -1562,13 +1562,13 @@ Amendment by Pub. L. 104–91 is based on section 118 of H.R. 2076, One Hundred 
 
 **Amendments**
 
-2022—Subsec. (a)(2)(B). Pub. L. 117–103 inserted “, or transportation of federally owned canines associated with force protection duties of any part of the intelligence community (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003))” after “duties”.
+2022—Subsec. (a)(2)(B). Pub. L. 117–103 inserted “, or transportation of federally owned canines associated with force protection duties of any part of the intelligence community (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003))” after “duties”.
 
 2011—Subsec. (h)(2)(A). Pub. L. 111–350 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a department (as such term is defined in section 18 of the Act of August 2, 1946 (41 U.S.C. 5a));”.
 
-2005—Subsec. (a)(3). Pub. L. 109–59, § 3049(b)(2), added par. (3).
+2005—Subsec. (a)(3). Pub. L. 109–59, § 3049(b)(2), added par. (3).
 
-Subsecs. (g) to (i). Pub. L. 109–59, § 3049(b)(1), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+Subsecs. (g) to (i). Pub. L. 109–59, § 3049(b)(1), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 2004—Subsec. (b)(6). Pub. L. 108–447 inserted “Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives” after “Federal Bureau of Investigation,”.
 
@@ -1578,19 +1578,19 @@ Subsecs. (g) to (i). Pub. L. 109–59, § 3049(b)(1), added subsec. (g) and re
 
 1994—Subsecs. (b), (d), (e). Pub. L. 103–272 amended Pub. L. 100–202. See 1987 Amendment notes below.
 
-1990—Subsec. (c). Pub. L. 101–510 inserted “, section 2637 of title 10,” after “Act of 1956”.
+1990—Subsec. (c). Pub. L. 101–510 inserted “, section 2637 of title 10,” after “Act of 1956”.
 
-1987—Subsec. (b). Pub. L. 100–202, § 101(a) [title IV, § 407(1)], as amended by Pub. L. 103–272, added cl. (2), redesignated former cl. (2) as (3) and in subcl. (B) substituted “subclause (A) of this clause” for “subparagraph (A) of this paragraph”, redesignated former cls. (3) to (8) as (4) to (9), respectively, and in last sentence substituted “clause (9)” for “paragraph (8)”.
+1987—Subsec. (b). Pub. L. 100–202, § 101(a) [title IV, § 407(1)], as amended by Pub. L. 103–272, added cl. (2), redesignated former cl. (2) as (3) and in subcl. (B) substituted “subclause (A) of this clause” for “subparagraph (A) of this paragraph”, redesignated former cls. (3) to (8) as (4) to (9), respectively, and in last sentence substituted “clause (9)” for “paragraph (8)”.
 
 Subsec. (b)(4). Pub. L. 100–180 inserted “the members and Vice Chairman of” before “the Joint Chiefs of Staff”.
 
-Subsec. (d)(1), (2). Pub. L. 100–202, § 101(a) [title IV, § 407(2)(A)], as amended by Pub. L. 103–272, substituted “subsection (b)(9) of this section” for “paragraph (8) of subsection (b)”.
+Subsec. (d)(1), (2). Pub. L. 100–202, § 101(a) [title IV, § 407(2)(A)], as amended by Pub. L. 103–272, substituted “subsection (b)(9) of this section” for “paragraph (8) of subsection (b)”.
 
-Subsec. (d)(3). Pub. L. 100–202, § 101(a) [title IV, § 407(2)(B)], as amended by Pub. L. 103–272, substituted “subsections (a)(2) and (b)(3)(B) and (9)” for “subsections (a)(2), (b)(2)(B), and (b)(8)” and “subsection (b)(9)” for “subsection (b)(8)”.
+Subsec. (d)(3). Pub. L. 100–202, § 101(a) [title IV, § 407(2)(B)], as amended by Pub. L. 103–272, substituted “subsections (a)(2) and (b)(3)(B) and (9)” for “subsections (a)(2), (b)(2)(B), and (b)(8)” and “subsection (b)(9)” for “subsection (b)(8)”.
 
-Subsec. (d)(4). Pub. L. 100–202, § 101(a) [title IV, § 407(2)(C)], as amended by Pub. L. 103–272, substituted “subsection (b)(1), (3)(B), and (9) of this section” and “subsection (b)(9), and the expected duration of any authorization under subsection (b)(9)” for “paragraphs (1), (2)(B), and (8) of subsection (b)” and “paragraph (8) of subsection (b), and the expected duration of any authorization under such paragraph”, respectively.
+Subsec. (d)(4). Pub. L. 100–202, § 101(a) [title IV, § 407(2)(C)], as amended by Pub. L. 103–272, substituted “subsection (b)(1), (3)(B), and (9) of this section” and “subsection (b)(9), and the expected duration of any authorization under subsection (b)(9)” for “paragraphs (1), (2)(B), and (8) of subsection (b)” and “paragraph (8) of subsection (b), and the expected duration of any authorization under such paragraph”, respectively.
 
-Subsec. (e)(1). Pub. L. 100–202, § 101(a) [title IV, § 407(3)], as amended by Pub. L. 103–272, substituted “(b)(9)” for “(b)(8)”.
+Subsec. (e)(1). Pub. L. 100–202, § 101(a) [title IV, § 407(3)], as amended by Pub. L. 103–272, substituted “(b)(9)” for “(b)(8)”.
 
 1986—Pub. L. 99–550 substituted “carrier” for “motor vehicle and aircraft” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
@@ -1620,11 +1620,11 @@ Committee on Government Operations of House of Representatives treated as referr
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–447, div. B, title I, § 117, Dec. 8, 2004, 118 Stat. 2870, provided in part that: “This amendment [amending this section] shall take effect as if enacted on January 1, 2004.”
+Pub. L. 108–447, div. B, title I, § 117, Dec. 8, 2004, 118 Stat. 2870, provided in part that: “This amendment [amending this section] shall take effect as if enacted on January 1, 2004.”
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–272, § 4(f)(2), July 5, 1994, 108 Stat. 1363, provided that the amendment made by that section is effective Dec. 22, 1987.
+Pub. L. 103–272, § 4(f)(2), July 5, 1994, 108 Stat. 1363, provided that the amendment made by that section is effective Dec. 22, 1987.
 
 **Transfer of Functions**
 
@@ -1676,17 +1676,17 @@ Pub. L. 116–160, Oct. 1, 2020, 134 Stat. 753, provided that:
 
 **Coordination**
 
-Pub. L. 109–59, title III, § 3049(b)(3), Aug. 10, 2005, 119 Stat. 1713, provided that: “The authority to provide transportation services under section 1344(g) of title 31, United States Code (as amended by paragraph (1)) shall be in addition to any authority otherwise available to the agency involved.”
+Pub. L. 109–59, title III, § 3049(b)(3), Aug. 10, 2005, 119 Stat. 1713, provided that: “The authority to provide transportation services under section 1344(g) of title 31, United States Code (as amended by paragraph (1)) shall be in addition to any authority otherwise available to the agency involved.”
 
 **Use of Government Vehicles**
 
-Pub. L. 101–194, title V, § 503, Nov. 30, 1989, 103 Stat. 1755, as amended by Pub. L. 101–280, § 6(b), May 4, 1990, 104 Stat. 160, provided that: “Notwithstanding any other provision of law, the head of each department, agency, or other entity of each branch of the Government may prescribe by rule appropriate conditions for the incidental use, for other than official business, of vehicles owned or leased by the Government. Such use with respect to vehicles owned or leased by, or the cost of which is reimbursed by, the House of Representatives or the Senate shall be only as prescribed by rule of the House of Representatives or the Senate, as applicable.”
+Pub. L. 101–194, title V, § 503, Nov. 30, 1989, 103 Stat. 1755, as amended by Pub. L. 101–280, § 6(b), May 4, 1990, 104 Stat. 160, provided that: “Notwithstanding any other provision of law, the head of each department, agency, or other entity of each branch of the Government may prescribe by rule appropriate conditions for the incidental use, for other than official business, of vehicles owned or leased by the Government. Such use with respect to vehicles owned or leased by, or the cost of which is reimbursed by, the House of Representatives or the Senate shall be only as prescribed by rule of the House of Representatives or the Senate, as applicable.”
 
 **Use of Official Vehicles of House of Representatives**
 
-Pub. L. 101–194, title VIII, § 802(d), Nov. 30, 1989, 103 Stat. 1773, as amended by Pub. L. 104–186, title II, § 219(a), Aug. 20, 1996, 110 Stat. 1747, provided that: “The Committee on House Oversight [now Committee on House Administration] of the House of Representatives shall take such action as may be necessary to carry out section 503 [set out above] with respect to vehicles of the House of Representatives.”
+Pub. L. 101–194, title VIII, § 802(d), Nov. 30, 1989, 103 Stat. 1773, as amended by Pub. L. 104–186, title II, § 219(a), Aug. 20, 1996, 110 Stat. 1747, provided that: “The Committee on House Oversight [now Committee on House Administration] of the House of Representatives shall take such action as may be necessary to carry out section 503 [set out above] with respect to vehicles of the House of Representatives.”
 
-### § 1345. Expenses of meetings
+### § 1345. Expenses of meetings
 
 Except as specifically provided by law, an appropriation may not be used for travel, transportation, and subsistence expenses for a meeting. This section does not prohibit—
 
@@ -1711,29 +1711,29 @@ In clause (1), the words “agency from paying” are substituted for “the pay
 
 **Availability of Appropriations for Expenses of Attending Meetings**
 
-Pub. L. 102–394, title V, § 505, Oct. 6, 1992, 106 Stat. 1825, provided that: “Appropriations contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, available for salaries and expenses, shall be available for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made or which will contribute to improved conduct, supervision, or management of those functions or activities.”
+Pub. L. 102–394, title V, § 505, Oct. 6, 1992, 106 Stat. 1825, provided that: “Appropriations contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, available for salaries and expenses, shall be available for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made or which will contribute to improved conduct, supervision, or management of those functions or activities.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 102–170, title V, § 505, Nov. 26, 1991, 105 Stat. 1141.
+Pub. L. 102–170, title V, § 505, Nov. 26, 1991, 105 Stat. 1141.
 
-Pub. L. 101–517, title V, § 505, Nov. 5, 1990, 104 Stat. 2221.
+Pub. L. 101–517, title V, § 505, Nov. 5, 1990, 104 Stat. 2221.
 
-Pub. L. 101–166, title V, § 505, Nov. 21, 1989, 103 Stat. 1189.
+Pub. L. 101–166, title V, § 505, Nov. 21, 1989, 103 Stat. 1189.
 
-Pub. L. 100–202, § 101(h) [title V, § 505], Dec. 22, 1987, 101 Stat. 1329–256, 1329–287.
+Pub. L. 100–202, § 101(h) [title V, § 505], Dec. 22, 1987, 101 Stat. 1329–256, 1329–287.
 
-Pub. L. 99–500, § 101(i) [H.R. 5233, title V, § 505], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title V, § 505], Oct. 30, 1986, 100 Stat. 3341–287.
+Pub. L. 99–500, § 101(i) [H.R. 5233, title V, § 505], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title V, § 505], Oct. 30, 1986, 100 Stat. 3341–287.
 
-Pub. L. 99–178, title V, § 505, Dec. 12, 1985, 99 Stat. 1132.
+Pub. L. 99–178, title V, § 505, Dec. 12, 1985, 99 Stat. 1132.
 
-Pub. L. 98–619, title V, § 505, Nov. 8, 1984, 98 Stat. 3333.
+Pub. L. 98–619, title V, § 505, Nov. 8, 1984, 98 Stat. 3333.
 
-Pub. L. 98–139, title V, § 505, Oct. 31, 1983, 97 Stat. 899.
+Pub. L. 98–139, title V, § 505, Oct. 31, 1983, 97 Stat. 899.
 
-Pub. L. 97–377, title I, § 101(e)(1) [title V, § 505], Dec. 21, 1982, 96 Stat. 1878, 1904.
+Pub. L. 97–377, title I, § 101(e)(1) [title V, § 505], Dec. 21, 1982, 96 Stat. 1878, 1904.
 
-### § 1346. Commissions, councils, boards, and inter­agency and similar groups
+### § 1346. Commissions, councils, boards, and inter­agency and similar groups
 
 **(a)** Except as provided in this section—
 
@@ -1763,9 +1763,9 @@ Pub. L. 97–377, title I, § 101(e)(1) [title V, § 505], Dec. 21, 1982, 96
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1346(a) | 31:672(1st sentence less words between 4th and 5th commas). | R.S. § 3681. |
-|  | 31:673(less words between 11th comma and semicolon). | Mar. 4, 1909, ch. 299, § 9, 35 Stat. 1027. |
-| 1346(b) | 31:691. | May 3, 1945, ch. 106, § 214, 59 Stat. 134. |
+| 1346(a) | 31:672(1st sentence less words between 4th and 5th commas). | R.S. § 3681. |
+|  | 31:673(less words between 11th comma and semicolon). | Mar. 4, 1909, ch. 299, § 9, 35 Stat. 1027. |
+| 1346(b) | 31:691. | May 3, 1945, ch. 106, § 214, 59 Stat. 134. |
 | 1346(c) | 31:672(1st sentence words between 4th and 5th commas), (last sentence). |  |
 |  | 31:673(words between 11th comma and semicolon). |  |
 
@@ -1777,13 +1777,13 @@ In subsection (a)(2), the words “of the Government” are omitted as surplus. 
 
 In subsection (b), the words “On or after May 3, 1945” are omitted as executed. The words “interagency group” are substituted for “committees, boards, or other interagency groups” to eliminate unnecessary words. The words “includes a representative of the agency” are substituted for “composed in whole or in part of representatives thereof” for clarity.
 
-In subsection (c)(1), the words “authorized by law” are substituted for “unless the creation . . . shall be or shall have been authorized by law” to eliminate unnecessary words.
+In subsection (c)(1), the words “authorized by law” are substituted for “unless the creation . . . shall be or shall have been authorized by law” to eliminate unnecessary words.
 
 In subsection (c)(2), the words “armed forces” are substituted for “military or naval service of the United States” for consistency.
 
 Subsection (c)(3) is substituted for the last sentence of 31:672 to eliminate unnecessary words.
 
-### § 1347. Appropriations or authorizations required for agencies in existence for more than one year
+### § 1347. Appropriations or authorizations required for agencies in existence for more than one year
 
 **(a)** An agency in existence for more than one year may not use amounts otherwise available for obligation to pay its expenses without a specific appropriation or specific authorization by law. If the principal duties and powers of the agency are substantially the same as or similar to the duties and powers of an agency established by executive order, the agency established later is deemed to have been in existence from the date the agency established by the order came into existence.
 
@@ -1795,16 +1795,16 @@ Subsection (c)(3) is substituted for the last sentence of 31:672 to eliminate un
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1347(a) | 31:696(1st, 2d sentences). | June 27, 1944, ch. 286, § 213, 58 Stat. 387. |
+| 1347(a) | 31:696(1st, 2d sentences). | June 27, 1944, ch. 286, § 213, 58 Stat. 387. |
 | 1347(b) | 31:696(last sentence). |  |
 
 In the section, the word “agency” is substituted for “agency or instrumentality” because of section 101 of the revised title and for consistency. The words “amounts otherwise available for obligation” are substituted for “any appropriation or fund made available by this or any other Act”, and the words “duties and powers” are substituted for “functions”, for consistency in the revised title.
 
-In subsection (a), the words “After January 1, 1945” are omitted as executed. The words “including those established by Executive order” are omitted the first time they appear as surplus. The words “from the date . . . came into existence” are substituted for “during the existence” for clarity.
+In subsection (a), the words “After January 1, 1945” are omitted as executed. The words “including those established by Executive order” are omitted the first time they appear as surplus. The words “from the date . . . came into existence” are substituted for “during the existence” for clarity.
 
 In subsection (b), the word “amounts” is substituted for “appropriations” for consistency in the revised title.
 
-### § 1348. Telephone installation and charges
+### § 1348. Telephone installation and charges
 
 **(a)**
 
@@ -1816,17 +1816,17 @@ In subsection (b), the word “amounts” is substituted for “appropriations�
 
 **(c)** Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense are available to install, repair, and maintain telephone wiring in residences owned or leased by the United States Government and, if necessary for national defense purposes, in other private residences.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 926; Pub. L. 98–407, title VIII, § 811(a), Aug. 28, 1984, 98 Stat. 1523; Pub. L. 104–201, div. A, title XVII, § 1721, Sept. 23, 1996, 110 Stat. 2758.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 926; Pub. L. 98–407, title VIII, § 811(a), Aug. 28, 1984, 98 Stat. 1523; Pub. L. 104–201, div. A, title XVII, § 1721, Sept. 23, 1996, 110 Stat. 2758.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1348(a)(1) | 31:679(words before 2d comma). | Aug. 23, 1912, ch. 350, § 7(less proviso), 37 Stat. 414. |
-| 1348(a)(2) | 31:679(proviso). | Aug. 23, 1912, ch. 350, 37 Stat. 360, § 7(proviso); added Apr. 30, 1940, ch. 175, 54 Stat. 175. |
+| 1348(a)(1) | 31:679(words before 2d comma). | Aug. 23, 1912, ch. 350, § 7(less proviso), 37 Stat. 414. |
+| 1348(a)(2) | 31:679(proviso). | Aug. 23, 1912, ch. 350, 37 Stat. 360, § 7(proviso); added Apr. 30, 1940, ch. 175, 54 Stat. 175. |
 | 1348(b) | 31:679(words between 2d comma and proviso). |  |
-|  | 31:680a. | May 10, 1939, ch. 119, § 4, 53 Stat. 738. |
-| 1348(c) | 31:680. | Sept. 22, 1922, ch. 427, § 7, 42 Stat. 1042; May 17, 1950, ch. 188, § 203, 64 Stat. 170; restated June 28, 1955, ch. 198, 69 Stat. 188. |
+|  | 31:680a. | May 10, 1939, ch. 119, § 4, 53 Stat. 738. |
+| 1348(c) | 31:680. | Sept. 22, 1922, ch. 427, § 7, 42 Stat. 1042; May 17, 1950, ch. 188, § 203, 64 Stat. 170; restated June 28, 1955, ch. 198, 69 Stat. 188. |
 
 In subsection (a)(1), the words “or private apartment” are omitted as being included in “private residences”.
 
@@ -1834,15 +1834,15 @@ In subsection (a)(2), the word “appropriations” is substituted for “Govern
 
 In subsection (b), the words “On and after May 10, 1939” in 31:680a are omitted as executed. The word “agency” is substituted for “executive department, establishment, or agency” for clarity and because of section 101 of the revised title. The words “official business” are substituted for “public business” in 31:679 and “transaction of public business which the interests of the Government require to be so transacted” in 31:680a to eliminate unnecessary words. The words “division, bureau, or office” in 31:679 are omitted as being included in “agency”. The words “or such subordinates as he may specially designate” in 31:680a are omitted as surplus.
 
-In subsection (c), the words “On and after September 22, 1922 the provisions of section 679 of this title, or any other law prohibiting the expenditure of public money . . . shall not be construed to apply to or forbid” are omitted as unnecessary because of the restatement.
+In subsection (c), the words “On and after September 22, 1922 the provisions of section 679 of this title, or any other law prohibiting the expenditure of public money . . . shall not be construed to apply to or forbid” are omitted as unnecessary because of the restatement.
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a)(2). Pub. L. 104–201, § 1721(1), struck out at end “Subsection (b) of this section applies to long-distance calls made on those telephones.”
+1996—Subsec. (a)(2). Pub. L. 104–201, § 1721(1), struck out at end “Subsection (b) of this section applies to long-distance calls made on those telephones.”
 
-Subsecs. (b) to (d). Pub. L. 104–201, § 1721(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “Appropriations of an agency are available to pay charges for a long-distance call if required for official business and the voucher to pay for the call is sworn to by the head of the agency. Appropriations of an executive agency are available only if the head of the agency also certifies that the call is necessary in the interest of the Government.”
+Subsecs. (b) to (d). Pub. L. 104–201, § 1721(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “Appropriations of an agency are available to pay charges for a long-distance call if required for official business and the voucher to pay for the call is sworn to by the head of the agency. Appropriations of an executive agency are available only if the head of the agency also certifies that the call is necessary in the interest of the Government.”
 
 1984—Subsec. (d). Pub. L. 98–407 added subsec. (d).
 
@@ -1854,13 +1854,13 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–407, title VIII, § 811(b), Aug. 28, 1984, 98 Stat. 1523, provided that: “The amendment made by subsection (a) [amending this section] shall be effective as of January 1, 1984. Funds appropriated to the Department of Defense may be used to reimburse persons for expenditures made after December 31, 1983, for the installation, repair, and maintenance of telephone wiring in any Government-owned or leased housing unit before the date of the enactment of this Act [Aug. 28, 1984].”
+Pub. L. 98–407, title VIII, § 811(b), Aug. 28, 1984, 98 Stat. 1523, provided that: “The amendment made by subsection (a) [amending this section] shall be effective as of January 1, 1984. Funds appropriated to the Department of Defense may be used to reimburse persons for expenditures made after December 31, 1983, for the installation, repair, and maintenance of telephone wiring in any Government-owned or leased housing unit before the date of the enactment of this Act [Aug. 28, 1984].”
 
 **Employees Authorized To Work at Home**
 
-Pub. L. 104–52, title VI, § 620, Nov. 19, 1995, 109 Stat. 501, provided that: “Notwithstanding any provisions of this or any other Act, during the fiscal year ending September 30, 1996, and hereafter, any department, division, bureau, or office may use funds appropriated by this or any other Act to install telephone lines, and necessary equipment, and to pay monthly charges, in any private residence or private apartment of an employee who has been authorized to work at home in accordance with guidelines issued by the Office of Personnel Management: *Provided*, That the head of the department, division, bureau, or office certifies that adequate safeguards against private misuse exist, and that the service is necessary for direct support of the agency’s mission.”
+Pub. L. 104–52, title VI, § 620, Nov. 19, 1995, 109 Stat. 501, provided that: “Notwithstanding any provisions of this or any other Act, during the fiscal year ending September 30, 1996, and hereafter, any department, division, bureau, or office may use funds appropriated by this or any other Act to install telephone lines, and necessary equipment, and to pay monthly charges, in any private residence or private apartment of an employee who has been authorized to work at home in accordance with guidelines issued by the Office of Personnel Management: *Provided*, That the head of the department, division, bureau, or office certifies that adequate safeguards against private misuse exist, and that the service is necessary for direct support of the agency’s mission.”
 
-### § 1349. Adverse personnel actions
+### § 1349. Adverse personnel actions
 
 **(a)** An officer or employee of the United States Government or of the District of Columbia government violating section 1341(a) or 1342 of this title shall be subject to appropriate administrative discipline including, when circumstances warrant, suspension from duty without pay or removal from office.
 
@@ -1872,14 +1872,14 @@ Pub. L. 104–52, title VI, § 620, Nov. 19, 1995, 109 Stat. 501, provided tha
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1349(a) | 31:665(i)(1)(words before semicolon related to (a), (b)). | R.S. § 3679(i)(1)(words before semicolon related to (a), (b)); Mar. 3, 1905, ch. 1484, § 4(1st par.), 33 Stat. 1257; Feb. 27, 1906, ch. 510, § 3, 34 Stat. 48; restated Sept. 6, 1950, ch. 896, § 1211, 64 Stat. 768. |
-| 1349(b) | 31:638a(c)(2)(2d sentence). | July 16, 1914, ch. 141, § 5(c)(2)(2d sentence), 38 Stat. 508; restated Aug. 2, 1946, ch. 744, § 16(a), 60 Stat. 810. |
+| 1349(a) | 31:665(i)(1)(words before semicolon related to (a), (b)). | R.S. § 3679(i)(1)(words before semicolon related to (a), (b)); Mar. 3, 1905, ch. 1484, § 4(1st par.), 33 Stat. 1257; Feb. 27, 1906, ch. 510, § 3, 34 Stat. 48; restated Sept. 6, 1950, ch. 896, § 1211, 64 Stat. 768. |
+| 1349(b) | 31:638a(c)(2)(2d sentence). | July 16, 1914, ch. 141, § 5(c)(2)(2d sentence), 38 Stat. 508; restated Aug. 2, 1946, ch. 744, § 16(a), 60 Stat. 810. |
 
 In subsection (a), the words “In addition to any penalty or liability under other law” are omitted as surplus. The words “District of Columbia government” are added because of section 47–105 of the D.C. Code.
 
 In subsection (b), the words “of the Government” and “from duty” are omitted as unnecessary because of the restatement. The word “pay” is substituted for “compensation” for consistency. The word “agency” is substituted for “department” because of section 101 of the revised title and for consistency.
 
-### § 1350. Criminal penalty
+### § 1350. Criminal penalty
 
 An officer or employee of the United States Government or of the District of Columbia government knowingly and willfully violating section 1341(a) or 1342 of this title shall be fined not more than $5,000, imprisoned for not more than 2 years, or both.
 
@@ -1889,21 +1889,21 @@ An officer or employee of the United States Government or of the District of Col
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1350 | 31:665(i)(1)(words after semicolon related to (a), (b)). | R.S. § 3679(i)(1)(words after semicolon related to (a), (b)); Mar. 3, 1905, ch. 1484, § 4(1st par.), 33 Stat. 1257; Feb. 27, 1906, ch. 510, § 3, 34 Stat. 48; restated Sept. 6, 1950, ch. 896, § 1211, 64 Stat. 768. |
+| 1350 | 31:665(i)(1)(words after semicolon related to (a), (b)). | R.S. § 3679(i)(1)(words after semicolon related to (a), (b)); Mar. 3, 1905, ch. 1484, § 4(1st par.), 33 Stat. 1257; Feb. 27, 1906, ch. 510, § 3, 34 Stat. 48; restated Sept. 6, 1950, ch. 896, § 1211, 64 Stat. 768. |
 
 The words “District of Columbia government” are added because of section 47–105 of the D.C. Code. The words “upon conviction” are omitted as surplus.
 
-### § 1351. Reports on violations
+### § 1351. Reports on violations
 
 If an officer or employee of an executive agency or an officer or employee of the District of Columbia government violates section 1341(a) or 1342 of this title, the head of the agency or the Mayor of the District of Columbia, as the case may be, shall report immediately to the President and Congress all relevant facts and a statement of actions taken. A copy of each report shall also be transmitted to the Comptroller General on the same date the report is transmitted to the President and Congress.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 926; Pub. L. 108–447, div. G, title I, § 1401(a), Dec. 8, 2004, 118 Stat. 3192.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 926; Pub. L. 108–447, div. G, title I, § 1401(a), Dec. 8, 2004, 118 Stat. 3192.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1351 | 31:665(i)(2)(related to (a), (b)). | R.S. § 3679(i)(2)(related to (a), (b)); Mar. 3, 1905, ch. 1404, § 4(1st par.), 33 Stat. 1257; Feb. 27, 1906, ch. 510, § 3, 34 Stat. 48; restated Sept. 6, 1950, ch. 896, § 1211, 64 Stat. 768. |
+| 1351 | 31:665(i)(2)(related to (a), (b)). | R.S. § 3679(i)(2)(related to (a), (b)); Mar. 3, 1905, ch. 1404, § 4(1st par.), 33 Stat. 1257; Feb. 27, 1906, ch. 510, § 3, 34 Stat. 48; restated Sept. 6, 1950, ch. 896, § 1211, 64 Stat. 768. |
 
 The words “executive agency” are substituted for “agency” because the definition of “agency” in 31:665(d)(2) applies to the source provisions restated in the section and because of section 102 of the revised title. The word “Mayor” is used because of Reorganization Plan No. 3 of 1967 (eff. Aug. 11, 1967, 81 Stat. 948) and sections 421, 422, and 771 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, 87 Stat. 789, 818). The word “President” is substituted for “President, through the Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
@@ -1913,7 +1913,7 @@ The words “executive agency” are substituted for “agency” because the de
 
 2004—Pub. L. 108–447 inserted at end “A copy of each report shall also be transmitted to the Comptroller General on the same date the report is transmitted to the President and Congress.”
 
-### § 1352. Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions
+### § 1352. Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions
 
 **(a)**
 
@@ -2057,15 +2057,15 @@ The words “executive agency” are substituted for “agency” because the de
 
 **(11)** The terms “Indian tribe” and “tribal organization” have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Added Pub. L. 101–121, title III, § 319(a)(1), Oct. 23, 1989, 103 Stat. 750; amended Pub. L. 101–512, title III, § 320, Nov. 5, 1990, 104 Stat. 1977; Pub. L. 103–272, § 4(f)(1)(F), July 5, 1994, 108 Stat. 1362; Pub. L. 104–65, § 10, Dec. 19, 1995, 109 Stat. 700; Pub. L. 104–66, title III, § 3001(b), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–106, div. A, title X, § 1064(c), div. D, title XLIII, § 4301(a)(2), Feb. 10, 1996, 110 Stat. 445, 656.)
+(Added Pub. L. 101–121, title III, § 319(a)(1), Oct. 23, 1989, 103 Stat. 750; amended Pub. L. 101–512, title III, § 320, Nov. 5, 1990, 104 Stat. 1977; Pub. L. 103–272, § 4(f)(1)(F), July 5, 1994, 108 Stat. 1362; Pub. L. 104–65, § 10, Dec. 19, 1995, 109 Stat. 700; Pub. L. 104–66, title III, § 3001(b), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–106, div. A, title X, § 1064(c), div. D, title XLIII, § 4301(a)(2), Feb. 10, 1996, 110 Stat. 445, 656.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Lobbying Disclosure Act of 1995, referred to in subsec. (b)(2)(A), (3), is Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, which is classified principally to chapter 26 (§ 1601 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 2 and Tables.
+The Lobbying Disclosure Act of 1995, referred to in subsec. (b)(2)(A), (3), is Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, which is classified principally to chapter 26 (§ 1601 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 2 and Tables.
 
 Section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b), referred to in subsec. (g)(11), was classified to section 450b of Title 25, Indians, prior to editorial reclassification as section 5304 of Title 25.
 
@@ -2075,13 +2075,13 @@ Another section 1352 was renumbered section 1353 of this title.
 
 **Amendments**
 
-1996—Subsec. (b)(2). Pub. L. 104–106, § 4301(a)(2), which directed amendment of par. (2) by inserting “and” after the semicolon at the end of subpar. (A) and by striking out subpar. (C), was not executed because subsec. (b)(2) did not contain a subpar. (C) subsequent to amendment by Pub. L. 104–65, § 10(a)(1). See 1995 Amendment note below.
+1996—Subsec. (b)(2). Pub. L. 104–106, § 4301(a)(2), which directed amendment of par. (2) by inserting “and” after the semicolon at the end of subpar. (A) and by striking out subpar. (C), was not executed because subsec. (b)(2) did not contain a subpar. (C) subsequent to amendment by Pub. L. 104–65, § 10(a)(1). See 1995 Amendment note below.
 
-Subsec. (b)(6)(A). Pub. L. 104–106, § 1064(c)(1), which directed insertion of “(other than the Secretary of Defense and Secretary of a military department)” after “The head of each agency”, could not be executed because subsec. (b)(6) did not contain a subpar. (A) subsequent to amendment by Pub. L. 104–65, § 10(a)(3). See 1995 Amendment note below.
+Subsec. (b)(6)(A). Pub. L. 104–106, § 1064(c)(1), which directed insertion of “(other than the Secretary of Defense and Secretary of a military department)” after “The head of each agency”, could not be executed because subsec. (b)(6) did not contain a subpar. (A) subsequent to amendment by Pub. L. 104–65, § 10(a)(3). See 1995 Amendment note below.
 
-Subsec. (d)(1). Pub. L. 104–106, § 1064(c)(2), which directed the insertion of “(other than in the case of the Department of Defense or a military department)” after “paragraph (3) of this subsection”, could not be executed because subsec. (d)(1) did not contain phrase “paragraph (3) of this subsection” subsequent to amendment by Pub. L. 104–65, § 10(b). See 1995 Amendment note below.
+Subsec. (d)(1). Pub. L. 104–106, § 1064(c)(2), which directed the insertion of “(other than in the case of the Department of Defense or a military department)” after “paragraph (3) of this subsection”, could not be executed because subsec. (d)(1) did not contain phrase “paragraph (3) of this subsection” subsequent to amendment by Pub. L. 104–65, § 10(b). See 1995 Amendment note below.
 
-1995—Subsec. (b)(2). Pub. L. 104–65, § 10(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
+1995—Subsec. (b)(2). Pub. L. 104–65, § 10(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
 
 “(A) a statement setting forth whether such person—
 
@@ -2103,7 +2103,7 @@ Subsec. (d)(1). Pub. L. 104–106, § 1064(c)(2), which directed the insertion
 
 “(C) a certification that the person making the declaration has not made, and will not make, any payment prohibited by subsection (a).”
 
-Subsec. (b)(3). Pub. L. 104–65, § 10(a)(2), substituted “shall contain the name of any registrant under the Lobbying Disclosure Act of 1995 who has made lobbying contacts on behalf of the person in connection with that  loan  insurance  or  guarantee.”  for  “shall  contain—” and struck out subpars. (A) and (B) which read as follows:
+Subsec. (b)(3). Pub. L. 104–65, § 10(a)(2), substituted “shall contain the name of any registrant under the Lobbying Disclosure Act of 1995 who has made lobbying contacts on behalf of the person in connection with that loan insurance or guarantee.” for “shall contain—” and struck out subpars. (A) and (B) which read as follows:
 
 “(A) a statement setting forth whether such person—
 
@@ -2113,15 +2113,15 @@ Subsec. (b)(3). Pub. L. 104–65, § 10(a)(2), substituted “shall contain th
 
 “(B) with respect to each such payment (if any) and each such agreement (if any), the information described in paragraph (2)(B) of this subsection.”
 
-Subsec. (b)(6), (7). Pub. L. 104–65, § 10(a)(3), redesignated par. (7) as (6), and struck out former par. (6) which directed head of each agency to collect and compile detailed information on any unappropriated payments under Federal contracts, and report such information to the appropriate congressional officer or committee.
+Subsec. (b)(6), (7). Pub. L. 104–65, § 10(a)(3), redesignated par. (7) as (6), and struck out former par. (6) which directed head of each agency to collect and compile detailed information on any unappropriated payments under Federal contracts, and report such information to the appropriate congressional officer or committee.
 
-Subsecs. (d) to (h). Pub. L. 104–65, § 10(b), and Pub. L. 104–66, § 3001(b), amended section identically, redesignating subsecs. (e) to (h) as (d) to (g), respectively, and striking out former subsec. (d) which directed the Inspector General or official of each agency to submit annual reports to Congress on the compliance of each agency with the requirements imposed by this section.
+Subsecs. (d) to (h). Pub. L. 104–65, § 10(b), and Pub. L. 104–66, § 3001(b), amended section identically, redesignating subsecs. (e) to (h) as (d) to (g), respectively, and striking out former subsec. (d) which directed the Inspector General or official of each agency to submit annual reports to Congress on the compliance of each agency with the requirements imposed by this section.
 
-1994—Subsec. (c). Pub. L. 103–272, § 4(f)(1)(F)(i), substituted “(c)(1) Any person” for “(C)(1) Any person”.
+1994—Subsec. (c). Pub. L. 103–272, § 4(f)(1)(F)(i), substituted “(c)(1) Any person” for “(C)(1) Any person”.
 
-Subsec. (e)(1)(C). Pub. L. 103–272, § 4(f)(1)(F)(ii), substituted “appropriated” for “appropirated” and inserted period at end.
+Subsec. (e)(1)(C). Pub. L. 103–272, § 4(f)(1)(F)(ii), substituted “appropriated” for “appropirated” and inserted period at end.
 
-Subsec. (h)(7). Pub. L. 103–272, § 4(f)(1)(F)(iii), inserted periods after “agency” and “guaranty”.
+Subsec. (h)(7). Pub. L. 103–272, § 4(f)(1)(F)(iii), inserted periods after “agency” and “guaranty”.
 
 1990—Subsec. (e)(2)(C). Pub. L. 101–512 inserted “or the single family maximum mortgage limit for affected programs, whichever is greater,” after “$150,000,”.
 
@@ -2137,17 +2137,17 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 
 **Effective Date**
 
-Pub. L. 101–121, title III, § 319(d), Oct. 23, 1989, 103 Stat. 756, provided that: “Section 1352 of title 31, United States Code (as added by subsection (a)), shall take effect with respect to Federal contracts, grants, loans, cooperative agreements, loan insurance commitments, and loan guaranty commitments that are entered into or made more than 60 days after the date of the enactment of this Act [Oct. 23, 1989].”
+Pub. L. 101–121, title III, § 319(d), Oct. 23, 1989, 103 Stat. 756, provided that: “Section 1352 of title 31, United States Code (as added by subsection (a)), shall take effect with respect to Federal contracts, grants, loans, cooperative agreements, loan insurance commitments, and loan guaranty commitments that are entered into or made more than 60 days after the date of the enactment of this Act [Oct. 23, 1989].”
 
 **First Report on May 31, 1990; Content**
 
-Pub. L. 101–121, title III, § 319(b), Oct. 23, 1989, 103 Stat. 756, provided that the first report submitted under former subsec. (b)(6) of this section was to be submitted on May 31, 1990, and was to contain a compilation relating to the statements received under subsec. (b) of this section during the six-month period beginning on Oct. 1, 1989.
+Pub. L. 101–121, title III, § 319(b), Oct. 23, 1989, 103 Stat. 756, provided that the first report submitted under former subsec. (b)(6) of this section was to be submitted on May 31, 1990, and was to contain a compilation relating to the statements received under subsec. (b) of this section during the six-month period beginning on Oct. 1, 1989.
 
 **Notification of Compliance Date; Guidance for Agency Implementation**
 
-Pub. L. 101–121, title III, § 319(c), Oct. 23, 1989, 103 Stat. 756, required the Director of the Office of Management and Budget to notify the head of each agency that this section was to be complied with commencing 60 days after Oct. 23, 1989, and required the Director, not later than 60 days after Oct. 23, 1989, to issue the guidance required under this section.
+Pub. L. 101–121, title III, § 319(c), Oct. 23, 1989, 103 Stat. 756, required the Director of the Office of Management and Budget to notify the head of each agency that this section was to be complied with commencing 60 days after Oct. 23, 1989, and required the Director, not later than 60 days after Oct. 23, 1989, to issue the guidance required under this section.
 
-### § 1353. Acceptance of travel and related expenses from non-Federal sources
+### § 1353. Acceptance of travel and related expenses from non-Federal sources
 
 **(a)** Notwithstanding any other provision of law, the Administrator of General Services, in consultation with the Director of the Office of Government Ethics, shall prescribe by regulation the conditions under which an agency in the executive branch (including an independent agency) may accept payment, or authorize an employee of such agency to accept payment on the agency’s behalf, from non-Federal sources for travel, subsistence, and related expenses with respect to attendance of the employee (or the spouse of such employee) at any meeting or similar function relating to the official duties of the employee. Any cash payment so accepted shall be credited to the appropriation applicable to such expenses. In the case of a payment in kind so accepted, a pro rata reduction shall be made in any entitlement of the employee to payment from the Government for such expenses.
 
@@ -2181,23 +2181,23 @@ Pub. L. 101–121, title III, § 319(c), Oct. 23, 1989, 103 Stat. 756, require
 
 **(C)** be submitted not later than November 30 of each year with respect to payments in the preceding period beginning on April 1 and ending on September 30.
 
-(Added Pub. L. 101–194, title III, § 302(a), Nov. 30, 1989, 103 Stat. 1745, § 1352; renumbered § 1353 and amended Pub. L. 101–280, § 4(b)(1), (c), May 4, 1990, 104 Stat. 157, 158.)
+(Added Pub. L. 101–194, title III, § 302(a), Nov. 30, 1989, 103 Stat. 1745, § 1352; renumbered § 1353 and amended Pub. L. 101–280, § 4(b)(1), (c), May 4, 1990, 104 Stat. 157, 158.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Pub. L. 101–280, § 4(b)(1), renumbered section 1352 of this title as this section.
+1990—Pub. L. 101–280, § 4(b)(1), renumbered section 1352 of this title as this section.
 
-Subsec. (a). Pub. L. 101–280, § 4(c)(1), substituted “in the executive branch (including an independent agency) may accept payment, or authorize an employee of such agency to accept payment on the agency’s behalf,” for “or employee in the executive branch may accept payment”.
+Subsec. (a). Pub. L. 101–280, § 4(c)(1), substituted “in the executive branch (including an independent agency) may accept payment, or authorize an employee of such agency to accept payment on the agency’s behalf,” for “or employee in the executive branch may accept payment”.
 
-Subsec. (b). Pub. L. 101–280, § 4(c)(2)(A), inserted “or 7342” after “section 4111”.
+Subsec. (b). Pub. L. 101–280, § 4(c)(2)(A), inserted “or 7342” after “section 4111”.
 
-Subsec. (b)(2). Pub. L. 101–280, § 4(c)(2)(B), substituted “(1),” for “(1)”.
+Subsec. (b)(2). Pub. L. 101–280, § 4(c)(2)(B), substituted “(1),” for “(1)”.
 
-Subsec. (c)(1). Pub. L. 101–280, § 4(c)(3), substituted “all executive agencies” for “any executive agency”.
+Subsec. (c)(1). Pub. L. 101–280, § 4(c)(3), substituted “all executive agencies” for “any executive agency”.
 
-### § 1354. Limitation on use of appropriated funds for contracts with entities not meeting veterans’ employment reporting requirements
+### § 1354. Limitation on use of appropriated funds for contracts with entities not meeting veterans’ employment reporting requirements
 
 **(a)**
 
@@ -2207,9 +2207,9 @@ Subsec. (c)(1). Pub. L. 101–280, § 4(c)(3), substituted “all executive ag
 
 **(b)** The Secretary of Labor shall make available in a database a list of the contractors that have complied with the provisions of such section 4212(d).
 
-(Added Pub. L. 105–339, § 7(b)(1), Oct. 31, 1998, 112 Stat. 3189.)
+(Added Pub. L. 105–339, § 7(b)(1), Oct. 31, 1998, 112 Stat. 3189.)
 
-### § 1355. Prohibition on use of funds for portraits
+### § 1355. Prohibition on use of funds for portraits
 
 **(a)** No funds appropriated or otherwise made available to the Federal Government may be used to pay for the painting of a portrait of an officer or employee of the Federal Government, including the President, the Vice President, a Member of Congress, the head of an executive agency, or the head of an office of the legislative branch.
 
@@ -2219,4 +2219,4 @@ Subsec. (c)(1). Pub. L. 101–280, § 4(c)(3), substituted “all executive ag
 
 **(2)** the term “Member of Congress” includes a Delegate or Resident Commissioner to Congress.
 
-(Added Pub. L. 115–158, § 2(a), Mar. 27, 2018, 132 Stat. 1242.)
+(Added Pub. L. 115–158, § 2(a), Mar. 27, 2018, 132 Stat. 1242.)

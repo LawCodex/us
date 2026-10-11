@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2005—Pub. L. 109–8, title I, § 102(k), title VII, § 719(b)(2), title IX, § 907(p)(2), Apr. 20, 2005, 119 Stat. 35, 133, 182, added items 753 and 767, substituted “Dismissal of a case or conversion to a case under chapter 11 or 13” for “Dismissal” in item 707, and struck out item 728 “Special tax provisions”.
+2005—Pub. L. 109–8, title I, § 102(k), title VII, § 719(b)(2), title IX, § 907(p)(2), Apr. 20, 2005, 119 Stat. 35, 133, 182, added items 753 and 767, substituted “Dismissal of a case or conversion to a case under chapter 11 or 13” for “Dismissal” in item 707, and struck out item 728 “Special tax provisions”.
 
-2000—Pub. L. 106–554, § 1(a)(5) [title I, § 112(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–396, added subchapter V heading and items 781 to 784.
+2000—Pub. L. 106–554, § 1(a)(5) [title I, § 112(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–396, added subchapter V heading and items 781 to 784.
 
-1984—Pub. L. 98–353, title III, § 471, July 10, 1984, 98 Stat. 380, substituted “Successor” for “Succesor” in item 703.
+1984—Pub. L. 98–353, title III, § 471, July 10, 1984, 98 Stat. 380, substituted “Successor” for “Succesor” in item 703.
 
 ## SUBCHAPTER I—OFFICERS AND ADMINISTRATION
 
-### § 701. Interim trustee
+### § 701. Interim trustee
 
 **(a)**
 
@@ -39,7 +39,7 @@ retrieved: 2026-10-11
 
 **(c)** An interim trustee serving under this section is a trustee in a case under this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2604; Pub. L. 99–554, title II, § 215, Oct. 27, 1986, 100 Stat. 3100.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2604; Pub. L. 99–554, title II, § 215, Oct. 27, 1986, 100 Stat. 3100.)
 
 **Historical and Revision Notes**
 
@@ -71,7 +71,7 @@ Subsection (d) provides that in a commodity broker case where speed is essential
 
 Effective date and applicability of amendment by Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-### § 702. Election of trustee
+### § 702. Election of trustee
 
 **(a)** A creditor may vote for a candidate for trustee only if such creditor—
 
@@ -91,7 +91,7 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 
 **(d)** If a trustee is not elected under this section, then the interim trustee shall serve as trustee in the case.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2604; Pub. L. 97–222, § 7, July 27, 1982, 96 Stat. 237; Pub. L. 98–353, title III, § 472, July 10, 1984, 98 Stat. 380.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2604; Pub. L. 97–222, § 7, July 27, 1982, 96 Stat. 237; Pub. L. 98–353, title III, § 472, July 10, 1984, 98 Stat. 380.)
 
 **Historical and Revision Notes**
 
@@ -111,13 +111,13 @@ Subsection (d) specifies that if a trustee is not elected, then the interim trus
 
 **Amendments**
 
-1984—Subsec. (b). Pub. L. 98–353, § 472(a), inserted “held” after “meeting of creditors”.
+1984—Subsec. (b). Pub. L. 98–353, § 472(a), inserted “held” after “meeting of creditors”.
 
-Subsec. (c)(1). Pub. L. 98–353, § 472(b)(1), inserted “of a kind” after “claims”.
+Subsec. (c)(1). Pub. L. 98–353, § 472(b)(1), inserted “of a kind” after “claims”.
 
-Subsec. (c)(2). Pub. L. 98–353, § 472(b)(2), substituted “for a trustee” for “for trustee”.
+Subsec. (c)(2). Pub. L. 98–353, § 472(b)(2), substituted “for a trustee” for “for trustee”.
 
-Subsec. (d). Pub. L. 98–353, § 472(c), substituted “this section” for “subsection (c) of this section”.
+Subsec. (d). Pub. L. 98–353, § 472(c), substituted “this section” for “subsection (c) of this section”.
 
 1982—Subsec. (a)(1). Pub. L. 97–222 substituted “726(a)(4), 752(a), 766(h), or 766(i)” for “or 726(a)(4)”.
 
@@ -127,7 +127,7 @@ Subsec. (d). Pub. L. 98–353, § 472(c), substituted “this section” for �
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 703. Successor trustee
+### § 703. Successor trustee
 
 **(a)** If a trustee dies or resigns during a case, fails to qualify under section 322 of this title, or is removed under section 324 of this title, creditors may elect, in the manner specified in section 702 of this title, a person to fill the vacancy in the office of trustee.
 
@@ -139,7 +139,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(2)** may, if none of the disinterested members of such panel is willing to serve as trustee, serve as trustee in the case.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2605; Pub. L. 98–353, title III, § 473, July 10, 1984, 98 Stat. 381; Pub. L. 99–554, title II, § 216, Oct. 27, 1986, 100 Stat. 3100.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2605; Pub. L. 98–353, title III, § 473, July 10, 1984, 98 Stat. 381; Pub. L. 99–554, title II, § 216, Oct. 27, 1986, 100 Stat. 3100.)
 
 **Historical and Revision Notes**
 
@@ -167,7 +167,7 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 704. Duties of trustee
+### § 704. Duties of trustee
 
 **(a)** The trustee shall—
 
@@ -253,7 +253,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(B)** Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making such disclosure.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2605; Pub. L. 98–353, title III, §§ 311(a), 474, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, § 217, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 109–8, title I, § 102(c), title II, § 219(a), title IV, § 446(b), title XI, § 1105(a), Apr. 20, 2005, 119 Stat. 32, 55, 118, 192; Pub. L. 111–16, § 2(7), May 7, 2009, 123 Stat. 1607; Pub. L. 111–327, § 2(a)(24), Dec. 22, 2010, 124 Stat. 3560.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2605; Pub. L. 98–353, title III, §§ 311(a), 474, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, § 217, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 109–8, title I, § 102(c), title II, § 219(a), title IV, § 446(b), title XI, § 1105(a), Apr. 20, 2005, 119 Stat. 32, 55, 118, 192; Pub. L. 111–16, § 2(7), May 7, 2009, 123 Stat. 1607; Pub. L. 111–327, § 2(a)(24), Dec. 22, 2010, 124 Stat. 3560.)
 
 **Historical and Revision Notes**
 
@@ -283,25 +283,25 @@ Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A
 
 2009—Subsec. (b)(1)(B). Pub. L. 111–16 substituted “7 days” for “5 days”.
 
-2005—Pub. L. 109–8, § 102(c)(1), designated existing provisions as subsec. (a).
+2005—Pub. L. 109–8, § 102(c)(1), designated existing provisions as subsec. (a).
 
-Subsec. (a)(10). Pub. L. 109–8, § 219(a)(1), added par. (10).
+Subsec. (a)(10). Pub. L. 109–8, § 219(a)(1), added par. (10).
 
-Subsec. (a)(11). Pub. L. 109–8, § 446(b), added par. (11).
+Subsec. (a)(11). Pub. L. 109–8, § 446(b), added par. (11).
 
-Subsec. (a)(12). Pub. L. 109–8, § 1105(a), added par. (12).
+Subsec. (a)(12). Pub. L. 109–8, § 1105(a), added par. (12).
 
-Subsec. (b). Pub. L. 109–8, § 102(c)(2), added subsec. (b).
+Subsec. (b). Pub. L. 109–8, § 102(c)(2), added subsec. (b).
 
-Subsec. (c). Pub. L. 109–8, § 219(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 109–8, § 219(a)(2), added subsec. (c).
 
-1986—Par. (8). Pub. L. 99–554, § 217(1), inserted “, with the United States trustee,” after “with the court” and “the United States trustee or” after “information as”.
+1986—Par. (8). Pub. L. 99–554, § 217(1), inserted “, with the United States trustee,” after “with the court” and “the United States trustee or” after “information as”.
 
-Par. (9). Pub. L. 99–554, § 217(2), inserted “with the United States trustee” after “court”.
+Par. (9). Pub. L. 99–554, § 217(2), inserted “with the United States trustee” after “court”.
 
-1984—Par. (1). Pub. L. 98–353, § 474, substituted “close such estate” for “close up such estate”.
+1984—Par. (1). Pub. L. 98–353, § 474, substituted “close such estate” for “close up such estate”.
 
-Pars. (3) to (9). Pub. L. 98–353, § 311(a), added par. (3) and redesignated former pars. (3) to (8) as (4) to (9), respectively.
+Pars. (3) to (9). Pub. L. 98–353, § 311(a), added par. (3) and redesignated former pars. (3) to (8) as (4) to (9), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -321,13 +321,13 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 705. Creditors’ committee
+### § 705. Creditors’ committee
 
 **(a)** At the meeting under section 341(a) of this title, creditors that may vote for a trustee under section 702(a) of this title may elect a committee of not fewer than three, and not more than eleven, creditors, each of whom holds an allowable unsecured claim of a kind entitled to distribution under section 726(a)(2) of this title.
 
 **(b)** A committee elected under subsection (a) of this section may consult with the trustee or the United States trustee in connection with the administration of the estate, make recommendations to the trustee or the United States trustee respecting the performance of the trustee’s duties, and submit to the court or the United States trustee any question affecting the administration of the estate.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2605; Pub. L. 99–554, title II, § 218, Oct. 27, 1986, 100 Stat. 3100.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2605; Pub. L. 99–554, title II, § 218, Oct. 27, 1986, 100 Stat. 3100.)
 
 **Historical and Revision Notes**
 
@@ -351,7 +351,7 @@ This section is derived from section 44b of the Bankruptcy Act [section 72(b) of
 
 Effective date and applicability of amendment by Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-### § 706. Conversion
+### § 706. Conversion
 
 **(a)** The debtor may convert a case under this chapter to a case under chapter 11, 12, or 13 of this title at any time, if the case has not been converted under section 1112, 1208, or 1307 of this title. Any waiver of the right to convert a case under this subsection is unenforceable.
 
@@ -361,7 +361,7 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 
 **(d)** Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 99–554, title II, § 257(q), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title V, § 501(d)(22), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 109–8, title I, § 101, Apr. 20, 2005, 119 Stat. 27.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 99–554, title II, § 257(q), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title V, § 501(d)(22), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 109–8, title I, § 101, Apr. 20, 2005, 119 Stat. 27.)
 
 **Historical and Revision Notes**
 
@@ -389,9 +389,9 @@ Subsection (d) reinforces section 109 by prohibiting conversion to a chapter unl
 
 1994—Subsec. (a). Pub. L. 103–394 substituted “1208, or 1307” for “1307, or 1208”.
 
-1986—Subsec. (a). Pub. L. 99–554, § 257(q)(1), inserted references to chapter 12 and section 1208 of this title.
+1986—Subsec. (a). Pub. L. 99–554, § 257(q)(1), inserted references to chapter 12 and section 1208 of this title.
 
-Subsec. (c). Pub. L. 99–554, § 257(q)(2), inserted reference to chapter 12.
+Subsec. (c). Pub. L. 99–554, § 257(q)(2), inserted reference to chapter 12.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -407,7 +407,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-### § 707. Dismissal of a case or conversion to a case under chapter 11 or 13
+### § 707. Dismissal of a case or conversion to a case under chapter 11 or 13
 
 **(a)** The court may dismiss a case under this chapter only after notice and a hearing and only for cause, including—
 
@@ -429,7 +429,7 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not app
 
 **(I)** 25 percent of the debtor’s nonpriority unsecured claims in the case, or $6,000,1
 
-<sup>1</sup>  See Adjustment of Dollar Amounts notes below.
+<sup>1</sup> See Adjustment of Dollar Amounts notes below.
 
 whichever is greater; or
 
@@ -443,7 +443,7 @@ whichever is greater; or
 
 **(III)** In addition, for a debtor eligible for chapter 13, the debtor’s monthly expenses may include the actual administrative expenses of administering a chapter 13 plan for the district in which the debtor resides, up to an amount of 10 percent of the projected plan payments, as determined under schedules issued by the Executive Office for United States Trustees.
 
-**(IV)** In addition, the debtor’s monthly expenses may include the actual expenses for each dependent child less than 18 years of age, not to exceed $1,500 <sup>1</sup> per year per child, to attend a private or public elementary or secondary school if the debtor provides documentation of such expenses and a detailed explanation of why such expenses are reasonable and necessary, and why such expenses are not already accounted for in the National Standards, Local Standards, or Other Necessary Expenses referred to in subclause (I).
+**(IV)** In addition, the debtor’s monthly expenses may include the actual expenses for each dependent child less than 18 years of age, not to exceed $1,500 <sup>1</sup> per year per child, to attend a private or public elementary or secondary school if the debtor provides documentation of such expenses and a detailed explanation of why such expenses are reasonable and necessary, and why such expenses are not already accounted for in the National Standards, Local Standards, or Other Necessary Expenses referred to in subclause (I).
 
 **(V)** In addition, the debtor’s monthly expenses may include an allowance for housing and utilities, in excess of the allowance specified by the Local Standards for housing and utilities issued by the Internal Revenue Service, based on the actual expenses for home energy costs if the debtor provides documentation of such actual expenses and demonstrates that such actual expenses are reasonable and necessary.
 
@@ -541,7 +541,7 @@ if after September 11, 2001, the debtor while a member of a reserve component of
 
 **(II)** the attorney (if any) who filed the motion did not comply with the requirements of clauses (i) and (ii) of paragraph (4)(C), and the motion was made solely for the purpose of coercing a debtor into waiving a right guaranteed to the debtor under this title.
 
-**(B)** A small business that has a claim of an aggregate amount less than $1,000 <sup>1</sup> shall not be subject to subparagraph (A)(ii)(I).
+**(B)** A small business that has a claim of an aggregate amount less than $1,000 <sup>1</sup> shall not be subject to subparagraph (A)(ii)(I).
 
 **(C)** For purposes of this paragraph—
 
@@ -563,7 +563,7 @@ if after September 11, 2001, the debtor while a member of a reserve component of
 
 **(B)** in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
 
-**(C)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 <sup>1</sup> per month for each individual in excess of 4.
+**(C)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 <sup>1</sup> per month for each individual in excess of 4.
 
 **(7)**
 
@@ -573,7 +573,7 @@ if after September 11, 2001, the debtor while a member of a reserve component of
 
 **(ii)** in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
 
-**(iii)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 <sup>1</sup> per month for each individual in excess of 4.
+**(iii)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 <sup>1</sup> per month for each individual in excess of 4.
 
 **(B)** In a case that is not a joint case, current monthly income of the debtor’s spouse shall not be considered for purposes of subparagraph (A) if—
 
@@ -601,7 +601,7 @@ if after September 11, 2001, the debtor while a member of a reserve component of
 
 **(3)** The court may not dismiss a case under paragraph (2) if the debtor establishes by a preponderance of the evidence that the filing of a case under this chapter is necessary to satisfy a claim for a domestic support obligation.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§ 312, 475, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, § 219, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 105–183, § 4(b), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, § 102(a), (f), Apr. 20, 2005, 119 Stat. 27, 33; Pub. L. 110–438, § 2, Oct. 20, 2008, 122 Stat. 5000; Pub. L. 111–320, title II, § 202(a), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 111–327, § 2(a)(25), Dec. 22, 2010, 124 Stat. 3560; Pub. L. 113–295, div. B, title I, § 104(b), Dec. 19, 2014, 128 Stat. 4064.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§ 312, 475, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, § 219, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 105–183, § 4(b), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, § 102(a), (f), Apr. 20, 2005, 119 Stat. 27, 33; Pub. L. 110–438, § 2, Oct. 20, 2008, 122 Stat. 5000; Pub. L. 111–320, title II, § 202(a), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 111–327, § 2(a)(25), Dec. 22, 2010, 124 Stat. 3560; Pub. L. 113–295, div. B, title I, § 104(b), Dec. 19, 2014, 128 Stat. 4064.)
 
 **Applicability of Amendment**
 
@@ -615,7 +615,7 @@ Section 707 of the House amendment indicates that the court may dismiss a case o
 
 **senate report no. 95–989**
 
-This section authorizes the court to dismiss a liquidation case only for cause, such as unreasonable delay by the debtor that is prejudicial to creditors or nonpayment of any fees and charges required under chapter 123 [§ 1911 et seq.] of title 28. These causes are not exhaustive, but merely illustrative. The section does not contemplate, however, that the ability of the debtor to repay his debts in whole or in part constitutes adequate cause for dismissal. To permit dismissal on that ground would be to enact a non-uniform mandatory chapter 13, in lieu of the remedy of bankruptcy.
+This section authorizes the court to dismiss a liquidation case only for cause, such as unreasonable delay by the debtor that is prejudicial to creditors or nonpayment of any fees and charges required under chapter 123 [§ 1911 et seq.] of title 28. These causes are not exhaustive, but merely illustrative. The section does not contemplate, however, that the ability of the debtor to repay his debts in whole or in part constitutes adequate cause for dismissal. To permit dismissal on that ground would be to enact a non-uniform mandatory chapter 13, in lieu of the remedy of bankruptcy.
 
 **Editorial Notes**
 
@@ -631,27 +631,27 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(4)(A), (B)
 
 2014—Subsec. (b)(2)(A)(ii)(II). Pub. L. 113–295 inserted at end “Such monthly expenses may include, if applicable, contributions to an account of a qualified ABLE program to the extent such contributions are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986) and if the designated beneficiary of such account is a child, stepchild, grandchild, or stepgrandchild of the debtor.”
 
-2010—Subsec. (a)(3). Pub. L. 111–327, § 2(a)(25)(A), substituted “521(a)” for “521”.
+2010—Subsec. (a)(3). Pub. L. 111–327, § 2(a)(25)(A), substituted “521(a)” for “521”.
 
 Subsec. (b)(2)(A)(ii)(I). Pub. L. 111–320 substituted “section 302 of the Family Violence Prevention and Services Act” for “section 309 of the Family Violence Prevention and Services Act”.
 
-Subsec. (b)(2)(A)(iii)(I). Pub. L. 111–327, § 2(a)(25)(B)(i), inserted “of the filing” after “date”.
+Subsec. (b)(2)(A)(iii)(I). Pub. L. 111–327, § 2(a)(25)(B)(i), inserted “of the filing” after “date”.
 
-Subsec. (b)(3). Pub. L. 111–327, § 2(a)(25)(B)(ii), substituted “paragraph (2)(A)(i)” for “subparagraph (A)(i) of such paragraph” in introductory provisions.
+Subsec. (b)(3). Pub. L. 111–327, § 2(a)(25)(B)(ii), substituted “paragraph (2)(A)(i)” for “subparagraph (A)(i) of such paragraph” in introductory provisions.
 
 2008—Subsec. (b)(2)(D). Pub. L. 110–438 substituted “testing—” for “testing,” in introductory provisions, inserted cl. (i) designation before “if the debtor”, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and added cl. (ii).
 
-2005—Pub. L. 109–8, § 102(a)(1), substituted “Dismissal of a case or conversion to a case under chapter 11 or 13” for “Dismissal” in section catchline.
+2005—Pub. L. 109–8, § 102(a)(1), substituted “Dismissal of a case or conversion to a case under chapter 11 or 13” for “Dismissal” in section catchline.
 
-Subsec. (b). Pub. L. 109–8, § 102(a)(2), designated existing provisions as par. (1), substituted “trustee (or bankruptcy administrator, if any), or” for “but not at the request or suggestion of” and “an abuse” for “a substantial abuse”, inserted “, or, with the debtor’s consent, convert such a case to a case under chapter 11 or 13 of this title,” after “consumer debts”, struck out “There shall be a presumption in favor of granting the relief requested by the debtor.” before “In making”, and added pars. (2) to (7).
+Subsec. (b). Pub. L. 109–8, § 102(a)(2), designated existing provisions as par. (1), substituted “trustee (or bankruptcy administrator, if any), or” for “but not at the request or suggestion of” and “an abuse” for “a substantial abuse”, inserted “, or, with the debtor’s consent, convert such a case to a case under chapter 11 or 13 of this title,” after “consumer debts”, struck out “There shall be a presumption in favor of granting the relief requested by the debtor.” before “In making”, and added pars. (2) to (7).
 
-Subsec. (c). Pub. L. 109–8, § 102(f), added subsec. (c).
+Subsec. (c). Pub. L. 109–8, § 102(f), added subsec. (c).
 
 1998—Subsec. (b). Pub. L. 105–183 inserted at end “In making a determination whether to dismiss a case under this section, the court may not take into consideration whether a debtor has made, or continues to make, charitable contributions (that meet the definition of ‘charitable contribution’ under section 548(d)(3)) to any qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)).”
 
-1986—Subsec. (a)(3). Pub. L. 99–554, § 219(a), added par. (3).
+1986—Subsec. (a)(3). Pub. L. 99–554, § 219(a), added par. (3).
 
-Subsec. (b). Pub. L. 99–554, § 219(b), substituted “motion or on a motion by the United States trustee, but” for “motion and”.
+Subsec. (b). Pub. L. 99–554, § 219(b), substituted “motion or on a motion by the United States trustee, but” for “motion and”.
 
 1984—Pub. L. 98–353 designated existing provisions as subsec. (a) and in pars. (1) and (2) substituted “or” for “and”, and added subsec. (b).
 
@@ -663,7 +663,7 @@ Amendment by Pub. L. 113–295 applicable with respect to cases commenced under 
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–438, § 4, Oct. 20, 2008, 122 Stat. 5002, as amended by Pub. L. 112–64, § 2, Dec. 13, 2011, 125 Stat. 766; Pub. L. 114–107, § 2, Dec. 18, 2015, 129 Stat. 2223; Pub. L. 116–53, § 2, Aug. 23, 2019, 133 Stat. 1078; Pub. L. 118–24, § 2, Dec. 19, 2023, 137 Stat. 128, provided that:
+Pub. L. 110–438, § 4, Oct. 20, 2008, 122 Stat. 5002, as amended by Pub. L. 112–64, § 2, Dec. 13, 2011, 125 Stat. 766; Pub. L. 114–107, § 2, Dec. 18, 2015, 129 Stat. 2223; Pub. L. 116–53, § 2, Aug. 23, 2019, 133 Stat. 1078; Pub. L. 118–24, § 2, Dec. 19, 2023, 137 Stat. 128, provided that:
 
 > **“(a) Effective Date.—** Except as provided in subsection (b), this Act [amending this section and enacting provisions set out as a note under section 101 of this title] and the amendments made by this Act shall take effect 60 days after the date of enactment of this Act [Oct. 20, 2008].
 
@@ -687,7 +687,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **Schedules of Reasonable and Necessary Expenses**
 
-Pub. L. 109–8, title I, § 107, Apr. 20, 2005, 119 Stat. 42, provided that: “For purposes of section 707(b) of title 11, United States Code, as amended by this Act, the Director of the Executive Office for United States Trustees shall, not later than 180 days after the date of enactment of this Act [Apr. 20, 2005], issue schedules of reasonable and necessary administrative expenses of administering a chapter 13 plan for each judicial district of the United States.”
+Pub. L. 109–8, title I, § 107, Apr. 20, 2005, 119 Stat. 42, provided that: “For purposes of section 707(b) of title 11, United States Code, as amended by this Act, the Director of the Executive Office for United States Trustees shall, not later than 180 days after the date of enactment of this Act [Apr. 20, 2005], issue schedules of reasonable and necessary administrative expenses of administering a chapter 13 plan for each judicial district of the United States.”
 
 **Rules Promulgated by Supreme Court**
 
@@ -715,7 +715,7 @@ By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, as amended b
 
 ## SUBCHAPTER II—COLLECTION, LIQUIDATION, AND DISTRIBUTION OF THE ESTATE
 
-### § 721. Authorization to operate business
+### § 721. Authorization to operate business
 
 The court may authorize the trustee to operate the business of the debtor for a limited period, if such operation is in the best interest of the estate and consistent with the orderly liquidation of the estate.
 
@@ -727,11 +727,11 @@ The court may authorize the trustee to operate the business of the debtor for a 
 
 This section is derived from section 2a(5) of the Bankruptcy Act [section 11(a)(5) of former title 11]. It permits the court to authorize the operation of any business of the debtor for a limited period, if the operation is in the best interest of the estate and consistent with orderly liquidation of the estate. An example is the operation of a watch company to convert watch movements and cases into completed watches which will bring much higher prices than the component parts would have brought.
 
-### § 722. Redemption
+### § 722. Redemption
 
 An individual debtor may, whether or not the debtor has waived the right to redeem under this section, redeem tangible personal property intended primarily for personal, family, or household use, from a lien securing a dischargeable consumer debt, if such property is exempted under section 522 of this title or has been abandoned under section 554 of this title, by paying the holder of such lien the amount of the allowed secured claim of such holder that is secured by such lien in full at the time of redemption.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 109–8, title III, § 304(2), Apr. 20, 2005, 119 Stat. 79.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 109–8, title III, § 304(2), Apr. 20, 2005, 119 Stat. 79.)
 
 **Historical and Revision Notes**
 
@@ -763,7 +763,7 @@ The right to redeem extends to the whole of the property, not just the debtor’
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
-### § 723. Rights of partnership trustee against general partners
+### § 723. Rights of partnership trustee against general partners
 
 **(a)** If there is a deficiency of property of the estate to pay in full all claims which are allowed in a case under this chapter concerning a partnership and with respect to which a general partner of the partnership is personally liable, the trustee shall have a claim against such general partner to the extent that under applicable nonbankruptcy law such general partner is personally liable for such deficiency.
 
@@ -773,7 +773,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 **(d)** If the aggregate that the trustee recovers from the estates of general partners under subsection (c) of this section is greater than any deficiency not recovered under subsection (b) of this section, the court, after notice and a hearing, shall determine an equitable distribution of the surplus so recovered, and the trustee shall distribute such surplus to the estates of the general partners in such partnership according to such determination.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, § 476, July 10, 1984, 98 Stat. 381; Pub. L. 103–394, title II, § 212, Oct. 22, 1994, 108 Stat. 4125; Pub. L. 111–327, § 2(a)(26), Dec. 22, 2010, 124 Stat. 3560.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, § 476, July 10, 1984, 98 Stat. 381; Pub. L. 103–394, title II, § 212, Oct. 22, 1994, 108 Stat. 4125; Pub. L. 111–327, § 2(a)(26), Dec. 22, 2010, 124 Stat. 3560.)
 
 **Historical and Revision Notes**
 
@@ -801,9 +801,9 @@ Subsection (d) provides for the case where the total recovery from all of the ba
 
 1994—Subsec. (a). Pub. L. 103–394 substituted “to the extent that under applicable nonbankruptcy law such general partner is personally liable for such deficiency” for “for the full amount of the deficiency”.
 
-1984—Subsec. (a). Pub. L. 98–353, § 476, substituted provisions that the trustee shall have a claim for the full amount of the deficiency against a general partner who is personally liable with respect to claims concerning partnerships which are allowed in a case under this chapter, for provisions that each general partner in the partnership would be liable to the trustee for the full amount of such deficiency.
+1984—Subsec. (a). Pub. L. 98–353, § 476, substituted provisions that the trustee shall have a claim for the full amount of the deficiency against a general partner who is personally liable with respect to claims concerning partnerships which are allowed in a case under this chapter, for provisions that each general partner in the partnership would be liable to the trustee for the full amount of such deficiency.
 
-Subsec. (c). Pub. L. 98–353, § 476(b), substituted “such partner’s case” for “such case” in two places, “by property of such partnership” for “be property of such partnership”, and “a kind specified in such section” for “the kind specified in such section”.
+Subsec. (c). Pub. L. 98–353, § 476(b), substituted “such partner’s case” for “such case” in two places, “by property of such partnership” for “be property of such partnership”, and “a kind specified in such section” for “the kind specified in such section”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -815,7 +815,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 724. Treatment of certain liens
+### § 724. Treatment of certain liens
 
 **(a)** The trustee may avoid a lien that secures a claim of a kind specified in section 726(a)(4) of this title.
 
@@ -849,7 +849,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(2)** Claims for contributions to an employee benefit plan entitled to priority under section 507(a)(5).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2607; Pub. L. 98–353, title III, § 477, July 10, 1984, 98 Stat. 381; Pub. L. 99–554, title II, § 283(r), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 103–394, title III, § 304(h)(4), title V, § 501(d)(23), Oct. 22, 1994, 108 Stat. 4134, 4146; Pub. L. 109–8, title VII, § 701(a), Apr. 20, 2005, 119 Stat. 124; Pub. L. 111–327, § 2(a)(27), Dec. 22, 2010, 124 Stat. 3560.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2607; Pub. L. 98–353, title III, § 477, July 10, 1984, 98 Stat. 381; Pub. L. 99–554, title II, § 283(r), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 103–394, title III, § 304(h)(4), title V, § 501(d)(23), Oct. 22, 1994, 108 Stat. 4134, 4146; Pub. L. 109–8, title VII, § 701(a), Apr. 20, 2005, 119 Stat. 124; Pub. L. 111–327, § 2(a)(27), Dec. 22, 2010, 124 Stat. 3560.)
 
 **Historical and Revision Notes**
 
@@ -863,7 +863,7 @@ Treatment of certain liens: The House amendment modifies present law by requirin
 
 Subsection (a) of section 724 permits the trustee to avoid a lien that secures a fine, penalty, forfeiture, or multiple, punitive, or exemplary damages claim to the extent that the claim is not compensation for actual pecuniary loss. The subsection follows the policy found in section 57j of the Bankruptcy Act [section 93(j) of former title 11] of protecting unsecured creditors from the debtor’s wrongdoing, but expands the protection afforded. The lien is made voidable rather than void in chapter 7, in order to permit the lien to be revived if the case is converted to chapter 11 under which penalty liens are not voidable. To make the lien void would be to permit the filing of a chapter 7, the voiding of the lien, and the conversion to a chapter 11, simply to avoid a penalty lien, which should be valid in a reorganization case.
 
-Subsection (b) governs tax liens. This provision retains the rule of present bankruptcy law (§ 67(C)(3) of the Bankruptcy Act [section 107(c)(3) of former title 11]) that a tax lien on personal property, if not avoidable by the trustee, is subordinated in payment to unsecured claims having a higher priority than unsecured tax claims. Those other claims may be satisfied from the amount that would otherwise have been applied to the tax lien, and any excess of the amount of the lien is then applied to the tax. Any personal property (or sale proceeds) remaining is to be used to satisfy claims secured by liens which are junior to the tax lien. Any proceeds remaining are next applied to pay any unpaid balance of the tax lien.
+Subsection (b) governs tax liens. This provision retains the rule of present bankruptcy law (§ 67(C)(3) of the Bankruptcy Act [section 107(c)(3) of former title 11]) that a tax lien on personal property, if not avoidable by the trustee, is subordinated in payment to unsecured claims having a higher priority than unsecured tax claims. Those other claims may be satisfied from the amount that would otherwise have been applied to the tax lien, and any excess of the amount of the lien is then applied to the tax. Any personal property (or sale proceeds) remaining is to be used to satisfy claims secured by liens which are junior to the tax lien. Any proceeds remaining are next applied to pay any unpaid balance of the tax lien.
 
 Subsection (d) specifies that any statutory lien whose priority is determined in the same manner as a tax lien is to be treated as a tax lien under this section, even if the lien does not secure a claim for taxes. An example is the ERISA [29 U.S.C. 1001 et seq.] lien.
 
@@ -881,27 +881,27 @@ Section 6323 of the Internal Revenue Code of 1986, referred to in subsec. (d), i
 
 2010—Subsec. (b)(2). Pub. L. 111–327 substituted “507(a)(1)(C) or 507(a)(2)” for “507(a)(1)”, “this chapter” for “chapter 7 of this title”, and “507(a)(1)(A), 507(a)(1)(B),” for “507(a)(2),” and inserted “under each such section” after “such expenses”.
 
-2005—Subsec. (b). Pub. L. 109–8, § 701(a)(1), inserted “(other than to the extent that there is a properly perfected unavoidable tax lien arising in connection with an ad valorem tax on real or personal property of the estate)” after “under this title” in introductory provisions.
+2005—Subsec. (b). Pub. L. 109–8, § 701(a)(1), inserted “(other than to the extent that there is a properly perfected unavoidable tax lien arising in connection with an ad valorem tax on real or personal property of the estate)” after “under this title” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 109–8, § 701(a)(2), inserted “(except that such expenses, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under chapter 7 of this title and shall not include expenses incurred under chapter 11 of this title)” after “section 507(a)(1)”.
+Subsec. (b)(2). Pub. L. 109–8, § 701(a)(2), inserted “(except that such expenses, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under chapter 7 of this title and shall not include expenses incurred under chapter 11 of this title)” after “section 507(a)(1)”.
 
-Subsecs. (e), (f). Pub. L. 109–8, § 701(a)(3), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 109–8, § 701(a)(3), added subsecs. (e) and (f).
 
-1994—Subsec. (b)(2). Pub. L. 103–394, § 304(h)(4), substituted “507(a)(6), or 507(a)(7)” for “or 507(a)(6)”.
+1994—Subsec. (b)(2). Pub. L. 103–394, § 304(h)(4), substituted “507(a)(6), or 507(a)(7)” for “or 507(a)(6)”.
 
-Subsec. (d). Pub. L. 103–394, § 501(d)(23), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 (26 U.S.C. 6323)”.
+Subsec. (d). Pub. L. 103–394, § 501(d)(23), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 (26 U.S.C. 6323)”.
 
 1986—Subsec. (b)(2). Pub. L. 99–554 inserted reference to section 507(a)(6) of this title.
 
-1984—Subsec. (b). Pub. L. 98–353, § 477(a)(1), substituted “a tax” for “taxes” in provisions preceding par. (1).
+1984—Subsec. (b). Pub. L. 98–353, § 477(a)(1), substituted “a tax” for “taxes” in provisions preceding par. (1).
 
-Subsec. (b)(2). Pub. L. 98–353, § 477(a)(2), substituted “any holder of a claim of a kind specified” for “claims specified”, “section 507(a)(1)” for “sections 507(a)(1)”, and “or 507(a)(5) of this title” for “and 507(a)(5) of this title”.
+Subsec. (b)(2). Pub. L. 98–353, § 477(a)(2), substituted “any holder of a claim of a kind specified” for “claims specified”, “section 507(a)(1)” for “sections 507(a)(1)”, and “or 507(a)(5) of this title” for “and 507(a)(5) of this title”.
 
-Subsec. (b)(3). Pub. L. 98–353, § 477(a)(3), substituted “allowed tax claim” for “allowed claim”.
+Subsec. (b)(3). Pub. L. 98–353, § 477(a)(3), substituted “allowed tax claim” for “allowed claim”.
 
-Subsec. (c). Pub. L. 98–353, § 477(b), substituted “holder of a claim is entitled” for “creditor is entitled” and “holders” for “creditors” in two places.
+Subsec. (c). Pub. L. 98–353, § 477(b), substituted “holder of a claim is entitled” for “creditor is entitled” and “holders” for “creditors” in two places.
 
-Subsec. (d). Pub. L. 98–353, § 477(c), substituted “the priority of which” for “whose priority” and “the same as if such lien were a tax lien” for “the same as a tax lien”.
+Subsec. (d). Pub. L. 98–353, § 477(c), substituted “the priority of which” for “whose priority” and “the same as if such lien were a tax lien” for “the same as a tax lien”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -921,11 +921,11 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 725. Disposition of certain property
+### § 725. Disposition of certain property
 
 After the commencement of a case under this chapter, but before final distribution of property of the estate under section 726 of this title, the trustee, after notice and a hearing, shall dispose of any property in which an entity other than the estate has an interest, such as a lien, and that has not been disposed of under another section of this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2607; Pub. L. 98–353, title III, § 478, July 10, 1984, 98 Stat. 381.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2607; Pub. L. 98–353, title III, § 478, July 10, 1984, 98 Stat. 381.)
 
 **Historical and Revision Notes**
 
@@ -949,7 +949,7 @@ This section requires the court to determine the appropriate disposition of prop
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 726. Distribution of property of the estate
+### § 726. Distribution of property of the estate
 
 **(a)** Except as provided in section 510 of this title, property of the estate shall be distributed—
 
@@ -995,7 +995,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(D)** Fourth, to the extent that community claims against the debtor or the debtor’s spouse are not paid under subparagraph (A), (B), or (C) of this paragraph, such claims shall be paid from all remaining property of the estate.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2608; Pub. L. 98–353, title III, § 479, July 10, 1984, 98 Stat. 381; Pub. L. 99–554, title II, §§ 257(r), 283(s), Oct. 27, 1986, 100 Stat. 3115, 3118; Pub. L. 103–394, title II, § 213(b), title III, § 304(h)(5), title V, § 501(d)(24), Oct. 22, 1994, 108 Stat. 4126, 4134, 4146; Pub. L. 109–8, title VII, § 713, title XII, § 1215, Apr. 20, 2005, 119 Stat. 128, 195; Pub. L. 111–327, § 2(a)(28), Dec. 22, 2010, 124 Stat. 3560.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2608; Pub. L. 98–353, title III, § 479, July 10, 1984, 98 Stat. 381; Pub. L. 99–554, title II, §§ 257(r), 283(s), Oct. 27, 1986, 100 Stat. 3115, 3118; Pub. L. 103–394, title II, § 213(b), title III, § 304(h)(5), title V, § 501(d)(24), Oct. 22, 1994, 108 Stat. 4126, 4134, 4146; Pub. L. 109–8, title VII, § 713, title XII, § 1215, Apr. 20, 2005, 119 Stat. 128, 195; Pub. L. 111–327, § 2(a)(28), Dec. 22, 2010, 124 Stat. 3560.)
 
 **Historical and Revision Notes**
 
@@ -1033,23 +1033,23 @@ The marshalling rules in this section apply only to property of the estate. Howe
 
 2010—Subsec. (b). Pub. L. 111–327 substituted “(8), (9), or (10)” for “or (8)”.
 
-2005—Subsec. (a)(1). Pub. L. 109–8, § 713, substituted “on or before the earlier of—” and subpars. (A) and (B) for “before the date on which the trustee commences distribution under this section;”.
+2005—Subsec. (a)(1). Pub. L. 109–8, § 713, substituted “on or before the earlier of—” and subpars. (A) and (B) for “before the date on which the trustee commences distribution under this section;”.
 
-Subsec. (b). Pub. L. 109–8, § 1215, struck out “1009,” before “1112”.
+Subsec. (b). Pub. L. 109–8, § 1215, struck out “1009,” before “1112”.
 
-1994—Subsec. (a)(1). Pub. L. 103–394, § 213(b), inserted before semicolon at end “, proof of which is timely filed under section 501 of this title or tardily filed before the date on which the trustee commences distribution under this section”.
+1994—Subsec. (a)(1). Pub. L. 103–394, § 213(b), inserted before semicolon at end “, proof of which is timely filed under section 501 of this title or tardily filed before the date on which the trustee commences distribution under this section”.
 
-Subsec. (b). Pub. L. 103–394, §§ 304(h)(5), 501(d)(24), substituted “, (7), or (8)” for “or (7)” and “chapter under section 1009, 1112,” for “chapter under section 1112”.
+Subsec. (b). Pub. L. 103–394, §§ 304(h)(5), 501(d)(24), substituted “, (7), or (8)” for “or (7)” and “chapter under section 1009, 1112,” for “chapter under section 1112”.
 
-1986—Subsec. (b). Pub. L. 99–554, § 283(s), inserted reference to par. (7) of section 507(a) of this title.
+1986—Subsec. (b). Pub. L. 99–554, § 283(s), inserted reference to par. (7) of section 507(a) of this title.
 
-Pub. L. 99–554, § 257(r), inserted reference to section 1208 of this title.
+Pub. L. 99–554, § 257(r), inserted reference to section 1208 of this title.
 
-1984—Subsec. (b). Pub. L. 98–353, § 479(a), substituted “each such particular paragraph” for “a particular paragraph”, “a claim allowed under section 503(b) of this title” for “administrative expenses” in two places, and “has priority over” for “have priority over”.
+1984—Subsec. (b). Pub. L. 98–353, § 479(a), substituted “each such particular paragraph” for “a particular paragraph”, “a claim allowed under section 503(b) of this title” for “administrative expenses” in two places, and “has priority over” for “have priority over”.
 
-Subsec. (c)(1). Pub. L. 98–353, § 479(b)(1), substituted “Claims allowed under section 503 of this title” for “Administrative expenses”.
+Subsec. (c)(1). Pub. L. 98–353, § 479(b)(1), substituted “Claims allowed under section 503 of this title” for “Administrative expenses”.
 
-Subsec. (c)(2). Pub. L. 98–353, § 479(b)(2), substituted “Allowed claims, other than claims allowed under section 503 of this title,” for “Claims other than for administrative expenses”.
+Subsec. (c)(2). Pub. L. 98–353, § 479(b)(2), substituted “Allowed claims, other than claims allowed under section 503 of this title,” for “Claims other than for administrative expenses”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1071,7 +1071,7 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 727. Discharge
+### § 727. Discharge
 
 **(a)** The court shall grant the debtor a discharge, unless—
 
@@ -1161,7 +1161,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(B)** the date the case is closed.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2609; Pub. L. 98–353, title III, § 480, July 10, 1984, 98 Stat. 382; Pub. L. 99–554, title II, §§ 220, 257(s), Oct. 27, 1986, 100 Stat. 3101, 3116; Pub. L. 109–8, title I, § 106(b), title III, §§ 312(1), 330(a), title VI, § 603(d), Apr. 20, 2005, 119 Stat. 38, 86, 101, 123.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2609; Pub. L. 98–353, title III, § 480, July 10, 1984, 98 Stat. 382; Pub. L. 99–554, title II, §§ 220, 257(s), Oct. 27, 1986, 100 Stat. 3101, 3116; Pub. L. 109–8, title I, § 106(b), title III, §§ 312(1), 330(a), title VI, § 603(d), Apr. 20, 2005, 119 Stat. 38, 86, 101, 123.)
 
 **Historical and Revision Notes**
 
@@ -1179,13 +1179,13 @@ Section 727(b) of the House amendment adopts a similar provision contained in th
 
 This section is the heart of the fresh start provisions of the bankruptcy law. Subsection (a) requires the court to grant a debtor a discharge unless one of nine conditions is met. The first condition is that the debtor is not an individual. This is a change from present law, under which corporations and partnerships may be discharged in liquidation cases, though they rarely are. The change in policy will avoid trafficking in corporate shells and in bankrupt partnerships. “Individual” includes a deceased individual, so that if the debtor dies during the bankruptcy case, he will nevertheless be released from his debts, and his estate will not be liable for them. Creditors will be entitled to only one satisfaction—from the bankruptcy estate and not from the probate estate.
 
-The next three grounds for denial of discharge center on the debtor’s wrongdoing in or in connection with the bankruptcy case. They are derived from Bankruptcy Act § 14c [section 32(c) of former title 11]. If the debtor, with intent to hinder, delay, or defraud his creditors or an officer of the estate, has transferred, removed, destroyed, mutilated, or concealed, or has permitted any such action with respect to, property of the debtor within the year preceding the case, or property of the estate after the commencement of the case, then the debtor is denied discharge. The debtor is also denied discharge if he has concealed, destroyed, mutilated, falsified, or failed to keep or preserve any books and records from which his financial condition might be ascertained, unless the act or failure to act was justified under all the circumstances of the case. The fourth ground for denial of discharge is the commission of a bankruptcy crime, although the standard of proof is preponderance of the evidence rather than proof beyond a reasonable doubt. These crimes include the making of a false oath or account, the use or presentation of a false claim, the giving or receiving of money for acting or forbearing to act, and the withholding from an officer of the estate entitled to possession of books and records relating to the debtor’s financial affairs.
+The next three grounds for denial of discharge center on the debtor’s wrongdoing in or in connection with the bankruptcy case. They are derived from Bankruptcy Act § 14c [section 32(c) of former title 11]. If the debtor, with intent to hinder, delay, or defraud his creditors or an officer of the estate, has transferred, removed, destroyed, mutilated, or concealed, or has permitted any such action with respect to, property of the debtor within the year preceding the case, or property of the estate after the commencement of the case, then the debtor is denied discharge. The debtor is also denied discharge if he has concealed, destroyed, mutilated, falsified, or failed to keep or preserve any books and records from which his financial condition might be ascertained, unless the act or failure to act was justified under all the circumstances of the case. The fourth ground for denial of discharge is the commission of a bankruptcy crime, although the standard of proof is preponderance of the evidence rather than proof beyond a reasonable doubt. These crimes include the making of a false oath or account, the use or presentation of a false claim, the giving or receiving of money for acting or forbearing to act, and the withholding from an officer of the estate entitled to possession of books and records relating to the debtor’s financial affairs.
 
 The fifth ground for denial of discharge is the failure of the debtor to explain satisfactorily any loss of assets or deficiency of assets to meet the debtor’s liabilities. The sixth ground concerns refusal to testify. It is a change from present law, under which the debtor may be denied discharge for legitimately exercising his right against self-incrimination. Under this provision, the debtor may be denied discharge if he refuses to obey any lawful order of the court, or if he refuses to testify after having been granted immunity or after improperly invoking the constitutional privilege against self-incrimination.
 
 The seventh ground for denial of discharge is the commission of an act specified in grounds two through six during the year before the debtor’s case in connection with another bankruptcy case concerning an insider.
 
-The eighth ground for denial of discharge is derived from § 14c(5) of the Bankruptcy Act [section 32(c)(5) of former title 11]. If the debtor has been granted a discharge in a case commenced within 6 years preceding the present bankruptcy case, he is denied discharge. This provision, which is no change from current law with respect to straight bankruptcy, is the 6-year bar to discharge. Discharge under chapter 11 will bar a discharge for 6 years. As under current law, confirmation of a composition wage earner plan under chapter 13 is a basis for invoking the 6-year bar.
+The eighth ground for denial of discharge is derived from § 14c(5) of the Bankruptcy Act [section 32(c)(5) of former title 11]. If the debtor has been granted a discharge in a case commenced within 6 years preceding the present bankruptcy case, he is denied discharge. This provision, which is no change from current law with respect to straight bankruptcy, is the 6-year bar to discharge. Discharge under chapter 11 will bar a discharge for 6 years. As under current law, confirmation of a composition wage earner plan under chapter 13 is a basis for invoking the 6-year bar.
 
 The ninth ground is approval by the court of a waiver of discharge.
 
@@ -1203,37 +1203,37 @@ Subsection (e) permits the trustee or a creditor to request revocation of a disc
 
 The Bankruptcy Act, referred to in subsec. (a)(7), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11.
 
-Sections 14, 371, and 476 of the Bankruptcy Act, referred to in subsec. (a)(8), are section 14 of act July 1, 1898, ch. 541, 30 Stat. 550, section 371 of act July 1, 1898, ch. 541, as added June 22, 1938, ch. 575, § 1, 52 Stat. 912, and section 476 of act July 1, 1898, ch. 541, as added June 22, 1938, ch. 575, § 1, 52 Stat. 924, which were classified to sections 32, 771, and 876 of former Title 11.
+Sections 14, 371, and 476 of the Bankruptcy Act, referred to in subsec. (a)(8), are section 14 of act July 1, 1898, ch. 541, 30 Stat. 550, section 371 of act July 1, 1898, ch. 541, as added June 22, 1938, ch. 575, § 1, 52 Stat. 912, and section 476 of act July 1, 1898, ch. 541, as added June 22, 1938, ch. 575, § 1, 52 Stat. 924, which were classified to sections 32, 771, and 876 of former Title 11.
 
-Sections 660 and 661 of the Bankruptcy Act, referred to in subsec. (a)(9), are sections 660 and 661 of act July 1, 1898, ch. 541, as added June 22, 1938, ch. 575, § 1, 52 Stat. 935, 936, which were classified to sections 1060 and 1061 of former Title 11.
+Sections 660 and 661 of the Bankruptcy Act, referred to in subsec. (a)(9), are sections 660 and 661 of act July 1, 1898, ch. 541, as added June 22, 1938, ch. 575, § 1, 52 Stat. 935, 936, which were classified to sections 1060 and 1061 of former Title 11.
 
 **Amendments**
 
-2005—Subsec. (a)(8). Pub. L. 109–8, § 312(1), substituted “8 years” for “six years”.
+2005—Subsec. (a)(8). Pub. L. 109–8, § 312(1), substituted “8 years” for “six years”.
 
-Subsec. (a)(11). Pub. L. 109–8, § 106(b), added par. (11).
+Subsec. (a)(11). Pub. L. 109–8, § 106(b), added par. (11).
 
-Subsec. (a)(12). Pub. L. 109–8, § 330(a), added par. (12).
+Subsec. (a)(12). Pub. L. 109–8, § 330(a), added par. (12).
 
-Subsec. (d)(4). Pub. L. 109–8, § 603(d), added par. (4).
+Subsec. (d)(4). Pub. L. 109–8, § 603(d), added par. (4).
 
-1986—Subsec. (a)(9). Pub. L. 99–554, § 257(s), inserted reference to section 1228 of this title.
+1986—Subsec. (a)(9). Pub. L. 99–554, § 257(s), inserted reference to section 1228 of this title.
 
-Subsec. (c). Pub. L. 99–554, § 220, amended subsec. (c) generally, substituting “The trustee, a creditor, or the United States trustee may object” for “The trustee or a creditor may object” in par. (1).
+Subsec. (c). Pub. L. 99–554, § 220, amended subsec. (c) generally, substituting “The trustee, a creditor, or the United States trustee may object” for “The trustee or a creditor may object” in par. (1).
 
-Subsec. (d). Pub. L. 99–554, § 220, amended subsec. (d) generally, substituting “, a creditor, or the United States trustee,” for “or a creditor,” in provisions preceding par. (1) and “acquisition of or entitlement to such property” for “acquisition of, or entitlement to, such property” in par. (2).
+Subsec. (d). Pub. L. 99–554, § 220, amended subsec. (d) generally, substituting “, a creditor, or the United States trustee,” for “or a creditor,” in provisions preceding par. (1) and “acquisition of or entitlement to such property” for “acquisition of, or entitlement to, such property” in par. (2).
 
-Subsec. (e). Pub. L. 99–554, § 220, amended subsec. (e) generally, substituting “The trustee, a creditor, or the United States trustee may” for “The trustee or a creditor may” in provisions preceding par. (1), “section within” for “section, within” and “discharge is granted” for “discharge was granted” in par. (1), “section before” for “section, before” in provisions of par. (2) preceding subpar. (A), and “discharge; and” for “discharge; or” in par. (2)(A).
+Subsec. (e). Pub. L. 99–554, § 220, amended subsec. (e) generally, substituting “The trustee, a creditor, or the United States trustee may” for “The trustee or a creditor may” in provisions preceding par. (1), “section within” for “section, within” and “discharge is granted” for “discharge was granted” in par. (1), “section before” for “section, before” in provisions of par. (2) preceding subpar. (A), and “discharge; and” for “discharge; or” in par. (2)(A).
 
-1984—Subsec. (a)(6)(C). Pub. L. 98–353, § 480(a)(1), substituted “properly” for “property”.
+1984—Subsec. (a)(6)(C). Pub. L. 98–353, § 480(a)(1), substituted “properly” for “property”.
 
-Subsec. (a)(7). Pub. L. 98–353, § 480(a)(2), inserted “, under this title or under the Bankruptcy Act,” after “another case”.
+Subsec. (a)(7). Pub. L. 98–353, § 480(a)(2), inserted “, under this title or under the Bankruptcy Act,” after “another case”.
 
-Subsec. (a)(8). Pub. L. 98–353, § 480(a)(3), substituted “371,” for “371”.
+Subsec. (a)(8). Pub. L. 98–353, § 480(a)(3), substituted “371,” for “371”.
 
-Subsec. (c)(1). Pub. L. 98–353, § 480(b), substituted “to the granting of a discharge” for “to discharge”.
+Subsec. (c)(1). Pub. L. 98–353, § 480(b), substituted “to the granting of a discharge” for “to discharge”.
 
-Subsec. (e)(2)(A). Pub. L. 98–353, § 480(c), substituted “or” for “and”.
+Subsec. (e)(2)(A). Pub. L. 98–353, § 480(c), substituted “or” for “and”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1253,9 +1253,9 @@ Effective date and applicability of amendment by section 220 of Pub. L. 99–554
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### [§ 728. Repealed. Pub. L. 109–8, title VII, § 719(b)(1), Apr. 20, 2005, 119 Stat. 133]
+### [§ 728. Repealed. Pub. L. 109–8, title VII, § 719(b)(1), Apr. 20, 2005, 119 Stat. 133]
 
-Section, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2611; Pub. L. 98–353, title III, § 481, July 10, 1984, 98 Stat. 382; Pub. L. 99–554, title II, § 257(t), Oct. 27, 1986, 100 Stat. 3116, related to special tax provisions.
+Section, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2611; Pub. L. 98–353, title III, § 481, July 10, 1984, 98 Stat. 382; Pub. L. 99–554, title II, § 257(t), Oct. 27, 1986, 100 Stat. 3116, related to special tax provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1265,7 +1265,7 @@ Repeal effective 180 days after Apr. 20, 2005, and not applicable with respect t
 
 ## SUBCHAPTER III—STOCKBROKER LIQUIDATION
 
-### § 741. Definitions for this subchapter
+### § 741. Definitions for this subchapter
 
 In this subchapter—
 
@@ -1363,7 +1363,7 @@ In this subchapter—
 
 **(9)** “SIPC” means Securities Investor Protection Corporation.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2611; Pub. L. 97–222, § 8, July 27, 1982, 96 Stat. 237; Pub. L. 98–353, title III, § 482, July 10, 1984, 98 Stat. 382; Pub. L. 103–394, title V, § 501(d)(25), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 109–8, title IX, § 907(a)(2), Apr. 20, 2005, 119 Stat. 173; Pub. L. 109–390, § 5(a)(3), Dec. 12, 2006, 120 Stat. 2697.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2611; Pub. L. 97–222, § 8, July 27, 1982, 96 Stat. 237; Pub. L. 98–353, title III, § 482, July 10, 1984, 98 Stat. 382; Pub. L. 103–394, title V, § 501(d)(25), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 109–8, title IX, § 907(a)(2), Apr. 20, 2005, 119 Stat. 173; Pub. L. 109–390, § 5(a)(3), Dec. 12, 2006, 120 Stat. 2697.)
 
 **Historical and Revision Notes**
 
@@ -1385,7 +1385,7 @@ Paragraph (4) defines “customer property” to include all property of the deb
 
 Paragraph (5) [enacted as (6)] defines “net equity” to establish the extent to which a customer will be entitled to share in the single and separate fund. Accounts of a customer are aggregated and offset only to the extent the accounts are held by the customer in the same capacity. Thus, a personal account is separate from an account held as trustee. In a community property state an account held for the community is distinct from an account held as separate property.
 
-The net equity is computed by liquidating all securities positions in the accounts and crediting the account with any amount due to the customer. Regardless of the actual dates, if any, of liquidation, the customer is only entitled to the liquidation value at the time of the filing of the petition. To avoid double counting, the liquidation value of customer name securities belonging to a customer is excluded from net equity. Thus, clause (ii) includes claims against a customer resulting from the liquidation of a security under clause (i). The value of a security on which trading has been suspended at the time of the filing of the petition will be estimated. Once the net liquidation value is computed, any amount that the customer owes to the stockbroker is subtracted including any amount that would be owing after the hypothetical liquidation, such as brokerage fees. Debts owed by the customer to the debtor, other than in a securities related transaction, will not reduce the net equity of the customer. Finally, net equity is increased by any payment by the customer to the debtor actually paid within 60 days after notice. The principal reason a customer would make such a payment is to reclaim customer name securities under § 751.
+The net equity is computed by liquidating all securities positions in the accounts and crediting the account with any amount due to the customer. Regardless of the actual dates, if any, of liquidation, the customer is only entitled to the liquidation value at the time of the filing of the petition. To avoid double counting, the liquidation value of customer name securities belonging to a customer is excluded from net equity. Thus, clause (ii) includes claims against a customer resulting from the liquidation of a security under clause (i). The value of a security on which trading has been suspended at the time of the filing of the petition will be estimated. Once the net liquidation value is computed, any amount that the customer owes to the stockbroker is subtracted including any amount that would be owing after the hypothetical liquidation, such as brokerage fees. Debts owed by the customer to the debtor, other than in a securities related transaction, will not reduce the net equity of the customer. Finally, net equity is increased by any payment by the customer to the debtor actually paid within 60 days after notice. The principal reason a customer would make such a payment is to reclaim customer name securities under § 751.
 
 Paragraph (6) defines “1934 Act” to mean the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.].
 
@@ -1395,49 +1395,49 @@ Paragraph (7) [enacted as (9)] defines “SIPC” to mean the Securities Investo
 
 **References in Text**
 
-The Securities Exchange Act of 1934, referred to in par. (4)(A)(iii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in par. (4)(A)(iii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 **Amendments**
 
-2006—Par. (7)(A)(i). Pub. L. 109–390, § 5(a)(3)(A), substituted “a mortgage loan,” for “a mortgage loan or” and inserted “(whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in section 101)” before semicolon at end.
+2006—Par. (7)(A)(i). Pub. L. 109–390, § 5(a)(3)(A), substituted “a mortgage loan,” for “a mortgage loan or” and inserted “(whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in section 101)” before semicolon at end.
 
-Par. (7)(A)(iii). Pub. L. 109–390, § 5(a)(3)(B), inserted “(including by novation)” after “the guarantee” and “(whether or not such settlement is in connection with any agreement or transaction referred to in clauses (i) through (xi))” before semicolon at end.
+Par. (7)(A)(iii). Pub. L. 109–390, § 5(a)(3)(B), inserted “(including by novation)” after “the guarantee” and “(whether or not such settlement is in connection with any agreement or transaction referred to in clauses (i) through (xi))” before semicolon at end.
 
-Par. (7)(A)(v) to (vii). Pub. L. 109–390, § 5(a)(3)(D), (E), added cls. (v) and (vi) and redesignated former cl. (v) as (vii). Former cls. (vi) and (vii) redesignated (viii) and (ix), respectively.
+Par. (7)(A)(v) to (vii). Pub. L. 109–390, § 5(a)(3)(D), (E), added cls. (v) and (vi) and redesignated former cl. (v) as (vii). Former cls. (vi) and (vii) redesignated (viii) and (ix), respectively.
 
-Par. (7)(A)(viii). Pub. L. 109–390, § 5(a)(3)(D), redesignated cl. (vi) as (viii). Former cl. (viii) redesignated (x).
+Par. (7)(A)(viii). Pub. L. 109–390, § 5(a)(3)(D), redesignated cl. (vi) as (viii). Former cl. (viii) redesignated (x).
 
-Pub. L. 109–390, § 5(a)(3)(C), substituted “(vii), (viii), or (ix)” for “or (vii)” in two places.
+Pub. L. 109–390, § 5(a)(3)(C), substituted “(vii), (viii), or (ix)” for “or (vii)” in two places.
 
-Par. (7)(A)(ix) to (xi). Pub. L. 109–390, § 5(a)(3)(D), redesignated cls. (vii) to (ix) as (ix) to (xi), respectively.
+Par. (7)(A)(ix) to (xi). Pub. L. 109–390, § 5(a)(3)(D), redesignated cls. (vii) to (ix) as (ix) to (xi), respectively.
 
-2005—Par. (7). Pub. L. 109–8 added par. (7) and struck out former par. (7) which read as follows: “ ‘securities contract’ means contract for the purchase, sale, or loan of a security, including an option for the purchase or sale of a security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies, or the guarantee of any settlement of cash or securities by or to a securities clearing agency;”.
+2005—Par. (7). Pub. L. 109–8 added par. (7) and struck out former par. (7) which read as follows: “ ‘securities contract’ means contract for the purchase, sale, or loan of a security, including an option for the purchase or sale of a security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies, or the guarantee of any settlement of cash or securities by or to a securities clearing agency;”.
 
 1994—Par. (4)(A)(iii). Pub. L. 103–394 struck out “(15 U.S.C. 78a et seq.)” after “Act of 1934”.
 
-1984—Par. (2)(A). Pub. L. 98–353, § 482(1), substituted “with whom a person deals” for “with whom the debtor deals”, “that has a claim” for “that holds a claim”, “against such person” for “against the debtor”, “held by such person” for “held by the debtor”, and “such person’s business as a stockbroker,” for “business as a stockbroker”.
+1984—Par. (2)(A). Pub. L. 98–353, § 482(1), substituted “with whom a person deals” for “with whom the debtor deals”, “that has a claim” for “that holds a claim”, “against such person” for “against the debtor”, “held by such person” for “held by the debtor”, and “such person’s business as a stockbroker,” for “business as a stockbroker”.
 
-Par. (2)(B). Pub. L. 98–353, § 482(2)(A), (B), substituted “has a claim” for “holds a claim” and “against a person” for “against the debtor” in provisions preceding cl. (i).
+Par. (2)(B). Pub. L. 98–353, § 482(2)(A), (B), substituted “has a claim” for “holds a claim” and “against a person” for “against the debtor” in provisions preceding cl. (i).
 
-Par. (2)(B)(ii). Pub. L. 98–353, § 482(2)(C), substituted “such person” for “the debtor”.
+Par. (2)(B)(ii). Pub. L. 98–353, § 482(2)(C), substituted “such person” for “the debtor”.
 
-Par. (4)(A)(i). Pub. L. 98–353, § 482(3), substituted “from and that is the lawful” for “and that is”.
+Par. (4)(A)(i). Pub. L. 98–353, § 482(3), substituted “from and that is the lawful” for “and that is”.
 
-Par. (6)(A)(i). Pub. L. 98–353, § 482(4), inserted a comma after “petition” and “any” after “except”.
+Par. (6)(A)(i). Pub. L. 98–353, § 482(4), inserted a comma after “petition” and “any” after “except”.
 
-Par. (7). Pub. L. 98–353, § 482(5), amended par. (7) generally, inserting provisions relating to options for the purchase or sale of certificates of deposit, or a group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies.
+Par. (7). Pub. L. 98–353, § 482(5), amended par. (7) generally, inserting provisions relating to options for the purchase or sale of certificates of deposit, or a group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies.
 
-Par. (8). Pub. L. 98–353, § 482(6), inserted “a final settlement payment,”.
+Par. (8). Pub. L. 98–353, § 482(6), inserted “a final settlement payment,”.
 
-1982—Par. (4). Pub. L. 97–222, § 8(1), struck out “at any time” after “security, or property,” in provisions preceding subpar. (A), and inserted “of a customer” after “claim” in subpar. (A)(ii).
+1982—Par. (4). Pub. L. 97–222, § 8(1), struck out “at any time” after “security, or property,” in provisions preceding subpar. (A), and inserted “of a customer” after “claim” in subpar. (A)(ii).
 
-Par. (5). Pub. L. 97–222, § 8(3), added par. (5). Former par. (5) redesignated (6).
+Par. (5). Pub. L. 97–222, § 8(3), added par. (5). Former par. (5) redesignated (6).
 
-Par. (6). Pub. L. 97–222, § 8(2), (4), redesignated former par. (5) as (6), in provisions preceding subpar. (A), substituted “all accounts of a customer that such customer has” for “the aggregate of all of a customer’s accounts that such customer holds”, in subpar. (A)(2) inserted “in such capacity”, and in subpar. (B) inserted “in such capacity”. Former par. (6) redesignated (9).
+Par. (6). Pub. L. 97–222, § 8(2), (4), redesignated former par. (5) as (6), in provisions preceding subpar. (A), substituted “all accounts of a customer that such customer has” for “the aggregate of all of a customer’s accounts that such customer holds”, in subpar. (A)(2) inserted “in such capacity”, and in subpar. (B) inserted “in such capacity”. Former par. (6) redesignated (9).
 
-Pars. (7), (8). Pub. L. 97–222, § 8(5), added pars. (7) and (8).
+Pars. (7), (8). Pub. L. 97–222, § 8(5), added pars. (7) and (8).
 
-Par. (9). Pub. L. 97–222, § 8(2), (6), redesignated former par. (6) as (9) and substituted “Securities” for “Security”.
+Par. (9). Pub. L. 97–222, § 8(2), (6), redesignated former par. (6) as (9) and substituted “Securities” for “Security”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1457,11 +1457,11 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 742. Effect of section 362 of this title in this subchapter
+### § 742. Effect of section 362 of this title in this subchapter
 
 Notwithstanding section 362 of this title, SIPC may file an application for a protective decree under the Securities Investor Protection Act of 1970. The filing of such application stays all proceedings in the case under this title unless and until such application is dismissed. If SIPC completes the liquidation of the debtor, then the court shall dismiss the case.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2613; Pub. L. 97–222, § 9, July 27, 1982, 96 Stat. 237; Pub. L. 103–394, title V, § 501(d)(26), Oct. 22, 1994, 108 Stat. 4146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2613; Pub. L. 97–222, § 9, July 27, 1982, 96 Stat. 237; Pub. L. 103–394, title V, § 501(d)(26), Oct. 22, 1994, 108 Stat. 4146.)
 
 **Historical and Revision Notes**
 
@@ -1477,7 +1477,7 @@ Section 742 indicates that the automatic stay does not prevent SIPC from filing 
 
 **References in Text**
 
-The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
 **Amendments**
 
@@ -1491,11 +1491,11 @@ The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
-### § 743. Notice
+### § 743. Notice
 
 The clerk shall give the notice required by section 342 of this title to SIPC and to the Commission.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2613; Pub. L. 99–554, title II, § 283(t), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 103–394, title V, § 501(d)(27), Oct. 22, 1994, 108 Stat. 4146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2613; Pub. L. 99–554, title II, § 283(t), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 103–394, title V, § 501(d)(27), Oct. 22, 1994, 108 Stat. 4146.)
 
 **Historical and Revision Notes**
 
@@ -1521,11 +1521,11 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-### § 744. Executory contracts
+### § 744. Executory contracts
 
 Notwithstanding section 365(d)(1) of this title, the trustee shall assume or reject, under section 365 of this title, any executory contract of the debtor for the purchase or sale of a security in the ordinary course of the debtor’s business, within a reasonable time after the date of the order for relief, but not to exceed 30 days. If the trustee does not assume such a contract within such time, such contract is rejected.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2613; Pub. L. 97–222, § 10, July 27, 1982, 96 Stat. 238.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2613; Pub. L. 97–222, § 10, July 27, 1982, 96 Stat. 238.)
 
 **Historical and Revision Notes**
 
@@ -1539,7 +1539,7 @@ Section 744 instructs the court to give the trustee a reasonable time, not to ex
 
 1982—Pub. L. 97–222 inserted “but” after “relief,”.
 
-### § 745. Treatment of accounts
+### § 745. Treatment of accounts
 
 **(a)** Accounts held by the debtor for a particular customer in separate capacities shall be treated as accounts of separate customers.
 
@@ -1547,7 +1547,7 @@ Section 744 instructs the court to give the trustee a reasonable time, not to ex
 
 **(c)** Each trustee’s account specified as such on the debtor’s books, and supported by a trust deed filed with, and qualified as such by, the Internal Revenue Service, and under the Internal Revenue Code of 1986, shall be treated as a separate customer account for each beneficiary under such trustee account.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2613; Pub. L. 97–222, § 11, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, § 483, July 10, 1984, 98 Stat. 383; Pub. L. 103–394, title V, § 501(d)(28), Oct. 22, 1994, 108 Stat. 4146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2613; Pub. L. 97–222, § 11, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, § 483, July 10, 1984, 98 Stat. 383; Pub. L. 103–394, title V, § 501(d)(28), Oct. 22, 1994, 108 Stat. 4146.)
 
 **Historical and Revision Notes**
 
@@ -1583,7 +1583,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 746. Extent of customer claims
+### § 746. Extent of customer claims
 
 **(a)** If, after the date of the filing of the petition, an entity enters into a transaction with the debtor, in a manner that would have made such entity a customer had such transaction occurred before the date of the filing of the petition, and such transaction was entered into by such entity in good faith and before the qualification under section 322 of this title of a trustee, such entity shall be deemed a customer, and the date of such transaction shall be deemed to be the date of the filing of the petition for the purpose of determining such entity’s net equity.
 
@@ -1593,13 +1593,13 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(2)** subordinated to the claims of any or all creditors.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2613; Pub. L. 97–222, § 12, July 27, 1982, 96 Stat. 238.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2613; Pub. L. 97–222, § 12, July 27, 1982, 96 Stat. 238.)
 
 **Historical and Revision Notes**
 
 **senate report no. 95–989**
 
-Section 746(a) protects entities who deal in good faith with the debtor after the filing of the petition and before a trustee is appointed by deeming such entities to be customers. The principal application of this section will be in an involuntary case before the order for relief, because § 701(b) requires prompt appointment of an interim trustee after the order for relief.
+Section 746(a) protects entities who deal in good faith with the debtor after the filing of the petition and before a trustee is appointed by deeming such entities to be customers. The principal application of this section will be in an involuntary case before the order for relief, because § 701(b) requires prompt appointment of an interim trustee after the order for relief.
 
 Subsection (b) indicates that an entity who holds securities that are either part of the capital of the debtor or that are subordinated to the claims of any creditor of the debtor is not a customer with respect to those securities. This subsection will apply when the stockbroker has sold securities in itself to the customer or when the customer has otherwise placed such securities in an account with the stockbroker.
 
@@ -1607,13 +1607,13 @@ Subsection (b) indicates that an entity who holds securities that are either par
 
 **Amendments**
 
-1982—Pub. L. 97–222, § 12(c), substituted “claims” for “claim” in section catchline.
+1982—Pub. L. 97–222, § 12(c), substituted “claims” for “claim” in section catchline.
 
-Subsec. (a). Pub. L. 97–222, § 12(a), substituted “enters into” for “effects, with respect to cash or a security,”, struck out “with respect to such cash or security” wherever appearing, and substituted “the date of the filing of the petition” for “such date”, and “entered into” for “effected”.
+Subsec. (a). Pub. L. 97–222, § 12(a), substituted “enters into” for “effects, with respect to cash or a security,”, struck out “with respect to such cash or security” wherever appearing, and substituted “the date of the filing of the petition” for “such date”, and “entered into” for “effected”.
 
-Subsec. (b). Pub. L. 97–222, § 12(b), substituted “transferred to the debtor” for “has a claim for” in provisions preceding par. (1), and struck out “is” in par. (2).
+Subsec. (b). Pub. L. 97–222, § 12(b), substituted “transferred to the debtor” for “has a claim for” in provisions preceding par. (1), and struck out “is” in par. (2).
 
-### § 747. Subordination of certain customer claims
+### § 747. Subordination of certain customer claims
 
 Except as provided in section 510 of this title, unless all other customer net equity claims have been paid in full, the trustee may not pay in full or pay in part, directly or indirectly, any net equity claim of a customer that was, on the date the transaction giving rise to such claim occurred—
 
@@ -1629,7 +1629,7 @@ Except as provided in section 510 of this title, unless all other customer net e
 
 **(4)** an entity that, directly or indirectly, through agreement or otherwise, exercised or had the power to exercise control over the management or policies of the debtor.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2613; Pub. L. 97–222, § 13, July 27, 1982, 96 Stat. 238.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2613; Pub. L. 97–222, § 13, July 27, 1982, 96 Stat. 238.)
 
 **Historical and Revision Notes**
 
@@ -1643,7 +1643,7 @@ Section 747 subordinates to other customer claims, all claims of a customer who 
 
 1982—Pub. L. 97–222 substituted “the transaction giving rise to such claim occurred” for “such claim arose” in provisions preceding par. (1).
 
-### § 748. Reduction of securities to money
+### § 748. Reduction of securities to money
 
 As soon as practicable after the date of the order for relief, the trustee shall reduce to money, consistent with good market practice, all securities held as property of the estate, except for customer name securities delivered or reclaimed under section 751 of this title.
 
@@ -1655,7 +1655,7 @@ As soon as practicable after the date of the order for relief, the trustee shall
 
 Section 748 requires the trustee to liquidate all securities, except for customer name securities, of the estate in a manner consistent with good market practice. The trustee should refrain from flooding a thin market with a large percentage of shares in any one issue. If the trustee holds restricted securities or securities in which trading has been suspended, then the trustee must arrange to liquidate such securities in accordance with the securities laws. A private placement may be the only exemption available with the customer of the debtor the best prospect for such a placement. The subsection does not permit such a customer to bid in his net equity as part of the purchase price; a contrary result would permit a customer to receive a greater percentage on his net equity claim than other customers.
 
-### § 749. Voidable transfers
+### § 749. Voidable transfers
 
 **(a)** Except as otherwise provided in this section, any transfer of property that, but for such transfer, would have been customer property, may be avoided by the trustee, and such property shall be treated as customer property, if and to the extent that the trustee avoids such transfer under section 544, 545, 547, 548, or 549 of this title. For the purpose of such sections, the property so transferred shall be deemed to have been property of the debtor and, if such transfer was made to a customer or for a customer’s benefit, such customer shall be deemed, for the purposes of this section, to have been a creditor.
 
@@ -1665,7 +1665,7 @@ Section 748 requires the trustee to liquidate all securities, except for custome
 
 **(2)** the liquidation of a securities contract entered into or carried by or through the debtor on behalf of a customer.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2614; Pub. L. 97–222, § 14, July 27, 1982, 96 Stat. 238; Pub. L. 111–16, § 2(8), May 7, 2009, 123 Stat. 1607.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2614; Pub. L. 97–222, § 14, July 27, 1982, 96 Stat. 238; Pub. L. 111–16, § 2(8), May 7, 2009, 123 Stat. 1607.)
 
 **Historical and Revision Notes**
 
@@ -1687,7 +1687,7 @@ Section 749 indicates that if the trustee avoids a transfer, property recovered 
 
 Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 111–16, set out as a note under section 109 of this title.
 
-### § 750. Distribution of securities
+### § 750. Distribution of securities
 
 The trustee may not distribute a security except under section 751 of this title.
 
@@ -1699,7 +1699,7 @@ The trustee may not distribute a security except under section 751 of this title
 
 Section 750 forbids the trustee from distributing a security other than a customer name security. The term “distribution” refers to a distribution to customers in satisfaction of net equity claims and is not intended to preclude the trustee from liquidating securities under proposed 11 U.S.C. 748.
 
-### § 751. Customer name securities
+### § 751. Customer name securities
 
 The trustee shall deliver any customer name security to or on behalf of the customer entitled to such security, unless such customer has a negative net equity. With the approval of the trustee, a customer may reclaim a customer name security after payment to the trustee, within such period as the trustee allows, of any claim of the debtor against such customer to the extent that such customer will not have a negative net equity after such payment.
 
@@ -1711,7 +1711,7 @@ The trustee shall deliver any customer name security to or on behalf of the cust
 
 Section 751 requires the trustee to deliver a customer name security to the customer entitled to such security unless the customer has a negative net equity. The customer’s net equity will be negative when the amount owed by the customer to the stockbroker exceeds the liquidation value of the non-customer name securities in the customer’s account. If the customer is a net debtor of the stockbroker, then the trustee may permit the customer to repay debts to the stockbroker so that the customer will no longer be in debt to the stockbroker. If the customer refuses to pay such amount, then the court may order the customer to endorse the security in order that the trustee may liquidate such property.
 
-### § 752. Customer property
+### § 752. Customer property
 
 **(a)** The trustee shall distribute customer property ratably to customers on the basis and to the extent of such customers’ allowed net equity claims and in priority to all other claims, except claims of the kind specified in section 507(a)(2) of this title that are attributable to the administration of such customer property.
 
@@ -1723,13 +1723,13 @@ Section 751 requires the trustee to deliver a customer name security to the cust
 
 **(c)** Any cash or security remaining after the liquidation of a security interest created under a security agreement made by the debtor, excluding property excluded under section 741(4)(B) of this title, shall be apportioned between the general estate and customer property in the same proportion as the general estate of the debtor and customer property were subject to such security interest.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2614; Pub. L. 97–222, § 15, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, § 484, July 10, 1984, 98 Stat. 383; Pub. L. 109–8, title XV, § 1502(a)(3), Apr. 20, 2005, 119 Stat. 216.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2614; Pub. L. 97–222, § 15, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, § 484, July 10, 1984, 98 Stat. 383; Pub. L. 109–8, title XV, § 1502(a)(3), Apr. 20, 2005, 119 Stat. 216.)
 
 **Historical and Revision Notes**
 
 **senate report no. 95–989**
 
-Section 752(a) requires the trustee to distribute customer property to customers based on the amount of their net equity claims. Customer property is to be distributed in priority to all claims except expenses of administration entitled to priority under § 507(1). It is anticipated that the court will apportion such administrative claims on an equitable basis between the general estate and the customer property of the debtor.
+Section 752(a) requires the trustee to distribute customer property to customers based on the amount of their net equity claims. Customer property is to be distributed in priority to all claims except expenses of administration entitled to priority under § 507(1). It is anticipated that the court will apportion such administrative claims on an equitable basis between the general estate and the customer property of the debtor.
 
 Subsection (b)(1) indicates that in the event customer property exceeds customers net equity claims and administrative expenses, the excess pours over into the general estate. This event would occur if the value of securities increased dramatically after the order for relief but before liquidation by the trustee. Subsection (b)(2) indicates that the unpaid portion of a customer’s net equity claim is entitled to share in the general estate as an unsecured claim unless subordinated by the court under proposed 11 U.S.C. 501. A net equity claim of a customer that is subordinated under section 747 is entitled to share in distribution under section 726(a)(2) unless subordinated under section 510 independently of the subordination under section 747.
 
@@ -1741,9 +1741,9 @@ Subsection (c) provides for apportionment between customer property and the gene
 
 2005—Subsec. (a). Pub. L. 109–8 substituted “507(a)(2)” for “507(a)(1)”.
 
-1984—Subsec. (a). Pub. L. 98–353, § 484(a), substituted “customers’ allowed” for “customers allowed”, “except claims of the kind” for “except claims”, and “such customer property” for “customer property”.
+1984—Subsec. (a). Pub. L. 98–353, § 484(a), substituted “customers’ allowed” for “customers allowed”, “except claims of the kind” for “except claims”, and “such customer property” for “customer property”.
 
-Subsec. (b)(2). Pub. L. 98–353, § 484(b), substituted “section 726” for “section 726(a)”.
+Subsec. (b)(2). Pub. L. 98–353, § 484(b), substituted “section 726” for “section 726(a)”.
 
 1982—Subsec. (c). Pub. L. 97–222 substituted “Any cash or security remaining after the liquidation of a security interest created under a security agreement made by the debtor, excluding property excluded under section 741(4)(B) of this title, shall be apportioned between the general estate and customer property in the same proportion as the general estate of the debtor and customer property were subject to such security interest” for “Subject to section 741(4)(B) of this title, any cash or security remaining after the liquidation of a security interest created under a security agreement made by the debtor shall be apportioned between the general estate and customer property in the proportion that the general property of the debtor and the cash or securities of customers were subject to such security interest”.
 
@@ -1757,11 +1757,11 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 753. Stockbroker liquidation and forward contract merchants, commodity brokers, stockbrokers, financial institutions, financial participants, securities clearing agencies, swap participants, repo participants, and master netting agreement participants
+### § 753. Stockbroker liquidation and forward contract merchants, commodity brokers, stockbrokers, financial institutions, financial participants, securities clearing agencies, swap participants, repo participants, and master netting agreement participants
 
 Notwithstanding any other provision of this title, the exercise of rights by a forward contract merchant, commodity broker, stockbroker, financial institution, financial participant, securities clearing agency, swap participant, repo participant, or master netting agreement participant under this title shall not affect the priority of any unsecured claim it may have after the exercise of such rights.
 
-(Added Pub. L. 109–8, title IX, § 907(m), Apr. 20, 2005, 119 Stat. 181.)
+(Added Pub. L. 109–8, title IX, § 907(m), Apr. 20, 2005, 119 Stat. 181.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1771,7 +1771,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 ## SUBCHAPTER IV—COMMODITY BROKER LIQUIDATION
 
-### § 761. Definitions for this subchapter
+### § 761. Definitions for this subchapter
 
 In this subchapter—
 
@@ -1917,7 +1917,7 @@ In this subchapter—
 
 **(ii)** any cash, security, or other property of such customer transferred to such other person under section 766 of this title to margin or secure such transferred commodity contract.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2615; Pub. L. 97–222, § 16, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, § 485, July 10, 1984, 98 Stat. 383; Pub. L. 103–394, title V, § 501(d)(29), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(6)], Dec. 21, 2000, 114 Stat. 2763, 2763A–395; Pub. L. 109–8, title IX, § 907(a)(3), Apr. 20, 2005, 119 Stat. 174; Pub. L. 111–203, title VII, § 724(b), July 21, 2010, 124 Stat. 1684.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2615; Pub. L. 97–222, § 16, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, § 485, July 10, 1984, 98 Stat. 383; Pub. L. 103–394, title V, § 501(d)(29), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(6)], Dec. 21, 2000, 114 Stat. 2763, 2763A–395; Pub. L. 109–8, title IX, § 907(a)(3), Apr. 20, 2005, 119 Stat. 174; Pub. L. 111–203, title VII, § 724(b), July 21, 2010, 124 Stat. 1684.)
 
 **Historical and Revision Notes**
 
@@ -1933,7 +1933,7 @@ Paragraph (2) defines “clearing organization” to mean an organization that c
 
 Paragraphs (3) and (4) define terms “Commission” and “commodity futures contract”.
 
-Paragraph (5) [enacted as (4)] defines “commodity contract” to mean a commodity futures contract (§ 761(4)), a commodity option (§ 761(6)), or a leverage contract (§ 761(15)).
+Paragraph (5) [enacted as (4)] defines “commodity contract” to mean a commodity futures contract (§ 761(4)), a commodity option (§ 761(6)), or a leverage contract (§ 761(15)).
 
 Paragraph (b) [probably should be “(6)” which was enacted as (5)] defines “commodity option” by reference to section 4c(b) of the Commodity Exchange Act [7 U.S.C. 6c(b)].
 
@@ -1969,55 +1969,55 @@ Paragraph (15) [enacted as (17)] defines “net equity” to include the value o
 
 **References in Text**
 
-The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 **Amendments**
 
-2010—Par. (4)(F). Pub. L. 111–203, § 724(b)(1), added subpar. (F) and struck out former subpar. (F) which read as follows: “any other agreement or transaction that is similar to an agreement or transaction referred to in this paragraph;”.
+2010—Par. (4)(F). Pub. L. 111–203, § 724(b)(1), added subpar. (F) and struck out former subpar. (F) which read as follows: “any other agreement or transaction that is similar to an agreement or transaction referred to in this paragraph;”.
 
-Par. (9)(A)(i). Pub. L. 111–203, § 724(b)(2), substituted “a commodity contract account” for “the commodity futures account”.
+Par. (9)(A)(i). Pub. L. 111–203, § 724(b)(2), substituted “a commodity contract account” for “the commodity futures account”.
 
 2005—Par. (4)(F) to (J). Pub. L. 109–8 added subpars. (F) to (J).
 
-2000—Par. (2). Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(6)(A)], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘clearing organization’ means organization that clears commodity contracts made on, or subject to the rules of, a contract market or board of trade;”.
+2000—Par. (2). Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(6)(A)], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘clearing organization’ means organization that clears commodity contracts made on, or subject to the rules of, a contract market or board of trade;”.
 
-Par. (7). Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(6)(B)], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “ ‘contract market’ means board of trade designated as a contract market by the Commission under the Act;”.
+Par. (7). Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(6)(B)], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “ ‘contract market’ means board of trade designated as a contract market by the Commission under the Act;”.
 
-Par. (8). Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(6)(C)], amended par. (8) generally. Prior to amendment, par. (8) read as follows: “ ‘contract of sale’, ‘commodity’, ‘future delivery’, ‘board of trade’, and ‘futures commission merchant’ have the meanings assigned to those terms in the Act;”.
+Par. (8). Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(6)(C)], amended par. (8) generally. Prior to amendment, par. (8) read as follows: “ ‘contract of sale’, ‘commodity’, ‘future delivery’, ‘board of trade’, and ‘futures commission merchant’ have the meanings assigned to those terms in the Act;”.
 
-1994—Par. (1). Pub. L. 103–394, § 501(d)(29)(A), struck out “(7 U.S.C. 1 et seq.)” after “Act”.
+1994—Par. (1). Pub. L. 103–394, § 501(d)(29)(A), struck out “(7 U.S.C. 1 et seq.)” after “Act”.
 
-Par. (5). Pub. L. 103–394, § 501(d)(29)(B), struck out “(7 U.S.C. 6c(b))” after “Act”.
+Par. (5). Pub. L. 103–394, § 501(d)(29)(B), struck out “(7 U.S.C. 6c(b))” after “Act”.
 
-Par. (13). Pub. L. 103–394, § 501(d)(29)(C), struck out “(7 U.S.C. 23)” after “Act”.
+Par. (13). Pub. L. 103–394, § 501(d)(29)(C), struck out “(7 U.S.C. 23)” after “Act”.
 
 1984—Par. (10)(A)(viii). Pub. L. 98–353 substituted “from and that is the lawful property” for “and that is property”.
 
-1982—Par. (2). Pub. L. 97–222, § 16(1), inserted “made” after “commodity contracts”.
+1982—Par. (2). Pub. L. 97–222, § 16(1), inserted “made” after “commodity contracts”.
 
-Par. (4). Pub. L. 97–222, § 16(2), substituted “with respect to” for “if the debtor is” wherever appearing, and substituted “cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization” for “cleared by the debtor” in subpar. (D).
+Par. (4). Pub. L. 97–222, § 16(2), substituted “with respect to” for “if the debtor is” wherever appearing, and substituted “cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization” for “cleared by the debtor” in subpar. (D).
 
-Par. (9). Pub. L. 97–222, § 16(3), substituted “with respect to” for “if the debtor is” wherever appearing, in subpar. (A) substituted “such futures commission merchant” for “the debtor” wherever appearing and “such futures commission merchant’s” for “the debtor’s”, in subpar. (B) substituted “such foreign futures commission merchant” for “the debtor” wherever appearing and “such foreign futures commission merchant’s” for “the debtor’s”, in subpar. (C) substituted “such leverage transaction merchant” for “the debtor” wherever appearing and “such leverage transaction merchant’s” for “the debtor’s”, inserted “or” after the semicolon in cl. (i), and substituted “holds” for “hold” in cl. (ii), in subpar. (D) substituted “such clearing organization” for “the debtor” wherever appearing, and in subpar. (E) substituted “such commodity options dealer” for “the debtor” wherever appearing and “such commodity options dealer’s” for “the debtor’s”.
+Par. (9). Pub. L. 97–222, § 16(3), substituted “with respect to” for “if the debtor is” wherever appearing, in subpar. (A) substituted “such futures commission merchant” for “the debtor” wherever appearing and “such futures commission merchant’s” for “the debtor’s”, in subpar. (B) substituted “such foreign futures commission merchant” for “the debtor” wherever appearing and “such foreign futures commission merchant’s” for “the debtor’s”, in subpar. (C) substituted “such leverage transaction merchant” for “the debtor” wherever appearing and “such leverage transaction merchant’s” for “the debtor’s”, inserted “or” after the semicolon in cl. (i), and substituted “holds” for “hold” in cl. (ii), in subpar. (D) substituted “such clearing organization” for “the debtor” wherever appearing, and in subpar. (E) substituted “such commodity options dealer” for “the debtor” wherever appearing and “such commodity options dealer’s” for “the debtor’s”.
 
-Par. (10). Pub. L. 97–222, § 16(4), struck out “at any time” after “security, or property,” in provisions preceding subpar. (A).
+Par. (10). Pub. L. 97–222, § 16(4), struck out “at any time” after “security, or property,” in provisions preceding subpar. (A).
 
-Par. (12). Pub. L. 97–222, § 16(5), inserted a comma after “property” and struck out the comma after “credit”.
+Par. (12). Pub. L. 97–222, § 16(5), inserted a comma after “property” and struck out the comma after “credit”.
 
-Par. (13). Pub. L. 97–222, § 16(6), substituted “section 19 of the Commodity Exchange Act (7 U.S.C. 23)” for “section 217 of the Commodity Futures Trading Commission Act of 1974 (7 U.S.C. 15a)”.
+Par. (13). Pub. L. 97–222, § 16(6), substituted “section 19 of the Commodity Exchange Act (7 U.S.C. 23)” for “section 217 of the Commodity Futures Trading Commission Act of 1974 (7 U.S.C. 15a)”.
 
-Par. (14). Pub. L. 97–222, § 16(7), struck out “that is engaged” after “means person”.
+Par. (14). Pub. L. 97–222, § 16(7), struck out “that is engaged” after “means person”.
 
-Par. (15). Pub. L. 97–222, § 16(8), substituted “mark-to-market payments, settlement payments, variation payments, daily settlement payments, and final settlement payments made as adjustments to settlement prices” for “a daily variation settlement payment”.
+Par. (15). Pub. L. 97–222, § 16(8), substituted “mark-to-market payments, settlement payments, variation payments, daily settlement payments, and final settlement payments made as adjustments to settlement prices” for “a daily variation settlement payment”.
 
-Par. (16). Pub. L. 97–222, § 16(9), struck out “at any time” after “customer property”.
+Par. (16). Pub. L. 97–222, § 16(9), struck out “at any time” after “customer property”.
 
-Par. (17). Pub. L. 97–222, § 16(10), in provisions preceding subpar. (A) substituted “has” for “holds”, in subpar. (A) inserted “the” after “(A)” in provisions preceding cl. (i), and “in such capacity” after “customer” in cl. (ii).
+Par. (17). Pub. L. 97–222, § 16(10), in provisions preceding subpar. (A) substituted “has” for “holds”, in subpar. (A) inserted “the” after “(A)” in provisions preceding cl. (i), and “in such capacity” after “customer” in cl. (ii).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of Title 7, Agriculture.
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of Title 7, Agriculture.
 
 **Effective Date of 2005 Amendment**
 
@@ -2031,7 +2031,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 762. Notice to the Commission and right to be heard
+### § 762. Notice to the Commission and right to be heard
 
 **(a)** The clerk shall give the notice required by section 342 of this title to the Commission.
 
@@ -2045,7 +2045,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 Section 762 provides that the Commission shall be given such notice as is appropriate of an order for relief in a bankruptcy case and that the Commission may raise and may appear and may be heard on any issue in case involving a commodity broker liquidation.
 
-### § 763. Treatment of accounts
+### § 763. Treatment of accounts
 
 **(a)** Accounts held by the debtor for a particular customer in separate capacities shall be treated as accounts of separate customers.
 
@@ -2053,7 +2053,7 @@ Section 762 provides that the Commission shall be given such notice as is approp
 
 **(c)** The net equity in a customer’s account may not be offset against the net equity in the account of any other customer.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2618; Pub. L. 98–353, title III, § 486, July 10, 1984, 98 Stat. 383.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2618; Pub. L. 98–353, title III, § 486, July 10, 1984, 98 Stat. 383.)
 
 **Historical and Revision Notes**
 
@@ -2073,7 +2073,7 @@ Section 763 provides for separate treatment of accounts held in separate capacit
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 764. Voidable transfers
+### § 764. Voidable transfers
 
 **(a)** Except as otherwise provided in this section, any transfer by the debtor of property that, but for such transfer, would have been customer property, may be avoided by the trustee, and such property shall be treated as customer property, if and to the extent that the trustee avoids such transfer under section 544, 545, 547, 548, 549, or 724(a) of this title. For the purpose of such sections, the property so transferred shall be deemed to have been property of the debtor, and, if such transfer was made to a customer or for a customer’s benefit, such customer shall be deemed, for the purposes of this section, to have been a creditor.
 
@@ -2083,7 +2083,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(2)** the liquidation of a commodity contract entered into or carried by or through the debtor on behalf of a customer.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2618; Pub. L. 97–222, § 17, July 27, 1982, 96 Stat. 240; Pub. L. 98–353, title III, § 487, July 10, 1984, 98 Stat. 383; Pub. L. 111–16, § 2(9), May 7, 2009, 123 Stat. 1607.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2618; Pub. L. 97–222, § 17, July 27, 1982, 96 Stat. 240; Pub. L. 98–353, title III, § 487, July 10, 1984, 98 Stat. 383; Pub. L. 111–16, § 2(9), May 7, 2009, 123 Stat. 1607.)
 
 **Historical and Revision Notes**
 
@@ -2111,11 +2111,11 @@ Subsection (c) insulates variation margin payments and other deposits from the a
 
 1984—Subsec. (a). Pub. L. 98–353 substituted “any transfer by the debtor” for “any transfer”.
 
-1982—Subsec. (a). Pub. L. 97–222, § 17(a), substituted “but” for “except”, inserted “such property” after “trustee, and”, and substituted “shall be” for “is” wherever appearing.
+1982—Subsec. (a). Pub. L. 97–222, § 17(a), substituted “but” for “except”, inserted “such property” after “trustee, and”, and substituted “shall be” for “is” wherever appearing.
 
-Subsec. (b). Pub. L. 97–222, § 17(b), substituted “order for relief” for “date of the filing of the petition”.
+Subsec. (b). Pub. L. 97–222, § 17(b), substituted “order for relief” for “date of the filing of the petition”.
 
-Subsec. (c). Pub. L. 97–222, § 17(c), struck out subsec. (c) which provided that the trustee could not avoid a transfer that was a margin payment to or deposit with a commodity broker or forward contract merchant or was a settlement payment made by a clearing organization and that occurred before the commencement of the case.
+Subsec. (c). Pub. L. 97–222, § 17(c), struck out subsec. (c) which provided that the trustee could not avoid a transfer that was a margin payment to or deposit with a commodity broker or forward contract merchant or was a settlement payment made by a clearing organization and that occurred before the commencement of the case.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2127,7 +2127,7 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 765. Customer instructions
+### § 765. Customer instructions
 
 **(a)** The notice required by section 342 of this title to customers shall instruct each customer—
 
@@ -2137,7 +2137,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(b)** The trustee shall comply, to the extent practicable, with any instruction received from a customer regarding such customer’s desired disposition of any commodity contract specifically identified to such customer. If the trustee has transferred, under section 766 of this title, such a commodity contract, the trustee shall transmit any such instruction to the commodity broker to whom such commodity contract was so transferred.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2619; Pub. L. 97–222, § 18, July 27, 1982, 96 Stat. 240; Pub. L. 98–353, title III, § 488, July 10, 1984, 98 Stat. 383.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2619; Pub. L. 97–222, § 18, July 27, 1982, 96 Stat. 240; Pub. L. 98–353, title III, § 488, July 10, 1984, 98 Stat. 383.)
 
 **Historical and Revision Notes**
 
@@ -2157,7 +2157,7 @@ For Historical and Revision Notes for this section, see Historical and Revision 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 766. Treatment of customer property
+### § 766. Treatment of customer property
 
 **(a)** The trustee shall answer all margin calls with respect to a specifically identifiable commodity contract of a customer until such time as the trustee returns or transfers such commodity contract, but the trustee may not make a margin payment that has the effect of a distribution to such customer of more than that to which such customer is entitled under subsection (h) or (i) of this section.
 
@@ -2211,7 +2211,7 @@ Notwithstanding any other provision of this subsection, a customer net equity cl
 
 **(2)** Except as provided in section 510 of this title, if a customer is not paid the full amount of such customer’s allowed net equity claim from customer property, the unpaid portion of such claim is a claim entitled to distribution under section 726 of this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2619; Pub. L. 97–222, § 19, July 27, 1982, 96 Stat. 240; Pub. L. 98–353, title III, § 489, July 10, 1984, 98 Stat. 383; Pub. L. 109–8, title XV, § 1502(a)(4), Apr. 20, 2005, 119 Stat. 216.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2619; Pub. L. 97–222, § 19, July 27, 1982, 96 Stat. 240; Pub. L. 98–353, title III, § 489, July 10, 1984, 98 Stat. 383; Pub. L. 109–8, title XV, § 1502(a)(4), Apr. 20, 2005, 119 Stat. 216.)
 
 **Historical and Revision Notes**
 
@@ -2295,19 +2295,19 @@ Subsection (c) [enacted as section 766(a)] permits the trustee to answer all mar
 
 **Amendments**
 
-2005—Subsec. (h). Pub. L. 109–8, § 1502(a)(4)(A), substituted “507(a)(2)” for “507(a)(1)” in introductory provisions.
+2005—Subsec. (h). Pub. L. 109–8, § 1502(a)(4)(A), substituted “507(a)(2)” for “507(a)(1)” in introductory provisions.
 
-Subsec. (i). Pub. L. 109–8, § 1502(a)(4)(B), substituted “507(a)(2)” for “507(a)(1)” in pars. (1) and (2).
+Subsec. (i). Pub. L. 109–8, § 1502(a)(4)(B), substituted “507(a)(2)” for “507(a)(1)” in pars. (1) and (2).
 
 1984—Subsec. (j)(2). Pub. L. 98–353 substituted “section 726” for “section 726(a)”.
 
-1982—Subsec. (a). Pub. L. 97–222, § 19(a), inserted “to such customer” after “distribution”.
+1982—Subsec. (a). Pub. L. 97–222, § 19(a), inserted “to such customer” after “distribution”.
 
-Subsec. (b). Pub. L. 97–222, § 19(b), struck out “that is being actively traded as of the date of the filing of the petition” after “any open commodity contract” and inserted “the” after “rules of”.
+Subsec. (b). Pub. L. 97–222, § 19(b), struck out “that is being actively traded as of the date of the filing of the petition” after “any open commodity contract” and inserted “the” after “rules of”.
 
-Subsec. (d). Pub. L. 97–222, § 19(c), substituted “the amount to which the customer of the debtor is entitled under subsection (h) or (i) of this section, then such” for “such amount, then the” and “the trustee then shall” for “the trustee shall”.
+Subsec. (d). Pub. L. 97–222, § 19(c), substituted “the amount to which the customer of the debtor is entitled under subsection (h) or (i) of this section, then such” for “such amount, then the” and “the trustee then shall” for “the trustee shall”.
 
-Subsec. (h). Pub. L. 97–222, § 19(d), inserted provision that notwithstanding any other provision of this subsection, a customer net equity claim based on a proprietary account, as defined by Commission rule, regulation, or order, may not be paid either in whole or in part, directly or indirectly, out of customer property unless all other customer net equity claims have been paid in full.
+Subsec. (h). Pub. L. 97–222, § 19(d), inserted provision that notwithstanding any other provision of this subsection, a customer net equity claim based on a proprietary account, as defined by Commission rule, regulation, or order, may not be paid either in whole or in part, directly or indirectly, out of customer property unless all other customer net equity claims have been paid in full.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2319,11 +2319,11 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 767. Commodity broker liquidation and forward contract merchants, commodity brokers, stockbrokers, financial institutions, financial participants, securities clearing agencies, swap participants, repo participants, and master netting agreement participants
+### § 767. Commodity broker liquidation and forward contract merchants, commodity brokers, stockbrokers, financial institutions, financial participants, securities clearing agencies, swap participants, repo participants, and master netting agreement participants
 
 Notwithstanding any other provision of this title, the exercise of rights by a forward contract merchant, commodity broker, stockbroker, financial institution, financial participant, securities clearing agency, swap participant, repo participant, or master netting agreement participant under this title shall not affect the priority of any unsecured claim it may have after the exercise of such rights.
 
-(Added Pub. L. 109–8, title IX, § 907(*l*), Apr. 20, 2005, 119 Stat. 181.)
+(Added Pub. L. 109–8, title IX, § 907(*l*), Apr. 20, 2005, 119 Stat. 181.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2333,7 +2333,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 ## SUBCHAPTER V—CLEARING BANK LIQUIDATION
 
-### § 781. Definitions
+### § 781. Definitions
 
 For purposes of this subchapter, the following definitions shall apply:
 
@@ -2341,13 +2341,13 @@ For purposes of this subchapter, the following definitions shall apply:
 
 **(2) Depository institution.—** The term “depository institution” has the same meaning as in section 3 of the Federal Deposit Insurance Act.
 
-**(3) Clearing bank.—** The term “clearing bank” means an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 1
+**(3) Clearing bank.—** The term “clearing bank” means an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Federal Deposit Insurance Corporation Improvement Act of 1991.
 
-(Added Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(5)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394.)
+(Added Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(5)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394.)
 
 **Editorial Notes**
 
@@ -2355,11 +2355,11 @@ of the Federal Deposit Insurance Corporation Improvement Act of 1991.
 
 Section 3 of the Federal Deposit Insurance Act, referred to in par. (2), is classified to section 1813 of Title 12, Banks and Banking.
 
-Section 25A of the Federal Reserve Act, referred to in par. (3), popularly known as the Edge Act, is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
+Section 25A of the Federal Reserve Act, referred to in par. (3), popularly known as the Edge Act, is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
 
-Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (3), which was classified to section 4422 of Title 12, Banks and Banking, was repealed by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
+Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (3), which was classified to section 4422 of Title 12, Banks and Banking, was repealed by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
 
-### § 782. Selection of trustee
+### § 782. Selection of trustee
 
 **(a) In General.—**
 
@@ -2369,9 +2369,9 @@ Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991
 
 **(b) Authority of Trustee.—** Whenever the Board appoints or designates a trustee, chapter 3 and sections 704 and 705 of this title shall apply to the Board in the same way and to the same extent that they apply to a United States trustee.
 
-(Added Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(5)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394.)
+(Added Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(5)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394.)
 
-### § 783. Additional powers of trustee
+### § 783. Additional powers of trustee
 
 **(a) Distribution of Property Not of the Estate.—** The trustee under this subchapter has power to distribute property not of the estate, including distributions to customers that are mandated by subchapters III and IV of this chapter.
 
@@ -2393,7 +2393,7 @@ Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991
 
 **(c) Certain Transfers Included.—** Any reference in this section to transfers of liabilities includes a ratable transfer of liabilities within a priority class.
 
-(Added Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(5)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–395; amended Pub. L. 110–289, div. A, title VI, § 1604(b)(3), July 30, 2008, 122 Stat. 2829.)
+(Added Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(5)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–395; amended Pub. L. 110–289, div. A, title VI, § 1604(b)(3), July 30, 2008, 122 Stat. 2829.)
 
 **Editorial Notes**
 
@@ -2405,8 +2405,8 @@ Section 11 of the Federal Deposit Insurance Act, referred to in subsec. (b)(3), 
 
 2008—Subsec. (b)(5). Pub. L. 110–289, which directed amendment of this section by substituting “bridge depository institution” for “bridge bank”, was executed by making the substitution in introductory provisions and subpar. (A) of subsec. (b)(5), to reflect the probable intent of Congress.
 
-### § 784. Right to be heard
+### § 784. Right to be heard
 
 The Board or a Federal reserve bank (in the case of a clearing bank that is a member of that bank) may raise and may appear and be heard on any issue in a case under this subchapter.
 
-(Added Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(5)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–395.)
+(Added Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(5)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–395.)

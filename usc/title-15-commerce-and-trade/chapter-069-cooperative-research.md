@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 69—COOPERATIVE RESEARCH
 
-## § 4301. Definitions
+## § 4301. Definitions
 
 **(a)** For purposes of this chapter:
 
@@ -51,9 +51,9 @@ and may include the establishment and operation of facilities for the conducting
 
 **(8)** The term “standards development organization” means a domestic or international organization that plans, develops, establishes, or coordinates voluntary consensus standards using procedures that incorporate the attributes of openness, balance of interests, due process, an appeals process, and consensus in a manner consistent with the Office of Management and Budget Circular Number A–119, as revised February 10, 1998. The term “standards development organization” shall not, for purposes of this chapter, include the parties participating in the standards development organization.
 
-**(9)** The term “technical standard” has the meaning given such term in section 12(d)(4) 1
+**(9)** The term “technical standard” has the meaning given such term in section 12(d)(4) 1
 
-<sup>1</sup>  So in original. Probably should be section “12(d)(5)”.
+<sup>1</sup> So in original. Probably should be section “12(d)(5)”.
 
 of the National Technology Transfer and Advancement Act of 1995.
 
@@ -97,7 +97,7 @@ that is not reasonably required to prevent misappropriation of proprietary infor
 
 **(3)** Entering into any agreement or conspiracy that would set or restrain prices of any good or service.
 
-(Pub. L. 98–462, § 2, Oct. 11, 1984, 98 Stat. 1815; Pub. L. 103–42, § 3(b), (c), June 10, 1993, 107 Stat. 117, 118; Pub. L. 108–237, title I, § 103, June 22, 2004, 118 Stat. 663.)
+(Pub. L. 98–462, § 2, Oct. 11, 1984, 98 Stat. 1815; Pub. L. 103–42, § 3(b), (c), June 10, 1993, 107 Stat. 117, 118; Pub. L. 108–237, title I, § 103, June 22, 2004, 118 Stat. 663.)
 
 **Editorial Notes**
 
@@ -107,39 +107,39 @@ Section 12(d) of the National Technology Transfer and Advancement Act of 1995, r
 
 **Amendments**
 
-2004—Subsec. (a)(7) to (10). Pub. L. 108–237, § 103(1), added pars. (7) to (10).
+2004—Subsec. (a)(7) to (10). Pub. L. 108–237, § 103(1), added pars. (7) to (10).
 
-Subsec. (c). Pub. L. 108–237, § 103(2), added subsec. (c).
+Subsec. (c). Pub. L. 108–237, § 103(2), added subsec. (c).
 
-1993—Subsec. (a)(6). Pub. L. 103–42, § 3(b), struck out “research and development” after “joint” in introductory provisions, inserted subpars. (D) and (E), redesignated former subpars. (D) and (E) as (F) and (G), respectively, inserted “or production” after “research” in subpar. (F), substituted “(D), (E), and (F)” for “and (D)” in subpar. (G), and substituted “such venture” for “research” after “facilities for the conducting of” in concluding provisions.
+1993—Subsec. (a)(6). Pub. L. 103–42, § 3(b), struck out “research and development” after “joint” in introductory provisions, inserted subpars. (D) and (E), redesignated former subpars. (D) and (E) as (F) and (G), respectively, inserted “or production” after “research” in subpar. (F), substituted “(D), (E), and (F)” for “and (D)” in subpar. (G), and substituted “such venture” for “research” after “facilities for the conducting of” in concluding provisions.
 
-Subsec. (b). Pub. L. 103–42, § 3(c)(1), struck out “research and development” before “venture” in introductory provisions.
+Subsec. (b). Pub. L. 103–42, § 3(c)(1), struck out “research and development” before “venture” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 103–42, § 3(c)(2), substituted “if such information is not reasonably required to carry out” for “that is not reasonably required to conduct the research and development that is”.
+Subsec. (b)(1). Pub. L. 103–42, § 3(c)(2), substituted “if such information is not reasonably required to carry out” for “that is not reasonably required to conduct the research and development that is”.
 
-Subsec. (b)(2). Pub. L. 103–42, § 3(c)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production or marketing by any person who is a party to such venture of any product, process, or service, other than the production or marketing of proprietary information developed through such venture, such as patents and trade secrets, and”.
+Subsec. (b)(2). Pub. L. 103–42, § 3(c)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production or marketing by any person who is a party to such venture of any product, process, or service, other than the production or marketing of proprietary information developed through such venture, such as patents and trade secrets, and”.
 
-Subsec. (b)(3). Pub. L. 103–42, § 3(c)(4), in subpar. (A) substituted “, developments, products, processes, or services not developed through, or produced by,” for “or developments not developed through”, in subpar. (B) substituted “any person who is a party to such venture” for “such party”, and at end of concluding provisions substituted comma for period.
+Subsec. (b)(3). Pub. L. 103–42, § 3(c)(4), in subpar. (A) substituted “, developments, products, processes, or services not developed through, or produced by,” for “or developments not developed through”, in subpar. (B) substituted “any person who is a party to such venture” for “such party”, and at end of concluding provisions substituted comma for period.
 
-Subsec. (b)(4) to (8). Pub. L. 103–42, § 3(c)(5), added pars. (4) to (8).
+Subsec. (b)(4) to (8). Pub. L. 103–42, § 3(c)(5), added pars. (4) to (8).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–237, title I, § 101, June 22, 2004, 118 Stat. 661, provided that: “This title [amending this section and sections 4302 to 4305 of this title and enacting provisions set out as notes under this section] may be cited as the ‘Standards Development Organization Advancement Act of 2004’.”
+Pub. L. 108–237, title I, § 101, June 22, 2004, 118 Stat. 661, provided that: “This title [amending this section and sections 4302 to 4305 of this title and enacting provisions set out as notes under this section] may be cited as the ‘Standards Development Organization Advancement Act of 2004’.”
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–42, § 1, June 10, 1993, 107 Stat. 117, provided that: “This Act [enacting section 4306 of this title, amending this section and sections 4302 to 4305 of this title, enacting provisions set out as notes under this section and section 4305 of this title, and amending a provision set out as a note under this section] may be cited as the ‘National Cooperative Production Amendments of 1993’.”
+Pub. L. 103–42, § 1, June 10, 1993, 107 Stat. 117, provided that: “This Act [enacting section 4306 of this title, amending this section and sections 4302 to 4305 of this title, enacting provisions set out as notes under this section and section 4305 of this title, and amending a provision set out as a note under this section] may be cited as the ‘National Cooperative Production Amendments of 1993’.”
 
 **Short Title**
 
-Pub. L. 98–462, § 1, Oct. 11, 1984, 98 Stat. 1815, as amended by Pub. L. 103–42, § 3(a), June 10, 1993, 107 Stat. 117, provided that: “This Act [enacting this chapter] may be cited as the ‘National Cooperative Research and Production Act of 1993’.”
+Pub. L. 98–462, § 1, Oct. 11, 1984, 98 Stat. 1815, as amended by Pub. L. 103–42, § 3(a), June 10, 1993, 107 Stat. 117, provided that: “This Act [enacting this chapter] may be cited as the ‘National Cooperative Research and Production Act of 1993’.”
 
 **Construction of 2004 Amendment**
 
-Pub. L. 108–237, title I, § 108, June 22, 2004, 118 Stat. 665, provided that:
+Pub. L. 108–237, title I, § 108, June 22, 2004, 118 Stat. 665, provided that:
 
 > “Nothing in this title [amending this section and sections 4302 to 4305 of this title and enacting provisions set out as notes under this section] shall be construed to alter or modify the antitrust treatment under existing law of—
 
@@ -149,7 +149,7 @@ Pub. L. 108–237, title I, § 108, June 22, 2004, 118 Stat. 665, provided tha
 
 **Findings and Purpose**
 
-Pub. L. 108–237, title I, § 102, June 22, 2004, 118 Stat. 661, provided that:
+Pub. L. 108–237, title I, § 102, June 22, 2004, 118 Stat. 661, provided that:
 
 > “The Congress finds the following:
 
@@ -185,7 +185,7 @@ Pub. L. 108–237, title I, § 102, June 22, 2004, 118 Stat. 661, provided tha
 
 > **“(10)** As was the case with respect to research and production joint ventures before the passage of the National Cooperative Research and Production Act of 1993, if relief from the threat of liability under the antitrust laws is not granted to voluntary consensus standards bodies, both regarding the development of new standards and efforts to keep existing standards current, such bodies could be forced to cut back on standards development activities at great financial cost both to the Government and to the national economy.”
 
-Pub. L. 103–42, § 2, June 10, 1993, 107 Stat. 117, provided that:
+Pub. L. 103–42, § 2, June 10, 1993, 107 Stat. 117, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -197,7 +197,7 @@ Pub. L. 103–42, § 2, June 10, 1993, 107 Stat. 117, provided that:
 
 > **“(b) Purpose.—** It is the purpose of this Act [see Short Title of 1993 Amendment note above] to promote innovation, facilitate trade, and strengthen the competitiveness of the United States in world markets by clarifying the applicability of the rule of reason standard and establishing a procedure under which businesses may notify the Department of Justice and Federal Trade Commission of their cooperative ventures and thereby qualify for a single-damages limitation on civil antitrust liability.”
 
-## § 4302. Rule of reason standard
+## § 4302. Rule of reason standard
 
 In any action under the antitrust laws, or under any State law similar to the antitrust laws, the conduct of—
 
@@ -207,7 +207,7 @@ In any action under the antitrust laws, or under any State law similar to the an
 
 shall not be deemed illegal per se; such conduct shall be judged on the basis of its reasonableness, taking into account all relevant factors affecting competition, including, but not limited to, effects on competition in properly defined, relevant research, development, product, process, and service markets. For the purpose of determining a properly defined, relevant market, worldwide capacity shall be considered to the extent that it may be appropriate in the circumstances.
 
-(Pub. L. 98–462, § 3, Oct. 11, 1984, 98 Stat. 1816; Pub. L. 103–42, § 3(d), June 10, 1993, 107 Stat. 119; Pub. L. 108–237, title I, § 104, June 22, 2004, 118 Stat. 663.)
+(Pub. L. 98–462, § 3, Oct. 11, 1984, 98 Stat. 1816; Pub. L. 103–42, § 3(d), June 10, 1993, 107 Stat. 119; Pub. L. 108–237, title I, § 104, June 22, 2004, 118 Stat. 663.)
 
 **Editorial Notes**
 
@@ -221,9 +221,9 @@ shall not be deemed illegal per se; such conduct shall be judged on the basis of
 
 shall” for “of any person in making or performing a contract to carry out a joint venture shall”.
 
-1993—Pub. L. 103–42 substituted “joint venture” for “joint research and development venture” and “, development, product, process, and service” for “and development” and inserted at end “For the purpose of determining a properly defined, relevant market, worldwide capacity shall be considered to the extent that it may be appropriate in the circumstances.”
+1993—Pub. L. 103–42 substituted “joint venture” for “joint research and development venture” and “, development, product, process, and service” for “and development” and inserted at end “For the purpose of determining a properly defined, relevant market, worldwide capacity shall be considered to the extent that it may be appropriate in the circumstances.”
 
-## § 4303. Limitation on recovery
+## § 4303. Limitation on recovery
 
 **(a) Amount recoverable** Notwithstanding section 15 of this title and in lieu of the relief specified in such section, any person who is entitled to recovery on a claim under such section shall recover the actual damages sustained by such person, interest calculated at the rate specified in section 1961 of title 28 on such actual damages as specified in subsection (d) of this section, and the cost of suit attributable to such claim, including a reasonable attorney’s fee pursuant to section 4304 of this title if such claim—
 
@@ -259,25 +259,25 @@ Interest shall be awarded on the damages involved for the period beginning on th
 
 This section shall be applicable only if the challenged conduct of a person defending against a claim is not in violation of any decree or order, entered or issued after October 11, 1984, in any case or proceeding under the antitrust laws or any State law similar to the antitrust laws challenging such conduct as part of a joint venture, or of a standards development activity engaged in by a standards development organization.
 
-(Pub. L. 98–462, § 4, Oct. 11, 1984, 98 Stat. 1816; Pub. L. 103–42, § 3(e)(1), June 10, 1993, 107 Stat. 119; Pub. L. 108–237, title I, § 105, June 22, 2004, 118 Stat. 663.)
+(Pub. L. 98–462, § 4, Oct. 11, 1984, 98 Stat. 1816; Pub. L. 103–42, § 3(e)(1), June 10, 1993, 107 Stat. 119; Pub. L. 108–237, title I, § 105, June 22, 2004, 118 Stat. 663.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsecs. (a)(1), (b)(1), (c)(1). Pub. L. 108–237, § 105(1), inserted “, or for a standards development activity engaged in by a standards development organization against which such claim is made” after “joint venture”.
+2004—Subsecs. (a)(1), (b)(1), (c)(1). Pub. L. 108–237, § 105(1), inserted “, or for a standards development activity engaged in by a standards development organization against which such claim is made” after “joint venture”.
 
-Subsec. (e). Pub. L. 108–237, § 105(3), added subsec. (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 108–237, § 105(3), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Pub. L. 108–237, § 105(2)(A), inserted “, or of a standards development activity engaged in by a standards development organization” before period at end.
+Pub. L. 108–237, § 105(2)(A), inserted “, or of a standards development activity engaged in by a standards development organization” before period at end.
 
-Subsec. (f). Pub. L. 108–237, § 105(2)(B), redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 108–237, § 105(2)(B), redesignated subsec. (e) as (f).
 
-1993—Subsecs. (a) to (c). Pub. L. 103–42, § 3(e)(1)(A), (B), in introductory provisions inserted “of this section” after “subsection (d)” and in par. (1) substituted “joint venture” for “joint research and development venture”.
+1993—Subsecs. (a) to (c). Pub. L. 103–42, § 3(e)(1)(A), (B), in introductory provisions inserted “of this section” after “subsection (d)” and in par. (1) substituted “joint venture” for “joint research and development venture”.
 
-Subsec. (e). Pub. L. 103–42, § 3(e)(1)(A), (C), substituted “October 11, 1984,” for “the effective date of this Act” and substituted “joint venture” for “joint research and development venture”.
+Subsec. (e). Pub. L. 103–42, § 3(e)(1)(A), (C), substituted “October 11, 1984,” for “the effective date of this Act” and substituted “joint venture” for “joint research and development venture”.
 
-## § 4304. Award of costs, including attorney’s fees, to substantially prevailing party; offset
+## § 4304. Award of costs, including attorney’s fees, to substantially prevailing party; offset
 
 **(a)** Notwithstanding sections 15 and 26 of this title, in any claim under the antitrust laws, or any State law similar to the antitrust laws, based on the conducting of a joint venture, or of a standards development activity engaged in by a standards development organization, the court shall, at the conclusion of the action—
 
@@ -295,19 +295,19 @@ Subsec. (e). Pub. L. 103–42, § 3(e)(1)(A), (C), substituted “October 11, 
 
 **(3)** is, or is an employee or agent of a person who is, engaged in a line of commerce that is likely to benefit directly from the operation of the standards development activity with respect to which such violation is found.
 
-(Pub. L. 98–462, § 5, Oct. 11, 1984, 98 Stat. 1817; Pub. L. 103–42, § 3(e)(2), June 10, 1993, 107 Stat. 119; Pub. L. 108–237, title I, § 106, June 22, 2004, 118 Stat. 664.)
+(Pub. L. 98–462, § 5, Oct. 11, 1984, 98 Stat. 1817; Pub. L. 103–42, § 3(e)(2), June 10, 1993, 107 Stat. 119; Pub. L. 108–237, title I, § 106, June 22, 2004, 118 Stat. 664.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–237, § 106(1), inserted “, or of a standards development activity engaged in by a standards development organization” after “joint venture” in introductory provisions.
+2004—Subsec. (a). Pub. L. 108–237, § 106(1), inserted “, or of a standards development activity engaged in by a standards development organization” after “joint venture” in introductory provisions.
 
-Subsec. (c). Pub. L. 108–237, § 106(2), added subsec. (c).
+Subsec. (c). Pub. L. 108–237, § 106(2), added subsec. (c).
 
 1993—Subsec. (a). Pub. L. 103–42 substituted “joint venture” for “joint research and development venture” in introductory provisions.
 
-## § 4305. Disclosure of joint venture
+## § 4305. Disclosure of joint venture
 
 **(a) Written notifications; filing**
 
@@ -321,9 +321,9 @@ Subsec. (c). Pub. L. 108–237, § 106(2), added subsec. (c).
 
 Any party to such venture, acting on such venture’s behalf, may file additional disclosure notifications pursuant to this section as are appropriate to extend the protections of section 4303 of this title. In order to maintain the protections of section 4303 of this title, such venture shall, not later than 90 days after a change in its membership, file simultaneously with the Attorney General and the Commission a written notification disclosing such change.
 
-**(2)** A standards development organization may, not later than 90 days after commencing a standards development activity engaged in for the purpose of developing or promulgating a 1
+**(2)** A standards development organization may, not later than 90 days after commencing a standards development activity engaged in for the purpose of developing or promulgating a 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 voluntary consensus standards or not later than 90 days after June 22, 2004, whichever is later, file simultaneously with the Attorney General and the Commission, a written notification disclosing—
 
@@ -365,33 +365,33 @@ Any action taken or not taken by the Attorney General or the Commission with res
 
 **(2)** No action by the Attorney General or the Commission taken pursuant to this section shall be admissible into evidence in any such proceeding for the purpose of supporting or answering any claim under the antitrust laws or under any State law similar to the antitrust laws.
 
-(Pub. L. 98–462, § 6, Oct. 11, 1984, 98 Stat. 1818; Pub. L. 103–42, § 3(f), June 10, 1993, 107 Stat. 119; Pub. L. 108–237, title I, § 107, June 22, 2004, 118 Stat. 664.)
+(Pub. L. 98–462, § 6, Oct. 11, 1984, 98 Stat. 1818; Pub. L. 103–42, § 3(f), June 10, 1993, 107 Stat. 119; Pub. L. 108–237, title I, § 107, June 22, 2004, 118 Stat. 664.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–237, § 107(1), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), and added par. (2).
+2004—Subsec. (a). Pub. L. 108–237, § 107(1), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), and added par. (2).
 
-Subsec. (b). Pub. L. 108–237, § 107(2), inserted “, or a notice with respect to such standards development activity that identifies the standards development organization engaged in such activity and that describes such activity in general terms” before period at end of first sentence and “or available to such organization, as the case may be” before period at end of last sentence.
+Subsec. (b). Pub. L. 108–237, § 107(2), inserted “, or a notice with respect to such standards development activity that identifies the standards development organization engaged in such activity and that describes such activity in general terms” before period at end of first sentence and “or available to such organization, as the case may be” before period at end of last sentence.
 
-Subsec. (d)(2). Pub. L. 108–237, § 107(3), inserted “, or the standards development activity,” after “venture”.
+Subsec. (d)(2). Pub. L. 108–237, § 107(3), inserted “, or the standards development activity,” after “venture”.
 
-Subsec. (e). Pub. L. 108–237, § 107(4), substituted “person or standards development organization that” for “person who” and inserted “or any standards development organization” after “on any person”.
+Subsec. (e). Pub. L. 108–237, § 107(4), substituted “person or standards development organization that” for “person who” and inserted “or any standards development organization” after “on any person”.
 
-Subsec. (g)(1). Pub. L. 108–237, § 107(5), inserted “or standards development organization” after “person”.
+Subsec. (g)(1). Pub. L. 108–237, § 107(5), inserted “or standards development organization” after “person”.
 
-1993—Pub. L. 103–42, § 3(f)(1), substituted “joint venture” for “joint research and development venture” in section catchline.
+1993—Pub. L. 103–42, § 3(f)(1), substituted “joint venture” for “joint research and development venture” in section catchline.
 
-Subsec. (a). Pub. L. 103–42, § 3(f)(2), (3), substituted “joint venture” for “joint research and development venture” and “October 11, 1984” for “the date of the enactment of this Act” and added par. (3).
+Subsec. (a). Pub. L. 103–42, § 3(f)(2), (3), substituted “joint venture” for “joint research and development venture” and “October 11, 1984” for “the date of the enactment of this Act” and added par. (3).
 
-Subsecs. (d)(2), (e). Pub. L. 103–42, § 3(f)(3), substituted “joint venture” for “joint research and development venture”.
+Subsecs. (d)(2), (e). Pub. L. 103–42, § 3(f)(3), substituted “joint venture” for “joint research and development venture”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Reports on Joint Ventures and United States Competitiveness**
 
-Pub. L. 103–42, § 4, June 10, 1993, 107 Stat. 120, provided that:
+Pub. L. 103–42, § 4, June 10, 1993, 107 Stat. 120, provided that:
 
 > **“(a) Purpose.—** The purpose of the reports required by this section is to inform Congress and the American people of the effect of the National Cooperative Research and Production Act of 1993 [15 U.S.C. 4301 et seq.] on the competitiveness of the United States in key technological areas of research, development, and production.
 
@@ -411,7 +411,7 @@ Pub. L. 103–42, § 4, June 10, 1993, 107 Stat. 120, provided that:
 
 > **“(d) Review of Antitrust Treatment Under Foreign Laws.—** In the three 30-day periods beginning 1 year, 3 years, and 6 years after the date of the enactment of this Act [June 10, 1993], the Attorney General, after consultation with such other agencies as the Attorney General considers to be appropriate, shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the antitrust treatment of United States businesses with respect to participation in joint ventures for production, under the law of each foreign nation any of whose domestic businesses disclosed its nationality under section 6(a)(3) of the National Cooperative Research and Production Act of 1993 [15 U.S.C. 4305(a)(3)] at any time.”
 
-## § 4306. Application of section 4303 protections to production of products, processes, and services
+## § 4306. Application of section 4303 protections to production of products, processes, and services
 
 Notwithstanding sections 4303 and 4305 of this title, the protections of section 4303 of this title shall not apply with respect to a joint venture’s production of a product, process, or service, as referred to in section 4301(a)(6)(D) of this title, unless—
 
@@ -419,4 +419,4 @@ Notwithstanding sections 4303 and 4305 of this title, the protections of section
 
 **(2)** each person who controls any party to such venture (including such party itself) is a United States person, or a foreign person from a country whose law accords antitrust treatment no less favorable to United States persons than to such country’s domestic persons with respect to participation in joint ventures for production.
 
-(Pub. L. 98–462, § 7, as added Pub. L. 103–42, § 3(g), June 10, 1993, 107 Stat. 119.)
+(Pub. L. 98–462, § 7, as added Pub. L. 103–42, § 3(g), June 10, 1993, 107 Stat. 119.)

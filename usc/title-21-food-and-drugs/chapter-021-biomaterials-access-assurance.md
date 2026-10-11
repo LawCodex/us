@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 21—BIOMATERIALS ACCESS ASSURANCE
 
-## § 1601. Findings
+## § 1601. Findings
 
 The Congress finds that—
 
@@ -71,25 +71,25 @@ The Congress finds that—
 
 **(17)** the protections set forth in this chapter are needed to assure the continued supply of materials for lifesaving medical devices, although such protections do not protect negligent suppliers.
 
-(Pub. L. 105–230, § 2, Aug. 13, 1998, 112 Stat. 1519.)
+(Pub. L. 105–230, § 2, Aug. 13, 1998, 112 Stat. 1519.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in par. (6), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in par. (6), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–230, § 8, Aug. 13, 1998, 112 Stat. 1529, provided that: “This Act [enacting this chapter] shall apply to all civil actions covered under this Act that are commenced on or after the date of enactment of this Act [Aug. 13, 1998], including any such action with respect to which the harm asserted in the action or the conduct that caused the harm occurred before the date of enactment of this Act.”
+Pub. L. 105–230, § 8, Aug. 13, 1998, 112 Stat. 1529, provided that: “This Act [enacting this chapter] shall apply to all civil actions covered under this Act that are commenced on or after the date of enactment of this Act [Aug. 13, 1998], including any such action with respect to which the harm asserted in the action or the conduct that caused the harm occurred before the date of enactment of this Act.”
 
 **Short Title**
 
-Pub. L. 105–230, § 1, Aug. 13, 1998, 112 Stat. 1519, provided that: “This Act [enacting this chapter] may be cited as the ‘Biomaterials Access Assurance Act of 1998’.”
+Pub. L. 105–230, § 1, Aug. 13, 1998, 112 Stat. 1519, provided that: “This Act [enacting this chapter] may be cited as the ‘Biomaterials Access Assurance Act of 1998’.”
 
-## § 1602. Definitions
+## § 1602. Definitions
 
 As used in this chapter:
 
@@ -217,7 +217,7 @@ The term “seller” means a person who, in the course of a business conducted 
 
 **(iii)** any person who acts in only a financial capacity with respect to the sale of an implant.
 
-(Pub. L. 105–230, § 3, Aug. 13, 1998, 112 Stat. 1520.)
+(Pub. L. 105–230, § 3, Aug. 13, 1998, 112 Stat. 1520.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -225,7 +225,7 @@ The term “seller” means a person who, in the course of a business conducted 
 
 Section applicable to all civil actions covered under this chapter commenced on or after Aug. 13, 1998, including any in which the harm or harmful conduct occurred before such date, see section 8 of Pub. L. 105–230, set out as a note under section 1601 of this title.
 
-## § 1603. General requirements; applicability; preemption
+## § 1603. General requirements; applicability; preemption
 
 **(a) General requirements**
 
@@ -267,7 +267,7 @@ Any issue that arises under this chapter and that is not governed by a rule of l
 
 **(2)** to create a cause of action or Federal court jurisdiction pursuant to section 1331 or 1337 of title 28 that otherwise would not exist under applicable Federal or State law.
 
-(Pub. L. 105–230, § 4, Aug. 13, 1998, 112 Stat. 1523.)
+(Pub. L. 105–230, § 4, Aug. 13, 1998, 112 Stat. 1523.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -275,7 +275,7 @@ Any issue that arises under this chapter and that is not governed by a rule of l
 
 Section applicable to all civil actions covered under this chapter commenced on or after Aug. 13, 1998, including any in which the harm or harmful conduct occurred before such date, see section 8 of Pub. L. 105–230, set out as a note under section 1601 of this title.
 
-## § 1604. Liability of biomaterials suppliers
+## § 1604. Liability of biomaterials suppliers
 
 **(a) In general** Except as provided in section 1606 of this title, a biomaterials supplier shall not be liable for harm to a claimant caused by an implant unless such supplier is liable—
 
@@ -357,7 +357,7 @@ If a claimant has filed a petition for a declaration with respect to a defendant
 
 **(2)** such failure to meet applicable contractual requirements or specifications was an actual and proximate cause of the harm to the claimant.
 
-(Pub. L. 105–230, § 5, Aug. 13, 1998, 112 Stat. 1524.)
+(Pub. L. 105–230, § 5, Aug. 13, 1998, 112 Stat. 1524.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -365,7 +365,7 @@ If a claimant has filed a petition for a declaration with respect to a defendant
 
 Section applicable to all civil actions covered under this chapter commenced on or after Aug. 13, 1998, including any in which the harm or harmful conduct occurred before such date, see section 8 of Pub. L. 105–230, set out as a note under section 1601 of this title.
 
-## § 1605. Procedures for dismissal of civil actions against biomaterials suppliers
+## § 1605. Procedures for dismissal of civil actions against biomaterials suppliers
 
 **(a) Motion to dismiss** A defendant may, at any time during which a motion to dismiss may be filed under applicable law, move to dismiss an action against it on the grounds that the defendant is a biomaterials supplier and one or more of the following:
 
@@ -455,7 +455,7 @@ An order granting a motion to dismiss or for summary judgment pursuant to this s
 
 The manufacturer of an implant that is the subject of an action covered under this chapter shall be permitted to conduct litigation on any motion for summary judgment or dismissal filed by a biomaterials supplier who is a defendant under this section on behalf of such supplier if the manufacturer and any other defendant in such action enter into a valid and applicable contractual agreement under which the manufacturer agrees to bear the cost of such litigation or to conduct such litigation.
 
-(Pub. L. 105–230, § 6, Aug. 13, 1998, 112 Stat. 1526.)
+(Pub. L. 105–230, § 6, Aug. 13, 1998, 112 Stat. 1526.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -463,7 +463,7 @@ The manufacturer of an implant that is the subject of an action covered under th
 
 Section applicable to all civil actions covered under this chapter commenced on or after Aug. 13, 1998, including any in which the harm or harmful conduct occurred before such date, see section 8 of Pub. L. 105–230, set out as a note under section 1601 of this title.
 
-## § 1606. Subsequent impleader of dismissed biomaterials supplier
+## § 1606. Subsequent impleader of dismissed biomaterials supplier
 
 **(a) Impleading of dismissed defendant** A court, upon motion by a manufacturer or a claimant within 90 days after entry of a final judgment in an action by the claimant against a manufacturer, and notwithstanding any otherwise applicable statute of limitations, may implead a biomaterials supplier who has been dismissed from the action pursuant to this chapter if—
 
@@ -489,7 +489,7 @@ Section applicable to all civil actions covered under this chapter commenced on 
 
 Nothing in this section shall give a claimant or any other party the right to obtain discovery from a biomaterials supplier at any time prior to grant of a motion for impleader beyond that allowed under section 1605 of this title.
 
-(Pub. L. 105–230, § 7, Aug. 13, 1998, 112 Stat. 1528.)
+(Pub. L. 105–230, § 7, Aug. 13, 1998, 112 Stat. 1528.)
 
 **Statutory Notes and Related Subsidiaries**
 

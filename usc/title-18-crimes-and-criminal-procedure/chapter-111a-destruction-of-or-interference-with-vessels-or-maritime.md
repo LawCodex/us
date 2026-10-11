@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 111A—DESTRUCTION OF, OR INTERFERENCE WITH, VESSELS OR MARITIME FACILITIES
 
-## § 2290. Jurisdiction and scope
+## § 2290. Jurisdiction and scope
 
 **(a) Jurisdiction.—** There is jurisdiction, including extraterritorial jurisdiction, over an offense under this chapter if the prohibited activity takes place—
 
@@ -23,29 +23,29 @@ retrieved: 2026-10-11
 
 **(2)** outside United States and—
 
-**(A)** an offender or a victim is a national of the United States (as that term is defined under section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)); 1
+**(A)** an offender or a victim is a national of the United States (as that term is defined under section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)); 1
 
-<sup>1</sup>  So in original. There probably should be an additional closing parenthesis.
+<sup>1</sup> So in original. There probably should be an additional closing parenthesis.
 
 **(B)** the activity involves a vessel in which a national of the United States was on board; or
 
-**(C)** the activity involves a vessel of the United States (as that term is defined under section 2 2
+**(C)** the activity involves a vessel of the United States (as that term is defined under section 2 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903).<sup>1</sup>
 
 **(b) Scope.—** Nothing in this chapter shall apply to otherwise lawful activities carried out by or at the direction of the United States Government.
 
-(Added Pub. L. 109–177, title III, § 306(a), Mar. 9, 2006, 120 Stat. 237.)
+(Added Pub. L. 109–177, title III, § 306(a), Mar. 9, 2006, 120 Stat. 237.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2 of the Maritime Drug Law Enforcement Act, referred to in subsec. (a)(2)(C), probably means section 3 of the Maritime Drug Law Enforcement Act, Pub. L. 96–350, which was classified to section 1903 of former Title 46, Appendix, Shipping, and was repealed and restated in sections 70502 to 70506 of Title 46, Shipping, by Pub. L. 109–304, §§ 10(2), 19, Oct. 6, 2006, 120 Stat. 1683, 1710. Section 70502(b) of Title 46 defines “vessel of the United States”.
+Section 2 of the Maritime Drug Law Enforcement Act, referred to in subsec. (a)(2)(C), probably means section 3 of the Maritime Drug Law Enforcement Act, Pub. L. 96–350, which was classified to section 1903 of former Title 46, Appendix, Shipping, and was repealed and restated in sections 70502 to 70506 of Title 46, Shipping, by Pub. L. 109–304, §§ 10(2), 19, Oct. 6, 2006, 120 Stat. 1683, 1710. Section 70502(b) of Title 46 defines “vessel of the United States”.
 
-## § 2291. Destruction of vessel or maritime facility
+## § 2291. Destruction of vessel or maritime facility
 
 **(a) Offense.—** Whoever knowingly—
 
@@ -71,9 +71,9 @@ shall be fined under this title or imprisoned not more than 20 years, or both.
 
 **(b) Limitation.—** Subsection (a) shall not apply to any person that is engaging in otherwise lawful activity, such as normal repair and salvage activities, and the transportation of hazardous materials regulated and allowed to be transported under chapter 51 of title 49.
 
-**(c) Penalty.—** Whoever is fined or imprisoned under subsection (a) as a result of an act involving a vessel that, at the time of the violation, carried high-level radioactive waste (as that term is defined in section 2(12) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(12)) 1
+**(c) Penalty.—** Whoever is fined or imprisoned under subsection (a) as a result of an act involving a vessel that, at the time of the violation, carried high-level radioactive waste (as that term is defined in section 2(12) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(12)) 1
 
-<sup>1</sup>  So in original. There probably should be an additional closing parenthesis.
+<sup>1</sup> So in original. There probably should be an additional closing parenthesis.
 
 or spent nuclear fuel (as that term is defined in section 2(23) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(23)),1 shall be fined under this title, imprisoned for a term up to life, or both.
 
@@ -81,9 +81,9 @@ or spent nuclear fuel (as that term is defined in section 2(23) of the Nuclear W
 
 **(e) Threats.—** Whoever knowingly and intentionally imparts or conveys any threat to do an act which would violate this chapter, with an apparent determination and will to carry the threat into execution, shall be fined under this title or imprisoned not more than 5 years, or both, and is liable for all costs incurred as a result of such threat.
 
-(Added Pub. L. 109–177, title III, § 306(a), Mar. 9, 2006, 120 Stat. 237.)
+(Added Pub. L. 109–177, title III, § 306(a), Mar. 9, 2006, 120 Stat. 237.)
 
-## § 2292. Imparting or conveying false information
+## § 2292. Imparting or conveying false information
 
 **(a) In General.—** Whoever imparts or conveys or causes to be imparted or conveyed false information, knowing the information to be false, concerning an attempt or alleged attempt being made or to be made, to do any act that would be a crime prohibited by this chapter or by chapter 111 of this title, shall be subject to a civil penalty of not more than $5,000, which shall be recoverable in a civil action brought in the name of the United States.
 
@@ -95,9 +95,9 @@ or spent nuclear fuel (as that term is defined in section 2(23) of the Nuclear W
 
 **(2) Jurisdiction.—** Jurisdiction over an offense under this section shall be determined in accordance with the provisions applicable to the crime prohibited by this chapter, or by chapter 111 of this title, to which the imparted or conveyed false information relates, as applicable.
 
-(Added Pub. L. 109–177, title III, § 306(a), Mar. 9, 2006, 120 Stat. 239.)
+(Added Pub. L. 109–177, title III, § 306(a), Mar. 9, 2006, 120 Stat. 239.)
 
-## § 2293. Bar to prosecution
+## § 2293. Bar to prosecution
 
 **(a) In General.—** It is a bar to prosecution under this chapter if—
 
@@ -111,4 +111,4 @@ or spent nuclear fuel (as that term is defined in section 2(23) of the Nuclear W
 
 **(2) State.—** The term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 109–177, title III, § 306(a), Mar. 9, 2006, 120 Stat. 239.)
+(Added Pub. L. 109–177, title III, § 306(a), Mar. 9, 2006, 120 Stat. 239.)

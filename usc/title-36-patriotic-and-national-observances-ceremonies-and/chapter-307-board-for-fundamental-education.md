@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 307—BOARD FOR FUNDAMENTAL EDUCATION"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 307—BOARD FOR FUNDAMENTAL EDUCATION"
 identifier: "/us/usc/t36/stII/ptB/ch307"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 307—BOARD FOR FUNDAMENTAL EDUCATION
 
-## § 30701. Organization
+## § 30701. Organization
 
 **(a) Federal Charter.—** Board for Fundamental Education (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -27,14 +27,14 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30701 | 36:501. | July 19, 1954, ch. 536, §§ 1, 2, 68 Stat. 489. |
+| 30701 | 36:501. | July 19, 1954, ch. 536, §§ 1, 2, 68 Stat. 489. |
 |  | 36:502. |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
 The text of 36:502 is omitted as executed and obsolete.
 
-## § 30702. Purpose
+## § 30702. Purpose
 
 The purpose of the corporation is to foster the development of fundamental education through programs and projects such as—
 
@@ -50,11 +50,11 @@ The purpose of the corporation is to foster the development of fundamental educa
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30702 | 36:503. | July 19, 1954, ch. 536, § 3, 68 Stat. 490. |
+| 30702 | 36:503. | July 19, 1954, ch. 536, § 3, 68 Stat. 490. |
 
 Before clause (1), the word “objects” is omitted as unnecessary.
 
-## § 30703. Membership
+## § 30703. Membership
 
 **(a) Eligibility.—** Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in constitution and bylaws of the corporation.
 
@@ -66,9 +66,9 @@ Before clause (1), the word “objects” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30703 | 36:506. | July 19, 1954, ch. 536, § 6, 68 Stat. 491. |
+| 30703 | 36:506. | July 19, 1954, ch. 536, § 6, 68 Stat. 491. |
 
-## § 30704. Governing body
+## § 30704. Governing body
 
 **(a) Board of Directors.—** The board of directors is the governing body of the corporation. The board shall consist of at least 15 directors elected annually by the members.
 
@@ -80,14 +80,14 @@ Before clause (1), the word “objects” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30704(a) | 36:507. | July 19, 1954, ch. 536, §§ 7, 8, 68 Stat. 491. |
+| 30704(a) | 36:507. | July 19, 1954, ch. 536, §§ 7, 8, 68 Stat. 491. |
 | 30704(b) | 36:508. |  |
 
 In subsection (a), the words “The board of directors is the governing body of the corporation” are substituted for “The corporation shall be governed by a board of directors” for consistency in the revised title.
 
 In subsection (b), the words “from time to time” are omitted as unnecessary.
 
-## § 30705. Powers
+## § 30705. Powers
 
 The corporation may—
 
@@ -117,7 +117,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30705 | 36:504. | July 19, 1954, ch. 536, § 4, 68 Stat. 490. |
+| 30705 | 36:504. | July 19, 1954, ch. 536, § 4, 68 Stat. 490. |
 
 In clause (1), the word “amend” is substituted for “alter” for consistency in the revised title. The words “not inconsistent with the laws of the United States or any State in which the corporation is to operate” are omitted as unnecessary.
 
@@ -133,7 +133,7 @@ In clause (9), the words “complain and defend in any court of competent jurisd
 
 In clause (10), the words “any other act” are substituted for “any and all acts and things” for consistency in the revised title.
 
-## § 30706. Exclusive right to name, seals, emblems, and badges
+## § 30706. Exclusive right to name, seals, emblems, and badges
 
 The corporation has the exclusive right to use the name “Board for Fundamental Education” and seals, emblems, and badges the corporation adopts.
 
@@ -143,11 +143,11 @@ The corporation has the exclusive right to use the name “Board for Fundamental
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30706 | 36:516. | July 19, 1954, ch. 536, § 16, 68 Stat. 492. |
+| 30706 | 36:516. | July 19, 1954, ch. 536, § 16, 68 Stat. 492. |
 
 The word “sole” is omitted as included in “exclusive”. The words “as representing such corporation” and “lawfully” are omitted as unnecessary.
 
-## § 30707. Restrictions
+## § 30707. Restrictions
 
 **(a) Profit.—** The corporation may not engage in business for profit.
 
@@ -165,7 +165,7 @@ The word “sole” is omitted as included in “exclusive”. The words “as r
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30707(a) | 36:512 (words after comma). | July 19, 1954, ch. 536, §§ 9, 10, 12, 68 Stat. 491. |
+| 30707(a) | 36:512 (words after comma). | July 19, 1954, ch. 536, §§ 9, 10, 12, 68 Stat. 491. |
 | 30707(b) | 36:512 (words before comma). |  |
 | 30707(c) | 36:510. |  |
 | 30707(d) | 36:509(a). |  |
@@ -177,7 +177,7 @@ In subsection (b), the words “any shares of” are omitted as unnecessary.
 
 In subsection (d), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “as provided in section 515 of this title” are omitted as unnecessary.
 
-## § 30708. Principal office
+## § 30708. Principal office
 
 The principal office of the corporation shall be in a place the board of directors decides is appropriate. However, the activities of the corporation may be conducted throughout the States, territories, and possessions of the United States.
 
@@ -187,9 +187,9 @@ The principal office of the corporation shall be in a place the board of directo
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30708 | 36:505 (1st, last sentences). | July 19, 1954, ch. 536, § 5 (1st, last sentences), 68 Stat. 490. |
+| 30708 | 36:505 (1st, last sentences). | July 19, 1954, ch. 536, § 5 (1st, last sentences), 68 Stat. 490. |
 
-## § 30709. Records and inspection
+## § 30709. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -207,11 +207,11 @@ The principal office of the corporation shall be in a place the board of directo
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30709 | 36:513. | July 19, 1954, ch. 536, § 13, 68 Stat. 491. |
+| 30709 | 36:513. | July 19, 1954, ch. 536, § 13, 68 Stat. 491. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 30710. Service of process
+## § 30710. Service of process
 
 **(a) District of Columbia.—** The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Designation of the agent shall be filed in the office of the clerk of the United States District Court for the District of Columbia. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -223,14 +223,14 @@ The word “records” is substituted for “books and records” for consistenc
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30710(a) | 36:505 (2d, 3d sentences). | July 19, 1954, ch. 536, §§ 5 (2d, 3d sentences), 17, 68 Stat. 490, 492. |
+| 30710(a) | 36:505 (2d, 3d sentences). | July 19, 1954, ch. 536, §§ 5 (2d, 3d sentences), 17, 68 Stat. 490, 492. |
 | 30710(b) | 36:517. |  |
 
 In subsection (a), the word “have” is substituted for “maintain at all times”, and the word “authorized” is omitted, for consistency in the revised title and to eliminate unnecessary words. The words “is notice to or service on the corporation” are substituted for “shall be deemed sufficient notice or service upon the corporation” for consistency in the revised title.
 
 In subsection (b), the word “precedent” is omitted as unnecessary. The words “with the secretary of state or other designated official” are substituted for “in the office of the Secretary of State, or similar office” for consistency in the revised title. The words “post office” and “authorized” are omitted as unnecessary.
 
-## § 30711. Liability for acts of officers and agents
+## § 30711. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -240,9 +240,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30711 | 36:511. | July 19, 1954, ch. 536, § 11, 68 Stat. 491. |
+| 30711 | 36:511. | July 19, 1954, ch. 536, § 11, 68 Stat. 491. |
 
-## § 30712. Distribution of assets on dissolution or final liquidation
+## § 30712. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be used by the board of directors for the purpose stated in section 30702 of this title or be transferred to a recognized educational foundation.
 
@@ -252,6 +252,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30712 | 36:515. | July 19, 1954, ch. 536, § 15, 68 Stat. 492. |
+| 30712 | 36:515. | July 19, 1954, ch. 536, § 15, 68 Stat. 492. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary.

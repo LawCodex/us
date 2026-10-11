@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle I—Patriotic and National Observances and Ceremonies / Part A—Observances and Ceremonies / CHAPTER 7—FEDERAL PARTICIPATION IN CARL GARNER FEDERAL LANDS CLEANUP DAY"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle I—Patriotic and National Observances and Ceremonies / Part A—Observances and Ceremonies / CHAPTER 7—FEDERAL PARTICIPATION IN CARL GARNER FEDERAL LANDS CLEANUP DAY"
 identifier: "/us/usc/t36/stI/ptA/ch7"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle I—Patriotic and National Observances and Ceremonies › Part A—Observances and Ceremonies*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle I—Patriotic and National Observances and Ceremonies › Part A—Observances and Ceremonies*
 
 # CHAPTER 7—FEDERAL PARTICIPATION IN CARL GARNER FEDERAL LANDS CLEANUP DAY
 
-## § 701. Findings
+## § 701. Findings
 
 Congress finds that—
 
@@ -43,11 +43,11 @@ Congress finds that—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 701 | 36:169i note. | Aug. 27, 1986, Pub. L. 99–402, § 2, 100 Stat. 910. |
+| 701 | 36:169i note. | Aug. 27, 1986, Pub. L. 99–402, § 2, 100 Stat. 910. |
 
 In clause (2), the words “the several” are omitted as unnecessary.
 
-## § 702. Definition
+## § 702. Definition
 
 For purposes of this chapter, “Federal land management agency” includes—
 
@@ -69,9 +69,9 @@ For purposes of this chapter, “Federal land management agency” includes—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 702 | 36:169i–1(a)(2). | Aug. 27, 1986, Pub. L. 99–402, § 4(a)(2), 100 Stat. 911. |
+| 702 | 36:169i–1(a)(2). | Aug. 27, 1986, Pub. L. 99–402, § 4(a)(2), 100 Stat. 911. |
 
-## § 703. Duties of Federal land management agency
+## § 703. Duties of Federal land management agency
 
 To observe Carl Garner Federal Lands Cleanup Day at the Federal level, each Federal land management agency shall organize, coordinate, and participate with citizen volunteers and State and local authorities in cleaning and providing for the maintenance of Federal public land, recreation areas, and waterways within the jurisdiction of the agency.
 
@@ -81,11 +81,11 @@ To observe Carl Garner Federal Lands Cleanup Day at the Federal level, each Fede
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 703 | 36:169i–1(a)(1). | Aug. 27, 1986, Pub. L. 99–402, § 4(a)(1), 100 Stat. 911; Nov. 12, 1996, Pub. L. 104–333, § 806, 110 Stat. 4188. |
+| 703 | 36:169i–1(a)(1). | Aug. 27, 1986, Pub. L. 99–402, § 4(a)(1), 100 Stat. 911; Nov. 12, 1996, Pub. L. 104–333, § 806, 110 Stat. 4188. |
 
 The word “authorities” is substituted for “agencies” for consistency in the revised title and with other titles of the United States Code.
 
-## § 704. Activities
+## § 704. Activities
 
 In cooperation with appropriate State and local government authorities, each Federal land management agency shall plan for and carry out activities on Carl Garner Federal Lands Cleanup Day that—
 
@@ -103,6 +103,6 @@ In cooperation with appropriate State and local government authorities, each Fed
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 704 | 36:169i–1(b). | Aug. 27, 1986, Pub. L. 99–402, § 4(b), 100 Stat. 911; Nov. 12, 1996, Pub. L. 104–333, § 806, 110 Stat. 4188. |
+| 704 | 36:169i–1(b). | Aug. 27, 1986, Pub. L. 99–402, § 4(b), 100 Stat. 911; Nov. 12, 1996, Pub. L. 104–333, § 806, 110 Stat. 4188. |
 
 In this section, before clause (1), the word “county” is omitted as unnecessary. The word “authorities” is substituted for “agencies” for consistency in the revised title and with other titles of the United States Code.

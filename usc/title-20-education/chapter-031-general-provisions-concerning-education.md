@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Codification**
 
-Pub. L. 91–230, title IV, § 401(a)(1), Apr. 13, 1970, 84 Stat. 164, substituted as chapter heading “GENERAL PROVISIONS CONCERNING EDUCATION” for “LEADTIME AND PLANNING AND EVALUATION IN ELEMENTARY AND SECONDARY EDUCATION PROGRAMS”.
+Pub. L. 91–230, title IV, § 401(a)(1), Apr. 13, 1970, 84 Stat. 164, substituted as chapter heading “GENERAL PROVISIONS CONCERNING EDUCATION” for “LEADTIME AND PLANNING AND EVALUATION IN ELEMENTARY AND SECONDARY EDUCATION PROGRAMS”.
 
-## § 1221. Short title; applicability; definitions
+## § 1221. Short title; applicability; definitions
 
 **(a) Short title**
 
@@ -53,21 +53,21 @@ This chapter may be cited as the “General Education Provisions Act”.
 
 Nothing in this chapter shall be construed to affect the applicability of title VI of the Civil Rights Act of 1964 [42 U.S.C. 2000d et seq.], title IX of the Education Amendments of 1972 [20 U.S.C. 1681 et seq.], title V of the Rehabilitation Act of 1973 [29 U.S.C. 790 et seq.], the Age Discrimination Act [42 U.S.C. 6101 et seq.], or other statutes prohibiting discrimination, to any applicable program.
 
-(Pub. L. 90–247, title IV, § 400, formerly § 401, Jan. 2, 1968, 81 Stat. 814; Pub. L. 90–576, title III, § 301(a), Oct. 16, 1968, 82 Stat. 1094; Pub. L. 91–230, title IV, § 401(a)(2), Apr. 13, 1970, 84 Stat. 164; renumbered § 400, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; Pub. L. 93–380, title V, § 505(a)(1), Aug. 21, 1974, 88 Stat. 561; Pub. L. 103–382, title II, § 211, Oct. 20, 1994, 108 Stat. 3912.)
+(Pub. L. 90–247, title IV, § 400, formerly § 401, Jan. 2, 1968, 81 Stat. 814; Pub. L. 90–576, title III, § 301(a), Oct. 16, 1968, 82 Stat. 1094; Pub. L. 91–230, title IV, § 401(a)(2), Apr. 13, 1970, 84 Stat. 164; renumbered § 400, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; Pub. L. 93–380, title V, § 505(a)(1), Aug. 21, 1974, 88 Stat. 561; Pub. L. 103–382, title II, § 211, Oct. 20, 1994, 108 Stat. 3912.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Department of Education Organization Act, referred to in subsec. (c)(1), is Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668, which is classified principally to chapter 48 (§ 3401 et seq.) of this title. For the effective date of the Act, see Effective Date note set out under section 3401 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
+The Department of Education Organization Act, referred to in subsec. (c)(1), is Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668, which is classified principally to chapter 48 (§ 3401 et seq.) of this title. For the effective date of the Act, see Effective Date note set out under section 3401 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (d), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (d), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
+The Education Amendments of 1972, referred to in subsec. (d), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title V of the Act is classified generally to subchapter V (§ 790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title V of the Act is classified generally to subchapter V (§ 790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Age Discrimination Act, referred to in subsec. (d), probably means the Age Discrimination Act of 1975, which is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, and which is classified generally to chapter 76 (§ 6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
+The Age Discrimination Act, referred to in subsec. (d), probably means the Age Discrimination Act of 1975, which is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, and which is classified generally to chapter 76 (§ 6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
 
 **Amendments**
 
@@ -77,15 +77,15 @@ The Age Discrimination Act, referred to in subsec. (d), probably means the Age D
 
 Subsec. (b). Pub. L. 93–380 incorporated subsec. (a) provisions in subsec. (b), inserting introductory text “Except where otherwise specified,”, substituting “an administrative head of an education agency has administrative responsibility as provided by law or by delegation of authority pursuant to law” for “the Commissioner of Education has responsibility for administration, either as provided by statute or by delegation pursuant to statute.”, deleting “Amendments to Acts authorizing such programs shall not affect the applicability of this chapter unless so specified by such amendments.” Former subsec. (b) definition provisions for “Commissioner”, “Secretary”, and “applicable program” incorporated in subsec. (c)(1).
 
-Subsec. (c). Pub. L. 93–380 incorporated subsec. (b)(3), (1), (2) provisions in par. (1)(A), (D), (F), respectively; inserted in par. (1)(A) “, under the terms of subsection (b) of this section,”; and added pars. (1)(B), (C), (E), (2), and (3). Former subsec. (c) provisions “There are hereby authorized to be appropriated for any fiscal year, as part of the appropriations for salaries and expenses for the Office of Education, such sums as the Congress may determine to be necessary to carry out the provisions of this chapter,” incorporated in subsec. (d).
+Subsec. (c). Pub. L. 93–380 incorporated subsec. (b)(3), (1), (2) provisions in par. (1)(A), (D), (F), respectively; inserted in par. (1)(A) “, under the terms of subsection (b) of this section,”; and added pars. (1)(B), (C), (E), (2), and (3). Former subsec. (c) provisions “There are hereby authorized to be appropriated for any fiscal year, as part of the appropriations for salaries and expenses for the Office of Education, such sums as the Congress may determine to be necessary to carry out the provisions of this chapter,” incorporated in subsec. (d).
 
-Subsec. (d). Pub. L. 93–380 incorporated subsec. (c) provisions in provisions designated as subsec. (d), inserting introductory text “Except as otherwise limited in this chapter,”, and deleting “, as part of the appropriations for salaries and expenses for the Office of Education,” after “fiscal year”. Former subsec. (d) redesignated (a).
+Subsec. (d). Pub. L. 93–380 incorporated subsec. (c) provisions in provisions designated as subsec. (d), inserting introductory text “Except as otherwise limited in this chapter,”, and deleting “, as part of the appropriations for salaries and expenses for the Office of Education,” after “fiscal year”. Former subsec. (d) redesignated (a).
 
 Subsec. (e). Pub. L. 93–380 added subsec. (e).
 
-1970—Pub. L. 91–230, § 401(a)(2)(A), provided for definitions and authorization of appropriations in section catchline.
+1970—Pub. L. 91–230, § 401(a)(2)(A), provided for definitions and authorization of appropriations in section catchline.
 
-Subsecs. (b), (c). Pub. L. 91–230, § 401(a)(2)(B), added subsecs. (b) and (c).
+Subsecs. (b), (c). Pub. L. 91–230, § 401(a)(2)(B), added subsecs. (b) and (c).
 
 1968—Pub. L. 90–576 substituted general reference to “any program for which the Commissioner of Education has responsibility for administration, either as provided by statute or by delegation pursuant to statute” for specific references to “title I of the Elementary and Secondary Education Act of 1965 (title II of Pub. L. 81–874), titles II, III, V, VI, VII, and VIII of the Elementary and Secondary Education Act of 1965, and the Adult Education Act of 1966 (title III of the Elementary and Secondary Education Amendments of 1966), as now in effect or hereafter from time to time amended” as the areas in which the provisions of this chapter shall apply and inserted provision that amendments to the programs covered shall not affect the applicability of this chapter unless so specified by such amendments.
 
@@ -93,9 +93,9 @@ Subsecs. (b), (c). Pub. L. 91–230, § 401(a)(2)(B), added subsecs. (b) and (
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–382, § 3(a)(2), Oct. 20, 1994, 108 Stat. 3518, provided that:
+Pub. L. 103–382, § 3(a)(2), Oct. 20, 1994, 108 Stat. 3518, provided that:
 
-> “Title II of this Act [§§ 211 to 272 of Pub. L. 103–382, see Tables for classification] and the amendments made by title II of this Act shall take effect on the date of enactment of this Act [Oct. 20, 1994], except that section 236 [enacting section 1228a of this title] (equity for students, teachers, and other program beneficiaries) of such title shall be effective—
+> “Title II of this Act [§§ 211 to 272 of Pub. L. 103–382, see Tables for classification] and the amendments made by title II of this Act shall take effect on the date of enactment of this Act [Oct. 20, 1994], except that section 236 [enacting section 1228a of this title] (equity for students, teachers, and other program beneficiaries) of such title shall be effective—
 
 > **“(A)** July 1, 1995 for noncompetitive programs in which funds are allocated on the basis of a formula; and
 
@@ -103,23 +103,23 @@ Pub. L. 103–382, § 3(a)(2), Oct. 20, 1994, 108 Stat. 3518, provided that:
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–380, title V, § 505(b), Aug. 21, 1974, 88 Stat. 562, provided that: “The amendments made by subsection (a) [amending this section and section 1221g of this title] shall be effective on the tenth day after the date of enactment of this Act [Aug. 21, 1974].”
+Pub. L. 93–380, title V, § 505(b), Aug. 21, 1974, 88 Stat. 562, provided that: “The amendments made by subsection (a) [amending this section and section 1221g of this title] shall be effective on the tenth day after the date of enactment of this Act [Aug. 21, 1974].”
 
 **Short Title of 2013 Amendment**
 
-Pub. L. 112–278, § 1, Jan. 14, 2013, 126 Stat. 2480, provided that: “This Act [amending section 1232g of this title] may be cited as the ‘Uninterrupted Scholars Act (USA)’.”
+Pub. L. 112–278, § 1, Jan. 14, 2013, 126 Stat. 2480, provided that: “This Act [amending section 1232g of this title] may be cited as the ‘Uninterrupted Scholars Act (USA)’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–297, title III, § 3401, Apr. 28, 1988, 102 Stat. 344, provided that: “This part [part C (§§ 3401–3403) of title III of Pub. L. 100–297, amending sections 1221e and 1221e–1 of this title and enacting provisions set out as a note under section 1221e–1 of this title] may be cited as the ‘National Assessment of Educational Progress Improvement Act’.”
+Pub. L. 100–297, title III, § 3401, Apr. 28, 1988, 102 Stat. 344, provided that: “This part [part C (§§ 3401–3403) of title III of Pub. L. 100–297, amending sections 1221e and 1221e–1 of this title and enacting provisions set out as a note under section 1221e–1 of this title] may be cited as the ‘National Assessment of Educational Progress Improvement Act’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–561, title XII, § 1211, Nov. 1, 1978, 92 Stat. 2338, provided that: “This part [enacting sections 1221–3 and 1231g of this title and amending section 1221e–1 of this title] may be cited as the ‘Control of Paperwork Amendments of 1978’.”
+Pub. L. 95–561, title XII, § 1211, Nov. 1, 1978, 92 Stat. 2338, provided that: “This part [enacting sections 1221–3 and 1231g of this title and amending section 1221e–1 of this title] may be cited as the ‘Control of Paperwork Amendments of 1978’.”
 
 **Short Title of 1974 Amendment**
 
-Pub. L. 93–380, title V, § 513(b)(2), Aug. 21, 1974, 88 Stat. 574, provided that: “This section [enacting section 1232g of this title and provisions set out as a note under section 1232g of this title] may be cited as the ‘Family Educational Rights and Privacy Act of 1974’.”
+Pub. L. 93–380, title V, § 513(b)(2), Aug. 21, 1974, 88 Stat. 574, provided that: “This section [enacting section 1232g of this title and provisions set out as a note under section 1232g of this title] may be cited as the ‘Family Educational Rights and Privacy Act of 1974’.”
 
 **Executive Documents**
 
@@ -167,13 +167,13 @@ Ex. Ord. No. 11761, Jan. 17, 1974, 39 F.R. 2345, which provided for coordination
 
 **Executive Order No. 12687**
 
-Ex. Ord. No. 12687, Aug. 15, 1989, 54 F.R. 34127, as amended by Ex. Ord. No. 12741, Dec. 31, 1990, 56 F.R. 475; Ex. Ord. No. 12785, Dec. 26, 1991, 56 F.R. 67451, which established the President’s Education Policy Advisory Committee to advise the President with respect to objectives and conduct of overall education policy of the United States, was revoked by Ex. Ord. No. 12869, § 4(e), Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Ex. Ord. No. 12687, Aug. 15, 1989, 54 F.R. 34127, as amended by Ex. Ord. No. 12741, Dec. 31, 1990, 56 F.R. 475; Ex. Ord. No. 12785, Dec. 26, 1991, 56 F.R. 67451, which established the President’s Education Policy Advisory Committee to advise the President with respect to objectives and conduct of overall education policy of the United States, was revoked by Ex. Ord. No. 12869, § 4(e), Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
-## § 1221–1. National policy with respect to equal educational opportunity
+## § 1221–1. National policy with respect to equal educational opportunity
 
 Recognizing that the Nation’s economic, political, and social security require a well-educated citizenry, the Congress (1) reaffirms, as a matter of high priority, the Nation’s goal of equal educational opportunity, and (2) declares it to be the policy of the United States of America that every citizen is entitled to an education to meet his or her full potential without financial barriers.
 
-(Pub. L. 93–380, title VIII, § 801, Aug. 21, 1974, 88 Stat. 597.)
+(Pub. L. 93–380, title VIII, § 801, Aug. 21, 1974, 88 Stat. 597.)
 
 **Editorial Notes**
 
@@ -185,7 +185,7 @@ Section was enacted as part of Education Amendments of 1974, and not as part of 
 
 **Effective Date**
 
-Pub. L. 93–380, § 2(c), Aug. 21, 1974, 88 Stat. 488, provided that:
+Pub. L. 93–380, § 2(c), Aug. 21, 1974, 88 Stat. 488, provided that:
 
 > **“(1)** Unless otherwise specified, each provision of this Act [see Tables for classification] and each amendment made by this Act shall be effective on and after the sixtieth day after the enactment of this Act [Aug. 21, 1974].
 
@@ -193,45 +193,45 @@ Pub. L. 93–380, § 2(c), Aug. 21, 1974, 88 Stat. 488, provided that:
 
 **Study of Civilian Aviation Training Programs**
 
-Pub. L. 102–325, title XIV, § 1410, July 23, 1992, 106 Stat. 821, directed Secretary of Education to enter into appropriate arrangements with National Academy of Sciences Commission on Behavioral and Social Sciences and Education to study civilian aviation training programs needed to satisfy workforce requirements of commercial aviation industry in year 2000 and beyond, directed Secretary to request that National Academy of Sciences Commission on Behavioral and Social Sciences and Education submit an interim report to Secretary and Congress within 1 year after July 23, 1992, and directed that the study be completed within 2 years of July 23, 1992, prior to repeal by Pub. L. 105–332, § 6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
+Pub. L. 102–325, title XIV, § 1410, July 23, 1992, 106 Stat. 821, directed Secretary of Education to enter into appropriate arrangements with National Academy of Sciences Commission on Behavioral and Social Sciences and Education to study civilian aviation training programs needed to satisfy workforce requirements of commercial aviation industry in year 2000 and beyond, directed Secretary to request that National Academy of Sciences Commission on Behavioral and Social Sciences and Education submit an interim report to Secretary and Congress within 1 year after July 23, 1992, and directed that the study be completed within 2 years of July 23, 1992, prior to repeal by Pub. L. 105–332, § 6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 
 **National Commission on Independent Higher Education**
 
-Pub. L. 102–325, title XIV, part B, July 23, 1992, 106 Stat. 824, as amended by Pub. L. 103–208, § 2(k)(11), Dec. 20, 1993, 107 Stat. 2486, provided that part B could be cited as the “National Independent Colleges and Universities Discovery Act”, provided for establishment, membership, etc., of National Commission on Independent Higher Education, which Commission was to develop factual base for understanding status of independent colleges and universities, their contributions to public priorities, and effects of national higher education policies on independent nonprofit sector, to review issuance of Federal regulations regarding independent colleges and universities, and suggest means by which independent colleges and universities can be held accountable for use of public resources without inappropriate intrusion into institutional autonomy, and to address the relationship between Federal and State policies in independent colleges and universities, particularly with respect to student access and choice, finance, institutional subsidies, and institutional accountability, and directed that the Commission terminate 3 years after July 23, 1992, prior to repeal by Pub. L. 105–332, § 6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
+Pub. L. 102–325, title XIV, part B, July 23, 1992, 106 Stat. 824, as amended by Pub. L. 103–208, § 2(k)(11), Dec. 20, 1993, 107 Stat. 2486, provided that part B could be cited as the “National Independent Colleges and Universities Discovery Act”, provided for establishment, membership, etc., of National Commission on Independent Higher Education, which Commission was to develop factual base for understanding status of independent colleges and universities, their contributions to public priorities, and effects of national higher education policies on independent nonprofit sector, to review issuance of Federal regulations regarding independent colleges and universities, and suggest means by which independent colleges and universities can be held accountable for use of public resources without inappropriate intrusion into institutional autonomy, and to address the relationship between Federal and State policies in independent colleges and universities, particularly with respect to student access and choice, finance, institutional subsidies, and institutional accountability, and directed that the Commission terminate 3 years after July 23, 1992, prior to repeal by Pub. L. 105–332, § 6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 
 **National Commission on Cost of Higher Education**
 
-Pub. L. 102–325, title XIV, part C, July 23, 1992, 106 Stat. 827, as amended by Pub. L. 103–208, § 2(k)(12), Dec. 20, 1993, 107 Stat. 2486, provided for establishment, membership, etc., of National Commission on the Cost of Higher Education, which Commission was to make findings and specific recommendations regarding the increase in tuition costs compared with other commodities and services as well as methods of reducing increased tuition costs, administrative costs of colleges and universities and methods of reducing such costs, the extent to which Federal, State, and local regulations contribute to increased tuition costs and the increase in the cost of higher education, and extent to which the lack of student financial assistance programs contribute to increased tuition costs, and directed that the Commission cease to exist on the date that is 90 days after the Commission submits its final report, which report was to be submitted to the President and Congress not later than Sept. 1, 1994, prior to repeal by Pub. L. 105–332, § 6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
+Pub. L. 102–325, title XIV, part C, July 23, 1992, 106 Stat. 827, as amended by Pub. L. 103–208, § 2(k)(12), Dec. 20, 1993, 107 Stat. 2486, provided for establishment, membership, etc., of National Commission on the Cost of Higher Education, which Commission was to make findings and specific recommendations regarding the increase in tuition costs compared with other commodities and services as well as methods of reducing increased tuition costs, administrative costs of colleges and universities and methods of reducing such costs, the extent to which Federal, State, and local regulations contribute to increased tuition costs and the increase in the cost of higher education, and extent to which the lack of student financial assistance programs contribute to increased tuition costs, and directed that the Commission cease to exist on the date that is 90 days after the Commission submits its final report, which report was to be submitted to the President and Congress not later than Sept. 1, 1994, prior to repeal by Pub. L. 105–332, § 6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 
 **Education Council Act of 1991**
 
-Pub. L. 102–62, June 27, 1991, 105 Stat. 305, as amended by Pub. L. 102–359, § 1, Aug. 26, 1992, 106 Stat. 962; Pub. L. 103–290, § 1, Aug. 1, 1994, 108 Stat. 1456; Pub. L. 103–382, title III, § 362, Oct. 20, 1994, 108 Stat. 3975, provided for establishment, membership, etc., of National Education Commission on Time and Learning, which Commission was to examine the quality and adequacy of the study and learning time of elementary and secondary students in the United States, including issues regarding the length of the school day and year, the extent and role of homework, how time is being used for academic subjects, year-round professional opportunities for teachers, and use of school facilities for extended learning programs, report to Congress and the Secretary on the results of the study not later than 2 years after the Commission concludes its first meeting, and terminate Sept. 30, 1994, and provided for establishment, membership, etc., of National Council on Education Standards and Testing, which Council was to advise the American people whether suitable specific education standards should be established for the knowledge and skills that students should possess and that schools should impart in order that American student leave grades 4, 8, and 12 demonstrating competency in challenging subject matters and whether an appropriate system of voluntary national tests or examinations should be established to provide prompt and accurate information on the progress made towards specific education standards by individual students, schools, school systems, States, and the Nation as a whole, submit a final report, as soon as possible, but not later than Dec. 31, 1991, to Congress, Secretary of Education, and National Education Goals Panel, and cease to exist 90 days after submitting its final report.
+Pub. L. 102–62, June 27, 1991, 105 Stat. 305, as amended by Pub. L. 102–359, § 1, Aug. 26, 1992, 106 Stat. 962; Pub. L. 103–290, § 1, Aug. 1, 1994, 108 Stat. 1456; Pub. L. 103–382, title III, § 362, Oct. 20, 1994, 108 Stat. 3975, provided for establishment, membership, etc., of National Education Commission on Time and Learning, which Commission was to examine the quality and adequacy of the study and learning time of elementary and secondary students in the United States, including issues regarding the length of the school day and year, the extent and role of homework, how time is being used for academic subjects, year-round professional opportunities for teachers, and use of school facilities for extended learning programs, report to Congress and the Secretary on the results of the study not later than 2 years after the Commission concludes its first meeting, and terminate Sept. 30, 1994, and provided for establishment, membership, etc., of National Council on Education Standards and Testing, which Council was to advise the American people whether suitable specific education standards should be established for the knowledge and skills that students should possess and that schools should impart in order that American student leave grades 4, 8, and 12 demonstrating competency in challenging subject matters and whether an appropriate system of voluntary national tests or examinations should be established to provide prompt and accurate information on the progress made towards specific education standards by individual students, schools, school systems, States, and the Nation as a whole, submit a final report, as soon as possible, but not later than Dec. 31, 1991, to Congress, Secretary of Education, and National Education Goals Panel, and cease to exist 90 days after submitting its final report.
 
 **National Commission on Responsibilities for Financing Postsecondary Education**
 
-Pub. L. 99–498, title XIII, § 1321, Oct. 17, 1986, 100 Stat. 1584, as amended by Pub. L. 101–324, July 6, 1990, 104 Stat. 300; Pub. L. 102–170, title III, § 306, Nov. 26, 1991, 105 Stat. 1136, established as an independent agency in executive branch a commission to be known as National Commission on Responsibilities for Financing Postsecondary Education, directed Commission to study and investigate extent to which (1) there is a consistent and coherent Federal policy regarding the appropriate family role in financing costs of postsecondary education for family members, (2) current Federal laws and regulations promote stated Federal policy, and (3) extent to which State laws which remove parental responsibilities for children over 18 years of age conflict with Federal policy in this area, directed Commission to (A) summarize appropriate findings of National Commission on Student Financial Assistance, (B) recommend to Congress a comprehensive analysis on extent to which consensus exists regarding appropriate role of family in financing postsecondary education, and (C) recommend changes in current law required to achieve desired Federal policy, and provided that Commission would terminate 2 years after first meeting of its member, prior to repeal by Pub. L. 105–332, § 6(a), Oct. 31, 1998, 112 Stat. 3127.
+Pub. L. 99–498, title XIII, § 1321, Oct. 17, 1986, 100 Stat. 1584, as amended by Pub. L. 101–324, July 6, 1990, 104 Stat. 300; Pub. L. 102–170, title III, § 306, Nov. 26, 1991, 105 Stat. 1136, established as an independent agency in executive branch a commission to be known as National Commission on Responsibilities for Financing Postsecondary Education, directed Commission to study and investigate extent to which (1) there is a consistent and coherent Federal policy regarding the appropriate family role in financing costs of postsecondary education for family members, (2) current Federal laws and regulations promote stated Federal policy, and (3) extent to which State laws which remove parental responsibilities for children over 18 years of age conflict with Federal policy in this area, directed Commission to (A) summarize appropriate findings of National Commission on Student Financial Assistance, (B) recommend to Congress a comprehensive analysis on extent to which consensus exists regarding appropriate role of family in financing postsecondary education, and (C) recommend changes in current law required to achieve desired Federal policy, and provided that Commission would terminate 2 years after first meeting of its member, prior to repeal by Pub. L. 105–332, § 6(a), Oct. 31, 1998, 112 Stat. 3127.
 
 **Study of Classroom Use of Volunteers**
 
-Pub. L. 99–498, title XIII, § 1341, Oct. 17, 1986, 100 Stat. 1587, as amended by Pub. L. 100–50, § 23(7), June 3, 1987, 101 Stat. 362, directed National Academy of Sciences to conduct a thorough study of how volunteers could best be used in the classroom with the study to (1) feasibility of using recipients of student loans as part of repayment of such loans, (2) use of older Americans as such volunteers, (3) use of business persons and other professionals as volunteers, and (4) place of incentives to encourage volunteerism, and with National Academy of Sciences to prepare and submit to Congress a report, together with a description of programs on use of volunteers and with such recommendations as deemed appropriate not later than one year after entering into a contract to conduct the study, prior to repeal by Pub. L. 105–332, § 6(a), Oct. 31, 1998, 112 Stat. 3127.
+Pub. L. 99–498, title XIII, § 1341, Oct. 17, 1986, 100 Stat. 1587, as amended by Pub. L. 100–50, § 23(7), June 3, 1987, 101 Stat. 362, directed National Academy of Sciences to conduct a thorough study of how volunteers could best be used in the classroom with the study to (1) feasibility of using recipients of student loans as part of repayment of such loans, (2) use of older Americans as such volunteers, (3) use of business persons and other professionals as volunteers, and (4) place of incentives to encourage volunteerism, and with National Academy of Sciences to prepare and submit to Congress a report, together with a description of programs on use of volunteers and with such recommendations as deemed appropriate not later than one year after entering into a contract to conduct the study, prior to repeal by Pub. L. 105–332, § 6(a), Oct. 31, 1998, 112 Stat. 3127.
 
 **Native Hawaiian Education Study**
 
-Pub. L. 96–374, title XIII, § 1331, Oct. 3, 1980, 94 Stat. 1499, established an Advisory Council on Native Hawaiian Education consisting of seven members appointed by Secretary of Education, after consultation with Governor of Hawaii, from among individuals who were professionals in various fields relating to human development, and who were familiar with educational problems of Native Hawaiians, to conduct a study to (A) evaluate effectiveness of State and federally assisted educational programs in serving Native Hawaiian children and extent to which such programs achieve their purposes with respect to such children, and (B) take into account special health, social, and psychological needs of Native Hawaiian children, and to submit a report to Secretary and to Congress not later than Jan. 31, 1983, containing findings and recommendations of the Council, with the Council to terminate 60 days after submission of its report.
+Pub. L. 96–374, title XIII, § 1331, Oct. 3, 1980, 94 Stat. 1499, established an Advisory Council on Native Hawaiian Education consisting of seven members appointed by Secretary of Education, after consultation with Governor of Hawaii, from among individuals who were professionals in various fields relating to human development, and who were familiar with educational problems of Native Hawaiians, to conduct a study to (A) evaluate effectiveness of State and federally assisted educational programs in serving Native Hawaiian children and extent to which such programs achieve their purposes with respect to such children, and (B) take into account special health, social, and psychological needs of Native Hawaiian children, and to submit a report to Secretary and to Congress not later than Jan. 31, 1983, containing findings and recommendations of the Council, with the Council to terminate 60 days after submission of its report.
 
 **Appropriations Not Authorized for Native Hawaiian Education Study for Fiscal Year 1982, 1983, or 1984**
 
-Pub. L. 97–35, title V, § 512(a), Aug. 13, 1981, 95 Stat. 444, provided that: “No funds are authorized to be appropriated to carry out part D of title XIII of the Education Amendments of 1980 [section 1331 of Pub. L. 96–374, set out as a note above] for fiscal year 1982, 1983, or 1984.”
+Pub. L. 97–35, title V, § 512(a), Aug. 13, 1981, 95 Stat. 444, provided that: “No funds are authorized to be appropriated to carry out part D of title XIII of the Education Amendments of 1980 [section 1331 of Pub. L. 96–374, set out as a note above] for fiscal year 1982, 1983, or 1984.”
 
 **Financing of Elementary and Secondary Education; Studies and Surveys; Advisory Panel; Reports**
 
-Pub. L. 95–561, title XII, § 1203, Nov. 1, 1978, 92 Stat. 2335, as amended by Pub. L. 96–46, § 2(a)(4), Aug. 6, 1979, 93 Stat. 340; Pub. L. 96–88, title III, § 301(a)(2), (b)(1), title V, § 501(a), 507, Oct. 17, 1979, 93 Stat. 677, 678, 689, 692, established a 15-member Advisory Panel on Financing Elementary and Secondary Education within Department of Education to provide for (1) availability of reliable and comparative data on status and trends in financing elementary and secondary education, (2) conduct of studies necessary to understand and analyze the trends and problems affecting financing of elementary and secondary education, both public and non-public, including prospects for adequate financing during the next ten years, and development of recommendations for Federal policies to assist in improving equity and efficiency of Federal and State systems for raising and distributing revenues to support elementary and secondary education, with views and recommendations of the Panel to be presented to 1980 White House Conference on Education.
+Pub. L. 95–561, title XII, § 1203, Nov. 1, 1978, 92 Stat. 2335, as amended by Pub. L. 96–46, § 2(a)(4), Aug. 6, 1979, 93 Stat. 340; Pub. L. 96–88, title III, § 301(a)(2), (b)(1), title V, § 501(a), 507, Oct. 17, 1979, 93 Stat. 677, 678, 689, 692, established a 15-member Advisory Panel on Financing Elementary and Secondary Education within Department of Education to provide for (1) availability of reliable and comparative data on status and trends in financing elementary and secondary education, (2) conduct of studies necessary to understand and analyze the trends and problems affecting financing of elementary and secondary education, both public and non-public, including prospects for adequate financing during the next ten years, and development of recommendations for Federal policies to assist in improving equity and efficiency of Federal and State systems for raising and distributing revenues to support elementary and secondary education, with views and recommendations of the Panel to be presented to 1980 White House Conference on Education.
 
 **White House Conference on Education: Report of Findings and Recommendations; National Conference Committee: Establishment, Membership, Report to President and Congress, Travel Expenses; Apportionment of Funds; Authorization of Appropriations**
 
-Pub. L. 93–380, title VIII, § 804, Aug. 21, 1974, 88 Stat. 597, as amended by Pub. L. 95–272, title III, § 301, May 3, 1978, 92 Stat. 227; Pub. L. 95–561, title XII, § 1203(c)(8), Nov. 1, 1978, 92 Stat. 2335, directed President to call and conduct a White House Conference on Education in 1980, established a National Conference Committee to provide guidance and planning and to make a final report to President and Congress not later than Dec. 1, 1980, authorized making of grants to States to assist in meeting cost of that State’s participation, and authorized appropriations.
+Pub. L. 93–380, title VIII, § 804, Aug. 21, 1974, 88 Stat. 597, as amended by Pub. L. 95–272, title III, § 301, May 3, 1978, 92 Stat. 227; Pub. L. 95–561, title XII, § 1203(c)(8), Nov. 1, 1978, 92 Stat. 2335, directed President to call and conduct a White House Conference on Education in 1980, established a National Conference Committee to provide guidance and planning and to make a final report to President and Congress not later than Dec. 1, 1980, authorized making of grants to States to assist in meeting cost of that State’s participation, and authorized appropriations.
 
-## § 1221–2. National policy with respect to museums as educational institutions
+## § 1221–2. National policy with respect to museums as educational institutions
 
 The Congress, recognizing—
 
@@ -243,7 +243,7 @@ The Congress, recognizing—
 
 declares that it is the sense of the Congress that museums be considered educational institutions and that the cost of their educational services be more frequently borne by educational agencies and institutions benefiting from those services.
 
-(Pub. L. 93–380, title VIII, § 803, Aug. 21, 1974, 88 Stat. 597.)
+(Pub. L. 93–380, title VIII, § 803, Aug. 21, 1974, 88 Stat. 597.)
 
 **Editorial Notes**
 
@@ -257,9 +257,9 @@ Section was enacted as part of Education Amendments of 1974, and not as part of 
 
 Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under section 1221–1 of this title.
 
-## § 1221–3. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
+## § 1221–3. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
 
-Section, Pub. L. 90–247, title IV, § 400A, as added Pub. L. 95–561, title XII, § 1212(b), Nov. 1, 1978, 92 Stat. 2338; amended Pub. L. 96–46, § 4(a), Aug. 6, 1979, 93 Stat. 342; Pub. L. 96–88, title III, § 301(b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 96–511, § 4(a), Dec. 11, 1980, 94 Stat. 2826, related to control of excessive paperwork.
+Section, Pub. L. 90–247, title IV, § 400A, as added Pub. L. 95–561, title XII, § 1212(b), Nov. 1, 1978, 92 Stat. 2338; amended Pub. L. 96–46, § 4(a), Aug. 6, 1979, 93 Stat. 342; Pub. L. 96–88, title III, § 301(b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 96–511, § 4(a), Dec. 11, 1980, 94 Stat. 2826, related to control of excessive paperwork.
 
 ## SUBCHAPTER I—FUNCTIONS OF DEPARTMENT OF EDUCATION
 
@@ -267,19 +267,19 @@ Section, Pub. L. 90–247, title IV, § 400A, as added Pub. L. 95–561, title
 
 **Codification**
 
-Pub. L. 103–382, title II, § 221, Oct. 20, 1994, 108 Stat. 3913, amended subchapter heading generally.
+Pub. L. 103–382, title II, § 221, Oct. 20, 1994, 108 Stat. 3913, amended subchapter heading generally.
 
-### §§ 1221a to 1221c. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
+### §§ 1221a to 1221c. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
 
-Section 1221a, Pub. L. 90–247, title IV, § 401, as added Pub. L. 92–318, title III, § 301(a)(2), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, § 504(a), Aug. 21, 1974, 88 Stat. 561, established Education Division of the Department of Health, Education, and Welfare.
+Section 1221a, Pub. L. 90–247, title IV, § 401, as added Pub. L. 92–318, title III, § 301(a)(2), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, § 504(a), Aug. 21, 1974, 88 Stat. 561, established Education Division of the Department of Health, Education, and Welfare.
 
-Section 1221b, Pub. L. 90–247, title IV, § 402, as added Pub. L. 92–318, title III, § 301(a)(2), June 23, 1972, 86 Stat. 327; amended Pub. L. 93–380, title V, § 502(a)(2)(A), Aug. 21, 1974, 88 Stat. 560, established position of and provided for appointment and compensation of Assistant Secretary for Education in the Department of Health, Education, and Welfare.
+Section 1221b, Pub. L. 90–247, title IV, § 402, as added Pub. L. 92–318, title III, § 301(a)(2), June 23, 1972, 86 Stat. 327; amended Pub. L. 93–380, title V, § 502(a)(2)(A), Aug. 21, 1974, 88 Stat. 560, established position of and provided for appointment and compensation of Assistant Secretary for Education in the Department of Health, Education, and Welfare.
 
-Section 1221c, Pub. L. 90–247, title IV, § 403, as added Pub. L. 92–318, title III, § 301(a)(2), June 23, 1972, 86 Stat. 327; amended Pub. L. 93–380, title V, § 503(a), Aug. 21, 1974, 88 Stat. 560; Pub. L. 94–482, title IV, § 409(a), Oct. 12, 1976, 90 Stat. 2233; Pub. L. 95–561, title XII, § 1241, Nov. 1, 1978, 92 Stat. 2351; Pub. L. 96–88, title III, § 301(a)(1), (b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 678, 692; Pub. L. 96–470, title I, § 106(d), Oct. 19, 1980, 94 Stat. 2238, related to nonpublic education.
+Section 1221c, Pub. L. 90–247, title IV, § 403, as added Pub. L. 92–318, title III, § 301(a)(2), June 23, 1972, 86 Stat. 327; amended Pub. L. 93–380, title V, § 503(a), Aug. 21, 1974, 88 Stat. 560; Pub. L. 94–482, title IV, § 409(a), Oct. 12, 1976, 90 Stat. 2233; Pub. L. 95–561, title XII, § 1241, Nov. 1, 1978, 92 Stat. 2351; Pub. L. 96–88, title III, § 301(a)(1), (b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 678, 692; Pub. L. 96–470, title I, § 106(d), Oct. 19, 1980, 94 Stat. 2238, related to nonpublic education.
 
-### § 1221d. Repealed. Pub. L. 96–374, title X, § 1001(c), Oct. 3, 1980, 94 Stat. 1491
+### § 1221d. Repealed. Pub. L. 96–374, title X, § 1001(c), Oct. 3, 1980, 94 Stat. 1491
 
-Section, Pub. L. 90–247, title IV. § 404, as added Pub. L. 92–318, title III, § 301(a)(2), June 23, 1972, 86 Stat. 327; amended Pub. L. 94–482, title IV, § 402, Oct. 12, 1976, 90 Stat. 2226; Pub. L. 96–49, § 13, Aug. 13, 1979, 93 Stat. 354, related to grants and contracts for improvement of post-secondary education.
+Section, Pub. L. 90–247, title IV. § 404, as added Pub. L. 92–318, title III, § 301(a)(2), June 23, 1972, 86 Stat. 327; amended Pub. L. 94–482, title IV, § 402, Oct. 12, 1976, 90 Stat. 2226; Pub. L. 96–49, § 13, Aug. 13, 1979, 93 Stat. 354, related to grants and contracts for improvement of post-secondary education.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -287,35 +287,35 @@ Section, Pub. L. 90–247, title IV. § 404, as added Pub. L. 92–318, title 
 
 Repeal effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96–374, set out as an Effective Date of 1980 Amendment note under section 1001 of this title.
 
-### § 1221e. Repealed. Pub. L. 103–227, title IX, § 911(a), Mar. 31, 1994, 108 Stat. 213
+### § 1221e. Repealed. Pub. L. 103–227, title IX, § 911(a), Mar. 31, 1994, 108 Stat. 213
 
-Section, Pub. L. 90–247, title IV, § 405, as added Pub. L. 92–318, title III, § 301(a)(2), June 23, 1972, 86 Stat. 328; amended Pub. L. 93–380, title V, § 502(a)(2)(B), Aug. 21, 1974, 88 Stat. 560; Pub. L. 94–482, title IV, § 403, Oct. 12, 1976, 90 Stat. 2227; Pub. L. 95–561, title XII, § 1242, Nov. 1, 1978, 92 Stat. 2352; Pub. L. 96–49, § 14, Aug. 13, 1979, 93 Stat. 354; Pub. L. 96–374, title XIII, §§ 1311–1314, Oct. 3, 1980, 94 Stat. 1498, 1499; Pub. L. 98–511, title VII, §§ 702(a), 703, 704(a), Oct. 19, 1984, 98 Stat. 2405, 2406; Pub. L. 99–498, title XIV, § 1401(a), Oct. 17, 1986, 100 Stat. 1589; Pub. L. 100–50, § 24(a), June 3, 1987, 101 Stat. 362; Pub. L. 100–297, title III, §§ 3001(p)(2), 3002, 3403(b), (c), Apr. 28, 1988, 102 Stat. 337, 349; Pub. L. 103–33, § 1(b), May 25, 1993, 107 Stat. 94, related to Office of Educational Research and Improvement.
+Section, Pub. L. 90–247, title IV, § 405, as added Pub. L. 92–318, title III, § 301(a)(2), June 23, 1972, 86 Stat. 328; amended Pub. L. 93–380, title V, § 502(a)(2)(B), Aug. 21, 1974, 88 Stat. 560; Pub. L. 94–482, title IV, § 403, Oct. 12, 1976, 90 Stat. 2227; Pub. L. 95–561, title XII, § 1242, Nov. 1, 1978, 92 Stat. 2352; Pub. L. 96–49, § 14, Aug. 13, 1979, 93 Stat. 354; Pub. L. 96–374, title XIII, §§ 1311–1314, Oct. 3, 1980, 94 Stat. 1498, 1499; Pub. L. 98–511, title VII, §§ 702(a), 703, 704(a), Oct. 19, 1984, 98 Stat. 2405, 2406; Pub. L. 99–498, title XIV, § 1401(a), Oct. 17, 1986, 100 Stat. 1589; Pub. L. 100–50, § 24(a), June 3, 1987, 101 Stat. 362; Pub. L. 100–297, title III, §§ 3001(p)(2), 3002, 3403(b), (c), Apr. 28, 1988, 102 Stat. 337, 349; Pub. L. 103–33, § 1(b), May 25, 1993, 107 Stat. 94, related to Office of Educational Research and Improvement.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 103–227, title IX, § 914, Mar. 31, 1994, 108 Stat. 223, which provided that contracts for regional educational laboratories, Educational Resources Information Center Clearinghouses and research and development centers and regional educational laboratories assisted under this section as in effect on Mar. 30, 1994, would remain in effect until the termination date of such contracts, was repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
+Pub. L. 103–227, title IX, § 914, Mar. 31, 1994, 108 Stat. 223, which provided that contracts for regional educational laboratories, Educational Resources Information Center Clearinghouses and research and development centers and regional educational laboratories assisted under this section as in effect on Mar. 30, 1994, would remain in effect until the termination date of such contracts, was repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
 
 **Existing Grants and Contracts**
 
-Pub. L. 103–227, title IX, § 915, Mar. 31, 1994, 108 Stat. 223, which provided that grants and contracts for the research and development centers assisted under this section as in effect on Mar. 30, 1994, would remain in effect until the termination date of such grants or contracts, except if extended to implement the provisions of title IX of Pub. L. 103–227 [see section 6001 of this title], and authorized use of funds appropriated pursuant to former section 6011(m)(1) of this title to carry out these provisions, was repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
+Pub. L. 103–227, title IX, § 915, Mar. 31, 1994, 108 Stat. 223, which provided that grants and contracts for the research and development centers assisted under this section as in effect on Mar. 30, 1994, would remain in effect until the termination date of such grants or contracts, except if extended to implement the provisions of title IX of Pub. L. 103–227 [see section 6001 of this title], and authorized use of funds appropriated pursuant to former section 6011(m)(1) of this title to carry out these provisions, was repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
 
-### §§ 1221e–1 to 1221e–1c. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
+### §§ 1221e–1 to 1221e–1c. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
 
-Section 1221e–1, Pub. L. 90–247, title IV, § 406, as added Pub. L. 93–380, title V, § 501(a), Aug. 21, 1974, 88 Stat. 556; amended Pub. L. 94–273, § 12(1), Apr. 21, 1976, 90 Stat. 378; Pub. L. 94–482, title IV, §§ 401, 406, title V, § 501(q), Oct. 12, 1976, 90 Stat. 2226, 2231, 2238; Sen. Res. 4, Feb. 4, 1977; Pub. L. 95–561, title XII, §§ 1201, 1212(a), (c), 1243(a), Nov. 1, 1978, 92 Stat. 2333, 2338, 2341, 2353; S. Res. 30, Mar. 7, 1979; Pub. L. 98–511, title VII, §§ 702(b), 704(b), Oct. 19, 1984, 98 Stat. 2406; Pub. L. 99–498, title XIV, § 1402, Oct. 17, 1986, 100 Stat. 1597; Pub. L. 100–50, § 24(b), June 3, 1987, 101 Stat. 363; Pub. L. 100–297, title III, § 3001(a), (b)(1), (c)–(p)(1), (q), 3403(a), Apr. 28, 1988, 102 Stat. 331–337, 344; Pub. L. 101–589, title II, § 252, Nov. 16, 1990, 104 Stat. 2894; Pub. L. 102–325, title XV, § 1552, July 23, 1992, 106 Stat. 838; Pub. L. 103–33, § 1(a), May 25, 1993, 107 Stat. 93; Pub. L. 103–227, title VII, § 707, Mar. 31, 1994, 108 Stat. 209; Pub. L. 103–437, § 7(a)(1), Nov. 2, 1994, 108 Stat. 4587, related to National Center for Education Statistics. See section 9541 et seq. of this title.
+Section 1221e–1, Pub. L. 90–247, title IV, § 406, as added Pub. L. 93–380, title V, § 501(a), Aug. 21, 1974, 88 Stat. 556; amended Pub. L. 94–273, § 12(1), Apr. 21, 1976, 90 Stat. 378; Pub. L. 94–482, title IV, §§ 401, 406, title V, § 501(q), Oct. 12, 1976, 90 Stat. 2226, 2231, 2238; Sen. Res. 4, Feb. 4, 1977; Pub. L. 95–561, title XII, §§ 1201, 1212(a), (c), 1243(a), Nov. 1, 1978, 92 Stat. 2333, 2338, 2341, 2353; S. Res. 30, Mar. 7, 1979; Pub. L. 98–511, title VII, §§ 702(b), 704(b), Oct. 19, 1984, 98 Stat. 2406; Pub. L. 99–498, title XIV, § 1402, Oct. 17, 1986, 100 Stat. 1597; Pub. L. 100–50, § 24(b), June 3, 1987, 101 Stat. 363; Pub. L. 100–297, title III, § 3001(a), (b)(1), (c)–(p)(1), (q), 3403(a), Apr. 28, 1988, 102 Stat. 331–337, 344; Pub. L. 101–589, title II, § 252, Nov. 16, 1990, 104 Stat. 2894; Pub. L. 102–325, title XV, § 1552, July 23, 1992, 106 Stat. 838; Pub. L. 103–33, § 1(a), May 25, 1993, 107 Stat. 93; Pub. L. 103–227, title VII, § 707, Mar. 31, 1994, 108 Stat. 209; Pub. L. 103–437, § 7(a)(1), Nov. 2, 1994, 108 Stat. 4587, related to National Center for Education Statistics. See section 9541 et seq. of this title.
 
-Section 1221e–1a, Pub. L. 90–247, title IV, § 406A, formerly § 437, as added Pub. L. 93–380, title V, § 512(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 94–273, § 17, Apr. 21, 1976, 90 Stat. 379; Pub. L. 94–482, title V, § 501(f)(2), (3), Oct. 12, 1976, 90 Stat. 2237; S. Res. 4, Feb. 4, 1977; renumbered § 406A, Pub. L. 95–561, title XII, § 1231(a)(2), Nov. 1, 1978, 92 Stat. 2342; S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 98–211, § 18(b), Dec. 8, 1983, 97 Stat. 1417; Pub. L. 103–437, § 7(a)(1), Nov. 2, 1994, 108 Stat. 4587, related to responsibility of State to furnish information on uses of Federal funds in State. See section 1226b(a) and (f) of this title.
+Section 1221e–1a, Pub. L. 90–247, title IV, § 406A, formerly § 437, as added Pub. L. 93–380, title V, § 512(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 94–273, § 17, Apr. 21, 1976, 90 Stat. 379; Pub. L. 94–482, title V, § 501(f)(2), (3), Oct. 12, 1976, 90 Stat. 2237; S. Res. 4, Feb. 4, 1977; renumbered § 406A, Pub. L. 95–561, title XII, § 1231(a)(2), Nov. 1, 1978, 92 Stat. 2342; S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 98–211, § 18(b), Dec. 8, 1983, 97 Stat. 1417; Pub. L. 103–437, § 7(a)(1), Nov. 2, 1994, 108 Stat. 4587, related to responsibility of State to furnish information on uses of Federal funds in State. See section 1226b(a) and (f) of this title.
 
-Section 1221e–1b, Pub. L. 90–247, title IV, § 406B, formerly § 406A, as added Pub. L. 96–374, title XIII, § 1303, Oct. 3, 1980, 94 Stat. 1497; renumbered § 406B, Pub. L. 99–159, title IV, § 401(1), Nov. 22, 1985, 99 Stat. 903, authorized appropriations for fiscal year 1981 for Pre-College Science Teacher Training Program and Minority Institutions Science Improvement program.
+Section 1221e–1b, Pub. L. 90–247, title IV, § 406B, formerly § 406A, as added Pub. L. 96–374, title XIII, § 1303, Oct. 3, 1980, 94 Stat. 1497; renumbered § 406B, Pub. L. 99–159, title IV, § 401(1), Nov. 22, 1985, 99 Stat. 903, authorized appropriations for fiscal year 1981 for Pre-College Science Teacher Training Program and Minority Institutions Science Improvement program.
 
-Section 1221e–1c, Pub. L. 90–247, title IV, § 406C, as added Pub. L. 99–159, title IV, § 401(2), Nov. 22, 1985, 99 Stat. 903, authorized appropriations for fiscal years 1985 and 1986 for Minority Institutions Science Improvement Program.
+Section 1221e–1c, Pub. L. 90–247, title IV, § 406C, as added Pub. L. 99–159, title IV, § 401(2), Nov. 22, 1985, 99 Stat. 903, authorized appropriations for fiscal years 1985 and 1986 for Minority Institutions Science Improvement Program.
 
-### § 1221e–1d. Use of Council staff and facilities
+### § 1221e–1d. Use of Council staff and facilities
 
 The National Advisory Council on Educational Research and Improvement, the Advisory Council on Education Statistics, and members of such councils may not use any staff, facilities, equipment, supplies, or franking privileges of the councils for activities unrelated to the purposes of the councils.
 
-(Pub. L. 99–498, title XIV, § 1403, Oct. 17, 1986, 100 Stat. 1599.)
+(Pub. L. 99–498, title XIV, § 1403, Oct. 17, 1986, 100 Stat. 1599.)
 
 **Editorial Notes**
 
@@ -323,31 +323,31 @@ The National Advisory Council on Educational Research and Improvement, the Advis
 
 Section was enacted as part of the Higher Education Amendments of 1986, and not as part of the General Education Provisions Act which comprises this chapter.
 
-### § 1221e–2. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
+### § 1221e–2. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
 
-Section, Pub. L. 90–247, title IV, § 407, as added Pub. L. 93–380, title V, § 502(a)(1), Aug. 21, 1974, 88 Stat. 559; amended Pub. L. 96–88, title III, § 301(b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692, related to education officers of United States.
+Section, Pub. L. 90–247, title IV, § 407, as added Pub. L. 93–380, title V, § 502(a)(1), Aug. 21, 1974, 88 Stat. 559; amended Pub. L. 96–88, title III, § 301(b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692, related to education officers of United States.
 
-### § 1221e–3. General authority of Secretary
+### § 1221e–3. General authority of Secretary
 
 The Secretary, in order to carry out functions otherwise vested in the Secretary by law or by delegation of authority pursuant to law, and subject to limitations as may be otherwise imposed by law, is authorized to make, promulgate, issue, rescind, and amend rules and regulations governing the manner of operation of, and governing the applicable programs administered by, the Department.
 
-(Pub. L. 90–247, title IV, § 410, formerly § 408, as added Pub. L. 93–380, title V, § 502(a)(1), Aug. 21, 1974, 88 Stat. 559; amended Pub. L. 95–561, title XII, §§ 1243(b), 1244, Nov. 1, 1978, 92 Stat. 2353; renumbered § 410 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 222, Oct. 20, 1994, 108 Stat. 3913, 3914.)
+(Pub. L. 90–247, title IV, § 410, formerly § 408, as added Pub. L. 93–380, title V, § 502(a)(1), Aug. 21, 1974, 88 Stat. 559; amended Pub. L. 95–561, title XII, §§ 1243(b), 1244, Nov. 1, 1978, 92 Stat. 2353; renumbered § 410 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 222, Oct. 20, 1994, 108 Stat. 3913, 3914.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Pub. L. 103–382, § 222, amended section generally, substituting single par. relating to general authority of Secretary for former subsecs. (a) to (d) relating to general authority of administrative heads of education agencies.
+1994—Pub. L. 103–382, § 222, amended section generally, substituting single par. relating to general authority of Secretary for former subsecs. (a) to (d) relating to general authority of administrative heads of education agencies.
 
-1978—Subsec. (a). Pub. L. 95–561, § 1243(b), inserted “or by delegation of authority pursuant to law” after “vested in him by law” in provisions preceding par. (1) and, in par. (1), inserted “, and governing the applicable programs administered by” after “the manner of operation of”.
+1978—Subsec. (a). Pub. L. 95–561, § 1243(b), inserted “or by delegation of authority pursuant to law” after “vested in him by law” in provisions preceding par. (1) and, in par. (1), inserted “, and governing the applicable programs administered by” after “the manner of operation of”.
 
-Subsecs. (b) to (d). Pub. L. 95–561, § 1244, added subsec. (b), redesignated former subsecs. (b) and (c) as (c) and (d), and in subsec. (d) as so redesignated substituted “For the purposes of this chapter” for “For the purposes of this section”.
+Subsecs. (b) to (d). Pub. L. 95–561, § 1244, added subsec. (b), redesignated former subsecs. (b) and (c) as (c) and (d), and in subsec. (d) as so redesignated substituted “For the purposes of this chapter” for “For the purposes of this section”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–561, title XV, § 1530, Nov. 1, 1978, 92 Stat. 2380, as amended by Pub. L. 96–46, § 2(a)(10), Aug. 6, 1979, 93 Stat. 340, provided that:
+Pub. L. 95–561, title XV, § 1530, Nov. 1, 1978, 92 Stat. 2380, as amended by Pub. L. 96–46, § 2(a)(10), Aug. 6, 1979, 93 Stat. 340, provided that:
 
 > **“(a)** Except as otherwise specifically provided in this Act, the provisions of this Act and the amendments and repeals made by this Act [see Tables for classification] shall take effect October 1, 1978.
 
@@ -355,13 +355,13 @@ Pub. L. 95–561, title XV, § 1530, Nov. 1, 1978, 92 Stat. 2380, as amended b
 
 **Effective Date**
 
-Pub. L. 93–380, title V, § 502(b), Aug. 21, 1974, 88 Stat. 560, provided that: “The amendments made by this section [enacting this section and section 1221e–2 and amending sections 1221b and 1221e of this title] shall be effective on the tenth day after the date of enactment of this Act [Aug. 21, 1974].”
+Pub. L. 93–380, title V, § 502(b), Aug. 21, 1974, 88 Stat. 560, provided that: “The amendments made by this section [enacting this section and section 1221e–2 and amending sections 1221b and 1221e of this title] shall be effective on the tenth day after the date of enactment of this Act [Aug. 21, 1974].”
 
-### § 1221e–4. Educational impact statement
+### § 1221e–4. Educational impact statement
 
 Notwithstanding any other provision of law, no regulation affecting any institution of higher education in the United States, promulgated on or after October 3, 1980, shall become effective unless such agency causes to be published in the Federal Register a copy of such proposed regulation together with an educational impact assessment statement which shall determine whether any information required to be transmitted under such regulation is already being gathered by or is available from any other agency or authority of the United States. Notwithstanding the exception provided under section 553(b) of title 5, such statement shall be based upon the record established under the provisions of section 553 of title 5, compiled during the rulemaking proceeding regarding such regulation.
 
-(Pub. L. 90–247, title IV, § 411, formerly § 409, as added Pub. L. 96–374, title XIII, § 1306, Oct. 3, 1980, 94 Stat. 1498; renumbered § 411, Pub. L. 103–382, title II, § 212(b)(1), Oct. 20, 1994, 108 Stat. 3913.)
+(Pub. L. 90–247, title IV, § 411, formerly § 409, as added Pub. L. 96–374, title XIII, § 1306, Oct. 3, 1980, 94 Stat. 1498; renumbered § 411, Pub. L. 103–382, title II, § 212(b)(1), Oct. 20, 1994, 108 Stat. 3913.)
 
 **Editorial Notes**
 
@@ -383,13 +383,13 @@ Another prior section 411 of Pub. L. 90–247 was renumbered section 430, and is
 
 Section effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96–374, set out as an Effective Date of 1980 Amendment note under section 1001 of this title.
 
-### §§ 1221f to 1221h. Repealed. Pub. L. 100–297, title V, § 5352(4), Apr. 28, 1988, 102 Stat. 414
+### §§ 1221f to 1221h. Repealed. Pub. L. 100–297, title V, § 5352(4), Apr. 28, 1988, 102 Stat. 414
 
-Section 1221f, Pub. L. 92–318, title IV, § 441, June 23, 1972, 86 Stat. 343, established Office of Indian Education. See section 2641 of Title 25, Indians.
+Section 1221f, Pub. L. 92–318, title IV, § 441, June 23, 1972, 86 Stat. 343, established Office of Indian Education. See section 2641 of Title 25, Indians.
 
-Section 1221g, Pub. L. 92–318, title IV, § 442, June 23, 1972, 86 Stat. 343; Pub. L. 93–380, title V, § 505(a)(2), title VIII, § 845(d), Aug. 21, 1974, 88 Stat. 562, 612; Pub. L. 94–273, §§ 3(11), 13(1), Apr. 21, 1976, 90 Stat. 376, 378; Pub. L. 95–561, title XI, § 1141(c)(3), Nov. 1, 1978, 92 Stat. 2329; Pub. L. 98–511, title V, § 513(b)(5), Oct. 19, 1984, 98 Stat. 2400, established National Advisory Council on Indian Education. See section 2642 of Title 25.
+Section 1221g, Pub. L. 92–318, title IV, § 442, June 23, 1972, 86 Stat. 343; Pub. L. 93–380, title V, § 505(a)(2), title VIII, § 845(d), Aug. 21, 1974, 88 Stat. 562, 612; Pub. L. 94–273, §§ 3(11), 13(1), Apr. 21, 1976, 90 Stat. 376, 378; Pub. L. 95–561, title XI, § 1141(c)(3), Nov. 1, 1978, 92 Stat. 2329; Pub. L. 98–511, title V, § 513(b)(5), Oct. 19, 1984, 98 Stat. 2400, established National Advisory Council on Indian Education. See section 2642 of Title 25.
 
-Section 1221h, Pub. L. 92–318, title IV, § 453, June 23, 1972, 86 Stat. 345; Pub. L. 95–561, title XI, §§ 1147, 1148, 1151, Nov. 1, 1978, 92 Stat. 2330, 2331, 2333; Pub. L. 96–46, § 7, Aug. 6, 1979, 93 Stat. 343, defined “Indian” for purposes of the Indian Education Act. See section 2651 of Title 25.
+Section 1221h, Pub. L. 92–318, title IV, § 453, June 23, 1972, 86 Stat. 345; Pub. L. 95–561, title XI, §§ 1147, 1148, 1151, Nov. 1, 1978, 92 Stat. 2330, 2331, 2333; Pub. L. 96–46, § 7, Aug. 6, 1979, 93 Stat. 343, defined “Indian” for purposes of the Indian Education Act. See section 2651 of Title 25.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -397,11 +397,11 @@ Section 1221h, Pub. L. 92–318, title IV, § 453, June 23, 1972, 86 Stat. 345
 
 For effective date and applicability of repeal, see section 6303 of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1071 of this title.
 
-### § 1221i. Repealed. Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 708(d)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312
+### § 1221i. Repealed. Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 708(d)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312
 
-Section, Pub. L. 93–380, title V, § 519, Aug. 21, 1974, 88 Stat. 576; Pub. L. 96–88, title III, § 301(a)(1), (b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 678, 692, related to Office of Libraries and Learning Resources.
+Section, Pub. L. 93–380, title V, § 519, Aug. 21, 1974, 88 Stat. 576; Pub. L. 96–88, title III, § 301(a)(1), (b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 678, 692, related to Office of Libraries and Learning Resources.
 
-### § 1221j. Television program assistance
+### § 1221j. Television program assistance
 
 **(a) Granting and contracting authority**
 
@@ -411,7 +411,7 @@ The Secretary of Education is authorized to make grants to and contracts with pu
 
 The Secretary of Education shall be responsible for the administration of this section and shall also conduct surveys, research, and evaluation studies which may assist in decisions to support pilot programs for full scale production.
 
-(Pub. L. 95–561, title XV, § 1527, Nov. 1, 1978, 92 Stat. 2379; Pub. L. 96–88, title III, § 301, title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692.)
+(Pub. L. 95–561, title XV, § 1527, Nov. 1, 1978, 92 Stat. 2379; Pub. L. 96–88, title III, § 301, title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
 **Editorial Notes**
 
@@ -435,9 +435,9 @@ Section effective Oct. 1, 1978, see section 1530 of Pub. L. 95–561, set out as
 
 **Codification**
 
-Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326, redesignated subchapter I as II. Former subchapter II redesignated III.
+Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326, redesignated subchapter I as II. Former subchapter II redesignated III.
 
-Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 166, added subchapter II heading.
+Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 166, added subchapter II heading.
 
 ### Part 1—Appropriations
 
@@ -445,11 +445,11 @@ Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 166, added 
 
 **Codification**
 
-Pub. L. 93–380, title V, § 506(a)(1)(A), Aug. 21, 1974, 88 Stat. 562, added part 1 heading.
+Pub. L. 93–380, title V, § 506(a)(1)(A), Aug. 21, 1974, 88 Stat. 562, added part 1 heading.
 
-#### § 1222. Repealed. Pub. L. 93–380, title V, § 506(a)(1)(B), Aug. 21, 1974, 88 Stat. 562
+#### § 1222. Repealed. Pub. L. 93–380, title V, § 506(a)(1)(B), Aug. 21, 1974, 88 Stat. 562
 
-Section, Pub. L. 90–247, title IV, § 411, formerly § 402, Jan. 2, 1968, 81 Stat. 814; amended Pub. L. 91–230, title IV, § 401(a)(3), Apr. 13, 1970, 84 Stat. 165; renumbered § 411, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326, provided for program planning and evaluation and report to Congressional committees.
+Section, Pub. L. 90–247, title IV, § 411, formerly § 402, Jan. 2, 1968, 81 Stat. 814; amended Pub. L. 91–230, title IV, § 401(a)(3), Apr. 13, 1970, 84 Stat. 165; renumbered § 411, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326, provided for program planning and evaluation and report to Congressional committees.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -457,13 +457,13 @@ Section, Pub. L. 90–247, title IV, § 411, formerly § 402, Jan. 2, 1968, 
 
 Section repealed effective Aug. 21, 1974, see section 506(b) of Pub. L. 93–380, set out as an Effective Date of 1974 Amendment note under section 1225 of this title.
 
-#### § 1223. Forward funding
+#### § 1223. Forward funding
 
 **(a)** To the end of affording the responsible Federal, State, and local officers adequate notice of available Federal financial assistance for carrying out ongoing education activities and projects, appropriations for grants, contracts, or other payments under any applicable program are authorized to be included in the appropriations Act for the fiscal year preceding the fiscal year during which such activities and projects shall be carried out.
 
 **(b)** In order to effect a transition to the timing of appropriation action authorized by subsection (a), the application of this section may result in the enactment, in a fiscal year, of separate appropriations for an applicable program (whether in the same appropriations Act or otherwise) for two consecutive fiscal years.
 
-(Pub. L. 90–247, title IV, § 420, formerly § 403, Jan. 2, 1968, 81 Stat. 814; Pub. L. 91–230, title IV, § 401(a)(4), Apr. 13, 1970, 84 Stat. 165; renumbered § 412, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 411, Pub. L. 93–380, title V, § 506(a)(1)(C), Aug. 21, 1974, 88 Stat. 562; renumbered § 420 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 231, Oct. 20, 1994, 108 Stat. 3913, 3914.)
+(Pub. L. 90–247, title IV, § 420, formerly § 403, Jan. 2, 1968, 81 Stat. 814; Pub. L. 91–230, title IV, § 401(a)(4), Apr. 13, 1970, 84 Stat. 165; renumbered § 412, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 411, Pub. L. 93–380, title V, § 506(a)(1)(C), Aug. 21, 1974, 88 Stat. 562; renumbered § 420 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 231, Oct. 20, 1994, 108 Stat. 3913, 3914.)
 
 **Editorial Notes**
 
@@ -473,7 +473,7 @@ A prior section 420 of Pub. L. 90–247 was renumbered section 426, and was clas
 
 **Amendments**
 
-1994—Pub. L. 103–382, § 231, amended section generally. Prior to amendment, section read as follows: “To the end of affording the responsible State, local, and Federal officers concerned adequate notice of available Federal financial assistance for education, appropriations for grants, contracts, or other payments under any applicable program are authorized to be included in the appropriation Act for the fiscal year preceding the fiscal year for which they are available for obligation. In order to effect a transition to this method of timing appropriation action, the preceding sentence shall apply notwithstanding that its initial application under such program will result in the enactment in the same year (whether in the same appropriation Act or otherwise) of two separate appropriations, one for the then current fiscal year and one for the succeeding fiscal year.”
+1994—Pub. L. 103–382, § 231, amended section generally. Prior to amendment, section read as follows: “To the end of affording the responsible State, local, and Federal officers concerned adequate notice of available Federal financial assistance for education, appropriations for grants, contracts, or other payments under any applicable program are authorized to be included in the appropriation Act for the fiscal year preceding the fiscal year for which they are available for obligation. In order to effect a transition to this method of timing appropriation action, the preceding sentence shall apply notwithstanding that its initial application under such program will result in the enactment in the same year (whether in the same appropriation Act or otherwise) of two separate appropriations, one for the then current fiscal year and one for the succeeding fiscal year.”
 
 1970—Pub. L. 91–230 substituted “applicable program” and “under such program” for “Act referred to in section 1221 of this title” and “under any such Act”, respectively.
 
@@ -481,13 +481,13 @@ A prior section 420 of Pub. L. 90–247 was renumbered section 426, and was clas
 
 **National Policy With Respect to Advance Funding of Education Programs**
 
-Pub. L. 93–380, title VIII, § 802, Aug. 21, 1974, 88 Stat. 597, provided that: “The Congress declares it to be the policy of the United States to implement immediately and continually section 411 [now 420] of the General Education Provisions Act [this section], relating to advance funding for education programs, so as to afford responsible State, local, and Federal officers adequate notice of available Federal financial assistance for education authorized under this [Act, Pub. L. 93–380, see Short Title of 1974 Amendment note set out under section 6301 of this title] and other Acts of Congress.”
+Pub. L. 93–380, title VIII, § 802, Aug. 21, 1974, 88 Stat. 597, provided that: “The Congress declares it to be the policy of the United States to implement immediately and continually section 411 [now 420] of the General Education Provisions Act [this section], relating to advance funding for education programs, so as to afford responsible State, local, and Federal officers adequate notice of available Federal financial assistance for education authorized under this [Act, Pub. L. 93–380, see Short Title of 1974 Amendment note set out under section 6301 of this title] and other Acts of Congress.”
 
 Provision effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as an Effective Date note under section 1221–1 of this title.
 
-#### § 1224. Repealed. Pub. L. 93–380, title V, § 506(a)(1)(B), Aug. 21, 1974, 88 Stat. 562
+#### § 1224. Repealed. Pub. L. 93–380, title V, § 506(a)(1)(B), Aug. 21, 1974, 88 Stat. 562
 
-Section, Pub. L. 90–247, title IV, § 413, formerly § 404, Jan. 2, 1968, 81 Stat. 814; amended Pub. L. 91–230, title IV, § 401(a)(5), (6), Apr. 13, 1970, 84 Stat. 165; renumbered § 413, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326, provided for annual evaluation reports to Congressional committees, penultimate fiscal year reports, and contingent extension of expiring appropriation authority.
+Section, Pub. L. 90–247, title IV, § 413, formerly § 404, Jan. 2, 1968, 81 Stat. 814; amended Pub. L. 91–230, title IV, § 401(a)(5), (6), Apr. 13, 1970, 84 Stat. 165; renumbered § 413, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326, provided for annual evaluation reports to Congressional committees, penultimate fiscal year reports, and contingent extension of expiring appropriation authority.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -495,7 +495,7 @@ Section, Pub. L. 90–247, title IV, § 413, formerly § 404, Jan. 2, 1968, 
 
 Repeal effective Aug. 21, 1974, see section 506(b) of Pub. L. 93–380, set out as an Effective Date of 1974 Amendment note under section 1225 of this title.
 
-#### § 1225. Availability of appropriations on academic or school-year basis; additional period for obligation of funds
+#### § 1225. Availability of appropriations on academic or school-year basis; additional period for obligation of funds
 
 **(a) Academic or differing fiscal year**
 
@@ -515,7 +515,7 @@ Appropriations for any fiscal year for grants, loans, contracts, or other paymen
 
 If any funds appropriated to carry out any applicable program are not obligated pursuant to a spending plan submitted in accordance with section 1341(a) of title 31 and become available for obligation after the institution of a judicial proceeding seeking the release of such funds, then such funds shall be available for obligation and expenditure until the end of the fiscal year which begins after the termination of such judicial proceeding.
 
-(Pub. L. 90–247, title IV, § 421, formerly § 405, Jan. 2, 1968, 81 Stat. 815; Pub. L. 91–230, title IV, § 401(a)(5), (7), (8), Apr. 13, 1970, 84 Stat. 165; renumbered § 414, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 412, and amended Pub. L. 93–380, title V, § 506(a)(1)(D), (E), Aug. 21, 1974, 88 Stat. 562; Pub. L. 94–273, § 3(12), Apr. 21, 1976, 90 Stat. 376; Pub. L. 95–112, § 5, Sept. 24, 1977, 91 Stat. 912; Pub. L. 95–561, title XII, § 1245, Nov. 1, 1978, 92 Stat. 2354; renumbered § 421 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 232, Oct. 20, 1994, 108 Stat. 3913, 3914.)
+(Pub. L. 90–247, title IV, § 421, formerly § 405, Jan. 2, 1968, 81 Stat. 815; Pub. L. 91–230, title IV, § 401(a)(5), (7), (8), Apr. 13, 1970, 84 Stat. 165; renumbered § 414, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 412, and amended Pub. L. 93–380, title V, § 506(a)(1)(D), (E), Aug. 21, 1974, 88 Stat. 562; Pub. L. 94–273, § 3(12), Apr. 21, 1976, 90 Stat. 376; Pub. L. 95–112, § 5, Sept. 24, 1977, 91 Stat. 912; Pub. L. 95–561, title XII, § 1245, Nov. 1, 1978, 92 Stat. 2354; renumbered § 421 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 232, Oct. 20, 1994, 108 Stat. 3913, 3914.)
 
 **Editorial Notes**
 
@@ -529,13 +529,13 @@ Another prior section 421 of Pub. L. 90–247 was renumbered section 437, and is
 
 **Amendments**
 
-1994—Pub. L. 103–382, § 232(a), amended section catchline generally.
+1994—Pub. L. 103–382, § 232(a), amended section catchline generally.
 
-Subsec. (a). Pub. L. 103–382, § 232(b)(1), struck out “to educational agencies or institutions” after “other payments” and substituted “obligation” for “expenditure” and “recipient” for “agency or institution concerned”.
+Subsec. (a). Pub. L. 103–382, § 232(b)(1), struck out “to educational agencies or institutions” after “other payments” and substituted “obligation” for “expenditure” and “recipient” for “agency or institution concerned”.
 
-Subsec. (b). Pub. L. 103–382, § 232(b)(2), which directed the substitution in the original of “(b)(1) Notwithstanding” for “(b) Notwithstanding”, could not be executed because the original already reads “(b)(1) Notwithstanding”.
+Subsec. (b). Pub. L. 103–382, § 232(b)(2), which directed the substitution in the original of “(b)(1) Notwithstanding” for “(b) Notwithstanding”, could not be executed because the original already reads “(b)(1) Notwithstanding”.
 
-Subsec. (c). Pub. L. 103–382, § 232(b)(3), substituted reference to section 1341(a) of title 31 for reference to section 3679(d)(2) of the Revised Statutes.
+Subsec. (c). Pub. L. 103–382, § 232(b)(3), substituted reference to section 1341(a) of title 31 for reference to section 3679(d)(2) of the Revised Statutes.
 
 1978—Subsec. (b). Pub. L. 95–561 struck out “ending prior to October 1, 1979,” after “applicable during any fiscal year,” in existing provisions, designated existing provisions as thus amended as par. (1), and added par. (2).
 
@@ -543,9 +543,9 @@ Subsec. (c). Pub. L. 103–382, § 232(b)(3), substituted reference to section
 
 1976—Subsec. (b). Pub. L. 94–273 substituted “October” for “July”.
 
-1974—Subsec. (b). Pub. L. 93–380, § 506(a)(1)(E), substituted “1978” for “1973” and inserted “by educational agencies or institutions” and “by such agencies and institutions” after “obligated and expended” and “obligation and expenditure”, respectively.
+1974—Subsec. (b). Pub. L. 93–380, § 506(a)(1)(E), substituted “1978” for “1973” and inserted “by educational agencies or institutions” and “by such agencies and institutions” after “obligated and expended” and “obligation and expenditure”, respectively.
 
-Subsec. (c). Pub. L. 93–380, § 506(a)(1)(E), added subsec. (c).
+Subsec. (c). Pub. L. 93–380, § 506(a)(1)(E), added subsec. (c).
 
 1970—Pub. L. 91–230 substituted “applicable program” for “Act referred to in section 1221 of this title”, inserted “loans,” after “grants,” designated existing provisions as thus amended as subsec. (a), and added subsec. (b).
 
@@ -557,17 +557,17 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, but the provisions of subs
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–380, title V, § 506(b), Aug. 21, 1974, 88 Stat. 565, provided that: “The amendments made by subsection (a) of this section [enacting sections 1226a to 1226d of this title, amending this section and section 1227 of this title, and repealing sections 1222 and 1224 of this title] shall become effective on the date of enactment of this Act [Aug. 21, 1974].”
+Pub. L. 93–380, title V, § 506(b), Aug. 21, 1974, 88 Stat. 565, provided that: “The amendments made by subsection (a) of this section [enacting sections 1226a to 1226d of this title, amending this section and section 1227 of this title, and repealing sections 1222 and 1224 of this title] shall become effective on the date of enactment of this Act [Aug. 21, 1974].”
 
 **Indochinese Refugee Children Education Assistance Programs; Applicability of Contingent Extension Provisions**
 
-Pub. L. 94–482, title III, § 327, Oct. 12, 1976, 90 Stat. 2220, provided that: “The provisions of section 414 [now 422] of the General Education Provisions Act [section 1226a of this title], relating to the contingent extension of applicable programs, shall not apply to the Indochina Refugee Children Assistance Act of 1976 [former section 1211b of this title], or to any program of financial assistance for educational purposes for Indochinese refugee children.”
+Pub. L. 94–482, title III, § 327, Oct. 12, 1976, 90 Stat. 2220, provided that: “The provisions of section 414 [now 422] of the General Education Provisions Act [section 1226a of this title], relating to the contingent extension of applicable programs, shall not apply to the Indochina Refugee Children Assistance Act of 1976 [former section 1211b of this title], or to any program of financial assistance for educational purposes for Indochinese refugee children.”
 
-#### § 1226. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
+#### § 1226. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
 
-Section, Pub. L. 90–247, title IV, § 413, formerly § 406, as added Pub. L. 90–576, title III, § 301(b), Oct. 16, 1968, 82 Stat. 1094; amended Pub. L. 91–230, title IV, § 401(a)(9), Apr. 13, 1970, 84 Stat. 166; renumbered § 415, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 413, Pub. L. 93–380, title V, § 506(a)(2)(A), Aug. 21, 1974, 88 Stat. 563, related to availability of appropriations.
+Section, Pub. L. 90–247, title IV, § 413, formerly § 406, as added Pub. L. 90–576, title III, § 301(b), Oct. 16, 1968, 82 Stat. 1094; amended Pub. L. 91–230, title IV, § 401(a)(9), Apr. 13, 1970, 84 Stat. 166; renumbered § 415, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 413, Pub. L. 93–380, title V, § 506(a)(2)(A), Aug. 21, 1974, 88 Stat. 563, related to availability of appropriations.
 
-#### § 1226a. Contingent extension of programs
+#### § 1226a. Contingent extension of programs
 
 **(a) Automatic extension**
 
@@ -585,7 +585,7 @@ If the Secretary is required, in the terminal fiscal year of an applicable progr
 
 This section shall not apply to the authorization of appropriations for a commission, council, or committee which is required by an applicable statute to terminate on a date certain.
 
-(Pub. L. 90–247, title IV, § 422, formerly § 414, as added Pub. L. 93–380, title V, § 506(a)(2)(B), Aug. 21, 1974, 88 Stat. 563; amended Pub. L. 96–374, title XIII, § 1301, Oct. 3, 1980, 94 Stat. 1496; renumbered § 422 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 233, Oct. 20, 1994, 108 Stat. 3913, 3915.)
+(Pub. L. 90–247, title IV, § 422, formerly § 414, as added Pub. L. 93–380, title V, § 506(a)(2)(B), Aug. 21, 1974, 88 Stat. 563; amended Pub. L. 96–374, title XIII, § 1301, Oct. 3, 1980, 94 Stat. 1496; renumbered § 422 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 233, Oct. 20, 1994, 108 Stat. 3913, 3915.)
 
 **Editorial Notes**
 
@@ -597,7 +597,7 @@ Another prior section 422 of Pub. L. 90–247 was renumbered section 438, and is
 
 **Amendments**
 
-1994—Pub. L. 103–382, § 233, amended section generally, revising and restating former subsecs. (a) and (b) as subsecs. (a) to (c) and adding subsec. (d).
+1994—Pub. L. 103–382, § 233, amended section generally, revising and restating former subsecs. (a) and (b) as subsecs. (a) to (c) and adding subsec. (d).
 
 1980—Subsec. (a). Pub. L. 96–374 inserted provisions for the automatic extension of an authorization or duration of two additional fiscal years for any applicable program authorized to be included in the Appropriation Act for the fiscal year preceding the fiscal year for which appropriations are available for obligation.
 
@@ -609,7 +609,7 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 **Additional Extensions Not Permitted**
 
-Pub. L. 114–105, § 2(c), Dec. 18, 2015, 129 Stat. 2220, provided that: “Section 422 of the General Education Provisions Act (20 U.S.C. 1226a) shall not apply to further extend the duration of the authority under paragraph (1) of section 461(b) of the Higher Education Act of 1965 (20 U.S.C. 1087aa(b)), as amended by subsection (a)(1) of this section, beyond September 30, 2017, on the basis of the extension under such subsection.”
+Pub. L. 114–105, § 2(c), Dec. 18, 2015, 129 Stat. 2220, provided that: “Section 422 of the General Education Provisions Act (20 U.S.C. 1226a) shall not apply to further extend the duration of the authority under paragraph (1) of section 461(b) of the Higher Education Act of 1965 (20 U.S.C. 1087aa(b)), as amended by subsection (a)(1) of this section, beyond September 30, 2017, on the basis of the extension under such subsection.”
 
 **Indochinese Refugee Children Education Assistance Programs; Applicability of Contingent Extension Provisions**
 
@@ -617,13 +617,13 @@ Applicability of contingent extension provisions to any program of financial ass
 
 **Limitation on Extension of Programs**
 
-Pub. L. 94–328, § 2(d), June 30, 1976, 90 Stat. 727, provided that: “The amendments made by this section [amending sections 1070a, 1074, 1078 and 1078a of this title] shall not be deemed to authorize the automatic extension of the programs so amended, under section 414 [now 422] of the General Education Provisions Act [this section], beyond the date specified in such amendments.”
+Pub. L. 94–328, § 2(d), June 30, 1976, 90 Stat. 727, provided that: “The amendments made by this section [amending sections 1070a, 1074, 1078 and 1078a of this title] shall not be deemed to authorize the automatic extension of the programs so amended, under section 414 [now 422] of the General Education Provisions Act [this section], beyond the date specified in such amendments.”
 
-#### § 1226a–1. Payments; installments, advances or reimbursement, and adjustments
+#### § 1226a–1. Payments; installments, advances or reimbursement, and adjustments
 
 Payments pursuant to grants or contracts under any applicable program may be made in installments, and in advance or by way of reimbursement, with necessary adjustments on account of overpayments or underpayments, as the Secretary may determine.
 
-(Pub. L. 90–247, title IV, § 423, formerly § 425, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 170; renumbered § 435, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 415, Pub. L. 95–561, title XII, § 1231(a)(1), Nov. 1, 1978, 92 Stat. 2342; renumbered § 423 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 261(a), Oct. 20, 1994, 108 Stat. 3913, 3927.)
+(Pub. L. 90–247, title IV, § 423, formerly § 425, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 170; renumbered § 435, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 415, Pub. L. 95–561, title XII, § 1231(a)(1), Nov. 1, 1978, 92 Stat. 2342; renumbered § 423 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 261(a), Oct. 20, 1994, 108 Stat. 3913, 3927.)
 
 **Editorial Notes**
 
@@ -639,7 +639,7 @@ Another prior section 423 of Pub. L. 90–247 was renumbered section 439, and is
 
 **Amendments**
 
-1994—Pub. L. 103–382, § 261(a), substituted “Secretary” for “Commissioner”.
+1994—Pub. L. 103–382, § 261(a), substituted “Secretary” for “Commissioner”.
 
 ### Part 2—Planning and Evaluation of Federal Education Activities
 
@@ -647,9 +647,9 @@ Another prior section 423 of Pub. L. 90–247 was renumbered section 439, and is
 
 **Codification**
 
-Pub. L. 93–380, title V, § 506(a)(3)(C), Aug. 21, 1974, 88 Stat. 563, added part 2 heading.
+Pub. L. 93–380, title V, § 506(a)(3)(C), Aug. 21, 1974, 88 Stat. 563, added part 2 heading.
 
-#### § 1226b. Responsibility of States to furnish information
+#### § 1226b. Responsibility of States to furnish information
 
 **(a) Biennial reports; contents** Each State educational agency shall submit to the Secretary a report on or before March 15 of every second year. Each such report shall include—
 
@@ -691,7 +691,7 @@ The Secretary shall consult with the Speaker and Minority Leader of the House of
 
 **(B)** contracts entered into between such agencies and the Federal Government.
 
-(Pub. L. 90–247, title IV, § 424, as added Pub. L. 103–382, title II, § 234, Oct. 20, 1994, 108 Stat. 3915.)
+(Pub. L. 90–247, title IV, § 424, as added Pub. L. 103–382, title II, § 234, Oct. 20, 1994, 108 Stat. 3915.)
 
 **Editorial Notes**
 
@@ -699,7 +699,7 @@ The Secretary shall consult with the Speaker and Minority Leader of the House of
 
 Provisions similar to those in subsecs. (a), (b), and (f) of this section were contained in section 1221e–1a of this title prior to repeal by Pub. L. 103–382.
 
-A prior section 1226b, Pub. L. 90–247, title IV, § 416, as added Pub. L. 93–380, title V, § 506(a)(3)(C), Aug. 21, 1974, 88 Stat. 563, related to program planning and evaluation, prior to repeal by Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913.
+A prior section 1226b, Pub. L. 90–247, title IV, § 416, as added Pub. L. 93–380, title V, § 506(a)(3)(C), Aug. 21, 1974, 88 Stat. 563, related to program planning and evaluation, prior to repeal by Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913.
 
 A prior section 424 of Pub. L. 90–247 was classified to section 1231b–1 of this title prior to repeal by Pub. L. 103–382.
 
@@ -715,7 +715,7 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-#### § 1226c. Biennial evaluation report
+#### § 1226c. Biennial evaluation report
 
 Not later than March 31, 1995, and every two years after such date, the Secretary shall transmit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate an evaluation report on the effectiveness of applicable programs in achieving such programs’ legislated intent and purposes during the two preceding fiscal years. Such report shall—
 
@@ -731,7 +731,7 @@ Not later than March 31, 1995, and every two years after such date, the Secretar
 
 **(6)** include the results of the program evaluations conducted in accordance with section 7981 of this title.
 
-(Pub. L. 90–247, title IV, § 425, formerly § 417, as added Pub. L. 93–380, title V, § 506(a)(3)(C), Aug. 21, 1974, 88 Stat. 564; amended Pub. L. 95–561, title XII, § 1246(a), (b), Nov. 1, 1978, 92 Stat. 2354; Pub. L. 96–46, § 4(b), Aug. 6, 1979, 93 Stat. 342; Pub. L. 96–374, title XIII, § 1305, Oct. 3, 1980, 94 Stat. 1497; Pub. L. 98–511, title VII, § 705, Oct. 19, 1984, 98 Stat. 2406; renumbered § 425 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 235, Oct. 20, 1994, 108 Stat. 3913, 3916; Pub. L. 103–437, § 7(a)(2), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 107–110, title X, § 1076(h), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, § 9215(mm)(1), Dec. 10, 2015, 129 Stat. 2176.)
+(Pub. L. 90–247, title IV, § 425, formerly § 417, as added Pub. L. 93–380, title V, § 506(a)(3)(C), Aug. 21, 1974, 88 Stat. 564; amended Pub. L. 95–561, title XII, § 1246(a), (b), Nov. 1, 1978, 92 Stat. 2354; Pub. L. 96–46, § 4(b), Aug. 6, 1979, 93 Stat. 342; Pub. L. 96–374, title XIII, § 1305, Oct. 3, 1980, 94 Stat. 1497; Pub. L. 98–511, title VII, § 705, Oct. 19, 1984, 98 Stat. 2406; renumbered § 425 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 235, Oct. 20, 1994, 108 Stat. 3913, 3916; Pub. L. 103–437, § 7(a)(2), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 107–110, title X, § 1076(h), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, § 9215(mm)(1), Dec. 10, 2015, 129 Stat. 2176.)
 
 **Editorial Notes**
 
@@ -751,11 +751,11 @@ Another prior section 425 of Pub. L. 90–247 was renumbered section 423, and is
 
 1994—Pub. L. 103–437, which directed that section 417(a) of Pub. L. 90–247 be amended by substituting “Labor and Human Resources” for “Human Resources”, could not be executed because this section, which was section 417 of Pub. L. 90–247, was renumbered section 425 and amended generally by Pub. L. 103–382.
 
-Pub. L. 103–382, § 235, amended section generally, substituting single undesignated par. relating to biennial evaluation reports for former subsecs. (a) and (b) relating to annual evaluation reports and including requirement for information on contracts and grants for evaluations of programs.
+Pub. L. 103–382, § 235, amended section generally, substituting single undesignated par. relating to biennial evaluation reports for former subsecs. (a) and (b) relating to annual evaluation reports and including requirement for information on contracts and grants for evaluations of programs.
 
 1984—Subsec. (a). Pub. L. 98–511 substituted “December 31” for “November 1”.
 
-1980—Subsec. (a)(F). Pub. L. 96–374 inserted “, including tabulations of available data to indicate the effectiveness of the programs and projects by the sex, race, and age of its beneficiaries” after “detailed data and appendices”.
+1980—Subsec. (a)(F). Pub. L. 96–374 inserted “, including tabulations of available data to indicate the effectiveness of the programs and projects by the sex, race, and age of its beneficiaries” after “detailed data and appendices”.
 
 1979—Subsec. (a). Pub. L. 96–46 substituted “(a) Not later than” for “(a)(1) Not later than” and struck out par. (2) which provided that, in the case of programs and projects assisted under title I of the Elementary and Secondary Education Act of 1965, the report include a survey of how many children counted under section 103(c) of such Act do or do not participate in such programs and projects and how many disadvantaged children do or do not participate in such programs and projects.
 
@@ -779,7 +779,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–511, title VII, § 711, Oct. 19, 1984, 98 Stat. 2408, provided that:
+Pub. L. 98–511, title VII, § 711, Oct. 19, 1984, 98 Stat. 2408, provided that:
 
 > **“(a)** Except as provided in subsection (b), this Act and the amendments made by this Act [see Tables for classification] shall take effect on the date of enactment of this Act [Oct. 19, 1984] or October 1, 1984, whichever occurs later.
 
@@ -797,11 +797,11 @@ Amendment by Pub. L. 96–46 effective Oct. 1, 1978, see section 8 of Pub. L. 96
 
 Amendment by Pub. L. 95–561 effective Oct. 1, 1978, see section 1530(a) of Pub. L. 95–561, set out as a note under section 1221e–3 of this title.
 
-#### § 1226c–1. Availability of education reports, etc., to Congressional committees
+#### § 1226c–1. Availability of education reports, etc., to Congressional committees
 
 Any evaluation report or data or information collected in preparation of such report, which is paid for with appropriated funds, shall be made available, upon request, within 4 days to the chairman and ranking minority member of the Committee on Education and Labor of the House of Representatives and of the Committee on Labor and Human Resources of the Senate.
 
-(Pub. L. 95–561, title XV, § 1523, Nov. 1, 1978, 92 Stat. 2378; Pub. L. 103–437, § 7(b), Nov. 2, 1994, 108 Stat. 4587.)
+(Pub. L. 95–561, title XV, § 1523, Nov. 1, 1978, 92 Stat. 2378; Pub. L. 103–437, § 7(b), Nov. 2, 1994, 108 Stat. 4587.)
 
 **Editorial Notes**
 
@@ -825,17 +825,17 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 Section effective Oct. 1, 1978, see section 1530(a) of Pub. L. 95–561, set out as an Effective Date of 1978 Amendment note under section 1221e–3 of this title.
 
-#### § 1226d. Repealed. Pub. L. 96–470, title I, § 106(a), Oct. 19, 1980, 94 Stat. 2238
+#### § 1226d. Repealed. Pub. L. 96–470, title I, § 106(a), Oct. 19, 1980, 94 Stat. 2238
 
-Section, Pub. L. 90–247, title IV, § 418, as added Pub. L. 93–380, title V, § 506(a)(3)(C), Aug. 21, 1974, 88 Stat. 564; amended S. Res. 4, Feb. 4, 1977; Pub. L. 95–561, title XII, § 1246(c), Nov. 1, 1978, 92 Stat. 2354; S. Res. 30, Mar. 7, 1979, directed Assistant Secretary to submit to Committee on Education and Labor of the House of Representatives and Committee on Labor and Human Resources of the Senate comprehensive renewal evaluation reports for applicable programs.
+Section, Pub. L. 90–247, title IV, § 418, as added Pub. L. 93–380, title V, § 506(a)(3)(C), Aug. 21, 1974, 88 Stat. 564; amended S. Res. 4, Feb. 4, 1977; Pub. L. 95–561, title XII, § 1246(c), Nov. 1, 1978, 92 Stat. 2354; S. Res. 30, Mar. 7, 1979, directed Assistant Secretary to submit to Committee on Education and Labor of the House of Representatives and Committee on Labor and Human Resources of the Senate comprehensive renewal evaluation reports for applicable programs.
 
-#### § 1227. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
+#### § 1227. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
 
-Section, Pub. L. 90–247, title IV, § 419, formerly § 417, as added Pub. L. 92–318, title III, § 304, June 23, 1972, 86 Stat. 333; renumbered § 419 and amended Pub. L. 93–380, title V, § 506(a)(3)(A), (B), Aug. 21, 1974, 88 Stat. 563, related to education program evaluations by Comptroller General.
+Section, Pub. L. 90–247, title IV, § 419, formerly § 417, as added Pub. L. 92–318, title III, § 304, June 23, 1972, 86 Stat. 333; renumbered § 419 and amended Pub. L. 93–380, title V, § 506(a)(3)(A), (B), Aug. 21, 1974, 88 Stat. 563, related to education program evaluations by Comptroller General.
 
-#### § 1228. Repealed. Pub. L. 116–260, div. H, title III, § 314(a), Dec. 27, 2020, 134 Stat. 1610
+#### § 1228. Repealed. Pub. L. 116–260, div. H, title III, § 314(a), Dec. 27, 2020, 134 Stat. 1610
 
-Section, Pub. L. 90–247, title IV, § 426, formerly § 420, as added Pub. L. 93–380, title II, § 252, Aug. 21, 1974, 88 Stat. 519; renumbered § 426 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 261(b), Oct. 20, 1994, 108 Stat. 3913, 3927; Pub. L. 106–398, § 1 [[div. A], title XVIII, § 1808(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–382; Pub. L. 114–95, title IX, § 9215(mm)(2), Dec. 10, 2015, 129 Stat. 2176, prohibited use of appropriated funds for busing.
+Section, Pub. L. 90–247, title IV, § 426, formerly § 420, as added Pub. L. 93–380, title II, § 252, Aug. 21, 1974, 88 Stat. 519; renumbered § 426 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 261(b), Oct. 20, 1994, 108 Stat. 3913, 3927; Pub. L. 106–398, § 1 [[div. A], title XVIII, § 1808(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–382; Pub. L. 114–95, title IX, § 9215(mm)(2), Dec. 10, 2015, 129 Stat. 2176, prohibited use of appropriated funds for busing.
 
 A prior section 426 of Pub. L. 90–247 was renumbered section 433, and is classified to section 1231c of this title.
 
@@ -843,7 +843,7 @@ Another prior section 426 of Pub. L. 90–247 was renumbered section 435, and is
 
 Another prior section 426 of Pub. L. 90–247 was renumbered section 436, and was classified to section 1232e of this title prior to repeal by Pub. L. 95–561.
 
-#### § 1228a. Equity for students, teachers, and other program beneficiaries
+#### § 1228a. Equity for students, teachers, and other program beneficiaries
 
 **(a) Purpose** The purpose of this section is to assist the Department in implementing the Department’s mission to ensure equal access to education and to promote educational excellence throughout the Nation, by—
 
@@ -863,7 +863,7 @@ The Secretary may establish criteria and provide technical assistance for meetin
 
 Nothing in this section shall be construed to alter in any way the rights or responsibilities established under the laws cited in section 1221(d) of this title.
 
-(Pub. L. 90–247, title IV, § 427, as added Pub. L. 103–382, title II, § 236, Oct. 20, 1994, 108 Stat. 3917.)
+(Pub. L. 90–247, title IV, § 427, as added Pub. L. 103–382, title II, § 236, Oct. 20, 1994, 108 Stat. 3917.)
 
 **Editorial Notes**
 
@@ -879,11 +879,11 @@ Another prior section 427 of Pub. L. 90–247 was renumbered section 429, and wa
 
 Section effective July 1, 1995, for noncompetitive programs in which funds are allocated on the basis of a formula and for programs that are conducted on a competitive basis, with respect to appropriations for use under such programs in fiscal year 1995 and in subsequent fiscal years, see section 3(a)(2) of Pub. L. 103–382, set out as an Effective Date of 1994 Amendment note under section 1221 of this title.
 
-#### § 1228b. Coordination
+#### § 1228b. Coordination
 
 The National Assessment Governing Board, the Advisory Council on Education Statistics, the National Education Goals Panel, and any other board established to analyze, address, or approve education content or student performance standards and assessments shall coordinate and interact with one another in order to ensure that each such entity does not duplicate activities to assist the States in reforming their educational systems.
 
-(Pub. L. 90–247, title IV, § 428, as added Pub. L. 103–382, title II, § 237, Oct. 20, 1994, 108 Stat. 3917; amended Pub. L. 104–134, title I, § 101(d) [title VII, § 703(c)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 90–247, title IV, § 428, as added Pub. L. 103–382, title II, § 237, Oct. 20, 1994, 108 Stat. 3917; amended Pub. L. 104–134, title I, § 101(d) [title VII, § 703(c)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.)
 
 **Editorial Notes**
 
@@ -895,7 +895,7 @@ A prior section 428 of Pub. L. 90–247 was renumbered section 435, and is class
 
 1996—Pub. L. 104–134 struck out “the National Education Standards and Improvement Council,” before “and any other board”.
 
-#### § 1228c. Disclosure requirements
+#### § 1228c. Disclosure requirements
 
 **(a) In general** Each educational organization, prior to enrolling a minor and prior to accepting funds for the cost of a minor’s participation in an educational program operated by such organization, shall disclose the following information in written form to the minor or the minor’s parent.
 
@@ -1017,7 +1017,7 @@ The term “disability” has the same meaning given to such term by section 121
 
 **(B)** Such term does not include a recreational program,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 or a social or religious activity.
 
@@ -1041,7 +1041,7 @@ The term “recreational organization” includes any organization or entity tha
 
 The term “recreational program” includes any activity or service that is intended as an entertainment pastime.
 
-(Pub. L. 90–247, title IV, § 429, as added Pub. L. 103–382, title II, § 238, Oct. 20, 1994, 108 Stat. 3918; amended Pub. L. 105–244, title I, § 102(a)(6)(C), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 114–95, title IX, § 9215(mm)(3), Dec. 10, 2015, 129 Stat. 2176.)
+(Pub. L. 90–247, title IV, § 429, as added Pub. L. 103–382, title II, § 238, Oct. 20, 1994, 108 Stat. 3918; amended Pub. L. 105–244, title I, § 102(a)(6)(C), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 114–95, title IX, § 9215(mm)(3), Dec. 10, 2015, 129 Stat. 2176.)
 
 **Editorial Notes**
 
@@ -1071,17 +1071,17 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 **Codification**
 
-Pub. L. 103–382, title II, § 261(c), Oct. 20, 1994, 108 Stat. 3927, substituted “SECRETARY” for “COMMISSIONER OF EDUCATION”.
+Pub. L. 103–382, title II, § 261(c), Oct. 20, 1994, 108 Stat. 3927, substituted “SECRETARY” for “COMMISSIONER OF EDUCATION”.
 
-Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326, redesignated former subchapter II as III. Former subchapter III redesignated IV.
+Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326, redesignated former subchapter II as III. Former subchapter III redesignated IV.
 
-### § 1230. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
+### § 1230. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
 
-Section, Pub. L. 90–247, title IV, § 421, as added Pub. L. 93–380, title V, § 507(a), Aug. 21, 1974, 88 Stat. 565; amended Pub. L. 94–482, title IV, § 404(a), Oct. 12, 1976, 90 Stat. 2230; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, specified programs subject to provisions of this subchapter.
+Section, Pub. L. 90–247, title IV, § 421, as added Pub. L. 93–380, title V, § 507(a), Aug. 21, 1974, 88 Stat. 565; amended Pub. L. 94–482, title IV, § 404(a), Oct. 12, 1976, 90 Stat. 2230; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, specified programs subject to provisions of this subchapter.
 
 ### Part 1—General Authority
 
-#### § 1231. Joint funding of programs
+#### § 1231. Joint funding of programs
 
 **(a) Joint projects; transfers of appropriations; contracts or grants; criteria**
 
@@ -1113,7 +1113,7 @@ The Secretary may not construe the provisions of this section to take precedence
 
 **(C)** the criteria developed to govern the award of contracts and grants.
 
-(Pub. L. 90–247, title IV, § 430, formerly § 411, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 166; renumbered § 421 and amended Pub. L. 92–318, title III, §§ 301(a)(1), 302(a), June 23, 1972, 86 Stat. 326, 332; renumbered § 421A, Pub. L. 93–380, title V, § 507(a), Aug. 21, 1974, 88 Stat. 565; renumbered § 430 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 241, Oct. 20, 1994, 108 Stat. 3913, 3921.)
+(Pub. L. 90–247, title IV, § 430, formerly § 411, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 166; renumbered § 421 and amended Pub. L. 92–318, title III, §§ 301(a)(1), 302(a), June 23, 1972, 86 Stat. 326, 332; renumbered § 421A, Pub. L. 93–380, title V, § 507(a), Aug. 21, 1974, 88 Stat. 565; renumbered § 430 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 241, Oct. 20, 1994, 108 Stat. 3913, 3921.)
 
 **Editorial Notes**
 
@@ -1123,9 +1123,9 @@ A prior section 430 of Pub. L. 90–247 was renumbered section 436, and is class
 
 **Amendments**
 
-1994—Pub. L. 103–382, § 241, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to administration of education programs, delegations of authority, utilization of services and facilities of other agencies, and consolidation of programs.
+1994—Pub. L. 103–382, § 241, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to administration of education programs, delegations of authority, utilization of services and facilities of other agencies, and consolidation of programs.
 
-1972—Subsec. (c). Pub. L. 92–318, § 302(a), added subsec. (c).
+1972—Subsec. (c). Pub. L. 92–318, § 302(a), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1137,9 +1137,9 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 **Effective Date of 1972 Amendment; Inconsistent Provisions Ineffective**
 
-Pub. L. 92–318, title III, § 302(c), June 23, 1972, 86 Stat. 333, provided that: “The provisions of section 421(c) [now 430(c)] of the General Education Provisions Act [subsec. (c) of this section] shall be effective upon the date of enactment of this Act [June 23, 1972]. No provision of any law which is inconsistent with such section 421(c) shall be effective nor shall any such provision control to the extent of such inconsistency, unless such a law is enacted after the date of enactment of this Act.”
+Pub. L. 92–318, title III, § 302(c), June 23, 1972, 86 Stat. 333, provided that: “The provisions of section 421(c) [now 430(c)] of the General Education Provisions Act [subsec. (c) of this section] shall be effective upon the date of enactment of this Act [June 23, 1972]. No provision of any law which is inconsistent with such section 421(c) shall be effective nor shall any such provision control to the extent of such inconsistency, unless such a law is enacted after the date of enactment of this Act.”
 
-#### § 1231a. Collection and dissemination of information
+#### § 1231a. Collection and dissemination of information
 
 The Secretary shall—
 
@@ -1149,7 +1149,7 @@ The Secretary shall—
 
 **(3)** collect data and information on applicable programs for the purpose of obtaining objective measurements of the effectiveness of such programs in achieving the intended purposes of such programs.
 
-(Pub. L. 90–247, title IV, § 431, formerly § 412, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 166; renumbered § 422 and amended Pub. L. 92–318, title III, § 301(a)(1), (b)(2)(B), June 23, 1972, 86 Stat. 326, 332; Pub. L. 94–482, title IV, § 409(b), Oct. 12, 1976, 90 Stat. 2233; renumbered § 431, renumbered § 422, and amended Pub. L. 103–382, title II, §§ 212(b)(1), 242, Oct. 20, 1994, 108 Stat. 3913, 3922; renumbered § 431, Pub. L. 107–110, title X, § 1062(1), Jan. 8, 2002, 115 Stat. 2087.)
+(Pub. L. 90–247, title IV, § 431, formerly § 412, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 166; renumbered § 422 and amended Pub. L. 92–318, title III, § 301(a)(1), (b)(2)(B), June 23, 1972, 86 Stat. 326, 332; Pub. L. 94–482, title IV, § 409(b), Oct. 12, 1976, 90 Stat. 2233; renumbered § 431, renumbered § 422, and amended Pub. L. 103–382, title II, §§ 212(b)(1), 242, Oct. 20, 1994, 108 Stat. 3913, 3922; renumbered § 431, Pub. L. 107–110, title X, § 1062(1), Jan. 8, 2002, 115 Stat. 2087.)
 
 **Editorial Notes**
 
@@ -1161,11 +1161,11 @@ Another prior section 431 of Pub. L. 90–247 was renumbered section 441, and wa
 
 **Amendments**
 
-1994—Pub. L. 103–382, § 242, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to duty to collect and disseminate information about applicable programs and to submit an annual report to Congress and authorizing use of contract to carry out this section.
+1994—Pub. L. 103–382, § 242, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to duty to collect and disseminate information about applicable programs and to submit an annual report to Congress and authorizing use of contract to carry out this section.
 
 1976—Subsec. (b). Pub. L. 94–482 substituted “June 30” for “March 31”.
 
-1972—Subsec. (a)(4). Pub. L. 92–318, § 301(b)(2)(B), substituted “(as set forth in section 1221c(a) of this title)” for “(as set forth in section 1 of this title)”.
+1972—Subsec. (a)(4). Pub. L. 92–318, § 301(b)(2)(B), substituted “(as set forth in section 1221c(a) of this title)” for “(as set forth in section 1 of this title)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1175,19 +1175,19 @@ Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except eith
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–318, title III, § 301(b)(2)(B), June 23, 1972, 86 Stat. 332, provided that the amendment made by Pub. L. 92–318 is effective July 1, 1972.
+Pub. L. 92–318, title III, § 301(b)(2)(B), June 23, 1972, 86 Stat. 332, provided that the amendment made by Pub. L. 92–318 is effective July 1, 1972.
 
 **Evaluation Practices and Procedures at National, State, and Local Levels for Federally Funded Elementary and Secondary Educational Programs; Report to Congress**
 
-Pub. L. 95–561, title XV, § 1526, Nov. 1, 1978, 92 Stat. 2379, as amended by Pub. L. 96–46, § 2(a)(9), Aug. 6, 1979, 93 Stat. 340; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, directed Secretary of Education to conduct a study of evaluation practices and procedures at the national, State, and local levels with respect to federally funded elementary and secondary educational programs and include in the first annual report to Congress submitted more than eighteen months after Nov. 1, 1978, proposals and recommendations for the revision or modification of any part or all of such practices and procedures.
+Pub. L. 95–561, title XV, § 1526, Nov. 1, 1978, 92 Stat. 2379, as amended by Pub. L. 96–46, § 2(a)(9), Aug. 6, 1979, 93 Stat. 340; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, directed Secretary of Education to conduct a study of evaluation practices and procedures at the national, State, and local levels with respect to federally funded elementary and secondary educational programs and include in the first annual report to Congress submitted more than eighteen months after Nov. 1, 1978, proposals and recommendations for the revision or modification of any part or all of such practices and procedures.
 
-#### §§ 1231b, 1231b–1. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
+#### §§ 1231b, 1231b–1. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
 
-Section 1231b, Pub. L. 90–247, title IV, § 423, formerly § 413, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 167; renumbered § 423, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to catalog of Federal education assistance programs.
+Section 1231b, Pub. L. 90–247, title IV, § 423, formerly § 413, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 167; renumbered § 423, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to catalog of Federal education assistance programs.
 
-Section 1231b–1, Pub. L. 90–247, title IV, § 424, as added Pub. L. 93–380, title V, § 508(a), Aug. 21, 1974, 88 Stat. 565; amended Pub. L. 96–88, title III, § 301(a)(1), (b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 678, 692, related to compilation of assisted innovative projects.
+Section 1231b–1, Pub. L. 90–247, title IV, § 424, as added Pub. L. 93–380, title V, § 508(a), Aug. 21, 1974, 88 Stat. 565; amended Pub. L. 96–88, title III, § 301(a)(1), (b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 678, 692, related to compilation of assisted innovative projects.
 
-#### § 1231b–2. Review of applications
+#### § 1231b–2. Review of applications
 
 **(a) Persons aggrieved; final State educational agency actions; hearing; ruling and reasons for ruling; rescission of final actions**
 
@@ -1205,7 +1205,7 @@ Each State educational agency shall make available at reasonable times and place
 
 If any State educational agency fails or refuses to comply with any provision of this section, or with any order of the Secretary under subsection (b), the Secretary shall forthwith terminate all assistance to the State educational agency under the applicable program affected or issue such other orders as the Secretary may deem appropriate to achieve such compliance.
 
-(Pub. L. 90–247, title IV, § 432, formerly § 425, as added Pub. L. 93–380, title V, § 508(a), Aug. 21, 1974, 88 Stat. 566; amended Pub. L. 95–561, title XII, § 1247, Nov. 1, 1978, 92 Stat. 2354; renumbered § 432 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 243, Oct. 20, 1994, 108 Stat. 3913, 3922.)
+(Pub. L. 90–247, title IV, § 432, formerly § 425, as added Pub. L. 93–380, title V, § 508(a), Aug. 21, 1974, 88 Stat. 566; amended Pub. L. 95–561, title XII, § 1247, Nov. 1, 1978, 92 Stat. 2354; renumbered § 432 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 243, Oct. 20, 1994, 108 Stat. 3913, 3922.)
 
 **Editorial Notes**
 
@@ -1217,13 +1217,13 @@ Another prior section 432 of Pub. L. 90–247 was renumbered section 442, and wa
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–382, § 243(1)(C), (D), inserted comma after “the hearing” in third sentence and substituted “guidelines governing such applicable program, it” for “guidelines, governing such applicable program it” in fourth sentence.
+1994—Subsec. (a). Pub. L. 103–382, § 243(1)(C), (D), inserted comma after “the hearing” in third sentence and substituted “guidelines governing such applicable program, it” for “guidelines, governing such applicable program it” in fourth sentence.
 
-Pub. L. 103–382, § 243(1)(A), (B), substituted “Secretary, any applicant” for “Commissioner, and in the case of the program provided for in title I of the Elementary and Secondary Education Act of 1965, any applicant”.
+Pub. L. 103–382, § 243(1)(A), (B), substituted “Secretary, any applicant” for “Commissioner, and in the case of the program provided for in title I of the Elementary and Secondary Education Act of 1965, any applicant”.
 
-Subsec. (b). Pub. L. 103–382, § 243(2), substituted “Secretary” for “Commissioner” wherever appearing.
+Subsec. (b). Pub. L. 103–382, § 243(2), substituted “Secretary” for “Commissioner” wherever appearing.
 
-Subsec. (d). Pub. L. 103–382, § 243(3), substituted “Secretary under” for “Commissioner under” and “Secretary shall” for “Commissioner shall” and inserted before period at end “or issue such other orders as the Secretary may deem appropriate to achieve such compliance”.
+Subsec. (d). Pub. L. 103–382, § 243(3), substituted “Secretary under” for “Commissioner under” and “Secretary shall” for “Commissioner shall” and inserted before period at end “or issue such other orders as the Secretary may deem appropriate to achieve such compliance”.
 
 1978—Subsec. (a). Pub. L. 95–561 added cl. (3) relating to the ordering, in accordance with a final State audit resolution determination, the repayment of misspent or misapplied Federal funds, and redesignated former cl. (3) as (4).
 
@@ -1235,9 +1235,9 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, see section 1530(a) of Pub
 
 **Effective Date**
 
-Pub. L. 93–380, title V, § 508(b), Aug. 21, 1974, 88 Stat. 566, provided that: “The amendments made by subsection (a) [enacting this section and section 1231b–1 of this title] shall be effective on the date of enactment of this Act [Aug. 21, 1974].”
+Pub. L. 93–380, title V, § 508(b), Aug. 21, 1974, 88 Stat. 566, provided that: “The amendments made by subsection (a) [enacting this section and section 1231b–1 of this title] shall be effective on the date of enactment of this Act [Aug. 21, 1974].”
 
-#### § 1231c. Advice, counsel, and technical assistance
+#### § 1231c. Advice, counsel, and technical assistance
 
 **(a) State educational agencies, institutions of higher education** For the purpose of carrying out more effectively Federal education programs, the Secretary is authorized, upon request, to provide advice, counsel, and technical assistance to State educational agencies, institutions of higher education, and, with the approval of the appropriate State educational agency, elementary and secondary schools—
 
@@ -1265,7 +1265,7 @@ The Secretary shall permit local educational agencies to use organized and syste
 
 The Secretary’s annual report shall contain a statement of the Secretary’s activities under this section.
 
-(Pub. L. 90–247, title IV, § 433, formerly § 414, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 167; renumbered § 424, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 426, Pub. L. 93–380, title V, § 508(a), Aug. 21, 1974, 88 Stat. 565; amended Pub. L. 95–561, title XII, § 1248, Nov. 1, 1978, 92 Stat. 2354; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692; renumbered § 433, Pub. L. 103–382, title II, § 212(b)(1), Oct. 20, 1994, 108 Stat. 3913.)
+(Pub. L. 90–247, title IV, § 433, formerly § 414, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 167; renumbered § 424, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 426, Pub. L. 93–380, title V, § 508(a), Aug. 21, 1974, 88 Stat. 565; amended Pub. L. 95–561, title XII, § 1248, Nov. 1, 1978, 92 Stat. 2354; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692; renumbered § 433, Pub. L. 103–382, title II, § 212(b)(1), Oct. 20, 1994, 108 Stat. 3913.)
 
 **Editorial Notes**
 
@@ -1291,13 +1291,13 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, see section 1530(a) of Pub
 
 **National Institute of Education**
 
-The National Institute of Education consisting of a National Council on Educational Research and a Director of the Institute was established by section 1221e of this title which, as amended generally by Pub. L. 99–498, title XIV, § 1401(a), Oct. 17, 1986, 100 Stat. 1589, provided objectives and duties for the Office of Educational Research and Improvement and established the National Advisory Council on Educational Research and Improvement, and section 1401(b) of Pub. L. 99–498 transferred the property and records of the National Institute of Education to the Office of Educational Research and Improvement.
+The National Institute of Education consisting of a National Council on Educational Research and a Director of the Institute was established by section 1221e of this title which, as amended generally by Pub. L. 99–498, title XIV, § 1401(a), Oct. 17, 1986, 100 Stat. 1589, provided objectives and duties for the Office of Educational Research and Improvement and established the National Advisory Council on Educational Research and Improvement, and section 1401(b) of Pub. L. 99–498 transferred the property and records of the National Institute of Education to the Office of Educational Research and Improvement.
 
-#### § 1231c–1. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
+#### § 1231c–1. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
 
-Section, Pub. L. 90–247, title IV, § 426A, as added Pub. L. 95–561, title XII, § 1202, Nov. 1, 1978, 92 Stat. 2334; amended Pub. L. 96–88, title III, § 301(a)(1), (b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 678, 692, related to equalization assistance.
+Section, Pub. L. 90–247, title IV, § 426A, as added Pub. L. 95–561, title XII, § 1202, Nov. 1, 1978, 92 Stat. 2334; amended Pub. L. 96–88, title III, § 301(a)(1), (b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 678, 692, related to equalization assistance.
 
-#### § 1231d. Parental involvement and dissemination
+#### § 1231d. Parental involvement and dissemination
 
 In the case of any applicable program in which the Secretary determines that parental participation at the State or local level would increase the effectiveness of the program in achieving its purposes, the Secretary shall promulgate regulations with respect to such program setting forth criteria designed to encourage such participation. If the program for which such determination is made provides for payments to local educational agencies, applications for such payments shall—
 
@@ -1307,7 +1307,7 @@ In the case of any applicable program in which the Secretary determines that par
 
 **(3)** set forth policies and procedures for adequate dissemination of program plans and evaluations to such parents and the public.
 
-(Pub. L. 90–247, title IV, § 434, formerly § 415, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 168; renumbered § 425, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 427, Pub. L. 93–380, title V, § 508(a), Aug. 21, 1974, 88 Stat. 565; renumbered § 434 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 244, Oct. 20, 1994, 108 Stat. 3913, 3922.)
+(Pub. L. 90–247, title IV, § 434, formerly § 415, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 168; renumbered § 425, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 427, Pub. L. 93–380, title V, § 508(a), Aug. 21, 1974, 88 Stat. 565; renumbered § 434 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 244, Oct. 20, 1994, 108 Stat. 3913, 3922.)
 
 **Editorial Notes**
 
@@ -1321,9 +1321,9 @@ Another prior section 434 of Pub. L. 90–247 was classified to section 1232c of
 
 **Amendments**
 
-1994—Pub. L. 103–382, § 244, substituted “Secretary determines” for “Commissioner determines” and “the Secretary shall” for “he shall” and inserted “is made” after “such determination”.
+1994—Pub. L. 103–382, § 244, substituted “Secretary determines” for “Commissioner determines” and “the Secretary shall” for “he shall” and inserted “is made” after “such determination”.
 
-#### § 1231e. Use of funds withheld
+#### § 1231e. Use of funds withheld
 
 **(a)** At any time that the Secretary makes an allotment or reallotment to any State under any applicable program, the Secretary shall reduce such allotment or reallotment by such amount as the Secretary determines such allotment or reallotment would have been reduced, had the data on which such allotment or reallotment is based excluded all data relating to local educational agencies of the State that, on the date of the Secretary’s action, are ineligible to receive the Federal financial assistance involved because of failure to comply with title VI of the Civil Rights Act of 1964 [42 U.S.C. 2000d et seq.], title IX of the Education Amendments of 1972 [20 U.S.C. 1681 et seq.], section 794 of title 29, or the Age Discrimination Act of 1975 [42 U.S.C. 6101 et seq.].
 
@@ -1333,17 +1333,17 @@ Another prior section 434 of Pub. L. 90–247 was classified to section 1232c of
 
 **(2)** for grants to local educational agencies of that State in accordance with section 405 of the Civil Rights Act of 1964 [42 U.S.C. 2000c–4], or for any other program administered by the Department that is designed to enhance equity in education or redress discrimination on the basis of race, color, national origin, sex, age, or disability.
 
-(Pub. L. 90–247, title IV, § 435, formerly § 416, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 168; renumbered § 426, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 428, Pub. L. 93–380, title V, § 508(a), Aug. 21, 1974, 88 Stat. 565; renumbered § 435 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 245, Oct. 20, 1994, 108 Stat. 3913, 3922.)
+(Pub. L. 90–247, title IV, § 435, formerly § 416, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 168; renumbered § 426, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 428, Pub. L. 93–380, title V, § 508(a), Aug. 21, 1974, 88 Stat. 565; renumbered § 435 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 245, Oct. 20, 1994, 108 Stat. 3913, 3922.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Civil Rights Act of 1964, referred to in subsec. (a), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (a), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
+The Education Amendments of 1972, referred to in subsec. (a), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (a), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (a), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
 
 **Prior Provisions**
 
@@ -1355,15 +1355,15 @@ Another prior section 435 of Pub. L. 90–247 was renumbered section 445, and is
 
 **Amendments**
 
-1994—Pub. L. 103–382, § 245, amended section generally. Prior to amendment, section consisted of single par. relating to use of funds withheld for failure to comply with title VI of the Civil Rights Act of 1964.
+1994—Pub. L. 103–382, § 245, amended section generally. Prior to amendment, section consisted of single par. relating to use of funds withheld for failure to comply with title VI of the Civil Rights Act of 1964.
 
-#### § 1231f. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
+#### § 1231f. Repealed. Pub. L. 103–382, title II, § 212(a)(1), Oct. 20, 1994, 108 Stat. 3913
 
-Section, Pub. L. 90–247, title IV, § 429, formerly § 417, as added Pub. L. 91–230, title IV § 401(a)(10), Apr. 13, 1970, 84 Stat. 168; renumbered § 427, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 429 and amended Pub. L. 93–380, title V, §§ 501(b)(2), 508(a), Aug. 21, 1974, 88 Stat. 558, 565; Pub. L. 96–88, title III, § 301(a)(1), (b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 678, 692, authorized transfer of information.
+Section, Pub. L. 90–247, title IV, § 429, formerly § 417, as added Pub. L. 91–230, title IV § 401(a)(10), Apr. 13, 1970, 84 Stat. 168; renumbered § 427, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 429 and amended Pub. L. 93–380, title V, §§ 501(b)(2), 508(a), Aug. 21, 1974, 88 Stat. 558, 565; Pub. L. 96–88, title III, § 301(a)(1), (b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 678, 692, authorized transfer of information.
 
 ### Part 2—Administration: Requirements and Limitations
 
-#### § 1231g. Applications
+#### § 1231g. Applications
 
 **(a) Submission and amendments of applications**
 
@@ -1381,7 +1381,7 @@ The Secretary shall, insofar as is practicable, establish uniform dates during t
 
 **(3)** a common application for grants to local educational agencies in applicable programs which are directly administered by the Secretary, and such application shall be used as the single application for as many of these programs as is practicable.
 
-(Pub. L. 90–247, title IV, § 436, formerly § 430, as added Pub. L. 95–561, title XII, § 1213, Nov. 1, 1978, 92 Stat. 2342; renumbered § 436 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 246, Oct. 20, 1994, 108 Stat. 3913, 3923.)
+(Pub. L. 90–247, title IV, § 436, formerly § 430, as added Pub. L. 95–561, title XII, § 1213, Nov. 1, 1978, 92 Stat. 2342; renumbered § 436 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 246, Oct. 20, 1994, 108 Stat. 3913, 3923.)
 
 **Editorial Notes**
 
@@ -1395,9 +1395,9 @@ Another prior section 436 of Pub. L. 90–247 was renumbered section 446, and wa
 
 **Amendments**
 
-1994—Pub. L. 103–382, § 246(2), substituted “Secretary” for “Commissioner” wherever appearing.
+1994—Pub. L. 103–382, § 246(2), substituted “Secretary” for “Commissioner” wherever appearing.
 
-Subsec. (a). Pub. L. 103–382, § 246(1), substituted “for more than one fiscal year” for “for three fiscal years”.
+Subsec. (a). Pub. L. 103–382, § 246(1), substituted “for more than one fiscal year” for “for three fiscal years”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1405,7 +1405,7 @@ Subsec. (a). Pub. L. 103–382, § 246(1), substituted “for more than one fi
 
 Section effective Oct. 1, 1978, see section 1530(a) of Pub. L. 95–561, set out as an Effective Date of 1978 Amendment note under section 1221e–3 of this title.
 
-#### § 1232. Regulations
+#### § 1232. Regulations
 
 **(a) “Regulation” defined** For the purpose of this section, the term “regulation” means any generally applicable rule, regulation, guideline, interpretation, or other requirement that—
 
@@ -1435,7 +1435,7 @@ Not later than 60 days after the date of enactment of any Act, or any portion of
 
 Concurrently with the publication of any final regulations, the Secretary shall transmit a copy of such final regulations to the Speaker of the House of Representatives and the President pro tempore of the Senate.
 
-(Pub. L. 90–247, title IV, § 437, formerly § 421, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered § 431, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, § 509(a), Aug. 21, 1974, 88 Stat. 566; Pub. L. 94–142, § 7, Nov. 29, 1975, 89 Stat. 796; Pub. L. 94–482, title IV, § 405, Oct. 12, 1976, 90 Stat. 2231; Pub. L. 96–374, title XIII, § 1302, Oct. 3, 1980, 94 Stat. 1497; Pub. L. 97–35, title V, § 533(a)(3), Aug. 13, 1981, 95 Stat. 453; renumbered § 437 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 247, Oct. 20, 1994, 108 Stat. 3913, 3923; Pub. L. 103–437, § 7(a)(1), Nov. 2, 1994, 108 Stat. 4587.)
+(Pub. L. 90–247, title IV, § 437, formerly § 421, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered § 431, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, § 509(a), Aug. 21, 1974, 88 Stat. 566; Pub. L. 94–142, § 7, Nov. 29, 1975, 89 Stat. 796; Pub. L. 94–482, title IV, § 405, Oct. 12, 1976, 90 Stat. 2231; Pub. L. 96–374, title XIII, § 1302, Oct. 3, 1980, 94 Stat. 1497; Pub. L. 97–35, title V, § 533(a)(3), Aug. 13, 1981, 95 Stat. 453; renumbered § 437 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 247, Oct. 20, 1994, 108 Stat. 3913, 3923; Pub. L. 103–437, § 7(a)(1), Nov. 2, 1994, 108 Stat. 4587.)
 
 **Editorial Notes**
 
@@ -1451,35 +1451,35 @@ Another prior section 437 of Pub. L. 90–247 was renumbered section 447, and wa
 
 1994—Pub. L. 103–437, which directed that section 431(b)(2)(B), (d)(2), and (g) of Pub. L. 90–247 be amended by substituting “Labor and Human Resources” for “Labor and Public Welfare”, could not be executed because this section, which was section 431 of Pub. L. 90–247, was renumbered section 437 and amended generally by Pub. L. 103–382.
 
-Pub. L. 103–382, § 247, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to promulgation of regulations by Secretary, and their publication, application, disapproval by Congress, and modification subsequent to disapproval.
+Pub. L. 103–382, § 247, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to promulgation of regulations by Secretary, and their publication, application, disapproval by Congress, and modification subsequent to disapproval.
 
 1981—Subsec. (d)(1). Pub. L. 97–35 substituted “final regulation (except expected family contribution schedules and any amendments thereto promulgated pursuant to sections 1078(a)(2)(D) and (E) and 1089(a)(1) of this title) as required” for “final regulation as required”.
 
-1980—Subsec. (d)(1). Pub. L. 96–374 inserted “, in whole or in part” after “disapprove such final regulation”.
+1980—Subsec. (d)(1). Pub. L. 96–374 inserted “, in whole or in part” after “disapprove such final regulation”.
 
-1976—Subsec. (a). Pub. L. 94–482, § 405(a), added par. (1), designated existing provisions which constituted entire subsec. (a) as par. (2) and, as so redesignated, struck out applicability to rules, guidelines, interpretations, or orders.
+1976—Subsec. (a). Pub. L. 94–482, § 405(a), added par. (1), designated existing provisions which constituted entire subsec. (a) as par. (2) and, as so redesignated, struck out applicability to rules, guidelines, interpretations, or orders.
 
-Subsec. (b)(1). Pub. L. 94–482, § 405(b)(1), substituted “proposed regulation” for “standard, rule, regulation, or requirement of general applicability”.
+Subsec. (b)(1). Pub. L. 94–482, § 405(b)(1), substituted “proposed regulation” for “standard, rule, regulation, or requirement of general applicability”.
 
-Subsec. (b)(2)(A). Pub. L. 94–482, § 405(b)(2), substituted “regulation” for “standard, rule, regulation, or general requirement” in two places.
+Subsec. (b)(2)(A). Pub. L. 94–482, § 405(b)(2), substituted “regulation” for “standard, rule, regulation, or general requirement” in two places.
 
-Subsec. (c). Pub. L. 94–482, § 405(c), struck out applicability to rules, guidelines, interpretations, or orders.
+Subsec. (c). Pub. L. 94–482, § 405(c), struck out applicability to rules, guidelines, interpretations, or orders.
 
-Subsec. (d)(1). Pub. L. 94–482, § 405(d)(1), (2), struck out applicability to standards, rules, requirements, or requirements of general applicability.
+Subsec. (d)(1). Pub. L. 94–482, § 405(d)(1), (2), struck out applicability to standards, rules, requirements, or requirements of general applicability.
 
-Subsec. (d)(2). Pub. L. 94–482, § 405(d)(3), substituted “regulation” for “standard, rule, regulation, or requirement” wherever appearing.
+Subsec. (d)(2). Pub. L. 94–482, § 405(d)(3), substituted “regulation” for “standard, rule, regulation, or requirement” wherever appearing.
 
-Subsec. (e). Pub. L. 94–482, § 405(e), substituted “regulation” for “standard, rule, regulation, or requirement” wherever appearing and “final regulation” for “proposed standard, rule, regulation, or requirement of general applicability”.
+Subsec. (e). Pub. L. 94–482, § 405(e), substituted “regulation” for “standard, rule, regulation, or requirement” wherever appearing and “final regulation” for “proposed standard, rule, regulation, or requirement of general applicability”.
 
-Subsec. (g). Pub. L. 94–482, § 405(f), substituted “final regulations” for “rules, regulations, and guidelines” wherever appearing.
+Subsec. (g). Pub. L. 94–482, § 405(f), substituted “final regulations” for “rules, regulations, and guidelines” wherever appearing.
 
-1975—Subsec. (d)(1). Pub. L. 94–142, § 7(a)(1), (b), inserted “final” before “standard” wherever appearing in existing provisions and inserted provisions covering the effect of the failure of Congress to adopt the concurrent resolution with respect to any final standard, rule, regulation, or requirement.
+1975—Subsec. (d)(1). Pub. L. 94–142, § 7(a)(1), (b), inserted “final” before “standard” wherever appearing in existing provisions and inserted provisions covering the effect of the failure of Congress to adopt the concurrent resolution with respect to any final standard, rule, regulation, or requirement.
 
-Subsec. (d)(2). Pub. L. 94–142, § 7(a)(2), (3), substituted “objection to the final standard” for “objection to the proposed standard”, “effective date of the final standard” for “effective date of the standard”, and “In no event shall the final standard” for “In no event shall the standard”.
+Subsec. (d)(2). Pub. L. 94–142, § 7(a)(2), (3), substituted “objection to the final standard” for “objection to the proposed standard”, “effective date of the final standard” for “effective date of the standard”, and “In no event shall the final standard” for “In no event shall the standard”.
 
-1974—Subsec. (b). Pub. L. 93–380, § 509(a)(1), designated existing provisions as par. (1) and added par. (2).
+1974—Subsec. (b). Pub. L. 93–380, § 509(a)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsecs. (d) to (g). Pub. L. 93–380, § 509(a)(2), added subsecs. (d) to (g).
+Subsecs. (d) to (g). Pub. L. 93–380, § 509(a)(2), added subsecs. (d) to (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1491,7 +1491,7 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title V, § 540(a), Aug. 13, 1981, 95 Stat. 458, provided that the amendment made by Pub. L. 97–35 is effective Oct. 1, 1981.
+Pub. L. 97–35, title V, § 540(a), Aug. 13, 1981, 95 Stat. 458, provided that the amendment made by Pub. L. 97–35 is effective Oct. 1, 1981.
 
 **Effective Date of 1980 Amendment**
 
@@ -1503,7 +1503,7 @@ Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except eith
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–142, § 8, Nov. 29, 1975, 89 Stat. 796, provided that:
+Pub. L. 94–142, § 8, Nov. 29, 1975, 89 Stat. 796, provided that:
 
 > **“(a)** Notwithstanding any other provision of law, the amendments made by sections 2(a), 2(b), and 2(c) [amending sections 1411 and 1412 of this title as in effect through Sept. 30, 1977, and amending provisions set out as notes under sections 1411 to 1413 of this title] shall take effect on July 1, 1975.
 
@@ -1515,15 +1515,15 @@ Pub. L. 94–142, § 8, Nov. 29, 1975, 89 Stat. 796, provided that:
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–380, title V, § 509(b), Aug. 21, 1974, 88 Stat. 568, provided that: “The amendment made by paragraph (2) of subsection (a) [amending this section] shall be effective on the date of enactment of this [Aug. 21, 1974] and shall be effective with respect to the provisions of this Act [see Short Title note set out under section 821 of this title].”
+Pub. L. 93–380, title V, § 509(b), Aug. 21, 1974, 88 Stat. 568, provided that: “The amendment made by paragraph (2) of subsection (a) [amending this section] shall be effective on the date of enactment of this [Aug. 21, 1974] and shall be effective with respect to the provisions of this Act [see Short Title note set out under section 821 of this title].”
 
 **Study and Report on Rules and Regulations**
 
-Pub. L. 92–318, title V, § 503, June 23, 1972, 86 Stat. 346, provided for a study by the Commissioner of all rules, regulations, etc., in connection with the administration of any program to which the General Education Provisions Act [this chapter] applies, with a report to be submitted to Congress not later than one year after June 23, 1972. Such section further mandated the publication of all rules, regulations, etc., in the Federal Register not later than 60 days after submission of such report, followed by a public hearing on such matters within the 60 day period following such publication. Such section then required a subsequent report to the relevant Congressional Committees on such hearings, and a republication of all rules and regulations in the Federal Register, such republished rules, etc., to supercede all preceding rules and regulations.
+Pub. L. 92–318, title V, § 503, June 23, 1972, 86 Stat. 346, provided for a study by the Commissioner of all rules, regulations, etc., in connection with the administration of any program to which the General Education Provisions Act [this chapter] applies, with a report to be submitted to Congress not later than one year after June 23, 1972. Such section further mandated the publication of all rules, regulations, etc., in the Federal Register not later than 60 days after submission of such report, followed by a public hearing on such matters within the 60 day period following such publication. Such section then required a subsequent report to the relevant Congressional Committees on such hearings, and a republication of all rules and regulations in the Federal Register, such republished rules, etc., to supercede all preceding rules and regulations.
 
-#### § 1232–1. Repealed. Pub. L. 98–511, title I, § 109(b), Oct. 19, 1984, 98 Stat. 2369
+#### § 1232–1. Repealed. Pub. L. 98–511, title I, § 109(b), Oct. 19, 1984, 98 Stat. 2369
 
-Section, Pub. L. 90–247, title IV, § 431A, as added Pub. L. 94–482, title III, § 323(b), Oct. 12, 1976, 90 Stat. 2218; amended Pub. L. 95–561, title XII, § 1249, Nov. 1, 1978, 92 Stat. 2355; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, provided for maintenance of effort determinations, providing in subsection: (a) for promulgation of regulations and determination of amount expended, (b) for waiver of requirements, (c) for objective criteria in carrying out waiver authority, and (d) for duration of effectiveness of requirements.
+Section, Pub. L. 90–247, title IV, § 431A, as added Pub. L. 94–482, title III, § 323(b), Oct. 12, 1976, 90 Stat. 2218; amended Pub. L. 95–561, title XII, § 1249, Nov. 1, 1978, 92 Stat. 2355; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, provided for maintenance of effort determinations, providing in subsection: (a) for promulgation of regulations and determination of amount expended, (b) for waiver of requirements, (c) for objective criteria in carrying out waiver authority, and (d) for duration of effectiveness of requirements.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1531,11 +1531,11 @@ Section, Pub. L. 90–247, title IV, § 431A, as added Pub. L. 94–482, title
 
 Repeal effective July 1, 1985, see section 711(b) of Pub. L. 98–511, set out as an Effective Date of 1984 Amendment note under section 1226c of this title.
 
-#### § 1232a. Prohibition against Federal control of education
+#### § 1232a. Prohibition against Federal control of education
 
 No provision of any applicable program shall be construed to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over the curriculum, program of instruction, administration, or personnel of any educational institution, school, or school system, or over the selection of library resources, textbooks, or other printed or published instructional materials by any educational institution or school system, or to require the assignment or transportation of students or teachers in order to overcome racial imbalance.
 
-(Pub. L. 90–247, title IV, § 438, formerly § 422, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered § 432 and amended Pub. L. 92–318, title III, § 301(a)(1), title VII, § 717(b), June 23, 1972, 86 Stat. 326, 369; Pub. L. 94–482, title IV, § 404(b), Oct. 12, 1976, 90 Stat. 2230; renumbered § 438, Pub. L. 103–382, title II, § 212(b)(1), Oct. 20, 1994, 108 Stat. 3913.)
+(Pub. L. 90–247, title IV, § 438, formerly § 422, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered § 432 and amended Pub. L. 92–318, title III, § 301(a)(1), title VII, § 717(b), June 23, 1972, 86 Stat. 326, 369; Pub. L. 94–482, title IV, § 404(b), Oct. 12, 1976, 90 Stat. 2230; renumbered § 438, Pub. L. 103–382, title II, § 212(b)(1), Oct. 20, 1994, 108 Stat. 3913.)
 
 **Editorial Notes**
 
@@ -1549,7 +1549,7 @@ Another prior section 438 of Pub. L. 90–247 was renumbered section 448, and wa
 
 1976—Pub. L. 94–482 substituted provisions prohibiting any applicable program from exercising Federal control of education, for provisions prohibiting such specific Federal laws as the Act of Sept. 30, 1950, National Defense Education Act of 1958, Act of Sept. 23, 1950, Higher Education Facilities Act of 1963, Elementary and Secondary Education Act of 1965, Higher Education Act of 1965, International Education Act of 1966, Emergency School Aid Act, and the Vocational Education Act of 1963 from exercising such Federal control.
 
-1972—Pub. L. 92–318, § 717(b), inserted “the Emergency School Aid Act;” after “the International Education Act of 1966;”.
+1972—Pub. L. 92–318, § 717(b), inserted “the Emergency School Aid Act;” after “the International Education Act of 1966;”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1593,11 +1593,11 @@ Sec. 4. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-#### § 1232b. Labor standards
+#### § 1232b. Labor standards
 
 All laborers and mechanics employed by contractors or subcontractors on all construction and minor remodeling projects assisted under any applicable program shall be paid wages at rates not less than those prevailing on similar construction and minor remodeling in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have, with respect to the labor standards specified in this section, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and section 3145 of title 40.
 
-(Pub. L. 90–247, title IV, § 439, formerly § 423, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered § 433, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 439 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 261(d), Oct. 20, 1994, 108 Stat. 3913, 3927.)
+(Pub. L. 90–247, title IV, § 439, formerly § 423, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered § 433, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; renumbered § 439 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 261(d), Oct. 20, 1994, 108 Stat. 3913, 3927.)
 
 **Editorial Notes**
 
@@ -1607,7 +1607,7 @@ Reorganization Plan Numbered 14 of 1950, referred to in text, is set out in the 
 
 **Codification**
 
-“Sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (40 U.S.C. 276c)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (40 U.S.C. 276c)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 **Prior Provisions**
 
@@ -1615,11 +1615,11 @@ A prior section 439 of Pub. L. 90–247 was renumbered section 445, and is class
 
 **Amendments**
 
-1994—Pub. L. 103–382, § 261(d), substituted “All laborers” for “Except for emergency relief under section 241–1 of this title, all laborers”.
+1994—Pub. L. 103–382, § 261(d), substituted “All laborers” for “Except for emergency relief under section 241–1 of this title, all laborers”.
 
 ### Part 3—Administration of Education Programs and Projects by States and Local Educational Agencies
 
-#### § 1232c. State agency monitoring and enforcement
+#### § 1232c. State agency monitoring and enforcement
 
 **(a) State plan** In the case of any applicable program in which Federal funds are made available to local agencies in a State through or under the supervision of a State board or agency, the Secretary may require the State to submit a plan for monitoring compliance by local agencies with Federal requirements under such program and for enforcement by the State of such requirements. The Secretary may require such plan to provide—
 
@@ -1639,41 +1639,41 @@ A prior section 439 of Pub. L. 90–247 was renumbered section 445, and is class
 
 **(c) Withholding of payments**
 
-Any withholding of payments under subsection (b)(3) of this subsection 1
+Any withholding of payments under subsection (b)(3) of this subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 shall continue until the State is satisfied that there is no longer a failure to comply substantially with any of such requirements.
 
-(Pub. L. 90–247, title IV, § 440, formerly § 434, as added Pub. L. 95–561, title XII, § 1231(a)(3), Nov. 1, 1978, 92 Stat. 2342; renumbered § 440 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 261(e), Oct. 20, 1994, 108 Stat. 3913, 3927.)
+(Pub. L. 90–247, title IV, § 440, formerly § 434, as added Pub. L. 95–561, title XII, § 1231(a)(3), Nov. 1, 1978, 92 Stat. 2342; renumbered § 440 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 261(e), Oct. 20, 1994, 108 Stat. 3913, 3927.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1232c, Pub. L. 90–247, title IV, § 434, formerly § 424, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered § 434 and amended Pub. L. 92–318, title III, § 301(a)(1), title V, § 501, June 23, 1972, 86 Stat. 326, 345; Pub. L. 93–380, title V, §§ 510, 511(a), Aug. 21, 1974, 88 Stat. 568, 569; Pub. L. 94–482, title V, § 501(f)(1), Oct. 12, 1976, 90 Stat. 2237, related to administration of education programs and projects, prior to repeal by section 1231(a)(3) of Pub. L. 95–561.
+A prior section 1232c, Pub. L. 90–247, title IV, § 434, formerly § 424, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered § 434 and amended Pub. L. 92–318, title III, § 301(a)(1), title V, § 501, June 23, 1972, 86 Stat. 326, 345; Pub. L. 93–380, title V, §§ 510, 511(a), Aug. 21, 1974, 88 Stat. 568, 569; Pub. L. 94–482, title V, § 501(f)(1), Oct. 12, 1976, 90 Stat. 2237, related to administration of education programs and projects, prior to repeal by section 1231(a)(3) of Pub. L. 95–561.
 
 A prior section 440 of Pub. L. 90–247 was renumbered section 446, and is classified to section 1232i of this title.
 
 **Amendments**
 
-1994—Pub. L. 103–382, § 261(e)(1), struck out “educational” after “State” in section catchline.
+1994—Pub. L. 103–382, § 261(e)(1), struck out “educational” after “State” in section catchline.
 
-Subsec. (a). Pub. L. 103–382, § 261(e)(2)(A), substituted “Secretary” for “Commissioner” wherever appearing.
+Subsec. (a). Pub. L. 103–382, § 261(e)(2)(A), substituted “Secretary” for “Commissioner” wherever appearing.
 
-Subsecs. (b), (c). Pub. L. 103–382, § 261(e)(2)(B), (C), redesignated provision following par. (3) of subsec. (b) as subsec. (c) and substituted “subsection (b)(3)” for “paragraph (3)”.
+Subsecs. (b), (c). Pub. L. 103–382, § 261(e)(2)(B), (C), redesignated provision following par. (3) of subsec. (b) as subsec. (c) and substituted “subsection (b)(3)” for “paragraph (3)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 95–561, title XII, § 1261, Nov. 1, 1978, 92 Stat. 2356, provided that: “The amendments made by section 1231 [enacting this section and sections 1232d, 1232e, and 1232f of this title and amending section 1088f–1 of this title] shall take effect with respect to appropriations for fiscal year 1980 and subsequent fiscal years. The amendments made by section 1232 [enacting sections 1234, 1234a, 1234b, 1234c, 1234d, and 1234e of this title] shall take effect 120 days after the enactment of this Act [Nov. 1, 1978].”
+Pub. L. 95–561, title XII, § 1261, Nov. 1, 1978, 92 Stat. 2356, provided that: “The amendments made by section 1231 [enacting this section and sections 1232d, 1232e, and 1232f of this title and amending section 1088f–1 of this title] shall take effect with respect to appropriations for fiscal year 1980 and subsequent fiscal years. The amendments made by section 1232 [enacting sections 1234, 1234a, 1234b, 1234c, 1234d, and 1234e of this title] shall take effect 120 days after the enactment of this Act [Nov. 1, 1978].”
 
 **Applicability of Administrative Procedure to Office of Education or Actions by Commissioner Unaffected by Subsections (b) to (e)**
 
-Pub. L. 93–380, title V, § 511(b)(2), Aug. 21, 1974, 88 Stat. 571, provided that nothing in the amendment made by subsec. (a) of section 511 of Pub. L. 93–380, which enacted prior subsecs. (b) to (e) and deleted former subsec. (b) of this section, would be construed to affect the applicability of chapter 5 of Title 5, Government Organization and Employees, to the Office of Education or actions by the Commissioner.
+Pub. L. 93–380, title V, § 511(b)(2), Aug. 21, 1974, 88 Stat. 571, provided that nothing in the amendment made by subsec. (a) of section 511 of Pub. L. 93–380, which enacted prior subsecs. (b) to (e) and deleted former subsec. (b) of this section, would be construed to affect the applicability of chapter 5 of Title 5, Government Organization and Employees, to the Office of Education or actions by the Commissioner.
 
-#### § 1232d. Single State application
+#### § 1232d. Single State application
 
 **(a) Submission of general application; approval by State supervisory authority**
 
@@ -1719,17 +1719,17 @@ In the case of any State which applies, contracts, or submits a plan for partici
 
 Each general application submitted under this section shall remain in effect for the duration of any program it covers. The Secretary shall not require the resubmission or amendment of that application unless required by changes in Federal or State law or by other significant changes in the circumstances affecting an assurance in that application.
 
-(Pub. L. 90–247, title IV, § 441, formerly § 435, as added Pub. L. 95–561, title XII, § 1231(a)(3), Nov. 1, 1978, 92 Stat. 2343; amended Pub. L. 98–511, title VII, § 706(a), Oct. 19, 1984, 98 Stat. 2406; Pub. L. 100–297, title III, § 3501(c), Apr. 28, 1988, 102 Stat. 357; renumbered § 441 and amended Pub. L. 103–382, title II, §§ 212(b)(1), (3)(A), 261(f), Oct. 20, 1994, 108 Stat. 3913, 3928; Pub. L. 107–110, title X, § 1062(2), Jan. 8, 2002, 115 Stat. 2087; Pub. L. 114–95, title IX, § 9215(mm)(4), Dec. 10, 2015, 129 Stat. 2176.)
+(Pub. L. 90–247, title IV, § 441, formerly § 435, as added Pub. L. 95–561, title XII, § 1231(a)(3), Nov. 1, 1978, 92 Stat. 2343; amended Pub. L. 98–511, title VII, § 706(a), Oct. 19, 1984, 98 Stat. 2406; Pub. L. 100–297, title III, § 3501(c), Apr. 28, 1988, 102 Stat. 357; renumbered § 441 and amended Pub. L. 103–382, title II, §§ 212(b)(1), (3)(A), 261(f), Oct. 20, 1994, 108 Stat. 3913, 3928; Pub. L. 107–110, title X, § 1062(2), Jan. 8, 2002, 115 Stat. 2087; Pub. L. 114–95, title IX, § 9215(mm)(4), Dec. 10, 2015, 129 Stat. 2176.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part D of title IV of the Act is classified generally to part D (§ 7231 et seq.) of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part D of title IV of the Act is classified generally to part D (§ 7231 et seq.) of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 **Codification**
 
-A prior section 1232d was renumbered by Pub. L. 95–561, § 1231(a)(1), and was transferred to section 1226a–1 of this title.
+A prior section 1232d was renumbered by Pub. L. 95–561, § 1231(a)(1), and was transferred to section 1226a–1 of this title.
 
 **Prior Provisions**
 
@@ -1741,15 +1741,15 @@ Another prior section 441 of Pub. L. 90–247 was classified to section 1233 of 
 
 2002—Subsec. (a). Pub. L. 107–110 made technical correction to directory language of Pub. L. 100–297. See 1988 Amendment note below.
 
-1994—Pub. L. 103–382, § 261(f)(1), substituted “Secretary” for “Commissioner” wherever appearing.
+1994—Pub. L. 103–382, § 261(f)(1), substituted “Secretary” for “Commissioner” wherever appearing.
 
-Subsec. (a). Pub. L. 103–382, § 261(f)(2)(C), substituted “part C of title V of the Elementary and Secondary Education Act of 1965” for “title V of such Act”.
+Subsec. (a). Pub. L. 103–382, § 261(f)(2)(C), substituted “part C of title V of the Elementary and Secondary Education Act of 1965” for “title V of such Act”.
 
-Pub. L. 103–382, § 261(f)(2)(B), which directed amendment of first sentence of subsec. (a) by striking “, in the case of programs under chapter 1 and chapter 2 of title I of the Elementary and Secondary Education Act of 1965,”, was executed by striking “, in the case of programs under chapter 1 and chapter 2 of title I of the Elementary and Secondary Education Act of 1965),” after “(subject” to reflect the probable intent of Congress.
+Pub. L. 103–382, § 261(f)(2)(B), which directed amendment of first sentence of subsec. (a) by striking “, in the case of programs under chapter 1 and chapter 2 of title I of the Elementary and Secondary Education Act of 1965,”, was executed by striking “, in the case of programs under chapter 1 and chapter 2 of title I of the Elementary and Secondary Education Act of 1965),” after “(subject” to reflect the probable intent of Congress.
 
-Pub. L. 103–382, § 261(f)(2)(A), struck out the comma after “submits a plan”.
+Pub. L. 103–382, § 261(f)(2)(A), struck out the comma after “submits a plan”.
 
-Subsec. (b)(6). Pub. L. 103–382, § 212(b)(3), made technical amendment to reference to section 1232f of this title to reflect renumbering of corresponding section of original act.
+Subsec. (b)(6). Pub. L. 103–382, § 212(b)(3), made technical amendment to reference to section 1232f of this title to reflect renumbering of corresponding section of original act.
 
 1988—Subsec. (a). Pub. L. 100–297, as amended by Pub. L. 107–110, substituted “chapter 1 and chapter 2 of title I of the Elementary and Secondary Education Act of 1965)” for “titles I and IV of the Elementary and Secondary Education Act of 1965”.
 
@@ -1763,7 +1763,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–110, title X, § 1062(2), Jan. 8, 2002, 115 Stat. 2087, provided that the amendment made by section 1062(2) is effective as of the date of enactment of Pub. L. 100–297, which was approved Apr. 28, 1988.
+Pub. L. 107–110, title X, § 1062(2), Jan. 8, 2002, 115 Stat. 2087, provided that the amendment made by section 1062(2) is effective as of the date of enactment of Pub. L. 100–297, which was approved Apr. 28, 1988.
 
 **Effective Date of 1988 Amendment**
 
@@ -1777,7 +1777,7 @@ Amendment by Pub. L. 98–511 effective Oct. 19, 1984, see section 711(a) of Pub
 
 Section effective with respect to appropriations for fiscal year 1980 and subsequent fiscal years, see section 1261 of Pub. L. 95–561, set out as a note under section 1232c of this title.
 
-#### § 1232e. Single local educational agency application
+#### § 1232e. Single local educational agency application
 
 **(a) General application to State agency or board**
 
@@ -1811,27 +1811,27 @@ Each local educational agency which participates in an applicable program under 
 
 A general application submitted under this section shall remain in effect for the duration of the programs it covers. The State agencies or boards administering the programs covered by the application shall not require the submission or amendment of such application unless required by changes in Federal or State law or by other significant change in the circumstances affecting an assurance in such application.
 
-(Pub. L. 90–247, title IV, § 442, formerly § 436, as added Pub. L. 95–561, title XII, § 1231(a)(3), Nov. 1, 1978, 92 Stat. 2345; amended Pub. L. 98–511, title VII, § 706(b), Oct. 19, 1984, 98 Stat. 2407; renumbered § 442 and amended Pub. L. 103–382, title II, §§ 212(b)(1), (3)(B), 261(g), Oct. 20, 1994, 108 Stat. 3913, 3928.)
+(Pub. L. 90–247, title IV, § 442, formerly § 436, as added Pub. L. 95–561, title XII, § 1231(a)(3), Nov. 1, 1978, 92 Stat. 2345; amended Pub. L. 98–511, title VII, § 706(b), Oct. 19, 1984, 98 Stat. 2407; renumbered § 442 and amended Pub. L. 103–382, title II, §§ 212(b)(1), (3)(B), 261(g), Oct. 20, 1994, 108 Stat. 3913, 3928.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1232e, Pub. L. 90–247, title IV, § 436, formerly § 426, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 170; renumbered § 436, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326, related to authority of Commissioner to vest title in equipment, prior to repeal by section 1231(a)(3) of Pub. L. 95–561.
+A prior section 1232e, Pub. L. 90–247, title IV, § 436, formerly § 426, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 170; renumbered § 436, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326, related to authority of Commissioner to vest title in equipment, prior to repeal by section 1231(a)(3) of Pub. L. 95–561.
 
 A prior section 442 of Pub. L. 90–247 was classified to section 1233a of this title prior to repeal by Pub. L. 103–382.
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–382, § 261(g)(1), substituted “that local educational agency” for “that local education agency”.
+1994—Subsec. (a). Pub. L. 103–382, § 261(g)(1), substituted “that local educational agency” for “that local education agency”.
 
-Subsec. (b)(2). Pub. L. 103–382, § 261(g)(2)(A), inserted comma after “program”.
+Subsec. (b)(2). Pub. L. 103–382, § 261(g)(2)(A), inserted comma after “program”.
 
-Subsec. (b)(4). Pub. L. 103–382, § 261(g)(2)(B), substituted “Secretary” for “Commissioner” wherever appearing.
+Subsec. (b)(4). Pub. L. 103–382, § 261(g)(2)(B), substituted “Secretary” for “Commissioner” wherever appearing.
 
-Pub. L. 103–382, § 212(b)(3)(B), made technical amendment to reference to section 1232f of this title to reflect renumbering of corresponding section of original act.
+Pub. L. 103–382, § 212(b)(3)(B), made technical amendment to reference to section 1232f of this title to reflect renumbering of corresponding section of original act.
 
-Subsec. (b)(7)(B). Pub. L. 103–382, § 261(g)(2)(C), substituted “individuals with disabilities” for “handicapped individuals”.
+Subsec. (b)(7)(B). Pub. L. 103–382, § 261(g)(2)(C), substituted “individuals with disabilities” for “handicapped individuals”.
 
 1984—Subsec. (b)(9). Pub. L. 98–511 added par. (9).
 
@@ -1847,7 +1847,7 @@ Section effective with respect to appropriations for fiscal year 1980 and subseq
 
 ### Part 4—Records; Privacy; Limitation on Withholding Federal Funds
 
-#### § 1232f. Records
+#### § 1232f. Records
 
 **(a) Records kept by recipient; full disclosure; maintenance period**
 
@@ -1857,7 +1857,7 @@ Each recipient of Federal funds under any applicable program through any grant, 
 
 The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit examination, to any rec­ords maintained by a recipient that may be related, or pertinent to, grants, subgrants, cooperative agreements, loans, or other arrangements to which reference is made in subsection (a), or which may relate to the compliance of the recipient with any requirement of an applicable program.
 
-(Pub. L. 90–247, title IV, § 443, formerly § 437, as added Pub. L. 95–561, title XII, § 1231(c), Nov. 1, 1978, 92 Stat. 2346; renumbered § 443 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 248, Oct. 20, 1994, 108 Stat. 3913, 3924.)
+(Pub. L. 90–247, title IV, § 443, formerly § 437, as added Pub. L. 95–561, title XII, § 1231(c), Nov. 1, 1978, 92 Stat. 2346; renumbered § 443 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 248, Oct. 20, 1994, 108 Stat. 3913, 3924.)
 
 **Editorial Notes**
 
@@ -1867,9 +1867,9 @@ A prior section 443 of Pub. L. 90–247 was classified to section 1233b of this 
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–382, § 248(1), substituted “grant, subgrant, cooperative agreement, loan, or other arrangement” for “grant, subgrant, contract, subcontract, loan, or other arrangement (other than procurement contracts awarded by an administrative head of an educational agency)”, inserted “financial or programmatic” before “audit.”, and substituted “three years” for “five years”.
+1994—Subsec. (a). Pub. L. 103–382, § 248(1), substituted “grant, subgrant, cooperative agreement, loan, or other arrangement” for “grant, subgrant, contract, subcontract, loan, or other arrangement (other than procurement contracts awarded by an administrative head of an educational agency)”, inserted “financial or programmatic” before “audit.”, and substituted “three years” for “five years”.
 
-Subsec. (b). Pub. L. 103–382, § 248(2), substituted “to any records maintained by a recipient that may be related, or pertinent to, grants, subgrants, cooperative agreements, loans, or other arrangements” for “to any records of a recipient which may be related, or pertinent to, the grants, subgrants, contracts, subcontracts, loans, or other arrangements”.
+Subsec. (b). Pub. L. 103–382, § 248(2), substituted “to any records maintained by a recipient that may be related, or pertinent to, grants, subgrants, cooperative agreements, loans, or other arrangements” for “to any records of a recipient which may be related, or pertinent to, the grants, subgrants, contracts, subcontracts, loans, or other arrangements”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1877,7 +1877,7 @@ Subsec. (b). Pub. L. 103–382, § 248(2), substituted “to any records maint
 
 Section effective with respect to appropriations for fiscal year 1980 and subsequent fiscal years, see section 1261 of Pub. L. 95–561, set out as a note under section 1232c of this title.
 
-#### § 1232g. Family educational and privacy rights
+#### § 1232g. Family educational and privacy rights
 
 **(a) Conditions for availability of funds to educational agencies or institutions; inspection and review of education records; specific information to be made available; procedure for access to education records; reasonableness of time for such access; hearings; written explanations by parents; definitions**
 
@@ -1957,7 +1957,7 @@ Section effective with respect to appropriations for fiscal year 1980 and subseq
 
 **(II)** the officials and authorities to whom such information is disclosed certify in writing to the educational agency or institution that the information will not be disclosed to any other party except as provided under State law without the prior written consent of the parent of the student.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(F)** organizations conducting studies for, or on behalf of, educational agencies or institutions for the purpose of developing, validating, or administering predictive tests, administering student aid programs, and improving instruction, if such studies are conducted in such a manner as will not permit the personal identification of students and their parents by persons other than representatives of such organizations and such information will be destroyed when no longer needed for the purpose for which it is conducted;
 
@@ -2013,9 +2013,9 @@ Nothing in subparagraph (E) of this paragraph shall prevent a State from further
 
 **(7)**
 
-**(A)** Nothing in this section may be construed to prohibit an educational institution from disclosing information provided to the institution under section 14071 2
+**(A)** Nothing in this section may be construed to prohibit an educational institution from disclosing information provided to the institution under section 14071 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 42 concerning registered sex offenders who are required to register under such section.
 
@@ -2081,23 +2081,23 @@ An educational agency or institution that, in good faith, produces education rec
 
 Subsection (b)(4) does not apply to education records subject to a court order under this subsection.
 
-(Pub. L. 90–247, title IV, § 444, formerly § 438, as added Pub. L. 93–380, title V, § 513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93–568, § 2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96–46, § 4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101–542, title II, § 203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102–325, title XV, § 1555(a), July 23, 1992, 106 Stat. 840; renumbered § 444 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928; Pub. L. 105–244, title IX, §§ 951, 952, Oct. 7, 1998, 112 Stat. 1835, 1836; Pub. L. 106–386, div. B, title VI, § 1601(d), Oct. 28, 2000, 114 Stat. 1538; Pub. L. 107–56, title V, § 507, Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–110, title X, § 1062(3), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 111–296, title I, § 103(d), Dec. 13, 2010, 124 Stat. 3192; Pub. L. 112–278, § 2, Jan. 14, 2013, 126 Stat. 2480.)
+(Pub. L. 90–247, title IV, § 444, formerly § 438, as added Pub. L. 93–380, title V, § 513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93–568, § 2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96–46, § 4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101–542, title II, § 203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102–325, title XV, § 1555(a), July 23, 1992, 106 Stat. 840; renumbered § 444 and amended Pub. L. 103–382, title II, §§ 212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928; Pub. L. 105–244, title IX, §§ 951, 952, Oct. 7, 1998, 112 Stat. 1835, 1836; Pub. L. 106–386, div. B, title VI, § 1601(d), Oct. 28, 2000, 114 Stat. 1538; Pub. L. 107–56, title V, § 507, Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–110, title X, § 1062(3), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 111–296, title I, § 103(d), Dec. 13, 2010, 124 Stat. 3192; Pub. L. 112–278, § 2, Jan. 14, 2013, 126 Stat. 2480.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(1)(K), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(1)(K), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsec. (b)(1)(K), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (b)(1)(K), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 Section 3 of the Child Abuse Prevention and Treatment Act, referred to in subsec. (b)(2)(B), is section 3 of Pub. L. 93–247, which is set out as a note under section 5101 of Title 42, The Public Health and Welfare.
 
-Section 14071 of title 42, referred to in subsec. (b)(7)(A), was repealed by Pub. L. 109–248, title I, § 129(a), July 27, 2006, 120 Stat. 600.
+Section 14071 of title 42, referred to in subsec. (b)(7)(A), was repealed by Pub. L. 109–248, title I, § 129(a), July 27, 2006, 120 Stat. 600.
 
 This Act, referred to in subsec. (i)(1), is Pub. L. 90–247, Jan. 2, 1968, 80 Stat. 783, known as the Elementary and Secondary Education Amendments of 1967. Title IV of the Act, known as the General Education Provisions Act, is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 6301 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (i)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (i)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 **Prior Provisions**
 
@@ -2105,69 +2105,69 @@ A prior section 444 of Pub. L. 90–247 was classified to section 1233c of this 
 
 **Amendments**
 
-2013—Subsec. (b)(1)(L). Pub. L. 112–278, § 2(1), added subpar. (L).
+2013—Subsec. (b)(1)(L). Pub. L. 112–278, § 2(1), added subpar. (L).
 
-Subsec. (b)(2)(B). Pub. L. 112–278, § 2(2), inserted “, except when a parent is a party to a court proceeding involving child abuse and neglect (as defined in section 3 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 note)) or dependency matters, and the order is issued in the context of that proceeding, additional notice to the parent by the educational agency or institution is not required” after “educational institution or agency”.
+Subsec. (b)(2)(B). Pub. L. 112–278, § 2(2), inserted “, except when a parent is a party to a court proceeding involving child abuse and neglect (as defined in section 3 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 note)) or dependency matters, and the order is issued in the context of that proceeding, additional notice to the parent by the educational agency or institution is not required” after “educational institution or agency”.
 
 2010—Subsec. (b)(1)(K). Pub. L. 111–296, which directed that par. (1) be amended by adding subpar. (K) “at the end”, was executed by adding subpar. (K) after subpar. (J), to reflect the probable intent of Congress.
 
-2002—Subsec. (a)(1)(B). Pub. L. 107–110, § 1062(3)(A), realigned margins.
+2002—Subsec. (a)(1)(B). Pub. L. 107–110, § 1062(3)(A), realigned margins.
 
-Subsec. (b)(1). Pub. L. 107–110, § 1062(3)(C), substituted “subparagraph (E)” for “clause (E)” in concluding provisions.
+Subsec. (b)(1). Pub. L. 107–110, § 1062(3)(C), substituted “subparagraph (E)” for “clause (E)” in concluding provisions.
 
-Subsec. (b)(1)(J). Pub. L. 107–110, § 1062(3)(B), realigned margins.
+Subsec. (b)(1)(J). Pub. L. 107–110, § 1062(3)(B), realigned margins.
 
-Subsec. (b)(7). Pub. L. 107–110, § 1062(3)(D), realigned margins.
+Subsec. (b)(7). Pub. L. 107–110, § 1062(3)(D), realigned margins.
 
 2001—Subsec. (j). Pub. L. 107–56 added subsec. (j).
 
 2000—Subsec. (b)(7). Pub. L. 106–386 added par. (7).
 
-1998—Subsec. (b)(1)(C). Pub. L. 105–244, § 951(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “authorized representatives of (i) the Comptroller General of the United States, (ii) the Secretary, or (iii) State educational authorities, under the conditions set forth in paragraph (3) of this subsection;”.
+1998—Subsec. (b)(1)(C). Pub. L. 105–244, § 951(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “authorized representatives of (i) the Comptroller General of the United States, (ii) the Secretary, or (iii) State educational authorities, under the conditions set forth in paragraph (3) of this subsection;”.
 
-Subsec. (b)(6). Pub. L. 105–244, § 951(2), designated existing provisions as subpar. (A), substituted “or a nonforcible sex offense, the final results” for “the results”, substituted “such crime or offense” for “such crime” in two places, and added subpars. (B) and (C).
+Subsec. (b)(6). Pub. L. 105–244, § 951(2), designated existing provisions as subpar. (A), substituted “or a nonforcible sex offense, the final results” for “the results”, substituted “such crime or offense” for “such crime” in two places, and added subpars. (B) and (C).
 
-Subsec. (i). Pub. L. 105–244, § 952, added subsec. (i).
+Subsec. (i). Pub. L. 105–244, § 952, added subsec. (i).
 
-1994—Subsec. (a)(1)(B). Pub. L. 103–382, § 249(1)(A)(ii), added subpar. (B). Former subpar. (B) redesignated (C).
+1994—Subsec. (a)(1)(B). Pub. L. 103–382, § 249(1)(A)(ii), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (a)(1)(C). Pub. L. 103–382, § 249(1)(A)(i), (iii), redesignated subpar. (B) as (C) and substituted “subparagraph (D)” for “subparagraph (C)” in cl. (iii). Former subpar. (C) redesignated (D).
+Subsec. (a)(1)(C). Pub. L. 103–382, § 249(1)(A)(i), (iii), redesignated subpar. (B) as (C) and substituted “subparagraph (D)” for “subparagraph (C)” in cl. (iii). Former subpar. (C) redesignated (D).
 
-Subsec. (a)(1)(D). Pub. L. 103–382, § 249(1)(A)(i), (iv), redesignated subpar. (C) as (D) and substituted “subparagraph (C)” for “subparagraph (B)”.
+Subsec. (a)(1)(D). Pub. L. 103–382, § 249(1)(A)(i), (iv), redesignated subpar. (C) as (D) and substituted “subparagraph (C)” for “subparagraph (B)”.
 
-Subsec. (a)(2). Pub. L. 103–382, § 249(1)(B), substituted “privacy rights” for “privacy or other rights”.
+Subsec. (a)(2). Pub. L. 103–382, § 249(1)(B), substituted “privacy rights” for “privacy or other rights”.
 
-Subsec. (a)(4)(B)(ii). Pub. L. 103–382, § 261(h)(1), substituted semicolon for period at end.
+Subsec. (a)(4)(B)(ii). Pub. L. 103–382, § 261(h)(1), substituted semicolon for period at end.
 
-Subsec. (b)(1)(A). Pub. L. 103–382, § 249(2)(A)(i), inserted before semicolon “, including the educational interests of the child for whom consent would otherwise be required”.
+Subsec. (b)(1)(A). Pub. L. 103–382, § 249(2)(A)(i), inserted before semicolon “, including the educational interests of the child for whom consent would otherwise be required”.
 
-Subsec. (b)(1)(C). Pub. L. 103–382, § 261(h)(2)(A), substituted “or (iii)” for “(iii) an administrative head of an education agency (as defined in section 1221e–3(c) of this title), or (iv)”.
+Subsec. (b)(1)(C). Pub. L. 103–382, § 261(h)(2)(A), substituted “or (iii)” for “(iii) an administrative head of an education agency (as defined in section 1221e–3(c) of this title), or (iv)”.
 
-Subsec. (b)(1)(E). Pub. L. 103–382, § 249(2)(A)(ii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “State and local officials or authorities to whom such information is specifically required to be reported or disclosed pursuant to State statute adopted prior to November 19, 1974;”.
+Subsec. (b)(1)(E). Pub. L. 103–382, § 249(2)(A)(ii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “State and local officials or authorities to whom such information is specifically required to be reported or disclosed pursuant to State statute adopted prior to November 19, 1974;”.
 
-Subsec. (b)(1)(H). Pub. L. 103–382, § 261(h)(2)(B), substituted “the Internal Revenue Code of 1986” for “the Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (b)(1)(H). Pub. L. 103–382, § 261(h)(2)(B), substituted “the Internal Revenue Code of 1986” for “the Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-Subsec. (b)(1)(J). Pub. L. 103–382, § 249(2)(A)(iii)–(v), added subpar. (J).
+Subsec. (b)(1)(J). Pub. L. 103–382, § 249(2)(A)(iii)–(v), added subpar. (J).
 
-Subsec. (b)(2). Pub. L. 103–382, § 249(2)(B)(i), which directed amendment of matter preceding subpar. (A) by substituting “, unless—” for the period, was executed by substituting a comma for the period before “unless—” to reflect the probable intent of Congress.
+Subsec. (b)(2). Pub. L. 103–382, § 249(2)(B)(i), which directed amendment of matter preceding subpar. (A) by substituting “, unless—” for the period, was executed by substituting a comma for the period before “unless—” to reflect the probable intent of Congress.
 
-Subsec. (b)(2)(B). Pub. L. 103–382, § 249(2)(B)(ii), inserted “except as provided in paragraph (1)(J),” before “such information”.
+Subsec. (b)(2)(B). Pub. L. 103–382, § 249(2)(B)(ii), inserted “except as provided in paragraph (1)(J),” before “such information”.
 
-Subsec. (b)(3). Pub. L. 103–382, § 261(h)(2)(C), substituted “or (C)” for “(C) an administrative head of an education agency or (D)” and “education programs” for “education program”.
+Subsec. (b)(3). Pub. L. 103–382, § 261(h)(2)(C), substituted “or (C)” for “(C) an administrative head of an education agency or (D)” and “education programs” for “education program”.
 
-Subsec. (b)(4). Pub. L. 103–382, § 249(2)(C), inserted at end “If a third party outside the educational agency or institution permits access to information in violation of paragraph (2)(A), or fails to destroy information in violation of paragraph (1)(F), the educational agency or institution shall be prohibited from permitting access to information from education records to that third party for a period of not less than five years.”
+Subsec. (b)(4). Pub. L. 103–382, § 249(2)(C), inserted at end “If a third party outside the educational agency or institution permits access to information in violation of paragraph (2)(A), or fails to destroy information in violation of paragraph (1)(F), the educational agency or institution shall be prohibited from permitting access to information from education records to that third party for a period of not less than five years.”
 
-Subsec. (c). Pub. L. 103–382, § 249(3), substituted “Not later than 240 days after October 20, 1994, the Secretary shall adopt appropriate regulations or procedures, or identify existing regulations or procedures, which” for “The Secretary shall adopt appropriate regulations to”.
+Subsec. (c). Pub. L. 103–382, § 249(3), substituted “Not later than 240 days after October 20, 1994, the Secretary shall adopt appropriate regulations or procedures, or identify existing regulations or procedures, which” for “The Secretary shall adopt appropriate regulations to”.
 
-Subsec. (d). Pub. L. 103–382, § 261(h)(3), inserted a comma after “education”.
+Subsec. (d). Pub. L. 103–382, § 261(h)(3), inserted a comma after “education”.
 
-Subsec. (e). Pub. L. 103–382, § 249(4), inserted “effectively” before “informs”.
+Subsec. (e). Pub. L. 103–382, § 249(4), inserted “effectively” before “informs”.
 
-Subsec. (f). Pub. L. 103–382, § 261(h)(4), struck out “, or an administrative head of an education agency,” after “The Secretary” and substituted “enforce this section” for “enforce provisions of this section”, “in accordance with” for “according to the provisions of”, and “comply with this section” for “comply with the provisions of this section”.
+Subsec. (f). Pub. L. 103–382, § 261(h)(4), struck out “, or an administrative head of an education agency,” after “The Secretary” and substituted “enforce this section” for “enforce provisions of this section”, “in accordance with” for “according to the provisions of”, and “comply with this section” for “comply with the provisions of this section”.
 
-Subsec. (g). Pub. L. 103–382, § 261(h)(5), struck out “of Health, Education, and Welfare” after “the Department” and “the provisions of” after “adjudicating violations of”.
+Subsec. (g). Pub. L. 103–382, § 261(h)(5), struck out “of Health, Education, and Welfare” after “the Department” and “the provisions of” after “adjudicating violations of”.
 
-Subsec. (h). Pub. L. 103–382, § 249(5), added subsec. (h).
+Subsec. (h). Pub. L. 103–382, § 249(5), added subsec. (h).
 
 1992—Subsec. (a)(4)(B)(ii). Pub. L. 102–325 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “if the personnel of a law enforcement unit do not have access to education records under subsection (b)(1) of this section, the rec­ords and documents of such law enforcement unit which (I) are kept apart from records described in subparagraph (A), (II) are maintained solely for law enforcement purposes, and (III) are not made available to persons other than law enforcement officials of the same jurisdiction;”.
 
@@ -2175,23 +2175,23 @@ Subsec. (h). Pub. L. 103–382, § 249(5), added subsec. (h).
 
 1979—Subsec. (b)(5). Pub. L. 96–46 added par. (5).
 
-1974—Subsec. (a)(1). Pub. L. 93–568, § 2(a)(1)(A)–(C), (2)(A)–(C), (3), designated existing par. (1) as subpar. (A), substituted reference to educational agencies and institutions for reference to state or local educational agencies, institutions of higher education, community colleges, schools, agencies offering preschool programs, and other educational institutions, substituted the generic term education records for the enumeration of such records, and extended the right to inspect and review such records to parents of children who have been in attendance, and added subpars. (B) and (C).
+1974—Subsec. (a)(1). Pub. L. 93–568, § 2(a)(1)(A)–(C), (2)(A)–(C), (3), designated existing par. (1) as subpar. (A), substituted reference to educational agencies and institutions for reference to state or local educational agencies, institutions of higher education, community colleges, schools, agencies offering preschool programs, and other educational institutions, substituted the generic term education records for the enumeration of such records, and extended the right to inspect and review such records to parents of children who have been in attendance, and added subpars. (B) and (C).
 
-Subsec. (a)(2). Pub. L. 93–568, § 2(a)(4), substituted provisions making the availability of funds to educational agencies and institutions conditional on the granting of an opportunity for a hearing to parents of students who are or have been in attendance at such institution or agency to challenge the contents of the student’s education records for provisions granting the parents an opportunity for such hearing, and inserted provisions authorizing insertion into the records a written explanation of the parents respecting the content of such records.
+Subsec. (a)(2). Pub. L. 93–568, § 2(a)(4), substituted provisions making the availability of funds to educational agencies and institutions conditional on the granting of an opportunity for a hearing to parents of students who are or have been in attendance at such institution or agency to challenge the contents of the student’s education records for provisions granting the parents an opportunity for such hearing, and inserted provisions authorizing insertion into the records a written explanation of the parents respecting the content of such records.
 
-Subsec. (a)(3) to (6). Pub. L. 93–568, § 2(a)(1)(G), (2)(F), (5), added pars. (3) to (6).
+Subsec. (a)(3) to (6). Pub. L. 93–568, § 2(a)(1)(G), (2)(F), (5), added pars. (3) to (6).
 
-Subsec. (b)(1). Pub. L. 93–568, § 2(a)(1)(D), (2)(D), (6), (8)(A)–(C), (10)(A), in provisions preceding subpar. (A), substituted “educational agency or institution which has a policy of permitting the release of education records (or personally identifiable information contained therein other than directory information, as defined in paragraph (5) of subsection (a))” for “state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of permitting the release of personally identifiable records or files (or personal information contained therein)”, in subpar. (A), substituted “educational agency, who have been determined by such agency or institution to have” for “educational agency who have”, in subpar. (B), substituted “the student seeks or intends to” for “the student intends to”, in subpar. (C), substituted reference to “section 408(c)” for reference to “section 409 of this Act” which for purposes of codification has been translated as “section 1221e–3(c) of this title”, and added subpars. (E) to (I).
+Subsec. (b)(1). Pub. L. 93–568, § 2(a)(1)(D), (2)(D), (6), (8)(A)–(C), (10)(A), in provisions preceding subpar. (A), substituted “educational agency or institution which has a policy of permitting the release of education records (or personally identifiable information contained therein other than directory information, as defined in paragraph (5) of subsection (a))” for “state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of permitting the release of personally identifiable records or files (or personal information contained therein)”, in subpar. (A), substituted “educational agency, who have been determined by such agency or institution to have” for “educational agency who have”, in subpar. (B), substituted “the student seeks or intends to” for “the student intends to”, in subpar. (C), substituted reference to “section 408(c)” for reference to “section 409 of this Act” which for purposes of codification has been translated as “section 1221e–3(c) of this title”, and added subpars. (E) to (I).
 
-Subsec. (b)(2). Pub. L. 93–568, § 2(a)(1)(E), (2)(E), substituted “educational agency or institution which has a policy or practice of releasing, or providing access to, any personally identifiable information in education records other than directory information, or as is permitted under paragraph (1) of this subsection” for “state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of furnishing, in any form, any personally identifiable information contained in personal school records, to any persons other than those listed in subsection (b)(1) of this section”.
+Subsec. (b)(2). Pub. L. 93–568, § 2(a)(1)(E), (2)(E), substituted “educational agency or institution which has a policy or practice of releasing, or providing access to, any personally identifiable information in education records other than directory information, or as is permitted under paragraph (1) of this subsection” for “state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of furnishing, in any form, any personally identifiable information contained in personal school records, to any persons other than those listed in subsection (b)(1) of this section”.
 
-Subsec. (b)(3). Pub. L. 93–568, § 2(a)(8)(D), substituted “information is specifically authorized by Federal law, any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other than those officials, and such personally identifiable data shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements” for “data is specifically authorized by Federal law, any data collected by such officials with respect to individual students shall not include information (including social security numbers) which would permit the personal identification of such students or their parents after the data so obtained has been collected”.
+Subsec. (b)(3). Pub. L. 93–568, § 2(a)(8)(D), substituted “information is specifically authorized by Federal law, any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other than those officials, and such personally identifiable data shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements” for “data is specifically authorized by Federal law, any data collected by such officials with respect to individual students shall not include information (including social security numbers) which would permit the personal identification of such students or their parents after the data so obtained has been collected”.
 
-Subsec. (b)(4). Pub. L. 93–568, § 2(a)(9), substituted provisions that each educational agency or institution maintain a record, kept with the education records of each student, indicating individuals, agencies, or organizations who obtained access to the student’s record and the legitimate interest in obtaining such information, that such record of access shall be available only to parents, school officials, and their assistants having responsibility for the custody of such records, and as a means of auditing the operation of the system, for provisions that with respect to subsecs. (c)(1), (c)(2), and (c)(3) of this section, all persons, agencies, or organizations desiring access to the records of a student shall be required to sign forms to be kept with the rec­ords of the student, but only for inspection by the parents or the student, indicating specifically the legitimate educational or other interest of the person seeking such information, and that the form shall be available to parents and school officials having responsibility for record maintenance as a means of auditing the operation of the system.
+Subsec. (b)(4). Pub. L. 93–568, § 2(a)(9), substituted provisions that each educational agency or institution maintain a record, kept with the education records of each student, indicating individuals, agencies, or organizations who obtained access to the student’s record and the legitimate interest in obtaining such information, that such record of access shall be available only to parents, school officials, and their assistants having responsibility for the custody of such records, and as a means of auditing the operation of the system, for provisions that with respect to subsecs. (c)(1), (c)(2), and (c)(3) of this section, all persons, agencies, or organizations desiring access to the records of a student shall be required to sign forms to be kept with the rec­ords of the student, but only for inspection by the parents or the student, indicating specifically the legitimate educational or other interest of the person seeking such information, and that the form shall be available to parents and school officials having responsibility for record maintenance as a means of auditing the operation of the system.
 
-Subsec. (e). Pub. L. 93–568, § 2(a)(1)(F), substituted “to any educational agency or institution unless such agency or institution” for “unless the recipient of such funds”.
+Subsec. (e). Pub. L. 93–568, § 2(a)(1)(F), substituted “to any educational agency or institution unless such agency or institution” for “unless the recipient of such funds”.
 
-Subsec. (g). Pub. L. 93–568, § 2(a)(7), (10)(B), struck out reference to sections 1232c and 1232f of this title and inserted provisions that except for the conduct of hearings, none of the functions of the Secretary under this section shall be carried out in any of the regional offices of such Department.
+Subsec. (g). Pub. L. 93–568, § 2(a)(7), (10)(B), struck out reference to sections 1232c and 1232f of this title and inserted provisions that except for the conduct of hearings, none of the functions of the Secretary under this section shall be carried out in any of the regional offices of such Department.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2209,7 +2209,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–325, title XV, § 1555(b), July 23, 1992, 106 Stat. 840, provided that: “The amendment made by this section [amending this section] shall take effect on the date of enactment of this Act [July 23, 1992].”
+Pub. L. 102–325, title XV, § 1555(b), July 23, 1992, 106 Stat. 840, provided that: “The amendment made by this section [amending this section] shall take effect on the date of enactment of this Act [July 23, 1992].”
 
 **Effective Date of 1979 Amendment**
 
@@ -2217,13 +2217,13 @@ Amendment by Pub. L. 96–46 effective Oct. 1, 1978, see section 8 of Pub. L. 96
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–568, § 2(b), Dec. 31, 1974, 88 Stat. 1862, provided that: “The amendments made by subsection (a) [amending this section] shall be effective, and retroactive to, November 19, 1974.”
+Pub. L. 93–568, § 2(b), Dec. 31, 1974, 88 Stat. 1862, provided that: “The amendments made by subsection (a) [amending this section] shall be effective, and retroactive to, November 19, 1974.”
 
 **Effective Date**
 
-Pub. L. 93–380, title V, § 513(b)(1), Aug. 21, 1974, 88 Stat. 574, provided that: “The provisions of this section [enacting this section and provisions set out as a note under section 1221 of this title] shall become effective ninety days after the date of enactment [Aug. 21, 1974] of section 438 [now 444] of the General Education Provisions Act [this section].”
+Pub. L. 93–380, title V, § 513(b)(1), Aug. 21, 1974, 88 Stat. 574, provided that: “The provisions of this section [enacting this section and provisions set out as a note under section 1221 of this title] shall become effective ninety days after the date of enactment [Aug. 21, 1974] of section 438 [now 444] of the General Education Provisions Act [this section].”
 
-#### § 1232h. Protection of pupil rights
+#### § 1232h. Protection of pupil rights
 
 **(a) Inspection of instructional materials by parents or guardians**
 
@@ -2415,15 +2415,15 @@ Educational agencies and institutions shall give parents and students effective 
 
 The Secretary shall establish or designate an office and review board within the Department of Education to investigate, process, review, and adjudicate violations of the rights established under this section.
 
-(Pub. L. 90–247, title IV, § 445, formerly § 439, as added Pub. L. 93–380, title V, § 514(a), Aug. 21, 1974, 88 Stat. 574; amended Pub. L. 95–561, title XII, § 1250, Nov. 1, 1978, 92 Stat. 2355; Pub. L. 103–227, title X, § 1017, Mar. 31, 1994, 108 Stat. 268; renumbered § 445, Pub. L. 103–382, title II, § 212(b)(1), Oct. 20, 1994, 108 Stat. 3913; amended Pub. L. 107–110, title X, § 1061, Jan. 8, 2002, 115 Stat. 2083; Pub. L. 114–95, title IX, § 9215(mm)(5), Dec. 10, 2015, 129 Stat. 2176.)
+(Pub. L. 90–247, title IV, § 445, formerly § 439, as added Pub. L. 93–380, title V, § 514(a), Aug. 21, 1974, 88 Stat. 574; amended Pub. L. 95–561, title XII, § 1250, Nov. 1, 1978, 92 Stat. 2355; Pub. L. 103–227, title X, § 1017, Mar. 31, 1994, 108 Stat. 268; renumbered § 445, Pub. L. 103–382, title II, § 212(b)(1), Oct. 20, 1994, 108 Stat. 3913; amended Pub. L. 107–110, title X, § 1061, Jan. 8, 2002, 115 Stat. 2083; Pub. L. 114–95, title IX, § 9215(mm)(5), Dec. 10, 2015, 129 Stat. 2176.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Individuals with Disabilities Education Act, referred to in subsec. (c)(5)(A)(ii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c)(5)(A)(ii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(5)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title IV of the Act is classified generally to part A (§ 7101 et seq.) of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(5)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title IV of the Act is classified generally to part A (§ 7101 et seq.) of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 **Prior Provisions**
 
@@ -2433,7 +2433,7 @@ A prior section 445 of Pub. L. 90–247 was classified to section 1233d of this 
 
 2015—Subsec. (c)(5)(D). Pub. L. 114–95 substituted “part A of title IV” for “part A of title V”.
 
-2002—Subsec. (b)(1) to (8). Pub. L. 107–110, § 1061(1), added pars. (1) to (8) and struck out former pars. (1) to (7) which read as follows:
+2002—Subsec. (b)(1) to (8). Pub. L. 107–110, § 1061(1), added pars. (1) to (8) and struck out former pars. (1) to (7) which read as follows:
 
 “(1) political affiliations;
 
@@ -2449,7 +2449,7 @@ A prior section 445 of Pub. L. 90–247 was classified to section 1233d of this 
 
 “(7) income (other than that required by law to determine eligibility for participation in a program or for receiving financial assistance under such program),”.
 
-Subsec. (c) to (f). Pub. L. 107–110, § 1061(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+Subsec. (c) to (f). Pub. L. 107–110, § 1061(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
 1994—Pub. L. 103–227 amended section generally, substituting in subsec. (a), provisions relating to inspection of instructional materials by parents or guardians for similar provisions, in subsec. (b), provisions relating to limits on survey, analysis, or evaluations for provisions relating to psychiatric or psychological examinations, testing, or treatment, and adding subsecs. (c) to (e).
 
@@ -2471,9 +2471,9 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, see section 1530(a) of Pub
 
 **Effective Date**
 
-Pub. L. 93–380, title V, § 514(b), Aug. 21, 1974, 88 Stat. 574, provided that: “The amendment made by subsection (a) [enacting this section] shall be effective upon enactment of this Act [Aug. 21, 1974].”
+Pub. L. 93–380, title V, § 514(b), Aug. 21, 1974, 88 Stat. 574, provided that: “The amendment made by subsection (a) [enacting this section] shall be effective upon enactment of this Act [Aug. 21, 1974].”
 
-#### § 1232i. Limitations on withholding of Federal assistance
+#### § 1232i. Limitations on withholding of Federal assistance
 
 **(a) Refusal to supply personal data on students or families**
 
@@ -2495,13 +2495,13 @@ Except as provided in section 1232g(b)(1)(D) of this title, the refusal of a Sta
 
 It shall be unlawful for the Secretary to defer or limit any Federal financial assistance on the basis of any failure to comply with the imposition of quotas (or any other numerical requirements which have the effect of imposing quotas) on the student admission practices of an institution of higher education or community college receiving Federal financial assistance.
 
-(Pub. L. 90–247, title IV, § 446, formerly § 440, as added Pub. L. 93–380, title V, § 515(a), Aug. 21, 1974, 88 Stat. 574; amended Pub. L. 94–482, title IV, §§ 407, 408, Oct. 12, 1976, 90 Stat. 2232, 2233; renumbered § 446 and amended Pub. L. 103–382, title II, § 212(b)(1), (3)(C), Oct. 20, 1994, 108 Stat. 3913.)
+(Pub. L. 90–247, title IV, § 446, formerly § 440, as added Pub. L. 93–380, title V, § 515(a), Aug. 21, 1974, 88 Stat. 574; amended Pub. L. 94–482, title IV, §§ 407, 408, Oct. 12, 1976, 90 Stat. 2232, 2233; renumbered § 446 and amended Pub. L. 103–382, title II, § 212(b)(1), (3)(C), Oct. 20, 1994, 108 Stat. 3913.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 **Prior Provisions**
 
@@ -2509,7 +2509,7 @@ A prior section 446 of Pub. L. 90–247 was classified to section 1233e of this 
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–382, § 212(b)(3)(C), made technical amendment to reference to section 1232g(b)(1)(D) of this title to reflect renumbering of corresponding section of original act.
+1994—Subsec. (a). Pub. L. 103–382, § 212(b)(3)(C), made technical amendment to reference to section 1232g(b)(1)(D) of this title to reflect renumbering of corresponding section of original act.
 
 1976—Pub. L. 94–482 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -2521,9 +2521,9 @@ Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except eith
 
 **Effective Date**
 
-Pub. L. 93–380, title V, § 515(b), Aug. 21, 1974, 88 Stat. 574, provided that: “The amendment made by subsection (a) [enacting this section] shall be effective upon enactment of this Act [Aug. 21, 1974].”
+Pub. L. 93–380, title V, § 515(b), Aug. 21, 1974, 88 Stat. 574, provided that: “The amendment made by subsection (a) [enacting this section] shall be effective upon enactment of this Act [Aug. 21, 1974].”
 
-#### § 1232j. Prohibition on federally sponsored testing
+#### § 1232j. Prohibition on federally sponsored testing
 
 **(a) General prohibition**
 
@@ -2533,7 +2533,7 @@ Notwithstanding any other provision of Federal law and except as provided in sub
 
 Subsection (a) shall not apply to the Third International Mathematics and Science Study or other international comparative assessments developed under the authority of section 9543(a)(6) of this title and administered to only a representative sample of pupils in the United States and in foreign nations.
 
-(Pub. L. 90–247, title IV, § 447, as added Pub. L. 105–277, div. A, § 101(f) [title III, § 305(a)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–374; amended Pub. L. 107–110, title X, § 1062(4), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 107–279, title IV, § 404(c), Nov. 5, 2002, 116 Stat. 1985.)
+(Pub. L. 90–247, title IV, § 447, as added Pub. L. 105–277, div. A, § 101(f) [title III, § 305(a)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–374; amended Pub. L. 107–110, title X, § 1062(4), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 107–279, title IV, § 404(c), Nov. 5, 2002, 116 Stat. 1985.)
 
 **Editorial Notes**
 
@@ -2541,25 +2541,25 @@ Subsection (a) shall not apply to the Third International Mathematics and Scienc
 
 A prior section 447 of Pub. L. 90–247 was classified to section 1233f of this title prior to repeal by Pub. L. 103–382.
 
-Prior sections 1233 to 1233h comprising a former subchapter IV of this chapter were repealed by Pub. L. 103–382, title II, § 212(a)(2), Oct. 20, 1994, 108 Stat. 3913.
+Prior sections 1233 to 1233h comprising a former subchapter IV of this chapter were repealed by Pub. L. 103–382, title II, § 212(a)(2), Oct. 20, 1994, 108 Stat. 3913.
 
-Section 1233, Pub. L. 90–247, title IV, § 441, formerly § 431, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 170; renumbered § 441, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, defined terms for purposes of former subchapter IV of this chapter.
+Section 1233, Pub. L. 90–247, title IV, § 441, formerly § 431, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 170; renumbered § 441, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, defined terms for purposes of former subchapter IV of this chapter.
 
-Section 1233a, Pub. L. 90–247, title IV, § 442, formerly § 432, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 171; renumbered § 442, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 96–88, title III, § 301(a)(1), (b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 678, 692, authorized Secretary to establish necessary advisory councils.
+Section 1233a, Pub. L. 90–247, title IV, § 442, formerly § 432, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 171; renumbered § 442, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 96–88, title III, § 301(a)(1), (b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 678, 692, authorized Secretary to establish necessary advisory councils.
 
-Section 1233b, Pub. L. 90–247, title IV, § 443, formerly § 433, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 171; renumbered § 443, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, § 516(a), Aug. 21, 1974, 88 Stat. 575; Pub. L. 94–482, title IV, § 411, title V, § 501(a)(10), Oct. 12, 1976, 90 Stat. 2234, 2235; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to statutory advisory councils.
+Section 1233b, Pub. L. 90–247, title IV, § 443, formerly § 433, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 171; renumbered § 443, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, § 516(a), Aug. 21, 1974, 88 Stat. 575; Pub. L. 94–482, title IV, § 411, title V, § 501(a)(10), Oct. 12, 1976, 90 Stat. 2234, 2235; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to statutory advisory councils.
 
-Section 1233c, Pub. L. 90–247, title IV, § 444, formerly § 434, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 171; renumbered § 444, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to compensation and travel expenses of members of advisory councils.
+Section 1233c, Pub. L. 90–247, title IV, § 444, formerly § 434, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 171; renumbered § 444, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to compensation and travel expenses of members of advisory councils.
 
-Section 1233d, Pub. L. 90–247, title IV, § 445, formerly § 435, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 171; renumbered § 445, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, § 517(a), Aug. 21, 1974, 88 Stat. 575; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to professional, technical, and clerical staff of advisory councils.
+Section 1233d, Pub. L. 90–247, title IV, § 445, formerly § 435, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 171; renumbered § 445, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, § 517(a), Aug. 21, 1974, 88 Stat. 575; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to professional, technical, and clerical staff of advisory councils.
 
-Section 1233e, Pub. L. 90–247, title IV, § 446, formerly § 436, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 172; renumbered § 446, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to advisory council meetings.
+Section 1233e, Pub. L. 90–247, title IV, § 446, formerly § 436, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 172; renumbered § 446, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to advisory council meetings.
 
-Section 1233f, Pub. L. 90–247, title IV, § 447, formerly § 437, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 172; renumbered § 447, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, § 517(b), Aug. 21, 1974, 88 Stat. 575; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to auditing and review of advisory council activities.
+Section 1233f, Pub. L. 90–247, title IV, § 447, formerly § 437, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 172; renumbered § 447, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, § 517(b), Aug. 21, 1974, 88 Stat. 575; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to auditing and review of advisory council activities.
 
-Section 1233g, Pub. L. 90–247, title IV, § 448, formerly § 438, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 172; renumbered § 448, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended S. Res. 4, Feb. 4, 1977; Pub. L. 95–43, § 1(d), June 15, 1977, 91 Stat. 219; S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 103–437, § 7(a)(1), Nov. 2, 1994, 108 Stat. 4587, related to reports by Secretary.
+Section 1233g, Pub. L. 90–247, title IV, § 448, formerly § 438, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 172; renumbered § 448, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended S. Res. 4, Feb. 4, 1977; Pub. L. 95–43, § 1(d), June 15, 1977, 91 Stat. 219; S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 103–437, § 7(a)(1), Nov. 2, 1994, 108 Stat. 4587, related to reports by Secretary.
 
-Section 1233h, Pub. L. 90–247, title IV, § 449, as added Pub. L. 93–380, title V, § 518(a), Aug. 21, 1974, 88 Stat. 575, related to application of other laws to advisory councils under former subchapter IV of this chapter.
+Section 1233h, Pub. L. 90–247, title IV, § 449, as added Pub. L. 93–380, title V, § 518(a), Aug. 21, 1974, 88 Stat. 575, related to application of other laws to advisory councils under former subchapter IV of this chapter.
 
 **Amendments**
 
@@ -2579,13 +2579,13 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 **Codification**
 
-Pub. L. 103–382, title II, § 212(b)(2), Oct. 20, 1994, 108 Stat. 3913, redesignated subchapter V of this chapter as this subchapter.
+Pub. L. 103–382, title II, § 212(b)(2), Oct. 20, 1994, 108 Stat. 3913, redesignated subchapter V of this chapter as this subchapter.
 
 **Prior Provisions**
 
-A prior subchapter IV, consisting of sections 1233 to 1233h, was repealed by Pub. L. 103–382, title II, § 212(a)(2), Oct. 20, 1994, 108 Stat. 3913. See note set out under section 1232j of this title.
+A prior subchapter IV, consisting of sections 1233 to 1233h, was repealed by Pub. L. 103–382, title II, § 212(a)(2), Oct. 20, 1994, 108 Stat. 3913. See note set out under section 1232j of this title.
 
-### § 1234. Office of Administrative Law Judges
+### § 1234. Office of Administrative Law Judges
 
 **(a) Establishment; duties** The Secretary shall establish in the Department of Education an Office of Administrative Law Judges (hereinafter in this subchapter referred to as the “Office”) which shall conduct—
 
@@ -2641,7 +2641,7 @@ The Secretary shall establish a process for the voluntary mediation of disputes 
 
 The Secretary shall employ, assign, or transfer sufficient professional personnel, including judges of the Office, to ensure that all matters brought before the Office may be dealt with in a timely manner.
 
-(Pub. L. 90–247, title IV, § 451, as added Pub. L. 95–561, title XII, § 1232, Nov. 1, 1978, 92 Stat. 2346; amended Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 349.)
+(Pub. L. 90–247, title IV, § 451, as added Pub. L. 95–561, title XII, § 1232, Nov. 1, 1978, 92 Stat. 2346; amended Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 349.)
 
 **Editorial Notes**
 
@@ -2657,17 +2657,17 @@ The Federal Rules of Evidence, referred to in subsec. (h), are set out in the Ap
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–297, title III, § 3501(b), Apr. 28, 1988, 102 Stat. 357, provided that:
+Pub. L. 100–297, title III, § 3501(b), Apr. 28, 1988, 102 Stat. 357, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by this section [enacting sections 1234f to 1234i of this title and amending this section and sections 1232d and 1234a to 1234e of this title] shall be effective 180 days after the date of enactment of this Act [Apr. 28, 1988].
 
-> **“(2)** The amendments made by this part [part D (§ 3501) of title III of Pub. L. 100–297, enacting sections 1234f to 1234i of this title and amending this section and sections 1232d and 1234a to 1234e of this title] shall not apply to any case in which the recipient, prior to the effective date of this part, received a written notice that such recipient must return funds to the Department.”
+> **“(2)** The amendments made by this part [part D (§ 3501) of title III of Pub. L. 100–297, enacting sections 1234f to 1234i of this title and amending this section and sections 1232d and 1234a to 1234e of this title] shall not apply to any case in which the recipient, prior to the effective date of this part, received a written notice that such recipient must return funds to the Department.”
 
 **Effective Date**
 
 Subchapter effective 120 days after Nov. 1, 1978, see section 1261 of Pub. L. 95–561, set out as a note under section 1232c of this title.
 
-### § 1234a. Recovery of funds
+### § 1234a. Recovery of funds
 
 **(a) Preliminary departmental decision; grounds of determination; notice requirements; prima facie case; amount of funds recoverable**
 
@@ -2739,17 +2739,17 @@ No recipient under an applicable program shall be liable to return funds which w
 
 No interest shall be charged arising from a claim during the administrative review of the preliminary departmental decision.
 
-(Pub. L. 90–247, title IV, § 452, as added Pub. L. 95–561, title XII, § 1232, Nov. 1, 1978, 92 Stat. 2347; amended Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 350; Pub. L. 103–382, title II, § 250(a), Oct. 20, 1994, 108 Stat. 3926.)
+(Pub. L. 90–247, title IV, § 452, as added Pub. L. 95–561, title XII, § 1232, Nov. 1, 1978, 92 Stat. 2347; amended Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 350; Pub. L. 103–382, title II, § 250(a), Oct. 20, 1994, 108 Stat. 3926.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a)(2). Pub. L. 103–382, § 250(a)(1), substituted “establishing a prima facie case for the recovery of funds, including an analysis reflecting the value of the program services actually obtained in a determination of harm to the Federal interest.” for “stating a prima facie case for the recovery of funds.”
+1994—Subsec. (a)(2). Pub. L. 103–382, § 250(a)(1), substituted “establishing a prima facie case for the recovery of funds, including an analysis reflecting the value of the program services actually obtained in a determination of harm to the Federal interest.” for “stating a prima facie case for the recovery of funds.”
 
-Subsec. (b)(1). Pub. L. 103–382, § 250(a)(2), substituted “60 days” for “30 days”.
+Subsec. (b)(1). Pub. L. 103–382, § 250(a)(2), substituted “60 days” for “30 days”.
 
-Subsec. (d). Pub. L. 103–382, § 250(a)(3), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 103–382, § 250(a)(3), designated existing provisions as par. (1) and added par. (2).
 
 1988—Pub. L. 100–297 amended section generally, substituting provisions relating to recovery of funds for provisions relating to audit determinations.
 
@@ -2759,7 +2759,7 @@ Subsec. (d). Pub. L. 103–382, § 250(a)(3), designated existing provisions a
 
 Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
 
-### § 1234b. Measure of recovery
+### § 1234b. Measure of recovery
 
 **(a) Amount returned proportionate to extent of harm violation caused to an identifiable Federal interest; reduction; determination of identifiable Federal interest**
 
@@ -2801,7 +2801,7 @@ Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not a
 
 The Secretary shall periodically review the written requests for guidance submitted under this section to determine the need for new or supplementary regulatory or other guidance under applicable programs.
 
-(Pub. L. 90–247, title IV, § 453, as added Pub. L. 95–561, title XII, § 1232, Nov. 1, 1978, 92 Stat. 2349; amended Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 353.)
+(Pub. L. 90–247, title IV, § 453, as added Pub. L. 95–561, title XII, § 1232, Nov. 1, 1978, 92 Stat. 2349; amended Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 353.)
 
 **Editorial Notes**
 
@@ -2815,7 +2815,7 @@ The Secretary shall periodically review the written requests for guidance submit
 
 Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
 
-### § 1234c. Remedies for existing violations
+### § 1234c. Remedies for existing violations
 
 **(a)** Whenever the Secretary has reason to believe that any recipient of funds under any applicable program is failing to comply substantially with any requirement of law applicable to such funds, the Secretary may—
 
@@ -2829,7 +2829,7 @@ Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not a
 
 **(b)** Any action, or failure to take action, by the Secretary under this section shall not preclude the Secretary from seeking a recovery of funds under section 1234a of this title.
 
-(Pub. L. 90–247, title IV, § 454, as added Pub. L. 95–561, title XII, § 1232, Nov. 1, 1978, 92 Stat. 2349; amended Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 354.)
+(Pub. L. 90–247, title IV, § 454, as added Pub. L. 95–561, title XII, § 1232, Nov. 1, 1978, 92 Stat. 2349; amended Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 354.)
 
 **Editorial Notes**
 
@@ -2843,7 +2843,7 @@ Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not a
 
 Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
 
-### § 1234d. Withholding
+### § 1234d. Withholding
 
 **(a) Discretionary authority over further payments under applicable program**
 
@@ -2875,7 +2875,7 @@ Upon review of a decision of the Office by the Secretary, the findings of fact b
 
 **(2)** remands the decision of the Office.
 
-(Pub. L. 90–247, title IV, § 455, as added Pub. L. 95–561, title XII, § 1232, Nov. 1, 1978, 92 Stat. 2350; amended Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 354.)
+(Pub. L. 90–247, title IV, § 455, as added Pub. L. 95–561, title XII, § 1232, Nov. 1, 1978, 92 Stat. 2350; amended Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 354.)
 
 **Editorial Notes**
 
@@ -2889,7 +2889,7 @@ Upon review of a decision of the Office by the Secretary, the findings of fact b
 
 Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
 
-### § 1234e. Cease and desist orders
+### § 1234e. Cease and desist orders
 
 **(a) Issuance and contents of complaint** In accordance with section 1234c of this title, the Secretary may issue to a recipient under an applicable program a complaint which—
 
@@ -2917,7 +2917,7 @@ The report and order of the Office under this section shall become the final age
 
 **(2)** certifying the facts to the Attorney General who shall cause an appropriate proceeding to be brought for the enforcement of the order.
 
-(Pub. L. 90–247, title IV, § 456, as added Pub. L. 95–561, title XII, § 1232, Nov. 1, 1978, 92 Stat. 2351; amended Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 355.)
+(Pub. L. 90–247, title IV, § 456, as added Pub. L. 95–561, title XII, § 1232, Nov. 1, 1978, 92 Stat. 2351; amended Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 355.)
 
 **Editorial Notes**
 
@@ -2931,7 +2931,7 @@ The report and order of the Office under this section shall become the final age
 
 Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
 
-### § 1234f. Compliance agreements
+### § 1234f. Compliance agreements
 
 **(a) Discretionary authority; purposes of agreement**
 
@@ -2953,7 +2953,7 @@ In accordance with section 1234c of this title, the Secretary may enter into a c
 
 If a recipient fails to comply with the terms and conditions of a compliance agreement under this section, the Secretary may consider that compliance agreement to be no longer in effect, and the Secretary may take any action authorized by law with respect to the recipient.
 
-(Pub. L. 90–247, title IV, § 457, as added Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 355.)
+(Pub. L. 90–247, title IV, § 457, as added Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 355.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2961,7 +2961,7 @@ If a recipient fails to comply with the terms and conditions of a compliance agr
 
 Section effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1234 of this title.
 
-### § 1234g. Judicial review
+### § 1234g. Judicial review
 
 **(a) Recipients entitled to review; stay of action by Secretary**
 
@@ -2979,7 +2979,7 @@ The findings of fact by the Office, if supported by substantial evidence, shall 
 
 The court shall have jurisdiction to affirm the action of the Office or the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
-(Pub. L. 90–247, title IV, § 458, as added Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 356; amended Pub. L. 103–382, title II, § 212(b)(3)(D), Oct. 20, 1994, 108 Stat. 3913.)
+(Pub. L. 90–247, title IV, § 458, as added Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 356; amended Pub. L. 103–382, title II, § 212(b)(3)(D), Oct. 20, 1994, 108 Stat. 3913.)
 
 **Editorial Notes**
 
@@ -2993,7 +2993,7 @@ The court shall have jurisdiction to affirm the action of the Office or the Secr
 
 Section effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1234 of this title.
 
-### § 1234h. Use of recovered funds
+### § 1234h. Use of recovered funds
 
 **(a) Repayment to recipient; factors considered** Whenever the Secretary recovers funds paid to a recipient under a grant or cooperative agreement made under an applicable program because the recipient made an expenditure of funds that was not allowable, or otherwise failed to discharge its responsibility to account properly for funds, the Secretary may consider those funds to be additional funds available for that program and may arrange to repay to the recipient affected by that action an amount not to exceed 75 percent of the recovered funds if the Secretary determines that—
 
@@ -3019,15 +3019,15 @@ Section effective 180 days after Apr. 28, 1988, but not applicable to recipients
 
 At least 30 days prior to entering into an arrangement under this section, the Secretary shall publish in the Federal Register a notice of intent to enter into such an arrangement and the terms and conditions under which payments will be made. Interested persons shall have an opportunity for at least 30 days to submit comments to the Secretary regarding the proposed arrangement.
 
-(Pub. L. 90–247, title IV, § 459, as added Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 356; amended Pub. L. 103–382, title II, § 250(b), Oct. 20, 1994, 108 Stat. 3927.)
+(Pub. L. 90–247, title IV, § 459, as added Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 356; amended Pub. L. 103–382, title II, § 250(b), Oct. 20, 1994, 108 Stat. 3927.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a)(1). Pub. L. 103–382, § 250(b)(1), inserted before semicolon “, provided that the recipient was notified of any noncompliance with such requirements and given a reasonable period of time to remedy such noncompliance”.
+1994—Subsec. (a)(1). Pub. L. 103–382, § 250(b)(1), inserted before semicolon “, provided that the recipient was notified of any noncompliance with such requirements and given a reasonable period of time to remedy such noncompliance”.
 
-Subsec. (c). Pub. L. 103–382, § 250(b)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Notwithstanding any other provisions of law, the funds made available under this section shall remain available for expenditure for a period of time deemed reasonable by the Secretary, but in no case to exceed more than 3 fiscal years following the fiscal year in which final agency action under section 1234a(e) of this title is taken.”
+Subsec. (c). Pub. L. 103–382, § 250(b)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Notwithstanding any other provisions of law, the funds made available under this section shall remain available for expenditure for a period of time deemed reasonable by the Secretary, but in no case to exceed more than 3 fiscal years following the fiscal year in which final agency action under section 1234a(e) of this title is taken.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3035,29 +3035,29 @@ Subsec. (c). Pub. L. 103–382, § 250(b)(2), amended subsec. (c) generally. P
 
 Section effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1234 of this title.
 
-### § 1234i. Definitions
+### § 1234i. Definitions
 
 For purposes of this subchapter:
 
 **(1)** The term “recipient” means a recipient of a grant or cooperative agreement under an applicable program.
 
-**(2)** The term “applicable program” excludes programs authorized by the Higher Education Act of 1965 [20 U.S.C. 1001 et seq.] and assistance programs provided under the Act of September 30, 1950 1
+**(2)** The term “applicable program” excludes programs authorized by the Higher Education Act of 1965 [20 U.S.C. 1001 et seq.] and assistance programs provided under the Act of September 30, 1950 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Public Law 874, 81st Congress), and the Act of September 23, 1950 1 (Public Law 815, 81st Congress).
+(Public Law 874, 81st Congress), and the Act of September 23, 1950 1 (Public Law 815, 81st Congress).
 
-(Pub. L. 90–247, title IV, § 460, as added Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 357.)
+(Pub. L. 90–247, title IV, § 460, as added Pub. L. 100–297, title III, § 3501(a), Apr. 28, 1988, 102 Stat. 357.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in par. (2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in par. (2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-Act of September 30, 1950 (Public Law 874, 81st Congress), referred to in par. (2), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, which was classified generally to chapter 13 (§ 236 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950 (Public Law 874, 81st Congress), referred to in par. (2), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, which was classified generally to chapter 13 (§ 236 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
-Act of September 23, 1950 (Public Law 815, 81st Congress), referred to in par. (2), is act Sept. 23, 1950, ch. 995, as amended generally by act Aug. 12, 1958, Pub. L. 85–620, title I, 72 Stat. 548, which was classified generally to chapter 19 (§ 631 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, § 331(a), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Act of September 23, 1950 (Public Law 815, 81st Congress), referred to in par. (2), is act Sept. 23, 1950, ch. 995, as amended generally by act Aug. 12, 1958, Pub. L. 85–620, title I, 72 Stat. 548, which was classified generally to chapter 19 (§ 631 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, § 331(a), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3071,29 +3071,29 @@ Section effective 180 days after Apr. 28, 1988, but not applicable to recipients
 
 **Codification**
 
-This subchapter was classified to part G (§ 3161 et seq.) of subchapter IV of chapter 47 of this title prior to its renumbering by Pub. L. 103–252, title I, § 121(a)(1), May 18, 1994, 108 Stat. 649.
+This subchapter was classified to part G (§ 3161 et seq.) of subchapter IV of chapter 47 of this title prior to its renumbering by Pub. L. 103–252, title I, § 121(a)(1), May 18, 1994, 108 Stat. 649.
 
 **Prior Provisions**
 
-A prior subchapter V, consisting of sections 1234 to 1234i, was renumbered subchapter IV by Pub. L. 103–382, title II, § 212(b)(2), Oct. 20, 1994, 108 Stat. 3913.
+A prior subchapter V, consisting of sections 1234 to 1234i, was renumbered subchapter IV by Pub. L. 103–382, title II, § 212(b)(2), Oct. 20, 1994, 108 Stat. 3913.
 
-### §§ 1235 to 1235g. Repealed. Pub. L. 107–110, title X, § 1011(3), Jan. 8, 2002, 115 Stat. 1986
+### §§ 1235 to 1235g. Repealed. Pub. L. 107–110, title X, § 1011(3), Jan. 8, 2002, 115 Stat. 1986
 
-Section 1235, Pub. L. 90–247, title IV, § 471, formerly Pub. L. 89–10, title IV, § 4701, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3586; renumbered § 471 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, § 121(a)(1), (2)(A), May 18, 1994, 108 Stat. 649, authorized contracts, cooperative agreements, and grants to develop, produce, and distribute educational and instructional video programming for preschool and elementary school children and their parents.
+Section 1235, Pub. L. 90–247, title IV, § 471, formerly Pub. L. 89–10, title IV, § 4701, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3586; renumbered § 471 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, § 121(a)(1), (2)(A), May 18, 1994, 108 Stat. 649, authorized contracts, cooperative agreements, and grants to develop, produce, and distribute educational and instructional video programming for preschool and elementary school children and their parents.
 
-Section 1235a, Pub. L. 90–247, title IV, § 472, formerly Pub. L. 89–10, title IV, § 4702, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3586; renumbered § 472 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, § 121(a)(1), (b), May 18, 1994, 108 Stat. 649, related to development and dissemination of educational programming.
+Section 1235a, Pub. L. 90–247, title IV, § 472, formerly Pub. L. 89–10, title IV, § 4702, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3586; renumbered § 472 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, § 121(a)(1), (b), May 18, 1994, 108 Stat. 649, related to development and dissemination of educational programming.
 
-Section 1235b, Pub. L. 90–247, title IV, § 473, formerly Pub. L. 89–10, title IV, § 4703, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3587; renumbered § 473 of Pub. L. 90–247, Pub. L. 103–252, title I, § 121(a)(1), May 18, 1994, 108 Stat. 649, set forth duties of Secretary of Education.
+Section 1235b, Pub. L. 90–247, title IV, § 473, formerly Pub. L. 89–10, title IV, § 4703, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3587; renumbered § 473 of Pub. L. 90–247, Pub. L. 103–252, title I, § 121(a)(1), May 18, 1994, 108 Stat. 649, set forth duties of Secretary of Education.
 
-Section 1235c, Pub. L. 90–247, title IV, § 474, formerly Pub. L. 89–10, title IV, § 4704, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3588; renumbered § 474 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, § 121(a)(1), (2)(B), May 18, 1994, 108 Stat. 649, related to submission of applications.
+Section 1235c, Pub. L. 90–247, title IV, § 474, formerly Pub. L. 89–10, title IV, § 4704, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3588; renumbered § 474 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, § 121(a)(1), (2)(B), May 18, 1994, 108 Stat. 649, related to submission of applications.
 
-Section 1235d, Pub. L. 90–247, title IV, § 475, formerly Pub. L. 89–10, title IV, § 4705, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3588; renumbered § 475 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, § 121(a)(1), (2)(C), May 18, 1994, 108 Stat. 649; Pub. L. 107–110, title X, § 1062(5), Jan. 8, 2002, 115 Stat. 2088, required annual report to Secretary by any entity receiving funds and biannual report to Congress by Secretary.
+Section 1235d, Pub. L. 90–247, title IV, § 475, formerly Pub. L. 89–10, title IV, § 4705, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3588; renumbered § 475 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, § 121(a)(1), (2)(C), May 18, 1994, 108 Stat. 649; Pub. L. 107–110, title X, § 1062(5), Jan. 8, 2002, 115 Stat. 2088, required annual report to Secretary by any entity receiving funds and biannual report to Congress by Secretary.
 
-Section 1235e, Pub. L. 90–247, title IV, § 476, formerly Pub. L. 89–10, title IV, § 4706, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3589; renumbered § 476 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, § 121(a)(1), (2)(D), (c), May 18, 1994, 108 Stat. 649, authorized appropriations.
+Section 1235e, Pub. L. 90–247, title IV, § 476, formerly Pub. L. 89–10, title IV, § 4706, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3589; renumbered § 476 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, § 121(a)(1), (2)(D), (c), May 18, 1994, 108 Stat. 649, authorized appropriations.
 
-Section 1235f, Pub. L. 90–247, title IV, § 477, formerly Pub. L. 89–10, title IV, § 4707, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3589; renumbered § 477 of Pub. L. 90–247, Pub. L. 103–252, title I, § 121(a)(1), May 18, 1994, 108 Stat. 649; Pub. L. 107–110, title X, § 1062(6), Jan. 8, 2002, 115 Stat. 2088, related to administrative costs.
+Section 1235f, Pub. L. 90–247, title IV, § 477, formerly Pub. L. 89–10, title IV, § 4707, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3589; renumbered § 477 of Pub. L. 90–247, Pub. L. 103–252, title I, § 121(a)(1), May 18, 1994, 108 Stat. 649; Pub. L. 107–110, title X, § 1062(6), Jan. 8, 2002, 115 Stat. 2088, related to administrative costs.
 
-Section 1235g, Pub. L. 90–247, title IV, § 478, formerly Pub. L. 89–10, title IV, § 4708, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3589; renumbered § 478 of Pub. L. 90–247, Pub. L. 103–252, title I, § 121(a)(1), May 18, 1994, 108 Stat. 649, defined “distance learning” for purposes of this subchapter.
+Section 1235g, Pub. L. 90–247, title IV, § 478, formerly Pub. L. 89–10, title IV, § 4708, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3589; renumbered § 478 of Pub. L. 90–247, Pub. L. 103–252, title I, § 121(a)(1), May 18, 1994, 108 Stat. 649, defined “distance learning” for purposes of this subchapter.
 
 **Statutory Notes and Related Subsidiaries**
 

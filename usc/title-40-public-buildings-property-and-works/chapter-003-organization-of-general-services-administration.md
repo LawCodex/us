@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–313, §§ 2(a)(2), 3(h)(3), Oct. 6, 2006, 120 Stat. 1734, 1736, substituted “Federal Acquisition Service” for “Functions” in item 303 and “Acquisition Services Fund” for “General Supply Fund” in item 321 and struck out item 322 “Information Technology Fund”.
+2006—Pub. L. 109–313, §§ 2(a)(2), 3(h)(3), Oct. 6, 2006, 120 Stat. 1734, 1736, substituted “Federal Acquisition Service” for “Functions” in item 303 and “Acquisition Services Fund” for “General Supply Fund” in item 321 and struck out item 322 “Information Technology Fund”.
 
-2002—Pub. L. 107–347, title I, § 102(a)(2), Dec. 17, 2002, 116 Stat. 2910, added item 305.
+2002—Pub. L. 107–347, title I, § 102(a)(2), Dec. 17, 2002, 116 Stat. 2910, added item 305.
 
 ## SUBCHAPTER I—GENERAL
 
-### § 301. Establishment
+### § 301. Establishment
 
 The General Services Administration is an agency in the executive branch of the Federal Government.
 
@@ -35,7 +35,7 @@ The General Services Administration is an agency in the executive branch of the 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 301 | 40:751(a). | June 30, 1949, ch. 288, title I, § 101(a), 63 Stat. 379. |
+| 301 | 40:751(a). | June 30, 1949, ch. 288, title I, § 101(a), 63 Stat. 379. |
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -104,7 +104,7 @@ There shall be transferred from time to time, between the agencies concerned and
 
 The provisions of this reorganization plan shall take effect on the 1st day of July 1950.
 
-[The Post Office Department has been redesignated the United States Postal Service pursuant to Pub. L. 91–375, § 6(*o*), Aug. 12, 1970, 84 Stat. 783, set out as a note preceding section 101 of Title 39, Postal Service.]
+[The Post Office Department has been redesignated the United States Postal Service pursuant to Pub. L. 91–375, § 6(*o*), Aug. 12, 1970, 84 Stat. 783, set out as a note preceding section 101 of Title 39, Postal Service.]
 
 **Message of the President**
 
@@ -138,7 +138,7 @@ Harry S Truman.
 
 **Ex. Ord. No. 13538. Establishing the President’s Management Advisory Board**
 
-Ex. Ord. No. 13538, Apr. 19, 2010, 75 F.R. 20895, as amended by Ex. Ord. No. 13652, § 4, Sept. 30, 2013, 78 F.R. 61818, provided:
+Ex. Ord. No. 13538, Apr. 19, 2010, 75 F.R. 20895, as amended by Ex. Ord. No. 13652, § 4, Sept. 30, 2013, 78 F.R. 61818, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -186,7 +186,7 @@ Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30,
 
 Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 2013.
 
-### § 302. Administrator and Deputy Administrator
+### § 302. Administrator and Deputy Administrator
 
 **(a) Administrator.—** The Administrator of General Services is the head of the General Services Administration. The Administrator is appointed by the President with the advice and consent of the Senate. The Administrator shall perform functions subject to the direction and control of the President.
 
@@ -198,9 +198,9 @@ Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 302 | 40:751(b), (c). | June 30, 1949, ch. 288, title I, § 101(b), (c), 63 Stat. 379. |
+| 302 | 40:751(b), (c). | June 30, 1949, ch. 288, title I, § 101(b), (c), 63 Stat. 379. |
 
-### § 303. Federal Acquisition Service
+### § 303. Federal Acquisition Service
 
 **(a) Establishment.—** There is established in the General Services Administration a Federal Acquisition Service. The Administrator of General Services shall appoint a Commissioner of the Federal Acquisition Service, who shall be the head of the Federal Acquisition Service.
 
@@ -208,15 +208,15 @@ Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 
 
 **(c) Regional Executives.—** The Administrator may appoint Regional Executives in the Federal Acquisition Service, to carry out such functions within the Federal Acquisition Service as the Administrator considers appropriate.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1072; Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1072; Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 303(a)(1) | 40:752(a). | June 30, 1949, ch. 288, title I, § 102, 63 Stat. 380; Sept. 5, 1950, ch. 849, § 6(a), 64 Stat. 583. |
+| 303(a)(1) | 40:752(a). | June 30, 1949, ch. 288, title I, § 102, 63 Stat. 380; Sept. 5, 1950, ch. 849, § 6(a), 64 Stat. 583. |
 | 303(a)(2) | 40:752(c). |  |
-| 303(b) | 40:753. | June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380. |
+| 303(b) | 40:753. | June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380. |
 
 In subsection (a)(1), the text of 40:752(a) (2d, last sentences) is omitted as executed.
 
@@ -256,7 +256,7 @@ In subsection (b), the text of 40:753(a) (related to Public Roads) is omitted be
 
 **Change of Name**
 
-Pub. L. 109–313, § 2(c), Oct. 6, 2006, 120 Stat. 1735, provided that:
+Pub. L. 109–313, § 2(c), Oct. 6, 2006, 120 Stat. 1735, provided that:
 
 > “Any reference in any other Federal law, Executive order, rule, regulation, reorganization plan, or delegation of authority, or in any document—
 
@@ -278,7 +278,7 @@ Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section
 
 For assignment of certain emergency preparedness functions to the Administrator of General Services, see Parts 1, 2, and 18 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
-### § 304. Federal information centers
+### § 304. Federal information centers
 
 The Administrator of General Services may establish within the General Services Administration a nationwide network of federal information centers for the purpose of providing the public with information about the programs and procedures of the Federal Government and for other appropriate and related purposes.
 
@@ -288,15 +288,15 @@ The Administrator of General Services may establish within the General Services 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 304 | 40:760. | June 30, 1949, ch. 288, title I, § 112, as added Pub. L. 95–491, § 2(a), Oct. 20, 1978, 92 Stat. 1641. |
+| 304 | 40:760. | June 30, 1949, ch. 288, title I, § 112, as added Pub. L. 95–491, § 2(a), Oct. 20, 1978, 92 Stat. 1641. |
 
 The text of 40:760(b) is omitted as unnecessary because of section 121(b)(1) of the revised title. The text of 40:760(c) is omitted because the authorization for fiscal year ending September 30, 1980 is obsolete and the authorization for “such sums as may be necessary” for succeeding years is unnecessary.
 
-### § 305. Electronic Government and information technologies
+### § 305. Electronic Government and information technologies
 
 The Administrator of General Services shall consult with the Administrator of the Office of Electronic Government on programs undertaken by the General Services Administration to promote electronic Government and the efficient use of information technologies by Federal agencies.
 
-(Added Pub. L. 107–347, title I, § 102(a)(1), Dec. 17, 2002, 116 Stat. 2910.)
+(Added Pub. L. 107–347, title I, § 102(a)(1), Dec. 17, 2002, 116 Stat. 2910.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -306,7 +306,7 @@ Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 10
 
 ## SUBCHAPTER II—ADMINISTRATIVE
 
-### § 311. Personnel
+### § 311. Personnel
 
 **(a) Appointment and Compensation.—** The Administrator of General Services, subject to chapters 33 and 51 and subchapter III of chapter 53 of title 5, may appoint and fix the compensation of personnel necessary to carry out chapters 1, 3, and 5 of this title and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
@@ -316,14 +316,14 @@ Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 10
 
 **(d) Detail of Field Personnel to District of Columbia.—** The Administrator, in the Administrator’s discretion, may detail field personnel of the Administration to the District of Columbia for temporary duty for a period of not more than 30 days in any one case. Subsistence or similar expenses may not be allowed for an employee on temporary duty in the District of Columbia under this paragraph.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1072; Pub. L. 111–350, § 5(*l*)(5), Jan. 4, 2011, 124 Stat. 3851.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1072; Pub. L. 111–350, § 5(*l*)(5), Jan. 4, 2011, 124 Stat. 3851.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 311(a)–(c) | 40:758. | June 30, 1949, ch. 288, title II, § 208, 63 Stat. 391; Sept. 5, 1950, ch. 849, § 7(b), (c), 64 Stat. 590. |
-| 311(d) | 40:253. | June 23, 1913, ch. 3, § 1 (proviso on p. 17), 38 Stat. 17. |
+| 311(a)–(c) | 40:758. | June 30, 1949, ch. 288, title II, § 208, 63 Stat. 391; Sept. 5, 1950, ch. 849, § 7(b), (c), 64 Stat. 590. |
+| 311(d) | 40:253. | June 23, 1913, ch. 3, § 1 (proviso on p. 17), 38 Stat. 17. |
 
 In subsections (a) and (b), the words “and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” are added to provide an accurate literal translation of the words “this Act”, meaning the Federal Property and Administrative Services Act of 1949. See the revision note under section 111 of this title. Reference to title V of this Act is omitted as obsolete because of the Act of October 22, 1968 (Public Law 90–620, 82 Stat. 1238), the first section of which enacted Title 44, United States Code. The responsibilities of the Administrator of General Services under title V were given to the Archivist of the United States, National Historical Publications and Records Commission, and Advisory Committee on the Records of Congress.
 
@@ -341,11 +341,11 @@ In subsection (d), the words “On and after June 23, 1913” are omitted as obs
 
 2011—Subsecs. (a), (b). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
-### [§ 312. Repealed. Pub. L. 111–8, div. D, title V, § 518(c)(1), Mar. 11, 2009, 123 Stat. 665]
+### [§ 312. Repealed. Pub. L. 111–8, div. D, title V, § 518(c)(1), Mar. 11, 2009, 123 Stat. 665]
 
 Section, Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1073, related to transfer and use of amounts for major equipment acquisitions.
 
-### § 313. Tests of materials
+### § 313. Tests of materials
 
 **(a) Scope.—** This section applies to any article or commodity tendered by a producer or vendor for sale or lease to the General Services Administration or to any procurement authority acting under the direction and control of the Administrator of General Services pursuant to this subtitle.
 
@@ -369,7 +369,7 @@ Section, Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1073, related to transfer a
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 313(a) | 40:756(g) (1st sentence words before 1st comma). | June 30, 1949, ch. 288, title I, § 109(g) (1st–3d sentences), as added Sept. 5, 1950, ch. 849, § 3(b), 64 Stat. 579; Pub. L. 86–591, July 5, 1960, 74 Stat. 330. |
+| 313(a) | 40:756(g) (1st sentence words before 1st comma). | June 30, 1949, ch. 288, title I, § 109(g) (1st–3d sentences), as added Sept. 5, 1950, ch. 849, § 3(b), 64 Stat. 579; Pub. L. 86–591, July 5, 1960, 74 Stat. 330. |
 | 313(b) | 40:756(g) (1st sentence words after 1st comma). |  |
 | 313(c) | 40:756(g) (2d, 3d sentences). |  |
 
@@ -377,7 +377,7 @@ In subsection (b), the word “contemplated” is omitted as unnecessary.
 
 ## SUBCHAPTER III—FUNDS
 
-### § 321. Acquisition Services Fund
+### § 321. Acquisition Services Fund
 
 **(a) Existence.—** The Acquisition Services Fund is a special fund in the Treasury.
 
@@ -461,7 +461,7 @@ In subsection (b), the word “contemplated” is omitted as unnecessary.
 
 **(g) Audits.—** The Comptroller General shall audit the Fund in accordance with the provisions of chapter 35 of title 31 and report the results of the audits.
 
-**(h) 1 [footnote: 1 See Delayed Effective Date of Amendment note below.] Requirement for Annual Report to Congress.—** Not later than September 30 of each year, the Administrator shall submit to the Committee on Oversight and Accountability of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes, at a minimum, a list of each program within the Technology Transformation Services funded by expenditures during the previous fiscal year, or that have been funded by expenditures in the previous 5-year period, including the following:
+**(h) 1 [footnote: 1 See Delayed Effective Date of Amendment note below.] Requirement for Annual Report to Congress.—** Not later than September 30 of each year, the Administrator shall submit to the Committee on Oversight and Accountability of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes, at a minimum, a list of each program within the Technology Transformation Services funded by expenditures during the previous fiscal year, or that have been funded by expenditures in the previous 5-year period, including the following:
 
 **(1)** An explanation of the program.
 
@@ -483,7 +483,7 @@ In subsection (b), the word “contemplated” is omitted as unnecessary.
 
 **(2) Expenditure.—** The term “expenditure” means any obligation of funds from the Acquisition Services Fund for programs referenced in subsection (h).
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1074; Pub. L. 109–313, § 3(d)–(g), (h)(2), Oct. 6, 2006, 120 Stat. 1735, 1736; Pub. L. 113–235, div. H, title I, § 1301(d), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 118–182, § 2(b), Dec. 23, 2024, 138 Stat. 2624.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1074; Pub. L. 109–313, § 3(d)–(g), (h)(2), Oct. 6, 2006, 120 Stat. 1735, 1736; Pub. L. 113–235, div. H, title I, § 1301(d), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 118–182, § 2(b), Dec. 23, 2024, 138 Stat. 2624.)
 
 **Delayed Effective Date of Amendment**
 
@@ -493,14 +493,14 @@ Amendment by section 2(b) of Pub. L. 118–182 adding subsecs. (h) and (i) of th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 321(a) | 40:756(a) (1st sentence). | June 30, 1949, ch. 288, title I, § 109(a)–(c), (e), (f), 63 Stat. 382; Sept. 5, 1950, ch. 849, §§ 1, 2(a), (b), 3(a), 64 Stat. 578, 579; July 12, 1952, ch. 703, § 1(c)–(e), 66 Stat. 593; Pub. L. 87–372, Oct. 4, 1961, 75 Stat. 802; Pub. L. 87–600, § 1(a), (b), (d), Aug. 24, 1962, 76 Stat. 401; Pub. L. 93–604, title VII, § 701, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 94–273, § 2(19), Apr. 21, 1976, 90 Stat. 375; Pub. L. 100–202, § 101(m) [title VI, § 619(a), (b)], Dec. 22, 1987, 101 Stat. 1329–427. |
+| 321(a) | 40:756(a) (1st sentence). | June 30, 1949, ch. 288, title I, § 109(a)–(c), (e), (f), 63 Stat. 382; Sept. 5, 1950, ch. 849, §§ 1, 2(a), (b), 3(a), 64 Stat. 578, 579; July 12, 1952, ch. 703, § 1(c)–(e), 66 Stat. 593; Pub. L. 87–372, Oct. 4, 1961, 75 Stat. 802; Pub. L. 87–600, § 1(a), (b), (d), Aug. 24, 1962, 76 Stat. 401; Pub. L. 93–604, title VII, § 701, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 94–273, § 2(19), Apr. 21, 1976, 90 Stat. 375; Pub. L. 100–202, § 101(m) [title VI, § 619(a), (b)], Dec. 22, 1987, 101 Stat. 1329–427. |
 | 321(b)(1) | 40:756(a) (2d sentence). |  |
 | 321(b)(2) | 40:756(c). |  |
-| 321(b)(3) | 40:756(g) (last sentence). | June 30, 1949, ch. 288, title I, § 109(g) (last sentence), as added Sept. 5, 1950, ch. 849, § 3(b), 64 Stat. 579; Pub. L. 86–591, July 5, 1960, 74 Stat. 330. |
+| 321(b)(3) | 40:756(g) (last sentence). | June 30, 1949, ch. 288, title I, § 109(g) (last sentence), as added Sept. 5, 1950, ch. 849, § 3(b), 64 Stat. 579; Pub. L. 86–591, July 5, 1960, 74 Stat. 330. |
 | 321(c)(1) | 40:756(a) (last sentence). |  |
 | 321(c)(2) | 40:756(f). |  |
 | 321(d) | 40:756(b). |  |
-| 321(e) | 40:756b. | Pub. L. 99–500, § 151, Oct. 18, 1986, 100 Stat. 1783–352; Pub. L. 99–591, § 151, Oct. 30, 1986, 100 Stat. 3341–355; Pub. L. 100–202, § 101(i) [title I, § 4], Dec. 22, 1987, 101 Stat. 1329–294; Pub. L. 104–186, title II, § 221(15), Aug. 20, 1996, 110 Stat. 1750. |
+| 321(e) | 40:756b. | Pub. L. 99–500, § 151, Oct. 18, 1986, 100 Stat. 1783–352; Pub. L. 99–591, § 151, Oct. 30, 1986, 100 Stat. 3341–355; Pub. L. 100–202, § 101(i) [title I, § 4], Dec. 22, 1987, 101 Stat. 1329–294; Pub. L. 104–186, title II, § 221(15), Aug. 20, 1996, 110 Stat. 1750. |
 | 321(f)(1) | 40:756(e)(1). |  |
 | 321(f)(2) | 40:756a. | Pub. L. 97–12, title I, (proviso in par. under heading “General Supply Fund”), June 5, 1981, 95 Stat. 75. |
 | 321(g) | 40:756(e)(2). |  |
@@ -525,15 +525,15 @@ In subsection (f)(2), the words “on and after June 5, 1981” are omitted as o
 
 2024—Subsecs. (h), (i). Pub. L. 118–182 added subsecs. (h) and (i).
 
-2006—Pub. L. 109–313, § 3(h)(2), substituted “Acquisition Services Fund” for “General Supply Fund” in section catchline.
+2006—Pub. L. 109–313, § 3(h)(2), substituted “Acquisition Services Fund” for “General Supply Fund” in section catchline.
 
-Subsecs. (a), (b). Pub. L. 109–313, § 3(d), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) related to the existence and composition, respectively, of the General Supply Fund.
+Subsecs. (a), (b). Pub. L. 109–313, § 3(d), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) related to the existence and composition, respectively, of the General Supply Fund.
 
-Subsec. (c)(1)(A)(iii). Pub. L. 109–313, § 3(e), added cl. (iii).
+Subsec. (c)(1)(A)(iii). Pub. L. 109–313, § 3(e), added cl. (iii).
 
-Subsec. (d)(2)(A)(v), (vi). Pub. L. 109–313, § 3(f), added cl. (v) and redesignated former cl. (v) as (vi).
+Subsec. (d)(2)(A)(v), (vi). Pub. L. 109–313, § 3(f), added cl. (v) and redesignated former cl. (v) as (vi).
 
-Subsec. (f). Pub. L. 109–313, § 3(g), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows:
+Subsec. (f). Pub. L. 109–313, § 3(g), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows:
 
 “(1) Surplus deposited in treasury.—As of September 30 of each year, any surplus in the Fund above the amounts transferred or appropriated to establish and maintain the Fund (all assets, liabilities, and prior losses considered) shall be deposited in the Treasury as miscellaneous receipts.
 
@@ -547,7 +547,7 @@ Subsec. (f). Pub. L. 109–313, § 3(g), amended heading and text of subsec. (
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–182, § 2(c), Dec. 23, 2024, 138 Stat. 2624, provided that: “The amendment made by this Act [amending this section and section 323 of this title] shall take effect on the commencement of the first fiscal year after the date of the enactment of this Act [Dec. 23, 2024].”
+Pub. L. 118–182, § 2(c), Dec. 23, 2024, 138 Stat. 2624, provided that: “The amendment made by this Act [amending this section and section 323 of this title] shall take effect on the commencement of the first fiscal year after the date of the enactment of this Act [Dec. 23, 2024].”
 
 **Effective Date of 2006 Amendment**
 
@@ -555,7 +555,7 @@ Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section
 
 **Acquisition Services Fund**
 
-Pub. L. 109–313, § 3(a)–(c), Oct. 6, 2006, 120 Stat. 1735, provided that:
+Pub. L. 109–313, § 3(a)–(c), Oct. 6, 2006, 120 Stat. 1735, provided that:
 
 > **“(a) Abolishment of General Supply Fund and Information Technology Fund.—** The General Supply Fund and the Information Technology Fund in the Treasury are hereby abolished.
 
@@ -563,7 +563,7 @@ Pub. L. 109–313, § 3(a)–(c), Oct. 6, 2006, 120 Stat. 1735, provided that:
 
 > **“(c) Assumption of Obligations.—** Any liabilities, commitments, and obligations of the General Supply Fund and the Information Technology Fund as in existence immediately before this section takes effect shall be assumed by the Acquisition Services Fund.”
 
-### [§ 322. Repealed. Pub. L. 109–313, § 3(h)(1), Oct. 6, 2006, 120 Stat. 1736]
+### [§ 322. Repealed. Pub. L. 109–313, § 3(h)(1), Oct. 6, 2006, 120 Stat. 1736]
 
 Section, Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1076, related to an Information Technology Fund in the Treasury.
 
@@ -573,7 +573,7 @@ Section, Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1076, related to an Informa
 
 Repeal effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313, set out as an Effective Date of 2006 Amendment note under section 5316 of Title 5, Government Organization and Employees.
 
-### § 323. Consumer Information Center Fund 1 [footnote: 1 So in original. Probably should be “Federal Citizen Services Fund”.]
+### § 323. Consumer Information Center Fund 1 [footnote: 1 So in original. Probably should be “Federal Citizen Services Fund”.]
 
 **(a) Existence.—** There is in the Treasury a Federal Citizen Services Fund, General Services Administration, for the purpose of disseminating Federal Government information to the public and for other related purposes.
 
@@ -585,21 +585,21 @@ Repeal effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313,
 
 **(3)** reimbursements from other federal agencies for costs of distributing publications; and
 
-**(4)** any other income incident to Center 2
+**(4)** any other income incident to Center 2
 
-<sup>2</sup>  So in original. See 2009 Amendment notes below.
+<sup>2</sup> So in original. See 2009 Amendment notes below.
 
 activities.
 
-**(c) Expenditures.—** Money deposited into the Fund is available for expenditure for Center <sup>2</sup> activities in amounts specified in appropriation laws. The Fund shall assume all liabilities, obligations, and commitments of the Center <sup>2</sup> account.
+**(c) Expenditures.—** Money deposited into the Fund is available for expenditure for Center <sup>2</sup> activities in amounts specified in appropriation laws. The Fund shall assume all liabilities, obligations, and commitments of the Center <sup>2</sup> account.
 
 **(d) Unobligated Balances.—** Any unobligated balances at the end of a fiscal year remain in the Fund and are available for authorization in appropriation laws for subsequent fiscal years.
 
-**(e) Gift Account.—** The Center <sup>2</sup> may accept and deposit to this account gifts for purposes of defraying the costs of printing, publishing, and distributing consumer information and educational materials and undertaking other consumer information activities. In addition to amounts appropriated or otherwise made available, the Center <sup>2</sup> may expend the gifts for these purposes and any balance remains available for expenditure.
+**(e) Gift Account.—** The Center <sup>2</sup> may accept and deposit to this account gifts for purposes of defraying the costs of printing, publishing, and distributing consumer information and educational materials and undertaking other consumer information activities. In addition to amounts appropriated or otherwise made available, the Center <sup>2</sup> may expend the gifts for these purposes and any balance remains available for expenditure.
 
 **(f)** The Administrator may enter into agreements with federal agencies to provide services through the Fund on a fully reimbursable basis.
 
-**(g) 3 [footnote: 3 See Delayed Effective Date of Amendment note below.] Requirement for Annual Report to Congress.—** Not later than September 30 of each year, the Administrator shall submit to the Committee on Oversight and Accountability of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes, at a minimum, a list of each program funded by expenditures during the previous fiscal year, or that have been funded by expenditures in the previous 5-year period, including the following:
+**(g) 3 [footnote: 3 See Delayed Effective Date of Amendment note below.] Requirement for Annual Report to Congress.—** Not later than September 30 of each year, the Administrator shall submit to the Committee on Oversight and Accountability of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes, at a minimum, a list of each program funded by expenditures during the previous fiscal year, or that have been funded by expenditures in the previous 5-year period, including the following:
 
 **(1)** An explanation of the program.
 
@@ -621,13 +621,13 @@ activities.
 
 **(2) Expenditure.—** The term “expenditure” means any obligation of funds from the Fund.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1077; Pub. L. 111–8, div. D, title V, § 516, Mar. 11, 2009, 123 Stat. 664; Pub. L. 117–103, div. E, title V, § 527, Mar. 15, 2022, 136 Stat. 276; Pub. L. 118–182, § 2(a), Dec. 23, 2024, 138 Stat. 2623.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1077; Pub. L. 111–8, div. D, title V, § 516, Mar. 11, 2009, 123 Stat. 664; Pub. L. 117–103, div. E, title V, § 527, Mar. 15, 2022, 136 Stat. 276; Pub. L. 118–182, § 2(a), Dec. 23, 2024, 138 Stat. 2623.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 323(a)–(d) | 40:761. | Pub. L. 98–63, title I, § 101 (1st–9th sentences in par. under heading “Consumer Information Center Fund”), July 30, 1983, 97 Stat. 321. |
+| 323(a)–(d) | 40:761. | Pub. L. 98–63, title I, § 101 (1st–9th sentences in par. under heading “Consumer Information Center Fund”), July 30, 1983, 97 Stat. 321. |
 | 323(e) | 40:761a. | Pub. L. 105–65, title III, (last proviso in par. under heading “Consumer Information Center Fund”), Oct. 27, 1997, 111 Stat. 1377. |
 
 In this section, the text of 40:761 (6th–last sentences) is omitted as obsolete.

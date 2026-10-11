@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1996—Pub. L. 104–294, title VI, § 604(a)(3), Oct. 11, 1996, 110 Stat. 3506, added analysis.
+1996—Pub. L. 104–294, title VI, § 604(a)(3), Oct. 11, 1996, 110 Stat. 3506, added analysis.
 
-## § 2721. Prohibition on release and use of certain personal information from State motor vehicle records
+## § 2721. Prohibition on release and use of certain personal information from State motor vehicle records
 
 **(a) In General.—** A State department of motor vehicles, and any officer, employee, or contractor thereof, shall not knowingly disclose or otherwise make available to any person or entity:
 
@@ -69,7 +69,7 @@ retrieved: 2026-10-11
 
 **(e) Prohibition on Conditions.—** No State may condition or burden in any way the issuance of an individual’s motor vehicle record as defined in 18 U.S.C. 2725(1) to obtain express consent. Nothing in this paragraph shall be construed to prohibit a State from charging an administrative fee for issuance of a motor vehicle record.
 
-(Added Pub. L. 103–322, title XXX, § 300002(a), Sept. 13, 1994, 108 Stat. 2099; amended Pub. L. 104–287, § 1, Oct. 11, 1996, 110 Stat. 3388; Pub. L. 104–294, title VI, § 604(b)(46), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 106–69, title III, § 350(c), (d), Oct. 9, 1999, 113 Stat. 1025; Pub. L. 106–346, § 101(a) [title III, § 309(c)–(e)], Oct. 23, 2000, 114 Stat. 1356, 1356A–24.)
+(Added Pub. L. 103–322, title XXX, § 300002(a), Sept. 13, 1994, 108 Stat. 2099; amended Pub. L. 104–287, § 1, Oct. 11, 1996, 110 Stat. 3388; Pub. L. 104–294, title VI, § 604(b)(46), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 106–69, title III, § 350(c), (d), Oct. 9, 1999, 113 Stat. 1025; Pub. L. 106–346, § 101(a) [title III, § 309(c)–(e)], Oct. 23, 2000, 114 Stat. 1356, 1356A–24.)
 
 **Editorial Notes**
 
@@ -77,29 +77,29 @@ retrieved: 2026-10-11
 
 The Anti Car Theft Act of 1992, referred to in subsec. (b), is Pub. L. 102–519, Oct. 25, 1992, 106 Stat. 3384. For complete classification of titles I and IV of the Act to the Code, see Tables.
 
-The Automobile Information Disclosure Act, referred to in subsec. (b), is Pub. L. 85–506, July 7, 1958, 72 Stat. 325, which is classified generally to chapter 28 (§ 1231 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1231 of Title 15 and Tables.
+The Automobile Information Disclosure Act, referred to in subsec. (b), is Pub. L. 85–506, July 7, 1958, 72 Stat. 325, which is classified generally to chapter 28 (§ 1231 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1231 of Title 15 and Tables.
 
-The Clean Air Act, referred to in subsec. (b), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (b), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 **Amendments**
 
-2000—Subsec. (a). Pub. L. 106–346, § 101(a) [title III, § 309(c)], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in subsection (b), a State department of motor vehicles, and any officer, employee, or contractor, thereof, shall not knowingly disclose or otherwise make available to any person or entity personal information about any individual obtained by the department in connection with a motor vehicle record.”
+2000—Subsec. (a). Pub. L. 106–346, § 101(a) [title III, § 309(c)], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in subsection (b), a State department of motor vehicles, and any officer, employee, or contractor, thereof, shall not knowingly disclose or otherwise make available to any person or entity personal information about any individual obtained by the department in connection with a motor vehicle record.”
 
-Subsec. (b). Pub. L. 106–346, § 101(a) [title III, § 309(d)], inserted “, subject to subsection (a)(2),” before “may be disclosed” in introductory provisions.
+Subsec. (b). Pub. L. 106–346, § 101(a) [title III, § 309(d)], inserted “, subject to subsection (a)(2),” before “may be disclosed” in introductory provisions.
 
-Subsec. (e). Pub. L. 106–346, § 101(a) [title III, § 309(e)], added subsec. (e).
+Subsec. (e). Pub. L. 106–346, § 101(a) [title III, § 309(e)], added subsec. (e).
 
-1999—Subsec. (b)(11). Pub. L. 106–69, § 350(c), substituted “if the State has obtained the express consent of the person to whom such personal information pertains” for “if the motor vehicle department has provided in a clear and conspicuous manner on forms for issuance or renewal of operator’s permits, titles, registrations, or identification cards, notice that personal information collected by the department may be disclosed to any business or person, and has provided in a clear and conspicuous manner on such forms an opportunity to prohibit such disclosures”.
+1999—Subsec. (b)(11). Pub. L. 106–69, § 350(c), substituted “if the State has obtained the express consent of the person to whom such personal information pertains” for “if the motor vehicle department has provided in a clear and conspicuous manner on forms for issuance or renewal of operator’s permits, titles, registrations, or identification cards, notice that personal information collected by the department may be disclosed to any business or person, and has provided in a clear and conspicuous manner on such forms an opportunity to prohibit such disclosures”.
 
-Subsec. (b)(12). Pub. L. 106–69, § 350(d), substituted “if the State has obtained the express consent of the person to whom such personal information pertains” for “if the motor vehicle department has implemented methods and procedures to ensure that—
+Subsec. (b)(12). Pub. L. 106–69, § 350(d), substituted “if the State has obtained the express consent of the person to whom such personal information pertains” for “if the motor vehicle department has implemented methods and procedures to ensure that—
 
 “(A) individuals are provided an opportunity, in a clear and conspicuous manner, to prohibit such uses; and
 
 “(B) the information will be used, rented, or sold solely for bulk distribution for surveys, marketing, and solicitations, and that surveys, marketing, and solicitations will not be directed at those individuals who have requested in a timely fashion that they not be directed at them”.
 
-1996—Subsec. (b). Pub. L. 104–287, § 1(1), in introductory provisions, substituted “titles I and IV of the Anti Car Theft Act of 1992, the Automobile Information Disclosure Act (15 U.S.C. 1231 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and chapters 301, 305, and 321–331 of title 49” for “the Automobile Information Disclosure Act, the Motor Vehicle Information and Cost Saving Act, the National Traffic and Motor Vehicle Safety Act of 1966, the Anti-Car Theft Act of 1992, and the Clean Air Act”.
+1996—Subsec. (b). Pub. L. 104–287, § 1(1), in introductory provisions, substituted “titles I and IV of the Anti Car Theft Act of 1992, the Automobile Information Disclosure Act (15 U.S.C. 1231 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and chapters 301, 305, and 321–331 of title 49” for “the Automobile Information Disclosure Act, the Motor Vehicle Information and Cost Saving Act, the National Traffic and Motor Vehicle Safety Act of 1966, the Anti-Car Theft Act of 1992, and the Clean Air Act”.
 
-Subsec. (b)(9). Pub. L. 104–287, § 1(2), substituted “chapter 313 of title 49” for “the Commercial Motor Vehicle Safety Act of 1986 (49 U.S.C. App. 2710 et seq.)”.
+Subsec. (b)(9). Pub. L. 104–287, § 1(2), substituted “chapter 313 of title 49” for “the Commercial Motor Vehicle Safety Act of 1986 (49 U.S.C. App. 2710 et seq.)”.
 
 Subsec. (c). Pub. L. 104–294 substituted “covered by this chapter” for “covered by this title”.
 
@@ -107,7 +107,7 @@ Subsec. (c). Pub. L. 104–294 substituted “covered by this chapter” for “
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–69, title III, § 350(g)(2), Oct. 9, 1999, 113 Stat. 1025, provided that: “Subsections (b), (c), and (d) [amending this section] shall be effective on June 1, 2000, excluding the States of Arkansas, Montana, Nevada, North Dakota, Oregon, and Texas that shall be in compliance with subsections (b), (c), and (d) within 90 days of the next convening of the State legislature and excluding the States of Wisconsin, South Carolina, and Oklahoma that shall be in compliance within 90 days following the day of issuance of a final decision on Reno vs. Condon by the United States Supreme Court if the State legislature is in session, or within 90 days of the next convening of the State legislature following the issuance of such final decision if the State legislature is not in session.”
+Pub. L. 106–69, title III, § 350(g)(2), Oct. 9, 1999, 113 Stat. 1025, provided that: “Subsections (b), (c), and (d) [amending this section] shall be effective on June 1, 2000, excluding the States of Arkansas, Montana, Nevada, North Dakota, Oregon, and Texas that shall be in compliance with subsections (b), (c), and (d) within 90 days of the next convening of the State legislature and excluding the States of Wisconsin, South Carolina, and Oklahoma that shall be in compliance within 90 days following the day of issuance of a final decision on Reno vs. Condon by the United States Supreme Court if the State legislature is in session, or within 90 days of the next convening of the State legislature following the issuance of such final decision if the State legislature is not in session.”
 
 **Effective Date of 1996 Amendment**
 
@@ -115,23 +115,23 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 **Effective Date**
 
-Pub. L. 103–322, title XXX, § 300003, Sept. 13, 1994, 108 Stat. 2102, provided that: “The amendments made by section 300002 [enacting this chapter] shall become effective on the date that is 3 years after the date of enactment of this Act [Sept. 13, 1994]. After the effective date, if a State has implemented a procedure under section 2721(b)(11) and (12) of title 18, United States Code, as added by section 2902 [probably should be section “300002(a)”], for prohibiting disclosures or uses of personal information, and the procedure otherwise meets the requirements of subsection (b)(11) and (12), the State shall be in compliance with subsection (b)(11) and (12) even if the procedure is not available to individuals until they renew their license, title, registration or identification card, so long as the State provides some other procedure for individuals to contact the State on their own initiative to prohibit such uses or disclosures. Prior to the effective date, personal information covered by the amendment made by section 300002 may be released consistent with State law or practice.”
+Pub. L. 103–322, title XXX, § 300003, Sept. 13, 1994, 108 Stat. 2102, provided that: “The amendments made by section 300002 [enacting this chapter] shall become effective on the date that is 3 years after the date of enactment of this Act [Sept. 13, 1994]. After the effective date, if a State has implemented a procedure under section 2721(b)(11) and (12) of title 18, United States Code, as added by section 2902 [probably should be section “300002(a)”], for prohibiting disclosures or uses of personal information, and the procedure otherwise meets the requirements of subsection (b)(11) and (12), the State shall be in compliance with subsection (b)(11) and (12) even if the procedure is not available to individuals until they renew their license, title, registration or identification card, so long as the State provides some other procedure for individuals to contact the State on their own initiative to prohibit such uses or disclosures. Prior to the effective date, personal information covered by the amendment made by section 300002 may be released consistent with State law or practice.”
 
 **Short Title**
 
-Pub. L. 103–322, title XXX, § 300001, Sept. 13, 1994, 108 Stat. 2099, provided that: “This title [enacting this chapter] may be cited as the ‘Driver’s Privacy Protection Act of 1994’.”
+Pub. L. 103–322, title XXX, § 300001, Sept. 13, 1994, 108 Stat. 2099, provided that: “This title [enacting this chapter] may be cited as the ‘Driver’s Privacy Protection Act of 1994’.”
 
 **Relationship to Other Law**
 
 The Consumer Credit Reporting Reform Act of 1996 [see Short Title note set out under section 1601 of Title 15, Commerce and Trade] not to be considered to supersede or otherwise affect this section with respect to motor vehicle records for surveys, marketing, or solicitations, see section 2421 of Pub. L. 104–208, set out as a note under section 1681a of Title 15.
 
-## § 2722. Additional unlawful acts
+## § 2722. Additional unlawful acts
 
 **(a) Procurement for Unlawful Purpose.—** It shall be unlawful for any person knowingly to obtain or disclose personal information, from a motor vehicle record, for any use not permitted under section 2721(b) of this title.
 
 **(b) False Representation.—** It shall be unlawful for any person to make false representation to obtain any personal information from an individual’s motor vehicle record.
 
-(Added Pub. L. 103–322, title XXX, § 300002(a), Sept. 13, 1994, 108 Stat. 2101.)
+(Added Pub. L. 103–322, title XXX, § 300002(a), Sept. 13, 1994, 108 Stat. 2101.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -139,13 +139,13 @@ The Consumer Credit Reporting Reform Act of 1996 [see Short Title note set out u
 
 Section effective on the date that is 3 years after Sept. 13, 1994, with provisions relating to release of personal information before the effective date and compliance after such date, see section 300003 of Pub. L. 103–322, set out as a note under section 2721 of this title.
 
-## § 2723. Penalties
+## § 2723. Penalties
 
 **(a) Criminal Fine.—** A person who knowingly violates this chapter shall be fined under this title.
 
 **(b) Violations by State Department of Motor Vehicles.—** Any State department of motor vehicles that has a policy or practice of substantial noncompliance with this chapter shall be subject to a civil penalty imposed by the Attorney General of not more than $5,000 a day for each day of substantial noncompliance.
 
-(Added Pub. L. 103–322, title XXX, § 300002(a), Sept. 13, 1994, 108 Stat. 2101.)
+(Added Pub. L. 103–322, title XXX, § 300002(a), Sept. 13, 1994, 108 Stat. 2101.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -153,7 +153,7 @@ Section effective on the date that is 3 years after Sept. 13, 1994, with provisi
 
 Section effective on the date that is 3 years after Sept. 13, 1994, with provisions relating to release of personal information before the effective date and compliance after such date, see section 300003 of Pub. L. 103–322, set out as a note under section 2721 of this title.
 
-## § 2724. Civil action
+## § 2724. Civil action
 
 **(a) Cause of Action.—** A person who knowingly obtains, discloses or uses personal information, from a motor vehicle record, for a purpose not permitted under this chapter shall be liable to the individual to whom the information pertains, who may bring a civil action in a United States district court.
 
@@ -167,7 +167,7 @@ Section effective on the date that is 3 years after Sept. 13, 1994, with provisi
 
 **(4)** such other preliminary and equitable relief as the court determines to be appropriate.
 
-(Added Pub. L. 103–322, title XXX, § 300002(a), Sept. 13, 1994, 108 Stat. 2101.)
+(Added Pub. L. 103–322, title XXX, § 300002(a), Sept. 13, 1994, 108 Stat. 2101.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -175,7 +175,7 @@ Section effective on the date that is 3 years after Sept. 13, 1994, with provisi
 
 Section effective on the date that is 3 years after Sept. 13, 1994, with provisions relating to release of personal information before the effective date and compliance after such date, see section 300003 of Pub. L. 103–322, set out as a note under section 2721 of this title.
 
-## § 2725. Definitions
+## § 2725. Definitions
 
 In this chapter—
 
@@ -185,13 +185,13 @@ In this chapter—
 
 **(3)** “personal information” means information that identifies an individual, including an individual’s photograph, social security number, driver identification number, name, address (but not the 5-digit zip code), telephone number, and medical or disability information, but does not include information on vehicular accidents, driving violations, and driver’s status.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(4)** “highly restricted personal information” means an individual’s photograph or image, social security number, medical or disability information; and
 
 **(5)** “express consent” means consent in writing, including consent conveyed electronically that bears an electronic signature as defined in section 106(5) of Public Law 106–229.
 
-(Added Pub. L. 103–322, title XXX, § 300002(a), Sept. 13, 1994, 108 Stat. 2102; amended Pub. L. 106–346, § 101(a) [title III, § 309(b)], Oct. 23, 2000, 114 Stat. 1356, 1356A–24.)
+(Added Pub. L. 103–322, title XXX, § 300002(a), Sept. 13, 1994, 108 Stat. 2102; amended Pub. L. 106–346, § 101(a) [title III, § 309(b)], Oct. 23, 2000, 114 Stat. 1356, 1356A–24.)
 
 **Editorial Notes**
 

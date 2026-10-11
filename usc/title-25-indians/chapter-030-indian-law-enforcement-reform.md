@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 30—INDIAN LAW ENFORCEMENT REFORM
 
-## § 2801. Definitions
+## § 2801. Definitions
 
 For purposes of this chapter—
 
@@ -35,9 +35,9 @@ For purposes of this chapter—
 
 **(8)** The term “Secretary” means the Secretary of the Interior.
 
-**(10)**  1
+**(10)** 1
 
-<sup>1</sup>  So in original. There is no par. (9).
+<sup>1</sup> So in original. There is no par. (9).
 
 The term “tribal justice official” means—
 
@@ -47,37 +47,37 @@ The term “tribal justice official” means—
 
 **(C)** any other person responsible for investigating or prosecuting an alleged criminal offense in tribal court.
 
-(Pub. L. 101–379, § 2, Aug. 18, 1990, 104 Stat. 473; Pub. L. 111–211, title II, §§ 203(b), 211(a), July 29, 2010, 124 Stat. 2263, 2264.)
+(Pub. L. 101–379, § 2, Aug. 18, 1990, 104 Stat. 473; Pub. L. 111–211, title II, §§ 203(b), 211(a), July 29, 2010, 124 Stat. 2263, 2264.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–211, § 211(a), redesignated and reordered pars. (9) and (1) to (7) as (1) to (8), respectively, substituted “Office of Justice Services” for “Division of Law Enforcement Services” in par. (1), and struck out former par. (8) which read as follows: “The term ‘Division of Law Enforcement Services’ means the entity established within the Bureau under section 2802(b) of this title.”
+2010—Pub. L. 111–211, § 211(a), redesignated and reordered pars. (9) and (1) to (7) as (1) to (8), respectively, substituted “Office of Justice Services” for “Division of Law Enforcement Services” in par. (1), and struck out former par. (8) which read as follows: “The term ‘Division of Law Enforcement Services’ means the entity established within the Bureau under section 2802(b) of this title.”
 
-Par. (10). Pub. L. 111–211, § 203(b), added par. (10).
+Par. (10). Pub. L. 111–211, § 203(b), added par. (10).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–166, § 1, Oct. 10, 2020, 134 Stat. 766, provided that: “This Act [enacting provisions set out as a note under section 2802 of this title] may be cited as the ‘Not Invisible Act of 2019’.”
+Pub. L. 116–166, § 1, Oct. 10, 2020, 134 Stat. 766, provided that: “This Act [enacting provisions set out as a note under section 2802 of this title] may be cited as the ‘Not Invisible Act of 2019’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–211, title II, § 201(a), July 29, 2010, 124 Stat. 2261, provided that: “This title [enacting part G (§ 458ccc et seq.) of subchapter II of chapter 14 of this title and sections 2810 to 2815, 3665a, and 3682 of this title, redesignating part F (§ 458bbb et seq.) of subchapter II of chapter 14 of this title as part H (§ 458ddd et seq.), amending this section and sections 458ddd–1, 458ddd–2, 1302, 1321, 2411 to 2413, 2414a, 2415, 2431 to 2433, 2441, 2442, 2451, 2453, 2802 to 2804, 2809, 3613, 3621, 3653, 3662, 3663, 3666, and 3681 of this title, sections 841, 845, 1162, 4042, and 4352 of Title 18, Crimes and Criminal Procedure, sections 872, 872a, 873, and 878 of Title 21, Food and Drugs, sections 534 and 543 of Title 28, Judiciary and Judicial Procedure, and sections 2996f, 3732, 3796h, 3796dd, 5616, 5783, and 13709 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and section 1302 of this title, section 872 of Title 21, section 534 of Title 28, and sections 3732, 3796h, 3796dd, and 14044 of Title 42, amending provisions set out as a note under section 534 of Title 28, and repealing provisions set out as a note under section 3651 of this title] may be cited as the ‘Tribal Law and Order Act of 2010’.”
+Pub. L. 111–211, title II, § 201(a), July 29, 2010, 124 Stat. 2261, provided that: “This title [enacting part G (§ 458ccc et seq.) of subchapter II of chapter 14 of this title and sections 2810 to 2815, 3665a, and 3682 of this title, redesignating part F (§ 458bbb et seq.) of subchapter II of chapter 14 of this title as part H (§ 458ddd et seq.), amending this section and sections 458ddd–1, 458ddd–2, 1302, 1321, 2411 to 2413, 2414a, 2415, 2431 to 2433, 2441, 2442, 2451, 2453, 2802 to 2804, 2809, 3613, 3621, 3653, 3662, 3663, 3666, and 3681 of this title, sections 841, 845, 1162, 4042, and 4352 of Title 18, Crimes and Criminal Procedure, sections 872, 872a, 873, and 878 of Title 21, Food and Drugs, sections 534 and 543 of Title 28, Judiciary and Judicial Procedure, and sections 2996f, 3732, 3796h, 3796dd, 5616, 5783, and 13709 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and section 1302 of this title, section 872 of Title 21, section 534 of Title 28, and sections 3732, 3796h, 3796dd, and 14044 of Title 42, amending provisions set out as a note under section 534 of Title 28, and repealing provisions set out as a note under section 3651 of this title] may be cited as the ‘Tribal Law and Order Act of 2010’.”
 
 **Short Title**
 
-Pub. L. 101–379, § 1, Aug. 18, 1990, 104 Stat. 473, provided that: “This Act [enacting this chapter and provisions set out as a note under section 2991a of Title 42, The Public Health and Welfare] may be cited as the ‘Indian Law Enforcement Reform Act’.”
+Pub. L. 101–379, § 1, Aug. 18, 1990, 104 Stat. 473, provided that: “This Act [enacting this chapter and provisions set out as a note under section 2991a of Title 42, The Public Health and Welfare] may be cited as the ‘Indian Law Enforcement Reform Act’.”
 
 **Severability**
 
-Pub. L. 111–211, title II, § 204, July 29, 2010, 124 Stat. 2263, provided that: “If any provision of this title [see Short Title of 2010 Amendment note above], an amendment made by this title, or the application of such a provision or amendment to any individual, entity, or circumstance, is determined by a court of competent jurisdiction to be invalid, the remaining provisions of this title, the remaining amendments made by this title, and the application of those provisions and amendments to individuals, entities, or circumstances other than the affected individual, entity, or circumstance shall not be affected.”
+Pub. L. 111–211, title II, § 204, July 29, 2010, 124 Stat. 2263, provided that: “If any provision of this title [see Short Title of 2010 Amendment note above], an amendment made by this title, or the application of such a provision or amendment to any individual, entity, or circumstance, is determined by a court of competent jurisdiction to be invalid, the remaining provisions of this title, the remaining amendments made by this title, and the application of those provisions and amendments to individuals, entities, or circumstances other than the affected individual, entity, or circumstance shall not be affected.”
 
 **Findings; Purposes**
 
-Pub. L. 111–211, title II, § 202, July 29, 2010, 124 Stat. 2262, provided that:
+Pub. L. 111–211, title II, § 202, July 29, 2010, 124 Stat. 2262, provided that:
 
 > **“(a) Findings.—** Congress finds that—
 
@@ -127,15 +127,15 @@ Pub. L. 111–211, title II, § 202, July 29, 2010, 124 Stat. 2262, provided t
 
 **Jurisdiction of the State of Alaska**
 
-Pub. L. 111–211, title II, § 205, July 29, 2010, 124 Stat. 2264, provided that: “Nothing in this Act [see Tables for classification] limits, alters, expands, or diminishes the civil or criminal jurisdiction of the State of Alaska, any subdivision of the State of Alaska, or any Indian tribe in that State.”
+Pub. L. 111–211, title II, § 205, July 29, 2010, 124 Stat. 2264, provided that: “Nothing in this Act [see Tables for classification] limits, alters, expands, or diminishes the civil or criminal jurisdiction of the State of Alaska, any subdivision of the State of Alaska, or any Indian tribe in that State.”
 
 **Criminal Jurisdiction Over Non-Indians**
 
-Pub. L. 111–211, title II, § 206, July 29, 2010, 124 Stat. 2264, provided that: “Nothing in this Act [see Tables for classification] confers on an Indian tribe criminal jurisdiction over non-Indians.”
+Pub. L. 111–211, title II, § 206, July 29, 2010, 124 Stat. 2264, provided that: “Nothing in this Act [see Tables for classification] confers on an Indian tribe criminal jurisdiction over non-Indians.”
 
 **Definitions**
 
-Pub. L. 111–211, title II, § 203(a), July 29, 2010, 124 Stat. 2263, provided that:
+Pub. L. 111–211, title II, § 203(a), July 29, 2010, 124 Stat. 2263, provided that:
 
 > “In this title [see Short Title of 2010 Amendment note above]:
 
@@ -293,7 +293,7 @@ Sec. 8. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 J.R. Biden, Jr.
 
-## § 2802. Indian law enforcement responsibilities
+## § 2802. Indian law enforcement responsibilities
 
 **(a) Responsibility of Secretary**
 
@@ -367,7 +367,7 @@ The Secretary, acting through the Bureau, shall be responsible for providing, or
 
 **(18)** promulgating regulations to carry out this chapter, and routinely reviewing and updating, as necessary, the regulations contained in subchapter B of title 25,1
 
-<sup>1</sup>  So in original. Probably should be “subchapter B of chapter I of title 25,”.
+<sup>1</sup> So in original. Probably should be “subchapter B of chapter I of title 25,”.
 
 Code of Federal Regulations (or successor regulations).
 
@@ -421,7 +421,7 @@ The Office of Justice Services shall develop standards and deadlines for the pro
 
 If a request for a background check is made by an Indian tribe that has contracted or entered into a compact for law enforcement or corrections services with the Bureau of Indian Affairs pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 the Office of Justice Services shall complete the check not later than 60 days after the date of receipt of the request, unless an adequate reason for failure to respond by that date is provided to the Indian tribe in writing.
 
@@ -429,9 +429,9 @@ the Office of Justice Services shall complete the check not later than 60 days a
 
 **(1)** a description of proposed activities for—
 
-**(A)** the construction, operation, and maintenance of juvenile (in accordance with section 2453(a)(3) of this title 3
+**(A)** the construction, operation, and maintenance of juvenile (in accordance with section 2453(a)(3) of this title 3
 
-<sup>3</sup>  So in original. Probably should be followed by a closing parenthesis.
+<sup>3</sup> So in original. Probably should be followed by a closing parenthesis.
 
 and adult detention facilities (including regional facilities) in Indian country;
 
@@ -443,45 +443,45 @@ and adult detention facilities (including regional facilities) in Indian country
 
 **(3)** any other alternatives as the Secretary, in coordination with the Attorney General and in consultation with Indian tribes, determines to be necessary.
 
-(Pub. L. 101–379, § 3, Aug. 18, 1990, 104 Stat. 473; Pub. L. 111–211, title II, §§ 211(b), 231(a), 262, July 29, 2010, 124 Stat. 2264, 2272, 2299.)
+(Pub. L. 101–379, § 3, Aug. 18, 1990, 104 Stat. 473; Pub. L. 111–211, title II, §§ 211(b), 231(a), 262, July 29, 2010, 124 Stat. 2264, 2272, 2299.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 93–638 and the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsecs. (d)(4)(i) and (e)(4)(B), are Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Public Law 93–638 and the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsecs. (d)(4)(i) and (e)(4)(B), are Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
-2010—Subsec. (b). Pub. L. 111–211, § 211(b)(1), inserted heading and substituted “There is established in the Bureau an office, to be known as the ‘Office of Justice Services’, that” for “There is hereby established within the Bureau a Division of Law Enforcement Services which” in introductory provisions.
+2010—Subsec. (b). Pub. L. 111–211, § 211(b)(1), inserted heading and substituted “There is established in the Bureau an office, to be known as the ‘Office of Justice Services’, that” for “There is hereby established within the Bureau a Division of Law Enforcement Services which” in introductory provisions.
 
-Subsec. (c). Pub. L. 111–211, § 211(b)(2)(A), substituted “Office of Justice Services” for “Division of Law Enforcement Services” in introductory provisions.
+Subsec. (c). Pub. L. 111–211, § 211(b)(2)(A), substituted “Office of Justice Services” for “Division of Law Enforcement Services” in introductory provisions.
 
-Subsec. (c)(9). Pub. L. 111–211, § 262, inserted before semicolon “, including training to properly interview victims of domestic and sexual violence and to collect, preserve, and present evidence to Federal and tribal prosecutors to increase the conviction rate for domestic and sexual violence offenses for purposes of addressing and preventing domestic and sexual violent offenses”.
+Subsec. (c)(9). Pub. L. 111–211, § 262, inserted before semicolon “, including training to properly interview victims of domestic and sexual violence and to collect, preserve, and present evidence to Federal and tribal prosecutors to increase the conviction rate for domestic and sexual violence offenses for purposes of addressing and preventing domestic and sexual violent offenses”.
 
-Subsec. (c)(10) to (18). Pub. L. 111–211, § 211(b)(2)(B)–(D), added pars. (10) to (18).
+Subsec. (c)(10) to (18). Pub. L. 111–211, § 211(b)(2)(B)–(D), added pars. (10) to (18).
 
-Subsec. (d)(1). Pub. L. 111–211, § 211(b)(3)(A), substituted “Office of Justice Services” for “Division of Law Enforcement Services”.
+Subsec. (d)(1). Pub. L. 111–211, § 211(b)(3)(A), substituted “Office of Justice Services” for “Division of Law Enforcement Services”.
 
-Subsec. (d)(4)(i). Pub. L. 111–211, § 211(b)(3)(B), substituted “Office of Justice Services” for “Division”.
+Subsec. (d)(4)(i). Pub. L. 111–211, § 211(b)(3)(B), substituted “Office of Justice Services” for “Division”.
 
-Subsec. (e). Pub. L. 111–211, § 231(a)(1)(A), inserted heading.
+Subsec. (e). Pub. L. 111–211, § 231(a)(1)(A), inserted heading.
 
-Pub. L. 111–211, § 211(b)(4), substituted “Office of Justice Services” for “Division of Law Enforcement Services” in pars. (1) to (3).
+Pub. L. 111–211, § 211(b)(4), substituted “Office of Justice Services” for “Division of Law Enforcement Services” in pars. (1) to (3).
 
-Subsec. (e)(1). Pub. L. 111–211, § 231(a)(1), inserted heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpars. (B) to (D).
+Subsec. (e)(1). Pub. L. 111–211, § 231(a)(1), inserted heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpars. (B) to (D).
 
-Subsec. (e)(3). Pub. L. 111–211, § 231(a)(2), substituted “agencies” for “Agencies”.
+Subsec. (e)(3). Pub. L. 111–211, § 231(a)(2), substituted “agencies” for “Agencies”.
 
-Subsec. (e)(4). Pub. L. 111–211, § 231(a)(3), added par. (4).
+Subsec. (e)(4). Pub. L. 111–211, § 231(a)(3), added par. (4).
 
-Subsec. (f). Pub. L. 111–211, § 211(b)(5), added subsec. (f).
+Subsec. (f). Pub. L. 111–211, § 211(b)(5), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Designation of Coordinator of Federal Efforts To Combat Violence Against Native People**
 
-Pub. L. 116–166, §§ 2, 3, Oct. 10, 2020, 134 Stat. 766, provided that:
+Pub. L. 116–166, §§ 2, 3, Oct. 10, 2020, 134 Stat. 766, provided that:
 
 > **“SEC. 2. DEFINITIONS.**
 
@@ -531,7 +531,7 @@ Pub. L. 116–166, §§ 2, 3, Oct. 10, 2020, 134 Stat. 766, provided that:
 
 > **“(3)** recommendations for improving coordination across Federal agencies and of relevant Federal programs.”
 
-## § 2803. Law enforcement authority
+## § 2803. Law enforcement authority
 
 The Secretary may charge employees of the Bureau with law enforcement responsibilities and may authorize those employees to—
 
@@ -547,7 +547,7 @@ The Secretary may charge employees of the Bureau with law enforcement responsibi
 
 **(A)** the offense is committed in the presence of the employee,1
 
-<sup>1</sup>  So in original. The comma probably should be a semicolon.
+<sup>1</sup> So in original. The comma probably should be a semicolon.
 
 **(B)** the offense is a felony and the employee has probable cause to believe that the person to be arrested has committed, or is committing, the felony;
 
@@ -561,9 +561,9 @@ The Secretary may charge employees of the Bureau with law enforcement responsibi
 
 **(aa)** the Controlled Substances Act (21 U.S.C. 801 et seq.);
 
-**(bb)** title IX of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (21 U.S.C. 862a et seq.); 2
+**(bb)** title IX of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (21 U.S.C. 862a et seq.); 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 or
 
@@ -587,27 +587,27 @@ or
 
 **(8)** when requested, assist (with or without reimbursement) any Federal, tribal, State, or local law enforcement agency in the enforcement or carrying out of the laws or regulations the agency enforces or administers.
 
-(Pub. L. 101–379, § 4, Aug. 18, 1990, 104 Stat. 475; Pub. L. 109–162, title IX, § 908(b), Jan. 5, 2006, 119 Stat. 3083; Pub. L. 111–211, title II, § 211(c), July 29, 2010, 124 Stat. 2266.)
+(Pub. L. 101–379, § 4, Aug. 18, 1990, 104 Stat. 475; Pub. L. 109–162, title IX, § 908(b), Jan. 5, 2006, 119 Stat. 3083; Pub. L. 111–211, title II, § 211(c), July 29, 2010, 124 Stat. 2266.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Controlled Substances Act, referred to in par. (3)(D)(i)(I)(aa), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in par. (3)(D)(i)(I)(aa), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in par. (3)(D)(i)(I)(bb), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IX of the Act enacted section 862b of Title 21, Food and Drugs, section 12392 of Title 34, Crime Control and Law Enforcement, and sections 608a and 710 of Title 42, The Public Health and Welfare, amended section 1693b of Title 15, Commerce and Trade, section 32 of Title 26, Internal Revenue Code, and sections 1396a, 1396g, 1397a, 1397b, 1437d, 1437f, and 1437z of Title 42, and enacted provisions set out as notes under section 32 of Title 26 and sections 601, 710, and 1396a of Title 42. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-2010—Par. (2)(A). Pub. L. 111–211, § 211(c)(1), substituted “or offenses processed by the Central Violations Bureau); or” for “), or”.
+2010—Par. (2)(A). Pub. L. 111–211, § 211(c)(1), substituted “or offenses processed by the Central Violations Bureau); or” for “), or”.
 
-Par. (3)(B), (C). Pub. L. 111–211, § 211(c)(2)(B), substituted “probable cause” for “reasonable grounds”.
+Par. (3)(B), (C). Pub. L. 111–211, § 211(c)(2)(B), substituted “probable cause” for “reasonable grounds”.
 
-Par. (3)(D). Pub. L. 111–211, § 211(c)(2)(A), (C), (D), added subpar. (D).
+Par. (3)(D). Pub. L. 111–211, § 211(c)(2)(A), (C), (D), added subpar. (D).
 
 2006—Par. (3)(C). Pub. L. 109–162 added subpar. (C).
 
-## § 2804. Assistance by other agencies
+## § 2804. Assistance by other agencies
 
 **(a) Agreements**
 
@@ -677,13 +677,13 @@ Notwithstanding the provisions of section 1535 of title 31, the head of a Federa
 
 **(1)** a Federal, tribal, State, or other government agency; or
 
-**(2)** the Indian Law Enforcement Foundation established under section 5412(a) 1
+**(2)** the Indian Law Enforcement Foundation established under section 5412(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-(Pub. L. 101–379, § 5, Aug. 18, 1990, 104 Stat. 476; Pub. L. 111–211, title II, § 231(b), (e), July 29, 2010, 124 Stat. 2273, 2278.)
+(Pub. L. 101–379, § 5, Aug. 18, 1990, 104 Stat. 476; Pub. L. 111–211, title II, § 231(b), (e), July 29, 2010, 124 Stat. 2273, 2278.)
 
 **Editorial Notes**
 
@@ -693,23 +693,23 @@ Section 5412(a) of this title, referred to in subsec. (g)(2), was in the origina
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–211, § 231(b), inserted heading, designated first sentence as par. (1), inserted par. (1) heading, substituted “Not later than 180 days after July 29, 2010, the Secretary shall establish procedures to enter into memoranda of agreement” for “The Secretary may enter into an agreement”, designated second sentence as par. (2), inserted par. (2) heading, and added par. (3).
+2010—Subsec. (a). Pub. L. 111–211, § 231(b), inserted heading, designated first sentence as par. (1), inserted par. (1) heading, substituted “Not later than 180 days after July 29, 2010, the Secretary shall establish procedures to enter into memoranda of agreement” for “The Secretary may enter into an agreement”, designated second sentence as par. (2), inserted par. (2) heading, and added par. (3).
 
-Subsec. (g). Pub. L. 111–211, § 231(e), added subsec. (g).
+Subsec. (g). Pub. L. 111–211, § 231(e), added subsec. (g).
 
-## § 2805. Regulations
+## § 2805. Regulations
 
 After consultation with the Attorney General of the United States, the Secretary may prescribe under this chapter regulations relating to the enforcement of criminal laws of the United States and regulations relating to the consideration of applications for contracts awarded under the Indian Self-Determination Act [25 U.S.C. 5321 et seq.] to perform the functions of the Branch of Criminal Investigations.
 
-(Pub. L. 101–379, § 6, Aug. 18, 1990, 104 Stat. 476.)
+(Pub. L. 101–379, § 6, Aug. 18, 1990, 104 Stat. 476.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-## § 2806. Jurisdiction
+## § 2806. Jurisdiction
 
 **(a) Investigative jurisdiction over offenses against criminal laws**
 
@@ -727,21 +727,21 @@ This chapter does not invalidate or diminish any law enforcement commission or o
 
 The authority provided by this chapter is in addition to, and not in derogation of, any authority that existed before August 18, 1990. The provisions of this chapter alter neither the civil or criminal jurisdiction of the United States, Indian tribes, States, or other political subdivisions or agencies, nor the law enforcement, investigative, or judicial authority of any Indian tribe, State, or political subdivision or agency thereof, or of any department, agency, court, or official of the United States other than the Secretary.
 
-(Pub. L. 101–379, § 7, Aug. 18, 1990, 104 Stat. 476.)
+(Pub. L. 101–379, § 7, Aug. 18, 1990, 104 Stat. 476.)
 
-## § 2807. Uniform allowance
+## § 2807. Uniform allowance
 
 Notwithstanding the limitation in section 5901(a) of title 5, the Secretary may provide a uniform allowance for uniformed law enforcement officers under section 2803 of this title of not more than $400 a year.
 
-(Pub. L. 101–379, § 8, Aug. 18, 1990, 104 Stat. 477.)
+(Pub. L. 101–379, § 8, Aug. 18, 1990, 104 Stat. 477.)
 
-## § 2808. Source of funds
+## § 2808. Source of funds
 
 Any expenses incurred by the Secretary under this chapter shall be paid from funds appropriated under section 13 of this title.
 
-(Pub. L. 101–379, § 9, Aug. 18, 1990, 104 Stat. 477.)
+(Pub. L. 101–379, § 9, Aug. 18, 1990, 104 Stat. 477.)
 
-## § 2809. Reports to tribes
+## § 2809. Reports to tribes
 
 **(a) Coordination and data collection**
 
@@ -801,7 +801,7 @@ Nothing in this section affects or limits the requirements of Rule 6 of the Fede
 
 The Attorney General shall establish, by regulation, standards for the protection of the confidential or privileged communications, information, and sources described in this section.
 
-(Pub. L. 101–379, § 10, Aug. 18, 1990, 104 Stat. 477; Pub. L. 111–211, title II, § 212, July 29, 2010, 124 Stat. 2267.)
+(Pub. L. 101–379, § 10, Aug. 18, 1990, 104 Stat. 477; Pub. L. 111–211, title II, § 212, July 29, 2010, 124 Stat. 2267.)
 
 **Editorial Notes**
 
@@ -813,7 +813,7 @@ Rule 6 of the Federal Rules of Criminal Procedure, referred to in subsec. (c)(2)
 
 2010—Pub. L. 111–211 added subsecs. (a) to (c) and struck out former subsecs. (a) to (d) which related, respectively, to reports by law enforcement officials of the Bureau of Indian Affairs or Federal Bureau of Investigation, reports by United States attorneys, case files included within reports, and transfer or disclosure of confidential or privileged communication, information, or sources to tribal officials.
 
-## § 2810. Assistant United States Attorney tribal liaisons
+## § 2810. Assistant United States Attorney tribal liaisons
 
 **(a) Appointment**
 
@@ -863,9 +863,9 @@ Nothing in this section limits the authority of any United States Attorney to de
 
 It is the sense of Congress that, in appointing Special Assistant United States Attorneys under this subsection, a United States Attorney should consult with tribal justice officials of each Indian tribe that would be affected by the appointment.
 
-(Pub. L. 101–379, § 13, as added Pub. L. 111–211, title II, § 213(b)(1), July 29, 2010, 124 Stat. 2268.)
+(Pub. L. 101–379, § 13, as added Pub. L. 111–211, title II, § 213(b)(1), July 29, 2010, 124 Stat. 2268.)
 
-## § 2811. Native American Issues Coordinator
+## § 2811. Native American Issues Coordinator
 
 **(a) Establishment**
 
@@ -881,9 +881,9 @@ There is established in the Executive Office for United States Attorneys of the 
 
 **(4)** carry out such other duties as the Attorney General may prescribe.
 
-(Pub. L. 101–379, § 14, as added Pub. L. 111–211, title II, § 214(b), July 29, 2010, 124 Stat. 2271.)
+(Pub. L. 101–379, § 14, as added Pub. L. 111–211, title II, § 214(b), July 29, 2010, 124 Stat. 2271.)
 
-## § 2812. Indian Law and Order Commission
+## § 2812. Indian Law and Order Commission
 
 **(a) Establishment**
 
@@ -987,7 +987,7 @@ The Commission may establish, by majority vote, any rules for the conduct of Com
 
 **(e) Recommendations** Taking into consideration the results of the study under paragraph (1),1
 
-<sup>1</sup>  So in original. Probably should be “subsection (d),”.
+<sup>1</sup> So in original. Probably should be “subsection (d),”.
 
 the Commission shall develop recommendations on necessary modifications and improvements to justice systems at the tribal, Federal, and State levels, including consideration of—
 
@@ -1125,7 +1125,7 @@ The Commission shall terminate 90 days after the date on which the Commission su
 
 Chapter 10 of title 5 shall not apply to the Commission.
 
-(Pub. L. 101–379, § 15, as added Pub. L. 111–211, title II, § 235, July 29, 2010, 124 Stat. 2282; amended Pub. L. 113–4, title IX, § 909(a), Mar. 7, 2013, 127 Stat. 126; Pub. L. 117–286, § 4(a)(183), Dec. 27, 2022, 136 Stat. 4326.)
+(Pub. L. 101–379, § 15, as added Pub. L. 111–211, title II, § 235, July 29, 2010, 124 Stat. 2282; amended Pub. L. 113–4, title IX, § 909(a), Mar. 7, 2013, 127 Stat. 126; Pub. L. 117–286, § 4(a)(183), Dec. 27, 2022, 136 Stat. 4326.)
 
 **Editorial Notes**
 
@@ -1133,7 +1133,7 @@ Chapter 10 of title 5 shall not apply to the Commission.
 
 The date of enactment of this Act, referred to in subsecs. (b)(5) and (f), probably means the date of enactment of Pub. L. 111–211, which was approved July 29, 2010.
 
-The Indian Civil Rights Act of 1968, referred to in subsec. (d)(4), is title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, which is classified generally to subchapter I (§ 1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+The Indian Civil Rights Act of 1968, referred to in subsec. (d)(4), is title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, which is classified generally to subchapter I (§ 1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 The Tribal Law and Order Act of 2010, referred to in subsec. (d)(5), is title II of Pub. L. 111–211, July 29, 2010, 124 Stat. 2261. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 2801 of this title and Tables.
 
@@ -1143,7 +1143,7 @@ The Tribal Law and Order Act of 2010, referred to in subsec. (d)(5), is title II
 
 2013—Subsec. (f). Pub. L. 113–4 substituted “3 years” for “2 years” in introductory provisions.
 
-## § 2813. Testimony by Federal employees
+## § 2813. Testimony by Federal employees
 
 **(a) Approval of employee testimony or documents**
 
@@ -1165,15 +1165,15 @@ The Director concerned shall approve a request or subpoena under subsection (a) 
 
 If the Director concerned fails to approve or disapprove a request or subpoena for testimony or release of a document by the date that is 30 days after the date of receipt of notice of the request or subpoena, the request or subpoena shall be considered to be approved for purposes of this section.
 
-(Pub. L. 101–379, § 16, as added Pub. L. 111–211, title II, § 263, July 29, 2010, 124 Stat. 2300.)
+(Pub. L. 101–379, § 16, as added Pub. L. 111–211, title II, § 263, July 29, 2010, 124 Stat. 2300.)
 
-## § 2814. Policies and protocol
+## § 2814. Policies and protocol
 
 The Director of the Indian Health Service, in coordination with the Director of the Office of Justice Services and the Director of the Office on Violence Against Women of the Department of Justice, in consultation with Indian Tribes and Tribal Organizations, and in conference with Urban Indian Organizations, shall develop standardized sexual assault policies and protocol for the facilities of the Service, based on similar protocol that has been established by the Department of Justice.
 
-(Pub. L. 101–379, § 17, as added Pub. L. 111–211, title II, § 265, July 29, 2010, 124 Stat. 2300.)
+(Pub. L. 101–379, § 17, as added Pub. L. 111–211, title II, § 265, July 29, 2010, 124 Stat. 2300.)
 
-## § 2815. State, tribal, and local law enforcement cooperation
+## § 2815. State, tribal, and local law enforcement cooperation
 
 The Attorney General may provide technical and other assistance to State, tribal, and local governments that enter into cooperative agreements, including agreements relating to mutual aid, hot pursuit of suspects, and cross-deputization for the purposes of—
 
@@ -1183,7 +1183,7 @@ The Attorney General may provide technical and other assistance to State, tribal
 
 **(3)** developing successful cooperative relationships that effectively combat crime in Indian country and nearby communities.
 
-(Pub. L. 111–211, title II, § 222, July 29, 2010, 124 Stat. 2272.)
+(Pub. L. 111–211, title II, § 222, July 29, 2010, 124 Stat. 2272.)
 
 **Editorial Notes**
 

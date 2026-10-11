@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 401. Congressional declaration of findings, purposes, and policy
+### § 401. Congressional declaration of findings, purposes, and policy
 
 **(a) Standards for labor-management relations**
 
@@ -31,7 +31,7 @@ The Congress further finds, from recent investigations in the labor and manageme
 
 The Congress, therefore, further finds and declares that the enactment of this chapter is necessary to eliminate or prevent improper practices on the part of labor organizations, employers, labor relations consultants, and their officers and representatives which distort and defeat the policies of the Labor Management Relations Act, 1947, as amended [29 U.S.C. 141 et seq.], and the Railway Labor Act, as amended [45 U.S.C. 151 et seq.], and have the tendency or necessary effect of burdening or obstructing commerce by (1) impairing the efficiency, safety, or operation of the instrumentalities of commerce; (2) occurring in the current of commerce; (3) materially affecting, restraining, or controlling the flow of raw materials or manufactured or processed goods into or from the channels of commerce, or the prices of such materials or goods in commerce; or (4) causing diminution of employment and wages in such volume as substantially to impair or disrupt the market for goods flowing into or from the channels of commerce.
 
-(Pub. L. 86–257, § 2, Sept. 14, 1959, 73 Stat. 519.)
+(Pub. L. 86–257, § 2, Sept. 14, 1959, 73 Stat. 519.)
 
 **Editorial Notes**
 
@@ -39,17 +39,17 @@ The Congress, therefore, further finds and declares that the enactment of this c
 
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, known as the Labor-Management Reporting and Disclosure Act of 1959, which enacted this chapter, amended sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacted provisions set out as notes under sections 153, 158, and 481 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Labor Management Relations Act, 1947, referred to in subsec. (c), is act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
+The Labor Management Relations Act, 1947, referred to in subsec. (c), is act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
 
-The Railway Labor Act, referred to in subsec. (c), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (c), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 86–257, § 1, Sept. 14, 1959, 73 Stat. 519, provided that: “This Act [enacting this chapter, amending sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacting provisions set out as notes under sections 153, 158, and 481 of this title] may be cited as the ‘Labor-Management Reporting and Disclosure Act of 1959’.”
+Pub. L. 86–257, § 1, Sept. 14, 1959, 73 Stat. 519, provided that: “This Act [enacting this chapter, amending sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacting provisions set out as notes under sections 153, 158, and 481 of this title] may be cited as the ‘Labor-Management Reporting and Disclosure Act of 1959’.”
 
-### § 402. Definitions
+### § 402. Definitions
 
 For the purposes of this chapter—
 
@@ -99,7 +99,7 @@ For the purposes of this chapter—
 
 **(r)** “District court of the United States” means a United States district court and a United States court of any place subject to the jurisdiction of the United States.
 
-(Pub. L. 86–257, § 3, Sept. 14, 1959, 73 Stat. 520; Pub. L. 95–598, title III, § 320, Nov. 6, 1978, 92 Stat. 2678.)
+(Pub. L. 86–257, § 3, Sept. 14, 1959, 73 Stat. 520; Pub. L. 95–598, title III, § 320, Nov. 6, 1978, 92 Stat. 2678.)
 
 **Editorial Notes**
 
@@ -109,15 +109,15 @@ This chapter, referred to in the opening phrase, was in the original “titles I
 
 For definition of Canal Zone, referred to in subsec. (b), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (b), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (b), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
-The Labor Management Relations Act, 1947, referred to in subsec. (c), is act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
+The Labor Management Relations Act, 1947, referred to in subsec. (c), is act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
 
 This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, known as the Labor-Management Reporting and Disclosure Act of 1959, which enacted this chapter, amended sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacted provisions set out as notes under sections 153, 158, and 481 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
 
-The Railway Labor Act, referred to in subsecs. (c) and (j)(1), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsecs. (c) and (j)(1), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
-The National Labor Relations Act, referred to in subsec. (j)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
+The National Labor Relations Act, referred to in subsec. (j)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
 
 **Amendments**
 
@@ -131,7 +131,7 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 ## SUBCHAPTER II—BILL OF RIGHTS OF MEMBERS OF LABOR ORGANIZATIONS
 
-### § 411. Bill of rights; constitution and bylaws of labor organizations
+### § 411. Bill of rights; constitution and bylaws of labor organizations
 
 **(a)**
 
@@ -161,35 +161,35 @@ No member of any labor organization may be fined, suspended, expelled, or otherw
 
 Any provision of the constitution and bylaws of any labor organization which is inconsistent with the provisions of this section shall be of no force or effect.
 
-(Pub. L. 86–257, title I, § 101, Sept. 14, 1959, 73 Stat. 522.)
+(Pub. L. 86–257, title I, § 101, Sept. 14, 1959, 73 Stat. 522.)
 
-### § 412. Civil action for infringement of rights; jurisdiction
+### § 412. Civil action for infringement of rights; jurisdiction
 
 Any person whose rights secured by the provisions of this subchapter have been infringed by any violation of this subchapter may bring a civil action in a district court of the United States for such relief (including injunctions) as may be appropriate. Any such action against a labor organization shall be brought in the district court of the United States for the district where the alleged violation occurred, or where the principal office of such labor organization is located.
 
-(Pub. L. 86–257, title I, § 102, Sept. 14, 1959, 73 Stat. 523.)
+(Pub. L. 86–257, title I, § 102, Sept. 14, 1959, 73 Stat. 523.)
 
-### § 413. Retention of existing rights of members
+### § 413. Retention of existing rights of members
 
 Nothing contained in this subchapter shall limit the rights and remedies of any member of a labor organization under any State or Federal law or before any court or other tribunal, or under the constitution and bylaws of any labor organization.
 
-(Pub. L. 86–257, title I, § 103, Sept. 14, 1959, 73 Stat. 523.)
+(Pub. L. 86–257, title I, § 103, Sept. 14, 1959, 73 Stat. 523.)
 
-### § 414. Right to copies of collective bargaining agreements
+### § 414. Right to copies of collective bargaining agreements
 
 It shall be the duty of the secretary or corresponding principal officer of each labor organization, in the case of a local labor organization, to forward a copy of each collective bargaining agreement made by such labor organization with any employer to any employee who requests such a copy and whose rights as such employee are directly affected by such agreement, and in the case of a labor organization other than a local labor organization, to forward a copy of any such agreement to each constituent unit which has members directly affected by such agreement; and such officer shall maintain at the principal office of the labor organization of which he is an officer copies of any such agreement made or received by such labor organization, which copies shall be available for inspection by any member or by any employee whose rights are affected by such agreement. The provisions of section 440 of this title shall be applicable in the enforcement of this section.
 
-(Pub. L. 86–257, title I, § 104, Sept. 14, 1959, 73 Stat. 523.)
+(Pub. L. 86–257, title I, § 104, Sept. 14, 1959, 73 Stat. 523.)
 
-### § 415. Information to members of provisions of chapter
+### § 415. Information to members of provisions of chapter
 
 Every labor organization shall inform its members concerning the provisions of this chapter.
 
-(Pub. L. 86–257, title I, § 105, Sept. 14, 1959, 73 Stat. 523.)
+(Pub. L. 86–257, title I, § 105, Sept. 14, 1959, 73 Stat. 523.)
 
 ## SUBCHAPTER III—REPORTING BY LABOR ORGANIZATIONS, OFFICERS AND EMPLOYEES OF LABOR ORGANIZATIONS, AND EMPLOYERS
 
-### § 431. Report of labor organizations
+### § 431. Report of labor organizations
 
 **(a) Adoption and filing of constitution and bylaws; contents of report** Every labor organization shall adopt a constitution and bylaws and shall file a copy thereof with the Secretary, together with a report, signed by its president and secretary or corresponding principal officers, containing the following information—
 
@@ -223,7 +223,7 @@ all in such categories as the Secretary may prescribe.
 
 Every labor organization required to submit a report under this subchapter shall make available the information required to be contained in such report to all of its members, and every such labor organization and its officers shall be under a duty enforceable at the suit of any member of such organization in any State court of competent jurisdiction or in the district court of the United States for the district in which such labor organization maintains its principal office, to permit such member for just cause to examine any books, records, and accounts necessary to verify such report. The court in such action may, in its discretion, in addition to any judgment awarded to the plaintiff or plaintiffs, allow a reasonable attorney’s fee to be paid by the defendant, and costs of the action.
 
-(Pub. L. 86–257, title II, § 201(a)–(c), Sept. 14, 1959, 73 Stat. 524, 525.)
+(Pub. L. 86–257, title II, § 201(a)–(c), Sept. 14, 1959, 73 Stat. 524, 525.)
 
 **Editorial Notes**
 
@@ -231,7 +231,7 @@ Every labor organization required to submit a report under this subchapter shall
 
 Section is comprised of subsecs. (a) to (c) of section 201 of Pub. L. 86–257. Subsec. (d) of section 201 repealed subsecs. (f) to (h) of section 159 of this title, and subsec. (e) of section 201 amended section 158(a)(3)(i) of this title.
 
-### § 432. Report of officers and employees of labor organizations
+### § 432. Report of officers and employees of labor organizations
 
 **(a) Filing; contents of report** Every officer of a labor organization and every employee of a labor organization (other than an employee performing exclusively clerical or custodial services) shall file with the Secretary a signed report listing and describing for his preceding fiscal year—
 
@@ -255,19 +255,19 @@ The provisions of paragraphs (1), (2), (3), (4), and (5) of subsection (a) shall
 
 Nothing contained in this section shall be construed to require any officer or employee of a labor organization to file a report under subsection (a) unless he or his spouse or minor child holds or has held an interest, has received income or any other benefit with monetary value or a loan, or has engaged in a transaction described therein.
 
-(Pub. L. 86–257, title II, § 202, Sept. 14, 1959, 73 Stat. 525.)
+(Pub. L. 86–257, title II, § 202, Sept. 14, 1959, 73 Stat. 525.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Exchange Act of 1934, referred to in subsec. (b), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (b), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
-The Public Utility Holding Company Act of 1935, referred to in subsec. (b), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+The Public Utility Holding Company Act of 1935, referred to in subsec. (b), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
-### § 433. Report of employers
+### § 433. Report of employers
 
 **(a) Filing and contents of report of payments, loans, promises, agreements, or arrangements** Every employer who in any fiscal year made—
 
@@ -311,15 +311,15 @@ Nothing contained in this section shall be construed as an amendment to, or modi
 
 The term “interfere with, restrain, or coerce” as used in this section means interference, restraint, and coercion which, if done with respect to the exercise of rights guaranteed in section 157 of this title, would, under section 158(a) of this title, constitute an unfair labor practice.
 
-(Pub. L. 86–257, title II, § 203, Sept. 14, 1959, 73 Stat. 526.)
+(Pub. L. 86–257, title II, § 203, Sept. 14, 1959, 73 Stat. 526.)
 
-### § 434. Exemption of attorney-client communications
+### § 434. Exemption of attorney-client communications
 
 Nothing contained in this chapter shall be construed to require an attorney who is a member in good standing of the bar of any State, to include in any report required to be filed pursuant to the provisions of this chapter any information which was lawfully communicated to such attorney by any of his clients in the course of a legitimate attorney-client relationship.
 
-(Pub. L. 86–257, title II, § 204, Sept. 14, 1959, 73 Stat. 528.)
+(Pub. L. 86–257, title II, § 204, Sept. 14, 1959, 73 Stat. 528.)
 
-### § 435. Reports and documents as public information
+### § 435. Reports and documents as public information
 
 **(a) Publication; statistical and research purposes**
 
@@ -333,7 +333,7 @@ The Secretary shall by regulation make reasonable provision for the inspection a
 
 The Secretary shall by regulation provide for the furnishing by the Department of Labor of copies of reports or other documents filed with the Secretary pursuant to this subchapter, upon payment of a charge based upon the cost of the service. The Secretary shall make available without payment of a charge, or require any person to furnish, to such State agency as is designated by law or by the Governor of the State in which such person has his principal place of business or headquarters, upon request of the Governor of such State, copies of any reports and documents filed by such person with the Secretary pursuant to section 431, 432, 433, or 441 of this title, or of information and data contained therein. No person shall be required by reason of any law of any State to furnish to any officer or agency of such State any information included in a report filed by such person with the Secretary pursuant to the provisions of this subchapter, if a copy of such report, or of the portion thereof containing such information, is furnished to such officer or agency. All moneys received in payment of such charges fixed by the Secretary pursuant to this subsection shall be deposited in the general fund of the Treasury.
 
-(Pub. L. 86–257, title II, § 205, Sept. 14, 1959, 73 Stat. 528; Pub. L. 89–216, § 2(a)–(c), Sept. 29, 1965, 79 Stat. 888.)
+(Pub. L. 86–257, title II, § 205, Sept. 14, 1959, 73 Stat. 528; Pub. L. 89–216, § 2(a)–(c), Sept. 29, 1965, 79 Stat. 888.)
 
 **Editorial Notes**
 
@@ -341,19 +341,19 @@ The Secretary shall by regulation provide for the furnishing by the Department o
 
 1965—Pub. L. 89–216 inserted references to section 441 of this title.
 
-### § 436. Retention of records
+### § 436. Retention of records
 
 Every person required to file any report under this subchapter shall maintain records on the matters required to be reported which will provide in sufficient detail the necessary basic information and data from which the documents filed with the Secretary may be verified, explained, or clarified, and checked for accuracy and completeness, and shall include vouchers, worksheets, receipts, and applicable resolutions, and shall keep such records available for examination for a period of not less than five years after the filing of the documents based on the information which they contain.
 
-(Pub. L. 86–257, title II, § 206, Sept. 14, 1959, 73 Stat. 529.)
+(Pub. L. 86–257, title II, § 206, Sept. 14, 1959, 73 Stat. 529.)
 
-### § 437. Time for making reports
+### § 437. Time for making reports
 
 **(a)** Each labor organization shall file the initial report required under section 431(a) of this title within ninety days after the date on which it first becomes subject to this chapter.
 
 **(b)** Each person required to file a report under section 431(b), 432, 433(a), the second sentence of 433(b), or section 441 of this title shall file such report within ninety days after the end of each of its fiscal years; except that where such person is subject to section 431(b), 432, 433(a), the second sentence of 433(b), or section 441 of this title, as the case may be, for only a portion of such a fiscal year (because September 14, 1959, occurs during such person’s fiscal year) such person becomes subject to this chapter during its fiscal year or such person may consider that portion as the entire fiscal year in making such report.
 
-(Pub. L. 86–257, title II, § 207, Sept. 14, 1959, 73 Stat. 529; Pub. L. 89–216, § 2(d), Sept. 29, 1965, 79 Stat. 888.)
+(Pub. L. 86–257, title II, § 207, Sept. 14, 1959, 73 Stat. 529; Pub. L. 89–216, § 2(d), Sept. 29, 1965, 79 Stat. 888.)
 
 **Editorial Notes**
 
@@ -361,13 +361,13 @@ Every person required to file any report under this subchapter shall maintain re
 
 1965—Subsec. (b). Pub. L. 89–216 inserted reference to section 441 of this title in two places.
 
-### § 438. Rules and regulations; simplified reports
+### § 438. Rules and regulations; simplified reports
 
 The Secretary shall have authority to issue, amend, and rescind rules and regulations prescribing the form and publication of reports required to be filed under this subchapter and such other reasonable rules and regulations (including rules prescribing reports concerning trusts in which a labor organization is interested) as he may find necessary to prevent the circumvention or evasion of such reporting requirements. In exercising his power under this section the Secretary shall prescribe by general rule simplified reports for labor organizations or employers for whom he finds that by virtue of their size a detailed report would be unduly burdensome, but the Secretary may revoke such provision for simplified forms of any labor organization or employer if he determines, after such investigation as he deems proper and due notice and opportunity for a hearing, that the purposes of this section would be served thereby.
 
-(Pub. L. 86–257, title II, § 208, Sept. 14, 1959, 73 Stat. 529.)
+(Pub. L. 86–257, title II, § 208, Sept. 14, 1959, 73 Stat. 529.)
 
-### § 439. Violations and penalties
+### § 439. Violations and penalties
 
 **(a) Willful violations of provisions of subchapter**
 
@@ -385,29 +385,29 @@ Any person who willfully makes a false entry in or willfully conceals, withholds
 
 Each individual required to sign reports under sections 431 and 433 of this title shall be personally responsible for the filing of such reports and for any statement contained therein which he knows to be false.
 
-(Pub. L. 86–257, title II, § 209, Sept. 14, 1959, 73 Stat. 529.)
+(Pub. L. 86–257, title II, § 209, Sept. 14, 1959, 73 Stat. 529.)
 
-### § 440. Civil action for enforcement by Secretary; jurisdiction
+### § 440. Civil action for enforcement by Secretary; jurisdiction
 
 Whenever it shall appear that any person has violated or is about to violate any of the provisions of this subchapter, the Secretary may bring a civil action for such relief (including injunctions) as may be appropriate. Any such action may be brought in the district court of the United States where the violation occurred or, at the option of the parties, in the United States District Court for the District of Columbia.
 
-(Pub. L. 86–257, title II, § 210, Sept. 14, 1959, 73 Stat. 530.)
+(Pub. L. 86–257, title II, § 210, Sept. 14, 1959, 73 Stat. 530.)
 
-### § 441. Surety company reports; contents; waiver or modification of requirements respecting contents of reports
+### § 441. Surety company reports; contents; waiver or modification of requirements respecting contents of reports
 
 Each surety company which issues any bond required by this chapter or the Employee Retirement Income Security Act of 1974 [29 U.S.C. 1001 et seq.] shall file annually with the Secretary, with respect to each fiscal year during which any such bond was in force, a report, in such form and detail as he may prescribe by regulation, filed by the president and treasurer or corresponding principal officers of the surety company, describing its bond experience under each such chapter or Act, including information as to the premiums received, total claims paid, amounts recovered by way of subrogation, administrative and legal expenses and such related data and information as the Secretary shall determine to be necessary in the public interest and to carry out the policy of the chapter. Notwithstanding the foregoing, if the Secretary finds that any such specific information cannot be practicably ascertained or would be uninformative, the Secretary may modify or waive the requirement for such information.
 
-(Pub. L. 86–257, title II, § 211, as added Pub. L. 89–216, § 3, Sept. 29, 1965, 79 Stat. 888; amended Pub. L. 93–406, title I, § 112(a)(2)(D), formerly § 111(a)(2)(D), Sept. 2, 1974, 88 Stat. 852, renumbered § 112(a)(2)(D), Pub. L. 117–328, div. T, title III, § 320(a)(1), Dec. 29, 2022, 136 Stat. 5354.)
+(Pub. L. 86–257, title II, § 211, as added Pub. L. 89–216, § 3, Sept. 29, 1965, 79 Stat. 888; amended Pub. L. 93–406, title I, § 112(a)(2)(D), formerly § 111(a)(2)(D), Sept. 2, 1974, 88 Stat. 852, renumbered § 112(a)(2)(D), Pub. L. 117–328, div. T, title III, § 320(a)(1), Dec. 29, 2022, 136 Stat. 5354.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 **Amendments**
 
-1974—Pub. L. 93–406, § 112(a)(2)(D), formerly § 111(a)(2)(D), as renumbered by Pub. L. 117–328, substituted “Employee Retirement Income Security Act of 1974” for “Welfare and Pension Plans Disclosure Act”.
+1974—Pub. L. 93–406, § 112(a)(2)(D), formerly § 111(a)(2)(D), as renumbered by Pub. L. 117–328, substituted “Employee Retirement Income Security Act of 1974” for “Welfare and Pension Plans Disclosure Act”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -421,7 +421,7 @@ Amendment by Pub. L. 93–406 effective Jan. 1, 1975, except as provided in sect
 
 ## SUBCHAPTER IV—TRUSTEESHIPS
 
-### § 461. Reports
+### § 461. Reports
 
 **(a) Filing and contents; annual financial report**
 
@@ -443,23 +443,23 @@ Any person who makes a false statement or representation of a material fact, kno
 
 Each individual required to sign a report under this section shall be personally responsible for the filing of such report and for any statement contained therein which he knows to be false.
 
-(Pub. L. 86–257, title III, § 301, Sept. 14, 1959, 73 Stat. 530.)
+(Pub. L. 86–257, title III, § 301, Sept. 14, 1959, 73 Stat. 530.)
 
-### § 462. Purposes for establishment of trusteeship
+### § 462. Purposes for establishment of trusteeship
 
 Trusteeships shall be established and administered by a labor organization over a subordinate body only in accordance with the constitution and bylaws of the organization which has assumed trusteeship over the subordinate body and for the purpose of correcting corruption or financial malpractice, assuring the performance of collective bargaining agreements or other duties of a bargaining representative, restoring democratic procedures, or otherwise carrying out the legitimate objects of such labor organization.
 
-(Pub. L. 86–257, title III, § 302, Sept. 14, 1959, 73 Stat. 531.)
+(Pub. L. 86–257, title III, § 302, Sept. 14, 1959, 73 Stat. 531.)
 
-### § 463. Unlawful acts relating to labor organization under trusteeship
+### § 463. Unlawful acts relating to labor organization under trusteeship
 
 **(a)** During any period when a subordinate body of a labor organization is in trusteeship, it shall be unlawful (1) to count the vote of delegates from such body in any convention or election of officers of the labor organization unless the delegates have been chosen by secret ballot in an election in which all the members in good standing of such subordinate body were eligible to participate, or (2) to transfer to such organization any current receipts or other funds of the subordinate body except the normal per capita tax and assessments payable by subordinate bodies not in trusteeship: *Provided*, That nothing herein contained shall prevent the distribution of the assets of a labor organization in accordance with its constitution and bylaws upon the bona fide dissolution thereof.
 
 **(b)** Any person who willfully violates this section shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
 
-(Pub. L. 86–257, title III, § 303, Sept. 14, 1959, 73 Stat. 531.)
+(Pub. L. 86–257, title III, § 303, Sept. 14, 1959, 73 Stat. 531.)
 
-### § 464. Civil action for enforcement
+### § 464. Civil action for enforcement
 
 **(a) Complaint; investigation; commencement of action by Secretary, member or subordinate body of labor organization; jurisdiction**
 
@@ -473,23 +473,23 @@ For the purpose of actions under this section, district courts of the United Sta
 
 In any proceeding pursuant to this section a trusteeship established by a labor organization in conformity with the procedural requirements of its constitution and bylaws and authorized or ratified after a fair hearing either before the executive board or before such other body as may be provided in accordance with its constitution or bylaws shall be presumed valid for a period of eighteen months from the date of its establishment and shall not be subject to attack during such period except upon clear and convincing proof that the trusteeship was not established or maintained in good faith for a purpose allowable under section 462 of this title. After the expiration of eighteen months the trusteeship shall be presumed invalid in any such proceeding and its discontinuance shall be decreed unless the labor organization shall show by clear and convincing proof that the continuation of the trusteeship is necessary for a purpose allowable under section 462 of this title. In the latter event the court may dismiss the complaint or retain jurisdiction of the cause on such conditions and for such period as it deems appropriate.
 
-(Pub. L. 86–257, title III, § 304, Sept. 14, 1959, 73 Stat. 531.)
+(Pub. L. 86–257, title III, § 304, Sept. 14, 1959, 73 Stat. 531.)
 
-### § 465. Report to Congress
+### § 465. Report to Congress
 
 The Secretary shall submit to the Congress at the expiration of three years from September 14, 1959, a report upon the operation of this subchapter.
 
-(Pub. L. 86–257, title III, § 305, Sept. 14, 1959, 73 Stat. 532.)
+(Pub. L. 86–257, title III, § 305, Sept. 14, 1959, 73 Stat. 532.)
 
-### § 466. Additional rights and remedies; exclusive jurisdiction of district court; res judicata
+### § 466. Additional rights and remedies; exclusive jurisdiction of district court; res judicata
 
 The rights and remedies provided by this subchapter shall be in addition to any and all other rights and remedies at law or in equity: *Provided*, That upon the filing of a complaint by the Secretary the jurisdiction of the district court over such trusteeship shall be exclusive and the final judgment shall be res judicata.
 
-(Pub. L. 86–257, title III, § 306, Sept. 14, 1959, 73 Stat. 532.)
+(Pub. L. 86–257, title III, § 306, Sept. 14, 1959, 73 Stat. 532.)
 
 ## SUBCHAPTER V—ELECTIONS
 
-### § 481. Terms of office and election procedures
+### § 481. Terms of office and election procedures
 
 **(a) Officers of national or international labor organizations; manner of election**
 
@@ -527,19 +527,19 @@ If the Secretary, upon application of any member of a local labor organization, 
 
 The Secretary shall promulgate rules and regulations prescribing minimum standards and procedures for determining the adequacy of the removal procedures to which reference is made in subsection (h).
 
-(Pub. L. 86–257, title IV, § 401, Sept. 14, 1959, 73 Stat. 532.)
+(Pub. L. 86–257, title IV, § 401, Sept. 14, 1959, 73 Stat. 532.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (h), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (h), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 86–257, title IV, § 404, Sept. 14, 1959, 73 Stat. 535, provided that:
+Pub. L. 86–257, title IV, § 404, Sept. 14, 1959, 73 Stat. 535, provided that:
 
 > “The provisions of this title [enacting this subchapter] shall become applicable—
 
@@ -547,7 +547,7 @@ Pub. L. 86–257, title IV, § 404, Sept. 14, 1959, 73 Stat. 535, provided tha
 
 > **“(2)** where such modification can only be made by a constitutional convention of the labor organization, not later than the next constitutional convention of such labor organization after the date of enactment of this Act [Sept. 14, 1959], or one year after such date, whichever is sooner. If no such convention is held within such one-year period, the executive board or similar governing body empowered to act for such labor organization between conventions is empowered to make such interim constitutional changes as are necessary to carry out the provisions of this title [enacting this subchapter].”
 
-### § 482. Enforcement
+### § 482. Enforcement
 
 **(a) Filing of complaint; presumption of validity of challenged election** A member of a labor organization—
 
@@ -573,7 +573,7 @@ the court shall declare the election, if any, to be void and direct the conduct 
 
 An order directing an election, dismissing a complaint, or designating elected officers of a labor organization shall be appealable in the same manner as the final judgment in a civil action, but an order directing an election shall not be stayed pending appeal.
 
-(Pub. L. 86–257, title IV, § 402, Sept. 14, 1959, 73 Stat. 534.)
+(Pub. L. 86–257, title IV, § 402, Sept. 14, 1959, 73 Stat. 534.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -581,11 +581,11 @@ An order directing an election, dismissing a complaint, or designating elected o
 
 Section applicable ninety days after Sept. 14, 1959, in the case of certain labor organizations, see section 404 of Pub. L. 86–257, set out as a note under section 481 of this title.
 
-### § 483. Application of other laws; existing rights and remedies; exclusiveness of remedy for challenging election
+### § 483. Application of other laws; existing rights and remedies; exclusiveness of remedy for challenging election
 
 No labor organization shall be required by law to conduct elections of officers with greater frequency or in a different form or manner than is required by its own constitution or bylaws, except as otherwise provided by this subchapter. Existing rights and remedies to enforce the constitution and bylaws of a labor organization with respect to elections prior to the conduct thereof shall not be affected by the provisions of this subchapter. The remedy provided by this subchapter for challenging an election already conducted shall be exclusive.
 
-(Pub. L. 86–257, title IV, § 403, Sept. 14, 1959, 73 Stat. 534.)
+(Pub. L. 86–257, title IV, § 403, Sept. 14, 1959, 73 Stat. 534.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -595,7 +595,7 @@ Section applicable ninety days after Sept. 14, 1959, in the case of certain labo
 
 ## SUBCHAPTER VI—SAFEGUARDS FOR LABOR ORGANIZATIONS
 
-### § 501. Fiduciary responsibility of officers of labor organizations
+### § 501. Fiduciary responsibility of officers of labor organizations
 
 **(a) Duties of officers; exculpatory provisions and resolutions void**
 
@@ -609,27 +609,27 @@ When any officer, agent, shop steward, or representative of any labor organizati
 
 Any person who embezzles, steals, or unlawfully and willfully abstracts or converts to his own use, or the use of another, any of the moneys, funds, securities, property, or other assets of a labor organization of which he is an officer, or by which he is employed, directly or indirectly, shall be fined not more than $10,000 or imprisoned for not more than five years, or both.
 
-(Pub. L. 86–257, title V, § 501, Sept. 14, 1959, 73 Stat. 535.)
+(Pub. L. 86–257, title V, § 501, Sept. 14, 1959, 73 Stat. 535.)
 
-### § 502. Bonding of officers and employees of labor organizations; amount, form, and placement of bonds; penalty for violation
+### § 502. Bonding of officers and employees of labor organizations; amount, form, and placement of bonds; penalty for violation
 
 **(a)** Every officer, agent, shop steward, or other representative or employee of any labor organization (other than a labor organization whose property and annual financial receipts do not exceed $5,000 in value), or of a trust in which a labor organization is interested, who handles funds or other property thereof shall be bonded to provide protection against loss by reason of acts of fraud or dishonesty on his part directly or through connivance with others. The bond of each such person shall be fixed at the beginning of the organization’s fiscal year and shall be in an amount not less than 10 per centum of the funds handled by him and his predecessor or predecessors, if any, during the preceding fiscal year, but in no case more than $500,000. If the labor organization or the trust in which a labor organization is interested does not have a preceding fiscal year, the amount of the bond shall be, in the case of a local labor organization, not less than $1,000, and in the case of any other labor organization or of a trust in which a labor organization is interested, not less than $10,000. Such bonds shall be individual or schedule in form, and shall have a corporate surety company as surety thereon. Any person who is not covered by such bonds shall not be permitted to receive, handle, disburse, or otherwise exercise custody or control of the funds or other property of a labor organization or of a trust in which a labor organization is interested. No such bond shall be placed through an agent or broker or with a surety company in which any labor organization or any officer, agent, shop steward, or other representative of a labor organization has any direct or indirect interest. Such surety company shall be a corporate surety which holds a grant of authority from the Secretary of the Treasury under sections 9304–9308 of title 31, as an acceptable surety on Federal bonds: *Provided*, That when in the opinion of the Secretary a labor organization has made other bonding arrangements which would provide the protection required by this section at comparable cost or less, he may exempt such labor organization from placing a bond through a surety company holding such grant of authority.
 
 **(b)** Any person who willfully violates this section shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
 
-(Pub. L. 86–257, title V, § 502, Sept. 14, 1959, 73 Stat. 536; Pub. L. 89–216, § 1, Sept. 29, 1965, 79 Stat. 888.)
+(Pub. L. 86–257, title V, § 502, Sept. 14, 1959, 73 Stat. 536; Pub. L. 89–216, § 1, Sept. 29, 1965, 79 Stat. 888.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a), “sections 9304–9308 of title 31” substituted for “the Act of July 30, 1947 (6 U.S.C. 6–13)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a), “sections 9304–9308 of title 31” substituted for “the Act of July 30, 1947 (6 U.S.C. 6–13)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
 1965—Subsec. (a). Pub. L. 89–216 substituted “to provide protection against loss by reason of act of fraud or dishonesty on his part directly or through connivance with others” for “for the faithful discharge of his duties” in first sentence and inserted proviso allowing Secretary to permit other arrangements to provide necessary protection.
 
-### § 503. Financial transactions between labor organization and officers and employees
+### § 503. Financial transactions between labor organization and officers and employees
 
 **(a) Direct and indirect loans**
 
@@ -643,13 +643,13 @@ No labor organization or employer shall directly or indirectly pay the fine of a
 
 Any person who willfully violates this section shall be fined not more than $5,000 or imprisoned for not more than one year, or both.
 
-(Pub. L. 86–257, title V, § 503, Sept. 14, 1959, 73 Stat. 536.)
+(Pub. L. 86–257, title V, § 503, Sept. 14, 1959, 73 Stat. 536.)
 
-### § 504. Prohibition against certain persons holding office
+### § 504. Prohibition against certain persons holding office
 
-**(a) Membership in Communist Party; persons convicted of robbery, bribery, etc.** No person who is or has been a member of the Communist Party or who has been convicted of, or served any part of a prison term resulting from his conviction of, robbery, bribery, extortion, embezzlement, grand larceny, burglary, arson, violation of narcotics laws, murder, rape, assault with intent to kill, assault which inflicts grievous bodily injury, or a violation of subchapter III or IV of this chapter 1
+**(a) Membership in Communist Party; persons convicted of robbery, bribery, etc.** No person who is or has been a member of the Communist Party or who has been convicted of, or served any part of a prison term resulting from his conviction of, robbery, bribery, extortion, embezzlement, grand larceny, burglary, arson, violation of narcotics laws, murder, rape, assault with intent to kill, assault which inflicts grievous bodily injury, or a violation of subchapter III or IV of this chapter 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 any felony involving abuse or misuse of such person’s position or employment in a labor organization or employee benefit plan to seek or obtain an illegal gain at the expense of the members of the labor organization or the beneficiaries of the employee benefit plan, or conspiracy to commit any such crimes or attempt to commit any such crimes, or a crime in which any of the foregoing crimes is an element, shall serve or be permitted to serve—
 
@@ -681,13 +681,13 @@ Any person who willfully violates this section shall be fined not more than $10,
 
 **(2)** has filed an appeal of that conviction,
 
-any salary which would be otherwise due such person by virtue of such office or position, shall be placed in escrow by the individual employer or organization responsible for payment of such salary. Payment of such salary into escrow shall continue for the duration of the appeal or for the period of time during which such salary would be otherwise due, whichever period is shorter. Upon the final reversal of such person’s conviction on appeal, the amounts in escrow shall be paid to such person. Upon the final sustaining of such person’s conviction on appeal, the amounts in escrow shall be returned to the individual employer or organization responsible for payments of those amounts. Upon final reversal of such person’s conviction, such person shall no longer be barred by this statute 2
+any salary which would be otherwise due such person by virtue of such office or position, shall be placed in escrow by the individual employer or organization responsible for payment of such salary. Payment of such salary into escrow shall continue for the duration of the appeal or for the period of time during which such salary would be otherwise due, whichever period is shorter. Upon the final reversal of such person’s conviction on appeal, the amounts in escrow shall be paid to such person. Upon the final sustaining of such person’s conviction on appeal, the amounts in escrow shall be returned to the individual employer or organization responsible for payments of those amounts. Upon final reversal of such person’s conviction, such person shall no longer be barred by this statute 2
 
-<sup>2</sup>  So in original. Probably should be “section”.
+<sup>2</sup> So in original. Probably should be “section”.
 
 from assuming any position from which such person was previously barred.
 
-(Pub. L. 86–257, title V, § 504, Sept. 14, 1959, 73 Stat. 536; Pub. L. 98–473, title II, §§ 229, 803, Oct. 12, 1984, 98 Stat. 2031, 2133; Pub. L. 100–182, § 15(a), Dec. 7, 1987, 101 Stat. 1269.)
+(Pub. L. 86–257, title V, § 504, Sept. 14, 1959, 73 Stat. 536; Pub. L. 98–473, title II, §§ 229, 803, Oct. 12, 1984, 98 Stat. 2031, 2133; Pub. L. 100–182, § 15(a), Dec. 7, 1987, 101 Stat. 1269.)
 
 **Editorial Notes**
 
@@ -699,15 +699,15 @@ For information regarding the constitutionality of certain provisions of this se
 
 1987—Subsec. (a). Pub. L. 100–182, in concluding provisions, substituted “if the offense is a Federal offense, the sentencing judge or, if the offense is a State or local offense, the United States district court for the district in which the offense was committed, pursuant to sentencing guidelines and policy statements under section 994(a) of title 28,” for “the United States Parole Commission”, “court” and “court’s” for “Commission” and “Commission’s”, respectively, and “a hearing” for “an administrative hearing”.
 
-1984—Subsec. (a). Pub. L. 98–473, § 229, which directed substitution of “if the offense is a Federal offense, the sentencing judge or, if the offense is a State or local offense, on motion of the United States Department of Justice, the district court of the United States for the district in which the offense was committed, pursuant to sentencing guidelines and policy statements issued pursuant to section 994(a) of title 28,” for “the Board of Parole of the United States Justice Department”, “court” and “court’s” for “Board” and “Board’s”, respectively, and “a” for “an administrative”, was (except for the last substitution) incapable of execution in view of the previous amendment by section 803(a) of Pub. L. 98–473 which became effective prior to the effective date of the amendment by section 229. See note below.
+1984—Subsec. (a). Pub. L. 98–473, § 229, which directed substitution of “if the offense is a Federal offense, the sentencing judge or, if the offense is a State or local offense, on motion of the United States Department of Justice, the district court of the United States for the district in which the offense was committed, pursuant to sentencing guidelines and policy statements issued pursuant to section 994(a) of title 28,” for “the Board of Parole of the United States Justice Department”, “court” and “court’s” for “Board” and “Board’s”, respectively, and “a” for “an administrative”, was (except for the last substitution) incapable of execution in view of the previous amendment by section 803(a) of Pub. L. 98–473 which became effective prior to the effective date of the amendment by section 229. See note below.
 
-Pub. L. 98–473, § 803(a), in amending provisions after “or a violation of subchapter III or IV of this chapter” generally, inserted provisions relating to abuse or misuse of employment in a labor organization or employee benefit plan, substituted “conspiracy to commit any such crimes or attempt to commit any such crimes, or a crime in which any of the foregoing crimes is an element” for “conspiracy to commit any such crimes”, added par. (1), redesignated former par. (1) as (2) and in par. (2) as so redesignated substituted “employee, or representative in any capacity of any labor organization” for “or other employee (other than as an employee performing exclusively clerical or custodial duties) of any labor organization, or”, redesignated former par. (2) as (3) and in par. (3) as so redesignated inserted “or advisor” after “consultant”, struck out “(other than as an employee performing exclusively clerical or custodial duties)” after “employee”, and inserted “or in a position having specific collective bargaining authority or direct responsibility in the area of labor-management relations in any corporation or association engaged in an industry or activity affecting commerce, or”, added pars. (4) and (5), struck out “or for five years after the termination of his membership in the Communist Party,” substituted “the period of thirteen years” for “five years”, inserted “whichever is later, unless the sentencing court on the motion of the person convicted sets a lesser period of at least three years after such conviction or after the end of such imprisonment, whichever is later, or”, substituted in cl. (B) “United States Parole Commission” for “Board of Parole of the United States Department of Justice”, and in the provisions following cl. (B) substituted “Commission” and “Commission’s” for “Board” and “Board’s”, respectively, inserted provision of notice to the Secretary of Labor, and substituted “No person shall knowingly hire, retain, employ, or otherwise place any other person to serve in any capacity in violation of this subsection” for “No labor organization or officer thereof shall knowingly permit any person to assume or hold any office or paid position in violation of this subsection”.
+Pub. L. 98–473, § 803(a), in amending provisions after “or a violation of subchapter III or IV of this chapter” generally, inserted provisions relating to abuse or misuse of employment in a labor organization or employee benefit plan, substituted “conspiracy to commit any such crimes or attempt to commit any such crimes, or a crime in which any of the foregoing crimes is an element” for “conspiracy to commit any such crimes”, added par. (1), redesignated former par. (1) as (2) and in par. (2) as so redesignated substituted “employee, or representative in any capacity of any labor organization” for “or other employee (other than as an employee performing exclusively clerical or custodial duties) of any labor organization, or”, redesignated former par. (2) as (3) and in par. (3) as so redesignated inserted “or advisor” after “consultant”, struck out “(other than as an employee performing exclusively clerical or custodial duties)” after “employee”, and inserted “or in a position having specific collective bargaining authority or direct responsibility in the area of labor-management relations in any corporation or association engaged in an industry or activity affecting commerce, or”, added pars. (4) and (5), struck out “or for five years after the termination of his membership in the Communist Party,” substituted “the period of thirteen years” for “five years”, inserted “whichever is later, unless the sentencing court on the motion of the person convicted sets a lesser period of at least three years after such conviction or after the end of such imprisonment, whichever is later, or”, substituted in cl. (B) “United States Parole Commission” for “Board of Parole of the United States Department of Justice”, and in the provisions following cl. (B) substituted “Commission” and “Commission’s” for “Board” and “Board’s”, respectively, inserted provision of notice to the Secretary of Labor, and substituted “No person shall knowingly hire, retain, employ, or otherwise place any other person to serve in any capacity in violation of this subsection” for “No labor organization or officer thereof shall knowingly permit any person to assume or hold any office or paid position in violation of this subsection”.
 
-Subsec. (b). Pub. L. 98–473, § 803(b), amended subsec. (b) generally, substituting “five years” for “one year”.
+Subsec. (b). Pub. L. 98–473, § 803(b), amended subsec. (b) generally, substituting “five years” for “one year”.
 
-Subsec. (c). Pub. L. 98–473, § 803(c), designated existing provisions as par. (1), substituted provisions defining conviction as from date of judgment of trial court, regardless of appeal, for former provisions defining it as from date of judgment of trial court or date of final sustaining of judgment on appeal, whichever is later, regardless of whether such conviction occurred before or after Sept. 14, 1959, and added par. (2).
+Subsec. (c). Pub. L. 98–473, § 803(c), designated existing provisions as par. (1), substituted provisions defining conviction as from date of judgment of trial court, regardless of appeal, for former provisions defining it as from date of judgment of trial court or date of final sustaining of judgment on appeal, whichever is later, regardless of whether such conviction occurred before or after Sept. 14, 1959, and added par. (2).
 
-Subsec. (d). Pub. L. 98–473, § 803(d), added subsec. (d).
+Subsec. (d). Pub. L. 98–473, § 803(d), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -719,7 +719,7 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 
 Amendment by section 229 of Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
 
-Pub. L. 98–473, title II, § 804, Oct. 12, 1984, 98 Stat. 2134, provided that:
+Pub. L. 98–473, title II, § 804, Oct. 12, 1984, 98 Stat. 2134, provided that:
 
 > **“(a)** The amendments made by section 802 [amending section 1111 of this title] and section 803 [amending this section] of this title shall take effect with respect to any judgment of conviction entered by the trial court after the date of enactment of this title [Oct. 12, 1984], except that that portion of such amendments relating to the commencement of the period of disability shall apply to any judgment of conviction entered prior to the date of enactment of this title if a right of appeal or an appeal from such judgment is pending on the date of enactment of this title.
 
@@ -727,13 +727,13 @@ Pub. L. 98–473, title II, § 804, Oct. 12, 1984, 98 Stat. 2134, provided tha
 
 ## SUBCHAPTER VII—MISCELLANEOUS PROVISIONS
 
-### § 521. Investigations by Secretary; applicability of other laws
+### § 521. Investigations by Secretary; applicability of other laws
 
 **(a)** The Secretary shall have power when he believes it necessary in order to determine whether any person has violated or is about to violate any provision of this chapter (except subchapter II of this chapter) to make an investigation and in connection therewith he may enter such places and inspect such records and accounts and question such persons as he may deem necessary to enable him to determine the facts relative thereto. The Secretary may report to interested persons or officials concerning the facts required to be shown in any report required by this chapter and concerning the reasons for failure or refusal to file such a report or any other matter which he deems to be appropriate as a result of such an investigation.
 
 **(b)** For the purpose of any investigation provided for in this chapter, the provisions of sections 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, papers, and documents), are made applicable to the jurisdiction, powers, and duties of the Secretary or any officers designated by him.
 
-(Pub. L. 86–257, title VI, § 601, Sept. 14, 1959, 73 Stat. 539.)
+(Pub. L. 86–257, title VI, § 601, Sept. 14, 1959, 73 Stat. 539.)
 
 **Editorial Notes**
 
@@ -741,21 +741,21 @@ Pub. L. 98–473, title II, § 804, Oct. 12, 1984, 98 Stat. 2134, provided tha
 
 The phrase “this chapter (except subchapter II of this chapter)”, referred to in subsec. (a), was in the original “this Act (except title I or amendments made by this Act to other statutes)”. “This chapter”, referred to later in subsec. (a) and also in subsec. (b), was in the original “this Act”. “This Act” is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, as amended, known as the Labor-Management Reporting and Disclosure Act of 1959, which enacted this chapter, amended sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacted provisions set out as notes under sections 153, 158, and 481 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
 
-### § 522. Extortionate picketing; penalty for violation
+### § 522. Extortionate picketing; penalty for violation
 
 **(a)** It shall be unlawful to carry on picketing on or about the premises of any employer for the purpose of, or as part of any conspiracy or in furtherance of any plan or purpose for, the personal profit or enrichment of any individual (except a bona fide increase in wages or other employee benefits) by taking or obtaining any money or other thing of value from such employer against his will or with his consent.
 
 **(b)** Any person who willfully violates this section shall be fined not more than $10,000 or imprisoned not more than twenty years, or both.
 
-(Pub. L. 86–257, title VI, § 602, Sept. 14, 1959, 73 Stat. 539.)
+(Pub. L. 86–257, title VI, § 602, Sept. 14, 1959, 73 Stat. 539.)
 
-### § 523. Retention of rights under other Federal and State laws
+### § 523. Retention of rights under other Federal and State laws
 
 **(a)** Except as explicitly provided to the contrary, nothing in this chapter shall reduce or limit the responsibilities of any labor organization or any officer, agent, shop steward, or other representative of a labor organization, or of any trust in which a labor organization is interested, under any other Federal law or under the laws of any State, and, except as explicitly provided to the contrary, nothing in this chapter shall take away any right or bar any remedy to which members of a labor organization are entitled under such other Federal law or law of any State.
 
 **(b)** Nothing contained in this chapter and section 186(a)–(c) of this title shall be construed to supersede or impair or otherwise affect the provisions of the Railway Labor Act, as amended [45 U.S.C. 151 et seq.], or any of the obligations, rights, benefits, privileges, or immunities of any carrier, employee, organization, representative, or person subject thereto; nor shall anything contained in this chapter be construed to confer any rights, privileges, immunities, or defenses upon employers, or to impair or otherwise affect the rights of any person under the National Labor Relations Act, as amended [29 U.S.C. 151 et seq.].
 
-(Pub. L. 86–257, title VI, § 603, Sept. 14, 1959, 73 Stat. 540.)
+(Pub. L. 86–257, title VI, § 603, Sept. 14, 1959, 73 Stat. 540.)
 
 **Editorial Notes**
 
@@ -765,21 +765,21 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 The phrase “this chapter and section 186(a)–(c) of this title”, referred to in subsec. (b), was in original “titles I, II, III, IV, V, or VI of this Act”. The phrase “this chapter” later appearing in subsec. (b), was in original “said titles (except section 505) of this Act”. Original text reference, in both instances, includes those sections of the Act which are classified principally to this chapter. For complete classification of such titles to the Code, see Tables.
 
-The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
-The National Labor Relations Act, referred to in subsec. (b), is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
+The National Labor Relations Act, referred to in subsec. (b), is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
 
-### § 524. Effect on State laws
+### § 524. Effect on State laws
 
 Nothing in this chapter shall be construed to impair or diminish the authority of any State to enact and enforce general criminal laws with respect to robbery, bribery, extortion, embezzlement, grand larceny, burglary, arson, violation of narcotics laws, murder, rape, assault with intent to kill, or assault which inflicts grievous bodily injury, or conspiracy to commit any of such crimes.
 
-(Pub. L. 86–257, title VI, § 604, Sept. 14, 1959, 73 Stat. 540.)
+(Pub. L. 86–257, title VI, § 604, Sept. 14, 1959, 73 Stat. 540.)
 
-### § 524a. Elimination of racketeering activities threat; State legislation governing collective bargaining representative
+### § 524a. Elimination of racketeering activities threat; State legislation governing collective bargaining representative
 
 Notwithstanding this or any other Act regulating labor-management relations, each State shall have the authority to enact and enforce, as part of a comprehensive statutory system to eliminate the threat of pervasive racketeering activity in an industry that is, or over time has been, affected by such activity, a provision of law that applies equally to employers, employees, and collective bargaining representatives, which provision of law governs service in any position in a local labor organization which acts or seeks to act in that State as a collective bargaining representative pursuant to the National Labor Relations Act [29 U.S.C. 151 et seq.], in the industry that is subject to that program.
 
-(Pub. L. 98–473, title II, § 2201, Oct. 12, 1984, 98 Stat. 2192.)
+(Pub. L. 98–473, title II, § 2201, Oct. 12, 1984, 98 Stat. 2192.)
 
 **Editorial Notes**
 
@@ -787,56 +787,56 @@ Notwithstanding this or any other Act regulating labor-management relations, eac
 
 This Act, referred to in text, probably means title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1976, known as the Comprehensive Crime Control Act of 1984. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
-The National Labor Relations Act, referred to in text, is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
+The National Labor Relations Act, referred to in text, is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
 
 **Codification**
 
 Section was not enacted as part of the Labor-Management Reporting and Disclosure Act of 1959, which comprises this chapter.
 
-### § 525. Service of process
+### § 525. Service of process
 
 For the purposes of this chapter, service of summons, subpena, or other legal process of a court of the United States upon an officer or agent of a labor organization in his capacity as such shall constitute service upon the labor organization.
 
-(Pub. L. 86–257, title VI, § 605, Sept. 14, 1959, 73 Stat. 540.)
+(Pub. L. 86–257, title VI, § 605, Sept. 14, 1959, 73 Stat. 540.)
 
-### § 526. Applicability of administrative procedure provisions
+### § 526. Applicability of administrative procedure provisions
 
 The provisions of subchapter II of chapter 5, and chapter 7, of title 5 shall be applicable to the issuance, amendment, or rescission of any rules or regulations, or any adjudication authorized or required pursuant to the provisions of this chapter.
 
-(Pub. L. 86–257, title VI, § 606, Sept. 14, 1959, 73 Stat. 540.)
+(Pub. L. 86–257, title VI, § 606, Sept. 14, 1959, 73 Stat. 540.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Subchapter II of chapter 5, and chapter 7, of title 5” substituted in text for “the Administrative Procedure Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Subchapter II of chapter 5, and chapter 7, of title 5” substituted in text for “the Administrative Procedure Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-### § 527. Cooperation with other agencies and departments
+### § 527. Cooperation with other agencies and departments
 
 In order to avoid unnecessary expense and duplication of functions among Government agencies, the Secretary may make such arrangements or agreements for cooperation or mutual assistance in the performance of his functions under this chapter and the functions of any such agency as he may find to be practicable and consistent with law. The Secretary may utilize the facilities or services of any department, agency, or establishment of the United States or of any State or political subdivision of a State, including the services of any of its employees, with the lawful consent of such department, agency, or establishment; and each department, agency, or establishment of the United States is authorized and directed to cooperate with the Secretary and, to the extent permitted by law, to provide such information and facilities as he may request for his assistance in the performance of his functions under this chapter. The Attorney General or his representative shall receive from the Secretary for appropriate action such evidence developed in the performance of his functions under this chapter as may be found to warrant consideration for criminal prosecution under the provisions of this chapter or other Federal law.
 
-(Pub. L. 86–257, title VI, § 607, Sept. 14, 1959, 73 Stat. 540.)
+(Pub. L. 86–257, title VI, § 607, Sept. 14, 1959, 73 Stat. 540.)
 
-### § 528. Criminal contempt
+### § 528. Criminal contempt
 
 No person shall be punished for any criminal contempt allegedly committed outside the immediate presence of the court in connection with any civil action prosecuted by the Secretary or any other person in any court of the United States under the provisions of this chapter unless the facts constituting such criminal contempt are established by the verdict of the jury in a proceeding in the district court of the United States, which jury shall be chosen and empaneled in the manner prescribed by the law governing trial juries in criminal prosecutions in the district courts of the United States.
 
-(Pub. L. 86–257, title VI, § 608, Sept. 14, 1959, 73 Stat. 541.)
+(Pub. L. 86–257, title VI, § 608, Sept. 14, 1959, 73 Stat. 541.)
 
-### § 529. Prohibition on certain discipline by labor organization
+### § 529. Prohibition on certain discipline by labor organization
 
 It shall be unlawful for any labor organization, or any officer, agent, shop steward, or other representative of a labor organization, or any employee thereof to fine, suspend, expel, or otherwise discipline any of its members for exercising any right to which he is entitled under the provisions of this chapter. The provisions of section 412 of this title shall be applicable in the enforcement of this section.
 
-(Pub. L. 86–257, title VI, § 609, Sept. 14, 1959, 73 Stat. 541.)
+(Pub. L. 86–257, title VI, § 609, Sept. 14, 1959, 73 Stat. 541.)
 
-### § 530. Deprivation of rights by violence; penalty
+### § 530. Deprivation of rights by violence; penalty
 
 It shall be unlawful for any person through the use of force or violence, or threat of the use of force or violence, to restrain, coerce, or intimidate, or attempt to restrain, coerce, or intimidate any member of a labor organization for the purpose of interfering with or preventing the exercise of any right to which he is entitled under the provisions of this chapter. Any person who willfully violates this section shall be fined not more than $1,000 or imprisoned for not more than one year, or both.
 
-(Pub. L. 86–257, title VI, § 610, Sept. 14, 1959, 73 Stat. 541.)
+(Pub. L. 86–257, title VI, § 610, Sept. 14, 1959, 73 Stat. 541.)
 
-### § 531. Separability
+### § 531. Separability
 
 If any provision of this chapter, or the application of such provision to any person or circumstances, shall be held invalid, the remainder of this chapter or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-(Pub. L. 86–257, title VI, § 611, Sept. 14, 1959, 73 Stat. 541.)
+(Pub. L. 86–257, title VI, § 611, Sept. 14, 1959, 73 Stat. 541.)

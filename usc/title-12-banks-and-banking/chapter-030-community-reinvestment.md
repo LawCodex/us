@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 30—COMMUNITY REINVESTMENT
 
-## § 2901. Congressional findings and statement of purpose
+## § 2901. Congressional findings and statement of purpose
 
 **(a)** The Congress finds that—
 
@@ -27,17 +27,17 @@ retrieved: 2026-10-11
 
 **(b)** It is the purpose of this chapter to require each appropriate Federal financial supervisory agency to use its authority when examining financial institutions, to encourage such institutions to help meet the credit needs of the local communities in which they are chartered consistent with the safe and sound operation of such institutions.
 
-(Pub. L. 95–128, title VIII, § 802, Oct. 12, 1977, 91 Stat. 1147.)
+(Pub. L. 95–128, title VIII, § 802, Oct. 12, 1977, 91 Stat. 1147.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 95–128, title VIII, § 801, Oct. 12, 1977, 91 Stat. 1147, provided that: “This title [enacting this chapter] may be cited as the ‘Community Reinvestment Act of 1977’.”
+Pub. L. 95–128, title VIII, § 801, Oct. 12, 1977, 91 Stat. 1147, provided that: “This title [enacting this chapter] may be cited as the ‘Community Reinvestment Act of 1977’.”
 
 **Responsiveness to Community Needs for Financial Services**
 
-Pub. L. 106–102, title VII, § 715, Nov. 12, 1999, 113 Stat. 1470, provided that:
+Pub. L. 106–102, title VII, § 715, Nov. 12, 1999, 113 Stat. 1470, provided that:
 
 > **“(a) Study.—** The Secretary of the Treasury, in consultation with the Federal banking agencies (as defined in section 3(z) of the Federal Deposit Insurance Act [12 U.S.C. 1813(z)]), shall conduct a study of the extent to which adequate services are being provided as intended by the Community Reinvestment Act of 1977 [12 U.S.C. 2901 et seq.], including services in low- and moderate-income neighborhoods and for persons of modest means, as a result of the enactment of this Act [see Tables for classification].
 
@@ -53,9 +53,9 @@ Pub. L. 106–102, title VII, § 715, Nov. 12, 1999, 113 Stat. 1470, provided 
 
 **Report on Community Development Lending**
 
-Pub. L. 102–550, title IX, § 910, Oct. 28, 1992, 106 Stat. 3874, provided that not later than 12 months after Oct. 28, 1992, the Board of Governors of the Federal Reserve System shall submit a report to Congress comparing residential, small business, and commercial lending by insured depository institutions in low-income, minority, and distressed neighborhoods to such lending in other neighborhoods, with the report to contain comparisons of relevant risks and reasons for different lending practices.
+Pub. L. 102–550, title IX, § 910, Oct. 28, 1992, 106 Stat. 3874, provided that not later than 12 months after Oct. 28, 1992, the Board of Governors of the Federal Reserve System shall submit a report to Congress comparing residential, small business, and commercial lending by insured depository institutions in low-income, minority, and distressed neighborhoods to such lending in other neighborhoods, with the report to contain comparisons of relevant risks and reasons for different lending practices.
 
-## § 2902. Definitions
+## § 2902. Definitions
 
 For the purposes of this chapter—
 
@@ -67,7 +67,7 @@ For the purposes of this chapter—
 
 **(C)** the Federal Deposit Insurance Corporation with respect to State chartered banks and savings banks which are not members of the Federal Reserve System and the deposits of which are insured by the Corporation, and State savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation).1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(2)** the term “regulated financial institution” means an insured depository institution (as defined in section 1813 of this title); and
 
@@ -81,37 +81,37 @@ For the purposes of this chapter—
 
 **(D)** the relocation of the home office or a branch office of a regulated financial institution;
 
-**(E)** the merger or consolidation with, or the acquisition of the assets, or the assumption of the liabilities of a regulated financial institution requiring approval under section 1828(c) of this title or under regulations issued under the authority of title IV 2
+**(E)** the merger or consolidation with, or the acquisition of the assets, or the assumption of the liabilities of a regulated financial institution requiring approval under section 1828(c) of this title or under regulations issued under the authority of title IV 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of the National Housing Act [12 U.S.C. 1724 et seq.]; or
 
-**(F)** the acquisition of shares in, or the assets of, a regulated financial institution requiring approval under section 1842 of this title or section 408(e) <sup>2</sup> of the National Housing Act [12 U.S.C. 1730a(e)].
+**(F)** the acquisition of shares in, or the assets of, a regulated financial institution requiring approval under section 1842 of this title or section 408(e) <sup>2</sup> of the National Housing Act [12 U.S.C. 1730a(e)].
 
 **(4)** A financial institution whose business predominately consists of serving the needs of military personnel who are not located within a defined geographic area may define its “entire community” to include its entire deposit customer base without regard to geographic proximity.
 
-(Pub. L. 95–128, title VIII, § 803, Oct. 12, 1977, 91 Stat. 1147; Pub. L. 95–630, title XV, § 1502, Nov. 10, 1978, 92 Stat. 3713; Pub. L. 101–73, title VII, § 744(q), title XII, § 1212(a), Aug. 9, 1989, 103 Stat. 440, 526; Pub. L. 111–203, title III, § 358(1), July 21, 2010, 124 Stat. 1548.)
+(Pub. L. 95–128, title VIII, § 803, Oct. 12, 1977, 91 Stat. 1147; Pub. L. 95–630, title XV, § 1502, Nov. 10, 1978, 92 Stat. 3713; Pub. L. 101–73, title VII, § 744(q), title XII, § 1212(a), Aug. 9, 1989, 103 Stat. 440, 526; Pub. L. 111–203, title III, § 358(1), July 21, 2010, 124 Stat. 1548.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Housing Act, referred to in par. (3)(E), (F), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title IV of the National Housing Act which was classified generally to subchapter IV (§ 1724 et seq.) of chapter 13 of this title, was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363. Section 408 of the National Housing Act, which was classified to section 1730a of this title, was also repealed by section 407 of Pub. L. 101–73. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in par. (3)(E), (F), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title IV of the National Housing Act which was classified generally to subchapter IV (§ 1724 et seq.) of chapter 13 of this title, was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363. Section 408 of the National Housing Act, which was classified to section 1730a of this title, was also repealed by section 407 of Pub. L. 101–73. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 **Amendments**
 
-Par. (1)(A). Pub. L. 111–203, § 358(1)(A)(i), inserted “and Federal savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation)” after “banks”.
+Par. (1)(A). Pub. L. 111–203, § 358(1)(A)(i), inserted “and Federal savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation)” after “banks”.
 
-Par. (1)(B). Pub. L. 111–203, § 358(1)(A)(ii), substituted “, bank holding companies, and savings and loan holding companies” for “and bank holding companies”.
+Par. (1)(B). Pub. L. 111–203, § 358(1)(A)(ii), substituted “, bank holding companies, and savings and loan holding companies” for “and bank holding companies”.
 
-Par. (1)(C). Pub. L. 111–203, § 358(1)(A)(iii), substituted “, and State savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation).” for “; and”.
+Par. (1)(C). Pub. L. 111–203, § 358(1)(A)(iii), substituted “, and State savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation).” for “; and”.
 
-Par. (2). Pub. L. 111–203, § 358(1)(B), struck out par. (2) relating to the Director of the Office of Thrift Supervision which read as follows: “section 1818 of this title, by the Director of the Office of Thrift Supervision, in the case of a savings association (the deposits of which are insured by the Federal Deposit Insurance Corporation) and a savings and loan holding company;”.
+Par. (2). Pub. L. 111–203, § 358(1)(B), struck out par. (2) relating to the Director of the Office of Thrift Supervision which read as follows: “section 1818 of this title, by the Director of the Office of Thrift Supervision, in the case of a savings association (the deposits of which are insured by the Federal Deposit Insurance Corporation) and a savings and loan holding company;”.
 
-1989—Par. (1)(D). Pub. L. 101–73, § 744(q), directed the general amendment of par. (1)(D) but then set out “(2)” followed by the text of the new provisions. Prior to amendment, par. (1)(D) read as follows: “the Federal Home Loan Bank Board with respect to institutions the deposits of which are insured by the Federal Savings and Loan Insurance Corporation and to savings and loan holding companies;”.
+1989—Par. (1)(D). Pub. L. 101–73, § 744(q), directed the general amendment of par. (1)(D) but then set out “(2)” followed by the text of the new provisions. Prior to amendment, par. (1)(D) read as follows: “the Federal Home Loan Bank Board with respect to institutions the deposits of which are insured by the Federal Savings and Loan Insurance Corporation and to savings and loan holding companies;”.
 
-Par. (2). Pub. L. 101–73, § 1212(a), substituted “insured depository institution (as defined in section 1813 of this title)” for “insured bank as defined in section 1813 of this title or an insured institution as defined in section 401 of the National Housing Act”.
+Par. (2). Pub. L. 101–73, § 1212(a), substituted “insured depository institution (as defined in section 1813 of this title)” for “insured bank as defined in section 1813 of this title or an insured institution as defined in section 401 of the National Housing Act”.
 
 1978—Par. (4). Pub. L. 95–630 added par. (4).
 
@@ -125,7 +125,7 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1505 of Pub. L. 95–630, set out as a note under section 27 of this title.
 
-## § 2903. Financial institutions; evaluation
+## § 2903. Financial institutions; evaluation
 
 **(a) In general** In connection with its examination of a financial institution, the appropriate Federal financial supervisory agency shall—
 
@@ -141,15 +141,15 @@ In assessing and taking into account, under subsection (a), the record of a nonm
 
 **(1) In general** An election by a bank holding company to become a financial holding company under section 1843 of this title shall not be effective if—
 
-**(A)** the Board finds that, as of the date the declaration of such election and the certification is filed by such holding company under section 1843(*l*)(1)(C) 1
+**(A)** the Board finds that, as of the date the declaration of such election and the certification is filed by such holding company under section 1843(*l*)(1)(C) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, not all of the subsidiary insured depository institutions of the bank holding company had achieved a rating of “satisfactory record of meeting community credit needs”, or better, at the most recent examination of each such institution; and
 
 **(B)** the Board notifies the company of such finding before the end of the 30-day period beginning on such date.
 
-**(2) Limited exclusions for newly acquired insured depository institutions** Any insured depository institution acquired by a bank holding company during the 12-month period preceding the date of the submission to the Board of the declaration and certification under section 1843(*l*)(1)(C) <sup>1</sup> of this title may be excluded for purposes of paragraph (1) during the 12-month period beginning on the date of such acquisition if—
+**(2) Limited exclusions for newly acquired insured depository institutions** Any insured depository institution acquired by a bank holding company during the 12-month period preceding the date of the submission to the Board of the declaration and certification under section 1843(*l*)(1)(C) <sup>1</sup> of this title may be excluded for purposes of paragraph (1) during the 12-month period beginning on the date of such acquisition if—
 
 **(A)** the bank holding company has submitted an affirmative plan to the appropriate Federal financial supervisory agency to take such action as may be necessary in order for such institution to achieve a rating of “satisfactory record of meeting community credit needs”, or better, at the next examination of the institution; and
 
@@ -173,13 +173,13 @@ The term “insured depository institution” has the meaning given the term in 
 
 In assessing and taking into account, under subsection (a), the record of a financial institution, the appropriate Federal financial supervisory agency shall consider, as a factor, low-cost education loans provided by the financial institution to low-income borrowers.
 
-(Pub. L. 95–128, title VIII, § 804, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 102–550, title IX, § 909(1), Oct. 28, 1992, 106 Stat. 3874; Pub. L. 106–102, title I, § 103(b), Nov. 12, 1999, 113 Stat. 1350; Pub. L. 110–315, title X, § 1031(a), Aug. 14, 2008, 122 Stat. 3488.)
+(Pub. L. 95–128, title VIII, § 804, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 102–550, title IX, § 909(1), Oct. 28, 1992, 106 Stat. 3874; Pub. L. 106–102, title I, § 103(b), Nov. 12, 1999, 113 Stat. 1350; Pub. L. 110–315, title X, § 1031(a), Aug. 14, 2008, 122 Stat. 3488.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1843(*l*)(1)(C) of this title, referred to in subsec. (c)(1)(A), (2), was redesignated section 1843(*l*)(1)(D) of this title by Pub. L. 111–203, title VI, § 606(a)(2), July 21, 2010, 124 Stat. 1607.
+Section 1843(*l*)(1)(C) of this title, referred to in subsec. (c)(1)(A), (2), was redesignated section 1843(*l*)(1)(D) of this title by Pub. L. 111–203, title VI, § 606(a)(2), July 21, 2010, 124 Stat. 1607.
 
 **Amendments**
 
@@ -197,29 +197,29 @@ Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see secti
 
 **Regulations**
 
-Pub. L. 110–315, title X, § 1031(b), Aug. 14, 2008, 122 Stat. 3488, provided that: “Not later than 1 year after the date of enactment of this Act [Aug. 14, 2008], each appropriate Federal financial supervisory agency shall issue rules in final form to implement section 804(d) of the Community Reinvestment Act of 1977 [12 U.S.C. 2903(d)], as added by this section.”
+Pub. L. 110–315, title X, § 1031(b), Aug. 14, 2008, 122 Stat. 3488, provided that: “Not later than 1 year after the date of enactment of this Act [Aug. 14, 2008], each appropriate Federal financial supervisory agency shall issue rules in final form to implement section 804(d) of the Community Reinvestment Act of 1977 [12 U.S.C. 2903(d)], as added by this section.”
 
-## § 2904. Report to Congress
+## § 2904. Report to Congress
 
 Each appropriate Federal financial supervisory agency shall include in its annual report to the Congress a section outlining the actions it has taken to carry out its responsibilities under this chapter.
 
-(Pub. L. 95–128, title VIII, § 805, Oct. 12, 1977, 91 Stat. 1148.)
+(Pub. L. 95–128, title VIII, § 805, Oct. 12, 1977, 91 Stat. 1148.)
 
-## § 2905. Regulations
+## § 2905. Regulations
 
 Regulations to carry out the purposes of this chapter shall be published by each appropriate Federal financial supervisory agency, except that the Comptroller of the Currency shall prescribe regulations applicable to savings associations and the Board of Governors shall prescribe regulations applicable to insured State member banks, bank holding companies and savings and loan holding companies,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 and shall take effect no later than 390 days after October 12, 1977.
 
-(Pub. L. 95–128, title VIII, § 806, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 111–203, title III, § 358(2), July 21, 2010, 124 Stat. 1548.)
+(Pub. L. 95–128, title VIII, § 806, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 111–203, title III, § 358(2), July 21, 2010, 124 Stat. 1548.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–203 inserted “, except that the Comptroller of the Currency shall prescribe regulations applicable to savings associations and the Board of Governors shall prescribe regulations applicable to insured State member banks, bank holding companies and savings and loan holding companies,” after “supervisory agency”.
+2010—Pub. L. 111–203 inserted “, except that the Comptroller of the Currency shall prescribe regulations applicable to savings associations and the Board of Governors shall prescribe regulations applicable to insured State member banks, bank holding companies and savings and loan holding companies,” after “supervisory agency”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -227,7 +227,7 @@ and shall take effect no later than 390 days after October 12, 1977.
 
 Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
-## § 2906. Written evaluations
+## § 2906. Written evaluations
 
 **(a) Required**
 
@@ -255,9 +255,9 @@ Each written evaluation required under paragraph (1) shall have a public section
 
 The information required by clauses (i) and (ii) of subparagraph (A) shall be presented separately for each metropolitan area in which a regulated depository institution maintains one or more domestic branch offices.
 
-**(2) Assigned rating** The institution’s rating referred to in paragraph (1)(C) 1
+**(2) Assigned rating** The institution’s rating referred to in paragraph (1)(C) 1
 
-<sup>1</sup>  So in original. Probably should be paragraph “(1)(A)(iii)”.
+<sup>1</sup> So in original. Probably should be paragraph “(1)(A)(iii)”.
 
 shall be 1 of the following:
 
@@ -317,7 +317,7 @@ The term “metropolitan area” means any primary metropolitan statistical area
 
 The term “State” has the same meaning as in section 1813 of this title.
 
-(Pub. L. 95–128, title VIII, § 807, as added Pub. L. 101–73, title XII, § 1212(b), Aug. 9, 1989, 103 Stat. 527; amended Pub. L. 102–242, title II, § 222, Dec. 19, 1991, 105 Stat. 2306; Pub. L. 103–328, title I, § 110, Sept. 29, 1994, 108 Stat. 2364.)
+(Pub. L. 95–128, title VIII, § 807, as added Pub. L. 101–73, title XII, § 1212(b), Aug. 9, 1989, 103 Stat. 527; amended Pub. L. 102–242, title II, § 222, Dec. 19, 1991, 105 Stat. 2306; Pub. L. 103–328, title I, § 110, Sept. 29, 1994, 108 Stat. 2364.)
 
 **Editorial Notes**
 
@@ -327,19 +327,19 @@ This chapter, referred to in subsecs. (b)(1)(A)(i) and (c)(3), was in the origin
 
 **Amendments**
 
-1994—Subsec. (b)(1). Pub. L. 103–328, § 110(b), redesignated existing provisions as subpar. (A) and former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
+1994—Subsec. (b)(1). Pub. L. 103–328, § 110(b), redesignated existing provisions as subpar. (A) and former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
 
-Subsecs. (d), (e). Pub. L. 103–328, § 110(a), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 103–328, § 110(a), added subsecs. (d) and (e).
 
-1991—Subsec. (a)(1). Pub. L. 102–242, § 222(b)(1), substituted “financial supervisory” for “depository institutions regulatory”.
+1991—Subsec. (a)(1). Pub. L. 102–242, § 222(b)(1), substituted “financial supervisory” for “depository institutions regulatory”.
 
-Subsec. (b)(1)(A). Pub. L. 102–242, § 222(b)(2), substituted “financial supervisory” for “depository institutions regulatory” in two places.
+Subsec. (b)(1)(A). Pub. L. 102–242, § 222(b)(2), substituted “financial supervisory” for “depository institutions regulatory” in two places.
 
-Subsec. (b)(1)(B). Pub. L. 102–242, § 222(a), inserted “and data” after “facts”.
+Subsec. (b)(1)(B). Pub. L. 102–242, § 222(a), inserted “and data” after “facts”.
 
-Subsec. (c). Pub. L. 102–242, § 222(b)(3), substituted “financial supervisory” for “depository institutions regulatory” wherever appearing.
+Subsec. (c). Pub. L. 102–242, § 222(b)(3), substituted “financial supervisory” for “depository institutions regulatory” wherever appearing.
 
-## § 2907. Operation of branch facilities by minorities and women
+## § 2907. Operation of branch facilities by minorities and women
 
 **(a) In general**
 
@@ -347,9 +347,9 @@ In the case of any depository institution which donates, sells on favorable term
 
 **(b) Definitions** For purposes of this section—
 
-**(1) Minority depository institution** The term “minority institution” 1
+**(1) Minority depository institution** The term “minority institution” 1
 
-<sup>1</sup>  So in original. Probably should be “minority depository institution”.
+<sup>1</sup> So in original. Probably should be “minority depository institution”.
 
 means a depository institution (as defined in section 1813(c) of this title)—
 
@@ -369,7 +369,7 @@ means a depository institution (as defined in section 1813(c) of this title)—
 
 The term “minority” has the meaning given to such term by section 1204(c)(3) of the Financial Institutions Reform, Recovery and Enforcement Act of 1989.
 
-(Pub. L. 95–128, title VIII, § 808, as added Pub. L. 102–233, title IV, § 402(b), Dec. 12, 1991, 105 Stat. 1775; amended Pub. L. 102–550, title IX, § 909(2), Oct. 28, 1992, 106 Stat. 3874.)
+(Pub. L. 95–128, title VIII, § 808, as added Pub. L. 102–233, title IV, § 402(b), Dec. 12, 1991, 105 Stat. 1775; amended Pub. L. 102–550, title IX, § 909(2), Oct. 28, 1992, 106 Stat. 3874.)
 
 **Editorial Notes**
 
@@ -381,7 +381,7 @@ Section 1204(c)(3) of the Financial Institutions Reform, Recovery and Enforcemen
 
 1992—Subsec. (a). Pub. L. 102–550 substituted “may be a factor in determining whether the depository institution is” for “shall be treated as”.
 
-## § 2908. Small bank regulatory relief
+## § 2908. Small bank regulatory relief
 
 **(a) In general** Except as provided in subsections (b) and (c), any regulated financial institution with aggregate assets of not more than $250,000,000 shall be subject to routine examination under this chapter—
 
@@ -399,4 +399,4 @@ A regulated financial institution described in subsection (a) shall remain subje
 
 A regulated financial institution described in subsection (a) may be subject to more frequent or less frequent examinations for reasonable cause under such circumstances as may be determined by the appropriate Federal financial supervisory agency.
 
-(Pub. L. 95–128, title VIII, § 809, as added Pub. L. 106–102, title VII, § 712, Nov. 12, 1999, 113 Stat. 1469.)
+(Pub. L. 95–128, title VIII, § 809, as added Pub. L. 106–102, title VII, § 712, Nov. 12, 1999, 113 Stat. 1469.)

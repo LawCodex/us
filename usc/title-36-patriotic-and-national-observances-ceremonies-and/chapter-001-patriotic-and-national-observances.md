@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle I—Patriotic and National Observances and Ceremonies / Part A—Observances and Ceremonies / CHAPTER 1—PATRIOTIC AND NATIONAL OBSERVANCES"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle I—Patriotic and National Observances and Ceremonies / Part A—Observances and Ceremonies / CHAPTER 1—PATRIOTIC AND NATIONAL OBSERVANCES"
 identifier: "/us/usc/t36/stI/ptA/ch1"
 type: code
 jurisdiction: us
@@ -11,7 +11,7 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle I—Patriotic and National Observances and Ceremonies › Part A—Observances and Ceremonies*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle I—Patriotic and National Observances and Ceremonies › Part A—Observances and Ceremonies*
 
 # CHAPTER 1—PATRIOTIC AND NATIONAL OBSERVANCES
 
@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. A, title XVIII, § 1804(a)(1)(B), Dec. 22, 2023, 137 Stat. 686, added items 147 and 148 and struck out item 146 “Choose Respect Day”.
+2023—Pub. L. 118–31, div. A, title XVIII, § 1804(a)(1)(B), Dec. 22, 2023, 137 Stat. 686, added items 147 and 148 and struck out item 146 “Choose Respect Day”.
 
-2022—Pub. L. 117–103, div. W, title XIII, § 1310(b)(2), Mar. 15, 2022, 136 Stat. 931, added item 146 relating to Choose Respect Day.
+2022—Pub. L. 117–103, div. W, title XIII, § 1310(b)(2), Mar. 15, 2022, 136 Stat. 931, added item 146 relating to Choose Respect Day.
 
-2021—Pub. L. 117–81, div. A, title X, § 1084(b), Dec. 27, 2021, 135 Stat. 1924, added item 146 relating to National Atomic Veterans Day.
+2021—Pub. L. 117–81, div. A, title X, § 1084(b), Dec. 27, 2021, 135 Stat. 1924, added item 146 relating to National Atomic Veterans Day.
 
-2016—Pub. L. 114–240, § 2(b), Oct. 7, 2016, 130 Stat. 975, added item 145.
+2016—Pub. L. 114–240, § 2(b), Oct. 7, 2016, 130 Stat. 975, added item 145.
 
-2004—Pub. L. 108–447, div. J, title I, § 111(c)(2), Dec. 8, 2004, 118 Stat. 3345, inserted “Constitution Day and” before “Citizenship Day” in item 106.
+2004—Pub. L. 108–447, div. J, title I, § 111(c)(2), Dec. 8, 2004, 118 Stat. 3345, inserted “Constitution Day and” before “Citizenship Day” in item 106.
 
-2001—Pub. L. 107–89, § 2, Dec. 18, 2001, 115 Stat. 877, added item 144.
+2001—Pub. L. 107–89, § 2, Dec. 18, 2001, 115 Stat. 877, added item 144.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -205,7 +205,7 @@ Pub. L. 116–256, Dec. 23, 2020, 134 Stat. 1142, provided that:
 
 **American World War II Heritage Cities**
 
-Pub. L. 116–9, title IX, § 9007, Mar. 12, 2019, 133 Stat. 837, provided that:
+Pub. L. 116–9, title IX, § 9007, Mar. 12, 2019, 133 Stat. 837, provided that:
 
 > **“(a) Designation.—** In order to recognize and ensure the continued preservation and importance of the history of the United States involvement in World War II, each calendar year the Secretary [of the Interior] may designate 1 or more cities located in 1 of the several States or a territory of the United States as an ‘American World War II Heritage City’. Not more than 1 city in each State or territory may be designated under this section.
 
@@ -673,7 +673,7 @@ Pub. L. 115–77, Nov. 2, 2017, 131 Stat. 1251, provided that:
 
 **Women’s Suffrage Centennial Commission**
 
-Pub. L. 115–31, div. G, title IV, § 431(a)(3) [§§ 1–8], May 5, 2017, 131 Stat. 502, 842A–17—842A–21, provided that:
+Pub. L. 115–31, div. G, title IV, § 431(a)(3) [§§ 1–8], May 5, 2017, 131 Stat. 502, 842A–17—842A–21, provided that:
 
 > **“SECTION 1. SHORT TITLE; TABLE OF CONTENTS.**
 
@@ -847,7 +847,7 @@ Pub. L. 115–31, div. G, title IV, § 431(a)(3) [§§ 1–8], May 5, 2017, 
 
 **Program To Commemorate the 100th Anniversary of the Tomb of the Unknown Soldier**
 
-Pub. L. 114–328, div. A, title X, § 1093, Dec. 23, 2016, 130 Stat. 2436, provided that:
+Pub. L. 114–328, div. A, title X, § 1093, Dec. 23, 2016, 130 Stat. 2436, provided that:
 
 > **“(a) Commemorative Program.—**
 
@@ -1025,7 +1025,7 @@ Pub. L. 114–215, July 29, 2016, 130 Stat. 830, provided that:
 
 **United States Semiquincentennial Commission**
 
-Pub. L. 114–196, July 22, 2016, 130 Stat. 685, as amended by Pub. L. 116–282, § 2, Dec. 31, 2020, 134 Stat. 3386, provided that:
+Pub. L. 114–196, July 22, 2016, 130 Stat. 685, as amended by Pub. L. 116–282, § 2, Dec. 31, 2020, 134 Stat. 3386, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -1355,7 +1355,7 @@ Pub. L. 114–196, July 22, 2016, 130 Stat. 685, as amended by Pub. L. 116–282
 
 **World War I Centennial**
 
-Pub. L. 113–291, div. B, title XXX, § 3091(a)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3858–3860, provided that:
+Pub. L. 113–291, div. B, title XXX, § 3091(a)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3858–3860, provided that:
 
 > **“(a) Liberty Memorial as World War I Museum and Memorial.—**
 
@@ -1401,7 +1401,7 @@ Pub. L. 113–291, div. B, title XXX, § 3091(a)–(c)(3)(B), Dec. 19, 2014, 1
 
 > [Pars. (1) to (3)(B) amended sections 4, 7, and 9 of Pub. L. 112–272, set out below. Par. (3)(C) amended table of contents of Pub. L. 112–272, which was omitted from the Code.]”
 
-Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, as amended by Pub. L. 113–291, div. B, title XXX, § 3091(b)(7)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3859, 3860; Pub. L. 114–289, title VI, § 601(*l*), Dec. 16, 2016, 130 Stat. 1492; Pub. L. 117–286, § 4(a)(216), Dec. 27, 2022, 136 Stat. 4329, provided that:
+Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, as amended by Pub. L. 113–291, div. B, title XXX, § 3091(b)(7)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3859, 3860; Pub. L. 114–289, title VI, § 601(*l*), Dec. 16, 2016, 130 Stat. 1492; Pub. L. 117–286, § 4(a)(216), Dec. 27, 2022, 136 Stat. 4329, provided that:
 
 > **“SECTION 1. SHORT TITLE; TABLE OF CONTENTS.**
 
@@ -1607,7 +1607,7 @@ Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, as amended by Pub. L. 113–29
 
 **Ronald Reagan Centennial Commission**
 
-Pub. L. 111–25, June 2, 2009, 123 Stat. 1767, as amended by Pub. L. 112–13, § 1, May 12, 2011, 125 Stat. 215, provided that:
+Pub. L. 111–25, June 2, 2009, 123 Stat. 1767, as amended by Pub. L. 112–13, § 1, May 12, 2011, 125 Stat. 215, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -1793,7 +1793,7 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 **Abraham Lincoln Bicentennial Commission**
 
-Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, § 2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, § 209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, § 917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, § 1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, § 1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, § 1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln’s birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
+Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, § 2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, § 209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, § 917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, § 1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, § 1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, § 1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln’s birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
 **Executive Documents**
 
@@ -1905,7 +1905,7 @@ Raised in the fields of Arizona and California, Cesar Chavez faced hardship and 
 
 Cesar Chavez saw the need for change and made a courageous choice to work to improve the lives of his fellow farm workers. Through boycotts and fasts, he led others on a path of nonviolence conceived in careful study of the teachings of St. Francis of Assisi and Mahatma Gandhi, and in the powerful example of Martin Luther King, Jr. He became a community organizer and began his lifelong advocacy to protect and empower people. With quiet leadership and a powerful voice, Cesar founded the United Farm Workers (UFW) with Dolores Huerta, launching one of our Nation’s most inspiring social movements.
 
-Cesar Chavez’s legacy provides lessons from which all Americans can learn. One person can change the course of a nation and improve the lives of countless individuals. Cesar once said, “Non-violence is not inaction. … Non-violence is hard work. It is the willingness to sacrifice. It is the patience to win.” From his inspiring accomplishments, we have learned that social justice takes action, selflessness, and commitment. As we face the challenges of our day, let us do so with the hope and determination of Cesar Chavez, echoing the words that were his rallying cry and that continue to inspire so many today, “Sí, se puede”—“Yes, we can.”
+Cesar Chavez’s legacy provides lessons from which all Americans can learn. One person can change the course of a nation and improve the lives of countless individuals. Cesar once said, “Non-violence is not inaction. … Non-violence is hard work. It is the willingness to sacrifice. It is the patience to win.” From his inspiring accomplishments, we have learned that social justice takes action, selflessness, and commitment. As we face the challenges of our day, let us do so with the hope and determination of Cesar Chavez, echoing the words that were his rallying cry and that continue to inspire so many today, “Sí, se puede”—“Yes, we can.”
 
 NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, do hereby proclaim March 31 of each year as Cesar Chavez Day. I call upon all Americans to observe this day with appropriate service, community, and educational programs to honor Cesar Chavez’s enduring legacy.
 
@@ -1935,7 +1935,7 @@ Barack Obama.
 
 Ex. Ord. No. 13072, Feb. 2, 1998, 63 F.R. 6041, provided for formation of the White House Millennium Council to lead the country in a celebration of the new millennium by initiating and recognizing national and local projects that contributed in educational, creative, and productive ways to America’s commemoration of that historic time.
 
-## § 101. American Heart Month
+## § 101. American Heart Month
 
 The President is requested to issue each year a proclamation—
 
@@ -1959,65 +1959,65 @@ In clause (2), the words “chief executive officers” are substituted for “G
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–197, § 1, Dec. 23, 2024, 138 Stat. 2677, provided that: “This Act [amending provisions set out as a note under section 2301 of this title] may be cited as the ‘Never Again Education Reauthorization Act of 2023’.”
+Pub. L. 118–197, § 1, Dec. 23, 2024, 138 Stat. 2677, provided that: “This Act [amending provisions set out as a note under section 2301 of this title] may be cited as the ‘Never Again Education Reauthorization Act of 2023’.”
 
 **Short Title of 2023 Amendment**
 
-Pub. L. 117–340, § 1, Jan. 5, 2023, 136 Stat. 6175, provided that: “This Act [enacting sections 220514 and 220530A of this title, amending sections 220505 and 220524 of this title, and enacting provisions set out as notes under section 220505 of this title] may be cited as the ‘Equal Pay for Team USA Act of 2022’.”
+Pub. L. 117–340, § 1, Jan. 5, 2023, 136 Stat. 6175, provided that: “This Act [enacting sections 220514 and 220530A of this title, amending sections 220505 and 220524 of this title, and enacting provisions set out as notes under section 220505 of this title] may be cited as the ‘Equal Pay for Team USA Act of 2022’.”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–103, div. W, title XIII, § 1310(a), Mar. 15, 2022, 136 Stat. 931, provided that: “This section [enacting section 146 of this title relating to Choose Respect Day and section 20131 of Title 34, Crime Control and Law Enforcement] may be cited as the ‘Choose Respect Act’.”
+Pub. L. 117–103, div. W, title XIII, § 1310(a), Mar. 15, 2022, 136 Stat. 931, provided that: “This section [enacting section 146 of this title relating to Choose Respect Day and section 20131 of Title 34, Crime Control and Law Enforcement] may be cited as the ‘Choose Respect Act’.”
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–282, § 1, Dec. 31, 2020, 134 Stat. 3386, provided that: “This Act [amending provisions set out as a note preceding this section] may be cited as the ‘United States Semiquincentennial Commission Amendments Act of 2020’.”
+Pub. L. 116–282, § 1, Dec. 31, 2020, 134 Stat. 3386, provided that: “This Act [amending provisions set out as a note preceding this section] may be cited as the ‘United States Semiquincentennial Commission Amendments Act of 2020’.”
 
-Pub. L. 116–189, § 1, Oct. 30, 2020, 134 Stat. 943, provided that: “This Act [enacting subchapter V of chapter 2205 and section 220513 of this title, amending sections 220501 to 220507, 220509, 220511, 220512, 220521 to 220524, 220527 to 220531, and 220541 to 220543 of this title, section 362 of Title 11, Bankruptcy, and section 20341 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under sections 220501, 220507, and 220551 of this title] may be cited as the ‘Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020’.”
+Pub. L. 116–189, § 1, Oct. 30, 2020, 134 Stat. 943, provided that: “This Act [enacting subchapter V of chapter 2205 and section 220513 of this title, amending sections 220501 to 220507, 220509, 220511, 220512, 220521 to 220524, 220527 to 220531, and 220541 to 220543 of this title, section 362 of Title 11, Bankruptcy, and section 20341 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under sections 220501, 220507, and 220551 of this title] may be cited as the ‘Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–67, § 1, Nov. 7, 2019, 133 Stat. 1128, provided that: “This Act [amending section 902 of this title] may be cited as the ‘National POW/MIA Flag Act’.”
+Pub. L. 116–67, § 1, Nov. 7, 2019, 133 Stat. 1128, provided that: “This Act [amending section 902 of this title] may be cited as the ‘National POW/MIA Flag Act’.”
 
-Pub. L. 116–35, § 1, July 30, 2019, 133 Stat. 1043, provided that: “This Act [enacting section 21704A of this title, amending section 21703 of this title, and enacting provisions set out as a note under section 21703 of this title] may be cited as the ‘Let Everyone Get Involved in Opportunities for National Service Act’ or the ‘LEGION Act’.”
+Pub. L. 116–35, § 1, July 30, 2019, 133 Stat. 1043, provided that: “This Act [enacting section 21704A of this title, amending section 21703 of this title, and enacting provisions set out as a note under section 21703 of this title] may be cited as the ‘Let Everyone Get Involved in Opportunities for National Service Act’ or the ‘LEGION Act’.”
 
-Pub. L. 116–7, § 1, Feb. 21, 2019, 133 Stat. 478, provided that: “This Act [amending sections 70901 to 70914 of this title] may be cited as the ‘National FFA Organization’s Federal Charter Amendments Act’.”
+Pub. L. 116–7, § 1, Feb. 21, 2019, 133 Stat. 478, provided that: “This Act [amending sections 70901 to 70914 of this title] may be cited as the ‘National FFA Organization’s Federal Charter Amendments Act’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–141, div. S, title III, § 301, Mar. 23, 2018, 132 Stat. 1127, provided that: “This title [enacting subchapter III (§ 220531) of this title] may be cited as the ‘Keep Young Athletes Safe Act of 2018’.”
+Pub. L. 115–141, div. S, title III, § 301, Mar. 23, 2018, 132 Stat. 1127, provided that: “This title [enacting subchapter III (§ 220531) of this title] may be cited as the ‘Keep Young Athletes Safe Act of 2018’.”
 
-Pub. L. 115–126, § 1(a), Feb. 14, 2018, 132 Stat. 318, provided that: “This Act [enacting subchapter III (§ 220541 et seq.) of chapter 2205 of this title and 220530 of this title and amending sections 220501, 220503, and 220525 of this title, sections 2255 and 2258 of Title 18, Crimes and Criminal Procedure, and section 20341 of Title 34, Crime Control and Law Enforcement] may be cited as the ‘Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act of 2017’.”
+Pub. L. 115–126, § 1(a), Feb. 14, 2018, 132 Stat. 318, provided that: “This Act [enacting subchapter III (§ 220541 et seq.) of chapter 2205 of this title and 220530 of this title and amending sections 220501, 220503, and 220525 of this title, sections 2255 and 2258 of Title 18, Crimes and Criminal Procedure, and section 20341 of Title 34, Crime Control and Law Enforcement] may be cited as the ‘Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act of 2017’.”
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–240, § 1, Oct. 7, 2016, 130 Stat. 974, provided that: “This Act [enacting section 145 of this title] may be cited as the ‘Veterans Day Moment of Silence Act’.”
+Pub. L. 114–240, § 1, Oct. 7, 2016, 130 Stat. 974, provided that: “This Act [enacting section 145 of this title] may be cited as the ‘Veterans Day Moment of Silence Act’.”
 
 **Short Title of 2009 Amendment**
 
-Pub. L. 111–113, § 1, Dec. 14, 2009, 123 Stat. 3026, provided that: “This Act [amending sections 190104 and 190109 of this title] may be cited as the ‘Reserve Officers Association Modernization Act of 2009’.”
+Pub. L. 111–113, § 1, Dec. 14, 2009, 123 Stat. 3026, provided that: “This Act [amending sections 190104 and 190109 of this title] may be cited as the ‘Reserve Officers Association Modernization Act of 2009’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–207, § 1, Apr. 30, 2008, 122 Stat. 719, provided that: “This Act [amending section 140503 of this title] may be cited as the ‘Purple Heart Family Equity Act of 2007’.”
+Pub. L. 110–207, § 1, Apr. 30, 2008, 122 Stat. 719, provided that: “This Act [amending section 140503 of this title] may be cited as the ‘Purple Heart Family Equity Act of 2007’.”
 
 **Short Title of 2007 Amendment**
 
-Pub. L. 110–26, § 1, May 11, 2007, 121 Stat. 103, provided that: “This Act [enacting sections 300111 and 300112 of this title, amending sections 300101 to 300105, 300107, 300109, and 300110 of this title, renumbering former section 300111 of this title as section 300113 of this title, and enacting provisions set out as a note under section 300101 of this title] may be cited as the ‘The American National Red Cross Governance Modernization Act of 2007’.”
+Pub. L. 110–26, § 1, May 11, 2007, 121 Stat. 103, provided that: “This Act [enacting sections 300111 and 300112 of this title, amending sections 300101 to 300105, 300107, 300109, and 300110 of this title, renumbering former section 300111 of this title as section 300113 of this title, and enacting provisions set out as a note under section 300101 of this title] may be cited as the ‘The American National Red Cross Governance Modernization Act of 2007’.”
 
 **Short Title of 2005 Amendment**
 
-Pub. L. 109–9, title III, § 311, Apr. 27, 2005, 119 Stat. 226, provided that: “This subtitle [subtitle B (§§ 311, 312) of title III of Pub. L. 109–9, amending sections 151703, 151705, 151706, and 151711 of this title] may be cited as the ‘National Film Preservation Foundation Reauthorization Act of 2005’.”
+Pub. L. 109–9, title III, § 311, Apr. 27, 2005, 119 Stat. 226, provided that: “This subtitle [subtitle B (§§ 311, 312) of title III of Pub. L. 109–9, amending sections 151703, 151705, 151706, and 151711 of this title] may be cited as the ‘National Film Preservation Foundation Reauthorization Act of 2005’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–323, § 1, Dec. 4, 2002, 116 Stat. 2787, provided that: “This Act [amending section 902 of this title and enacting provisions set out as a note under section 902 of this title] may be cited as the ‘POW/MIA Memorial Flag Act of 2002’.”
+Pub. L. 107–323, § 1, Dec. 4, 2002, 116 Stat. 2787, provided that: “This Act [amending section 902 of this title and enacting provisions set out as a note under section 902 of this title] may be cited as the ‘POW/MIA Memorial Flag Act of 2002’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–277, div. C, title I, § 142(a), Oct. 21, 1998, 112 Stat. 2681–603, provided that: “This section [enacting section 220512 of this title, amending sections 220501, 220503 to 220506, 220509 to 220511, 220521 to 220524, and 220528 of this title, and enacting provisions set out as a note under section 220501 of this title] may be cited as the ‘Olympic and Amateur Sports Act Amendments of 1998’.”
+Pub. L. 105–277, div. C, title I, § 142(a), Oct. 21, 1998, 112 Stat. 2681–603, provided that: “This section [enacting section 220512 of this title, amending sections 220501, 220503 to 220506, 220509 to 220511, 220521 to 220524, and 220528 of this title, and enacting provisions set out as a note under section 220501 of this title] may be cited as the ‘Olympic and Amateur Sports Act Amendments of 1998’.”
 
-## § 102. Asian/Pacific American Heritage Month
+## § 102. Asian/Pacific American Heritage Month
 
 **(a) Designation.—** May is Asian/Pacific American Heritage Month.
 
@@ -2029,10 +2029,10 @@ Pub. L. 105–277, div. C, title I, § 142(a), Oct. 21, 1998, 112 Stat. 2681�
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 102(a) | 36:169k(a). | Oct. 23, 1992, Pub. L. 102–450, § 2, 106 Stat. 2251. |
+| 102(a) | 36:169k(a). | Oct. 23, 1992, Pub. L. 102–450, § 2, 106 Stat. 2251. |
 | 102(b) | 36:169k(b)–(d). |  |
 
-## § 103. Cancer Control Month
+## § 103. Cancer Control Month
 
 **(a) General.—** The President is requested—
 
@@ -2052,7 +2052,7 @@ Pub. L. 105–277, div. C, title I, § 142(a), Oct. 21, 1998, 112 Stat. 2681�
 
 In subsection (a)(2), the words “chief executive officers” are substituted for “Governors” for clarity and consistency in the revised title and with other titles of the United States Code.
 
-## § 104. Carl Garner Federal Lands Cleanup Day
+## § 104. Carl Garner Federal Lands Cleanup Day
 
 **(a) Designation.—** The first Saturday after Labor Day is Carl Garner Federal Lands Cleanup Day.
 
@@ -2064,12 +2064,12 @@ In subsection (a)(2), the words “chief executive officers” are substituted f
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 104(a) | 36:169i (1st sentence). | Aug. 27, 1986, Pub. L. 99–402, § 3, 100 Stat. 910; Nov. 12, 1996, Pub. L. 104–333, § 806, 110 Stat. 4188. |
+| 104(a) | 36:169i (1st sentence). | Aug. 27, 1986, Pub. L. 99–402, § 3, 100 Stat. 910; Nov. 12, 1996, Pub. L. 104–333, § 806, 110 Stat. 4188. |
 | 104(b) | 36:169i (last sentence). |  |
 
 In subsection (b), the words “associated with Carl Garner Federal Lands Cleanup Day” are omitted as unnecessary.
 
-## § 105. Child Health Day
+## § 105. Child Health Day
 
 The President is requested to issue each year a proclamation—
 
@@ -2085,7 +2085,7 @@ The President is requested to issue each year a proclamation—
 |---|---|---|
 | 105 | 36:143. | May 18, 1928, ch. 643, 45 Stat. 617; Sept. 22, 1959, Pub. L. 86–352, 73 Stat. 627. |
 
-## § 106. Constitution Day and Citizenship Day
+## § 106. Constitution Day and Citizenship Day
 
 **(a) Designation.—** September 17 is designated as Constitution Day and Citizenship Day.
 
@@ -2095,13 +2095,13 @@ The President is requested to issue each year a proclamation—
 
 **(d) State and Local Observances.—** The civil and educational authorities of States, counties, cities, and towns are urged to make plans for the proper observance of Constitution Day and Citizenship Day and for the complete instruction of citizens in their responsibilities and opportunities as citizens of the United States and of the State and locality in which they reside.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1255; Pub. L. 108–447, div. J, title I, § 111(c)(1), Dec. 8, 2004, 118 Stat. 3344.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1255; Pub. L. 108–447, div. J, title I, § 111(c)(1), Dec. 8, 2004, 118 Stat. 3344.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 106(a) | 36:153 (1st par. 1st–13th words). | Feb. 29, 1952, ch. 49, § 1, 66 Stat. 9. |
+| 106(a) | 36:153 (1st par. 1st–13th words). | Feb. 29, 1952, ch. 49, § 1, 66 Stat. 9. |
 | 106(b) | 36:153 (1st par. 14th word–words before “and the President”). |  |
 | 106(c) | 36:153 (1st par. words after “of citizenship”). |  |
 | 106(d) | 36:153 (2d, last pars.). |  |
@@ -2112,21 +2112,21 @@ In subsection (d), the text of 36:153 (last par.) is omitted as obsolete.
 
 **Amendments**
 
-2004—Pub. L. 108–447, § 111(c)(1)(A), inserted “Constitution Day and” before “Citizenship Day” in section catchline.
+2004—Pub. L. 108–447, § 111(c)(1)(A), inserted “Constitution Day and” before “Citizenship Day” in section catchline.
 
-Subsec. (a). Pub. L. 108–447, § 111(c)(1)(B), substituted “is designated as Constitution Day and Citizenship Day” for “is Citizenship Day”.
+Subsec. (a). Pub. L. 108–447, § 111(c)(1)(B), substituted “is designated as Constitution Day and Citizenship Day” for “is Citizenship Day”.
 
-Subsec. (b). Pub. L. 108–447, § 111(c)(1)(C), inserted “Constitution Day and” before “Citizenship Day” and substituted “commemorate” for “commemorates” and “recognize” for “recognizes”.
+Subsec. (b). Pub. L. 108–447, § 111(c)(1)(C), inserted “Constitution Day and” before “Citizenship Day” and substituted “commemorate” for “commemorates” and “recognize” for “recognizes”.
 
-Subsec. (c). Pub. L. 108–447, § 111(c)(1)(D), inserted “Constitution Day and” before “Citizenship Day” in two places.
+Subsec. (c). Pub. L. 108–447, § 111(c)(1)(D), inserted “Constitution Day and” before “Citizenship Day” in two places.
 
-Subsec. (d). Pub. L. 108–447, § 111(c)(1)(E), inserted “Constitution Day and” before “Citizenship Day”.
+Subsec. (d). Pub. L. 108–447, § 111(c)(1)(E), inserted “Constitution Day and” before “Citizenship Day”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Educational and Training Materials for New Federal Employees Concerning the U.S. Constitution**
 
-Pub. L. 108–447, div. J, title I, § 111, Dec. 8, 2004, 118 Stat. 3344, provided that:
+Pub. L. 108–447, div. J, title I, § 111, Dec. 8, 2004, 118 Stat. 3344, provided that:
 
 > **“(a)** The head of each Federal agency or department shall—
 
@@ -2140,7 +2140,7 @@ Pub. L. 108–447, div. J, title I, § 111, Dec. 8, 2004, 118 Stat. 3344, prov
 
 > **“(d)** This section shall be without fiscal year limitation.”
 
-## § 107. Columbus Day
+## § 107. Columbus Day
 
 The President is requested to issue each year a proclamation—
 
@@ -2160,7 +2160,7 @@ The President is requested to issue each year a proclamation—
 
 In clause (1), the words “the 2d Monday in October” are substituted for “October 12” in the Act of April 30, 1934 (ch. 184, 48 Stat. 657), because of section 1(b) of the Act of June 28, 1968 (Public Law 90–363, 82 Stat. 250).
 
-## § 108. Constitution Week
+## § 108. Constitution Week
 
 The President is requested to issue each year a proclamation—
 
@@ -2176,7 +2176,7 @@ The President is requested to issue each year a proclamation—
 |---|---|---|
 | 108 | 36:159. | Aug. 2, 1956, ch. 875, 70 Stat. 932. |
 
-## § 109. Father’s Day
+## § 109. Father’s Day
 
 **(a) Designation.—** The third Sunday in June is Father’s Day.
 
@@ -2201,7 +2201,7 @@ In subsection (b)(1), the word “appropriate” is omitted as unnecessary.
 
 In subsection (b)(2), the words “State and local governments” are substituted for “the governments of the States and communities” for consistency in the revised title and with other titles of the United States Code.
 
-## § 110. Flag Day
+## § 110. Flag Day
 
 **(a) Designation.—** June 14 is Flag Day.
 
@@ -2220,7 +2220,7 @@ In subsection (b)(2), the words “State and local governments” are substitute
 | 110(a) | 36:157 (words before 1st comma). | Aug. 3, 1949, ch. 385, 63 Stat. 492. |
 | 110(b) | 36:157 (words after 1st comma). |  |
 
-## § 111. Gold Star Mother’s Day
+## § 111. Gold Star Mother’s Day
 
 **(a) Designation.—** The last Sunday in September is Gold Star Mother’s Day.
 
@@ -2237,7 +2237,7 @@ In subsection (b)(2), the words “State and local governments” are substitute
 
 In subsection (b), the text of 36:148 (words after comma) is omitted as unnecessary. The words “Gold Star Mother’s Day” are substituted for “the last Sunday in September” in 36:147 for clarity. The word “American” is omitted as unnecessary.
 
-## § 112. Honor America Days
+## § 112. Honor America Days
 
 **(a) Designation.—** The 21 days from Flag Day through Independence Day is a period to honor America.
 
@@ -2252,7 +2252,7 @@ In subsection (b), the text of 36:148 (words after comma) is omitted as unnecess
 | 112(a) | 36:157b (words before comma). | June 13, 1975, Pub. L. 94–33, 89 Stat. 211. |
 | 112(b) | 36:157b (words after comma). |  |
 
-## § 113. Law Day, U.S.A.
+## § 113. Law Day, U.S.A.
 
 **(a) Designation.—** May 1 is Law Day, U.S.A.
 
@@ -2282,7 +2282,7 @@ In subsection (b)(1), the word “countries” is substituted for “nations” 
 
 In subsection (c)(2), the word “entities” is substituted for “bodies” for consistency in the revised title and with other titles of the Code.
 
-## § 114. Leif Erikson Day
+## § 114. Leif Erikson Day
 
 The President may issue each year a proclamation designating October 9 as Leif Erikson Day.
 
@@ -2294,7 +2294,7 @@ The President may issue each year a proclamation designating October 9 as Leif E
 |---|---|---|
 | 114 | 36:169c. | Sept. 2, 1964, Pub. L. 88–566, 78 Stat. 849. |
 
-## § 115. Loyalty Day
+## § 115. Loyalty Day
 
 **(a) Designation.—** May 1 is Loyalty Day.
 
@@ -2316,7 +2316,7 @@ The President may issue each year a proclamation designating October 9 as Leif E
 | 115(b) | 36:162 (14th word–semicolon). |  |
 | 115(c) | 36:162 (words after semicolon). |  |
 
-## § 116. Memorial Day
+## § 116. Memorial Day
 
 **(a) Designation.—** The last Monday in May is Memorial Day.
 
@@ -2346,7 +2346,7 @@ In subsection (b)(4), the word “media” is substituted for “newspapers, rad
 
 **National Moment of Remembrance**
 
-Pub. L. 106–579, Dec. 28, 2000, 114 Stat. 3078, as amended by Pub. L. 110–161, div. H, title I, § 1502(e), Dec. 26, 2007, 121 Stat. 2250, provided that:
+Pub. L. 106–579, Dec. 28, 2000, 114 Stat. 3078, as amended by Pub. L. 110–161, div. H, title I, § 1502(e), Dec. 26, 2007, 121 Stat. 2250, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -2692,7 +2692,7 @@ Pub. L. 106–579, Dec. 28, 2000, 114 Stat. 3078, as amended by Pub. L. 110–16
 
 > **“[SEC. 11.**
 
-> Repealed. Pub. L. 110–161, div. H, title I, § 1502(e), Dec. 26, 2007, 121 Stat. 2250.]
+> Repealed. Pub. L. 110–161, div. H, title I, § 1502(e), Dec. 26, 2007, 121 Stat. 2250.]
 
 > **“SEC. 12. AUTHORIZATION OF APPROPRIATIONS.**
 
@@ -2712,7 +2712,7 @@ Pub. L. 106–579, Dec. 28, 2000, 114 Stat. 3078, as amended by Pub. L. 110–16
 
 [For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.]
 
-## § 117. Mother’s Day
+## § 117. Mother’s Day
 
 **(a) Designation.—** The second Sunday in May is Mother’s Day.
 
@@ -2729,7 +2729,7 @@ Pub. L. 106–579, Dec. 28, 2000, 114 Stat. 3078, as amended by Pub. L. 110–16
 
 In subsection (b), the text of 36:142 (words after comma) is omitted as unnecessary.
 
-## § 118. National Aviation Day
+## § 118. National Aviation Day
 
 The President may issue each year a proclamation—
 
@@ -2747,7 +2747,7 @@ The President may issue each year a proclamation—
 |---|---|---|
 | 118 | 36:151. | May 11, 1939, ch. 123, 53 Stat. 739. |
 
-## § 119. National Day of Prayer
+## § 119. National Day of Prayer
 
 The President shall issue each year a proclamation designating the first Thursday in May as a National Day of Prayer on which the people of the United States may turn to God in prayer and meditation at churches, in groups, and as individuals.
 
@@ -2759,7 +2759,7 @@ The President shall issue each year a proclamation designating the first Thursda
 |---|---|---|
 | 119 | 36:169h. | Apr. 17, 1952, ch. 216, 66 Stat. 64; May 5, 1988, Pub. L. 100–307, 102 Stat. 456. |
 
-## § 120. National Defense Transportation Day
+## § 120. National Defense Transportation Day
 
 The President is requested to issue each year a proclamation—
 
@@ -2777,7 +2777,7 @@ The President is requested to issue each year a proclamation—
 
 In clause (2), the words “any of”, “by land, by sea, and by air”, and “and every” are omitted as unnecessary.
 
-## § 121. National Disability Employment Awareness Month
+## § 121. National Disability Employment Awareness Month
 
 **(a) Designation.—** October is National Disability Employment Awareness Month.
 
@@ -2791,13 +2791,13 @@ In clause (2), the words “any of”, “by land, by sea, and by air”, and �
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 121(a) | 36:155 (1st par. 1st sentence). | Aug. 11, 1945, ch. 363, 59 Stat. 530; Oct. 8, 1970, Pub. L. 91–442, 84 Stat. 914; Nov. 7, 1988, Pub. L. 100–630, title III, § 301(a), 102 Stat. 3315. |
+| 121(a) | 36:155 (1st par. 1st sentence). | Aug. 11, 1945, ch. 363, 59 Stat. 530; Oct. 8, 1970, Pub. L. 91–442, 84 Stat. 914; Nov. 7, 1988, Pub. L. 100–630, title III, § 301(a), 102 Stat. 3315. |
 | 121(b) | 36:155 (1st par. last sentence). 36:155 (last par. words after 1st comma). |  |
 | 121(c) | 36:155 (last par. words before 1st comma). |  |
 
 In subsection (b), the words “of States” and “of cities” are omitted as unnecessary. The words “governmental entities” are substituted for “instrumentalities of government” for consistency in the revised title and with other titles of the United States Code. The words “as well as leaders of industry, educational and religious groups, labor, veterans, women, farm, scientific and professional, and all other” are omitted as unnecessary.
 
-## § 122. National Flag Week
+## § 122. National Flag Week
 
 The President is requested to issue each year a proclamation—
 
@@ -2813,7 +2813,7 @@ The President is requested to issue each year a proclamation—
 |---|---|---|
 | 122 | 36:157a. | June 9, 1966, Pub. L. 89–443, 80 Stat. 194. |
 
-## § 123. National Forest Products Week
+## § 123. National Forest Products Week
 
 **(a) Designation.—** The week beginning on the third Sunday in October is National Forest Products Week.
 
@@ -2848,7 +2848,7 @@ IN WITNESS WHEREOF, I have hereunto set my hand this twenty-third day of October
 
 Barack Obama.
 
-## § 124. National Freedom Day
+## § 124. National Freedom Day
 
 The President may issue each year a proclamation designating February 1 as National Freedom Day to commemorate the signing by Abraham Lincoln on February 1, 1865, of the joint resolution adopted by the Senate and the House of Representatives that proposed the 13th amendment to the Constitution.
 
@@ -2860,7 +2860,7 @@ The President may issue each year a proclamation designating February 1 as Natio
 |---|---|---|
 | 124 | 36:156. | June 30, 1948, ch. 755, 62 Stat. 1150. |
 
-## § 125. National Grandparents Day
+## § 125. National Grandparents Day
 
 The President is requested to issue each year a proclamation—
 
@@ -2876,7 +2876,7 @@ The President is requested to issue each year a proclamation—
 |---|---|---|
 | 125 | 36:142b. | Sept. 6, 1979, Pub. L. 96–62, 93 Stat. 410. |
 
-## § 126. National Hispanic Heritage Month
+## § 126. National Hispanic Heritage Month
 
 The President is requested to issue each year a proclamation—
 
@@ -2890,9 +2890,9 @@ The President is requested to issue each year a proclamation—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 126 | 36:169f. | Sept. 17, 1968, Pub. L. 90–498, 82 Stat. 848; Aug. 17, 1988, Pub. L. 100–402, § 1, 102 Stat. 1012. |
+| 126 | 36:169f. | Sept. 17, 1968, Pub. L. 90–498, 82 Stat. 848; Aug. 17, 1988, Pub. L. 100–402, § 1, 102 Stat. 1012. |
 
-## § 127. National Korean War Veterans Armistice Day
+## § 127. National Korean War Veterans Armistice Day
 
 **(a) Designation.—** July 27 of each year until 2003 is National Korean War Veterans Armistice Day.
 
@@ -2908,12 +2908,12 @@ The President is requested to issue each year a proclamation—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 127(a) | 36:169m (words before “and the President”). | July 27, 1995, Pub. L. 104–19, title II, § 2005, 109 Stat. 247. |
-| 127(b) | 36:169m (words after “Armistice Day’ ”). |  |
+| 127(a) | 36:169m (words before “and the President”). | July 27, 1995, Pub. L. 104–19, title II, § 2005, 109 Stat. 247. |
+| 127(b) | 36:169m (words after “Armistice Day’ ”). |  |
 
 In subsection (b)(2), the words “departments, agencies, and instrumentalities” are substituted for “departments and agencies of the United States” for consistency in the revised title and with other titles of the United States Code.
 
-## § 128. National Maritime Day
+## § 128. National Maritime Day
 
 **(a) Designation.—** May 22 is National Maritime Day.
 
@@ -2932,7 +2932,7 @@ In subsection (b)(2), the words “departments, agencies, and instrumentalities�
 | 128(a) | 36:145 (words before comma). | May 20, 1933, ch. 36, 48 Stat. 73. |
 | 128(b) | 36:145 (words after comma). |  |
 
-## § 129. National Pearl Harbor Remembrance Day
+## § 129. National Pearl Harbor Remembrance Day
 
 **(a) Designation.—** December 7 is National Pearl Harbor Remembrance Day.
 
@@ -2949,11 +2949,11 @@ In subsection (b)(2), the words “departments, agencies, and instrumentalities�
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 129(a) | 36:169*l* (words before “and the President”). | Aug. 23, 1994, Pub. L. 103–308, 108 Stat. 1669. |
-| 129(b) | 36:169*l* (words after “Remembrance Day’ ”). |  |
+| 129(b) | 36:169*l* (words after “Remembrance Day’ ”). |  |
 
 In subsection (b)(2), the words “departments, agencies, and instrumentalities of the United States Government” are substituted for “Federal agencies” for consistency in the revised title and with other titles of the United States Code.
 
-## § 130. National Poison Prevention Week
+## § 130. National Poison Prevention Week
 
 The President is requested to issue each year a proclamation designating the third week in March as National Poison Prevention Week to aid in encouraging the people of the United States to learn of the dangers of accidental poisoning and to take preventive measures that are warranted by the seriousness of the danger.
 
@@ -2987,7 +2987,7 @@ IN WITNESS WHEREOF, I have hereunto set my hand this fifteenth day of March, in 
 
 Barack Obama.
 
-## § 131. National Safe Boating Week
+## § 131. National Safe Boating Week
 
 The President is requested to issue each year a proclamation designating the 7-day period ending on the last Friday before Memorial Day as National Safe Boating Week.
 
@@ -2997,9 +2997,9 @@ The President is requested to issue each year a proclamation designating the 7-d
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 131 | 36:161. | June 4, 1958, Pub. L. 85–445, 72 Stat. 179; Oct. 3, 1980, Pub. L. 96–376, § 9, 94 Stat. 1510; Dec. 20, 1993, Pub. L. 103–236, title III, § 318(a), 107 Stat. 2427. |
+| 131 | 36:161. | June 4, 1958, Pub. L. 85–445, 72 Stat. 179; Oct. 3, 1980, Pub. L. 96–376, § 9, 94 Stat. 1510; Dec. 20, 1993, Pub. L. 103–236, title III, § 318(a), 107 Stat. 2427. |
 
-## § 132. National School Lunch Week
+## § 132. National School Lunch Week
 
 **(a) Designation.—** The week beginning on the second Sunday in October is National School Lunch Week.
 
@@ -3014,7 +3014,7 @@ The President is requested to issue each year a proclamation designating the 7-d
 | 132(a) | 36:168 (words before comma). | Oct. 9, 1962, Pub. L. 87–780, 76 Stat. 779. |
 | 132(b) | 36:168 (words after comma). |  |
 
-## § 133. National Transportation Week
+## § 133. National Transportation Week
 
 The President is requested to issue each year a proclamation—
 
@@ -3030,7 +3030,7 @@ The President is requested to issue each year a proclamation—
 |---|---|---|
 | 133 | 36:166. | May 14, 1962, Pub. L. 87–449, 76 Stat. 69. |
 
-## § 134. Pan American Aviation Day
+## § 134. Pan American Aviation Day
 
 The President may issue each year a proclamation—
 
@@ -3048,7 +3048,7 @@ The President may issue each year a proclamation—
 
 In clause (2), the words “chief executive officers of the States, territories, and possessions of the United States” are substituted for “Governors of the fifty States, our possessions”, and the word “countries” is substituted for “nations”, for consistency in the revised title and with other titles of the United States Code.
 
-## § 135. Parents’ Day
+## § 135. Parents’ Day
 
 **(a) Designation.—** The fourth Sunday in July is Parents’ Day.
 
@@ -3065,7 +3065,7 @@ In clause (2), the words “chief executive officers of the States, territories,
 
 In subsection (b), the word “entities” is substituted for “bodies” for consistency in the revised title and with other titles of the United States Code.
 
-## § 136. Peace Officers Memorial Day
+## § 136. Peace Officers Memorial Day
 
 The President is requested to issue each year a proclamation—
 
@@ -3081,11 +3081,11 @@ The President is requested to issue each year a proclamation—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 136 | 36:167(1), (2), (4) (related to Peace Officers Memorial Day). | Oct. 1, 1962, Pub. L. 87–726, cls. (1), (2), (4) (related to Peace Officers Memorial Day), 76 Stat. 676; Sept. 13, 1994, Pub. L. 103–322, title XXXII, § 320922(a)(2)–(4), 108 Stat. 2131. |
+| 136 | 36:167(1), (2), (4) (related to Peace Officers Memorial Day). | Oct. 1, 1962, Pub. L. 87–726, cls. (1), (2), (4) (related to Peace Officers Memorial Day), 76 Stat. 676; Sept. 13, 1994, Pub. L. 103–322, title XXXII, § 320922(a)(2)–(4), 108 Stat. 2131. |
 
 In clause (2), the reference to section 7(m) of title 4 is substituted for the reference to section 175(m) of title 36 because the latter provision is being restated in title 4. See section 2 of the bill.
 
-## § 137. Police Week
+## § 137. Police Week
 
 The President is requested to issue each year a proclamation—
 
@@ -3099,11 +3099,11 @@ The President is requested to issue each year a proclamation—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 137 | 36:167(3), (4) (related to Police Week). | Oct. 1, 1962, Pub. L. 87–726, cls. (3), (4) (related to Police Week), 76 Stat. 676; Sept. 13, 1994, Pub. L. 103–322, title XXXII, § 320922(a)(1), (3), (4), 108 Stat. 2131. |
+| 137 | 36:167(3), (4) (related to Police Week). | Oct. 1, 1962, Pub. L. 87–726, cls. (3), (4) (related to Police Week), 76 Stat. 676; Sept. 13, 1994, Pub. L. 103–322, title XXXII, § 320922(a)(1), (3), (4), 108 Stat. 2131. |
 
 In clause (1), the words “night and day” and “in our midst” are omitted as unnecessary.
 
-## § 138. Save Your Vision Week
+## § 138. Save Your Vision Week
 
 The President is requested to issue each year a proclamation—
 
@@ -3125,7 +3125,7 @@ The President is requested to issue each year a proclamation—
 
 In clause (3), the words “consider including in such proclamation” and “press, radio, television, and other” are omitted as unnecessary.
 
-## § 139. Steelmark Month
+## § 139. Steelmark Month
 
 **(a) Designation.—** May is Steelmark Month.
 
@@ -3145,7 +3145,7 @@ In clause (3), the words “consider including in such proclamation” and “pr
 
 In subsection (c), the word “activities” is substituted for “proceedings” for consistency in this chapter.
 
-## § 140. Stephen Foster Memorial Day
+## § 140. Stephen Foster Memorial Day
 
 The President may issue each year a proclamation—
 
@@ -3161,7 +3161,7 @@ The President may issue each year a proclamation—
 |---|---|---|
 | 140 | 36:158. | Oct. 27, 1951, ch. 593, 65 Stat. 659. |
 
-## § 141. Thomas Jefferson’s birthday
+## § 141. Thomas Jefferson’s birthday
 
 The President shall issue each year a proclamation—
 
@@ -3177,7 +3177,7 @@ The President shall issue each year a proclamation—
 |---|---|---|
 | 141 | 36:149. | Aug. 16, 1937, ch. 666, 50 Stat. 668. |
 
-## § 142. White Cane Safety Day
+## § 142. White Cane Safety Day
 
 The President may issue each year a proclamation—
 
@@ -3193,7 +3193,7 @@ The President may issue each year a proclamation—
 |---|---|---|
 | 142 | 36:169d. | Oct. 6, 1964, Pub. L. 88–628, 78 Stat. 1003. |
 
-## § 143. Wright Brothers Day
+## § 143. Wright Brothers Day
 
 **(a) Designation.—** December 17 is Wright Brothers Day.
 
@@ -3215,9 +3215,9 @@ The President may issue each year a proclamation—
 
 **Centennial of Flight Commemoration Act**
 
-Pub. L. 105–389, Nov. 13, 1998, 112 Stat. 3486, as amended by Pub. L. 106–68, § 1, Oct. 6, 1999, 113 Stat. 981, known as the Centennial of Flight Commemoration Act, established the Centennial of Flight Commission to carry out certain activities related to the history of aviation and the commemoration of the centennial of powered flight, required the Commission to make annual reports and a final report not later than June 30, 2004, and provided that the Commission terminate not later than 60 days after submission of the final report.
+Pub. L. 105–389, Nov. 13, 1998, 112 Stat. 3486, as amended by Pub. L. 106–68, § 1, Oct. 6, 1999, 113 Stat. 981, known as the Centennial of Flight Commemoration Act, established the Centennial of Flight Commission to carry out certain activities related to the history of aviation and the commemoration of the centennial of powered flight, required the Commission to make annual reports and a final report not later than June 30, 2004, and provided that the Commission terminate not later than 60 days after submission of the final report.
 
-## § 144. Patriot Day
+## § 144. Patriot Day
 
 **(a) Designation.—** September 11 is Patriot Day.
 
@@ -3229,9 +3229,9 @@ Pub. L. 105–389, Nov. 13, 1998, 112 Stat. 3486, as amended by Pub. L. 106–68
 
 **(3)** the people of the United States to observe a moment of silence on Patriot Day in honor of the individuals who lost their lives as a result of the terrorist attacks against the United States that occurred on September 11, 2001.
 
-(Added Pub. L. 107–89, § 1, Dec. 18, 2001, 115 Stat. 876.)
+(Added Pub. L. 107–89, § 1, Dec. 18, 2001, 115 Stat. 876.)
 
-## § 145. Veterans Day
+## § 145. Veterans Day
 
 The President shall issue each year a proclamation calling on the people of the United States to observe two minutes of silence on Veterans Day in honor of the service and sacrifice of veterans throughout the history of the Nation, beginning at—
 
@@ -3249,9 +3249,9 @@ The President shall issue each year a proclamation calling on the people of the 
 
 **(7)** 9:11 a.m. Hawaii-Aleutian standard time.
 
-(Added Pub. L. 114–240, § 2(a), Oct. 7, 2016, 130 Stat. 974.)
+(Added Pub. L. 114–240, § 2(a), Oct. 7, 2016, 130 Stat. 974.)
 
-## § 146. National Atomic Veterans Day
+## § 146. National Atomic Veterans Day
 
 The President shall issue each year a proclamation calling on the people of the United States to—
 
@@ -3259,7 +3259,7 @@ The President shall issue each year a proclamation calling on the people of the 
 
 **(2)** remember and honor the atomic veterans of the United States whose brave service and sacrifice played an important role in the defense of the Nation.
 
-(Added Pub. L. 117–81, div. A, title X, § 1084(a), Dec. 27, 2021, 135 Stat. 1924.)
+(Added Pub. L. 117–81, div. A, title X, § 1084(a), Dec. 27, 2021, 135 Stat. 1924.)
 
 **Editorial Notes**
 
@@ -3267,13 +3267,13 @@ The President shall issue each year a proclamation calling on the people of the 
 
 Another section 146 of this title was renumbered section 147 of this title.
 
-## § 147. Choose Respect Day
+## § 147. Choose Respect Day
 
 **(a) Designation.—** October 1 is Choose Respect Day.
 
 **(b) Recognition.—** All private citizens, organizations, and Federal, State, and local governmental and legislative entities are encouraged to recognize Choose Respect Day through proclamations, activities, and educational efforts in furtherance of changing the culture around the tolerance of violence against women.
 
-(Added Pub. L. 117–103, div. W, title XIII, § 1310(b)(1), Mar. 15, 2022, 136 Stat. 931, § 146; renumbered § 147, Pub. L. 118–31, div. A, title XVIII, § 1804(a)(1)(A)(i), Dec. 22, 2023, 137 Stat. 686.)
+(Added Pub. L. 117–103, div. W, title XIII, § 1310(b)(1), Mar. 15, 2022, 136 Stat. 931, § 146; renumbered § 147, Pub. L. 118–31, div. A, title XVIII, § 1804(a)(1)(A)(i), Dec. 22, 2023, 137 Stat. 686.)
 
 **Editorial Notes**
 
@@ -3287,10 +3287,10 @@ Another section 146 of this title was renumbered section 147 of this title.
 
 Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under section 6851 of Title 15, Commerce and Trade.
 
-## § 148. U.S. Hostage and Wrongful Detainee Day
+## § 148. U.S. Hostage and Wrongful Detainee Day
 
 **(a) Designation.—** March 9 is U.S. Hostage and Wrongful Detainee Day.
 
 **(b) Proclamation.—** The President is requested to issue each year a proclamation calling on the people of the United States to observe U.S. Hostage and Wrongful Detainee Day with appropriate ceremonies and activities.
 
-(Added Pub. L. 118–31, div. A, title XVIII, § 1804(a)(1)(A)(ii), Dec. 22, 2023, 137 Stat. 686.)
+(Added Pub. L. 118–31, div. A, title XVIII, § 1804(a)(1)(A)(ii), Dec. 22, 2023, 137 Stat. 686.)

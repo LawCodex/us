@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 94A—VISUAL DEPICTION PRIVACY
 
-## § 6851. Civil action relating to disclosure of intimate images
+## § 6851. Civil action relating to disclosure of intimate images
 
 **(a) Definitions** In this section:
 
@@ -47,9 +47,9 @@ The term “disclose” means to transfer, publish, distribute, or make accessib
 
 **(II)** from the body of an identifiable individual; or
 
-**(III)** an identifiable individual engaging in sexually explicit conduct and 1
+**(III)** an identifiable individual engaging in sexually explicit conduct and 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(B)** includes any visual depictions described in subparagraph (A) produced while the identifiable individual was in a public place only if the individual did not—
 
@@ -71,7 +71,7 @@ Except as provided in paragraph (4), an individual whose intimate visual depicti
 
 **(B) Rights on behalf of certain individuals**
 
-In the case of an individual who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the individual or representative of the identifiable individual’s estate, another family member, or any other person appointed as suitable by the court, may assume the identifiable individual’s’ <sup>1</sup> rights under this section, but in no event shall the defendant be named as such representative or guardian.
+In the case of an individual who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the individual or representative of the identifiable individual’s estate, another family member, or any other person appointed as suitable by the court, may assume the identifiable individual’s’ <sup>1</sup> rights under this section, but in no event shall the defendant be named as such representative or guardian.
 
 **(2) Consent** For purposes of an action under paragraph (1)—
 
@@ -113,13 +113,13 @@ In ordering relief under subparagraph (A), the court may grant injunctive relief
 
 **(D)** a disclosure reasonably intended to assist the identifiable individual.
 
-(Pub. L. 117–103, div. W, title XIII, § 1309, Mar. 15, 2022, 136 Stat. 929.)
+(Pub. L. 117–103, div. W, title XIII, § 1309, Mar. 15, 2022, 136 Stat. 929.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 117–103, div. W, § 4, Mar. 15, 2022, 136 Stat. 846, provided that:
+Pub. L. 117–103, div. W, § 4, Mar. 15, 2022, 136 Stat. 846, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), this Act [div. W of Pub. L. 117–103, see Tables for classification] and the amendments made by this Act shall not take effect until October 1 of the first fiscal year beginning after the date of enactment of this Act [Mar. 15, 2022].
 
@@ -127,7 +127,7 @@ Pub. L. 117–103, div. W, § 4, Mar. 15, 2022, 136 Stat. 846, provided that:
 
 **Severability**
 
-Pub. L. 117–103, div. W, § 6, Mar. 15, 2022, 136 Stat. 846, provided that: “If any provision of this Act [div. W of Pub. L. 117–103, see Tables for classification], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act and the amendments made by this Act, and the application of the provisions or amendment to any other person or circumstance, shall not be affected.”
+Pub. L. 117–103, div. W, § 6, Mar. 15, 2022, 136 Stat. 846, provided that: “If any provision of this Act [div. W of Pub. L. 117–103, see Tables for classification], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act and the amendments made by this Act, and the application of the provisions or amendment to any other person or circumstance, shall not be affected.”
 
 **Definitions**
 

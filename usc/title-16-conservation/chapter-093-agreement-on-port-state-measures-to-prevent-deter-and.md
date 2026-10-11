@@ -15,19 +15,19 @@ retrieved: 2026-10-11
 
 # CHAPTER 93—AGREEMENT ON PORT STATE MEASURES TO PREVENT, DETER AND ELIMINATE ILLEGAL, UNREPORTED AND UNREGULATED FISHING
 
-## § 7401. Purpose
+## § 7401. Purpose
 
 The purpose of this chapter is to implement the Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing.
 
-(Pub. L. 114–81, title III, § 302, Nov. 5, 2015, 129 Stat. 664.)
+(Pub. L. 114–81, title III, § 302, Nov. 5, 2015, 129 Stat. 664.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 114–81, title III, § 301, Nov. 5, 2015, 129 Stat. 664, provided that: “This title [enacting this chapter] may be cited as the ‘Port State Measures Agreement Act of 2015’.”
+Pub. L. 114–81, title III, § 301, Nov. 5, 2015, 129 Stat. 664, provided that: “This title [enacting this chapter] may be cited as the ‘Port State Measures Agreement Act of 2015’.”
 
-## § 7402. Definitions
+## § 7402. Definitions
 
 As used in this chapter:
 
@@ -41,9 +41,9 @@ As used in this chapter:
 
 **(5)** The term “person” has the same meaning as that term has in section 3 of the Magnuson-Stevens Act (16 U.S.C. 1802).
 
-**(6)** The terms “RFMO” and “regional fisheries management organization” mean a regional fisheries management organization (as that term is defined by the United Nation’s 1
+**(6)** The terms “RFMO” and “regional fisheries management organization” mean a regional fisheries management organization (as that term is defined by the United Nation’s 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 Food and Agriculture Organization Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing) that is recognized by the United States.
 
@@ -67,23 +67,23 @@ Food and Agriculture Organization Agreement on Port State Measures to Prevent, D
 
 **(B)** does not include any scientific research activity that is conducted by a scientific research vessel.
 
-(Pub. L. 114–81, title III, § 303, Nov. 5, 2015, 129 Stat. 664.)
+(Pub. L. 114–81, title III, § 303, Nov. 5, 2015, 129 Stat. 664.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-## § 7403. Duties and authorities of the Secretary
+## § 7403. Duties and authorities of the Secretary
 
 **(a) Regulations** The Secretary may, as needed, promulgate such regulations—
 
 **(1)** in accordance with section 553 of title 5;
 
-**(2)** consistent with provisions of this chapter; 1
+**(2)** consistent with provisions of this chapter; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
@@ -93,7 +93,7 @@ as may be necessary to carry out the purposes of this chapter, to the extent tha
 
 **(b) Ports of entry**
 
-The Secretary, in consultation with the Secretary of the department in which the Coast Guard is operating, may designate and publicize the ports to which vessels may seek entry. No port may be designated under this section that has not also been designated as a port of entry for customs reporting purposes pursuant to section 1433 of title 19 <sup>1</sup> or that is not specified under an existing international fisheries agreement.
+The Secretary, in consultation with the Secretary of the department in which the Coast Guard is operating, may designate and publicize the ports to which vessels may seek entry. No port may be designated under this section that has not also been designated as a port of entry for customs reporting purposes pursuant to section 1433 of title 19 <sup>1</sup> or that is not specified under an existing international fisheries agreement.
 
 **(c) Notification**
 
@@ -103,7 +103,7 @@ The Secretary shall provide notification of the denial of port entry or the use 
 
 The Secretary may request confirmation from the flag state of a foreign vessel that the fish on board a foreign vessel in a port subject to the jurisdiction of the United States were taken in accordance with applicable RFMO conservation and management measures.
 
-(Pub. L. 114–81, title III, § 304, Nov. 5, 2015, 129 Stat. 665.)
+(Pub. L. 114–81, title III, § 304, Nov. 5, 2015, 129 Stat. 665.)
 
 **Editorial Notes**
 
@@ -113,7 +113,7 @@ This chapter, referred to in subsec. (a)(2), was in the original “the title”
 
 Section 1433 of title 19, referred to in subsec. (b), was in the original a reference to “section 1433 of title 19, United States Code” but probably should have been a reference to section 433 of the Tariff Act of 1930, act June 17, 1930, ch. 497, which is classified to section 1433 of Title 19, Customs Duties.
 
-## § 7404. Authorization or denial of port entry
+## § 7404. Authorization or denial of port entry
 
 **(a) Submission of information required under Agreement**
 
@@ -183,15 +183,15 @@ The Secretary of the department in which the Coast Guard is operating shall auth
 
 **(3)** pursuant to an inspection or other enforcement action.
 
-(Pub. L. 114–81, title III, § 305, Nov. 5, 2015, 129 Stat. 666.)
+(Pub. L. 114–81, title III, § 305, Nov. 5, 2015, 129 Stat. 666.)
 
-## § 7405. Inspections
+## § 7405. Inspections
 
 The Secretary, and the Secretary of the department in which the Coast Guard is operating, shall conduct foreign vessel inspections in ports subject to the jurisdiction of the United States as necessary to achieve the purposes of the Agreement and this chapter. If, following an inspection, the Secretary has reasonable grounds to believe that a foreign vessel has engaged in IUU fishing or fishing-related activities in support of such fishing, the Secretary may take enforcement action under this chapter or other applicable law, and shall deny the vessel the use of port services, in accordance with section 7404 of this title.
 
-(Pub. L. 114–81, title III, § 306, Nov. 5, 2015, 129 Stat. 667.)
+(Pub. L. 114–81, title III, § 306, Nov. 5, 2015, 129 Stat. 667.)
 
-## § 7406. Prohibited acts
+## § 7406. Prohibited acts
 
 It is unlawful for any person subject to the jurisdiction of the United States—
 
@@ -201,13 +201,13 @@ It is unlawful for any person subject to the jurisdiction of the United States�
 
 **(3)** to submit false information pursuant to any requirement under this chapter or the regulations issued under this chapter; or
 
-**(4)** to commit any offense enumerated in paragraph (4), (5), (7), or (9) of section 707(a) 1
+**(4)** to commit any offense enumerated in paragraph (4), (5), (7), or (9) of section 707(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Western and Central Pacific Fisheries Convention Implementation Act (16 U.S.C. 6906(a)).
 
-(Pub. L. 114–81, title III, § 307, Nov. 5, 2015, 129 Stat. 667.)
+(Pub. L. 114–81, title III, § 307, Nov. 5, 2015, 129 Stat. 667.)
 
 **Editorial Notes**
 
@@ -215,7 +215,7 @@ of the Western and Central Pacific Fisheries Convention Implementation Act (16 U
 
 Section 707(a) of the Western and Central Pacific Fisheries Convention Implementation Act, referred to in par. (4), probably means section 507(a) of title V of Pub. L. 109–479, which is classified to section 6906(a) of this title.
 
-## § 7407. Enforcement
+## § 7407. Enforcement
 
 **(a) Existing authorities and responsibilities**
 
@@ -243,7 +243,7 @@ Any person who is found by the Secretary (after notice and opportunity for a hea
 
 The Secretary shall have the same authority as provided in section 1858(e) of this title with respect to a violation of this chapter.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2) In rem jurisdiction**
 
@@ -257,9 +257,9 @@ If any person fails to pay an assessment of a civil penalty under this chapter a
 
 **(1) In general**
 
-Any foreign vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) imported or possessed in connection with or as 2
+Any foreign vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) imported or possessed in connection with or as 2
 
-<sup>2</sup>  So in original. The word “a” probably should appear.
+<sup>2</sup> So in original. The word “a” probably should appear.
 
 result of the commission of any act prohibited by section 7406 of this title shall be subject to forfeiture under section 1860 of this title.
 
@@ -269,7 +269,7 @@ All provisions of law relating to seizure, summary judgment, and judicial forfei
 
 **(3) Presumption**
 
-For the purposes of this section there is a rebuttable presumption that all fish, or components thereof, found on board a vessel that is used or seized in connection with a violation of this chapter (including any regulation promulgated under this chapter <sup>1</sup>) were taken, obtained, or retained as a result of IUU fishing or fishing-related activities in support of IUU fishing.
+For the purposes of this section there is a rebuttable presumption that all fish, or components thereof, found on board a vessel that is used or seized in connection with a violation of this chapter (including any regulation promulgated under this chapter <sup>1</sup>) were taken, obtained, or retained as a result of IUU fishing or fishing-related activities in support of IUU fishing.
 
 **(d) Criminal enforcement**
 
@@ -279,7 +279,7 @@ Any person (other than a foreign government agency, or entity wholly owned by a 
 
 Any person assessed a civil penalty for, or convicted of, any violation of this chapter (including any regulation promulgated under this chapter) and any claimant in a forfeiture action brought for such a violation, shall be liable for the reasonable costs incurred by the Secretary in storage, care, and maintenance of any property seized in connection with the violation.
 
-(Pub. L. 114–81, title III, § 308, Nov. 5, 2015, 129 Stat. 668.)
+(Pub. L. 114–81, title III, § 308, Nov. 5, 2015, 129 Stat. 668.)
 
 **Editorial Notes**
 
@@ -287,7 +287,7 @@ Any person assessed a civil penalty for, or convicted of, any violation of this 
 
 This chapter, referred to in subsec. (b)(1)(B) and the second place appearing in subsec. (c)(3), was in the original “this Act” and was translated as meaning “this title” to reflect the probable intent of Congress.
 
-## § 7408. International cooperation and assistance
+## § 7408. International cooperation and assistance
 
 **(a) Assistance to developing nations and international organizations**
 
@@ -297,9 +297,9 @@ Consistent with existing authority and the availability of funds, the Secretary 
 
 In carrying out subsection (a), the Secretary may, by agreement, on a reimbursable or nonreimbursable basis, utilize the personnel, services, equipment, and facilities of any Federal, State, local, or foreign government or any entity of any such government.
 
-(Pub. L. 114–81, title III, § 309, Nov. 5, 2015, 129 Stat. 669.)
+(Pub. L. 114–81, title III, § 309, Nov. 5, 2015, 129 Stat. 669.)
 
-## § 7409. Relationship to other laws
+## § 7409. Relationship to other laws
 
 **(a) In general**
 
@@ -309,4 +309,4 @@ Nothing in this chapter shall be construed to displace any requirements imposed 
 
 This chapter shall be interpreted and applied in accordance with United States obligations under international law.
 
-(Pub. L. 114–81, title III, § 310, Nov. 5, 2015, 129 Stat. 669.)
+(Pub. L. 114–81, title III, § 310, Nov. 5, 2015, 129 Stat. 669.)

@@ -19,61 +19,61 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–31, § 3(b), July 30, 2025, 139 Stat. 478, added item 3737.
+2025—Pub. L. 119–31, § 3(b), July 30, 2025, 139 Stat. 478, added item 3737.
 
-Pub. L. 118–210, title II, § 232(b), Jan. 2, 2025, 138 Stat. 2788, added item 3762A.
+Pub. L. 118–210, title II, § 232(b), Jan. 2, 2025, 138 Stat. 2788, added item 3762A.
 
-2018—Pub. L. 115–174, title III, § 309(a)(4), May 24, 2018, 132 Stat. 1350, added item 3709.
+2018—Pub. L. 115–174, title III, § 309(a)(4), May 24, 2018, 132 Stat. 1350, added item 3709.
 
-2006—Pub. L. 109–233, title I, §§ 103(f)(4), 104(c), June 15, 2006, 120 Stat. 401, 402, substituted “DIRECT HOUSING LOANS FOR NATIVE AMERICAN VETERANS” for “NATIVE AMERICAN VETERAN HOUSING LOAN PILOT PROGRAM” in item for subchapter V, “Direct housing loans to Native American veterans; program authority” for “Pilot program” in item 3761, “Direct housing loans to Native American veterans; program administration” for “Direct housing loans to Native American veterans” in item 3762, and “Qualified non-Native American veterans” for “Definitions” in item 3764 and added item 3765.
+2006—Pub. L. 109–233, title I, §§ 103(f)(4), 104(c), June 15, 2006, 120 Stat. 401, 402, substituted “DIRECT HOUSING LOANS FOR NATIVE AMERICAN VETERANS” for “NATIVE AMERICAN VETERAN HOUSING LOAN PILOT PROGRAM” in item for subchapter V, “Direct housing loans to Native American veterans; program authority” for “Pilot program” in item 3761, “Direct housing loans to Native American veterans; program administration” for “Direct housing loans to Native American veterans” in item 3762, and “Qualified non-Native American veterans” for “Definitions” in item 3764 and added item 3765.
 
-2002—Pub. L. 107–330, title III, § 303(b), Dec. 6, 2002, 116 Stat. 2826, added item 3707A.
+2002—Pub. L. 107–330, title III, § 303(b), Dec. 6, 2002, 116 Stat. 2826, added item 3707A.
 
-2001—Pub. L. 107–95, § 5(g)(2), Dec. 21, 2001, 115 Stat. 918, struck out item 3735 “Housing assistance for homeless veterans”, item for subchapter VI “LOAN GUARANTEE FOR MULTIFAMILY TRANSITIONAL HOUSING FOR HOMELESS VETERANS”, and items 3771 “Definitions”, 3772 “General authority”, 3773 “Requirements”, 3774 “Default”, and 3775 “Audit”.
+2001—Pub. L. 107–95, § 5(g)(2), Dec. 21, 2001, 115 Stat. 918, struck out item 3735 “Housing assistance for homeless veterans”, item for subchapter VI “LOAN GUARANTEE FOR MULTIFAMILY TRANSITIONAL HOUSING FOR HOMELESS VETERANS”, and items 3771 “Definitions”, 3772 “General authority”, 3773 “Requirements”, 3774 “Default”, and 3775 “Audit”.
 
-1998—Pub. L. 105–368, title VI, §§ 601(b), 602(e)(3)(C), Nov. 11, 1998, 112 Stat. 3345, 3347, added item 3722, struck out items 3723 “Direct loan revolving fund”, 3724 “Loan Guaranty Revolving Fund”, and 3725 “Guaranty and Indemnity Fund”, substituted “Veterans Housing Benefit Program Fund and housing programs” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund” in item 3734, substituted “Native American Veteran Housing Loan Program Account” for “Housing loan program account” in item 3763, and added item for subchapter VI and items 3771 to 3775.
+1998—Pub. L. 105–368, title VI, §§ 601(b), 602(e)(3)(C), Nov. 11, 1998, 112 Stat. 3345, 3347, added item 3722, struck out items 3723 “Direct loan revolving fund”, 3724 “Loan Guaranty Revolving Fund”, and 3725 “Guaranty and Indemnity Fund”, substituted “Veterans Housing Benefit Program Fund and housing programs” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund” in item 3734, substituted “Native American Veteran Housing Loan Program Account” for “Housing loan program account” in item 3763, and added item for subchapter VI and items 3771 to 3775.
 
-1996—Pub. L. 104–110, title II, § 201(a)(2), Feb. 13, 1996, 110 Stat. 770, added item 3736.
+1996—Pub. L. 104–110, title II, § 201(a)(2), Feb. 13, 1996, 110 Stat. 770, added item 3736.
 
-Pub. L. 104–106, div. B, title XXVIII, § 2822(b)(2), Feb. 10, 1996, 110 Stat. 557, added item 3708.
+Pub. L. 104–106, div. B, title XXVIII, § 2822(b)(2), Feb. 10, 1996, 110 Stat. 557, added item 3708.
 
-1992—Pub. L. 102–547, §§ 3(a)(2), 8(c), Oct. 28, 1992, 106 Stat. 3635, 3640, added item 3707, item for subchapter V, and items 3761 to 3764.
+1992—Pub. L. 102–547, §§ 3(a)(2), 8(c), Oct. 28, 1992, 106 Stat. 3635, 3640, added item 3707, item for subchapter V, and items 3761 to 3764.
 
-1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1801 to 1851 as 3701 to 3751, respectively.
+1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1801 to 1851 as 3701 to 3751, respectively.
 
-Pub. L. 102–54, § 9(b), June 13, 1991, 105 Stat. 273, added item 1835.
+Pub. L. 102–54, § 9(b), June 13, 1991, 105 Stat. 273, added item 1835.
 
-1989—Pub. L. 101–237, title III, §§ 302(a)(3)(B), (b)(2), 313(b)(1), Dec. 18, 1989, 103 Stat. 2070, 2071, 2077, substituted “Secretary” for “Administrator” in items 1820, 1844, and 1850, “Loan Guaranty Revolving Fund” for “Loan guaranty revolving fund” in item 1824, and “Guaranty and Indemnity Fund” for “Waiver of discharge requirements for hospitalized persons” in item 1825, and added item 1834.
+1989—Pub. L. 101–237, title III, §§ 302(a)(3)(B), (b)(2), 313(b)(1), Dec. 18, 1989, 103 Stat. 2070, 2071, 2077, substituted “Secretary” for “Administrator” in items 1820, 1844, and 1850, “Loan Guaranty Revolving Fund” for “Loan guaranty revolving fund” in item 1824, and “Guaranty and Indemnity Fund” for “Waiver of discharge requirements for hospitalized persons” in item 1825, and added item 1834.
 
-1988—Pub. L. 100–322, title IV, § 415(e), May 20, 1988, 102 Stat. 552, in item 1803 substituted “guaranty and insurance” for “guaranty”, struck out item 1807 “Service after July 25, 1947, and prior to June 27, 1950”, reenacted items 1810 and 1811 without change, redesignated item 1819 “Loans to purchase manufactured homes and lots” as item 1812, item 1817 “Release from liability under guaranty” as item 1813, and item 1817A “Assumptions; release from liability” as item 1814, struck out item 1815 “Insurance of loans” and item 1818 “Service after January 31, 1955, and prior to August 5, 1964, or after May 7, 1975”, redesignated item 1816 “Procedure on default” as item 1832, struck out former item 1832 “Furnishing information to real estate professionals to facilitate the disposition of properties”, and added item 1833.
+1988—Pub. L. 100–322, title IV, § 415(e), May 20, 1988, 102 Stat. 552, in item 1803 substituted “guaranty and insurance” for “guaranty”, struck out item 1807 “Service after July 25, 1947, and prior to June 27, 1950”, reenacted items 1810 and 1811 without change, redesignated item 1819 “Loans to purchase manufactured homes and lots” as item 1812, item 1817 “Release from liability under guaranty” as item 1813, and item 1817A “Assumptions; release from liability” as item 1814, struck out item 1815 “Insurance of loans” and item 1818 “Service after January 31, 1955, and prior to August 5, 1964, or after May 7, 1975”, redesignated item 1816 “Procedure on default” as item 1832, struck out former item 1832 “Furnishing information to real estate professionals to facilitate the disposition of properties”, and added item 1833.
 
-1987—Pub. L. 100–198, § 10(a)(3), Dec. 21, 1987, 101 Stat. 1323, added item 1817A.
+1987—Pub. L. 100–198, § 10(a)(3), Dec. 21, 1987, 101 Stat. 1323, added item 1817A.
 
-1986—Pub. L. 99–576, title IV, §§ 407(b), 408(b), Oct. 28, 1986, 100 Stat. 3283, added items 1831 and 1832.
+1986—Pub. L. 99–576, title IV, §§ 407(b), 408(b), Oct. 28, 1986, 100 Stat. 3283, added items 1831 and 1832.
 
-1984—Pub. L. 98–369, div. B, title V, § 2512(b)(2), July 18, 1984, 98 Stat. 1120, added item 1830.
+1984—Pub. L. 98–369, div. B, title V, § 2512(b)(2), July 18, 1984, 98 Stat. 1120, added item 1830.
 
-1982—Pub. L. 97–306, title IV, § 406(c)(3), Oct. 14, 1982, 96 Stat. 1445, substituted “Loans to purchase manufactured homes and lots” for “Loans to purchase mobile homes and mobile home lots” in item 1819.
+1982—Pub. L. 97–306, title IV, § 406(c)(3), Oct. 14, 1982, 96 Stat. 1445, substituted “Loans to purchase manufactured homes and lots” for “Loans to purchase mobile homes and mobile home lots” in item 1819.
 
-Pub. L. 97–253, title IV, § 406(a)(2), Sept. 8, 1982, 96 Stat. 805, added item 1829.
+Pub. L. 97–253, title IV, § 406(a)(2), Sept. 8, 1982, 96 Stat. 805, added item 1829.
 
-1981—Pub. L. 97–72, title III, § 302(b)(1), (3), Nov. 3, 1981, 95 Stat. 1059, substituted “HOUSING AND SMALL BUSINESS LOANS” for “HOME, CONDOMINIUM, AND MOBILE HOME LOANS” in chapter heading and, in analysis of subchapters and sections, added item for subchapter IV and for sections 1841 to 1851.
+1981—Pub. L. 97–72, title III, § 302(b)(1), (3), Nov. 3, 1981, 95 Stat. 1059, substituted “HOUSING AND SMALL BUSINESS LOANS” for “HOME, CONDOMINIUM, AND MOBILE HOME LOANS” in chapter heading and, in analysis of subchapters and sections, added item for subchapter IV and for sections 1841 to 1851.
 
-1979—Pub. L. 96–128, title IV, § 401(b), Nov. 28, 1979, 93 Stat. 987, added item 1828.
+1979—Pub. L. 96–128, title IV, § 401(b), Nov. 28, 1979, 93 Stat. 987, added item 1828.
 
-1978—Pub. L. 95–476, title I, § 106(b), Oct. 18, 1978, 92 Stat. 1500, substituted “Service after January 31, 1955, and prior to August 5, 1964, or after May 7, 1975” for “Veterans who serve after January 31, 1955” in item 1818.
+1978—Pub. L. 95–476, title I, § 106(b), Oct. 18, 1978, 92 Stat. 1500, substituted “Service after January 31, 1955, and prior to August 5, 1964, or after May 7, 1975” for “Veterans who serve after January 31, 1955” in item 1818.
 
-1976—Pub. L. 94–324, § 2(b), June 30, 1976, 90 Stat. 720, added item 1807.
+1976—Pub. L. 94–324, § 2(b), June 30, 1976, 90 Stat. 720, added item 1807.
 
-1974—Pub. L. 93–569, §§ 7(b), (c), Dec. 31, 1974, 88 Stat. 1866, substituted “HOME, CONDOMINIUM, AND MOBILE HOME LOANS” for “HOME, FARM, AND BUSINESS LOANS” in chapter heading, and struck out items 1812 “Purchase of farms and farm equipment”, 1813 “Purchase of business property”, 1814 “Loans to refinance delinquent indebtedness”, and 1822 “Recovery of damages”, from chapter analysis.
+1974—Pub. L. 93–569, §§ 7(b), (c), Dec. 31, 1974, 88 Stat. 1866, substituted “HOME, CONDOMINIUM, AND MOBILE HOME LOANS” for “HOME, FARM, AND BUSINESS LOANS” in chapter heading, and struck out items 1812 “Purchase of farms and farm equipment”, 1813 “Purchase of business property”, 1814 “Loans to refinance delinquent indebtedness”, and 1822 “Recovery of damages”, from chapter analysis.
 
-1970—Pub. L. 91–506, § 7, Oct. 23, 1970, 84 Stat. 1114, added item 1819.
+1970—Pub. L. 91–506, § 7, Oct. 23, 1970, 84 Stat. 1114, added item 1819.
 
-1968—Pub. L. 90–301, § 5(b), May 7, 1968, 82 Stat. 116, added item 1827.
+1968—Pub. L. 90–301, § 5(b), May 7, 1968, 82 Stat. 116, added item 1827.
 
-1966—Pub. L. 89–358, § 5(b), (f)(2), Mar. 3, 1966, 80 Stat. 26, 27, added items 1818 and 1826.
+1966—Pub. L. 89–358, § 5(b), (f)(2), Mar. 3, 1966, 80 Stat. 26, 27, added items 1818 and 1826.
 
-1960—Pub. L. 86–665, §§ 6(b), 7(b), July 14, 1960, 74 Stat. 532, 533, added items 1806 and 1824 and renumbered former item 1824 as 1825.
+1960—Pub. L. 86–665, §§ 6(b), 7(b), July 14, 1960, 74 Stat. 532, 533, added items 1806 and 1824 and renumbered former item 1824 as 1825.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -87,7 +87,7 @@ Any loan or mortgage secured by a one- to four-family dwelling and insured, guar
 
 ## SUBCHAPTER I—GENERAL
 
-### § 3701. Definitions
+### § 3701. Definitions
 
 **(a)** For the purpose of this chapter, the term “housing loan” means a loan for any of the purposes specified by sections 3710(a) and 3712(a)(1) of this title.
 
@@ -121,19 +121,19 @@ Any loan or mortgage secured by a one- to four-family dwelling and insured, guar
 
 **(B)** that includes 30 consecutive days.
 
-**(c)** Benefits shall not be afforded under this chapter to any individual on account of service as a commissioned officer of the National Oceanic and Atmospheric Administration (or predecessor entity), or of the Regular or Reserve Corps 1
+**(c)** Benefits shall not be afforded under this chapter to any individual on account of service as a commissioned officer of the National Oceanic and Atmospheric Administration (or predecessor entity), or of the Regular or Reserve Corps 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 of the Public Health Service, unless such service would have qualified such individual for benefits under title III of the Servicemen’s Readjustment Act of 1944.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1203, § 1801; Pub. L. 91–584, § 5(a), Dec. 24, 1970, 84 Stat. 1576; Pub. L. 94–324, § 7(1), (2), June 30, 1976, 90 Stat. 721; Pub. L. 97–72, title III, § 303(a), Nov. 3, 1981, 95 Stat. 1059; Pub. L. 97–295, § 4(62), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 100–322, title IV, § 415(c)(1), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, § 313(a), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3701 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, § 2(a)(1), Oct. 28, 1992, 106 Stat. 3633; Pub. L. 103–446, title IX, § 901, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–106, div. A, title XV, § 1501(e)(2)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 112–154, title II, § 206(a), Aug. 6, 2012, 126 Stat. 1178; Pub. L. 116–283, div. A, title IX, § 926(a)(47), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title II, § 2101(a), Jan. 5, 2021, 134 Stat. 4981.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1203, § 1801; Pub. L. 91–584, § 5(a), Dec. 24, 1970, 84 Stat. 1576; Pub. L. 94–324, § 7(1), (2), June 30, 1976, 90 Stat. 721; Pub. L. 97–72, title III, § 303(a), Nov. 3, 1981, 95 Stat. 1059; Pub. L. 97–295, § 4(62), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 100–322, title IV, § 415(c)(1), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, § 313(a), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3701 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, § 2(a)(1), Oct. 28, 1992, 106 Stat. 3633; Pub. L. 103–446, title IX, § 901, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–106, div. A, title XV, § 1501(e)(2)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 112–154, title II, § 206(a), Aug. 6, 2012, 126 Stat. 1178; Pub. L. 116–283, div. A, title IX, § 926(a)(47), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title II, § 2101(a), Jan. 5, 2021, 134 Stat. 4981.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Servicemen’s Readjustment Act of 1944, referred to in subsec. (c), is act June 22, 1944, ch. 268, 58 Stat. 284. Title III of the Servicemen’s Readjustment Act of 1944 was classified generally to subchapter II (§ 694 et seq.) of chapter 11C of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed and the provisions thereof reenacted as this chapter by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+The Servicemen’s Readjustment Act of 1944, referred to in subsec. (c), is act June 22, 1944, ch. 268, 58 Stat. 284. Title III of the Servicemen’s Readjustment Act of 1944 was classified generally to subchapter II (§ 694 et seq.) of chapter 11C of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed and the provisions thereof reenacted as this chapter by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 **Amendments**
 
@@ -145,15 +145,15 @@ Subsec. (b)(7). Pub. L. 116–315 added par. (7).
 
 1996—Subsec. (b)(5)(B). Pub. L. 104–106 substituted “section 10143(a) of title 10” for “section 268(b) of title 10”.
 
-1994—Subsec. (b)(2). Pub. L. 103–446, § 901(b), inserted “or service in the Selected Reserve” after “duty” in two places and substituted “deceased spouse shall” for “spouse shall”.
+1994—Subsec. (b)(2). Pub. L. 103–446, § 901(b), inserted “or service in the Selected Reserve” after “duty” in two places and substituted “deceased spouse shall” for “spouse shall”.
 
-Subsec. (b)(5)(A). Pub. L. 103–446, § 901(a), inserted “(i)” before “who has” and substituted “, or” and cl. (ii) for the period at end.
+Subsec. (b)(5)(A). Pub. L. 103–446, § 901(a), inserted “(i)” before “who has” and substituted “, or” and cl. (ii) for the period at end.
 
 1992—Subsec. (b)(5). Pub. L. 102–547 added par. (5).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1801 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1801 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3710(a) and 3712(a)(1)” for “1810(a) and 1812(a)(1)”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3710(a) and 3712(a)(1)” for “1810(a) and 1812(a)(1)”.
 
 1989—Subsec. (b)(4). Pub. L. 101–237 added par. (4).
 
@@ -161,15 +161,15 @@ Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3710(a) and 3712(a)(
 
 1982—Subsec. (b)(3). Pub. L. 97–295 substituted “member shall be deemed” for “spouse shall be deemed”, and “member is no longer listed” for “spouse is no longer listed”.
 
-1981—Subsec. (a). Pub. L. 97–72, § 303(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
+1981—Subsec. (a). Pub. L. 97–72, § 303(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 97–72, § 303(a)(1), (3), redesignated subsec. (a) as (b) and substituted “For the purposes of housing loans under this chapter” for “For the purposes of this chapter”. Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 97–72, § 303(a)(1), (3), redesignated subsec. (a) as (b) and substituted “For the purposes of housing loans under this chapter” for “For the purposes of this chapter”. Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 97–72, § 303(a)(1), (4), redesignated subsec. (b) as (c) and substituted “National Oceanic and Atmospheric Administration (or predecessor entity)” for “Coast and Geodetic Survey”.
+Subsec. (c). Pub. L. 97–72, § 303(a)(1), (4), redesignated subsec. (b) as (c) and substituted “National Oceanic and Atmospheric Administration (or predecessor entity)” for “Coast and Geodetic Survey”.
 
-1976—Subsec. (a)(2). Pub. L. 94–324, § 7(1), substituted “surviving spouse”, “the spouse’s own”, and “the spouse” for “widow”, “her own”, and “her husband”, respectively, wherever appearing.
+1976—Subsec. (a)(2). Pub. L. 94–324, § 7(1), substituted “surviving spouse”, “the spouse’s own”, and “the spouse” for “widow”, “her own”, and “her husband”, respectively, wherever appearing.
 
-Subsec. (a)(3). Pub. L. 94–324, § 7(2), substituted “spouse” and “the spouse” for “wife” and “her husband”, respectively, wherever appearing.
+Subsec. (a)(3). Pub. L. 94–324, § 7(2), substituted “spouse” and “the spouse” for “wife” and “her husband”, respectively, wherever appearing.
 
 1970—Subsec. (a)(3). Pub. L. 91–584 added par. (3).
 
@@ -181,11 +181,11 @@ Reference to Reserve Corps of the Public Health Service deemed to be a reference
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–315, title II, § 2101(c), Jan. 5, 2021, 134 Stat. 4981, provided that: “The amendments made by this section [amending this section and section 3702 of this title] shall apply with respect to full-time National Guard duty (as defined in section 101 of title 10, United States Code) performed before, on, or after the date of the enactment of this Act [Jan. 5, 2021].”
+Pub. L. 116–315, title II, § 2101(c), Jan. 5, 2021, 134 Stat. 4981, provided that: “The amendments made by this section [amending this section and section 3702 of this title] shall apply with respect to full-time National Guard duty (as defined in section 101 of title 10, United States Code) performed before, on, or after the date of the enactment of this Act [Jan. 5, 2021].”
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–154, title II, § 206(b), Aug. 6, 2012, 126 Stat. 1178, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a loan guaranteed after the date of the enactment of this Act [Aug. 6, 2012].”
+Pub. L. 112–154, title II, § 206(b), Aug. 6, 2012, 126 Stat. 1178, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a loan guaranteed after the date of the enactment of this Act [Aug. 6, 2012].”
 
 **Effective Date of 1996 Amendment**
 
@@ -197,7 +197,7 @@ Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–324, § 9, June 30, 1976, 90 Stat. 723, provided that:
+Pub. L. 94–324, § 9, June 30, 1976, 90 Stat. 723, provided that:
 
 > **“(a)** Except as provided in subsection (b), the provisions of this Act [see Tables for classification] shall become effective on the date of enactment [June 30, 1976].
 
@@ -205,9 +205,9 @@ Pub. L. 94–324, § 9, June 30, 1976, 90 Stat. 723, provided that:
 
 **Clarification With Respect to Certain Fees**
 
-Pub. L. 112–154, title II, § 206(c), Aug. 6, 2012, 126 Stat. 1179, provided that: “Fees shall be collected under section 3729 of title 38, United States Code, from a person described in paragraph (6) of section 3701(b) of such title, as added by subsection (a) of this section, in the same manner as such fees are collected from a person described in paragraph (2) of section 3701(b) of such title.”
+Pub. L. 112–154, title II, § 206(c), Aug. 6, 2012, 126 Stat. 1179, provided that: “Fees shall be collected under section 3729 of title 38, United States Code, from a person described in paragraph (6) of section 3701(b) of such title, as added by subsection (a) of this section, in the same manner as such fees are collected from a person described in paragraph (2) of section 3701(b) of such title.”
 
-### § 3702. Basic entitlement
+### § 3702. Basic entitlement
 
 **(a)**
 
@@ -283,7 +283,7 @@ The Secretary may, in any case involving circumstances the Secretary deems appro
 
 **(5)** percentage of assets which may be invested in real estate loans.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1203, § 1802; Pub. L. 86–73, § 1, June 30, 1959, 73 Stat. 156; Pub. L. 87–84, § 1(b), July 6, 1961, 75 Stat. 201; Pub. L. 90–19, § 25(1), May 25, 1967, 81 Stat. 28; Pub. L. 90–77, title IV, § 403(a), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–506, § 2(a), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 91–584, § 5(b), Dec. 24, 1970, 84 Stat. 1576; Pub. L. 93–569, § 2(a), (b), Dec. 31, 1974, 88 Stat. 1863; Pub. L. 94–324, § 7(3)–(5), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, § 102, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 97–72, title III, § 303(b), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, § 4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–223, title II, § 204, Mar. 2, 1984, 98 Stat. 42; Pub. L. 100–322, title IV, § 415(a)(1), (2), May 20, 1988, 102 Stat. 549, 550; Pub. L. 101–237, title III, §§ 310, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; Pub. L. 102–25, title III, § 341, Apr. 6, 1991, 105 Stat. 92; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 3702 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, § 2(a)(2), Oct. 28, 1992, 106 Stat. 3633; Pub. L. 103–446, title IX, § 902, title XII, § 1201(f)(4), Nov. 2, 1994, 108 Stat. 4676, 4687; Pub. L. 105–368, title VI, § 603(a), Nov. 11, 1998, 112 Stat. 3348; Pub. L. 106–117, title VII, § 711, Nov. 30, 1999, 113 Stat. 1584; Pub. L. 107–103, title IV, § 405(a), Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–183, title IV, § 403, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 110–317, § 6(a), Aug. 29, 2008, 122 Stat. 3528; Pub. L. 116–315, title II, § 2101(b), Jan. 5, 2021, 134 Stat. 4981.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1203, § 1802; Pub. L. 86–73, § 1, June 30, 1959, 73 Stat. 156; Pub. L. 87–84, § 1(b), July 6, 1961, 75 Stat. 201; Pub. L. 90–19, § 25(1), May 25, 1967, 81 Stat. 28; Pub. L. 90–77, title IV, § 403(a), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–506, § 2(a), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 91–584, § 5(b), Dec. 24, 1970, 84 Stat. 1576; Pub. L. 93–569, § 2(a), (b), Dec. 31, 1974, 88 Stat. 1863; Pub. L. 94–324, § 7(3)–(5), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, § 102, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 97–72, title III, § 303(b), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, § 4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–223, title II, § 204, Mar. 2, 1984, 98 Stat. 42; Pub. L. 100–322, title IV, § 415(a)(1), (2), May 20, 1988, 102 Stat. 549, 550; Pub. L. 101–237, title III, §§ 310, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; Pub. L. 102–25, title III, § 341, Apr. 6, 1991, 105 Stat. 92; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 3702 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, § 2(a)(2), Oct. 28, 1992, 106 Stat. 3633; Pub. L. 103–446, title IX, § 902, title XII, § 1201(f)(4), Nov. 2, 1994, 108 Stat. 4676, 4687; Pub. L. 105–368, title VI, § 603(a), Nov. 11, 1998, 112 Stat. 3348; Pub. L. 106–117, title VII, § 711, Nov. 30, 1999, 113 Stat. 1584; Pub. L. 107–103, title IV, § 405(a), Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–183, title IV, § 403, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 110–317, § 6(a), Aug. 29, 2008, 122 Stat. 3528; Pub. L. 116–315, title II, § 2101(b), Jan. 5, 2021, 134 Stat. 4981.)
 
 **Editorial Notes**
 
@@ -301,73 +301,73 @@ The Secretary may, in any case involving circumstances the Secretary deems appro
 
 1998—Subsec. (a)(2)(E). Pub. L. 105–368 substituted “September 30, 2003” for “October 27, 1999”.
 
-1994—Subsec. (a)(2)(E). Pub. L. 103–446, § 1201(f)(4), substituted “For the period beginning on October 28, 1992, and ending on October 27, 1999,” for “For the 7-year period beginning on the date of enactment of this subparagraph,”.
+1994—Subsec. (a)(2)(E). Pub. L. 103–446, § 1201(f)(4), substituted “For the period beginning on October 28, 1992, and ending on October 27, 1999,” for “For the 7-year period beginning on the date of enactment of this subparagraph,”.
 
-Subsec. (b). Pub. L. 103–446, § 902(1), (6), (7), in introductory provisions, substituted “loan under the following circumstances:” for “loan, if—”, and in concluding provisions, substituted “paragraph (1)” for “clause (1) of the preceding sentence” and inserted at end “The authority of the Secretary under this subsection to exclude an amount of guaranty or insurance housing loan entitlement previously used by a veteran may be exercised only once for that veteran under the authority of paragraph (4).”
+Subsec. (b). Pub. L. 103–446, § 902(1), (6), (7), in introductory provisions, substituted “loan under the following circumstances:” for “loan, if—”, and in concluding provisions, substituted “paragraph (1)” for “clause (1) of the preceding sentence” and inserted at end “The authority of the Secretary under this subsection to exclude an amount of guaranty or insurance housing loan entitlement previously used by a veteran may be exercised only once for that veteran under the authority of paragraph (4).”
 
-Subsec. (b)(1). Pub. L. 103–446, § 902(2), substituted “The property” for “the property” in subpar. (A) and a period for the semicolon at end of subpar. (B).
+Subsec. (b)(1). Pub. L. 103–446, § 902(2), substituted “The property” for “the property” in subpar. (A) and a period for the semicolon at end of subpar. (B).
 
-Subsec. (b)(2). Pub. L. 103–446, § 902(3), substituted “A veteran-transferee” for “a veteran-transferee” and a period for “; or” at end.
+Subsec. (b)(2). Pub. L. 103–446, § 902(3), substituted “A veteran-transferee” for “a veteran-transferee” and a period for “; or” at end.
 
-Subsec. (b)(3)(A). Pub. L. 103–446, § 902(4), substituted “The loan” for “the loan”.
+Subsec. (b)(3)(A). Pub. L. 103–446, § 902(4), substituted “The loan” for “the loan”.
 
-Subsec. (b)(4). Pub. L. 103–446, § 902(5), added par. (4).
+Subsec. (b)(4). Pub. L. 103–446, § 902(5), added par. (4).
 
 1992—Subsec. (a)(2)(E). Pub. L. 102–547 added subpar. (E).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1802 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1802 of this title as this section.
 
 Subsec. (a)(2)(D). Pub. L. 102–40 substituted “5303A(b)” for “3103A(b)”.
 
 Pub. L. 102–25 added subpar. (D).
 
-Subsec. (a)(4). Pub. L. 102–83, § 5(c)(1), substituted “3701(b)” for “1801(b)”.
+Subsec. (a)(4). Pub. L. 102–83, § 5(c)(1), substituted “3701(b)” for “1801(b)”.
 
-1989—Subsecs. (a)(1)(ii), (b). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
+1989—Subsecs. (a)(1)(ii), (b). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (b)(3). Pub. L. 101–237, § 310, added par. (3).
+Subsec. (b)(3). Pub. L. 101–237, § 310, added par. (3).
 
-Subsecs. (c) to (e). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (c) to (e). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsec. (a)(1). Pub. L. 100–322, § 415(a)(1)(A)–(E), designated existing provisions as par. (1), substituted “The veterans described in paragraph (2) of this subsection are eligible for the housing loan benefits of this chapter” for “Each veteran who served on active duty at any time during World War II, the Korean conflict, or the Vietnam era and whose total service was for ninety days or more, or who was discharged or released from a period of active duty, any part of which occurred during World War II, the Korean conflict, or the Vietnam era, for a service-connected disability, shall be eligible for the housing loan benefits of this chapter”, substituted “in paragraph (2)” for “in the preceding sentence, or in section 1818 of this title,” and redesignated former cls. (1) and (2) as cls. (A) and (B), respectively, and former cls. (A) and (B) as subcls. (i) and (ii), respectively.
+1988—Subsec. (a)(1). Pub. L. 100–322, § 415(a)(1)(A)–(E), designated existing provisions as par. (1), substituted “The veterans described in paragraph (2) of this subsection are eligible for the housing loan benefits of this chapter” for “Each veteran who served on active duty at any time during World War II, the Korean conflict, or the Vietnam era and whose total service was for ninety days or more, or who was discharged or released from a period of active duty, any part of which occurred during World War II, the Korean conflict, or the Vietnam era, for a service-connected disability, shall be eligible for the housing loan benefits of this chapter”, substituted “in paragraph (2)” for “in the preceding sentence, or in section 1818 of this title,” and redesignated former cls. (1) and (2) as cls. (A) and (B), respectively, and former cls. (A) and (B) as subcls. (i) and (ii), respectively.
 
-Subsec. (a)(2), (3). Pub. L. 100–322, § 415(a)(1)(F), added pars. (2) and (3).
+Subsec. (a)(2), (3). Pub. L. 100–322, § 415(a)(1)(F), added pars. (2) and (3).
 
-Subsec. (a)(4). Pub. L. 100–322, § 415(a)(2), redesignated subsec. (g) as (a)(4) and substituted “1801(b)” for “1801(a)”.
+Subsec. (a)(4). Pub. L. 100–322, § 415(a)(2), redesignated subsec. (g) as (a)(4) and substituted “1801(b)” for “1801(a)”.
 
-Subsec. (g). Pub. L. 100–322, § 415(a)(2)(B), redesignated subsec. (g) as (a)(4).
+Subsec. (g). Pub. L. 100–322, § 415(a)(2)(B), redesignated subsec. (g) as (a)(4).
 
 1984—Subsec. (b)(2). Pub. L. 98–223 substituted “a” for “an immediate”.
 
 1982—Subsec. (f). Pub. L. 97–295 substituted “percent” for “per centum”.
 
-1981—Subsec. (a). Pub. L. 97–72, § 303(b)(1), (2), substituted “the housing loan benefits” for “the benefits” in two places and “insured housing loan” for “insured loan”.
+1981—Subsec. (a). Pub. L. 97–72, § 303(b)(1), (2), substituted “the housing loan benefits” for “the benefits” in two places and “insured housing loan” for “insured loan”.
 
-Subsec. (b). Pub. L. 97–72, § 303(b)(3), substituted “insurance housing loan entitlement” for “insurance entitlement” in two places.
+Subsec. (b). Pub. L. 97–72, § 303(b)(3), substituted “insurance housing loan entitlement” for “insurance entitlement” in two places.
 
-Subsec. (d). Pub. L. 97–72, § 303(b)(4), (5), substituted “Housing loans will be automatically guaranteed” for “Loans will be automatically guaranteed” and “Any housing loan proposed” for “Any loan proposed”.
+Subsec. (d). Pub. L. 97–72, § 303(b)(4), (5), substituted “Housing loans will be automatically guaranteed” for “Loans will be automatically guaranteed” and “Any housing loan proposed” for “Any loan proposed”.
 
-Subsec. (e). Pub. L. 97–72, § 303(b)(6), substituted “require housing loans” for “require loans”.
+Subsec. (e). Pub. L. 97–72, § 303(b)(6), substituted “require housing loans” for “require loans”.
 
-Subsec. (f). Pub. L. 97–72, § 303(b)(7), substituted “Any housing loan at least” for “Any loan at least”.
+Subsec. (f). Pub. L. 97–72, § 303(b)(7), substituted “Any housing loan at least” for “Any loan at least”.
 
-1978—Subsec. (a). Pub. L. 95–476, § 102(a), inserted provisions entitling Vietnam era veterans to the benefits of this chapter and including such veterans in the cancellation of unused entitlement derived from earlier service and the reduction of current entitlement provisions of this subsection.
+1978—Subsec. (a). Pub. L. 95–476, § 102(a), inserted provisions entitling Vietnam era veterans to the benefits of this chapter and including such veterans in the cancellation of unused entitlement derived from earlier service and the reduction of current entitlement provisions of this subsection.
 
-Subsec. (b). Pub. L. 95–476, § 102(b), redesignated cl. (1) as (1)(A), cl. (2) as (B), cl. (3) as (2), and struck out reference to cl. (2) in provision authorizing the Administrator to waive certain conditions prescribed in this subsection.
+Subsec. (b). Pub. L. 95–476, § 102(b), redesignated cl. (1) as (1)(A), cl. (2) as (B), cl. (3) as (2), and struck out reference to cl. (2) in provision authorizing the Administrator to waive certain conditions prescribed in this subsection.
 
-1976—Subsec. (b). Pub. L. 94–324, § 7(3), substituted “the Administrator deems” for “he deems” and “the veteran-transferee’s entitlement” for “his entitlement”.
+1976—Subsec. (b). Pub. L. 94–324, § 7(3), substituted “the Administrator deems” for “he deems” and “the veteran-transferee’s entitlement” for “his entitlement”.
 
-Subsec. (c). Pub. L. 94–324, § 7(4), substituted “The Administrator” for “He”.
+Subsec. (c). Pub. L. 94–324, § 7(4), substituted “The Administrator” for “He”.
 
-Subsec. (d). Pub. L. 94–324, § 7(4), substituted “the Administrator” for “him” and “he”.
+Subsec. (d). Pub. L. 94–324, § 7(4), substituted “the Administrator” for “him” and “he”.
 
-Subsec. (e). Pub. L. 94–324, § 7(5), substituted “the Administrator” for “him” in first sentence.
+Subsec. (e). Pub. L. 94–324, § 7(5), substituted “the Administrator” for “him” in first sentence.
 
-Subsec. (g). Pub. L. 94–324, § 7(5), substituted “the veteran’s spouse” for “his wife”.
+Subsec. (g). Pub. L. 94–324, § 7(5), substituted “the veteran’s spouse” for “his wife”.
 
-1974—Subsec. (b). Pub. L. 93–569, § 2(a), expanded provisions so as to permit restoration of a veteran’s entitlement to a guaranteed, insured, or direct loan provided any prior loan has been paid in full, and the property has been disposed of by the veteran, or any immediate veteran-transferee has agreed to the use of his veteran’s entitlement.
+1974—Subsec. (b). Pub. L. 93–569, § 2(a), expanded provisions so as to permit restoration of a veteran’s entitlement to a guaranteed, insured, or direct loan provided any prior loan has been paid in full, and the property has been disposed of by the veteran, or any immediate veteran-transferee has agreed to the use of his veteran’s entitlement.
 
-Subsec. (d)(3). Pub. L. 93–569, § 2(b), substituted provisions relating to any lender approved by Administrator pursuant to standards established by him, for provisions relating to approval of mortgagees by Secretary of Housing and Urban Development and designated by him as certified agent.
+Subsec. (d)(3). Pub. L. 93–569, § 2(b), substituted provisions relating to any lender approved by Administrator pursuant to standards established by him, for provisions relating to approval of mortgagees by Secretary of Housing and Urban Development and designated by him as certified agent.
 
 1970—Subsec. (b). Pub. L. 91–506 struck out loan eligibility expiration dates for World War II and Korean conflict veterans.
 
@@ -401,7 +401,7 @@ Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–476, title I, § 108, Oct. 18, 1978, 92 Stat. 1502, provided that:
+Pub. L. 95–476, title I, § 108, Oct. 18, 1978, 92 Stat. 1502, provided that:
 
 > **“(a)** Except as provided in subsection (b) of this section, the amendments made by this title [see Tables for classification] shall take effect on October 1, 1978.
 
@@ -413,7 +413,7 @@ Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. 
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–569, § 10, Dec. 31, 1974, 88 Stat. 1867, provided that: “The provisions of this Act [see Tables for classification] shall become effective on the date of enactment [Dec. 31, 1974] except that the amendments made by sections 2(a)(3) [amending section 1802 [now 3702] of this title] and 2(b) [amending section 1802 [now 3702] of this title] and section 3(2) [amending section 1810 [now 3710] of this title] and 3(4) [amending section 1810 [now 3710] of this title] shall become effective ninety days after such date of enactment [Dec. 31, 1974].”
+Pub. L. 93–569, § 10, Dec. 31, 1974, 88 Stat. 1867, provided that: “The provisions of this Act [see Tables for classification] shall become effective on the date of enactment [Dec. 31, 1974] except that the amendments made by sections 2(a)(3) [amending section 1802 [now 3702] of this title] and 2(b) [amending section 1802 [now 3702] of this title] and section 3(2) [amending section 1810 [now 3710] of this title] and 3(4) [amending section 1810 [now 3710] of this title] shall become effective ninety days after such date of enactment [Dec. 31, 1974].”
 
 **Effective Date of 1967 Amendment**
 
@@ -421,17 +421,17 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 **Annual Reports on Veterans Receiving Guaranteed Mortgage Loans as Result of Amendments by Pub. L. 102–547**
 
-Pub. L. 102–547, § 2(c), Oct. 28, 1992, 106 Stat. 3634, directed Secretary of Veterans Affairs to transmit report on selected reserve veterans receiving guaranteed mortgage loans to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1994, and annually thereafter, prior to repeal by Pub. L. 104–110, title II, § 201(b), Feb. 13, 1996, 110 Stat. 770.
+Pub. L. 102–547, § 2(c), Oct. 28, 1992, 106 Stat. 3634, directed Secretary of Veterans Affairs to transmit report on selected reserve veterans receiving guaranteed mortgage loans to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1994, and annually thereafter, prior to repeal by Pub. L. 104–110, title II, § 201(b), Feb. 13, 1996, 110 Stat. 770.
 
 **References in Other Laws**
 
-Pub. L. 100–322, title IV, § 415(c)(7), May 20, 1988, 102 Stat. 551, provided that: “Any reference, in effect on the date of the enactment of this Act [May 20, 1988], in any law, rule, or regulation to any of the sections, or parts thereof, which are redesignated or transferred by this section [sections 1802(a), (g), 1815, 1816(a) to (c), 1816(d) to (f), 1817, 1817A, 1819, and 1832 of this title were redesignated as sections 1802(a)(1), (4), 1803(a)(2), 1832(a) to (c), 1833(a) to (c), 1813, 1814, 1812, and 1833(d) [now 3702(a)(1), (4), 3703(a)(2), 3732(a) to (c), 3733(a) to (c), 3713, 3714, 3712, and 3733(d)], respectively, of this title] shall be construed to refer to the section, or part thereof, as redesignated or transferred by this section.”
+Pub. L. 100–322, title IV, § 415(c)(7), May 20, 1988, 102 Stat. 551, provided that: “Any reference, in effect on the date of the enactment of this Act [May 20, 1988], in any law, rule, or regulation to any of the sections, or parts thereof, which are redesignated or transferred by this section [sections 1802(a), (g), 1815, 1816(a) to (c), 1816(d) to (f), 1817, 1817A, 1819, and 1832 of this title were redesignated as sections 1802(a)(1), (4), 1803(a)(2), 1832(a) to (c), 1833(a) to (c), 1813, 1814, 1812, and 1833(d) [now 3702(a)(1), (4), 3703(a)(2), 3732(a) to (c), 3733(a) to (c), 3713, 3714, 3712, and 3733(d)], respectively, of this title] shall be construed to refer to the section, or part thereof, as redesignated or transferred by this section.”
 
 **Technical Nature of 1986 Amendments**
 
-Pub. L. 100–322, title IV, § 415(f), May 20, 1988, 102 Stat. 552, provided that: “The status of any veteran with respect to benefits under chapter 37 of title 38, United States Code, shall not be affected by the amendments made by, or other provisions of, this section [see Tables for classification].”
+Pub. L. 100–322, title IV, § 415(f), May 20, 1988, 102 Stat. 552, provided that: “The status of any veteran with respect to benefits under chapter 37 of title 38, United States Code, shall not be affected by the amendments made by, or other provisions of, this section [see Tables for classification].”
 
-### § 3703. Basic provisions relating to loan guaranty and insurance
+### § 3703. Basic provisions relating to loan guaranty and insurance
 
 **(a)**
 
@@ -547,25 +547,25 @@ The Secretary may, from time to time, change the election under this subparagrap
 
 **(f)** The application for or obtaining of a loan made, insured, or guaranteed under this chapter shall not be subject to reporting requirements applicable to requests for, or receipts of, Federal contracts, grants, loans, loan guarantees, loan insurance, or cooperative agreements except to the extent that such requirements are provided for in, or by the Secretary pursuant to, this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, § 1803; Pub. L. 86–73, § 2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, § 1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, § 1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, § 5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, § 403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, § 4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, § 2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§ 2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, § 7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, § 103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, § 401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, § 501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, § 303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, § 4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, § 406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, § 205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, § 3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, § 3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, § 415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§ 304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§ 4(b), 6, June 13, 1991, 105 Stat. 268; renumbered § 3703 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, § 10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, § 6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, § 7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, § 101(d), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–368, title VI, § 602(e)(1)(A), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 107–103, title IV, § 401, Dec. 27, 2001, 115 Stat. 993; Pub. L. 107–330, title III, § 308(f)(1), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–454, title IV, § 403, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V, § 504(a), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 111–22, div. A, title I, § 102(a), May 20, 2009, 123 Stat. 1636; Pub. L. 112–154, title VII, § 701(d), Aug. 6, 2012, 126 Stat. 1204; Pub. L. 116–23, § 6(a)(1), June 25, 2019, 133 Stat. 973.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, § 1803; Pub. L. 86–73, § 2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, § 1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, § 1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, § 5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, § 403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, § 4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, § 2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§ 2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, § 7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, § 103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, § 401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, § 501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, § 303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, § 4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, § 406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, § 205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, § 3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, § 3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, § 415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§ 304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§ 4(b), 6, June 13, 1991, 105 Stat. 268; renumbered § 3703 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, § 10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, § 6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, § 7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, § 101(d), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–368, title VI, § 602(e)(1)(A), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 107–103, title IV, § 401, Dec. 27, 2001, 115 Stat. 993; Pub. L. 107–330, title III, § 308(f)(1), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–454, title IV, § 403, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V, § 504(a), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 111–22, div. A, title I, § 102(a), May 20, 2009, 123 Stat. 1636; Pub. L. 112–154, title VII, § 701(d), Aug. 6, 2012, 126 Stat. 1204; Pub. L. 116–23, § 6(a)(1), June 25, 2019, 133 Stat. 973.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Servicemen’s Readjustment Act of 1944, referred to in subsec. (c)(2), is act June 22, 1944, ch. 268, 58 Stat. 284, which was classified generally to chapter 11C (§§ 693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed upon the enactment of Title 38, Veterans’ Benefits, by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. For distribution of sections 693 to 697g of former Title 38 in this title, see Table preceding section 101 of this title.
+The Servicemen’s Readjustment Act of 1944, referred to in subsec. (c)(2), is act June 22, 1944, ch. 268, 58 Stat. 284, which was classified generally to chapter 11C (§§ 693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed upon the enactment of Title 38, Veterans’ Benefits, by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. For distribution of sections 693 to 697g of former Title 38 in this title, see Table preceding section 101 of this title.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(3)(A)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(3)(A)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Amendments**
 
-2019—Subsec. (a)(1)(A)(i)(IV). Pub. L. 116–23, § 6(a)(1)(A)(i), struck out “the lesser of the maximum guaranty amount (as defined in subparagraph (C)) or” before “25 percent”.
+2019—Subsec. (a)(1)(A)(i)(IV). Pub. L. 116–23, § 6(a)(1)(A)(i), struck out “the lesser of the maximum guaranty amount (as defined in subparagraph (C)) or” before “25 percent”.
 
-Subsec. (a)(1)(A)(ii). Pub. L. 116–23, § 6(a)(1)(A)(ii), substituted “subparagraph (B) or (C)” for “subparagraph (B) of this paragraph”.
+Subsec. (a)(1)(A)(ii). Pub. L. 116–23, § 6(a)(1)(A)(ii), substituted “subparagraph (B) or (C)” for “subparagraph (B) of this paragraph”.
 
-Subsec. (a)(1)(B). Pub. L. 116–23, § 6(a)(1)(B), substituted “With respect to loans described in subclauses (I), (II), or (III) of subparagraph (A)(i), the maximum” for “The maximum” and struck out “or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, the maximum guaranty amount (as defined in subparagraph (C)),” after “$36,000,”.
+Subsec. (a)(1)(B). Pub. L. 116–23, § 6(a)(1)(B), substituted “With respect to loans described in subclauses (I), (II), or (III) of subparagraph (A)(i), the maximum” for “The maximum” and struck out “or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, the maximum guaranty amount (as defined in subparagraph (C)),” after “$36,000,”.
 
-Subsec. (a)(1)(C). Pub. L. 116–23, § 6(a)(1)(C), added subpar. (C) and struck out former subpar. (C) which read as follows: “In this paragraph, the term ‘maximum guaranty amount’ means the dollar amount that is equal to 25 percent of the Freddie Mac conforming loan limit limitation determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2)) for a single-family residence, as adjusted for the year involved.”
+Subsec. (a)(1)(C). Pub. L. 116–23, § 6(a)(1)(C), added subpar. (C) and struck out former subpar. (C) which read as follows: “In this paragraph, the term ‘maximum guaranty amount’ means the dollar amount that is equal to 25 percent of the Freddie Mac conforming loan limit limitation determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2)) for a single-family residence, as adjusted for the year involved.”
 
 2012—Subsec. (d)(3). Pub. L. 112–154 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan for the purchase or construction of a home is so secured, the Secretary may disregard a superior lien created by a duly recorded covenant running with the realty in favor of a private entity to secure an obligation to such entity for the homeowner’s share of the costs of the management, operation, or maintenance of property, services or programs within and for the benefit of the development or community in which the veteran’s realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant. In respect to any such superior lien to be created after June 6, 1969, the Secretary’s determination must have been made prior to the recordation of the covenant.”
 
@@ -573,9 +573,9 @@ Subsec. (a)(1)(C). Pub. L. 116–23, § 6(a)(1)(C), added subpar. (C) and stru
 
 2008—Subsec. (a)(1)(A)(i)(IV). Pub. L. 110–389 inserted “(5),” after “(3),”.
 
-2004—Subsec. (a)(1)(A)(i)(IV), (B). Pub. L. 108–454, § 403(a), substituted “the maximum guaranty amount (as defined in subparagraph (C))” for “$60,000”.
+2004—Subsec. (a)(1)(A)(i)(IV), (B). Pub. L. 108–454, § 403(a), substituted “the maximum guaranty amount (as defined in subparagraph (C))” for “$60,000”.
 
-Subsec. (a)(1)(C). Pub. L. 108–454, § 403(b), added subpar. (C).
+Subsec. (a)(1)(C). Pub. L. 108–454, § 403(b), added subpar. (C).
 
 2002—Subsec. (e)(2)(A). Pub. L. 107–330 substituted “3729(b)(2)(I)” for “3729(b)”.
 
@@ -589,51 +589,51 @@ Subsec. (a)(1)(C). Pub. L. 108–454, § 403(b), added subpar. (C).
 
 1993—Subsec. (c)(4)(B). Pub. L. 103–78 in second sentence substituted “Except in the case of a loan for the purpose specified in section 3710(a)(8), 3710(b)(7), or 3712(a)(1)(F) of this title, discount” for “Discount”.
 
-1992—Subsec. (c)(1). Pub. L. 102–547, § 10(a)(1), in first sentence substituted “applicable to” for “the Secretary of Housing and Urban Development considers necessary to meet the mortgage market for” and struck out “, and, to the maximum extent practicable, carry out a coordinated policy on interest rates on loans insured under such section 203(b) and on loans guaranteed or insured under this chapter” after “(12 U.S.C. 1709(b))”.
+1992—Subsec. (c)(1). Pub. L. 102–547, § 10(a)(1), in first sentence substituted “applicable to” for “the Secretary of Housing and Urban Development considers necessary to meet the mortgage market for” and struck out “, and, to the maximum extent practicable, carry out a coordinated policy on interest rates on loans insured under such section 203(b) and on loans guaranteed or insured under this chapter” after “(12 U.S.C. 1709(b))”.
 
-Subsec. (c)(4). Pub. L. 102–547, § 10(a)(2), added par. (4).
+Subsec. (c)(4). Pub. L. 102–547, § 10(a)(2), added par. (4).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1803 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1803 of this title as this section.
 
-Subsec. (a)(1)(A). Pub. L. 102–83, § 5(c)(1), substituted “3710” for “1810” in introductory provisions.
+Subsec. (a)(1)(A). Pub. L. 102–83, § 5(c)(1), substituted “3710” for “1810” in introductory provisions.
 
-Subsec. (a)(1)(A)(i)(III). Pub. L. 102–54, § 6(1), inserted “except as provided in subclause (IV) of this clause,” after “(III)” and struck out “but not more than $144,000,” after “$56,250,”.
+Subsec. (a)(1)(A)(i)(III). Pub. L. 102–54, § 6(1), inserted “except as provided in subclause (IV) of this clause,” after “(III)” and struck out “but not more than $144,000,” after “$56,250,”.
 
-Subsec. (a)(1)(A)(i)(IV). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)” for “1810(a)”.
+Subsec. (a)(1)(A)(i)(IV). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)” for “1810(a)”.
 
-Pub. L. 102–54, § 6(2), substituted “(6), or (8)” for “or (6)”.
+Pub. L. 102–54, § 6(2), substituted “(6), or (8)” for “or (6)”.
 
-Subsec. (a)(1)(B). Pub. L. 102–83, § 5(c)(1), substituted “3710” for “1810” and “3702(b)” for “1802(b)”.
+Subsec. (a)(1)(B). Pub. L. 102–83, § 5(c)(1), substituted “3710” for “1810” and “3702(b)” for “1802(b)”.
 
-Subsec. (c)(1). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)” for “1810(a)”.
+Subsec. (c)(1). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)” for “1810(a)”.
 
-Subsec. (c)(3). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)” for “1810(a)” and “3712(a)(1)(F)” for “1812(a)(1)(F)” in subpar. (A), “3710(a)” for “1810(a)” in subpar. (B), and “3710(a)(9)(B)(ii) or 3712(a)(1)(G)” for “1810(a)(9)(B)(ii) or 1812(a)(1)(G)” in subpar. (E).
+Subsec. (c)(3). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)” for “1810(a)” and “3712(a)(1)(F)” for “1812(a)(1)(F)” in subpar. (A), “3710(a)” for “1810(a)” in subpar. (B), and “3710(a)(9)(B)(ii) or 3712(a)(1)(G)” for “1810(a)(9)(B)(ii) or 1812(a)(1)(G)” in subpar. (E).
 
-Subsec. (e)(1). Pub. L. 102–83, § 5(c)(1), substituted “3729” for “1829” and “3729(c)(1)” for “1829(c)(1)”.
+Subsec. (e)(1). Pub. L. 102–83, § 5(c)(1), substituted “3729” for “1829” and “3729(c)(1)” for “1829(c)(1)”.
 
-Subsec. (e)(2). Pub. L. 102–83, § 5(c)(1), substituted “3729(b)” for “1829(b)” in subpar. (A) and “3712” for “1812” in subpar. (B).
+Subsec. (e)(2). Pub. L. 102–83, § 5(c)(1), substituted “3729(b)” for “1829(b)” in subpar. (A) and “3712” for “1812” in subpar. (B).
 
-Subsec. (f). Pub. L. 102–54, § 4(b), added subsec. (f).
+Subsec. (f). Pub. L. 102–54, § 4(b), added subsec. (f).
 
-1989—Subsec. (a)(1)(A)(i). Pub. L. 101–237, § 306(a)(1), added subcls. (II) to (IV) and struck out former subcl. (II) which read as follows: “in the case of any loan of more than $45,000, the lesser of $36,000 or 40 percent of the loan, except that the amount of such guaranty for any such loan shall not be less than $22,500; or”.
+1989—Subsec. (a)(1)(A)(i). Pub. L. 101–237, § 306(a)(1), added subcls. (II) to (IV) and struck out former subcl. (II) which read as follows: “in the case of any loan of more than $45,000, the lesser of $36,000 or 40 percent of the loan, except that the amount of such guaranty for any such loan shall not be less than $22,500; or”.
 
-Subsec. (a)(1)(B). Pub. L. 101–237, § 306(a)(2), inserted “, or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, $46,000,” after “$36,000”.
+Subsec. (a)(1)(B). Pub. L. 101–237, § 306(a)(2), inserted “, or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, $46,000,” after “$36,000”.
 
-Subsec. (a)(2). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (a)(2). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (c)(1). Pub. L. 101–237, § 313(b)(6), substituted “Secretary of Housing and Urban Development considers” for “Secretary considers”.
+Subsec. (c)(1). Pub. L. 101–237, § 313(b)(6), substituted “Secretary of Housing and Urban Development considers” for “Secretary considers”.
 
-Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (c)(2)(B), (3)(D). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator”.
+Subsec. (c)(2)(B), (3)(D). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator”.
 
-Subsec. (d)(2)(B), (C), (3). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
+Subsec. (d)(2)(B), (C), (3). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
 
-Subsec. (e). Pub. L. 101–237, § 304(a), added subsec. (e).
+Subsec. (e). Pub. L. 101–237, § 304(a), added subsec. (e).
 
-1988—Pub. L. 100–322, § 415(a)(3)(B), inserted “and insurance” in section catchline.
+1988—Pub. L. 100–322, § 415(a)(3)(B), inserted “and insurance” in section catchline.
 
-Subsec. (a)(1). Pub. L. 100–322, § 415(d)(1), inserted “as specified in subparagraph (B) of this paragraph” before period at end of cl. (A)(ii) and substituted “for purposes specified in section 1810 of this title” for “under section 1810 of this chapter” in cl. (B).
+Subsec. (a)(1). Pub. L. 100–322, § 415(d)(1), inserted “as specified in subparagraph (B) of this paragraph” before period at end of cl. (A)(ii) and substituted “for purposes specified in section 1810 of this title” for “under section 1810 of this chapter” in cl. (B).
 
 Pub. L. 100–253 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any loan to a veteran eligible for benefits under this chapter, if made for any of the purposes specified in section 1810 of this title and in compliance with the provisions of this chapter, is automatically guaranteed by the United States in an amount not to exceed—
 
@@ -643,69 +643,69 @@ Pub. L. 100–253 amended par. (1) generally. Prior to amendment, par. (1) read 
 
 reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 1802(b) of this title.”
 
-Subsec. (a)(2). Pub. L. 100–322, § 415(a)(3)(A)(ii), (iii), (B)(ii), redesignated subsecs. (a) and (b) of section 1815 of this title as subpars. (A) and (B), respectively, of par. (2) of subsec. (a) of this section and struck out former par. (2) which read as follows: “Any unused entitlement of World War II or Korean conflict veterans which expired under provisions of law in effect before October 23, 1970, is hereby restored and shall not expire until used.”
+Subsec. (a)(2). Pub. L. 100–322, § 415(a)(3)(A)(ii), (iii), (B)(ii), redesignated subsecs. (a) and (b) of section 1815 of this title as subpars. (A) and (B), respectively, of par. (2) of subsec. (a) of this section and struck out former par. (2) which read as follows: “Any unused entitlement of World War II or Korean conflict veterans which expired under provisions of law in effect before October 23, 1970, is hereby restored and shall not expire until used.”
 
-Subsec. (c)(3)(A). Pub. L. 100–322, § 415(c)(2)(A), substituted “1812(a)(1)(F)” for “1819(a)(1)(F)”.
+Subsec. (c)(3)(A). Pub. L. 100–322, § 415(c)(2)(A), substituted “1812(a)(1)(F)” for “1819(a)(1)(F)”.
 
-Subsec. (c)(3)(E). Pub. L. 100–322, § 415(c)(2)(B), substituted “1812(a)(1)(G)” for “1819(a)(1)(G)”.
+Subsec. (c)(3)(E). Pub. L. 100–322, § 415(c)(2)(B), substituted “1812(a)(1)(G)” for “1819(a)(1)(G)”.
 
 1987—Subsec. (a)(1). Pub. L. 100–198 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any loan to a veteran eligible for benefits under this chapter, if made for any of the purposes, and in compliance with the provisions, specified in this chapter is automatically guaranteed by the United States in an amount not more than 60 percent of the loan if the loan is made for any of the purposes specified in section 1810 of this title.”
 
-1984—Subsec. (c)(3)(A). Pub. L. 98–223, § 205(c)(1), substituted “, (8), or (9)(B)(i)” for “or (8)”.
+1984—Subsec. (c)(3)(A). Pub. L. 98–223, § 205(c)(1), substituted “, (8), or (9)(B)(i)” for “or (8)”.
 
-Subsec. (c)(3)(E). Pub. L. 98–223, § 205(c)(2), inserted “1810(a)(9)(B)(ii) or” after “section”.
+Subsec. (c)(3)(E). Pub. L. 98–223, § 205(c)(2), inserted “1810(a)(9)(B)(ii) or” after “section”.
 
-1982—Subsec. (a)(1). Pub. L. 97–295, § 4(61), substituted “percent” for “per centum”.
+1982—Subsec. (a)(1). Pub. L. 97–295, § 4(61), substituted “percent” for “per centum”.
 
-Subsec. (a)(2). Pub. L. 97–295, § 4(63)(A), substituted “before October 23, 1970,” for “prior to the date of enactment of the Veterans’ Housing Act of 1970”.
+Subsec. (a)(2). Pub. L. 97–295, § 4(63)(A), substituted “before October 23, 1970,” for “prior to the date of enactment of the Veterans’ Housing Act of 1970”.
 
-Subsec. (c)(1). Pub. L. 97–295, § 4(63)(B), inserted “(12 U.S.C. 1709(b))” after “the National Housing Act”.
+Subsec. (c)(1). Pub. L. 97–295, § 4(63)(B), inserted “(12 U.S.C. 1709(b))” after “the National Housing Act”.
 
-Subsec. (c)(3). Pub. L. 97–306, § 406(b)(1), substituted “used—” for “used:”. Notwithstanding that Pub. L. 97–306 directed amendment be made in provisions preceding cl. (1), amendment was executed in provisions preceding cl. (A) as the probable intent of Congress in view of the absence of a cl. (1) in subsec. (c)(3).
+Subsec. (c)(3). Pub. L. 97–306, § 406(b)(1), substituted “used—” for “used:”. Notwithstanding that Pub. L. 97–306 directed amendment be made in provisions preceding cl. (1), amendment was executed in provisions preceding cl. (A) as the probable intent of Congress in view of the absence of a cl. (1) in subsec. (c)(3).
 
-Subsec. (c)(3)(E). Pub. L. 97–306, § 406(b)(2)–(4), added cl. (E).
+Subsec. (c)(3)(E). Pub. L. 97–306, § 406(b)(2)–(4), added cl. (E).
 
-Subsec. (d)(3). Pub. L. 97–295, § 4(63)(C), substituted “June 6, 1969” for “the effective date of this amendment”.
+Subsec. (d)(3). Pub. L. 97–295, § 4(63)(C), substituted “June 6, 1969” for “the effective date of this amendment”.
 
-1981—Subsec. (a)(2)(A) [formerly § 1815(a)]. Pub. L. 97–72, § 303(e), substituted “Any housing loan” for “Any loan”. See 1988 Amendment note above.
+1981—Subsec. (a)(2)(A) [formerly § 1815(a)]. Pub. L. 97–72, § 303(e), substituted “Any housing loan” for “Any loan”. See 1988 Amendment note above.
 
-Subsec. (d)(1). Pub. L. 97–72, § 303(c)(1), substituted “any housing loan” for “any loan”.
+Subsec. (d)(1). Pub. L. 97–72, § 303(c)(1), substituted “any housing loan” for “any loan”.
 
 Subsec. (d)(2). Pub. L. 97–66 designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-Subsec. (d)(3). Pub. L. 97–72, § 303(c)(2), substituted “Any real estate housing loan” for “Any real estate loan”.
+Subsec. (d)(3). Pub. L. 97–72, § 303(c)(2), substituted “Any real estate housing loan” for “Any real estate loan”.
 
 1980—Subsec. (c)(3)(A). Pub. L. 96–385 substituted “clause (5) or (8) of section 1810(a) of this title or section 1819(a)(1)(F) of this title” for “section 1810(a)(5)”.
 
-1978—Subsec. (a)(1). Pub. L. 95–476, § 103(a), substituted provision extending loan guarantees under this section to veterans eligible for benefits under this chapter for provision limiting such guarantees to World War II or Korean conflict veterans.
+1978—Subsec. (a)(1). Pub. L. 95–476, § 103(a), substituted provision extending loan guarantees under this section to veterans eligible for benefits under this chapter for provision limiting such guarantees to World War II or Korean conflict veterans.
 
-Subsec. (c)(1). Pub. L. 95–476, § 103(b)(1), inserted provision authorizing the Administrator in establishing rates of interest under this paragraph for purposes of cls. (4) to (7) of section 1810(a) of this title to establish rates higher than the rate specified for other purposes under such section but not in excess of the rate the Administrator may find the loan market demands for loans for such purposes.
+Subsec. (c)(1). Pub. L. 95–476, § 103(b)(1), inserted provision authorizing the Administrator in establishing rates of interest under this paragraph for purposes of cls. (4) to (7) of section 1810(a) of this title to establish rates higher than the rate specified for other purposes under such section but not in excess of the rate the Administrator may find the loan market demands for loans for such purposes.
 
-Subsec. (c)(3)(B). Pub. L. 95–476, § 103(b)(2), substituted “clauses (4) and (7) of section 1810(a) of this title” for “section 1810(a)(4)”.
+Subsec. (c)(3)(B). Pub. L. 95–476, § 103(b)(2), substituted “clauses (4) and (7) of section 1810(a) of this title” for “section 1810(a)(4)”.
 
-1976—Subsec. (a)(2)(A) [formerly § 1815(a)]. Pub. L. 94–324, § 7(16), substituted “the Administrator will” for “he will”. See 1988 Amendment note above.
+1976—Subsec. (a)(2)(A) [formerly § 1815(a)]. Pub. L. 94–324, § 7(16), substituted “the Administrator will” for “he will”. See 1988 Amendment note above.
 
-Subsec. (d)(3). Pub. L. 94–324, § 7(6), substituted “the Administrator determines” for “he determines”.
+Subsec. (d)(3). Pub. L. 94–324, § 7(6), substituted “the Administrator determines” for “he determines”.
 
-1974—Subsec. (a)(1). Pub. L. 93–569, § 8(1), struck out “and not more than 50 per centum of the loan if the loan is for any of the purposes specified in section 1812, 1813, or 1814 of this title” after “section 1810 of this title”.
+1974—Subsec. (a)(1). Pub. L. 93–569, § 8(1), struck out “and not more than 50 per centum of the loan if the loan is for any of the purposes specified in section 1812, 1813, or 1814 of this title” after “section 1810 of this title”.
 
-Subsec. (a)(2)(B) [formerly § 1815(b)]. Pub. L. 93–569, § 8(5), struck out provision authorizing the Administrator to fix maximum interest rate payable on non-real-estate loans at not in excess of 3 percent discount rate or an equivalent straight interest rate on unamortized loans.
+Subsec. (a)(2)(B) [formerly § 1815(b)]. Pub. L. 93–569, § 8(5), struck out provision authorizing the Administrator to fix maximum interest rate payable on non-real-estate loans at not in excess of 3 percent discount rate or an equivalent straight interest rate on unamortized loans.
 
-Pub. L. 93–569, § 8(2), struck out provision that, except as provided in sections 1810, 1811, and 1819, the aggregate amount guaranteed should not be more than $2,000 in the case of non-real-estate loans, nor $4,000 in the case of real-estate loans or a prorated portion thereof in a combination loan.
+Pub. L. 93–569, § 8(2), struck out provision that, except as provided in sections 1810, 1811, and 1819, the aggregate amount guaranteed should not be more than $2,000 in the case of non-real-estate loans, nor $4,000 in the case of real-estate loans or a prorated portion thereof in a combination loan.
 
-Subsec. (c)(3). Pub. L. 93–569, § 2(c), added par. (3).
+Subsec. (c)(3). Pub. L. 93–569, § 2(c), added par. (3).
 
-Subsec. (d)(1). Pub. L. 93–569, § 8(3), substituted provision that the maturity of any loan shall not be more than thirty years and thirty-two days for provisions that non-real-estate loans shall not be more than ten years except as provided in section 1819, that the maturity of a real estate loan be not more than thirty years, and a loan on farm realty be not more than forty years.
+Subsec. (d)(1). Pub. L. 93–569, § 8(3), substituted provision that the maturity of any loan shall not be more than thirty years and thirty-two days for provisions that non-real-estate loans shall not be more than ten years except as provided in section 1819, that the maturity of a real estate loan be not more than thirty years, and a loan on farm realty be not more than forty years.
 
-Subsec. (d)(3). Pub. L. 93–569, § 8(4), struck out provision that any non-real-estate loan should be secured by personalty to the extent legal and practicable.
+Subsec. (d)(3). Pub. L. 93–569, § 8(4), struck out provision that any non-real-estate loan should be secured by personalty to the extent legal and practicable.
 
 1973—Subsec. (c)(1). Pub. L. 93–75 substituted provisions requiring the Administrator to consult with the Secretary of Housing and Urban Development regarding the establishment of the rate of interest the Secretary considers necessary to meet the mortgage market for home loans insured under section 203(b) of the National Housing Act, and to carry out a coordinated policy on interest rates on loans insured under such section 203(b) and on loans guaranteed or insured under this chapter, for former provision limiting rate of interest to rate in effect under section 203(b)(5) of the National Housing Act.
 
-1970—Subsec. (a). Pub. L. 91–506, § 2(b), struck out loan eligibility expiration dates for World War II and Korean conflict veterans and inserted provision restoring expired entitlements of World War II and Korean conflict veterans and providing that such entitlements shall not expire until used.
+1970—Subsec. (a). Pub. L. 91–506, § 2(b), struck out loan eligibility expiration dates for World War II and Korean conflict veterans and inserted provision restoring expired entitlements of World War II and Korean conflict veterans and providing that such entitlements shall not expire until used.
 
-Subsec. (b). Pub. L. 91–506, § 2(c)(1), substituted “1810, 1811, and 1819” for “1810 and 1811”.
+Subsec. (b). Pub. L. 91–506, § 2(c)(1), substituted “1810, 1811, and 1819” for “1810 and 1811”.
 
-Subsec. (d)(1). Pub. L. 91–506, § 2(c)(2), limited maturity of non-real-estate loan to not more than ten years except as provided in section 1819 of this title.
+Subsec. (d)(1). Pub. L. 91–506, § 2(c)(2), limited maturity of non-real-estate loan to not more than ten years except as provided in section 1819 of this title.
 
 1969—Subsec. (d)(3). Pub. L. 91–22 authorized the Administrator, in determining whether a Government loan is secured by a first lien on realty, to disregard a superior lien created by a duly recorded covenant which secures a veteran homeowner’s share of the costs of managing, operating or maintaining property, services or programs common to the community in which the veteran’s home is located, provided the interests of the Government and the veteran borrower are not prejudiced.
 
@@ -723,7 +723,7 @@ Subsec. (d)(1). Pub. L. 91–506, § 2(c)(2), limited maturity of non-real-est
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–23, § 6(d), June 25, 2019, 133 Stat. 976, provided that: “The amendments made by this section [amending this section and sections 3710, 3729, and 3762 of this title] shall apply with respect to a loan guaranteed under section 3710 of title 38, United States Code, on or after January 1, 2020.”
+Pub. L. 116–23, § 6(d), June 25, 2019, 133 Stat. 976, provided that: “The amendments made by this section [amending this section and sections 3710, 3729, and 3762 of this title] shall apply with respect to a loan guaranteed under section 3710 of title 38, United States Code, on or after January 1, 2020.”
 
 **Effective Date of 2012 Amendment**
 
@@ -731,7 +731,7 @@ Amendment by Pub. L. 112–154 effective on the date that is one year after Aug.
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–330, title III, § 308(f)(2), Dec. 6, 2002, 116 Stat. 2828, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the enactment of section 402 of the Veterans Benefits and Health Care Improvement Act of 2000 (Public Law 106–419; 114 Stat. 1861).”
+Pub. L. 107–330, title III, § 308(f)(2), Dec. 6, 2002, 116 Stat. 2828, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the enactment of section 402 of the Veterans Benefits and Health Care Improvement Act of 2000 (Public Law 106–419; 114 Stat. 1861).”
 
 **Effective Date of 1998 Amendment**
 
@@ -743,15 +743,15 @@ Amendment by Pub. L. 103–353 effective with respect to reemployments initiated
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–237, title III, § 306(b), Dec. 18, 1989, 103 Stat. 2074, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 18, 1989] and shall apply only with respect to loans closed after such date.”
+Pub. L. 101–237, title III, § 306(b), Dec. 18, 1989, 103 Stat. 2074, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 18, 1989] and shall apply only with respect to loans closed after such date.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–253, § 3(c), Feb. 29, 1988, 102 Stat. 21, provided that: “The amendments made by this section [amending this section and section 1819 [now 3712] of this title] shall apply to loans which are closed on or after February 1, 1988, except that they shall not apply to any loan for which a guaranty commitment is made on or before December 31, 1987.”
+Pub. L. 100–253, § 3(c), Feb. 29, 1988, 102 Stat. 21, provided that: “The amendments made by this section [amending this section and section 1819 [now 3712] of this title] shall apply to loans which are closed on or after February 1, 1988, except that they shall not apply to any loan for which a guaranty commitment is made on or before December 31, 1987.”
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–198, § 3(d), Dec. 21, 1987, 101 Stat. 1316, provided that: “The amendments made by this section [amending this section and sections 1810, 1811, and 1819 [now 3710, 3711, and 3712] of this title] shall apply to loans which are closed on or after February 1, 1988, except that they shall not apply to any loan for which a guaranty commitment is made on or before December 31, 1987.”
+Pub. L. 100–198, § 3(d), Dec. 21, 1987, 101 Stat. 1316, provided that: “The amendments made by this section [amending this section and sections 1810, 1811, and 1819 [now 3710, 3711, and 3712] of this title] shall apply to loans which are closed on or after February 1, 1988, except that they shall not apply to any loan for which a guaranty commitment is made on or before December 31, 1987.”
 
 **Effective Date of 1981 Amendments**
 
@@ -781,15 +781,15 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 **Guidance To Implement Amendment by Pub. L. 116–23**
 
-Pub. L. 116–23, § 6(e), June 25, 2019, 133 Stat. 976, provided that: “Notwithstanding section 501 of title 38, United States Code, the Secretary of Veterans Affairs may issue guidance to implement this section [amending this section and sections 3710, 3729, and 3762 of this title and enacting provisions set out as a note under this section] before prescribing new regulations under sections 3703, 3729, and 3762 of such title, as amended by this section.”
+Pub. L. 116–23, § 6(e), June 25, 2019, 133 Stat. 976, provided that: “Notwithstanding section 501 of title 38, United States Code, the Secretary of Veterans Affairs may issue guidance to implement this section [amending this section and sections 3710, 3729, and 3762 of this title and enacting provisions set out as a note under this section] before prescribing new regulations under sections 3703, 3729, and 3762 of such title, as amended by this section.”
 
 **Implementation of Amendment by Pub. L. 111–22**
 
-Pub. L. 111–22, div. A, title I, § 102(b), May 20, 2009, 123 Stat. 1636, provided that: “The Secretary of Veterans Affairs may implement the amendments made by this section [amending this section] through notice, procedure notice, or administrative notice.”
+Pub. L. 111–22, div. A, title I, § 102(b), May 20, 2009, 123 Stat. 1636, provided that: “The Secretary of Veterans Affairs may implement the amendments made by this section [amending this section] through notice, procedure notice, or administrative notice.”
 
 **Temporary Increase in Maximum Loan Guaranty Amount for Certain Housing Loans Guaranteed by Secretary of Veterans Affairs**
 
-Pub. L. 110–389, title V, § 501, Oct. 10, 2008, 122 Stat. 4175, as amended by Pub. L. 112–154, title VII, § 702(c), Aug. 6, 2012, 126 Stat. 1205, provided that:
+Pub. L. 110–389, title V, § 501, Oct. 10, 2008, 122 Stat. 4175, as amended by Pub. L. 112–154, title VII, § 702(c), Aug. 6, 2012, 126 Stat. 1205, provided that:
 
 > “Notwithstanding subparagraph (C) of section 3703(a)(1) of title 38, United States Code, for purposes of any loan described in subparagraph (A)(i)(IV) of such section that is originated during the period beginning on the date of the enactment of this Act [Oct. 10, 2008] and ending on December 31, 2014, the term ‘maximum guaranty amount’ shall mean an amount equal to 25 percent of the higher of—
 
@@ -803,13 +803,13 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 **Annual Reports on Guarantee and Insurance of Loans Bearing Negotiated Interest Rates and Points**
 
-Pub. L. 102–547, § 10(b), Oct. 28, 1992, 106 Stat. 3643, as amended by Pub. L. 103–446, title XII, § 1202(d), Nov. 2, 1994, 108 Stat. 4689, directed Secretary of Veterans Affairs to transmit report on guarantee and insurance of loans bearing negotiated interest rates and points to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1993, and annually thereafter, prior to repeal by Pub. L. 104–110, title II, § 201(b), Feb. 13, 1996, 110 Stat. 770.
+Pub. L. 102–547, § 10(b), Oct. 28, 1992, 106 Stat. 3643, as amended by Pub. L. 103–446, title XII, § 1202(d), Nov. 2, 1994, 108 Stat. 4689, directed Secretary of Veterans Affairs to transmit report on guarantee and insurance of loans bearing negotiated interest rates and points to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1993, and annually thereafter, prior to repeal by Pub. L. 104–110, title II, § 201(b), Feb. 13, 1996, 110 Stat. 770.
 
 **Expiration of Loan Benefit Entitlement of Certain World War II Veterans**
 
-Pub. L. 90–77, title IV, § 403(c), Aug. 31, 1967, 81 Stat. 190, provided that the World War II loan benefit entitlement of any veteran whose period of entitlement as computed under former subsec. (a)(3)(A) of this section extended beyond July 25, 1967, was not to be deemed to expire earlier than ninety days after the effective date of section 403 of Pub. L. 90–77 [see section 405(a) of Pub. L. 90–77, set out as an Effective Date of 1967 Amendment note under section 101 of this title].
+Pub. L. 90–77, title IV, § 403(c), Aug. 31, 1967, 81 Stat. 190, provided that the World War II loan benefit entitlement of any veteran whose period of entitlement as computed under former subsec. (a)(3)(A) of this section extended beyond July 25, 1967, was not to be deemed to expire earlier than ninety days after the effective date of section 403 of Pub. L. 90–77 [see section 405(a) of Pub. L. 90–77, set out as an Effective Date of 1967 Amendment note under section 101 of this title].
 
-### § 3704. Restrictions on loans
+### § 3704. Restrictions on loans
 
 **(a)** No loan for the purchase or construction of residential property shall be financed through the assistance of this chapter unless the property meets or exceeds minimum requirements for planning, construction, and general acceptability prescribed by the Secretary; however, this subsection shall not apply to a loan for the purchase of residential property on which construction is fully completed more than one year before such loan is made.
 
@@ -831,13 +831,13 @@ Pub. L. 90–77, title IV, § 403(c), Aug. 31, 1967, 81 Stat. 190, provided th
 
 **(f)** A loan for the purchase or construction of new residential property, the construction of which began after the energy efficiency standards under section 109 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12709), as amended by section 101(c) of the Energy Policy Act of 1992, take effect, may not be financed through the assistance of this chapter unless the new residential property is constructed in compliance with the standards established under such section 109, as in effect on the date of such construction.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1206, § 1804; Pub. L. 86–73, § 3, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, § 5, July 14, 1960, 74 Stat. 532; Pub. L. 89–117, title II, § 217(b), Aug. 10, 1965, 79 Stat. 473; Pub. L. 90–19, § 25(2), May 25, 1967, 81 Stat. 28; Pub. L. 91–506, § 2(d), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, § 2(d), (e), Dec. 31, 1974, 88 Stat. 1863, 1864; Pub. L. 94–324, § 7(7), (8), June 30, 1976, 90 Stat. 721; Pub. L. 97–295, § 4(64), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 100–198, §§ 8(a)(1), 10(b), Dec. 21, 1987, 101 Stat. 1319, 1323; Pub. L. 100–322, title IV, § 415(c)(3), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3704 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–486, title I, § 101(c)(2), Oct. 24, 1992, 106 Stat. 2787; Pub. L. 103–446, title IX, § 903, Nov. 2, 1994, 108 Stat. 4676; Pub. L. 112–154, title II, § 207, Aug. 6, 2012, 126 Stat. 1179; Pub. L. 117–328, div. U, title II, § 203(b), Dec. 29, 2022, 136 Stat. 5451.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1206, § 1804; Pub. L. 86–73, § 3, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, § 5, July 14, 1960, 74 Stat. 532; Pub. L. 89–117, title II, § 217(b), Aug. 10, 1965, 79 Stat. 473; Pub. L. 90–19, § 25(2), May 25, 1967, 81 Stat. 28; Pub. L. 91–506, § 2(d), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, § 2(d), (e), Dec. 31, 1974, 88 Stat. 1863, 1864; Pub. L. 94–324, § 7(7), (8), June 30, 1976, 90 Stat. 721; Pub. L. 97–295, § 4(64), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 100–198, §§ 8(a)(1), 10(b), Dec. 21, 1987, 101 Stat. 1319, 1323; Pub. L. 100–322, title IV, § 415(c)(3), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3704 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–486, title I, § 101(c)(2), Oct. 24, 1992, 106 Stat. 2787; Pub. L. 103–446, title IX, § 903, Nov. 2, 1994, 108 Stat. 4676; Pub. L. 112–154, title II, § 207, Aug. 6, 2012, 126 Stat. 1179; Pub. L. 117–328, div. U, title II, § 203(b), Dec. 29, 2022, 136 Stat. 5451.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Housing Act, referred to in subsecs. (b) and (d), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsecs. (b) and (d), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 **Amendments**
 
@@ -859,35 +859,35 @@ shall be considered to be satisfied if the spouse of the veteran occupies the pr
 
 1992—Subsec. (g). Pub. L. 102–486 added subsec. (g).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1804 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1804 of this title as this section.
 
-Subsec. (c)(2). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)” for “1810(a)” in subpar. (B), “3712(a)(5)(A)(i)” for “1812(a)(5)(A)(i)” in subpar. (C), and “3712(e)(5)” for “1812(e)(5)” in subpar. (D).
+Subsec. (c)(2). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)” for “1810(a)” in subpar. (B), “3712(a)(5)(A)(i)” for “1812(a)(5)(A)(i)” in subpar. (C), and “3712(e)(5)” for “1812(e)(5)” in subpar. (D).
 
-Subsec. (f). Pub. L. 102–83, § 5(c)(1), substituted “3714” for “1814” in two places.
+Subsec. (f). Pub. L. 102–83, § 5(c)(1), substituted “3714” for “1814” in two places.
 
 1989—Subsecs. (a) to (c)(1), (d). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsec. (c)(2)(C). Pub. L. 100–322, § 415(c)(3)(A), substituted “1812(a)(5)(A)(i)” for “1819(a)(5)(A)(i)”.
+1988—Subsec. (c)(2)(C). Pub. L. 100–322, § 415(c)(3)(A), substituted “1812(a)(5)(A)(i)” for “1819(a)(5)(A)(i)”.
 
-Subsec. (c)(2)(D). Pub. L. 100–322, § 415(c)(3)(b), substituted “1812(e)(5)” for “1819(e)(5)”.
+Subsec. (c)(2)(D). Pub. L. 100–322, § 415(c)(3)(b), substituted “1812(e)(5)” for “1819(e)(5)”.
 
-Subsec. (f). Pub. L. 100–322, § 415(c)(3)(C), substituted “section 1814” for “section 1817A” in two places.
+Subsec. (f). Pub. L. 100–322, § 415(c)(3)(C), substituted “section 1814” for “section 1817A” in two places.
 
-1987—Subsec. (c). Pub. L. 100–198, § 8(a), designated existing provision as par. (1), substituted “Except as provided in paragraph (2) of this subsection, no” for “No” in first and second sentences, and added par. (2).
+1987—Subsec. (c). Pub. L. 100–198, § 8(a), designated existing provision as par. (1), substituted “Except as provided in paragraph (2) of this subsection, no” for “No” in first and second sentences, and added par. (2).
 
-Subsec. (f). Pub. L. 100–198, § 10(b), added subsec. (f).
+Subsec. (f). Pub. L. 100–198, § 10(b), added subsec. (f).
 
 1982—Subsec. (e). Pub. L. 97–295 inserted “(12 U.S.C. 1749aa et seq.)” after “the National Housing Act”, and substituted “August 10, 1965” for “the date of the enactment of the Housing and Urban Development Act of 1965”.
 
-1976—Subsec. (c). Pub. L. 94–324, § 7(7), substituted “the veteran” for “he” in six places and “the veteran’s” for “his” wherever appearing.
+1976—Subsec. (c). Pub. L. 94–324, § 7(7), substituted “the veteran” for “he” in six places and “the veteran’s” for “his” wherever appearing.
 
-Subsec. (d). Pub. L. 94–324, § 7(8), substituted “the Administrator may” for “he may”.
+Subsec. (d). Pub. L. 94–324, § 7(8), substituted “the Administrator may” for “he may”.
 
-1974—Subsec. (b). Pub. L. 93–569, § 2(e), struck out “under section 512 of that Act” after “determination of the Secretary of Housing and Urban Development”.
+1974—Subsec. (b). Pub. L. 93–569, § 2(e), struck out “under section 512 of that Act” after “determination of the Secretary of Housing and Urban Development”.
 
-Subsec. (c). Pub. L. 93–569, § 2(d), inserted provision that, the foregoing provisions notwithstanding, in the case of an automatically guaranteed loan, the veteran is required to make certification only at the time of loan closing.
+Subsec. (c). Pub. L. 93–569, § 2(d), inserted provision that, the foregoing provisions notwithstanding, in the case of an automatically guaranteed loan, the veteran is required to make certification only at the time of loan closing.
 
-Subsec. (d). Pub. L. 93–569, § 2(e), struck out “under section 512 of that Act” after “determination of the Secretary of Housing and Urban Development”.
+Subsec. (d). Pub. L. 93–569, § 2(e), struck out “under section 512 of that Act” after “determination of the Secretary of Housing and Urban Development”.
 
 1970—Subsec. (b). Pub. L. 91–506 substituted “Subject to notice and opportunity for a hearing, the” for “The”.
 
@@ -899,15 +899,15 @@ Subsec. (d). Pub. L. 91–506 substituted “Subject to notice and opportunity f
 
 1960—Subsec. (c). Pub. L. 86–665 inserted sentence respecting satisfaction of provisions for certification by the veteran at the time he applies for the loan and at the time the loan is closed.
 
-1959—Subsec. (b). Pub. L. 86–73, § 3(a), authorized the Administrator to refuse to appraise any property if the builder or sponsor of the property had been barred by the Federal Housing Commissioner from participation in the FHA insurance program.
+1959—Subsec. (b). Pub. L. 86–73, § 3(a), authorized the Administrator to refuse to appraise any property if the builder or sponsor of the property had been barred by the Federal Housing Commissioner from participation in the FHA insurance program.
 
-Subsec. (d). Pub. L. 86–73, § 3(b), authorized the Administrator to refuse to guarantee or insure loans if the lender or holder of the loans has been barred by the Federal Housing Commissioner from participation in the FHA insurance program.
+Subsec. (d). Pub. L. 86–73, § 3(b), authorized the Administrator to refuse to guarantee or insure loans if the lender or holder of the loans has been barred by the Federal Housing Commissioner from participation in the FHA insurance program.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–198, § 8(c), Dec. 21, 1987, 101 Stat. 1320, provided that: “The amendments made by this section [amending this section and sections 1810 and 1819 [now 3710 and 3712] of this title] shall apply with respect to loans made more than 30 days after the date of the enactment of this Act [Dec. 21, 1987].”
+Pub. L. 100–198, § 8(c), Dec. 21, 1987, 101 Stat. 1320, provided that: “The amendments made by this section [amending this section and sections 1810 and 1819 [now 3710 and 3712] of this title] shall apply with respect to loans made more than 30 days after the date of the enactment of this Act [Dec. 21, 1987].”
 
 **Effective Date of 1976 Amendment**
 
@@ -917,25 +917,25 @@ Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. 
 
 Amendment by Pub. L. 93–569 effective Dec. 31, 1974, see section 10 of Pub. L. 93–569, set out as a note under section 3702 of this title.
 
-### § 3705. Warranties
+### § 3705. Warranties
 
 **(a)** The Secretary shall require that in connection with any property upon which there is located a dwelling designed principally for not more than a four-family residence and which is appraised for guaranty or insurance before the beginning of construction, the seller or builder, and such other person as may be required by the Secretary to become warrantor, shall deliver to the purchaser or owner of such property a warranty that the dwelling is constructed in substantial conformity with the plans and specifications (including any amendments thereof, or changes and variations therein, which have been approved in writing by the Secretary) on which the Secretary based the Secretary’s valuation of the dwelling. The Secretary shall deliver to the builder, seller, or other warrantor the Secretary’s written approval (which shall be conclusive evidence of such appraisal) of any amendment of, or change or variation in, such plans and specifications which the Secretary deems to be a substantial amendment thereof, or change or variation therein, and shall file a copy of such written approval with such plans and specifications. Such warranty shall apply only with respect to such instances of substantial nonconformity to such approved plans and specifications (including any amendments thereof, or changes or variations therein, which have been approved in writing, as provided in this section, by the Secretary) as to which the purchaser or home owner has given written notice to the warrantor within one year from the date of conveyance of title to, or initial occupancy of, the dwelling, whichever first occurs. Such warranty shall be in addition to, and not in derogation of, all other rights and privileges which such purchaser or owner may have under any other law or instrument. The provisions of this section shall apply to any such property covered by a mortgage insured or guaranteed by the Secretary on and after October 1, 1954, unless such mortgage is insured or guaranteed pursuant to a commitment therefor made before October 1, 1954.
 
 **(b)** The Secretary shall permit copies of the plans and specifications (including written approvals of any amendments thereof, or changes or variations therein, as provided in this section) for dwellings in connection with which warranties are required by subsection (a) of this section to be made available in their appropriate local offices for inspection or for copying by any purchaser, home owner, or warrantor during such hours or periods of time as the Secretary may determine to be reasonable.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1206, § 1805; Pub. L. 94–324, § 7(9), June 30, 1976, 90 Stat. 721; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, § 15(a)(1), June 13, 1991, 105 Stat. 288; renumbered § 3705, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, § 1202(a)(2), Nov. 2, 1994, 108 Stat. 4689.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1206, § 1805; Pub. L. 94–324, § 7(9), June 30, 1976, 90 Stat. 721; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, § 15(a)(1), June 13, 1991, 105 Stat. 288; renumbered § 3705, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, § 1202(a)(2), Nov. 2, 1994, 108 Stat. 4689.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–446 made technical correction to directory language of Pub. L. 102–54, § 15(a)(1)(A). See 1991 Amendment note below.
+1994—Subsec. (a). Pub. L. 103–446 made technical correction to directory language of Pub. L. 102–54, § 15(a)(1)(A). See 1991 Amendment note below.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1805 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1805 of this title as this section.
 
-Subsec. (a). Pub. L. 102–54, § 15(a)(1)(B), substituted “appraisal)” for “approval)” in second sentence.
+Subsec. (a). Pub. L. 102–54, § 15(a)(1)(B), substituted “appraisal)” for “approval)” in second sentence.
 
-Pub. L. 102–54, § 15(a)(1)(A), as amended by Pub. L. 103–446, substituted “appraised” for “approved” before “for guaranty” in first sentence.
+Pub. L. 102–54, § 15(a)(1)(A), as amended by Pub. L. 103–446, substituted “appraised” for “approved” before “for guaranty” in first sentence.
 
 1989—Pub. L. 101–237 substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
 
@@ -945,19 +945,19 @@ Pub. L. 102–54, § 15(a)(1)(A), as amended by Pub. L. 103–446, substituted
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–446, title XII, § 1202(a), Nov. 2, 1994, 108 Stat. 4689, provided that the amendment made by that section is effective June 13, 1991, and as if included in the enactment of Pub. L. 102–54.
+Pub. L. 103–446, title XII, § 1202(a), Nov. 2, 1994, 108 Stat. 4689, provided that the amendment made by that section is effective June 13, 1991, and as if included in the enactment of Pub. L. 102–54.
 
 **Effective Date of 1976 Amendment**
 
 Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. L. 94–324, set out as a note under section 3701 of this title.
 
-### § 3706. Escrow of deposits and downpayments
+### § 3706. Escrow of deposits and downpayments
 
 **(a)** Any deposit or downpayment made by an eligible veteran in connection with the purchase of proposed or newly constructed and previously unoccupied residential property in a project on which the Secretary has issued a Certificate of Reasonable Value, which purchase is to be financed with a loan guaranteed, insured, or made under the provisions of this chapter, shall be deposited forthwith by the seller, or the agent of the seller, receiving such deposit or payment, in a trust account to safeguard such deposit or payment from the claims of creditors of the seller. The failure of the seller or the seller’s agent to create such trust account and to maintain it until the deposit or payment has been disbursed for the benefit of the veteran purchaser at settlement or, if the transaction does not materialize, is otherwise disposed of in accordance with the terms of the contract, may constitute an unfair marketing practice within the meaning of section 3704(b) of this title.
 
 **(b)** If an eligible veteran contracts for the construction of a property in a project on which the Secretary has issued a Certificate of Reasonable Value and such construction is to be financed with the assistance of a construction loan to be guaranteed, insured, or made under the provisions of this chapter, it may be considered an unfair marketing practice under section 3704(b) of this title if any deposit or downpayment of the veteran is not maintained in a special trust account by the recipient until it is either (1) applied on behalf of the veteran to the cost of the land or to the cost of construction or (2), if the transaction does not materialize, is otherwise disposed of in accordance with the terms of the contract.
 
-(Added Pub. L. 86–665, § 6(a), July 14, 1960, 74 Stat. 532, § 1806; amended Pub. L. 94–324, § 7(10), June 30, 1976, 90 Stat. 721; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3706 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, § 1201(e)(13), Nov. 2, 1994, 108 Stat. 4685.)
+(Added Pub. L. 86–665, § 6(a), July 14, 1960, 74 Stat. 532, § 1806; amended Pub. L. 94–324, § 7(10), June 30, 1976, 90 Stat. 721; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3706 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, § 1201(e)(13), Nov. 2, 1994, 108 Stat. 4685.)
 
 **Editorial Notes**
 
@@ -965,9 +965,9 @@ Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. 
 
 1994—Pub. L. 103–446, which directed the substitution of “of this title” for “of this chapter” the second and third places appearing, was executed by making the substitution the second and fourth places appearing to reflect the probable intent of Congress.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1806 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1806 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “3704(b)” for “1804(b)” in subsecs. (a) and (b).
+Pub. L. 102–83, § 5(c)(1), substituted “3704(b)” for “1804(b)” in subsecs. (a) and (b).
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -979,7 +979,7 @@ Pub. L. 102–83, § 5(c)(1), substituted “3704(b)” for “1804(b)” in s
 
 Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. L. 94–324, set out as a note under section 3701 of this title.
 
-### § 3707. Adjustable rate mortgages
+### § 3707. Adjustable rate mortgages
 
 **(a)** The Secretary shall carry out a project under this section for the purpose of guaranteeing loans in a manner similar to the manner in which the Secretary of Housing and Urban Development insures adjustable rate mortgages under section 251 of the National Housing Act.
 
@@ -1005,13 +1005,13 @@ Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. 
 
 **(d)** The Secretary shall require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first five years of the mortgage term.
 
-(Added Pub. L. 102–547, § 3(a)(1), Oct. 28, 1992, 106 Stat. 3634; amended Pub. L. 103–78, § 7, Aug. 13, 1993, 107 Stat. 769; Pub. L. 108–454, title IV, § 404, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V, § 505(a), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 112–154, title II, § 208, Aug. 6, 2012, 126 Stat. 1179.)
+(Added Pub. L. 102–547, § 3(a)(1), Oct. 28, 1992, 106 Stat. 3634; amended Pub. L. 103–78, § 7, Aug. 13, 1993, 107 Stat. 769; Pub. L. 108–454, title IV, § 404, Dec. 10, 2004, 118 Stat. 3616; Pub. L. 110–389, title V, § 505(a), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 112–154, title II, § 208, Aug. 6, 2012, 126 Stat. 1179.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Housing Act, referred to in subsecs. (a) and (c)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§ 1707 et seq.) of chapter 13 of Title 12, Banks and Banking. Section 251 of the Act is classified to section 1715z–16 of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsecs. (a) and (c)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§ 1707 et seq.) of chapter 13 of Title 12, Banks and Banking. Section 251 of the Act is classified to section 1715z–16 of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 **Amendments**
 
@@ -1027,7 +1027,7 @@ The National Housing Act, referred to in subsecs. (a) and (c)(3), is act June 27
 
 **Annual Report on Document Disclosure and Consumer Education**
 
-Pub. L. 115–174, title III, § 309(d), May 24, 2018, 132 Stat. 1351, provided that:
+Pub. L. 115–174, title III, § 309(d), May 24, 2018, 132 Stat. 1351, provided that:
 
 > “Not less frequently than once each year, the Secretary of Veterans Affairs shall issue a publicly available report that—
 
@@ -1043,9 +1043,9 @@ Pub. L. 115–174, title III, § 309(d), May 24, 2018, 132 Stat. 1351, provide
 
 **Annual Reports on Adjustable Rate Mortgages Guaranteed Under This Section**
 
-Pub. L. 102–547, § 3(b), Oct. 28, 1992, 106 Stat. 3635, directed Secretary of Veterans Affairs to transmit adjustable rate mortgage report to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1993, containing description of project carried out under this section and thereafter to transmit annual reports to such committees with respect to default rates and other information concerning loans guaranteed under this section prior to repeal by Pub. L. 104–110, title II, § 201(b), Feb. 13, 1996, 110 Stat. 770.
+Pub. L. 102–547, § 3(b), Oct. 28, 1992, 106 Stat. 3635, directed Secretary of Veterans Affairs to transmit adjustable rate mortgage report to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1993, containing description of project carried out under this section and thereafter to transmit annual reports to such committees with respect to default rates and other information concerning loans guaranteed under this section prior to repeal by Pub. L. 104–110, title II, § 201(b), Feb. 13, 1996, 110 Stat. 770.
 
-### § 3707A. Hybrid adjustable rate mortgages
+### § 3707A. Hybrid adjustable rate mortgages
 
 **(a)** The Secretary shall carry out a project under this section for the purpose of guaranteeing loans in a manner similar to the manner in which the Secretary of Housing and Urban Development insures adjustable rate mortgages under section 251 of the National Housing Act in accordance with the provisions of this section with respect to hybrid adjustable rate mortgages described in subsection (b).
 
@@ -1085,13 +1085,13 @@ Pub. L. 102–547, § 3(b), Oct. 28, 1992, 106 Stat. 3635, directed Secretary 
 
 **(e)** The Secretary shall require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first five years of the mortgage term.
 
-(Added Pub. L. 107–330, title III, § 303(a), Dec. 6, 2002, 116 Stat. 2825; amended Pub. L. 108–454, title IV, § 405(a), (b), Dec. 10, 2004, 118 Stat. 3616; Pub. L. 109–233, title I, § 102, June 15, 2006, 120 Stat. 399; Pub. L. 110–389, title V, § 505(b), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 112–154, title II, § 209, Aug. 6, 2012, 126 Stat. 1179.)
+(Added Pub. L. 107–330, title III, § 303(a), Dec. 6, 2002, 116 Stat. 2825; amended Pub. L. 108–454, title IV, § 405(a), (b), Dec. 10, 2004, 118 Stat. 3616; Pub. L. 109–233, title I, § 102, June 15, 2006, 120 Stat. 399; Pub. L. 110–389, title V, § 505(b), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 112–154, title II, § 209, Aug. 6, 2012, 126 Stat. 1179.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Housing Act, referred to in subsecs. (a) and (d)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§ 1707 et seq.) of chapter 13 of Title 12, Banks and Banking. Section 251 of the Act is classified to section 1715z–16 of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsecs. (a) and (d)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§ 1707 et seq.) of chapter 13 of Title 12, Banks and Banking. Section 251 of the Act is classified to section 1715z–16 of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 **Amendments**
 
@@ -1101,21 +1101,21 @@ The National Housing Act, referred to in subsecs. (a) and (d)(3), is act June 27
 
 2006—Subsec. (c)(4). Pub. L. 109–233 substituted “such percentage points as the Secretary may prescribe” for “1 percentage point”.
 
-2004—Subsec. (a). Pub. L. 108–454, § 405(a), substituted “during fiscal years 2004 through 2008” for “during fiscal years 2004 and 2005”.
+2004—Subsec. (a). Pub. L. 108–454, § 405(a), substituted “during fiscal years 2004 through 2008” for “during fiscal years 2004 and 2005”.
 
-Subsec. (c)(3). Pub. L. 108–454, § 405(b)(2), added par. (3) and struck out former par. (3) which read as follows: “be limited, with respect to any single annual interest rate adjustment, to a maximum increase or decrease of 1 percentage point; and”.
+Subsec. (c)(3). Pub. L. 108–454, § 405(b)(2), added par. (3) and struck out former par. (3) which read as follows: “be limited, with respect to any single annual interest rate adjustment, to a maximum increase or decrease of 1 percentage point; and”.
 
-Subsec. (c)(4). Pub. L. 108–454, § 405(b)(2), added par. (4). Former par. (4) redesignated (5).
+Subsec. (c)(4). Pub. L. 108–454, § 405(b)(2), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (c)(5). Pub. L. 108–454, § 405(b)(1), (3), redesignated par. (4) as (5) and substituted “such number of percentage points as the Secretary shall prescribe for purposes of this section” for “5 percentage points above the initial contract interest rate”.
+Subsec. (c)(5). Pub. L. 108–454, § 405(b)(1), (3), redesignated par. (4) as (5) and substituted “such number of percentage points as the Secretary shall prescribe for purposes of this section” for “5 percentage points above the initial contract interest rate”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **No Effect on Guarantee of Loans Under Hybrid Adjustable Rate Mortgage Guarantee Demonstration Project**
 
-Pub. L. 108–454, title IV, § 405(c), Dec. 10, 2004, 118 Stat. 3616, provided that: “The amendments made by this section [amending this section] shall not be construed to affect the force or validity of any guarantee of a loan made by the Secretary of Veterans Affairs under the demonstration project for the guarantee of hybrid adjustable rate mortgages under section 3707A of title 38, United States Code, as in effect on the day before the date of the enactment of this Act [Dec. 10, 2004].”
+Pub. L. 108–454, title IV, § 405(c), Dec. 10, 2004, 118 Stat. 3616, provided that: “The amendments made by this section [amending this section] shall not be construed to affect the force or validity of any guarantee of a loan made by the Secretary of Veterans Affairs under the demonstration project for the guarantee of hybrid adjustable rate mortgages under section 3707A of title 38, United States Code, as in effect on the day before the date of the enactment of this Act [Dec. 10, 2004].”
 
-### § 3708. Authority to buy down interest rates: pilot program
+### § 3708. Authority to buy down interest rates: pilot program
 
 **(a)** In order to enable the purchase of housing in areas where the supply of suitable military housing is inadequate, the Secretary may conduct a pilot program under which the Secretary may make periodic or lump sum assistance payments on behalf of an eligible veteran for the purpose of buying down the interest rate on a loan to that veteran that is guaranteed under this chapter for a purpose described in paragraph (1), (6), or (10) of section 3710(a) of this title.
 
@@ -1147,15 +1147,15 @@ Pub. L. 108–454, title IV, § 405(c), Dec. 10, 2004, 118 Stat. 3616, provide
 
 **(g)** The Secretary may not guarantee a loan under this chapter after September 30, 1998, on which the Secretary is obligated to make payments under this section.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, § 2822(b)(1), Feb. 10, 1996, 110 Stat. 556.)
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2822(b)(1), Feb. 10, 1996, 110 Stat. 556.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Authority of Secretary of Defense**
 
-Pub. L. 104–106, div. B, title XXVIII, § 2822(c), Feb. 10, 1996, 110 Stat. 557, directed the Secretary of Defense to reimburse the Secretary of Veterans Affairs for interest rate buy down costs paid to mortgagees under this section and authorized the Secretary of Defense to designate housing shortage areas with respect to housing loans guaranteed on or before Sept. 30, 1998.
+Pub. L. 104–106, div. B, title XXVIII, § 2822(c), Feb. 10, 1996, 110 Stat. 557, directed the Secretary of Defense to reimburse the Secretary of Veterans Affairs for interest rate buy down costs paid to mortgagees under this section and authorized the Secretary of Defense to designate housing shortage areas with respect to housing loans guaranteed on or before Sept. 30, 1998.
 
-### § 3709. Refinancing of housing loans
+### § 3709. Refinancing of housing loans
 
 **(a) Fee Recoupment.—** Except as provided in subsection (d) and notwithstanding section 3703 of this title or any other provision of law, a loan to a veteran for a purpose specified in section 3710 of this title that is being refinanced may not be guaranteed or insured under this chapter unless—
 
@@ -1195,7 +1195,7 @@ Pub. L. 104–106, div. B, title XXVIII, § 2822(c), Feb. 10, 1996, 110 Stat. 
 
 **(2)** Not later than 180 days after the date of the enactment of this section, the Secretary shall promulgate such rules as the Secretary considers appropriate with respect to refinancing described in paragraph (1) to ensure that such refinancing is in the financial interest of the borrower, including rules relating to recoupment, seasoning, and net tangible benefits.
 
-(Added Pub. L. 115–174, title III, § 309(a)(1), May 24, 2018, 132 Stat. 1348; amended Pub. L. 116–33, § 2(b), July 25, 2019, 133 Stat. 1038.)
+(Added Pub. L. 115–174, title III, § 309(a)(1), May 24, 2018, 132 Stat. 1348; amended Pub. L. 116–33, § 2(b), July 25, 2019, 133 Stat. 1038.)
 
 **Editorial Notes**
 
@@ -1215,7 +1215,7 @@ The date of the enactment of this section, referred to in subsec. (d)(2), is the
 
 **Regulations**
 
-Pub. L. 115–174, title III, § 309(a)(2), May 24, 2018, 132 Stat. 1349, provided that:
+Pub. L. 115–174, title III, § 309(a)(2), May 24, 2018, 132 Stat. 1349, provided that:
 
 > **“(A) In general.—** In prescribing any regulation to carry out section 3709 of title 38, United States Code, as added by paragraph (1), the Secretary of Veterans Affairs may waive the requirements of sections 551 through 559 of title 5, United States Code, if—
 
@@ -1237,7 +1237,7 @@ Amendment by Pub. L. 116–33 not to be construed to restrict or otherwise modif
 
 ## SUBCHAPTER II—LOANS
 
-### § 3710. Purchase or construction of homes
+### § 3710. Purchase or construction of homes
 
 **(a)** Except as provided in section 3704(c)(2) of this title, any loan to a veteran, if made pursuant to the provisions of this chapter, is automatically guaranteed if such loan is for one or more of the following purposes:
 
@@ -1309,7 +1309,7 @@ the amount of the loan to be guaranteed or made does not exceed the lesser of—
 
 **(8)** in the case of a loan to refinance a loan (other than a loan or installment sales contract described in clause (7) of this subsection or a loan made for a purpose specified in subsection (a)(8) of this section), the amount of the loan to be guaranteed or made does not exceed 100 percent of the reasonable value of the dwelling or farm residence securing the loan, as determined pursuant to section 3731 of this title.
 
-**[(c)** Repealed. Pub. L. 100–198, § 3(a)(2), Dec. 21, 1987, 101 Stat. 1315.]
+**[(c)** Repealed. Pub. L. 100–198, § 3(a)(2), Dec. 21, 1987, 101 Stat. 1315.]
 
 **(d)**
 
@@ -1489,7 +1489,7 @@ If the procedures described in clause (C) of this paragraph include standards fo
 
 **(B)** The advisory group established under subparagraph (A) shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(4)** The Secretary shall ensure that marketing materials that the Secretary provides to veterans with respect to loans guaranteed under this chapter include information regarding the use of energy efficiency reports under this subsection.
 
@@ -1499,7 +1499,7 @@ If the procedures described in clause (C) of this paragraph include standards fo
 
 **(B)** Of the number of loans enumerated under subparagraph (A), an enumeration of the default rates and rates of foreclosure, including how such enumeration compares with the default rates and rates of foreclosure for guaranteed loans for which no energy efficiency report is provided.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1207, § 1810; Pub. L. 90–301, §§ 1(a), 2(a), May 7, 1968, 82 Stat. 113; Pub. L. 91–506, § 3, Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, § 3, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, § 7(11), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §§ 104, 105(a), Oct. 18, 1978, 92 Stat. 1498, 1499; Pub. L. 96–385, title IV, §§ 401(a), 402(a), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 98–223, title II, § 205(a), Mar. 2, 1984, 98 Stat. 42; Pub. L. 99–576, title IV, § 402(a), (b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–198, §§ 3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, 101 Stat. 1315, 1318–1320, 1325; Pub. L. 100–322, title IV, § 415(c)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§ 309, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; renumbered § 3710 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §§ 6(1), 9(a), (b), Oct. 28, 1992, 106 Stat. 3636, 3641, 3642; Pub. L. 103–446, title IX, §§ 904(a), (b), 905, Nov. 2, 1994, 108 Stat. 4676, 4677; Pub. L. 104–110, title I, § 101(e), Feb. 13, 1996, 110 Stat. 768; Pub. L. 109–461, title V, § 501, Dec. 22, 2006, 120 Stat. 3431; Pub. L. 110–389, title V, § 504(b), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 116–23, § 6(a)(3), June 25, 2019, 133 Stat. 973; Pub. L. 117–328, div. U, title II, § 203(a), Dec. 29, 2022, 136 Stat. 5449.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1207, § 1810; Pub. L. 90–301, §§ 1(a), 2(a), May 7, 1968, 82 Stat. 113; Pub. L. 91–506, § 3, Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, § 3, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, § 7(11), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §§ 104, 105(a), Oct. 18, 1978, 92 Stat. 1498, 1499; Pub. L. 96–385, title IV, §§ 401(a), 402(a), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 98–223, title II, § 205(a), Mar. 2, 1984, 98 Stat. 42; Pub. L. 99–576, title IV, § 402(a), (b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–198, §§ 3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, 101 Stat. 1315, 1318–1320, 1325; Pub. L. 100–322, title IV, § 415(c)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§ 309, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; renumbered § 3710 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §§ 6(1), 9(a), (b), Oct. 28, 1992, 106 Stat. 3636, 3641, 3642; Pub. L. 103–446, title IX, §§ 904(a), (b), 905, Nov. 2, 1994, 108 Stat. 4676, 4677; Pub. L. 104–110, title I, § 101(e), Feb. 13, 1996, 110 Stat. 768; Pub. L. 109–461, title V, § 501, Dec. 22, 2006, 120 Stat. 3431; Pub. L. 110–389, title V, § 504(b), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 116–23, § 6(a)(3), June 25, 2019, 133 Stat. 973; Pub. L. 117–328, div. U, title II, § 203(a), Dec. 29, 2022, 136 Stat. 5449.)
 
 **Editorial Notes**
 
@@ -1509,7 +1509,7 @@ The date of the enactment of this paragraph, referred to in subsec. (a)(12), is 
 
 Section 216(b)(1) of the Internal Revenue Code of 1986, referred to in subsec. (h)(2), is classified to section 216(b)(1) of Title 26, Internal Revenue Code.
 
-The Federal Advisory Committee Act, referred to in subsec. (i)(3)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (i)(3)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 **Codification**
 
@@ -1523,111 +1523,111 @@ Another section 11(b) of Pub. L. 100–198 amended section 1831 [now 3731] of th
 
 2008—Subsec. (b)(8). Pub. L. 110–389 substituted “100 percent” for “90 percent”.
 
-2006—Subsec. (a)(12). Pub. L. 109–461, § 501(a), added par. (12).
+2006—Subsec. (a)(12). Pub. L. 109–461, § 501(a), added par. (12).
 
-Subsec. (h). Pub. L. 109–461, § 501(b), added subsec. (h).
+Subsec. (h). Pub. L. 109–461, § 501(b), added subsec. (h).
 
 1996—Subsec. (d)(7). Pub. L. 104–110 struck out par. (7) which read as follows: “A loan may not be guaranteed under this subsection after December 31, 1995.”
 
-1994—Subsec. (a)(11). Pub. L. 103–446, § 904(a), added par. (11).
+1994—Subsec. (a)(11). Pub. L. 103–446, § 904(a), added par. (11).
 
-Subsec. (e)(1). Pub. L. 103–446, § 904(b)(1), inserted “or for the purpose specified in subsection (a)(11)” after “subsection (a)(8)” in introductory provisions.
+Subsec. (e)(1). Pub. L. 103–446, § 904(b)(1), inserted “or for the purpose specified in subsection (a)(11)” after “subsection (a)(8)” in introductory provisions.
 
-Subsec. (e)(1)(A). Pub. L. 103–446, § 905, inserted before semicolon at end “or, in a case in which the loan is a fixed rate loan and the loan being refinanced is an adjustable rate loan, the loan bears interest at a rate that is agreed upon by the veteran and the mortgagee”.
+Subsec. (e)(1)(A). Pub. L. 103–446, § 905, inserted before semicolon at end “or, in a case in which the loan is a fixed rate loan and the loan being refinanced is an adjustable rate loan, the loan bears interest at a rate that is agreed upon by the veteran and the mortgagee”.
 
-Subsec. (e)(1)(C). Pub. L. 103–446, § 904(b)(2), substituted “may not exceed—” and cls. (i) and (ii) for “may not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs (including any discount permitted pursuant to section 3703(c)(3)(A) of this title) as may be authorized by the Secretary, under regulations which the Secretary shall prescribe, to be included in such loan;”.
+Subsec. (e)(1)(C). Pub. L. 103–446, § 904(b)(2), substituted “may not exceed—” and cls. (i) and (ii) for “may not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs (including any discount permitted pursuant to section 3703(c)(3)(A) of this title) as may be authorized by the Secretary, under regulations which the Secretary shall prescribe, to be included in such loan;”.
 
-1992—Subsec. (a)(7). Pub. L. 102–547, § 9(b)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “To improve a dwelling or farm residence owned by the veteran and occupied by the veteran as the veteran’s home through the installation of a solar heating system, a solar heating and cooling system, or a combined solar heating and cooling system or through the application of a residential energy conservation measure.”
+1992—Subsec. (a)(7). Pub. L. 102–547, § 9(b)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “To improve a dwelling or farm residence owned by the veteran and occupied by the veteran as the veteran’s home through the installation of a solar heating system, a solar heating and cooling system, or a combined solar heating and cooling system or through the application of a residential energy conservation measure.”
 
-Subsec. (a)(10). Pub. L. 102–547, § 9(b)(2), added par. (10).
+Subsec. (a)(10). Pub. L. 102–547, § 9(b)(2), added par. (10).
 
-Subsec. (d). Pub. L. 102–547, § 9(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) defined terms “solar heating”, “solar heating and cooling”, “combined solar heating and cooling”, “passive system”, and “residential energy conservation measure” for purposes of subsec. (a)(7).
+Subsec. (d). Pub. L. 102–547, § 9(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) defined terms “solar heating”, “solar heating and cooling”, “combined solar heating and cooling”, “passive system”, and “residential energy conservation measure” for purposes of subsec. (a)(7).
 
-Subsec. (e)(1)(D). Pub. L. 102–547, § 6(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the amount of the guaranty of the loan may not exceed the original guaranty amount of the loan being refinanced;”.
+Subsec. (e)(1)(D). Pub. L. 102–547, § 6(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the amount of the guaranty of the loan may not exceed the original guaranty amount of the loan being refinanced;”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1810 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1810 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3704(c)(2)” for “1804(c)(2)” in introductory provisions, “3712(a)(5)” for “1812(a)(5)” in par. (9)(B)(ii), and “3711” for “1811” in concluding provisions.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3704(c)(2)” for “1804(c)(2)” in introductory provisions, “3712(a)(5)” for “1812(a)(5)” in par. (9)(B)(ii), and “3711” for “1811” in concluding provisions.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3711” for “1811” in introductory provisions and “3731” for “1831” in pars. (5), (7)(i), and (8).
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3711” for “1811” in introductory provisions and “3731” for “1831” in pars. (5), (7)(i), and (8).
 
-Subsec. (e)(1)(C). Pub. L. 102–83, § 5(c)(1), substituted “3703(c)(3)(A)” for “1803(c)(3)(A)”.
+Subsec. (e)(1)(C). Pub. L. 102–83, § 5(c)(1), substituted “3703(c)(3)(A)” for “1803(c)(3)(A)”.
 
-Subsec. (e)(2). Pub. L. 102–83, § 5(c)(1), substituted “3702(b)” for “1802(b)”.
+Subsec. (e)(2). Pub. L. 102–83, § 5(c)(1), substituted “3702(b)” for “1802(b)”.
 
-Pub. L. 102–83, § 4(a)(2)(A)(iv), substituted “Secretary” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(2)(A)(iv), substituted “Secretary” for “Veterans’ Administration”.
 
-Subsec. (g)(2). Pub. L. 102–83, § 5(c)(1), substituted “3712(e)(2)” for “1812(e)(2)”.
+Subsec. (g)(2). Pub. L. 102–83, § 5(c)(1), substituted “3712(e)(2)” for “1812(e)(2)”.
 
-1989—Subsec. (a)(6). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
+1989—Subsec. (a)(6). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (b)(5) to (8). Pub. L. 101–237, § 309(b), inserted “except in the case of a loan described in clause (7) or (8) of this subsection,” before “the loan to be paid” in cl. (5), struck out “and,” at end of cl. (5), substituted semicolon for period at end of cl. (6), and added cls. (7) and (8).
+Subsec. (b)(5) to (8). Pub. L. 101–237, § 309(b), inserted “except in the case of a loan described in clause (7) or (8) of this subsection,” before “the loan to be paid” in cl. (5), struck out “and,” at end of cl. (5), substituted semicolon for period at end of cl. (6), and added cls. (7) and (8).
 
-Subsecs. (d) to (g). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
+Subsecs. (d) to (g). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
 
-Subsec. (h). Pub. L. 101–237, § 309(a), struck out subsec. (h) which read as follows: “The amount of a loan guaranteed for the purpose specified in subsection (a)(5) of this section may not exceed the amount equal to 90 percent of the appraised value of the dwelling or farm residence which will secure the loan, as determined by the Administrator.”
+Subsec. (h). Pub. L. 101–237, § 309(a), struck out subsec. (h) which read as follows: “The amount of a loan guaranteed for the purpose specified in subsection (a)(5) of this section may not exceed the amount equal to 90 percent of the appraised value of the dwelling or farm residence which will secure the loan, as determined by the Administrator.”
 
-1988—Subsec. (a)(9)(B)(ii). Pub. L. 100–322, § 415(c)(4)(A), substituted “section 1812(a)(5)” for “section 1819(a)(5)”.
+1988—Subsec. (a)(9)(B)(ii). Pub. L. 100–322, § 415(c)(4)(A), substituted “section 1812(a)(5)” for “section 1819(a)(5)”.
 
-Subsec. (g)(2). Pub. L. 100–322, § 415(c)(4)(B), substituted “section 1812(e)(2)” for “section 1819(e)(2)”.
+Subsec. (g)(2). Pub. L. 100–322, § 415(c)(4)(B), substituted “section 1812(e)(2)” for “section 1819(e)(2)”.
 
-1987—Subsec. (a). Pub. L. 100–198, § 8(a)(2), substituted “Except as provided in section 1804(c)(2) of this title, any” for “Any”.
+1987—Subsec. (a). Pub. L. 100–198, § 8(a)(2), substituted “Except as provided in section 1804(c)(2) of this title, any” for “Any”.
 
-Subsec. (b). Pub. L. 100–198, § 11(b), substituted “pursuant to section 1831 of this title” for “by the Administrator” in cl. (5) and struck out last sentence which read as follows: “After the reasonable value of any property, construction, repairs, or alterations is determined under paragraph (5), the Administrator shall, as soon as possible thereafter, notify the veteran concerned of such determination.”
+Subsec. (b). Pub. L. 100–198, § 11(b), substituted “pursuant to section 1831 of this title” for “by the Administrator” in cl. (5) and struck out last sentence which read as follows: “After the reasonable value of any property, construction, repairs, or alterations is determined under paragraph (5), the Administrator shall, as soon as possible thereafter, notify the veteran concerned of such determination.”
 
-Subsec. (c). Pub. L. 100–198, § 3(a)(2), struck out subsec. (c) which read as follows: “The amount of guaranty entitlement available to a veteran under this section shall not be more than $27,500 less such entitlement as may have been used previously under this section and other sections of this chapter.”
+Subsec. (c). Pub. L. 100–198, § 3(a)(2), struck out subsec. (c) which read as follows: “The amount of guaranty entitlement available to a veteran under this section shall not be more than $27,500 less such entitlement as may have been used previously under this section and other sections of this chapter.”
 
-Subsec. (e)(1)(B). Pub. L. 100–198, § 7(a)(1), struck out “and such dwelling or residence must be owned and occupied by the veteran as such veteran’s home” after “refinanced”.
+Subsec. (e)(1)(B). Pub. L. 100–198, § 7(a)(1), struck out “and such dwelling or residence must be owned and occupied by the veteran as such veteran’s home” after “refinanced”.
 
-Subsec. (e)(1)(D). Pub. L. 100–198, § 7(a)(2), struck out “and” at end.
+Subsec. (e)(1)(D). Pub. L. 100–198, § 7(a)(2), struck out “and” at end.
 
-Subsec. (e)(1)(E). Pub. L. 100–198, § 7(a)(3), substituted “by more than 10 years; and” for period at end.
+Subsec. (e)(1)(E). Pub. L. 100–198, § 7(a)(3), substituted “by more than 10 years; and” for period at end.
 
-Subsec. (e)(1)(F). Pub. L. 100–198, § 7(a)(4), added cl. (F).
+Subsec. (e)(1)(F). Pub. L. 100–198, § 7(a)(4), added cl. (F).
 
-Subsec. (g)(3). Pub. L. 100–198, § 13, inserted at end “If the procedures described in clause (C) of this paragraph include standards for evaluating residual income, the Administrator shall, in establishing such standards, give appropriate consideration to State statistics (in States as to which the Administrator determines that such statistics are reliable) pertinent to residual income and the cost of living in the State in question rather than in a larger region.”
+Subsec. (g)(3). Pub. L. 100–198, § 13, inserted at end “If the procedures described in clause (C) of this paragraph include standards for evaluating residual income, the Administrator shall, in establishing such standards, give appropriate consideration to State statistics (in States as to which the Administrator determines that such statistics are reliable) pertinent to residual income and the cost of living in the State in question rather than in a larger region.”
 
-Subsec. (h). Pub. L. 100–198, § 7(c), added subsec. (h).
+Subsec. (h). Pub. L. 100–198, § 7(c), added subsec. (h).
 
-1986—Subsec. (b)(3). Pub. L. 99–576, § 402(a), inserted “, as determined in accordance with the credit underwriting standards established pursuant to subsection (g) of this section”.
+1986—Subsec. (b)(3). Pub. L. 99–576, § 402(a), inserted “, as determined in accordance with the credit underwriting standards established pursuant to subsection (g) of this section”.
 
-Subsec. (g). Pub. L. 99–576, § 402(b), added subsec. (g).
+Subsec. (g). Pub. L. 99–576, § 402(b), added subsec. (g).
 
-1984—Subsec. (a)(9). Pub. L. 98–223, § 205(a)(1), added par. (9).
+1984—Subsec. (a)(9). Pub. L. 98–223, § 205(a)(1), added par. (9).
 
-Subsec. (f). Pub. L. 98–223, § 205(a)(2), added subsec. (f).
+Subsec. (f). Pub. L. 98–223, § 205(a)(2), added subsec. (f).
 
-1980—Subsec. (a)(8). Pub. L. 96–385, § 401(a)(1), added par. (8).
+1980—Subsec. (a)(8). Pub. L. 96–385, § 401(a)(1), added par. (8).
 
-Subsec. (c). Pub. L. 96–385, § 402(a), substituted “$27,500” for “$25,000”.
+Subsec. (c). Pub. L. 96–385, § 402(a), substituted “$27,500” for “$25,000”.
 
-Subsec. (e). Pub. L. 96–385, § 401(a)(2), added subsec. (e).
+Subsec. (e). Pub. L. 96–385, § 401(a)(2), added subsec. (e).
 
-1978—Subsec. (a)(6). Pub. L. 95–476, § 104(1), struck out requirement that the purchased residential unit be in a new condominium development, struck out provision that such unit could be in a structure built and sold as a condominium, and inserted provision that the criteria prescribed by the Administrator be prescribed through regulations.
+1978—Subsec. (a)(6). Pub. L. 95–476, § 104(1), struck out requirement that the purchased residential unit be in a new condominium development, struck out provision that such unit could be in a structure built and sold as a condominium, and inserted provision that the criteria prescribed by the Administrator be prescribed through regulations.
 
-Subsec. (a)(7). Pub. L. 95–476, § 104(2), added par. (7).
+Subsec. (a)(7). Pub. L. 95–476, § 104(2), added par. (7).
 
-Subsec. (c). Pub. L. 95–476, § 105(a), substituted “$25,000” for “$17,500”.
+Subsec. (c). Pub. L. 95–476, § 105(a), substituted “$25,000” for “$17,500”.
 
-Subsec. (d). Pub. L. 95–476, § 104(3), added subsec. (d).
+Subsec. (d). Pub. L. 95–476, § 104(3), added subsec. (d).
 
 1976—Subsec. (a). Pub. L. 94–324 substituted “the veteran”, “the veteran’s” and “the Administrator” for “him”, “his” and “he”, respectively, wherever appearing.
 
-1974—Subsec. (a)(5). Pub. L. 93–569, § 3(1), struck out “Nothing in this chapter shall preclude a veteran from paying to a lender any discount required by such lender in connection with such refinancing.”
+1974—Subsec. (a)(5). Pub. L. 93–569, § 3(1), struck out “Nothing in this chapter shall preclude a veteran from paying to a lender any discount required by such lender in connection with such refinancing.”
 
-Subsec. (a)(6). Pub. L. 93–569, § 3(2), added par. (6).
+Subsec. (a)(6). Pub. L. 93–569, § 3(2), added par. (6).
 
-Subsec. (c). Pub. L. 93–569, § 3(3), substituted “$17,500” for “$12,500”.
+Subsec. (c). Pub. L. 93–569, § 3(3), substituted “$17,500” for “$12,500”.
 
-Subsec. (d). Pub. L. 93–569, § 3(4), struck out subsec. (d) relating to guaranty of loans for purchase of a one-family residential unit in a condominium housing project or development as to which Secretary of Housing and Urban Development has issued, under section 234 of the National Housing Act, evidence of insurance.
+Subsec. (d). Pub. L. 93–569, § 3(4), struck out subsec. (d) relating to guaranty of loans for purchase of a one-family residential unit in a condominium housing project or development as to which Secretary of Housing and Urban Development has issued, under section 234 of the National Housing Act, evidence of insurance.
 
-1970—Subsec. (a). Pub. L. 91–506, § 3(1), added par. (5) permitting a veteran to use his loan guaranty eligibility to refinance existing mortgage loans or other liens on dwellings on farm residences he occupies and provided that veterans using loan guarantees for such refinancing may pay points demanded by a lender.
+1970—Subsec. (a). Pub. L. 91–506, § 3(1), added par. (5) permitting a veteran to use his loan guaranty eligibility to refinance existing mortgage loans or other liens on dwellings on farm residences he occupies and provided that veterans using loan guarantees for such refinancing may pay points demanded by a lender.
 
-Subsec. (d). Pub. L. 91–506, § 3(2), added subsec. (d).
+Subsec. (d). Pub. L. 91–506, § 3(2), added subsec. (d).
 
-1968—Subsec. (b). Pub. L. 90–301, § 2(a), substituted “loan to be paid” for “price paid or to be paid” in par. (5) of first sentence and inserted sentence at end relating to notification of veteran concerned of determination of reasonable value of any property, construction, repairs, or alterations.
+1968—Subsec. (b). Pub. L. 90–301, § 2(a), substituted “loan to be paid” for “price paid or to be paid” in par. (5) of first sentence and inserted sentence at end relating to notification of veteran concerned of determination of reasonable value of any property, construction, repairs, or alterations.
 
-Subsec. (c). Pub. L. 90–301, § 1(a), increased limitation on amount of guaranty entitlement from $7,500 to $12,500.
+Subsec. (c). Pub. L. 90–301, § 1(a), increased limitation on amount of guaranty entitlement from $7,500 to $12,500.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1669,9 +1669,9 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 **Reports on Energy Efficient Mortgages Guaranteed Under This Section**
 
-Pub. L. 102–547, § 9(c), Oct. 28, 1992, 106 Stat. 3642, directed Secretary of Veterans Affairs to transmit report on energy efficient mortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, § 201(b), Feb. 13, 1996, 110 Stat. 770.
+Pub. L. 102–547, § 9(c), Oct. 28, 1992, 106 Stat. 3642, directed Secretary of Veterans Affairs to transmit report on energy efficient mortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, § 201(b), Feb. 13, 1996, 110 Stat. 770.
 
-### § 3711. Direct loans to veterans
+### § 3711. Direct loans to veterans
 
 **(a)** The Congress finds that housing credit for purposes specified in section 3710 or 3712 of this title is not and has not been generally available to veterans living in rural areas, or in small cities and towns not near large metropolitan areas. It is therefore the purpose of this section to provide housing credit for veterans living in such rural areas and such small cities and towns.
 
@@ -1713,119 +1713,119 @@ Pub. L. 102–547, § 9(c), Oct. 28, 1992, 106 Stat. 3642, directed Secretary 
 
 **(k)** Without regard to any other provision of this chapter, the Secretary may take or cause to be taken such action as in the Secretary’s judgment may be necessary or appropriate for or in connection with the custody, management, protection, and realization or sale of investments under this section, may determine the Secretary’s necessary expenses and expenditures, and the manner in which the same shall be incurred, allowed and paid, may make such rules, regulations, and orders as the Secretary may deem necessary or appropriate for carrying out the Secretary’s functions under this section and, except as otherwise expressly provided in this chapter, may employ, utilize, compensate, and, to the extent not inconsistent with the Secretary’s basic responsibilities under this chapter, delegate any of the Secretary’s functions under this section to such persons and such corporate or other agencies, including agencies of the United States, as the Secretary may designate.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1208, § 1811; Pub. L. 86–665, § 2, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, § 2, July 6, 1961, 75 Stat. 201; Pub. L. 88–402, Aug. 4, 1964, 78 Stat. 380; Pub. L. 89–358, § 5(e), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, § 404, Aug. 31, 1967, 81 Stat. 190; Pub. L. 90–301, § 1(b), May 7, 1968, 82 Stat. 113; Pub. L. 91–22, § 3, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, § 4, Oct. 23, 1970, 84 Stat. 1109; Pub. L. 92–66, Aug. 5, 1971, 85 Stat. 173; Pub. L. 93–569, § 4, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §§ 3, 7(12)–(15), June 30, 1976, 90 Stat. 720, 721; Pub. L. 95–476, title I, § 105(b), Oct. 18, 1978, 92 Stat. 1499; Pub. L. 96–385, title IV, §§ 401(c)(2), 402(b), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–295, § 4(65), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, § 406(c)(1), Oct. 14, 1982, 96 Stat. 1445; Pub. L. 100–198, § 3(c), Dec. 21, 1987, 101 Stat. 1316; Pub. L. 100–322, title IV, § 415(c)(5), (d)(2) May 20, 1988, 102 Stat. 551, 552; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3711 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title VI, § 602(e)(1)(B), Nov. 11, 1998, 112 Stat. 3346.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1208, § 1811; Pub. L. 86–665, § 2, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, § 2, July 6, 1961, 75 Stat. 201; Pub. L. 88–402, Aug. 4, 1964, 78 Stat. 380; Pub. L. 89–358, § 5(e), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, § 404, Aug. 31, 1967, 81 Stat. 190; Pub. L. 90–301, § 1(b), May 7, 1968, 82 Stat. 113; Pub. L. 91–22, § 3, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, § 4, Oct. 23, 1970, 84 Stat. 1109; Pub. L. 92–66, Aug. 5, 1971, 85 Stat. 173; Pub. L. 93–569, § 4, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §§ 3, 7(12)–(15), June 30, 1976, 90 Stat. 720, 721; Pub. L. 95–476, title I, § 105(b), Oct. 18, 1978, 92 Stat. 1499; Pub. L. 96–385, title IV, §§ 401(c)(2), 402(b), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–295, § 4(65), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, § 406(c)(1), Oct. 14, 1982, 96 Stat. 1445; Pub. L. 100–198, § 3(c), Dec. 21, 1987, 101 Stat. 1316; Pub. L. 100–322, title IV, § 415(c)(5), (d)(2) May 20, 1988, 102 Stat. 551, 552; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3711 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title VI, § 602(e)(1)(B), Nov. 11, 1998, 112 Stat. 3346.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title III of the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.), referred to in subsec. (c)(2), probably means title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+Title III of the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.), referred to in subsec. (c)(2), probably means title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
-The Housing Act of 1949, referred to in subsec. (c)(2), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (c)(2), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 **Amendments**
 
 1998—Subsec. (k). Pub. L. 105–368 struck out “and section 3723 of this title” after “functions under this section” in two places.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1811 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1811 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3710 or 3712” for “1810 or 1812”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3710 or 3712” for “1810 or 1812”.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3710 or 3712” for “1810 or 1812”, “3710(a) or 3712” for “1810(a) or 1812”, and “3710(a)(8) or 3712(a)(1)(F))” for “1810(a)(8) or 1812(a)(1)(F))”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3710 or 3712” for “1810 or 1812”, “3710(a) or 3712” for “1810(a) or 1812”, and “3710(a)(8) or 3712(a)(1)(F))” for “1810(a)(8) or 1812(a)(1)(F))”.
 
-Subsec. (c)(1). Pub. L. 102–83, § 5(c)(1), substituted “3710 or 3712” for “1810 or 1812”.
+Subsec. (c)(1). Pub. L. 102–83, § 5(c)(1), substituted “3710 or 3712” for “1810 or 1812”.
 
-Subsec. (d)(2). Pub. L. 102–83, § 5(c)(1), substituted “3712” for “1812” and “3710” for “1810” in subpars. (A) and (B).
+Subsec. (d)(2). Pub. L. 102–83, § 5(c)(1), substituted “3712” for “1812” and “3710” for “1810” in subpars. (A) and (B).
 
-Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)” for “1810(a)”.
+Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)” for “1810(a)”.
 
-Subsec. (g). Pub. L. 102–83, § 5(c)(1), substituted “3710 or 3712” for “1810 or 1812”.
+Subsec. (g). Pub. L. 102–83, § 5(c)(1), substituted “3710 or 3712” for “1810 or 1812”.
 
-Subsec. (h). Pub. L. 102–83, § 5(c)(1), substituted “3704” for “1804”.
+Subsec. (h). Pub. L. 102–83, § 5(c)(1), substituted “3704” for “1804”.
 
-Subsec. (k). Pub. L. 102–83, § 5(c)(1), substituted “3723” for “1823” in two places.
+Subsec. (k). Pub. L. 102–83, § 5(c)(1), substituted “3723” for “1823” in two places.
 
 1989—Subsecs. (b) to (d)(1), (e) to (k). Pub. L. 101–237 substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
 
-1988—Subsec. (a). Pub. L. 100–322, § 415(c)(5)(A), (d)(2)(A), substituted “for purposes specified in section 1810 or 1812” for “under section 1810 or 1819”.
+1988—Subsec. (a). Pub. L. 100–322, § 415(c)(5)(A), (d)(2)(A), substituted “for purposes specified in section 1810 or 1812” for “under section 1810 or 1819”.
 
-Subsec. (b). Pub. L. 100–322, § 415(c)(5), (d)(2)(A), substituted “for purposes specified in section 1810 or 1812” for “under section 1810 or 1819”, “section 1810(a) or 1812” for “section 1810(a) or 1819”, and “section 1812(a)(1)(F)” for “section 1819(a)(1)(F)”.
+Subsec. (b). Pub. L. 100–322, § 415(c)(5), (d)(2)(A), substituted “for purposes specified in section 1810 or 1812” for “under section 1810 or 1819”, “section 1810(a) or 1812” for “section 1810(a) or 1819”, and “section 1812(a)(1)(F)” for “section 1819(a)(1)(F)”.
 
-Subsecs. (c)(1), (d)(2)(A). Pub. L. 100–322, § 415(c)(5)(A), substituted “1812” for “1819”.
+Subsecs. (c)(1), (d)(2)(A). Pub. L. 100–322, § 415(c)(5)(A), substituted “1812” for “1819”.
 
-Subsec. (d)(2)(B). Pub. L. 100–322, § 415(c)(5)(A), (d)(2)(B), substituted “1812” for “1819” and “for purposes specified in section 1810” for “under section 1810(c)”.
+Subsec. (d)(2)(B). Pub. L. 100–322, § 415(c)(5)(A), (d)(2)(B), substituted “1812” for “1819” and “for purposes specified in section 1810” for “under section 1810(c)”.
 
-Subsec. (g). Pub. L. 100–322, § 415(c)(5)(A), (d)(2)(A), substituted “for purposes specified in section 1810 or 1812” for “under section 1810 or 1819”.
+Subsec. (g). Pub. L. 100–322, § 415(c)(5)(A), (d)(2)(A), substituted “for purposes specified in section 1810 or 1812” for “under section 1810 or 1819”.
 
 1987—Subsec. (d)(2)(A). Pub. L. 100–198 substituted “$36,000” for “$27,500” in two places.
 
-1982—Subsec. (c)(1). Pub. L. 97–306, § 406(c)(1), substituted “manufactured home” for “mobile home”.
+1982—Subsec. (c)(1). Pub. L. 97–306, § 406(c)(1), substituted “manufactured home” for “mobile home”.
 
-Subsec. (c)(2). Pub. L. 97–295, § 4(65)(A), substituted “title III of the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or title V of the Housing Act of 1949 (42 U.S.C. 1471 et seq.)” for “sections 1000–1029 of title 7 or under sections 1471–1483 of title 42”.
+Subsec. (c)(2). Pub. L. 97–295, § 4(65)(A), substituted “title III of the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or title V of the Housing Act of 1949 (42 U.S.C. 1471 et seq.)” for “sections 1000–1029 of title 7 or under sections 1471–1483 of title 42”.
 
-Subsec. (d)(1). Pub. L. 97–306, § 406(c)(1), substituted “manufactured home” for “mobile home”.
+Subsec. (d)(1). Pub. L. 97–306, § 406(c)(1), substituted “manufactured home” for “mobile home”.
 
-Subsec. (d)(2)(B). Pub. L. 97–295, § 4(65)(B), substituted “October 18, 1978,” for “the date of the enactment of the Veterans’ Housing Benefits Act of 1978”.
+Subsec. (d)(2)(B). Pub. L. 97–295, § 4(65)(B), substituted “October 18, 1978,” for “the date of the enactment of the Veterans’ Housing Benefits Act of 1978”.
 
-Subsec. (j). Pub. L. 97–295, § 4(65)(C), substituted “percent” for “per centum” wherever appearing.
+Subsec. (j). Pub. L. 97–295, § 4(65)(C), substituted “percent” for “per centum” wherever appearing.
 
-1980—Subsec. (b). Pub. L. 96–385, § 401(c)(2), inserted “(other than the refinancing of a loan under section 1810(a)(8) or 1819(a)(1)(F))” after “section 1810(a) or 1819 of this title”.
+1980—Subsec. (b). Pub. L. 96–385, § 401(c)(2), inserted “(other than the refinancing of a loan under section 1810(a)(8) or 1819(a)(1)(F))” after “section 1810(a) or 1819 of this title”.
 
-Subsec. (d)(2). Pub. L. 96–385, § 402(b), substituted in two places “$27,500” for “$25,000” in subpar. (A) and “$20,000” for “$17,500” in two places in subpar. (B).
+Subsec. (d)(2). Pub. L. 96–385, § 402(b), substituted in two places “$27,500” for “$25,000” in subpar. (A) and “$20,000” for “$17,500” in two places in subpar. (B).
 
-1978—Subsec. (d)(2)(A). Pub. L. 95–476, § 105(b)(1), substituted “$25,000” for “$17,500” in two places.
+1978—Subsec. (d)(2)(A). Pub. L. 95–476, § 105(b)(1), substituted “$25,000” for “$17,500” in two places.
 
-Subsec. (d)(2)(B). Pub. L. 95–476, § 105(b)(2), substituted formula for determining maximum amount of original principal of any loan made under this section for purposes of section 1819 of this title for provision that such original amount was not to exceed amount specified by Administrator pursuant to section 1819(d) of this title and inserted provision relating to amount of guaranty entitlement under section 1810(c) of this title.
+Subsec. (d)(2)(B). Pub. L. 95–476, § 105(b)(2), substituted formula for determining maximum amount of original principal of any loan made under this section for purposes of section 1819 of this title for provision that such original amount was not to exceed amount specified by Administrator pursuant to section 1819(d) of this title and inserted provision relating to amount of guaranty entitlement under section 1810(c) of this title.
 
-1976—Subsec. (b). Pub. L. 94–324, § 7(12), substituted “the Administrator shall” for “he shall” and “The Administrator” for “He”.
+1976—Subsec. (b). Pub. L. 94–324, § 7(12), substituted “the Administrator shall” for “he shall” and “The Administrator” for “He”.
 
-Subsec. (c). Pub. L. 94–324, § 7(13), substituted “the veteran” for “he” wherever appearing.
+Subsec. (c). Pub. L. 94–324, § 7(13), substituted “the veteran” for “he” wherever appearing.
 
-Subsec. (d)(2)(A). Pub. L. 94–324, § 3(1), substituted “$33,000” for “$21,000” wherever appearing and struck out provision authorizing Administrator to increase limitations specified upon finding that cost levels so required.
+Subsec. (d)(2)(A). Pub. L. 94–324, § 3(1), substituted “$33,000” for “$21,000” wherever appearing and struck out provision authorizing Administrator to increase limitations specified upon finding that cost levels so required.
 
-Subsec. (d)(3). Pub. L. 94–324, § 3(2), increased aggregate amount of loans that a veteran is eligible to receive under this section from $21,000 to $33,000 and struck out provision authorizing Administrator to increase specific limitations upon such loans.
+Subsec. (d)(3). Pub. L. 94–324, § 3(2), increased aggregate amount of loans that a veteran is eligible to receive under this section from $21,000 to $33,000 and struck out provision authorizing Administrator to increase specific limitations upon such loans.
 
-Subsec. (g). Pub. L. 94–324, § 7(14), substituted “the Administrator” for “him” and “he” wherever appearing.
+Subsec. (g). Pub. L. 94–324, § 7(14), substituted “the Administrator” for “him” and “he” wherever appearing.
 
-Subsec. (k). Pub. L. 94–324, § 7(15), substituted “the Administrator’s” for “his” wherever appearing and “as the Administrator” for “as he” wherever appearing.
+Subsec. (k). Pub. L. 94–324, § 7(15), substituted “the Administrator’s” for “his” wherever appearing and “as the Administrator” for “as he” wherever appearing.
 
 1974—Subsec. (d)(2)(A). Pub. L. 93–569 substituted “$17,500” for “$12,500” wherever appearing.
 
 1971—Subsec. (g). Pub. L. 92–66 substituted provisions authorizing Administrator to sell loans at a price which he determines to be reasonable under prevailing conditions in the mortgage market when agreement to sell loan is made, for provisions authorizing Administrator to sell loans at a price which he determines to be reasonable but not less than 98 per centum of unpaid principal balance, plus full amount of accrued interest, and if loans are offered to an investor in a package or block of two or more loans at not less than 98 per centum of aggregate unpaid principal balance of loans included in such package or block, plus full amount of accrued interest.
 
-1970—Subsec. (a). Pub. L. 91–506, § 4(1), substituted “1810 or 1819” for “1810”.
+1970—Subsec. (a). Pub. L. 91–506, § 4(1), substituted “1810 or 1819” for “1810”.
 
-Subsec. (b). Pub. L. 91–506, § 4(1), (2), substituted “1810 or 1819” for “1810” and provided that the Administrator make, or enter into commitments to make, to any eligible veteran, a loan for any of the purposes described in section 1819 dealing with loans to purchase mobile homes and lots as well as section 1810(a) dealing with the purchase or construction of homes.
+Subsec. (b). Pub. L. 91–506, § 4(1), (2), substituted “1810 or 1819” for “1810” and provided that the Administrator make, or enter into commitments to make, to any eligible veteran, a loan for any of the purposes described in section 1819 dealing with loans to purchase mobile homes and lots as well as section 1810(a) dealing with the purchase or construction of homes.
 
-Subsecs. (c)(1), (d)(1). Pub. L. 91–506, § 4(3), (4), inserted reference to mobile home loans.
+Subsecs. (c)(1), (d)(1). Pub. L. 91–506, § 4(3), (4), inserted reference to mobile home loans.
 
-Subsec. (d)(2)(A). Pub. L. 91–506, § 4(5), redesignated subsec. (d)(2) as subsec. (d)(2)(A) and substituted “Except for any loan made under this chapter for the purposes described in section 1819 of this title, the” for “The”.
+Subsec. (d)(2)(A). Pub. L. 91–506, § 4(5), redesignated subsec. (d)(2) as subsec. (d)(2)(A) and substituted “Except for any loan made under this chapter for the purposes described in section 1819 of this title, the” for “The”.
 
-Subsec. (d)(2)(B). Pub. L. 91–506, § 4(6), inserted provision limiting the original principal amount of any loan made under this section for the purchase of mobile homes and mobile home lots under section 1819 of this title to the amount specified by the Administrator pursuant to subsec. (d) of section 1819.
+Subsec. (d)(2)(B). Pub. L. 91–506, § 4(6), inserted provision limiting the original principal amount of any loan made under this section for the purchase of mobile homes and mobile home lots under section 1819 of this title to the amount specified by the Administrator pursuant to subsec. (d) of section 1819.
 
-Subsec. (g). Pub. L. 91–506, § 4(7), substituted “1810 or 1819 of this title, as appropriate” for “1810 of this title”.
+Subsec. (g). Pub. L. 91–506, § 4(7), substituted “1810 or 1819 of this title, as appropriate” for “1810 of this title”.
 
-Subsec. (h). Pub. L. 91–506, § 4(8), substituted provisions permitting Administrator to exempt dwellings constructed through assistance provided by this section from the minimum land planning and subdivision requirements of this title so long as such dwellings meet minimum requirements of structural soundness and general acceptability for provisions establishing a direct loan expiration date by reference to those for guaranteed loans.
+Subsec. (h). Pub. L. 91–506, § 4(8), substituted provisions permitting Administrator to exempt dwellings constructed through assistance provided by this section from the minimum land planning and subdivision requirements of this title so long as such dwellings meet minimum requirements of structural soundness and general acceptability for provisions establishing a direct loan expiration date by reference to those for guaranteed loans.
 
-Subsec. (i). Pub. L. 91–506, § 4(8), substituted provisions authorizing, Administrator to make or enter into a commitment to make, loans to assist disabled veterans in acquiring specially adapted housing if they are eligible for provisions authorizing Administrator to reserve funds available for loans to enable veterans to purchase dwellings in a housing credit shortage area provided the builder pays a nonrefundable commitment fee, not to exceed 2 percent of the funds reserved, authorizing the Administrator to make advances during construction of the dwelling, authorizing the Administrator to permit a private lender to purchase such loan, and permitting the Administrator to exempt dwellings constructed through assistance provided by this subsec. from the minimum land planning and subdivision requirements of this title so long as such dwellings meet minimum requirements of structural soundness and general acceptability.
+Subsec. (i). Pub. L. 91–506, § 4(8), substituted provisions authorizing, Administrator to make or enter into a commitment to make, loans to assist disabled veterans in acquiring specially adapted housing if they are eligible for provisions authorizing Administrator to reserve funds available for loans to enable veterans to purchase dwellings in a housing credit shortage area provided the builder pays a nonrefundable commitment fee, not to exceed 2 percent of the funds reserved, authorizing the Administrator to make advances during construction of the dwelling, authorizing the Administrator to permit a private lender to purchase such loan, and permitting the Administrator to exempt dwellings constructed through assistance provided by this subsec. from the minimum land planning and subdivision requirements of this title so long as such dwellings meet minimum requirements of structural soundness and general acceptability.
 
-Subsec. (j). Pub. L. 91–506, § 4(8), substituted provisions authorizing Administrator to reserve funds available for loans to enable veterans to purchase housing in a housing credit shortage area, or in any area for a disabled veteran eligible for specially adapted housing, provided the builder pays a nonrefundable commitment fee, not to exceed 2 percent of the funds reserved and authorizing the Administrator to make advances during construction of the dwelling for provisions authorizing the Administrator to process loan applications notwithstanding the assistance of the Voluntary Home Mortgage Credit Committee in trying to place such loans with private lenders, authorizing the Administrator to complete the processing of such loan applications unless he is notified by such Committee that it was able to place any such loan with a private lender, and defining “working days”.
+Subsec. (j). Pub. L. 91–506, § 4(8), substituted provisions authorizing Administrator to reserve funds available for loans to enable veterans to purchase housing in a housing credit shortage area, or in any area for a disabled veteran eligible for specially adapted housing, provided the builder pays a nonrefundable commitment fee, not to exceed 2 percent of the funds reserved and authorizing the Administrator to make advances during construction of the dwelling for provisions authorizing the Administrator to process loan applications notwithstanding the assistance of the Voluntary Home Mortgage Credit Committee in trying to place such loans with private lenders, authorizing the Administrator to complete the processing of such loan applications unless he is notified by such Committee that it was able to place any such loan with a private lender, and defining “working days”.
 
 1969—Subsec. (d)(2), (3). Pub. L. 91–22 substituted “$21,000” for “$17,500” wherever appearing.
 
 1968—Subsec. (d)(2). Pub. L. 90–301 substituted “$12,500” for “$7,500” in two places.
 
-1967—Subsec. (d)(2). Pub. L. 90–77, § 404(a), authorized an increase in amount of direct loan limits from $17,500 to $25,000 where Administrator finds cost levels so require.
+1967—Subsec. (d)(2). Pub. L. 90–77, § 404(a), authorized an increase in amount of direct loan limits from $17,500 to $25,000 where Administrator finds cost levels so require.
 
-Subsec. (d)(3). Pub. L. 90–77, § 404(b), authorized an increase in aggregate amount of direct loans to $25,000 where Administrator finds cost levels so require.
+Subsec. (d)(3). Pub. L. 90–77, § 404(b), authorized an increase in aggregate amount of direct loans to $25,000 where Administrator finds cost levels so require.
 
 1966—Subsec. (d)(2), (3), Pub. L. 89–358 substituted “$17,500” for “$15,000” wherever appearing.
 
 1964—Subsec. (g). Pub. L. 88–402 substituted provisions authorizing Administrator to sell loans at a price which he determines to be reasonable but not less than 98 per centum of unpaid principal balance, plus full amount of accrued interest, and if loans are offered to an investor in a package or block of two or more loans at not less than 98 per centum of aggregate unpaid principal balance of loans included in such package or block, plus full amount of accrued interest, for provisions which permitted Administrator to sell loans only at a price not less than par.
 
-1961—Subsec. (d)(2), (3). Pub. L. 87–84, § 2(a), substituted “$15,000” for “$13,500” wherever appearing.
+1961—Subsec. (d)(2), (3). Pub. L. 87–84, § 2(a), substituted “$15,000” for “$13,500” wherever appearing.
 
-Subsec. (h). Pub. L. 87–84, § 2(b), substituted “to any veteran after the expiration of his entitlement pursuant to section 1803(a)(3) of this title except pursuant to a commitment issued by the Administrator before such entitlement expires” for “after July 25, 1962, except pursuant to commitments issued by the Administrator before that date.”
+Subsec. (h). Pub. L. 87–84, § 2(b), substituted “to any veteran after the expiration of his entitlement pursuant to section 1803(a)(3) of this title except pursuant to a commitment issued by the Administrator before such entitlement expires” for “after July 25, 1962, except pursuant to commitments issued by the Administrator before that date.”
 
 1960—Subsec. (h). Pub. L. 86–665 substituted “1962” for “1960”.
 
@@ -1859,7 +1859,7 @@ Amendment by Pub. L. 93–569 effective Dec. 31, 1974, see section 10 of Pub. L.
 
 Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 
-### § 3712. Loans to purchase manufactured homes and lots
+### § 3712. Loans to purchase manufactured homes and lots
 
 **(a)**
 
@@ -2035,7 +2035,7 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 **(l)** The provisions of sections 3704(d) and 3721 of this title shall be fully applicable to lenders making guaranteed manufactured home loans and manufactured home lot loans and holders of such loans.
 
-(Added Pub. L. 91–506, § 5, Oct. 23, 1970, 84 Stat. 1110, § 1819; amended Pub. L. 93–569, § 5, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §§ 5, 7(20)–(23), June 30, 1976, 90 Stat. 720, 722; Pub. L. 95–476, title I, § 107, Oct. 18, 1978, 92 Stat. 1500; Pub. L. 96–385, title IV, §§ 401(b), 402(c), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 97–66, title V, § 503, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–72, title III, § 303(h), (i), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, § 4(66), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–306, title IV, § 406(a), (c)(2), Oct. 14, 1982, 96 Stat. 1444, 1445; Pub. L. 98–223, title II, § 205(b), Mar. 2, 1984, 98 Stat. 43; Pub. L. 99–576, title IV, § 402(c)(2), Oct. 28, 1986, 100 Stat. 3281; Pub. L. 100–198, §§ 3(b), 7(b), 8(b), Dec. 21, 1987, 101 Stat. 1315, 1318, 1320; Pub. L. 100–253, § 3(b), Feb. 29, 1988, 102 Stat. 20; renumbered § 1812 and amended Pub. L. 100–322, title IV, § 415(b)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, § 313(b)(1), (7), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 101–508, title VIII, § 8031(a), Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, § 14(c)(8), June 13, 1991, 105 Stat. 285; renumbered § 3712 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(v), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, § 6(2), Oct. 28, 1992, 106 Stat. 3636; Pub. L. 103–446, title IX, § 906, title XII, § 1201(e)(14), Nov. 2, 1994, 108 Stat. 4677, 4685; Pub. L. 104–66, title I, § 1141(b), Dec. 21, 1995, 109 Stat. 726; Pub. L. 116–283, div. A, title IX, § 926(a)(48), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 91–506, § 5, Oct. 23, 1970, 84 Stat. 1110, § 1819; amended Pub. L. 93–569, § 5, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §§ 5, 7(20)–(23), June 30, 1976, 90 Stat. 720, 722; Pub. L. 95–476, title I, § 107, Oct. 18, 1978, 92 Stat. 1500; Pub. L. 96–385, title IV, §§ 401(b), 402(c), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 97–66, title V, § 503, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–72, title III, § 303(h), (i), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, § 4(66), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–306, title IV, § 406(a), (c)(2), Oct. 14, 1982, 96 Stat. 1444, 1445; Pub. L. 98–223, title II, § 205(b), Mar. 2, 1984, 98 Stat. 43; Pub. L. 99–576, title IV, § 402(c)(2), Oct. 28, 1986, 100 Stat. 3281; Pub. L. 100–198, §§ 3(b), 7(b), 8(b), Dec. 21, 1987, 101 Stat. 1315, 1318, 1320; Pub. L. 100–253, § 3(b), Feb. 29, 1988, 102 Stat. 20; renumbered § 1812 and amended Pub. L. 100–322, title IV, § 415(b)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, § 313(b)(1), (7), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 101–508, title VIII, § 8031(a), Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, § 14(c)(8), June 13, 1991, 105 Stat. 285; renumbered § 3712 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(v), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, § 6(2), Oct. 28, 1992, 106 Stat. 3636; Pub. L. 103–446, title IX, § 906, title XII, § 1201(e)(14), Nov. 2, 1994, 108 Stat. 4677, 4685; Pub. L. 104–66, title I, § 1141(b), Dec. 21, 1995, 109 Stat. 726; Pub. L. 116–283, div. A, title IX, § 926(a)(48), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -2045,207 +2045,207 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 1995—Subsecs. (*l*), (m). Pub. L. 104–66 redesignated subsec. (m) as (*l*) and struck out former subsec. (*l*) which read as follows: “The Secretary’s annual report to Congress shall include a report on operations under this section, including experience with compliance with the warranty required by subsection (i) and the experience regarding defaults and foreclosures.”
 
-1994—Subsec. (c)(3)(D). Pub. L. 103–446, § 1201(e)(14)(A)(i), inserted “of” after “subparagraph (B)” in introductory provisions.
+1994—Subsec. (c)(3)(D). Pub. L. 103–446, § 1201(e)(14)(A)(i), inserted “of” after “subparagraph (B)” in introductory provisions.
 
-Subsec. (c)(3)(E). Pub. L. 103–446, § 1201(e)(14)(A)(ii), substituted “subparagraph (B)(ii) of this paragraph” for “subparagraph (B)(ii) of this subsection”.
+Subsec. (c)(3)(E). Pub. L. 103–446, § 1201(e)(14)(A)(ii), substituted “subparagraph (B)(ii) of this paragraph” for “subparagraph (B)(ii) of this subsection”.
 
-Subsec. (h)(2). Pub. L. 103–446, § 906(a), amended par. (2) generally. Prior to amendment, par. (2) required the Secretary to inspect the manufacturing process of manufacturers of manufactured homes sold to veterans and provided for the delegation of that function to the Secretary of Housing and Urban Development.
+Subsec. (h)(2). Pub. L. 103–446, § 906(a), amended par. (2) generally. Prior to amendment, par. (2) required the Secretary to inspect the manufacturing process of manufacturers of manufactured homes sold to veterans and provided for the delegation of that function to the Secretary of Housing and Urban Development.
 
-Subsec. (j). Pub. L. 103–446, § 906(b), substituted “in the case of—” and pars. (1) to (3) for “in the case of manufactured homes constructed by any manufacturer who refuses to permit the inspections provided for in subsection (h) of this section; or in the case of manufactured homes which are determined by the Secretary not to conform to the aforesaid standards; or where the manufacturer of manufactured homes fails or is unable to discharge the manufacturer’s obligations under the warranty.”
+Subsec. (j). Pub. L. 103–446, § 906(b), substituted “in the case of—” and pars. (1) to (3) for “in the case of manufactured homes constructed by any manufacturer who refuses to permit the inspections provided for in subsection (h) of this section; or in the case of manufactured homes which are determined by the Secretary not to conform to the aforesaid standards; or where the manufacturer of manufactured homes fails or is unable to discharge the manufacturer’s obligations under the warranty.”
 
-Subsec. (*l*). Pub. L. 103–446, § 906(c), struck out “the results of inspections required by subsection (h) of this section,” after “including” and “of this section” after “subsection (i)”.
+Subsec. (*l*). Pub. L. 103–446, § 906(c), struck out “the results of inspections required by subsection (h) of this section,” after “including” and “of this section” after “subsection (i)”.
 
-Subsec. (m). Pub. L. 103–446, § 1201(e)(14)(B), substituted “sections 3704(d) and 3721 of this title” for “section 3704(d) and section 3721 of this chapter”.
+Subsec. (m). Pub. L. 103–446, § 1201(e)(14)(B), substituted “sections 3704(d) and 3721 of this title” for “section 3704(d) and section 3721 of this chapter”.
 
 1992—Subsec. (a)(4)(A)(iv). Pub. L. 102–547 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “the amount of the guaranty of the loan may not exceed the original guaranty amount of the loan being refinanced;”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1812 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1812 of this title as this section.
 
-Subsec. (a)(4)(A)(iii). Pub. L. 102–83, § 5(c)(1), substituted “3703(c)(3)(A)” for “1803(c)(3)(A)”.
+Subsec. (a)(4)(A)(iii). Pub. L. 102–83, § 5(c)(1), substituted “3703(c)(3)(A)” for “1803(c)(3)(A)”.
 
-Subsec. (a)(4)(B). Pub. L. 102–83, § 5(c)(1), substituted “3702(b)” for “1802(b)”.
+Subsec. (a)(4)(B). Pub. L. 102–83, § 5(c)(1), substituted “3702(b)” for “1802(b)”.
 
-Pub. L. 102–83, § 4(a)(2)(A)(v), substituted “Secretary” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(2)(A)(v), substituted “Secretary” for “Veterans’ Administration”.
 
-Subsec. (a)(5)(A). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)(9)(B)(ii)” for “1810(a)(9)(B)(ii)” in introductory provisions, “3704(c)(2)” for “1804(c)(2)” in cl. (i), and “3703(c)(3)(E)” for “1803(c)(3)(E)” in cl. (ii)(IV).
+Subsec. (a)(5)(A). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)(9)(B)(ii)” for “1810(a)(9)(B)(ii)” in introductory provisions, “3704(c)(2)” for “1804(c)(2)” in cl. (i), and “3703(c)(3)(E)” for “1803(c)(3)(E)” in cl. (ii)(IV).
 
-Subsec. (a)(5)(B). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)(9)(B)(ii)” for “1810(a)(9)(B)(ii)” and “3702(b)” for “1802(b)”.
+Subsec. (a)(5)(B). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)(9)(B)(ii)” for “1810(a)(9)(B)(ii)” and “3702(b)” for “1802(b)”.
 
-Pub. L. 102–83, § 4(a)(2)(A)(v), substituted “Secretary” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(2)(A)(v), substituted “Secretary” for “Veterans’ Administration”.
 
-Subsec. (b)(2). Pub. L. 102–83, § 5(c)(1), substituted “3702(b)” for “1802(b)”.
+Subsec. (b)(2). Pub. L. 102–83, § 5(c)(1), substituted “3702(b)” for “1802(b)”.
 
-Subsec. (c)(1). Pub. L. 102–83, § 5(c)(1), substituted “3702(d)” for “1802(d)”.
+Subsec. (c)(1). Pub. L. 102–83, § 5(c)(1), substituted “3702(d)” for “1802(d)”.
 
-Subsec. (c)(4). Pub. L. 102–83, § 5(c)(1), substituted “3710 or 3711” for “1810 or 1811” and “3710” for “1810”.
+Subsec. (c)(4). Pub. L. 102–83, § 5(c)(1), substituted “3710 or 3711” for “1810 or 1811” and “3710” for “1810”.
 
-Subsec. (c)(5). Pub. L. 102–54, § 14(c)(8)(A), substituted “for purposes specified in this section” for “under this section”.
+Subsec. (c)(5). Pub. L. 102–54, § 14(c)(8)(A), substituted “for purposes specified in this section” for “under this section”.
 
-Subsec. (e)(2). Pub. L. 102–83, § 5(c)(1), substituted “3710(g)” for “1810(g)”.
+Subsec. (e)(2). Pub. L. 102–83, § 5(c)(1), substituted “3710(g)” for “1810(g)”.
 
-Subsec. (e)(5). Pub. L. 102–83, § 5(c)(1), substituted “3704(c)(2)” for “1804(c)(2)”.
+Subsec. (e)(5). Pub. L. 102–83, § 5(c)(1), substituted “3704(c)(2)” for “1804(c)(2)”.
 
-Subsec. (*l*). Pub. L. 102–54, § 14(c)(8)(B), struck out “, beginning 12 months following October 23, 1970,” after “shall”.
+Subsec. (*l*). Pub. L. 102–54, § 14(c)(8)(B), struck out “, beginning 12 months following October 23, 1970,” after “shall”.
 
-Subsec. (m). Pub. L. 102–83, § 5(c)(1), substituted “3704(d)” for “1804(d)” and “3721” for “1821”.
+Subsec. (m). Pub. L. 102–83, § 5(c)(1), substituted “3704(d)” for “1804(d)” and “3721” for “1821”.
 
 1990—Subsec. (c)(3). Pub. L. 101–508 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary’s guaranty may not exceed the lesser of (A) the lesser of $20,000 or 40 percent of the loan, or (B) the maximum amount of guaranty entitlement available to the veteran as specified in paragraph (4) of this subsection. Payment of a claim under such guaranty shall be made only after liquidation of the security for the loan and the filing of an accounting with the Secretary. In any such accounting the Secretary shall permit to be included therein accrued unpaid interest from the date of the first uncured default to such cutoff date as the Secretary may establish, and the Secretary shall allow the holder of the loan to charge against the liquidation or resale proceeds, accrued interest from the cutoff date established to such further date as the Secretary may determine and such costs and expenses as the Secretary determines to be reasonable and proper. The liability of the United States under the guaranty provided for by this section shall decrease or increase pro rata with any decrease or increase of the amount of the unpaid portion of the obligation.”
 
-1989—Subsecs. (a) to (h)(2)(A). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
+1989—Subsecs. (a) to (h)(2)(A). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
 
-Subsec. (h)(2)(B). Pub. L. 101–237, § 313(b)(7), substituted “Secretary of Housing and Urban Development pursuant” for “Secretary pursuant” and substituted “Secretary of Veterans Affairs” for “Administrator” wherever appearing.
+Subsec. (h)(2)(B). Pub. L. 101–237, § 313(b)(7), substituted “Secretary of Housing and Urban Development pursuant” for “Secretary pursuant” and substituted “Secretary of Veterans Affairs” for “Administrator” wherever appearing.
 
-Subsecs. (i) to (*l*). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
+Subsecs. (i) to (*l*). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
 
-1988—Pub. L. 100–322, § 415(b)(4)(C), renumbered section 1819 of this title as this section.
+1988—Pub. L. 100–322, § 415(b)(4)(C), renumbered section 1819 of this title as this section.
 
-Subsecs. (a)(4)(C), (b)(1), (c)(2). Pub. L. 100–322, § 415(b)(4)(A), substituted “for purposes specified in this section” for “under this section”.
+Subsecs. (a)(4)(C), (b)(1), (c)(2). Pub. L. 100–322, § 415(b)(4)(A), substituted “for purposes specified in this section” for “under this section”.
 
-Subsec. (c)(3). Pub. L. 100–322, § 415(b)(4)(B)(i), inserted “as specified in paragraph (4) of this subsection” before period at end.
+Subsec. (c)(3). Pub. L. 100–322, § 415(b)(4)(B)(i), inserted “as specified in paragraph (4) of this subsection” before period at end.
 
-Pub. L. 100–253, § 3(b)(1), substituted “the lesser of (A) the lesser of $20,000 or 40 percent of the loan, or (B) the maximum amount of guaranty entitlement available to the veteran” for “40 percent of the loan, or $20,000, whichever is less, reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 1802(b) of this title”.
+Pub. L. 100–253, § 3(b)(1), substituted “the lesser of (A) the lesser of $20,000 or 40 percent of the loan, or (B) the maximum amount of guaranty entitlement available to the veteran” for “40 percent of the loan, or $20,000, whichever is less, reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 1802(b) of this title”.
 
-Subsec. (c)(4). Pub. L. 100–322, § 415(b)(4)(A), (B)(ii), (iii), substituted “for purposes specified in this section” for “under this section” in two places, “for purposes specified in section 1810” for “under section 1810”, and “for purposes specified in such section 1810” for “under such section 1810”.
+Subsec. (c)(4). Pub. L. 100–322, § 415(b)(4)(A), (B)(ii), (iii), substituted “for purposes specified in this section” for “under this section” in two places, “for purposes specified in section 1810” for “under section 1810”, and “for purposes specified in such section 1810” for “under such section 1810”.
 
-Pub. L. 100–253, § 3(b)(2), substituted “maximum amount of guaranty entitlement available to a veteran under this section shall be $20,000 reduced by the amount of any such entitlement previously used by the veteran” for “amount of any loan guaranteed under this section shall not exceed an amount equal to 95 percent of the purchase price of the property securing such loan”.
+Pub. L. 100–253, § 3(b)(2), substituted “maximum amount of guaranty entitlement available to a veteran under this section shall be $20,000 reduced by the amount of any such entitlement previously used by the veteran” for “amount of any loan guaranteed under this section shall not exceed an amount equal to 95 percent of the purchase price of the property securing such loan”.
 
-Subsec. (c)(5). Pub. L. 100–253, § 3(b)(3), added par. (5).
+Subsec. (c)(5). Pub. L. 100–253, § 3(b)(3), added par. (5).
 
-Subsecs. (d)(1), (e) to (g), (h)(1). Pub. L. 100–322, § 415(b)(4)(A), substituted “for purposes specified in this section” for “under this section”.
+Subsecs. (d)(1), (e) to (g), (h)(1). Pub. L. 100–322, § 415(b)(4)(A), substituted “for purposes specified in this section” for “under this section”.
 
-1987—Subsec. (a)(4)(A)(ii). Pub. L. 100–198, § 7(b)(1), struck out “and such manufactured home (or a manufactured home on such lot) must be owned and occupied by the veteran as such veteran’s home” before semicolon at end.
+1987—Subsec. (a)(4)(A)(ii). Pub. L. 100–198, § 7(b)(1), struck out “and such manufactured home (or a manufactured home on such lot) must be owned and occupied by the veteran as such veteran’s home” before semicolon at end.
 
-Subsec. (a)(4)(A)(vi). Pub. L. 100–198, § 7(b)(2)–(4), added cl. (vi).
+Subsec. (a)(4)(A)(vi). Pub. L. 100–198, § 7(b)(2)–(4), added cl. (vi).
 
-Subsec. (a)(5)(A)(i). Pub. L. 100–198, § 8(b)(1), inserted “(except as provided in section 1804(c)(2) of this title)” after “by the veteran”.
+Subsec. (a)(5)(A)(i). Pub. L. 100–198, § 8(b)(1), inserted “(except as provided in section 1804(c)(2) of this title)” after “by the veteran”.
 
-Subsec. (c)(3). Pub. L. 100–198, § 3(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The Administrator’s guaranty may not exceed the lesser of 50 per centum of the loan amount or the maximum loan guaranty entitlement available, not to exceed $20,000.”
+Subsec. (c)(3). Pub. L. 100–198, § 3(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The Administrator’s guaranty may not exceed the lesser of 50 per centum of the loan amount or the maximum loan guaranty entitlement available, not to exceed $20,000.”
 
-Subsec. (c)(4). Pub. L. 100–198, § 3(b)(2), amended first sentence generally. Prior to amendment, first sentence read as follows: “The amount of guaranty entitlement available to a veteran under this section shall not be more than $20,000, less the amount of any such entitlement as may have been used under this section.”
+Subsec. (c)(4). Pub. L. 100–198, § 3(b)(2), amended first sentence generally. Prior to amendment, first sentence read as follows: “The amount of guaranty entitlement available to a veteran under this section shall not be more than $20,000, less the amount of any such entitlement as may have been used under this section.”
 
-Subsec. (e)(5). Pub. L. 100–198, § 8(b)(2), inserted before semicolon at end “; except that the requirement of this clause shall not apply (A) in the case of a guaranteed loan that is for the purpose described in paragraph (1)(F) of subsection (a), or (B) in the case described in section 1804(c)(2)”.
+Subsec. (e)(5). Pub. L. 100–198, § 8(b)(2), inserted before semicolon at end “; except that the requirement of this clause shall not apply (A) in the case of a guaranteed loan that is for the purpose described in paragraph (1)(F) of subsection (a), or (B) in the case described in section 1804(c)(2)”.
 
 1986—Subsec. (e)(2). Pub. L. 99–576 inserted “as determined in accordance with the regulations prescribed under section 1810(g) of this title and” after “credit risk”.
 
 1984—Subsec. (a)(5). Pub. L. 98–223 inserted “or section 1810(a)(9)(B)(ii) of this title” after “paragraph (1)(G) of this subsection” in two places.
 
-1982—Pub. L. 97–306, § 406(c)(2)(C), substituted “Loans to purchase manufactured homes and lots” for “Loans to purchase mobile homes and mobile home lots” in section catchline.
+1982—Pub. L. 97–306, § 406(c)(2)(C), substituted “Loans to purchase manufactured homes and lots” for “Loans to purchase mobile homes and mobile home lots” in section catchline.
 
-Subsec. (a)(1)(A) to (E). Pub. L. 97–306, § 406(c)(2)(A), substituted “manufactured” for “mobile” wherever appearing.
+Subsec. (a)(1)(A) to (E). Pub. L. 97–306, § 406(c)(2)(A), substituted “manufactured” for “mobile” wherever appearing.
 
-Subsec. (a)(1)(G). Pub. L. 97–306, § 406(a)(1), added cl. (G).
+Subsec. (a)(1)(G). Pub. L. 97–306, § 406(a)(1), added cl. (G).
 
-Subsec. (a)(2). Pub. L. 97–306, § 406(a)(2), (c)(2)(A), inserted “(other than the refinancing under clause (F) of such paragraph of an existing loan)” after “subsection” and substituted “manufactured” for “mobile”.
+Subsec. (a)(2). Pub. L. 97–306, § 406(a)(2), (c)(2)(A), inserted “(other than the refinancing under clause (F) of such paragraph of an existing loan)” after “subsection” and substituted “manufactured” for “mobile”.
 
-Subsec. (a)(3). Pub. L. 97–306, § 406(a)(3), (c)(2)(A), substituted “(C), (E), or (G)” for “(C) or (E)”, and “manufactured” for “mobile”.
+Subsec. (a)(3). Pub. L. 97–306, § 406(a)(3), (c)(2)(A), substituted “(C), (E), or (G)” for “(C) or (E)”, and “manufactured” for “mobile”.
 
-Subsec. (a)(4)(A)(ii). Pub. L. 97–306, § 406(c)(2)(A), (B), substituted “manufactured” for “mobile”, wherever appearing and “manufactured-home” for “mobile-home” wherever appearing.
+Subsec. (a)(4)(A)(ii). Pub. L. 97–306, § 406(c)(2)(A), (B), substituted “manufactured” for “mobile”, wherever appearing and “manufactured-home” for “mobile-home” wherever appearing.
 
-Subsec. (a)(5). Pub. L. 97–306, § 406(a)(4), added par. (5).
+Subsec. (a)(5). Pub. L. 97–306, § 406(a)(4), added par. (5).
 
-Subsecs. (b)(1), (c)(1), (d)(1)(B), (C), (D), (e)(3), (4)(A), (B), (6), (f), (h) to (k). Pub. L. 97–306, § 406(c)(2)(A), substituted “manufactured” for “mobile” wherever appearing.
+Subsecs. (b)(1), (c)(1), (d)(1)(B), (C), (D), (e)(3), (4)(A), (B), (6), (f), (h) to (k). Pub. L. 97–306, § 406(c)(2)(A), substituted “manufactured” for “mobile” wherever appearing.
 
 Subsec. (*l*). Pub. L. 97–295 substituted “October 23, 1970” for “the date of enactment of the Veterans’ Housing Act of 1970”.
 
-Subsec. (m). Pub. L. 97–306, § 406(c)(2)(A), substituted “manufactured” for “mobile” wherever appearing.
+Subsec. (m). Pub. L. 97–306, § 406(c)(2)(A), substituted “manufactured” for “mobile” wherever appearing.
 
-1981—Subsec. (a)(1). Pub. L. 97–72, § 303(h), substituted “housing loan benefits” for “benefits”.
+1981—Subsec. (a)(1). Pub. L. 97–72, § 303(h), substituted “housing loan benefits” for “benefits”.
 
-Subsec. (b)(2). Pub. L. 97–72, § 303(i), substituted “housing loan benefits” for “loan guaranty benefits”.
+Subsec. (b)(2). Pub. L. 97–72, § 303(i), substituted “housing loan benefits” for “loan guaranty benefits”.
 
 Subsec. (d)(1). Pub. L. 97–66 increased from 15 years, 32 days to 20 years, 32 days the allowable maturity of a loan for purchase of a single-wide mobile home or a single-wide mobile home and a lot, from 20 years, 32 days to 23 years, 32 days the allowable maturity of a loan for purchase of a double-wide mobile home, and from 20 years, 32 days to 25 years, 32 days the allowable maturity of a loan for purchase of a double-wide mobile home and a lot.
 
-1980—Subsec. (a)(1)(F). Pub. L. 96–385, § 401(b)(1), added cl. (F).
+1980—Subsec. (a)(1)(F). Pub. L. 96–385, § 401(b)(1), added cl. (F).
 
-Subsec. (a)(4). Pub. L. 96–385, § 401(b)(2), added par. (4).
+Subsec. (a)(4). Pub. L. 96–385, § 401(b)(2), added par. (4).
 
-Subsec. (c)(3), (4). Pub. L. 96–385, § 402(c), substituted “$20,000” for “$17,500” once in par. (3) and twice in par. (4).
+Subsec. (c)(3), (4). Pub. L. 96–385, § 402(c), substituted “$20,000” for “$17,500” once in par. (3) and twice in par. (4).
 
-1978—Subsec. (a). Pub. L. 95–476, § 107(a), substituted provisions that loans to eligible veterans could be guaranteed if such loans were for certain approved purposes, that such loans for any approved purpose could include an amount determined by the Administrator to be appropriate to cover the cost of necessary lot preparation, and that any loan under cls. (C) or (E) of par. (1) were to be considered one loan, evidenced either by a single instrument or separate instruments for the portions of the loan financing the purchase of the mobile home and the purchase and preparation of the lot for provision that any eligible veteran who had maximum entitlement available for use would be eligible for either the mobile home loan guaranty benefit or the mobile home lot loan guaranty benefit or both but that use of either would preclude use of any home loan guaranty entitlement under any other section until the loan guaranteed under this section had been paid in full.
+1978—Subsec. (a). Pub. L. 95–476, § 107(a), substituted provisions that loans to eligible veterans could be guaranteed if such loans were for certain approved purposes, that such loans for any approved purpose could include an amount determined by the Administrator to be appropriate to cover the cost of necessary lot preparation, and that any loan under cls. (C) or (E) of par. (1) were to be considered one loan, evidenced either by a single instrument or separate instruments for the portions of the loan financing the purchase of the mobile home and the purchase and preparation of the lot for provision that any eligible veteran who had maximum entitlement available for use would be eligible for either the mobile home loan guaranty benefit or the mobile home lot loan guaranty benefit or both but that use of either would preclude use of any home loan guaranty entitlement under any other section until the loan guaranteed under this section had been paid in full.
 
-Subsec. (b)(1). Pub. L. 95–476, § 107(a), substituted provision that use of benefit entitlement under this section for purchase of a mobile home unit would preclude use of any remainder of entitlement for purchase of an additional mobile home unit until the first unit had been disposed of or destroyed by natural hazard for provision that a loan to purchase a mobile home under this section could include amounts to finance purchase of lot and necessary preparation of lot.
+Subsec. (b)(1). Pub. L. 95–476, § 107(a), substituted provision that use of benefit entitlement under this section for purchase of a mobile home unit would preclude use of any remainder of entitlement for purchase of an additional mobile home unit until the first unit had been disposed of or destroyed by natural hazard for provision that a loan to purchase a mobile home under this section could include amounts to finance purchase of lot and necessary preparation of lot.
 
-Subsec. (b)(2). Pub. L. 95–476, § 107(a), substituted provision authorizing Administrator to restore full benefit entitlement to a veteran under this chapter when conditions prescribed in section 1802(b) of this title had been met for provision authorizing loans to purchase and prepare a mobile home lot when veteran already owned such a mobile home.
+Subsec. (b)(2). Pub. L. 95–476, § 107(a), substituted provision authorizing Administrator to restore full benefit entitlement to a veteran under this chapter when conditions prescribed in section 1802(b) of this title had been met for provision authorizing loans to purchase and prepare a mobile home lot when veteran already owned such a mobile home.
 
-Subsec. (c)(1). Pub. L. 95–476, § 107(b)(1), struck out provisions relating to eligible purposes of mobile home loans under this section.
+Subsec. (c)(1). Pub. L. 95–476, § 107(b)(1), struck out provisions relating to eligible purposes of mobile home loans under this section.
 
-Subsec. (c)(3). Pub. L. 95–476, § 107(b)(2), substituted provision limiting liability of Administrator under loan guaranty to a maximum of lesser of 50 per centum of loan amount or maximum loan guaranty entitlement available, not to exceed $17,500, for provision limiting Administrator’s guaranty to a maximum of 50 per centum of loan amount.
+Subsec. (c)(3). Pub. L. 95–476, § 107(b)(2), substituted provision limiting liability of Administrator under loan guaranty to a maximum of lesser of 50 per centum of loan amount or maximum loan guaranty entitlement available, not to exceed $17,500, for provision limiting Administrator’s guaranty to a maximum of 50 per centum of loan amount.
 
-Subsec. (c)(4). Pub. L. 95–476, § 107(b)(3), added par. (4).
+Subsec. (c)(4). Pub. L. 95–476, § 107(b)(3), added par. (4).
 
-Subsec. (d). Pub. L. 95–476, § 107(c), struck out provisions establishing maximum loan amounts for guaranteed mobile home loans and increased maturity for single-wide mobile home loans and lot-only loans from 12 years and 32 days to 15 years and 32 days.
+Subsec. (d). Pub. L. 95–476, § 107(c), struck out provisions establishing maximum loan amounts for guaranteed mobile home loans and increased maturity for single-wide mobile home loans and lot-only loans from 12 years and 32 days to 15 years and 32 days.
 
-Subsec. (e)(4). Pub. L. 95–476, § 107(d), substituted provisions authorizing Administrator to determine reasonable maximum loan amounts for purchase of new or used mobile homes and purchase and preparation of mobile home lots for provision requiring, as a condition to guaranty, that loans not exceed certain maximum loan amounts for such purchases or preparation.
+Subsec. (e)(4). Pub. L. 95–476, § 107(d), substituted provisions authorizing Administrator to determine reasonable maximum loan amounts for purchase of new or used mobile homes and purchase and preparation of mobile home lots for provision requiring, as a condition to guaranty, that loans not exceed certain maximum loan amounts for such purchases or preparation.
 
-Subsec. (g). Pub. L. 95–476, § 107(e), redesignated subsec. (h) as (g). Former subsec. (g), limiting to a single time the restoration of loan guaranty entitlement for any veteran for the purchase of a mobile home, was struck out.
+Subsec. (g). Pub. L. 95–476, § 107(e), redesignated subsec. (h) as (g). Former subsec. (g), limiting to a single time the restoration of loan guaranty entitlement for any veteran for the purchase of a mobile home, was struck out.
 
-Subsec. (h)(1). Pub. L. 95–476, § 107(e), (f), redesignated subsec. (i) as (h)(1) and struck out provision authorizing the Administrator to inspect the mobile home manufacturing process periodically as well as on-site inspections of existing mobile home units to assure compliance with certain standards of planning, construction, and general acceptability. Former subsec. (h) redesignated (g).
+Subsec. (h)(1). Pub. L. 95–476, § 107(e), (f), redesignated subsec. (i) as (h)(1) and struck out provision authorizing the Administrator to inspect the mobile home manufacturing process periodically as well as on-site inspections of existing mobile home units to assure compliance with certain standards of planning, construction, and general acceptability. Former subsec. (h) redesignated (g).
 
-Subsec. (h)(2). Pub. L. 95–476, § 107(f), added par. (2).
+Subsec. (h)(2). Pub. L. 95–476, § 107(f), added par. (2).
 
-Subsec. (i). Pub. L. 95–476, § 107(e), (g)(1), redesignated subsec. (j) as (i) and substituted “subsection (h)” for “subsection (i)”. Former subsec. (i) redesignated (h).
+Subsec. (i). Pub. L. 95–476, § 107(e), (g)(1), redesignated subsec. (j) as (i) and substituted “subsection (h)” for “subsection (i)”. Former subsec. (i) redesignated (h).
 
-Subsec. (j). Pub. L. 95–476, § 107(e), (g)(1), redesignated subsec. (k) as (j) and substituted “subsection (h)” for “subsection (i)”. Former subsec. (j) redesignated (i).
+Subsec. (j). Pub. L. 95–476, § 107(e), (g)(1), redesignated subsec. (k) as (j) and substituted “subsection (h)” for “subsection (i)”. Former subsec. (j) redesignated (i).
 
-Subsec. (k). Pub. L. 95–476, § 107(e), redesignated subsec. (*l*) as (k). Former subsec. (k) redesignated (j).
+Subsec. (k). Pub. L. 95–476, § 107(e), redesignated subsec. (*l*) as (k). Former subsec. (k) redesignated (j).
 
-Subsec. (*l*). Pub. L. 95–476, § 107(e), (g), redesignated subsec. (m) as (*l*) and substituted “subsection (h)” and “subsection (i)” for “subsection (i)” and “subsection (j)”, respectively. Former subsec. (*l*) redesignated (k).
+Subsec. (*l*). Pub. L. 95–476, § 107(e), (g), redesignated subsec. (m) as (*l*) and substituted “subsection (h)” and “subsection (i)” for “subsection (i)” and “subsection (j)”, respectively. Former subsec. (*l*) redesignated (k).
 
-Subsecs. (m), (n). Pub. L. 95–476, § 107(e), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (*l*).
+Subsecs. (m), (n). Pub. L. 95–476, § 107(e), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (*l*).
 
-1976—Subsec. (c)(1). Pub. L. 94–324, § 7(20), substituted “the Administrator determines” for “he determines”.
+1976—Subsec. (c)(1). Pub. L. 94–324, § 7(20), substituted “the Administrator determines” for “he determines”.
 
-Subsec. (c)(3). Pub. L. 94–324, §§ 5, 7(20), increased amount of Administrator’s guaranty from 30 per centum of the loan to 50 per centum of the loan and substituted “the Administrator” for “he” wherever appearing.
+Subsec. (c)(3). Pub. L. 94–324, §§ 5, 7(20), increased amount of Administrator’s guaranty from 30 per centum of the loan to 50 per centum of the loan and substituted “the Administrator” for “he” wherever appearing.
 
-Subsec. (d)(1). Pub. L. 94–324, § 7(21), substituted “the Administrator’s” for “his”.
+Subsec. (d)(1). Pub. L. 94–324, § 7(21), substituted “the Administrator’s” for “his”.
 
-Subsec. (d)(3). Pub. L. 94–324, § 7(21), substituted “the Administrator shall” for “he shall”.
+Subsec. (d)(3). Pub. L. 94–324, § 7(21), substituted “the Administrator shall” for “he shall”.
 
-Subsec. (e)(4). Pub. L. 94–324, § 7(22), substituted “subsection” for “subparagraph”.
+Subsec. (e)(4). Pub. L. 94–324, § 7(22), substituted “subsection” for “subparagraph”.
 
-Subsec. (e)(5). Pub. L. 94–324, § 7(22), substituted “the veteran will” for “he will” and “the veteran’s” for “his”.
+Subsec. (e)(5). Pub. L. 94–324, § 7(22), substituted “the veteran will” for “he will” and “the veteran’s” for “his”.
 
-Subsec. (f). Pub. L. 94–324, § 7(23), substituted “the Administrator determines” for “he determines”.
+Subsec. (f). Pub. L. 94–324, § 7(23), substituted “the Administrator determines” for “he determines”.
 
-Subsec. (h). Pub. L. 94–324, § 7(23), substituted “the Administrator determines” for “he determines” in two places and “the Administrator has” for “he has”.
+Subsec. (h). Pub. L. 94–324, § 7(23), substituted “the Administrator determines” for “he determines” in two places and “the Administrator has” for “he has”.
 
-Subsec. (k). Pub. L. 94–324, § 7(23), substituted “the manufacturer’s obligations” for “his obligations”.
+Subsec. (k). Pub. L. 94–324, § 7(23), substituted “the manufacturer’s obligations” for “his obligations”.
 
-Subsec. (*l*). Pub. L. 94–324, § 7(23), substituted “the Administrator determines” for “he determines”.
+Subsec. (*l*). Pub. L. 94–324, § 7(23), substituted “the Administrator determines” for “he determines”.
 
-1974—Subsec. (a). Pub. L. 93–569, § 5(1), inserted “or the mobile home lot loan guaranty benefit, or both,” after “loan guaranty benefit” wherever appearing, and struck out “mobile home” before “loan guaranteed under this section”.
+1974—Subsec. (a). Pub. L. 93–569, § 5(1), inserted “or the mobile home lot loan guaranty benefit, or both,” after “loan guaranty benefit” wherever appearing, and struck out “mobile home” before “loan guaranteed under this section”.
 
-Subsec. (b)(1). Pub. L. 93–569, § 5(2), designated existing provisions as subsec. (b)(1) and redesignated cls. (1) and (2) as (A) and (B), respectively.
+Subsec. (b)(1). Pub. L. 93–569, § 5(2), designated existing provisions as subsec. (b)(1) and redesignated cls. (1) and (2) as (A) and (B), respectively.
 
-Subsec. (b)(2). Pub. L. 93–569, § 5(2), added par. (2).
+Subsec. (b)(2). Pub. L. 93–569, § 5(2), added par. (2).
 
-Subsec. (c)(1). Pub. L. 93–569, § 5(3), (4), redesignated cls. (1) and (2) as (A) and (B), respectively, and in cl. (A) as so redesignated, inserted provision relating to purchase of a lot on which to place a mobile home previously purchased by the veteran, whether or not such mobile home was purchased with a loan guaranteed, insured or made by another Federal agency, and substituted “or for the purchase of a used mobile home which meets or exceeds minimum requirements for construction, design, and general acceptability prescribed by the Administrator,” for “or for the purchase of a used mobile home which is the security for a prior loan guaranteed or made under this section or for a loan guaranteed, insured or made by another Federal agency.”
+Subsec. (c)(1). Pub. L. 93–569, § 5(3), (4), redesignated cls. (1) and (2) as (A) and (B), respectively, and in cl. (A) as so redesignated, inserted provision relating to purchase of a lot on which to place a mobile home previously purchased by the veteran, whether or not such mobile home was purchased with a loan guaranteed, insured or made by another Federal agency, and substituted “or for the purchase of a used mobile home which meets or exceeds minimum requirements for construction, design, and general acceptability prescribed by the Administrator,” for “or for the purchase of a used mobile home which is the security for a prior loan guaranteed or made under this section or for a loan guaranteed, insured or made by another Federal agency.”
 
-Subsec. (d)(1). Pub. L. 93–569, § 5(5), substituted “, whether or not the mobile home was financed with assistance under this section, and in the case of necessary site preparation, the loan amount for such purposes may not exceed the reasonable value of such lot” for “financed through the assistance of this section and in the case of necessary site preparation, the loan amount shall not be increased by an amount in excess of the reasonable value of such lot”.
+Subsec. (d)(1). Pub. L. 93–569, § 5(5), substituted “, whether or not the mobile home was financed with assistance under this section, and in the case of necessary site preparation, the loan amount for such purposes may not exceed the reasonable value of such lot” for “financed through the assistance of this section and in the case of necessary site preparation, the loan amount shall not be increased by an amount in excess of the reasonable value of such lot”.
 
-Subsec. (d)(2)(A). Pub. L. 93–569, § 5(6), substituted “$12,500” for “$10,000,” and “single wide mobile home only” for “mobile home only,”.
+Subsec. (d)(2)(A). Pub. L. 93–569, § 5(6), substituted “$12,500” for “$10,000,” and “single wide mobile home only” for “mobile home only,”.
 
-Subsec. (d)(2)(B). Pub. L. 93–569, § 5(6), increased from $15,000 to $20,000, and from fifteen years and thirty-two days to twenty years and thirty-two days the amount and period of the loan, struck out the $10,000 maximum allowable amount for the mobile home, and restricted the amount of the loan to the purchase of a double-wide mobile home instead of a mobile home and undeveloped lot.
+Subsec. (d)(2)(B). Pub. L. 93–569, § 5(6), increased from $15,000 to $20,000, and from fifteen years and thirty-two days to twenty years and thirty-two days the amount and period of the loan, struck out the $10,000 maximum allowable amount for the mobile home, and restricted the amount of the loan to the purchase of a double-wide mobile home instead of a mobile home and undeveloped lot.
 
-Subsec. (d)(2)(C). Pub. L. 93–569, § 5(6), substituted “$20,000” for “$17,500,” “$12,500” for “$10,000,” “single-wide mobile home” for “mobile home” and “an undeveloped lot” for “a suitably developed lot,” and inserted provision including such amount as is appropriate to cover cost of site preparation.
+Subsec. (d)(2)(C). Pub. L. 93–569, § 5(6), substituted “$20,000” for “$17,500,” “$12,500” for “$10,000,” “single-wide mobile home” for “mobile home” and “an undeveloped lot” for “a suitably developed lot,” and inserted provision including such amount as is appropriate to cover cost of site preparation.
 
-Subsec. (d)(2)(D) to (H). Pub. L. 93–569, § 5(6), added subpars. (D) to (H).
+Subsec. (d)(2)(D) to (H). Pub. L. 93–569, § 5(6), added subpars. (D) to (H).
 
-Subsec. (e)(3). Pub. L. 93–569, § 5(7), inserted “purchased with the proceeds of the loan and on” after “mobile home”.
+Subsec. (e)(3). Pub. L. 93–569, § 5(7), inserted “purchased with the proceeds of the loan and on” after “mobile home”.
 
-Subsec. (f). Pub. L. 93–569, § 5(8), inserted “and mobile home lot loans” after “loans”.
+Subsec. (f). Pub. L. 93–569, § 5(8), inserted “and mobile home lot loans” after “loans”.
 
-Subsec. (i). Pub. L. 93–569, § 5(9), inserted provision prohibiting the guarantee of a loan for the purchase of a lot on which to place a mobile home unless the lot meets prescribed standards.
+Subsec. (i). Pub. L. 93–569, § 5(9), inserted provision prohibiting the guarantee of a loan for the purchase of a lot on which to place a mobile home unless the lot meets prescribed standards.
 
-Subsec. (n). Pub. L. 93–569, § 5(10), inserted “and mobile home lot loans” after “mobile home loans”.
+Subsec. (n). Pub. L. 93–569, § 5(10), inserted “and mobile home lot loans” after “mobile home loans”.
 
-Subsec. (*o*). Pub. L. 93–569, § 5(11), struck out subsec. (*o*) which prohibited the making or guaranteeing of loans on and after July 1, 1975, except upon prior commitment.
+Subsec. (*o*). Pub. L. 93–569, § 5(11), struck out subsec. (*o*) which prohibited the making or guaranteeing of loans on and after July 1, 1975, except upon prior commitment.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title VIII, § 8031(b), Nov. 5, 1990, 104 Stat. 1388–348, provided that: “The amendment made by this section [amending this section] shall apply to claims filed with the Secretary of Veterans Affairs on or after the date of the enactment of this Act [Nov. 5, 1990].”
+Pub. L. 101–508, title VIII, § 8031(b), Nov. 5, 1990, 104 Stat. 1388–348, provided that: “The amendment made by this section [amending this section] shall apply to claims filed with the Secretary of Veterans Affairs on or after the date of the enactment of this Act [Nov. 5, 1990].”
 
 **Effective Date of 1988 Amendment**
 
@@ -2283,9 +2283,9 @@ Amendment by Pub. L. 93–569 effective Dec. 31, 1974, see section 10 of Pub. L.
 
 **Effective Date**
 
-Pub. L. 91–506, § 8, Oct. 23, 1970, 84 Stat. 1114, provided that: “Section 5 of this Act [enacting this section] shall become effective sixty days following the date of enactment [Oct. 23, 1970].”
+Pub. L. 91–506, § 8, Oct. 23, 1970, 84 Stat. 1114, provided that: “Section 5 of this Act [enacting this section] shall become effective sixty days following the date of enactment [Oct. 23, 1970].”
 
-### § 3713. Release from liability under guaranty
+### § 3713. Release from liability under guaranty
 
 **(a)** Whenever any veteran disposes of residential property securing a guaranteed, insured, or direct housing loan obtained by the veteran, the Secretary, upon application made by such veteran and by the transferee incident to such disposal, shall issue to such veteran in connection with such disposal a release relieving the veteran of all further liability to the Secretary on account of such loan (including liability for any loss resulting from any default of the transferee or any subsequent purchaser of such property) if the Secretary has determined, after such investigation as the Secretary may deem appropriate, that (1) the loan is current, and (2) the purchaser of such property from such veteran (A) is obligated by contract to purchase such property and to assume full liability for the repayment of the balance of the loan remaining unpaid, and has assumed by contract all of the obligations of the veteran under the terms of the instruments creating and securing the loan, and (B) qualifies from a credit standpoint, to the same extent as if the transferee were a veteran eligible for purposes specified in section 3710 of this title, for a guaranteed or insured or direct loan in an amount equal to the unpaid balance of the obligation for which the transferee has assumed liability.
 
@@ -2293,7 +2293,7 @@ Pub. L. 91–506, § 8, Oct. 23, 1970, 84 Stat. 1114, provided that: “Sectio
 
 **(c)** This section shall apply only to loans for which commitments are made before March 1, 1988.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, § 1817; Pub. L. 92–328, title II, § 204, June 30, 1972, 86 Stat. 397; Pub. L. 94–324, § 7(18), (19), June 30, 1976, 90 Stat. 722; Pub. L. 97–72, title III, § 303(f), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 100–198, § 10(a)(2), Dec. 21, 1987, 101 Stat. 1323; renumbered § 1813 and amended Pub. L. 100–322, title IV, § 415(b)(2), May 20, 1988, 102 Stat. 550; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 3713 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, § 1201(e)(15), Nov. 2, 1994, 108 Stat. 4686.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, § 1817; Pub. L. 92–328, title II, § 204, June 30, 1972, 86 Stat. 397; Pub. L. 94–324, § 7(18), (19), June 30, 1976, 90 Stat. 722; Pub. L. 97–72, title III, § 303(f), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 100–198, § 10(a)(2), Dec. 21, 1987, 101 Stat. 1323; renumbered § 1813 and amended Pub. L. 100–322, title IV, § 415(b)(2), May 20, 1988, 102 Stat. 550; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 3713 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, § 1201(e)(15), Nov. 2, 1994, 108 Stat. 4686.)
 
 **Editorial Notes**
 
@@ -2301,27 +2301,27 @@ Pub. L. 91–506, § 8, Oct. 23, 1970, 84 Stat. 1114, provided that: “Sectio
 
 1994—Subsec. (b). Pub. L. 103–446 before period at end substituted “section 5302(b) of this title, if the veteran is eligible for relief under that section” for “subsection 5302(b) of this title, if eligible thereunder”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1813 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1813 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3710” for “1810”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3710” for “1810”.
 
 Subsec. (b). Pub. L. 102–40 substituted “5302(b)” for “3102(b)”.
 
 1989—Subsecs. (a), (b). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Pub. L. 100–322, § 415(b)(2)(B), renumbered section 1817 of this title as this section.
+1988—Pub. L. 100–322, § 415(b)(2)(B), renumbered section 1817 of this title as this section.
 
-Subsec. (a). Pub. L. 100–322, § 415(b)(2)(A), substituted “for purposes specified in section 1810” for “under section 1810”.
+Subsec. (a). Pub. L. 100–322, § 415(b)(2)(A), substituted “for purposes specified in section 1810” for “under section 1810”.
 
 1987—Subsec. (c). Pub. L. 100–198 added subsec. (c).
 
-1981—Subsec. (a). Pub. L. 97–72, § 303(f)(1), substituted “direct housing loan” for “direct loan”.
+1981—Subsec. (a). Pub. L. 97–72, § 303(f)(1), substituted “direct housing loan” for “direct loan”.
 
-Subsec. (b). Pub. L. 97–72, § 303(f)(2), substituted “or direct housing loan obtained” for “or direct loan obtained”.
+Subsec. (b). Pub. L. 97–72, § 303(f)(2), substituted “or direct housing loan obtained” for “or direct loan obtained”.
 
-1976—Subsec. (a). Pub. L. 94–324, § 7(18), substituted “the veteran” for “him” in two places, “the Administrator may deem” for “he may deem”, “the transferee were a veteran” for “he were a veteran”, “the transferee has assumed” for “he has assumed”, and “is obligated” for “has obligated himself”.
+1976—Subsec. (a). Pub. L. 94–324, § 7(18), substituted “the veteran” for “him” in two places, “the Administrator may deem” for “he may deem”, “the transferee were a veteran” for “he were a veteran”, “the transferee has assumed” for “he has assumed”, and “is obligated” for “has obligated himself”.
 
-Subsec. (b). Pub. L. 94–324, § 7(19), substituted “obtained by the veteran” for “obtained by him”, “the Administrator determines” for “he determines”, and “the Administrator deems” for “he deems”.
+Subsec. (b). Pub. L. 94–324, § 7(19), substituted “obtained by the veteran” for “obtained by him”, “the Administrator determines” for “he determines”, and “the Administrator deems” for “he deems”.
 
 1972—Pub. L. 92–328 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -2337,9 +2337,9 @@ Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. 
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–328, title III, § 301(c), June 30, 1972, 86 Stat. 398, provided that: “Sections 201 through 206 of this Act [amending this section and sections 210, 1820 [now 3720], 3102 [now 5302], and 3503 [now 6103] of this title, and enacting provisions set out as a note under section 5302 of this title] shall take effect upon the date of enactment of this Act [June 30, 1972].”
+Pub. L. 92–328, title III, § 301(c), June 30, 1972, 86 Stat. 398, provided that: “Sections 201 through 206 of this Act [amending this section and sections 210, 1820 [now 3720], 3102 [now 5302], and 3503 [now 6103] of this title, and enacting provisions set out as a note under section 5302 of this title] shall take effect upon the date of enactment of this Act [June 30, 1972].”
 
-### § 3714. Assumptions; release from liability
+### § 3714. Assumptions; release from liability
 
 **(a)**
 
@@ -2407,7 +2407,7 @@ the holder may demand immediate, full payment of the principal, and all interest
 
 **(2)** This section shall not apply to a loan which the Secretary has sold without recourse.
 
-(Added Pub. L. 100–198, § 10(a)(1), Dec. 21, 1987, 101 Stat. 1321, § 1817A; renumbered § 1814, Pub. L. 100–322, title IV, § 415(b)(2)(B), May 20, 1988, 102 Stat. 551; amended Pub. L. 100–689, title III, § 302, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3714 and amended Pub. L. 102–83, §§ 4(a)(2)(B)(iv), (3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 404, 406; Pub. L. 105–368, title X, § 1005(b)(10), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–103, title IV, § 403, Dec. 27, 2001, 115 Stat. 993.)
+(Added Pub. L. 100–198, § 10(a)(1), Dec. 21, 1987, 101 Stat. 1321, § 1817A; renumbered § 1814, Pub. L. 100–322, title IV, § 415(b)(2)(B), May 20, 1988, 102 Stat. 551; amended Pub. L. 100–689, title III, § 302, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3714 and amended Pub. L. 102–83, §§ 4(a)(2)(B)(iv), (3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 404, 406; Pub. L. 105–368, title X, § 1005(b)(10), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–103, title IV, § 403, Dec. 27, 2001, 115 Stat. 993.)
 
 **Editorial Notes**
 
@@ -2417,33 +2417,33 @@ the holder may demand immediate, full payment of the principal, and all interest
 
 1998—Subsec. (f)(1)(B). Pub. L. 105–368 substituted “after January 1, 1989” for “more than 45 days after the date of the enactment of the Veterans’ Benefits and Programs Improvement Act of 1988”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1814 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1814 of this title as this section.
 
-Subsec. (a)(1)(B)(ii). Pub. L. 102–83, § 5(c)(1), substituted “3710” for “1810”.
+Subsec. (a)(1)(B)(ii). Pub. L. 102–83, § 5(c)(1), substituted “3710” for “1810”.
 
-Subsec. (a)(2). Pub. L. 102–83, § 5(c)(1), substituted “3702” for “1802”.
+Subsec. (a)(2). Pub. L. 102–83, § 5(c)(1), substituted “3702” for “1802”.
 
-Subsec. (a)(4)(B)(ii)(I). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (a)(4)(B)(ii)(I). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (d). Pub. L. 102–83, § 4(a)(2)(B)(iv), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+Subsec. (d). Pub. L. 102–83, § 4(a)(2)(B)(iv), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-Subsec. (f)(1)(A). Pub. L. 102–83, § 5(c)(1), substituted “3733(a)(1)” for “1833(a)(1)”.
+Subsec. (f)(1)(A). Pub. L. 102–83, § 5(c)(1), substituted “3733(a)(1)” for “1833(a)(1)”.
 
-1989—Subsecs. (a), (c) to (f). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
+1989—Subsecs. (a), (c) to (f). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Pub. L. 100–322, § 415(b)(2)(B), renumbered section 1817A of this title as this section.
+1988—Pub. L. 100–322, § 415(b)(2)(B), renumbered section 1817A of this title as this section.
 
-Subsec. (a)(1). Pub. L. 100–689, § 302(1), substituted “Except as provided in subsection (f) of this section, if” for “If” and “loan guaranteed, insured, or made” for “guaranteed, insured, or direct housing loan obtained by a veteran”.
+Subsec. (a)(1). Pub. L. 100–689, § 302(1), substituted “Except as provided in subsection (f) of this section, if” for “If” and “loan guaranteed, insured, or made” for “guaranteed, insured, or direct housing loan obtained by a veteran”.
 
-Subsec. (f). Pub. L. 100–689, § 302(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “This section shall apply only to loans for which commitments are made on or after March 1, 1988.”
+Subsec. (f). Pub. L. 100–689, § 302(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “This section shall apply only to loans for which commitments are made on or after March 1, 1988.”
 
-### [§§ 3715 to 3719. Vacant]
+### [§§ 3715 to 3719. Vacant]
 
 **Editorial Notes**
 
 **Codification**
 
-Prior to renumbering of sections 1801 to 1851 of this chapter as sections 3701 to 3751 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, sections 1815 to 1817A and 1819 of this chapter were renumbered and section 1818 of this chapter was repealed.
+Prior to renumbering of sections 1801 to 1851 of this chapter as sections 3701 to 3751 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, sections 1815 to 1817A and 1819 of this chapter were renumbered and section 1818 of this chapter was repealed.
 
 Section 1815 was renumbered section 1803(a)(2) of this title.
 
@@ -2453,13 +2453,13 @@ Section 1817 was renumbered section 1813 of this title.
 
 Section 1817A was renumbered section 1814 of this title.
 
-Section 1818, added Pub. L. 89–358, § 5(a), Mar. 3, 1966, 80 Stat. 25; amended Pub. L. 91–506, § 2(e), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, § 8(6), (7), Dec. 31, 1974, 88 Stat. 1866, 1867; Pub. L. 94–324, § 4, June 30, 1976, 90 Stat. 720; Pub. L. 95–476, title I, § 106(a), Oct. 18, 1978, 92 Stat. 1499; Pub. L. 97–72, title III, § 303(g), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, § 4(66), Oct. 12, 1982, 96 Stat. 1310, which related to service after Jan. 31, 1955, and prior to Aug. 5, 1964, or after May 7, 1975, was repealed by Pub. L. 100–322, title IV, § 415(b)(3), May 20, 1988, 102 Stat. 551.
+Section 1818, added Pub. L. 89–358, § 5(a), Mar. 3, 1966, 80 Stat. 25; amended Pub. L. 91–506, § 2(e), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, § 8(6), (7), Dec. 31, 1974, 88 Stat. 1866, 1867; Pub. L. 94–324, § 4, June 30, 1976, 90 Stat. 720; Pub. L. 95–476, title I, § 106(a), Oct. 18, 1978, 92 Stat. 1499; Pub. L. 97–72, title III, § 303(g), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, § 4(66), Oct. 12, 1982, 96 Stat. 1310, which related to service after Jan. 31, 1955, and prior to Aug. 5, 1964, or after May 7, 1975, was repealed by Pub. L. 100–322, title IV, § 415(b)(3), May 20, 1988, 102 Stat. 551.
 
 Section 1819 was renumbered section 1812 of this title.
 
 ## SUBCHAPTER III—ADMINISTRATIVE PROVISIONS
 
-### § 3720. Powers of Secretary
+### § 3720. Powers of Secretary
 
 **(a)** Except as provided in subsection (h), notwithstanding the provisions of any other law, with respect to matters arising by reason of this chapter, the Secretary may—
 
@@ -2489,23 +2489,23 @@ Section 1819 was renumbered section 1812 of this title.
 
 **(h)** The Secretary may not take any action under paragraph (2), (3), (4), or (5) of subsection (a) in conjunction with the purchase of a loan under section 3732(a)(2) of this title unless the Secretary determines the purchase would be made consistent with section 3732(d) of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1213, § 1820; Pub. L. 88–151, § 1, Oct. 17, 1963, 77 Stat. 271; Pub. L. 88–560, title VII, § 701(e)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 89–625, Oct. 4, 1966, 80 Stat. 874; Pub. L. 89–769, § 3(c), Nov. 6, 1966, 80 Stat. 1316; Pub. L. 90–448, title VIII, § 807(h), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–606, title II, § 233, Dec. 31, 1970, 84 Stat. 1753; Pub. L. 92–328, title II, § 205, June 30, 1972, 86 Stat. 397; Pub. L. 93–288, title VII, § 702(*l*), formerly title VI, § 602(*l*), May 22, 1974, 88 Stat. 164, renumbered title VII, § 702(*l*), Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–324, § 7(24)–(26), June 30, 1976, 90 Stat. 722; Pub. L. 95–117, title IV, § 403(a), Oct. 3, 1977, 91 Stat. 1066; Pub. L. 97–258, § 3(k)(3), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 97–295, § 4(67), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 98–160, title VII, § 702(14), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 99–576, title IV, § 404, Oct. 28, 1986, 100 Stat. 3281; Pub. L. 100–707, title I, § 109(n), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–237, title III, § 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, § 4(a), June 13, 1991, 105 Stat. 268; renumbered § 3720 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, § 5(a), May 20, 1992, 106 Stat. 179; Pub. L. 102–547, § 4, Oct. 28, 1992, 106 Stat. 3636; Pub. L. 104–110, title I, § 101(f), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–275, title II, § 201, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, § 8011, Aug. 5, 1997, 111 Stat. 664; Pub. L. 105–368, title VI, §§ 602(c)(1), 604(a), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, § 402(a), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–103, title IV, § 405(b), Dec. 27, 2001, 115 Stat. 994; Pub. L. 111–350, § 5(j)(3), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112–154, title VII, § 702(a), Aug. 6, 2012, 126 Stat. 1205; Pub. L. 114–228, title IV, § 410, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, § 409, Sept. 29, 2017, 131 Stat. 1165; Pub. L. 115–251, title I, § 123, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 119–31, § 2(b), July 30, 2025, 139 Stat. 476; Pub. L. 119–37, div. G, title III, § 7307(a), Nov. 12, 2025, 139 Stat. 651.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1213, § 1820; Pub. L. 88–151, § 1, Oct. 17, 1963, 77 Stat. 271; Pub. L. 88–560, title VII, § 701(e)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 89–625, Oct. 4, 1966, 80 Stat. 874; Pub. L. 89–769, § 3(c), Nov. 6, 1966, 80 Stat. 1316; Pub. L. 90–448, title VIII, § 807(h), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–606, title II, § 233, Dec. 31, 1970, 84 Stat. 1753; Pub. L. 92–328, title II, § 205, June 30, 1972, 86 Stat. 397; Pub. L. 93–288, title VII, § 702(*l*), formerly title VI, § 602(*l*), May 22, 1974, 88 Stat. 164, renumbered title VII, § 702(*l*), Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–324, § 7(24)–(26), June 30, 1976, 90 Stat. 722; Pub. L. 95–117, title IV, § 403(a), Oct. 3, 1977, 91 Stat. 1066; Pub. L. 97–258, § 3(k)(3), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 97–295, § 4(67), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 98–160, title VII, § 702(14), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 99–576, title IV, § 404, Oct. 28, 1986, 100 Stat. 3281; Pub. L. 100–707, title I, § 109(n), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–237, title III, § 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, § 4(a), June 13, 1991, 105 Stat. 268; renumbered § 3720 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, § 5(a), May 20, 1992, 106 Stat. 179; Pub. L. 102–547, § 4, Oct. 28, 1992, 106 Stat. 3636; Pub. L. 104–110, title I, § 101(f), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–275, title II, § 201, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, § 8011, Aug. 5, 1997, 111 Stat. 664; Pub. L. 105–368, title VI, §§ 602(c)(1), 604(a), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, § 402(a), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–103, title IV, § 405(b), Dec. 27, 2001, 115 Stat. 994; Pub. L. 111–350, § 5(j)(3), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112–154, title VII, § 702(a), Aug. 6, 2012, 126 Stat. 1205; Pub. L. 114–228, title IV, § 410, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, § 409, Sept. 29, 2017, 131 Stat. 1165; Pub. L. 115–251, title I, § 123, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 119–31, § 2(b), July 30, 2025, 139 Stat. 476; Pub. L. 119–37, div. G, title III, § 7307(a), Nov. 12, 2025, 139 Stat. 651.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), referred to in subsec. (e), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), referred to in subsec. (e), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–31, § 2(b)(1), substituted “Except as provided in subsection (h), notwithstanding” for “Notwithstanding” in introductory provisions.
+2025—Subsec. (a). Pub. L. 119–31, § 2(b)(1), substituted “Except as provided in subsection (h), notwithstanding” for “Notwithstanding” in introductory provisions.
 
-Subsecs. (e) to (g). Pub. L. 119–31, § 2(b)(2), redesignated subsecs. (f) to (h) as (e) to (g), respectively. Former subsec. (e) had been struck out by Pub. L. 105–368, § 602(c)(1).
+Subsecs. (e) to (g). Pub. L. 119–31, § 2(b)(2), redesignated subsecs. (f) to (h) as (e) to (g), respectively. Former subsec. (e) had been struck out by Pub. L. 105–368, § 602(c)(1).
 
 Subsec. (h). Pub. L. 119–37 substituted “of subsection (a) in conjunction with the purchase of a loan under section 3732(a)(2) of this title unless the Secretary determines the purchase would be made consistent with section 3732(d) of this title.” for “of subsection (a) with respect to a loan guaranteed under this chapter before the completion of the sequence of mitigation options offered to the veteran to whom the loan is made under section 3732(d) of this title.”
 
-Pub. L. 119–31, § 2(b)(3), added subsec. (h). Former subsec. (h) redesignated (g).
+Pub. L. 119–31, § 2(b)(3), added subsec. (h). Former subsec. (h) redesignated (g).
 
 2018—Subsec. (h). Pub. L. 115–251 struck out par. (1) designation before “The Secretary may, upon” and struck out par. (2) which read as follows: “The Secretary may not under this subsection guarantee the payment of principal and interest on certificates or other securities issued or approved after September 30, 2018.”
 
@@ -2521,9 +2521,9 @@ Pub. L. 119–31, § 2(b)(3), added subsec. (h). Former subsec. (h) redesignat
 
 2000—Subsec. (h)(2). Pub. L. 106–419 substituted “December 31, 2008” for “December 31, 2002”.
 
-1998—Subsec. (b). Pub. L. 105–368, § 604(a), substituted “, except that title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.) shall apply to any contract for services or supplies on account of any property acquired pursuant to this section.” for “; however, section 3709 of the Revised Statutes (41 U.S.C. 5) shall apply to any contract for services or supplies on account of any property acquired pursuant to this section if the amount of such contract exceeds the amount prescribed in clause (1) of the first sentence of such section.”
+1998—Subsec. (b). Pub. L. 105–368, § 604(a), substituted “, except that title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.) shall apply to any contract for services or supplies on account of any property acquired pursuant to this section.” for “; however, section 3709 of the Revised Statutes (41 U.S.C. 5) shall apply to any contract for services or supplies on account of any property acquired pursuant to this section if the amount of such contract exceeds the amount prescribed in clause (1) of the first sentence of such section.”
 
-Subsec. (e). Pub. L. 105–368, § 602(c)(1), struck out subsec. (e), which authorized Secretary to set aside first mortgage loans and installment sales contracts owned or held by Secretary under this chapter as basis for sale of participation certificates, authorized agreements, including trust agreements, for this purpose, and set forth provisions relating to allocation, deposit, and set aside of proceeds.
+Subsec. (e). Pub. L. 105–368, § 602(c)(1), struck out subsec. (e), which authorized Secretary to set aside first mortgage loans and installment sales contracts owned or held by Secretary under this chapter as basis for sale of participation certificates, authorized agreements, including trust agreements, for this purpose, and set forth provisions relating to allocation, deposit, and set aside of proceeds.
 
 1997—Subsec. (h)(2). Pub. L. 105–33 substituted “December 31, 2002” for “December 31, 1997”.
 
@@ -2535,9 +2535,9 @@ Pub. L. 104–110 substituted “December 31, 1996” for “December 31, 1995�
 
 Pub. L. 102–291 added subsec. (h).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1820 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1820 of this title as this section.
 
-Subsec. (e)(2). Pub. L. 102–83, § 5(c)(1), substituted “3723 and 3724” for “1823 and 1824” in two places.
+Subsec. (e)(2). Pub. L. 102–83, § 5(c)(1), substituted “3723 and 3724” for “1823 and 1824” in two places.
 
 Subsec. (g). Pub. L. 102–54 added subsec. (g).
 
@@ -2557,23 +2557,23 @@ Subsec. (f). Pub. L. 97–295 inserted “(42 U.S.C. 5121 et seq.)” after “t
 
 1977—Subsec. (a)(1). Pub. L. 95–117 inserted prohibition relating to garnishment or attachment against the Administrator, etc.
 
-1976—Subsec. (a)(1). Pub. L. 94–324, § 7(24), substituted “the Administrator’s” for “his”.
+1976—Subsec. (a)(1). Pub. L. 94–324, § 7(24), substituted “the Administrator’s” for “his”.
 
-Subsec. (a)(5). Pub. L. 94–324, § 7(24), substituted “the Administrator” for “he”.
+Subsec. (a)(5). Pub. L. 94–324, § 7(24), substituted “the Administrator” for “he”.
 
-Subsec. (a)(6). Pub. L. 94–324, § 7(25), substituted “utilized by the Administrator” for “utilized by him”.
+Subsec. (a)(6). Pub. L. 94–324, § 7(25), substituted “utilized by the Administrator” for “utilized by him”.
 
-Subsec. (e)(1). Pub. L. 94–324, § 7(26), substituted “the Administrator determines” for “he determines”, “by the Administrator” for “by him”, “the Administrator shall periodically” for “he shall periodically”, “set aside by the Administrator” for “set aside by him”, “the Administrator’s commitment” for “his commitment”, and “to pay the Administrator’s” for “to pay his”.
+Subsec. (e)(1). Pub. L. 94–324, § 7(26), substituted “the Administrator determines” for “he determines”, “by the Administrator” for “by him”, “the Administrator shall periodically” for “he shall periodically”, “set aside by the Administrator” for “set aside by him”, “the Administrator’s commitment” for “his commitment”, and “to pay the Administrator’s” for “to pay his”.
 
-Subsec. (e)(2). Pub. L. 94–324, § 7(26), substituted “as the Administrator determines” for “as he determines”.
+Subsec. (e)(2). Pub. L. 94–324, § 7(26), substituted “as the Administrator determines” for “as he determines”.
 
 1974—Subsec. (f). Pub. L. 93–288 substituted “Disaster Relief Act of 1974” for “Disaster Assistance Act of 1970.”
 
 1972—Subsec. (a)(4). Pub. L. 92–328 struck out provisions relating to the authority to waive or release claims, including partial or total waiver of payment, following default and loss of property.
 
-1970—Subsec. (a)(2). Pub. L. 91–606, § 233(1), substituted “a loan which has been guaranteed, insured, made or acquired under this chapter” for “a loan which has been guaranteed or insured under this chapter”.
+1970—Subsec. (a)(2). Pub. L. 91–606, § 233(1), substituted “a loan which has been guaranteed, insured, made or acquired under this chapter” for “a loan which has been guaranteed or insured under this chapter”.
 
-Subsec. (f). Pub. L. 91–606, § 233(2), directed the Administrator in major disaster areas to provide the owner of property lost, destroyed, or damaged as the result of a major disaster with counseling and other services, to inform him of disaster assistance available from other Federal, state, or local agencies and to extend such forbearance on an individual case basis as he determines to be warranted by the facts of the case.
+Subsec. (f). Pub. L. 91–606, § 233(2), directed the Administrator in major disaster areas to provide the owner of property lost, destroyed, or damaged as the result of a major disaster with counseling and other services, to inform him of disaster assistance available from other Federal, state, or local agencies and to extend such forbearance on an individual case basis as he determines to be warranted by the facts of the case.
 
 1968—Subsec. (e)(1). Pub. L. 90–448 substituted “Government National Mortgage Association” for “Federal National Mortgage Association” wherever appearing.
 
@@ -2591,11 +2591,11 @@ Subsec. (f). Pub. L. 89–769 added subsec. (f).
 
 Amendment by section 602(c)(1) of Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as a note under section 2106 of this title.
 
-Pub. L. 105–368, title VI, § 604(b), Nov. 11, 1998, 112 Stat. 3348, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to contracts entered into under section 3720 of title 38, United States Code, after the end of the 60-day period beginning on the date of the enactment of this Act [Nov. 11, 1998].”
+Pub. L. 105–368, title VI, § 604(b), Nov. 11, 1998, 112 Stat. 3348, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to contracts entered into under section 3720 of title 38, United States Code, after the end of the 60-day period beginning on the date of the enactment of this Act [Nov. 11, 1998].”
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–117, title IV, § 403(b), Oct. 3, 1977, 91 Stat. 1066, provided that: “The amendment made by subsection (a) of this section [amending this section] shall be effective on the date of enactment of this Act [Oct. 3, 1977].”
+Pub. L. 95–117, title IV, § 403(b), Oct. 3, 1977, 91 Stat. 1066, provided that: “The amendment made by subsection (a) of this section [amending this section] shall be effective on the date of enactment of this Act [Oct. 3, 1977].”
 
 **Effective Date of 1976 Amendment**
 
@@ -2627,25 +2627,25 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 **Property Management**
 
-Pub. L. 100–198, § 9, Dec. 21, 1987, 101 Stat. 1320, as amended by Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, § 6(i), Aug. 6, 1991, 105 Stat. 408, provided for programs under which the Secretary could (1) convey to nonprofit entities or to States or political subdivisions of States real property or improvements to real property acquired by the Secretary as the result of a default of a loan made under this chapter to use the properties to provide shelter for homeless veterans and their families, or (2) convey such properties to entities for use in job training programs for property rehabilitation and later sale to homeless veterans. Authority to carry out the programs terminated on Oct. 1, 1990.
+Pub. L. 100–198, § 9, Dec. 21, 1987, 101 Stat. 1320, as amended by Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, § 6(i), Aug. 6, 1991, 105 Stat. 408, provided for programs under which the Secretary could (1) convey to nonprofit entities or to States or political subdivisions of States real property or improvements to real property acquired by the Secretary as the result of a default of a loan made under this chapter to use the properties to provide shelter for homeless veterans and their families, or (2) convey such properties to entities for use in job training programs for property rehabilitation and later sale to homeless veterans. Authority to carry out the programs terminated on Oct. 1, 1990.
 
 **Housing Solar Energy and Weatherization Study; Report Not Later Than March 1, 1978**
 
-Pub. L. 95–202, title III, § 311, Nov. 23, 1977, 91 Stat. 1449, directed Administrator of Veterans’ Affairs, in consultation with Secretary of Energy and Secretary of Housing and Urban Development, to conduct a study to determine the most effective methods of using the programs carried out under, or amending provisions of, this chapter in order to aid and encourage present and prospective veteran homeowners to install solar heating and cooling in their homes and to apply residential energy conservation measures and that a report on such study be submitted to Congress not later than Mar. 1, 1978.
+Pub. L. 95–202, title III, § 311, Nov. 23, 1977, 91 Stat. 1449, directed Administrator of Veterans’ Affairs, in consultation with Secretary of Energy and Secretary of Housing and Urban Development, to conduct a study to determine the most effective methods of using the programs carried out under, or amending provisions of, this chapter in order to aid and encourage present and prospective veteran homeowners to install solar heating and cooling in their homes and to apply residential energy conservation measures and that a report on such study be submitted to Congress not later than Mar. 1, 1978.
 
 **Waiver of Indebtedness; Report to Congress**
 
-Pub. L. 88–151, § 2, Oct. 17, 1963, 77 Stat. 271, provided that: “The Administrator of Veterans’ Affairs shall submit to the Committee on Labor and Public Welfare of the Senate and the Committee on Veterans’ Affairs of the House of Representatives, not later than December 31 of each year, a written report concerning each case in which a waiver of indebtedness has been made under the authority of the amendment made by the first section of this Act [amending subsec. (a)(4) of this section]. Such report shall include, together with such other information as the Administrator deems appropriate, the name and address of each person with respect to which a waiver of indebtedness has been made and the total amount of such waiver.”
+Pub. L. 88–151, § 2, Oct. 17, 1963, 77 Stat. 271, provided that: “The Administrator of Veterans’ Affairs shall submit to the Committee on Labor and Public Welfare of the Senate and the Committee on Veterans’ Affairs of the House of Representatives, not later than December 31 of each year, a written report concerning each case in which a waiver of indebtedness has been made under the authority of the amendment made by the first section of this Act [amending subsec. (a)(4) of this section]. Such report shall include, together with such other information as the Administrator deems appropriate, the name and address of each person with respect to which a waiver of indebtedness has been made and the total amount of such waiver.”
 
 **Administration of Trusts by Federal National Mortgage Association**
 
 Provision for participation sales and administration of trusts by Federal National Mortgage Association not to be construed as a repeal or modification of the provisions of former subsection (e) of this section respecting the authority of the Administrator of Veterans’ Affairs, see section 6(a) of Pub. L. 89–429, set out as a note under section 1717 of Title 12, Banks and Banking.
 
-### § 3721. Incontestability
+### § 3721. Incontestability
 
 Any evidence of guaranty or insurance issued by the Secretary shall be conclusive evidence of the eligibility of the loan for guaranty or insurance under the provisions of this chapter and of the amount of such guaranty or insurance. Nothing in this section shall preclude the Secretary from establishing, as against the original lender, defenses based on fraud or material misrepresentation. The Secretary shall not, by reason of anything contained in this section, be barred from establishing, by regulations in force at the date of such issuance or disbursement, whichever is the earlier, partial defenses to the amount payable on the guaranty or insurance.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1213, § 1821; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3721, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1213, § 1821; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3721, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -2655,7 +2655,7 @@ Any evidence of guaranty or insurance issued by the Secretary shall be conclusiv
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-### § 3722. Veterans Housing Benefit Program Fund
+### § 3722. Veterans Housing Benefit Program Fund
 
 **(a)** There is hereby established in the Treasury of the United States a fund known as the Veterans Housing Benefit Program Fund (hereinafter in this section referred to as the “Fund”).
 
@@ -2681,17 +2681,17 @@ Any evidence of guaranty or insurance issued by the Secretary shall be conclusiv
 
 **(e)** For purposes of this section, the term “housing loan” shall not include a loan made pursuant to subchapter V of this chapter.
 
-(Added Pub. L. 105–368, title VI, § 602(a)(2), Nov. 11, 1998, 112 Stat. 3345; amended Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35.)
+(Added Pub. L. 105–368, title VI, § 602(a)(2), Nov. 11, 1998, 112 Stat. 3345; amended Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (b), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (b), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 **Prior Provisions**
 
-Prior to renumbering of sections 1801 to 1851 of this chapter as sections 3701 to 3751 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, section 1822 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1214; Pub. L. 89–358, § 5(c), Mar. 3, 1966, 88 Stat. 26; Pub. L. 89–623, § 1, Oct. 4, 1966, 80 Stat. 873; Pub. L. 90–301, § 2(b), May 7, 1968, 82 Stat. 113, which provided for bringing of an action in district court, by veteran or Attorney General, against one who knowingly participated in sale of property to a veteran for consideration in excess of reasonable value of property, was repealed by Pub. L. 93–569, §§ 7(a), 10, Dec. 31, 1974, 88 Stat. 1866, 1867, effective Dec. 31, 1974.
+Prior to renumbering of sections 1801 to 1851 of this chapter as sections 3701 to 3751 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, section 1822 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1214; Pub. L. 89–358, § 5(c), Mar. 3, 1966, 88 Stat. 26; Pub. L. 89–623, § 1, Oct. 4, 1966, 80 Stat. 873; Pub. L. 90–301, § 2(b), May 7, 1968, 82 Stat. 113, which provided for bringing of an action in district court, by veteran or Attorney General, against one who knowingly participated in sale of property to a veteran for consideration in excess of reasonable value of property, was repealed by Pub. L. 93–569, §§ 7(a), 10, Dec. 31, 1974, 88 Stat. 1866, 1867, effective Dec. 31, 1974.
 
 **Amendments**
 
@@ -2705,7 +2705,7 @@ Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out
 
 **Transfers of Amounts Into Veterans Housing Benefit Program Fund**
 
-Pub. L. 105–368, title VI, § 602(b), Nov. 11, 1998, 112 Stat. 3346, provided that:
+Pub. L. 105–368, title VI, § 602(b), Nov. 11, 1998, 112 Stat. 3346, provided that:
 
 > “All amounts in the following funds are hereby transferred to the Veterans Housing Benefit Program Fund:
 
@@ -2715,13 +2715,13 @@ Pub. L. 105–368, title VI, § 602(b), Nov. 11, 1998, 112 Stat. 3346, provide
 
 > **“(3)** The Guaranty and Indemnity Fund, as established by section 3725 of such title (as such section was in effect on the day before the effective date of this title).”
 
-### [§§ 3723 to 3725. Repealed. Pub. L. 105–368, title VI, § 602(a)(1), Nov. 11, 1998, 112 Stat. 3345]
+### [§§ 3723 to 3725. Repealed. Pub. L. 105–368, title VI, § 602(a)(1), Nov. 11, 1998, 112 Stat. 3345]
 
-Section 3723, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1214, § 1823; Pub. L. 86–73, § 4, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, § 4, July 14, 1960, 74 Stat. 532; Pub. L. 87–84, § 3, July 6, 1961, 75 Stat. 202; Pub. L. 88–274, Feb. 29, 1964, 78 Stat. 147; Pub. L. 88–560, title VII, § 701(e)(2), Sept. 2, 1964, 78 Stat. 801; Pub. L. 94–324, §§ 6, 7(27), June 30, 1976, 90 Stat. 721, 722; Pub. L. 97–295, § 4(68), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–452, § 2(e)(2), Jan. 12, 1983, 96 Stat. 2479; Pub. L. 99–576, title IV, § 405, Oct. 28, 1986, 100 Stat. 3281; Pub. L. 101–237, title III, § 313(b)(1), (8), (9), Dec. 18, 1989, 103 Stat. 2077, 2078; renumbered § 3723 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to direct loan revolving fund. See section 3722 of this title.
+Section 3723, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1214, § 1823; Pub. L. 86–73, § 4, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, § 4, July 14, 1960, 74 Stat. 532; Pub. L. 87–84, § 3, July 6, 1961, 75 Stat. 202; Pub. L. 88–274, Feb. 29, 1964, 78 Stat. 147; Pub. L. 88–560, title VII, § 701(e)(2), Sept. 2, 1964, 78 Stat. 801; Pub. L. 94–324, §§ 6, 7(27), June 30, 1976, 90 Stat. 721, 722; Pub. L. 97–295, § 4(68), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–452, § 2(e)(2), Jan. 12, 1983, 96 Stat. 2479; Pub. L. 99–576, title IV, § 405, Oct. 28, 1986, 100 Stat. 3281; Pub. L. 101–237, title III, § 313(b)(1), (8), (9), Dec. 18, 1989, 103 Stat. 2077, 2078; renumbered § 3723 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to direct loan revolving fund. See section 3722 of this title.
 
-Section 3724, added Pub. L. 86–665, § 7(a), July 14, 1960, 74 Stat. 532, § 1824; amended Pub. L. 94–324, § 7(28), June 30, 1976, 90 Stat. 722; Pub. L. 97–72, title III, § 303(j), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 98–369, div. B, title V, § 2511(b), July 18, 1984, 98 Stat. 1117; Pub. L. 99–322, § 2(a), May 23, 1986, 100 Stat. 494; Pub. L. 100–689, title III, § 303, Nov. 18, 1988, 102 Stat. 4177; Pub. L. 101–237, title III, §§ 302(a)(2), (3)(A), (c), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2070, 2071, 2077; renumbered § 3724 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to Loan Guaranty Revolving Fund. See section 3722 of this title.
+Section 3724, added Pub. L. 86–665, § 7(a), July 14, 1960, 74 Stat. 532, § 1824; amended Pub. L. 94–324, § 7(28), June 30, 1976, 90 Stat. 722; Pub. L. 97–72, title III, § 303(j), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 98–369, div. B, title V, § 2511(b), July 18, 1984, 98 Stat. 1117; Pub. L. 99–322, § 2(a), May 23, 1986, 100 Stat. 494; Pub. L. 100–689, title III, § 303, Nov. 18, 1988, 102 Stat. 4177; Pub. L. 101–237, title III, §§ 302(a)(2), (3)(A), (c), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2070, 2071, 2077; renumbered § 3724 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to Loan Guaranty Revolving Fund. See section 3722 of this title.
 
-Section 3725, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1215, § 1824; renumbered § 1825, Pub. L. 86–665, § 7(a), July 14, 1960, 74 Stat. 532; amended Pub. L. 94–324, § 7(29), June 30, 1976, 90 Stat. 722; Pub. L. 101–237, title III, § 302(a)(1), Dec. 18, 1989, 103 Stat. 2069; Pub. L. 102–54, § 15(a)(2), June 13, 1991, 105 Stat. 289; renumbered § 3725 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, § 2(b)(2), Oct. 28, 1992, 106 Stat. 3634, related to Guaranty and Indemnity Fund. See section 3722 of this title.
+Section 3725, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1215, § 1824; renumbered § 1825, Pub. L. 86–665, § 7(a), July 14, 1960, 74 Stat. 532; amended Pub. L. 94–324, § 7(29), June 30, 1976, 90 Stat. 722; Pub. L. 101–237, title III, § 302(a)(1), Dec. 18, 1989, 103 Stat. 2069; Pub. L. 102–54, § 15(a)(2), June 13, 1991, 105 Stat. 289; renumbered § 3725 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, § 2(b)(2), Oct. 28, 1992, 106 Stat. 3634, related to Guaranty and Indemnity Fund. See section 3722 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2729,7 +2729,7 @@ Section 3725, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1215, § 1824; renumbe
 
 Repeal effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as an Effective Date of 1998 Amendment note under section 2106 of this title.
 
-### § 3726. Withholding of payments, benefits, etc.
+### § 3726. Withholding of payments, benefits, etc.
 
 **(a)** No officer, employee, department, or agency of the United States shall set off against, or otherwise withhold from, any veteran or the surviving spouse of any veteran any payments (other than benefit payments under any law administered by the Department of Veterans Affairs) which such veteran or surviving spouse would otherwise be entitled to receive because of any liability to the Secretary allegedly arising out of any loan made to, assumed by, or guaranteed or insured on account of, such veteran or surviving spouse under this chapter, unless the Secretary provides such veteran or surviving spouse with notice by certified mail with return receipt requested of the authority of the Secretary to waive the payment of indebtedness under section 5302(b) of this title.
 
@@ -2737,7 +2737,7 @@ Repeal effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out 
 
 **(c)** If the Secretary determines that the veteran or surviving spouse should not be released from liability, the Secretary shall notify the veteran or surviving spouse of that determination and provide a notice of the procedure for appealing that determination, unless the Secretary has previously made such determination and notified the veteran or surviving spouse of the procedure for appealing the determination.
 
-(Added Pub. L. 89–358, § 5(f)(1), Mar. 3, 1966, 80 Stat. 26, § 1826; amended Pub. L. 94–324, § 7(30), June 30, 1976, 90 Stat. 722; Pub. L. 97–66, title V, § 504, Oct. 17, 1981, 95 Stat. 1033; Pub. L. 101–237, title III, § 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3726, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–33, title VIII, § 8033(a), Aug. 5, 1997, 111 Stat. 669.)
+(Added Pub. L. 89–358, § 5(f)(1), Mar. 3, 1966, 80 Stat. 26, § 1826; amended Pub. L. 94–324, § 7(30), June 30, 1976, 90 Stat. 722; Pub. L. 97–66, title V, § 504, Oct. 17, 1981, 95 Stat. 1033; Pub. L. 101–237, title III, § 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3726, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–33, title VIII, § 8033(a), Aug. 5, 1997, 111 Stat. 669.)
 
 **Editorial Notes**
 
@@ -2759,7 +2759,7 @@ Subsec. (b). Pub. L. 94–324 substituted “surviving spouse” for “widow”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–33, title VIII, § 8033(c), Aug. 5, 1997, 111 Stat. 669, provided that: “The amendments made by this section [amending this section and section 5302 of this title] shall apply with respect to any indebtedness to the United States arising pursuant to chapter 37 of title 38, United States Code, before, on, or after the date of enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–33, title VIII, § 8033(c), Aug. 5, 1997, 111 Stat. 669, provided that: “The amendments made by this section [amending this section and section 5302 of this title] shall apply with respect to any indebtedness to the United States arising pursuant to chapter 37 of title 38, United States Code, before, on, or after the date of enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1981 Amendment**
 
@@ -2769,7 +2769,7 @@ Amendment by Pub. L. 97–66 effective Oct. 17, 1980, see section 701(b)(3) of P
 
 Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. L. 94–324, set out as a note under section 3701 of this title.
 
-### § 3727. Expenditures to correct or compensate for structural defects in mortgaged homes
+### § 3727. Expenditures to correct or compensate for structural defects in mortgaged homes
 
 **(a)** The Secretary is authorized, with respect to any property improved by a one- to four-family dwelling inspected during construction by the Department of Veterans Affairs or the Federal Housing Administration which the Secretary finds to have structural defects seriously affecting the livability of the property, to make expenditures for (1) correcting such defects, (2) paying the claims of the owner of the property arising from such defects, or (3) acquiring title to the property; except that such authority of the Secretary shall exist only (A) if the owner requests assistance under this section not later than four years (or such shorter time as the Secretary may prescribe) after the mortgage loan was made, guaranteed, or insured, and (B) if the property is encumbered by a mortgage which is made, guaranteed, or insured under this chapter after May 7, 1968.
 
@@ -2777,19 +2777,19 @@ Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. 
 
 **(c)** The Secretary is authorized to make expenditures for the purposes of this section from the fund established pursuant to section 3722 of this title.
 
-(Added Pub. L. 90–301, § 5(a), May 7, 1968, 82 Stat. 116, § 1827; amended Pub. L. 94–324, § 7(31), June 30, 1976, 90 Stat. 722; Pub. L. 101–237, title III, § 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3727 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title VI, § 602(e)(1)(C), title X, § 1005(b)(11), Nov. 11, 1998, 112 Stat. 3346, 3365.)
+(Added Pub. L. 90–301, § 5(a), May 7, 1968, 82 Stat. 116, § 1827; amended Pub. L. 94–324, § 7(31), June 30, 1976, 90 Stat. 722; Pub. L. 101–237, title III, § 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3727 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title VI, § 602(e)(1)(C), title X, § 1005(b)(11), Nov. 11, 1998, 112 Stat. 3346, 3365.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–368, § 1005(b)(11), substituted “May 7, 1968” for “the date of enactment of this section”.
+1998—Subsec. (a). Pub. L. 105–368, § 1005(b)(11), substituted “May 7, 1968” for “the date of enactment of this section”.
 
-Subsec. (c). Pub. L. 105–368, § 602(e)(1)(C), substituted “fund established pursuant to section 3722 of this title” for “funds established pursuant to sections 3723 and 3724 of this title, as applicable”.
+Subsec. (c). Pub. L. 105–368, § 602(e)(1)(C), substituted “fund established pursuant to section 3722 of this title” for “funds established pursuant to sections 3723 and 3724 of this title, as applicable”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1827 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1827 of this title as this section.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3723 and 3724” for “1823 and 1824”.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3723 and 3724” for “1823 and 1824”.
 
 1989—Pub. L. 101–237 substituted “Secretary”, “Secretary’s”, and “Department of Veterans Affairs” for “Administrator”, “Administrator’s”, and “Veterans’ Administration”, respectively, wherever appearing.
 
@@ -2807,17 +2807,17 @@ Amendment by section 602 of Pub. L. 105–368 effective Oct. 1, 1998, see sectio
 
 Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. L. 94–324, set out as a note under section 3701 of this title.
 
-### § 3728. Exemption from State anti-usury provisions
+### § 3728. Exemption from State anti-usury provisions
 
 If, under any law of the United States, loans and mortgages insured under title I or title II of the National Housing Act are exempt from the application of the provisions of any State constitution or law (1) limiting the rate or amount of interest, discount points, or other charges which may be charged, taken, received, or reserved by lenders, (2) restricting the manner of calculating such interest (including prohibition of the charging of interest on interest), or (3) requiring a minimum amortization of principal, then loans guaranteed or insured under this chapter are also exempt from the application of such provisions.
 
-(Added Pub. L. 96–128, title IV, § 401(a), Nov. 28, 1979, 93 Stat. 986, § 1828; amended Pub. L. 97–66, title V, § 501(b), Oct. 17, 1981, 95 Stat. 1032; renumbered § 3728, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 96–128, title IV, § 401(a), Nov. 28, 1979, 93 Stat. 986, § 1828; amended Pub. L. 97–66, title V, § 501(b), Oct. 17, 1981, 95 Stat. 1032; renumbered § 3728, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 **Amendments**
 
@@ -2835,7 +2835,7 @@ Amendment by Pub. L. 97–66 effective Oct. 17, 1981, see section 701(b)(1) of P
 
 Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out as an Effective Date of 1979 Amendment note under section 1114 of this title.
 
-### § 3729. Loan fee
+### § 3729. Loan fee
 
 **(a) Requirement of Fee.—**
 
@@ -2918,15 +2918,15 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 
 **(ii)** based on a pre-discharge review of existing medical evidence (including service medical and treatment records) that results in the issuance of a memorandum rating.
 
-(Added Pub. L. 97–253, title IV, § 406(a)(1), Sept. 8, 1982, 96 Stat. 805, § 1829; amended Pub. L. 98–369, div. B, title V, § 2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§ 2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, § 7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, § 415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§ 303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, § 5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, § 8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, § 15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered § 3729 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§ 2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, § 12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, § 904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, § 202(b), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §§ 8012, 8032, Aug. 5, 1997, 111 Stat. 664, 669; Pub. L. 105–368, title VI, §§ 602(e)(1)(D), 603(b), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, § 402(b), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–14, § 8(b)(4), June 5, 2001, 115 Stat. 36; Pub. L. 107–103, title IV, §§ 405(c), 406, Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title IV, § 405, Dec. 16, 2003, 117 Stat. 2665; Pub. L. 108–454, title IV, § 406, Dec. 10, 2004, 118 Stat. 3617; Pub. L. 111–275, title II, § 204, Oct. 13, 2010, 124 Stat. 2874; Pub. L. 112–26, § 3(a), Aug. 3, 2011, 125 Stat. 269; Pub. L. 112–37, § 15, Oct. 5, 2011, 125 Stat. 398; Pub. L. 112–56, title II, § 265(a), Nov. 21, 2011, 125 Stat. 732; Pub. L. 112–154, title II, § 210, title VII, § 702(b), Aug. 6, 2012, 126 Stat. 1179, 1205; Pub. L. 113–146, title VII, § 704, Aug. 7, 2014, 128 Stat. 1797; Pub. L. 115–46, title IV, § 402, Aug. 12, 2017, 131 Stat. 969; Pub. L. 115–182, title V, § 508, June 6, 2018, 132 Stat. 1480; Pub. L. 116–23, § 6(b), (c), June 25, 2019, 133 Stat. 973, 975; Pub. L. 116–154, § 7, Aug. 8, 2020, 134 Stat. 694; Pub. L. 116–283, div. A, title IX, § 926(a)(49), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title II, §§ 2102, 2103, Jan. 5, 2021, 134 Stat. 4981; Pub. L. 117–76, § 6, Dec. 21, 2021, 135 Stat. 1520; Pub. L. 117–328, div. U, title II, § 204, Dec. 29, 2022, 136 Stat. 5451; Pub. L. 118–19, § 4, Oct. 6, 2023, 137 Stat. 107; Pub. L. 118–83, div. B, title III, § 336, Sept. 26, 2024, 138 Stat. 1542; Pub. L. 118–210, title II, § 231(f), title V, § 503, Jan. 2, 2025, 138 Stat. 2787, 2801.)
+(Added Pub. L. 97–253, title IV, § 406(a)(1), Sept. 8, 1982, 96 Stat. 805, § 1829; amended Pub. L. 98–369, div. B, title V, § 2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§ 2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, § 7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, § 415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§ 303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, § 5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, § 8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, § 15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered § 3729 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§ 2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, § 12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, § 904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, § 202(b), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §§ 8012, 8032, Aug. 5, 1997, 111 Stat. 664, 669; Pub. L. 105–368, title VI, §§ 602(e)(1)(D), 603(b), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, § 402(b), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–14, § 8(b)(4), June 5, 2001, 115 Stat. 36; Pub. L. 107–103, title IV, §§ 405(c), 406, Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title IV, § 405, Dec. 16, 2003, 117 Stat. 2665; Pub. L. 108–454, title IV, § 406, Dec. 10, 2004, 118 Stat. 3617; Pub. L. 111–275, title II, § 204, Oct. 13, 2010, 124 Stat. 2874; Pub. L. 112–26, § 3(a), Aug. 3, 2011, 125 Stat. 269; Pub. L. 112–37, § 15, Oct. 5, 2011, 125 Stat. 398; Pub. L. 112–56, title II, § 265(a), Nov. 21, 2011, 125 Stat. 732; Pub. L. 112–154, title II, § 210, title VII, § 702(b), Aug. 6, 2012, 126 Stat. 1179, 1205; Pub. L. 113–146, title VII, § 704, Aug. 7, 2014, 128 Stat. 1797; Pub. L. 115–46, title IV, § 402, Aug. 12, 2017, 131 Stat. 969; Pub. L. 115–182, title V, § 508, June 6, 2018, 132 Stat. 1480; Pub. L. 116–23, § 6(b), (c), June 25, 2019, 133 Stat. 973, 975; Pub. L. 116–154, § 7, Aug. 8, 2020, 134 Stat. 694; Pub. L. 116–283, div. A, title IX, § 926(a)(49), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title II, §§ 2102, 2103, Jan. 5, 2021, 134 Stat. 4981; Pub. L. 117–76, § 6, Dec. 21, 2021, 135 Stat. 1520; Pub. L. 117–328, div. U, title II, § 204, Dec. 29, 2022, 136 Stat. 5451; Pub. L. 118–19, § 4, Oct. 6, 2023, 137 Stat. 107; Pub. L. 118–83, div. B, title III, § 336, Sept. 26, 2024, 138 Stat. 1542; Pub. L. 118–210, title II, § 231(f), title V, § 503, Jan. 2, 2025, 138 Stat. 2787, 2801.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (b)(2). Pub. L. 118–210, § 503, substituted “June 9, 2034” for “November 29, 2031” wherever appearing in table.
+2025—Subsec. (b)(2). Pub. L. 118–210, § 503, substituted “June 9, 2034” for “November 29, 2031” wherever appearing in table.
 
-Subsec. (b)(4)(F). Pub. L. 118–210, § 231(f), substituted “3762(h)(1)” for “3762(h)”.
+Subsec. (b)(4)(F). Pub. L. 118–210, § 231(f), substituted “3762(h)(1)” for “3762(h)”.
 
 2024—Subsec. (b)(2). Pub. L. 118–83 substituted “November 29, 2031” for “November 15, 2031” wherever appearing in table.
 
@@ -2936,19 +2936,19 @@ Subsec. (b)(4)(F). Pub. L. 118–210, § 231(f), substituted “3762(h)(1)” 
 
 2021—Subsec. (b)(2). Pub. L. 117–76 substituted “January 14, 2031” for “October 1, 2030” wherever appearing in table.
 
-Pub. L. 116–315, § 2103, substituted “October 1, 2030” for “October 1, 2029” wherever appearing in table.
+Pub. L. 116–315, § 2103, substituted “October 1, 2030” for “October 1, 2029” wherever appearing in table.
 
-Subsec. (b)(4)(D). Pub. L. 116–315, § 2102(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “The term ‘initial loan’ means a loan to a veteran guaranteed under section 3710 or made under section 3711 of this title if the veteran has never obtained a loan guaranteed under section 3710 or made under section 3711 of this title.”
+Subsec. (b)(4)(D). Pub. L. 116–315, § 2102(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “The term ‘initial loan’ means a loan to a veteran guaranteed under section 3710 or made under section 3711 of this title if the veteran has never obtained a loan guaranteed under section 3710 or made under section 3711 of this title.”
 
-Subsec. (b)(4)(E). Pub. L. 116–315, § 2102(2), substituted “that is not an initial loan” for “if the veteran has previously obtained a loan guaranteed under section 3710 or made under section 3711 of this title”.
+Subsec. (b)(4)(E). Pub. L. 116–315, § 2102(2), substituted “that is not an initial loan” for “if the veteran has previously obtained a loan guaranteed under section 3710 or made under section 3711 of this title”.
 
 Subsec. (c)(1). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
 2020—Subsec. (b)(2). Pub. L. 116–154 added loan fee table and struck out former loan fee table which set out amounts of fees per loan type.
 
-2019—Subsec. (b)(2). Pub. L. 116–23, § 6(b), added loan fee table and struck out former loan fee table which set out amounts of fees per loan type.
+2019—Subsec. (b)(2). Pub. L. 116–23, § 6(b), added loan fee table and struck out former loan fee table which set out amounts of fees per loan type.
 
-Subsec. (c)(1). Pub. L. 116–23, § 6(c), substituted “, from a surviving spouse” for “or from a surviving spouse” and inserted “, or from a member of the Armed Forces who is serving on active duty and who provides, on or before the date of loan closing, evidence of having been awarded the Purple Heart” before period at end.
+Subsec. (c)(1). Pub. L. 116–23, § 6(c), substituted “, from a surviving spouse” for “or from a surviving spouse” and inserted “, or from a member of the Armed Forces who is serving on active duty and who provides, on or before the date of loan closing, evidence of having been awarded the Purple Heart” before period at end.
 
 2018—Subsec. (b)(2). Pub. L. 115–182 substituted “2028” for “2027” wherever appearing in table.
 
@@ -2956,29 +2956,29 @@ Subsec. (c)(1). Pub. L. 116–23, § 6(c), substituted “, from a surviving
 
 2014—Subsec. (b)(2). Pub. L. 113–146 substituted “September 30, 2024” for “October 1, 2017” wherever appearing in table.
 
-2012—Subsec. (b)(2). Pub. L. 112–154, § 702(b), substituted “October 1, 2017” for “October 1, 2016” wherever appearing in table.
+2012—Subsec. (b)(2). Pub. L. 112–154, § 702(b), substituted “October 1, 2017” for “October 1, 2016” wherever appearing in table.
 
-Subsec. (c)(2). Pub. L. 112–154, § 210, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A veteran who is rated eligible to receive compensation as a result of a pre-discharge disability examination and rating shall be treated as receiving compensation for purposes of this subsection as of the date on which the veteran is rated eligible to receive compensation as a result of the pre-discharge disability examination and rating without regard to whether an effective date of the award of compensation is established as of that date.”
+Subsec. (c)(2). Pub. L. 112–154, § 210, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A veteran who is rated eligible to receive compensation as a result of a pre-discharge disability examination and rating shall be treated as receiving compensation for purposes of this subsection as of the date on which the veteran is rated eligible to receive compensation as a result of the pre-discharge disability examination and rating without regard to whether an effective date of the award of compensation is established as of that date.”
 
 2011—Subsec. (b)(2). Pub. L. 112–37 substituted “November 18, 2011” for “October 1, 2011” wherever appearing in table.
 
-Subsec. (b)(2)(A)(iii), (iv). Pub. L. 112–56, § 265(a)(1), substituted “October 1, 2016” for “November 18, 2011”.
+Subsec. (b)(2)(A)(iii), (iv). Pub. L. 112–56, § 265(a)(1), substituted “October 1, 2016” for “November 18, 2011”.
 
-Subsec. (b)(2)(B)(i). Pub. L. 112–56, § 265(a)(2)(A), substituted “October 1, 2016” for “November 18, 2011”.
+Subsec. (b)(2)(B)(i). Pub. L. 112–56, § 265(a)(2)(A), substituted “October 1, 2016” for “November 18, 2011”.
 
-Pub. L. 112–26, § 3(a)(1), substituted “October 1, 2011” for “January 1, 2004” and substituted “3.30” for “3.00” in two places.
+Pub. L. 112–26, § 3(a)(1), substituted “October 1, 2011” for “January 1, 2004” and substituted “3.30” for “3.00” in two places.
 
-Subsec. (b)(2)(B)(ii). Pub. L. 112–56, § 265(a)(2)(B)–(D), redesignated cl. (iv) as (ii), substituted “October 1, 2016” for “October 1, 2013”, and struck out former cl. (ii) which listed loan fees of 2.80 percent in the first two table columns for a subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after Nov. 18, 2011, and before Oct. 1, 2012).
+Subsec. (b)(2)(B)(ii). Pub. L. 112–56, § 265(a)(2)(B)–(D), redesignated cl. (iv) as (ii), substituted “October 1, 2016” for “October 1, 2013”, and struck out former cl. (ii) which listed loan fees of 2.80 percent in the first two table columns for a subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after Nov. 18, 2011, and before Oct. 1, 2012).
 
-Pub. L. 112–26, § 3(a)(2), substituted “October 1, 2011, and before October 1, 2012” for “January 1, 2004, and before October 1, 2011” and substituted “2.80” for “3.30” in two places.
+Pub. L. 112–26, § 3(a)(2), substituted “October 1, 2011, and before October 1, 2012” for “January 1, 2004, and before October 1, 2011” and substituted “2.80” for “3.30” in two places.
 
-Subsec. (b)(2)(B)(iii). Pub. L. 112–56, § 265(a)(2)(B), struck out cl. (iii) which listed loan fees of 2.15 percent in the first two table columns for a subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after Oct. 1, 2012, and before Oct. 1, 2013).
+Subsec. (b)(2)(B)(iii). Pub. L. 112–56, § 265(a)(2)(B), struck out cl. (iii) which listed loan fees of 2.15 percent in the first two table columns for a subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after Oct. 1, 2012, and before Oct. 1, 2013).
 
-Pub. L. 112–26, § 3(a)(3), substituted “October 1, 2012” for “October 1, 2011”.
+Pub. L. 112–26, § 3(a)(3), substituted “October 1, 2012” for “October 1, 2011”.
 
-Subsec. (b)(2)(B)(iv). Pub. L. 112–56, § 265(a)(2)(C), redesignated cl. (iv) as (ii).
+Subsec. (b)(2)(B)(iv). Pub. L. 112–56, § 265(a)(2)(C), redesignated cl. (iv) as (ii).
 
-Subsec. (b)(2)(C), (D). Pub. L. 112–56, § 265(a)(3), (4), substituted “October 1, 2016” for “November 18, 2011” wherever appearing.
+Subsec. (b)(2)(C), (D). Pub. L. 112–56, § 265(a)(3), (4), substituted “October 1, 2016” for “November 18, 2011” wherever appearing.
 
 2010—Subsec. (c)(1). Pub. L. 111–275 inserted “or active service pay” after “retirement pay”.
 
@@ -2988,67 +2988,67 @@ Subsec. (b)(2)(C), (D). Pub. L. 112–56, § 265(a)(3), (4), substituted “Oc
 
 2001—Pub. L. 107–14 made technical amendment to Pub. L. 106–419. See 2000 Amendment note below.
 
-Subsec. (b)(2). Pub. L. 107–103, § 405(c), substituted “October 1, 2011” for “October 1, 2008” wherever appearing in table.
+Subsec. (b)(2). Pub. L. 107–103, § 405(c), substituted “October 1, 2011” for “October 1, 2008” wherever appearing in table.
 
-Subsec. (b)(4)(B). Pub. L. 107–103, § 406, inserted “who is eligible under section 3702(a)(2)(E) of this title” before period.
+Subsec. (b)(4)(B). Pub. L. 107–103, § 406, inserted “who is eligible under section 3702(a)(2)(E) of this title” before period.
 
 2000—Pub. L. 106–419, as amended by Pub. L. 107–14, amended text generally, substituting present provisions for provisions which established loan fee, set fee as 1.25 percent of total loan amount, with exceptions, provided that amount of fee may be included in loan amount and paid from proceeds thereof, provided for increased loan fee percentage for loans closed during specified period, provided for fees on subsequent loans and assumed loans, and provided that fees may not be collected from veterans receiving compensation or from surviving spouses of any veterans who died from service-connected disability.
 
-1998—Subsec. (a)(1). Pub. L. 105–368, § 602(e)(1)(D)(ii), substituted “(c)” for “(c)(1)”.
+1998—Subsec. (a)(1). Pub. L. 105–368, § 602(e)(1)(D)(ii), substituted “(c)” for “(c)(1)”.
 
-Subsec. (a)(4). Pub. L. 105–368, § 603(b), designated existing provisions as subpar. (A), substituted “during the period specified in subparagraph (B)” for “after September 30, 1993, and before October 1, 2002,”, and added subpar. (B).
+Subsec. (a)(4). Pub. L. 105–368, § 603(b), designated existing provisions as subpar. (A), substituted “during the period specified in subparagraph (B)” for “after September 30, 1993, and before October 1, 2002,”, and added subpar. (B).
 
-Subsec. (c). Pub. L. 105–368, § 603(e)(1)(D)(i), struck out “(1)” before “A fee may not” and struck out pars. (2) and (3) which read as follows:
+Subsec. (c). Pub. L. 105–368, § 603(e)(1)(D)(i), struck out “(1)” before “A fee may not” and struck out pars. (2) and (3) which read as follows:
 
 “(2) There shall be credited to the Guaranty and Indemnity Fund (in addition to the amount required to be credited to such Fund under clause (A) or (B) of paragraph (2) of section 3725(c) of this title or paragraph (3) of that section), on behalf of a veteran or surviving spouse described in paragraph (1) of this subsection, an amount equal to the fee that, except for paragraph (1) of this subsection, would be collected from such veteran or surviving spouse.
 
 “(3) Credits to the Guaranty and Indemnity Fund under paragraph (2) of this subsection with respect to loans guaranteed, insured, or made under this chapter that are closed during fiscal year 1990 shall be made in October 1990.”
 
-1997—Subsec. (a)(2)(A). Pub. L. 105–33, § 8032(1)(A), struck out “or 3733(a)” after “section 3711”.
+1997—Subsec. (a)(2)(A). Pub. L. 105–33, § 8032(1)(A), struck out “or 3733(a)” after “section 3711”.
 
-Subsec. (a)(2)(F). Pub. L. 105–33, § 8032(1)(B)–(D), added subpar. (F).
+Subsec. (a)(2)(F). Pub. L. 105–33, § 8032(1)(B)–(D), added subpar. (F).
 
-Subsec. (a)(4). Pub. L. 105–33, §§ 8012(1), 8032(2), substituted “October 1, 2002” for “October 1, 1998” and “(E), or (F)” for “or (E)”.
+Subsec. (a)(4). Pub. L. 105–33, §§ 8012(1), 8032(2), substituted “October 1, 2002” for “October 1, 1998” and “(E), or (F)” for “or (E)”.
 
-Subsec. (a)(5)(C). Pub. L. 105–33, § 8012(2), substituted “October 1, 2002” for “October 1, 1998”.
+Subsec. (a)(5)(C). Pub. L. 105–33, § 8012(2), substituted “October 1, 2002” for “October 1, 1998”.
 
 1996—Subsec. (a)(2)(E). Pub. L. 104–275 substituted “3712(a)(1)(F), or 3762(h)” for “or 3712(a)(1)(F)”.
 
 1994—Subsec. (a)(2)(E). Pub. L. 103–446 inserted “3710(a)(11),” after “3710(a)(9)(B)(i),”.
 
-1993—Subsec. (a)(2). Pub. L. 103–66, § 12007(c), substituted “paragraphs (4) and (5)” for “paragraph (6)” in introductory provisions.
+1993—Subsec. (a)(2). Pub. L. 103–66, § 12007(c), substituted “paragraphs (4) and (5)” for “paragraph (6)” in introductory provisions.
 
-Subsecs. (a)(4) to (6). Pub. L. 103–66, § 12007(a), (b), added pars. (4) and (5) and struck out par. (6) which read as follows: “With respect to each loan closed during the period beginning on November 1, 1990, and ending on September 30, 1991, each amount specified in paragraph (2) of this subsection shall be increased by 0.625 percent of the total loan amount.”
+Subsecs. (a)(4) to (6). Pub. L. 103–66, § 12007(a), (b), added pars. (4) and (5) and struck out par. (6) which read as follows: “With respect to each loan closed during the period beginning on November 1, 1990, and ending on September 30, 1991, each amount specified in paragraph (2) of this subsection shall be increased by 0.625 percent of the total loan amount.”
 
-1992—Subsec. (a)(2)(A). Pub. L. 102–547, § 5(1), inserted “(other than section 3712(a)(1)(F))” after “section 3712”.
+1992—Subsec. (a)(2)(A). Pub. L. 102–547, § 5(1), inserted “(other than section 3712(a)(1)(F))” after “section 3712”.
 
-Subsec. (a)(2)(D). Pub. L. 102–547, § 2(b)(1), added subpar. (D).
+Subsec. (a)(2)(D). Pub. L. 102–547, § 2(b)(1), added subpar. (D).
 
-Subsec. (a)(2)(E). Pub. L. 102–547, § 5(2), added subpar. (E).
+Subsec. (a)(2)(E). Pub. L. 102–547, § 5(2), added subpar. (E).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1829 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1829 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “3733(a)” for “1833(a)”.
+Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “3733(a)” for “1833(a)”.
 
-Subsec. (a)(2). Pub. L. 102–83, § 5(c)(1), substituted “3711 or 3733(a)” for “1811 or 1833(a)” and “3712” for “1812” in subpar. (A) and “3712(a)” for “1812(a)” in subpars. (B) and (C).
+Subsec. (a)(2). Pub. L. 102–83, § 5(c)(1), substituted “3711 or 3733(a)” for “1811 or 1833(a)” and “3712” for “1812” in subpar. (A) and “3712(a)” for “1812(a)” in subpars. (B) and (C).
 
-Subsec. (a)(3) to (5). Pub. L. 102–54, § 15(a)(3), redesignated par. (5) as (3) and struck out former pars. (3) and (4) which read as follows:
+Subsec. (a)(3) to (5). Pub. L. 102–54, § 15(a)(3), redesignated par. (5) as (3) and struck out former pars. (3) and (4) which read as follows:
 
 “(3) Except as provided in paragraph (4) of this subsection, there shall be credited to the Guaranty and Indemnity Fund (in addition to the amount required to be credited to such Fund under section 1825(c)(2)(A) or (B) of this title), on behalf of a veteran who has made a downpayment described in paragraph (2)(C) of this subsection, an amount equal to 0.25 percent of the total loan amount for the fiscal year in which the loan is closed and for the following fiscal year.
 
 “(4) Credits to the Guaranty and Indemnity Fund under paragraph (3) of this subsection with respect to loans guaranteed or insured under this chapter that are closed during fiscal year 1990 shall be made in October 1990 and October 1991.”
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3714” for “1814”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3714” for “1814”.
 
-Subsec. (c)(2). Pub. L. 102–83, § 5(c)(1), substituted “3725(c)” for “1825(c)”.
+Subsec. (c)(2). Pub. L. 102–83, § 5(c)(1), substituted “3725(c)” for “1825(c)”.
 
-Pub. L. 102–54, § 15(a)(4), substituted “clause (A) or (B) of paragraph (2) of section 1825(c) of this title or paragraph (3) of that section” for “section 1825(c)(2)(A) or (B) of this title and subsection (a)(3) of this section”.
+Pub. L. 102–54, § 15(a)(4), substituted “clause (A) or (B) of paragraph (2) of section 1825(c) of this title or paragraph (3) of that section” for “section 1825(c)(2)(A) or (B) of this title and subsection (a)(3) of this section”.
 
-1990—Subsec. (a)(2). Pub. L. 101–508, § 8032(1), substituted “Except as provided in paragraph (6) of this subsection, the amount” for “The amount”.
+1990—Subsec. (a)(2). Pub. L. 101–508, § 8032(1), substituted “Except as provided in paragraph (6) of this subsection, the amount” for “The amount”.
 
-Subsec. (a)(6). Pub. L. 101–508, § 8032(2), added par. (6).
+Subsec. (a)(6). Pub. L. 101–508, § 8032(2), added par. (6).
 
-1989—Pub. L. 101–237, § 303(a), amended section generally. Prior to amendment, section read as follows:
+1989—Pub. L. 101–237, § 303(a), amended section generally. Prior to amendment, section read as follows:
 
 “(a) Except as provided in subsection (b) of this section, a fee shall be collected from each veteran obtaining a housing loan guaranteed, made, or insured under this chapter, and from each person obtaining a loan from the Secretary to finance the purchase of real property from the Secretary, and no such loan may be guaranteed, made, or insured under this chapter until the fee payable with respect to such loan has been remitted to the Secretary. The amount of the fee shall be one percent of the total loan amount. The amount of the fee may be included in the loan and paid from the proceeds thereof.
 
@@ -3058,21 +3058,21 @@ Subsec. (a)(6). Pub. L. 101–508, § 8032(2), added par. (6).
 
 “(d) Except as provided in subsection (b) of this section, a fee shall be collected from a person assuming a loan to which section 1814 of this chapter applies. The amount of the fee shall be equal to one-half of one percent of the balance of such loan on the date of the transfer of the property.”
 
-Subsec. (a). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (a). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
 
 Subsec. (c). Pub. L. 101–239 substituted “September 30, 1990” for “September 30, 1989”.
 
 1988—Subsec. (d). Pub. L. 100–322 substituted “section 1814” for “section 1817A”.
 
-1987—Subsec. (b). Pub. L. 100–198, § 2(b), substituted “of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability” for “described in section 1801(b)(2) of this title”.
+1987—Subsec. (b). Pub. L. 100–198, § 2(b), substituted “of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability” for “described in section 1801(b)(2) of this title”.
 
-Subsec. (c). Pub. L. 100–198, § 2(a), and Pub. L. 100–203, amended subsec. identically, substituting “September 30, 1989” for “September 30, 1987”.
+Subsec. (c). Pub. L. 100–198, § 2(a), and Pub. L. 100–203, amended subsec. identically, substituting “September 30, 1989” for “September 30, 1987”.
 
-Subsec. (d). Pub. L. 100–198, § 10(c), added subsec. (d).
+Subsec. (d). Pub. L. 100–198, § 10(c), added subsec. (d).
 
-1984—Subsec. (a). Pub. L. 98–369, § 2511(a)(1), inserted “and from each person obtaining a loan from the Administrator to finance the purchase of real property from the Administrator,” after “under this chapter,”, struck out “one-half of” before “one percent of the total loan amount”, and struck out “to the veteran” after “in the loan”.
+1984—Subsec. (a). Pub. L. 98–369, § 2511(a)(1), inserted “and from each person obtaining a loan from the Administrator to finance the purchase of real property from the Administrator,” after “under this chapter,”, struck out “one-half of” before “one percent of the total loan amount”, and struck out “to the veteran” after “in the loan”.
 
-Subsecs. (c), (d). Pub. L. 98–367, § 2511(a)(2), (3), redesignated subsec. (d) as (c) and substituted “September 30, 1987” for “September 30, 1985”. Former subsec. (c), which related to deposit of fees collected under this section into Treasury as miscellaneous receipts, was struck out.
+Subsecs. (c), (d). Pub. L. 98–367, § 2511(a)(2), (3), redesignated subsec. (d) as (c) and substituted “September 30, 1987” for “September 30, 1985”. Former subsec. (c), which related to deposit of fees collected under this section into Treasury as miscellaneous receipts, was struck out.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3082,7 +3082,7 @@ Amendment by Pub. L. 116–23 applicable with respect to a loan guaranteed under
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–56, title II, § 265(b), Nov. 21, 2011, 125 Stat. 733, provided that:
+Pub. L. 112–56, title II, § 265(b), Nov. 21, 2011, 125 Stat. 733, provided that:
 
 > “The amendments made by subsection (a) [amending this section] shall take effect on the later of—
 
@@ -3090,15 +3090,15 @@ Pub. L. 112–56, title II, § 265(b), Nov. 21, 2011, 125 Stat. 733, provided 
 
 > **“(2)** the date of the enactment of this Act [Nov. 21, 2011].”
 
-Pub. L. 112–26, § 3(b), Aug. 3, 2011, 125 Stat. 269, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the later of October 1, 2011, or the date of the enactment of this Act [Aug. 3, 2011].”
+Pub. L. 112–26, § 3(b), Aug. 3, 2011, 125 Stat. 269, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the later of October 1, 2011, or the date of the enactment of this Act [Aug. 3, 2011].”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–183, title IV, § 405, Dec. 16, 2003, 117 Stat. 2665, provided that the amendment made by section 405 is effective Jan. 1, 2004.
+Pub. L. 108–183, title IV, § 405, Dec. 16, 2003, 117 Stat. 2665, provided that the amendment made by section 405 is effective Jan. 1, 2004.
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–14, § 8(b), June 5, 2001, 115 Stat. 36, provided that the amendment made by section 8(b) is effective Nov. 1, 2000, and as if included in the Veterans Benefits and Health Care Improvement Act of 2000, Pub. L. 106–419, as enacted.
+Pub. L. 107–14, § 8(b), June 5, 2001, 115 Stat. 36, provided that the amendment made by section 8(b) is effective Nov. 1, 2000, and as if included in the Veterans Benefits and Health Care Improvement Act of 2000, Pub. L. 106–419, as enacted.
 
 **Effective Date of 1998 Amendment**
 
@@ -3106,11 +3106,11 @@ Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–237, title III, § 303(b), Dec. 18, 1989, 103 Stat. 2073, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 1990.”
+Pub. L. 101–237, title III, § 303(b), Dec. 18, 1989, 103 Stat. 2073, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 1990.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. B, title V, § 2511(c), July 18, 1984, 98 Stat. 1117, provided that:
+Pub. L. 98–369, div. B, title V, § 2511(c), July 18, 1984, 98 Stat. 1117, provided that:
 
 > **“(1)** The amendments made by subsection (a)(1) [amending this section] shall apply with respect to loans closed after the end of the 30-day period beginning on the date of the enactment of this Act [July 18, 1984].
 
@@ -3120,15 +3120,15 @@ Pub. L. 98–369, div. B, title V, § 2511(c), July 18, 1984, 98 Stat. 1117, p
 
 **Effective Date**
 
-Pub. L. 97–253, title IV, § 406(b), Sept. 8, 1982, 96 Stat. 805, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Section 1829 [now 3729] of title 38, United States Code, as added by subsection (a), shall apply only to loans closed after September 30, 1982.”
+Pub. L. 97–253, title IV, § 406(b), Sept. 8, 1982, 96 Stat. 805, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Section 1829 [now 3729] of title 38, United States Code, as added by subsection (a), shall apply only to loans closed after September 30, 1982.”
 
 **Temporary Increase in Certain Housing Loan Fees**
 
-Pub. L. 109–233, title I, § 101(f), June 15, 2006, 120 Stat. 399, provided that: “For a subsequent loan described in subsection (a) of section 3710 of title 38, United States Code, to purchase or construct a dwelling with 0-down or any other subsequent loan described in that subsection, other than a loan with 5-down or 10-down, that is closed during fiscal year 2007, the Secretary of Veterans Affairs shall apply section 3729(b)(2) of such title by substituting ‘3.35’ for ‘3.30’.”
+Pub. L. 109–233, title I, § 101(f), June 15, 2006, 120 Stat. 399, provided that: “For a subsequent loan described in subsection (a) of section 3710 of title 38, United States Code, to purchase or construct a dwelling with 0-down or any other subsequent loan described in that subsection, other than a loan with 5-down or 10-down, that is closed during fiscal year 2007, the Secretary of Veterans Affairs shall apply section 3729(b)(2) of such title by substituting ‘3.35’ for ‘3.30’.”
 
 **Fee for Loan Assumption**
 
-Pub. L. 107–330, title III, § 307, Dec. 6, 2002, 116 Stat. 2827, provided that:
+Pub. L. 107–330, title III, § 307, Dec. 6, 2002, 116 Stat. 2827, provided that:
 
 > **“(a) In General.—** For the period described in subsection (b), the Secretary of Veterans Affairs shall apply section 3729(b)(2)(I) of title 38, United States Code, by substituting ‘1.00’ for ‘0.50’ each place it appears.
 
@@ -3136,7 +3136,7 @@ Pub. L. 107–330, title III, § 307, Dec. 6, 2002, 116 Stat. 2827, provided t
 
 **Ratification of Actions by Secretary of Veterans Affairs and by Secretary of the Treasury Between Oct. 1, 1990, and June 13, 1991**
 
-Pub. L. 102–54, § 15(b), June 13, 1991, 105 Stat. 289, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
+Pub. L. 102–54, § 15(b), June 13, 1991, 105 Stat. 289, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
 
 > **“(1)** Any action of the Secretary of Veterans Affairs or the Secretary of the Treasury—
 
@@ -3160,23 +3160,23 @@ For rule relating to construction of provisions of Pub. L. 100–203 and Pub. L.
 
 **Extension of Time for Collection of Fees**
 
-Pub. L. 101–237, title III, § 303(c), Dec. 18, 1989, 103 Stat. 2073, directed Secretary of Veterans Affairs to collect fees under this section through Dec. 31, 1989.
+Pub. L. 101–237, title III, § 303(c), Dec. 18, 1989, 103 Stat. 2073, directed Secretary of Veterans Affairs to collect fees under this section through Dec. 31, 1989.
 
-Pub. L. 101–110, § 2, Oct. 6, 1989, 103 Stat. 682, authorized collection of fees under this section with respect to loans closed before Dec. 1, 1989.
+Pub. L. 101–110, § 2, Oct. 6, 1989, 103 Stat. 682, authorized collection of fees under this section with respect to loans closed before Dec. 1, 1989.
 
-Pub. L. 100–136, § 1(b), Oct. 16, 1987, 101 Stat. 813, authorized collection of fees under this section with respect to loans closed through Nov. 15, 1987.
+Pub. L. 100–136, § 1(b), Oct. 16, 1987, 101 Stat. 813, authorized collection of fees under this section with respect to loans closed through Nov. 15, 1987.
 
 **Home Loan Origination Fee**
 
-Pub. L. 99–576, title IV, § 409, Oct. 28, 1986, 100 Stat. 3283, provided that: “It is the sense of the Congress that the Veterans’ Administration loan origination fee should not be increased above its present level of one percent of the amount of the loan guaranteed.”
+Pub. L. 99–576, title IV, § 409, Oct. 28, 1986, 100 Stat. 3283, provided that: “It is the sense of the Congress that the Veterans’ Administration loan origination fee should not be increased above its present level of one percent of the amount of the loan guaranteed.”
 
-### § 3730. Use of attorneys in court
+### § 3730. Use of attorneys in court
 
 **(a)** The Secretary shall authorize attorneys employed by the Department of Veterans Affairs to exercise the right of the United States to bring suit in court to foreclose a loan made or acquired by the Secretary under this chapter and to recover possession of any property acquired by the Secretary under this chapter. The Secretary may acquire the services of attorneys, other than those who are employees of the Department of Veterans Affairs, to exercise that right. The activities of attorneys in bringing suit under this section shall be subject to the direction and supervision of the Attorney General and to such terms and conditions as the Attorney General may prescribe.
 
 **(b)** Nothing in this section derogates from the authority of the Attorney General under sections 516 and 519 of title 28 to direct and supervise all litigation to which the United States or an agency or officer of the United States is a party.
 
-(Added Pub. L. 98–369, div. B, title V, § 2512(b)(1), July 18, 1984, 98 Stat. 1120, § 1830; amended Pub. L. 99–576, title IV, § 406, Oct. 28, 1986, 100 Stat. 3282; Pub. L. 101–237, title III, § 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3730, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title X, § 1005(b)(12), Nov. 11, 1998, 112 Stat. 3365.)
+(Added Pub. L. 98–369, div. B, title V, § 2512(b)(1), July 18, 1984, 98 Stat. 1120, § 1830; amended Pub. L. 99–576, title IV, § 406, Oct. 28, 1986, 100 Stat. 3282; Pub. L. 101–237, title III, § 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3730, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title X, § 1005(b)(12), Nov. 11, 1998, 112 Stat. 3365.)
 
 **Editorial Notes**
 
@@ -3194,9 +3194,9 @@ Pub. L. 99–576, title IV, § 409, Oct. 28, 1986, 100 Stat. 3283, provided th
 
 **Effective Date**
 
-Pub. L. 98–369, div. B, title V, § 2512(c)(3), July 18, 1984, 98 Stat. 1120, provided that: “The amendments made by subsection (b) [enacting this section] shall take effect on the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. B, title V, § 2512(c)(3), July 18, 1984, 98 Stat. 1120, provided that: “The amendments made by subsection (b) [enacting this section] shall take effect on the date of the enactment of this Act [July 18, 1984].”
 
-### § 3731. Appraisals
+### § 3731. Appraisals
 
 **(a)** The Secretary shall—
 
@@ -3238,7 +3238,7 @@ the Secretary shall consider both the initial appraisal and the additional appra
 
 **(2)** In exercising the authority provided in paragraph (1) of this subsection, the Secretary shall assign a sufficient number of personnel to carry out an appraisal-review system to monitor, on at least a random-sampling basis, the making of appraisals by appraisers and the effectiveness and the efficiency of the determination of reasonable value of property by lenders.
 
-**[(3)** Repealed. Pub. L. 104–110, title I, § 101(g), Feb. 13, 1996, 110 Stat. 768.]
+**[(3)** Repealed. Pub. L. 104–110, title I, § 101(g), Feb. 13, 1996, 110 Stat. 768.]
 
 **(4)** Not later than April 30 of each year following a year in which the Secretary authorizes lenders to determine reasonable value of property under this subsection, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report relating to the exercise of that authority during the year in which the authority was exercised.
 
@@ -3254,7 +3254,7 @@ the Secretary shall consider both the initial appraisal and the additional appra
 
 **(E)** such recommendations as the Secretary considers appropriate to improve the exercise of the authority provided for in this subsection and to protect the interests of the United States.
 
-(Added Pub. L. 99–576, title IV, § 407(a), Oct. 28, 1986, 100 Stat. 3282, § 1831; amended Pub. L. 100–198, § 11(a), (b), Dec. 21, 1987, 101 Stat. 1324; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, § 3(b), (c), June 13, 1991, 105 Stat. 267; renumbered § 3731 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, § 7, Oct. 28, 1992, 106 Stat. 3636; Pub. L. 104–110, title I, § 101(g), Feb. 13, 1996, 110 Stat. 768; Pub. L. 116–23, § 7(a), June 25, 2019, 133 Stat. 976.)
+(Added Pub. L. 99–576, title IV, § 407(a), Oct. 28, 1986, 100 Stat. 3282, § 1831; amended Pub. L. 100–198, § 11(a), (b), Dec. 21, 1987, 101 Stat. 1324; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, § 3(b), (c), June 13, 1991, 105 Stat. 267; renumbered § 3731 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, § 7, Oct. 28, 1992, 106 Stat. 3636; Pub. L. 104–110, title I, § 101(g), Feb. 13, 1996, 110 Stat. 768; Pub. L. 116–23, § 7(a), June 25, 2019, 133 Stat. 976.)
 
 **Editorial Notes**
 
@@ -3270,31 +3270,31 @@ Another section 11(b) of Pub. L. 100–198 amended section 1810 [now 3710] of th
 
 1992—Subsec. (f)(3). Pub. L. 102–547 substituted “1995” for “1992”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1831 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1831 of this title as this section.
 
-Subsec. (f)(1). Pub. L. 102–83, § 5(c)(1), substituted “3702(d)” for “1802(d)”.
+Subsec. (f)(1). Pub. L. 102–83, § 5(c)(1), substituted “3702(d)” for “1802(d)”.
 
-Subsec. (f)(3). Pub. L. 102–54, § 3(b), substituted “December 31, 1992” for “October 1, 1990”.
+Subsec. (f)(3). Pub. L. 102–54, § 3(b), substituted “December 31, 1992” for “October 1, 1990”.
 
-Subsec. (f)(4), (5). Pub. L. 102–54, § 3(c), added pars. (4) and (5).
+Subsec. (f)(4), (5). Pub. L. 102–54, § 3(c), added pars. (4) and (5).
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1987—Subsec. (a)(1). Pub. L. 100–198, § 11(a)(1), inserted “subject to subsection (b)(2) and” at beginning and “, including the successful completion of a written test, submission of a sample appraisal, certification of an appropriate number of years of experience as an appraiser, and submission of recommendations from other appraisers” before semicolon at end.
+1987—Subsec. (a)(1). Pub. L. 100–198, § 11(a)(1), inserted “subject to subsection (b)(2) and” at beginning and “, including the successful completion of a written test, submission of a sample appraisal, certification of an appropriate number of years of experience as an appraiser, and submission of recommendations from other appraisers” before semicolon at end.
 
-Subsec. (b). Pub. L. 100–198, § 11(a)(2), designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 100–198, § 11(a)(2), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (c). Pub. L. 100–198, § 11(b)(1), substituted “Except as provided in subsection (f) of this section, the appraiser shall forward an appraisal report to the Administrator for review. Upon receipt of such report, the Administrator shall determine the reasonable value of the property, construction, repairs, or alterations for purposes of this chapter, and notify the veteran of such determination. Upon request, the Administrator shall” for “The Administrator shall, upon request,”.
+Subsec. (c). Pub. L. 100–198, § 11(b)(1), substituted “Except as provided in subsection (f) of this section, the appraiser shall forward an appraisal report to the Administrator for review. Upon receipt of such report, the Administrator shall determine the reasonable value of the property, construction, repairs, or alterations for purposes of this chapter, and notify the veteran of such determination. Upon request, the Administrator shall” for “The Administrator shall, upon request,”.
 
-Subsec. (d). Pub. L. 100–198, § 11(b)(2), which directed insertion of “(other than a lender authorized under subsection (f) of this section to determine reasonable value)” after “lender” was executed by making the insertion after “lender” the first place it appears in subsec. (d), as the probable intent of Congress, notwithstanding appearance of “lender” in subsec. (d)(3).
+Subsec. (d). Pub. L. 100–198, § 11(b)(2), which directed insertion of “(other than a lender authorized under subsection (f) of this section to determine reasonable value)” after “lender” was executed by making the insertion after “lender” the first place it appears in subsec. (d), as the probable intent of Congress, notwithstanding appearance of “lender” in subsec. (d)(3).
 
-Subsec. (f). Pub. L. 100–198, § 11(b)(3), added subsec. (f).
+Subsec. (f). Pub. L. 100–198, § 11(b)(3), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–23, § 7(b), June 25, 2019, 133 Stat. 976, provided that: “The amendments made by this section [amending this section] shall apply with respect to an appraisal under section 3731 of such title [meaning title 38, United States Code], on or after January 1, 2020.”
+Pub. L. 116–23, § 7(b), June 25, 2019, 133 Stat. 976, provided that: “The amendments made by this section [amending this section] shall apply with respect to an appraisal under section 3731 of such title [meaning title 38, United States Code], on or after January 1, 2020.”
 
 **Improving Access to the Veterans Affairs Home Loan Benefit**
 
@@ -3338,13 +3338,13 @@ Pub. L. 117–308, Dec. 27, 2022, 136 Stat. 4393, provided that:
 
 **Guidance To Implement Amendment by Pub. L. 116–23**
 
-Pub. L. 116–23, § 7(c), June 25, 2019, 133 Stat. 976, provided that: “Notwithstanding section 501 of such title [meaning title 38, United States Code], the Secretary of Veterans Affairs may issue guidance to implement this section [amending this section and enacting provisions set out as a note under this section] before prescribing new regulations under sections [sic] 3731 of such title, as amended by subsection (a).”
+Pub. L. 116–23, § 7(c), June 25, 2019, 133 Stat. 976, provided that: “Notwithstanding section 501 of such title [meaning title 38, United States Code], the Secretary of Veterans Affairs may issue guidance to implement this section [amending this section and enacting provisions set out as a note under this section] before prescribing new regulations under sections [sic] 3731 of such title, as amended by subsection (a).”
 
 **Ratification of Actions During Period of Expired Authority**
 
 Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
 
-### § 3732. Procedure on default
+### § 3732. Procedure on default
 
 **(a)**
 
@@ -3470,7 +3470,7 @@ the date referred to in paragraph (1)(D)(ii) of this subsection shall be a date,
 
 **(d)** The Secretary shall prescribe loss mitigation procedures, including a mandatory sequence in which the holder of a loan guaranteed under this chapter shall offer loss mitigation options (including an option to enter into a partial claim agreement under the VA Home Loan Program Reform Act) to a veteran, to help prevent the foreclosure of such loan. The Secretary may not purchase an entire such loan until the veteran has completed such sequence.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, § 1816(a)–(c); Pub. L. 89–117, title I, § 107(f), Aug. 10, 1965, 79 Stat. 460; Pub. L. 94–324, § 7(17), June 30, 1976, 90 Stat. 722; Pub. L. 98–369, div. B, title V, § 2512(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§ 4(a), 5(a), Dec. 21, 1987, 101 Stat. 1316; renumbered § 1832 and amended Pub. L. 100–322, title IV, § 415(b)(1)(A)–(C), (5), May 20, 1988, 102 Stat. 550, 551; Pub. L. 101–237, title III, §§ 304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073–2075, 2077; Pub. L. 102–54, §§ 1, 3(a), 14(g)(1), June 13, 1991, 105 Stat. 267, 288; renumbered § 3732 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–66, title XII, § 12006(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, § 907, Nov. 2, 1994, 108 Stat. 4677; Pub. L. 105–33, title VIII, § 8013, Aug. 5, 1997, 111 Stat. 664; Pub. L. 106–419, title IV, § 402(c), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 107–103, title IV, § 405(d), Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title IV, § 406, Dec. 16, 2003, 117 Stat. 2666; Pub. L. 109–233, title V, § 503(9), June 15, 2006, 120 Stat. 416; Pub. L. 111–275, title VIII, § 802(a), Oct. 13, 2010, 124 Stat. 2888; Pub. L. 112–191, title II, § 201, Oct. 5, 2012, 126 Stat. 1439; Pub. L. 113–37, § 2(h), Sept. 30, 2013, 127 Stat. 525; Pub. L. 113–175, title III, § 302, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title II, § 202, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title II, § 202, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title II, § 201, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, § 124, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 119–31, § 2(a), July 30, 2025, 139 Stat. 475.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, § 1816(a)–(c); Pub. L. 89–117, title I, § 107(f), Aug. 10, 1965, 79 Stat. 460; Pub. L. 94–324, § 7(17), June 30, 1976, 90 Stat. 722; Pub. L. 98–369, div. B, title V, § 2512(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§ 4(a), 5(a), Dec. 21, 1987, 101 Stat. 1316; renumbered § 1832 and amended Pub. L. 100–322, title IV, § 415(b)(1)(A)–(C), (5), May 20, 1988, 102 Stat. 550, 551; Pub. L. 101–237, title III, §§ 304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073–2075, 2077; Pub. L. 102–54, §§ 1, 3(a), 14(g)(1), June 13, 1991, 105 Stat. 267, 288; renumbered § 3732 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–66, title XII, § 12006(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, § 907, Nov. 2, 1994, 108 Stat. 4677; Pub. L. 105–33, title VIII, § 8013, Aug. 5, 1997, 111 Stat. 664; Pub. L. 106–419, title IV, § 402(c), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 107–103, title IV, § 405(d), Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title IV, § 406, Dec. 16, 2003, 117 Stat. 2666; Pub. L. 109–233, title V, § 503(9), June 15, 2006, 120 Stat. 416; Pub. L. 111–275, title VIII, § 802(a), Oct. 13, 2010, 124 Stat. 2888; Pub. L. 112–191, title II, § 201, Oct. 5, 2012, 126 Stat. 1439; Pub. L. 113–37, § 2(h), Sept. 30, 2013, 127 Stat. 525; Pub. L. 113–175, title III, § 302, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title II, § 202, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title II, § 202, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title II, § 201, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, § 124, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 119–31, § 2(a), July 30, 2025, 139 Stat. 475.)
 
 **Editorial Notes**
 
@@ -3480,21 +3480,21 @@ The VA Home Loan Program Reform Act, referred to in subsec. (d), is Pub. L. 119�
 
 **Amendments**
 
-2025—Subsec. (a)(1). Pub. L. 119–31, § 2(a)(1)(A), substituted “holder of the loan” for “holder of the obligation” in two places.
+2025—Subsec. (a)(1). Pub. L. 119–31, § 2(a)(1)(A), substituted “holder of the loan” for “holder of the obligation” in two places.
 
-Subsec. (a)(2)(A). Pub. L. 119–31, § 2(a)(1)(B)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Before suit or foreclosure the holder of the obligation shall notify the Secretary of the default, and within thirty days thereafter the Secretary may, at the Secretary’s option, pay the holder of the obligation the unpaid balance of the obligation plus accrued interest and receive an assignment of the loan and security. Nothing in this section shall preclude any forebearance for the benefit of the veteran as may be agreed upon by the parties to the loan and approved by the Secretary.”
+Subsec. (a)(2)(A). Pub. L. 119–31, § 2(a)(1)(B)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Before suit or foreclosure the holder of the obligation shall notify the Secretary of the default, and within thirty days thereafter the Secretary may, at the Secretary’s option, pay the holder of the obligation the unpaid balance of the obligation plus accrued interest and receive an assignment of the loan and security. Nothing in this section shall preclude any forebearance for the benefit of the veteran as may be agreed upon by the parties to the loan and approved by the Secretary.”
 
-Subsec. (a)(2)(B). Pub. L. 119–31, § 2(a)(1)(B)(ii), substituted “of the housing loan” for “of the obligation” in two places.
+Subsec. (a)(2)(B). Pub. L. 119–31, § 2(a)(1)(B)(ii), substituted “of the housing loan” for “of the obligation” in two places.
 
-Subsec. (a)(2)(C), (D). Pub. L. 119–31, § 2(a)(1)(B)(iii), added subpars. (C) and (D).
+Subsec. (a)(2)(C), (D). Pub. L. 119–31, § 2(a)(1)(B)(iii), added subpars. (C) and (D).
 
-Subsec. (a)(5). Pub. L. 119–31, § 2(a)(1)(C), substituted “holder of the loan” for “holder of the obligation”.
+Subsec. (a)(5). Pub. L. 119–31, § 2(a)(1)(C), substituted “holder of the loan” for “holder of the obligation”.
 
-Subsec. (c)(1). Pub. L. 119–31, § 2(a)(2)(A), substituted “subsection:” for “subsection—” in introductory provisions.
+Subsec. (c)(1). Pub. L. 119–31, § 2(a)(2)(A), substituted “subsection:” for “subsection—” in introductory provisions.
 
-Subsec. (c)(10)(B)(i). Pub. L. 119–31, § 2(a)(2)(B), substituted “forbearance” for “forebearance” in two places.
+Subsec. (c)(10)(B)(i). Pub. L. 119–31, § 2(a)(2)(B), substituted “forbearance” for “forebearance” in two places.
 
-Subsec. (d). Pub. L. 119–31, § 2(a)(3), added subsec. (d).
+Subsec. (d). Pub. L. 119–31, § 2(a)(3), added subsec. (d).
 
 2018—Subsec. (c)(11). Pub. L. 115–251 struck out par. (11) which read as follows: “This subsection shall apply to loans closed before September 30, 2018.”
 
@@ -3522,65 +3522,65 @@ Subsec. (d). Pub. L. 119–31, § 2(a)(3), added subsec. (d).
 
 1997—Subsec. (c)(11). Pub. L. 105–33 substituted “October 1, 2002” for “October 1, 1998”.
 
-1994—Subsec. (c)(6). Pub. L. 103–446, § 907(b), struck out “either” after “defaulted loan”, substituted “sale,” for “sale or acquires the property at such sale for an amount that exceeds the lesser of the net value of the property or the total indebtedness under the loan—”, struck out text of subpar. (A) and subpar. (B) designation before “the liability”, and redesignated cls. (i) and (ii) as cls. (A) and (B), respectively. Prior to amendment, subpar. (A) read as follows: “the Secretary may not accept conveyance of the property except as provided in paragraph (7) of this subsection; and”.
+1994—Subsec. (c)(6). Pub. L. 103–446, § 907(b), struck out “either” after “defaulted loan”, substituted “sale,” for “sale or acquires the property at such sale for an amount that exceeds the lesser of the net value of the property or the total indebtedness under the loan—”, struck out text of subpar. (A) and subpar. (B) designation before “the liability”, and redesignated cls. (i) and (ii) as cls. (A) and (B), respectively. Prior to amendment, subpar. (A) read as follows: “the Secretary may not accept conveyance of the property except as provided in paragraph (7) of this subsection; and”.
 
-Subsec. (c)(7). Pub. L. 103–446, § 907(a)(1), struck out “that was the minimum amount for which, under applicable State law, the property was permitted to be sold at the liquidation sale—” after “net value and” in introductory provisions.
+Subsec. (c)(7). Pub. L. 103–446, § 907(a)(1), struck out “that was the minimum amount for which, under applicable State law, the property was permitted to be sold at the liquidation sale—” after “net value and” in introductory provisions.
 
-Subsec. (c)(7)(A). Pub. L. 103–446, § 907(a)(2), substituted “(i) the amount was the minimum amount for which, under applicable State law, the property was permitted to be sold at the liquidation sale, the holder shall have the option to convey the property to the United States in return for payment by the Secretary of an amount equal to” for “the Secretary may accept conveyance of the property to the United States for a price not exceeding” and “loan; or” for “loan; and” and added cl. (ii).
+Subsec. (c)(7)(A). Pub. L. 103–446, § 907(a)(2), substituted “(i) the amount was the minimum amount for which, under applicable State law, the property was permitted to be sold at the liquidation sale, the holder shall have the option to convey the property to the United States in return for payment by the Secretary of an amount equal to” for “the Secretary may accept conveyance of the property to the United States for a price not exceeding” and “loan; or” for “loan; and” and added cl. (ii).
 
-Subsec. (c)(7)(B). Pub. L. 103–446, § 907(a)(3), substituted “paragraph (6)” for “paragraph (6)(B)”.
+Subsec. (c)(7)(B). Pub. L. 103–446, § 907(a)(3), substituted “paragraph (6)” for “paragraph (6)(B)”.
 
-1993—Subsec. (c)(1)(C). Pub. L. 103–66, § 12006(a)(1), inserted “(including losses sustained on the resale of the property)” after “resale”.
+1993—Subsec. (c)(1)(C). Pub. L. 103–66, § 12006(a)(1), inserted “(including losses sustained on the resale of the property)” after “resale”.
 
-Subsec. (c)(11). Pub. L. 103–66, § 12006(a)(2), substituted “shall apply to loans closed before October 1, 1998” for “shall cease to have effect on December 31, 1992”.
+Subsec. (c)(11). Pub. L. 103–66, § 12006(a)(2), substituted “shall apply to loans closed before October 1, 1998” for “shall cease to have effect on December 31, 1992”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1832 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1832 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “3703(e)” for “1803(e)”.
+Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “3703(e)” for “1803(e)”.
 
-Subsec. (a)(4)(C). Pub. L. 102–54, § 1, struck out subpar. (C) which read as follows: “The authority to carry out this paragraph shall terminate on March 1, 1991.”
+Subsec. (a)(4)(C). Pub. L. 102–54, § 1, struck out subpar. (C) which read as follows: “The authority to carry out this paragraph shall terminate on March 1, 1991.”
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3711” for “1811”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3711” for “1811”.
 
-Subsec. (c)(1)(A). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)” for “1810(a)”.
+Subsec. (c)(1)(A). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)” for “1810(a)”.
 
-Subsec. (c)(9). Pub. L. 102–83, § 5(c)(1), substituted “3703(b)” for “1803(b)”.
+Subsec. (c)(9). Pub. L. 102–83, § 5(c)(1), substituted “3703(b)” for “1803(b)”.
 
-Subsec. (c)(11). Pub. L. 102–54, § 3(a), substituted “December 31, 1992” for “October 1, 1991”.
+Subsec. (c)(11). Pub. L. 102–54, § 3(a), substituted “December 31, 1992” for “October 1, 1991”.
 
-1989—Subsec. (a). Pub. L. 101–237, § 313(b)(1), (2), substituted “Secretary”, “Secretary’s”, and “Department of Veterans Affairs’ ” for “Administrator”, “Administrator’s”, and “Veterans’ Administration’s”, respectively, wherever appearing.
+1989—Subsec. (a). Pub. L. 101–237, § 313(b)(1), (2), substituted “Secretary”, “Secretary’s”, and “Department of Veterans Affairs’ ” for “Administrator”, “Administrator’s”, and “Veterans’ Administration’s”, respectively, wherever appearing.
 
-Pub. L. 101–237, § 304(b), substituted “Except as provided in section 1803(e) of this title, if” for “If” in last sentence of par. (1).
+Pub. L. 101–237, § 304(b), substituted “Except as provided in section 1803(e) of this title, if” for “If” in last sentence of par. (1).
 
-Subsec. (a)(5). Pub. L. 101–237, § 307, added par. (5).
+Subsec. (a)(5). Pub. L. 101–237, § 307, added par. (5).
 
-Subsecs. (b), (c). Pub. L. 101–237, § 313(b)(1), (2), substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+Subsecs. (b), (c). Pub. L. 101–237, § 313(b)(1), (2), substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
-Subsec. (c)(1)(C)(ii). Pub. L. 101–237, § 308(a), inserted “, excluding any amount attributed to the cost to the Government of borrowing funds” before period at end.
+Subsec. (c)(1)(C)(ii). Pub. L. 101–237, § 308(a), inserted “, excluding any amount attributed to the cost to the Government of borrowing funds” before period at end.
 
-Subsec. (c)(11). Pub. L. 101–237, § 308(b)(1), substituted “October 1, 1991” for “October 1, 1989”.
+Subsec. (c)(11). Pub. L. 101–237, § 308(b)(1), substituted “October 1, 1991” for “October 1, 1989”.
 
-1988—Pub. L. 100–322, § 415(b)(1)(C), (5)(A), redesignated section catchline of section 1816 of this title as section catchline of this section and struck out former catchline which read as follows: “Furnishing information to real estate professionals to facilitate the disposition of properties”.
+1988—Pub. L. 100–322, § 415(b)(1)(C), (5)(A), redesignated section catchline of section 1816 of this title as section catchline of this section and struck out former catchline which read as follows: “Furnishing information to real estate professionals to facilitate the disposition of properties”.
 
-Subsec. (a). Pub. L. 100–322, § 415(b)(1)(A), (C), redesignated subsec. (a) of section 1816 of this title as subsec. (a) of this section, and in par. (4)(A)(i)(I) substituted “paragraph (2) of this subsection” for “section 1816(a)(2) of this title”.
+Subsec. (a). Pub. L. 100–322, § 415(b)(1)(A), (C), redesignated subsec. (a) of section 1816 of this title as subsec. (a) of this section, and in par. (4)(A)(i)(I) substituted “paragraph (2) of this subsection” for “section 1816(a)(2) of this title”.
 
-Subsec. (b). Pub. L. 100–322, § 415(b)(1)(C), redesignated subsec. (b) of section 1816 of this title as subsec. (b) of this section.
+Subsec. (b). Pub. L. 100–322, § 415(b)(1)(C), redesignated subsec. (b) of section 1816 of this title as subsec. (b) of this section.
 
-Subsec. (c). Pub. L. 100–322, § 415(b)(1)(B), (C), redesignated subsec. (c) of section 1816 of this title as subsec. (c) of this section, in par. (10)(A) inserted “(or such earlier date following the expiration of a reasonable period of time for such sale to occur as the Administrator may specify pursuant to regulations prescribed by the Administrator to implement this subsection)” before period at end, and in par. (10)(B)(ii) inserted “(5)(A) or” after “under paragraph”.
+Subsec. (c). Pub. L. 100–322, § 415(b)(1)(B), (C), redesignated subsec. (c) of section 1816 of this title as subsec. (c) of this section, in par. (10)(A) inserted “(or such earlier date following the expiration of a reasonable period of time for such sale to occur as the Administrator may specify pursuant to regulations prescribed by the Administrator to implement this subsection)” before period at end, and in par. (10)(B)(ii) inserted “(5)(A) or” after “under paragraph”.
 
-1987—Subsec. (a)(4). Pub. L. 100–198, § 4(a), added par. (4).
+1987—Subsec. (a)(4). Pub. L. 100–198, § 4(a), added par. (4).
 
-Subsec. (c)(1)(D). Pub. L. 100–198, § 5(a)(1)–(3), substituted “Except as provided in subparagraph (D) of paragraph (10) of this subsection, the” for “The” at beginning, “applicable under paragraph (10) of this subsection, and” for “of the liquidation sale of the property securing the loan (or such earlier date following the expiration of a reasonable period of time for such sale to occur as the Administrator may specify pursuant to regulations prescribed by the Administrator to implement this subsection), and” in cl. (ii), and “regulations prescribed by the Administrator to implement this subsection” for “such regulations” in cl. (iii).
+Subsec. (c)(1)(D). Pub. L. 100–198, § 5(a)(1)–(3), substituted “Except as provided in subparagraph (D) of paragraph (10) of this subsection, the” for “The” at beginning, “applicable under paragraph (10) of this subsection, and” for “of the liquidation sale of the property securing the loan (or such earlier date following the expiration of a reasonable period of time for such sale to occur as the Administrator may specify pursuant to regulations prescribed by the Administrator to implement this subsection), and” in cl. (ii), and “regulations prescribed by the Administrator to implement this subsection” for “such regulations” in cl. (iii).
 
-Subsec. (c)(10), (11). Pub. L. 100–198, § 5(a)(4), added pars. (10) and (11).
+Subsec. (c)(10), (11). Pub. L. 100–198, § 5(a)(4), added pars. (10) and (11).
 
-1984—Subsec. (a)(1). Pub. L. 98–369, § 2512(a)(1)(A)–(C), designated existing first sentence as par. (1), substituted “Administrator of such default. Upon receipt of such notice, the Administrator may, subject to subsection (c) of this section,” for “Administrator who shall thereupon”, and substituted “guaranteed. If the Administrator makes a payment, the Administrator shall” for “guaranteed, and shall”.
+1984—Subsec. (a)(1). Pub. L. 98–369, § 2512(a)(1)(A)–(C), designated existing first sentence as par. (1), substituted “Administrator of such default. Upon receipt of such notice, the Administrator may, subject to subsection (c) of this section,” for “Administrator who shall thereupon”, and substituted “guaranteed. If the Administrator makes a payment, the Administrator shall” for “guaranteed, and shall”.
 
-Subsec. (a)(2). Pub. L. 98–369, § 2512(a)(1)(A), designated existing second and third sentences as par. (2).
+Subsec. (a)(2). Pub. L. 98–369, § 2512(a)(1)(A), designated existing second and third sentences as par. (2).
 
-Subsec. (a)(3). Pub. L. 98–369, § 2512(a)(1)(A), designated existing fourth sentence as par. (3).
+Subsec. (a)(3). Pub. L. 98–369, § 2512(a)(1)(A), designated existing fourth sentence as par. (3).
 
-Subsec. (c). Pub. L. 98–369, § 2512(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 98–369, § 2512(a)(2), added subsec. (c).
 
 1976—Subsec. (a). Pub. L. 94–324 substituted “the Administrator’s” for “his”.
 
@@ -3596,29 +3596,29 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title VIII, § 802(b), Oct. 13, 2010, 124 Stat. 2889, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to a housing loan guaranteed after the date of the enactment of this Act [Oct. 13, 2010].”
+Pub. L. 111–275, title VIII, § 802(b), Oct. 13, 2010, 124 Stat. 2889, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to a housing loan guaranteed after the date of the enactment of this Act [Oct. 13, 2010].”
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–66, title XII, § 12006(b), Aug. 10, 1993, 107 Stat. 414, provided that: “The amendments made by this section [amending this section] shall become effective October 1, 1993.”
+Pub. L. 103–66, title XII, § 12006(b), Aug. 10, 1993, 107 Stat. 414, provided that: “The amendments made by this section [amending this section] shall become effective October 1, 1993.”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–237, title III, § 308(b)(2), Dec. 18, 1989, 103 Stat. 2075, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of October 1, 1989.”
+Pub. L. 101–237, title III, § 308(b)(2), Dec. 18, 1989, 103 Stat. 2075, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of October 1, 1989.”
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–198, § 4(b), Dec. 21, 1987, 101 Stat. 1316, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on March 1, 1988.”
+Pub. L. 100–198, § 4(b), Dec. 21, 1987, 101 Stat. 1316, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on March 1, 1988.”
 
-Pub. L. 100–198, § 5(c), Dec. 21, 1987, 101 Stat. 1317, provided that: “The amendments made by subsection (a) [amending this section] shall apply to defaults which occur more than 60 days after the date of the enactment of this Act [Dec. 21, 1987].”
+Pub. L. 100–198, § 5(c), Dec. 21, 1987, 101 Stat. 1317, provided that: “The amendments made by subsection (a) [amending this section] shall apply to defaults which occur more than 60 days after the date of the enactment of this Act [Dec. 21, 1987].”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 100–136, § 1(a), Oct. 16, 1987, 101 Stat. 813, provided that: “Notwithstanding section 2512(c) of the Deficit Reduction Act of 1984 (Public Law 98–369) [set out below], the provisions of section 1816(c) [now 3732(c)] of title 38, United States Code, shall continue in effect through November 15, 1987.”
+Pub. L. 100–136, § 1(a), Oct. 16, 1987, 101 Stat. 813, provided that: “Notwithstanding section 2512(c) of the Deficit Reduction Act of 1984 (Public Law 98–369) [set out below], the provisions of section 1816(c) [now 3732(c)] of title 38, United States Code, shall continue in effect through November 15, 1987.”
 
-Pub. L. 98–369, div. B, title V, § 2512(c)(1), July 18, 1984, 98 Stat. 1120, provided that: “The amendments made by subsection (a) [amending subsec. (a) and adding subsecs. (c) and (d) of section 1816 [now 3732(a), (c) and 3733(a)] of this title] shall take effect on October 1, 1984.”
+Pub. L. 98–369, div. B, title V, § 2512(c)(1), July 18, 1984, 98 Stat. 1120, provided that: “The amendments made by subsection (a) [amending subsec. (a) and adding subsecs. (c) and (d) of section 1816 [now 3732(a), (c) and 3733(a)] of this title] shall take effect on October 1, 1984.”
 
-Pub. L. 98–369, div. B, title V, § 2512(c)(2), July 18, 1984, 98 Stat. 1120, which provided that subsecs. (c) and (d) of section 1816 (now 3732(a), (c) and 3733(a)) of this title would cease to be effective on Oct. 1, 1987, was repealed by Pub. L. 100–198, § 5(b), Dec. 21, 1987, 101 Stat. 1317.
+Pub. L. 98–369, div. B, title V, § 2512(c)(2), July 18, 1984, 98 Stat. 1120, which provided that subsecs. (c) and (d) of section 1816 (now 3732(a), (c) and 3733(a)) of this title would cease to be effective on Oct. 1, 1987, was repealed by Pub. L. 100–198, § 5(b), Dec. 21, 1987, 101 Stat. 1317.
 
 **Effective Date of 1976 Amendment**
 
@@ -3628,7 +3628,7 @@ Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. 
 
 Pub. L. 102–389, title I, Oct. 6, 1992, 106 Stat. 1574, provided in part: “That notwithstanding the provisions of 38 U.S.C. 3732(c)(1)(C) and (c)(11) or any other law, with respect to any loan guaranteed for any purpose specified in 38 U.S.C. 3710 which was closed before October 1, 1993, the term ‘net value’ for purposes of paragraphs (4) through (10) of 38 U.S.C. 3732[(c)] shall mean ‘the amount equal to (i) the fair market value of the property, minus (ii) the total of the amounts which the Secretary estimates the Secretary would incur (if the Secretary were to acquire and dispose of the property) for property taxes, assessments, liens, property maintenance, property improvement, administration, resale (including losses sustained on the resale of the property), and other costs resulting from the acquisition and disposition of the property, excluding any amount attributed to the cost of the Government of borrowing funds’.”
 
-### § 3733. Property management
+### § 3733. Property management
 
 **(a)**
 
@@ -3686,15 +3686,15 @@ Pub. L. 102–389, title I, Oct. 6, 1992, 106 Stat. 1574, provided in part: “T
 
 **(2)** For the purpose of facilitating the most expeditious sale, at the highest possible price, of real property acquired by the Secretary as the result of a default on a loan guaranteed, insured, or made under this chapter, the Secretary shall list all such property with real estate brokers under such arrangements as the Secretary determines to be most appropriate and cost effective.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §§ 1816(d)–(f), 1832; Pub. L. 98–369, div. B, title V, § 2512(a)(2), July 18, 1984, 98 Stat. 1117; Pub. L. 99–576, title IV, §§ 402(c)(1), 403, 408(a), Oct. 28, 1986, 100 Stat. 3281, 3283; Pub. L. 100–136, § 2, Oct. 16, 1987, 101 Stat. 813; Pub. L. 100–198, §§ 6(a)(1), (b)(1), 14, Dec. 21, 1987, 101 Stat. 1317, 1318, 1325; Pub. L. 100–203, title VII, §§ 7001, 7003(a), Dec. 22, 1987, 101 Stat. 1330–278, 1330–279; Pub. L. 100–253, § 2, Feb. 29, 1988, 102 Stat. 20; renumbered § 1833 and amended Pub. L. 100–322, title IV, § 415(b)(1)(D), (5)(B), (C), May 20, 1988, 102 Stat. 550, 551; Pub. L. 100–689, title III, § 301, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, §§ 305(a), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073, 2077; Pub. L. 101–239, title V, §§ 5002, 5003(a), Dec. 19, 1989, 103 Stat. 2136; Pub. L. 102–54, §§ 2, 14(g)(1), 15(a)(5), June 13, 1991, 105 Stat. 267, 288, 289; renumbered § 3733 and amended Pub. L. 102–83, §§ 2(c)(3), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–291, § 5(b), May 20, 1992, 106 Stat. 180; Pub. L. 105–368, title VI, § 602(c)(2), (e)(1)(E), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 108–183, title IV, § 404, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 109–233, title V, § 503(10), June 15, 2006, 120 Stat. 416; Pub. L. 111–275, title X, § 1001(j), Oct. 13, 2010, 124 Stat. 2897; Pub. L. 113–59, § 13, Dec. 20, 2013, 127 Stat. 663; Pub. L. 113–175, title III, § 303, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title II, § 203, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title II, § 203, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title II, § 202, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, § 125, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 116–61, § 2, Sept. 30, 2019, 133 Stat. 1116; Pub. L. 116–159, div. E, title IV, § 5405, Oct. 1, 2020, 134 Stat. 752; Pub. L. 119–37, div. G, title IV, § 7404, Nov. 12, 2025, 139 Stat. 654.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §§ 1816(d)–(f), 1832; Pub. L. 98–369, div. B, title V, § 2512(a)(2), July 18, 1984, 98 Stat. 1117; Pub. L. 99–576, title IV, §§ 402(c)(1), 403, 408(a), Oct. 28, 1986, 100 Stat. 3281, 3283; Pub. L. 100–136, § 2, Oct. 16, 1987, 101 Stat. 813; Pub. L. 100–198, §§ 6(a)(1), (b)(1), 14, Dec. 21, 1987, 101 Stat. 1317, 1318, 1325; Pub. L. 100–203, title VII, §§ 7001, 7003(a), Dec. 22, 1987, 101 Stat. 1330–278, 1330–279; Pub. L. 100–253, § 2, Feb. 29, 1988, 102 Stat. 20; renumbered § 1833 and amended Pub. L. 100–322, title IV, § 415(b)(1)(D), (5)(B), (C), May 20, 1988, 102 Stat. 550, 551; Pub. L. 100–689, title III, § 301, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, §§ 305(a), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073, 2077; Pub. L. 101–239, title V, §§ 5002, 5003(a), Dec. 19, 1989, 103 Stat. 2136; Pub. L. 102–54, §§ 2, 14(g)(1), 15(a)(5), June 13, 1991, 105 Stat. 267, 288, 289; renumbered § 3733 and amended Pub. L. 102–83, §§ 2(c)(3), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–291, § 5(b), May 20, 1992, 106 Stat. 180; Pub. L. 105–368, title VI, § 602(c)(2), (e)(1)(E), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 108–183, title IV, § 404, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 109–233, title V, § 503(10), June 15, 2006, 120 Stat. 416; Pub. L. 111–275, title X, § 1001(j), Oct. 13, 2010, 124 Stat. 2897; Pub. L. 113–59, § 13, Dec. 20, 2013, 127 Stat. 663; Pub. L. 113–175, title III, § 303, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title II, § 203, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title II, § 203, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title II, § 202, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, § 125, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 116–61, § 2, Sept. 30, 2019, 133 Stat. 1116; Pub. L. 116–159, div. E, title IV, § 5405, Oct. 1, 2020, 134 Stat. 752; Pub. L. 119–37, div. G, title IV, § 7404, Nov. 12, 2025, 139 Stat. 654.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a)(8). Pub. L. 119–37, § 7404(1), substituted “September 30, 2026” for “September 30, 2025” in introductory provisions.
+2025—Subsec. (a)(8). Pub. L. 119–37, § 7404(1), substituted “September 30, 2026” for “September 30, 2025” in introductory provisions.
 
-Subsec. (a)(8)(C). Pub. L. 119–37, § 7404(2), substituted “September 30, 2026” for “September 30, 2025”.
+Subsec. (a)(8)(C). Pub. L. 119–37, § 7404(2), substituted “September 30, 2026” for “September 30, 2025”.
 
 2020—Subsec. (a)(8). Pub. L. 116–159 added par. (8).
 
@@ -3716,21 +3716,21 @@ Subsec. (a)(8)(C). Pub. L. 119–37, § 7404(2), substituted “September 30, 
 
 2006—Subsec. (a)(7). Pub. L. 109–233, which directed the substitution of “December 16, 2003” for “the date of the enactment of the Veterans Benefits Act of 2003”, was executed by making the substitution for “the date of the enactment of the Veterans’ Benefits Act of 2003” to reflect the probable intent of Congress.
 
-2003—Subsec. (a)(4)(A). Pub. L. 108–183, § 404(b)(1)(A), (2), struck out “of this paragraph” after “subparagraph (B)” and “of this subsection” after “paragraph (1)”.
+2003—Subsec. (a)(4)(A). Pub. L. 108–183, § 404(b)(1)(A), (2), struck out “of this paragraph” after “subparagraph (B)” and “of this subsection” after “paragraph (1)”.
 
-Subsec. (a)(4)(B)(i). Pub. L. 108–183, § 404(b)(1)(B), (2), struck out “of this paragraph” after “subparagraph (A)” and “of this subsection” after “paragraph (5)”.
+Subsec. (a)(4)(B)(i). Pub. L. 108–183, § 404(b)(1)(B), (2), struck out “of this paragraph” after “subparagraph (A)” and “of this subsection” after “paragraph (5)”.
 
-Subsec. (a)(4)(B)(ii). Pub. L. 108–183, § 404(b)(2), struck out “of this paragraph” after “subparagraph (A)”.
+Subsec. (a)(4)(B)(ii). Pub. L. 108–183, § 404(b)(2), struck out “of this paragraph” after “subparagraph (A)”.
 
-Subsec. (a)(5), (6). Pub. L. 108–183, § 404(b)(1)(A), struck out “of this subsection” after “paragraph (1)”.
+Subsec. (a)(5), (6). Pub. L. 108–183, § 404(b)(1)(A), struck out “of this subsection” after “paragraph (1)”.
 
-Subsec. (a)(7). Pub. L. 108–183, § 404(a), added par. (7).
+Subsec. (a)(7). Pub. L. 108–183, § 404(a), added par. (7).
 
-Subsec. (c)(2). Pub. L. 108–183, § 404(b)(1)(A), struck out “of this subsection” after “paragraph (1)”.
+Subsec. (c)(2). Pub. L. 108–183, § 404(b)(1)(A), struck out “of this subsection” after “paragraph (1)”.
 
-1998—Subsec. (a)(6). Pub. L. 105–368, § 602(e)(1)(E), substituted “Veterans Housing Benefit Program Fund established by section 3722(a)” for “Department of Veterans Affairs Loan Guaranty Revolving Fund established by section 3724(a)”.
+1998—Subsec. (a)(6). Pub. L. 105–368, § 602(e)(1)(E), substituted “Veterans Housing Benefit Program Fund established by section 3722(a)” for “Department of Veterans Affairs Loan Guaranty Revolving Fund established by section 3724(a)”.
 
-Subsec. (e). Pub. L. 105–368, § 602(c)(2), struck out subsec. (e) which read as follows: “Notwithstanding any other provision of law, the amount received from the sale of any note evidencing a loan secured by real property described in subsection (a)(1) of this section, and the amount received from the sale of securities under section 3720(h) of this title, shall be credited, without any reduction and for the fiscal year in which the amount is received, as offsetting collections of—
+Subsec. (e). Pub. L. 105–368, § 602(c)(2), struck out subsec. (e) which read as follows: “Notwithstanding any other provision of law, the amount received from the sale of any note evidencing a loan secured by real property described in subsection (a)(1) of this section, and the amount received from the sale of securities under section 3720(h) of this title, shall be credited, without any reduction and for the fiscal year in which the amount is received, as offsetting collections of—
 
 “(1) the revolving fund for which a fee under section 3729 of this title was collected (or was exempted from being collected) at the time of the original guaranty of the loan that was secured by the same property; or
 
@@ -3738,73 +3738,73 @@ Subsec. (e). Pub. L. 105–368, § 602(c)(2), struck out subsec. (e) which rea
 
 the total so credited to any revolving fund for a fiscal year shall offset outlays attributed to such revolving fund during such fiscal year.”
 
-1992—Subsec. (e). Pub. L. 102–291 inserted “, and the amount received from the sale of securities under section 3720(h) of this title,”.
+1992—Subsec. (e). Pub. L. 102–291 inserted “, and the amount received from the sale of securities under section 3720(h) of this title,”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1833 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1833 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)” for “1810(a)”.
+Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “3710(a)” for “1810(a)”.
 
-Subsec. (a)(2). Pub. L. 102–54, § 2(a), added par. (2) and struck out former par. (2) which read as follows: “In carrying out paragraph (1) of this subsection, the Secretary, to the maximum extent consistent with that paragraph and with maintaining the effective functioning of the loan guaranty program under this chapter, shall minimize the number of loans made by the Secretary to finance purchases of real property from the Secretary described in that paragraph.”
+Subsec. (a)(2). Pub. L. 102–54, § 2(a), added par. (2) and struck out former par. (2) which read as follows: “In carrying out paragraph (1) of this subsection, the Secretary, to the maximum extent consistent with that paragraph and with maintaining the effective functioning of the loan guaranty program under this chapter, shall minimize the number of loans made by the Secretary to finance purchases of real property from the Secretary described in that paragraph.”
 
-Subsec. (a)(3). Pub. L. 102–54, § 2(a), added par. (3) and struck out former par. (3) which authorized sales before Oct. 1, 1990, of notes for loans under subsec. (a)(1) and required Secretary to make reports of such sales to Committees on Veterans’ Affairs of Senate and House of Representatives.
+Subsec. (a)(3). Pub. L. 102–54, § 2(a), added par. (3) and struck out former par. (3) which authorized sales before Oct. 1, 1990, of notes for loans under subsec. (a)(1) and required Secretary to make reports of such sales to Committees on Veterans’ Affairs of Senate and House of Representatives.
 
-Subsec. (a)(6). Pub. L. 102–83, § 5(c)(1), substituted “3724(a)” for “1824(a)”.
+Subsec. (a)(6). Pub. L. 102–83, § 5(c)(1), substituted “3724(a)” for “1824(a)”.
 
-Pub. L. 102–54, § 3(b), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “This subsection shall cease to have effect on December 31, 1990.”
+Pub. L. 102–54, § 3(b), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “This subsection shall cease to have effect on December 31, 1990.”
 
-Subsec. (a)(7). Pub. L. 102–54, § 3(b)(2), redesignated par. (7) as (6).
+Subsec. (a)(7). Pub. L. 102–54, § 3(b)(2), redesignated par. (7) as (6).
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3710(g)(2)(A)” for “1810(g)(2)(A)”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3710(g)(2)(A)” for “1810(g)(2)(A)”.
 
-Subsec. (c)(2). Pub. L. 102–83, § 2(c)(3), substituted “section 529” for “section 214”.
+Subsec. (c)(2). Pub. L. 102–83, § 2(c)(3), substituted “section 529” for “section 214”.
 
-Subsec. (d). Pub. L. 102–54, § 14(g)(1), made a technical amendment to Pub. L. 100–322, § 415(b)(5)(C). See 1988 Amendment note below.
+Subsec. (d). Pub. L. 102–54, § 14(g)(1), made a technical amendment to Pub. L. 100–322, § 415(b)(5)(C). See 1988 Amendment note below.
 
-Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “3729” for “1829” in par. (1).
+Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “3729” for “1829” in par. (1).
 
-Pub. L. 102–54, § 15(a)(5), struck out subsec. (e) as added by Pub. L. 101–239, § 5003(a), which was identical to subsec. (e) added by Pub. L. 101–237, § 305(a)(3). See 1989 Amendment note below.
+Pub. L. 102–54, § 15(a)(5), struck out subsec. (e) as added by Pub. L. 101–239, § 5003(a), which was identical to subsec. (e) added by Pub. L. 101–237, § 305(a)(3). See 1989 Amendment note below.
 
-1989—Subsec. (a). Pub. L. 101–237 § 313(b)(1), (2), substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+1989—Subsec. (a). Pub. L. 101–237 § 313(b)(1), (2), substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
-Subsec. (a)(3). Pub. L. 101–239, § 5002, substituted “October 1, 1990” for “October 1, 1989” wherever appearing.
+Subsec. (a)(3). Pub. L. 101–239, § 5002, substituted “October 1, 1990” for “October 1, 1989” wherever appearing.
 
-Pub. L. 101–237, § 305(a)(1), which directed the amendment of subpar. (A) by substituting “Subject to subparagraph (C) of this paragraph,” for “Before October 1, 1990,” the amendment of subparagraph (B) by striking out “occurring before October 1, 1990,” after “of this paragraph”, and the amendment of subpar. (C) by substituting “October 1, 1989” for “October 1, 1990” in introductory provisions, did not become effective, see section 305(b)(1) of Pub. L. 101–237, set out as an Effective Date of 1989 Amendments note below.
+Pub. L. 101–237, § 305(a)(1), which directed the amendment of subpar. (A) by substituting “Subject to subparagraph (C) of this paragraph,” for “Before October 1, 1990,” the amendment of subparagraph (B) by striking out “occurring before October 1, 1990,” after “of this paragraph”, and the amendment of subpar. (C) by substituting “October 1, 1989” for “October 1, 1990” in introductory provisions, did not become effective, see section 305(b)(1) of Pub. L. 101–237, set out as an Effective Date of 1989 Amendments note below.
 
-Subsec. (a)(6). Pub. L. 101–237, § 305(a)(2), substituted “December 31” for “October 1”.
+Subsec. (a)(6). Pub. L. 101–237, § 305(a)(2), substituted “December 31” for “October 1”.
 
-Subsecs. (b) to (d). Pub. L. 101–237, § 313(b)(1), (2), substituted “Secretary”, “Secretary’s”, and “Department of Veterans Affairs” for “Administrator”, “Administrator’s”, and “Veterans’ Administration”, respectively, wherever appearing.
+Subsecs. (b) to (d). Pub. L. 101–237, § 313(b)(1), (2), substituted “Secretary”, “Secretary’s”, and “Department of Veterans Affairs” for “Administrator”, “Administrator’s”, and “Veterans’ Administration”, respectively, wherever appearing.
 
-Subsec. (e). Pub. L. 101–237, § 305(a)(3), and Pub. L. 101–239, § 5003(a), amended section identically adding identical subsecs. (e).
+Subsec. (e). Pub. L. 101–237, § 305(a)(3), and Pub. L. 101–239, § 5003(a), amended section identically adding identical subsecs. (e).
 
-1988—Pub. L. 100–322, § 415(b)(1)(D), added section catchline.
+1988—Pub. L. 100–322, § 415(b)(1)(D), added section catchline.
 
-Subsec. (a). Pub. L. 100–322, § 415(b)(1)(D), redesignated subsec. (d) of section 1816 of this title as subsec. (a) of this section.
+Subsec. (a). Pub. L. 100–322, § 415(b)(1)(D), redesignated subsec. (d) of section 1816 of this title as subsec. (a) of this section.
 
-Subsec. (a)(4)(B) [formerly § 1816(d)(4)(B)]. Pub. L. 100–253 designated existing provisions as cl. (i) and added cl. (ii).
+Subsec. (a)(4)(B) [formerly § 1816(d)(4)(B)]. Pub. L. 100–253 designated existing provisions as cl. (i) and added cl. (ii).
 
 Subsec. (a)(7). Pub. L. 100–689 added par. (7).
 
-Subsecs. (b), (c). Pub. L. 100–322, § 415(b)(1)(D), redesignated subsecs. (e) and (f) of section 1816 of this title as subsecs. (b) and (c), respectively, of this section.
+Subsecs. (b), (c). Pub. L. 100–322, § 415(b)(1)(D), redesignated subsecs. (e) and (f) of section 1816 of this title as subsecs. (b) and (c), respectively, of this section.
 
-Subsec. (d). Pub. L. 100–322, § 415(b)(5)(B), (C), as amended by Pub. L. 102–54, § 14(g)(1), redesignated subsecs. (a) and (b) of section 1832 of this title as pars. (1) and (2), respectively, of subsec. (d) of this section.
+Subsec. (d). Pub. L. 100–322, § 415(b)(5)(B), (C), as amended by Pub. L. 102–54, § 14(g)(1), redesignated subsecs. (a) and (b) of section 1832 of this title as pars. (1) and (2), respectively, of subsec. (d) of this section.
 
-1987—Subsec. (a)(1) [formerly § 1816(d)(1)]. Pub. L. 100–198, § 6(a)(1), and Pub. L. 100–203, § 7003(a), amended par. (1) identically, substituting “not more than 65 percent, nor less than 50 percent” for “not more than 75 percent, nor less than 60 percent”. See 1988 Amendment note above.
+1987—Subsec. (a)(1) [formerly § 1816(d)(1)]. Pub. L. 100–198, § 6(a)(1), and Pub. L. 100–203, § 7003(a), amended par. (1) identically, substituting “not more than 65 percent, nor less than 50 percent” for “not more than 75 percent, nor less than 60 percent”. See 1988 Amendment note above.
 
-Subsec. (a)(3) [formerly § 1816(d)(3)]. Pub. L. 100–203, § 7001, added subpars. (A) and (B), redesignated existing provisions as subpar. (C), substituted “Beginning on October 1, 1989, the Administrator may sell any note evidencing” for “The Administrator may sell any note securing”, and redesignated cls. (A) and (B) as (i) and (ii), respectively. See 1988 Amendment note above.
+Subsec. (a)(3) [formerly § 1816(d)(3)]. Pub. L. 100–203, § 7001, added subpars. (A) and (B), redesignated existing provisions as subpar. (C), substituted “Beginning on October 1, 1989, the Administrator may sell any note evidencing” for “The Administrator may sell any note securing”, and redesignated cls. (A) and (B) as (i) and (ii), respectively. See 1988 Amendment note above.
 
 Pub. L. 100–136 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Notes securing such loans may be sold with recourse only to the extent that the Administrator determines that selling such notes with recourse is necessary in order to maintain the effective functioning of the loan guaranty program under this chapter.” See 1988 Amendment note above.
 
-Subsec. (a)(4) to (6) [formerly § 1816(d)(4) to (6)]. Pub. L. 100–198, § 6(b)(1), added pars. (4) to (6). See 1988 Amendment note above.
+Subsec. (a)(4) to (6) [formerly § 1816(d)(4) to (6)]. Pub. L. 100–198, § 6(b)(1), added pars. (4) to (6). See 1988 Amendment note above.
 
-Subsec. (d) [formerly § 1832]. Pub. L. 100–198, § 14, designated existing provisions as subsec. (a) and added subsec. (b). See 1988 Amendment note above.
+Subsec. (d) [formerly § 1832]. Pub. L. 100–198, § 14, designated existing provisions as subsec. (a) and added subsec. (b). See 1988 Amendment note above.
 
-1986—Subsec. (b) [formerly § 1816(e)]. Pub. L. 99–576, § 402(c)(1), added subsec. (e). See 1988 Amendment note above.
+1986—Subsec. (b) [formerly § 1816(e)]. Pub. L. 99–576, § 402(c)(1), added subsec. (e). See 1988 Amendment note above.
 
-Subsec. (c) [formerly § 1816(f)]. Pub. L. 99–576, § 403, added subsec. (f). See 1988 Amendment note above.
+Subsec. (c) [formerly § 1816(f)]. Pub. L. 99–576, § 403, added subsec. (f). See 1988 Amendment note above.
 
-Subsec. (d) [formerly § 1832]. Pub. L. 99–576, § 408(a), enacted section. See 1988 Amendment note above.
+Subsec. (d) [formerly § 1832]. Pub. L. 99–576, § 408(a), enacted section. See 1988 Amendment note above.
 
-1984—Subsec. (a) [formerly § 1816(d)]. Pub. L. 98–369, § 2512(a)(2), added subsec. (d). See 1988 Amendment note above.
+1984—Subsec. (a) [formerly § 1816(d)]. Pub. L. 98–369, § 2512(a)(2), added subsec. (d). See 1988 Amendment note above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3818,23 +3818,23 @@ Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–54, § 14(g)(1), June 13, 1991, 105 Stat. 288, provided that the amendment made by that section is effective as of May 20, 1988.
+Pub. L. 102–54, § 14(g)(1), June 13, 1991, 105 Stat. 288, provided that the amendment made by that section is effective as of May 20, 1988.
 
 **Effective Date of 1989 Amendments**
 
-Pub. L. 101–239, title V, § 5003(b), Dec. 19, 1989, 103 Stat. 2137, provided that: “Subsection (e) of section 1833 [now 3733] of title 38, United States Code, as added by subsection (a), shall apply with respect to amounts referred to in such subsection (e) received on or after October 1, 1989.”
+Pub. L. 101–239, title V, § 5003(b), Dec. 19, 1989, 103 Stat. 2137, provided that: “Subsection (e) of section 1833 [now 3733] of title 38, United States Code, as added by subsection (a), shall apply with respect to amounts referred to in such subsection (e) received on or after October 1, 1989.”
 
-Pub. L. 101–237, title III, § 305(b)(1), Dec. 18, 1989, 103 Stat. 2074, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “If, before the date and time of the enactment of this Act [Dec. 18, 1989], no provision of law has been enacted amending section 1833 [now 3733] of title 38, United States Code, by adding a new subsection (e) with a text substantively identical to the text of the new subsection (e) added to such section 1833 [now 3733] by subsection (a)(3) of this section, the provisions of subsection (a)(1) of this section amending subsection (a)(3) of such section 1833 [now 3733] shall not take effect.”
+Pub. L. 101–237, title III, § 305(b)(1), Dec. 18, 1989, 103 Stat. 2074, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “If, before the date and time of the enactment of this Act [Dec. 18, 1989], no provision of law has been enacted amending section 1833 [now 3733] of title 38, United States Code, by adding a new subsection (e) with a text substantively identical to the text of the new subsection (e) added to such section 1833 [now 3733] by subsection (a)(3) of this section, the provisions of subsection (a)(1) of this section amending subsection (a)(3) of such section 1833 [now 3733] shall not take effect.”
 
-Pub. L. 101–237, title III, § 305(b)(2), Dec. 18, 1989, 103 Stat. 2074, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Subsection (e) of section 1833 [now 3733] of such title 38, as added by subsection (a)(3), shall apply with respect to amounts referred to in such subsection (e) received after September 30, 1989.”
+Pub. L. 101–237, title III, § 305(b)(2), Dec. 18, 1989, 103 Stat. 2074, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Subsection (e) of section 1833 [now 3733] of such title 38, as added by subsection (a)(3), shall apply with respect to amounts referred to in such subsection (e) received after September 30, 1989.”
 
 **Effective Date of 1987 Amendments**
 
-Pub. L. 100–203, title VII, § 7003(b), Dec. 22, 1987, 101 Stat. 1330–279, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of October 1, 1987.”
+Pub. L. 100–203, title VII, § 7003(b), Dec. 22, 1987, 101 Stat. 1330–279, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of October 1, 1987.”
 
-Pub. L. 100–198, § 6(a)(2), Dec. 21, 1987, 101 Stat. 1318, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of October 1, 1987.”
+Pub. L. 100–198, § 6(a)(2), Dec. 21, 1987, 101 Stat. 1318, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of October 1, 1987.”
 
-Pub. L. 100–198, § 6(b)(2), Dec. 21, 1987, 101 Stat. 1318, provided that: “The amendment made by this subsection [amending this section] shall apply to loans made more than 30 days after the date of the enactment of this Act [Dec. 21, 1987].”
+Pub. L. 100–198, § 6(b)(2), Dec. 21, 1987, 101 Stat. 1318, provided that: “The amendment made by this subsection [amending this section] shall apply to loans made more than 30 days after the date of the enactment of this Act [Dec. 21, 1987].”
 
 **Effective Date of 1984 Amendment**
 
@@ -3842,7 +3842,7 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, see section 2512(c) of Pub
 
 **Rule for Construction of Duplicate Provisions**
 
-Pub. L. 100–203, title VII, § 7004(b), Dec. 22, 1987, 101 Stat. 1330–280, provided that:
+Pub. L. 100–203, title VII, § 7004(b), Dec. 22, 1987, 101 Stat. 1330–280, provided that:
 
 > “In applying the provisions of this title [title VII of Pub. L. 100–203] and the provisions of the Veterans’ Home Loan Program Improvements and Property Rehabilitation Act of 1987 [Pub. L. 100–198] which make the same amendments as the provisions of this title [amending sections 1816 [now 3733] and 1829 [now 3729] of this title]—
 
@@ -3852,9 +3852,9 @@ Pub. L. 100–203, title VII, § 7004(b), Dec. 22, 1987, 101 Stat. 1330–280,
 
 **Report to Congress**
 
-Pub. L. 100–198, § 6(c), Dec. 21, 1987, 101 Stat. 1318, directed Administrator of Veterans’ Affairs, by Mar. 1, 1990, to transmit to Congress a report of activities carried out, through Dec. 31, 1989, under paragraphs (4) and (5) of section 1816(d) of this title [which became pars. (4) and (5) of subsec. (a) of this section].
+Pub. L. 100–198, § 6(c), Dec. 21, 1987, 101 Stat. 1318, directed Administrator of Veterans’ Affairs, by Mar. 1, 1990, to transmit to Congress a report of activities carried out, through Dec. 31, 1989, under paragraphs (4) and (5) of section 1816(d) of this title [which became pars. (4) and (5) of subsec. (a) of this section].
 
-### § 3734. Annual submission of information on the Veterans Housing Benefit Program Fund and housing programs
+### § 3734. Annual submission of information on the Veterans Housing Benefit Program Fund and housing programs
 
 **(a)** In the documents providing detailed information on the budget for the Department of Veterans Affairs that the Secretary submits to the Congress in conjunction with the President’s budget submission for each fiscal year pursuant to section 1105 of title 31, the Secretary shall include—
 
@@ -3890,7 +3890,7 @@ Pub. L. 100–198, § 6(c), Dec. 21, 1987, 101 Stat. 1318, directed Administra
 
 **(c)** The information submitted under subsection (a) shall include a statement that summarizes the financial activity of each of the housing programs operated under this chapter. The statement shall be presented in a form that is simple, concise, and readily understandable, and shall not include references to financing accounts, liquidating accounts, or program accounts.
 
-(Added Pub. L. 101–237, title III, § 302(b)(1), Dec. 18, 1989, 103 Stat. 2070, § 1834; renumbered § 3734 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title VI, § 602(d), (e)(1)(F), (3)(A), Nov. 11, 1998, 112 Stat. 3346, 3347; Pub. L. 107–14, § 8(a)(9), June 5, 2001, 115 Stat. 35; Pub. L. 107–330, title III, § 308(g)(12), Dec. 6, 2002, 116 Stat. 2829.)
+(Added Pub. L. 101–237, title III, § 302(b)(1), Dec. 18, 1989, 103 Stat. 2070, § 1834; renumbered § 3734 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title VI, § 602(d), (e)(1)(F), (3)(A), Nov. 11, 1998, 112 Stat. 3346, 3347; Pub. L. 107–14, § 8(a)(9), June 5, 2001, 115 Stat. 35; Pub. L. 107–330, title III, § 308(g)(12), Dec. 6, 2002, 116 Stat. 2829.)
 
 **Editorial Notes**
 
@@ -3898,25 +3898,25 @@ Pub. L. 100–198, § 6(c), Dec. 21, 1987, 101 Stat. 1318, directed Administra
 
 2002—Subsec. (b)(2)(B) to (F). Pub. L. 107–330 redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which read as follows: “Federal Government payments under section 3729(a)(3) of this title.”
 
-2001—Subsec. (a). Pub. L. 107–14, § 8(a)(9)(A), struck out “United States Code,” after “section 1105 of title 31,” in introductory provisions.
+2001—Subsec. (a). Pub. L. 107–14, § 8(a)(9)(A), struck out “United States Code,” after “section 1105 of title 31,” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 107–14, § 8(a)(9)(B), substituted “appropriations for” for “appropriations in”.
+Subsec. (a)(2). Pub. L. 107–14, § 8(a)(9)(B), substituted “appropriations for” for “appropriations in”.
 
-1998—Pub. L. 105–368, § 602(e)(3)(A), substituted “Veterans Housing Benefit Program Fund and housing programs” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund” in section catchline.
+1998—Pub. L. 105–368, § 602(e)(3)(A), substituted “Veterans Housing Benefit Program Fund and housing programs” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund” in section catchline.
 
-Subsec. (a)(1). Pub. L. 105–368, § 602(e)(1)(F)(i)(I), substituted “Veterans Housing Benefit Program Fund” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund”.
+Subsec. (a)(1). Pub. L. 105–368, § 602(e)(1)(F)(i)(I), substituted “Veterans Housing Benefit Program Fund” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund”.
 
-Subsec. (a)(2). Pub. L. 105–368, § 602(e)(1)(F)(i)(II), substituted “fund,” for “funds,” in introductory provisions.
+Subsec. (a)(2). Pub. L. 105–368, § 602(e)(1)(F)(i)(II), substituted “fund,” for “funds,” in introductory provisions.
 
-Subsec. (b). Pub. L. 105–368, § 602(e)(1)(F)(ii), substituted “the fund” for “each fund” in introductory provisions.
+Subsec. (b). Pub. L. 105–368, § 602(e)(1)(F)(ii), substituted “the fund” for “each fund” in introductory provisions.
 
-Subsec. (b)(2)(B) to (G). Pub. L. 105–368, § 602(e)(1)(F)(iii), redesignated subpars. (C) to (G) as (B) to (F), respectively, in subpar. (B), substituted “section 3729(a)(3)” for “subsections (a)(3) and (c)(2) of section 3729”, and struck out former subpar. (B) which read as follows: “Federal Government contributions made under clauses (A) and (B) of section 3725(c)(2) of this title.”
+Subsec. (b)(2)(B) to (G). Pub. L. 105–368, § 602(e)(1)(F)(iii), redesignated subpars. (C) to (G) as (B) to (F), respectively, in subpar. (B), substituted “section 3729(a)(3)” for “subsections (a)(3) and (c)(2) of section 3729”, and struck out former subpar. (B) which read as follows: “Federal Government contributions made under clauses (A) and (B) of section 3725(c)(2) of this title.”
 
-Subsec. (c). Pub. L. 105–368, § 602(d), added subsec. (c).
+Subsec. (c). Pub. L. 105–368, § 602(d), added subsec. (c).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1834 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1834 of this title as this section.
 
-Subsec. (b)(2). Pub. L. 102–83, § 5(c)(1), substituted “3729(a)” for “1829(a)” and “3729(b)” for “1829(b)” in subpar. (A), “3725(c)(2)” for “1825(c)(2)” in subpar. (B), and “3729” for “1829” in subpar. (C).
+Subsec. (b)(2). Pub. L. 102–83, § 5(c)(1), substituted “3729(a)” for “1829(a)” and “3729(b)” for “1829(b)” in subpar. (A), “3725(c)(2)” for “1825(c)(2)” in subpar. (B), and “3729” for “1829” in subpar. (C).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3924,9 +3924,9 @@ Subsec. (b)(2). Pub. L. 102–83, § 5(c)(1), substituted “3729(a)” for �
 
 Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as a note under section 2106 of this title.
 
-### [§ 3735. Renumbered § 2041]
+### [§ 3735. Renumbered § 2041]
 
-### § 3736. Reporting requirements
+### § 3736. Reporting requirements
 
 The annual report required by section 529 of this title shall include a discussion of the activities under this chapter. Beginning with the report submitted at the close of fiscal year 1996, and every second year thereafter, this discussion shall include information regarding the following:
 
@@ -3940,9 +3940,9 @@ The annual report required by section 529 of this title shall include a discussi
 
 **(5)** Direct loans to Native American veterans made pursuant to subchapter V of this chapter.
 
-(Added Pub. L. 104–110, title II, § 201(a)(1), Feb. 13, 1996, 110 Stat. 770.)
+(Added Pub. L. 104–110, title II, § 201(a)(1), Feb. 13, 1996, 110 Stat. 770.)
 
-### § 3737. Partial Claim Program
+### § 3737. Partial Claim Program
 
 **(a) Establishment.—** The Secretary shall carry out a program, to be known as the “Partial Claim Program”, under which the Secretary may make a partial claim, described in subsection (b), with respect to a loan—
 
@@ -4026,7 +4026,7 @@ The annual report required by section 529 of this title shall include a discussi
 
 **(j) Termination.—** The Secretary may not make a partial claim under this section after the date that is five years after the date of the enactment of this section.
 
-(Added Pub. L. 119–31, § 3(a), July 30, 2025, 139 Stat. 476; amended Pub. L. 119–37, div. G, title III, § 7307(b)—(e), Nov. 12, 2025, 139 Stat. 651, 652.)
+(Added Pub. L. 119–31, § 3(a), July 30, 2025, 139 Stat. 476; amended Pub. L. 119–37, div. G, title III, § 7307(b)—(e), Nov. 12, 2025, 139 Stat. 651, 652.)
 
 **Editorial Notes**
 
@@ -4036,25 +4036,25 @@ The date of the enactment of this section, referred to in subsec. (j), is the da
 
 **Amendments**
 
-2025—Subsec. (b)(2). Pub. L. 119–37, § 7307(b)(1), substituted “amount of indebtedness under the guaranteed loan that the Secretary does not purchase” for “first lien guaranteed loan for such property”.
+2025—Subsec. (b)(2). Pub. L. 119–37, § 7307(b)(1), substituted “amount of indebtedness under the guaranteed loan that the Secretary does not purchase” for “first lien guaranteed loan for such property”.
 
-Subsec. (c)(2)(B)(ii). Pub. L. 119–37, § 7307(b)(2)(A), substituted “180 days” for “120 days”.
+Subsec. (c)(2)(B)(ii). Pub. L. 119–37, § 7307(b)(2)(A), substituted “180 days” for “120 days”.
 
-Subsec. (c)(3). Pub. L. 119–37, § 7307(b)(2)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “An amount paid to the holder of a loan as a partial claim—
+Subsec. (c)(3). Pub. L. 119–37, § 7307(b)(2)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “An amount paid to the holder of a loan as a partial claim—
 
 “(A) shall not count against the amount of a loan that may otherwise be guaranteed under this chapter; and
 
 “(B) may not be applied to the portion of the loan that is guaranteed under this chapter.”
 
-Subsec. (d)(1). Pub. L. 119–37, § 7307(c), inserted “and servicing the loan” after “documents”.
+Subsec. (d)(1). Pub. L. 119–37, § 7307(c), inserted “and servicing the loan” after “documents”.
 
-Subsec. (e)(1)(A). Pub. L. 119–37, § 7307(d)(1)(A), substituted “a borrower who defaults on a partial claim shall be liable to the Secretary for any loss suffered by the Secretary with respect to such default, and such loss may be recovered in the same manner as any other debt due the United States. The Secretary shall not restore housing loan entitlement under section 3702(b) of this title until such loss is repaid in full.” for “an individual who defaults on a loan for which the Secretary makes a partial claim made under this section shall be liable to the Secretary for any loss suffered by the Secretary resulting from such default.”
+Subsec. (e)(1)(A). Pub. L. 119–37, § 7307(d)(1)(A), substituted “a borrower who defaults on a partial claim shall be liable to the Secretary for any loss suffered by the Secretary with respect to such default, and such loss may be recovered in the same manner as any other debt due the United States. The Secretary shall not restore housing loan entitlement under section 3702(b) of this title until such loss is repaid in full.” for “an individual who defaults on a loan for which the Secretary makes a partial claim made under this section shall be liable to the Secretary for any loss suffered by the Secretary resulting from such default.”
 
-Subsec. (e)(1)(B). Pub. L. 119–37, § 7307(d)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In the event of default by an individual on a loan for which the Secretary makes a partial claim made under this section, the Secretary may reduce the aggregate amount of guaranty or insurance housing loan entitlement available to the individual under this chapter.”
+Subsec. (e)(1)(B). Pub. L. 119–37, § 7307(d)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In the event of default by an individual on a loan for which the Secretary makes a partial claim made under this section, the Secretary may reduce the aggregate amount of guaranty or insurance housing loan entitlement available to the individual under this chapter.”
 
-Subsec. (e)(2). Pub. L. 119–37, § 7307(d)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding section 2410(c) of title 28, an action to foreclose a lien held by the United States arising under a partial claim made under this section shall follow foreclosure procedures in accordance with State or local law where the property involved is located.”
+Subsec. (e)(2). Pub. L. 119–37, § 7307(d)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding section 2410(c) of title 28, an action to foreclose a lien held by the United States arising under a partial claim made under this section shall follow foreclosure procedures in accordance with State or local law where the property involved is located.”
 
-Subsec. (h). Pub. L. 119–37, § 7307(e), amended subsec. (h) generally. Prior to amendment, text read as follows:
+Subsec. (h). Pub. L. 119–37, § 7307(e), amended subsec. (h) generally. Prior to amendment, text read as follows:
 
 “(1) With respect to a loan described in paragraph (2), the Secretary may—
 
@@ -4066,7 +4066,7 @@ Subsec. (h). Pub. L. 119–37, § 7307(e), amended subsec. (h) generally. Prio
 
 ## SUBCHAPTER IV—SMALL BUSINESS LOANS
 
-### § 3741. Definitions
+### § 3741. Definitions
 
 For the purposes of this subchapter—
 
@@ -4074,15 +4074,15 @@ For the purposes of this subchapter—
 
 **(2)** The term “veteran of the Vietnam era” means a person (A) who served on active duty for a period of more than 180 days, any part of which occurred during the Vietnam era, and who was discharged or released therefrom with other than a dishonorable discharge, or (B) who was discharged or released from active duty for a service-connected disability if any part of such active duty was performed during the Vietnam era.
 
-(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1055, § 1841; amended Pub. L. 99–576, title VII, § 702(9), Oct. 28, 1986, 100 Stat. 3302; renumbered § 3741 and amended Pub. L. 102–83, §§ 4(a)(1), 5(a), Aug. 6, 1991, 105 Stat. 403, 406.)
+(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1055, § 1841; amended Pub. L. 99–576, title VII, § 702(9), Oct. 28, 1986, 100 Stat. 3302; renumbered § 3741 and amended Pub. L. 102–83, §§ 4(a)(1), 5(a), Aug. 6, 1991, 105 Stat. 403, 406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1841 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1841 of this title as this section.
 
-Par. (1). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Par. (1). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
 1986—Pub. L. 99–576 substituted “percent” for “per centum” in par. (1) and “180” for “one hundred and eighty” in par. (2).
 
@@ -4090,7 +4090,7 @@ Par. (1). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Sec
 
 **Effective Date**
 
-Pub. L. 97–72, title III, § 305, Nov. 3, 1981, 95 Stat. 1060, provided that: “The amendments made by this title [see Tables for classification] shall take effect at the end of the one-hundred-and-eighty-day period beginning on the date of the enactment of this Act [Nov. 3, 1981], except that the authority of the Administrator of Veterans’ Affairs to promulgate regulations under subchapter IV of chapter 37 of title 38, United States Code (as added by section 302), shall take effect on such date of enactment.”
+Pub. L. 97–72, title III, § 305, Nov. 3, 1981, 95 Stat. 1060, provided that: “The amendments made by this title [see Tables for classification] shall take effect at the end of the one-hundred-and-eighty-day period beginning on the date of the enactment of this Act [Nov. 3, 1981], except that the authority of the Administrator of Veterans’ Affairs to promulgate regulations under subchapter IV of chapter 37 of title 38, United States Code (as added by section 302), shall take effect on such date of enactment.”
 
 **Short Title**
 
@@ -4098,9 +4098,9 @@ For short title of title III of Pub. L. 97–72, which enacted this subchapter, 
 
 **Authorization of Appropriations**
 
-Pub. L. 97–72, title III, § 304, Nov. 3, 1981, 95 Stat. 1060, authorized to be appropriated a total of $750,000 for fiscal years 1982 through 1986 for use by Administrator of Veterans’ Affairs for expenses incidental to establishment of small business loan program authorized by subchapter IV of this chapter.
+Pub. L. 97–72, title III, § 304, Nov. 3, 1981, 95 Stat. 1060, authorized to be appropriated a total of $750,000 for fiscal years 1982 through 1986 for use by Administrator of Veterans’ Affairs for expenses incidental to establishment of small business loan program authorized by subchapter IV of this chapter.
 
-### § 3742. Small business loan program
+### § 3742. Small business loan program
 
 **(a)**
 
@@ -4158,31 +4158,31 @@ Pub. L. 97–72, title III, § 304, Nov. 3, 1981, 95 Stat. 1060, authorized to
 
 **(B)** In addition to requiring the small business concern to execute the agreement described in subparagraph (A) of this paragraph, the Secretary shall, before the undertaking or suspension of the obligation, take such action and require the small business concern to take such action as the Secretary considers appropriate in the circumstances, including the provision of such security as the Secretary considers necessary or appropriate, to assure that the rights and interest of the United States and any lender will be safeguarded adequately during and after the period in which such obligation is so undertaken or suspended.
 
-(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1055, § 1842; amended Pub. L. 99–576, title VII, § 702(10), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3742 and amended Pub. L. 102–83, §§ 4(a)(3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404, 406.)
+(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1055, § 1842; amended Pub. L. 99–576, title VII, § 702(10), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3742 and amended Pub. L. 102–83, §§ 4(a)(3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404, 406.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Small Business Act, referred to in subsec. (d), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (d), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1842 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1842 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (b)(1). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (b)(2). Pub. L. 102–83, § 5(c)(1), substituted “3745” for “1845”.
+Subsec. (b)(2). Pub. L. 102–83, § 5(c)(1), substituted “3745” for “1845”.
 
 1989—Subsecs. (a), (b), (d), (e). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
 1986—Subsecs. (a)(3)(A), (b)(4), (d)(2). Pub. L. 99–576 substituted “percent” for “per centum” wherever appearing.
 
-### § 3743. Liability on loans
+### § 3743. Liability on loans
 
 Each individual who has an ownership interest in a veterans’ small business concern that is provided a direct loan under this subchapter, or that obtains a loan guaranteed under this subchapter, shall execute a note or other document evidencing the direct or guaranteed business loan, and such individuals shall be jointly and severally liable to the United States for the amount of such direct loan or, in the case of a guaranteed loan, for any amount paid by the Secretary on account of such loan.
 
-(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1057, § 1843; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3743, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1057, § 1843; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3743, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -4192,7 +4192,7 @@ Each individual who has an ownership interest in a veterans’ small business co
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
-### § 3744. Approval of loans by the Secretary
+### § 3744. Approval of loans by the Secretary
 
 **(a)** Except as provided in subsection (b) of this section, a loan may not be guaranteed under this subchapter unless, before the closing of the loan, it is submitted to the Secretary for approval and the Secretary grants approval.
 
@@ -4200,25 +4200,25 @@ Each individual who has an ownership interest in a veterans’ small business co
 
 **(c)** The Secretary may at any time upon thirty days’ notice require loans to be made by any lender or class of lenders under this subchapter to be submitted to the Secretary for prior approval. No guaranty shall exist with respect to any such loan unless evidence of the guaranty is issued by the Secretary.
 
-(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1057, § 1844; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3744 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1057, § 1844; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3744 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1844 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1844 of this title as this section.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3702(d)” for “1802(d)”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3702(d)” for “1802(d)”.
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” in section catchline and wherever appearing in text.
 
-### § 3745. Interest on loans
+### § 3745. Interest on loans
 
 **(a)** Loans guaranteed under this subchapter shall bear interest not in excess of such rate as the Secretary may from time to time find the loan market demands. In establishing the rate of interest that shall be applicable to such loans, the Secretary shall consult with the Administrator of the Small Business Administration.
 
 **(b)** The rate of interest on any direct loan made by the Secretary under this subchapter may not exceed the maximum rate in effect under subsection (a) of this section at the time the direct loan is made.
 
-(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1058, § 1845; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3745 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, § 1201(a)(3), Nov. 2, 1994, 108 Stat. 4682.)
+(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1058, § 1845; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3745 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, § 1201(a)(3), Nov. 2, 1994, 108 Stat. 4682.)
 
 **Editorial Notes**
 
@@ -4226,17 +4226,17 @@ Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3702(d)” for “18
 
 1994—Subsec. (a). Pub. L. 103–446 substituted “Administrator” for “Secretary” before “of the Small Business Administration”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1845 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1845 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “of the Small Business Administration”.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “of the Small Business Administration”.
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing other than third place it appears in subsec. (a).
 
-### § 3746. Maturity of loans
+### § 3746. Maturity of loans
 
 The maturity of a loan made or guaranteed under this subchapter that is used in whole or in part for the construction, conversion, or expansion of facilities or for acquisition of real property may not exceed twenty years plus such additional reasonable time as the Secretary may determine, at the time the loan is made, is required to complete the construction, acquisition, or expansion of such facilities. The maturity of any other loan made or guaranteed under this subchapter may not exceed ten years.
 
-(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1058, § 1846; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3746, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1058, § 1846; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3746, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -4246,11 +4246,11 @@ The maturity of a loan made or guaranteed under this subchapter that is used in 
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
-### § 3747. Eligible financial institutions
+### § 3747. Eligible financial institutions
 
 The Secretary may not guarantee under this subchapter a loan made by an entity not subject to examination and supervision by an agency of the United States or of a State.
 
-(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1058, § 1847; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3747, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1058, § 1847; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3747, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -4260,11 +4260,11 @@ The Secretary may not guarantee under this subchapter a loan made by an entity n
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
-### § 3748. Preference for disabled veterans
+### § 3748. Preference for disabled veterans
 
 In the extension of financial assistance under this subchapter, the Secretary shall give preference, first, to veterans’ small business concerns in which disabled veterans who have successfully completed a vocational rehabilitation program for self-employment in a small business enterprise under chapter 31 of this title have a significant ownership interest, and, second, to veterans’ small business concerns in which other disabled veterans have a significant ownership interest.
 
-(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1058, § 1848; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3748, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1058, § 1848; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3748, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -4274,7 +4274,7 @@ In the extension of financial assistance under this subchapter, the Secretary sh
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
-### § 3749. Revolving fund
+### § 3749. Revolving fund
 
 **(a)** There is established in the Treasury a revolving fund to be known as the “Department of Veterans Affairs Small Business Loan Revolving Fund” (hereinafter in this section referred to as the “fund”).
 
@@ -4290,25 +4290,25 @@ In the extension of financial assistance under this subchapter, the Secretary sh
 
 **(e)** Not later than two years after the termination of the authority of the Secretary to make new commitments for financial assistance under this subchapter, the Secretary shall transfer into the general fund of the Treasury all amounts in the fund except those that the Secretary determines may be required for the liquidation of obligations under this subchapter. All amounts received thereafter derived from loan operations under this subchapter, except so much thereof as the Secretary may determine to be necessary for liquidating outstanding obligations under this subchapter, shall also be so deposited.
 
-(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1058, § 1849; amended Pub. L. 99–576, title VII, § 702(11), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3749 and amended Pub. L. 102–83, §§ 4(a)(2)(B)(v), 5(a), Aug. 6, 1991, 105 Stat. 403, 406.)
+(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1058, § 1849; amended Pub. L. 99–576, title VII, § 702(11), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3749 and amended Pub. L. 102–83, §§ 4(a)(2)(B)(v), 5(a), Aug. 6, 1991, 105 Stat. 403, 406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1849 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1849 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(a)(2)(B)(v), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+Subsec. (a). Pub. L. 102–83, § 4(a)(2)(B)(v), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
 1989—Subsecs. (b) to (e). Pub. L. 101–237 substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
 
 1986—Subsec. (c)(1). Pub. L. 99–576 substituted “There” for “Effective for fiscal year 1982 and fiscal years thereafter, there”.
 
-### § 3750. Incorporation of other provisions by the Secretary
+### § 3750. Incorporation of other provisions by the Secretary
 
 The Secretary may provide that the provisions of sections of other subchapters of this chapter that are not otherwise applicable to loans made or guaranteed under this subchapter shall be applicable to loans made or guaranteed under this subchapter. The Secretary shall exercise authority under the preceding sentence by regulations prescribed after publication in the Federal Register and a period of not less than thirty days for public comment.
 
-(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1059, § 1850; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3750, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1059, § 1850; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3750, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -4318,11 +4318,11 @@ The Secretary may provide that the provisions of sections of other subchapters o
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” in section catchline and wherever appearing in text.
 
-### § 3751. Termination of program
+### § 3751. Termination of program
 
 The Secretary may not make commitments for financial assistance under this subchapter after September 30, 1986.
 
-(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1059, § 1851; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3751, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 97–72, title III, § 302(a), Nov. 3, 1981, 95 Stat. 1059, § 1851; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 3751, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -4338,9 +4338,9 @@ The Secretary may not make commitments for financial assistance under this subch
 
 **Amendments**
 
-2006—Pub. L. 109–233, title I, § 103(f)(1), June 15, 2006, 120 Stat. 400, substituted “DIRECT HOUSING LOANS FOR NATIVE AMERICAN VETERANS” for “NATIVE AMERICAN VETERAN HOUSING LOAN PILOT PROGRAM” in subchapter heading.
+2006—Pub. L. 109–233, title I, § 103(f)(1), June 15, 2006, 120 Stat. 400, substituted “DIRECT HOUSING LOANS FOR NATIVE AMERICAN VETERANS” for “NATIVE AMERICAN VETERAN HOUSING LOAN PILOT PROGRAM” in subchapter heading.
 
-### § 3761. Direct housing loans to Native American veterans; program authority
+### § 3761. Direct housing loans to Native American veterans; program authority
 
 **(a)** The Secretary shall make direct housing loans to Native American veterans. The purpose of such loans is to permit such veterans to purchase, construct, or improve dwellings on trust land. The Secretary shall make such loans in accordance with the provisions of this subchapter.
 
@@ -4348,7 +4348,7 @@ The Secretary may not make commitments for financial assistance under this subch
 
 **(c)** The Secretary shall prescribe such regulations as may be necessary to carry out this subchapter.
 
-(Added Pub. L. 102–547, § 8(a), Oct. 28, 1992, 106 Stat. 3636; amended Pub. L. 105–114, title II, § 201(a), Nov. 21, 1997, 111 Stat. 2282; Pub. L. 107–103, title IV, § 402(a), Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–454, title IV, § 407, Dec. 10, 2004, 118 Stat. 3617; Pub. L. 109–233, title I, § 103(a), (f)(2), June 15, 2006, 120 Stat. 399, 400; Pub. L. 118–210, title II, § 231(g), Jan. 2, 2025, 138 Stat. 2787.)
+(Added Pub. L. 102–547, § 8(a), Oct. 28, 1992, 106 Stat. 3636; amended Pub. L. 105–114, title II, § 201(a), Nov. 21, 1997, 111 Stat. 2282; Pub. L. 107–103, title IV, § 402(a), Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–454, title IV, § 407, Dec. 10, 2004, 118 Stat. 3617; Pub. L. 109–233, title I, § 103(a), (f)(2), June 15, 2006, 120 Stat. 399, 400; Pub. L. 118–210, title II, § 231(g), Jan. 2, 2025, 138 Stat. 2787.)
 
 **Editorial Notes**
 
@@ -4356,13 +4356,13 @@ The Secretary may not make commitments for financial assistance under this subch
 
 2025—Subsec. (c). Pub. L. 118–210 added subsec. (c).
 
-2006—Pub. L. 109–233, § 103(f)(2), amended section catchline generally, substituting “Direct housing loans to Native American veterans; program authority” for “Pilot program”.
+2006—Pub. L. 109–233, § 103(f)(2), amended section catchline generally, substituting “Direct housing loans to Native American veterans; program authority” for “Pilot program”.
 
-Subsec. (a). Pub. L. 109–233, § 103(a)(1), struck out “establish and implement a pilot program under which the Secretary may” before “make direct housing loans” and substituted “shall make such loans” for “shall establish and implement the pilot program”.
+Subsec. (a). Pub. L. 109–233, § 103(a)(1), struck out “establish and implement a pilot program under which the Secretary may” before “make direct housing loans” and substituted “shall make such loans” for “shall establish and implement the pilot program”.
 
-Subsec. (b). Pub. L. 109–233, § 103(a)(2), substituted “The” for “In carrying out the pilot program under this subchapter, the”.
+Subsec. (b). Pub. L. 109–233, § 103(a)(2), substituted “The” for “In carrying out the pilot program under this subchapter, the”.
 
-Subsec. (c). Pub. L. 109–233, § 103(a)(3), struck out subsec. (c) which read as follows: “No loans may be made under this subchapter after December 31, 2008.”
+Subsec. (c). Pub. L. 109–233, § 103(a)(3), struck out subsec. (c) which read as follows: “No loans may be made under this subchapter after December 31, 2008.”
 
 2004—Subsec. (c). Pub. L. 108–454 substituted “December 31, 2008” for “December 31, 2005”.
 
@@ -4374,17 +4374,17 @@ Subsec. (c). Pub. L. 109–233, § 103(a)(3), struck out subsec. (c) which rea
 
 **Consultation With Advisory Committee on Native-American Veterans**
 
-Pub. L. 102–547, § 8(b), Oct. 28, 1992, 106 Stat. 3640, which required the Secretary of Veterans Affairs to consider the views and recommendations, if any, of the Advisory Committee on Native-American Veterans in carrying out the direct housing loan pilot program, was repealed by Pub. L. 109–233, title I, § 103(c)(2), June 15, 2006, 120 Stat. 400.
+Pub. L. 102–547, § 8(b), Oct. 28, 1992, 106 Stat. 3640, which required the Secretary of Veterans Affairs to consider the views and recommendations, if any, of the Advisory Committee on Native-American Veterans in carrying out the direct housing loan pilot program, was repealed by Pub. L. 109–233, title I, § 103(c)(2), June 15, 2006, 120 Stat. 400.
 
 **Annual Reports on Pilot Program**
 
-Pub. L. 102–547, § 8(d), Oct. 28, 1992, 106 Stat. 3640, directed Secretary of Veterans Affairs to transmit report relating to implementation of Native American veterans direct housing loan pilot program established under this subchapter to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Feb. 1 of each of years 1994 through 1998, prior to repeal by Pub. L. 104–110, title II, § 201(b), Feb. 13, 1996, 110 Stat. 770.
+Pub. L. 102–547, § 8(d), Oct. 28, 1992, 106 Stat. 3640, directed Secretary of Veterans Affairs to transmit report relating to implementation of Native American veterans direct housing loan pilot program established under this subchapter to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Feb. 1 of each of years 1994 through 1998, prior to repeal by Pub. L. 104–110, title II, § 201(b), Feb. 13, 1996, 110 Stat. 770.
 
 **Authorization of Appropriations for Native American Veteran Housing Loans**
 
-Pub. L. 102–547, § 8(e), Oct. 28, 1992, 106 Stat. 3640, provided that: “New direct loan obligations for Native American veteran housing loans under subchapter V of chapter 37 of title 38, United States Code (as added by subsection (a)), may be incurred only to the extent that appropriations of budget authority to cover the anticipated cost, as defined in section 502 of the Congressional Budget Act of 1974 [2 U.S.C. 661a], for such loans are made in advance. There is authorized to be appropriated for such purpose $5,000,000 for fiscal year 1993, which amount shall remain available without fiscal year limitation.”
+Pub. L. 102–547, § 8(e), Oct. 28, 1992, 106 Stat. 3640, provided that: “New direct loan obligations for Native American veteran housing loans under subchapter V of chapter 37 of title 38, United States Code (as added by subsection (a)), may be incurred only to the extent that appropriations of budget authority to cover the anticipated cost, as defined in section 502 of the Congressional Budget Act of 1974 [2 U.S.C. 661a], for such loans are made in advance. There is authorized to be appropriated for such purpose $5,000,000 for fiscal year 1993, which amount shall remain available without fiscal year limitation.”
 
-### § 3762. Direct housing loans to Native American veterans; program administration
+### § 3762. Direct housing loans to Native American veterans; program administration
 
 **(a)** The Secretary may make a direct housing loan to a Native American veteran under this subchapter if the Secretary ensures the following:
 
@@ -4458,9 +4458,9 @@ Pub. L. 102–547, § 8(e), Oct. 28, 1992, 106 Stat. 3640, provided that: “N
 
 **(B)** will bear an interest rate at least one percentage point less than the interest rate borne by the loan being refinanced; and
 
-**(C)** complies with paragraphs (2) and (3) of section 3710(e) of this title, except that for the purposes of this subsection the reference to subsection (a)(8) of section 3710 of this title in such paragraphs (2) 1
+**(C)** complies with paragraphs (2) and (3) of section 3710(e) of this title, except that for the purposes of this subsection the reference to subsection (a)(8) of section 3710 of this title in such paragraphs (2) 1
 
-<sup>1</sup>  So in original. Reference in section 3710(e)(2) of this title is to “clause (8) of subsection (a)” of section 3710.
+<sup>1</sup> So in original. Reference in section 3710(e)(2) of this title is to “clause (8) of subsection (a)” of section 3710.
 
 and (3) shall be deemed to be a reference to this subsection.
 
@@ -4540,47 +4540,47 @@ and (3) shall be deemed to be a reference to this subsection.
 
 **(k)** The Secretary shall assign a sufficient number of personnel of the Department dedicated to carrying out the authority of the Secretary under this subchapter, including construction and valuation specialists to assist with issues unique to new construction and renovations on trust land.
 
-(Added Pub. L. 102–547, § 8(a), Oct. 28, 1992, 106 Stat. 3637; amended Pub. L. 104–275, title II, § 202(a), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–114, title II, § 201(b), (c), Nov. 21, 1997, 111 Stat. 2282, 2283; Pub. L. 107–103, title IV, § 402(b), (c), Dec. 27, 2001, 115 Stat. 993; Pub. L. 109–233, title I, § 103(b), (c)(1), (d), (e), (f)(3), June 15, 2006, 120 Stat. 400, 401; Pub. L. 116–23, § 6(a)(2), June 25, 2019, 133 Stat. 973; Pub. L. 118–210, title II, § 231(a)–(d), Jan. 2, 2025, 138 Stat. 2783–2785.)
+(Added Pub. L. 102–547, § 8(a), Oct. 28, 1992, 106 Stat. 3637; amended Pub. L. 104–275, title II, § 202(a), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–114, title II, § 201(b), (c), Nov. 21, 1997, 111 Stat. 2282, 2283; Pub. L. 107–103, title IV, § 402(b), (c), Dec. 27, 2001, 115 Stat. 993; Pub. L. 109–233, title I, § 103(b), (c)(1), (d), (e), (f)(3), June 15, 2006, 120 Stat. 400, 401; Pub. L. 116–23, § 6(a)(2), June 25, 2019, 133 Stat. 973; Pub. L. 118–210, title II, § 231(a)–(d), Jan. 2, 2025, 138 Stat. 2783–2785.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 118–210, § 231(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to the requirements for the Secretary to make a direct housing loan to a Native American veteran.
+2025—Subsec. (a). Pub. L. 118–210, § 231(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to the requirements for the Secretary to make a direct housing loan to a Native American veteran.
 
-Subsec. (b). Pub. L. 118–210, § 231(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to the requirements that each memorandum of understanding the Secretary enters into with a tribal organization must provide.
+Subsec. (b). Pub. L. 118–210, § 231(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to the requirements that each memorandum of understanding the Secretary enters into with a tribal organization must provide.
 
-Subsec. (h). Pub. L. 118–210, § 231(b), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to when the Secretary may make direct loans to Native American veterans.
+Subsec. (h). Pub. L. 118–210, § 231(b), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to when the Secretary may make direct loans to Native American veterans.
 
-Subsec. (i)(2)(G), (H). Pub. L. 118–210, § 231(c), added subpars. (G) and (H).
+Subsec. (i)(2)(G), (H). Pub. L. 118–210, § 231(c), added subpars. (G) and (H).
 
-Subsec. (k). Pub. L. 118–210, § 231(d), added subsec. (k).
+Subsec. (k). Pub. L. 118–210, § 231(d), added subsec. (k).
 
 2019—Subsec. (c). Pub. L. 116–23 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which set an $80,000 limit, with certain exceptions, on the principal amount of any direct housing loan made to a Native American veteran.
 
-2006—Pub. L. 109–233, § 103(f)(3), amended section catchline generally, substituting “Direct housing loans to Native American veterans; program administration” for “Direct housing loans to Native American veterans”.
+2006—Pub. L. 109–233, § 103(f)(3), amended section catchline generally, substituting “Direct housing loans to Native American veterans; program administration” for “Direct housing loans to Native American veterans”.
 
-Subsec. (a). Pub. L. 109–233, § 103(c)(1)(A), inserted “under this subchapter” after “to a Native American veteran” in introductory provisions.
+Subsec. (a). Pub. L. 109–233, § 103(c)(1)(A), inserted “under this subchapter” after “to a Native American veteran” in introductory provisions.
 
-Subsec. (b)(1)(E). Pub. L. 109–233, § 103(c)(1)(B), substituted “loans under this subchapter are made” for “the pilot program established under this subchapter is implemented”.
+Subsec. (b)(1)(E). Pub. L. 109–233, § 103(c)(1)(B), substituted “loans under this subchapter are made” for “the pilot program established under this subchapter is implemented”.
 
-Subsec. (c)(1)(A). Pub. L. 109–233, § 103(e), inserted “veteran” after “Native American”.
+Subsec. (c)(1)(A). Pub. L. 109–233, § 103(e), inserted “veteran” after “Native American”.
 
-Subsec. (c)(1)(B). Pub. L. 109–233, § 103(c)(1)(C), (d), designated existing provisions as cl. (i), substituted “Subject to clause (ii), the” for “The” after cl. (i) designation, substituted “make direct housing loans under this subchapter” for “carry out the pilot program under this subchapter in a manner that demonstrates the advisability of making direct housing loans”, and added cl. (ii).
+Subsec. (c)(1)(B). Pub. L. 109–233, § 103(c)(1)(C), (d), designated existing provisions as cl. (i), substituted “Subject to clause (ii), the” for “The” after cl. (i) designation, substituted “make direct housing loans under this subchapter” for “carry out the pilot program under this subchapter in a manner that demonstrates the advisability of making direct housing loans”, and added cl. (ii).
 
-Subsec. (i)(1). Pub. L. 109–233, § 103(c)(1)(D)(i), struck out “the pilot program provided for under this subchapter and” after “educate Native American veterans of”.
+Subsec. (i)(1). Pub. L. 109–233, § 103(c)(1)(D)(i), struck out “the pilot program provided for under this subchapter and” after “educate Native American veterans of”.
 
-Subsec. (i)(2)(A), (E). Pub. L. 109–233, § 103(c)(1)(D)(ii), (iii), substituted “under this subchapter and in assisting such organizations and veterans with respect to such housing benefits” for “under the pilot program and in assisting such organizations and veterans in participating in the pilot program” in subpar. (A) and “with respect to such benefits” for “in participating in the pilot program” in subpar. (E).
+Subsec. (i)(2)(A), (E). Pub. L. 109–233, § 103(c)(1)(D)(ii), (iii), substituted “under this subchapter and in assisting such organizations and veterans with respect to such housing benefits” for “under the pilot program and in assisting such organizations and veterans in participating in the pilot program” in subpar. (A) and “with respect to such benefits” for “in participating in the pilot program” in subpar. (E).
 
-Subsec. (j). Pub. L. 109–233, § 103(b), amended subsec. (j) generally. Prior to amendment, subsec. (j) related to the Secretary’s transmittal to the Committees on Veterans’ Affairs of the Senate and House of Representatives of an annual report relating to the implementation of the Native American veteran housing loan pilot program.
+Subsec. (j). Pub. L. 109–233, § 103(b), amended subsec. (j) generally. Prior to amendment, subsec. (j) related to the Secretary’s transmittal to the Committees on Veterans’ Affairs of the Senate and House of Representatives of an annual report relating to the implementation of the Native American veteran housing loan pilot program.
 
-2001—Subsec. (a)(1). Pub. L. 107–103, § 402(b), designated existing provisions as subpar. (A), substituted “; or” for “; and”, and added subpar. (B).
+2001—Subsec. (a)(1). Pub. L. 107–103, § 402(b), designated existing provisions as subpar. (A), substituted “; or” for “; and”, and added subpar. (B).
 
-Subsec. (j). Pub. L. 107–103, § 402(c), substituted “2006” for “2002” in introductory provisions.
+Subsec. (j). Pub. L. 107–103, § 402(c), substituted “2006” for “2002” in introductory provisions.
 
-1997—Subsec. (i). Pub. L. 105–114, § 201(b), designated existing provisions as par. (1), inserted “, in consultation with tribal organizations (including the National Congress of American Indians and the National American Indian Housing Council),” after “the Secretary shall”, struck out “tribal organizations and” after “educate”, and added par. (2).
+1997—Subsec. (i). Pub. L. 105–114, § 201(b), designated existing provisions as par. (1), inserted “, in consultation with tribal organizations (including the National Congress of American Indians and the National American Indian Housing Council),” after “the Secretary shall”, struck out “tribal organizations and” after “educate”, and added par. (2).
 
-Subsec. (j). Pub. L. 105–114, § 201(c), added subsec. (j).
+Subsec. (j). Pub. L. 105–114, § 201(c), added subsec. (j).
 
 1996—Subsecs. (h), (i). Pub. L. 104–275 added subsec. (h) and redesignated former subsec. (h) as (i).
 
@@ -4590,7 +4590,7 @@ Subsec. (j). Pub. L. 105–114, § 201(c), added subsec. (j).
 
 Amendment by Pub. L. 116–23 applicable with respect to a loan guaranteed under section 3710 of this title on or after Jan. 1, 2020, see section 6(d) of Pub. L. 116–23, set out as a note under section 3703 of this title.
 
-### § 3762A. Native community development financial institution relending program
+### § 3762A. Native community development financial institution relending program
 
 **(a) Purpose.—** The Secretary may make a loan to a Native community development financial institution for the purpose of allowing the institution to relend loan amounts to qualified Native American veterans, subject to the requirements of this section.
 
@@ -4626,9 +4626,9 @@ Amendment by Pub. L. 116–23 applicable with respect to a loan guaranteed under
 
 **(f) Sunset.—** The Secretary may not make a loan under this section after September 30, 2027.
 
-(Added Pub. L. 118–210, title II, § 232(a), Jan. 2, 2025, 138 Stat. 2787.)
+(Added Pub. L. 118–210, title II, § 232(a), Jan. 2, 2025, 138 Stat. 2787.)
 
-### § 3763. Native American Veteran Housing Loan Program Account
+### § 3763. Native American Veteran Housing Loan Program Account
 
 **(a)** There is hereby established in the Treasury of the United States an account known as the “Native American Veteran Housing Loan Program Account” (hereinafter in this subchapter referred to as the “Account”).
 
@@ -4640,7 +4640,7 @@ Amendment by Pub. L. 116–23 applicable with respect to a loan guaranteed under
 
 **(2)** in any fiscal year after fiscal year 2025, an amount determined necessary by the Secretary to meet the demand for such loans.
 
-(Added Pub. L. 102–547, § 8(a), Oct. 28, 1992, 106 Stat. 3639; amended Pub. L. 105–368, title VI, § 602(e)(3)(B), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 118–210, title II, § 232(c), Jan. 2, 2025, 138 Stat. 2788.)
+(Added Pub. L. 102–547, § 8(a), Oct. 28, 1992, 106 Stat. 3639; amended Pub. L. 105–368, title VI, § 602(e)(3)(B), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 118–210, title II, § 232(c), Jan. 2, 2025, 138 Stat. 2788.)
 
 **Editorial Notes**
 
@@ -4658,7 +4658,7 @@ Amendment by Pub. L. 116–23 applicable with respect to a loan guaranteed under
 
 Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as a note under section 2106 of this title.
 
-### § 3764. Qualified non-Native American veterans
+### § 3764. Qualified non-Native American veterans
 
 **(a) Treatment of Non-Native American Veterans.—** Subject to the succeeding provisions of this section, for purposes of this subchapter—
 
@@ -4670,7 +4670,7 @@ Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub
 
 **(c) Restrictions Imposed by Tribal Organizations.—** Nothing in subsection (b) shall be construed as precluding a tribal organization from imposing reasonable restrictions on the right of the qualified non-Native American veteran to convey, assign, or otherwise dispose of such interest in the lot or dwelling, or both, if such restrictions are designed to ensure the continuation in trust status of the lot or dwelling, or both. Such requirements may include the termination of the interest of the qualified non-Native American veteran in the lot or dwelling, or both, upon the dissolution of the marriage of the qualified non-Native American veteran to the Native American spouse.
 
-(Added Pub. L. 109–233, title I, § 104(a)(2), June 15, 2006, 120 Stat. 401.)
+(Added Pub. L. 109–233, title I, § 104(a)(2), June 15, 2006, 120 Stat. 401.)
 
 **Editorial Notes**
 
@@ -4678,7 +4678,7 @@ Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub
 
 A prior section 3764 was renumbered section 3765 of this title.
 
-### § 3765. Definitions
+### § 3765. Definitions
 
 For the purposes of this subchapter—
 
@@ -4700,9 +4700,9 @@ For the purposes of this subchapter—
 
 **(3)** The term “Native American” means—
 
-**(A)** an Indian, as defined in section 4(d) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(d)); 1
+**(A)** an Indian, as defined in section 4(d) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(d)); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(B)** a native Hawaiian, as that term is defined in section 201(a)(7) of the Hawaiian Homes Commission Act, 1920 (Public Law 67–34; 42 Stat. 108);
 
@@ -4710,7 +4710,7 @@ For the purposes of this subchapter—
 
 **(D)** a Pacific Islander, within the meaning of the Native American Programs Act of 1974 (42 U.S.C. 2991 et seq.).
 
-**(4)** The term “tribal organization” shall have the meaning given such term in section 4(*l*) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(*l*)) <sup>1</sup> and shall include the Department of Hawaiian Homelands, in the case of native Hawaiians, and such other organizations as the Secretary may prescribe.
+**(4)** The term “tribal organization” shall have the meaning given such term in section 4(*l*) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(*l*)) <sup>1</sup> and shall include the Department of Hawaiian Homelands, in the case of native Hawaiians, and such other organizations as the Secretary may prescribe.
 
 **(5)** The term “qualified non-Native American veteran” means a veteran who—
 
@@ -4736,7 +4736,7 @@ For the purposes of this subchapter—
 
 **(11)** The term “tribally designated housing entity” has the meaning given that term in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103).
 
-(Added Pub. L. 102–547, § 8(a), Oct. 28, 1992, 106 Stat. 3639, § 3764; renumbered § 3765 and amended Pub. L. 109–233, title I, § 104(a)(1), (b), June 15, 2006, 120 Stat. 401, 402; Pub. L. 118–210, title II, § 231(e), Jan. 2, 2025, 138 Stat. 2786.)
+(Added Pub. L. 102–547, § 8(a), Oct. 28, 1992, 106 Stat. 3639, § 3764; renumbered § 3765 and amended Pub. L. 109–233, title I, § 104(a)(1), (b), June 15, 2006, 120 Stat. 401, 402; Pub. L. 118–210, title II, § 231(e), Jan. 2, 2025, 138 Stat. 2786.)
 
 **Editorial Notes**
 
@@ -4746,23 +4746,23 @@ Section 4(d) of the Indian Self-Determination and Education Assistance Act (25 U
 
 Section 201(a)(7) of the Hawaiian Homes Commission Act, 1920, referred to in par. (3)(B), was classified to section 692 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
 
-The Native American Programs Act of 1974, referred to in par. (3)(D), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, § 11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to subchapter VIII (§ 2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 2991 of Title 42 and Tables.
+The Native American Programs Act of 1974, referred to in par. (3)(D), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, § 11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to subchapter VIII (§ 2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 2991 of Title 42 and Tables.
 
 Section 4(*l*) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(*l*)), referred to in par. (4), was classified to section 450b(*l*) of Title 25, prior to editorial reclassification as section 5304(*l*) of Title 25.
 
-The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Amendments**
 
-2025—Par. (1)(C). Pub. L. 118–210, § 231(e)(1)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “is owned by a Regional Corporation or a Village Corporation, as such terms are defined in section 3(g) and 3(j) of the Alaska Native Claims Settlement Act, respectively (43 U.S.C. 1602(g), (j)); or”.
+2025—Par. (1)(C). Pub. L. 118–210, § 231(e)(1)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “is owned by a Regional Corporation or a Village Corporation, as such terms are defined in section 3(g) and 3(j) of the Alaska Native Claims Settlement Act, respectively (43 U.S.C. 1602(g), (j)); or”.
 
-Par. (1)(E), (F). Pub. L. 118–210, § 231(e)(1)(B), (C), added subpars. (E) and (F).
+Par. (1)(E), (F). Pub. L. 118–210, § 231(e)(1)(B), (C), added subpars. (E) and (F).
 
-Pars. (6) to (11). Pub. L. 118–210, § 231(e)(2), added pars. (6) to (11).
+Pars. (6) to (11). Pub. L. 118–210, § 231(e)(2), added pars. (6) to (11).
 
-2006—Pub. L. 109–233, § 104(a)(1), renumbered section 3764 of this title as this section.
+2006—Pub. L. 109–233, § 104(a)(1), renumbered section 3764 of this title as this section.
 
-Par. (5). Pub. L. 109–233, § 104(b), added par. (5).
+Par. (5). Pub. L. 109–233, § 104(b), added par. (5).
 
 ## [SUBCHAPTER VI—TRANSFERRED]
 
@@ -4770,10 +4770,10 @@ Par. (5). Pub. L. 109–233, § 104(b), added par. (5).
 
 **Codification**
 
-Former subchapter VI of this chapter, other than section 3771, was transferred to subchapter VI of chapter 20 of this title and inserted after section 2043 of this title, and sections 3772 to 3775 were renumbered sections 2051 to 2054 of this title, respectively, by Pub. L. 107–95, § 5(d)(1), Dec. 21, 2001, 115 Stat. 918.
+Former subchapter VI of this chapter, other than section 3771, was transferred to subchapter VI of chapter 20 of this title and inserted after section 2043 of this title, and sections 3772 to 3775 were renumbered sections 2051 to 2054 of this title, respectively, by Pub. L. 107–95, § 5(d)(1), Dec. 21, 2001, 115 Stat. 918.
 
-### [§ 3771. Repealed. Pub. L. 107–95, § 5(d)(3), Dec. 21, 2001, 115 Stat. 918]
+### [§ 3771. Repealed. Pub. L. 107–95, § 5(d)(3), Dec. 21, 2001, 115 Stat. 918]
 
-Section, added Pub. L. 105–368, title VI, § 601(a), Nov. 11, 1998, 112 Stat. 3342; amended Pub. L. 106–400, § 2, Oct. 30, 2000, 114 Stat. 1675, defined terms “veteran”, “homeless veteran”, and “homeless individual”, for purposes of this subchapter.
+Section, added Pub. L. 105–368, title VI, § 601(a), Nov. 11, 1998, 112 Stat. 3342; amended Pub. L. 106–400, § 2, Oct. 30, 2000, 114 Stat. 1675, defined terms “veteran”, “homeless veteran”, and “homeless individual”, for purposes of this subchapter.
 
-### [§§ 3772 to 3775. Renumbered §§ 2051 to 2054]
+### [§§ 3772 to 3775. Renumbered §§ 2051 to 2054]

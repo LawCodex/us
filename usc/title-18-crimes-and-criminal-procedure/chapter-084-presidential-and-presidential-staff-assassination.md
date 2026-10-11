@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–177, title VI, § 602(b)(2), Mar. 9, 2006, 120 Stat. 252, substituted “Restricted building or grounds” for “Temporary residences and offices of the President and others” in item 1752.
+2006—Pub. L. 109–177, title VI, § 602(b)(2), Mar. 9, 2006, 120 Stat. 252, substituted “Restricted building or grounds” for “Temporary residences and offices of the President and others” in item 1752.
 
-1994—Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150, which directed the amendment of this title “by striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “KIDNAPPING” for “KIDNAPING” in chapter heading, to reflect the probable intent of Congress.
+1994—Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150, which directed the amendment of this title “by striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “KIDNAPPING” for “KIDNAPING” in chapter heading, to reflect the probable intent of Congress.
 
-Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150, substituted “kidnapping” for “kidnaping” in item 1751.
+Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150, substituted “kidnapping” for “kidnaping” in item 1751.
 
-1990—Pub. L. 101–647, title XXXV, § 3553, Nov. 29, 1990, 104 Stat. 4926, added item 1752.
+1990—Pub. L. 101–647, title XXXV, § 3553, Nov. 29, 1990, 104 Stat. 4926, added item 1752.
 
-1982—Pub. L. 97–285, § 4(b), (c), Oct. 6, 1982, 96 Stat. 1220, inserted “and Presidential staff” after “Presidential” in chapter heading and in item 1751.
+1982—Pub. L. 97–285, § 4(b), (c), Oct. 6, 1982, 96 Stat. 1220, inserted “and Presidential staff” after “Presidential” in chapter heading and in item 1751.
 
-## § 1751. Presidential and Presidential staff assassination, kidnapping, and assault; penalties
+## § 1751. Presidential and Presidential staff assassination, kidnapping, and assault; penalties
 
 **(a)** Whoever kills (1) any individual who is the President of the United States, the President-elect, the Vice President, or, if there is no Vice President, the officer next in the order of succession to the Office of the President of the United States, the Vice President-elect, or any person who is acting as President under the Constitution and laws of the United States, or (2) any person appointed under section 105(a)(2)(A) of title 3 employed in the Executive Office of the President or appointed under section 106(a)(1)(A) of title 3 employed in the Office of the Vice President, shall be punished as provided by sections 1111 and 1112 of this title.
 
@@ -53,35 +53,35 @@ Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150,
 
 **(k)** There is extraterritorial jurisdiction over the conduct prohibited by this section.
 
-(Added Pub. L. 89–141, § 1, Aug. 28, 1965, 79 Stat. 580; amended Pub. L. 97–285, §§ 3, 4(a), Oct. 6, 1982, 96 Stat. 1220; Pub. L. 103–322, title XXXII, § 320101(e), title XXXIII, §§ 330016(1)(K), (L), 330021(1), Sept. 13, 1994, 108 Stat. 2108, 2147, 2150; Pub. L. 104–294, title VI, § 604(b)(12)(D), Oct. 11, 1996, 110 Stat. 3507.)
+(Added Pub. L. 89–141, § 1, Aug. 28, 1965, 79 Stat. 580; amended Pub. L. 97–285, §§ 3, 4(a), Oct. 6, 1982, 96 Stat. 1220; Pub. L. 103–322, title XXXII, § 320101(e), title XXXIII, §§ 330016(1)(K), (L), 330021(1), Sept. 13, 1994, 108 Stat. 2108, 2147, 2150; Pub. L. 104–294, title VI, § 604(b)(12)(D), Oct. 11, 1996, 110 Stat. 3507.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (e). Pub. L. 104–294, § 604(b)(12)(D), repealed Pub. L. 103–322, § 320101(e)(1), (2). See 1994 Amendment notes below.
+1996—Subsec. (e). Pub. L. 104–294, § 604(b)(12)(D), repealed Pub. L. 103–322, § 320101(e)(1), (2). See 1994 Amendment notes below.
 
-1994—Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping” in section catchline.
+1994—Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping” in section catchline.
 
-Subsec. (e). Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” after “subsection (a)(2) shall be”.
+Subsec. (e). Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” after “subsection (a)(2) shall be”.
 
-Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” after “subsection (a)(1) shall be” and after “results, shall be”.
+Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” after “subsection (a)(1) shall be” and after “results, shall be”.
 
-Pub. L. 103–322, § 320101(e)(3), inserted “the assault involved the use of a dangerous weapon, or” before “personal injury results”.
+Pub. L. 103–322, § 320101(e)(3), inserted “the assault involved the use of a dangerous weapon, or” before “personal injury results”.
 
-Pub. L. 103–322, § 320101(e)(2), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(K), above, was repealed by Pub. L. 104–294, § 604(b)(12)(D).
+Pub. L. 103–322, § 320101(e)(2), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(K), above, was repealed by Pub. L. 104–294, § 604(b)(12)(D).
 
-Pub. L. 103–322, § 320101(e)(1), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(L), above, was repealed by Pub. L. 104–294, § 604(b)(12)(D).
+Pub. L. 103–322, § 320101(e)(1), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(L), above, was repealed by Pub. L. 104–294, § 604(b)(12)(D).
 
-1982—Pub. L. 97–285, § 4(a), inserted “and Presidential staff” after “Presidential” in section catchline.
+1982—Pub. L. 97–285, § 4(a), inserted “and Presidential staff” after “Presidential” in section catchline.
 
-Subsec. (a). Pub. L. 97–285, § 3(a), inserted “(1)” after “Whoever kills” and “or (2) any person appointed under section 105(a)(2)(A) of title 3 employed in the Executive Office of the President or appointed under section 106(a)(1)(A) of title 3 employed in the Office of the Vice President,” after “laws of the United States”.
+Subsec. (a). Pub. L. 97–285, § 3(a), inserted “(1)” after “Whoever kills” and “or (2) any person appointed under section 105(a)(2)(A) of title 3 employed in the Executive Office of the President or appointed under section 106(a)(1)(A) of title 3 employed in the Office of the Vice President,” after “laws of the United States”.
 
-Subsec. (e). Pub. L. 97–285, § 3(b), substituted “(a)(1)” for “(a)” and inserted provision that whoever assaults any person designated in subsec. (a)(2) of this section shall be fined not more than $5,000, or imprisoned not more than one year, or both; and if personal injury results, shall be fined not more than $10,000, or imprisoned not more than ten years, or both.
+Subsec. (e). Pub. L. 97–285, § 3(b), substituted “(a)(1)” for “(a)” and inserted provision that whoever assaults any person designated in subsec. (a)(2) of this section shall be fined not more than $5,000, or imprisoned not more than one year, or both; and if personal injury results, shall be fined not more than $10,000, or imprisoned not more than ten years, or both.
 
-Subsec. (g). Pub. L. 97–285, § 3(c), substituted “subsection (a)(1)” for “this section” after “a violation of”.
+Subsec. (g). Pub. L. 97–285, § 3(c), substituted “subsection (a)(1)” for “this section” after “a violation of”.
 
-Subsecs. (j), (k). Pub. L. 97–285, § 3(d), added subsecs. (j) and (k).
+Subsecs. (j), (k). Pub. L. 97–285, § 3(d), added subsecs. (j) and (k).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -89,7 +89,7 @@ Subsecs. (j), (k). Pub. L. 97–285, § 3(d), added subsecs. (j) and (k).
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
-## § 1752. Restricted building or grounds
+## § 1752. Restricted building or grounds
 
 **(a)** Whoever—
 
@@ -97,13 +97,13 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 **(2)** knowingly, and with intent to impede or disrupt the orderly conduct of Government business or official functions, engages in disorderly or disruptive conduct in, or within such proximity to, any restricted building or grounds when, or so that, such conduct, in fact, impedes or disrupts the orderly conduct of Government business or official functions;
 
-**(3)** knowingly, and with the intent to impede or disrupt the orderly conduct of Government business or official functions, obstructs or impedes ingress or egress to or from any restricted building or grounds; or 1
+**(3)** knowingly, and with the intent to impede or disrupt the orderly conduct of Government business or official functions, obstructs or impedes ingress or egress to or from any restricted building or grounds; or 1
 
-<sup>1</sup>  So in original. The word “or” probably should not appear.
+<sup>1</sup> So in original. The word “or” probably should not appear.
 
-**(4)** knowingly engages in any act of physical violence against any person or property in any restricted building or grounds; 2
+**(4)** knowingly engages in any act of physical violence against any person or property in any restricted building or grounds; 2
 
-<sup>2</sup>  So in original. Probably should be followed by “or”.
+<sup>2</sup> So in original. Probably should be followed by “or”.
 
 **(5)** knowingly and willfully operates an unmanned aircraft system with the intent to knowingly and willfully direct or otherwise cause such unmanned aircraft system to enter or operate within or above a restricted building or grounds;
 
@@ -131,7 +131,7 @@ or attempts or conspires to do so, shall be punished as provided in subsection (
 
 **(2)** the term “other person protected by the Secret Service” means any person whom the United States Secret Service is authorized to protect under section 3056 of this title or by Presidential memorandum, when such person has not declined such protection.
 
-(Added Pub. L. 91–644, title V, § 18, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–308, § 1, Oct. 14, 1982, 96 Stat. 1451; Pub. L. 98–587, § 3(b), Oct. 30, 1984, 98 Stat. 3112; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–177, title VI, § 602(a), (b)(1), Mar. 9, 2006, 120 Stat. 252; Pub. L. 112–98, § 2, Mar. 8, 2012, 126 Stat. 263; Pub. L. 115–254, div. B, title III, § 381, Oct. 5, 2018, 132 Stat. 3320.)
+(Added Pub. L. 91–644, title V, § 18, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–308, § 1, Oct. 14, 1982, 96 Stat. 1451; Pub. L. 98–587, § 3(b), Oct. 30, 1984, 98 Stat. 3112; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–177, title VI, § 602(a), (b)(1), Mar. 9, 2006, 120 Stat. 252; Pub. L. 112–98, § 2, Mar. 8, 2012, 126 Stat. 263; Pub. L. 115–254, div. B, title III, § 381, Oct. 5, 2018, 132 Stat. 3320.)
 
 **Editorial Notes**
 
@@ -141,9 +141,9 @@ or attempts or conspires to do so, shall be punished as provided in subsection (
 
 2012—Pub. L. 112–98 amended section generally. Prior to amendment, section related to unlawful activities on restricted buildings or grounds.
 
-2006—Pub. L. 109–177, § 602(b)(1), substituted “Restricted building or grounds” for “Temporary residences and offices of the President and others” in section catchline.
+2006—Pub. L. 109–177, § 602(b)(1), substituted “Restricted building or grounds” for “Temporary residences and offices of the President and others” in section catchline.
 
-Subsec. (a)(1). Pub. L. 109–177, § 602(a)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “willfully and knowingly to enter or remain in
+Subsec. (a)(1). Pub. L. 109–177, § 602(a)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “willfully and knowingly to enter or remain in
 
 “(i) any building or grounds designated by the Secretary of the Treasury as temporary residences of the President or other person protected by the Secret Service or as temporary offices of the President and his staff or of any other person protected by the Secret Service, or
 
@@ -151,15 +151,15 @@ Subsec. (a)(1). Pub. L. 109–177, § 602(a)(1)(A), amended par. (1) generally
 
 in violation of the regulations governing ingress or egress thereto:”.
 
-Subsec. (a)(2). Pub. L. 109–177, § 602(a)(1)(C), added par. (2). Former par. (2) redesignated (3).
+Subsec. (a)(2). Pub. L. 109–177, § 602(a)(1)(C), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 109–177, § 602(a)(1)(B), (D), redesignated par. (2) as (3), inserted “willfully, knowingly, and” before “with intent to impede or disrupt”, and substituted “described in paragraph (1) or (2)” for “designated in paragraph (1)”. Former par. (3) redesignated (4).
+Subsec. (a)(3). Pub. L. 109–177, § 602(a)(1)(B), (D), redesignated par. (2) as (3), inserted “willfully, knowingly, and” before “with intent to impede or disrupt”, and substituted “described in paragraph (1) or (2)” for “designated in paragraph (1)”. Former par. (3) redesignated (4).
 
-Subsec. (a)(4), (5). Pub. L. 109–177, § 602(a)(1)(B), (E), (F), redesignated pars. (3) and (4) as (4) and (5), respectively, and substituted “described in paragraph (1) or (2)” for “designated or enumerated in paragraph (1)” in each par.
+Subsec. (a)(4), (5). Pub. L. 109–177, § 602(a)(1)(B), (E), (F), redesignated pars. (3) and (4) as (4) and (5), respectively, and substituted “described in paragraph (1) or (2)” for “designated or enumerated in paragraph (1)” in each par.
 
-Subsec. (b). Pub. L. 109–177, § 602(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Violation of this section, and attempts or conspiracies to commit such violations, shall be punishable by a fine under this title or imprisonment not exceeding six months, or both.”
+Subsec. (b). Pub. L. 109–177, § 602(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Violation of this section, and attempts or conspiracies to commit such violations, shall be punishable by a fine under this title or imprisonment not exceeding six months, or both.”
 
-Subsecs. (d) to (f). Pub. L. 109–177, § 602(a)(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “The Secretary of the Treasury is authorized—
+Subsecs. (d) to (f). Pub. L. 109–177, § 602(a)(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “The Secretary of the Treasury is authorized—
 
 “(1) to designate by regulations the buildings and grounds which constitute the temporary residences of the President or other person protected by the Secret Service and the temporary offices of the President and his staff or of any other person protected by the Secret Service, and
 
@@ -169,17 +169,17 @@ Subsecs. (d) to (f). Pub. L. 109–177, § 602(a)(3), redesignated subsecs. (e
 
 1984—Subsec. (f). Pub. L. 98–587 amended subsec. (f) generally, substituting “any person whom the United States Secret Service is authorized to protect under section 3056 of this title when such person has not declined such protection” for “any person authorized by section 3056 of this title or by Public Law 90–331, as amended, to receive the protection of the United States Secret Service when such person has not declined such protection pursuant to section 3056 of this title or pursuant to Public Law 90–331, as amended”.
 
-1982—Pub. L. 97–308, § 1(a), substituted “Temporary residences and offices of the President and others” for “Temporary residence of the President” in section catchline.
+1982—Pub. L. 97–308, § 1(a), substituted “Temporary residences and offices of the President and others” for “Temporary residence of the President” in section catchline.
 
-Subsec. (a)(1)(i). Pub. L. 97–308, § 1(b), made one’s presence unlawful at designated temporary residences and temporary offices of any other person protected by the Secret Service.
+Subsec. (a)(1)(i). Pub. L. 97–308, § 1(b), made one’s presence unlawful at designated temporary residences and temporary offices of any other person protected by the Secret Service.
 
-Subsec. (a)(1)(ii). Pub. L. 97–308, § 1(c), inserted “or other person protected by the Secret Service” after “President”.
+Subsec. (a)(1)(ii). Pub. L. 97–308, § 1(c), inserted “or other person protected by the Secret Service” after “President”.
 
-Subsec. (d)(1). Pub. L. 97–308, § 1(d), authorized regulations for designation of the temporary residences and the temporary offices of any other person protected by the Secret Service.
+Subsec. (d)(1). Pub. L. 97–308, § 1(d), authorized regulations for designation of the temporary residences and the temporary offices of any other person protected by the Secret Service.
 
-Subsec. (d)(2). Pub. L. 97–308, § 1(e), inserted “or other person protected by the Secret Service” after “President”.
+Subsec. (d)(2). Pub. L. 97–308, § 1(e), inserted “or other person protected by the Secret Service” after “President”.
 
-Subsec. (f). Pub. L. 97–308, § 1(f), added subsec. (f).
+Subsec. (f). Pub. L. 97–308, § 1(f), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 

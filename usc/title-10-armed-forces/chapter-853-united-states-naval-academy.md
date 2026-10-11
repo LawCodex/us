@@ -23,51 +23,51 @@ A prior chapter 853, consisting of sections 8681 to 8693, related to miscellaneo
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title V, §§ 555(b)(1), 558(a), Dec. 18, 2025, 139 Stat. 878, 879, substituted “appointment; numbers, territorial distribution” for “number” in item 8454 and added item 8451b. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title V, §§ 555(b)(1), 558(a), Dec. 18, 2025, 139 Stat. 878, 879, substituted “appointment; numbers, territorial distribution” for “number” in item 8454 and added item 8451b. Amendments were made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title V, § 557(b)(1), Dec. 23, 2024, 138 Stat. 1897, substituted “service obligation” for “agreement for length of service” in item 8459. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title V, § 557(b)(1), Dec. 23, 2024, 138 Stat. 1897, substituted “service obligation” for “agreement for length of service” in item 8459. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title V, § 553(b)(2), Dec. 27, 2021, 135 Stat. 1737, added item 8454a.
+2021—Pub. L. 117–81, div. A, title V, § 553(b)(2), Dec. 27, 2021, 135 Stat. 1737, added item 8454a.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 603 of this title as this chapter and items 6951 to 6956 and 6958 to 6981 as 8451 to 8456 and 8458 to 8481, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 603 of this title as this chapter and items 6951 to 6956 and 6958 to 6981 as 8451 to 8456 and 8458 to 8481, respectively.
 
-2016—Pub. L. 114–328, div. A, title XII, § 1248(b)(2)(B), Dec. 23, 2016, 130 Stat. 2525, struck out items 6957 “Selection of persons from foreign countries”, 6957a “Exchange program with foreign military academies”, and 6957b “Foreign and cultural exchange activities”.
+2016—Pub. L. 114–328, div. A, title XII, § 1248(b)(2)(B), Dec. 23, 2016, 130 Stat. 2525, struck out items 6957 “Selection of persons from foreign countries”, 6957a “Exchange program with foreign military academies”, and 6957b “Foreign and cultural exchange activities”.
 
-2013—Pub. L. 112–239, div. A, title V, § 542(b), Jan. 2, 2013, 126 Stat. 1737, added item 6981.
+2013—Pub. L. 112–239, div. A, title V, § 542(b), Jan. 2, 2013, 126 Stat. 1737, added item 6981.
 
-2008—Pub. L. 110–417, [div. A], title V, § 541(b)(2), Oct. 14, 2008, 122 Stat. 4455, added item 6957b.
+2008—Pub. L. 110–417, [div. A], title V, § 541(b)(2), Oct. 14, 2008, 122 Stat. 4455, added item 6957b.
 
-Pub. L. 110–181, div. A, title V, § 508(a)(2), Jan. 28, 2008, 122 Stat. 97, added items 6970 and 6970a and struck out former item 6970 “Permanent professors: retirement for years of service; authority for deferral”.
+Pub. L. 110–181, div. A, title V, § 508(a)(2), Jan. 28, 2008, 122 Stat. 97, added items 6970 and 6970a and struck out former item 6970 “Permanent professors: retirement for years of service; authority for deferral”.
 
-2006—Pub. L. 109–364, div. A, title X, § 1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, made technical correction to directory language of Pub. L. 108–375, § 544(b)(2). See 2004 Amendment note below.
+2006—Pub. L. 109–364, div. A, title X, § 1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, made technical correction to directory language of Pub. L. 108–375, § 544(b)(2). See 2004 Amendment note below.
 
-Pub. L. 109–364, div. A, title V, § 532(d)(2), title X, § 1071(a)(34), Oct. 17, 2006, 120 Stat. 2206, 2400, substituted colon for semicolon in item 6965 and added item 6980.
+Pub. L. 109–364, div. A, title V, § 532(d)(2), title X, § 1071(a)(34), Oct. 17, 2006, 120 Stat. 2206, 2400, substituted colon for semicolon in item 6965 and added item 6980.
 
-Pub. L. 109–163, div. A, title V, § 509(b)(2), Jan. 6, 2006, 119 Stat. 3230, added item 6970.
+Pub. L. 109–163, div. A, title V, § 509(b)(2), Jan. 6, 2006, 119 Stat. 3230, added item 6970.
 
-2004—Pub. L. 108–375, div. A, title V, § 545(b)(2), Oct. 28, 2004, 118 Stat. 1908, added item 6979.
+2004—Pub. L. 108–375, div. A, title V, § 545(b)(2), Oct. 28, 2004, 118 Stat. 1908, added item 6979.
 
-Pub. L. 108–375, div. A, title V, § 544(b)(2), Oct. 28, 2004, 118 Stat. 1907, as amended by Pub. L. 109–364, div. A, title X, § 1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, added item 6978.
+Pub. L. 108–375, div. A, title V, § 544(b)(2), Oct. 28, 2004, 118 Stat. 1907, as amended by Pub. L. 109–364, div. A, title X, § 1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, added item 6978.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title IX, § 942(e)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–242, added items 6973 and 6974 and struck out former items 6973 “Gifts and bequests: acceptance for benefit of Naval Academy” and 6974 “Gifts and bequests: acceptance for benefit of museum”.
+2000—Pub. L. 106–398, § 1 [[div. A], title IX, § 942(e)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–242, added items 6973 and 6974 and struck out former items 6973 “Gifts and bequests: acceptance for benefit of Naval Academy” and 6974 “Gifts and bequests: acceptance for benefit of museum”.
 
-1999—Pub. L. 106–65, div. A, title V, § 532(a)(4)(D), div. B, title XXVIII, § 2871(b)(2), Oct. 5, 1999, 113 Stat. 604, 875, added items 6951a and 6975.
+1999—Pub. L. 106–65, div. A, title V, § 532(a)(4)(D), div. B, title XXVIII, § 2871(b)(2), Oct. 5, 1999, 113 Stat. 604, 875, added items 6951a and 6975.
 
-1998—Pub. L. 105–261, div. A, title X, § 1063(b)(2), Oct. 17, 1998, 112 Stat. 2131, added item 6977.
+1998—Pub. L. 105–261, div. A, title X, § 1063(b)(2), Oct. 17, 1998, 112 Stat. 2131, added item 6977.
 
-1997—Pub. L. 105–85, div. A, title V, § 542(b)(2), div. B, title XXVIII, § 2871(a)(2), Nov. 18, 1997, 111 Stat. 1742, 2015, added items 6957a and 6976.
+1997—Pub. L. 105–85, div. A, title V, § 542(b)(2), div. B, title XXVIII, § 2871(a)(2), Nov. 18, 1997, 111 Stat. 1742, 2015, added items 6957a and 6976.
 
-1996—Pub. L. 104–201, div. A, title III, § 370(d), Sept. 23, 1996, 110 Stat. 2499, struck out item 6970 “Storekeeper: detail; returns; inspection of accounts” and substituted “trade shops, dairy, and laundry: nonappropriated fund instrumentality and accounts” for “laundry, barber shop, cobbler shop, tailor shop, and dairy: disposition of funds” in item 6971.
+1996—Pub. L. 104–201, div. A, title III, § 370(d), Sept. 23, 1996, 110 Stat. 2499, struck out item 6970 “Storekeeper: detail; returns; inspection of accounts” and substituted “trade shops, dairy, and laundry: nonappropriated fund instrumentality and accounts” for “laundry, barber shop, cobbler shop, tailor shop, and dairy: disposition of funds” in item 6971.
 
-1994—Pub. L. 103–337, div. A, title V, § 556(b)(2), Oct. 5, 1994, 108 Stat. 2775, which amended analysis by adding item 6975 “Athletics program: athletic director; nonappropriated fund account”, was repealed by Pub. L. 104–106, div. A, title V, § 533(b), Feb. 10, 1996, 110 Stat. 315, as amended by Pub. L. 105–85, div. A, title X, § 1073(d)(1)(C), Nov. 18, 1997, 111 Stat. 1905.
+1994—Pub. L. 103–337, div. A, title V, § 556(b)(2), Oct. 5, 1994, 108 Stat. 2775, which amended analysis by adding item 6975 “Athletics program: athletic director; nonappropriated fund account”, was repealed by Pub. L. 104–106, div. A, title V, § 533(b), Feb. 10, 1996, 110 Stat. 315, as amended by Pub. L. 105–85, div. A, title X, § 1073(d)(1)(C), Nov. 18, 1997, 111 Stat. 1905.
 
-1983—Pub. L. 98–94, title X, § 1004(b)(2), Sept. 24, 1983, 97 Stat. 659, substituted “Selection of persons from foreign countries” for “Admission of foreigners for instruction: restrictions, conditions” in item 6957.
+1983—Pub. L. 98–94, title X, § 1004(b)(2), Sept. 24, 1983, 97 Stat. 659, substituted “Selection of persons from foreign countries” for “Admission of foreigners for instruction: restrictions, conditions” in item 6957.
 
-## § 8451. Location
+## § 8451. Location
 
 The United States Naval Academy shall be located at Annapolis, Maryland.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 428, § 6951; renumbered § 8451, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 428, § 6951; renumbered § 8451, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -81,7 +81,7 @@ The words “United States” are inserted before the words “Naval Academy” 
 
 **Prior Provisions**
 
-A prior section 8451, act Aug. 10, 1956, ch. 1041, 70A Stat. 524, provided that an officer who is promoted to a temporary grade is considered to have accepted his promotion on date of order announcing it, unless he expressly declines promotion, prior to repeal by Pub. L. 96–513, title II, § 207, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981.
+A prior section 8451, act Aug. 10, 1956, ch. 1041, 70A Stat. 524, provided that an officer who is promoted to a temporary grade is considered to have accepted his promotion on date of order announcing it, unless he expressly declines promotion, prior to repeal by Pub. L. 96–513, title II, § 207, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981.
 
 **Amendments**
 
@@ -93,7 +93,7 @@ A prior section 8451, act Aug. 10, 1956, ch. 1041, 70A Stat. 524, provided that 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8451a. Superintendent
+## § 8451a. Superintendent
 
 **(a)** There is a Superintendent of the United States Naval Academy. The immediate governance of the Naval Academy is under the Superintendent.
 
@@ -101,19 +101,19 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** An officer who is detailed to the position of Superintendent shall be so detailed for a period of not less than three years. In any case in which an officer serving as Superintendent is reassigned or retires before having completed three years service as Superintendent, or otherwise leaves that position (other than due to death) without having completed three years service in that position, the Secretary of the Navy shall submit to Congress notice that such officer left the position of Superintendent without having completed three years service in that position, together with a statement of the reasons why that officer did not complete three years service in that position.
 
-(Added Pub. L. 106–65, div. A, title V, § 532(a)(2)(B), Oct. 5, 1999, 113 Stat. 603, § 6951a; amended Pub. L. 108–375, div. A, title V, § 541(b)(2), Oct. 28, 2004, 118 Stat. 1903; renumbered § 8451a and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Added Pub. L. 106–65, div. A, title V, § 532(a)(2)(B), Oct. 5, 1999, 113 Stat. 603, § 6951a; amended Pub. L. 108–375, div. A, title V, § 541(b)(2), Oct. 28, 2004, 118 Stat. 1903; renumbered § 8451a and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(c)(1), renumbered section 6951a of this title as this section.
+2018—Pub. L. 115–232, § 807(c)(1), renumbered section 6951a of this title as this section.
 
-Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 8371(a)” for “section 6371(a)” and “section 8371(b)” for “section 6371(b)”.
+Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 8371(a)” for “section 6371(a)” and “section 8371(b)” for “section 6371(b)”.
 
-2004—Subsec. (b). Pub. L. 108–375, § 541(b)(2)(A), inserted before period at end “pursuant to section 6371(a) of this title, unless such retirement is waived under section 6371(b) of this title”.
+2004—Subsec. (b). Pub. L. 108–375, § 541(b)(2)(A), inserted before period at end “pursuant to section 6371(a) of this title, unless such retirement is waived under section 6371(b) of this title”.
 
-Subsec. (c). Pub. L. 108–375, § 541(b)(2)(B), added subsec. (c).
+Subsec. (c). Pub. L. 108–375, § 541(b)(2)(B), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -125,7 +125,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Section not applicable to an officer serving on Oct. 5, 1999, in the position of Superintendent of the United States Military Academy, Naval Academy, or Air Force Academy for so long as that officer continues on and after that date to serve in that position without a break in service, see section 532(a)(5) of Pub. L. 106–65, set out as a note under section 7321 of this title.
 
-## § 8451b. Director of admissions
+## § 8451b. Director of admissions
 
 **(a) Establishment and Appointment.—** There is a director of admissions of the Naval Academy. The director of admissions shall be appointed by the President, by and with the advice and consent of the Senate, and shall perform such duties as the Superintendent of the Naval Academy may prescribe with the approval of the Secretary of the Navy.
 
@@ -141,13 +141,13 @@ Section not applicable to an officer serving on Oct. 5, 1999, in the position of
 
 **(c) Detail.—** The President may detail any officer of the Navy or the Marine Corps in a grade above lieutenant or captain, respectively, to perform the duties of director of admissions without appointing the officer as director of admissions. Such a detail does not affect the position of the officer on the active-duty list.
 
-(Added Pub. L. 119–60, div. A, title V, § 558(a), Dec. 18, 2025, 139 Stat. 879.)
+(Added Pub. L. 119–60, div. A, title V, § 558(a), Dec. 18, 2025, 139 Stat. 879.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Continuation of Service of Current Director of Admissions**
 
-Pub. L. 119–60, div. A, title V, § 558(b), Dec. 18, 2025, 139 Stat. 879, provided that:
+Pub. L. 119–60, div. A, title V, § 558(b), Dec. 18, 2025, 139 Stat. 879, provided that:
 
 > “Notwithstanding subsection (a) of section 8451b of title 10, United States Code, as added by subsection (a) of this section, the person serving as the director of admissions of the Naval Academy on the date of the enactment of this Act [Dec. 18, 2025]—
 
@@ -159,7 +159,7 @@ Pub. L. 119–60, div. A, title V, § 558(b), Dec. 18, 2025, 139 Stat. 879, pr
 
 > **“(2)** has the regular grade described in subsection (b) of such section 8451b.”
 
-## § 8452. Civilian teachers: number; compensation
+## § 8452. Civilian teachers: number; compensation
 
 **(a)** The Secretary of the Navy may employ as many civilians as professors, instructors, and lecturers at the Naval Academy as he considers necessary.
 
@@ -173,14 +173,14 @@ Pub. L. 119–60, div. A, title V, § 558(b), Dec. 18, 2025, 139 Stat. 879, pr
 
 **(d)** The Secretary, to the extent he considers proper, may delegate the authority conferred by this section to any person in the Department of the Navy, with or without the authority to make successive redelegations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 428, § 6952; Pub. L. 106–65, div. A, title XI, § 1107(b), Oct. 5, 1999, 113 Stat. 778; renumbered § 8452, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 428, § 6952; Pub. L. 106–65, div. A, title XI, § 1107(b), Oct. 5, 1999, 113 Stat. 778; renumbered § 8452, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6952 | 34 U.S.C. 1071 (as applicable to Naval Academy). | Aug. 2, 1946, ch. 756, § 7(a) (as applicable to Naval Academy), 60 Stat. 854. |
-|  | 5 U.S.C. 412a. | Aug. 2, 1946, ch. 756, § 39, 60 Stat. 858. |
+| 6952 | 34 U.S.C. 1071 (as applicable to Naval Academy). | Aug. 2, 1946, ch. 756, § 7(a) (as applicable to Naval Academy), 60 Stat. 854. |
+|  | 5 U.S.C. 412a. | Aug. 2, 1946, ch. 756, § 39, 60 Stat. 858. |
 
 The words “for the proper instruction of naval personnel” and the words “be paid out of naval appropriations” are omitted as surplusage.
 
@@ -190,7 +190,7 @@ In subsection (c) the words “except the authority to prescribe regulations” 
 
 **Prior Provisions**
 
-A prior section 8452, added Pub. L. 85–861, § 1(180)(E), Sept. 2, 1958, 72 Stat. 1532, provided that, notwithstanding any other provision of law, a medical or dental officer may be promoted to temporary grade of captain at any time after first anniversary of date upon which he graduated from a medical, osteopathic, or dental school, prior to repeal by Pub. L. 96–513, title II, § 207, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981.
+A prior section 8452, added Pub. L. 85–861, § 1(180)(E), Sept. 2, 1958, 72 Stat. 1532, provided that, notwithstanding any other provision of law, a medical or dental officer may be promoted to temporary grade of captain at any time after first anniversary of date upon which he graduated from a medical, osteopathic, or dental school, prior to repeal by Pub. L. 96–513, title II, § 207, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981.
 
 **Amendments**
 
@@ -204,15 +204,15 @@ A prior section 8452, added Pub. L. 85–861, § 1(180)(E), Sept. 2, 1958, 72 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8453. Midshipmen: appointment
+## § 8453. Midshipmen: appointment
 
 Midshipmen at the Naval Academy shall be appointed by the President alone. An appointment is conditional until the midshipman is admitted.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 429, § 6953; Pub. L. 97–60, title II, § 203(b)(1), Oct. 14, 1981, 95 Stat. 1006; renumbered § 8453, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 429, § 6953; Pub. L. 97–60, title II, § 203(b)(1), Oct. 14, 1981, 95 Stat. 1006; renumbered § 8453, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
-This section is included in this chapter without specific reference to statutory source to resolve the ambiguities and conflicts existing in the statutes relating to the appointment of midshipmen at the Naval Academy. The word “appoint” has been used in various statutes when the intent of Congress was to provide authority in the persons named to “choose,” “select,” or “nominate” for the office of midshipman. These statutes have been collected and codified in § 6954 of this title, which reflects the various sources of nominees for “appointment” as midshipmen and the persons who may so “nominate” them. The actual appointing power resides in the President and this implied authority is herein expressed for clarity and for the purpose of uniformity of expression.
+This section is included in this chapter without specific reference to statutory source to resolve the ambiguities and conflicts existing in the statutes relating to the appointment of midshipmen at the Naval Academy. The word “appoint” has been used in various statutes when the intent of Congress was to provide authority in the persons named to “choose,” “select,” or “nominate” for the office of midshipman. These statutes have been collected and codified in § 6954 of this title, which reflects the various sources of nominees for “appointment” as midshipmen and the persons who may so “nominate” them. The actual appointing power resides in the President and this implied authority is herein expressed for clarity and for the purpose of uniformity of expression.
 
 **Editorial Notes**
 
@@ -232,7 +232,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 97–60 effective with respect to nominations for appointment to the first class admitted to each Academy after Oct. 14, 1981, see section 203(d) of Pub. L. 97–60, set out as an Effective Date note under section 7441a of this title.
 
-## § 8454. Midshipmen: appointment; numbers, territorial distribution
+## § 8454. Midshipmen: appointment; numbers, territorial distribution
 
 **(a)** The authorized strength of the Brigade of Midshipmen (determined for any year as of the day before the last day of the academic year) is 4,400 or such lower number as may be prescribed by the Secretary of the Navy under subsection (h). Subject to that limitation, midshipmen are selected as follows:
 
@@ -278,7 +278,7 @@ however, a person who is eligible for selection under paragraph (1) of subsectio
 
 **(4)** 20 nominated by the Secretary of the Navy, under regulations prescribed by him, from the honor graduates of schools designated as honor schools by the Department of the Army, the Department of the Navy, or the Department of the Air Force, and from members of the Naval Reserve Officer’s Training corps.
 
-**(5)** 200 <sup>1</sup> selected by the Secretary of the Navy in order of merit (prescribed pursuant to section 8456 of this title) from qualified alternates nominated by persons named in paragraphs (3) through (10) of subsection (a).
+**(5)** 200 <sup>1</sup> selected by the Secretary of the Navy in order of merit (prescribed pursuant to section 8456 of this title) from qualified alternates nominated by persons named in paragraphs (3) through (10) of subsection (a).
 
 **(c)** The President may also appoint as midshipmen at the Academy children of persons who have been awarded the medal of honor for acts performed while in the armed forces.
 
@@ -300,7 +300,7 @@ however, a person who is eligible for selection under paragraph (1) of subsectio
 
 **(4)** In this subsection, the term “midshipmen strength limit” means the authorized maximum strength of the Brigade of Midshipmen.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 429, § 6954; Pub. L. 87–651, title I, § 124, Sept. 7, 1962, 76 Stat. 514; Pub. L. 87–663, § 1(3), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, § 2, Mar. 3, 1964, 78 Stat. 150; Pub. L. 89–650, § 1(1)–(3), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, § 2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, § 204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, § 1(2), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, § 2(1)–(3), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, § 803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–600, § 2(b), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, § 203(b)(2), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 97–295, § 1(44), Oct. 12, 1982, 96 Stat. 1298; Pub. L. 98–94, title X, § 1005(a)(2), (b)(2), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, § 532(b)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, § 531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, § 1673(c), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–106, div. A, title V, § 532(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 105–85, div. A, title X, § 1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, § 531(b)(2), Oct. 5, 1999, 113 Stat. 602; Pub. L. 106–398, § 1 [[div. A], title V, § 531(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–109; Pub. L. 107–107, div. A, title X, § 1048(g)(1), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 107–314, div. A, title V, § 532(b), Dec. 2, 2002, 116 Stat. 2545; Pub. L. 108–136, div. A, title V, § 524(b), title X, § 1031(a)(55), Nov. 24, 2003, 117 Stat. 1464, 1603; Pub. L. 109–163, div. A, title V, § 515(b)(1)(Q), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–229, title VII, § 718(b), May 8, 2008, 122 Stat. 869; Pub. L. 110–417, [div. A], title V, § 540(b), Oct. 14, 2008, 122 Stat. 4454; Pub. L. 111–84, div. A, title V, § 527(b), Oct. 28, 2009, 123 Stat. 2288; Pub. L. 112–239, div. A, title X, § 1076(f)(40), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 114–92, div. A, title V, § 556(b), Nov. 25, 2015, 129 Stat. 824; Pub. L. 114–328, div. A, title V, § 566(b), Dec. 23, 2016, 130 Stat. 2138; renumbered § 8454 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840; Pub. L. 117–263, div. A, title V, § 552(b), Dec. 23, 2022, 136 Stat. 2592; Pub. L. 118–31, div. A, title V, §§ 561(b), 562(b), Dec. 22, 2023, 137 Stat. 273, 274; Pub. L. 119–60, div. A, title V, § 555(b), Dec. 18, 2025, 139 Stat. 878.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 429, § 6954; Pub. L. 87–651, title I, § 124, Sept. 7, 1962, 76 Stat. 514; Pub. L. 87–663, § 1(3), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, § 2, Mar. 3, 1964, 78 Stat. 150; Pub. L. 89–650, § 1(1)–(3), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, § 2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, § 204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, § 1(2), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, § 2(1)–(3), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, § 803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–600, § 2(b), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, § 203(b)(2), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 97–295, § 1(44), Oct. 12, 1982, 96 Stat. 1298; Pub. L. 98–94, title X, § 1005(a)(2), (b)(2), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, § 532(b)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, § 531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, § 1673(c), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–106, div. A, title V, § 532(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 105–85, div. A, title X, § 1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, § 531(b)(2), Oct. 5, 1999, 113 Stat. 602; Pub. L. 106–398, § 1 [[div. A], title V, § 531(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–109; Pub. L. 107–107, div. A, title X, § 1048(g)(1), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 107–314, div. A, title V, § 532(b), Dec. 2, 2002, 116 Stat. 2545; Pub. L. 108–136, div. A, title V, § 524(b), title X, § 1031(a)(55), Nov. 24, 2003, 117 Stat. 1464, 1603; Pub. L. 109–163, div. A, title V, § 515(b)(1)(Q), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–229, title VII, § 718(b), May 8, 2008, 122 Stat. 869; Pub. L. 110–417, [div. A], title V, § 540(b), Oct. 14, 2008, 122 Stat. 4454; Pub. L. 111–84, div. A, title V, § 527(b), Oct. 28, 2009, 123 Stat. 2288; Pub. L. 112–239, div. A, title X, § 1076(f)(40), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 114–92, div. A, title V, § 556(b), Nov. 25, 2015, 129 Stat. 824; Pub. L. 114–328, div. A, title V, § 566(b), Dec. 23, 2016, 130 Stat. 2138; renumbered § 8454 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840; Pub. L. 117–263, div. A, title V, § 552(b), Dec. 23, 2022, 136 Stat. 2592; Pub. L. 118–31, div. A, title V, §§ 561(b), 562(b), Dec. 22, 2023, 137 Stat. 273, 274; Pub. L. 119–60, div. A, title V, § 555(b), Dec. 18, 2025, 139 Stat. 878.)
 
 **Historical and Revision Notes**
 
@@ -308,17 +308,17 @@ however, a person who is eligible for selection under paragraph (1) of subsectio
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6954(a)(1) | 34 U.S.C. 1036a. | June 8, 1926, ch. 492, par. 2, 44 Stat. 703; Dec. 1, 1942, ch. 650, 56 Stat. 1024; Nov. 24, 1945, ch. 493, 59 Stat. 586; June 30, 1950, ch. 421, § 6(c), 64 Stat. 305; June 3, 1954, ch. 251, § 1, 68 Stat. 168. |
+| 6954(a)(1) | 34 U.S.C. 1036a. | June 8, 1926, ch. 492, par. 2, 44 Stat. 703; Dec. 1, 1942, ch. 650, 56 Stat. 1024; Nov. 24, 1945, ch. 493, 59 Stat. 586; June 30, 1950, ch. 421, § 6(c), 64 Stat. 305; June 3, 1954, ch. 251, § 1, 68 Stat. 168. |
 | 6954(a)(2) | 34 U.S.C. 1037. | May 28, 1928, ch. 820, 45 Stat. 788. |
-| 6954(a)(3)– (7) | 34 U.S.C. 1032 (1st 31 words). | Dec. 20, 1917, ch. 5, § 1 (1st 31 words), 40 Stat. 430; Aug. 13, 1946, ch. 962, § 16, 60 Stat. 1061; May 16, 1947, ch. 77, § 1(*o*), 61 Stat. 100. |
+| 6954(a)(3)– (7) | 34 U.S.C. 1032 (1st 31 words). | Dec. 20, 1917, ch. 5, § 1 (1st 31 words), 40 Stat. 430; Aug. 13, 1946, ch. 962, § 16, 60 Stat. 1061; May 16, 1947, ch. 77, § 1(*o*), 61 Stat. 100. |
 | 6954(a)(7) | 34 U.S.C. 1034. | Mar. 3, 1903, ch. 1010, 32 Stat. 1198 (2d par.). |
 | 6954(a)(8) | 34 U.S.C. 1035a. | June 8, 1939, ch. 195, 53 Stat. 814. |
-| 6954(b)(1) | 34 U.S.C. 1039. | Aug. 13, 1946, ch. 962, § 16(a), 60 Stat. 1061; May 16, 1947, ch. 77, § 1(*o*), 61 Stat. 100; June 30, 1950, ch. 421, § 5, 64 Stat. 305. |
-| 6954(b)(2), (3) | 34 U.S.C. 1032 (32d to 70th words). | Dec. 20, 1917, ch. 5, § 1 (32d to 70th words), 40 Stat. 430; Aug. 13, 1946, ch. 962, § 16, 60 Stat. 1061. |
+| 6954(b)(1) | 34 U.S.C. 1039. | Aug. 13, 1946, ch. 962, § 16(a), 60 Stat. 1061; May 16, 1947, ch. 77, § 1(*o*), 61 Stat. 100; June 30, 1950, ch. 421, § 5, 64 Stat. 305. |
+| 6954(b)(2), (3) | 34 U.S.C. 1032 (32d to 70th words). | Dec. 20, 1917, ch. 5, § 1 (32d to 70th words), 40 Stat. 430; Aug. 13, 1946, ch. 962, § 16, 60 Stat. 1061. |
 | 6954(b)(4) | 34 U.S.C. 1033a. | Feb. 27, 1936, ch. 89, 49 Stat. 1144; June 6, 1941, ch. 175, 55 Stat. 246. |
 | 6954(c) | 34 U.S.C. 1038. | Nov. 24, 1945, ch. 492, 59 Stat. 586. |
 
-All provisions of law authorizing appointments to the Naval Academy from various sources are collected in this section. The language is extensively changed to meet the needs of this organization of the source material. In those provisions that now authorize “appointments” by other than the President, the language is changed to indicate that the process is one of selection where the law requires selection by competitive examination, and to show that other candidates are nominated. The manner of appointing the selectees and nominees, in all cases, is covered in § 6953 of this title. In the case of nominees from States, the District of Columbia, Territories, and from Puerto Rico, the qualification that the nominees must be from the political subdivisions from which nominated is indicated. The requirement that the nominees be actual residents of the political subdivisions is contained in § 6958(b) of this title.
+All provisions of law authorizing appointments to the Naval Academy from various sources are collected in this section. The language is extensively changed to meet the needs of this organization of the source material. In those provisions that now authorize “appointments” by other than the President, the language is changed to indicate that the process is one of selection where the law requires selection by competitive examination, and to show that other candidates are nominated. The manner of appointing the selectees and nominees, in all cases, is covered in § 6953 of this title. In the case of nominees from States, the District of Columbia, Territories, and from Puerto Rico, the qualification that the nominees must be from the political subdivisions from which nominated is indicated. The requirement that the nominees be actual residents of the political subdivisions is contained in § 6958(b) of this title.
 
 In subsection (a)(1) the words “armed forces” are substituted for the description of the land and naval forces. The words “including male and female members of” and “of all components thereof” are omitted as surplusage.
 
@@ -326,7 +326,7 @@ In subsection (a)(1)(B), the date February 1, 1955, fixed by Proclamation No. 30
 
 In subsection (b)(1) the qualification that appointees must be from the sons of members of the various “regular” components of the armed forces is added, as “Army, Navy, Air Force, Marine Corps, and Coast Guard” are so interpreted in this statute.
 
-In subsection (c) the proviso “That all such appointees are otherwise qualified for admission” is omitted as covered by § 6958 of this title setting forth qualifications of all candidates.
+In subsection (c) the proviso “That all such appointees are otherwise qualified for admission” is omitted as covered by § 6958 of this title setting forth qualifications of all candidates.
 
 The applicability to the United States Military Academy in the Act of June 8, 1926, ch. 492, as amended (34 U.S.C. 1036a; 10 U.S.C. 1091a), was repealed by section 6(c) of the Act of June 30, 1950, ch. 421, 64 Stat. 305.
 
@@ -342,65 +342,65 @@ In 10:6954(f), the word “The” is substituted for “Effective beginning with
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 555(b)(1), substituted “appointment; numbers, territorial distribution” for “number” in section catchline.
+2025—Pub. L. 119–60, § 555(b)(1), substituted “appointment; numbers, territorial distribution” for “number” in section catchline.
 
-Subsec. (a). Pub. L. 119–60, § 555(b)(2), substituted “up to 14 ranked or unranked alternates” for “9 ranked or unranked alternates” in concluding provisions.
+Subsec. (a). Pub. L. 119–60, § 555(b)(2), substituted “up to 14 ranked or unranked alternates” for “9 ranked or unranked alternates” in concluding provisions.
 
-2023—Subsec. (a). Pub. L. 118–31, § 561(b)(1), substituted “15 persons” for “10 persons” in concluding provisions.
+2023—Subsec. (a). Pub. L. 118–31, § 561(b)(1), substituted “15 persons” for “10 persons” in concluding provisions.
 
-Subsec. (a)(8). Pub. L. 118–31, § 562(b), substituted “Five” for “Four”.
+Subsec. (a)(8). Pub. L. 118–31, § 562(b), substituted “Five” for “Four”.
 
-Subsec. (b)(5). Pub. L. 118–31, § 561(b)(2), substituted “200” for “150”.
+Subsec. (b)(5). Pub. L. 118–31, § 561(b)(2), substituted “200” for “150”.
 
 2022—Subsec. (b)(5). Pub. L. 117–263 substituted “paragraphs (3) through (10)” for “paragraphs (3) and (4)”.
 
-2018—Pub. L. 115–232, § 807(c)(1), renumbered section 6954 of this title as this section.
+2018—Pub. L. 115–232, § 807(c)(1), renumbered section 6954 of this title as this section.
 
-Subsecs. (b)(5), (e). Pub. L. 115–232, § 809(a), substituted “section 8456” for “section 6956”.
+Subsecs. (b)(5), (e). Pub. L. 115–232, § 809(a), substituted “section 8456” for “section 6956”.
 
 2016—Subsec. (a). Pub. L. 114–328 inserted at end of concluding provisions “When a nominee of a Senator, Representative, or Delegate is selected for appointment as a midshipman, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.”
 
-2015—Subsec. (a)(6). Pub. L. 114–92, § 556(b)(1), substituted “Four” for “Three”.
+2015—Subsec. (a)(6). Pub. L. 114–92, § 556(b)(1), substituted “Four” for “Three”.
 
-Subsec. (a)(8). Pub. L. 114–92, § 556(b)(2), substituted “Four” for “Three”.
+Subsec. (a)(8). Pub. L. 114–92, § 556(b)(2), substituted “Four” for “Three”.
 
-Subsec. (a)(9). Pub. L. 114–92, § 556(b)(3), substituted “Three” for “Two”.
+Subsec. (a)(9). Pub. L. 114–92, § 556(b)(3), substituted “Three” for “Two”.
 
-Subsec. (a)(10). Pub. L. 114–92, § 556(b)(4), substituted “Three” for “Two”.
+Subsec. (a)(10). Pub. L. 114–92, § 556(b)(4), substituted “Three” for “Two”.
 
-2013—Subsec. (b)(1). Pub. L. 112–239, § 1076(f)(40)(A)(i), substituted “paragraph” for “clause” in two places in concluding provisions.
+2013—Subsec. (b)(1). Pub. L. 112–239, § 1076(f)(40)(A)(i), substituted “paragraph” for “clause” in two places in concluding provisions.
 
-Subsec. (b)(5), (d). Pub. L. 112–239, § 1076(f)(40)(A)(ii), (B), substituted “paragraphs” for “clauses”.
+Subsec. (b)(5), (d). Pub. L. 112–239, § 1076(f)(40)(A)(ii), (B), substituted “paragraphs” for “clauses”.
 
 2009—Subsec. (a)(10). Pub. L. 111–84 substituted “Two” for “One”.
 
-2008—Subsec. (a). Pub. L. 110–417, § 540(b)(1), substituted “4,400 or such lower number” for “4,000 or such higher number” in introductory provisions.
+2008—Subsec. (a). Pub. L. 110–417, § 540(b)(1), substituted “4,400 or such lower number” for “4,000 or such higher number” in introductory provisions.
 
 Subsec. (a)(10). Pub. L. 110–229 substituted “Delegate in Congress” for “resident representative”.
 
-Subsec. (h)(1). Pub. L. 110–417, § 540(b)(2), struck out last sentence which read as follows: “However, no increase may be prescribed for any academic year after the 2007–2008 academic year.”
+Subsec. (h)(1). Pub. L. 110–417, § 540(b)(2), struck out last sentence which read as follows: “However, no increase may be prescribed for any academic year after the 2007–2008 academic year.”
 
 2006—Subsec. (b)(3). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-2003—Subsec. (a)(6), (8). Pub. L. 108–136, § 524(b)(1), substituted “Three” for “Two”.
+2003—Subsec. (a)(6), (8). Pub. L. 108–136, § 524(b)(1), substituted “Three” for “Two”.
 
-Subsec. (a)(9). Pub. L. 108–136, § 524(b)(2), substituted “Two” for “One”.
+Subsec. (a)(9). Pub. L. 108–136, § 524(b)(2), substituted “Two” for “One”.
 
-Subsec. (f). Pub. L. 108–136, § 1031(a)(55), substituted “Superintendent of the Naval Academy” for “Secretary of the Navy”.
+Subsec. (f). Pub. L. 108–136, § 1031(a)(55), substituted “Superintendent of the Naval Academy” for “Secretary of the Navy”.
 
-2002—Subsec. (a). Pub. L. 107–314, § 532(b)(1), inserted before period at end of first sentence “or such higher number as may be prescribed by the Secretary of the Navy under subsection (h)”.
+2002—Subsec. (a). Pub. L. 107–314, § 532(b)(1), inserted before period at end of first sentence “or such higher number as may be prescribed by the Secretary of the Navy under subsection (h)”.
 
-Subsec. (h). Pub. L. 107–314, § 532(b)(2), added subsec. (h).
+Subsec. (h). Pub. L. 107–314, § 532(b)(2), added subsec. (h).
 
-2001—Subsec. (a). Pub. L. 107–107 amended directory language of Pub. L. 106–65, § 531(b)(2)(A). See 1999 Amendment note below.
+2001—Subsec. (a). Pub. L. 107–107 amended directory language of Pub. L. 106–65, § 531(b)(2)(A). See 1999 Amendment note below.
 
-2000—Subsec. (b)(1)(B). Pub. L. 106–398, § 1 [[div. A], title V, § 531(b)(1)], struck out “, other than those granted retired pay under section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” after “retired or retainer pay”.
+2000—Subsec. (b)(1)(B). Pub. L. 106–398, § 1 [[div. A], title V, § 531(b)(1)], struck out “, other than those granted retired pay under section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” after “retired or retainer pay”.
 
-Subsec. (b)(1)(C), (D). Pub. L. 106–398, § 1 [[div. A], title V, § 531(b)(2)], added subpars. (C) and (D).
+Subsec. (b)(1)(C), (D). Pub. L. 106–398, § 1 [[div. A], title V, § 531(b)(2)], added subpars. (C) and (D).
 
-1999—Subsec. (a). Pub. L. 106–65, § 531(b)(2)(A), as amended by Pub. L. 107–107, § 1048(g)(1), substituted “(a) The authorized strength of the Brigade of Midshipmen (determined for any year as of the day before the last day of the academic year) is 4,000. Subject to that limitation, midshipmen are selected as follows:” for “(a) There may be at the Naval Academy at any one time midshipmen as follows:” in introductory provisions.
+1999—Subsec. (a). Pub. L. 106–65, § 531(b)(2)(A), as amended by Pub. L. 107–107, § 1048(g)(1), substituted “(a) The authorized strength of the Brigade of Midshipmen (determined for any year as of the day before the last day of the academic year) is 4,000. Subject to that limitation, midshipmen are selected as follows:” for “(a) There may be at the Naval Academy at any one time midshipmen as follows:” in introductory provisions.
 
-Subsec. (g). Pub. L. 106–65, § 531(b)(2)(B), added subsec. (g).
+Subsec. (g). Pub. L. 106–65, § 531(b)(2)(B), added subsec. (g).
 
 1997—Subsec. (a)(10). Pub. L. 105–85 substituted “Mariana” for “Marianas”.
 
@@ -410,15 +410,15 @@ Subsec. (g). Pub. L. 106–65, § 531(b)(2)(B), added subsec. (g).
 
 1993—Subsec. (a). Pub. L. 103–160, in concluding provisions, substituted “10 persons” for “a principal candidate and nine alternates” and inserted at end “Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.”
 
-1990—Subsec. (a)(8) to (10). Pub. L. 101–510, § 532(b)(1)(A), redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: “One nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States residing in the Republic of Panama who are citizens of the United States.”
+1990—Subsec. (a)(8) to (10). Pub. L. 101–510, § 532(b)(1)(A), redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: “One nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States residing in the Republic of Panama who are citizens of the United States.”
 
-Subsec. (d). Pub. L. 101–510, § 532(b)(1)(B), substituted “clauses (2) through (9)” for “clauses (2)–(7), (9), or (10)”.
+Subsec. (d). Pub. L. 101–510, § 532(b)(1)(B), substituted “clauses (2) through (9)” for “clauses (2)–(7), (9), or (10)”.
 
 1989—Subsec. (a)(1). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1983—Subsec. (a)(8). Pub. L. 98–94, § 1005(b)(2), substituted “One nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States residing in the Republic of Panama who are citizens of the United States” for “One nominated by the Governor of the Panama Canal from the children of civilians residing in the Canal Zone or the children of civilian personnel of the United States Government, or the Panama Canal Company, residing in the Republic of Panama”.
+1983—Subsec. (a)(8). Pub. L. 98–94, § 1005(b)(2), substituted “One nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States residing in the Republic of Panama who are citizens of the United States” for “One nominated by the Governor of the Panama Canal from the children of civilians residing in the Canal Zone or the children of civilian personnel of the United States Government, or the Panama Canal Company, residing in the Republic of Panama”.
 
-Subsec. (a)(10). Pub. L. 98–94, § 1005(a)(2), substituted “One from American Samoa, nominated by the Delegate in Congress from American Samoa” for “One from American Samoa nominated by the Secretary of the Navy upon recommendation of the Governor of American Samoa”.
+Subsec. (a)(10). Pub. L. 98–94, § 1005(a)(2), substituted “One from American Samoa, nominated by the Delegate in Congress from American Samoa” for “One from American Samoa nominated by the Secretary of the Navy upon recommendation of the Governor of American Samoa”.
 
 1982—Subsec. (f). Pub. L. 97–295 substituted “The” for “Effective beginning with the nominations for appointment to the Academy in the calendar year 1964, the”.
 
@@ -428,11 +428,11 @@ Subsec. (a)(10). Pub. L. 98–94, § 1005(a)(2), substituted “One from Ameri
 
 1975—Subsecs. (a)(1), (8), (b)(1), (c). Pub. L. 94–106 substituted “children” for “sons” wherever appearing.
 
-1973—Subsec. (a)(6). Pub. L. 93–171, § 2(1), substituted “One from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands” for “Five from each Territory, nominated by the Delegate in Congress from that Territory”.
+1973—Subsec. (a)(6). Pub. L. 93–171, § 2(1), substituted “One from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands” for “Five from each Territory, nominated by the Delegate in Congress from that Territory”.
 
-Subsec. (a)(9). Pub. L. 93–171, § 2(2), struck out reference to American Samoa and Virgin Islands.
+Subsec. (a)(9). Pub. L. 93–171, § 2(2), struck out reference to American Samoa and Virgin Islands.
 
-Subsec. (a)(10). Pub. L. 93–171, § 2(3), added cl. (10).
+Subsec. (a)(10). Pub. L. 93–171, § 2(3), added cl. (10).
 
 1972—Subsec. (a)(1). Pub. L. 92–365 increased the number of midshipmen from 40 to 65 and added sons of members who are in missing status and sons of civilian employees who are in missing status as eligible for competitive examination.
 
@@ -442,17 +442,17 @@ Subsec. (a)(10). Pub. L. 93–171, § 2(3), added cl. (10).
 
 Subsec. (a)(5). Pub. L. 90–623 substituted “Commissioner” for “Commissioners”.
 
-1966—Subsec. (a)(1). Pub. L. 89–650, § 1(1), provided for selection of cadets to the Naval Academy from sons of members of the armed forces who have a 100 per centum service-connected disability and removed the limitation to active service during World War I or World War II or after June 26, 1950, and before Feb. 1, 1955.
+1966—Subsec. (a)(1). Pub. L. 89–650, § 1(1), provided for selection of cadets to the Naval Academy from sons of members of the armed forces who have a 100 per centum service-connected disability and removed the limitation to active service during World War I or World War II or after June 26, 1950, and before Feb. 1, 1955.
 
-Subsec. (a)(2). Pub. L. 89–650, § 1(2), provided for nominations to the Naval Academy by the President pro tempore of the Senate if there is no Vice President.
+Subsec. (a)(2). Pub. L. 89–650, § 1(2), provided for nominations to the Naval Academy by the President pro tempore of the Senate if there is no Vice President.
 
-Subsec. (b)(1). Pub. L. 89–650, § 1(3), increased the number of Presidential appointments to the Naval Academy from 75 to 100, provided for selection of eligible persons as stated in items (A) and (B), previously chosen from sons of members of regular components, and declared persons eligible under subsec. (a)(1) ineligible under subsec. (b)(1) of this section.
+Subsec. (b)(1). Pub. L. 89–650, § 1(3), increased the number of Presidential appointments to the Naval Academy from 75 to 100, provided for selection of eligible persons as stated in items (A) and (B), previously chosen from sons of members of regular components, and declared persons eligible under subsec. (a)(1) ineligible under subsec. (b)(1) of this section.
 
-1964—Subsec. (a). Pub. L. 88–276, § 2(1), inserted “Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate a principal candidate and five alternates for each vacancy that is available to him under this section”.
+1964—Subsec. (a). Pub. L. 88–276, § 2(1), inserted “Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate a principal candidate and five alternates for each vacancy that is available to him under this section”.
 
-Subsec. (b)(2), (3), (5). Pub. L. 88–276, § 2(2), reduced the number of nominees in cls. (2) and (3) from 160 to 85 and added cl. (5).
+Subsec. (b)(2), (3), (5). Pub. L. 88–276, § 2(2), reduced the number of nominees in cls. (2) and (3) from 160 to 85 and added cl. (5).
 
-Subsecs. (d), (e). Pub. L. 88–276, § 2(3), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 88–276, § 2(3), added subsecs. (d) and (e).
 
 1962—Subsec. (a). Pub. L. 87–663 added cl. (9).
 
@@ -490,7 +490,7 @@ Amendment by section 524(b) of Pub. L. 108–136 applicable with respect to nomi
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title X, § 1048(g), Dec. 28, 2001, 115 Stat. 1228, provided that the amendment made by section 1048(g)(1) is effective as of Oct. 5, 1999, and as if included in Pub. L. 106–65 as enacted.
+Pub. L. 107–107, div. A, title X, § 1048(g), Dec. 28, 2001, 115 Stat. 1228, provided that the amendment made by section 1048(g)(1) is effective as of Oct. 5, 1999, and as if included in Pub. L. 106–65 as enacted.
 
 **Effective Date of 1994 Amendment**
 
@@ -528,7 +528,7 @@ Secretary to take such action as may be necessary and appropriate to insure that
 
 Secretary to continue to exercise the authority granted under this chapter and chapters 403 and 903 of this title, but such authority to be exercised within a program providing for the orderly and expeditious admission of women to the Academy, consistent with the needs of the services, see section 803(c) of Pub. L. 94–106, set out as a note under section 7442 of this title.
 
-## § 8454a. Midshipmen: nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate
+## § 8454a. Midshipmen: nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate
 
 **(a) Senators.—** In the event a Senator does not submit all nominations for midshipmen allocated to such Senator for an academic year in accordance with section 8454(a)(3) of this title, due to death, resignation from office, or expulsion from office, and the date of the swearing-in of the Senator’s successor as Senator occurs after the date of the deadline for submittal of nominations for midshipmen for the academic year, the nominations for midshipmen for such academic year, otherwise authorized to be made by the Senator pursuant to such section, may be made instead by the other Senator from the State of such Representative.
 
@@ -536,13 +536,13 @@ Secretary to continue to exercise the authority granted under this chapter and c
 
 **(c) Rule of Construction.—** The nomination of a midshipman by a Member of Congress pursuant to this section shall not be construed to permanently reallocate nominations under section 8454 of this title.
 
-(Added Pub. L. 117–81, div. A, title V, § 553(b)(1), Dec. 27, 2021, 135 Stat. 1737.)
+(Added Pub. L. 117–81, div. A, title V, § 553(b)(1), Dec. 27, 2021, 135 Stat. 1737.)
 
-## § 8455. Midshipmen: allotment upon redistricting of Congressional Districts
+## § 8455. Midshipmen: allotment upon redistricting of Congressional Districts
 
 If as a result of redistricting a State the domicile of a midshipman, or a nominee, nominated by a Representative falls within a congressional district other than that from which he was nominated, he is charged to the district in which his domicile so falls. For this purpose, the number of midshipmen otherwise authorized for that district is increased to include him. However, the number as so increased is reduced by one if he fails to become a midshipman or when he is finally separated from the Naval Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 430, § 6955; renumbered § 8455, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 430, § 6955; renumbered § 8455, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -564,7 +564,7 @@ The word “domicile” is substituted for the words “place of residence” to
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8456. Midshipmen: nomination and selection to fill vacancies
+## § 8456. Midshipmen: nomination and selection to fill vacancies
 
 **(a)** If the annual quota of midshipmen from—
 
@@ -580,16 +580,16 @@ is not filled, the Secretary may fill the vacancies by nominating for appointmen
 
 **(c)** The failure of a member of a graduating class to complete the course with his class does not delay the appointment of his successor.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 430, § 6956; Pub. L. 88–276, § 3, Mar. 3, 1964, 78 Stat. 151; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 93–171, § 2(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, § 803(b)(2), Oct. 7, 1975, 89 Stat. 538; Pub. L. 97–60, title II, § 206, Oct. 14, 1981, 95 Stat. 1007; Pub. L. 101–510, div. A, title V, § 532(b)(2), title XIII, § 1322(a)(14), Nov. 5, 1990, 104 Stat. 1563, 1671; Pub. L. 109–163, div. A, title V, § 515(b)(1)(R), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 112–239, div. A, title X, § 1076(f)(41), Jan. 2, 2013, 126 Stat. 1954; renumbered § 8456 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 430, § 6956; Pub. L. 88–276, § 3, Mar. 3, 1964, 78 Stat. 151; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 93–171, § 2(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, § 803(b)(2), Oct. 7, 1975, 89 Stat. 538; Pub. L. 97–60, title II, § 206, Oct. 14, 1981, 95 Stat. 1007; Pub. L. 101–510, div. A, title V, § 532(b)(2), title XIII, § 1322(a)(14), Nov. 5, 1990, 104 Stat. 1563, 1671; Pub. L. 109–163, div. A, title V, § 515(b)(1)(R), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 112–239, div. A, title X, § 1076(f)(41), Jan. 2, 2013, 126 Stat. 1954; renumbered § 8456 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 6956(a), (b), (c) | 34 U.S.C. 1041. | June 29, 1906, ch. 3590, 34 Stat. 578 (last par.). |
-| 6956(d) | 34 U.S.C. 1040. | Aug. 13, 1946, ch. 962, § 14, 60 Stat. 1061. |
-| 6956(e) | 34 U.S.C. 1049. | June 30, 1950, ch. 421, § 4, 64 Stat. 305. |
-| 6956(f) | 34 U.S.C. 1047 (1st proviso). | June 30, 1950, ch. 421, § 2 (1st proviso), 64 Stat. 304. |
+| 6956(d) | 34 U.S.C. 1040. | Aug. 13, 1946, ch. 962, § 14, 60 Stat. 1061. |
+| 6956(e) | 34 U.S.C. 1049. | June 30, 1950, ch. 421, § 4, 64 Stat. 305. |
+| 6956(f) | 34 U.S.C. 1047 (1st proviso). | June 30, 1950, ch. 421, § 2 (1st proviso), 64 Stat. 304. |
 
 The section is worded to indicate that all appointments are made by the President, and that, before appointment, prospective midshipmen are “nominees” or “candidates”, as appropriate.
 
@@ -603,23 +603,23 @@ In subsection (f) the word “admission” is changed to the word “appointment
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(c)(1), renumbered section 6956 of this title as this section.
+2018—Pub. L. 115–232, § 807(c)(1), renumbered section 6956 of this title as this section.
 
-Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 8454(a)” for “section 6954(a)”.
+Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 8454(a)” for “section 6954(a)”.
 
 2013—Subsec. (b). Pub. L. 112–239 substituted “paragraphs” for “clauses”.
 
 2006—Subsec. (a)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-1990—Subsec. (a). Pub. L. 101–510, § 1322(a)(14), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “The Secretary of the Navy shall, as soon as possible after the first of June of each year, notify in writing each Senator, Representative, and delegate in Congress of any vacancy that will exist at the Naval Academy because of graduation in the following year, or that may occur for other reasons, for which the member or delegate is entitled to nominate a candidate and nine alternates.”
+1990—Subsec. (a). Pub. L. 101–510, § 1322(a)(14), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “The Secretary of the Navy shall, as soon as possible after the first of June of each year, notify in writing each Senator, Representative, and delegate in Congress of any vacancy that will exist at the Naval Academy because of graduation in the following year, or that may occur for other reasons, for which the member or delegate is entitled to nominate a candidate and nine alternates.”
 
-Subsec. (b). Pub. L. 101–510, § 1322(a)(14)(B), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 101–510, § 1322(a)(14)(B), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
-Subsec. (c). Pub. L. 101–510, § 1322(a)(14)(B), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 101–510, § 1322(a)(14)(B), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Pub. L. 101–510, § 532(b)(2), substituted “clauses (2) through (8)” for “clauses (2)–(9)”.
+Pub. L. 101–510, § 532(b)(2), substituted “clauses (2) through (8)” for “clauses (2)–(9)”.
 
-Subsec. (d). Pub. L. 101–510, § 1322(a)(14)(B), redesignated subsec. (d) as (c).
+Subsec. (d). Pub. L. 101–510, § 1322(a)(14)(B), redesignated subsec. (d) as (c).
 
 1981—Subsecs. (b) to (d). Pub. L. 97–60 redesignated subsecs. (d), (e), and (f) as (b), (c), and (d), respectively. Former subsec. (b) providing that a nomination following notification under subsection (a) be made by the fourth of March of the year following that in which notice of the vacancy was given and that, if the candidate died or declined the nomination, or if the nomination could not be made by reason of a vacancy in the membership of the Senate or the House of Representatives, the nomination could be made, as determined by the Secretary, not later than the date of the final entrance examination for that year, and former subsec. (c) providing that the nomination of candidates to fill vacancies for the District of Columbia, and selection of all candidates at large, be made by the fourth of March of the year in which the candidates were to enter the Academy, were struck out.
 
@@ -629,9 +629,9 @@ Subsec. (d). Pub. L. 101–510, § 1322(a)(14)(B), redesignated subsec. (d) as
 
 1968—Subsec. (a). Pub. L. 90–374 substituted “nine alternates” for “five alternates”.
 
-1964—Subsec. (a). Pub. L. 88–276, § 3(1), substituted “five alternates” for “one or more alternates”.
+1964—Subsec. (a). Pub. L. 88–276, § 3(1), substituted “five alternates” for “one or more alternates”.
 
-Subsec. (e). Pub. L. 88–276, § 3(2), substituted “three-fourths of those nominated” for “two-thirds of those nominated”.
+Subsec. (e). Pub. L. 88–276, § 3(2), substituted “three-fourths of those nominated” for “two-thirds of those nominated”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -647,7 +647,7 @@ For effective date of amendment by Pub. L. 93–171, see section 4 of Pub. L. 93
 
 Nonreduction of number of appointees from congressional sources under this section because of additional presidential appointments under section 6954(b)(1) of this title, see note set out under section 7443 of this title.
 
-## § 8458. Midshipmen: qualifications for admission
+## § 8458. Midshipmen: qualifications for admission
 
 **(a)** Each candidate for admission to the Naval Academy—
 
@@ -667,17 +667,17 @@ Nonreduction of number of appointees from congressional sources under this secti
 
 **(d)** To be admitted to the Naval Academy, an appointee must take and subscribe to an oath prescribed by the Secretary of the Navy. If a candidate for admission refuses to take and subscribe to the prescribed oath, the candidate’s appointment is terminated.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 431, § 6958; Pub. L. 87–663, § 1(4), Sept. 14, 1962, 76 Stat. 547; Pub. L. 93–171, § 2(5), Nov. 29, 1973, 87 Stat. 690; Pub. L. 101–510, div. A, title V, § 532(b)(3), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 102–190, div. A, title V, § 512, Dec. 5, 1991, 105 Stat. 1360; Pub. L. 104–201, div. A, title V, § 555(c), Sept. 23, 1996, 110 Stat. 2527; Pub. L. 105–85, div. A, title V, § 541(a), Nov. 18, 1997, 111 Stat. 1740; renumbered § 8458 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 431, § 6958; Pub. L. 87–663, § 1(4), Sept. 14, 1962, 76 Stat. 547; Pub. L. 93–171, § 2(5), Nov. 29, 1973, 87 Stat. 690; Pub. L. 101–510, div. A, title V, § 532(b)(3), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 102–190, div. A, title V, § 512, Dec. 5, 1991, 105 Stat. 1360; Pub. L. 104–201, div. A, title V, § 555(c), Sept. 23, 1996, 110 Stat. 2527; Pub. L. 105–85, div. A, title V, § 541(a), Nov. 18, 1997, 111 Stat. 1740; renumbered § 8458 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6958(a)(1) | 34 U.S.C. 1047 (less 1st proviso). | June 30, 1950, ch. 421, § 2 (less 1st proviso), 64 Stat. 304. |
+| 6958(a)(1) | 34 U.S.C. 1047 (less 1st proviso). | June 30, 1950, ch. 421, § 2 (less 1st proviso), 64 Stat. 304. |
 | 6958(a)(2) | 34 U.S.C. 1043. | R.S. 1515. |
-| 6958(b) | 34 U.S.C. 1047 (2d proviso). | June 30, 1950, ch. 421, § 2 (2d proviso), 64 Stat. 304. |
+| 6958(b) | 34 U.S.C. 1047 (2d proviso). | June 30, 1950, ch. 421, § 2 (2d proviso), 64 Stat. 304. |
 | 6958(c) | 34 U.S.C. 1042. | Mar. 4, 1917, ch. 180, 39 Stat. 1182 (1st par.). |
-|  | 34 U.S.C. 1032 (less 1st 70 words). | Dec. 20, 1917, ch. 5, § 1 (less 1st 70 words), 40 Stat. 430; Aug. 13, 1946, ch. 962, § 16, 60 Stat. 1061; May 16, 1947, ch. 77, § 1(*o*), 61 Stat. 100. |
+|  | 34 U.S.C. 1032 (less 1st 70 words). | Dec. 20, 1917, ch. 5, § 1 (less 1st 70 words), 40 Stat. 430; Aug. 13, 1946, ch. 962, § 16, 60 Stat. 1061; May 16, 1947, ch. 77, § 1(*o*), 61 Stat. 100. |
 
 In subsection (a) the effective date is omitted as executed. The words “at least 17 years of age and must not have passed his twenty-second birthday” are substituted for the words “not less than seventeen years of age and not more than twenty-two years of age” to remove ambiguity, and for uniformity of treatment of provisions of this type. The reference to time of examination is omitted as being included within the Secretary’s authority to prescribe regulations, which is stated in the subsection. The words “Academic Board” are substituted for the words “board of examiners”.
 
@@ -687,11 +687,11 @@ In subsection (b) the words “domiciled in” are substituted for the words “
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(c)(1), renumbered section 6958 of this title as this section.
+2018—Pub. L. 115–232, § 807(c)(1), renumbered section 6958 of this title as this section.
 
-Subsec. (b). Pub. L. 115–232, § 809(a), substituted “clauses (3) through (9) of section 8454(a)” for “clauses (3) through (9) of section 6954(a)”.
+Subsec. (b). Pub. L. 115–232, § 809(a), substituted “clauses (3) through (9) of section 8454(a)” for “clauses (3) through (9) of section 6954(a)”.
 
-Subsec. (c). Pub. L. 115–232, § 809(a), substituted “clause (2) or (3) of section 8454(b)” for “clause (2) or (3) of section 6954(b)” in introductory provisions.
+Subsec. (c). Pub. L. 115–232, § 809(a), substituted “clause (2) or (3) of section 8454(b)” for “clause (2) or (3) of section 6954(b)” in introductory provisions.
 
 1997—Subsec. (d). Pub. L. 105–85 added subsec. (d).
 
@@ -719,7 +719,7 @@ For effective date of amendment by Pub. L. 93–171, see section 4 of Pub. L. 93
 
 For authority to waive maximum age limitation in subsec. (a)(1) of this section on basis of service on active duty in connection with Operation Desert Storm, see section 514 of Pub. L. 102–190, set out as a note under section 7446 of this title.
 
-## § 8459. Midshipmen: service obligation
+## § 8459. Midshipmen: service obligation
 
 **(a)** Each midshipman shall sign an agreement with respect to the midshipman’s length of service in the armed forces. The agreement shall provide that the midshipman agrees to the following:
 
@@ -783,15 +783,15 @@ For authority to waive maximum age limitation in subsec. (a)(1) of this section 
 
 **(f)** A midshipman or former midshipman who does not fulfill each term of the agreement as specified under subsection (a), or an alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 432, § 6959; Pub. L. 88–276, § 5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, § 301(19), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§ 541(b), 542(c), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, § 512(b), Nov. 8, 1985, 99 Stat. 624; Pub. L. 101–189, div. A, title V, § 511(c), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 104–106, div. A, title V, § 531(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title V, § 515(b)(1)(S), title VI, § 687(c)(10), Jan. 6, 2006, 119 Stat. 3233, 3335; Pub. L. 111–84, div. A, title X, § 1073(a)(29), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title V, § 554(b), Jan. 7, 2011, 124 Stat. 4221; Pub. L. 115–91, div. A, title V, § 543(b), title VI, § 618(a)(1)(L), Dec. 12, 2017, 131 Stat. 1395, 1426; renumbered § 8459, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–92, div. A, title V, § 554(b), Dec. 20, 2019, 133 Stat. 1388; Pub. L. 117–263, div. A, title V, § 553(b), Dec. 23, 2022, 136 Stat. 2593; Pub. L. 118–159, div. A, title V, § 557(b), Dec. 23, 2024, 138 Stat. 1897; Pub. L. 119–60, div. A, title V, § 556(b), Dec. 18, 2025, 139 Stat. 878.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 432, § 6959; Pub. L. 88–276, § 5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, § 301(19), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§ 541(b), 542(c), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, § 512(b), Nov. 8, 1985, 99 Stat. 624; Pub. L. 101–189, div. A, title V, § 511(c), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 104–106, div. A, title V, § 531(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title V, § 515(b)(1)(S), title VI, § 687(c)(10), Jan. 6, 2006, 119 Stat. 3233, 3335; Pub. L. 111–84, div. A, title X, § 1073(a)(29), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title V, § 554(b), Jan. 7, 2011, 124 Stat. 4221; Pub. L. 115–91, div. A, title V, § 543(b), title VI, § 618(a)(1)(L), Dec. 12, 2017, 131 Stat. 1395, 1426; renumbered § 8459, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–92, div. A, title V, § 554(b), Dec. 20, 2019, 133 Stat. 1388; Pub. L. 117–263, div. A, title V, § 553(b), Dec. 23, 2022, 136 Stat. 2593; Pub. L. 118–159, div. A, title V, § 557(b), Dec. 23, 2024, 138 Stat. 1897; Pub. L. 119–60, div. A, title V, § 556(b), Dec. 18, 2025, 139 Stat. 878.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6959 | 34 U.S.C. 1048. | June 30, 1950, ch. 421, § 3, 64 Stat. 304. |
+| 6959 | 34 U.S.C. 1048. | June 30, 1950, ch. 421, § 3, 64 Stat. 304. |
 
-The words “Hereafter” and “appointed to the United States Naval Academy” are omitted as surplusage. The words “an agreement that \* \* \* he will” are substituted for the words “articles \* \* \* by which he shall engage”. The word “separated” is substituted for the words “discharged by competent authority”. The words “if tendered an appointment”, “upon graduation from the United States Naval Academy”, and “consecutive” are omitted as surplusage. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only if accepted. The first 43 words of clause (3) are substituted for 34 U.S.C. 1048 (last 30 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have.”
+The words “Hereafter” and “appointed to the United States Naval Academy” are omitted as surplusage. The words “an agreement that \* \* \* he will” are substituted for the words “articles \* \* \* by which he shall engage”. The word “separated” is substituted for the words “discharged by competent authority”. The words “if tendered an appointment”, “upon graduation from the United States Naval Academy”, and “consecutive” are omitted as surplusage. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only if accepted. The first 43 words of clause (3) are substituted for 34 U.S.C. 1048 (last 30 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have.”
 
 **Editorial Notes**
 
@@ -799,45 +799,45 @@ The words “Hereafter” and “appointed to the United States Naval Academy”
 
 2025—Subsec. (b)(4). Pub. L. 119–60 substituted “five” for “three” in introductory provisions.
 
-2024—Pub. L. 118–159, § 557(b)(1), substituted “service obligation” for “agreement for length of service” in section catchline.
+2024—Pub. L. 118–159, § 557(b)(1), substituted “service obligation” for “agreement for length of service” in section catchline.
 
-Subsec. (b)(1). Pub. L. 118–159, § 557(b)(2)(A), substituted “Subject to paragraph (4), the Secretary of the Navy” for “The Secretary of the Navy”.
+Subsec. (b)(1). Pub. L. 118–159, § 557(b)(2)(A), substituted “Subject to paragraph (4), the Secretary of the Navy” for “The Secretary of the Navy”.
 
-Subsec. (b)(4). Pub. L. 118–159, § 557(b)(2)(B), added par. (4) and struck out former par. (4) which read as follows: “A midshipman who violates paragraph (5) of subsection (a) is not eligible for the alternative obligation under paragraph (1).”
+Subsec. (b)(4). Pub. L. 118–159, § 557(b)(2)(B), added par. (4) and struck out former par. (4) which read as follows: “A midshipman who violates paragraph (5) of subsection (a) is not eligible for the alternative obligation under paragraph (1).”
 
-Subsec. (c)(2)(A). Pub. L. 118–159, § 557(b)(3), inserted “unless such midshipman receives a transfer under paragraph (4) of subsection (b)” before “; and”.
+Subsec. (c)(2)(A). Pub. L. 118–159, § 557(b)(3), inserted “unless such midshipman receives a transfer under paragraph (4) of subsection (b)” before “; and”.
 
-Subsec. (f). Pub. L. 118–159, § 557(b)(4), substituted “an alternative obligation” for “the alternative obligation”.
+Subsec. (f). Pub. L. 118–159, § 557(b)(4), substituted “an alternative obligation” for “the alternative obligation”.
 
-2022—Subsec. (a)(5). Pub. L. 117–263, § 553(b)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “That the midshipman—
+2022—Subsec. (a)(5). Pub. L. 117–263, § 553(b)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “That the midshipman—
 
 “(A) will not seek release from the midshipman’s commissioned service obligation or seek or accept approval for off-duty employment while completing the midshipman’s commissioned service obligation to obtain employment as a professional athlete following graduation until the midshipman completes a period of at least two consecutive years of commissioned service; and
 
 “(B) understands that the appointment alternative described in paragraph (3) will not be used to allow the midshipman to obtain such employment until at least the end of that two-year period.”
 
-Subsec. (b)(4). Pub. L. 117–263, § 553(b)(2), added par. (4).
+Subsec. (b)(4). Pub. L. 117–263, § 553(b)(2), added par. (4).
 
-Subsec. (c)(2) to (4). Pub. L. 117–263, § 553(b)(3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+Subsec. (c)(2) to (4). Pub. L. 117–263, § 553(b)(3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (d). Pub. L. 117–263, § 553(b)(4), substituted “with respect to a midshipman” for “with respect to an officer who is a graduate of the Academy” and “midshipman’s” for “officer’s”.
+Subsec. (d). Pub. L. 117–263, § 553(b)(4), substituted “with respect to a midshipman” for “with respect to an officer who is a graduate of the Academy” and “midshipman’s” for “officer’s”.
 
-Subsec. (f). Pub. L. 117–263, § 553(b)(5), substituted “each term” for “the terms”.
+Subsec. (f). Pub. L. 117–263, § 553(b)(5), substituted “each term” for “the terms”.
 
 2019—Subsec. (a)(5)(A). Pub. L. 116–92 inserted “or seek or accept approval for off-duty employment while completing the midshipman’s commissioned service obligation” before “to obtain employment”.
 
 2018—Pub. L. 115–232 renumbered section 6959 of this title as this section.
 
-2017—Subsec. (a)(5). Pub. L. 115–91, § 543(b), added par. (5).
+2017—Subsec. (a)(5). Pub. L. 115–91, § 543(b), added par. (5).
 
-Subsec. (f). Pub. L. 115–91, § 618(a)(1)(L), inserted “or 373” before “of title 37”.
+Subsec. (f). Pub. L. 115–91, § 618(a)(1)(L), inserted “or 373” before “of title 37”.
 
 2011—Subsec. (a)(4). Pub. L. 111–383 added par. (4).
 
 2009—Subsec. (f). Pub. L. 111–84 substituted “subsection (a)” for “section (a)”.
 
-2006—Subsecs. (a)(3)(A), (b)(1), (2). Pub. L. 109–163, § 515(b)(1)(S), substituted “Navy Reserve” for “Naval Reserve”.
+2006—Subsecs. (a)(3)(A), (b)(1), (2). Pub. L. 109–163, § 515(b)(1)(S), substituted “Navy Reserve” for “Naval Reserve”.
 
-Subsec. (f). Pub. L. 109–163, § 687(c)(10), added subsec. (f).
+Subsec. (f). Pub. L. 109–163, § 687(c)(10), added subsec. (f).
 
 1996—Subsec. (a)(2)(B). Pub. L. 104–106 substituted “five years” for “six years”.
 
@@ -857,9 +857,9 @@ If the midshipman is a minor and has parents or a guardian, he may sign the agre
 
 “(b) A midshipman who does not fulfill his agreement under subsection (a) may be transferred by the Secretary of the Navy to the Naval Reserve or the Marine Corps Reserve in an appropriate enlisted grade or rating, and, notwithstanding section 651 of this title, may be ordered to active duty to serve in that grade or rating for such period of time as the Secretary prescribes but not for more than four years.”
 
-1984—Subsec. (a). Pub. L. 98–525, § 541(b), struck out “, unless sooner separated,” in introductory text preceding “he will”; inserted in cl. (1) “unless sooner separated from the Naval Academy,”; and inserted “, unless sooner separated from the naval service,” in cls. (2) and (3).
+1984—Subsec. (a). Pub. L. 98–525, § 541(b), struck out “, unless sooner separated,” in introductory text preceding “he will”; inserted in cl. (1) “unless sooner separated from the Naval Academy,”; and inserted “, unless sooner separated from the naval service,” in cls. (2) and (3).
 
-Subsec. (a)(3). Pub. L. 98–525, § 542(c), substituted “at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
+Subsec. (a)(3). Pub. L. 98–525, § 542(c), substituted “at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
 
 1964—Pub. L. 88–647 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -911,17 +911,17 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 Secretary of Defense to prescribe, not later than July 1, 2007, Department of Defense policy on whether to authorize service academy and ROTC graduates to participate in professional sports before the completion of their obligations for service on active duty, see section 533 of Pub. L. 109–364, set out as a note under section 7448 of this title.
 
-## § 8460. Midshipmen: clothing and equipment; uniform allowance
+## § 8460. Midshipmen: clothing and equipment; uniform allowance
 
 The Secretary of the Navy may prescribe the amount to be credited to a midshipman, upon original admission to the Naval Academy, for the cost of his initial issue of clothing and equipment. That amount shall be deducted from his pay. If a midshipman is discharged before graduation while owing the United States for pay advanced for the purchase of required clothing and equipment, he shall turn in as much of his clothing and equipment of a distinctively military nature as is necessary to repay the amount advanced. If the value of the clothing and equipment turned in does not cover the amount owed, the indebtedness shall be canceled.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 432, § 6960; renumbered § 8460, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 432, § 6960; renumbered § 8460, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6960 | 34 U.S.C. 1052a. | Aug. 22, 1951, ch. 340, § 1, 65 Stat. 196. |
+| 6960 | 34 U.S.C. 1052a. | Aug. 22, 1951, ch. 340, § 1, 65 Stat. 196. |
 
 The word “new” before “midshipmen” and the word “subsequently” after “deducted” are omitted as surplusage. The words “while owing the United States for pay advanced for the purchase of” are substituted for the words “who is indebted to the United States on account of advances of pay to purchase”.
 
@@ -937,19 +937,19 @@ The word “new” before “midshipmen” and the word “subsequently” after
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8461. Midshipmen: dismissal for best interests of the service
+## § 8461. Midshipmen: dismissal for best interests of the service
 
 **(a)** Whenever the Superintendent of the Naval Academy believes that the continued presence of any midshipman at the Academy is contrary to the best interest of the service, he shall report in writing to the Secretary of the Navy a full statement of the facts upon which his belief is based. If the Secretary determines from the report that the Superintendent’s belief is well founded, the Secretary shall serve a copy of the report on the midshipman. Within such time as the Secretary considers reasonable, the midshipman shall show cause in writing why he should not be dismissed from the Academy. The Secretary, after consideration of any cause so shown, and with the written approval of the President, may dismiss the midshipman from the Academy and from the naval service.
 
 **(b)** The truth of any issue of fact raised under subsection (a), except as to the record of demerits, shall be determined by a court of inquiry convened by the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 432, § 6961; renumbered § 8461, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 432, § 6961; renumbered § 8461, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6961 | 34 U.S.C. 1062. | Apr. 9, 1906, ch. 1370, § 1, 34 Stat. 104. |
+| 6961 | 34 U.S.C. 1062. | Apr. 9, 1906, ch. 1370, § 1, 34 Stat. 104. |
 
 The words “court of inquiry” are substituted for the words “board of inquiry” to conform to the terminology of the Uniform Code of Military Justice. The words “under the rules and regulations for the government of the Navy” are omitted as unnecessary.
 
@@ -971,7 +971,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 For delegation to Secretary of Defense of authority vested in President by section 1062 of former Title 34, see Ex. Ord. No. 10621, July 1, 1955, 20 F.R. 4759, set out as a note under section 301 of Title 3, The President.
 
-## § 8462. Midshipmen: discharge for unsatisfactory conduct or inaptitude
+## § 8462. Midshipmen: discharge for unsatisfactory conduct or inaptitude
 
 **(a)** The Superintendent of the Naval Academy shall submit to the Secretary of the Navy in writing a full report of the facts—
 
@@ -981,7 +981,7 @@ For delegation to Secretary of Defense of authority vested in President by secti
 
 **(b)** A midshipman upon whom a report is made under subsection (a) shall be given an opportunity to examine the report and submit a written statement thereon. If the Secretary believes, on the basis of the report and statement, that the determination of the Superintendent or of the Academic Board is reasonable and well founded, he may discharge the midshipman from the Naval Academy and from the naval service.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 432, § 6962; renumbered § 8462, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 432, § 6962; renumbered § 8462, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -1001,17 +1001,17 @@ For delegation to Secretary of Defense of authority vested in President by secti
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8463. Midshipmen: discharge for deficiency
+## § 8463. Midshipmen: discharge for deficiency
 
 Midshipmen found deficient at any examination shall, unless the Academic Board recommends otherwise, be discharged from the Naval Academy and from the naval service.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 433, § 6963; renumbered § 8463, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 433, § 6963; renumbered § 8463, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6963 | 34 U.S.C. 1053. | R.S. 1519; restored Oct. 22, 1921, ch. 113, § 2, 42 Stat. 207. |
+| 6963 | 34 U.S.C. 1053. | R.S. 1519; restored Oct. 22, 1921, ch. 113, § 2, 42 Stat. 207. |
 
 **Editorial Notes**
 
@@ -1025,7 +1025,7 @@ Midshipmen found deficient at any examination shall, unless the Academic Board r
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8464. Hazing: definition; prohibition
+## § 8464. Hazing: definition; prohibition
 
 **(a)** In this chapter, the term “hazing” means any unauthorized assumption of authority by a midshipman whereby another midshipman suffers or is exposed to any cruelty, indignity, humiliation, hardship, or oppression, or the deprivation or abridgement of any right.
 
@@ -1039,23 +1039,23 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(f)** A midshipman who is dismissed from the Academy for hazing may not be reappointed as a midshipman or be appointed as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force until two years after the graduation of the class of which he was a member.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 433, § 6964; Pub. L. 99–145, title XIII, § 1301(c)(2), Nov. 8, 1985, 99 Stat. 736; Pub. L. 101–189, div. A, title XVI, § 1622(e)(8), Nov. 29, 1989, 103 Stat. 1605; renumbered § 8464, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–283, div. A, title IX, § 924(d)(1), Jan. 1, 2021, 134 Stat. 3826.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 433, § 6964; Pub. L. 99–145, title XIII, § 1301(c)(2), Nov. 8, 1985, 99 Stat. 736; Pub. L. 101–189, div. A, title XVI, § 1622(e)(8), Nov. 29, 1989, 103 Stat. 1605; renumbered § 8464, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–283, div. A, title IX, § 924(d)(1), Jan. 1, 2021, 134 Stat. 3826.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6964(a) | 34 U.S.C. 1064. | Apr. 9, 1906, ch. 1370, § 4, 34 Stat. 105. |
+| 6964(a) | 34 U.S.C. 1064. | Apr. 9, 1906, ch. 1370, § 4, 34 Stat. 105. |
 | 6964(b) | 34 U.S.C. 1063. | Mar. 3, 1903, ch. 1010, 32 Stat. 1198 (1st 28 words of 1st proviso). |
-| 6964(c) | 34 U.S.C. 1065. | Apr. 9, 1906, ch. 1370, § 2 (last 54 words), 34 Stat. 104. |
-| 6964(d), (e) | 34 U.S.C. 1066. | June 23, 1874, ch. 453, 18 Stat. 203; Mar. 3, 1903, ch. 1010, 32 Stat. 1198 (29th to 49th word of 1st proviso); Apr. 9, 1906, ch. 1370, § 3, 34 Stat. 104; May 5, 1950, ch. 169, § 11, 64 Stat. 146. |
+| 6964(c) | 34 U.S.C. 1065. | Apr. 9, 1906, ch. 1370, § 2 (last 54 words), 34 Stat. 104. |
+| 6964(d), (e) | 34 U.S.C. 1066. | June 23, 1874, ch. 453, 18 Stat. 203; Mar. 3, 1903, ch. 1010, 32 Stat. 1198 (29th to 49th word of 1st proviso); Apr. 9, 1906, ch. 1370, § 3, 34 Stat. 104; May 5, 1950, ch. 169, § 11, 64 Stat. 146. |
 | 6964(f) | 34 U.S.C. 1067. | Mar. 3, 1903, ch. 1010, 32 Stat. 1198 (last 43 words of 1st proviso). |
 
-In subsection (a) the words “privilege, or advantage to which he shall legally be entitled” are omitted as surplusage, since they are covered by the word “right”. The definition in this subsection is made applicable throughout the chapter to cover § 6965 of this title, since the reference in that section to hazing was also derived from the act which is the source for this subsection.
+In subsection (a) the words “privilege, or advantage to which he shall legally be entitled” are omitted as surplusage, since they are covered by the word “right”. The definition in this subsection is made applicable throughout the chapter to cover § 6965 of this title, since the reference in that section to hazing was also derived from the act which is the source for this subsection.
 
-In subsection (b) the words “prescribe regulations \* \* \* to prevent hazing” are substituted for the words “make such rules \* \* \* as will effectually prevent the practice of hazing”.
+In subsection (b) the words “prescribe regulations \* \* \* to prevent hazing” are substituted for the words “make such rules \* \* \* as will effectually prevent the practice of hazing”.
 
-In subsection (c) the words “dealt with” are substituted for the words “proceeded against, dealt with, and punished”. The word “regulations” is substituted for the word “rules” for uniformity and the words “and breaches” are omitted as surplusage. The words “except by sentence of a court-martial” are substituted for the words “except under the provisions of section three of this Act” because § 3 of the source statute provided for a Naval Academy court-martial with special provisions for handling cases involving hazing. The enactment of the Uniform Code of Military Justice made midshipmen at the Naval Academy subject to the same military law which applies generally to the naval service, thereby superseding the special type of court-martial for midshipmen. A court-martial under the Uniform Code of Military Justice has the power to sentence anyone convicted by it to dismissal if authorized by the Table of Maximum Punishments.
+In subsection (c) the words “dealt with” are substituted for the words “proceeded against, dealt with, and punished”. The word “regulations” is substituted for the word “rules” for uniformity and the words “and breaches” are omitted as surplusage. The words “except by sentence of a court-martial” are substituted for the words “except under the provisions of section three of this Act” because § 3 of the source statute provided for a Naval Academy court-martial with special provisions for handling cases involving hazing. The enactment of the Uniform Code of Military Justice made midshipmen at the Naval Academy subject to the same military law which applies generally to the naval service, thereby superseding the special type of court-martial for midshipmen. A court-martial under the Uniform Code of Military Justice has the power to sentence anyone convicted by it to dismissal if authorized by the Table of Maximum Punishments.
 
 In subsections (d) and (e) all that part of the source text preceding the proviso is omitted as superseded by the Uniform Code of Military Justice. The words “in a military or naval prison or elsewhere” are omitted as surplusage.
 
@@ -1067,7 +1067,7 @@ In subsections (d) and (e) all that part of the source text preceding the provis
 
 2018—Pub. L. 115–232 renumbered section 6964 of this title as this section.
 
-1989—Subsec. (a). Pub. L. 101–189 inserted “, the term” after “In this chapter”.
+1989—Subsec. (a). Pub. L. 101–189 inserted “, the term” after “In this chapter”.
 
 1985—Subsec. (e). Pub. L. 99–145 substituted “persons” for “men”.
 
@@ -1077,7 +1077,7 @@ In subsections (d) and (e) all that part of the source text preceding the provis
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8465. Failure to report violation: dismissal
+## § 8465. Failure to report violation: dismissal
 
 **(a)** Each officer stationed at the Naval Academy, each midshipman officer, each midshipman petty officer, and each civilian member of the teaching staff of the Academy shall report promptly to the Superintendent of the Naval Academy any fact that tends to show the commission of hazing or any violation of an Academy regulation by a midshipman.
 
@@ -1085,15 +1085,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** A civilian member of the teaching staff of the Academy who fails to make a report required by subsection (a) shall, with the approval of the Secretary of the Navy, be dismissed by the Superintendent.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 433, § 6965; renumbered § 8465, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 433, § 6965; renumbered § 8465, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6965 | 34 U.S.C. 1068. | Apr. 9, 1906, ch. 1370, § 5, 34 Stat. 105. |
+| 6965 | 34 U.S.C. 1068. | Apr. 9, 1906, ch. 1370, § 5, 34 Stat. 105. |
 
-In subsection (a) the words “each officer stationed at the Naval Academy, each midshipman officer, each midshipman petty officer, and each civilian member of the teaching staff of the Academy shall” are substituted for the words “it shall be the duty of every professor, assistant professor, academic officer, or any cadet officer or cadet petty officer, or instructor, as well as every other officer stationed at the United States Naval Academy to” to state the current applicability of the provision. The words “commission of hazing” are substituted for the words “violation \* \* \* of any of the provisions of this Act”.
+In subsection (a) the words “each officer stationed at the Naval Academy, each midshipman officer, each midshipman petty officer, and each civilian member of the teaching staff of the Academy shall” are substituted for the words “it shall be the duty of every professor, assistant professor, academic officer, or any cadet officer or cadet petty officer, or instructor, as well as every other officer stationed at the United States Naval Academy to” to state the current applicability of the provision. The words “commission of hazing” are substituted for the words “violation \* \* \* of any of the provisions of this Act”.
 
 In subsection (b) the words “for neglect of duty” are omitted inasmuch as the Uniform Code of Military Justice sets out the offenses for which persons subject to the Code may be tried.
 
@@ -1109,13 +1109,13 @@ In subsection (b) the words “for neglect of duty” are omitted inasmuch as th
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8466. Course of study
+## § 8466. Course of study
 
 **(a)** The course at the Naval Academy is four years.
 
 **(b)** The Secretary of the Navy shall arrange the course so that classes will not be held on Sunday.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 434, § 6966; renumbered § 8466, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 434, § 6966; renumbered § 8466, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -1138,17 +1138,17 @@ In subsection (b) the words “of studies and the order of recitations” are om
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8467. Degree on graduation
+## § 8467. Degree on graduation
 
 Under regulations prescribed by the Secretary of the Navy, the Superintendent of the Naval Academy may confer the degree of bachelor of science upon graduates of the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 434, § 6967; renumbered § 8467, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 434, § 6967; renumbered § 8467, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6967 | 34 U.S.C. 1057a (less last sentence). | May 25, 1933, ch. 37, 48 Stat. 73 (less last sentence); Aug. 9, 1946, ch. 932, 60 Stat. 968; Aug. 4, 1949, ch. 393, § 13, 63 Stat. 559; Aug. 18, 1949, ch. 476, 63 Stat. 614. |
+| 6967 | 34 U.S.C. 1057a (less last sentence). | May 25, 1933, ch. 37, 48 Stat. 73 (less last sentence); Aug. 9, 1946, ch. 932, 60 Stat. 968; Aug. 4, 1949, ch. 393, § 13, 63 Stat. 559; Aug. 18, 1949, ch. 476, 63 Stat. 614. |
 
 The word “regulations” is substituted for the words “such rules and regulations”. Since the Naval Academy is now accredited, the words “from and after the date of accrediting of said Academy” are omitted as executed.
 
@@ -1166,9 +1166,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Degrees for Persons Who Graduated Before Accrediting of Naval Academy**
 
-Act Aug. 10, 1956, ch. 1041, § 35, 70A Stat. 634, provided in part that, under conditions prescribed by the Secretary of the Navy, the Superintendent of the United States Naval Academy “may confer the degree of bachelor of science upon living graduates of [the] Academy who were graduated before the date of accrediting of [the] Academy and who have met the requirements of [the] Academy for that degree.”
+Act Aug. 10, 1956, ch. 1041, § 35, 70A Stat. 634, provided in part that, under conditions prescribed by the Secretary of the Navy, the Superintendent of the United States Naval Academy “may confer the degree of bachelor of science upon living graduates of [the] Academy who were graduated before the date of accrediting of [the] Academy and who have met the requirements of [the] Academy for that degree.”
 
-## § 8468. Board of Visitors
+## § 8468. Board of Visitors
 
 **(a)** A Board of Visitors to the Academy is constituted annually of—
 
@@ -1214,20 +1214,20 @@ Act Aug. 10, 1956, ch. 1041, § 35, 70A Stat. 634, provided in part that, unde
 
 **(B)** remotely, at the election of such member.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 434, § 6968; Pub. L. 96–579, § 13(b), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 104–106, div. A, title X, § 1061(e)(2), title XV, § 1502(a)(12), Feb. 10, 1996, 110 Stat. 443, 503; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered § 8468, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 117–81, div. A, title V, §§ 554(b), 555(b), Dec. 27, 2021, 135 Stat. 1738, 1739; Pub. L. 118–159, div. A, title V, § 558(b), Dec. 23, 2024, 138 Stat. 1898; Pub. L. 119–60, div. A, title V, § 557(b), Dec. 18, 2025, 139 Stat. 879.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 434, § 6968; Pub. L. 96–579, § 13(b), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 104–106, div. A, title X, § 1061(e)(2), title XV, § 1502(a)(12), Feb. 10, 1996, 110 Stat. 443, 503; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered § 8468, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 117–81, div. A, title V, §§ 554(b), 555(b), Dec. 27, 2021, 135 Stat. 1738, 1739; Pub. L. 118–159, div. A, title V, § 558(b), Dec. 23, 2024, 138 Stat. 1898; Pub. L. 119–60, div. A, title V, § 557(b), Dec. 18, 2025, 139 Stat. 879.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6968(a), (b) | 34 U.S.C. 1083. | June 29, 1948, ch. 714, § 1, 62 Stat. 1094. |
-|  | 34 U.S.C. 1084. | June 29, 1948, ch. 714, § 2, 62 Stat. 1094. |
-| 6968(c) | 34 U.S.C. 1085. | June 29, 1948, ch. 714, § 3, 62 Stat. 1094. |
-| 6968(d) | 34 U.S.C. 1086. | June 29, 1948, ch. 714, § 4, 62 Stat. 1094; June 30, 1954, ch. 432, § 732, 68 Stat. 356. |
-| 6968(e), (f), (g) | 34 U.S.C. 1087. | June 29, 1948, ch. 714, § 5, 62 Stat. 1094. |
-| 6968(h) | 34 U.S.C. 1088. | June 29, 1948, ch. 714, § 6, 62 Stat. 1094. |
+| 6968(a), (b) | 34 U.S.C. 1083. | June 29, 1948, ch. 714, § 1, 62 Stat. 1094. |
+|  | 34 U.S.C. 1084. | June 29, 1948, ch. 714, § 2, 62 Stat. 1094. |
+| 6968(c) | 34 U.S.C. 1085. | June 29, 1948, ch. 714, § 3, 62 Stat. 1094. |
+| 6968(d) | 34 U.S.C. 1086. | June 29, 1948, ch. 714, § 4, 62 Stat. 1094; June 30, 1954, ch. 432, § 732, 68 Stat. 356. |
+| 6968(e), (f), (g) | 34 U.S.C. 1087. | June 29, 1948, ch. 714, § 5, 62 Stat. 1094. |
+| 6968(h) | 34 U.S.C. 1088. | June 29, 1948, ch. 714, § 6, 62 Stat. 1094. |
 
-In subsection (a) the words “A Board of Visitors to the Naval Academy is constituted annually” are substituted for the words “There shall be appointed \* \* \* every year a Board of Visitors”, since appointments, in the strict sense, are not involved.
+In subsection (a) the words “A Board of Visitors to the Naval Academy is constituted annually” are substituted for the words “There shall be appointed \* \* \* every year a Board of Visitors”, since appointments, in the strict sense, are not involved.
 
 In subsection (b) the language establishing staggered terms is eliminated as executed, and the existence of such terms is recognized by the use of the words “two persons shall be designated by him each year to succeed the members whose terms expire that year”. No effect is given to the language “the nine Presidential appointees”. The hearings indicate that one of the bills considered provided for nine such “appointees”, and it appears that the number nine was inadvertently retained. The provision specifically authorizes only six Presidential designees.
 
@@ -1237,21 +1237,21 @@ In subsection (b) the language establishing staggered terms is eliminated as exe
 
 2025—Subsec. (a)(8). Pub. L. 119–60 substituted “two other members” for “one other member”.
 
-2024—Subsec. (a). Pub. L. 118–159, § 558(b)(1), added subsec. (a) and struck out former subsec. (a) which related to membership of Board of Visitors.
+2024—Subsec. (a). Pub. L. 118–159, § 558(b)(1), added subsec. (a) and struck out former subsec. (a) which related to membership of Board of Visitors.
 
-Subsec. (f). Pub. L. 118–159, § 558(b)(2), inserted “and the Committees on Armed Services of the Senate and House of Representatives” after “the President” in two places.
+Subsec. (f). Pub. L. 118–159, § 558(b)(2), inserted “and the Committees on Armed Services of the Senate and House of Representatives” after “the President” in two places.
 
-2021—Subsec. (b). Pub. L. 117–81, § 554(b), substituted “is appointed by the President” for “is appointed”.
+2021—Subsec. (b). Pub. L. 117–81, § 554(b), substituted “is appointed by the President” for “is appointed”.
 
-Subsec. (i). Pub. L. 117–81, § 555(b), added subsec. (i).
+Subsec. (i). Pub. L. 117–81, § 555(b), added subsec. (i).
 
 2018—Pub. L. 115–232 renumbered section 6968 of this title as this section.
 
 1999—Subsec. (a)(3). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (a)(3). Pub. L. 104–106, § 1502(a)(12), substituted “National Security” for “Armed Services”.
+1996—Subsec. (a)(3). Pub. L. 104–106, § 1502(a)(12), substituted “National Security” for “Armed Services”.
 
-Subsec. (h). Pub. L. 104–106, § 1061(e)(2), struck out “is entitled to not more than $5 a day and” after “each adviser”.
+Subsec. (h). Pub. L. 104–106, § 1061(e)(2), struck out “is entitled to not more than $5 a day and” after “each adviser”.
 
 1980—Subsec. (b). Pub. L. 96–579 required member whose term of office had expired to continue service until appointment of a successor.
 
@@ -1261,7 +1261,7 @@ Subsec. (h). Pub. L. 104–106, § 1061(e)(2), struck out “is entitled to no
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8469. Band: composition
+## § 8469. Band: composition
 
 **(a)** The Naval Academy Band shall be composed of one leader, one second leader, and such enlisted members of the Navy as may be assigned.
 
@@ -1269,13 +1269,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** The enlisted members assigned to the Naval Academy Band shall be distributed in grade substantially the same as in the United States Navy Band.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 435, § 6969; Pub. L. 87–649, § 14c(52), Sept. 7, 1962, 76 Stat. 501; renumbered § 8469, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 435, § 6969; Pub. L. 87–649, § 14c(52), Sept. 7, 1962, 76 Stat. 501; renumbered § 8469, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6969 | 34 U.S.C. 1091a. | Feb. 14, 1931, ch. 184, 46 Stat. 1111; July 17, 1953, ch. 226, § 2, 67 Stat. 181. |
+| 6969 | 34 U.S.C. 1091a. | Feb. 14, 1931, ch. 184, 46 Stat. 1111; July 17, 1953, ch. 226, § 2, 67 Stat. 181. |
 
 In subsection (a) the words “of the Navy” are supplied since the requirement that the distribution in ratings be similar to that in the United States Navy Band indicates that the Naval Academy Band should not include members of the Marine Corps, and it is so interpreted.
 
@@ -1299,13 +1299,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
-## § 8470. Permanent professors: promotion
+## § 8470. Permanent professors: promotion
 
 **(a) Promotion.—** An officer serving as a permanent professor may be recommended for promotion to the grade of captain or colonel, as the case may be, under regulations prescribed by the Secretary of the Navy. The regulations shall include a competitive selection board process to identify those permanent professors best qualified for promotion. An officer so recommended shall be promoted by appointment to the higher grade by the President, by and with the advice and consent of the Senate.
 
 **(b) Effective Date of Promotion.—** If made, the promotion of an officer under subsection (a) shall be effective not earlier than three years after the selection of the officer as a permanent professor as described in that subsection.
 
-(Added Pub. L. 110–181, div. A, title V, § 508(a)(1)(B), Jan. 28, 2008, 122 Stat. 97, § 6970; renumbered § 8470, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 110–181, div. A, title V, § 508(a)(1)(B), Jan. 28, 2008, 122 Stat. 97, § 6970; renumbered § 8470, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -1319,7 +1319,7 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8470a. Permanent professors: retirement for years of service; authority for deferral
+## § 8470a. Permanent professors: retirement for years of service; authority for deferral
 
 **(a) Retirement for Years of Service.—**
 
@@ -1337,27 +1337,27 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(d) Retired Grade and Retired Pay.—** Each officer retired under this section—
 
-**(1)** unless otherwise entitled to a higher grade, shall be retired in the grade determined under section 1370 1
+**(1)** unless otherwise entitled to a higher grade, shall be retired in the grade determined under section 1370 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and
 
 **(2)** is entitled to retired pay computed under section 8333 of this title.
 
-(Added Pub. L. 109–163, div. A, title V, § 509(b)(1), Jan. 6, 2006, 119 Stat. 3229, § 6970; renumbered § 6970a, Pub. L. 110–181, div. A, title V, § 508(a)(1)(A), Jan. 28, 2008, 122 Stat. 96; renumbered § 8470a and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Added Pub. L. 109–163, div. A, title V, § 509(b)(1), Jan. 6, 2006, 119 Stat. 3229, § 6970; renumbered § 6970a, Pub. L. 110–181, div. A, title V, § 508(a)(1)(A), Jan. 28, 2008, 122 Stat. 96; renumbered § 8470a and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1370 of this title, referred to in subsec. (d)(1), was repealed and new sections 1370 and 1370a of this title were enacted by Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3574, 3580. In determining the retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of this title in such determination with respect to such officers deemed to be a reference to section 1370a of this title, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of this title.
+Section 1370 of this title, referred to in subsec. (d)(1), was repealed and new sections 1370 and 1370a of this title were enacted by Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3574, 3580. In determining the retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of this title in such determination with respect to such officers deemed to be a reference to section 1370a of this title, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of this title.
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(c)(1), renumbered section 6970a of this title as this section.
+2018—Pub. L. 115–232, § 807(c)(1), renumbered section 6970a of this title as this section.
 
-Subsec. (d)(2). Pub. L. 115–232, § 809(a), substituted “section 8333” for “section 6333”.
+Subsec. (d)(2). Pub. L. 115–232, § 809(a), substituted “section 8333” for “section 6333”.
 
 2008—Pub. L. 110–181 renumbered section 6970 of this title as this section.
 
@@ -1367,7 +1367,7 @@ Subsec. (d)(2). Pub. L. 115–232, § 809(a), substituted “section 8333” f
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8471. Midshipmen’s store, trade shops, dairy, and laundry: nonappropriated fund instrumentality and accounts
+## § 8471. Midshipmen’s store, trade shops, dairy, and laundry: nonappropriated fund instrumentality and accounts
 
 **(a) Operation as Nonappropriated Fund Instrumentality.—** The Superintendent of the Naval Academy shall operate the Naval Academy activities referred to in subsection (b) as a nonappropriated fund instrumentality under the jurisdiction of the Navy.
 
@@ -1391,14 +1391,14 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(e) Regulations.—** This section shall be carried out under regulations prescribed by the Secretary of the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 435, § 6971; Pub. L. 89–718, § 38, Nov. 2, 1966, 80 Stat. 1120; Pub. L. 103–337, div. A, title III, § 376, Oct. 5, 1994, 108 Stat. 2736; Pub. L. 104–201, div. A, title III, § 370(a), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 105–85, div. B, title XXVIII, § 2871(c)(1), Nov. 18, 1997, 111 Stat. 2015; renumbered § 8471, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 435, § 6971; Pub. L. 89–718, § 38, Nov. 2, 1966, 80 Stat. 1120; Pub. L. 103–337, div. A, title III, § 376, Oct. 5, 1994, 108 Stat. 2736; Pub. L. 104–201, div. A, title III, § 370(a), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 105–85, div. B, title XXVIII, § 2871(c)(1), Nov. 18, 1997, 111 Stat. 2015; renumbered § 8471, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6971(a) | 34 U.S.C. 1108b (less last proviso). | July 26, 1946, ch. 675, § 2 (less last proviso), 60 Stat. 704. |
-| 6971(b) | 34 U.S.C. 1106. | Aug. 5, 1939, ch. 448, § 1, 53 Stat. 1210. |
+| 6971(a) | 34 U.S.C. 1108b (less last proviso). | July 26, 1946, ch. 675, § 2 (less last proviso), 60 Stat. 704. |
+| 6971(b) | 34 U.S.C. 1106. | Aug. 5, 1939, ch. 448, § 1, 53 Stat. 1210. |
 
 In subsection (a) the second listing of the activities is omitted for brevity.
 
@@ -1428,11 +1428,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 370(e) of Pub. L. 104–201, set out as a note under section 2105 of Title 5, Government Organization and Employees.
 
-## § 8472. Chapel: crypt and window spaces
+## § 8472. Chapel: crypt and window spaces
 
 The crypt and window spaces of the Naval Academy Chapel may be used only for memorials to officers of the Navy who have successfully commanded a fleet or squadron in battle or who have received the thanks of Congress for conspicuously distinguished services in time of war. No memorial to an officer may be accepted for, or installed in, the crypt or window spaces until at least five years after the death of that officer.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 435, § 6972; renumbered § 8472, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 435, § 6972; renumbered § 8472, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -1454,7 +1454,7 @@ The words “United States” in connection with the chapel, the words “of the
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8473. Gifts, bequests, and loans of property: acceptance for benefit and use of Naval Academy
+## § 8473. Gifts, bequests, and loans of property: acceptance for benefit and use of Naval Academy
 
 **(a)** The Secretary of the Navy may accept, hold, administer, and spend any gift or bequest of personal property, and may accept, hold, and administer any loan of personal property other than money, that is made on the condition that it be used for the benefit of, or for use in connection with, the Naval Academy or the Naval Academy Museum, its collection, or its services. Gifts and bequests of money and the proceeds from the sales of property received as gifts shall be deposited in the Treasury in the fund called “United States Naval Academy Gift and Museum Fund”. The Secretary may disburse funds deposited under this subsection for the benefit or use of the Naval Academy (including the Naval Academy Museum) subject to the terms of the gift or bequest.
 
@@ -1464,16 +1464,16 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(d)** Upon the request of the Secretary of the Navy, the Secretary of the Treasury may invest, reinvest, or retain investments of money or securities comprising any part of the United States Naval Academy Gift and Museum Fund in securities of the United States or in securities guaranteed as to principal and interest by the United States. The interest and benefits accruing from those securities shall be deposited to the credit of the United States Naval Academy Gift and Museum Fund and may be disbursed as provided in this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 436, § 6973; Pub. L. 106–398, § 1 [[div. A], title IX, § 942(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–241; renumbered § 8473, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 436, § 6973; Pub. L. 106–398, § 1 [[div. A], title IX, § 942(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–241; renumbered § 8473, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6973(a) | 34 U.S.C. 1115. | Mar. 31, 1944, ch. 147, § 1, 58 Stat. 135. |
-|  | 34 U.S.C. 1115a. | Mar. 31, 1944, ch. 147, § 2, 58 Stat. 135. |
-| 6973(b) | 34 U.S.C. 1115b. | Mar. 31, 1944, ch. 147, § 3, 58 Stat. 135. |
-| 6973(c) | 34 U.S.C. 1115c. | Mar. 31, 1944, ch. 147, § 4, 58 Stat. 135. |
+| 6973(a) | 34 U.S.C. 1115. | Mar. 31, 1944, ch. 147, § 1, 58 Stat. 135. |
+|  | 34 U.S.C. 1115a. | Mar. 31, 1944, ch. 147, § 2, 58 Stat. 135. |
+| 6973(b) | 34 U.S.C. 1115b. | Mar. 31, 1944, ch. 147, § 3, 58 Stat. 135. |
+| 6973(c) | 34 U.S.C. 1115c. | Mar. 31, 1944, ch. 147, § 4, 58 Stat. 135. |
 
 **Editorial Notes**
 
@@ -1481,15 +1481,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 2018—Pub. L. 115–232 renumbered section 6973 of this title as this section.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title IX, § 942(c)(4)], substituted “Gifts, bequests, and loans of property: acceptance for benefit and use of Naval Academy” for “Gifts and bequests: acceptance for benefit of Naval Academy” as section catchline.
+2000—Pub. L. 106–398, § 1 [[div. A], title IX, § 942(c)(4)], substituted “Gifts, bequests, and loans of property: acceptance for benefit and use of Naval Academy” for “Gifts and bequests: acceptance for benefit of Naval Academy” as section catchline.
 
-Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title IX, § 942(c)(1)], in first sentence, substituted “any gift or bequest of personal property, and may accept, hold, and administer any loan of personal property other than money, that is” for “gifts and bequests of personal property” and inserted “or the Naval Academy Museum, its collection, or its services” before period at end, in second sentence, substituted “United States Naval Academy Gift and Museum Fund” for “United States Naval Academy general gift fund”, and, in last sentence, inserted “(including the Naval Academy Museum)” after “the Naval Academy”.
+Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title IX, § 942(c)(1)], in first sentence, substituted “any gift or bequest of personal property, and may accept, hold, and administer any loan of personal property other than money, that is” for “gifts and bequests of personal property” and inserted “or the Naval Academy Museum, its collection, or its services” before period at end, in second sentence, substituted “United States Naval Academy Gift and Museum Fund” for “United States Naval Academy general gift fund”, and, in last sentence, inserted “(including the Naval Academy Museum)” after “the Naval Academy”.
 
-Subsecs. (b), (c). Pub. L. 106–398, § 1 [[div. A], title IX, § 942(c)(2)], added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Subsecs. (b), (c). Pub. L. 106–398, § 1 [[div. A], title IX, § 942(c)(2)], added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 106–398, § 1 [[div. A], title IX, § 942(c)(3)], substituted “United States Naval Academy Gift and Museum Fund” for “United States Naval Academy general gift fund” in two places.
+Subsec. (d). Pub. L. 106–398, § 1 [[div. A], title IX, § 942(c)(3)], substituted “United States Naval Academy Gift and Museum Fund” for “United States Naval Academy general gift fund” in two places.
 
-Pub. L. 106–398, § 1 [[div. A], title IX, § 942(c)(2)(A)], redesignated subsec. (c) as (d).
+Pub. L. 106–398, § 1 [[div. A], title IX, § 942(c)(2)(A)], redesignated subsec. (c) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1497,19 +1497,19 @@ Pub. L. 106–398, § 1 [[div. A], title IX, § 942(c)(2)(A)], redesignated 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8474. United States Naval Academy Museum Fund: references to Fund
+## § 8474. United States Naval Academy Museum Fund: references to Fund
 
 Any reference in a law, regulation, document, paper, or other record of the United States to the United States Naval Academy Museum Fund formerly maintained under this section shall be deemed to refer to the United States Naval Academy Gift and Museum Fund maintained under section 8473 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 436, § 6974; Pub. L. 106–398, § 1 [[div. A], title IX, § 942(d)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–242; renumbered § 8474 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 436, § 6974; Pub. L. 106–398, § 1 [[div. A], title IX, § 942(d)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–242; renumbered § 8474 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6974(a) | 34 U.S.C. 1118. | Mar. 26, 1938, ch. 52, § 3, 52 Stat. 119. |
-| 6974(b) | 34 U.S.C. 1119. | Mar. 26, 1938, ch. 52, § 4, 52 Stat. 119. |
-| 6974(c) | 34 U.S.C. 1120. | Mar. 26, 1938, ch. 52, § 5, 52 Stat. 119. |
+| 6974(a) | 34 U.S.C. 1118. | Mar. 26, 1938, ch. 52, § 3, 52 Stat. 119. |
+| 6974(b) | 34 U.S.C. 1119. | Mar. 26, 1938, ch. 52, § 4, 52 Stat. 119. |
+| 6974(c) | 34 U.S.C. 1120. | Mar. 26, 1938, ch. 52, § 5, 52 Stat. 119. |
 
 **Editorial Notes**
 
@@ -1527,13 +1527,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Consolidation of Naval Academy General Gift Fund and Naval Academy Museum Fund**
 
-Pub. L. 106–398, § 1 [[div. A], title IX, § 942(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–241, provided that:
+Pub. L. 106–398, § 1 [[div. A], title IX, § 942(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–241, provided that:
 
 > **“(1)** The Secretary of the Navy shall transfer all amounts in the United States Naval Academy Museum Fund established by section 6974 [now 8474] of title 10, United States Code, to the gift fund maintained for the benefit and use of the United States Naval Academy under section 6973 [now 8473] of such title. Upon completing the transfer, the Secretary shall close the United States Naval Academy Museum Fund.
 
 > **“(2)** Amounts transferred under this subsection shall be merged with other amounts in the gift fund to which transferred and shall be available for the purposes for which amounts in that gift fund are available.”
 
-## § 8475. Acceptance of guarantees with gifts for major projects
+## § 8475. Acceptance of guarantees with gifts for major projects
 
 **(a) Acceptance Authority.—** Subject to subsection (c), the Secretary of the Navy may accept from a donor or donors a qualified guarantee for the completion of a major project for the benefit of the Naval Academy.
 
@@ -1585,7 +1585,7 @@ Pub. L. 106–398, § 1 [[div. A], title IX, § 942(b)], Oct. 30, 2000, 114 
 
 **(B)** holds for the account of others investment assets in a total amount considered by the Secretary of the Navy to qualify the firm as a major investment management firm.
 
-(Added Pub. L. 106–65, div. B, title XXVIII, § 2871(b)(1), Oct. 5, 1999, 113 Stat. 873, § 6975; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(17)], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 108–136, div. A, title X, § 1031(a)(56), Nov. 24, 2003, 117 Stat. 1603; renumbered § 8475, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 106–65, div. B, title XXVIII, § 2871(b)(1), Oct. 5, 1999, 113 Stat. 873, § 6975; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(17)], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 108–136, div. A, title X, § 1031(a)(56), Nov. 24, 2003, 117 Stat. 1603; renumbered § 8475, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -1603,7 +1603,7 @@ Pub. L. 106–398, § 1 [[div. A], title IX, § 942(b)], Oct. 30, 2000, 114 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8476. Operation of Naval Academy dairy farm
+## § 8476. Operation of Naval Academy dairy farm
 
 **(a) Discretion Regarding Continued Operation.—**
 
@@ -1625,15 +1625,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(d) Effect of Other Laws.—** Nothing in section 8471 of this title shall be construed to require the Secretary of the Navy or the Superintendent of the Naval Academy to operate a dairy farm for the Naval Academy in Gambrills, Maryland, or any other location.
 
-(Added Pub. L. 105–85, div. B, title XXVIII, § 2871(a)(1), Nov. 18, 1997, 111 Stat. 2014, § 6976; amended Pub. L. 106–65, div. B, title XXVIII, § 2814, Oct. 5, 1999, 113 Stat. 851; renumbered § 8476 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Added Pub. L. 105–85, div. B, title XXVIII, § 2871(a)(1), Nov. 18, 1997, 111 Stat. 2014, § 6976; amended Pub. L. 106–65, div. B, title XXVIII, § 2814, Oct. 5, 1999, 113 Stat. 851; renumbered § 8476 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(c)(1), renumbered section 6976 of this title as this section.
+2018—Pub. L. 115–232, § 807(c)(1), renumbered section 6976 of this title as this section.
 
-Subsec. (d). Pub. L. 115–232, § 809(a), substituted “section 8471” for “section 6971”.
+Subsec. (d). Pub. L. 115–232, § 809(a), substituted “section 8471” for “section 6971”.
 
 1999—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -1643,7 +1643,7 @@ Subsec. (d). Pub. L. 115–232, § 809(a), substituted “section 8471” for 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8477. Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees
+## § 8477. Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees
 
 **(a) Acceptance of Research Grants.—** The Secretary of the Navy may authorize the Superintendent of the Academy to accept qualifying research grants under this section. Any such grant may only be accepted if the work under the grant is to be carried out by a professor or instructor of the Academy for a scientific, literary, or educational purpose.
 
@@ -1657,7 +1657,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(f) Regulations.—** The Secretary of the Navy shall prescribe regulations for the administration of this section.
 
-(Added Pub. L. 105–261, div. A, title X, § 1063(b)(1), Oct. 17, 1998, 112 Stat. 2130, § 6977; renumbered § 8477, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 105–261, div. A, title X, § 1063(b)(1), Oct. 17, 1998, 112 Stat. 2130, § 6977; renumbered § 8477, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -1671,7 +1671,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8478. Mixed-funded athletic and recreational extracurricular programs: authority to manage appropriated funds in same manner as nonappropriated funds
+## § 8478. Mixed-funded athletic and recreational extracurricular programs: authority to manage appropriated funds in same manner as nonappropriated funds
 
 **(a) Authority.—** In the case of a Naval Academy mixed-funded athletic or recreational extracurricular program, the Secretary of the Navy may designate funds appropriated to the Department of the Navy and available for that program to be treated as nonappropriated funds and expended for that program in accordance with laws applicable to the expenditure of nonappropriated funds. Appropriated funds so designated shall be considered to be nonappropriated funds for all purposes and shall remain available until expended.
 
@@ -1685,7 +1685,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(4)** The program is not a private organization and is not operated by a private organization.
 
-(Added Pub. L. 108–375, div. A, title V, § 544(b)(1), Oct. 28, 2004, 118 Stat. 1906, § 6978; renumbered § 8478, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 108–375, div. A, title V, § 544(b)(1), Oct. 28, 2004, 118 Stat. 1906, § 6978; renumbered § 8478, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -1703,13 +1703,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Section applicable only with respect to funds appropriated for fiscal years after fiscal year 2004, see section 544(d) of Pub. L. 108–375, set out as a note under section 7459 of this title.
 
-## § 8479. Midshipmen: charges and fees for attendance; limitation
+## § 8479. Midshipmen: charges and fees for attendance; limitation
 
 **(a) Prohibition.—** Except as provided in subsection (b), no charge or fee for tuition, room, or board for attendance at the Naval Academy may be imposed unless the charge or fee is specifically authorized by a law enacted after October 5, 1994.
 
 **(b) Exception.—** The prohibition specified in subsection (a) does not apply with respect to any item or service provided to midshipmen for which a charge or fee is imposed as of October 5, 1994. The Secretary of Defense shall notify Congress of any change made by the Naval Academy in the amount of a charge or fee authorized under this subsection.
 
-(Added Pub. L. 108–375, div. A, title V, § 545(b)(1), Oct. 28, 2004, 118 Stat. 1908, § 6979; renumbered § 8479, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 108–375, div. A, title V, § 545(b)(1), Oct. 28, 2004, 118 Stat. 1908, § 6979; renumbered § 8479, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -1723,7 +1723,7 @@ Section applicable only with respect to funds appropriated for fiscal years afte
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8480. Policy on sexual harassment and sexual violence
+## § 8480. Policy on sexual harassment and sexual violence
 
 **(a) Required Policy.—** Under guidance prescribed by the Secretary of Defense, the Secretary of the Navy shall direct the Superintendent of the Naval Academy to prescribe a policy on sexual harassment and sexual violence applicable to the midshipmen and other personnel of the Naval Academy.
 
@@ -1825,7 +1825,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(5)** A midshipman who transfers under this subsection may retain the midshipman’s appointment to the United States Naval Academy or may be appointed to the military service academy to which the midshipman transfers without regard to the limitations and requirements set forth in sections 7442, 8454, and 9442 of this title.
 
-(Added Pub. L. 109–364, div. A, title V, § 532(a)(2), Oct. 17, 2006, 120 Stat. 2201, § 6980; renumbered § 8480, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836; amended Pub. L. 116–92, div. A, title V, § 555(b), Dec. 20, 2019, 133 Stat. 1389; Pub. L. 116–283, div. A, title V, § 552(b)(2), Jan. 1, 2021, 134 Stat. 3632.)
+(Added Pub. L. 109–364, div. A, title V, § 532(a)(2), Oct. 17, 2006, 120 Stat. 2201, § 6980; renumbered § 8480, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836; amended Pub. L. 116–92, div. A, title V, § 555(b), Dec. 20, 2019, 133 Stat. 1389; Pub. L. 116–283, div. A, title V, § 552(b)(2), Jan. 1, 2021, 134 Stat. 3632.)
 
 **Editorial Notes**
 
@@ -1863,7 +1863,7 @@ Secretary of Defense to ensure that military service academy curricula include h
 
 Secretary of a military department to provide for focus groups to ascertain information relating to sexual assault and sexual harassment issues in any year in which the Secretary is not required by law to conduct a survey on such matters at the service academy under the Secretary’s jurisdiction and to include such information in the Secretary’s annual report to Congress, see section 532(b) of Pub. L. 109–364, set out as a note under section 7461 of this title.
 
-## § 8481. Support of athletic and physical fitness programs
+## § 8481. Support of athletic and physical fitness programs
 
 **(a) Authority.—**
 
@@ -1899,7 +1899,7 @@ Secretary of a military department to provide for focus groups to ascertain info
 
 **(h) Association Defined.—** In this section, the term “Association” means the Naval Academy Athletic Association.
 
-(Added Pub. L. 112–239, div. A, title V, § 542(a), Jan. 2, 2013, 126 Stat. 1735, § 6981; renumbered § 8481 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
+(Added Pub. L. 112–239, div. A, title V, § 542(a), Jan. 2, 2013, 126 Stat. 1735, § 6981; renumbered § 8481 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
 
 **Editorial Notes**
 
@@ -1911,7 +1911,7 @@ Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 A prior section 8491 was renumbered section 9191 of this title.
 
-Prior sections 8495 to 8502 were repealed by Pub. L. 103–337, div. A, title XVI, § 1662(f)(2), Oct. 5, 1994, 108 Stat. 2994, effective Dec. 1, 1994.
+Prior sections 8495 to 8502 were repealed by Pub. L. 103–337, div. A, title XVI, § 1662(f)(2), Oct. 5, 1994, 108 Stat. 2994, effective Dec. 1, 1994.
 
 Section 8495, act Aug. 10, 1956, ch. 1041, 70A Stat. 524, provided that members of Air National Guard of United States were not in active Federal service except when ordered thereto under law. See section 12401 of this title.
 
@@ -1923,29 +1923,29 @@ Section 8498, act Aug. 10, 1956, ch. 1041, 70A Stat. 525, related to organizatio
 
 Section 8499, act Aug. 10, 1956, ch. 1041, 70A Stat. 525, related to application of laws governing Air Force to members of Air National Guard called into Federal service. See section 12405 of this title.
 
-Section 8500, acts Aug. 10, 1956, ch. 1041, 70A Stat. 525; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, § 1234(a)(1), 102 Stat. 2059, authorized President to call Air National Guard units and members into Federal service. See section 12406 of this title.
+Section 8500, acts Aug. 10, 1956, ch. 1041, 70A Stat. 525; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, § 1234(a)(1), 102 Stat. 2059, authorized President to call Air National Guard units and members into Federal service. See section 12406 of this title.
 
-Section 8501, acts Aug. 10, 1956, ch. 1041, 70A Stat. 525; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, § 1234(a)(1), 102 Stat. 2059, related to period of service and apportionment of members and units of Air National Guard called into Federal service. See section 12407 of this title.
+Section 8501, acts Aug. 10, 1956, ch. 1041, 70A Stat. 525; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, § 1234(a)(1), 102 Stat. 2059, related to period of service and apportionment of members and units of Air National Guard called into Federal service. See section 12407 of this title.
 
 Section 8502, act Aug. 10, 1956, ch. 1041, 70A Stat. 526, related to physical examinations of members of Air National Guard called into or mustered out of Federal service. See section 12408 of this title.
 
 A prior section 8503 was renumbered section 9203 of this title.
 
-A prior section 8504, acts Aug. 10, 1956, ch. 1041, 70A Stat. 526; Nov. 8, 1967, Pub. L. 90–130, § 1(29), 81 Stat. 382, authorized President to order any retired member of Regular Air Force to active duty and assign him duties considered necessary in interests of national defense, prior to repeal by Pub. L. 96–513, title II, § 210, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981. See section 688 of this title.
+A prior section 8504, acts Aug. 10, 1956, ch. 1041, 70A Stat. 526; Nov. 8, 1967, Pub. L. 90–130, § 1(29), 81 Stat. 382, authorized President to order any retired member of Regular Air Force to active duty and assign him duties considered necessary in interests of national defense, prior to repeal by Pub. L. 96–513, title II, § 210, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981. See section 688 of this title.
 
-A prior section 8531, act Aug. 10, 1956, ch. 1041, 70A Stat. 526, authorized President, by and with consent of Senate, to appoint a general officer of Air Force as Chief of Staff to President, which officer, unless entitled to rank, pay, and allowances of a grade above lieutenant general under another provision of law, is entitled to rank, pay, and allowances of a general, and is in addition to number otherwise authorized for that grade, prior to repeal by Pub. L. 96–513, title II, § 233(b), Dec. 12, 1980, 94 Stat. 2887, effective Sept. 15, 1981.
+A prior section 8531, act Aug. 10, 1956, ch. 1041, 70A Stat. 526, authorized President, by and with consent of Senate, to appoint a general officer of Air Force as Chief of Staff to President, which officer, unless entitled to rank, pay, and allowances of a grade above lieutenant general under another provision of law, is entitled to rank, pay, and allowances of a general, and is in addition to number otherwise authorized for that grade, prior to repeal by Pub. L. 96–513, title II, § 233(b), Dec. 12, 1980, 94 Stat. 2887, effective Sept. 15, 1981.
 
-A prior section 8537, act Aug. 10, 1956, ch. 1041, 70A Stat. 526, provided for detail of Air Force officers to duty under Secretary of Commerce in connection with promotion of civil aviation, prior to repeal by Pub. L. 90–235, § 4(b)(1), Jan. 2, 1968, 81 Stat. 760.
+A prior section 8537, act Aug. 10, 1956, ch. 1041, 70A Stat. 526, provided for detail of Air Force officers to duty under Secretary of Commerce in connection with promotion of civil aviation, prior to repeal by Pub. L. 90–235, § 4(b)(1), Jan. 2, 1968, 81 Stat. 760.
 
-A prior section 8540, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, related to detail of members of regular or reserve components as professors and instructors in air science and tactics, prior to repeal by Pub. L. 88–647, title III, § 301(23), Oct. 13, 1964, 78 Stat. 1073. See section 2111 of this title.
+A prior section 8540, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, related to detail of members of regular or reserve components as professors and instructors in air science and tactics, prior to repeal by Pub. L. 88–647, title III, § 301(23), Oct. 13, 1964, 78 Stat. 1073. See section 2111 of this title.
 
 **Amendments**
 
 2021—Subsec. (a)(1). Pub. L. 116–283 substituted “section 3201(e)” for “section 2304(k)” and “section 3204(a)(5)” for “section 2304(c)(5)”.
 
-2018—Pub. L. 115–232, § 807(c)(1), renumbered section 6981 of this title as this section.
+2018—Pub. L. 115–232, § 807(c)(1), renumbered section 6981 of this title as this section.
 
-Subsec. (e)(1). Pub. L. 115–232, § 809(a), substituted “and 8022(b)(3)” for “and 5022(b)(3)”.
+Subsec. (e)(1). Pub. L. 115–232, § 809(a), substituted “and 8022(b)(3)” for “and 5022(b)(3)”.
 
 **Statutory Notes and Related Subsidiaries**
 

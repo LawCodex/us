@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 6—TRADE FAIR PROGRAM
 
-## § 1751. Designation of fairs
+## § 1751. Designation of fairs
 
 **(a) Notice to Secretary of the Treasury**
 
@@ -31,15 +31,15 @@ When the Secretary of Commerce is satisfied that the public interest in promotin
 
 The Secretary of Commerce may prescribe such regulations as he deems necessary or appropriate to carry out the provisions of this section.
 
-(Pub. L. 86–14, § 2, Apr. 22, 1959, 73 Stat. 18.)
+(Pub. L. 86–14, § 2, Apr. 22, 1959, 73 Stat. 18.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 86–14, § 1, Apr. 22, 1959, 73 Stat. 18, provided: “This Act [enacting this chapter] may be cited as the ‘Trade Fair Act of 1959’.”
+Pub. L. 86–14, § 1, Apr. 22, 1959, 73 Stat. 18, provided: “This Act [enacting this chapter] may be cited as the ‘Trade Fair Act of 1959’.”
 
-## § 1752. Entry of articles for fairs
+## § 1752. Entry of articles for fairs
 
 Any article imported or brought into the United States—
 
@@ -49,7 +49,7 @@ Any article imported or brought into the United States—
 
 may, without payment of any duty or internal-revenue tax, be entered under bond under this section for the purpose of exhibition at a fair, or for use in constructing, installing, or maintaining foreign exhibits at a fair.
 
-(Pub. L. 86–14, § 3, Apr. 22, 1959, 73 Stat. 18.)
+(Pub. L. 86–14, § 3, Apr. 22, 1959, 73 Stat. 18.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -57,7 +57,7 @@ may, without payment of any duty or internal-revenue tax, be entered under bond 
 
 Presidential determination of cultural significance of objects and exhibition or display thereof in the national interest, see section 2459 of Title 22, Foreign Relations and Intercourse.
 
-## § 1753. Disposition of articles entered for fairs
+## § 1753. Disposition of articles entered for fairs
 
 **(a) Disposition upon payment of duties and taxes** At any time before, or within 3 months after, the closing date of any fair, any article entered for such fair under section 1752 of this title may be sold or otherwise disposed of within, or may be removed from, the area of such fair. This subsection shall apply only if, before such disposition or removal—
 
@@ -83,9 +83,9 @@ If any article entered under section 1752 of this title is still in customs cust
 
 Whenever any article entered under section 1752 of this title is transferred pursuant to subsection (b)(2) or entered under subsection (a), the period prescribed for the performance of any act required by the provision governing the status to which the article is transferred, or under which the article is entered, shall run from the date of such transfer or entry.
 
-(Pub. L. 86–14, § 4, Apr. 22, 1959, 73 Stat. 18.)
+(Pub. L. 86–14, § 4, Apr. 22, 1959, 73 Stat. 18.)
 
-## § 1754. Marking, packaging, and labeling requirements
+## § 1754. Marking, packaging, and labeling requirements
 
 **(a) Marking requirements of the customs laws**
 
@@ -99,13 +99,13 @@ Articles entered under section 1752 of this title shall not be subject to any ma
 
 The application of the permit requirements of the Federal Alcohol Administration Act and the occupational taxes prescribed by chapter 51 of the Internal Revenue Code of 1986 shall be determined without regard to this chapter.
 
-(Pub. L. 86–14, § 5, Apr. 22, 1959, 73 Stat. 19; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 86–14, § 5, Apr. 22, 1959, 73 Stat. 19; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Alcohol Administration Act, referred to in subsec. (b), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, which is classified generally to subchapter I (§ 201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
+The Federal Alcohol Administration Act, referred to in subsec. (b), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, which is classified generally to subchapter I (§ 201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
 
 Chapter 51 of the Internal Revenue Code of 1986, referred to in subsec. (b), is classified to section 5001 et seq. of Title 26, Internal Revenue Code.
 
@@ -113,7 +113,7 @@ Chapter 51 of the Internal Revenue Code of 1986, referred to in subsec. (b), is 
 
 1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-## § 1755. Responsibilities of fair operator
+## § 1755. Responsibilities of fair operator
 
 **(a) Sole consignee and importer**
 
@@ -123,10 +123,10 @@ Each fair operator designated by the Secretary of Commerce pursuant to section 1
 
 The actual and necessary customs charges for labor, services, and other expenses in connection with the entry, examination, appraisement, custody, abandonment, destruction, or release of articles entered under section 1752 of this title, together with the necessary charges for salaries of customs officers and employees in connection with the accounting for, custody of, and supervision over, such articles, shall be reimbursed to the United States by the operator of the fair for which they are entered. Receipts from such reimbursements shall be deposited as refunds to the appropriation from which paid, in the manner provided for in section 1524 of this title.
 
-(Pub. L. 86–14, § 6, Apr. 22, 1959, 73 Stat. 19.)
+(Pub. L. 86–14, § 6, Apr. 22, 1959, 73 Stat. 19.)
 
-## § 1756. Regulations
+## § 1756. Regulations
 
 The Secretary of the Treasury may prescribe such regulations as may be necessary or appropriate to carry out the provisions of this chapter (other than section 1751 thereof).
 
-(Pub. L. 86–14, § 7, Apr. 22, 1959, 73 Stat. 19.)
+(Pub. L. 86–14, § 7, Apr. 22, 1959, 73 Stat. 19.)

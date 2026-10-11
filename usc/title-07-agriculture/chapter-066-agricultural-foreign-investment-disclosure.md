@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 66—AGRICULTURAL FOREIGN INVESTMENT DISCLOSURE
 
-## § 3501. Reporting requirements
+## § 3501. Reporting requirements
 
 **(a) Acquisitions or transfers of certain agricultural land interests by foreign persons** Any foreign person who acquires or transfers any interest, other than a security interest, in agricultural land shall submit a report to the Secretary of Agriculture not later than 90 days after the date of such acquisition or transfer. Such report shall be submitted in such form and in accordance with such procedures as the Secretary may require and shall contain—
 
@@ -85,13 +85,13 @@ Any foreign person who holds or acquires (on or after the effective date of this
 
 **(B)** in any case in which the holder of such interest is an individual, the citizenship of such holder; and
 
-**(C)** in any case in which the holder of such interest is not an individual or a government, the nature of the legal entity holding the interest, the country in which such holder is created or organized, and the principle 1
+**(C)** in any case in which the holder of such interest is not an individual or a government, the nature of the legal entity holding the interest, the country in which such holder is created or organized, and the principle 1
 
-<sup>1</sup>  So in original. Probably should be “principal”.
+<sup>1</sup> So in original. Probably should be “principal”.
 
 place of business of such holder.
 
-(Pub. L. 95–460, § 2, Oct. 14, 1978, 92 Stat. 1263.)
+(Pub. L. 95–460, § 2, Oct. 14, 1978, 92 Stat. 1263.)
 
 **Editorial Notes**
 
@@ -103,7 +103,7 @@ For the effective date of this section, referred to in subsecs. (b) to (d), see 
 
 **Effective Date**
 
-Pub. L. 95–460, § 10, Oct. 14, 1978, 92 Stat. 1267, provided that:
+Pub. L. 95–460, § 10, Oct. 14, 1978, 92 Stat. 1267, provided that:
 
 > **“(a)** Except as provided in subsection (b) of this section, this Act [enacting this chapter] shall become effective on the date of the enactment of this Act [Oct. 14, 1978].
 
@@ -111,17 +111,17 @@ Pub. L. 95–460, § 10, Oct. 14, 1978, 92 Stat. 1267, provided that:
 
 **Short Title**
 
-Pub. L. 95–460, § 1, Oct. 14, 1978, 92 Stat. 1263, provided that: “This Act [enacting this chapter] may be cited as the ‘Agricultural Foreign Investment Disclosure Act of 1978’.”
+Pub. L. 95–460, § 1, Oct. 14, 1978, 92 Stat. 1263, provided that: “This Act [enacting this chapter] may be cited as the ‘Agricultural Foreign Investment Disclosure Act of 1978’.”
 
 **Report to Congress on Foreign Investments in Agricultural Land in the United States**
 
-Pub. L. 118–42, div. B, title VII, § 742, Mar. 9, 2024, 138 Stat. 111, provided that: “The Secretary, as part of the report on foreign landholding required under the Agricultural Foreign Investment Disclosure Act (Public Law 95–460), shall report to Congress on foreign investments in agricultural land in the United States, including the impact foreign ownership has on family farms, rural communities, and the domestic food supply: *Provided*, That within 2 years after the enactment of this Act [Mar. 9, 2024], the Secretary shall establish a streamlined process for electronic submission and retention of disclosures made under the Agricultural Foreign Investment Disclosure Act [of 1978, 7 U.S.C. 3501 et seq.], including an internet database that contains disaggregated data from each disclosure submitted: *Provided further*, That all prior year disclosures of foreign investments in agricultural land in the United States are published in the database: *Provided further*, That the plan includes a process to ensure the protection of personally identifiable information and that all disclosures of foreign investments in agricultural land on the USDA website be disaggregated by: (1) in any case in which such foreign person is an individual, the citizenship of such foreign person; and (2) in any case in which such foreign person is not an individual or a government, the nature of the legal entity holding the interest, the country in which such foreign person is created or organized, and the principal place of business of such foreign person.”
+Pub. L. 118–42, div. B, title VII, § 742, Mar. 9, 2024, 138 Stat. 111, provided that: “The Secretary, as part of the report on foreign landholding required under the Agricultural Foreign Investment Disclosure Act (Public Law 95–460), shall report to Congress on foreign investments in agricultural land in the United States, including the impact foreign ownership has on family farms, rural communities, and the domestic food supply: *Provided*, That within 2 years after the enactment of this Act [Mar. 9, 2024], the Secretary shall establish a streamlined process for electronic submission and retention of disclosures made under the Agricultural Foreign Investment Disclosure Act [of 1978, 7 U.S.C. 3501 et seq.], including an internet database that contains disaggregated data from each disclosure submitted: *Provided further*, That all prior year disclosures of foreign investments in agricultural land in the United States are published in the database: *Provided further*, That the plan includes a process to ensure the protection of personally identifiable information and that all disclosures of foreign investments in agricultural land on the USDA website be disaggregated by: (1) in any case in which such foreign person is an individual, the citizenship of such foreign person; and (2) in any case in which such foreign person is not an individual or a government, the nature of the legal entity holding the interest, the country in which such foreign person is created or organized, and the principal place of business of such foreign person.”
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 117–328, div. A, title VII, § 773, Dec. 29, 2022, 136 Stat. 4509.
+Pub. L. 117–328, div. A, title VII, § 773, Dec. 29, 2022, 136 Stat. 4509.
 
-## § 3502. Civil penalty
+## § 3502. Civil penalty
 
 **(a)** If the Secretary determines that a person—
 
@@ -137,23 +137,23 @@ such person shall be subject to a civil penalty imposed by the Secretary. The am
 
 **(b)** The amount of any civil penalty imposed by the Secretary under subsection (a) of this section shall be such amount as the Secretary determines to be appropriate to carry out the purposes of this chapter, except that such amount shall not exceed 25 percent of the fair market value, on the date of the assessment of such penalty, of the interest in agricultural land with respect to which such violation occurred.
 
-(Pub. L. 95–460, § 3, Oct. 14, 1978, 92 Stat. 1265.)
+(Pub. L. 95–460, § 3, Oct. 14, 1978, 92 Stat. 1265.)
 
-## § 3503. Investigative actions
+## § 3503. Investigative actions
 
 The Secretary may take such actions as the Secretary considers necessary to monitor compliance with the provisions of this chapter and to determine whether the information contained in any report submitted under section 3501 of this title accurately and fully reveals the ownership interest of all foreign persons in any foreign person who is required to submit a report under such section.
 
-(Pub. L. 95–460, § 4, Oct. 14, 1978, 92 Stat. 1265.)
+(Pub. L. 95–460, § 4, Oct. 14, 1978, 92 Stat. 1265.)
 
-## § 3504. Repealed. Pub. L. 105–362, title I, § 101(f), Nov. 10, 1998, 112 Stat. 3281
+## § 3504. Repealed. Pub. L. 105–362, title I, § 101(f), Nov. 10, 1998, 112 Stat. 3281
 
-Section, Pub. L. 95–460, § 5, Oct. 14, 1978, 92 Stat. 1265; Pub. L. 104–66, title I, § 1012(g), Dec. 21, 1995, 109 Stat. 712, provided for reports to Congress and the President.
+Section, Pub. L. 95–460, § 5, Oct. 14, 1978, 92 Stat. 1265; Pub. L. 104–66, title I, § 1012(g), Dec. 21, 1995, 109 Stat. 712, provided for reports to Congress and the President.
 
-## § 3505. Reports to the States
+## § 3505. Reports to the States
 
 Not later than 30 days after the end of each 6-month period beginning after the effective date of section 3501 of this title, the Secretary shall transmit to each State department of agriculture, or such other appropriate State agency as the Secretary considers advisable, a copy of each report which was submitted to the Secretary under section 3501 of this title during such 6-month period and which involved agricultural land located in such State.
 
-(Pub. L. 95–460, § 6, Oct. 14, 1978, 92 Stat. 1266.)
+(Pub. L. 95–460, § 6, Oct. 14, 1978, 92 Stat. 1266.)
 
 **Editorial Notes**
 
@@ -161,19 +161,19 @@ Not later than 30 days after the end of each 6-month period beginning after the 
 
 For the effective date of section 3501 of this title, referred to in text, see section 10(b) of Pub. L. 95–460, set out as an Effective Date note under section 3501 of this title.
 
-## § 3506. Public inspection
+## § 3506. Public inspection
 
 Any report submitted to the Secretary under section 3501 of this title shall be available for public inspection at the Department of Agriculture located in the District of Columbia not later than 10 days after the date on which such report is received by the Secretary.
 
-(Pub. L. 95–460, § 7, Oct. 14, 1978, 92 Stat. 1266.)
+(Pub. L. 95–460, § 7, Oct. 14, 1978, 92 Stat. 1266.)
 
-## § 3507. Regulations
+## § 3507. Regulations
 
 Not later than 90 days after October 14, 1978, the Secretary shall prescribe regulations for purposes of carrying out the provisions of this chapter.
 
-(Pub. L. 95–460, § 8, Oct. 14, 1978, 92 Stat. 1266.)
+(Pub. L. 95–460, § 8, Oct. 14, 1978, 92 Stat. 1266.)
 
-## § 3508. Definitions
+## § 3508. Definitions
 
 For purposes of this chapter—
 
@@ -215,13 +215,13 @@ For purposes of this chapter—
 
 **(6)** the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or any other territory or possession of the United States.
 
-(Pub. L. 95–460, § 9, Oct. 14, 1978, 92 Stat. 1266.)
+(Pub. L. 95–460, § 9, Oct. 14, 1978, 92 Stat. 1266.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in par. (3)(A)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in par. (3)(A)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 **Executive Documents**
 

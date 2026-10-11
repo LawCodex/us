@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1303—LEGION OF VALOR OF THE UNITED STATES OF AMERICA, INCORPORATED"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1303—LEGION OF VALOR OF THE UNITED STATES OF AMERICA, INCORPORATED"
 identifier: "/us/usc/t36/stII/ptB/ch1303"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1303—LEGION OF VALOR OF THE UNITED STATES OF AMERICA, INCORPORATED
 
-## § 130301. Organization
+## § 130301. Organization
 
 **(a) Federal Charter.—** Legion of Valor of the United States of America, Incorporated (in this chapter, the “corporation”), is a federally chartered corporation.
 
@@ -31,10 +31,10 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130301(a) | 36:631 (related to creation and declaration of incorporation). 36:632. | Aug. 4, 1955, ch. 546, §§ 1, 2, 4(1), 69 Stat. 486, 487. |
+| 130301(a) | 36:631 (related to creation and declaration of incorporation). 36:632. | Aug. 4, 1955, ch. 546, §§ 1, 2, 4(1), 69 Stat. 486, 487. |
 | 130301(b) | 36:631 (related to place of incorporation and domicile). |  |
 | 130301(c) | 36:631 (related to perpetual succession). 36:634(1). |  |
-| 130301(d) | 36:648. | June 21, 1961, Pub. L. 87–56, § 1, 75 Stat. 95. |
+| 130301(d) | 36:648. | June 21, 1961, Pub. L. 87–56, § 1, 75 Stat. 95. |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
@@ -42,7 +42,7 @@ In subsection (a), the text of 36:632 is omitted as executed and obsolete.
 
 In subsection (d), the words “The corporation known as the Army and Navy Legion of Valor of the United States of America, Incorporated, which was incorporated by the Act entitled ‘An Act to Incorporate the Army and Navy Legion of Valor of the United States of America’, approved August 4, 1955 (69 Stat. 486), shall be known and designated on and after June 21, 1961 as the Legion of Valor of the United States of America, Incorporated, and” are omitted as executed. The words “such corporation under the name of” and “such corporation under and by the name of” are omitted as unnecessary. The words “is deemed” are substituted for “shall be held” for consistency in the revised title.
 
-## § 130302. Principles and purposes
+## § 130302. Principles and purposes
 
 **(a) Principles.—** The principles underlying the corporation are patriotic allegiance to the United States of America, fidelity to the constitution and laws of the United States, the security of civil liberty, and the permanence of free institutions.
 
@@ -64,11 +64,11 @@ In subsection (d), the words “The corporation known as the Army and Navy Legio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130302 | 36:633. | Aug. 4, 1955, ch. 546, § 3, 69 Stat. 487; June 21, 1961, Pub. L. 87–56, § 2, 75 Stat. 95. |
+| 130302 | 36:633. | Aug. 4, 1955, ch. 546, § 3, 69 Stat. 487; June 21, 1961, Pub. L. 87–56, § 2, 75 Stat. 95. |
 
 In subsection (b), the word “purposes” is substituted for “objects” for consistency in the revised title. The words “Navy Cross” are restated before “Air Force Cross” in accordance with the order preferred by the Legion of Valor of the United States of America, Incorporated.
 
-## § 130303. Membership
+## § 130303. Membership
 
 **(a) Eligibility.—** An individual is eligible for active membership in the corporation if the individual—
 
@@ -86,9 +86,9 @@ In subsection (b), the word “purposes” is substituted for “objects” for 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130303 | 36:636. | Aug. 4, 1955, ch. 546, § 6, 69 Stat. 488; June 21, 1961, Pub. L. 87–56, § 2, 75 Stat. 95. |
+| 130303 | 36:636. | Aug. 4, 1955, ch. 546, § 6, 69 Stat. 488; June 21, 1961, Pub. L. 87–56, § 2, 75 Stat. 95. |
 
-In subsection (a)(2), the words “has received” are substituted for “who have received or who may hereafter receive” to eliminate unnecessary words. The words “Navy Cross” are restated before “Air Force Cross” in accordance with the order preferred by the Legion of Valor of the United States of America, Incorporated. The words “as a member” are substituted for “are, have been, or may become members . . . of whatever rank” for clarity and to eliminate unnecessary words.
+In subsection (a)(2), the words “has received” are substituted for “who have received or who may hereafter receive” to eliminate unnecessary words. The words “Navy Cross” are restated before “Air Force Cross” in accordance with the order preferred by the Legion of Valor of the United States of America, Incorporated. The words “as a member” are substituted for “are, have been, or may become members . . . of whatever rank” for clarity and to eliminate unnecessary words.
 
 In subsection (b), the words “on terms” are substituted for “under such conditions and upon such terms” to eliminate unnecessary words.
 
@@ -96,7 +96,7 @@ In subsection (c), the words “the right to” are omitted as unnecessary.
 
 The text of 36:636(d) is omitted as obsolete.
 
-## § 130304. Governing body
+## § 130304. Governing body
 
 **(a) Board of Directors.—**
 
@@ -116,12 +116,12 @@ The text of 36:636(d) is omitted as obsolete.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130304(a) | 36:637. | Aug. 4, 1955, ch. 546, §§ 7, 8, 69 Stat. 488. |
+| 130304(a) | 36:637. | Aug. 4, 1955, ch. 546, §§ 7, 8, 69 Stat. 488. |
 | 130304(b) | 36:638. |  |
 
 In subsection (a), the text of 36:637(a) and the word “Thereafter” in 36:637(b) are omitted as executed and obsolete. In paragraph (1), the word “funds” is substituted for “finances” for consistency in the revised title.
 
-## § 130305. Powers
+## § 130305. Powers
 
 The corporation may—
 
@@ -145,7 +145,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130305 | 36:634(2)–(9). | Aug. 4, 1955, ch. 546, §§ 4(2)–(9), 16, 69 Stat. 487, 490. |
+| 130305 | 36:634(2)–(9). | Aug. 4, 1955, ch. 546, §§ 4(2)–(9), 16, 69 Stat. 487, 490. |
 |  | 36:646. |  |
 
 In this section, the text of 36:646 is omitted as executed and obsolete.
@@ -162,7 +162,7 @@ In clause (5), the words “for the purposes of the corporation” are omitted a
 
 In clause (7), the words “complain and defend in any court of competent jurisdiction” are omitted as unnecessary.
 
-## § 130306. Restrictions
+## § 130306. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -178,7 +178,7 @@ In clause (7), the words “complain and defend in any court of competent jurisd
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130306(a) | 36:642. | Aug. 4, 1955, ch. 546, §§ 9, 10, 12, 69 Stat. 489. |
+| 130306(a) | 36:642. | Aug. 4, 1955, ch. 546, §§ 9, 10, 12, 69 Stat. 489. |
 | 130306(b) | 36:640. |  |
 | 130306(c) | 36:639(a). |  |
 | 130306(d) | 36:639(b). |  |
@@ -189,7 +189,7 @@ In subsection (b), the words “or otherwise” are omitted as unnecessary.
 
 In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “as provided in section 645 of this title” are omitted as unnecessary. The words “This subsection does not prevent” are substituted for “Nothing in this subsection, however, shall be construed to prevent” for consistency in the revised title and to eliminate unnecessary words. The reference to the “executive committee of the corporation” is retained although 36:637 and 36:638 do not create an executive committee.
 
-## § 130307. Principal office
+## § 130307. Principal office
 
 The principal office of the corporation shall be in a place decided by the board of directors. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States.
 
@@ -199,11 +199,11 @@ The principal office of the corporation shall be in a place decided by the board
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130307 | 36:635(a). | Aug. 4, 1955, ch. 546, § 5(a), 69 Stat. 487. |
+| 130307 | 36:635(a). | Aug. 4, 1955, ch. 546, § 5(a), 69 Stat. 487. |
 
 The words “a place decided” are substituted for “Pittsburgh, Pennsylvania, or in such other place as may later be determined”, and the word “various” is omitted, to eliminate unnecessary words.
 
-## § 130308. Records and inspection
+## § 130308. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -221,11 +221,11 @@ The words “a place decided” are substituted for “Pittsburgh, Pennsylvania,
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130308 | 36:643. | Aug. 4, 1955, ch. 546, § 13, 69 Stat. 489. |
+| 130308 | 36:643. | Aug. 4, 1955, ch. 546, § 13, 69 Stat. 489. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 130309. Service of process
+## § 130309. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -235,9 +235,9 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130309 | 36:635(b). | Aug. 4, 1955, ch. 546, § 5(b), 69 Stat. 488. |
+| 130309 | 36:635(b). | Aug. 4, 1955, ch. 546, § 5(b), 69 Stat. 488. |
 
-## § 130310. Liability for acts of officers and agents
+## § 130310. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -247,9 +247,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130310 | 36:641. | Aug. 4, 1955, ch. 546, § 11, 69 Stat. 489. |
+| 130310 | 36:641. | Aug. 4, 1955, ch. 546, § 11, 69 Stat. 489. |
 
-## § 130311. Distribution of assets on dissolution or final liquidation
+## § 130311. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed as provided by the board of directors, but in compliance with the constitution and bylaws of the corporation.
 
@@ -259,6 +259,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130311 | 36:645. | Aug. 4, 1955, ch. 546, § 15, 69 Stat. 490. |
+| 130311 | 36:645. | Aug. 4, 1955, ch. 546, § 15, 69 Stat. 490. |
 
 The words “dissolution or final liquidation” are substituted for “final dissolution or liquidation” for consistency in the revised title. The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary. The words “as provided by” are substituted for “in accordance with the determination of” for consistency in the revised title. The words “all Federal and State laws applicable thereto” are omitted as unnecessary.

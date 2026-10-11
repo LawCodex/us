@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 87—KICKBACKS
 
-## § 8701. Definitions
+## § 8701. Definitions
 
 In this chapter:
 
@@ -41,13 +41,13 @@ In this chapter:
 
 **(9) Subcontractor employee.—** The term “subcontractor employee” means an officer, partner, employee, or agent of a subcontractor.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3838.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3838.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8701 | 41:52. | Mar. 8, 1946, ch. 80, § 2, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, § 2(a), Nov. 7, 1986, 100 Stat. 3523. |
+| 8701 | 41:52. | Mar. 8, 1946, ch. 80, § 2, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, § 2(a), Nov. 7, 1986, 100 Stat. 3523. |
 
 In this section, the text of 41:52(3) is omitted because of the definition of “person” in 1:1.
 
@@ -57,7 +57,7 @@ In paragraph (2), the words “directly or indirectly” are omitted as unnecess
 
 Senate amendment 4726 (111th Cong.) added par. (3) and redesignated former pars. (3) to (8) as (4) to (9), respectively. See 156 Cong. Rec. 18683 (2010).
 
-## § 8702. Prohibited conduct
+## § 8702. Prohibited conduct
 
 A person may not—
 
@@ -71,17 +71,17 @@ A person may not—
 
 **(B)** a prime contractor charges the Federal Government.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3839.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3839.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8702 | 41:53. | Mar. 8, 1946, ch. 80, § 3, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, § 2(a), Nov. 7, 1986, 100 Stat. 3524. |
+| 8702 | 41:53. | Mar. 8, 1946, ch. 80, § 3, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, § 2(a), Nov. 7, 1986, 100 Stat. 3524. |
 
 In paragraph (3), before subparagraph (A), the words “directly or indirectly” are omitted as unnecessary.
 
-## § 8703. Contractor responsibilities
+## § 8703. Contractor responsibilities
 
 **(a) Requirements Included in Contracts.—** Each contracting agency shall include in each prime contract awarded by the agency a requirement that the prime contractor shall—
 
@@ -103,13 +103,13 @@ In paragraph (3), before subparagraph (A), the words “directly or indirectly�
 
 **(2)** for the acquisition of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title).
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3839; Pub. L. 115–232, div. A, title VIII, § 836(b)(20), Aug. 13, 2018, 132 Stat. 1864.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3839; Pub. L. 115–232, div. A, title VIII, § 836(b)(20), Aug. 13, 2018, 132 Stat. 1864.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8703(a) | 41:57(a), (b). | Mar. 8, 1946, ch. 80, § 7, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, § 2(a), Nov. 7, 1986, 100 Stat. 3525; Pub. L. 103–355, title IV, § 4104(a), title VIII, § 8301(c)(1), Oct. 13, 1994, 108 Stat. 3341, 3397; Pub. L. 104–106, div. D, title XLIII, § 4321(g), Feb. 10, 1996, 110 Stat. 675. |
+| 8703(a) | 41:57(a), (b). | Mar. 8, 1946, ch. 80, § 7, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, § 2(a), Nov. 7, 1986, 100 Stat. 3525; Pub. L. 103–355, title IV, § 4104(a), title VIII, § 8301(c)(1), Oct. 13, 1994, 108 Stat. 3341, 3397; Pub. L. 104–106, div. D, title XLIII, § 4321(g), Feb. 10, 1996, 110 Stat. 675. |
 | 8703(b) | 41:57(e). |  |
 | 8703(c) | 41:57(c). |  |
 | 8703(d) | 41:57(d). |  |
@@ -128,19 +128,19 @@ In subsection (c)(1), the words “Attorney General” are substituted for “De
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 8704. Inspection authority
+## § 8704. Inspection authority
 
 **(a) In General.—** To ascertain whether there has been a violation of section 8702 of this title with respect to a prime contract, the Comptroller General and the inspector general of the contracting agency, or a representative of the contracting agency designated by the head of the agency if the agency does not have an inspector general, shall have access to and may inspect the facilities and audit the books and records, including electronic data or records, of a prime contractor or subcontractor under a prime contract awarded by the agency.
 
 **(b) Exception.—** This section does not apply to a prime contract for the acquisition of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title).
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3839; Pub. L. 115–232, div. A, title VIII, § 836(b)(20), Aug. 13, 2018, 132 Stat. 1864.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3839; Pub. L. 115–232, div. A, title VIII, § 836(b)(20), Aug. 13, 2018, 132 Stat. 1864.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8704 | 41:58. | Mar. 8, 1946, ch. 80, § 8, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, § 2(a), Nov. 7, 1986, 100 Stat. 3525; Pub. L. 103–355, title VIII, § 8301(c)(2), Oct. 13, 1994, 108 Stat. 3397. |
+| 8704 | 41:58. | Mar. 8, 1946, ch. 80, § 8, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, § 2(a), Nov. 7, 1986, 100 Stat. 3525; Pub. L. 103–355, title VIII, § 8301(c)(2), Oct. 13, 1994, 108 Stat. 3397. |
 
 In subsection (a), the words “Comptroller General” are substituted for “General Accounting Office” because of 31:702.
 
@@ -156,7 +156,7 @@ In subsection (a), the words “Comptroller General” are substituted for “Ge
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 8705. Administrative offsets
+## § 8705. Administrative offsets
 
 **(a) Definition.—** In this section, the term “contracting officer” has the meaning given that term in chapter 71 of this title.
 
@@ -174,18 +174,18 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(d) Offset, Direction, or Order is Claim of Federal Government.—** An offset under subsection (b) or a direction or order of a contracting officer under subsection (c) is a claim by the Federal Government for the purposes of chapter 71 of this title.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3840.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3840.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8705(a) | 41:56(d). | Mar. 8, 1946, ch. 80, § 6, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, § 2(a), Nov. 7, 1986, 100 Stat. 3524. |
+| 8705(a) | 41:56(d). | Mar. 8, 1946, ch. 80, § 6, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, § 2(a), Nov. 7, 1986, 100 Stat. 3524. |
 | 8705(b) | 41:56(a). |  |
 | 8705(c) | 41:56(b). |  |
 | 8705(d) | 41:56(c). |  |
 
-## § 8706. Civil actions
+## § 8706. Civil actions
 
 **(a) Amount.—** The Federal Government in a civil action may recover from a person—
 
@@ -203,22 +203,22 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(2)** the Federal Government first knew or should reasonably have known that the prohibited conduct had occurred.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3840.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3840.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8706 | 41:55. | Mar. 8, 1946, ch. 80, § 5, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, § 2(a), Nov. 7, 1986, 100 Stat. 3524. |
+| 8706 | 41:55. | Mar. 8, 1946, ch. 80, § 5, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, § 2(a), Nov. 7, 1986, 100 Stat. 3524. |
 
-## § 8707. Criminal penalties
+## § 8707. Criminal penalties
 
 A person that knowingly and willfully engages in conduct prohibited by section 8702 of this title shall be fined under title 18, imprisoned for not more than 10 years, or both.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3841.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3841.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8707 | 41:54. | Mar. 8, 1946, ch. 80, § 4, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, § 2(a), Nov. 7, 1986, 100 Stat. 3524. |
+| 8707 | 41:54. | Mar. 8, 1946, ch. 80, § 4, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, § 2(a), Nov. 7, 1986, 100 Stat. 3524. |

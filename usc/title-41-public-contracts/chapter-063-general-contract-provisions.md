@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2024—Pub. L. 118–74, § 2(a)(2), July 30, 2024, 138 Stat. 1506, added item 6310.
+2024—Pub. L. 118–74, § 2(a)(2), July 30, 2024, 138 Stat. 1506, added item 6310.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Federal Contractor Authority**
 
-Pub. L. 116–136, div. A, title III, § 3610, Mar. 27, 2020, 134 Stat. 414, as amended by Pub. L. 117–2, title IV, § 4015, Mar. 11, 2021, 135 Stat. 80, provided that: “Notwithstanding any other provision of law, and subject to the availability of appropriations, funds made available to an agency by this Act [div. A of Pub. L. 116–136, see Tables for classification] or any other Act may be used by such agency to modify the terms and conditions of a contract, or other agreement, without consideration, to reimburse at the minimum applicable contract billing rates not to exceed an average of 40 hours per week any paid leave, including sick leave, a contractor provides to keep its employees or subcontractors in a ready state, including to protect the life and safety of Government and contractor personnel, but in no event beyond September 30, 2021. Such authority shall apply only to a contractor whose employees or subcontractors cannot perform work on a site that has been approved by the Federal Government, including a federally-owned or leased facility or site, due to facility closures or other restrictions, and who cannot telework because their job duties cannot be performed remotely during the public health emergency declared on January 31, 2020 for COVID–19: *Provided*, That the maximum reimbursement authorized by this section shall be reduced by the amount of credit a contractor is allowed pursuant to division G [§§ 7001–7005] of Public Law 116–127 [set out as notes under sections 1401 and 3111 of Title 26, Internal Revenue Code] and any applicable credits a contractor is allowed under this Act.”
+Pub. L. 116–136, div. A, title III, § 3610, Mar. 27, 2020, 134 Stat. 414, as amended by Pub. L. 117–2, title IV, § 4015, Mar. 11, 2021, 135 Stat. 80, provided that: “Notwithstanding any other provision of law, and subject to the availability of appropriations, funds made available to an agency by this Act [div. A of Pub. L. 116–136, see Tables for classification] or any other Act may be used by such agency to modify the terms and conditions of a contract, or other agreement, without consideration, to reimburse at the minimum applicable contract billing rates not to exceed an average of 40 hours per week any paid leave, including sick leave, a contractor provides to keep its employees or subcontractors in a ready state, including to protect the life and safety of Government and contractor personnel, but in no event beyond September 30, 2021. Such authority shall apply only to a contractor whose employees or subcontractors cannot perform work on a site that has been approved by the Federal Government, including a federally-owned or leased facility or site, due to facility closures or other restrictions, and who cannot telework because their job duties cannot be performed remotely during the public health emergency declared on January 31, 2020 for COVID–19: *Provided*, That the maximum reimbursement authorized by this section shall be reduced by the amount of credit a contractor is allowed pursuant to division G [§§ 7001–7005] of Public Law 116–127 [set out as notes under sections 1401 and 3111 of Title 26, Internal Revenue Code] and any applicable credits a contractor is allowed under this Act.”
 
-[Pub. L. 116–260, div. N, title X, § 1002, Dec. 27, 2020, 134 Stat. 2145, provided that: “Section 3610 of division A of the CARES Act (Public Law 116–136) [set out above] shall be applied by substituting ‘March 31, 2021’ for ‘September 30, 2020’.” ]
+[Pub. L. 116–260, div. N, title X, § 1002, Dec. 27, 2020, 134 Stat. 2145, provided that: “Section 3610 of division A of the CARES Act (Public Law 116–136) [set out above] shall be applied by substituting ‘March 31, 2021’ for ‘September 30, 2020’.” ]
 
 **Executive Documents**
 
 **Ex. Ord. No. 13658. Establishing a Minimum Wage for Contractors**
 
-Ex. Ord. No. 13658, Feb. 12, 2014, 79 F.R. 9851, as amended by Ex. Ord. 13838, § 2, May 25, 2018, 83 F.R. 25341, provided:
+Ex. Ord. No. 13658, Feb. 12, 2014, 79 F.R. 9851, as amended by Ex. Ord. 13838, § 2, May 25, 2018, 83 F.R. 25341, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act [of 1949], 40 U.S.C. 101 *et seq*., and in order to promote economy and efficiency in procurement by contracting with sources who adequately compensate their workers, it is hereby ordered as follows:
 
@@ -217,21 +217,21 @@ Barack Obama.
 
 **Executive Order No. 13838**
 
-Ex. Ord. No. 13838, May 25, 2018, 83 F.R. 25341, which related to an exemption from the minimum wage requirements for contractors established by Ex. Ord. No. 13658 (set out above) for recreational services on Federal lands, was revoked, effective Jan. 30, 2022, by Ex. Ord. No. 14026, § 6, Apr. 27, 2021, 86 F.R. 22836, set out below.
+Ex. Ord. No. 13838, May 25, 2018, 83 F.R. 25341, which related to an exemption from the minimum wage requirements for contractors established by Ex. Ord. No. 13658 (set out above) for recreational services on Federal lands, was revoked, effective Jan. 30, 2022, by Ex. Ord. No. 14026, § 6, Apr. 27, 2021, 86 F.R. 22836, set out below.
 
 **Executive Order No. 14026**
 
-Ex. Ord. No. 14026, Apr. 27, 2021, 86 F.R. 22835, which related to increasing the minimum wage for Federal contractors, was revoked by Ex. Ord. No. 14236, § 2(d), Mar. 14, 2025, 90 F.R. 13037.
+Ex. Ord. No. 14026, Apr. 27, 2021, 86 F.R. 22835, which related to increasing the minimum wage for Federal contractors, was revoked by Ex. Ord. No. 14236, § 2(d), Mar. 14, 2025, 90 F.R. 13037.
 
 **Executive Order No. 14042**
 
-Ex. Ord. No. 14042, Sept. 9, 2021, 86 F.R. 50985, which related to COVID safety protocols for Federal contractors, was revoked by Ex. Ord. No. 14099, § 2, May 9, 2023, 88 F.R. 30891, and Ex. Ord. No. 14174, § 1(a), Jan. 21, 2025, 90 F.R. 8637.
+Ex. Ord. No. 14042, Sept. 9, 2021, 86 F.R. 50985, which related to COVID safety protocols for Federal contractors, was revoked by Ex. Ord. No. 14099, § 2, May 9, 2023, 88 F.R. 30891, and Ex. Ord. No. 14174, § 1(a), Jan. 21, 2025, 90 F.R. 8637.
 
 **Executive Order No. 14069**
 
-Ex. Ord. No. 14069, Mar. 15, 2022, 87 F.R. 15315, which related to promoting pay equity and transparency in Federal contracting, was revoked by Ex. Ord. No. 14148, § 2(tt), Jan. 20, 2025, 90 F.R. 8239.
+Ex. Ord. No. 14069, Mar. 15, 2022, 87 F.R. 15315, which related to promoting pay equity and transparency in Federal contracting, was revoked by Ex. Ord. No. 14148, § 2(tt), Jan. 20, 2025, 90 F.R. 8239.
 
-## § 6301. Authorization requirement
+## § 6301. Authorization requirement
 
 **(a) In General.—** A contract or purchase on behalf of the Federal Government shall not be made unless the contract or purchase is authorized by law or is under an appropriation adequate to its fulfillment.
 
@@ -251,67 +251,67 @@ Ex. Ord. No. 14069, Mar. 15, 2022, 87 F.R. 15315, which related to promoting pay
 
 **(c) Special Rule for Purchase of Land.—** Land may not be purchased by the Federal Government unless the purchase is authorized by law.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3803; Pub. L. 111–281, title IX, § 903(a)(4), Oct. 15, 2010, 124 Stat. 3010.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3803; Pub. L. 111–281, title IX, § 903(a)(4), Oct. 15, 2010, 124 Stat. 3010.)
 
 **Amendment Not Shown in Text**
 
-Subsecs. (a) and (b) of this section are derived from section 11 of former Title 41, Public Contracts, which was amended by Pub. L. 111–281, title IX, § 903(a)(4), Oct. 15, 2010, 124 Stat. 3010, prior to being repealed and reenacted as subsecs. (a) and (b) of this section by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 903 of Pub. L. 111–281 provided that, effective with the enactment of Pub. L. 109–241, section 902(c) of Pub. L. 109–241, which amended section 3732 of the Revised Statutes, is amended by inserting in the directory language, “of the United States” after “Revised Statutes”, resulting in no change in text.
+Subsecs. (a) and (b) of this section are derived from section 11 of former Title 41, Public Contracts, which was amended by Pub. L. 111–281, title IX, § 903(a)(4), Oct. 15, 2010, 124 Stat. 3010, prior to being repealed and reenacted as subsecs. (a) and (b) of this section by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 903 of Pub. L. 111–281 provided that, effective with the enactment of Pub. L. 109–241, section 902(c) of Pub. L. 109–241, which amended section 3732 of the Revised Statutes, is amended by inserting in the directory language, “of the United States” after “Revised Statutes”, resulting in no change in text.
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6301(a) | 41:11(a) (words before 2nd comma). | R.S. § 3732; Pub. L. 89–687, title VI, § 612(e), Oct. 15, 1966, 80 Stat. 993; Pub. L. 98–557, § 17(e)(1), (2), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 104–106, div. D, title XLIII, § 4322(b)(4), Feb. 10, 1996, 110 Stat. 677; Pub. L. 109–241, title IX, § 902(c), July 11, 2006, 120 Stat. 566. |
+| 6301(a) | 41:11(a) (words before 2nd comma). | R.S. § 3732; Pub. L. 89–687, title VI, § 612(e), Oct. 15, 1966, 80 Stat. 993; Pub. L. 98–557, § 17(e)(1), (2), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 104–106, div. D, title XLIII, § 4322(b)(4), Feb. 10, 1996, 110 Stat. 677; Pub. L. 109–241, title IX, § 902(c), July 11, 2006, 120 Stat. 566. |
 | 6301(b) | 41:11(a) (words after 2nd comma), (b). |  |
-| 6301(c) | 41:14. | R.S. § 3736. |
+| 6301(c) | 41:14. | R.S. § 3736. |
 
 In subsection (b)(1)(A), the words “Secretary of Defense” are substituted for “Department of Defense” because of 10:113.
 
 In subsection (b)(1)(B), the words “Secretary of Homeland Security” are substituted for “Department of Homeland Security” because of section 102(a)(2) of the Homeland Security Act of 2002 (6 U.S.C. 112(a)(2)).
 
-## § 6302. Contracts for fuel made by Secretary of the Army
+## § 6302. Contracts for fuel made by Secretary of the Army
 
 The Secretary of the Army, when the Secretary believes it is in the interest of the United States, may enter into contracts and incur obligations for fuel in sufficient quantities to meet the requirements for one year without regard to the current fiscal year. Amounts appropriated for the fiscal year in which the contract is made or amounts appropriated or which may be appropriated for the following fiscal year may be used to pay for supplies delivered under a contract made pursuant to this section.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3804.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3804.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6302 | 41:11a. | June 30, 1921, ch. 33, § 1 (last proviso on p. 78), 42 Stat. 78. |
+| 6302 | 41:11a. | June 30, 1921, ch. 33, § 1 (last proviso on p. 78), 42 Stat. 78. |
 
 The words “Secretary of the Army” are substituted for “Secretary of War” because of section 205(a) of the National Security Act of 1947 (ch. 343, 61 Stat. 501). Section 205(a) was repealed by section 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 676). Section 1 of the Act of August 10, 1956 (70A Stat. 1) enacted Title 10, “Armed Forces”, and under sections 3011 to 3013 of title 10, the Department of the Army remains under the administrative supervision of the Secretary of the Army.
 
-## § 6303. Certain contracts limited to appropriated amounts
+## § 6303. Certain contracts limited to appropriated amounts
 
 A contract to erect, repair, or furnish a public building, or to make any public improvement, shall not be made on terms requiring the Federal Government to pay more than the amount specifically appropriated for the activity covered by the contract.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3804.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3804.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6303 | 41:12. | R.S. § 3733. |
+| 6303 | 41:12. | R.S. § 3733. |
 
 The words “the activity covered by the contract” are substituted for “the specific purpose” for clarity.
 
-## § 6304. Certain contracts limited to one-year term
+## § 6304. Certain contracts limited to one-year term
 
 Except as otherwise provided, an executive department shall not make a contract for stationery or other supplies for a term longer than one year from the time the contract is made.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3804.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3804.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6304 | 41:13. | R.S. § 3735. |
+| 6304 | 41:13. | R.S. § 3735. |
 
 The words “an executive department shall not” are substituted for “it shall not be lawful for any of the executive departments to” to state the legal prohibition directly and to eliminate unnecessary words.
 
-## § 6305. Prohibition on transfer of contract and certain allowable assignments
+## § 6305. Prohibition on transfer of contract and certain allowable assignments
 
 **(a) General Prohibition on Transfer of Contracts.—** The party to whom the Federal Government gives a contract or order may not transfer the contract or order, or any interest in the contract or order, to another party. A purported transfer in violation of this subsection annuls the contract or order so far as the Federal Government is concerned, except that all rights of action for breach of contract are reserved to the Federal Government.
 
@@ -357,13 +357,13 @@ The words “an executive department shall not” are substituted for “it shal
 
 **(C) Limitation.—** Subparagraph (B)(iv) does not apply to amounts which may be collected or withheld from the assignor in accordance with or for failure to comply with the terms of the contract.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3804.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3804.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6305(a) | 41:15(a). | R.S. § 3737; Oct. 9, 1940, ch. 779, § 1, 54 Stat. 1029; May 15, 1951, ch. 75, 65 Stat. 41; Pub. L. 103–355, title II, § 2451, Oct. 13, 1994, 108 Stat. 3324; Pub. L. 104–106, div. D, title XLIII, § 4321(i)(9), Feb. 10, 1996, 110 Stat. 676. |
+| 6305(a) | 41:15(a). | R.S. § 3737; Oct. 9, 1940, ch. 779, § 1, 54 Stat. 1029; May 15, 1951, ch. 75, 65 Stat. 41; Pub. L. 103–355, title II, § 2451, Oct. 13, 1994, 108 Stat. 3324; Pub. L. 104–106, div. D, title XLIII, § 4321(i)(9), Feb. 10, 1996, 110 Stat. 676. |
 | 6305(b)(1) | 41:15(b) (words before par. (1) less words related to minimum amount). |  |
 | 6305(b)(2) | 41:15(b) (words before par. (1) related to minimum amount). |  |
 | 6305(b)(3) | 41:15(b)(1). |  |
@@ -384,11 +384,11 @@ In subsection (b)(3), the words “in the case of any contract entered into afte
 
 In subsection (b)(5), the words “participating in such financing” are omitted as unnecessary.
 
-In subsection (b)(8), the words “is not liable to make any refund to the Federal Government” are substituted for “no [liability] . . . shall create or impose any liability on the part of the assignee to make restitution, refund, or repayment to the United States of any amount heretofore since July 1, 1950, or hereafter received under the assignment” to eliminate unnecessary words. The words “an assignor’s liability to the Federal Government” are substituted for “liability of any nature of the assignor to the United States or any department or agency thereof ” for clarity and to eliminate unnecessary words.
+In subsection (b)(8), the words “is not liable to make any refund to the Federal Government” are substituted for “no [liability] . . . shall create or impose any liability on the part of the assignee to make restitution, refund, or repayment to the United States of any amount heretofore since July 1, 1950, or hereafter received under the assignment” to eliminate unnecessary words. The words “an assignor’s liability to the Federal Government” are substituted for “liability of any nature of the assignor to the United States or any department or agency thereof ” for clarity and to eliminate unnecessary words.
 
 In subsection (b)(9)(A), the words “except any such contract under which full payment has been made” are omitted as unnecessary because subsection (b)(8) precludes refund where full payment has already been made. The words “payments made to an assignee under the contract” are substituted for “payments to be made to the assignee of any moneys due or to become due under such contract” to eliminate unnecessary words.
 
-In subsection (b)(9)(B), the words “When a ‘no reduction or setoff ’ provision as described in subparagraph (A) is included in a contract” are substituted for “If a provision described in subsection (e) of this section or a provision to the same general effect has been at any time heretofore or is hereafter included or inserted in any such contract”, the words “payments to the assignee” are substituted for “payments to be made thereafter to an assignee of any moneys due or to become due”, and the words “an assignor’s liability” are substituted for “any liability of any nature of the assignor to the United States or any department or agency thereof ”, for clarity and to eliminate unnecessary words.
+In subsection (b)(9)(B), the words “When a ‘no reduction or setoff ’ provision as described in subparagraph (A) is included in a contract” are substituted for “If a provision described in subsection (e) of this section or a provision to the same general effect has been at any time heretofore or is hereafter included or inserted in any such contract”, the words “payments to the assignee” are substituted for “payments to be made thereafter to an assignee of any moneys due or to become due”, and the words “an assignor’s liability” are substituted for “any liability of any nature of the assignor to the United States or any department or agency thereof ”, for clarity and to eliminate unnecessary words.
 
 In subsection (b)(9)(C), the text of 40:15(g), which provided that nothing in 40:15 affected rights and obligations accrued before subsection (g) was added by the Act of May 15, 1951 (ch. 75, 65 Stat. 41), is omitted as obsolete.
 
@@ -400,7 +400,7 @@ Memorandum of President of the United States, Oct. 3, 1995, 60 F.R. 52289, provi
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Section 2451 of the Federal Acquisition Streamlining Act of 1994, Public Law 103–355 ([amending former] 41 U.S.C. 15 [see 41 U.S.C. 6305]) (“Act”), provides, in part, that “[a]ny contract of the Department of Defense, the General Services Administration, the Department of Energy or any other department or agency of the United States designated by the President, except [contracts where] . . . full payment has been made, may, upon a determination of need by the President, provide or be amended without consideration to provide that payments to be made to the assignee of any moneys due or to become due under [the] contract shall not be subject to reduction or set-off.”
+Section 2451 of the Federal Acquisition Streamlining Act of 1994, Public Law 103–355 ([amending former] 41 U.S.C. 15 [see 41 U.S.C. 6305]) (“Act”), provides, in part, that “[a]ny contract of the Department of Defense, the General Services Administration, the Department of Energy or any other department or agency of the United States designated by the President, except [contracts where] . . . full payment has been made, may, upon a determination of need by the President, provide or be amended without consideration to provide that payments to be made to the assignee of any moneys due or to become due under [the] contract shall not be subject to reduction or set-off.”
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby designate all other departments and agencies of the United States as subject to this provision. Furthermore, I hereby delegate to the Secretaries of Defense and Energy, the Administrator of General Services, and the heads of all other departments and agencies, the authority under section 2451 of the Act to make determinations of need for their respective agency’s contracts, subject to such further guidance as issued by the Office of Federal Procurement Policy.
 
@@ -410,7 +410,7 @@ This memorandum shall be published in the Federal Register.
 
 William J. Clinton.
 
-## § 6306. Prohibition on Members of Congress making contracts with Federal Government
+## § 6306. Prohibition on Members of Congress making contracts with Federal Government
 
 **(a) In General.—** A Member of Congress may not enter into or benefit from a contract or agreement or any part of a contract or agreement with the Federal Government.
 
@@ -428,14 +428,14 @@ William J. Clinton.
 
 **(3) Public record.—** An exemption under this subsection shall be made a matter of public record.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3805.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3805.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6306(a) | 41:22 (1st sentence). | R.S. § 3741; Feb. 27, 1877, ch. 69, (16th complete par. on p. 249), 19 Stat. 249; Pub. L. 103–355, title VI, § 6004, Oct. 13, 1994, 108 Stat. 3364; Pub. L. 104–106, div. D, title XLIII, § 4321(i)(12), Feb. 10, 1996, 110 Stat. 676. |
-| 6306(b) | 41:22 (last sentence). | Jan. 25, 1934, ch. 5, (related to R.S. § 3741), 48 Stat. 337; June 27, 1934, ch. 847, title V, § 510, 48 Stat. 1264; Aug. 26, 1937, ch. 821, 50 Stat. 838. |
+| 6306(a) | 41:22 (1st sentence). | R.S. § 3741; Feb. 27, 1877, ch. 69, (16th complete par. on p. 249), 19 Stat. 249; Pub. L. 103–355, title VI, § 6004, Oct. 13, 1994, 108 Stat. 3364; Pub. L. 104–106, div. D, title XLIII, § 4321(i)(12), Feb. 10, 1996, 110 Stat. 676. |
+| 6306(b) | 41:22 (last sentence). | Jan. 25, 1934, ch. 5, (related to R.S. § 3741), 48 Stat. 337; June 27, 1934, ch. 847, title V, § 510, 48 Stat. 1264; Aug. 26, 1937, ch. 821, 50 Stat. 838. |
 
 In subsection (b)(2), the words “Emergency Farm Mortgage Act of 1933” and “Federal Farm Mortgage Corporation Act” are omitted because all provisions of those Acts have previously been executed or repealed.
 
@@ -443,11 +443,11 @@ In subsection (b)(2)(B), the words “Farm Credit Act of 1971 (12 U.S.C. 2001 et
 
 In subsection (b)(2)(C), the words “Home Owners’ Loan Act” are substituted for “Home Owners’ Loan Act of 1933” because of the amendment to 12:1461 made by Public Law 101–73.
 
-## § 6307. Contracts with Federal Government-owned establishments and availability of appropriations
+## § 6307. Contracts with Federal Government-owned establishments and availability of appropriations
 
 An order or contract placed with a Federal Government-owned establishment for work, material, or the manufacture of material pertaining to an approved project is deemed to be an obligation in the same manner that a similar order or contract placed with a commercial manufacturer or private contractor is an obligation. Appropriations remain available to pay an obligation to a Federal Government-owned establishment just as appropriations remain available to pay an obligation to a commercial manufacturer or private contractor.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3806.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3806.)
 
 **Historical and Revision Notes**
 
@@ -458,11 +458,11 @@ An order or contract placed with a Federal Government-owned establishment for wo
 
 The words “heretofore or” are omitted as obsolete. The word “hereafter” is omitted as unnecessary because the provision is restated as permanent law rather than as part of a fiscal year appropriation.
 
-## § 6308. Contracts for transportation of Federal Government securities
+## § 6308. Contracts for transportation of Federal Government securities
 
 When practicable, a contract for transporting bullion, cash, or securities of the Federal Government shall be awarded to the lowest responsible bidder after notice to all parties with means of transportation.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3806.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3806.)
 
 **Historical and Revision Notes**
 
@@ -472,7 +472,7 @@ When practicable, a contract for transporting bullion, cash, or securities of th
 
 The words “bullion, cash, or securities of the Federal Government” are substituted for “moneys, bullion, coin, notes, bonds, and other securities of the United States, and paper” to eliminate unnecessary words. The word “awarded” is substituted for “let” to use more modern terminology.
 
-## § 6309. Honorable discharge certificate in lieu of birth certificate
+## § 6309. Honorable discharge certificate in lieu of birth certificate
 
 **(a) In General.—** An employer described in subsection (b) may not deny employment, on account of failure to produce a birth certificate, to an individual who submits, in lieu of the birth certificate, an honorable discharge certificate (or certificate issued in lieu of an honorable discharge certificate) from the Army, Air Force, Navy, Marine Corps, Space Force, or Coast Guard of the United States, unless the honorable discharge certificate shows on its face that the individual may have been an alien at the time of its issuance.
 
@@ -490,14 +490,14 @@ The words “bullion, cash, or securities of the Federal Government” are subst
 
 **(B)** any contract that the President, the Secretary of the Army, the Secretary of the Air Force, the Secretary of the Navy, or the Secretary of the Department in which the Coast Guard is operating certifies to the employer to be necessary to the national defense.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3806; Pub. L. 116–283, div. A, title IX, § 927(e), Jan. 1, 2021, 134 Stat. 3832.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3806; Pub. L. 116–283, div. A, title IX, § 927(e), Jan. 1, 2021, 134 Stat. 3832.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6309(a) | 41:49. | June 22, 1942, ch. 432, § 1, 56 Stat. 375. |
-| 6309(b) | 41:50. | June 22, 1942, ch. 432, § 2, 56 Stat. 376; Pub. L. 97–31, § 12(16), Aug. 6, 1981, 95 Stat. 154. |
+| 6309(a) | 41:49. | June 22, 1942, ch. 432, § 1, 56 Stat. 375. |
+| 6309(b) | 41:50. | June 22, 1942, ch. 432, § 2, 56 Stat. 376; Pub. L. 97–31, § 12(16), Aug. 6, 1981, 95 Stat. 154. |
 
 In subsection (a), the words “Air Force” are added because of section 207(a) and (f) of the National Security Act of 1947 (ch. 343, 61 Stat. 502, 503). Section 207(a) and (f) was repealed by section 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 676). Section 1 of the Act of August 10, 1956 (70A Stat. 1) enacted Title 10, “Armed Forces” and under subtitle D of title 10 the Department of the Air Force remained an independent administrative entity in the Department of Defense.
 
@@ -511,7 +511,7 @@ In subsection (b)(2)(B), the words “Secretary of the Army” are substituted f
 
 2021—Subsec. (a). Pub. L. 116–283 inserted “Space Force,” after “Marine Corps,”.
 
-## § 6310. Requirement for agencies to buy domestically made United States flags
+## § 6310. Requirement for agencies to buy domestically made United States flags
 
 **(a) Requirement.—** Except as provided in subsections (b) through (d), funds appropriated or otherwise available to an agency may not be used for the procurement of any flag of the United States, unless such flag has been 100 percent manufactured in the United States from articles, materials, or supplies that have been grown or 100 percent produced or manufactured in the United States.
 
@@ -537,10 +537,10 @@ In subsection (b)(2)(B), the words “Secretary of the Army” are substituted f
 
 **(2) Simplified acquisition threshold.—** The term “simplified acquisition threshold” has the meaning given that term in section 134.
 
-(Added Pub. L. 118–74, § 2(a)(1), July 30, 2024, 138 Stat. 1505.)
+(Added Pub. L. 118–74, § 2(a)(1), July 30, 2024, 138 Stat. 1505.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 118–74, § 2(b), July 30, 2024, 138 Stat. 1506, provided that: “Section 6310 of title 41, United States Code, as added by subsection (a)(1), shall apply with respect to any contract entered into on or after the date that is 180 days after the date of the enactment of this Act [July 30, 2024].”
+Pub. L. 118–74, § 2(b), July 30, 2024, 138 Stat. 1506, provided that: “Section 6310 of title 41, United States Code, as added by subsection (a)(1), shall apply with respect to any contract entered into on or after the date that is 180 days after the date of the enactment of this Act [July 30, 2024].”

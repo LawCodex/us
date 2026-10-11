@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2016—Pub. L. 114–328, div. A, title XII, § 1241(a)(1), (*o*)(2), Dec. 23, 2016, 130 Stat. 2497, 2512, renumbered chapter 13 of this title “THE MILITIA” as chapter 12, redesignated item 311 “Militia: composition and classes” as item 246, and redesignated item 312 “Militia duty: exemptions” as item 247.
+2016—Pub. L. 114–328, div. A, title XII, § 1241(a)(1), (*o*)(2), Dec. 23, 2016, 130 Stat. 2497, 2512, renumbered chapter 13 of this title “THE MILITIA” as chapter 12, redesignated item 311 “Militia: composition and classes” as item 246, and redesignated item 312 “Militia duty: exemptions” as item 247.
 
-## § 246. Militia: composition and classes
+## § 246. Militia: composition and classes
 
 **(a)** The militia of the United States consists of all able-bodied males at least 17 years of age and, except as provided in section 313 of title 32, under 45 years of age who are, or who have made a declaration of intention to become, citizens of the United States and of female citizens of the United States who are members of the National Guard.
 
@@ -31,7 +31,7 @@ retrieved: 2026-10-11
 
 **(2)** the unorganized militia, which consists of the members of the militia who are not members of the National Guard or the Naval Militia.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 14, § 311; Pub. L. 85–861, § 1(7), Sept. 2, 1958, 72 Stat. 1439; Pub. L. 103–160, div. A, title V, § 524(a), Nov. 30, 1993, 107 Stat. 1656; renumbered § 246, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 14, § 311; Pub. L. 85–861, § 1(7), Sept. 2, 1958, 72 Stat. 1439; Pub. L. 103–160, div. A, title V, § 524(a), Nov. 30, 1993, 107 Stat. 1656; renumbered § 246, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Historical and Revision Notes**
 
@@ -39,9 +39,9 @@ retrieved: 2026-10-11
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 311(a) 311(b) | 32:1 (less last 19 words). 32:1 (last 19 words). | June 3, 1916, ch. 134, § 57, 39 Stat. 197; June 28, 1947, ch. 162, § 7 (as applicable to § 57 of the Act of June 3, 1916, ch. 134), 61 Stat. 192. |
+| 311(a) 311(b) | 32:1 (less last 19 words). 32:1 (last 19 words). | June 3, 1916, ch. 134, § 57, 39 Stat. 197; June 28, 1947, ch. 162, § 7 (as applicable to § 57 of the Act of June 3, 1916, ch. 134), 61 Stat. 192. |
 
-In subsection (a), the words “who have made a declaration of intention” are substituted for the words “who have or shall have declared their intention”. The words “at least 17 years of age and \* \* \* under 45 years of age” are substituted for the words “who shall be more than seventeen years of age and \* \* \* not more than forty-five years of age”. The words “except as provided in section 313 of title 32” are substituted for the words “except as hereinafter provided”, to make explicit the exception as to maximum age.
+In subsection (a), the words “who have made a declaration of intention” are substituted for the words “who have or shall have declared their intention”. The words “at least 17 years of age and \* \* \* under 45 years of age” are substituted for the words “who shall be more than seventeen years of age and \* \* \* not more than forty-five years of age”. The words “except as provided in section 313 of title 32” are substituted for the words “except as hereinafter provided”, to make explicit the exception as to maximum age.
 
 In subsection (b), the words “The organized militia, which consists of the National Guard and the Naval Militia” are substituted for the words “the National Guard, the Naval Militia”, since the National Guard and the Naval Militia constitute the organized militia.
 
@@ -49,9 +49,9 @@ In subsection (b), the words “The organized militia, which consists of the Nat
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 311(a) | 32 App.:1. | July 30, 1956, ch. 789, § 1, 70 Stat. 729. |
+| 311(a) | 32 App.:1. | July 30, 1956, ch. 789, § 1, 70 Stat. 729. |
 
-The words “appointed as . . . under section 4 of this title” are omitted as surplusage.
+The words “appointed as . . . under section 4 of this title” are omitted as surplusage.
 
 **Editorial Notes**
 
@@ -63,7 +63,7 @@ The words “appointed as . . . under section 4 of this title” are omitted
 
 1958—Subsec. (a). Pub. L. 85–861 included female citizens of the United States who are commissioned officers of the National Guard.
 
-## § 247. Militia duty: exemptions
+## § 247. Militia duty: exemptions
 
 **(a)** The following persons are exempt from militia duty:
 
@@ -85,13 +85,13 @@ The words “appointed as . . . under section 4 of this title” are omitted
 
 **(b)** A person who claims exemption because of religious belief is exempt from militia duty in a combatant capacity, if the conscientious holding of that belief is established under such regulations as the President may prescribe. However, such a person is not exempt from militia duty that the President determines to be noncombatant.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 15, § 312; Pub. L. 100–456, div. A, title XII, § 1234(a)(3), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(a)(7), Jan. 6, 2006, 119 Stat. 3441; renumbered § 247, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 15, § 312; Pub. L. 100–456, div. A, title XII, § 1234(a)(3), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(a)(7), Jan. 6, 2006, 119 Stat. 3441; renumbered § 247, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 312(a) 312(b) | 32:3 (less last 67 words). 32:3 (last 67 words). | June 3, 1916, ch. 134, § 59, 39 Stat. 197. |
+| 312(a) 312(b) | 32:3 (less last 67 words). 32:3 (last 67 words). | June 3, 1916, ch. 134, § 59, 39 Stat. 197. |
 
 In subsection (a), the words “Members of the armed forces” are substituted for the words “persons in the military or naval service”. The words “except members who are not on active duty” are inserted to reflect an opinion of the Judge Advocate General of the Army (JAGA 1952/4374, 9 July 1952). The word “artificers” is omitted as covered by the word “workmen”. The words “naval shipyards” are substituted for the words “navy yards” to reflect modern terminology. The words “on navigable waters” are inserted to preserve the original coverage of the word “pilots”. The words “actually” and “without regard to age” are omitted as surplusage.
 

@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2005—Pub. L. 109–8, title VI, § 602(b), Apr. 20, 2005, 119 Stat. 122, added item 589b.
+2005—Pub. L. 109–8, title VI, § 602(b), Apr. 20, 2005, 119 Stat. 122, added item 589b.
 
-1986—Pub. L. 99–554, title I, § 115(b), Oct. 27, 1986, 100 Stat. 3095, added item 589a.
+1986—Pub. L. 99–554, title I, § 115(b), Oct. 27, 1986, 100 Stat. 3095, added item 589a.
 
 **United States Trustee Pilot; Repeal of Bank­ruptcy Provisions Relating to United States Trustees**
 
-Pub. L. 95–598, title IV, § 408, Nov. 6, 1978, 92 Stat. 2686, as amended by Pub. L. 98–166, title II, § 200, Nov. 28, 1983, 97 Stat. 1081; Pub. L. 98–353, title III, § 323, July 10, 1984, 98 Stat. 358; Pub. L. 99–429, Sept. 30, 1986, 100 Stat. 985; Pub. L. 99–500, § 101(b) [title II, § 200], Oct. 18, 1986, 100 Stat. 1783–39, 1783–45, and Pub. L. 99–591, § 101(b) [title II, § 200], Oct. 30, 1986, 100 Stat. 3341–39, 3341–45; Pub. L. 99–554, title III, § 307(a), Oct. 27, 1986, 100 Stat. 3125, which provided that the Attorney General conduct such studies and surveys as necessary to evaluate needs, feasibility, and effectiveness of the United States trustee system, and report result of such studies and surveys to Congress, the President, and the Judicial Conference of the United States, beginning on or before January 3, 1980, and annually thereafter during the transition period; that not later than January 3, 1984, the Attorney General report to Congress, the President, and the Judicial Conference of the United States, as to the feasibility, projected annual cost and effectiveness of the United States trustee system, as determined on the basis of the studies and surveys respecting the operation of the United States trustee system in the districts, together with recommendations as to the desirability and method of proceeding with implementation of the United States trustee system in all judicial districts of the United States; and that chapter 15 of title 11 and chapter 39 of this title were repealed, and all references to the United States trustee contained in this title were deleted, 30 days after the effective date of Pub. L. 99–554 (see section 302 of Pub. L. 99–554, set out as a note under section 581 of this title), with service of any United States trustee, of any assistant United States trustee, and of any employee employed or appointed under the authority of such chapter 39 was terminated on such date, was repealed by Pub. L. 99–554, title III, § 307(b), Oct. 27, 1986, 100 Stat. 3125.
+Pub. L. 95–598, title IV, § 408, Nov. 6, 1978, 92 Stat. 2686, as amended by Pub. L. 98–166, title II, § 200, Nov. 28, 1983, 97 Stat. 1081; Pub. L. 98–353, title III, § 323, July 10, 1984, 98 Stat. 358; Pub. L. 99–429, Sept. 30, 1986, 100 Stat. 985; Pub. L. 99–500, § 101(b) [title II, § 200], Oct. 18, 1986, 100 Stat. 1783–39, 1783–45, and Pub. L. 99–591, § 101(b) [title II, § 200], Oct. 30, 1986, 100 Stat. 3341–39, 3341–45; Pub. L. 99–554, title III, § 307(a), Oct. 27, 1986, 100 Stat. 3125, which provided that the Attorney General conduct such studies and surveys as necessary to evaluate needs, feasibility, and effectiveness of the United States trustee system, and report result of such studies and surveys to Congress, the President, and the Judicial Conference of the United States, beginning on or before January 3, 1980, and annually thereafter during the transition period; that not later than January 3, 1984, the Attorney General report to Congress, the President, and the Judicial Conference of the United States, as to the feasibility, projected annual cost and effectiveness of the United States trustee system, as determined on the basis of the studies and surveys respecting the operation of the United States trustee system in the districts, together with recommendations as to the desirability and method of proceeding with implementation of the United States trustee system in all judicial districts of the United States; and that chapter 15 of title 11 and chapter 39 of this title were repealed, and all references to the United States trustee contained in this title were deleted, 30 days after the effective date of Pub. L. 99–554 (see section 302 of Pub. L. 99–554, set out as a note under section 581 of this title), with service of any United States trustee, of any assistant United States trustee, and of any employee employed or appointed under the authority of such chapter 39 was terminated on such date, was repealed by Pub. L. 99–554, title III, § 307(b), Oct. 27, 1986, 100 Stat. 3125.
 
-## § 581. United States trustees
+## § 581. United States trustees
 
 **(a)** The Attorney General shall appoint one United States trustee for each of the following regions composed of Federal judicial districts (without regard to section 451):
 
@@ -77,7 +77,7 @@ Pub. L. 95–598, title IV, § 408, Nov. 6, 1978, 92 Stat. 2686, as amended by
 
 **(c)** Each United States trustee is subject to removal by the Attorney General.
 
-(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2662; amended Pub. L. 99–554, title I, § 111(a)–(c), Oct. 27, 1986, 100 Stat. 3090, 3091.)
+(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2662; amended Pub. L. 99–554, title I, § 111(a)–(c), Oct. 27, 1986, 100 Stat. 3090, 3091.)
 
 **Editorial Notes**
 
@@ -87,7 +87,7 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 **Amendments**
 
-1986—Subsec. (a). Pub. L. 99–554, § 111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Attorney General shall appoint one United States trustee for each of the following districts or groups of districts:
+1986—Subsec. (a). Pub. L. 99–554, § 111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Attorney General shall appoint one United States trustee for each of the following districts or groups of districts:
 
 “(1) District of Maine, District of New Hampshire, District of Massachusetts, and District of Rhode Island.
 
@@ -109,15 +109,15 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 “(10) District of Colorado and District of Kansas.”
 
-Subsec. (b). Pub. L. 99–554, § 111(b), substituted “five years” for “seven years” and “office” for “Office”.
+Subsec. (b). Pub. L. 99–554, § 111(b), substituted “five years” for “seven years” and “office” for “Office”.
 
-Subsec. (c). Pub. L. 99–554, § 111(c), struck out “for cause” after “removal”.
+Subsec. (c). Pub. L. 99–554, § 111(c), struck out “for cause” after “removal”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1986 Amendment; Transition and Administrative Provisions**
 
-Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L. 101–650, title III, § 317(a), (c), Dec. 1, 1990, 104 Stat. 5115, 5116; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 106–518, title V, § 501, Nov. 13, 2000, 114 Stat. 2421; Pub. L. 109–8, title X, § 1001(c), Apr. 20, 2005, 119 Stat. 186, provided that:
+Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L. 101–650, title III, § 317(a), (c), Dec. 1, 1990, 104 Stat. 5115, 5116; Pub. L. 103–65, § 1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 106–518, title V, § 501, Nov. 13, 2000, 114 Stat. 2421; Pub. L. 109–8, title X, § 1001(c), Apr. 20, 2005, 119 Stat. 186, provided that:
 
 > **“SEC. 301. INCUMBENT UNITED STATES TRUSTEES.**
 
@@ -139,11 +139,11 @@ Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L
 
 > **“(c) Amendments Relating to Family Farmers.—**
 
-> **(1)** The amendments made by subtitle B of title II [§§ 251 to 257 of Pub. L. 99–554, see Tables for classification] shall not apply with respect to cases commenced under title 11 of the United States Code before the effective date of this Act.
+> **(1)** The amendments made by subtitle B of title II [§§ 251 to 257 of Pub. L. 99–554, see Tables for classification] shall not apply with respect to cases commenced under title 11 of the United States Code before the effective date of this Act.
 
 > **“(2)** Section 1202 of title 11 of the United States Code (as added by the amendment made by section 255 of this Act) shall take effect on the effective date of this Act and before the amendment made by section 227 of this Act [amending section 1202 of this title].
 
-> **“(3)** Until the amendments made by subtitle A of title II of this Act [§§ 201 to 231 of Pub. L. 99–554, see Tables for classification] become effective in a district and apply to a case, for purposes of such case—
+> **“(3)** Until the amendments made by subtitle A of title II of this Act [§§ 201 to 231 of Pub. L. 99–554, see Tables for classification] become effective in a district and apply to a case, for purposes of such case—
 
 > **“(A)**
 
@@ -163,7 +163,7 @@ Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L
 
 > **“(1) Certain regions not currently served by united states trustees.—**
 
-> **(A)** The amendments made by subtitle A of title II of this Act [§§ 201 to 231 of Pub. L. 99–554, see Tables for classification], and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not—
+> **(A)** The amendments made by subtitle A of title II of this Act [§§ 201 to 231 of Pub. L. 99–554, see Tables for classification], and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not—
 
 > **“(i)** become effective in or with respect to a judicial district specified in subparagraph (B) until, or
 
@@ -217,7 +217,7 @@ Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L
 
 > **“(2) Certain remaining judicial districts not currently served by united states trustees.—**
 
-> **(A)** The amendments made by subtitle A of title II of this Act [§§ 201 to 231 of Pub. L. 99–554, see Tables for classification], and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not—
+> **(A)** The amendments made by subtitle A of title II of this Act [§§ 201 to 231 of Pub. L. 99–554, see Tables for classification], and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not—
 
 > **“(i)** become effective in or with respect to a judicial district specified in subparagraph (B) until, or
 
@@ -275,7 +275,7 @@ Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L
 
 > **“(3) Judicial districts for the states of alabama and north carolina.—**
 
-> **(A)** Notwithstanding paragraphs (1) and (2), and any other provision of law, the amendments made by subtitle A of title II of this Act [§§ 201 to 231 of Pub. L. 99–554, see Tables for classification], and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not—
+> **(A)** Notwithstanding paragraphs (1) and (2), and any other provision of law, the amendments made by subtitle A of title II of this Act [§§ 201 to 231 of Pub. L. 99–554, see Tables for classification], and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not—
 
 > **“(i)** become effective in or with respect to a judicial district specified in subparagraph (E) until, or
 
@@ -333,7 +333,7 @@ Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L
 
 > **“(B)** pending in a judicial district referred to in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, for which a United States trustee is not authorized before the effective date of this Act to be appointed,
 
-> the amendments made by section 113 [amending section 586 of this title] and subtitle A of title II of this Act [§§ 201 to 231 of Pub. L. 99–554, see Tables for classification], and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply until the expiration of the 3-year period beginning on the effective date of this Act, or of the 1-year period beginning on the date the Attorney General certifies under section 303 of this Act the region specified in a paragraph of such section 581(a), as so amended, that includes such district, whichever occurs first.
+> the amendments made by section 113 [amending section 586 of this title] and subtitle A of title II of this Act [§§ 201 to 231 of Pub. L. 99–554, see Tables for classification], and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply until the expiration of the 3-year period beginning on the effective date of this Act, or of the 1-year period beginning on the date the Attorney General certifies under section 303 of this Act the region specified in a paragraph of such section 581(a), as so amended, that includes such district, whichever occurs first.
 
 > **“(2) Amendments inapplicable.—** For purposes of paragraph (1), the amendments made by section 113 and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply with respect to a case under chapter 7, 11, 12, or 13 of title 11, United States Code, if—
 
@@ -381,7 +381,7 @@ Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L
 
 > **“SEC. 305. APPLICATION OF CERTAIN BANKRUPTCY RULES.**
 
-> **“(a) Rules Relating to the United States Trustee System.—** If a United States trustee is not authorized, before the effective date of this Act, to be appointed for a judicial district referred to in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, then part X of the Bankruptcy Rules [11 U.S.C. App.] shall not apply to cases in such district until the amendments made by subtitle A of title II of this Act [§§ 201 to 231 of Pub. L. 99–554, see Tables for classification] become effective under section 302 of this Act in such district.
+> **“(a) Rules Relating to the United States Trustee System.—** If a United States trustee is not authorized, before the effective date of this Act, to be appointed for a judicial district referred to in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, then part X of the Bankruptcy Rules [11 U.S.C. App.] shall not apply to cases in such district until the amendments made by subtitle A of title II of this Act [§§ 201 to 231 of Pub. L. 99–554, see Tables for classification] become effective under section 302 of this Act in such district.
 
 > **“(b) Rules Relating to Chapter 12 of Title 11.—** The rules prescribed under section 2075 of title 28, United States Code, and in effect on the date of the enactment of this Act [Oct. 27, 1986] shall apply to cases filed under chapter 12 of title 11, United States Code, to the extent practicable and not inconsistent with the amendments made by title II of this Act [see Tables for classification].
 
@@ -481,7 +481,7 @@ Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L
 
 > **“SEC. 311. CASES PENDING UNDER THE BANKRUPTCY ACT.**
 
-> “At the end of one calendar year following the date the amendments made by subtitle A of title II of this Act [§§ 201 to 231 of Pub. L. 99–554, see Tables for classification] take effect in a district in which any case is still pending under the Bankruptcy Act [see 11 U.S.C. notes prec. 101], the district court shall withdraw the reference of any such case and, after notice and a hearing, determine the status of the case. Such case shall be remanded to the bankruptcy judge with such instructions as are necessary for the prompt closing of the case and with a requirement that a progress report on the case be provided by the bankruptcy judge after such interval as the district court deems appropriate.”
+> “At the end of one calendar year following the date the amendments made by subtitle A of title II of this Act [§§ 201 to 231 of Pub. L. 99–554, see Tables for classification] take effect in a district in which any case is still pending under the Bankruptcy Act [see 11 U.S.C. notes prec. 101], the district court shall withdraw the reference of any such case and, after notice and a hearing, determine the status of the case. Such case shall be remanded to the bankruptcy judge with such instructions as are necessary for the prompt closing of the case and with a requirement that a progress report on the case be provided by the bankruptcy judge after such interval as the district court deems appropriate.”
 
 **Effective Date**
 
@@ -489,11 +489,11 @@ Chapter effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out 
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–554, § 1, Oct. 27, 1986, 100 Stat. 3088, provided: “That this Act [enacting section 589a of this title and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and section 589 of this title, amending provisions set out as notes preceding this section and under section 152 of this title, and repealing provisions set out as a note preceding this section] may be cited as the ‘Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986’.”
+Pub. L. 99–554, § 1, Oct. 27, 1986, 100 Stat. 3088, provided: “That this Act [enacting section 589a of this title and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and section 589 of this title, amending provisions set out as notes preceding this section and under section 152 of this title, and repealing provisions set out as a note preceding this section] may be cited as the ‘Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986’.”
 
 **Bankruptcy Crimes**
 
-Pub. L. 109–162, title XI, § 1175, Jan. 5, 2006, 119 Stat. 3125, provided that:
+Pub. L. 109–162, title XI, § 1175, Jan. 5, 2006, 119 Stat. 3125, provided that:
 
 > “The Director of the Executive Office for United States Trustees shall prepare an annual report to the Congress detailing—
 
@@ -505,13 +505,13 @@ Pub. L. 109–162, title XI, § 1175, Jan. 5, 2006, 119 Stat. 3125, provided t
 
 > **“(4)** the United States Trustee Program’s efforts to prevent bankruptcy fraud and abuse, particularly with respect to the establishment of uniform internal controls to detect common, higher risk frauds, such as a debtor’s failure to disclose all assets.”
 
-## § 582. Assistant United States trustees
+## § 582. Assistant United States trustees
 
 **(a)** The Attorney General may appoint one or more assistant United States trustees in any region when the public interest so requires.
 
 **(b)** Each assistant United States trustee is subject to removal by the Attorney General.
 
-(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2663; amended Pub. L. 99–554, title I, § 111(d), Oct. 27, 1986, 100 Stat. 3091.)
+(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2663; amended Pub. L. 99–554, title I, § 111(d), Oct. 27, 1986, 100 Stat. 3091.)
 
 **Editorial Notes**
 
@@ -521,9 +521,9 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 **Amendments**
 
-1986—Subsec. (a). Pub. L. 99–554, § 111(d)(1), substituted “region” for “district”.
+1986—Subsec. (a). Pub. L. 99–554, § 111(d)(1), substituted “region” for “district”.
 
-Subsec. (b). Pub. L. 99–554, § 111(d)(2), struck out “for cause” after “removal”.
+Subsec. (b). Pub. L. 99–554, § 111(d)(2), struck out “for cause” after “removal”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -535,11 +535,11 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 For sense of Congress concerning consideration of estate administrators under title 11 by the Attorney General for appointment under this section as U.S. trustee and assistant U.S. trustee, see section 309 of Pub. L. 99–554, set out as a note under section 581 of this title.
 
-## § 583. Oath of office
+## § 583. Oath of office
 
 Each United States trustee and assistant United States trustee, before taking office, shall take an oath to execute faithfully his duties.
 
-(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2663.)
+(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2663.)
 
 **Editorial Notes**
 
@@ -547,11 +547,11 @@ Each United States trustee and assistant United States trustee, before taking of
 
 Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of this section and the deletion of any references to United States Trustees in this title at a prospective date, was repealed by section 307(b) of Pub. L. 99–554. See note set out preceding section 581 of this title.
 
-## § 584. Official stations
+## § 584. Official stations
 
 The Attorney General may determine the official stations of the United States trustees and assistant United States trustees within the regions for which they were appointed.
 
-(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2663; amended Pub. L. 99–554, title I, § 144(d), Oct. 27, 1986, 100 Stat. 3096.)
+(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2663; amended Pub. L. 99–554, title I, § 144(d), Oct. 27, 1986, 100 Stat. 3096.)
 
 **Editorial Notes**
 
@@ -569,13 +569,13 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set out as a note under section 581 of this title.
 
-## § 585. Vacancies
+## § 585. Vacancies
 
 **(a)** The Attorney General may appoint an acting United States trustee for a region in which the office of the United States trustee is vacant. The individual so appointed may serve until the date on which the vacancy is filled by appointment under section 581 of this title or by designation under subsection (b) of this section.
 
 **(b)** The Attorney General may designate a United States trustee to serve in not more than two regions for such time as the public interest requires.
 
-(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2663; amended Pub. L. 99–554, title I, § 112, Oct. 27, 1986, 100 Stat. 3091.)
+(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2663; amended Pub. L. 99–554, title I, § 112, Oct. 27, 1986, 100 Stat. 3091.)
 
 **Editorial Notes**
 
@@ -593,7 +593,7 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set out as a note under section 581 of this title.
 
-## § 586. Duties; supervision by Attorney General
+## § 586. Duties; supervision by Attorney General
 
 **(a)** Each United States trustee, within the region for which such United States trustee is appointed, shall—
 
@@ -713,7 +713,7 @@ based on such maximum annual compensation and the actual, necessary expenses inc
 
 **(ii)** if advisable, take appropriate action, including but not limited to commencing an adversary proceeding to revoke the debtor’s discharge pursuant to section 727(d) of title 11.
 
-(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2663; amended Pub. L. 99–554, title I, § 113, Oct. 27, 1986, 100 Stat. 3091; Pub. L. 101–509, title V, § 529 [title I, § 110(a)], Nov. 5, 1990, 104 Stat. 1427, 1452; Pub. L. 103–394, title II, § 224(a), title V, § 502, Oct. 22, 1994, 108 Stat. 4130, 4147; Pub. L. 109–8, title IV, § 439, title VI, § 603(b), title VIII, § 802(c)(3), title XII, § 1231, Apr. 20, 2005, 119 Stat. 113, 122, 146, 201; Pub. L. 111–327, § 2(c)(3), Dec. 22, 2010, 124 Stat. 3563; Pub. L. 116–54, § 4(b)(1), Aug. 23, 2019, 133 Stat. 1086.)
+(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2663; amended Pub. L. 99–554, title I, § 113, Oct. 27, 1986, 100 Stat. 3091; Pub. L. 101–509, title V, § 529 [title I, § 110(a)], Nov. 5, 1990, 104 Stat. 1427, 1452; Pub. L. 103–394, title II, § 224(a), title V, § 502, Oct. 22, 1994, 108 Stat. 4130, 4147; Pub. L. 109–8, title IV, § 439, title VI, § 603(b), title VIII, § 802(c)(3), title XII, § 1231, Apr. 20, 2005, 119 Stat. 113, 122, 146, 201; Pub. L. 111–327, § 2(c)(3), Dec. 22, 2010, 124 Stat. 3563; Pub. L. 116–54, § 4(b)(1), Aug. 23, 2019, 133 Stat. 1086.)
 
 **Editorial Notes**
 
@@ -729,51 +729,51 @@ Section 408(c) of Pub. L. 95–598, which provided for the repeal of this sectio
 
 **Amendments**
 
-2019—Subsec. (a)(3). Pub. L. 116–54, § 4(b)(1)(A), inserted “(including subchapter V of chapter 11)” after “chapter 7, 11” in introductory provisions.
+2019—Subsec. (a)(3). Pub. L. 116–54, § 4(b)(1)(A), inserted “(including subchapter V of chapter 11)” after “chapter 7, 11” in introductory provisions.
 
-Subsec. (b). Pub. L. 116–54, § 4(b)(1)(B), inserted “subchapter V of chapter 11 or” after “number of cases under”.
+Subsec. (b). Pub. L. 116–54, § 4(b)(1)(B), inserted “subchapter V of chapter 11 or” after “number of cases under”.
 
-Subsec. (d)(1). Pub. L. 116–54, § 4(b)(1)(C), inserted “subchapter V of chapter 11 or” after “cases under” in two places.
+Subsec. (d)(1). Pub. L. 116–54, § 4(b)(1)(C), inserted “subchapter V of chapter 11 or” after “cases under” in two places.
 
-Subsec. (e)(1), (2). Pub. L. 116–54, § 4(b)(1)(D)(i), (ii), inserted “subchapter V of chapter 11 or” after “cases under” wherever appearing.
+Subsec. (e)(1), (2). Pub. L. 116–54, § 4(b)(1)(D)(i), (ii), inserted “subchapter V of chapter 11 or” after “cases under” wherever appearing.
 
-Subsec. (e)(5). Pub. L. 116–54, § 4(b)(1)(D)(iii), added par. (5).
+Subsec. (e)(5). Pub. L. 116–54, § 4(b)(1)(D)(iii), added par. (5).
 
-2010—Subsec. (a)(3)(A)(ii). Pub. L. 111–327, § 2(c)(3)(A), substituted semicolon for period at end.
+2010—Subsec. (a)(3)(A)(ii). Pub. L. 111–327, § 2(c)(3)(A), substituted semicolon for period at end.
 
-Subsec. (a)(7)(C). Pub. L. 111–327, § 2(c)(3)(B), substituted “determine” for “identify”.
+Subsec. (a)(7)(C). Pub. L. 111–327, § 2(c)(3)(B), substituted “determine” for “identify”.
 
-Subsec. (a)(8). Pub. L. 111–327, § 2(c)(3)(C), struck out “the United States trustee shall” before “apply promptly”.
+Subsec. (a)(8). Pub. L. 111–327, § 2(c)(3)(C), struck out “the United States trustee shall” before “apply promptly”.
 
-2005—Subsec. (a)(3). Pub. L. 109–8, § 802(c)(3), substituted “13, or 15” for “or 13” in introductory provisions.
+2005—Subsec. (a)(3). Pub. L. 109–8, § 802(c)(3), substituted “13, or 15” for “or 13” in introductory provisions.
 
-Subsec. (a)(3)(H), (I). Pub. L. 109–8, § 439(1), added subpar. (H) and redesignated former subpar. (H) as (I).
+Subsec. (a)(3)(H), (I). Pub. L. 109–8, § 439(1), added subpar. (H) and redesignated former subpar. (H) as (I).
 
-Subsec. (a)(6). Pub. L. 109–8, § 603(b)(1), added par. (6) and struck out former par. (6) which read as follows: “make such reports as the Attorney General directs;”.
+Subsec. (a)(6). Pub. L. 109–8, § 603(b)(1), added par. (6) and struck out former par. (6) which read as follows: “make such reports as the Attorney General directs;”.
 
-Subsec. (a)(7), (8). Pub. L. 109–8, § 439(2)–(4), added pars. (7) and (8).
+Subsec. (a)(7), (8). Pub. L. 109–8, § 439(2)–(4), added pars. (7) and (8).
 
-Subsec. (d). Pub. L. 109–8, § 1231(a), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 109–8, § 1231(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (e)(3), (4). Pub. L. 109–8, § 1231(b), added pars. (3) and (4).
+Subsec. (e)(3), (4). Pub. L. 109–8, § 1231(b), added pars. (3) and (4).
 
-Subsec. (f). Pub. L. 109–8, § 603(b)(2), added subsec. (f).
+Subsec. (f). Pub. L. 109–8, § 603(b)(2), added subsec. (f).
 
 1994—Subsec. (a)(3). Pub. L. 103–394 inserted “12,” after “11,” in introductory provisions and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “monitoring applications for compensation and reimbursement filed under section 330 of title 11 and, whenever the United States trustee deems it to be appropriate, filing with the court comments with respect to any of such applications;”.
 
 1990—Subsec. (e)(1)(A). Pub. L. 101–509 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a maximum annual compensation for such individual, not to exceed the annual rate of basic pay in effect for step 1 of grade GS–16 of the General Schedule prescribed under section 5332 of title 5; and”.
 
-1986—Subsec. (a). Pub. L. 99–554, § 113(a)(1), substituted “the region for which such United States trustee is appointed” for “his district” in introductory text.
+1986—Subsec. (a). Pub. L. 99–554, § 113(a)(1), substituted “the region for which such United States trustee is appointed” for “his district” in introductory text.
 
-Subsec. (a)(3). Pub. L. 99–554, § 113(a)(2), substituted “title 11 by, whenever the United States trustee considers it to be appropriate—” for “title 11;” and added subpars. (A) to (H).
+Subsec. (a)(3). Pub. L. 99–554, § 113(a)(2), substituted “title 11 by, whenever the United States trustee considers it to be appropriate—” for “title 11;” and added subpars. (A) to (H).
 
-Subsec. (a)(5). Pub. L. 99–554, § 113(a)(3), inserted “and this title, and such duties consistent with title 11 and this title as the Attorney General may prescribe” after “title 11”.
+Subsec. (a)(5). Pub. L. 99–554, § 113(a)(3), inserted “and this title, and such duties consistent with title 11 and this title as the Attorney General may prescribe” after “title 11”.
 
-Subsec. (b). Pub. L. 99–554, § 113(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the number of cases under chapter 13 of title 11 commenced in a particular judicial district so warrant, the United States trustee for such district may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustee, in cases under such chapter. The United States trustee for such district shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.”
+Subsec. (b). Pub. L. 99–554, § 113(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the number of cases under chapter 13 of title 11 commenced in a particular judicial district so warrant, the United States trustee for such district may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustee, in cases under such chapter. The United States trustee for such district shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.”
 
-Subsec. (d). Pub. L. 99–554, § 113(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under subsection (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 13 of title 11.”
+Subsec. (d). Pub. L. 99–554, § 113(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under subsection (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 13 of title 11.”
 
-Subsec. (e). Pub. L. 99–554, § 113(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
+Subsec. (e). Pub. L. 99–554, § 113(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
 
 “(1) The Attorney General, after consultation with a United States trustee that has appointed an individual under subsection (b) of this section to serve as standing trustee in cases under chapter 13 of title 11, shall fix—
 
@@ -809,7 +809,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 **Effective Date of 1986 Amendment**
 
@@ -817,7 +817,7 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 
 **Audit Procedures**
 
-Pub. L. 109–8, title VI, § 603(a), Apr. 20, 2005, 119 Stat. 122, provided that:
+Pub. L. 109–8, title VI, § 603(a), Apr. 20, 2005, 119 Stat. 122, provided that:
 
 > **“(1) Establishment of procedures.—** The Attorney General (in judicial districts served by United States trustees) and the Judicial Conference of the United States (in judicial districts served by bankruptcy administrators) shall establish procedures to determine the accuracy, veracity, and completeness of petitions, schedules, and other information that the debtor is required to provide under sections 521 and 1322 of title 11, United States Code, and, if applicable, section 111 of such title, in cases filed under chapter 7 or 13 of such title in which the debtor is an individual. Such audits shall be in accordance with generally accepted auditing standards and performed by independent certified public accountants or independent licensed public accountants, provided that the Attorney General and the Judicial Conference, as appropriate, may develop alternative auditing standards not later than 2 years after the date of enactment of this Act [Apr. 20, 2005].
 
@@ -833,13 +833,13 @@ Pub. L. 109–8, title VI, § 603(a), Apr. 20, 2005, 119 Stat. 122, provided t
 
 **Application to All Standing Trustees**
 
-Pub. L. 101–509, title V, § 529 [title I, § 110(b)], Nov. 5, 1990, 104 Stat. 1427, 1452, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any trustee to whom the provisions of section 302(d)(3) of the Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986 (Public Law 99–54 [Pub. L. 99–554]; 100 Stat. 3121) [set out in an Effective Date of 1986 Amendment note under section 581 of this title] apply.”
+Pub. L. 101–509, title V, § 529 [title I, § 110(b)], Nov. 5, 1990, 104 Stat. 1427, 1452, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any trustee to whom the provisions of section 302(d)(3) of the Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986 (Public Law 99–54 [Pub. L. 99–554]; 100 Stat. 3121) [set out in an Effective Date of 1986 Amendment note under section 581 of this title] apply.”
 
-## § 587. Salaries
+## § 587. Salaries
 
 Subject to sections 5315 through 5317 of title 5, the Attorney General shall fix the annual salaries of United States trustees and assistant United States trustees at rates of compensation not in excess of the rate of basic compensation provided for Executive Level IV of the Executive Schedule set forth in section 5315 of title 5, United States Code.
 
-(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2664; amended Pub. L. 99–554, title I, § 114(a), Oct. 27, 1986, 100 Stat. 3093.)
+(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2664; amended Pub. L. 99–554, title I, § 114(a), Oct. 27, 1986, 100 Stat. 3093.)
 
 **Editorial Notes**
 
@@ -857,11 +857,11 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set out as a note under section 581 of this title.
 
-## § 588. Expenses
+## § 588. Expenses
 
 Necessary office expenses of the United States trustee shall be allowed when authorized by the Attorney General.
 
-(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2664.)
+(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2664.)
 
 **Editorial Notes**
 
@@ -869,11 +869,11 @@ Necessary office expenses of the United States trustee shall be allowed when aut
 
 Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of this section and the deletion of any references to United States Trustees in this title at a prospective date, was repealed by section 307(b) of Pub. L. 99–554. See note set out preceding section 581 of this title.
 
-## § 589. Staff and other employees
+## § 589. Staff and other employees
 
 The United States trustee may employ staff and other employees on approval of the Attorney General.
 
-(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2664.)
+(Added Pub. L. 95–598, title II, § 224(a), Nov. 6, 1978, 92 Stat. 2664.)
 
 **Editorial Notes**
 
@@ -885,9 +885,9 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 **Temporary Suspension of Limitation on Appointments**
 
-Pub. L. 99–554, title I, § 114(b), Oct. 27, 1986, 100 Stat. 3093, provided that: “During the period beginning on the effective date of this Act [see section 302 of Pub. L. 99–554, set out in an Effective Date of 1986 Amendment; Transition and Administrative Provisions note under section 581 of this title] and ending on October 1, 1989, the provisions of title 5 of the United States Code governing appointments in the competitive service shall not apply with respect to appointments under section 589 of title 28, United States Code.”
+Pub. L. 99–554, title I, § 114(b), Oct. 27, 1986, 100 Stat. 3093, provided that: “During the period beginning on the effective date of this Act [see section 302 of Pub. L. 99–554, set out in an Effective Date of 1986 Amendment; Transition and Administrative Provisions note under section 581 of this title] and ending on October 1, 1989, the provisions of title 5 of the United States Code governing appointments in the competitive service shall not apply with respect to appointments under section 589 of title 28, United States Code.”
 
-## § 589a. United States Trustee System Fund
+## § 589a. United States Trustee System Fund
 
 **(a)** There is hereby established in the Treasury of the United States a special fund to be known as the “United States Trustee System Fund” (hereinafter in this section referred to as the “Fund”). Monies in the Fund shall be available to the Attorney General without fiscal year limitation in such amounts as may be specified in appropriations Acts for the following purposes in connection with the operations of United States trustees—
 
@@ -923,9 +923,9 @@ Pub. L. 99–554, title I, § 114(b), Oct. 27, 1986, 100 Stat. 3093, provided 
 
 **(4)** one-half of the fees collected under section 1930(a)(5) of this title;
 
-**(5)** 100 percent of the fees collected under section 1930(a)(6) of this title; 1
+**(5)** 100 percent of the fees collected under section 1930(a)(6) of this title; 1
 
-<sup>1</sup>  See Deposits of Fees Under Section 1930(a)(6) of This Title for Certain Fiscal Years note below.
+<sup>1</sup> See Deposits of Fees Under Section 1930(a)(6) of This Title for Certain Fiscal Years note below.
 
 **(6)** three-fourths of the fees collected under the last sentence of section 1930(a) of this title;
 
@@ -953,7 +953,7 @@ Pub. L. 99–554, title I, § 114(b), Oct. 27, 1986, 100 Stat. 3093, provided 
 
 **(2)** Notwithstanding subsection (b), for each of fiscal years 2021 through 2031, $5,400,000 of the fees collected under section 1930(a)(6) shall be deposited in the general fund of the Treasury.
 
-(Added Pub. L. 99–554, title I, § 115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, § 406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, § 111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, § 111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 109(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, § 1000(a)(1) [title I, title I, § 113], Nov. 29, 1999, 113 Stat. 1535, 1501A–6, 1501A–20; Pub. L. 109–8, title III, § 325(b), Apr. 20, 2005, 119 Stat. 99; Pub. L. 109–13, div. A, title VI, § 6058(a), May 11, 2005, 119 Stat. 297; Pub. L. 110–161, div. B, title II, § 212(a), Dec. 26, 2007, 121 Stat. 1914; Pub. L. 112–121, § 3(b), May 25, 2012, 126 Stat. 348; Pub. L. 116–325, § 3(b), Jan. 12, 2021, 134 Stat. 5087; Pub. L. 117–151, § 2(g), June 21, 2022, 136 Stat. 1299; Pub. L. 119–76, §§ 3(c), 4(b), Feb. 6, 2026, 140 Stat. 742.)
+(Added Pub. L. 99–554, title I, § 115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, § 406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, § 111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, § 111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 109(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, § 1000(a)(1) [title I, title I, § 113], Nov. 29, 1999, 113 Stat. 1535, 1501A–6, 1501A–20; Pub. L. 109–8, title III, § 325(b), Apr. 20, 2005, 119 Stat. 99; Pub. L. 109–13, div. A, title VI, § 6058(a), May 11, 2005, 119 Stat. 297; Pub. L. 110–161, div. B, title II, § 212(a), Dec. 26, 2007, 121 Stat. 1914; Pub. L. 112–121, § 3(b), May 25, 2012, 126 Stat. 348; Pub. L. 116–325, § 3(b), Jan. 12, 2021, 134 Stat. 5087; Pub. L. 117–151, § 2(g), June 21, 2022, 136 Stat. 1299; Pub. L. 119–76, §§ 3(c), 4(b), Feb. 6, 2026, 140 Stat. 742.)
 
 **Delayed Applicability of Amendment**
 
@@ -967,17 +967,17 @@ Amendment by Pub. L. 104–91 is based on section 111(b) and (c) of H.R. 2076, O
 
 **Amendments**
 
-2026—Subsec. (b)(1)(A). Pub. L. 119–76, § 3(c)(1), substituted “$51.49 of the fees collected in each case” for “40.46 percent of the fees collected”.
+2026—Subsec. (b)(1)(A). Pub. L. 119–76, § 3(c)(1), substituted “$51.49 of the fees collected in each case” for “40.46 percent of the fees collected”.
 
-Subsec. (f). Pub. L. 119–76, § 4(b), substituted “2031” for “2026” in introductory provisions of par. (1) and in par. (2).
+Subsec. (f). Pub. L. 119–76, § 4(b), substituted “2031” for “2026” in introductory provisions of par. (1) and in par. (2).
 
-Subsec. (f)(1)(B) to (D). Pub. L. 119–76, § 3(c)(2), redesignated subpar. (D) as (B), substituted “Second” for “Fourth”, and struck out former subpars. (B) and (C) which related, respectively, to the deposit of amounts necessary to reimburse the judiciary for the costs of administering payments under section 330(e) of title 11 and the deposit of amounts necessary to pay trustee compensation authorized by section 330(e)(2) of title 11.
+Subsec. (f)(1)(B) to (D). Pub. L. 119–76, § 3(c)(2), redesignated subpar. (D) as (B), substituted “Second” for “Fourth”, and struck out former subpars. (B) and (C) which related, respectively, to the deposit of amounts necessary to reimburse the judiciary for the costs of administering payments under section 330(e) of title 11 and the deposit of amounts necessary to pay trustee compensation authorized by section 330(e)(2) of title 11.
 
-2022—Subsec. (c). Pub. L. 117–151, § 2(g)(1), substituted “subsections (a) and (f)” for “subsection (a)”.
+2022—Subsec. (c). Pub. L. 117–151, § 2(g)(1), substituted “subsections (a) and (f)” for “subsection (a)”.
 
-Subsec. (f)(1). Pub. L. 117–151, § 2(g)(2)(A), substituted “subsection (b)(5)” for “subsections (b) and (c)” in introductory provisions.
+Subsec. (f)(1). Pub. L. 117–151, § 2(g)(2)(A), substituted “subsection (b)(5)” for “subsections (b) and (c)” in introductory provisions.
 
-Subsec. (f)(1)(A). Pub. L. 117–151, § 2(g)(2)(B), inserted “needed to offset the amount” after “amounts”.
+Subsec. (f)(1)(A). Pub. L. 117–151, § 2(g)(2)(B), inserted “needed to offset the amount” after “amounts”.
 
 2021—Subsec. (f). Pub. L. 116–325 added subsec. (f).
 
@@ -985,13 +985,13 @@ Subsec. (f)(1)(A). Pub. L. 117–151, § 2(g)(2)(B), inserted “needed to off
 
 2007—Subsec. (b)(10). Pub. L. 110–161 added par. (10).
 
-2005—Subsec. (b)(1). Pub. L. 109–8, § 325(b)(1), as amended by Pub. L. 109–13, § 6058(a), added par. (1) and struck out former par. (1), which read as follows: “27.42 percent of the fees collected under section 1930(a)(1) of this title;”.
+2005—Subsec. (b)(1). Pub. L. 109–8, § 325(b)(1), as amended by Pub. L. 109–13, § 6058(a), added par. (1) and struck out former par. (1), which read as follows: “27.42 percent of the fees collected under section 1930(a)(1) of this title;”.
 
-Subsec. (b)(2). Pub. L. 109–8, § 325(b)(2), as amended by Pub. L. 109–13, § 6058(a), substituted “55 percent” for “one-half”.
+Subsec. (b)(2). Pub. L. 109–8, § 325(b)(2), as amended by Pub. L. 109–13, § 6058(a), substituted “55 percent” for “one-half”.
 
-1999—Subsec. (b)(1). Pub. L. 106–113, § 1000(a)(1) [title I, § 113], substituted “27.42 percent” for “23.08 percent”.
+1999—Subsec. (b)(1). Pub. L. 106–113, § 1000(a)(1) [title I, § 113], substituted “27.42 percent” for “23.08 percent”.
 
-Subsec. (b)(9). Pub. L. 106–113, § 1000(a)(1) [title I], added par. (9).
+Subsec. (b)(9). Pub. L. 106–113, § 1000(a)(1) [title I], added par. (9).
 
 1996—Pub. L. 104–208 reenacted section catchline without change and amended text generally, revising and restating as subsecs. (a) to (e) provisions of former subsecs. (a) to (f).
 
@@ -1001,17 +1001,17 @@ Subsec. (f)(2). Pub. L. 104–91, as amended by Pub. L. 104–99, substituted �
 
 Subsec. (f)(3). Pub. L. 104–91, as amended by Pub. L. 104–99, added par. (3).
 
-1993—Subsec. (b)(1). Pub. L. 103–121, § 111(a)(2), substituted “23.08 per centum” for “one-fourth”.
+1993—Subsec. (b)(1). Pub. L. 103–121, § 111(a)(2), substituted “23.08 per centum” for “one-fourth”.
 
-Subsec. (b)(2). Pub. L. 103–121, § 111(b)(2), substituted “37.5 per centum” for “50 per centum”.
+Subsec. (b)(2). Pub. L. 103–121, § 111(b)(2), substituted “37.5 per centum” for “50 per centum”.
 
-Subsec. (f)(1). Pub. L. 103–121, § 111(b)(3), substituted “12.5 per centum” for “16.7 per centum”.
+Subsec. (f)(1). Pub. L. 103–121, § 111(b)(3), substituted “12.5 per centum” for “16.7 per centum”.
 
-1991—Subsec. (b)(2). Pub. L. 102–140, § 111(b)(1), substituted “50 per centum” for “three-fifths”.
+1991—Subsec. (b)(2). Pub. L. 102–140, § 111(b)(1), substituted “50 per centum” for “three-fifths”.
 
-Subsec. (b)(5). Pub. L. 102–140, § 111(b)(2), substituted “60 per centum” for “all”.
+Subsec. (b)(5). Pub. L. 102–140, § 111(b)(2), substituted “60 per centum” for “all”.
 
-Subsec. (f). Pub. L. 102–140, § 111(c), added subsec. (f).
+Subsec. (f). Pub. L. 102–140, § 111(c), added subsec. (f).
 
 1989—Subsec. (b)(1). Pub. L. 101–162 substituted “one-fourth” for “one-third”.
 
@@ -1027,35 +1027,35 @@ Amendment by section 4(b) of Pub. L. 119–76 applicable to any case commenced o
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–151, § 2(h)(3), June 21, 2022, 136 Stat. 1300, provided that: “The amendments made by subsection (g) [amending this section] shall take effect as if enacted on October 1, 2021.”
+Pub. L. 117–151, § 2(h)(3), June 21, 2022, 136 Stat. 1300, provided that: “The amendments made by subsection (g) [amending this section] shall take effect as if enacted on October 1, 2021.”
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–121, § 3(e), May 25, 2012, 126 Stat. 349, provided that: “This section [amending this section and section 1930 of this title and enacting and amending provisions set out as notes under section 1931 of this title] and the amendments made by this section shall take effect 180 days after the date of enactment of this Act [May 25, 2012].”
+Pub. L. 112–121, § 3(e), May 25, 2012, 126 Stat. 349, provided that: “This section [amending this section and section 1930 of this title and enacting and amending provisions set out as notes under section 1931 of this title] and the amendments made by this section shall take effect 180 days after the date of enactment of this Act [May 25, 2012].”
 
 **Effective Date of 2005 Amendments**
 
-Pub. L. 109–13, div. A, title VI, § 6058(b), May 11, 2005, 119 Stat. 297, provided that: “This section [amending this section and section 1930 of this title, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section and sections 1930 and 1931 of this title] and the amendment made by this section shall take effect immediately after the enactment of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 [Pub. L. 109–8, approved Apr. 20, 2005].”
+Pub. L. 109–13, div. A, title VI, § 6058(b), May 11, 2005, 119 Stat. 297, provided that: “This section [amending this section and section 1930 of this title, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section and sections 1930 and 1931 of this title] and the amendment made by this section shall take effect immediately after the enactment of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 [Pub. L. 109–8, approved Apr. 20, 2005].”
 
-Pub. L. 109–8, title III, § 325(d), Apr. 20, 2005, 119 Stat. 99, which provided that the amendment made by Pub. L. 109–8, § 325(b), (c), would be effective during the 2-year period beginning on Apr. 20, 2005, was omitted in the general amendment of section 325 of Pub. L. 109–8 by Pub. L. 109–13, div. A, title VI, § 6058(a), May 11, 2005, 119 Stat. 297. See note above.
+Pub. L. 109–8, title III, § 325(d), Apr. 20, 2005, 119 Stat. 99, which provided that the amendment made by Pub. L. 109–8, § 325(b), (c), would be effective during the 2-year period beginning on Apr. 20, 2005, was omitted in the general amendment of section 325 of Pub. L. 109–8 by Pub. L. 109–13, div. A, title VI, § 6058(a), May 11, 2005, 119 Stat. 297. See note above.
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 113], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that the amendment made by section 1000(a)(1) [title I, § 113] is effective 30 days after Nov. 29, 1999.
+Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 113], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that the amendment made by section 1000(a)(1) [title I, § 113] is effective 30 days after Nov. 29, 1999.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 109(c)], Sept. 30, 1996, 110 Stat. 3009, 3009–19, provided that: “Notwithstanding any other provision of law or of this Act, the amendments to 28 U.S.C. 589a made by subsection (b) of this section shall take effect upon enactment of this Act [Sept. 30, 1996].”
+Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 109(c)], Sept. 30, 1996, 110 Stat. 3009, 3009–19, provided that: “Notwithstanding any other provision of law or of this Act, the amendments to 28 U.S.C. 589a made by subsection (b) of this section shall take effect upon enactment of this Act [Sept. 30, 1996].”
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–121, title I, § 111(a), Oct. 27, 1993, 107 Stat. 1164, provided in part that the amendment made by that section is effective 30 days after Oct. 27, 1993.
+Pub. L. 103–121, title I, § 111(a), Oct. 27, 1993, 107 Stat. 1164, provided in part that the amendment made by that section is effective 30 days after Oct. 27, 1993.
 
-Pub. L. 103–121, title I, § 111(b), Oct. 27, 1993, 107 Stat. 1164, provided in part that the amendment made by that section is effective 30 days after Oct. 27, 1993.
+Pub. L. 103–121, title I, § 111(b), Oct. 27, 1993, 107 Stat. 1164, provided in part that the amendment made by that section is effective 30 days after Oct. 27, 1993.
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–140, title I, § 111, Oct. 28, 1991, 105 Stat. 795, provided that the amendment made by that section is effective 60 days after Oct. 28, 1991.
+Pub. L. 102–140, title I, § 111, Oct. 28, 1991, 105 Stat. 795, provided that the amendment made by that section is effective 60 days after Oct. 28, 1991.
 
 **Effective Date**
 
@@ -1063,7 +1063,7 @@ Section effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99�
 
 **Deposits of Certain Fees for Fiscal Years 2026 Through 2031**
 
-Pub. L. 119–76, § 4(c), Feb. 6, 2026, 140 Stat. 742, provided that:
+Pub. L. 119–76, § 4(c), Feb. 6, 2026, 140 Stat. 742, provided that:
 
 > “Notwithstanding section 589a(b) of title 28, United States Code, for each of fiscal years 2026 through 2031—
 
@@ -1073,7 +1073,7 @@ Pub. L. 119–76, § 4(c), Feb. 6, 2026, 140 Stat. 742, provided that:
 
 **Deposits of Fees Under Section 1930(a)(6) of This Title for Certain Fiscal Years**
 
-Pub. L. 116–325, § 3(a), Jan. 12, 2021, 134 Stat. 5087, provided that:
+Pub. L. 116–325, § 3(a), Jan. 12, 2021, 134 Stat. 5087, provided that:
 
 > “Notwithstanding section 589a(b) of title 28, United States Code, for each of fiscal years 2021 through 2026—
 
@@ -1081,7 +1081,7 @@ Pub. L. 116–325, § 3(a), Jan. 12, 2021, 134 Stat. 5087, provided that:
 
 > **“(2)** $5,400,000 of the fees collected under section 1930(a)(6) of such title shall be deposited in the general fund of the Treasury.”
 
-Pub. L. 115–72, div. B, § 1004(b), Oct. 26, 2017, 131 Stat. 1232, provided that:
+Pub. L. 115–72, div. B, § 1004(b), Oct. 26, 2017, 131 Stat. 1232, provided that:
 
 > “Notwithstanding section 589a(b) of title 28, United States Code, for each of fiscal years 2018 through 2022—
 
@@ -1089,7 +1089,7 @@ Pub. L. 115–72, div. B, § 1004(b), Oct. 26, 2017, 131 Stat. 1232, provided 
 
 > **“(2)** 2 percent of the fees collected under section 1930(a)(6) of such title shall be deposited in the general fund of the Treasury.”
 
-## § 589b. Bankruptcy data
+## § 589b. Bankruptcy data
 
 **(a) Rules.—** The Attorney General shall, within a reasonable time after the effective date of this section, issue rules requiring uniform forms for (and from time to time thereafter to appropriately modify and approve)—
 
@@ -1143,7 +1143,7 @@ in each case by appropriate category and, in cases under subchapter V of chapter
 
 **(7)** plans of reorganization filed and confirmed and, with respect thereto, by class, the recoveries of the holders, expressed in aggregate dollar values and, in the case of claims, as a percentage of total claims of the class allowed.
 
-(Added Pub. L. 109–8, title VI, § 602(a), Apr. 20, 2005, 119 Stat. 120; amended Pub. L. 116–54, § 4(b)(2), Aug. 23, 2019, 133 Stat. 1086.)
+(Added Pub. L. 109–8, title VI, § 602(a), Apr. 20, 2005, 119 Stat. 120; amended Pub. L. 116–54, § 4(b)(2), Aug. 23, 2019, 133 Stat. 1086.)
 
 **Editorial Notes**
 
@@ -1153,9 +1153,9 @@ For the effective date of this section, referred to in subsec. (a), see Effectiv
 
 **Amendments**
 
-2019—Subsec. (a)(1). Pub. L. 116–54, § 4(b)(2)(A), inserted “subchapter V of chapter 11 and” after “cases under”.
+2019—Subsec. (a)(1). Pub. L. 116–54, § 4(b)(2)(A), inserted “subchapter V of chapter 11 and” after “cases under”.
 
-Subsec. (d). Pub. L. 116–54, § 4(b)(2)(B), inserted “subchapter V of chapter 11 and” after “trustees under” in introductory provisions and “subchapter V of chapter 11 and” after “cases under” in concluding provisions.
+Subsec. (d). Pub. L. 116–54, § 4(b)(2)(B), inserted “subchapter V of chapter 11 and” after “trustees under” in introductory provisions and “subchapter V of chapter 11 and” after “cases under” in concluding provisions.
 
 **Statutory Notes and Related Subsidiaries**
 

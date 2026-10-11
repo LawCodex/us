@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2000—Pub. L. 106–518, title II, § 207, Nov. 13, 2000, 114 Stat. 2414, struck out item 2520 “Fees”.
+2000—Pub. L. 106–518, title II, § 207, Nov. 13, 2000, 114 Stat. 2414, struck out item 2520 “Fees”.
 
-1992—Pub. L. 102–572, title IX, §§ 902(a)(1), 910(b), Oct. 29, 1992, 106 Stat. 4516, 4520, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” in chapter heading and inserted “and incidental powers” in item 2521.
+1992—Pub. L. 102–572, title IX, §§ 902(a)(1), 910(b), Oct. 29, 1992, 106 Stat. 4516, 4520, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” in chapter heading and inserted “and incidental powers” in item 2521.
 
-1982—Pub. L. 97–164, title I, § 139(b)(2), (i)(2), (*l*), (n)(4), (*o*)(2), (q)(2), Apr. 2, 1982, 96 Stat. 42–44, substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” in chapter heading, substituted “Proceedings generally” for “Proceedings before commissioners generally” in item 2503, substituted “Referral of cases by Comptroller General” for “Referral of cases by the Comptroller General or the head of an executive department or agency” in item 2510, struck out item 2518 “Certification of judgments for appropriation”, substituted “Fees” for “Fees; cost of printing record” in item 2520, and added item 2522.
+1982—Pub. L. 97–164, title I, § 139(b)(2), (i)(2), (*l*), (n)(4), (*o*)(2), (q)(2), Apr. 2, 1982, 96 Stat. 42–44, substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” in chapter heading, substituted “Proceedings generally” for “Proceedings before commissioners generally” in item 2503, substituted “Referral of cases by Comptroller General” for “Referral of cases by the Comptroller General or the head of an executive department or agency” in item 2510, struck out item 2518 “Certification of judgments for appropriation”, substituted “Fees” for “Fees; cost of printing record” in item 2520, and added item 2522.
 
-1978—Pub. L. 95–563, § 14(h)(2)(B), Nov. 1, 1978, 92 Stat. 2390, inserted “or the head of an executive department or agency” after “Comptroller General” in item 2510.
+1978—Pub. L. 95–563, § 14(h)(2)(B), Nov. 1, 1978, 92 Stat. 2390, inserted “or the head of an executive department or agency” after “Comptroller General” in item 2510.
 
-1954—Act Sept. 3, 1954, ch. 1263, §§ 46, 54(c), 55(d), 59(b), 68 Stat. 1243, 1247, 1248, substituted “Trial before judges” for “Place of taking evidence” in item 2505, and “Calls and discovery,” for “Calls on departments for information” in item 2507, rephrased item 2510, and added item 2521.
+1954—Act Sept. 3, 1954, ch. 1263, §§ 46, 54(c), 55(d), 59(b), 68 Stat. 1243, 1247, 1248, substituted “Trial before judges” for “Place of taking evidence” in item 2505, and “Calls and discovery,” for “Calls on departments for information” in item 2507, rephrased item 2510, and added item 2521.
 
-## § 2501. Time for filing suit
+## § 2501. Time for filing suit
 
 Every claim of which the United States Court of Federal Claims has jurisdiction shall be barred unless the petition thereon is filed within six years after such claim first accrues.
 
@@ -39,11 +39,11 @@ A petition on the claim of a person under legal disability or beyond the seas at
 
 A suit for the fees of an officer of the United States shall not be filed until his account for such fees has been finally acted upon, unless the Government Accountability Office fails to act within six months after receiving the account.
 
-(June 25, 1948, ch. 646, 62 Stat. 976; Sept. 3, 1954, ch. 1263, § 52, 68 Stat. 1246; Pub. L. 97–164, title I, § 139(a), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(June 25, 1948, ch. 646, 62 Stat. 976; Sept. 3, 1954, ch. 1263, § 52, 68 Stat. 1246; Pub. L. 97–164, title I, § 139(a), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 250(2), 250a, and 262 (Mar. 3, 1911, ch. 231, §§ 145, 156, 36 Stat. 1136, 1139; June 10, 1921, ch. 18, § 304, 42 Stat. 24; Aug. 30, 1935, ch. 831, § 13, 49 Stat. 1049; July 13, 1943, ch. 231, 57 Stat. 553).
+Based on title 28, U.S.C., 1940 ed., §§ 250(2), 250a, and 262 (Mar. 3, 1911, ch. 231, §§ 145, 156, 36 Stat. 1136, 1139; June 10, 1921, ch. 18, § 304, 42 Stat. 24; Aug. 30, 1935, ch. 831, § 13, 49 Stat. 1049; July 13, 1943, ch. 231, 57 Stat. 553).
 
 Section consolidates limitation provisions of sections 250(2), 250a, and 262 of title 28, U.S.C., 1940 ed.
 
@@ -63,7 +63,7 @@ The section was extended to include claims referred by the head of an executive 
 
 1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
-1954—Act Sept. 3, 1954, struck out “, or the claim is referred by the Senate or House of Representatives, or by the head of an executive department” in first par.
+1954—Act Sept. 3, 1954, struck out “, or the claim is referred by the Senate or House of Representatives, or by the head of an executive department” in first par.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -75,17 +75,17 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 2502. Aliens’ privilege to sue
+## § 2502. Aliens’ privilege to sue
 
 **(a)** Citizens or subjects of any foreign government which accords to citizens of the United States the right to prosecute claims against their government in its courts may sue the United States in the United States Court of Federal Claims if the subject matter of the suit is otherwise within such court’s jurisdiction.
 
 **(b)** See section 7422(f) of the Internal Revenue Code of 1986 for exception with respect to suits involving internal revenue taxes.
 
-(June 25, 1948, ch. 646, 62 Stat. 976; Pub. L. 89–713, § 3(b), Nov. 2, 1966, 80 Stat. 1108; Pub. L. 97–164, title I, § 139(a), Apr. 2, 1982, 96 Stat. 42; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 976; Pub. L. 89–713, § 3(b), Nov. 2, 1966, 80 Stat. 1108; Pub. L. 97–164, title I, § 139(a), Apr. 2, 1982, 96 Stat. 42; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 261 (Mar. 3, 1911, ch. 231, § 155, 36 Stat. 1139).
+Based on title 28, U.S.C., 1940 ed., § 261 (Mar. 3, 1911, ch. 231, § 155, 36 Stat. 1139).
 
 Changes were made in phraseology.
 
@@ -119,7 +119,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 Amendment by Pub. L. 89–713 applicable to suits brought against officers, employees, or personal representatives instituted 90 days or more after Nov. 2, 1966, see section 3(d) of Pub. L. 89–713, set out as a note under section 7422 of Title 26, Internal Revenue Code.
 
-## § 2503. Proceedings generally
+## § 2503. Proceedings generally
 
 **(a)** Parties to any suit in the United States Court of Federal Claims may appear before a judge of that court in person or by attorney, produce evidence, and examine witnesses.
 
@@ -129,11 +129,11 @@ Amendment by Pub. L. 89–713 applicable to suits brought against officers, empl
 
 **(d)** For the purpose of construing sections 1821, 1915, 1920, and 1927 of this title, the United States Court of Federal Claims shall be deemed to be a court of the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 976; Sept. 3, 1954, ch. 1263, § 53, 68 Stat. 1246; Pub. L. 97–164, title I, § 139(b)(1), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, §§ 902(a), 909, Oct. 29, 1992, 106 Stat. 4516, 4519.)
+(June 25, 1948, ch. 646, 62 Stat. 976; Sept. 3, 1954, ch. 1263, § 53, 68 Stat. 1246; Pub. L. 97–164, title I, § 139(b)(1), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, §§ 902(a), 909, Oct. 29, 1992, 106 Stat. 4516, 4519.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 269, 276, and 278 (Mar. 3, 1911, ch. 231, §§ 168, 170, 36 Stat. 1140; Feb. 24, 1925, ch. 301, § 1, 43 Stat. 964; June 23, 1930, ch. 573, § 2, 46 Stat. 799).
+Based on title 28, U.S.C., 1940 ed., §§ 269, 276, and 278 (Mar. 3, 1911, ch. 231, §§ 168, 170, 36 Stat. 1140; Feb. 24, 1925, ch. 301, § 1, 43 Stat. 964; June 23, 1930, ch. 573, § 2, 46 Stat. 799).
 
 Section consolidates provisions relating to proceedings before commissioners and reporter-commissioners contained in sections 269, 276, and 278 of title 28, U.S.C., 1940 ed.
 
@@ -155,11 +155,11 @@ The Federal Rules of Evidence, referred to in subsec. (b), are set out in the Ap
 
 **Amendments**
 
-1992—Subsec. (a). Pub. L. 102–572, § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a). Pub. L. 102–572, § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-Subsecs. (b), (c). Pub. L. 102–572, § 902(a)(2), substituted “Court of Federal Claims” for “Claims Court” wherever appearing.
+Subsecs. (b), (c). Pub. L. 102–572, § 902(a)(2), substituted “Court of Federal Claims” for “Claims Court” wherever appearing.
 
-Subsec. (d). Pub. L. 102–572, § 909, added subsec. (d).
+Subsec. (d). Pub. L. 102–572, § 909, added subsec. (d).
 
 1982—Pub. L. 97–164 substituted “Proceedings generally” for “Proceedings before commissioners generally” in section catchline.
 
@@ -181,15 +181,15 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 2504. Plaintiff’s testimony
+## § 2504. Plaintiff’s testimony
 
 The United States Court of Federal Claims may, at the instance of the Attorney General, order any plaintiff to appear, upon reasonable notice, before any judge of the court and be examined on oath as to all matters pertaining to his claim. Such examination shall be reduced to writing by the judge, and shall be returned to and filed in the court, and may, at the discretion of the attorneys for the United States, be read and used as evidence on the trial. If any plaintiff, after such order is made and due and reasonable notice thereof is given to him, fails to appear, or refuses to testify or answer fully as to all material matters within his knowledge, the court may order that the case shall not be tried until he fully complies with such order.
 
-(June 25, 1948, ch. 646, 62 Stat. 976; Pub. L. 97–164, title I, § 139(c), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 976; Pub. L. 97–164, title I, § 139(c), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 274 (Mar. 3, 1911, ch. 231, § 166, 36 Stat. 1140).
+Based on title 28, U.S.C., 1940 ed., § 274 (Mar. 3, 1911, ch. 231, § 166, 36 Stat. 1140).
 
 Words “Attorney General” were substituted for “attorney or solicitor appearing in behalf of the United States,” in view of section 309 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees.
 
@@ -213,15 +213,15 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 2505. Trial before judges
+## § 2505. Trial before judges
 
 Any judge of the United States Court of Federal Claims may sit at any place within the United States to take evidence and enter judgment.
 
-(June 25, 1948, ch. 646, 62 Stat. 976; Sept. 3, 1954, ch. 1263, § 54(a), (b), 68 Stat. 1246; Pub. L. 97–164, title I, § 139(d), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 976; Sept. 3, 1954, ch. 1263, § 54(a), (b), 68 Stat. 1246; Pub. L. 97–164, title I, § 139(d), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 275 and 275a (Mar. 3, 1911, ch. 231, § 167, 36 Stat. 1140; Feb. 24, 1925, ch. 301, § 2, 43 Stat. 965; June 23, 1930, ch. 573, § 1, 46 Stat. 799; Oct. 16, 1941, ch. 443, 55 Stat. 741).
+Based on title 28, U.S.C., 1940 ed., §§ 275 and 275a (Mar. 3, 1911, ch. 231, § 167, 36 Stat. 1140; Feb. 24, 1925, ch. 301, § 2, 43 Stat. 965; June 23, 1930, ch. 573, § 1, 46 Stat. 799; Oct. 16, 1941, ch. 443, 55 Stat. 741).
 
 Changes were made in phraseology.
 
@@ -245,15 +245,15 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 2506. Interest of witness
+## § 2506. Interest of witness
 
 A witness in a suit in the United States Court of Federal Claims shall not be exempt or disqualified because he is a party to or interested in such suit.
 
-(June 25, 1948, ch. 646, 62 Stat. 977; Pub. L. 97–164, title I, § 139(e), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 977; Pub. L. 97–164, title I, § 139(e), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 274 (Mar. 3, 1911, ch. 231, § 186, 36 Stat. 1143; Feb. 5, 1912, ch. 28, 37 Stat. 61).
+Based on title 28, U.S.C., 1940 ed., § 274 (Mar. 3, 1911, ch. 231, § 186, 36 Stat. 1143; Feb. 5, 1912, ch. 28, 37 Stat. 61).
 
 A provision that a witness should not be disqualified by color was omitted as obsolete and unnecessary, since no such disqualification could be invoked in absence of statutory authority.
 
@@ -279,7 +279,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 2507. Calls and discovery
+## § 2507. Calls and discovery
 
 **(a)** The United States Court of Federal Claims may call upon any department or agency of the United States or upon any party for any information or papers, not privileged, for purposes of discovery or for use as evidence. The head of any department or agency may refuse to comply with a call issued pursuant to this subsection when, in his opinion, compliance will be injurious to the public interest.
 
@@ -287,11 +287,11 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **(c)** The Court of Federal Claims may use all recorded and printed reports made by the committees of the Senate or House of Representatives.
 
-(June 25, 1948, ch. 646, 62 Stat. 977; Sept. 3, 1954, ch. 1263, § 55(a)–(c), 68 Stat. 1247; Pub. L. 97–164, title I, § 139(f), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 977; Sept. 3, 1954, ch. 1263, § 55(a)–(c), 68 Stat. 1247; Pub. L. 97–164, title I, § 139(f), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 272 (Mar. 3, 1911, ch. 231, § 164, 36 Stat. 1140).
+Based on title 28, U.S.C., 1940 ed., § 272 (Mar. 3, 1911, ch. 231, § 164, 36 Stat. 1140).
 
 Words “or agency” were added. (See reviser’s note under section 1345 of this title.)
 
@@ -301,13 +301,13 @@ Changes were made in phraseology.
 
 **Amendments**
 
-1992—Subsec. (a). Pub. L. 102–572, § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a). Pub. L. 102–572, § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-Subsec. (c). Pub. L. 102–572, § 902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
+Subsec. (c). Pub. L. 102–572, § 902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
-1982—Subsec. (a). Pub. L. 97–164, § 139(f)(1), substituted “United States Claims Court” for “Court of Claims”.
+1982—Subsec. (a). Pub. L. 97–164, § 139(f)(1), substituted “United States Claims Court” for “Court of Claims”.
 
-Subsec. (c). Pub. L. 97–164, § 139(f)(2), substituted “Claims Court” for “Court of Claims”.
+Subsec. (c). Pub. L. 97–164, § 139(f)(2), substituted “Claims Court” for “Court of Claims”.
 
 1954—Act Sept. 3, 1954, substituted “Calls and discovery” for “Calls on departments for information” in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
 
@@ -321,7 +321,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 2508. Counterclaim or set-off; registration of judgment
+## § 2508. Counterclaim or set-off; registration of judgment
 
 Upon the trial of any suit in the United States Court of Federal Claims in which any setoff, counterclaim, claim for damages, or other demand is set up on the part of the United States against any plaintiff making claim against the United States in said court, the court shall hear and determine such claim or demand both for and against the United States and plaintiff.
 
@@ -329,11 +329,11 @@ If upon the whole case it finds that the plaintiff is indebted to the United Sta
 
 The transcript of such judgment, filed in the clerk’s office of any district court, shall be entered upon the records and shall be enforceable as other judgments.
 
-(June 25, 1948, ch. 646, 62 Stat. 977; July 28, 1953, ch. 253, § 10, 67 Stat. 227; Sept. 3, 1954, ch. 1263, § 47(a), 68 Stat. 1243; Pub. L. 97–164, title I, § 139(g), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 977; July 28, 1953, ch. 253, § 10, 67 Stat. 227; Sept. 3, 1954, ch. 1263, § 47(a), 68 Stat. 1243; Pub. L. 97–164, title I, § 139(g), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 252 (Mar. 3, 1911, ch. 231, § 146, 36 Stat. 1137).
+Based on title 28, U.S.C., 1940 ed., § 252 (Mar. 3, 1911, ch. 231, § 146, 36 Stat. 1137).
 
 Changes were made in phraseology.
 
@@ -359,7 +359,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 2509. Congressional reference cases
+## § 2509. Congressional reference cases
 
 **(a)** Whenever a bill, except a bill for a pension, is referred by either House of Congress to the chief judge of the United States Court of Federal Claims pursuant to section 1492 of this title, the chief judge shall designate a judge as hearing officer for the case and a panel of three judges of the court to serve as a reviewing body. One member of the review panel shall be designated as presiding officer of the panel.
 
@@ -375,11 +375,11 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **(g)** The Court of Federal Claims is hereby authorized and directed, under such regulations as it may prescribe, to provide the facilities and services of the office of the clerk of the court for the filing, processing, hearing, and dispatch of congressional reference cases and to include within its annual appropriations the costs thereof and other costs of administration, including (but without limitation to the items herein listed) the salaries and traveling expenses of the judges serving as hearing officers and panel members, mailing and service of process, necessary physical facilities, equipment, and supplies, and personnel (including secretaries and law clerks).
 
-(June 25, 1948, ch. 646, 62 Stat. 977; Pub. L. 89–681, § 2, Oct. 15, 1966, 80 Stat. 958; Pub. L. 97–164, title I, § 139(h), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 977; Pub. L. 89–681, § 2, Oct. 15, 1966, 80 Stat. 958; Pub. L. 97–164, title I, § 139(h), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 257 (Mar. 3, 1911, ch. 231, § 151, 36 Stat. 1138).
+Based on title 28, U.S.C., 1940 ed., § 257 (Mar. 3, 1911, ch. 231, § 151, 36 Stat. 1138).
 
 Jurisdiction provisions of section 257 of title 28, U.S.C., 1940 ed., appear in section 1492 of this title.
 
@@ -391,23 +391,23 @@ Changes were made in phraseology.
 
 **Amendments**
 
-1992—Subsec. (a). Pub. L. 102–572, § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a). Pub. L. 102–572, § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-Subsecs. (b), (f), (g). Pub. L. 102–572, § 902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
+Subsecs. (b), (f), (g). Pub. L. 102–572, § 902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
-1982—Subsec. (a). Pub. L. 97–164, § 139(h)(1), substituted “chief judge” for “chief commissioner” wherever appearing, “United States Claims Court” for “Court of Claims”, “judge as hearing officer” for “trial commissioner”, “judges” for “commissioners”, and “presiding officer” for “presiding commissioner”.
+1982—Subsec. (a). Pub. L. 97–164, § 139(h)(1), substituted “chief judge” for “chief commissioner” wherever appearing, “United States Claims Court” for “Court of Claims”, “judge as hearing officer” for “trial commissioner”, “judges” for “commissioners”, and “presiding officer” for “presiding commissioner”.
 
-Subsec. (b). Pub. L. 97–164, § 139(h)(2)(A)–(C), substituted “chief judge” for “chief commissioner”, “Claims Court” for “Court of Claims”, and “hearing officer” for “trial commissioner”.
+Subsec. (b). Pub. L. 97–164, § 139(h)(2)(A)–(C), substituted “chief judge” for “chief commissioner”, “Claims Court” for “Court of Claims”, and “hearing officer” for “trial commissioner”.
 
-Subsec. (c). Pub. L. 97–164, § 139(h)(2)(A), (B), substituted “hearing officer” for “trial commissioner” and “chief judge” for “chief commissioner”.
+Subsec. (c). Pub. L. 97–164, § 139(h)(2)(A), (B), substituted “hearing officer” for “trial commissioner” and “chief judge” for “chief commissioner”.
 
-Subsec. (d). Pub. L. 97–164, § 139(h)(2)(A), (D), substituted “hearing officer” for “trial commissioner” wherever appearing and struck out “of commissioners” after “review panel”.
+Subsec. (d). Pub. L. 97–164, § 139(h)(2)(A), (D), substituted “hearing officer” for “trial commissioner” wherever appearing and struck out “of commissioners” after “review panel”.
 
-Subsec. (e). Pub. L. 97–164, § 139(h)(2)(B), substituted “chief judge” for “chief commissioner”.
+Subsec. (e). Pub. L. 97–164, § 139(h)(2)(B), substituted “chief judge” for “chief commissioner”.
 
-Subsec. (f). Pub. L. 97–164, § 139(h)(2)(A), (C), substituted “Claims Court” for “Court of Claims”, and “hearing officer” for “trial commissioner” wherever appearing.
+Subsec. (f). Pub. L. 97–164, § 139(h)(2)(A), (C), substituted “Claims Court” for “Court of Claims”, and “hearing officer” for “trial commissioner” wherever appearing.
 
-Subsec. (g). Pub. L. 97–164, § 139(h)(2)(C), (E), substituted “Claims Court” for “Court of Claims” and “judges serving as hearing officers” for “commissioners serving as trial commissioners”.
+Subsec. (g). Pub. L. 97–164, § 139(h)(2)(C), (E), substituted “Claims Court” for “Court of Claims” and “judges serving as hearing officers” for “commissioners serving as trial commissioners”.
 
 1966—Pub. L. 89–681 substituted provisions for reference of bills to the chief commissioner of the Court of Claims pursuant to section 1492 of this title for provisions calling simply for reference to the Court of Claims, substituted provisions naming the trial commissioner to whom a reference case is assigned by the chief commissioner for provisions simply naming the Court of Claims as the agency by which findings and conclusions are made, and inserted provisions for the designation of a trial commissioner and reviewing body consisting of three other commissioners, the promulgation of rules and regulations for Congressional reference cases by the chief commissioner, the procedure to be followed, and the supplying of facilities and personnel for the dispatch of Congressional reference cases.
 
@@ -421,17 +421,17 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 2510. Referral of cases by Comptroller General
+## § 2510. Referral of cases by Comptroller General
 
 **(a)** The Comptroller General may transmit to the United States Court of Federal Claims for trial and adjudication any claim or matter of which the Court of Federal Claims might take jurisdiction on the voluntary action of the claimant, together with all vouchers, papers, documents, and proofs pertaining thereto.
 
 **(b)** The Court of Federal Claims shall proceed with the claims or matters so referred as in other cases pending in such Court and shall render judgment thereon.
 
-(June 25, 1948, ch. 646, 62 Stat. 977; July 28, 1953, ch. 253, § 11, 67 Stat. 227; Sept. 3, 1954, ch. 1263, § 47(b), 68 Stat. 1243; Pub. L. 95–563, § 14(h)(1), (2)(A), Nov. 1, 1978, 92 Stat. 2390; Pub. L. 97–164, title I, § 139(i)(1), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 977; July 28, 1953, ch. 253, § 11, 67 Stat. 227; Sept. 3, 1954, ch. 1263, § 47(b), 68 Stat. 1243; Pub. L. 95–563, § 14(h)(1), (2)(A), Nov. 1, 1978, 92 Stat. 2390; Pub. L. 97–164, title I, § 139(i)(1), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 254 and 255 (Mar. 3, 1911, ch. 231, §§ 148, 149, 36 Stat. 1137, 1138; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
+Based on title 28, U.S.C., 1940 ed., §§ 254 and 255 (Mar. 3, 1911, ch. 231, §§ 148, 149, 36 Stat. 1137, 1138; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
 
 Section consolidates procedural provisions of sections 254 and 255 of title 28, U.S.C., 1940 ed., relating to departmental reference cases.
 
@@ -471,7 +471,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2391, formerly set out as an Effective Date note under section 601 of former Title 41, Public Contracts.
 
-## § 2511. Accounts of officers, agents or contractors
+## § 2511. Accounts of officers, agents or contractors
 
 Notice of suit under section 1494 of this title shall be given to the Attorney General, to the Comptroller General, and to the head of the department requested to settle the account in question.
 
@@ -479,11 +479,11 @@ The judgment of the United States Court of Federal Claims in such suit shall be 
 
 The transcript of such judgment, filed in the clerk’s office of any district court, shall be entered upon the records, and shall be enforceable as other judgments.
 
-(June 25, 1948, ch. 646, 62 Stat. 977; July 28, 1953, ch. 253, § 12, 67 Stat. 227; Pub. L. 97–164, title I, § 139(j), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 977; July 28, 1953, ch. 253, § 12, 67 Stat. 227; Pub. L. 97–164, title I, § 139(j), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 287 (Mar. 3, 1911, ch. 231, § 180, 36 Stat. 1141; Feb. 13, 1925, ch. 229, § 3, 43 Stat. 939).
+Based on title 28, U.S.C., 1940 ed., § 287 (Mar. 3, 1911, ch. 231, § 180, 36 Stat. 1141; Feb. 13, 1925, ch. 229, § 3, 43 Stat. 939).
 
 Words “The Attorney General shall represent the United States at the hearing of said cause” were omitted as covered by sections 309 and 310 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees.
 
@@ -515,15 +515,15 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 2512. Disbursing officers; relief
+## § 2512. Disbursing officers; relief
 
 Whenever the United States Court of Federal Claims finds that any loss by a disbursing officer of the United States was without his fault or negligence, it shall render a judgment setting forth the amount thereof, and the Government Accountability Office shall allow the officer such amount as a credit in the settlement of his accounts.
 
-(June 25, 1948, ch. 646, 62 Stat. 978; Pub. L. 97–164, title I, § 139(j)(2), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(June 25, 1948, ch. 646, 62 Stat. 978; Pub. L. 97–164, title I, § 139(j)(2), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 253 (Mar. 3, 1911, ch. 231, § 147, 36 Stat. 1137; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
+Based on title 28, U.S.C., 1940 ed., § 253 (Mar. 3, 1911, ch. 231, § 147, 36 Stat. 1137; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
 
 Words “paymaster, quartermaster, commissary of subsistence, or other” were omitted as covered by words “disbursing officer of the United States”. (See reviser’s note under section 1496 of this title.)
 
@@ -549,7 +549,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 2513. Unjust conviction and imprisonment
+## § 2513. Unjust conviction and imprisonment
 
 **(a)** Any person suing under section 1495 of this title must allege and prove that:
 
@@ -565,11 +565,11 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **(e)** The amount of damages awarded shall not exceed $100,000 for each 12-month period of incarceration for any plaintiff who was unjustly sentenced to death and $50,000 for each 12-month period of incarceration for any other plaintiff.
 
-(June 25, 1948, ch. 646, 62 Stat. 978; Sept. 3, 1954, ch. 1263, § 56, 68 Stat. 1247; Pub. L. 97–164, title I, § 139(j)(2), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 108–405, title IV, § 431, Oct. 30, 2004, 118 Stat. 2293.)
+(June 25, 1948, ch. 646, 62 Stat. 978; Sept. 3, 1954, ch. 1263, § 56, 68 Stat. 1247; Pub. L. 97–164, title I, § 139(j)(2), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 108–405, title IV, § 431, Oct. 30, 2004, 118 Stat. 2293.)
 
 **Historical and Revision Notes**
 
-Based on sections 729–732 of title 18, U.S.C., 1940 ed., Crimes and Criminal Procedure (May 24, 1938, ch. 266, §§ 1–4, 52 Stat. 438.)
+Based on sections 729–732 of title 18, U.S.C., 1940 ed., Crimes and Criminal Procedure (May 24, 1938, ch. 266, §§ 1–4, 52 Stat. 438.)
 
 Sections 729–732 of title 18, U.S.C., 1940 ed., were consolidated and completely rewritten in order to clarify ambiguities which made the statute unworkable as enacted originally. Jurisdictional provisions of section 729 of title 18, U.S.C., 1940 ed., are incorporated in section 1495 of this title.
 
@@ -597,17 +597,17 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 2514. Forfeiture of fraudulent claims
+## § 2514. Forfeiture of fraudulent claims
 
 A claim against the United States shall be forfeited to the United States by any person who corruptly practices or attempts to practice any fraud against the United States in the proof, statement, establishment, or allowance thereof.
 
 In such cases the United States Court of Federal Claims shall specifically find such fraud or attempt and render judgment of forfeiture.
 
-(June 25, 1948, ch. 646, 62 Stat. 978; Pub. L. 97–164, title I, § 139(j)(2), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 978; Pub. L. 97–164, title I, § 139(j)(2), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 279 and 280 (Mar. 3, 1911, ch. 231, §§ 172, 173, 36 Stat. 1141).
+Based on title 28, U.S.C., 1940 ed., §§ 279 and 280 (Mar. 3, 1911, ch. 231, §§ 172, 173, 36 Stat. 1141).
 
 A provision of section 279 of title 28, U.S.C., 1940 ed., that a judgment of forfeiture shall forever bar the prosecution of the claim was omitted as covered by section 2518 of this title.
 
@@ -635,17 +635,17 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 2515. New trial; stay of judgment
+## § 2515. New trial; stay of judgment
 
 **(a)** The United States Court of Federal Claims may grant a plaintiff a new trial on any ground established by rules of common law or equity applicable as between private parties.
 
 **(b)** Such court, at any time while any suit is pending before it, or after proceedings for review have been instituted, or within two years after the final disposition of the suit, may grant the United States a new trial and stay the payment of any judgment upon satisfactory evidence, cumulative or otherwise, that any fraud, wrong, or injustice has been done the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 978; Pub. L. 97–164, title I, § 139(j)(2), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 978; Pub. L. 97–164, title I, § 139(j)(2), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 281 and 282 (Mar. 3, 1911, ch. 231, §§ 174, 175, 36 Stat. 1141).
+Based on title 28, U.S.C., 1940 ed., §§ 281 and 282 (Mar. 3, 1911, ch. 231, §§ 174, 175, 36 Stat. 1141).
 
 Words “but until an order is made staying the payment of a judgment, the same shall be payable and paid as on March 3, 1911, was provided by law,” in section 282 of title 28, U.S.C., 1940 ed., were omitted as surplusage.
 
@@ -669,19 +669,19 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 2516. Interest on claims and judgments
+## § 2516. Interest on claims and judgments
 
 **(a)** Interest on a claim against the United States shall be allowed in a judgment of the United States Court of Federal Claims only under a contract or Act of Congress expressly providing for payment thereof.
 
 **(b)** Interest on a judgment against the United States affirmed by the Supreme Court after review on petition of the United States is paid at a rate equal to the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding the date of the judgment.
 
-(June 25, 1948, ch. 646, 62 Stat. 978; Sept. 3, 1954, ch. 1263, § 57, 68 Stat. 1248; Pub. L. 97–164, title I, § 139(j)(2), title III, § 302(d), Apr. 2, 1982, 96 Stat. 43, 56; Pub. L. 97–258, § 2(g)(5), (m)(3), Sept. 13, 1982, 96 Stat. 1061, 1062; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 106–554, § 1(a)(7) [title III, § 307(d)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–636.)
+(June 25, 1948, ch. 646, 62 Stat. 978; Sept. 3, 1954, ch. 1263, § 57, 68 Stat. 1248; Pub. L. 97–164, title I, § 139(j)(2), title III, § 302(d), Apr. 2, 1982, 96 Stat. 43, 56; Pub. L. 97–258, § 2(g)(5), (m)(3), Sept. 13, 1982, 96 Stat. 1061, 1062; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 106–554, § 1(a)(7) [title III, § 307(d)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–636.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., § 284 and section 226 of title 31, U.S.C., 1940 ed., Money and Finance (Sept. 30, 1890, ch. 1126, § 1, 26 Stat. 537; Mar. 3, 1911, ch. 231, § 177, 36 Stat. 1141; Nov. 23, 1921, ch. 136, § 1324(b), 42 Stat. 316; June 2, 1924, ch. 234, § 1020, 43 Stat. 346; Feb. 13, 1925, ch. 229, § 3(c), 43 Stat. 939; Feb. 26, 1926, ch. 27, §§ 1117, 1200, 44 Stat. 119, 125; May 29, 1928, ch. 852, § 615(a), 45 Stat. 877; June 22, 1936, ch. 690, § 808, 49 Stat. 1746).
+Based on title 28, U.S.C., 1940 ed., § 284 and section 226 of title 31, U.S.C., 1940 ed., Money and Finance (Sept. 30, 1890, ch. 1126, § 1, 26 Stat. 537; Mar. 3, 1911, ch. 231, § 177, 36 Stat. 1141; Nov. 23, 1921, ch. 136, § 1324(b), 42 Stat. 316; June 2, 1924, ch. 234, § 1020, 43 Stat. 346; Feb. 13, 1925, ch. 229, § 3(c), 43 Stat. 939; Feb. 26, 1926, ch. 27, §§ 1117, 1200, 44 Stat. 119, 125; May 29, 1928, ch. 852, § 615(a), 45 Stat. 877; June 22, 1936, ch. 690, § 808, 49 Stat. 1746).
 
 Subdivision (b) of section 284 of title 28, U.S.C., 1940 ed., was omitted as covered by section 3771 of title 26, U.S.C., 1940 ed., Internal Revenue Code. Such omission required the exception in subdivision (a) of such section 284, reading: “except as provided in subdivision (b)”, to be changed to read: “or Act of Congress expressly providing for payment thereof.”
 
@@ -705,11 +705,11 @@ Section 2(g)(5) of the bill restates 28:2516(b) because the provisions in 28:251
 
 1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Subsec. (a). Pub. L. 97–164, § 139(j)(2), substituted “United States Claims Court” for “Court of Claims”.
+1982—Subsec. (a). Pub. L. 97–164, § 139(j)(2), substituted “United States Claims Court” for “Court of Claims”.
 
-Subsec. (b). Pub. L. 97–258 substituted provisions that interest on a judgment against the United States is paid at a rate equal to the coupon issue yield equivalent of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled immediately before the date of judgment for provisions that such interest would be paid at the rate of four percent per annum from the date of the filing of the transcript of the judgment in the Treasury Department to the date of mandate of affirmance by the Supreme Court and that the interest would not be allowed for any period after the term of the Supreme Court at which the judgment was affirmed, and repealed the amendment made by Pub. L. 97–164, § 302(d), eff. Oct. 1, 1982. See, also, section 1304(b) of Title 31, Money and Finance.
+Subsec. (b). Pub. L. 97–258 substituted provisions that interest on a judgment against the United States is paid at a rate equal to the coupon issue yield equivalent of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled immediately before the date of judgment for provisions that such interest would be paid at the rate of four percent per annum from the date of the filing of the transcript of the judgment in the Treasury Department to the date of mandate of affirmance by the Supreme Court and that the interest would not be allowed for any period after the term of the Supreme Court at which the judgment was affirmed, and repealed the amendment made by Pub. L. 97–164, § 302(d), eff. Oct. 1, 1982. See, also, section 1304(b) of Title 31, Money and Finance.
 
-Pub. L. 97–164, §§ 302(d), 402, eff. Oct. 1, 1982, struck out “at the rate of four percent per annum” and all that follows through “affirmance” and inserted in lieu thereof “, from the date of the filing of the transcript of the judgment in the General Accounting Office to the date of the mandate of the affirmance, at a rate of interest equal to the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled immediately prior to the date of the judgment”.
+Pub. L. 97–164, §§ 302(d), 402, eff. Oct. 1, 1982, struck out “at the rate of four percent per annum” and all that follows through “affirmance” and inserted in lieu thereof “, from the date of the filing of the transcript of the judgment in the General Accounting Office to the date of the mandate of the affirmance, at a rate of interest equal to the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled immediately prior to the date of the judgment”.
 
 1954—Subsec. (b). Act Sept. 3, 1954, inserted “for any period” after “allowed” in last sentence.
 
@@ -721,23 +721,23 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–258, § 2(g)(5), Sept. 13, 1982, 96 Stat. 1061, provided that the amendment made by that section is effective Oct. 1, 1982.
+Pub. L. 97–258, § 2(g)(5), Sept. 13, 1982, 96 Stat. 1061, provided that the amendment made by that section is effective Oct. 1, 1982.
 
 **Repeals**
 
-Pub. L. 97–164, title III, § 302(d), Apr. 2, 1982, 96 Stat. 56, cited as a credit to this section, was repealed by Pub. L. 97–258, § 2(m)(3), Sept. 13, 1982, 96 Stat. 1062, eff. Oct. 1, 1982.
+Pub. L. 97–164, title III, § 302(d), Apr. 2, 1982, 96 Stat. 56, cited as a credit to this section, was repealed by Pub. L. 97–258, § 2(m)(3), Sept. 13, 1982, 96 Stat. 1062, eff. Oct. 1, 1982.
 
-## § 2517. Payment of judgments
+## § 2517. Payment of judgments
 
 **(a)** Except as provided by chapter 71 of title 41, every final judgment rendered by the United States Court of Federal Claims against the United States shall be paid out of any general appropriation therefor, on presentation to the Secretary of the Treasury of a certification of the judgment by the clerk and chief judge of the court.
 
 **(b)** Payment of any such judgment and of interest thereon shall be a full discharge to the United States of all claims and demands arising out of the matters involved in the case or controversy, unless the judgment is designated a partial judgment, in which event only the matters described therein shall be discharged.
 
-(June 25, 1948, ch. 646, 62 Stat. 979; Pub. L. 95–563, § 14(e), (f), Nov. 1, 1978, 92 Stat. 2390; Pub. L. 97–164, title I, § 139(k), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, § 202(*l*), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–350, § 5(g)(11), Jan. 4, 2011, 124 Stat. 3848.)
+(June 25, 1948, ch. 646, 62 Stat. 979; Pub. L. 95–563, § 14(e), (f), Nov. 1, 1978, 92 Stat. 2390; Pub. L. 97–164, title I, § 139(k), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, § 202(*l*), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–350, § 5(g)(11), Jan. 4, 2011, 124 Stat. 3848.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 285, and sections 225, 228, of title 31, U.S.C., 1940 ed., Money and Finance, (R.S. §§ 236, 1089; Feb. 18, 1904, ch. 160, § 1, 33 Stat. 41; Mar. 3, 1911, ch. 231, § 178, 36 Stat. 1141; June 10, 1921, ch. 18, §§ 304, 305, 42 Stat. 24; Feb. 13, 1925, ch. 229, § 3(c), 43 Stat. 939).
+Based on title 28, U.S.C., 1940 ed., § 285, and sections 225, 228, of title 31, U.S.C., 1940 ed., Money and Finance, (R.S. §§ 236, 1089; Feb. 18, 1904, ch. 160, § 1, 33 Stat. 41; Mar. 3, 1911, ch. 231, § 178, 36 Stat. 1141; June 10, 1921, ch. 18, §§ 304, 305, 42 Stat. 24; Feb. 13, 1925, ch. 229, § 3(c), 43 Stat. 939).
 
 Section consolidates section 285 of title 28, U.S.C., 1940 ed., and sections 225 and 228 of title 31, U.S.C., 1940 ed., Money and Finance.
 
@@ -759,13 +759,13 @@ Changes were made in phraseology.
 
 1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Subsec. (a). Pub. L. 97–164, § 139(k)(1), substituted “United States Claims Court” for “Court of Claims”.
+1982—Subsec. (a). Pub. L. 97–164, § 139(k)(1), substituted “United States Claims Court” for “Court of Claims”.
 
-Subsec. (b). Pub. L. 97–164, § 139(k)(2), struck out the comma after “shall be discharged” thereby correcting a technical error in the directory language in Pub. L. 95–563 which placed both a comma and a period after “shall be discharged”.
+Subsec. (b). Pub. L. 97–164, § 139(k)(2), struck out the comma after “shall be discharged” thereby correcting a technical error in the directory language in Pub. L. 95–563 which placed both a comma and a period after “shall be discharged”.
 
-1978—Subsec. (a). Pub. L. 95–563, § 14(e), inserted Contract Disputes Act of 1978 exception.
+1978—Subsec. (a). Pub. L. 95–563, § 14(e), inserted Contract Disputes Act of 1978 exception.
 
-Subsec. (b). Pub. L. 95–563, § 14(f), inserted provision relating to discharge of partial judgments.
+Subsec. (b). Pub. L. 95–563, § 14(f), inserted provision relating to discharge of partial judgments.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -781,7 +781,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2391, formerly set out as an Effective Date note under section 601 of former Title 41, Public Contracts.
 
-## [§ 2518. Repealed. Pub. L. 97–164, title I, § 139(l), Apr. 2, 1982, 96 Stat. 43]
+## [§ 2518. Repealed. Pub. L. 97–164, title I, § 139(l), Apr. 2, 1982, 96 Stat. 43]
 
 Section, act June 25, 1948, ch. 646, 62 Stat. 979, related to certification of Court of Claims judgments for appropriation.
 
@@ -791,15 +791,15 @@ Section, act June 25, 1948, ch. 646, 62 Stat. 979, related to certification of C
 
 Repeal effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as an Effective Date of 1982 Amendment note under section 171 of this title.
 
-## § 2519. Conclusiveness of judgment
+## § 2519. Conclusiveness of judgment
 
 A final judgment of the United States Court of Federal Claims against any plaintiff shall forever bar any further claim, suit, or demand against the United States arising out of the matters involved in the case or controversy.
 
-(June 25, 1948, ch. 646, 62 Stat. 979; Pub. L. 97–164, title I, § 139(m), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 979; Pub. L. 97–164, title I, § 139(m), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 286 (Mar. 3, 1911, ch. 231, § 179, 36 Stat. 1141).
+Based on title 28, U.S.C., 1940 ed., § 286 (Mar. 3, 1911, ch. 231, § 179, 36 Stat. 1141).
 
 Changes were made in phraseology.
 
@@ -821,11 +821,11 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## [§ 2520. Repealed. Pub. L. 106–518, title II, § 207, Nov. 13, 2000, 114 Stat. 2414]
+## [§ 2520. Repealed. Pub. L. 106–518, title II, § 207, Nov. 13, 2000, 114 Stat. 2414]
 
-Section, acts June 25, 1948, ch. 646, 62 Stat. 979; Sept. 3, 1954, ch. 1263, § 58, 68 Stat. 1248; Pub. L. 89–507, § 2, July 18, 1966, 80 Stat. 308; Pub. L. 97–164, title I, § 139(n)(1)–(3), Apr. 2, 1982, 96 Stat. 43, 44; Pub. L. 100–702, title X, § 1012(a)(1), Nov. 19, 1988, 102 Stat. 4668; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516, required the Court of Federal Claims to impose a fee not exceeding $120 for petition filings.
+Section, acts June 25, 1948, ch. 646, 62 Stat. 979; Sept. 3, 1954, ch. 1263, § 58, 68 Stat. 1248; Pub. L. 89–507, § 2, July 18, 1966, 80 Stat. 308; Pub. L. 97–164, title I, § 139(n)(1)–(3), Apr. 2, 1982, 96 Stat. 43, 44; Pub. L. 100–702, title X, § 1012(a)(1), Nov. 19, 1988, 102 Stat. 4668; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516, required the Court of Federal Claims to impose a fee not exceeding $120 for petition filings.
 
-## § 2521. Subpoenas and incidental powers
+## § 2521. Subpoenas and incidental powers
 
 **(a)** Subpoenas requiring the attendance of parties or witnesses and subpoenas requiring the production of books, papers, documents or tangible things by any party or witness having custody or control thereof, may be issued for purposes of discovery or for use of the things produced as evidence in accordance with the rules and orders of the court. Such subpoenas shall be issued and served and compliance therewith shall be compelled as provided in the rules and orders of the court.
 
@@ -839,7 +839,7 @@ Section, acts June 25, 1948, ch. 646, 62 Stat. 979; Sept. 3, 1954, ch. 1263, §�
 
 **(c)** The United States Court of Federal Claims shall have such assistance in the carrying out of its lawful writ, process, order, rule, decree, or command as is available to a court of the United States. The United States marshal for any district in which the Court of Federal Claims is sitting shall, when requested by the chief judge of the Court of Federal Claims, attend any session of the Court of Federal Claims in such district.
 
-(Added Sept. 3, 1954, ch. 1263, § 59(a), 68 Stat. 1248; amended Pub. L. 102–572, title IX, § 910(a), Oct. 29, 1992, 106 Stat. 4519.)
+(Added Sept. 3, 1954, ch. 1263, § 59(a), 68 Stat. 1248; amended Pub. L. 102–572, title IX, § 910(a), Oct. 29, 1992, 106 Stat. 4519.)
 
 **Editorial Notes**
 
@@ -853,11 +853,11 @@ Section, acts June 25, 1948, ch. 646, 62 Stat. 979; Sept. 3, 1954, ch. 1263, §�
 
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
 
-## § 2522. Notice of appeal
+## § 2522. Notice of appeal
 
 Review of a decision of the United States Court of Federal Claims shall be obtained by filing a notice of appeal with the clerk of the Court of Federal Claims within the time and in the manner prescribed for appeals to United States courts of appeals from the United States district courts.
 
-(Added Pub. L. 97–164, title I, § 139(q)(1), Apr. 2, 1982, 96 Stat. 44; amended Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 97–164, title I, § 139(q)(1), Apr. 2, 1982, 96 Stat. 44; amended Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 

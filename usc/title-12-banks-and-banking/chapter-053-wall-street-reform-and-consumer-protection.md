@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 53—WALL STREET REFORM AND CONSUMER PROTECTION
 
-## § 5301. Definitions
+## § 5301. Definitions
 
 As used in this Act, the following definitions shall apply, except as the context otherwise requires or as otherwise specifically provided in this Act:
 
@@ -27,7 +27,7 @@ The term “affiliate” has the same meaning as in section 1813 of this title.
 
 On and after the transfer date, the term “appropriate Federal banking agency” has the same meaning as in section 1813(q) of this title, as amended by title III.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(3) Board of Governors**
 
@@ -161,79 +161,79 @@ The terms “bank”, “bank holding company”, “control”, “deposit”, 
 
 **(iii)** “savings and loan holding company” has the same meaning as in section 1467a(a) of this title.
 
-(Pub. L. 111–203, § 2, July 21, 2010, 124 Stat. 1386.)
+(Pub. L. 111–203, § 2, July 21, 2010, 124 Stat. 1386.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 Title III, referred to in par. (2), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520. Section 312(c)(1) of title III of Pub. L. 111–203 amended section 1813(q) of this title.
 
-Title X, referred to in par. (4), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted subchapter V (§ 5481 et seq.) of this chapter, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note below and Tables.
+Title X, referred to in par. (4), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted subchapter V (§ 5481 et seq.) of this chapter, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note below and Tables.
 
-Subchapter I, referred to in par. (8), was in the original “title I”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, known as the Financial Stability Act of 2010, which is classified principally to subchapter I (§ 5311 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note below and Tables.
+Subchapter I, referred to in par. (8), was in the original “title I”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, known as the Financial Stability Act of 2010, which is classified principally to subchapter I (§ 5311 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note below and Tables.
 
-The Securities Exchange Act of 1934, referred to in par. (12)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in par. (12)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Investment Company Act of 1940, referred to in par. (12)(B)(ii), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in par. (12)(B)(ii), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
-The Investment Advisers Act of 1940, referred to in par. (12)(B)(iii), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
+The Investment Advisers Act of 1940, referred to in par. (12)(B)(iii), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
-The Sarbanes-Oxley Act of 2002, referred to in par. (12)(B)(xi), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, which is classified principally to chapter 98 (§ 7201 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of Title 15 and Tables.
+The Sarbanes-Oxley Act of 2002, referred to in par. (12)(B)(xi), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, which is classified principally to chapter 98 (§ 7201 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of Title 15 and Tables.
 
-The Securities Investor Protection Act of 1970, referred to in par. (12)(B)(xii), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+The Securities Investor Protection Act of 1970, referred to in par. (12)(B)(xii), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
-The Commodity Exchange Act, referred to in par. (12)(C), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in par. (12)(C), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 111–203, § 4, July 21, 2010, 124 Stat. 1390, provided that: “Except as otherwise specifically provided in this Act [see Short Title note below] or the amendments made by this Act, this Act and such amendments shall take effect 1 day after the date of enactment of this Act [July 21, 2010].”
+Pub. L. 111–203, § 4, July 21, 2010, 124 Stat. 1390, provided that: “Except as otherwise specifically provided in this Act [see Short Title note below] or the amendments made by this Act, this Act and such amendments shall take effect 1 day after the date of enactment of this Act [July 21, 2010].”
 
 **Short Title of 2017 Amendment**
 
-Pub. L. 115–61, § 1, Sept. 27, 2017, 131 Stat. 1158, provided that: “This Act [amending section 5321 of this title] may be cited as the ‘Financial Stability Oversight Council Insurance Member Continuity Act’.”
+Pub. L. 115–61, § 1, Sept. 27, 2017, 131 Stat. 1158, provided that: “This Act [amending section 5321 of this title] may be cited as the ‘Financial Stability Oversight Council Insurance Member Continuity Act’.”
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–279, § 1, Dec. 18, 2014, 128 Stat. 3017, provided that: “This Act [amending section 5371 of this title] may be cited as the ‘Insurance Capital Standards Clarification Act of 2014’.”
+Pub. L. 113–279, § 1, Dec. 18, 2014, 128 Stat. 3017, provided that: “This Act [amending section 5371 of this title] may be cited as the ‘Insurance Capital Standards Clarification Act of 2014’.”
 
-Pub. L. 113–173, § 1, Sept. 26, 2014, 128 Stat. 1899, provided that: “This Act [amending section 5514 of this title] may be cited as the ‘Examination and Supervisory Privilege Parity Act of 2014’.”
+Pub. L. 113–173, § 1, Sept. 26, 2014, 128 Stat. 1899, provided that: “This Act [amending section 5514 of this title] may be cited as the ‘Examination and Supervisory Privilege Parity Act of 2014’.”
 
 **Short Title**
 
-Pub. L. 111–203, § 1(a), July 21, 2010, 124 Stat. 1376, provided that: “This Act [see Tables for classification] may be cited as the ‘Dodd-Frank Wall Street Reform and Consumer Protection Act’.”
+Pub. L. 111–203, § 1(a), July 21, 2010, 124 Stat. 1376, provided that: “This Act [see Tables for classification] may be cited as the ‘Dodd-Frank Wall Street Reform and Consumer Protection Act’.”
 
-Pub. L. 111–203, title I, § 101, July 21, 2010, 124 Stat. 1391, provided that: “This title [enacting subchapter I of this chapter and amending sections 1818, 1820, 1833b, and 3105 of this title, sections 3132 and 5314 of Title 5, Government Organization and Employees, and section 78*o* of Title 15, Commerce and Trade] may be cited as the ‘Financial Stability Act of 2010’.”
+Pub. L. 111–203, title I, § 101, July 21, 2010, 124 Stat. 1391, provided that: “This title [enacting subchapter I of this chapter and amending sections 1818, 1820, 1833b, and 3105 of this title, sections 3132 and 5314 of Title 5, Government Organization and Employees, and section 78*o* of Title 15, Commerce and Trade] may be cited as the ‘Financial Stability Act of 2010’.”
 
-Pub. L. 111–203, title III, § 300, July 21, 2010, 124 Stat. 1520, provided that: “This title [enacting subchapter III of this chapter and sections 4b and 16 of this title, amending sections 1, 11, 248, 461, 481, 482, 1438, 1462 to 1464, 1466a to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, section 906 of Title 2, The Congress, sections 78c, 78*l*, 78*o*–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and section 3502 of Title 44, Public Printing and Documents, repealing section 1441a of this title, enacting provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and section 906 of Title 2, and amending provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and section 509 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Enhancing Financial Institution Safety and Soundness Act of 2010’.”
+Pub. L. 111–203, title III, § 300, July 21, 2010, 124 Stat. 1520, provided that: “This title [enacting subchapter III of this chapter and sections 4b and 16 of this title, amending sections 1, 11, 248, 461, 481, 482, 1438, 1462 to 1464, 1466a to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, section 906 of Title 2, The Congress, sections 78c, 78*l*, 78*o*–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and section 3502 of Title 44, Public Printing and Documents, repealing section 1441a of this title, enacting provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and section 906 of Title 2, and amending provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and section 509 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Enhancing Financial Institution Safety and Soundness Act of 2010’.”
 
-Pub. L. 111–203, title VIII, § 801, July 21, 2010, 124 Stat. 1802, provided that: “This title [enacting subchapter IV of this chapter] may be cited as the ‘Payment, Clearing, and Settlement Supervision Act of 2010’.”
+Pub. L. 111–203, title VIII, § 801, July 21, 2010, 124 Stat. 1802, provided that: “This title [enacting subchapter IV of this chapter] may be cited as the ‘Payment, Clearing, and Settlement Supervision Act of 2010’.”
 
-Pub. L. 111–203, title X, § 1001, July 21, 2010, 124 Stat. 1955, provided that: “This title [see Tables for classification] may be cited as the ‘Consumer Financial Protection Act of 2010’.”
+Pub. L. 111–203, title X, § 1001, July 21, 2010, 124 Stat. 1955, provided that: “This title [see Tables for classification] may be cited as the ‘Consumer Financial Protection Act of 2010’.”
 
-Pub. L. 111–203, title XII, § 1201, July 21, 2010, 124 Stat. 2129, provided that: “This title [enacting subchapter VII of this chapter and section 4719 of this title] may be cited as the ‘Improving Access to Mainstream Financial Institutions Act of 2010’.”
+Pub. L. 111–203, title XII, § 1201, July 21, 2010, 124 Stat. 2129, provided that: “This title [enacting subchapter VII of this chapter and section 4719 of this title] may be cited as the ‘Improving Access to Mainstream Financial Institutions Act of 2010’.”
 
 **Executive Documents**
 
 **Executive Order No. 13772**
 
-Ex. Ord. No. 13772, Feb. 3, 2017, 82 F.R. 9965, which set out Core Principles for regulating the United States financial system, was revoked by Ex. Ord. No. 14018, § 1, Feb. 24, 2021, 86 F.R. 11855.
+Ex. Ord. No. 13772, Feb. 3, 2017, 82 F.R. 9965, which set out Core Principles for regulating the United States financial system, was revoked by Ex. Ord. No. 14018, § 1, Feb. 24, 2021, 86 F.R. 11855.
 
-## § 5302. Severability
+## § 5302. Severability
 
 If any provision of this Act, an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstance shall not be affected thereby.
 
-(Pub. L. 111–203, § 3, July 21, 2010, 124 Stat. 1390.)
+(Pub. L. 111–203, § 3, July 21, 2010, 124 Stat. 1390.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -241,17 +241,17 @@ This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 13
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-## § 5303. Antitrust savings clause
+## § 5303. Antitrust savings clause
 
 Nothing in this Act, or any amendment made by this Act, shall be construed to modify, impair, or supersede the operation of any of the antitrust laws, unless otherwise specified. For purposes of this section, the term “antitrust laws” has the same meaning as in subsection (a) of section 12 of title 15, except that such term includes section 45 of title 15, to the extent that such section 45 applies to unfair methods of competition.
 
-(Pub. L. 111–203, § 6, July 21, 2010, 124 Stat. 1390.)
+(Pub. L. 111–203, § 6, July 21, 2010, 124 Stat. 1390.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -261,7 +261,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 ## SUBCHAPTER I—FINANCIAL STABILITY
 
-### § 5311. Definitions
+### § 5311. Definitions
 
 **(a) In general** For purposes of this subchapter, unless the context otherwise requires, the following definitions shall apply:
 
@@ -321,7 +321,7 @@ The Board of Governors shall establish, by regulation, the requirements for dete
 
 For purposes of the application of parts A and C (other than section 5323(b) of this title) with respect to a foreign nonbank financial company, references in this subchapter to “company” or “subsidiary” include only the United States activities and subsidiaries of such foreign company, except as otherwise provided.
 
-(Pub. L. 111–203, title I, § 102, July 21, 2010, 124 Stat. 1391.)
+(Pub. L. 111–203, title I, § 102, July 21, 2010, 124 Stat. 1391.)
 
 **Editorial Notes**
 
@@ -329,11 +329,11 @@ For purposes of the application of parts A and C (other than section 5323(b) of 
 
 This subchapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Bank Holding Company Act of 1956, referred to in subsec. (a)(1), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in subsec. (a)(1), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (a)(4)(B), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§ 2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (a)(4)(B), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§ 2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 
-Part C, referred to in subsec. (c), was in the original “subtitle C”, meaning subtitle C (§§ 161–176) of title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1420, which is classified principally to part C (§ 5361 et seq.) of this subchapter. For complete classification of subtitle C to the Code, see Tables.
+Part C, referred to in subsec. (c), was in the original “subtitle C”, meaning subtitle C (§§ 161–176) of title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1420, which is classified principally to part C (§ 5361 et seq.) of this subchapter. For complete classification of subtitle C to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -347,7 +347,7 @@ This subchapter known as the “Financial Stability Act of 2010”, see Short Ti
 
 ### Part A—Financial Stability Oversight Council
 
-#### § 5321. Financial Stability Oversight Council established
+#### § 5321. Financial Stability Oversight Council established
 
 **(a) Establishment**
 
@@ -451,7 +451,7 @@ All members of the Council who are officers or employees of the United States sh
 
 Any employee of the Federal Government may be detailed to the Council without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege. An employee of the Federal Government detailed to the Council shall report to and be subject to oversight by the Council during the assignment to the Council, and shall be compensated by the department or agency from which the employee was detailed.
 
-(Pub. L. 111–203, title I, § 111, July 21, 2010, 124 Stat. 1392; Pub. L. 115–61, § 2, Sept. 27, 2017, 131 Stat. 1158; Pub. L. 117–286, § 4(a)(58), Dec. 27, 2022, 136 Stat. 4311.)
+(Pub. L. 111–203, title I, § 111, July 21, 2010, 124 Stat. 1392; Pub. L. 115–61, § 2, Sept. 27, 2017, 131 Stat. 1158; Pub. L. 117–286, § 4(a)(58), Dec. 27, 2022, 136 Stat. 4311.)
 
 **Editorial Notes**
 
@@ -465,7 +465,7 @@ Section is comprised of section 111 of Pub. L. 111–203. Subsec. (i)(2) of sect
 
 2017—Subsec. (c)(4). Pub. L. 115–61 added par. (4).
 
-#### § 5322. Council authority
+#### § 5322. Council authority
 
 **(a) Purposes and duties of the Council**
 
@@ -485,9 +485,9 @@ Section is comprised of section 111 of Pub. L. 111–203. Subsec. (i)(2) of sect
 
 **(C)** monitor the financial services marketplace in order to identify potential threats to the financial stability of the United States;
 
-**(D)** to 1
+**(D)** to 1
 
-<sup>1</sup>  So in original. The word “to” probably should not appear.
+<sup>1</sup> So in original. The word “to” probably should not appear.
 
 monitor domestic and international financial regulatory proposals and developments, including insurance and accounting issues, and to advise Congress and make recommendations in such areas that will enhance the integrity, efficiency, competitiveness, and stability of the U.S. financial markets;
 
@@ -589,7 +589,7 @@ The submission of any nonpublicly available data or information under this subse
 
 Section 552 of title 5, including the exceptions thereunder, shall apply to any data or information submitted under this subsection and part B.
 
-(Pub. L. 111–203, title I, § 112, July 21, 2010, 124 Stat. 1394.)
+(Pub. L. 111–203, title I, § 112, July 21, 2010, 124 Stat. 1394.)
 
 **Editorial Notes**
 
@@ -597,7 +597,7 @@ Section 552 of title 5, including the exceptions thereunder, shall apply to any 
 
 This subchapter, referred to in subsecs. (a)(2) and (d)(1)(B), (4), (5)(A), was in the original “this title”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-#### § 5323. Authority to require supervision and regulation of certain nonbank financial companies
+#### § 5323. Authority to require supervision and regulation of certain nonbank financial companies
 
 **(a) U.S. nonbank financial companies supervised by the Board of Governors**
 
@@ -757,7 +757,7 @@ If the Council makes a final determination under this section with respect to a 
 
 In exercising its duties under this subchapter with respect to foreign nonbank financial companies, foreign-based bank holding companies, and cross-border activities and markets, the Council shall consult with appropriate foreign regulatory authorities, to the extent appropriate.
 
-(Pub. L. 111–203, title I, § 113, July 21, 2010, 124 Stat. 1398.)
+(Pub. L. 111–203, title I, § 113, July 21, 2010, 124 Stat. 1398.)
 
 **Editorial Notes**
 
@@ -765,13 +765,13 @@ In exercising its duties under this subchapter with respect to foreign nonbank f
 
 This subchapter, referred to in subsecs. (a)(1), (b)(1), (c)(1), (3), (6), (e)(1), and (i), was in the original “this title”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-This Act, referred to in subsec. (c)(6), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This Act, referred to in subsec. (c)(6), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-#### § 5324. Registration of nonbank financial companies supervised by the Board of Governors
+#### § 5324. Registration of nonbank financial companies supervised by the Board of Governors
 
 Not later than 180 days after the date of a final Council determination under section 5323 of this title that a nonbank financial company is to be supervised by the Board of Governors, such company shall register with the Board of Governors, on forms prescribed by the Board of Governors, which shall include such information as the Board of Governors, in consultation with the Council, may deem necessary or appropriate to carry out this subchapter.
 
-(Pub. L. 111–203, title I, § 114, July 21, 2010, 124 Stat. 1403.)
+(Pub. L. 111–203, title I, § 114, July 21, 2010, 124 Stat. 1403.)
 
 **Editorial Notes**
 
@@ -779,7 +779,7 @@ Not later than 180 days after the date of a final Council determination under se
 
 This subchapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-#### § 5325. Enhanced supervision and prudential standards for nonbank financial companies supervised by the Board of Governors and certain bank holding companies
+#### § 5325. Enhanced supervision and prudential standards for nonbank financial companies supervised by the Board of Governors and certain bank holding companies
 
 **(a) In general**
 
@@ -901,7 +901,7 @@ The Council may make recommendations to the Board of Governors to require period
 
 The Council may make recommendations to the Board of Governors to require short-term debt limits to mitigate the risks that an over-accumulation of such debt could pose to bank holding companies described in subsection (a), nonbank financial companies supervised by the Board of Governors, or the financial system.
 
-(Pub. L. 111–203, title I, § 115, July 21, 2010, 124 Stat. 1403; Pub. L. 115–174, title IV, § 401(c)(1)(A), May 24, 2018, 132 Stat. 1358.)
+(Pub. L. 111–203, title I, § 115, July 21, 2010, 124 Stat. 1403; Pub. L. 115–174, title IV, § 401(c)(1)(A), May 24, 2018, 132 Stat. 1358.)
 
 **Editorial Notes**
 
@@ -919,7 +919,7 @@ Except as otherwise provided, amendment by Pub. L. 115–174 effective 18 months
 
 For construction of amendment by Pub. L. 115–174 as applied to certain foreign banking organizations, see section 401(g) of Pub. L. 115–174, set out as a note under section 5365 of this title.
 
-#### § 5326. Reports
+#### § 5326. Reports
 
 **(a) In general** Subject to subsection (b), the Council, acting through the Office of Financial Research, may require a bank holding company with total consolidated assets of $250,000,000,000 or greater or a nonbank financial company supervised by the Board of Governors, and any subsidiary thereof, to submit certified reports to keep the Council informed as to—
 
@@ -949,7 +949,7 @@ Each bank holding company described in subsection (a) and nonbank financial comp
 
 The Council shall maintain the confidentiality of the reports obtained under subsection (a) and paragraph (1)(A) of this subsection.
 
-(Pub. L. 111–203, title I, § 116, July 21, 2010, 124 Stat. 1406; Pub. L. 115–174, title IV, § 401(c)(1)(B), May 24, 2018, 132 Stat. 1358.)
+(Pub. L. 111–203, title I, § 116, July 21, 2010, 124 Stat. 1406; Pub. L. 115–174, title IV, § 401(c)(1)(B), May 24, 2018, 132 Stat. 1358.)
 
 **Editorial Notes**
 
@@ -967,7 +967,7 @@ Except as otherwise provided, amendment by Pub. L. 115–174 effective 18 months
 
 For construction of amendment by Pub. L. 115–174 as applied to certain foreign banking organizations, see section 401(g) of Pub. L. 115–174, set out as a note under section 5365 of this title.
 
-#### § 5327. Treatment of certain companies that cease to be bank holding companies
+#### § 5327. Treatment of certain companies that cease to be bank holding companies
 
 **(a) Applicability** This section shall apply to—
 
@@ -1009,27 +1009,27 @@ In making a decision regarding an appeal under paragraph (1), the Council shall 
 
 If the Council denies an appeal under this subsection, the Council shall, not less frequently than annually, review and reevaluate the decision.
 
-(Pub. L. 111–203, title I, § 117, July 21, 2010, 124 Stat. 1406.)
+(Pub. L. 111–203, title I, § 117, July 21, 2010, 124 Stat. 1406.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(1)(B), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(1)(B), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-#### § 5328. Council funding
+#### § 5328. Council funding
 
 Any expenses of the Council shall be treated as expenses of, and paid by, the Office of Financial Research.
 
-(Pub. L. 111–203, title I, § 118, July 21, 2010, 124 Stat. 1408.)
+(Pub. L. 111–203, title I, § 118, July 21, 2010, 124 Stat. 1408.)
 
-#### § 5329. Resolution of supervisory jurisdictional disputes among member agencies
+#### § 5329. Resolution of supervisory jurisdictional disputes among member agencies
 
 **(a) Request for Council recommendation** The Council shall seek to resolve a dispute among 2 or more member agencies, if—
 
-**(1)** a member agency has a dispute with another member agency about the respective jurisdiction over a particular bank holding company, nonbank financial company, or financial activity or product (excluding matters for which another dispute mechanism specifically has been provided under title X); 1
+**(1)** a member agency has a dispute with another member agency about the respective jurisdiction over a particular bank holding company, nonbank financial company, or financial activity or product (excluding matters for which another dispute mechanism specifically has been provided under title X); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** the Council determines that the disputing agencies cannot, after a demonstrated good faith effort, resolve the dispute without the intervention of the Council; and
 
@@ -1059,15 +1059,15 @@ Any expenses of the Council shall be treated as expenses of, and paid by, the Of
 
 Any recommendation made by the Council under subsection (c) shall not be binding on the Federal agencies that are parties to the dispute.
 
-(Pub. L. 111–203, title I, § 119, July 21, 2010, 124 Stat. 1408.)
+(Pub. L. 111–203, title I, § 119, July 21, 2010, 124 Stat. 1408.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title X, referred to in subsec. (a)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted subchapter V (§ 5481 et seq.) of this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Title X, referred to in subsec. (a)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted subchapter V (§ 5481 et seq.) of this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-#### § 5330. Additional standards applicable to activities or practices for financial stability purposes
+#### § 5330. Additional standards applicable to activities or practices for financial stability purposes
 
 **(a) In general**
 
@@ -1125,9 +1125,9 @@ Upon receipt of a recommendation under paragraph (1), a primary financial regula
 
 Each primary financial regulatory agency that has imposed standards under this section shall promulgate regulations to establish a procedure under which entities under its jurisdiction may appeal a determination by such agency under this paragraph that standards imposed under this section should remain in effect.
 
-(Pub. L. 111–203, title I, § 120, July 21, 2010, 124 Stat. 1408.)
+(Pub. L. 111–203, title I, § 120, July 21, 2010, 124 Stat. 1408.)
 
-#### § 5331. Mitigation of risks to financial stability
+#### § 5331. Mitigation of risks to financial stability
 
 **(a) Mitigatory actions** If the Board of Governors determines that a bank holding company with total consolidated assets of $250,000,000,000 or more, or a nonbank financial company supervised by the Board of Governors, poses a grave threat to the financial stability of the United States, the Board of Governors, upon an affirmative vote of not fewer than ⅔ of the voting members of the Council then serving, shall—
 
@@ -1165,7 +1165,7 @@ The Board of Governors and the Council shall take into consideration the factors
 
 **(2)** taking into account the extent to which the foreign nonbank financial company or foreign-based bank holding company is subject on a consolidated basis to home country standards that are comparable to those applied to financial companies in the United States.
 
-(Pub. L. 111–203, title I, § 121, July 21, 2010, 124 Stat. 1410; Pub. L. 115–174, title IV, § 401(c)(1)(C), May 24, 2018, 132 Stat. 1358.)
+(Pub. L. 111–203, title I, § 121, July 21, 2010, 124 Stat. 1410; Pub. L. 115–174, title IV, § 401(c)(1)(C), May 24, 2018, 132 Stat. 1358.)
 
 **Editorial Notes**
 
@@ -1183,7 +1183,7 @@ Except as otherwise provided, amendment by Pub. L. 115–174 effective 18 months
 
 For construction of amendment by Pub. L. 115–174 as applied to certain foreign banking organizations, see section 401(g) of Pub. L. 115–174, set out as a note under section 5365 of this title.
 
-#### § 5332. GAO audit of Council
+#### § 5332. GAO audit of Council
 
 **(a) Authority to audit** The Comptroller General of the United States may audit the activities of—
 
@@ -1205,9 +1205,9 @@ For construction of amendment by Pub. L. 115–174 as applied to certain foreign
 
 The Comptroller General may make and retain copies of such books, accounts, and other records, access to which is granted under this section, as the Comptroller General considers appropriate.
 
-(Pub. L. 111–203, title I, § 122, July 21, 2010, 124 Stat. 1411.)
+(Pub. L. 111–203, title I, § 122, July 21, 2010, 124 Stat. 1411.)
 
-#### § 5333. Study of the effects of size and complexity of financial institutions on capital market efficiency and economic growth
+#### § 5333. Study of the effects of size and complexity of financial institutions on capital market efficiency and economic growth
 
 **(a) Study required**
 
@@ -1237,9 +1237,9 @@ The study required by this section shall include recommendations for the optimal
 
 Not later than the end of the 180-day period beginning on July 21, 2010, and not later than every 5 years thereafter, the Chairperson shall issue a report to the Congress containing any findings and determinations made in carrying out the study required under subsection (a).
 
-(Pub. L. 111–203, title I, § 123, July 21, 2010, 124 Stat. 1412.)
+(Pub. L. 111–203, title I, § 123, July 21, 2010, 124 Stat. 1412.)
 
-#### § 5334. Data standards
+#### § 5334. Data standards
 
 **(a) Definitions** In this section—
 
@@ -1309,15 +1309,15 @@ Not later than 2 years after December 23, 2022, the heads of the covered agencie
 
 The data standards established in the final rules promulgated under subsection (b)(2) shall take effect not later than 2 years after the date on which those final rules are promulgated under that subsection.
 
-(Pub. L. 111–203, title I, § 124, as added Pub. L. 117–263, div. E, title LVIII, § 5811(a), Dec. 23, 2022, 136 Stat. 3422.)
+(Pub. L. 111–203, title I, § 124, as added Pub. L. 117–263, div. E, title LVIII, § 5811(a), Dec. 23, 2022, 136 Stat. 3422.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Rules of Construction Applicable to Pub. L. 117–263**
 
-Pub. L. 117–263, div. E, title LVIII, § 5813, Dec. 23, 2022, 136 Stat. 3424, provided that: “Nothing in this subtitle [subtitle A (§§ 5811–5813) of title LVIII of div. E of Pub. L. 117–263, enacting this section, section 5335 of this title, and provisions set out as a note under section 5335 of this title], or the amendments made by this subtitle, shall be construed to require the Secretary of the Treasury to collect or make publicly available additional information under the Financial Stability Act of 2010 (12 U.S.C. 5311 et seq.), beyond information that was collected or made publicly available under that Act, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. E, title LVIII, § 5813, Dec. 23, 2022, 136 Stat. 3424, provided that: “Nothing in this subtitle [subtitle A (§§ 5811–5813) of title LVIII of div. E of Pub. L. 117–263, enacting this section, section 5335 of this title, and provisions set out as a note under section 5335 of this title], or the amendments made by this subtitle, shall be construed to require the Secretary of the Treasury to collect or make publicly available additional information under the Financial Stability Act of 2010 (12 U.S.C. 5311 et seq.), beyond information that was collected or made publicly available under that Act, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
 
-Pub. L. 117–263, div. E, title LVIII, § 5891, Dec. 23, 2022, 136 Stat. 3438, provided that:
+Pub. L. 117–263, div. E, title LVIII, § 5891, Dec. 23, 2022, 136 Stat. 3438, provided that:
 
 > **“(a) No Effect on Intellectual Property.—** Nothing in this title [see Short Title of 2022 Amendment note set out under section 78a of Title 15, Commerce and Trade], or the amendments made by this title, may be construed to alter the legal protections, as in effect on the day before the date of enactment of this Act [Dec. 23, 2022], of copyrighted material or other intellectual property rights of any non-Federal person.
 
@@ -1325,7 +1325,7 @@ Pub. L. 117–263, div. E, title LVIII, § 5891, Dec. 23, 2022, 136 Stat. 3438
 
 > **“(c) Preservation of Agency Authority To Tailor Requirements.—** Nothing in this title, or the amendments made by this title, may be construed to prohibit the head of a covered agency, as defined in section 124(a) of the Financial Stability Act of 2010 [12 U.S.C. 5334(a)], as added by section 5811(a) of this title, from tailoring those standards when those standards are adopted under this title and the amendments made by this title.”
 
-Pub. L. 117–263, div. E, title LVIII, § 5892, Dec. 23, 2022, 136 Stat. 3438, provided that:
+Pub. L. 117–263, div. E, title LVIII, § 5892, Dec. 23, 2022, 136 Stat. 3438, provided that:
 
 > **“(a) In General.—** Nothing in this title [see Short Title of 2022 Amendment note set out under section 78a of Title 15, Commerce and Trade], or the amendments made by this title, shall require the disclosure to the public of—
 
@@ -1343,7 +1343,7 @@ Pub. L. 117–263, div. E, title LVIII, § 5892, Dec. 23, 2022, 136 Stat. 3438
 
 > **“(c) Data Privacy and Personally Identifiable Information.—** Nothing in this title, or the amendments made by this title, shall be construed to require the Secretary of the Treasury, the Securities and Exchange Commission, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Director of the Bureau of Consumer Financial Protection, the Board of Governors of the Federal Reserve System, the National Credit Union Administration Board, the Director of the Federal Housing Finance Agency, or the head of any other primary financial regulatory agency (as defined in section 2 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301)) designated by the Secretary of the Treasury to disclose to the public any information that can be used to distinguish or trace the identity of an individual, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual.”
 
-#### § 5335. Open data publication
+#### § 5335. Open data publication
 
 All public data assets published by the Secretary under this part shall be—
 
@@ -1355,17 +1355,17 @@ All public data assets published by the Secretary under this part shall be—
 
 **(4)** accessible via application programming interface where appropriate.
 
-(Pub. L. 111–203, title I, § 125, as added Pub. L. 117–263, div. E, title LVIII, § 5812(a), Dec. 23, 2022, 136 Stat. 3423.)
+(Pub. L. 111–203, title I, § 125, as added Pub. L. 117–263, div. E, title LVIII, § 5812(a), Dec. 23, 2022, 136 Stat. 3423.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Rulemaking**
 
-Pub. L. 117–263, div. E, title LVIII, § 5812(c), Dec. 23, 2022, 136 Stat. 3423, provided that:
+Pub. L. 117–263, div. E, title LVIII, § 5812(c), Dec. 23, 2022, 136 Stat. 3423, provided that:
 
 > **“(1) In general.—** The Secretary of the Treasury shall issue rules to carry out the amendments made by this section [enacting this section], which shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [12 U.S.C. 5334(b)(2)], as added by section 5811(a) of this title.
 
-> **“(2) Delegation.—** Notwithstanding any other provision of law, the Secretary of the Treasury may delegate the functions required under the amendments made by this subtitle [subtitle A (§§ 5811–5813) of title LVIII of div. E of Pub. L. 117–263, enacting this section and section 5334 of this title] to an appropriate office within the Department of the Treasury.”
+> **“(2) Delegation.—** Notwithstanding any other provision of law, the Secretary of the Treasury may delegate the functions required under the amendments made by this subtitle [subtitle A (§§ 5811–5813) of title LVIII of div. E of Pub. L. 117–263, enacting this section and section 5334 of this title] to an appropriate office within the Department of the Treasury.”
 
 **Rule of Construction**
 
@@ -1373,7 +1373,7 @@ Enactment of section not to be construed to require certain additional informati
 
 ### Part B—Office of Financial Research
 
-#### § 5341. Definitions
+#### § 5341. Definitions
 
 For purposes of this part—
 
@@ -1397,15 +1397,15 @@ For purposes of this part—
 
 **(8)** the term “financial instrument” means a financial contract in which the terms and conditions are publicly available, and the roles of one or more of the counterparties are assignable without the consent of any of the other counterparties (including common stock of a publicly traded company, government bonds, or exchange traded futures and options contracts).
 
-(Pub. L. 111–203, title I, § 151, July 21, 2010, 124 Stat. 1412.)
+(Pub. L. 111–203, title I, § 151, July 21, 2010, 124 Stat. 1412.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter II, referred to in par. (2), was in the original “title II”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to subchapter II (§ 5381 et seq.) of this chapter. For complete classification of title II to the Code, see Tables.
+Subchapter II, referred to in par. (2), was in the original “title II”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to subchapter II (§ 5381 et seq.) of this chapter. For complete classification of title II to the Code, see Tables.
 
-#### § 5342. Office of Financial Research established
+#### § 5342. Office of Financial Research established
 
 **(a) Establishment**
 
@@ -1469,7 +1469,7 @@ The Office, in consultation with the Chairperson, may appoint such special advis
 
 The Office, in consultation with the Chairperson, may establish and maintain an academic and professional fellowship program, under which qualified academics and professionals shall be invited to spend not longer than 2 years at the Office, to perform research and to provide advanced training for Office personnel.
 
-(Pub. L. 111–203, title I, § 152, July 21, 2010, 124 Stat. 1413.)
+(Pub. L. 111–203, title I, § 152, July 21, 2010, 124 Stat. 1413.)
 
 **Editorial Notes**
 
@@ -1481,7 +1481,7 @@ Level III of the Executive Schedule, referred to in subsec. (b)(3), is set out i
 
 Section is comprised of section 152 of Pub. L. 111–203. Subsecs. (d)(3), (4) and (j) of section 152 amended section 1833b of this title and sections 3132 and 5314 of Title 5, Government Organization and Employees, respectively.
 
-#### § 5343. Purpose and duties of the Office
+#### § 5343. Purpose and duties of the Office
 
 **(a) Purpose and duties** The purpose of the Office is to support the Council in fulfilling the purposes and duties of the Council, as set forth in part A, and to support member agencies, by—
 
@@ -1551,15 +1551,15 @@ Subpoenas under paragraph (1) shall bear the signature of the Director, and shal
 
 In the case of contumacy or failure to obey a subpoena, the subpoena shall be enforceable by order of any appropriate district court of the United States. Any failure to obey the order of the court may be punished by the court as a contempt of court.
 
-(Pub. L. 111–203, title I, § 153, July 21, 2010, 124 Stat. 1415.)
+(Pub. L. 111–203, title I, § 153, July 21, 2010, 124 Stat. 1415.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (a)(7), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This Act, referred to in subsec. (a)(7), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-#### § 5344. Organizational structure; responsibilities of primary programmatic units
+#### § 5344. Organizational structure; responsibilities of primary programmatic units
 
 **(a) In general** There are established within the Office, to carry out the programmatic responsibilities of the Office—
 
@@ -1625,7 +1625,7 @@ The Office shall, after consultation with the member agencies, provide certain d
 
 **(c) Research and Analysis Center**
 
-**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] General duties** The Research and Analysis Center, on behalf of the Council, shall develop and maintain independent analytical capabilities and computing resources—
+**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] General duties** The Research and Analysis Center, on behalf of the Council, shall develop and maintain independent analytical capabilities and computing resources—
 
 **(A)** to develop and maintain metrics and reporting systems for risks to the financial stability of the United States;
 
@@ -1657,9 +1657,9 @@ Not later than 2 years after July 21, 2010, and not later than 120 days after th
 
 **(C)** key findings from the research and analysis of the financial system by the Office.
 
-(Pub. L. 111–203, title I, § 154, July 21, 2010, 124 Stat. 1416.)
+(Pub. L. 111–203, title I, § 154, July 21, 2010, 124 Stat. 1416.)
 
-#### § 5345. Funding
+#### § 5345. Funding
 
 **(a) Financial Research Fund**
 
@@ -1671,7 +1671,7 @@ There is established in the Treasury of the United States a separate fund to be 
 
 All amounts provided to the Office under subsection (c),1
 
-<sup>1</sup>  So in original. Comma probably should not appear.
+<sup>1</sup> So in original. Comma probably should not appear.
 
 and all assessments that the Office receives under subsection (d) shall be deposited into the Financial Research Fund.
 
@@ -1709,13 +1709,13 @@ During the 2-year period following July 21, 2010, the Board of Governors shall p
 
 **(d) Permanent self-funding**
 
-Beginning 2 years after July 21, 2010, the Secretary shall establish, by regulation, and with the approval of the Council, an assessment schedule, including the assessment base and rates, applicable to bank holding companies with total consolidated assets of $$250,000,000,000 2
+Beginning 2 years after July 21, 2010, the Secretary shall establish, by regulation, and with the approval of the Council, an assessment schedule, including the assessment base and rates, applicable to bank holding companies with total consolidated assets of $$250,000,000,000 2
 
-<sup>2</sup>  See Codification and 2018 Amendment notes below.
+<sup>2</sup> See Codification and 2018 Amendment notes below.
 
 or greater and nonbank financial companies supervised by the Board of Governors, that takes into account differences among such companies, based on the considerations for establishing the prudential standards under section 5325 of this title, to collect assessments equal to the total expenses of the Office.
 
-(Pub. L. 111–203, title I, § 155, July 21, 2010, 124 Stat. 1418; Pub. L. 115–174, title IV, § 401(c)(1)(D), May 24, 2018, 132 Stat. 1358.)
+(Pub. L. 111–203, title I, § 155, July 21, 2010, 124 Stat. 1418; Pub. L. 115–174, title IV, § 401(c)(1)(D), May 24, 2018, 132 Stat. 1358.)
 
 **Editorial Notes**
 
@@ -1737,7 +1737,7 @@ Except as otherwise provided, amendment by Pub. L. 115–174 effective 18 months
 
 For construction of amendment by Pub. L. 115–174 as applied to certain foreign banking organizations, see section 401(g) of Pub. L. 115–174, set out as a note under section 5365 of this title.
 
-#### § 5346. Transition oversight
+#### § 5346. Transition oversight
 
 **(a) Purpose** The purpose of this section is to ensure that the Office—
 
@@ -1807,11 +1807,11 @@ The reporting requirement under subsection (b) shall terminate 5 years after Jul
 
 **(2)** the rights of employees under chapter 71 of title 5.
 
-(Pub. L. 111–203, title I, § 156, July 21, 2010, 124 Stat. 1419.)
+(Pub. L. 111–203, title I, § 156, July 21, 2010, 124 Stat. 1419.)
 
 ### Part C—Additional Board of Governors Authority for Certain Nonbank Financial Companies and Bank Holding Companies
 
-#### § 5361. Reports by and examinations of nonbank financial companies by the Board of Governors
+#### § 5361. Reports by and examinations of nonbank financial companies by the Board of Governors
 
 **(a) Reports**
 
@@ -1867,7 +1867,7 @@ For purposes of this subsection, the Board of Governors shall, to the fullest ex
 
 **(2)** avoid duplication of examination activities, reporting requirements, and requests for information, to the fullest extent possible.
 
-(Pub. L. 111–203, title I, § 161, July 21, 2010, 124 Stat. 1420; Pub. L. 117–263, div. E, title LVIII, § 5861(a), Dec. 23, 2022, 136 Stat. 3434.)
+(Pub. L. 111–203, title I, § 161, July 21, 2010, 124 Stat. 1420; Pub. L. 117–263, div. E, title LVIII, § 5861(a), Dec. 23, 2022, 136 Stat. 3434.)
 
 **Editorial Notes**
 
@@ -1885,7 +1885,7 @@ This subchapter, referred to in subsecs. (a)(1)(B) and (b)(1)(D), was in the ori
 
 Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5864 of Pub. L. 117–263, set out as a note under section 253 of this title.
 
-#### § 5362. Enforcement
+#### § 5362. Enforcement
 
 **(a) In general**
 
@@ -1901,15 +1901,15 @@ If the Board of Governors determines that a condition, practice, or activity of 
 
 If, during the 60-day period beginning on the date on which the primary financial regulatory agency receives a recommendation under paragraph (1), the primary financial regulatory agency does not take supervisory or enforcement action against a subsidiary that is acceptable to the Board of Governors, the Board of Governors (upon a vote of its members) may take the recommended supervisory or enforcement action, as if the subsidiary were a bank holding company subject to supervision by the Board of Governors.
 
-(Pub. L. 111–203, title I, § 162, July 21, 2010, 124 Stat. 1421.)
+(Pub. L. 111–203, title I, § 162, July 21, 2010, 124 Stat. 1421.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (b)(1), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This Act, referred to in subsec. (b)(1), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-#### § 5363. Acquisitions
+#### § 5363. Acquisitions
 
 **(a) Acquisitions of banks; treatment as a bank holding company**
 
@@ -1937,7 +1937,7 @@ In addition to the standards provided in section 1843(j)(2) of this title, the B
 
 Solely for purposes of section 18a(c)(8) of title 15, the transactions subject to the requirements of paragraph (1) shall be treated as if Board of Governors approval is not required.
 
-(Pub. L. 111–203, title I, § 163, July 21, 2010, 124 Stat. 1422; Pub. L. 115–174, title IV, § 401(c)(1)(E), May 24, 2018, 132 Stat. 1358.)
+(Pub. L. 111–203, title I, § 163, July 21, 2010, 124 Stat. 1422; Pub. L. 115–174, title IV, § 401(c)(1)(E), May 24, 2018, 132 Stat. 1358.)
 
 **Editorial Notes**
 
@@ -1955,25 +1955,25 @@ Except as otherwise provided, amendment by Pub. L. 115–174 effective 18 months
 
 For construction of amendment by Pub. L. 115–174 as applied to certain foreign banking organizations, see section 401(g) of Pub. L. 115–174, set out as a note under section 5365 of this title.
 
-#### § 5364. Prohibition against management interlocks between certain financial companies
+#### § 5364. Prohibition against management interlocks between certain financial companies
 
-A nonbank financial company supervised by the Board of Governors shall be treated as a bank holding company for purposes of the Depository Institutions 1
+A nonbank financial company supervised by the Board of Governors shall be treated as a bank holding company for purposes of the Depository Institutions 1
 
-<sup>1</sup>  So in original. Probably should be “Institution”.
+<sup>1</sup> So in original. Probably should be “Institution”.
 
-Management Interlocks Act (12 U.S.C. 3201 et seq.), except that the Board of Governors shall not exercise the authority provided in section 7 2
+Management Interlocks Act (12 U.S.C. 3201 et seq.), except that the Board of Governors shall not exercise the authority provided in section 7 2
 
-<sup>2</sup>  So in original. There is no section 7 of such Act.
+<sup>2</sup> So in original. There is no section 7 of such Act.
 
 of that Act (12 U.S.C. 3207) to permit service by a management official of a nonbank financial company supervised by the Board of Governors as a management official of any bank holding company with total consolidated assets equal to or greater than $250,000,000,000, or other nonaffiliated nonbank financial company supervised by the Board of Governors (other than to provide a temporary exemption for interlocks resulting from a merger, acquisition, or consolidation).
 
-(Pub. L. 111–203, title I, § 164, July 21, 2010, 124 Stat. 1423; Pub. L. 115–174, title IV, § 401(c)(1)(F), May 24, 2018, 132 Stat. 1358.)
+(Pub. L. 111–203, title I, § 164, July 21, 2010, 124 Stat. 1423; Pub. L. 115–174, title IV, § 401(c)(1)(F), May 24, 2018, 132 Stat. 1358.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Depository Institution Management Interlocks Act, referred to in text, is title II of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3672, which is classified principally to chapter 33 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
+The Depository Institution Management Interlocks Act, referred to in text, is title II of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3672, which is classified principally to chapter 33 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
 **Amendments**
 
@@ -1989,7 +1989,7 @@ Except as otherwise provided, amendment by Pub. L. 115–174 effective 18 months
 
 For construction of amendment by Pub. L. 115–174 as applied to certain foreign banking organizations, see section 401(g) of Pub. L. 115–174, set out as a note under section 5365 of this title.
 
-#### § 5365. Enhanced supervision and prudential standards for nonbank financial companies supervised by the Board of Governors and certain bank holding companies
+#### § 5365. Enhanced supervision and prudential standards for nonbank financial companies supervised by the Board of Governors and certain bank holding companies
 
 **(a) In general**
 
@@ -2335,47 +2335,47 @@ If the Board of Governors determines that an exemption from the requirement unde
 
 **(K)** Such other activities or transactions as the Board of Governors may, by rule, define.
 
-(Pub. L. 111–203, title I, § 165, July 21, 2010, 124 Stat. 1423; Pub. L. 115–174, title IV, § 401(a), May 24, 2018, 132 Stat. 1356.)
+(Pub. L. 111–203, title I, § 165, July 21, 2010, 124 Stat. 1423; Pub. L. 115–174, title IV, § 401(a), May 24, 2018, 132 Stat. 1356.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter II, referred to in subsec. (d)(6), was in the original “title II”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to subchapter II (§ 5381 et seq.) of this chapter. For complete classification of title II to the Code, see Tables.
+Subchapter II, referred to in subsec. (d)(6), was in the original “title II”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to subchapter II (§ 5381 et seq.) of this chapter. For complete classification of title II to the Code, see Tables.
 
-The Bank Holding Company Act of 1956, referred to in subsec. (g)(5), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in subsec. (g)(5), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–174, § 401(a)(1)(A), substituted “$250,000,000,000” for “$50,000,000,000” in introductory provisions.
+2018—Subsec. (a)(1). Pub. L. 115–174, § 401(a)(1)(A), substituted “$250,000,000,000” for “$50,000,000,000” in introductory provisions.
 
-Subsec. (a)(2)(A). Pub. L. 115–174, § 401(a)(1)(B)(i), substituted “the Board of Governors shall” for “the Board of Governors may”.
+Subsec. (a)(2)(A). Pub. L. 115–174, § 401(a)(1)(B)(i), substituted “the Board of Governors shall” for “the Board of Governors may”.
 
-Subsec. (a)(2)(B). Pub. L. 115–174, § 401(a)(1)(B)(ii), substituted “the applicable threshold” for “$50,000,000,000”.
+Subsec. (a)(2)(B). Pub. L. 115–174, § 401(a)(1)(B)(ii), substituted “the applicable threshold” for “$50,000,000,000”.
 
-Subsec. (a)(2)(C). Pub. L. 115–174, § 401(a)(1)(B)(iii), added subpar. (C).
+Subsec. (a)(2)(C). Pub. L. 115–174, § 401(a)(1)(B)(iii), added subpar. (C).
 
-Subsec. (b)(1)(A)(iv). Pub. L. 115–174, § 401(a)(2)(A), struck out “and credit exposure report” after “resolution plan”.
+Subsec. (b)(1)(A)(iv). Pub. L. 115–174, § 401(a)(2)(A), struck out “and credit exposure report” after “resolution plan”.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 115–174, § 401(a)(2)(B), inserted “, including credit exposure reports” before semicolon at end.
+Subsec. (b)(1)(B)(ii). Pub. L. 115–174, § 401(a)(2)(B), inserted “, including credit exposure reports” before semicolon at end.
 
-Subsec. (d)(2). Pub. L. 115–174, § 401(a)(3), substituted “The Board of Governors may” for “The Board of Governors shall” in introductory provisions.
+Subsec. (d)(2). Pub. L. 115–174, § 401(a)(3), substituted “The Board of Governors may” for “The Board of Governors shall” in introductory provisions.
 
-Subsec. (h)(2). Pub. L. 115–174, § 401(a)(4), substituted “$50,000,000,000” for “$10,000,000,000” in two places.
+Subsec. (h)(2). Pub. L. 115–174, § 401(a)(4), substituted “$50,000,000,000” for “$10,000,000,000” in two places.
 
-Subsec. (i)(1)(B)(i). Pub. L. 115–174, § 401(a)(5)(A), substituted “2 different sets” for “3 different sets” and struck out “, adverse,” after “baseline”.
+Subsec. (i)(1)(B)(i). Pub. L. 115–174, § 401(a)(5)(A), substituted “2 different sets” for “3 different sets” and struck out “, adverse,” after “baseline”.
 
-Subsec. (i)(2)(A). Pub. L. 115–174, § 401(a)(5)(B)(i), in first sentence, substituted “periodic” for “semiannual” and, in second sentence, substituted “$250,000,000,000” for “$10,000,000,000” and “periodic” for “annual”.
+Subsec. (i)(2)(A). Pub. L. 115–174, § 401(a)(5)(B)(i), in first sentence, substituted “periodic” for “semiannual” and, in second sentence, substituted “$250,000,000,000” for “$10,000,000,000” and “periodic” for “annual”.
 
-Subsec. (i)(2)(C)(ii). Pub. L. 115–174, § 401(a)(5)(B)(ii), substituted “2 different sets” for “3 different sets” and struck out “, adverse,” after “baseline”.
+Subsec. (i)(2)(C)(ii). Pub. L. 115–174, § 401(a)(5)(B)(ii), substituted “2 different sets” for “3 different sets” and struck out “, adverse,” after “baseline”.
 
-Subsec. (j)(1). Pub. L. 115–174, § 401(a)(6), substituted “$250,000,000,000” for “$50,000,000,000”.
+Subsec. (j)(1). Pub. L. 115–174, § 401(a)(6), substituted “$250,000,000,000” for “$50,000,000,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–174, title IV, § 401(d), May 24, 2018, 132 Stat. 1358, provided that:
+Pub. L. 115–174, title IV, § 401(d), May 24, 2018, 132 Stat. 1358, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 248, 5325, 5326, 5331, 5345, 5363, and 5364 of this title] shall take effect on the date that is 18 months after the date of enactment of this Act [May 24, 2018].
 
@@ -2389,7 +2389,7 @@ Pub. L. 115–174, title IV, § 401(d), May 24, 2018, 132 Stat. 1358, provided
 
 **Construction of 2018 Amendment**
 
-Pub. L. 115–174, title IV, § 401(b), May 24, 2018, 132 Stat. 1357, provided that:
+Pub. L. 115–174, title IV, § 401(b), May 24, 2018, 132 Stat. 1357, provided that:
 
 > “Nothing in subsection (a) [amending this section] shall be construed to limit—
 
@@ -2399,7 +2399,7 @@ Pub. L. 115–174, title IV, § 401(b), May 24, 2018, 132 Stat. 1357, provided
 
 [For definitions of “appropriate Federal banking agency” and “companies” as used in section 401(b) of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a Definitions note below.]
 
-Pub. L. 115–174, title IV, § 401(g), May 24, 2018, 132 Stat. 1359, provided that:
+Pub. L. 115–174, title IV, § 401(g), May 24, 2018, 132 Stat. 1359, provided that:
 
 > “Nothing in this section [amending this section and sections 248, 5325, 5326, 5331, 5345, 5363, and 5364 of this title and enacting provisions set out as notes under this section] shall be construed to—
 
@@ -2409,13 +2409,13 @@ Pub. L. 115–174, title IV, § 401(g), May 24, 2018, 132 Stat. 1359, provided
 
 **Supervisory Stress Test**
 
-Pub. L. 115–174, title IV, § 401(e), May 24, 2018, 132 Stat. 1359, provided that: “Beginning on the effective date described in subsection (d)(1) [of section 401 of Pub. L. 115–174, set out above], the Board of Governors of the Federal Reserve System shall, on a periodic basis, conduct supervisory stress tests of bank holding companies with total consolidated assets equal to or greater than $100,000,000,000 and total consolidated assets of less than $250,000,000,000 to evaluate whether such bank holding companies have the capital, on a total consolidated basis, necessary to absorb losses as a result of adverse economic conditions.”
+Pub. L. 115–174, title IV, § 401(e), May 24, 2018, 132 Stat. 1359, provided that: “Beginning on the effective date described in subsection (d)(1) [of section 401 of Pub. L. 115–174, set out above], the Board of Governors of the Federal Reserve System shall, on a periodic basis, conduct supervisory stress tests of bank holding companies with total consolidated assets equal to or greater than $100,000,000,000 and total consolidated assets of less than $250,000,000,000 to evaluate whether such bank holding companies have the capital, on a total consolidated basis, necessary to absorb losses as a result of adverse economic conditions.”
 
 [For definition of “bank holding companies” as used in section 401(e) of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a Definitions note below.]
 
 **Global Systemically Important Bank Holding Companies**
 
-Pub. L. 115–174, title IV, § 401(f), May 24, 2018, 132 Stat. 1359, provided that:
+Pub. L. 115–174, title IV, § 401(f), May 24, 2018, 132 Stat. 1359, provided that:
 
 > “Any bank holding company, regardless of asset size, that has been identified as a global systemically important BHC under section 217.402 of title 12, Code of Federal Regulations, shall be considered a bank holding company with total consolidated assets equal to or greater than $250,000,000,000 with respect to the application of standards or requirements under—
 
@@ -2429,7 +2429,7 @@ Pub. L. 115–174, title IV, § 401(f), May 24, 2018, 132 Stat. 1359, provided
 
 **Definitions**
 
-Pub. L. 115–174, § 2, May 24, 2018, 132 Stat. 1297, provided that:
+Pub. L. 115–174, § 2, May 24, 2018, 132 Stat. 1297, provided that:
 
 > “In this Act [see Short Title of 2018 Amendment note set out under section 1601 of Title 15, Commerce and Trade]:
 
@@ -2437,7 +2437,7 @@ Pub. L. 115–174, § 2, May 24, 2018, 132 Stat. 1297, provided that:
 
 > **“(2) Bank holding company.—** The term ‘bank holding company’ has the meaning given the term in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).”
 
-#### § 5366. Early remediation requirements
+#### § 5366. Early remediation requirements
 
 **(a) In general**
 
@@ -2457,9 +2457,9 @@ The purpose of the early remediation requirements under subsection (a) shall be 
 
 **(B)** requirements at later stages of financial decline, including a capital restoration plan and capital-raising requirements, limits on transactions with affiliates, management changes, and asset sales.
 
-(Pub. L. 111–203, title I, § 166, July 21, 2010, 124 Stat. 1432.)
+(Pub. L. 111–203, title I, § 166, July 21, 2010, 124 Stat. 1432.)
 
-#### § 5367. Affiliations
+#### § 5367. Affiliations
 
 **(a) Affiliations**
 
@@ -2477,9 +2477,9 @@ If a nonbank financial company supervised by the Board of Governors conducts act
 
 **(i)** appropriately supervise activities that are determined to be financial in nature or incidental thereto; or
 
-**(ii)** to 1
+**(ii)** to 1
 
-<sup>1</sup>  So in original. The word “to” probably should not appear.
+<sup>1</sup> So in original. The word “to” probably should not appear.
 
 ensure that supervision by the Board of Governors does not extend to the commercial activities of such nonbank financial company.
 
@@ -2515,43 +2515,43 @@ No provision of this paragraph shall be construed as limiting any authority of t
 
 **(2)** may promulgate regulations to establish any restrictions or limitations on transactions between an intermediate holding company or a nonbank financial company supervised by the Board of Governors and its affiliates, as necessary to prevent unsafe and unsound practices in connection with transactions between such company, or any subsidiary thereof, and its parent company or affiliates that are not subsidiaries of such company, except that such regulations shall not restrict or limit any transaction in connection with the bona fide acquisition or lease by an unaffiliated person of assets, goods, or services.
 
-(Pub. L. 111–203, title I, § 167, July 21, 2010, 124 Stat. 1432.)
+(Pub. L. 111–203, title I, § 167, July 21, 2010, 124 Stat. 1432.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This part, referred to in subsec. (a), was in the original “this subtitle”, meaning subtitle C (§§ 161–176) of title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1420, which is classified principally to this part. For complete classification of subtitle C to the Code, see Tables.
+This part, referred to in subsec. (a), was in the original “this subtitle”, meaning subtitle C (§§ 161–176) of title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1420, which is classified principally to this part. For complete classification of subtitle C to the Code, see Tables.
 
-The Federal Deposit Insurance Act, referred to in subsec. (b)(5)(B), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (b)(5)(B), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
-#### § 5368. Regulations
+#### § 5368. Regulations
 
 The Board of Governors shall have authority to issue regulations to implement parts A and C and the amendments made thereunder. Except as otherwise specified in part A or C, not later than 18 months after the effective date of this Act, the Board of Governors shall issue final regulations to implement parts A and C, and the amendments made thereunder.
 
-(Pub. L. 111–203, title I, § 168, July 21, 2010, 124 Stat. 1434.)
+(Pub. L. 111–203, title I, § 168, July 21, 2010, 124 Stat. 1434.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Part C, referred to in text, was in the original “subtitle C”, meaning subtitle C (§§ 161–176) of title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1420, which is classified principally to this part. For complete classification of subtitle C to the Code, see Tables.
+Part C, referred to in text, was in the original “subtitle C”, meaning subtitle C (§§ 161–176) of title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1420, which is classified principally to this part. For complete classification of subtitle C to the Code, see Tables.
 
 The effective date of this Act, referred to in text, is 1 day after July 21, 2010, except as otherwise specifically provided in Pub. L. 111–203, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
-#### § 5369. Avoiding duplication
+#### § 5369. Avoiding duplication
 
 The Board of Governors shall take any action that the Board of Governors deems appropriate to avoid imposing requirements under this part that are duplicative of requirements applicable to bank holding companies and nonbank financial companies under other provisions of law.
 
-(Pub. L. 111–203, title I, § 169, July 21, 2010, 124 Stat. 1434.)
+(Pub. L. 111–203, title I, § 169, July 21, 2010, 124 Stat. 1434.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This part, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§ 161–176) of title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1420, which is classified principally to this part. For complete classification of subtitle C to the Code, see Tables.
+This part, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§ 161–176) of title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1420, which is classified principally to this part. For complete classification of subtitle C to the Code, see Tables.
 
-#### § 5370. Safe harbor
+#### § 5370. Safe harbor
 
 **(a) Regulations**
 
@@ -2579,9 +2579,9 @@ No revisions under paragraph (1) shall take effect before the end of the 2-year 
 
 The Chairman of the Board of Governors and the Chairperson of the Council shall submit a joint report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives not later than 30 days after the date of the issuance in final form of regulations under subsection (a), or any subsequent revision to such regulations under subsection (d), as applicable. Such report shall include, at a minimum, the rationale for exemption and empirical evidence to support the criteria for exemption.
 
-(Pub. L. 111–203, title I, § 170, July 21, 2010, 124 Stat. 1435.)
+(Pub. L. 111–203, title I, § 170, July 21, 2010, 124 Stat. 1435.)
 
-#### § 5371. Leverage and risk-based capital requirements
+#### § 5371. Leverage and risk-based capital requirements
 
 **(a) Definitions** For purposes of this section, the following definitions shall apply:
 
@@ -2651,9 +2651,9 @@ For debt or equity instruments issued before May 19, 2010, by depository institu
 
 **(D) Depository institution holding companies not previously supervised by the Board of Governors**
 
-For any depository institution holding company that was not supervised by the Board of Governors as of May 19, 2010, the requirements of this section, except as set forth in subparagraphs (A) and (B), shall be effective 5 years after July 21, 2010 1
+For any depository institution holding company that was not supervised by the Board of Governors as of May 19, 2010, the requirements of this section, except as set forth in subparagraphs (A) and (B), shall be effective 5 years after July 21, 2010 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(E) Certain bank holding company subsidiaries of foreign banking organizations**
 
@@ -2715,15 +2715,15 @@ A depository institution holding company or nonbank financial company supervised
 
 Nothing in subparagraph (A) shall limit the authority of the Board under any other applicable provision of law to conduct any regulatory or supervisory activity of a depository institution holding company or non-bank financial company supervised by the Board of Governors, including the collection or reporting of any information on an entity or group-wide basis. Nothing in this paragraph shall excuse the Board from its obligations to comply with section 5361(a) of this title and section 10(b)(2) of the Home Owners’ Loan Act (12 U.S.C. 1467a(b)(2)), as appropriate.
 
-(Pub. L. 111–203, title I, § 171, July 21, 2010, 124 Stat. 1435; Pub. L. 113–250, § 2(a), Dec. 18, 2014, 128 Stat. 2886; Pub. L. 113–279, § 2, Dec. 18, 2014, 128 Stat. 3017; Pub. L. 114–94, div. G, title LXXXVII, § 87001, Dec. 4, 2015, 129 Stat. 1798; Pub. L. 115–174, title II, § 207(d), May 24, 2018, 132 Stat. 1312.)
+(Pub. L. 111–203, title I, § 171, July 21, 2010, 124 Stat. 1435; Pub. L. 113–250, § 2(a), Dec. 18, 2014, 128 Stat. 2886; Pub. L. 113–279, § 2, Dec. 18, 2014, 128 Stat. 3017; Pub. L. 114–94, div. G, title LXXXVII, § 87001, Dec. 4, 2015, 129 Stat. 1798; Pub. L. 115–174, title II, § 207(d), May 24, 2018, 132 Stat. 1312.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Emergency Economic Stabilization Act of 2008, referred to in subsec. (b)(5)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (b)(5)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-The Home Owners’ Loan Act, referred to in subsec. (c)(3)(A), is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§ 1461 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Home Owners’ Loan Act, referred to in subsec. (c)(3)(A), is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§ 1461 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
@@ -2731,17 +2731,17 @@ The Home Owners’ Loan Act, referred to in subsec. (c)(3)(A), is act June 13, 1
 
 2015—Subsec. (b)(4)(C). Pub. L. 114–94 inserted “or March 31, 2010,” after “December 31, 2009,”.
 
-2014—Subsec. (a)(4) to (7). Pub. L. 113–279, § 2(1), added pars. (4) to (7).
+2014—Subsec. (a)(4) to (7). Pub. L. 113–279, § 2(1), added pars. (4) to (7).
 
 Subsec. (b)(5)(C). Pub. L. 113–250 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any small bank holding company that is subject to the Small Bank Holding Company Policy Statement of the Board of Governors, as in effect on May 19, 2010.”
 
-Subsec. (c). Pub. L. 113–279, § 2(2), added subsec. (c).
+Subsec. (c). Pub. L. 113–279, § 2(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Capital Simplification for Qualifying Community Banks**
 
-Pub. L. 115–174, title II, § 201, May 24, 2018, 132 Stat. 1306, provided that:
+Pub. L. 115–174, title II, § 201, May 24, 2018, 132 Stat. 1306, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -2791,7 +2791,7 @@ Pub. L. 115–174, title II, § 201, May 24, 2018, 132 Stat. 1306, provided th
 
 **Small Bank Holding Company Policy Statement**
 
-Pub. L. 115–174, title II, § 207(a)–(c), May 24, 2018, 132 Stat. 1312, provided that:
+Pub. L. 115–174, title II, § 207(a)–(c), May 24, 2018, 132 Stat. 1312, provided that:
 
 > **“(a) Definitions.—** In this section [enacting this note and amending this section]:
 
@@ -2843,19 +2843,19 @@ Pub. L. 113–250, Dec. 18, 2014, 128 Stat. 2886, provided that:
 
 > **“(b) Savings and Loan Holding Company.—** The term ‘savings and loan holding company’ has the same meaning as in section 10(a) of the Home Owners’ Loan Act (12 U.S.C. 1467a(a)).”
 
-#### § 5372. Rule of construction
+#### § 5372. Rule of construction
 
 Nothing in this Act shall be construed to limit or curtail the Corporation’s current authority to examine or bring enforcement actions with respect to any insured depository institution or institution-affiliated party.
 
-(Pub. L. 111–203, title I, § 172(c), July 21, 2010, 124 Stat. 1439.)
+(Pub. L. 111–203, title I, § 172(c), July 21, 2010, 124 Stat. 1439.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-#### § 5373. International policy coordination
+#### § 5373. International policy coordination
 
 **(a) By the President**
 
@@ -2869,13 +2869,13 @@ The Chairperson of the Council, in consultation with the other members of the Co
 
 The Board of Governors and the Secretary shall consult with their foreign counterparts and through appropriate multilateral organizations to encourage comprehensive and robust prudential supervision and regulation for all highly leveraged and interconnected financial companies.
 
-(Pub. L. 111–203, title I, § 175, July 21, 2010, 124 Stat. 1442.)
+(Pub. L. 111–203, title I, § 175, July 21, 2010, 124 Stat. 1442.)
 
-#### § 5374. Rule of construction
+#### § 5374. Rule of construction
 
 No regulation or standard imposed under this subchapter may be construed in a manner that would lessen the stringency of the requirements of any applicable primary financial regulatory agency or any other Federal or State agency that are otherwise applicable. This subchapter, and the rules and regulations or orders prescribed pursuant to this subchapter, do not divest any such agency of any authority derived from any other applicable law.
 
-(Pub. L. 111–203, title I, § 176, July 21, 2010, 124 Stat. 1442.)
+(Pub. L. 111–203, title I, § 176, July 21, 2010, 124 Stat. 1442.)
 
 **Editorial Notes**
 
@@ -2885,7 +2885,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 ## SUBCHAPTER II—ORDERLY LIQUIDATION AUTHORITY
 
-### § 5381. Definitions
+### § 5381. Definitions
 
 **(a) In general** In this subchapter, the following definitions shall apply:
 
@@ -2983,7 +2983,7 @@ The term “SIPC” means the Securities Investor Protection Corporation.
 
 For purpose of the definition of the term “financial company” under subsection (a)(11), no company shall be deemed to be predominantly engaged in activities that the Board of Governors has determined are financial in nature or incidental thereto for purposes of section 1843(k) of this title, if the consolidated revenues of such company from such activities constitute less than 85 percent of the total consolidated revenues of such company, as the Corporation, in consultation with the Secretary, shall establish by regulation. In determining whether a company is a financial company under this subchapter, the consolidated revenues derived from the ownership or control of a depository institution shall be included.
 
-(Pub. L. 111–203, title II, § 201, July 21, 2010, 124 Stat. 1442.)
+(Pub. L. 111–203, title II, § 201, July 21, 2010, 124 Stat. 1442.)
 
 **Editorial Notes**
 
@@ -2991,7 +2991,7 @@ For purpose of the definition of the term “financial company” under subsecti
 
 This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (a)(11)(C), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§ 2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (a)(11)(C), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§ 2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2999,7 +2999,7 @@ The Farm Credit Act of 1971, referred to in subsec. (a)(11)(C), is Pub. L. 92–
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-### § 5382. Judicial review
+### § 5382. Judicial review
 
 **(a) Commencement of orderly liquidation**
 
@@ -3213,7 +3213,7 @@ Not later than 1 year after July 21, 2010, the Comptroller General shall submit 
 
 Not later than 6 months after the date of receipt of the report from the Comptroller General under paragraph (3), the Council shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on actions taken in response to the report, including any recommendations made to the Federal primary financial regulatory agencies under section 5330 of this title.
 
-(Pub. L. 111–203, title II, § 202, July 21, 2010, 124 Stat. 1444.)
+(Pub. L. 111–203, title II, § 202, July 21, 2010, 124 Stat. 1444.)
 
 **Editorial Notes**
 
@@ -3227,7 +3227,7 @@ This subchapter, referred to in subsecs. (a)(1)(A)(v)(III), (c), and (d)(5), was
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-### § 5383. Systemic risk determination
+### § 5383. Systemic risk determination
 
 **(a) Written recommendation and determination**
 
@@ -3373,7 +3373,7 @@ The requirement of paragraph (1) shall not apply with respect to any subsidiary 
 
 Notwithstanding paragraph (1), with respect to a covered financial company described in paragraph (1), if, after the end of the 60-day period beginning on the date on which a determination is made under section 5382(a) of this title with respect to such company, the appropriate regulatory agency has not filed the appropriate judicial action in the appropriate State court to place such company into orderly liquidation or rehabilitation under the laws and requirements of the State, the Corporation shall have the authority to stand in the place of the appropriate regulatory agency and file the appropriate judicial action in the appropriate State court to place such company into orderly liquidation or rehabilitation under the laws and requirements of the State.
 
-(Pub. L. 111–203, title II, § 203, July 21, 2010, 124 Stat. 1450; Pub. L. 114–113, div. O, title VII, § 706(b)(1), Dec. 18, 2015, 129 Stat. 3029.)
+(Pub. L. 111–203, title II, § 203, July 21, 2010, 124 Stat. 1450; Pub. L. 114–113, div. O, title VII, § 706(b)(1), Dec. 18, 2015, 129 Stat. 3029.)
 
 **Editorial Notes**
 
@@ -3391,7 +3391,7 @@ This subchapter, referred to in subsecs. (a) to (d), was in the original “this
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-### § 5384. Orderly liquidation of covered financial companies
+### § 5384. Orderly liquidation of covered financial companies
 
 **(a) Purpose of orderly liquidation authority** It is the purpose of this subchapter to provide the necessary authority to liquidate failing financial companies that pose a significant risk to the financial stability of the United States in a manner that mitigates such risk and minimizes moral hazard. The authority provided in this subchapter shall be exercised in the manner that best fulfills such purpose, so that—
 
@@ -3437,7 +3437,7 @@ Upon the appointment of the Corporation under section 5382 of this title, the Co
 
 **(6)** making payments pursuant to subsections (b)(4), (d)(4), and (h)(5)(E) of section 5390 of this title.
 
-(Pub. L. 111–203, title II, § 204, July 21, 2010, 124 Stat. 1454; Pub. L. 114–113, div. O, title VII, § 706(b)(2), Dec. 18, 2015, 129 Stat. 3029.)
+(Pub. L. 111–203, title II, § 204, July 21, 2010, 124 Stat. 1454; Pub. L. 114–113, div. O, title VII, § 706(b)(2), Dec. 18, 2015, 129 Stat. 3029.)
 
 **Editorial Notes**
 
@@ -3447,7 +3447,7 @@ This subchapter, referred to in subsecs. (a) and (b), was in the original “thi
 
 **Amendments**
 
-2015—Subsec. (d)(4). Pub. L. 114–113 inserted “, except that, if the covered financial company or covered subsidiary is an insurance company or a subsidiary of an insurance company, the Corporation—” and subpars. (A) and (B) before semicolon at end.
+2015—Subsec. (d)(4). Pub. L. 114–113 inserted “, except that, if the covered financial company or covered subsidiary is an insurance company or a subsidiary of an insurance company, the Corporation—” and subpars. (A) and (B) before semicolon at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3455,7 +3455,7 @@ This subchapter, referred to in subsecs. (a) and (b), was in the original “thi
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-### § 5385. Orderly liquidation of covered brokers and dealers
+### § 5385. Orderly liquidation of covered brokers and dealers
 
 **(a) Appointment of SIPC as trustee**
 
@@ -3559,13 +3559,13 @@ All claims other than those described in paragraph (1) (including any unpaid cla
 
 The Commission and the Corporation, after consultation with SIPC, shall jointly issue rules to implement this section.
 
-(Pub. L. 111–203, title II, § 205, July 21, 2010, 124 Stat. 1456.)
+(Pub. L. 111–203, title II, § 205, July 21, 2010, 124 Stat. 1456.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
 This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
@@ -3575,7 +3575,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-### § 5386. Mandatory terms and conditions for all orderly liquidation actions
+### § 5386. Mandatory terms and conditions for all orderly liquidation actions
 
 In taking action under this subchapter, the Corporation shall—
 
@@ -3591,7 +3591,7 @@ In taking action under this subchapter, the Corporation shall—
 
 **(6)** not take an equity interest in or become a shareholder of any covered financial company or any covered subsidiary.
 
-(Pub. L. 111–203, title II, § 206, July 21, 2010, 124 Stat. 1459.)
+(Pub. L. 111–203, title II, § 206, July 21, 2010, 124 Stat. 1459.)
 
 **Editorial Notes**
 
@@ -3605,11 +3605,11 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-### § 5387. Directors not liable for acquiescing in appointment of receiver
+### § 5387. Directors not liable for acquiescing in appointment of receiver
 
 The members of the board of directors (or body performing similar functions) of a covered financial company shall not be liable to the shareholders or creditors thereof for acquiescing in or consenting in good faith to the appointment of the Corporation as receiver for the covered financial company under section 5383 of this title.
 
-(Pub. L. 111–203, title II, § 207, July 21, 2010, 124 Stat. 1459.)
+(Pub. L. 111–203, title II, § 207, July 21, 2010, 124 Stat. 1459.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3617,7 +3617,7 @@ The members of the board of directors (or body performing similar functions) of 
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-### § 5388. Dismissal and exclusion of other actions
+### § 5388. Dismissal and exclusion of other actions
 
 **(a) In general**
 
@@ -3631,13 +3631,13 @@ Effective as of the date of appointment of the Corporation as receiver, the asse
 
 Notwithstanding subsections (a) and (b), any order entered or other relief granted by a bankruptcy court prior to the date of appointment of the Corporation as receiver shall continue with the same validity as if an orderly liquidation had not been commenced.
 
-(Pub. L. 111–203, title II, § 208, July 21, 2010, 124 Stat. 1459.)
+(Pub. L. 111–203, title II, § 208, July 21, 2010, 124 Stat. 1459.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Investor Protection Act of 1970, referred to in subsecs. (a) and (b), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+The Securities Investor Protection Act of 1970, referred to in subsecs. (a) and (b), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3645,11 +3645,11 @@ The Securities Investor Protection Act of 1970, referred to in subsecs. (a) and 
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-### § 5389. Rulemaking; non-conflicting law
+### § 5389. Rulemaking; non-conflicting law
 
 The Corporation shall, in consultation with the Council, prescribe such rules or regulations as the Corporation considers necessary or appropriate to implement this subchapter, including rules and regulations with respect to the rights, interests, and priorities of creditors, counterparties, security entitlement holders, or other persons with respect to any covered financial company or any assets or other property of or held by such covered financial company, and address the potential for conflicts of interest between or among individual receiverships established under this subchapter or under the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.]. To the extent possible, the Corporation shall seek to harmonize applicable rules and regulations promulgated under this section with the insolvency laws that would otherwise apply to a covered financial company.
 
-(Pub. L. 111–203, title II, § 209, July 21, 2010, 124 Stat. 1460.)
+(Pub. L. 111–203, title II, § 209, July 21, 2010, 124 Stat. 1460.)
 
 **Editorial Notes**
 
@@ -3657,7 +3657,7 @@ The Corporation shall, in consultation with the Council, prescribe such rules or
 
 This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
-The Federal Deposit Insurance Act, referred to in text, is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in text, is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3665,7 +3665,7 @@ The Federal Deposit Insurance Act, referred to in text, is act Sept. 21, 1950, c
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-### § 5390. Powers and duties of the Corporation
+### § 5390. Powers and duties of the Corporation
 
 **(a) Powers and authorities**
 
@@ -3695,9 +3695,9 @@ The Corporation may provide for the exercise of any function by any member or st
 
 **(D) Additional powers as receiver**
 
-The Corporation shall, as receiver for a covered financial company, and subject to all legally enforceable and perfected security interests and all legally enforceable security entitlements in respect of assets held by the covered financial company, liquidate, and wind-up 1
+The Corporation shall, as receiver for a covered financial company, and subject to all legally enforceable and perfected security interests and all legally enforceable security entitlements in respect of assets held by the covered financial company, liquidate, and wind-up 1
 
-<sup>1</sup>  So in original. Probably should be “wind up”.
+<sup>1</sup> So in original. Probably should be “wind up”.
 
 the affairs of a covered financial company, including taking steps to realize upon the assets of the covered financial company, in such manner as the Corporation deems appropriate, including through the sale of assets, the transfer of assets to a bridge financial company established under subsection (h), or the exercise of any other rights or privileges granted to the receiver under this section.
 
@@ -3919,9 +3919,9 @@ If any claimant fails to file suit on such claim (or to continue an action on su
 
 **(iii)** if the claim is disallowed, provide a statement of each reason for the disallowance and the procedure for obtaining a judicial determination.
 
-**(C) Period for filing or renewing suit** Any claimant who files a request for expedited relief shall be permitted to file suit (or continue a suit filed before the date of appointment of the Corporation as receiver 2
+**(C) Period for filing or renewing suit** Any claimant who files a request for expedited relief shall be permitted to file suit (or continue a suit filed before the date of appointment of the Corporation as receiver 2
 
-<sup>2</sup>  So in original. A closing parenthesis probably should appear after “receiver”.
+<sup>2</sup> So in original. A closing parenthesis probably should appear after “receiver”.
 
 seeking a determination of the rights of the claimant with respect to such security interest (or such security entitlement) after the earlier of—
 
@@ -5097,9 +5097,9 @@ The Corporation may not enter into any agreement or approve any protective order
 
 **(A)** in the case of any covered financial company or bridge financial company that is a stockbroker, but is not a member of the Securities Investor Protection Corporation, apply the provisions of subchapter III of chapter 7 of the Bankruptcy Code, in respect of the distribution to any customer of all customer name security and customer property and member property, as if such covered financial company or bridge financial company were a debtor for purposes of such subchapter; or
 
-**(B)** in the case of any covered financial company or bridge financial company that is a commodity broker, apply the provisions of subchapter IV of chapter 7 3
+**(B)** in the case of any covered financial company or bridge financial company that is a commodity broker, apply the provisions of subchapter IV of chapter 7 3
 
-<sup>3</sup>  So in original. Probably should be followed by “of”.
+<sup>3</sup> So in original. Probably should be followed by “of”.
 
 the Bankruptcy Code, in respect of the distribution to any customer of all customer property and member property, as if such covered financial company or bridge financial company were a debtor for purposes of such subchapter.
 
@@ -5233,9 +5233,9 @@ The Corporation may, with the approval of the Secretary, extend the time period 
 
 **(i)** impose assessments, as soon as practicable, on any claimant that received additional payments or amounts from the Corporation pursuant to subsection (b)(4), (d)(4), or (h)(5)(E), except for payments or amounts necessary to initiate and continue operations essential to implementation of the receivership or any bridge financial company, to recover on a cumulative basis, the entire difference between—
 
-**(I)** the aggregate value the claimant received from the Corporation on a claim pursuant to this subchapter (including pursuant to subsection 4
+**(I)** the aggregate value the claimant received from the Corporation on a claim pursuant to this subchapter (including pursuant to subsection 4
 
-<sup>4</sup>  So in original. Probably should be “subsections”.
+<sup>4</sup> So in original. Probably should be “subsections”.
 
 (b)(4), (d)(4), and (h)(5)(E)), as of the date on which such value was received; and
 
@@ -5391,7 +5391,7 @@ In seeking to recover any such compensation, the Corporation shall weigh the fin
 
 The Corporation shall promulgate regulations to implement the requirements of this subsection, including defining the term “compensation” to mean any financial remuneration, including salary, bonuses, incentives, benefits, severance, deferred compensation, or golden parachute benefits, and any profits realized from the sale of the securities of the covered financial company.
 
-(Pub. L. 111–203, title II, § 210, July 21, 2010, 124 Stat. 1460.)
+(Pub. L. 111–203, title II, § 210, July 21, 2010, 124 Stat. 1460.)
 
 **Editorial Notes**
 
@@ -5399,21 +5399,21 @@ The Corporation shall promulgate regulations to implement the requirements of th
 
 This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
-The Securities Investor Protection Act of 1970, referred to in subsecs. (a)(1)(O)(iv), (b)(6)(C), (D), (d)(3)(A), and (h)(2)(H)(iii), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+The Securities Investor Protection Act of 1970, referred to in subsecs. (a)(1)(O)(iv), (b)(6)(C), (D), (d)(3)(A), and (h)(2)(H)(iii), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a)(13), (14), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (c)(13)(C)(ii), is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236. Subtitle A of title IV of the Act is classified generally to subchapter I (§ 4401 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (c)(13)(C)(ii), is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236. Subtitle A of title IV of the Act is classified generally to subchapter I (§ 4401 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of this title and Tables.
 
 The Gramm-Leach-Bliley Act, referred to in subsec. (c)(15), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 
-The Legal Certainty for Bank Products Act of 2000, referred to in subsec. (c)(15), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, § 1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
+The Legal Certainty for Bank Products Act of 2000, referred to in subsec. (c)(15), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, § 1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
 
-The Commodity Exchange Act, referred to in subsec. (c)(15), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (c)(15), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (h)(2)(H)(i)(I), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (h)(2)(H)(i)(I), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-This Act, referred to in subsec. (n)(8)(A)(i), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This Act, referred to in subsec. (n)(8)(A)(i), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (q)(2), is classified generally to Title 26, Internal Revenue Code.
 
@@ -5423,7 +5423,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (q)(2), is classified 
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-### § 5391. Inspector General reviews
+### § 5391. Inspector General reviews
 
 **(a) to (c) Omitted**
 
@@ -5435,9 +5435,9 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 **(B)** a description of any material sales, transfers, mergers, obligations, purchases, and other material transactions entered into by the Corporation;
 
-**(C)** an evaluation of the adequacy of the policies and procedures of the Corporation under section 5383(d) of this title and orderly liquidation plan under section 5390(n)(14) 1
+**(C)** an evaluation of the adequacy of the policies and procedures of the Corporation under section 5383(d) of this title and orderly liquidation plan under section 5390(n)(14) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title;
 
@@ -5505,7 +5505,7 @@ The duties and responsibilities of the Inspector General of the Department of th
 
 Not later than 1 year after the date of appointment of the Corporation as receiver under this subchapter, the Inspector General of the Federal primary financial regulatory agency or the Board of Governors shall provide the report required by paragraph (1) to such agency or the Board of Governors, and along with such agency or the Board of Governors, as applicable, shall appear before the appropriate committees of Congress, if requested, to present the report required by paragraph (1). Not later than 90 days after the date of receipt of the report required by paragraph (1), such agency or the Board of Governors, as applicable, shall provide a written report to Congress describing any actions taken in response to the recommendations in the report, and if no such actions were taken, describing the reasons why no actions were taken.
 
-(Pub. L. 111–203, title II, § 211, July 21, 2010, 124 Stat. 1514; Pub. L. 117–286, § 4(b)(36), Dec. 27, 2022, 136 Stat. 4347.)
+(Pub. L. 111–203, title II, § 211, July 21, 2010, 124 Stat. 1514; Pub. L. 117–286, § 4(b)(36), Dec. 27, 2022, 136 Stat. 4347.)
 
 **Editorial Notes**
 
@@ -5521,9 +5521,9 @@ Section is comprised of section 211 of Pub. L. 111–203. Subsecs. (a) to (c) of
 
 **Amendments**
 
-2022—Subsec. (d)(3). Pub. L. 117–286, § 4(b)(36)(A), substituted “section 405(b) of title 5,” for “section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.),”.
+2022—Subsec. (d)(3). Pub. L. 117–286, § 4(b)(36)(A), substituted “section 405(b) of title 5,” for “section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.),”.
 
-Subsec. (e)(3). Pub. L. 117–286, § 4(b)(36)(B), substituted “section 405(b) of title 5,” for “section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.),”.
+Subsec. (e)(3). Pub. L. 117–286, § 4(b)(36)(B), substituted “section 405(b) of title 5,” for “section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.),”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5531,7 +5531,7 @@ Subsec. (e)(3). Pub. L. 117–286, § 4(b)(36)(B), substituted “section 405(
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-### § 5392. Prohibition of circumvention and prevention of conflicts of interest
+### § 5392. Prohibition of circumvention and prevention of conflicts of interest
 
 **(a) No other funding**
 
@@ -5545,7 +5545,7 @@ No governmental entity may take any action to circumvent the purposes of this su
 
 In the event that the Corporation is appointed receiver for more than 1 covered financial company or is appointed receiver for a covered financial company and receiver for any insured depository institution that is an affiliate of such covered financial company, the Corporation shall take appropriate action, as necessary to avoid any conflicts of interest that may arise in connection with multiple receiverships.
 
-(Pub. L. 111–203, title II, § 212, July 21, 2010, 124 Stat. 1516.)
+(Pub. L. 111–203, title II, § 212, July 21, 2010, 124 Stat. 1516.)
 
 **Editorial Notes**
 
@@ -5559,7 +5559,7 @@ This subchapter, referred to in subsecs. (a) and (b), was in the original “thi
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-### § 5393. Ban on certain activities by senior executives and directors
+### § 5393. Ban on certain activities by senior executives and directors
 
 **(a) Prohibition authority**
 
@@ -5605,13 +5605,13 @@ The due process requirements and other procedures under section 8(e) of the Fede
 
 The Corporation and the Board of Governors, in consultation with the Council, shall jointly prescribe rules or regulations to administer and carry out this section, including rules, regulations, or guidelines to further define the term senior executive for the purposes of this section.
 
-(Pub. L. 111–203, title II, § 213, July 21, 2010, 124 Stat. 1517.)
+(Pub. L. 111–203, title II, § 213, July 21, 2010, 124 Stat. 1517.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Deposit Insurance Act, referred to in subsec. (c)(2), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. The terms “insured depository institution” and “institution-affiliated party” are defined in section 3 of the Act, which is classified to section 1813 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (c)(2), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. The terms “insured depository institution” and “institution-affiliated party” are defined in section 3 of the Act, which is classified to section 1813 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5619,7 +5619,7 @@ The Federal Deposit Insurance Act, referred to in subsec. (c)(2), is act Sept. 2
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-### § 5394. Prohibition on taxpayer funding
+### § 5394. Prohibition on taxpayer funding
 
 **(a) Liquidation required**
 
@@ -5633,7 +5633,7 @@ All funds expended in the liquidation of a financial company under this subchapt
 
 Taxpayers shall bear no losses from the exercise of any authority under this subchapter.
 
-(Pub. L. 111–203, title II, § 214, July 21, 2010, 124 Stat. 1518.)
+(Pub. L. 111–203, title II, § 214, July 21, 2010, 124 Stat. 1518.)
 
 **Editorial Notes**
 
@@ -5649,11 +5649,11 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 ## SUBCHAPTER III—TRANSFER OF POWERS TO THE COMPTROLLER OF THE CURRENCY, THE CORPORATION, AND THE BOARD OF GOVERNORS
 
-### § 5401. Purposes
+### § 5401. Purposes
 
-The purposes of this title 1
+The purposes of this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 are—
 
@@ -5665,7 +5665,7 @@ are—
 
 **(4)** to streamline and rationalize the supervision of depository institutions and the holding companies of depository institutions.
 
-(Pub. L. 111–203, title III, § 301, July 21, 2010, 124 Stat. 1520.)
+(Pub. L. 111–203, title III, § 301, July 21, 2010, 124 Stat. 1520.)
 
 **Editorial Notes**
 
@@ -5679,15 +5679,15 @@ This title, referred to in text, is title III of Pub. L. 111–203, July 21, 201
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-### § 5402. Definition
+### § 5402. Definition
 
 In this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the term “transferred employee” means, as the context requires, an employee transferred to the Office of the Comptroller of the Currency or the Corporation under section 5432 of this title.
 
-(Pub. L. 111–203, title III, § 302, July 21, 2010, 124 Stat. 1520.)
+(Pub. L. 111–203, title III, § 302, July 21, 2010, 124 Stat. 1520.)
 
 **Editorial Notes**
 
@@ -5703,7 +5703,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 ### Part A—Transfer of Powers and Duties
 
-#### § 5411. Transfer date
+#### § 5411. Transfer date
 
 **(a) Transfer date**
 
@@ -5713,23 +5713,23 @@ Except as provided in subsection (b), the term “transfer date” means the dat
 
 **(1) Notice required** The Secretary, in consultation with the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Chairman of the Board of Governors, and the Chairperson of the Corporation, may extend the period under subsection (a) and designate a transfer date that is not later than 18 months after July 21, 2010, if the Secretary transmits to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives—
 
-**(A)** a written determination that commencement of the orderly process to implement this title 1
+**(A)** a written determination that commencement of the orderly process to implement this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 is not feasible by the date that is 1 year after July 21, 2010;
 
-**(B)** an explanation of why an extension is necessary to commence the process of orderly implementation of this title; <sup>1</sup>
+**(B)** an explanation of why an extension is necessary to commence the process of orderly implementation of this title; <sup>1</sup>
 
 **(C)** the transfer date designated under this subsection; and
 
-**(D)** a description of the steps that will be taken to initiate the process of an orderly and timely implementation of this title <sup>1</sup> within the extended time period.
+**(D)** a description of the steps that will be taken to initiate the process of an orderly and timely implementation of this title <sup>1</sup> within the extended time period.
 
 **(2) Publication of notice**
 
 Not later than 270 days after July 21, 2010, the Secretary shall publish in the Federal Register notice of any transfer date designated under paragraph (1).
 
-(Pub. L. 111–203, title III, § 311, July 21, 2010, 124 Stat. 1520.)
+(Pub. L. 111–203, title III, § 311, July 21, 2010, 124 Stat. 1520.)
 
 **Editorial Notes**
 
@@ -5743,7 +5743,7 @@ This title, referred to in subsec. (b)(1)(A), (B), (D), is title III of Pub. L. 
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-#### § 5412. Powers and duties transferred
+#### § 5412. Powers and duties transferred
 
 **(a) Effective date**
 
@@ -5795,25 +5795,25 @@ All rulemaking authority of the Office of Thrift Supervision and the Director of
 
 Nothing in this section may be construed to limit or otherwise affect the transfer of powers under title X.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 111–203, title III, § 312, July 21, 2010, 124 Stat. 1521.)
+(Pub. L. 111–203, title III, § 312, July 21, 2010, 124 Stat. 1521.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title X, referred to in subsec. (d), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted subchapter V (§ 5481 et seq.) of this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Title X, referred to in subsec. (d), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted subchapter V (§ 5481 et seq.) of this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
 Section is comprised of section 312 of Pub. L. 111–203. Subsec. (c) of section 312 of Pub. L. 111–203 amended section 1813 of this title.
 
-#### § 5413. Abolishment
+#### § 5413. Abolishment
 
 Effective 90 days after the transfer date, the Office of Thrift Supervision and the position of Director of the Office of Thrift Supervision are abolished.
 
-(Pub. L. 111–203, title III, § 313, July 21, 2010, 124 Stat. 1523.)
+(Pub. L. 111–203, title III, § 313, July 21, 2010, 124 Stat. 1523.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5821,7 +5821,7 @@ Effective 90 days after the transfer date, the Office of Thrift Supervision and 
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-#### § 5414. Savings provisions
+#### § 5414. Savings provisions
 
 **(a) Office of Thrift Supervision**
 
@@ -5829,9 +5829,9 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 Sections 5412(b) and 5413 of this title shall not affect the validity of any right, duty, or obligation of the United States, the Director of the Office of Thrift Supervision, the Office of Thrift Supervision, or any other person, that existed on the day before the transfer date.
 
-**(2) Continuation of suits** This title 1
+**(2) Continuation of suits** This title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall not abate any action or proceeding commenced by or against the Director of the Office of Thrift Supervision or the Office of Thrift Supervision before the transfer date, except that—
 
@@ -5841,7 +5841,7 @@ shall not abate any action or proceeding commenced by or against the Director of
 
 **(C)** for any action or proceeding arising out of a function of the Office of Thrift Supervision or the Director of the Office of Thrift Supervision transferred to the Corporation by this title,<sup>1</sup> the Corporation shall be substituted for the Office of Thrift Supervision or the Director of the Office of Thrift Supervision as a party to the action or proceeding on and after the transfer date.
 
-**(b) Continuation of existing OTS orders, resolutions, determinations, agreements, regulations, etc.** All orders, resolutions, determinations, agreements, and regulations, interpretative rules, other interpretations, guidelines, procedures, and other advisory materials, that have been issued, made, prescribed, or allowed to become effective by the Office of Thrift Supervision or the Director of the Office of Thrift Supervision, or by a court of competent jurisdiction, in the performance of functions that are transferred by this title <sup>1</sup> and that are in effect on the day before the transfer date, shall continue in effect according to the terms of such orders, resolutions, determinations, agreements, and regulations, interpretative rules, other interpretations, guidelines, procedures, and other advisory materials, and shall be enforceable by or against—
+**(b) Continuation of existing OTS orders, resolutions, determinations, agreements, regulations, etc.** All orders, resolutions, determinations, agreements, and regulations, interpretative rules, other interpretations, guidelines, procedures, and other advisory materials, that have been issued, made, prescribed, or allowed to become effective by the Office of Thrift Supervision or the Director of the Office of Thrift Supervision, or by a court of competent jurisdiction, in the performance of functions that are transferred by this title <sup>1</sup> and that are in effect on the day before the transfer date, shall continue in effect according to the terms of such orders, resolutions, determinations, agreements, and regulations, interpretative rules, other interpretations, guidelines, procedures, and other advisory materials, and shall be enforceable by or against—
 
 **(1)** the Board of Governors, in the case of a function of the Office of Thrift Supervision or the Director of the Office of Thrift Supervision transferred to the Board of Governors, until modified, terminated, set aside, or superseded in accordance with applicable law by the Board of Governors, by any court of competent jurisdiction, or by operation of law;
 
@@ -5879,7 +5879,7 @@ Any proposed regulation of the Office of Thrift Supervision, which the Office of
 
 Any interim or final regulation of the Office of Thrift Supervision, which the Office of Thrift Supervision, in performing functions transferred by this title,<sup>1</sup> has published before the transfer date but which has not become effective before that date, shall become effective as a regulation of the Office of the Comptroller of the Currency or the Board of Governors, as appropriate, according to the terms of the interim or final regulation, unless modified, terminated, set aside, or superseded in accordance with applicable law by the Office of the Comptroller of the Currency or the Board of Governors, as appropriate, by any court of competent jurisdiction, or by operation of law.
 
-(Pub. L. 111–203, title III, § 316, July 21, 2010, 124 Stat. 1524.)
+(Pub. L. 111–203, title III, § 316, July 21, 2010, 124 Stat. 1524.)
 
 **Editorial Notes**
 
@@ -5893,19 +5893,19 @@ This title, referred to in subsecs. (a)(2), (b), and (d), is title III of Pub. L
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-#### § 5415. References in Federal law to Federal banking agencies
+#### § 5415. References in Federal law to Federal banking agencies
 
 On and after the transfer date, any reference in Federal law to the Director of the Office of Thrift Supervision or the Office of Thrift Supervision, in connection with any function of the Director of the Office of Thrift Supervision or the Office of Thrift Supervision transferred under section 5412(b) of this title or any other provision of this subtitle, shall be deemed to be a reference to the Comptroller of the Currency, the Office of the Comptroller of the Currency, the Chairperson of the Corporation, the Corporation, the Chairman of the Board of Governors, or the Board of Governors, as appropriate and consistent with the amendments made in subtitle E.
 
-(Pub. L. 111–203, title III, § 317, July 21, 2010, 124 Stat. 1526.)
+(Pub. L. 111–203, title III, § 317, July 21, 2010, 124 Stat. 1526.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in text, is subtitle A (§§ 311–319) of title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, which enacted this part and sections 4b and 16 of this title, amended sections 1, 11, 248, 481, 482, 1813, and 1820 of this title and section 3502 of Title 44, Public Printing and Documents, and enacted provisions set out as notes under sections 1 and 16 of this title. For complete classification of subtitle A to the Code, see Tables.
+This subtitle, referred to in text, is subtitle A (§§ 311–319) of title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, which enacted this part and sections 4b and 16 of this title, amended sections 1, 11, 248, 481, 482, 1813, and 1820 of this title and section 3502 of Title 44, Public Printing and Documents, and enacted provisions set out as notes under sections 1 and 16 of this title. For complete classification of subtitle A to the Code, see Tables.
 
-Subtitle E, referred to in text, is subtitle E (§ 351–378) of title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1546. For complete classification of subtitle E to the Code, see Tables.
+Subtitle E, referred to in text, is subtitle E (§ 351–378) of title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1546. For complete classification of subtitle E to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5913,7 +5913,7 @@ Subtitle E, referred to in text, is subtitle E (§ 351–378) of title III of 
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-#### § 5416. Contracting and leasing authority
+#### § 5416. Contracting and leasing authority
 
 Notwithstanding chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or any other provision of law (except the full and open competition requirements of the Competition in Contracting Act), the Office of the Comptroller of the Currency may—
 
@@ -5921,7 +5921,7 @@ Notwithstanding chapters 1 to 11 of title 40 and division C (except sections 330
 
 **(2)** hold, maintain, sell, lease, or otherwise dispose of the property (or property interest) acquired under paragraph (1).
 
-(Pub. L. 111–203, title III, § 319, July 21, 2010, 124 Stat. 1528.)
+(Pub. L. 111–203, title III, § 319, July 21, 2010, 124 Stat. 1528.)
 
 **Editorial Notes**
 
@@ -5931,7 +5931,7 @@ The Competition in Contracting Act, referred to in text, probably means the Comp
 
 **Codification**
 
-In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5941,19 +5941,19 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 ### Part B—Transitional Provisions
 
-#### § 5431. Interim use of funds, personnel, and property of the Office of Thrift Supervision
+#### § 5431. Interim use of funds, personnel, and property of the Office of Thrift Supervision
 
 **(a) In general** Before the transfer date, the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors shall—
 
-**(1)** consult and cooperate with the Office of Thrift Supervision to facilitate the orderly transfer of functions to the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors in accordance with this title; 1
+**(1)** consult and cooperate with the Office of Thrift Supervision to facilitate the orderly transfer of functions to the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors in accordance with this title; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** determine jointly, from time to time—
 
 **(A)** the amount of funds necessary to pay any expenses associated with the transfer of functions (including expenses for personnel, property, and administrative services) during the period beginning on July 21, 2010, and ending on the transfer date;
 
-**(B)** which personnel are appropriate to facilitate the orderly transfer of functions by this title; <sup>1</sup> and
+**(B)** which personnel are appropriate to facilitate the orderly transfer of functions by this title; <sup>1</sup> and
 
 **(C)** what property and administrative services are necessary to support the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors during the period beginning on July 21, 2010, and ending on the transfer date; and
 
@@ -5971,7 +5971,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 The Office of the Comptroller of the Currency, the Corporation, and the Board of Governors shall jointly give the Office of Thrift Supervision reasonable prior notice of any request that the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors jointly intend to make under subsection (b).
 
-(Pub. L. 111–203, title III, § 321, July 21, 2010, 124 Stat. 1528.)
+(Pub. L. 111–203, title III, § 321, July 21, 2010, 124 Stat. 1528.)
 
 **Editorial Notes**
 
@@ -5985,7 +5985,7 @@ This title, referred to in subsec. (a), is title III of Pub. L. 111–203, July 
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-#### § 5432. Transfer of employees
+#### § 5432. Transfer of employees
 
 **(a) In general**
 
@@ -5997,9 +5997,9 @@ Except as provided in section 5584 of this title, all employees of the Office of
 
 **(B) Allocating employees for transfer to receiving agencies** The Director of the Office of Thrift Supervision, the Comptroller of the Currency, and the Chairperson of the Corporation shall—
 
-**(i)** jointly determine the number of employees of the Office of Thrift Supervision necessary to perform or support the functions that are transferred to the Office of the Comptroller of the Currency or the Corporation by this title; 1
+**(i)** jointly determine the number of employees of the Office of Thrift Supervision necessary to perform or support the functions that are transferred to the Office of the Comptroller of the Currency or the Corporation by this title; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
@@ -6159,7 +6159,7 @@ The Office of the Comptroller of the Currency or the Corporation, as the case ma
 
 **(i) In general**
 
-An annuitant, as defined in section 8901 of title 5, who is enrolled in a life insurance plan administered by an agency from which employees are transferred under this title <sup>1</sup> on the day before the transfer date shall be eligible for coverage by a life insurance plan under sections 8706(b), 8714a, 8714b, or 8714c of title 5, or by a life insurance plan established by the Office of the Comptroller of the Currency or the Corporation, as applicable, without regard to any regularly scheduled open season or any requirement of insurability.
+An annuitant, as defined in section 8901 of title 5, who is enrolled in a life insurance plan administered by an agency from which employees are transferred under this title <sup>1</sup> on the day before the transfer date shall be eligible for coverage by a life insurance plan under sections 8706(b), 8714a, 8714b, or 8714c of title 5, or by a life insurance plan established by the Office of the Comptroller of the Currency or the Corporation, as applicable, without regard to any regularly scheduled open season or any requirement of insurability.
 
 **(ii) Contribution of transferred employee**
 
@@ -6203,7 +6203,7 @@ If the Comptroller of the Currency or the Chairperson of the Corporation determi
 
 For purposes of this subsection, periods of service with a Federal home loan bank or a joint office of Federal home loan banks shall be credited as periods of service with a Federal agency.
 
-(Pub. L. 111–203, title III, § 322, July 21, 2010, 124 Stat. 1529.)
+(Pub. L. 111–203, title III, § 322, July 21, 2010, 124 Stat. 1529.)
 
 **Editorial Notes**
 
@@ -6217,7 +6217,7 @@ This title, referred to in subsecs. (a)(1)(B)(i) and (i)(2)(A)(i), (E)(i), is ti
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-#### § 5433. Property transferred
+#### § 5433. Property transferred
 
 **(a) Property defined**
 
@@ -6229,13 +6229,13 @@ For purposes of this section, the term “property” includes all real property
 
 No later than 90 days after the transfer date, all property of the Office of Thrift Supervision (other than property described under paragraph (b)(2)) that the Comptroller of the Currency and the Chairperson of the Corporation jointly determine is used, on the day before the transfer date, to perform or support the functions of the Office of Thrift Supervision transferred to the Office of the Comptroller of the Currency or the Corporation under this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall be transferred to the Office of the Comptroller of the Currency or the Corporation in a manner consistent with the transfer of employees under this part.
 
 **(2) Personal property**
 
-All books, accounts, records, reports, files, memoranda, papers, documents, reports of examination, work papers, and correspondence of the Office of Thrift Supervision that the Comptroller of the Currency, the Chairperson of the Corporation, and the Chairman of the Board of Governors jointly determine is used, on the day before the transfer date, to perform or support the functions of the Office of Thrift Supervision transferred to the Board of Governors under this title <sup>1</sup> shall be transferred to the Board of Governors in a manner consistent with the purposes of this title.<sup>1</sup>
+All books, accounts, records, reports, files, memoranda, papers, documents, reports of examination, work papers, and correspondence of the Office of Thrift Supervision that the Comptroller of the Currency, the Chairperson of the Corporation, and the Chairman of the Board of Governors jointly determine is used, on the day before the transfer date, to perform or support the functions of the Office of Thrift Supervision transferred to the Board of Governors under this title <sup>1</sup> shall be transferred to the Board of Governors in a manner consistent with the purposes of this title.<sup>1</sup>
 
 **(c) Contracts related to property transferred**
 
@@ -6245,7 +6245,7 @@ Each contract, agreement, lease, license, permit, and similar arrangement relati
 
 Property identified for transfer under this section shall not be altered, destroyed, or deleted before transfer under this section.
 
-(Pub. L. 111–203, title III, § 323, July 21, 2010, 124 Stat. 1535.)
+(Pub. L. 111–203, title III, § 323, July 21, 2010, 124 Stat. 1535.)
 
 **Editorial Notes**
 
@@ -6259,7 +6259,7 @@ This title, referred to in subsec. (b), is title III of Pub. L. 111–203, July 
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-#### § 5434. Funds transferred
+#### § 5434. Funds transferred
 
 The funds that, on the day before the transfer date, the Director of the Office of Thrift Supervision (in consultation with the Comptroller of the Currency, the Chairperson of the Corporation, and the Chairman of the Board of Governors) determines are not necessary to dispose of the affairs of the Office of Thrift Supervision under section 5435 of this title and are available to the Office of Thrift Supervision to pay the expenses of the Office of Thrift Supervision—
 
@@ -6269,7 +6269,7 @@ The funds that, on the day before the transfer date, the Director of the Office 
 
 **(3)** relating to the functions of the Office of Thrift Supervision transferred under section 5412(b)(1)(A) of this title, shall be transferred to the Board of Governors on the transfer date.
 
-(Pub. L. 111–203, title III, § 324, July 21, 2010, 124 Stat. 1536.)
+(Pub. L. 111–203, title III, § 324, July 21, 2010, 124 Stat. 1536.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6277,15 +6277,15 @@ The funds that, on the day before the transfer date, the Director of the Office 
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-#### § 5435. Disposition of affairs
+#### § 5435. Disposition of affairs
 
 **(a) Authority of Director** During the 90-day period beginning on the transfer date, the Director of the Office of Thrift Supervision—
 
-**(1)** shall, solely for the purpose of winding up the affairs of the Office of Thrift Supervision relating to any function transferred to the Office of the Comptroller of the Currency, the Corporation, or the Board of Governors under this title— 1
+**(1)** shall, solely for the purpose of winding up the affairs of the Office of Thrift Supervision relating to any function transferred to the Office of the Comptroller of the Currency, the Corporation, or the Board of Governors under this title— 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-**(A)** manage the employees of the Office of Thrift Supervision who have not yet been transferred and provide for the payment of the compensation and benefits of the employees that accrue before the date on which the employees are transferred under this title; <sup>1</sup> and
+**(A)** manage the employees of the Office of Thrift Supervision who have not yet been transferred and provide for the payment of the compensation and benefits of the employees that accrue before the date on which the employees are transferred under this title; <sup>1</sup> and
 
 **(B)** manage any property of the Office of Thrift Supervision, until the date on which the property is transferred under section 5433 of this title; and
 
@@ -6305,7 +6305,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 **(B)** entitled to receive compensation at the same annual rate of basic pay that the Director of the Office of Thrift Supervision received on the day before the transfer date.
 
-(Pub. L. 111–203, title III, § 325, July 21, 2010, 124 Stat. 1536.)
+(Pub. L. 111–203, title III, § 325, July 21, 2010, 124 Stat. 1536.)
 
 **Editorial Notes**
 
@@ -6319,19 +6319,19 @@ This title, where footnoted in subsec. (a)(1), is title III of Pub. L. 111–203
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-#### § 5436. Continuation of services
+#### § 5436. Continuation of services
 
 Any agency, department, or other instrumentality of the United States, and any successor to any such agency, department, or instrumentality, that was, before the transfer date, providing support services to the Office of Thrift Supervision in connection with functions transferred to the Office of the Comptroller of the Currency, the Corporation or the Board of Governors under this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall—
 
-**(1)** continue to provide such services, subject to reimbursement by the Office of the Comptroller of the Currency, the Corporation, or the Board of Governors, until the transfer of functions under this title <sup>1</sup> is complete; and
+**(1)** continue to provide such services, subject to reimbursement by the Office of the Comptroller of the Currency, the Corporation, or the Board of Governors, until the transfer of functions under this title <sup>1</sup> is complete; and
 
 **(2)** consult with the Comptroller of the Currency, the Chairperson of the Corporation, or the Chairman of the Board of Governors, as appropriate, to coordinate and facilitate a prompt and orderly transition.
 
-(Pub. L. 111–203, title III, § 326, July 21, 2010, 124 Stat. 1537.)
+(Pub. L. 111–203, title III, § 326, July 21, 2010, 124 Stat. 1537.)
 
 **Editorial Notes**
 
@@ -6345,13 +6345,13 @@ This title, referred to in text, is title III of Pub. L. 111–203, July 21, 201
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-#### § 5437. Implementation plan and reports
+#### § 5437. Implementation plan and reports
 
 **(a) Plan submission**
 
 Within 180 days of July 21, 2010, the Board of Governors, the Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision, shall jointly submit a plan to the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Financial Services of the House of Representatives, and the Inspectors General of the Department of the Treasury, the Corporation, and the Board of Governors detailing the steps the Board of Governors, the Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision will take to implement the provisions of sections 301 through 326,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and the provisions of the amendments made by such sections.
 
@@ -6365,9 +6365,9 @@ and the provisions of the amendments made by such sections.
 
 **(4)** whether the plan sufficiently takes into consideration the effective transfer of funds;
 
-**(5)** whether the plan sufficiently takes in 2
+**(5)** whether the plan sufficiently takes in 2
 
-<sup>2</sup>  So in original. Probably should be “into”.
+<sup>2</sup> So in original. Probably should be “into”.
 
 consideration the orderly transfer of property; and
 
@@ -6377,7 +6377,7 @@ consideration the orderly transfer of property; and
 
 Not later than 6 months after the date on which the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives receives the report required under subsection (b), and every 6 months thereafter until all aspects of the plan have been implemented, the Inspectors General of the Department of the Treasury, the Corporation, and the Board of Governors shall jointly provide a written report on the status of the implementation of the plan to the Board of Governors, the Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision and shall submit a copy to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
 
-(Pub. L. 111–203, title III, § 327, July 21, 2010, 124 Stat. 1537.)
+(Pub. L. 111–203, title III, § 327, July 21, 2010, 124 Stat. 1537.)
 
 **Editorial Notes**
 
@@ -6393,7 +6393,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 ### Part C—Other Matters
 
-#### § 5451. Branching
+#### § 5451. Branching
 
 Notwithstanding the Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.), the Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.), or any other provision of Federal or State law, a savings association that becomes a bank may—
 
@@ -6401,15 +6401,15 @@ Notwithstanding the Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.), the 
 
 **(2)** establish, acquire, and operate additional branches and agencies at any location within any State in which the savings association operated a branch immediately before the savings association became a bank, if the law of the State in which the branch is located, or is to be located, would permit establishment of the branch if the bank were a State bank chartered by such State.
 
-(Pub. L. 111–203, title III, § 341, July 21, 2010, 124 Stat. 1540.)
+(Pub. L. 111–203, title III, § 341, July 21, 2010, 124 Stat. 1540.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Deposit Insurance Act, referred to in text, is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in text, is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
-The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6417,7 +6417,7 @@ The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, c
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-#### § 5452. Office of Minority and Women Inclusion
+#### § 5452. Office of Minority and Women Inclusion
 
 **(a) Office of Minority and Women Inclusion**
 
@@ -6563,7 +6563,7 @@ The term “Office” means the Office of Minority and Women Inclusion establish
 
 The term “women-owned business” has the meaning given the term “women’s business” in section 1441a(r)(4)(B) of this title, as in effect on the day before the transfer date.
 
-(Pub. L. 111–203, title III, § 342, July 21, 2010, 124 Stat. 1541.)
+(Pub. L. 111–203, title III, § 342, July 21, 2010, 124 Stat. 1541.)
 
 **Editorial Notes**
 
@@ -6579,7 +6579,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 ## SUBCHAPTER IV—PAYMENT, CLEARING, AND SETTLEMENT SUPERVISION
 
-### § 5461. Findings and purposes
+### § 5461. Findings and purposes
 
 **(a) Findings** Congress finds the following:
 
@@ -6613,19 +6613,19 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 **(4)** providing the Board of Governors an enhanced role in the supervision of risk management standards for systemically important payment, clearing, and settlement activities by financial institutions.
 
-(Pub. L. 111–203, title VIII, § 802, July 21, 2010, 124 Stat. 1802.)
+(Pub. L. 111–203, title VIII, § 802, July 21, 2010, 124 Stat. 1802.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 111–203, title VIII, § 814, July 21, 2010, 124 Stat. 1822, provided that: “This title [enacting this subchapter] is effective as of the date of enactment of this Act [July 21, 2010].”
+Pub. L. 111–203, title VIII, § 814, July 21, 2010, 124 Stat. 1822, provided that: “This title [enacting this subchapter] is effective as of the date of enactment of this Act [July 21, 2010].”
 
 **Short Title**
 
 This subchapter known as the “Payment, Clearing, and Settlement Supervision Act of 2010”, see Short Title note set out under section 5301 of this title.
 
-### § 5462. Definitions
+### § 5462. Definitions
 
 In this subchapter, the following definitions shall apply:
 
@@ -6659,9 +6659,9 @@ The term “designated financial market utility” means a financial market util
 
 **(iii)** an organization operating under section 25 or 25A of the Federal Reserve Act (12 U.S.C. 601–604a and 611 through 631);
 
-**(iv)** a credit union, as defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752); 1
+**(iv)** a credit union, as defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(v)** a broker or dealer, as defined in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c);
 
@@ -6765,25 +6765,25 @@ If a designated financial market utility is subject to the jurisdictional superv
 
 The terms “systemically important” and “systemic importance” mean a situation where the failure of or a disruption to the functioning of a financial market utility or the conduct of a payment, clearing, or settlement activity could create, or increase, the risk of significant liquidity or credit problems spreading among financial institutions or markets and thereby threaten the stability of the financial system of the United States.
 
-(Pub. L. 111–203, title VIII, § 803, July 21, 2010, 124 Stat. 1803.)
+(Pub. L. 111–203, title VIII, § 803, July 21, 2010, 124 Stat. 1803.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Credit Union Act, referred to in pars. (1)(B) and (5)(A)(iv), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. Section 101 of the Act, classified to section 1752 of this title, does not contain a definition of “credit union”. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+The Federal Credit Union Act, referred to in pars. (1)(B) and (5)(A)(iv), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. Section 101 of the Act, classified to section 1752 of this title, does not contain a definition of “credit union”. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
-Sections 25 and 25A of the Federal Reserve Act, referred to in pars. (1)(C) and (5)(A)(iii), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of this title.
+Sections 25 and 25A of the Federal Reserve Act, referred to in pars. (1)(C) and (5)(A)(iii), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of this title.
 
-The Commodity Exchange Act, referred to in pars. (5)(B) and (6)(B)(i), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in pars. (5)(B) and (6)(B)(i), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-The Securities Exchange Act of 1934, referred to in pars. (5)(B) and (6)(B)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in pars. (5)(B) and (6)(B)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Securities Act of 1933, referred to in par. (7)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in par. (7)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 Sections 727 and 763(i) of the Wall Street Transparency and Accountability Act of 2010, referred to in par. (7)(D), are sections 727 and 763(i) of Pub. L. 111–203, which amended section 2 of Title 7, Agriculture, and section 78m of Title 15, Commerce and Trade, respectively, effective on the later of 360 days after July 21, 2010, or, to the extent it requires a rulemaking, not less than 60 days after publication of the final rule or regulation.
 
-### § 5463. Designation of systemic importance
+### § 5463. Designation of systemic importance
 
 **(a) Designation**
 
@@ -6861,9 +6861,9 @@ If the Council does not receive a timely request for a hearing under subsection 
 
 The Council may extend the time periods established in subsections (c) and (d) as the Council determines to be necessary or appropriate.
 
-(Pub. L. 111–203, title VIII, § 804, July 21, 2010, 124 Stat. 1807.)
+(Pub. L. 111–203, title VIII, § 804, July 21, 2010, 124 Stat. 1807.)
 
-### § 5464. Standards for systemically important financial market utilities and payment, clearing, or settlement activities
+### § 5464. Standards for systemically important financial market utilities and payment, clearing, or settlement activities
 
 **(a) Authority to prescribe standards**
 
@@ -6895,9 +6895,9 @@ The Commodity Futures Trading Commission or the Commission, as applicable, shall
 
 **(E) Authorization**
 
-Upon an affirmative vote by not fewer than 2/3 of members then serving on the Council, the Council shall either find that the response submitted under subparagraph (D) is sufficient, or require the Commodity Futures Trading Commission, or the Commission, as applicable, to prescribe such risk management standards as the Council determines is necessary to address the specific prudential requirements that are determined to be insufficient.” 1
+Upon an affirmative vote by not fewer than 2/3 of members then serving on the Council, the Council shall either find that the response submitted under subparagraph (D) is sufficient, or require the Commodity Futures Trading Commission, or the Commission, as applicable, to prescribe such risk management standards as the Council determines is necessary to address the specific prudential requirements that are determined to be insufficient.” 1
 
-<sup>1</sup>  So in original. The closing quotation marks probably should not appear.
+<sup>1</sup> So in original. The closing quotation marks probably should not appear.
 
 **(b) Objectives and principles** The objectives and principles for the risk management standards prescribed under subsection (a) shall be to—
 
@@ -6941,9 +6941,9 @@ The standards prescribed under subsection (a) governing the conduct of designate
 
 Designated financial market utilities and financial institutions subject to the standards prescribed under subsection (a) for a designated activity shall conduct their operations in compliance with the applicable risk management standards.
 
-(Pub. L. 111–203, title VIII, § 805, July 21, 2010, 124 Stat. 1809.)
+(Pub. L. 111–203, title VIII, § 805, July 21, 2010, 124 Stat. 1809.)
 
-### § 5465. Operations of designated financial market utilities
+### § 5465. Operations of designated financial market utilities
 
 **(a) Federal Reserve account and services**
 
@@ -6951,9 +6951,9 @@ The Board of Governors may authorize a Federal Reserve Bank to establish and mai
 
 **(b) Advances**
 
-The Board of Governors may authorize a Federal Reserve bank under section 10B of the Federal Reserve Act (12 U.S.C. 347b) to provide to a designated financial market utility discount and borrowing privileges only in unusual or exigent circumstances, upon the affirmative vote of a majority of the Board of Governors then serving (or such other number in accordance with the provisions of section 11(r)(2) of the Federal Reserve Act (12 U.S.C. 248(r)(2)) 1
+The Board of Governors may authorize a Federal Reserve bank under section 10B of the Federal Reserve Act (12 U.S.C. 347b) to provide to a designated financial market utility discount and borrowing privileges only in unusual or exigent circumstances, upon the affirmative vote of a majority of the Board of Governors then serving (or such other number in accordance with the provisions of section 11(r)(2) of the Federal Reserve Act (12 U.S.C. 248(r)(2)) 1
 
-<sup>1</sup>  So in original. Another closing parenthesis probably should appear.
+<sup>1</sup> So in original. Another closing parenthesis probably should appear.
 
 after consultation with the Secretary, and upon a showing by the designated financial market utility that it is unable to secure adequate credit accommodations from other banking institutions. All such discounts and borrowing privileges shall be subject to such other limitations, restrictions, and regulations as the Board of Governors may prescribe. Access to discount and borrowing privileges under section 10B of the Federal Reserve Act as authorized in this section does not require a designated financial market utility to be or become a bank or bank holding company.
 
@@ -6971,9 +6971,9 @@ The Board of Governors may exempt a designated financial market utility from, or
 
 **(A) Advance notice of proposed changes required**
 
-A designated financial market utility shall provide notice 60 days in advance notice 2
+A designated financial market utility shall provide notice 60 days in advance notice 2
 
-<sup>2</sup>  So in original. The word “notice” probably should not appear.
+<sup>2</sup> So in original. The word “notice” probably should not appear.
 
 to its Supervisory Agency of any proposed change to its rules, procedures, or operations that could, as defined in rules of each Supervisory Agency, materially affect, the nature or level of risks presented by the designated financial market utility.
 
@@ -7045,17 +7045,17 @@ The Supervisory Agency shall provide the Board of Governors concurrently with a 
 
 Before taking any action on, or completing its review of, a change proposed by a designated financial market utility, the Supervisory Agency shall consult with the Board of Governors.
 
-(Pub. L. 111–203, title VIII, § 806, July 21, 2010, 124 Stat. 1811.)
+(Pub. L. 111–203, title VIII, § 806, July 21, 2010, 124 Stat. 1811.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Reserve Act, referred to in subsecs. (a) and (c), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+The Federal Reserve Act, referred to in subsecs. (a) and (c), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
-This Act, referred to in subsec. (e)(2)(D), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This Act, referred to in subsec. (e)(2)(D), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-### § 5466. Examination of and enforcement actions against designated financial market utilities
+### § 5466. Examination of and enforcement actions against designated financial market utilities
 
 **(a) Examination** Notwithstanding any other provision of law and subject to subsection (d), the Supervisory Agency shall conduct examinations of a designated financial market utility at least once annually in order to determine the following:
 
@@ -7085,9 +7085,9 @@ For purposes of enforcing the provisions of this subchapter, a designated financ
 
 **(1) Board of Governors consultation on examination planning**
 
-The Supervisory Agency shall consult annually with the Board of Governors regarding the scope and methodology of any examination conducted under subsections (a) and (b). The Supervisory Agency shall lead all examinations conducted under subsections (a) and (b) 1
+The Supervisory Agency shall consult annually with the Board of Governors regarding the scope and methodology of any examination conducted under subsections (a) and (b). The Supervisory Agency shall lead all examinations conducted under subsections (a) and (b) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(2) Board of Governors participation in examination**
 
@@ -7127,15 +7127,15 @@ If the Supervisory Agency rejects, in whole or in part, the recommendation of th
 
 **(2) Enforcement authority**
 
-For purposes of taking enforcement action under paragraph (1), a designated financial market utility shall be subject to, and the Board of Governors shall have authority under 2
+For purposes of taking enforcement action under paragraph (1), a designated financial market utility shall be subject to, and the Board of Governors shall have authority under 2
 
-<sup>2</sup>  So in original. Probably should be followed by a comma.
+<sup>2</sup> So in original. Probably should be followed by a comma.
 
 the provisions of subsections (b) through (n) of section 1818 of this title in the same manner and to the same extent as if the designated financial market utility was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
 
-(Pub. L. 111–203, title VIII, § 807, July 21, 2010, 124 Stat. 1814.)
+(Pub. L. 111–203, title VIII, § 807, July 21, 2010, 124 Stat. 1814.)
 
-### § 5467. Examination of and enforcement actions against financial institutions subject to standards for designated activities
+### § 5467. Examination of and enforcement actions against financial institutions subject to standards for designated activities
 
 **(a) Examination** The appropriate financial regulator is authorized to examine a financial institution subject to the standards prescribed under section 5464(a) of this title for a designated activity in order to determine the following:
 
@@ -7151,9 +7151,9 @@ the provisions of subsections (b) through (n) of section 1818 of this title in t
 
 **(b) Enforcement**
 
-For purposes of enforcing the provisions of this subchapter, and the rules and orders prescribed under this section, a financial institution subject to the standards prescribed under section 5464(a) of this title for a designated activity shall be subject to, and the appropriate financial regulator shall have authority under 1
+For purposes of enforcing the provisions of this subchapter, and the rules and orders prescribed under this section, a financial institution subject to the standards prescribed under section 5464(a) of this title for a designated activity shall be subject to, and the appropriate financial regulator shall have authority under 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 the provisions of subsections (b) through (n) of section 1818 of this title in the same manner and to the same extent as if the financial institution was an insured depository institution and the appropriate financial regulator was the appropriate Federal banking agency for such insured depository institution.
 
@@ -7183,7 +7183,7 @@ The appropriate financial regulator may request the Board of Governors to enforc
 
 **(B) Enforcement by Board of Governors**
 
-Upon receipt of an appropriate written request, the Board of Governors shall determine whether an enforcement action is warranted, and, if so, it shall enforce compliance with this subchapter or the rules or orders prescribed under this subchapter and, if so, the financial institution shall be subject to, and the Board of Governors shall have authority under <sup>1</sup> the provisions of subsections (b) through (n) of section 1818 of this title in the same manner and to the same extent as if the financial institution was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
+Upon receipt of an appropriate written request, the Board of Governors shall determine whether an enforcement action is warranted, and, if so, it shall enforce compliance with this subchapter or the rules or orders prescribed under this subchapter and, if so, the financial institution shall be subject to, and the Board of Governors shall have authority under <sup>1</sup> the provisions of subsections (b) through (n) of section 1818 of this title in the same manner and to the same extent as if the financial institution was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
 
 **(e) Back-up authority of the Board of Governors**
 
@@ -7227,11 +7227,11 @@ Upon receipt of an appropriate written request, the Board of Governors shall det
 
 **(3) Enforcement provisions**
 
-For purposes of taking enforcement action under paragraph (1), the financial institution shall be subject to, and the Board of Governors shall have authority under <sup>1</sup> the provisions of subsections (b) through (n) of section 1818 of this title in the same manner and to the same extent as if the financial institution was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
+For purposes of taking enforcement action under paragraph (1), the financial institution shall be subject to, and the Board of Governors shall have authority under <sup>1</sup> the provisions of subsections (b) through (n) of section 1818 of this title in the same manner and to the same extent as if the financial institution was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
 
-(Pub. L. 111–203, title VIII, § 808, July 21, 2010, 124 Stat. 1816.)
+(Pub. L. 111–203, title VIII, § 808, July 21, 2010, 124 Stat. 1816.)
 
-### § 5468. Requests for information, reports, or records
+### § 5468. Requests for information, reports, or records
 
 **(a) Information to assess systemic importance**
 
@@ -7303,7 +7303,7 @@ The Board of Governors shall adopt data standards for all information that, thro
 
 The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of this title, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
 
-(Pub. L. 111–203, title VIII, § 809, July 21, 2010, 124 Stat. 1818; Pub. L. 117–263, div. E, title LVIII, § 5861(d), Dec. 23, 2022, 136 Stat. 3435.)
+(Pub. L. 111–203, title VIII, § 809, July 21, 2010, 124 Stat. 1818; Pub. L. 117–263, div. E, title LVIII, § 5861(d), Dec. 23, 2022, 136 Stat. 3435.)
 
 **Editorial Notes**
 
@@ -7317,27 +7317,27 @@ The data standards required under paragraph (1) shall incorporate, and ensure co
 
 Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5864 of Pub. L. 117–263, set out as a note under section 253 of this title.
 
-### § 5469. Rulemaking
+### § 5469. Rulemaking
 
 The Board of Governors, the Supervisory Agencies, and the Council are authorized to prescribe such rules and issue such orders as may be necessary to administer and carry out their respective authorities and duties granted under this subchapter and prevent evasions thereof.
 
-(Pub. L. 111–203, title VIII, § 810, July 21, 2010, 124 Stat. 1820.)
+(Pub. L. 111–203, title VIII, § 810, July 21, 2010, 124 Stat. 1820.)
 
-### § 5470. Other authority
+### § 5470. Other authority
 
 Unless otherwise provided by its terms, this subchapter does not divest any appropriate financial regulator, any Supervisory Agency, or any other Federal or State agency, of any authority derived from any other applicable law, except that any standards prescribed by the Board of Governors under section 5464 of this title shall supersede any less stringent requirements established under other authority to the extent of any conflict.
 
-(Pub. L. 111–203, title VIII, § 811, July 21, 2010, 124 Stat. 1821.)
+(Pub. L. 111–203, title VIII, § 811, July 21, 2010, 124 Stat. 1821.)
 
-### § 5471. Consultation
+### § 5471. Consultation
 
 **(a) CFTC** The Commodity Futures Trading Commission shall consult with the Board of Governors—
 
 **(1)** prior to exercising its authorities under sections 2(h)(2)(C), 2(h)(3)(A), 2(h)(3)(C), 2(h)(4)(A), and 2(h)(4)(B) of title 7, as amended by the Wall Street Transparency and Accountability Act of 2010;
 
-**(2)** with respect to any rule or rule amendment of a derivatives clearing organization for which a stay of certification has been issued under section 745(b)(3) 1
+**(2)** with respect to any rule or rule amendment of a derivatives clearing organization for which a stay of certification has been issued under section 745(b)(3) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Wall Street Transparency and Accountability Act of 2010; and
 
@@ -7351,7 +7351,7 @@ of the Wall Street Transparency and Accountability Act of 2010; and
 
 **(3)** prior to exercising its rulemaking authorities under section 78m(n) of title 15, as added by section 763(i) of the Wall Street Transparency and Accountability Act of 2010.
 
-(Pub. L. 111–203, title VIII, § 812, July 21, 2010, 124 Stat. 1821.)
+(Pub. L. 111–203, title VIII, § 812, July 21, 2010, 124 Stat. 1821.)
 
 **Editorial Notes**
 
@@ -7361,11 +7361,11 @@ The Wall Street Transparency and Accountability Act of 2010, referred to in subs
 
 Section 745(b)(3) of the Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (a)(2), probably means section 5c(c)(3) of the Commodity Exchange Act, which is classified to section 7a–2(c)(3) of Title 7, Agriculture. Section 745(b) of the Wall Street Transparency and Accountability Act of 2010, which is section 745(b) of Pub. L. 111–203, added subsec. (c) of section 7a–2 of Title 7 and struck out former subsec. (c) of that section. Section 7a–2(c)(3) of Title 7 relates to stays of the certification for rules. Section 745(b) of Pub. L. 111–203 does not contain a par. (3).
 
-### § 5472. Common framework for designated clearing entity risk management
+### § 5472. Common framework for designated clearing entity risk management
 
-The Commodity Futures Trading Commission and the Commission shall coordinate with the Board of Governors to jointly develop risk management supervision programs for designated clearing entities. Not later than 1 year after July 21, 2010, the Commodity Futures Trading Commission, the Commission, and the Board of Governors shall submit a joint report to the Committee on Banking, Housing, and Urban Affairs and the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Committee on Financial Services and the Committee on Agriculture of the House of Representatives recommendations 1
+The Commodity Futures Trading Commission and the Commission shall coordinate with the Board of Governors to jointly develop risk management supervision programs for designated clearing entities. Not later than 1 year after July 21, 2010, the Commodity Futures Trading Commission, the Commission, and the Board of Governors shall submit a joint report to the Committee on Banking, Housing, and Urban Affairs and the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Committee on Financial Services and the Committee on Agriculture of the House of Representatives recommendations 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “with”.
+<sup>1</sup> So in original. Probably should be preceded by “with”.
 
 for—
 
@@ -7377,15 +7377,15 @@ for—
 
 **(4)** improving regulators’ ability to monitor the potential effects of designated clearing entity risk management on the stability of the financial system of the United States.
 
-(Pub. L. 111–203, title VIII, § 813, July 21, 2010, 124 Stat. 1821.)
+(Pub. L. 111–203, title VIII, § 813, July 21, 2010, 124 Stat. 1821.)
 
 ## SUBCHAPTER V—BUREAU OF CONSUMER FINANCIAL PROTECTION
 
-### § 5481. Definitions
+### § 5481. Definitions
 
 Except as otherwise provided in this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 for purposes of this title,1 the following definitions shall apply:
 
@@ -7463,9 +7463,9 @@ The term “Director” means the Director of the Bureau.
 
 **(F)** the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.), except with respect to sections 615(e) and 628 of that Act (15 U.S.C. 1681m(e), 1681w);
 
-**(G)** the Home Owners 2
+**(G)** the Home Owners 2
 
-<sup>2</sup>  So in original. Probably should be “Homeowners”.
+<sup>2</sup> So in original. Probably should be “Homeowners”.
 
 Protection Act of 1998 (12 U.S.C. 4901 et seq.);
 
@@ -7573,9 +7573,9 @@ The term “Federal consumer financial law” means the provisions of this title
 
 **(ii) Limitation** Nothing in clause (i) may be construed as modifying or limiting the authority of the Bureau to exercise any—
 
-**(I)** examination or enforcement powers authority under this title <sup>1</sup> with respect to a covered person or service provider engaging in an activity described in subparagraph (A)(ix); or
+**(I)** examination or enforcement powers authority under this title <sup>1</sup> with respect to a covered person or service provider engaging in an activity described in subparagraph (A)(ix); or
 
-**(II)** powers authorized by this title <sup>1</sup> to prescribe rules, issue orders, or take other actions under any enumerated consumer law or law for which the authorities are transferred under subtitle F or H.
+**(II)** powers authorized by this title <sup>1</sup> to prescribe rules, issue orders, or take other actions under any enumerated consumer law or law for which the authorities are transferred under subtitle F or H.
 
 **(C) Exclusions** The term “financial product or service” does not include—
 
@@ -7709,7 +7709,7 @@ The term “stored value” means funds or monetary value represented in any ele
 
 The term “transmitting or exchanging funds” means receiving currency, monetary value, or payment instruments from a consumer for the purpose of exchanging or transmitting the same by any means, including transmission by wire, facsimile, electronic transfer, courier, the Internet, or through bill payment services or through other businesses that facilitate third-party transfers within the United States or to or from the United States.
 
-(Pub. L. 111–203, title X, § 1002, July 21, 2010, 124 Stat. 1955.)
+(Pub. L. 111–203, title X, § 1002, July 21, 2010, 124 Stat. 1955.)
 
 **Editorial Notes**
 
@@ -7717,53 +7717,53 @@ The term “transmitting or exchanging funds” means receiving currency, moneta
 
 This title, where footnoted in text, is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Subtitle G, referred to in par. (12), is subtitle G (§§ 1071–1079A) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2056. For complete classification of subtitle G to the Code, see Tables.
+Subtitle G, referred to in par. (12), is subtitle G (§§ 1071–1079A) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2056. For complete classification of subtitle G to the Code, see Tables.
 
-Subtitle H, referred to in pars. (12) and (15)(B)(ii)(II), is subtitle H (§§ 1081–1100H) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2080. For complete classification of subtitle H to the Code, see Tables.
+Subtitle H, referred to in pars. (12) and (15)(B)(ii)(II), is subtitle H (§§ 1081–1100H) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2080. For complete classification of subtitle H to the Code, see Tables.
 
-The Alternative Mortgage Transaction Parity Act of 1982, referred to in par. (12)(A), is title VIII of Pub. L. 97–320, Oct. 15, 1982, 96 Stat. 1545, which is classified generally to chapter 39 (§ 3801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3801 of this title and Tables.
+The Alternative Mortgage Transaction Parity Act of 1982, referred to in par. (12)(A), is title VIII of Pub. L. 97–320, Oct. 15, 1982, 96 Stat. 1545, which is classified generally to chapter 39 (§ 3801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3801 of this title and Tables.
 
 The Consumer Leasing Act of 1976, referred to in par. (12)(B), is Pub. L. 94–240, Mar. 23, 1976, 90 Stat. 257. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1601 of Title 15, Commerce and Trade, and Tables.
 
-The Electronic Fund Transfer Act, referred to in par. (12)(C), is title IX of Pub. L. 90–321, as added by Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3728, which is classified generally to subchapter VI (§ 1693 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Electronic Fund Transfer Act, referred to in par. (12)(C), is title IX of Pub. L. 90–321, as added by Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3728, which is classified generally to subchapter VI (§ 1693 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Equal Credit Opportunity Act, referred to in par. (12)(D), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Equal Credit Opportunity Act, referred to in par. (12)(D), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 The Fair Credit Billing Act, referred to in par. (12)(E), is title III of Pub. L. 93–495, Oct. 28, 1974, 88 Stat. 1511, which enacted sections 1666 to 1666i and 1666j of Title 15, Commerce and Trade, amended sections 1601, 1602, 1610, 1631, 1632, and 1637 of Title 15, and enacted provisions set out as a note under section 1666 of Title 15. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 1601 of Title 15 and Tables.
 
-The Fair Credit Reporting Act, referred to in par. (12)(F), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Fair Credit Reporting Act, referred to in par. (12)(F), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Homeowners Protection Act of 1998, referred to in par. (12)(G), is Pub. L. 105–216, July 29, 1998, 112 Stat. 897, which is classified principally to chapter 49 (§ 4901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4901 of this title and Tables.
+The Homeowners Protection Act of 1998, referred to in par. (12)(G), is Pub. L. 105–216, July 29, 1998, 112 Stat. 897, which is classified principally to chapter 49 (§ 4901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4901 of this title and Tables.
 
-The Fair Debt Collection Practices Act, referred to in par. (12)(H), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, which is classified generally to subchapter V (§ 1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Fair Debt Collection Practices Act, referred to in par. (12)(H), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, which is classified generally to subchapter V (§ 1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Home Mortgage Disclosure Act of 1975, referred to in par. (12)(K), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified principally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
+The Home Mortgage Disclosure Act of 1975, referred to in par. (12)(K), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified principally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
 
-The Home Ownership and Equity Protection Act of 1994, referred to in par. (12)(L), is subtitle B (§§ 151–158) of title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2190, which enacted sections 1639 and 1648 of Title 15, Commerce and Trade, amended sections 1602, 1604, 1610, 1640, 1641, and 1647 of Title 15, and enacted provisions set out as notes under sections 1601 and 1602 of Title 15. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 1601 of Title 15 and Tables.
+The Home Ownership and Equity Protection Act of 1994, referred to in par. (12)(L), is subtitle B (§§ 151–158) of title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2190, which enacted sections 1639 and 1648 of Title 15, Commerce and Trade, amended sections 1602, 1604, 1610, 1640, 1641, and 1647 of Title 15, and enacted provisions set out as notes under sections 1601 and 1602 of Title 15. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 1601 of Title 15 and Tables.
 
-The Real Estate Settlement Procedures Act of 1974, referred to in par. (12)(M), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in par. (12)(M), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
-The S.A.F.E. Mortgage Licensing Act of 2008, referred to in par. (12)(N), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+The S.A.F.E. Mortgage Licensing Act of 2008, referred to in par. (12)(N), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
-The Truth in Lending Act, referred to in par. (12)(O), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in par. (12)(O), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Truth in Savings Act, referred to in par. (12)(P), is subtitle F (§§ 261–274) of title II of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2334, which is classified generally to chapter 44 (§ 4301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4301 of this title and Tables.
+The Truth in Savings Act, referred to in par. (12)(P), is subtitle F (§§ 261–274) of title II of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2334, which is classified generally to chapter 44 (§ 4301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
 Section 626 of the Omnibus Appropriations Act, 2009, referred to in par. (12)(Q), is section 626 of div. D of Pub. L. 111–8. Subsecs. (a) and (b) of section 626 are classified to section 5538 of this title, and subsec. (c) of section 626 amended section 1639 of Title 15, Commerce and Trade.
 
-The Interstate Land Sales Full Disclosure Act, referred to in par. (12)(R), is title XIV of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 590, which is classified generally to chapter 42 (§ 1701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 15 and Tables.
+The Interstate Land Sales Full Disclosure Act, referred to in par. (12)(R), is title XIV of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 590, which is classified generally to chapter 42 (§ 1701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 15 and Tables.
 
-Subtitle F, referred to in pars. (14) and (15)(B)(ii)(II), is subtitle F (§§ 1061–1067) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2035, which is classified generally to part F (§ 5581 et seq.) of this subchapter. For complete classification of subtitle F to the Code, see Tables.
+Subtitle F, referred to in pars. (14) and (15)(B)(ii)(II), is subtitle F (§§ 1061–1067) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2035, which is classified generally to part F (§ 5581 et seq.) of this subchapter. For complete classification of subtitle F to the Code, see Tables.
 
-The Federal Trade Commission Act, referred to in par. (14), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in par. (14), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
-The Commodity Exchange Act, referred to in par. (20), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in par. (20), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-The Securities Exchange Act of 1934, referred to in par. (21)(A), (D) to (F), and (K), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in par. (21)(A), (D) to (F), and (K), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Investment Advisers Act of 1940, referred to in par. (21)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
+The Investment Advisers Act of 1940, referred to in par. (21)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
-The Investment Company Act of 1940, referred to in par. (21)(C), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in par. (21)(C), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7773,11 +7773,11 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 **Designation as Enumerated Consumer Law Under the Purview of the Bureau of Consumer Financial Protection**
 
-Pub. L. 111–203, title XIV, § 1400(b), July 21, 2010, 124 Stat. 2136, provided that: “Subtitles A, B, C, and E [subtitles A (§§ 1401–1406), B (§§ 1411–1422), C (§§ 1431–1433), and E (§§ 1461–1465) of title XIV of Pub. L. 111–203, enacting sections 1638a, 1639b to 1639d, 1639f, and 1639g of Title 15, Commerce and Trade, amending section 2605 of this title, sections 1602, 1607, 1638, 1639 to 1639d, and 1640 of Title 15, and enacting provisions set out as notes under sections 1601 and 1639b to 1639d of Title 15] and sections 1471 [enacting section 1639h of Title 15], 1472 [enacting section 1639e of Title 15 and amending section 1604 of Title 15], 1475 [amending section 2603 of this title], and 1476 [not classified to the Code], and the amendments made by such subtitles and sections, shall be enumerated consumer laws, as defined in section 1002 [12 U.S.C. 5481], and come under the purview of the Bureau of Consumer Financial Protection for purposes of title X [see Short Title note set out under section 5301 of this title], including the transfer of functions and personnel under subtitle F of title X [§§ 1061–1067, enacting part F of this subchapter] and the savings provisions of such subtitle.”
+Pub. L. 111–203, title XIV, § 1400(b), July 21, 2010, 124 Stat. 2136, provided that: “Subtitles A, B, C, and E [subtitles A (§§ 1401–1406), B (§§ 1411–1422), C (§§ 1431–1433), and E (§§ 1461–1465) of title XIV of Pub. L. 111–203, enacting sections 1638a, 1639b to 1639d, 1639f, and 1639g of Title 15, Commerce and Trade, amending section 2605 of this title, sections 1602, 1607, 1638, 1639 to 1639d, and 1640 of Title 15, and enacting provisions set out as notes under sections 1601 and 1639b to 1639d of Title 15] and sections 1471 [enacting section 1639h of Title 15], 1472 [enacting section 1639e of Title 15 and amending section 1604 of Title 15], 1475 [amending section 2603 of this title], and 1476 [not classified to the Code], and the amendments made by such subtitles and sections, shall be enumerated consumer laws, as defined in section 1002 [12 U.S.C. 5481], and come under the purview of the Bureau of Consumer Financial Protection for purposes of title X [see Short Title note set out under section 5301 of this title], including the transfer of functions and personnel under subtitle F of title X [§§ 1061–1067, enacting part F of this subchapter] and the savings provisions of such subtitle.”
 
 ### Part A—Bureau of Consumer Financial Protection
 
-#### § 5491. Establishment of the Bureau of Consumer Financial Protection
+#### § 5491. Establishment of the Bureau of Consumer Financial Protection
 
 **(a) Bureau established**
 
@@ -7829,7 +7829,7 @@ No Director or Deputy Director may hold any office, position, or employment in a
 
 The principal office of the Bureau shall be in the District of Columbia. The Director may establish regional offices of the Bureau, including in cities in which the Federal reserve banks, or branches of such banks, are located, in order to carry out the responsibilities assigned to the Bureau under the Federal consumer financial laws.
 
-(Pub. L. 111–203, title X, § 1011, July 21, 2010, 124 Stat. 1964.)
+(Pub. L. 111–203, title X, § 1011, July 21, 2010, 124 Stat. 1964.)
 
 **Editorial Notes**
 
@@ -7841,15 +7841,15 @@ For information regarding the constitutionality of provisions of subsection (c)(
 
 **Effective Date**
 
-Pub. L. 111–203, title X, § 1020, formerly § 1018, July 21, 2010, 124 Stat. 1979, renumbered § 1020 by Pub. L. 117–263, div. E, title LVIII, § 5851(a)(1), Dec. 23, 2022, 136 Stat. 3433, provided that: “This subtitle [subtitle A (§§ 1011–1018), enacting this part and amending section 9702 of Title 20, Education] shall become effective on the date of enactment of this Act [July 21, 2010].”
+Pub. L. 111–203, title X, § 1020, formerly § 1018, July 21, 2010, 124 Stat. 1979, renumbered § 1020 by Pub. L. 117–263, div. E, title LVIII, § 5851(a)(1), Dec. 23, 2022, 136 Stat. 3433, provided that: “This subtitle [subtitle A (§§ 1011–1018), enacting this part and amending section 9702 of Title 20, Education] shall become effective on the date of enactment of this Act [July 21, 2010].”
 
-#### § 5492. Executive and administrative powers
+#### § 5492. Executive and administrative powers
 
 **(a) Powers of the Bureau** The Bureau is authorized to establish the general policies of the Bureau with respect to all executive and administrative functions, including—
 
-**(1)** the establishment of rules for conducting the general business of the Bureau, in a manner not inconsistent with this title; 1
+**(1)** the establishment of rules for conducting the general business of the Bureau, in a manner not inconsistent with this title; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** to bind the Bureau and enter into contracts;
 
@@ -7901,7 +7901,7 @@ No officer or agency of the United States shall have any authority to require th
 
 The Bureau shall not be liable under any provision of law for any action or inaction of the Board of Governors, and the Board of Governors shall not be liable under any provision of law for any action or inaction of the Bureau.
 
-(Pub. L. 111–203, title X, § 1012, July 21, 2010, 124 Stat. 1965.)
+(Pub. L. 111–203, title X, § 1012, July 21, 2010, 124 Stat. 1965.)
 
 **Editorial Notes**
 
@@ -7909,9 +7909,9 @@ The Bureau shall not be liable under any provision of law for any action or inac
 
 This title, referred to in subsec. (a)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Federal Reserve Act, referred to in subsec. (c)(2), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+The Federal Reserve Act, referred to in subsec. (c)(2), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
-#### § 5493. Administration
+#### § 5493. Administration
 
 **(a) Personnel**
 
@@ -7929,7 +7929,7 @@ The Director is authorized to employ attorneys, compliance examiners, compliance
 
 **(i) In general** In making any appointment under subparagraph (A), the Director may waive the requirements of chapter 33 of title 5, and the regulations implementing such chapter, to the extent necessary to appoint employees on terms and conditions that are consistent with those set forth in section 11(1) of the Federal Reserve Act (12 U.S.C. 248(1)),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 while providing for—
 
@@ -8189,7 +8189,7 @@ The Office of Financial Protection for Older Americans (in this subsection refer
 
 Notwithstanding any provision of chapter 10 of title 5, such chapter shall apply to each advisory committee of the Bureau and each subcommittee of such an advisory committee.
 
-(Pub. L. 111–203, title X, § 1013, July 21, 2010, 124 Stat. 1966; Pub. L. 114–113, div. O, title VII, § 704, Dec. 18, 2015, 129 Stat. 3025; Pub. L. 117–286, § 4(a)(59), Dec. 27, 2022, 136 Stat. 4311.)
+(Pub. L. 111–203, title X, § 1013, July 21, 2010, 124 Stat. 1966; Pub. L. 114–113, div. O, title VII, § 704, Dec. 18, 2015, 129 Stat. 3025; Pub. L. 117–286, § 4(a)(59), Dec. 27, 2022, 136 Stat. 4311.)
 
 **Editorial Notes**
 
@@ -8199,9 +8199,9 @@ Section 11(1) of the Federal Reserve Act, referred to in subsec. (a)(1)(C)(i), p
 
 Section 2302(b)(11), referred to in subsec. (a)(1)(C)(ii), probably means section 2302(b)(11) of Title 5, Government Organization and Employees.
 
-The Equal Credit Opportunity Act, referred to in subsec. (c)(2)(A), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Equal Credit Opportunity Act, referred to in subsec. (c)(2)(A), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Home Mortgage Disclosure Act, referred to in subsec. (c)(2)(A), probably means the Home Mortgage Disclosure Act of 1975, which is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, and is classified principally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
+The Home Mortgage Disclosure Act, referred to in subsec. (c)(2)(A), probably means the Home Mortgage Disclosure Act of 1975, which is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, and is classified principally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
 
 **Codification**
 
@@ -8213,7 +8213,7 @@ Section is comprised of section 1013 of Pub. L. 111–203. Subsec. (d)(5), (6) o
 
 2015—Subsec. (h). Pub. L. 114–113 added subsec. (h).
 
-#### § 5494. Consumer Advisory Board
+#### § 5494. Consumer Advisory Board
 
 **(a) Establishment required**
 
@@ -8233,15 +8233,15 @@ The Consumer Advisory Board shall meet from time to time at the call of the Dire
 
 **(2)** be allowed travel expenses, including transportation and subsistence, while away from their homes or regular places of business.
 
-(Pub. L. 111–203, title X, § 1014, July 21, 2010, 124 Stat. 1974.)
+(Pub. L. 111–203, title X, § 1014, July 21, 2010, 124 Stat. 1974.)
 
-#### § 5495. Coordination
+#### § 5495. Coordination
 
 The Bureau shall coordinate with the Commission, the Commodity Futures Trading Commission, the Federal Trade Commission, and other Federal agencies and State regulators, as appropriate, to promote consistent regulatory treatment of consumer financial and investment products and services.
 
-(Pub. L. 111–203, title X, § 1015, July 21, 2010, 124 Stat. 1974.)
+(Pub. L. 111–203, title X, § 1015, July 21, 2010, 124 Stat. 1974.)
 
-#### § 5496. Appearances before and reports to Congress
+#### § 5496. Appearances before and reports to Congress
 
 **(a) Appearances before Congress**
 
@@ -8271,9 +8271,9 @@ The Bureau shall, concurrent with each semi-annual hearing referred to in subsec
 
 **(9)** an analysis of the efforts of the Bureau to increase workforce and contracting diversity consistent with the procedures established by the Office of Minority and Women Inclusion.
 
-(Pub. L. 111–203, title X, § 1016, July 21, 2010, 124 Stat. 1974.)
+(Pub. L. 111–203, title X, § 1016, July 21, 2010, 124 Stat. 1974.)
 
-#### § 5496a. Annual audits
+#### § 5496a. Annual audits
 
 **(a) Annual independent audit**
 
@@ -8283,15 +8283,15 @@ The Bureau shall order an annual independent audit of the operations and budget 
 
 The Comptroller General of the United States shall conduct an annual audit of the Bureau’s financial statements in accordance with generally accepted government accounting standards.
 
-(Pub. L. 111–203, title X, § 1016A, as added Pub. L. 112–10, div. B, title V, § 1573(a), Apr. 15, 2011, 125 Stat. 138.)
+(Pub. L. 111–203, title X, § 1016A, as added Pub. L. 112–10, div. B, title V, § 1573(a), Apr. 15, 2011, 125 Stat. 138.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Initial Audits**
 
-Pub. L. 112–10, div. B, title V, § 1573(c), Apr. 15, 2011, 125 Stat. 139, provided that the initial audits under this section were to be completed not later than the end of the 180-day period beginning on Apr. 15, 2011.
+Pub. L. 112–10, div. B, title V, § 1573(c), Apr. 15, 2011, 125 Stat. 139, provided that the initial audits under this section were to be completed not later than the end of the 180-day period beginning on Apr. 15, 2011.
 
-#### § 5496b. GAO study of financial regulations
+#### § 5496b. GAO study of financial regulations
 
 **(a) Study** Not later than the end of the 180-day period beginning on the date of the enactment of this Act, and annually thereafter, the Comptroller General of the United States shall conduct a study of financial services regulations, including activities of the Bureau. Such study shall include an analysis of—
 
@@ -8305,7 +8305,7 @@ Pub. L. 112–10, div. B, title V, § 1573(c), Apr. 15, 2011, 125 Stat. 139, p
 
 Not later than the end of the 30-day period following the completion of a study conducted pursuant to subsection (a), the Comptroller General shall issue a report to the Congress containing a detailed description of all findings and conclusions made by the Comptroller General in carrying out such study, together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate.
 
-(Pub. L. 111–203, title X, § 1016B, as added Pub. L. 112–10, div. B, title V, § 1573(a), Apr. 15, 2011, 125 Stat. 138.)
+(Pub. L. 111–203, title X, § 1016B, as added Pub. L. 112–10, div. B, title V, § 1573(a), Apr. 15, 2011, 125 Stat. 138.)
 
 **Editorial Notes**
 
@@ -8313,7 +8313,7 @@ Not later than the end of the 30-day period following the completion of a study 
 
 The date of the enactment of this Act, referred to in subsec. (a), probably means the date of enactment of Pub. L. 112–10, which enacted this section and was approved Apr. 15, 2011.
 
-#### § 5497. Funding; penalties and fines
+#### § 5497. Funding; penalties and fines
 
 **(a) Transfer of funds from Board Of Governors**
 
@@ -8339,7 +8339,7 @@ The dollar amount referred to in subparagraph (A)(iii) shall be adjusted annuall
 
 Notwithstanding any other provision in this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the funds derived from the Federal Reserve System pursuant to this subsection shall not be subject to review by the Committees on Appropriations of the House of Representatives and the Senate.
 
@@ -8463,7 +8463,7 @@ Notwithstanding any other provision of law, the amounts in paragraph (2) shall b
 
 The Director shall prepare and submit a report, on an annual basis, to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives regarding the financial operating plans and forecasts of the Director, the financial condition and results of operations of the Bureau, and the sources and application of funds of the Bureau, including any funds appropriated in accordance with this subsection.
 
-(Pub. L. 111–203, title X, § 1017, July 21, 2010, 124 Stat. 1975; Pub. L. 119–21, title III, § 30001, July 4, 2025, 139 Stat. 126.)
+(Pub. L. 111–203, title X, § 1017, July 21, 2010, 124 Stat. 1975; Pub. L. 119–21, title III, § 30001, July 4, 2025, 139 Stat. 126.)
 
 **Editorial Notes**
 
@@ -8473,13 +8473,13 @@ This title, referred to in subsec. (a)(2)(C), is title X of Pub. L. 111–203, J
 
 **Codification**
 
-In subsec. (a)(5)(C), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(5)(C), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
 2025—Subsec. (a)(2)(A)(iii). Pub. L. 119–21 substituted “6.5 percent” for “12 percent”.
 
-#### § 5498. Data standards
+#### § 5498. Data standards
 
 **(a) Requirement**
 
@@ -8489,7 +8489,7 @@ The Bureau shall, by rule, adopt data standards for all collections of informati
 
 The data standards required under subsection (a) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of this title, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
 
-(Pub. L. 111–203, title X, § 1018, as added Pub. L. 117–263, div. E, title LVIII, § 5851(a)(2), Dec. 23, 2022, 136 Stat. 3433.)
+(Pub. L. 111–203, title X, § 1018, as added Pub. L. 117–263, div. E, title LVIII, § 5851(a)(2), Dec. 23, 2022, 136 Stat. 3433.)
 
 **Editorial Notes**
 
@@ -8501,7 +8501,7 @@ A prior section 1018 of Pub. L. 111–203 was renumbered section 1020 and is set
 
 **Rulemaking**
 
-Pub. L. 117–263, div. E, title LVIII, § 5852, Dec. 23, 2022, 136 Stat. 3433, provided that:
+Pub. L. 117–263, div. E, title LVIII, § 5852, Dec. 23, 2022, 136 Stat. 3433, provided that:
 
 > **“(a) In General.—** The Director of the Bureau of Consumer Financial Protection shall issue rules to carry out the amendments made by section 5851 [enacting this section and section 5499 of this title], which shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [12 U.S.C. 5334(b)(2)], as added by section 5811(a) of this title.
 
@@ -8513,9 +8513,9 @@ Pub. L. 117–263, div. E, title LVIII, § 5852, Dec. 23, 2022, 136 Stat. 3433
 
 **Rule of Construction Regarding No New Disclosure Requirements**
 
-Pub. L. 117–263, div. E, title LVIII, § 5853, Dec. 23, 2022, 136 Stat. 3433, provided that: “Nothing in this subtitle [subtitle E (§§ 5851–5853) of title LVIII of div. E of Pub. L. 117–263, enacting this section, section 5499 of this title, and provisions set out as a note under this section], or the amendments made by this subtitle, shall be construed to require the Bureau of Consumer Financial Protection to collect or make publicly available additional information under the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481 et seq.), beyond information that was collected or made publicly available under that Act, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. E, title LVIII, § 5853, Dec. 23, 2022, 136 Stat. 3433, provided that: “Nothing in this subtitle [subtitle E (§§ 5851–5853) of title LVIII of div. E of Pub. L. 117–263, enacting this section, section 5499 of this title, and provisions set out as a note under this section], or the amendments made by this subtitle, shall be construed to require the Bureau of Consumer Financial Protection to collect or make publicly available additional information under the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481 et seq.), beyond information that was collected or made publicly available under that Act, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
 
-#### § 5499. Open data publication
+#### § 5499. Open data publication
 
 All public data assets published by the Bureau shall be—
 
@@ -8527,7 +8527,7 @@ All public data assets published by the Bureau shall be—
 
 **(4)** accessible via application programming interface where appropriate.
 
-(Pub. L. 111–203, title X, § 1019, as added Pub. L. 117–263, div. E, title LVIII, § 5851(a)(2), Dec. 23, 2022, 136 Stat. 3433.)
+(Pub. L. 111–203, title X, § 1019, as added Pub. L. 117–263, div. E, title LVIII, § 5851(a)(2), Dec. 23, 2022, 136 Stat. 3433.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8537,7 +8537,7 @@ Enactment of section not to be construed to require certain additional informati
 
 ### Part B—General Powers of the Bureau
 
-#### § 5511. Purpose, objectives, and functions
+#### § 5511. Purpose, objectives, and functions
 
 **(a) Purpose**
 
@@ -8569,17 +8569,17 @@ The Bureau shall seek to implement and, where applicable, enforce Federal consum
 
 **(6)** performing such support activities as may be necessary or useful to facilitate the other functions of the Bureau.
 
-(Pub. L. 111–203, title X, § 1021, July 21, 2010, 124 Stat. 1979.)
+(Pub. L. 111–203, title X, § 1021, July 21, 2010, 124 Stat. 1979.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 111–203, title X, § 1029A, July 21, 2010, 124 Stat. 2005, provided that: “This subtitle [subtitle B (§§ 1021–1029A), enacting this part] shall become effective on the designated transfer date, except that sections 1022, 1024, and 1025(e) [12 U.S.C. 5512, 5514, and 5515(e)] shall become effective on the date of enactment of this Act [July 21, 2010].”
+Pub. L. 111–203, title X, § 1029A, July 21, 2010, 124 Stat. 2005, provided that: “This subtitle [subtitle B (§§ 1021–1029A), enacting this part] shall become effective on the designated transfer date, except that sections 1022, 1024, and 1025(e) [12 U.S.C. 5512, 5514, and 5515(e)] shall become effective on the date of enactment of this Act [July 21, 2010].”
 
 [The term “designated transfer date” is defined in section 5481(9) of this title as the date established under section 5582 of this title.]
 
-#### § 5512. Rulemaking authority
+#### § 5512. Rulemaking authority
 
 **(a) In general**
 
@@ -8609,7 +8609,7 @@ The Director may prescribe rules and issue orders and guidance, as may be necess
 
 The Bureau, by rule, may conditionally or unconditionally exempt any class of covered persons, service providers, or consumer financial products or services, from any provision of this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or from any rule issued under this title,1 as the Bureau determines necessary or appropriate to carry out the purposes and objectives of this title,1 taking into consideration the factors in subparagraph (B).
 
@@ -8737,7 +8737,7 @@ In collecting information from any person, publicly releasing information held b
 
 With respect to the application of any provision of the Right to Financial Privacy Act of 1978,2
 
-<sup>2</sup>  So in original. The comma probably should not appear.
+<sup>2</sup> So in original. The comma probably should not appear.
 
 to a disclosure by a covered person or service provider subject to this subsection, the covered person or service provider shall be treated as if it were a “financial institution”, as defined in section 1101 of that Act (12 U.S.C. 3401).
 
@@ -8745,7 +8745,7 @@ to a disclosure by a covered person or service provider subject to this subsecti
 
 **(1) In general**
 
-The Bureau shall conduct an assessment of each significant rule or order adopted by the Bureau under Federal consumer financial law. The assessment shall address, among other relevant factors, the effectiveness of the rule or order in meeting the purposes and objectives of this title <sup>1</sup> and the specific goals stated by the Bureau. The assessment shall reflect available evidence and any data that the Bureau reasonably may collect.
+The Bureau shall conduct an assessment of each significant rule or order adopted by the Bureau under Federal consumer financial law. The assessment shall address, among other relevant factors, the effectiveness of the rule or order in meeting the purposes and objectives of this title <sup>1</sup> and the specific goals stated by the Bureau. The assessment shall reflect available evidence and any data that the Bureau reasonably may collect.
 
 **(2) Reports**
 
@@ -8755,7 +8755,7 @@ The Bureau shall publish a report of its assessment under this subsection not la
 
 Before publishing a report of its assessment, the Bureau shall invite public comment on recommendations for modifying, expanding, or eliminating the newly adopted significant rule or order.
 
-(Pub. L. 111–203, title X, § 1022, July 21, 2010, 124 Stat. 1980.)
+(Pub. L. 111–203, title X, § 1022, July 21, 2010, 124 Stat. 1980.)
 
 **Editorial Notes**
 
@@ -8763,7 +8763,7 @@ Before publishing a report of its assessment, the Bureau shall invite public com
 
 This title, where footnoted in subsecs. (b)(3)(A), (4)(B), (c)(8), and (d)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Right to Financial Privacy Act of 1978, referred to in subsec. (c)(9)(A)(ii), (B), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§ 3401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
+The Right to Financial Privacy Act of 1978, referred to in subsec. (c)(9)(A)(ii), (B), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§ 3401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8773,7 +8773,7 @@ Section effective July 21, 2010, see section 1029A of Pub. L. 111–203, set out
 
 **Designation of Rural Area**
 
-Pub. L. 114–94, div. G, title LXXXIX, § 89002, Dec. 4, 2015, 129 Stat. 1799, provided that:
+Pub. L. 114–94, div. G, title LXXXIX, § 89002, Dec. 4, 2015, 129 Stat. 1799, provided that:
 
 > **“(a) Application.—** Not later than 90 days after the date of the enactment of this Act [Dec. 4, 2015], the Bureau of Consumer Financial Protection shall establish an application process under which a person who lives or does business in a State may, with respect to an area identified by the person in such State that has not been designated by the Bureau as a rural area for purposes of a Federal consumer financial law (as defined under section 1002 of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5481]), apply for such area to be so designated.
 
@@ -8813,7 +8813,7 @@ Pub. L. 114–94, div. G, title LXXXIX, § 89002, Dec. 4, 2015, 129 Stat. 1799
 
 > **“(g) Sunset.—** This section shall cease to have any force or effect after the end of the 2-year period beginning on the date of the enactment of this Act.”
 
-#### § 5513. Review of Bureau regulations
+#### § 5513. Review of Bureau regulations
 
 **(a) Review of Bureau regulations**
 
@@ -8905,7 +8905,7 @@ Nothing in this section shall be construed as limiting or restricting the Bureau
 
 The Council shall prescribe procedural rules to implement this section.
 
-(Pub. L. 111–203, title X, § 1023, July 21, 2010, 124 Stat. 1985.)
+(Pub. L. 111–203, title X, § 1023, July 21, 2010, 124 Stat. 1985.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8913,13 +8913,13 @@ The Council shall prescribe procedural rules to implement this section.
 
 Section effective on the designated transfer date, see section 1029A of Pub. L. 111–203, set out as a note under section 5511 of this title.
 
-#### § 5514. Supervision of nondepository covered persons
+#### § 5514. Supervision of nondepository covered persons
 
 **(a) Scope of coverage**
 
 **(1) Applicability** Notwithstanding any other provision of this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and except as provided in paragraph (3), this section shall apply to any covered person who—
 
@@ -8981,7 +8981,7 @@ To minimize regulatory burden, the Bureau shall coordinate its supervisory activ
 
 **(5) Preservation of authority**
 
-Nothing in this title <sup>1</sup> may be construed as limiting the authority of the Director to require reports from persons described in subsection (a)(1), as permitted under paragraph (1), regarding information owned or under the control of such person, regardless of whether such information is maintained, stored, or processed by another person.
+Nothing in this title <sup>1</sup> may be construed as limiting the authority of the Director to require reports from persons described in subsection (a)(1), as permitted under paragraph (1), regarding information owned or under the control of such person, regardless of whether such information is maintained, stored, or processed by another person.
 
 **(6) Reports of tax law noncompliance**
 
@@ -9049,9 +9049,9 @@ A service provider to a person described in subsection (a)(1) shall be subject t
 
 **(f) Preservation of Farm Credit Administration authority**
 
-No provision of this title <sup>1</sup> may be construed as modifying, limiting, or otherwise affecting the authority of the Farm Credit Administration.
+No provision of this title <sup>1</sup> may be construed as modifying, limiting, or otherwise affecting the authority of the Farm Credit Administration.
 
-(Pub. L. 111–203, title X, § 1024, July 21, 2010, 124 Stat. 1987; Pub. L. 113–173, § 2, Sept. 26, 2014, 128 Stat. 1899.)
+(Pub. L. 111–203, title X, § 1024, July 21, 2010, 124 Stat. 1987; Pub. L. 113–173, § 2, Sept. 26, 2014, 128 Stat. 1899.)
 
 **Editorial Notes**
 
@@ -9069,7 +9069,7 @@ This title, where footnoted in subsecs. (a)(1), (b)(5), (c)(2), and (f), is titl
 
 Section effective July 21, 2010, see section 1029A of Pub. L. 111–203, set out as a note under section 5511 of this title.
 
-#### § 5515. Supervision of very large banks, savings associations, and credit unions
+#### § 5515. Supervision of very large banks, savings associations, and credit unions
 
 **(a) Scope of coverage** This section shall apply to any covered person that is—
 
@@ -9099,9 +9099,9 @@ To minimize regulatory burden, the Bureau shall coordinate its supervisory activ
 
 **(4) Preservation of authority**
 
-Nothing in this title 1
+Nothing in this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 may be construed as limiting the authority of the Director to require reports from a person described in subsection (a), as permitted under paragraph (1), regarding information owned or under the control of such person, regardless of whether such information is maintained, stored, or processed by another person.
 
@@ -9199,7 +9199,7 @@ The process provided in this paragraph shall not apply to a determination by a p
 
 Nothing in this section shall modify or limit the authority of the Bureau to interpret, or take enforcement action under, any Federal consumer financial law, or the authority of a prudential regulator to interpret or take enforcement action under any other provision of Federal law for safety and soundness purposes.
 
-(Pub. L. 111–203, title X, § 1025, July 21, 2010, 124 Stat. 1990.)
+(Pub. L. 111–203, title X, § 1025, July 21, 2010, 124 Stat. 1990.)
 
 **Editorial Notes**
 
@@ -9213,7 +9213,7 @@ This title, referred to in subsec. (b)(4), is title X of Pub. L. 111–203, July
 
 Section effective on the designated transfer date, except that subsec. (e) of this section is effective July 21, 2010, see section 1029A of Pub. L. 111–203, set out as a note under section 5511 of this title.
 
-#### § 5516. Other banks, savings associations, and credit unions
+#### § 5516. Other banks, savings associations, and credit unions
 
 **(a) Scope of coverage** This section shall apply to any covered person that is—
 
@@ -9271,7 +9271,7 @@ Upon receiving a recommendation under subparagraph (A), the prudential regulator
 
 A service provider to a substantial number of persons described in subsection (a) shall be subject to the authority of the Bureau under section 5515 of this title to the same extent as if the Bureau were an appropriate Federal bank agency under section 1867(c) of this title. When conducting any examination or requiring any report from a service provider subject to this subsection, the Bureau shall coordinate with the appropriate prudential regulator.
 
-(Pub. L. 111–203, title X, § 1026, July 21, 2010, 124 Stat. 1993.)
+(Pub. L. 111–203, title X, § 1026, July 21, 2010, 124 Stat. 1993.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9279,21 +9279,21 @@ A service provider to a substantial number of persons described in subsection (a
 
 Section effective on the designated transfer date, see section 1029A of Pub. L. 111–203, set out as a note under section 5511 of this title.
 
-#### § 5517. Limitations on authorities of the Bureau; preservation of authorities
+#### § 5517. Limitations on authorities of the Bureau; preservation of authorities
 
 **(a) Exclusion for merchants, retailers, and other sellers of nonfinancial goods or services**
 
 **(1) Sale or brokerage of nonfinancial good or service**
 
-The Bureau may not exercise any rulemaking, supervisory, enforcement or other authority under this title 1
+The Bureau may not exercise any rulemaking, supervisory, enforcement or other authority under this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 with respect to a person who is a merchant, retailer, or seller of any nonfinancial good or service and is engaged in the sale or brokerage of such nonfinancial good or service, except to the extent that such person is engaged in offering or providing any consumer financial product or service, or is otherwise subject to any enumerated consumer law or any law for which authorities are transferred under subtitle F or H.
 
 **(2) Offering or provision of certain consumer financial products or services in connection with the sale or brokerage of nonfinancial good or service**
 
-**(A) In general** Except as provided in subparagraph (B), and subject to subparagraph (C), the Bureau may not exercise any rulemaking, supervisory, enforcement, or other authority under this title <sup>1</sup> with respect to a merchant, retailer, or seller of nonfinancial goods or services, but only to the extent that such person—
+**(A) In general** Except as provided in subparagraph (B), and subject to subparagraph (C), the Bureau may not exercise any rulemaking, supervisory, enforcement, or other authority under this title <sup>1</sup> with respect to a merchant, retailer, or seller of nonfinancial goods or services, but only to the extent that such person—
 
 **(i)** extends credit directly to a consumer, in a case in which the good or service being provided is not itself a consumer financial product or service (other than credit described in this subparagraph), exclusively for the purpose of enabling that consumer to purchase such nonfinancial good or service directly from the merchant, retailer, or seller;
 
@@ -9305,7 +9305,7 @@ with respect to a person who is a merchant, retailer, or seller of any nonfinanc
 
 **(i)** in which the merchant, retailer, or seller of nonfinancial goods or services assigns, sells or otherwise conveys to another person such debt owed by the consumer (except for a sale of debt that is delinquent or otherwise in default, as described in subparagraph (A)(iii));
 
-**(ii)** in which the credit extended significantly exceeds the market value of the nonfinancial good or service provided, or the Bureau otherwise finds that the sale of the nonfinancial good or service is done as a subterfuge, so as to evade or circumvent the provisions of this title; <sup>1</sup> or
+**(ii)** in which the credit extended significantly exceeds the market value of the nonfinancial good or service provided, or the Bureau otherwise finds that the sale of the nonfinancial good or service is done as a subterfuge, so as to evade or circumvent the provisions of this title; <sup>1</sup> or
 
 **(iii)** in which the merchant, retailer, or seller of nonfinancial goods or services regularly extends credit and the credit is subject to a finance charge.
 
@@ -9325,7 +9325,7 @@ Notwithstanding subparagraph (B), subparagraph (A) shall apply with respect to a
 
 **(i) Authority of other agencies**
 
-No provision of this title <sup>1</sup> shall be construed as modifying, limiting, or superseding the supervisory or enforcement authority of the Federal Trade Commission or any other agency (other than the Bureau) with respect to credit extended, or the collection of debt arising from such extension, directly by a merchant or retailer to a consumer exclusively for the purpose of enabling that consumer to purchase nonfinancial goods or services directly from the merchant or retailer.
+No provision of this title <sup>1</sup> shall be construed as modifying, limiting, or superseding the supervisory or enforcement authority of the Federal Trade Commission or any other agency (other than the Bureau) with respect to credit extended, or the collection of debt arising from such extension, directly by a merchant or retailer to a consumer exclusively for the purpose of enabling that consumer to purchase nonfinancial goods or services directly from the merchant or retailer.
 
 **(ii) Small businesses** A merchant, retailer, or seller of nonfinancial goods or services that would otherwise be subject to the authority of the Bureau solely by virtue of the application of subparagraph (B)(iii) shall be deemed not to be engaged significantly in offering or providing consumer financial products or services under subparagraph (C)(i), if such person—
 
@@ -9345,11 +9345,11 @@ With respect to a merchant, retailer, or seller of nonfinancial goods or service
 
 **(E) Exception from State enforcement**
 
-To the extent that the Bureau may not exercise authority under this subsection with respect to a merchant, retailer, or seller of nonfinancial goods or services, no action by a State attorney general or State regulator with respect to a claim made under this title <sup>1</sup> may be brought under subsection 5552(a) of this title, with respect to an activity described in any of clauses (i) through (iii) of subparagraph (A) by such merchant, retailer, or seller of nonfinancial goods or services.
+To the extent that the Bureau may not exercise authority under this subsection with respect to a merchant, retailer, or seller of nonfinancial goods or services, no action by a State attorney general or State regulator with respect to a claim made under this title <sup>1</sup> may be brought under subsection 5552(a) of this title, with respect to an activity described in any of clauses (i) through (iii) of subparagraph (A) by such merchant, retailer, or seller of nonfinancial goods or services.
 
 **(b) Exclusion for real estate brokerage activities**
 
-**(1) Real estate brokerage activities excluded** Without limiting subsection (a), and except as permitted in paragraph (2), the Bureau may not exercise any rulemaking, supervisory, enforcement, or other authority under this title <sup>1</sup> with respect to a person that is licensed or registered as a real estate broker or real estate agent, in accordance with State law, to the extent that such person—
+**(1) Real estate brokerage activities excluded** Without limiting subsection (a), and except as permitted in paragraph (2), the Bureau may not exercise any rulemaking, supervisory, enforcement, or other authority under this title <sup>1</sup> with respect to a person that is licensed or registered as a real estate broker or real estate agent, in accordance with State law, to the extent that such person—
 
 **(A)** acts as a real estate agent or broker for a buyer, seller, lessor, or lessee of real property;
 
@@ -9359,7 +9359,7 @@ To the extent that the Bureau may not exercise authority under this subsection w
 
 **(D)** offers to engage in any activity, or act in any capacity, described in subparagraph (A), (B), or (C).
 
-**(2) Description of activities** The Bureau may exercise rulemaking, supervisory, enforcement, or other authority under this title <sup>1</sup> with respect to a person described in paragraph (1) when such person is—
+**(2) Description of activities** The Bureau may exercise rulemaking, supervisory, enforcement, or other authority under this title <sup>1</sup> with respect to a person described in paragraph (1) when such person is—
 
 **(A)** engaged in an activity of offering or providing any consumer financial product or service, except that the Bureau may exercise such authority only with respect to that activity; or
 
@@ -9407,9 +9407,9 @@ The term “modular home” means a house built in a factory in 2 or more module
 
 **(II)** to consumers who are not receiving such customary and usual accounting activities; or
 
-**(B)** any person, other than a person described in subparagraph (A) 2
+**(B)** any person, other than a person described in subparagraph (A) 2
 
-<sup>2</sup>  So in original. Probably should be followed by a comma.
+<sup>2</sup> So in original. Probably should be followed by a comma.
 
 that performs income tax preparation activities for consumers.
 
@@ -9453,7 +9453,7 @@ Paragraph (1) shall not be construed so as to limit the authority of the Bureau 
 
 **(1) In general**
 
-No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of any State insurance regulator to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by a State insurance regulator. Except as provided in paragraph (2), the Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> with respect to a person regulated by a State insurance regulator.
+No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of any State insurance regulator to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by a State insurance regulator. Except as provided in paragraph (2), the Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> with respect to a person regulated by a State insurance regulator.
 
 **(2) Description of activities**
 
@@ -9467,7 +9467,7 @@ Notwithstanding paragraph (2), the Bureau shall not exercise any authorities tha
 
 **(1) Preservation of authority of other agencies**
 
-No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of the Secretary of the Treasury, the Secretary of Labor, or the Commissioner of Internal Revenue to adopt regulations, initiate enforcement proceedings, or take any actions with respect to any specified plan or arrangement.
+No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of the Secretary of the Treasury, the Secretary of Labor, or the Commissioner of Internal Revenue to adopt regulations, initiate enforcement proceedings, or take any actions with respect to any specified plan or arrangement.
 
 **(2) Activities not constituting the offering or provision of any consumer financial product or service** For purposes of this title,<sup>1</sup> a person shall not be treated as having engaged in the offering or provision of any consumer financial product or service solely because such person is—
 
@@ -9487,15 +9487,15 @@ Except as provided under subparagraphs (B) and (C), the Bureau may not exercise 
 
 **(i) Agency request**
 
-The Secretary and the Secretary of Labor may jointly issue a written request to the Bureau regarding implementation of appropriate consumer protection standards under this title <sup>1</sup> with respect to the provision of services relating to any specified plan or arrangement.
+The Secretary and the Secretary of Labor may jointly issue a written request to the Bureau regarding implementation of appropriate consumer protection standards under this title <sup>1</sup> with respect to the provision of services relating to any specified plan or arrangement.
 
 **(ii) Agency response**
 
-In response to a request by the Bureau, the Secretary and the Secretary of Labor shall jointly issue a written response, not later than 90 days after receipt of such request, to grant or deny the request of the Bureau regarding implementation of appropriate consumer protection standards under this title <sup>1</sup> with respect to the provision of services relating to any specified plan or arrangement.
+In response to a request by the Bureau, the Secretary and the Secretary of Labor shall jointly issue a written response, not later than 90 days after receipt of such request, to grant or deny the request of the Bureau regarding implementation of appropriate consumer protection standards under this title <sup>1</sup> with respect to the provision of services relating to any specified plan or arrangement.
 
 **(iii) Scope of Bureau action**
 
-Subject to a request or response pursuant to clause (i) or clause (ii) by the agencies made under this subparagraph, the Bureau may exercise rulemaking authority, and may act to enforce a rule prescribed pursuant to such request or response, in accordance with the provisions of this title.<sup>1</sup> A request or response made by the Secretary and the Secretary of Labor under this subparagraph shall describe the basis for, and scope of, appropriate consumer protection standards to be implemented under this title <sup>1</sup> with respect to the provision of services relating to any specified plan or arrangement.
+Subject to a request or response pursuant to clause (i) or clause (ii) by the agencies made under this subparagraph, the Bureau may exercise rulemaking authority, and may act to enforce a rule prescribed pursuant to such request or response, in accordance with the provisions of this title.<sup>1</sup> A request or response made by the Secretary and the Secretary of Labor under this subparagraph shall describe the basis for, and scope of, appropriate consumer protection standards to be implemented under this title <sup>1</sup> with respect to the provision of services relating to any specified plan or arrangement.
 
 **(C) Description of products or services**
 
@@ -9509,7 +9509,7 @@ For purposes of this subsection, the term “specified plan or arrangement” me
 
 **(1) In general**
 
-No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of any securities commission (or any agency or office performing like functions) of any State to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by any securities commission (or any agency or office performing like functions) of any State. Except as permitted in paragraph (2) and subsection (f), the Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> with respect to a person regulated by any securities commission (or any agency or office performing like functions) of any State, but only to the extent that the person acts in such regulated capacity.
+No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of any securities commission (or any agency or office performing like functions) of any State to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by any securities commission (or any agency or office performing like functions) of any State. Except as permitted in paragraph (2) and subsection (f), the Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> with respect to a person regulated by any securities commission (or any agency or office performing like functions) of any State, but only to the extent that the person acts in such regulated capacity.
 
 **(2) Description of activities**
 
@@ -9519,27 +9519,27 @@ Paragraph (1) shall not apply to any person to the extent such person is engaged
 
 **(1) In general**
 
-No provision of this title <sup>1</sup> may be construed as altering, amending, or affecting the authority of the Commission to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by the Commission. The Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> with respect to a person regulated by the Commission.
+No provision of this title <sup>1</sup> may be construed as altering, amending, or affecting the authority of the Commission to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by the Commission. The Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> with respect to a person regulated by the Commission.
 
 **(2) Consultation and coordination**
 
-Notwithstanding paragraph (1), the Commission shall consult and coordinate, where feasible, with the Bureau with respect to any rule (including any advance notice of proposed rulemaking) regarding an investment product or service that is the same type of product as, or that competes directly with, a consumer financial product or service that is subject to the jurisdiction of the Bureau under this title <sup>1</sup> or under any other law. In carrying out this paragraph, the agencies shall negotiate an agreement to establish procedures for such coordination, including procedures for providing advance notice to the Bureau when the Commission is initiating a rulemaking.
+Notwithstanding paragraph (1), the Commission shall consult and coordinate, where feasible, with the Bureau with respect to any rule (including any advance notice of proposed rulemaking) regarding an investment product or service that is the same type of product as, or that competes directly with, a consumer financial product or service that is subject to the jurisdiction of the Bureau under this title <sup>1</sup> or under any other law. In carrying out this paragraph, the agencies shall negotiate an agreement to establish procedures for such coordination, including procedures for providing advance notice to the Bureau when the Commission is initiating a rulemaking.
 
 **(j) Exclusion for persons regulated by the Commodity Futures Trading Commission**
 
 **(1) In general**
 
-No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of the Commodity Futures Trading Commission to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by the Commodity Futures Trading Commission. The Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> with respect to a person regulated by the Commodity Futures Trading Commission.
+No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of the Commodity Futures Trading Commission to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by the Commodity Futures Trading Commission. The Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> with respect to a person regulated by the Commodity Futures Trading Commission.
 
 **(2) Consultation and coordination**
 
-Notwithstanding paragraph (1), the Commodity Futures Trading Commission shall consult and coordinate with the Bureau with respect to any rule (including any advance notice of proposed rulemaking) regarding a product or service that is the same type of product as, or that competes directly with, a consumer financial product or service that is subject to the jurisdiction of the Bureau under this title <sup>1</sup> or under any other law.
+Notwithstanding paragraph (1), the Commodity Futures Trading Commission shall consult and coordinate with the Bureau with respect to any rule (including any advance notice of proposed rulemaking) regarding a product or service that is the same type of product as, or that competes directly with, a consumer financial product or service that is subject to the jurisdiction of the Bureau under this title <sup>1</sup> or under any other law.
 
 **(k) Exclusion for persons regulated by the Farm Credit Administration**
 
 **(1) In general**
 
-No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of the Farm Credit Administration to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by the Farm Credit Administration. The Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> with respect to a person regulated by the Farm Credit Administration.
+No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of the Farm Credit Administration to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by the Farm Credit Administration. The Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> with respect to a person regulated by the Farm Credit Administration.
 
 **(2) Definition**
 
@@ -9567,7 +9567,7 @@ The Bureau may not define as a financial product or service, by regulation or ot
 
 **(o) No authority to impose usury limit**
 
-No provision of this title <sup>1</sup> shall be construed as conferring authority on the Bureau to establish a usury limit applicable to an extension of credit offered or made by a covered person to a consumer, unless explicitly authorized by law.
+No provision of this title <sup>1</sup> shall be construed as conferring authority on the Bureau to establish a usury limit applicable to an extension of credit offered or made by a covered person to a consumer, unless explicitly authorized by law.
 
 **(p) Attorney General**
 
@@ -9575,17 +9575,17 @@ No provision of this title,<sup>1</sup> including section 5514(c)(1) of this tit
 
 **(q) Secretary of the Treasury**
 
-No provision of this title <sup>1</sup> shall affect the authorities of the Secretary, including with respect to prescribing rules, initiating enforcement proceedings, or taking other actions with respect to a person that performs income tax preparation activities for consumers.
+No provision of this title <sup>1</sup> shall affect the authorities of the Secretary, including with respect to prescribing rules, initiating enforcement proceedings, or taking other actions with respect to a person that performs income tax preparation activities for consumers.
 
 **(r) Deposit insurance and share insurance**
 
-Nothing in this title <sup>1</sup> shall affect the authority of the Corporation under the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.] or the National Credit Union Administration Board under the Federal Credit Union Act [12 U.S.C. 1751 et seq.] as to matters related to deposit insurance and share insurance, respectively.
+Nothing in this title <sup>1</sup> shall affect the authority of the Corporation under the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.] or the National Credit Union Administration Board under the Federal Credit Union Act [12 U.S.C. 1751 et seq.] as to matters related to deposit insurance and share insurance, respectively.
 
 **(s) Fair Housing Act**
 
-No provision of this title <sup>1</sup> shall be construed as affecting any authority arising under the Fair Housing Act [42 U.S.C. 3601 et seq.].
+No provision of this title <sup>1</sup> shall be construed as affecting any authority arising under the Fair Housing Act [42 U.S.C. 3601 et seq.].
 
-(Pub. L. 111–203, title X, § 1027, July 21, 2010, 124 Stat. 1995; Pub. L. 113–295, div. B, title I, § 102(e)(7), Dec. 19, 2014, 128 Stat. 4062.)
+(Pub. L. 111–203, title X, § 1027, July 21, 2010, 124 Stat. 1995; Pub. L. 113–295, div. B, title I, § 102(e)(7), Dec. 19, 2014, 128 Stat. 4062.)
 
 **Editorial Notes**
 
@@ -9593,25 +9593,25 @@ No provision of this title <sup>1</sup> shall be construed as affecting any au
 
 This title, where footnoted in text, is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Subtitle F, referred to in text, is subtitle F (§§ 1061–1067) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2035, which is classified generally to part F (§ 5581 et seq.) of this subchapter. For complete classification of subtitle F to the Code, see Tables.
+Subtitle F, referred to in text, is subtitle F (§§ 1061–1067) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2035, which is classified generally to part F (§ 5581 et seq.) of this subchapter. For complete classification of subtitle F to the Code, see Tables.
 
-Subtitle H, referred to text, is subtitle H (§§ 1081–1100H) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2080. For complete classification of subtitle H to the Code, see Tables.
+Subtitle H, referred to text, is subtitle H (§§ 1081–1100H) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2080. For complete classification of subtitle H to the Code, see Tables.
 
-The Small Business Act, referred to in subsec. (a)(2)(D)(iv), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (a)(2)(D)(iv), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (g)(4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (g)(4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (k)(2), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§ 2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (k)(2), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§ 2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 
-The Federal Deposit Insurance Act, referred to in subsec. (r), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (r), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
-The Federal Credit Union Act, referred to in subsec. (r), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+The Federal Credit Union Act, referred to in subsec. (r), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
-The Fair Housing Act, referred to in subsec. (s), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in subsec. (s), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 **Amendments**
 
-2014—Subsec. (g)(4). Pub. L. 113–295 inserted “, 529A” after “529”.
+2014—Subsec. (g)(4). Pub. L. 113–295 inserted “, 529A” after “529”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9623,7 +9623,7 @@ Amendment by Pub. L. 113–295 applicable to taxable years beginning after Dec. 
 
 Section effective on the designated transfer date, see section 1029A of Pub. L. 111–203, set out as a note under section 5511 of this title.
 
-#### § 5518. Authority to restrict mandatory pre-dispute arbitration
+#### § 5518. Authority to restrict mandatory pre-dispute arbitration
 
 **(a) Study and report**
 
@@ -9641,7 +9641,7 @@ The authority described in subsection (b) may not be construed to prohibit or re
 
 Notwithstanding any other provision of law, any regulation prescribed by the Bureau under subsection (b) shall apply, consistent with the terms of the regulation, to any agreement between a consumer and a covered person entered into after the end of the 180-day period beginning on the effective date of the regulation, as established by the Bureau.
 
-(Pub. L. 111–203, title X, § 1028, July 21, 2010, 124 Stat. 2003.)
+(Pub. L. 111–203, title X, § 1028, July 21, 2010, 124 Stat. 2003.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9649,7 +9649,7 @@ Notwithstanding any other provision of law, any regulation prescribed by the Bur
 
 Section effective on the designated transfer date, see section 1029A of Pub. L. 111–203, set out as a note under section 5511 of this title.
 
-#### § 5519. Exclusion for auto dealers
+#### § 5519. Exclusion for auto dealers
 
 **(a) Sale, servicing, and leasing of motor vehicles excluded**
 
@@ -9675,7 +9675,7 @@ Except as permitted in subsection (b), the Bureau may not exercise any rulemakin
 
 Except as provided in subsections (b) and (d), nothing in this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 including subtitle F, shall be construed as modifying, limiting, or superseding the operation of any provision of Federal law, or otherwise affecting the authority of the Board of Governors, the Federal Trade Commission, or any other Federal agency, with respect to a person described in subsection (a).
 
@@ -9683,7 +9683,7 @@ including subtitle F, shall be construed as modifying, limiting, or superseding 
 
 Notwithstanding section 57a of title 15, the Federal Trade Commission is authorized to prescribe rules under sections 45 and 57a(a)(1)(B) of title 15.2
 
-<sup>2</sup>  So in original. The period probably should be a comma.
+<sup>2</sup> So in original. The period probably should be a comma.
 
 in accordance with section 553 of title 5, with respect to a person described in subsection (a).
 
@@ -9703,7 +9703,7 @@ in accordance with section 553 of title 5, with respect to a person described in
 
 **(C)** motorcycles;
 
-**(D)** motor homes, recreational vehicle trailers, and slide-in campers, as those terms are defined in sections 571.3 and 575.103 (d) of title 49, Code of Federal Regulations, or any successor thereto; and
+**(D)** motor homes, recreational vehicle trailers, and slide-in campers, as those terms are defined in sections 571.3 and 575.103 (d) of title 49, Code of Federal Regulations, or any successor thereto; and
 
 **(E)** other vehicles that are titled and sold through dealers.
 
@@ -9713,7 +9713,7 @@ in accordance with section 553 of title 5, with respect to a person described in
 
 **(B)** takes title to, holds an ownership in, or takes physical custody of motor vehicles.
 
-(Pub. L. 111–203, title X, § 1029, July 21, 2010, 124 Stat. 2004.)
+(Pub. L. 111–203, title X, § 1029, July 21, 2010, 124 Stat. 2004.)
 
 **Editorial Notes**
 
@@ -9721,7 +9721,7 @@ in accordance with section 553 of title 5, with respect to a person described in
 
 This title, referred to in subsec. (c), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Subtitle F, referred to in subsec. (c), is subtitle F (§§ 1061–1067) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2035, which is classified generally to part F (§ 5581 et seq.) of this subchapter. For complete classification of subtitle F to the Code, see Tables.
+Subtitle F, referred to in subsec. (c), is subtitle F (§§ 1061–1067) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2035, which is classified generally to part F (§ 5581 et seq.) of this subchapter. For complete classification of subtitle F to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9731,7 +9731,7 @@ Section effective on the designated transfer date, see section 1029A of Pub. L. 
 
 ### Part C—Specific Bureau Authorities
 
-#### § 5531. Prohibiting unfair, deceptive, or abusive acts or practices
+#### § 5531. Prohibiting unfair, deceptive, or abusive acts or practices
 
 **(a) In general**
 
@@ -9773,17 +9773,17 @@ In prescribing rules under this section, the Bureau shall consult with the Feder
 
 The rules of the Bureau under this section shall provide, with respect to an extension of credit secured by residential real estate or a dwelling, if documented income of the borrower, including income from a small business, is a repayment source for an extension of credit secured by residential real estate or a dwelling, the creditor may consider the seasonality and irregularity of such income in the underwriting of and scheduling of payments for such credit.
 
-(Pub. L. 111–203, title X, § 1031, July 21, 2010, 124 Stat. 2005.)
+(Pub. L. 111–203, title X, § 1031, July 21, 2010, 124 Stat. 2005.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 111–203, title X, § 1037, July 21, 2010, 124 Stat. 2011, provided that: “This subtitle [subtitle C (§§ 1031–1037), enacting this part] shall take effect on the designated transfer date.”
+Pub. L. 111–203, title X, § 1037, July 21, 2010, 124 Stat. 2011, provided that: “This subtitle [subtitle C (§§ 1031–1037), enacting this part] shall take effect on the designated transfer date.”
 
 [The term “designated transfer date” is defined in section 5481(9) of this title as the date established under section 5582 of this title.]
 
-#### § 5532. Disclosures
+#### § 5532. Disclosures
 
 **(a) In general**
 
@@ -9833,13 +9833,13 @@ The rules of the Bureau shall provide for public disclosure of trial disclosure 
 
 Not later than 1 year after the designated transfer date, the Bureau shall propose for public comment rules and model disclosures that combine the disclosures required under the Truth in Lending Act [15 U.S.C. 1601 et seq.] and sections 2603 and 2604 of this title, into a single, integrated disclosure for mortgage loan transactions covered by those laws, unless the Bureau determines that any proposal issued by the Board of Governors and the Secretary of Housing and Urban Development carries out the same purpose.
 
-(Pub. L. 111–203, title X, § 1032, July 21, 2010, 124 Stat. 2006.)
+(Pub. L. 111–203, title X, § 1032, July 21, 2010, 124 Stat. 2006.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Truth in Lending Act, referred to in subsec. (f), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec. (f), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9847,7 +9847,7 @@ The Truth in Lending Act, referred to in subsec. (f), is title I of Pub. L. 90�
 
 Section effective on the designated transfer date, see section 1037 of Pub. L. 111–203, set out as a note under section 5531 of this title.
 
-#### § 5533. Consumer rights to access information
+#### § 5533. Consumer rights to access information
 
 **(a) In general**
 
@@ -9879,7 +9879,7 @@ The Bureau, by rule, shall prescribe standards applicable to covered persons to 
 
 **(3)** do not require or promote the use of any particular technology in order to develop systems for compliance.
 
-(Pub. L. 111–203, title X, § 1033, July 21, 2010, 124 Stat. 2008.)
+(Pub. L. 111–203, title X, § 1033, July 21, 2010, 124 Stat. 2008.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9887,7 +9887,7 @@ The Bureau, by rule, shall prescribe standards applicable to covered persons to 
 
 Section effective on the designated transfer date, see section 1037 of Pub. L. 111–203, set out as a note under section 5531 of this title.
 
-#### § 5534. Response to consumer complaints and inquiries
+#### § 5534. Response to consumer complaints and inquiries
 
 **(a) Timely regulator response to consumers** The Bureau shall establish, in consultation with the appropriate Federal regulatory agencies, reasonable procedures to provide a timely response to consumers, in writing where appropriate, to complaints against, or inquiries concerning, a covered person, including—
 
@@ -9925,7 +9925,7 @@ A covered person subject to supervision and primary enforcement by the Bureau pu
 
 The Bureau shall enter into a memorandum of understanding with any affected Federal regulatory agency regarding procedures by which any covered person, and the prudential regulators, and any other agency having jurisdiction over a covered person, including the Secretary of the Department of Housing and Urban Development and the Secretary of Education, shall comply with this section.
 
-(Pub. L. 111–203, title X, § 1034, July 21, 2010, 124 Stat. 2008.)
+(Pub. L. 111–203, title X, § 1034, July 21, 2010, 124 Stat. 2008.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9933,7 +9933,7 @@ The Bureau shall enter into a memorandum of understanding with any affected Fede
 
 Section effective on the designated transfer date, see section 1037 of Pub. L. 111–203, set out as a note under section 5531 of this title.
 
-#### § 5535. Private Education Loan Ombudsman
+#### § 5535. Private Education Loan Ombudsman
 
 **(a) Establishment**
 
@@ -9967,7 +9967,7 @@ The report required by paragraph (1) shall be submitted on the same date annuall
 
 For purposes of this section, the terms “private education loan” and “institution of higher education” have the same meanings as in section 1650 of title 15.
 
-(Pub. L. 111–203, title X, § 1035, July 21, 2010, 124 Stat. 2009.)
+(Pub. L. 111–203, title X, § 1035, July 21, 2010, 124 Stat. 2009.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9979,7 +9979,7 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 Section effective on the designated transfer date, see section 1037 of Pub. L. 111–203, set out as a note under section 5531 of this title.
 
-#### § 5536. Prohibited acts
+#### § 5536. Prohibited acts
 
 **(a) In general** It shall be unlawful for—
 
@@ -9999,7 +9999,7 @@ Section effective on the designated transfer date, see section 1037 of Pub. L. 1
 
 **(3)** any person to knowingly or recklessly provide substantial assistance to a covered person or service provider in violation of the provisions of section 5531 of this title, or any rule or order issued thereunder, and notwithstanding any provision of this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the provider of such substantial assistance shall be deemed to be in violation of that section to the same extent as the person to whom such assistance is provided.
 
@@ -10007,7 +10007,7 @@ the provider of such substantial assistance shall be deemed to be in violation o
 
 No person shall be held to have violated subsection (a)(1) solely by virtue of providing or selling time or space to a covered person or service provider placing an advertisement.
 
-(Pub. L. 111–203, title X, § 1036, July 21, 2010, 124 Stat. 2010.)
+(Pub. L. 111–203, title X, § 1036, July 21, 2010, 124 Stat. 2010.)
 
 **Editorial Notes**
 
@@ -10021,7 +10021,7 @@ This title, where footnoted in subsec. (a)(3), is title X of Pub. L. 111–203, 
 
 Section effective on the designated transfer date, see section 1037 of Pub. L. 111–203, set out as a note under section 5531 of this title.
 
-#### § 5537. Senior investor protections
+#### § 5537. Senior investor protections
 
 **(a) Definitions** As used in this section—
 
@@ -10135,7 +10135,7 @@ A State or eligible entity that receives a grant under this section may reapply 
 
 There are authorized to be appropriated to carry out this section, $8,000,000 for each of fiscal years 2011 through 2015.
 
-(Pub. L. 111–203, title IX, § 989A, July 21, 2010, 124 Stat. 1941.)
+(Pub. L. 111–203, title IX, § 989A, July 21, 2010, 124 Stat. 1941.)
 
 **Editorial Notes**
 
@@ -10149,7 +10149,7 @@ Section was not enacted as part of subtitle C of title X of Pub. L. 111–203, w
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-#### § 5538. Mortgage loans; rulemaking procedures; enforcement
+#### § 5538. Mortgage loans; rulemaking procedures; enforcement
 
 **(a)**
 
@@ -10171,13 +10171,13 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 **(D)** to obtain penalties and relief provided under the Consumer Financial Protection Act of 2010, the Federal Trade Commission Act [15 U.S.C. 41 et seq.], and such other relief as the court deems appropriate.
 
-**(2)** The State shall serve written notice to the Bureau of Consumer Financial Protection or the Commission, as appropriate 1
+**(2)** The State shall serve written notice to the Bureau of Consumer Financial Protection or the Commission, as appropriate 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 of any civil action under paragraph (1) at least 60 days prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action, except that if it is not feasible for the State to provide such prior notice, the State shall provide notice immediately upon instituting such civil action.
 
-**(3)** Upon receiving the notice required by paragraph (2), and subject to subtitle B of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5511 et seq.], the Bureau of Consumer Financial Protection or the Commission, as appropriate <sup>1</sup> may intervene in such civil action and upon intervening—
+**(3)** Upon receiving the notice required by paragraph (2), and subject to subtitle B of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5511 et seq.], the Bureau of Consumer Financial Protection or the Commission, as appropriate <sup>1</sup> may intervene in such civil action and upon intervening—
 
 **(A)** be heard on all matters arising in such civil action;
 
@@ -10197,15 +10197,15 @@ of any civil action under paragraph (1) at least 60 days prior to initiating suc
 
 **(7)** If the attorney general of a State prevails in any civil action under paragraph (1), the State can recover reasonable costs and attorney fees from the lender or related party.
 
-(Pub. L. 111–8, div. D, title VI, § 626(a), (b), Mar. 11, 2009, 123 Stat. 678; Pub. L. 111–24, title V, § 511(a), May 22, 2009, 123 Stat. 1763; Pub. L. 111–203, title X, § 1097, July 21, 2010, 124 Stat. 2102.)
+(Pub. L. 111–8, div. D, title VI, § 626(a), (b), Mar. 11, 2009, 123 Stat. 678; Pub. L. 111–24, title V, § 511(a), May 22, 2009, 123 Stat. 1763; Pub. L. 111–203, title X, § 1097, July 21, 2010, 124 Stat. 2102.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (b)(1)(D), (3), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. Subtitle B of title X is classified generally to part B (§ 5511 et seq.) of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (b)(1)(D), (3), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. Subtitle B of title X is classified generally to part B (§ 5511 et seq.) of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Federal Trade Commission Act, referred to in subsecs. (a)(3) and (b)(1)(D), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a)(3) and (b)(1)(D), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 **Codification**
 
@@ -10215,7 +10215,7 @@ Section was formerly set out as a note under section 1638 of Title 15, Commerce 
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 1097(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
+2010—Subsec. (a). Pub. L. 111–203, § 1097(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
 
 “(a)(1) Within 90 days after March 11, 2009, the Federal Trade Commission shall initiate a rulemaking proceeding with respect to mortgage loans in accordance with section 553 of title 5. Such rulemaking shall relate to unfair or deceptive acts or practices regarding mortgage loans, which may include unfair or deceptive acts or practices involving loan modification and foreclosure rescue services. Any violation of a rule prescribed under this subsection shall be treated as a violation of a rule under section 18 of the Federal Trade Commission Act (15 U.S.C. 57a) regarding unfair or deceptive acts or practices.
 
@@ -10225,7 +10225,7 @@ Section was formerly set out as a note under section 1638 of Title 15, Commerce 
 
 “(4) The Federal Trade Commission shall enforce the rules issued under paragraph (1) in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made part of this section.”
 
-Subsec. (b)(1). Pub. L. 111–203, § 1097(2)(A), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (6), in any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person subject to a rule prescribed under subsection (a) in a practice that violates such rule, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in an appropriate district court of the United States or other court of competent jurisdiction—
+Subsec. (b)(1). Pub. L. 111–203, § 1097(2)(A), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (6), in any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person subject to a rule prescribed under subsection (a) in a practice that violates such rule, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in an appropriate district court of the United States or other court of competent jurisdiction—
 
 “(A) to enjoin that practice;
 
@@ -10235,17 +10235,17 @@ Subsec. (b)(1). Pub. L. 111–203, § 1097(2)(A), added par. (1) and struck ou
 
 “(D) to obtain penalties and relief provided by the Federal Trade Commission Act and such other relief as the court considers appropriate.”
 
-Subsec. (b)(2). Pub. L. 111–203, § 1097(2)(B), substituted “the Bureau of Consumer Financial Protection or the Commission, as appropriate” for “the primary Federal regulator”.
+Subsec. (b)(2). Pub. L. 111–203, § 1097(2)(B), substituted “the Bureau of Consumer Financial Protection or the Commission, as appropriate” for “the primary Federal regulator”.
 
-Subsec. (b)(3). Pub. L. 111–203, § 1097(2)(B), (C), inserted “and subject to subtitle B of the Consumer Financial Protection Act of 2010,” after “paragraph (2),” and substituted “the Bureau of Consumer Financial Protection or the Commission, as appropriate” for “the primary Federal regulator”.
+Subsec. (b)(3). Pub. L. 111–203, § 1097(2)(B), (C), inserted “and subject to subtitle B of the Consumer Financial Protection Act of 2010,” after “paragraph (2),” and substituted “the Bureau of Consumer Financial Protection or the Commission, as appropriate” for “the primary Federal regulator”.
 
-Subsec. (b)(6). Pub. L. 111–203, § 1097(2)(D), substituted “the Bureau of Consumer Financial Protection or the Commission” for “the primary Federal regulator” in two places.
+Subsec. (b)(6). Pub. L. 111–203, § 1097(2)(D), substituted “the Bureau of Consumer Financial Protection or the Commission” for “the primary Federal regulator” in two places.
 
-2009—Subsec. (a). Pub. L. 111–24, § 511(a), designated existing provisions as par. (1), inserted “Such rulemaking shall relate to unfair or deceptive acts or practices regarding mortgage loans, which may include unfair or deceptive acts or practices involving loan modification and foreclosure rescue services.”, and added pars. (2) to (4).
+2009—Subsec. (a). Pub. L. 111–24, § 511(a), designated existing provisions as par. (1), inserted “Such rulemaking shall relate to unfair or deceptive acts or practices regarding mortgage loans, which may include unfair or deceptive acts or practices involving loan modification and foreclosure rescue services.”, and added pars. (2) to (4).
 
-Subsec. (b)(1). Pub. L. 111–24, § 511(a)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (6), a State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate State or district court of the United States to enforce the provisions of section 128 of the Truth in Lending Act (15 U.S.C. 1638), any other provision of the Truth in Lending Act, or any mortgage loan rule promulgated by the Federal Trade Commission to obtain penalties and relief provided under such Act or rule whenever the attorney general of the State has reason to believe that the interests of the residents of the State have been or are being threatened or adversely affected by a violation of such Act or rule.”
+Subsec. (b)(1). Pub. L. 111–24, § 511(a)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (6), a State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate State or district court of the United States to enforce the provisions of section 128 of the Truth in Lending Act (15 U.S.C. 1638), any other provision of the Truth in Lending Act, or any mortgage loan rule promulgated by the Federal Trade Commission to obtain penalties and relief provided under such Act or rule whenever the attorney general of the State has reason to believe that the interests of the residents of the State have been or are being threatened or adversely affected by a violation of such Act or rule.”
 
-Subsec. (b)(2), (3), (6). Pub. L. 111–24, § 511(a)(2)(B), substituted “primary Federal regulator” for “Commission” wherever appearing.
+Subsec. (b)(2), (3), (6). Pub. L. 111–24, § 511(a)(2)(B), substituted “primary Federal regulator” for “Commission” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10255,11 +10255,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–24, title V, § 511(b), May 22, 2009, 123 Stat. 1764, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on March 12, 2009.”
+Pub. L. 111–24, title V, § 511(b), May 22, 2009, 123 Stat. 1764, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on March 12, 2009.”
 
 ### Part D—Preservation of State Law
 
-#### § 5551. Relation to State law
+#### § 5551. Relation to State law
 
 **(a) In general**
 
@@ -10267,13 +10267,13 @@ Pub. L. 111–24, title V, § 511(b), May 22, 2009, 123 Stat. 1764, provided t
 
 This title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-other than sections 1044 through 1048,1 may not be construed as annulling, altering, or affecting, or exempting any person subject to the provisions of this title 1 from complying with, the statutes, regulations, orders, or interpretations in effect in any State, except to the extent that any such provision of law is inconsistent with the provisions of this title,1 and then only to the extent of the inconsistency.
+other than sections 1044 through 1048,1 may not be construed as annulling, altering, or affecting, or exempting any person subject to the provisions of this title 1 from complying with, the statutes, regulations, orders, or interpretations in effect in any State, except to the extent that any such provision of law is inconsistent with the provisions of this title,1 and then only to the extent of the inconsistency.
 
 **(2) Greater protection under State law**
 
-For purposes of this subsection, a statute, regulation, order, or interpretation in effect in any State is not inconsistent with the provisions of this title <sup>1</sup> if the protection that such statute, regulation, order, or interpretation affords to consumers is greater than the protection provided under this title.<sup>1</sup> A determination regarding whether a statute, regulation, order, or interpretation in effect in any State is inconsistent with the provisions of this title <sup>1</sup> may be made by the Bureau on its own motion or in response to a nonfrivolous petition initiated by any interested person.
+For purposes of this subsection, a statute, regulation, order, or interpretation in effect in any State is not inconsistent with the provisions of this title <sup>1</sup> if the protection that such statute, regulation, order, or interpretation affords to consumers is greater than the protection provided under this title.<sup>1</sup> A determination regarding whether a statute, regulation, order, or interpretation in effect in any State is inconsistent with the provisions of this title <sup>1</sup> may be made by the Bureau on its own motion or in response to a nonfrivolous petition initiated by any interested person.
 
 **(b) Relation to other provisions of enumerated consumer laws that relate to State law**
 
@@ -10301,7 +10301,7 @@ The Bureau shall issue a notice of proposed rulemaking whenever a majority of th
 
 **(4) Reservation of authority**
 
-No provision of this subsection shall be construed as limiting or restricting the authority of the Bureau to enhance consumer protection standards established pursuant to this title <sup>1</sup> in response to its own motion or in response to a request by any other interested person.
+No provision of this subsection shall be construed as limiting or restricting the authority of the Bureau to enhance consumer protection standards established pursuant to this title <sup>1</sup> in response to its own motion or in response to a request by any other interested person.
 
 **(5) Rule of construction**
 
@@ -10311,7 +10311,7 @@ No provision of this subsection shall be construed as exempting the Bureau from 
 
 For purposes of this subsection, the term “consumer protection regulation” means a regulation that the Bureau is authorized to prescribe under the Federal consumer financial laws.
 
-(Pub. L. 111–203, title X, § 1041, July 21, 2010, 124 Stat. 2011.)
+(Pub. L. 111–203, title X, § 1041, July 21, 2010, 124 Stat. 2011.)
 
 **Editorial Notes**
 
@@ -10327,21 +10327,21 @@ Section 1083, referred to in subsec. (b), is section 1083 of Pub. L. 111–203, 
 
 **Effective Date**
 
-Pub. L. 111–203, title X, § 1048, July 21, 2010, 124 Stat. 2018, provided that: “This subtitle [subtitle D (§§ 1041–1048) of title X of Pub. L. 111–203, enacting this part and enacting and amending sections 25b and 1465 of this title] shall become effective on the designated transfer date.”
+Pub. L. 111–203, title X, § 1048, July 21, 2010, 124 Stat. 2018, provided that: “This subtitle [subtitle D (§§ 1041–1048) of title X of Pub. L. 111–203, enacting this part and enacting and amending sections 25b and 1465 of this title] shall become effective on the designated transfer date.”
 
 [The term “designated transfer date” is defined in section 5481(9) of this title as the date established under section 5582 of this title.]
 
-#### § 5552. Preservation of enforcement powers of States
+#### § 5552. Preservation of enforcement powers of States
 
 **(a) In general**
 
 **(1) Action by State**
 
-Except as provided in paragraph (2), the attorney general (or the equivalent thereof) of any State may bring a civil action in the name of such State in any district court of the United States in that State or in State court that is located in that State and that has jurisdiction over the defendant, to enforce provisions of this title 1
+Except as provided in paragraph (2), the attorney general (or the equivalent thereof) of any State may bring a civil action in the name of such State in any district court of the United States in that State or in State court that is located in that State and that has jurisdiction over the defendant, to enforce provisions of this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-or regulations issued under this title,1 and to secure remedies under provisions of this title 1 or remedies otherwise provided under other law. A State regulator may bring a civil action or other appropriate proceeding to enforce the provisions of this title 1 or regulations issued under this title 1 with respect to any entity that is State-chartered, incorporated, licensed, or otherwise authorized to do business under State law (except as provided in paragraph (2)), and to secure remedies under provisions of this title 1 or remedies otherwise provided under other provisions of law with respect to such an entity.
+or regulations issued under this title,1 and to secure remedies under provisions of this title 1 or remedies otherwise provided under other law. A State regulator may bring a civil action or other appropriate proceeding to enforce the provisions of this title 1 or regulations issued under this title 1 with respect to any entity that is State-chartered, incorporated, licensed, or otherwise authorized to do business under State law (except as provided in paragraph (2)), and to secure remedies under provisions of this title 1 or remedies otherwise provided under other provisions of law with respect to such an entity.
 
 **(2) Action by State against national bank or Federal savings association to enforce rules**
 
@@ -10351,11 +10351,11 @@ Except as permitted under subparagraph (B), the attorney general (or equivalent 
 
 **(B) Enforcement of rules permitted**
 
-The attorney general (or the equivalent thereof) of any State may bring a civil action in the name of such State against a national bank or Federal savings association in any district court of the United States in the State or in State court that is located in that State and that has jurisdiction over the defendant to enforce a regulation prescribed by the Bureau under a provision of this title <sup>1</sup> and to secure remedies under provisions of this title <sup>1</sup> or remedies otherwise provided under other law.
+The attorney general (or the equivalent thereof) of any State may bring a civil action in the name of such State against a national bank or Federal savings association in any district court of the United States in the State or in State court that is located in that State and that has jurisdiction over the defendant to enforce a regulation prescribed by the Bureau under a provision of this title <sup>1</sup> and to secure remedies under provisions of this title <sup>1</sup> or remedies otherwise provided under other law.
 
 **(3) Rule of construction**
 
-No provision of this title <sup>1</sup> shall be construed as modifying, limiting, or superseding the operation of any provision of an enumerated consumer law that relates to the authority of a State attorney general or State regulator to enforce such Federal law.
+No provision of this title <sup>1</sup> shall be construed as modifying, limiting, or superseding the operation of any provision of an enumerated consumer law that relates to the authority of a State attorney general or State regulator to enforce such Federal law.
 
 **(b) Consultation required**
 
@@ -10401,13 +10401,13 @@ No provision of this section shall be construed as altering, limiting, or affect
 
 **(2) State securities regulators**
 
-No provision of this title <sup>1</sup> shall be construed as altering, limiting, or affecting the authority of a State securities commission (or any agency or office performing like functions) under State law to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by such commission or authority.
+No provision of this title <sup>1</sup> shall be construed as altering, limiting, or affecting the authority of a State securities commission (or any agency or office performing like functions) under State law to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by such commission or authority.
 
 **(3) State insurance regulators**
 
-No provision of this title <sup>1</sup> shall be construed as altering, limiting, or affecting the authority of a State insurance commission or State insurance regulator under State law to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by such commission or regulator.
+No provision of this title <sup>1</sup> shall be construed as altering, limiting, or affecting the authority of a State insurance commission or State insurance regulator under State law to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by such commission or regulator.
 
-(Pub. L. 111–203, title X, § 1042, July 21, 2010, 124 Stat. 2012.)
+(Pub. L. 111–203, title X, § 1042, July 21, 2010, 124 Stat. 2012.)
 
 **Editorial Notes**
 
@@ -10421,15 +10421,15 @@ This title, referred to in subsecs. (a), (b)(1)(A), and (d)(2), (3), is title X 
 
 Section effective on the designated transfer date, see section 1048 of Pub. L. 111–203, set out as a note under section 5551 of this title.
 
-#### § 5553. Preservation of existing contracts
+#### § 5553. Preservation of existing contracts
 
 This title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and regulations, orders, guidance, and interpretations prescribed, issued, or established by the Bureau, shall not be construed to alter or affect the applicability of any regulation, order, guidance, or interpretation prescribed, issued, and established by the Comptroller of the Currency or the Director of the Office of Thrift Supervision regarding the applicability of State law under Federal banking law to any contract entered into on or before July 21, 2010, by national banks, Federal savings associations, or subsidiaries thereof that are regulated and supervised by the Comptroller of the Currency or the Director of the Office of Thrift Supervision, respectively.
 
-(Pub. L. 111–203, title X, § 1043, July 21, 2010, 124 Stat. 2014.)
+(Pub. L. 111–203, title X, § 1043, July 21, 2010, 124 Stat. 2014.)
 
 **Editorial Notes**
 
@@ -10445,7 +10445,7 @@ Section effective on the designated transfer date, see section 1048 of Pub. L. 1
 
 ### Part E—Enforcement Powers
 
-#### § 5561. Definitions
+#### § 5561. Definitions
 
 For purposes of this part, the following definitions shall apply:
 
@@ -10469,17 +10469,17 @@ The term “documentary material” includes the original or any copy of any boo
 
 The term “violation” means any act or omission that, if proved, would constitute a violation of any provision of Federal consumer financial law.
 
-(Pub. L. 111–203, title X, § 1051, July 21, 2010, 124 Stat. 2018.)
+(Pub. L. 111–203, title X, § 1051, July 21, 2010, 124 Stat. 2018.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 111–203, title X, § 1058, July 21, 2010, 124 Stat. 2035, provided that: “This subtitle [subtitle E (§§ 1051–1058), enacting this part] shall become effective on the designated transfer date.”
+Pub. L. 111–203, title X, § 1058, July 21, 2010, 124 Stat. 2035, provided that: “This subtitle [subtitle E (§§ 1051–1058), enacting this part] shall become effective on the designated transfer date.”
 
 [The term “designated transfer date” is defined in section 5481(9) of this title as the date established under section 5582 of this title.]
 
-#### § 5562. Investigations and administrative discovery
+#### § 5562. Investigations and administrative discovery
 
 **(a) Joint investigations**
 
@@ -10487,7 +10487,7 @@ Pub. L. 111–203, title X, § 1058, July 21, 2010, 124 Stat. 2035, provided t
 
 The Bureau or, where appropriate, a Bureau investigator, may engage in joint investigations and requests for information, as authorized under this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2) Fair lending**
 
@@ -10711,7 +10711,7 @@ Whenever any petition is filed in any district court of the United States under 
 
 Any final order entered as described in paragraph (1) shall be subject to appeal pursuant to section 1291 of title 28.
 
-(Pub. L. 111–203, title X, § 1052, July 21, 2010, 124 Stat. 2019.)
+(Pub. L. 111–203, title X, § 1052, July 21, 2010, 124 Stat. 2019.)
 
 **Editorial Notes**
 
@@ -10725,15 +10725,15 @@ This title, referred to in subsecs. (a)(1) and (b)(1), is title X of Pub. L. 111
 
 Section effective on the designated transfer date, see section 1058 of Pub. L. 111–203, set out as a note under section 5561 of this title.
 
-#### § 5563. Hearings and adjudication proceedings
+#### § 5563. Hearings and adjudication proceedings
 
 **(a) In general** The Bureau is authorized to conduct hearings and adjudication proceedings with respect to any person in the manner prescribed by chapter 5 of title 5 in order to ensure or enforce compliance with—
 
 **(1)** the provisions of this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-including any rules prescribed by the Bureau under this title; 1 and
+including any rules prescribed by the Bureau under this title; 1 and
 
 **(2)** any other Federal law that the Bureau is authorized to enforce, including an enumerated consumer law, and any regulations or order prescribed thereunder, unless such Federal law specifically limits the Bureau from conducting a hearing or adjudication proceeding and only to the extent of such limitation.
 
@@ -10815,7 +10815,7 @@ Except as otherwise provided in this subsection, no court shall have jurisdictio
 
 The Bureau shall prescribe rules establishing such procedures as may be necessary to carry out this section.
 
-(Pub. L. 111–203, title X, § 1053, July 21, 2010, 124 Stat. 2025.)
+(Pub. L. 111–203, title X, § 1053, July 21, 2010, 124 Stat. 2025.)
 
 **Editorial Notes**
 
@@ -10829,7 +10829,7 @@ This title, referred to in subsec. (a)(1), is title X of Pub. L. 111–203, July
 
 Section effective on the designated transfer date, see section 1058 of Pub. L. 111–203, set out as a note under section 5561 of this title.
 
-#### § 5564. Litigation authority
+#### § 5564. Litigation authority
 
 **(a) In general**
 
@@ -10839,7 +10839,7 @@ If any person violates a Federal consumer financial law, the Bureau may, subject
 
 The Bureau may act in its own name and through its own attorneys in enforcing any provision of this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 rules thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Bureau is a party.
 
@@ -10873,19 +10873,19 @@ The Bureau may represent itself in its own name before the Supreme Court of the 
 
 **(f) Forum**
 
-Any civil action brought under this title <sup>1</sup> may be brought in a United States district court or in any court of competent jurisdiction of a state in a district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to enjoin such person and to require compliance with any Federal consumer financial law.
+Any civil action brought under this title <sup>1</sup> may be brought in a United States district court or in any court of competent jurisdiction of a state in a district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to enjoin such person and to require compliance with any Federal consumer financial law.
 
 **(g) Time for bringing action**
 
 **(1) In general**
 
-Except as otherwise permitted by law or equity, no action may be brought under this title <sup>1</sup> more than 3 years after the date of discovery of the violation to which an action relates.
+Except as otherwise permitted by law or equity, no action may be brought under this title <sup>1</sup> more than 3 years after the date of discovery of the violation to which an action relates.
 
 **(2) Limitations under other Federal laws**
 
 **(A) In general**
 
-An action arising under this title <sup>1</sup> does not include claims arising solely under enumerated consumer laws.
+An action arising under this title <sup>1</sup> does not include claims arising solely under enumerated consumer laws.
 
 **(B) Bureau authority**
 
@@ -10895,7 +10895,7 @@ In any action arising solely under an enumerated consumer law, the Bureau may co
 
 In any action arising solely under laws for which authorities were transferred under subtitles F and H, the Bureau may commence, defend, or intervene in the action in accordance with the requirements of that provision of law, as applicable.
 
-(Pub. L. 111–203, title X, § 1054, July 21, 2010, 124 Stat. 2028.)
+(Pub. L. 111–203, title X, § 1054, July 21, 2010, 124 Stat. 2028.)
 
 **Editorial Notes**
 
@@ -10903,9 +10903,9 @@ In any action arising solely under laws for which authorities were transferred u
 
 This title, referred to in subsecs. (b), (d)(2)(C), (f), and (g)(1), (2)(A), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Subtitle F, referred to in subsec. (g)(2)(C), is subtitle F (§§ 1061–1067) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2035, which is classified generally to part F (§ 5581 et seq.) of this subchapter. For complete classification of subtitle F to the Code, see Tables.
+Subtitle F, referred to in subsec. (g)(2)(C), is subtitle F (§§ 1061–1067) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2035, which is classified generally to part F (§ 5581 et seq.) of this subchapter. For complete classification of subtitle F to the Code, see Tables.
 
-Subtitle H, referred to in subsec. (g)(2)(C), is subtitle H (§§ 1081–1100H) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2080. For complete classification of subtitle H to the Code, see Tables.
+Subtitle H, referred to in subsec. (g)(2)(C), is subtitle H (§§ 1081–1100H) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2080. For complete classification of subtitle H to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10913,7 +10913,7 @@ Subtitle H, referred to in subsec. (g)(2)(C), is subtitle H (§§ 1081–1100H
 
 Section effective on the designated transfer date, see section 1058 of Pub. L. 111–203, set out as a note under section 5561 of this title.
 
-#### § 5565. Relief available
+#### § 5565. Relief available
 
 **(a) Administrative proceedings or court actions**
 
@@ -10989,7 +10989,7 @@ The Bureau may compromise, modify, or remit any penalty which may be assessed or
 
 **(B)** the appropriate court has ordered such assessment and entered judgment in favor of the Bureau.
 
-(Pub. L. 111–203, title X, § 1055, July 21, 2010, 124 Stat. 2029.)
+(Pub. L. 111–203, title X, § 1055, July 21, 2010, 124 Stat. 2029.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10997,11 +10997,11 @@ The Bureau may compromise, modify, or remit any penalty which may be assessed or
 
 Section effective on the designated transfer date, see section 1058 of Pub. L. 111–203, set out as a note under section 5561 of this title.
 
-#### § 5566. Referrals for criminal proceedings
+#### § 5566. Referrals for criminal proceedings
 
 If the Bureau obtains evidence that any person, domestic or foreign, has engaged in conduct that may constitute a violation of Federal criminal law, the Bureau shall transmit such evidence to the Attorney General of the United States, who may institute criminal proceedings under appropriate law. Nothing in this section affects any other authority of the Bureau to disclose information.
 
-(Pub. L. 111–203, title X, § 1056, July 21, 2010, 124 Stat. 2031.)
+(Pub. L. 111–203, title X, § 1056, July 21, 2010, 124 Stat. 2031.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11009,17 +11009,17 @@ If the Bureau obtains evidence that any person, domestic or foreign, has engaged
 
 Section effective on the designated transfer date, see section 1058 of Pub. L. 111–203, set out as a note under section 5561 of this title.
 
-#### § 5567. Employee protection
+#### § 5567. Employee protection
 
 **(a) In general** No covered person or service provider shall terminate or in any other way discriminate against, or cause to be terminated or discriminated against, any covered employee or any authorized representative of covered employees by reason of the fact that such employee or representative, whether at the initiative of the employee or in the ordinary course of the duties of the employee (or any person acting pursuant to a request of the employee), has—
 
-**(1)** provided, caused to be provided, or is about to provide or cause to be provided, information to the employer, the Bureau, or any other State, local, or Federal, government authority or law enforcement agency relating to any violation of, or any act or omission that the employee reasonably believes to be a violation of, any provision of this title 1
+**(1)** provided, caused to be provided, or is about to provide or cause to be provided, information to the employer, the Bureau, or any other State, local, or Federal, government authority or law enforcement agency relating to any violation of, or any act or omission that the employee reasonably believes to be a violation of, any provision of this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or any other provision of law that is subject to the jurisdiction of the Bureau, or any rule, order, standard, or prohibition prescribed by the Bureau;
 
-**(2)** testified or will testify in any proceeding resulting from the administration or enforcement of any provision of this title <sup>1</sup> or any other provision of law that is subject to the jurisdiction of the Bureau, or any rule, order, standard, or prohibition prescribed by the Bureau;
+**(2)** testified or will testify in any proceeding resulting from the administration or enforcement of any provision of this title <sup>1</sup> or any other provision of law that is subject to the jurisdiction of the Bureau, or any rule, order, standard, or prohibition prescribed by the Bureau;
 
 **(3)** filed, instituted, or caused to be filed or instituted any proceeding under any Federal consumer financial law; or
 
@@ -11151,7 +11151,7 @@ Except as provided under paragraph (3), and notwithstanding any other provision 
 
 Notwithstanding paragraphs (1) and (2), an arbitration provision in a collective bargaining agreement shall be enforceable as to disputes arising under subsection (a)(4), unless the Bureau determines, by rule, that such provision is inconsistent with the purposes of this title.<sup>1</sup>
 
-(Pub. L. 111–203, title X, § 1057, July 21, 2010, 124 Stat. 2031.)
+(Pub. L. 111–203, title X, § 1057, July 21, 2010, 124 Stat. 2031.)
 
 **Editorial Notes**
 
@@ -11167,7 +11167,7 @@ Section effective on the designated transfer date, see section 1058 of Pub. L. 1
 
 ### Part F—Transfer of Functions and Personnel; Transitional Provisions
 
-#### § 5581. Transfer of consumer financial protection functions
+#### § 5581. Transfer of consumer financial protection functions
 
 **(a) Defined terms** For purposes of this part—
 
@@ -11229,9 +11229,9 @@ The Bureau shall have all powers and duties that were vested in the Federal Depo
 
 **(A) Transfer of functions**
 
-The authority of the Federal Trade Commission under an enumerated consumer law to prescribe rules, issue guidelines, or conduct a study or issue a report mandated under such law shall be transferred to the Bureau on the designated transfer date. Nothing in this title 1
+The authority of the Federal Trade Commission under an enumerated consumer law to prescribe rules, issue guidelines, or conduct a study or issue a report mandated under such law shall be transferred to the Bureau on the designated transfer date. Nothing in this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall be construed to require a mandatory transfer of any employee of the Federal Trade Commission.
 
@@ -11249,17 +11249,17 @@ Subject to part B, the Bureau may enforce a rule prescribed under the Federal Tr
 
 **(i) In general**
 
-No provision of this title <sup>1</sup> shall be construed as modifying, limiting, or otherwise affecting the authority of the Federal Trade Commission (including its authority with respect to affiliates described in section 5515(a)(1) of this title) under the Federal Trade Commission Act or any other law, other than the authority under an enumerated consumer law to prescribe rules, issue official guidelines, or conduct a study or issue a report mandated under such law.
+No provision of this title <sup>1</sup> shall be construed as modifying, limiting, or otherwise affecting the authority of the Federal Trade Commission (including its authority with respect to affiliates described in section 5515(a)(1) of this title) under the Federal Trade Commission Act or any other law, other than the authority under an enumerated consumer law to prescribe rules, issue official guidelines, or conduct a study or issue a report mandated under such law.
 
 **(ii) Commission authority relating to rules prescribed by the Bureau**
 
-Subject to part B, the Federal Trade Commission shall have authority to enforce under the Federal Trade Commission Act (15 U.S.C. 41 et seq.) a rule prescribed by the Bureau under this title <sup>1</sup> with respect to a covered person subject to the jurisdiction of the Federal Trade Commission under that Act, and a violation of such a rule by such a person shall be treated as a violation of a rule issued under section 18 of that Act (15 U.S.C. 57a) with respect to unfair or deceptive acts or practices.
+Subject to part B, the Federal Trade Commission shall have authority to enforce under the Federal Trade Commission Act (15 U.S.C. 41 et seq.) a rule prescribed by the Bureau under this title <sup>1</sup> with respect to a covered person subject to the jurisdiction of the Federal Trade Commission under that Act, and a violation of such a rule by such a person shall be treated as a violation of a rule issued under section 18 of that Act (15 U.S.C. 57a) with respect to unfair or deceptive acts or practices.
 
 **(D) Coordination**
 
 To avoid duplication of or conflict between rules prescribed by the Bureau under section 5531 of this title and the Federal Trade Commission under section 18(a)(1)(B) of the Federal Trade Commission Act [15 U.S.C. 57a(a)(1)(B)] that apply to a covered person or service provider with respect to the offering or provision of consumer financial products or services, the agencies shall negotiate an agreement with respect to rulemaking by each agency, including consultation with the other agency prior to proposing a rule and during the comment period.
 
-**(E) Deference** No provision of this title <sup>1</sup> shall be construed as altering, limiting, expanding, or otherwise affecting the deference that a court affords to the—
+**(E) Deference** No provision of this title <sup>1</sup> shall be construed as altering, limiting, expanding, or otherwise affecting the deference that a court affords to the—
 
 **(i)** Federal Trade Commission in making determinations regarding the meaning or interpretation of any provision of the Federal Trade Commission Act, or of any other Federal law for which the Commission has authority to prescribe rules; or
 
@@ -11297,9 +11297,9 @@ The Bureau shall have all powers and duties that were vested in the Secretary of
 
 **(A) Limitation**
 
-The authority of a transferor agency that is a prudential regulator to enforce compliance with Federal consumer financial laws with respect to a person described in section 5515(a) of this title, shall be limited to the backup and enforcement procedures in 2
+The authority of a transferor agency that is a prudential regulator to enforce compliance with Federal consumer financial laws with respect to a person described in section 5515(a) of this title, shall be limited to the backup and enforcement procedures in 2
 
-<sup>2</sup>  So in original. The word “in” probably should not appear.
+<sup>2</sup> So in original. The word “in” probably should not appear.
 
 described in section 5515(c) of this title.
 
@@ -11319,7 +11319,7 @@ A transferor agency that is a prudential regulator shall have exclusive authorit
 
 Subsections (b) and (c) shall become effective on the designated transfer date.
 
-(Pub. L. 111–203, title X, § 1061, July 21, 2010, 124 Stat. 2035.)
+(Pub. L. 111–203, title X, § 1061, July 21, 2010, 124 Stat. 2035.)
 
 **Editorial Notes**
 
@@ -11327,17 +11327,17 @@ Subsections (b) and (c) shall become effective on the designated transfer date.
 
 This title, where footnoted in subsecs. (b)(5)(A), (C), (E) and (c)(2)(C), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (b)(5)(B)(ii), (C), (E)(i), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b)(5)(B)(ii), (C), (E)(i), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
-The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b)(7), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b)(7), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
-The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (b)(7), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (b)(7), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
-The Interstate Land Sales Full Disclosure Act, referred to in subsec. (b)(7), is title XIV of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 590, which is classified generally to chapter 42 (§ 1701 et seq.) of Title 15, Commerce and Trade. For complete classification of this title to the Code, see Short Title note set out under section 1701 of Title 15 and Tables.
+The Interstate Land Sales Full Disclosure Act, referred to in subsec. (b)(7), is title XIV of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 590, which is classified generally to chapter 42 (§ 1701 et seq.) of Title 15, Commerce and Trade. For complete classification of this title to the Code, see Short Title note set out under section 1701 of Title 15 and Tables.
 
-The Federal Credit Union Act, referred to in subsec. (c)(2)(C)(i), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+The Federal Credit Union Act, referred to in subsec. (c)(2)(C)(i), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
-The Bank Service Company Act, referred to in subsec. (c)(2)(C)(iii), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat. 1132, which is classified generally to chapter 18 (§ 1861 et seq.) of this title. For complete classification of this Act to the Code, see section 1861 of this title and Tables.
+The Bank Service Company Act, referred to in subsec. (c)(2)(C)(iii), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat. 1132, which is classified generally to chapter 18 (§ 1861 et seq.) of this title. For complete classification of this Act to the Code, see section 1861 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11345,13 +11345,13 @@ The Bank Service Company Act, referred to in subsec. (c)(2)(C)(iii), is Pub. L. 
 
 Part effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-#### § 5582. Designated transfer date
+#### § 5582. Designated transfer date
 
 **(a) In general** Not later than 60 days after July 21, 2010, the Secretary shall—
 
-**(1)** in consultation with the Chairman of the Board of Governors, the Chairperson of the Corporation, the Chairman of the Federal Trade Commission, the Chairman of the National Credit Union Administration Board, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Secretary of the Department of Housing and Urban Development, and the Director of the Office of Management and Budget, designate a single calendar date 1
+**(1)** in consultation with the Chairman of the Board of Governors, the Chairperson of the Corporation, the Chairman of the Federal Trade Commission, the Chairman of the National Credit Union Administration Board, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Secretary of the Department of Housing and Urban Development, and the Director of the Office of Management and Budget, designate a single calendar date 1
 
-<sup>1</sup>  See Definition of Designated Transfer Date note below.
+<sup>1</sup> See Definition of Designated Transfer Date note below.
 
 for the transfer of functions to the Bureau under section 5581 of this title; and
 
@@ -11371,21 +11371,21 @@ Except as provided in paragraph (2), any date designated under this section shal
 
 **(2) Extension of time** The Secretary may designate a date that is later than 12 months after July 21, 2010, if the Secretary transmits to appropriate committees of Congress—
 
-**(A)** a written determination that orderly implementation of this title 2
+**(A)** a written determination that orderly implementation of this title 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 is not feasible before the date that is 12 months after July 21, 2010;
 
-**(B)** an explanation of why an extension is necessary for the orderly implementation of this title; <sup>2</sup> and
+**(B)** an explanation of why an extension is necessary for the orderly implementation of this title; <sup>2</sup> and
 
-**(C)** a description of the steps that will be taken to effect an orderly and timely implementation of this title <sup>2</sup> within the extended time period.
+**(C)** a description of the steps that will be taken to effect an orderly and timely implementation of this title <sup>2</sup> within the extended time period.
 
 **(3) Extension limited**
 
 In no case may any date designated under this section be later than 18 months after July 21, 2010.
 
-(Pub. L. 111–203, title X, § 1062, July 21, 2010, 124 Stat. 2039.)
+(Pub. L. 111–203, title X, § 1062, July 21, 2010, 124 Stat. 2039.)
 
 **Editorial Notes**
 
@@ -11399,15 +11399,15 @@ This title, referred to in subsec. (c)(2), is title X of Pub. L. 111–203, July
 
 Notice of Secretary of the Treasury, Sept. 20, 2010, 75 F.R. 57252, provided that the designated transfer date is July 21, 2011.
 
-#### § 5583. Savings provisions
+#### § 5583. Savings provisions
 
 **(a) Board of Governors**
 
 **(1) Existing rights, duties, and obligations not affected** Section 5581(b)(1) of this title does not affect the validity of any right, duty, or obligation of the United States, the Board of Governors (or any Federal reserve bank), or any other person that—
 
-**(A)** arises under any provision of law relating to any consumer financial protection function of the Board of Governors transferred to the Bureau by this title; 1
+**(A)** arises under any provision of law relating to any consumer financial protection function of the Board of Governors transferred to the Bureau by this title; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
@@ -11421,7 +11421,7 @@ No provision of this Act shall abate any proceeding commenced by or against the 
 
 **(1) Existing rights, duties, and obligations not affected** Section 5581(b)(4) of this title does not affect the validity of any right, duty, or obligation of the United States, the Federal Deposit Insurance Corporation, the Board of Directors of that Corporation, or any other person, that—
 
-**(A)** arises under any provision of law relating to any consumer financial protection function of the Federal Deposit Insurance Corporation transferred to the Bureau by this title; <sup>1</sup> and
+**(A)** arises under any provision of law relating to any consumer financial protection function of the Federal Deposit Insurance Corporation transferred to the Bureau by this title; <sup>1</sup> and
 
 **(B)** existed on the day before the designated transfer date.
 
@@ -11431,7 +11431,7 @@ No provision of this Act shall abate any proceeding commenced by or against the 
 
 **(c) Federal Trade Commission** Section 5581(b)(5) of this title does not affect the validity of any right, duty, or obligation of the United States, the Federal Trade Commission, or any other person, that—
 
-**(1)** arises under any provision of law relating to any consumer financial protection function of the Federal Trade Commission transferred to the Bureau by this title; <sup>1</sup> and
+**(1)** arises under any provision of law relating to any consumer financial protection function of the Federal Trade Commission transferred to the Bureau by this title; <sup>1</sup> and
 
 **(2)** existed on the day before the designated transfer date.
 
@@ -11439,7 +11439,7 @@ No provision of this Act shall abate any proceeding commenced by or against the 
 
 **(1) Existing rights, duties, and obligations not affected** Section 5581(b)(6) of this title does not affect the validity of any right, duty, or obligation of the United States, the National Credit Union Administration, the National Credit Union Administration Board, or any other person, that—
 
-**(A)** arises under any provision of law relating to any consumer financial protection function of the National Credit Union Administration transferred to the Bureau by this title; <sup>1</sup> and
+**(A)** arises under any provision of law relating to any consumer financial protection function of the National Credit Union Administration transferred to the Bureau by this title; <sup>1</sup> and
 
 **(B)** existed on the day before the designated transfer date.
 
@@ -11451,55 +11451,55 @@ No provision of this Act shall abate any proceeding commenced by or against the 
 
 **(1) Existing rights, duties, and obligations not affected** Section 5581(b)(2) of this title does not affect the validity of any right, duty, or obligation of the United States, the Comptroller of the Currency, the Office of the Comptroller of the Currency, or any other person, that—
 
-**(A)** arises under any provision of law relating to any consumer financial protection function of the Comptroller of the Currency transferred to the Bureau by this title; <sup>1</sup> and
+**(A)** arises under any provision of law relating to any consumer financial protection function of the Comptroller of the Currency transferred to the Bureau by this title; <sup>1</sup> and
 
 **(B)** existed on the day before the designated transfer date.
 
 **(2) Continuation of suits**
 
-No provision of this Act shall abate any proceeding commenced by or against the Comptroller of the Currency (or the Office of the Comptroller of the Currency) with respect to any consumer financial protection function of the Comptroller of the Currency transferred to the Bureau by this title <sup>1</sup> before the designated transfer date, except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Comptroller of the Currency (or the Office of the Comptroller of the Currency) as a party to any such proceeding as of the designated transfer date.
+No provision of this Act shall abate any proceeding commenced by or against the Comptroller of the Currency (or the Office of the Comptroller of the Currency) with respect to any consumer financial protection function of the Comptroller of the Currency transferred to the Bureau by this title <sup>1</sup> before the designated transfer date, except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Comptroller of the Currency (or the Office of the Comptroller of the Currency) as a party to any such proceeding as of the designated transfer date.
 
 **(f) Office of Thrift Supervision**
 
 **(1) Existing rights, duties, and obligations not affected** Section 5581(b)(3) of this title does not affect the validity of any right, duty, or obligation of the United States, the Director of the Office of Thrift Supervision, the Office of Thrift Supervision, or any other person, that—
 
-**(A)** arises under any provision of law relating to any consumer financial protection function of the Director of the Office of Thrift Supervision transferred to the Bureau by this title; <sup>1</sup> and
+**(A)** arises under any provision of law relating to any consumer financial protection function of the Director of the Office of Thrift Supervision transferred to the Bureau by this title; <sup>1</sup> and
 
-**(B)** that 2
+**(B)** that 2
 
-<sup>2</sup>  So in original. The word “that” probably should not appear.
+<sup>2</sup> So in original. The word “that” probably should not appear.
 
 existed on the day before the designated transfer date.
 
 **(2) Continuation of suits**
 
-No provision of this Act shall abate any proceeding commenced by or against the Director of the Office of Thrift Supervision (or the Office of Thrift Supervision) with respect to any consumer financial protection function of the Director of the Office of Thrift Supervision transferred to the Bureau by this title <sup>1</sup> before the designated transfer date, except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Director (or the Office of Thrift Supervision) as a party to any such proceeding as of the designated transfer date.
+No provision of this Act shall abate any proceeding commenced by or against the Director of the Office of Thrift Supervision (or the Office of Thrift Supervision) with respect to any consumer financial protection function of the Director of the Office of Thrift Supervision transferred to the Bureau by this title <sup>1</sup> before the designated transfer date, except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Director (or the Office of Thrift Supervision) as a party to any such proceeding as of the designated transfer date.
 
 **(g) Department of Housing and Urban Development**
 
 **(1) Existing rights, duties, and obligations not affected** Section 5581(b)(7) of this title shall not affect the validity of any right, duty, or obligation of the United States, the Secretary of the Department of Housing and Urban Development (or the Department of Housing and Urban Development), or any other person, that—
 
-**(A)** arises under any provision of law relating to any function of the Secretary of the Department of Housing and Urban Development with respect to the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 et seq.), the Secure and Fair Enforcement for Mortgage Licensing Act of 2008 [12 U.S.C. 5101 et seq.], or the Interstate Land Sales Full Disclosure Act (15 U.S.C. 1701 et seq) 3
+**(A)** arises under any provision of law relating to any function of the Secretary of the Department of Housing and Urban Development with respect to the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 et seq.), the Secure and Fair Enforcement for Mortgage Licensing Act of 2008 [12 U.S.C. 5101 et seq.], or the Interstate Land Sales Full Disclosure Act (15 U.S.C. 1701 et seq) 3
 
-<sup>3</sup>  So in original. Probably should be a period after “seq”.
+<sup>3</sup> So in original. Probably should be a period after “seq”.
 
-transferred to the Bureau by this title; <sup>1</sup> and
+transferred to the Bureau by this title; <sup>1</sup> and
 
 **(B)** existed on the day before the designated transfer date.
 
 **(2) Continuation of suits**
 
-This title <sup>1</sup> shall not abate any proceeding commenced by or against the Secretary of the Department of Housing and Urban Development (or the Department of Housing and Urban Development) with respect to any consumer financial protection function of the Secretary of the Department of Housing and Urban Development transferred to the Bureau by this title <sup>1</sup> before the designated transfer date, except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Secretary of the Department of Housing and Urban Development (or the Department of Housing and Urban Development) as a party to any such proceeding as of the designated transfer date.
+This title <sup>1</sup> shall not abate any proceeding commenced by or against the Secretary of the Department of Housing and Urban Development (or the Department of Housing and Urban Development) with respect to any consumer financial protection function of the Secretary of the Department of Housing and Urban Development transferred to the Bureau by this title <sup>1</sup> before the designated transfer date, except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Secretary of the Department of Housing and Urban Development (or the Department of Housing and Urban Development) as a party to any such proceeding as of the designated transfer date.
 
 **(h) Continuation of existing orders, rulings, determinations, agreements, and resolutions**
 
 **(1) In general**
 
-Except as provided in paragraph (2) and under subsection (i), all orders, resolutions, determinations, agreements, and rulings that have been issued, made, prescribed, or allowed to become effective by any transferor agency or by a court of competent jurisdiction, in the performance of consumer financial protection functions that are transferred by this title <sup>1</sup> and that are in effect on the day before the designated transfer date, shall continue in effect, and shall continue to be enforceable by the appropriate transferor agency, according to the terms of those orders, resolutions, determinations, agreements, and rulings, and shall not be enforceable by or against the Bureau.
+Except as provided in paragraph (2) and under subsection (i), all orders, resolutions, determinations, agreements, and rulings that have been issued, made, prescribed, or allowed to become effective by any transferor agency or by a court of competent jurisdiction, in the performance of consumer financial protection functions that are transferred by this title <sup>1</sup> and that are in effect on the day before the designated transfer date, shall continue in effect, and shall continue to be enforceable by the appropriate transferor agency, according to the terms of those orders, resolutions, determinations, agreements, and rulings, and shall not be enforceable by or against the Bureau.
 
 **(2) Exception for orders applicable to persons described in section 5515(a) of this title**
 
-All orders, resolutions, determinations, agreements, and rulings that have been issued, made, prescribed, or allowed to become effective by any transferor agency or by a court of competent jurisdiction, in the performance of consumer financial protection functions that are transferred by this title <sup>1</sup> and that are in effect on the day before the designated transfer date with respect to any person described in section 5515(a) of this title, shall continue in effect, according to the terms of those orders, resolutions, determinations, agreements, and rulings, and shall be enforceable by or against the Bureau or transferor agency.
+All orders, resolutions, determinations, agreements, and rulings that have been issued, made, prescribed, or allowed to become effective by any transferor agency or by a court of competent jurisdiction, in the performance of consumer financial protection functions that are transferred by this title <sup>1</sup> and that are in effect on the day before the designated transfer date with respect to any person described in section 5515(a) of this title, shall continue in effect, according to the terms of those orders, resolutions, determinations, agreements, and rulings, and shall be enforceable by or against the Bureau or transferor agency.
 
 **(i) Identification of rules and orders continued** Not later than the designated transfer date, the Bureau—
 
@@ -11517,7 +11517,7 @@ Any proposed rule of a transferor agency which that agency, in performing consum
 
 Any interim or final rule of a transferor agency which that agency, in performing consumer financial protection functions transferred by this title,<sup>1</sup> has published before the designated transfer date, but which has not become effective before that date, shall become effective as a rule of the Bureau according to its terms.
 
-(Pub. L. 111–203, title X, § 1063, July 21, 2010, 124 Stat. 2040.)
+(Pub. L. 111–203, title X, § 1063, July 21, 2010, 124 Stat. 2040.)
 
 **Editorial Notes**
 
@@ -11525,15 +11525,15 @@ Any interim or final rule of a transferor agency which that agency, in performin
 
 This title, where footnoted in text, is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-This Act, referred to in subsecs. (a)(2), (b)(2), (d)(2), (e)(2), and (f)(2), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This Act, referred to in subsecs. (a)(2), (b)(2), (d)(2), (e)(2), and (f)(2), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (g)(1)(A), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (g)(1)(A), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
-The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (g)(1)(A), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (g)(1)(A), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
-The Interstate Land Sales Full Disclosure Act, referred to in subsec. (g)(1)(A), is title XIV of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 590, which is classified generally to chapter 42 (§ 1701 et seq.) of Title 15, Commerce and Trade. For complete classification of this title to the Code, see Short Title note set out under section 1701 of Title 15 and Tables.
+The Interstate Land Sales Full Disclosure Act, referred to in subsec. (g)(1)(A), is title XIV of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 590, which is classified generally to chapter 42 (§ 1701 et seq.) of Title 15, Commerce and Trade. For complete classification of this title to the Code, see Short Title note set out under section 1701 of Title 15 and Tables.
 
-#### § 5584. Transfer of certain personnel
+#### § 5584. Transfer of certain personnel
 
 **(a) In general**
 
@@ -11541,9 +11541,9 @@ The Interstate Land Sales Full Disclosure Act, referred to in subsec. (g)(1)(A),
 
 **(A) Identifying employees for transfer** The Bureau and the Board of Governors shall—
 
-**(i)** jointly determine the number of employees of the Board of Governors necessary to perform or support the consumer financial protection functions of the Board of Governors that are transferred to the Bureau by this title; 1
+**(i)** jointly determine the number of employees of the Board of Governors necessary to perform or support the consumer financial protection functions of the Board of Governors that are transferred to the Bureau by this title; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
@@ -11561,7 +11561,7 @@ Employees of any Federal reserve bank who are performing consumer financial prot
 
 **(A) Identifying employees for transfer** The Bureau and the Board of Directors of the Federal Deposit Insurance Corporation shall—
 
-**(i)** jointly determine the number of employees of that Corporation necessary to perform or support the consumer financial protection functions of the Corporation that are transferred to the Bureau by this title; <sup>1</sup> and
+**(i)** jointly determine the number of employees of that Corporation necessary to perform or support the consumer financial protection functions of the Corporation that are transferred to the Bureau by this title; <sup>1</sup> and
 
 **(ii)** consistent with the number determined under clause (i), jointly identify employees of the Corporation for transfer to the Bureau, in a manner that the Bureau and the Board of Directors of the Corporation, in their sole discretion, determine equitable.
 
@@ -11573,7 +11573,7 @@ All employees of the Corporation identified under subparagraph (A)(ii) shall be 
 
 **(A) Identifying employees for transfer** The Bureau and the National Credit Union Administration Board shall—
 
-**(i)** jointly determine the number of employees of the National Credit Union Administration necessary to perform or support the consumer financial protection functions of the National Credit Union Administration that are transferred to the Bureau by this title; <sup>1</sup> and
+**(i)** jointly determine the number of employees of the National Credit Union Administration necessary to perform or support the consumer financial protection functions of the National Credit Union Administration that are transferred to the Bureau by this title; <sup>1</sup> and
 
 **(ii)** consistent with the number determined under clause (i), jointly identify employees of the National Credit Union Administration for transfer to the Bureau, in a manner that the Bureau and the National Credit Union Administration Board, in their sole discretion, determine equitable.
 
@@ -11585,7 +11585,7 @@ All employees of the National Credit Union Administration identified under subpa
 
 **(A) Identifying employees for transfer** The Bureau and the Comptroller of the Currency shall—
 
-**(i)** jointly determine the number of employees of the Office of the Comptroller of the Currency necessary to perform or support the consumer financial protection functions of the Office of the Comptroller of the Currency that are transferred to the Bureau by this title; <sup>1</sup> and
+**(i)** jointly determine the number of employees of the Office of the Comptroller of the Currency necessary to perform or support the consumer financial protection functions of the Office of the Comptroller of the Currency that are transferred to the Bureau by this title; <sup>1</sup> and
 
 **(ii)** consistent with the number determined under clause (i), jointly identify employees of the Office of the Comptroller of the Currency for transfer to the Bureau, in a manner that the Bureau and the Office of the Comptroller of the Currency, in their sole discretion, determine equitable.
 
@@ -11597,7 +11597,7 @@ All employees of the Office of the Comptroller of the Currency identified under 
 
 **(A) Identifying employees for transfer** The Bureau and the Director of the Office of Thrift Supervision shall—
 
-**(i)** jointly determine the number of employees of the Office of Thrift Supervision necessary to perform or support the consumer financial protection functions of the Office of Thrift Supervision that are transferred to the Bureau by this title; <sup>1</sup> and
+**(i)** jointly determine the number of employees of the Office of Thrift Supervision necessary to perform or support the consumer financial protection functions of the Office of Thrift Supervision that are transferred to the Bureau by this title; <sup>1</sup> and
 
 **(ii)** consistent with the number determined under clause (i), jointly identify employees of the Office of Thrift Supervision for transfer to the Bureau, in a manner that the Bureau and the Office of Thrift Supervision, in their sole discretion, determine equitable.
 
@@ -11609,7 +11609,7 @@ All employees of the Office of Thrift Supervision identified under subparagraph 
 
 **(A) Identifying employees for transfer** The Bureau and the Secretary of the Department of Housing and Urban Development shall—
 
-**(i)** jointly determine the number of employees of the Department of Housing and Urban Development necessary to perform or support the consumer protection functions of the Department that are transferred to the Bureau by this title; <sup>1</sup> and
+**(i)** jointly determine the number of employees of the Department of Housing and Urban Development necessary to perform or support the consumer protection functions of the Department that are transferred to the Bureau by this title; <sup>1</sup> and
 
 **(ii)** consistent with the number determined under clause (i), jointly identify employees of the Department of Housing and Urban Development for transfer to the Bureau in a manner that the Bureau and the Secretary of the Department of Housing and Urban Development, in their sole discretion, deem equitable.
 
@@ -11657,9 +11657,9 @@ An agency or entity may decline to make a transfer of authority under subparagra
 
 Notwithstanding any other provision of law, the transfer of employees shall be deemed a transfer of functions for the purpose of section 3503 of title 5.
 
-**(2) Priority of this title <sup>1</sup>**
+**(2) Priority of this title <sup>1</sup>**
 
-If any provisions of this title <sup>1</sup> conflict with any protection provided to transferred employees under section 3503 of title 5, the provisions of this title <sup>1</sup> shall control.
+If any provisions of this title <sup>1</sup> conflict with any protection provided to transferred employees under section 3503 of title 5, the provisions of this title <sup>1</sup> shall control.
 
 **(d) Equal status and tenure positions**
 
@@ -11765,9 +11765,9 @@ The Bureau shall pay any employer contributions to the existing retirement plan 
 
 **(iii) Option to elect into the Federal Reserve System Retirement Plan and Federal Reserve System Thrift Plan**
 
-Any employee transferred pursuant to this part may, during the 1-year period beginning 6 months after the designated transfer date, elect to end their participation and benefit accruals under their existing retirement plan or plans and elect to participate in both the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, through any period of continuous employment with the Bureau, under the same terms as are applicable to Federal Reserve System transferred employees, as provided in subparagraph (C). An election of coverage by the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan shall begin on the day following the end of the 18-month period beginning on the designated transfer date, and benefit accruals under the existing retirement plan of the transferred employee shall end on the last day of the 18-month period beginning on the designated transfer date 2
+Any employee transferred pursuant to this part may, during the 1-year period beginning 6 months after the designated transfer date, elect to end their participation and benefit accruals under their existing retirement plan or plans and elect to participate in both the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, through any period of continuous employment with the Bureau, under the same terms as are applicable to Federal Reserve System transferred employees, as provided in subparagraph (C). An election of coverage by the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan shall begin on the day following the end of the 18-month period beginning on the designated transfer date, and benefit accruals under the existing retirement plan of the transferred employee shall end on the last day of the 18-month period beginning on the designated transfer date 2
 
-<sup>2</sup>  So in original. Probably should be followed by a period.
+<sup>2</sup> So in original. Probably should be followed by a period.
 
 If an employee elects to participate in the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, all of the service of the employee that was creditable under their existing retirement plan shall be transferred to the Federal Reserve System Retirement Plan on the day following the end of the 18-month period beginning on the designated transfer date.
 
@@ -11905,7 +11905,7 @@ Not later than 2 years after the designated transfer date, the Bureau shall impl
 
 In implementing the provisions of this section, the Bureau shall coordinate with the Office of Personnel Management and other entities having expertise in matters related to employment to ensure a fair and orderly transition for affected employees.
 
-(Pub. L. 111–203, title X, § 1064, July 21, 2010, 124 Stat. 2043.)
+(Pub. L. 111–203, title X, § 1064, July 21, 2010, 124 Stat. 2043.)
 
 **Editorial Notes**
 
@@ -11913,13 +11913,13 @@ In implementing the provisions of this section, the Bureau shall coordinate with
 
 This title, where footnoted in subsecs. (a), (c)(2), (i)(2)(F), (G)(iv), and (j), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-#### § 5585. Incidental transfers
+#### § 5585. Incidental transfers
 
 **(a) Incidental transfers authorized**
 
 The Director of the Office of Management and Budget, in consultation with the Secretary, shall make such additional incidental transfers and dispositions of assets and liabilities held, used, arising from, available, or to be made available, in connection with the functions transferred by this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 as the Director may determine necessary to accomplish the purposes of this title.1
 
@@ -11927,7 +11927,7 @@ as the Director may determine necessary to accomplish the purposes of this title
 
 The authority provided in this section shall terminate 5 years after July 21, 2010.
 
-(Pub. L. 111–203, title X, § 1065, July 21, 2010, 124 Stat. 2055.)
+(Pub. L. 111–203, title X, § 1065, July 21, 2010, 124 Stat. 2055.)
 
 **Editorial Notes**
 
@@ -11935,7 +11935,7 @@ The authority provided in this section shall terminate 5 years after July 21, 20
 
 This title, referred to in subsec. (a), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-#### § 5586. Interim authority of the Secretary
+#### § 5586. Interim authority of the Secretary
 
 **(a) In general**
 
@@ -11945,9 +11945,9 @@ The Secretary is authorized to perform the functions of the Bureau under this pa
 
 The Department of the Treasury may provide administrative services necessary to support the Bureau before the designated transfer date.
 
-(Pub. L. 111–203, title X, § 1066, July 21, 2010, 124 Stat. 2055.)
+(Pub. L. 111–203, title X, § 1066, July 21, 2010, 124 Stat. 2055.)
 
-#### § 5587. Transition oversight
+#### § 5587. Transition oversight
 
 **(a) Purpose** The purpose of this section is to ensure that the Bureau—
 
@@ -12021,11 +12021,11 @@ The reporting requirement under subsection (b) shall terminate 5 years after Jul
 
 In order to prepare the Bureau to conduct examinations under section 5515 of this title upon the designated transfer date, the Bureau and the applicable prudential regulator may agree to include, on a sampling basis, examiners on examinations of the compliance with Federal consumer financial law of institutions described in section 5515(a) of this title conducted by the prudential regulators prior to the designated transfer date.
 
-(Pub. L. 111–203, title X, § 1067, July 21, 2010, 124 Stat. 2055.)
+(Pub. L. 111–203, title X, § 1067, July 21, 2010, 124 Stat. 2055.)
 
 ### Part G—Regulatory Improvements
 
-#### § 5601. Remittance transfers
+#### § 5601. Remittance transfers
 
 **(a) Omitted**
 
@@ -12055,11 +12055,11 @@ Not later than one calendar year after July 21, 2010, and on April 30 biennially
 
 Each of the Federal banking agencies and the National Credit Union Administration shall provide guidelines to financial institutions under the jurisdiction of the agency regarding the offering of low-cost remittance transfers and no-cost or low-cost basic consumer accounts, as well as agency services to remittance transfer providers.
 
-**(2) Assistance to Financial Literacy Commission 1 [footnote: 1 So in original. Probably should be “Financial Literacy and Education Commission”.]**
+**(2) Assistance to Financial Literacy Commission 1 [footnote: 1 So in original. Probably should be “Financial Literacy and Education Commission”.]**
 
-As part of its 2
+As part of its 2
 
-<sup>2</sup>  So in original. Probably should be “their”.
+<sup>2</sup> So in original. Probably should be “their”.
 
 duties as members of the Financial Literacy and Education Commission, the Bureau, the Federal banking agencies, and the National Credit Union Administration shall assist the Financial Literacy and Education Commission in executing the Strategy for Assuring Financial Empowerment (or the “SAFE Strategy”), as it relates to remittances.
 
@@ -12071,13 +12071,13 @@ duties as members of the Financial Literacy and Education Commission, the Bureau
 
 **(2)** the current legal and business model barriers and impediments that impede the use of the remittance history of the consumer to enhance the credit score of the consumer; and
 
-**(3)** recommendations on the manner in which maximum transparency and disclosure to consumers of exchange rates for remittance transfers subject to this title 3
+**(3)** recommendations on the manner in which maximum transparency and disclosure to consumers of exchange rates for remittance transfers subject to this title 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
-and the amendments made by this title 3 may be accomplished, whether or not such exchange rates are known at the time of origination or payment by the consumer for the remittance transfer, including disclosure to the sender of the actual exchange rate used and the amount of currency that the recipient of the remittance transfer received, using the values of the currency into which the funds were exchanged, as contained in sections 1693*o*–1(a)(2)(D) 3 and 1693*o*–1(a)(3) of title 15 (as amended by this section).
+and the amendments made by this title 3 may be accomplished, whether or not such exchange rates are known at the time of origination or payment by the consumer for the remittance transfer, including disclosure to the sender of the actual exchange rate used and the amount of currency that the recipient of the remittance transfer received, using the values of the currency into which the funds were exchanged, as contained in sections 1693*o*–1(a)(2)(D) 3 and 1693*o*–1(a)(3) of title 15 (as amended by this section).
 
-(Pub. L. 111–203, title X, § 1073, July 21, 2010, 124 Stat. 2060.)
+(Pub. L. 111–203, title X, § 1073, July 21, 2010, 124 Stat. 2060.)
 
 **Editorial Notes**
 
@@ -12097,7 +12097,7 @@ Section is comprised of section 1073 of Pub. L. 111–203. Subsecs. (a) and (d) 
 
 Part effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-#### § 5602. Reverse mortgage study and regulations
+#### § 5602. Reverse mortgage study and regulations
 
 **(a) Study**
 
@@ -12109,11 +12109,11 @@ Not later than 1 year after the designated transfer date, the Bureau shall condu
 
 If the Bureau determines through the study required under subsection (a) that conditions or limitations on reverse mortgage transactions are necessary or appropriate for accomplishing the purposes and objectives of this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 including protecting borrowers with respect to the obtaining of reverse mortgage loans for the purpose of funding investments, annuities, and other investment products and the suitability of a borrower in obtaining a reverse mortgage for such purpose.2
 
-<sup>2</sup>  So in original. Sentence does not appear to be complete.
+<sup>2</sup> So in original. Sentence does not appear to be complete.
 
 **(2) Identified practices and integrated disclosures** The regulations prescribed under paragraph (1) may, as the Bureau may so determine—
 
@@ -12125,7 +12125,7 @@ including protecting borrowers with respect to the obtaining of reverse mortgage
 
 This section shall not be construed as limiting the authority of the Bureau to issue regulations, orders, or guidance that apply to reverse mortgages prior to the completion of the study required under subsection (a).
 
-(Pub. L. 111–203, title X, § 1076, July 21, 2010, 124 Stat. 2075.)
+(Pub. L. 111–203, title X, § 1076, July 21, 2010, 124 Stat. 2075.)
 
 **Editorial Notes**
 
@@ -12135,11 +12135,11 @@ This title, referred to in subsec. (b)(1), is title X of Pub. L. 111–203, July
 
 Section 4302(d), referred to in subsec. (b)(2)(B), probably was a reference to section 4302(d) of the House Engrossed version of H.R. 4173, 111th Congress. A later version of H.R. 4173 was enacted as Pub. L. 111–203, and as so enacted, doesn’t contain a section 4302. However, section 1032(f) of Pub. L. 111–203, which is classified to section 5532(f) of this title, contains substantially similar provisions to the section 4302(d) that was probably referred to.
 
-The Truth in Lending Act, referred to in subsec. (b)(2)(B), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec. (b)(2)(B), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2)(B), probably means the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2)(B), probably means the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
-#### § 5603. Review, report, and program with respect to exchange facilitators
+#### § 5603. Review, report, and program with respect to exchange facilitators
 
 **(a) Review**
 
@@ -12165,11 +12165,11 @@ Not later than 2 years after the date of the submission of the report under subs
 
 **(3)** advertises any of the services described in paragraph (1) or solicits clients in printed publications, direct mail, television or radio advertisements, telephone calls, facsimile transmissions, or other electronic communications directed to the general public for purposes of providing any such services.
 
-(Pub. L. 111–203, title X, § 1079, July 21, 2010, 124 Stat. 2077.)
+(Pub. L. 111–203, title X, § 1079, July 21, 2010, 124 Stat. 2077.)
 
 ## SUBCHAPTER VI—FEDERAL RESERVE SYSTEM PROVISIONS
 
-### § 5611. Liquidity event determination
+### § 5611. Liquidity event determination
 
 **(a) Determination and written recommendation**
 
@@ -12213,7 +12213,7 @@ The Secretary may request the Corporation and the Board of Governors to determin
 
 On the earlier of the date of a submission made to Congress under section 5612(c) of this title, or within 30 days of the date of a determination under subsection (a), the Secretary shall provide written notice of the determination of the Corporation and the Board of Governors to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, including a description of the basis for the determination.
 
-(Pub. L. 111–203, title XI, § 1104, July 21, 2010, 124 Stat. 2120.)
+(Pub. L. 111–203, title XI, § 1104, July 21, 2010, 124 Stat. 2120.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12221,7 +12221,7 @@ On the earlier of the date of a submission made to Congress under section 5612(c
 
 Subchapter effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-### § 5612. Emergency financial stabilization
+### § 5612. Emergency financial stabilization
 
 **(a) In general**
 
@@ -12341,7 +12341,7 @@ To the extent that the funds collected pursuant to paragraph (1) are insufficien
 
 The Secretary may purchase any obligations issued under paragraph (3)(A). For such purpose, the Secretary may use the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under that chapter 31 are extended to include such purchases, and the amount of any securities issued under that chapter 31 for such purpose shall be treated in the same manner as securities issued under section 208(n)(5)(E).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(f) Rule of construction**
 
@@ -12381,7 +12381,7 @@ For purposes of the congressional joint resolution of approval provided for in s
 
 Any debt guarantee program authorized by this subsection shall include a maximum amount of outstanding debt that is guaranteed.
 
-(Pub. L. 111–203, title XI, § 1105, July 21, 2010, 124 Stat. 2121; Pub. L. 116–136, div. A, title IV, § 4008(a), Mar. 27, 2020, 134 Stat. 477.)
+(Pub. L. 111–203, title XI, § 1105, July 21, 2010, 124 Stat. 2121; Pub. L. 116–136, div. A, title IV, § 4008(a), Mar. 27, 2020, 134 Stat. 477.)
 
 **Editorial Notes**
 
@@ -12395,11 +12395,11 @@ Enactment of this Act, referred to in subsec. (h)(1), probably means the date of
 
 **Amendments**
 
-2020—Subsec. (f). Pub. L. 116–136, § 4008(a)(1), inserted “in noninterest-bearing transaction accounts” after “institutions” and substituted “may” for “shall not”.
+2020—Subsec. (f). Pub. L. 116–136, § 4008(a)(1), inserted “in noninterest-bearing transaction accounts” after “institutions” and substituted “may” for “shall not”.
 
-Subsec. (h). Pub. L. 116–136, § 4008(a)(2), added subsec. (h).
+Subsec. (h). Pub. L. 116–136, § 4008(a)(2), added subsec. (h).
 
-### § 5613. Additional related matters
+### § 5613. Additional related matters
 
 **(a) Suspension of parallel Federal Deposit Insurance Act authority**
 
@@ -12421,7 +12421,7 @@ Effective upon July 21, 2010, the Corporation may not exercise its authority und
 
 **(B)** file a petition for involuntary bankruptcy on behalf of the company under section 303 of title 11.
 
-(Pub. L. 111–203, title XI, § 1106, July 21, 2010, 124 Stat. 2125.)
+(Pub. L. 111–203, title XI, § 1106, July 21, 2010, 124 Stat. 2125.)
 
 **Editorial Notes**
 
@@ -12429,7 +12429,7 @@ Effective upon July 21, 2010, the Corporation may not exercise its authority und
 
 Section is comprised of section 1106 of Pub. L. 111–203. Subsec. (b) of section 1106 of Pub. L. 111–203 amended section 1823 of this title.
 
-### § 5614. Exercise of Federal Reserve authority
+### § 5614. Exercise of Federal Reserve authority
 
 **(1) No decisions by Federal reserve bank presidents**
 
@@ -12439,21 +12439,21 @@ No provision of subchapter I relating to the authority of the Board of Governors
 
 The Board of Governors shall not delegate the authority to make any voting decision that the Board of Governors is authorized or required to make under subchapter I of this chapter in contravention of section 248(k) of this title.
 
-(Pub. L. 111–203, title XI, § 1108(d), July 21, 2010, 124 Stat. 2127.)
+(Pub. L. 111–203, title XI, § 1108(d), July 21, 2010, 124 Stat. 2127.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter I, referred to in text, was in the original “title I”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, known as the Financial Stability Act of 2010, which is classified principally to subchapter I (§ 5311 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Subchapter I, referred to in text, was in the original “title I”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, known as the Financial Stability Act of 2010, which is classified principally to subchapter I (§ 5311 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 ## SUBCHAPTER VII—IMPROVING ACCESS TO MAINSTREAM FINANCIAL INSTITUTIONS
 
-### § 5621. Purpose
+### § 5621. Purpose
 
 The purpose of this subchapter is to encourage initiatives for financial products and services that are appropriate and accessible for millions of Americans who are not fully incorporated into the financial mainstream.
 
-(Pub. L. 111–203, title XII, § 1202, July 21, 2010, 124 Stat. 2129.)
+(Pub. L. 111–203, title XII, § 1202, July 21, 2010, 124 Stat. 2129.)
 
 **Editorial Notes**
 
@@ -12471,7 +12471,7 @@ Subchapter effective 1 day after July 21, 2010, except as otherwise provided, se
 
 This subchapter known as the “Improving Access to Mainstream Financial Institutions Act of 2010”, see Short Title note set out under section 5301 of this title.
 
-### § 5622. Definitions
+### § 5622. Definitions
 
 In this subchapter, the following definitions shall apply:
 
@@ -12499,7 +12499,7 @@ The term “community development financial institution” has the same meaning 
 
 The term “federally insured depository institution” means any insured depository institution (as that term is defined in section 1813 of this title) and any insured credit union (as that term is defined in section 1752 of this title).
 
-(Pub. L. 111–203, title XII, § 1203, July 21, 2010, 124 Stat. 2129.)
+(Pub. L. 111–203, title XII, § 1203, July 21, 2010, 124 Stat. 2129.)
 
 **Editorial Notes**
 
@@ -12507,7 +12507,7 @@ The term “federally insured depository institution” means any insured deposi
 
 This subchapter, referred to in text, was in the original “this title”, meaning title XII of Pub. L. 111–203, July 21, 2010, 124 Stat. 2129, known as the Improving Access to Mainstream Financial Institutions Act of 2010, which is classified principally to this subchapter. For complete classification of title XII to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-### § 5623. Expanded access to mainstream financial institutions
+### § 5623. Expanded access to mainstream financial institutions
 
 **(a) In general** The Secretary is authorized to establish a multiyear program of grants, cooperative agreements, financial agency agreements, and similar contracts or undertakings to promote initiatives designed—
 
@@ -12527,7 +12527,7 @@ The Secretary shall restrict participation in any program established under subs
 
 **(B)** financial education and counseling relating to conducting transactions in and managing accounts.
 
-(Pub. L. 111–203, title XII, § 1204, July 21, 2010, 124 Stat. 2130.)
+(Pub. L. 111–203, title XII, § 1204, July 21, 2010, 124 Stat. 2130.)
 
 **Editorial Notes**
 
@@ -12535,7 +12535,7 @@ The Secretary shall restrict participation in any program established under subs
 
 This subchapter, referred to in subsec. (b)(1), was in the original “this title”, meaning title XII of Pub. L. 111–203, July 21, 2010, 124 Stat. 2129, known as the Improving Access to Mainstream Financial Institutions Act of 2010, which is classified principally to this subchapter. For complete classification of title XII to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-### § 5624. Low-cost alternatives to small dollar loans
+### § 5624. Low-cost alternatives to small dollar loans
 
 **(a) Grants authorized**
 
@@ -12557,13 +12557,13 @@ Each eligible entity awarded a grant under this section shall promote and take a
 
 As part of the grants, agreements, and undertakings established under this section, the Secretary may implement reasonable measures or programs designed to expand access to financial literacy and education opportunities, including relevant counseling services, educational courses, or wealth building programs to be provided to individuals who obtain loans from eligible entities under this section.
 
-(Pub. L. 111–203, title XII, § 1205, July 21, 2010, 124 Stat. 2130.)
+(Pub. L. 111–203, title XII, § 1205, July 21, 2010, 124 Stat. 2130.)
 
-### § 5625. Procedural provisions
+### § 5625. Procedural provisions
 
 An eligible entity desiring to participate in a program or obtain a grant under this subchapter shall submit an application to the Secretary, in such form and containing such information as the Secretary may require.
 
-(Pub. L. 111–203, title XII, § 1207, July 21, 2010, 124 Stat. 2132.)
+(Pub. L. 111–203, title XII, § 1207, July 21, 2010, 124 Stat. 2132.)
 
 **Editorial Notes**
 
@@ -12571,7 +12571,7 @@ An eligible entity desiring to participate in a program or obtain a grant under 
 
 This subchapter, referred to in text, was in the original “this title”, meaning title XII of Pub. L. 111–203, July 21, 2010, 124 Stat. 2129, known as the Improving Access to Mainstream Financial Institutions Act of 2010, which is classified principally to this subchapter. For complete classification of title XII to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-### § 5626. Authorization of appropriations
+### § 5626. Authorization of appropriations
 
 **(a) Authorization to the Secretary**
 
@@ -12581,7 +12581,7 @@ There are authorized to be appropriated to the Secretary, such sums as are neces
 
 There is authorized to be appropriated to the Fund for each fiscal year beginning in fiscal year 2010, an amount equal to the amount of the administrative costs of the Fund for the operation of the grant program established under this subchapter.
 
-(Pub. L. 111–203, title XII, § 1208, July 21, 2010, 124 Stat. 2132.)
+(Pub. L. 111–203, title XII, § 1208, July 21, 2010, 124 Stat. 2132.)
 
 **Editorial Notes**
 
@@ -12589,7 +12589,7 @@ There is authorized to be appropriated to the Fund for each fiscal year beginnin
 
 This subchapter, referred to in text, was in the original “this title”, meaning title XII of Pub. L. 111–203, July 21, 2010, 124 Stat. 2129, known as the Improving Access to Mainstream Financial Institutions Act of 2010, which is classified principally to this subchapter. For complete classification of title XII to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-### § 5627. Regulations
+### § 5627. Regulations
 
 **(a) In general**
 
@@ -12599,7 +12599,7 @@ The Secretary is authorized to promulgate regulations to implement and administe
 
 Regulations prescribed under this section may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of grant programs, undertakings, or eligible entities, as, in the judgment of the Secretary, are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion of this subchapter, or to facilitate compliance with this subchapter.
 
-(Pub. L. 111–203, title XII, § 1209, July 21, 2010, 124 Stat. 2132.)
+(Pub. L. 111–203, title XII, § 1209, July 21, 2010, 124 Stat. 2132.)
 
 **Editorial Notes**
 
@@ -12607,11 +12607,11 @@ Regulations prescribed under this section may contain such classifications, diff
 
 This subchapter, referred to in text, was in the original “this title”, meaning title XII of Pub. L. 111–203, July 21, 2010, 124 Stat. 2129, known as the Improving Access to Mainstream Financial Institutions Act of 2010, which is classified principally to this subchapter. For complete classification of title XII to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-### § 5628. Evaluation and reports to Congress
+### § 5628. Evaluation and reports to Congress
 
 For each fiscal year in which a program or project is carried out under this subchapter, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives containing a description of the activities funded, amounts distributed, and measurable results, as appropriate and available.
 
-(Pub. L. 111–203, title XII, § 1210, July 21, 2010, 124 Stat. 2133.)
+(Pub. L. 111–203, title XII, § 1210, July 21, 2010, 124 Stat. 2133.)
 
 **Editorial Notes**
 
@@ -12621,7 +12621,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 ## SUBCHAPTER VIII—MISCELLANEOUS
 
-### § 5641. Enhanced compensation structure reporting
+### § 5641. Enhanced compensation structure reporting
 
 **(a) Enhanced disclosure and reporting of compensation arrangements**
 
@@ -12643,9 +12643,9 @@ Nothing in this section shall be construed as requiring the reporting of the act
 
 **(c) Standards** The appropriate Federal regulators shall—
 
-**(1)** ensure that any standards for compensation established under subsections (a) or (b) are comparable to the standards established under section 1831p–1 1
+**(1)** ensure that any standards for compensation established under subsections (a) or (b) are comparable to the standards established under section 1831p–1 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title for insured depository institutions; and
 
@@ -12679,7 +12679,7 @@ The provisions of this section and the regulations issued under this section sha
 
 The requirements of this section shall not apply to covered financial institutions with assets of less than $1,000,000,000.
 
-(Pub. L. 111–203, title IX, § 956, July 21, 2010, 124 Stat. 1905.)
+(Pub. L. 111–203, title IX, § 956, July 21, 2010, 124 Stat. 1905.)
 
 **Editorial Notes**
 
@@ -12687,7 +12687,7 @@ The requirements of this section shall not apply to covered financial institutio
 
 Section 1831p–1 of this title, referred to in subsec. (c)(1), was in the original “section of the Federal Deposit Insurance Act (12 U.S.C. 2 1831p–1)”, and was translated as reading “section 39 of the Federal Deposit Insurance Act”, which is classified to section 1831p–1 of this title, to reflect the probable intent of Congress.
 
-The Gramm-Leach-Bliley Act, referred to in subsec. (d), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Subtitle A (§§ 501–510) of title V of the Act is classified principally to subchapter I (§ 6801 et seq.) of chapter 94 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
+The Gramm-Leach-Bliley Act, referred to in subsec. (d), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Subtitle A (§§ 501–510) of title V of the Act is classified principally to subchapter I (§ 6801 et seq.) of chapter 94 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 

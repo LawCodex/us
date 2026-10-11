@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2015—Pub. L. 114–92, div. A, title VIII, § 874(a)(2), Nov. 25, 2015, 129 Stat. 940, added item 9310.
+2015—Pub. L. 114–92, div. A, title VIII, § 874(a)(2), Nov. 25, 2015, 129 Stat. 940, added item 9310.
 
-## § 9301. Definitions
+## § 9301. Definitions
 
 In this chapter—
 
@@ -29,7 +29,7 @@ In this chapter—
 
 **(2)** “eligible obligation” means any security designated as acceptable in lieu of a surety bond by the Secretary of the Treasury.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1046; Pub. L. 109–351, title IX, § 901(a), Oct. 13, 2006, 120 Stat. 2007.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1046; Pub. L. 109–351, title IX, § 901(a), Oct. 13, 2006, 120 Stat. 2007.)
 
 **Historical and Revision Notes**
 
@@ -45,9 +45,9 @@ Clause (2) is substituted for 6:15(last sentence) for consistency and to elimina
 
 **Amendments**
 
-2006—Par. (2). Pub. L. 109–351 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘Government obligation’ means a public debt obligation of the United States Government and an obligation whose principal and interest is unconditionally guaranteed by the Government.”
+2006—Par. (2). Pub. L. 109–351 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘Government obligation’ means a public debt obligation of the United States Government and an obligation whose principal and interest is unconditionally guaranteed by the Government.”
 
-## § 9302. Prohibition against surety bonds for United States Government personnel
+## § 9302. Prohibition against surety bonds for United States Government personnel
 
 An agency (except a mixed-ownership Government corporation) may not require or obtain a surety bond for a member of the uniformed services or an officer or employee of the United States Government in carrying out official duties. This section does not affect the personal financial liability of the member, officer, or employee.
 
@@ -57,11 +57,11 @@ An agency (except a mixed-ownership Government corporation) may not require or o
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9302 | 31:1201. | June 6, 1972, Pub. L. 92–310, § 101, 86 Stat. 201. |
+| 9302 | 31:1201. | June 6, 1972, Pub. L. 92–310, § 101, 86 Stat. 201. |
 
 The words “agency (except a mixed-ownership Government corporation)” are substituted for 31:1201(c)(words before last comma) and “agency of the Federal Government” because of section 101 of the revised title and for consistency. The words “member of the uniformed services or an officer or employee of the United States Government” are substituted for “civilian employees or military personnel” for consistency with other titles of the United States Code. The words “in carrying out official duties” are substituted for “in connection with the performance of their official duties” to eliminate unnecessary words and because of the restatement. The words “to the Federal Government” are omitted as surplus. The words “member, officer, or employee” are substituted for “employees and personnel” because of the restatement.
 
-## § 9303. Use of eligible obligations instead of surety bonds
+## § 9303. Use of eligible obligations instead of surety bonds
 
 **(a)** If a person is required under a law of the United States to give a surety bond, the person may give an eligible obligation as security instead of a surety bond. The obligation shall—
 
@@ -117,7 +117,7 @@ The words “agency (except a mixed-ownership Government corporation)” are sub
 
 **(f)** To avoid frequent substitution of eligible obligations, the Secretary may prescribe regulations limiting the effect of this section to an eligible obligation maturing more than one year after the date the obligation is given as security.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1046; Pub. L. 107–217, § 3(h)(9), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–178, § 4(f)(2), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–351, title IX, § 901(b), (c), Oct. 13, 2006, 120 Stat. 2007.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1046; Pub. L. 107–217, § 3(h)(9), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–178, § 4(f)(2), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–351, title IX, § 901(b), (c), Oct. 13, 2006, 120 Stat. 2007.)
 
 **Historical and Revision Notes**
 
@@ -130,7 +130,7 @@ The words “agency (except a mixed-ownership Government corporation)” are sub
 | 9303(e) | 6:15(6th, 8th sentences). |  |
 | 9303(f) | 6:15(7th, 9th, 11th sentences). |  |
 
-In subsection (a), before clause (1), the words “If a person is required under a law of the United States to give a surety bond, the person may give a Government obligation as security instead of a surety bond” are substituted for “Wherever by the laws of the United States or regulations made pursuant thereto, any person is required to furnish any recognizance, stipulation, bond, guaranty, or undertaking, hereinafter called ‘penal bond’, with surety or sureties, such person may, in lieu of such surety or sureties, deposit as security . . . United States Liberty bonds or other bonds or notes of the United States” to eliminate unnecessary words and for consistency. The words “The obligation shall be” are added because of the restatement. Clause (3) is substituted for “together with an agreement authorizing such official to collect or sell such bonds or notes so deposited in case of any default in the performance of any of the conditions or stipulations of such penal bond” to eliminate unnecessary words.
+In subsection (a), before clause (1), the words “If a person is required under a law of the United States to give a surety bond, the person may give a Government obligation as security instead of a surety bond” are substituted for “Wherever by the laws of the United States or regulations made pursuant thereto, any person is required to furnish any recognizance, stipulation, bond, guaranty, or undertaking, hereinafter called ‘penal bond’, with surety or sureties, such person may, in lieu of such surety or sureties, deposit as security . . . United States Liberty bonds or other bonds or notes of the United States” to eliminate unnecessary words and for consistency. The words “The obligation shall be” are added because of the restatement. Clause (3) is substituted for “together with an agreement authorizing such official to collect or sell such bonds or notes so deposited in case of any default in the performance of any of the conditions or stipulations of such penal bond” to eliminate unnecessary words.
 
 In subsection (b)(1), before clause (A), the words “An official receiving a Government obligation under subsection (a) of this section may deposit it with” are substituted for “The bonds or notes deposited hereunder, and such other United States bonds or notes as may be substituted therefor from time to time as such security, may be deposited with” for clarity and consistency and to eliminate unnecessary words. Clause (A) is substituted for “Treasurer of the United States” because of the source provisions restated in section 321(c) of the revised title. In clause (C), the words “duly” and “for that purpose” are omitted as unnecessary.
 
@@ -148,21 +148,21 @@ In subsection (f), the words “in order” are omitted as unnecessary. The word
 
 **Amendments**
 
-2006—Pub. L. 109–351, § 901(c)(1), substituted “eligible obligations” for “Government obligations” in section catchline.
+2006—Pub. L. 109–351, § 901(c)(1), substituted “eligible obligations” for “Government obligations” in section catchline.
 
-Subsec. (a). Pub. L. 109–351, § 901(b), (c)(3), substituted “an eligible obligation” for “a Government obligation” in introductory provisions and amended par. (2) generally. Prior to amendment, par. (2) read as follows: “be in an amount equal at par value to the amount of the required surety bond; and”.
+Subsec. (a). Pub. L. 109–351, § 901(b), (c)(3), substituted “an eligible obligation” for “a Government obligation” in introductory provisions and amended par. (2) generally. Prior to amendment, par. (2) read as follows: “be in an amount equal at par value to the amount of the required surety bond; and”.
 
-Subsecs. (b) to (e). Pub. L. 109–351, § 901(c)(3), (4), substituted “an eligible obligation” for “a Government obligation” and “the eligible obligation” for “the Government obligation” wherever appearing.
+Subsecs. (b) to (e). Pub. L. 109–351, § 901(c)(3), (4), substituted “an eligible obligation” for “a Government obligation” and “the eligible obligation” for “the Government obligation” wherever appearing.
 
-Subsec. (f). Pub. L. 109–351, § 901(c)(2), (3), substituted “eligible obligations” for “Government obligations” and “an eligible obligation” for “a Government obligation”.
+Subsec. (f). Pub. L. 109–351, § 901(c)(2), (3), substituted “eligible obligations” for “Government obligations” and “an eligible obligation” for “a Government obligation”.
 
 2003—Subsec. (d)(1). Pub. L. 108–178 struck out comma after “sections 3131 and 3133 of title 40”.
 
-2002—Subsec. (d). Pub. L. 107–217, § 3(h)(9)(A), in introductory provisions substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d)” and “section 3133(a) of title 40” for “section 3 of the Act (40 U.S.C. 270c)”.
+2002—Subsec. (d). Pub. L. 107–217, § 3(h)(9)(A), in introductory provisions substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d)” and “section 3133(a) of title 40” for “section 3 of the Act (40 U.S.C. 270c)”.
 
-Subsec. (d)(1). Pub. L. 107–217, § 3(h)(9)(B), substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d)” and “section 3133(b) of title 40” for “section 2 of the Act (40 U.S.C. 270b)”.
+Subsec. (d)(1). Pub. L. 107–217, § 3(h)(9)(B), substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d)” and “section 3133(b) of title 40” for “section 2 of the Act (40 U.S.C. 270b)”.
 
-Subsec. (e)(2)(A). Pub. L. 107–217, § 3(h)(9)(C), substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d)”.
+Subsec. (e)(2)(A). Pub. L. 107–217, § 3(h)(9)(C), substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -170,7 +170,7 @@ Subsec. (e)(2)(A). Pub. L. 107–217, § 3(h)(9)(C), substituted “sections 3
 
 Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
-## § 9304. Surety corporations
+## § 9304. Surety corporations
 
 **(a)** When a law of the United States Government requires or permits a person to give a surety bond through a surety, the person satisfies the law if the surety bond is provided for the person by a corporation—
 
@@ -202,7 +202,7 @@ Subsection (a) is substituted for 6:6(1st sentence) to eliminate unnecessary wor
 
 In subsection (b), the words “Each surety bond” are substituted for “Such recognizance, stipulation, bond, or undertaking”, the words “official of the Government” are substituted for “head of department, court, judge, officer, board, or body executive, legislative, or judicial”, and the word “official” is substituted for “officer or person having the approval of any bond”, to eliminate unnecessary words and for clarity and consistency.
 
-## § 9305. Authority and revocation of authority of surety corporations
+## § 9305. Authority and revocation of authority of surety corporations
 
 **(a)** Before becoming a surety under section 9304 of this title, a surety corporation must file with the Secretary of the Treasury—
 
@@ -250,19 +250,19 @@ Subsection (b) is substituted for 6:8(2d sentence) for clarity and consistency a
 
 In subsection (c), the words “A surety corporation authorized under subsection (b) of this section to provide surety bonds” are substituted for “Every such company” for clarity. The words “as is required by section 8 of this title” are omitted as unnecessary because of the restatement.
 
-In subsection (d)(1), the word “shall” is substituted for “shall have the power, and it shall be his duty, to” to eliminate unnecessary words. The words “under sections 6 to 13 of this title” are omitted as unnecessary because of the restatement. The words “conducting its business” are omitted as surplus. In clause (3), the words “that . . . be given at any time” are omitted as surplus. The words “from the person required to provide a surety bond” are substituted for “by any principal” for clarity.
+In subsection (d)(1), the word “shall” is substituted for “shall have the power, and it shall be his duty, to” to eliminate unnecessary words. The words “under sections 6 to 13 of this title” are omitted as unnecessary because of the restatement. The words “conducting its business” are omitted as surplus. In clause (3), the words “that . . . be given at any time” are omitted as surplus. The words “from the person required to provide a surety bond” are substituted for “by any principal” for clarity.
 
 Subsection (e) is substituted for 6:11 to eliminate unnecessary words, for clarity and consistency, and because of the restatement.
 
-## § 9306. Surety corporations acting outside area of incorporation and place of principal office
+## § 9306. Surety corporations acting outside area of incorporation and place of principal office
 
 **(a)** A surety corporation may provide a surety bond under section 9304 of this title in a judicial district outside the State, the District of Columbia, or a territory or possession of the United States under whose laws it was incorporated and in which its principal office is located only if the corporation has a resident agent for service of process for that district. The resident agent—
 
 **(1)** may be an official of the State, the District of Columbia, the territory or possession in which the court sits who is authorized or appointed under the law of the State, District, territory or possession to receive service of process on the corporation; or
 
-**(2)** may be an individual who resides in the jurisdiction of the district court for the district in which a surety bond is to be provided and who is appointed by the corporation as provided in subsection (b) 1
+**(2)** may be an individual who resides in the jurisdiction of the district court for the district in which a surety bond is to be provided and who is appointed by the corporation as provided in subsection (b) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(b)** If the surety corporation meets the requirement of subsection (a) by appointing an individual under subsection (a)(2), the surety corporation shall file a certified copy of the power of attorney with the clerk of the district court for the district in which a surety bond is to be given at each place the court sits. A copy of the power of attorney may be used as evidence in a civil action under section 9307 of this title.
 
@@ -278,7 +278,7 @@ Subsection (e) is substituted for 6:11 to eliminate unnecessary words, for clari
 
 **(3)** A judgment or order of a court entered or made after service of process under this section is as valid as if the corporation were served in the judicial district of the court.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1048; Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5007], Nov. 29, 1999, 113 Stat. 1536, 1501A–594.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1048; Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5007], Nov. 29, 1999, 113 Stat. 1536, 1501A–594.)
 
 **Historical and Revision Notes**
 
@@ -288,7 +288,7 @@ Subsection (e) is substituted for 6:11 to eliminate unnecessary words, for clari
 
 In subsection (a), before clause (1), the words “in a judicial district” are added for clarity. The word “outside” is substituted for “beyond the limits” to eliminate unnecessary words. The words “territory or possession of the United States” are substituted for “Territory” for consistency in the revised title. The word “resident” is added for consistency.
 
-In subsection (b), the words “duly . . . and authenticated” are omitted as surplus. The words “in which a surety bond is to be given” are added for clarity and because of the restatement. The words “the court sits” are substituted for “where a term of such court is or may be held”, and the words “A copy of the power of attorney may be used as evidence in a civil action” are substituted for “which copy, or a certified copy thereof, shall be legal evidence in all controversies”, to eliminate unnecessary words and for clarity and consistency.
+In subsection (b), the words “duly . . . and authenticated” are omitted as surplus. The words “in which a surety bond is to be given” are added for clarity and because of the restatement. The words “the court sits” are substituted for “where a term of such court is or may be held”, and the words “A copy of the power of attorney may be used as evidence in a civil action” are substituted for “which copy, or a certified copy thereof, shall be legal evidence in all controversies”, to eliminate unnecessary words and for clarity and consistency.
 
 In subsection (c)(1), the words “a resident” are substituted for “any such” for clarity. The words “becomes disabled” are substituted for “become insane, or otherwise incapable of acting” to eliminate unnecessary words. The words “the surety corporation shall” are substituted for “it shall be the duty of such company to” to eliminate unnecessary words and for consistency. The words “in his place” are omitted as unnecessary.
 
@@ -300,7 +300,7 @@ In subsection (c)(3), the words “decree or” are omitted as being included in
 
 **Amendments**
 
-1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title V, § 5007(1)], substituted “has a resident agent for service of process for that district. The resident agent—” and pars. (1) and (2) for “designates a person by written power of attorney to be the resident agent of the corporation for that district. The designated person—
+1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title V, § 5007(1)], substituted “has a resident agent for service of process for that district. The resident agent—” and pars. (1) and (2) for “designates a person by written power of attorney to be the resident agent of the corporation for that district. The designated person—
 
 “(1) may appear for the surety corporation;
 
@@ -310,9 +310,9 @@ In subsection (c)(3), the words “decree or” are omitted as being included in
 
 “(4) must be a domiciliary of the State, the District of Columbia, territory, or possession in which the court sits.”
 
-Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title V, § 5007(2)], substituted “If the surety corporation meets the requirement of subsection (a) by appointing an individual under subsection (a)(2), the” for “The”.
+Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title V, § 5007(2)], substituted “If the surety corporation meets the requirement of subsection (a) by appointing an individual under subsection (a)(2), the” for “The”.
 
-## § 9307. Civil actions and judgments against surety corporations
+## § 9307. Civil actions and judgments against surety corporations
 
 **(a)**
 
@@ -349,7 +349,7 @@ In subsection (a)(2), before clause (A), the words “a surety bond is deemed to
 
 Subsection (b) is substituted for 6:12 to eliminate unnecessary words and for consistency.
 
-## § 9308. Civil penalty
+## § 9308. Civil penalty
 
 A surety corporation is liable to the United States Government for a civil penalty of at least $500 but not more than $5,000 for violating section 9304, 9305, or 9306 of this title. A civil action under this section may be brought in a judicial district in which a civil action may be brought against the corporation under section 9307 of this title. A penalty imposed under this section does not affect the validity of a contract made by the surety corporation.
 
@@ -363,7 +363,7 @@ A surety corporation is liable to the United States Government for a civil penal
 
 The section is substituted for 6:13 for clarity and consistency.
 
-## § 9309. Priority of sureties
+## § 9309. Priority of sureties
 
 When a person required to provide a surety bond given to the United States Government is insolvent or dies having assets insufficient to pay debts, the surety, or the executor, administrator, or assignee of the surety paying the Government the amount due under the bond—
 
@@ -377,11 +377,11 @@ When a person required to provide a surety bond given to the United States Gover
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9309 | 31:193. | R.S. § 3468. |
+| 9309 | 31:193. | R.S. § 3468. |
 
 In the section, before clause (1), the words “person required to provide a surety bond” are substituted for “principal in any bond” for clarity and consistency. The words “dies having assets insufficient to pay debts” are substituted for “whenever, such principal being deceased, his estate and effects which come to the hands of his executor, administrator, or assignee, are insufficient for the payment of his debts” to eliminate unnecessary words. The words “and, in either of such cases”, “on the bond”, and “such surety, his executor, administrator, or assignee” are omitted as unnecessary. Clause (1) is substituted for “shall have the like priority for the recovery and receipt of the moneys out of the estate and effects of such insolvent or deceased principal as is secured to the United States” to eliminate unnecessary words and for clarity. In clause (2), the words “and maintain” are omitted as surplus. The words “civil action” are substituted for “suit” for consistency. The words “in law or equity” are omitted as surplus.
 
-## § 9310. Individual sureties
+## § 9310. Individual sureties
 
 If another applicable Federal law or regulation permits the acceptance of a bond from a surety that is not subject to sections 9305 and 9306 and is based on a pledge of assets by the surety, the assets pledged by such surety shall—
 
@@ -389,7 +389,7 @@ If another applicable Federal law or regulation permits the acceptance of a bond
 
 **(2)** be submitted to the official of the Government required to approve or accept the bond, who shall deposit the obligations as described under section 9303(b).
 
-(Added Pub. L. 114–92, div. A, title VIII, § 874(a)(1), Nov. 25, 2015, 129 Stat. 940.)
+(Added Pub. L. 114–92, div. A, title VIII, § 874(a)(1), Nov. 25, 2015, 129 Stat. 940.)
 
 **Statutory Notes and Related Subsidiaries**
 

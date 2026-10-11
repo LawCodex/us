@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1978—Pub. L. 95–454, title II, § 205, Oct. 13, 1978, 92 Stat. 1138, substituted “Appellate procedures” for “Appeals of preference eligibles” in item 7701, and added items 7702 and 7703.
+1978—Pub. L. 95–454, title II, § 205, Oct. 13, 1978, 92 Stat. 1138, substituted “Appellate procedures” for “Appeals of preference eligibles” in item 7701, and added items 7702 and 7703.
 
-## § 7701. Appellate procedures
+## § 7701. Appellate procedures
 
 **(a)** An employee, or applicant for employment, may submit an appeal to the Merit Systems Protection Board from any action which is appealable to the Board under any law, rule, or regulation. An appellant shall have the right—
 
@@ -123,13 +123,13 @@ if the deciding official or officials hearing the cases are of the opinion that 
 
 **(k)** The Board may prescribe regulations to carry out the purpose of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 95–454, title II, § 205, Oct. 13, 1978, 92 Stat. 1138; Pub. L. 96–54, § 2(a)(45), Aug. 14, 1979, 93 Stat. 384; Pub. L. 99–386, title II, § 208, Aug. 22, 1986, 100 Stat. 824; Pub. L. 101–12, § 6, Apr. 10, 1989, 103 Stat. 33; Pub. L. 101–194, title V, § 506(b)(6), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–280, § 6(d)(2), May 4, 1990, 104 Stat. 160; Pub. L. 101–376, § 3, Aug. 17, 1990, 104 Stat. 462; Pub. L. 102–175, § 5, Dec. 2, 1991, 105 Stat. 1223; Pub. L. 102–378, § 2(56), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 107–296, title XIII, § 1321(a)(3), Nov. 25, 2002, 116 Stat. 2297.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 95–454, title II, § 205, Oct. 13, 1978, 92 Stat. 1138; Pub. L. 96–54, § 2(a)(45), Aug. 14, 1979, 93 Stat. 384; Pub. L. 99–386, title II, § 208, Aug. 22, 1986, 100 Stat. 824; Pub. L. 101–12, § 6, Apr. 10, 1989, 103 Stat. 33; Pub. L. 101–194, title V, § 506(b)(6), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–280, § 6(d)(2), May 4, 1990, 104 Stat. 160; Pub. L. 101–376, § 3, Aug. 17, 1990, 104 Stat. 462; Pub. L. 102–175, § 5, Dec. 2, 1991, 105 Stat. 1223; Pub. L. 102–378, § 2(56), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 107–296, title XIII, § 1321(a)(3), Nov. 25, 2002, 116 Stat. 2297.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 863 (less 1st 168 words, and less 2d proviso). | June 27, 1944, ch. 287, § 14 (less 1st 168 words, and less 2d proviso), 58 Stat. 390. Aug. 4, 1947, ch. 447, 61 Stat. 723. |
+|  | 5 U.S.C. 863 (less 1st 168 words, and less 2d proviso). | June 27, 1944, ch. 287, § 14 (less 1st 168 words, and less 2d proviso), 58 Stat. 390. Aug. 4, 1947, ch. 447, 61 Stat. 723. |
 |  | 5 U.S.C. 868 (proviso). | June 22, 1948, ch. 604, 62 Stat. 575. |
 
 The application of the section is established by the words “A preference eligible employee as defined by section 7511 of this title”. Specific mention of the actions appealable are covered by the reference to “an adverse decision under section 7512 of this title”. The words “administrative authority” are substituted for “administrative officer” to avoid conflict with the definitions of “employee” and “officer” in chapter 21 of this title and to include an individual who is employed by the government of the District of Columbia or who is a member of a uniformed service as such an individual could have been an “administrative officer” under former section 863. The words “the date of” in the phrase “after the date of receipt of notice” are omitted as unnecessary. The words “reasonable rules and” in the phrase “reasonable rules and regulations” are omitted as unnecessary. The word “proper” in the phrase “proper administrative officer” is omitted as unnecessary. The word “designated” in the phrase “designated representative” is omitted as unnecessary.
@@ -156,11 +156,11 @@ Subsec. (c)(1)(A). Pub. L. 101–194, as amended by Pub. L. 101–280, which dir
 
 1986—Subsec. (i)(2). Pub. L. 99–386 substituted “fiscal” for “calendar”.
 
-1979—Subsec. (e)(1). Pub. L. 96–54, § 2(a)(45)(A), substituted “administrative” for “administration”.
+1979—Subsec. (e)(1). Pub. L. 96–54, § 2(a)(45)(A), substituted “administrative” for “administration”.
 
-Subsec. (g)(1). Pub. L. 96–54, § 2(a)(45)(B), substituted “(as the case may be)” for “, as the case may be,”.
+Subsec. (g)(1). Pub. L. 96–54, § 2(a)(45)(B), substituted “(as the case may be)” for “, as the case may be,”.
 
-Subsec. (h). Pub. L. 96–54, § 2(a)(45)(C), substituted “subsection (e)” for “subsection (d)”.
+Subsec. (h). Pub. L. 96–54, § 2(a)(45)(C), substituted “subsection (e)” for “subsection (d)”.
 
 1978—Pub. L. 95–454 substituted “Appellate procedures” for “Appeals of preference eligibles” in section catchline, and in text substituted provisions relating to procedures applicable with respect to the Merit Systems Protection Board for an employee or applicant for employment, for provisions relating to appeals of preference eligible employees.
 
@@ -202,7 +202,7 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (i)(
 
 Ex. Ord. No. 11787, June 11, 1974, 39 F.R. 20675; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which provided that the appeals system established by the Merit Systems Protection Board is the sole system of appeal for an employee covered by that appeal system, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
-## § 7702. Actions involving discrimination
+## § 7702. Actions involving discrimination
 
 **(a)**
 
@@ -330,7 +330,7 @@ an employee shall be entitled to file a civil action to the same extent and in t
 
 **(f)** In any case in which an employee is required to file any action, appeal, or petition under this section and the employee timely files the action, appeal, or petition with an agency other than the agency with which the action, appeal, or petition is to be filed, the employee shall be treated as having timely filed the action, appeal, or petition as of the date it is filed with the proper agency.
 
-(Added Pub. L. 95–454, title II, § 205, Oct. 13, 1978, 92 Stat. 1140; amended Pub. L. 96–54, § 2(a)(46), Aug. 14, 1979, 93 Stat. 384.)
+(Added Pub. L. 95–454, title II, § 205, Oct. 13, 1978, 92 Stat. 1140; amended Pub. L. 96–54, § 2(a)(46), Aug. 14, 1979, 93 Stat. 384.)
 
 **Editorial Notes**
 
@@ -340,11 +340,11 @@ The General Schedule, referred to in subsec. (d)(6)(B), is set out under section
 
 **Amendments**
 
-1979—Subsec. (a)(1)(A). Pub. L. 96–54, § 2(a)(46)(A), substituted “affected” for “effected”.
+1979—Subsec. (a)(1)(A). Pub. L. 96–54, § 2(a)(46)(A), substituted “affected” for “effected”.
 
-Subsec. (a)(1)(B)(i). Pub. L. 96–54, § 2(a)(46)(B), substituted “2000e–16” for “2000e–16c”.
+Subsec. (a)(1)(B)(i). Pub. L. 96–54, § 2(a)(46)(B), substituted “2000e–16” for “2000e–16c”.
 
-Subsec. (e)(1). Pub. L. 96–54, § 2(a)(46)(C), (D), substituted “of this section” for “of this title” in subpar. (C), and “216(b)” for “216(d)” in provision following subpar. (C).
+Subsec. (e)(1). Pub. L. 96–54, § 2(a)(46)(C), (D), substituted “of this section” for “of this title” in subpar. (C), and “216(b)” for “216(d)” in provision following subpar. (C).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -356,7 +356,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-## § 7703. Judicial review of decisions of the Merit Systems Protection Board
+## § 7703. Judicial review of decisions of the Merit Systems Protection Board
 
 **(a)**
 
@@ -390,39 +390,39 @@ except that in the case of discrimination brought under any section referred to 
 
 **(2)** This paragraph shall apply to any review obtained by the Director of the Office of Personnel Management that raises no challenge to the Board’s disposition of allegations of a prohibited personnel practice described in section 2302(b) other than practices described in section 2302(b)(8), or 2302(b)(9)(A)(i), (B), (C), or (D). The Director may obtain review of any final order or decision of the Board by filing, within 60 days after the Board issues notice of the final order or decision of the Board, a petition for judicial review in the United States Court of Appeals for the Federal Circuit or any court of appeals of competent jurisdiction if the Director determines, in the discretion of the Director, that the Board erred in interpreting a civil service law, rule, or regulation affecting personnel management and that the Board’s decision will have a substantial impact on a civil service law, rule, regulation, or policy directive. If the Director did not intervene in a matter before the Board, the Director may not petition for review of a Board decision under this section unless the Director first petitions the Board for a reconsideration of its decision, and such petition is denied. In addition to the named respondent, the Board and all other parties to the proceedings before the Board shall have the right to appear in the proceeding before the court of appeals. The granting of the petition for judicial review shall be at the discretion of the court of appeals.
 
-(Added Pub. L. 95–454, title II, § 205, Oct. 13, 1978, 92 Stat. 1143; amended Pub. L. 97–164, title I, § 144, Apr. 2, 1982, 96 Stat. 45; Pub. L. 101–12, § 10, Apr. 10, 1989, 103 Stat. 35; Pub. L. 105–311, § 10(a), Oct. 30, 1998, 112 Stat. 2954; Pub. L. 112–199, title I, § 108, Nov. 27, 2012, 126 Stat. 1469; Pub. L. 113–170, § 2, Sept. 26, 2014, 128 Stat. 1894; Pub. L. 115–195, § 2(a), (b), July 7, 2018, 132 Stat. 1510.)
+(Added Pub. L. 95–454, title II, § 205, Oct. 13, 1978, 92 Stat. 1143; amended Pub. L. 97–164, title I, § 144, Apr. 2, 1982, 96 Stat. 45; Pub. L. 101–12, § 10, Apr. 10, 1989, 103 Stat. 35; Pub. L. 105–311, § 10(a), Oct. 30, 1998, 112 Stat. 2954; Pub. L. 112–199, title I, § 108, Nov. 27, 2012, 126 Stat. 1469; Pub. L. 113–170, § 2, Sept. 26, 2014, 128 Stat. 1894; Pub. L. 115–195, § 2(a), (b), July 7, 2018, 132 Stat. 1510.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (b)(1)(B). Pub. L. 115–195, § 2(a), substituted “A petition” for “During the 5-year period beginning on the effective date of the Whistleblower Protection Enhancement Act of 2012, a petition”.
+2018—Subsec. (b)(1)(B). Pub. L. 115–195, § 2(a), substituted “A petition” for “During the 5-year period beginning on the effective date of the Whistleblower Protection Enhancement Act of 2012, a petition”.
 
-Subsec. (d)(2). Pub. L. 115–195, § 2(b), substituted “This paragraph” for “During the 5-year period beginning on the effective date of the Whistleblower Protection Enhancement Act of 2012, this paragraph”.
+Subsec. (d)(2). Pub. L. 115–195, § 2(b), substituted “This paragraph” for “During the 5-year period beginning on the effective date of the Whistleblower Protection Enhancement Act of 2012, this paragraph”.
 
 2014—Subsecs. (b)(1)(B), (d)(2). Pub. L. 113–170 substituted “5-year” for “2-year”.
 
-2012—Subsec. (b)(1). Pub. L. 112–199, § 108(a), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (2) of this subsection, a petition to review a final order or final decision of the Board shall be filed in the United States Court of Appeals for the Federal Circuit. Notwithstanding any other provision of law, any petition for review must be filed within 60 days after the date the petitioner received notice of the final order or decision of the Board.”
+2012—Subsec. (b)(1). Pub. L. 112–199, § 108(a), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (2) of this subsection, a petition to review a final order or final decision of the Board shall be filed in the United States Court of Appeals for the Federal Circuit. Notwithstanding any other provision of law, any petition for review must be filed within 60 days after the date the petitioner received notice of the final order or decision of the Board.”
 
-Subsec. (d). Pub. L. 112–199, § 108(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Director of the Office of Personnel Management may obtain review of any final order or decision of the Board by filing, within 60 days after the date the Director received notice of the final order or decision of the Board, a petition for judicial review in the United States Court of Appeals for the Federal Circuit if the Director determines, in his discretion, that the Board erred in interpreting a civil service law, rule, or regulation affecting personnel management and that the Board’s decision will have a substantial impact on a civil service law, rule, regulation, or policy directive. If the Director did not intervene in a matter before the Board, the Director may not petition for review of a Board decision under this section unless the Director first petitions the Board for a reconsideration of its decision, and such petition is denied. In addition to the named respondent, the Board and all other parties to the proceedings before the Board shall have the right to appear in the proceeding before the Court of Appeals. The granting of the petition for judicial review shall be at the discretion of the Court of Appeals.”
+Subsec. (d). Pub. L. 112–199, § 108(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Director of the Office of Personnel Management may obtain review of any final order or decision of the Board by filing, within 60 days after the date the Director received notice of the final order or decision of the Board, a petition for judicial review in the United States Court of Appeals for the Federal Circuit if the Director determines, in his discretion, that the Board erred in interpreting a civil service law, rule, or regulation affecting personnel management and that the Board’s decision will have a substantial impact on a civil service law, rule, regulation, or policy directive. If the Director did not intervene in a matter before the Board, the Director may not petition for review of a Board decision under this section unless the Director first petitions the Board for a reconsideration of its decision, and such petition is denied. In addition to the named respondent, the Board and all other parties to the proceedings before the Board shall have the right to appear in the proceeding before the Court of Appeals. The granting of the petition for judicial review shall be at the discretion of the Court of Appeals.”
 
-1998—Subsec. (b)(1). Pub. L. 105–311, § 10(a)(1), substituted “within 60 days” for “within 30 days”.
+1998—Subsec. (b)(1). Pub. L. 105–311, § 10(a)(1), substituted “within 60 days” for “within 30 days”.
 
-Subsec. (d). Pub. L. 105–311, § 10(a)(2), in first sentence, inserted “, within 60 days after the date the Director received notice of the final order or decision of the Board,” after “filing”.
+Subsec. (d). Pub. L. 105–311, § 10(a)(2), in first sentence, inserted “, within 60 days after the date the Director received notice of the final order or decision of the Board,” after “filing”.
 
 1989—Subsec. (a)(2). Pub. L. 101–12 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Board shall be the named respondent in any proceeding brought pursuant to this subsection, unless the employee or applicant for employment seeks review of a final order or decision issued by the Board under section 7701. In review of a final order or decision issued under section 7701, the agency responsible for taking the action appealed to the Board shall be the named respondent.”
 
-1982—Subsec. (b)(1). Pub. L. 97–164, § 144(1), substituted “United States Court of Appeals for the Federal Circuit” for “Court of Claims or a United States court of appeals as provided in chapters 91 and 158, respectively, of title 28”.
+1982—Subsec. (b)(1). Pub. L. 97–164, § 144(1), substituted “United States Court of Appeals for the Federal Circuit” for “Court of Claims or a United States court of appeals as provided in chapters 91 and 158, respectively, of title 28”.
 
-Subsec. (c). Pub. L. 97–164, § 144(2), substituted “Court of Appeals for the Federal Circuit” for “Court of Claims or a United States court of appeals”.
+Subsec. (c). Pub. L. 97–164, § 144(2), substituted “Court of Appeals for the Federal Circuit” for “Court of Claims or a United States court of appeals”.
 
-Subsec. (d). Pub. L. 97–164, § 144(3), substituted “United States Court of Appeals for the Federal Circuit” for “United States Court of Appeals for the District of Columbia”.
+Subsec. (d). Pub. L. 97–164, § 144(3), substituted “United States Court of Appeals for the Federal Circuit” for “United States Court of Appeals for the District of Columbia”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–195, § 2(c), July 7, 2018, 132 Stat. 1510, provided that: “The amendments made by this section [amending this section] shall take effect as if enacted on November 26, 2017.”
+Pub. L. 115–195, § 2(c), July 7, 2018, 132 Stat. 1510, provided that: “The amendments made by this section [amending this section] shall take effect as if enacted on November 26, 2017.”
 
 **Effective Date of 2012 Amendment**
 
@@ -430,7 +430,7 @@ Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see sectio
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–311, § 10(b), Oct. 30, 1998, 112 Stat. 2954, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Oct. 30, 1998], and apply to any suit, action, or other administrative or judicial proceeding pending on such date or commenced on or after such date.”
+Pub. L. 105–311, § 10(b), Oct. 30, 1998, 112 Stat. 2954, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Oct. 30, 1998], and apply to any suit, action, or other administrative or judicial proceeding pending on such date or commenced on or after such date.”
 
 **Effective Date of 1989 Amendment**
 

@@ -17,11 +17,11 @@ retrieved: 2026-10-11
 
 **Codification**
 
-The Federal Water Pollution Control Act, comprising this chapter, was originally enacted by act June 30, 1948, ch. 758, 62 Stat. 1155, and amended by acts July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, §§ 1, 2, 70 Stat. 498–507; June 25, 1959, Pub. L. 86–70, 73 Stat. 141; July 12, 1960, Pub. L. 86–624, 74 Stat. 411; July 20, 1961, Pub. L. 87–88, 75 Stat. 204; Oct. 2, 1965, Pub. L. 89–234, 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, 80 Stat. 1246; Apr. 3, 1970, Pub. L. 91–224, 84 Stat. 91; Dec. 31, 1970, Pub. L. 91–611, 84 Stat. 1818; July 9, 1971, Pub. L. 92–50, 85 Stat. 124; Oct. 13, 1971, Pub. L. 92–137, 85 Stat. 379; Mar. 1, 1972, Pub. L. 92–240, 86 Stat. 47, and was formerly classified first to section 466 et seq. of this title and later to section 1151 et seq. of this title. The act is shown herein, however, as having been added by Pub. L. 92–500 without reference to such intervening amendments because of the extensive amendment, reorganization, and expansion of the act’s provisions by Pub. L. 92–500.
+The Federal Water Pollution Control Act, comprising this chapter, was originally enacted by act June 30, 1948, ch. 758, 62 Stat. 1155, and amended by acts July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, §§ 1, 2, 70 Stat. 498–507; June 25, 1959, Pub. L. 86–70, 73 Stat. 141; July 12, 1960, Pub. L. 86–624, 74 Stat. 411; July 20, 1961, Pub. L. 87–88, 75 Stat. 204; Oct. 2, 1965, Pub. L. 89–234, 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, 80 Stat. 1246; Apr. 3, 1970, Pub. L. 91–224, 84 Stat. 91; Dec. 31, 1970, Pub. L. 91–611, 84 Stat. 1818; July 9, 1971, Pub. L. 92–50, 85 Stat. 124; Oct. 13, 1971, Pub. L. 92–137, 85 Stat. 379; Mar. 1, 1972, Pub. L. 92–240, 86 Stat. 47, and was formerly classified first to section 466 et seq. of this title and later to section 1151 et seq. of this title. The act is shown herein, however, as having been added by Pub. L. 92–500 without reference to such intervening amendments because of the extensive amendment, reorganization, and expansion of the act’s provisions by Pub. L. 92–500.
 
 ## SUBCHAPTER I—RESEARCH AND RELATED PROGRAMS
 
-### § 1251. Congressional declaration of goals and policy
+### § 1251. Congressional declaration of goals and policy
 
 **(a) Restoration and maintenance of chemical, physical and biological integrity of Nation’s waters; national goals for achievement of objective** The objective of this chapter is to restore and maintain the chemical, physical, and biological integrity of the Nation’s waters. In order to achieve this objective it is hereby declared that, consistent with the provisions of this chapter—
 
@@ -63,7 +63,7 @@ It is the national policy that to the maximum extent possible the procedures uti
 
 It is the policy of Congress that the authority of each State to allocate quantities of water within its jurisdiction shall not be superseded, abrogated or otherwise impaired by this chapter. It is the further policy of Congress that nothing in this chapter shall be construed to supersede or abrogate rights to quantities of water which have been established by any State. Federal agencies shall co-operate with State and local agencies to develop comprehensive solutions to prevent, reduce and eliminate pollution in concert with programs for managing water resources.
 
-(June 30, 1948, ch. 758, title I, § 101, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816; amended Pub. L. 95–217, §§ 5(a), 26(b), Dec. 27, 1977, 91 Stat. 1567, 1575; Pub. L. 100–4, title III, § 316(b), Feb. 4, 1987, 101 Stat. 60.)
+(June 30, 1948, ch. 758, title I, § 101, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816; amended Pub. L. 95–217, §§ 5(a), 26(b), Dec. 27, 1977, 91 Stat. 1567, 1575; Pub. L. 100–4, title III, § 316(b), Feb. 4, 1987, 101 Stat. 60.)
 
 **Editorial Notes**
 
@@ -71,99 +71,99 @@ It is the policy of Congress that the authority of each State to allocate quanti
 
 1987—Subsec. (a)(7). Pub. L. 100–4 added par. (7).
 
-1977—Subsec. (b). Pub. L. 95–217, § 26(b), inserted provisions expressing Congressional policy that the States manage the construction grant program under this chapter and implement the permit program under sections 1342 and 1344 of this title.
+1977—Subsec. (b). Pub. L. 95–217, § 26(b), inserted provisions expressing Congressional policy that the States manage the construction grant program under this chapter and implement the permit program under sections 1342 and 1344 of this title.
 
-Subsec. (g). Pub. L. 95–217, § 5(a), added subsec. (g).
+Subsec. (g). Pub. L. 95–217, § 5(a), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–152, § 1, Dec. 17, 2024, 138 Stat. 1686, provided that: “This Act [amending section 1330 of this title] may be cited as the ‘Pensacola and Perdido Bays Estuary of National Significance Act of 2024’.”
+Pub. L. 118–152, § 1, Dec. 17, 2024, 138 Stat. 1686, provided that: “This Act [amending section 1330 of this title] may be cited as the ‘Pensacola and Perdido Bays Estuary of National Significance Act of 2024’.”
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 117–58, div. E, § 50001, Nov. 15, 2021, 135 Stat. 1135, provided that: “This division [see Tables for classification] may be cited as the ‘Drinking Water and Wastewater Infrastructure Act of 2021’.”
+Pub. L. 117–58, div. E, § 50001, Nov. 15, 2021, 135 Stat. 1135, provided that: “This division [see Tables for classification] may be cited as the ‘Drinking Water and Wastewater Infrastructure Act of 2021’.”
 
-Pub. L. 116–337, § 1, Jan. 13, 2021, 134 Stat. 5120, provided that: “This Act [amending section 1330 of this title] may be cited as the ‘Protect and Restore America’s Estuaries Act’.”
+Pub. L. 116–337, § 1, Jan. 13, 2021, 134 Stat. 5120, provided that: “This Act [amending section 1330 of this title] may be cited as the ‘Protect and Restore America’s Estuaries Act’.”
 
-Pub. L. 116–294, § 1, Jan. 5, 2021, 134 Stat. 4899, provided that: “This Act [amending section 1268 of this title] may be cited as the ‘Great Lakes Restoration Initiative Act of 2019’ or the ‘GLRI Act of 2019’.”
+Pub. L. 116–294, § 1, Jan. 5, 2021, 134 Stat. 4899, provided that: “This Act [amending section 1268 of this title] may be cited as the ‘Great Lakes Restoration Initiative Act of 2019’ or the ‘GLRI Act of 2019’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 115–436, § 1, Jan. 14, 2019, 132 Stat. 5558, provided that: “This Act [enacting section 1377a of this title and section 4370j of Title 42, The Public Health and Welfare, amending sections 1319, 1342, and 1362 of this title, enacting provisions set out as a note under section 4370j of Title 42, and renumbering provisions set out as a note under this section] may be cited as the ‘Water Infrastructure Improvement Act’.”
+Pub. L. 115–436, § 1, Jan. 14, 2019, 132 Stat. 5558, provided that: “This Act [enacting section 1377a of this title and section 4370j of Title 42, The Public Health and Welfare, amending sections 1319, 1342, and 1362 of this title, enacting provisions set out as a note under section 4370j of Title 42, and renumbering provisions set out as a note under this section] may be cited as the ‘Water Infrastructure Improvement Act’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–282, title IX, § 901, Dec. 4, 2018, 132 Stat. 4322, provided that: “This title [enacting sections 4729 and 4730 of Title 16, Conservation, amending sections 1319, 1322, 1365, and 1369 of this title, sections 4712 and 4725 of Title 16, section 42 of Title 18, Crimes and Criminal Procedure, and section 11301 of Title 46, Shipping, repealing section 4711 of Title 16, enacting provisions set out as a note under section 1322 of this title and section 4711 of Title 16, and repealing provisions set out as a note under section 1342 of this title] may be cited as the ‘Vessel Incidental Discharge Act of 2018’.”
+Pub. L. 115–282, title IX, § 901, Dec. 4, 2018, 132 Stat. 4322, provided that: “This title [enacting sections 4729 and 4730 of Title 16, Conservation, amending sections 1319, 1322, 1365, and 1369 of this title, sections 4712 and 4725 of Title 16, section 42 of Title 18, Crimes and Criminal Procedure, and section 11301 of Title 46, Shipping, repealing section 4711 of Title 16, enacting provisions set out as a note under section 1322 of this title and section 4711 of Title 16, and repealing provisions set out as a note under section 1342 of this title] may be cited as the ‘Vessel Incidental Discharge Act of 2018’.”
 
 **Short Title of 2017 Amendment**
 
-Pub. L. 115–91, div. C, title XXXV, § 3508(a), Dec. 12, 2017, 131 Stat. 1915, provided that: “This section [amending sections 1321, 2701, and 2715 of this title] may be cited as the ‘Foreign Spill Protection Act of 2017’.”
+Pub. L. 115–91, div. C, title XXXV, § 3508(a), Dec. 12, 2017, 131 Stat. 1915, provided that: “This section [amending sections 1321, 2701, and 2715 of this title] may be cited as the ‘Foreign Spill Protection Act of 2017’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–365, § 1, Oct. 8, 2008, 122 Stat. 4021, provided that: “This Act [amending sections 1268 and 1271a of this title] may be cited as the ‘Great Lakes Legacy Reauthorization Act of 2008’.”
+Pub. L. 110–365, § 1, Oct. 8, 2008, 122 Stat. 4021, provided that: “This Act [amending sections 1268 and 1271a of this title] may be cited as the ‘Great Lakes Legacy Reauthorization Act of 2008’.”
 
-Pub. L. 110–288, § 1, July 29, 2008, 122 Stat. 2650, provided that: “This Act [amending sections 1322, 1342, and 1362 of this title] may be cited as the ‘Clean Boating Act of 2008’.”
+Pub. L. 110–288, § 1, July 29, 2008, 122 Stat. 2650, provided that: “This Act [amending sections 1322, 1342, and 1362 of this title] may be cited as the ‘Clean Boating Act of 2008’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–303, § 1(a), Nov. 27, 2002, 116 Stat. 2355, provided that: “This Act [enacting section 1271a of this title, amending sections 1254, 1266, 1268, 1270, 1285, 1290, 1324, 1329, 1330, and 1375 of this title, enacting provisions set out as notes under this section, section 1254 of this title, and section 1113 of Title 31, Money and Finance, and repealing provisions set out as a note under section 50 of Title 20, Education] may be cited as the ‘Great Lakes and Lake Champlain Act of 2002’.”
+Pub. L. 107–303, § 1(a), Nov. 27, 2002, 116 Stat. 2355, provided that: “This Act [enacting section 1271a of this title, amending sections 1254, 1266, 1268, 1270, 1285, 1290, 1324, 1329, 1330, and 1375 of this title, enacting provisions set out as notes under this section, section 1254 of this title, and section 1113 of Title 31, Money and Finance, and repealing provisions set out as a note under section 50 of Title 20, Education] may be cited as the ‘Great Lakes and Lake Champlain Act of 2002’.”
 
-Pub. L. 107–303, title I, § 101, Nov. 27, 2002, 116 Stat. 2355, provided that: “This title [enacting section 1271a of this title and amending section 1268 of this title] may be cited as the ‘Great Lakes Legacy Act of 2002’.”
+Pub. L. 107–303, title I, § 101, Nov. 27, 2002, 116 Stat. 2355, provided that: “This title [enacting section 1271a of this title and amending section 1268 of this title] may be cited as the ‘Great Lakes Legacy Act of 2002’.”
 
-Pub. L. 107–303, title II, § 201, Nov. 27, 2002, 116 Stat. 2358, provided that: “This title [amending section 1270 of this title] may be cited as the ‘Daniel Patrick Moynihan Lake Champlain Basin Program Act of 2002’.”
+Pub. L. 107–303, title II, § 201, Nov. 27, 2002, 116 Stat. 2358, provided that: “This title [amending section 1270 of this title] may be cited as the ‘Daniel Patrick Moynihan Lake Champlain Basin Program Act of 2002’.”
 
 **Short Title of 2000 Amendments**
 
-Pub. L. 106–457, title II, § 201, Nov. 7, 2000, 114 Stat. 1967, provided that: “This title [amending section 1267 of this title and enacting provisions set out as a note under section 1267 of this title] may be cited as the ‘Chesapeake Bay Restoration Act of 2000’.”
+Pub. L. 106–457, title II, § 201, Nov. 7, 2000, 114 Stat. 1967, provided that: “This title [amending section 1267 of this title and enacting provisions set out as a note under section 1267 of this title] may be cited as the ‘Chesapeake Bay Restoration Act of 2000’.”
 
-Pub. L. 106–457, title IV, § 401, Nov. 7, 2000, 114 Stat. 1973, provided that: “This title [amending section 1269 of this title] may be cited as the ‘Long Island Sound Restoration Act’.”
+Pub. L. 106–457, title IV, § 401, Nov. 7, 2000, 114 Stat. 1973, provided that: “This title [amending section 1269 of this title] may be cited as the ‘Long Island Sound Restoration Act’.”
 
-Pub. L. 106–457, title V, § 501, Nov. 7, 2000, 114 Stat. 1973, provided that: “This title [enacting section 1273 of this title] may be cited as the ‘Lake Pontchartrain Basin Restoration Act of 2000’.”
+Pub. L. 106–457, title V, § 501, Nov. 7, 2000, 114 Stat. 1973, provided that: “This title [enacting section 1273 of this title] may be cited as the ‘Lake Pontchartrain Basin Restoration Act of 2000’.”
 
-Pub. L. 106–457, title VI, § 601, Nov. 7, 2000, 114 Stat. 1975, provided that: “This title [enacting section 1300 of this title] may be cited as the ‘Alternative Water Sources Act of 2000’.”
+Pub. L. 106–457, title VI, § 601, Nov. 7, 2000, 114 Stat. 1975, provided that: “This title [enacting section 1300 of this title] may be cited as the ‘Alternative Water Sources Act of 2000’.”
 
-Pub. L. 106–284, § 1, Oct. 10, 2000, 114 Stat. 870, provided that: “This Act [enacting sections 1346 and 1375a of this title and amending sections 1254, 1313, 1314, 1362, and 1377 of this title] may be cited as the ‘Beaches Environmental Assessment and Coastal Health Act of 2000’.”
+Pub. L. 106–284, § 1, Oct. 10, 2000, 114 Stat. 870, provided that: “This Act [enacting sections 1346 and 1375a of this title and amending sections 1254, 1313, 1314, 1362, and 1377 of this title] may be cited as the ‘Beaches Environmental Assessment and Coastal Health Act of 2000’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–431, § 1, Oct. 31, 1994, 108 Stat. 4396, provided that: “This Act [amending section 1311 of this title] may be cited as the ‘Ocean Pollution Reduction Act’.”
+Pub. L. 103–431, § 1, Oct. 31, 1994, 108 Stat. 4396, provided that: “This Act [amending section 1311 of this title] may be cited as the ‘Ocean Pollution Reduction Act’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–596, § 1, Nov. 16, 1990, 104 Stat. 3000, provided that: “This Act [enacting sections 1269 and 1270 of this title, amending sections 1268, 1324, and 1416 of this title, and enacting provisions set out as notes under this section and section 1270 of this title] may be cited as the ‘Great Lakes Critical Programs Act of 1990’.”
+Pub. L. 101–596, § 1, Nov. 16, 1990, 104 Stat. 3000, provided that: “This Act [enacting sections 1269 and 1270 of this title, amending sections 1268, 1324, and 1416 of this title, and enacting provisions set out as notes under this section and section 1270 of this title] may be cited as the ‘Great Lakes Critical Programs Act of 1990’.”
 
-Pub. L. 101–596, title II, § 201, Nov. 16, 1990, 104 Stat. 3004, provided that: “This part [probably means title, enacting section 1269 of this title and amending section 1416 of this title] may be cited as the ‘Long Island Sound Improvement Act of 1990’.”
+Pub. L. 101–596, title II, § 201, Nov. 16, 1990, 104 Stat. 3004, provided that: “This part [probably means title, enacting section 1269 of this title and amending section 1416 of this title] may be cited as the ‘Long Island Sound Improvement Act of 1990’.”
 
-Pub. L. 101–596, title III, § 301, Nov. 16, 1990, 104 Stat. 3006, provided that: “This title [enacting section 1270 of this title, amending section 1324 of this title, and enacting provisions set out as a note under section 1270 of this title] may be cited as the ‘Lake Champlain Special Designation Act of 1990’.”
+Pub. L. 101–596, title III, § 301, Nov. 16, 1990, 104 Stat. 3006, provided that: “This title [enacting section 1270 of this title, amending section 1324 of this title, and enacting provisions set out as a note under section 1270 of this title] may be cited as the ‘Lake Champlain Special Designation Act of 1990’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–653, title X, § 1001, Nov. 14, 1988, 102 Stat. 3835, provided that: “This title [amending section 1330 of this title and enacting provisions set out as notes under section 1330 of this title] may be cited as the ‘Massachusetts Bay Protection Act of 1988’.”
+Pub. L. 100–653, title X, § 1001, Nov. 14, 1988, 102 Stat. 3835, provided that: “This title [amending section 1330 of this title and enacting provisions set out as notes under section 1330 of this title] may be cited as the ‘Massachusetts Bay Protection Act of 1988’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–4, § 1(a), Feb. 4, 1987, 101 Stat. 7, provided that: “This Act [enacting sections 1254a, 1267, 1268, 1281b, 1329, 1330, 1377, 1381 to 1387, and 1414a of this title, amending this section and sections 1254, 1256, 1262, 1281, 1282 to 1285, 1287, 1288, 1291, 1311 to 1313, 1314, 1317 to 1322, 1324, 1342, 1344, 1345, 1361, 1362, 1365, 1369, 1375, and 1376 of this title, and enacting provisions set out as notes under this section, sections 1284, 1311, 1317, 1319, 1330, 1342, 1345, 1362, 1375, and 1414a of this title, and section 1962d–20 of Title 42, The Public Health and Welfare] may be cited as the ‘Water Quality Act of 1987’.”
+Pub. L. 100–4, § 1(a), Feb. 4, 1987, 101 Stat. 7, provided that: “This Act [enacting sections 1254a, 1267, 1268, 1281b, 1329, 1330, 1377, 1381 to 1387, and 1414a of this title, amending this section and sections 1254, 1256, 1262, 1281, 1282 to 1285, 1287, 1288, 1291, 1311 to 1313, 1314, 1317 to 1322, 1324, 1342, 1344, 1345, 1361, 1362, 1365, 1369, 1375, and 1376 of this title, and enacting provisions set out as notes under this section, sections 1284, 1311, 1317, 1319, 1330, 1342, 1345, 1362, 1375, and 1414a of this title, and section 1962d–20 of Title 42, The Public Health and Welfare] may be cited as the ‘Water Quality Act of 1987’.”
 
 **Short Title of 1981 Amendment**
 
-Pub. L. 97–117, § 1, Dec. 29, 1981, 95 Stat. 1623, provided that: “This Act [enacting sections 1298, 1299, and 1313a of this title, amending sections 1281 to 1285, 1287, 1291, 1292, 1296, 1311, and 1314 of this title, and enacting provisions set out as notes under sections 1311 and 1375 of this title] may be cited as the ‘Municipal Wastewater Treatment Construction Grant Amendments of 1981’.”
+Pub. L. 97–117, § 1, Dec. 29, 1981, 95 Stat. 1623, provided that: “This Act [enacting sections 1298, 1299, and 1313a of this title, amending sections 1281 to 1285, 1287, 1291, 1292, 1296, 1311, and 1314 of this title, and enacting provisions set out as notes under sections 1311 and 1375 of this title] may be cited as the ‘Municipal Wastewater Treatment Construction Grant Amendments of 1981’.”
 
 **Short Title of 1977 Amendment**
 
-Pub. L. 95–217, § 1, Dec. 27, 1977, 91 Stat. 1566, provided: “That this Act [enacting sections 1281a, 1294 to 1296, and 1297 of this title, amending this section and sections 1252, 1254 to 1256, 1259, 1262, 1263, 1281, 1282 to 1288, 1291, 1292, 1311, 1314, 1315, 1317 to 1319, 1321 to 1324, 1328, 1341, 1342, 1344, 1345, 1362, 1364, 1375, and 1376 of this title, enacting provisions set out as notes under this section and sections 1284, 1286, 1314, 1321, 1342, 1344, and 1376 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Clean Water Act of 1977’.”
+Pub. L. 95–217, § 1, Dec. 27, 1977, 91 Stat. 1566, provided: “That this Act [enacting sections 1281a, 1294 to 1296, and 1297 of this title, amending this section and sections 1252, 1254 to 1256, 1259, 1262, 1263, 1281, 1282 to 1288, 1291, 1292, 1311, 1314, 1315, 1317 to 1319, 1321 to 1324, 1328, 1341, 1342, 1344, 1345, 1362, 1364, 1375, and 1376 of this title, enacting provisions set out as notes under this section and sections 1284, 1286, 1314, 1321, 1342, 1344, and 1376 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Clean Water Act of 1977’.”
 
 **Short Title**
 
-Pub. L. 92–500, § 1, Oct. 18, 1972, 86 Stat. 816, provided that: “That this Act [enacting this chapter, amending section 24 of Title 12, Banks and Banking, sections 633 and 636 of Title 15, Commerce and Trade, and section 711 of former Title 31, Money and Finance, and enacting provisions set out as notes under this section and sections 1281 and 1361 of this title] may be cited as the ‘Federal Water Pollution Control Act Amendments of 1972’.”
+Pub. L. 92–500, § 1, Oct. 18, 1972, 86 Stat. 816, provided that: “That this Act [enacting this chapter, amending section 24 of Title 12, Banks and Banking, sections 633 and 636 of Title 15, Commerce and Trade, and section 711 of former Title 31, Money and Finance, and enacting provisions set out as notes under this section and sections 1281 and 1361 of this title] may be cited as the ‘Federal Water Pollution Control Act Amendments of 1972’.”
 
-Act June 30, 1948, ch. 758, title V, § 520, formerly § 518, as added by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 896, amended Pub. L. 95–217, § 2, Dec. 27, 1977, 91 Stat. 1566, renumbered § 519, Pub. L. 100–4, title V, § 506, Feb. 4, 1987, 101 Stat. 76, renumbered § 520, Pub. L. 115–436, § 5(b)(1), Jan. 14, 2019, 132 Stat. 5561, provided that: “This Act [this chapter] may be cited as the ‘Federal Water Pollution Control Act’ (commonly referred to as the Clean Water Act).”
+Act June 30, 1948, ch. 758, title V, § 520, formerly § 518, as added by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 896, amended Pub. L. 95–217, § 2, Dec. 27, 1977, 91 Stat. 1566, renumbered § 519, Pub. L. 100–4, title V, § 506, Feb. 4, 1987, 101 Stat. 76, renumbered § 520, Pub. L. 115–436, § 5(b)(1), Jan. 14, 2019, 132 Stat. 5561, provided that: “This Act [this chapter] may be cited as the ‘Federal Water Pollution Control Act’ (commonly referred to as the Clean Water Act).”
 
 **Savings Provision**
 
-Pub. L. 92–500, § 4, Oct. 18, 1972, 86 Stat. 896, provided that:
+Pub. L. 92–500, § 4, Oct. 18, 1972, 86 Stat. 896, provided that:
 
 > **“(a)** No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act [Oct. 18, 1972] shall abate by reason of the taking effect of the amendment made by section 2 of this Act [which enacted this chapter]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
 
@@ -173,11 +173,11 @@ Pub. L. 92–500, § 4, Oct. 18, 1972, 86 Stat. 896, provided that:
 
 **Separability**
 
-Act June 30, 1948, ch. 758, title V, § 512, as added by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 894, provided that: “If any provision of this Act [this chapter], or the application of any provision of this Act [this chapter] to any person or circumstance, is held invalid, the application of such provision to other persons or circumstances, and the remainder of this Act [this chapter], shall not be affected thereby.”
+Act June 30, 1948, ch. 758, title V, § 512, as added by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 894, provided that: “If any provision of this Act [this chapter], or the application of any provision of this Act [this chapter] to any person or circumstance, is held invalid, the application of such provision to other persons or circumstances, and the remainder of this Act [this chapter], shall not be affected thereby.”
 
 **National Shellfish Indicator Program**
 
-Pub. L. 102–567, title III, § 308, Oct. 29, 1992, 106 Stat. 4286; as amended by Pub. L. 105–362, title II, § 201(b), Nov. 10, 1998, 112 Stat. 3282, provided that:
+Pub. L. 102–567, title III, § 308, Oct. 29, 1992, 106 Stat. 4286; as amended by Pub. L. 105–362, title II, § 201(b), Nov. 10, 1998, 112 Stat. 3282, provided that:
 
 > **“(a) Establishment of a Research Program.—** The Secretary of Commerce, in cooperation with the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency, shall establish and administer a 5-year national shellfish research program (hereafter in this section referred to as the ‘Program’) for the purpose of improving existing classification systems for shellfish growing waters using the latest technological advancements in microbiology and epidemiological methods. Within 12 months after the date of enactment of this Act [Oct. 29, 1992], the Secretary of Commerce, in cooperation with the advisory committee established under subsection (b) and the Consortium, shall develop a comprehensive 5-year plan for the Program which shall at a minimum provide for—
 
@@ -253,19 +253,19 @@ Pub. L. 102–567, title III, § 308, Oct. 29, 1992, 106 Stat. 4286; as amende
 
 **Limitation on Payments**
 
-Pub. L. 100–4, § 2, Feb. 4, 1987, 101 Stat. 8, provided that: “No payments may be made under this Act [see Short Title of 1987 Amendment note above] except to the extent provided in advance in appropriation Acts.”
+Pub. L. 100–4, § 2, Feb. 4, 1987, 101 Stat. 8, provided that: “No payments may be made under this Act [see Short Title of 1987 Amendment note above] except to the extent provided in advance in appropriation Acts.”
 
 **Seafood Processing Study; Submittal of Results to Congress not Later Than January 1, 1979**
 
-Pub. L. 95–217, § 74, Dec. 27, 1977, 91 Stat. 1609, provided that the Administrator of the Environmental Protection Agency conduct a study to examine the geographical, hydrological, and biological characteristics of marine waters to determine the effects of seafood processes which dispose of untreated natural wastes into such waters and to include in this study an examination of technologies which may be used in such processes to facilitate the use of the nutrients in these wastes or to reduce the discharge of such wastes into the marine environment and to submit the result of this study to Congress not later than Jan. 1, 1979.
+Pub. L. 95–217, § 74, Dec. 27, 1977, 91 Stat. 1609, provided that the Administrator of the Environmental Protection Agency conduct a study to examine the geographical, hydrological, and biological characteristics of marine waters to determine the effects of seafood processes which dispose of untreated natural wastes into such waters and to include in this study an examination of technologies which may be used in such processes to facilitate the use of the nutrients in these wastes or to reduce the discharge of such wastes into the marine environment and to submit the result of this study to Congress not later than Jan. 1, 1979.
 
 **Oversight Study**
 
-Pub. L. 92–500, § 5, Oct. 18, 1972, 86 Stat. 897, authorized the Comptroller General of the United States to conduct a study and review of the research, pilot, and demonstration programs related to prevention and control of water pollution conducted, supported, or assisted by any Federal agency pursuant to any Federal law or regulation and assess conflicts between these programs and their coordination and efficacy, and to report to Congress thereon by Oct. 1, 1973.
+Pub. L. 92–500, § 5, Oct. 18, 1972, 86 Stat. 897, authorized the Comptroller General of the United States to conduct a study and review of the research, pilot, and demonstration programs related to prevention and control of water pollution conducted, supported, or assisted by any Federal agency pursuant to any Federal law or regulation and assess conflicts between these programs and their coordination and efficacy, and to report to Congress thereon by Oct. 1, 1973.
 
 **International Trade Study**
 
-Pub. L. 92–500, § 6, Oct. 18, 1972, 86 Stat. 897, provided that:
+Pub. L. 92–500, § 6, Oct. 18, 1972, 86 Stat. 897, provided that:
 
 > **“(a)** The Secretary of Commerce, in cooperation with other interested Federal agencies and with representatives of industry and the public, shall undertake immediately an investigation and study to determine—
 
@@ -289,23 +289,23 @@ Pub. L. 92–500, § 6, Oct. 18, 1972, 86 Stat. 897, provided that:
 
 **International Agreements**
 
-Pub. L. 92–500, § 7, Oct. 18, 1972, 86 Stat. 898, provided that: “The President shall undertake to enter into international agreement to apply uniform standards of performance for the control of the discharge and emission of pollutants from new sources, uniform controls over the discharge and emission of toxic pollutants, and uniform controls over the discharge of pollutants into the ocean. For this purpose the President shall negotiate multilateral treaties, conventions, resolutions, or other agreements, and formulate, present, or support proposals at the United Nations and other appropriate international forums.”
+Pub. L. 92–500, § 7, Oct. 18, 1972, 86 Stat. 898, provided that: “The President shall undertake to enter into international agreement to apply uniform standards of performance for the control of the discharge and emission of pollutants from new sources, uniform controls over the discharge and emission of toxic pollutants, and uniform controls over the discharge of pollutants into the ocean. For this purpose the President shall negotiate multilateral treaties, conventions, resolutions, or other agreements, and formulate, present, or support proposals at the United Nations and other appropriate international forums.”
 
 **National Policies and Goal Study**
 
-Pub. L. 92–500, § 10, Oct. 18, 1972, 86 Stat. 899, directed President to make a full and complete investigation and study of all national policies and goals established by law to determine what the relationship should be between these policies and goals, taking into account the resources of the Nation, and to report results of his investigation and study together with his recommendations to Congress not later than two years after Oct. 18, 1972.
+Pub. L. 92–500, § 10, Oct. 18, 1972, 86 Stat. 899, directed President to make a full and complete investigation and study of all national policies and goals established by law to determine what the relationship should be between these policies and goals, taking into account the resources of the Nation, and to report results of his investigation and study together with his recommendations to Congress not later than two years after Oct. 18, 1972.
 
 **Efficiency Study**
 
-Pub. L. 92–500, § 11, Oct. 18, 1972, 86 Stat. 899, directed President, by utilization of the General Accounting Office, to conduct a full and complete investigation and study of ways and means of most effectively using all of the various resources, facilities, and personnel of the Federal Government in order to most efficiently carry out the provisions of this chapter and to report results of his investigation and study together with his recommendations to Congress not later than two hundred and seventy days after Oct. 18, 1972.
+Pub. L. 92–500, § 11, Oct. 18, 1972, 86 Stat. 899, directed President, by utilization of the General Accounting Office, to conduct a full and complete investigation and study of ways and means of most effectively using all of the various resources, facilities, and personnel of the Federal Government in order to most efficiently carry out the provisions of this chapter and to report results of his investigation and study together with his recommendations to Congress not later than two hundred and seventy days after Oct. 18, 1972.
 
 **Sex Discrimination**
 
-Pub. L. 92–500, § 13, Oct. 18, 1972, 86 Stat. 903, provided that: “No person in the United States shall on the ground of sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal assistance under this Act [see Short Title note above] the Federal Water Pollution Control Act [this chapter], or the Environmental Financing Act [set out as a note under section 1281 of this title]. This section shall be enforced through agency provisions and rules similar to those already established, with respect to racial and other discrimination, under title VI of the Civil Rights Act of 1964 [section 2000d et seq. of Title 42, The Public Health and Welfare]. However, this remedy is not exclusive and will not prejudice or cut off any other legal remedies available to a discriminatee.”
+Pub. L. 92–500, § 13, Oct. 18, 1972, 86 Stat. 903, provided that: “No person in the United States shall on the ground of sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal assistance under this Act [see Short Title note above] the Federal Water Pollution Control Act [this chapter], or the Environmental Financing Act [set out as a note under section 1281 of this title]. This section shall be enforced through agency provisions and rules similar to those already established, with respect to racial and other discrimination, under title VI of the Civil Rights Act of 1964 [section 2000d et seq. of Title 42, The Public Health and Welfare]. However, this remedy is not exclusive and will not prejudice or cut off any other legal remedies available to a discriminatee.”
 
 **Definition of “Administrator”**
 
-Pub. L. 100–4, § 1(d), Feb. 4, 1987, 101 Stat. 8, provided that: “For purposes of this Act [see Short Title of 1987 Amendment note above], the term ‘Administrator’ means the Administrator of the Environmental Protection Agency.”
+Pub. L. 100–4, § 1(d), Feb. 4, 1987, 101 Stat. 8, provided that: “For purposes of this Act [see Short Title of 1987 Amendment note above], the term ‘Administrator’ means the Administrator of the Environmental Protection Agency.”
 
 **Executive Documents**
 
@@ -333,7 +333,7 @@ Under and by virtue of the authority vested in me by section 301 of title 3 of t
 
 Richard Nixon.
 
-### § 1252. Comprehensive programs for water pollution control
+### § 1252. Comprehensive programs for water pollution control
 
 **(a) Preparation and development**
 
@@ -369,7 +369,7 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 
 **(3)** For the purposes of this subsection the term “basin” includes, but is not limited to, rivers and their tributaries, streams, coastal waters, sounds, estuaries, bays, lakes, and portions thereof as well as the lands drained thereby.
 
-(June 30, 1948, ch. 758, title I, § 102, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 817; amended Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583; Pub. L. 95–217, § 5(b), Dec. 27, 1977, 91 Stat. 1567; Pub. L. 104–66, title II, § 2021(a), Dec. 21, 1995, 109 Stat. 726.)
+(June 30, 1948, ch. 758, title I, § 102, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 817; amended Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583; Pub. L. 95–217, § 5(b), Dec. 27, 1977, 91 Stat. 1567; Pub. L. 104–66, title II, § 2021(a), Dec. 21, 1995, 109 Stat. 726.)
 
 **Editorial Notes**
 
@@ -383,7 +383,7 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 
 **Transfer of Functions**
 
-“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (b)(6) on authority of Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
+“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (b)(6) on authority of Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
 
 **Executive Documents**
 
@@ -391,11 +391,11 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 
 Ex. Ord. No. 10014, Nov. 3, 1948, 13 F.R. 6601, which related to the cooperation of Federal and State agencies to prevent pollution of surface and underground waters, was superseded by Ex. Ord. No. 11258, Nov. 17, 1965, 30 F.R. 14483.
 
-### § 1252a. Reservoir projects, water storage; modification; storage for other than for water quality, opinion of Federal agency, committee resolutions of approval; provisions inapplicable to projects with certain prescribed water quality benefits in relation to total project benefits
+### § 1252a. Reservoir projects, water storage; modification; storage for other than for water quality, opinion of Federal agency, committee resolutions of approval; provisions inapplicable to projects with certain prescribed water quality benefits in relation to total project benefits
 
 In the case of any reservoir project authorized for construction by the Corps of Engineers, Bureau of Reclamation, or other Federal agency when the Administrator of the Environmental Protection Agency determines pursuant to section 1252(b) of this title that any storage in such project for regulation of streamflow for water quality is not needed, or is needed in a different amount, such project may be modified accordingly by the head of the appropriate agency, and any storage no longer required for water quality may be utilized for other authorized purposes of the project when, in the opinion of the head of such agency, such use is justified. Any such modification of a project where the benefits attributable to water quality are 15 per centum or more but not greater than 25 per centum of the total project benefits shall take effect only upon the adoption of resolutions approving such modification by the appropriate committees of the Senate and House of Representatives. The provisions of the section shall not apply to any project where the benefits attributable to water quality exceed 25 per centum of the total project benefits.
 
-(Pub. L. 93–251, title I, § 65, Mar. 7, 1974, 88 Stat. 30.)
+(Pub. L. 93–251, title I, § 65, Mar. 7, 1974, 88 Stat. 30.)
 
 **Editorial Notes**
 
@@ -403,15 +403,15 @@ In the case of any reservoir project authorized for construction by the Corps of
 
 Section was not enacted as part of the Federal Water Pollution Control Act which comprises this chapter.
 
-### § 1253. Interstate cooperation and uniform laws
+### § 1253. Interstate cooperation and uniform laws
 
 **(a)** The Administrator shall encourage cooperative activities by the States for the prevention, reduction, and elimination of pollution, encourage the enactment of improved and, so far as practicable, uniform State laws relating to the prevention, reduction, and elimination of pollution; and encourage compacts between States for the prevention and control of pollution.
 
 **(b)** The consent of the Congress is hereby given to two or more States to negotiate and enter into agreements or compacts, not in conflict with any law or treaty of the United States, for (1) cooperative effort and mutual assistance for the prevention and control of pollution and the enforcement of their respective laws relating thereto, and (2) the establishment of such agencies, joint or otherwise, as they may deem desirable for making effective such agreements and compacts. No such agreement or compact shall be binding or obligatory upon any State a party thereto unless and until it has been approved by the Congress.
 
-(June 30, 1948, ch. 758, title I, § 103, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 818.)
+(June 30, 1948, ch. 758, title I, § 103, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 818.)
 
-### § 1254. Research, investigations, training, and information
+### § 1254. Research, investigations, training, and information
 
 **(a) Establishment of national programs; cooperation; investigations; water quality surveillance system; reports** The Administrator shall establish national programs for the prevention, reduction, and elimination of pollution and as part of such programs shall—
 
@@ -581,59 +581,59 @@ There is authorized to be appropriated (1) not to exceed $100,000,000 per fiscal
 
 For purposes of subsection (b)(8), the term “nonprofit organization” means a nonprofit organization that the Administrator determines, after consultation with the States regarding what small publicly owned treatment works in the State find to be most beneficial and effective, is qualified and experienced in providing on-site training and technical assistance to small publicly owned treatment works.
 
-(June 30, 1948, ch. 758, title I, § 104, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 819; amended Pub. L. 93–207, § 1(1), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, § 1, Jan. 2, 1975, 88 Stat. 1924; Pub. L. 95–217, §§ 4(a), (b), 6, 7, Dec. 27, 1977, 91 Stat. 1566, 1567; Pub. L. 95–576, § 1(a), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–483, § 1(a), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §§ 101(a), 102, Feb. 4, 1987, 101 Stat. 8, 9; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 105–362, title V, § 501(a)(1), (d)(2)(A), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–284, § 3(a), Oct. 10, 2000, 114 Stat. 871; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 115–270, title IV, § 4103, Oct. 23, 2018, 132 Stat. 3872; Pub. L. 117–58, div. E, title II, §§ 50201(a), 50210(a)(2), Nov. 15, 2021, 135 Stat. 1158, 1169.)
+(June 30, 1948, ch. 758, title I, § 104, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 819; amended Pub. L. 93–207, § 1(1), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, § 1, Jan. 2, 1975, 88 Stat. 1924; Pub. L. 95–217, §§ 4(a), (b), 6, 7, Dec. 27, 1977, 91 Stat. 1566, 1567; Pub. L. 95–576, § 1(a), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–483, § 1(a), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §§ 101(a), 102, Feb. 4, 1987, 101 Stat. 8, 9; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 105–362, title V, § 501(a)(1), (d)(2)(A), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–284, § 3(a), Oct. 10, 2000, 114 Stat. 871; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 115–270, title IV, § 4103, Oct. 23, 2018, 132 Stat. 3872; Pub. L. 117–58, div. E, title II, §§ 50201(a), 50210(a)(2), Nov. 15, 2021, 135 Stat. 1158, 1169.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsecs. (b)(4) and (g)(3)(A), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for references to sections 3648 and 3709 of the Revised Statutes on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsecs. (b)(4) and (g)(3)(A), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for references to sections 3648 and 3709 of the Revised Statutes on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
-2021—Subsec. (u)(7), (8). Pub. L. 117–58, § 50201(a), substituted “2021” for “2023” in par. (7) and added par. (8).
+2021—Subsec. (u)(7), (8). Pub. L. 117–58, § 50201(a), substituted “2021” for “2023” in par. (7) and added par. (8).
 
-Subsec. (w). Pub. L. 117–58, § 50210(a)(2), substituted “treatment works in” for “treatments works in”.
+Subsec. (w). Pub. L. 117–58, § 50210(a)(2), substituted “treatment works in” for “treatments works in”.
 
-2018—Subsec. (b)(8). Pub. L. 115–270, § 4103(a)(1), added par. (8).
+2018—Subsec. (b)(8). Pub. L. 115–270, § 4103(a)(1), added par. (8).
 
-Subsec. (u)(7). Pub. L. 115–270, § 4103(b), added par. (7).
+Subsec. (u)(7). Pub. L. 115–270, § 4103(b), added par. (7).
 
-Subsec. (w). Pub. L. 115–270, § 4103(a)(2), added subsec. (w).
+Subsec. (w). Pub. L. 115–270, § 4103(a)(2), added subsec. (w).
 
-2002—Subsecs. (a)(5), (n)(3), (4), (*o*)(2). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(a), (d). See 1998 Amendment notes below.
+2002—Subsecs. (a)(5), (n)(3), (4), (*o*)(2). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(a), (d). See 1998 Amendment notes below.
 
 2000—Subsec. (v). Pub. L. 106–284 added subsec. (v).
 
-1998—Subsec. (a)(5). Pub. L. 105–362, § 501(d)(2)(A)(i), which directed the substitution of “not later than 90 days after the date of convening of each session of Congress” for “in the report required under subsection (a) of section 1375 of this title”, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+1998—Subsec. (a)(5). Pub. L. 105–362, § 501(d)(2)(A)(i), which directed the substitution of “not later than 90 days after the date of convening of each session of Congress” for “in the report required under subsection (a) of section 1375 of this title”, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
-Subsec. (n)(3), (4). Pub. L. 105–362, § 501(a)(1), which directed the redesignation of par. (4) as (3) and striking out of former par. (3), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+Subsec. (n)(3), (4). Pub. L. 105–362, § 501(a)(1), which directed the redesignation of par. (4) as (3) and striking out of former par. (3), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
-Subsec. (*o*)(2). Pub. L. 105–362, § 501(d)(2)(A)(ii), which directed the substitution of “not later than 90 days after the date of convening of each session of Congress” for “in the report required under subsection (a) of section 1375 of this title”, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+Subsec. (*o*)(2). Pub. L. 105–362, § 501(d)(2)(A)(ii), which directed the substitution of “not later than 90 days after the date of convening of each session of Congress” for “in the report required under subsection (a) of section 1375 of this title”, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
-1987—Subsec. (q)(4). Pub. L. 100–4, § 102, added par. (4).
+1987—Subsec. (q)(4). Pub. L. 100–4, § 102, added par. (4).
 
-Subsec. (u). Pub. L. 100–4, § 101(a), in cl. (1) struck out “and” after “1975,”, “1980,”, and “1981,” and inserted “such sums as may be necessary for fiscal years 1983 through 1985, and not to exceed $22,770,000 per fiscal year for each of the fiscal years 1986 through 1990,”, in cl. (2) struck out “and” after “1981,” and inserted “such sums as may be necessary for fiscal years 1983 through 1985, and $3,000,000 per fiscal year for each of the fiscal years 1986 through 1990,”, and in cl. (3) struck out “and” after “1981,” and inserted “such sums as may be necessary for fiscal years 1983 through 1985, and $1,500,000 per fiscal year for each of the fiscal years 1986 through 1990,”.
+Subsec. (u). Pub. L. 100–4, § 101(a), in cl. (1) struck out “and” after “1975,”, “1980,”, and “1981,” and inserted “such sums as may be necessary for fiscal years 1983 through 1985, and not to exceed $22,770,000 per fiscal year for each of the fiscal years 1986 through 1990,”, in cl. (2) struck out “and” after “1981,” and inserted “such sums as may be necessary for fiscal years 1983 through 1985, and $3,000,000 per fiscal year for each of the fiscal years 1986 through 1990,”, and in cl. (3) struck out “and” after “1981,” and inserted “such sums as may be necessary for fiscal years 1983 through 1985, and $1,500,000 per fiscal year for each of the fiscal years 1986 through 1990,”.
 
 1980—Subsec. (u). Pub. L. 96–483 in par. (1) inserted authorization of not to exceed $20,697,000 and $22,770,000 for fiscal years ending Sept. 30, 1981, and 1982, respectively; in par. (2) inserted authorization of the sum of $3,000,000 for each of fiscal years 1981 and 1982; and in par. (3) inserted authorization of the sum of $1,500,000 for each of fiscal years 1981 and 1982.
 
 1978—Subsec. (u)(1). Pub. L. 95–576 authorized appropriation of not to exceed $14,039,000 for fiscal year ending Sept. 30, 1980 and prohibited use of authorizations for any research, development, or demonstration activity pursuant to provisions of this section.
 
-1977—Subsec. (n)(3). Pub. L. 95–217, § 6, substituted “any six-year period” for “any three year period”.
+1977—Subsec. (n)(3). Pub. L. 95–217, § 6, substituted “any six-year period” for “any three year period”.
 
-Subsec. (q)(3). Pub. L. 95–217, § 7, added par. (3).
+Subsec. (q)(3). Pub. L. 95–217, § 7, added par. (3).
 
-Subsec. (u)(2). Pub. L. 95–217, § 4(a), substituted “1975, $2,000,000 for fiscal year 1977, $3,000,000 for fiscal year 1978, $3,000,000 for fiscal year 1979, and $3,000,000 for fiscal year 1980,” for “1975”.
+Subsec. (u)(2). Pub. L. 95–217, § 4(a), substituted “1975, $2,000,000 for fiscal year 1977, $3,000,000 for fiscal year 1978, $3,000,000 for fiscal year 1979, and $3,000,000 for fiscal year 1980,” for “1975”.
 
-Subsec. (u)(3). Pub. L. 95–217, § 4(b), substituted “1975, $1,000,000 for fiscal year 1977, $1,500,000 for fiscal year 1978, $1,500,000 for fiscal year 1979, and $1,500,000 for fiscal year 1980,” for “1975”.
+Subsec. (u)(3). Pub. L. 95–217, § 4(b), substituted “1975, $1,000,000 for fiscal year 1977, $1,500,000 for fiscal year 1978, $1,500,000 for fiscal year 1979, and $1,500,000 for fiscal year 1980,” for “1975”.
 
-1975—Subsec. (u)(1). Pub. L. 93–592, § 1(a), substituted “the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975,” for “and the fiscal year ending June 30, 1974,”.
+1975—Subsec. (u)(1). Pub. L. 93–592, § 1(a), substituted “the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975,” for “and the fiscal year ending June 30, 1974,”.
 
-Subsec. (u)(2). Pub. L. 93–592, § 1(b), substituted “fiscal years 1973, 1974, and 1975” for “fiscal years 1973 and 1974”.
+Subsec. (u)(2). Pub. L. 93–592, § 1(b), substituted “fiscal years 1973, 1974, and 1975” for “fiscal years 1973 and 1974”.
 
-Subsec. (u)(3). Pub. L. 93–592, § 1(c), substituted “fiscal years 1973, 1974, and 1975” for “fiscal year 1973”.
+Subsec. (u)(3). Pub. L. 93–592, § 1(c), substituted “fiscal years 1973, 1974, and 1975” for “fiscal year 1973”.
 
-Subsec. (u)(4), (5), (6). Pub. L. 93–592, § 1(d)–(f), substituted “June 30, 1974, and June 30, 1975,” for “and June 30, 1974,”.
+Subsec. (u)(4), (5), (6). Pub. L. 93–592, § 1(d)–(f), substituted “June 30, 1974, and June 30, 1975,” for “and June 30, 1974,”.
 
 1973—Subsec. (u)(2). Pub. L. 93–207 substituted “fiscal years 1973 and 1974” for “fiscal year 1973”.
 
@@ -647,7 +647,7 @@ Subsec. (u)(4), (5), (6). Pub. L. 93–592, § 1(d)–(f), substituted “June
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–303, title III, § 302(b), Nov. 27, 2002, 116 Stat. 2361, provided that:
+Pub. L. 107–303, title III, § 302(b), Nov. 27, 2002, 116 Stat. 2361, provided that:
 
 > **“(1) In general.—** Effective November 10, 1998, section 501 of the Federal Reports Elimination Act of 1998 (Public Law 105–362; 112 Stat. 3283) is amended by striking subsections (a) [amending this section and section 1330 of this title], (b) [amending section 1324 of this title], (c) [amending section 1329 of this title], and (d) [amending this section and sections 1266, 1285, 1290, and 1375 of this title].
 
@@ -659,27 +659,27 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Columbia River Basin System; Protection From Oil Spills and Discharges; Criteria for Evaluation and Report to Congress by Commandant of Coast Guard in Consultation With Federal, Etc., Agencies**
 
-Pub. L. 95–308, § 8, June 30, 1978, 92 Stat. 359, set forth Congressional findings and declarations and evaluation criteria with respect to protection from oil spills and discharges and betterment of the Columbia River Basin system, with such evaluation by the Commandant of the Coast Guard to begin within 180 days after June 30, 1978, and immediate submission of the evaluation to appropriate Congressional committees.
+Pub. L. 95–308, § 8, June 30, 1978, 92 Stat. 359, set forth Congressional findings and declarations and evaluation criteria with respect to protection from oil spills and discharges and betterment of the Columbia River Basin system, with such evaluation by the Commandant of the Coast Guard to begin within 180 days after June 30, 1978, and immediate submission of the evaluation to appropriate Congressional committees.
 
 **Communication**
 
-Pub. L. 117–58, div. E, title II, § 50201(b), Nov. 15, 2021, 135 Stat. 1158, provided that: “Each nonprofit organization that receives funding under paragraph (8) of section 104(b) of the Federal Water Pollution Control Act (33 U.S.C. 1254(b)) shall, before using that funding to undertake activities to carry out that paragraph, consult with the State in which the assistance is to be expended or otherwise made available.”
+Pub. L. 117–58, div. E, title II, § 50201(b), Nov. 15, 2021, 135 Stat. 1158, provided that: “Each nonprofit organization that receives funding under paragraph (8) of section 104(b) of the Federal Water Pollution Control Act (33 U.S.C. 1254(b)) shall, before using that funding to undertake activities to carry out that paragraph, consult with the State in which the assistance is to be expended or otherwise made available.”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 **Contiguous Zone of United States**
 
 For extension of contiguous zone of United States, see Proc. No. 7219, set out as a note under section 1331 of Title 43, Public Lands.
 
-### § 1254a. Research on effects of pollutants
+### § 1254a. Research on effects of pollutants
 
 In carrying out the provisions of section 1254(a) of this title, the Administrator shall conduct research on the harmful effects on the health and welfare of persons caused by pollutants in water, in conjunction with the United States Fish and Wildlife Service, the National Oceanic and Atmospheric Administration, and other Federal, State, and interstate agencies carrying on such research. Such research shall include, and shall place special emphasis on, the effect that bioaccumulation of these pollutants in aquatic species has upon reducing the value of aquatic commercial and sport industries. Such research shall further study methods to reduce and remove these pollutants from the relevant affected aquatic species so as to restore and enhance these valuable resources.
 
-(Pub. L. 100–4, title I, § 105, Feb. 4, 1987, 101 Stat. 15.)
+(Pub. L. 100–4, title I, § 105, Feb. 4, 1987, 101 Stat. 15.)
 
 **Editorial Notes**
 
@@ -693,7 +693,7 @@ Section was enacted as part of the Water Quality Act of 1987, and not as part of
 
 Administrator means the Administrator of the Environmental Protection Agency, see section 1(d) of Pub. L. 100–4, set out as a note under section 1251 of this title.
 
-### § 1255. Grants for research and development
+### § 1255. Grants for research and development
 
 **(a) Demonstration projects covering storm waters, advanced waste treatment and water purification methods, and joint treatment systems for municipal and industrial wastes** The Administrator is authorized to conduct in the Environmental Protection Agency, and to make grants to any State, municipality, or intermunicipal or interstate agency for the purpose of assisting in the development of—
 
@@ -705,9 +705,9 @@ and to include in such grants such amounts as are necessary for the purpose of r
 
 **(b) Demonstration projects for advanced treatment and environmental enhancement techniques to control pollution in river basins**
 
-The Administrator is authorized to make grants to any State or States or interstate agency to demonstrate, in river basins or portions thereof, advanced treatment and environmental enhancement techniques to control pollution from all sources, within such basins or portions thereof, including nonpoint sources, together with in stream 1
+The Administrator is authorized to make grants to any State or States or interstate agency to demonstrate, in river basins or portions thereof, advanced treatment and environmental enhancement techniques to control pollution from all sources, within such basins or portions thereof, including nonpoint sources, together with in stream 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 water quality improvement techniques.
 
@@ -753,7 +753,7 @@ The Administrator is authorized to make grants to a municipality to assist in th
 
 The Administrator is authorized to make a grant to any grantee who received an increased grant pursuant to section 1282(a)(2) of this title. Such grant may pay up to 100 per centum of the costs of technical evaluation of the operation of the treatment works, costs of training of persons (other than employees of the grantee), and costs of disseminating technical information on the operation of the treatment works.
 
-(June 30, 1948, ch. 758, title I, § 105, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 825; amended Pub. L. 93–592, § 2, Jan. 2, 1975, 88 Stat. 1925; Pub. L. 95–217, §§ 8, 9, Dec. 27, 1977, 91 Stat. 1568.)
+(June 30, 1948, ch. 758, title I, § 105, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 825; amended Pub. L. 93–592, § 2, Jan. 2, 1975, 88 Stat. 1925; Pub. L. 95–217, §§ 8, 9, Dec. 27, 1977, 91 Stat. 1568.)
 
 **Editorial Notes**
 
@@ -767,9 +767,9 @@ The Administrator is authorized to make a grant to any grantee who received an i
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-### § 1256. Grants for pollution control programs
+### § 1256. Grants for pollution control programs
 
 **(a) Authorization of appropriations for State and interstate programs** There are hereby authorized to be appropriated the following sums, to remain available until expended, to carry out the purpose of this section—
 
@@ -817,13 +817,13 @@ No grant shall be made under this section to any State or interstate agency for 
 
 Any sums allotted under subsection (b) in any fiscal year which are not paid shall be reallotted by the Administrator in accordance with regulations promulgated by him.
 
-(June 30, 1948, ch. 758, title I, § 106, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 827; amended Pub. L. 93–592, § 3, Jan. 2, 1975, 88 Stat. 1925; Pub. L. 94–273, § 3(20), Apr. 21, 1976, 90 Stat. 377; Pub. L. 95–217, § 4(c), Dec. 27, 1977, 91 Stat. 1566; Pub. L. 96–483, § 1(b), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, § 101(b), Feb. 4, 1987, 101 Stat. 9.)
+(June 30, 1948, ch. 758, title I, § 106, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 827; amended Pub. L. 93–592, § 3, Jan. 2, 1975, 88 Stat. 1925; Pub. L. 94–273, § 3(20), Apr. 21, 1976, 90 Stat. 377; Pub. L. 95–217, § 4(c), Dec. 27, 1977, 91 Stat. 1566; Pub. L. 96–483, § 1(b), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, § 101(b), Feb. 4, 1987, 101 Stat. 9.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1987—Subsec. (a)(2). Pub. L. 100–4 inserted “, such sums as may be necessary for fiscal years 1983 through 1985, and $75,000,000 per fiscal year for each of the fiscal years 1986 through 1990” after “1982”.
+1987—Subsec. (a)(2). Pub. L. 100–4 inserted “, such sums as may be necessary for fiscal years 1983 through 1985, and $75,000,000 per fiscal year for each of the fiscal years 1986 through 1990” after “1982”.
 
 1980—Subsec. (a)(2). Pub. L. 96–483 inserted authorization of the sum of $75,000,000 per fiscal year for fiscal years 1981 and 1982.
 
@@ -833,7 +833,7 @@ Any sums allotted under subsection (b) in any fiscal year which are not paid sha
 
 1975—Subsec. (a)(2). Pub. L. 93–592 substituted “June 30, 1974, and the fiscal year ending June 30, 1975;” for “June 30, 1974;”.
 
-### § 1257. Mine water pollution control demonstrations
+### § 1257. Mine water pollution control demonstrations
 
 **(a) Comprehensive approaches to elimination or control of mine water pollution**
 
@@ -857,19 +857,19 @@ The Administrator, in selecting watersheds for the purposes of this section, sha
 
 There is authorized to be appropriated $30,000,000 to carry out the provisions of this section, which sum shall be available until expended.
 
-(June 30, 1948, ch. 758, title I, § 107, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 828.)
+(June 30, 1948, ch. 758, title I, § 107, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 828.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (b), “section 14102(a)(1) and (b) of title 40” substituted for “section 403 of the Appalachian Regional Development Act of 1965, as amended” and “subtitle IV of title 40” substituted for “the Appalachian Regional Development Act of 1965, as amended” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (b), “section 14102(a)(1) and (b) of title 40” substituted for “section 403 of the Appalachian Regional Development Act of 1965, as amended” and “subtitle IV of title 40” substituted for “the Appalachian Regional Development Act of 1965, as amended” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-### § 1257a. State demonstration programs for cleanup of abandoned mines for use as waste disposal sites; authorization of appropriations
+### § 1257a. State demonstration programs for cleanup of abandoned mines for use as waste disposal sites; authorization of appropriations
 
 The Administrator of the Environmental Protection Agency is authorized to make grants to States to undertake a demonstration program for the cleanup of State-owned abandoned mines which can be used as hazardous waste disposal sites. The State shall pay 10 per centum of project costs. At a minimum, the Administrator shall undertake projects under such program in the States of Ohio, Illinois, and West Virginia. There are authorized to be appropriated $10,000,000 per fiscal year for each of the fiscal years ending September 30, 1982, September 30, 1983, and September 30, 1984, to carry out this section. Such projects shall be undertaken in accordance with all applicable laws and regulations.
 
-(Pub. L. 96–483, § 12, Oct. 21, 1980, 94 Stat. 2363.)
+(Pub. L. 96–483, § 12, Oct. 21, 1980, 94 Stat. 2363.)
 
 **Editorial Notes**
 
@@ -877,7 +877,7 @@ The Administrator of the Environmental Protection Agency is authorized to make g
 
 Section was not enacted as part of the Federal Water Pollution Control Act which comprises this chapter.
 
-### § 1258. Pollution control in the Great Lakes
+### § 1258. Pollution control in the Great Lakes
 
 **(a) Demonstration projects**
 
@@ -901,9 +901,9 @@ There is authorized to be appropriated $20,000,000 to carry out the provisions o
 
 There is authorized to be appropriated $5,000,000 to carry out the provisions of subsection (d) of this section, which sum shall be available until expended.
 
-(June 30, 1948, ch. 758, title I, § 108, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 828.)
+(June 30, 1948, ch. 758, title I, § 108, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 828.)
 
-### § 1259. Training grants and contracts
+### § 1259. Training grants and contracts
 
 **(a)** The Administrator is authorized to make grants to or contracts with institutions of higher education, or combinations of such institutions, to assist them in planning, developing, strengthening, improving, or carrying out programs or projects for the preparation of undergraduate students to enter an occupation which involves the design, operation, and maintenance of treatment works, and other facilities whose purpose is water quality control. Such grants or contracts may include payment of all or part of the cost of programs or projects such as—
 
@@ -927,7 +927,7 @@ There is authorized to be appropriated $5,000,000 to carry out the provisions of
 
 **(4)** The Administrator may exempt a grant under this section from any requirement under section 1284(a)(3) of this title. Any grantee who received a grant under this section prior to enactment of the Clean Water Act of 1977 shall be eligible to have its grant increased by funds made available under such Act.
 
-(June 30, 1948, ch. 758, title I, § 109, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 829; amended Pub. L. 95–217, § 10, Dec. 27, 1977, 91 Stat. 1568.)
+(June 30, 1948, ch. 758, title I, § 109, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 829; amended Pub. L. 95–217, § 10, Dec. 27, 1977, 91 Stat. 1568.)
 
 **Editorial Notes**
 
@@ -939,15 +939,15 @@ Such Act, referred to in subsec. (b)(4), means Pub. L. 95–217, Dec. 27, 1977, 
 
 **Amendments**
 
-1977—Subsec. (b)(1). Pub. L. 95–217, § 10(c), (d), substituted “cost of construction of treatment works required for a facility to train and upgrade waste treatment works operation and maintenance personnel and for the costs of other State treatment works operator training programs, including mobile training units, classroom rental, specialized instructors, and instructional material” for “cost of construction of a treatment works required for a facility to train and upgrade waste treatment works operation and maintenance personnel”.
+1977—Subsec. (b)(1). Pub. L. 95–217, § 10(c), (d), substituted “cost of construction of treatment works required for a facility to train and upgrade waste treatment works operation and maintenance personnel and for the costs of other State treatment works operator training programs, including mobile training units, classroom rental, specialized instructors, and instructional material” for “cost of construction of a treatment works required for a facility to train and upgrade waste treatment works operation and maintenance personnel”.
 
-Subsec. (b)(2). Pub. L. 95–217, § 10(e), authorized Administrator to make an additional grant for a supplemental facility in each of the States in any case where a grant is made to serve two or more States.
+Subsec. (b)(2). Pub. L. 95–217, § 10(e), authorized Administrator to make an additional grant for a supplemental facility in each of the States in any case where a grant is made to serve two or more States.
 
-Subsec. (b)(3). Pub. L. 95–217, § 10(a), substituted “$500,000” for “$250,000”.
+Subsec. (b)(3). Pub. L. 95–217, § 10(a), substituted “$500,000” for “$250,000”.
 
-Subsec. (b)(4). Pub. L. 95–217, § 10(b), added par. (4).
+Subsec. (b)(4). Pub. L. 95–217, § 10(b), added par. (4).
 
-### § 1260. Applications; allocation
+### § 1260. Applications; allocation
 
 **(1)** A grant or contract authorized by section 1259 of this title may be made only upon application to the Administrator at such time or times and containing such information as he may prescribe, except that no such application shall be approved unless it—
 
@@ -965,9 +965,9 @@ Subsec. (b)(4). Pub. L. 95–217, § 10(b), added par. (4).
 
 **(B)** Departments and agencies of the United States are encouraged, to the extent consistent with efficient administration, to enter into arrangements with institutions of higher education for the full-time, part-time, or temporary employment, whether in the competitive or excepted service, of students enrolled in programs set forth in applications approved under paragraph (1).
 
-(June 30, 1948, ch. 758, title I, § 110, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 830.)
+(June 30, 1948, ch. 758, title I, § 110, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 830.)
 
-### § 1261. Scholarships
+### § 1261. Scholarships
 
 **(1)** The Administrator is authorized to award scholarships in accordance with the provisions of this section for undergraduate study by persons who plan to enter an occupation involving the operation and maintenance of treatment works. Such scholarships shall be awarded for such periods as the Administrator may determine but not to exceed four academic years.
 
@@ -997,9 +997,9 @@ Subsec. (b)(4). Pub. L. 95–217, § 10(b), added par. (4).
 
 **(6)** The Administrator shall by regulation provide that any person awarded a scholarship under this section shall agree in writing to enter and remain in an occupation involving the design, operation, or maintenance of treatment works for such period after completion of his course of studies as the Administrator determines appropriate.
 
-(June 30, 1948, ch. 758, title I, § 111, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 831.)
+(June 30, 1948, ch. 758, title I, § 111, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 831.)
 
-### § 1262. Definitions and authorizations
+### § 1262. Definitions and authorizations
 
 **(a)** As used in sections 1259 through 1262 of this title—
 
@@ -1011,7 +1011,7 @@ Subsec. (b)(4). Pub. L. 95–217, § 10(b), added par. (4).
 
 **(c)** There are authorized to be appropriated $25,000,000 per fiscal year for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, $6,000,000 for the fiscal year ending September 30, 1977, $7,000,000 for the fiscal year ending September 30, 1978, $7,000,000 for the fiscal year ending September 30, 1979, $7,000,000 for the fiscal year ending September 30, 1980, $7,000,000 for the fiscal year ending September 30, 1981, $7,000,000 for the fiscal year ending September 30, 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $7,000,000 per fiscal year for each of the fiscal years 1986 through 1990, to carry out sections 1259 through 1262 of this title.
 
-(June 30, 1948, ch. 758, title I, § 112, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 832; amended Pub. L. 93–592, § 4, Jan. 2, 1975, 88 Stat. 1925; Pub. L. 95–217, § 4(d), Dec. 27, 1977, 91 Stat. 1566; Pub. L. 96–483, § 1(c), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, § 101(c), Feb. 4, 1987, 101 Stat. 9; Pub. L. 105–244, title I, § 102(a)(11), Oct. 7, 1998, 112 Stat. 1620.)
+(June 30, 1948, ch. 758, title I, § 112, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 832; amended Pub. L. 93–592, § 4, Jan. 2, 1975, 88 Stat. 1925; Pub. L. 95–217, § 4(d), Dec. 27, 1977, 91 Stat. 1566; Pub. L. 96–483, § 1(c), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, § 101(c), Feb. 4, 1987, 101 Stat. 9; Pub. L. 105–244, title I, § 102(a)(11), Oct. 7, 1998, 112 Stat. 1620.)
 
 **Editorial Notes**
 
@@ -1033,7 +1033,7 @@ Subsec. (b)(4). Pub. L. 95–217, § 10(b), added par. (4).
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-### § 1263. Alaska village demonstration projects
+### § 1263. Alaska village demonstration projects
 
 **(a) Central community facilities for safe water; elimination or control of pollution**
 
@@ -1061,13 +1061,13 @@ The Administrator is authorized to provide technical, financial and management a
 
 For the purpose of this section, the term “village” shall mean an incorporated or unincorporated community with a population of ten to six hundred people living within a two-mile radius. The term “sanitation services” shall mean water supply, sewage disposal, solid waste disposal and other services necessary to maintain generally accepted standards of personal hygiene and public health.
 
-(June 30, 1948, ch. 758, title I, § 113, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 832; amended Pub. L. 95–217, § 11, Dec. 27, 1977, 91 Stat. 1568; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(June 30, 1948, ch. 758, title I, § 113, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 832; amended Pub. L. 95–217, § 11, Dec. 27, 1977, 91 Stat. 1568; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 92–203, referred to in subsec. (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, known as the Alaska Native Claims Settlement Act, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+Public Law 92–203, referred to in subsec. (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, known as the Alaska Native Claims Settlement Act, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Codification**
 
@@ -1075,9 +1075,9 @@ Subsec. (c) authorized the Administrator to report to Congress the results of th
 
 **Amendments**
 
-1977—Subsec. (d). Pub. L. 95–217, § 11(b), authorized additional appropriations of not to exceed $200,000 for the fiscal year ending Sept. 30, 1978, and $220,000, for the fiscal year ending Sept. 30, 1979, to carry out this section.
+1977—Subsec. (d). Pub. L. 95–217, § 11(b), authorized additional appropriations of not to exceed $200,000 for the fiscal year ending Sept. 30, 1978, and $220,000, for the fiscal year ending Sept. 30, 1979, to carry out this section.
 
-Subsecs. (e) to (g). Pub. L. 95–217, § 11(a), added subsecs. (e), (f), and (g).
+Subsecs. (e) to (g). Pub. L. 95–217, § 11(a), added subsecs. (e), (f), and (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1089,9 +1089,9 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 **Corps Capability Study, Alaska**
 
-Pub. L. 104–303, title IV, § 401, Oct. 12, 1996, 110 Stat. 3740, provided that: “Not later than 18 months after the date of the enactment of this Act [Oct. 12, 1996], the Secretary shall report to Congress on the advisability and capability of the Corps of Engineers to implement rural sanitation projects for rural and Native villages in Alaska.”
+Pub. L. 104–303, title IV, § 401, Oct. 12, 1996, 110 Stat. 3740, provided that: “Not later than 18 months after the date of the enactment of this Act [Oct. 12, 1996], the Secretary shall report to Congress on the advisability and capability of the Corps of Engineers to implement rural sanitation projects for rural and Native villages in Alaska.”
 
-### § 1263a. Grants to Alaska to improve sanitation in rural and Native villages
+### § 1263a. Grants to Alaska to improve sanitation in rural and Native villages
 
 **(a) In general** The Administrator of the Environmental Protection Agency may make grants to the State of Alaska for the benefit of rural and Native villages in Alaska to pay the Federal share of the cost of—
 
@@ -1105,9 +1105,9 @@ The Federal share of the cost of the activities described in subsection (a) shal
 
 **(c) Administrative expenses**
 
-The State of Alaska may use an amount not to exceed 4 percent of any grant made available under this subsection 1
+The State of Alaska may use an amount not to exceed 4 percent of any grant made available under this subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 for administrative expenses necessary to carry out the activities described in subsection (a).
 
@@ -1123,7 +1123,7 @@ The Administrator shall consult with the State of Alaska on a method of prioriti
 
 **(3)** $60,000,000 for fiscal year 2026.
 
-(Pub. L. 104–182, title III, § 303, Aug. 6, 1996, 110 Stat. 1683; Pub. L. 106–457, title IX, § 903, Nov. 7, 2000, 114 Stat. 1982; Pub. L. 117–58, div. E, title II, § 50212, Nov. 15, 2021, 135 Stat. 1172.)
+(Pub. L. 104–182, title III, § 303, Aug. 6, 1996, 110 Stat. 1683; Pub. L. 106–457, title IX, § 903, Nov. 7, 2000, 114 Stat. 1982; Pub. L. 117–58, div. E, title II, § 50212, Nov. 15, 2021, 135 Stat. 1172.)
 
 **Editorial Notes**
 
@@ -1133,41 +1133,41 @@ Section was enacted as part of the Safe Drinking Water Act Amendments of 1996, a
 
 **Amendments**
 
-2021—Subsec. (b). Pub. L. 117–58, § 50212(1), substituted “75 percent” for “50 percent”.
+2021—Subsec. (b). Pub. L. 117–58, § 50212(1), substituted “75 percent” for “50 percent”.
 
-Subsec. (e). Pub. L. 117–58, § 50212(2), substituted “this section—” and pars. (1) to (3) for “this section $40,000,000 for each of fiscal years 2001 through 2005.”
+Subsec. (e). Pub. L. 117–58, § 50212(2), substituted “this section—” and pars. (1) to (3) for “this section $40,000,000 for each of fiscal years 2001 through 2005.”
 
 2000—Subsec. (e). Pub. L. 106–457 substituted “to carry out this section $40,000,000 for each of fiscal years 2001 through 2005” for “$15,000,000 for each of the fiscal years 1997 through 2000 to carry out this section”.
 
-### § 1264. Omitted
+### § 1264. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 30, 1948, ch. 758, title I, § 114, as added Oct. 18, 1972, Pub. L. 92–500, § 2, 86 Stat. 833, authorized the Administrator, in consultation with the Tahoe Regional Planning Agency, the Secretary of Agriculture, other Federal agencies, representatives of State and local governments, and members of the public, to conduct a thorough and complete study on the need of extending Federal oversight and control in order to preserve the fragile ecology of Lake Tahoe and to report the results of this study to Congress not later than one year after Oct. 18, 1972.
+Section, act June 30, 1948, ch. 758, title I, § 114, as added Oct. 18, 1972, Pub. L. 92–500, § 2, 86 Stat. 833, authorized the Administrator, in consultation with the Tahoe Regional Planning Agency, the Secretary of Agriculture, other Federal agencies, representatives of State and local governments, and members of the public, to conduct a thorough and complete study on the need of extending Federal oversight and control in order to preserve the fragile ecology of Lake Tahoe and to report the results of this study to Congress not later than one year after Oct. 18, 1972.
 
-### § 1265. In-place toxic pollutants
+### § 1265. In-place toxic pollutants
 
 The Administrator is directed to identify the location of in-place pollutants with emphasis on toxic pollutants in harbors and navigable waterways and is authorized, acting through the Secretary of the Army, to make contracts for the removal and appropriate disposal of such materials from critical port and harbor areas. There is authorized to be appropriated $15,000,000 to carry out the provisions of this section, which sum shall be available until expended.
 
-(June 30, 1948, ch. 758, title I, § 115, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 833.)
+(June 30, 1948, ch. 758, title I, § 115, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 833.)
 
-### § 1266. Hudson River reclamation demonstration proj­ect
+### § 1266. Hudson River reclamation demonstration proj­ect
 
 **(a)** The Administrator is authorized to enter into contracts and other agreements with the State of New York to carry out a project to demonstrate methods for the selective removal of polychlorinated biphenyls contaminating bottom sediments of the Hudson River, treating such sediments as required, burying such sediments in secure landfills, and installing monitoring systems for such landfills. Such demonstration project shall be for the purpose of determining the feasibility of indefinite storage in secure landfills of toxic substances and of ascertaining the improvement of the rate of recovery of a toxic contaminated national waterway. No pollutants removed pursuant to this paragraph shall be placed in any landfill unless the Administrator first determines that disposal of the pollutants in such landfill would provide a higher standard of protection of the public health, safety, and welfare than disposal of such pollutants by any other method including, but not limited to, incineration or a chemical destruction process.
 
 **(b)** The Administrator is authorized to make grants to the State of New York to carry out this section from funds allotted to such State under section 1285(a) of this title, except that the amount of any such grant shall be equal to 75 per centum of the cost of the project and such grant shall be made on condition that non-Federal sources provide the remainder of the cost of such project. The authority of this section shall be available until September 30, 1983. Funds allotted to the State of New York under section 1285(a) of this title shall be available under this subsection only to the extent that funds are not available, as determined by the Administrator, to the State of New York for the work authorized by this section under section 1265 or 1321 of this title or a comprehensive hazardous substance response and clean up fund. Any funds used under the authority of this subsection shall be deducted from any estimate of the needs of the State of New York prepared under section 1375(b) of this title. The Administrator may not obligate or expend more than $20,000,000 to carry out this section.
 
-(June 30, 1948, ch. 758, title I, § 116, as added Pub. L. 96–483, § 10, Oct. 21, 1980, 94 Stat. 2363; amended Pub. L. 105–362, title V, § 501(d)(2)(B), Nov. 10, 1998, 112 Stat. 3284; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
+(June 30, 1948, ch. 758, title I, § 116, as added Pub. L. 96–483, § 10, Oct. 21, 1980, 94 Stat. 2363; amended Pub. L. 105–362, title V, § 501(d)(2)(B), Nov. 10, 1998, 112 Stat. 3284; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (b). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(d)(2)(B). See 1998 Amendment note below.
+2002—Subsec. (b). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(d)(2)(B). See 1998 Amendment note below.
 
-1998—Subsec. (b). Pub. L. 105–362, § 501(d)(2)(B), which directed the substitution of “section 1375 of this title” for “section 1375(b) of this title” in penultimate sentence, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+1998—Subsec. (b). Pub. L. 105–362, § 501(d)(2)(B), which directed the substitution of “section 1375 of this title” for “section 1375(b) of this title” in penultimate sentence, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1175,7 +1175,7 @@ The Administrator is directed to identify the location of in-place pollutants wi
 
 Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
 
-### § 1267. Chesapeake Bay
+### § 1267. Chesapeake Bay
 
 **(a) Definitions** In this section, the following definitions apply:
 
@@ -1399,7 +1399,7 @@ The Administrator shall carry out an annual survey of sea grasses in the Chesape
 
 **(6)** for each of fiscal years 2026 through 2030, $92,000,000.
 
-(June 30, 1948, ch. 758, title I, § 117, as added Pub. L. 100–4, title I, § 103, Feb. 4, 1987, 101 Stat. 10; amended Pub. L. 106–457, title II, § 203, Nov. 7, 2000, 114 Stat. 1967; Pub. L. 114–322, title IV, § 5007, Dec. 16, 2016, 130 Stat. 1896; Pub. L. 116–188, title I, § 109, Oct. 30, 2020, 134 Stat. 920; Pub. L. 118–198, title I, § 108, Dec. 23, 2024, 138 Stat. 2681.)
+(June 30, 1948, ch. 758, title I, § 117, as added Pub. L. 100–4, title I, § 103, Feb. 4, 1987, 101 Stat. 10; amended Pub. L. 106–457, title II, § 203, Nov. 7, 2000, 114 Stat. 1967; Pub. L. 114–322, title IV, § 5007, Dec. 16, 2016, 130 Stat. 1896; Pub. L. 116–188, title I, § 109, Oct. 30, 2020, 134 Stat. 920; Pub. L. 118–198, title I, § 108, Dec. 23, 2024, 138 Stat. 2681.)
 
 **Editorial Notes**
 
@@ -1421,7 +1421,7 @@ November 7, 2000, referred to in subsecs. (h)(2)(C), (D), and (i)(1), was in the
 
 **Chesapeake Watershed Investments for Landscape Defense**
 
-Pub. L. 116–188, title I, § 111, Oct. 30, 2020, 134 Stat. 921, as amended by Pub. L. 118–198, title I, § 110, Dec. 23, 2024, 138 Stat. 2681, provided that:
+Pub. L. 116–188, title I, § 111, Oct. 30, 2020, 134 Stat. 921, as amended by Pub. L. 118–198, title I, § 110, Dec. 23, 2024, 138 Stat. 2681, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -1733,7 +1733,7 @@ Pub. L. 113–273, Dec. 18, 2014, 128 Stat. 2967, provided that:
 
 **Findings and Purposes**
 
-Pub. L. 106–457, title II, § 202, Nov. 7, 2000, 114 Stat. 1967, provided that:
+Pub. L. 106–457, title II, § 202, Nov. 7, 2000, 114 Stat. 1967, provided that:
 
 > **“(a) Findings.—** Congress finds that—
 
@@ -1755,7 +1755,7 @@ Pub. L. 106–457, title II, § 202, Nov. 7, 2000, 114 Stat. 1967, provided th
 
 **Nutrient Loading Resulting From Dredged Material Disposal**
 
-Pub. L. 106–53, title IV, § 457, Aug. 17, 1999, 113 Stat. 332, provided that:
+Pub. L. 106–53, title IV, § 457, Aug. 17, 1999, 113 Stat. 332, provided that:
 
 > **“(a) Study.—** The Secretary shall conduct a study of nutrient loading that occurs as a result of discharges of dredged material into open-water sites in the Chesapeake Bay.
 
@@ -1929,7 +1929,7 @@ Sec. 1101. (a) Nothing in this order shall be construed to impair or otherwise a
 
 Barack Obama.
 
-### § 1268. Great Lakes
+### § 1268. Great Lakes
 
 **(a) Findings, purpose, and definitions**
 
@@ -1979,9 +1979,9 @@ The Great Lakes National Program Office (previously established by the Administr
 
 **(1) Functions** The Program Office shall—
 
-**(A)** in cooperation with appropriate Federal, State, tribal, and international agencies, and in accordance with section 1251(e) of this title, develop and implement specific action plans to carry out the responsibilities of the United States under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; 1
+**(A)** in cooperation with appropriate Federal, State, tribal, and international agencies, and in accordance with section 1251(e) of this title, develop and implement specific action plans to carry out the responsibilities of the United States under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(B)** establish a Great Lakes system-wide surveillance network to monitor the water quality of the Great Lakes, with specific emphasis on the monitoring of toxic pollutants;
 
@@ -2029,9 +2029,9 @@ The Great Lakes National Program Office (previously established by the Administr
 
 **(C)** by January 1, 1994, publish in the Federal Register a final Lakewide Management Plan for Lake Michigan and begin implementation.
 
-Nothing in this subparagraph 2
+Nothing in this subparagraph 2
 
-<sup>2</sup>  So in original. Probably should be “paragraph”.
+<sup>2</sup> So in original. Probably should be “paragraph”.
 
 shall preclude the simultaneous development of Lakewide Management Plans for the other Great Lakes.
 
@@ -2339,9 +2339,9 @@ There is established within the National Oceanic and Atmospheric Administration 
 
 **(2) Identification of issues**
 
-The Research Office shall identify issues relating to the Great Lakes resources on which research is needed. The Research Office shall submit a report to Congress on such issues before the end of each fiscal year which shall identify any changes in the Great Lakes system 3
+The Research Office shall identify issues relating to the Great Lakes resources on which research is needed. The Research Office shall submit a report to Congress on such issues before the end of each fiscal year which shall identify any changes in the Great Lakes system 3
 
-<sup>3</sup>  So in original. Probably should be capitalized.
+<sup>3</sup> So in original. Probably should be capitalized.
 
 with respect to such issues.
 
@@ -2373,7 +2373,7 @@ Before October 1 of each year, the Program Office and the Research Office shall 
 
 **(2) Contents of plan** Each plan prepared under paragraph (1) shall—
 
-**(A)** identify all proposed research dedicated to activities conducted under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; <sup>1</sup>
+**(A)** identify all proposed research dedicated to activities conducted under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; <sup>1</sup>
 
 **(B)** include the Agency’s assessment of priorities for research needed to fulfill the terms of such Agreement; and
 
@@ -2403,7 +2403,7 @@ The head of each department, agency, or other instrumentality of the Federal Gov
 
 **(3)** $25,000,000 for each of fiscal years 2004 through 2008.
 
-(June 30, 1948, ch. 758, title I, § 118, as added Pub. L. 100–4, title I, § 104, Feb. 4, 1987, 101 Stat. 11; amended Pub. L. 100–688, title I, § 1008, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 101–596, title I, §§ 101–106, Nov. 16, 1990, 104 Stat. 3000–3004; Pub. L. 107–303, title I, §§ 102–105, Nov. 27, 2002, 116 Stat. 2355–2358; Pub. L. 110–365, §§ 2, 3, Oct. 8, 2008, 122 Stat. 4021; Pub. L. 113–188, title VII, § 701, Nov. 26, 2014, 128 Stat. 2019; Pub. L. 114–113, div. G, title IV, § 426, Dec. 18, 2015, 129 Stat. 2581; Pub. L. 114–322, title IV, § 5005, Dec. 16, 2016, 130 Stat. 1889; Pub. L. 116–294, § 2, Jan. 5, 2021, 134 Stat. 4899.)
+(June 30, 1948, ch. 758, title I, § 118, as added Pub. L. 100–4, title I, § 104, Feb. 4, 1987, 101 Stat. 11; amended Pub. L. 100–688, title I, § 1008, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 101–596, title I, §§ 101–106, Nov. 16, 1990, 104 Stat. 3000–3004; Pub. L. 107–303, title I, §§ 102–105, Nov. 27, 2002, 116 Stat. 2355–2358; Pub. L. 110–365, §§ 2, 3, Oct. 8, 2008, 122 Stat. 4021; Pub. L. 113–188, title VII, § 701, Nov. 26, 2014, 128 Stat. 2019; Pub. L. 114–113, div. G, title IV, § 426, Dec. 18, 2015, 129 Stat. 2581; Pub. L. 114–322, title IV, § 5005, Dec. 16, 2016, 130 Stat. 1889; Pub. L. 116–294, § 2, Jan. 5, 2021, 134 Stat. 4899.)
 
 **Editorial Notes**
 
@@ -2411,7 +2411,7 @@ The head of each department, agency, or other instrumentality of the Federal Gov
 
 Executive Order No. 13340, referred to in subsec. (c)(7)(C)(i), is Ex. Ord. No. 13340, May 18, 2004, 69 F.R. 29043, which is set out as a note under section 1268 of this title.
 
-The Water Infrastructure Finance and Innovation Act of 2014, referred to in subsec. (c)(7)(E)(ii)(III), is subtitle C (§§ 5021–5035) of title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1332, which is classified generally to chapter 52 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Water Infrastructure Finance and Innovation Act of 2014, referred to in subsec. (c)(7)(E)(ii)(III), is subtitle C (§§ 5021–5035) of title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1332, which is classified generally to chapter 52 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 The Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010, referred to in subsec. (c)(7)(I), is Pub. L. 111–88, div. A, Oct. 30, 2009, 123 Stat. 2904. The Conference Report accompanying the Act (H.R. 2996) is H. Rept. No. 111–316, 111th Cong., 1st Sess.
 
@@ -2423,55 +2423,55 @@ November 16, 1990, referred to in subsec. (c)(3)(C), was in the original “the 
 
 2021—Subsec. (c)(7)(J)(i). Pub. L. 116–294 substituted “are authorized” for “is authorized”, inserted dash after “this paragraph” and subcl. (I) designation before “$300,000,000”, and added subcls. (II) to (VI).
 
-2016—Subsec. (c)(7)(B), (C). Pub. L. 114–322, § 5005(1), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which related to focus areas in which the Initiative should prioritize programs and projects, and the selection of programs and projects for Great Lakes protection and restoration.
+2016—Subsec. (c)(7)(B), (C). Pub. L. 114–322, § 5005(1), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which related to focus areas in which the Initiative should prioritize programs and projects, and the selection of programs and projects for Great Lakes protection and restoration.
 
-Subsec. (c)(7)(D)(i). Pub. L. 114–322, § 5005(2)(A), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “Subject to subparagraph (G)(ii), funds made available to carry out the Initiative shall be used to strategically implement—
+Subsec. (c)(7)(D)(i). Pub. L. 114–322, § 5005(2)(A), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “Subject to subparagraph (G)(ii), funds made available to carry out the Initiative shall be used to strategically implement—
 
 “(I) Federal projects; and
 
 “(II) projects carried out in coordination with States, Indian tribes, municipalities, institutions of higher education, and other organizations.”
 
-Subsec. (c)(7)(D)(ii)(I). Pub. L. 114–322, § 5005(2)(B), substituted “(J)(i)” for “(G)(i)”.
+Subsec. (c)(7)(D)(ii)(I). Pub. L. 114–322, § 5005(2)(B), substituted “(J)(i)” for “(G)(i)”.
 
-Subsec. (c)(7)(D)(iii). Pub. L. 114–322, § 5005(2)(C), added cl. (iii).
+Subsec. (c)(7)(D)(iii). Pub. L. 114–322, § 5005(2)(C), added cl. (iii).
 
-Subsec. (c)(7)(E) to (J). Pub. L. 114–322, § 5005(3), added subpars. (E) to (J) and struck out former subpars. (E) to (G) which related to scope of projects, activities by other Federal agencies, and funding for fiscal year 2016.
+Subsec. (c)(7)(E) to (J). Pub. L. 114–322, § 5005(3), added subpars. (E) to (J) and struck out former subpars. (E) to (G) which related to scope of projects, activities by other Federal agencies, and funding for fiscal year 2016.
 
 2015—Subsec. (c)(7). Pub. L. 114–113 added par. (7) and struck out former par. (7), which required a five-year study and demonstration projects relating to the control and removal of toxic pollutants in the Great Lakes.
 
 2014—Subsec. (c)(10) to (13). Pub. L. 113–188 redesignated pars. (11) to (13) as (10) to (12), respectively, and struck out former par. (10) which required submission of annual comprehensive reports.
 
-2008—Subsec. (a)(3)(K), (L). Pub. L. 110–365, § 2, added subpars. (K) and (L).
+2008—Subsec. (a)(3)(K), (L). Pub. L. 110–365, § 2, added subpars. (K) and (L).
 
-Subsec. (c)(12)(B)(ii). Pub. L. 110–365, § 3(a), substituted “sediment, including activities to restore aquatic habitat that are carried out in conjunction with a project for the remediation of contaminated sediment” for “sediment”.
+Subsec. (c)(12)(B)(ii). Pub. L. 110–365, § 3(a), substituted “sediment, including activities to restore aquatic habitat that are carried out in conjunction with a project for the remediation of contaminated sediment” for “sediment”.
 
-Subsec. (c)(12)(D). Pub. L. 110–365, § 3(b)(1), substituted “Limitations” for “Limitation” in heading.
+Subsec. (c)(12)(D). Pub. L. 110–365, § 3(b)(1), substituted “Limitations” for “Limitation” in heading.
 
-Subsec. (c)(12)(D)(iii), (iv). Pub. L. 110–365, § 3(b)(2)–(4), added cls. (iii) and (iv).
+Subsec. (c)(12)(D)(iii), (iv). Pub. L. 110–365, § 3(b)(2)–(4), added cls. (iii) and (iv).
 
-Subsec. (c)(12)(E)(ii). Pub. L. 110–365, § 3(c), amended cl. (ii) generally. Prior to amendment, text read as follows: “The non-Federal share of the cost of a project carried out under this paragraph may include the value of in-kind services contributed by a non-Federal sponsor.”
+Subsec. (c)(12)(E)(ii). Pub. L. 110–365, § 3(c), amended cl. (ii) generally. Prior to amendment, text read as follows: “The non-Federal share of the cost of a project carried out under this paragraph may include the value of in-kind services contributed by a non-Federal sponsor.”
 
-Subsec. (c)(12)(E)(iii). Pub. L. 110–365, § 3(d)(2), added cl. (iii). Former cl. (iii) redesignated (iv).
+Subsec. (c)(12)(E)(iii). Pub. L. 110–365, § 3(d)(2), added cl. (iii). Former cl. (iii) redesignated (iv).
 
-Subsec. (c)(12)(E)(iv). Pub. L. 110–365, § 3(d)(1), (3), redesignated cl. (iii) as (iv) and substituted “contribution” for “service” in two places. Former cl. (iv) redesignated (v).
+Subsec. (c)(12)(E)(iv). Pub. L. 110–365, § 3(d)(1), (3), redesignated cl. (iii) as (iv) and substituted “contribution” for “service” in two places. Former cl. (iv) redesignated (v).
 
-Subsec. (c)(12)(E)(v). Pub. L. 110–365, § 3(d)(1), redesignated cl. (iv) as (v).
+Subsec. (c)(12)(E)(v). Pub. L. 110–365, § 3(d)(1), redesignated cl. (iv) as (v).
 
-Subsec. (c)(12)(F). Pub. L. 110–365, § 3(e), amended subpar. (F) generally. Prior to amendment, text read as follows: “The Administrator may not carry out a project under this paragraph unless the non-Federal sponsor enters into such agreements with the Administrator as the Administrator may require to ensure that the non-Federal sponsor will maintain its aggregate expenditures from all other sources for remediation programs in the area of concern in which the project is located at or above the average level of such expenditures in the 2 fiscal years preceding the date on which the project is initiated.”
+Subsec. (c)(12)(F). Pub. L. 110–365, § 3(e), amended subpar. (F) generally. Prior to amendment, text read as follows: “The Administrator may not carry out a project under this paragraph unless the non-Federal sponsor enters into such agreements with the Administrator as the Administrator may require to ensure that the non-Federal sponsor will maintain its aggregate expenditures from all other sources for remediation programs in the area of concern in which the project is located at or above the average level of such expenditures in the 2 fiscal years preceding the date on which the project is initiated.”
 
-Subsec. (c)(12)(H)(i). Pub. L. 110–365, § 3(f)(1), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “In addition to other amounts authorized under this section, there is authorized to be appropriated to carry out this paragraph $50,000,000 for each of fiscal years 2004 through 2008.”
+Subsec. (c)(12)(H)(i). Pub. L. 110–365, § 3(f)(1), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “In addition to other amounts authorized under this section, there is authorized to be appropriated to carry out this paragraph $50,000,000 for each of fiscal years 2004 through 2008.”
 
-Subsec. (c)(12)(H)(iii). Pub. L. 110–365, § 3(f)(2), added cl. (iii).
+Subsec. (c)(12)(H)(iii). Pub. L. 110–365, § 3(f)(2), added cl. (iii).
 
-Subsec. (c)(13)(B). Pub. L. 110–365, § 3(g), substituted “2010” for “2008”.
+Subsec. (c)(13)(B). Pub. L. 110–365, § 3(g), substituted “2010” for “2008”.
 
-2002—Subsec. (c)(3)(E). Pub. L. 107–303, § 102, added subpar. (E).
+2002—Subsec. (c)(3)(E). Pub. L. 107–303, § 102, added subpar. (E).
 
-Subsec. (c)(12), (13). Pub. L. 107–303, § 103, added pars. (12) and (13).
+Subsec. (c)(12), (13). Pub. L. 107–303, § 103, added pars. (12) and (13).
 
-Subsec. (g). Pub. L. 107–303, § 104, substituted “construed—” for “construed to affect”, inserted “(1) to affect” before “the jurisdiction”, substituted “Lakes; or” for “Lakes.”, and added par. (2).
+Subsec. (g). Pub. L. 107–303, § 104, substituted “construed—” for “construed to affect”, inserted “(1) to affect” before “the jurisdiction”, substituted “Lakes; or” for “Lakes.”, and added par. (2).
 
-Subsec. (h). Pub. L. 107–303, § 105, substituted “not to exceed—” for “not to exceed $11,000,000”, inserted “(1) $11,000,000” before “per fiscal year for”, substituted “1991;” for “1991.”, added pars. (2) and (3), and struck out former last sentence which read as follows: “Of the amounts appropriated each fiscal year—
+Subsec. (h). Pub. L. 107–303, § 105, substituted “not to exceed—” for “not to exceed $11,000,000”, inserted “(1) $11,000,000” before “per fiscal year for”, substituted “1991;” for “1991.”, added pars. (2) and (3), and struck out former last sentence which read as follows: “Of the amounts appropriated each fiscal year—
 
 “(1) 40 percent shall be used by the Great Lakes National Program Office on demonstration projects on the feasibility of controlling and removing toxic pollutants;
 
@@ -2479,15 +2479,15 @@ Subsec. (h). Pub. L. 107–303, § 105, substituted “not to exceed—” for
 
 “(3) 30 percent or $3,300,000, whichever is the lesser, shall be transferred to the National Oceanic and Atmospheric Administration for use by the Great Lakes Research Office.”
 
-1990—Subsec. (a)(3)(F) to (J). Pub. L. 101–596, § 103, added subpars. (F) to (J).
+1990—Subsec. (a)(3)(F) to (J). Pub. L. 101–596, § 103, added subpars. (F) to (J).
 
-Subsec. (c)(2) to (11). Pub. L. 101–596, §§ 101, 102, 104, added pars. (2) to (5) after par. (1) and renumbered existing paragraphs accordingly, which was executed by renumbering pars. (2) to (6) as (6) to (10), respectively, redesignated existing provisions of par. (7) as subpar. (A) and added subpars. (B) and (C), and added par. (11).
+Subsec. (c)(2) to (11). Pub. L. 101–596, §§ 101, 102, 104, added pars. (2) to (5) after par. (1) and renumbered existing paragraphs accordingly, which was executed by renumbering pars. (2) to (6) as (6) to (10), respectively, redesignated existing provisions of par. (7) as subpar. (A) and added subpars. (B) and (C), and added par. (11).
 
-Subsec. (e)(3). Pub. L. 101–596, § 106, added par. (3).
+Subsec. (e)(3). Pub. L. 101–596, § 106, added par. (3).
 
-Subsec. (h). Pub. L. 101–596, § 105, substituted “and 1990, and $25,000,000 for fiscal year 1991” for “1990, and 1991” in introductory provisions and inserted “or $3,300,000, whichever is the lesser,” after “30 percent” in par. (3).
+Subsec. (h). Pub. L. 101–596, § 105, substituted “and 1990, and $25,000,000 for fiscal year 1991” for “1990, and 1991” in introductory provisions and inserted “or $3,300,000, whichever is the lesser,” after “30 percent” in par. (3).
 
-1988—Subsecs. (a)(1)(B), (2), (c)(1)(A), (6)(A), (D), (e)(2)(A), (f). Pub. L. 100–688 inserted “, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,” after “the Great Lakes Water Quality Agreement of 1978”.
+1988—Subsecs. (a)(1)(B), (2), (c)(1)(A), (6)(A), (D), (e)(2)(A), (f). Pub. L. 100–688 inserted “, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,” after “the Great Lakes Water Quality Agreement of 1978”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2497,7 +2497,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Notification Requirements**
 
-Pub. L. 114–113, div. G, title IV, § 425, Dec. 18, 2015, 129 Stat. 2580, provided that:
+Pub. L. 114–113, div. G, title IV, § 425, Dec. 18, 2015, 129 Stat. 2580, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -2561,7 +2561,7 @@ Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3332, provided in 
 
 **Great Lakes Remedial Action Plans and Sediment Remediation**
 
-Pub. L. 101–640, title IV, § 401, Nov. 28, 1990, 104 Stat. 4644, as amended by Pub. L. 104–303, title V, § 515, Oct. 12, 1996, 110 Stat. 3763; Pub. L. 106–53, title V, § 505, Aug. 17, 1999, 113 Stat. 338; Pub. L. 106–541, title III, § 344, Dec. 11, 2000, 114 Stat. 2613; Pub. L. 110–114, title V, § 5012, Nov. 8, 2007, 121 Stat. 1195, provided that:
+Pub. L. 101–640, title IV, § 401, Nov. 28, 1990, 104 Stat. 4644, as amended by Pub. L. 104–303, title V, § 515, Oct. 12, 1996, 110 Stat. 3763; Pub. L. 106–53, title V, § 505, Aug. 17, 1999, 113 Stat. 338; Pub. L. 106–541, title III, § 344, Dec. 11, 2000, 114 Stat. 2613; Pub. L. 110–114, title V, § 5012, Nov. 8, 2007, 121 Stat. 1195, provided that:
 
 > **“(a) Great Lakes Remedial Action Plans.—**
 
@@ -2639,7 +2639,7 @@ Sec. 6. *Judicial Review*. This order is intended only to improve the internal m
 
 George W. Bush.
 
-### § 1268a. Great Lakes restoration activities report
+### § 1268a. Great Lakes restoration activities report
 
 **(a)** For purposes of this section the following definitions apply:
 
@@ -2661,7 +2661,7 @@ George W. Bush.
 
 **(4)** a listing of all projects to be undertaken in the upcoming fiscal year with the Federal portion of funds for activities.
 
-(Pub. L. 113–76, div. E, title VII, § 738, Jan. 17, 2014, 128 Stat. 238.)
+(Pub. L. 113–76, div. E, title VII, § 738, Jan. 17, 2014, 128 Stat. 238.)
 
 **Editorial Notes**
 
@@ -2669,7 +2669,7 @@ George W. Bush.
 
 Section was enacted as part of the Financial Services and General Government Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
 
-### § 1269. Long Island Sound
+### § 1269. Long Island Sound
 
 **(a) Office of Management Conference of the Long Island Sound Study**
 
@@ -2709,9 +2709,9 @@ The Office shall be headed by a Director, who shall be detailed by the Administr
 
 **(ii)** the development and implementation of adaptation strategies to reduce such vulnerabilities; and
 
-**(iii)** the identification and assessment of the effects of sea level rise on water quality, habitat, and infrastructure; and 1
+**(iii)** the identification and assessment of the effects of sea level rise on water quality, habitat, and infrastructure; and 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(3)** coordinate the grant, research and planning programs authorized under this section;
 
@@ -2783,7 +2783,7 @@ To the maximum extent practicable, the head of each Federal department or agency
 
 There is authorized to be appropriated to the Administrator to carry out this section $40,000,000 for each of fiscal years 2019 through 2023.
 
-(June 30, 1948, ch. 758, title I, § 119, as added Pub. L. 101–596, title II, § 202, Nov. 16, 1990, 104 Stat. 3004; amended Pub. L. 104–303, title V, § 583, Oct. 12, 1996, 110 Stat. 3791; Pub. L. 106–457, title IV, §§ 402—404, Nov. 7, 2000, 114 Stat. 1973; Pub. L. 109–137, § 1, Dec. 22, 2005, 119 Stat. 2646; Pub. L. 115–270, title IV, § 4104(a), (c)(1), Oct. 23, 2018, 132 Stat. 3873, 3875.)
+(June 30, 1948, ch. 758, title I, § 119, as added Pub. L. 101–596, title II, § 202, Nov. 16, 1990, 104 Stat. 3004; amended Pub. L. 104–303, title V, § 583, Oct. 12, 1996, 110 Stat. 3791; Pub. L. 106–457, title IV, §§ 402—404, Nov. 7, 2000, 114 Stat. 1973; Pub. L. 109–137, § 1, Dec. 22, 2005, 119 Stat. 2646; Pub. L. 115–270, title IV, § 4104(a), (c)(1), Oct. 23, 2018, 132 Stat. 3873, 3875.)
 
 **Editorial Notes**
 
@@ -2793,33 +2793,33 @@ The date of enactment of this Act, referred to in subsec. (f)(1), probably means
 
 **Amendments**
 
-2018—Subsec. (c). Pub. L. 115–270, § 4104(a)(1)(A), substituted “conference study” for “Management Conference of the Long Island Sound Study” in introductory provisions.
+2018—Subsec. (c). Pub. L. 115–270, § 4104(a)(1)(A), substituted “conference study” for “Management Conference of the Long Island Sound Study” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 115–270, § 4104(a)(1)(B), substituted semicolons for commas at end of subpars. (A) to (G) and added subpar. (J).
+Subsec. (c)(2). Pub. L. 115–270, § 4104(a)(1)(B), substituted semicolons for commas at end of subpars. (A) to (G) and added subpar. (J).
 
-Subsec. (c)(4). Pub. L. 115–270, § 4104(a)(1)(C), added par. (4) and struck out former par. (4) which read as follows: “coordinate activities and implementation responsibilities with other Federal agencies which have jurisdiction over Long Island Sound and with national and regional marine monitoring and research programs established pursuant to the Marine Protection, Research, and Sanctuaries Act;”.
+Subsec. (c)(4). Pub. L. 115–270, § 4104(a)(1)(C), added par. (4) and struck out former par. (4) which read as follows: “coordinate activities and implementation responsibilities with other Federal agencies which have jurisdiction over Long Island Sound and with national and regional marine monitoring and research programs established pursuant to the Marine Protection, Research, and Sanctuaries Act;”.
 
-Subsec. (c)(5). Pub. L. 115–270, § 4104(a)(1)(D), inserted “study” after “conference”.
+Subsec. (c)(5). Pub. L. 115–270, § 4104(a)(1)(D), inserted “study” after “conference”.
 
-Subsec. (c)(6). Pub. L. 115–270, § 4104(a)(1)(E), inserted “(including on a publicly accessible website)” after “the public” and “study” after “conference”.
+Subsec. (c)(6). Pub. L. 115–270, § 4104(a)(1)(E), inserted “(including on a publicly accessible website)” after “the public” and “study” after “conference”.
 
-Subsec. (c)(7). Pub. L. 115–270, § 4104(a)(1)(F), added par. (7) and struck out former par. (7) which related to a report to Congress on the Comprehensive Conservation and Management Plan.
+Subsec. (c)(7). Pub. L. 115–270, § 4104(a)(1)(F), added par. (7) and struck out former par. (7) which related to a report to Congress on the Comprehensive Conservation and Management Plan.
 
-Subsec. (d)(3). Pub. L. 115–270, § 4104(a)(2), substituted “60 percent” for “50 per centum”.
+Subsec. (d)(3). Pub. L. 115–270, § 4104(a)(2), substituted “60 percent” for “50 per centum”.
 
-Subsecs. (f), (g). Pub. L. 115–270, § 4104(a)(4), added subsecs. (f) and (g). Former subsec. (f) redesignated (h).
+Subsecs. (f), (g). Pub. L. 115–270, § 4104(a)(4), added subsecs. (f) and (g). Former subsec. (f) redesignated (h).
 
-Subsec. (h). Pub. L. 115–270, § 4104(c)(1), amended subsec. (h) generally. Prior to amendment text related to authorizations.
+Subsec. (h). Pub. L. 115–270, § 4104(c)(1), amended subsec. (h) generally. Prior to amendment text related to authorizations.
 
-Pub. L. 115–270, § 4104(a)(3), redesignated subsec. (f) as (h).
+Pub. L. 115–270, § 4104(a)(3), redesignated subsec. (f) as (h).
 
 2005—Subsec. (f). Pub. L. 109–137 substituted “2010” for “2005” in pars. (1) and (2).
 
-2000—Subsec. (c)(1). Pub. L. 106–457, § 402, inserted before semicolon at end “, including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan”.
+2000—Subsec. (c)(1). Pub. L. 106–457, § 402, inserted before semicolon at end “, including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan”.
 
-Subsec. (e). Pub. L. 106–457, § 403(2), added subsec. (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 106–457, § 403(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 106–457, §§ 403(1), 404, redesignated subsec. (e) as (f) and substituted “2001 through 2005” for “1991 through 2001” in par. (1) and “not to exceed $40,000,000 for each of fiscal years 2001 through 2005” for “not to exceed $3,000,000 for each of the fiscal years 1991 through 2001” in par. (2).
+Subsec. (f). Pub. L. 106–457, §§ 403(1), 404, redesignated subsec. (e) as (f) and substituted “2001 through 2005” for “1991 through 2001” in par. (1) and “not to exceed $40,000,000 for each of fiscal years 2001 through 2005” for “not to exceed $3,000,000 for each of the fiscal years 1991 through 2001” in par. (2).
 
 1996—Subsec. (e). Pub. L. 104–303 substituted “2001” for “1996” in pars. (1) and (2).
 
@@ -2827,7 +2827,7 @@ Subsec. (f). Pub. L. 106–457, §§ 403(1), 404, redesignated subsec. (e) as 
 
 **Long Island Sound Stewardship**
 
-Pub. L. 109–359, Oct. 16, 2006, 120 Stat. 2049, as amended by Pub. L. 115–270, title IV, § 4104(b), (c)(2), Oct. 23, 2018, 132 Stat. 3875, provided that:
+Pub. L. 109–359, Oct. 16, 2006, 120 Stat. 2049, as amended by Pub. L. 115–270, title IV, § 4104(b), (c)(2), Oct. 23, 2018, 132 Stat. 3875, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -3191,7 +3191,7 @@ Pub. L. 109–359, Oct. 16, 2006, 120 Stat. 2049, as amended by Pub. L. 115–27
 
 > **“(d) Limitation on Administrative Costs.—** Of the amount available each fiscal year to carry out this Act, not more than 8 percent may be used for administrative costs.”
 
-### § 1270. Patrick Leahy Lake Champlain Basin Program
+### § 1270. Patrick Leahy Lake Champlain Basin Program
 
 **(a) Establishment**
 
@@ -3295,17 +3295,17 @@ The term “Plan” means the plan developed under subsection (e).
 
 There is authorized to be appropriated to the Administrator to carry out this section $35,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.
 
-(June 30, 1948, ch. 758, title I, § 120, as added Pub. L. 101–596, title III, § 303, Nov. 16, 1990, 104 Stat. 3006; amended Pub. L. 107–303, title II, § 202, Nov. 27, 2002, 116 Stat. 2358; Pub. L. 117–328, div. O, title IV, § 404(a), Dec. 29, 2022, 136 Stat. 5228.)
+(June 30, 1948, ch. 758, title I, § 120, as added Pub. L. 101–596, title III, § 303, Nov. 16, 1990, 104 Stat. 3006; amended Pub. L. 107–303, title II, § 202, Nov. 27, 2002, 116 Stat. 2358; Pub. L. 117–328, div. O, title IV, § 404(a), Dec. 29, 2022, 136 Stat. 5228.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–328, § 404(a)(1), (2), inserted “Patrick Leahy” before “Lake Champlain Basin Program” in section catchline and wherever appearing in text.
+2022—Pub. L. 117–328, § 404(a)(1), (2), inserted “Patrick Leahy” before “Lake Champlain Basin Program” in section catchline and wherever appearing in text.
 
-Subsec. (g)(1). Pub. L. 117–328, § 404(a)(3), inserted “Patrick Leahy” before “Lake Champlain Basin Program” in heading.
+Subsec. (g)(1). Pub. L. 117–328, § 404(a)(3), inserted “Patrick Leahy” before “Lake Champlain Basin Program” in heading.
 
-Subsec. (i). Pub. L. 117–328, § 404(a)(4), amended subsec. (i) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to the Environmental Protection Agency to carry out this section—
+Subsec. (i). Pub. L. 117–328, § 404(a)(4), amended subsec. (i) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to the Environmental Protection Agency to carry out this section—
 
 “(1) $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995;
 
@@ -3313,43 +3313,43 @@ Subsec. (i). Pub. L. 117–328, § 404(a)(4), amended subsec. (i) generally. P
 
 “(3) $11,000,000 for each of fiscal years 2004 through 2008.”
 
-2002—Pub. L. 107–303, § 202(1), substituted “Lake Champlain Basin Program” for “Lake Champlain Management Conference” in section catchline.
+2002—Pub. L. 107–303, § 202(1), substituted “Lake Champlain Basin Program” for “Lake Champlain Management Conference” in section catchline.
 
-Subsec. (a). Pub. L. 107–303, § 202(1), (2), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (a). Pub. L. 107–303, § 202(1), (2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (d). Pub. L. 107–303, § 202(3), struck out par. (1) designation before “The Management”.
+Subsec. (d). Pub. L. 107–303, § 202(3), struck out par. (1) designation before “The Management”.
 
-Subsec. (e)(1). Pub. L. 107–303, § 202(4)(A), struck out “(hereafter in this section referred to as the ‘Plan’)” after “restoration plan”.
+Subsec. (e)(1). Pub. L. 107–303, § 202(4)(A), struck out “(hereafter in this section referred to as the ‘Plan’)” after “restoration plan”.
 
-Subsec. (e)(2)(F). Pub. L. 107–303, § 202(4)(B), added subpar. (F).
+Subsec. (e)(2)(F). Pub. L. 107–303, § 202(4)(B), added subpar. (F).
 
-Subsec. (f)(1). Pub. L. 107–303, § 202(5)(A), substituted “participants in the Lake Champlain Basin Program,” for “the Management Conference,”.
+Subsec. (f)(1). Pub. L. 107–303, § 202(5)(A), substituted “participants in the Lake Champlain Basin Program,” for “the Management Conference,”.
 
-Subsec. (f)(2). Pub. L. 107–303, § 202(5)(B), substituted “development and implementation of the Plan” for “development of the Plan and for retaining expert consultants in support of litigation undertaken by the State of New York and the State of Vermont to compel cleanup or obtain cleanup damage costs from persons responsible for pollution of Lake Champlain”.
+Subsec. (f)(2). Pub. L. 107–303, § 202(5)(B), substituted “development and implementation of the Plan” for “development of the Plan and for retaining expert consultants in support of litigation undertaken by the State of New York and the State of Vermont to compel cleanup or obtain cleanup damage costs from persons responsible for pollution of Lake Champlain”.
 
-Subsec. (g). Pub. L. 107–303, § 202(6)(A), substituted “Definitions” for “ ‘Lake Champlain drainage basin’ defined” in subsec. heading, inserted introductory provisions, added par. (1), inserted par. (2) designation and heading after par. (1) and inserted “The term” before “ ‘Lake Champlain drainage”.
+Subsec. (g). Pub. L. 107–303, § 202(6)(A), substituted “Definitions” for “ ‘Lake Champlain drainage basin’ defined” in subsec. heading, inserted introductory provisions, added par. (1), inserted par. (2) designation and heading after par. (1) and inserted “The term” before “ ‘Lake Champlain drainage”.
 
-Subsec. (g)(2). Pub. L. 107–303, § 202(6)(B), inserted “Hamilton,” after “Franklin,” and “Bennington,” after “Rutland,”.
+Subsec. (g)(2). Pub. L. 107–303, § 202(6)(B), inserted “Hamilton,” after “Franklin,” and “Bennington,” after “Rutland,”.
 
-Subsec. (g)(3). Pub. L. 107–303, § 202(6)(C), added par. (3).
+Subsec. (g)(3). Pub. L. 107–303, § 202(6)(C), added par. (3).
 
-Subsec. (h). Pub. L. 107–303, § 202(7), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “Nothing in this section shall be construed so as to affect the jurisdiction or powers of—
+Subsec. (h). Pub. L. 107–303, § 202(7), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “Nothing in this section shall be construed so as to affect the jurisdiction or powers of—
 
 “(1) any department or agency of the Federal Government or any State government; or
 
 “(2) any international organization or entity related to Lake Champlain created by treaty or memorandum to which the United States is a signatory.”
 
-Subsec. (i). Pub. L. 107–303, § 202(8), substituted “section—” for “section $2,000,000”, inserted “(1) $2,000,000” before “for each of fiscal years 1991,”, substituted “1995;” for “1995.”, and added pars. (2) and (3).
+Subsec. (i). Pub. L. 107–303, § 202(8), substituted “section—” for “section $2,000,000”, inserted “(1) $2,000,000” before “for each of fiscal years 1991,”, substituted “1995;” for “1995.”, and added pars. (2) and (3).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Pub. L. 117–328, div. O, title IV, § 404(c), Dec. 29, 2022, 136 Stat. 5229, provided that: “Any reference in law, regulation, map, document, paper, or other record of the United States to the ‘Lake Champlain Basin Program’ shall be deemed to be a reference to the Patrick Leahy Lake Champlain Basin Program.”
+Pub. L. 117–328, div. O, title IV, § 404(c), Dec. 29, 2022, 136 Stat. 5229, provided that: “Any reference in law, regulation, map, document, paper, or other record of the United States to the ‘Lake Champlain Basin Program’ shall be deemed to be a reference to the Patrick Leahy Lake Champlain Basin Program.”
 
 **Federal Program Coordination**
 
-Pub. L. 101–596, title III, § 304, Nov. 16, 1990, 104 Stat. 3008, as amended by Pub. L. 104–127, title III, § 336(a)(2)(F), Apr. 4, 1996, 110 Stat. 1005; Pub. L. 115–334, title II, § 2301(d)(2)(F), Dec. 20, 2018, 132 Stat. 4555, provided that:
+Pub. L. 101–596, title III, § 304, Nov. 16, 1990, 104 Stat. 3008, as amended by Pub. L. 104–127, title III, § 336(a)(2)(F), Apr. 4, 1996, 110 Stat. 1005; Pub. L. 115–334, title II, § 2301(d)(2)(F), Dec. 20, 2018, 132 Stat. 4555, provided that:
 
 > **“(a) Designation of Lake Champlain as a Priority Area Under the Environmental Quality Incentives Program.—**
 
@@ -3399,7 +3399,7 @@ Pub. L. 101–596, title III, § 304, Nov. 16, 1990, 104 Stat. 3008, as amende
 
 > **“(2)** There is authorized to be appropriated to the Department of [the] Interior $1,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsections (b) and (c) of this section.”
 
-### § 1271. Sediment survey and monitoring
+### § 1271. Sediment survey and monitoring
 
 **(a) Survey**
 
@@ -3407,7 +3407,7 @@ Pub. L. 101–596, title III, § 304, Nov. 16, 1990, 104 Stat. 3008, as amende
 
 The Administrator, in consultation with the Administrator of the National Oceanic and Atmospheric Administration and the Secretary, shall conduct a comprehensive national survey of data regarding aquatic sediment quality in the United States. The Administrator shall compile all existing information on the quantity, chemical and physical composition, and geographic location of pollutants in aquatic sediment, including the probable source of such pollutants and identification of those sediments which are contaminated pursuant to section 501(b)(4).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2) Report**
 
@@ -3419,7 +3419,7 @@ Not later than 24 months after October 31, 1992, the Administrator shall report 
 
 **(A)** identify the location of pollutants in aquatic sediment;
 
-**(B)** identify the extent of pollutants in sediment and those sediments which are contaminated pursuant to section 501(b)(4); <sup>1</sup>
+**(B)** identify the extent of pollutants in sediment and those sediments which are contaminated pursuant to section 501(b)(4); <sup>1</sup>
 
 **(C)** establish methods and protocols for monitoring the physical, chemical, and biological effects of pollutants in aquatic sediment and of contaminated sediment;
 
@@ -3435,7 +3435,7 @@ Not later than 24 months after October 31, 1992, the Administrator shall report 
 
 The Administrator shall submit to Congress a report on the findings of the monitoring under paragraph (1) on the date that is 2 years after the date specified in subsection (a)(2) and biennially thereafter.
 
-(Pub. L. 102–580, title V, § 503, Oct. 31, 1992, 106 Stat. 4865.)
+(Pub. L. 102–580, title V, § 503, Oct. 31, 1992, 106 Stat. 4865.)
 
 **Editorial Notes**
 
@@ -3451,11 +3451,11 @@ Section was enacted as part of the Water Resources Development Act of 1992 and a
 
 **Availability of Contaminated Sediments Information**
 
-Pub. L. 102–580, title III, § 327, Oct. 31, 1992, 106 Stat. 4851, directed Secretary to conduct national study on information that was currently available on contaminated sediments of surface waters of United States and compile information obtained for the purpose of identifying location and nature of contaminated sediments and, not later than 1 year after Oct. 31, 1992, to transmit to Congress a report on the results of the study.
+Pub. L. 102–580, title III, § 327, Oct. 31, 1992, 106 Stat. 4851, directed Secretary to conduct national study on information that was currently available on contaminated sediments of surface waters of United States and compile information obtained for the purpose of identifying location and nature of contaminated sediments and, not later than 1 year after Oct. 31, 1992, to transmit to Congress a report on the results of the study.
 
 **National Contaminated Sediment Assessment and Management; Short Title; Definitions; Task Force**
 
-Pub. L. 102–580, title V, §§ 501, 502, Oct. 31, 1992, 106 Stat. 4864, provided that:
+Pub. L. 102–580, title V, §§ 501, 502, Oct. 31, 1992, 106 Stat. 4864, provided that:
 
 > **“SEC. 501. SHORT TITLE AND DEFINITIONS.**
 
@@ -3533,13 +3533,13 @@ Pub. L. 102–580, title V, §§ 501, 502, Oct. 31, 1992, 106 Stat. 4864, prov
 
 **Authorization of Appropriations**
 
-Pub. L. 102–580, title V, § 509(b), Oct. 31, 1992, 106 Stat. 4870, provided that: “There is authorized to be appropriated to the Administrator to carry out sections 502 and 503 [enacting this section and provisions set out above] such sums as may be necessary.”
+Pub. L. 102–580, title V, § 509(b), Oct. 31, 1992, 106 Stat. 4870, provided that: “There is authorized to be appropriated to the Administrator to carry out sections 502 and 503 [enacting this section and provisions set out above] such sums as may be necessary.”
 
 **“Secretary” Defined**
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.
 
-### § 1271a. Research and development program
+### § 1271a. Research and development program
 
 **(a) In general**
 
@@ -3555,7 +3555,7 @@ In addition to any amounts authorized under other provisions of law, there is au
 
 Funds appropriated under paragraph (1) shall remain available until expended.
 
-(Pub. L. 107–303, title I, § 106, Nov. 27, 2002, 116 Stat. 2358; Pub. L. 110–365, § 4, Oct. 8, 2008, 122 Stat. 4023.)
+(Pub. L. 107–303, title I, § 106, Nov. 27, 2002, 116 Stat. 2358; Pub. L. 110–365, § 4, Oct. 8, 2008, 122 Stat. 4023.)
 
 **Editorial Notes**
 
@@ -3567,7 +3567,7 @@ Section was enacted as part of the Great Lakes Legacy Act of 2002, and also as p
 
 2008—Subsec. (b)(1). Pub. L. 110–365 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “In addition to amounts authorized under other laws, there is authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2004 through 2008.”
 
-### § 1272. Environmental dredging
+### § 1272. Environmental dredging
 
 **(a) Operation and maintenance of navigation projects**
 
@@ -3589,9 +3589,9 @@ The Secretary may only remove and remediate contaminated sediments under subsect
 
 **(d) Disposal costs**
 
-Costs of disposal of contaminated sediments removed under this section shall be a 1
+Costs of disposal of contaminated sediments removed under this section shall be a 1
 
-<sup>1</sup>  So in original. The word “a” probably should not appear.
+<sup>1</sup> So in original. The word “a” probably should not appear.
 
 shared as a cost of construction.
 
@@ -3621,15 +3621,15 @@ Nothing in this section shall be construed to affect the rights and responsibili
 
 Notwithstanding section 1962d–5b of title 42, for any project carried out under this section, a non-Federal sponsor may include a nonprofit entity, with the consent of the affected local government.
 
-(Pub. L. 101–640, title III, § 312, Nov. 28, 1990, 104 Stat. 4639; Pub. L. 104–303, title II, § 205, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, § 224, Aug. 17, 1999, 113 Stat. 297; Pub. L. 106–541, title II, § 210(a), Dec. 11, 2000, 114 Stat. 2592.)
+(Pub. L. 101–640, title III, § 312, Nov. 28, 1990, 104 Stat. 4639; Pub. L. 104–303, title II, § 205, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, § 224, Aug. 17, 1999, 113 Stat. 297; Pub. L. 106–541, title II, § 210(a), Dec. 11, 2000, 114 Stat. 2592.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Water Pollution Control Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter (§ 1251 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter (§ 1251 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (e), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (e), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 **Codification**
 
@@ -3641,25 +3641,25 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 
 2000—Subsec. (g). Pub. L. 106–541 added subsec. (g).
 
-1999—Subsec. (b)(1). Pub. L. 106–53, § 224(1)(A), substituted “35 percent” for “50 percent”.
+1999—Subsec. (b)(1). Pub. L. 106–53, § 224(1)(A), substituted “35 percent” for “50 percent”.
 
-Subsec. (b)(2). Pub. L. 106–53, § 224(1)(B), substituted “$50,000,000” for “$20,000,000”.
+Subsec. (b)(2). Pub. L. 106–53, § 224(1)(B), substituted “$50,000,000” for “$20,000,000”.
 
-Subsec. (d). Pub. L. 106–53, § 224(2), substituted “shared as a cost of construction” for “non-Federal responsibility”.
+Subsec. (d). Pub. L. 106–53, § 224(2), substituted “shared as a cost of construction” for “non-Federal responsibility”.
 
-Subsec. (f)(6) to (8). Pub. L. 106–53, § 224(3), added pars. (6) to (8).
+Subsec. (f)(6) to (8). Pub. L. 106–53, § 224(3), added pars. (6) to (8).
 
-1996—Subsec. (a). Pub. L. 104–303, § 205(1), inserted “and remediate” after “remove”.
+1996—Subsec. (a). Pub. L. 104–303, § 205(1), inserted “and remediate” after “remove”.
 
-Subsec. (b)(1). Pub. L. 104–303, § 205(1), (2)(A), inserted “and remediate” after “remove” and inserted “and remediation” after “removal” in two places.
+Subsec. (b)(1). Pub. L. 104–303, § 205(1), (2)(A), inserted “and remediate” after “remove” and inserted “and remediation” after “removal” in two places.
 
-Subsec. (b)(2). Pub. L. 104–303, § 205(2)(B), substituted “$20,000,000” for “$10,000,000”.
+Subsec. (b)(2). Pub. L. 104–303, § 205(2)(B), substituted “$20,000,000” for “$10,000,000”.
 
-Subsec. (c). Pub. L. 104–303, § 205(1), inserted “and remediate” after “remove”.
+Subsec. (c). Pub. L. 104–303, § 205(1), inserted “and remediate” after “remove”.
 
-Subsec. (f). Pub. L. 104–303, § 205(3), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “This section shall not be effective after the last day of the 5-year period beginning on November 28, 1990; except that the Secretary may complete any project commenced under this section on or before such last day.”
+Subsec. (f). Pub. L. 104–303, § 205(3), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “This section shall not be effective after the last day of the 5-year period beginning on November 28, 1990; except that the Secretary may complete any project commenced under this section on or before such last day.”
 
-### § 1273. Lake Pontchartrain Basin
+### § 1273. Lake Pontchartrain Basin
 
 **(a) Establishment of restoration program**
 
@@ -3715,7 +3715,7 @@ Not more than 15 percent of the amount appropriated pursuant to paragraph (1) in
 
 Not more than 5 percent of the amounts appropriated to carry out this section may be used for administrative expenses.
 
-(June 30, 1948, ch. 758, title I, § 121, as added Pub. L. 106–457, title V, § 502, Nov. 7, 2000, 114 Stat. 1973; amended Pub. L. 109–392, § 1, Dec. 12, 2006, 120 Stat. 2703; Pub. L. 112–237, § 1, Dec. 28, 2012, 126 Stat. 1628; Pub. L. 117–263, div. H, title LXXXV, § 8501(c), Dec. 23, 2022, 136 Stat. 3856.)
+(June 30, 1948, ch. 758, title I, § 121, as added Pub. L. 106–457, title V, § 502, Nov. 7, 2000, 114 Stat. 1973; amended Pub. L. 109–392, § 1, Dec. 12, 2006, 120 Stat. 2703; Pub. L. 112–237, § 1, Dec. 28, 2012, 126 Stat. 1628; Pub. L. 117–263, div. H, title LXXXV, § 8501(c), Dec. 23, 2022, 136 Stat. 3856.)
 
 **Editorial Notes**
 
@@ -3725,17 +3725,17 @@ Another section 121 of act June 30, 1948, was renumbered section 122 and is clas
 
 **Amendments**
 
-2022—Subsec. (c)(7). Pub. L. 117–263, § 8501(c)(1)(A), added par. (7).
+2022—Subsec. (c)(7). Pub. L. 117–263, § 8501(c)(1)(A), added par. (7).
 
-Subsec. (d)(1). Pub. L. 117–263, § 8501(c)(1)(B), substituted “identified in the comprehensive conservation and management plan approved for the Basin under section 1330 of this title” for “recommended by a management conference convened for the Basin under section 1330 of this title”.
+Subsec. (d)(1). Pub. L. 117–263, § 8501(c)(1)(B), substituted “identified in the comprehensive conservation and management plan approved for the Basin under section 1330 of this title” for “recommended by a management conference convened for the Basin under section 1330 of this title”.
 
-Subsec. (e)(1). Pub. L. 117–263, § 8501(c)(2), substituted “10,000 square mile” for “5,000 square mile”.
+Subsec. (e)(1). Pub. L. 117–263, § 8501(c)(2), substituted “10,000 square mile” for “5,000 square mile”.
 
-Subsec. (f)(3). Pub. L. 117–263, § 8501(c)(3), added par (3).
+Subsec. (f)(3). Pub. L. 117–263, § 8501(c)(3), added par (3).
 
-2012—Subsec. (d). Pub. L. 112–237, § 1(1), inserted “to pay not more than 75 percent of the costs” after “make grants” in introductory provisions.
+2012—Subsec. (d). Pub. L. 112–237, § 1(1), inserted “to pay not more than 75 percent of the costs” after “make grants” in introductory provisions.
 
-Subsec. (f)(1). Pub. L. 112–237, § 1(2), substituted “2012 and the amount appropriated for fiscal year 2009 for each of fiscal years 2013 through 2017” for “2011”.
+Subsec. (f)(1). Pub. L. 112–237, § 1(2), substituted “2012 and the amount appropriated for fiscal year 2009 for each of fiscal years 2013 through 2017” for “2011”.
 
 2006—Subsec. (f)(1). Pub. L. 109–392 substituted “2011” for “2005”.
 
@@ -3743,9 +3743,9 @@ Subsec. (f)(1). Pub. L. 112–237, § 1(2), substituted “2012 and the amount
 
 **Management Conference**
 
-Pub. L. 110–114, title V, § 5084, Nov. 8, 2007, 121 Stat. 1228, provided that: “For purposes of carrying out section 121 of the Federal Water Pollution Control Act (33 U.S.C. 1273), the Lake Pontchartrain, Louisiana, basin stakeholders conference convened by the Environmental Protection Agency, National Oceanic and Atmospheric Administration, and United States Geological Survey on February 25, 2002, shall be treated as being a management conference convened under section 320 of such Act (33 U.S.C. 1330).”
+Pub. L. 110–114, title V, § 5084, Nov. 8, 2007, 121 Stat. 1228, provided that: “For purposes of carrying out section 121 of the Federal Water Pollution Control Act (33 U.S.C. 1273), the Lake Pontchartrain, Louisiana, basin stakeholders conference convened by the Environmental Protection Agency, National Oceanic and Atmospheric Administration, and United States Geological Survey on February 25, 2002, shall be treated as being a management conference convened under section 320 of such Act (33 U.S.C. 1330).”
 
-### § 1274. Watershed pilot projects
+### § 1274. Watershed pilot projects
 
 **(a) In general** The Administrator, in coordination with the States, may provide technical assistance and grants to a municipality or municipal entity to carry out pilot projects relating to the following areas:
 
@@ -3781,23 +3781,23 @@ The Administrator, in coordination with the States, shall provide municipalities
 
 Not later than October 1, 2015, the Administrator shall transmit to Congress a report on the results of the pilot projects conducted under this section and their possible application nationwide.
 
-(June 30, 1948, ch. 758, title I, § 122, formerly § 121, as added Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 112(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–225; renumbered § 122, Pub. L. 109–392, § 2, Dec. 12, 2006, 120 Stat. 2703; amended Pub. L. 113–121, title V, § 5011, June 10, 2014, 128 Stat. 1327.)
+(June 30, 1948, ch. 758, title I, § 122, formerly § 121, as added Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 112(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–225; renumbered § 122, Pub. L. 109–392, § 2, Dec. 12, 2006, 120 Stat. 2703; amended Pub. L. 113–121, title V, § 5011, June 10, 2014, 128 Stat. 1327.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Pub. L. 113–121, § 5011(1), struck out “Wet weather” before “Watershed” in section catchline.
+2014—Pub. L. 113–121, § 5011(1), struck out “Wet weather” before “Watershed” in section catchline.
 
-Subsec. (a). Pub. L. 113–121, § 5011(2)(A), in introductory provisions, substituted “to a municipality or municipal entity” for “for treatment works” and struck out “of wet weather discharge control” after “the following areas”.
+Subsec. (a). Pub. L. 113–121, § 5011(2)(A), in introductory provisions, substituted “to a municipality or municipal entity” for “for treatment works” and struck out “of wet weather discharge control” after “the following areas”.
 
-Subsec. (a)(2). Pub. L. 113–121, § 5011(2)(B), substituted “to manage, reduce, treat, recapture, or reuse municipal stormwater, including techniques that utilize infiltration, evapotranspiration, and reuse of stormwater onsite” for “in reducing such pollutants from stormwater discharges”.
+Subsec. (a)(2). Pub. L. 113–121, § 5011(2)(B), substituted “to manage, reduce, treat, recapture, or reuse municipal stormwater, including techniques that utilize infiltration, evapotranspiration, and reuse of stormwater onsite” for “in reducing such pollutants from stormwater discharges”.
 
-Subsec. (a)(3) to (6). Pub. L. 113–121, § 5011(2)(C), added pars. (3) to (6).
+Subsec. (a)(3) to (6). Pub. L. 113–121, § 5011(2)(C), added pars. (3) to (6).
 
-Subsecs. (c), (d). Pub. L. 113–121, § 5011(3)–(5), redesignated subsec. (d) as (c), substituted “October 1, 2015,” for “5 years after December 21, 2000,”, and struck out former subsec. (c) which authorized appropriations to carry out this section.
+Subsecs. (c), (d). Pub. L. 113–121, § 5011(3)–(5), redesignated subsec. (d) as (c), substituted “October 1, 2015,” for “5 years after December 21, 2000,”, and struck out former subsec. (c) which authorized appropriations to carry out this section.
 
-### § 1275. Columbia River Basin Restoration
+### § 1275. Columbia River Basin Restoration
 
 **(a) Definitions** In this section, the following definitions apply:
 
@@ -3895,9 +3895,9 @@ Membership in the Working Group shall be on a voluntary basis and any person inv
 
 **(v)** industries operating in the Columbia River Basin that affect or could affect water quality;
 
-**(vi)** electric, water, and wastewater utilities operating in the Columba 1
+**(vi)** electric, water, and wastewater utilities operating in the Columba 1
 
-<sup>1</sup>  So in original. Probably should be “Columbia”.
+<sup>1</sup> So in original. Probably should be “Columbia”.
 
 River Basin;
 
@@ -3997,7 +3997,7 @@ There is authorized to be appropriated to carry out this subsection $30,000,000 
 
 **(3)** the proposed budget for protection and restoration projects, programs, and studies relating to the Columbia River Basin.
 
-(June 30, 1948, ch. 758, title I, § 123, as added Pub. L. 114–322, title IV, § 5010, Dec. 16, 2016, 130 Stat. 1898; amended Pub. L. 115–270, title IV, § 4105, Oct. 23, 2018, 132 Stat. 3875.)
+(June 30, 1948, ch. 758, title I, § 123, as added Pub. L. 114–322, title IV, § 5010, Dec. 16, 2016, 130 Stat. 1898; amended Pub. L. 115–270, title IV, § 4105, Oct. 23, 2018, 132 Stat. 3875.)
 
 **Editorial Notes**
 
@@ -4005,7 +4005,7 @@ There is authorized to be appropriated to carry out this subsection $30,000,000 
 
 2018—Subsec. (d)(6). Pub. L. 115–270 added par. (6).
 
-### § 1276. Enhanced aquifer use and recharge
+### § 1276. Enhanced aquifer use and recharge
 
 **(a) In general** Subject to the availability of appropriations, the Administrator shall provide funding to carry out groundwater research on enhanced aquifer use and recharge in support of sole-source aquifers, of which—
 
@@ -4021,9 +4021,9 @@ As a condition of accepting funds under subsection (a), the State, unit of local
 
 There is authorized to be appropriated to the Administrator to carry out this section $5,000,000 for each of fiscal years 2022 through 2026.
 
-(June 30, 1948, ch. 758, title I, § 124, as added Pub. L. 117–58, div. E, title II, § 50222, Nov. 15, 2021, 135 Stat. 1181.)
+(June 30, 1948, ch. 758, title I, § 124, as added Pub. L. 117–58, div. E, title II, § 50222, Nov. 15, 2021, 135 Stat. 1181.)
 
-### § 1276a. San Francisco Bay restoration grant program
+### § 1276a. San Francisco Bay restoration grant program
 
 **(a) Definitions** In this section:
 
@@ -4127,9 +4127,9 @@ Of the amount made available to carry out this section for a fiscal year, the Di
 
 No amounts made available under this section may be used for the administration of a management conference under section 1330 of this title.
 
-(June 30, 1948, ch. 758, title I, § 125, as added Pub. L. 117–263, div. H, title LXXXV, § 8501(a), Dec. 23, 2022, 136 Stat. 3845.)
+(June 30, 1948, ch. 758, title I, § 125, as added Pub. L. 117–263, div. H, title LXXXV, § 8501(a), Dec. 23, 2022, 136 Stat. 3845.)
 
-### § 1276b. Puget Sound
+### § 1276b. Puget Sound
 
 **(a) Definitions** In this section:
 
@@ -4505,17 +4505,17 @@ Nothing in this section affects any authorization or obligation of a Federal age
 
 **(D)** granting Federal assistance to State, local, and Tribal governments for activities related to the restoration and protection of the Puget Sound.
 
-(June 30, 1948, ch. 758, title I, § 126, as added Pub. L. 117–263, div. H, title LXXXV, § 8501(b), Dec. 23, 2022, 136 Stat. 3847.)
+(June 30, 1948, ch. 758, title I, § 126, as added Pub. L. 117–263, div. H, title LXXXV, § 8501(b), Dec. 23, 2022, 136 Stat. 3847.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsec. (c)(3)(C)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (c)(3)(C)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 ## SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS
 
-### § 1281. Congressional declaration of purpose
+### § 1281. Congressional declaration of purpose
 
 **(a) Development and implementation of waste treatment management plans and practices**
 
@@ -4549,9 +4549,9 @@ The Administrator shall encourage waste treatment management which combines “o
 
 **(g) Grants to construct publicly owned treatment works**
 
-**(1)** The Administrator is authorized to make grants to any State, municipality, or intermunicipal or interstate agency for the construction of publicly owned treatment works. On and after October 1, 1984, grants under this subchapter shall be made only for projects for secondary treatment or more stringent treatment, or any cost effective alternative thereto, new interceptors and appurtenances, and infiltration-in-flow correction. Notwithstanding the preceding sentences, the Administrator may make grants on and after October 1, 1984, for (A) any project within the definition set forth in section 1292(2) of this title, other than for a project referred to in the preceding sentence, and (B) any purpose for which a grant may be made under sections 1
+**(1)** The Administrator is authorized to make grants to any State, municipality, or intermunicipal or interstate agency for the construction of publicly owned treatment works. On and after October 1, 1984, grants under this subchapter shall be made only for projects for secondary treatment or more stringent treatment, or any cost effective alternative thereto, new interceptors and appurtenances, and infiltration-in-flow correction. Notwithstanding the preceding sentences, the Administrator may make grants on and after October 1, 1984, for (A) any project within the definition set forth in section 1292(2) of this title, other than for a project referred to in the preceding sentence, and (B) any purpose for which a grant may be made under sections 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 1329(h) and (i) of this title (including any innovative and alternative approaches for the control of nonpoint sources of pollution), except that not more than 20 per centum (as determined by the Governor of the State) of the amount allotted to a State under section 1285 of this title for any fiscal year shall be obligated in such State under authority of this sentence.
 
@@ -4627,47 +4627,47 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 In any case in which a dispute arises with respect to the awarding of a contract for construction of treatment works by a grantee of funds under this subchapter and a party to such dispute files an appeal with the Administrator under this subchapter for resolution of such dispute, the Administrator shall make a final decision on such appeal within 90 days of the filing of such appeal.
 
-(June 30, 1948, ch. 758, title II, § 201, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 833; amended Pub. L. 95–217, §§ 12–16, Dec. 27, 1977, 91 Stat. 1569, 1570; Pub. L. 96–483, §§ 2(d), 3, Oct. 21, 1980, 94 Stat. 2361; Pub. L. 97–117, §§ 2(a), 3(a), 4–6, 10(c), Dec. 29, 1981, 95 Stat. 1623–1626; Pub. L. 100–4, title II, § 201, title III, § 316(c), Feb. 4, 1987, 101 Stat. 15, 60.)
+(June 30, 1948, ch. 758, title II, § 201, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 833; amended Pub. L. 95–217, §§ 12–16, Dec. 27, 1977, 91 Stat. 1569, 1570; Pub. L. 96–483, §§ 2(d), 3, Oct. 21, 1980, 94 Stat. 2361; Pub. L. 97–117, §§ 2(a), 3(a), 4–6, 10(c), Dec. 29, 1981, 95 Stat. 1623–1626; Pub. L. 100–4, title II, § 201, title III, § 316(c), Feb. 4, 1987, 101 Stat. 15, 60.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1987—Subsec. (g)(1). Pub. L. 100–4, § 316(c), substituted “sentences, the Administrator” for “sentence, the Administrator” and inserted “(A)” after “October 1, 1984, for” and “and (B) any purpose for which a grant may be made under sections 1329(h) and (i) of this title (including any innovative and alternative approaches for the control of nonpoint sources of pollution),” before “except that”.
+1987—Subsec. (g)(1). Pub. L. 100–4, § 316(c), substituted “sentences, the Administrator” for “sentence, the Administrator” and inserted “(A)” after “October 1, 1984, for” and “and (B) any purpose for which a grant may be made under sections 1329(h) and (i) of this title (including any innovative and alternative approaches for the control of nonpoint sources of pollution),” before “except that”.
 
-Subsec. (p). Pub. L. 100–4, § 201, added subsec. (p).
+Subsec. (p). Pub. L. 100–4, § 201, added subsec. (p).
 
-1981—Subsec. (g)(1). Pub. L. 97–117, § 2(a), inserted provisions restricting, on or after Oct. 1, 1984, the categories of projects eligible for grants under this subchapter and providing an exception to the restriction for projects, other than specified projects, within the definition set forth in section 1292(2) of this title, but limiting such exception to not more than 20 per centum, as determined by the Governor of the State, of the amount allotted to a State under section 1285 of this title for any fiscal year.
+1981—Subsec. (g)(1). Pub. L. 97–117, § 2(a), inserted provisions restricting, on or after Oct. 1, 1984, the categories of projects eligible for grants under this subchapter and providing an exception to the restriction for projects, other than specified projects, within the definition set forth in section 1292(2) of this title, but limiting such exception to not more than 20 per centum, as determined by the Governor of the State, of the amount allotted to a State under section 1285 of this title for any fiscal year.
 
-Subsec. (k). Pub. L. 97–117, § 10(c), inserted provision that subsection not be in effect after Nov. 15, 1981.
+Subsec. (k). Pub. L. 97–117, § 10(c), inserted provision that subsection not be in effect after Nov. 15, 1981.
 
-Subsec. (*l*). Pub. L. 97–117, § 3(a), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 97–117, § 3(a), added subsec. (*l*).
 
-Subsec. (m). Pub. L. 97–117, § 4, added subsec. (m).
+Subsec. (m). Pub. L. 97–117, § 4, added subsec. (m).
 
-Subsec. (n). Pub. L. 97–117, § 5, added subsec. (n).
+Subsec. (n). Pub. L. 97–117, § 5, added subsec. (n).
 
-Subsec. (*o*). Pub. L. 97–117, § 6, added subsec. (*o*).
+Subsec. (*o*). Pub. L. 97–117, § 6, added subsec. (*o*).
 
-1980—Subsec. (h). Pub. L. 96–483, § 2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercial wastes to the extent attributable to the Federal share of the cost of construction.
+1980—Subsec. (h). Pub. L. 96–483, § 2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercial wastes to the extent attributable to the Federal share of the cost of construction.
 
-Subsec. (k). Pub. L. 96–483, § 3, added subsec. (k).
+Subsec. (k). Pub. L. 96–483, § 3, added subsec. (k).
 
-1977—Subsec. (g)(5). Pub. L. 95–217, § 12, added par. (5).
+1977—Subsec. (g)(5). Pub. L. 95–217, § 12, added par. (5).
 
-Subsec. (g)(6). Pub. L. 95–217, § 13, added par. (6).
+Subsec. (g)(6). Pub. L. 95–217, § 13, added par. (6).
 
-Subsec. (h). Pub. L. 95–217, § 14, added subsec. (h).
+Subsec. (h). Pub. L. 95–217, § 14, added subsec. (h).
 
-Subsec. (i). Pub. L. 95–217, § 15, added subsec. (i).
+Subsec. (i). Pub. L. 95–217, § 15, added subsec. (i).
 
-Subsec. (j). Pub. L. 95–217, § 16, added subsec. (j).
+Subsec. (j). Pub. L. 95–217, § 16, added subsec. (j).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–483, § 2(g), Oct. 21, 1980, 94 Stat. 2361, provided that: “The amendments made by this section [amending sections 1281, 1284, and 1293 of this title, enacting provisions set out as notes under section 1284 of this title, and amending provisions set out as a note under section 1284 of this title] shall take effect on December 27, 1977.”
+Pub. L. 96–483, § 2(g), Oct. 21, 1980, 94 Stat. 2361, provided that: “The amendments made by this section [amending sections 1281, 1284, and 1293 of this title, enacting provisions set out as notes under section 1284 of this title, and amending provisions set out as a note under section 1284 of this title] shall take effect on December 27, 1977.”
 
 **Environmental Protection Agency State and Tribal Assistance Grants**
 
@@ -4675,7 +4675,7 @@ Pub. L. 105–174, title III, May 1, 1998, 112 Stat. 92, provided that: “Notwi
 
 **Privatization of Infrastructure Assets**
 
-Pub. L. 104–303, title V, § 586, Oct. 12, 1996, 110 Stat. 3791, provided that:
+Pub. L. 104–303, title V, § 586, Oct. 12, 1996, 110 Stat. 3791, provided that:
 
 > **“(a) In General.—** Notwithstanding the provisions of title II of the Federal Water Pollution Control Act (33 U.S.C. 1281 et seq.), Executive Order 12803 [5 U.S.C. 601 note], or any other law or authority, an entity that received Federal grant assistance for an infrastructure asset under the Federal Water Pollution Control Act [33 U.S.C. 1251 et seq.] shall not be required to repay any portion of the grant upon the lease or concession of the asset only if—
 
@@ -4691,7 +4691,7 @@ Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2912, provided in part: 
 
 **Wastewater Assistance to Colonias**
 
-Pub. L. 104–182, title III, § 307, Aug. 6, 1996, 110 Stat. 1688, as amended by Pub. L. 117–263, div. H, title LXXXV, § 8503, Dec. 23, 2022, 136 Stat. 3856, provided that:
+Pub. L. 104–182, title III, § 307, Aug. 6, 1996, 110 Stat. 1688, as amended by Pub. L. 117–263, div. H, title LXXXV, § 8503, Dec. 23, 2022, 136 Stat. 3856, provided that:
 
 > **“(a) Definitions.—** As used in this section:
 
@@ -4731,7 +4731,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2912.
 
-Pub. L. 104–134, title I, § 101(e) [title III], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299, renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101(e) [title III], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299, renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 103–327, title III, Sept. 28, 1994, 108 Stat. 2320.
 
@@ -4743,19 +4743,19 @@ Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 762.
 
 Pub. L. 101–507, title III, Nov. 5, 1990, 104 Stat. 1372.
 
-Pub. L. 104–134, title I, § 101(e) [title III], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading [“Environmental Protection Agency” and “state and tribal assistance grants”], subject to such terms and conditions as the Administrator shall establish, to any State or federally recognized Indian tribe for multimedia or single media pollution prevention, control and abatement and related environmental activities at the request of the Governor or other appropriate State official or the tribe”.
+Pub. L. 104–134, title I, § 101(e) [title III], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading [“Environmental Protection Agency” and “state and tribal assistance grants”], subject to such terms and conditions as the Administrator shall establish, to any State or federally recognized Indian tribe for multimedia or single media pollution prevention, control and abatement and related environmental activities at the request of the Governor or other appropriate State official or the tribe”.
 
 **State Management of Construction Grant Activities**
 
-Pub. L. 104–134, title I, § 101(e) [title III], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That of the funds appropriated in the Construction Grants and Water Infrastructure/State Revolving Funds accounts since the appropriation for the fiscal year ending September 30, 1992, and hereafter, for making grants for wastewater treatment works construction projects, portions may be provided by the recipients to States for managing construction grant activities, on condition that the States agree to reimburse the recipients from State funding sources”.
+Pub. L. 104–134, title I, § 101(e) [title III], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That of the funds appropriated in the Construction Grants and Water Infrastructure/State Revolving Funds accounts since the appropriation for the fiscal year ending September 30, 1992, and hereafter, for making grants for wastewater treatment works construction projects, portions may be provided by the recipients to States for managing construction grant activities, on condition that the States agree to reimburse the recipients from State funding sources”.
 
 **Grants to Trust Territory of the Pacific Islands, American Samoa, Guam, Northern Mariana Islands, and Virgin Islands; Waiver of Collector Sewers Limitation**
 
-Pub. L. 99–396, § 12(b), Aug. 27, 1986, 100 Stat. 841, provided that: “In awarding grants to the Trust Territory of the Pacific Islands, American Samoa, Guam, the Northern Mariana Islands and the Virgin Islands under section 201(g)(1) of the Clean Water Act (33 U.S.C. 1251 et seq.) [subsec. (g)(1) of this section], the Administrator of the Environmental Protection Agency may waive limitations regarding grant eligibility for sewerage facilities and related appurtenances, insofar as such limitations relate to collector sewers, based upon a determination that applying such limitations could hinder the alleviation of threats to public health and water quality. In making such a determination, the Administrator shall take into consideration the public health and water quality benefits to be derived and the availability of alternate funding sources. The Administrator shall not award grants under this section for the operation and maintenance of sewerage facilities, for construction of facilities which are not an essential component of the sewerage facilities, or any other activities or facilities which are not concerned with the management of wastewater to alleviate threats to public health and water quality.” [For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.]
+Pub. L. 99–396, § 12(b), Aug. 27, 1986, 100 Stat. 841, provided that: “In awarding grants to the Trust Territory of the Pacific Islands, American Samoa, Guam, the Northern Mariana Islands and the Virgin Islands under section 201(g)(1) of the Clean Water Act (33 U.S.C. 1251 et seq.) [subsec. (g)(1) of this section], the Administrator of the Environmental Protection Agency may waive limitations regarding grant eligibility for sewerage facilities and related appurtenances, insofar as such limitations relate to collector sewers, based upon a determination that applying such limitations could hinder the alleviation of threats to public health and water quality. In making such a determination, the Administrator shall take into consideration the public health and water quality benefits to be derived and the availability of alternate funding sources. The Administrator shall not award grants under this section for the operation and maintenance of sewerage facilities, for construction of facilities which are not an essential component of the sewerage facilities, or any other activities or facilities which are not concerned with the management of wastewater to alleviate threats to public health and water quality.” [For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.]
 
 **Environmental Financing Authority**
 
-Pub. L. 92–500, § 12, Oct. 18, 1972, 86 Stat. 899, as amended by Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, provided that:
+Pub. L. 92–500, § 12, Oct. 18, 1972, 86 Stat. 899, as amended by Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, provided that:
 
 > **“(a)** [Short Title] This section may be cited as the Environmental Financing Act of 1972.
 
@@ -4781,7 +4781,7 @@ Pub. L. 92–500, § 12, Oct. 18, 1972, 86 Stat. 899, as amended by Pub. L. 97
 
 > **“(g)** [Issuance of Obligations] (1) The Authority is authorized, with the approval of the Secretary of the Treasury, to issue and have outstanding obligations having such maturities and bearing such rate or rates of interest as may be determined by the Authority. Such obligations may be redeemable at the option of the Authority before maturity in such manner as may be stipulated therein.
 
-> **“(2)** As authorized in appropriation Acts, and such authorizations may be without fiscal year limitations, the Secretary of the Treasury may in his discretion purchase or agree to purchase any obligations issued pursuant to paragraph (1) of this subsection, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force, are extended to include such purchases. Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon such terms and conditions as to yield a return at a rate not less than a rate determined by the Secretary of the Treasury, taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturities. The Secretary of the Treasury may sell, upon such terms and conditions and at such price or prices as he shall determine, any of the obligations acquired by him under this paragraph. All purchases and sales by the Secretary of the Treasury of such obligations under this paragraph shall be treated as public debt transactions of the United States. (As amended Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067.)
+> **“(2)** As authorized in appropriation Acts, and such authorizations may be without fiscal year limitations, the Secretary of the Treasury may in his discretion purchase or agree to purchase any obligations issued pursuant to paragraph (1) of this subsection, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force, are extended to include such purchases. Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon such terms and conditions as to yield a return at a rate not less than a rate determined by the Secretary of the Treasury, taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturities. The Secretary of the Treasury may sell, upon such terms and conditions and at such price or prices as he shall determine, any of the obligations acquired by him under this paragraph. All purchases and sales by the Secretary of the Treasury of such obligations under this paragraph shall be treated as public debt transactions of the United States. (As amended Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067.)
 
 > **“(h)** [Interest Differential] The Secretary of the Treasury is authorized and directed to make annual payments to the Authority in such amounts as are necessary to equal the amount by which the dollar amount of interest expense accrued by the Authority on account of its obligations exceeds the dollar amount of interest income accrued by the Authority on account of obligations purchased by it pursuant to subsection (e) of this section.
 
@@ -4815,11 +4815,11 @@ Pub. L. 92–500, § 12, Oct. 18, 1972, 86 Stat. 899, as amended by Pub. L. 97
 
 > **“(n) [Subsec. (n) amended section 24 of Title 12, Banks and Banking, and is not set out herein.]**
 
-> **“(o)** [Financial Controls] The budget and audit provisions of chapter 91 of title 31 shall be applicable to the Environmental Financing Authority in the same manner as they are applied to the wholly owned Government corporations. (As amended Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067.)
+> **“(o)** [Financial Controls] The budget and audit provisions of chapter 91 of title 31 shall be applicable to the Environmental Financing Authority in the same manner as they are applied to the wholly owned Government corporations. (As amended Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067.)
 
 > **“(p) [Subsec. (p) amended section 711 of former Title 31, Money and Finance, and is not set out herein.]** ”
 
-### § 1281a. Total treatment system funding
+### § 1281a. Total treatment system funding
 
 Notwithstanding any other provision of law, in any case where the Administrator of the Environmental Protection Agency finds that the total of all grants made under section 201 of the Federal Water Pollution Control Act [33 U.S.C. 1281] for the same treatment works exceeds the actual construction costs for such treatment works (as defined in that Act [33 U.S.C. 1251 et seq.]) such excess amount shall be a grant of the Federal share (as defined in that Act) of the cost of construction of a sewage collection system if—
 
@@ -4829,13 +4829,13 @@ Notwithstanding any other provision of law, in any case where the Administrator 
 
 The total of all grants for sewage collection systems made under this section shall not exceed $2,800,000.
 
-(Pub. L. 95–217, § 78, Dec. 27, 1977, 91 Stat. 1611.)
+(Pub. L. 95–217, § 78, Dec. 27, 1977, 91 Stat. 1611.)
 
 **Editorial Notes**
 
 **References in Text**
 
-That Act, meaning the Federal Water Pollution Control Act, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+That Act, meaning the Federal Water Pollution Control Act, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 Section 3102 of title 42, referred to in par. (2), was omitted from the Code pursuant to section 5316 of Title 42, The Public Health and Welfare, which terminated the authority to make grants or loans under that section after Jan. 1, 1975.
 
@@ -4843,11 +4843,11 @@ Section 3102 of title 42, referred to in par. (2), was omitted from the Code pur
 
 Section was enacted as part of the Clean Water Act of 1977, Pub. L. 95–217, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
 
-### § 1281b. Availability of Farmers Home Administration funds for non-Federal share
+### § 1281b. Availability of Farmers Home Administration funds for non-Federal share
 
 Notwithstanding any other provision of law, Federal assistance made available by the Farmers Home Administration to any political subdivision of a State may be used to provide the non-Federal share of the cost of any construction project carried out under section 1281 of this title.
 
-(Pub. L. 100–4, title II, § 202(f), Feb. 4, 1987, 101 Stat. 16.)
+(Pub. L. 100–4, title II, § 202(f), Feb. 4, 1987, 101 Stat. 16.)
 
 **Editorial Notes**
 
@@ -4855,7 +4855,7 @@ Notwithstanding any other provision of law, Federal assistance made available by
 
 Section was enacted as part of the Water Quality Act of 1987, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
 
-### § 1282. Federal share
+### § 1282. Federal share
 
 **(a) Amount of grants for treatment works**
 
@@ -4877,31 +4877,31 @@ Section was enacted as part of the Water Quality Act of 1987, and not as part of
 
 Notwithstanding any other provision of law, sums allotted to the Commonwealth of Puerto Rico under section 1285 of this title for fiscal year 1981 shall remain available for obligation for the fiscal year for which authorized and for the period of the next succeeding twenty-four months. Such sums and any unobligated funds available to Puerto Rico from allotments for fiscal years ending prior to October 1, 1981, shall be available for obligation by the Administrator of the Environmental Protection Agency only to fund the following systems: Aguadilla, Arecibo, Mayaguez, Carolina, and Camuy Hatillo. These funds may be used by the commonwealth of Puerto Rico to fund the non-Federal share of the costs of such projects. To the extent that these funds are used to pay the non-Federal share, the Commonwealth of Puerto Rico shall repay to the Environmental Protection Agency such amounts on terms and conditions developed and approved by the Administrator in consultation with the Governor of the Commonwealth of Puerto Rico. Agreement on such terms and conditions, including the payment of interest to be determined by the Secretary of the Treasury, shall be reached prior to the use of these funds for the Commonwealth’s non-Federal share. No Federal funds awarded under this provision shall be used to replace local governments funds previously expended on these projects.
 
-(June 30, 1948, ch. 758, title II, § 202, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 834; amended Pub. L. 95–217, § 17, Dec. 27, 1977, 91 Stat. 1571; Pub. L. 96–483, § 9, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 97–117, §§ 7, 8(a), (b), Dec. 29, 1981, 95 Stat. 1625; Pub. L. 97–357, title V, § 501, Oct. 19, 1982, 96 Stat. 1712; Pub. L. 100–4, title II, § 202(a)–(d), Feb. 4, 1987, 101 Stat. 15, 16.)
+(June 30, 1948, ch. 758, title II, § 202, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 834; amended Pub. L. 95–217, § 17, Dec. 27, 1977, 91 Stat. 1571; Pub. L. 96–483, § 9, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 97–117, §§ 7, 8(a), (b), Dec. 29, 1981, 95 Stat. 1625; Pub. L. 97–357, title V, § 501, Oct. 19, 1982, 96 Stat. 1712; Pub. L. 100–4, title II, § 202(a)–(d), Feb. 4, 1987, 101 Stat. 15, 16.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1987—Subsec. (a)(1). Pub. L. 100–4, § 202(a), inserted “for any grant made pursuant to a State obligation which obligation occurred before October 1, 1990” before period at end of last sentence.
+1987—Subsec. (a)(1). Pub. L. 100–4, § 202(a), inserted “for any grant made pursuant to a State obligation which obligation occurred before October 1, 1990” before period at end of last sentence.
 
-Pub. L. 100–4, § 202(b), inserted at end “Notwithstanding the first sentence of this paragraph, in the case of a project for which an application for a grant under this subchapter has been made to the Administrator before October 1, 1984, and which project is under judicial injunction on such date prohibiting its construction, such project shall be eligible for grants at 75 percent of the cost of construction thereof.”
+Pub. L. 100–4, § 202(b), inserted at end “Notwithstanding the first sentence of this paragraph, in the case of a project for which an application for a grant under this subchapter has been made to the Administrator before October 1, 1984, and which project is under judicial injunction on such date prohibiting its construction, such project shall be eligible for grants at 75 percent of the cost of construction thereof.”
 
-Pub. L. 100–4, § 202(c), inserted at end “Notwithstanding the first sentence of this paragraph, in the case of the Wyoming Valley Sanitary Authority project mandated by judicial order under a proceeding begun prior to October 1, 1984, and a project for wastewater treatment for Altoona, Pennsylvania, such projects shall be eligible for grants at 75 percent of the cost of construction thereof.”
+Pub. L. 100–4, § 202(c), inserted at end “Notwithstanding the first sentence of this paragraph, in the case of the Wyoming Valley Sanitary Authority project mandated by judicial order under a proceeding begun prior to October 1, 1984, and a project for wastewater treatment for Altoona, Pennsylvania, such projects shall be eligible for grants at 75 percent of the cost of construction thereof.”
 
-Subsec. (a)(3). Pub. L. 100–4, § 202(d), inserted at end “In addition, the Administrator is authorized to make a grant to fund all of the costs of the modification or replacement of biodisc equipment (rotating biological contactors) in any publicly owned treatment works if the Administrator finds that such equipment has failed to meet design performance specifications, unless such failure is attributable to negligence on the part of any person, and if such failure has significantly increased capital or operating and maintenance expenditures.”
+Subsec. (a)(3). Pub. L. 100–4, § 202(d), inserted at end “In addition, the Administrator is authorized to make a grant to fund all of the costs of the modification or replacement of biodisc equipment (rotating biological contactors) in any publicly owned treatment works if the Administrator finds that such equipment has failed to meet design performance specifications, unless such failure is attributable to negligence on the part of any person, and if such failure has significantly increased capital or operating and maintenance expenditures.”
 
 1982—Subsec. (c). Pub. L. 97–357 added subsec. (c).
 
-1981—Subsec. (a)(1). Pub. L. 97–117, § 7, inserted “and ending before October 30, 1984,” after “June 30, 1971,” and “and for any fiscal year beginning on or after October 1, 1984, shall be 55 per centum of the cost of construction thereof (as approved by the Administrator),” after “(as approved by the Administrator),” and provision that notwithstanding first sentence of this paragraph, in any case where primary, secondary, or advanced waste treatment facility or its related interceptors or a proj­ect for infiltration-in-flow correction has received a grant for building, acquisition, etc., before Oct. 1, 1984, all segments and phases be eligible for grants at 75 per centum of the cost of construction.
+1981—Subsec. (a)(1). Pub. L. 97–117, § 7, inserted “and ending before October 30, 1984,” after “June 30, 1971,” and “and for any fiscal year beginning on or after October 1, 1984, shall be 55 per centum of the cost of construction thereof (as approved by the Administrator),” after “(as approved by the Administrator),” and provision that notwithstanding first sentence of this paragraph, in any case where primary, secondary, or advanced waste treatment facility or its related interceptors or a proj­ect for infiltration-in-flow correction has received a grant for building, acquisition, etc., before Oct. 1, 1984, all segments and phases be eligible for grants at 75 per centum of the cost of construction.
 
-Subsec. (a)(2). Pub. L. 97–117, § 8(a), inserted provision that the amount of any grant made after Sept. 30, 1981, for any eligible treatment works or unit processes or techniques, utilizing innovative or alternative wastewater treatment processes or techniques referred to in section 1281(g)(5) of this title be a percentage of the cost of construction equal to 20 per centum greater than the percentage in effect under par. (1) of this subsection, but in no event greater than 85 per centum of the cost of construction.
+Subsec. (a)(2). Pub. L. 97–117, § 8(a), inserted provision that the amount of any grant made after Sept. 30, 1981, for any eligible treatment works or unit processes or techniques, utilizing innovative or alternative wastewater treatment processes or techniques referred to in section 1281(g)(5) of this title be a percentage of the cost of construction equal to 20 per centum greater than the percentage in effect under par. (1) of this subsection, but in no event greater than 85 per centum of the cost of construction.
 
-Subsec. (a)(4). Pub. L. 97–117, § 8(b), struck out “in the fiscal years ending September 30, 1979, September 30, 1980, and September 30, 1981” after “purpose in such State” and provision that excluded from term “eligible treatment works” collector sewers, interceptors, storm or sanitary sewers or the separation thereof, or major sewer rehabilitation.
+Subsec. (a)(4). Pub. L. 97–117, § 8(b), struck out “in the fiscal years ending September 30, 1979, September 30, 1980, and September 30, 1981” after “purpose in such State” and provision that excluded from term “eligible treatment works” collector sewers, interceptors, storm or sanitary sewers or the separation thereof, or major sewer rehabilitation.
 
-1980—Subsec. (a)(1). Pub. L. 96–483, § 9(a), inserted provisions relating to modification to a lower percentage rate by the Governor of the State and issuance of guidelines by the Administrator for the concurrence in any such modification.
+1980—Subsec. (a)(1). Pub. L. 96–483, § 9(a), inserted provisions relating to modification to a lower percentage rate by the Governor of the State and issuance of guidelines by the Administrator for the concurrence in any such modification.
 
-Subsec. (a)(2). Pub. L. 96–483, § 9(b), inserted provision relating to the modification by the Governor of the State to a percentage rate no less than 15 per centum greater than the modified uniform rate in which the Administrator has concurred.
+Subsec. (a)(2). Pub. L. 96–483, § 9(b), inserted provision relating to the modification by the Governor of the State to a percentage rate no less than 15 per centum greater than the modified uniform rate in which the Administrator has concurred.
 
 1977—Subsec. (a). Pub. L. 95–217 designated existing provisions as par. (1) and added pars. (2) to (4).
 
@@ -4909,9 +4909,9 @@ Subsec. (a)(2). Pub. L. 96–483, § 9(b), inserted provision relating to the 
 
 **Promulgation of Federal Shares**
 
-Act July 9, 1956, ch. 518, § 4, 70 Stat. 507, authorized the Surgeon General to promulgate Federal shares under the Federal Water Pollution Control Grant Program as soon as possible after July 9, 1956, in the manner specified in the Water Pollution Control Act, act June 30, 1948, ch. 758, 62 Stat. 1155, and provided that such shares were to be conclusive for the purposes of section 5 of act June 30, 1948.
+Act July 9, 1956, ch. 518, § 4, 70 Stat. 507, authorized the Surgeon General to promulgate Federal shares under the Federal Water Pollution Control Grant Program as soon as possible after July 9, 1956, in the manner specified in the Water Pollution Control Act, act June 30, 1948, ch. 758, 62 Stat. 1155, and provided that such shares were to be conclusive for the purposes of section 5 of act June 30, 1948.
 
-### § 1283. Plans, specifications, estimates, and payments
+### § 1283. Plans, specifications, estimates, and payments
 
 **(a) Submission; contractual nature of approval by Administrator; agreement on eligible costs; single grant**
 
@@ -4993,27 +4993,27 @@ In any case in which the recipient of a grant made pursuant to this subsection d
 
 A recipient of a grant made pursuant to this subsection shall not be eligible for any other grants under this subchapter for the same project.
 
-(June 30, 1948, ch. 758, title II, § 203, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 835; amended Pub. L. 93–243, § 2, Jan. 2, 1974, 87 Stat. 1069; Pub. L. 95–217, §§ 18, 19, Dec. 27, 1977, 91 Stat. 1571, 1572; Pub. L. 96–483, § 6, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 97–117, § 9, Dec. 29, 1981, 95 Stat. 1626; Pub. L. 100–4, title II, §§ 203, 204, Feb. 4, 1987, 101 Stat. 16, 17.)
+(June 30, 1948, ch. 758, title II, § 203, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 835; amended Pub. L. 93–243, § 2, Jan. 2, 1974, 87 Stat. 1069; Pub. L. 95–217, §§ 18, 19, Dec. 27, 1977, 91 Stat. 1571, 1572; Pub. L. 96–483, § 6, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 97–117, § 9, Dec. 29, 1981, 95 Stat. 1626; Pub. L. 100–4, title II, §§ 203, 204, Feb. 4, 1987, 101 Stat. 16, 17.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1987—Subsec. (a). Pub. L. 100–4, § 203, designated provision relating to submission of plans, specifications, and estimates, and provision relating to contractual nature of approval by Administrator as par. (1), designated provision relating to requirements for awarding single grant for combined Federal share of cost of preparing plans and specifications, and building and erection of treatment works as par. (3), and added par. (2).
+1987—Subsec. (a). Pub. L. 100–4, § 203, designated provision relating to submission of plans, specifications, and estimates, and provision relating to contractual nature of approval by Administrator as par. (1), designated provision relating to requirements for awarding single grant for combined Federal share of cost of preparing plans and specifications, and building and erection of treatment works as par. (3), and added par. (2).
 
-Subsec. (f). Pub. L. 100–4, § 204, added subsec. (f).
+Subsec. (f). Pub. L. 100–4, § 204, added subsec. (f).
 
 1981—Subsec. (a). Pub. L. 97–117 substituted “$8,000,000” for “$4,000,000” and struck out provision that, if any State is found by the Administrator to have unusually high costs of construction, the Administrator may authorize a single grant where the estimated total cost of the treatment works does not exceed $5,000,000.
 
 1980—Subsec. (a). Pub. L. 96–483 substituted “$4,000,000” and “$5,000,000” for “$2,000,000” and “$3,000,000”, respectively.
 
-1977—Subsec. (a). Pub. L. 95–217, § 18, provided that, in the case of a treatment works that has an estimated total cost of $2,000,000 or less (as determined by the Administrator), and the population of the applicant municipality is twenty-five thousand or less (according to the most recent United States census), upon completion of an approved facility plan, a single grant may be awarded for the combined Federal share of the cost of preparing construction plans and specifications, and the building and erection of the treatment works, and that, if any State is found by the Administrator to have unusually high costs of construction, the Administrator may authorize a single grant where the estimated total cost of the treatment works does not exceed $3,000,000.
+1977—Subsec. (a). Pub. L. 95–217, § 18, provided that, in the case of a treatment works that has an estimated total cost of $2,000,000 or less (as determined by the Administrator), and the population of the applicant municipality is twenty-five thousand or less (according to the most recent United States census), upon completion of an approved facility plan, a single grant may be awarded for the combined Federal share of the cost of preparing construction plans and specifications, and the building and erection of the treatment works, and that, if any State is found by the Administrator to have unusually high costs of construction, the Administrator may authorize a single grant where the estimated total cost of the treatment works does not exceed $3,000,000.
 
-Subsec. (e). Pub. L. 95–217, § 19, added subsec. (e).
+Subsec. (e). Pub. L. 95–217, § 19, added subsec. (e).
 
 1974—Subsec. (d). Pub. L. 93–243 added subsec. (d).
 
-### § 1284. Limitations and conditions
+### § 1284. Limitations and conditions
 
 **(a) Determinations by Administrator** Before approving grants for any project for any treatment works under section 1281(g)(1) of this title the Administrator shall determine—
 
@@ -5023,7 +5023,7 @@ Subsec. (e). Pub. L. 95–217, § 19, added subsec. (e).
 
 **(3)** that such works have been certified by the appropriate State water pollution control agency as entitled to priority over such other works in the State in accordance with any applicable State plan under section 1313(e) of this title, except that any priority list developed pursuant to section 1313(e)(3)(H) of this title may be modified by such State in accordance with regulations promulgated by the Administrator to give higher priority for grants for the Federal share of the cost of preparing construction drawings and specifications for any treatment works utilizing processes and techniques meeting the guidelines promulgated under section 1314(d)(3) of this title and for grants for the combined Federal share of the cost of preparing construction drawings and specifications and the building and erection of any treatment works meeting the requirements of the next to the last sentence of section 1283(a) of this title which utilizes processes and techniques meeting the guidelines promulgated under section 1314(d)(3) of this title.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(4)** that the applicant proposing to construct such works agrees to pay the non-Federal costs of such works and has made adequate provisions satisfactory to the Administrator for assuring proper and efficient operation, including the employment of trained management and operations personnel, and the maintenance of such works in accordance with a plan of operation approved by the State water pollution control agency or, as appropriate, the interstate agency, after construction thereof;
 
@@ -5053,45 +5053,45 @@ The next to the last sentence of paragraph (5) of subsection (a) of this section
 
 **(3)** Nothing in this section shall be construed to prohibit a grantee under this subchapter from requiring more assurances, guarantees, or indemnity or other contractual requirements from any party to a contract pertaining to a project assisted under this subchapter, than those provided under this subsection.
 
-(June 30, 1948, ch. 758, title II, § 204, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 835; amended Pub. L. 95–217, §§ 20–24, Dec. 27, 1977, 91 Stat. 1572, 1573; Pub. L. 96–483, § 2(a), (b), Oct. 21, 1980, 94 Stat. 2360, 2361; Pub. L. 97–117, §§ 10(a), (b), 11, 12, Dec. 29, 1981, 95 Stat. 1626, 1627; Pub. L. 100–4, title II, § 205(a)–(c), Feb. 4, 1987, 101 Stat. 18.)
+(June 30, 1948, ch. 758, title II, § 204, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 835; amended Pub. L. 95–217, §§ 20–24, Dec. 27, 1977, 91 Stat. 1572, 1573; Pub. L. 96–483, § 2(a), (b), Oct. 21, 1980, 94 Stat. 2360, 2361; Pub. L. 97–117, §§ 10(a), (b), 11, 12, Dec. 29, 1981, 95 Stat. 1626, 1627; Pub. L. 100–4, title II, § 205(a)–(c), Feb. 4, 1987, 101 Stat. 18.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1987—Subsec. (a)(1). Pub. L. 100–4, § 205(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “that such works are included in any applicable areawide waste treatment management plan developed under section 1288 of this title;”.
+1987—Subsec. (a)(1). Pub. L. 100–4, § 205(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “that such works are included in any applicable areawide waste treatment management plan developed under section 1288 of this title;”.
 
-Subsec. (a)(2). Pub. L. 100–4, § 205(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “that such works are in conformity with any applicable State plan under section 1313(e) of this title;”.
+Subsec. (a)(2). Pub. L. 100–4, § 205(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “that such works are in conformity with any applicable State plan under section 1313(e) of this title;”.
 
-Subsec. (b)(1). Pub. L. 100–4, § 205(c), inserted at end “A system of user charges which imposes a lower charge for low-income residential users (as defined by the Administrator) shall be deemed to be a user charge system meeting the requirements of clause (A) of this paragraph if the Administrator determines that such system was adopted after public notice and hearing.”
+Subsec. (b)(1). Pub. L. 100–4, § 205(c), inserted at end “A system of user charges which imposes a lower charge for low-income residential users (as defined by the Administrator) shall be deemed to be a user charge system meeting the requirements of clause (A) of this paragraph if the Administrator determines that such system was adopted after public notice and hearing.”
 
-1981—Subsec. (a)(5). Pub. L. 97–117, § 10(a), inserted provision that beginning Oct. 1, 1984, no grant be made under this subchapter to construct that portion of any treatment works providing reserve capacity in excess of existing needs on the date of approval of a grant for the erection, building, etc., of a project for secondary treatment or more stringent treatment or new interceptors and appurtenances, except that in no event shall reserve capacity of a facility and its related interceptors to which this subsection applies be in excess of existing needs on Oct. 1, 1990, and that in any case in which an applicant proposes to provide reserve capacity greater than that eligible for Federal financial assistance under this subchapter, the incremental costs of the additional reserve capacity be paid by the applicant.
+1981—Subsec. (a)(5). Pub. L. 97–117, § 10(a), inserted provision that beginning Oct. 1, 1984, no grant be made under this subchapter to construct that portion of any treatment works providing reserve capacity in excess of existing needs on the date of approval of a grant for the erection, building, etc., of a project for secondary treatment or more stringent treatment or new interceptors and appurtenances, except that in no event shall reserve capacity of a facility and its related interceptors to which this subsection applies be in excess of existing needs on Oct. 1, 1990, and that in any case in which an applicant proposes to provide reserve capacity greater than that eligible for Federal financial assistance under this subchapter, the incremental costs of the additional reserve capacity be paid by the applicant.
 
-Subsec. (a)(6). Pub. L. 97–117, § 11, struck out “, or at least two brand names or trade names of comparable quality or utility are listed and are followed by the words ‘or equal’ ” after “parts and equipment” and inserted provision that when in the judgment of the grantee, it is impractical or uneconomical to make a clear and accurate description of the technical requirements, a “brand name or equal” description be used as a means to define performance or other salient requirements of a procurement, and in doing so the grantee need not establish the existence of any source other than the brand or source so named.
+Subsec. (a)(6). Pub. L. 97–117, § 11, struck out “, or at least two brand names or trade names of comparable quality or utility are listed and are followed by the words ‘or equal’ ” after “parts and equipment” and inserted provision that when in the judgment of the grantee, it is impractical or uneconomical to make a clear and accurate description of the technical requirements, a “brand name or equal” description be used as a means to define performance or other salient requirements of a procurement, and in doing so the grantee need not establish the existence of any source other than the brand or source so named.
 
-Subsec. (c). Pub. L. 97–117, § 10(b), added subsec. (c).
+Subsec. (c). Pub. L. 97–117, § 10(b), added subsec. (c).
 
-Subsec. (d). Pub. L. 97–117, § 12, added subsec. (d).
+Subsec. (d). Pub. L. 97–117, § 12, added subsec. (d).
 
-1980—Subsec. (b)(1). Pub. L. 96–483, § 2(a), redesignated cl. (C) as (B). Former cl. (B) relating to payment, as a condition of approval of a grant, to an applicant by industrial users of that portion of cost of construction allocable to the treatment of such industrial waste to the extent attributable to the Federal share of the cost of construction, was struck out.
+1980—Subsec. (b)(1). Pub. L. 96–483, § 2(a), redesignated cl. (C) as (B). Former cl. (B) relating to payment, as a condition of approval of a grant, to an applicant by industrial users of that portion of cost of construction allocable to the treatment of such industrial waste to the extent attributable to the Federal share of the cost of construction, was struck out.
 
-Subsec. (b)(3) to (6). Pub. L. 96–483, § 2(b), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) relating to a formula determining the amount the grantee shall retain of the revenues derived from the payment of costs by industrial users of waste treatment services, to the extent costs are attributable to the Federal share of eligible project costs, and former par. (6) relating to the exemption from the requirements of par. (1)(B) of industrial users with a flow of twenty-five thousand gallons or less per day, were struck out.
+Subsec. (b)(3) to (6). Pub. L. 96–483, § 2(b), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) relating to a formula determining the amount the grantee shall retain of the revenues derived from the payment of costs by industrial users of waste treatment services, to the extent costs are attributable to the Federal share of eligible project costs, and former par. (6) relating to the exemption from the requirements of par. (1)(B) of industrial users with a flow of twenty-five thousand gallons or less per day, were struck out.
 
-1977—Subsec. (a)(3). Pub. L. 95–217, § 20, provided that any priority list developed pursuant to section 1313(e)(3)(H) of this title may be modified by such State in accordance with regulations promulgated by the Administrator to give higher priority for grants for the Federal share of the cost of preparing construction drawings and specifications for any treatment works utilizing processes and techniques meeting the guidelines promulgated under section 1314(d)(3) of this title and for grants for the combined Federal share of the cost of preparing construction drawings and specifications and the building and erection of any treatment works meeting the requirements of the next to the last sentence of section 1283(a) of this title which utilizes processes and techniques meeting the guidelines promulgated under section 1314(d)(3) of this title.
+1977—Subsec. (a)(3). Pub. L. 95–217, § 20, provided that any priority list developed pursuant to section 1313(e)(3)(H) of this title may be modified by such State in accordance with regulations promulgated by the Administrator to give higher priority for grants for the Federal share of the cost of preparing construction drawings and specifications for any treatment works utilizing processes and techniques meeting the guidelines promulgated under section 1314(d)(3) of this title and for grants for the combined Federal share of the cost of preparing construction drawings and specifications and the building and erection of any treatment works meeting the requirements of the next to the last sentence of section 1283(a) of this title which utilizes processes and techniques meeting the guidelines promulgated under section 1314(d)(3) of this title.
 
-Subsec. (a)(5). Pub. L. 95–217, § 21, provided that efforts to reduce total flow of sewage and unnecessary water consumption be taken into account, in accordance with regulations promulgated by the Administrator, that the amount of reserve capacity eligible for a grant under this subchapter be determined by the Administrator taking into account the projected population and associated commercial and industrial establishments within the jurisdiction of the applicant to be served by such treatment works as identified in an approved facilities plan, an areawide plan under section 1288 of this title, or an applicable municipal master plan of development, and that, for the purpose of this paragraph, section 1288 of this title, and any such plan, projected population be determined on the basis of the latest information available from the United States Department of Commerce or from the States as the Administrator, by regulation, determines appropriate.
+Subsec. (a)(5). Pub. L. 95–217, § 21, provided that efforts to reduce total flow of sewage and unnecessary water consumption be taken into account, in accordance with regulations promulgated by the Administrator, that the amount of reserve capacity eligible for a grant under this subchapter be determined by the Administrator taking into account the projected population and associated commercial and industrial establishments within the jurisdiction of the applicant to be served by such treatment works as identified in an approved facilities plan, an areawide plan under section 1288 of this title, or an applicable municipal master plan of development, and that, for the purpose of this paragraph, section 1288 of this title, and any such plan, projected population be determined on the basis of the latest information available from the United States Department of Commerce or from the States as the Administrator, by regulation, determines appropriate.
 
-Subsec. (b)(1). Pub. L. 95–217, §§ 22(a)(1), (2), 24(c), inserted “(except as otherwise provided in this paragraph)” after “proportionate share” in cl. (A) and “(which such portion, in the discretion of the applicant, may be recovered from industrial users of the total waste treatment system as distinguished from the treatment works for which the grant is made)” in cl. (B) and, at end of existing provisions, inserted sentences under which a dedicated ad valorem tax system is to be deemed the user charge system meeting the requirements of cl. (A) for the residential user class and such small non-residential user classes as defined by the Administrator in cases where an applicant, as of Dec. 27, 1977, uses a system of dedicated ad valorem taxes and the Administrator determines that the applicant has a system of charges which results in the distribution of operation and maintenance costs for treatment works within the applicant’s jurisdiction, to each user class, in proportion to the contribution to the total cost of operation and maintenance of such works by each user class (taking into account total waste water loading of such works, the constituent elements of the wastes, and other appropriate factors), and such applicant is otherwise in compliance with cl. (A) of this paragraph with respect to each industrial user.
+Subsec. (b)(1). Pub. L. 95–217, §§ 22(a)(1), (2), 24(c), inserted “(except as otherwise provided in this paragraph)” after “proportionate share” in cl. (A) and “(which such portion, in the discretion of the applicant, may be recovered from industrial users of the total waste treatment system as distinguished from the treatment works for which the grant is made)” in cl. (B) and, at end of existing provisions, inserted sentences under which a dedicated ad valorem tax system is to be deemed the user charge system meeting the requirements of cl. (A) for the residential user class and such small non-residential user classes as defined by the Administrator in cases where an applicant, as of Dec. 27, 1977, uses a system of dedicated ad valorem taxes and the Administrator determines that the applicant has a system of charges which results in the distribution of operation and maintenance costs for treatment works within the applicant’s jurisdiction, to each user class, in proportion to the contribution to the total cost of operation and maintenance of such works by each user class (taking into account total waste water loading of such works, the constituent elements of the wastes, and other appropriate factors), and such applicant is otherwise in compliance with cl. (A) of this paragraph with respect to each industrial user.
 
-Subsec. (b)(3). Pub. L. 95–217, §§ 23, 24(a), substituted “necessary for the administrative costs associated with the requirement of paragraph (1)(B) of this subsection and future expansion” for “necessary for future expansion” in cl. (B) and, at end of existing provisions, inserted sentence under which, subject to the approval of the Administrator, the following: “Not a grantee that received a grant prior to Dec. 27, 1977, may reduce the amounts required to be paid to such grantee by any industrial user of waste treatment services under such paragraph, if such grantee requires such industrial user to adopt other means of reducing the demand for waste treatment services through reduction in the total flow of sewage or unnecessary water consumption, in proportion to such reduction as determined in accordance with regulations promulgated by the Administrator”.
+Subsec. (b)(3). Pub. L. 95–217, §§ 23, 24(a), substituted “necessary for the administrative costs associated with the requirement of paragraph (1)(B) of this subsection and future expansion” for “necessary for future expansion” in cl. (B) and, at end of existing provisions, inserted sentence under which, subject to the approval of the Administrator, the following: “Not a grantee that received a grant prior to Dec. 27, 1977, may reduce the amounts required to be paid to such grantee by any industrial user of waste treatment services under such paragraph, if such grantee requires such industrial user to adopt other means of reducing the demand for waste treatment services through reduction in the total flow of sewage or unnecessary water consumption, in proportion to such reduction as determined in accordance with regulations promulgated by the Administrator”.
 
-Subsec. (b)(5), (6). Pub. L. 95–217, §§ 22(b), 24(b), added pars. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 95–217, §§ 22(b), 24(b), added pars. (5) and (6).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–4, title II, § 205(d), Feb. 4, 1987, 101 Stat. 18, provided that: “This section [amending this section] shall take effect on the date of the enactment of this Act [Feb. 4, 1987], except that the amendments made by subsections (a) and (b) [amending this section] shall take effect on the last day of the two-year period beginning on such date of enactment.”
+Pub. L. 100–4, title II, § 205(d), Feb. 4, 1987, 101 Stat. 18, provided that: “This section [amending this section] shall take effect on the date of the enactment of this Act [Feb. 4, 1987], except that the amendments made by subsections (a) and (b) [amending this section] shall take effect on the last day of the two-year period beginning on such date of enactment.”
 
 **Effective Date of 1980 Amendment**
 
@@ -5099,15 +5099,15 @@ Amendment by Pub. L. 96–483 effective Dec. 27, 1977, see section 2(g) of Pub. 
 
 **Elimination of Inapplicable Conditions or Requirements From Certain Grants**
 
-Pub. L. 96–483, § 2(c), Oct. 21, 1980, 94 Stat. 2361, provided that: “The Administrator of the Environmental Protection Agency shall take such action as may be necessary to remove from any grant made under section 201(g)(1) of the Federal Water Pollution Control Act [section 1281(g)(1) of this title] after March 1, 1973, and prior to the date of enactment of this Act [Oct. 21, 1980], any condition or requirement no longer applicable as a result of the repeals made by subsections (a) and (b) of this section [amending subsec. (b) of this section] or release any grant recipient of the obligations established by such conditions or other requirement.”
+Pub. L. 96–483, § 2(c), Oct. 21, 1980, 94 Stat. 2361, provided that: “The Administrator of the Environmental Protection Agency shall take such action as may be necessary to remove from any grant made under section 201(g)(1) of the Federal Water Pollution Control Act [section 1281(g)(1) of this title] after March 1, 1973, and prior to the date of enactment of this Act [Oct. 21, 1980], any condition or requirement no longer applicable as a result of the repeals made by subsections (a) and (b) of this section [amending subsec. (b) of this section] or release any grant recipient of the obligations established by such conditions or other requirement.”
 
 Section 2(c) of Pub. L. 96–483, set out above, effective Dec. 27, 1977, see section 2(g) of Pub. L. 96–483, set out as an Effective Date of 1980 Amendment note under section 1281 of this title.
 
 **Cost Recovery; Suspension of Grant Requirements That Industrial Users Make Payments**
 
-Pub. L. 95–217, § 75, Dec. 27, 1977, 91 Stat. 1609, as amended by Pub. L. 96–148, § 1, Dec. 16, 1979, 93 Stat. 1088; Pub. L. 96–483, § 2(f), Oct. 21, 1980, 94 Stat. 2361, directed Administrator of Environmental Protection Agency to study and report to Congress not later than last day of twelfth month which begins after Dec. 27, 1977, cost recovery procedures from industrial users of treatment works to the extent construction costs are attributable to the Federal share of the cost of construction.
+Pub. L. 95–217, § 75, Dec. 27, 1977, 91 Stat. 1609, as amended by Pub. L. 96–148, § 1, Dec. 16, 1979, 93 Stat. 1088; Pub. L. 96–483, § 2(f), Oct. 21, 1980, 94 Stat. 2361, directed Administrator of Environmental Protection Agency to study and report to Congress not later than last day of twelfth month which begins after Dec. 27, 1977, cost recovery procedures from industrial users of treatment works to the extent construction costs are attributable to the Federal share of the cost of construction.
 
-### § 1285. Allotment of grant funds
+### § 1285. Allotment of grant funds
 
 **(a) Funds for fiscal years during period June 30, 1972, and September 30, 1977; determination of amount**
 
@@ -5125,7 +5125,7 @@ Sums authorized to be appropriated pursuant to section 1287 of this title for ea
 
 **(2)** Sums authorized to be appropriated pursuant to section 1287 of this title for the fiscal years 1982, 1983, 1984, and 1985 shall be allotted for each such year by the Administrator not later than the tenth day which begins after December 29, 1981. Notwithstanding any other provision of law, sums authorized for the fiscal year ending September 30, 1982, shall be allotted in accordance with table 3 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives. Sums authorized for the fiscal years ending September 30, 1983, September 30, 1984, September 30, 1985, and September 30, 1986, shall be allotted in accordance with the following table:
 
-| States: | Fiscal years 1983 through 1985 <sup>1</sup> |
+| States: | Fiscal years 1983 through 1985 <sup>1</sup> |
 |---|---|
 | Alabama | .011398 |
 | Alaska | .006101 |
@@ -5186,7 +5186,7 @@ Sums authorized to be appropriated pursuant to section 1287 of this title for ea
 | Virgin Islands | .000531 |
 | United States totals | .999996 |
 
-<sup>1</sup>  So in original. Probably should be “1986”.
+<sup>1</sup> So in original. Probably should be “1986”.
 
 **(3) Fiscal years 1987–1990.—** Sums authorized to be appropriated pursuant to section 1287 of this title for the fiscal years 1987, 1988, 1989, and 1990 shall be allotted for each such year by the Administrator not later than the 10th day which begins after February 4, 1987. Sums authorized for such fiscal years shall be allotted in accordance with the following table:
 
@@ -5264,7 +5264,7 @@ For the fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987,
 
 **(1)** The Administrator is authorized to reserve each fiscal year not to exceed 2 per centum of the amount authorized under section 1287 of this title for purposes of the allotment made to each State under this section on or after October 1, 1977, except in the case of any fiscal year beginning on or after October 1, 1981, and ending before October 1, 1994, in which case the percentage authorized to be reserved shall not exceed 4 per centum.2
 
-<sup>2</sup>  So in original. The period probably should be a comma.
+<sup>2</sup> So in original. The period probably should be a comma.
 
 or $400,000 which­ever amount is the greater. Sums so reserved shall be available for making grants to such State under paragraph (2) of this subsection for the same period as sums are available from such allotment under subsection (d) of this section, and any such grant shall be available for obligation only during such period. Any grant made from sums reserved under this subsection which has not been obligated by the end of the period for which available shall be added to the amount last allotted to such State under this section and shall be immediately available for obligation in the same manner and to the same extent as such last allotment. Sums authorized to be reserved by this paragraph shall be in addition to and not in lieu of any other funds which may be authorized to carry out this subsection.
 
@@ -5348,7 +5348,7 @@ the State provides notice of its intent to make such deposit.
 
 Sums reserved under section 1285(j) of this title shall not be available for obligation under this subsection.
 
-(June 30, 1948, ch. 758, title II, § 205, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 837; amended Pub. L. 93–243, § 1, Jan. 2, 1974, 87 Stat. 1069; Pub. L. 95–217, §§ 25, 26(a), 27, 28, Dec. 27, 1977, 91 Stat. 1574, 1575; Pub. L. 96–483, § 11, Oct. 21, 1980, 94 Stat. 2363; Pub. L. 97–117, §§ 8(c), 13–16, Dec. 29, 1981, 95 Stat. 1625, 1627–1629; Pub. L. 100–4, title II, §§ 206(a)–(c), 207–210, 212(b), title III, § 316(d), Feb. 4, 1987, 101 Stat. 19–21, 27, 60; Pub. L. 105–362, title V, § 501(d)(2)(C), Nov. 10, 1998, 112 Stat. 3284; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
+(June 30, 1948, ch. 758, title II, § 205, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 837; amended Pub. L. 93–243, § 1, Jan. 2, 1974, 87 Stat. 1069; Pub. L. 95–217, §§ 25, 26(a), 27, 28, Dec. 27, 1977, 91 Stat. 1574, 1575; Pub. L. 96–483, § 11, Oct. 21, 1980, 94 Stat. 2363; Pub. L. 97–117, §§ 8(c), 13–16, Dec. 29, 1981, 95 Stat. 1625, 1627–1629; Pub. L. 100–4, title II, §§ 206(a)–(c), 207–210, 212(b), title III, § 316(d), Feb. 4, 1987, 101 Stat. 19–21, 27, 60; Pub. L. 105–362, title V, § 501(d)(2)(C), Nov. 10, 1998, 112 Stat. 3284; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
 
 **Editorial Notes**
 
@@ -5358,47 +5358,47 @@ Subsec. (f) provided that sums made available for obligation between Jan. 1, 197
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(d)(2)(C). See 1998 Amendment note below.
+2002—Subsec. (a). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(d)(2)(C). See 1998 Amendment note below.
 
-1998—Subsec. (a). Pub. L. 105–362, § 501(d)(2)(C), which directed the substitution of “section 1375 of this title” for “section 1375(b) of this title” in last sentence, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+1998—Subsec. (a). Pub. L. 105–362, § 501(d)(2)(C), which directed the substitution of “section 1375 of this title” for “section 1375(b) of this title” in last sentence, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
-1987—Subsec. (c)(2). Pub. L. 100–4, § 206(a)(1), substituted “September 30, 1985, and September 30, 1986” for “and September 30, 1985”.
+1987—Subsec. (c)(2). Pub. L. 100–4, § 206(a)(1), substituted “September 30, 1985, and September 30, 1986” for “and September 30, 1985”.
 
-Subsec. (c)(3). Pub. L. 100–4, § 206(a)(2), added par. (3).
+Subsec. (c)(3). Pub. L. 100–4, § 206(a)(2), added par. (3).
 
-Subsec. (e). Pub. L. 100–4, § 206(b), substituted “1985, 1986, 1987, 1988, 1989, and 1990” for “and 1985” in two places.
+Subsec. (e). Pub. L. 100–4, § 206(b), substituted “1985, 1986, 1987, 1988, 1989, and 1990” for “and 1985” in two places.
 
-Subsec. (g)(1). Pub. L. 100–4, § 206(c), substituted “October 1, 1994” for “October 1, 1985”.
+Subsec. (g)(1). Pub. L. 100–4, § 206(c), substituted “October 1, 1994” for “October 1, 1985”.
 
-Subsec. (h). Pub. L. 100–4, § 207, substituted “a total (as determined by the Governor of the State) of not less than 4 percent nor more than 7½ percent” for “four per centum” and “7½ per cent” for “four per centum”.
+Subsec. (h). Pub. L. 100–4, § 207, substituted “a total (as determined by the Governor of the State) of not less than 4 percent nor more than 7½ percent” for “four per centum” and “7½ per cent” for “four per centum”.
 
-Subsec. (i). Pub. L. 100–4, § 208, amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “Not less than one-half of one per centum of funds allotted to a State for each of the fiscal years ending September 30, 1979, September 30, 1980, September 30, 1981, September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985, under subsection (a) of this section shall be expended only for increasing the Federal share of grants for construction of treatment works utilizing innovative processes and techniques pursuant to section 1282(a)(2) of this title. Including the expenditures authorized by the preceding sentence, a total of two per centum of the funds allotted to a State for each of the fiscal years ending September 30, 1979, and September 30, 1980, and 3 per centum of the funds allotted to a State for the fiscal year ending September 30, 1981, under subsection (a) of this section shall be expended only for increasing grants for construction of treatment works from 75 per centum to 85 per centum pursuant to section 1282(a)(2) of this title. Including the expenditures authorized by the first sentence of this subsection, a total (as determined by the Governor of the State) of not less than 4 per centum nor more than 7½ per centum of the funds allotted to such State for any fiscal year beginning after September 30, 1981, under subsection (c) of this section shall be expended only for increasing the Federal share of grants for construction of treatment works pursuant to section 1282(a)(2) of this title.”
+Subsec. (i). Pub. L. 100–4, § 208, amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “Not less than one-half of one per centum of funds allotted to a State for each of the fiscal years ending September 30, 1979, September 30, 1980, September 30, 1981, September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985, under subsection (a) of this section shall be expended only for increasing the Federal share of grants for construction of treatment works utilizing innovative processes and techniques pursuant to section 1282(a)(2) of this title. Including the expenditures authorized by the preceding sentence, a total of two per centum of the funds allotted to a State for each of the fiscal years ending September 30, 1979, and September 30, 1980, and 3 per centum of the funds allotted to a State for the fiscal year ending September 30, 1981, under subsection (a) of this section shall be expended only for increasing grants for construction of treatment works from 75 per centum to 85 per centum pursuant to section 1282(a)(2) of this title. Including the expenditures authorized by the first sentence of this subsection, a total (as determined by the Governor of the State) of not less than 4 per centum nor more than 7½ per centum of the funds allotted to such State for any fiscal year beginning after September 30, 1981, under subsection (c) of this section shall be expended only for increasing the Federal share of grants for construction of treatment works pursuant to section 1282(a)(2) of this title.”
 
-Subsec. (j)(3). Pub. L. 100–4, § 209, inserted provision directing State to allocate at least 40 percent of amount granted under par. (2) to regional public comprehensive planning organizations and appropriate interstate organizations for development and implementation of plan, with exception for less than 40 percent allocation in certain circumstances.
+Subsec. (j)(3). Pub. L. 100–4, § 209, inserted provision directing State to allocate at least 40 percent of amount granted under par. (2) to regional public comprehensive planning organizations and appropriate interstate organizations for development and implementation of plan, with exception for less than 40 percent allocation in certain circumstances.
 
-Subsec. (j)(5). Pub. L. 100–4, § 316(d), added par. (5).
+Subsec. (j)(5). Pub. L. 100–4, § 316(d), added par. (5).
 
-Subsec. (*l*). Pub. L. 100–4, § 210, added subsec. (*l*).
+Subsec. (*l*). Pub. L. 100–4, § 210, added subsec. (*l*).
 
-Subsec. (m). Pub. L. 100–4, § 212(b), added subsec. (m).
+Subsec. (m). Pub. L. 100–4, § 212(b), added subsec. (m).
 
-1981—Subsec. (c). Pub. L. 97–117, § 13(a), designated existing provision as par. (1) and added par. (2).
+1981—Subsec. (c). Pub. L. 97–117, § 13(a), designated existing provision as par. (1) and added par. (2).
 
-Subsec. (e). Pub. L. 97–117, § 13(b), substituted “1981, 1982, 1983, 1984, and 1985” for “and 1981” in two places.
+Subsec. (e). Pub. L. 97–117, § 13(b), substituted “1981, 1982, 1983, 1984, and 1985” for “and 1981” in two places.
 
-Subsec. (g)(1). Pub. L. 97–117, § 14, inserted “except in the case of any fiscal year beginning on or after October 1, 1981, and ending before October 1, 1985, in which case the percentage authorized to be reserved shall not exceed 4 per centum.” after “October 1, 1977,” and provision that sums authorized to be reserved be in addition to and not in lieu of any other funds which may be authorized to carry out this subsection.
+Subsec. (g)(1). Pub. L. 97–117, § 14, inserted “except in the case of any fiscal year beginning on or after October 1, 1981, and ending before October 1, 1985, in which case the percentage authorized to be reserved shall not exceed 4 per centum.” after “October 1, 1977,” and provision that sums authorized to be reserved be in addition to and not in lieu of any other funds which may be authorized to carry out this subsection.
 
-Subsec. (i). Pub. L. 97–117, § 8(c), substituted “September 30, 1981, September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985” for “and September 30, 1981”, struck out “from 75 per centum to 85 per centum” after “innovative processes and techniques”, and inserted provision that including the expenditures authorized by the first sentence of this subsection, a total, as determined by the State Governor, of not less than 4 per centum nor more than 7½ per centum of the funds allotted to such State for any fiscal year beginning after Sept. 30, 1981, under subsec. (c) of this section be expended only for increasing the Federal share of grants for construction of treatment works pursuant to section 1282(a)(2) of this title.
+Subsec. (i). Pub. L. 97–117, § 8(c), substituted “September 30, 1981, September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985” for “and September 30, 1981”, struck out “from 75 per centum to 85 per centum” after “innovative processes and techniques”, and inserted provision that including the expenditures authorized by the first sentence of this subsection, a total, as determined by the State Governor, of not less than 4 per centum nor more than 7½ per centum of the funds allotted to such State for any fiscal year beginning after Sept. 30, 1981, under subsec. (c) of this section be expended only for increasing the Federal share of grants for construction of treatment works pursuant to section 1282(a)(2) of this title.
 
-Subsecs. (j), (k). Pub. L. 97–117, §§ 15, 16, added subsecs. (j) and (k).
+Subsecs. (j), (k). Pub. L. 97–117, §§ 15, 16, added subsecs. (j) and (k).
 
 1980—Subsec. (g)(1). Pub. L. 96–483 inserted “of the amount authorized under section 1287 of this title for purposes” after “2 per centum”.
 
-1977—Subsec. (a). Pub. L. 95–217, § 25(a), substituted “each fiscal year beginning after June 30, 1972, and before September 30, 1977” for “each fiscal year beginning after June 30, 1972”.
+1977—Subsec. (a). Pub. L. 95–217, § 25(a), substituted “each fiscal year beginning after June 30, 1972, and before September 30, 1977” for “each fiscal year beginning after June 30, 1972”.
 
-Subsecs. (c) to (f). Pub. L. 95–217, § 25(b), added subsecs. (c) to (f).
+Subsecs. (c) to (f). Pub. L. 95–217, § 25(b), added subsecs. (c) to (f).
 
-Subsecs. (g) to (i). Pub. L. 95–217, §§ 26(a), 27, 28, added subsecs. (g) to (i).
+Subsecs. (g) to (i). Pub. L. 95–217, §§ 26(a), 27, 28, added subsecs. (g) to (i).
 
 1974—Subsec. (a). Pub. L. 93–243 inserted provisions that for the fiscal year ending June 30, 1975, the ratio shall be determined one-half on the basis of table I of House Public Works Committee Print Numbered 93–28 and one-half on the basis of table II of such print, except that no State shall receive an allotment less than that which it received for the fiscal year ending June 30, 1972, as set forth in table III of such print and substituted “June 30, 1975” for “June 30, 1974” in sentence beginning “Allotments for fiscal years”.
 
@@ -5414,7 +5414,7 @@ Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollut
 
 **Availability of Allotted Sums in Subsequent Years; Reallotment of Unobligated Sums**
 
-Pub. L. 96–483, § 7, Oct. 21, 1980, 94 Stat. 2362, provided that: “Notwithstanding section 205(d) of the Federal Water Pollution Control Act (33 U.S.C. 1285), sums allotted to the States for the fiscal year 1979 shall remain available for obligation for the fiscal year for which authorized and for the period of the next succeeding twenty-four months. The amount of any allotment not obligated by the end of such thirty-six month period shall be immediately reallotted by the Administrator on the basis of the same ratio as applicable to sums allotted for the then current fiscal year, except that none of the funds reallotted by the Administrator for fiscal year 1979 shall be allotted to any State which failed to obligate any of the funds being reallotted. Any sum made available to a State by reallotment under this section shall be in addition to any funds otherwise allotted to such State for grants under title II of the Federal Water Pollution Control Act [this subchapter] during any fiscal year. This section shall take effect on September 30, 1980.”
+Pub. L. 96–483, § 7, Oct. 21, 1980, 94 Stat. 2362, provided that: “Notwithstanding section 205(d) of the Federal Water Pollution Control Act (33 U.S.C. 1285), sums allotted to the States for the fiscal year 1979 shall remain available for obligation for the fiscal year for which authorized and for the period of the next succeeding twenty-four months. The amount of any allotment not obligated by the end of such thirty-six month period shall be immediately reallotted by the Administrator on the basis of the same ratio as applicable to sums allotted for the then current fiscal year, except that none of the funds reallotted by the Administrator for fiscal year 1979 shall be allotted to any State which failed to obligate any of the funds being reallotted. Any sum made available to a State by reallotment under this section shall be in addition to any funds otherwise allotted to such State for grants under title II of the Federal Water Pollution Control Act [this subchapter] during any fiscal year. This section shall take effect on September 30, 1980.”
 
 **Executive Documents**
 
@@ -5422,7 +5422,7 @@ Pub. L. 96–483, § 7, Oct. 21, 1980, 94 Stat. 2362, provided that: “Notwit
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 1286. Reimbursement and advanced construction
+### § 1286. Reimbursement and advanced construction
 
 **(a) Publicly owned treatment works construction initiated after June 30, 1966, but before July 1, 1973; reimbursement formula**
 
@@ -5456,7 +5456,7 @@ To the extent that sufficient funds are not appropriated to pay the full Federal
 
 **(2)** In determining the allotment for any fiscal year under this subchapter, any treatment works project constructed in accordance with this section and without the aid of Federal funds shall not be considered completed until an application under the provisions of this subsection with respect to such project has been approved by the Administrator, or the availability of funds from which this project is eligible for reimbursement has expired, whichever first occurs.
 
-(June 30, 1948, ch. 758, title II, § 206, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 838; amended Pub. L. 93–207, § 1(2), Dec. 28, 1973, 87 Stat. 906; Pub. L. 95–217, § 29(a), Dec. 27, 1977, 91 Stat. 1576; Pub. L. 96–483, § 5, Oct. 21, 1980, 94 Stat. 2361.)
+(June 30, 1948, ch. 758, title II, § 206, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 838; amended Pub. L. 93–207, § 1(2), Dec. 28, 1973, 87 Stat. 906; Pub. L. 95–217, § 29(a), Dec. 27, 1977, 91 Stat. 1576; Pub. L. 96–483, § 5, Oct. 21, 1980, 94 Stat. 2361.)
 
 **Editorial Notes**
 
@@ -5478,27 +5478,27 @@ This Act, referred to in subsec. (b), means act June 30, 1948, ch. 758, 62 Stat.
 
 **Application for Assistance for Publicly Owned Treatment Works Where Grants Were Made Before July 2, 1972, and on Which Construction Was Initiated Before July 1, 1973**
 
-Pub. L. 95–217, § 29(b), Dec. 27, 1977, 91 Stat. 1576, provided that applications for assistance for publicly owned treatment works for which a grant was made under this chapter before July 1, 1972, and on which construction was initiated before July 1, 1973, be filed not later than the ninetieth day after Dec. 27, 1977.
+Pub. L. 95–217, § 29(b), Dec. 27, 1977, 91 Stat. 1576, provided that applications for assistance for publicly owned treatment works for which a grant was made under this chapter before July 1, 1972, and on which construction was initiated before July 1, 1973, be filed not later than the ninetieth day after Dec. 27, 1977.
 
 **Application for Assistance**
 
-Pub. L. 93–207, § 2, Dec. 28, 1973, 87 Stat. 906, provided that notwithstanding the requirements of subsec. (c) of this section, applications for assistance under this section could have been filed with the Administrator until Jan. 31, 1974.
+Pub. L. 93–207, § 2, Dec. 28, 1973, 87 Stat. 906, provided that notwithstanding the requirements of subsec. (c) of this section, applications for assistance under this section could have been filed with the Administrator until Jan. 31, 1974.
 
 **Allocation of Construction Grants Appropriated for the Year Ending June 30, 1973; Interim Payments; Limitations**
 
-Pub. L. 93–207, § 3, Dec. 28, 1973, 87 Stat. 906, provided that: “Funds available for reimbursement under Public Law 92–399 [making appropriations for Agriculture-Environmental and Consumer Protection Programs for the fiscal year ending June 30, 1973] shall be allocated in accordance with subsection (d) of section 206 of the Federal Water Pollution Control Act (86 Stat. 838) [subsec. (d) of this section], pro rata among all projects eligible under subsection (a) of such section 206 [subsec. (a) of this section] for which applications have been submitted and approved by the Administrator pursuant to such Act [this chapter]. Notwithstanding the provisions of subsection (d) of such section 206, (1) the Administrator is authorized to make interim payments to each such project for which an application has been approved on the basis of estimates of maximum pro rata entitlement of all applicants under section 206(a) and (2) for the purpose of determining allocation of sums available under Public Law 92–399, the unpaid balance of reimbursement due such projects shall be computed as of January 31, 1974. Upon completion by the Administrator of his audit and approval of all projects for which an application has been filed under subsection (a) of such section 206, the Administrator shall, within the limits of appropriated funds, allocate to each such qualified project the amount remaining, if any, of its total entitlement. Amounts allocated to projects which are later determined to be in excess of entitlement shall be available for reallocation, until expended, to other qualified projects under subsection (a) of such section 206. In no event, however, shall any payments exceed the Federal share of the cost of construction incurred to the date of the voucher covering such payment plus the Federal share of the value of the materials which have been stockpiled in the vicinity of such construction in conformity to plans and specifications for the project.”
+Pub. L. 93–207, § 3, Dec. 28, 1973, 87 Stat. 906, provided that: “Funds available for reimbursement under Public Law 92–399 [making appropriations for Agriculture-Environmental and Consumer Protection Programs for the fiscal year ending June 30, 1973] shall be allocated in accordance with subsection (d) of section 206 of the Federal Water Pollution Control Act (86 Stat. 838) [subsec. (d) of this section], pro rata among all projects eligible under subsection (a) of such section 206 [subsec. (a) of this section] for which applications have been submitted and approved by the Administrator pursuant to such Act [this chapter]. Notwithstanding the provisions of subsection (d) of such section 206, (1) the Administrator is authorized to make interim payments to each such project for which an application has been approved on the basis of estimates of maximum pro rata entitlement of all applicants under section 206(a) and (2) for the purpose of determining allocation of sums available under Public Law 92–399, the unpaid balance of reimbursement due such projects shall be computed as of January 31, 1974. Upon completion by the Administrator of his audit and approval of all projects for which an application has been filed under subsection (a) of such section 206, the Administrator shall, within the limits of appropriated funds, allocate to each such qualified project the amount remaining, if any, of its total entitlement. Amounts allocated to projects which are later determined to be in excess of entitlement shall be available for reallocation, until expended, to other qualified projects under subsection (a) of such section 206. In no event, however, shall any payments exceed the Federal share of the cost of construction incurred to the date of the voucher covering such payment plus the Federal share of the value of the materials which have been stockpiled in the vicinity of such construction in conformity to plans and specifications for the project.”
 
-### § 1287. Authorization of appropriations
+### § 1287. Authorization of appropriations
 
 There is authorized to be appropriated to carry out this subchapter, other than sections 1286(e), 1288 and 1289 of this title, for the fiscal year ending June 30, 1973, not to exceed $5,000,000,000, for the fiscal year ending June 30, 1974, not to exceed $6,000,000,000, and for the fiscal year ending June 30, 1975, not to exceed $7,000,000,000, and subject to such amounts as are provided in appropriation Acts, for the fiscal year ending September 30, 1977, $1,000,000,000 for the fiscal year ending September 30, 1978, $4,500,000,000 and for the fiscal years ending September 30, 1979, September 30, 1980, not to exceed $5,000,000,000; for the fiscal year ending September 30, 1981, not to exceed $2,548,837,000; and for the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985, not to exceed $2,400,000,000 per fiscal year; and for each of the fiscal years ending September 30, 1986, September 30, 1987, and September 30, 1988, not to exceed $2,400,000,000; and for each of the fiscal years ending September 30, 1989, and September 30, 1990, not to exceed $1,200,000,000.
 
-(June 30, 1948, ch. 758, title II, § 207, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 839; amended Pub. L. 93–207, § 1(3), Dec. 28, 1973, 87 Stat. 906; Pub. L. 95–217, § 30, Dec. 27, 1977, 91 Stat. 1576; Pub. L. 97–35, title XVIII, § 1801(a), Aug. 13, 1981, 95 Stat. 764; Pub. L. 97–117, § 17, Dec. 29, 1981, 95 Stat. 1630; Pub. L. 100–4, title II, § 211, Feb. 4, 1987, 101 Stat. 21.)
+(June 30, 1948, ch. 758, title II, § 207, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 839; amended Pub. L. 93–207, § 1(3), Dec. 28, 1973, 87 Stat. 906; Pub. L. 95–217, § 30, Dec. 27, 1977, 91 Stat. 1576; Pub. L. 97–35, title XVIII, § 1801(a), Aug. 13, 1981, 95 Stat. 764; Pub. L. 97–117, § 17, Dec. 29, 1981, 95 Stat. 1630; Pub. L. 100–4, title II, § 211, Feb. 4, 1987, 101 Stat. 21.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1987—Pub. L. 100–4 inserted “; and for each of the fiscal years ending September 30, 1986, September 30, 1987, and September 30, 1988, not to exceed $2,400,000,000; and for each of the fiscal years ending September 30, 1989, and September 30, 1990, not to exceed $1,200,000,000” before period at end.
+1987—Pub. L. 100–4 inserted “; and for each of the fiscal years ending September 30, 1986, September 30, 1987, and September 30, 1988, not to exceed $2,400,000,000; and for each of the fiscal years ending September 30, 1989, and September 30, 1990, not to exceed $1,200,000,000” before period at end.
 
 1981—Pub. L. 97–117 substituted “and for the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985, not to exceed $2,400,000,000 per fiscal year” for “and for the fiscal year ending September 30, 1982, not to exceed $0, unless there is enacted legislation establishing an allotment formula for fiscal year 1982 construction grant funds and otherwise reforming the municipal sewage treatment construction grant program under this subchapter, in which case the authorization for fiscal year 1982 shall be an amount not to exceed $2,400,000,000”.
 
@@ -5512,9 +5512,9 @@ Pub. L. 97–35 substituted provisions authorizing not to exceed $2,548,837,000 
 
 **Additional Authorization of Appropriations**
 
-Pub. L. 94–369, title III, § 301, July 22, 1976, 90 Stat. 1011, provided for authorization to carry out this subchapter, other than sections 1286, 1288, and 1289, for the fiscal year ending Sept. 30, 1977, not to exceed $700,000,000, which sum (subject to amounts provided in appropriation Acts) was to be allotted to each State listed in column 1 of table IV contained in House Public Works and Transportation Committee Print numbered 94–25 in accordance with the percentages provided for such State (if any) in column 5 of such table, and such sum to be in addition to, and not in lieu of, any funds otherwise authorized and to be available until expended.
+Pub. L. 94–369, title III, § 301, July 22, 1976, 90 Stat. 1011, provided for authorization to carry out this subchapter, other than sections 1286, 1288, and 1289, for the fiscal year ending Sept. 30, 1977, not to exceed $700,000,000, which sum (subject to amounts provided in appropriation Acts) was to be allotted to each State listed in column 1 of table IV contained in House Public Works and Transportation Committee Print numbered 94–25 in accordance with the percentages provided for such State (if any) in column 5 of such table, and such sum to be in addition to, and not in lieu of, any funds otherwise authorized and to be available until expended.
 
-### § 1288. Areawide waste treatment management
+### § 1288. Areawide waste treatment management
 
 **(a) Identification and designation of areas having substantial water quality control problems** For the purpose of encouraging and facilitating the development and implementation of areawide waste treatment management plans—
 
@@ -5646,9 +5646,9 @@ The Administrator is authorized, upon request of the Governor or the designated 
 
 **(h) Technical assistance by Secretary of the Army**
 
-**(1)** The Secretary of the Army, acting through the Chief of Engineers, in cooperation with the Administrator is authorized and directed, upon request of the Governor or the designated planning organization, to consult with, and provide technical assistance to, any agency designed 1
+**(1)** The Secretary of the Army, acting through the Chief of Engineers, in cooperation with the Administrator is authorized and directed, upon request of the Governor or the designated planning organization, to consult with, and provide technical assistance to, any agency designed 1
 
-<sup>1</sup>  So in original. Probably should be “designated”.
+<sup>1</sup> So in original. Probably should be “designated”.
 
 under subsection (a) of this section in developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section.
 
@@ -5690,47 +5690,47 @@ under subsection (a) of this section in developing and operating a continuing ar
 
 **(9)** There are hereby authorized to be appropriated to the Secretary of Agriculture $200,000,000 for fiscal year 1979, $400,000,000 for fiscal year 1980, $100,000,000 for fiscal year 1981, $100,000,000 for fiscal year 1982, and such sums as may be necessary for fiscal years 1983 through 1990, to carry out this subsection. The program authorized under this subsection shall be in addition to, and not in substitution of, other programs in such area authorized by this or any other public law.
 
-(June 30, 1948, ch. 758, title II, § 208, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 839; amended Pub. L. 95–217, §§ 4(e), 31, 32, 33(a), 34, 35, Dec. 27, 1977, 91 Stat. 1566, 1576–1579; Pub. L. 96–483, § 1(d), (e), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, § 101(d), (e), Feb. 4, 1987, 101 Stat. 9.)
+(June 30, 1948, ch. 758, title II, § 208, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 839; amended Pub. L. 95–217, §§ 4(e), 31, 32, 33(a), 34, 35, Dec. 27, 1977, 91 Stat. 1566, 1576–1579; Pub. L. 96–483, § 1(d), (e), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, § 101(d), (e), Feb. 4, 1987, 101 Stat. 9.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 83–566, referred to in subsec. (j)(8), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, known as the Watershed Protection and Flood Prevention Act, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
+Public Law 83–566, referred to in subsec. (j)(8), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, known as the Watershed Protection and Flood Prevention Act, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
 
 **Amendments**
 
-1987—Subsec. (f)(3). Pub. L. 100–4, § 101(d), struck out “and” after “1974,” and “1980,” and inserted “, and such sums as may be necessary for fiscal years 1983 through 1990” after “1982”.
+1987—Subsec. (f)(3). Pub. L. 100–4, § 101(d), struck out “and” after “1974,” and “1980,” and inserted “, and such sums as may be necessary for fiscal years 1983 through 1990” after “1982”.
 
-Subsec. (j)(9). Pub. L. 100–4, § 101(e), struck out “and” after “1981,” and inserted “and such sums as may be necessary for fiscal years 1983 through 1990,” after “1982,”.
+Subsec. (j)(9). Pub. L. 100–4, § 101(e), struck out “and” after “1981,” and inserted “and such sums as may be necessary for fiscal years 1983 through 1990,” after “1982,”.
 
-1980—Subsec. (f)(3). Pub. L. 96–483, § 1(d), inserted authorization of not to exceed $100,000,000 per fiscal year for fiscal years ending Sept. 30, 1981 and 1982.
+1980—Subsec. (f)(3). Pub. L. 96–483, § 1(d), inserted authorization of not to exceed $100,000,000 per fiscal year for fiscal years ending Sept. 30, 1981 and 1982.
 
-Subsec. (j)(9). Pub. L. 96–483, § 1(e), inserted reference to authorization of $100,000,000 for each of fiscal years 1981 and 1982.
+Subsec. (j)(9). Pub. L. 96–483, § 1(e), inserted reference to authorization of $100,000,000 for each of fiscal years 1981 and 1982.
 
-1977—Subsec. (b)(1). Pub. L. 95–217, § 31(a), designated existing provisions as subpar. (A) and added subpar. (B).
+1977—Subsec. (b)(1). Pub. L. 95–217, § 31(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (b)(2)(A). Pub. L. 95–217, § 32, inserted “, and an identification of open space and recreation opportunities that can be expected to result from improved water quality, including consideration of potential use of lands associated with treatment works and increased access to water-based recreation” after “development of such treatment works”.
+Subsec. (b)(2)(A). Pub. L. 95–217, § 32, inserted “, and an identification of open space and recreation opportunities that can be expected to result from improved water quality, including consideration of potential use of lands associated with treatment works and increased access to water-based recreation” after “development of such treatment works”.
 
-Subsec. (b)(2)(F). Pub. L. 95–217, § 33(a), substituted “sources of pollution, including return flows from irrigated agriculture, and their cumulative effects,” for “sources of pollution, including”.
+Subsec. (b)(2)(F). Pub. L. 95–217, § 33(a), substituted “sources of pollution, including return flows from irrigated agriculture, and their cumulative effects,” for “sources of pollution, including”.
 
-Subsec. (b)(4). Pub. L. 95–217, § 34(a), designated existing provisions as subpar. (A), substituted “to the Administrator for approval for application to a class or category of activity throughout such State” for “to the Administrator for application to all regions within such State”, and added subpars. (B) to (D).
+Subsec. (b)(4). Pub. L. 95–217, § 34(a), designated existing provisions as subpar. (A), substituted “to the Administrator for approval for application to a class or category of activity throughout such State” for “to the Administrator for application to all regions within such State”, and added subpars. (B) to (D).
 
-Subsec. (f)(2). Pub. L. 95–217, § 31(b), substituted “For the two-year period beginning on the date the first grant is made under paragraph (1) of this subsection to an agency, if such first grant is made before October 1, 1977, the amount of each such grant to such agency shall be 100 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section, and thereafter the amount granted to such agency shall not exceed 75 per centum of such costs in each succeeding one-year period” for “The amount granted to any agency under paragraph (1) of this subsection shall be 100 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section for each of the fiscal years ending on June 30, 1973, June 30, 1974, and June 30, 1975, and shall not exceed 75 per centum of such costs in each succeeding fiscal year” and inserted “In the case of any other grant made to an agency under such paragraph (1) of this subsection, the amount of such grant shall not exceed 75 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process in any year.”
+Subsec. (f)(2). Pub. L. 95–217, § 31(b), substituted “For the two-year period beginning on the date the first grant is made under paragraph (1) of this subsection to an agency, if such first grant is made before October 1, 1977, the amount of each such grant to such agency shall be 100 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section, and thereafter the amount granted to such agency shall not exceed 75 per centum of such costs in each succeeding one-year period” for “The amount granted to any agency under paragraph (1) of this subsection shall be 100 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section for each of the fiscal years ending on June 30, 1973, June 30, 1974, and June 30, 1975, and shall not exceed 75 per centum of such costs in each succeeding fiscal year” and inserted “In the case of any other grant made to an agency under such paragraph (1) of this subsection, the amount of such grant shall not exceed 75 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process in any year.”
 
-Subsec. (f)(3). Pub. L. 95–217, §§ 4(e), 31(c), substituted “and not to exceed $150,000,000 per fiscal year for the fiscal years ending June 30, 1975, September 30, 1977, September 30, 1978, September 30, 1979, and September 30, 1980” for “and not to exceed $150,000,000 for the fiscal year ending June 30, 1975” and inserted “subject to such amounts as are provided in appropriation Acts” after “contractual obligation of the United States for the payment of its contribution to such proposal”.
+Subsec. (f)(3). Pub. L. 95–217, §§ 4(e), 31(c), substituted “and not to exceed $150,000,000 per fiscal year for the fiscal years ending June 30, 1975, September 30, 1977, September 30, 1978, September 30, 1979, and September 30, 1980” for “and not to exceed $150,000,000 for the fiscal year ending June 30, 1975” and inserted “subject to such amounts as are provided in appropriation Acts” after “contractual obligation of the United States for the payment of its contribution to such proposal”.
 
-Subsec. (i). Pub. L. 95–217, § 34(b), added subsec. (i).
+Subsec. (i). Pub. L. 95–217, § 34(b), added subsec. (i).
 
-Subsec. (j). Pub. L. 95–217, § 35, added subsec. (j).
+Subsec. (j). Pub. L. 95–217, § 35, added subsec. (j).
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, relating to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, relating to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-### § 1289. Basin planning
+### § 1289. Basin planning
 
 **(a) Preparation of Level B plans**
 
@@ -5744,27 +5744,27 @@ The President, acting through the Water Resources Council, shall report annually
 
 There is authorized to be appropriated to carry out this section not to exceed $200,000,000.
 
-(June 30, 1948, ch. 758, title II, § 209, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 843.)
+(June 30, 1948, ch. 758, title II, § 209, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 843.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Water Resources Planning Act, referred to in subsec. (a), is Pub. L. 89–80, July 22, 1965, 79 Stat. 244, which is classified generally to chapter 19B (§ 1962 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1962 of Title 42 and Tables.
+The Water Resources Planning Act, referred to in subsec. (a), is Pub. L. 89–80, July 22, 1965, 79 Stat. 244, which is classified generally to chapter 19B (§ 1962 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1962 of Title 42 and Tables.
 
-### § 1290. Annual survey
+### § 1290. Annual survey
 
 The Administrator shall annually make a survey to determine the efficiency of the operation and maintenance of treatment works constructed with grants made under this chapter, as compared to the efficiency planned at the time the grant was made. The results of such annual survey shall be included in the report required under section 1375(a) of this title.
 
-(June 30, 1948, ch. 758, title II, § 210, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 843; amended Pub. L. 105–362, title V, § 501(d)(2)(D), Nov. 10, 1998, 112 Stat. 3284; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
+(June 30, 1948, ch. 758, title II, § 210, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 843; amended Pub. L. 105–362, title V, § 501(d)(2)(D), Nov. 10, 1998, 112 Stat. 3284; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Pub. L. 107–303 repealed Pub. L. 105–362, § 501(d)(2)(D). See 1998 Amendment note below.
+2002—Pub. L. 107–303 repealed Pub. L. 105–362, § 501(d)(2)(D). See 1998 Amendment note below.
 
-1998—Pub. L. 105–362, § 501(d)(2)(D), which directed the substitution of “shall be reported to Congress not later than 90 days after the date of convening of each session of Congress” for “shall be included in the report required under section 1375(a) of this title”, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+1998—Pub. L. 105–362, § 501(d)(2)(D), which directed the substitution of “shall be reported to Congress not later than 90 days after the date of convening of each session of Congress” for “shall be included in the report required under section 1375(a) of this title”, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5772,7 +5772,7 @@ The Administrator shall annually make a survey to determine the efficiency of th
 
 Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
 
-### § 1291. Sewage collection systems
+### § 1291. Sewage collection systems
 
 **(a) Existing and new systems**
 
@@ -5786,7 +5786,7 @@ If the Administrator uses population density as a test for determining the eligi
 
 No grant shall be made under this subchapter from funds authorized for any fiscal year during the period beginning October 1, 1977, and ending September 30, 1990, for treatment works for control of pollutant discharges from separate storm sewer systems.
 
-(June 30, 1948, ch. 758, title II, § 211, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 843; amended Pub. L. 95–217, § 36, Dec. 27, 1977, 91 Stat. 1581; Pub. L. 97–117, § 2(b), Dec. 29, 1981, 95 Stat. 1623; Pub. L. 100–4, title II, § 206(d), Feb. 4, 1987, 101 Stat. 20.)
+(June 30, 1948, ch. 758, title II, § 211, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 843; amended Pub. L. 95–217, § 36, Dec. 27, 1977, 91 Stat. 1581; Pub. L. 97–117, § 2(b), Dec. 29, 1981, 95 Stat. 1623; Pub. L. 100–4, title II, § 206(d), Feb. 4, 1987, 101 Stat. 20.)
 
 **Editorial Notes**
 
@@ -5798,7 +5798,7 @@ No grant shall be made under this subchapter from funds authorized for any fisca
 
 1977—Pub. L. 95–217 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-### § 1292. Definitions
+### § 1292. Definitions
 
 As used in this subchapter—
 
@@ -5814,7 +5814,7 @@ As used in this subchapter—
 
 **(3)** The term “replacement” as used in this subchapter means those expenditures for obtaining and installing equipment, accessories, or appurtenances during the useful life of the treatment works necessary to maintain the capacity and performance for which such works are designed and constructed.
 
-(June 30, 1948, ch. 758, title II, § 212, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 844; amended Pub. L. 95–217, § 37, Dec. 27, 1977, 91 Stat. 1581; Pub. L. 97–117, § 8(d), Dec. 29, 1981, 95 Stat. 1626; Pub. L. 113–121, title V, § 5012(a), June 10, 2014, 128 Stat. 1328.)
+(June 30, 1948, ch. 758, title II, § 212, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 844; amended Pub. L. 95–217, § 37, Dec. 27, 1977, 91 Stat. 1581; Pub. L. 97–117, § 8(d), Dec. 29, 1981, 95 Stat. 1626; Pub. L. 113–121, title V, § 5012(a), June 10, 2014, 128 Stat. 1328.)
 
 **Editorial Notes**
 
@@ -5830,9 +5830,9 @@ As used in this subchapter—
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–121, title V, § 5012(c), June 10, 2014, 128 Stat. 1328, provided that: “The amendments made by this section [amending this section and section 1362 of this title] shall take effect on October 1, 2014.”
+Pub. L. 113–121, title V, § 5012(c), June 10, 2014, 128 Stat. 1328, provided that: “The amendments made by this section [amending this section and section 1362 of this title] shall take effect on October 1, 2014.”
 
-### § 1293. Loan guarantees
+### § 1293. Loan guarantees
 
 **(a) State or local obligations issued exclusively to Federal Financing Bank for publicly owned treatment works; determination of eligibility of project by Administrator**
 
@@ -5854,7 +5854,7 @@ The Administrator is authorized to charge reasonable fees for the investigation 
 
 The Administrator, in determining whether there is a reasonable assurance of repayment, may require a commitment which would apply to such repayment. Such commitment may include, but not be limited to, any funds received by such grantee from the amounts appropriated under section 1286 of this title.
 
-(June 30, 1948, ch. 758, title II, § 213, as added Pub. L. 94–558, Oct. 19, 1976, 90 Stat. 2639; amended Pub. L. 96–483, § 2(e), Oct. 21, 1980, 94 Stat. 2361.)
+(June 30, 1948, ch. 758, title II, § 213, as added Pub. L. 94–558, Oct. 19, 1976, 90 Stat. 2639; amended Pub. L. 96–483, § 2(e), Oct. 21, 1980, 94 Stat. 2361.)
 
 **Editorial Notes**
 
@@ -5868,7 +5868,7 @@ The Administrator, in determining whether there is a reasonable assurance of rep
 
 Amendment by Pub. L. 96–483 effective Dec. 27, 1977, see section 2(g) of Pub. L. 96–483, set out as a note under section 1281 of this title.
 
-### § 1293a. Contained spoil disposal facilities
+### § 1293a. Contained spoil disposal facilities
 
 **(a) Construction, operation, and maintenance; period; conditions; requirements**
 
@@ -5928,7 +5928,7 @@ The Secretary shall conduct a program to inspect and monitor contained spoil dis
 
 For purposes of this subsection, the term “toxic pollutant” means those toxic pollutants referred to in section 1311(b)(2)(C) and 1311(b)(2)(D) of this title and such other pollutants as the Secretary, in consultation with the Administrator of the Environmental Protection Agency, determines are appropriate based on their effects on human health and the environment.
 
-(Pub. L. 91–611, title I, § 123, Dec. 31, 1970, 84 Stat. 1823; Pub. L. 93–251, title I, § 23, Mar. 7, 1974, 88 Stat. 20; Pub. L. 100–676, § 24, Nov. 17, 1988, 102 Stat. 4027.)
+(Pub. L. 91–611, title I, § 123, Dec. 31, 1970, 84 Stat. 1823; Pub. L. 93–251, title I, § 23, Mar. 7, 1974, 88 Stat. 20; Pub. L. 100–676, § 24, Nov. 17, 1988, 102 Stat. 4027.)
 
 **Editorial Notes**
 
@@ -5936,9 +5936,9 @@ For purposes of this subsection, the term “toxic pollutant” means those toxi
 
 Section 1171 of this title, referred to in subsec. (a), was omitted as superseded.
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (b), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter (§ 1251 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (b), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter (§ 1251 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 **Codification**
 
@@ -5948,9 +5948,9 @@ Section was not enacted as a part of the Federal Water Pollution Control Act whi
 
 **Amendments**
 
-1988—Subsec. (j). Pub. L. 100–676, § 24(a), added subsec. (j).
+1988—Subsec. (j). Pub. L. 100–676, § 24(a), added subsec. (j).
 
-Subsec. (k). Pub. L. 100–676, § 24(b), added subsec. (k).
+Subsec. (k). Pub. L. 100–676, § 24(b), added subsec. (k).
 
 1974—Subsec. (d). Pub. L. 93–251 inserted provision for waiver of payments in event of a written agreement before occurrence of findings.
 
@@ -5958,25 +5958,25 @@ Subsec. (k). Pub. L. 100–676, § 24(b), added subsec. (k).
 
 **Great Lakes Confined Disposal Facilities**
 
-Pub. L. 104–303, title V, § 513, Oct. 12, 1996, 110 Stat. 3762, required the Secretary to conduct an assessment of the general conditions of confined disposal facilities in the Great Lakes and to report to Congress on the results of the assessment not later than 3 years after Oct. 12, 1996.
+Pub. L. 104–303, title V, § 513, Oct. 12, 1996, 110 Stat. 3762, required the Secretary to conduct an assessment of the general conditions of confined disposal facilities in the Great Lakes and to report to Congress on the results of the assessment not later than 3 years after Oct. 12, 1996.
 
-### § 1294. Public information and education on recycling and reuse of wastewater, use of land treatment, and reduction of wastewater volume
+### § 1294. Public information and education on recycling and reuse of wastewater, use of land treatment, and reduction of wastewater volume
 
 The Administrator shall develop and operate within one year of December 27, 1977, a continuing program of public information and education on recycling and reuse of wastewater (including sludge), the use of land treatment, and methods for the reduction of wastewater volume.
 
-(June 30, 1948, ch. 758, title II, § 214, as added Pub. L. 95–217, § 38, Dec. 27, 1977, 91 Stat. 1581.)
+(June 30, 1948, ch. 758, title II, § 214, as added Pub. L. 95–217, § 38, Dec. 27, 1977, 91 Stat. 1581.)
 
-### § 1295. Requirements for American materials
+### § 1295. Requirements for American materials
 
 Notwithstanding any other provision of law, no grant for which application is made after February 1, 1978, shall be made under this subchapter for any treatment works unless only such unmanufactured articles, materials, and supplies as have been mined or produced in the United States, and only such manufactured articles, materials, and supplies as have been manufactured in the United States, substantially all from articles, materials, or supplies mined, produced, or manufactured, as the case may be, in the United States will be used in such treatment works. This section shall not apply in any case where the Administrator determines, based upon those factors the Administrator deems relevant, including the available resources of the agency, it to be inconsistent with the public interest (including multilateral government procurement agreements) or the cost to be unreasonable, or if articles, materials, or supplies of the class or kind to be used or the articles, materials, or supplies from which they are manufactured are not mined, produced, or manufactured, as the case may be, in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality.
 
-(June 30, 1948, ch. 758, title II, § 215, as added Pub. L. 95–217, § 39, Dec. 27, 1977, 91 Stat. 1581.)
+(June 30, 1948, ch. 758, title II, § 215, as added Pub. L. 95–217, § 39, Dec. 27, 1977, 91 Stat. 1581.)
 
-### § 1296. Determination of priority of projects
+### § 1296. Determination of priority of projects
 
 Notwithstanding any other provision of this chapter, the determination of the priority to be given each category of projects for construction of publicly owned treatment works within each State shall be made solely by that State, except that if the Administrator, after a public hearing, determines that a specific project will not result in compliance with the enforceable requirements of this chapter, such project shall be removed from the State’s priority list and such State shall submit a revised priority list. These categories shall include, but not be limited to (A) secondary treatment, (B) more stringent treatment, (C) infiltration-in-flow correction, (D) major sewer system rehabilitation, (E) new collector sewers and appurtenances, (F) new interceptors and appurtenances, and (G) correction of combined sewer overflows. Not less than 25 per centum of funds allocated to a State in any fiscal year under this subchapter for construction of publicly owned treatment works in such State shall be obligated for those types of projects referred to in clauses (D), (E), (F), and (G) of this section, if such projects are on such State’s priority list for that year and are otherwise eligible for funding in that fiscal year. It is the policy of Congress that projects for wastewater treatment and management undertaken with Federal financial assistance under this chapter by any State, municipality, or intermunicipal or interstate agency shall be projects which, in the estimation of the State, are designed to achieve optimum water quality management, consistent with the public health and water quality goals and requirements of this chapter.
 
-(June 30, 1948, ch. 758, title II, § 216, as added Pub. L. 95–217, § 40, Dec. 27, 1977, 91 Stat. 1582; amended Pub. L. 97–117, § 18, Dec. 29, 1981, 95 Stat. 1630.)
+(June 30, 1948, ch. 758, title II, § 216, as added Pub. L. 95–217, § 40, Dec. 27, 1977, 91 Stat. 1582; amended Pub. L. 97–117, § 18, Dec. 29, 1981, 95 Stat. 1630.)
 
 **Editorial Notes**
 
@@ -5984,13 +5984,13 @@ Notwithstanding any other provision of this chapter, the determination of the pr
 
 1981—Pub. L. 97–117 inserted provision that it is the policy of Congress that projects for wastewater treatment and management undertaken with Federal financial assistance under this chapter by any State, municipality, or intermunicipal or interstate agency be projects which, in the estimation of the State, are designed to achieve optimum water quality management, consistent with the public health and water quality goals and requirements of this chapter.
 
-### § 1297. Guidelines for cost-effectiveness analysis
+### § 1297. Guidelines for cost-effectiveness analysis
 
 Any guidelines for cost-effectiveness analysis published by the Administrator under this subchapter shall provide for the identification and selection of cost effective alternatives to comply with the objectives and goals of this chapter and sections 1281(b), 1281(d), 1281(g)(2)(A), and 1311(b)(2)(B) of this title.
 
-(June 30, 1948, ch. 758, title II, § 217, as added Pub. L. 95–217, § 41, Dec. 27, 1977, 91 Stat. 1582.)
+(June 30, 1948, ch. 758, title II, § 217, as added Pub. L. 95–217, § 41, Dec. 27, 1977, 91 Stat. 1582.)
 
-### § 1298. Cost effectiveness
+### § 1298. Cost effectiveness
 
 **(a) Congressional statement of policy**
 
@@ -6008,15 +6008,15 @@ In furtherance of the policy set forth in subsection (a) of this section, the Ad
 
 This section applies to projects for waste treatment and management for which no treatment works including a facilities plan for such project have received Federal financial assistance for the preparation of construction plans and specifications under this chapter before December 29, 1981.
 
-(June 30, 1948, ch. 758, title II, § 218, as added Pub. L. 97–117, § 19, Dec. 29, 1981, 95 Stat. 1630.)
+(June 30, 1948, ch. 758, title II, § 218, as added Pub. L. 97–117, § 19, Dec. 29, 1981, 95 Stat. 1630.)
 
-### § 1299. State certification of projects
+### § 1299. State certification of projects
 
 Whenever the Governor of a State which has been delegated sufficient authority to administer the construction grant program under this subchapter in that State certifies to the Administrator that a grant application meets applicable requirements of Federal and State law for assistance under this subchapter, the Administrator shall approve or disapprove such application within 45 days of the date of receipt of such application. If the Administrator does not approve or disapprove such application within 45 days of receipt, the application shall be deemed approved. If the Administrator disapproves such application the Administrator shall state in writing the reasons for such disapproval. Any grant approved or deemed approved under this section shall be subject to amounts provided in appropriation Acts.
 
-(June 30, 1948, ch. 758, title II, § 219, as added Pub. L. 97–117, § 20, Dec. 29, 1981, 95 Stat. 1631.)
+(June 30, 1948, ch. 758, title II, § 219, as added Pub. L. 97–117, § 20, Dec. 29, 1981, 95 Stat. 1631.)
 
-### § 1300. Pilot program for alternative water source projects
+### § 1300. Pilot program for alternative water source projects
 
 **(a) Policy**
 
@@ -6072,7 +6072,7 @@ There is authorized to be appropriated to carry out this section $25,000,000 for
 
 Of the amounts made available for grants under paragraph (1), not more than 2 percent may be used to pay the administrative costs of the Administrator.
 
-(June 30, 1948, ch. 758, title II, § 220, as added Pub. L. 106–457, title VI, § 602, Nov. 7, 2000, 114 Stat. 1975; amended Pub. L. 117–58, div. E, title II, § 50203, Nov. 15, 2021, 135 Stat. 1159.)
+(June 30, 1948, ch. 758, title II, § 220, as added Pub. L. 106–457, title VI, § 602, Nov. 7, 2000, 114 Stat. 1975; amended Pub. L. 117–58, div. E, title II, § 50203, Nov. 15, 2021, 135 Stat. 1159.)
 
 **Editorial Notes**
 
@@ -6082,33 +6082,33 @@ The Reclamation Projects Authorization and Adjustment Act of 1992, referred to i
 
 **Amendments**
 
-2021—Subsec. (b). Pub. L. 117–58, § 50203(6), redesignated subsec. (i) as (b). Former subsec. (b) redesignated (c).
+2021—Subsec. (b). Pub. L. 117–58, § 50203(6), redesignated subsec. (i) as (b). Former subsec. (b) redesignated (c).
 
-Pub. L. 117–58, § 50203(1), substituted “Establishment” for “In general” in heading.
+Pub. L. 117–58, § 50203(1), substituted “Establishment” for “In general” in heading.
 
-Subsec. (c). Pub. L. 117–58, § 50203(6), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 117–58, § 50203(6), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 117–58, § 50203(6), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 117–58, § 50203(6), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(1). Pub. L. 117–58, § 50203(2)(A), inserted “construction” before “funds”.
+Subsec. (d)(1). Pub. L. 117–58, § 50203(2)(A), inserted “construction” before “funds”.
 
-Subsec. (d)(2), (3). Pub. L. 117–58, § 50203(2)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which related to additional consideration regarding the location of a project.
+Subsec. (d)(2), (3). Pub. L. 117–58, § 50203(2)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which related to additional consideration regarding the location of a project.
 
-Subsec. (e). Pub. L. 117–58, § 50203(6), redesignated subsec. (d) as (e).
+Subsec. (e). Pub. L. 117–58, § 50203(6), redesignated subsec. (d) as (e).
 
-Pub. L. 117–58, § 50203(3), struck out subsec. (e) which related to committee resolution procedure.
+Pub. L. 117–58, § 50203(3), struck out subsec. (e) which related to committee resolution procedure.
 
-Subsec. (i). Pub. L. 117–58, § 50203(6), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (b).
+Subsec. (i). Pub. L. 117–58, § 50203(6), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (b).
 
-Pub. L. 117–58, § 50203(4)(A), struck out “, the following definitions apply” before the semicolon in introductory provisions.
+Pub. L. 117–58, § 50203(4)(A), struck out “, the following definitions apply” before the semicolon in introductory provisions.
 
-Subsec. (i)(1). Pub. L. 117–58, § 50203(4)(B), substituted “water, wastewater, or stormwater or by treating wastewater or stormwater for groundwater recharge, potable reuse, or other purposes” for “water or wastewater or by treating wastewater”.
+Subsec. (i)(1). Pub. L. 117–58, § 50203(4)(B), substituted “water, wastewater, or stormwater or by treating wastewater or stormwater for groundwater recharge, potable reuse, or other purposes” for “water or wastewater or by treating wastewater”.
 
-Subsec. (j). Pub. L. 117–58, § 50203(6), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (b).
+Subsec. (j). Pub. L. 117–58, § 50203(6), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (b).
 
-Pub. L. 117–58, § 50203(5), designated existing provisions as par. (1), inserted heading, substituted “$25,000,000 for each of fiscal years 2022 through 2026, to” for “a total of $75,000,000 for fiscal years 2002 through 2004. Such sums shall”, and added par. (2).
+Pub. L. 117–58, § 50203(5), designated existing provisions as par. (1), inserted heading, substituted “$25,000,000 for each of fiscal years 2022 through 2026, to” for “a total of $75,000,000 for fiscal years 2002 through 2004. Such sums shall”, and added par. (2).
 
-### § 1301. Sewer overflow and stormwater reuse municipal grants
+### § 1301. Sewer overflow and stormwater reuse municipal grants
 
 **(a) In general**
 
@@ -6236,39 +6236,39 @@ The funding levels recommended under subparagraph (A)(i) shall be sufficient to 
 
 Not later than 2 years after November 15, 2021, the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes the implementation of the grant program under this section, which shall include a description of the grant recipients, sources of funds for non-Federal share requirements under subsection (d), and grant amounts made available under the program.
 
-(June 30, 1948, ch. 758, title II, § 221, as added Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 112(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–225; amended Pub. L. 115–270, title IV, § 4106, Oct. 23, 2018, 132 Stat. 3875; Pub. L. 117–58, div. E, title II, § 50204, Nov. 15, 2021, 135 Stat. 1160.)
+(June 30, 1948, ch. 758, title II, § 221, as added Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 112(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–225; amended Pub. L. 115–270, title IV, § 4106, Oct. 23, 2018, 132 Stat. 3875; Pub. L. 117–58, div. E, title II, § 50204, Nov. 15, 2021, 135 Stat. 1160.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (a)(1)(B), (C). Pub. L. 117–58, § 50204(1), added subpar. (B) and redesignated former subpar. (B) as (C).
+2021—Subsec. (a)(1)(B), (C). Pub. L. 117–58, § 50204(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (d). Pub. L. 117–58, § 50204(2), designated first sentence as par. (1) and inserted heading, designated second sentence as par. (3), inserted heading, and substituted “The applicable non-Federal share of the cost under this subsection” for “The non-Federal share of the cost”, and added par. (2).
+Subsec. (d). Pub. L. 117–58, § 50204(2), designated first sentence as par. (1) and inserted heading, designated second sentence as par. (3), inserted heading, and substituted “The applicable non-Federal share of the cost under this subsection” for “The non-Federal share of the cost”, and added par. (2).
 
-Subsec. (f)(1). Pub. L. 117–58, § 50204(3)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section $225,000,000 for each of fiscal years 2019 through 2020.”
+Subsec. (f)(1). Pub. L. 117–58, § 50204(3)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section $225,000,000 for each of fiscal years 2019 through 2020.”
 
-Subsec. (f)(2). Pub. L. 117–58, § 50204(3)(B), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+Subsec. (f)(2). Pub. L. 117–58, § 50204(3)(B), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (i). Pub. L. 117–58, § 50204(4)(B), (D), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (i). Pub. L. 117–58, § 50204(4)(B), (D), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (i)(1). Pub. L. 117–58, § 50204(A)–(C), designated first and second sentences as subpars. (A) and (B), respectively, and inserted headings; in subpar. (A), substituted “containing—” for “containing”, redesignated remaining provisions as cl. (i), and added cl. (ii); and, in subpar. (B), substituted “The funding levels recommended under subparagraph (A)(i)” for “The recommended funding levels”.
+Subsec. (i)(1). Pub. L. 117–58, § 50204(A)–(C), designated first and second sentences as subpars. (A) and (B), respectively, and inserted headings; in subpar. (A), substituted “containing—” for “containing”, redesignated remaining provisions as cl. (i), and added cl. (ii); and, in subpar. (B), substituted “The funding levels recommended under subparagraph (A)(i)” for “The recommended funding levels”.
 
-2018—Pub. L. 115–270, § 4106(1), substituted “Sewer overflow and stormwater reuse municipal grants” for “Sewer overflow control grants” in section catchline.
+2018—Pub. L. 115–270, § 4106(1), substituted “Sewer overflow and stormwater reuse municipal grants” for “Sewer overflow control grants” in section catchline.
 
-Subsec. (a). Pub. L. 115–270, § 4106(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to purposes for making sewer overflow control grants to States, municipalities, and municipal entities.
+Subsec. (a). Pub. L. 115–270, § 4106(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to purposes for making sewer overflow control grants to States, municipalities, and municipal entities.
 
-Subsec. (e). Pub. L. 115–270, § 4106(3), amended subsec. (e) generally. Prior to amendment, text read as follows: “If a project receives grant assistance under subsection (a) and loan assistance from a State water pollution control revolving fund and the loan assistance is for 15 percent or more of the cost of the project, the project may be administered in accordance with State water pollution control revolving fund administrative reporting requirements for the purposes of streamlining such requirements.”
+Subsec. (e). Pub. L. 115–270, § 4106(3), amended subsec. (e) generally. Prior to amendment, text read as follows: “If a project receives grant assistance under subsection (a) and loan assistance from a State water pollution control revolving fund and the loan assistance is for 15 percent or more of the cost of the project, the project may be administered in accordance with State water pollution control revolving fund administrative reporting requirements for the purposes of streamlining such requirements.”
 
-Subsec. (f). Pub. L. 115–270, § 4106(4), amended subsec. (f) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section $750,000,000 for each of fiscal years 2002 and 2003. Such sums shall remain available until expended.”
+Subsec. (f). Pub. L. 115–270, § 4106(4), amended subsec. (f) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section $750,000,000 for each of fiscal years 2002 and 2003. Such sums shall remain available until expended.”
 
-Subsec. (g). Pub. L. 115–270, § 4106(5), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to allocation of funds.
+Subsec. (g). Pub. L. 115–270, § 4106(5), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to allocation of funds.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Information on CSOS and SSOS**
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 112(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–227, provided that:
+Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 112(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–227, provided that:
 
 > **“(1) Report to congress.—** Not later than 3 years after the date of enactment of this Act [Dec. 21, 2000], the Administrator of the Environmental Protection Agency shall transmit to Congress a report summarizing—
 
@@ -6280,7 +6280,7 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 112(d)], Dec. 21, 2000, 1
 
 > **“(2) Technology clearinghouse.—** After transmitting a report under paragraph (1), the Administrator shall maintain a clearinghouse of cost-effective and efficient technologies for addressing human health and environmental impacts due to municipal combined sewer overflows and sanitary sewer overflows.”
 
-### § 1302. Wastewater efficiency grant pilot program
+### § 1302. Wastewater efficiency grant pilot program
 
 **(a) Establishment**
 
@@ -6338,9 +6338,9 @@ There is authorized to be appropriated to carry out the pilot program $20,000,00
 
 Of the amounts made available for grants under paragraph (1), not more than 2 percent may be used to pay the administrative costs of the Administrator.
 
-(June 30, 1948, ch. 758, title II, § 222, as added Pub. L. 117–58, div. E, title II, § 50202, Nov. 15, 2021, 135 Stat. 1158.)
+(June 30, 1948, ch. 758, title II, § 222, as added Pub. L. 117–58, div. E, title II, § 50202, Nov. 15, 2021, 135 Stat. 1158.)
 
-### § 1302a. Clean water infrastructure resiliency and sustainability program
+### § 1302a. Clean water infrastructure resiliency and sustainability program
 
 **(a) Definitions** In this section:
 
@@ -6430,9 +6430,9 @@ There is authorized to be appropriated to carry out this section $25,000,000 for
 
 Of the amounts made available for grants under paragraph (1), not more than 2 percent may be used to pay the administrative costs of the Administrator.
 
-(June 30, 1948, ch. 758, title II, § 223, as added Pub. L. 117–58, div. E, title II, § 50205, Nov. 15, 2021, 135 Stat. 1162.)
+(June 30, 1948, ch. 758, title II, § 223, as added Pub. L. 117–58, div. E, title II, § 50205, Nov. 15, 2021, 135 Stat. 1162.)
 
-### § 1302b. Small and medium publicly owned treatment works circuit rider program
+### § 1302b. Small and medium publicly owned treatment works circuit rider program
 
 **(a) Establishment**
 
@@ -6472,9 +6472,9 @@ There is authorized to be appropriated to carry out this section $10,000,000 for
 
 Of the amounts made available for grants under paragraph (1), not more than 2 percent may be used to pay the administrative costs of the Administrator.
 
-(June 30, 1948, ch. 758, title II, § 224, as added Pub. L. 117–58, div. E, title II, § 50206, Nov. 15, 2021, 135 Stat. 1164.)
+(June 30, 1948, ch. 758, title II, § 224, as added Pub. L. 117–58, div. E, title II, § 50206, Nov. 15, 2021, 135 Stat. 1164.)
 
-### § 1302c. Small publicly owned treatment works efficiency grant program
+### § 1302c. Small publicly owned treatment works efficiency grant program
 
 **(a) Establishment**
 
@@ -6506,9 +6506,9 @@ Of the amounts made available for grants under this section, to the extent that 
 
 Of the amounts made available for grants under this section, not more than 2 percent may be used to pay the administrative costs of the Administrator.
 
-(June 30, 1948, ch. 758, title II, § 225, as added Pub. L. 117–58, div. E, title II, § 50207, Nov. 15, 2021, 135 Stat. 1165.)
+(June 30, 1948, ch. 758, title II, § 225, as added Pub. L. 117–58, div. E, title II, § 50207, Nov. 15, 2021, 135 Stat. 1165.)
 
-### § 1302d. Grants for construction and refurbishing of individual household decentralized wastewater systems for individuals with low or moderate income
+### § 1302d. Grants for construction and refurbishing of individual household decentralized wastewater systems for individuals with low or moderate income
 
 **(a) Definition of eligible individual**
 
@@ -6568,9 +6568,9 @@ There is authorized to be appropriated to the Administrator to carry out this se
 
 Of the amounts made available for grants under paragraph (1), not more than 2 percent may be used to pay the administrative costs of the Administrator.
 
-(June 30, 1948, ch. 758, title II, § 226, as added Pub. L. 117–58, div. E, title II, § 50208, Nov. 15, 2021, 135 Stat. 1166.)
+(June 30, 1948, ch. 758, title II, § 226, as added Pub. L. 117–58, div. E, title II, § 50208, Nov. 15, 2021, 135 Stat. 1166.)
 
-### § 1302e. Connection to publicly owned treatment works
+### § 1302e. Connection to publicly owned treatment works
 
 **(a) Definitions** In this section:
 
@@ -6644,9 +6644,9 @@ There is authorized to be appropriated to carry out the program $40,000,000 for 
 
 Of the amounts made available for grants under paragraph (1), not more than 2 percent may be used to pay the administrative costs of the Administrator.
 
-(June 30, 1948, ch. 758, title II, § 227, as added Pub. L. 117–58, div. E, title II, § 50209, Nov. 15, 2021, 135 Stat. 1167.)
+(June 30, 1948, ch. 758, title II, § 227, as added Pub. L. 117–58, div. E, title II, § 50209, Nov. 15, 2021, 135 Stat. 1167.)
 
-### § 1302f. Stormwater infrastructure technology
+### § 1302f. Stormwater infrastructure technology
 
 **(a) Definitions** In this section:
 
@@ -6834,7 +6834,7 @@ There is authorized to be appropriated to carry out this section (except for sub
 
 Of the amounts made available for grants under paragraph (1), not more than 2 percent may be used to pay the administrative costs of the Administrator.
 
-(Pub. L. 117–58, div. E, title II, § 50217, Nov. 15, 2021, 135 Stat. 1175.)
+(Pub. L. 117–58, div. E, title II, § 50217, Nov. 15, 2021, 135 Stat. 1175.)
 
 **Editorial Notes**
 
@@ -6850,7 +6850,7 @@ Administrator means the Administrator of the Environmental Protection Agency, se
 
 ## SUBCHAPTER III—STANDARDS AND ENFORCEMENT
 
-### § 1311. Effluent limitations
+### § 1311. Effluent limitations
 
 **(a) Illegality of pollutant discharges except in compliance with law**
 
@@ -6870,7 +6870,7 @@ Except as in compliance with this section and sections 1312, 1316, 1317, 1328, 1
 
 **(A)** for pollutants identified in subparagraphs (C), (D), and (F) of this paragraph, effluent limitations for categories and classes of point sources, other than publicly owned treatment works, which (i) shall require application of the best available technology economically achievable for such category or class, which will result in reasonable further progress toward the national goal of eliminating the discharge of all pollutants, as determined in accordance with regulations issued by the Administrator pursuant to section 1314(b)(2) of this title, which such effluent limitations shall require the elimination of discharges of all pollutants if the Administrator finds, on the basis of information available to him (including information developed pursuant to section 1325 of this title), that such elimination is technologically and economically achievable for a category or class of point sources as determined in accordance with regulations issued by the Administrator pursuant to section 1314(b)(2) of this title, or (ii) in the case of the introduction of a pollutant into a publicly owned treatment works which meets the requirements of subparagraph (B) of this paragraph, shall require compliance with any applicable pretreatment requirements and any other requirement under section 1317 of this title;
 
-**(B)** Repealed. Pub. L. 97–117, § 21(b), Dec. 29, 1981, 95 Stat. 1632.
+**(B)** Repealed. Pub. L. 97–117, § 21(b), Dec. 29, 1981, 95 Stat. 1632.
 
 **(C)** with respect to all toxic pollutants referred to in table 1 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives compliance with effluent limitations in accordance with subparagraph (A) of this paragraph as expeditiously as practicable but in no case later than three years after the date such limitations are promulgated under section 1314(b) of this title, and in no case later than March 31, 1989;
 
@@ -7008,9 +7008,9 @@ and such publicly owned treatment works is presently unable to accept such disch
 
 **(1)** Any application filed under this section for a modification of the provisions of—
 
-**(A)** subsection (b)(1)(B) under subsection (h) of this section shall be filed not later that 1
+**(A)** subsection (b)(1)(B) under subsection (h) of this section shall be filed not later that 1
 
-<sup>1</sup>  So in original. Probably should be “than”.
+<sup>1</sup> So in original. Probably should be “than”.
 
 the 365th day which begins after December 29, 1981, except that a publicly owned treatment works which prior to December 31, 1982, had a contractual arrangement to use a portion of the capacity of an ocean outfall operated by another publicly owned treatment works which has applied for or received modification under subsection (h), may apply for a modification of subsection (h) in its own right not later than 30 days after February 4, 1987, and except as provided in paragraph (5);
 
@@ -7064,9 +7064,9 @@ Other than as provided in subsection (n) of this section, the Administrator may 
 
 **(F)** the discharge is into waters where there is strong tidal movement and other hydrological and geological characteristics which are necessary to allow compliance with this subsection and section 1251(a)(2) of this title;
 
-**(G)** the applicant accepts as a condition to the permit a contractural 2
+**(G)** the applicant accepts as a condition to the permit a contractural 2
 
-<sup>2</sup>  So in original. Probably should be “contractual”.
+<sup>2</sup> So in original. Probably should be “contractual”.
 
 obligation to use funds in the amount required (but not less than $250,000 per year for ten years) for research and development of water pollution control technology, including but not limited to closed cycle technology;
 
@@ -7156,91 +7156,91 @@ The term “pre-existing discharge” means any discharge at the time of permit 
 
 Nothing in this subsection shall affect the application of the Surface Mining Control and Reclamation Act of 1977 [30 U.S.C. 1201 et seq.] to any coal remining operation, including the application of such Act to suspended solids.
 
-(June 30, 1948, ch. 758, title III, § 301, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 844; amended Pub. L. 95–217, §§ 42–47, 53(c), Dec. 27, 1977, 91 Stat. 1582–1586, 1590; Pub. L. 97–117, §§ 21, 22(a)–(d), Dec. 29, 1981, 95 Stat. 1631, 1632; Pub. L. 97–440, Jan. 8, 1983, 96 Stat. 2289; Pub. L. 100–4, title III, §§ 301(a)–(e), 302(a)–(d), 303(a), (b)(1), (c)–(f), 304(a), 305, 306(a), (b), 307, Feb. 4, 1987, 101 Stat. 29–37; Pub. L. 100–688, title III, § 3202(b), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 103–431, § 2, Oct. 31, 1994, 108 Stat. 4396; Pub. L. 104–66, title II, § 2021(b), Dec. 21, 1995, 109 Stat. 727.)
+(June 30, 1948, ch. 758, title III, § 301, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 844; amended Pub. L. 95–217, §§ 42–47, 53(c), Dec. 27, 1977, 91 Stat. 1582–1586, 1590; Pub. L. 97–117, §§ 21, 22(a)–(d), Dec. 29, 1981, 95 Stat. 1631, 1632; Pub. L. 97–440, Jan. 8, 1983, 96 Stat. 2289; Pub. L. 100–4, title III, §§ 301(a)–(e), 302(a)–(d), 303(a), (b)(1), (c)–(f), 304(a), 305, 306(a), (b), 307, Feb. 4, 1987, 101 Stat. 29–37; Pub. L. 100–688, title III, § 3202(b), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 103–431, § 2, Oct. 31, 1994, 108 Stat. 4396; Pub. L. 104–66, title II, § 2021(b), Dec. 21, 1995, 109 Stat. 727.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (p)(4), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to chapter 25 (§ 1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
+The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (p)(4), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to chapter 25 (§ 1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
 **Amendments**
 
 1995—Subsec. (n)(8). Pub. L. 104–66 substituted “By January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure” for “Every 6 months after February 4, 1987, the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation”.
 
-1994—Subsec. (j)(1)(A). Pub. L. 103–431, § 2(1), inserted before semicolon at end “, and except as provided in paragraph (5)”.
+1994—Subsec. (j)(1)(A). Pub. L. 103–431, § 2(1), inserted before semicolon at end “, and except as provided in paragraph (5)”.
 
-Subsec. (j)(5). Pub. L. 103–431, § 2(2), added par. (5).
+Subsec. (j)(5). Pub. L. 103–431, § 2(2), added par. (5).
 
-1988—Subsec. (f). Pub. L. 100–688 substituted “, any high-level radioactive waste, or any medical waste,” for “or high-level radioactive waste”.
+1988—Subsec. (f). Pub. L. 100–688 substituted “, any high-level radioactive waste, or any medical waste,” for “or high-level radioactive waste”.
 
-1987—Subsec. (b)(2)(C). Pub. L. 100–4, § 301(a), struck out “not later than July 1, 1984,” before “with respect” and inserted “as expeditiously as practicable but in no case later than three years after the date such limitations are promulgated under section 1314(b) of this title, and in no case later than March 31, 1989” after “of this paragraph”.
+1987—Subsec. (b)(2)(C). Pub. L. 100–4, § 301(a), struck out “not later than July 1, 1984,” before “with respect” and inserted “as expeditiously as practicable but in no case later than three years after the date such limitations are promulgated under section 1314(b) of this title, and in no case later than March 31, 1989” after “of this paragraph”.
 
-Subsec. (b)(2)(D). Pub. L. 100–4, § 301(b), substituted “as expeditiously as practicable, but in no case later than three years after the date such limitations are promulgated under section 1314(b) of this title, and in no case later than March 31, 1989” for “not later than three years after the date such limitations are established”.
+Subsec. (b)(2)(D). Pub. L. 100–4, § 301(b), substituted “as expeditiously as practicable, but in no case later than three years after the date such limitations are promulgated under section 1314(b) of this title, and in no case later than March 31, 1989” for “not later than three years after the date such limitations are established”.
 
-Subsec. (b)(2)(E). Pub. L. 100–4, § 301(c), substituted “as expeditiously as practicable but in no case later than three years after the date such limitations are promulgated under section 1314(b) of this title, and in no case later than March 31, 1989, compliance with” for “not later than July 1, 1984,”.
+Subsec. (b)(2)(E). Pub. L. 100–4, § 301(c), substituted “as expeditiously as practicable but in no case later than three years after the date such limitations are promulgated under section 1314(b) of this title, and in no case later than March 31, 1989, compliance with” for “not later than July 1, 1984,”.
 
-Subsec. (b)(2)(F). Pub. L. 100–4, § 301(d), substituted “as expeditiously as practicable but in no case” for “not” and “and in no case later than March 31, 1989” for “or not later than July 1, 1984, whichever is later, but in no case later than July 1, 1987”.
+Subsec. (b)(2)(F). Pub. L. 100–4, § 301(d), substituted “as expeditiously as practicable but in no case” for “not” and “and in no case later than March 31, 1989” for “or not later than July 1, 1984, whichever is later, but in no case later than July 1, 1987”.
 
-Subsec. (b)(3). Pub. L. 100–4, § 301(e), added par. (3).
+Subsec. (b)(3). Pub. L. 100–4, § 301(e), added par. (3).
 
-Subsec. (g)(1). Pub. L. 100–4, § 302(a), substituted par. (1) for introductory provisions of former par. (1) which read as follows: “The Administrator, with the concurrence of the State, shall modify the requirements of subsection (b)(2)(A) of this section with respect to the discharge of any pollutant (other than pollutants identified pursuant to section 1314(a)(4) of this title, toxic pollutants subject to section 1317(a) of this title, and the thermal component of discharges) from any point source upon a showing by the owner or operator of such point source satisfactory to the Administrator that—”. Subpars (A) to (C) of former par. (1) were redesignated as subpars. (A) to (C) of par. (2).
+Subsec. (g)(1). Pub. L. 100–4, § 302(a), substituted par. (1) for introductory provisions of former par. (1) which read as follows: “The Administrator, with the concurrence of the State, shall modify the requirements of subsection (b)(2)(A) of this section with respect to the discharge of any pollutant (other than pollutants identified pursuant to section 1314(a)(4) of this title, toxic pollutants subject to section 1317(a) of this title, and the thermal component of discharges) from any point source upon a showing by the owner or operator of such point source satisfactory to the Administrator that—”. Subpars (A) to (C) of former par. (1) were redesignated as subpars. (A) to (C) of par. (2).
 
-Subsec. (g)(2). Pub. L. 100–4, § 302(a), (d)(2), inserted introductory provisions of par. (2), and by so doing, redesignated subpars. (A) to (C) of former par. (1) as subpars. (A) to (C) of par. (2), realigned such subpars. with subpar. (A) of par. (4), and redesignated former par. (2) as (3).
+Subsec. (g)(2). Pub. L. 100–4, § 302(a), (d)(2), inserted introductory provisions of par. (2), and by so doing, redesignated subpars. (A) to (C) of former par. (1) as subpars. (A) to (C) of par. (2), realigned such subpars. with subpar. (A) of par. (4), and redesignated former par. (2) as (3).
 
-Subsec. (g)(3). Pub. L. 100–4, § 302(a), (d)(1), redesignated former par. (2) as (3), inserted heading, and aligned par. (3) with par. (4).
+Subsec. (g)(3). Pub. L. 100–4, § 302(a), (d)(1), redesignated former par. (2) as (3), inserted heading, and aligned par. (3) with par. (4).
 
-Subsec. (g)(4), (5). Pub. L. 100–4, § 302(b), added pars. (4) and (5).
+Subsec. (g)(4), (5). Pub. L. 100–4, § 302(b), added pars. (4) and (5).
 
-Subsec. (h). Pub. L. 100–4, § 303(d)(2), (e), in closing provisions, inserted provision defining “primary or equivalent treatment” for purposes of par. (9) and provisions placing limitations on issuance of permits for discharge of pollutant into marine waters and saline estuarine waters and prohibiting issuance of permit for discharge of pollutant into New York Bight Apex.
+Subsec. (h). Pub. L. 100–4, § 303(d)(2), (e), in closing provisions, inserted provision defining “primary or equivalent treatment” for purposes of par. (9) and provisions placing limitations on issuance of permits for discharge of pollutant into marine waters and saline estuarine waters and prohibiting issuance of permit for discharge of pollutant into New York Bight Apex.
 
-Subsec. (h)(2). Pub. L. 100–4, § 303(a), substituted “the discharge of pollutants in accordance with such modified requirements will not interfere, alone or in combination with pollutants from other sources,” for “such modified requirements will not interfere”.
+Subsec. (h)(2). Pub. L. 100–4, § 303(a), substituted “the discharge of pollutants in accordance with such modified requirements will not interfere, alone or in combination with pollutants from other sources,” for “such modified requirements will not interfere”.
 
-Subsec. (h)(3). Pub. L. 100–4, § 303(b)(1), inserted “, and the scope of such monitoring is limited to include only those scientific investigations which are necessary to study the effects of the proposed discharge” before semicolon at end.
+Subsec. (h)(3). Pub. L. 100–4, § 303(b)(1), inserted “, and the scope of such monitoring is limited to include only those scientific investigations which are necessary to study the effects of the proposed discharge” before semicolon at end.
 
-Subsec. (h)(6) to (9). Pub. L. 100–4, § 303(c), (d)(1), added par. (6), redesignated former pars. (6) and (7) as (7) and (8), respectively, substituted semicolon for period at end of par. (8), and added par. (9).
+Subsec. (h)(6) to (9). Pub. L. 100–4, § 303(c), (d)(1), added par. (6), redesignated former pars. (6) and (7) as (7) and (8), respectively, substituted semicolon for period at end of par. (8), and added par. (9).
 
-Subsec. (i)(1). Pub. L. 100–4, § 304(a), substituted “February 4, 1987” for “December 27, 1977”.
+Subsec. (i)(1). Pub. L. 100–4, § 304(a), substituted “February 4, 1987” for “December 27, 1977”.
 
-Subsec. (j)(1)(A). Pub. L. 100–4, § 303(f), inserted before semicolon at end “, except that a publicly owned treatment works which prior to December 31, 1982, had a contractual arrangement to use a portion of the capacity of an ocean outfall operated by another publicly owned treatment works which has applied for or received modification under subsection (h), may apply for a modification of subsection (h) in its own right not later than 30 days after February 4, 1987”.
+Subsec. (j)(1)(A). Pub. L. 100–4, § 303(f), inserted before semicolon at end “, except that a publicly owned treatment works which prior to December 31, 1982, had a contractual arrangement to use a portion of the capacity of an ocean outfall operated by another publicly owned treatment works which has applied for or received modification under subsection (h), may apply for a modification of subsection (h) in its own right not later than 30 days after February 4, 1987”.
 
-Subsec. (j)(2). Pub. L. 100–4, § 302(c)(1), substituted “Subject to paragraph (3) of this section, any” for “Any”.
+Subsec. (j)(2). Pub. L. 100–4, § 302(c)(1), substituted “Subject to paragraph (3) of this section, any” for “Any”.
 
-Subsec. (j)(3), (4). Pub. L. 100–4, § 302(c)(2), added pars. (3) and (4).
+Subsec. (j)(3), (4). Pub. L. 100–4, § 302(c)(2), added pars. (3) and (4).
 
-Subsec. (k). Pub. L. 100–4, § 305, substituted “two years after the date for compliance with such effluent limitation which would otherwise be applicable under such subsection” for “July 1, 1987” and inserted “or (b)(2)(E)” after “(b)(2)(A)” in two places.
+Subsec. (k). Pub. L. 100–4, § 305, substituted “two years after the date for compliance with such effluent limitation which would otherwise be applicable under such subsection” for “July 1, 1987” and inserted “or (b)(2)(E)” after “(b)(2)(A)” in two places.
 
-Subsec. (*l*). Pub. L. 100–4, § 306(b), substituted “Other than as provided in subsection (n) of this section, the” for “The”.
+Subsec. (*l*). Pub. L. 100–4, § 306(b), substituted “Other than as provided in subsection (n) of this section, the” for “The”.
 
-Subsecs. (n), (*o*). Pub. L. 100–4, § 306(a), added subsecs. (n) and (*o*).
+Subsecs. (n), (*o*). Pub. L. 100–4, § 306(a), added subsecs. (n) and (*o*).
 
-Subsec. (p). Pub. L. 100–4, § 307, added subsec. (p).
+Subsec. (p). Pub. L. 100–4, § 307, added subsec. (p).
 
 1983—Subsec. (m). Pub. L. 97–440 added subsec. (m).
 
-1981—Subsec. (b)(2)(B). Pub. L. 97–117, § 21(b), struck out subpar. (B) which required that, not later than July 1, 1983, compliance by all publicly owned treatment works with the requirements in section 1281(g)(2)(A) of this title be achieved.
+1981—Subsec. (b)(2)(B). Pub. L. 97–117, § 21(b), struck out subpar. (B) which required that, not later than July 1, 1983, compliance by all publicly owned treatment works with the requirements in section 1281(g)(2)(A) of this title be achieved.
 
-Subsec. (h). Pub. L. 97–117, § 22(a) to (c), struck out in provision preceding par. (1) “in an existing discharge” after “discharge of any pollutant”, struck out par. (8), which required the applicant to demonstrate to the satisfaction of the Administrator that any funds available to the owner of such treatment works under subchapter II of this chapter be used to achieve the degree of effluent reduction required by section 1281(b) and (g)(2)(A) of this title or to carry out the requirements of this subsection, and inserted in provision following par. (7) a further provision that a municipality which applies secondary treatment be eligible to receive a permit which modifies the requirements of subsec. (b)(1)(B) of this section with respect to the discharge of any pollutant from any treatment works owned by such municipality into marine waters and that no permit issued under this subsection authorize the discharge of sewage sludge into marine waters.
+Subsec. (h). Pub. L. 97–117, § 22(a) to (c), struck out in provision preceding par. (1) “in an existing discharge” after “discharge of any pollutant”, struck out par. (8), which required the applicant to demonstrate to the satisfaction of the Administrator that any funds available to the owner of such treatment works under subchapter II of this chapter be used to achieve the degree of effluent reduction required by section 1281(b) and (g)(2)(A) of this title or to carry out the requirements of this subsection, and inserted in provision following par. (7) a further provision that a municipality which applies secondary treatment be eligible to receive a permit which modifies the requirements of subsec. (b)(1)(B) of this section with respect to the discharge of any pollutant from any treatment works owned by such municipality into marine waters and that no permit issued under this subsection authorize the discharge of sewage sludge into marine waters.
 
-Subsec. (i)(1), (2)(B). Pub. L. 97–117, § 21(a), substituted “July 1, 1988,” for “July 1, 1983,” wherever appearing. Par. (2)(B) contained a reference to “July 1, 1983;” which was changed to “July 1, 1988;” as the probable intent of Congress in that reference to July 1, 1983, was to the outside date for compliance for a point source other than a publicly owned treatment works and subpar. (B) allows a time extension for such a point source up to the date granted in an extension for a publicly owned treatment works, which date was extended to July 1, 1988, by Pub. L. 97–117.
+Subsec. (i)(1), (2)(B). Pub. L. 97–117, § 21(a), substituted “July 1, 1988,” for “July 1, 1983,” wherever appearing. Par. (2)(B) contained a reference to “July 1, 1983;” which was changed to “July 1, 1988;” as the probable intent of Congress in that reference to July 1, 1983, was to the outside date for compliance for a point source other than a publicly owned treatment works and subpar. (B) allows a time extension for such a point source up to the date granted in an extension for a publicly owned treatment works, which date was extended to July 1, 1988, by Pub. L. 97–117.
 
-Subsec. (j)(1)(A). Pub. L. 97–117, § 22(d), substituted “that the 365th day which begins after December 29, 1981” for “than 270 days after December 27, 1977”.
+Subsec. (j)(1)(A). Pub. L. 97–117, § 22(d), substituted “that the 365th day which begins after December 29, 1981” for “than 270 days after December 27, 1977”.
 
-1977—Subsec. (b)(2)(A). Pub. L. 95–217, § 42(b), substituted “for pollutants identified in subparagraphs (C), (D), and (F) of this paragraph” for “not later than July 1, 1983”.
+1977—Subsec. (b)(2)(A). Pub. L. 95–217, § 42(b), substituted “for pollutants identified in subparagraphs (C), (D), and (F) of this paragraph” for “not later than July 1, 1983”.
 
-Subsec. (b)(2)(C) to (F). Pub. L. 95–217, § 42(a), added subpars. (C) to (F).
+Subsec. (b)(2)(C) to (F). Pub. L. 95–217, § 42(a), added subpars. (C) to (F).
 
-Subsec. (g). Pub. L. 95–217, § 43, added subsec. (g).
+Subsec. (g). Pub. L. 95–217, § 43, added subsec. (g).
 
-Subsec. (h). Pub. L. 95–217, § 44, added subsec. (h).
+Subsec. (h). Pub. L. 95–217, § 44, added subsec. (h).
 
-Subsec. (i). Pub. L. 95–217, § 45, added subsec. (i).
+Subsec. (i). Pub. L. 95–217, § 45, added subsec. (i).
 
-Subsec. (j). Pub. L. 95–217, § 46, added subsec. (j).
+Subsec. (j). Pub. L. 95–217, § 46, added subsec. (j).
 
-Subsec. (k). Pub. L. 95–217, § 47, added subsec. (k).
+Subsec. (k). Pub. L. 95–217, § 47, added subsec. (k).
 
-Subsec. (*l*). Pub. L. 95–217, § 53(c), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 95–217, § 53(c), added subsec. (*l*).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7250,25 +7250,25 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–4, title III, § 302(e), Feb. 4, 1987, 101 Stat. 32, provided that:
+Pub. L. 100–4, title III, § 302(e), Feb. 4, 1987, 101 Stat. 32, provided that:
 
 > **“(1) General rule.—** Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply to all requests for modifications under section 301(g) of the Federal Water Pollution Control Act [33 U.S.C. 1311(g)] pending on the date of the enactment of this Act [Feb. 4, 1987] and shall not have the effect of extending the deadline established in section 301(j)(1)(B) of such Act.
 
 > **“(2) Exception.—** The amendments made by this section shall not affect any application for a modification with respect to the discharge of ammonia, chlorine, color, iron, or total phenols (4AAP) under section 301(g) of the Federal Water Pollution Control Act pending on the date of the enactment of this Act; except that the Administrator must approve or disapprove such application not later than 365 days after the date of such enactment.”
 
-Pub. L. 100–4, title III, § 303(b)(2), Feb. 4, 1987, 101 Stat. 33, provided that: “The amendment made by subsection (b) [amending this section] shall only apply to modifications and renewals of modifications which are tentatively or finally approved after the date of the enactment of this Act [Feb. 4, 1987].”
+Pub. L. 100–4, title III, § 303(b)(2), Feb. 4, 1987, 101 Stat. 33, provided that: “The amendment made by subsection (b) [amending this section] shall only apply to modifications and renewals of modifications which are tentatively or finally approved after the date of the enactment of this Act [Feb. 4, 1987].”
 
-Pub. L. 100–4, title III, § 303(g), Feb. 4, 1987, 101 Stat. 34, provided that: “The amendments made by subsections (a), (c), (d), and (e) of this section [amending this section] shall not apply to an application for a permit under section 301(h) of the Federal Water Pollution Control Act [33 U.S.C. 1311(h)] which has been tentatively or finally approved by the Administrator before the date of the enactment of this Act [Feb. 4, 1987]; except that such amendments shall apply to all renewals of such permits after such date of enactment.”
+Pub. L. 100–4, title III, § 303(g), Feb. 4, 1987, 101 Stat. 34, provided that: “The amendments made by subsections (a), (c), (d), and (e) of this section [amending this section] shall not apply to an application for a permit under section 301(h) of the Federal Water Pollution Control Act [33 U.S.C. 1311(h)] which has been tentatively or finally approved by the Administrator before the date of the enactment of this Act [Feb. 4, 1987]; except that such amendments shall apply to all renewals of such permits after such date of enactment.”
 
-Pub. L. 100–4, title III, § 304(b), Feb. 4, 1987, 101 Stat. 34, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to those treatment works which are subject to a compliance schedule established before the date of the enactment of this Act [Feb. 4, 1987] by a court order or a final administrative order.”
+Pub. L. 100–4, title III, § 304(b), Feb. 4, 1987, 101 Stat. 34, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to those treatment works which are subject to a compliance schedule established before the date of the enactment of this Act [Feb. 4, 1987] by a court order or a final administrative order.”
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–117, § 22(e), Dec. 29, 1981, 95 Stat. 1632, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Dec. 29, 1981], except that no applicant, other than the city of Avalon, California, who applies after the date of enactment of this Act for a permit pursuant to subsection (h) of section 301 of the Federal Water Pollution Control Act [33 U.S.C. 1311(h)] which modifies the requirements of subsection (b)(1)(B) of section 301 of such Act [33 U.S.C. 1311(b)(1)(B)] shall receive such permit during the one-year period which begins on the date of enactment of this Act.”
+Pub. L. 97–117, § 22(e), Dec. 29, 1981, 95 Stat. 1632, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Dec. 29, 1981], except that no applicant, other than the city of Avalon, California, who applies after the date of enactment of this Act for a permit pursuant to subsection (h) of section 301 of the Federal Water Pollution Control Act [33 U.S.C. 1311(h)] which modifies the requirements of subsection (b)(1)(B) of section 301 of such Act [33 U.S.C. 1311(b)(1)(B)] shall receive such permit during the one-year period which begins on the date of enactment of this Act.”
 
 **Regulations**
 
-Pub. L. 100–4, title III, § 301(f), Feb. 4, 1987, 101 Stat. 30, provided that:
+Pub. L. 100–4, title III, § 301(f), Feb. 4, 1987, 101 Stat. 30, provided that:
 
 > “The Administrator shall promulgate final regulations establishing effluent limitations in accordance with sections 301(b)(2)(A) and 307(b)(1) of the Federal Water Pollution Control Act [33 U.S.C. 1311(b)(2)(A), 1317(b)(1)] for all toxic pollutants referred to in table 1 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives which are discharged from the categories of point sources in accordance with the following table:
 
@@ -7283,7 +7283,7 @@ Amendment by section 306(a), (b) of Pub. L. 100–4 not to be construed (A) to r
 
 **Discharges From Point Sources in United States Virgin Islands Attributable to Manufacture of Rum; Exemption From Federal Water Pollution Control Requirements; Conditions**
 
-Pub. L. 98–67, title II, § 214(g), Aug. 5, 1983, 97 Stat. 393, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–67, title II, § 214(g), Aug. 5, 1983, 97 Stat. 393, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “Any discharge from a point source in the United States Virgin Islands in existence on the date of the enactment of this subsection [Aug. 5, 1983] which discharge is attributable to the manufacture of rum (as defined in paragraphs (3) of section 7652(c) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) [26 U.S.C. 7652(c)(3)] shall not be subject to the requirements of section 301 (other than toxic pollutant discharges), section 306 or section 403 of the Federal Water Pollution Control Act [33 U.S.C. 1311, 1316, 1343] if—
 
@@ -7293,7 +7293,7 @@ Pub. L. 98–67, title II, § 214(g), Aug. 5, 1983, 97 Stat. 393, as amended b
 
 **Certain Municipal Compliance Deadlines Unaffected; Exception**
 
-Pub. L. 97–117, § 21(a), Dec. 29, 1981, 95 Stat. 1631, provided in part that: “The amendment made by this subsection [amending this section] shall not be interpreted or applied to extend the date for compliance with section 301(b)(1)(B) or (C) of the Federal Water Pollution Control Act [33 U.S.C. 1311(b)(1)(B), (C)] beyond schedules for compliance in effect as of the date of enactment of this Act [Dec. 29, 1981], except in cases where reductions in the amount of financial assistance under this Act [Pub. L. 97–117, see Short Title of 1981 Amendment note set out under section 1251 of this title] or changed conditions affecting the rate of construction beyond the control of the owner or operator will make it impossible to complete construction by July 1, 1983.”
+Pub. L. 97–117, § 21(a), Dec. 29, 1981, 95 Stat. 1631, provided in part that: “The amendment made by this subsection [amending this section] shall not be interpreted or applied to extend the date for compliance with section 301(b)(1)(B) or (C) of the Federal Water Pollution Control Act [33 U.S.C. 1311(b)(1)(B), (C)] beyond schedules for compliance in effect as of the date of enactment of this Act [Dec. 29, 1981], except in cases where reductions in the amount of financial assistance under this Act [Pub. L. 97–117, see Short Title of 1981 Amendment note set out under section 1251 of this title] or changed conditions affecting the rate of construction beyond the control of the owner or operator will make it impossible to complete construction by July 1, 1983.”
 
 **Executive Documents**
 
@@ -7301,7 +7301,7 @@ Pub. L. 97–117, § 21(a), Dec. 29, 1981, 95 Stat. 1631, provided in part tha
 
 For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
-### § 1312. Water quality related effluent limitations
+### § 1312. Water quality related effluent limitations
 
 **(a) Establishment**
 
@@ -7327,21 +7327,21 @@ The Administrator, with the concurrence of the State, may issue a permit which m
 
 The establishment of effluent limitations under this section shall not operate to delay the application of any effluent limitation established under section 1311 of this title.
 
-(June 30, 1948, ch. 758, title III, § 302, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 846; amended Pub. L. 100–4, title III, § 308(e), Feb. 4, 1987, 101 Stat. 39.)
+(June 30, 1948, ch. 758, title III, § 302, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 846; amended Pub. L. 100–4, title III, § 308(e), Feb. 4, 1987, 101 Stat. 39.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1987—Subsec. (a). Pub. L. 100–4, § 308(e)(2), inserted “or as identified under section 1314(*l*) of this title” after “Administrator” and “public health,” after “protection of”.
+1987—Subsec. (a). Pub. L. 100–4, § 308(e)(2), inserted “or as identified under section 1314(*l*) of this title” after “Administrator” and “public health,” after “protection of”.
 
-Subsec. (b). Pub. L. 100–4, § 308(e)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+Subsec. (b). Pub. L. 100–4, § 308(e)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
 “(1) Prior to establishment of any effluent limitation pursuant to subsection (a) of this section, the Administrator shall issue notice of intent to establish such limitation and within ninety days of such notice hold a public hearing to determine the relationship of the economic and social costs of achieving any such limitation or limitations, including any economic or social dislocation in the affected community or communities, to the social and economic benefits to be obtained (including the attainment of the objective of this chapter) and to determine whether or not such effluent limitations can be implemented with available technology or other alternative control strategies.
 
 “(2) If a person affected by such limitation demonstrates at such hearing that (whether or not such technology or other alternative control strategies are available) there is no reasonable relationship between the economic and social costs and the benefits to be obtained (including attainment of the objective of this chapter), such limitation shall not become effective and the Administrator shall adjust such limitation as it applies to such person.”
 
-### § 1313. Water quality standards and implementation plans
+### § 1313. Water quality standards and implementation plans
 
 **(a) Existing water quality standards**
 
@@ -7471,7 +7471,7 @@ If the Administrator proposes regulations for a State described in subparagraph 
 
 Except as expressly provided by this subsection, the requirements and procedures of subsection (c) apply to this subsection, including the requirement in subsection (c)(2)(A) that the criteria protect public health and welfare.
 
-(June 30, 1948, ch. 758, title III, § 303, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 846; amended Pub. L. 100–4, title III, § 308(d), title IV, § 404(b), Feb. 4, 1987, 101 Stat. 39, 68; Pub. L. 106–284, § 2, Oct. 10, 2000, 114 Stat. 870.)
+(June 30, 1948, ch. 758, title III, § 303, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 846; amended Pub. L. 100–4, title III, § 308(d), title IV, § 404(b), Feb. 4, 1987, 101 Stat. 39, 68; Pub. L. 106–284, § 2, Oct. 10, 2000, 114 Stat. 870.)
 
 **Editorial Notes**
 
@@ -7483,27 +7483,27 @@ This Act, referred to in subsecs. (a)(1), (2), (3)(B), (C) and (b)(1), means act
 
 2000—Subsec. (i). Pub. L. 106–284 added subsec. (i).
 
-1987—Subsec. (c)(2). Pub. L. 100–4, § 308(d), designated existing provision as subpar. (A) and added subpar. (B).
+1987—Subsec. (c)(2). Pub. L. 100–4, § 308(d), designated existing provision as subpar. (A) and added subpar. (B).
 
-Subsec. (d)(4). Pub. L. 100–4, § 404(b), added par. (4).
+Subsec. (d)(4). Pub. L. 100–4, § 404(b), added par. (4).
 
-### § 1313a. Revised water quality standards
+### § 1313a. Revised water quality standards
 
 The review, revision, and adoption or promulgation of revised or new water quality standards pursuant to section 303(c) of the Federal Water Pollution Control Act [33 U.S.C. 1313(c)] shall be completed by the date three years after December 29, 1981. No grant shall be made under title II of the Federal Water Pollution Control Act [33 U.S.C. 1281 et seq.] after such date until water quality standards are reviewed and revised pursuant to section 303(c), except where the State has in good faith submitted such revised water quality standards and the Administrator has not acted to approve or disapprove such submission within one hundred and twenty days of receipt.
 
-(Pub. L. 97–117, § 24, Dec. 29, 1981, 95 Stat. 1632.)
+(Pub. L. 97–117, § 24, Dec. 29, 1981, 95 Stat. 1632.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Water Pollution Control Act, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816. Title II of the Act is classified generally to subchapter II (§ 1281 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816. Title II of the Act is classified generally to subchapter II (§ 1281 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the Municipal Wastewater Treatment Construction Grant Amendments of 1981, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
 
-### § 1314. Information and guidelines
+### § 1314. Information and guidelines
 
 **(a) Criteria development and publication**
 
@@ -7655,61 +7655,61 @@ If a State fails to submit control strategies in accordance with paragraph (1) o
 
 The Administrator shall provide for public review and comment on the plan prior to final publication.
 
-(June 30, 1948, ch. 758, title III, § 304, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 850; amended Pub. L. 95–217, §§ 48–51, 62(b), Dec. 27, 1977, 91 Stat. 1587, 1588, 1598; Pub. L. 97–117, § 23, Dec. 29, 1981, 95 Stat. 1632; Pub. L. 100–4, title I, § 101(f), title III, §§ 308(a), (c), (f), 315(c), 316(e), Feb. 4, 1987, 101 Stat. 9, 38–40, 52, 61; Pub. L. 106–284, § 3(b), Oct. 10, 2000, 114 Stat. 871.)
+(June 30, 1948, ch. 758, title III, § 304, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 850; amended Pub. L. 95–217, §§ 48–51, 62(b), Dec. 27, 1977, 91 Stat. 1587, 1588, 1598; Pub. L. 97–117, § 23, Dec. 29, 1981, 95 Stat. 1632; Pub. L. 100–4, title I, § 101(f), title III, §§ 308(a), (c), (f), 315(c), 316(e), Feb. 4, 1987, 101 Stat. 9, 38–40, 52, 61; Pub. L. 106–284, § 3(b), Oct. 10, 2000, 114 Stat. 871.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 95–217, § 50, Dec. 27, 1977, 91 Stat. 1588, provided in part that, upon the enactment of subsec. (e) of this section by Pub. L. 95–217 and the concurrent redesignation of former subsecs. (e) to (j) of this section as (f) to (k), respectively, all references to former subsecs. (e) to (j) be changed to (f) to (k), respectively.
+Pub. L. 95–217, § 50, Dec. 27, 1977, 91 Stat. 1588, provided in part that, upon the enactment of subsec. (e) of this section by Pub. L. 95–217 and the concurrent redesignation of former subsecs. (e) to (j) of this section as (f) to (k), respectively, all references to former subsecs. (e) to (j) be changed to (f) to (k), respectively.
 
 **Amendments**
 
 2000—Subsec. (a)(9). Pub. L. 106–284 added par. (9).
 
-1987—Subsec. (a)(7), (8). Pub. L. 100–4, § 308(c), added pars. (7) and (8).
+1987—Subsec. (a)(7), (8). Pub. L. 100–4, § 308(c), added pars. (7) and (8).
 
-Subsec. (j). Pub. L. 100–4, § 315(c), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The Administrator shall issue information biennially on methods, procedures, and processes as may be appropriate to restore and enhance the quality of the Nation’s publicly owned freshwater lakes.”
+Subsec. (j). Pub. L. 100–4, § 315(c), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The Administrator shall issue information biennially on methods, procedures, and processes as may be appropriate to restore and enhance the quality of the Nation’s publicly owned freshwater lakes.”
 
-Subsec. (k)(1). Pub. L. 100–4, § 316(e), inserted “and nonpoint source pollution management programs approved under section 1329 of this title” before period at end.
+Subsec. (k)(1). Pub. L. 100–4, § 316(e), inserted “and nonpoint source pollution management programs approved under section 1329 of this title” before period at end.
 
-Subsec. (k)(3). Pub. L. 100–4, § 101(f), inserted “and such sums as may be necessary for fiscal years 1984 through 1990” after “1983”.
+Subsec. (k)(3). Pub. L. 100–4, § 101(f), inserted “and such sums as may be necessary for fiscal years 1984 through 1990” after “1983”.
 
-Subsec. (*l*). Pub. L. 100–4, § 308(a), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 100–4, § 308(a), added subsec. (*l*).
 
-Subsec. (m). Pub. L. 100–4, § 308(f), added subsec. (m).
+Subsec. (m). Pub. L. 100–4, § 308(f), added subsec. (m).
 
 1981—Subsec. (d)(4). Pub. L. 97–117 added par. (4).
 
-1977—Subsec. (a)(4) to (6). Pub. L. 95–217, § 48(a), added pars. (4) to (6).
+1977—Subsec. (a)(4) to (6). Pub. L. 95–217, § 48(a), added pars. (4) to (6).
 
-Subsec. (b)(4). Pub. L. 95–217, § 48(b), added par. (4).
+Subsec. (b)(4). Pub. L. 95–217, § 48(b), added par. (4).
 
-Subsec. (d)(3). Pub. L. 95–217, § 49, added par. (3).
+Subsec. (d)(3). Pub. L. 95–217, § 49, added par. (3).
 
-Subsecs. (e) to (i). Pub. L. 95–217, § 50, added subsec. (e) and redesignated former subsecs. (e) to (h) as (f) to (i), respectively. Former subsec. (i) redesignated (j).
+Subsecs. (e) to (i). Pub. L. 95–217, § 50, added subsec. (e) and redesignated former subsecs. (e) to (h) as (f) to (i), respectively. Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 95–217, §§ 50, 62(b), redesignated former subsec. (i) as (j) and substituted “shall issue information biennially on methods” for “shall, within 270 days after October 18, 1972 (and from time to time thereafter), issue such information on methods”. Former subsec. (j) redesignated (k).
+Subsec. (j). Pub. L. 95–217, §§ 50, 62(b), redesignated former subsec. (i) as (j) and substituted “shall issue information biennially on methods” for “shall, within 270 days after October 18, 1972 (and from time to time thereafter), issue such information on methods”. Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 95–217, §§ 50, 51, redesignated former subsec. (j) as (k), substituted “The Administrator shall enter into agreements with the Secretary of Agriculture, the Secretary of the Army, and the Secretary of the Interior, and the heads of such other departments, agencies, and instrumentalities of the United States as the Administrator determines, to provide the maximum utilization of other Federal laws and programs” for “The Administrator shall, within six months from October 18, 1972, enter into agreements with the Secretary of Agriculture, the Secretary of the Army, and the Secretary of the Interior to provide for the maximum utilization of the appropriate programs authorized under other Federal law to be carried out by such Secretaries” in par. (1), made conforming amendments in par. (2), and in par. (3) authorized appropriations for fiscal years 1979 through 1983.
+Subsec. (k). Pub. L. 95–217, §§ 50, 51, redesignated former subsec. (j) as (k), substituted “The Administrator shall enter into agreements with the Secretary of Agriculture, the Secretary of the Army, and the Secretary of the Interior, and the heads of such other departments, agencies, and instrumentalities of the United States as the Administrator determines, to provide the maximum utilization of other Federal laws and programs” for “The Administrator shall, within six months from October 18, 1972, enter into agreements with the Secretary of Agriculture, the Secretary of the Army, and the Secretary of the Interior to provide for the maximum utilization of the appropriate programs authorized under other Federal law to be carried out by such Secretaries” in par. (1), made conforming amendments in par. (2), and in par. (3) authorized appropriations for fiscal years 1979 through 1983.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Review of Effluent Guidelines Promulgated Prior to December 27, 1977**
 
-Pub. L. 95–217, § 73, Dec. 27, 1977, 91 Stat. 1609, directed Administrator, within 90 days after Dec. 27, 1977, to review every effluent guideline promulgated prior to that date which was final or interim final (other than those applicable to industrial categories listed in table 2 of Committee Print Numbered 95–30 of Committee on Public Works and Transportation of House of Representatives) and which applied to those pollutants identified pursuant to 33 U.S.C. 1314(a)(4) and, on or before July 1, 1980, to review every guideline applicable to industrial categories listed in such table 2, authorized Administrator, upon completion of each such review to make such adjustments in any such guidelines as may be necessary to carry out 33 U.S.C. 1314(b)(4), directed Administrator to publish the results of each such review, and provided for judicial review of Administrator’s actions.
+Pub. L. 95–217, § 73, Dec. 27, 1977, 91 Stat. 1609, directed Administrator, within 90 days after Dec. 27, 1977, to review every effluent guideline promulgated prior to that date which was final or interim final (other than those applicable to industrial categories listed in table 2 of Committee Print Numbered 95–30 of Committee on Public Works and Transportation of House of Representatives) and which applied to those pollutants identified pursuant to 33 U.S.C. 1314(a)(4) and, on or before July 1, 1980, to review every guideline applicable to industrial categories listed in such table 2, authorized Administrator, upon completion of each such review to make such adjustments in any such guidelines as may be necessary to carry out 33 U.S.C. 1314(b)(4), directed Administrator to publish the results of each such review, and provided for judicial review of Administrator’s actions.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, relating to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, relating to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 **Contiguous Zone of United States**
 
 For extension of contiguous zone of United States, see Proc. No. 7219, set out as a note under section 1331 of Title 43, Public Lands.
 
-### § 1314a. Wastewater technology clearinghouse
+### § 1314a. Wastewater technology clearinghouse
 
 **(a) In general**
 
@@ -7733,7 +7733,7 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
 **(3)** the actions taken by the Administrator to assist States in the deployment of alternative wastewater treatment and recycling technologies, including onsite and decentralized systems.
 
-(Pub. L. 115–270, title IV, § 4102, Oct. 23, 2018, 132 Stat. 3871.)
+(Pub. L. 115–270, title IV, § 4102, Oct. 23, 2018, 132 Stat. 3871.)
 
 **Editorial Notes**
 
@@ -7741,7 +7741,7 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
 Section was enacted as part of the America’s Water Infrastructure Act of 2018, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
 
-### § 1315. State reports on water quality
+### § 1315. State reports on water quality
 
 **(a)** Omitted.
 
@@ -7761,7 +7761,7 @@ Section was enacted as part of the America’s Water Infrastructure Act of 2018,
 
 **(2)** The Administrator shall transmit such State reports, together with an analysis thereof, to Congress on or before October 1, 1975, and October 1, 1976, and biennially thereafter.
 
-(June 30, 1948, ch. 758, title III, § 305, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 853; amended Pub. L. 95–217, § 52, Dec. 27, 1977, 91 Stat. 1589.)
+(June 30, 1948, ch. 758, title III, § 305, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 853; amended Pub. L. 95–217, § 52, Dec. 27, 1977, 91 Stat. 1589.)
 
 **Editorial Notes**
 
@@ -7771,11 +7771,11 @@ Subsec. (a) authorized the Administrator, in cooperation with the States and Fed
 
 **Amendments**
 
-1977—Subsec. (b)(1). Pub. L. 95–217, § 52(1), substituted “April 1, 1975, and shall bring up to date by April 1, 1976, and biennially thereafter” for “January 1, 1975, and shall bring up to date each year thereafter” in provisions preceding subpar. (A).
+1977—Subsec. (b)(1). Pub. L. 95–217, § 52(1), substituted “April 1, 1975, and shall bring up to date by April 1, 1976, and biennially thereafter” for “January 1, 1975, and shall bring up to date each year thereafter” in provisions preceding subpar. (A).
 
-Subsec. (b)(2). Pub. L. 95–217, § 52(2), substituted “on or before October 1, 1975, and October 1, 1976, and biennially thereafter” for “on or before October 1, 1975, and annually thereafter”.
+Subsec. (b)(2). Pub. L. 95–217, § 52(2), substituted “on or before October 1, 1975, and October 1, 1976, and biennially thereafter” for “on or before October 1, 1975, and annually thereafter”.
 
-### § 1316. National standards of performance
+### § 1316. National standards of performance
 
 **(a) Definitions** For purposes of this section:
 
@@ -7867,7 +7867,7 @@ Notwithstanding any other provision of this chapter, any point source the constr
 
 After the effective date of standards of performance promulgated under this section, it shall be unlawful for any owner or operator of any new source to operate such source in violation of any standard of performance applicable to such source.
 
-(June 30, 1948, ch. 758, title III, § 306, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 854.)
+(June 30, 1948, ch. 758, title III, § 306, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 854.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7875,7 +7875,7 @@ After the effective date of standards of performance promulgated under this sect
 
 Discharges from point sources in the United States Virgin Islands in existence on Aug. 5, 1983, attributable to the manufacture of rum not to be subject to the requirements of this section under certain conditions, see section 214(g) of Pub. L. 98–67, set out as a note under section 1311 of this title.
 
-### § 1317. Toxic and pretreatment effluent standards
+### § 1317. Toxic and pretreatment effluent standards
 
 **(a) Toxic pollutant list; revision; hearing; promulgation of standards; effective date; consultation**
 
@@ -7921,7 +7921,7 @@ After the effective date of any effluent standard or prohibition or pretreatment
 
 **(B)** concurs with the proposed extension.
 
-(June 30, 1948, ch. 758, title III, § 307, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 856; amended Pub. L. 95–217, §§ 53(a), (b), 54(a), Dec. 27, 1977, 91 Stat. 1589–1591; Pub. L. 100–4, title III, § 309(a), Feb. 4, 1987, 101 Stat. 41.)
+(June 30, 1948, ch. 758, title III, § 307, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 856; amended Pub. L. 95–217, §§ 53(a), (b), 54(a), Dec. 27, 1977, 91 Stat. 1589–1591; Pub. L. 100–4, title III, § 309(a), Feb. 4, 1987, 101 Stat. 41.)
 
 **Editorial Notes**
 
@@ -7929,15 +7929,15 @@ After the effective date of any effluent standard or prohibition or pretreatment
 
 1987—Subsec. (e). Pub. L. 100–4 added subsec. (e).
 
-1977—Subsec. (a)(1). Pub. L. 95–217, § 53(a), substituted “On and after December 27, 1977, the list of toxic pollutants or combination of pollutants subject to this chapter shall consist of those toxic pollutants listed in table 1 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives, and the Administrator shall publish, not later than the thirtieth day after December 27, 1977, that list” for “The Administrator shall, within ninety days after October 18, 1972, publish (and from time to time thereafter revise) a list which includes any toxic pollutant or combination of such pollutants for which an effluent standard (which may include a prohibition of the discharge of such pollutants or combination of such pollutants) will be established under this section” and inserted provision for the revision of the list and for the finality of the Administrator’s determination except when that determination is arbitrary and capricious.
+1977—Subsec. (a)(1). Pub. L. 95–217, § 53(a), substituted “On and after December 27, 1977, the list of toxic pollutants or combination of pollutants subject to this chapter shall consist of those toxic pollutants listed in table 1 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives, and the Administrator shall publish, not later than the thirtieth day after December 27, 1977, that list” for “The Administrator shall, within ninety days after October 18, 1972, publish (and from time to time thereafter revise) a list which includes any toxic pollutant or combination of such pollutants for which an effluent standard (which may include a prohibition of the discharge of such pollutants or combination of such pollutants) will be established under this section” and inserted provision for the revision of the list and for the finality of the Administrator’s determination except when that determination is arbitrary and capricious.
 
-Subsec. (a)(2). Pub. L. 95–217, § 53(a), expanded provisions covering effluent limitations and the establishment of effluent standards (or prohibitions), introduced provisions relating to the application of the best available technology economically achievable for the applicable category or class of point sources established in accordance with sections 1311(b)(2)(A) and 1314(b)(2) of this title, inserted provision that published effluent standards take into account the extent to which effective control is being or may be achieved under other regulatory authority, inserted provision for a sixty day minimum period following publication of proposed effluent standards for written comment, substituted two hundred and seventy days for six months as the period following publication of proposed standards during which period standards (or prohibitions) must be promulgated, and inserted provision for the finality of effluent limitations (or prohibitions) except if, on judicial review, the standard was not based on substantial evidence.
+Subsec. (a)(2). Pub. L. 95–217, § 53(a), expanded provisions covering effluent limitations and the establishment of effluent standards (or prohibitions), introduced provisions relating to the application of the best available technology economically achievable for the applicable category or class of point sources established in accordance with sections 1311(b)(2)(A) and 1314(b)(2) of this title, inserted provision that published effluent standards take into account the extent to which effective control is being or may be achieved under other regulatory authority, inserted provision for a sixty day minimum period following publication of proposed effluent standards for written comment, substituted two hundred and seventy days for six months as the period following publication of proposed standards during which period standards (or prohibitions) must be promulgated, and inserted provision for the finality of effluent limitations (or prohibitions) except if, on judicial review, the standard was not based on substantial evidence.
 
-Subsec. (a)(3). Pub. L. 95–217, § 53(a), struck out provision for the immediate promulgation of revised effluent standards (or prohibitions) for pollutants or combinations of pollutants if, after public hearings, the Administrator found that a modification of such proposed standards (or prohibitions) was justified. See subsec. (a)(2) of this section.
+Subsec. (a)(3). Pub. L. 95–217, § 53(a), struck out provision for the immediate promulgation of revised effluent standards (or prohibitions) for pollutants or combinations of pollutants if, after public hearings, the Administrator found that a modification of such proposed standards (or prohibitions) was justified. See subsec. (a)(2) of this section.
 
-Subsec. (a)(6). Pub. L. 95–217, § 53(b), inserted provision that if the Administrator determines that compliance with effluent standards (or prohibitions) within one year from the date of promulgation is technologically infeasible for a category of sources, the Administrator may establish the effective date of the effluent standard (or prohibition) for that category at the earliest date upon which compliance can be feasibly attained by sources within such category, but in no event more than three years after the date of such promulgation.
+Subsec. (a)(6). Pub. L. 95–217, § 53(b), inserted provision that if the Administrator determines that compliance with effluent standards (or prohibitions) within one year from the date of promulgation is technologically infeasible for a category of sources, the Administrator may establish the effective date of the effluent standard (or prohibition) for that category at the earliest date upon which compliance can be feasibly attained by sources within such category, but in no event more than three years after the date of such promulgation.
 
-Subsec. (b)(1). Pub. L. 95–217, § 54(a), inserted provision that if, in the case of any toxic pollutant under subsection (a) of this section introduced by a source into a publicly owned treatment works, the treatment by the works removes all or any part of the toxic pollutant and the discharge from the works does not violate that effluent limitation or standard which would be applicable to the toxic pollutant if it were discharged by the source other than through a publicly owned treatment works, and does not prevent sludge use or disposal by the works in accordance with section 1345 of this title, then the pretreatment requirements for the sources actually discharging the toxic pollutant into the publicly owned treatment works may be revised by the owner or operator of the works to reflect the removal of the toxic pollutant by the works.
+Subsec. (b)(1). Pub. L. 95–217, § 54(a), inserted provision that if, in the case of any toxic pollutant under subsection (a) of this section introduced by a source into a publicly owned treatment works, the treatment by the works removes all or any part of the toxic pollutant and the discharge from the works does not violate that effluent limitation or standard which would be applicable to the toxic pollutant if it were discharged by the source other than through a publicly owned treatment works, and does not prevent sludge use or disposal by the works in accordance with section 1345 of this title, then the pretreatment requirements for the sources actually discharging the toxic pollutant into the publicly owned treatment works may be revised by the owner or operator of the works to reflect the removal of the toxic pollutant by the works.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7947,9 +7947,9 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 **Increase in EPA Employees**
 
-Pub. L. 100–4, title III, § 309(b), Feb. 4, 1987, 101 Stat. 41, provided that: “The Administrator shall take such actions as may be necessary to increase the number of employees of the Environmental Protection Agency in order to effectively implement pretreatment requirements under section 307 of the Federal Water Pollution Control Act [33 U.S.C. 1317].”
+Pub. L. 100–4, title III, § 309(b), Feb. 4, 1987, 101 Stat. 41, provided that: “The Administrator shall take such actions as may be necessary to increase the number of employees of the Environmental Protection Agency in order to effectively implement pretreatment requirements under section 307 of the Federal Water Pollution Control Act [33 U.S.C. 1317].”
 
-### § 1318. Records and reports; inspections
+### § 1318. Records and reports; inspections
 
 **(a) Maintenance; monitoring equipment; entry; access to information** Whenever required to carry out the objective of this chapter, including but not limited to (1) developing or assisting in the development of any effluent limitation, or other limitation, prohibition, or effluent standard, pretreatment standard, or standard of performance under this chapter; (2) determining whether any person is in violation of any such effluent limitation, or other limitation, prohibition or effluent standard, pretreatment standard, or standard of performance; (3) any requirement established under this section; or (4) carrying out sections 1315, 1321, 1342, 1344 (relating to State permit programs), 1345, and 1364 of this title—
 
@@ -7973,23 +7973,23 @@ Each State may develop and submit to the Administrator procedures under State la
 
 Notwithstanding any limitation contained in this section or any other provision of law, all information reported to or otherwise obtained by the Administrator (or any representative of the Administrator) under this chapter shall be made available, upon written request of any duly authorized committee of Congress, to such committee.
 
-(June 30, 1948, ch. 758, title III, § 308, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 858; amended Pub. L. 95–217, § 67(c)(1), Dec. 27, 1977, 91 Stat. 1606; Pub. L. 100–4, title III, § 310, title IV, § 406(d)(1), Feb. 4, 1987, 101 Stat. 41, 73.)
+(June 30, 1948, ch. 758, title III, § 308, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 858; amended Pub. L. 95–217, § 67(c)(1), Dec. 27, 1977, 91 Stat. 1606; Pub. L. 100–4, title III, § 310, title IV, § 406(d)(1), Feb. 4, 1987, 101 Stat. 41, 73.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1987—Subsec. (a). Pub. L. 100–4, § 406(d)(1), substituted “1345, and 1364” for “and 1364” in cl. (4).
+1987—Subsec. (a). Pub. L. 100–4, § 406(d)(1), substituted “1345, and 1364” for “and 1364” in cl. (4).
 
-Subsec. (a)(B). Pub. L. 100–4, § 310(a)(2), inserted “(including an authorized contractor acting as a representative of the Administrator)” after “representative”.
+Subsec. (a)(B). Pub. L. 100–4, § 310(a)(2), inserted “(including an authorized contractor acting as a representative of the Administrator)” after “representative”.
 
-Subsec. (b). Pub. L. 100–4, § 310(a)(1), substituted a period and “Any authorized representative of the Administrator (including an authorized contractor acting as a representative of the Administrator) who knowingly or willfully publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by law any information which is required to be considered confidential under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both. Nothing in this subsection shall prohibit the Administrator or an authorized representative of the Administrator (including any authorized contractor acting as a representative of the Administrator) from disclosing records, reports, or information to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.” for “, except that such record, report, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.”
+Subsec. (b). Pub. L. 100–4, § 310(a)(1), substituted a period and “Any authorized representative of the Administrator (including an authorized contractor acting as a representative of the Administrator) who knowingly or willfully publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by law any information which is required to be considered confidential under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both. Nothing in this subsection shall prohibit the Administrator or an authorized representative of the Administrator (including any authorized contractor acting as a representative of the Administrator) from disclosing records, reports, or information to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.” for “, except that such record, report, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.”
 
-Subsec. (d). Pub. L. 100–4, § 310(b), added subsec. (d).
+Subsec. (d). Pub. L. 100–4, § 310(b), added subsec. (d).
 
 1977—Subsec. (a)(4). Pub. L. 95–217 inserted “1344 (relating to State permit programs),” after “sections 1315, 1321, 1342,” in provisions preceding subpar. (A).
 
-### § 1319. Enforcement
+### § 1319. Enforcement
 
 **(a) State enforcement; compliance orders**
 
@@ -8083,7 +8083,7 @@ For the purpose of this subsection, the term “hazardous substance” means (A)
 
 Any person who violates section 1311, 1312, 1316, 1317, 1318, 1322(p), 1328,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator, or by a State, or in a permit issued under section 1344 of this title by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title, and any person who violates any order issued by the Administrator under subsection (a) of this section, shall be subject to a civil penalty not to exceed $25,000 per day for each violation. In determining the amount of a civil penalty the court shall consider the seriousness of the violation or violations, the economic benefit (if any) resulting from the violation, any history of such violations, any good-faith efforts to comply with the applicable requirements, the economic impact of the penalty on the violator, and such other matters as justice may require. For purposes of this subsection, a single operational upset which leads to simultaneous violations of more than one pollutant parameter shall be treated as a single violation.
 
@@ -8193,53 +8193,53 @@ In conjunction with an enforcement action under subsection (a) or (b) relating t
 
 Any municipality under an administrative order under subsection (a) or settlement agreement (including a judicial consent decree) under subsection (b) that has developed an integrated plan consistent with section 1342(s) of this title may request a modification of the administrative order or settlement agreement based on that integrated plan.
 
-(June 30, 1948, ch. 758, title III, § 309, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 859; amended Pub. L. 95–217, §§ 54(b), 55, 56, 67(c)(2), Dec. 27, 1977, 91 Stat. 1591, 1592, 1606; Pub. L. 100–4, title III, §§ 312, 313(a)(1), (b)(1), (c), 314(a), Feb. 4, 1987, 101 Stat. 42, 45, 46; Pub. L. 101–380, title IV, § 4301(c), Aug. 18, 1990, 104 Stat. 537; Pub. L. 115–282, title IX, § 903(c)(2), Dec. 4, 2018, 132 Stat. 4356; Pub. L. 115–436, § 3(b), Jan. 14, 2019, 132 Stat. 5560.)
+(June 30, 1948, ch. 758, title III, § 309, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 859; amended Pub. L. 95–217, §§ 54(b), 55, 56, 67(c)(2), Dec. 27, 1977, 91 Stat. 1591, 1592, 1606; Pub. L. 100–4, title III, §§ 312, 313(a)(1), (b)(1), (c), 314(a), Feb. 4, 1987, 101 Stat. 42, 45, 46; Pub. L. 101–380, title IV, § 4301(c), Aug. 18, 1990, 104 Stat. 537; Pub. L. 115–282, title IX, § 903(c)(2), Dec. 4, 2018, 132 Stat. 4356; Pub. L. 115–436, § 3(b), Jan. 14, 2019, 132 Stat. 5560.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Solid Waste Disposal Act, referred to in subsec. (c)(7), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (c)(7), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 **Amendments**
 
 2019—Subsec. (h). Pub. L. 115–436 added subsec. (h).
 
-2018—Subsec. (a)(3). Pub. L. 115–282, § 903(c)(2)(A), substituted “1322(p), 1328” for “1328”.
+2018—Subsec. (a)(3). Pub. L. 115–282, § 903(c)(2)(A), substituted “1322(p), 1328” for “1328”.
 
-Subsec. (c)(1)(A), (2)(A), (3)(A). Pub. L. 115–282, § 903(c)(2)(B), substituted “1322(p), 1328” for “1328”.
+Subsec. (c)(1)(A), (2)(A), (3)(A). Pub. L. 115–282, § 903(c)(2)(B), substituted “1322(p), 1328” for “1328”.
 
-Subsec. (d). Pub. L. 115–282, § 903(c)(2)(C), substituted “1322(p), 1328,” for “1328” and “State,” for “State,,”.
+Subsec. (d). Pub. L. 115–282, § 903(c)(2)(C), substituted “1322(p), 1328,” for “1328” and “State,” for “State,,”.
 
-Subsec. (g)(1)(A). Pub. L. 115–282, § 903(c)(2)(D), substituted “1322(p), 1328” for “1328”.
+Subsec. (g)(1)(A). Pub. L. 115–282, § 903(c)(2)(D), substituted “1322(p), 1328” for “1328”.
 
 1990—Subsec. (c)(1)(A), (2)(A), (3)(A). Pub. L. 101–380 inserted “1321(b)(3),” after “1318,”.
 
-1987—Subsec. (c). Pub. L. 100–4, § 312, amended subsec. (c) generally, revising provisions of par. (1), adding pars. (2), (3), (5), and (7), redesignating former pars. (2) and (4) as (3) and (6), respectively, and revising provisions of redesignated par. (4).
+1987—Subsec. (c). Pub. L. 100–4, § 312, amended subsec. (c) generally, revising provisions of par. (1), adding pars. (2), (3), (5), and (7), redesignating former pars. (2) and (4) as (3) and (6), respectively, and revising provisions of redesignated par. (4).
 
-Subsec. (d). Pub. L. 100–4, § 313(a)(1), inserted “, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title,” after second reference to “State,”.
+Subsec. (d). Pub. L. 100–4, § 313(a)(1), inserted “, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title,” after second reference to “State,”.
 
-Pub. L. 100–4, § 313(b)(1), substituted “$25,000 per day for each violation” for “$10,000 per day of such violation”.
+Pub. L. 100–4, § 313(b)(1), substituted “$25,000 per day for each violation” for “$10,000 per day of such violation”.
 
-Pub. L. 100–4, § 313(c), inserted at end “In determining the amount of a civil penalty the court shall consider the seriousness of the violation or violations, the economic benefit (if any) resulting from the violation, any history of such violations, any good-faith efforts to comply with the applicable requirements, the economic impact of the penalty on the violator, and such other matters as justice may require. For purposes of this subsection, a single operational upset which leads to simultaneous violations of more than one pollutant parameter shall be treated as a single violation.”
+Pub. L. 100–4, § 313(c), inserted at end “In determining the amount of a civil penalty the court shall consider the seriousness of the violation or violations, the economic benefit (if any) resulting from the violation, any history of such violations, any good-faith efforts to comply with the applicable requirements, the economic impact of the penalty on the violator, and such other matters as justice may require. For purposes of this subsection, a single operational upset which leads to simultaneous violations of more than one pollutant parameter shall be treated as a single violation.”
 
-Subsec. (g). Pub. L. 100–4, § 314(a), added subsec. (g).
+Subsec. (g). Pub. L. 100–4, § 314(a), added subsec. (g).
 
-1977—Subsec. (a)(1). Pub. L. 95–217, §§ 55(a), 67(c)(2)(A), substituted “1318, 1328, or 1345 of this title” for “or 1318 of this title” and “1342 or 1344 of this title” for “1342 of this title”.
+1977—Subsec. (a)(1). Pub. L. 95–217, §§ 55(a), 67(c)(2)(A), substituted “1318, 1328, or 1345 of this title” for “or 1318 of this title” and “1342 or 1344 of this title” for “1342 of this title”.
 
-Subsec. (a)(2). Pub. L. 95–217, § 56(a), substituted “except where an extension has been granted under paragraph (5)(B) of this subsection, the Administrator shall enforce any permit condition or limitation” for “the Administrator shall enforce any permit condition or limitation”.
+Subsec. (a)(2). Pub. L. 95–217, § 56(a), substituted “except where an extension has been granted under paragraph (5)(B) of this subsection, the Administrator shall enforce any permit condition or limitation” for “the Administrator shall enforce any permit condition or limitation”.
 
-Subsec. (a)(3). Pub. L. 95–217, §§ 55(b), 67(c)(2)(B), substituted “1318, 1328, or 1345 of this title” for “or 1318 of this title” and inserted “or in a permit issued under section 1344 of this title by a State” after “in a permit issued under section 1342 of this title by him or by a State”.
+Subsec. (a)(3). Pub. L. 95–217, §§ 55(b), 67(c)(2)(B), substituted “1318, 1328, or 1345 of this title” for “or 1318 of this title” and inserted “or in a permit issued under section 1344 of this title by a State” after “in a permit issued under section 1342 of this title by him or by a State”.
 
-Subsec. (a)(4). Pub. L. 95–217, § 56(b), struck out provision that any order issued under this subsection had to be by personal service and had to state with reasonable specificity the nature of the violation and a time for compliance, not to exceed thirty days, which the Administrator determined to be reasonable, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements. See section subsec. (a)(5) of this section.
+Subsec. (a)(4). Pub. L. 95–217, § 56(b), struck out provision that any order issued under this subsection had to be by personal service and had to state with reasonable specificity the nature of the violation and a time for compliance, not to exceed thirty days, which the Administrator determined to be reasonable, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements. See section subsec. (a)(5) of this section.
 
-Subsec. (a)(5), (6). Pub. L. 95–217, § 56(c), added pars. (5) and (6).
+Subsec. (a)(5), (6). Pub. L. 95–217, § 56(c), added pars. (5) and (6).
 
-Subsec. (c)(1). Pub. L. 95–217, § 67(c)(2)(C), substituted “by a State or in a permit issued under section 1344 of this title by a State, shall be punished” for “by a State, shall be punished”.
+Subsec. (c)(1). Pub. L. 95–217, § 67(c)(2)(C), substituted “by a State or in a permit issued under section 1344 of this title by a State, shall be punished” for “by a State, shall be punished”.
 
-Subsec. (d). Pub. L. 95–217, §§ 55(c), 67(c)(2)(D), substituted “1318, 1328, or 1345 of this title” for “or 1318 of this title” and inserted “or in a permit issued under section 1344 of this title by a State,” after “permit issued under section 1342 of this title by the Administrator, or by a State,”.
+Subsec. (d). Pub. L. 95–217, §§ 55(c), 67(c)(2)(D), substituted “1318, 1328, or 1345 of this title” for “or 1318 of this title” and inserted “or in a permit issued under section 1344 of this title by a State,” after “permit issued under section 1342 of this title by the Administrator, or by a State,”.
 
-Subsec. (f). Pub. L. 95–217, § 54(b), added subsec. (f).
+Subsec. (f). Pub. L. 95–217, § 54(b), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8249,7 +8249,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 **Savings Provision**
 
-Pub. L. 100–4, title III, § 313(a)(2), Feb. 4, 1987, 101 Stat. 45, provided that: “No State shall be required before July 1, 1988, to modify a permit program approved or submitted under section 402 of the Federal Water Pollution Control Act [33 U.S.C. 1342] as a result of the amendment made by paragraph (1) [amending this section].”
+Pub. L. 100–4, title III, § 313(a)(2), Feb. 4, 1987, 101 Stat. 45, provided that: “No State shall be required before July 1, 1988, to modify a permit program approved or submitted under section 402 of the Federal Water Pollution Control Act [33 U.S.C. 1342] as a result of the amendment made by paragraph (1) [amending this section].”
 
 **Deposit of Certain Penalties Into Oil Spill Liability Trust Fund**
 
@@ -8257,13 +8257,13 @@ Penalties paid pursuant to subsection (c) of this section and sections 1321 and 
 
 **Increased Penalties Not Required Under State Programs**
 
-Pub. L. 100–4, title III, § 313(b)(2), Feb. 4, 1987, 101 Stat. 45, provided that: “The Federal Water Pollution Control Act [33 U.S.C. 1251 et seq.] shall not be construed as requiring a State to have a civil penalty for violations described in section 309(d) of such Act [33 U.S.C. 1319(d)] which has the same monetary amount as the civil penalty established by such section, as amended by paragraph (1) [amending this section]. Nothing in this paragraph shall affect the Administrator’s authority to establish or adjust by regulation a minimum acceptable State civil penalty.”
+Pub. L. 100–4, title III, § 313(b)(2), Feb. 4, 1987, 101 Stat. 45, provided that: “The Federal Water Pollution Control Act [33 U.S.C. 1251 et seq.] shall not be construed as requiring a State to have a civil penalty for violations described in section 309(d) of such Act [33 U.S.C. 1319(d)] which has the same monetary amount as the civil penalty established by such section, as amended by paragraph (1) [amending this section]. Nothing in this paragraph shall affect the Administrator’s authority to establish or adjust by regulation a minimum acceptable State civil penalty.”
 
 **Actions by Surgeon General Relating to Interstate Pollution**
 
-Act July 9, 1956, ch. 518, § 5, 70 Stat. 507, provided that actions by the Surgeon General with respect to water pollutants under section 2(d) of act June 30, 1948, ch. 758, 62 Stat. 1155, as in effect prior to July 9, 1956, which had been completed prior to such date, would still be subject to the terms of section 2(d) of act June 30, 1948, in effect prior to the July 9, 1956 amendment, but that actions with respect to such pollutants would nevertheless subsequently be possible in accordance with the terms of act June 30, 1948, as amended by act July 9, 1956.
+Act July 9, 1956, ch. 518, § 5, 70 Stat. 507, provided that actions by the Surgeon General with respect to water pollutants under section 2(d) of act June 30, 1948, ch. 758, 62 Stat. 1155, as in effect prior to July 9, 1956, which had been completed prior to such date, would still be subject to the terms of section 2(d) of act June 30, 1948, in effect prior to the July 9, 1956 amendment, but that actions with respect to such pollutants would nevertheless subsequently be possible in accordance with the terms of act June 30, 1948, as amended by act July 9, 1956.
 
-### § 1320. International pollution abatement
+### § 1320. International pollution abatement
 
 **(a) Hearing; participation by foreign nations**
 
@@ -8289,15 +8289,15 @@ Board members, other than officers or employees of Federal, State, or local gove
 
 When any such recommendation adopted by the Administrator involves the institution of enforcement proceedings against any person to obtain the abatement of pollution subject to such recommendation, the Administrator shall institute such proceedings if he believes that the evidence warrants such proceedings. The district court of the United States shall consider and determine de novo all relevant issues, but shall receive in evidence the record of the proceedings before the conference or hearing board. The court shall have jurisdiction to enter such judgment and orders enforcing such judgment as it deems appropriate or to remand such proceedings to the Administrator for such further action as it may direct.
 
-(June 30, 1948, ch. 758, title III, § 310, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 860.)
+(June 30, 1948, ch. 758, title III, § 310, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 860.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 1321. Oil and hazardous substance liability
+### § 1321. Oil and hazardous substance liability
 
 **(a) Definitions** For the purpose of this section, the term—
 
@@ -8305,7 +8305,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 **(2)** “discharge” includes, but is not limited to, any spilling, leaking, pumping, pouring, emitting, emptying or dumping, but excludes (A) discharges in compliance with a permit under section 1342 of this title, (B) discharges resulting from circumstances identified and reviewed and made a part of the public record with respect to a permit issued or modified under section 1342 of this title, and subject to a condition in such permit,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 (C) continuous or anticipated intermittent discharges from a point source, identified in a permit or permit application under section 1342 of this title, which are caused by events occurring within the scope of relevant operating or treatment systems, and (D) discharges incidental to mechanical removal authorized by the President under subsection (c) of this section;
 
@@ -8325,9 +8325,9 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 **(10)** “onshore facility” means any facility (including, but not limited to, motor vehicles and rolling stock) of any kind located in, on, or under, any land within the United States other than submerged land;
 
-**(11)** “offshore facility” means any facility of any kind located in, on, or under, any of the navigable waters of the United States, any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters, other than a vessel or a public vessel, and, for the purposes of applying subsections (b), (c), (e), and (*o*), any foreign offshore unit (as defined in section 1001 of the Oil Pollution Act 2
+**(11)** “offshore facility” means any facility of any kind located in, on, or under, any of the navigable waters of the United States, any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters, other than a vessel or a public vessel, and, for the purposes of applying subsections (b), (c), (e), and (*o*), any foreign offshore unit (as defined in section 1001 of the Oil Pollution Act 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 ) or any other facility located seaward of the exclusive economic zone;
 
@@ -8397,7 +8397,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 **(33)** the term “Gulf Coast region” means—
 
-**(A)** in the Gulf Coast States, the coastal zones (as that term is defined in section 1453 of title 16),<sup>1</sup> except that, in this section, the term “coastal zones” includes land within the coastal zones that is held in trust by, or the use of which is by law subject solely to the discretion of, the Federal Government or officers or agents of the Federal Government)) <sup>1</sup> that border the Gulf of Mexico;
+**(A)** in the Gulf Coast States, the coastal zones (as that term is defined in section 1453 of title 16),<sup>1</sup> except that, in this section, the term “coastal zones” includes land within the coastal zones that is held in trust by, or the use of which is by law subject solely to the discretion of, the Federal Government or officers or agents of the Federal Government)) <sup>1</sup> that border the Gulf of Mexico;
 
 **(B)** any adjacent land, water, and watersheds, that are within 25 miles of the coastal zones described in subparagraph (A) of the Gulf Coast States; and
 
@@ -8509,9 +8509,9 @@ shall be subject to a civil penalty in an amount up to $25,000 per day of violat
 
 **(A)** the clearance required by section 60105 of title 46;
 
-**(B)** a permit to proceed under section 4367 of the Revised Statutes of the United States (46 U.S.C. App. 313); <sup>2</sup> and
+**(B)** a permit to proceed under section 4367 of the Revised Statutes of the United States (46 U.S.C. App. 313); <sup>2</sup> and
 
-**(C)** a permit to depart required under section 1443 <sup>2</sup> of title 19;
+**(C)** a permit to depart required under section 1443 <sup>2</sup> of title 19;
 
 as applicable. Clearance or a permit refused or revoked under this paragraph may be granted upon the filing of a bond or other surety satisfactory to the Secretary of the department in which the Coast Guard is operating or the Administrator.
 
@@ -8675,9 +8675,9 @@ Where the owner or operator of a vessel (other than an inland oil barge) carryin
 
 **(h) Rights against third parties who caused or contributed to discharge**
 
-The liabilities established by this section shall in no way affect any rights which (1) the owner or operator of a vessel or of an onshore facility or an offshore facility may have against any third party whose acts may in any way have caused or contributed to such discharge, or (2) The 3
+The liabilities established by this section shall in no way affect any rights which (1) the owner or operator of a vessel or of an onshore facility or an offshore facility may have against any third party whose acts may in any way have caused or contributed to such discharge, or (2) The 3
 
-<sup>3</sup>  So in original. Probably should not be capitalized.
+<sup>3</sup> So in original. Probably should not be capitalized.
 
 United States Government may have against any third party whose actions may in any way have caused or contributed to the discharge of oil or hazardous substance.
 
@@ -8689,7 +8689,7 @@ In any case where an owner or operator of a vessel or an onshore facility or an 
 
 **(1) In general**
 
-Consistent with the National Contingency Plan required by subsection (c)(2) <sup>2</sup> of this section, as soon as practicable after October 18, 1972, and from time to time thereafter, the President shall issue regulations consistent with maritime safety and with marine and navigation laws (A) establishing methods and procedures for removal of discharged oil and hazardous substances, (B) establishing criteria for the development and implementation of local and regional oil and hazardous substance removal contingency plans, (C) establishing procedures, methods, and equipment and other requirements for equipment to prevent discharges of oil and hazardous substances from vessels and from onshore facilities and offshore facilities, and to contain such discharges, and (D) governing the inspection of vessels carrying cargoes of oil and hazardous substances and the inspection of such cargoes in order to reduce the likelihood of discharges of oil from vessels in violation of this section.
+Consistent with the National Contingency Plan required by subsection (c)(2) <sup>2</sup> of this section, as soon as practicable after October 18, 1972, and from time to time thereafter, the President shall issue regulations consistent with maritime safety and with marine and navigation laws (A) establishing methods and procedures for removal of discharged oil and hazardous substances, (B) establishing criteria for the development and implementation of local and regional oil and hazardous substance removal contingency plans, (C) establishing procedures, methods, and equipment and other requirements for equipment to prevent discharges of oil and hazardous substances from vessels and from onshore facilities and offshore facilities, and to contain such discharges, and (D) governing the inspection of vessels carrying cargoes of oil and hazardous substances and the inspection of such cargoes in order to reduce the likelihood of discharges of oil from vessels in violation of this section.
 
 **(2) National Response Unit** The Secretary of the department in which the Coast Guard is operating shall establish a National Response Unit at Elizabeth City, North Carolina. The Secretary, acting through the National Response Unit—
 
@@ -8779,7 +8779,7 @@ Consistent with the National Contingency Plan required by subsection (c)(2) <s
 
 **(ii)** The President shall also issue regulations which require an owner or operator of a nontank vessel to prepare and submit to the President a plan for responding, to the maximum extent practicable, to a worst case discharge, and to a substantial threat of such a discharge, of oil.
 
-**(B)** The Secretary of the Department in which the Coast Guard is operating may issue regulations which require an owner or operator of a tank vessel, a nontank vessel, or a facility described in subparagraph (C) that transfers noxious liquid substances in bulk to or from a vessel to prepare and submit to the Secretary a plan for responding, to the maximum extent practicable, to a worst case discharge, and to a substantial threat of such a discharge, of a noxious liquid substance that is not designated as a hazardous substance or regulated as oil in any other law or regulation. For purposes of this paragraph, the term “noxious liquid substance” has the same meaning when that term is used in the MARPOL Protocol described in section 1901(a)(3) <sup>2</sup> of this title.
+**(B)** The Secretary of the Department in which the Coast Guard is operating may issue regulations which require an owner or operator of a tank vessel, a nontank vessel, or a facility described in subparagraph (C) that transfers noxious liquid substances in bulk to or from a vessel to prepare and submit to the Secretary a plan for responding, to the maximum extent practicable, to a worst case discharge, and to a substantial threat of such a discharge, of a noxious liquid substance that is not designated as a hazardous substance or regulated as oil in any other law or regulation. For purposes of this paragraph, the term “noxious liquid substance” has the same meaning when that term is used in the MARPOL Protocol described in section 1901(a)(3) <sup>2</sup> of this title.
 
 **(C)** The tank vessels, nontank vessels, and facilities referred to in subparagraphs (A) and (B) are the following:
 
@@ -8995,13 +8995,13 @@ Unless otherwise authorized by the Secretary, a vessel may only operate in Cook 
 
 **(i) Marine casualty**
 
-The term “marine casualty” means a marine casualty that is required to be reported pursuant to paragraph (3), (4), or (5) of section 6101 <sup>2</sup> of title 46.
+The term “marine casualty” means a marine casualty that is required to be reported pursuant to paragraph (3), (4), or (5) of section 6101 <sup>2</sup> of title 46.
 
 **(ii) Salvage equipment**
 
 The term “salvage equipment” means any equipment that is capable of being used to assist a vessel in potential or actual danger in order to prevent loss of life, damage or destruction of the vessel or its cargo, or release of its contents into the marine environment.
 
-**(k) Repealed. Pub. L. 101–380, title II, § 2002(b)(2), Aug. 18, 1990, 104 Stat. 507**
+**(k) Repealed. Pub. L. 101–380, title II, § 2002(b)(2), Aug. 18, 1990, 104 Stat. 507**
 
 **(l) Administration**
 
@@ -9051,7 +9051,7 @@ The several district courts of the United States are invested with jurisdiction 
 
 **(3)** Nothing in this section shall be construed as affecting or modifying any other existing authority of any Federal department, agency, or instrumentality, relative to onshore or offshore facilities under this chapter or any other provision of law, or to affect any State or local law not in conflict with this section.
 
-**(p) Repealed. Pub. L. 101–380, title II, § 2002(b)(4), Aug. 18, 1990, 104 Stat. 507**
+**(p) Repealed. Pub. L. 101–380, title II, § 2002(b)(4), Aug. 18, 1990, 104 Stat. 507**
 
 **(q) Establishment of maximum limit of liability with respect to onshore or offshore facilities**
 
@@ -9541,9 +9541,9 @@ Except as provided in subclause (II), the plan described in clause (i) may use n
 
 **(I)** in the State of Alabama, the Alabama Gulf Coast Recovery Council established under paragraph (1)(F)(i);
 
-**(II)** in the State of Florida, a consortia 4
+**(II)** in the State of Florida, a consortia 4
 
-<sup>4</sup>  So in original. Probably should be “consortium”.
+<sup>4</sup> So in original. Probably should be “consortium”.
 
 of local political subdivisions that includes at a minimum 1 representative of each affected county;
 
@@ -9593,7 +9593,7 @@ The use of funds made available from the Trust Fund under this paragraph to sati
 
 **(B)** 50 percent shall be made available to the Gulf Coast Ecosystem Restoration Council to carry out the Comprehensive Plan pursuant to paragraph (2).
 
-(June 30, 1948, ch. 758, title III, § 311, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 862; amended Pub. L. 93–207, § 1(4), Dec. 28, 1973, 87 Stat. 906; Pub. L. 95–217, §§ 57, 58(a)–(g), (i), (k)–(m), Dec. 27, 1977, 91 Stat. 1593–1596; Pub. L. 95–576, § 1(b), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–478, § 13(b), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 96–483, § 8, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 97–164, title I, § 161(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 100–4, title V, § 502(b), Feb. 4, 1987, 101 Stat. 75; Pub. L. 101–380, title II, § 2002(b), title IV, §§ 4201(a), (b), (b)[(c)], 4202(a), (c), 4204, 4301(a), (b), 4305, 4306, Aug. 18, 1990, 104 Stat. 507, 523–527, 532, 533, 540, 541; Pub. L. 102–388, title III, § 349, Oct. 6, 1992, 106 Stat. 1554; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title XI, §§ 1143, 1144, Oct. 19, 1996, 110 Stat. 3992; Pub. L. 105–383, title IV, § 411, Nov. 13, 1998, 112 Stat. 3432; Pub. L. 108–293, title VII, § 701(a), (b), (d), Aug. 9, 2004, 118 Stat. 1067, 1068; Pub. L. 109–241, title VI, § 608, title IX, § 901(i), July 11, 2006, 120 Stat. 558, 564; Pub. L. 112–90, § 10, Jan. 3, 2012, 125 Stat. 1912; Pub. L. 112–141, div. A, title I, § 1603, July 6, 2012, 126 Stat. 589; Pub. L. 113–281, title III, § 313, Dec. 18, 2014, 128 Stat. 3048; Pub. L. 115–91, div. C, title XXXV, § 3508(b)(2), Dec. 12, 2017, 131 Stat. 1916; Pub. L. 115–232, div. C, title XXXV, § 3541(b)(5), Aug. 13, 2018, 132 Stat. 2323; Pub. L. 117–263, div. K, title CXIII, §§ 11306, 11309(b)(1), Dec. 23, 2022, 136 Stat. 4078, 4081; Pub. L. 117–286, § 4(a)(201), Dec. 27, 2022, 136 Stat. 4328; Pub. L. 119–60, div. G, title LXXII, § 7201(i)(4), title LXXIII, § 7301(k)(2)(C), title LXXIV, § 7401(a), Dec. 18, 2025, 139 Stat. 1686, 1759, 1783.)
+(June 30, 1948, ch. 758, title III, § 311, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 862; amended Pub. L. 93–207, § 1(4), Dec. 28, 1973, 87 Stat. 906; Pub. L. 95–217, §§ 57, 58(a)–(g), (i), (k)–(m), Dec. 27, 1977, 91 Stat. 1593–1596; Pub. L. 95–576, § 1(b), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–478, § 13(b), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 96–483, § 8, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 97–164, title I, § 161(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 100–4, title V, § 502(b), Feb. 4, 1987, 101 Stat. 75; Pub. L. 101–380, title II, § 2002(b), title IV, §§ 4201(a), (b), (b)[(c)], 4202(a), (c), 4204, 4301(a), (b), 4305, 4306, Aug. 18, 1990, 104 Stat. 507, 523–527, 532, 533, 540, 541; Pub. L. 102–388, title III, § 349, Oct. 6, 1992, 106 Stat. 1554; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title XI, §§ 1143, 1144, Oct. 19, 1996, 110 Stat. 3992; Pub. L. 105–383, title IV, § 411, Nov. 13, 1998, 112 Stat. 3432; Pub. L. 108–293, title VII, § 701(a), (b), (d), Aug. 9, 2004, 118 Stat. 1067, 1068; Pub. L. 109–241, title VI, § 608, title IX, § 901(i), July 11, 2006, 120 Stat. 558, 564; Pub. L. 112–90, § 10, Jan. 3, 2012, 125 Stat. 1912; Pub. L. 112–141, div. A, title I, § 1603, July 6, 2012, 126 Stat. 589; Pub. L. 113–281, title III, § 313, Dec. 18, 2014, 128 Stat. 3048; Pub. L. 115–91, div. C, title XXXV, § 3508(b)(2), Dec. 12, 2017, 131 Stat. 1916; Pub. L. 115–232, div. C, title XXXV, § 3541(b)(5), Aug. 13, 2018, 132 Stat. 2323; Pub. L. 117–263, div. K, title CXIII, §§ 11306, 11309(b)(1), Dec. 23, 2022, 136 Stat. 4078, 4081; Pub. L. 117–286, § 4(a)(201), Dec. 27, 2022, 136 Stat. 4328; Pub. L. 119–60, div. G, title LXXII, § 7201(i)(4), title LXXIII, § 7301(k)(2)(C), title LXXIV, § 7401(a), Dec. 18, 2025, 139 Stat. 1686, 1759, 1783.)
 
 **Editorial Notes**
 
@@ -9601,29 +9601,29 @@ The use of funds made available from the Trust Fund under this paragraph to sati
 
 Section 1001 of the Oil Pollution Act, referred to in subsec. (a)(11), probably means section 1001 of Pub. L. 101–380, known as the Oil Pollution Act of 1990, which is classified to section 2701 of this title.
 
-The Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012, referred to in subsecs. (a)(35) and (t)(2)(C)(vii)(IV), (VII)(ee), (D)(ii)(III), (IV)(bb), (E)(ii)(II), (4)(A), is subtitle F (§§ 1601–1608) of title I of div. A of Pub. L. 112–141, July 6, 2012, 126 Stat. 588, which is set out as a note below.
+The Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012, referred to in subsecs. (a)(35) and (t)(2)(C)(vii)(IV), (VII)(ee), (D)(ii)(III), (IV)(bb), (E)(ii)(II), (4)(A), is subtitle F (§§ 1601–1608) of title I of div. A of Pub. L. 112–141, July 6, 2012, 126 Stat. 588, which is set out as a note below.
 
-The Outer Continental Shelf Lands Act, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
-The Deepwater Port Act of 1974, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, which is classified generally to chapter 29 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+The Deepwater Port Act of 1974, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, which is classified generally to chapter 29 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1), (2)(A), (3), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1), (2)(A), (3), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 The date of enactment of this paragraph, referred to in subsec. (b)(2)(B), probably means the date of enactment of Pub. L. 95–576, which amended subsec. (b)(2)(B) and which was approved Nov. 2, 1978.
 
-The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of subsection (b)(2) of section 311 of Public Law 92–500, referred to in subsec. (b)(2)(B), probably means the penalty provision of subsec. (b)(2)(B)(iii)(bb) of this section as added by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 864, prior to the amendment to subsec. (b)(2)(B) by section 1(b)(3) of Pub. L. 95–576. Prior to amendment, subsec. (b)(2)(B)(iii)(bb) read as follows: “a penalty determined by the number of units discharged multiplied by the amount established for such unit under clause (iv) of this subparagraph, but such penalty shall not be more than $5,000,000 in the case of a discharge from a vessel and $500,000 in the case of a discharge from an onshore or offshore facility.”
+The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of subsection (b)(2) of section 311 of Public Law 92–500, referred to in subsec. (b)(2)(B), probably means the penalty provision of subsec. (b)(2)(B)(iii)(bb) of this section as added by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 864, prior to the amendment to subsec. (b)(2)(B) by section 1(b)(3) of Pub. L. 95–576. Prior to amendment, subsec. (b)(2)(B)(iii)(bb) read as follows: “a penalty determined by the number of units discharged multiplied by the amount established for such unit under clause (iv) of this subparagraph, but such penalty shall not be more than $5,000,000 in the case of a discharge from a vessel and $500,000 in the case of a discharge from an onshore or offshore facility.”
 
-Section 4367 of the Revised Statutes of the United States (46 U.S.C. App. 313), referred to in subsec. (b)(12)(B), was repealed by Pub. L. 103–182, title VI, § 690(a)(21), Dec. 8, 1993, 107 Stat. 2223.
+Section 4367 of the Revised Statutes of the United States (46 U.S.C. App. 313), referred to in subsec. (b)(12)(B), was repealed by Pub. L. 103–182, title VI, § 690(a)(21), Dec. 8, 1993, 107 Stat. 2223.
 
-Section 1443 of title 19, referred to in subsec. (b)(12)(C), was repealed by Pub. L. 103–182, title VI, § 690(b)(6), Dec. 8, 1993, 107 Stat. 2223.
+Section 1443 of title 19, referred to in subsec. (b)(12)(C), was repealed by Pub. L. 103–182, title VI, § 690(b)(6), Dec. 8, 1993, 107 Stat. 2223.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (c)(4)(B)(ii), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (c)(4)(B)(ii), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
-The Oil Pollution Act of 1990, referred to in subsecs. (c)(5)(B), (d)(2)(H), and (j)(5)(H), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§ 2701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 2701 et seq.) of chapter 40 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Oil Pollution Act of 1990, referred to in subsecs. (c)(5)(B), (d)(2)(H), and (j)(5)(H), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§ 2701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 2701 et seq.) of chapter 40 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-Subsection (c)(2) of this section, referred to in subsec. (j)(1), was generally amended by Pub. L. 101–380, title IV, § 4201(a), Aug. 18, 1990, 104 Stat. 523, and no longer contains provisions establishing a National Contingency Plan. However, such provisions are contained in subsec. (d) of this section.
+Subsection (c)(2) of this section, referred to in subsec. (j)(1), was generally amended by Pub. L. 101–380, title IV, § 4201(a), Aug. 18, 1990, 104 Stat. 523, and no longer contains provisions establishing a National Contingency Plan. However, such provisions are contained in subsec. (d) of this section.
 
-Par. (3) of section 1901(a) of this title, referred to in subsec. (j)(5)(B), was redesignated par. (4) by Pub. L. 110–280, § 3(1), July 21, 2008, 122 Stat. 2611.
+Par. (3) of section 1901(a) of this title, referred to in subsec. (j)(5)(B), was redesignated par. (4) by Pub. L. 110–280, § 3(1), July 21, 2008, 122 Stat. 2611.
 
 Paragraph (3), (4), or (5) of section 6101 of title 46, referred to in subsec. (j)(10)(B)(i), probably should be “paragraph (3), (4), or (5) of section 6101(a) of title 46”.
 
@@ -9631,155 +9631,155 @@ Subsection (i)(*l*), referred to in subsec. (n), probably should be “subsectio
 
 **Codification**
 
-In subsec. (b)(12)(A), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
+In subsec. (b)(12)(A), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 **Amendments**
 
-2025—Subsec. (a)(26)(D). Pub. L. 119–60, § 7301(k)(2)(C), substituted “section 2101” for “section 2101(23)”.
+2025—Subsec. (a)(26)(D). Pub. L. 119–60, § 7301(k)(2)(C), substituted “section 2101” for “section 2101(23)”.
 
-Subsec. (j)(9)(D). Pub. L. 119–60, § 7201(i)(4), substituted “section 312 of title 14” for “section 323 of title 14” wherever appearing.
+Subsec. (j)(9)(D). Pub. L. 119–60, § 7201(i)(4), substituted “section 312 of title 14” for “section 323 of title 14” wherever appearing.
 
-Subsec. (j)(10). Pub. L. 119–60, § 7401(a), added par. (10).
+Subsec. (j)(10). Pub. L. 119–60, § 7401(a), added par. (10).
 
-2022—Subsec. (c)(3)(C). Pub. L. 117–263, § 11306, added subpar. (C).
+2022—Subsec. (c)(3)(C). Pub. L. 117–263, § 11306, added subpar. (C).
 
-Subsec. (j)(9). Pub. L. 117–263, § 11309(b)(1), added par. (9).
+Subsec. (j)(9). Pub. L. 117–263, § 11309(b)(1), added par. (9).
 
 Subsec. (t)(2)(C)(viii). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).” in text.
 
 2018—Subsec. (a)(26)(D). Pub. L. 115–232 substituted “section 2101(23)” for “section 2101(17a)”.
 
-2017—Subsec. (a)(11). Pub. L. 115–91 substituted “any facility” for “and any facility” and inserted “, and, for the purposes of applying subsections (b), (c), (e), and (*o*), any foreign offshore unit (as defined in section 1001 of the Oil Pollution Act) or any other facility located seaward of the exclusive economic zone” after “public vessel”.
+2017—Subsec. (a)(11). Pub. L. 115–91 substituted “any facility” for “and any facility” and inserted “, and, for the purposes of applying subsections (b), (c), (e), and (*o*), any foreign offshore unit (as defined in section 1001 of the Oil Pollution Act) or any other facility located seaward of the exclusive economic zone” after “public vessel”.
 
-2014—Subsec. (j)(4)(A). Pub. L. 113–281, § 313(1), substituted “qualified—” for “qualified personnel of Federal, State, and local agencies.” in introductory provisions and added cls. (i) and (ii).
+2014—Subsec. (j)(4)(A). Pub. L. 113–281, § 313(1), substituted “qualified—” for “qualified personnel of Federal, State, and local agencies.” in introductory provisions and added cls. (i) and (ii).
 
-Subsec. (j)(4)(B)(ii). Pub. L. 113–281, § 313(2), substituted “, local, and tribal” for “and local” and “wildlife, including advance planning with respect to the closing and reopening of fishing areas following a discharge;” for “wildlife;”.
+Subsec. (j)(4)(B)(ii). Pub. L. 113–281, § 313(2), substituted “, local, and tribal” for “and local” and “wildlife, including advance planning with respect to the closing and reopening of fishing areas following a discharge;” for “wildlife;”.
 
-Subsec. (j)(4)(B)(iii). Pub. L. 113–281, § 313(3), substituted “, local, and tribal” for “and local”.
+Subsec. (j)(4)(B)(iii). Pub. L. 113–281, § 313(3), substituted “, local, and tribal” for “and local”.
 
-Subsec. (j)(4)(C)(iv). Pub. L. 113–281, § 313(4)(A), substituted “, Federal, State, and local agencies, and tribal governments” for “and Federal, State, and local agencies”.
+Subsec. (j)(4)(C)(iv). Pub. L. 113–281, § 313(4)(A), substituted “, Federal, State, and local agencies, and tribal governments” for “and Federal, State, and local agencies”.
 
-Subsec. (j)(4)(C)(vii) to (ix). Pub. L. 113–281, § 313(4)(B), (C), added cl. (vii) and redesignated former cls. (vii) and (viii) as (viii) and (ix), respectively.
+Subsec. (j)(4)(C)(vii) to (ix). Pub. L. 113–281, § 313(4)(B), (C), added cl. (vii) and redesignated former cls. (vii) and (viii) as (viii) and (ix), respectively.
 
-2012—Subsec. (a)(27) to (35). Pub. L. 112–141, § 1603(1), added pars. (27) to (35).
+2012—Subsec. (a)(27) to (35). Pub. L. 112–141, § 1603(1), added pars. (27) to (35).
 
-Subsec. (b)(6)(A). Pub. L. 112–90, § 10(b), substituted “operating, the Secretary of Transportation, or” for “operating or” in concluding provisions.
+Subsec. (b)(6)(A). Pub. L. 112–90, § 10(b), substituted “operating, the Secretary of Transportation, or” for “operating or” in concluding provisions.
 
-Subsec. (m)(2)(A), (B). Pub. L. 112–90, § 10(a), which directed amendment of subpars. (A) and (B) by substituting “Administrator, the Secretary of Transportation, or” for “Administrator or” was executed by making the substitution the first place appearing in each subpar., to reflect the probable intent of Congress.
+Subsec. (m)(2)(A), (B). Pub. L. 112–90, § 10(a), which directed amendment of subpars. (A) and (B) by substituting “Administrator, the Secretary of Transportation, or” for “Administrator or” was executed by making the substitution the first place appearing in each subpar., to reflect the probable intent of Congress.
 
-Subsec. (s). Pub. L. 112–141, § 1603(2), inserted “except as provided in subsection (t)” before period at end.
+Subsec. (s). Pub. L. 112–141, § 1603(2), inserted “except as provided in subsection (t)” before period at end.
 
-Subsec. (t). Pub. L. 112–141, § 1603(3), added subsec. (t).
+Subsec. (t). Pub. L. 112–141, § 1603(3), added subsec. (t).
 
-2006—Subsec. (a)(26). Pub. L. 109–241, § 608, amended par. (26) generally. Prior to amendment, par. (26) read as follows: “ ‘nontank vessel’ means a self-propelled vessel of 400 gross tons as measured under section 14302 of title 46 or greater, other than a tank vessel, that carries oil of any kind as fuel for main propulsion and that—
+2006—Subsec. (a)(26). Pub. L. 109–241, § 608, amended par. (26) generally. Prior to amendment, par. (26) read as follows: “ ‘nontank vessel’ means a self-propelled vessel of 400 gross tons as measured under section 14302 of title 46 or greater, other than a tank vessel, that carries oil of any kind as fuel for main propulsion and that—
 
 “(A) is a vessel of the United States; or
 
 “(B) operates on the navigable waters of the United States.”
 
-Subsec. (j)(5)(A)(ii), (B), (F), and (G). Pub. L. 109–241, § 901(i)(1), substituted “nontank” for “non-tank” wherever appearing.
+Subsec. (j)(5)(A)(ii), (B), (F), and (G). Pub. L. 109–241, § 901(i)(1), substituted “nontank” for “non-tank” wherever appearing.
 
-Subsec. (j)(5)(H). Pub. L. 109–241, § 901(i)(2), amended directory language of Pub. L. 108–293, § 701(b)(9). See 2004 Amendment note below.
+Subsec. (j)(5)(H). Pub. L. 109–241, § 901(i)(2), amended directory language of Pub. L. 108–293, § 701(b)(9). See 2004 Amendment note below.
 
-2004—Subsec. (a)(26). Pub. L. 108–293, § 701(a), added par. (26).
+2004—Subsec. (a)(26). Pub. L. 108–293, § 701(a), added par. (26).
 
-Subsec. (j)(5). Pub. L. 108–293, § 701(b)(1), inserted “, nontank vessel,” after “vessel” in heading.
+Subsec. (j)(5). Pub. L. 108–293, § 701(b)(1), inserted “, nontank vessel,” after “vessel” in heading.
 
-Subsec. (j)(5)(A). Pub. L. 108–293, § 701(b)(2), (d)(3), designated existing text as cl. (i), substituted “subparagraph (C)” for “subparagraph (B)”, and added cl. (ii).
+Subsec. (j)(5)(A). Pub. L. 108–293, § 701(b)(2), (d)(3), designated existing text as cl. (i), substituted “subparagraph (C)” for “subparagraph (B)”, and added cl. (ii).
 
-Subsec. (j)(5)(B). Pub. L. 108–293, § 701(d)(2), added subpar. (B). Former subpar. (B) redesignated (C).
+Subsec. (j)(5)(B). Pub. L. 108–293, § 701(d)(2), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Pub. L. 108–293, § 701(b)(3), (4), inserted “, nontank vessels,” after “vessels” in introductory provisions, added cl. (ii), and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+Pub. L. 108–293, § 701(b)(3), (4), inserted “, nontank vessels,” after “vessels” in introductory provisions, added cl. (ii), and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
-Subsec. (j)(5)(C). Pub. L. 108–293, § 701(d)(1), (4), redesignated subpar. (B) as (C) and substituted “subparagraphs (A) and (B)” for “subparagraph (A)” in introductory provisions. Former subpar. (C) redesignated (D).
+Subsec. (j)(5)(C). Pub. L. 108–293, § 701(d)(1), (4), redesignated subpar. (B) as (C) and substituted “subparagraphs (A) and (B)” for “subparagraph (A)” in introductory provisions. Former subpar. (C) redesignated (D).
 
-Subsec. (j)(5)(D). Pub. L. 108–293, § 701(d)(1), redesignated subpar. (C) as (D). Former subpar (D) redesignated (E).
+Subsec. (j)(5)(D). Pub. L. 108–293, § 701(d)(1), redesignated subpar. (C) as (D). Former subpar (D) redesignated (E).
 
-Pub. L. 108–293, § 701(b)(5), inserted “, nontank vessel,” after “vessel” in introductory provisions and added cl. (v).
+Pub. L. 108–293, § 701(b)(5), inserted “, nontank vessel,” after “vessel” in introductory provisions and added cl. (v).
 
-Subsec. (j)(5)(E). Pub. L. 108–293, § 701(d)(1), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F).
+Subsec. (j)(5)(E). Pub. L. 108–293, § 701(d)(1), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F).
 
-Pub. L. 108–293, § 701(b)(6), inserted “non-tank vessel,” after “vessel,” in two places.
+Pub. L. 108–293, § 701(b)(6), inserted “non-tank vessel,” after “vessel,” in two places.
 
-Subsec. (j)(5)(F). Pub. L. 108–293, § 701(d)(1), (5), redesignated subpar. (E) as (F) and substituted “subparagraph (E),” for “subparagraph (D),” in cl. (i). Former subpar. (F) redesignated (G).
+Subsec. (j)(5)(F). Pub. L. 108–293, § 701(d)(1), (5), redesignated subpar. (E) as (F) and substituted “subparagraph (E),” for “subparagraph (D),” in cl. (i). Former subpar. (F) redesignated (G).
 
-Pub. L. 108–293, § 701(b)(7), inserted “non-tank vessel,” after “vessel,” and substituted “vessel, non-tank vessel, or” for “vessel or”.
+Pub. L. 108–293, § 701(b)(7), inserted “non-tank vessel,” after “vessel,” and substituted “vessel, non-tank vessel, or” for “vessel or”.
 
-Subsec. (j)(5)(G). Pub. L. 108–293, § 701(d)(1), redesignated subpar. (F) as (G). Former subpar. (G) redesignated (H).
+Subsec. (j)(5)(G). Pub. L. 108–293, § 701(d)(1), redesignated subpar. (F) as (G). Former subpar. (G) redesignated (H).
 
-Pub. L. 108–293, § 701(b)(8), inserted “nontank vessel,” after “vessel,”.
+Pub. L. 108–293, § 701(b)(8), inserted “nontank vessel,” after “vessel,”.
 
-Subsec. (j)(5)(H). Pub. L. 108–293, § 701(d)(1), redesignated subpar. (G) as (H). Former subpar. (H) redesignated (I).
+Subsec. (j)(5)(H). Pub. L. 108–293, § 701(d)(1), redesignated subpar. (G) as (H). Former subpar. (H) redesignated (I).
 
-Pub. L. 108–293, § 701(b)(9), as amended by Pub. L. 109–241, § 901(i)(2), inserted “and nontank vessel” after “each tank vessel”.
+Pub. L. 108–293, § 701(b)(9), as amended by Pub. L. 109–241, § 901(i)(2), inserted “and nontank vessel” after “each tank vessel”.
 
-Subsec. (j)(5)(I). Pub. L. 108–293, § 701(d)(1), redesignated subpar. (H) as (I).
+Subsec. (j)(5)(I). Pub. L. 108–293, § 701(d)(1), redesignated subpar. (H) as (I).
 
-Subsec. (j)(6). Pub. L. 108–293, § 701(b)(10), substituted “The President may require—” for “Not later than 2 years after August 18, 1990, the President shall require—” in introductory provisions.
+Subsec. (j)(6). Pub. L. 108–293, § 701(b)(10), substituted “The President may require—” for “Not later than 2 years after August 18, 1990, the President shall require—” in introductory provisions.
 
-Subsec. (j)(6)(B). Pub. L. 108–293, § 701(b)(11), inserted “, and nontank vessels carrying oil of any kind as fuel for main propulsion,” after “cargo”.
+Subsec. (j)(6)(B). Pub. L. 108–293, § 701(b)(11), inserted “, and nontank vessels carrying oil of any kind as fuel for main propulsion,” after “cargo”.
 
-Subsec. (j)(7). Pub. L. 108–293, § 701(b)(12), inserted “, nontank vessel,” after “vessel”.
+Subsec. (j)(7). Pub. L. 108–293, § 701(b)(12), inserted “, nontank vessel,” after “vessel”.
 
-1998—Subsec. (a)(2). Pub. L. 105–383, § 411(b), substituted “, (C)” for “and (C)” and inserted “, and (D) discharges incidental to mechanical removal authorized by the President under subsection (c) of this section” before semicolon at end.
+1998—Subsec. (a)(2). Pub. L. 105–383, § 411(b), substituted “, (C)” for “and (C)” and inserted “, and (D) discharges incidental to mechanical removal authorized by the President under subsection (c) of this section” before semicolon at end.
 
-Subsec. (a)(8). Pub. L. 105–383, § 411(a)(1), substituted “to prevent, minimize, or mitigate damage” for “to minimize or mitigate damage”.
+Subsec. (a)(8). Pub. L. 105–383, § 411(a)(1), substituted “to prevent, minimize, or mitigate damage” for “to minimize or mitigate damage”.
 
-Subsec. (a)(25). Pub. L. 105–383, § 411(a)(2), added par. (25).
+Subsec. (a)(25). Pub. L. 105–383, § 411(a)(2), added par. (25).
 
-Subsec. (c)(4)(A). Pub. L. 105–383, § 411(a)(3), inserted “relating to a discharge or a substantial threat of a discharge of oil or a hazardous substance” before period at end.
+Subsec. (c)(4)(A). Pub. L. 105–383, § 411(a)(3), inserted “relating to a discharge or a substantial threat of a discharge of oil or a hazardous substance” before period at end.
 
 1996—Subsec. (b)(1), (2)(A), (3). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
 
-Subsec. (c)(3)(B). Pub. L. 104–324, § 1144, inserted “, except that the owner or operator may deviate from the applicable response plan if the President or the Federal On-Scene Coordinator determines that deviation from the response plan would provide for a more expeditious or effective response to the spill or mitigation of its environmental effects” before period at end.
+Subsec. (c)(3)(B). Pub. L. 104–324, § 1144, inserted “, except that the owner or operator may deviate from the applicable response plan if the President or the Federal On-Scene Coordinator determines that deviation from the response plan would provide for a more expeditious or effective response to the spill or mitigation of its environmental effects” before period at end.
 
-Subsec. (j)(2)(A). Pub. L. 104–324, § 1143(1), inserted “and of information regarding previous spills, including data from universities, research institutions, State governments, and other nations, as appropriate, which shall be disseminated as appropriate to response groups and area committees, and” after “paragraph (4),”.
+Subsec. (j)(2)(A). Pub. L. 104–324, § 1143(1), inserted “and of information regarding previous spills, including data from universities, research institutions, State governments, and other nations, as appropriate, which shall be disseminated as appropriate to response groups and area committees, and” after “paragraph (4),”.
 
-Subsec. (j)(4)(C)(v). Pub. L. 104–324, § 1143(2), inserted “compile a list of local scientists, both inside and outside Federal Government service, with expertise in the environmental effects of spills of the types of oil typically transported in the area, who may be contacted to provide information or, where appropriate, participate in meetings of the scientific support team convened in response to a spill, and” before “describe”.
+Subsec. (j)(4)(C)(v). Pub. L. 104–324, § 1143(2), inserted “compile a list of local scientists, both inside and outside Federal Government service, with expertise in the environmental effects of spills of the types of oil typically transported in the area, who may be contacted to provide information or, where appropriate, participate in meetings of the scientific support team convened in response to a spill, and” before “describe”.
 
 1992—Subsec. (b)(12). Pub. L. 102–388 added par. (12).
 
 Subsec. (i). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1990—Subsec. (a)(8). Pub. L. 101–380, § 4201(b)(1)[(c)(1)], inserted “containment and” after “refers to”.
+1990—Subsec. (a)(8). Pub. L. 101–380, § 4201(b)(1)[(c)(1)], inserted “containment and” after “refers to”.
 
-Subsec. (a)(16). Pub. L. 101–380, § 4201(b)(2)[(c)(2)], substituted semicolon for period at end.
+Subsec. (a)(16). Pub. L. 101–380, § 4201(b)(2)[(c)(2)], substituted semicolon for period at end.
 
-Subsec. (a)(17). Pub. L. 101–380, § 4201(b)(3)[(c)(3)], substituted “otherwise” for “Otherwise” and semicolon for period at end.
+Subsec. (a)(17). Pub. L. 101–380, § 4201(b)(3)[(c)(3)], substituted “otherwise” for “Otherwise” and semicolon for period at end.
 
-Subsec. (a)(18) to (24). Pub. L. 101–380, § 4201(b)(4)[(c)(4)], added pars. (18) to (24).
+Subsec. (a)(18) to (24). Pub. L. 101–380, § 4201(b)(4)[(c)(4)], added pars. (18) to (24).
 
-Subsec. (b)(4). Pub. L. 101–380, § 4204, inserted “or the environment” after “the public health or welfare”.
+Subsec. (b)(4). Pub. L. 101–380, § 4204, inserted “or the environment” after “the public health or welfare”.
 
-Subsec. (b)(5). Pub. L. 101–380, § 4301(a), inserted after first sentence “The Federal agency shall immediately notify the appropriate State agency of any State which is, or may reasonably be expected to be, affected by the discharge of oil or a hazardous substance.”, substituted “fined in accordance with title 18, United States Code, or imprisoned for not more than 5 years, or both” for “fined not more than $10,000, or imprisoned for not more than one year, or both”, struck out “or information obtained by the exploitation of such notification” before “shall not be used”, and inserted “natural” before “person in any”.
+Subsec. (b)(5). Pub. L. 101–380, § 4301(a), inserted after first sentence “The Federal agency shall immediately notify the appropriate State agency of any State which is, or may reasonably be expected to be, affected by the discharge of oil or a hazardous substance.”, substituted “fined in accordance with title 18, United States Code, or imprisoned for not more than 5 years, or both” for “fined not more than $10,000, or imprisoned for not more than one year, or both”, struck out “or information obtained by the exploitation of such notification” before “shall not be used”, and inserted “natural” before “person in any”.
 
-Subsec. (b)(6) to (11). Pub. L. 101–380, § 4301(b), added pars. (6) to (11) and struck out former par. (6) which related to assessment of civil penalties, limited to $5,000 for each offense, against any owner, operator, or person in charge of any onshore or offshore facility from which oil or a hazardous substance was discharged in violation of par. (3).
+Subsec. (b)(6) to (11). Pub. L. 101–380, § 4301(b), added pars. (6) to (11) and struck out former par. (6) which related to assessment of civil penalties, limited to $5,000 for each offense, against any owner, operator, or person in charge of any onshore or offshore facility from which oil or a hazardous substance was discharged in violation of par. (3).
 
-Subsec. (c). Pub. L. 101–380, § 4201(a), amended subsec. (c) generally, substituting present provisions for provisions authorizing President to arrange for removal of discharge of oil or a hazardous substance into or upon the navigable waters of the U.S., unless he determined such removal would be properly conducted by owner or operator of the vessel causing discharge, and directed President to prepare and publish a National Contingency Plan within 60 days after October 18, 1972.
+Subsec. (c). Pub. L. 101–380, § 4201(a), amended subsec. (c) generally, substituting present provisions for provisions authorizing President to arrange for removal of discharge of oil or a hazardous substance into or upon the navigable waters of the U.S., unless he determined such removal would be properly conducted by owner or operator of the vessel causing discharge, and directed President to prepare and publish a National Contingency Plan within 60 days after October 18, 1972.
 
-Subsec. (d). Pub. L. 101–380, § 4201(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Whenever a marine disaster in or upon the navigable waters of the United States has created a substantial threat of a pollution hazard to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and the public and private shorelines and beaches of the United States, because of a discharge, or an imminent discharge, of large quantities of oil, or of a hazardous substance from a vessel the United States may (A) coordinate and direct all public and private efforts directed at the removal or elimination of such threat; and (B) summarily remove, and, if necessary, destroy such vessel by whatever means are available without regard to any provisions of law governing the employment of personnel or the expenditure of appropriated funds. Any expense incurred under this subsection or under the Intervention on the High Seas Act (or the convention defined in section 2(3) thereof) shall be a cost incurred by the United States Government for the purposes of subsection (f) in the removal of oil or hazardous substance.”
+Subsec. (d). Pub. L. 101–380, § 4201(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Whenever a marine disaster in or upon the navigable waters of the United States has created a substantial threat of a pollution hazard to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and the public and private shorelines and beaches of the United States, because of a discharge, or an imminent discharge, of large quantities of oil, or of a hazardous substance from a vessel the United States may (A) coordinate and direct all public and private efforts directed at the removal or elimination of such threat; and (B) summarily remove, and, if necessary, destroy such vessel by whatever means are available without regard to any provisions of law governing the employment of personnel or the expenditure of appropriated funds. Any expense incurred under this subsection or under the Intervention on the High Seas Act (or the convention defined in section 2(3) thereof) shall be a cost incurred by the United States Government for the purposes of subsection (f) in the removal of oil or hazardous substance.”
 
-Subsec. (e). Pub. L. 101–380, § 4306, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In addition to any other action taken by a State or local government, when the President determines there is an imminent and substantial threat to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and public and private property, shorelines, and beaches within the United States, because of an actual or threatened discharge of oil or hazardous substance into or upon the navigable waters of the United States from an onshore or offshore facility, the President may require the United States attorney of the district in which the threat occurs to secure such relief as may be necessary to abate such threat, and the district courts of the United States shall have jurisdiction to grant such relief as the public interest and the equities of the case may require.”
+Subsec. (e). Pub. L. 101–380, § 4306, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In addition to any other action taken by a State or local government, when the President determines there is an imminent and substantial threat to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and public and private property, shorelines, and beaches within the United States, because of an actual or threatened discharge of oil or hazardous substance into or upon the navigable waters of the United States from an onshore or offshore facility, the President may require the United States attorney of the district in which the threat occurs to secure such relief as may be necessary to abate such threat, and the district courts of the United States shall have jurisdiction to grant such relief as the public interest and the equities of the case may require.”
 
-Subsec. (i). Pub. L. 101–380, § 2002(b)(1), struck out par. (1) designation before “In any case” and struck out pars. (2) and (3) which read as follows:
+Subsec. (i). Pub. L. 101–380, § 2002(b)(1), struck out par. (1) designation before “In any case” and struck out pars. (2) and (3) which read as follows:
 
 “(2) The provisions of this subsection shall not apply in any case where liability is established pursuant to the Outer Continental Shelf Lands Act, or the Deepwater Port Act of 1974.
 
 “(3) Any amount paid in accordance with a judgment of the United States Claims Court pursuant to this section shall be paid from the funds established pursuant to subsection (k).”
 
-Subsec. (j). Pub. L. 101–380, § 4202(a), amended heading, inserted heading for par. (1) and realigned its margin, added pars. (2) to (8), and struck out former par. (2) which read as follows: “Any owner or operator of a vessel or an onshore facility or an offshore facility and any other person subject to any regulation issued under paragraph (1) of this subsection who fails or refuses to comply with the provisions of any such regulations, shall be liable to a civil penalty of not more than $5,000 for each such violation. This paragraph shall not apply to any owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(ii) of subsection (b) unless such owner, operator, or person in charge is otherwise subject to the jurisdiction of the United States. Each violation shall be a separate offense. The President may assess and compromise such penalty. No penalty shall be assessed until the owner, operator, or other person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the owner, operator, or other person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by the President.”
+Subsec. (j). Pub. L. 101–380, § 4202(a), amended heading, inserted heading for par. (1) and realigned its margin, added pars. (2) to (8), and struck out former par. (2) which read as follows: “Any owner or operator of a vessel or an onshore facility or an offshore facility and any other person subject to any regulation issued under paragraph (1) of this subsection who fails or refuses to comply with the provisions of any such regulations, shall be liable to a civil penalty of not more than $5,000 for each such violation. This paragraph shall not apply to any owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(ii) of subsection (b) unless such owner, operator, or person in charge is otherwise subject to the jurisdiction of the United States. Each violation shall be a separate offense. The President may assess and compromise such penalty. No penalty shall be assessed until the owner, operator, or other person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the owner, operator, or other person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by the President.”
 
-Subsec. (k). Pub. L. 101–380, § 2002(b)(2), struck out subsec. (k) which authorized appropriations and supplemental appropriations to create and maintain a revolving fund to carry out subsecs. (c), (d), (i), and (*l*) of this section.
+Subsec. (k). Pub. L. 101–380, § 2002(b)(2), struck out subsec. (k) which authorized appropriations and supplemental appropriations to create and maintain a revolving fund to carry out subsecs. (c), (d), (i), and (*l*) of this section.
 
-Subsec. (*l*). Pub. L. 101–380, § 2002(b)(3), struck out after first sentence “Any moneys in the fund established by subsection (k) of this section shall be available to such Federal departments, agencies, and instrumentalities to carry out the provisions of subsections (c) and (i) of this section.”
+Subsec. (*l*). Pub. L. 101–380, § 2002(b)(3), struck out after first sentence “Any moneys in the fund established by subsection (k) of this section shall be available to such Federal departments, agencies, and instrumentalities to carry out the provisions of subsections (c) and (i) of this section.”
 
-Subsec. (m). Pub. L. 101–380, § 4305, amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “Anyone authorized by the President to enforce the provisions of this section may, except as to public vessels, (A) board and inspect any vessel upon the navigable waters of the United States or the waters of the contiguous zone, (B) with or without a warrant arrest any person who violates the provisions of this section or any regulation issued thereunder in his presence or view, and (C) execute any warrant or other process issued by an officer or court of competent jurisdiction.”
+Subsec. (m). Pub. L. 101–380, § 4305, amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “Anyone authorized by the President to enforce the provisions of this section may, except as to public vessels, (A) board and inspect any vessel upon the navigable waters of the United States or the waters of the contiguous zone, (B) with or without a warrant arrest any person who violates the provisions of this section or any regulation issued thereunder in his presence or view, and (C) execute any warrant or other process issued by an officer or court of competent jurisdiction.”
 
-Subsec. (*o*)(2). Pub. L. 101–380, § 4202(c), inserted “, or with respect to any removal activities related to such discharge” after “within such State”.
+Subsec. (*o*)(2). Pub. L. 101–380, § 4202(c), inserted “, or with respect to any removal activities related to such discharge” after “within such State”.
 
-Subsec. (p). Pub. L. 101–380, § 2002(b)(4), struck out subsec. (p) which provided for establishment and maintenance of evidence of financial responsibility by vessels over 300 gross tons carrying oil or hazardous substances.
+Subsec. (p). Pub. L. 101–380, § 2002(b)(4), struck out subsec. (p) which provided for establishment and maintenance of evidence of financial responsibility by vessels over 300 gross tons carrying oil or hazardous substances.
 
-Subsec. (s). Pub. L. 101–380, § 2002(b)(5), added subsec. (s).
+Subsec. (s). Pub. L. 101–380, § 2002(b)(5), added subsec. (s).
 
 1987—Subsec. (a)(5). Pub. L. 100–4 substituted “the Commonwealth of the Northern Mariana Islands” for “the Canal Zone”.
 
@@ -9793,65 +9793,65 @@ Subsec. (c)(1). Pub. L. 96–561 substituted “Magnuson Fishery Conservation an
 
 Subsec. (k). Pub. L. 96–483 designated existing provisions as par. (1) and added par. (2).
 
-1978—Subsec. (a)(2). Pub. L. 95–576, § 1(b)(1), excluded discharges described in cls. (A) to (C) from term “discharge”.
+1978—Subsec. (a)(2). Pub. L. 95–576, § 1(b)(1), excluded discharges described in cls. (A) to (C) from term “discharge”.
 
-Subsec. (a)(17). Pub. L. 95–576, § 1(b)(2), added par. (17).
+Subsec. (a)(17). Pub. L. 95–576, § 1(b)(2), added par. (17).
 
-Subsec. (b)(2)(B). Pub. L. 95–576, § 1(b)(3), substituted requirement that a study be made respecting methods, mechanisms, and procedures for creating incentives to achieve higher standard of care in management and movement of hazardous substances, including consideration of enumerated items, and a report made to Congress within 18 months after Nov. 2, 1978, for provisions concerning actual removability of any designated hazardous substance, liability during two year period commencing Oct. 18, 1972 based on toxicity, degradability, and dispersal characteristics of the substance limited to $50,000 and without limitation in cases of willful negligence or willful misconduct, liability after such two year period ranging from $500 to $5,000 based on toxicity, etc., or liability for penalty determined by number of units discharged multiplied by amount established for the unit limited to $5,000,000 in the case of a discharge from a vessel and to $500,000 in the case of a discharge from onshore or offshore facility, establishment by regulation of a unit of measurement based upon the usual trade practice for each designated hazardous substance and establishment for such unit a fixed monetary amount ranging from $100 to $1,000 based on toxicity, etc.
+Subsec. (b)(2)(B). Pub. L. 95–576, § 1(b)(3), substituted requirement that a study be made respecting methods, mechanisms, and procedures for creating incentives to achieve higher standard of care in management and movement of hazardous substances, including consideration of enumerated items, and a report made to Congress within 18 months after Nov. 2, 1978, for provisions concerning actual removability of any designated hazardous substance, liability during two year period commencing Oct. 18, 1972 based on toxicity, degradability, and dispersal characteristics of the substance limited to $50,000 and without limitation in cases of willful negligence or willful misconduct, liability after such two year period ranging from $500 to $5,000 based on toxicity, etc., or liability for penalty determined by number of units discharged multiplied by amount established for the unit limited to $5,000,000 in the case of a discharge from a vessel and to $500,000 in the case of a discharge from onshore or offshore facility, establishment by regulation of a unit of measurement based upon the usual trade practice for each designated hazardous substance and establishment for such unit a fixed monetary amount ranging from $100 to $1,000 based on toxicity, etc.
 
-Subsec. (b)(3). Pub. L. 95–576, § 1(b)(4), substituted “such quantities as may be harmful” for “harmful quantities”.
+Subsec. (b)(3). Pub. L. 95–576, § 1(b)(4), substituted “such quantities as may be harmful” for “harmful quantities”.
 
-Subsec. (b)(4). Pub. L. 95–576, § 1(b)(5), struck out “, to be issued as soon as possible after October 18, 1972,” after “regulation” and substituted “substances” for “substance” and “discharge of which may be harmful” for “discharge of which, at such times, locations, circumstances, and conditions, will be harmful”.
+Subsec. (b)(4). Pub. L. 95–576, § 1(b)(5), struck out “, to be issued as soon as possible after October 18, 1972,” after “regulation” and substituted “substances” for “substance” and “discharge of which may be harmful” for “discharge of which, at such times, locations, circumstances, and conditions, will be harmful”.
 
-Subsec. (b)(5). Pub. L. 95–576, § 1(b)(6), inserted “at the time of the discharge” after “otherwise subject to the jurisdiction of the United States”.
+Subsec. (b)(5). Pub. L. 95–576, § 1(b)(6), inserted “at the time of the discharge” after “otherwise subject to the jurisdiction of the United States”.
 
-Subsec. (b)(6)(A) to (E). Pub. L. 95–576, § 1(b)(7), designated existing provisions as subpar. (A), inserted “at the time of the discharge” after “jurisdiction of the United States”, and added subpars. (B) to (E).
+Subsec. (b)(6)(A) to (E). Pub. L. 95–576, § 1(b)(7), designated existing provisions as subpar. (A), inserted “at the time of the discharge” after “jurisdiction of the United States”, and added subpars. (B) to (E).
 
-1977—Subsec. (a)(11). Pub. L. 95–217, § 58(k), inserted “, and any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters,” after “United States”.
+1977—Subsec. (a)(11). Pub. L. 95–217, § 58(k), inserted “, and any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters,” after “United States”.
 
-Subsec. (a)(15), (16). Pub. L. 95–217, § 58(d)(1), added pars. (15) and (16).
+Subsec. (a)(15), (16). Pub. L. 95–217, § 58(d)(1), added pars. (15) and (16).
 
-Subsec. (b)(1). Pub. L. 95–217, § 58(a)(1), inserted reference to activities under the Outer Continental Shelf Lands Act or the Deepwater Port Act of 1974, or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976).
+Subsec. (b)(1). Pub. L. 95–217, § 58(a)(1), inserted reference to activities under the Outer Continental Shelf Lands Act or the Deepwater Port Act of 1974, or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976).
 
-Subsec. (b)(2)(A). Pub. L. 95–217, § 58(a)(2), inserted reference to activities under the Outer Continental Shelf Lands Act or the Deepwater Port Act of 1974, or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976).
+Subsec. (b)(2)(A). Pub. L. 95–217, § 58(a)(2), inserted reference to activities under the Outer Continental Shelf Lands Act or the Deepwater Port Act of 1974, or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976).
 
-Subsec. (b)(2)(B)(v). Pub. L. 95–217, § 57, added cl. (v).
+Subsec. (b)(2)(B)(v). Pub. L. 95–217, § 57, added cl. (v).
 
-Subsec. (b)(3). Pub. L. 95–217, § 58(a)(3), (4), designated part of existing provisions preceding cl. (A) as cl. (i) and added cl. (ii), and, in cl. (A), inserted “or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976)” after “waters of the contiguous zone” and struck out “article IV of” before “the International Convention for the Prevention of Pollution of the Sea by Oil, 1954”.
+Subsec. (b)(3). Pub. L. 95–217, § 58(a)(3), (4), designated part of existing provisions preceding cl. (A) as cl. (i) and added cl. (ii), and, in cl. (A), inserted “or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976)” after “waters of the contiguous zone” and struck out “article IV of” before “the International Convention for the Prevention of Pollution of the Sea by Oil, 1954”.
 
-Subsec. (b)(4). Pub. L. 95–217, § 58(a)(5), struck out provisions under which, in the case of the discharge of oil into or upon the waters of the contiguous zone, only those discharges which threatened the fishery resources of the contiguous zone or threatened to pollute or contribute to the pollution of the territory or the territorial sea of the United States could be determined to be harmful.
+Subsec. (b)(4). Pub. L. 95–217, § 58(a)(5), struck out provisions under which, in the case of the discharge of oil into or upon the waters of the contiguous zone, only those discharges which threatened the fishery resources of the contiguous zone or threatened to pollute or contribute to the pollution of the territory or the territorial sea of the United States could be determined to be harmful.
 
-Subsec. (b)(5). Pub. L. 95–217, § 58(a)(6), added cls. (A), (B), and (C) between “Any such person” and “who fails to notify”.
+Subsec. (b)(5). Pub. L. 95–217, § 58(a)(6), added cls. (A), (B), and (C) between “Any such person” and “who fails to notify”.
 
-Subsec. (b)(6). Pub. L. 95–217, § 58(a)(7), (8), substituted “Any owner, operator, or person in charge of any onshore facility, or offshore facility” for “Any owner or operator of any vessel, onshore facility, or offshore facility” in provision relating to violations of par. (3) of this subsection, and inserted provisions directing the assessment of a civil penalty of not more than $5,000 for each offense by the Secretary of the department in which the Coast Guard is operating to be assessed against any owner, operator, or person in charge of any vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(i) of this subsection, and any owner, operator, or person in charge of a vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(ii) who is otherwise subject to the jurisdiction of the United States.
+Subsec. (b)(6). Pub. L. 95–217, § 58(a)(7), (8), substituted “Any owner, operator, or person in charge of any onshore facility, or offshore facility” for “Any owner or operator of any vessel, onshore facility, or offshore facility” in provision relating to violations of par. (3) of this subsection, and inserted provisions directing the assessment of a civil penalty of not more than $5,000 for each offense by the Secretary of the department in which the Coast Guard is operating to be assessed against any owner, operator, or person in charge of any vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(i) of this subsection, and any owner, operator, or person in charge of a vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(ii) who is otherwise subject to the jurisdiction of the United States.
 
-Subsec. (c)(1). Pub. L. 95–217, § 58(b), (c)(1), inserted “or there is a substantial threat of such discharge,” after “Whenever any oil or a hazardous substance is discharged,” and “or in connection with activities under the Outer Continental Shelf Lands Act or the Deepwater Port Act of 1974, or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976)” after “waters of the contiguous zone,”.
+Subsec. (c)(1). Pub. L. 95–217, § 58(b), (c)(1), inserted “or there is a substantial threat of such discharge,” after “Whenever any oil or a hazardous substance is discharged,” and “or in connection with activities under the Outer Continental Shelf Lands Act or the Deepwater Port Act of 1974, or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Fishery Conservation and Management Act of 1976)” after “waters of the contiguous zone,”.
 
-Subsec. (c)(2)(D). Pub. L. 95–217, § 58(e), substituted “and imminent threats of such discharges to the appropriate State and Federal agencies;” for “to the appropriate Federal agency;”.
+Subsec. (c)(2)(D). Pub. L. 95–217, § 58(e), substituted “and imminent threats of such discharges to the appropriate State and Federal agencies;” for “to the appropriate Federal agency;”.
 
-Subsec. (d). Pub. L. 95–217, § 58(c)(2), inserted “or under the Intervention on the High Seas Act (or the convention defined in section 2(3) thereof)” after “Any expense incurred under this subsection”.
+Subsec. (d). Pub. L. 95–217, § 58(c)(2), inserted “or under the Intervention on the High Seas Act (or the convention defined in section 2(3) thereof)” after “Any expense incurred under this subsection”.
 
-Subsec. (f)(1). Pub. L. 95–217, § 58(d)(2), substituted “, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater,” for “$100 per gross ton of such vessel or $14,000,000, whichever is lesser,”.
+Subsec. (f)(1). Pub. L. 95–217, § 58(d)(2), substituted “, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater,” for “$100 per gross ton of such vessel or $14,000,000, whichever is lesser,”.
 
-Subsec. (f)(2), (3). Pub. L. 95–217, § 58(d)(5), (6), substituted “$50,000,000” for “$8,000,000”.
+Subsec. (f)(2), (3). Pub. L. 95–217, § 58(d)(5), (6), substituted “$50,000,000” for “$8,000,000”.
 
-Subsec. (f)(4), (5). Pub. L. 95–217, § 58(g), added pars. (4) and (5).
+Subsec. (f)(4), (5). Pub. L. 95–217, § 58(g), added pars. (4) and (5).
 
-Subsec. (g). Pub. L. 95–217, § 58(d)(3), (f), substituted “, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater” for “$100 per gross ton of such vessel or $14,000,000, whichever is the lesser” in the existing provisions and inserted provision under which, where the owner or operator of a vessel (other than an inland oil barge) carrying oil or hazardous substances as cargo or an onshore or offshore facility which handles or stores oil or hazardous substances in bulk, from which oil or a hazardous substance is discharged in violation of subsec. (b) of this section, alleges that the discharge was caused solely by an act or omission of a third party, the owner or operator must pay to the United States Government the actual costs incurred under subsec. (c) of this section for removal of the oil or substance and shall be entitled by subrogation to all rights of the United States Government to recover the costs from the third party under this subsection.
+Subsec. (g). Pub. L. 95–217, § 58(d)(3), (f), substituted “, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater” for “$100 per gross ton of such vessel or $14,000,000, whichever is the lesser” in the existing provisions and inserted provision under which, where the owner or operator of a vessel (other than an inland oil barge) carrying oil or hazardous substances as cargo or an onshore or offshore facility which handles or stores oil or hazardous substances in bulk, from which oil or a hazardous substance is discharged in violation of subsec. (b) of this section, alleges that the discharge was caused solely by an act or omission of a third party, the owner or operator must pay to the United States Government the actual costs incurred under subsec. (c) of this section for removal of the oil or substance and shall be entitled by subrogation to all rights of the United States Government to recover the costs from the third party under this subsection.
 
-Subsec. (i)(2). Pub. L. 95–217, § 58(m), inserted reference to the Deepwater Port Act of 1974.
+Subsec. (i)(2). Pub. L. 95–217, § 58(m), inserted reference to the Deepwater Port Act of 1974.
 
-Subsec. (j)(2). Pub. L. 95–217, § 58(c)(3), inserted provision that subsec. (j)(2) shall not apply to any owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of subsec. (b)(3)(ii) of this section unless the owner, operator, or person in charge is otherwise subject to the jurisdiction of the United States.
+Subsec. (j)(2). Pub. L. 95–217, § 58(c)(3), inserted provision that subsec. (j)(2) shall not apply to any owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of subsec. (b)(3)(ii) of this section unless the owner, operator, or person in charge is otherwise subject to the jurisdiction of the United States.
 
-Subsec. (k). Pub. L. 95–217, § 58(*l*), substituted “such sums as may be necessary to maintain such fund at a level of $35,000,000” for “not to exceed $35,000,000”.
+Subsec. (k). Pub. L. 95–217, § 58(*l*), substituted “such sums as may be necessary to maintain such fund at a level of $35,000,000” for “not to exceed $35,000,000”.
 
-Subsec. (p)(1). Pub. L. 95–217, § 58(d)(4), substituted “, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater,” for “$100 per gross ton, or $14,000,000 whichever is the lesser,”.
+Subsec. (p)(1). Pub. L. 95–217, § 58(d)(4), substituted “, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater,” for “$100 per gross ton, or $14,000,000 whichever is the lesser,”.
 
-Subsecs. (q), (r). Pub. L. 95–217, § 58(i), added subsecs. (q) and (r).
+Subsecs. (q), (r). Pub. L. 95–217, § 58(i), added subsecs. (q) and (r).
 
-1973—Subsec. (f). Pub. L. 93–207, § 1(4)(A), (B), substituted “(b)(3)” for “(b)(2)” wherever appearing in pars. (1) to (3), and substituted “Administrator” for “Secretary” in last sentence of par. (2).
+1973—Subsec. (f). Pub. L. 93–207, § 1(4)(A), (B), substituted “(b)(3)” for “(b)(2)” wherever appearing in pars. (1) to (3), and substituted “Administrator” for “Secretary” in last sentence of par. (2).
 
-Subsecs. (g), (i). Pub. L. 93–207, § 1(4)(C), substituted “(b)(3)” for “(b)(2)” wherever appearing.
+Subsecs. (g), (i). Pub. L. 93–207, § 1(4)(C), substituted “(b)(3)” for “(b)(2)” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9861,11 +9861,11 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–241, title IX, § 901(i)(2), July 11, 2006, 120 Stat. 564, provided in part that the amendment made by section 901(i)(2) is effective Aug. 9, 2004.
+Pub. L. 109–241, title IX, § 901(i)(2), July 11, 2006, 120 Stat. 564, provided in part that the amendment made by section 901(i)(2) is effective Aug. 9, 2004.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date of 1992 Amendment**
 
@@ -9881,13 +9881,13 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **Effective Date of 1980 Amendments**
 
-Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 Amendment by Pub. L. 96–478 effective Oct. 2, 1983, see section 14(a) of Pub. L. 96–478, set out as an Effective Date note under section 1901 of this title.
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–217, § 58(h), Dec. 27, 1977, 91 Stat. 1596, provided that: “The amendments made by paragraphs (5) and (6) of subsection (d) of this section [amending this section] shall take effect 180 days after the date of enactment of the Clean Water Act of 1977 [Dec. 27, 1977].”
+Pub. L. 95–217, § 58(h), Dec. 27, 1977, 91 Stat. 1596, provided that: “The amendments made by paragraphs (5) and (6) of subsection (d) of this section [amending this section] shall take effect 180 days after the date of enactment of the Clean Water Act of 1977 [Dec. 27, 1977].”
 
 **Rule of Construction**
 
@@ -9899,7 +9899,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Limited Indemnity Provisions in Standby Oil Spill Response Contracts**
 
-Pub. L. 117–263, div. K, title CXIII, § 11307, Dec. 23, 2022, 136 Stat. 4078, provided that:
+Pub. L. 117–263, div. K, title CXIII, § 11307, Dec. 23, 2022, 136 Stat. 4078, provided that:
 
 > **“(a) In General.—** Subject to subsections (b) and (c), a contract with the Coast Guard for the containment or removal of a discharge entered into by the President under section 311(c) of the Federal Water Pollution Control Act (33 U.S.C. 1321(c)) shall contain a provision to indemnify a contractor for liabilities and expenses incidental to the containment or removal arising out of the performance of the contract that is substantially identical to the terms contained in subsections (d) through (h) of section H.4 (except for paragraph (1) of subsection (d)) of the contract offered by the Coast Guard in the solicitation numbered DTCG89–98– A–68F953, dated November 17, 1998.
 
@@ -9915,7 +9915,7 @@ Pub. L. 117–263, div. K, title CXIII, § 11307, Dec. 23, 2022, 136 Stat. 407
 
 **Establishment of Western Alaska Oil Spill Planning Criteria**
 
-Pub. L. 117–263, div. K, title CXIII, § 11309(b)(2), Dec. 23, 2022, 136 Stat. 4085, provided that:
+Pub. L. 117–263, div. K, title CXIII, § 11309(b)(2), Dec. 23, 2022, 136 Stat. 4085, provided that:
 
 > **“(A) Deadline.—** Not later than 2 years after the date of enactment of this Act [Dec. 23, 2022], the President shall establish the Western Alaska oil spill planning criteria required to be established under paragraph (9)(D)(i) of section 311(j) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)).
 
@@ -9933,7 +9933,7 @@ For termination of the United States District Court for the District of the Cana
 
 **Coast Guard Response Plan Requirements**
 
-Pub. L. 117–263, div. K, title CXIII, § 11315, Dec. 23, 2022, 136 Stat. 4087, provided that:
+Pub. L. 117–263, div. K, title CXIII, § 11315, Dec. 23, 2022, 136 Stat. 4087, provided that:
 
 > **“(a) In General.—** Subject to the availability of appropriations, the Commandant [of the Coast Guard] shall develop and carry out a program—
 
@@ -9999,7 +9999,7 @@ Pub. L. 117–263, div. K, title CXIII, § 11315, Dec. 23, 2022, 136 Stat. 408
 
 [Nothing in amendment made by Pub. L. 117–263 to be construed to satisfy any requirement for government-to-government consultation with Tribal governments or to affect or modify any treaty or other right of any Tribal government, see section 11003 of Pub. L. 117–263, set out as a note under section 245 of Title 6, Domestic Security.]
 
-Pub. L. 115–282, title VIII, § 823(a), Dec. 4, 2018, 132 Stat. 4311, provided that:
+Pub. L. 115–282, title VIII, § 823(a), Dec. 4, 2018, 132 Stat. 4311, provided that:
 
 > **“(1) In general.—** For purposes of the Oil Pollution Act of 1990 (33 U.S.C. 2701 et seq.), the Commandant of the Coast Guard may approve a vessel response plan under section 311 of the Federal Water Pollution Control Act (33 U.S.C. 1321) for a vessel operating in any area covered by the Captain of the Port Zone (as established by the Commandant) that includes the Arctic, if the Commandant verifies that—
 
@@ -10017,7 +10017,7 @@ Pub. L. 115–282, title VIII, § 823(a), Dec. 4, 2018, 132 Stat. 4311, provid
 
 > **“(ii)** submits a request for credit to, and receives approval from, the Commandant.”
 
-Pub. L. 113–281, title III, § 317, Dec. 18, 2014, 128 Stat. 3050, provided that:
+Pub. L. 113–281, title III, § 317, Dec. 18, 2014, 128 Stat. 3050, provided that:
 
 > **“(a) Vessel Response Plan Contents.—** The Secretary of the department in which the Coast Guard is operating shall require that each vessel response plan prepared for a mobile offshore drilling unit includes information from the facility response plan prepared for the mobile offshore drilling unit regarding the planned response to a worst case discharge, and to a threat of such a discharge.
 
@@ -10191,7 +10191,7 @@ Pub. L. 112–141, div. A, title I, subtitle F, July 6, 2012, 126 Stat. 588, pro
 
 **Rulemakings**
 
-Pub. L. 111–281, title VII, § 701(a), (b), Oct. 15, 2010, 124 Stat. 2980, provided that:
+Pub. L. 111–281, title VII, § 701(a), (b), Oct. 15, 2010, 124 Stat. 2980, provided that:
 
 > **“(a) Status Report.—**
 
@@ -10213,11 +10213,11 @@ Pub. L. 111–281, title VII, § 701(a), (b), Oct. 15, 2010, 124 Stat. 2980, p
 
 **Implementation Date for Vessel Response Plans for Nontank Vessels**
 
-Pub. L. 108–293, title VII, § 701(c), Aug. 9, 2004, 118 Stat. 1068, provided that: “No later than one year after the date of enactment of this Act [Aug. 9, 2004], the owner or operator of a nontank vessel (as defined [sic] section 311(j)(9) [311(a)(26)] of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)(9) [1321(a)(26)], as amended by this section) shall prepare and submit a vessel response plan for such vessel.”
+Pub. L. 108–293, title VII, § 701(c), Aug. 9, 2004, 118 Stat. 1068, provided that: “No later than one year after the date of enactment of this Act [Aug. 9, 2004], the owner or operator of a nontank vessel (as defined [sic] section 311(j)(9) [311(a)(26)] of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)(9) [1321(a)(26)], as amended by this section) shall prepare and submit a vessel response plan for such vessel.”
 
 **Report on Oil Spill Responder Immunity**
 
-Pub. L. 107–295, title IV, § 440, Nov. 25, 2002, 116 Stat. 2130, provided that:
+Pub. L. 107–295, title IV, § 440, Nov. 25, 2002, 116 Stat. 2130, provided that:
 
 > **“(a) Report to Congress.—** Not later than January 1, 2004, the Secretary of the department in which the Coast Guard is operating, jointly with the Secretary of Commerce and the Secretary of the Interior, and after consultation with the Administrator of the Environmental Protection Agency and the Attorney General, shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the immunity from criminal and civil penalties provided under existing law of a private responder (other than a responsible party) in the case of the incidental take of federally listed fish or wildlife that results from, but is not the purpose of, carrying out an otherwise lawful activity conducted by that responder during an oil spill removal activity where the responder was acting in a manner consistent with the National Contingency Plan or as otherwise directed by the Federal On-Scene Coordinator for the spill, and on the circumstances under which such penalties have been or could be imposed on a private responder. The report shall take into consideration the procedures under the Inter-Agency Memorandum for addressing incidental takes.
 
@@ -10235,21 +10235,21 @@ Pub. L. 107–295, title IV, § 440, Nov. 25, 2002, 116 Stat. 2130, provided t
 
 **Oil Spill Liability Under Oil Pollution Act of 1990**
 
-Pub. L. 101–380, title II, § 2002(a), Aug. 18, 1990, 104 Stat. 507, provided that: “Subsections (f), (g), (h), and (i) of section 311 of the Federal Water Pollution Control Act (33 U.S.C. 1321) shall not apply with respect to any incident for which liability is established under section 1002 of this Act [33 U.S.C. 2702].”
+Pub. L. 101–380, title II, § 2002(a), Aug. 18, 1990, 104 Stat. 507, provided that: “Subsections (f), (g), (h), and (i) of section 311 of the Federal Water Pollution Control Act (33 U.S.C. 1321) shall not apply with respect to any incident for which liability is established under section 1002 of this Act [33 U.S.C. 2702].”
 
 **Transfer of Moneys to Oil Spill Liability Trust Fund**
 
-Pub. L. 101–380, title II, § 2002(b)(2), Aug. 18, 1990, 104 Stat. 507, provided that: “Subsection (k) [of this section] is repealed. Any amounts remaining in the revolving fund established under that subsection shall be deposited in the [Oil Spill Liability Trust] Fund. The Fund shall assume all liability incurred by the revolving fund established under that subsection.”
+Pub. L. 101–380, title II, § 2002(b)(2), Aug. 18, 1990, 104 Stat. 507, provided that: “Subsection (k) [of this section] is repealed. Any amounts remaining in the revolving fund established under that subsection shall be deposited in the [Oil Spill Liability Trust] Fund. The Fund shall assume all liability incurred by the revolving fund established under that subsection.”
 
 **Revision of National Contingency Plan**
 
-Pub. L. 101–380, title IV, § 4201(c)[(d)], Aug. 18, 1990, 104 Stat. 527, provided that: “Not later than one year after the date of the enactment of this Act [Aug. 18, 1990], the President shall revise and republish the National Contingency Plan prepared under section 311(c)(2) of the Federal Water Pollution Control Act [33 U.S.C. 1321(c)(2)] (as in effect immediately before the date of the enactment of this Act) to implement the amendments made by this section and section 4202 [amending this section].”
+Pub. L. 101–380, title IV, § 4201(c)[(d)], Aug. 18, 1990, 104 Stat. 527, provided that: “Not later than one year after the date of the enactment of this Act [Aug. 18, 1990], the President shall revise and republish the National Contingency Plan prepared under section 311(c)(2) of the Federal Water Pollution Control Act [33 U.S.C. 1321(c)(2)] (as in effect immediately before the date of the enactment of this Act) to implement the amendments made by this section and section 4202 [amending this section].”
 
 [For delegation of functions of President under section 4201(c) of Pub. L. 101–380, set out above, see Ex. Ord. No. 12580, Jan. 23, 1987, 52 F.R. 2923, as amended, set out as a note under section 9615 of Title 42, The Public Health and Welfare.]
 
 **Implementation of National Planning and Response System**
 
-Pub. L. 101–380, title IV, § 4202(b), Aug. 18, 1990, 104 Stat. 531, provided that:
+Pub. L. 101–380, title IV, § 4202(b), Aug. 18, 1990, 104 Stat. 531, provided that:
 
 > **“(1) Area committees and contingency plans.—**
 
@@ -10283,13 +10283,13 @@ Penalties paid pursuant to this section and sections 1319(c) and 1501 et seq. of
 
 **Allowable Delay in Establishing Financial Responsibility for Increase in Amounts Under 1977 Amendment**
 
-Pub. L. 95–217, § 58(j), Dec. 27, 1977, 91 Stat. 1596, provided that: “No vessel subject to the increased amounts which result from the amendments made by subsections (d)(2), (d)(3), and (d)(4) of this section [amending this section] shall be required to establish any evidence of financial responsibility under section 311(p) of the Federal Water Pollution Control Act [subsec. (p) of this section] for such increased amounts before October 1, 1978.”
+Pub. L. 95–217, § 58(j), Dec. 27, 1977, 91 Stat. 1596, provided that: “No vessel subject to the increased amounts which result from the amendments made by subsections (d)(2), (d)(3), and (d)(4) of this section [amending this section] shall be required to establish any evidence of financial responsibility under section 311(p) of the Federal Water Pollution Control Act [subsec. (p) of this section] for such increased amounts before October 1, 1978.”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions of Administrator or other official of the Environmental Protection Agency under this section relating to spill prevention, containment and countermeasure plans with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Administrator or other official of the Environmental Protection Agency under this section relating to spill prevention, containment and countermeasure plans with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 **Delegation of Functions**
 
@@ -10305,15 +10305,15 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 
 **Executive Order No. 11735**
 
-Ex. Ord. No. 11735, Aug. 3, 1973, 38 F.R. 21243, as amended by Ex. Ord. No. 12418, May 5, 1983, 48 F.R. 20891, which assigned functions of the President regarding water pollution, was revoked by Ex. Ord. No. 12777, § 8(i), Oct. 18, 1991, 56 F.R. 54769, set out below.
+Ex. Ord. No. 11735, Aug. 3, 1973, 38 F.R. 21243, as amended by Ex. Ord. No. 12418, May 5, 1983, 48 F.R. 20891, which assigned functions of the President regarding water pollution, was revoked by Ex. Ord. No. 12777, § 8(i), Oct. 18, 1991, 56 F.R. 54769, set out below.
 
 **Executive Order No. 12418**
 
-Ex. Ord. No. 12418, May 5, 1983, 48 F.R. 20891, which transferred certain functions relating to the financial responsibility of vessels for water pollution and established authority of Federal agencies to respond to discharges or substantial threats of discharges of oil and hazardous substances, was revoked by Ex. Ord. No. 12777, § 8(i), Oct. 18, 1991, 56 F.R. 54769, set out below.
+Ex. Ord. No. 12418, May 5, 1983, 48 F.R. 20891, which transferred certain functions relating to the financial responsibility of vessels for water pollution and established authority of Federal agencies to respond to discharges or substantial threats of discharges of oil and hazardous substances, was revoked by Ex. Ord. No. 12777, § 8(i), Oct. 18, 1991, 56 F.R. 54769, set out below.
 
 **Ex. Ord. No. 12777. Implementation of This Section and Oil Pollution Act of 1990**
 
-Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54757, as amended by Ex. Ord. No. 13286, § 34, Feb. 28, 2003, 68 F.R. 10625; Ex. Ord. No. 13638, § 1, Mar. 15, 2013, 78 F.R. 17589, provided:
+Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54757, as amended by Ex. Ord. No. 13286, § 34, Feb. 28, 2003, 68 F.R. 10625; Ex. Ord. No. 13638, § 1, Mar. 15, 2013, 78 F.R. 17589, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including Section 311 of the Federal Water Pollution Control Act, (“FWPCA”) (33 U.S.C. 1321), as amended by the Oil Pollution Act of 1990 (Public Law 101–380) (“OPA”), and by Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
@@ -10465,7 +10465,7 @@ Sec. 3. *The Gulf Coast Restoration Trust Fund and the Gulf Coast Ecosystem Rest
 
 (c) Federal members of the Gulf Restoration Council and Trustee Council, as well as all Federal entities involved in Gulf Coast restoration, shall work closely with one another to advance their common goals, reduce duplication, and maximize consistency among their efforts. All Federal members are directed to consult with each other and with all non-federal members in carrying out their duties on the Gulf Restoration Council.
 
-Sec. 4. *Ongoing Role of the Natural Resource Damage Assessment Trustee Council*. (a) Executive Order 13554 recognized the role of the Trustee Council, and designated trustees as provided in 33 U.S.C. 2706, with trusteeship over natural resources injured, lost, or destroyed as a result of the Deepwater Horizon Oil Spill. Specifically, Executive Order 13554 recognized the importance of carefully coordinating the work of the Task Force with the Trustee Council, whose members have statutory responsibility to assess natural resources damages from the Deepwater Horizon Oil Spill, to restore trust resources, and seek compensation for lost use of those trust resources. Section 3(b) of Executive Order 13554 instructed the Task Force to “support the Natural Resource Damage Assessment process by referring potential ecosystem restoration actions to the \* \* \* Trustee Council for consideration and facilitating coordination among the relevant departments, agencies, and offices, as appropriate, subject to the independent statutory responsibilities of the trustees.” The Department of Commerce (through the National Oceanic and Atmospheric Administration), the Department of the Interior (through the Fish and Wildlife Service and the National Park Service), and the Department of Justice have worked to identify linkages and opportunities for the Task Force to complement the restoration progress of the Trustee Council.
+Sec. 4. *Ongoing Role of the Natural Resource Damage Assessment Trustee Council*. (a) Executive Order 13554 recognized the role of the Trustee Council, and designated trustees as provided in 33 U.S.C. 2706, with trusteeship over natural resources injured, lost, or destroyed as a result of the Deepwater Horizon Oil Spill. Specifically, Executive Order 13554 recognized the importance of carefully coordinating the work of the Task Force with the Trustee Council, whose members have statutory responsibility to assess natural resources damages from the Deepwater Horizon Oil Spill, to restore trust resources, and seek compensation for lost use of those trust resources. Section 3(b) of Executive Order 13554 instructed the Task Force to “support the Natural Resource Damage Assessment process by referring potential ecosystem restoration actions to the \* \* \* Trustee Council for consideration and facilitating coordination among the relevant departments, agencies, and offices, as appropriate, subject to the independent statutory responsibilities of the trustees.” The Department of Commerce (through the National Oceanic and Atmospheric Administration), the Department of the Interior (through the Fish and Wildlife Service and the National Park Service), and the Department of Justice have worked to identify linkages and opportunities for the Task Force to complement the restoration progress of the Trustee Council.
 
 (b) Section 7(e) of Executive Order 13554 provides that nothing in that order shall interfere with the statutory responsibilities and authority of the Trustee Council or the individual trustees to carry out their statutory responsibilities to assess natural resource damages and implement restoration actions under 33 U.S.C. 2706 and other applicable law. Agencies that were members of the Task Force shall continue to comply with these requirements.
 
@@ -10487,7 +10487,7 @@ Sec. 6. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Barack Obama.
 
-### § 1321a. Prevention of small oil spills
+### § 1321a. Prevention of small oil spills
 
 **(a) Prevention and education program** The Under Secretary of Commerce for Oceans and Atmosphere, in consultation with the Secretary of the Department in which the Coast Guard is operating and other appropriate agencies, shall establish an oil spill prevention and education program for small vessels. The program shall provide for assessment, outreach, and training and voluntary compliance activities to prevent and improve the effective response to oil spills from vessels and facilities not required to prepare a vessel response plan under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), including recreational vessels, commercial fishing vessels, marinas, and aquaculture facilities. The Under Secretary may provide grants to sea grant colleges and institutes designated under section 1126 of this title and to State agencies, tribal governments, and other appropriate entities to carry out—
 
@@ -10503,19 +10503,19 @@ Barack Obama.
 
 There are authorized to be appropriated to the Under Secretary of Commerce for Oceans and Atmosphere to carry out this section, $10,000,000 for each of fiscal years 2010 through 2014.
 
-(Pub. L. 111–281, title VII, § 705, Oct. 15, 2010, 124 Stat. 2982.)
+(Pub. L. 111–281, title VII, § 705, Oct. 15, 2010, 124 Stat. 2982.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Water Pollution Control Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the Coast Guard Authorization Act of 2010, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
 
-### § 1321b. Improved coordination with tribal governments
+### § 1321b. Improved coordination with tribal governments
 
 **(a) In general**
 
@@ -10547,7 +10547,7 @@ Within 6 months after October 15, 2010, the Secretary of the Department in which
 
 Subject to the availability of appropriations, the Commandant of the Coast Guard shall provide assistance to participating tribal governments in order to facilitate the implementation of cooperative arrangements under subsection (c) and ensure the participation of tribal governments in such arrangements. There are authorized to be appropriated to the Commandant $500,000 for each of fiscal years 2010 through 2014 to be used to carry out this section.
 
-(Pub. L. 111–281, title VII, § 706, Oct. 15, 2010, 124 Stat. 2983.)
+(Pub. L. 111–281, title VII, § 706, Oct. 15, 2010, 124 Stat. 2983.)
 
 **Editorial Notes**
 
@@ -10555,11 +10555,11 @@ Subject to the availability of appropriations, the Commandant of the Coast Guard
 
 Section was enacted as part of the Coast Guard Authorization Act of 2010, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
 
-### § 1321c. International efforts on enforcement
+### § 1321c. International efforts on enforcement
 
 The Secretary of the department in which the Coast Guard is operating, in consultation with the heads of other appropriate Federal agencies, shall ensure that the Coast Guard pursues stronger enforcement in the International Maritime Organization of agreements related to oil discharges, including joint enforcement operations, training, and stronger compliance mechanisms.
 
-(Pub. L. 111–281, title VII, § 709, Oct. 15, 2010, 124 Stat. 2986.)
+(Pub. L. 111–281, title VII, § 709, Oct. 15, 2010, 124 Stat. 2986.)
 
 **Editorial Notes**
 
@@ -10567,7 +10567,7 @@ The Secretary of the department in which the Coast Guard is operating, in consul
 
 Section was enacted as part of the Coast Guard Authorization Act of 2010, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
 
-### § 1322. Marine sanitation devices; discharges incidental to the normal operation of vessels
+### § 1322. Marine sanitation devices; discharges incidental to the normal operation of vessels
 
 **(a) Definitions** In this section, the term—
 
@@ -11091,9 +11091,9 @@ The term “ballast water” does not include any substance that is added to the
 
 **(J) Captain of the Port Zone**
 
-The term “Captain of the Port Zone” means a Captain of the Port Zone established by the Secretary pursuant to sections 92, 93, and 633 1
+The term “Captain of the Port Zone” means a Captain of the Port Zone established by the Secretary pursuant to sections 92, 93, and 633 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 14.
 
@@ -11107,9 +11107,9 @@ of title 14.
 
 **(L) Great Lakes Commission**
 
-The term “Great Lakes Commission” means the Great Lakes Commission established by article IV A of the Great Lakes Compact 2
+The term “Great Lakes Commission” means the Great Lakes Commission established by article IV A of the Great Lakes Compact 2
 
-<sup>2</sup>  So in original. Probably should be “Great Lakes Basin Compact”.
+<sup>2</sup> So in original. Probably should be “Great Lakes Basin Compact”.
 
 to which Congress granted consent in the Act of July 24, 1968 (Public Law 90–419; 82 Stat. 414).
 
@@ -12001,7 +12001,7 @@ An action or inaction of a Governor of a Great Lakes State or the Great Lakes Co
 
 **(VIII) Great Lakes Compact**
 
-Nothing in this subsection limits, alters, or amends the Great Lakes Compact <sup>2</sup> to which Congress granted consent in the Act of July 24, 1968 (Public Law 90–419; 82 Stat. 414).
+Nothing in this subsection limits, alters, or amends the Great Lakes Compact <sup>2</sup> to which Congress granted consent in the Act of July 24, 1968 (Public Law 90–419; 82 Stat. 414).
 
 **(IX) Authorization of appropriations**
 
@@ -12137,7 +12137,7 @@ The Administrator shall approve or disapprove an application submitted under sub
 
 In any case in which a requirement established under this paragraph is more stringent or environmentally protective than a comparable requirement established under paragraph (4), (5), or (6), the more-stringent or more-protective requirement shall control.
 
-(June 30, 1948, ch. 758, title III, § 312, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 871; amended Pub. L. 95–217, § 59, Dec. 27, 1977, 91 Stat. 1596; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–4, title III, § 311, Feb. 4, 1987, 101 Stat. 42; Pub. L. 104–106, div. A, title III, § 325(b)–(c)(2), Feb. 10, 1996, 110 Stat. 254–259; Pub. L. 110–288, § 4, July 29, 2008, 122 Stat. 2650; Pub. L. 115–282, title IX, § 903(a)(1), (b), (c)(1), Dec. 4, 2018, 132 Stat. 4324, 4354, 4355.)
+(June 30, 1948, ch. 758, title III, § 312, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 871; amended Pub. L. 95–217, § 59, Dec. 27, 1977, 91 Stat. 1596; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–4, title III, § 311, Feb. 4, 1987, 101 Stat. 42; Pub. L. 104–106, div. A, title III, § 325(b)–(c)(2), Feb. 10, 1996, 110 Stat. 254–259; Pub. L. 110–288, § 4, July 29, 2008, 122 Stat. 2650; Pub. L. 115–282, title IX, § 903(a)(1), (b), (c)(1), Dec. 4, 2018, 132 Stat. 4324, 4354, 4355.)
 
 **Editorial Notes**
 
@@ -12145,75 +12145,75 @@ In any case in which a requirement established under this paragraph is more stri
 
 For definition of Canal Zone, referred to in subsecs. (a)(4) and (m), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-Sections 92, 93, and 633 of title 14, referred to in subsec. (p)(1)(J), were redesignated sections 501, 504, and 503, respectively, of title 14 by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to sections 92, 93, and 633 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Sections 92, 93, and 633 of title 14, referred to in subsec. (p)(1)(J), were redesignated sections 501, 504, and 503, respectively, of title 14 by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to sections 92, 93, and 633 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 The Act of July 24, 1968, referred to in subsec. (p)(1)(L), (10)(B)(iii)(VIII), is Pub. L. 90–419, July 24, 1968, 82 Stat. 414, which is not classified to the Code.
 
-The Safe Drinking Water Act, referred to in subsec. (p)(2)(B)(ii)(III), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Safe Drinking Water Act, referred to in subsec. (p)(2)(B)(ii)(III), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 Section 903(a)(2)(A) of the Vessel Incidental Discharge Act of 2018, referred to in subsec. (p)(3)(B), is section 903(a)(2)(A) of title IX of Pub. L. 115–282, Dec. 4, 2018, 132 Stat. 4354, which repealed section 4711 of Title 16, Conservation, and provisions set out as a note under section 1342 of this title.
 
-The Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, referred to in subsec. (p)(3)(B), (5)(A)(ii)(IV), (C)(ii)(II)(bb)(AA), (cc), is title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, which is classified principally to chapter 67 (§ 4701 et seq.) of Title 16, Conservation. Section 1101 of the Act (as in effect on the day before December 4, 2018), means section 1101 of the Act, which was classified to section 4711 of Title 16, prior to repeal by Pub. L. 115–282, title IX, § 903(a)(2)(A)(i), Dec. 4, 2018, 132 Stat. 4354. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 16 and Tables.
+The Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, referred to in subsec. (p)(3)(B), (5)(A)(ii)(IV), (C)(ii)(II)(bb)(AA), (cc), is title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, which is classified principally to chapter 67 (§ 4701 et seq.) of Title 16, Conservation. Section 1101 of the Act (as in effect on the day before December 4, 2018), means section 1101 of the Act, which was classified to section 4711 of Title 16, prior to repeal by Pub. L. 115–282, title IX, § 903(a)(2)(A)(i), Dec. 4, 2018, 132 Stat. 4354. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 16 and Tables.
 
 Section 1414 of the Consolidated Appropriations Act, 2001 (Public Law 106–554; 114 Stat. 2763A–323), referred to in subsec. (p)(9)(A)(v), probably means section 1414 of title XIV of div. B of H.R. 5666 of the 106th Congress, as enacted into law by section 1(a)(4) of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–322, which is set out in a note under section 1901 of this title.
 
-The Act to Prevent Pollution from Ships, referred to in subsec. (p)(9)(B)(iii), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+The Act to Prevent Pollution from Ships, referred to in subsec. (p)(9)(B)(iii), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
-The Coast Guard Authorization Act of 2010, referred to in subsec. (p)(9)(B)(iv), is Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 2905. Title X of the Act is classified principally to chapter 51 (§ 3801 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Coast Guard Authorization Act of 2010, referred to in subsec. (p)(9)(B)(iv), is Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 2905. Title X of the Act is classified principally to chapter 51 (§ 3801 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 903(b)(1), substituted “Marine sanitation devices; discharges incidental to the normal operation of vessels” for “Marine sanitation devices” in section catchline.
+2018—Pub. L. 115–282, § 903(b)(1), substituted “Marine sanitation devices; discharges incidental to the normal operation of vessels” for “Marine sanitation devices” in section catchline.
 
-Subsec. (a). Pub. L. 115–282, § 903(b)(1), inserted heading and substituted “In” for “For the purpose of” in introductory provisions.
+Subsec. (a). Pub. L. 115–282, § 903(b)(1), inserted heading and substituted “In” for “For the purpose of” in introductory provisions.
 
-Subsec. (a)(7). Pub. L. 115–282, § 903(b)(2)(A), substituted “devices, marine pollution control device equipment, or vessels” for “devices or of vessels”.
+Subsec. (a)(7). Pub. L. 115–282, § 903(b)(2)(A), substituted “devices, marine pollution control device equipment, or vessels” for “devices or of vessels”.
 
-Subsec. (a)(13). Pub. L. 115–282, § 903(b)(2)(B), inserted “, except as provided in subsection (p),” after “means” in introductory provisions.
+Subsec. (a)(13). Pub. L. 115–282, § 903(b)(2)(B), inserted “, except as provided in subsection (p),” after “means” in introductory provisions.
 
-Subsec. (g)(1). Pub. L. 115–282, § 903(b)(3)(A), (B), inserted “or marine pollution control device equipment” after “marine sanitation device” in two places and “or equipment” after “such device” and “test device”.
+Subsec. (g)(1). Pub. L. 115–282, § 903(b)(3)(A), (B), inserted “or marine pollution control device equipment” after “marine sanitation device” in two places and “or equipment” after “such device” and “test device”.
 
-Subsec. (g)(2). Pub. L. 115–282, § 903(b)(3)(A), (C), inserted “or marine pollution control device equipment” after “marine sanitation device” and “or equipment” after “the device”, “Any device”, and “certified test device” wherever appearing.
+Subsec. (g)(2). Pub. L. 115–282, § 903(b)(3)(A), (C), inserted “or marine pollution control device equipment” after “marine sanitation device” and “or equipment” after “the device”, “Any device”, and “certified test device” wherever appearing.
 
-Subsec. (h). Pub. L. 115–282, § 903(b)(4)(D), inserted heading.
+Subsec. (h). Pub. L. 115–282, § 903(b)(4)(D), inserted heading.
 
-Subsec. (h)(1). Pub. L. 115–282, § 903(b)(4)(C), (D), designated existing provisions as par. (1), inserted heading, substituted “Subject to paragraph (2), after” for “After”, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and realigned margins.
+Subsec. (h)(1). Pub. L. 115–282, § 903(b)(4)(C), (D), designated existing provisions as par. (1), inserted heading, substituted “Subject to paragraph (2), after” for “After”, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and realigned margins.
 
-Pub. L. 115–282, § 903(b)(4)(A), inserted “and marine pollution control device equipment” after “marine sanitation device”.
+Pub. L. 115–282, § 903(b)(4)(A), inserted “and marine pollution control device equipment” after “marine sanitation device”.
 
-Subsec. (h)(2). Pub. L. 115–282, § 903(b)(4)(E), added par. (2). Former par. (2) redesignated subpar. (B) of subsec. (h)(1).
+Subsec. (h)(2). Pub. L. 115–282, § 903(b)(4)(E), added par. (2). Former par. (2) redesignated subpar. (B) of subsec. (h)(1).
 
-Pub. L. 115–282, § 903(b)(4)(B), inserted “or any certified marine pollution control device equipment or element of design of such equipment” after “such device”.
+Pub. L. 115–282, § 903(b)(4)(B), inserted “or any certified marine pollution control device equipment or element of design of such equipment” after “such device”.
 
-Subsec. (h)(3), (4). Pub. L. 115–282, § 903(b)(4)(C), redesignated pars. (3) and (4) as subpars. (C) and (D), respectively, of subsec. (h)(1).
+Subsec. (h)(3), (4). Pub. L. 115–282, § 903(b)(4)(C), redesignated pars. (3) and (4) as subpars. (C) and (D), respectively, of subsec. (h)(1).
 
-Subsec. (k). Pub. L. 115–282, § 903(c), designated first sentence of existing provisions as par. (2)(A), substituted “This” for “The provisions of this” and “operating, who may use, by agreement” for “operating and he may utilize by agreement” in par. (2)(A) as redesignated, inserted headings for subsec. (k), par. (2), and par. (2)(A), added pars. (1), (2)(B), (2)(C), and (3), and struck out former second sentence which read as follows: “The provisions of this section may also be enforced by a State.”
+Subsec. (k). Pub. L. 115–282, § 903(c), designated first sentence of existing provisions as par. (2)(A), substituted “This” for “The provisions of this” and “operating, who may use, by agreement” for “operating and he may utilize by agreement” in par. (2)(A) as redesignated, inserted headings for subsec. (k), par. (2), and par. (2)(A), added pars. (1), (2)(B), (2)(C), and (3), and struck out former second sentence which read as follows: “The provisions of this section may also be enforced by a State.”
 
-Subsec. (p). Pub. L. 115–282, § 903(a)(1), added subsec. (p).
+Subsec. (p). Pub. L. 115–282, § 903(a)(1), added subsec. (p).
 
 2008—Subsec. (*o*). Pub. L. 110–288 added subsec. (*o*).
 
-1996—Subsec. (a)(8). Pub. L. 104–106, § 325(c)(1)(A), substituted “corporation, association, or agency of the United States,” for “corporation, or association,”.
+1996—Subsec. (a)(8). Pub. L. 104–106, § 325(c)(1)(A), substituted “corporation, association, or agency of the United States,” for “corporation, or association,”.
 
-Subsec. (a)(12) to (14). Pub. L. 104–106, § 325(c)(1)(B), (C), added pars. (12) to (14).
+Subsec. (a)(12) to (14). Pub. L. 104–106, § 325(c)(1)(B), (C), added pars. (12) to (14).
 
-Subsec. (j). Pub. L. 104–106, § 325(c)(2), substituted “subsection (g)(1), clause (1) or (2) of subsection (h), or subsection (n)(8) shall be liable” for “subsection (g)(1) of this section or clause (1) or (2) of subsection (h) of this section shall be liable”.
+Subsec. (j). Pub. L. 104–106, § 325(c)(2), substituted “subsection (g)(1), clause (1) or (2) of subsection (h), or subsection (n)(8) shall be liable” for “subsection (g)(1) of this section or clause (1) or (2) of subsection (h) of this section shall be liable”.
 
-Subsec. (n). Pub. L. 104–106, § 325(b), added subsec. (n).
+Subsec. (n). Pub. L. 104–106, § 325(b), added subsec. (n).
 
-1987—Subsec. (f)(1). Pub. L. 100–4, § 311(a), designated existing provision as subpar. (A), substituted “Except as provided in subparagraph (B), after” for “After”, and added subpar. (B).
+1987—Subsec. (f)(1). Pub. L. 100–4, § 311(a), designated existing provision as subpar. (A), substituted “Except as provided in subparagraph (B), after” for “After”, and added subpar. (B).
 
-Subsec. (k). Pub. L. 100–4, § 311(b), inserted at end “The provisions of this section may also be enforced by a State.”
+Subsec. (k). Pub. L. 100–4, § 311(b), inserted at end “The provisions of this section may also be enforced by a State.”
 
-1977—Subsec. (a)(6). Pub. L. 95–217, § 59(a), inserted “except that, with respect to commercial vessels on the Great Lakes, such term shall include graywater” after “receive or retain body wastes”.
+1977—Subsec. (a)(6). Pub. L. 95–217, § 59(a), inserted “except that, with respect to commercial vessels on the Great Lakes, such term shall include graywater” after “receive or retain body wastes”.
 
-Subsec. (a)(10), (11). Pub. L. 95–217, § 59(b), added pars. (10) and (11).
+Subsec. (a)(10), (11). Pub. L. 95–217, § 59(b), added pars. (10) and (11).
 
-Subsec. (b)(1). Pub. L. 95–217, § 59(c), inserted references to standards established under subsec. (c)(1)(B) of this section and to standards promulgated under subsec. (c) of this section.
+Subsec. (b)(1). Pub. L. 95–217, § 59(c), inserted references to standards established under subsec. (c)(1)(B) of this section and to standards promulgated under subsec. (c) of this section.
 
-Subsec. (c)(1). Pub. L. 95–217, § 59(d), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (c)(1). Pub. L. 95–217, § 59(d), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (f)(4). Pub. L. 95–217, § 59(e), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (f)(4). Pub. L. 95–217, § 59(e), designated existing provisions as subpar. (A) and added subpar. (B).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12231,7 +12231,7 @@ For termination of the United States District Court for the District of the Cana
 
 **Information on Type Approval Certificates**
 
-Pub. L. 119–60, div. G, title LXXIII, § 7341(a), Dec. 18, 2025, 139 Stat. 1776, provided that:
+Pub. L. 119–60, div. G, title LXXIII, § 7341(a), Dec. 18, 2025, 139 Stat. 1776, provided that:
 
 > “Unless otherwise prohibited by law, the Commandant of the Coast Guard shall, upon request by any State, the District of Columbia, any Indian Tribe, or any territory of the United States, provide all data possessed by the Coast Guard for a ballast water management system with a type approval certificate approved by the Coast Guard pursuant to subpart 162.060 of title 46, Code of Federal Regulations, as in effect on the date of enactment of the Coast Guard Authorization Act of 2025 [Dec. 18, 2025] pertaining to—
 
@@ -12245,7 +12245,7 @@ Pub. L. 119–60, div. G, title LXXIII, § 7341(a), Dec. 18, 2025, 139 Stat. 1
 
 **Purposes of 2018 Amendment; Findings**
 
-Pub. L. 115–282, title IX, § 902, Dec. 4, 2018, 132 Stat. 4322, provided that:
+Pub. L. 115–282, title IX, § 902, Dec. 4, 2018, 132 Stat. 4322, provided that:
 
 > **“(a) Purposes.—** The purposes of this title [see Short Title of 2018 Amendment note set out under section 1251 of this title] are—
 
@@ -12285,7 +12285,7 @@ Pub. L. 115–282, title IX, § 902, Dec. 4, 2018, 132 Stat. 4322, provided th
 
 **Purpose of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title III, § 325(a), Feb. 10, 1996, 110 Stat. 254, provided that:
+Pub. L. 104–106, div. A, title III, § 325(a), Feb. 10, 1996, 110 Stat. 254, provided that:
 
 > “The purposes of this section [amending this section and section 1362 of this title and enacting provisions set out as a note below] are to—
 
@@ -12297,7 +12297,7 @@ Pub. L. 104–106, div. A, title III, § 325(a), Feb. 10, 1996, 110 Stat. 254,
 
 **Cooperation in National Discharge Standards Development**
 
-Pub. L. 104–106, div. A, title III, § 325(d), Feb. 10, 1996, 110 Stat. 259, provided that:
+Pub. L. 104–106, div. A, title III, § 325(d), Feb. 10, 1996, 110 Stat. 259, provided that:
 
 > “The Administrator of the Environmental Protection Agency and the Secretary of Defense may, by mutual agreement, with or without reimbursement, provide for the use of information, reports, personnel, or other resources of the Environmental Protection Agency or the Department of Defense to carry out section 312(n) of the Federal Water Pollution Control Act [33 U.S.C. 1322(n)] (as added by subsection (b)), including the use of the resources—
 
@@ -12313,7 +12313,7 @@ Pub. L. 104–106, div. A, title III, § 325(d), Feb. 10, 1996, 110 Stat. 259,
 
 **Clean Vessels**
 
-Pub. L. 102–587, title V, subtitle F, Nov. 4, 1992, 106 Stat. 5086, as amended by Pub. L. 109–59, title X, § 10131, Aug. 10, 2005, 119 Stat. 1931, provided that:
+Pub. L. 102–587, title V, subtitle F, Nov. 4, 1992, 106 Stat. 5086, as amended by Pub. L. 109–59, title X, § 10131, Aug. 10, 2005, 119 Stat. 1931, provided that:
 
 > **“SEC. 5601. SHORT TITLE.**
 
@@ -12485,7 +12485,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 For extension of contiguous zone of United States, see Proc. No. 7219, set out as a note under section 1331 of Title 43, Public Lands.
 
-### § 1323. Federal facilities pollution control
+### § 1323. Federal facilities pollution control
 
 **(a) Compliance with pollution control requirements by Federal entities**
 
@@ -12515,7 +12515,7 @@ The payment or reimbursement of any fee, charge, or assessment described in para
 
 Each department, agency, or instrumentality of the executive, legislative, and judicial branches of the Federal Government, as described in subsection (a), shall not be obligated to pay or reimburse any fee, charge, or assessment described in paragraph (1), except to the extent and in an amount provided in advance by any appropriations Act to pay or reimburse the fee, charge, or assessment.
 
-(June 30, 1948, ch. 758, title III, § 313, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 875; amended Pub. L. 95–217, §§ 60, 61(a), Dec. 27, 1977, 91 Stat. 1597, 1598; Pub. L. 111–378, § 1, Jan. 4, 2011, 124 Stat. 4128.)
+(June 30, 1948, ch. 758, title III, § 313, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 875; amended Pub. L. 95–217, §§ 60, 61(a), Dec. 27, 1977, 91 Stat. 1597, 1598; Pub. L. 111–378, § 1, Jan. 4, 2011, 124 Stat. 4128.)
 
 **Editorial Notes**
 
@@ -12523,9 +12523,9 @@ Each department, agency, or instrumentality of the executive, legislative, and j
 
 2011—Subsec. (c). Pub. L. 111–378 added subsec. (c).
 
-1977—Subsec. (a). Pub. L. 95–217, §§ 60, 61(a), designated existing provisions as subsec. (a) and inserted provisions making officers, agents, or employees of Federal departments, agencies, or instrumentalities subject to Federal, State, interstate, and local requirements, administrative authority, process, and sanctions respecting the control and abatement of water pollution in the same manner and to the same extent as non-governmental entities, including the payment of reasonable service charges, inserted provisions covering Federal employee liability, and inserted provisions relating to military source exemptions and the issuance of regulations covering those exemptions.
+1977—Subsec. (a). Pub. L. 95–217, §§ 60, 61(a), designated existing provisions as subsec. (a) and inserted provisions making officers, agents, or employees of Federal departments, agencies, or instrumentalities subject to Federal, State, interstate, and local requirements, administrative authority, process, and sanctions respecting the control and abatement of water pollution in the same manner and to the same extent as non-governmental entities, including the payment of reasonable service charges, inserted provisions covering Federal employee liability, and inserted provisions relating to military source exemptions and the issuance of regulations covering those exemptions.
 
-Subsec. (b). Pub. L. 95–217, § 60, added subsec. (b).
+Subsec. (b). Pub. L. 95–217, § 60, added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12535,7 +12535,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Marine Guidance Systems**
 
-Pub. L. 105–383, title IV, § 425(b), Nov. 13, 1998, 112 Stat. 3441, provided that: “The Secretary of Transportation shall, within 12 months after the date of the enactment of this Act [Nov. 13, 1998], evaluate and report to the Congress on the suitability of marine sector laser lighting, cold cathode lighting, and ultraviolet enhanced vision technologies for use in guiding marine vessels and traffic.”
+Pub. L. 105–383, title IV, § 425(b), Nov. 13, 1998, 112 Stat. 3441, provided that: “The Secretary of Transportation shall, within 12 months after the date of the enactment of this Act [Nov. 13, 1998], evaluate and report to the Congress on the suitability of marine sector laser lighting, cold cathode lighting, and ultraviolet enhanced vision technologies for use in guiding marine vessels and traffic.”
 
 **Executive Documents**
 
@@ -12551,7 +12551,7 @@ Ex. Ord. No. 11258, Nov. 17, 1965, 30 F.R. 14483, which related to prevention, c
 
 Ex. Ord. No. 11288, July 2, 1966, 31 F.R. 9261, which provided for prevention, control, and abatement of water pollution from federal activities, was superseded by Ex. Ord. No. 11507, Feb. 4, 1970, 35 F.R. 2573.
 
-### § 1324. Clean lakes
+### § 1324. Clean lakes
 
 **(a) Establishment and scope of program**
 
@@ -12637,7 +12637,7 @@ The Administrator shall provide for an equitable distribution of sums appropriat
 
 The amount of any grant to a State under this subparagraph shall be in addition to, and not in lieu of, any other Federal financial assistance.
 
-(June 30, 1948, ch. 758, title III, § 314, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 875; amended Pub. L. 95–217, §§ 4(f), 62(a), Dec. 27, 1977, 91 Stat. 1567, 1598; Pub. L. 96–483, § 1(f), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, § 101(g), title III, § 315(a), (b), (d), Feb. 4, 1987, 101 Stat. 9, 49, 50, 52; Pub. L. 101–596, title III, § 302, Nov. 16, 1990, 104 Stat. 3006; Pub. L. 104–66, title II, § 2021(c), Dec. 21, 1995, 109 Stat. 727; Pub. L. 105–362, title V, § 501(b), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title VII, §§ 701, 702, Nov. 7, 2000, 114 Stat. 1976; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
+(June 30, 1948, ch. 758, title III, § 314, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 875; amended Pub. L. 95–217, §§ 4(f), 62(a), Dec. 27, 1977, 91 Stat. 1567, 1598; Pub. L. 96–483, § 1(f), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, § 101(g), title III, § 315(a), (b), (d), Feb. 4, 1987, 101 Stat. 9, 49, 50, 52; Pub. L. 101–596, title III, § 302, Nov. 16, 1990, 104 Stat. 3006; Pub. L. 104–66, title II, § 2021(c), Dec. 21, 1995, 109 Stat. 727; Pub. L. 105–362, title V, § 501(b), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title VII, §§ 701, 702, Nov. 7, 2000, 114 Stat. 1976; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
 
 **Editorial Notes**
 
@@ -12647,23 +12647,23 @@ Section 3003 of the Federal Reports Elimination and Sunset Act of 1995, referred
 
 **Amendments**
 
-2002—Subsec. (a)(3), (4). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(b). See 1998 Amendment note below.
+2002—Subsec. (a)(3), (4). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(b). See 1998 Amendment note below.
 
-2000—Subsec. (c)(2). Pub. L. 106–457, § 701, substituted “$50,000,000 for each of fiscal years 2001 through 2005” for “$50,000,000 for the fiscal year ending June 30, 1973; $100,000,000 for the fiscal year 1974; $150,000,000 for the fiscal year 1975, $50,000,000 for fiscal year 1977, $60,000,000 for fiscal year 1978, $60,000,000 for fiscal year 1979, $60,000,000 for fiscal year 1980, $30,000,000 for fiscal year 1981, $30,000,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $30,000,000 per fiscal year for each of the fiscal years 1986 through 1990”.
+2000—Subsec. (c)(2). Pub. L. 106–457, § 701, substituted “$50,000,000 for each of fiscal years 2001 through 2005” for “$50,000,000 for the fiscal year ending June 30, 1973; $100,000,000 for the fiscal year 1974; $150,000,000 for the fiscal year 1975, $50,000,000 for fiscal year 1977, $60,000,000 for fiscal year 1978, $60,000,000 for fiscal year 1979, $60,000,000 for fiscal year 1980, $30,000,000 for fiscal year 1981, $30,000,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $30,000,000 per fiscal year for each of the fiscal years 1986 through 1990”.
 
-Subsec. (d)(2). Pub. L. 106–457, § 702(1), inserted “Otsego Lake, New York; Oneida Lake, New York; Raystown Lake, Pennsylvania; Swan Lake, Itasca County, Minnesota; Walker Lake, Nevada; Lake Tahoe, California and Nevada; Ten Mile Lakes, Oregon; Woahink Lake, Oregon; Highland Lake, Connecticut; Lily Lake, New Jersey; Strawbridge Lake, New Jersey; Baboosic Lake, New Hampshire; French Pond, New Hampshire; Dillon Reservoir, Ohio; Tohopekaliga Lake, Florida; Lake Apopka, Florida; Lake George, New York; Lake Wallenpaupack, Pennsylvania; Lake Allatoona, Georgia;” after “Sauk Lake, Minnesota;”.
+Subsec. (d)(2). Pub. L. 106–457, § 702(1), inserted “Otsego Lake, New York; Oneida Lake, New York; Raystown Lake, Pennsylvania; Swan Lake, Itasca County, Minnesota; Walker Lake, Nevada; Lake Tahoe, California and Nevada; Ten Mile Lakes, Oregon; Woahink Lake, Oregon; Highland Lake, Connecticut; Lily Lake, New Jersey; Strawbridge Lake, New Jersey; Baboosic Lake, New Hampshire; French Pond, New Hampshire; Dillon Reservoir, Ohio; Tohopekaliga Lake, Florida; Lake Apopka, Florida; Lake George, New York; Lake Wallenpaupack, Pennsylvania; Lake Allatoona, Georgia;” after “Sauk Lake, Minnesota;”.
 
-Subsec. (d)(3). Pub. L. 106–457, § 702(2), substituted “Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note; 109 Stat. 734–736), by” for “By”.
+Subsec. (d)(3). Pub. L. 106–457, § 702(2), substituted “Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note; 109 Stat. 734–736), by” for “By”.
 
-Subsec. (d)(4)(B)(i). Pub. L. 106–457, § 702(3), substituted “$25,000,000” for “$15,000,000”.
+Subsec. (d)(4)(B)(i). Pub. L. 106–457, § 702(3), substituted “$25,000,000” for “$15,000,000”.
 
-1998—Subsec. (a)(3), (4). Pub. L. 105–362, § 501(b), which directed the redesignation of par. (4) as (3) and striking out of heading and text of par. (3), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+1998—Subsec. (a)(3), (4). Pub. L. 105–362, § 501(b), which directed the redesignation of par. (4) as (3) and striking out of heading and text of par. (3), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
 1995—Subsec. (d)(3). Pub. L. 104–66 substituted “By January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall report to the Committee on Transportation and Infrastructure” for “The Administrator shall report annually to the Committee on Public Works and Transportation”.
 
 1990—Subsec. (d)(2). Pub. L. 101–596 inserted “Lake Champlain, New York and Vermont;” before “Lake Houston, Texas”.
 
-1987—Subsec. (a). Pub. L. 100–4, § 315(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each State shall prepare or establish, and submit to the Administrator for his approval—
+1987—Subsec. (a). Pub. L. 100–4, § 315(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each State shall prepare or establish, and submit to the Administrator for his approval—
 
 “(1) an identification and classification according to eutrophic condition of all publicly owned fresh water lakes in such State;
 
@@ -12671,19 +12671,19 @@ Subsec. (d)(4)(B)(i). Pub. L. 106–457, § 702(3), substituted “$25,000,000
 
 “(3) methods and procedures, in conjunction with appropriate Federal agencies, to restore the quality of such lakes.”
 
-Subsec. (b). Pub. L. 100–4, § 315(d)(1), substituted “subsection (a) of this section” for “this section” in first sentence.
+Subsec. (b). Pub. L. 100–4, § 315(d)(1), substituted “subsection (a) of this section” for “this section” in first sentence.
 
-Subsec. (c)(1). Pub. L. 100–4, § 315(d)(2), substituted “subsection (b) of this section” for first reference to “this section” and “subsection (a) of this section” for second reference to “this section”.
+Subsec. (c)(1). Pub. L. 100–4, § 315(d)(2), substituted “subsection (b) of this section” for first reference to “this section” and “subsection (a) of this section” for second reference to “this section”.
 
-Subsec. (c)(2). Pub. L. 100–4, §§ 101(g), 315(d)(3), struck out “and” after “1981,” and inserted “, such sums as may be necessary for fiscal years 1983 through 1985, and $30,000,000 per fiscal year for each of the fiscal years 1986 through 1990” after “1982”, and substituted “subsection (b) of this section” for first reference to “this section” and “subsection (a) of this section” for second reference to “this section”.
+Subsec. (c)(2). Pub. L. 100–4, §§ 101(g), 315(d)(3), struck out “and” after “1981,” and inserted “, such sums as may be necessary for fiscal years 1983 through 1985, and $30,000,000 per fiscal year for each of the fiscal years 1986 through 1990” after “1982”, and substituted “subsection (b) of this section” for first reference to “this section” and “subsection (a) of this section” for second reference to “this section”.
 
-Subsec. (d). Pub. L. 100–4, § 315(b), added subsec. (d).
+Subsec. (d). Pub. L. 100–4, § 315(b), added subsec. (d).
 
 1980—Subsec. (c)(2). Pub. L. 96–483 inserted authorization of $30,000,000 for each of fiscal years 1981 and 1982.
 
-1977—Subsec. (b). Pub. L. 95–217, § 62(a), inserted provision directing the Administrator to provide financial assistance to States to prepare the identification and classification surveys required in subsec. (a)(1) of this section.
+1977—Subsec. (b). Pub. L. 95–217, § 62(a), inserted provision directing the Administrator to provide financial assistance to States to prepare the identification and classification surveys required in subsec. (a)(1) of this section.
 
-Subsec. (c)(2). Pub. L. 95–217, § 4(f), substituted “$150,000,000 for the fiscal year 1975, $50,000,000 for fiscal year 1977, $60,000,000 for fiscal year 1978, $60,000,000 for fiscal year 1979, and $60,000,000 for fiscal year 1980” for “and $150,000,000 for the fiscal year 1975”.
+Subsec. (c)(2). Pub. L. 95–217, § 4(f), substituted “$150,000,000 for the fiscal year 1975, $50,000,000 for fiscal year 1977, $60,000,000 for fiscal year 1978, $60,000,000 for fiscal year 1979, and $60,000,000 for fiscal year 1980” for “and $150,000,000 for the fiscal year 1975”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12691,7 +12691,7 @@ Subsec. (c)(2). Pub. L. 95–217, § 4(f), substituted “$150,000,000 for the
 
 Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
 
-### § 1325. National Study Commission
+### § 1325. National Study Commission
 
 **(a) Establishment**
 
@@ -12719,9 +12719,9 @@ The members of the Commission who are not officers or employees of the United St
 
 **(g) Appointment of personnel**
 
-In addition to authority to appoint personnel subject to the provisions of title 5 governing appointments in the competitive service, and to pay such personnel in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, the Commission shall have authority to enter into contracts with private or public organizations who shall furnish the Commission with such administrative and technical personnel as may be necessary to carry out the purpose of this section. Personnel furnished by such organizations under this subsection are not, and shall not be considered to be, Federal employees for any purposes, but in the performance of their duties shall be guided by the standards which apply to employees of the legislative branches under rules 41 and 43 1
+In addition to authority to appoint personnel subject to the provisions of title 5 governing appointments in the competitive service, and to pay such personnel in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, the Commission shall have authority to enter into contracts with private or public organizations who shall furnish the Commission with such administrative and technical personnel as may be necessary to carry out the purpose of this section. Personnel furnished by such organizations under this subsection are not, and shall not be considered to be, Federal employees for any purposes, but in the performance of their duties shall be guided by the standards which apply to employees of the legislative branches under rules 41 and 43 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Senate and House of Representatives, respectively.
 
@@ -12729,7 +12729,7 @@ of the Senate and House of Representatives, respectively.
 
 There is authorized to be appropriated, for use in carrying out this section, not to exceed $17,250,000.
 
-(June 30, 1948, ch. 758, title III, § 315, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 875; amended Pub. L. 93–207, § 1(5), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, § 5, Jan. 2, 1975, 88 Stat. 1925; Pub. L. 94–238, Mar. 23, 1976, 90 Stat. 250; H. Res. 988, Oct. 8, 1974; S. Res. 4, Feb. 4, 1977.)
+(June 30, 1948, ch. 758, title III, § 315, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 875; amended Pub. L. 93–207, § 1(5), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, § 5, Jan. 2, 1975, 88 Stat. 1925; Pub. L. 94–238, Mar. 23, 1976, 90 Stat. 250; H. Res. 988, Oct. 8, 1974; S. Res. 4, Feb. 4, 1977.)
 
 **Editorial Notes**
 
@@ -12759,9 +12759,9 @@ Committee on Public Works of House of Representatives changed to Committee on Pu
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 1326. Thermal discharges
+### § 1326. Thermal discharges
 
 **(a) Effluent limitations that will assure protection and propagation of balanced, indigenous population of shellfish, fish, and wildlife**
 
@@ -12775,7 +12775,7 @@ Any standard established pursuant to section 1311 of this title or section 1316 
 
 Notwithstanding any other provision of this chapter, any point source of a discharge having a thermal component, the modification of which point source is commenced after October 18, 1972, and which, as modified, meets effluent limitations established under section 1311 of this title or, if more stringent, effluent limitations established under section 1313 of this title and which effluent limitations will assure protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife in or on the water into which the discharge is made, shall not be subject to any more stringent effluent limitation with respect to the thermal component of its discharge during a ten year period beginning on the date of completion of such modification or during the period of depreciation or amortization of such facility for the purpose of section 167 or 169 (or both) of title 26, whichever period ends first.
 
-(June 30, 1948, ch. 758, title III, § 316, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 876; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(June 30, 1948, ch. 758, title III, § 316, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 876; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Editorial Notes**
 
@@ -12783,15 +12783,15 @@ Notwithstanding any other provision of this chapter, any point source of a disch
 
 1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-### § 1327. Omitted
+### § 1327. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 30, 1948, ch. 758, title III, § 317, as added Oct. 18, 1972, Pub. L. 92–500, § 2, 86 Stat. 877, authorized Administrator to investigate and study feasibility of alternate methods of financing cost of preventing, controlling, and abating pollution as directed by Water Quality Improvement Act of 1970 and to report to Congress, not later than two years after Oct. 18, 1972, the results of investigation and study accompanied by recommendations for financing these programs for fiscal years beginning after 1976.
+Section, act June 30, 1948, ch. 758, title III, § 317, as added Oct. 18, 1972, Pub. L. 92–500, § 2, 86 Stat. 877, authorized Administrator to investigate and study feasibility of alternate methods of financing cost of preventing, controlling, and abating pollution as directed by Water Quality Improvement Act of 1970 and to report to Congress, not later than two years after Oct. 18, 1972, the results of investigation and study accompanied by recommendations for financing these programs for fiscal years beginning after 1976.
 
-### § 1328. Aquaculture
+### § 1328. Aquaculture
 
 **(a) Authority to permit discharge of specific pollutants**
 
@@ -12805,7 +12805,7 @@ The Administrator shall by regulation establish any procedures and guidelines wh
 
 Each State desiring to administer its own permit program within its jurisdiction for discharge of a specific pollutant or pollutants under controlled conditions associated with an approved aquaculture project may do so if upon submission of such program the Administrator determines such program is adequate to carry out the objective of this chapter.
 
-(June 30, 1948, ch. 758, title III, § 318, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 877; amended Pub. L. 95–217, § 63, Dec. 27, 1977, 91 Stat. 1599.)
+(June 30, 1948, ch. 758, title III, § 318, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 877; amended Pub. L. 95–217, § 63, Dec. 27, 1977, 91 Stat. 1599.)
 
 **Editorial Notes**
 
@@ -12813,11 +12813,11 @@ Each State desiring to administer its own permit program within its jurisdiction
 
 1977—Subsec. (a). Pub. L. 95–217 inserted “pursuant to section 1342 of this title” after “Federal or State supervision”.
 
-Subsec. (b). Pub. L. 95–217 struck out “, not later than January 1, 1974,” after “The Administrator shall by regulation” in existing provisions and inserted provisions that the regulations require the application to the discharge of each criterion, factor, procedure, and requirement applicable to a permit issued under section 1342 of this title, as the Administrator determines necessary to carry out the objectives of this chapter.
+Subsec. (b). Pub. L. 95–217 struck out “, not later than January 1, 1974,” after “The Administrator shall by regulation” in existing provisions and inserted provisions that the regulations require the application to the discharge of each criterion, factor, procedure, and requirement applicable to a permit issued under section 1342 of this title, as the Administrator determines necessary to carry out the objectives of this chapter.
 
 Subsec. (c). Pub. L. 95–217 added subsec. (c).
 
-### § 1329. Nonpoint source management programs
+### § 1329. Nonpoint source management programs
 
 **(a) State assessment reports**
 
@@ -13025,7 +13025,7 @@ Not later than January 1, 1988, and each January 1 thereafter, the Administrator
 
 Not less than 5 percent of the funds appropriated pursuant to subsection (j) for any fiscal year shall be available to the Administrator to maintain personnel levels at the Environmental Protection Agency at levels which are adequate to carry out this section in such year.
 
-(June 30, 1948, ch. 758, title III, § 319, as added Pub. L. 100–4, title III, § 316(a), Feb. 4, 1987, 101 Stat. 52; amended Pub. L. 105–362, title V, § 501(c), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 117–263, div. H, title LXXXV, § 8502, Dec. 23, 2022, 136 Stat. 3856.)
+(June 30, 1948, ch. 758, title III, § 319, as added Pub. L. 100–4, title III, § 316(a), Feb. 4, 1987, 101 Stat. 52; amended Pub. L. 105–362, title V, § 501(c), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 117–263, div. H, title LXXXV, § 8502, Dec. 23, 2022, 136 Stat. 3856.)
 
 **Editorial Notes**
 
@@ -13033,17 +13033,17 @@ Not less than 5 percent of the funds appropriated pursuant to subsection (j) for
 
 Executive Order 12372, referred to in subsecs. (b)(2)(F) and (k), is Ex. Ord. No. 12372, July 14, 1982, 47 F.R. 30959, as amended, which is set out under section 6506 of Title 31, Money and Finance.
 
-The Colorado River Basin Salinity Control Act, referred to in subsec. (g)(1), is Pub. L. 93–320, June 24, 1974, 88 Stat. 266, which is classified principally to chapter 32A (§ 1571 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1571 of Title 43 and Tables.
+The Colorado River Basin Salinity Control Act, referred to in subsec. (g)(1), is Pub. L. 93–320, June 24, 1974, 88 Stat. 266, which is classified principally to chapter 32A (§ 1571 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1571 of Title 43 and Tables.
 
 **Amendments**
 
 2022—Subsec. (j). Pub. L. 117–263 substituted “subsections (h) and (i) $200,000,000 for each of fiscal years 2023 through 2027” for “subsections (h) and (i) not to exceed $70,000,000 for fiscal year 1988, $100,000,000 per fiscal year for each of fiscal years 1989 and 1990, and $130,000,000 for fiscal year 1991”.
 
-2002—Subsecs. (i)(4), (m), (n). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(c). See 1998 Amendment note below.
+2002—Subsecs. (i)(4), (m), (n). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(c). See 1998 Amendment note below.
 
-1998—Subsec. (i)(4). Pub. L. 105–362, § 501(c)(1), which directed the striking out of heading and text of par. (4), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+1998—Subsec. (i)(4). Pub. L. 105–362, § 501(c)(1), which directed the striking out of heading and text of par. (4), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
-Subsecs. (m), (n). Pub. L. 105–362, § 501(c)(2), (3), which directed the redesignation of subsec. (n) as (m) and striking out of heading and text of former subsec. (m), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+Subsecs. (m), (n). Pub. L. 105–362, § 501(c)(2), (3), which directed the redesignation of subsec. (n) as (m) and striking out of heading and text of former subsec. (m), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -13055,7 +13055,7 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
 
-### § 1330. National estuary program
+### § 1330. National estuary program
 
 **(a) Management conference**
 
@@ -13229,7 +13229,7 @@ Not less than 15 percent of the amount made available under this subsection for 
 
 For purposes of this section, the terms “estuary” and “estuarine zone” have the meanings such terms have in section 1254(n)(4) of this title, except that the term “estuarine zone” shall also include associated aquatic ecosystems and those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
 
-(June 30, 1948, ch. 758, title III, § 320, as added Pub. L. 100–4, title III, § 317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, § 101(f) [title II, 201], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, § 1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, § 2001, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 105–362, title V, § 501(a)(2), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title III, §§ 301—303, Nov. 7, 2000, 114 Stat. 1972; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 108–399, § 1, Oct. 30, 2004, 118 Stat. 2253; Pub. L. 114–162, §§ 1, 2, May 20, 2016, 130 Stat. 409; Pub. L. 116–337, §§ 2–6, Jan. 13, 2021, 134 Stat. 5120, 5121; Pub. L. 118–152, § 2, Dec. 17, 2024, 138 Stat. 1686.)
+(June 30, 1948, ch. 758, title III, § 320, as added Pub. L. 100–4, title III, § 317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, § 101(f) [title II, 201], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, § 1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, § 2001, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 105–362, title V, § 501(a)(2), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title III, §§ 301—303, Nov. 7, 2000, 114 Stat. 1972; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 108–399, § 1, Oct. 30, 2004, 118 Stat. 2253; Pub. L. 114–162, §§ 1, 2, May 20, 2016, 130 Stat. 409; Pub. L. 116–337, §§ 2–6, Jan. 13, 2021, 134 Stat. 5120, 5121; Pub. L. 118–152, § 2, Dec. 17, 2024, 138 Stat. 1686.)
 
 **Editorial Notes**
 
@@ -13241,47 +13241,47 @@ Executive Order 12372, referred to in subsec. (b), is Ex. Ord. No. 12372, July 1
 
 2024—Subsec. (a)(2)(B). Pub. L. 118–152 substituted “Lower Columbia River, Oregon and Washington; and Pensacola and Perdido Bays, Florida” for “and Lower Columbia River, Oregon and Washington”.
 
-2021—Subsec. (a)(2)(B). Pub. L. 116–337, § 2, substituted “Peconic Bay, New York; Casco Bay, Maine; Tampa Bay, Florida; Coastal Bend, Texas; San Juan Bay, Puerto Rico; Tillamook Bay, Oregon; Piscataqua Region, New Hampshire; Barnegat Bay, New Jersey; Maryland Coastal Bays, Maryland; Charlotte Harbor, Florida; Mobile Bay, Alabama; Morro Bay, California; and Lower Columbia River, Oregon and Washington” for “and Peconic Bay, New York”.
+2021—Subsec. (a)(2)(B). Pub. L. 116–337, § 2, substituted “Peconic Bay, New York; Casco Bay, Maine; Tampa Bay, Florida; Coastal Bend, Texas; San Juan Bay, Puerto Rico; Tillamook Bay, Oregon; Piscataqua Region, New Hampshire; Barnegat Bay, New Jersey; Maryland Coastal Bays, Maryland; Charlotte Harbor, Florida; Mobile Bay, Alabama; Morro Bay, California; and Lower Columbia River, Oregon and Washington” for “and Peconic Bay, New York”.
 
-Subsec. (b)(4). Pub. L. 116–337, § 3, inserted dash after “management plan that” and subpar. (A) designation before “recommends” and added subpars. (B) and (C).
+Subsec. (b)(4). Pub. L. 116–337, § 3, inserted dash after “management plan that” and subpar. (A) designation before “recommends” and added subpars. (B) and (C).
 
-Subsec. (c)(5). Pub. L. 116–337, § 4, inserted “nonprofit organizations,” after “educational institutions,”.
+Subsec. (c)(5). Pub. L. 116–337, § 4, inserted “nonprofit organizations,” after “educational institutions,”.
 
-Subsec. (g)(4)(C). Pub. L. 116–337, § 5(1), in introductory provisions, inserted “, emerging,” after “urgent” and substituted “the estuaries selected by the Administrator under subsection (a)(2), or that relate to the coastal resiliency of such estuaries” for “coastal areas”.
+Subsec. (g)(4)(C). Pub. L. 116–337, § 5(1), in introductory provisions, inserted “, emerging,” after “urgent” and substituted “the estuaries selected by the Administrator under subsection (a)(2), or that relate to the coastal resiliency of such estuaries” for “coastal areas”.
 
-Subsec. (g)(4)(C)(vi), (vii). Pub. L. 116–337, § 5(2), added cls. (vi) and (vii). Former cls. (vi) and (vii) redesignated (viii) and (ix), respectively.
+Subsec. (g)(4)(C)(vi), (vii). Pub. L. 116–337, § 5(2), added cls. (vi) and (vii). Former cls. (vi) and (vii) redesignated (viii) and (ix), respectively.
 
-Subsec. (g)(4)(C)(viii). Pub. L. 116–337, § 5(2), (3), redesignated cl. (vi) as (viii) and inserted “, extreme weather,” after “sea level rise”.
+Subsec. (g)(4)(C)(viii). Pub. L. 116–337, § 5(2), (3), redesignated cl. (vi) as (viii) and inserted “, extreme weather,” after “sea level rise”.
 
-Subsec. (g)(4)(C)(ix). Pub. L. 116–337, § 5(2), redesignated cl. (vii) as (ix).
+Subsec. (g)(4)(C)(ix). Pub. L. 116–337, § 5(2), redesignated cl. (vii) as (ix).
 
-Subsec. (i)(1). Pub. L. 116–337, § 6, inserted “, and $50,000,000 for each of fiscal years 2022 through 2026,” after “2021”.
+Subsec. (i)(1). Pub. L. 116–337, § 6, inserted “, and $50,000,000 for each of fiscal years 2022 through 2026,” after “2021”.
 
-2016—Subsec. (g)(4). Pub. L. 114–162, § 1, added par. (4).
+2016—Subsec. (g)(4). Pub. L. 114–162, § 1, added par. (4).
 
-Subsec. (i). Pub. L. 114–162, § 2, added subsec. (i) and struck out former subsec. (i) which related to authorization of appropriations for fiscal years 2001 through 2010.
+Subsec. (i). Pub. L. 114–162, § 2, added subsec. (i) and struck out former subsec. (i) which related to authorization of appropriations for fiscal years 2001 through 2010.
 
 2004—Subsec. (i). Pub. L. 108–399 substituted “2010” for “2005” in introductory provisions.
 
-2002—Subsec. (k). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(a)(2). See 1998 Amendment note below.
+2002—Subsec. (k). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(a)(2). See 1998 Amendment note below.
 
-2000—Subsec. (a)(2)(B). Pub. L. 106–457, § 301, inserted “Lake Pontchartrain Basin, Louisiana and Mississippi;” before “and Peconic Bay, New York.”
+2000—Subsec. (a)(2)(B). Pub. L. 106–457, § 301, inserted “Lake Pontchartrain Basin, Louisiana and Mississippi;” before “and Peconic Bay, New York.”
 
-Subsec. (g)(2), (3). Pub. L. 106–457, § 302, added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+Subsec. (g)(2), (3). Pub. L. 106–457, § 302, added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
 “(2) Purposes.—Grants under this subsection shall be made to pay for assisting research, surveys, studies, and modeling and other technical work necessary for the development of a conservation and management plan under this section.
 
 “(3) Federal share.—The amount of grants to any person (including a State, interstate, or regional agency or entity) under this subsection for a fiscal year shall not exceed 75 percent of the costs of such research, survey, studies, and work and shall be made on condition that the non-Federal share of such costs are provided from non-Federal sources.”
 
-Subsec. (i). Pub. L. 106–457, § 303, substituted “$35,000,000 for each of fiscal years 2001 through 2005” for “$12,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991”.
+Subsec. (i). Pub. L. 106–457, § 303, substituted “$35,000,000 for each of fiscal years 2001 through 2005” for “$12,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991”.
 
-1998—Subsec. (k). Pub. L. 105–362, § 501(a)(2), which directed the substitution of “section 1254(n)(3)” for “section 1254(n)(4)”, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+1998—Subsec. (k). Pub. L. 105–362, § 501(a)(2), which directed the substitution of “section 1254(n)(3)” for “section 1254(n)(4)”, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
-1988—Subsec. (a)(2)(B). Pub. L. 100–653, § 1004, and Pub. L. 100–688, § 2001(1), made identical amendments, inserting “Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor);” after “Buzzards Bay, Massachusetts;”.
+1988—Subsec. (a)(2)(B). Pub. L. 100–653, § 1004, and Pub. L. 100–688, § 2001(1), made identical amendments, inserting “Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor);” after “Buzzards Bay, Massachusetts;”.
 
-Pub. L. 100–688, § 2001(2), substituted “California; Galveston” for “California; and Galveston”.
+Pub. L. 100–688, § 2001(2), substituted “California; Galveston” for “California; and Galveston”.
 
-Pub. L. 100–688, § 2001(3), which directed insertion of “; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; and Peconic Bay, New York” after “Galveston Bay, Texas;” was executed by making insertion after “Galveston Bay, Texas” as probable intent of Congress.
+Pub. L. 100–688, § 2001(3), which directed insertion of “; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; and Peconic Bay, New York” after “Galveston Bay, Texas;” was executed by making insertion after “Galveston Bay, Texas” as probable intent of Congress.
 
 1987—Subsec. (a)(2)(B). Pub. L. 100–202 inserted “Santa Monica Bay, California;”.
 
@@ -13293,7 +13293,7 @@ Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollut
 
 **Massachusetts Bay Protection; Definition; Findings and Purpose; Funding Sources**
 
-Pub. L. 100–653, title X, §§ 1002, 1003, 1005, Nov. 14, 1988, 102 Stat. 3835, 3836, provided that:
+Pub. L. 100–653, title X, §§ 1002, 1003, 1005, Nov. 14, 1988, 102 Stat. 3835, 3836, provided that:
 
 > **“SEC. 1002. DEFINITION.**
 
@@ -13329,7 +13329,7 @@ Pub. L. 100–653, title X, §§ 1002, 1003, 1005, Nov. 14, 1988, 102 Stat. 38
 
 **Purposes and Policies of National Estuary Program**
 
-Pub. L. 100–4, title III, § 317(a), Feb. 4, 1987, 101 Stat. 61, provided that:
+Pub. L. 100–4, title III, § 317(a), Feb. 4, 1987, 101 Stat. 61, provided that:
 
 > **“(1) Findings.—** Congress finds and declares that—
 
@@ -13355,7 +13355,7 @@ Pub. L. 100–4, title III, § 317(a), Feb. 4, 1987, 101 Stat. 61, provided th
 
 ## SUBCHAPTER IV—PERMITS AND LICENSES
 
-### § 1341. Certification
+### § 1341. Certification
 
 **(a) Compliance with applicable requirements; application; procedures; license suspension**
 
@@ -13383,7 +13383,7 @@ In order to implement the provisions of this section, the Secretary of the Army,
 
 Any certification provided under this section shall set forth any effluent limitations and other limitations, and monitoring requirements necessary to assure that any applicant for a Federal license or permit will comply with any applicable effluent limitations and other limitations, under section 1311 or 1312 of this title, standard of performance under section 1316 of this title, or prohibition, effluent standard, or pretreatment standard under section 1317 of this title, and with any other appropriate requirement of State law set forth in such certification, and shall become a condition on any Federal license or permit subject to the provisions of this section.
 
-(June 30, 1948, ch. 758, title IV, § 401, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 877; amended Pub. L. 95–217, §§ 61(b), 64, Dec. 27, 1977, 91 Stat. 1598, 1599.)
+(June 30, 1948, ch. 758, title IV, § 401, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 877; amended Pub. L. 95–217, §§ 61(b), 64, Dec. 27, 1977, 91 Stat. 1598, 1599.)
 
 **Editorial Notes**
 
@@ -13391,7 +13391,7 @@ Any certification provided under this section shall set forth any effluent limit
 
 1977—Subsec. (a). Pub. L. 95–217 inserted reference to section 1313 of this title in pars. (1), (3), (4), and (5), struck out par. (6) which provided that no Federal agency be deemed an applicant for purposes of this subsection, and redesignated par. (7) as (6).
 
-### § 1342. National pollutant discharge elimination system
+### § 1342. National pollutant discharge elimination system
 
 **(a) Permits for discharge of pollutants**
 
@@ -13511,15 +13511,15 @@ The Administrator shall not require a permit under this section, nor shall the A
 
 **(B) Other requirements.—** Nothing in this paragraph exempts a discharge from silvicultural activity from any permitting requirement under section 1344 of this title, existing permitting requirements under section 1342 of this title, or from any other federal law.
 
-**(C)** The authorization provided in Section 1
+**(C)** The authorization provided in Section 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
-1365(a) of this title does not apply to any non-permitting program established under 1342(p)(6) 2
+1365(a) of this title does not apply to any non-permitting program established under 1342(p)(6) 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “section”.
+<sup>2</sup> So in original. Probably should be preceded by “section”.
 
-of this title for the silviculture activities listed in 1342(*l*)(3)(A) 2 of this title, or to any other limitations that might be deemed to apply to the silviculture activities listed in 1342(*l*)(3)(A) 2 of this title.
+of this title for the silviculture activities listed in 1342(*l*)(3)(A) 2 of this title, or to any other limitations that might be deemed to apply to the silviculture activities listed in 1342(*l*)(3)(A) 2 of this title.
 
 **(m) Additional pretreatment of conventional pollutants not required**
 
@@ -13715,7 +13715,7 @@ Nothing in section 1311(b)(1)(C) of this title precludes a State from authorizin
 
 In any case in which a discharge is subject to a judicial order or consent decree, as of January 14, 2019, resolving an enforcement action under this chapter, any schedule of compliance issued pursuant to an authorization in a State water quality standard may not revise a schedule of compliance in that order or decree to be less stringent, unless the order or decree is modified by agreement of the parties and the court.
 
-(June 30, 1948, ch. 758, title IV, § 402, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 880; amended Pub. L. 95–217, §§ 33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, 91 Stat. 1577, 1588, 1591, 1599, 1600; Pub. L. 100–4, title IV, §§ 401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, 101 Stat. 65–67, 69, renumbered § 404(c), Pub. L. 104–66, title II, § 2021(e)(2), Dec. 21, 1995, 109 Stat. 727; Pub. L. 102–580, title III, § 364, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 112(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–224; Pub. L. 110–288, § 2, July 29, 2008, 122 Stat. 2650; Pub. L. 113–79, title XII, § 12313, Feb. 7, 2014, 128 Stat. 992; Pub. L. 115–436, § 3(a), Jan. 14, 2019, 132 Stat. 5558.)
+(June 30, 1948, ch. 758, title IV, § 402, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 880; amended Pub. L. 95–217, §§ 33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, 91 Stat. 1577, 1588, 1591, 1599, 1600; Pub. L. 100–4, title IV, §§ 401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, 101 Stat. 65–67, 69, renumbered § 404(c), Pub. L. 104–66, title II, § 2021(e)(2), Dec. 21, 1995, 109 Stat. 727; Pub. L. 102–580, title III, § 364, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 112(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–224; Pub. L. 110–288, § 2, July 29, 2008, 122 Stat. 2650; Pub. L. 113–79, title XII, § 12313, Feb. 7, 2014, 128 Stat. 992; Pub. L. 115–436, § 3(a), Jan. 14, 2019, 132 Stat. 5558.)
 
 **Editorial Notes**
 
@@ -13731,33 +13731,33 @@ In any case in which a discharge is subject to a judicial order or consent decre
 
 1992—Subsec. (p)(1), (6). Pub. L. 102–580 substituted “October 1, 1994” for “October 1, 1992” in par. (1) and “October 1, 1993” for “October 1, 1992” in par. (6).
 
-1987—Subsec. (a)(1). Pub. L. 100–4, § 404(c), inserted cl. (A) and (B) designations.
+1987—Subsec. (a)(1). Pub. L. 100–4, § 404(c), inserted cl. (A) and (B) designations.
 
-Subsec. (c)(1). Pub. L. 100–4, § 403(b)(2), substituted “as to those discharges” for “as to those navigable waters”.
+Subsec. (c)(1). Pub. L. 100–4, § 403(b)(2), substituted “as to those discharges” for “as to those navigable waters”.
 
-Subsec. (c)(4). Pub. L. 100–4, § 403(b)(1), added par. (4).
+Subsec. (c)(4). Pub. L. 100–4, § 403(b)(1), added par. (4).
 
-Subsec. (*l*). Pub. L. 100–4, § 401, inserted “Limitation on permit requirement” as subsec. heading designated existing provisions as par. (1) and inserted par. heading, added par. (2), and aligned pars. (1) and (2).
+Subsec. (*l*). Pub. L. 100–4, § 401, inserted “Limitation on permit requirement” as subsec. heading designated existing provisions as par. (1) and inserted par. heading, added par. (2), and aligned pars. (1) and (2).
 
-Subsecs. (m) to (p). Pub. L. 100–4, §§ 402, 403(a), 404(a), 405, added subsecs. (m) to (p).
+Subsecs. (m) to (p). Pub. L. 100–4, §§ 402, 403(a), 404(a), 405, added subsecs. (m) to (p).
 
-1977—Subsec. (a)(5). Pub. L. 95–217, § 50, substituted “section 1314(i)(2)” for “section 1314(h)(2)”.
+1977—Subsec. (a)(5). Pub. L. 95–217, § 50, substituted “section 1314(i)(2)” for “section 1314(h)(2)”.
 
-Subsec. (b). Pub. L. 95–217, § 50, substituted in provisions preceding par. (1) “subsection (i)(2) of section 1314” for “subsection (h)(2) of section 1314”.
+Subsec. (b). Pub. L. 95–217, § 50, substituted in provisions preceding par. (1) “subsection (i)(2) of section 1314” for “subsection (h)(2) of section 1314”.
 
-Subsec. (b)(8). Pub. L. 95–217, § 54(c)(1), inserted reference to identification in terms of character and volume of pollutants of any significant source introducing pollutants subject to pretreatment standards under section 1317(b) of this title into treatment works and programs to assure compliance with pretreatment standards by each source.
+Subsec. (b)(8). Pub. L. 95–217, § 54(c)(1), inserted reference to identification in terms of character and volume of pollutants of any significant source introducing pollutants subject to pretreatment standards under section 1317(b) of this title into treatment works and programs to assure compliance with pretreatment standards by each source.
 
-Subsec. (c)(1), (2). Pub. L. 95–217, § 50, substituted “section 1314(i)(2)” for “section 1314(h)(2)”.
+Subsec. (c)(1), (2). Pub. L. 95–217, § 50, substituted “section 1314(i)(2)” for “section 1314(h)(2)”.
 
-Subsec. (d)(2). Pub. L. 95–217, § 65(b), inserted provision requiring that, whenever the Administrator objects to the issuance of a permit under subsec. (d)(2) of this section, the written objection contain a statement of the reasons for the objection and the effluent limitations and conditions which the permit would include if it were issued by the Administrator.
+Subsec. (d)(2). Pub. L. 95–217, § 65(b), inserted provision requiring that, whenever the Administrator objects to the issuance of a permit under subsec. (d)(2) of this section, the written objection contain a statement of the reasons for the objection and the effluent limitations and conditions which the permit would include if it were issued by the Administrator.
 
-Subsec. (d)(4). Pub. L. 95–217, § 65(a), added par. (4).
+Subsec. (d)(4). Pub. L. 95–217, § 65(a), added par. (4).
 
-Subsec. (e). Pub. L. 95–217, § 50, substituted “subsection (i)(2) of section 1314” for “subsection (h)(2) of section 1314”.
+Subsec. (e). Pub. L. 95–217, § 50, substituted “subsection (i)(2) of section 1314” for “subsection (h)(2) of section 1314”.
 
-Subsec. (h). Pub. L. 95–217, § 66, substituted “where no State program is approved or where the Administrator determines pursuant to section 1319(a) of this title that a State with an approved program has not commenced appropriate enforcement action with respect to such permit,” for “where no State program is approved,”.
+Subsec. (h). Pub. L. 95–217, § 66, substituted “where no State program is approved or where the Administrator determines pursuant to section 1319(a) of this title that a State with an approved program has not commenced appropriate enforcement action with respect to such permit,” for “where no State program is approved,”.
 
-Subsec. (*l*). Pub. L. 95–217, § 33(c), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 95–217, § 33(c), added subsec. (*l*).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -13767,11 +13767,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Permit Requirements for Discharges From Certain Vessels**
 
-Pub. L. 110–299, §§ 1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, § 1, July 30, 2010, 124 Stat. 2347; Pub. L. 112–213, title VII, § 703, Dec. 20, 2012, 126 Stat. 1580; Pub. L. 113–281, title VI, § 602, Dec. 18, 2014, 128 Stat. 3061; Pub. L. 115–100, § 1, Jan. 3, 2018, 131 Stat. 2245, which exempted from permit requirements, for the period from July 31, 2008, through Jan. 19, 2018, discharges incidental to the normal operation of vessels, subject to certain exceptions, was repealed by Pub. L. 115–282, title IX, § 903(a)(2)(A)(ii), Dec. 4, 2018, 132 Stat. 4354.
+Pub. L. 110–299, §§ 1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, § 1, July 30, 2010, 124 Stat. 2347; Pub. L. 112–213, title VII, § 703, Dec. 20, 2012, 126 Stat. 1580; Pub. L. 113–281, title VI, § 602, Dec. 18, 2014, 128 Stat. 3061; Pub. L. 115–100, § 1, Jan. 3, 2018, 131 Stat. 2245, which exempted from permit requirements, for the period from July 31, 2008, through Jan. 19, 2018, discharges incidental to the normal operation of vessels, subject to certain exceptions, was repealed by Pub. L. 115–282, title IX, § 903(a)(2)(A)(ii), Dec. 4, 2018, 132 Stat. 4354.
 
 **Stormwater Permit Requirements**
 
-Pub. L. 102–240, title I, § 1068, Dec. 18, 1991, 105 Stat. 2007, provided that:
+Pub. L. 102–240, title I, § 1068, Dec. 18, 1991, 105 Stat. 2007, provided that:
 
 > **“(a) General Rule.—** Notwithstanding the requirements of sections 402(p)(2)(B), (C), and (D) of the Federal Water Pollution Control Act [33 U.S.C. 1342(p)(2)(B), (C), (D)], permit application deadlines for stormwater discharges associated with industrial activities from facilities that are owned or operated by a municipality shall be established by the Administrator of the Environmental Protection Agency (hereinafter in this section referred to as the ‘Administrator’) pursuant to the requirements of this section.
 
@@ -13795,7 +13795,7 @@ Pub. L. 102–240, title I, § 1068, Dec. 18, 1991, 105 Stat. 2007, provided t
 
 **Phosphate Fertilizer Effluent Limitation**
 
-Pub. L. 100–4, title III, § 306(c), Feb. 4, 1987, 101 Stat. 36, provided that:
+Pub. L. 100–4, title III, § 306(c), Feb. 4, 1987, 101 Stat. 36, provided that:
 
 > **“(1) Issuance of permit.—** As soon as possible after the date of the enactment of this Act [Feb. 4, 1987], but not later than 180 days after such date of enactment, the Administrator shall issue permits under section 402(a)(1)(B) of the Federal Water Pollution Control Act [33 U.S.C. 1342(a)(1)(B)] with respect to facilities—
 
@@ -13813,7 +13813,7 @@ Pub. L. 100–4, title III, § 306(c), Feb. 4, 1987, 101 Stat. 36, provided th
 
 **Log Transfer Facilities**
 
-Pub. L. 100–4, title IV, § 407, Feb. 4, 1987, 101 Stat. 74, provided that:
+Pub. L. 100–4, title IV, § 407, Feb. 4, 1987, 101 Stat. 74, provided that:
 
 > **“(a) Agreement.—** The Administrator and Secretary of the Army shall enter into an agreement regarding coordination of permitting for log transfer facilities to designate a lead agency and to process permits required under sections 402 and 404 of the Federal Water Pollution Control Act [33 U.S.C. 1342, 1344], where both such sections apply, for discharges associated with the construction and operation of log transfer facilities. The Administrator and Secretary are authorized to act in accordance with the terms of such agreement to assure that, to the maximum extent practicable, duplication, needless paperwork and delay in the issuance of permits, and inequitable enforcement between and among facilities in different States, shall be eliminated.
 
@@ -13823,15 +13823,15 @@ Pub. L. 100–4, title IV, § 407, Feb. 4, 1987, 101 Stat. 74, provided that:
 
 **Allowable Delay in Modifying Existing Approved State Permit Programs To Conform to 1977 Amendment**
 
-Pub. L. 95–217, § 54(c)(2), Dec. 27, 1977, 91 Stat. 1591, provided that any State permit program approved under this section before Dec. 27, 1977, which required modification to conform to the amendment made by section 54(c)(1) of Pub. L. 95–217, which amended subsec. (b)(8) of this section, not be required to be modified before the end of the one year period which began on Dec. 27, 1977, unless in order to make the required modification a State must amend or enact a law in which case such modification not be required for such State before the end of the two year period which began on Dec. 27, 1977.
+Pub. L. 95–217, § 54(c)(2), Dec. 27, 1977, 91 Stat. 1591, provided that any State permit program approved under this section before Dec. 27, 1977, which required modification to conform to the amendment made by section 54(c)(1) of Pub. L. 95–217, which amended subsec. (b)(8) of this section, not be required to be modified before the end of the one year period which began on Dec. 27, 1977, unless in order to make the required modification a State must amend or enact a law in which case such modification not be required for such State before the end of the two year period which began on Dec. 27, 1977.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions of Administrator or other official of the Environmental Protection Agency under this section relating to compliance with national pollutant discharge elimination system permits with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Administrator or other official of the Environmental Protection Agency under this section relating to compliance with national pollutant discharge elimination system permits with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-### § 1343. Ocean discharge criteria
+### § 1343. Ocean discharge criteria
 
 **(a) Issuance of permits**
 
@@ -13861,7 +13861,7 @@ The requirements of subsection (d) of section 1342 of this title may not be waiv
 
 **(2)** In any event where insufficient information exists on any proposed discharge to make a reasonable judgment on any of the guidelines established pursuant to this subsection no permit shall be issued under section 1342 of this title.
 
-(June 30, 1948, ch. 758, title IV, § 403, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 883.)
+(June 30, 1948, ch. 758, title IV, § 403, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 883.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -13875,7 +13875,7 @@ Discharges from point sources in the United States Virgin Islands in existence o
 
 For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
-### § 1344. Permits for dredged or fill material
+### § 1344. Permits for dredged or fill material
 
 **(a) Discharge into navigable waters at specified disposal sites**
 
@@ -14017,9 +14017,9 @@ The discharge of dredged or fill material as part of the construction of a Feder
 
 **(2)** A copy of any order issued under this subsection shall be sent immediately by the Secretary to the State in which the violation occurs and other affected States. Any order issued under this subsection shall be by personal service and shall state with reasonable specificity the nature of the violation, specify a time for compliance, not to exceed thirty days, which the Secretary determines is reasonable, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements. In any case in which an order under this subsection is issued to a corporation, a copy of such order shall be served on any appropriate corporate officers.
 
-**(3)** The Secretary is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction for any violation for which he is authorized to issue a compliance order under paragraph (1) of this subsection. Any action under this paragraph may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such acton 1
+**(3)** The Secretary is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction for any violation for which he is authorized to issue a compliance order under paragraph (1) of this subsection. Any action under this paragraph may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such acton 1
 
-<sup>1</sup>  So in original. Probably should be “action”.
+<sup>1</sup> So in original. Probably should be “action”.
 
 shall be given immediately to the appropriate State.
 
@@ -14029,13 +14029,13 @@ shall be given immediately to the appropriate State.
 
 Nothing in this section shall preclude or deny the right of any State or interstate agency to control the discharge of dredged or fill material in any portion of the navigable waters within the jurisdiction of such State, including any activity of any Federal agency, and each such agency shall comply with such State or interstate requirements both substantive and procedural to control the discharge of dredged or fill material to the same extent that any person is subject to such requirements. This section shall not be construed as affecting or impairing the authority of the Secretary to maintain navigation.
 
-(June 30, 1948, ch. 758, title IV, § 404, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 884; amended Pub. L. 95–217, § 67(a), (b), Dec. 27, 1977, 91 Stat. 1600; Pub. L. 100–4, title III, § 313(d), Feb. 4, 1987, 101 Stat. 45.)
+(June 30, 1948, ch. 758, title IV, § 404, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 884; amended Pub. L. 95–217, § 67(a), (b), Dec. 27, 1977, 91 Stat. 1600; Pub. L. 100–4, title III, § 313(d), Feb. 4, 1987, 101 Stat. 45.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (r), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (r), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
@@ -14045,11 +14045,11 @@ The National Environmental Policy Act of 1969, referred to in subsec. (r), is Pu
 
 “(B) For the purposes of this paragraph, the term ‘person’ shall mean, in addition to the definition contained in section 1362(5) of this title, any responsible corporate officer.”
 
-1977—Subsec. (a). Pub. L. 95–217, § 67(a)(1), substituted “The Secretary” for “The Secretary of the Army, acting through the Chief of Engineers,” and inserted provision that, not later than the fifteenth day after the date an applicant submits all the information required to complete an application for a permit under this subsection, the Secretary publish the notice required by this subsection.
+1977—Subsec. (a). Pub. L. 95–217, § 67(a)(1), substituted “The Secretary” for “The Secretary of the Army, acting through the Chief of Engineers,” and inserted provision that, not later than the fifteenth day after the date an applicant submits all the information required to complete an application for a permit under this subsection, the Secretary publish the notice required by this subsection.
 
-Subsecs. (b), (c). Pub. L. 95–217, § 67(a)(2), substituted “the Secretary” for “the Secretary of the Army”.
+Subsecs. (b), (c). Pub. L. 95–217, § 67(a)(2), substituted “the Secretary” for “the Secretary of the Army”.
 
-Subsecs. (d) to (t). Pub. L. 95–217, § 67(b), added subsecs. (d) to (t).
+Subsecs. (d) to (t). Pub. L. 95–217, § 67(b), added subsecs. (d) to (t).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -14059,7 +14059,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Maintenance Dredging Permits**
 
-Pub. L. 117–263, div. H, title LXXXI, § 8126, Dec. 23, 2022, 136 Stat. 3715, provided that:
+Pub. L. 117–263, div. H, title LXXXI, § 8126, Dec. 23, 2022, 136 Stat. 3715, provided that:
 
 > **“(a) In General.—** The Secretary [of the Army] shall, to the maximum extent practicable, prioritize the reissuance of any regional general permit for maintenance dredging under section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344) that expired prior to May 1, 2021.
 
@@ -14073,7 +14073,7 @@ Pub. L. 117–263, div. H, title LXXXI, § 8126, Dec. 23, 2022, 136 Stat. 3715
 
 **Mitigation and Mitigation Banking Regulations**
 
-Pub. L. 108–136, div. A, title III, § 314(b), Nov. 24, 2003, 117 Stat. 1431, provided that:
+Pub. L. 108–136, div. A, title III, § 314(b), Nov. 24, 2003, 117 Stat. 1431, provided that:
 
 > **“(1)** To ensure opportunities for Federal agency participation in mitigation banking, the Secretary of the Army, acting through the Chief of Engineers, shall issue regulations establishing performance standards and criteria for the use, consistent with section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344), of on-site, off-site, and in-lieu fee mitigation and mitigation banking as compensation for lost wetlands functions in permits issued by the Secretary of the Army under such section. To the maximum extent practicable, the regulatory standards and criteria shall maximize available credits and opportunities for mitigation, provide flexibility for regional variations in wetland conditions, functions and values, and apply equivalent standards and criteria to each type of compensatory mitigation.
 
@@ -14081,27 +14081,27 @@ Pub. L. 108–136, div. A, title III, § 314(b), Nov. 24, 2003, 117 Stat. 1431
 
 **Regulatory Program**
 
-Pub. L. 106–377, § 1(a)(2) [title I], Oct. 27, 2000, 114 Stat. 1441, 1441A–63, provided in part that: “For expenses necessary for administration of laws pertaining to regulation of navigable waters and wetlands, $125,000,000, to remain available until expended: *Provided*, That the Secretary of the Army, acting through the Chief of Engineers, is directed to use funds appropriated herein to: (1) by March 1, 2001, supplement the report, Cost Analysis For the 1999 Proposal to Issue and Modify Nationwide Permits, to reflect the Nationwide Permits actually issued on March 9, 2000, including changes in the acreage limits, preconstruction notification requirements and general conditions between the rule proposed on July 21, 1999, and the rule promulgated and published in the Federal Register; (2) after consideration of the cost analysis for the 1999 proposal to issue and modify nationwide permits and the supplement prepared pursuant to this Act [H.R. 5483, as enacted by section 1(a)(2) of Pub. L. 106–377, see Tables for classification] and by September 30, 2001, prepare, submit to Congress and publish in the Federal Register a Permit Processing Management Plan by which the Corps of Engineers will handle the additional work associated with all projected increases in the number of individual permit applications and preconstruction notifications related to the new and replacement permits and general conditions. The Permit Processing Management Plan shall include specific objective goals and criteria by which the Corps of Engineers’ progress towards reducing any permit backlog can be measured; (3) beginning on December 31, 2001, and on a biannual basis thereafter, report to Congress and publish in the Federal Register, an analysis of the performance of its program as measured against the criteria set out in the Permit Processing Management Plan; (4) implement a 1-year pilot program to publish quarterly on the U.S. Army Corps of Engineer’s Regulatory Program website all Regulatory Analysis and Management Systems (RAMS) data for the South Pacific Division and North Atlantic Division beginning within 30 days of the enactment of this Act [Oct. 27, 2000]; and (5) publish in Division Office websites all findings, rulings, and decisions rendered under the administrative appeals process for the Corps of Engineers Regulatory Program as established in Public Law 106–60 [113 Stat. 486]: *Provided further*, That, through the period ending on September 30, 2003, the Corps of Engineers shall allow any appellant to keep a verbatim record of the proceedings of the appeals conference under the aforementioned administrative appeals process: *Provided further*, That within 30 days of the enactment of this Act, the Secretary of the Army, acting through the Chief of Engineers, shall require all U.S. Army Corps of Engineers Divisions and Districts to record the date on which a section 404 individual permit application or nationwide permit notification is filed with the Corps of Engineers: *Provided further*, That the Corps of Engineers, when reporting permit processing times, shall track both the date a permit application is first received and the date the application is considered complete, as well as the reason that the application is not considered complete upon first submission.”
+Pub. L. 106–377, § 1(a)(2) [title I], Oct. 27, 2000, 114 Stat. 1441, 1441A–63, provided in part that: “For expenses necessary for administration of laws pertaining to regulation of navigable waters and wetlands, $125,000,000, to remain available until expended: *Provided*, That the Secretary of the Army, acting through the Chief of Engineers, is directed to use funds appropriated herein to: (1) by March 1, 2001, supplement the report, Cost Analysis For the 1999 Proposal to Issue and Modify Nationwide Permits, to reflect the Nationwide Permits actually issued on March 9, 2000, including changes in the acreage limits, preconstruction notification requirements and general conditions between the rule proposed on July 21, 1999, and the rule promulgated and published in the Federal Register; (2) after consideration of the cost analysis for the 1999 proposal to issue and modify nationwide permits and the supplement prepared pursuant to this Act [H.R. 5483, as enacted by section 1(a)(2) of Pub. L. 106–377, see Tables for classification] and by September 30, 2001, prepare, submit to Congress and publish in the Federal Register a Permit Processing Management Plan by which the Corps of Engineers will handle the additional work associated with all projected increases in the number of individual permit applications and preconstruction notifications related to the new and replacement permits and general conditions. The Permit Processing Management Plan shall include specific objective goals and criteria by which the Corps of Engineers’ progress towards reducing any permit backlog can be measured; (3) beginning on December 31, 2001, and on a biannual basis thereafter, report to Congress and publish in the Federal Register, an analysis of the performance of its program as measured against the criteria set out in the Permit Processing Management Plan; (4) implement a 1-year pilot program to publish quarterly on the U.S. Army Corps of Engineer’s Regulatory Program website all Regulatory Analysis and Management Systems (RAMS) data for the South Pacific Division and North Atlantic Division beginning within 30 days of the enactment of this Act [Oct. 27, 2000]; and (5) publish in Division Office websites all findings, rulings, and decisions rendered under the administrative appeals process for the Corps of Engineers Regulatory Program as established in Public Law 106–60 [113 Stat. 486]: *Provided further*, That, through the period ending on September 30, 2003, the Corps of Engineers shall allow any appellant to keep a verbatim record of the proceedings of the appeals conference under the aforementioned administrative appeals process: *Provided further*, That within 30 days of the enactment of this Act, the Secretary of the Army, acting through the Chief of Engineers, shall require all U.S. Army Corps of Engineers Divisions and Districts to record the date on which a section 404 individual permit application or nationwide permit notification is filed with the Corps of Engineers: *Provided further*, That the Corps of Engineers, when reporting permit processing times, shall track both the date a permit application is first received and the date the application is considered complete, as well as the reason that the application is not considered complete upon first submission.”
 
 **Authority To Delegate to State of Washington Functions of the Secretary Relating to Lake Chelan, Washington**
 
-Pub. L. 95–217, § 76, Dec. 27, 1977, 91 Stat. 1610, provided that: “The Secretary of the Army, acting through the Chief of Engineers, is authorized to delegate to the State of Washington upon its request all or any part of those functions vested in such Secretary by section 404 of the Federal Water Pollution Control Act [this section] and by sections 9, 10, and 13 of the Act of March 3, 1899 [sections 401, 403, and 407 of this title], relating to Lake Chelan, Washington, if the Secretary determines (1) that such State has the authority, responsibility, and capability to carry out such functions, and (2) that such delegation is in the public interest. Such delegation shall be subject to such terms and conditions as the Secretary deems necessary, including, but not limited to, suspension and revocation for cause of such delegation.”
+Pub. L. 95–217, § 76, Dec. 27, 1977, 91 Stat. 1610, provided that: “The Secretary of the Army, acting through the Chief of Engineers, is authorized to delegate to the State of Washington upon its request all or any part of those functions vested in such Secretary by section 404 of the Federal Water Pollution Control Act [this section] and by sections 9, 10, and 13 of the Act of March 3, 1899 [sections 401, 403, and 407 of this title], relating to Lake Chelan, Washington, if the Secretary determines (1) that such State has the authority, responsibility, and capability to carry out such functions, and (2) that such delegation is in the public interest. Such delegation shall be subject to such terms and conditions as the Secretary deems necessary, including, but not limited to, suspension and revocation for cause of such delegation.”
 
 **Dredged Material Disposal**
 
-Pub. L. 114–322, title I, § 1189, Dec. 16, 2016, 130 Stat. 1681, provided that: “Disposal of dredged material shall not be considered environmentally acceptable for the purposes of identifying the Federal standard (as defined in section 335.7 of title 33, Code of Federal Regulations (or successor regulations)) if the disposal violates applicable State water quality standards approved by the Administrator of the Environmental Protection Agency under section 303 of the Federal Water Pollution Control Act (33 U.S.C. 1313).”
+Pub. L. 114–322, title I, § 1189, Dec. 16, 2016, 130 Stat. 1681, provided that: “Disposal of dredged material shall not be considered environmentally acceptable for the purposes of identifying the Federal standard (as defined in section 335.7 of title 33, Code of Federal Regulations (or successor regulations)) if the disposal violates applicable State water quality standards approved by the Administrator of the Environmental Protection Agency under section 303 of the Federal Water Pollution Control Act (33 U.S.C. 1313).”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions of Administrator or other official of the Environmental Protection Agency and of Secretary or other official in Department of the Interior relating to review of the Corps of Engineers’ dredged and fill material permits and such functions of Secretary of the Army, Chief of Engineers, or other official in Corps of Engineers of the United States Army relating to compliance with dredged and fill material permits issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(a), (b), (e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Administrator or other official of the Environmental Protection Agency and of Secretary or other official in Department of the Interior relating to review of the Corps of Engineers’ dredged and fill material permits and such functions of Secretary of the Army, Chief of Engineers, or other official in Corps of Engineers of the United States Army relating to compliance with dredged and fill material permits issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(a), (b), (e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 **Contiguous Zone of United States**
 
 For extension of contiguous zone of United States, see Proc. No. 7219, set out as a note under section 1331 of Title 43, Public Lands.
 
-### § 1345. Disposal or use of sewage sludge
+### § 1345. Disposal or use of sewage sludge
 
 **(a) Permit**
 
@@ -14193,43 +14193,43 @@ The Administrator is authorized to conduct or initiate scientific studies, demon
 
 For the purposes of carrying out the scientific studies, demonstration projects, and public information and education projects authorized in this section, there is authorized to be appropriated for fiscal years beginning after September 30, 1986, not to exceed $5,000,000.
 
-(June 30, 1948, ch. 758, title IV, § 405, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 884; amended Pub. L. 95–217, §§ 54(d), 68, Dec. 27, 1977, 91 Stat. 1591, 1606; Pub. L. 100–4, title IV, § 406(a)–(c), (f), Feb. 4, 1987, 101 Stat. 71, 72, 74.)
+(June 30, 1948, ch. 758, title IV, § 405, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 884; amended Pub. L. 95–217, §§ 54(d), 68, Dec. 27, 1977, 91 Stat. 1591, 1606; Pub. L. 100–4, title IV, § 406(a)–(c), (f), Feb. 4, 1987, 101 Stat. 71, 72, 74.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Solid Waste Disposal Act, referred to in subsec. (f)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (f)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (f)(1), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended. Part C of the Act is classified generally to part C (§ 300h et seq.) of subchapter XII of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Safe Drinking Water Act, referred to in subsec. (f)(1), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended. Part C of the Act is classified generally to part C (§ 300h et seq.) of subchapter XII of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (f)(1), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which is classified generally to chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation, and chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (f)(1), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which is classified generally to chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation, and chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 
-The Clean Air Act, referred to in subsec. (f)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (f)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 **Amendments**
 
-1987—Subsec. (d). Pub. L. 100–4, § 406(a), designated existing provision as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), and added pars. (2) to (5).
+1987—Subsec. (d). Pub. L. 100–4, § 406(a), designated existing provision as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), and added pars. (2) to (5).
 
-Pub. L. 100–4, § 406(f), inserted heading “Regulations” and aligned par. (1) with par. (3) and subpars. (A) to (C) of par. (1) with subpar. (C) of par. (2).
+Pub. L. 100–4, § 406(f), inserted heading “Regulations” and aligned par. (1) with par. (3) and subpars. (A) to (C) of par. (1) with subpar. (C) of par. (2).
 
-Subsec. (e). Pub. L. 100–4, § 406(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The determination of the manner of disposal or use of sludge is a local determination except that it shall be unlawful for the owner or operator of any publicly owned treatment works to dispose of sludge from such works for any use for which guidelines have been established pursuant to subsection (d) of this section, except in accordance with such guidelines.”
+Subsec. (e). Pub. L. 100–4, § 406(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The determination of the manner of disposal or use of sludge is a local determination except that it shall be unlawful for the owner or operator of any publicly owned treatment works to dispose of sludge from such works for any use for which guidelines have been established pursuant to subsection (d) of this section, except in accordance with such guidelines.”
 
-Subsecs. (f), (g). Pub. L. 100–4, § 406(c), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 100–4, § 406(c), added subsecs. (f) and (g).
 
-1977—Subsec. (a). Pub. L. 95–217, § 68(a), substituted “under section 1342 of this title” for “under this section”.
+1977—Subsec. (a). Pub. L. 95–217, § 68(a), substituted “under section 1342 of this title” for “under this section”.
 
-Subsec. (b). Pub. L. 95–217, §§ 54(d)(1), 68(b), (c), substituted “sewage sludge subject to subsection (a) of this section and section 1342 of this title” for “sewage sludge subject to this section” and struck out “, as the Administrator determines necessary to carry out the objective of this chapter” after “permit issued under section 1342 of this title”.
+Subsec. (b). Pub. L. 95–217, §§ 54(d)(1), 68(b), (c), substituted “sewage sludge subject to subsection (a) of this section and section 1342 of this title” for “sewage sludge subject to this section” and struck out “, as the Administrator determines necessary to carry out the objective of this chapter” after “permit issued under section 1342 of this title”.
 
-Subsec. (c). Pub. L. 95–217, §§ 54(d)(2), 68(d), substituted “disposal of sewage sludge subject to subsection (a) of this section within its jurisdiction may do so in accordance with section 1342 of this title” for “disposal of sewage sludge within its jurisdiction may do so if upon submission of such program the Administrator determines such program is adequate to carry out the objective of this chapter”.
+Subsec. (c). Pub. L. 95–217, §§ 54(d)(2), 68(d), substituted “disposal of sewage sludge subject to subsection (a) of this section within its jurisdiction may do so in accordance with section 1342 of this title” for “disposal of sewage sludge within its jurisdiction may do so if upon submission of such program the Administrator determines such program is adequate to carry out the objective of this chapter”.
 
-Subsecs. (d), (e). Pub. L. 95–217, § 54(d)(3), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 95–217, § 54(d)(3), added subsecs. (d) and (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Removal Credits**
 
-Pub. L. 100–4, title IV, § 406(e), Feb. 4, 1987, 101 Stat. 73, provided that:
+Pub. L. 100–4, title IV, § 406(e), Feb. 4, 1987, 101 Stat. 73, provided that:
 
 > “The part of the decision of Natural Resources Defense Council, Inc. v. U.S. Environmental Protection Agency, No. 84–3530 (3d. Cir. 1986), which addresses section 405(d) of the Federal Water Pollution Control Act [33 U.S.C. 1345(d)] is stayed until August 31, 1987, with respect to—
 
@@ -14239,7 +14239,7 @@ Pub. L. 100–4, title IV, § 406(e), Feb. 4, 1987, 101 Stat. 73, provided tha
 
 > The Administrator shall not authorize any other removal credits under such Act [33 U.S.C. 1251 et seq.] until the Administrator issues the regulations required by paragraph (2)(A)(ii) of section 405(d) of such Act, as amended by subsection (a) of this section.”
 
-### § 1346. Coastal recreation water quality monitoring and notification
+### § 1346. Coastal recreation water quality monitoring and notification
 
 **(a) Monitoring and notification**
 
@@ -14385,11 +14385,11 @@ The Administrator shall update the list described in paragraph (1) periodically 
 
 There is authorized to be appropriated for making grants under subsection (b), including implementation of monitoring and notification programs by the Administrator under subsection (h), $30,000,000 for each of fiscal years 2001 through 2005.
 
-(June 30, 1948, ch. 758, title IV, § 406, as added Pub. L. 106–284, § 4, Oct. 10, 2000, 114 Stat. 872.)
+(June 30, 1948, ch. 758, title IV, § 406, as added Pub. L. 106–284, § 4, Oct. 10, 2000, 114 Stat. 872.)
 
 ## SUBCHAPTER V—GENERAL PROVISIONS
 
-### § 1361. Administration
+### § 1361. Administration
 
 **(a) Authority of Administrator to prescribe regulations**
 
@@ -14419,7 +14419,7 @@ The Administrator and the Comptroller General of the United States, or any of th
 
 Upon the request of a State water pollution control agency, personnel of the Environmental Protection Agency may be detailed to such agency for the purpose of carrying out the provisions of this chapter.
 
-(June 30, 1948, ch. 758, title V, § 501, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 885; amended Pub. L. 100–4, title V, § 501, Feb. 4, 1987, 101 Stat. 75.)
+(June 30, 1948, ch. 758, title V, § 501, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 885; amended Pub. L. 100–4, title V, § 501, Feb. 4, 1987, 101 Stat. 75.)
 
 **Editorial Notes**
 
@@ -14431,7 +14431,7 @@ Upon the request of a State water pollution control agency, personnel of the Env
 
 **Applicability of Spill Prevention, Control, and Countermeasure Rule**
 
-Pub. L. 113–121, title I, § 1049, June 10, 2014, 128 Stat. 1257, as amended by Pub. L. 114–322, title IV, § 5011, Dec. 16, 2016, 130 Stat. 1902, provided that:
+Pub. L. 113–121, title I, § 1049, June 10, 2014, 128 Stat. 1257, as amended by Pub. L. 114–322, title IV, § 5011, Dec. 16, 2016, 130 Stat. 1902, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -14515,13 +14515,13 @@ Pub. L. 113–121, title I, § 1049, June 10, 2014, 128 Stat. 1257, as amended
 
 **Environmental Court Feasibility Study**
 
-Pub. L. 92–500, § 9, Oct. 18, 1972, 86 Stat. 899, authorized the President, acting through the Attorney General, to study the feasibility of establishing a separate court or court system with jurisdiction over environmental matters and required him to report the results of his study, together with his recommendations, to Congress not later than one year after Oct. 18, 1972.
+Pub. L. 92–500, § 9, Oct. 18, 1972, 86 Stat. 899, authorized the President, acting through the Attorney General, to study the feasibility of establishing a separate court or court system with jurisdiction over environmental matters and required him to report the results of his study, together with his recommendations, to Congress not later than one year after Oct. 18, 1972.
 
 **Transfer of Public Health Service Officers**
 
-Pub. L. 89–234, § 2(b)–(k), Oct. 2, 1965, 79 Stat. 904, 905, authorized the transfer of certain commissioned officers of the Public Health Service to classified positions in the Federal Water Pollution Control Administration, now the Environmental Protection Agency, where such transfer was requested within six months after the establishment of the Administration and made certain administrative provisions relating to pension and retirement rights of the transferees, sick leave benefits, group life insurance, and certain other miscellaneous provisions.
+Pub. L. 89–234, § 2(b)–(k), Oct. 2, 1965, 79 Stat. 904, 905, authorized the transfer of certain commissioned officers of the Public Health Service to classified positions in the Federal Water Pollution Control Administration, now the Environmental Protection Agency, where such transfer was requested within six months after the establishment of the Administration and made certain administrative provisions relating to pension and retirement rights of the transferees, sick leave benefits, group life insurance, and certain other miscellaneous provisions.
 
-### § 1362. Definitions
+### § 1362. Definitions
 
 Except as otherwise specifically provided, when used in this chapter:
 
@@ -14617,7 +14617,7 @@ Except as otherwise specifically provided, when used in this chapter:
 
 **(27) Green infrastructure.—** The term “green infrastructure” means the range of measures that use plant or soil systems, permeable pavement or other permeable surfaces or substrates, stormwater harvest and reuse, or landscaping to store, infiltrate, or evapotranspirate stormwater and reduce flows to sewer systems or to surface waters.
 
-(June 30, 1948, ch. 758, title V, § 502, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 886; amended Pub. L. 95–217, § 33(b), Dec. 27, 1977, 91 Stat. 1577; Pub. L. 100–4, title V, §§ 502(a), 503, Feb. 4, 1987, 101 Stat. 75; Pub. L. 100–688, title III, § 3202(a), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 104–106, div. A, title III, § 325(c)(3), Feb. 10, 1996, 110 Stat. 259; Pub. L. 106–284, § 5, Oct. 10, 2000, 114 Stat. 875; Pub. L. 109–58, title III, § 323, Aug. 8, 2005, 119 Stat. 694; Pub. L. 110–288, § 3, July 29, 2008, 122 Stat. 2650; Pub. L. 113–121, title V, § 5012(b), June 10, 2014, 128 Stat. 1328; Pub. L. 115–436, § 5(a), Jan. 14, 2019, 132 Stat. 5561.)
+(June 30, 1948, ch. 758, title V, § 502, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 886; amended Pub. L. 95–217, § 33(b), Dec. 27, 1977, 91 Stat. 1577; Pub. L. 100–4, title V, §§ 502(a), 503, Feb. 4, 1987, 101 Stat. 75; Pub. L. 100–688, title III, § 3202(a), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 104–106, div. A, title III, § 325(c)(3), Feb. 10, 1996, 110 Stat. 259; Pub. L. 106–284, § 5, Oct. 10, 2000, 114 Stat. 875; Pub. L. 109–58, title III, § 323, Aug. 8, 2005, 119 Stat. 694; Pub. L. 110–288, § 3, July 29, 2008, 122 Stat. 2650; Pub. L. 113–121, title V, § 5012(b), June 10, 2014, 128 Stat. 1328; Pub. L. 115–436, § 5(a), Jan. 14, 2019, 132 Stat. 5561.)
 
 **Editorial Notes**
 
@@ -14633,13 +14633,13 @@ Except as otherwise specifically provided, when used in this chapter:
 
 2000—Pars. (21) to (23). Pub. L. 106–284 added pars. (21) to (23).
 
-1996—Par. (6)(A). Pub. L. 104–106 substituted “ ‘sewage from vessels or a discharge incidental to the normal operation of a vessel of the Armed Forces’ ” for “ ‘sewage from vessels’ ”.
+1996—Par. (6)(A). Pub. L. 104–106 substituted “ ‘sewage from vessels or a discharge incidental to the normal operation of a vessel of the Armed Forces’ ” for “ ‘sewage from vessels’ ”.
 
 1988—Par. (20). Pub. L. 100–688 added par. (20).
 
-1987—Par. (3). Pub. L. 100–4, § 502(a), inserted “the Commonwealth of the Northern Mariana Islands,” after “Samoa,”.
+1987—Par. (3). Pub. L. 100–4, § 502(a), inserted “the Commonwealth of the Northern Mariana Islands,” after “Samoa,”.
 
-Par. (14). Pub. L. 100–4, § 503, inserted “agricultural stormwater discharges and” after “does not include”.
+Par. (14). Pub. L. 100–4, § 503, inserted “agricultural stormwater discharges and” after “does not include”.
 
 1977—Par. (14). Pub. L. 95–217 inserted provision that “point source” does not include return flows from irrigated agriculture.
 
@@ -14651,7 +14651,7 @@ Amendment by Pub. L. 113–121 effective Oct. 1, 2014, see section 5012(c) of Pu
 
 **Definition of “Point Source”**
 
-Pub. L. 100–4, title V, § 507, Feb. 4, 1987, 101 Stat. 78, provided that: “For purposes of the Federal Water Pollution Control Act [33 U.S.C. 1251 et seq.], the term ‘point source’ includes a landfill leachate collection system.”
+Pub. L. 100–4, title V, § 507, Feb. 4, 1987, 101 Stat. 78, provided that: “For purposes of the Federal Water Pollution Control Act [33 U.S.C. 1251 et seq.], the term ‘point source’ includes a landfill leachate collection system.”
 
 **Executive Documents**
 
@@ -14663,7 +14663,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
-### § 1363. Water Pollution Control Advisory Board
+### § 1363. Water Pollution Control Advisory Board
 
 **(a) Establishment; composition; terms of office**
 
@@ -14683,7 +14683,7 @@ The Board shall advise, consult with, and make recommendations to the Administra
 
 Such clerical and technical assistance as may be necessary to discharge the duties of the Board shall be provided from the personnel of the Environmental Protection Agency.
 
-(June 30, 1948, ch. 758, title V, § 503, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 887.)
+(June 30, 1948, ch. 758, title V, § 503, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 887.)
 
 **Editorial Notes**
 
@@ -14695,25 +14695,25 @@ Travel expenses, including per diem in lieu of subsistence as authorized by law,
 
 **Continuation of Term of Office**
 
-Pub. L. 87–88, § 6(c), July 20, 1961, 75 Stat. 207, provided that members of the Water Pollution Control Advisory Board holding office immediately preceding July 20, 1961 were to remain in office as members of the Board as established by section 6(a) of Pub. L. 87–88 until the expiration of the terms of office for which they were originally appointed.
+Pub. L. 87–88, § 6(c), July 20, 1961, 75 Stat. 207, provided that members of the Water Pollution Control Advisory Board holding office immediately preceding July 20, 1961 were to remain in office as members of the Board as established by section 6(a) of Pub. L. 87–88 until the expiration of the terms of office for which they were originally appointed.
 
 **Terms of Office of Members of Water Pollution Control Advisory Board**
 
-Act July 9, 1956, ch. 518, § 3, 70 Stat. 507, provided that the terms of office of members of the Water Pollution Control Advisory Board, holding office on July 9, 1956, were to terminate at the close of business on that date.
+Act July 9, 1956, ch. 518, § 3, 70 Stat. 507, provided that the terms of office of members of the Water Pollution Control Advisory Board, holding office on July 9, 1956, were to terminate at the close of business on that date.
 
 **Termination of Advisory Boards**
 
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-### § 1364. Emergency powers
+### § 1364. Emergency powers
 
 **(a) Emergency powers**
 
 Notwithstanding any other provision of this chapter, the Administrator upon receipt of evidence that a pollution source or combination of sources is presenting an imminent and substantial endangerment to the health of persons or to the welfare of persons where such endangerment is to the livelihood of such persons, such as inability to market shellfish, may bring suit on behalf of the United States in the appropriate district court to immediately restrain any person causing or contributing to the alleged pollution to stop the discharge of pollutants causing or contributing to such pollution or to take such other action as may be necessary.
 
-**(b) Repealed. Pub. L. 96–510, title III, § 304(a), Dec. 11, 1980, 94 Stat. 2809**
+**(b) Repealed. Pub. L. 96–510, title III, § 304(a), Dec. 11, 1980, 94 Stat. 2809**
 
-(June 30, 1948, ch. 758, title V, § 504, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 888; amended Pub. L. 95–217, § 69, Dec. 27, 1977, 91 Stat. 1607; Pub. L. 96–510, title III, § 304(a), Dec. 11, 1980, 94 Stat. 2809.)
+(June 30, 1948, ch. 758, title V, § 504, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 888; amended Pub. L. 95–217, § 69, Dec. 27, 1977, 91 Stat. 1607; Pub. L. 96–510, title III, § 304(a), Dec. 11, 1980, 94 Stat. 2809.)
 
 **Editorial Notes**
 
@@ -14729,7 +14729,7 @@ Notwithstanding any other provision of this chapter, the Administrator upon rece
 
 Amendment by Pub. L. 96–510 effective Dec. 11, 1980, see section 9652 of Title 42, The Public Health and Welfare.
 
-### § 1365. Citizen suits
+### § 1365. Citizen suits
 
 **(a) Authorization; jurisdiction** Except as provided in subsection (b) of this section and section 1319(g)(6) of this title, any citizen may commence a civil action on his own behalf—
 
@@ -14779,7 +14779,7 @@ For the purposes of this section the term “citizen” means a person or person
 
 A Governor of a State may commence a civil action under subsection (a), without regard to the limitations of subsection (b) of this section, against the Administrator where there is alleged a failure of the Administrator to enforce an effluent standard or limitation under this chapter the violation of which is occurring in another State and is causing an adverse effect on the public health or welfare in his State, or is causing a violation of any water quality requirement in his State.
 
-(June 30, 1948, ch. 758, title V, § 505, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 888; amended Pub. L. 100–4, title III, § 314(c), title IV, § 406(d)(2), title V, §§ 504, 505(c), Feb. 4, 1987, 101 Stat. 49, 73, 75, 76; Pub. L. 115–282, title IX, § 903(c)(3), Dec. 4, 2018, 132 Stat. 4356.)
+(June 30, 1948, ch. 758, title V, § 505, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 888; amended Pub. L. 100–4, title III, § 314(c), title IV, § 406(d)(2), title V, §§ 504, 505(c), Feb. 4, 1987, 101 Stat. 49, 73, 75, 76; Pub. L. 115–282, title IX, § 903(c)(3), Dec. 4, 2018, 132 Stat. 4356.)
 
 **Editorial Notes**
 
@@ -14791,21 +14791,21 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d), are set out in
 
 2018—Subsec. (f). Pub. L. 115–282 substituted “(5) a standard of performance or requirement under section 1322(p) of this title; (6) a certification under section 1341 of this title; (7) a permit or condition of a permit issued under section 1342 of this title that is in effect under this chapter (including a requirement applicable by reason of section 1323 of this title); or (8) a regulation under section 1345(d) of this title.” for “(5) certification under section 1341 of this title; (6) a permit or condition thereof issued under section 1342 of this title, which is in effect under this chapter (including a requirement applicable by reason of section 1323 of this title); or (7) a regulation under section 1345(d) of this title,.”
 
-1987—Subsec. (a). Pub. L. 100–4, § 314(c), inserted “and section 1319(g)(6) of this title” after “subsection (b) of this section” in introductory text.
+1987—Subsec. (a). Pub. L. 100–4, § 314(c), inserted “and section 1319(g)(6) of this title” after “subsection (b) of this section” in introductory text.
 
-Subsec. (c)(3). Pub. L. 100–4, § 504, added par. (3).
+Subsec. (c)(3). Pub. L. 100–4, § 504, added par. (3).
 
-Subsec. (d). Pub. L. 100–4, § 505(c), inserted “prevailing or substantially prevailing” before “party”.
+Subsec. (d). Pub. L. 100–4, § 505(c), inserted “prevailing or substantially prevailing” before “party”.
 
-Subsec. (f). Pub. L. 100–4, § 406(d)(2), added cl. (7).
+Subsec. (f). Pub. L. 100–4, § 406(d)(2), added cl. (7).
 
-### § 1366. Appearance
+### § 1366. Appearance
 
 The Administrator shall request the Attorney General to appear and represent the United States in any civil or criminal action instituted under this chapter to which the Administrator is a party. Unless the Attorney General notifies the Administrator within a reasonable time, that he will appear in a civil action, attorneys who are officers or employees of the Environmental Protection Agency shall appear and represent the United States in such action.
 
-(June 30, 1948, ch. 758, title V, § 506, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 889.)
+(June 30, 1948, ch. 758, title V, § 506, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 889.)
 
-### § 1367. Employee protection
+### § 1367. Employee protection
 
 **(a) Discrimination against persons filing, instituting, or testifying in proceedings under this chapter prohibited**
 
@@ -14827,9 +14827,9 @@ This section shall have no application to any employee who, acting without direc
 
 The Administrator shall conduct continuing evaluations of potential loss or shifts of employment which may result from the issuance of any effluent limitation or order under this chapter, including, where appropriate, investigating threatened plant closures or reductions in employment allegedly resulting from such limitation or order. Any employee who is discharged or laid-off, threatened with discharge or lay-off, or otherwise discriminated against by any person because of the alleged results of any effluent limitation or order issued under this chapter, or any representative of such employee, may request the Administrator to conduct a full investigation of the matter. The Administrator shall thereupon investigate the matter and, at the request of any party, shall hold public hearings on not less than five days notice, and shall at such hearings require the parties, including the employer involved, to present information relating to the actual or potential effect of such limitation or order on employment and on any alleged discharge, lay-off, or other discrimination and the detailed reasons or justification therefor. Any such hearing shall be of record and shall be subject to section 554 of title 5. Upon receiving the report of such investigation, the Administrator shall make findings of fact as to the effect of such effluent limitation or order on employment and on the alleged discharge, lay-off, or discrimination and shall make such recommendations as he deems appropriate. Such report, findings, and recommendations shall be available to the public. Nothing in this subsection shall be construed to require or authorize the Administrator to modify or withdraw any effluent limitation or order issued under this chapter.
 
-(June 30, 1948, ch. 758, title V, § 507, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 890.)
+(June 30, 1948, ch. 758, title V, § 507, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 890.)
 
-### § 1368. Federal procurement
+### § 1368. Federal procurement
 
 **(a) Contracts with violators prohibited**
 
@@ -14855,7 +14855,7 @@ The President shall annually report to the Congress on measures taken in complia
 
 **(2)** In paragraph (1), the terms “commercial product” and “commercial service” have the meanings given those terms in sections 103 and 103a, respectively, of title 41.
 
-(June 30, 1948, ch. 758, title V, § 508, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 891; amended Pub. L. 103–355, title VIII, § 8301(a), Oct. 13, 1994, 108 Stat. 3396; Pub. L. 115–232, div. A, title VIII, § 836(g)(5), Aug. 13, 2018, 132 Stat. 1873.)
+(June 30, 1948, ch. 758, title V, § 508, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 891; amended Pub. L. 103–355, title VIII, § 8301(a), Oct. 13, 1994, 108 Stat. 3396; Pub. L. 115–232, div. A, title VIII, § 836(g)(5), Aug. 13, 2018, 132 Stat. 1873.)
 
 **Editorial Notes**
 
@@ -14865,9 +14865,9 @@ Subsec. (c) of this section authorized the President to cause to be issued, not 
 
 **Amendments**
 
-2018—Subsec. (f)(1). Pub. L. 115–232, § 836(g)(5)(A), substituted “commercial products or commercial services” for “commercial items”.
+2018—Subsec. (f)(1). Pub. L. 115–232, § 836(g)(5)(A), substituted “commercial products or commercial services” for “commercial items”.
 
-Subsec. (f)(2). Pub. L. 115–232, § 836(g)(5)(B), substituted “the terms ‘commercial product’ and ‘commercial service’ have the meanings given those terms in sections 103 and 103a, respectively, of title 41.” for “the term ‘commercial item’ has the meaning given such term in section 103 of title 41.”
+Subsec. (f)(2). Pub. L. 115–232, § 836(g)(5)(B), substituted “the terms ‘commercial product’ and ‘commercial service’ have the meanings given those terms in sections 103 and 103a, respectively, of title 41.” for “the term ‘commercial item’ has the meaning given such term in section 103 of title 41.”
 
 1994—Subsec. (f). Pub. L. 103–355 added subsec. (f).
 
@@ -14887,7 +14887,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 For provisions concerning the administration of this chapter with respect to Federal contracts, grants, or loans, see Ex. Ord. No. 11738, Sept. 10, 1973, 38 F.R. 25161, set out as a note under section 7606 of Title 42, The Public Health and Welfare.
 
-### § 1369. Administrative procedure and judicial review
+### § 1369. Administrative procedure and judicial review
 
 **(a) Subpenas**
 
@@ -14913,7 +14913,7 @@ For provisions concerning the administration of this chapter with respect to Fed
 
 In any judicial proceeding brought under subsection (b) of this section in which review is sought of a determination under this chapter required to be made on the record after notice and opportunity for hearing, if any party applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Administrator, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Administrator, in such manner and upon such terms and conditions as the court may deem proper. The Administrator may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken and he shall file such modified or new findings, and his recommendation, if any, for the modification or setting aside of his original determination, with the return of such additional evidence.
 
-(June 30, 1948, ch. 758, title V, § 509, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 891; amended Pub. L. 93–207, § 1(6), Dec. 28, 1973, 87 Stat. 906; Pub. L. 100–4, title III, § 308(b), title IV, § 406(d)(3), title V, § 505(a), (b), Feb. 4, 1987, 101 Stat. 39, 73, 75; Pub. L. 100–236, § 2, Jan. 8, 1988, 101 Stat. 1732; Pub. L. 115–282, title IX, § 903(c)(4), Dec. 4, 2018, 132 Stat. 4356.)
+(June 30, 1948, ch. 758, title V, § 509, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 891; amended Pub. L. 93–207, § 1(6), Dec. 28, 1973, 87 Stat. 906; Pub. L. 100–4, title III, § 308(b), title IV, § 406(d)(3), title V, § 505(a), (b), Feb. 4, 1987, 101 Stat. 39, 73, 75; Pub. L. 100–236, § 2, Jan. 8, 1988, 101 Stat. 1732; Pub. L. 115–282, title IX, § 903(c)(4), Dec. 4, 2018, 132 Stat. 4356.)
 
 **Editorial Notes**
 
@@ -14923,9 +14923,9 @@ In any judicial proceeding brought under subsection (b) of this section in which
 
 1988—Subsec. (b)(3), (4). Pub. L. 100–236 redesignated par. (4) as (3) and struck out former par. (3) relating to venue, which provided for selection procedure in subpar. (A), administrative provisions in subpar. (B), and transfers in subpar. (C).
 
-1987—Subsec. (b)(1). Pub. L. 100–4, §§ 308(b), 406(d)(3), 505(a), substituted “transacts business which is directly affected by such action” for “transacts such business”, “120” for “ninety”, and “120th” for “ninetieth”, substituted “1316, or 1345 of this title” for “or 1316 of this title” in cl. (E), and added cl. (G).
+1987—Subsec. (b)(1). Pub. L. 100–4, §§ 308(b), 406(d)(3), 505(a), substituted “transacts business which is directly affected by such action” for “transacts such business”, “120” for “ninety”, and “120th” for “ninetieth”, substituted “1316, or 1345 of this title” for “or 1316 of this title” in cl. (E), and added cl. (G).
 
-Subsec. (b)(3), (4). Pub. L. 100–4, § 505(b), added pars. (3) and (4).
+Subsec. (b)(3), (4). Pub. L. 100–4, § 505(b), added pars. (3) and (4).
 
 1973—Subsec. (b)(1)(C). Pub. L. 93–207 substituted “pretreatment” for “treatment”.
 
@@ -14935,13 +14935,13 @@ Subsec. (b)(3), (4). Pub. L. 100–4, § 505(b), added pars. (3) and (4).
 
 Amendment by Pub. L. 100–236 effective 180 days after Jan. 8, 1988, see section 3 of Pub. L. 100–236, set out as a note under section 2112 of Title 28, Judiciary and Judicial Procedure.
 
-### § 1370. State authority
+### § 1370. State authority
 
 Except as expressly provided in this chapter, nothing in this chapter shall (1) preclude or deny the right of any State or political subdivision thereof or interstate agency to adopt or enforce (A) any standard or limitation respecting discharges of pollutants, or (B) any requirement respecting control or abatement of pollution; except that if an effluent limitation, or other limitation, effluent standard, prohibition, pretreatment standard, or standard of performance is in effect under this chapter, such State or political subdivision or interstate agency may not adopt or enforce any effluent limitation, or other limitation, effluent standard, prohibition, pretreatment standard, or standard of performance which is less stringent than the effluent limitation, or other limitation, effluent standard, prohibition, pretreatment standard, or standard of performance under this chapter; or (2) be construed as impairing or in any manner affecting any right or jurisdiction of the States with respect to the waters (including boundary waters) of such States.
 
-(June 30, 1948, ch. 758, title V, § 510, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 893.)
+(June 30, 1948, ch. 758, title V, § 510, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 893.)
 
-### § 1371. Authority under other laws and regulations
+### § 1371. Authority under other laws and regulations
 
 **(a) Impairment of authority or functions of officials and agencies; treaty provisions**
 
@@ -14965,7 +14965,7 @@ Discharges of pollutants into the navigable waters subject to the Rivers and Har
 
 Notwithstanding this chapter or any other provision of law, the Administrator (1) shall not require any State to consider in the development of the ranking in order of priority of needs for the construction of treatment works (as defined in subchapter II of this chapter), any water pollution control agreement which may have been entered into between the United States and any other nation, and (2) shall not consider any such agreement in the approval of any such priority ranking.
 
-(June 30, 1948, ch. 758, title V, § 511, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 893; amended Pub. L. 93–243, § 3, Jan. 2, 1974, 87 Stat. 1069.)
+(June 30, 1948, ch. 758, title V, § 511, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 893; amended Pub. L. 93–243, § 3, Jan. 2, 1974, 87 Stat. 1069.)
 
 **Editorial Notes**
 
@@ -14975,23 +14975,23 @@ Act of March 3, 1899, referred to in subsec. (a), is act Mar. 3, 1899, ch. 425, 
 
 The Rivers and Harbors Act of 1910, referred to in subsec. (b), probably means act June 23, 1910, ch. 359, 36 Stat. 593.
 
-The Supervisory Harbors Act of 1888, referred to in subsec. (b), probably means act June 29, 1888, ch. 496, 25 Stat. 209, which is classified generally to subchapter III (§ 441 et seq.) of chapter 9 of this title. For complete classification of this Act to the Code, see Tables.
+The Supervisory Harbors Act of 1888, referred to in subsec. (b), probably means act June 29, 1888, ch. 496, 25 Stat. 209, which is classified generally to subchapter III (§ 441 et seq.) of chapter 9 of this title. For complete classification of this Act to the Code, see Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
 1974—Subsec. (d). Pub. L. 93–243 added subsec. (d).
 
-### § 1372. Labor standards
+### § 1372. Labor standards
 
 The Administrator shall take such action as may be necessary to insure that all laborers and mechanics employed by contractors or subcontractors on treatment works for which grants are made under this chapter shall be paid wages at rates not less than those prevailing for the same type of work on similar construction in the immediate locality, as determined by the Secretary of Labor, in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection,1
 
-<sup>1</sup>  So in original. Probably should be “section,”.
+<sup>1</sup> So in original. Probably should be “section,”.
 
 the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176) and section 3145 of title 40.
 
-(June 30, 1948, ch. 758, title V, § 513, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 894.)
+(June 30, 1948, ch. 758, title V, § 513, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 894.)
 
 **Editorial Notes**
 
@@ -15001,7 +15001,7 @@ Reorganization Plan Numbered 14 of 1950, referred to in text, is Reorg. Plan No.
 
 **Codification**
 
-In text, “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931, as amended, known as the Davis-Bacon Act (46 Stat. 1494; 40 U.S.C., sec. 276a through 276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (48 Stat. 948; 40 U.S.C. 276c)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In text, “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931, as amended, known as the Davis-Bacon Act (46 Stat. 1494; 40 U.S.C., sec. 276a through 276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (48 Stat. 948; 40 U.S.C. 276c)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -15009,13 +15009,13 @@ In text, “sections 3141–3144, 3146, and 3147 of title 40” substituted for 
 
 Pub. L. 112–74, div. E, title II, Dec. 23, 2011, 125 Stat. 1020, provided in part that: “For fiscal year 2012 and each fiscal year thereafter, the requirements of section 513 of the Federal Water Pollution Control Act (33 U.S.C. 1372) shall apply to the construction of treatment works carried out in whole or in part with assistance made available by a State water pollution control revolving fund as authorized by title VI of that Act (33 U.S.C. 1381 et seq.), or with assistance made available under section 205(m) of that Act (33 U.S.C. 1285(m)), or both.”
 
-### § 1373. Public health agency coordination
+### § 1373. Public health agency coordination
 
 The permitting agency under section 1342 of this title shall assist the applicant for a permit under such section in coordinating the requirements of this chapter with those of the appropriate public health agencies.
 
-(June 30, 1948, ch. 758, title V, § 514, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 894.)
+(June 30, 1948, ch. 758, title V, § 514, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 894.)
 
-### § 1374. Effluent Standards and Water Quality Information Advisory Committee
+### § 1374. Effluent Standards and Water Quality Information Advisory Committee
 
 **(a) Establishment; membership; term**
 
@@ -15049,7 +15049,7 @@ Five members of the Committee shall constitute a quorum, and official actions of
 
 The Committee is authorized to make such rules as are necessary for the orderly transaction of its business.
 
-(June 30, 1948, ch. 758, title V, § 515, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 894.)
+(June 30, 1948, ch. 758, title V, § 515, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 894.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -15059,9 +15059,9 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 1375. Reports to Congress; detailed estimates and comprehensive study on costs; State estimates
+### § 1375. Reports to Congress; detailed estimates and comprehensive study on costs; State estimates
 
 **(a) Implementation of chapter objectives; status and progress of programs**
 
@@ -15101,19 +15101,19 @@ Not later than February 10, 1990, the Administrator shall submit to Congress a r
 
 **(F)** an assessment of the efficiency of the operation and maintenance of treatment works constructed with assistance provided by such revolving funds compared to the efficiency of the operation and maintenance of treatment works constructed with assistance provided under section 1281 of this title.
 
-(June 30, 1948, ch. 758, title V, § 516, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 895; amended Pub. L. 93–243, § 4, Jan. 2, 1974, 87 Stat. 1069; Pub. L. 95–217, §§ 70–72, Dec. 27, 1977, 91 Stat. 1608, 1609; Pub. L. 100–4, title II, § 212(c), Feb. 4, 1987, 101 Stat. 27; Pub. L. 104–66, title II, § 2021(d), Dec. 21, 1995, 109 Stat. 727; Pub. L. 105–362, title V, § 501(d)(1), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
+(June 30, 1948, ch. 758, title V, § 516, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 895; amended Pub. L. 93–243, § 4, Jan. 2, 1974, 87 Stat. 1069; Pub. L. 95–217, §§ 70–72, Dec. 27, 1977, 91 Stat. 1608, 1609; Pub. L. 100–4, title II, § 212(c), Feb. 4, 1987, 101 Stat. 27; Pub. L. 104–66, title II, § 2021(d), Dec. 21, 1995, 109 Stat. 727; Pub. L. 105–362, title V, § 501(d)(1), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsecs. (a) to (e). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(d)(1). See 1998 Amendment notes below.
+2002—Subsecs. (a) to (e). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(d)(1). See 1998 Amendment notes below.
 
-1998—Subsec. (a). Pub. L. 105–362, § 501(d)(1)(A), which directed the striking out of subsec. (a), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+1998—Subsec. (a). Pub. L. 105–362, § 501(d)(1)(A), which directed the striking out of subsec. (a), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
-Subsec. (b). Pub. L. 105–362, § 501(d), which directed the striking out of par. (1) designation, redesignation of subpars. (A) to (D) as pars. (1) to (4), respectively, and striking out of par. (2), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+Subsec. (b). Pub. L. 105–362, § 501(d), which directed the striking out of par. (1) designation, redesignation of subpars. (A) to (D) as pars. (1) to (4), respectively, and striking out of par. (2), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
-Subsecs. (c) to (e). Pub. L. 105–362, § 501(d)(1)(A), which directed the striking out of subsecs. (c) to (e), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+Subsecs. (c) to (e). Pub. L. 105–362, § 501(d)(1)(A), which directed the striking out of subsecs. (c) to (e), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
 1995—Subsecs. (d), (e), (g). Pub. L. 104–66 redesignated subsecs. (e) and (g) as (d) and (e), respectively, and struck out former subsec. (d) which related to status reports on the use of municipal secondary effluent and sludge for agricultural and other purposes that utilize the nutrient value of treated wastewater effluent.
 
@@ -15131,43 +15131,43 @@ Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollut
 
 **Studies and Reports**
 
-Pub. L. 100–4, title III, § 308(g), Feb. 4, 1987, 101 Stat. 40, directed Administrator to conduct a water quality improvement study and report results of such study to specified Congressional committees not later than 2 years after Feb. 4, 1987.
+Pub. L. 100–4, title III, § 308(g), Feb. 4, 1987, 101 Stat. 40, directed Administrator to conduct a water quality improvement study and report results of such study to specified Congressional committees not later than 2 years after Feb. 4, 1987.
 
-Pub. L. 100–4, title III, § 314(b), Feb. 4, 1987, 101 Stat. 49, directed Secretary of the Army and Administrator to each prepare a report on enforcement mechanisms and to submit the reports to Congress not later than Dec. 1, 1988.
+Pub. L. 100–4, title III, § 314(b), Feb. 4, 1987, 101 Stat. 49, directed Secretary of the Army and Administrator to each prepare a report on enforcement mechanisms and to submit the reports to Congress not later than Dec. 1, 1988.
 
-Pub. L. 100–4, title IV, § 404(c), Feb. 4, 1987, 101 Stat. 69, directed Administrator to study extent to which States have adopted water quality standards in accordance with section 1313a of this title and extent to which modifications of permits issued under section 1342(a)(1)(B) of this title for the purpose of reflecting revisions of water quality standards be encouraged and to submit a report on such study to Congress not later than 2 years after Feb. 4, 1987, prior to repeal by Pub. L. 104–66, title II, § 2021(e)(1), Dec. 21, 1995, 109 Stat. 727.
+Pub. L. 100–4, title IV, § 404(c), Feb. 4, 1987, 101 Stat. 69, directed Administrator to study extent to which States have adopted water quality standards in accordance with section 1313a of this title and extent to which modifications of permits issued under section 1342(a)(1)(B) of this title for the purpose of reflecting revisions of water quality standards be encouraged and to submit a report on such study to Congress not later than 2 years after Feb. 4, 1987, prior to repeal by Pub. L. 104–66, title II, § 2021(e)(1), Dec. 21, 1995, 109 Stat. 727.
 
-Pub. L. 100–4, title V, § 516, Feb. 4, 1987, 101 Stat. 86, directed Administrator to conduct a study of de minimis discharges and report results of such study to specified Congressional committees not later than 1 year after Feb. 4, 1987.
+Pub. L. 100–4, title V, § 516, Feb. 4, 1987, 101 Stat. 86, directed Administrator to conduct a study of de minimis discharges and report results of such study to specified Congressional committees not later than 1 year after Feb. 4, 1987.
 
-Pub. L. 100–4, title V, § 517, Feb. 4, 1987, 101 Stat. 86, directed Administrator to conduct a study of effectiveness of innovative and alternative wastewater processes and techniques and report results of such study to specified Congressional committees not later than 1 year after Feb. 4, 1987.
+Pub. L. 100–4, title V, § 517, Feb. 4, 1987, 101 Stat. 86, directed Administrator to conduct a study of effectiveness of innovative and alternative wastewater processes and techniques and report results of such study to specified Congressional committees not later than 1 year after Feb. 4, 1987.
 
-Pub. L. 100–4, title V, § 518, Feb. 4, 1987, 101 Stat. 86, directed Administrator to conduct a study of testing procedures established under section 1314(h) of this title for analysis of pollutants and report results of such study to specified Congressional committees not later than 1 year after Feb. 4, 1987.
+Pub. L. 100–4, title V, § 518, Feb. 4, 1987, 101 Stat. 86, directed Administrator to conduct a study of testing procedures established under section 1314(h) of this title for analysis of pollutants and report results of such study to specified Congressional committees not later than 1 year after Feb. 4, 1987.
 
-Pub. L. 100–4, title V, § 519, Feb. 4, 1987, 101 Stat. 87, directed Administrator to conduct a study of pretreatment of toxic pollutants and report results of such study to specified Congressional committees not later than 4 years after Feb. 4, 1987.
+Pub. L. 100–4, title V, § 519, Feb. 4, 1987, 101 Stat. 87, directed Administrator to conduct a study of pretreatment of toxic pollutants and report results of such study to specified Congressional committees not later than 4 years after Feb. 4, 1987.
 
-Pub. L. 100–4, title V, § 520, Feb. 4, 1987, 101 Stat. 87, directed Administrator, in conjunction with State and local agencies, to conduct studies of water pollution problems in aquifers and report result of such studies to Congress not later than 2 years after Feb. 4, 1987.
+Pub. L. 100–4, title V, § 520, Feb. 4, 1987, 101 Stat. 87, directed Administrator, in conjunction with State and local agencies, to conduct studies of water pollution problems in aquifers and report result of such studies to Congress not later than 2 years after Feb. 4, 1987.
 
-Pub. L. 100–4, title V, § 522, Feb. 4, 1987, 101 Stat. 88, directed Administrator to conduct a study on sulfide corrosion in collection and treatment systems and report results of such study to specified Congressional committees not later than 1 year after Feb. 4, 1987.
+Pub. L. 100–4, title V, § 522, Feb. 4, 1987, 101 Stat. 88, directed Administrator to conduct a study on sulfide corrosion in collection and treatment systems and report results of such study to specified Congressional committees not later than 1 year after Feb. 4, 1987.
 
-Pub. L. 100–4, title V, § 523, Feb. 4, 1987, 101 Stat. 89, directed Administrator to conduct a study of rainfall induced infiltration into sewer systems and report results of such study to Congress not later than 1 year after Feb. 4, 1987.
+Pub. L. 100–4, title V, § 523, Feb. 4, 1987, 101 Stat. 89, directed Administrator to conduct a study of rainfall induced infiltration into sewer systems and report results of such study to Congress not later than 1 year after Feb. 4, 1987.
 
-Pub. L. 100–4, title V, § 524, Feb. 4, 1987, 101 Stat. 89, directed Administrator to conduct a study of dam water quality and report results of such study to Congress not later than Dec. 31, 1987.
+Pub. L. 100–4, title V, § 524, Feb. 4, 1987, 101 Stat. 89, directed Administrator to conduct a study of dam water quality and report results of such study to Congress not later than Dec. 31, 1987.
 
-Pub. L. 100–4, title V, § 525, Feb. 4, 1987, 101 Stat. 89, directed Administrator to conduct a study of pollution in Lake Pend Oreille, Idaho, and the Clark Fork River and its tributaries, Idaho, Montana, and Washington, and to report to Congress findings and recommendations.
+Pub. L. 100–4, title V, § 525, Feb. 4, 1987, 101 Stat. 89, directed Administrator to conduct a study of pollution in Lake Pend Oreille, Idaho, and the Clark Fork River and its tributaries, Idaho, Montana, and Washington, and to report to Congress findings and recommendations.
 
 **Detailed Estimates, Comprehensive Study, and Comprehensive Analysis; Report to Congress not Later Than December 31, 1982**
 
-Pub. L. 97–117, § 25, Dec. 29, 1981, 95 Stat. 1633, provided that the Administrator of the Environmental Protection Agency submit to the Congress, not later than December 31, 1982, a report containing the detailed estimates, comprehensive study, and comprehensive analysis required by section 1375(b) of this title, including an estimate of the total cost and the amount of Federal funds necessary for the construction of needed publicly owned treatment facilities, such report to reflect the changes made in the Federal water pollution control program by Pub. L. 97–117 [see Short Title of 1981 Amendment note set out under section 1251 of this title]. The Administrator was to give emphasis to the effects of the amendment made by section 2(a) of Pub. L. 97–117 [amending section 1281(g)(1) of this title] in addressing water quality needs adequately and appropriately.
+Pub. L. 97–117, § 25, Dec. 29, 1981, 95 Stat. 1633, provided that the Administrator of the Environmental Protection Agency submit to the Congress, not later than December 31, 1982, a report containing the detailed estimates, comprehensive study, and comprehensive analysis required by section 1375(b) of this title, including an estimate of the total cost and the amount of Federal funds necessary for the construction of needed publicly owned treatment facilities, such report to reflect the changes made in the Federal water pollution control program by Pub. L. 97–117 [see Short Title of 1981 Amendment note set out under section 1251 of this title]. The Administrator was to give emphasis to the effects of the amendment made by section 2(a) of Pub. L. 97–117 [amending section 1281(g)(1) of this title] in addressing water quality needs adequately and appropriately.
 
 **Study and Report to Congress by Secretary of the Interior of Financing Water Pollution Prevention, Control, and Abatement Programs**
 
-Pub. L. 91–224, title I, § 109, Apr. 3, 1970, 34 Stat. 113, directed the Secretary of the Interior to conduct a full and complete investigation and study of the feasibility of all methods of financing the cost of preventing, controlling, and abating water pollution, other than methods authorized by existing law, with results of such investigation and study to be reported to Congress no later than Dec. 31, 1970, together with the recommendations of the Secretary for financing the programs for preventing, controlling, and abating water pollution for the fiscal years beginning after fiscal year 1971, including any necessary legislation.
+Pub. L. 91–224, title I, § 109, Apr. 3, 1970, 34 Stat. 113, directed the Secretary of the Interior to conduct a full and complete investigation and study of the feasibility of all methods of financing the cost of preventing, controlling, and abating water pollution, other than methods authorized by existing law, with results of such investigation and study to be reported to Congress no later than Dec. 31, 1970, together with the recommendations of the Secretary for financing the programs for preventing, controlling, and abating water pollution for the fiscal years beginning after fiscal year 1971, including any necessary legislation.
 
 **Termination of Advisory Boards**
 
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law, see sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-### § 1375a. Report on coastal recreation waters
+### § 1375a. Report on coastal recreation waters
 
 **(a) In general** Not later than 4 years after October 10, 2000, and every 4 years thereafter, the Administrator of the Environmental Protection Agency shall submit to Congress a report that includes—
 
@@ -15181,7 +15181,7 @@ Advisory boards in existence on Jan. 5, 1973, to terminate not later than the ex
 
 The Administrator of the Environmental Protection Agency may coordinate the report under this section with other reporting requirements under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.).
 
-(Pub. L. 106–284, § 7, Oct. 10, 2000, 114 Stat. 876.)
+(Pub. L. 106–284, § 7, Oct. 10, 2000, 114 Stat. 876.)
 
 **Editorial Notes**
 
@@ -15189,21 +15189,21 @@ The Administrator of the Environmental Protection Agency may coordinate the repo
 
 This Act, referred to in subsec. (a)(2), is Pub. L. 106–284, Oct. 10, 2000, 114 Stat. 870, known as the Beaches Environmental Assessment and Coastal Health Act of 2000. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1251 of this title and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (b), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (b), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the Beaches Environmental Assessment and Coastal Health Act of 2000, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
 
-### § 1376. Authorization of appropriations
+### § 1376. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this chapter, other than sections 1254, 1255, 1256(a), 1257, 1258, 1262, 1263, 1264,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 1265, 1286, 1287, 1288(f) and (h), 1289, 1314, 1321(c), (d), (i), (*l*), and (k),1 1324, 1325, and 1327 of this title, $250,000,000 for the fiscal year ending June 30, 1973, $300,000,000 for the fiscal year ending June 30, 1974, $350,000,000 for the fiscal year ending June 30, 1975, $100,000,000 for the fiscal year ending September 30, 1977, $150,000,000 for the fiscal year ending September 30, 1978, $150,000,000 for the fiscal year ending September 30, 1979, $150,000,000 for the fiscal year ending September 30, 1980, $150,000,000 for the fiscal year ending September 30, 1981, $161,000,000 for the fiscal year ending September 30, 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $135,000,000 per fiscal year for each of the fiscal years 1986 through 1990.
 
-(June 30, 1948, ch. 758, title V, § 517, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 896; amended Pub. L. 95–217, § 4(g), Dec. 27, 1977, 91 Stat. 1567; Pub. L. 96–483, § 1(g), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, § 101(h), Feb. 4, 1987, 101 Stat. 9.)
+(June 30, 1948, ch. 758, title V, § 517, as added Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 896; amended Pub. L. 95–217, § 4(g), Dec. 27, 1977, 91 Stat. 1567; Pub. L. 96–483, § 1(g), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, § 101(h), Feb. 4, 1987, 101 Stat. 9.)
 
 **Editorial Notes**
 
@@ -15211,11 +15211,11 @@ There are authorized to be appropriated to carry out this chapter, other than se
 
 Section 1264 of this title, referred to in text, was omitted from the Code.
 
-Section 1321(k) of this title, referred to in text, was repealed by Pub. L. 101–380, title II, § 2002(b)(2), Aug. 18, 1990, 104 Stat. 507.
+Section 1321(k) of this title, referred to in text, was repealed by Pub. L. 101–380, title II, § 2002(b)(2), Aug. 18, 1990, 104 Stat. 507.
 
 **Amendments**
 
-1987—Pub. L. 100–4 struck out “and” after “1981,” and inserted “, such sums as may be necessary for fiscal years 1983 through 1985, and $135,000,000 per fiscal year for each of the fiscal years 1986 through 1990” after “1982”.
+1987—Pub. L. 100–4 struck out “and” after “1981,” and inserted “, such sums as may be necessary for fiscal years 1983 through 1985, and $135,000,000 per fiscal year for each of the fiscal years 1986 through 1990” after “1982”.
 
 1980—Pub. L. 96–483 inserted authorization of $150,000,000 for fiscal year ending Sept. 30, 1981 and $161,000,000 for fiscal year ending Sept. 30, 1982.
 
@@ -15225,9 +15225,9 @@ Section 1321(k) of this title, referred to in text, was repealed by Pub. L. 101�
 
 **Authorization Approval for Funds Appropriated Before December 27, 1977, for Expenditures Through Fiscal Year Ending September 30, 1977**
 
-Pub. L. 95–217, § 3, Dec. 27, 1977, 91 Stat. 1566, provided that funds appropriated before Dec. 27, 1977 for expenditure during the fiscal year ending June 30, 1976, the transition quarter ending September 30, 1976, and the fiscal year ending September 30, 1977, under authority of this chapter were authorized for those purposes for which appropriated.
+Pub. L. 95–217, § 3, Dec. 27, 1977, 91 Stat. 1566, provided that funds appropriated before Dec. 27, 1977 for expenditure during the fiscal year ending June 30, 1976, the transition quarter ending September 30, 1976, and the fiscal year ending September 30, 1977, under authority of this chapter were authorized for those purposes for which appropriated.
 
-### § 1377. Indian tribes
+### § 1377. Indian tribes
 
 **(a) Policy**
 
@@ -15271,9 +15271,9 @@ Such treatment as a State may include the direct provision of funds reserved und
 
 **(f) Grants for nonpoint source programs**
 
-The Administrator shall make grants to an Indian tribe under section 1329 of this title as though such tribe was a State. Not more than one-third of one percent of the amount appropriated for any fiscal year under section 1329 of this title may be used to make grants under this subsection. In addition to the requirements of section 1329 of this title, an Indian tribe shall be required to meet the requirements of paragraphs (1), (2), and (3) of subsection (d) 1
+The Administrator shall make grants to an Indian tribe under section 1329 of this title as though such tribe was a State. Not more than one-third of one percent of the amount appropriated for any fiscal year under section 1329 of this title may be used to make grants under this subsection. In addition to the requirements of section 1329 of this title, an Indian tribe shall be required to meet the requirements of paragraphs (1), (2), and (3) of subsection (d) 1
 
-<sup>1</sup>  So in original. Probably should be subsection “(e)”.
+<sup>1</sup> So in original. Probably should be subsection “(e)”.
 
 of this section in order to receive such a grant.
 
@@ -15291,13 +15291,13 @@ of this section in order to receive such a grant.
 
 **(2)** “Indian tribe” means any Indian tribe, band, group, or community recognized by the Secretary of the Interior and exercising governmental authority over a Federal Indian reservation.
 
-(June 30, 1948, ch. 758, title V, § 518, as added Pub. L. 100–4, title V, § 506, Feb. 4, 1987, 101 Stat. 76; amended Pub. L. 100–581, title II, § 207, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 106–284, § 6, Oct. 10, 2000, 114 Stat. 876; Pub. L. 113–121, title V, § 5013, June 10, 2014, 128 Stat. 1328.)
+(June 30, 1948, ch. 758, title V, § 518, as added Pub. L. 100–4, title V, § 506, Feb. 4, 1987, 101 Stat. 76; amended Pub. L. 100–581, title II, § 207, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 106–284, § 6, Oct. 10, 2000, 114 Stat. 876; Pub. L. 113–121, title V, § 5013, June 10, 2014, 128 Stat. 1328.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of June 18, 1934 (48 Stat. 987), referred to in subsec. (g)(1), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to chapter 45 (§ 5101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 25 and Tables.
+Act of June 18, 1934 (48 Stat. 987), referred to in subsec. (g)(1), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to chapter 45 (§ 5101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 25 and Tables.
 
 **Prior Provisions**
 
@@ -15305,13 +15305,13 @@ A prior section 518 of act June 30, 1948, was renumbered section 519 and is set 
 
 **Amendments**
 
-2014—Subsec. (c). Pub. L. 113–121, § 5013(1), (3), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
+2014—Subsec. (c). Pub. L. 113–121, § 5013(1), (3), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 
-Subsec. (c)(1). Pub. L. 113–121, § 5013(2), substituted “each of fiscal years 1987 through 2014,” for “each fiscal year beginning after September 30, 1986,” and struck out at end “Sums reserved under this subsection shall be available only for grants for the development of waste treatment management plans and for the construction of sewage treatment works to serve Indian tribes, as defined in subsection (h) and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203.”
+Subsec. (c)(1). Pub. L. 113–121, § 5013(2), substituted “each of fiscal years 1987 through 2014,” for “each fiscal year beginning after September 30, 1986,” and struck out at end “Sums reserved under this subsection shall be available only for grants for the development of waste treatment management plans and for the construction of sewage treatment works to serve Indian tribes, as defined in subsection (h) and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203.”
 
 2000—Subsec. (e). Pub. L. 106–284 substituted “1344, and 1346 of this title” for “and 1344 of this title” in introductory provisions.
 
-1988—Subsec. (c). Pub. L. 100–581 inserted “, as defined in subsection (h) and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203” before period at end.
+1988—Subsec. (c). Pub. L. 100–581 inserted “, as defined in subsection (h) and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -15331,11 +15331,11 @@ Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 512.
 
 Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 685.
 
-Pub. L. 106–377, § 1(a)(1) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A–43.
+Pub. L. 106–377, § 1(a)(1) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A–43.
 
 Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1083.
 
-### § 1377a. Green infrastructure promotion
+### § 1377a. Green infrastructure promotion
 
 **(a) In general**
 
@@ -15365,7 +15365,7 @@ The Administrator shall promote the use of green infrastructure in, and coordina
 
 **(4)** achieving other environmental, public health, and community goals.
 
-(June 30, 1948, ch. 758, title V, § 519, as added Pub. L. 115–436, § 5(b)(2), Jan. 14, 2019, 132 Stat. 5561.)
+(June 30, 1948, ch. 758, title V, § 519, as added Pub. L. 115–436, § 5(b)(2), Jan. 14, 2019, 132 Stat. 5561.)
 
 **Editorial Notes**
 
@@ -15375,7 +15375,7 @@ A prior section 519 of act June 30, 1948, was renumbered section 520 and is set 
 
 ## SUBCHAPTER VI—STATE WATER POLLUTION CONTROL REVOLVING FUNDS
 
-### § 1381. Grants to States for establishment of revolving funds
+### § 1381. Grants to States for establishment of revolving funds
 
 **(a) General authority**
 
@@ -15391,7 +15391,7 @@ Subject to the provisions of this subchapter, the Administrator shall make capit
 
 **(B)** 12 quarters after the date such funds were allotted to the State.
 
-(June 30, 1948, ch. 758, title VI, § 601, as added Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 22; amended Pub. L. 113–121, title V, § 5001, June 10, 2014, 128 Stat. 1322.)
+(June 30, 1948, ch. 758, title VI, § 601, as added Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 22; amended Pub. L. 113–121, title V, § 5001, June 10, 2014, 128 Stat. 1322.)
 
 **Editorial Notes**
 
@@ -15403,9 +15403,9 @@ Subject to the provisions of this subchapter, the Administrator shall make capit
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–121, title V, § 5006, June 10, 2014, 128 Stat. 1327, provided that: “This subtitle [subtitle A (§§ 5001–5006) of title V of Pub. L. 113–121, enacting section 1388 of this title and amending this section and sections 1382 and 1383 of this title], including any amendments made by the subtitle, shall take effect on October 1, 2014.”
+Pub. L. 113–121, title V, § 5006, June 10, 2014, 128 Stat. 1327, provided that: “This subtitle [subtitle A (§§ 5001–5006) of title V of Pub. L. 113–121, enacting section 1388 of this title and amending this section and sections 1382 and 1383 of this title], including any amendments made by the subtitle, shall take effect on October 1, 2014.”
 
-### § 1382. Capitalization grant agreements
+### § 1382. Capitalization grant agreements
 
 **(a) General rule**
 
@@ -15451,17 +15451,17 @@ To receive a capitalization grant with funds made available under this subchapte
 
 **(14)** a contract to be carried out using funds directly made available by a capitalization grant under this subchapter for program management, construction management, feasibility studies, preliminary engineering, design, engineering, surveying, mapping, or architectural related services shall be negotiated in the same manner as a contract for architectural and engineering services is negotiated under chapter 11 of title 40 or an equivalent State qualifications-based requirement (as determined by the Governor of the State).
 
-(June 30, 1948, ch. 758, title VI, § 602, as added Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 22; amended Pub. L. 113–121, title V, § 5002, June 10, 2014, 128 Stat. 1322.)
+(June 30, 1948, ch. 758, title VI, § 602, as added Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 22; amended Pub. L. 113–121, title V, § 5002, June 10, 2014, 128 Stat. 1322.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (b)(6). Pub. L. 113–121, § 5002(1), substituted “eligible under this chapter” for “eligible under section 1383(c)(1) of this title”, “with assistance made available by a State water pollution control revolving fund authorized under this subchapter, or section 1285(m) of this title, or both,” for “before fiscal year 1995 with funds directly made available by capitalization grants under this subchapter and section 1285(m) of this title”, and “sections 1371(c)(1)” for “sections 1281(b), 1281(g)(1), 1281(g)(2), 1281(g)(3), 1281(g)(5), 1281(g)(6), 1281(n)(1), 1281(*o*), 1284(a)(1), 1284(a)(2), 1284(b)(1), 1284(d)(2), 1291, 1298, 1371(c)(1),”.
+2014—Subsec. (b)(6). Pub. L. 113–121, § 5002(1), substituted “eligible under this chapter” for “eligible under section 1383(c)(1) of this title”, “with assistance made available by a State water pollution control revolving fund authorized under this subchapter, or section 1285(m) of this title, or both,” for “before fiscal year 1995 with funds directly made available by capitalization grants under this subchapter and section 1285(m) of this title”, and “sections 1371(c)(1)” for “sections 1281(b), 1281(g)(1), 1281(g)(2), 1281(g)(3), 1281(g)(5), 1281(g)(6), 1281(n)(1), 1281(*o*), 1284(a)(1), 1284(a)(2), 1284(b)(1), 1284(d)(2), 1291, 1298, 1371(c)(1),”.
 
-Subsec. (b)(9). Pub. L. 113–121, § 5002(2), substituted “standards, including standards relating to the reporting of infrastructure assets;” for “standards; and”.
+Subsec. (b)(9). Pub. L. 113–121, § 5002(2), substituted “standards, including standards relating to the reporting of infrastructure assets;” for “standards; and”.
 
-Subsec. (b)(11) to (14). Pub. L. 113–121, § 5002(3), (4), added pars. (11) to (14).
+Subsec. (b)(11) to (14). Pub. L. 113–121, § 5002(3), (4), added pars. (11) to (14).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -15469,7 +15469,7 @@ Subsec. (b)(11) to (14). Pub. L. 113–121, § 5002(3), (4), added pars. (11) 
 
 Amendment by Pub. L. 113–121 effective Oct. 1, 2014, see section 5006 of Pub. L. 113–121, set out as a note under section 1381 of this title.
 
-### § 1383. Water pollution control revolving loan funds
+### § 1383. Water pollution control revolving loan funds
 
 **(a) Requirements for obligation of grant funds**
 
@@ -15649,39 +15649,39 @@ In subsection (c)(12), the term “eligible individual” means a member of a ho
 
 A State may use an additional 2 percent of the funds annually awarded to each State under this subchapter for nonprofit organizations (as defined in section 1254(w) of this title) or State, regional, interstate, or municipal entities to provide technical assistance to rural, small, and tribal publicly owned treatment works (within the meaning of section 1254(b)(8)(B) of this title) in the State.
 
-(June 30, 1948, ch. 758, title VI, § 603, as added Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 23; amended Pub. L. 113–121, title V, § 5003, June 10, 2014, 128 Stat. 1323; Pub. L. 114–322, title IV, § 5012, Dec. 16, 2016, 130 Stat. 1902; Pub. L. 115–270, title IV, § 4107(a), Oct. 23, 2018, 132 Stat. 3876; Pub. L. 117–58, div. E, title II, § 50210(a)(1), Nov. 15, 2021, 135 Stat. 1169.)
+(June 30, 1948, ch. 758, title VI, § 603, as added Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 23; amended Pub. L. 113–121, title V, § 5003, June 10, 2014, 128 Stat. 1323; Pub. L. 114–322, title IV, § 5012, Dec. 16, 2016, 130 Stat. 1902; Pub. L. 115–270, title IV, § 4107(a), Oct. 23, 2018, 132 Stat. 3876; Pub. L. 117–58, div. E, title II, § 50210(a)(1), Nov. 15, 2021, 135 Stat. 1169.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (d). Pub. L. 117–58, § 50210(a)(1)(A), inserted “and provided in subsection (k)” after “State law” in introductory provisions.
+2021—Subsec. (d). Pub. L. 117–58, § 50210(a)(1)(A), inserted “and provided in subsection (k)” after “State law” in introductory provisions.
 
-Subsec. (i)(1). Pub. L. 117–58, § 50210(a)(1)(B)(i), substituted “(including forgiveness of principal, grants, negative interest loans, other loan forgiveness, and through buying, refinancing, or restructuring debt)” for “, including forgiveness of principal and negative interest loans” in introductory provisions.
+Subsec. (i)(1). Pub. L. 117–58, § 50210(a)(1)(B)(i), substituted “(including forgiveness of principal, grants, negative interest loans, other loan forgiveness, and through buying, refinancing, or restructuring debt)” for “, including forgiveness of principal and negative interest loans” in introductory provisions.
 
-Subsec. (i)(3)(B). Pub. L. 117–58, § 50210(a)(1)(B)(ii), added subpar. (B) and struck out former subpar. (B) which made an additional limitation on additional subsidization under subsec. (i).
+Subsec. (i)(3)(B). Pub. L. 117–58, § 50210(a)(1)(B)(ii), added subpar. (B) and struck out former subpar. (B) which made an additional limitation on additional subsidization under subsec. (i).
 
-Subsec. (k). Pub. L. 117–58, § 50210(a)(1)(C), added subsec. (k).
+Subsec. (k). Pub. L. 117–58, § 50210(a)(1)(C), added subsec. (k).
 
-2018—Subsec. (c)(12). Pub. L. 115–270, § 4107(a)(1), added par. (12).
+2018—Subsec. (c)(12). Pub. L. 115–270, § 4107(a)(1), added par. (12).
 
-Subsec. (j). Pub. L. 115–270, § 4107(a)(2), added subsec. (j).
+Subsec. (j). Pub. L. 115–270, § 4107(a)(2), added subsec. (j).
 
-2016—Subsec. (i)(1). Pub. L. 114–322, § 5012(1), substituted “to an eligible recipient” for “to a municipality or intermunicipal, interstate, or State agency” in introductory provisions.
+2016—Subsec. (i)(1). Pub. L. 114–322, § 5012(1), substituted “to an eligible recipient” for “to a municipality or intermunicipal, interstate, or State agency” in introductory provisions.
 
-Subsec. (i)(1)(A). Pub. L. 114–322, § 5012(2), inserted “in assistance to a municipality or intermunicipal, interstate, or State agency” before “to benefit” in introductory provisions.
+Subsec. (i)(1)(A). Pub. L. 114–322, § 5012(2), inserted “in assistance to a municipality or intermunicipal, interstate, or State agency” before “to benefit” in introductory provisions.
 
-2014—Subsec. (c). Pub. L. 113–121, § 5003(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The amounts of funds available to each State water pollution control revolving fund shall be used only for providing financial assistance (1) to any municipality, intermunicipal, interstate, or State agency for construction of publicly owned treatment works (as defined in section 1292 of this title), (2) for the implementation of a management program established under section 1329 of this title, and (3) for development and implementation of a conservation and management plan under section 1330 of this title. The fund shall be established, maintained, and credited with repayments, and the fund balance shall be available in perpetuity for providing such financial assistance.”
+2014—Subsec. (c). Pub. L. 113–121, § 5003(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The amounts of funds available to each State water pollution control revolving fund shall be used only for providing financial assistance (1) to any municipality, intermunicipal, interstate, or State agency for construction of publicly owned treatment works (as defined in section 1292 of this title), (2) for the implementation of a management program established under section 1329 of this title, and (3) for development and implementation of a conservation and management plan under section 1330 of this title. The fund shall be established, maintained, and credited with repayments, and the fund balance shall be available in perpetuity for providing such financial assistance.”
 
-Subsec. (d)(1)(A). Pub. L. 113–121, § 5003(2)(A)(i), substituted “the lesser of 30 years and the projected useful life (as determined by the State) of the project to be financed with the proceeds of the loan” for “20 years”.
+Subsec. (d)(1)(A). Pub. L. 113–121, § 5003(2)(A)(i), substituted “the lesser of 30 years and the projected useful life (as determined by the State) of the project to be financed with the proceeds of the loan” for “20 years”.
 
-Subsec. (d)(1)(B). Pub. L. 113–121, § 5003(2)(A)(ii), substituted “upon the expiration of the term of the loan” for “not later than 20 years after project completion”.
+Subsec. (d)(1)(B). Pub. L. 113–121, § 5003(2)(A)(ii), substituted “upon the expiration of the term of the loan” for “not later than 20 years after project completion”.
 
-Subsec. (d)(1)(E). Pub. L. 113–121, § 5003(2)(A)(iii)–(v), added subpar. (E).
+Subsec. (d)(1)(E). Pub. L. 113–121, § 5003(2)(A)(iii)–(v), added subpar. (E).
 
-Subsec. (d)(7). Pub. L. 113–121, § 5003(2)(B), inserted “, $400,000 per year, or ⅕ percent per year of the current valuation of the fund, whichever amount is greatest, plus the amount of any fees collected by the State for such purpose regardless of the source” before period at end.
+Subsec. (d)(7). Pub. L. 113–121, § 5003(2)(B), inserted “, $400,000 per year, or ⅕ percent per year of the current valuation of the fund, whichever amount is greatest, plus the amount of any fees collected by the State for such purpose regardless of the source” before period at end.
 
-Subsec. (i). Pub. L. 113–121, § 5003(3), added subsec. (i).
+Subsec. (i). Pub. L. 113–121, § 5003(3), added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -15689,7 +15689,7 @@ Subsec. (i). Pub. L. 113–121, § 5003(3), added subsec. (i).
 
 Amendment by Pub. L. 113–121 effective Oct. 1, 2014, see section 5006 of Pub. L. 113–121, set out as a note under section 1381 of this title.
 
-### § 1384. Allotment of funds
+### § 1384. Allotment of funds
 
 **(a) Formula**
 
@@ -15709,7 +15709,7 @@ Sums allotted to a State under this section for a fiscal year shall be available
 
 The amount of any allotment not obligated by the State by the last day of the 2-year period of availability established by paragraph (1) shall be immediately reallotted by the Administrator on the basis of the same ratio as is applicable to sums allotted under subchapter II of this chapter for the second fiscal year of such 2-year period. None of the funds reallotted by the Administrator shall be reallotted to any State which has not obligated all sums allotted to such State in the first fiscal year of such 2-year period.
 
-(June 30, 1948, ch. 758, title VI, § 604, as added Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 25.)
+(June 30, 1948, ch. 758, title VI, § 604, as added Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 25.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -15717,7 +15717,7 @@ The amount of any allotment not obligated by the State by the last day of the 2-
 
 Pub. L. 101–144, title III, Nov. 9, 1989, 103 Stat. 858, as amended by Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 238, provided: “That, notwithstanding any other provision of law, sums heretofore, herein or hereafter appropriated under this heading [“Environmental Protection Agency” and “construction grants”] allotted for title VI [33 U.S.C. 1381 et seq.] capitalization grants to American Samoa, Commonwealth of the Northern Mariana Islands, Guam, the Republic of Palau (or its successor entity), Virgin Islands and the District of Columbia, may be used for title II [33 U.S.C. 1281 et seq.] construction grants at the request of the chief executive of each of the above named entities, and sums appropriated in fiscal year 1989 shall remain available for obligation until September 30, 1992.”
 
-### § 1385. Corrective action
+### § 1385. Corrective action
 
 **(a) Notification of noncompliance**
 
@@ -15731,9 +15731,9 @@ If a State does not take corrective action within 60 days after the date a State
 
 If the Administrator is not satisfied that adequate corrective actions have been taken by the State within 12 months after the State is notified of such actions under subsection (a), the payments withheld from the State by the Administrator under subsection (b) shall be made available for reallotment in accordance with the most recent formula for allotment of funds under this subchapter.
 
-(June 30, 1948, ch. 758, title VI, § 605, as added Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 25.)
+(June 30, 1948, ch. 758, title VI, § 605, as added Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 25.)
 
-### § 1386. Audits, reports, and fiscal controls; intended use plan
+### § 1386. Audits, reports, and fiscal controls; intended use plan
 
 **(a) Fiscal control and auditing procedures** Each State electing to establish a water pollution control revolving fund under this subchapter shall establish fiscal controls and accounting procedures sufficient to assure proper accounting during appropriate accounting periods for—
 
@@ -15771,7 +15771,7 @@ The Administrator shall conduct an annual oversight review of each State plan pr
 
 Except to the extent provided in this subchapter, the provisions of subchapter II shall not apply to grants under this subchapter.
 
-(June 30, 1948, ch. 758, title VI, § 606, as added Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 25; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(June 30, 1948, ch. 758, title VI, § 606, as added Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 25; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -15779,7 +15779,7 @@ Except to the extent provided in this subchapter, the provisions of subchapter I
 
 2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-### § 1387. Authorization of appropriations
+### § 1387. Authorization of appropriations
 
 There are authorized to be appropriated to carry out the purposes of this subchapter—
 
@@ -15791,7 +15791,7 @@ There are authorized to be appropriated to carry out the purposes of this subcha
 
 **(4)** $3,250,000,000 for each of fiscal years 2025 and 2026.
 
-(June 30, 1948, ch. 758, title VI, § 607, as added Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 26; amended Pub. L. 117–58, div. E, title II, § 50210(b), Nov. 15, 2021, 135 Stat. 1169.)
+(June 30, 1948, ch. 758, title VI, § 607, as added Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 26; amended Pub. L. 117–58, div. E, title II, § 50210(b), Nov. 15, 2021, 135 Stat. 1169.)
 
 **Editorial Notes**
 
@@ -15799,7 +15799,7 @@ There are authorized to be appropriated to carry out the purposes of this subcha
 
 2021—Pub. L. 117–58 amended section generally. Prior to amendment, section related to appropriations for fiscal years 1989 to 1994.
 
-### § 1388. Requirements
+### § 1388. Requirements
 
 **(a) In general**
 
@@ -15833,7 +15833,7 @@ The Administrator may retain up to 0.25 percent of the funds appropriated for th
 
 This section does not apply with respect to a project if a State agency approves the engineering plans and specifications for the project, in that agency’s capacity to approve such plans and specifications prior to a project requesting bids, prior to June 10, 2014.
 
-(June 30, 1948, ch. 758, title VI, § 608, as added Pub. L. 113–121, title V, § 5004, June 10, 2014, 128 Stat. 1326.)
+(June 30, 1948, ch. 758, title VI, § 608, as added Pub. L. 113–121, title V, § 5004, June 10, 2014, 128 Stat. 1326.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -15841,7 +15841,7 @@ This section does not apply with respect to a project if a State agency approves
 
 Section effective Oct. 1, 2014, see section 5006 of Pub. L. 113–121, set out as an Effective Date of 2014 Amendment note under section 1381 of this title.
 
-### § 1389. Clean watersheds needs survey
+### § 1389. Clean watersheds needs survey
 
 **(a) Requirement** Not later than 2 years after November 15, 2021, and not less frequently than once every 4 years thereafter, the Administrator shall—
 
@@ -15853,4 +15853,4 @@ Section effective Oct. 1, 2014, see section 5006 of Pub. L. 113–121, set out a
 
 There is authorized to be appropriated to carry out the initial needs survey under subsection (a) $5,000,000, to remain available until expended.
 
-(June 30, 1948, ch. 758, title VI, § 609, as added Pub. L. 117–58, div. E, title II, § 50220, Nov. 15, 2021, 135 Stat. 1180.)
+(June 30, 1948, ch. 758, title VI, § 609, as added Pub. L. 117–58, div. E, title II, § 50220, Nov. 15, 2021, 135 Stat. 1180.)

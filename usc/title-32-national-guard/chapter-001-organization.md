@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1999—Pub. L. 106–65, div. A, title V, § 578(k)(3)(B), Oct. 5, 1999, 113 Stat. 631, added items 114 and 115 and struck out former item 114 “Honor guard functions at funerals for veterans”.
+1999—Pub. L. 106–65, div. A, title V, § 578(k)(3)(B), Oct. 5, 1999, 113 Stat. 631, added items 114 and 115 and struck out former item 114 “Honor guard functions at funerals for veterans”.
 
-1997—Pub. L. 105–85, div. A, title III, § 386(b), title V, § 517(b), Nov. 18, 1997, 111 Stat. 1713, 1734, added items 113 and 114.
+1997—Pub. L. 105–85, div. A, title III, § 386(b), title V, § 517(b), Nov. 18, 1997, 111 Stat. 1713, 1734, added items 113 and 114.
 
-1989—Pub. L. 101–189, div. A, title XII, § 1207(a)(2), Nov. 29, 1989, 103 Stat. 1566, added item 112.
+1989—Pub. L. 101–189, div. A, title XII, § 1207(a)(2), Nov. 29, 1989, 103 Stat. 1566, added item 112.
 
-1971—Pub. L. 92–119, § 1(b), Aug. 13, 1971, 85 Stat. 340, substituted “Availability” for “Apportionment” in item 107.
+1971—Pub. L. 92–119, § 1(b), Aug. 13, 1971, 85 Stat. 340, substituted “Availability” for “Apportionment” in item 107.
 
-1958—Pub. L. 85–861, § 2(4), Sept. 2, 1958, 72 Stat. 1543, added item 111.
+1958—Pub. L. 85–861, § 2(4), Sept. 2, 1958, 72 Stat. 1543, added item 111.
 
-## § 101. Definitions
+## § 101. Definitions
 
 In addition to the definitions in sections 1–5 of title 1, the following definitions apply in this title:
 
@@ -77,7 +77,7 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 **(14)** “Shall” is used in an imperative sense.
 
-**(15)** “May” is used in a permissive sense. The words “no person may \* \* \*” mean that no person is required, authorized, or permitted to do the act prescribed.
+**(15)** “May” is used in a permissive sense. The words “no person may \* \* \*” mean that no person is required, authorized, or permitted to do the act prescribed.
 
 **(16)** “Includes” means “includes but is not limited to”.
 
@@ -87,7 +87,7 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 **(19)** “Full-time National Guard duty” means training or other duty, other than inactive duty, performed by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member’s status as a member of the National Guard of a State or territory, the Commonwealth of Puerto Rico, or the District of Columbia under section 316, 502, 503, 504, or 505 of this title for which the member is entitled to pay from the United States or for which the member has waived pay from the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 596; Pub. L. 85–861, § 2(1), Sept. 2, 1958, 72 Stat. 1542; Pub. L. 86–70, § 27, June 25, 1959, 73 Stat. 148; Pub. L. 86–624, § 22, July 12, 1960, 74 Stat. 417; Pub. L. 92–492, § 2(a), Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title V, § 507(a), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 96–600, § 3(a), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 98–525, title IV, § 414(b)(1), Oct. 19, 1984, 98 Stat. 2519; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(1), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 596; Pub. L. 85–861, § 2(1), Sept. 2, 1958, 72 Stat. 1542; Pub. L. 86–70, § 27, June 25, 1959, 73 Stat. 148; Pub. L. 86–624, § 22, July 12, 1960, 74 Stat. 417; Pub. L. 92–492, § 2(a), Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title V, § 507(a), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 96–600, § 3(a), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 98–525, title IV, § 414(b)(1), Oct. 19, 1984, 98 Stat. 2519; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(1), Jan. 6, 2006, 119 Stat. 3441.)
 
 **Historical and Revision Notes**
 
@@ -95,9 +95,9 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 101(1) 101(2) 101(3) | 32:4c (1st 33 words). [No source]. 32:2. 32:4b. | June 3, 1916, ch. 134, § 62 (1st 36 words of last proviso), 39 Stat. 198. |
-| 101(4) | 50:1112(a) (for definition purposes). | June 3, 1916, ch. 134, § 117, 39 Stat. 212. |
-| 101(5)     101(6)     101(7) 101(8) 101(9) 101(10) 101(11) 101(12) 101(13) 101(14) 101(15) 101(16) | 10:1835 (less last 16 words). 32:2. 32:4b. 50:1112(b) (for definition purposes). [No source]. [No source]. [No source]. [No source]. [No source]. [No source]. [No source]. [No source]. [No source]. [No source]. | June 3, 1916, ch. 134, § 71; added June 15, 1933, ch. 87, § 9, 48 Stat. 157; Oct. 12, 1949, ch. 681, § 530, 63 Stat. 837; July 9, 1952, ch. 608, § 803 (9th par.), 66 Stat. 505. July 9, 1952, ch. 608, § 702 (for definition purposes), 66 Stat. 501. Sept. 19, 1951, ch. 407, § 305 (less last 16 words), 65 Stat. 330. |
+| 101(1) 101(2) 101(3) | 32:4c (1st 33 words). [No source]. 32:2. 32:4b. | June 3, 1916, ch. 134, § 62 (1st 36 words of last proviso), 39 Stat. 198. |
+| 101(4) | 50:1112(a) (for definition purposes). | June 3, 1916, ch. 134, § 117, 39 Stat. 212. |
+| 101(5) 101(6) 101(7) 101(8) 101(9) 101(10) 101(11) 101(12) 101(13) 101(14) 101(15) 101(16) | 10:1835 (less last 16 words). 32:2. 32:4b. 50:1112(b) (for definition purposes). [No source]. [No source]. [No source]. [No source]. [No source]. [No source]. [No source]. [No source]. [No source]. [No source]. | June 3, 1916, ch. 134, § 71; added June 15, 1933, ch. 87, § 9, 48 Stat. 157; Oct. 12, 1949, ch. 681, § 530, 63 Stat. 837; July 9, 1952, ch. 608, § 803 (9th par.), 66 Stat. 505. July 9, 1952, ch. 608, § 702 (for definition purposes), 66 Stat. 501. Sept. 19, 1951, ch. 407, § 305 (less last 16 words), 65 Stat. 330. |
 
 The definitions in clauses (2) and (9)–(17) reflect the adoption of terminology which, though undefined in the source statutes restated in this title, represent the closest practicable approximation of the ways in which the terms defined have been most commonly used. Where established uses conflict, a choice has been made.
 
@@ -105,7 +105,7 @@ In clause (1), the definition of “Territory” in 32:4c is executed throughout
 
 In clause (2), a definition of “National Guard” is inserted for clarity.
 
-In clause (3)(A), the words “a land force” are substituted for 32:2. The National Defense Act of 1916, § 117 (last 66 words), 39 Stat. 212, is not contained in 32:2. It is also omitted from the revised section as repealed by the act of February 28, 1925, ch. 374, § 3, 43 Stat. 1081.
+In clause (3)(A), the words “a land force” are substituted for 32:2. The National Defense Act of 1916, § 117 (last 66 words), 39 Stat. 212, is not contained in 32:2. It is also omitted from the revised section as repealed by the act of February 28, 1925, ch. 374, § 3, 43 Stat. 1081.
 
 In clauses (3) and (4), the word “Army” is inserted to distinguish the organizations defined from their Air Force counterparts.
 
@@ -134,13 +134,13 @@ The definition in clause (18) reflects the adoption of terminology which, though
 
 **Amendments**
 
-2006—Cl. (1). Pub. L. 109–163 amended cl. (1) generally. Prior to amendment, cl. (1) read as follows: “ ‘Territory’ means any Territory organized after this title is enacted, so long as it remains a Territory. However, for purposes of this title and other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, ‘Territory’ includes Guam and the Virgin Islands.”
+2006—Cl. (1). Pub. L. 109–163 amended cl. (1) generally. Prior to amendment, cl. (1) read as follows: “ ‘Territory’ means any Territory organized after this title is enacted, so long as it remains a Territory. However, for purposes of this title and other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, ‘Territory’ includes Guam and the Virgin Islands.”
 
 1988—Cls. (4), (6). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-1984—Cl. (12). Pub. L. 98–525, § 414(b)(1)(A), inserted at end “It does not include full-time National Guard duty.”
+1984—Cl. (12). Pub. L. 98–525, § 414(b)(1)(A), inserted at end “It does not include full-time National Guard duty.”
 
-Cl. (19). Pub. L. 98–525, § 414(b)(1)(B), added cl. (19).
+Cl. (19). Pub. L. 98–525, § 414(b)(1)(B), added cl. (19).
 
 1980—Cl. (1). Pub. L. 96–600 inserted reference to Guam.
 
@@ -166,7 +166,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Official Designation of Salem, Massachusetts, as Birthplace of the National Guard of the United States**
 
-Pub. L. 112–241, § 1, Jan. 10, 2013, 126 Stat. 2372, provided that:
+Pub. L. 112–241, § 1, Jan. 10, 2013, 126 Stat. 2372, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -194,7 +194,7 @@ Pub. L. 112–241, § 1, Jan. 10, 2013, 126 Stat. 2372, provided that:
 
 > **“(2) Funding source.—** Federal funds may not be used to design, procure, prepare, install, or maintain any monument, plaque, or other form of official recognition placed in Salem, Massachusetts, celebrating the designation of Salem, Massachusetts, as the Birthplace of the National Guard of the United States, but the Adjutant General of the State of Massachusetts may accept and expend contributions of non-Federal funds for this purpose.”
 
-## § 102. General policy
+## § 102. General policy
 
 In accordance with the traditional military policy of the United States, it is essential that the strength and organization of the Army National Guard and the Air National Guard as an integral part of the first line defenses of the United States be maintained and assured at all times. Whenever Congress determines that more units and organizations are needed for the national security than are in the regular components of the ground and air forces, the Army National Guard of the United States and the Air National Guard of the United States, or such parts of them as are needed, together with such units of other reserve components as are necessary for a balanced force, shall be ordered to active Federal duty and retained as long as so needed.
 
@@ -204,15 +204,15 @@ In accordance with the traditional military policy of the United States, it is e
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 102 | 50:921(b). | July 9, 1952, ch. 608, § 201(b), 66 Stat. 482. |
+| 102 | 50:921(b). | July 9, 1952, ch. 608, § 201(b), 66 Stat. 482. |
 
-The words “The Congress further declares \* \* \* as expressed in the National Defense Act of 1916 as amended” and “It is the intent of Congress that” are omitted as surplusage. The words “United States” are substituted for the words “our” and “this Nation”. The words “more \* \* \* than are in” are substituted for the words “in excess of those”. The words “Federal duty” are substituted for the words “military service of the United States”. The words “as long as so needed” are substituted for the words “so long as such necessity exists”.
+The words “The Congress further declares \* \* \* as expressed in the National Defense Act of 1916 as amended” and “It is the intent of Congress that” are omitted as surplusage. The words “United States” are substituted for the words “our” and “this Nation”. The words “more \* \* \* than are in” are substituted for the words “in excess of those”. The words “Federal duty” are substituted for the words “military service of the United States”. The words “as long as so needed” are substituted for the words “so long as such necessity exists”.
 
-## § 103. Branches and organizations
+## § 103. Branches and organizations
 
 The Army National Guard of each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands includes such members of the staff corps corresponding to the staff corps of the Army as the Secretary of the Army may authorize.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 597; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(2), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 597; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(2), Jan. 6, 2006, 119 Stat. 3441.)
 
 **Historical and Revision Notes**
 
@@ -230,7 +230,7 @@ The word “members” is substituted for the words “officers and enlisted men
 
 1988—Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-## § 104. Units: location; organization; command
+## § 104. Units: location; organization; command
 
 **(a)** Each State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands may fix the location of the units and headquarters of its National Guard.
 
@@ -248,14 +248,14 @@ The word “members” is substituted for the words “officers and enlisted men
 
 **(2)** the actual strength of such an organization in commissioned officers or enlisted members may not be reduced below the minimum strength prescribed by the President.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 598; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), (2), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(2)–(4), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 598; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), (2), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(2)–(4), Jan. 6, 2006, 119 Stat. 3441.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 104(a) 104(b) 104(c) | 32:6. 32:5 (1st sentence). 32:5 (less 1st sentence). | June 3, 1916, ch. 134, §§ 64, 65 (proviso), 68, 39 Stat. 198–200. |
-| 104(d) 104(e) 104(f) | 32:8. 32:10 (proviso). 32:16. | June 3, 1916, ch. 134, § 60; June 4, 1920, ch. 227 subch. I, § 36; restated June 15, 1933, ch. 87, § 6, 48 Stat. 156. |
+| 104(a) 104(b) 104(c) | 32:6. 32:5 (1st sentence). 32:5 (less 1st sentence). | June 3, 1916, ch. 134, §§ 64, 65 (proviso), 68, 39 Stat. 198–200. |
+| 104(d) 104(e) 104(f) | 32:8. 32:10 (proviso). 32:16. | June 3, 1916, ch. 134, § 60; June 4, 1920, ch. 227 subch. I, § 36; restated June 15, 1933, ch. 87, § 6, 48 Stat. 156. |
 
 In subsection (a), the words “within their respective borders” are omitted as surplusage.
 
@@ -269,31 +269,31 @@ In subsection (d), the word “brigades” is omitted as surplusage.
 
 In subsection (e), the word “tactical” is omitted as surplusage.
 
-In subsection (f), the words “have received compensation from the United States as members of the National Guard” are substituted for the words “shall be entitled to and shall have received compensation under the provisions of this title”. The words “actual strength \* \* \* in commissioned officers or enlisted members” are substituted for the words “commissioned or enlisted strength”.
+In subsection (f), the words “have received compensation from the United States as members of the National Guard” are substituted for the words “shall be entitled to and shall have received compensation under the provisions of this title”. The words “actual strength \* \* \* in commissioned officers or enlisted members” are substituted for the words “commissioned or enlisted strength”.
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–163, § 1057(b)(4), substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory and Puerto Rico”.
+2006—Subsec. (a). Pub. L. 109–163, § 1057(b)(4), substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory and Puerto Rico”.
 
-Subsec. (c). Pub. L. 109–163, § 1057(b)(2), substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State and Territory, Puerto Rico, and the District of Columbia”.
+Subsec. (c). Pub. L. 109–163, § 1057(b)(2), substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State and Territory, Puerto Rico, and the District of Columbia”.
 
-Subsec. (d). Pub. L. 109–163, § 1057(b)(3), substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
+Subsec. (d). Pub. L. 109–163, § 1057(b)(3), substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
 
-1988—Subsec. (a). Pub. L. 100–456, § 1234(b)(2), substituted “Each State or Territory and Puerto Rico” for “Each State and Territory, Puerto Rico, and the Canal Zone”.
+1988—Subsec. (a). Pub. L. 100–456, § 1234(b)(2), substituted “Each State or Territory and Puerto Rico” for “Each State and Territory, Puerto Rico, and the Canal Zone”.
 
-Subsecs. (c), (d). Pub. L. 100–456, § 1234(b)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
+Subsecs. (c), (d). Pub. L. 100–456, § 1234(b)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Council of Governors**
 
-Pub. L. 110–181, div. A, title XVIII, § 1822, Jan. 28, 2008, 122 Stat. 500, provided that: “The President shall establish a bipartisan Council of Governors to advise the Secretary of Defense, the Secretary of Homeland Security, and the White House Homeland Security Council on matters related to the National Guard and civil support missions.”
+Pub. L. 110–181, div. A, title XVIII, § 1822, Jan. 28, 2008, 122 Stat. 500, provided that: “The President shall establish a bipartisan Council of Governors to advise the Secretary of Defense, the Secretary of Homeland Security, and the White House Homeland Security Council on matters related to the National Guard and civil support missions.”
 
 **Comptroller General Assessments of National Guard Management**
 
-Pub. L. 107–314, div. A, title V, § 511(a), Dec. 2, 2002, 116 Stat. 2536, provided that:
+Pub. L. 107–314, div. A, title V, § 511(a), Dec. 2, 2002, 116 Stat. 2536, provided that:
 
 > “Not later than one year after the date of the enactment of this Act [Dec. 2, 2002], the Comptroller General shall submit to Congress a report on management of the National Guard. The report shall include the following:
 
@@ -307,11 +307,11 @@ Pub. L. 107–314, div. A, title V, § 511(a), Dec. 2, 2002, 116 Stat. 2536, p
 
 **Study of State and Federal Missions of National Guard**
 
-Pub. L. 103–160, div. A, title V, § 522, Nov. 30, 1993, 107 Stat. 1655, directed Secretary of Defense to provide for a study of State and Federal missions of National Guard to be carried out by a federally funded research and development center, including consideration of both separate and integrated requirements (including requirements pertaining to personnel, weapons, equipment, and facilities) that derive from those missions, required an interim report not later than May 1, 1994, and a final report not later than Nov. 15, 1994, directed Secretary to submit each report to Congress, not later than 15 days after the date on which it is received by the Secretary, and directed Secretary, together with Secretary of the Army and Secretary of the Air Force, to conduct evaluation of assumptions, analysis, findings, and recommendations of the study and, not later than Feb. 1, 1995, to submit to Congress a report on the evaluation.
+Pub. L. 103–160, div. A, title V, § 522, Nov. 30, 1993, 107 Stat. 1655, directed Secretary of Defense to provide for a study of State and Federal missions of National Guard to be carried out by a federally funded research and development center, including consideration of both separate and integrated requirements (including requirements pertaining to personnel, weapons, equipment, and facilities) that derive from those missions, required an interim report not later than May 1, 1994, and a final report not later than Nov. 15, 1994, directed Secretary to submit each report to Congress, not later than 15 days after the date on which it is received by the Secretary, and directed Secretary, together with Secretary of the Army and Secretary of the Air Force, to conduct evaluation of assumptions, analysis, findings, and recommendations of the study and, not later than Feb. 1, 1995, to submit to Congress a report on the evaluation.
 
 **Retention of Ancient Privileges and Organization**
 
-Act Aug. 10, 1956, ch. 1041, § 32, 70A Stat. 633, provided that:
+Act Aug. 10, 1956, ch. 1041, § 32, 70A Stat. 633, provided that:
 
 > **“(a)** Any corps of artillery, cavalry, or infantry existing in any of the States on the passage of the Act of May 8, 1792, which by the laws, customs, or usages of those States has been in continuous existence since the passage of that Act, shall be allowed to retain its ancient privileges, subject, nevertheless to all duties required by law of militia: *Provided*, That those organizations may be a part of the National Guard and entitled to all the privileges thereof, and shall conform in all respects to the organization, discipline, and training to the National Guard in time of war: *Provided further*, That for purposes of training and when on active duty in the service of the United States they may be assigned to higher units, as the President may direct, and shall be subject to the orders of officers under whom they shall be serving.
 
@@ -375,7 +375,7 @@ Sec. 5. *General Provisions.*
 
 Barack Obama.
 
-## § 105. Inspection
+## § 105. Inspection
 
 **(a)** Under regulations prescribed by such Secretary, the Secretary of the Army and the Secretary of the Air Force shall each have an inspection made by inspectors general, or by any other commissioned officers of the Regular Army or the Regular Air Force detailed for that purpose, to determine whether—
 
@@ -399,13 +399,13 @@ Barack Obama.
 
 **(c)** The Chief of the National Guard Bureau may have an inspection described in subsection (a) made by inspectors general, or by commissioned officers of the Army National Guard of the United States or the Air National Guard of the United States detailed for that purpose, on behalf of the Secretary of the Army or the Secretary of the Air Force. Any such inspection may be made only with the approval of the Secretary of the Army or the Secretary of the Air Force, as applicable.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 598; Pub. L. 95–79, title VIII, § 804(a), July 30, 1977, 91 Stat. 333; Pub. L. 102–484, div. A, title XI, § 1122, Oct. 23, 1992, 106 Stat. 2540; Pub. L. 116–92, div. A, title V, § 517, Dec. 20, 2019, 133 Stat. 1349; Pub. L. 117–263, div. A, title V, § 514(a), Dec. 23, 2022, 136 Stat. 2565.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 598; Pub. L. 95–79, title VIII, § 804(a), July 30, 1977, 91 Stat. 333; Pub. L. 102–484, div. A, title XI, § 1122, Oct. 23, 1992, 106 Stat. 2540; Pub. L. 116–92, div. A, title V, § 517, Dec. 20, 2019, 133 Stat. 1349; Pub. L. 117–263, div. A, title V, § 514(a), Dec. 23, 2022, 136 Stat. 2565.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 105(a) 105(b) | 32:15 (1st sentence). 32:15 (less 1st sentence). | June 3, 1916, ch. 134, § 93, 39 Stat. 206. |
+| 105(a) 105(b) | 32:15 (1st sentence). 32:15 (less 1st sentence). | June 3, 1916, ch. 134, § 93, 39 Stat. 206. |
 
 In subsection (a), the word “commissioned” is inserted, since 32:15 historically applied only to commissioned officers (see opinion of the Judge Advocate General of the Army (JAGA 1953/4078, 6 May 1953)).
 
@@ -421,17 +421,17 @@ In subsection (b), the words “under subsection (a)” are substituted for the 
 
 2022—Subsec. (a)(8). Pub. L. 117–263 added par. (8).
 
-2019—Subsec. (a). Pub. L. 116–92, § 517(a), in introductory provisions, substituted “by such Secretary, the Secretary of the Army and the Secretary of the Air Force shall each have” for “by him, the Secretary of the Army shall have” and “the Regular Army or the Regular Air Force” for “the Regular Army” and struck out “, if necessary,” after “inspectors general, or”; in pars. (1) to (5) and (7), substituted “Army National Guard or Air National Guard” for “Army National Guard”; and struck out concluding provisions which read as follows: “The Secretary of the Air Force has a similar duty with respect to the Air National Guard.”
+2019—Subsec. (a). Pub. L. 116–92, § 517(a), in introductory provisions, substituted “by such Secretary, the Secretary of the Army and the Secretary of the Air Force shall each have” for “by him, the Secretary of the Army shall have” and “the Regular Army or the Regular Air Force” for “the Regular Army” and struck out “, if necessary,” after “inspectors general, or”; in pars. (1) to (5) and (7), substituted “Army National Guard or Air National Guard” for “Army National Guard”; and struck out concluding provisions which read as follows: “The Secretary of the Air Force has a similar duty with respect to the Air National Guard.”
 
-Subsec. (c). Pub. L. 116–92, § 517(b), added subsec. (c).
+Subsec. (c). Pub. L. 116–92, § 517(b), added subsec. (c).
 
-1992—Subsec. (a). Pub. L. 102–484, § 1122(1), substituted “shall” for “may” in introductory provisions and added par. (7).
+1992—Subsec. (a). Pub. L. 102–484, § 1122(1), substituted “shall” for “may” in introductory provisions and added par. (7).
 
-Subsec. (b). Pub. L. 102–484, § 1122(2), inserted before period at end “; and for determining which units of the National Guard meet deployability standards”.
+Subsec. (b). Pub. L. 102–484, § 1122(2), inserted before period at end “; and for determining which units of the National Guard meet deployability standards”.
 
 1977—Subsec. (a). Pub. L. 95–79 substituted “Under regulations prescribed by him, the Secretary of the Army may have an inspection made” for “The Secretary of the Army shall have an inspection made at least once a year” and added cl. (6).
 
-## § 106. Annual appropriations
+## § 106. Annual appropriations
 
 Sums will be appropriated annually, out of any money in the Treasury not otherwise appropriated, for the support of the Army National Guard and the Air National Guard, including the issue of arms, ordnance stores, quartermaster stores, camp equipage, and other military supplies, and for the payment of other expenses authorized by law.
 
@@ -441,11 +441,11 @@ Sums will be appropriated annually, out of any money in the Treasury not otherwi
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 106 | 32:21. | June 3, 1916, ch. 134, § 67 (1st par.), 39 Stat. 199. |
+| 106 | 32:21. | June 3, 1916, ch. 134, § 67 (1st par.), 39 Stat. 199. |
 
 The words “issue of” are substituted for the words “the expense of providing”. The words “for issue to the National Guard” and “pertaining to said guard as are or may be” are omitted as surplusage.
 
-## § 107. Availability of appropriations
+## § 107. Availability of appropriations
 
 **(a)** Under such regulations as the Secretary concerned may prescribe, appropriations for the National Guard are available for—
 
@@ -469,7 +469,7 @@ The words “issue of” are substituted for the words “the expense of providi
 
 **(c)** The pay and allowances for the Chief of the National Guard Bureau and officers of the Army National Guard of the United States or the Air National Guard of the United States called to active duty under section 12402 of title 10 shall be paid from appropriations for the pay of the Army National Guard or Air National Guard.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 599; Pub. L. 90–83, § 4, Sept. 11, 1967, 81 Stat. 220; Pub. L. 92–119, § 1(a), Aug. 13, 1971, 85 Stat. 340; Pub. L. 97–258, § 2(h), Sept. 13, 1982, 96 Stat. 1061; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 103–337, div. A, title XVI, § 1676(a)(1), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 105–85, div. A, title VI, § 603(d)(4), Nov. 18, 1997, 111 Stat. 1783; Pub. L. 108–136, div. A, title V, § 514(a), Nov. 24, 2003, 117 Stat. 1460; Pub. L. 109–163, div. A, title X, § 1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 599; Pub. L. 90–83, § 4, Sept. 11, 1967, 81 Stat. 220; Pub. L. 92–119, § 1(a), Aug. 13, 1971, 85 Stat. 340; Pub. L. 97–258, § 2(h), Sept. 13, 1982, 96 Stat. 1061; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 103–337, div. A, title XVI, § 1676(a)(1), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 105–85, div. A, title VI, § 603(d)(4), Nov. 18, 1997, 111 Stat. 1783; Pub. L. 108–136, div. A, title V, § 514(a), Nov. 24, 2003, 117 Stat. 1460; Pub. L. 109–163, div. A, title X, § 1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
 
 **Historical and Revision Notes**
 
@@ -477,13 +477,13 @@ The words “issue of” are substituted for the words “the expense of providi
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 107(a) 107(b)     107(c) | 32:22 (less proviso). 32:22 (proviso, less words between 5th and 7th semicolons). 32:22 (words between 5th and 7th semicolons of proviso). | June 3, 1916, ch. 134, § 67 (2d par.), 39 Stat. 199; Sept. 22, 1922, ch. 423, § 3, 42 Stat. 1034; Apr. 6, 1928, ch. 321, 45 Stat. 406. |
+| 107(a) 107(b) 107(c) | 32:22 (less proviso). 32:22 (proviso, less words between 5th and 7th semicolons). 32:22 (words between 5th and 7th semicolons of proviso). | June 3, 1916, ch. 134, § 67 (2d par.), 39 Stat. 199; Sept. 22, 1922, ch. 423, § 3, 42 Stat. 1034; Apr. 6, 1928, ch. 321, 45 Stat. 406. |
 
 In subsection (a), the words “strengths in enlisted members of the active” are substituted for the words “number of enlisted men in active service”. The words between the eighth and ninth semicolons of 32:22, relating to horses and draft animals, are omitted as obsolete, since no animals are now authorized for the National Guard. The words “under section 106 of this title” are inserted, since only appropriations under that revised section are required to be apportioned.
 
 In subsection (b)(1) and (2), the words “actual and” are omitted as surplusage.
 
-In subsection (b)(2), the words “Reserve Officers holding commission in the National Guard” are omitted as covered by the words “officers of a \* \* \* reserve component of the Army or the Air Force”. The words “Army General Staff” are substituted for the words “War Department General Staff” to conform to section 3031(b) of title 10.
+In subsection (b)(2), the words “Reserve Officers holding commission in the National Guard” are omitted as covered by the words “officers of a \* \* \* reserve component of the Army or the Air Force”. The words “Army General Staff” are substituted for the words “War Department General Staff” to conform to section 3031(b) of title 10.
 
 In subsection (c), the words “under sections 251 and 252 of title 37” are substituted for the words “provided in section 19 of title 37”, since allowances for subsistence and quarters are now covered by those sections. The words “shall be paid from appropriations for the National Guard, but not from the allotment of a State or Territory, Puerto Rico, the Canal Zone, or the District of Columbia” are substituted for the words “shall constitute a charge against the whole sum annually appropriated for the support of the National Guard, and shall be paid therefrom and not from the allotment duly apportioned for any particular State, Territory, or the District of Columbia”.
 
@@ -491,7 +491,7 @@ In subsection (c), the words “under sections 251 and 252 of title 37” are su
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 32:107(c) | 31:698. | Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632. |
+| 32:107(c) | 31:698. | Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632. |
 
 The work “appropriations” is substituted for “funds appropriated” for consistency in the title.
 
@@ -511,11 +511,11 @@ The work “appropriations” is substituted for “funds appropriated” for co
 
 1982—Subsec. (c). Pub. L. 97–258 added subsec. (c).
 
-1971—Pub. L. 92–119, § 1(a)(1), substituted “Availability” for “Apportionment” in section catchline.
+1971—Pub. L. 92–119, § 1(a)(1), substituted “Availability” for “Apportionment” in section catchline.
 
-Subsec. (a). Pub. L. 92–119, § 1(a)(2), (3), (4), redesignated subsec. (b) as (a) and substituted “appropriation for the National Guard” for “apportioned appropriation”. Former subsec. (a), which provided for apportionment of appropriations for Army National Guard and Air National Guard under prescribed formulas among States, territories, Puerto Rico, Canal Zone, District of Columbia, was struck out.
+Subsec. (a). Pub. L. 92–119, § 1(a)(2), (3), (4), redesignated subsec. (b) as (a) and substituted “appropriation for the National Guard” for “apportioned appropriation”. Former subsec. (a), which provided for apportionment of appropriations for Army National Guard and Air National Guard under prescribed formulas among States, territories, Puerto Rico, Canal Zone, District of Columbia, was struck out.
 
-Subsecs. (b), (c). Pub. L. 92–119, § 1(a)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a) and amended.
+Subsecs. (b), (c). Pub. L. 92–119, § 1(a)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a) and amended.
 
 1967—Subsec. (c). Pub. L. 90–83 substituted “402 and 403” for “251 and 252”.
 
@@ -523,7 +523,7 @@ Subsecs. (b), (c). Pub. L. 92–119, § 1(a)(4), redesignated subsec. (c) as (
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–136, div. A, title V, § 514(b), Nov. 24, 2003, 117 Stat. 1460, provided that: “The amendments made by subsection (a) [amending this section] shall not apply with respect to funds appropriated for a fiscal year before fiscal year 2004.”
+Pub. L. 108–136, div. A, title V, § 514(b), Nov. 24, 2003, 117 Stat. 1460, provided that: “The amendments made by subsection (a) [amending this section] shall not apply with respect to funds appropriated for a fiscal year before fiscal year 2004.”
 
 **Effective Date of 1997 Amendment**
 
@@ -535,11 +535,11 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **Department of Defense State Partnership Program**
 
-Pub. L. 113–66, div. A, title XII, § 1205, Dec. 26, 2013, 127 Stat. 897, as amended by Pub. L. 114–92, div. A, title XII, § 1203(a)–(e), (g)–(i), Nov. 25, 2015, 129 Stat. 1037–1039, related to the Department of Defense State Partnership Program, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1246(e), Dec. 23, 2016, 130 Stat. 2521. See section 341 of Title 10, Armed Forces.
+Pub. L. 113–66, div. A, title XII, § 1205, Dec. 26, 2013, 127 Stat. 897, as amended by Pub. L. 114–92, div. A, title XII, § 1203(a)–(e), (g)–(i), Nov. 25, 2015, 129 Stat. 1037–1039, related to the Department of Defense State Partnership Program, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1246(e), Dec. 23, 2016, 130 Stat. 2521. See section 341 of Title 10, Armed Forces.
 
 **Limitation on Activities Under State Partnership Program Pending Compliance With Certain Program-Related Requirements**
 
-Pub. L. 112–239, div. A, title XII, § 1204, Jan. 2, 2013, 126 Stat. 1982, provided that:
+Pub. L. 112–239, div. A, title XII, § 1204, Jan. 2, 2013, 126 Stat. 1982, provided that:
 
 > **“(a) Limitation.—** If both requirements specified in subsection (b) are not met as of February 28, 2013, no activities may be carried out under the State Partnership Program after that date until both requirements are met.
 
@@ -553,21 +553,21 @@ Pub. L. 112–239, div. A, title XII, § 1204, Jan. 2, 2013, 126 Stat. 1982, p
 
 **Availability of Appropriated Funds for the State Partnership Program**
 
-Pub. L. 111–84, div. A, title XII, § 1210, Oct. 28, 2009, 123 Stat. 2517, which required the Secretary of Defense to prescribe regulations regarding appropriated funds for the State Partnership Program, submit the regulations to defense and foreign relations committees, and report to the committees, was repealed by Pub. L. 113–66, div. A, title XII, § 1205(h), Dec. 26, 2013, 127 Stat. 899.
+Pub. L. 111–84, div. A, title XII, § 1210, Oct. 28, 2009, 123 Stat. 2517, which required the Secretary of Defense to prescribe regulations regarding appropriated funds for the State Partnership Program, submit the regulations to defense and foreign relations committees, and report to the committees, was repealed by Pub. L. 113–66, div. A, title XII, § 1205(h), Dec. 26, 2013, 127 Stat. 899.
 
-## § 108. Forfeiture of Federal benefits
+## § 108. Forfeiture of Federal benefits
 
 If, within a time fixed by the President, a State fails to comply with a requirement of this title, or a regulation prescribed under this title, the National Guard of that State is barred, in whole or in part, as the President may prescribe, from receiving money or any other aid, benefit, or privilege authorized by law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 600; Pub. L. 103–337, div. A, title IX, § 904(c), Oct. 5, 1994, 108 Stat. 2827.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 600; Pub. L. 103–337, div. A, title IX, § 904(c), Oct. 5, 1994, 108 Stat. 2827.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 108 | 32:24. | June 3, 1916, ch. 134, § 116, 39 Stat. 212. |
+| 108 | 32:24. | June 3, 1916, ch. 134, § 116, 39 Stat. 212. |
 
-The words “does not comply” are substituted for the words “shall \* \* \* have failed or refused to comply”. The words “a requirement of, or regulation prescribed under, this title” are substituted for the words “any requirement of this title, or any regulation promulgated thereunder and in aid thereof by the President or the Secretary of the Army”. The words “money or any other aid” are substituted for the words “pecuniary or other aid”. The words “or provided by this title or any other” are omitted as surplusage.
+The words “does not comply” are substituted for the words “shall \* \* \* have failed or refused to comply”. The words “a requirement of, or regulation prescribed under, this title” are substituted for the words “any requirement of this title, or any regulation promulgated thereunder and in aid thereof by the President or the Secretary of the Army”. The words “money or any other aid” are substituted for the words “pecuniary or other aid”. The words “or provided by this title or any other” are omitted as surplusage.
 
 **Editorial Notes**
 
@@ -581,7 +581,7 @@ The words “does not comply” are substituted for the words “shall \* \*�
 
 Amendment by Pub. L. 103–337 effective at end of 90-day period beginning on Oct. 5, 1994, see section 904(d) of Pub. L. 103–337, set out as an Effective Date note under section 10501 of Title 10, Armed Forces.
 
-## § 109. Maintenance of other troops
+## § 109. Maintenance of other troops
 
 **(a)** In time of peace, a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands may maintain no troops other than those of its National Guard and defense forces authorized by subsection (c).
 
@@ -593,7 +593,7 @@ Amendment by Pub. L. 103–337 effective at end of 90-day period beginning on Oc
 
 **(e)** A person may not become a member of a defense force established under subsection (c) if he is a member of a reserve component of the armed forces.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 600; Pub. L. 85–861, § 2(2), Sept. 2, 1958, 72 Stat. 1542; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(3), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 111–383, div. A, title X, § 1075(h)(4)(B), Jan. 7, 2011, 124 Stat. 4377.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 600; Pub. L. 85–861, § 2(2), Sept. 2, 1958, 72 Stat. 1542; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(3), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 111–383, div. A, title X, § 1075(h)(4)(B), Jan. 7, 2011, 124 Stat. 4377.)
 
 **Historical and Revision Notes**
 
@@ -601,7 +601,7 @@ Amendment by Pub. L. 103–337 effective at end of 90-day period beginning on Oc
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 109(a)       109(b) | 32:194(a) (1st sentence). 32:194(c) (as applicable to 32:194(a) (1st sentence)). 32:194(a) (less 1st sentence). 32:194(c) (less applicability to 32:194(a) (1st sentence)). | June 3, 1916, ch. 134, § 61 (less (b)); restated Oct. 21, 1940, ch. 904 (less last 3 provisos); restated Aug. 18, 1941, ch. 363 (less last 3 provisos); restated Oct. 1, 1942, ch. 570 (less (b)); restated June 26, 1944, ch. 279 (less (b)); restated Sept. 27, 1950, ch. 1058 (less (b)), 64 Stat. 1072. |
+| 109(a) 109(b) | 32:194(a) (1st sentence). 32:194(c) (as applicable to 32:194(a) (1st sentence)). 32:194(a) (less 1st sentence). 32:194(c) (less applicability to 32:194(a) (1st sentence)). | June 3, 1916, ch. 134, § 61 (less (b)); restated Oct. 21, 1940, ch. 904 (less last 3 provisos); restated Aug. 18, 1941, ch. 363 (less last 3 provisos); restated Oct. 1, 1942, ch. 570 (less (b)); restated June 26, 1944, ch. 279 (less (b)); restated Sept. 27, 1950, ch. 1058 (less (b)), 64 Stat. 1072. |
 
 In subsection (a), the words “those of its National Guard” are substituted for the words “as authorized in accordance with the organization prescribed under this Act”.
 
@@ -627,23 +627,23 @@ In subsection (e), the words “defense force” are substituted for the words �
 
 **Amendments**
 
-2011—Subsecs. (a) to (c). Pub. L. 111–383 amended directory language of Pub. L. 109–163, § 1057(b)(3). See 2006 Amendment note below.
+2011—Subsecs. (a) to (c). Pub. L. 111–383 amended directory language of Pub. L. 109–163, § 1057(b)(3). See 2006 Amendment note below.
 
-2006—Subsecs. (a) to (c). Pub. L. 109–163, § 1057(b)(3), as amended by Pub. L. 111–383, substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia”.
+2006—Subsecs. (a) to (c). Pub. L. 109–163, § 1057(b)(3), as amended by Pub. L. 111–383, substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia”.
 
 1988—Subsecs. (a) to (c). Pub. L. 100–456 struck out “the Canal Zone,” after “Virgin Islands,”.
 
-1958—Subsecs. (a), (b). Pub. L. 85–861, § 2(2)(A), substituted “defense forces authorized by subsection (c)” for “State defense forces”.
+1958—Subsecs. (a), (b). Pub. L. 85–861, § 2(2)(A), substituted “defense forces authorized by subsection (c)” for “State defense forces”.
 
-Subsecs. (c) to (e). Pub. L. 85–861, § 2(2)(B), added subsecs. (c) to (e).
+Subsecs. (c) to (e). Pub. L. 85–861, § 2(2)(B), added subsecs. (c) to (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title X, § 1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that the amendment made by section 1075(h)(4)(B) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
+Pub. L. 111–383, div. A, title X, § 1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that the amendment made by section 1075(h)(4)(B) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
 
-## § 110. Regulations
+## § 110. Regulations
 
 The President shall prescribe regulations, and issue orders, necessary to organize, discipline, and govern the National Guard.
 
@@ -653,25 +653,25 @@ The President shall prescribe regulations, and issue orders, necessary to organi
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110 | 32:17. | June 3, 1916, ch. 134, § 118, 39 Stat. 213. |
+| 110 | 32:17. | June 3, 1916, ch. 134, § 118, 39 Stat. 213. |
 
 The word “rules” is omitted as covered by the word “regulations”. The words “National Guard” are substituted for the words “the militia provided for in this title”. The words “for the thorough” are omitted as surplusage.
 
-## § 111. Suspension of certain provisions of this title
+## § 111. Suspension of certain provisions of this title
 
-In time of war, or of emergency declared by Congress, the President may suspend the operation of any provision of sections 307(e), 309, 310, and 323(d) and (e) 1
+In time of war, or of emergency declared by Congress, the President may suspend the operation of any provision of sections 307(e), 309, 310, and 323(d) and (e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title with respect to the Army National Guard or the Air National Guard.
 
-(Added Pub. L. 85–861, § 2(3), Sept. 2, 1958, 72 Stat. 1543.)
+(Added Pub. L. 85–861, § 2(3), Sept. 2, 1958, 72 Stat. 1543.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 111 | 50:1199 (as applicable to National Guard). | Sept. 3, 1954, ch. 1257, § 209 (as applicable to National Guard), 68 Stat. 1152. |
+| 111 | 50:1199 (as applicable to National Guard). | Sept. 3, 1954, ch. 1257, § 209 (as applicable to National Guard), 68 Stat. 1152. |
 
 Reference to the exception in section 307(a) is omitted as unnecessary because a suspension of section 307(e) of this title, or of section 8365 or 8366 of Title 10, will in effect suspend that exception so far as it refers to the suspended section. A reference to the remainder of section 307(a) is omitted as unnecessary because the general rule that it states exists independently of that part of the source law for section 307(a) that is suspendible under this section. A reference to section 307(f) is omitted as unnecessary because a suspension of section 307(e) will in effect suspend section 307(f) so far as it applies to section 307(e). 50:1199 (2d sentence) is omitted as inapplicable to the National Guard.
 
@@ -679,7 +679,7 @@ Reference to the exception in section 307(a) is omitted as unnecessary because a
 
 **References in Text**
 
-Section 323(e) of this title, referred to in text, was repealed by Pub. L. 103–337, div. A, title XVI, § 1630(2), Oct. 5, 1994, 108 Stat. 2964.
+Section 323(e) of this title, referred to in text, was repealed by Pub. L. 103–337, div. A, title XVI, § 1630(2), Oct. 5, 1994, 108 Stat. 2964.
 
 **Executive Documents**
 
@@ -687,7 +687,7 @@ Section 323(e) of this title, referred to in text, was repealed by Pub. L. 103�
 
 Functions of President under this section delegated to Secretary of Defense, see section 1(11) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
 
-## § 112. Drug interdiction and counter-drug activities
+## § 112. Drug interdiction and counter-drug activities
 
 **(a) Funding Assistance.—** The Secretary of Defense may provide funds to the Governor of a State who submits to the Secretary a State drug interdiction and counter-drug activities plan satisfying the requirements of subsection (c). Such funds shall be used for the following:
 
@@ -763,9 +763,9 @@ Functions of President under this section delegated to Secretary of Defense, see
 
 **(f) Annual Report.—** The Secretary of Defense shall submit to Congress an annual report regarding assistance provided and activities carried out under this section during the preceding fiscal year. The report shall include the following:
 
-**(1)** The number of members of the National Guard excluded under subsection (e) 1
+**(1)** The number of members of the National Guard excluded under subsection (e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 from the computation of end strengths.
 
@@ -785,53 +785,53 @@ from the computation of end strengths.
 
 **(3)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or a territory or possession of the United States.
 
-(Added Pub. L. 101–189, div. A, title XII, § 1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, § 703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, § 9099A, Oct. 6, 1992, 106 Stat. 1926; Pub. L. 104–106, div. A, title X, § 1021, Feb. 10, 1996, 110 Stat. 426; Pub. L. 104–208, div. C, title VI, § 660, Sept. 30, 1996, 110 Stat. 3009–720; Pub. L. 105–85, div. A, title X, § 1031, Nov. 18, 1997, 111 Stat. 1880; Pub. L. 105–261, div. A, title X, § 1022, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 106–65, div. A, title X, § 1021, Oct. 5, 1999, 113 Stat. 746; Pub. L. 108–375, div. A, title IV, § 416(k), Oct. 28, 2004, 118 Stat. 1869; Pub. L. 118–31, div. A, title X, § 1012, Dec. 22, 2023, 137 Stat. 380.)
+(Added Pub. L. 101–189, div. A, title XII, § 1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, § 703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, § 9099A, Oct. 6, 1992, 106 Stat. 1926; Pub. L. 104–106, div. A, title X, § 1021, Feb. 10, 1996, 110 Stat. 426; Pub. L. 104–208, div. C, title VI, § 660, Sept. 30, 1996, 110 Stat. 3009–720; Pub. L. 105–85, div. A, title X, § 1031, Nov. 18, 1997, 111 Stat. 1880; Pub. L. 105–261, div. A, title X, § 1022, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 106–65, div. A, title X, § 1021, Oct. 5, 1999, 113 Stat. 746; Pub. L. 108–375, div. A, title IV, § 416(k), Oct. 28, 2004, 118 Stat. 1869; Pub. L. 118–31, div. A, title X, § 1012, Dec. 22, 2023, 137 Stat. 380.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsection (e), referred to in subsec. (f)(1), was repealed and subsec. (f) was redesignated (e) by Pub. L. 108–375, div. A, title IV, § 416(k)(1), (2), Oct. 28, 2004, 118 Stat. 1869.
+Subsection (e), referred to in subsec. (f)(1), was repealed and subsec. (f) was redesignated (e) by Pub. L. 108–375, div. A, title IV, § 416(k)(1), (2), Oct. 28, 2004, 118 Stat. 1869.
 
 **Prior Provisions**
 
-Similar provisions were contained in Pub. L. 100–456, div. A, title XI, § 1105, Sept. 29, 1988, 102 Stat. 2047, which was set out as a note under section 374 of Title 10, Armed Forces, prior to repeal by Pub. L. 101–189, § 1207(b).
+Similar provisions were contained in Pub. L. 100–456, div. A, title XI, § 1105, Sept. 29, 1988, 102 Stat. 2047, which was set out as a note under section 374 of Title 10, Armed Forces, prior to repeal by Pub. L. 101–189, § 1207(b).
 
 **Amendments**
 
 2023—Subsec. (a)(3). Pub. L. 118–31 substituted “$15,000” for “$5,000”.
 
-2004—Subsec. (e). Pub. L. 108–375, § 416(k)(1), (2), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 12011 and 12012 of title 10.”
+2004—Subsec. (e). Pub. L. 108–375, § 416(k)(1), (2), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 12011 and 12012 of title 10.”
 
-Subsec. (e)(1)(A), (B). Pub. L. 108–375, § 416(k)(3), struck out “for a period of more than 180 days” after “order to duty”.
+Subsec. (e)(1)(A), (B). Pub. L. 108–375, § 416(k)(3), struck out “for a period of more than 180 days” after “order to duty”.
 
-Subsecs. (f) to (i). Pub. L. 108–375, § 416(k)(2), redesignated subsecs. (g) to (i) as (f) to (h), respectively.
+Subsecs. (f) to (i). Pub. L. 108–375, § 416(k)(2), redesignated subsecs. (g) to (i) as (f) to (h), respectively.
 
 1999—Subsec. (a)(3). Pub. L. 106–65 substituted “per item” for “per purchase order” in second sentence.
 
-1998—Subsec. (a). Pub. L. 105–261, § 1022(e)(1), substituted “for the following:” for “for—” in introductory provisions.
+1998—Subsec. (a). Pub. L. 105–261, § 1022(e)(1), substituted “for the following:” for “for—” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 105–261, § 1022(e)(2), (3), substituted “The pay” for “the pay” and “activities.” for “activities;”.
+Subsec. (a)(1). Pub. L. 105–261, § 1022(e)(2), (3), substituted “The pay” for “the pay” and “activities.” for “activities;”.
 
-Subsec. (a)(2). Pub. L. 105–261, § 1022(e)(2), (4), substituted “The operation” for “the operation” and “activities.” for “activities; and”.
+Subsec. (a)(2). Pub. L. 105–261, § 1022(e)(2), (4), substituted “The operation” for “the operation” and “activities.” for “activities; and”.
 
-Subsec. (a)(3). Pub. L. 105–261, § 1022(a), (e)(2), substituted “The procurement” for “the procurement” and “and equipment, and the leasing of equipment,” for “and leasing of equipment” and inserted at end “However, the use of such funds for the procurement of equipment may not exceed $5,000 per purchase order, unless approval for procurement of equipment in excess of that amount is granted in advance by the Secretary of Defense.”
+Subsec. (a)(3). Pub. L. 105–261, § 1022(a), (e)(2), substituted “The procurement” for “the procurement” and “and equipment, and the leasing of equipment,” for “and leasing of equipment” and inserted at end “However, the use of such funds for the procurement of equipment may not exceed $5,000 per purchase order, unless approval for procurement of equipment in excess of that amount is granted in advance by the Secretary of Defense.”
 
-Subsec. (b)(2). Pub. L. 105–261, § 1022(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “To ensure that the use of units and personnel of the National Guard of a State pursuant to a State drug interdiction and counter-drug activities plan is not detrimental to the training and readiness of such units and personnel, the requirements of section 2012(d) of title 10 shall apply in determining the drug interdiction and counter-drug activities that units and personnel of the National Guard of a State may perform.”
+Subsec. (b)(2). Pub. L. 105–261, § 1022(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “To ensure that the use of units and personnel of the National Guard of a State pursuant to a State drug interdiction and counter-drug activities plan is not detrimental to the training and readiness of such units and personnel, the requirements of section 2012(d) of title 10 shall apply in determining the drug interdiction and counter-drug activities that units and personnel of the National Guard of a State may perform.”
 
-Subsec. (b)(3). Pub. L. 105–261, § 1022(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Section 508 of this title, regarding the provision of assistance to certain specified youth and charitable organizations, shall apply in any case in which a unit or member of the National Guard of a State is proposed to be used pursuant to a State drug interdiction and counter-drug activities plan to provide to an organization specified in subsection (d) of such section any of the services described in subsection (b) of such section or services regarding counter-drug education.”
+Subsec. (b)(3). Pub. L. 105–261, § 1022(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Section 508 of this title, regarding the provision of assistance to certain specified youth and charitable organizations, shall apply in any case in which a unit or member of the National Guard of a State is proposed to be used pursuant to a State drug interdiction and counter-drug activities plan to provide to an organization specified in subsection (d) of such section any of the services described in subsection (b) of such section or services regarding counter-drug education.”
 
-Subsec. (i)(1). Pub. L. 105–261, § 1022(d), inserted “, including drug demand reduction activities,” after “drug interdiction and counter-drug law enforcement activities”.
+Subsec. (i)(1). Pub. L. 105–261, § 1022(d), inserted “, including drug demand reduction activities,” after “drug interdiction and counter-drug law enforcement activities”.
 
-1997—Subsec. (b). Pub. L. 105–85, § 1031(a), designated existing provisions as par. (1) and added pars. (2) and (3).
+1997—Subsec. (b). Pub. L. 105–85, § 1031(a), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (c)(4) to (6). Pub. L. 105–85, § 1031(b)(1), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+Subsec. (c)(4) to (6). Pub. L. 105–85, § 1031(b)(1), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-Subsec. (e). Pub. L. 105–85, § 1031(d), designated par. (1) as subsec. (e) and struck out par. (2) which read as follows: “The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives an annual report specifying for the period covered by the report the number of members of the National Guard excluded under paragraph (1) from the computation of end strengths.”
+Subsec. (e). Pub. L. 105–85, § 1031(d), designated par. (1) as subsec. (e) and struck out par. (2) which read as follows: “The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives an annual report specifying for the period covered by the report the number of members of the National Guard excluded under paragraph (1) from the computation of end strengths.”
 
-Subsecs. (g) to (i). Pub. L. 105–85, § 1031(c), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+Subsecs. (g) to (i). Pub. L. 105–85, § 1031(c), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-1996—Subsec. (a). Pub. L. 104–106, § 1021(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Defense may provide to the Governor of a State who submits a plan to the Secretary under subsection (b) sufficient funds for—
+1996—Subsec. (a). Pub. L. 104–106, § 1021(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Defense may provide to the Governor of a State who submits a plan to the Secretary under subsection (b) sufficient funds for—
 
 “(1) the pay, allowances, clothing, subsistence, gratuities, travel, and related expenses of personnel of the National Guard of that State used for—
 
@@ -841,33 +841,33 @@ Subsecs. (g) to (i). Pub. L. 105–85, § 1031(c), added subsec. (g) and redes
 
 “(2) the procurement of services and leasing of equipment for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities.”
 
-Subsec. (b). Pub. L. 104–106, § 1021(e), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 104–106, § 1021(e), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 104–106, § 1021(c), substituted “A State drug interdiction and counter-drug activities plan” for “A plan referred to in subsection (a)” in introductory provisions and “training” for “annual training” in par. (3) and added pars. (4) and (5).
+Subsec. (c). Pub. L. 104–106, § 1021(c), substituted “A State drug interdiction and counter-drug activities plan” for “A plan referred to in subsection (a)” in introductory provisions and “training” for “annual training” in par. (3) and added pars. (4) and (5).
 
-Pub. L. 104–106, § 1021(b)(3), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Pub. L. 104–106, § 1021(b)(3), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 104–106, § 1021(b)(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (g).
+Subsec. (d). Pub. L. 104–106, § 1021(b)(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (g).
 
 Subsec. (d)(1). Pub. L. 104–208 inserted at end “The plan as approved by the Secretary may provide for the use of personnel and equipment of the National Guard of that State to assist the Immigration and Naturalization Service in the transportation of aliens who have violated a Federal or State law prohibiting or regulating the possession, use, or distribution of a controlled substance.”
 
-Pub. L. 104–106, § 1021(d)(1), inserted “and before members of the National Guard of that State are ordered to full-time National Guard duty as authorized in subsection (b)” after “under this section” and substituted “under subsection (c)” for “under subsection (b)”.
+Pub. L. 104–106, § 1021(d)(1), inserted “and before members of the National Guard of that State are ordered to full-time National Guard duty as authorized in subsection (b)” after “under this section” and substituted “under subsection (c)” for “under subsection (b)”.
 
-Subsec. (d)(3)(A). Pub. L. 104–106, § 1021(d)(2)(A), substituted “subsection (c)” for “subsection (b)”.
+Subsec. (d)(3)(A). Pub. L. 104–106, § 1021(d)(2)(A), substituted “subsection (c)” for “subsection (b)”.
 
-Subsec. (d)(3)(B). Pub. L. 104–106, § 1021(d)(2)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “funds were provided to the State pursuant to such plan.”
+Subsec. (d)(3)(B). Pub. L. 104–106, § 1021(d)(2)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “funds were provided to the State pursuant to such plan.”
 
-Subsec. (e)(1). Pub. L. 104–106, § 1021(h)(1), substituted “sections 12011 and 12012” for “sections 517 and 524”.
+Subsec. (e)(1). Pub. L. 104–106, § 1021(h)(1), substituted “sections 12011 and 12012” for “sections 517 and 524”.
 
-Subsec. (e)(2). Pub. L. 104–106, § 1021(h)(2), substituted “the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “the Committees on Armed Services of the Senate and House of Representatives”.
+Subsec. (e)(2). Pub. L. 104–106, § 1021(h)(2), substituted “the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “the Committees on Armed Services of the Senate and House of Representatives”.
 
-Subsec. (f). Pub. L. 104–106, § 1021(f), added subsec. (f). Former subsec. (f) redesignated (h).
+Subsec. (f). Pub. L. 104–106, § 1021(f), added subsec. (f). Former subsec. (f) redesignated (h).
 
-Subsec. (g). Pub. L. 104–106, § 1021(b)(2), redesignated subsec. (d) as (g) and transferred it to appear before subsec. (h), as redesignated.
+Subsec. (g). Pub. L. 104–106, § 1021(b)(2), redesignated subsec. (d) as (g) and transferred it to appear before subsec. (h), as redesignated.
 
-Subsec. (h). Pub. L. 104–106, § 1021(b)(1), redesignated subsec. (f) as (h).
+Subsec. (h). Pub. L. 104–106, § 1021(b)(1), redesignated subsec. (f) as (h).
 
-Subsec. (h)(1). Pub. L. 104–106, § 1021(g), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘counter-drug activities’ includes the use of National Guard personnel, while not in Federal service, in any law enforcement activities authorized by State and local law and requested by the Governor.”
+Subsec. (h)(1). Pub. L. 104–106, § 1021(g), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘counter-drug activities’ includes the use of National Guard personnel, while not in Federal service, in any law enforcement activities authorized by State and local law and requested by the Governor.”
 
 1992—Subsec. (e)(1). Pub. L. 102–396 inserted “(or during fiscal year 1993 otherwise implementing)” after “administering”.
 
@@ -889,7 +889,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **National Guard Counterdrug Schools**
 
-Pub. L. 109–469, title IX, § 901, Dec. 29, 2006, 120 Stat. 3536, as amended by Pub. L. 112–239, div. A, title X, § 1008, Jan. 2, 2013, 126 Stat. 1905; Pub. L. 114–328, div. A, title X, § 1012, Dec. 23, 2016, 130 Stat. 2385, provided that:
+Pub. L. 109–469, title IX, § 901, Dec. 29, 2006, 120 Stat. 3536, as amended by Pub. L. 112–239, div. A, title X, § 1008, Jan. 2, 2013, 126 Stat. 1905; Pub. L. 114–328, div. A, title X, § 1012, Dec. 23, 2016, 130 Stat. 2385, provided that:
 
 > **“(a) Authority To Operate.—** Under such regulations as the Secretary of Defense may prescribe, the Chief of the National Guard Bureau may establish and operate, or provide financial assistance to the States to establish and operate, not more than 5 schools (to be known generally as ‘National Guard counterdrug schools’).
 
@@ -947,7 +947,7 @@ Pub. L. 109–469, title IX, § 901, Dec. 29, 2006, 120 Stat. 3536, as amended
 
 [For termination, effective Dec. 31, 2021, of annual reporting provisions in section 901(g) of Pub. L. 109–469, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces.]
 
-## § 113. Federal financial assistance for support of additional duties assigned to the Army National Guard
+## § 113. Federal financial assistance for support of additional duties assigned to the Army National Guard
 
 **(a) Authority.—** The Secretary of the Army may provide financial assistance to a State to support activities carried out by the Army National Guard of the State in the performance of duties that the Secretary has assigned, with the consent of the Chief of the National Guard Bureau, to the Army National Guard of the State. The Secretary shall determine the amount of the assistance that is appropriate for the purpose.
 
@@ -965,7 +965,7 @@ Pub. L. 109–469, title IX, § 901, Dec. 29, 2006, 120 Stat. 3536, as amended
 
 **(d) Availability of Funds.—** Funds appropriated for the Army for a fiscal year are available for providing financial assistance under this section in support of activities carried out by the Army National Guard during that fiscal year.
 
-(Added Pub. L. 105–85, div. A, title III, § 386(a), Nov. 18, 1997, 111 Stat. 1712; amended Pub. L. 105–261, div. A, title III, § 375(a), Oct. 17, 1998, 112 Stat. 1992; Pub. L. 106–65, div. A, title X, § 1066(d)(4), Oct. 5, 1999, 113 Stat. 773; Pub. L. 108–375, div. A, title VIII, § 806, Oct. 28, 2004, 118 Stat. 2010; Pub. L. 115–232, div. A, title VIII, § 809(j), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 117–81, div. A, title XVII, § 1702(f)(1), Dec. 27, 2021, 135 Stat. 2157.)
+(Added Pub. L. 105–85, div. A, title III, § 386(a), Nov. 18, 1997, 111 Stat. 1712; amended Pub. L. 105–261, div. A, title III, § 375(a), Oct. 17, 1998, 112 Stat. 1992; Pub. L. 106–65, div. A, title X, § 1066(d)(4), Oct. 5, 1999, 113 Stat. 773; Pub. L. 108–375, div. A, title VIII, § 806, Oct. 28, 2004, 118 Stat. 2010; Pub. L. 115–232, div. A, title VIII, § 809(j), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 117–81, div. A, title XVII, § 1702(f)(1), Dec. 27, 2021, 135 Stat. 2157.)
 
 **Editorial Notes**
 
@@ -975,7 +975,7 @@ Pub. L. 109–469, title IX, § 901, Dec. 29, 2006, 120 Stat. 3536, as amended
 
 2018—Subsec. (b)(1)(A). Pub. L. 115–232 substituted “section 7013(b) of title 10” for “section 3013(b) of title 10”.
 
-2004—Subsec. (b)(1)(B). Pub. L. 108–375 inserted before period at end “, subject to the exceptions provided in section 2304(c) of title 10”.
+2004—Subsec. (b)(1)(B). Pub. L. 108–375 inserted before period at end “, subject to the exceptions provided in section 2304(c) of title 10”.
 
 1999—Subsec. (b)(2). Pub. L. 106–65 substituted “October 17, 1998” for “the date of the enactment of this subsection”.
 
@@ -989,7 +989,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. A, title III, § 375(b), Oct. 17, 1998, 112 Stat. 1993, provided that:
+Pub. L. 105–261, div. A, title III, § 375(b), Oct. 17, 1998, 112 Stat. 1993, provided that:
 
 > “Subsection (b)(1)(B) of section 113 of title 32, United States Code (as added by subsection (a) of this section), does not apply to—
 
@@ -997,11 +997,11 @@ Pub. L. 105–261, div. A, title III, § 375(b), Oct. 17, 1998, 112 Stat. 1993
 
 > **“(2)** financial assistance for an activity that, before May 9, 1998, the Secretary of the Army identified in writing as being under consideration for supporting with financial assistance under that section.”
 
-## § 114. Funeral honors functions at funerals for veterans
+## § 114. Funeral honors functions at funerals for veterans
 
 Subject to such regulations and restrictions as may be prescribed by the Secretary concerned, the performance of funeral honors functions by members of the National Guard at funerals for veterans of the armed forces may be treated by the Secretary concerned as a Federal function for which appropriated funds may be used. Any such performance of funeral honors functions at such a funeral may not be considered to be a period of drill or training, but may be performed as funeral honors duty under section 115 of this title.
 
-(Added Pub. L. 105–85, div. A, title V, § 517(a)(1), Nov. 18, 1997, 111 Stat. 1733; amended Pub. L. 105–261, div. A, title V, § 567(d), Oct. 17, 1998, 112 Stat. 2031; Pub. L. 106–65, div. A, title V, § 578(g)(1), (k)(3)(A), Oct. 5, 1999, 113 Stat. 627, 631.)
+(Added Pub. L. 105–85, div. A, title V, § 517(a)(1), Nov. 18, 1997, 111 Stat. 1733; amended Pub. L. 105–261, div. A, title V, § 567(d), Oct. 17, 1998, 112 Stat. 2031; Pub. L. 106–65, div. A, title V, § 578(g)(1), (k)(3)(A), Oct. 5, 1999, 113 Stat. 627, 631.)
 
 **Editorial Notes**
 
@@ -1011,7 +1011,7 @@ Subject to such regulations and restrictions as may be prescribed by the Secreta
 
 1998—Pub. L. 105–261 designated subsec. (a) as entire section and struck out subsec. (b) which read as follows: “This section does not authorize additional appropriations for any fiscal year. Any expense of the National Guard that is incurred by reason of this section shall be paid from appropriations otherwise available for the National Guard.”
 
-## § 115. Funeral honors duty performed as a Federal function
+## § 115. Funeral honors duty performed as a Federal function
 
 **(a) Order to Duty.—** A member of the Army National Guard of the United States or the Air National Guard of the United States may be ordered to funeral honors duty, with the consent of the member, to prepare for or perform funeral honors functions at the funeral of a veteran under section 1491 of title 10. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to perform funeral honors functions under this section without the consent of the Governor or other appropriate authority of the State concerned. Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 435 of title 37.
 
@@ -1029,21 +1029,21 @@ Subject to such regulations and restrictions as may be prescribed by the Secreta
 
 **(d) Regulations.—** The exercise of authority under subsection (a) is subject to regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 106–65, div. A, title V, § 578(g)(2), Oct. 5, 1999, 113 Stat. 627; amended Pub. L. 106–398, § 1 [[div. A], title V, § 575(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107, div. A, title V, § 562(b), Dec. 28, 2001, 115 Stat. 1119; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(e), Dec. 23, 2022, 136 Stat. 2629.)
+(Added Pub. L. 106–65, div. A, title V, § 578(g)(2), Oct. 5, 1999, 113 Stat. 627; amended Pub. L. 106–398, § 1 [[div. A], title V, § 575(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107, div. A, title V, § 562(b), Dec. 28, 2001, 115 Stat. 1119; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(e), Dec. 23, 2022, 136 Stat. 2629.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–263, § 626(e)(1), substituted “sections 206 and 435” for “sections 206 and 495”.
+2022—Subsec. (a). Pub. L. 117–263, § 626(e)(1), substituted “sections 206 and 435” for “sections 206 and 495”.
 
-Subsec. (b)(2)(A). Pub. L. 117–263, § 626(e)(2), substituted “section 435” for “section 495”.
+Subsec. (b)(2)(A). Pub. L. 117–263, § 626(e)(2), substituted “section 435” for “section 495”.
 
-Subsec. (c). Pub. L. 117–263, § 626(e)(3), substituted “section 452” for “chapter 7”.
+Subsec. (c). Pub. L. 117–263, § 626(e)(3), substituted “section 452” for “chapter 7”.
 
-2013—Subsecs. (a), (b)(2)(A). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
+2013—Subsecs. (a), (b)(2)(A). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
-2011—Subsecs. (a), (b)(2)(A). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “495” for “435”.
+2011—Subsecs. (a), (b)(2)(A). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “495” for “435”.
 
 2001—Subsec. (a). Pub. L. 107–107 inserted at end “Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 435 of title 37.”
 
@@ -1053,7 +1053,7 @@ Subsec. (c). Pub. L. 117–263, § 626(e)(3), substituted “section 452” fo
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Effective Date of 2001 Amendment**
 
@@ -1061,4 +1061,4 @@ Amendment by Pub. L. 107–107 applicable to funeral honors duty performed on or
 
 **Effective Date of 2000 Amendment**
 
-Amendment by Pub. L. 106–398 applicable with respect to funeral honors duty performed on or after Oct. 1, 2000, see section 1 [[div. A], title V, § 575(c)] of Pub. L. 106–398, set out as a note under section 12503 of Title 10, Armed Forces.
+Amendment by Pub. L. 106–398 applicable with respect to funeral honors duty performed on or after Oct. 1, 2000, see section 1 [[div. A], title V, § 575(c)] of Pub. L. 106–398, set out as a note under section 12503 of Title 10, Armed Forces.

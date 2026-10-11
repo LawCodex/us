@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1979—Pub. L. 96–82, § 7(c), Oct. 10, 1979, 93 Stat. 646, substituted “Misdemeanors” for “Minor offenses” in item 3401.
+1979—Pub. L. 96–82, § 7(c), Oct. 10, 1979, 93 Stat. 646, substituted “Misdemeanors” for “Minor offenses” in item 3401.
 
-1968—Pub. L. 90–578, title III, §§ 301(c), 302(c), Oct. 17, 1968, 82 Stat. 1115, 1116, substituted “TRIAL BY UNITED STATES MAGISTRATES” for “TRIAL BY COMMISSIONERS” in chapter heading, and substituted “Minor offenses” for “Petty offenses” and struck out “fees” after “probation laws” in item 3401.
+1968—Pub. L. 90–578, title III, §§ 301(c), 302(c), Oct. 17, 1968, 82 Stat. 1115, 1116, substituted “TRIAL BY UNITED STATES MAGISTRATES” for “TRIAL BY COMMISSIONERS” in chapter heading, and substituted “Minor offenses” for “Petty offenses” and struck out “fees” after “probation laws” in item 3401.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -29,7 +29,7 @@ retrieved: 2026-10-11
 
 “UNITED STATES MAGISTRATE JUDGES” substituted for “UNITED STATES MAGISTRATES” in chapter heading pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-## § 3401. Misdemeanors; application of probation laws
+## § 3401. Misdemeanors; application of probation laws
 
 **(a)** When specially designated to exercise such jurisdiction by the district court or courts he serves, any United States magistrate judge shall have jurisdiction to try persons accused of, and sentence persons convicted of, misdemeanors committed within that judicial district.
 
@@ -49,11 +49,11 @@ retrieved: 2026-10-11
 
 **(i)** A district judge may designate a magistrate judge to conduct hearings to modify, revoke, or terminate supervised release, including evidentiary hearings, and to submit to the judge proposed findings of fact and recommendations for such modification, revocation, or termination by the judge, including, in the case of revocation, a recommended disposition under section 3583(e) of this title. The magistrate judge shall file his or her proposed findings and recommendations.
 
-(June 25, 1948, ch. 645, 62 Stat. 830; Pub. L. 85–508, § 12(j), July 7, 1958, 72 Stat. 348; Pub. L. 90–578, title III, § 302(a), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 96–82, § 7(a), (b), Oct. 10, 1979, 93 Stat. 645, 646; Pub. L. 98–473, title II, § 223(j), Oct. 12, 1984, 98 Stat. 2029; Pub. L. 100–690, title VII, § 7072(a), Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title I, § 103, Oct. 29, 1992, 106 Stat. 4507; Pub. L. 104–317, title II, § 202(a), Oct. 19, 1996, 110 Stat. 3848; Pub. L. 106–518, title II, § 203(a), Nov. 13, 2000, 114 Stat. 2414.)
+(June 25, 1948, ch. 645, 62 Stat. 830; Pub. L. 85–508, § 12(j), July 7, 1958, 72 Stat. 348; Pub. L. 90–578, title III, § 302(a), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 96–82, § 7(a), (b), Oct. 10, 1979, 93 Stat. 645, 646; Pub. L. 98–473, title II, § 223(j), Oct. 12, 1984, 98 Stat. 2029; Pub. L. 100–690, title VII, § 7072(a), Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title I, § 103, Oct. 29, 1992, 106 Stat. 4507; Pub. L. 104–317, title II, § 202(a), Oct. 19, 1996, 110 Stat. 3848; Pub. L. 106–518, title II, § 203(a), Nov. 13, 2000, 114 Stat. 2414.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 576, 576b, 576c, 576d (Oct. 9, 1940, ch. 785, §§ 1, 3–5, 54 Stat. 1058, 1059).
+Based on title 18, U.S.C., 1940 ed., §§ 576, 576b, 576c, 576d (Oct. 9, 1940, ch. 785, §§ 1, 3–5, 54 Stat. 1058, 1059).
 
 The phrase “the commissioner shall have power to grant probation” was inserted in paragraph (c) in order to make clear the authority of the commissioner to grant probation without application to the District judge.
 
@@ -63,21 +63,21 @@ Four sections were consolidated herein with minor rearrangements and deletion of
 
 **Amendments**
 
-2000—Subsec. (b). Pub. L. 106–518, § 203(a)(1), struck out “that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction,” after “petty offense”.
+2000—Subsec. (b). Pub. L. 106–518, § 203(a)(1), struck out “that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction,” after “petty offense”.
 
-Subsec. (g). Pub. L. 106–518, § 203(a)(2), substituted first sentence for former first sentence which read: “The magistrate judge may, in a petty offense case involving a juvenile, that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction, exercise all powers granted to the district court under chapter 403 of this title.”, substituted “the case of any misdemeanor, other than a petty offense,” for “any other class B or C misdemeanor case” in second sentence, and struck out at end “No term of imprisonment shall be imposed by the magistrate in any such case.”
+Subsec. (g). Pub. L. 106–518, § 203(a)(2), substituted first sentence for former first sentence which read: “The magistrate judge may, in a petty offense case involving a juvenile, that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction, exercise all powers granted to the district court under chapter 403 of this title.”, substituted “the case of any misdemeanor, other than a petty offense,” for “any other class B or C misdemeanor case” in second sentence, and struck out at end “No term of imprisonment shall be imposed by the magistrate in any such case.”
 
-1996—Subsec. (b). Pub. L. 104–317, § 202(a)(1), inserted “, other than a petty offense that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction,” after “misdemeanor”, substituted “tried before a district judge” for “tried before a judge of the district court” and “by a district judge” for “by a judge of the district court”, substituted “magistrate judge” for “magistrate” in two places, and substituted “The magistrate judge may not proceed to try the case unless the defendant, after such explanation, expressly consents to be tried before the magistrate judge and expressly and specifically waives trial, judgment, and sentencing by a district judge. Any such consent and waiver shall be made in writing or orally on the record.” for “The magistrate shall not proceed to try the case unless the defendant, after such explanation, files a written consent to be tried before the magistrate that specifically waives trial, judgment, and sentencing by a judge of the district court.”
+1996—Subsec. (b). Pub. L. 104–317, § 202(a)(1), inserted “, other than a petty offense that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction,” after “misdemeanor”, substituted “tried before a district judge” for “tried before a judge of the district court” and “by a district judge” for “by a judge of the district court”, substituted “magistrate judge” for “magistrate” in two places, and substituted “The magistrate judge may not proceed to try the case unless the defendant, after such explanation, expressly consents to be tried before the magistrate judge and expressly and specifically waives trial, judgment, and sentencing by a district judge. Any such consent and waiver shall be made in writing or orally on the record.” for “The magistrate shall not proceed to try the case unless the defendant, after such explanation, files a written consent to be tried before the magistrate that specifically waives trial, judgment, and sentencing by a judge of the district court.”
 
-Subsec. (g). Pub. L. 104–317, § 202(a)(2), substituted “The magistrate judge may, in a petty offense case involving a juvenile, that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction, exercise all powers granted to the district court under chapter 403 of this title. The magistrate judge may, in any other class B or C misdemeanor case involving a juvenile in which consent to trial before a magistrate judge has been filed under subsection (b), exercise all powers granted to the district court under chapter 403 of this title.” for “The magistrate may, in a Class B or C misdemeanor case, or infraction case, involving a juvenile in which consent to trial before a magistrate has been filed under subsection (b) of this section, exercise all powers granted to the district court under chapter 403 of this title.”
+Subsec. (g). Pub. L. 104–317, § 202(a)(2), substituted “The magistrate judge may, in a petty offense case involving a juvenile, that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction, exercise all powers granted to the district court under chapter 403 of this title. The magistrate judge may, in any other class B or C misdemeanor case involving a juvenile in which consent to trial before a magistrate judge has been filed under subsection (b), exercise all powers granted to the district court under chapter 403 of this title.” for “The magistrate may, in a Class B or C misdemeanor case, or infraction case, involving a juvenile in which consent to trial before a magistrate has been filed under subsection (b) of this section, exercise all powers granted to the district court under chapter 403 of this title.”
 
-1992—Subsec. (d). Pub. L. 102–572, § 103(1), substituted “and to revoke, modify, or reinstate the probation of any person granted probation by a magistrate judge” for “and to revoke or reinstate the probation of any person granted probation by him”.
+1992—Subsec. (d). Pub. L. 102–572, § 103(1), substituted “and to revoke, modify, or reinstate the probation of any person granted probation by a magistrate judge” for “and to revoke or reinstate the probation of any person granted probation by him”.
 
-Subsecs. (h), (i). Pub. L. 102–572, § 103(2), added subsecs. (h) and (i).
+Subsecs. (h), (i). Pub. L. 102–572, § 103(2), added subsecs. (h) and (i).
 
 1988—Subsec. (g). Amendment by Pub. L. 100–690 directing that “and section 4216” be struck out after “under chapter 402” in subsec. (g), was executed to subsec. (g) applicable to offenses committed prior to Nov. 1, 1987, as the probable intent of Congress, in view of the amendment by section 223(j) of Pub. L. 98–473. See 1984 Amendment notes below.
 
-1984—Subsecs. (g), (h). Pub. L. 98–473, § 223(j)(1), redesignated subsec. (h) as (g) and struck out former subsec. (g) which related to powers of magistrate in case involving youthful offender. Former subsec. (g), as amended by Pub. L. 100–690, read as follows: “The magistrate may, in a case involving a youth offender in which consent to trial before a magistrate has been filed under subsection (b) of this section, impose sentence and exercise the other powers granted to the district court under chapter 402 of this title, except that—
+1984—Subsecs. (g), (h). Pub. L. 98–473, § 223(j)(1), redesignated subsec. (h) as (g) and struck out former subsec. (g) which related to powers of magistrate in case involving youthful offender. Former subsec. (g), as amended by Pub. L. 100–690, read as follows: “The magistrate may, in a case involving a youth offender in which consent to trial before a magistrate has been filed under subsection (b) of this section, impose sentence and exercise the other powers granted to the district court under chapter 402 of this title, except that—
 
 “(1) the magistrate may not sentence the youth offender to the custody of the Attorney General pursuant to such chapter for a period in excess of 1 year for conviction of a misdemeanor or 6 months for conviction of a petty offense;
 
@@ -85,17 +85,17 @@ Subsecs. (h), (i). Pub. L. 102–572, § 103(2), added subsecs. (h) and (i).
 
 “(3) the magistrate may not suspend the imposition of sentence and place the youth offender on probation for a period in excess of 1 year for conviction of a misdemeanor or 6 months for conviction of a petty offense.”
 
-Pub. L. 98–473, § 223(j)(2), which directed amendment of subsec. (h) by substituting reference to Class B or C misdemeanor case or an infraction case, for reference to petty offense case, was executed to subsec. (g) as the probable intent of Congress in view of redesignation of subsec. (h) as (g) by section 223(j)(1) of Pub. L. 98–473, see above.
+Pub. L. 98–473, § 223(j)(2), which directed amendment of subsec. (h) by substituting reference to Class B or C misdemeanor case or an infraction case, for reference to petty offense case, was executed to subsec. (g) as the probable intent of Congress in view of redesignation of subsec. (h) as (g) by section 223(j)(1) of Pub. L. 98–473, see above.
 
-1979—Pub. L. 96–82, § 7(b), substituted “Misdemeanors” for “Minor offenses” in section catchline.
+1979—Pub. L. 96–82, § 7(b), substituted “Misdemeanors” for “Minor offenses” in section catchline.
 
-Subsec. (a). Pub. L. 96–82, § 7(a)(1), substituted “any United States magistrate shall have jurisdiction to try persons accused of, and sentence persons convicted of, misdemeanors committed” for “and under such conditions as may be imposed by the terms of the special designation, any United States magistrate shall have jurisdiction to try persons accused of, and sentence persons convicted of, minor offenses committed”.
+Subsec. (a). Pub. L. 96–82, § 7(a)(1), substituted “any United States magistrate shall have jurisdiction to try persons accused of, and sentence persons convicted of, misdemeanors committed” for “and under such conditions as may be imposed by the terms of the special designation, any United States magistrate shall have jurisdiction to try persons accused of, and sentence persons convicted of, minor offenses committed”.
 
-Subsec. (b). Pub. L. 96–82, § 7(a)(2), substituted reference to persons charged with misdemeanors for reference to persons charged with minor offenses, substituted reference to right to trial, judgment, and sentencing for reference to right to trial, and struck out provisions relating to the waiver of the right to a trial by jury.
+Subsec. (b). Pub. L. 96–82, § 7(a)(2), substituted reference to persons charged with misdemeanors for reference to persons charged with minor offenses, substituted reference to right to trial, judgment, and sentencing for reference to right to trial, and struck out provisions relating to the waiver of the right to a trial by jury.
 
-Subsec. (f). Pub. L. 96–82, § 7(a)(3), substituted provisions authorizing the district court to order misdemeanor proceedings to be conducted before a district court judge for provisions defining term “minor offenses”.
+Subsec. (f). Pub. L. 96–82, § 7(a)(3), substituted provisions authorizing the district court to order misdemeanor proceedings to be conducted before a district court judge for provisions defining term “minor offenses”.
 
-Subsecs. (g), (h). Pub. L. 96–82, § 7(a)(4), added subsecs. (g) and (h).
+Subsecs. (g), (h). Pub. L. 96–82, § 7(a)(4), added subsecs. (g) and (h).
 
 1968—Pub. L. 90–578 substituted “Minor offenses” for “Petty offenses” and struck out provision for “fees” in section catchline.
 
@@ -135,15 +135,15 @@ Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effec
 
 Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of Title 28, Judiciary and Judicial Procedure, and preceding former section 21 of Title 48, Territories and Insular Possessions.
 
-## § 3402. Rules of procedure, practice and appeal 1 [footnote: 1 Section catchline was not amended to conform to change made in text by Pub. L. 100–702.]
+## § 3402. Rules of procedure, practice and appeal 1 [footnote: 1 Section catchline was not amended to conform to change made in text by Pub. L. 100–702.]
 
 In all cases of conviction by a United States magistrate judge an appeal of right shall lie from the judgment of the magistrate judge to a judge of the district court of the district in which the offense was committed.
 
-(June 25, 1948, ch. 645, 62 Stat. 831; Pub. L. 90–578, title III, § 302(b), Oct. 17, 1968, 82 Stat. 1116; Pub. L. 100–702, title IV, § 404(b)(2), Nov. 19, 1988, 102 Stat. 4651; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 645, 62 Stat. 831; Pub. L. 90–578, title III, § 302(b), Oct. 17, 1968, 82 Stat. 1116; Pub. L. 100–702, title IV, § 404(b)(2), Nov. 19, 1988, 102 Stat. 4651; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Historical and Revision Notes**
 
-Based on title 18 U.S.C., 1940 ed., § 576a (Oct. 9, 1940, ch. 685, § 2, 54 Stat. 1059).
+Based on title 18 U.S.C., 1940 ed., § 576a (Oct. 9, 1940, ch. 685, § 2, 54 Stat. 1059).
 
 **Editorial Notes**
 

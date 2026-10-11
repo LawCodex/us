@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 38—INDIAN TRIBAL JUSTICE SUPPORT
 
-## § 3601. Findings
+## § 3601. Findings
 
 The Congress finds and declares that—
 
@@ -37,15 +37,15 @@ The Congress finds and declares that—
 
 **(9)** tribal government involvement in and commitment to improving tribal justice systems is essential to the accomplishment of the goals of this chapter.
 
-(Pub. L. 103–176, § 2, Dec. 3, 1993, 107 Stat. 2004.)
+(Pub. L. 103–176, § 2, Dec. 3, 1993, 107 Stat. 2004.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 103–176, § 1, Dec. 3, 1993, 107 Stat. 2004, provided that: “This Act [enacting this chapter] may be cited as the ‘Indian Tribal Justice Act’.”
+Pub. L. 103–176, § 1, Dec. 3, 1993, 107 Stat. 2004, provided that: “This Act [enacting this chapter] may be cited as the ‘Indian Tribal Justice Act’.”
 
-## § 3602. Definitions
+## § 3602. Definitions
 
 For purposes of this chapter:
 
@@ -65,11 +65,11 @@ For purposes of this chapter:
 
 **(8)** The term “tribal justice system” means the entire judicial branch, and employees thereof, of an Indian tribe, including (but not limited to) traditional methods and forums for dispute resolution, lower courts, appellate courts (including intertribal appellate courts), alternative dispute resolution systems, and circuit rider systems, established by inherent tribal authority whether or not they constitute a court of record.
 
-(Pub. L. 103–176, § 3, Dec. 3, 1993, 107 Stat. 2004.)
+(Pub. L. 103–176, § 3, Dec. 3, 1993, 107 Stat. 2004.)
 
 ## SUBCHAPTER I—TRIBAL JUSTICE SYSTEMS
 
-### § 3611. Office of Tribal Justice Support
+### § 3611. Office of Tribal Justice Support
 
 **(a) Establishment**
 
@@ -119,9 +119,9 @@ Nothing in this chapter shall be deemed or construed to authorize the Office to 
 
 The Office shall maintain an information clearinghouse (which shall include an electronic data base) on tribal justice systems and Courts of Indian Offenses, including (but not limited to) information on staffing, funding, model tribal codes, tribal justice activities, and tribal judicial decisions. The Office shall take such actions as may be necessary to ensure the confidentiality of records and other matters involving privacy rights.
 
-(Pub. L. 103–176, title I, § 101, Dec. 3, 1993, 107 Stat. 2005.)
+(Pub. L. 103–176, title I, § 101, Dec. 3, 1993, 107 Stat. 2005.)
 
-### § 3612. Survey of tribal judicial systems
+### § 3612. Survey of tribal judicial systems
 
 **(a) In general**
 
@@ -145,7 +145,7 @@ Not later than six months after December 3, 1993, the Secretary, in consultation
 
 The non-Federal entity shall actively consult with Indian tribes and tribal organizations in the development and conduct of the surveys, including updates thereof, under this section. Indian tribes and tribal organizations shall have the opportunity to review and make recommendations regarding the findings of the survey, including updates thereof, prior to final publication of the survey or any update thereof. After Indian tribes and tribal organizations have reviewed and commented on the results of the survey, or any update thereof, the non-Federal entity shall report its findings, together with the comments and recommendations of the Indian tribes and tribal organizations, to the Secretary, the Committee on Indian Affairs of the Senate, and the Subcommittee on Native American Affairs of the Committee on Natural Resources of the House of Representatives.
 
-(Pub. L. 103–176, title I, § 102, Dec. 3, 1993, 107 Stat. 2006.)
+(Pub. L. 103–176, title I, § 102, Dec. 3, 1993, 107 Stat. 2006.)
 
 **Editorial Notes**
 
@@ -153,7 +153,7 @@ The non-Federal entity shall actively consult with Indian tribes and tribal orga
 
 Subcommittee on Native American Affairs changed to Subcommittee for Indigenous Peoples of the United States.
 
-### § 3613. Base support funding for tribal justice systems
+### § 3613. Base support funding for tribal justice systems
 
 **(a) In general**
 
@@ -211,19 +211,19 @@ Pursuant to the Indian Self-Determination and Education Assistance Act [25 U.S.C
 
 **(4)** In developing and administering the formula for base support funding for the tribal judicial systems under this section, the Secretary shall ensure equitable distribution of funds.
 
-(Pub. L. 103–176, title I, § 103, Dec. 3, 1993, 107 Stat. 2007; Pub. L. 111–211, title II, § 242(a)(1), July 29, 2010, 124 Stat. 2292.)
+(Pub. L. 103–176, title I, § 103, Dec. 3, 1993, 107 Stat. 2007; Pub. L. 111–211, title II, § 242(a)(1), July 29, 2010, 124 Stat. 2292.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
 2010—Subsec. (b)(2). Pub. L. 111–211 added par. (2) and struck out former par. (2) which read as follows: “the employment of judicial personnel;”.
 
-### § 3614. Tribal judicial conferences
+### § 3614. Tribal judicial conferences
 
 The Secretary is authorized to provide funds to tribal judicial conferences, under section 3611 of this title, pursuant to contracts entered into under the authority of the Indian Self-Determination and Education Assistance Act [25 U.S.C. 5301 et seq.] for the development, enhancement, and continuing operation of tribal justice systems of Indian tribes which are members of such conference. Funds provided under this section may be used for—
 
@@ -251,17 +251,17 @@ The Secretary is authorized to provide funds to tribal judicial conferences, und
 
 **(E)** traditional tribal judicial practices, traditional justice systems, and traditional methods of dispute resolution.
 
-(Pub. L. 103–176, title I, § 104, Dec. 3, 1993, 107 Stat. 2008.)
+(Pub. L. 103–176, title I, § 104, Dec. 3, 1993, 107 Stat. 2008.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 ## SUBCHAPTER II—AUTHORIZATIONS OF APPROPRIATIONS
 
-### § 3621. Tribal justice systems
+### § 3621. Tribal justice systems
 
 **(a) Office**
 
@@ -295,23 +295,23 @@ In allocating funds appropriated pursuant to the authorization contained in subs
 
 No Federal agency shall offset funds made available pursuant to this chapter for tribal justice systems against other funds otherwise available for use in connection with tribal justice systems.
 
-(Pub. L. 103–176, title II, § 201, Dec. 3, 1993, 107 Stat. 2009; Pub. L. 106–559, title II, § 202, Dec. 21, 2000, 114 Stat. 2782; Pub. L. 111–211, title II, § 242(a)(2), July 29, 2010, 124 Stat. 2292.)
+(Pub. L. 103–176, title II, § 201, Dec. 3, 1993, 107 Stat. 2009; Pub. L. 106–559, title II, § 202, Dec. 21, 2000, 114 Stat. 2782; Pub. L. 111–211, title II, § 242(a)(2), July 29, 2010, 124 Stat. 2292.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–211, § 242(a)(2)(A), substituted “sections 3611 and 3612 of this title” for “the provisions of sections 3611 and 3612 of this title” and “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
+2010—Subsec. (a). Pub. L. 111–211, § 242(a)(2)(A), substituted “sections 3611 and 3612 of this title” for “the provisions of sections 3611 and 3612 of this title” and “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
 
-Subsec. (b). Pub. L. 111–211, § 242(a)(2)(B), substituted “section 3613 of this title” for “the provisions of section 3613 of this title” and “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
+Subsec. (b). Pub. L. 111–211, § 242(a)(2)(B), substituted “section 3613 of this title” for “the provisions of section 3613 of this title” and “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
 
-Subsecs. (c), (d). Pub. L. 111–211, § 242(a)(2)(C), (D), substituted “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
+Subsecs. (c), (d). Pub. L. 111–211, § 242(a)(2)(C), (D), substituted “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
 
 2000—Subsecs. (a) to (d). Pub. L. 106–559 substituted “2000 through 2007” for “1994, 1995, 1996, 1997, 1998, 1999, and 2000”.
 
 ## SUBCHAPTER III—DISCLAIMERS
 
-### § 3631. Tribal authority
+### § 3631. Tribal authority
 
 Nothing in this chapter shall be construed to—
 
@@ -327,4 +327,4 @@ Nothing in this chapter shall be construed to—
 
 **(6)** diminish the trust responsibility of the United States to Indian tribal governments and tribal justice systems of such governments.
 
-(Pub. L. 103–176, title III, § 301, Dec. 3, 1993, 107 Stat. 2009.)
+(Pub. L. 103–176, title III, § 301, Dec. 3, 1993, 107 Stat. 2009.)

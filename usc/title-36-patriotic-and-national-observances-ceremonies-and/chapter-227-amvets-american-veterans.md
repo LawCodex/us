@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 227—AMVETS (AMERICAN VETERANS)"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 227—AMVETS (AMERICAN VETERANS)"
 identifier: "/us/usc/t36/stII/ptB/ch227"
 type: code
 jurisdiction: us
@@ -11,7 +11,7 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 227—AMVETS (AMERICAN VETERANS)
 
@@ -19,22 +19,22 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2002—Pub. L. 107–241, § 1(a)(2)(A), Oct. 16, 2002, 116 Stat. 1496, substituted “AMVETS (AMERICAN VETERANS)” for “AMVETS (AMERICAN VETERANS OF WORLD WAR II, KOREA, AND VIETNAM)” in chapter heading.
+2002—Pub. L. 107–241, § 1(a)(2)(A), Oct. 16, 2002, 116 Stat. 1496, substituted “AMVETS (AMERICAN VETERANS)” for “AMVETS (AMERICAN VETERANS OF WORLD WAR II, KOREA, AND VIETNAM)” in chapter heading.
 
-## § 22701. Organization
+## § 22701. Organization
 
 **(a) Federal Charter.—** AMVETS (American Veterans) (in this chapter, the “corporation”) is a federally chartered corporation.
 
 **(b) Perpetual Existence.—** Except as otherwise provided, the corporation has perpetual existence.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1306; Pub. L. 107–241, § 1(a)(1), Oct. 16, 2002, 116 Stat. 1496.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1306; Pub. L. 107–241, § 1(a)(1), Oct. 16, 2002, 116 Stat. 1496.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22701 | 36:67. | July 23, 1947, ch. 298, § 1, 61 Stat. 403; Aug. 15, 1977, Pub. L. 95–98, § 1(a), 91 Stat. 830. |
-|  | 36:67a. | July 23, 1947, ch. 298, §§ 2, 4 (related to perpetual succession), 10(1), 61 Stat. 405, 406, 407. |
+| 22701 | 36:67. | July 23, 1947, ch. 298, § 1, 61 Stat. 403; Aug. 15, 1977, Pub. L. 95–98, § 1(a), 91 Stat. 830. |
+|  | 36:67a. | July 23, 1947, ch. 298, §§ 2, 4 (related to perpetual succession), 10(1), 61 Stat. 405, 406, 407. |
 |  | 36:67c (related to perpetual succession). 36:67i(1). |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
@@ -47,7 +47,7 @@ This text of 36:67a is omitted as executed and obsolete.
 
 2002—Subsec. (a). Pub. L. 107–241 substituted “AMVETS (American Veterans)” for “AMVETS (American Veterans of World War II, Korea, and Vietnam)”.
 
-## § 22702. Purposes
+## § 22702. Purposes
 
 The purposes of the corporation are—
 
@@ -79,10 +79,10 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22702 | 36:67b(1), (3)–(10). | July 23, 1947, ch. 298, § 3(1), (3)–(10), 61 Stat. 405. |
-|  | 36:67b(2). | July 23, 1947, ch. 298, § 3(2), 61 Stat. 405; Aug. 15, 1977, Pub. L. 95–98, § 1(b)(1), 91 Stat. 830; June 13, 1991, Pub. L. 102–54, § 13(n)(1), 105 Stat. 278. |
+| 22702 | 36:67b(1), (3)–(10). | July 23, 1947, ch. 298, § 3(1), (3)–(10), 61 Stat. 405. |
+|  | 36:67b(2). | July 23, 1947, ch. 298, § 3(2), 61 Stat. 405; Aug. 15, 1977, Pub. L. 95–98, § 1(b)(1), 91 Stat. 830; June 13, 1991, Pub. L. 102–54, § 13(n)(1), 105 Stat. 278. |
 
-## § 22703. Membership
+## § 22703. Membership
 
 **(a) Eligibility.—** Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the constitution and bylaws of the corporation.
 
@@ -96,13 +96,13 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22703(a) | 36:67e (words before 3d comma). | July 23, 1947, ch. 298, § 6 (words before 3d comma, words after 3d comma related to discrimination in membership), 61 Stat. 407; Dec. 28, 1950, ch. 1178, 64 Stat. 1122; July 26, 1955, ch. 383, 69 Stat. 375; Sept. 14, 1966, Pub. L. 89–576, 80 Stat. 772; Aug. 15, 1977, Pub. L. 95–98, § 1(b)(2), 91 Stat. 830; May 31, 1984, Pub. L. 98–304, 98 Stat. 220. |
-| 22703(b) | 36:67f(1) (1st sentence). | July 23, 1947, ch. 298, § 7(1) (1st sentence), 61 Stat. 407. |
+| 22703(a) | 36:67e (words before 3d comma). | July 23, 1947, ch. 298, § 6 (words before 3d comma, words after 3d comma related to discrimination in membership), 61 Stat. 407; Dec. 28, 1950, ch. 1178, 64 Stat. 1122; July 26, 1955, ch. 383, 69 Stat. 375; Sept. 14, 1966, Pub. L. 89–576, 80 Stat. 772; Aug. 15, 1977, Pub. L. 95–98, § 1(b)(2), 91 Stat. 830; May 31, 1984, Pub. L. 98–304, 98 Stat. 220. |
+| 22703(b) | 36:67f(1) (1st sentence). | July 23, 1947, ch. 298, § 7(1) (1st sentence), 61 Stat. 407. |
 | 22703(c) | 36:67e (words after 3d comma related to discrimination in membership). |  |
 
 In subsection (b), the words “the right to” are omitted as unnecessary.
 
-## § 22704. Governing body
+## § 22704. Governing body
 
 **(a) Delegates to National Conventions.—** Each post may elect delegates to national conventions of the corporation. The delegates each have one vote in the conduct of business of the convention to which they are elected.
 
@@ -120,16 +120,16 @@ In subsection (b), the words “the right to” are omitted as unnecessary.
 
 **(d) Nondiscrimination.—** The requirements for holding office in the corporation may not discriminate on the basis of race, color, religion, sex, or national origin.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1307; Pub. L. 107–241, § 1(b), Oct. 16, 2002, 116 Stat. 1496.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1307; Pub. L. 107–241, § 1(b), Oct. 16, 2002, 116 Stat. 1496.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22704(a) | 36:67f(1) (last sentence). | July 23, 1947, ch. 298, §§ 5(3), 7(1) (last sentence), (2), 13, 61 Stat. 406, 407, 408. |
+| 22704(a) | 36:67f(1) (last sentence). | July 23, 1947, ch. 298, §§ 5(3), 7(1) (last sentence), (2), 13, 61 Stat. 406, 407, 408. |
 | 22704(b) | 36:67d(3). 36:67f(2). |  |
 | 22704(c) | 36:67*l*. |  |
-| 22704(d) | 36:67e (words after 3d comma related to discrimination in holding office). | July 23, 1947, ch. 298, § 6 (words after 3d comma related to discrimination in holding office), 61 Stat. 407; Dec. 28, 1950, ch. 1178, 64 Stat. 1122; July 26, 1955, ch. 383, 69 Stat. 375; Sept. 14, 1966, Pub. L. 89–576, 80 Stat. 772; Aug. 15, 1977, Pub. L. 95–98, § 1(b)(2), 91 Stat. 830; May 31, 1984, Pub. L. 98–304, 98 Stat. 220. |
+| 22704(d) | 36:67e (words after 3d comma related to discrimination in holding office). | July 23, 1947, ch. 298, § 6 (words after 3d comma related to discrimination in holding office), 61 Stat. 407; Dec. 28, 1950, ch. 1178, 64 Stat. 1122; July 26, 1955, ch. 383, 69 Stat. 375; Sept. 14, 1966, Pub. L. 89–576, 80 Stat. 772; Aug. 15, 1977, Pub. L. 95–98, § 1(b)(2), 91 Stat. 830; May 31, 1984, Pub. L. 98–304, 98 Stat. 220. |
 
 In subsection (b), the text of 36:67d(3) is omitted as obsolete.
 
@@ -141,7 +141,7 @@ In subsection (c), the words “each official delegate casting one vote” are o
 
 2002—Subsec. (c)(1). Pub. L. 107–241 substituted “two national vice commanders, a finance officer, a judge advocate, a chaplain, six national district commanders,” for “seven national vice commanders, one of whom shall be a woman, a finance officer, an adjutant, a judge advocate,”.
 
-## § 22705. Powers
+## § 22705. Powers
 
 **(a) General.—** The corporation may—
 
@@ -173,9 +173,9 @@ In subsection (c), the words “each official delegate casting one vote” are o
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22705(a) | 36:67c (less perpetual succession). | July 23, 1947, ch. 298, §§ 4 (less perpetual succession), 8, 10(2)–(5), 61 Stat. 406, 407. |
+| 22705(a) | 36:67c (less perpetual succession). | July 23, 1947, ch. 298, §§ 4 (less perpetual succession), 8, 10(2)–(5), 61 Stat. 406, 407. |
 |  | 36:67g. 36:67i(2)–(5). |  |
-| 22705(b) | 36:67r. | July 23, 1947, ch. 298, § 19, 61 Stat. 408; Aug. 15, 1977, Pub. L. 95–98, § 1(a), 91 Stat. 830. |
+| 22705(b) | 36:67r. | July 23, 1947, ch. 298, § 19, 61 Stat. 408; Aug. 15, 1977, Pub. L. 95–98, § 1(a), 91 Stat. 830. |
 
 In this section, the text of 36:67g is omitted as executed and obsolete.
 
@@ -191,17 +191,17 @@ In subsection (a)(7), the words “instruments of indebtedness” are substitute
 
 In subsection (b), the words “before July 24, 1947” are substituted for “heretofore” for clarity. The words “and accrue” are omitted as unnecessary.
 
-## § 22706. Exclusive right to name, seals, emblems, and badges
+## § 22706. Exclusive right to name, seals, emblems, and badges
 
 The corporation and its State, regional, and local subdivisions have the exclusive right to use the name “AMVETS (American Veterans)” and seals, emblems, and badges the corporation adopts.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1308; Pub. L. 107–241, § 1(a)(1), Oct. 16, 2002, 116 Stat. 1496.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1308; Pub. L. 107–241, § 1(a)(1), Oct. 16, 2002, 116 Stat. 1496.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22706 | 36:67p. | July 23, 1947, ch. 298, § 17, 61 Stat. 408; Aug. 15, 1977, Pub. L. 95–98, § 1(a), 91 Stat. 830. |
+| 22706 | 36:67p. | July 23, 1947, ch. 298, § 17, 61 Stat. 408; Aug. 15, 1977, Pub. L. 95–98, § 1(a), 91 Stat. 830. |
 
 The words “sole and” and “have and” are omitted as unnecessary. The word “adopts” is substituted for “may lawfully adopt” to eliminate unnecessary words.
 
@@ -211,7 +211,7 @@ The words “sole and” and “have and” are omitted as unnecessary. The word
 
 2002—Pub. L. 107–241 substituted “AMVETS (American Veterans)” for “AMVETS (American Veterans of World War II, Korea, and Vietnam)”.
 
-## § 22707. Restrictions
+## § 22707. Restrictions
 
 **(a) Profit.—** The corporation shall operate as a not-for-profit corporation, exclusively for charitable, educational, patriotic, and civic improvement purposes.
 
@@ -229,7 +229,7 @@ The words “sole and” and “have and” are omitted as unnecessary. The word
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22707(a) | 36:67b(11) (1st–8th words and words after semicolon). | July 23, 1947, ch. 298, §§ 3(11), 5(1), (2), 15, 16, 61 Stat. 405, 406, 408. |
+| 22707(a) | 36:67b(11) (1st–8th words and words after semicolon). | July 23, 1947, ch. 298, §§ 3(11), 5(1), (2), 15, 16, 61 Stat. 405, 406, 408. |
 | 22707(b) | 36:67n. |  |
 | 22707(c) | 36:67d(1), (2). |  |
 | 22707(d) | 36:67b(11) (9th word through semicolon). |  |
@@ -239,17 +239,17 @@ In subsection (b), the words “shares of” are omitted as unnecessary.
 
 In subsection (e), the words “or advance” are added in 2 places for consistency in the subsection.
 
-## § 22708. Headquarters and principal place of business
+## § 22708. Headquarters and principal place of business
 
 The headquarters and principal place of business of the corporation shall be in Maryland. However, the activities of the corporation are not confined to Maryland but may be conducted throughout the States, territories, and possessions of the United States.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1308; Pub. L. 107–241, § 1(c), Oct. 16, 2002, 116 Stat. 1496.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1308; Pub. L. 107–241, § 1(c), Oct. 16, 2002, 116 Stat. 1496.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22708 | 36:67d(4). | July 23, 1947, ch. 298, § 5(4), 61 Stat. 406. |
+| 22708 | 36:67d(4). | July 23, 1947, ch. 298, § 5(4), 61 Stat. 406. |
 
 The words “as set out herein” are omitted as unnecessary.
 
@@ -259,7 +259,7 @@ The words “as set out herein” are omitted as unnecessary.
 
 2002—Pub. L. 107–241 substituted “Maryland” for “the District of Columbia” in first and second sentences.
 
-## § 22709. Records and inspection
+## § 22709. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -277,11 +277,11 @@ The words “as set out herein” are omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22709 | 36:67m. | July 23, 1947, ch. 298, § 14, 61 Stat. 408. |
+| 22709 | 36:67m. | July 23, 1947, ch. 298, § 14, 61 Stat. 408. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 22710. Service of process
+## § 22710. Service of process
 
 **(a) District of Columbia.—** The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -293,12 +293,12 @@ The word “records” is substituted for “books and records” for consistenc
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22710(a) | 36:67k. | July 23, 1947, ch. 298, § 12, 61 Stat. 407. |
-| 22710(b) | 36:67q. | July 23, 1947, ch. 298, § 18, 61 Stat. 408; Aug. 15, 1977, Pub. L. 95–98, § 1(a), 91 Stat. 830. |
+| 22710(a) | 36:67k. | July 23, 1947, ch. 298, § 12, 61 Stat. 407. |
+| 22710(b) | 36:67q. | July 23, 1947, ch. 298, § 18, 61 Stat. 408; Aug. 15, 1977, Pub. L. 95–98, § 1(a), 91 Stat. 830. |
 
 In subsection (b), the words “precedent”, “herein”, and “or conferred” are omitted as unnecessary. The words “file, with the secretary of state or other designated official” are substituted for “serve notice on the secretary of state” for consistency in the revised title. The word “authorized” is omitted as unnecessary.
 
-## § 22711. Liability for acts of officials, representatives, and agents
+## § 22711. Liability for acts of officials, representatives, and agents
 
 The corporation is liable for the acts of its officials, representatives, and agents acting within the scope of their authority.
 
@@ -308,9 +308,9 @@ The corporation is liable for the acts of its officials, representatives, and ag
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22711 | 36:67j. | July 23, 1947, ch. 298, § 11, 61 Stat. 407. |
+| 22711 | 36:67j. | July 23, 1947, ch. 298, § 11, 61 Stat. 407. |
 
-## § 22712. Distribution of assets on dissolution or final liquidation
+## § 22712. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge or satisfactory provision for discharge of all liabilities shall be transferred to the Secretary of Veterans Affairs to be applied to the care and comfort of disabled veterans of World War II, the Korean conflict, and the Vietnam era.
 
@@ -320,6 +320,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22712 | 36:67h. | July 23, 1947, ch. 298, § 9, 61 Stat. 407; Aug. 15, 1977, Pub. L. 95–98, § 1(b)(3), 91 Stat. 830; June 13, 1991, Pub. L. 102–54, § 13(n)(1), 105 Stat. 278. |
+| 22712 | 36:67h. | July 23, 1947, ch. 298, § 9, 61 Stat. 407; Aug. 15, 1977, Pub. L. 95–98, § 1(b)(3), 91 Stat. 830; June 13, 1991, Pub. L. 102–54, § 13(n)(1), 105 Stat. 278. |
 
 The words “Secretary of Veterans Affairs” are substituted for “Department of Veterans Affairs” because under 38:303 the Secretary is the head of the Department.

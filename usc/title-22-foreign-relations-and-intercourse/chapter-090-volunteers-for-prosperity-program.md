@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 90—VOLUNTEERS FOR PROSPERITY PROGRAM
 
-## § 8301. Findings
+## § 8301. Findings
 
 Congress makes the following findings:
 
@@ -41,13 +41,13 @@ Congress makes the following findings:
 
 **(E)** participation in the development of special initiatives to further opportunities for skilled Americans; and
 
-**(F)** leadership of an innovative public-private partnership to provide eligible skilled 1
+**(F)** leadership of an innovative public-private partnership to provide eligible skilled 1
 
-<sup>1</sup>  So in original. Probably should be “eligible skilled professionals”.
+<sup>1</sup> So in original. Probably should be “eligible skilled professionals”.
 
 with financial assistance for volunteer assignments.
 
-(Pub. L. 111–13, title V, § 5101, Apr. 21, 2009, 123 Stat. 1597.)
+(Pub. L. 111–13, title V, § 5101, Apr. 21, 2009, 123 Stat. 1597.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -93,7 +93,7 @@ Sec. 7. *Judicial Review*. This order is intended only to improve the internal m
 
 George W. Bush.
 
-## § 8302. Definitions
+## § 8302. Definitions
 
 In this chapter:
 
@@ -109,7 +109,7 @@ The term “VfP Program” means the Volunteers for Prosperity Program establish
 
 The term “VfPServe” means a program established by the VfP Office, in cooperation with the USA Freedom Corps, to provide eligible skilled professionals with fixed amount stipends to offset the travel and living costs of volunteering abroad.
 
-(Pub. L. 111–13, title V, § 5102, Apr. 21, 2009, 123 Stat. 1598.)
+(Pub. L. 111–13, title V, § 5102, Apr. 21, 2009, 123 Stat. 1598.)
 
 **Editorial Notes**
 
@@ -123,7 +123,7 @@ Executive Order 13317, referred to in par. (2), is set out as a note under secti
 
 Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of Title 42, The Public Health and Welfare.
 
-## § 8303. Office of Volunteers for Prosperity
+## § 8303. Office of Volunteers for Prosperity
 
 **(a) Functions** The VfP Office shall pursue the objectives of the VfP Program described in subsection (b) by—
 
@@ -205,7 +205,7 @@ The VfP Office shall coordinate its efforts with other public and private effort
 
 The VfP Office shall submit an annual report to Congress on the activities of the VfP Office.
 
-(Pub. L. 111–13, title V, § 5103, Apr. 21, 2009, 123 Stat. 1598.)
+(Pub. L. 111–13, title V, § 5103, Apr. 21, 2009, 123 Stat. 1598.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -213,7 +213,7 @@ The VfP Office shall submit an annual report to Congress on the activities of th
 
 Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of Title 42, The Public Health and Welfare.
 
-## § 8304. Authorization of appropriations
+## § 8304. Authorization of appropriations
 
 **(a) In general**
 
@@ -223,7 +223,7 @@ There are authorized to be appropriated to carry out this chapter $10,000,000 fo
 
 Not more than 10 percent of the amounts appropriated pursuant to subsection (a) may be expended for the administrative costs of the United States Agency for International Development to manage the VfP Program.
 
-(Pub. L. 111–13, title V, § 5104, Apr. 21, 2009, 123 Stat. 1600.)
+(Pub. L. 111–13, title V, § 5104, Apr. 21, 2009, 123 Stat. 1600.)
 
 **Statutory Notes and Related Subsidiaries**
 

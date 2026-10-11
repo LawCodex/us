@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1984—Pub. L. 98–369, div. A, title IV, § 474(r)(29)(B), (C), July 18, 1984, 98 Stat. 844, struck out “AND TAX-FREE COVENANT BONDS” after “FOREIGN CORPORATIONS” in heading of chapter 3, and struck out item for subchapter B “Tax-free covenant bonds” and redesignated the item for subchapter C as B.
+1984—Pub. L. 98–369, div. A, title IV, § 474(r)(29)(B), (C), July 18, 1984, 98 Stat. 844, struck out “AND TAX-FREE COVENANT BONDS” after “FOREIGN CORPORATIONS” in heading of chapter 3, and struck out item for subchapter B “Tax-free covenant bonds” and redesignated the item for subchapter C as B.
 
 ## Subchapter A—Nonresident Aliens and Foreign Corporations
 
@@ -27,15 +27,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1988—Pub. L. 100–647, title I, § 1012(s)(1)(C), Nov. 10, 1988, 102 Stat. 3527, substituted “Withholding of tax on foreign partners’ share of effectively connected income” for “Withholding tax on amounts paid by partnerships to foreign partners” in item 1446.
+1988—Pub. L. 100–647, title I, § 1012(s)(1)(C), Nov. 10, 1988, 102 Stat. 3527, substituted “Withholding of tax on foreign partners’ share of effectively connected income” for “Withholding tax on amounts paid by partnerships to foreign partners” in item 1446.
 
-1986—Pub. L. 99–514, title XII, § 1246(c), Oct. 22, 1986, 100 Stat. 2582, added item 1446.
+1986—Pub. L. 99–514, title XII, § 1246(c), Oct. 22, 1986, 100 Stat. 2582, added item 1446.
 
-1984—Pub. L. 98–369, div. A, title I, § 129(a)(2), July 18, 1984, 98 Stat. 659, added item 1445.
+1984—Pub. L. 98–369, div. A, title I, § 129(a)(2), July 18, 1984, 98 Stat. 659, added item 1445.
 
-1983—Pub. L. 97–455, § 1(d)(2), Jan. 12, 1983, 96 Stat. 2498, added item 1444.
+1983—Pub. L. 97–455, § 1(d)(2), Jan. 12, 1983, 96 Stat. 2498, added item 1444.
 
-### § 1441. Withholding of tax on nonresident aliens
+### § 1441. Withholding of tax on nonresident aliens
 
 **(a) General rule**
 
@@ -129,7 +129,7 @@ For sources of income derived from, or for services performed with respect to, t
 
 For provision treating 85 percent of social security benefits as subject to withholding under this section, see section 871(a)(3).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 357; Aug. 26, 1954, ch. 937, title V, § 544(f), as added July 18, 1956, ch. 627, § 11(a), 70 Stat. 563; amended Pub. L. 85–141, § 11(b)(1), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–866, title I, § 40(b), Sept. 2, 1958, 72 Stat. 1638; Pub. L. 87–256, § 110(d), Sept. 21, 1961, 75 Stat. 536; Pub. L. 88–272, title III, § 302(c), Feb. 26, 1964, 78 Stat. 146; Pub. L. 89–809, title I, § 103(h), Nov. 13, 1966, 80 Stat. 1553; Pub. L. 91–172, title V, § 505(b), Dec. 30, 1969, 83 Stat. 634; Pub. L. 92–178, title III, § 313(a), (d), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title I, § 121(c)(2), Apr. 20, 1983, 97 Stat. 82; Pub. L. 98–369, div. A, title I, §§ 42(a)(13), 127(e)(1), title IV, § 474(r)(29)(G), (H), July 18, 1984, 98 Stat. 557, 652, 845; Pub. L. 99–514, title I, § 123(b)(2), title XII, § 1214(c)(3), title XVIII, § 1810(d)(3)(D), Oct. 22, 1986, 100 Stat. 2113, 2542, 2825; Pub. L. 100–647, title I, § 1001(d)(2)(A), title VI, § 6134(a)(2), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 101–508, title XI, § 11704(a)(14), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 102–318, title V, § 521(b)(32), (33), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, § 13237(c)(4), Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, § 320(a)(1)(B), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 105–34, title XVI, § 1604(g)(3), Aug. 5, 1997, 111 Stat. 1099; Pub. L. 108–357, title IV, § 411(a)(3)(A), Oct. 22, 2004, 118 Stat. 1503; Pub. L. 113–295, div. A, title II, § 221(a)(92), Dec. 19, 2014, 128 Stat. 4050.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 357; Aug. 26, 1954, ch. 937, title V, § 544(f), as added July 18, 1956, ch. 627, § 11(a), 70 Stat. 563; amended Pub. L. 85–141, § 11(b)(1), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–866, title I, § 40(b), Sept. 2, 1958, 72 Stat. 1638; Pub. L. 87–256, § 110(d), Sept. 21, 1961, 75 Stat. 536; Pub. L. 88–272, title III, § 302(c), Feb. 26, 1964, 78 Stat. 146; Pub. L. 89–809, title I, § 103(h), Nov. 13, 1966, 80 Stat. 1553; Pub. L. 91–172, title V, § 505(b), Dec. 30, 1969, 83 Stat. 634; Pub. L. 92–178, title III, § 313(a), (d), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title I, § 121(c)(2), Apr. 20, 1983, 97 Stat. 82; Pub. L. 98–369, div. A, title I, §§ 42(a)(13), 127(e)(1), title IV, § 474(r)(29)(G), (H), July 18, 1984, 98 Stat. 557, 652, 845; Pub. L. 99–514, title I, § 123(b)(2), title XII, § 1214(c)(3), title XVIII, § 1810(d)(3)(D), Oct. 22, 1986, 100 Stat. 2113, 2542, 2825; Pub. L. 100–647, title I, § 1001(d)(2)(A), title VI, § 6134(a)(2), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 101–508, title XI, § 11704(a)(14), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 102–318, title V, § 521(b)(32), (33), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, § 13237(c)(4), Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, § 320(a)(1)(B), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 105–34, title XVI, § 1604(g)(3), Aug. 5, 1997, 111 Stat. 1099; Pub. L. 108–357, title IV, § 411(a)(3)(A), Oct. 22, 2004, 118 Stat. 1503; Pub. L. 113–295, div. A, title II, § 221(a)(92), Dec. 19, 2014, 128 Stat. 4050.)
 
 **Editorial Notes**
 
@@ -137,11 +137,11 @@ For provision treating 85 percent of social security benefits as subject to with
 
 Section 101(a)(15) of the Immigration and Nationality Act, referred to in subsec. (b), is classified to section 1101(a)(15) of Title 8, Aliens and Nationality.
 
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (b)(2)(C), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of Title 22 and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (b)(2)(C), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of Title 22 and Tables.
 
-The Tax Reform Act of 1984, referred to in subsec. (c)(3), is division A [§§ 5 to 1082] of Pub. L. 98–369, July 18, 1984, 98 Stat. 494, which was approved July 18, 1984. For complete classification of this Act to the Code, see Short Title of 1984 Amendments note set out under section 1 of this title and Tables.
+The Tax Reform Act of 1984, referred to in subsec. (c)(3), is division A [§§ 5 to 1082] of Pub. L. 98–369, July 18, 1984, 98 Stat. 494, which was approved July 18, 1984. For complete classification of this Act to the Code, see Short Title of 1984 Amendments note set out under section 1 of this title and Tables.
 
-The Mutual Security Act of 1954, referred to in subsec. (c)(6), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§ 2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§ 101 to 103, ch. II, §§ 201 to 205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, § 2, ch. 1, § 101, ch. II, §§ 201 to 205(a) to (i), (k) to (n), ch. III, § 301, ch. IV, § 401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§ 1750 et seq.) of Title 22, Foreign Relations and Intercourse, and which was repealed by act July 18, 1956, ch. 627, § 8(m), 70 Stat. 559, Pub. L. 85–141, §§ 2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§ 205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§ 203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, § 212(b)(1), June 30, 1976, 90 Stat 745, except for sections 1754, 1783, 1796, 1853, 1922, 1928, and 1937 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of Title 22 and Tables.
+The Mutual Security Act of 1954, referred to in subsec. (c)(6), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§ 2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§ 101 to 103, ch. II, §§ 201 to 205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, § 2, ch. 1, § 101, ch. II, §§ 201 to 205(a) to (i), (k) to (n), ch. III, § 301, ch. IV, § 401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§ 1750 et seq.) of Title 22, Foreign Relations and Intercourse, and which was repealed by act July 18, 1956, ch. 627, § 8(m), 70 Stat. 559, Pub. L. 85–141, §§ 2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§ 205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§ 203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, § 212(b)(1), June 30, 1976, 90 Stat 745, except for sections 1754, 1783, 1796, 1853, 1922, 1928, and 1937 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of Title 22 and Tables.
 
 **Amendments**
 
@@ -159,59 +159,59 @@ The Mutual Security Act of 1954, referred to in subsec. (c)(6), is act Aug. 26, 
 
 1990—Subsec. (b)(2). Pub. L. 101–508 inserted “section” before “170(b)(1)(A)(ii)”.
 
-1988—Subsec. (b). Pub. L. 100–647, § 1001(d)(2)(A), amended second sentence generally. Prior to amendment, second sentence read as follows: “The items of income referred to in subsection (a) from which tax shall be deducted and withheld at the rate of 14 percent are amounts which are received by a nonresident alien individual who is temporarily present in the United States as a nonimmigrant under subparagraph (F) or (J) of section 101(a)(15) of the Immigration and Nationality Act and which are incident to a qualified scholarship to which section 117(a) applies, but only to the extent such amounts are includible in gross income.”
+1988—Subsec. (b). Pub. L. 100–647, § 1001(d)(2)(A), amended second sentence generally. Prior to amendment, second sentence read as follows: “The items of income referred to in subsection (a) from which tax shall be deducted and withheld at the rate of 14 percent are amounts which are received by a nonresident alien individual who is temporarily present in the United States as a nonimmigrant under subparagraph (F) or (J) of section 101(a)(15) of the Immigration and Nationality Act and which are incident to a qualified scholarship to which section 117(a) applies, but only to the extent such amounts are includible in gross income.”
 
-Subsec. (c)(11). Pub. L. 100–647, § 6134(a)(2), added par. (11).
+Subsec. (c)(11). Pub. L. 100–647, § 6134(a)(2), added par. (11).
 
-1986—Subsec. (b). Pub. L. 99–514, § 123(b)(2), amended second sentence generally. Prior to amendment, second sentence read as follows: “The items of income referred to in subsection (a) from which tax shall be deducted and withheld at the rate of 14 percent are—
+1986—Subsec. (b). Pub. L. 99–514, § 123(b)(2), amended second sentence generally. Prior to amendment, second sentence read as follows: “The items of income referred to in subsection (a) from which tax shall be deducted and withheld at the rate of 14 percent are—
 
 “(1) that portion of any scholarship or fellowship grant which is received by a nonresident alien individual who is temporarily present in the United States as a nonimmigrant under subparagraph (F) or (J) of section 101(a)(15) of the Immigration and Nationality Act, as amended, and which is not excluded from gross income under section 117(a)(1) solely by reason of section 117(b)(2)(B); and
 
 “(2) amounts described in subparagraphs (A), (B), (C), and (D) of section 117(a)(2) which are received by any such nonresident alien individual and which are incident to a scholarship or fellowship grant to which section 117(a)(1) applies, but only to the extent such amounts are includable in gross income.”
 
-Subsec. (c)(9). Pub. L. 99–514, § 1810(d)(3)(D), substituted “section 871(h)” for “871(h)(2)”.
+Subsec. (c)(9). Pub. L. 99–514, § 1810(d)(3)(D), substituted “section 871(h)” for “871(h)(2)”.
 
-Subsec. (c)(10). Pub. L. 99–514, § 1214(c)(3), added par. (10).
+Subsec. (c)(10). Pub. L. 99–514, § 1214(c)(3), added par. (10).
 
-1984—Subsec. (a). Pub. L. 98–369, § 474(r)(29)(G), struck out “except in the cases provided for in section 1451 and” before “except as otherwise provided in regulations”.
+1984—Subsec. (a). Pub. L. 98–369, § 474(r)(29)(G), struck out “except in the cases provided for in section 1451 and” before “except as otherwise provided in regulations”.
 
-Subsec. (b). Pub. L. 98–369, § 42(a)(13), substituted “section 1273” for “section 1232(b)”.
+Subsec. (b). Pub. L. 98–369, § 42(a)(13), substituted “section 1273” for “section 1232(b)”.
 
-Subsec. (c)(3). Pub. L. 98–369, § 474(r)(29)(H), inserted “(as in effect before its repeal by the Tax Reform Act of 1984)”.
+Subsec. (c)(3). Pub. L. 98–369, § 474(r)(29)(H), inserted “(as in effect before its repeal by the Tax Reform Act of 1984)”.
 
-Subsec. (c)(9). Pub. L. 98–369, § 127(e)(1), added par. (9).
+Subsec. (c)(9). Pub. L. 98–369, § 127(e)(1), added par. (9).
 
 1983—Subsec. (g). Pub. L. 98–21 added subsec. (g).
 
 1976—Pub. L. 94–455 struck out in subsecs. (a), (c)(2), (4), (8), (d), “or his delegate” after “Secretary”.
 
-1971—Subsec. (b). Pub. L. 92–178, § 313(a), inserted “(other than original issue discount as defined in section 1232(b))” after “interest”.
+1971—Subsec. (b). Pub. L. 92–178, § 313(a), inserted “(other than original issue discount as defined in section 1232(b))” after “interest”.
 
-Subsec. (c)(8). Pub. L. 92–178, § 313(d), added par. (8).
+Subsec. (c)(8). Pub. L. 92–178, § 313(d), added par. (8).
 
 1969—Subsec. (f). Pub. L. 91–172 added subsec. (f).
 
-1966—Subsec. (a). Pub. L. 89–809, § 103(h)(1), substituted “or of any foreign partnership” for “, or of any partnership not engaged in trade or business within the United States and composed in whole or in part of nonresident aliens,”.
+1966—Subsec. (a). Pub. L. 89–809, § 103(h)(1), substituted “or of any foreign partnership” for “, or of any partnership not engaged in trade or business within the United States and composed in whole or in part of nonresident aliens,”.
 
-Subsec. (b). Pub. L. 89–809, § 103(h)(2)–(4), struck out “(except interest on deposits with persons carrying on the banking business paid to persons not engaged in business in the United States)” after “The items of income referred to in subsection (a) are interest” and substituted “gains described in section 402(a)(2), 403(a)(2), or 631(b) or (c), amounts subject to tax under section 871(a)(1)(C), gains subject to tax under section 871(a)(1)(D), and gains on transfers described in section 1235 made on or before October 4, 1966” for “and amounts described in section 402(a)(2), section 403(a)(2), section 631(b) and (c), and section 1235, which are considered to be gains from the sale or exchange of capital assets” in text preceding par. (1), and inserted provision for treatment of items of income referred to in subsec. (a) in the case of nonresident alien individuals who are members of domestic partnerships.
+Subsec. (b). Pub. L. 89–809, § 103(h)(2)–(4), struck out “(except interest on deposits with persons carrying on the banking business paid to persons not engaged in business in the United States)” after “The items of income referred to in subsection (a) are interest” and substituted “gains described in section 402(a)(2), 403(a)(2), or 631(b) or (c), amounts subject to tax under section 871(a)(1)(C), gains subject to tax under section 871(a)(1)(D), and gains on transfers described in section 1235 made on or before October 4, 1966” for “and amounts described in section 402(a)(2), section 403(a)(2), section 631(b) and (c), and section 1235, which are considered to be gains from the sale or exchange of capital assets” in text preceding par. (1), and inserted provision for treatment of items of income referred to in subsec. (a) in the case of nonresident alien individuals who are members of domestic partnerships.
 
-Subsec. (c)(1). Pub. L. 89–809, § 103(h)(5), substituted “in the case of any item of income (other than compensation for personal services) which is effectively connected with the conduct of a trade or business within the United States and which is included in the gross income of the recipient under section 871(b)(2) for the taxable year” for “in the case of dividends paid by a foreign corporation unless (A) such corporation is engaged in trade or business within the United States, and (B) more than 85 percent of the gross income of such corporation for the 3-year period ending with the close of its taxable year preceding the declaration of such dividends (or for such part of such period as the corporation has been in existence) was derived from sources within the United States as determined under part I of subchapter N of chapter 1” after “shall be required”.
+Subsec. (c)(1). Pub. L. 89–809, § 103(h)(5), substituted “in the case of any item of income (other than compensation for personal services) which is effectively connected with the conduct of a trade or business within the United States and which is included in the gross income of the recipient under section 871(b)(2) for the taxable year” for “in the case of dividends paid by a foreign corporation unless (A) such corporation is engaged in trade or business within the United States, and (B) more than 85 percent of the gross income of such corporation for the 3-year period ending with the close of its taxable year preceding the declaration of such dividends (or for such part of such period as the corporation has been in existence) was derived from sources within the United States as determined under part I of subchapter N of chapter 1” after “shall be required”.
 
-Subsec. (c)(4). Pub. L. 89–809, § 103(h)(6), struck out provisions which had served to limit to compensation for personal services of nonresident alien individuals who enter and leave the United States at frequent intervals and of nonresident alien individuals for the period they are temporarily present in the United States as a nonimmigrant under subparagraph (F) and (J) of section 101(a)(15) of the Immigration and Nationality Act, as amended, the application of the exemption from deduction and withholding under subsec. (a), leaving the exemption under subsec. (a) applicable to compensation for personal services without further limitation.
+Subsec. (c)(4). Pub. L. 89–809, § 103(h)(6), struck out provisions which had served to limit to compensation for personal services of nonresident alien individuals who enter and leave the United States at frequent intervals and of nonresident alien individuals for the period they are temporarily present in the United States as a nonimmigrant under subparagraph (F) and (J) of section 101(a)(15) of the Immigration and Nationality Act, as amended, the application of the exemption from deduction and withholding under subsec. (a), leaving the exemption under subsec. (a) applicable to compensation for personal services without further limitation.
 
-Subsec. (c)(5). Pub. L. 89–809, § 103(h)(7), substituted “gains described in section 402(a)(2), 403(a)(2), or 631(b) or (c), gains subject to tax under section 871 (a)(1)(D), and gains on transfers described in section 1235 made on or before October 4, 1966,” for “amounts described in section 402(a)(2), section 403(a)(2), section 631(b) and (c), and section 1235, which are considered to be gains from the sale or exchange of capital assets,” and “amounts payable,” for “proceeds from such sale or exchange,”.
+Subsec. (c)(5). Pub. L. 89–809, § 103(h)(7), substituted “gains described in section 402(a)(2), 403(a)(2), or 631(b) or (c), gains subject to tax under section 871 (a)(1)(D), and gains on transfers described in section 1235 made on or before October 4, 1966,” for “amounts described in section 402(a)(2), section 403(a)(2), section 631(b) and (c), and section 1235, which are considered to be gains from the sale or exchange of capital assets,” and “amounts payable,” for “proceeds from such sale or exchange,”.
 
-Subsec. (c)(7). Pub. L. 89–809, § 103(h)(8), added par. (7).
+Subsec. (c)(7). Pub. L. 89–809, § 103(h)(8), added par. (7).
 
-Subsecs. (d), (e). Pub. L. 89–809, § 103(h)(9), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 89–809, § 103(h)(9), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1964—Subsecs. (a), (b). Pub. L. 88–272 reduced the withholding rate from 18% to 14%.
 
-1961—Subsec. (a). Pub. L. 87–256, § 110(d)(1), required a tax equal to 18 percent of the item in the case of any item of income specified in second sentence of subsection (b).
+1961—Subsec. (a). Pub. L. 87–256, § 110(d)(1), required a tax equal to 18 percent of the item in the case of any item of income specified in second sentence of subsection (b).
 
-Subsec. (b). Pub. L. 87–256, § 110(d)(2), inserted provisions listing items of income from which tax shall be deducted and withheld at the rate of 18 percent.
+Subsec. (b). Pub. L. 87–256, § 110(d)(2), inserted provisions listing items of income from which tax shall be deducted and withheld at the rate of 18 percent.
 
-Subsec. (c)(4). Pub. L. 87–256, § 110(d)(3), authorized the exemption from deduction and withholding of the compensation for personal services of a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subpar. (F) or (J) of section 101(a)(15) of the Immigration and Nationality Act, as amended.
+Subsec. (c)(4). Pub. L. 87–256, § 110(d)(3), authorized the exemption from deduction and withholding of the compensation for personal services of a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subpar. (F) or (J) of section 101(a)(15) of the Immigration and Nationality Act, as amended.
 
 1958—Subsecs. (b), (c)(5). Pub. L. 85–866 inserted “section 403(a)(2),” after “section 402(a)(2),”.
 
@@ -277,7 +277,7 @@ Amendment by Pub. L. 88–272 applicable to payments made after seventh day foll
 
 **Effective Date of 1961 Amendment**
 
-Pub. L. 87–256, § 110(h)(2), Sept. 21, 1961, 75 Stat. 537, provided that: “The amendments made by subsection (d) of this section [amending this section] shall apply with respect to payments made after December 31, 1961.”
+Pub. L. 87–256, § 110(h)(2), Sept. 21, 1961, 75 Stat. 537, provided that: “The amendments made by subsection (d) of this section [amending this section] shall apply with respect to payments made after December 31, 1961.”
 
 **Effective Date of 1958 Amendment**
 
@@ -291,19 +291,19 @@ Section 544(f) of act Aug. 26, 1954, cited as a credit to this section, was repe
 
 For nonapplication of amendments by sections 123(b)(2) and 1214(c)(3) of Pub. L. 99–514 to the extent application of such amendments would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
-**Plan Amendments Not Required Until January 1, 1994**
+**Plan Amendments Not Required Until January 1, 1994**
 
-For provisions directing that if any amendments made by subtitle B [§§ 521–523] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B [§§ 521–523] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 **Withholding of Tax on Nonresident Aliens and Foreign Corporations**
 
-Pub. L. 97–248, title III, § 342, Sept. 3, 1982, 96 Stat. 635, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Not later than 2 years after the date of the enactment of this Act [Sept. 3, 1982], the Secretary of the Treasury or his delegate shall prescribe regulations establishing certification procedures, refund procedures, or other procedures which ensure that any benefit of any treaty relating to withholding of tax under sections 1441 and 1442 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] is available only to persons entitled to such benefit.”
+Pub. L. 97–248, title III, § 342, Sept. 3, 1982, 96 Stat. 635, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Not later than 2 years after the date of the enactment of this Act [Sept. 3, 1982], the Secretary of the Treasury or his delegate shall prescribe regulations establishing certification procedures, refund procedures, or other procedures which ensure that any benefit of any treaty relating to withholding of tax under sections 1441 and 1442 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] is available only to persons entitled to such benefit.”
 
-### § 1442. Withholding of tax on foreign corporations
+### § 1442. Withholding of tax on foreign corporations
 
 **(a) General rule**
 
@@ -333,7 +333,7 @@ subsection (a) shall be applied for such taxable year by substituting “10 perc
 
 If, on or after the date of the enactment of this paragraph, an increase in the rate of the Commonwealth of Puerto Rico’s withholding tax which is generally applicable to dividends paid to United States corporations not engaged in a trade or business in the Commonwealth to a rate greater than 10 percent takes effect, this paragraph shall not apply to dividends received on or after the effective date of the increase.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 358; Pub. L. 89–809, title I, § 104(c), Nov. 13, 1966, 80 Stat. 1557; Pub. L. 92–178, title III, § 313(e), Dec. 10, 1971, 85 Stat. 528; Pub. L. 92–606, § 1(e)(2), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §§ 127(e)(2), 130(b), title IV, § 474(r)(29)(I), July 18, 1984, 98 Stat. 652, 661, 845; Pub. L. 99–514, title XII, § 1273(b)(2)(B), title XVIII, § 1810(d)(3)(E), Oct. 22, 1986, 100 Stat. 2596, 2825; Pub. L. 100–647, title I, § 1012(g)(7), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 103–66, title XIII, § 13237(c)(5), Aug. 10, 1993, 107 Stat. 508; Pub. L. 108–357, title IV, §§ 411(a)(3)(B), 420(b), Oct. 22, 2004, 118 Stat. 1504, 1513.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 358; Pub. L. 89–809, title I, § 104(c), Nov. 13, 1966, 80 Stat. 1557; Pub. L. 92–178, title III, § 313(e), Dec. 10, 1971, 85 Stat. 528; Pub. L. 92–606, § 1(e)(2), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §§ 127(e)(2), 130(b), title IV, § 474(r)(29)(I), July 18, 1984, 98 Stat. 652, 661, 845; Pub. L. 99–514, title XII, § 1273(b)(2)(B), title XVIII, § 1810(d)(3)(E), Oct. 22, 1986, 100 Stat. 2596, 2825; Pub. L. 100–647, title I, § 1012(g)(7), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 103–66, title XIII, § 13237(c)(5), Aug. 10, 1993, 107 Stat. 508; Pub. L. 108–357, title IV, §§ 411(a)(3)(B), 420(b), Oct. 22, 2004, 118 Stat. 1504, 1513.)
 
 **Editorial Notes**
 
@@ -343,23 +343,23 @@ The date of the enactment of this paragraph, referred to in subsec. (c)(2)(B), i
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–357, § 411(a)(3)(B), substituted “the reference in section 1441(c)(10)” for “and the reference in section 1441(c)(10)” and inserted before period at end “, and the references in section 1441(c)(12) to sections 871(a) and 871(k) shall be treated as referring to sections 881(a) and 881(e) (except that for purposes of applying subparagraph (A) of section 1441(c)(12), as so modified, clause (ii) of section 881(e)(1)(B) shall not apply to any dividend unless the regulated investment company knows that such dividend is a dividend referred to in such clause)”.
+2004—Subsec. (a). Pub. L. 108–357, § 411(a)(3)(B), substituted “the reference in section 1441(c)(10)” for “and the reference in section 1441(c)(10)” and inserted before period at end “, and the references in section 1441(c)(12) to sections 871(a) and 871(k) shall be treated as referring to sections 881(a) and 881(e) (except that for purposes of applying subparagraph (A) of section 1441(c)(12), as so modified, clause (ii) of section 881(e)(1)(B) shall not apply to any dividend unless the regulated investment company knows that such dividend is a dividend referred to in such clause)”.
 
-Subsec. (c). Pub. L. 108–357, § 420(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (c). Pub. L. 108–357, § 420(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 1993—Subsec. (a). Pub. L. 103–66 substituted “871(h)(3) or (4)” for “871(h)(3)” and “881(c)(3) or (4)” for “881(c)(3)”.
 
-1988—Subsec. (a). Pub. L. 100–647 struck out “and” after “to section 881(a)(3),” and inserted before period at end “, and the reference in section 1441(c)(10) to section 871(i)(2) shall be treated as referring to section 881(d)”.
+1988—Subsec. (a). Pub. L. 100–647 struck out “and” after “to section 881(a)(3),” and inserted before period at end “, and the reference in section 1441(c)(10) to section 871(i)(2) shall be treated as referring to section 881(d)”.
 
-1986—Subsec. (a). Pub. L. 99–514, § 1810(d)(3)(E), substituted “871(h)” for “871(h)(2)”, “881(c)” for “881(c)(2)”, and “1441(c)(9)” for “1449(c)(9)”.
+1986—Subsec. (a). Pub. L. 99–514, § 1810(d)(3)(E), substituted “871(h)” for “871(h)(2)”, “881(c)” for “881(c)(2)”, and “1441(c)(9)” for “1449(c)(9)”.
 
-Subsec. (c). Pub. L. 99–514, § 1273(b)(2)(B), amended subsec. (c) generally, substituting reference to “certain possessions corporations” for reference to “certain Guam and Virgin Islands corporations” in heading, and in text extending “foreign corporation” exception so as to not include corporation created or organized in Guam, American Samoa, Northern Mariana Islands, or the Virgin Islands, and striking out par. (2) which declared that par. (1) not apply to tax imposed in Guam, and par. (3) which referred to sections 934 and 943a for tax imposed in Virgin Islands.
+Subsec. (c). Pub. L. 99–514, § 1273(b)(2)(B), amended subsec. (c) generally, substituting reference to “certain possessions corporations” for reference to “certain Guam and Virgin Islands corporations” in heading, and in text extending “foreign corporation” exception so as to not include corporation created or organized in Guam, American Samoa, Northern Mariana Islands, or the Virgin Islands, and striking out par. (2) which declared that par. (1) not apply to tax imposed in Guam, and par. (3) which referred to sections 934 and 943a for tax imposed in Virgin Islands.
 
-1984—Subsec. (a). Pub. L. 98–369, § 474(r)(29)(I), struck out “or section 1451” after “provided in section 1441” and struck out “; except that, in the case of interest described in section 1451 (relating to tax-free covenant bonds), the deduction and withholding shall be at the rate specified therein” after “a tax equal to 30 percent thereof”.
+1984—Subsec. (a). Pub. L. 98–369, § 474(r)(29)(I), struck out “or section 1451” after “provided in section 1441” and struck out “; except that, in the case of interest described in section 1451 (relating to tax-free covenant bonds), the deduction and withholding shall be at the rate specified therein” after “a tax equal to 30 percent thereof”.
 
-Pub. L. 98–369, § 127(e)(2), struck out “and” after “section 881(a)(4),” and inserted “, and the references in section 1449(c)(9) to sections 871(h)(2) and 871(h)(3) shall be treated as referring to sections 881(c)(2) and 881(c)(3)”.
+Pub. L. 98–369, § 127(e)(2), struck out “and” after “section 881(a)(4),” and inserted “, and the references in section 1449(c)(9) to sections 871(h)(2) and 871(h)(3) shall be treated as referring to sections 881(c)(2) and 881(c)(3)”.
 
-Subsec. (c). Pub. L. 98–369, § 130(b), substituted provision relating to exception for certain Guam and Virgin Islands corporations for provision relating to exception for Guam corporations.
+Subsec. (c). Pub. L. 98–369, § 130(b), substituted provision relating to exception for certain Guam and Virgin Islands corporations for provision relating to exception for Guam corporations.
 
 1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in two places.
 
@@ -401,7 +401,7 @@ Amendment by section 474(r)(29)(I) of Pub. L. 98–369 not applicable with respe
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–606, § 2, Oct. 31, 1972, 86 Stat. 1497, provided in part that: “The amendment made by section 1(e)(2) [amending this section] shall take effect on the day after the date of enactment of this Act [Oct. 31, 1972].”
+Pub. L. 92–606, § 2, Oct. 31, 1972, 86 Stat. 1497, provided in part that: “The amendment made by section 1(e)(2) [amending this section] shall take effect on the day after the date of enactment of this Act [Oct. 31, 1972].”
 
 **Effective Date of 1971 Amendment**
 
@@ -411,15 +411,15 @@ Amendment by Pub. L. 92–178 applicable with respect to payments occurring on o
 
 Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) of Pub. L. 89–809, set out as a note under section 11 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 **Withholding of Tax on Nonresident Aliens and Foreign Corporations**
 
-For provisions relating to withholding of tax on nonresident aliens and foreign corporations, see Pub. L. 97–248, title III, § 342, Sept. 3, 1982, 96 Stat. 635, set out as a note under section 1441 of this title.
+For provisions relating to withholding of tax on nonresident aliens and foreign corporations, see Pub. L. 97–248, title III, § 342, Sept. 3, 1982, 96 Stat. 635, set out as a note under section 1441 of this title.
 
-### § 1443. Foreign tax-exempt organizations
+### § 1443. Foreign tax-exempt organizations
 
 **(a) Income subject to section 511**
 
@@ -429,7 +429,7 @@ In the case of income of a foreign organization subject to the tax imposed by se
 
 In the case of income of a foreign organization subject to the tax imposed by section 4948(a), this chapter shall apply, except that the deduction and withholding shall be at the rate of 4 percent and shall be subject to such conditions as may be provided under regulations prescribed by the Secretary.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 358; Pub. L. 91–172, title I, §§ 101(j)(22), 121(d)(2)(C), Dec. 30, 1969, 83 Stat. 528, 547; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 358; Pub. L. 91–172, title I, §§ 101(j)(22), 121(d)(2)(C), Dec. 30, 1969, 83 Stat. 528, 547; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -437,9 +437,9 @@ In the case of income of a foreign organization subject to the tax imposed by se
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” in two places.
 
-1969—Pub. L. 91–172, § 101(j)(22), designated existing provisions as subsec. (a) and added subsec. (b).
+1969—Pub. L. 91–172, § 101(j)(22), designated existing provisions as subsec. (a) and added subsec. (b).
 
-Subsec. (a). Pub. L. 91–172, § 121(d)(2)(C), substituted “income” for “rents” after “this chapter shall apply to”.
+Subsec. (a). Pub. L. 91–172, § 121(d)(2)(C), substituted “income” for “rents” after “this chapter shall apply to”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -449,11 +449,11 @@ Amendment by section 101(j)(22) of Pub. L. 91–172 effective Jan. 1, 1970, see 
 
 Amendment by section 121(d)(2)(C) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
 
-### § 1444. Withholding on Virgin Islands source income
+### § 1444. Withholding on Virgin Islands source income
 
 For purposes of determining the withholding tax liability incurred in the Virgin Islands pursuant to this title (as made applicable to the Virgin Islands) with respect to amounts received from sources within the Virgin Islands by citizens and resident alien individuals of the United States, and corporations organized in the United States, the rate of withholding tax under sections 1441 and 1442 on income subject to tax under section 871(a)(1) or 881 shall not exceed the rate of tax on such income under section 871(a)(1) or 881, as the case may be.
 
-(Added Pub. L. 97–455, § 1(b), Jan. 12, 1983, 96 Stat. 2497; amended Pub. L. 100–647, title I, § 1012(x), Nov. 10, 1988, 102 Stat. 3530.)
+(Added Pub. L. 97–455, § 1(b), Jan. 12, 1983, 96 Stat. 2497; amended Pub. L. 100–647, title I, § 1012(x), Nov. 10, 1988, 102 Stat. 3530.)
 
 **Editorial Notes**
 
@@ -471,7 +471,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Section applicable to payments made after Jan. 12, 1983, see section 1(e)(2) of Pub. L. 97–455, set out as a note under section 934 of this title.
 
-### § 1445. Withholding of tax on dispositions of United States real property interests
+### § 1445. Withholding of tax on dispositions of United States real property interests
 
 **(a) General rule**
 
@@ -701,45 +701,45 @@ The term “transferor’s unsatisfied withholding liability” means the withho
 
 **(B)** the transferee’s agent.
 
-(Added Pub. L. 98–369, div. A, title I, § 129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, § 311(b)(4), title XVIII, § 1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, § 1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, § 13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, § 1704(c)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, § 311(c)(1), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, § 301(a)(2)(C), May 28, 2003, 117 Stat. 758; Pub. L. 109–222, title V, §§ 505(b), 506(b), May 17, 2006, 120 Stat. 356, 358; Pub. L. 110–289, div. C, title I, § 3024(a)–(c), July 30, 2008, 122 Stat. 2895; Pub. L. 112–240, title I, § 102(c)(1)(C), (3), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 114–113, div. Q, title III, §§ 323(b), 324(a), (b), Dec. 18, 2015, 129 Stat. 3103; Pub. L. 115–97, title I, § 13001(b)(3)(A)–(C), Dec. 22, 2017, 131 Stat. 2097.)
+(Added Pub. L. 98–369, div. A, title I, § 129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, § 311(b)(4), title XVIII, § 1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, § 1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, § 13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, § 1704(c)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, § 311(c)(1), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, § 301(a)(2)(C), May 28, 2003, 117 Stat. 758; Pub. L. 109–222, title V, §§ 505(b), 506(b), May 17, 2006, 120 Stat. 356, 358; Pub. L. 110–289, div. C, title I, § 3024(a)–(c), July 30, 2008, 122 Stat. 2895; Pub. L. 112–240, title I, § 102(c)(1)(C), (3), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 114–113, div. Q, title III, §§ 323(b), 324(a), (b), Dec. 18, 2015, 129 Stat. 3103; Pub. L. 115–97, title I, § 13001(b)(3)(A)–(C), Dec. 22, 2017, 131 Stat. 2097.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (e)(1). Pub. L. 115–97, § 13001(b)(3)(A), in introductory provisions, substituted “the highest rate of tax in effect for the taxable year under section 11(b)” for “35 percent” and “multiplied by the gain” for “of the gain”.
+2017—Subsec. (e)(1). Pub. L. 115–97, § 13001(b)(3)(A), in introductory provisions, substituted “the highest rate of tax in effect for the taxable year under section 11(b)” for “35 percent” and “multiplied by the gain” for “of the gain”.
 
-Subsec. (e)(2). Pub. L. 115–97, § 13001(b)(3)(B), substituted “the highest rate of tax in effect for the taxable year under section 11(b) multiplied by the amount” for “35 percent of the amount”.
+Subsec. (e)(2). Pub. L. 115–97, § 13001(b)(3)(B), substituted “the highest rate of tax in effect for the taxable year under section 11(b) multiplied by the amount” for “35 percent of the amount”.
 
-Subsec. (e)(6). Pub. L. 115–97, § 13001(b)(3)(C), substituted “the highest rate of tax in effect for the taxable year under section 11(b)” for “35 percent” and “multiplied by the amount” for “of the amount”.
+Subsec. (e)(6). Pub. L. 115–97, § 13001(b)(3)(C), substituted “the highest rate of tax in effect for the taxable year under section 11(b)” for “35 percent” and “multiplied by the amount” for “of the amount”.
 
-2015—Subsec. (a). Pub. L. 114–113, § 324(a), substituted “15 percent” for “10 percent”.
+2015—Subsec. (a). Pub. L. 114–113, § 324(a), substituted “15 percent” for “10 percent”.
 
-Subsec. (c)(4). Pub. L. 114–113, § 324(b), added par. (4).
+Subsec. (c)(4). Pub. L. 114–113, § 324(b), added par. (4).
 
-Subsec. (e)(3) to (5). Pub. L. 114–113, § 324(a), substituted “15 percent” for “10 percent”.
+Subsec. (e)(3) to (5). Pub. L. 114–113, § 324(a), substituted “15 percent” for “10 percent”.
 
-Subsec. (f)(3). Pub. L. 114–113, § 323(b), substituted “any person other than—” for “any person other than a United States person.” and added subpars. (A) and (B).
+Subsec. (f)(3). Pub. L. 114–113, § 323(b), substituted “any person other than—” for “any person other than a United States person.” and added subpars. (A) and (B).
 
-2013—Subsec. (e)(1). Pub. L. 112–240, § 102(c)(1)(C), substituted “20 percent” for “15 percent” in introductory provisions.
+2013—Subsec. (e)(1). Pub. L. 112–240, § 102(c)(1)(C), substituted “20 percent” for “15 percent” in introductory provisions.
 
-Subsec. (e)(6). Pub. L. 112–240, § 102(c)(3), substituted “20 percent” for “15 percent (20 percent in the case of taxable years beginning after December 31, 2010)”.
+Subsec. (e)(6). Pub. L. 112–240, § 102(c)(3), substituted “20 percent” for “15 percent (20 percent in the case of taxable years beginning after December 31, 2010)”.
 
-2008—Subsec. (b)(7). Pub. L. 110–289, § 3024(c)(1), amended par. (7) generally. Prior to amendment, par. (7) related to special rules for paragraphs (2) and (3).
+2008—Subsec. (b)(7). Pub. L. 110–289, § 3024(c)(1), amended par. (7) generally. Prior to amendment, par. (7) related to special rules for paragraphs (2) and (3).
 
-Subsec. (b)(9). Pub. L. 110–289, § 3024(a), added par. (9).
+Subsec. (b)(9). Pub. L. 110–289, § 3024(a), added par. (9).
 
-Subsec. (d). Pub. L. 110–289, § 3024(c)(2)(C), substituted “, transferee’s agents, or qualified substitutes” for “or transferee’s agents” in heading.
+Subsec. (d). Pub. L. 110–289, § 3024(c)(2)(C), substituted “, transferee’s agents, or qualified substitutes” for “or transferee’s agents” in heading.
 
-Subsec. (d)(1). Pub. L. 110–289, § 3024(c)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) related to notice of false affidavit; foreign corporations.
+Subsec. (d)(1). Pub. L. 110–289, § 3024(c)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) related to notice of false affidavit; foreign corporations.
 
-Subsec. (d)(2). Pub. L. 110–289, § 3024(c)(2)(B), amended par. (2) generally. Prior to amendment, par. (2) related to failure to furnish notice.
+Subsec. (d)(2). Pub. L. 110–289, § 3024(c)(2)(B), amended par. (2) generally. Prior to amendment, par. (2) related to failure to furnish notice.
 
-Subsec. (f)(6). Pub. L. 110–289, § 3024(b), added par. (6).
+Subsec. (f)(6). Pub. L. 110–289, § 3024(b), added par. (6).
 
-2006—Subsec. (b)(8). Pub. L. 109–222, § 506(b), added par. (8).
+2006—Subsec. (b)(8). Pub. L. 109–222, § 506(b), added par. (8).
 
-Subsec. (e)(6), (7). Pub. L. 109–222, § 505(b), added par. (6) and redesignated former par. (6) as (7).
+Subsec. (e)(6), (7). Pub. L. 109–222, § 505(b), added par. (6) and redesignated former par. (6) as (7).
 
 2003—Subsec. (e)(1). Pub. L. 108–27 substituted “15 percent” for “20 percent”.
 
@@ -751,15 +751,15 @@ Subsec. (e)(6), (7). Pub. L. 109–222, § 505(b), added par. (6) and redesign
 
 1988—Subsec. (e)(1). Pub. L. 100–647 inserted “(or, to the extent provided in regulations, 28 percent)” after “to 34 percent”.
 
-1986—Subsec. (b)(3). Pub. L. 99–514, § 1810(f)(2), amended par. (3) generally, substituting “interests in corporation not United States real property interests” for “it is not a United States real property holding corporation” in heading, striking out the comma before “if the domestic corporation” in introductory provisions, inserting subpar. (A) designation and adding subpar. (B).
+1986—Subsec. (b)(3). Pub. L. 99–514, § 1810(f)(2), amended par. (3) generally, substituting “interests in corporation not United States real property interests” for “it is not a United States real property holding corporation” in heading, striking out the comma before “if the domestic corporation” in introductory provisions, inserting subpar. (A) designation and adding subpar. (B).
 
-Subsec. (d)(1)(A). Pub. L. 99–514, § 1810(f)(3)(B), substituted “paragraph (2)” for “paragraph (2)(A)”.
+Subsec. (d)(1)(A). Pub. L. 99–514, § 1810(f)(3)(B), substituted “paragraph (2)” for “paragraph (2)(A)”.
 
-Subsec. (d)(1)(B)(i). Pub. L. 99–514, § 1810(f)(3)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “any transferor’s agent, the transferor is a foreign corporation or such agent has actual knowledge that such affidavit is false, or”.
+Subsec. (d)(1)(B)(i). Pub. L. 99–514, § 1810(f)(3)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “any transferor’s agent, the transferor is a foreign corporation or such agent has actual knowledge that such affidavit is false, or”.
 
-Subsec. (e)(1). Pub. L. 99–514, § 311(b)(4), substituted “34 percent” for “28 percent”.
+Subsec. (e)(1). Pub. L. 99–514, § 311(b)(4), substituted “34 percent” for “28 percent”.
 
-Pub. L. 99–514, § 1810(f)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A domestic partnership, the trustee of a domestic trust, or the executor of a domestic estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of any amount of which such partnership, trustee, or executor has custody which is—
+Pub. L. 99–514, § 1810(f)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A domestic partnership, the trustee of a domestic trust, or the executor of a domestic estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of any amount of which such partnership, trustee, or executor has custody which is—
 
 “(A) attributable to the disposition of a United States real property interest (as defined in section 897(c), other than a disposition described in paragraph (4) or (5)), and
 
@@ -771,13 +771,13 @@ Pub. L. 99–514, § 1810(f)(4), amended par. (1) generally. Prior to amendmen
 
 “(iii) includible in the income of a foreign person under the provisions of section 671.”
 
-Subsec. (e)(2). Pub. L. 99–514, § 311(b)(4), substituted “34 percent” for “28 percent”.
+Subsec. (e)(2). Pub. L. 99–514, § 311(b)(4), substituted “34 percent” for “28 percent”.
 
-Subsec. (e)(3). Pub. L. 99–514, § 1810(f)(5), inserted “The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B).”
+Subsec. (e)(3). Pub. L. 99–514, § 1810(f)(5), inserted “The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B).”
 
-Subsec. (e)(4). Pub. L. 99–514, § 1810(f)(6), substituted “section 897” for “section 897(g)”.
+Subsec. (e)(4). Pub. L. 99–514, § 1810(f)(6), substituted “section 897” for “section 897(g)”.
 
-Subsec. (e)(6). Pub. L. 99–514, § 1810(f)(8), inserted “and regulations for the application of this subsection in the case of payments through 1 or more entities”.
+Subsec. (e)(6). Pub. L. 99–514, § 1810(f)(8), inserted “and regulations for the application of this subsection in the case of payments through 1 or more entities”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -789,7 +789,7 @@ Amendment by Pub. L. 115–97 applicable to distributions made after Dec. 31, 20
 
 Amendment by section 323(b) of Pub. L. 114–113 applicable to dispositions and distributions after Dec. 18, 2015, see section 323(c) of Pub. L. 114–113, set out as a note under section 897 of this title.
 
-Pub. L. 114–113, div. Q, title III, § 324(c), Dec. 18, 2015, 129 Stat. 3103, provided that: “The amendments made by this section [amending this section] shall apply to dispositions after the date which is 60 days after the date of the enactment of this Act [Dec. 18, 2015].”
+Pub. L. 114–113, div. Q, title III, § 324(c), Dec. 18, 2015, 129 Stat. 3103, provided that: “The amendments made by this section [amending this section] shall apply to dispositions after the date which is 60 days after the date of the enactment of this Act [Dec. 18, 2015].”
 
 **Effective Date of 2013 Amendment**
 
@@ -797,7 +797,7 @@ Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–289, div. C, title I, § 3024(d), July 30, 2008, 122 Stat. 2896, provided that: “The amendments made by this section [amending this section] shall apply to dispositions of United States real property interests after the date of the enactment of this Act [July 30, 2008].”
+Pub. L. 110–289, div. C, title I, § 3024(d), July 30, 2008, 122 Stat. 2896, provided that: “The amendments made by this section [amending this section] shall apply to dispositions of United States real property interests after the date of the enactment of this Act [July 30, 2008].”
 
 **Effective Date of 2006 Amendment**
 
@@ -815,11 +815,11 @@ Amendment by Pub. L. 105–34 applicable only to amounts paid after Aug. 5, 1997
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–188, title I, § 1704(c)(2), Aug. 20, 1996, 110 Stat. 1878, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to distributions after the date of the enactment of this Act [Aug. 20, 1996].”
+Pub. L. 104–188, title I, § 1704(c)(2), Aug. 20, 1996, 110 Stat. 1878, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to distributions after the date of the enactment of this Act [Aug. 20, 1996].”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1003(b)(3), Nov. 10, 1988, 102 Stat. 3384, provided that the amendment made by that section is effective for taxable years beginning after Dec. 31, 1987.
+Pub. L. 100–647, title I, § 1003(b)(3), Nov. 10, 1988, 102 Stat. 3384, provided that the amendment made by that section is effective for taxable years beginning after Dec. 31, 1987.
 
 **Effective Date of 1986 Amendment**
 
@@ -827,17 +827,17 @@ Amendment by section 311(b)(4) of Pub. L. 99–514 applicable to payments made a
 
 Amendment by section 1810(f)(2), (3), (5), (6), (8) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Pub. L. 99–514, title XVIII, § 1810(f)(4)(B), Oct. 22, 1986, 100 Stat. 2827, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to dispositions after the day 30 days after the date of the enactment of this Act [Oct. 22, 1986].”
+Pub. L. 99–514, title XVIII, § 1810(f)(4)(B), Oct. 22, 1986, 100 Stat. 2827, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to dispositions after the day 30 days after the date of the enactment of this Act [Oct. 22, 1986].”
 
 **Effective Date**
 
-Pub. L. 98–369, div. A, title I, § 129(c)(1), July 18, 1984, 98 Stat. 660, provided that: “The amendment made by subsection (a) [enacting this section] shall apply to any disposition on or after January 1, 1985.”
+Pub. L. 98–369, div. A, title I, § 129(c)(1), July 18, 1984, 98 Stat. 660, provided that: “The amendment made by subsection (a) [enacting this section] shall apply to any disposition on or after January 1, 1985.”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-### § 1446. Withholding of tax on foreign partners’ share of effectively connected income
+### § 1446. Withholding of tax on foreign partners’ share of effectively connected income
 
 **(a) General rule** If—
 
@@ -931,7 +931,7 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
 **(B)** appropriate adjustments in applying section 6655 with respect to such withholding tax.
 
-(Added Pub. L. 99–514, title XII, § 1246(a), Oct. 22, 1986, 100 Stat. 2582; amended Pub. L. 100–647, title I, § 1012(s)(1)(A), Nov. 10, 1988, 102 Stat. 3526; Pub. L. 101–239, title VII, § 7811(i)(6), Dec. 19, 1989, 103 Stat. 2410; Pub. L. 115–97, title I, §§ 13001(b)(3)(D), 13501(b), Dec. 22, 2017, 131 Stat. 2098, 2139; Pub. L. 115–141, div. U, title IV, § 401(a)(199), Mar. 23, 2018, 132 Stat. 1193.)
+(Added Pub. L. 99–514, title XII, § 1246(a), Oct. 22, 1986, 100 Stat. 2582; amended Pub. L. 100–647, title I, § 1012(s)(1)(A), Nov. 10, 1988, 102 Stat. 3526; Pub. L. 101–239, title VII, § 7811(i)(6), Dec. 19, 1989, 103 Stat. 2410; Pub. L. 115–97, title I, §§ 13001(b)(3)(D), 13501(b), Dec. 22, 2017, 131 Stat. 2098, 2139; Pub. L. 115–141, div. U, title IV, § 401(a)(199), Mar. 23, 2018, 132 Stat. 1193.)
 
 **Editorial Notes**
 
@@ -939,15 +939,15 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
 2018—Pub. L. 115–141 substituted “Withholding of tax” for “Withholding tax” in section catchline.
 
-2017—Subsec. (b)(2)(B). Pub. L. 115–97, § 13001(b)(3)(D), substituted “section 11(b)” for “section 11(b)(1)”.
+2017—Subsec. (b)(2)(B). Pub. L. 115–97, § 13001(b)(3)(D), substituted “section 11(b)” for “section 11(b)(1)”.
 
-Subsecs. (f), (g). Pub. L. 115–97, § 13501(b), added subsec. (f) and redesignated former subsec. (f) as (g).
+Subsecs. (f), (g). Pub. L. 115–97, § 13501(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1989—Subsec. (b)(2)(B). Pub. L. 101–239, § 7811(i)(6)(A), substituted “section 11(b)(1)” for “section 11(b)”.
+1989—Subsec. (b)(2)(B). Pub. L. 101–239, § 7811(i)(6)(A), substituted “section 11(b)(1)” for “section 11(b)”.
 
-Subsec. (d)(2). Pub. L. 101–239, § 7811(i)(6)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A foreign partner’s share of any withholding tax paid by the partnership under this section shall be treated as distributed to such partner by such partnership on the last day of the partnership’s taxable year (for which such tax was paid).”
+Subsec. (d)(2). Pub. L. 101–239, § 7811(i)(6)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A foreign partner’s share of any withholding tax paid by the partnership under this section shall be treated as distributed to such partner by such partnership on the last day of the partnership’s taxable year (for which such tax was paid).”
 
-Subsec. (f). Pub. L. 101–239, § 7811(i)(6)(C), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations providing for the application of this section in the case of publicly traded partnerships.”
+Subsec. (f). Pub. L. 101–239, § 7811(i)(6)(C), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations providing for the application of this section in the case of publicly traded partnerships.”
 
 1988—Pub. L. 100–647 amended section generally, substituting provisions relating to withholding tax on foreign partners’ share of effectively connected income for provisions which related to withholding tax on amounts paid by partnerships to foreign partners.
 
@@ -957,7 +957,7 @@ Subsec. (f). Pub. L. 101–239, § 7811(i)(6)(C), amended subsec. (f) generall
 
 Amendment by section 13001(b)(3)(D) of Pub. L. 115–97 applicable to distributions made after Dec. 31, 2017, see section 13001(c)(2) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
-Pub. L. 115–97, title I, § 13501(c)(2), Dec. 22, 2017, 131 Stat. 2141, provided that: “The amendment made by subsection (b) [amending this section] shall apply to sales, exchanges, and dispositions after December 31, 2017.”
+Pub. L. 115–97, title I, § 13501(c)(2), Dec. 22, 2017, 131 Stat. 2141, provided that: “The amendment made by subsection (b) [amending this section] shall apply to sales, exchanges, and dispositions after December 31, 2017.”
 
 **Effective Date of 1989 Amendment**
 
@@ -965,11 +965,11 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1012(s)(1)(D), Nov. 10, 1988, 102 Stat. 3527, provided that: “The amendments made by this paragraph [amending sections 1446 and 6401 of this title] shall apply to taxable years beginning after December 31, 1987. No amount shall be required to be deducted and withheld under section 1446 of the 1986 Code (as in effect before the amendment made by subparagraph (A)).”
+Pub. L. 100–647, title I, § 1012(s)(1)(D), Nov. 10, 1988, 102 Stat. 3527, provided that: “The amendments made by this paragraph [amending sections 1446 and 6401 of this title] shall apply to taxable years beginning after December 31, 1987. No amount shall be required to be deducted and withheld under section 1446 of the 1986 Code (as in effect before the amendment made by subparagraph (A)).”
 
 **Effective Date**
 
-Pub. L. 99–514, title XII, § 1246(d), Oct. 22, 1986, 100 Stat. 2583, provided that: “The amendment made by this section [enacting this section and amending section 6401 of this title] shall apply to distributions after December 31, 1987 (or, if earlier, the effective date (which shall not be earlier than January 1, 1987) of the initial regulations issued under section 1446 of the Internal Revenue Code of 1986 as added by this section).”
+Pub. L. 99–514, title XII, § 1246(d), Oct. 22, 1986, 100 Stat. 2583, provided that: “The amendment made by this section [enacting this section and amending section 6401 of this title] shall apply to distributions after December 31, 1987 (or, if earlier, the effective date (which shall not be earlier than January 1, 1987) of the initial regulations issued under section 1446 of the Internal Revenue Code of 1986 as added by this section).”
 
 ## Subchapter B—Application of Withholding Provisions
 
@@ -977,25 +977,25 @@ Pub. L. 99–514, title XII, § 1246(d), Oct. 22, 1986, 100 Stat. 2583, provid
 
 **Prior Provisions**
 
-A prior subchapter B, consisting of section 1451, acts Aug. 16, 1954, ch. 736, 68A Stat. 359; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(b)(13)(A), 90 Stat. 1834, related to tax-free covenant bonds, prior to repeal by Pub. L. 98–369, div. A, title IV, § 474(r)(29)(A), July 18, 1984, 98 Stat. 844, which repeal was not applicable with respect to obligations issued before Jan. 1, 1984, pursuant to section 475(b) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 33 of this title.
+A prior subchapter B, consisting of section 1451, acts Aug. 16, 1954, ch. 736, 68A Stat. 359; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(b)(13)(A), 90 Stat. 1834, related to tax-free covenant bonds, prior to repeal by Pub. L. 98–369, div. A, title IV, § 474(r)(29)(A), July 18, 1984, 98 Stat. 844, which repeal was not applicable with respect to obligations issued before Jan. 1, 1984, pursuant to section 475(b) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 33 of this title.
 
 **Amendments**
 
-1986—Pub. L. 99–514, title XVIII, § 1899A(73), Oct. 22, 1986, 100 Stat. 2963, substituted “Liability for withheld tax” for “Return and payment of withheld tax” in item 1461.
+1986—Pub. L. 99–514, title XVIII, § 1899A(73), Oct. 22, 1986, 100 Stat. 2963, substituted “Liability for withheld tax” for “Return and payment of withheld tax” in item 1461.
 
-1984—Pub. L. 98–369, div. A, title IV, § 474(r)(29)(A), July 18, 1984, 98 Stat. 844, redesignated subchapter C as B, and struck out former subchapter B which related to tax-free covenant bonds.
+1984—Pub. L. 98–369, div. A, title IV, § 474(r)(29)(A), July 18, 1984, 98 Stat. 844, redesignated subchapter C as B, and struck out former subchapter B which related to tax-free covenant bonds.
 
-1976—Pub. L. 94–455, title XIX, § 1901(b)(41), Oct. 4, 1976, 90 Stat. 1803, struck out item 1465 “Definition of withholding agent”.
+1976—Pub. L. 94–455, title XIX, § 1901(b)(41), Oct. 4, 1976, 90 Stat. 1803, struck out item 1465 “Definition of withholding agent”.
 
-### [§ 1451. Repealed. Pub. L. 98–369, div. A, title IV, § 474(r)(29)(A), July 18, 1984, 98 Stat. 844]
+### [§ 1451. Repealed. Pub. L. 98–369, div. A, title IV, § 474(r)(29)(A), July 18, 1984, 98 Stat. 844]
 
-Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 359; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(b)(13)(A), 90 Stat. 1834, related to tax-free covenant bonds. The repeal was not applicable with respect to obligations issued before Jan. 1, 1984, pursuant to section 475(b) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 33 of this title.
+Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 359; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(b)(13)(A), 90 Stat. 1834, related to tax-free covenant bonds. The repeal was not applicable with respect to obligations issued before Jan. 1, 1984, pursuant to section 475(b) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 33 of this title.
 
-### § 1461. Liability for withheld tax
+### § 1461. Liability for withheld tax
 
 Every person required to deduct and withhold any tax under this chapter is hereby made liable for such tax and is hereby indemnified against the claims and demands of any person for the amount of any payments made in accordance with the provisions of this chapter.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 360; Pub. L. 89–809, title I, § 103(i), Nov. 13, 1966, 80 Stat. 1554.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 360; Pub. L. 89–809, title I, § 103(i), Nov. 13, 1966, 80 Stat. 1554.)
 
 **Editorial Notes**
 
@@ -1009,13 +1009,13 @@ Every person required to deduct and withhold any tax under this chapter is hereb
 
 Amendment by Pub. L. 89–809 applicable with respect to payments occurring after Dec. 31, 1966, see section 103(n)(3) of Pub. L. 89–809, set out as a note under section 871 of this title.
 
-### § 1462. Withheld tax as credit to recipient of income
+### § 1462. Withheld tax as credit to recipient of income
 
 Income on which any tax is required to be withheld at the source under this chapter shall be included in the return of the recipient of such income, but any amount of tax so withheld shall be credited against the amount of income tax as computed in such return.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 360.)
 
-### § 1463. Tax paid by recipient of income
+### § 1463. Tax paid by recipient of income
 
 If—
 
@@ -1025,7 +1025,7 @@ If—
 
 the tax so required to be deducted and withheld shall not be collected from such person; but this section shall in no case relieve such person from liability for interest or any penalties or additions to the tax otherwise applicable in respect of such failure to deduct and withhold.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 360; Pub. L. 101–239, title VII, § 7743(a), Dec. 19, 1989, 103 Stat. 2406; Pub. L. 104–188, title I, § 1704(t)(9), Aug. 20, 1996, 110 Stat. 1887.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 360; Pub. L. 101–239, title VII, § 7743(a), Dec. 19, 1989, 103 Stat. 2406; Pub. L. 104–188, title I, § 1704(t)(9), Aug. 20, 1996, 110 Stat. 1887.)
 
 **Editorial Notes**
 
@@ -1039,15 +1039,15 @@ the tax so required to be deducted and withheld shall not be collected from such
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–239, title VII, § 7743(b), Dec. 19, 1989, 103 Stat. 2406, provided that: “The amendment made by subsection (a) [amending this section] shall apply to failures after December 31, 1989.”
+Pub. L. 101–239, title VII, § 7743(b), Dec. 19, 1989, 103 Stat. 2406, provided that: “The amendment made by subsection (a) [amending this section] shall apply to failures after December 31, 1989.”
 
-### § 1464. Refunds and credits with respect to withheld tax
+### § 1464. Refunds and credits with respect to withheld tax
 
 Where there has been an overpayment of tax under this chapter, any refund or credit made under chapter 65 shall be made to the withholding agent unless the amount of such tax was actually withheld by the withholding agent.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 360.)
 
-### [§ 1465. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(156), Oct. 4, 1976, 90 Stat. 1789]
+### [§ 1465. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(156), Oct. 4, 1976, 90 Stat. 1789]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 360, defined withholding agent.
 

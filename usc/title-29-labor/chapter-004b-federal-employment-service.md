@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 4B—FEDERAL EMPLOYMENT SERVICE
 
-## § 49. United States Employment Service established
+## § 49. United States Employment Service established
 
 In order to promote the establishment and maintenance of a national system of public employment service offices, the United States Employment Service shall be established and maintained within the Department of Labor.
 
-(June 6, 1933, ch. 49, § 1, 48 Stat. 113; Pub. L. 97–300, title VI, § 601(a), formerly title V, § 501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, § 601(a), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 113–128, title III, § 301, July 22, 2014, 128 Stat. 1624.)
+(June 6, 1933, ch. 49, § 1, 48 Stat. 113; Pub. L. 97–300, title VI, § 601(a), formerly title V, § 501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, § 601(a), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 113–128, title III, § 301, July 22, 2014, 128 Stat. 1624.)
 
 **Editorial Notes**
 
@@ -41,21 +41,21 @@ Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authori
 
 **Short Title**
 
-Act June 6, 1933, ch. 49, § 16, formerly § 15, as added by Pub. L. 97–300, title VI, § 601(h), formerly title V, § 501(h), Oct. 13, 1982, 96 Stat. 1397; renumbered title VI, § 601(h), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; renumbered § 16, Pub. L. 105–220, title III, § 309(1), Aug. 7, 1998, 112 Stat. 1082, provided that: “This Act [enacting this chapter] may be cited as the ‘Wagner-Peyser Act’.”
+Act June 6, 1933, ch. 49, § 16, formerly § 15, as added by Pub. L. 97–300, title VI, § 601(h), formerly title V, § 501(h), Oct. 13, 1982, 96 Stat. 1397; renumbered title VI, § 601(h), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; renumbered § 16, Pub. L. 105–220, title III, § 309(1), Aug. 7, 1998, 112 Stat. 1082, provided that: “This Act [enacting this chapter] may be cited as the ‘Wagner-Peyser Act’.”
 
 **Administration of Manpower in District of Columbia**
 
-Pub. L. 93–198, title II, § 204(a), Dec. 24, 1973, 87 Stat. 783, provided that: “All functions of the Secretary of Labor (hereafter in this section referred to as the Secretary) under section 3 of the Act [section 49b of this title] entitled ‘An Act to provide for the establishment of a national employment system and for cooperation with the States in the promotion of such system, and for other purposes’, approved June 6, 1933 (29 U.S.C. 49–49k), with respect to the maintenance of a public employment service for the District [of Columbia], are transferred [effective July 1, 1974] to the Commissioner [of the District of Columbia established under Reorg. Plan No. 3 of 1967 (now the Mayor)]. After the effective date of this transfer [July 1, 1974], the Secretary shall maintain with the District the same relationship with respect to a public employment service in the District, including the financing of such service, as he has with the States (with respect to a public employment service in the States) generally.”
+Pub. L. 93–198, title II, § 204(a), Dec. 24, 1973, 87 Stat. 783, provided that: “All functions of the Secretary of Labor (hereafter in this section referred to as the Secretary) under section 3 of the Act [section 49b of this title] entitled ‘An Act to provide for the establishment of a national employment system and for cooperation with the States in the promotion of such system, and for other purposes’, approved June 6, 1933 (29 U.S.C. 49–49k), with respect to the maintenance of a public employment service for the District [of Columbia], are transferred [effective July 1, 1974] to the Commissioner [of the District of Columbia established under Reorg. Plan No. 3 of 1967 (now the Mayor)]. After the effective date of this transfer [July 1, 1974], the Secretary shall maintain with the District the same relationship with respect to a public employment service in the District, including the financing of such service, as he has with the States (with respect to a public employment service in the States) generally.”
 
 **Recruitment and Distribution of Farm Labor**
 
-Act July 3, 1948, ch. 823, § 1, 62 Stat. 1238, authorized the Federal Security Administrator to recruit foreign workers within the Western Hemisphere and workers in Puerto Rico for temporary agricultural employment in the continental United States and to direct, supervise, coordinate, and provide for the transportation of those workers from such places of recruitment to and between places of employment within the continental United States and return to the places of recruitment not later than June 30, 1949.
+Act July 3, 1948, ch. 823, § 1, 62 Stat. 1238, authorized the Federal Security Administrator to recruit foreign workers within the Western Hemisphere and workers in Puerto Rico for temporary agricultural employment in the continental United States and to direct, supervise, coordinate, and provide for the transportation of those workers from such places of recruitment to and between places of employment within the continental United States and return to the places of recruitment not later than June 30, 1949.
 
-Act July 3, 1948, ch. 823, § 2, 62 Stat. 1239, appropriated $2,500,000, for fiscal year ending June 30, 1949, to carry out the purposes of section 1 of act July 3, 1948.
+Act July 3, 1948, ch. 823, § 2, 62 Stat. 1239, appropriated $2,500,000, for fiscal year ending June 30, 1949, to carry out the purposes of section 1 of act July 3, 1948.
 
 **Farm Placement Service**
 
-Act Apr. 28, 1947, ch. 43, § 2, 61 Stat. 55, provided that the provisions of the Farm Labor Supply Appropriation Act, 1944 were not to be construed to limit or interfere with any of the functions of the United States Employment Service or State public employment services with respect to maintaining a farm placement service as authorized under this chapter.
+Act Apr. 28, 1947, ch. 43, § 2, 61 Stat. 55, provided that the provisions of the Farm Labor Supply Appropriation Act, 1944 were not to be construed to limit or interfere with any of the functions of the United States Employment Service or State public employment services with respect to maintaining a farm placement service as authorized under this chapter.
 
 **Definitions of Terms in Pub. L. 113–128**
 
@@ -67,9 +67,9 @@ Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, whi
 
 Functions, powers, and duties of Secretary of Labor under this chapter, insofar as relates to prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see section 4728(a)(2)(A) of Title 42, The Public Health and Welfare.
 
-Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department were, with exception of functions vested by Administrative Procedure Act (see sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by such Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
+Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department were, with exception of functions vested by Administrative Procedure Act (see sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by such Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
-United States Employment Service transferred to Department of Labor, functions of Federal Security Administrator with respect to employment services, and Bureau of Employment Security transferred to Secretary of Labor by Reorg. Plan No. 2 of 1949, § 1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065, set out in the Appendix to Title 5.
+United States Employment Service transferred to Department of Labor, functions of Federal Security Administrator with respect to employment services, and Bureau of Employment Security transferred to Secretary of Labor by Reorg. Plan No. 2 of 1949, § 1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065, set out in the Appendix to Title 5.
 
 Section 1 of Reorg. Plan No. 2 of 1949, also provided that functions transferred by this section shall be performed by Secretary of Labor or, subject to his direction and control, by such officers, agencies, and employees of Department of Labor as he shall designate.
 
@@ -77,13 +77,13 @@ Act June 16, 1948, ch. 472, title I, 62 Stat. 446, provided in part that: “Eff
 
 United States Employment Service and all functions of Social Security Board in Federal Security Agency relating to employment service transferred to War Manpower Commission by Ex. Ord. No. 9247, Sept. 17, 1942, 7 F.R. 7379. That Commission was terminated by Ex. Ord. No. 9617, Sept. 19, 1945, 10 F.R. 11929, and the United States Employment Service transferred to the Department of Labor.
 
-Reorg. Plan No. I of 1939, § 201, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, set out in the Appendix to Title 5, Government Organization and Employees, consolidated United States Employment Service in Department of Labor and its functions and personnel, with other offices and agencies, under one agency to be known as Federal Security Agency with a Federal Security Administrator at head thereof.
+Reorg. Plan No. I of 1939, § 201, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, set out in the Appendix to Title 5, Government Organization and Employees, consolidated United States Employment Service in Department of Labor and its functions and personnel, with other offices and agencies, under one agency to be known as Federal Security Agency with a Federal Security Administrator at head thereof.
 
 Section 203 of Reorg. Plan No. I of 1939, provided that functions of United States Employment Service should be consolidated with unemployment compensation functions of Social Security Board and should be administered in Social Security Board in connection with unemployment compensation functions under direction and supervision of Federal Security Administrator.
 
 Section 203 of Reorg. Plan No. I of 1939, further, abolished office of Director of United States Employment Service and transferred all functions of that office to Social Security Board, to be exercised by Board, and provided that functions of Secretary of Labor relating to administration of United States Employment Service should be transferred to, and exercised by, Federal Security Administrator.
 
-## § 49a. Definitions
+## § 49a. Definitions
 
 For purposes of this chapter—
 
@@ -101,7 +101,7 @@ For purposes of this chapter—
 
 **(7)** except in section 49*l*–2 of this title, the term “State agency”, used without further description, means an agency designated or authorized under section 49c of this title.
 
-(June 6, 1933, ch. 49, § 2, 48 Stat. 114; Pub. L. 97–300, title VI, § 601(a), formerly title V, § 501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, § 601(a), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, § 301, Aug. 7, 1998, 112 Stat. 1080; Pub. L. 113–128, title III, § 302, July 22, 2014, 128 Stat. 1624.)
+(June 6, 1933, ch. 49, § 2, 48 Stat. 114; Pub. L. 97–300, title VI, § 601(a), formerly title V, § 501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, § 601(a), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, § 301, Aug. 7, 1998, 112 Stat. 1080; Pub. L. 113–128, title III, § 302, July 22, 2014, 128 Stat. 1624.)
 
 **Editorial Notes**
 
@@ -111,21 +111,21 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 **Amendments**
 
-2014—Par. (1). Pub. L. 113–128, § 302(1), added par. (1) and struck out former par. (1) which read as follows: “the term ‘chief elected official’ has the same meaning given that term under the Workforce Investment Act of 1998;”.
+2014—Par. (1). Pub. L. 113–128, § 302(1), added par. (1) and struck out former par. (1) which read as follows: “the term ‘chief elected official’ has the same meaning given that term under the Workforce Investment Act of 1998;”.
 
-Par. (2). Pub. L. 113–128, § 302(2), substituted “development board” for “investment board” in two places and substituted “section 3122 of this title” for “section 117 of the Workforce Investment Act of 1998”.
+Par. (2). Pub. L. 113–128, § 302(2), substituted “development board” for “investment board” in two places and substituted “section 3122 of this title” for “section 117 of the Workforce Investment Act of 1998”.
 
-Par. (3). Pub. L. 113–128, § 302(3), substituted “section 3151(e) of this title” for “section 134(c) of the Workforce Investment Act of 1998”.
+Par. (3). Pub. L. 113–128, § 302(3), substituted “section 3151(e) of this title” for “section 134(c) of the Workforce Investment Act of 1998”.
 
-Pars. (6), (7). Pub. L. 113–128, § 302(4)–(6), added pars. (6) and (7).
+Pars. (6), (7). Pub. L. 113–128, § 302(4)–(6), added pars. (6) and (7).
 
-1998—Par. (1). Pub. L. 105–220, § 301(1), struck out “or officials” after “elected official” and substituted “Workforce Investment Act of 1998” for “Job Training Partnership Act”.
+1998—Par. (1). Pub. L. 105–220, § 301(1), struck out “or officials” after “elected official” and substituted “Workforce Investment Act of 1998” for “Job Training Partnership Act”.
 
-Par. (2). Pub. L. 105–220, § 301(2), (4), added par. (2) and struck out former par. (2) which read as follows: “the term ‘private industry council’ has the same meaning given that term under the Job Training Partnership Act;”.
+Par. (2). Pub. L. 105–220, § 301(2), (4), added par. (2) and struck out former par. (2) which read as follows: “the term ‘private industry council’ has the same meaning given that term under the Job Training Partnership Act;”.
 
-Par. (3). Pub. L. 105–220, § 301(4), added par. (3). Former par. (3) redesignated (4).
+Par. (3). Pub. L. 105–220, § 301(4), added par. (3). Former par. (3) redesignated (4).
 
-Par. (4). Pub. L. 105–220, § 301(2), (3), (5), redesignated par. (3) as (4), substituted “Labor; and” for “Labor;”, and struck out former par. (4) which read as follows: “the term ‘service delivery area’ has the same meaning given that term under the Job Training Partnership Act; and”.
+Par. (4). Pub. L. 105–220, § 301(2), (3), (5), redesignated par. (3) as (4), substituted “Labor; and” for “Labor;”, and struck out former par. (4) which read as follows: “the term ‘service delivery area’ has the same meaning given that term under the Job Training Partnership Act; and”.
 
 1982—Pub. L. 97–300 amended section generally, substituting provisions relating to definitions for provisions which authorized appointment of personnel and payment of office expenses.
 
@@ -137,7 +137,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–220, title III, § 311, Aug. 7, 1998, 112 Stat. 1086, which provided that the amendments made by subtitle A (§§ 301–311) of title III of Pub. L. 105–220 (enacting section 49*l*–2 of this title and amending this section, sections 49b, 49c, 49d, 49e to 49g, 49j, and 49k of this title, and section 655a of Title 42, The Public Health and Welfare) would take effect on July 1, 1999, was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705.
+Pub. L. 105–220, title III, § 311, Aug. 7, 1998, 112 Stat. 1086, which provided that the amendments made by subtitle A (§§ 301–311) of title III of Pub. L. 105–220 (enacting section 49*l*–2 of this title and amending this section, sections 49b, 49c, 49d, 49e to 49g, 49j, and 49k of this title, and section 655a of Title 42, The Public Health and Welfare) would take effect on July 1, 1999, was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705.
 
 **Effective Date of 1982 Amendment**
 
@@ -147,7 +147,7 @@ Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authori
 
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
-## § 49b. Duties of Secretary
+## § 49b. Duties of Secretary
 
 **(a) Assistance to State public employment service offices**
 
@@ -161,13 +161,13 @@ It shall be the duty of the Secretary to assure that unemployment insurance and 
 
 **(1)** assist in the coordination and development of a nationwide system of public labor exchange services, provided as part of the one-stop customer service systems of the States;
 
-**(2)** assist in the development of continuous improvement models for such nationwide system that ensure private sector satisfaction with the system and meet the demands of jobseekers relating to the system, and identify and disseminate information on best practices for such system; and and 1
+**(2)** assist in the development of continuous improvement models for such nationwide system that ensure private sector satisfaction with the system and meet the demands of jobseekers relating to the system, and identify and disseminate information on best practices for such system; and and 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(3)** ensure, for individuals otherwise eligible to receive unemployment compensation, the provision of reemployment services and other activities in which the individuals are required to participate to receive the compensation.2
 
-<sup>2</sup>  So in original. The period probably should be “; and”.
+<sup>2</sup> So in original. The period probably should be “; and”.
 
 **(4)** in coordination with the State agencies and the staff of such agencies, assist in the planning and implementation of activities to enhance the professional development and career advancement opportunities of such staff, in order to strengthen the provision of a broad range of career guidance services, the identification of job openings (including providing intensive outreach to small and medium-sized employers and enhanced employer services), the provision of technical assistance and training to other providers of workforce development activities (including workplace learning advisors) relating to counseling and employment-related services, and the development of new strategies for coordinating counseling and technology.
 
@@ -181,15 +181,15 @@ In order to improve service delivery, avoid duplication of services, and enhance
 
 **(2)** such other delivery systems as the Secretary determines to be appropriate.
 
-(June 6, 1933, ch. 49, § 3, 48 Stat. 114; Sept. 8, 1950, ch. 933, § 1, 64 Stat. 822; Aug. 3, 1954, ch. 655, § 6(a), 68 Stat. 665; Aug. 1, 1956, ch. 852, § 17(a), 70 Stat. 910; Pub. L. 86–624, § 21(a), July 12, 1960, 74 Stat. 417; Pub. L. 93–198, title II, § 204(c), Dec. 24, 1973, 87 Stat. 783; Pub. L. 94–566, title V, § 508(a), Oct. 20, 1976, 90 Stat. 2689; Pub. L. 97–300, title VI, § 601(a), formerly title V, § 501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, § 601(a), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 99–198, title XV, § 1535(b)(2), Dec. 23, 1985, 99 Stat. 1584; Pub. L. 104–193, title I, § 110(m), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–220, title III, §§ 302(a), 310, Aug. 7, 1998, 112 Stat. 1080, 1086; Pub. L. 110–234, title IV, § 4002(b)(1)(A), (B), (2)(Q), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(Q), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 113–128, title III, § 303, July 22, 2014, 128 Stat. 1625.)
+(June 6, 1933, ch. 49, § 3, 48 Stat. 114; Sept. 8, 1950, ch. 933, § 1, 64 Stat. 822; Aug. 3, 1954, ch. 655, § 6(a), 68 Stat. 665; Aug. 1, 1956, ch. 852, § 17(a), 70 Stat. 910; Pub. L. 86–624, § 21(a), July 12, 1960, 74 Stat. 417; Pub. L. 93–198, title II, § 204(c), Dec. 24, 1973, 87 Stat. 783; Pub. L. 94–566, title V, § 508(a), Oct. 20, 1976, 90 Stat. 2689; Pub. L. 97–300, title VI, § 601(a), formerly title V, § 501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, § 601(a), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 99–198, title XV, § 1535(b)(2), Dec. 23, 1985, 99 Stat. 1584; Pub. L. 104–193, title I, § 110(m), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–220, title III, §§ 302(a), 310, Aug. 7, 1998, 112 Stat. 1080, 1086; Pub. L. 110–234, title IV, § 4002(b)(1)(A), (B), (2)(Q), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(Q), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 113–128, title III, § 303, July 22, 2014, 128 Stat. 1625.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Social Security Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part D of title IV of such Act is classified generally to part D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Social Security Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part D of title IV of such Act is classified generally to part D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (b), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (b), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 **Codification**
 
@@ -197,21 +197,21 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–128, § 303(a), substituted “service offices” for “services”.
+2014—Subsec. (a). Pub. L. 113–128, § 303(a), substituted “service offices” for “services”.
 
-Subsec. (c)(2). Pub. L. 113–128, § 303(b)(1), substituted “, and identify and disseminate information on best practices for such system; and” for semicolon.
+Subsec. (c)(2). Pub. L. 113–128, § 303(b)(1), substituted “, and identify and disseminate information on best practices for such system; and” for semicolon.
 
-Subsec. (c)(4). Pub. L. 113–128, § 303(b)(2), added par. (4).
+Subsec. (c)(4). Pub. L. 113–128, § 303(b)(2), added par. (4).
 
-Subsecs. (d), (e). Pub. L. 113–128, § 303(c), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 113–128, § 303(c), added subsecs. (d) and (e).
 
-2008—Subsec. (b). Pub. L. 110–246, § 4002(b)(1)(A), (B), (2)(Q), which directed amendment of the “Wagner-Peysner Act” by substituting “supplemental nutrition assistance program” for “food stamp program” wherever appearing and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” wherever appearing, was executed by making the substitutions in subsec. (b) of this section, which is section 3 of the Wagner-Peyser Act, to reflect the probable intent of Congress.
+2008—Subsec. (b). Pub. L. 110–246, § 4002(b)(1)(A), (B), (2)(Q), which directed amendment of the “Wagner-Peysner Act” by substituting “supplemental nutrition assistance program” for “food stamp program” wherever appearing and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” wherever appearing, was executed by making the substitutions in subsec. (b) of this section, which is section 3 of the Wagner-Peyser Act, to reflect the probable intent of Congress.
 
-1998—Subsec. (a). Pub. L. 105–220, § 302(a)(1), substituted “Secretary” for “United States Employment Service”.
+1998—Subsec. (a). Pub. L. 105–220, § 302(a)(1), substituted “Secretary” for “United States Employment Service”.
 
-Subsec. (b). Pub. L. 105–220, § 310, substituted “Secretary” for “Secretary of Labor”.
+Subsec. (b). Pub. L. 105–220, § 310, substituted “Secretary” for “Secretary of Labor”.
 
-Subsec. (c). Pub. L. 105–220, § 302(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 105–220, § 302(a)(2), added subsec. (c).
 
 1996—Subsec. (b). Pub. L. 104–193 substituted “State program funded under part A of title IV” for “State plan approved under part A of title IV”.
 
@@ -221,9 +221,9 @@ Subsec. (c). Pub. L. 105–220, § 302(a)(2), added subsec. (c).
 
 1976—Subsec. (a). Pub. L. 94–566 provided that the bureau has a further duty to assure that the employment offices in each State, upon request of a public agency administering or supervising the administration of a State plan approved under part A of title IV of the Social Security Act or of a public agency charged with any duty or responsibility under any program or activity authorized or required under part D of title IV of such Act, furnish to such agency making the request, from any data contained in the files of any such employment office, information with respect to any individual specified in the request as to whether such individual is receiving, has received, or has made application for, unemployment compensation, and the amount of any such compensation being received by such individual, the current (or most recent) home address of such individual, and whether such individual has refused an offer of employment and, if so, a description of the employment so offered and terms, conditions, and rate of pay therefor.
 
-1973—Subsec. (a). Pub. L. 93–198, § 204(c)(1), struck out function of maintaining a public employment service for the District of Columbia from the functions of the bureau.
+1973—Subsec. (a). Pub. L. 93–198, § 204(c)(1), struck out function of maintaining a public employment service for the District of Columbia from the functions of the bureau.
 
-Subsec. (b). Pub. L. 93–198, § 204(c)(2), included District of Columbia in definition of “State” or “States”.
+Subsec. (b). Pub. L. 93–198, § 204(c)(2), included District of Columbia in definition of “State” or “States”.
 
 1960—Subsec. (b). Pub. L. 86–624 struck out “Hawaii, Alaska,” before “Puerto Rico”.
 
@@ -259,27 +259,27 @@ Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authori
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–198, title VII, § 771(b), Dec. 24, 1973, 87 Stat. 836, provided in part that title II of Pub. L. 93–198 [amending this section and section 50 of this title and enacting provisions set out as notes under section 49 of this title and section 8101 of Title 5, Government Organization and Employees], shall take effect on July 1, 1974.
+Pub. L. 93–198, title VII, § 771(b), Dec. 24, 1973, 87 Stat. 836, provided in part that title II of Pub. L. 93–198 [amending this section and section 50 of this title and enacting provisions set out as notes under section 49 of this title and section 8101 of Title 5, Government Organization and Employees], shall take effect on July 1, 1974.
 
 **Effective Date of 1954 Amendment**
 
-Act Aug. 3, 1954, ch. 655, § 8, 68 Stat. 665, provided that: “The amendments made by this Act [enacting section 107e–1 of Title 20, Education, and amending this section, sections 31 to 41, 42, and 49g of this title, sections 107, 107a, 107b, 107e, and 107f of Title 20, and section 155a of former Title 36, Patriotic Societies and Observances] shall become effective July 1, 1954.”
+Act Aug. 3, 1954, ch. 655, § 8, 68 Stat. 665, provided that: “The amendments made by this Act [enacting section 107e–1 of Title 20, Education, and amending this section, sections 31 to 41, 42, and 49g of this title, sections 107, 107a, 107b, 107e, and 107f of Title 20, and section 155a of former Title 36, Patriotic Societies and Observances] shall become effective July 1, 1954.”
 
 **Definitions of Terms in Pub. L. 113–128**
 
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
-## § 49c. Acceptance by States; creation of State agencies
+## § 49c. Acceptance by States; creation of State agencies
 
 In order to obtain the benefits of appropriations apportioned under section 49d of this title, a State shall, pursuant to State statute, accept the provisions of this chapter and, in accordance with such State statute, the Governor shall designate or authorize the creation of a State agency vested with all powers necessary to cooperate with the Secretary under this chapter.
 
-(June 6, 1933, ch. 49, § 4, 48 Stat. 114; Pub. L. 105–220, title III, § 303, Aug. 7, 1998, 112 Stat. 1081.)
+(June 6, 1933, ch. 49, § 4, 48 Stat. 114; Pub. L. 105–220, title III, § 303, Aug. 7, 1998, 112 Stat. 1081.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Pub. L. 105–220 substituted “, pursuant to State statute,” for “, through its legislature,”, inserted “, in accordance with such State statute, the Governor shall” after “the provisions of this chapter and”, and substituted “Secretary” for “United States Employment Service”.
+1998—Pub. L. 105–220 substituted “, pursuant to State statute,” for “, through its legislature,”, inserted “, in accordance with such State statute, the Governor shall” after “the provisions of this chapter and”, and substituted “Secretary” for “United States Employment Service”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -291,11 +291,11 @@ Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L
 
 Act July 26, 1946, ch. 672, title I, 60 Stat. 684, provided in part: “On November 15, 1946, the Secretary of Labor shall transfer, to the State agency in each State designated under section 4 of the Act of Congress approved June 6, 1933, as amended [this section], as the agency to administer the State-wide system of public employment offices in cooperation with the United States Employment Service under said Act [this chapter], the operation of State and local public employment office facilities and properties which were transferred by such State to the Federal Government in 1942 to promote the national war effort. The Secretary of Labor shall, on request of the State agency, also provide for the transfer and assignment to such State, without reimbursement therefor, of any other public employment office facilities and properties within such State, including records, files, and office equipment: *Provided*, That as a condition to such transfer and assignment of Federal properties, the Secretary may require the recipient State to waive any claim which may then exist or thereafter arise out of the use made by the Federal Government of, or for the loss of or damage to, property and facilities transferred to the Federal Government as hereinabove described.”
 
-## § 49c–1. Transfer to States of property used by United States Employment Service
+## § 49c–1. Transfer to States of property used by United States Employment Service
 
 For the purpose of assisting the State employment services established and maintained in accordance with the terms of the Act of June 6, 1933, entitled “An Act to provide for the establishment of a National Employment System and for cooperation with the States in the promotion of such system, and for other purposes”, as amended (48 Stat. 113; 49 Stat. 216) [29 U.S.C. 49 et seq.], the Secretary of Labor is authorized without payment of compensation to transfer and assign to the States in which it is located all property, including records, files, and office equipment, used by the United States Employment Service in its administrative and local employment offices in the respective States, except the records, files, and property used in the Veterans’ Service and in the Farm Placement Service maintained under the said Act, as soon as such States establish and maintain systems of public employment offices, in accordance with the terms of sections 4, 5, and 8 of the said Act [29 U.S.C. 49c, 49d, 49g] and the regulations promulgated thereunder.
 
-(Aug. 11, 1939, ch. 693, 53 Stat. 1409; Ex. Ord. No. 9247, Sept. 17, 1942, 7 F.R. 7379; Ex. Ord. No. 9617, Sept. 19, 1945, 10 F.R. 11929; June 16, 1948, ch. 472, title I, 62 Stat. 446; 1949 Reorg. Plan No. 2, § 1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065.)
+(Aug. 11, 1939, ch. 693, 53 Stat. 1409; Ex. Ord. No. 9247, Sept. 17, 1942, 7 F.R. 7379; Ex. Ord. No. 9617, Sept. 19, 1945, 10 F.R. 11929; June 16, 1948, ch. 472, title I, 62 Stat. 446; 1949 Reorg. Plan No. 2, § 1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065.)
 
 **Editorial Notes**
 
@@ -313,7 +313,7 @@ This section was not enacted as part of the Wagner-Peyser Act which comprises th
 
 For history of transfer of functions of United States Employment Service to Secretary of Labor, see notes set out under section 49 of this title.
 
-## § 49c–2. Omitted
+## § 49c–2. Omitted
 
 **Editorial Notes**
 
@@ -321,11 +321,11 @@ For history of transfer of functions of United States Employment Service to Secr
 
 Section, act July 26, 1946, ch. 672, title I, 60 Stat. 684, 685, which authorized transfer to and retention in State system of public employment offices of Federal employees, was from the Department of Labor Act, 1947, and was not repeated in subsequent appropriation acts.
 
-## § 49c–3. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 653
+## § 49c–3. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 653
 
 Section, act July 26, 1946, ch. 672, title I, 60 Stat. 685, provided for refund of retirement deductions and interest to members of Social Security Boards returning to State employment.
 
-## § 49c–4. Transferred
+## § 49c–4. Transferred
 
 **Editorial Notes**
 
@@ -333,15 +333,15 @@ Section, act July 26, 1946, ch. 672, title I, 60 Stat. 685, provided for refund 
 
 Section, Pub. L. 88–136, title I, Oct. 11, 1963, 77 Stat. 226, which related to personnel standards, was transferred to section 49n of this title and subsequently omitted from the Code.
 
-## § 49c–5. Omitted
+## § 49c–5. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act July 8, 1947, ch. 210, title I, 61 Stat. 263, which related to a joint budget, was from the Department of Labor Appropriation Act, 1948, and was not repeated in subsequent appropriation acts. Similar provisions were contained in act July 26, 1946, ch. 672, title I, § 101, 60 Stat. 686.
+Section, act July 8, 1947, ch. 210, title I, 61 Stat. 263, which related to a joint budget, was from the Department of Labor Appropriation Act, 1948, and was not repeated in subsequent appropriation acts. Similar provisions were contained in act July 26, 1946, ch. 672, title I, § 101, 60 Stat. 686.
 
-## § 49d. Appropriations; certification for payment to States
+## § 49d. Appropriations; certification for payment to States
 
 **(a) Authorization of appropriations**
 
@@ -363,13 +363,13 @@ such amounts as the Secretary determines to be necessary for allotment in accord
 
 **(2)** Funds obligated for any program year may be expended by the State during that program year and the two succeeding program years and no amount shall be deobligated on account of a rate of expenditure which is consistent with the program plan.
 
-(June 6, 1933, ch. 49, § 5, 48 Stat. 114; May 10, 1935, ch. 102, 49 Stat. 216; June 29, 1938, ch. 816, 52 Stat. 1244; Sept. 8, 1950, ch. 933, § 2, 64 Stat. 822; Aug. 1, 1956, ch. 852, § 17(b), 70 Stat. 910; Pub. L. 86–778, title V, § 543(c), Sept. 13, 1960, 74 Stat. 987; Pub. L. 94–566, title I, § 116(c), Oct. 20, 1976, 90 Stat. 2672; Pub. L. 97–35, title VII, § 702, Aug. 13, 1981, 95 Stat. 521; Pub. L. 97–300, title VI, § 601(b), formerly title V, § 501(b), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, § 601(b), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, § 304, Aug. 7, 1998, 112 Stat. 1081.)
+(June 6, 1933, ch. 49, § 5, 48 Stat. 114; May 10, 1935, ch. 102, 49 Stat. 216; June 29, 1938, ch. 816, 52 Stat. 1244; Sept. 8, 1950, ch. 933, § 2, 64 Stat. 822; Aug. 1, 1956, ch. 852, § 17(b), 70 Stat. 910; Pub. L. 86–778, title V, § 543(c), Sept. 13, 1960, 74 Stat. 987; Pub. L. 94–566, title I, § 116(c), Oct. 20, 1976, 90 Stat. 2672; Pub. L. 97–35, title VII, § 702, Aug. 13, 1981, 95 Stat. 521; Pub. L. 97–300, title VI, § 601(b), formerly title V, § 501(b), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, § 601(b), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, § 304, Aug. 7, 1998, 112 Stat. 1081.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Unemployment Tax Act, referred to in subsec. (b)(1), is act Aug. 16, 1954, ch. 736, §§ 3301 to 3311, 68A Stat. 454, which is classified generally to chapter 23 (§ 3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
+The Federal Unemployment Tax Act, referred to in subsec. (b)(1), is act Aug. 16, 1954, ch. 736, §§ 3301 to 3311, 68A Stat. 454, which is classified generally to chapter 23 (§ 3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
 
 **Amendments**
 
@@ -413,7 +413,7 @@ Amendment by Pub. L. 94–566 effective on later of Oct. 1, 1976, or day after d
 
 **Effective Date of 1960 Amendment**
 
-Pub. L. 86–778, title V, § 543(c), Sept. 13, 1960, 74 Stat. 987, provided that the amendment made by that section is effective on and after Jan. 1, 1961.
+Pub. L. 86–778, title V, § 543(c), Sept. 13, 1960, 74 Stat. 987, provided that the amendment made by that section is effective on and after Jan. 1, 1961.
 
 **Suspension of State Appropriation Requirements Until July 1, 1952**
 
@@ -421,7 +421,7 @@ Act Sept. 6, 1950, ch. 896, Ch. V, title I, 64 Stat. 643, provided in part that:
 
 Similar provisions suspending the requirement until July 1, 1950 were contained in acts June 16, 1948, ch. 472, title I, 62 Stat. 445; June 29, 1949, ch. 275, title II, 63 Stat. 284.
 
-## § 49d–1. Omitted
+## § 49d–1. Omitted
 
 **Editorial Notes**
 
@@ -429,7 +429,7 @@ Similar provisions suspending the requirement until July 1, 1950 were contained 
 
 Section, act June 16, 1937, ch. 359, title IV, 50 Stat. 302, provided for reapportionment of unexpended appropriations.
 
-## § 49e. Allotment of funds
+## § 49e. Allotment of funds
 
 **(a)** From the funds appropriated and (except for Guam) certified under section 49d of this title and made available for allotments under this section for each fiscal year, the Secretary shall first allot to Guam and the Virgin Islands an amount which, in relation to the total amount available for the fiscal year, is equal to the allotment percentage which each received of amounts available under this chapter in fiscal year 1983.
 
@@ -451,19 +451,19 @@ For purposes of this paragraph, the number of individuals in the civilian labor 
 
 **(5)** The Secretary shall, not later than March 15 of fiscal year 1983 and each succeeding fiscal year, provide preliminary planning estimates and shall, not later than May 15 of each such fiscal year, provide final planning estimates, showing each State’s projected allocation for the following year.
 
-(June 6, 1933, ch. 49, § 6, as added Pub. L. 97–300, title VI, § 601(c), formerly title V, § 501(c), Oct. 13, 1982, 96 Stat. 1393; renumbered title VI, § 601(c), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 105–220, title III, § 310, Aug. 7, 1998, 112 Stat. 1086; Pub. L. 113–128, title III, § 304, July 22, 2014, 128 Stat. 1626.)
+(June 6, 1933, ch. 49, § 6, as added Pub. L. 97–300, title VI, § 601(c), formerly title V, § 501(c), Oct. 13, 1982, 96 Stat. 1393; renumbered title VI, § 601(c), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 105–220, title III, § 310, Aug. 7, 1998, 112 Stat. 1086; Pub. L. 113–128, title III, § 304, July 22, 2014, 128 Stat. 1626.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 49e, act June 6, 1933, ch. 49, § 6, 48 Stat. 115, related to apportionment of appropriations, and certification to Secretary of the Treasury, prior to repeal by act Sept. 8, 1950, ch. 933, § 3, 64 Stat. 823.
+A prior section 49e, act June 6, 1933, ch. 49, § 6, 48 Stat. 115, related to apportionment of appropriations, and certification to Secretary of the Treasury, prior to repeal by act Sept. 8, 1950, ch. 933, § 3, 64 Stat. 823.
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–128, § 304(1), substituted “funds appropriated and (except for Guam) certified under section 49d of this title and made available for allotments under this section” for “amounts appropriated pursuant to section 49d of this title”.
+2014—Subsec. (a). Pub. L. 113–128, § 304(1), substituted “funds appropriated and (except for Guam) certified under section 49d of this title and made available for allotments under this section” for “amounts appropriated pursuant to section 49d of this title”.
 
-Subsec. (b)(1). Pub. L. 113–128, § 304(2), in introductory provisions, inserted “after making the allotments required by subsection (a),” before “the Secretary” and substituted “funds described in subsection (a)” for “sums appropriated and certified pursuant to section 49d of this title”; in subpars. (A) and (B), substituted “remainder” for “sums”; and, in concluding provisions, inserted “For purposes of this paragraph, the term ‘State’ does not include Guam or the Virgin Islands.” at end.
+Subsec. (b)(1). Pub. L. 113–128, § 304(2), in introductory provisions, inserted “after making the allotments required by subsection (a),” before “the Secretary” and substituted “funds described in subsection (a)” for “sums appropriated and certified pursuant to section 49d of this title”; in subpars. (A) and (B), substituted “remainder” for “sums”; and, in concluding provisions, inserted “For purposes of this paragraph, the term ‘State’ does not include Guam or the Virgin Islands.” at end.
 
 1998—Subsec. (b)(1). Pub. L. 105–220 substituted “Secretary” for “Secretary of Labor” in concluding provisions.
 
@@ -485,7 +485,7 @@ Section effective Oct. 1, 1983, but with Secretary authorized to use funds appro
 
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
-## § 49f. Percentage disposition of allotted funds
+## § 49f. Percentage disposition of allotted funds
 
 **(a) Use of 90 percent of funds allotted** Ninety percent of the sums allotted to each State pursuant to section 49e of this title may be used—
 
@@ -539,53 +539,53 @@ In addition to the services and activities otherwise authorized by this chapter,
 
 All job search, placement, recruitment, workforce and labor market information, and other labor exchange services authorized under subsection (a) shall be provided, consistent with the other requirements of this chapter, as part of the one-stop delivery system established by the State.
 
-(June 6, 1933, ch. 49, § 7, as added Pub. L. 97–300, title VI, § 601(c), formerly title V, § 501(c), Oct. 13, 1982, 96 Stat. 1394; renumbered title VI, § 601(c), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 101–392, § 5(b), Sept. 25, 1990, 104 Stat. 759; Pub. L. 105–220, title III, §§ 305, 310, Aug. 7, 1998, 112 Stat. 1081, 1086; Pub. L. 113–128, title III, § 305, July 22, 2014, 128 Stat. 1626.)
+(June 6, 1933, ch. 49, § 7, as added Pub. L. 97–300, title VI, § 601(c), formerly title V, § 501(c), Oct. 13, 1982, 96 Stat. 1394; renumbered title VI, § 601(c), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 101–392, § 5(b), Sept. 25, 1990, 104 Stat. 759; Pub. L. 105–220, title III, §§ 305, 310, Aug. 7, 1998, 112 Stat. 1081, 1086; Pub. L. 113–128, title III, § 305, July 22, 2014, 128 Stat. 1626.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsec. (a)(3)(G), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§ 1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(3)(G), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§ 1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsecs. (a)(3)(G), (c)(2), and (d), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made conforming amendments to numerous other sections and notes in the Code. Titles I and II of the Act are classified generally to subchapters I (§ 3111 et seq.) and II (§ 3271 et seq.), respectively, of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsecs. (a)(3)(G), (c)(2), and (d), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made conforming amendments to numerous other sections and notes in the Code. Titles I and II of the Act are classified generally to subchapters I (§ 3111 et seq.) and II (§ 3271 et seq.), respectively, of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (a)(3)(G), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (a)(3)(G), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 49f, act June 6, 1933, ch. 49, § 7, 48 Stat. 115, related to ascertainment of amounts due to States, and certification to the Secretary of the Treasury, prior to repeal by act Sept. 8, 1950, ch. 933, § 3, 64 Stat. 823.
+A prior section 49f, act June 6, 1933, ch. 49, § 7, 48 Stat. 115, related to ascertainment of amounts due to States, and certification to the Secretary of the Treasury, prior to repeal by act Sept. 8, 1950, ch. 933, § 3, 64 Stat. 823.
 
 **Amendments**
 
-2014—Subsec. (a)(1). Pub. L. 113–128, § 305(a), inserted “, including unemployment insurance claimants,” after “seekers”.
+2014—Subsec. (a)(1). Pub. L. 113–128, § 305(a), inserted “, including unemployment insurance claimants,” after “seekers”.
 
-Subsec. (a)(3)(F). Pub. L. 113–128, § 305(b)(2)(A), inserted “, including making eligibility assessments,” after “system”.
+Subsec. (a)(3)(F). Pub. L. 113–128, § 305(b)(2)(A), inserted “, including making eligibility assessments,” after “system”.
 
-Subsec. (a)(3)(G). Pub. L. 113–128, § 305(b)(1), (2)(B), (3), added subpar. (G).
+Subsec. (a)(3)(G). Pub. L. 113–128, § 305(b)(1), (2)(B), (3), added subpar. (G).
 
-Subsec. (b)(1). Pub. L. 113–128, § 305(c)(1), substituted “the performance accountability measures that are based on indicators described in section 116(b)(2)(A)(i) of the Workforce Innovation and Opportunity Act” for “performance standards established by the Secretary”.
+Subsec. (b)(1). Pub. L. 113–128, § 305(c)(1), substituted “the performance accountability measures that are based on indicators described in section 116(b)(2)(A)(i) of the Workforce Innovation and Opportunity Act” for “performance standards established by the Secretary”.
 
-Subsec. (b)(2). Pub. L. 113–128, § 305(c)(2), inserted “offices” after “employment service”.
+Subsec. (b)(2). Pub. L. 113–128, § 305(c)(2), inserted “offices” after “employment service”.
 
-Subsec. (b)(3). Pub. L. 113–128, § 305(c)(3), inserted “, and models for enhancing professional development and career advancement opportunities of State agency staff, as described in section 49b(c)(4) of this title” after “subsection (a)”.
+Subsec. (b)(3). Pub. L. 113–128, § 305(c)(3), inserted “, and models for enhancing professional development and career advancement opportunities of State agency staff, as described in section 49b(c)(4) of this title” after “subsection (a)”.
 
-Subsecs. (c)(2), (d). Pub. L. 113–128, § 305(d), substituted “the Workforce Innovation and Opportunity Act” for “the Workforce Investment Act of 1998”.
+Subsecs. (c)(2), (d). Pub. L. 113–128, § 305(d), substituted “the Workforce Innovation and Opportunity Act” for “the Workforce Investment Act of 1998”.
 
-Subsec. (e). Pub. L. 113–128, § 305(e), substituted “workforce and labor market information” for “labor employment statistics”.
+Subsec. (e). Pub. L. 113–128, § 305(e), substituted “workforce and labor market information” for “labor employment statistics”.
 
-1998—Subsec. (b)(2). Pub. L. 105–220, § 305(1), substituted “local workforce investment board” for “private industry council”.
+1998—Subsec. (b)(2). Pub. L. 105–220, § 305(1), substituted “local workforce investment board” for “private industry council”.
 
-Subsec. (c)(2). Pub. L. 105–220, § 305(2), substituted “any workforce investment activity carried out under the Workforce Investment Act of 1998.” for “any program under any of the following provisions of law:
+Subsec. (c)(2). Pub. L. 105–220, § 305(2), substituted “any workforce investment activity carried out under the Workforce Investment Act of 1998.” for “any program under any of the following provisions of law:
 
 “(A) The Carl D. Perkins Vocational and Applied Technology Education Act.
 
 “(B) Section 123, title II, and title III of the Job Training Partnership Act.”
 
-Subsec. (d). Pub. L. 105–220, § 310, substituted “Secretary or with” for “Secretary of Labor or with”.
+Subsec. (d). Pub. L. 105–220, § 310, substituted “Secretary or with” for “Secretary of Labor or with”.
 
-Pub. L. 105–220, § 305(3), substituted “Secretary or any State” for “United States Employment Service or any State” and “Workforce Investment Act of 1998” for “Job Training Partnership Act”.
+Pub. L. 105–220, § 305(3), substituted “Secretary or any State” for “United States Employment Service or any State” and “Workforce Investment Act of 1998” for “Job Training Partnership Act”.
 
-Subsec. (e). Pub. L. 105–220, § 305(4), added subsec. (e).
+Subsec. (e). Pub. L. 105–220, § 305(4), added subsec. (e).
 
 1990—Subsecs. (c), (d). Pub. L. 101–392 added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -611,11 +611,11 @@ Section effective Oct. 1, 1983, but with Secretary authorized to use funds appro
 
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
-## § 49g. State plans
+## § 49g. State plans
 
 Any State desiring to receive assistance under section 49e of this title shall prepare and submit to, and have approved by, the Secretary and the Secretary of Education, a State plan in accordance with section 3112 or 3113 of this title.
 
-(June 6, 1933, ch. 49, § 8, 48 Stat. 115; Aug. 3, 1954, ch. 655, § 6(b), 68 Stat. 665; Pub. L. 97–300, title VI, § 601(d), formerly title V, § 501(d), Oct. 13, 1982, 96 Stat. 1395; renumbered title VI, § 601(d), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, § 306, Aug. 7, 1998, 112 Stat. 1081; Pub. L. 113–128, title III, § 306, July 22, 2014, 128 Stat. 1627.)
+(June 6, 1933, ch. 49, § 8, 48 Stat. 115; Aug. 3, 1954, ch. 655, § 6(b), 68 Stat. 665; Pub. L. 97–300, title VI, § 601(d), formerly title V, § 501(d), Oct. 13, 1982, 96 Stat. 1395; renumbered title VI, § 601(d), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, § 306, Aug. 7, 1998, 112 Stat. 1081; Pub. L. 113–128, title III, § 306, July 22, 2014, 128 Stat. 1627.)
 
 **Editorial Notes**
 
@@ -623,25 +623,25 @@ Any State desiring to receive assistance under section 49e of this title shall p
 
 2014—Pub. L. 113–128 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to submission, required content, and approval of State plans.
 
-1998—Subsec. (a). Pub. L. 105–220, § 306(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any State desiring to receive the benefits of this chapter shall, by the agency designated to cooperate with the United States Employment Service, submit to the Secretary of Labor detailed plans for carrying out the provisions of this chapter within such State.”
+1998—Subsec. (a). Pub. L. 105–220, § 306(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any State desiring to receive the benefits of this chapter shall, by the agency designated to cooperate with the United States Employment Service, submit to the Secretary of Labor detailed plans for carrying out the provisions of this chapter within such State.”
 
-Subsec. (b). Pub. L. 105–220, § 306(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which contained certain requirements for plan preparation at State and national levels.
+Subsec. (b). Pub. L. 105–220, § 306(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which contained certain requirements for plan preparation at State and national levels.
 
-Subsec. (c). Pub. L. 105–220, § 306(2), (4), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Governor of the State shall be afforded the opportunity to review and transmit to the Secretary proposed modifications of such plans submitted.”
+Subsec. (c). Pub. L. 105–220, § 306(2), (4), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Governor of the State shall be afforded the opportunity to review and transmit to the Secretary proposed modifications of such plans submitted.”
 
-Subsec. (d). Pub. L. 105–220, § 306(5), (6), redesignated subsec. (e) as (d) and substituted “such detailed plans” for “such plans”. Former subsec. (d) redesignated (b).
+Subsec. (d). Pub. L. 105–220, § 306(5), (6), redesignated subsec. (e) as (d) and substituted “such detailed plans” for “such plans”. Former subsec. (d) redesignated (b).
 
-Subsec. (e). Pub. L. 105–220, § 306(5), redesignated subsec. (e) as (d).
+Subsec. (e). Pub. L. 105–220, § 306(5), redesignated subsec. (e) as (d).
 
-1982—Pub. L. 97–300, § 601(d)(1), substituted “Secretary of Labor” for “Director” wherever appearing.
+1982—Pub. L. 97–300, § 601(d)(1), substituted “Secretary of Labor” for “Director” wherever appearing.
 
-Subsec. (a). Pub. L. 97–300, § 601(d)(2), designated provisions relating to the submission of a plan to the Secretary by any State desiring to receive benefits under certain sections of this chapter as subsec. (a).
+Subsec. (a). Pub. L. 97–300, § 601(d)(2), designated provisions relating to the submission of a plan to the Secretary by any State desiring to receive benefits under certain sections of this chapter as subsec. (a).
 
-Subsecs. (b), (c). Pub. L. 97–300, § 601(d)(5), added subsecs. (b) and (c).
+Subsecs. (b), (c). Pub. L. 97–300, § 601(d)(5), added subsecs. (b) and (c).
 
-Subsec. (d). Pub. L. 97–300, § 601(d)(3), designated provisions relating to the inclusion in State plans of provision for handicapped persons employment opportunities and coordination with State agencies similarly concerned as subsec. (d).
+Subsec. (d). Pub. L. 97–300, § 601(d)(3), designated provisions relating to the inclusion in State plans of provision for handicapped persons employment opportunities and coordination with State agencies similarly concerned as subsec. (d).
 
-Subsec. (e). Pub. L. 97–300, § 601(d)(4), designated provisions relating to approval and notice by the Secretary of the State plans as subsec. (e).
+Subsec. (e). Pub. L. 97–300, § 601(d)(4), designated provisions relating to approval and notice by the Secretary of the State plans as subsec. (e).
 
 1954—Act Aug. 3, 1954, inserted provisions relating to promotion and development of employment opportunities and for job counseling and placement of handicapped persons.
 
@@ -667,7 +667,7 @@ Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug.
 
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
-## § 49h. Fiscal controls and accounting procedures
+## § 49h. Fiscal controls and accounting procedures
 
 **(a) Audit**
 
@@ -689,7 +689,7 @@ Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, whi
 
 Each State shall repay to the United States amounts found not to have been expended in accordance with this chapter. No such finding shall be made except after notice and opportunity for a fair hearing. The Secretary may offset such amounts against any other amount to which the recipient is or may be entitled under this chapter.
 
-(June 6, 1933, ch. 49, § 9, 48 Stat. 116; Pub. L. 97–300, title VI, § 601(e), formerly title V, § 501(e), Oct. 18, 1982, 96 Stat. 1396; renumbered title VI, § 601(e), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 117–286, § 4(b)(47), Dec. 27, 2022, 136 Stat. 4348.)
+(June 6, 1933, ch. 49, § 9, 48 Stat. 116; Pub. L. 97–300, title VI, § 601(e), formerly title V, § 501(e), Oct. 18, 1982, 96 Stat. 1396; renumbered title VI, § 601(e), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 117–286, § 4(b)(47), Dec. 27, 2022, 136 Stat. 4348.)
 
 **Editorial Notes**
 
@@ -709,7 +709,7 @@ Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authori
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (b)(1) of this section is listed on page 8), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
-## § 49i. Recordkeeping and accountability
+## § 49i. Recordkeeping and accountability
 
 **(a) Records**
 
@@ -733,7 +733,7 @@ Each State shall keep records that are sufficient to permit the preparation of r
 
 **(2)** establish and maintain a management information system in accordance with guidelines established by the Secretary designed to facilitate the compilation and analysis of programmatic and financial data necessary for reporting, monitoring, and evaluating purposes.
 
-(June 6, 1933, ch. 49, § 10, 48 Stat. 116; Pub. L. 97–300, title VI, § 601(f), formerly title V, § 501(f), Oct. 13, 1982, 96 Stat. 1396; renumbered title VI, § 601(f), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248.)
+(June 6, 1933, ch. 49, § 10, 48 Stat. 116; Pub. L. 97–300, title VI, § 601(f), formerly title V, § 501(f), Oct. 13, 1982, 96 Stat. 1396; renumbered title VI, § 601(f), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248.)
 
 **Editorial Notes**
 
@@ -747,19 +747,19 @@ Each State shall keep records that are sufficient to permit the preparation of r
 
 Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of amendment, see section 181(i) of Pub. L. 97–300, which was formerly classified to section 1591(i) of this title.
 
-## § 49j. Notice of strikes and lockouts to applicants
+## § 49j. Notice of strikes and lockouts to applicants
 
 In carrying out the provisions of this chapter the Secretary is authorized and directed to provide for the giving of notice of strikes or lockouts to applicants before they are referred to employment.
 
-(June 6, 1933, ch. 49, §  11, 48 Stat. 116; Pub. L. 97–300, title VI, § 601(g), formerly title V, § 501(g), Oct. 13, 1982, 96 Stat. 1397; renumbered title VI, § 601(g), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, § 307, Aug. 7, 1998, 112 Stat. 1082.)
+(June 6, 1933, ch. 49, § 11, 48 Stat. 116; Pub. L. 97–300, title VI, § 601(g), formerly title V, § 501(g), Oct. 13, 1982, 96 Stat. 1397; renumbered title VI, § 601(g), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, § 307, Aug. 7, 1998, 112 Stat. 1082.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Pub. L. 105–220, § 307(2), which directed the substitution of “Secretary” for “Director”, was executed by making the substitution for “director” to reflect the probable intent of Congress.
+1998—Pub. L. 105–220, § 307(2), which directed the substitution of “Secretary” for “Director”, was executed by making the substitution for “director” to reflect the probable intent of Congress.
 
-Pub. L. 105–220, § 307(1), redesignated subsec. (b) as entire section and struck out subsec. (a) which provided for establishment and composition of a Federal Advisory Council, and similar State advisory councils, to work on problems relating to employment.
+Pub. L. 105–220, § 307(1), redesignated subsec. (b) as entire section and struck out subsec. (a) which provided for establishment and composition of a Federal Advisory Council, and similar State advisory councils, to work on problems relating to employment.
 
 1982—Subsec. (a). Pub. L. 97–300 inserted provision that nothing in this section should be construed to prohibit the Governor from carrying out functions of the State advisory council through the State job training coordinating council in accordance with section 1532(c) of this title.
 
@@ -773,11 +773,11 @@ Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L
 
 Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of amendment, see section 181(i) of Pub. L. 97–300, which was formerly classified to section 1591(i) of this title.
 
-## § 49k. Rules and regulations
+## § 49k. Rules and regulations
 
 The Secretary is authorized to make such rules and regulations as may be necessary to carry out the provisions of this chapter.
 
-(June 6, 1933, ch. 49, § 12, 48 Stat. 117; Pub. L. 105–220, title III, § 308, Aug. 7, 1998, 112 Stat. 1082.)
+(June 6, 1933, ch. 49, § 12, 48 Stat. 117; Pub. L. 105–220, title III, § 308, Aug. 7, 1998, 112 Stat. 1082.)
 
 **Editorial Notes**
 
@@ -791,7 +791,7 @@ The Secretary is authorized to make such rules and regulations as may be necessa
 
 Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L. 105–220, formerly set out as a note under section 49a of this title.
 
-## § 49l. Miscellaneous operating authorities
+## § 49l. Miscellaneous operating authorities
 
 **(a)** The activities carried out pursuant to section 49f of this title shall be subject to the performance accountability measures that are based on indicators described in section 3141(b)(2)(A)(i) of this title.
 
@@ -801,13 +801,13 @@ Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L
 
 **(2)** No funds paid under this chapter may be used by any State for advertising in newspapers for high paying jobs unless such State submits an annual report to the Secretary beginning in December 1984 concerning such advertising and the justifications therefor, and the justification may include that such jobs are part of a State industrial development effort.
 
-(June 6, 1933, ch. 49, § 13, as added Pub. L. 97–300, title VI, § 601(h), formerly title V, § 501(h), Oct. 13, 1982, 96 Stat. 1397; renumbered title VI, § 601(h), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 97–404, § 5, Dec. 31, 1982, 96 Stat. 2027; Pub. L. 113–128, title III, § 307, July 22, 2014, 128 Stat. 1627.)
+(June 6, 1933, ch. 49, § 13, as added Pub. L. 97–300, title VI, § 601(h), formerly title V, § 501(h), Oct. 13, 1982, 96 Stat. 1397; renumbered title VI, § 601(h), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 97–404, § 5, Dec. 31, 1982, 96 Stat. 2027; Pub. L. 113–128, title III, § 307, July 22, 2014, 128 Stat. 1627.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 49*l*, act June 6, 1933, ch. 49, § 13, 48 Stat. 117, relating to mail franking privileges to employment systems, was transferred to section 338 of former Title 39, The Postal Service. Section 338 of former Title 39 was repealed and reenacted as section 4152 of former Title 39, The Postal Service by Pub. L. 86–682, Sept. 2, 1960, 74 Stat. 578. Section 4152 of former Title 39 was repealed and reenacted as section 3202 of Title 39, Postal Service, by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
+A prior section 49*l*, act June 6, 1933, ch. 49, § 13, 48 Stat. 117, relating to mail franking privileges to employment systems, was transferred to section 338 of former Title 39, The Postal Service. Section 338 of former Title 39 was repealed and reenacted as section 4152 of former Title 39, The Postal Service by Pub. L. 86–682, Sept. 2, 1960, 74 Stat. 578. Section 4152 of former Title 39 was repealed and reenacted as section 3202 of Title 39, Postal Service, by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
 
 **Amendments**
 
@@ -829,15 +829,15 @@ Section effective Oct. 1, 1983, but with Secretary authorized to use funds appro
 
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
-## § 49l–1. Authorization of appropriations
+## § 49l–1. Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary to enable the Secretary to provide funds through reimburseable 1
+There are authorized to be appropriated such sums as may be necessary to enable the Secretary to provide funds through reimburseable 1
 
-<sup>1</sup>  So in original. Probably should be “reimbursable”.
+<sup>1</sup> So in original. Probably should be “reimbursable”.
 
 agreements with the States to operate statistical programs which are essential for development of estimates of the gross national product and other national statistical series, including those related to employment and unemployment.
 
-(June 6, 1933, ch. 49, § 14, as added Pub. L. 97–300, title VI, § 601(h), formerly title V, § 501(h), Oct. 13, 1982, 96 Stat. 1397; renumbered title VI, § 601(h), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248.)
+(June 6, 1933, ch. 49, § 14, as added Pub. L. 97–300, title VI, § 601(h), formerly title V, § 501(h), Oct. 13, 1982, 96 Stat. 1397; renumbered title VI, § 601(h), Pub. L. 100–628, title VII, § 712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -845,7 +845,7 @@ agreements with the States to operate statistical programs which are essential f
 
 Section effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of section, see section 181(i) of Pub. L. 97–300, which was formerly classified to section 1591(i) of this title.
 
-## § 49l–2. Workforce and labor market information system
+## § 49l–2. Workforce and labor market information system
 
 **(a) System content**
 
@@ -867,9 +867,9 @@ Section effective Oct. 1, 1983, but with Secretary authorized to use funds appro
 
 **(ii)** shall meet the needs identified through the consultations described in subparagraphs (A) and (B) of subsection (e)(2); and
 
-**(iii)** shall meet the needs for the information identified in section 134(d); 1
+**(iii)** shall meet the needs for the information identified in section 134(d); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(C)** technical standards (which the Secretary shall publish annually) for data and information described in subparagraphs (A) and (B) that, at a minimum, meet the criteria of chapter 35 of title 44;
 
@@ -1065,7 +1065,7 @@ There are authorized to be appropriated to carry out this section $60,153,000 fo
 
 In this section, the term “local area” means the smallest geographical area for which data can be produced with statistical reliability.
 
-(June 6, 1933, ch. 49, § 15, as added Pub. L. 105–220, title III, § 309(2), Aug. 7, 1998, 112 Stat. 1082; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 403(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 105–332, § 5(b)(1), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 109–270, § 2(g), Aug. 12, 2006, 120 Stat. 747; Pub. L. 113–128, title III, § 308, July 22, 2014, 128 Stat. 1627; Pub. L. 115–224, title III, § 301, July 31, 2018, 132 Stat. 1622; Pub. L. 117–286, § 4(a)(186), Dec. 27, 2022, 136 Stat. 4326.)
+(June 6, 1933, ch. 49, § 15, as added Pub. L. 105–220, title III, § 309(2), Aug. 7, 1998, 112 Stat. 1082; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 403(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 105–332, § 5(b)(1), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 109–270, § 2(g), Aug. 12, 2006, 120 Stat. 747; Pub. L. 113–128, title III, § 308, July 22, 2014, 128 Stat. 1627; Pub. L. 115–224, title III, § 301, July 31, 2018, 132 Stat. 1622; Pub. L. 117–286, § 4(a)(186), Dec. 27, 2022, 136 Stat. 4326.)
 
 **Editorial Notes**
 
@@ -1073,7 +1073,7 @@ In this section, the term “local area” means the smallest geographical area 
 
 Section 134(d), referred to in subsec. (a)(1)(B)(iii), probably means section 134(d) of the Workforce Investment Act of 1998, Pub. L. 105–220, which is classified to section 2864(d) of this title. The Wagner-Peyser Act, of which this section is a part, does not contain a section 134.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (f), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (f), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 **Prior Provisions**
 
@@ -1083,41 +1083,41 @@ A prior section 15 of act of June 6, 1933, was renumbered section 16, and is set
 
 2022—Subsec. (d)(2)(F). Pub. L. 117–286 substituted “Section 1013 of title 5” for “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-2018—Subsec. (e)(2)(B). Pub. L. 115–224, § 301(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “consult with State educational agencies and local educational agencies concerning the provision of workforce and labor market information in order to meet the needs of secondary school and postsecondary school students who seek such information;”.
+2018—Subsec. (e)(2)(B). Pub. L. 115–224, § 301(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “consult with State educational agencies and local educational agencies concerning the provision of workforce and labor market information in order to meet the needs of secondary school and postsecondary school students who seek such information;”.
 
-Subsec. (e)(2)(I). Pub. L. 115–224, § 301(2)–(4), added subpar. (I).
+Subsec. (e)(2)(I). Pub. L. 115–224, § 301(2)–(4), added subpar. (I).
 
-2014—Pub. L. 113–128, § 308(a), substituted “Workforce and labor market information system” for “Employment statistics” in section catchline.
+2014—Pub. L. 113–128, § 308(a), substituted “Workforce and labor market information system” for “Employment statistics” in section catchline.
 
-Subsec. (a)(1). Pub. L. 113–128, § 308(b), substituted “workforce and labor market information system” for “employment statistics system of employment statistics” in introductory provisions.
+Subsec. (a)(1). Pub. L. 113–128, § 308(b), substituted “workforce and labor market information system” for “employment statistics system of employment statistics” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 113–128, § 308(c)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The employment statistics system described in subsection (a) shall be planned, administered, overseen, and evaluated through a cooperative governance structure involving the Federal Government and States.”
+Subsec. (b)(1). Pub. L. 113–128, § 308(c)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The employment statistics system described in subsection (a) shall be planned, administered, overseen, and evaluated through a cooperative governance structure involving the Federal Government and States.”
 
-Subsec. (b)(2). Pub. L. 113–128, § 308(c)(2), added par. (2) and struck out former par. (2) which described duties to be carried out for the employment statistics system.
+Subsec. (b)(2). Pub. L. 113–128, § 308(c)(2), added par. (2) and struck out former par. (2) which described duties to be carried out for the employment statistics system.
 
-Subsec. (c). Pub. L. 113–128, § 308(d), added subsec. (c) and struck out former subsec. (c) which related to preparation of an annual plan to achieve cooperative management of the nationwide and statewide employment statistics systems.
+Subsec. (c). Pub. L. 113–128, § 308(d), added subsec. (c) and struck out former subsec. (c) which related to preparation of an annual plan to achieve cooperative management of the nationwide and statewide employment statistics systems.
 
-Subsec. (d). Pub. L. 113–128, § 308(e), added subsec. (d) and struck out former subsec. (d) which required coordination with the States in the development of the annual plan.
+Subsec. (d). Pub. L. 113–128, § 308(e), added subsec. (d) and struck out former subsec. (d) which required coordination with the States in the development of the annual plan.
 
-Subsec. (e). Pub. L. 113–128, § 308(f)(1), substituted “workforce and labor market information” for “employment statistics” wherever appearing.
+Subsec. (e). Pub. L. 113–128, § 308(f)(1), substituted “workforce and labor market information” for “employment statistics” wherever appearing.
 
-Subsec. (e)(1)(A). Pub. L. 113–128, § 308(f)(2), substituted “plan described in subsection (c)” for “annual plan”.
+Subsec. (e)(1)(A). Pub. L. 113–128, § 308(f)(2), substituted “plan described in subsection (c)” for “annual plan”.
 
-Subsec. (e)(2)(G), (H). Pub. L. 113–128, § 308(f)(3)(A), (B), (D), inserted “and” at end of subpar. (G), redesignated subpar. (I) as (H), and struck out former subpar. (H) which read as follows: “participate in the development of the annual plan described in subsection (c); and”.
+Subsec. (e)(2)(G), (H). Pub. L. 113–128, § 308(f)(3)(A), (B), (D), inserted “and” at end of subpar. (G), redesignated subpar. (I) as (H), and struck out former subpar. (H) which read as follows: “participate in the development of the annual plan described in subsection (c); and”.
 
-Subsec. (e)(2)(I). Pub. L. 113–128, § 308(f)(3)(D), redesignated subpar. (I) as (H).
+Subsec. (e)(2)(I). Pub. L. 113–128, § 308(f)(3)(D), redesignated subpar. (I) as (H).
 
-Pub. L. 113–128, § 308(f)(3)(C), substituted “section 3141(i)(2) of this title” for “section 136(f)(2) of the Workforce Investment Act of 1998”.
+Pub. L. 113–128, § 308(f)(3)(C), substituted “section 3141(i)(2) of this title” for “section 136(f)(2) of the Workforce Investment Act of 1998”.
 
-Subsec. (g). Pub. L. 113–128, § 308(g), substituted “$60,153,000 for fiscal year 2015, $64,799,000 for fiscal year 2016, $66,144,000 for fiscal year 2017, $67,611,000 for fiscal year 2018, $69,200,000 for fiscal year 2019, and $70,667,000 for fiscal year 2020” for “such sums as may be necessary for each of the fiscal years 1999 through 2004”.
+Subsec. (g). Pub. L. 113–128, § 308(g), substituted “$60,153,000 for fiscal year 2015, $64,799,000 for fiscal year 2016, $66,144,000 for fiscal year 2017, $67,611,000 for fiscal year 2018, $69,200,000 for fiscal year 2019, and $70,667,000 for fiscal year 2020” for “such sums as may be necessary for each of the fiscal years 1999 through 2004”.
 
 2006—Subsec. (f). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
 
-1998—Subsec. (a)(2)(A)(i). Pub. L. 105–332, § 5(b)(1)(A), substituted “under the provisions of this section for any purpose other than the statistical purposes for which” for “under the provisions of this section for any purpose other than the statistical purposes for which”.
+1998—Subsec. (a)(2)(A)(i). Pub. L. 105–332, § 5(b)(1)(A), substituted “under the provisions of this section for any purpose other than the statistical purposes for which” for “under the provisions of this section for any purpose other than the statistical purposes for which”.
 
-Pub. L. 105–277, § 101(f) [title VIII, § 403(a)(1)(A)], struck out “of this section” after “statistical purposes”.
+Pub. L. 105–277, § 101(f) [title VIII, § 403(a)(1)(A)], struck out “of this section” after “statistical purposes”.
 
-Subsec. (e)(2)(G). Pub. L. 105–277, § 101(f) [title VIII, § 403(a)(1)(B)], and Pub. L. 105–332, § 5(b)(1)(B), amended subpar. (G) identically, substituting “comple­mentarity” for “complementary”.
+Subsec. (e)(2)(G). Pub. L. 105–277, § 101(f) [title VIII, § 403(a)(1)(B)], and Pub. L. 105–332, § 5(b)(1)(B), amended subpar. (G) identically, substituting “comple­mentarity” for “complementary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1131,15 +1131,15 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 **Effective Date of 1998 Amendments**
 
-Pub. L. 105–332, § 5(b)(2), Oct. 31, 1998, 112 Stat. 3127, provided that: “The amendments made by paragraph (1) [amending this section] take effect July 2, 1999.”
+Pub. L. 105–332, § 5(b)(2), Oct. 31, 1998, 112 Stat. 3127, provided that: “The amendments made by paragraph (1) [amending this section] take effect July 2, 1999.”
 
-Pub. L. 105–277, div. A, § 101(f) [title VIII, § 403(a)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, provided that: “The amendments made by paragraph (1) [amending this section] take effect on July 2, 1999.”
+Pub. L. 105–277, div. A, § 101(f) [title VIII, § 403(a)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, provided that: “The amendments made by paragraph (1) [amending this section] take effect on July 2, 1999.”
 
 **Effective Date**
 
 Section effective July 1, 1999, see section 311 of Pub. L. 105–220, formerly set out as an Effective Date of 1998 Amendment note under section 49a of this title.
 
-## §§ 49m, 49n. Omitted
+## §§ 49m, 49n. Omitted
 
 **Editorial Notes**
 

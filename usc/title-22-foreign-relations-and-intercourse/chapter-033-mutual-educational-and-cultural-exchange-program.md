@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 33—MUTUAL EDUCATIONAL AND CULTURAL EXCHANGE PROGRAM
 
-## § 2451. Congressional statement of purpose
+## § 2451. Congressional statement of purpose
 
 The purpose of this chapter is to enable the Government of the United States to increase mutual understanding between the people of the United States and the people of other countries by means of educational and cultural exchange; to strengthen the ties which unite us with other nations by demonstrating the educational and cultural interests, developments, and achievements of the people of the United States and other nations, and the contributions being made toward a peaceful and more fruitful life for people throughout the world; to promote international cooperation for educational and cultural advancement; and thus to assist in the development of friendly, sympathetic, and peaceful relations between the United States and the other countries of the world.
 
-(Pub. L. 87–256, § 101, Sept. 21, 1961, 75 Stat. 527.)
+(Pub. L. 87–256, § 101, Sept. 21, 1961, 75 Stat. 527.)
 
 **Editorial Notes**
 
@@ -31,17 +31,17 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Short Title**
 
-Pub. L. 87–256, § 1, Sept. 21, 1961, 75 Stat. 527, provided: “That this Act [enacting this chapter, amending sections 1101, 1182 and 1258 of Title 8, Aliens and Nationality, sections 117, 871, 872, 1441, 3121, 3306, 3401 and 3402 of Title 26, Internal Revenue Code, and section 410 of Title 42, The Public Health and Welfare, repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468 and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under this section and under sections 117, 1441, 3121 and 3401 of Title 26] may be cited as the ‘Mutual Educational and Cultural Exchange Act of 1961’.”
+Pub. L. 87–256, § 1, Sept. 21, 1961, 75 Stat. 527, provided: “That this Act [enacting this chapter, amending sections 1101, 1182 and 1258 of Title 8, Aliens and Nationality, sections 117, 871, 872, 1441, 3121, 3306, 3401 and 3402 of Title 26, Internal Revenue Code, and section 410 of Title 42, The Public Health and Welfare, repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468 and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under this section and under sections 117, 1441, 3121 and 3401 of Title 26] may be cited as the ‘Mutual Educational and Cultural Exchange Act of 1961’.”
 
 Pub. L. 87–256 is also popularly known as the “Fulbright-Hays Act”.
 
 **Transfer of Functions**
 
-Functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof under this chapter transferred to Director of International Communication Agency by Reorg. Plan No. 2 of 1977, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, except (A) for such functions as are vested by sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to extent that any such function therein is vested in President or Secretary of State. International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. References to United States Information Agency or International Communication Agency deemed to refer to Department of State, see section 6551 of this title.
+Functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof under this chapter transferred to Director of International Communication Agency by Reorg. Plan No. 2 of 1977, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, except (A) for such functions as are vested by sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to extent that any such function therein is vested in President or Secretary of State. International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. References to United States Information Agency or International Communication Agency deemed to refer to Department of State, see section 6551 of this title.
 
 **Expansion of United States Scholarship and Exchange Programs in the Islamic World**
 
-Pub. L. 108–458, title VII, § 7112, Dec. 17, 2004, 118 Stat. 3796, provided that:
+Pub. L. 108–458, title VII, § 7112, Dec. 17, 2004, 118 Stat. 3796, provided that:
 
 > **“(a) Findings.—** Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
@@ -65,21 +65,21 @@ Pub. L. 108–458, title VII, § 7112, Dec. 17, 2004, 118 Stat. 3796, provided
 
 **Advisory Committee on Cultural Diplomacy**
 
-Pub. L. 107–228, div. A, title II, § 224, Sept. 30, 2002, 116 Stat. 1368, provided for the establishment of an advisory committee on cultural diplomacy to advise the Secretary of State on programs and policies to advance the use of cultural diplomacy in United States foreign policy and for the termination of the committee on Sept. 30, 2005.
+Pub. L. 107–228, div. A, title II, § 224, Sept. 30, 2002, 116 Stat. 1368, provided for the establishment of an advisory committee on cultural diplomacy to advise the Secretary of State on programs and policies to advance the use of cultural diplomacy in United States foreign policy and for the termination of the committee on Sept. 30, 2005.
 
 **Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions**
 
-Pub. L. 87–256, § 111(b), Sept. 21, 1961, 75 Stat. 538, provided that: “All Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of any provisions of law repealed by subsection (a) of this section [repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense] shall continue in full force and effect, and shall be applicable to the appropriate provisions of this Act [this chapter] until modified or superseded by appropriate authority.”
+Pub. L. 87–256, § 111(b), Sept. 21, 1961, 75 Stat. 538, provided that: “All Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of any provisions of law repealed by subsection (a) of this section [repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense] shall continue in full force and effect, and shall be applicable to the appropriate provisions of this Act [this chapter] until modified or superseded by appropriate authority.”
 
 **References in Other Laws to Repealed Provisions**
 
-Pub. L. 87–256, § 111(c), Sept. 21, 1961, 75 Stat. 538, provided that: “Any reference in any other Act to the provisions of law listed in subsection (a) [repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense] shall hereafter be considered to be references to the appropriate provisions of this Act [this chapter].”
+Pub. L. 87–256, § 111(c), Sept. 21, 1961, 75 Stat. 538, provided that: “Any reference in any other Act to the provisions of law listed in subsection (a) [repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense] shall hereafter be considered to be references to the appropriate provisions of this Act [this chapter].”
 
-## § 2451a. Repealed. Pub. L. 91–269, § 7, May 27, 1970, 84 Stat. 272
+## § 2451a. Repealed. Pub. L. 91–269, § 7, May 27, 1970, 84 Stat. 272
 
-Section, Pub. L. 89–685, § 8, Oct. 15, 1966, 80 Stat. 974, required registration of international fair, exposition, celebration or other international exhibition with an international organization for participation by the United States. See section 2801 et seq. of this title.
+Section, Pub. L. 89–685, § 8, Oct. 15, 1966, 80 Stat. 974, required registration of international fair, exposition, celebration or other international exhibition with an international organization for participation by the United States. See section 2801 et seq. of this title.
 
-## § 2452. Authorization of activities
+## § 2452. Authorization of activities
 
 **(a) Grants or contracts for educational or cultural exchanges; participation in international fairs and expositions abroad** The Director of the United States Information Agency is authorized, when he considers that it would strengthen international cooperative relations, to provide, by grant, contract, or otherwise, for—
 
@@ -129,7 +129,7 @@ and (ii) by financing visits and interchanges between the United States and othe
 
 **(12)** promoting respect for and guarantees of religious freedom abroad by interchanges and visits between the United States and other nations of religious leaders, scholars, and religious and legal experts in the field of religious freedom.
 
-(Pub. L. 87–256, § 102, Sept. 21, 1961, 75 Stat. 527; Pub. L. 87–565, pt. IV, § 403, Aug. 1, 1962, 76 Stat. 263; Pub. L. 89–698, title II, § 203(a), Oct. 29, 1966, 80 Stat. 1071; 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 98–164, title VII, § 703(a), Nov. 22, 1983, 97 Stat. 1045; Pub. L. 105–292, title V, § 503, Oct. 27, 1998, 112 Stat. 2811; Pub. L. 117–263, div. I, title XCVI, § 9604(b)(1), Dec. 23, 2022, 136 Stat. 3912.)
+(Pub. L. 87–256, § 102, Sept. 21, 1961, 75 Stat. 527; Pub. L. 87–565, pt. IV, § 403, Aug. 1, 1962, 76 Stat. 263; Pub. L. 89–698, title II, § 203(a), Oct. 29, 1966, 80 Stat. 1071; 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 98–164, title VII, § 703(a), Nov. 22, 1983, 97 Stat. 1045; Pub. L. 105–292, title V, § 503, Oct. 27, 1998, 112 Stat. 2811; Pub. L. 117–263, div. I, title XCVI, § 9604(b)(1), Dec. 23, 2022, 136 Stat. 3912.)
 
 **Editorial Notes**
 
@@ -139,9 +139,9 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 **Amendments**
 
-2022—Subsec. (a)(2)(iii). Pub. L. 117–263, § 9604(b)(1)(A), inserted “and” at end.
+2022—Subsec. (a)(2)(iii). Pub. L. 117–263, § 9604(b)(1)(A), inserted “and” at end.
 
-Subsec. (a)(2)(iv). Pub. L. 117–263, § 9604(b)(1)(B), inserted “, including in coordination and consultation with the private sector,” before “similar” and substituted “; and” for period at end.
+Subsec. (a)(2)(iv). Pub. L. 117–263, § 9604(b)(1)(B), inserted “, including in coordination and consultation with the private sector,” before “similar” and substituted “; and” for period at end.
 
 1998—Subsec. (b)(12). Pub. L. 105–292 added par. (12).
 
@@ -155,19 +155,19 @@ Subsec. (a)(2)(iv). Pub. L. 117–263, § 9604(b)(1)(B), inserted “, inclu
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–565, pt. IV, § 403, Aug. 1, 1962, 76 Stat. 263, provided in part that: “The amendment made by this section [amending this section] shall not be applicable with respect to any fair or exposition within the United States for which an appropriation has been provided.”
+Pub. L. 87–565, pt. IV, § 403, Aug. 1, 1962, 76 Stat. 263, provided in part that: “The amendment made by this section [amending this section] shall not be applicable with respect to any fair or exposition within the United States for which an appropriation has been provided.”
 
 **Transfer of Functions**
 
-United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (a), opening par. and par. (2)(iv), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “President” in subsec. (a), opening par. and par. (2)(iv), pursuant to Reorg. Plan No. 2 of 1977, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency, or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsec. (b)(6), (10) of this section, and sections 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (a), opening par. and par. (2)(iv), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “President” in subsec. (a), opening par. and par. (2)(iv), pursuant to Reorg. Plan No. 2 of 1977, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency, or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsec. (b)(6), (10) of this section, and sections 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
 
 **Pilot Program To Provide Grants to American-Sponsored Schools in Predominantly Muslim Countries To Provide Scholarships**
 
-Pub. L. 108–458, title VII, § 7113, Dec. 17, 2004, 118 Stat. 3797, as amended, formerly set out as a note under this section, was transferred and is classified to section 2452c of this title.
+Pub. L. 108–458, title VII, § 7113, Dec. 17, 2004, 118 Stat. 3797, as amended, formerly set out as a note under this section, was transferred and is classified to section 2452c of this title.
 
 **Conduct of Certain Educational and Cultural Exchange Programs**
 
-Pub. L. 104–319, title I, § 102, Oct. 19, 1996, 110 Stat. 3865, as amended by Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 402], Nov. 29, 1999, 113 Stat. 1536, 1501A–445, provided that:
+Pub. L. 104–319, title I, § 102, Oct. 19, 1996, 110 Stat. 3865, as amended by Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 402], Nov. 29, 1999, 113 Stat. 1536, 1501A–445, provided that:
 
 > **“(a) In General.—** In carrying out programs of educational and cultural exchange in countries whose people do not fully enjoy freedom and democracy, the Secretary of State, with the assistance of the Under Secretary of State for Public Diplomacy, shall provide, where appropriate, opportunities for significant participation in such programs to nationals of such countries who are—
 
@@ -183,55 +183,55 @@ Pub. L. 104–319, title I, § 102, Oct. 19, 1996, 110 Stat. 3865, as amended 
 
 **Limitation on Participation in International Expositions or Fairs**
 
-Pub. L. 103–236, title II, § 230, Apr. 30, 1994, 108 Stat. 424, which provided that United States Information Agency could not obligate or expend funds for a United States Government funded pavilion or major exhibit at any international exposition or world’s fair in excess of amounts expressly authorized and appropriated for such purpose, was repealed by Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 204(e)], Nov. 29, 1999, 113 Stat. 1536, 1501A–421.
+Pub. L. 103–236, title II, § 230, Apr. 30, 1994, 108 Stat. 424, which provided that United States Information Agency could not obligate or expend funds for a United States Government funded pavilion or major exhibit at any international exposition or world’s fair in excess of amounts expressly authorized and appropriated for such purpose, was repealed by Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 204(e)], Nov. 29, 1999, 113 Stat. 1536, 1501A–421.
 
 **International Exchange, Scholarship, and Training Programs**
 
-Pub. L. 118–159, div. G, title LXXIV, § 7403, Dec. 23, 2024, 138 Stat. 2543, authorized expansion of partnerships and educational exchange opportunities with students, scholars, and experts from Sub-Saharan Africa.
+Pub. L. 118–159, div. G, title LXXIV, § 7403, Dec. 23, 2024, 138 Stat. 2543, authorized expansion of partnerships and educational exchange opportunities with students, scholars, and experts from Sub-Saharan Africa.
 
-Pub. L. 116–260, div. FF, title III, subtitle D (§§ 331–335, 337), Dec. 27, 2020, 134 Stat. 3114–3118, as amended by Pub. L. 117–263, div. I, title XCVII, § 9716(b), Dec. 23, 2022, 136 Stat. 3921, known as the Gandhi-King Scholarly Exchange Initiative Act, authorized establishment of professional exchange program, professional development training initiative, and development foundation between the United States and India.
+Pub. L. 116–260, div. FF, title III, subtitle D (§§ 331–335, 337), Dec. 27, 2020, 134 Stat. 3114–3118, as amended by Pub. L. 117–263, div. I, title XCVII, § 9716(b), Dec. 23, 2022, 136 Stat. 3921, known as the Gandhi-King Scholarly Exchange Initiative Act, authorized establishment of professional exchange program, professional development training initiative, and development foundation between the United States and India.
 
 Pub. L. 110–83, Sept. 20, 2007, 121 Stat. 781, authorized establishment of a United States-Poland parliamentary youth exchange program.
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title II], Dec. 21, 2000, 114 Stat. 2763, 2763A–254, as amended by Pub. L. 107–228, div. A, title II, § 227, Sept. 30, 2002, 116 Stat. 1369; Pub. L. 113–235, div. J, title VII, § 7085, Dec. 16, 2014, 128 Stat. 2685, known as the Vietnam Education Foundation Act of 2000, established the Vietnam Education Foundation to provide fellowships to Vietnamese nationals to study the sciences, mathematics, medicine, and technology in the United States and to United States citizens to teach those subjects in Vietnam.
+Pub. L. 106–554, § 1(a)(4) [div. B, title II], Dec. 21, 2000, 114 Stat. 2763, 2763A–254, as amended by Pub. L. 107–228, div. A, title II, § 227, Sept. 30, 2002, 116 Stat. 1369; Pub. L. 113–235, div. J, title VII, § 7085, Dec. 16, 2014, 128 Stat. 2685, known as the Vietnam Education Foundation Act of 2000, established the Vietnam Education Foundation to provide fellowships to Vietnamese nationals to study the sciences, mathematics, medicine, and technology in the United States and to United States citizens to teach those subjects in Vietnam.
 
-Pub. L. 104–319, title I, § 103, Oct. 19, 1996, 110 Stat. 3865, as amended by Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2415, Oct. 21, 1998, 112 Stat. 2681–834; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 401], Nov. 29, 1999, 113 Stat. 1536, 1501A–445; Pub. L. 107–228, div. A, title II, § 222, Sept. 30, 2002, 116 Stat. 1367, authorized establishment of educational and cultural exchange programs between United States and people of Tibet and authorized scholarships for Tibetans and Burmese.
+Pub. L. 104–319, title I, § 103, Oct. 19, 1996, 110 Stat. 3865, as amended by Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2415, Oct. 21, 1998, 112 Stat. 2681–834; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 401], Nov. 29, 1999, 113 Stat. 1536, 1501A–445; Pub. L. 107–228, div. A, title II, § 222, Sept. 30, 2002, 116 Stat. 1367, authorized establishment of educational and cultural exchange programs between United States and people of Tibet and authorized scholarships for Tibetans and Burmese.
 
-Pub. L. 103–236, title II, § 235, Apr. 30, 1994, 108 Stat. 425, authorized establishment and maintenance of American studies collections at appropriate foreign university libraries to further the study of the United States.
+Pub. L. 103–236, title II, § 235, Apr. 30, 1994, 108 Stat. 425, authorized establishment and maintenance of American studies collections at appropriate foreign university libraries to further the study of the United States.
 
-Pub. L. 103–236, title II, § 236, Apr. 30, 1994, 108 Stat. 425, authorized establishment of educational and cultural exchange programs between United States and Tibet.
+Pub. L. 103–236, title II, § 236, Apr. 30, 1994, 108 Stat. 425, authorized establishment of educational and cultural exchange programs between United States and Tibet.
 
-Pub. L. 103–236, title II, § 237, Apr. 30, 1994, 108 Stat. 426, established a scholarship program for East Timorese students qualified to study in United States.
+Pub. L. 103–236, title II, § 237, Apr. 30, 1994, 108 Stat. 426, established a scholarship program for East Timorese students qualified to study in United States.
 
-Pub. L. 103–236, title II, § 238, Apr. 30, 1994, 108 Stat. 426, related to establishment and expansion of Cambodian scholarship and exchange programs.
+Pub. L. 103–236, title II, § 238, Apr. 30, 1994, 108 Stat. 426, related to establishment and expansion of Cambodian scholarship and exchange programs.
 
-Pub. L. 103–236, title II, § 239, Apr. 30, 1994, 108 Stat. 426, related to expansion of exchange program allocations to Africa.
+Pub. L. 103–236, title II, § 239, Apr. 30, 1994, 108 Stat. 426, related to expansion of exchange program allocations to Africa.
 
-Pub. L. 103–236, title II, § 240, Apr. 30, 1994, 108 Stat. 426, as amended by Pub. L. 105–244, title I, § 102(a)(7)(A), Oct. 7, 1998, 112 Stat. 1619, established a program to promote academic exchanges in disciplines relevant to environment and sustainable development.
+Pub. L. 103–236, title II, § 240, Apr. 30, 1994, 108 Stat. 426, as amended by Pub. L. 105–244, title I, § 102(a)(7)(A), Oct. 7, 1998, 112 Stat. 1619, established a program to promote academic exchanges in disciplines relevant to environment and sustainable development.
 
-Pub. L. 103–236, title II, § 241, Apr. 30, 1994, 108 Stat. 427, authorized scholarships to qualified students from South Pacific nations.
+Pub. L. 103–236, title II, § 241, Apr. 30, 1994, 108 Stat. 427, authorized scholarships to qualified students from South Pacific nations.
 
-Pub. L. 103–236, title II, § 242, Apr. 30, 1994, 108 Stat. 427, provided for international exchange programs involving disability related matters.
+Pub. L. 103–236, title II, § 242, Apr. 30, 1994, 108 Stat. 427, provided for international exchange programs involving disability related matters.
 
-Pub. L. 102–511, title VIII, § 807, Oct. 24, 1992, 106 Stat. 3353, authorized exchange and training programs between United States and independent states of former Soviet Union.
+Pub. L. 102–511, title VIII, § 807, Oct. 24, 1992, 106 Stat. 3353, authorized exchange and training programs between United States and independent states of former Soviet Union.
 
-Pub. L. 102–138, title II, § 210, Oct. 28, 1991, 105 Stat. 694, authorized grants to Claude and Mildred Pepper Scholarship Program of the Washington Workshops Foundation to enable foreign visiting students to observe workings and operations of democratic form of government of United States.
+Pub. L. 102–138, title II, § 210, Oct. 28, 1991, 105 Stat. 694, authorized grants to Claude and Mildred Pepper Scholarship Program of the Washington Workshops Foundation to enable foreign visiting students to observe workings and operations of democratic form of government of United States.
 
-Pub. L. 102–138, title II, § 214, Oct. 28, 1991, 105 Stat. 696, established Israeli Arab Scholarship Fund within United States Information Agency to finance attendance of Israeli Arabs at United States institutions of higher education.
+Pub. L. 102–138, title II, § 214, Oct. 28, 1991, 105 Stat. 696, established Israeli Arab Scholarship Fund within United States Information Agency to finance attendance of Israeli Arabs at United States institutions of higher education.
 
-Pub. L. 102–138, title II, § 225, Oct. 28, 1991, 105 Stat. 699, authorized establishment of an endowment fund to support an exchange program among secondary school students from United States and former Warsaw Pact countries, prior to repeal, eff. 6 months after Oct. 24, 1992, by Pub. L. 102–511, title VIII, § 807(c), Oct. 24, 1992, 106 Stat. 3354.
+Pub. L. 102–138, title II, § 225, Oct. 28, 1991, 105 Stat. 699, authorized establishment of an endowment fund to support an exchange program among secondary school students from United States and former Warsaw Pact countries, prior to repeal, eff. 6 months after Oct. 24, 1992, by Pub. L. 102–511, title VIII, § 807(c), Oct. 24, 1992, 106 Stat. 3354.
 
-Pub. L. 102–138, title II, § 226, Oct. 28, 1991, 105 Stat. 699, authorized scholarships for foreign and United States students and scholars awarded by Bureau of Educational and Cultural Affairs of United States Information Agency to facilitate study, research, and teaching within United States.
+Pub. L. 102–138, title II, § 226, Oct. 28, 1991, 105 Stat. 699, authorized scholarships for foreign and United States students and scholars awarded by Bureau of Educational and Cultural Affairs of United States Information Agency to facilitate study, research, and teaching within United States.
 
-Pub. L. 102–138, title II, § 227, Oct. 28, 1991, 105 Stat. 700, as amended by Pub. L. 102–511, title VIII, § 801, Oct. 24, 1992, 106 Stat. 3352; Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2413, Oct. 21, 1998, 112 Stat. 2681–832, established Muskie Fellowship Program to award scholarships to graduate students from independent states of the former Soviet Union, Lithuania, Latvia, and Estonia for study within United States.
+Pub. L. 102–138, title II, § 227, Oct. 28, 1991, 105 Stat. 700, as amended by Pub. L. 102–511, title VIII, § 801, Oct. 24, 1992, 106 Stat. 3352; Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2413, Oct. 21, 1998, 112 Stat. 2681–832, established Muskie Fellowship Program to award scholarships to graduate students from independent states of the former Soviet Union, Lithuania, Latvia, and Estonia for study within United States.
 
-Pub. L. 102–138, title II, § 228, Oct. 28, 1991, 105 Stat. 702, as amended by Pub. L. 103–236, title II, § 233, Apr. 30, 1994, 108 Stat. 424; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2219(a)(7), Oct. 21, 1998, 112 Stat. 2681–817, authorized assistance to United States graduate and postdoctoral students researching Near and Middle East.
+Pub. L. 102–138, title II, § 228, Oct. 28, 1991, 105 Stat. 702, as amended by Pub. L. 103–236, title II, § 233, Apr. 30, 1994, 108 Stat. 424; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2219(a)(7), Oct. 21, 1998, 112 Stat. 2681–817, authorized assistance to United States graduate and postdoctoral students researching Near and Middle East.
 
-Pub. L. 102–138, title II, § 229, Oct. 28, 1991, 105 Stat. 702, authorized scholarships for Vietnamese residents qualified to study in United States.
+Pub. L. 102–138, title II, § 229, Oct. 28, 1991, 105 Stat. 702, authorized scholarships for Vietnamese residents qualified to study in United States.
 
 **Study and Report on Ways To Reduce the Drain From Developing Countries of Professional Persons and Skilled Specialists**
 
-Pub. L. 89–698, title III, § 301, Oct. 29, 1966, 80 Stat. 1072, authorized Secretary of Health, Education, and Welfare to conduct an investigation to determine number of individuals from developing countries who enter United States annually to further their education and fail to return to their homeland and to report to President and to Congress findings and conclusions together with recommendations for any legislation deemed necessary to encourage these individuals to return and use their education and training in service of their homeland.
+Pub. L. 89–698, title III, § 301, Oct. 29, 1966, 80 Stat. 1072, authorized Secretary of Health, Education, and Welfare to conduct an investigation to determine number of individuals from developing countries who enter United States annually to further their education and fail to return to their homeland and to report to President and to Congress findings and conclusions together with recommendations for any legislation deemed necessary to encourage these individuals to return and use their education and training in service of their homeland.
 
 **Executive Documents**
 
@@ -241,13 +241,13 @@ Functions of President under this section delegated to Secretary of State, Direc
 
 **Performance of Functions**
 
-Authorization of performance of functions under subsec. (a)(2) and (3) of this section by departments or other executive agencies, see Ex. Ord. No. 11380, § 2, Nov. 8, 1967, 32 F.R. 15627, set out as a note under section 2454 of this title.
+Authorization of performance of functions under subsec. (a)(2) and (3) of this section by departments or other executive agencies, see Ex. Ord. No. 11380, § 2, Nov. 8, 1967, 32 F.R. 15627, set out as a note under section 2454 of this title.
 
 **Executive Order No. 10716**
 
 Ex. Ord. No. 10716, June 18, 1957, 22 F.R. 4345, as amended by Ex. Ord. No. 10912, Jan. 19, 1961, 26 F.R. 509, which related to administration of programs under this chapter, was superseded by Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under section 2454 of this title.
 
-## § 2452a. Exchange program with countries in transition from totalitarianism to democracy
+## § 2452a. Exchange program with countries in transition from totalitarianism to democracy
 
 **(a) Authorization of activities; grants or contracts for exchanges with foreign countries** Pursuant to the Mutual Educational and Cultural Exchange Act of 1961 [22 U.S.C. 2451 et seq.] and using the authorities contained therein, the President is authorized, when the President considers that it would strengthen international cooperative relations, to provide, by grant, contract, or otherwise, for exchanges with countries that are in transition from totalitarianism to democracy, which include, but are not limited to Poland, Hungary, Czechoslovakia, Bulgaria, and Romania—
 
@@ -265,7 +265,7 @@ The program under this section shall be coordinated by the Department of State.
 
 The President is authorized to transfer to the appropriate appropriations account of the Department of State such sums as the President shall determine to be necessary out of the travel accounts of the departments and agencies of the United States, except for the Department of State, as the President shall designate. Such transfers shall be subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate. In addition, the President is authorized to accept such gifts or cost-sharing arrangements as may be proffered to sustain the program under this section.
 
-(Pub. L. 101–610, title VI, § 602, Nov. 16, 1990, 104 Stat. 3186; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(c), Oct. 21, 1998, 112 Stat. 2681–787.)
+(Pub. L. 101–610, title VI, § 602, Nov. 16, 1990, 104 Stat. 3186; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(c), Oct. 21, 1998, 112 Stat. 2681–787.)
 
 **Editorial Notes**
 
@@ -279,9 +279,9 @@ Section was enacted as part of the National and Community Service Act of 1990, a
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–277, § 1335(c)(1), substituted “Department of State” for “United States Information Agency” before period at end.
+1998—Subsec. (a). Pub. L. 105–277, § 1335(c)(1), substituted “Department of State” for “United States Information Agency” before period at end.
 
-Subsec. (b). Pub. L. 105–277, § 1335(c)(2), in first sentence, substituted “appropriate appropriations account of the Department of State” for “appropriations account of the United States Information Agency” and struck out “and the United States Information Agency” before “, as the President”.
+Subsec. (b). Pub. L. 105–277, § 1335(c)(2), in first sentence, substituted “appropriate appropriations account of the Department of State” for “appropriations account of the United States Information Agency” and struck out “and the United States Information Agency” before “, as the President”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -289,9 +289,9 @@ Subsec. (b). Pub. L. 105–277, § 1335(c)(2), in first sentence, substituted 
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-## § 2452b. Repealed. Pub. L. 119–60, div. E, title IV, § 5405, Dec. 18, 2025, 139 Stat. 1599
+## § 2452b. Repealed. Pub. L. 119–60, div. E, title IV, § 5405, Dec. 18, 2025, 139 Stat. 1599
 
-Section, Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 204], Nov. 29, 1999, 113 Stat. 1536, 1501A–420; Pub. L. 115–32, § 5(b), May 8, 2017, 131 Stat. 844, related to use of funds appropriated to the Department of State for international expositions.
+Section, Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 204], Nov. 29, 1999, 113 Stat. 1536, 1501A–420; Pub. L. 115–32, § 5(b), May 8, 2017, 131 Stat. 844, related to use of funds appropriated to the Department of State for international expositions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -341,7 +341,7 @@ Pub. L. 115–32, May 8, 2017, 131 Stat. 843, provided that:
 
 > [Amended this section.]”
 
-## § 2452c. Program to provide grants to American-sponsored schools in predominantly Muslim countries to provide scholarships
+## § 2452c. Program to provide grants to American-sponsored schools in predominantly Muslim countries to provide scholarships
 
 **(a) Findings** Congress makes the following findings:
 
@@ -383,7 +383,7 @@ Not later than April 15, 2006, and April 15, 2008, the Secretary of State shall 
 
 There are authorized to be appropriated to the Secretary of State for each of the fiscal years 2007 and 2008, unless otherwise authorized by Congress, such sums as necessary to implement the program under this section.
 
-(Pub. L. 108–458, title VII, § 7113, Dec. 17, 2004, 118 Stat. 3797; Pub. L. 110–53, title XX, § 2014(b)(1), Aug. 3, 2007, 121 Stat. 512.)
+(Pub. L. 108–458, title VII, § 7113, Dec. 17, 2004, 118 Stat. 3797; Pub. L. 110–53, title XX, § 2014(b)(1), Aug. 3, 2007, 121 Stat. 512.)
 
 **Editorial Notes**
 
@@ -395,15 +395,15 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 **Amendments**
 
-2007—Pub. L. 110–53, § 2014(b)(1)(A), struck out “Pilot” before “Program” in section catchline.
+2007—Pub. L. 110–53, § 2014(b)(1)(A), struck out “Pilot” before “Program” in section catchline.
 
-Subsec. (c). Pub. L. 110–53, § 2014(b)(1)(B), struck out “Pilot” before “Program” in heading and “pilot” before “program” in text.
+Subsec. (c). Pub. L. 110–53, § 2014(b)(1)(B), struck out “Pilot” before “Program” in heading and “pilot” before “program” in text.
 
-Subsecs. (d), (f). Pub. L. 110–53, § 2014(b)(1)(C), (D), struck out “pilot” before “program” wherever appearing.
+Subsecs. (d), (f). Pub. L. 110–53, § 2014(b)(1)(C), (D), struck out “pilot” before “program” wherever appearing.
 
-Subsec. (g). Pub. L. 110–53, § 2014(b)(1)(E), inserted “and April 15, 2008,” before “the Secretary” and struck out “pilot” before “program”.
+Subsec. (g). Pub. L. 110–53, § 2014(b)(1)(E), inserted “and April 15, 2008,” before “the Secretary” and struck out “pilot” before “program”.
 
-Subsec. (h). Pub. L. 110–53, § 2014(b)(1)(F), substituted “2007 and 2008” for “2005 and 2006” and struck out “pilot” before “program”.
+Subsec. (h). Pub. L. 110–53, § 2014(b)(1)(F), substituted “2007 and 2008” for “2005 and 2006” and struck out “pilot” before “program”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -413,7 +413,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 **Findings**
 
-Pub. L. 110–53, title XX, § 2014(a), Aug. 3, 2007, 121 Stat. 512, provided that:
+Pub. L. 110–53, title XX, § 2014(a), Aug. 3, 2007, 121 Stat. 512, provided that:
 
 > “Congress finds the following:
 
@@ -421,13 +421,13 @@ Pub. L. 110–53, title XX, § 2014(a), Aug. 3, 2007, 121 Stat. 512, provided 
 
 > **“(2)** Since the date of the enactment of that section [Dec. 17, 2004], the Middle East Partnership Initiative has pursued implementation of that program.”
 
-## § 2453. Agreements with foreign governments and international organizations
+## § 2453. Agreements with foreign governments and international organizations
 
 **(a) Authorization**
 
-The Director of the United States Information Agency is authorized to enter into agreements with foreign governments and international organizations, in furtherance of the purposes of this chapter. In such agreements the Director of the United States Information Agency is authorized, when he deems it in the public interest, to seek the agreement of the other governments concerned to cooperate and assist, including making use of funds placed in special accounts pursuant to agreements concluded in accordance with section 1513(b)(6) 1
+The Director of the United States Information Agency is authorized to enter into agreements with foreign governments and international organizations, in furtherance of the purposes of this chapter. In such agreements the Director of the United States Information Agency is authorized, when he deems it in the public interest, to seek the agreement of the other governments concerned to cooperate and assist, including making use of funds placed in special accounts pursuant to agreements concluded in accordance with section 1513(b)(6) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, or any similar agreements, in providing for the activities authorized in section 2452 of this title, and particularly those authorized in subsection (a)(1) of said section 2452, with respect to the expenses of international transportation of their own citizens and nationals and of activities in furtherance of the purposes of this chapter carried on within the borders of such other nations.
 
@@ -439,7 +439,7 @@ Such agreements may also provide for the creation or continuation of binational 
 
 In such agreements with international organizations, the Director of the United States Information Agency may provide for equitable United States participation in and support for, including a reasonable share of the cost of, educational and cultural programs to be administered by such organizations.
 
-(Pub. L. 87–256, § 103, Sept. 21, 1961, 75 Stat. 529; 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291.)
+(Pub. L. 87–256, § 103, Sept. 21, 1961, 75 Stat. 529; 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291.)
 
 **Editorial Notes**
 
@@ -447,13 +447,13 @@ In such agreements with international organizations, the Director of the United 
 
 This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
-Section 1513(b)(6) of this title, referred to in subsec. (a), was repealed by act Aug. 26, 1954, ch. 937, title V, § 542(a), 68 Stat. 861.
+Section 1513(b)(6) of this title, referred to in subsec. (a), was repealed by act Aug. 26, 1954, ch. 937, title V, § 542(a), 68 Stat. 861.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsecs. (a) and (c), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “President” in subsecs. (a) and (c), pursuant to Reorg. Plan No. 2 of 1977, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsecs. (a) and (c), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “President” in subsecs. (a) and (c), pursuant to Reorg. Plan No. 2 of 1977, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
 
 **Executive Documents**
 
@@ -461,7 +461,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 Functions of President under this section delegated to Secretary of State, see Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under section 2454 of this title.
 
-## § 2454. Administration
+## § 2454. Administration
 
 **(a) Delegation of powers; submission of proposal for delegation to Congress**
 
@@ -471,7 +471,7 @@ The President may delegate, to such officers of the Government as he determines 
 
 The President is authorized to employ such other personnel as he deems necessary to carry out the provisions and purposes of this chapter, and of such personnel not to exceed ten may be compensated without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, but not in excess of the highest rate of grade 18 of the General Schedule. Such positions shall be in addition to the number authorized by section 5108 of title 5.
 
-**(c) Repealed. Pub. L. 96–465, title II, § 2205(7), Oct. 17, 1980, 94 Stat. 2160**
+**(c) Repealed. Pub. L. 96–465, title II, § 2205(7), Oct. 17, 1980, 94 Stat. 2160**
 
 **(d) Extension of benefits**
 
@@ -487,7 +487,7 @@ For the purpose of performing functions under this chapter outside the United St
 
 **(4)** The Director of the United States Information Agency is authorized to provide for publicity and promotion (including representation) abroad of activities of the type provided for in this chapter, and of similar services and opportunities for interchange not supported by the United States Government.
 
-**(f) Repealed. Pub. L. 96–60, title II, § 203(a)(1), Aug. 15, 1979, 93 Stat. 398**
+**(f) Repealed. Pub. L. 96–60, title II, § 203(a)(1), Aug. 15, 1979, 93 Stat. 398**
 
 **(g) Currency exchange for foreign students and teachers coming temporarily to the United States**
 
@@ -501,7 +501,7 @@ For the purpose of performing functions under this chapter outside the United St
 
 **(5)** As used in section 2452(b)(10) of this title, the term “excess foreign currencies” means foreign currencies, which if acquired by the United States (A) would be in excess of the normal requirements of departments, agencies, and embassies of the United States for such currencies, as determined by the President, and (B) would be available for the use of the United States Government under applicable agreements with the foreign country concerned.
 
-(Pub. L. 87–256, § 104, Sept. 21, 1961, 75 Stat. 529; Pub. L. 87–793, § 1001(j), Oct. 11, 1962, 76 Stat. 865; Pub. L. 89–698, title II, § 203(b), Oct. 29, 1966, 80 Stat. 1071; 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 95–426, title II, § 204(a), Oct. 7, 1978, 92 Stat. 973; Pub. L. 96–60, title II, § 203(a)(1), Aug. 15, 1979, 93 Stat. 398; Pub. L. 96–465, title II, §§ 2205(7), 2206(a)(9), Oct. 17, 1980, 94 Stat. 2160, 2162; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 103–236, title II, § 231, Apr. 30, 1994, 108 Stat. 424.)
+(Pub. L. 87–256, § 104, Sept. 21, 1961, 75 Stat. 529; Pub. L. 87–793, § 1001(j), Oct. 11, 1962, 76 Stat. 865; Pub. L. 89–698, title II, § 203(b), Oct. 29, 1966, 80 Stat. 1071; 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 95–426, title II, § 204(a), Oct. 7, 1978, 92 Stat. 973; Pub. L. 96–60, title II, § 203(a)(1), Aug. 15, 1979, 93 Stat. 398; Pub. L. 96–465, title II, §§ 2205(7), 2206(a)(9), Oct. 17, 1980, 94 Stat. 2160, 2162; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 103–236, title II, § 231, Apr. 30, 1994, 108 Stat. 424.)
 
 **Editorial Notes**
 
@@ -509,19 +509,19 @@ For the purpose of performing functions under this chapter outside the United St
 
 This chapter, referred to in subsecs. (a), (b), (d), (e)(1), (2), (4), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (g)(4), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (g)(4), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 **Codification**
 
-In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” and “section 5108 of title 5” substituted for “the Classification Act of 1949, as amended” and “section 505 of the Classification Act of 1949, as amended”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. In the original, section 1105 of title 5 read section 505 of the Classification Act of 1949, as amended.
+In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” and “section 5108 of title 5” substituted for “the Classification Act of 1949, as amended” and “section 505 of the Classification Act of 1949, as amended”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. In the original, section 1105 of title 5 read section 505 of the Classification Act of 1949, as amended.
 
 **Amendments**
 
-1994—Subsec. (e)(4). Pub. L. 103–236 inserted before period at end “, and of similar services and opportunities for interchange not supported by the United States Government”.
+1994—Subsec. (e)(4). Pub. L. 103–236 inserted before period at end “, and of similar services and opportunities for interchange not supported by the United States Government”.
 
-1980—Subsec. (c). Pub. L. 96–465, § 2205(7), struck out subsec. (c) which related to employment or assignment of persons in or to Foreign Service Reserve or Foreign Service Staff and alien clerks and employees.
+1980—Subsec. (c). Pub. L. 96–465, § 2205(7), struck out subsec. (c) which related to employment or assignment of persons in or to Foreign Service Reserve or Foreign Service Staff and alien clerks and employees.
 
-Subsec. (d). Pub. L. 96–465, § 2206(a)(9), among other changes, substituted reference to section 3950 of this title for reference to section 928 of this title and struck out provisions relating to the applicability of section 807 of this title.
+Subsec. (d). Pub. L. 96–465, § 2206(a)(9), among other changes, substituted reference to section 3950 of this title for reference to section 928 of this title and struck out provisions relating to the applicability of section 807 of this title.
 
 1979—Subsec. (f). Pub. L. 96–60 struck out subsec. (f) relating to investigation-of-employees requirement.
 
@@ -543,17 +543,17 @@ Amendment by Pub. L. 96–60 effective Oct. 1, 1979, see section 209 of Pub. L. 
 
 **Effective Date of 1962 Amendment**
 
-Amendment by Pub. L. 87–793 effective on first day of first pay period which begins on or after Oct. 11, 1962, see Pub. L. 87–793, § 1008, Oct. 11, 1962, 76 Stat. 868.
+Amendment by Pub. L. 87–793 effective on first day of first pay period which begins on or after Oct. 11, 1962, see Pub. L. 87–793, § 1008, Oct. 11, 1962, 76 Stat. 868.
 
 **Transfer of Functions**
 
-United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsecs. (d) and (e)(1), (3), and (4), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “Secretary of State” in subsec. (c) and for “President” in subsecs. (d), (e)(3), (4), pursuant to Reorg. Plan No. 2 of 1977, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsecs. (a), (e)(1), (2), (f), (g) of this section, sections 2452(b)(6), (10), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by subsec. (b) of this section and sections 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsecs. (d) and (e)(1), (3), and (4), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “Secretary of State” in subsec. (c) and for “President” in subsecs. (d), (e)(3), (4), pursuant to Reorg. Plan No. 2 of 1977, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsecs. (a), (e)(1), (2), (f), (g) of this section, sections 2452(b)(6), (10), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by subsec. (b) of this section and sections 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
 
 For transfer of functions and offices (relating to education) of Secretary and Department of Health, Education, and Welfare to Secretary and Department of Education, and termination of certain offices and positions under Ex. Ord. No. 11034, June 25, 1962, as amended, set out under this section, see sections 3441 and 3503 of Title 20, Education.
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Executive Documents**
 
@@ -711,7 +711,7 @@ Sec. 3. The delegation made by this order shall become effective upon the expira
 
 Richard Nixon.
 
-## § 2455. Appropriations
+## § 2455. Appropriations
 
 **(a) Availability**
 
@@ -719,9 +719,9 @@ Amounts appropriated to carry out the purposes of this chapter are authorized to
 
 **(b) Acquisition of foreign currencies**
 
-Funds appropriated for programs under this chapter may, without regard to section 3651 1
+Funds appropriated for programs under this chapter may, without regard to section 3651 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Revised Statutes (31 U.S.C. 543), be used for the acquisition from any source of foreign currencies in such amounts as may be necessary for current expenditures and for grants, including grants to foundations and commissions in accordance with international agreements providing for the accomplishment of the purposes of this chapter.
 
@@ -743,7 +743,7 @@ any currencies of foreign nations received or to be received by the United State
 
 **(iii)** in repayment of principal or interest on any other credit extended or loan heretofore or hereafter made by the United States or any agency thereof; or
 
-**(iv)** as deposits to the account of the United States pursuant to section 1513(b)(6) <sup>1</sup> or section 1513(h) <sup>1</sup> of this title, or any similar provision of any other law.
+**(iv)** as deposits to the account of the United States pursuant to section 1513(b)(6) <sup>1</sup> or section 1513(h) <sup>1</sup> of this title, or any similar provision of any other law.
 
 **(e) Reservation and use of sums due or paid by the Republic of Finland**
 
@@ -757,7 +757,7 @@ Foreign governments, international organizations and private individuals, firms,
 
 Notwithstanding any other provision of this chapter, there are authorized to be appropriated for the purposes of making currency exchanges under section 2452(b)(10) of this title, not to exceed $10,000,000 for the fiscal year ending June 30, 1968, and not to exceed $15,000,000 for the fiscal year ending June 30, 1969.
 
-(Pub. L. 87–256, § 105, Sept. 21, 1961, 75 Stat. 531; Pub. L. 89–698, title II, § 203(c), Oct. 29, 1966, 80 Stat. 1072; 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 103–236, title II, § 227, Apr. 30, 1994, 108 Stat. 423; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(S), June 18, 2008, 122 Stat. 1820, 1821.)
+(Pub. L. 87–256, § 105, Sept. 21, 1961, 75 Stat. 531; Pub. L. 89–698, title II, § 203(c), Oct. 29, 1966, 80 Stat. 1072; 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 103–236, title II, § 227, Apr. 30, 1994, 108 Stat. 423; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(S), June 18, 2008, 122 Stat. 1820, 1821.)
 
 **Editorial Notes**
 
@@ -765,11 +765,11 @@ Notwithstanding any other provision of this chapter, there are authorized to be 
 
 This chapter, referred to in subsecs. (a) to (d), (f), and (g), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
-Section 3651 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (b), was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
+Section 3651 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (b), was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
-The Food for Peace Act, as amended, referred to in subsec. (d)(2)(ii), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, as amended, referred to in subsec. (d)(2)(ii), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-Sections 1513(b)(6) and 1513(h) of this title, referred to in subsec. (d)(2)(iv), were repealed by act Aug. 26, 1954, ch. 937, title V, § 542(a), 68 Stat. 861.
+Sections 1513(b)(6) and 1513(h) of this title, referred to in subsec. (d)(2)(iv), were repealed by act Aug. 26, 1954, ch. 937, title V, § 542(a), 68 Stat. 861.
 
 The acts of February 25, 1919, and February 9, 1922, referred to in subsec. (e), are not classified to the Code.
 
@@ -789,11 +789,11 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **Transfer of Functions**
 
-United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (e), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “President” in subsec. (e), pursuant to Reorg. Plan No. 2 of 1977, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsecs. (a), (b), and (c) of this section, sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2456(a) and 2458 of this title, (B) for such functions as are vested by subsecs. (d)(2) and (f) of this section, sections 2454(b) and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (e), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “President” in subsec. (e), pursuant to Reorg. Plan No. 2 of 1977, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsecs. (a), (b), and (c) of this section, sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2456(a) and 2458 of this title, (B) for such functions as are vested by subsecs. (d)(2) and (f) of this section, sections 2454(b) and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
 
 **Increase in Grants for Exchange-of-Persons Activities; Funds for Specific Programs, Reductions, Other Use of Funds, Report to Congressional Committees**
 
-Pub. L. 97–241, title III, § 305(c), (d), Aug. 24, 1982, 96 Stat. 294, provided that the amount obligated by United States Information Agency each fiscal year for grants for exchange-of-persons activities should be increased, through regular annual increases, so that by fiscal year 1986 the amount obligated for such grants would at least double (in terms of constant dollars) the amount obligated for such grants for fiscal year 1982 and in furtherance of this purpose provided for appropriations for the United States Information Agency for fiscal year 1983.
+Pub. L. 97–241, title III, § 305(c), (d), Aug. 24, 1982, 96 Stat. 294, provided that the amount obligated by United States Information Agency each fiscal year for grants for exchange-of-persons activities should be increased, through regular annual increases, so that by fiscal year 1986 the amount obligated for such grants would at least double (in terms of constant dollars) the amount obligated for such grants for fiscal year 1982 and in furtherance of this purpose provided for appropriations for the United States Information Agency for fiscal year 1983.
 
 **Executive Documents**
 
@@ -801,7 +801,7 @@ Pub. L. 97–241, title III, § 305(c), (d), Aug. 24, 1982, 96 Stat. 294, prov
 
 Functions of President under this section delegated to Secretary of State, Director of United States Information Agency, Secretary of Commerce, and Secretary of Education, see Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under section 2454 of this title.
 
-## § 2456. J. William Fulbright Foreign Scholarship Board
+## § 2456. J. William Fulbright Foreign Scholarship Board
 
 **(a) Appointment; members; considerations for selection**
 
@@ -811,7 +811,7 @@ Functions of President under this section delegated to Secretary of State, Direc
 
 **(b) Omitted**
 
-**(c) Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(2), Oct. 21, 1998, 112 Stat. 2681–790**
+**(c) Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(2), Oct. 21, 1998, 112 Stat. 2681–790**
 
 **(d) Creation of interagency and other advisory committees; conferences of persons**
 
@@ -825,7 +825,7 @@ The provisions of section 1346(b) of title 31 shall be applicable to any interag
 
 The President is authorized to provide for necessary secretarial and staff assistance for the Board and such committees as may be created under this section.
 
-(Pub. L. 87–256, § 106, Sept. 21, 1961, 75 Stat. 532; 1977 Reorg. Plan No. 2, §§ 8(b), 9(a)(3), (6), 42 F.R. 62461, 91 Stat. 1638, 1639; Pub. L. 96–60, title II, § 205(a), Aug. 15, 1979, 93 Stat. 401; Pub. L. 96–88, title III, § 301(b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 101–246, title II, § 204(a)(1), Feb. 16, 1990, 104 Stat. 49; Pub. L. 102–54, § 13(h)(1), June 13, 1991, 105 Stat. 275; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(2), Oct. 21, 1998, 112 Stat. 2681–790.)
+(Pub. L. 87–256, § 106, Sept. 21, 1961, 75 Stat. 532; 1977 Reorg. Plan No. 2, §§ 8(b), 9(a)(3), (6), 42 F.R. 62461, 91 Stat. 1638, 1639; Pub. L. 96–60, title II, § 205(a), Aug. 15, 1979, 93 Stat. 401; Pub. L. 96–88, title III, § 301(b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 101–246, title II, § 204(a)(1), Feb. 16, 1990, 104 Stat. 49; Pub. L. 102–54, § 13(h)(1), June 13, 1991, 105 Stat. 275; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(2), Oct. 21, 1998, 112 Stat. 2681–790.)
 
 **Editorial Notes**
 
@@ -835,11 +835,11 @@ This chapter, referred to in subsecs. (a), (d), and (e), was in the original “
 
 **Codification**
 
-Subsec. (b), which established the United States Advisory Commission on International Educational and Cultural Affairs to replace the United States Advisory Commission on Educational Exchange, and provided for its functions and the appointment and terms of its members, and the provisions of subsecs. (e) and (f) referring to the “Commission”, were omitted pursuant to Reorg. Plan No. 2 of 1977, § 9(a)(3), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, which abolished that Commission effective on or before July 1, 1978, at such time as specified by the President.
+Subsec. (b), which established the United States Advisory Commission on International Educational and Cultural Affairs to replace the United States Advisory Commission on Educational Exchange, and provided for its functions and the appointment and terms of its members, and the provisions of subsecs. (e) and (f) referring to the “Commission”, were omitted pursuant to Reorg. Plan No. 2 of 1977, § 9(a)(3), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, which abolished that Commission effective on or before July 1, 1978, at such time as specified by the President.
 
-In subsec. (e), “section 1346(b) of title 31” substituted for “section 214 of the Act of May 3, 1945 (59 Stat. 134; 31 U.S.C. 691)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (e), “section 1346(b) of title 31” substituted for “section 214 of the Act of May 3, 1945 (59 Stat. 134; 31 U.S.C. 691)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-In subsec. (e), “section 5703 of title 5” substituted for “section 5 of the Administrative Expense Act of 1946, as amended (5 U.S.C. 73b-2)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (e), “section 5703 of title 5” substituted for “section 5 of the Administrative Expense Act of 1946, as amended (5 U.S.C. 73b-2)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -847,7 +847,7 @@ In subsec. (e), “section 5703 of title 5” substituted for “section 5 of th
 
 1991—Subsec. (a)(1). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1990—Subsec. (a)(1). Pub. L. 101–246 substituted “board of foreign scholarships which shall be known as the ‘J. William Fulbright Foreign Scholarship Board’ ” for “Board of Foreign Scholarships”.
+1990—Subsec. (a)(1). Pub. L. 101–246 substituted “board of foreign scholarships which shall be known as the ‘J. William Fulbright Foreign Scholarship Board’ ” for “Board of Foreign Scholarships”.
 
 1979—Subsec. (e). Pub. L. 96–60 struck from second sentence “the Board,” before “the Commission” and from cl. (ii) thereof “such Board,” before “Commission” and provided for entitlement of members of the Board to expenses and per diem in lieu of subsistence and to compensation for services not exceeding a daily rate for first step, GS–15 of General Schedule.
 
@@ -859,7 +859,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–60, title II, § 205(b), Aug. 15, 1979, 93 Stat. 401, provided that: “The amendments made by subsection (a) [to subsec. (e) of this section] shall take effect on October 1, 1979.”
+Pub. L. 96–60, title II, § 205(b), Aug. 15, 1979, 93 Stat. 401, provided that: “The amendments made by subsection (a) [to subsec. (e) of this section] shall take effect on October 1, 1979.”
 
 **Transfer of Functions**
 
@@ -873,11 +873,11 @@ Advisory commissions or committees in existence on Jan. 5, 1973, to terminate no
 
 **Continued Service of Board Members**
 
-Pub. L. 101–246, title II, § 204(b), Feb. 16, 1990, 104 Stat. 50, provided that: “Each member appointed to the Board of Foreign Scholarships before the date of the enactment of this Act [Feb. 16, 1990] shall continue to serve for the remainder of the term to which each such member was appointed.”
+Pub. L. 101–246, title II, § 204(b), Feb. 16, 1990, 104 Stat. 50, provided that: “Each member appointed to the Board of Foreign Scholarships before the date of the enactment of this Act [Feb. 16, 1990] shall continue to serve for the remainder of the term to which each such member was appointed.”
 
 **References to Board of Foreign Scholarships**
 
-Pub. L. 101–246, title II, § 204(c), Feb. 16, 1990, 104 Stat. 50, provided that: “Any reference in any provision of law to the Board of Foreign Scholarships shall, on and after the date of enactment of this Act [Feb. 16, 1990], be deemed to be a reference to the J. William Fulbright Foreign Scholarship Board.”
+Pub. L. 101–246, title II, § 204(c), Feb. 16, 1990, 104 Stat. 50, provided that: “Any reference in any provision of law to the Board of Foreign Scholarships shall, on and after the date of enactment of this Act [Feb. 16, 1990], be deemed to be a reference to the J. William Fulbright Foreign Scholarship Board.”
 
 **Executive Documents**
 
@@ -889,11 +889,11 @@ Functions vested in President, Secretary of State, Department of State, United S
 
 Functions of President under this section delegated to Secretary of State, Director of United States Information Agency, Secretary of Commerce, and Secretary of Education, see Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under section 2454 of this title.
 
-## § 2457. Reports by Board
+## § 2457. Reports by Board
 
 The Board shall submit annual reports to the Congress and such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs authorized by this chapter.
 
-(Pub. L. 87–256, § 107, Sept. 21, 1961, 75 Stat. 534; 1977 Reorg. Plan No. 2, § 9(a)(3), (6), 42 F.R. 62461, 91 Stat. 1639.)
+(Pub. L. 87–256, § 107, Sept. 21, 1961, 75 Stat. 534; 1977 Reorg. Plan No. 2, § 9(a)(3), (6), 42 F.R. 62461, 91 Stat. 1639.)
 
 **Editorial Notes**
 
@@ -903,7 +903,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Codification**
 
-Provisions relating to the submission of reports to Congress by the United States Advisory Commission on International Educational and Cultural Affairs [which replaced the United States Advisory Commission on Educational Exchange], and the Advisory Committee on the Arts, were omitted pursuant to Reorg. Plan No. 2 of 1977, § 9(a)(3), (6), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, which abolished the Commission and the Committee effective on or before July 1, 1978, at such time as specified by the President.
+Provisions relating to the submission of reports to Congress by the United States Advisory Commission on International Educational and Cultural Affairs [which replaced the United States Advisory Commission on Educational Exchange], and the Advisory Committee on the Arts, were omitted pursuant to Reorg. Plan No. 2 of 1977, § 9(a)(3), (6), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, which abolished the Commission and the Committee effective on or before July 1, 1978, at such time as specified by the President.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -915,7 +915,7 @@ For termination, effective May 15, 2000, of provisions in this section relating 
 
 Advisory commissions or committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission or committee established by the President or an officer of the Federal Government, such commission or committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission or committee established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-## § 2458. Authority of President
+## § 2458. Authority of President
 
 **(a) Performance of certain functions without regard to other laws; appropriation credits upon reimbursement for services in connection with exchange activities**
 
@@ -935,7 +935,7 @@ In connection with activities authorized by section 2452(a)(2) and (3) of this t
 
 The President is authorized to utilize the provisions of title VIII of the United States Information and Educational Exchange Act of 1948, as amended [22 U.S.C. 1471 et seq.], to the extent he deems necessary in carrying out the provisions and purposes of this chapter.
 
-(Pub. L. 87–256, § 108, Sept. 21, 1961, 75 Stat. 534; Pub. L. 96–60, title II, § 203(d), Aug. 15, 1979, 93 Stat. 399; Pub. L. 96–470, title II, § 212(a), Oct. 19, 1980, 94 Stat. 2246; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291.)
+(Pub. L. 87–256, § 108, Sept. 21, 1961, 75 Stat. 534; Pub. L. 96–60, title II, § 203(d), Aug. 15, 1979, 93 Stat. 399; Pub. L. 96–470, title II, § 212(a), Oct. 19, 1980, 94 Stat. 2246; Pub. L. 97–241, title III, § 303(b), Aug. 24, 1982, 96 Stat. 291.)
 
 **Editorial Notes**
 
@@ -943,7 +943,7 @@ The President is authorized to utilize the provisions of title VIII of the Unite
 
 This chapter, referred to in subsecs. (a), (b), and (d), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
-The United States Information and Educational Exchange Act of 1948, as amended, referred to in subsecs. (b) and (d), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. Title VIII of the Act, referred to in subsec. (d), is classified generally to subchapter VII (§ 1471 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
+The United States Information and Educational Exchange Act of 1948, as amended, referred to in subsecs. (b) and (d), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. Title VIII of the Act, referred to in subsec. (d), is classified generally to subchapter VII (§ 1471 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
 
 **Amendments**
 
@@ -965,19 +965,19 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 **Soviet Nationals Participating in Exchange Programs; Topics and Location of Study; National Security Interests; Report to Congress**
 
-Pub. L. 97–241, title I, § 126(c), Aug. 24, 1982, 96 Stat. 282, directed Secretary of State to submit annually to Congress a list of Soviet nationals participating during the upcoming academic year in the United States-Union of Soviet Socialist Republics graduate student/young faculty exchange or in the United States-Union of Soviet Socialist Republics senior scholar exchange, their topics of study, and where they were to study, such report to also include a determination by Secretary of State, in consultation with heads of other agencies involved in these exchange programs, that these exchange programs would not jeopardize United States national security interests, prior to repeal by Pub. L. 103–199, title III, § 306, Dec. 17, 1993, 107 Stat. 2324.
+Pub. L. 97–241, title I, § 126(c), Aug. 24, 1982, 96 Stat. 282, directed Secretary of State to submit annually to Congress a list of Soviet nationals participating during the upcoming academic year in the United States-Union of Soviet Socialist Republics graduate student/young faculty exchange or in the United States-Union of Soviet Socialist Republics senior scholar exchange, their topics of study, and where they were to study, such report to also include a determination by Secretary of State, in consultation with heads of other agencies involved in these exchange programs, that these exchange programs would not jeopardize United States national security interests, prior to repeal by Pub. L. 103–199, title III, § 306, Dec. 17, 1993, 107 Stat. 2324.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof under this chapter transferred to Director of International Communication Agency by Reorg. Plan No. 2 of 1977, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, except (A) for such functions as are vested by this section, and sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
+Functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof under this chapter transferred to Director of International Communication Agency by Reorg. Plan No. 2 of 1977, § 7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, except (A) for such functions as are vested by this section, and sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare [now Secretary of Education] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
 
 **Delegation of Functions**
 
 Functions of President under this section delegated to Secretary of State, Director of United States Information Agency, and Secretary of Commerce, see Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under section 2454 of this title.
 
-## § 2458a. Federal employee participation in cultural exchange programs
+## § 2458a. Federal employee participation in cultural exchange programs
 
 **(a) Grants and other foreign government assistance; family or household expense assistance prohibited; “Federal employee” defined**
 
@@ -1001,7 +1001,7 @@ The grants and other forms of assistance with respect to which the consent of Co
 
 The Secretary of State is authorized to promulgate regulations for purposes of this section.
 
-(Pub. L. 87–256, § 108A, as added Pub. L. 94–350, title I, § 111, July 12, 1976, 90 Stat. 825; amended Pub. L. 96–60, title II, § 204(d), Aug. 15, 1979, 93 Stat. 400.)
+(Pub. L. 87–256, § 108A, as added Pub. L. 94–350, title I, § 111, July 12, 1976, 90 Stat. 825; amended Pub. L. 96–60, title II, § 204(d), Aug. 15, 1979, 93 Stat. 400.)
 
 **Editorial Notes**
 
@@ -1015,7 +1015,7 @@ The Secretary of State is authorized to promulgate regulations for purposes of t
 
 Amendment by Pub. L. 96–60 effective Oct. 1, 1979, see section 209 of Pub. L. 96–60, set out as a note under section 1471 of this title.
 
-## § 2459. Immunity from seizure under judicial process of cultural objects imported for temporary exhibition or display
+## § 2459. Immunity from seizure under judicial process of cultural objects imported for temporary exhibition or display
 
 **(a) Agreements; Presidential determination; publication in Federal Register**
 
@@ -1033,7 +1033,7 @@ Nothing contained in this section shall preclude (1) any judicial action for or 
 
 For purposes of this section, the terms “imported” and “importation” include a transfer from a mission of a foreign country located within the United States to a cultural, educational, or religious institution located within the United States.
 
-(Pub. L. 89–259, Oct. 19, 1965, 79 Stat. 985; Pub. L. 116–283, div. A, title XII, § 1216(a) Jan. 1, 2021, 134 Stat. 3922.)
+(Pub. L. 89–259, Oct. 19, 1965, 79 Stat. 985; Pub. L. 116–283, div. A, title XII, § 1216(a) Jan. 1, 2021, 134 Stat. 3922.)
 
 **Editorial Notes**
 
@@ -1043,15 +1043,15 @@ Section was not enacted as a part of the Mutual Educational and Cultural Exchang
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 1216(a)(1), substituted “temporary storage, conservation, scientific research, exhibition, or display” for “temporary exhibition or display thereof” in two places, “cultural, educational, or religious institutions with the capacity to appropriately curate such object” for “cultural or educational institutions”, and “any such cultural, educational, or religious institution with the capacity to appropriately curate such object” for “any such cultural or educational institution”.
+2021—Subsec. (a). Pub. L. 116–283, § 1216(a)(1), substituted “temporary storage, conservation, scientific research, exhibition, or display” for “temporary exhibition or display thereof” in two places, “cultural, educational, or religious institutions with the capacity to appropriately curate such object” for “cultural or educational institutions”, and “any such cultural, educational, or religious institution with the capacity to appropriately curate such object” for “any such cultural or educational institution”.
 
-Subsec. (d). Pub. L. 116–283, § 1216(a)(2), added subsec. (d).
+Subsec. (d). Pub. L. 116–283, § 1216(a)(2), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Afghanistan**
 
-Pub. L. 116–283, div. A, title XII, § 1216(b), Jan. 1, 2021, 134 Stat. 3923, provided that:
+Pub. L. 116–283, div. A, title XII, § 1216(b), Jan. 1, 2021, 134 Stat. 3923, provided that:
 
 > **“(1) In general.—** A work of art or other object of cultural significance that is imported into the United States for temporary storage, conservation, scientific research, exhibition, or display shall be deemed to be immune from seizure under such Act of October 19, 1965 (22 U.S.C. 2459) (as amended by subsection (a)), and the provisions of such Act shall apply in the same manner and to the same extent to such work or object, if—
 
@@ -1089,7 +1089,7 @@ Sec. 6. This Order shall be effective on April 1, 1978.
 
 [For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.]
 
-## § 2460. Bureau of Educational and Cultural Affairs
+## § 2460. Bureau of Educational and Cultural Affairs
 
 **(a) Establishment; responsibilities** In order to carry out the purposes of this chapter, there is established in the United States Information Agency, or in such appropriate agency of the United States as the President shall determine, a Bureau of Educational and Cultural Affairs (hereinafter in this section referred to as the “Bureau”). The Bureau shall be responsible for managing, coordinating, and overseeing programs established pursuant to this chapter, including but not limited to—
 
@@ -1111,13 +1111,13 @@ Sec. 6. This Order shall be effective on April 1, 1978.
 
 **(9)** the Arts America program which promotes a greater appreciation and understanding of American art abroad by supporting exhibitions and tours by American artists in other countries; and
 
-**(10)**  1
+**(10)** 1
 
-<sup>1</sup>  So in original. Two pars. (10) have been enacted.
+<sup>1</sup> So in original. Two pars. (10) have been enacted.
 
 exchange programs, including in coordination and consultation with the private sector, focused on music and the performing arts that provide opportunities for foreign nationals and Americans to build cross-cultural understanding and advance peace abroad.
 
-**(10)**  <sup>1</sup> the John Lewis Civil Rights Fellowship Program established under section 2465 of this title, which provides funding for international internships and research placements for early- to mid-career individuals from the United States to study nonviolent civil rights movements in self-arranged placements with universities or nongovernmental organizations in foreign countries.
+**(10)** <sup>1</sup> the John Lewis Civil Rights Fellowship Program established under section 2465 of this title, which provides funding for international internships and research placements for early- to mid-career individuals from the United States to study nonviolent civil rights movements in self-arranged placements with universities or nongovernmental organizations in foreign countries.
 
 **(b) Revocation or diminution of grants**
 
@@ -1201,7 +1201,7 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 **(11)** With respect to any report issued under paragraph (6), a member may submit dissenting views to be submitted as part of the report of the Working Group.
 
-(Pub. L. 87–256, § 112, as added Pub. L. 98–164, title II, § 213, Nov. 22, 1983, 97 Stat. 1034; amended Pub. L. 100–204, title III, §§ 302(a), 303, Dec. 22, 1987, 101 Stat. 1378, 1379; Pub. L. 101–246, title II, §§ 204(a)(2), 222(a), 223, Feb. 16, 1990, 104 Stat. 50, 55, 56; Pub. L. 103–199, title III, § 301(1), Dec. 17, 1993, 107 Stat. 2322; Pub. L. 103–236, title II, § 229(a), Apr. 30, 1994, 108 Stat. 423; Pub. L. 105–244, title I, § 102(a)(7)(B), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2414, Oct. 21, 1998, 112 Stat. 2681–832; Pub. L. 107–228, div. A, title II, §§ 221, 229, Sept. 30, 2002, 116 Stat. 1367, 1371; Pub. L. 117–263, div. I, title XCVI, § 9604(b)(2), Dec. 23, 2022, 136 Stat. 3912; Pub. L. 118–31, div. F, title LXVI, § 6604(b), Dec. 22, 2023, 137 Stat. 1013.)
+(Pub. L. 87–256, § 112, as added Pub. L. 98–164, title II, § 213, Nov. 22, 1983, 97 Stat. 1034; amended Pub. L. 100–204, title III, §§ 302(a), 303, Dec. 22, 1987, 101 Stat. 1378, 1379; Pub. L. 101–246, title II, §§ 204(a)(2), 222(a), 223, Feb. 16, 1990, 104 Stat. 50, 55, 56; Pub. L. 103–199, title III, § 301(1), Dec. 17, 1993, 107 Stat. 2322; Pub. L. 103–236, title II, § 229(a), Apr. 30, 1994, 108 Stat. 423; Pub. L. 105–244, title I, § 102(a)(7)(B), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2414, Oct. 21, 1998, 112 Stat. 2681–832; Pub. L. 107–228, div. A, title II, §§ 221, 229, Sept. 30, 2002, 116 Stat. 1367, 1371; Pub. L. 117–263, div. I, title XCVI, § 9604(b)(2), Dec. 23, 2022, 136 Stat. 3912; Pub. L. 118–31, div. F, title LXVI, § 6604(b), Dec. 22, 2023, 137 Stat. 1013.)
 
 **Editorial Notes**
 
@@ -1211,9 +1211,9 @@ This chapter, referred to in subsecs. (a), (b)(1), and (d), was in the original 
 
 The FREEDOM Support Act, referred to in subsec. (d)(2), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Support for East European Democracy Act, referred to in subsec. (d)(2), probably means the Support for East European Democracy (SEED) Act of 1989, Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to chapter 63 (§ 5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
+The Support for East European Democracy Act, referred to in subsec. (d)(2), probably means the Support for East European Democracy (SEED) Act of 1989, Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to chapter 63 (§ 5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Amendments**
 
@@ -1221,19 +1221,19 @@ The Foreign Assistance Act of 1961, referred to in subsec. (d)(2), is Pub. L. 87
 
 2022—Subsec. (a)(10). Pub. L. 117–263 added par. (10) relating to exchange programs focused on music and the performing arts.
 
-2002—Subsec. (d). Pub. L. 107–228, § 221, designated existing provisions as par. (1) and added par. (2).
+2002—Subsec. (d). Pub. L. 107–228, § 221, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (g)(1). Pub. L. 107–228, § 229(1), substituted “Department of State” for “United States Information Agency”.
+Subsec. (g)(1). Pub. L. 107–228, § 229(1), substituted “Department of State” for “United States Information Agency”.
 
-Subsec. (g)(3)(A). Pub. L. 107–228, § 229(2)(A), substituted “Assistant Secretary of State for Educational and Cultural Affairs” for “Associate Director for Educational and Cultural Affairs of the United States Information Agency”.
+Subsec. (g)(3)(A). Pub. L. 107–228, § 229(2)(A), substituted “Assistant Secretary of State for Educational and Cultural Affairs” for “Associate Director for Educational and Cultural Affairs of the United States Information Agency”.
 
-Subsec. (g)(3)(B) to (G). Pub. L. 107–228, § 229(2)(B), (C), redesignated subpars. (C) to (G) as (B) to (F), respectively, and struck out former subpar. (B) which read as follows: “A senior representative of the Department of State, who shall be designated by the Secretary of State.”
+Subsec. (g)(3)(B) to (G). Pub. L. 107–228, § 229(2)(B), (C), redesignated subpars. (C) to (G) as (B) to (F), respectively, and struck out former subpar. (B) which read as follows: “A senior representative of the Department of State, who shall be designated by the Secretary of State.”
 
-Subsec. (g)(5). Pub. L. 107–228, § 229(3), substituted “Department of State” for “United States Information Agency”.
+Subsec. (g)(5). Pub. L. 107–228, § 229(3), substituted “Department of State” for “United States Information Agency”.
 
-Subsec. (g)(6)(G). Pub. L. 107–228, § 229(4), substituted “Department of State” for “United States Information Agency”.
+Subsec. (g)(6)(G). Pub. L. 107–228, § 229(4), substituted “Department of State” for “United States Information Agency”.
 
-Subsec. (g)(7). Pub. L. 107–228, § 229(5), substituted “Secretary of State, acting through the Under Secretary of State for Public Diplomacy” for “Director of the United States Information Agency”.
+Subsec. (g)(7). Pub. L. 107–228, § 229(5), substituted “Secretary of State, acting through the Under Secretary of State for Public Diplomacy” for “Director of the United States Information Agency”.
 
 1998—Subsec. (a)(8). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
@@ -1243,11 +1243,11 @@ Subsec. (g). Pub. L. 105–277 added subsec. (g).
 
 1993—Subsec. (a)(8). Pub. L. 103–199 substituted “independent states of the former Soviet Union” for “Soviet Union” in two places.
 
-1990—Subsec. (a)(8). Pub. L. 101–246, § 223, inserted “or through other programs designed to promote contact between the young peoples of the United States, the Soviet Union, and Eastern European countries” after “degree”.
+1990—Subsec. (a)(8). Pub. L. 101–246, § 223, inserted “or through other programs designed to promote contact between the young peoples of the United States, the Soviet Union, and Eastern European countries” after “degree”.
 
-Subsecs. (b) to (d). Pub. L. 101–246, § 204(a)(2), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+Subsecs. (b) to (d). Pub. L. 101–246, § 204(a)(2), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-Subsec. (e). Pub. L. 101–246, § 222(a), added subsec. (e).
+Subsec. (e). Pub. L. 101–246, § 222(a), added subsec. (e).
 
 1987—Subsec. (a)(8), (9). Pub. L. 100–204 added pars. (8) and (9).
 
@@ -1261,11 +1261,11 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-Pub. L. 101–246, title II, § 222(b), Feb. 16, 1990, 104 Stat. 56, provided that: “There are hereby transferred to the Office of Citizen Exchanges on the date of enactment of this Act [Feb. 16, 1990] all functions carried out by the Office of Private Sector Programs on the day before such date.”
+Pub. L. 101–246, title II, § 222(b), Feb. 16, 1990, 104 Stat. 56, provided that: “There are hereby transferred to the Office of Citizen Exchanges on the date of enactment of this Act [Feb. 16, 1990] all functions carried out by the Office of Private Sector Programs on the day before such date.”
 
 **Private Sector Partnerships**
 
-Pub. L. 117–263, div. I, title XCVI, § 9604(c), Dec. 23, 2022, 136 Stat. 3912, provided that:
+Pub. L. 117–263, div. I, title XCVI, § 9604(c), Dec. 23, 2022, 136 Stat. 3912, provided that:
 
 > **“(1) In general.—** The Secretary [of State] should continue—
 
@@ -1283,15 +1283,15 @@ Pub. L. 117–263, div. I, title XCVI, § 9604(c), Dec. 23, 2022, 136 Stat. 39
 
 **Information on Educational Opportunities for Children With Special Education Needs Consistent With the Individuals With Disabilities Education Act**
 
-Pub. L. 117–81, div. E, title LIII, § 5324, Dec. 27, 2021, 135 Stat. 2370, provided that: “Not later than March 31, 2022, and annually thereafter, the Director of the Office of Overseas Schools of the Department of State shall maintain and update a list of overseas schools receiving assistance from the Office and detailing the extent to which each such school provides special education and related services to children with disabilities in accordance with part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.). Each list required under this section shall be posted on the public website of the Office for access by members of the Foreign Service, the Senior Foreign Service, and their eligible family members.”
+Pub. L. 117–81, div. E, title LIII, § 5324, Dec. 27, 2021, 135 Stat. 2370, provided that: “Not later than March 31, 2022, and annually thereafter, the Director of the Office of Overseas Schools of the Department of State shall maintain and update a list of overseas schools receiving assistance from the Office and detailing the extent to which each such school provides special education and related services to children with disabilities in accordance with part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.). Each list required under this section shall be posted on the public website of the Office for access by members of the Foreign Service, the Senior Foreign Service, and their eligible family members.”
 
 **Private Sector Program; Restrictions on Funds for Foreign Travel; Waiver; Reports**
 
-Pub. L. 98–164, title II, § 207, Nov. 22, 1983, 97 Stat. 1032, as amended by Pub. L. 103–236, title I, § 139(11), Apr. 30, 1994, 108 Stat. 398, provided that:
+Pub. L. 98–164, title II, § 207, Nov. 22, 1983, 97 Stat. 1032, as amended by Pub. L. 103–236, title I, § 139(11), Apr. 30, 1994, 108 Stat. 398, provided that:
 
 > **“(a)** No funds authorized to be appropriated for the Private Sector Program shall be used to pay for foreign travel by any United States citizen who, in the five years preceding the date of the proposed foreign travel, made two or more trips financed in whole or in substantial part by grants from the Private Sector Program. This limitation shall not apply to escort interpreters accompanying delegations, to artists accompanying exhibitions, to persons engaging in theatrical or musical performances, or to the full-time staff of the grantee organization. In addition, the Director of the Bureau of Educational and Cultural Affairs may waive this limitation in exceptional cases if he determines that foreign travel is essential to the successful completion of the grant program and so certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate at least fifteen days prior to the commencement of the proposed foreign travel.
 
-> **“[(b)** Repealed. Pub. L. 103–236, title I, § 139(11), Apr. 30, 1994, 108 Stat. 398.]”
+> **“[(b)** Repealed. Pub. L. 103–236, title I, § 139(11), Apr. 30, 1994, 108 Stat. 398.]”
 
 **Definitions**
 
@@ -1339,7 +1339,7 @@ William J. Clinton.
 
 [For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.]
 
-## § 2461. Exchanges between United States and independent states of the former Soviet Union
+## § 2461. Exchanges between United States and independent states of the former Soviet Union
 
 **(a) Financing of exchanges with repayments on Lend-Lease debts**
 
@@ -1349,7 +1349,7 @@ The President is authorized to negotiate and implement agreements with the indep
 
 Funds made available for the purposes of this section shall be available only to the extent and in the amounts provided for in an appropriation Act.
 
-(Pub. L. 87–256, § 113, as added Pub. L. 101–246, title II, § 224, Feb. 16, 1990, 104 Stat. 56; amended Pub. L. 103–199, title III, § 301(2), Dec. 17, 1993, 107 Stat. 2322.)
+(Pub. L. 87–256, § 113, as added Pub. L. 101–246, title II, § 224, Feb. 16, 1990, 104 Stat. 56; amended Pub. L. 103–199, title III, § 301(2), Dec. 17, 1993, 107 Stat. 2322.)
 
 **Editorial Notes**
 
@@ -1359,9 +1359,9 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 **Amendments**
 
-1993—Pub. L. 103–199, § 301(2)(A), substituted “Exchanges between United States and independent states of the former Soviet Union” for “United States-Soviet exchanges” in section catchline.
+1993—Pub. L. 103–199, § 301(2)(A), substituted “Exchanges between United States and independent states of the former Soviet Union” for “United States-Soviet exchanges” in section catchline.
 
-Subsec. (a). Pub. L. 103–199, § 301(2)(B)–(E), substituted “agreements with the independent states of the former Soviet Union” for “an agreement with the Union of Soviet Socialist Republics”, “made by the independent states” for “made by the Soviet Union”, “and the independent states” for “and the Soviet Union”, and “in the United States by citizens of the independent states” for “by Soviet citizens in the United States”.
+Subsec. (a). Pub. L. 103–199, § 301(2)(B)–(E), substituted “agreements with the independent states of the former Soviet Union” for “an agreement with the Union of Soviet Socialist Republics”, “made by the independent states” for “made by the Soviet Union”, “and the independent states” for “and the Soviet Union”, and “in the United States by citizens of the independent states” for “by Soviet citizens in the United States”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1369,7 +1369,7 @@ Subsec. (a). Pub. L. 103–199, § 301(2)(B)–(E), substituted “agreements 
 
 In subsec. (a), independent states of the former Soviet Union and independent states have the meanings given in section 5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
 
-## § 2462. Establishment of grant program for foreign study by American college students of limited financial means
+## § 2462. Establishment of grant program for foreign study by American college students of limited financial means
 
 **(a) Establishment**
 
@@ -1395,7 +1395,7 @@ Subject to the availability of appropriations and under the authorities of the M
 
 **(B)** priority consideration shall be given to applicants who are receiving Federal Pell Grants under title IV of the Higher Education Act of 1965 [20 U.S.C. 1070 et seq.].
 
-(Pub. L. 106–309, title III, § 303, Oct. 17, 2000, 114 Stat. 1095.)
+(Pub. L. 106–309, title III, § 303, Oct. 17, 2000, 114 Stat. 1095.)
 
 **Editorial Notes**
 
@@ -1405,7 +1405,7 @@ The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec.
 
 This Act, referred to in subsec. (a), probably means title III of Pub. L. 106–309, Oct. 17, 2000, 114 Stat. 1094, known as the International Academic Opportunity Act of 2000, which enacted this section and provisions set out as notes under this section. For complete classification of this Act to the Code, see Tables.
 
-The Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 **Codification**
 
@@ -1415,7 +1415,7 @@ Section was enacted as part of the International Academic Opportunity Act of 200
 
 **International Academic Opportunity**
 
-Pub. L. 106–309, title III, Oct. 17, 2000, 114 Stat. 1094, as amended by Pub. L. 117–263, div. I, title XCVII, § 9716(e), Dec. 23, 2022, 136 Stat. 3922, provided that:
+Pub. L. 106–309, title III, Oct. 17, 2000, 114 Stat. 1094, as amended by Pub. L. 117–263, div. I, title XCVII, § 9716(e), Dec. 23, 2022, 136 Stat. 3922, provided that:
 
 > **“SEC. 301. SHORT TITLE.**
 
@@ -1431,7 +1431,7 @@ Pub. L. 106–309, title III, Oct. 17, 2000, 114 Stat. 1094, as amended by Pub. 
 
 > **“[SEC. 304.**
 
-> Repealed. Pub. L. 117–263, div. I, title XCVII, § 9716(e), Dec. 23, 2022, 136 Stat. 3922.]
+> Repealed. Pub. L. 117–263, div. I, title XCVII, § 9716(e), Dec. 23, 2022, 136 Stat. 3922.]
 
 > **“SEC. 305. AUTHORIZATION OF APPROPRIATIONS.**
 
@@ -1441,13 +1441,13 @@ Pub. L. 106–309, title III, Oct. 17, 2000, 114 Stat. 1094, as amended by Pub. 
 
 > “This title shall take effect October 1, 2000.”
 
-## § 2463. Allocation of funds transferred to the Bureau of Educational and Cultural Affairs
+## § 2463. Allocation of funds transferred to the Bureau of Educational and Cultural Affairs
 
 Of each amount transferred to the Bureau of Educational and Cultural Affairs out of appropriations other than appropriations under the heading “Educational and Cultural Exchange Programs” for support of an educational or cultural exchange program, notwithstanding any other provision of law, not more than 7.5 percent shall be made available to cover administrative expenses incurred in connection with support of the program. Amounts made available to cover administrative expenses shall be credited to the appropriations under the heading “Educational and Cultural Exchange Programs” and shall remain available until expended.
 
-(Pub. L. 87–256, § 114, as added Pub. L. 107–77, title IV, § 406, Nov. 28, 2001, 115 Stat. 790.)
+(Pub. L. 87–256, § 114, as added Pub. L. 107–77, title IV, § 406, Nov. 28, 2001, 115 Stat. 790.)
 
-## § 2464. Ethical issues in international health research
+## § 2464. Ethical issues in international health research
 
 **(a) In general**
 
@@ -1461,7 +1461,7 @@ The Secretary shall coordinate programs conducted pursuant to this section with 
 
 For purposes of subsection (a), the phrase “activities related to ethical issues in human subject research” includes courses of study, conferences, and fora on development of and compliance with international ethical standards for clinical trials involving human subjects, particularly with respect to responsibilities of researchers to individuals and local communities participating in such trials, and on management and monitoring of such trials based on such international ethical standards.
 
-(Pub. L. 107–228, div. A, title II, § 228, Sept. 30, 2002, 116 Stat. 1371.)
+(Pub. L. 107–228, div. A, title II, § 228, Sept. 30, 2002, 116 Stat. 1371.)
 
 **Editorial Notes**
 
@@ -1475,7 +1475,7 @@ Section was enacted as part of the Department of State Authorization Act, Fiscal
 
 For definition of “Secretary” as used in this section, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.
 
-## § 2465. John Lewis Civil Rights Fellowship Program
+## § 2465. John Lewis Civil Rights Fellowship Program
 
 **(a) Establishment**
 
@@ -1569,7 +1569,7 @@ Each fellowship under this section shall continue for a period determined by the
 
 **(4)** an analysis of trends relating to the diversity of each cohort of fellows and the topics of projects completed since the establishment of the Fellowship Program.
 
-(Pub. L. 87–256, § 115, as added Pub. L. 118–31, div. F, title LXVI, § 6604(a), Dec. 22, 2023, 137 Stat. 1011.)
+(Pub. L. 87–256, § 115, as added Pub. L. 118–31, div. F, title LXVI, § 6604(a), Dec. 22, 2023, 137 Stat. 1011.)
 
 **Termination of Section**
 
@@ -1579,4 +1579,4 @@ For termination of section by section 6604(c) of Pub. L. 118–31, see Terminati
 
 **Termination Date**
 
-Pub. L. 118–31, div. F, title LXVI, § 6604(c), Dec. 22, 2023, 137 Stat. 1013, provided that: “The authority to carry out the John Lewis Civil Rights Fellowship Program established under section 115 of the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2451 et seq.) [22 U.S.C. 2465], as added by subsection (a), shall expire on the date that is 10 years after the date of the enactment of this division [Dec. 22, 2023].”
+Pub. L. 118–31, div. F, title LXVI, § 6604(c), Dec. 22, 2023, 137 Stat. 1013, provided that: “The authority to carry out the John Lewis Civil Rights Fellowship Program established under section 115 of the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2451 et seq.) [22 U.S.C. 2465], as added by subsection (a), shall expire on the date that is 10 years after the date of the enactment of this division [Dec. 22, 2023].”

@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 3(b)(3), (d), Sept. 16, 2011, 125 Stat. 287, substituted in item 102 “Conditions for patentability; novelty” for “Conditions for patentability; novelty and loss of right to patent” and struck out item 104 “Invention made abroad”.
+2011—Pub. L. 112–29, § 3(b)(3), (d), Sept. 16, 2011, 125 Stat. 287, substituted in item 102 “Conditions for patentability; novelty” for “Conditions for patentability; novelty and loss of right to patent” and struck out item 104 “Invention made abroad”.
 
-1990—Pub. L. 101–580, § 1(b), Nov. 15, 1990, 104 Stat. 2863, added item 105.
+1990—Pub. L. 101–580, § 1(b), Nov. 15, 1990, 104 Stat. 2863, added item 105.
 
-## § 100. Definitions
+## § 100. Definitions
 
 When used in this title unless the context otherwise indicates—
 
@@ -55,7 +55,7 @@ When used in this title unless the context otherwise indicates—
 
 **(j)** The term “claimed invention” means the subject matter defined by a claim in a patent or an application for a patent.
 
-(July 19, 1952, ch. 950, 66 Stat. 797; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4603], Nov. 29, 1999, 113 Stat. 1536, 1501A–567; Pub. L. 112–29, § 3(a), Sept. 16, 2011, 125 Stat. 285; Pub. L. 112–211, title I, § 102(1), Dec. 18, 2012, 126 Stat. 1531.)
+(July 19, 1952, ch. 950, 66 Stat. 797; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4603], Nov. 29, 1999, 113 Stat. 1536, 1501A–567; Pub. L. 112–29, § 3(a), Sept. 16, 2011, 125 Stat. 285; Pub. L. 112–211, title I, § 102(1), Dec. 18, 2012, 126 Stat. 1531.)
 
 **Historical and Revision Notes**
 
@@ -71,9 +71,9 @@ Paragraphs (c) and (d) are added to avoid the use of long expressions in various
 
 2012—Subsec. (i)(1)(B). Pub. L. 112–211 substituted “right of priority under section 119, 365(a), 365(b), 386(a), or 386(b) or to the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c)” for “right of priority under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date under section 120, 121, or 365(c)”.
 
-2011—Subsec. (e). Pub. L. 112–29, § 3(a)(1), struck out “or inter partes reexamination under section 311” after “302”.
+2011—Subsec. (e). Pub. L. 112–29, § 3(a)(1), struck out “or inter partes reexamination under section 311” after “302”.
 
-Subsecs. (f) to (j). Pub. L. 112–29, § 3(a)(2), added subsecs. (f) to (j).
+Subsecs. (f) to (j). Pub. L. 112–29, § 3(a)(2), added subsecs. (f) to (j).
 
 1999—Subsec. (e). Pub. L. 106–113 added subsec. (e).
 
@@ -81,7 +81,7 @@ Subsecs. (f) to (j). Pub. L. 112–29, § 3(a)(2), added subsecs. (f) to (j).
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–211, title I, § 103, Dec. 18, 2012, 126 Stat. 1532, provided that:
+Pub. L. 112–211, title I, § 103, Dec. 18, 2012, 126 Stat. 1532, provided that:
 
 > **“(a) In General.—** The amendments made by this title [enacting part V of this title and amending this section and sections 102, 111, 115, 120, 154, 173, 365, and 366 of this title] shall take effect on the later of—
 
@@ -105,7 +105,7 @@ Pub. L. 112–211, title I, § 103, Dec. 18, 2012, 126 Stat. 1532, provided th
 
 **Effective Date of 2011 Amendment; Savings Provisions**
 
-Pub. L. 112–29, § 3(n), Sept. 16, 2011, 125 Stat. 293, provided that:
+Pub. L. 112–29, § 3(n), Sept. 16, 2011, 125 Stat. 293, provided that:
 
 > **“(1) In general.—** Except as otherwise provided in this section [amending this section and sections 32, 102, 103, 111, 119, 120, 134, 135, 145, 146, 154, 172, 202, 287, 291, 305, 363, 374, and 375 of this title, repealing sections 104 and 157 of this title, and enacting provisions set out as notes under sections 32, 102, and 111 of this title], the amendments made by this section shall take effect upon the expiration of the 18-month period beginning on the date of the enactment of this Act [Sept. 16, 2011], and shall apply to any application for patent, and to any patent issuing thereon, that contains or contained at any time—
 
@@ -121,9 +121,9 @@ Pub. L. 112–29, § 3(n), Sept. 16, 2011, 125 Stat. 293, provided that:
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as a note under section 41 of this title.
+Amendment by Pub. L. 106–113 effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as a note under section 41 of this title.
 
-## § 101. Inventions patentable
+## § 101. Inventions patentable
 
 Whoever invents or discovers any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof, may obtain a patent therefor, subject to the conditions and requirements of this title.
 
@@ -131,7 +131,7 @@ Whoever invents or discovers any new and useful process, machine, manufacture, o
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 31 (R.S. 4886, amended (1) Mar. 3, 1897, ch. 391, § 1, 29 Stat. 692, (2) May 23, 1930, ch. 312, § 1, 46 Stat. 376, (3) Aug. 5, 1939, ch. 450, § 1, 53 Stat. 1212).
+Based on Title 35, U.S.C., 1946 ed., § 31 (R.S. 4886, amended (1) Mar. 3, 1897, ch. 391, § 1, 29 Stat. 692, (2) May 23, 1930, ch. 312, § 1, 46 Stat. 376, (3) Aug. 5, 1939, ch. 450, § 1, 53 Stat. 1212).
 
 The corresponding section of existing statute is split into two sections, section 101 relating to the subject matter for which patents may be obtained, and section 102 defining statutory novelty and stating other conditions for patentability.
 
@@ -141,7 +141,7 @@ Section 101 follows the wording of the existing statute as to the subject matter
 
 **Limitation on Issuance of Patents**
 
-Pub. L. 112–29, § 33, Sept. 16, 2011, 125 Stat. 340, provided that:
+Pub. L. 112–29, § 33, Sept. 16, 2011, 125 Stat. 340, provided that:
 
 > **“(a) Limitation.—** Notwithstanding any other provision of law, no patent may issue on a claim directed to or encompassing a human organism.
 
@@ -151,7 +151,7 @@ Pub. L. 112–29, § 33, Sept. 16, 2011, 125 Stat. 340, provided that:
 
 > **“(2) Prior applications.—** Subsection (a) shall not affect the validity of any patent issued on an application to which paragraph (1) does not apply.”
 
-## § 102. Conditions for patentability; novelty
+## § 102. Conditions for patentability; novelty
 
 **(a) Novelty; Prior Art.—** A person shall be entitled to a patent unless—
 
@@ -189,15 +189,15 @@ Pub. L. 112–29, § 33, Sept. 16, 2011, 125 Stat. 340, provided that:
 
 **(2)** if the patent or application for patent is entitled to claim a right of priority under section 119, 365(a), 365(b), 386(a), or 386(b), or to claim the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c), based upon 1 or more prior filed applications for patent, as of the filing date of the earliest such application that describes the subject matter.
 
-(July 19, 1952, ch. 950, 66 Stat. 797; Pub. L. 92–358, § 2, July 28, 1972, 86 Stat. 502; Pub. L. 94–131, § 5, Nov. 14, 1975, 89 Stat. 691; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4505, 4806], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–590; Pub. L. 107–273, div. C, title III, § 13205(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 112–29, § 3(b)(1), Sept. 16, 2011, 125 Stat. 285; Pub. L. 112–211, title I, § 102(2), Dec. 18, 2012, 126 Stat. 1531.)
+(July 19, 1952, ch. 950, 66 Stat. 797; Pub. L. 92–358, § 2, July 28, 1972, 86 Stat. 502; Pub. L. 94–131, § 5, Nov. 14, 1975, 89 Stat. 691; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4505, 4806], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–590; Pub. L. 107–273, div. C, title III, § 13205(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 112–29, § 3(b)(1), Sept. 16, 2011, 125 Stat. 285; Pub. L. 112–211, title I, § 102(2), Dec. 18, 2012, 126 Stat. 1531.)
 
 **Historical and Revision Notes**
 
-Paragraphs (a), (b), and (c) are based on Title 35, U.S.C., 1946 ed., § 31 (R.S. 4886, amended (1) Mar. 3, 1897, ch. 391, § 1, 29 Stat. 692, (2) May 23, 1930, ch. 312, § 1, 46 Stat. 376, (3) Aug. 5, 1939, ch. 450, § 1, 53 Stat. 1212).
+Paragraphs (a), (b), and (c) are based on Title 35, U.S.C., 1946 ed., § 31 (R.S. 4886, amended (1) Mar. 3, 1897, ch. 391, § 1, 29 Stat. 692, (2) May 23, 1930, ch. 312, § 1, 46 Stat. 376, (3) Aug. 5, 1939, ch. 450, § 1, 53 Stat. 1212).
 
-No change is made in these paragraphs other than that due to division into lettered paragraphs. The interpretation by the courts of paragraph (a) as being more restricted than the actual language would suggest (for example, “known” has been held to mean “publicly known”) is recognized but no change in the language is made at this time. Paragraph (a) together with section 104 contains the substance of Title 35, U.S.C., 1946 ed., § 72 (R.S. 4923).
+No change is made in these paragraphs other than that due to division into lettered paragraphs. The interpretation by the courts of paragraph (a) as being more restricted than the actual language would suggest (for example, “known” has been held to mean “publicly known”) is recognized but no change in the language is made at this time. Paragraph (a) together with section 104 contains the substance of Title 35, U.S.C., 1946 ed., § 72 (R.S. 4923).
 
-Paragraph (d) is based on Title 35, U.S.C., 1946 ed., § 32, first paragraph (R.S. 4887 (first paragraph), amended (1) Mar. 3, 1897, ch. 391, § 3, 29 Stat. 692, 693, (2) Mar. 3, 1903, ch. 1019, § 1, 32 Stat. 1225, 1226, (3) June 19, 1936, ch. 594, 49 Stat. 1529).
+Paragraph (d) is based on Title 35, U.S.C., 1946 ed., § 32, first paragraph (R.S. 4887 (first paragraph), amended (1) Mar. 3, 1897, ch. 391, § 3, 29 Stat. 692, 693, (2) Mar. 3, 1903, ch. 1019, § 1, 32 Stat. 1225, 1226, (3) June 19, 1936, ch. 594, 49 Stat. 1529).
 
 The section has been changed so that the prior foreign patent is not a bar unless it was granted before the filing of the application in the United States.
 
@@ -205,7 +205,7 @@ Paragraph (e) is new and enacts the rule of *Milburn* v. *Davis-Bournonville*, 2
 
 Paragraph (f) indicates the necessity for the inventor as the party applying for patent. Subsequent sections permit certain persons to apply in place of the inventor under special circumstances.
 
-Paragraph (g) is derived from Title 35, U.S.C., 1946 ed., § 69 (R.S. 4920, amended (1) Mar. 3, 1897, ch. 391, § 2, 29 Stat. 692, (2) Aug. 5, 1939, ch. 450, § 1, 53 Stat. 1212), the second defense recited in this section. This paragraph retains the present rules of law governing the determination of priority of invention.
+Paragraph (g) is derived from Title 35, U.S.C., 1946 ed., § 69 (R.S. 4920, amended (1) Mar. 3, 1897, ch. 391, § 2, 29 Stat. 692, (2) Aug. 5, 1939, ch. 450, § 1, 53 Stat. 1212), the second defense recited in this section. This paragraph retains the present rules of law governing the determination of priority of invention.
 
 Language relating specifically to designs is omitted for inclusion in subsequent sections.
 
@@ -217,15 +217,15 @@ Language relating specifically to designs is omitted for inclusion in subsequent
 
 2011—Pub. L. 112–29 amended section generally. Prior to amendment, section related to conditions for patentability; novelty and loss of right to patent.
 
-2002—Subsec. (e). Pub. L. 107–273, amended Pub. L. 106–113, § 1000(a)(9) [title IV, § 4505]. See 1999 Amendment note below. Prior to being amended by Pub. L. 107–273, Pub. L. 106–113, § 1000(a)(9) [title IV, § 4505], had amended subsec. (e) to read as follows: “The invention was described in—
+2002—Subsec. (e). Pub. L. 107–273, amended Pub. L. 106–113, § 1000(a)(9) [title IV, § 4505]. See 1999 Amendment note below. Prior to being amended by Pub. L. 107–273, Pub. L. 106–113, § 1000(a)(9) [title IV, § 4505], had amended subsec. (e) to read as follows: “The invention was described in—
 
 “(1) an application for patent, published under section 122(b), by another filed in the United States before the invention by the applicant for patent, except that an international application filed under the treaty defined in section 351(a) shall have the effect under this subsection of a national application published under section 122(b) only if the international application designating the United States was published under Article 21(2)(a) of such treaty in the English language; or
 
 “(2) a patent granted on an application for patent by another filed in the United States before the invention by the applicant for patent, except that a patent shall not be deemed filed in the United States for the purposes of this subsection based on the filing of an international application filed under the treaty defined in section 351(a); or”.
 
-1999—Subsec. (e). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4505], as amended by Pub. L. 107–273, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “the invention was described in a patent granted on an application for patent by another filed in the United States before the invention thereof by the applicant for patent, or on an international application by another who has fulfilled the requirements of paragraphs (1), (2), and (4) of section 371(c) of this title before the invention thereof by the applicant for patent, or”.
+1999—Subsec. (e). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4505], as amended by Pub. L. 107–273, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “the invention was described in a patent granted on an application for patent by another filed in the United States before the invention thereof by the applicant for patent, or on an international application by another who has fulfilled the requirements of paragraphs (1), (2), and (4) of section 371(c) of this title before the invention thereof by the applicant for patent, or”.
 
-Subsec. (g). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4806], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “before the applicant’s invention thereof the invention was made in this country by another who had not abandoned, suppressed, or concealed it. In determining priority of invention there shall be considered not only the respective dates of conception and reduction to practice of the invention, but also the reasonable diligence of one who was first to conceive and last to reduce to practice, from a time prior to conception by the other.”
+Subsec. (g). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4806], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “before the applicant’s invention thereof the invention was made in this country by another who had not abandoned, suppressed, or concealed it. In determining priority of invention there shall be considered not only the respective dates of conception and reduction to practice of the invention, but also the reasonable diligence of one who was first to conceive and last to reduce to practice, from a time prior to conception by the other.”
 
 1975—Par. (e). Pub. L. 94–131 inserted provision for nonentitlement to a patent where the invention was described in a patent granted on an international application by another who has fulfilled the requirements of pars. (1), (2), and (4) of section 371(c) of this title before the invention thereof by the applicant for patent.
 
@@ -243,7 +243,7 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 18-month peri
 
 **Effective Date of 1999 Amendment**
 
-Amendment by section 1000(a)(9) [title IV, § 4505] of Pub. L. 106–113 effective Nov. 29, 2000 and applicable to all patents and all applications for patents pending on or filed after Nov. 29, 2000, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
+Amendment by section 1000(a)(9) [title IV, § 4505] of Pub. L. 106–113 effective Nov. 29, 2000 and applicable to all patents and all applications for patents pending on or filed after Nov. 29, 2000, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
 **Effective Date of 1975 Amendment**
 
@@ -251,7 +251,7 @@ Amendment by Pub. L. 94–131 effective Jan. 24, 1978, and applicable on and aft
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–358, § 3(b), July 28, 1972, 86 Stat. 502, provided that: “Section 2 of this Act [amending this section] shall take effect six months from the date when Articles 1 to 12 of the Paris Convention of March 20, 1883, for the Protection of Industrial Property, as revised at Stockholm, July 14, 1967, come into force with respect to the United States [Aug. 25, 1973] and shall apply to applications thereafter filed in the United States.”
+Pub. L. 92–358, § 3(b), July 28, 1972, 86 Stat. 502, provided that: “Section 2 of this Act [amending this section] shall take effect six months from the date when Articles 1 to 12 of the Paris Convention of March 20, 1883, for the Protection of Industrial Property, as revised at Stockholm, July 14, 1967, come into force with respect to the United States [Aug. 25, 1973] and shall apply to applications thereafter filed in the United States.”
 
 **Savings Provisions**
 
@@ -259,11 +259,11 @@ Provisions of former subsec. (g) of this section, as in effect on the day before
 
 **Continuity of Intent Under the CREATE Act**
 
-Pub. L. 112–29, § 3(b)(2), Sept. 16, 2011, 125 Stat. 287, provided that: “The enactment of section 102(c) of title 35, United States Code, under paragraph (1) of this subsection is done with the same intent to promote joint research activities that was expressed, including in the legislative history, through the enactment of the Cooperative Research and Technology Enhancement Act of 2004 (Public Law 108–453; the ‘CREATE Act’) [see Short Title of 2004 Amendment note set out under section 1 of this title], the amendments of which are stricken by subsection (c) of this section [amending section 103 of this title]. The United States Patent and Trademark Office shall administer section 102(c) of title 35, United States Code, in a manner consistent with the legislative history of the CREATE Act that was relevant to its administration by the United States Patent and Trademark Office.”
+Pub. L. 112–29, § 3(b)(2), Sept. 16, 2011, 125 Stat. 287, provided that: “The enactment of section 102(c) of title 35, United States Code, under paragraph (1) of this subsection is done with the same intent to promote joint research activities that was expressed, including in the legislative history, through the enactment of the Cooperative Research and Technology Enhancement Act of 2004 (Public Law 108–453; the ‘CREATE Act’) [see Short Title of 2004 Amendment note set out under section 1 of this title], the amendments of which are stricken by subsection (c) of this section [amending section 103 of this title]. The United States Patent and Trademark Office shall administer section 102(c) of title 35, United States Code, in a manner consistent with the legislative history of the CREATE Act that was relevant to its administration by the United States Patent and Trademark Office.”
 
 **Tax Strategies Deemed Within the Prior Art**
 
-Pub. L. 112–29, § 14, Sept. 16, 2011, 125 Stat. 327, provided that:
+Pub. L. 112–29, § 14, Sept. 16, 2011, 125 Stat. 327, provided that:
 
 > **“(a) In General.—** For purposes of evaluating an invention under section 102 or 103 of title 35, United States Code, any strategy for reducing, avoiding, or deferring tax liability, whether known or unknown at the time of the invention or application for patent, shall be deemed insufficient to differentiate a claimed invention from the prior art.
 
@@ -283,11 +283,11 @@ Pub. L. 112–29, § 14, Sept. 16, 2011, 125 Stat. 327, provided that:
 
 Relief as to filing date of patent application or patent affected by postal situation beginning on Mar. 18, 1970, and ending on or about Mar. 30, 1970, but patents issued with earlier filing dates not effective as prior art under subsec. (e) of this section as of such earlier filing dates, see section 1(a) of Pub. L. 92–34, formerly set out in a note under section 111 of this title.
 
-## § 103. Conditions for patentability; non-obvious subject matter
+## § 103. Conditions for patentability; non-obvious subject matter
 
 A patent for a claimed invention may not be obtained, notwithstanding that the claimed invention is not identically disclosed as set forth in section 102, if the differences between the claimed invention and the prior art are such that the claimed invention as a whole would have been obvious before the effective filing date of the claimed invention to a person having ordinary skill in the art to which the claimed invention pertains. Patentability shall not be negated by the manner in which the invention was made.
 
-(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 98–622, title I, § 103, Nov. 8, 1984, 98 Stat. 3384; Pub. L. 104–41, § 1, Nov. 1, 1995, 109 Stat. 351; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4807(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–591; Pub. L. 108–453, § 2, Dec. 10, 2004, 118 Stat. 3596; Pub. L. 112–29, §§ 3(c), 20(j), Sept. 16, 2011, 125 Stat. 287, 335.)
+(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 98–622, title I, § 103, Nov. 8, 1984, 98 Stat. 3384; Pub. L. 104–41, § 1, Nov. 1, 1995, 109 Stat. 351; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4807(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–591; Pub. L. 108–453, § 2, Dec. 10, 2004, 118 Stat. 3596; Pub. L. 112–29, §§ 3(c), 20(j), Sept. 16, 2011, 125 Stat. 287, 335.)
 
 **Historical and Revision Notes**
 
@@ -299,9 +299,9 @@ The second sentence states that patentability as to this requirement is not to b
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 3(c), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) and related to conditions for patentability; non-obvious subject matter.
+2011—Pub. L. 112–29, § 3(c), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) and related to conditions for patentability; non-obvious subject matter.
 
-Subsecs. (a), (c)(1). Pub. L. 112–29, § 20(j), struck out “of this title” after “102”.
+Subsecs. (a), (c)(1). Pub. L. 112–29, § 20(j), struck out “of this title” after “102”.
 
 2004—Subsec. (c). Pub. L. 108–453 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Subject matter developed by another person, which qualifies as prior art only under one or more of subsections (e), (f), and (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.”
 
@@ -321,7 +321,7 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–453, § 3, Dec. 10, 2004, 118 Stat. 3596, provided that:
+Pub. L. 108–453, § 3, Dec. 10, 2004, 118 Stat. 3596, provided that:
 
 > **“(a) In General.—** The amendments made by this Act [amending this section] shall apply to any patent granted on or after the date of the enactment of this Act [Dec. 10, 2004].
 
@@ -329,15 +329,15 @@ Pub. L. 108–453, § 3, Dec. 10, 2004, 118 Stat. 3596, provided that:
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4807(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–591, provided that: “The amendment made by this section [amending this section] shall apply to any application for patent filed on or after the date of the enactment of this Act [Nov. 29, 1999].”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4807(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–591, provided that: “The amendment made by this section [amending this section] shall apply to any application for patent filed on or after the date of the enactment of this Act [Nov. 29, 1999].”
 
 **Effective Date of 1995 Amendment**
 
-Pub. L. 104–41, § 3, Nov. 1, 1995, 109 Stat. 352, provided that: “The amendments made by section 1 [amending this section] shall apply to any application for patent filed on or after the date of enactment of this Act [Nov. 1, 1995] and to any application for patent pending on such date of enactment, including (in either case) an application for the reissuance of a patent.”
+Pub. L. 104–41, § 3, Nov. 1, 1995, 109 Stat. 352, provided that: “The amendments made by section 1 [amending this section] shall apply to any application for patent filed on or after the date of enactment of this Act [Nov. 1, 1995] and to any application for patent pending on such date of enactment, including (in either case) an application for the reissuance of a patent.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–622, title I, § 106, Nov. 8, 1984, 98 Stat. 3385, provided that:
+Pub. L. 98–622, title I, § 106, Nov. 8, 1984, 98 Stat. 3385, provided that:
 
 > **“(a)** Subject to subsections (b), (c), (d), and (e) of this section, the amendments made by this Act [probably should be “this title”, meaning title I of Pub. L. 98–622, enacting section 157 of this title, amending this section and sections 116, 120, 135, and 271 of this title, and enacting a provision set out as a note under section 157 of this title] shall apply to all United States patents granted before, on, or after the date of enactment of this Act [Nov. 8, 1984], and to all applications for United States patents pending on or filed after the date of enactment.
 
@@ -349,9 +349,9 @@ Pub. L. 98–622, title I, § 106, Nov. 8, 1984, 98 Stat. 3385, provided that:
 
 > **“(e)** The amendments made by this Act shall not affect the right of any party in any case pending in court on the date of enactment [Nov. 8, 1984] to have their rights determined on the basis of the substantive law in effect prior to the date of enactment.”
 
-## [§ 104. Repealed. Pub. L. 112–29, § 3(d), Sept. 16, 2011, 125 Stat. 287]
+## [§ 104. Repealed. Pub. L. 112–29, § 3(d), Sept. 16, 2011, 125 Stat. 287]
 
-Section, act July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, § 6, Nov. 14, 1975, 89 Stat. 691; Pub. L. 98–622, title IV, § 403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 103–182, title III, § 331, Dec. 8, 1993, 107 Stat. 2113; Pub. L. 103–465, title V, § 531(a), Dec. 8, 1994, 108 Stat. 4982; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335, related to inventions made abroad.
+Section, act July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, § 6, Nov. 14, 1975, 89 Stat. 691; Pub. L. 98–622, title IV, § 403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 103–182, title III, § 331, Dec. 8, 1993, 107 Stat. 2113; Pub. L. 103–465, title V, § 531(a), Dec. 8, 1994, 108 Stat. 4982; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335, related to inventions made abroad.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -359,19 +359,19 @@ Section, act July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 93–596, § 1, Jan
 
 Repeal effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
 
-## § 105. Inventions in outer space
+## § 105. Inventions in outer space
 
 **(a)** Any invention made, used or sold in outer space on a space object or component thereof under the jurisdiction or control of the United States shall be considered to be made, used or sold within the United States for the purposes of this title, except with respect to any space object or component thereof that is specifically identified and otherwise provided for by an international agreement to which the United States is a party, or with respect to any space object or component thereof that is carried on the registry of a foreign state in accordance with the Convention on Registration of Objects Launched into Outer Space.
 
 **(b)** Any invention made, used or sold in outer space on a space object or component thereof that is carried on the registry of a foreign state in accordance with the Convention on Registration of Objects Launched into Outer Space, shall be considered to be made, used or sold within the United States for the purposes of this title if specifically so agreed in an international agreement between the United States and the state of registry.
 
-(Added Pub. L. 101–580, § 1(a), Nov. 15, 1990, 104 Stat. 2863.)
+(Added Pub. L. 101–580, § 1(a), Nov. 15, 1990, 104 Stat. 2863.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date; Special Rules**
 
-Pub. L. 101–580, § 2, Nov. 15, 1990, 104 Stat. 2863, provided that:
+Pub. L. 101–580, § 2, Nov. 15, 1990, 104 Stat. 2863, provided that:
 
 > **“(a) Effective Date.—** Subject to subsections (b), (c), and (d) of this section, the amendments made by the first section of this Act [enacting this section] shall apply to all United States patents granted before, on, or after the date of enactment of this Act [Nov. 15, 1990], and to all applications for United States patents pending on or filed on or after such date of enactment.
 

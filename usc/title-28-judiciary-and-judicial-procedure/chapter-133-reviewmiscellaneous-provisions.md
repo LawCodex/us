@@ -25,19 +25,19 @@ This section inserts in the chapter analysis of chapter 133 of title 28, U.S.C.,
 
 **Amendments**
 
-1988—Pub. L. 100–352, § 5(c), (d)(2), June 27, 1988, 102 Stat. 663, struck out item 2103 “Appeal from State court or from a United States court of appeals improvidently taken regarded as petition for writ of certiorari” and substituted “Reviews of State court decisions” for “Appeals from State courts” in item 2104.
+1988—Pub. L. 100–352, § 5(c), (d)(2), June 27, 1988, 102 Stat. 663, struck out item 2103 “Appeal from State court or from a United States court of appeals improvidently taken regarded as petition for writ of certiorari” and substituted “Reviews of State court decisions” for “Appeals from State courts” in item 2104.
 
-1982—Pub. L. 97–164, title I, § 136, Apr. 2, 1982, 96 Stat. 41, struck out item 2110 “Time for appeal to Court of Claims in tort claims cases”.
+1982—Pub. L. 97–164, title I, § 136, Apr. 2, 1982, 96 Stat. 41, struck out item 2110 “Time for appeal to Court of Claims in tort claims cases”.
 
-1970—Pub. L. 91–358, title I, § 172(a)(2)(B), July 29, 1970, 84 Stat. 590, added item 2113.
+1970—Pub. L. 91–358, title I, § 172(a)(2)(B), July 29, 1970, 84 Stat. 590, added item 2113.
 
-1962—Pub. L. 87–669, § 2, Sept. 19, 1962, 76 Stat. 556, substituted “or from a United States court of appeals improvidently taken regarded as petition for” for “improvidently taken regarded as” in item 2103.
+1962—Pub. L. 87–669, § 2, Sept. 19, 1962, 76 Stat. 556, substituted “or from a United States court of appeals improvidently taken regarded as petition for” for “improvidently taken regarded as” in item 2103.
 
-1958—Pub. L. 85–791, § 1, Aug. 28, 1958, 72 Stat. 941, added item 2112.
+1958—Pub. L. 85–791, § 1, Aug. 28, 1958, 72 Stat. 941, added item 2112.
 
-1949—Act May 24, 1949, ch. 139, § 105, 63 Stat. 104, added item 2111.
+1949—Act May 24, 1949, ch. 139, § 105, 63 Stat. 104, added item 2111.
 
-## § 2101. Supreme Court; time for appeal or certiorari; docketing; stay
+## § 2101. Supreme Court; time for appeal or certiorari; docketing; stay
 
 **(a)** A direct appeal to the Supreme Court from any decision under section 1253 of this title, holding unconstitutional in whole or in part, any Act of Congress, shall be taken within thirty days after the entry of the interlocutory or final order, judgment or decree. The record shall be made up and the case docketed within sixty days from the time such appeal is taken under rules prescribed by the Supreme Court.
 
@@ -53,13 +53,13 @@ This section inserts in the chapter analysis of chapter 133 of title 28, U.S.C.,
 
 **(g)** The time for application for a writ of certiorari to review a decision of the United States Court of Appeals for the Armed Forces, or the decision of a Court of Criminal Appeals that the United States Court of Appeals for the Armed Forces refuses to grant a petition to review, shall be as prescribed by rules of the Supreme Court.
 
-(June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, ch. 139, § 106, 63 Stat. 104; Pub. L. 98–209, § 10(b), Dec. 6, 1983, 97 Stat. 1406; Pub. L. 100–352, § 5(b), June 27, 1988, 102 Stat. 663; Pub. L. 103–337, div. A, title IX, § 924(d)(1)(C), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 118–31, div. A, title V, § 533(a)(2)(B), Dec. 22, 2023, 137 Stat. 261.)
+(June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, ch. 139, § 106, 63 Stat. 104; Pub. L. 98–209, § 10(b), Dec. 6, 1983, 97 Stat. 1406; Pub. L. 100–352, § 5(b), June 27, 1988, 102 Stat. 663; Pub. L. 103–337, div. A, title IX, § 924(d)(1)(C), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 118–31, div. A, title V, § 533(a)(2)(B), Dec. 22, 2023, 137 Stat. 261.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., §§ 47, 47a, 349a, 350, 380, 380a, section 29 of title 15, U.S.C., 1940 ed., Commerce and Trade, and section 45 of title 49, U.S.C., 1940 ed., Transportation (Feb. 11, 1903, ch. 544, § 2, 32 Stat. 1167; Mar. 3, 1911, ch. 231, §§ 210, 266, 291, 36 Stat. 1150, 1162, 1167; Mar. 4, 1913, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38 Stat. 220; Sept. 6, 1916, ch. 448, § 6, 39 Stat. 727; Feb. 13, 1925, ch. 229, §§ 1, 8 (a, b, d), 43 Stat. 938, 940; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; June 7, 1934, ch. 426, 48 Stat. 936; Aug. 24, 1937, ch. 754, §§ 2, 3, 50 Stat. 752; June 9, 1944, ch. 239, 58 Stat. 272).
+Based on title 28, U.S.C., 1940 ed., §§ 47, 47a, 349a, 350, 380, 380a, section 29 of title 15, U.S.C., 1940 ed., Commerce and Trade, and section 45 of title 49, U.S.C., 1940 ed., Transportation (Feb. 11, 1903, ch. 544, § 2, 32 Stat. 1167; Mar. 3, 1911, ch. 231, §§ 210, 266, 291, 36 Stat. 1150, 1162, 1167; Mar. 4, 1913, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38 Stat. 220; Sept. 6, 1916, ch. 448, § 6, 39 Stat. 727; Feb. 13, 1925, ch. 229, §§ 1, 8 (a, b, d), 43 Stat. 938, 940; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; June 7, 1934, ch. 426, 48 Stat. 936; Aug. 24, 1937, ch. 754, §§ 2, 3, 50 Stat. 752; June 9, 1944, ch. 239, 58 Stat. 272).
 
 Section consolidates section 350 of title 28, U.S.C., 1940 ed., with those portions of sections 47, 47a, 349a, 380, and 380a, of said title 28, section 29, of title 15, U.S.C., 1940 ed., and section 45 of title 49, U.S.C., 1940 ed., respective time for taking direct appeal. (For disposition of other provisions of said sections, see Distribution Table.)
 
@@ -67,7 +67,7 @@ Subsection (a) of the revised section is derived from sections 349a and 380a of 
 
 Subsection (b) is in accord with sections 47 and 47a of title 28, U.S.C., 1940 ed., and section 29 of title 15, U.S.C., 1940 ed., Commerce and Trade, and section 45 of title 49, U.S.C., 1940 ed., Transportation.
 
-Subsection (c), with respect to the time for taking other appeals or petitioning for a writ of certiorari, substitutes, as more specific, the words “ninety days” for the words “three months” contained in section 350 of title 28, U.S.C., 1940 ed. The provision in said section 350 for allowance of additional time was retained, notwithstanding the language of the Supreme Court in *Comm’r v. Bedford’s Estate*, 1945, 65 S.Ct. 1157, 1159, 325 U.S. 283, 89 L.Ed. 1611, to the effect that the 3 months’ period is “more than ample \* \* \* to determine whether to seek further review”.
+Subsection (c), with respect to the time for taking other appeals or petitioning for a writ of certiorari, substitutes, as more specific, the words “ninety days” for the words “three months” contained in section 350 of title 28, U.S.C., 1940 ed. The provision in said section 350 for allowance of additional time was retained, notwithstanding the language of the Supreme Court in *Comm’r v. Bedford’s Estate*, 1945, 65 S.Ct. 1157, 1159, 325 U.S. 283, 89 L.Ed. 1611, to the effect that the 3 months’ period is “more than ample \* \* \* to determine whether to seek further review”.
 
 In subsection (c), words “in a civil action, suit, or proceeding” were added because section 350 of title 28, U.S.C., 1940 ed., was superseded as to criminal cases by Federal Rules of Criminal Procedure, Rule 39(a)(2), (b)(2).
 
@@ -99,9 +99,9 @@ The other amendment merely renumbers subsections (d) and (e) of such section 210
 
 1983—Subsec. (g). Pub. L. 98–209 added subsec. (g).
 
-1949—Subsec. (c). Act May 24, 1949, § 106(a), clarified the allowance of an additional 60 days in which to apply for a writ of certiorari.
+1949—Subsec. (c). Act May 24, 1949, § 106(a), clarified the allowance of an additional 60 days in which to apply for a writ of certiorari.
 
-Subsecs. (d) to (f). Act May 24, 1949, § 106(b), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (d) to (f). Act May 24, 1949, § 106(b), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -117,7 +117,7 @@ Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except
 
 Amendment by Pub. L. 98–209 effective on first day of eighth calendar month beginning after Dec. 6, 1983, see section 12(a)(1) of Pub. L. 98–209, set out as a note under section 801 of Title 10, Armed Forces.
 
-## § 2102. Priority of criminal case on appeal from State court
+## § 2102. Priority of criminal case on appeal from State court
 
 Criminal cases on review from State courts shall have priority, on the docket of the Supreme Court, over all cases except cases to which the United States is a party and such other cases as the court may decide to be of public importance.
 
@@ -125,13 +125,13 @@ Criminal cases on review from State courts shall have priority, on the docket of
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 351 (Mar. 3, 1911, ch. 231, § 253, 36 Stat. 1160; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54).
+Based on title 28, U.S.C., 1940 ed., § 351 (Mar. 3, 1911, ch. 231, § 253, 36 Stat. 1160; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54).
 
 Changes were made in phraseology.
 
-## [§ 2103. Repealed. Pub. L. 100–352, § 5(c), June 27, 1988, 102 Stat. 663]
+## [§ 2103. Repealed. Pub. L. 100–352, § 5(c), June 27, 1988, 102 Stat. 663]
 
-Section, acts June 25, 1948, ch. 646, 62 Stat. 962; Sept. 19, 1962, Pub. L. 87–669, § 1, 76 Stat. 556, provided that appeal from State court or from a United States court of appeals improvidently taken be regarded as petition for writ of certiorari.
+Section, acts June 25, 1948, ch. 646, 62 Stat. 962; Sept. 19, 1962, Pub. L. 87–669, § 1, 76 Stat. 556, provided that appeal from State court or from a United States court of appeals improvidently taken be regarded as petition for writ of certiorari.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -139,15 +139,15 @@ Section, acts June 25, 1948, ch. 646, 62 Stat. 962; Sept. 19, 1962, Pub. L. 87�
 
 Repeal effective ninety days after June 27, 1988, except that such repeal not to apply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered into before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of this title.
 
-## § 2104. Reviews of State court decisions
+## § 2104. Reviews of State court decisions
 
 A review by the Supreme Court of a judgment or decree of a State court shall be conducted in the same manner and under the same regulations, and shall have the same effect, as if the judgment or decree reviewed had been rendered in a court of the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 962; Pub. L. 100–352, § 5(d)(1), June 27, 1988, 102 Stat. 663.)
+(June 25, 1948, ch. 646, 62 Stat. 962; Pub. L. 100–352, § 5(d)(1), June 27, 1988, 102 Stat. 663.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 871 (R.S., § 1003).
+Based on title 28, U.S.C., 1940 ed., § 871 (R.S., § 1003).
 
 Words “An appeal to” were substituted for “writs of error from”, in view of the abolition of the writ of error.
 
@@ -165,7 +165,7 @@ Changes were made in phraseology.
 
 Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not to apply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of this title.
 
-## § 2105. Scope of review; abatement
+## § 2105. Scope of review; abatement
 
 There shall be no reversal in the Supreme Court or a court of appeals for error in ruling upon matters in abatement which do not involve jurisdiction.
 
@@ -173,7 +173,7 @@ There shall be no reversal in the Supreme Court or a court of appeals for error 
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 879 (R.S. § 1011; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 318).
+Based on title 28, U.S.C., 1940 ed., § 879 (R.S. § 1011; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 318).
 
 The revised language is substituted for the provisions of section 879 of title 28, U.S.C., 1940 ed., to avoid any construction that matters of fact are not reviewable in nonjury cases. Such section 879 related to review upon a writ of error which applied only to actions at law. (See Rule 52(a) of the Federal Rules of Civil Procedure limiting the review of questions of fact which renders unnecessary any statutory limitation.)
 
@@ -183,7 +183,7 @@ Words “matters in abatement” were, therefore, substituted for the abolished 
 
 Changes were made in phraseology.
 
-## § 2106. Determination
+## § 2106. Determination
 
 The Supreme Court or any other court of appellate jurisdiction may affirm, modify, vacate, set aside or reverse any judgment, decree, or order of a court lawfully brought before it for review, and may remand the cause and direct the entry of such appropriate judgment, decree, or order, or require such further proceedings to be had as may be just under the circumstances.
 
@@ -191,7 +191,7 @@ The Supreme Court or any other court of appellate jurisdiction may affirm, modif
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 344, 876, 877 (R.S. § 701; Mar. 3, 1891, ch. 517, §§ 10, 11, 26 Stat. 829; Mar. 3, 1911, ch. 231, §§ 231, 236, 237, 291, 36 Stat. 1156, 1167; Dec. 23, 1914, ch. 2, 38 Stat. 790; Sept. 16, 1916, ch. 448, § 2, 39 Stat. 726; Feb. 17, 1922, ch. 54, 42 Stat. 366; Feb. 13, 1925, ch. 229, § 1, 43 Stat. 937; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54).
+Based on title 28, U.S.C., 1940 ed., §§ 344, 876, 877 (R.S. § 701; Mar. 3, 1891, ch. 517, §§ 10, 11, 26 Stat. 829; Mar. 3, 1911, ch. 231, §§ 231, 236, 237, 291, 36 Stat. 1156, 1167; Dec. 23, 1914, ch. 2, 38 Stat. 790; Sept. 16, 1916, ch. 448, § 2, 39 Stat. 726; Feb. 17, 1922, ch. 54, 42 Stat. 366; Feb. 13, 1925, ch. 229, § 1, 43 Stat. 937; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54).
 
 Section consolidates part of section 344 of title 28, U.S.C., 1940 ed., with sections 876 and 877 of said title. Other provisions of said section 344 are incorporated in sections 1257 and 2103 of this title.
 
@@ -205,7 +205,7 @@ The last sentence of section 876 of title 28, U.S.C., 1940 ed., providing that t
 
 Changes were made in phraseology.
 
-## § 2107. Time for appeal to court of appeals
+## § 2107. Time for appeal to court of appeals
 
 **(a)** Except as otherwise provided in this section, no appeal shall bring any judgment, order or decree in an action, suit or proceeding of a civil nature before a court of appeals for review unless notice of appeal is filed, within thirty days after the entry of such judgment, order or decree.
 
@@ -229,13 +229,13 @@ the district court may, upon motion filed within 180 days after entry of the jud
 
 **(d)** This section shall not apply to bankruptcy matters or other proceedings under Title 11.
 
-(June 25, 1948, ch. 646, 62 Stat. 963; May 24, 1949, ch. 139, §§ 107, 108, 63 Stat. 104; Pub. L. 95–598, title II, § 248, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 102–198, § 12, Dec. 9, 1991, 105 Stat. 1627; Pub. L. 111–16, § 6(3), May 7, 2009, 123 Stat. 1608; Pub. L. 112–62, § 3, Nov. 29, 2011, 125 Stat. 757.)
+(June 25, 1948, ch. 646, 62 Stat. 963; May 24, 1949, ch. 139, §§ 107, 108, 63 Stat. 104; Pub. L. 95–598, title II, § 248, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 102–198, § 12, Dec. 9, 1991, 105 Stat. 1627; Pub. L. 111–16, § 6(3), May 7, 2009, 123 Stat. 1608; Pub. L. 112–62, § 3, Nov. 29, 2011, 125 Stat. 757.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., §§ 227a, 230, and section 1142 of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1891, ch. 517, § 11, 26 Stat. 829; Mar. 3, 1911, ch. 231, § 129, 36 Stat. 1134; Feb. 13, 1925, ch. 229, § 8(c), 43 Stat. 940; Feb. 28, 1927, ch. 228, 44 Stat. 1261; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; Feb. 10, 1939, ch. 2, § 1142, 53 Stat. 165; Oct. 21, 1942, ch. 619, title V, § 504(a), (c), 56 Stat. 957).
+Based on title 28, U.S.C., 1940 ed., §§ 227a, 230, and section 1142 of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1891, ch. 517, § 11, 26 Stat. 829; Mar. 3, 1911, ch. 231, § 129, 36 Stat. 1134; Feb. 13, 1925, ch. 229, § 8(c), 43 Stat. 940; Feb. 28, 1927, ch. 228, 44 Stat. 1261; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; Feb. 10, 1939, ch. 2, § 1142, 53 Stat. 165; Oct. 21, 1942, ch. 619, title V, § 504(a), (c), 56 Stat. 957).
 
 Section consolidates sections 227a and 230 of title 28, U.S.C., 1940 ed., with section 1142 of title 26, U.S.C., 1940 ed., Internal Revenue Code. Other provisions of such section 227a are incorporated in section 1292 of this title.
 
@@ -291,7 +291,7 @@ This amendment eliminates as surplusage the words “in any such action, suit or
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–62, § 4, Nov. 29, 2011, 125 Stat. 757, provided that: “The amendment made by this Act [amending this section] shall take effect on December 1, 2011.”
+Pub. L. 112–62, § 4, Nov. 29, 2011, 125 Stat. 757, provided that: “The amendment made by this Act [amending this section] shall take effect on December 1, 2011.”
 
 **Effective Date of 2009 Amendment**
 
@@ -299,7 +299,7 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 **Findings**
 
-Pub. L. 112–62, § 2, Nov. 29, 2011, 125 Stat. 756, provided that:
+Pub. L. 112–62, § 2, Nov. 29, 2011, 125 Stat. 756, provided that:
 
 > “Congress finds that—
 
@@ -325,7 +325,7 @@ Pub. L. 112–62, § 2, Nov. 29, 2011, 125 Stat. 756, provided that:
 
 > **“(B)** includes all civil actions in which the representation of the United States is provided by a Federal legal officer acting in an official capacity, such as civil actions in which a Member, officer, or employee of the Senate or the House of Representatives is represented by the Office of Senate Legal Counsel or the Office of General Counsel of the House of Representatives.”
 
-## § 2108. Proof of amount in controversy
+## § 2108. Proof of amount in controversy
 
 Where the power of any court of appeals to review a case depends upon the amount or value in controversy, such amount or value, if not otherwise satisfactorily disclosed upon the record, may be shown and ascertained by the oath of a party to the case or by other competent evidence.
 
@@ -333,11 +333,11 @@ Where the power of any court of appeals to review a case depends upon the amount
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 231 (Feb. 13, 1925, ch. 229, § 9, 43 Stat. 941).
+Based on title 28, U.S.C., 1940 ed., § 231 (Feb. 13, 1925, ch. 229, § 9, 43 Stat. 941).
 
-Words “or in the Supreme Court” were omitted. Section 7 of the 1925 act containing such words related to review by the Supreme Court of the United States of decisions of the Supreme Court of the Philippine Islands and designated a certain jurisdictional amount. Such section 7 has now become obsolete, in view of the recognition of the independence of the Philippines, title 48 U.S.C., 1940 ed., § 1240, Territories and Insular Possessions, and there is no other case wherein the power of the Supreme Court to review depends on the amount or value in controversy.
+Words “or in the Supreme Court” were omitted. Section 7 of the 1925 act containing such words related to review by the Supreme Court of the United States of decisions of the Supreme Court of the Philippine Islands and designated a certain jurisdictional amount. Such section 7 has now become obsolete, in view of the recognition of the independence of the Philippines, title 48 U.S.C., 1940 ed., § 1240, Territories and Insular Possessions, and there is no other case wherein the power of the Supreme Court to review depends on the amount or value in controversy.
 
-## § 2109. Quorum of Supreme Court justices absent
+## § 2109. Quorum of Supreme Court justices absent
 
 If a case brought to the Supreme Court by direct appeal from a district court cannot be heard and determined because of the absence of a quorum of qualified justices, the Chief Justice of the United States may order it remitted to the court of appeals for the circuit including the district in which the case arose, to be heard and determined by that court either sitting in banc or specially constituted and composed of the three circuit judges senior in commission who are able to sit, as such order may direct. The decision of such court shall be final and conclusive. In the event of the disqualification or disability of one or more of such circuit judges, such court shall be filled as provided in chapter 15 of this title.
 
@@ -347,7 +347,7 @@ In any other case brought to the Supreme Court for review, which cannot be heard
 
 **Historical and Revision Notes**
 
-Based on portions of section 29 of title 15, U.S.C., 1940 ed., Commerce and Trade, and section 45 of title 49, U.S.C., 1940 ed., Transportation (Feb. 11, 1903, ch. 544, § 2, 32 Stat. 823; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 9, 1944, ch. 239, 58 Stat. 272).
+Based on portions of section 29 of title 15, U.S.C., 1940 ed., Commerce and Trade, and section 45 of title 49, U.S.C., 1940 ed., Transportation (Feb. 11, 1903, ch. 544, § 2, 32 Stat. 823; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 9, 1944, ch. 239, 58 Stat. 272).
 
 Section consolidates portions of section 29 of title 15, U.S.C., 1940 ed., and section 45 of title 49, U.S.C., 1940 ed., with changes of substance and phraseology.
 
@@ -363,9 +363,9 @@ The provisions of section 29 of title 15, U.S.C., 1940 ed., and section 45 of ti
 
 The second paragraph of the revised section is new. It recognizes the necessity of final disposition of litigation in which appellate review has been had and further review by the Supreme Court is impossible for lack of a quorum of qualified justices.
 
-## [§ 2110. Repealed. Pub. L. 97–164, title I, § 136, Apr. 2, 1982, 96 Stat. 41]
+## [§ 2110. Repealed. Pub. L. 97–164, title I, § 136, Apr. 2, 1982, 96 Stat. 41]
 
-Section, acts June 25, 1948, ch. 646, 62 Stat. 964; May 24, 1949, ch. 139, § 109, 63 Stat. 105, provided that appeals to the Court of Claims in tort claims cases, as provided in section 1504 of this title, be taken within 90 days after the entry of the final judgment of the district court.
+Section, acts June 25, 1948, ch. 646, 62 Stat. 964; May 24, 1949, ch. 139, § 109, 63 Stat. 105, provided that appeals to the Court of Claims in tort claims cases, as provided in section 1504 of this title, be taken within 90 days after the entry of the final judgment of the district court.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -373,11 +373,11 @@ Section, acts June 25, 1948, ch. 646, 62 Stat. 964; May 24, 1949, ch. 139, § 
 
 Repeal effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as an Effective Date of 1982 Amendment note under section 171 of this title.
 
-## § 2111. Harmless error
+## § 2111. Harmless error
 
 On the hearing of any appeal or writ of certiorari in any case, the court shall give judgment after an examination of the record without regard to errors or defects which do not affect the substantial rights of the parties.
 
-(Added May 24, 1949, ch. 139, § 110, 63 Stat. 105.)
+(Added May 24, 1949, ch. 139, § 110, 63 Stat. 105.)
 
 **Historical and Revision Notes**
 
@@ -385,7 +385,7 @@ On the hearing of any appeal or writ of certiorari in any case, the court shall 
 
 Incorporates in title 28, U.S.C., as section 2111 thereof, the harmless error provisions of section 269 of the Judicial Code (now repealed), which applied to all courts of the United States and to all cases therein and therefore was superseded only in part by the Federal Procedural Rules, which apply only to the United States district courts.
 
-## § 2112. Record on review and enforcement of agency orders
+## § 2112. Record on review and enforcement of agency orders
 
 **(a)** The rules prescribed under the authority of section 2072 of this title may provide for the time and manner of filing and the contents of the record in all proceedings instituted in the courts of appeals to enjoin, set aside, suspend, modify, or otherwise review or enforce orders of administrative agencies, boards, commissions, and officers. Such rules may authorize the agency, board, commission, or officer to file in the court a certified list of the materials comprising the record and retain and hold for the court all such materials and transmit the same or any part thereof to the court, when and as required by it, at any time prior to the final determination of the proceeding, and such filing of such certified list of the materials comprising the record and such subsequent transmittal of any such materials when and as required shall be deemed full compliance with any provision of law requiring the filing of the record in the court. The record in such proceedings shall be certified and filed in or held for and transmitted to the court of appeals by the agency, board, commission, or officer concerned within the time and in the manner prescribed by such rules. If proceedings are instituted in two or more courts of appeals with respect to the same order, the following shall apply:
 
@@ -405,7 +405,7 @@ Incorporates in title 28, U.S.C., as section 2111 thereof, the harmless error pr
 
 **(d)** The provisions of this section are not applicable to proceedings to review decisions of the Tax Court of the United States or to proceedings to review or enforce those orders of administrative agencies, boards, commissions, or officers which are by law reviewable or enforceable by the district courts.
 
-(Added Pub. L. 85–791, § 2, Aug. 28, 1958, 72 Stat. 941; amended Pub. L. 89–773, § 5(a), (b), Nov. 6, 1966, 80 Stat. 1323; Pub. L. 100–236, § 1, Jan. 8, 1988, 101 Stat. 1731.)
+(Added Pub. L. 85–791, § 2, Aug. 28, 1958, 72 Stat. 941; amended Pub. L. 89–773, § 5(a), (b), Nov. 6, 1966, 80 Stat. 1323; Pub. L. 100–236, § 1, Jan. 8, 1988, 101 Stat. 1731.)
 
 **Editorial Notes**
 
@@ -413,25 +413,25 @@ Incorporates in title 28, U.S.C., as section 2111 thereof, the harmless error pr
 
 1988—Subsec. (a). Pub. L. 100–236 substituted “If proceedings are instituted in two or more courts of appeals with respect to the same order, the following shall apply:” and pars. (1) to (5) for “If proceedings have been instituted in two or more courts of appeals with respect to the same order the agency, board, commission, or officer concerned shall file the record in that one of such courts in which a proceeding with respect to such order was first instituted. The other courts in which such proceedings are pending shall thereupon transfer them to the court of appeals in which the record has been filed. For the convenience of the parties in the interest of justice such court may thereafter transfer all the proceedings with respect to such order to any other court of appeals.”
 
-1966—Subsec. (a). Pub. L. 89–773, § 5(a), substituted “The rules prescribed under the authority of section 2072 of this title may provide for the time and manner of filing” for “The several courts of appeal shall have power to adopt, with the approval of the Judicial Conference of the United States, rules, which so far as practicable shall be uniform in all such courts prescribing the time and manner of filing.” See section 2072 of this title.
+1966—Subsec. (a). Pub. L. 89–773, § 5(a), substituted “The rules prescribed under the authority of section 2072 of this title may provide for the time and manner of filing” for “The several courts of appeal shall have power to adopt, with the approval of the Judicial Conference of the United States, rules, which so far as practicable shall be uniform in all such courts prescribing the time and manner of filing.” See section 2072 of this title.
 
-Subsec. (b). Pub. L. 89–773, § 5(b), substituted “the rules prescribed under the authority of section 2072 of this title” for “the said rules of the court of appeals” and for “the rules of such court”.
+Subsec. (b). Pub. L. 89–773, § 5(b), substituted “the rules prescribed under the authority of section 2072 of this title” for “the said rules of the court of appeals” and for “the rules of such court”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–236, § 3, Jan. 8, 1988, 101 Stat. 1732, provided that: “The amendments made by this Act [amending this section and section 1369 of Title 33, Navigation and Navigable Waters] take effect 180 days after the date of the enactment of this Act [Jan 8, 1988], except that the judicial panel on multidistrict litigation may issue rules pursuant to subsection (a)(3) of section 2112 of title 28, United States Code (as added by section 1), on or after such date of enactment.”
+Pub. L. 100–236, § 3, Jan. 8, 1988, 101 Stat. 1732, provided that: “The amendments made by this Act [amending this section and section 1369 of Title 33, Navigation and Navigable Waters] take effect 180 days after the date of the enactment of this Act [Jan 8, 1988], except that the judicial panel on multidistrict litigation may issue rules pursuant to subsection (a)(3) of section 2112 of title 28, United States Code (as added by section 1), on or after such date of enactment.”
 
 **Savings Provision**
 
-Pub. L. 89–773, § 5(c), Nov. 6, 1966, 80 Stat. 1323, provided that: “The amendments of section 2112 of title 28 of the United States Code made by this Act shall not operate to invalidate or repeal rules adopted under the authority of that section prior to the enactment of this Act [Nov. 6, 1966], which rules shall remain in effect until superseded by rules prescribed under the authority of section 2072 of title 28 of the United States Code as amended by this Act.”
+Pub. L. 89–773, § 5(c), Nov. 6, 1966, 80 Stat. 1323, provided that: “The amendments of section 2112 of title 28 of the United States Code made by this Act shall not operate to invalidate or repeal rules adopted under the authority of that section prior to the enactment of this Act [Nov. 6, 1966], which rules shall remain in effect until superseded by rules prescribed under the authority of section 2072 of title 28 of the United States Code as amended by this Act.”
 
-## § 2113. Definition
+## § 2113. Definition
 
 For purposes of this chapter, the terms “State court”, “State courts”, and “highest court of a State” include the District of Columbia Court of Appeals.
 
-(Added Pub. L. 91–358, title I, § 172(a)(2)(A), July 29, 1970, 84 Stat. 590.)
+(Added Pub. L. 91–358, title I, § 172(a)(2)(A), July 29, 1970, 84 Stat. 590.)
 
 **Statutory Notes and Related Subsidiaries**
 

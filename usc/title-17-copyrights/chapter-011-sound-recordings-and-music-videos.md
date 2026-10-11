@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 11—SOUND RECORDINGS AND MUSIC VIDEOS
 
-## § 1101. Unauthorized fixation and trafficking in sound recordings and music videos
+## § 1101. Unauthorized fixation and trafficking in sound recordings and music videos
 
 **(a) Unauthorized Acts.—** Anyone who, without the consent of the performer or performers involved—
 
@@ -27,9 +27,9 @@ retrieved: 2026-10-11
 
 shall be subject to the remedies provided in sections 502 through 505, to the same extent as an infringer of copyright.
 
-**(b) Definition.—** In this section, the term “traffic” has the same meaning as in section 2320(e) 1
+**(b) Definition.—** In this section, the term “traffic” has the same meaning as in section 2320(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 18.
 
@@ -37,13 +37,13 @@ of title 18.
 
 **(d) State Law Not Preempted.—** Nothing in this section may be construed to annul or limit any rights or remedies under the common law or statutes of any State.
 
-(Added Pub. L. 103–465, title V, § 512(a), Dec. 8, 1994, 108 Stat. 4974; amended Pub. L. 109–181, § 2(c)(3), Mar. 16, 2006, 120 Stat. 288.)
+(Added Pub. L. 103–465, title V, § 512(a), Dec. 8, 1994, 108 Stat. 4974; amended Pub. L. 109–181, § 2(c)(3), Mar. 16, 2006, 120 Stat. 288.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2320 of title 18, referred to in subsec. (b), was amended generally by Pub. L. 112–81, div. A, title VIII, § 818(h), Dec. 31, 2011, 125 Stat. 1497, and, as so amended, provisions similar to those formerly appearing in subsec. (e) are now contained in subsec. (f).
+Section 2320 of title 18, referred to in subsec. (b), was amended generally by Pub. L. 112–81, div. A, title VIII, § 818(h), Dec. 31, 2011, 125 Stat. 1497, and, as so amended, provisions similar to those formerly appearing in subsec. (e) are now contained in subsec. (f).
 
 The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (c), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 

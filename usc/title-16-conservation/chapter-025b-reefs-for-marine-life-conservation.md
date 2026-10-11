@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 25B—REEFS FOR MARINE LIFE CONSERVATION
 
-## § 1220. State applications for obsolete ships for use as offshore reefs
+## § 1220. State applications for obsolete ships for use as offshore reefs
 
 **(a) Conservation of marine life**
 
@@ -33,7 +33,7 @@ Before taking any action with respect to an application submitted under this cha
 
 Any territory, possession, or Commonwealth of the United States, and any foreign country, may apply to the Secretary for an obsolete vessel to be used for an artificial reef under this section. The application process and reefing of any such obsolete vessel shall be performed in a manner consistent with the process jointly developed by the Secretary of Transportation and the Administrator of the Environmental Protection Agency under section 3504(b) of Public Law 107–314 (16 U.S.C. 1220 note).
 
-(Pub. L. 92–402, § 3, Aug. 22, 1972, 86 Stat. 618; Pub. L. 98–623, title II, § 207(1), (2), Nov. 8, 1984, 98 Stat. 3397; Pub. L. 111–84, div. C, title XXXV, § 3513(a), Oct. 28, 2009, 123 Stat. 2724.)
+(Pub. L. 92–402, § 3, Aug. 22, 1972, 86 Stat. 618; Pub. L. 98–623, title II, § 207(1), (2), Nov. 8, 1984, 98 Stat. 3397; Pub. L. 111–84, div. C, title XXXV, § 3513(a), Oct. 28, 2009, 123 Stat. 2724.)
 
 **Editorial Notes**
 
@@ -41,13 +41,13 @@ Any territory, possession, or Commonwealth of the United States, and any foreign
 
 2009—Subsec. (d). Pub. L. 111–84 added subsec. (d).
 
-1984—Subsecs. (a), (b). Pub. L. 98–623, § 207, substituted “Secretary of Transportation” for “Secretary of Commerce” and “obsolete ships” for “Liberty ships”, wherever appearing.
+1984—Subsecs. (a), (b). Pub. L. 98–623, § 207, substituted “Secretary of Transportation” for “Secretary of Commerce” and “obsolete ships” for “Liberty ships”, wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Environmental Best Management Practices for Preparing Vessels for Use as Artificial Reefs**
 
-Pub. L. 107–314, div. C, title XXXV, § 3504(b), Dec. 2, 2002, 116 Stat. 2754, as amended by Pub. L. 108–136, div. C, title XXXV, § 3516, Nov. 24, 2003, 117 Stat. 1795, provided that:
+Pub. L. 107–314, div. C, title XXXV, § 3504(b), Dec. 2, 2002, 116 Stat. 2754, as amended by Pub. L. 108–136, div. C, title XXXV, § 3516, Nov. 24, 2003, 117 Stat. 1795, provided that:
 
 > **“(1)** Not later than March 31, 2004, the Secretary of Transportation, acting through the Maritime Administration, and the Administrator of the Environmental Protection Agency shall jointly develop guidance recommending environmental best management practices to be used in the preparation of vessels for use as artificial reefs.
 
@@ -69,7 +69,7 @@ Pub. L. 107–314, div. C, title XXXV, § 3504(b), Dec. 2, 2002, 116 Stat. 275
 
 > **“(6)** The Secretary of Transportation shall submit to Congress a report on the environmental best management practices developed under paragraph (1) through the existing ship disposal reporting requirements in section 3502 of Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 1654A–492 [1654A–490]) [54 U.S.C. 308704 note]. The report shall describe such practices, and may include such other matters as the Secretary considers appropriate.”
 
-## § 1220a. Transfer of title; terms and conditions
+## § 1220a. Transfer of title; terms and conditions
 
 If, after consideration of such comments and views as are received pursuant to section 1220(c) of this title, the Secretary finds that the use of obsolete ships proposed by a State will not violate any Federal law, contribute to degradation of the marine environment, create undue interference with commercial fishing or navigation, and is not frivolous, he may transfer without consideration to the State all right, title, and interest of the United States in and to any obsolete ships which are available for transfer under this chapter if—
 
@@ -79,13 +79,13 @@ If, after consideration of such comments and views as are received pursuant to s
 
 **(3)** the State agrees to such other terms and conditions as the Secretary shall require in order to protect the marine environment and other interests of the United States; and
 
-**(4)** the transfer would be at no cost to the Government (except for any financial assistance provided under section 1220(c)(1) 1
+**(4)** the transfer would be at no cost to the Government (except for any financial assistance provided under section 1220(c)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) with the State taking delivery of such obsolete ships and titles in an “as-is—where-is” condition at such place and time designated as may be determined by the Secretary of Transportation.
 
-(Pub. L. 92–402, § 4, Aug. 22, 1972, 86 Stat. 618; Pub. L. 98–623, title II, § 207(1), (3), Nov. 8, 1984, 98 Stat. 3397; Pub. L. 107–314, div. C, title XXXV, § 3504(a)(2), Dec. 2, 2002, 116 Stat. 2754; Pub. L. 109–163, div. C, title XXXV, § 3505(c), Jan. 6, 2006, 119 Stat. 3552.)
+(Pub. L. 92–402, § 4, Aug. 22, 1972, 86 Stat. 618; Pub. L. 98–623, title II, § 207(1), (3), Nov. 8, 1984, 98 Stat. 3397; Pub. L. 107–314, div. C, title XXXV, § 3504(a)(2), Dec. 2, 2002, 116 Stat. 2754; Pub. L. 109–163, div. C, title XXXV, § 3505(c), Jan. 6, 2006, 119 Stat. 3552.)
 
 **Editorial Notes**
 
@@ -101,11 +101,11 @@ Section 1220(c)(1) of this title, referred to in par. (4), probably means sectio
 
 1984—Pub. L. 98–623 substituted “obsolete ships” for “Liberty ships” wherever appearing in provisions preceding par. (1) and in par. (4), and substituted “may transfer” for “shall transfer” in provisions preceding par. (1).
 
-## § 1220b. Obsolete ships available; number; equitable administration
+## § 1220b. Obsolete ships available; number; equitable administration
 
 A State may apply for more than one obsolete ship under this chapter. The Secretary shall, however, taking into account the number of obsolete ships which may be or become available for transfer under this chapter, administer this chapter in an equitable manner with respect to the various States.
 
-(Pub. L. 92–402, § 5, Aug. 22, 1972, 86 Stat. 618; Pub. L. 98–623, title II, § 207(1), Nov. 8, 1984, 98 Stat. 3397.)
+(Pub. L. 92–402, § 5, Aug. 22, 1972, 86 Stat. 618; Pub. L. 98–623, title II, § 207(1), Nov. 8, 1984, 98 Stat. 3397.)
 
 **Editorial Notes**
 
@@ -113,15 +113,15 @@ A State may apply for more than one obsolete ship under this chapter. The Secret
 
 1984—Pub. L. 98–623 substituted “obsolete ships” for “Liberty ships” wherever appearing.
 
-## § 1220c. Denial of applications; finality of decision
+## § 1220c. Denial of applications; finality of decision
 
-A decision by the Secretary denying any application for a 1
+A decision by the Secretary denying any application for a 1
 
-<sup>1</sup>  So in original. Probably should be “an”.
+<sup>1</sup> So in original. Probably should be “an”.
 
 obsolete ship under this chapter is final.
 
-(Pub. L. 92–402, § 6, Aug. 22, 1972, 86 Stat. 618; Pub. L. 98–623, title II, § 207(1), Nov. 8, 1984, 98 Stat. 3397.)
+(Pub. L. 92–402, § 6, Aug. 22, 1972, 86 Stat. 618; Pub. L. 98–623, title II, § 207(1), Nov. 8, 1984, 98 Stat. 3397.)
 
 **Editorial Notes**
 
@@ -129,7 +129,7 @@ obsolete ship under this chapter is final.
 
 1984—Pub. L. 98–623 substituted “obsolete ship” for “Liberty ship”.
 
-## § 1220c–1. Financial assistance to State to prepare transferred ship
+## § 1220c–1. Financial assistance to State to prepare transferred ship
 
 **(a) Assistance authorized** The Secretary, subject to the availability of appropriations, may provide, to any State to which an obsolete ship is transferred under this chapter, financial assistance to prepare the ship for use as an artificial reef, including for—
 
@@ -157,7 +157,7 @@ obsolete ship under this chapter is final.
 
 The Secretary may not provide assistance under this section to a foreign country to which an obsolete ship is transferred under this chapter.
 
-(Pub. L. 92–402, § 7, as added Pub. L. 107–314, div. C, title XXXV, § 3504(a)(1)(B), Dec. 2, 2002, 116 Stat. 2754; amended Pub. L. 111–84, div. C, title XXXV, § 3513(b), Oct. 28, 2009, 123 Stat. 2724.)
+(Pub. L. 92–402, § 7, as added Pub. L. 107–314, div. C, title XXXV, § 3504(a)(1)(B), Dec. 2, 2002, 116 Stat. 2754; amended Pub. L. 111–84, div. C, title XXXV, § 3513(b), Oct. 28, 2009, 123 Stat. 2724.)
 
 **Editorial Notes**
 
@@ -169,8 +169,8 @@ A prior section 7 of Pub. L. 92–402 was renumbered section 8 and is classified
 
 2009—Subsec. (d). Pub. L. 111–84 added subsec. (d).
 
-## § 1220d. “Obsolete ship” defined
+## § 1220d. “Obsolete ship” defined
 
 For purposes of sections 1220, 1220a, 1220b, and 1220c of this title, the term “obsolete ship” means any vessel owned by the Department of Transportation that has been determined to be of insufficient value for commercial or national defense purposes to warrant its maintenance and preservation in the national defense reserve fleet and has been designated as an artificial reef candidate.
 
-(Pub. L. 92–402, § 8, formerly § 7, as added Pub. L. 98–623, title II, § 207(4), Nov. 8, 1984, 98 Stat. 3397; renumbered § 8, Pub. L. 107–314, div. C, title XXXV, § 3504(a)(1)(A), Dec. 2, 2002, 116 Stat. 2754.)
+(Pub. L. 92–402, § 8, formerly § 7, as added Pub. L. 98–623, title II, § 207(4), Nov. 8, 1984, 98 Stat. 3397; renumbered § 8, Pub. L. 107–314, div. C, title XXXV, § 3504(a)(1)(A), Dec. 2, 2002, 116 Stat. 2754.)

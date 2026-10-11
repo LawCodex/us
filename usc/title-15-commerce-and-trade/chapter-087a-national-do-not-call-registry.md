@@ -21,7 +21,7 @@ retrieved: 2026-10-11
 
 This chapter is comprised principally of Pub. L. 108–10, Mar. 11, 2003, 117 Stat. 557, which was formerly set out as a note under section 6101 of this title.
 
-## § 6151. National Do-Not-Call Registry
+## § 6151. National Do-Not-Call Registry
 
 **(a) Authority**
 
@@ -31,7 +31,7 @@ The Federal Trade Commission is authorized under section 6102(a)(3)(A) of this t
 
 The do-not-call registry provision of the Telemarketing Sales Rule (16 C.F.R. 310.4(b)(1)(iii)), which was promulgated by the Federal Trade Commission, effective March 31, 2003, is ratified.
 
-(Pub. L. 108–82, § 1, Sept. 29, 2003, 117 Stat. 1006.)
+(Pub. L. 108–82, § 1, Sept. 29, 2003, 117 Stat. 1006.)
 
 **Editorial Notes**
 
@@ -45,15 +45,15 @@ Section was enacted as part of Pub. L. 108–82, and not as part of the Do-Not-C
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–188, § 1, Feb. 15, 2008, 122 Stat. 635, provided that: “This Act [amending sections 6152 and 6154 of this title and enacting provisions set out as a note under section 6152 of this title] may be cited as the ‘Do-Not-Call Registry Fee Extension Act of 2007’.”
+Pub. L. 110–188, § 1, Feb. 15, 2008, 122 Stat. 635, provided that: “This Act [amending sections 6152 and 6154 of this title and enacting provisions set out as a note under section 6152 of this title] may be cited as the ‘Do-Not-Call Registry Fee Extension Act of 2007’.”
 
-Pub. L. 110–187, § 1, Feb. 15, 2008, 122 Stat. 633, provided that: “This Act [enacting section 6155 of this title] may be cited as the ‘Do-Not-Call Improvement Act of 2007’.”
+Pub. L. 110–187, § 1, Feb. 15, 2008, 122 Stat. 633, provided that: “This Act [enacting section 6155 of this title] may be cited as the ‘Do-Not-Call Improvement Act of 2007’.”
 
 **Short Title**
 
-Pub. L. 108–10, § 1, Mar. 11, 2003, 117 Stat. 557, provided that: “This Act [enacting this chapter] may be cited as the ‘Do-Not-Call Implementation Act’.”
+Pub. L. 108–10, § 1, Mar. 11, 2003, 117 Stat. 557, provided that: “This Act [enacting this chapter] may be cited as the ‘Do-Not-Call Implementation Act’.”
 
-## § 6152. Telemarketing Sales Rule; do-not-call registry fees
+## § 6152. Telemarketing Sales Rule; do-not-call registry fees
 
 **(a) In general**
 
@@ -71,9 +71,9 @@ The Federal Trade Commission shall assess and collect an annual fee pursuant to 
 
 **(A)** for accessing the first 5 area codes of data; or
 
-**(B)** for accessing area codes of data in the registry if the person is permitted to access, but is not required to access, the “do-not-call” registry under section 1
+**(B)** for accessing area codes of data in the registry if the person is permitted to access, but is not required to access, the “do-not-call” registry under section 1
 
-<sup>1</sup>  So in original. Probably should be “part”.
+<sup>1</sup> So in original. Probably should be “part”.
 
 310 of title 16, Code of Federal Regulations, section 64.1200 of title 47, Code of Federal Regulations, or any other Federal regulation or law.
 
@@ -149,7 +149,7 @@ The Commission shall deposit and credit as offsetting collections any fee collec
 
 No amount shall be collected as a fee under this section for any fiscal year except to the extent provided in advance by appropriations Acts.
 
-(Pub. L. 108–10, § 2, Mar. 11, 2003, 117 Stat. 557; Pub. L. 110–188, § 2, Feb. 15, 2008, 122 Stat. 635.)
+(Pub. L. 108–10, § 2, Mar. 11, 2003, 117 Stat. 557; Pub. L. 110–188, § 2, Feb. 15, 2008, 122 Stat. 635.)
 
 **Editorial Notes**
 
@@ -161,13 +161,13 @@ No amount shall be collected as a fee under this section for any fiscal year exc
 
 **Rulemaking**
 
-Pub. L. 110–188, § 4, Feb. 15, 2008, 122 Stat. 637, provided that: “The Federal Trade Commission may issue rules, in accordance with section 553 of title 5, United States Code, as necessary and appropriate to carry out the amendments to the Do-Not-Call Implementation Act (15 U.S.C. 6101 note) [now this chapter] made by this Act [amending this section and section 6154 of this title].”
+Pub. L. 110–188, § 4, Feb. 15, 2008, 122 Stat. 637, provided that: “The Federal Trade Commission may issue rules, in accordance with section 553 of title 5, United States Code, as necessary and appropriate to carry out the amendments to the Do-Not-Call Implementation Act (15 U.S.C. 6101 note) [now this chapter] made by this Act [amending this section and section 6154 of this title].”
 
-## § 6153. Federal Communications Commission do-not-call regulations
+## § 6153. Federal Communications Commission do-not-call regulations
 
 Not later than 180 days after March 11, 2003, the Federal Communications Commission shall issue a final rule pursuant to the rulemaking proceeding that it began on September 18, 2002, under the Telephone Consumer Protection Act (47 U.S.C. 227 et seq.). In issuing such rule, the Federal Communications Commission shall consult and coordinate with the Federal Trade Commission to maximize consistency with the rule promulgated by the Federal Trade Commission (16 CFR 310.4(b)).
 
-(Pub. L. 108–10, § 3, Mar. 11, 2003, 117 Stat. 557.)
+(Pub. L. 108–10, § 3, Mar. 11, 2003, 117 Stat. 557.)
 
 **Editorial Notes**
 
@@ -175,7 +175,7 @@ Not later than 180 days after March 11, 2003, the Federal Communications Commiss
 
 The Telephone Consumer Protection Act, referred to in text, probably means the Telephone Consumer Protection Act of 1991, Pub. L. 102–243, Dec. 20, 1991, 105 Stat. 2394, which enacted section 227 of Title 47, Telecommunications, amended sections 152 and 331 of Title 47, and enacted provisions set out as notes under sections 227 and 609 of Title 47. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 609 of Title 47 and Tables.
 
-## § 6154. Reporting requirements
+## § 6154. Reporting requirements
 
 **(a) Biennial reports** Not later than December 31, 2009, and biennially thereafter, the Federal Trade Commission, in consultation with the Federal Communications Commission, shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce that includes—
 
@@ -201,7 +201,7 @@ The Telephone Consumer Protection Act, referred to in text, probably means the T
 
 **(3)** the impact of abandoned calls made by predictive dialing devices on do-not-call enforcement.
 
-(Pub. L. 108–10, § 4, Mar. 11, 2003, 117 Stat. 557; Pub. L. 110–188, § 3, Feb. 15, 2008, 122 Stat. 637.)
+(Pub. L. 108–10, § 4, Mar. 11, 2003, 117 Stat. 557; Pub. L. 110–188, § 3, Feb. 15, 2008, 122 Stat. 637.)
 
 **Editorial Notes**
 
@@ -209,7 +209,7 @@ The Telephone Consumer Protection Act, referred to in text, probably means the T
 
 2008—Pub. L. 110–188 amended section generally. Prior to amendment, section related to reports on regulatory coordination between Federal Trade Commission and Federal Communications Commission and reports on “do-not-call” registry for fiscal years 2003 through 2007.
 
-## § 6155. Prohibition of expiration date
+## § 6155. Prohibition of expiration date
 
 **(a) No automatic removal of numbers**
 
@@ -219,4 +219,4 @@ Telephone numbers registered on the national “do-not-call” registry of the T
 
 The Federal Trade Commission shall periodically check telephone numbers registered on the national “do-not-call” registry against national or other appropriate databases and shall remove from such registry those telephone numbers that have been disconnected and reassigned. Nothing in this section prohibits the Federal Trade Commission from removing invalid telephone numbers from the registry at any time.
 
-(Pub. L. 108–10, § 5, as added Pub. L. 110–187, § 2, Feb. 15, 2008, 122 Stat. 633.)
+(Pub. L. 108–10, § 5, as added Pub. L. 110–187, § 2, Feb. 15, 2008, 122 Stat. 633.)

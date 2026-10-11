@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 401—CHILD ABUSE CRIME INFORMATION AND BACKGROUND CHECKS
 
-## § 40101. Reporting child abuse crime information
+## § 40101. Reporting child abuse crime information
 
 **(a) In general**
 
@@ -65,7 +65,7 @@ The Attorney General shall, subject to the availability of appropriations, publi
 
 **(2)** Not later than 2 years after December 20, 1993, the Administrator shall submit a report to the Chairman of the Committee on the Judiciary of the Senate and the Chairman of the Committee on the Judiciary of the House of Representatives containing a description of and a summary of the results of the study conducted pursuant to paragraph (1).
 
-(Pub. L. 103–209, § 2, Dec. 20, 1993, 107 Stat. 2490; Pub. L. 103–322, title XXXII, § 320928(b), (h), (i), Sept. 13, 1994, 108 Stat. 2132, 2133.)
+(Pub. L. 103–209, § 2, Dec. 20, 1993, 107 Stat. 2490; Pub. L. 103–322, title XXXII, § 320928(b), (h), (i), Sept. 13, 1994, 108 Stat. 2132, 2133.)
 
 **Editorial Notes**
 
@@ -75,17 +75,17 @@ Section was formerly classified to section 5119 of Title 42, The Public Health a
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–322, § 320928(b), inserted at end “A criminal justice agency may satisfy the requirement of this subsection by reporting or indexing all felony and serious misdemeanor arrests and dispositions.”
+1994—Subsec. (a). Pub. L. 103–322, § 320928(b), inserted at end “A criminal justice agency may satisfy the requirement of this subsection by reporting or indexing all felony and serious misdemeanor arrests and dispositions.”
 
-Subsec. (b)(2)(A). Pub. L. 103–322, § 320928(i), substituted “5 years after” for “3 years after”.
+Subsec. (b)(2)(A). Pub. L. 103–322, § 320928(i), substituted “5 years after” for “3 years after”.
 
-Subsec. (f)(2). Pub. L. 103–322, § 320928(h), substituted “2 years” for “1 year”.
+Subsec. (f)(2). Pub. L. 103–322, § 320928(h), substituted “2 years” for “1 year”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Guidelines for Adoption of Safeguards by Care Providers and States for Protecting Children, the Elderly, or Individuals With Disabilities From Abuse**
 
-Pub. L. 103–322, title XXXII, § 320928(g), Sept. 13, 1994, 108 Stat. 2132, provided that:
+Pub. L. 103–322, title XXXII, § 320928(g), Sept. 13, 1994, 108 Stat. 2132, provided that:
 
 > **“(1) In general.—** The Attorney General, in consultation with Federal, State, and local officials, including officials responsible for criminal history record systems, and representatives of public and private care organizations and health, legal, and social welfare organizations, shall develop guidelines for the adoption of appropriate safeguards by care providers and by States for protecting children, the elderly, or individuals with disabilities from abuse.
 
@@ -93,7 +93,7 @@ Pub. L. 103–322, title XXXII, § 320928(g), Sept. 13, 1994, 108 Stat. 2132, 
 
 > **“(3) Dissemination.—** The Attorney General shall, subject to the availability of appropriations, disseminate the guidelines to State and local officials and to public and private care providers.”
 
-## § 40102. Background checks
+## § 40102. Background checks
 
 **(a) In general**
 
@@ -131,13 +131,13 @@ Pub. L. 103–322, title XXXII, § 320928(g), Sept. 13, 1994, 108 Stat. 2132, 
 
 **(i)** each covered individual described in subparagraph (B) is given notice of the opportunity to appeal;
 
-**(ii)** each covered individual described in subparagraph (B) will receive instructions on how to complete the appeals process if the covered individual wishes to challenge the accuracy or completeness of the information contained in the background report of the covered individual; and 1
+**(ii)** each covered individual described in subparagraph (B) will receive instructions on how to complete the appeals process if the covered individual wishes to challenge the accuracy or completeness of the information contained in the background report of the covered individual; and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
-**(iii)** the appeals process is completed in a timely manner for each covered individual described in subparagraph (B); 2
+**(iii)** the appeals process is completed in a timely manner for each covered individual described in subparagraph (B); 2
 
-<sup>2</sup>  So in original. Probably should be followed by “and”.
+<sup>2</sup> So in original. Probably should be followed by “and”.
 
 **(iv)** the appeals process is consistent with title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.); and
 
@@ -145,7 +145,7 @@ Pub. L. 103–322, title XXXII, § 320928(g), Sept. 13, 1994, 108 Stat. 2132, 
 
 **(3)** that an authorized agency or designated entity, as applicable,,3
 
-<sup>3</sup>  So in original.
+<sup>3</sup> So in original.
 
 upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
 
@@ -197,7 +197,7 @@ A designated entity shall, upon the receipt of the information described in para
 
 The Attorney General shall, by rule, establish the criteria for use by designated entities in making a determination of fitness described in subsection (b)(4). Such criteria shall be based on the criteria established pursuant to section 108(a)(3)(G)(i) of the Prosecutorial Remedies and Other Tools to end the Exploitation of Children Today Act of 2003 (34 U.S.C. 40102 note) and section 9858f of title 42.
 
-(Pub. L. 103–209, § 3, Dec. 20, 1993, 107 Stat. 2491; Pub. L. 103–322, title XXXII, § 320928(a)(1), (2), (c), (e), Sept. 13, 1994, 108 Stat. 2131, 2132; Pub. L. 105–251, title II, § 222(a), (b), Oct. 9, 1998, 112 Stat. 1885; Pub. L. 115–141, div. S, title I, § 101(a)(1), Mar. 23, 2018, 132 Stat. 1123.)
+(Pub. L. 103–209, § 3, Dec. 20, 1993, 107 Stat. 2491; Pub. L. 103–322, title XXXII, § 320928(a)(1), (2), (c), (e), Sept. 13, 1994, 108 Stat. 2131, 2132; Pub. L. 105–251, title II, § 222(a), (b), Oct. 9, 1998, 112 Stat. 1885; Pub. L. 115–141, div. S, title I, § 101(a)(1), Mar. 23, 2018, 132 Stat. 1123.)
 
 **Editorial Notes**
 
@@ -205,7 +205,7 @@ The Attorney General shall, by rule, establish the criteria for use by designate
 
 The effective date of this subparagraph, referred to in subsec. (a)(3)(A), probably means the date of enactment of Pub. L. 115–141, which was approved Mar. 23, 2018.
 
-The Civil Rights Act of 1964, referred to in subsec. (b)(2)(C)(iv), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b)(2)(C)(iv), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 Public Law 92–544, referred to in subsec. (b)(5), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. Provisions relating to use of funds for the exchange of identification records are in title II of Pub. L. 92–544, formerly set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as section 41101 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -217,49 +217,49 @@ Section was formerly classified to section 5119a of Title 42, The Public Health 
 
 **Amendments**
 
-2018—Pub. L. 115–141, § 101(a)(1)(A), (B), substituted “covered individual” for “provider” and “covered individual’s” for “provider’s” wherever appearing.
+2018—Pub. L. 115–141, § 101(a)(1)(A), (B), substituted “covered individual” for “provider” and “covered individual’s” for “provider’s” wherever appearing.
 
-Subsec. (a)(3). Pub. L. 115–141, § 101(a)(1)(C), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In the absence of State procedures referred to in paragraph (1), a qualified entity designated under paragraph (1) may contact an authorized agency of the State to request national criminal fingerprint background checks. Qualified entities requesting background checks under this paragraph shall comply with the guidelines set forth in subsection (b) and with procedures for requesting national criminal fingerprint background checks, if any, established by the State.”
+Subsec. (a)(3). Pub. L. 115–141, § 101(a)(1)(C), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In the absence of State procedures referred to in paragraph (1), a qualified entity designated under paragraph (1) may contact an authorized agency of the State to request national criminal fingerprint background checks. Qualified entities requesting background checks under this paragraph shall comply with the guidelines set forth in subsection (b) and with procedures for requesting national criminal fingerprint background checks, if any, established by the State.”
 
-Subsec. (b)(1)(E). Pub. L. 115–141, § 101(a)(1)(D)(i), struck out “unsupervised” before “access”.
+Subsec. (b)(1)(E). Pub. L. 115–141, § 101(a)(1)(D)(i), struck out “unsupervised” before “access”.
 
-Subsec. (b)(2). Pub. L. 115–141, § 101(a)(1)(D)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “that each provider who is the subject of a background check is entitled—
+Subsec. (b)(2). Pub. L. 115–141, § 101(a)(1)(D)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “that each provider who is the subject of a background check is entitled—
 
 “(A) to obtain a copy of any background check report; and
 
 “(B) to challenge the accuracy and completeness of any information contained in any such report and obtain a prompt determination as to the validity of such challenge before a final determination is made by the authorized agency;”.
 
-Subsec. (b)(3), (4). Pub. L. 115–141, § 101(a)(1)(D)(iii), (iv), inserted “or designated entity, as applicable,” after “authorized agency”.
+Subsec. (b)(3), (4). Pub. L. 115–141, § 101(a)(1)(D)(iii), (iv), inserted “or designated entity, as applicable,” after “authorized agency”.
 
-Subsec. (d). Pub. L. 115–141, § 101(a)(1)(E), inserted “, nor shall any designated entity nor any officer or employee thereof,” after “officer or employee thereof,”.
+Subsec. (d). Pub. L. 115–141, § 101(a)(1)(E), inserted “, nor shall any designated entity nor any officer or employee thereof,” after “officer or employee thereof,”.
 
-Subsec. (e). Pub. L. 115–141, § 101(a)(1)(F), amended subsec. (e) generally. Prior to amendment, text read as follows: “In the case of a background check pursuant to a State requirement adopted after December 20, 1993, conducted with fingerprints on a person who volunteers with a qualified entity, the fees collected by authorized State agencies and the Federal Bureau of Investigation may not exceed eighteen dollars, respectively, or the actual cost, whichever is less, of the background check conducted with fingerprints. The States shall establish fee systems that insure that fees to non-profit entities for background checks do not discourage volunteers from participating in child care programs.”
+Subsec. (e). Pub. L. 115–141, § 101(a)(1)(F), amended subsec. (e) generally. Prior to amendment, text read as follows: “In the case of a background check pursuant to a State requirement adopted after December 20, 1993, conducted with fingerprints on a person who volunteers with a qualified entity, the fees collected by authorized State agencies and the Federal Bureau of Investigation may not exceed eighteen dollars, respectively, or the actual cost, whichever is less, of the background check conducted with fingerprints. The States shall establish fee systems that insure that fees to non-profit entities for background checks do not discourage volunteers from participating in child care programs.”
 
-Subsec. (f). Pub. L. 115–141, § 101(a)(1)(G), added subsec. (f).
+Subsec. (f). Pub. L. 115–141, § 101(a)(1)(G), added subsec. (f).
 
-1998—Subsec. (a)(3). Pub. L. 105–251, § 222(a), added par. (3).
+1998—Subsec. (a)(3). Pub. L. 105–251, § 222(a), added par. (3).
 
-Subsec. (b)(5). Pub. L. 105–251, § 222(b), inserted before period at end “, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3)”.
+Subsec. (b)(5). Pub. L. 105–251, § 222(b), inserted before period at end “, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3)”.
 
-1994—Subsec. (a)(1). Pub. L. 103–322, § 320928(a)(1), substituted “the provider’s fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities” for “an individual’s fitness to have responsibility for the safety and well-being of children”.
+1994—Subsec. (a)(1). Pub. L. 103–322, § 320928(a)(1), substituted “the provider’s fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities” for “an individual’s fitness to have responsibility for the safety and well-being of children”.
 
-Subsec. (b)(1)(E). Pub. L. 103–322, § 320928(a)(2)(A), substituted “to a person to whom the qualified entity provides care” for “to a child to whom the qualified entity provides child care”.
+Subsec. (b)(1)(E). Pub. L. 103–322, § 320928(a)(2)(A), substituted “to a person to whom the qualified entity provides care” for “to a child to whom the qualified entity provides child care”.
 
-Subsec. (b)(4). Pub. L. 103–322, § 320928(a)(2)(B), substituted “the provider’s fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities” for “an individual’s fitness to have responsibility for the safety and well-being of children”.
+Subsec. (b)(4). Pub. L. 103–322, § 320928(a)(2)(B), substituted “the provider’s fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities” for “an individual’s fitness to have responsibility for the safety and well-being of children”.
 
-Subsec. (d). Pub. L. 103–322, § 320928(c), inserted “(other than itself)” after “failure of a qualified entity”.
+Subsec. (d). Pub. L. 103–322, § 320928(c), inserted “(other than itself)” after “failure of a qualified entity”.
 
-Subsec. (e). Pub. L. 103–322, § 320928(e), substituted “eighteen dollars, respectively, or the actual cost, whichever is less,” for “the actual cost”.
+Subsec. (e). Pub. L. 103–322, § 320928(e), substituted “eighteen dollars, respectively, or the actual cost, whichever is less,” for “the actual cost”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Implementation**
 
-Pub. L. 115–141, div. S, title I, § 101(b), Mar. 23, 2018, 132 Stat. 1126, provided that: “The Attorney General shall ensure that this section [amending this section and section 40104 of this title] and the amendments made by this section are fully implemented not later than 1 year after the date of enactment of this section [Mar. 23, 2018].”
+Pub. L. 115–141, div. S, title I, § 101(b), Mar. 23, 2018, 132 Stat. 1126, provided that: “The Attorney General shall ensure that this section [amending this section and section 40104 of this title] and the amendments made by this section are fully implemented not later than 1 year after the date of enactment of this section [Mar. 23, 2018].”
 
 **Pilot Program for National Criminal History Background Checks and Feasibility Study**
 
-Pub. L. 108–21, title I, § 108, Apr. 30, 2003, 117 Stat. 655, as amended by Pub. L. 108–68, § 1, Aug. 1, 2003, 117 Stat. 883; Pub. L. 108–458, title VI, § 6401, Dec. 17, 2004, 118 Stat. 3755; Pub. L. 109–162, title XI, § 1197, Jan. 5, 2006, 119 Stat. 3131; Pub. L. 110–296, § 2, July 30, 2008, 122 Stat. 2974; Pub. L. 110–408, § 2, Oct. 13, 2008, 122 Stat. 4301; Pub. L. 111–143, § 2, Mar. 1, 2010, 124 Stat. 41; Pub. L. 111–341, § 2, Dec. 22, 2010, 124 Stat. 3606, provided that:
+Pub. L. 108–21, title I, § 108, Apr. 30, 2003, 117 Stat. 655, as amended by Pub. L. 108–68, § 1, Aug. 1, 2003, 117 Stat. 883; Pub. L. 108–458, title VI, § 6401, Dec. 17, 2004, 118 Stat. 3755; Pub. L. 109–162, title XI, § 1197, Jan. 5, 2006, 119 Stat. 3131; Pub. L. 110–296, § 2, July 30, 2008, 122 Stat. 2974; Pub. L. 110–408, § 2, Oct. 13, 2008, 122 Stat. 4301; Pub. L. 111–143, § 2, Mar. 1, 2010, 124 Stat. 41; Pub. L. 111–341, § 2, Dec. 22, 2010, 124 Stat. 3606, provided that:
 
 > **“(a) Establishment of Pilot Program.—**
 
@@ -385,7 +385,7 @@ Pub. L. 108–21, title I, § 108, Apr. 30, 2003, 117 Stat. 655, as amended by
 
 > **“(3)** alleging harm arising from a decision that, based on the absence of criminal history information, an individual is fit to serve as a volunteer for any volunteer organization unless the Center, the director, officer, employee, or agent knows that criminal history records exist and have not been furnished as required under this section.”
 
-## § 40103. Funding for improvement of child abuse crime information
+## § 40103. Funding for improvement of child abuse crime information
 
 **(a) Omitted**
 
@@ -409,13 +409,13 @@ Pub. L. 108–21, title I, § 108, Apr. 30, 2003, 117 Stat. 655, as amended by
 
 Effective 1 year after December 20, 1993, the Attorney General may reduce, by up to 10 percent, the allocation to a State for a fiscal year under title I of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10101 et seq.] that is not in compliance with the requirements of this chapter.
 
-(Pub. L. 103–209, § 4, Dec. 20, 1993, 107 Stat. 2493; Pub. L. 103–322, title XXXII, § 320928(d), Sept. 13, 1994, 108 Stat. 2132; Pub. L. 105–251, title II, § 222(c), Oct. 9, 1998, 112 Stat. 1885.)
+(Pub. L. 103–209, § 4, Dec. 20, 1993, 107 Stat. 2493; Pub. L. 103–322, title XXXII, § 320928(d), Sept. 13, 1994, 108 Stat. 2132; Pub. L. 105–251, title II, § 222(c), Oct. 9, 1998, 112 Stat. 1885.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Title I of the Act is classified principally to chapter 101 (§ 10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Title I of the Act is classified principally to chapter 101 (§ 10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
 **Codification**
 
@@ -435,7 +435,7 @@ Section was formerly classified to section 5119b of Title 42, The Public Health 
 
 For appropriations for amounts authorized in subsec. (b) of this section from the Violent Crime Reduction Trust Fund established by section 12631 of this title, see section 210603(a) of Pub. L. 103–322, set out as a note under section 922 of Title 18, Crimes and Criminal Procedure.
 
-## § 40104. Definitions
+## § 40104. Definitions
 
 For the purposes of this chapter—
 
@@ -471,7 +471,7 @@ For the purposes of this chapter—
 
 **(12)** the term “designated entity” means an entity designated by the Attorney General under section 40102(f)(2)(A) of this title.
 
-(Pub. L. 103–209, § 5, Dec. 20, 1993, 107 Stat. 2493; Pub. L. 103–322, title XXXII, § 320928(a)(3), (j), Sept. 13, 1994, 108 Stat. 2132, 2133; Pub. L. 107–110, title X, § 1075, Jan. 8, 2002, 115 Stat. 2090; Pub. L. 115–141, div. S, title I, § 101(a)(2), Mar. 23, 2018, 132 Stat. 1126.)
+(Pub. L. 103–209, § 5, Dec. 20, 1993, 107 Stat. 2493; Pub. L. 103–322, title XXXII, § 320928(a)(3), (j), Sept. 13, 1994, 108 Stat. 2132, 2133; Pub. L. 107–110, title X, § 1075, Jan. 8, 2002, 115 Stat. 2090; Pub. L. 115–141, div. S, title I, § 101(a)(2), Mar. 23, 2018, 132 Stat. 1126.)
 
 **Editorial Notes**
 
@@ -481,23 +481,23 @@ Section was formerly classified to section 5119c of Title 42, The Public Health 
 
 **Amendments**
 
-2018—Par. (9). Pub. L. 115–141, § 101(a)(2)(A), amended par. (9) generally. Prior to amendment, par. (9) defined the term “provider”.
+2018—Par. (9). Pub. L. 115–141, § 101(a)(2)(A), amended par. (9) generally. Prior to amendment, par. (9) defined the term “provider”.
 
-Par. (12). Pub. L. 115–141, § 101(a)(2)(B)–(D), added par. (12).
+Par. (12). Pub. L. 115–141, § 101(a)(2)(B)–(D), added par. (12).
 
-2002—Par. (9)(A)(i). Pub. L. 107–110, § 1075(1), inserted before semicolon at end “(including an individual who is employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel)”.
+2002—Par. (9)(A)(i). Pub. L. 107–110, § 1075(1), inserted before semicolon at end “(including an individual who is employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel)”.
 
-Par. (9)(B)(i). Pub. L. 107–110, § 1075(2), inserted before semicolon at end “(including an individual who seeks to be employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel)”.
+Par. (9)(B)(i). Pub. L. 107–110, § 1075(2), inserted before semicolon at end “(including an individual who seeks to be employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel)”.
 
-1994—Par. (5). Pub. L. 103–322, § 320928(a)(3)(A), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “the term ‘child care’ means the provision of care, treatment, education, training, instruction, supervision, or recreation to children by persons having unsupervised access to a child;”.
+1994—Par. (5). Pub. L. 103–322, § 320928(a)(3)(A), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “the term ‘child care’ means the provision of care, treatment, education, training, instruction, supervision, or recreation to children by persons having unsupervised access to a child;”.
 
-Pars. (6), (7). Pub. L. 103–322, § 320928(j)(2), added pars. (6) and (7). Former pars. (6) and (7) redesignated (8) and (9), respectively.
+Pars. (6), (7). Pub. L. 103–322, § 320928(j)(2), added pars. (6) and (7). Former pars. (6) and (7) redesignated (8) and (9), respectively.
 
-Par. (8). Pub. L. 103–322, § 320928(j)(1), redesignated par. (6) as (8). Former par. (8) redesignated (10).
+Par. (8). Pub. L. 103–322, § 320928(j)(1), redesignated par. (6) as (8). Former par. (8) redesignated (10).
 
-Pub. L. 103–322, § 320928(a)(3)(B), substituted “care” for “child care” wherever appearing.
+Pub. L. 103–322, § 320928(a)(3)(B), substituted “care” for “child care” wherever appearing.
 
-Pars. (9) to (11). Pub. L. 103–322, § 320928(j)(1), redesignated pars. (7) to (9) as (9) to (11), respectively.
+Pars. (9) to (11). Pub. L. 103–322, § 320928(j)(1), redesignated pars. (7) to (9) as (9) to (11), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 

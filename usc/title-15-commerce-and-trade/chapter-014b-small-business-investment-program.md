@@ -17,13 +17,13 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 661. Congressional declaration of policy
+### § 661. Congressional declaration of policy
 
 It is declared to be the policy of the Congress and the purpose of this chapter to improve and stimulate the national economy in general and the small-business segment thereof in particular by establishing a program to stimulate and supplement the flow of private equity capital and long-term loan funds which small-business concerns need for the sound financing of their business operations and for their growth, expansion, and modernization, and which are not available in adequate supply: *Provided, however*, That this policy shall be carried out in such manner as to insure the maximum participation of private financing sources.
 
 It is the intention of the Congress that the provisions of this chapter shall be so administered that any financial assistance provided hereunder shall not result in a substantial increase of unemployment in any area of the country. It is the intention of the Congress that in the award of financial assistance under this chapter, when practicable, priority be accorded to small business concerns which lease or purchase equipment and supplies which are produced in the United States and that small business concerns receiving such assistance be encouraged to continue to lease or purchase such equipment and supplies.
 
-(Pub. L. 85–699, title I, § 102, Aug. 21, 1958, 72 Stat. 689; Pub. L. 102–366, title IV, § 416, Sept. 4, 1992, 106 Stat. 1019.)
+(Pub. L. 85–699, title I, § 102, Aug. 21, 1958, 72 Stat. 689; Pub. L. 102–366, title IV, § 416, Sept. 4, 1992, 106 Stat. 1019.)
 
 **Editorial Notes**
 
@@ -39,79 +39,79 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Short Title of 2026 Amendment**
 
-Pub. L. 119–92, § 1, May 19, 2026, 140 Stat. 825, provided that: “This Act [amending sections 662 and 683 of this title] may be cited as the ‘Investing in All of America Act of 2025’.”
+Pub. L. 119–92, § 1, May 19, 2026, 140 Stat. 825, provided that: “This Act [amending sections 662 and 683 of this title] may be cited as the ‘Investing in All of America Act of 2025’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–371, § 1, Dec. 21, 2018, 132 Stat. 5106, provided that: This Act [amending section 696 of this title] may be cited as the “Small Business Access to Capital and Efficiency Act” or the “Small Business ACE Act”.
+Pub. L. 115–371, § 1, Dec. 21, 2018, 132 Stat. 5106, provided that: This Act [amending section 696 of this title] may be cited as the “Small Business Access to Capital and Efficiency Act” or the “Small Business ACE Act”.
 
-Pub. L. 115–333, § 1, Dec. 19, 2018, 132 Stat. 4488, provided that: “This Act [amending sections 662, 681, and 687 of this title] may be cited as the ‘Spurring Business in Communities Act of 2017’.”
+Pub. L. 115–333, § 1, Dec. 19, 2018, 132 Stat. 4488, provided that: “This Act [amending sections 662, 681, and 687 of this title] may be cited as the ‘Spurring Business in Communities Act of 2017’.”
 
-Pub. L. 115–187, § 1, June 21, 2018, 132 Stat. 1489, provided that: “This Act [amending section 683 of this title] may be cited as the ‘Small Business Investment Opportunity Act of 2017’.”
+Pub. L. 115–187, § 1, June 21, 2018, 132 Stat. 1489, provided that: “This Act [amending section 683 of this title] may be cited as the ‘Small Business Investment Opportunity Act of 2017’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–232, § 1, May 28, 2004, 118 Stat. 649, provided that:“This Act [amending section 697e of this title] may be cited as the ‘Premier Certified Lenders Program Improvement Act of 2004’.”
+Pub. L. 108–232, § 1, May 28, 2004, 118 Stat. 649, provided that:“This Act [amending section 697e of this title] may be cited as the ‘Premier Certified Lenders Program Improvement Act of 2004’.”
 
 **Short Title of 2001 Amendment**
 
-Pub. L. 107–100, § 1, Dec. 21, 2001, 115 Stat. 966, provided that: “This Act [amending sections 636, 683, 687d, 687e, and 697 of this title, section 1833a of Title 12, Banks and Banking, and section 1014 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 636, 683, and 697 of this title] may be cited as the ‘Small Business Investment Company Amendments Act of 2001’.”
+Pub. L. 107–100, § 1, Dec. 21, 2001, 115 Stat. 966, provided that: “This Act [amending sections 636, 683, 687d, 687e, and 697 of this title, section 1833a of Title 12, Banks and Banking, and section 1014 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 636, 683, and 697 of this title] may be cited as the ‘Small Business Investment Company Amendments Act of 2001’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–554, § 1(a)(8) [§ 1(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–653, provided that: “This section [enacting part B of subchapter III of this chapter, amending section 683 of this title, section 109 of Title 11, Bankruptcy, and section 1464 of Title 12, Banks and Banking, and amending provisions set out as a note under section 631 of this title] may be cited as the ‘New Markets Venture Capital Program Act of 2000’.”
+Pub. L. 106–554, § 1(a)(8) [§ 1(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–653, provided that: “This section [enacting part B of subchapter III of this chapter, amending section 683 of this title, section 109 of Title 11, Bankruptcy, and section 1464 of Title 12, Banks and Banking, and amending provisions set out as a note under section 631 of this title] may be cited as the ‘New Markets Venture Capital Program Act of 2000’.”
 
-Pub. L. 106–554, § 1(a)(9) [title III, § 301], Dec. 21, 2000, 114 Stat. 2763, 2763A–684, provided that: “This title [enacting section 697g of this title, amending sections 695 to 697 and 697e of this title, enacting provisions set out as a note under section 697g of this title, and repealing provisions set out as a note under section 697e of this title] may be cited as the ‘Certified Development Company Program Improvements Act of 2000’.”
+Pub. L. 106–554, § 1(a)(9) [title III, § 301], Dec. 21, 2000, 114 Stat. 2763, 2763A–684, provided that: “This title [enacting section 697g of this title, amending sections 695 to 697 and 697e of this title, enacting provisions set out as a note under section 697g of this title, and repealing provisions set out as a note under section 697e of this title] may be cited as the ‘Certified Development Company Program Improvements Act of 2000’.”
 
-Pub. L. 106–554, § 1(a)(9) [title IV, § 401], Dec. 21, 2000, 114 Stat. 2763, 2763A–690, provided that: “This title [amending sections 662, 682, 683, and 687b of this title] may be cited as the ‘Small Business Investment Corrections Act of 2000’.”
+Pub. L. 106–554, § 1(a)(9) [title IV, § 401], Dec. 21, 2000, 114 Stat. 2763, 2763A–690, provided that: “This title [amending sections 662, 682, 683, and 687b of this title] may be cited as the ‘Small Business Investment Corrections Act of 2000’.”
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–9, § 1, Apr. 5, 1999, 113 Stat. 17, provided that: “This Act [amending sections 662, 683, 687, and 687m of this title and provisions set out as notes under this section and section 631 of this title] may be cited as the ‘Small Business Investment Improvement Act of 1999’.”
+Pub. L. 106–9, § 1, Apr. 5, 1999, 113 Stat. 17, provided that: “This Act [amending sections 662, 683, 687, and 687m of this title and provisions set out as notes under this section and section 631 of this title] may be cited as the ‘Small Business Investment Improvement Act of 1999’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–403, title V, § 501, Oct. 22, 1994, 108 Stat. 4198, provided that: “This title [enacting section 697f of this title and provisions set out as a note under section 697f of this title] may be cited as the ‘Small Business Prepayment Penalty Relief Act of 1994’.”
+Pub. L. 103–403, title V, § 501, Oct. 22, 1994, 108 Stat. 4198, provided that: “This title [enacting section 697f of this title and provisions set out as a note under section 697f of this title] may be cited as the ‘Small Business Prepayment Penalty Relief Act of 1994’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–366, title IV, § 401, Sept. 4, 1992, 106 Stat. 1007, provided that: “This Act [probably means “This title”, amending this section and sections 662, 682, 683, 685 to 687, 687b, and 687*l* of this title, enacting provisions set out as notes under this section and sections 681 and 687b of this title, and amending provisions set out as a note under section 631 of this title] may be cited as the ‘Small Business Equity Enhancement Act of 1992’.”
+Pub. L. 102–366, title IV, § 401, Sept. 4, 1992, 106 Stat. 1007, provided that: “This Act [probably means “This title”, amending this section and sections 662, 682, 683, 685 to 687, 687b, and 687*l* of this title, enacting provisions set out as notes under this section and sections 681 and 687b of this title, and amending provisions set out as a note under section 631 of this title] may be cited as the ‘Small Business Equity Enhancement Act of 1992’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–590, title II, § 201, Nov. 3, 1988, 102 Stat. 3007, provided that: “This title [amending sections 694b and 694c of this title and enacting provisions set out as notes under section 694b of this title] may be cited as the ‘Preferred Surety Bond Guarantee Program Act of 1988’.”
+Pub. L. 100–590, title II, § 201, Nov. 3, 1988, 102 Stat. 3007, provided that: “This title [amending sections 694b and 694c of this title and enacting provisions set out as notes under section 694b of this title] may be cited as the ‘Preferred Surety Bond Guarantee Program Act of 1988’.”
 
 **Short Title of 1972 Amendment**
 
-Pub. L. 92–595, § 1, Oct. 27, 1972, 86 Stat. 1314, provided: “That this Act [enacting sections 687i and 687j of this title and amending sections 80a–18, 633, 636, 662, 681, 683, 684, and 686 of this title] may be cited as the ‘Small Business Investment Act Amendments of 1972’.”
+Pub. L. 92–595, § 1, Oct. 27, 1972, 86 Stat. 1314, provided: “That this Act [enacting sections 687i and 687j of this title and amending sections 80a–18, 633, 636, 662, 681, 683, 684, and 686 of this title] may be cited as the ‘Small Business Investment Act Amendments of 1972’.”
 
 **Short Title of 1967 Amendment**
 
-Pub. L. 90–104, title II, § 201, Oct. 11, 1967, 81 Stat. 269, provided that: “This title [amending sections 681, 682, 683, 684, 686, 687, 687b, and 692 of this title] may be cited as the ‘Small Business Investment Act Amendments of 1967’.”
+Pub. L. 90–104, title II, § 201, Oct. 11, 1967, 81 Stat. 269, provided that: “This title [amending sections 681, 682, 683, 684, 686, 687, 687b, and 692 of this title] may be cited as the ‘Small Business Investment Act Amendments of 1967’.”
 
 **Short Title of 1966 Amendment**
 
-Pub. L. 89–779, § 1, Nov. 6, 1966, 80 Stat. 1359, provided: “That this Act [enacting sections 687e, 687f, 687g, and 687h of this title and amending sections 633, 671, 687, 687a, 687b, and 687c of this title, and sections 5315 and 5316 of Title 5, Government Organization and Employees] may be cited as the ‘Small Business Investment Act Amendments of 1966’.”
+Pub. L. 89–779, § 1, Nov. 6, 1966, 80 Stat. 1359, provided: “That this Act [enacting sections 687e, 687f, 687g, and 687h of this title and amending sections 633, 671, 687, 687a, 687b, and 687c of this title, and sections 5315 and 5316 of Title 5, Government Organization and Employees] may be cited as the ‘Small Business Investment Act Amendments of 1966’.”
 
 **Short Title of 1964 Amendment**
 
-Pub. L. 88–273, § 1, Feb. 28, 1964, 78 Stat. 146, provided: “That this Act [enacting section 687d and amending sections 682, 686, and 687 of this title] may be cited as the ‘Small Business Investment Act Amendments of 1963’.”
+Pub. L. 88–273, § 1, Feb. 28, 1964, 78 Stat. 146, provided: “That this Act [enacting section 687d and amending sections 682, 686, and 687 of this title] may be cited as the ‘Small Business Investment Act Amendments of 1963’.”
 
 **Short Title of 1961 Amendment**
 
-Pub. L. 87–341, § 1, Oct. 3, 1961, 75 Stat. 752, provided: “That this Act [enacting sections 687a, 687b, and 687c of this title, amending sections 633, 662, 681, 683 to 687, and 696 of this title, and enacting provisions set out as notes under sections 631 and 686 of this title] may be cited as the ‘Small Business Investment Act Amendments of 1961’.”
+Pub. L. 87–341, § 1, Oct. 3, 1961, 75 Stat. 752, provided: “That this Act [enacting sections 687a, 687b, and 687c of this title, amending sections 633, 662, 681, 683 to 687, and 696 of this title, and enacting provisions set out as notes under sections 631 and 686 of this title] may be cited as the ‘Small Business Investment Act Amendments of 1961’.”
 
 **Short Title of 1960 Amendment**
 
-Pub. L. 86–502, § 1, June 11, 1960, 74 Stat. 196, provided: “That this Act [amending sections 662, 681, 682, and 684 of this title, and section 26–610 of the District of Columbia Code, 1973 edition] may be cited as the ‘Small Business Investment Act Amendments of 1960’.”
+Pub. L. 86–502, § 1, June 11, 1960, 74 Stat. 196, provided: “That this Act [amending sections 662, 681, 682, and 684 of this title, and section 26–610 of the District of Columbia Code, 1973 edition] may be cited as the ‘Small Business Investment Act Amendments of 1960’.”
 
 **Short Title**
 
-Pub. L. 85–699, title I, § 101, Aug. 21, 1958, 72 Stat. 689, as amended by Pub. L. 106–9, § 2(d)(3), Apr. 5, 1999, 113 Stat. 18, provided that: “This Act [enacting this chapter, amending sections 77c, 77ddd, 80a–18, 633 and 636 of this title, and sections 217 [now 212], 218 [now 213], 221 [now 216], 657, 1006 and 1014 of Title 18, Crimes and Criminal Procedure, repealing section 352a of Title 12, Banks and Banking, and enacting notes set out under this section and former section 352a of title 12] may be cited as the ‘Small Business Investment Act of 1958’.”
+Pub. L. 85–699, title I, § 101, Aug. 21, 1958, 72 Stat. 689, as amended by Pub. L. 106–9, § 2(d)(3), Apr. 5, 1999, 113 Stat. 18, provided that: “This Act [enacting this chapter, amending sections 77c, 77ddd, 80a–18, 633 and 636 of this title, and sections 217 [now 212], 218 [now 213], 221 [now 216], 657, 1006 and 1014 of Title 18, Crimes and Criminal Procedure, repealing section 352a of Title 12, Banks and Banking, and enacting notes set out under this section and former section 352a of title 12] may be cited as the ‘Small Business Investment Act of 1958’.”
 
 **Regulations**
 
-Pub. L. 102–366, title IV, § 415, Sept. 4, 1992, 106 Stat. 1018, provided that:
+Pub. L. 102–366, title IV, § 415, Sept. 4, 1992, 106 Stat. 1018, provided that:
 
 > “Notwithstanding any law, rule, regulation or administrative moratorium, except as otherwise expressly provided in this Act [probably means “this title”, see Short Title of 1992 Amendment note above], the Small Business Administration shall—
 
@@ -121,9 +121,9 @@ Pub. L. 102–366, title IV, § 415, Sept. 4, 1992, 106 Stat. 1018, provided t
 
 **Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws**
 
-Pub. L. 102–366, title IV, § 418, Sept. 4, 1992, 106 Stat. 1019, provided that: “Nothing in this Act [probably means “this title”, see Short Title of 1992 Amendment note above] (and no amendment made by this Act) shall be construed to affect the applicability of the securities laws, as that term is defined in section 3(a)(47) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(47)], or any of the rules and regulations thereunder, or otherwise supersede or limit the jurisdiction of the Securities and Exchange Commission or the authority at any time conferred under the securities laws.”
+Pub. L. 102–366, title IV, § 418, Sept. 4, 1992, 106 Stat. 1019, provided that: “Nothing in this Act [probably means “this title”, see Short Title of 1992 Amendment note above] (and no amendment made by this Act) shall be construed to affect the applicability of the securities laws, as that term is defined in section 3(a)(47) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(47)], or any of the rules and regulations thereunder, or otherwise supersede or limit the jurisdiction of the Securities and Exchange Commission or the authority at any time conferred under the securities laws.”
 
-### § 662. Definitions
+### § 662. Definitions
 
 As used in this chapter—
 
@@ -181,7 +181,7 @@ As used in this chapter—
 
 **(C)** does not include any funds obtained directly or indirectly from any Federal, State, or local government or any government agency or instrumentality, except for funds described in subclauses (I) through (III) of subparagraph (B)(iii), for the purpose of approval by the Administrator of any request for leverage.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(10)** the term “leverage” includes—
 
@@ -237,9 +237,9 @@ As used in this chapter—
 
 **(D)** is restricted to Energy Saving qualified investments; and
 
-**(E)** is issued at no cost (as defined in section 661a 2
+**(E)** is issued at no cost (as defined in section 661a 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 2) with respect to purchasing and guaranteeing the debenture;
 
@@ -247,7 +247,7 @@ of title 2) with respect to purchasing and guaranteeing the debenture;
 
 **(20)** the term “underlicensed State” means a State in which the number of licensees per capita is less than the median number of licensees per capita for all States, as calculated by the Administrator.
 
-(Pub. L. 85–699, title I, § 103, Aug. 21, 1958, 72 Stat. 690; Pub. L. 86–502, § 3, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, § 2, Oct. 3, 1961, 75 Stat. 752; Pub. L. 92–595, § 2(a), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, § 106(a), June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, § 410, Sept. 4, 1992, 106 Stat. 1017; Pub. L. 104–208, div. D, title II, § 208(a), Sept. 30, 1996, 110 Stat. 3009–739; Pub. L. 105–135, title II, § 213, Dec. 2, 1997, 111 Stat. 2601; Pub. L. 106–9, § 2(c), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–554, § 1(a)(9) [title IV, § 402], Dec. 21, 2000, 114 Stat. 2763, 2763A–690; Pub. L. 110–140, title XII, § 1205(b), Dec. 19, 2007, 121 Stat. 1773; Pub. L. 115–333, § 2(1), Dec. 19, 2018, 132 Stat. 4488; Pub. L. 119–92, § 2(a), May 19, 2026, 140 Stat. 825.)
+(Pub. L. 85–699, title I, § 103, Aug. 21, 1958, 72 Stat. 690; Pub. L. 86–502, § 3, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, § 2, Oct. 3, 1961, 75 Stat. 752; Pub. L. 92–595, § 2(a), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, § 106(a), June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, § 410, Sept. 4, 1992, 106 Stat. 1017; Pub. L. 104–208, div. D, title II, § 208(a), Sept. 30, 1996, 110 Stat. 3009–739; Pub. L. 105–135, title II, § 213, Dec. 2, 1997, 111 Stat. 2601; Pub. L. 106–9, § 2(c), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–554, § 1(a)(9) [title IV, § 402], Dec. 21, 2000, 114 Stat. 2763, 2763A–690; Pub. L. 110–140, title XII, § 1205(b), Dec. 19, 2007, 121 Stat. 1773; Pub. L. 115–333, § 2(1), Dec. 19, 2018, 132 Stat. 4488; Pub. L. 119–92, § 2(a), May 19, 2026, 140 Stat. 825.)
 
 **Editorial Notes**
 
@@ -255,31 +255,31 @@ of title 2) with respect to purchasing and guaranteeing the debenture;
 
 For definition of “this chapter”, referred to in text, see References in Text note set out under section 661 of this title.
 
-The Small Business Act, referred to in par. (5), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified to chapter 14A (§ 631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables. The term “small-business concern” is defined in section 632 of this title.
+The Small Business Act, referred to in par. (5), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified to chapter 14A (§ 631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables. The term “small-business concern” is defined in section 632 of this title.
 
-The Employee Retirement Income Security Act of 1974, referred to in par. (14), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in par. (14), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 Section 661a of title 2, referred to in par. (18)(E), was in the original “section 502 of the Credit Reform Act of 1990”, which was translated as reading “section 502 of the Federal Credit Reform Act of 1990”, to reflect the probable intent of Congress.
 
 **Amendments**
 
-2026—Par. (9)(B)(iii)(I). Pub. L. 119–92, § 2(a)(2)(A), struck out “established prior to October 1, 1987” before semicolon at end.
+2026—Par. (9)(B)(iii)(I). Pub. L. 119–92, § 2(a)(2)(A), struck out “established prior to October 1, 1987” before semicolon at end.
 
-Par. (9)(B)(iii)(II). Pub. L. 119–92, § 2(a)(2)(B), substituted “benefit plan, pension plan, foundation, endowment, or trust of any college or university” for “benefit plan or pension plan”.
+Par. (9)(B)(iii)(II). Pub. L. 119–92, § 2(a)(2)(B), substituted “benefit plan, pension plan, foundation, endowment, or trust of any college or university” for “benefit plan or pension plan”.
 
-Par. (9)(C). Pub. L. 119–92, § 2(a)(1), (2)(C), (3), added subpar. (C).
+Par. (9)(C). Pub. L. 119–92, § 2(a)(1), (2)(C), (3), added subpar. (C).
 
 2018—Par. (20). Pub. L. 115–333 added par. (20).
 
 2007—Pars. (18), (19). Pub. L. 110–140 added pars. (18) and (19).
 
-2000—Par. (5)(A)(i). Pub. L. 106–554, § 1(a)(9) [title IV, § 402(a)], inserted before semicolon at end “regardless of the allocation of control during the investment period under any investment agreement between the business concern and the entity making the investment”.
+2000—Par. (5)(A)(i). Pub. L. 106–554, § 1(a)(9) [title IV, § 402(a)], inserted before semicolon at end “regardless of the allocation of control during the investment period under any investment agreement between the business concern and the entity making the investment”.
 
-Par. (17). Pub. L. 106–554, § 1(a)(9) [title IV, § 402(b)], added par. (17).
+Par. (17). Pub. L. 106–554, § 1(a)(9) [title IV, § 402(b)], added par. (17).
 
-1999—Par. (5). Pub. L. 106–9, § 2(c)(1), designated existing provisions after “for purposes of this chapter” as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
+1999—Par. (5). Pub. L. 106–9, § 2(c)(1), designated existing provisions after “for purposes of this chapter” as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
 
-Par. (12)(A)(ii). Pub. L. 106–9, § 2(c)(2), inserted before “; or”: “except that, for purposes of this clause, if the business concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the business concern, the net income of the business concern shall be determined by allowing a deduction in an amount equal to the sum of—
+Par. (12)(A)(ii). Pub. L. 106–9, § 2(c)(2), inserted before “; or”: “except that, for purposes of this clause, if the business concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the business concern, the net income of the business concern shall be determined by allowing a deduction in an amount equal to the sum of—
 
 “(I) if the business concern is not required by law to pay State (and local, if any) income taxes at the enterprise level, the net income (determined without regard to this clause), multiplied by the marginal State income tax rate (or by the combined State and local income tax rates, as applicable) that would have applied if the business concern were a corporation; and
 
@@ -287,7 +287,7 @@ Par. (12)(A)(ii). Pub. L. 106–9, § 2(c)(2), inserted before “; or”: �
 
 1997—Par. (9)(B)(iii). Pub. L. 105–135 added subcl. (I) and redesignated former subcls. (I) and (II) as (II) and (III), respectively.
 
-1996—Par. (5). Pub. L. 104–208, § 208(a)(1), inserted before semicolon at end “, except that, for purposes of this chapter, an investment by a venture capital firm, investment company (including a small business investment company) employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation—
+1996—Par. (5). Pub. L. 104–208, § 208(a)(1), inserted before semicolon at end “, except that, for purposes of this chapter, an investment by a venture capital firm, investment company (including a small business investment company) employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation—
 
 “(A) shall not cause a business concern to be deemed not independently owned and operated;
 
@@ -295,9 +295,9 @@ Par. (12)(A)(ii). Pub. L. 106–9, § 2(c)(2), inserted before “; or”: �
 
 “(C) shall be disregarded in determining whether a small business concern is a smaller enterprise”.
 
-Par. (9). Pub. L. 104–208, § 208(a)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “notwithstanding any other provision of law, the term ‘private capital’ means the private paid-in capital and paid-in surplus of a corporate licensee, or the private partnership capital of an unincorporate licensee, inclusive of (A) any funds invested in the licensee by a public or private pension fund, (B) any funds invested in the licensee by State or local government entities, to the extent that such investment does not exceed 33 percent of a licensee’s total private capital and otherwise meets criteria established by the Administration, and (C) unfunded commitments from institutional investors that meet criteria established by the Administration, but it excludes any funds which are borrowed by the licensee from any source or which are obtained or derived, directly or indirectly, from any Federal source, including the Administration: *Provided*, That no unfunded commitment from an institutional investor may be used for the purpose of meeting the minimum amount of private capital required by this chapter or as the basis for the Administration to issue obligations to provide financing; and”.
+Par. (9). Pub. L. 104–208, § 208(a)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “notwithstanding any other provision of law, the term ‘private capital’ means the private paid-in capital and paid-in surplus of a corporate licensee, or the private partnership capital of an unincorporate licensee, inclusive of (A) any funds invested in the licensee by a public or private pension fund, (B) any funds invested in the licensee by State or local government entities, to the extent that such investment does not exceed 33 percent of a licensee’s total private capital and otherwise meets criteria established by the Administration, and (C) unfunded commitments from institutional investors that meet criteria established by the Administration, but it excludes any funds which are borrowed by the licensee from any source or which are obtained or derived, directly or indirectly, from any Federal source, including the Administration: *Provided*, That no unfunded commitment from an institutional investor may be used for the purpose of meeting the minimum amount of private capital required by this chapter or as the basis for the Administration to issue obligations to provide financing; and”.
 
-Pars. (10) to (16). Pub. L. 104–208, § 208(a)(3), added pars. (10) to (16) and struck out former par. (10) which read as follows: “the term ‘leverage’ includes debentures purchased or guaranteed by the Administration, participating securities purchased or guaranteed by the Administration, or preferred securities issued by companies licensed under section 681(d) of this title and which have been purchased by the Administration.”
+Pars. (10) to (16). Pub. L. 104–208, § 208(a)(3), added pars. (10) to (16) and struck out former par. (10) which read as follows: “the term ‘leverage’ includes debentures purchased or guaranteed by the Administration, participating securities purchased or guaranteed by the Administration, or preferred securities issued by companies licensed under section 681(d) of this title and which have been purchased by the Administration.”
 
 1992—Pars. (9), (10). Pub. L. 102–366 added pars. (9) and (10).
 
@@ -307,9 +307,9 @@ Pars. (10) to (16). Pub. L. 104–208, § 208(a)(3), added pars. (10) to (16) 
 
 Par. (7). Pub. L. 92–595 substituted “section 681” for “section 681(c)”.
 
-1961—Par. (3). Pub. L. 87–341, § 2(1), inserted “licensee” and substituted “company approved by the Administration to operate under the provisions of this chapter and issued a license as provided in section 681(c) of this title” for “small business investment company organized as provided in subchapter III of this chapter, including (except for purposes of sections 681 and 687(f) of this title) a State-chartered investment company which has obtained the approval of the Administrator to operate under the provisions of this chapter as provided in section 688 of this title and a company converted into a small business investment company under section 691 of this title”.
+1961—Par. (3). Pub. L. 87–341, § 2(1), inserted “licensee” and substituted “company approved by the Administration to operate under the provisions of this chapter and issued a license as provided in section 681(c) of this title” for “small business investment company organized as provided in subchapter III of this chapter, including (except for purposes of sections 681 and 687(f) of this title) a State-chartered investment company which has obtained the approval of the Administrator to operate under the provisions of this chapter as provided in section 688 of this title and a company converted into a small business investment company under section 691 of this title”.
 
-Par. (7). Pub. L. 87–341, § 2(2), added par. (7).
+Par. (7). Pub. L. 87–341, § 2(2), added par. (7).
 
 1960—Par. (4). Pub. L. 86–502 substituted definition of “State” for definition of “United States”.
 
@@ -329,11 +329,11 @@ Nothing in amendment by Pub. L. 102–366 to be construed to affect applicabilit
 
 ## SUBCHAPTER II—SMALL BUSINESS INVESTMENT DIVISION OF SMALL BUSINESS ADMINISTRATION
 
-### § 671. Establishment; Associate Administrator; appointment and compensation
+### § 671. Establishment; Associate Administrator; appointment and compensation
 
 There is hereby established in the Small Business Administration a division to be known as the Small Business Investment Division. The Division shall be headed by an Associate Administrator who shall be appointed by the Administrator, and shall receive compensation at the rate provided by law for other Associate Administrators of the Small Business Administration.
 
-(Pub. L. 85–699, title II, § 201, Aug. 21, 1958, 72 Stat. 690; Pub. L. 89–117, title III, § 316(b), Aug. 10, 1965, 79 Stat. 484; Pub. L. 89–779, § 2, Nov. 6, 1966, 80 Stat. 1359.)
+(Pub. L. 85–699, title II, § 201, Aug. 21, 1958, 72 Stat. 690; Pub. L. 89–117, title III, § 316(b), Aug. 10, 1965, 79 Stat. 484; Pub. L. 89–779, § 2, Nov. 6, 1966, 80 Stat. 1359.)
 
 **Editorial Notes**
 
@@ -343,15 +343,15 @@ There is hereby established in the Small Business Administration a division to b
 
 1965—Pub. L. 89–117 provided that the powers conferred by subchapters IV–A and V of this chapter shall be exercised through such divisions, sections, or other personnel as the Administrator in his discretion determines.
 
-### § 672. Repealed. Pub. L. 87–341, § 11(h)(1), Oct. 3, 1961, 75 Stat. 757
+### § 672. Repealed. Pub. L. 87–341, § 11(h)(1), Oct. 3, 1961, 75 Stat. 757
 
-Section, Pub. L. 85–699, title II, § 202(b), Aug. 21, 1958, 72 Stat. 691, authorized appropriations for business expenses.
+Section, Pub. L. 85–699, title II, § 202(b), Aug. 21, 1958, 72 Stat. 691, authorized appropriations for business expenses.
 
 ## SUBCHAPTER III—INVESTMENT DIVISION PROGRAMS
 
 ### Part A—Small Business Investment Companies
 
-#### § 681. Organization
+#### § 681. Organization
 
 **(a) Incorporation and charter under State law, period of succession; area of operations**
 
@@ -419,7 +419,7 @@ Not later than 90 days after the initial receipt by the Administrator of an appl
 
 **(ii)** agrees to be limited to 1 tier of leverage available under section 682(b) of this title, until the applicant meets the requirements of section 682(a) of this title.
 
-**(d) Repealed. Pub. L. 104–208, div. D, title II, § 208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742**
+**(d) Repealed. Pub. L. 104–208, div. D, title II, § 208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742**
 
 **(e) Fees**
 
@@ -433,7 +433,7 @@ The Administration may prescribe fees to be paid by each applicant for a license
 
 **(B)** are authorized to be appropriated solely to cover the costs of licensing examinations.
 
-(Pub. L. 85–699, title III, § 301, Aug. 21, 1958, 72 Stat. 691; Pub. L. 86–502, § 4, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, § 11(a), (b), Oct. 3, 1961, 75 Stat. 756; Pub. L. 90–104, title II, § 202, Oct. 11, 1967, 81 Stat. 269; Pub. L. 92–595, § 2(b), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, § 106(b)–(d), June 4, 1976, 90 Stat. 666; Pub. L. 95–507, title I, § 104, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 100–590, title I, § 105, Nov. 3, 1988, 102 Stat. 2993; Pub. L. 104–208, div. D, title II, § 208(b)(1)–(3)(A), Sept. 30, 1996, 110 Stat. 3009–741, 3009–742; Pub. L. 105–135, title II, §§ 212, 214, Dec. 2, 1997, 111 Stat. 2601; Pub. L. 115–333, § 2(2), Dec. 19, 2018, 132 Stat. 4488.)
+(Pub. L. 85–699, title III, § 301, Aug. 21, 1958, 72 Stat. 691; Pub. L. 86–502, § 4, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, § 11(a), (b), Oct. 3, 1961, 75 Stat. 756; Pub. L. 90–104, title II, § 202, Oct. 11, 1967, 81 Stat. 269; Pub. L. 92–595, § 2(b), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, § 106(b)–(d), June 4, 1976, 90 Stat. 666; Pub. L. 95–507, title I, § 104, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 100–590, title I, § 105, Nov. 3, 1988, 102 Stat. 2993; Pub. L. 104–208, div. D, title II, § 208(b)(1)–(3)(A), Sept. 30, 1996, 110 Stat. 3009–741, 3009–742; Pub. L. 105–135, title II, §§ 212, 214, Dec. 2, 1997, 111 Stat. 2601; Pub. L. 115–333, § 2(2), Dec. 19, 2018, 132 Stat. 4488.)
 
 **Editorial Notes**
 
@@ -443,45 +443,45 @@ For definition of “this chapter”, referred to in subsecs. (b), (c), and (e),
 
 **Amendments**
 
-2018—Subsec. (c)(3)(D). Pub. L. 115–333, § 2(2)(A), added subpar. (D).
+2018—Subsec. (c)(3)(D). Pub. L. 115–333, § 2(2)(A), added subpar. (D).
 
-Subsec. (c)(4)(B)(i). Pub. L. 115–333, § 2(2)(B)(ii), (iii), redesignated cl. (ii) as (i) and amended it generally. Prior to amendment, cl. read as follows: “is located in a State that is not served by a licensee; and”.
+Subsec. (c)(4)(B)(i). Pub. L. 115–333, § 2(2)(B)(ii), (iii), redesignated cl. (ii) as (i) and amended it generally. Prior to amendment, cl. read as follows: “is located in a State that is not served by a licensee; and”.
 
-Pub. L. 115–333, § 2(2)(B)(i), struck out cl. (i) which read as follows: “files an application for a license not later than 180 days after December 2, 1997;”.
+Pub. L. 115–333, § 2(2)(B)(i), struck out cl. (i) which read as follows: “files an application for a license not later than 180 days after December 2, 1997;”.
 
-Subsec. (c)(4)(B)(ii), (iii). Pub. L. 115–333, § 2(2)(B)(ii), redesignated cls. (ii) and (iii) as (i) and (ii), respectively.
+Subsec. (c)(4)(B)(ii), (iii). Pub. L. 115–333, § 2(2)(B)(ii), redesignated cls. (ii) and (iii) as (i) and (ii), respectively.
 
-1997—Subsec. (c)(4)(B). Pub. L. 105–135, § 212, amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “An applicant licensed pursuant to the exception provided in this paragraph shall not be eligible to receive leverage as a licensee until the applicant satisfies the requirements of section 682(a) of this title.”
+1997—Subsec. (c)(4)(B). Pub. L. 105–135, § 212, amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “An applicant licensed pursuant to the exception provided in this paragraph shall not be eligible to receive leverage as a licensee until the applicant satisfies the requirements of section 682(a) of this title.”
 
-Subsec. (e). Pub. L. 105–135, § 214, added subsec. (e).
+Subsec. (e). Pub. L. 105–135, § 214, added subsec. (e).
 
-1996—Subsec. (a). Pub. L. 104–208, § 208(b)(1), substituted “body, a limited liability company, or” for “body or” in first sentence.
+1996—Subsec. (a). Pub. L. 104–208, § 208(b)(1), substituted “body, a limited liability company, or” for “body or” in first sentence.
 
-Subsec. (c). Pub. L. 104–208, § 208(b)(2), inserted heading and amended text of subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The articles and amendments thereto shall be forwarded to the Administration for consideration and approval or disapproval. In determining whether to approve such a company’s articles and permit it to operate under the provisions of this chapter, the Administration shall give due regard, among other things, to the need and availability for the financing of small business concerns in the geographic area in which the proposed company is to commence business, the general business reputation and character of the proposed owners and management of the company, and the probability of successful operations of such company including adequate profitability and financial soundness. After consideration of all relevant factors, if it approves the company’s articles, the Administration may in its discretion approve the company to operate under the provisions of this chapter and issue the company a license for such operation.”
+Subsec. (c). Pub. L. 104–208, § 208(b)(2), inserted heading and amended text of subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The articles and amendments thereto shall be forwarded to the Administration for consideration and approval or disapproval. In determining whether to approve such a company’s articles and permit it to operate under the provisions of this chapter, the Administration shall give due regard, among other things, to the need and availability for the financing of small business concerns in the geographic area in which the proposed company is to commence business, the general business reputation and character of the proposed owners and management of the company, and the probability of successful operations of such company including adequate profitability and financial soundness. After consideration of all relevant factors, if it approves the company’s articles, the Administration may in its discretion approve the company to operate under the provisions of this chapter and issue the company a license for such operation.”
 
-Subsec. (d). Pub. L. 104–208, § 208(b)(3)(A), struck out subsec. (d) which read as follows: “Notwithstanding any other provision of this chapter, a small business investment company, the investment policy of which is that its investments will be made solely in small business concerns which will contribute to a well-balanced national economy by facilitating ownership in such concerns by persons whose participation in the free enterprise system is hampered because of social or economic disadvantages may be organized and chartered under State business or nonprofit corporation statutes, or formed as a limited partnership, and may be licensed by the Administration to operate under the provisions of this chapter.”
+Subsec. (d). Pub. L. 104–208, § 208(b)(3)(A), struck out subsec. (d) which read as follows: “Notwithstanding any other provision of this chapter, a small business investment company, the investment policy of which is that its investments will be made solely in small business concerns which will contribute to a well-balanced national economy by facilitating ownership in such concerns by persons whose participation in the free enterprise system is hampered because of social or economic disadvantages may be organized and chartered under State business or nonprofit corporation statutes, or formed as a limited partnership, and may be licensed by the Administration to operate under the provisions of this chapter.”
 
-1988—Subsec. (a). Pub. L. 100–590 substituted “, if incorporated, has succession for a period of not less than thirty years unless sooner dissolved by its shareholders, and if a limited partnership, has succession for a period of not less than ten years,” for “has succession for a period of not less than thirty years unless sooner dissolved by its shareholders or partners”.
+1988—Subsec. (a). Pub. L. 100–590 substituted “, if incorporated, has succession for a period of not less than thirty years unless sooner dissolved by its shareholders, and if a limited partnership, has succession for a period of not less than ten years,” for “has succession for a period of not less than thirty years unless sooner dissolved by its shareholders or partners”.
 
 1978—Subsec. (d). Pub. L. 95–507 authorized small business investment companies to form as limited partnerships.
 
-1976—Subsec. (a). Pub. L. 94–305, § 106(b), inserted reference to limited partnership and reference to partners, struck out “of incorporation” after “by the articles”, and inserted “or otherwise existing” after “chartered”.
+1976—Subsec. (a). Pub. L. 94–305, § 106(b), inserted reference to limited partnership and reference to partners, struck out “of incorporation” after “by the articles”, and inserted “or otherwise existing” after “chartered”.
 
-Subsec. (b). Pub. L. 94–305, § 106(c), struck out “of incorporation” after “The articles”.
+Subsec. (b). Pub. L. 94–305, § 106(c), struck out “of incorporation” after “The articles”.
 
-Subsec. (c). Pub. L. 94–305, § 106(d), struck out “of incorporation” after “articles” wherever appearing.
+Subsec. (c). Pub. L. 94–305, § 106(d), struck out “of incorporation” after “articles” wherever appearing.
 
 1972—Subsec. (d). Pub. L. 92–595 added subsec. (d).
 
 1967—Subsec. (c). Pub. L. 90–104 provided for consideration of availability of financing, the geographic area, the business reputation, ownership factor, and probability of successful operations of company including adequate profitability and financial soundness and eliminated from consideration the number of such companies previously organized in the United States and the volume of their operations.
 
-1961—Subsec. (a). Pub. L. 87–341, § 11(a), provided that small business investment companies shall be incorporated, organized and chartered under State law, with a minimum succession period of thirty years unless sooner dissolved by its activities and functions, its area of operation shall be subject to the Administration’s approval, and deleted provisions setting the minimum number of incorporators at 10, no company shall be chartered by the Administration unless it determined that none could be chartered under the laws of the State and operate in accordance with this chapter, and that no such company shall be chartered by the Administration under this section after June 30, 1961.
+1961—Subsec. (a). Pub. L. 87–341, § 11(a), provided that small business investment companies shall be incorporated, organized and chartered under State law, with a minimum succession period of thirty years unless sooner dissolved by its activities and functions, its area of operation shall be subject to the Administration’s approval, and deleted provisions setting the minimum number of incorporators at 10, no company shall be chartered by the Administration unless it determined that none could be chartered under the laws of the State and operate in accordance with this chapter, and that no such company shall be chartered by the Administration under this section after June 30, 1961.
 
-Subsec. (c). Pub. L. 87–341, § 11(b)(1), (2), substituted “such a company’s articles of incorporation and permit it to operate under the provisions of this chapter” for “the establishment of such a company and its proposed articles of incorporation”, and provided that if the Administration approves the company to operate under the provisions of this chapter, it may issue the company a license for such operation.
+Subsec. (c). Pub. L. 87–341, § 11(b)(1), (2), substituted “such a company’s articles of incorporation and permit it to operate under the provisions of this chapter” for “the establishment of such a company and its proposed articles of incorporation”, and provided that if the Administration approves the company to operate under the provisions of this chapter, it may issue the company a license for such operation.
 
-Subsec. (d). Pub. L. 87–341, § 11(b)(3), repealed subsec. (d) which specified the general powers of a company formed under this section.
+Subsec. (d). Pub. L. 87–341, § 11(b)(3), repealed subsec. (d) which specified the general powers of a company formed under this section.
 
-Subsec. (e). Pub. L. 87–341, § 11(b)(3), repealed subsec. (e) which provided for a board of directors for a company formed under this section.
+Subsec. (e). Pub. L. 87–341, § 11(b)(3), repealed subsec. (e) which provided for a board of directors for a company formed under this section.
 
 1960—Subsec. (d)(9) to (11). Pub. L. 86–502 repealed par. (9) which empowered companies to act as depositories or fiscal agents of the United States, and redesignated pars. (10) and (11) as (9) and (10), respectively.
 
@@ -493,23 +493,23 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 **Effective Date of 1967 Amendment**
 
-Pub. L. 90–104, title II, § 211, Oct. 11, 1967, 81 Stat. 272, provided that: “The effective date of this title [amending this section and sections 682 to 684, 686, 687, 687b, and 692 of this title] shall be ninety days after enactment [Oct. 11, 1967], except that, with respect to section 207 [amending section 686 of this title], it shall be January 1, 1968.”
+Pub. L. 90–104, title II, § 211, Oct. 11, 1967, 81 Stat. 272, provided that: “The effective date of this title [amending this section and sections 682 to 684, 686, 687, 687b, and 692 of this title] shall be ninety days after enactment [Oct. 11, 1967], except that, with respect to section 207 [amending section 686 of this title], it shall be January 1, 1968.”
 
 **Savings Provision**
 
-Pub. L. 104–208, div. D, title II, § 208(b)(3)(B), Sept. 30, 1996, 110 Stat. 3009–742, provided that: “The repeal under subparagraph (A) [repealing subsec. (d) of this section] shall not be construed to require the Administrator to cancel, revoke, withdraw, or modify any license issued under section 301(d) of the Small Business Investment Act of 1958 [subsec. (d) of this section] before the date of enactment of this Act [Sept. 30, 1996].”
+Pub. L. 104–208, div. D, title II, § 208(b)(3)(B), Sept. 30, 1996, 110 Stat. 3009–742, provided that: “The repeal under subparagraph (A) [repealing subsec. (d) of this section] shall not be construed to require the Administrator to cancel, revoke, withdraw, or modify any license issued under section 301(d) of the Small Business Investment Act of 1958 [subsec. (d) of this section] before the date of enactment of this Act [Sept. 30, 1996].”
 
 **Regulatory Review**
 
-Pub. L. 102–366, title IV, § 408(d), Sept. 4, 1992, 106 Stat. 1017, directed Small Business Administration, not later than 90 days after Sept. 4, 1992, to complete a review of regulations intended to provide for safety and soundness of small business investment companies which obtain financing from the Administration under provisions of the Small Business Investment Act of 1958, 15 U.S.C. 661 et seq., and to exempt from such regulations, or to separately regulate, companies which do not obtain financing from the Administration.
+Pub. L. 102–366, title IV, § 408(d), Sept. 4, 1992, 106 Stat. 1017, directed Small Business Administration, not later than 90 days after Sept. 4, 1992, to complete a review of regulations intended to provide for safety and soundness of small business investment companies which obtain financing from the Administration under provisions of the Small Business Investment Act of 1958, 15 U.S.C. 661 et seq., and to exempt from such regulations, or to separately regulate, companies which do not obtain financing from the Administration.
 
 **Reports to Congress**
 
-Pub. L. 102–366, title IV, § 408(e), Sept. 4, 1992, 106 Stat. 1017, directed Administration, within 180 days after Sept. 4, 1992, to report on actions taken pursuant to section 408(d) of Pub. L. 102–366, formerly set out above, to the Committees on Small Business of the Senate and the House of Representatives, including the rationale for its actions.
+Pub. L. 102–366, title IV, § 408(e), Sept. 4, 1992, 106 Stat. 1017, directed Administration, within 180 days after Sept. 4, 1992, to report on actions taken pursuant to section 408(d) of Pub. L. 102–366, formerly set out above, to the Committees on Small Business of the Senate and the House of Representatives, including the rationale for its actions.
 
-Pub. L. 102–366, title IV, § 417(b), Sept. 4, 1992, 106 Stat. 1019, provided that not later than 4 years after Sept. 4, 1992, the Comptroller General was to transmit to Congress a report that reviewed the Small Business Investment Company program established under the Small Business Investment Act of 1958 (15 U.S.C. 661 et seq.) for the 3-year period following Sept. 4, 1992, with respect to each item listed in section 687(g)(3) of this title.
+Pub. L. 102–366, title IV, § 417(b), Sept. 4, 1992, 106 Stat. 1019, provided that not later than 4 years after Sept. 4, 1992, the Comptroller General was to transmit to Congress a report that reviewed the Small Business Investment Company program established under the Small Business Investment Act of 1958 (15 U.S.C. 661 et seq.) for the 3-year period following Sept. 4, 1992, with respect to each item listed in section 687(g)(3) of this title.
 
-#### § 682. Capital requirements
+#### § 682. Capital requirements
 
 **(a) Amount**
 
@@ -527,9 +527,9 @@ The Administrator may, in the discretion of the Administrator and based on a sho
 
 **(A)** determine whether the private capital of each licensee is adequate to assure a reasonable prospect that the licensee will be operated soundly and profitably, and managed actively and prudently in accordance with its articles; and
 
-**(B)** determine that the licensee will be able 1
+**(B)** determine that the licensee will be able 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 both prior to licensing and prior to approving any request for financing, to make periodic payments on any debt of the company which is interest bearing and shall take into consideration the income which the company anticipates on its contemplated investments, the experience of the company’s owners and managers, the history of the company as an entity, if any, and the company’s financial resources.
 
@@ -543,9 +543,9 @@ both prior to licensing and prior to approving any request for financing, to mak
 
 **(1) Certain banks**
 
-Notwithstanding the provisions of section 1845(a)(1) 2
+Notwithstanding the provisions of section 1845(a)(1) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 12, any national bank, or any member bank of the Federal Reserve System or nonmember insured bank to the extent permitted under applicable State law, may invest in any 1 or more small business investment companies, or in any entity established to invest solely in small business investment companies, except that in no event shall the total amount of such investments of any such bank exceed 5 percent of the capital and surplus of the bank.
 
@@ -557,7 +557,7 @@ Notwithstanding any other provision of law, any Federal savings association may 
 
 The Administrator shall ensure that the management of each licensee licensed after September 30, 1996, is sufficiently diversified from and unaffiliated with the ownership of the licensee in a manner that ensures independence and objectivity in the financial management and oversight of the investments and operations of the licensee.
 
-(Pub. L. 85–699, title III, § 302, Aug. 21, 1958, 72 Stat. 692; Pub. L. 86–502, § 5, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, § 3, Oct. 3, 1961, 75 Stat. 752; Pub. L. 88–273, § 2, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, §§ 203(a), 204, Oct. 11, 1967, 81 Stat. 269, 270; Pub. L. 94–305, title I, §§ 106(e), 107, June 4, 1976, 90 Stat. 666; Pub. L. 95–89, title II, § 210, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–507, title I, § 105, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 102–366, title IV, §§ 406(a), 409, Sept. 4, 1992, 106 Stat. 1015, 1017; Pub. L. 104–208, div. D, title II, § 208(c), Sept. 30, 1996, 110 Stat. 3009–742; Pub. L. 105–135, title II, § 215(a), Dec. 2, 1997, 111 Stat. 2601; Pub. L. 106–554, § 1(a)(9) [title IV, § 403], Dec. 21, 2000, 114 Stat. 2763, 2763A–690.)
+(Pub. L. 85–699, title III, § 302, Aug. 21, 1958, 72 Stat. 692; Pub. L. 86–502, § 5, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, § 3, Oct. 3, 1961, 75 Stat. 752; Pub. L. 88–273, § 2, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, §§ 203(a), 204, Oct. 11, 1967, 81 Stat. 269, 270; Pub. L. 94–305, title I, §§ 106(e), 107, June 4, 1976, 90 Stat. 666; Pub. L. 95–89, title II, § 210, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–507, title I, § 105, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 102–366, title IV, §§ 406(a), 409, Sept. 4, 1992, 106 Stat. 1015, 1017; Pub. L. 104–208, div. D, title II, § 208(c), Sept. 30, 1996, 110 Stat. 3009–742; Pub. L. 105–135, title II, § 215(a), Dec. 2, 1997, 111 Stat. 2601; Pub. L. 106–554, § 1(a)(9) [title IV, § 403], Dec. 21, 2000, 114 Stat. 2763, 2763A–690.)
 
 **Editorial Notes**
 
@@ -565,9 +565,9 @@ The Administrator shall ensure that the management of each licensee licensed aft
 
 For definition of “this chapter”, referred to in subsec. (a)(1)(B), see References in Text note set out under section 661 of this title.
 
-Subsection (d) of section 681 of this title, referred to in subsec. (a)(4), was repealed by Pub. L. 104–208, div. D, title II, § 208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742.
+Subsection (d) of section 681 of this title, referred to in subsec. (a)(4), was repealed by Pub. L. 104–208, div. D, title II, § 208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742.
 
-Section 1845(a)(1) of title 12, referred to in subsec. (b)(1), was repealed by Pub. L. 89–485, § 9, July 1, 1966, 80 Stat. 240. See section 371c of Title 12, Banks and Banking.
+Section 1845(a)(1) of title 12, referred to in subsec. (b)(1), was repealed by Pub. L. 89–485, § 9, July 1, 1966, 80 Stat. 240. See section 371c of Title 12, Banks and Banking.
 
 **Codification**
 
@@ -579,11 +579,11 @@ September 30, 1996, referred to in subsecs. (a)(4) and (c), was in the original 
 
 1997—Subsec. (b). Pub. L. 105–135 substituted “any national bank, or any member bank of the Federal Reserve System or nonmember insured bank to the extent permitted under applicable State law, may invest in any 1 or more small business investment companies, or in any entity established to invest solely in small business investment companies, except that in no event shall the total amount of such investments of any such bank exceed 5 percent of the capital and surplus of the bank.” for “shares of stock in small business investment companies shall be eligible for purchase by national banks, and shall be eligible for purchase by other member banks of the Federal Reserve System and nonmember insured banks to the extent permitted under applicable State law; except that in no event may any such bank acquire shares in any small business investment company if, upon the making of that acquisition, the aggregate amount of shares in small business investment companies then held by the bank would exceed 5 percent of its capital and surplus.”
 
-1996—Subsec. (a). Pub. L. 104–208, § 208(c)(1), inserted heading and substituted pars. (1) to (3)(A) and “determine that the licensee will be able” in par. (3)(B) for “The combined private paid-in capital and paid-in surplus of any company licensed pursuant to section 681(c) and (d) of this title shall not be less than $150,000: *Provided, however*, That the combined private paid-in capital and paid-in surplus of any company licensed on or after October 1, 1992 pursuant to section 681(c) of this title shall be not less than $2,500,000 and pursuant to section 681(d) of this title shall be not less than $1,500,000. In all cases, such capital and surplus shall be adequate to assure a reasonable prospect that the company will be operated soundly and profitably, and managed actively and prudently in accordance with its articles. The Administration shall also determine the ability of the company,”.
+1996—Subsec. (a). Pub. L. 104–208, § 208(c)(1), inserted heading and substituted pars. (1) to (3)(A) and “determine that the licensee will be able” in par. (3)(B) for “The combined private paid-in capital and paid-in surplus of any company licensed pursuant to section 681(c) and (d) of this title shall not be less than $150,000: *Provided, however*, That the combined private paid-in capital and paid-in surplus of any company licensed on or after October 1, 1992 pursuant to section 681(c) of this title shall be not less than $2,500,000 and pursuant to section 681(d) of this title shall be not less than $1,500,000. In all cases, such capital and surplus shall be adequate to assure a reasonable prospect that the company will be operated soundly and profitably, and managed actively and prudently in accordance with its articles. The Administration shall also determine the ability of the company,”.
 
-Subsec. (a)(4). Pub. L. 104–208, § 208(c)(2), added par. (4).
+Subsec. (a)(4). Pub. L. 104–208, § 208(c)(2), added par. (4).
 
-Subsec. (c). Pub. L. 104–208, § 208(c)(3), inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “The aggregate amount of shares in any such company or companies which may be owned or controlled by any stockholder, or by any group or class of stockholders, may be limited by the Administration.”
+Subsec. (c). Pub. L. 104–208, § 208(c)(3), inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “The aggregate amount of shares in any such company or companies which may be owned or controlled by any stockholder, or by any group or class of stockholders, may be limited by the Administration.”
 
 1992—Subsec. (a). Pub. L. 102–366 substituted “1992 pursuant to section 681(c) of this title shall be not less than $2,500,000 and pursuant to section 681(d) of this title shall be not less than $1,500,000” for “1979 pursuant to section 681(c) and (d) of this title shall be not less than $500,000” and inserted at end “The Administration shall also determine the ability of the company, both prior to licensing and prior to approving any request for financing, to make periodic payments on any debt of the company which is interest bearing and shall take into consideration the income which the company anticipates on its contemplated investments, the experience of the company’s owners and managers, the history of the company as an entity, if any, and the company’s financial resources.”
 
@@ -591,19 +591,19 @@ Subsec. (c). Pub. L. 104–208, § 208(c)(3), inserted heading and amended tex
 
 1977—Subsec. (b). Pub. L. 95–89 inserted “and” between “capital” and “surplus”.
 
-1976—Subsec. (a). Pub. L. 94–305, § 106(e), struck out “of incorporation” after “its articles”.
+1976—Subsec. (a). Pub. L. 94–305, § 106(e), struck out “of incorporation” after “its articles”.
 
-Subsec. (b). Pub. L. 94–305, § 107, struck out provisions prohibiting the bank from acquiring shares in a small business investment company if the bank would hold 50 percent or more of any class of equity securities issued by that investment company and having actual or potential voting rights.
+Subsec. (b). Pub. L. 94–305, § 107, struck out provisions prohibiting the bank from acquiring shares in a small business investment company if the bank would hold 50 percent or more of any class of equity securities issued by that investment company and having actual or potential voting rights.
 
-1967—Subsec. (a). Pub. L. 90–104, § 203(a), substituted small business investment company minimum capital requirement, a combined private paid-in capital and paid-in surplus, of $150,000 and adequate to assure reasonable prospect of sound and profitable company operations and active and prudent management in accordance with the articles of incorporation for former requirement of a paid-in capital and surplus equal to at least $300,000, and eliminated provisions for purchase of debentures of such companies in an amount not to exceed the lesser of $700,000 or the amount of paid-in capital and surplus of the company from other sources and for subordination of debentures (both incorporated in section 686(b) of this title), for such purchases by the Administration only during certain prescribed period, and deeming the debentures part of the capital and surplus for certain purposes.
+1967—Subsec. (a). Pub. L. 90–104, § 203(a), substituted small business investment company minimum capital requirement, a combined private paid-in capital and paid-in surplus, of $150,000 and adequate to assure reasonable prospect of sound and profitable company operations and active and prudent management in accordance with the articles of incorporation for former requirement of a paid-in capital and surplus equal to at least $300,000, and eliminated provisions for purchase of debentures of such companies in an amount not to exceed the lesser of $700,000 or the amount of paid-in capital and surplus of the company from other sources and for subordination of debentures (both incorporated in section 686(b) of this title), for such purchases by the Administration only during certain prescribed period, and deeming the debentures part of the capital and surplus for certain purposes.
 
-Subsec. (b). Pub. L. 90–104, § 204, substituted prohibition against bank acquisition of small business investment company stock if, upon such acquisition, the aggregate amount of shares in such companies then held by the bank would exceed 5 percent of the capital and surplus, or the bank would hold 50 percent or more of any class of equity securities issued by that investment company and having actual or potential voting rights for former prohibition against holding of shares in an amount aggregating more than 2 percent of its capital and surplus.
+Subsec. (b). Pub. L. 90–104, § 204, substituted prohibition against bank acquisition of small business investment company stock if, upon such acquisition, the aggregate amount of shares in such companies then held by the bank would exceed 5 percent of the capital and surplus, or the bank would hold 50 percent or more of any class of equity securities issued by that investment company and having actual or potential voting rights for former prohibition against holding of shares in an amount aggregating more than 2 percent of its capital and surplus.
 
 1964—Subsec. (a). Pub. L. 88–273 increased the limitation on Administration purchase of debentures from $400,000 to $700,000 and extended the period for such purchase from three years after date of issuance of license or date of enactment of Pub. L. 87–341, the Small Business Investment Act Amendments of 1961 (Oct. 3, 1961), whichever is later, to five years after date of issuance of license or date of enactment of Pub. L. 88–273, the Small Business Investment Act Amendments of 1963 (Feb. 28, 1964), whichever is later.
 
-1961—Subsec. (a). Pub. L. 87–341, § 3(a), inserted “and growth”, limited the purchase of debentures to the extent that necessary funds are not available to the company involved from private sources on reasonable terms, increased the amount of purchasable debentures to not more than the lesser of $400,000 or the paid-in capital and surplus of the company from other sources, and restricted such purchases to such period as may be fixed by the Administration, but not ending more than three years after the date of issuance of the company’s license under section 681c of this title, or Oct. 3, 1961, whichever is later, and deleted provisions limiting purchase of debentures to $150,000.
+1961—Subsec. (a). Pub. L. 87–341, § 3(a), inserted “and growth”, limited the purchase of debentures to the extent that necessary funds are not available to the company involved from private sources on reasonable terms, increased the amount of purchasable debentures to not more than the lesser of $400,000 or the paid-in capital and surplus of the company from other sources, and restricted such purchases to such period as may be fixed by the Administration, but not ending more than three years after the date of issuance of the company’s license under section 681c of this title, or Oct. 3, 1961, whichever is later, and deleted provisions limiting purchase of debentures to $150,000.
 
-Subsec. (b). Pub. L. 87–341, § 3(b), increased the maximum amount of shares a bank may hold in small business investment companies to 2 percent of the capital and surplus.
+Subsec. (b). Pub. L. 87–341, § 3(b), increased the maximum amount of shares a bank may hold in small business investment companies to 2 percent of the capital and surplus.
 
 1960—Subsec. (b). Pub. L. 86–502 substituted “Notwithstanding the provisions of section 1845(a)(1) of title 12, shares” for “Shares”.
 
@@ -621,7 +621,7 @@ Amendment by Pub. L. 90–104 effective 90 days after Oct. 11, 1967, see section
 
 Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
 
-#### § 683. Borrowing operations
+#### § 683. Borrowing operations
 
 **(a) Authority to issue obligations**
 
@@ -785,7 +785,7 @@ All fees, interest, and profits received and retained by the Administration unde
 
 In addition to any other authority under this chapter, a small business investment company licensed in the first fiscal year after December 19, 2007, or any fiscal year thereafter may issue Energy Saving debentures.
 
-(Pub. L. 85–699, title III, § 303, Aug. 21, 1958, 72 Stat. 692; Pub. L. 87–341, § 4, Oct. 3, 1961, 75 Stat. 752; Pub. L. 88–273, § 3, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, § 205, Oct. 11, 1967, 81 Stat. 270; Pub. L. 92–213, § 10, Dec. 22, 1971, 85 Stat. 776; Pub. L. 92–595, § 2(c), (d), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, § 104, June 4, 1976, 90 Stat. 665; Pub. L. 95–507, title I, § 101, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 101–162, title V, (4), Nov. 21, 1989, 103 Stat. 1025; Pub. L. 101–574, title II, § 215(a)(1), (b), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 102–366, title IV, §§ 402, 403, 412, 413, Sept. 4, 1992, 106 Stat. 1008, 1009, 1018; Pub. L. 103–403, title II, § 215, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, § 208(d)(1)–(4)(A), (5), (6), (h)(1)(A), Sept. 30, 1996, 110 Stat. 3009–743, 3009–744, 3009–746; Pub. L. 105–135, title II, § 215(b)–(d), Dec. 2, 1997, 111 Stat. 2602, 2603; Pub. L. 106–9, § 2(d)(1), Apr. 5, 1999, 113 Stat. 18; Pub. L. 106–554, § 1(a)(8) [§ 1(d)], § 1(a)(9) [title IV, §§ 404, 405], Dec. 21, 2000, 114 Stat. 2763, 2763A–664, 2763A–690, 2763A–691; Pub. L. 107–100, § 2(a), Dec. 21, 2001, 115 Stat. 966; Pub. L. 108–84, § 117, Sept. 30, 2003, 117 Stat. 1044; Pub. L. 108–172, § 1(b), Dec. 6, 2003, 117 Stat. 2065; Pub. L. 108–447, div. K, title II, § 201, Dec. 8, 2004, 118 Stat. 3465; Pub. L. 110–140, title XII, §§ 1205(a), 1206, Dec. 19, 2007, 121 Stat. 1773; Pub. L. 111–5, div. A, title V, § 505(a), (c), Feb. 17, 2009, 123 Stat. 156, 157; Pub. L. 114–113, div. E, title V, § 521(b), Dec. 18, 2015, 129 Stat. 2464; Pub. L. 115–187, § 2, June 21, 2018, 132 Stat. 1489; Pub. L. 119–92, § 2(b), May 19, 2026, 140 Stat. 825.)
+(Pub. L. 85–699, title III, § 303, Aug. 21, 1958, 72 Stat. 692; Pub. L. 87–341, § 4, Oct. 3, 1961, 75 Stat. 752; Pub. L. 88–273, § 3, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, § 205, Oct. 11, 1967, 81 Stat. 270; Pub. L. 92–213, § 10, Dec. 22, 1971, 85 Stat. 776; Pub. L. 92–595, § 2(c), (d), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, § 104, June 4, 1976, 90 Stat. 665; Pub. L. 95–507, title I, § 101, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 101–162, title V, (4), Nov. 21, 1989, 103 Stat. 1025; Pub. L. 101–574, title II, § 215(a)(1), (b), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 102–366, title IV, §§ 402, 403, 412, 413, Sept. 4, 1992, 106 Stat. 1008, 1009, 1018; Pub. L. 103–403, title II, § 215, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, § 208(d)(1)–(4)(A), (5), (6), (h)(1)(A), Sept. 30, 1996, 110 Stat. 3009–743, 3009–744, 3009–746; Pub. L. 105–135, title II, § 215(b)–(d), Dec. 2, 1997, 111 Stat. 2602, 2603; Pub. L. 106–9, § 2(d)(1), Apr. 5, 1999, 113 Stat. 18; Pub. L. 106–554, § 1(a)(8) [§ 1(d)], § 1(a)(9) [title IV, §§ 404, 405], Dec. 21, 2000, 114 Stat. 2763, 2763A–664, 2763A–690, 2763A–691; Pub. L. 107–100, § 2(a), Dec. 21, 2001, 115 Stat. 966; Pub. L. 108–84, § 117, Sept. 30, 2003, 117 Stat. 1044; Pub. L. 108–172, § 1(b), Dec. 6, 2003, 117 Stat. 2065; Pub. L. 108–447, div. K, title II, § 201, Dec. 8, 2004, 118 Stat. 3465; Pub. L. 110–140, title XII, §§ 1205(a), 1206, Dec. 19, 2007, 121 Stat. 1773; Pub. L. 111–5, div. A, title V, § 505(a), (c), Feb. 17, 2009, 123 Stat. 156, 157; Pub. L. 114–113, div. E, title V, § 521(b), Dec. 18, 2015, 129 Stat. 2464; Pub. L. 115–187, § 2, June 21, 2018, 132 Stat. 1489; Pub. L. 119–92, § 2(b), May 19, 2026, 140 Stat. 825.)
 
 **Editorial Notes**
 
@@ -795,59 +795,59 @@ For definition of “this chapter”, referred to in subsecs. (b), (e), (g)(2), 
 
 **Amendments**
 
-2026—Subsec. (b)(2)(A)(i). Pub. L. 119–92, § 2(b)(1)(A), substituted “200” for “300”.
+2026—Subsec. (b)(2)(A)(i). Pub. L. 119–92, § 2(b)(1)(A), substituted “200” for “300”.
 
-Subsec. (b)(2)(A)(ii). Pub. L. 119–92, § 2(b)(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “$175,000,000.”
+Subsec. (b)(2)(A)(ii). Pub. L. 119–92, § 2(b)(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “$175,000,000.”
 
-Subsec. (b)(2)(B). Pub. L. 119–92, § 2(b)(2), substituted “may not exceed—” and cls. (i) and (ii) for “may not exceed $350,000,000.”
+Subsec. (b)(2)(B). Pub. L. 119–92, § 2(b)(2), substituted “may not exceed—” and cls. (i) and (ii) for “may not exceed $350,000,000.”
 
-Subsec. (b)(2)(C). Pub. L. 119–92, § 2(b)(3)(A), in heading, inserted “or rural” after “low-income” and “, critical technology areas, or small manufacturers” after “geographic areas”.
+Subsec. (b)(2)(C). Pub. L. 119–92, § 2(b)(3)(A), in heading, inserted “or rural” after “low-income” and “, critical technology areas, or small manufacturers” after “geographic areas”.
 
-Subsec. (b)(2)(C)(i). Pub. L. 119–92, § 2(b)(3)(B), inserted heading, inserted “or companies” after “of a company”, struck out “equity” before “investment made”, and substituted “Except as provided in clause (iii), in calculating” for “In calculating”, “subparagraphs (A) and (B)” for “subparagraph (A)”, and “the company or companies in—” and subcls. (I) to (III) for “the company in a smaller enterprise located in a low-income geographic area (as defined in section 689 of this title), to the extent that the total of such amounts does not exceed 50 percent of the company’s private capital.”
+Subsec. (b)(2)(C)(i). Pub. L. 119–92, § 2(b)(3)(B), inserted heading, inserted “or companies” after “of a company”, struck out “equity” before “investment made”, and substituted “Except as provided in clause (iii), in calculating” for “In calculating”, “subparagraphs (A) and (B)” for “subparagraph (A)”, and “the company or companies in—” and subcls. (I) to (III) for “the company in a smaller enterprise located in a low-income geographic area (as defined in section 689 of this title), to the extent that the total of such amounts does not exceed 50 percent of the company’s private capital.”
 
-Subsec. (b)(2)(C)(ii). Pub. L. 119–92, § 2(b)(3)(C), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “The maximum amount of outstanding leverage made available to—
+Subsec. (b)(2)(C)(ii). Pub. L. 119–92, § 2(b)(3)(C), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “The maximum amount of outstanding leverage made available to—
 
 “(I) any 1 company described in clause (iii) may not exceed the lesser of 300 percent of private capital of the company, or $175,000,000; and
 
 “(II) 2 or more companies described in clause (iii) that are under common control (as determined by the Administrator) may not exceed $250,000,000.”
 
-Subsec. (b)(2)(C)(iii). Pub. L. 119–92, § 2(b)(3)(D), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “A company described in this clause is a company licensed under section 681(c) of this title in the first fiscal year after February 17, 2009, or any fiscal year thereafter that certifies in writing that not less than 50 percent of the dollar amount of investments of that company shall be made in companies that are located in a low-income geographic area (as that term is defined in section 689 of this title).”
+Subsec. (b)(2)(C)(iii). Pub. L. 119–92, § 2(b)(3)(D), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “A company described in this clause is a company licensed under section 681(c) of this title in the first fiscal year after February 17, 2009, or any fiscal year thereafter that certifies in writing that not less than 50 percent of the dollar amount of investments of that company shall be made in companies that are located in a low-income geographic area (as that term is defined in section 689 of this title).”
 
 2018—Subsec. (b)(2)(A)(ii). Pub. L. 115–187 substituted “$175,000,000” for “$150,000,000”.
 
 2015—Subsec. (b)(2)(B). Pub. L. 114–113 substituted “$350,000,000” for “$225,000,000”.
 
-2009—Subsec. (b)(2)(A), (B). Pub. L. 111–5, § 505(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which set forth the maximum amount of outstanding leverage for a company with private capital of not more than $15,000,000, for a company with from $15,000,000 to $30,000,000 in private capital, and for a company with private capital of more than $30,000,000, and set forth provisions relating to initial and annual adjustments of amounts.
+2009—Subsec. (b)(2)(A), (B). Pub. L. 111–5, § 505(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which set forth the maximum amount of outstanding leverage for a company with private capital of not more than $15,000,000, for a company with from $15,000,000 to $30,000,000 in private capital, and for a company with private capital of more than $30,000,000, and set forth provisions relating to initial and annual adjustments of amounts.
 
-Subsec. (b)(2)(C). Pub. L. 111–5, § 505(a)(2), designated existing provisions as cl. (i) and added cls. (ii) and (iii).
+Subsec. (b)(2)(C). Pub. L. 111–5, § 505(a)(2), designated existing provisions as cl. (i) and added cls. (ii) and (iii).
 
-Subsec. (b)(4). Pub. L. 111–5, § 505(a)(3), struck out par. (4) which related to maximum aggregate amount of leverage.
+Subsec. (b)(4). Pub. L. 111–5, § 505(a)(3), struck out par. (4) which related to maximum aggregate amount of leverage.
 
-Subsec. (d). Pub. L. 111–5, § 505(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to written certification that not less than 20 percent of the licensee’s aggregate dollar amount of financings would be provided to smaller enterprises, required additional written certification by those licensees with leverage over $90,000,000, and set forth provisions relating to multiple licensees.
+Subsec. (d). Pub. L. 111–5, § 505(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to written certification that not less than 20 percent of the licensee’s aggregate dollar amount of financings would be provided to smaller enterprises, required additional written certification by those licensees with leverage over $90,000,000, and set forth provisions relating to multiple licensees.
 
-2007—Subsec. (b)(2)(D). Pub. L. 110–140, § 1206(a), added subpar. (D).
+2007—Subsec. (b)(2)(D). Pub. L. 110–140, § 1206(a), added subpar. (D).
 
-Subsec. (b)(4)(E). Pub. L. 110–140, § 1206(b), added subpar. (E).
+Subsec. (b)(4)(E). Pub. L. 110–140, § 1206(b), added subpar. (E).
 
-Subsec. (k). Pub. L. 110–140, § 1205(a), added subsec. (k).
+Subsec. (k). Pub. L. 110–140, § 1205(a), added subsec. (k).
 
 2004—Subsec. (g)(4). Pub. L. 108–447 substituted “chapter” for “subsection” in first sentence and “from appropriate sources, as determined by the Administration” for “contingent upon and limited to the extent of earnings” in second sentence.
 
 2003—Subsec. (g)(2). Pub. L. 108–84 and Pub. L. 108–172 amended par. (2) identically, substituting “1.46 percent” for “1.38 percent”.
 
-2001—Subsec. (b). Pub. L. 107–100, § 2(a)(1), in introductory provisions, substituted “September 30, 2001” for “September 30, 2000”, struck out “of not more than 1 percent per year” after “annually by the Administration,”, and inserted “which amount may not exceed 1.38 percent per year, and” before “which shall be paid”.
+2001—Subsec. (b). Pub. L. 107–100, § 2(a)(1), in introductory provisions, substituted “September 30, 2001” for “September 30, 2000”, struck out “of not more than 1 percent per year” after “annually by the Administration,”, and inserted “which amount may not exceed 1.38 percent per year, and” before “which shall be paid”.
 
-Subsec. (g)(2). Pub. L. 107–100, § 2(a)(2), substituted “September 30, 2001” for “September 30, 2000”, struck out “of not more than 1 percent per year” after “annually by the Administration,”, and inserted “which amount may not exceed 1.38 percent per year, and” before “which shall be paid”.
+Subsec. (g)(2). Pub. L. 107–100, § 2(a)(2), substituted “September 30, 2001” for “September 30, 2000”, struck out “of not more than 1 percent per year” after “annually by the Administration,”, and inserted “which amount may not exceed 1.38 percent per year, and” before “which shall be paid”.
 
-2000—Subsec. (b). Pub. L. 106–554, § 1(a)(9) [title IV, § 404(a)], in introductory provisions, substituted “plus, for debentures obligated after September 30, 2000, an additional charge, in an amount established annually by the Administration, of not more than 1 percent per year as necessary to reduce to zero the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter, which shall be paid to and retained by the Administration” for “plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration”.
+2000—Subsec. (b). Pub. L. 106–554, § 1(a)(9) [title IV, § 404(a)], in introductory provisions, substituted “plus, for debentures obligated after September 30, 2000, an additional charge, in an amount established annually by the Administration, of not more than 1 percent per year as necessary to reduce to zero the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter, which shall be paid to and retained by the Administration” for “plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration”.
 
-Subsec. (b)(2). Pub. L. 106–554, § 1(a)(8) [§ 1(d)(1)], amended par. (2) generally, revising structure of par. from one consisting of introductory provisions and subpars. (A) to (D) to one consisting of subpars. (A) and (B), and adding subpar. (C).
+Subsec. (b)(2). Pub. L. 106–554, § 1(a)(8) [§ 1(d)(1)], amended par. (2) generally, revising structure of par. from one consisting of introductory provisions and subpars. (A) to (D) to one consisting of subpars. (A) and (B), and adding subpar. (C).
 
-Subsec. (b)(4)(D). Pub. L. 106–554, § 1(a)(8) [§ 1(d)(2)], added subpar. (D).
+Subsec. (b)(4)(D). Pub. L. 106–554, § 1(a)(8) [§ 1(d)(2)], added subpar. (D).
 
-Subsec. (g)(2). Pub. L. 106–554, § 1(a)(9) [title IV, § 404(b)], substituted “plus, for participating securities obligated after September 30, 2000, an additional charge, in an amount established annually by the Administration, of not more than 1 percent per year as necessary to reduce to zero the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing participating securities under this chapter, which shall be paid to and retained by the Administration” for “plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration”.
+Subsec. (g)(2). Pub. L. 106–554, § 1(a)(9) [title IV, § 404(b)], substituted “plus, for participating securities obligated after September 30, 2000, an additional charge, in an amount established annually by the Administration, of not more than 1 percent per year as necessary to reduce to zero the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing participating securities under this chapter, which shall be paid to and retained by the Administration” for “plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration”.
 
-Subsec. (g)(8). Pub. L. 106–554, § 1(a)(9) [title IV, § 405], substituted “subchapter S corporation” for “subchapter s corporation”, “any time during any calendar quarter based on an” for “the end of any calendar quarter based on a quarterly”, and “interim distributions for a calendar year,” for “quarterly distributions for a calendar year,”.
+Subsec. (g)(8). Pub. L. 106–554, § 1(a)(9) [title IV, § 405], substituted “subchapter S corporation” for “subchapter s corporation”, “any time during any calendar quarter based on an” for “the end of any calendar quarter based on a quarterly”, and “interim distributions for a calendar year,” for “quarterly distributions for a calendar year,”.
 
 1999—Subsec. (g)(13). Pub. L. 106–9 struck out heading and text of par. (13). Text read as follows:
 
@@ -855,41 +855,41 @@ Subsec. (g)(8). Pub. L. 106–554, § 1(a)(9) [title IV, § 405], substitute
 
 “(B) Exception.—During the last quarter of each fiscal year, if the Administrator determines that there is a lack of qualified applicants with private capital of not more than $20,000,000, the Administrator may utilize all or any part of the program level for securities reserved under subparagraph (A) for qualified applicants with private capital of more than $20,000,000.”
 
-1997—Subsec. (b)(2)(D). Pub. L. 105–135, § 215(b)(1)(A), added subpar. (D).
+1997—Subsec. (b)(2)(D). Pub. L. 105–135, § 215(b)(1)(A), added subpar. (D).
 
-Subsec. (b)(4). Pub. L. 105–135, § 215(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “In no event shall the aggregate amount of outstanding leverage of any such company or companies which are commonly controlled as determined by the Administration exceed $90,000,000, unless the Administration determines on a case by case basis to permit a higher amount for companies under common control and imposes such additional terms and conditions as it determines appropriate to minimize the risk of loss to the Administration in the event of default.”
+Subsec. (b)(4). Pub. L. 105–135, § 215(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “In no event shall the aggregate amount of outstanding leverage of any such company or companies which are commonly controlled as determined by the Administration exceed $90,000,000, unless the Administration determines on a case by case basis to permit a higher amount for companies under common control and imposes such additional terms and conditions as it determines appropriate to minimize the risk of loss to the Administration in the event of default.”
 
-Subsec. (d). Pub. L. 105–135, § 215(b)(2), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “The Administrator shall require each licensee, as a condition of approval of an application for leverage, to certify in writing that not less than 20 percent of the aggregate dollar amount of the financings of the licensee will be provided to smaller enterprises.”
+Subsec. (d). Pub. L. 105–135, § 215(b)(2), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “The Administrator shall require each licensee, as a condition of approval of an application for leverage, to certify in writing that not less than 20 percent of the aggregate dollar amount of the financings of the licensee will be provided to smaller enterprises.”
 
-Subsec. (g)(8). Pub. L. 105–135, § 215(c), inserted at end “A company may also elect to make a distribution under this paragraph at the end of any calendar quarter based on a quarterly estimate of the maximum tax liability. If a company makes 1 or more quarterly distributions for a calendar year, and the aggregate amount of those distributions exceeds the maximum amount that the company could have distributed based on a single annual computation, any subsequent distribution by the company under this paragraph shall be reduced by an amount equal to the excess amount distributed.”
+Subsec. (g)(8). Pub. L. 105–135, § 215(c), inserted at end “A company may also elect to make a distribution under this paragraph at the end of any calendar quarter based on a quarterly estimate of the maximum tax liability. If a company makes 1 or more quarterly distributions for a calendar year, and the aggregate amount of those distributions exceeds the maximum amount that the company could have distributed based on a single annual computation, any subsequent distribution by the company under this paragraph shall be reduced by an amount equal to the excess amount distributed.”
 
-Subsec. (i). Pub. L. 105–135, § 215(d), substituted “in the following manner: 1 percent upon the date on which the Administration enters into any commitment for such leverage with the licensee, and the balance of 2 percent (or 3 percent if no commitment has been entered into by the Administration) on the date on which the leverage is drawn by the licensee” for “, payable upon the earlier of the date of entry into any commitment for such leverage or the date on which the leverage is drawn by the licensee” before period at end.
+Subsec. (i). Pub. L. 105–135, § 215(d), substituted “in the following manner: 1 percent upon the date on which the Administration enters into any commitment for such leverage with the licensee, and the balance of 2 percent (or 3 percent if no commitment has been entered into by the Administration) on the date on which the leverage is drawn by the licensee” for “, payable upon the earlier of the date of entry into any commitment for such leverage or the date on which the leverage is drawn by the licensee” before period at end.
 
-1996—Subsec. (a). Pub. L. 104–208, § 208(h)(1)(A)(i), substituted “securities,” for “debenture bonds,”.
+1996—Subsec. (a). Pub. L. 104–208, § 208(h)(1)(A)(i), substituted “securities,” for “debenture bonds,”.
 
-Subsec. (b). Pub. L. 104–208, § 208(d)(1), (6)(A), in first sentence struck out “(but only to the extent that the necessary funds are not available to said company from private sources on reasonable terms)” after “is authorized” and in fifth sentence substituted “1 percent, plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration” for “1 per centum, plus such additional charge, if any, toward covering other costs of the program as the Administration may determine to be consistent with its purposes”.
+Subsec. (b). Pub. L. 104–208, § 208(d)(1), (6)(A), in first sentence struck out “(but only to the extent that the necessary funds are not available to said company from private sources on reasonable terms)” after “is authorized” and in fifth sentence substituted “1 percent, plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration” for “1 per centum, plus such additional charge, if any, toward covering other costs of the program as the Administration may determine to be consistent with its purposes”.
 
-Subsec. (c). Pub. L. 104–208, § 208(d)(2), inserted heading and amended text of subsec. (c) generally. Prior to amendment, text consisted of 7 pars. which authorized the Administration to purchase securities and to purchase or guarantee payments on debentures issued by small business investment companies operating under section 681(d) of this title.
+Subsec. (c). Pub. L. 104–208, § 208(d)(2), inserted heading and amended text of subsec. (c) generally. Prior to amendment, text consisted of 7 pars. which authorized the Administration to purchase securities and to purchase or guarantee payments on debentures issued by small business investment companies operating under section 681(d) of this title.
 
-Subsec. (d). Pub. L. 104–208, § 208(d)(3), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “If the Administration guarantees debentures issued by a small business investment company operating under authority of section 681(d) of this title, it shall make, on behalf of the company payments in such amounts as will reduce the effective rate of interest to be paid by the company during the first five years of the term of such debentures to a rate of interest 3 points below the market rate of interest determined pursuant to section 687*l* of this title. Such payments shall be made by the Administration to the holder of the debenture, its agents or assigns, or to the appropriate central registration agent, if any. The authority to reduce interest rates as provided in this subsection shall be limited to amounts provided in advance in appropriations Acts, and the total amount shall be reserved within the business loan and investment fund to pay an amount equal to the amount of the reduction as it becomes due.”
+Subsec. (d). Pub. L. 104–208, § 208(d)(3), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “If the Administration guarantees debentures issued by a small business investment company operating under authority of section 681(d) of this title, it shall make, on behalf of the company payments in such amounts as will reduce the effective rate of interest to be paid by the company during the first five years of the term of such debentures to a rate of interest 3 points below the market rate of interest determined pursuant to section 687*l* of this title. Such payments shall be made by the Administration to the holder of the debenture, its agents or assigns, or to the appropriate central registration agent, if any. The authority to reduce interest rates as provided in this subsection shall be limited to amounts provided in advance in appropriations Acts, and the total amount shall be reserved within the business loan and investment fund to pay an amount equal to the amount of the reduction as it becomes due.”
 
-Subsec. (e). Pub. L. 104–208, § 208(d)(4)(A), inserted heading and amended text of subsec. (e) generally. Prior to amendment, text read as follows: “In determining the private capital of a small business investment company licensed under section 681(d) of this title and notwithstanding section 662(9) of this title, Federal, State, or local government funds received from sources other than the Administration shall be included solely for regulatory purposes, and not for the purpose of obtaining financial assistance from or licensing by the Administration, providing such funds were invested to November 21, 1989: *Provided*, That such companies may include in private capital for any purpose funds indirectly obtained from State or local governments. As used in this subsection, the term ‘capital indirectly obtained’ includes income generated by a State financing authority or similar State institution or agency or from the investment of State or local money or amounts originally provided to nonprofit institutions or corporations which such institutions or corporations, in their discretion, determine to invest in a company licensed under section 681(d) of this title.”
+Subsec. (e). Pub. L. 104–208, § 208(d)(4)(A), inserted heading and amended text of subsec. (e) generally. Prior to amendment, text read as follows: “In determining the private capital of a small business investment company licensed under section 681(d) of this title and notwithstanding section 662(9) of this title, Federal, State, or local government funds received from sources other than the Administration shall be included solely for regulatory purposes, and not for the purpose of obtaining financial assistance from or licensing by the Administration, providing such funds were invested to November 21, 1989: *Provided*, That such companies may include in private capital for any purpose funds indirectly obtained from State or local governments. As used in this subsection, the term ‘capital indirectly obtained’ includes income generated by a State financing authority or similar State institution or agency or from the investment of State or local money or amounts originally provided to nonprofit institutions or corporations which such institutions or corporations, in their discretion, determine to invest in a company licensed under section 681(d) of this title.”
 
-Subsec. (f). Pub. L. 104–208, § 208(h)(1)(A)(ii), added subsec. (f) and struck out former subsec. (f) which read as follows: “Notwithstanding the provisions of any other law, rule, or regulation, the Administration is authorized to allow the issuer of any preferred stock heretofore sold to the Administration to redeem or repurchase such stock upon the payment to the Administration of an amount less than the par value of such stock. The Administration, in its sole discretion, shall determine the repurchase price after considering factors including, but not limited to, the market value of the stock, the value of benefits previously provided and anticipated to accrue to the issuer, the amount of dividends previously paid, accrued, and anticipated, and the Administration’s estimate of any anticipated redemption. The Administration may guarantee debentures as provided in paragraph (5) of subsection (c) of this section and allow the issuer to use the proceeds to make the payments authorized herein. Any monies received by the Administration from the repurchase of preferred stock shall be deposited in the business loan and investment fund and shall be available solely to provide assistance to companies operating under the authority of section 681(d) of this title, to the extent and in the amounts provided in advance in appropriations Acts.”
+Subsec. (f). Pub. L. 104–208, § 208(h)(1)(A)(ii), added subsec. (f) and struck out former subsec. (f) which read as follows: “Notwithstanding the provisions of any other law, rule, or regulation, the Administration is authorized to allow the issuer of any preferred stock heretofore sold to the Administration to redeem or repurchase such stock upon the payment to the Administration of an amount less than the par value of such stock. The Administration, in its sole discretion, shall determine the repurchase price after considering factors including, but not limited to, the market value of the stock, the value of benefits previously provided and anticipated to accrue to the issuer, the amount of dividends previously paid, accrued, and anticipated, and the Administration’s estimate of any anticipated redemption. The Administration may guarantee debentures as provided in paragraph (5) of subsection (c) of this section and allow the issuer to use the proceeds to make the payments authorized herein. Any monies received by the Administration from the repurchase of preferred stock shall be deposited in the business loan and investment fund and shall be available solely to provide assistance to companies operating under the authority of section 681(d) of this title, to the extent and in the amounts provided in advance in appropriations Acts.”
 
-Subsec. (g)(2). Pub. L. 104–208, § 208(d)(6)(B), substituted “1 percent, plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration” for “1 per centum, plus, at the time the guarantee is issued, such additional charge, if any, toward covering other costs of the program as the Administration may determine to be consistent with its purposes, but not to exceed 2 per centum”.
+Subsec. (g)(2). Pub. L. 104–208, § 208(d)(6)(B), substituted “1 percent, plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration” for “1 per centum, plus, at the time the guarantee is issued, such additional charge, if any, toward covering other costs of the program as the Administration may determine to be consistent with its purposes, but not to exceed 2 per centum”.
 
-Subsec. (g)(4). Pub. L. 104–208, § 208(d)(5), struck out “and maintain” after “shall invest”.
+Subsec. (g)(4). Pub. L. 104–208, § 208(d)(5), struck out “and maintain” after “shall invest”.
 
-Subsec. (g)(8). Pub. L. 104–208, § 208(h)(1)(A)(iii), substituted “partners, shareholders, or members” for “partners or shareholders”, “partner’s, shareholder’s, or member’s” for “partner’s or shareholder’s”, and “partner, shareholder, or member” for “partner or shareholder”.
+Subsec. (g)(8). Pub. L. 104–208, § 208(h)(1)(A)(iii), substituted “partners, shareholders, or members” for “partners or shareholders”, “partner’s, shareholder’s, or member’s” for “partner’s or shareholder’s”, and “partner, shareholder, or member” for “partner or shareholder”.
 
-Subsecs. (i), (j). Pub. L. 104–208, § 208(d)(6)(C), added subsecs. (i) and (j).
+Subsecs. (i), (j). Pub. L. 104–208, § 208(d)(6)(C), added subsecs. (i) and (j).
 
 1994—Subsec. (g)(13). Pub. L. 103–403 added par. (13).
 
-1992—Subsec. (b). Pub. L. 102–366, § 402(1), inserted “or participating securities” after “debentures” in first and sixth sentences.
+1992—Subsec. (b). Pub. L. 102–366, § 402(1), inserted “or participating securities” after “debentures” in first and sixth sentences.
 
-Subsec. (b)(1) to (4). Pub. L. 102–366, § 402(2), added pars. (1) to (4) and struck out former pars. (1) to (3) which read as follows:
+Subsec. (b)(1) to (4). Pub. L. 102–366, § 402(2), added pars. (1) to (4) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) The total amount of debentures purchased or guaranteed and outstanding at any one time from a company which does not qualify under the terms of paragraph (2) of this subsection, shall not exceed 300 percent of the combined private paid-in capital and paid-in surplus of such company. In no event shall the debentures guaranteed and outstanding under this subchapter of any such company or companies which are commonly controlled as determined by the Administration exceed $35,000,000.
 
@@ -897,23 +897,23 @@ Subsec. (b)(1) to (4). Pub. L. 102–366, § 402(2), added pars. (1) to (4) an
 
 “(3) Outstanding amounts of financial assistance provided to a company by the Administration prior to the effective date of the Small Business Investment Act Amendments of 1967 shall be deducted from the maximum amount of debentures which the Administration would otherwise be authorized to purchase or guarantee under this subsection.”
 
-Subsec. (c). Pub. L. 102–366, § 412(1), (2), struck out “preferred” before “securities” in first sentence and inserted at end “As used in this subsection, the term ‘securities’ means shares of nonvoting stock or other corporate securities or limited partnership interests which have similar characteristics.”
+Subsec. (c). Pub. L. 102–366, § 412(1), (2), struck out “preferred” before “securities” in first sentence and inserted at end “As used in this subsection, the term ‘securities’ means shares of nonvoting stock or other corporate securities or limited partnership interests which have similar characteristics.”
 
-Subsec. (c)(1). Pub. L. 102–366, § 412(3), in introductory provisions substituted “such securities” for “shares of nonvoting stock (or other corporate securities having similar characteristics)”.
+Subsec. (c)(1). Pub. L. 102–366, § 412(3), in introductory provisions substituted “such securities” for “shares of nonvoting stock (or other corporate securities having similar characteristics)”.
 
-Subsec. (c)(6). Pub. L. 102–366, § 402(3), inserted before period at end “, except as provided in paragraph (7)”.
+Subsec. (c)(6). Pub. L. 102–366, § 402(3), inserted before period at end “, except as provided in paragraph (7)”.
 
-Subsec. (c)(7). Pub. L. 102–366, § 402(4), added par. (7).
+Subsec. (c)(7). Pub. L. 102–366, § 402(4), added par. (7).
 
-Subsec. (e). Pub. L. 102–366, § 413, inserted “licensed under section 681(d) of this title and notwithstanding section 662(9) of this title” after “company” and substituted “to November 21, 1989: *Provided*, That such companies may include in private capital for any purpose funds indirectly obtained from State or local governments. As used in this subsection, the term ‘capital indirectly obtained’ includes income generated by a State financing authority or similar State institution or agency or from the investment of State or local money or amounts originally provided to nonprofit institutions or corporations which such institutions or corporations, in their discretion, determine to invest in a company licensed under section 681(d) of this title.” for “prior to November 21, 1989.”
+Subsec. (e). Pub. L. 102–366, § 413, inserted “licensed under section 681(d) of this title and notwithstanding section 662(9) of this title” after “company” and substituted “to November 21, 1989: *Provided*, That such companies may include in private capital for any purpose funds indirectly obtained from State or local governments. As used in this subsection, the term ‘capital indirectly obtained’ includes income generated by a State financing authority or similar State institution or agency or from the investment of State or local money or amounts originally provided to nonprofit institutions or corporations which such institutions or corporations, in their discretion, determine to invest in a company licensed under section 681(d) of this title.” for “prior to November 21, 1989.”
 
-Subsecs. (g), (h). Pub. L. 102–366, § 403, added subsecs. (g) and (h).
+Subsecs. (g), (h). Pub. L. 102–366, § 403, added subsecs. (g) and (h).
 
-1990—Subsec. (b)(1). Pub. L. 101–574, § 215(a)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “In no event shall the debentures of any such company purchased or guaranteed and outstanding under this paragraph exceed $35,000,000.”
+1990—Subsec. (b)(1). Pub. L. 101–574, § 215(a)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “In no event shall the debentures of any such company purchased or guaranteed and outstanding under this paragraph exceed $35,000,000.”
 
-Subsec. (c)(6). Pub. L. 101–574, § 215(b)(1), inserted “under the provisions of this subchapter,” after “debentures or securities”.
+Subsec. (c)(6). Pub. L. 101–574, § 215(b)(1), inserted “under the provisions of this subchapter,” after “debentures or securities”.
 
-Subsec. (d). Pub. L. 101–574, § 215(b)(2), struck out after second sentence “The aggregate amount of debentures with interest rate reductions as provided in this subsection or as provided in section 687i of this title which may be outstanding at any time from any such company shall not exceed 200 per centum of the private paid-in capital and paid-in surplus of such company.”
+Subsec. (d). Pub. L. 101–574, § 215(b)(2), struck out after second sentence “The aggregate amount of debentures with interest rate reductions as provided in this subsection or as provided in section 687i of this title which may be outstanding at any time from any such company shall not exceed 200 per centum of the private paid-in capital and paid-in surplus of such company.”
 
 1989—Subsec. (c). Pub. L. 101–162 added subsec. (c) and struck out former subsec. (c) which contained provisions substantially similar to introductory provisions and pars. (1) to (4).
 
@@ -921,19 +921,19 @@ Subsecs. (d) to (f). Pub. L. 101–162 added subsecs. (d) to (f).
 
 1978—Subsec. (c)(1). Pub. L. 95–507 increased the amount of preferred stock small business investment companies were authorized to sell to the Administration so long as such preferred stock leverage did not exceed 200 per centum of the qualified paid-in capital and so long as the amount of such stock purchased by the Administration was not greater in amount than the investment companies’ outstanding equity investments and inserted definition of “equity securities”.
 
-1976—Subsec. (b)(1). Pub. L. 94–305, § 104(a), substituted “300” for “200” and “$35,000,000” for “$15,000,000”.
+1976—Subsec. (b)(1). Pub. L. 94–305, § 104(a), substituted “300” for “200” and “$35,000,000” for “$15,000,000”.
 
-Subsec. (b)(2). Pub. L. 94–305, § 104(b), substituted “400” for “300” and “$35,000,000” for “$20,000,000”.
+Subsec. (b)(2). Pub. L. 94–305, § 104(b), substituted “400” for “300” and “$35,000,000” for “$20,000,000”.
 
-Subsec. (c)(2)(iii). Pub. L. 94–305, § 104(c), substituted “400” for “300” and “300” for “200”.
+Subsec. (c)(2)(iii). Pub. L. 94–305, § 104(c), substituted “400” for “300” and “300” for “200”.
 
-Subsec. (c)(4). Pub. L. 94–305, § 104(c)(2), substituted “300” for “200”.
+Subsec. (c)(4). Pub. L. 94–305, § 104(c)(2), substituted “300” for “200”.
 
-1972—Subsec. (b)(1). Pub. L. 92–595, § 2(c)(1), (2), substituted “combined private paid-in capital” for “combined paid-in capital” and “$15,000,000” for “$7,500,000”.
+1972—Subsec. (b)(1). Pub. L. 92–595, § 2(c)(1), (2), substituted “combined private paid-in capital” for “combined paid-in capital” and “$15,000,000” for “$7,500,000”.
 
-Subsec. (b)(2). Pub. L. 92–595, § 2(c)(3), substituted provisions relating to the purchase of debentures from companies not complying with section 681(d) of this title having investments or legal commitments of 65 per cent or more and whose combined private paid-in capital and paid-in surplus is $500,000 or more for provisions relating to such purchase from companies having investments or legal commitments of 65 per cent or more and whose combined paid-in capital and paid-in surplus is $1,000,000 or more, and increased the maximum amount of outstanding debentures from $10,000,000 to $20,000,000.
+Subsec. (b)(2). Pub. L. 92–595, § 2(c)(3), substituted provisions relating to the purchase of debentures from companies not complying with section 681(d) of this title having investments or legal commitments of 65 per cent or more and whose combined private paid-in capital and paid-in surplus is $500,000 or more for provisions relating to such purchase from companies having investments or legal commitments of 65 per cent or more and whose combined paid-in capital and paid-in surplus is $1,000,000 or more, and increased the maximum amount of outstanding debentures from $10,000,000 to $20,000,000.
 
-Subsec. (c). Pub. L. 92–595, § 2(d), added subsec. (c).
+Subsec. (c). Pub. L. 92–595, § 2(d), added subsec. (c).
 
 1971—Subsec. (b). Pub. L. 92–213 inserted provision for a guaranty authority for the Administration and inserted requirement that such guaranty authority of the Administration be exercised only when authorized in appropriation Acts, authorized the purchase or guaranty on such terms as the Administration deems appropriate pursuant to regulations issued by the Administration, pledged the full faith and credit of the United States to the payment of amounts required to be paid in full under such guaranty, and struck out provision authorizing Administration cooperation with banks or other lending institutions in the purchase of debentures.
 
@@ -951,7 +951,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–100, § 2(b), Dec. 21, 2001, 115 Stat. 966, provided that: “The amendments made by this section [amending this section] shall become effective on October 1, 2001.”
+Pub. L. 107–100, § 2(b), Dec. 21, 2001, 115 Stat. 966, provided that: “The amendments made by this section [amending this section] shall become effective on October 1, 2001.”
 
 **Effective Date of 1997 Amendment**
 
@@ -959,7 +959,7 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–574, title II, § 215(a)(2), Nov. 15, 1990, 104 Stat. 2822, as amended by Pub. L. 102–140, title VI, § 609(c), Oct. 28, 1991, 105 Stat. 825, provided that: “The amendments made by paragraph (1) [amending this section] shall become effective on July 1, 1992.”
+Pub. L. 101–574, title II, § 215(a)(2), Nov. 15, 1990, 104 Stat. 2822, as amended by Pub. L. 102–140, title VI, § 609(c), Oct. 28, 1991, 105 Stat. 825, provided that: “The amendments made by paragraph (1) [amending this section] shall become effective on July 1, 1992.”
 
 **Effective Date of 1967 Amendment**
 
@@ -967,7 +967,7 @@ Amendment by Pub. L. 90–104 effective 90 days after Oct. 11, 1967, see section
 
 **Regulations**
 
-Pub. L. 104–208, div. D, title II, § 208(d)(4)(B), Sept. 30, 1996, 110 Stat. 3009–744, provided that:
+Pub. L. 104–208, div. D, title II, § 208(d)(4)(B), Sept. 30, 1996, 110 Stat. 3009–744, provided that:
 
 > **“(i) Uniform applicability.—** Any regulation issued by the Administration to implement section 303(e) of the Small Business Investment Act of 1958 [15 U.S.C. 683(e)] that applies to any licensee with outstanding leverage obtained before the effective date of that regulation, shall apply uniformly to all licensees with outstanding leverage obtained before that effective date.
 
@@ -977,7 +977,7 @@ Pub. L. 104–208, div. D, title II, § 208(d)(4)(B), Sept. 30, 1996, 110 Stat
 
 Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
 
-#### § 684. Equity capital for small-business concerns
+#### § 684. Equity capital for small-business concerns
 
 **(a) Function of investment companies**
 
@@ -989,13 +989,13 @@ It shall be a function of each small business investment company to provide a so
 
 **(2)** except as provided in regulations issued by the Administration, such concern shall agree that it will not thereafter incur any indebtedness without first securing the approval of the company and giving the company the first opportunity to finance such indebtedness.
 
-**(c) Repealed. Pub. L. 90–104, title II, § 206, Oct. 11, 1967, 81 Stat. 271**
+**(c) Repealed. Pub. L. 90–104, title II, § 206, Oct. 11, 1967, 81 Stat. 271**
 
 **(d) Direct or cooperative provision of capital**
 
 Equity capital provided to incorporated small business concerns under this section may be provided directly or in cooperation with other investors, incorporated or unincorporated, through agreements to participate on an immediate basis.
 
-(Pub. L. 85–699, title III, § 304, Aug. 21, 1958, 72 Stat. 693; Pub. L. 86–502, § 6, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, § 5, Oct. 3, 1961, 75 Stat. 752; Pub. L. 90–104, title II, § 206, Oct. 11, 1967, 81 Stat. 271; Pub. L. 92–595, § 2(e), Oct. 27, 1972, 86 Stat. 1316.)
+(Pub. L. 85–699, title III, § 304, Aug. 21, 1958, 72 Stat. 693; Pub. L. 86–502, § 6, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, § 5, Oct. 3, 1961, 75 Stat. 752; Pub. L. 90–104, title II, § 206, Oct. 11, 1967, 81 Stat. 271; Pub. L. 92–595, § 2(e), Oct. 27, 1972, 86 Stat. 1316.)
 
 **Editorial Notes**
 
@@ -1019,7 +1019,7 @@ Subsecs. (c), (d). Pub. L. 86–502 redesignated subsec. (d) as (c), and substit
 
 Amendment by Pub. L. 90–104 effective 90 days after Oct. 11, 1967, see section 211 of Pub. L. 90–104, set out as a note under section 681 of this title.
 
-#### § 685. Long-term loans to small-business concerns
+#### § 685. Long-term loans to small-business concerns
 
 **(a) Authorization**
 
@@ -1045,7 +1045,7 @@ Any loan made under this section shall be of such sound value, or so secured, as
 
 Any company which has made a loan to a small-business concern under this section is authorized to extend the maturity of or renew such loan for additional periods, not exceeding ten years, if the company finds that such extension or renewal will aid in the orderly liquidation of such loan.
 
-(Pub. L. 85–699, title III, § 305, Aug. 21, 1958, 72 Stat. 693; Pub. L. 87–341, § 6, Oct. 3, 1961, 75 Stat. 753; Pub. L. 94–305, title I, § 105, June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, § 411, Sept. 4, 1992, 106 Stat. 1018.)
+(Pub. L. 85–699, title III, § 305, Aug. 21, 1958, 72 Stat. 693; Pub. L. 87–341, § 6, Oct. 3, 1961, 75 Stat. 753; Pub. L. 94–305, title I, § 105, June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, § 411, Sept. 4, 1992, 106 Stat. 1018.)
 
 **Editorial Notes**
 
@@ -1055,7 +1055,7 @@ For definition of “this chapter”, referred to in subsec. (c), see References
 
 **Amendments**
 
-1992—Subsec. (c). Pub. L. 102–366 inserted before period at end “: *Provided*, That the Administration also shall permit those companies which have issued debentures pursuant to this chapter to charge a maximum rate of interest based upon the coupon rate of interest on the outstanding debentures, determined on an annual basis, plus such other expenses of the company as may be approved by the Administration”.
+1992—Subsec. (c). Pub. L. 102–366 inserted before period at end “: *Provided*, That the Administration also shall permit those companies which have issued debentures pursuant to this chapter to charge a maximum rate of interest based upon the coupon rate of interest on the outstanding debentures, determined on an annual basis, plus such other expenses of the company as may be approved by the Administration”.
 
 1976—Subsec. (b). Pub. L. 94–305 struck out provision that in agreements to participate in loans on a deferred basis, the participation by the company shall not be in excess of 90 percentum of the balance of the loan outstanding at the time of disbursement.
 
@@ -1067,7 +1067,7 @@ For definition of “this chapter”, referred to in subsec. (c), see References
 
 Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
 
-#### § 686. Aggregate limitations on amount of assistance to any single enterprise
+#### § 686. Aggregate limitations on amount of assistance to any single enterprise
 
 **(a) Percentage limitation on private capital** If any small business investment company has obtained financing from the Administrator and such financing remains outstanding, the aggregate amount of securities acquired and for which commitments may be issued by such company under the provisions of this subchapter for any single enterprise shall not, without the approval of the Administrator, exceed 10 percent of the sum of—
 
@@ -1075,13 +1075,13 @@ Nothing in amendment by Pub. L. 102–366 to be construed to affect applicabilit
 
 **(2)** the total amount of leverage projected by the company in the company’s business plan that was approved by the Administrator at the time of the grant of the company’s license.
 
-**(b) Repealed. Pub. L. 92–595, § 2(f), Oct. 27, 1972, 86 Stat. 1316**
+**(b) Repealed. Pub. L. 92–595, § 2(f), Oct. 27, 1972, 86 Stat. 1316**
 
 **(c) Application of provisions to commitments incurred prior to effective date of section**
 
 With respect to obligations or securities acquired prior to the effective date of the Small Business Investment Act Amendments of 1967, and with respect to legally binding commitments issued prior to such date, the provisions of this section as in effect immediately prior to such effective date shall continue to apply.
 
-(Pub. L. 85–699, title III, § 306, Aug. 21, 1958, 72 Stat. 694; Pub. L. 87–341, § 7(a), Oct. 3, 1961, 75 Stat. 753; Pub. L. 88–273, § 4, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, § 207, Oct. 11, 1967, 81 Stat. 271; Pub. L. 92–595, § 2(f), Oct. 27, 1972, 86 Stat. 1316; Pub. L. 102–366, title IV, § 408(a), Sept. 4, 1992, 106 Stat. 1016; Pub. L. 111–5, div. A, title V, § 505(b), Feb. 17, 2009, 123 Stat. 156.)
+(Pub. L. 85–699, title III, § 306, Aug. 21, 1958, 72 Stat. 694; Pub. L. 87–341, § 7(a), Oct. 3, 1961, 75 Stat. 753; Pub. L. 88–273, § 4, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, § 207, Oct. 11, 1967, 81 Stat. 271; Pub. L. 92–595, § 2(f), Oct. 27, 1972, 86 Stat. 1316; Pub. L. 102–366, title IV, § 408(a), Sept. 4, 1992, 106 Stat. 1016; Pub. L. 111–5, div. A, title V, § 505(b), Feb. 17, 2009, 123 Stat. 156.)
 
 **Editorial Notes**
 
@@ -1095,9 +1095,9 @@ For effective date of the Small Business Investment Act Amendments of 1967, refe
 
 1992—Subsec. (a). Pub. L. 102–366 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Without the approval of the Administration, the aggregate amount of obligations and securities acquired and for which commitments may be issued by any small business investment company under the provisions of this chapter for any single enterprise shall not exceed 20 percent of the combined private paid-in capital and paid-in surplus of such company.”
 
-1972—Subsec. (a). Pub. L. 92–595, § 2(f)(1), substituted “combined private paid-in capital” for “combined paid-in capital”.
+1972—Subsec. (a). Pub. L. 92–595, § 2(f)(1), substituted “combined private paid-in capital” for “combined paid-in capital”.
 
-Subsec. (b). Pub. L. 92–595, § 2(f)(2), repealed subsec. (b) which enumerated the items making up the combined paid-in capital and paid-in surplus of companies licensed prior to January 1, 1968.
+Subsec. (b). Pub. L. 92–595, § 2(f)(2), repealed subsec. (b) which enumerated the items making up the combined paid-in capital and paid-in surplus of companies licensed prior to January 1, 1968.
 
 1967—Subsec. (a). Pub. L. 90–104 substituted “paid-in capital and paid-in surplus of such company” for “capital and surplus of such small business investment company authorized by this chapter”.
 
@@ -1115,13 +1115,13 @@ Amendment by Pub. L. 90–104 effective Jan. 1, 1968, see section 211 of Pub. L.
 
 **Effective Date of 1961 Amendment**
 
-Pub. L. 87–341, § 7(b), Oct. 3, 1961, 75 Stat. 753, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to obligations and securities acquired by a small business investment company on or after the date of the enactment of this Act [Oct. 3, 1961]; except that such amendment shall not apply with respect to any obligations or securities so acquired pursuant to a commitment issued before such date.”
+Pub. L. 87–341, § 7(b), Oct. 3, 1961, 75 Stat. 753, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to obligations and securities acquired by a small business investment company on or after the date of the enactment of this Act [Oct. 3, 1961]; except that such amendment shall not apply with respect to any obligations or securities so acquired pursuant to a commitment issued before such date.”
 
 **Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws**
 
 Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
 
-#### § 687. Operation and regulation of companies
+#### § 687. Operation and regulation of companies
 
 **(a) Cooperation with banks and other financial institutions**
 
@@ -1221,7 +1221,7 @@ Certificates made pursuant to paragraphs (1) and (2) shall be retained by the co
 
 **(B)** In the case of any loan with respect to which there is a forfeiture of interest under subparagraph (A), the person who paid the interest may recover from a small business investment company making such loan an amount equal to twice the amount of the interest paid on such loan. Such interest may be recovered in a civil action commenced in a court of appropriate jurisdiction not later than two years after the most recent payment of interest.
 
-(Pub. L. 85–699, title III, § 308, Aug. 21, 1958, 72 Stat. 694; Pub. L. 87–341, §§ 8, 11(c)(d), Oct. 3, 1961, 75 Stat. 753, 756; Pub. L. 88–273, § 5, Feb. 28, 1964, 78 Stat. 147; Pub. L. 89–779, § 3, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 90–104, title II, § 210, Oct. 11, 1967, 81 Stat. 271; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–501, title II, § 204, Oct. 29, 1974, 88 Stat. 1559; Pub. L. 95–507, title I, § 102, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 96–104, title I, § 104, Nov. 5, 1979, 93 Stat. 790; Pub. L. 96–161, title II, § 204, Dec. 28, 1979, 93 Stat. 1236; Pub. L. 96–221, title V, §§ 524, 529, Mar. 31, 1980, 94 Stat. 166, 168; Pub. L. 99–226, § 1, Dec. 28, 1985, 99 Stat. 1744; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–366, title IV, §§ 408(c), 417(a), Sept. 4, 1992, 106 Stat. 1016, 1019; Pub. L. 103–403, title II, § 214, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, § 208(e), (h)(1)(B), Sept. 30, 1996, 110 Stat. 3009–745, 3009–747; Pub. L. 106–9, § 2(a), Apr. 5, 1999, 113 Stat. 17; Pub. L. 108–447, div. K, title II, § 202, Dec. 8, 2004, 118 Stat. 3465; Pub. L. 115–333, § 2(3), Dec. 19, 2018, 132 Stat. 4488.)
+(Pub. L. 85–699, title III, § 308, Aug. 21, 1958, 72 Stat. 694; Pub. L. 87–341, §§ 8, 11(c)(d), Oct. 3, 1961, 75 Stat. 753, 756; Pub. L. 88–273, § 5, Feb. 28, 1964, 78 Stat. 147; Pub. L. 89–779, § 3, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 90–104, title II, § 210, Oct. 11, 1967, 81 Stat. 271; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–501, title II, § 204, Oct. 29, 1974, 88 Stat. 1559; Pub. L. 95–507, title I, § 102, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 96–104, title I, § 104, Nov. 5, 1979, 93 Stat. 790; Pub. L. 96–161, title II, § 204, Dec. 28, 1979, 93 Stat. 1236; Pub. L. 96–221, title V, §§ 524, 529, Mar. 31, 1980, 94 Stat. 166, 168; Pub. L. 99–226, § 1, Dec. 28, 1985, 99 Stat. 1744; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–366, title IV, §§ 408(c), 417(a), Sept. 4, 1992, 106 Stat. 1016, 1019; Pub. L. 103–403, title II, § 214, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, § 208(e), (h)(1)(B), Sept. 30, 1996, 110 Stat. 3009–745, 3009–747; Pub. L. 106–9, § 2(a), Apr. 5, 1999, 113 Stat. 17; Pub. L. 108–447, div. K, title II, § 202, Dec. 8, 2004, 118 Stat. 3465; Pub. L. 115–333, § 2(3), Dec. 19, 2018, 132 Stat. 4488.)
 
 **Editorial Notes**
 
@@ -1229,9 +1229,9 @@ Certificates made pursuant to paragraphs (1) and (2) shall be retained by the co
 
 For definition of “this chapter”, referred to in subsecs. (a) to (h), see References in Text note set out under section 661 of this title.
 
-The Small Business Act, referred to in subsec. (f), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables.
+The Small Business Act, referred to in subsec. (f), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (g)(2)(L), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (g)(2)(L), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 **Codification**
 
@@ -1239,39 +1239,39 @@ Section 204 of Pub. L. 96–161, cited as a credit to this section, was repealed
 
 Section 104 of Pub. L. 96–104, cited as a credit to this section, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979. The amendment of this section by that repealed provision, described in the 1979 Amendment note set out under this section, shall continue in effect for limited purposes pursuant to section 212 of Pub. L. 96–161. See Saving Provisions note, describing the provisions of section 212 of Pub. L. 96–161, set out under section 85 of Title 12, Banks and Banking.
 
-Section 204 of Pub. L. 93–501, cited as a credit to this section, was repealed by Pub. L. 96–104, § 1, Nov. 5, 1979, 93 Stat. 789. The amendment of this section by that repealed provision, described in the 1974 Amendment note, shall continue in effect for limited purposes pursuant to section 1 of Pub. L. 96–104. See Savings Provisions note, describing the provisions of section 1 of Pub. L. 96–104, set out under section 85 of Title 12, Banks and Banking.
+Section 204 of Pub. L. 93–501, cited as a credit to this section, was repealed by Pub. L. 96–104, § 1, Nov. 5, 1979, 93 Stat. 789. The amendment of this section by that repealed provision, described in the 1974 Amendment note, shall continue in effect for limited purposes pursuant to section 1 of Pub. L. 96–104. See Savings Provisions note, describing the provisions of section 1 of Pub. L. 96–104, set out under section 85 of Title 12, Banks and Banking.
 
 **Amendments**
 
-2018—Subsec. (g)(2)(B). Pub. L. 115–333, § 2(3)(A)(i), inserted “and licensing” after “financing”.
+2018—Subsec. (g)(2)(B). Pub. L. 115–333, § 2(3)(A)(i), inserted “and licensing” after “financing”.
 
-Subsec. (g)(2)(C) to (L). Pub. L. 115–333, § 2(3)(A)(ii), (iii), added subpars. (C) and (D) and redesignated former subpars. (C) to (J) as (E) to (L), respectively.
+Subsec. (g)(2)(C) to (L). Pub. L. 115–333, § 2(3)(A)(ii), (iii), added subpars. (C) and (D) and redesignated former subpars. (C) to (J) as (E) to (L), respectively.
 
-Subsec. (g)(3)(E). Pub. L. 115–333, § 2(3)(B), added subpar. (E).
+Subsec. (g)(3)(E). Pub. L. 115–333, § 2(3)(B), added subpar. (E).
 
 2004—Subsec. (b). Pub. L. 108–447, which directed the amendment of section 308(b) of the Small Business Investment Act by substituting “Any such company that is licensed before October 1, 2004 and has outstanding financings is authorized to invest funds not needed for its operations—” and pars. (1) to (3) for last sentence, was executed to this section, which is section 308 of the Small Business Investment Act of 1958, to reflect the probable intent of Congress. Prior to amendment, last sentence read as follows: “Such companies with outstanding financings are authorized to invest funds not reasonably needed for their operations in direct obligations of, or obligations guaranteed as to principal and interest by, the United States, or in certificates of deposit maturing within one year or less, issued by any institution the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, or in savings accounts of such institutions.”
 
 1999—Subsec. (i)(2). Pub. L. 106–9 inserted at end: “In this paragraph, the term ‘interest’ includes only the maximum mandatory sum, expressed in dollars or as a percentage rate, that is payable with respect to the business loan amount received by the small business concern, and does not include the value, if any, of contingent obligations, including warrants, royalty, or conversion rights, granting the small business investment company an ownership interest in the equity or increased future revenue of the small business concern receiving the business loan.”
 
-1996—Subsec. (e). Pub. L. 104–208, § 208(e), substituted “Except as expressly provided otherwise in this chapter, nothing” for “Nothing”.
+1996—Subsec. (e). Pub. L. 104–208, § 208(e), substituted “Except as expressly provided otherwise in this chapter, nothing” for “Nothing”.
 
-Subsec. (h). Pub. L. 104–208, § 208(h)(1)(B), substituted “section 681 of this title” for “subsection (c) or (d) of section 681 of this title” in pars. (1) to (3).
+Subsec. (h). Pub. L. 104–208, § 208(h)(1)(B), substituted “section 681 of this title” for “subsection (c) or (d) of section 681 of this title” in pars. (1) to (3).
 
 1994—Subsec. (h). Pub. L. 103–403 added subsec. (h).
 
-1992—Subsec. (b). Pub. L. 102–366, § 408(c), inserted “with outstanding financings” after “Such companies” in third sentence.
+1992—Subsec. (b). Pub. L. 102–366, § 408(c), inserted “with outstanding financings” after “Such companies” in third sentence.
 
-Subsec. (g)(3). Pub. L. 102–366, § 417(a), added par. (3).
+Subsec. (g)(3). Pub. L. 102–366, § 417(a), added par. (3).
 
 1986—Subsec. (g)(2)(J). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1985—Subsec. (i)(2). Pub. L. 99–226, § 1(a), substituted “the maximum rate prescribed by regulation by the Administration for loans made by any licensee (determined without regard to any State rate incorporated by such regulation).” for “the lowest of the rates described in subparagraphs (A), (B), and (C)” and struck out subpars. (A), (B), and (C) which described the rates.
+1985—Subsec. (i)(2). Pub. L. 99–226, § 1(a), substituted “the maximum rate prescribed by regulation by the Administration for loans made by any licensee (determined without regard to any State rate incorporated by such regulation).” for “the lowest of the rates described in subparagraphs (A), (B), and (C)” and struck out subpars. (A), (B), and (C) which described the rates.
 
-Subsec. (i)(3). Pub. L. 99–226, § 1(b), substituted “paragraph (2)” for “paragraph (2)(B)”.
+Subsec. (i)(3). Pub. L. 99–226, § 1(b), substituted “paragraph (2)” for “paragraph (2)(B)”.
 
-1980—Subsec. (h). Pub. L. 96–221, § 529, repealed Pub. L. 96–104 and title II of Pub. L. 96–161, resulting in the striking out of subsec. (h) which related to the limitation on interest rates, overcharges, forfeitures, and the recovery of interest payments. See subsec. (i) of this section for successor provisions. See also Codification and 1979 Amendment notes under this section.
+1980—Subsec. (h). Pub. L. 96–221, § 529, repealed Pub. L. 96–104 and title II of Pub. L. 96–161, resulting in the striking out of subsec. (h) which related to the limitation on interest rates, overcharges, forfeitures, and the recovery of interest payments. See subsec. (i) of this section for successor provisions. See also Codification and 1979 Amendment notes under this section.
 
-Subsec. (i). Pub. L. 96–221, § 524, added subsec. (i).
+Subsec. (i). Pub. L. 96–221, § 524, added subsec. (i).
 
 1979—Subsec. (h). Pub. L. 96–161 reenacted subsec. (h) [as added by Pub. L. 96–104] with three substitutions of dates: in par. (3)(A) “in the case of a State statute, July 1, 1980” was substituted for “July 1, 1981”, in par. (3)(B) “December 28, 1979” was substituted for “November 5, 1979”, and in par. (3)(C) “December 28, 1979” was substituted for “November 5, 1979”.
 
@@ -1283,41 +1283,41 @@ Pub. L. 96–104 added subsec. (h). A prior subsec. (h), also relating to limita
 
 1967—Subsec. (g). Pub. L. 90–104 designated existing provisions as par. (1) and added par. (2).
 
-1966—Subsec. (c). Pub. L. 89–779, § 3(1), struck out provisions subjecting each small business investment company to examinations by examiners approved by the Administration and requiring the submission of reports by the companies. See section 687b(b) of this title.
+1966—Subsec. (c). Pub. L. 89–779, § 3(1), struck out provisions subjecting each small business investment company to examinations by examiners approved by the Administration and requiring the submission of reports by the companies. See section 687b(b) of this title.
 
-Subsecs. (f), (g). Pub. L. 89–799, § 3(2), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 89–799, § 3(2), added subsecs. (f) and (g).
 
 1964—Subsec. (b). Pub. L. 88–273 authorized investment of funds in insured savings accounts (up to the amount of insurance) in institutions insured by the Federal Savings and Loan Insurance Corporation.
 
-1961—Subsec. (a). Pub. L. 87–341, § 8, substituted “investors or lenders” for “financial institutions” wherever appearing, and provided that these investors or lenders can be either incorporated or unincorporated.
+1961—Subsec. (a). Pub. L. 87–341, § 8, substituted “investors or lenders” for “financial institutions” wherever appearing, and provided that these investors or lenders can be either incorporated or unincorporated.
 
-Subsec. (b). Pub. L. 87–341, § 11(c), substituted “operating under the provisions of this chapter” for “organized under this chapter”.
+Subsec. (b). Pub. L. 87–341, § 11(c), substituted “operating under the provisions of this chapter” for “organized under this chapter”.
 
-Subsec. (e). Pub. L. 87–341, § 11(d), redesignated subsec. (g) as (e), substituted “operating under the provisions of this chapter” for “organized under this chapter”, and repealed former subsec. (e) which related to obtaining restraining orders against violators of this chapter.
+Subsec. (e). Pub. L. 87–341, § 11(d), redesignated subsec. (g) as (e), substituted “operating under the provisions of this chapter” for “organized under this chapter”, and repealed former subsec. (e) which related to obtaining restraining orders against violators of this chapter.
 
-Subsec. (f). Pub. L. 87–341, § 11(d), repealed subsec. (f) which permitted small business investment companies to extend their corporate existence for a term of not more than 30 years. See subsec. (a) of section 681 of this title.
+Subsec. (f). Pub. L. 87–341, § 11(d), repealed subsec. (f) which permitted small business investment companies to extend their corporate existence for a term of not more than 30 years. See subsec. (a) of section 681 of this title.
 
-Subsec. (g). Pub. L. 87–341, § 11(d), redesignated subsec. (g) as (e).
+Subsec. (g). Pub. L. 87–341, § 11(d), redesignated subsec. (g) as (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–226, § 2, Dec. 28, 1985, 99 Stat. 1744, provided that: “This Act [amending this section] shall apply to maximum interest rates prescribed by the Administration on or after April 1, 1980.”
+Pub. L. 99–226, § 2, Dec. 28, 1985, 99 Stat. 1744, provided that: “This Act [amending this section] shall apply to maximum interest rates prescribed by the Administration on or after April 1, 1980.”
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, provided that the amendment made by that section is effective at the close of Mar. 31, 1980.
+Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, provided that the amendment made by that section is effective at the close of Mar. 31, 1980.
 
 **Effective Date of 1979 Amendments**
 
-Pub. L. 96–161, title II, § 207, Dec. 28, 1979, 93 Stat. 1238, which provided that amendment by Pub. L. 96–161 was applicable to loans made in any State during the period beginning on Dec. 28, 1979, and ending on the earliest of (1) in the case of a State statute, July 1, 1980; (2) the date, after Dec. 28, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section made by Pub. L. 96–161 to apply with respect to loans made in such State; or (3) the date on which such State certifies that the voters of such State, after Dec. 28, 1979, have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment to the constitution of such State which prohibits the charging of interest at the rates provided in the amendment of this section by Pub. L. 96–161, was repealed by Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168.
+Pub. L. 96–161, title II, § 207, Dec. 28, 1979, 93 Stat. 1238, which provided that amendment by Pub. L. 96–161 was applicable to loans made in any State during the period beginning on Dec. 28, 1979, and ending on the earliest of (1) in the case of a State statute, July 1, 1980; (2) the date, after Dec. 28, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section made by Pub. L. 96–161 to apply with respect to loans made in such State; or (3) the date on which such State certifies that the voters of such State, after Dec. 28, 1979, have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment to the constitution of such State which prohibits the charging of interest at the rates provided in the amendment of this section by Pub. L. 96–161, was repealed by Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168.
 
-Pub. L. 96–104, title I, § 107, Nov. 5, 1979, 93 Stat. 792, which provided that amendment by Pub. L. 96–104 was applicable to loans made by any State during the period beginning on Nov. 5, 1979, and ending on the earlier of July 1, 1981, or the date after Nov. 5, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section to apply with respect to loans made in such State, or the date on which such State certifies that the voters of such State have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment of the constitution of such State, which prohibits the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–161, title II, § 212, Dec. 28, 1979, 93 Stat. 1239.
+Pub. L. 96–104, title I, § 107, Nov. 5, 1979, 93 Stat. 792, which provided that amendment by Pub. L. 96–104 was applicable to loans made by any State during the period beginning on Nov. 5, 1979, and ending on the earlier of July 1, 1981, or the date after Nov. 5, 1979, on which such State adopts a law stating in substance that such State does not want the amendment of this section to apply with respect to loans made in such State, or the date on which such State certifies that the voters of such State have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment of the constitution of such State, which prohibits the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–161, title II, § 212, Dec. 28, 1979, 93 Stat. 1239.
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–501, title II, § 206, Oct. 29, 1974, 88 Stat. 1560, which provided that amendment by Pub. L. 93–501 was applicable to loans made in any state after Oct. 29, 1974, but prior to the earlier of July 1, 1977 or the date of enactment by the state of a law prohibiting the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–104, § 1, Nov. 5, 1979, 93 Stat. 789.
+Pub. L. 93–501, title II, § 206, Oct. 29, 1974, 88 Stat. 1560, which provided that amendment by Pub. L. 93–501 was applicable to loans made in any state after Oct. 29, 1974, but prior to the earlier of July 1, 1977 or the date of enactment by the state of a law prohibiting the charging of interest at the rates provided in the amendment of this section, was repealed by Pub. L. 96–104, § 1, Nov. 5, 1979, 93 Stat. 789.
 
 **Effective Date of 1967 Amendment**
 
@@ -1325,7 +1325,7 @@ Amendment by Pub. L. 90–104 effective 90 days after Oct. 11, 1967, see section
 
 **Savings Provision**
 
-Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, provided in part that, notwithstanding the repeal of Pub. L. 96–104 and title II of Pub. L. 96–161, the provisions of subsec. (h) of this section [which had been added to this section by those repealed laws] shall continue to apply to any loan made, any deposit made, or any obligation issued to any State during any period when those provisions were in effect in such State.
+Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, provided in part that, notwithstanding the repeal of Pub. L. 96–104 and title II of Pub. L. 96–161, the provisions of subsec. (h) of this section [which had been added to this section by those repealed laws] shall continue to apply to any loan made, any deposit made, or any obligation issued to any State during any period when those provisions were in effect in such State.
 
 **Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws**
 
@@ -1337,7 +1337,7 @@ In any case in which one or more provisions of, or amendments made by, title V o
 
 **States Having Constitutional Provisions Regarding Maximum Interest Rates**
 
-Pub. L. 96–161, title II, § 213, Dec. 28, 1979, 93 Stat. 1240, provided that the provisions of title II of Pub. L. 96–161, which amended this section and repealed provisions which had formerly amended this section, to continue to apply until July 1, 1981, in the case of any State having a constitutional provision regarding maximum interest rates.
+Pub. L. 96–161, title II, § 213, Dec. 28, 1979, 93 Stat. 1240, provided that the provisions of title II of Pub. L. 96–161, which amended this section and repealed provisions which had formerly amended this section, to continue to apply until July 1, 1981, in the case of any State having a constitutional provision regarding maximum interest rates.
 
 **Definition of “State”**
 
@@ -1349,7 +1349,7 @@ For purposes of subsec. (i) of this section, the term “State” to include the
 
 Bureau of the Budget designated as Office of Management and Budget and Offices of Director, Deputy Director, and Assistant Directors of Bureau of the Budget designated Director, Deputy Director, and Assistant Directors of Office of Management and Budget, respectively. Records, property, personnel, and funds of Bureau of the Budget transferred to Office of Management and Budget. See Part I of Reorganization Plan 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### § 687a. Revocation and suspension of licenses; cease and desist orders
+#### § 687a. Revocation and suspension of licenses; cease and desist orders
 
 **(a) Grounds for suspension or revocation** A license may be revoked or suspended by the Administration—
 
@@ -1383,7 +1383,7 @@ An order issued by the Administration under this section shall be final and conc
 
 If any licensee or other person against which or against whom an order is issued under this section fails to obey the order, the Administration may apply to the United States court of appeals, within the circuit where the licensee has its principal place of business, for the enforcement of the order, and shall file a transcript of the record upon which the order complained of was entered. Upon the filing of the application the court shall cause notice thereof to be served on the licensee or other person. The evidence to be considered, the procedure to be followed, and the jurisdiction of the court shall be the same as is provided in subsection (e) for applications to set aside or modify orders.
 
-(Pub. L. 85–699, title III, § 309, as added Pub. L. 87–341, § 9, Oct. 3, 1961, 75 Stat. 753; amended Pub. L. 89–779, § 4, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 98–620, title IV, § 402(15)(A), (B), Nov. 8, 1984, 98 Stat. 3358.)
+(Pub. L. 85–699, title III, § 309, as added Pub. L. 87–341, § 9, Oct. 3, 1961, 75 Stat. 753; amended Pub. L. 89–779, § 4, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 98–620, title IV, § 402(15)(A), (B), Nov. 8, 1984, 98 Stat. 3358.)
 
 **Editorial Notes**
 
@@ -1393,19 +1393,19 @@ For definition of “this chapter”, referred to in subsecs. (a)(3), (4) and (b
 
 **Amendments**
 
-1984—Subsec. (e). Pub. L. 98–620, § 402(15)(A), struck out provision that the proceedings in such cases in the court of appeals had to be made a preferred cause and had to be expedited in every way.
+1984—Subsec. (e). Pub. L. 98–620, § 402(15)(A), struck out provision that the proceedings in such cases in the court of appeals had to be made a preferred cause and had to be expedited in every way.
 
-Subsec. (f). Pub. L. 98–620, § 402(15)(B), struck out provision that the proceedings in such cases had to be made a preferred cause and expedited in every way.
+Subsec. (f). Pub. L. 98–620, § 402(15)(B), struck out provision that the proceedings in such cases had to be made a preferred cause and expedited in every way.
 
-1966—Subsec. (a). Pub. L. 89–779, § 4(b), inserted reference to revocation in introductory text preceding par. (1), and, in pars. (1) and (2), deleted restriction which limited the grounds for suspension or revocation for false or misleading statements to the situation in which such statements were made for the purpose of obtaining a license.
+1966—Subsec. (a). Pub. L. 89–779, § 4(b), inserted reference to revocation in introductory text preceding par. (1), and, in pars. (1) and (2), deleted restriction which limited the grounds for suspension or revocation for false or misleading statements to the situation in which such statements were made for the purpose of obtaining a license.
 
-Subsec. (b). Pub. L. 89–779, § 4(c), expanded the Administration’s authority to issue cease and desist orders by authorizing their issuance against individuals who have not complied with provisions of this chapter and against both licensees and individuals who have violated or are about to violate this chapter or regulations issued pursuant thereto.
+Subsec. (b). Pub. L. 89–779, § 4(c), expanded the Administration’s authority to issue cease and desist orders by authorizing their issuance against individuals who have not complied with provisions of this chapter and against both licensees and individuals who have violated or are about to violate this chapter or regulations issued pursuant thereto.
 
-Subsec. (c). Pub. L. 89–779, § 4(d), inserted references to persons involved other than the licensee and to the revocation of licenses so as to conform the subsec. to the expansion of the Administration’s authority to revoke licenses and to issue cease and desist orders to persons other than licensees under subsecs. (a) and (b).
+Subsec. (c). Pub. L. 89–779, § 4(d), inserted references to persons involved other than the licensee and to the revocation of licenses so as to conform the subsec. to the expansion of the Administration’s authority to revoke licenses and to issue cease and desist orders to persons other than licensees under subsecs. (a) and (b).
 
-Subsec. (e). Pub. L. 89–779, § 4(e), authorized the appeal from an order issued by the Administration under this section by other persons, besides the licensee, against whom an order is issued.
+Subsec. (e). Pub. L. 89–779, § 4(e), authorized the appeal from an order issued by the Administration under this section by other persons, besides the licensee, against whom an order is issued.
 
-Subsec. (f). Pub. L. 89–779, § 4(f), provided that individuals as well as licensees are to be affected by subsec. (f).
+Subsec. (f). Pub. L. 89–779, § 4(f), provided that individuals as well as licensees are to be affected by subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1413,7 +1413,7 @@ Subsec. (f). Pub. L. 89–779, § 4(f), provided that individuals as well as l
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
-#### § 687b. Investigations and examinations; power to subpena and take oaths and affirmations; aid of courts; examiners; reports
+#### § 687b. Investigations and examinations; power to subpena and take oaths and affirmations; aid of courts; examiners; reports
 
 **(a) Investigation of violations**
 
@@ -1471,7 +1471,7 @@ Not less than once during each fiscal year, each licensee shall submit to the Ad
 
 **(B)** include appropriate safeguards to ensure that the noncash assets of a licensee are not overvalued.
 
-(Pub. L. 85–699, title III, § 310, as added Pub. L. 87–341, § 9, Oct. 3, 1961, 75 Stat. 755; amended Pub. L. 89–779, § 5, Nov. 6, 1966, 80 Stat. 1360; Pub. L. 90–104, title II, § 208, Oct. 11, 1967, 81 Stat. 271; Pub. L. 100–590, title I, § 104, Nov. 3, 1988, 102 Stat. 2992; Pub. L. 102–366, title IV, §§ 406(b), 407(a), 408(b), Sept. 4, 1992, 106 Stat. 1016; Pub. L. 104–208, div. D, title II, § 208(f), (h)(1)(C), Sept. 30, 1996, 110 Stat. 3009–745, 3009–747; Pub. L. 105–135, title II, § 216, Dec. 2, 1997, 111 Stat. 2603; Pub. L. 106–554, § 1(a)(9) [title IV, § 406], Dec. 21, 2000, 114 Stat. 2763, 2763A–691.)
+(Pub. L. 85–699, title III, § 310, as added Pub. L. 87–341, § 9, Oct. 3, 1961, 75 Stat. 755; amended Pub. L. 89–779, § 5, Nov. 6, 1966, 80 Stat. 1360; Pub. L. 90–104, title II, § 208, Oct. 11, 1967, 81 Stat. 271; Pub. L. 100–590, title I, § 104, Nov. 3, 1988, 102 Stat. 2992; Pub. L. 102–366, title IV, §§ 406(b), 407(a), 408(b), Sept. 4, 1992, 106 Stat. 1016; Pub. L. 104–208, div. D, title II, § 208(f), (h)(1)(C), Sept. 30, 1996, 110 Stat. 3009–745, 3009–747; Pub. L. 105–135, title II, § 216, Dec. 2, 1997, 111 Stat. 2603; Pub. L. 106–554, § 1(a)(9) [title IV, § 406], Dec. 21, 2000, 114 Stat. 2763, 2763A–691.)
 
 **Editorial Notes**
 
@@ -1479,7 +1479,7 @@ Not less than once during each fiscal year, each licensee shall submit to the Ad
 
 For definition of “this chapter”, referred to in subsec. (a), see References in Text note set out under section 661 of this title.
 
-The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 **Amendments**
 
@@ -1487,17 +1487,17 @@ The Investment Company Act of 1940, referred to in subsec. (b), is title I of ac
 
 1997—Subsec. (b). Pub. L. 105–135 inserted after first sentence “Fees collected under this subsection shall be deposited in the account for salaries and expenses of the Administration, and are authorized to be appropriated solely to cover the costs of examinations and other program oversight activities.”
 
-1996—Subsec. (b). Pub. L. 104–208, § 208(f)(1), inserted “which may be conducted with the assistance of a private sector entity that has both the qualifications to conduct and expertise in conducting such examinations,” after “Investment Division of the Administration,” in first sentence.
+1996—Subsec. (b). Pub. L. 104–208, § 208(f)(1), inserted “which may be conducted with the assistance of a private sector entity that has both the qualifications to conduct and expertise in conducting such examinations,” after “Investment Division of the Administration,” in first sentence.
 
-Subsec. (c)(4). Pub. L. 104–208, § 208(h)(1)(C), struck out “not less than four years in the case of section 301(d) licensees and in all other cases,” after “small businesses for”.
+Subsec. (c)(4). Pub. L. 104–208, § 208(h)(1)(C), struck out “not less than four years in the case of section 301(d) licensees and in all other cases,” after “small businesses for”.
 
-Subsec. (d). Pub. L. 104–208, § 208(f)(2), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Each small business investment company shall adopt written guidelines for determination of the value of investments made by such company. The board of directors of corporations and the general partners of partnerships shall have the sole responsibility for making a good faith determination of the fair market value of the investments made by such company. Determinations shall be made and reported to the Administration not less than semiannually or at more frequent intervals as the Administration determines appropriate: *Provided*, That any company which does not have outstanding financial assistance under the provisions of this subchapter shall be required to make such determinations and reports to the Administration annually, unless the Administration, in its discretion, determines otherwise.”
+Subsec. (d). Pub. L. 104–208, § 208(f)(2), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Each small business investment company shall adopt written guidelines for determination of the value of investments made by such company. The board of directors of corporations and the general partners of partnerships shall have the sole responsibility for making a good faith determination of the fair market value of the investments made by such company. Determinations shall be made and reported to the Administration not less than semiannually or at more frequent intervals as the Administration determines appropriate: *Provided*, That any company which does not have outstanding financial assistance under the provisions of this subchapter shall be required to make such determinations and reports to the Administration annually, unless the Administration, in its discretion, determines otherwise.”
 
-1992—Subsec. (b). Pub. L. 102–366, § 407(a), substituted “Investment Division of” for “Administration by examiners selected or approved by”.
+1992—Subsec. (b). Pub. L. 102–366, § 407(a), substituted “Investment Division of” for “Administration by examiners selected or approved by”.
 
-Subsec. (c)(5). Pub. L. 102–366, § 408(b), inserted before semicolon at end “, if such restriction is applicable”.
+Subsec. (c)(5). Pub. L. 102–366, § 408(b), inserted before semicolon at end “, if such restriction is applicable”.
 
-Subsec. (d). Pub. L. 102–366, § 406(b), added subsec. (d).
+Subsec. (d). Pub. L. 102–366, § 406(b), added subsec. (d).
 
 1988—Subsec. (b). Pub. L. 100–590 struck out second sentence, which read as follows: “Each such company shall be examined at least once each year, except that the Administrator may waive examination in the case of a company whose operations have been suspended by reason of the fact that the company is involved in litigation or is in receivership.”
 
@@ -1523,9 +1523,9 @@ Nothing in amendment by Pub. L. 102–366 to be construed to affect applicabilit
 
 **Transfer of Resources**
 
-Pub. L. 102–366, title IV, § 407(b), Sept. 4, 1992, 106 Stat. 1016, provided that: “Effective October 1, 1992, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, and other funds employed, held, used, arising from, available or to be made available, which are related to the examination function provided by section 310 of the Small Business Investment Act of 1958 [15 U.S.C. 687b] shall be transferred by the Inspector General of the Small Business Administration to the Investment Division of the Small Business Administration.”
+Pub. L. 102–366, title IV, § 407(b), Sept. 4, 1992, 106 Stat. 1016, provided that: “Effective October 1, 1992, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, and other funds employed, held, used, arising from, available or to be made available, which are related to the examination function provided by section 310 of the Small Business Investment Act of 1958 [15 U.S.C. 687b] shall be transferred by the Inspector General of the Small Business Administration to the Investment Division of the Small Business Administration.”
 
-#### § 687c. Injunctions and other orders
+#### § 687c. Injunctions and other orders
 
 **(a) Grounds; jurisdiction of court**
 
@@ -1539,7 +1539,7 @@ In any such proceeding the court as a court of equity may, to such extent as it 
 
 The Administration shall have authority to act as trustee or receiver of the licensee. Upon request by the Administration, the court may appoint the Administration to act in such capacity unless the court deems such appointment inequitable or otherwise inappropriate by reason of the special circumstances involved.
 
-(Pub. L. 85–699, title III, § 311, as added Pub. L. 87–341, § 9, Oct. 3, 1961, 75 Stat. 755; amended Pub. L. 89–779, § 6, Nov. 6, 1966, 80 Stat. 1360; Pub. L. 98–620, title IV, § 402(15)(C), Nov. 8, 1984, 98 Stat. 3358.)
+(Pub. L. 85–699, title III, § 311, as added Pub. L. 87–341, § 9, Oct. 3, 1961, 75 Stat. 755; amended Pub. L. 89–779, § 6, Nov. 6, 1966, 80 Stat. 1360; Pub. L. 98–620, title IV, § 402(15)(C), Nov. 8, 1984, 98 Stat. 3358.)
 
 **Editorial Notes**
 
@@ -1559,11 +1559,11 @@ For definition of “this chapter”, referred to in subsec. (a), see References
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
-#### § 687d. Conflicts of interest
+#### § 687d. Conflicts of interest
 
 For the purpose of controlling conflicts of interest which may be detrimental to small business concerns, to small business investment companies, to the shareholders, partners, or members of either, or to the purposes of this chapter, the Administration shall adopt regulations to govern transactions with any officer, director, shareholder, partner, or member of any small business investment company, or with any person or concern, in which any interest, direct or indirect, financial or otherwise, is held by any officer, director, shareholder, partner, or member of (1) any small business investment company, or (2) any person or concern with an interest, direct or indirect, financial or otherwise, in any small business investment company. Such regulations shall include appropriate requirements for public disclosure necessary to the purposes of this section.
 
-(Pub. L. 85–699, title III, § 312, as added Pub. L. 88–273, § 6(a), Feb. 28, 1964, 78 Stat. 147; amended Pub. L. 94–305, title I, § 106(f), June 4, 1976, 90 Stat. 666; Pub. L. 104–208, div. D, title II, § 208(h)(1)(D), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 107–100, § 3, Dec. 21, 2001, 115 Stat. 966.)
+(Pub. L. 85–699, title III, § 312, as added Pub. L. 88–273, § 6(a), Feb. 28, 1964, 78 Stat. 147; amended Pub. L. 94–305, title I, § 106(f), June 4, 1976, 90 Stat. 666; Pub. L. 104–208, div. D, title II, § 208(h)(1)(D), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 107–100, § 3, Dec. 21, 2001, 115 Stat. 966.)
 
 **Editorial Notes**
 
@@ -1575,13 +1575,13 @@ For definition of “this chapter”, referred to in text, see References in Tex
 
 2001—Pub. L. 107–100 struck out “(including disclosure in the locality most directly affected by the transaction)” after “public disclosure”.
 
-1996—Pub. L. 104–208, § 208(h)(1)(D), substituted “shareholders, partners, or members” for “shareholders or partners” and substituted “shareholder, partner, or member” for “shareholder, or partner” in two places.
+1996—Pub. L. 104–208, § 208(h)(1)(D), substituted “shareholders, partners, or members” for “shareholders or partners” and substituted “shareholder, partner, or member” for “shareholder, or partner” in two places.
 
-1976—Pub. L. 94–305, § 106(f)(2), which directed the substitution of “shareholder, or partner” for “or shareholders” wherever appearing, was executed by making the substitution for “or shareholder” in two places to reflect the probable intent of Congress.
+1976—Pub. L. 94–305, § 106(f)(2), which directed the substitution of “shareholder, or partner” for “or shareholders” wherever appearing, was executed by making the substitution for “or shareholder” in two places to reflect the probable intent of Congress.
 
-Pub. L. 94–305, § 106(f)(1), inserted “or partners” after “to the shareholders”.
+Pub. L. 94–305, § 106(f)(1), inserted “or partners” after “to the shareholders”.
 
-#### § 687e. Removal or suspension of management officials
+#### § 687e. Removal or suspension of management officials
 
 **(a) Definition of “management official”**
 
@@ -1719,7 +1719,7 @@ A copy of a petition filed under subparagraph (B) shall be forthwith transmitted
 
 The commencement of proceedings for judicial review under this paragraph shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Administrator under this section.
 
-(Pub. L. 85–699, title III, § 313, as added Pub. L. 89–779, § 7, Nov. 6, 1966, 80 Stat. 1360; amended Pub. L. 107–100, § 5, Dec. 21, 2001, 115 Stat. 967.)
+(Pub. L. 85–699, title III, § 313, as added Pub. L. 89–779, § 7, Nov. 6, 1966, 80 Stat. 1360; amended Pub. L. 107–100, § 5, Dec. 21, 2001, 115 Stat. 967.)
 
 **Editorial Notes**
 
@@ -1731,7 +1731,7 @@ For definition of “this chapter”, referred to in subsec. (b)(1)(A)(i)(I), (I
 
 2001—Pub. L. 107–100 amended section catchline and text generally. Prior to amendment, text related to removal and suspension of directors and officers of licensees, with regard to written notice of intention to remove and grounds for removal; suspension pending completion of administrative proceedings; a hearing upon notice of intention to remove a director or officer and issuance of an order of removal; a stay of suspension and/or prohibition by a United States district court; suspension of directors and officers charged with felonies involving dishonesty or breach of trust; and procedural aspects of hearings provided for in this section.
 
-#### § 687f. Unlawful acts and omissions by officers, directors, employees, or agents
+#### § 687f. Unlawful acts and omissions by officers, directors, employees, or agents
 
 **(a) Violation by licensee deemed violation by persons participating**
 
@@ -1755,7 +1755,7 @@ It shall be unlawful for any officer, director, employee, agent, or other partic
 
 **(B)** he is hereafter found civilly liable in damages, or is permanently or temporarily enjoined by an order, judgment, or decree of a court of competent jurisdiction, by reason of any act or practice involving fraud or breach of trust.
 
-(Pub. L. 85–699, title III, § 314, as added Pub. L. 89–779, § 7, Nov. 6, 1966, 80 Stat. 1363.)
+(Pub. L. 85–699, title III, § 314, as added Pub. L. 89–779, § 7, Nov. 6, 1966, 80 Stat. 1363.)
 
 **Editorial Notes**
 
@@ -1763,7 +1763,7 @@ It shall be unlawful for any officer, director, employee, agent, or other partic
 
 For definition of “this chapter”, referred to in subsec. (a), see References in Text note set out under section 661 of this title.
 
-#### § 687g. Penalties and forfeitures
+#### § 687g. Penalties and forfeitures
 
 **(a) Report violations**
 
@@ -1773,13 +1773,13 @@ Except as provided in subsection (b) of this section, a licensee which violates 
 
 The Administration may by rules and regulations, or upon application of an interested party, at any time previous to such failure, by order, after notice and opportunity for hearing, exempt in whole or in part, any small business investment company from the provisions of subsection (a) of this section, upon such terms and conditions and for such period of time as it deems necessary and appropriate, if the Administration finds that such action is not inconsistent with the public interest or the protection of the Administration. The Administration may for the purposes of this section make any alternative requirements appropriate to the situation.
 
-(Pub. L. 85–699, title III, § 315, as added Pub. L. 89–779, § 7, Nov. 6, 1966, 80 Stat. 1364.)
+(Pub. L. 85–699, title III, § 315, as added Pub. L. 89–779, § 7, Nov. 6, 1966, 80 Stat. 1364.)
 
-#### § 687h. Jurisdiction and service of process
+#### § 687h. Jurisdiction and service of process
 
 Any suit or action brought under section 687, 687a, 687c, 687e, or 687g of this title by the Administration at law or in equity to enforce any liability or duty created by, or to enjoin any violation of, this chapter, or any rule, regulation, or order promulgated thereunder, shall be brought in the district wherein the licensee maintains its principal office, and process in such cases may be served in any district in which the defendant maintains its principal office or transacts business, or wherever the defendant may be found.
 
-(Pub. L. 85–699, title III, § 316, as added Pub. L. 89–779, § 7, Nov. 6, 1966, 80 Stat. 1364.)
+(Pub. L. 85–699, title III, § 316, as added Pub. L. 89–779, § 7, Nov. 6, 1966, 80 Stat. 1364.)
 
 **Editorial Notes**
 
@@ -1787,13 +1787,13 @@ Any suit or action brought under section 687, 687a, 687c, 687e, or 687g of this 
 
 For definition of “this chapter”, referred to in text, see References in Text note set out under section 661 of this title.
 
-#### §§ 687i, 687j. Repealed. Pub. L. 104–208, div. D, title II, § 208(h)(1)(E), Sept. 30, 1996, 110 Stat. 3009–747
+#### §§ 687i, 687j. Repealed. Pub. L. 104–208, div. D, title II, § 208(h)(1)(E), Sept. 30, 1996, 110 Stat. 3009–747
 
-Section 687i, Pub. L. 85–699, title III, § 317, as added Pub. L. 92–595, § 2(g), Oct. 27, 1972, 86 Stat. 1316; amended Pub. L. 95–507, title I, § 103, Oct. 24, 1978, 92 Stat. 1758, established effective rate of interest of debentures purchased by Administration from small business investment company under authority of section 683(c) of this title.
+Section 687i, Pub. L. 85–699, title III, § 317, as added Pub. L. 92–595, § 2(g), Oct. 27, 1972, 86 Stat. 1316; amended Pub. L. 95–507, title I, § 103, Oct. 24, 1978, 92 Stat. 1758, established effective rate of interest of debentures purchased by Administration from small business investment company under authority of section 683(c) of this title.
 
-Section 687j, Pub. L. 85–699, title III, § 318, as added Pub. L. 92–595, § 2(g), Oct. 27, 1972, 86 Stat. 1316, authorized Administration to extend benefits of sections 683(c) and 687i of this title to any small business investment company operating under authority of section 681(d) of this title, and which was owned, in whole or in part, by one or more small business investment companies, in accordance with regulations promulgated by Administration.
+Section 687j, Pub. L. 85–699, title III, § 318, as added Pub. L. 92–595, § 2(g), Oct. 27, 1972, 86 Stat. 1316, authorized Administration to extend benefits of sections 683(c) and 687i of this title to any small business investment company operating under authority of section 681(d) of this title, and which was owned, in whole or in part, by one or more small business investment companies, in accordance with regulations promulgated by Administration.
 
-#### § 687k. Guaranteed obligations not eligible for purchase by Federal Financing Bank
+#### § 687k. Guaranteed obligations not eligible for purchase by Federal Financing Bank
 
 Nothing in any provision of law shall be construed to authorize the Federal Financing Bank to acquire after September 30, 1985—
 
@@ -1803,7 +1803,7 @@ Nothing in any provision of law shall be construed to authorize the Federal Fina
 
 **(3)** any obligation which is secured by, or substantially all of the value of which is attributable to, any obligation described in paragraph (1) or (2).
 
-(Pub. L. 85–699, title III, § 318, formerly § 320, as added Pub. L. 99–272, title XVIII, § 18004(a), Apr. 7, 1986, 100 Stat. 364; renumbered § 318, Pub. L. 104–208, div. D, title II, § 208(h)(1)(E), Sept. 30, 1996, 110 Stat. 3009–747.)
+(Pub. L. 85–699, title III, § 318, formerly § 320, as added Pub. L. 99–272, title XVIII, § 18004(a), Apr. 7, 1986, 100 Stat. 364; renumbered § 318, Pub. L. 104–208, div. D, title II, § 208(h)(1)(E), Sept. 30, 1996, 110 Stat. 3009–747.)
 
 **Editorial Notes**
 
@@ -1811,7 +1811,7 @@ Nothing in any provision of law shall be construed to authorize the Federal Fina
 
 A prior section 318 of Pub. L. 85–699 was classified to section 687j of this title, prior to repeal by Pub. L. 104–208.
 
-#### § 687l. Issuance and guarantee of trust certificates
+#### § 687l. Issuance and guarantee of trust certificates
 
 **(a) Issuance; debentures or participating securities composing trust or pool**
 
@@ -1847,7 +1847,7 @@ The Administration shall not collect a fee for any guarantee under this section:
 
 **(5)** Nothing in this subsection shall prohibit the use of a book-entry or other electronic form of registration for trust certificates.
 
-(Pub. L. 85–699, title III, § 319, formerly § 321, as added Pub. L. 99–272, title XVIII, § 18005(a), Apr. 7, 1986, 100 Stat. 364; amended Pub. L. 101–162, title V, (5), Nov. 21, 1989, 103 Stat. 1028; Pub. L. 102–366, title IV, § 404, Sept. 4, 1992, 106 Stat. 1013; renumbered § 319 and amended Pub. L. 104–208, div. D, title II, §§ 205(b), 208(h)(1)(E), (F), Sept. 30, 1996, 110 Stat. 3009–738, 3009–747.)
+(Pub. L. 85–699, title III, § 319, formerly § 321, as added Pub. L. 99–272, title XVIII, § 18005(a), Apr. 7, 1986, 100 Stat. 364; amended Pub. L. 101–162, title V, (5), Nov. 21, 1989, 103 Stat. 1028; Pub. L. 102–366, title IV, § 404, Sept. 4, 1992, 106 Stat. 1013; renumbered § 319 and amended Pub. L. 104–208, div. D, title II, §§ 205(b), 208(h)(1)(E), (F), Sept. 30, 1996, 110 Stat. 3009–738, 3009–747.)
 
 **Editorial Notes**
 
@@ -1861,9 +1861,9 @@ A prior section 319 of Pub. L. 85–699, which amended section 80a–18 of this 
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–208, § 208(h)(1)(F)(i), struck out “, including companies operating under the authority of section 681(d) of this title,” after “investment companies”.
+1996—Subsec. (a). Pub. L. 104–208, § 208(h)(1)(F)(i), struck out “, including companies operating under the authority of section 681(d) of this title,” after “investment companies”.
 
-Subsec. (f)(1). Pub. L. 104–208, § 205(b)(1), struck out at end “Such central registration shall include with respect to each sale—
+Subsec. (f)(1). Pub. L. 104–208, § 205(b)(1), struck out at end “Such central registration shall include with respect to each sale—
 
 “(A) identification of each small business investment company;
 
@@ -1881,13 +1881,13 @@ Subsec. (f)(1). Pub. L. 104–208, § 205(b)(1), struck out at end “Such cen
 
 “(H) such other information as the Administration deems appropriate.”
 
-Subsec. (f)(2). Pub. L. 104–208, § 208(h)(1)(F)(ii), inserted “or investments in obligations of the United States” after “accounts”.
+Subsec. (f)(2). Pub. L. 104–208, § 208(h)(1)(F)(ii), inserted “or investments in obligations of the United States” after “accounts”.
 
-Subsec. (f)(5). Pub. L. 104–208, § 205(b)(2), added par. (5).
+Subsec. (f)(5). Pub. L. 104–208, § 205(b)(2), added par. (5).
 
 1992—Pub. L. 102–366 amended section generally, in subsec. (a) authorizing issuance of trust certificates representing ownership of participating securities, in subsec. (b) inserting provisions authorizing Administration to guarantee payment of redemption price of and priority payments on participating securities, in subsec. (e)(2) including participating securities within prohibition against preclusion or limitation of Administration’s ownership rights, and in subsec. (f) in par. (1) substituting provisions relating to small business investment company for provisions relating to development company and requiring prioritized payment rate to be included in central registration requirements, and in par. (2) inserting provisions relating to participating securities, contracts to carry out pooling, and maintenance of commercial bank accounts.
 
-1989—Subsec. (a). Pub. L. 101–162 inserted “, including companies operating under the authority of section 681(d) of this title,” after “investment companies”.
+1989—Subsec. (a). Pub. L. 101–162 inserted “, including companies operating under the authority of section 681(d) of this title,” after “investment companies”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1899,7 +1899,7 @@ Amendment by section 208 of Pub. L. 104–208 effective Sept. 30, 1996, see sect
 
 **Regulations**
 
-Pub. L. 99–272, title XVIII, § 18005(b), Apr. 7, 1986, 100 Stat. 365, provided that:
+Pub. L. 99–272, title XVIII, § 18005(b), Apr. 7, 1986, 100 Stat. 365, provided that:
 
 > **“(1)** Notwithstanding any law, rule, or regulation, within 60 days after the date of the enactment of this Act [Apr. 7, 1986], the Small Business Administration shall develop and promulgate final rules and regulations to implement the central registration provisions provided for in section 321(f)(1) of the Small Business Investment Act [15 U.S.C. 687*l*(f)(1)], and shall contract with an agent for an initial period of not to exceed two years to carry out the functions provided for in sections 321(f)(2) and 321(f)(3) of such Act.
 
@@ -1909,15 +1909,15 @@ Pub. L. 99–272, title XVIII, § 18005(b), Apr. 7, 1986, 100 Stat. 365, provi
 
 Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
 
-#### § 687m. Periodic issuance of guarantees and trust certificates
+#### § 687m. Periodic issuance of guarantees and trust certificates
 
-The Administration shall issue guarantees under section 683 of this title and trust certificates under section 687*l* of this title at periodic intervals of not less than every 12 months and shall do so at such shorter intervals as its 1
+The Administration shall issue guarantees under section 683 of this title and trust certificates under section 687*l* of this title at periodic intervals of not less than every 12 months and shall do so at such shorter intervals as its 1
 
-<sup>1</sup>  So in original. Probably should be “it”.
+<sup>1</sup> So in original. Probably should be “it”.
 
 deems appropriate, taking into consideration the amount and number of such guarantees or trust certificates.
 
-(Pub. L. 85–699, title III, § 320, formerly § 322, as added Pub. L. 100–590, title I, § 106(a), Nov. 3, 1988, 102 Stat. 2993; renumbered § 320 and amended Pub. L. 104–208, div. D, title II, § 208(h)(1)(E), (G), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 105–135, title II, § 215(e), Dec. 2, 1997, 111 Stat. 2603; Pub. L. 106–9, § 2(d)(2), Apr. 5, 1999, 113 Stat. 18.)
+(Pub. L. 85–699, title III, § 320, formerly § 322, as added Pub. L. 100–590, title I, § 106(a), Nov. 3, 1988, 102 Stat. 2993; renumbered § 320 and amended Pub. L. 104–208, div. D, title II, § 208(h)(1)(E), (G), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 105–135, title II, § 215(e), Dec. 2, 1997, 111 Stat. 2603; Pub. L. 106–9, § 2(d)(2), Apr. 5, 1999, 113 Stat. 18.)
 
 **Editorial Notes**
 
@@ -1939,13 +1939,13 @@ A prior section 320 of Pub. L. 85–699 was renumbered section 318 and is classi
 
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
 
-#### § 688. Repealed. Pub. L. 87–341, § 11(e), Oct. 3, 1961, 75 Stat. 756
+#### § 688. Repealed. Pub. L. 87–341, § 11(e), Oct. 3, 1961, 75 Stat. 756
 
-Section, Pub. L. 85–699, title III, § 309, Aug. 21, 1958, 72 Stat. 696, related to approval of State chartered investment companies. See subsec. (a) of section 681 of this title.
+Section, Pub. L. 85–699, title III, § 309, Aug. 21, 1958, 72 Stat. 696, related to approval of State chartered investment companies. See subsec. (a) of section 681 of this title.
 
 ### Part B—New Markets Venture Capital Program
 
-#### § 689. Definitions
+#### § 689. Definitions
 
 In this part, the following definitions apply:
 
@@ -1963,9 +1963,9 @@ The term “developmental venture capital” means capital in the form of equity
 
 **(ii)** 80 percent of the statewide nonmetropolitan area median income.
 
-**(3) Low-income geographic area** the 1
+**(3) Low-income geographic area** the 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 term “low-income geographic area” means—
 
@@ -1983,9 +1983,9 @@ term “low-income geographic area” means—
 
 **(B)** any area located within—
 
-**(i)** a HUBZone (as defined in section 632(p) 2
+**(i)** a HUBZone (as defined in section 632(p) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title and the implementing regulations issued under that section);
 
@@ -2019,21 +2019,21 @@ The term “operational assistance” means management, marketing, and other tec
 
 **(8) State**
 
-The term “State” means such 3
+The term “State” means such 3
 
-<sup>3</sup>  So in original. Probably should be “each”.
+<sup>3</sup> So in original. Probably should be “each”.
 
 of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
 
-(Pub. L. 85–699, title III, § 351, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–653.)
+(Pub. L. 85–699, title III, § 351, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–653.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 632(p) of this title, referred to in par. (3)(B)(i), was redesignated section 657a(b) of this title by Pub. L. 115–91, div. A, title XVII, § 1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
+Section 632(p) of this title, referred to in par. (3)(B)(i), was redesignated section 657a(b) of this title by Pub. L. 115–91, div. A, title XVII, § 1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
 
-#### § 689a. Purposes
+#### § 689a. Purposes
 
 The purposes of the New Markets Venture Capital Program established under this part are—
 
@@ -2047,9 +2047,9 @@ The purposes of the New Markets Venture Capital Program established under this p
 
 **(C)** to make grants to New Markets Venture Capital companies, and to other entities, for the purpose of providing operational assistance to smaller enterprises financed, or expected to be financed, by such companies.
 
-(Pub. L. 85–699, title III, § 352, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–655.)
+(Pub. L. 85–699, title III, § 352, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–655.)
 
-#### § 689b. Establishment
+#### § 689b. Establishment
 
 In accordance with this part, the Administrator shall establish a New Markets Venture Capital Program, under which the Administrator may—
 
@@ -2059,9 +2059,9 @@ In accordance with this part, the Administrator shall establish a New Markets Ve
 
 **(3)** make grants to New Markets Venture Capital companies, and to other entities, under section 689g of this title.
 
-(Pub. L. 85–699, title III, § 353, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–655.)
+(Pub. L. 85–699, title III, § 353, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–655.)
 
-#### § 689c. Selection of New Markets Venture Capital companies
+#### § 689c. Selection of New Markets Venture Capital companies
 
 **(a) Eligibility** A company shall be eligible to apply to participate, as a New Markets Venture Capital company, in the program established under this part if—
 
@@ -2093,9 +2093,9 @@ In accordance with this part, the Administrator shall establish a New Markets Ve
 
 **(1) In general**
 
-From among companies submitting applications under subsection (b), the Administrator shall, in accordance with this subsection, conditionally approval 1
+From among companies submitting applications under subsection (b), the Administrator shall, in accordance with this subsection, conditionally approval 1
 
-<sup>1</sup>  So in original. Probably should be “approve”.
+<sup>1</sup> So in original. Probably should be “approve”.
 
 companies to participate in the New Markets Venture Capital Program.
 
@@ -2169,9 +2169,9 @@ In order to comply with the requirements of subparagraphs (A) and (B), the total
 
 **(2)** if the applicant fails to satisfy the requirements of subsection (d) on or before the expiration of the time period described in that subsection, revoke the conditional approval granted under that subsection.
 
-(Pub. L. 85–699, title III, § 354, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–655.)
+(Pub. L. 85–699, title III, § 354, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–655.)
 
-#### § 689d. Debentures
+#### § 689d. Debentures
 
 **(a) In general**
 
@@ -2189,9 +2189,9 @@ The full faith and credit of the United States is pledged to pay all amounts tha
 
 **(1) In general**
 
-Under this section, the Administrator may guarantee the debentures issued by a New Markets Venture Capital company only to be 1
+Under this section, the Administrator may guarantee the debentures issued by a New Markets Venture Capital company only to be 1
 
-<sup>1</sup>  So in original. Probably should be “the”.
+<sup>1</sup> So in original. Probably should be “the”.
 
 extent that the total face amount of outstanding guaranteed debentures of such company does not exceed 150 percent of the private capital of the company, as determined by the Administrator.
 
@@ -2213,7 +2213,7 @@ For the purposes of paragraph (1), private capital shall include capital that is
 
 **(B)** the total amount of leverage projected in the participation agreement of the covered New Markets Venture Capital.
 
-(Pub. L. 85–699, title III, § 355, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–658; amended Pub. L. 111–240, title I, § 1115, Sept. 27, 2010, 124 Stat. 2508.)
+(Pub. L. 85–699, title III, § 355, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–658; amended Pub. L. 111–240, title I, § 1115, Sept. 27, 2010, 124 Stat. 2508.)
 
 **Editorial Notes**
 
@@ -2221,7 +2221,7 @@ For the purposes of paragraph (1), private capital shall include capital that is
 
 2010—Subsec. (e). Pub. L. 111–240 added subsec. (e).
 
-#### § 689e. Issuance and guarantee of trust certificates
+#### § 689e. Issuance and guarantee of trust certificates
 
 **(a) Issuance**
 
@@ -2285,15 +2285,15 @@ The Administrator may regulate brokers and dealers in trust certificates issued 
 
 Nothing in this subsection may be construed to prohibit the use of a book-entry or other electronic form of registration for trust certificates issued under this section.
 
-(Pub. L. 85–699, title III, § 356, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–658.)
+(Pub. L. 85–699, title III, § 356, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–658.)
 
-#### § 689f. Fees
+#### § 689f. Fees
 
 Except as provided in section 689e(d) of this title, the Administrator may charge such fees as it deems appropriate with respect to any guarantee or grant issued under this part.
 
-(Pub. L. 85–699, title III, § 357, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–660.)
+(Pub. L. 85–699, title III, § 357, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–660.)
 
-#### § 689g. Operational assistance grants
+#### § 689g. Operational assistance grants
 
 **(a) In general**
 
@@ -2341,13 +2341,13 @@ The Administrator may make supplemental grants to New Markets Venture Capital co
 
 **(2) Matching requirement**
 
-The Administrator may require, as a condition of any supplemental grant made under this subsection, that the company or entity receiving the grant provide from resources (in a 1
+The Administrator may require, as a condition of any supplemental grant made under this subsection, that the company or entity receiving the grant provide from resources (in a 1
 
-<sup>1</sup>  So in original. The article probably should not appear.
+<sup>1</sup> So in original. The article probably should not appear.
 
-cash or in kind), other then 2
+cash or in kind), other then 2
 
-<sup>2</sup>  So in original. Probably should be “than”.
+<sup>2</sup> So in original. Probably should be “than”.
 
 those provided by the Administrator, a matching contribution equal to the amount of the supplemental grant.
 
@@ -2355,15 +2355,15 @@ those provided by the Administrator, a matching contribution equal to the amount
 
 None of the assistance made available under this section may be used for any overhead or general and administrative expense of a New Markets Venture Capital company or a specialized small business investment company.
 
-(Pub. L. 85–699, title III, § 358, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–660.)
+(Pub. L. 85–699, title III, § 358, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–660.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The effective date of the New Markets Venture Capital Program Act of 2000, referred to in subsec. (a)(3)(A), (B), probably means the date of enactment of section 1 of H.R. 5663, as enacted by Pub. L. 106–554, § 1(a)(8), which was approved Dec. 21, 2000.
+The effective date of the New Markets Venture Capital Program Act of 2000, referred to in subsec. (a)(3)(A), (B), probably means the date of enactment of section 1 of H.R. 5663, as enacted by Pub. L. 106–554, § 1(a)(8), which was approved Dec. 21, 2000.
 
-#### § 689h. Bank participation
+#### § 689h. Bank participation
 
 **(a) In general**
 
@@ -2373,15 +2373,15 @@ Except as provided in subsection (b), any national bank, any member bank of the 
 
 No bank described in subsection (a) may make investments described in such subsection that are greater than 5 percent of the capital and surplus of the bank.
 
-(Pub. L. 85–699, title III, § 359, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–661.)
+(Pub. L. 85–699, title III, § 359, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–661.)
 
-#### § 689i. Federal Financing Bank
+#### § 689i. Federal Financing Bank
 
 Section 687k of this title shall not apply to any debenture issued by a New Markets Venture Capital company under this part.
 
-(Pub. L. 85–699, title III, § 360, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–661.)
+(Pub. L. 85–699, title III, § 360, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–661.)
 
-#### § 689j. Reporting requirement
+#### § 689j. Reporting requirement
 
 Each New Markets Venture Capital company that participates in the program established under this part shall provide to the Administrator such information as the Administrator may require, including—
 
@@ -2389,9 +2389,9 @@ Each New Markets Venture Capital company that participates in the program establ
 
 **(2)** in each case in which the company under this part makes an investment in, or a loan or grant to, a business that is not located in a low-income geographic area, a report on the number and percentage of employees of the business who reside in such areas.
 
-(Pub. L. 85–699, title III, § 361, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–661.)
+(Pub. L. 85–699, title III, § 361, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–661.)
 
-#### § 689k. Examinations
+#### § 689k. Examinations
 
 **(a) In general**
 
@@ -2403,7 +2403,7 @@ Examinations under this section may be conducted with the assistance of a privat
 
 **(c) Costs**
 
-**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] Assessment**
+**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] Assessment**
 
 **(A) In general**
 
@@ -2417,9 +2417,9 @@ Any company against which the Administrator assesses costs under this paragraph 
 
 Funds collected under this section shall be deposited in the account for salaries and expenses of the Small Business Administration.
 
-(Pub. L. 85–699, title III, § 362, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–662.)
+(Pub. L. 85–699, title III, § 362, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–662.)
 
-#### § 689l. Injunctions and other orders
+#### § 689l. Injunctions and other orders
 
 **(a) In general**
 
@@ -2439,7 +2439,7 @@ The Administrator may act as trustee or receiver of a New Markets Venture Capita
 
 Upon request of the Administrator, the court may appoint the Administrator to act as a trustee or receiver of a New Markets Venture Capital company unless the court deems such appointment inequitable or otherwise inappropriate by reason of the special circumstances involved.
 
-(Pub. L. 85–699, title III, § 363, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–662.)
+(Pub. L. 85–699, title III, § 363, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–662.)
 
 **Editorial Notes**
 
@@ -2447,7 +2447,7 @@ Upon request of the Administrator, the court may appoint the Administrator to ac
 
 For definition of “this chapter”, referred to in subsec. (a), see References in Text note set out under section 661 of this title.
 
-#### § 689m. Additional penalties for noncompliance
+#### § 689m. Additional penalties for noncompliance
 
 **(a) In general** With respect to any New Markets Venture Capital company that violates or fails to comply with any of the provisions of this chapter, of any regulation issued under this chapter, or of any participation agreement entered into under this chapter, the Administrator may in accordance with this section—
 
@@ -2465,7 +2465,7 @@ Before the Administrator may cause a New Markets Venture Capital company to forf
 
 Each cause of action brought by the United States under this subsection shall be brought by the Administrator or by the Attorney General.
 
-(Pub. L. 85–699, title III, § 364, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–663.)
+(Pub. L. 85–699, title III, § 364, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–663.)
 
 **Editorial Notes**
 
@@ -2473,7 +2473,7 @@ Each cause of action brought by the United States under this subsection shall be
 
 For definition of “this chapter”, referred to in subsec. (a), see References in Text note set out under section 661 of this title.
 
-#### § 689n. Unlawful acts and omissions; breach of fiduciary duty
+#### § 689n. Unlawful acts and omissions; breach of fiduciary duty
 
 **(a) Parties deemed to commit a violation**
 
@@ -2491,9 +2491,9 @@ It shall be unlawful for any officer, director, employee, agent, or other partic
 
 **(B)** has been found civilly liable in damages, or has been permanently or temporarily enjoined by an order, judgment, or decree of a court of competent jurisdiction, by reason of any act or practice involving fraud, or breach of trust; and
 
-**(2)** for any person 1
+**(2)** for any person 1
 
-<sup>1</sup>  So in original. Probably should be followed by “to”.
+<sup>1</sup> So in original. Probably should be followed by “to”.
 
 continue to serve in any of the capacities described in paragraph (1), if—
 
@@ -2501,7 +2501,7 @@ continue to serve in any of the capacities described in paragraph (1), if—
 
 **(B)** the person is found civilly liable in damages, or is permanently or temporarily enjoined by an order, judgment, or decree of a court of competent jurisdiction, by reason of any act or practice involving fraud or breach of trust.
 
-(Pub. L. 85–699, title III, § 365, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–663.)
+(Pub. L. 85–699, title III, § 365, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–663.)
 
 **Editorial Notes**
 
@@ -2509,19 +2509,19 @@ continue to serve in any of the capacities described in paragraph (1), if—
 
 For definition of “this chapter”, referred to in subsec. (a), see References in Text note set out under section 661 of this title.
 
-#### § 689o. Removal or suspension of directors or officers
+#### § 689o. Removal or suspension of directors or officers
 
 Using the procedures for removing or suspending a director or an officer of a licensee set forth in section 687e of this title (to the extent such procedures are not inconsistent with the requirements of this part), the Administrator may remove or suspend any director or officer of any New Markets Venture Capital company.
 
-(Pub. L. 85–699, title III, § 366, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–664.)
+(Pub. L. 85–699, title III, § 366, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–664.)
 
-#### § 689p. Regulations
+#### § 689p. Regulations
 
 The Administrator may issue such regulations as it deems necessary to carry out the provisions of this part in accordance with its purposes.
 
-(Pub. L. 85–699, title III, § 367, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–664.)
+(Pub. L. 85–699, title III, § 367, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–664.)
 
-#### § 689q. Authorization of appropriations
+#### § 689q. Authorization of appropriations
 
 **(a) In general** There are authorized to be appropriated for fiscal years 2001 through 2006, to remain available until expended, the following sums:
 
@@ -2533,11 +2533,11 @@ The Administrator may issue such regulations as it deems necessary to carry out 
 
 Funds deposited under section 689k(c)(2) of this title are authorized to be appropriated only for the costs of examinations under section 689k of this title and for the costs of other oversight activities with respect to the program established under this part.
 
-(Pub. L. 85–699, title III, § 368, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–664.)
+(Pub. L. 85–699, title III, § 368, as added Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–664.)
 
 ### Part C—Renewable Fuel Capital Investment Pilot Program
 
-#### § 690. Definitions
+#### § 690. Definitions
 
 In this part:
 
@@ -2573,7 +2573,7 @@ The term “State” means each of the several States, the District of Columbia,
 
 The term “venture capital” means capital in the form of equity capital investments, as that term is defined in section 683(g)(4) of this title.
 
-(Pub. L. 85–699, title III, § 381, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1774.)
+(Pub. L. 85–699, title III, § 381, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1774.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2581,13 +2581,13 @@ The term “venture capital” means capital in the form of equity capital inves
 
 Part effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
-#### § 690a. Purposes
+#### § 690a. Purposes
 
 The purposes of the Renewable Fuel Capital Investment Program established under this part are—
 
-**(1)** to promote the research, development, manufacture, production, and bringing to market of goods, products, or services that generate or support the production of renewable energy by encouraging venture capital investments in smaller enterprises primarily engaged 1
+**(1)** to promote the research, development, manufacture, production, and bringing to market of goods, products, or services that generate or support the production of renewable energy by encouraging venture capital investments in smaller enterprises primarily engaged 1
 
-<sup>1</sup>  So in original. Probably should be followed by “in”.
+<sup>1</sup> So in original. Probably should be followed by “in”.
 
 such activities; and
 
@@ -2599,9 +2599,9 @@ such activities; and
 
 **(C)** to make grants to Renewable Fuel Investment Capital companies, and to other entities, for the purpose of providing operational assistance to smaller enterprises financed, or expected to be financed, by such companies.
 
-(Pub. L. 85–699, title III, § 382, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1775.)
+(Pub. L. 85–699, title III, § 382, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1775.)
 
-#### § 690b. Establishment
+#### § 690b. Establishment
 
 The Administrator shall establish a Renewable Fuel Capital Investment Program, under which the Administrator may—
 
@@ -2609,9 +2609,9 @@ The Administrator shall establish a Renewable Fuel Capital Investment Program, u
 
 **(2)** guarantee the debentures issued by Renewable Fuel Capital Investment companies as provided in section 690d of this title.
 
-(Pub. L. 85–699, title III, § 383, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1776.)
+(Pub. L. 85–699, title III, § 383, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1776.)
 
-#### § 690c. Selection of Renewable Fuel Capital Investment companies
+#### § 690c. Selection of Renewable Fuel Capital Investment companies
 
 **(a) Eligibility** A company is eligible to apply to be designated as a Renewable Fuel Capital Investment company if the company—
 
@@ -2689,17 +2689,17 @@ Each conditionally approved company shall raise not less than $3,000,000 of priv
 
 **(i)** a viable plan that reasonably projects the capacity of the applicant to raise the amount (in cash or in-kind) required under subparagraph (A); and
 
-**(ii)** binding commitments in an amount equal to not less than 20 percent of the total amount required under paragraph 1
+**(ii)** binding commitments in an amount equal to not less than 20 percent of the total amount required under paragraph 1
 
-<sup>1</sup>  So in original. Probably should be “subparagraph”.
+<sup>1</sup> So in original. Probably should be “subparagraph”.
 
 (A).
 
 **(C) Limitation**
 
-The total amount of a 2
+The total amount of a 2
 
-<sup>2</sup>  So in original. The article probably should not appear.
+<sup>2</sup> So in original. The article probably should not appear.
 
 in-kind contributions by a company shall be not more than 50 percent of the total contributions by a company.
 
@@ -2713,9 +2713,9 @@ in-kind contributions by a company shall be not more than 50 percent of the tota
 
 **(2)** if the applicant fails to satisfy the requirements of subsection (d) on or before the expiration of the time period described in paragraph (1) of that subsection, revoke the conditional approval granted under that subsection.
 
-(Pub. L. 85–699, title III, § 384, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1776.)
+(Pub. L. 85–699, title III, § 384, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1776.)
 
-#### § 690d. Debentures
+#### § 690d. Debentures
 
 **(a) In general**
 
@@ -2751,9 +2751,9 @@ Under this section, the Administrator may guarantee the debentures issued by a R
 
 For the purposes of paragraph (1), private capital shall include capital that is considered to be Federal funds, if such capital is contributed by an investor other than a department or agency of the Federal Government.
 
-(Pub. L. 85–699, title III, § 385, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1778.)
+(Pub. L. 85–699, title III, § 385, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1778.)
 
-#### § 690e. Issuance and guarantee of trust certificates
+#### § 690e. Issuance and guarantee of trust certificates
 
 **(a) Issuance**
 
@@ -2817,9 +2817,9 @@ The Administrator may regulate brokers and dealers in trust certificates issued 
 
 Nothing in this subsection may be construed to prohibit the use of a book-entry or other electronic form of registration for trust certificates issued under this section.
 
-(Pub. L. 85–699, title III, § 386, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1779.)
+(Pub. L. 85–699, title III, § 386, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1779.)
 
-#### § 690f. Fees
+#### § 690f. Fees
 
 **(a) In general**
 
@@ -2829,9 +2829,9 @@ Except as provided in section 690e(d) of this title, the Administrator may charg
 
 The Administrator may, as provided by section 690g of this title, offset fees charged and collected under subsection (a).
 
-(Pub. L. 85–699, title III, § 387, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1780.)
+(Pub. L. 85–699, title III, § 387, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1780.)
 
-#### § 690g. Fee contribution
+#### § 690g. Fee contribution
 
 **(a) In general**
 
@@ -2841,9 +2841,9 @@ To the extent that amounts are made available to the Administrator for the purpo
 
 Each fee contribution under subsection (a) shall be effective for 1 fiscal year and shall be adjusted as necessary for each fiscal year thereafter to ensure that amounts under subsection (a) are fully used. The fee contribution for a fiscal year shall be based on the outstanding commitments made and the guarantees and grants that the Administrator projects will be made during that fiscal year, given the program level authorized by law for that fiscal year and any other factors that the Administrator determines appropriate.
 
-(Pub. L. 85–699, title III, § 388, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1780.)
+(Pub. L. 85–699, title III, § 388, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1780.)
 
-#### § 690h. Operational assistance grants
+#### § 690h. Operational assistance grants
 
 **(a) In general**
 
@@ -2891,13 +2891,13 @@ The Administrator may make supplemental grants to Renewable Fuel Capital Investm
 
 **(2) Matching requirement**
 
-The Administrator may require, as a condition of any supplemental grant made under this subsection, that the company or entity receiving the grant provide from resources (in a 1
+The Administrator may require, as a condition of any supplemental grant made under this subsection, that the company or entity receiving the grant provide from resources (in a 1
 
-<sup>1</sup>  So in original. The article probably should not appear.
+<sup>1</sup> So in original. The article probably should not appear.
 
-cash or in kind), other then 2
+cash or in kind), other then 2
 
-<sup>2</sup>  So in original. Probably should be “than”.
+<sup>2</sup> So in original. Probably should be “than”.
 
 those provided by the Administrator, a matching contribution equal to the amount of the supplemental grant.
 
@@ -2905,9 +2905,9 @@ those provided by the Administrator, a matching contribution equal to the amount
 
 None of the assistance made available under this section may be used for any overhead or general and administrative expense of a Renewable Fuel Capital Investment company.
 
-(Pub. L. 85–699, title III, § 389, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1781.)
+(Pub. L. 85–699, title III, § 389, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1781.)
 
-#### § 690i. Bank participation
+#### § 690i. Bank participation
 
 **(a) In general**
 
@@ -2917,29 +2917,29 @@ Except as provided in subsection (b), any national bank, any member bank of the 
 
 No bank described in subsection (a) may make investments described in such subsection that are greater than 5 percent of the capital and surplus of the bank.
 
-(Pub. L. 85–699, title III, § 390, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1782.)
+(Pub. L. 85–699, title III, § 390, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1782.)
 
-#### § 690j. Federal Financing Bank
+#### § 690j. Federal Financing Bank
 
 Notwithstanding section 687k of this title, the Federal Financing Bank may acquire a debenture issued by a Renewable Fuel Capital Investment company under this part.
 
-(Pub. L. 85–699, title III, § 391, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1782.)
+(Pub. L. 85–699, title III, § 391, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1782.)
 
-#### § 690k. Reporting requirement
+#### § 690k. Reporting requirement
 
 Each Renewable Fuel Capital Investment company that participates in the program established under this part shall provide to the Administrator such information as the Administrator may require, including—
 
 **(1)** information related to the measurement criteria that the company proposed in its program application; and
 
-**(2)** in each case in which the company makes, under this part, an investment in, or a loan or a grant to, a business that is not primarily engaged in the research, development, manufacture, or bringing to market or 1
+**(2)** in each case in which the company makes, under this part, an investment in, or a loan or a grant to, a business that is not primarily engaged in the research, development, manufacture, or bringing to market or 1
 
-<sup>1</sup>  So in original. Probably should be “of”.
+<sup>1</sup> So in original. Probably should be “of”.
 
 renewable energy sources, a report on the nature, origin, and revenues of the business in which investments are made.
 
-(Pub. L. 85–699, title III, § 392, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1782.)
+(Pub. L. 85–699, title III, § 392, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1782.)
 
-#### § 690l. Examinations
+#### § 690l. Examinations
 
 **(a) In general**
 
@@ -2965,27 +2965,27 @@ Any company against which the Administrator assesses costs under this paragraph 
 
 Funds collected under this section shall be deposited in the account for salaries and expenses of the Administration.
 
-(Pub. L. 85–699, title III, § 393, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1782.)
+(Pub. L. 85–699, title III, § 393, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1782.)
 
-#### § 690m. Miscellaneous
+#### § 690m. Miscellaneous
 
 To the extent such procedures are not inconsistent with the requirements of this part, the Administrator may take such action as set forth in sections 687a, 687c, 687d, and 687f of this title and an officer, director, employee, agent, or other participant in the management or conduct of the affairs of a Renewable Fuel Capital Investment company shall be subject to the requirements of such sections.
 
-(Pub. L. 85–699, title III, § 394, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1783.)
+(Pub. L. 85–699, title III, § 394, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1783.)
 
-#### § 690n. Removal or suspension of directors or officers
+#### § 690n. Removal or suspension of directors or officers
 
 Using the procedures for removing or suspending a director or an officer of a licensee set forth in section 687e of this title (to the extent such procedures are not inconsistent with the requirements of this part), the Administrator may remove or suspend any director or officer of any Renewable Fuel Capital Investment company.
 
-(Pub. L. 85–699, title III, § 395, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1783.)
+(Pub. L. 85–699, title III, § 395, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1783.)
 
-#### § 690o. Regulations
+#### § 690o. Regulations
 
 The Administrator may issue such regulations as the Administrator determines necessary to carry out the provisions of this part in accordance with its purposes.
 
-(Pub. L. 85–699, title III, § 396, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1783.)
+(Pub. L. 85–699, title III, § 396, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1783.)
 
-#### § 690p. Authorizations of appropriations
+#### § 690p. Authorizations of appropriations
 
 **(a) In general**
 
@@ -2995,25 +2995,25 @@ Subject to the availability of appropriations, the Administrator is authorized t
 
 Funds deposited under section 690*l*(c)(2) of this title are authorized to be appropriated only for the costs of examinations under section 690*l* of this title and for the costs of other oversight activities with respect to the program established under this part.
 
-(Pub. L. 85–699, title III, § 397, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1783.)
+(Pub. L. 85–699, title III, § 397, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1783.)
 
-#### § 690q. Termination
+#### § 690q. Termination
 
 The program under this part shall terminate at the end of the second full fiscal year after the date that the Administrator establishes the program under this part.
 
-(Pub. L. 85–699, title III, § 398, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1783.)
+(Pub. L. 85–699, title III, § 398, as added Pub. L. 110–140, title XII, § 1207, Dec. 19, 2007, 121 Stat. 1783.)
 
 ## SUBCHAPTER IV—STATE CHARTERED INVESTMENT COMPANIES AND STATE DEVELOPMENT COMPANIES
 
-### § 691. Repealed. Pub. L. 87–341, § 11(f), Oct. 3, 1961, 75 Stat. 756
+### § 691. Repealed. Pub. L. 87–341, § 11(f), Oct. 3, 1961, 75 Stat. 756
 
-Section, Pub. L. 85–699, title IV, § 401, Aug. 21, 1958, 72 Stat. 696, related to conversion of any investment company, or any State development company, into a small business investment company.
+Section, Pub. L. 85–699, title IV, § 401, Aug. 21, 1958, 72 Stat. 696, related to conversion of any investment company, or any State development company, into a small business investment company.
 
 ## SUBCHAPTER IV–A—GUARANTEES
 
 ### Part A—Commercial or Industrial Lease and Qualified Contract Guarantees
 
-#### § 692. Authority of Administration to guarantee payment of rentals by small business concerns under leases of commercial and industrial property
+#### § 692. Authority of Administration to guarantee payment of rentals by small business concerns under leases of commercial and industrial property
 
 **(a) Nonavailability of guarantees from other sources; participation with qualified sureties** The Administration may, whenever it determines such action to be necessary or desirable, and upon such terms and conditions as it may prescribe, guarantee the payment of rentals under leases of commercial and industrial property entered into by small business concerns to enable such concerns to obtain such leases. Any such guarantee may be made or effected either directly or in cooperation with any qualified surety company or other qualified company through a participation agreement with such company. The foregoing powers shall be subject, however, to the following restrictions and limitations:
 
@@ -3035,7 +3035,7 @@ The Administration shall fix a uniform annual fee for its share of any guarantee
 
 **(4)** such other provisions, not inconsistent with the purposes of this part, as the Administrator may in his discretion require.
 
-(Pub. L. 85–699, title IV, § 401, as added Pub. L. 89–117, title III, § 316(a), Aug. 10, 1965, 79 Stat. 482; amended Pub. L. 90–104, title II, § 209, Oct. 11, 1967, 81 Stat. 271; Pub. L. 91–609, title IX, § 911(a)(2), Dec. 31, 1970, 84 Stat. 1812.)
+(Pub. L. 85–699, title IV, § 401, as added Pub. L. 89–117, title III, § 316(a), Aug. 10, 1965, 79 Stat. 482; amended Pub. L. 90–104, title II, § 209, Oct. 11, 1967, 81 Stat. 271; Pub. L. 91–609, title IX, § 911(a)(2), Dec. 31, 1970, 84 Stat. 1812.)
 
 **Editorial Notes**
 
@@ -3051,11 +3051,11 @@ The Administration shall fix a uniform annual fee for its share of any guarantee
 
 Amendment by Pub. L. 90–104 effective 90 days after Oct. 11, 1967, see section 211 of Pub. L. 90–104, set out as a note under section 681 of this title.
 
-#### § 693. Powers of Administration respecting loans; liquidation of obligations through creation of new leases, execution of subleases, and assignments of leases
+#### § 693. Powers of Administration respecting loans; liquidation of obligations through creation of new leases, execution of subleases, and assignments of leases
 
 Without limiting the authority conferred upon the Administrator and the Administration by section 671 of this title, the Administrator and the Administration shall have, in the performance of and with respect to the functions, powers, and duties conferred by this part, all the authority and be subject to the same conditions prescribed in section 634(b) of this title with respect to loans, including the authority to execute subleases, assignments of lease and new leases with any person, firm, organization, or other entity, in order to aid in the liquidation of obligations of the Administration hereunder.
 
-(Pub. L. 85–699, title IV, § 402, as added Pub. L. 89–117, title III, § 316(a), Aug. 10, 1965, 79 Stat. 483; amended Pub. L. 91–609, title IX, § 911(a)(2), Dec. 31, 1970, 84 Stat. 1812.)
+(Pub. L. 85–699, title IV, § 402, as added Pub. L. 89–117, title III, § 316(a), Aug. 10, 1965, 79 Stat. 483; amended Pub. L. 91–609, title IX, § 911(a)(2), Dec. 31, 1970, 84 Stat. 1812.)
 
 **Editorial Notes**
 
@@ -3063,17 +3063,17 @@ Without limiting the authority conferred upon the Administrator and the Administ
 
 1970—Pub. L. 91–609 substituted “part” for “title”.
 
-#### § 694. Repealed. Pub. L. 100–590, title I, § 111(b), Nov. 3, 1988, 102 Stat. 2995
+#### § 694. Repealed. Pub. L. 100–590, title I, § 111(b), Nov. 3, 1988, 102 Stat. 2995
 
-Section, Pub. L. 85–699, title IV, § 403, as added Pub. L. 89–117, title III, § 316(a), Aug. 10, 1965, 79 Stat. 484; amended Pub. L. 91–609, title IX, § 911(a)(3), Dec. 31, 1970, 84 Stat. 1812; Pub. L. 93–386, § 6(a)(2), Aug. 23, 1974, 88 Stat. 747; Pub. L. 94–305, title I, § 103, June 4, 1976, 90 Stat. 665; Pub. L. 95–89, title I, § 103, Aug. 4, 1977, 91 Stat. 556, provided for revolving fund for commercial or industrial lease guarantees.
+Section, Pub. L. 85–699, title IV, § 403, as added Pub. L. 89–117, title III, § 316(a), Aug. 10, 1965, 79 Stat. 484; amended Pub. L. 91–609, title IX, § 911(a)(3), Dec. 31, 1970, 84 Stat. 1812; Pub. L. 93–386, § 6(a)(2), Aug. 23, 1974, 88 Stat. 747; Pub. L. 94–305, title I, § 103, June 4, 1976, 90 Stat. 665; Pub. L. 95–89, title I, § 103, Aug. 4, 1977, 91 Stat. 556, provided for revolving fund for commercial or industrial lease guarantees.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Remaining Lease Guarantee Fund Moneys**
 
-Pub. L. 100–590, title I, § 111(b), Nov. 3, 1988, 102 Stat. 2995, provided in part that: “Any moneys remaining in the Lease Guarantee Fund on the date of enactment of this Act [Nov. 3, 1988] shall be transferred to the Small Business Administration’s business loan and investment fund.”
+Pub. L. 100–590, title I, § 111(b), Nov. 3, 1988, 102 Stat. 2995, provided in part that: “Any moneys remaining in the Lease Guarantee Fund on the date of enactment of this Act [Nov. 3, 1988] shall be transferred to the Small Business Administration’s business loan and investment fund.”
 
-#### § 694–1. Planning design or installation of pollution control facilities
+#### § 694–1. Planning design or installation of pollution control facilities
 
 **(a) Definitions** For purposes of this section, the term—
 
@@ -3113,21 +3113,21 @@ Any guarantee issued under this section may be assigned with the permission of t
 
 Section 693 of this title shall apply to the administration of this section.
 
-(Pub. L. 85–699, title IV, § 404, as added Pub. L. 94–305, title I, § 102, June 4, 1976, 90 Stat. 663; amended Pub. L. 98–473, title I, § 115, Oct. 12, 1984, 98 Stat. 1967.)
+(Pub. L. 85–699, title IV, § 404, as added Pub. L. 94–305, title I, § 102, June 4, 1976, 90 Stat. 663; amended Pub. L. 98–473, title I, § 115, Oct. 12, 1984, 98 Stat. 1967.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (b)(1). Pub. L. 98–473, § 115(1), (2), substituted “shall be issued” for “may be issued” and inserted “, and the Administration is expressly prohibited from denying such guarantee due to the property being so acquired”.
+1984—Subsec. (b)(1). Pub. L. 98–473, § 115(1), (2), substituted “shall be issued” for “may be issued” and inserted “, and the Administration is expressly prohibited from denying such guarantee due to the property being so acquired”.
 
-Subsec. (c). Pub. L. 98–473, § 115(3), substituted “be less than 1 per centum or more than 3½ per centum” for “exceed 3½ per centum”.
+Subsec. (c). Pub. L. 98–473, § 115(3), substituted “be less than 1 per centum or more than 3½ per centum” for “exceed 3½ per centum”.
 
-#### § 694–2. Revolving fund for qualified contract guarantees; investment of idle funds
+#### § 694–2. Revolving fund for qualified contract guarantees; investment of idle funds
 
 There is created within the Treasury a separate fund for guarantees which shall be available to the Administrator without fiscal year limitations as a revolving fund for the purpose of section 694–1 of this title. All amounts received by the Administrator, including any moneys, property, or assets derived by him from his operations in connection with section 694–1 of this title shall be deposited in the fund. All expenses and payments, excluding administrative expenses, pursuant to operations of the Administrator under section 694–1 of this title shall be paid from the fund. Moneys in the fund not needed for the payment of current operating expenses or for the payment of claims arising under this part may be invested in bonds or other obligations of, or bonds or other obligations guaranteed as to principal and interest by, the United States; except that moneys provided as capital for the fund shall not be so invested.
 
-(Pub. L. 85–699, title IV, § 405, as added Pub. L. 94–305, title I, § 102, June 4, 1976, 90 Stat. 665; amended Pub. L. 95–89, title I, § 104, Aug. 4, 1977, 91 Stat. 556; Pub. L. 96–302, title I, § 112, July 2, 1980, 94 Stat. 837.)
+(Pub. L. 85–699, title IV, § 405, as added Pub. L. 94–305, title I, § 102, June 4, 1976, 90 Stat. 665; amended Pub. L. 95–89, title I, § 104, Aug. 4, 1977, 91 Stat. 556; Pub. L. 96–302, title I, § 112, July 2, 1980, 94 Stat. 837.)
 
 **Editorial Notes**
 
@@ -3149,7 +3149,7 @@ Amendment by Pub. L. 95–89 effective Oct. 1, 1977, see section 106 of Pub. L. 
 
 ### Part B—Surety Bond Guarantees
 
-#### § 694a. Definitions
+#### § 694a. Definitions
 
 As used in this part—
 
@@ -3171,7 +3171,7 @@ As used in this part—
 
 **(9)** Notwithstanding any other provision of law or any rule, regulation, or order of the Administration, for purpose of sections 694a, 694b, and 694c of this title the term “small business concern” means a business concern that meets the size standard for the primary industry in which such business concern, and the affiliates of such business concern, is engaged, as determined by the Administrator in accordance with the North American Industry Classification System.
 
-(Pub. L. 85–699, title IV, § 410, as added Pub. L. 91–609, title IX, § 911(a)(4), Dec. 31, 1970, 84 Stat. 1812; amended Pub. L. 95–507, title I, § 110, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 111–5, div. A, title V, § 508(c), Feb. 17, 2009, 123 Stat. 158; Pub. L. 112–239, div. A, title XVI, § 1695(c), Jan. 2, 2013, 126 Stat. 2090.)
+(Pub. L. 85–699, title IV, § 410, as added Pub. L. 91–609, title IX, § 911(a)(4), Dec. 31, 1970, 84 Stat. 1812; amended Pub. L. 95–507, title I, § 110, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 111–5, div. A, title V, § 508(c), Feb. 17, 2009, 123 Stat. 158; Pub. L. 112–239, div. A, title XVI, § 1695(c), Jan. 2, 2013, 126 Stat. 2090.)
 
 **Editorial Notes**
 
@@ -3179,7 +3179,7 @@ As used in this part—
 
 2013—Par. (9). Pub. L. 112–239 added par. (9).
 
-2009—Par. (9). Pub. L. 111–5, § 508(c), (f), temporarily added par. (9) which read as follows: “Notwithstanding any other provision of law or any rule, regulation, or order of the Administration, for purposes of sections 694a, 694b, and 694c of this title the term “small business concern” means a business concern that meets the size standard for the primary industry in which such business concern, and the affiliates of such business concern, is engaged, as determined by the Administrator in accordance with the North American Industry Classification System.” See Termination Date of 2009 Amendment note below.
+2009—Par. (9). Pub. L. 111–5, § 508(c), (f), temporarily added par. (9) which read as follows: “Notwithstanding any other provision of law or any rule, regulation, or order of the Administration, for purposes of sections 694a, 694b, and 694c of this title the term “small business concern” means a business concern that meets the size standard for the primary industry in which such business concern, and the affiliates of such business concern, is engaged, as determined by the Administrator in accordance with the North American Industry Classification System.” See Termination Date of 2009 Amendment note below.
 
 1978—Par. (4)(D). Pub. L. 95–507 added cl. (D).
 
@@ -3187,13 +3187,13 @@ As used in this part—
 
 **Termination Date of 2009 Amendment**
 
-Pub. L. 111–5, div. A, title V, § 508(f), Feb. 17, 2009, 123 Stat. 159, provided that: “The amendments made by this section [amending this section and section 694b of this title] shall remain in effect until September 30, 2010.”
+Pub. L. 111–5, div. A, title V, § 508(f), Feb. 17, 2009, 123 Stat. 159, provided that: “The amendments made by this section [amending this section and section 694b of this title] shall remain in effect until September 30, 2010.”
 
 **Technical Assistance in Connection with Construction Contracts; Authorization of Appropriations**
 
 Section 911(b) of Pub. L. 91–609 authorized the Secretary of Housing and Urban Development to take such steps and carry out such activities as he determined to be necessary or desirable to provide, either directly or by contract or other arrangement, technical assistance to any contractor or subcontractor for whom a bid, payment, or performance bond is guaranteed under part B of title IV of the Small Business Investment Act of 1958 [this part] in connection with any construction contract, in order to assist such contractor or subcontractor in obtaining or carrying out such contract, and authorized to be appropriated for each of the first three fiscal years ending after the date of the enactment of this Act [Dec. 31, 1970] such sums, not to exceed $1,500,000, as were necessary to enable the Secretary to carry out his functions under paragraph (1).
 
-#### § 694b. Surety bond guarantees
+#### § 694b. Surety bond guarantees
 
 **(a) Authority of Administration to guarantee surety against loss from principal’s breach of bond**
 
@@ -3239,17 +3239,17 @@ In no event shall the Administration pay a surety pursuant to this subsection an
 
 **(2)** not to exceed 90 per centum of the loss incurred and paid in the case of a surety requiring the Administration’s specific approval for the issuance of such bond, but in no event may the Administration make any duplicate payment pursuant to subsection (b) or any other subsection;
 
-**(3)** equal to 90 per centum of the loss incurred and paid in the case of a surety requiring the administration’s 1
+**(3)** equal to 90 per centum of the loss incurred and paid in the case of a surety requiring the administration’s 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 specific approval for the issuance of a bond, if—
 
 **(A)** the total amount of the contract at the time of execution of the bond or bonds is $100,000 or less, or
 
-**(B)** the bond was issued to a small business concern owned and controlled by socially and economically disadvantaged individuals as defined by section 637(d) of this title, or to a qualified HUBZone small business concern (as defined in section 632(p) 2
+**(B)** the bond was issued to a small business concern owned and controlled by socially and economically disadvantaged individuals as defined by section 637(d) of this title, or to a qualified HUBZone small business concern (as defined in section 632(p) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title); or
 
@@ -3293,21 +3293,21 @@ The provisions of section 693 of this title shall apply in the administration of
 
 For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guarantee application.
 
-(Pub. L. 85–699, title IV, § 411, as added Pub. L. 91–609, title IX, § 911(a)(4), Dec. 31, 1970, 84 Stat. 1813; amended Pub. L. 93–386, §§ 6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, § 111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, § 115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, § 18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§ 202–204, Nov. 3, 1988, 102 Stat. 3007–3009; Pub. L. 104–208, div. D, title II, § 206(a), Sept. 30, 1996, 110 Stat. 3009–738; Pub. L. 105–135, title VI, § 604(d), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 106–554, § 1(a)(9) [title VIII, § 805(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–705; Pub. L. 108–447, div. K, title II, § 203(a), (b), Dec. 8, 2004, 118 Stat. 3465, 3466; Pub. L. 111–5, div. A, title V, § 508(a), (b), Feb. 17, 2009, 123 Stat. 158; Pub. L. 112–239, div. A, title XVI, § 1695(a), (b), Jan. 2, 2013, 126 Stat. 2089, 2090; Pub. L. 114–92, div. A, title VIII, § 874(b), Nov. 25, 2015, 129 Stat. 941.)
+(Pub. L. 85–699, title IV, § 411, as added Pub. L. 91–609, title IX, § 911(a)(4), Dec. 31, 1970, 84 Stat. 1813; amended Pub. L. 93–386, §§ 6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, § 111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, § 115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, § 18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§ 202–204, Nov. 3, 1988, 102 Stat. 3007–3009; Pub. L. 104–208, div. D, title II, § 206(a), Sept. 30, 1996, 110 Stat. 3009–738; Pub. L. 105–135, title VI, § 604(d), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 106–554, § 1(a)(9) [title VIII, § 805(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–705; Pub. L. 108–447, div. K, title II, § 203(a), (b), Dec. 8, 2004, 118 Stat. 3465, 3466; Pub. L. 111–5, div. A, title V, § 508(a), (b), Feb. 17, 2009, 123 Stat. 158; Pub. L. 112–239, div. A, title XVI, § 1695(a), (b), Jan. 2, 2013, 126 Stat. 2089, 2090; Pub. L. 114–92, div. A, title VIII, § 874(b), Nov. 25, 2015, 129 Stat. 941.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 632(p) of this title, referred to in subsec. (c)(3)(B), was redesignated section 657a(b) of this title by Pub. L. 115–91, div. A, title XVII, § 1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
+Section 632(p) of this title, referred to in subsec. (c)(3)(B), was redesignated section 657a(b) of this title by Pub. L. 115–91, div. A, title XVII, § 1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
 
 **Amendments**
 
 2015—Subsec. (c)(1). Pub. L. 114–92 substituted “90” for “70”.
 
-2013—Subsec. (a)(1). Pub. L. 112–239, § 1695(a), designated existing provisions as subpar. (A), substituted “does not exceed $6,500,000, as adjusted for inflation in accordance with section 1908 of title 41.” for “does not exceed $2,000,000.”, and added subpar. (B).
+2013—Subsec. (a)(1). Pub. L. 112–239, § 1695(a), designated existing provisions as subpar. (A), substituted “does not exceed $6,500,000, as adjusted for inflation in accordance with section 1908 of title 41.” for “does not exceed $2,000,000.”, and added subpar. (B).
 
-Subsec. (e). Pub. L. 112–239, § 1695(b)(1), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of all liability if—
+Subsec. (e). Pub. L. 112–239, § 1695(b)(1), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of all liability if—
 
 “(1) the surety obtained such guarantee or agreement, or applied for such reimbursement, by fraud or material misrepresentation,
 
@@ -3317,11 +3317,11 @@ Subsec. (e). Pub. L. 112–239, § 1695(b)(1), added subsec. (e) and struck ou
 
 “(4) the surety has substantially violated the regulations promulgated by the Administration pursuant to subsection (d) of this section.”
 
-Subsec. (j). Pub. L. 112–239, § 1695(b)(2), added subsec. (j).
+Subsec. (j). Pub. L. 112–239, § 1695(b)(2), added subsec. (j).
 
-2009—Subsec. (a)(1). Pub. L. 111–5, § 508(a), (f), temporarily amended par. (1) by designating existing provisions as subpar. (A), substituting “$5,000,000” for “$2,000,000”, and adding subpar. (B) which read as follows: “The Administrator may guarantee a surety under subparagraph (A) for a total work order or contract amount that does not exceed $10,000,000, if a contracting officer of a Federal agency certifies that such a guarantee is necessary.” See Termination Date of 2009 Amendment note below.
+2009—Subsec. (a)(1). Pub. L. 111–5, § 508(a), (f), temporarily amended par. (1) by designating existing provisions as subpar. (A), substituting “$5,000,000” for “$2,000,000”, and adding subpar. (B) which read as follows: “The Administrator may guarantee a surety under subparagraph (A) for a total work order or contract amount that does not exceed $10,000,000, if a contracting officer of a Federal agency certifies that such a guarantee is necessary.” See Termination Date of 2009 Amendment note below.
 
-Subsec. (e). Pub. L. 111–5, § 508(b)(1), (f), temporarily added subsec. (e), the text of which read as follows:
+Subsec. (e). Pub. L. 111–5, § 508(b)(1), (f), temporarily added subsec. (e), the text of which read as follows:
 
 “Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of liability (in whole or in part within the discretion of the Administration) if—
 
@@ -3335,27 +3335,27 @@ Subsec. (e). Pub. L. 111–5, § 508(b)(1), (f), temporarily added subsec. (e)
 
 See Termination Date of 2009 Amendment note below.
 
-Subsec. (k). Pub. L. 111–5, § 508(b)(2), (f), temporarily added subsec. (k) which read as follows: “For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guaranty application.” See Termination Date of 2009 Amendment note below.
+Subsec. (k). Pub. L. 111–5, § 508(b)(2), (f), temporarily added subsec. (k) which read as follows: “For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guaranty application.” See Termination Date of 2009 Amendment note below.
 
-2004—Subsec. (a)(1). Pub. L. 108–447, § 203(a), substituted “total work order or contract amount at the time of bond execution that does not exceed” for “contract up to”.
+2004—Subsec. (a)(1). Pub. L. 108–447, § 203(a), substituted “total work order or contract amount at the time of bond execution that does not exceed” for “contract up to”.
 
-Subsec. (g)(3). Pub. L. 108–447, § 203(b), substituted “every three years” for “each year”.
+Subsec. (g)(3). Pub. L. 108–447, § 203(b), substituted “every three years” for “each year”.
 
 2000—Subsecs. (a)(1), (e)(2). Pub. L. 106–554 substituted “$2,000,000” for “$1,250,000”.
 
-1997—Subsec. (c)(3)(B). Pub. L. 105–135 inserted “, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title)” before semicolon.
+1997—Subsec. (c)(3)(B). Pub. L. 105–135 inserted “, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title)” before semicolon.
 
 1996—Subsec. (a)(5). Pub. L. 104–208 added par. (5).
 
-1988—Subsec. (a). Pub. L. 100–590, § 202, amended subsec. (a) generally, substituting pars. (1) to (4) for former pars. (1) to (6).
+1988—Subsec. (a). Pub. L. 100–590, § 202, amended subsec. (a) generally, substituting pars. (1) to (4) for former pars. (1) to (6).
 
-Subsec. (b). Pub. L. 100–590, § 203(c), added par. (2), redesignated former par. (2) as (3), struck out former par. (3) which prohibited the making subsequent to two years after Oct. 24, 1978, of new agreements to indemnify, and inserted concluding provision: “In no event shall the Administration pay a surety pursuant to this subsection an amount exceeding the guaranteed share of the bond available to such surety pursuant to subsection (a).”
+Subsec. (b). Pub. L. 100–590, § 203(c), added par. (2), redesignated former par. (2) as (3), struck out former par. (3) which prohibited the making subsequent to two years after Oct. 24, 1978, of new agreements to indemnify, and inserted concluding provision: “In no event shall the Administration pay a surety pursuant to this subsection an amount exceeding the guaranteed share of the bond available to such surety pursuant to subsection (a).”
 
-Subsec. (c). Pub. L. 100–590, § 203(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any guarantee or agreement to indemnify under this section shall obligate the Administration to pay to the surety a sum not to exceed (1) in the case of a breach of contract, 90 percent of the loss incurred and paid by the surety as the result of the breach; or (2) in a case in which subsection (b) of this section applies, the amount determined under subsection (b) of this section.”
+Subsec. (c). Pub. L. 100–590, § 203(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any guarantee or agreement to indemnify under this section shall obligate the Administration to pay to the surety a sum not to exceed (1) in the case of a breach of contract, 90 percent of the loss incurred and paid by the surety as the result of the breach; or (2) in a case in which subsection (b) of this section applies, the amount determined under subsection (b) of this section.”
 
-Subsec. (e)(3), (4). Pub. L. 100–590, § 203(c), added pars. (3) and (4).
+Subsec. (e)(3), (4). Pub. L. 100–590, § 203(c), added pars. (3) and (4).
 
-Subsec. (g). Pub. L. 100–590, § 204, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Administration may at all reasonable times audit in the offices of a participating surety all documents, files, books, records, and other material relevant to the Administration’s guarantee, commitments to guarantee, or agreements to indemnify any surety pursuant to this section.”
+Subsec. (g). Pub. L. 100–590, § 204, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Administration may at all reasonable times audit in the offices of a participating surety all documents, files, books, records, and other material relevant to the Administration’s guarantee, commitments to guarantee, or agreements to indemnify any surety pursuant to this section.”
 
 1986—Subsecs. (a), (e)(2). Pub. L. 99–272 substituted “$1,250,000” for “$1,000,000”.
 
@@ -3371,15 +3371,15 @@ Subsec. (d). Pub. L. 95–507 substituted provisions relating to regulations for
 
 Subsecs. (e) to (i). Pub. L. 95–507 added subsecs. (e) to (i).
 
-1974—Subsec. (a). Pub. L. 93–386, § 6(a)(3), substituted “$1,000,000” for “$500,000”.
+1974—Subsec. (a). Pub. L. 93–386, § 6(a)(3), substituted “$1,000,000” for “$500,000”.
 
-Subsec. (c). Pub. L. 93–386, § 11, inserted provisions relating to the administration of the program on a prudent and economically justifiable basis and provisions requiring the Administration to publish the cost of the program to the Administration, to conduct a study of the program in order to determine what must be done to make the program economically sound, and to transmit a report to Congress of the findings, conclusions, and recommendations of the study.
+Subsec. (c). Pub. L. 93–386, § 11, inserted provisions relating to the administration of the program on a prudent and economically justifiable basis and provisions requiring the Administration to publish the cost of the program to the Administration, to conduct a study of the program in order to determine what must be done to make the program economically sound, and to transmit a report to Congress of the findings, conclusions, and recommendations of the study.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–92, div. A, title VIII, § 874(c), Nov. 25, 2015, 129 Stat. 941, provided that: “The amendments made by this section [enacting section 9310 of Title 31, Money and Finance, and amending this section] shall take effect 1 year after the date of the enactment of this Act [Nov. 25, 2015].”
+Pub. L. 114–92, div. A, title VIII, § 874(c), Nov. 25, 2015, 129 Stat. 941, provided that: “The amendments made by this section [enacting section 9310 of Title 31, Money and Finance, and amending this section] shall take effect 1 year after the date of the enactment of this Act [Nov. 25, 2015].”
 
 **Termination Date of 2009 Amendment**
 
@@ -3391,13 +3391,13 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. D, title II, § 206(b), Sept. 30, 1996, 110 Stat. 3009–739, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to applications received (or pending substantive evaluation) on or after October 1, 1995.”
+Pub. L. 104–208, div. D, title II, § 206(b), Sept. 30, 1996, 110 Stat. 3009–739, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to applications received (or pending substantive evaluation) on or after October 1, 1995.”
 
 **Effective and Termination Dates of 1988 Amendment**
 
-Pub. L. 100–590, title II, § 207, Nov. 3, 1988, 102 Stat. 3009, as amended by Pub. L. 101–574, title II, § 216(a), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 103–403, title III, § 302, Oct. 22, 1994, 108 Stat. 4188; Pub. L. 104–36, § 7, Oct. 12, 1995, 109 Stat. 297; Pub. L. 105–135, title V, § 503, Dec. 2, 1997, 111 Stat. 2624; Pub. L. 106–554, § 1(a)(9) [title VIII, § 805(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–706, which provided that the provisions contained in section 694b(a)(3) of this title would cease to be effective after Sept. 30, 2003, was repealed by Pub. L. 108–447, div. K, title II, § 203(c), Dec. 8, 2004, 118 Stat. 3466.
+Pub. L. 100–590, title II, § 207, Nov. 3, 1988, 102 Stat. 3009, as amended by Pub. L. 101–574, title II, § 216(a), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 103–403, title III, § 302, Oct. 22, 1994, 108 Stat. 4188; Pub. L. 104–36, § 7, Oct. 12, 1995, 109 Stat. 297; Pub. L. 105–135, title V, § 503, Dec. 2, 1997, 111 Stat. 2624; Pub. L. 106–554, § 1(a)(9) [title VIII, § 805(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–706, which provided that the provisions contained in section 694b(a)(3) of this title would cease to be effective after Sept. 30, 2003, was repealed by Pub. L. 108–447, div. K, title II, § 203(c), Dec. 8, 2004, 118 Stat. 3466.
 
-Pub. L. 100–590, title II, § 209, Nov. 3, 1988, 102 Stat. 3010, provided that: “Except as otherwise provided in this title, the provisions of this title [amending this section and section 694c of this title and enacting provisions set out as notes under this section], shall become effective upon expiration of one hundred and eighty days after the date of its enactment [Nov. 3, 1988].”
+Pub. L. 100–590, title II, § 209, Nov. 3, 1988, 102 Stat. 3010, provided that: “Except as otherwise provided in this title, the provisions of this title [amending this section and section 694c of this title and enacting provisions set out as notes under this section], shall become effective upon expiration of one hundred and eighty days after the date of its enactment [Nov. 3, 1988].”
 
 **Effective Date of 1980 Amendment**
 
@@ -3405,7 +3405,7 @@ Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L.
 
 **Regulations**
 
-Pub. L. 100–590, title II, § 205, Nov. 3, 1988, 102 Stat. 3009, provided that: “The Administration shall promulgate final regulations to implement the amendments made by this title [amending this section and section 694c of this title] not later than one hundred and eighty days after the date of the enactment of this Act [Nov. 3, 1988].”
+Pub. L. 100–590, title II, § 205, Nov. 3, 1988, 102 Stat. 3009, provided that: “The Administration shall promulgate final regulations to implement the amendments made by this title [amending this section and section 694c of this title] not later than one hundred and eighty days after the date of the enactment of this Act [Nov. 3, 1988].”
 
 **Small Business Access to Surety Bonding Survey**
 
@@ -3413,15 +3413,15 @@ Pub. L. 102–366, title III, subtitle A, Sept. 4, 1992, 106 Stat. 1002–1005, 
 
 **Evaluation of Preferred Surety Bond Guarantee Program; Report**
 
-Pub. L. 100–590, title II, § 206, Nov. 3, 1988, 102 Stat. 3009, as amended by Pub. L. 101–574, title II, § 216(b), Nov. 15, 1990, 104 Stat. 2823, directed Comptroller General, not later than 3 years after Nov. 3, 1988, to transmit a report to Congress evaluating the preferred surety bond guarantee program, with such report to be transmitted not later than Mar. 1, 1994, and cover the period Oct. 1, 1990, through Sept. 30, 1993.
+Pub. L. 100–590, title II, § 206, Nov. 3, 1988, 102 Stat. 3009, as amended by Pub. L. 101–574, title II, § 216(b), Nov. 15, 1990, 104 Stat. 2823, directed Comptroller General, not later than 3 years after Nov. 3, 1988, to transmit a report to Congress evaluating the preferred surety bond guarantee program, with such report to be transmitted not later than Mar. 1, 1994, and cover the period Oct. 1, 1990, through Sept. 30, 1993.
 
-#### § 694c. Revolving fund for surety bond guarantees
+#### § 694c. Revolving fund for surety bond guarantees
 
 **(a)** There is created within the Treasury a separate fund for guarantees which shall be available to the Administrator without fiscal year limitation as a revolving fund for the purposes of this part. All amounts received by the Administrator, including any moneys, property, or assets derived by him from his operations in connection with this part, shall be deposited in the fund. All expenses and payments, excluding administrative expenses, pursuant to operations of the Administrator under this part shall be paid from the fund.
 
 **(b)** Such sums as may be appropriated to the Fund to carry out the programs authorized by this part shall be without fiscal year limitation.
 
-(Pub. L. 85–699, title IV, § 412, as added Pub. L. 93–386, § 6(a)(4), Aug. 23, 1974, 88 Stat. 747; amended Pub. L. 94–305, title I, § 113, June 4, 1976, 90 Stat. 667; Pub. L. 95–14, § 4, Mar. 24, 1977, 91 Stat. 25; Pub. L. 95–89, title I, § 105, Aug. 4, 1977, 91 Stat. 556; Pub. L. 96–302, title I, § 111, July 2, 1980, 94 Stat. 837; Pub. L. 100–590, title II, § 208, Nov. 3, 1988, 102 Stat. 3009.)
+(Pub. L. 85–699, title IV, § 412, as added Pub. L. 93–386, § 6(a)(4), Aug. 23, 1974, 88 Stat. 747; amended Pub. L. 94–305, title I, § 113, June 4, 1976, 90 Stat. 667; Pub. L. 95–14, § 4, Mar. 24, 1977, 91 Stat. 25; Pub. L. 95–89, title I, § 105, Aug. 4, 1977, 91 Stat. 556; Pub. L. 96–302, title I, § 111, July 2, 1980, 94 Stat. 837; Pub. L. 100–590, title II, § 208, Nov. 3, 1988, 102 Stat. 3009.)
 
 **Editorial Notes**
 
@@ -3453,7 +3453,7 @@ Amendment by Pub. L. 95–89 effective Oct. 1, 1977, see section 106 of Pub. L. 
 
 ## SUBCHAPTER V—LOANS TO STATE AND LOCAL DEVELOPMENT COMPANIES
 
-### § 695. State development companies
+### § 695. State development companies
 
 **(a) Congressional finding and declaration of purpose**
 
@@ -3521,7 +3521,7 @@ If eligibility is based upon the criteria set forth in paragraph (2) or (3), the
 
 **(B)** all of the production facilities of which are located in the United States.
 
-(Pub. L. 85–699, title V, § 501, Aug. 21, 1958, 72 Stat. 696; Pub. L. 100–590, title I, § 115(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997; Pub. L. 101–574, title II, § 214(a), (b), Nov. 15, 1990, 104 Stat. 2821; Pub. L. 106–50, title IV, § 405, Aug. 17, 1999, 113 Stat. 246; Pub. L. 106–554, § 1(a)(9) [title III, § 302], Dec. 21, 2000, 114 Stat. 2763, 2763A–684; Pub. L. 108–447, div. K, title I, § 105, Dec. 8, 2004, 118 Stat. 3444; Pub. L. 110–140, title XII, § 1204(a), Dec. 19, 2007, 121 Stat. 1772; Pub. L. 111–5, div. A, title V, § 504(b), Feb. 17, 2009, 123 Stat. 156; Pub. L. 111–240, title I, § 1132, Sept. 27, 2010, 124 Stat. 2514.)
+(Pub. L. 85–699, title V, § 501, Aug. 21, 1958, 72 Stat. 696; Pub. L. 100–590, title I, § 115(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997; Pub. L. 101–574, title II, § 214(a), (b), Nov. 15, 1990, 104 Stat. 2821; Pub. L. 106–50, title IV, § 405, Aug. 17, 1999, 113 Stat. 246; Pub. L. 106–554, § 1(a)(9) [title III, § 302], Dec. 21, 2000, 114 Stat. 2763, 2763A–684; Pub. L. 108–447, div. K, title I, § 105, Dec. 8, 2004, 118 Stat. 3444; Pub. L. 110–140, title XII, § 1204(a), Dec. 19, 2007, 121 Stat. 1772; Pub. L. 111–5, div. A, title V, § 504(b), Feb. 17, 2009, 123 Stat. 156; Pub. L. 111–240, title I, § 1132, Sept. 27, 2010, 124 Stat. 2514.)
 
 **Editorial Notes**
 
@@ -3535,9 +3535,9 @@ For definition of “this chapter”, referred to in subsec. (b), see References
 
 2009—Subsec. (e)(1), (2). Pub. L. 111–5, which directed amendment of section 501(e)(1), (2) of the Small Business Investment Act by substituting “$65,000” for “$50,000”, was executed by making the substitution in subsec. (e)(1), (2) of this section, which is section 501 of the Small Business Investment Act of 1958, to reflect the probable intent of Congress.
 
-2007—Subsec. (d)(3). Pub. L. 110–140, § 1204(a)(4), inserted the following concluding provisions: “In subparagraphs (J) and (K), terms have the meanings given those terms under the Leadership in Energy and Environmental Design (LEED) standard for green building certification, as determined by the Administrator.”
+2007—Subsec. (d)(3). Pub. L. 110–140, § 1204(a)(4), inserted the following concluding provisions: “In subparagraphs (J) and (K), terms have the meanings given those terms under the Leadership in Energy and Environmental Design (LEED) standard for green building certification, as determined by the Administrator.”
 
-Subsec. (d)(3)(I) to (K). Pub. L. 110–140, § 1204(a)(1)–(3), added subpars. (I) to (K).
+Subsec. (d)(3)(I) to (K). Pub. L. 110–140, § 1204(a)(1)–(3), added subpars. (I) to (K).
 
 2004—Subsec. (e). Pub. L. 108–447 added subsec. (e).
 
@@ -3545,9 +3545,9 @@ Subsec. (d)(3)(I) to (K). Pub. L. 110–140, § 1204(a)(1)–(3), added subpar
 
 1999—Subsec. (d)(3)(E)–(H). Pub. L. 106–50 added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
 
-1990—Subsec. (a). Pub. L. 101–574, § 214(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Congress hereby finds and declares that the purpose of this subchapter is to foster economic development in both urban and rural areas by providing long term financing for small business concerns through the development company program authorized by this subchapter. In order to carry out this objective, the Administration is hereby directed to place greater emphasis on the needs of rural areas and the promotion of the development company program in such areas, and is further directed to develop a plan for greater outreach of procurement and export trade seminars in such areas. As used in this subchapter, the term ‘rural areas’ means those localities with populations of less than 20,000.”
+1990—Subsec. (a). Pub. L. 101–574, § 214(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Congress hereby finds and declares that the purpose of this subchapter is to foster economic development in both urban and rural areas by providing long term financing for small business concerns through the development company program authorized by this subchapter. In order to carry out this objective, the Administration is hereby directed to place greater emphasis on the needs of rural areas and the promotion of the development company program in such areas, and is further directed to develop a plan for greater outreach of procurement and export trade seminars in such areas. As used in this subchapter, the term ‘rural areas’ means those localities with populations of less than 20,000.”
 
-Subsec. (d). Pub. L. 101–574, § 214(b), added subsec. (d).
+Subsec. (d). Pub. L. 101–574, § 214(b), added subsec. (d).
 
 1988—Pub. L. 100–590 inserted “State development companies” as section catchline, added subsec. (a), and redesignated former subsecs. (a) and (b) as (b) and (c), respectively.
 
@@ -3563,7 +3563,7 @@ Assistance made available under any financings made under this subchapter during
 
 **Loan Liquidation Pilot Program**
 
-Pub. L. 104–208, div. D, title II, § 204, Sept. 30, 1996, 110 Stat. 3009–736, provided that:
+Pub. L. 104–208, div. D, title II, § 204, Sept. 30, 1996, 110 Stat. 3009–736, provided that:
 
 > **“(a) In General.—** The Administrator shall carry out a loan liquidation pilot program (in this section referred to as the ‘pilot program’) in accordance with the requirements of this section.
 
@@ -3611,9 +3611,9 @@ Pub. L. 104–208, div. D, title II, § 204, Sept. 30, 1996, 110 Stat. 3009–
 
 > **“(2) Reporting period.—** The report shall be based on data from, and issued not later than 90 days after the close of, the first eight 8 [sic] fiscal quarters of the pilot program’s operation after the date of implementation.”
 
-[Section 204 of title II of div. D of Pub. L. 104–208, set out above, to cease to have effect beginning on the date on which final regulations are issued to carry out section 697g of this title, see section 1(a)(9) [title III, § 307(b)] of Pub. L. 106–554, set out as a Regulations note under section 697g of this title.]
+[Section 204 of title II of div. D of Pub. L. 104–208, set out above, to cease to have effect beginning on the date on which final regulations are issued to carry out section 697g of this title, see section 1(a)(9) [title III, § 307(b)] of Pub. L. 106–554, set out as a Regulations note under section 697g of this title.]
 
-### § 696. Loans for plant acquisition, construction, conversion and expansion
+### § 696. Loans for plant acquisition, construction, conversion and expansion
 
 The Administration may, in addition to its authority under section 695 of this title, make loans for plant acquisition, construction, conversion or expansion, including the acquisition of land, to State and local development companies, and such loans may be made or effected either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred basis: *Provided, however*, That the foregoing powers shall be subject to the following restrictions and limitations:
 
@@ -3655,9 +3655,9 @@ The Administration may, in addition to its authority under section 695 of this t
 
 **(IV)** the small business concern (or its owners, stockholders, or affiliates) receiving assistance through a body authorized by this subchapter.
 
-**(ii) Funding from institutions.—** Not less than 50 percent of the total cost of any project financed pursuant to clauses 1
+**(ii) Funding from institutions.—** Not less than 50 percent of the total cost of any project financed pursuant to clauses 1
 
-<sup>1</sup>  So in original. Probably should be “clause”.
+<sup>1</sup> So in original. Probably should be “clause”.
 
 (i), (ii), or (iii) of subparagraph (C) shall come from the institutions described in subclauses (I), (II), and (III) of clause (i).
 
@@ -3773,29 +3773,29 @@ The Administration may, in addition to its authority under section 695 of this t
 
 **(v) Total amount of loans.—** The Administrator may provide not more than a total of $7,500,000,000 of financing under this subparagraph for each fiscal year.
 
-(Pub. L. 85–699, title V, § 502, Aug. 21, 1958, 72 Stat. 697; Pub. L. 87–27, § 26, May 1, 1961, 75 Stat. 63; Pub. L. 87–341, § 10, Oct. 3, 1961, 75 Stat. 756; Pub. L. 94–305, title I, §§ 108(a), 110, June 4, 1976, 90 Stat. 666, 667; Pub. L. 95–507, title I, § 112, Oct. 24, 1978, 92 Stat. 1760; Pub. L. 97–35, title XIX, § 1909, Aug. 13, 1981, 95 Stat. 778; Pub. L. 100–418, title VIII, § 8007(b), Aug. 23, 1988, 102 Stat. 1561; Pub. L. 100–590, title I, § 116(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997, 2998; Pub. L. 101–574, title II, § 214(c), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 104–208, div. D, title II, § 202(a), Sept. 30, 1996, 110 Stat. 3009–734; Pub. L. 105–135, title II, § 221, Dec. 2, 1997, 111 Stat. 2603; Pub. L. 106–554, § 1(a)(9) [title II, § 208(b), title III, § 303, title VIII, § 802(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–683, 2763A–684, 2763A–702; Pub. L. 108–447, div. K, title I, § 104, Dec. 8, 2004, 118 Stat. 3444; Pub. L. 110–140, title XII, § 1204(b), Dec. 19, 2007, 121 Stat. 1772; Pub. L. 111–5, div. A, title V, § 504(a), Feb. 17, 2009, 123 Stat. 155; Pub. L. 111–240, title I, §§ 1112, 1122, Sept. 27, 2010, 124 Stat. 2508, 2510; Pub. L. 115–371, § 2, Dec. 21, 2018, 132 Stat. 5106; Pub. L. 116–260, div. N, title III, § 328(a)(2), Dec. 27, 2020, 134 Stat. 2038.)
+(Pub. L. 85–699, title V, § 502, Aug. 21, 1958, 72 Stat. 697; Pub. L. 87–27, § 26, May 1, 1961, 75 Stat. 63; Pub. L. 87–341, § 10, Oct. 3, 1961, 75 Stat. 756; Pub. L. 94–305, title I, §§ 108(a), 110, June 4, 1976, 90 Stat. 666, 667; Pub. L. 95–507, title I, § 112, Oct. 24, 1978, 92 Stat. 1760; Pub. L. 97–35, title XIX, § 1909, Aug. 13, 1981, 95 Stat. 778; Pub. L. 100–418, title VIII, § 8007(b), Aug. 23, 1988, 102 Stat. 1561; Pub. L. 100–590, title I, § 116(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997, 2998; Pub. L. 101–574, title II, § 214(c), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 104–208, div. D, title II, § 202(a), Sept. 30, 1996, 110 Stat. 3009–734; Pub. L. 105–135, title II, § 221, Dec. 2, 1997, 111 Stat. 2603; Pub. L. 106–554, § 1(a)(9) [title II, § 208(b), title III, § 303, title VIII, § 802(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–683, 2763A–684, 2763A–702; Pub. L. 108–447, div. K, title I, § 104, Dec. 8, 2004, 118 Stat. 3444; Pub. L. 110–140, title XII, § 1204(b), Dec. 19, 2007, 121 Stat. 1772; Pub. L. 111–5, div. A, title V, § 504(a), Feb. 17, 2009, 123 Stat. 155; Pub. L. 111–240, title I, §§ 1112, 1122, Sept. 27, 2010, 124 Stat. 2508, 2510; Pub. L. 115–371, § 2, Dec. 21, 2018, 132 Stat. 5106; Pub. L. 116–260, div. N, title III, § 328(a)(2), Dec. 27, 2020, 134 Stat. 2038.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Par. (7)(B). Pub. L. 116–260, § 328(a)(2)(A), substituted “100 percent” for “50 percent” in introductory provisions.
+2020—Par. (7)(B). Pub. L. 116–260, § 328(a)(2)(A), substituted “100 percent” for “50 percent” in introductory provisions.
 
-Par. (7)(C). Pub. L. 116–260, § 328(a)(2)(B), added subpar. (C).
+Par. (7)(C). Pub. L. 116–260, § 328(a)(2)(B), added subpar. (C).
 
 2018—Par. (3)(E)(ii). Pub. L. 115–371 redesignated introductory provisions of cl. (ii) as subcl. (I) of cl. (ii) and inserted heading, redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, of subcl. (I) and realigned margins, in item (aa), substituted “is more than the Federal banking regulator appraisal threshold” for “is more than $250,000”, in item (bb), substituted “is equal to or less than the Federal banking regulator appraisal threshold” for “is $250,000 or less”, and added subcl. (II).
 
-2010—Par. (2)(A)(i). Pub. L. 111–240, § 1122(c), substituted “clause (ii), (iii), (iv), or (v)” for “subparagraph (B) or (C)”.
+2010—Par. (2)(A)(i). Pub. L. 111–240, § 1122(c), substituted “clause (ii), (iii), (iv), or (v)” for “subparagraph (B) or (C)”.
 
-Pub. L. 111–240, § 1112(1), substituted “$5,000,000” for “$1,500,000”.
+Pub. L. 111–240, § 1112(1), substituted “$5,000,000” for “$1,500,000”.
 
-Par. (2)(A)(ii). Pub. L. 111–240, § 1112(2), substituted “$5,000,000” for “$2,000,000”.
+Par. (2)(A)(ii). Pub. L. 111–240, § 1112(2), substituted “$5,000,000” for “$2,000,000”.
 
-Par. (2)(A)(iii) to (v). Pub. L. 111–240, § 1112(3)–(5), substituted “$5,500,000” for “$4,000,000”.
+Par. (2)(A)(iii) to (v). Pub. L. 111–240, § 1112(3)–(5), substituted “$5,500,000” for “$4,000,000”.
 
-Par. (7)(C). Pub. L. 111–240, § 1122(b), struck out subpar. (C) relating to refinancing not involving expansions.
+Par. (7)(C). Pub. L. 111–240, § 1122(b), struck out subpar. (C) relating to refinancing not involving expansions.
 
-Pub. L. 111–240, § 1122(a), added subpar. (C).
+Pub. L. 111–240, § 1122(a), added subpar. (C).
 
 2009—Par. (7). Pub. L. 111–5 added par. (7).
 
@@ -3803,17 +3803,17 @@ Pub. L. 111–240, § 1122(a), added subpar. (C).
 
 2004—Par. (2). Pub. L. 108–447 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Loans made by the Administration under this section shall be limited to $1,000,000 for each such identifiable small business concern, except loans meeting the criteria specified in section 695(d)(3) of this title, which shall be limited to $1,300,000 for each such identifiable small business concern.”
 
-2000—Par. (2). Pub. L. 106–554, § 1(a)(9) [title III, § 303], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Loans made by the Administration under this section shall be limited to $750,000 for each such identifiable small-business concern, except loans meeting the criteria specified in section 695(d)(3) of this title shall be limited to $1,000,000 for each such identifiable small business concern.”
+2000—Par. (2). Pub. L. 106–554, § 1(a)(9) [title III, § 303], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Loans made by the Administration under this section shall be limited to $750,000 for each such identifiable small-business concern, except loans meeting the criteria specified in section 695(d)(3) of this title shall be limited to $1,000,000 for each such identifiable small business concern.”
 
-Par. (3)(E). Pub. L. 106–554, § 1(a)(9) [title II, § 208(b)], designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+Par. (3)(E). Pub. L. 106–554, § 1(a)(9) [title II, § 208(b)], designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-Par. (6). Pub. L. 106–554, § 1(a)(9) [title VIII, § 802(b)], added par. (6).
+Par. (6). Pub. L. 106–554, § 1(a)(9) [title VIII, § 802(b)], added par. (6).
 
-1997—Par. (1). Pub. L. 105–135, § 221(1), added par. (1) and struck out former par. (1) which read as follows: “The proceeds of any such loan shall be used solely by such borrower to assist in identifiable small-business concern and for a sound business purpose approved by the Administration.”
+1997—Par. (1). Pub. L. 105–135, § 221(1), added par. (1) and struck out former par. (1) which read as follows: “The proceeds of any such loan shall be used solely by such borrower to assist in identifiable small-business concern and for a sound business purpose approved by the Administration.”
 
-Par. (3)(D), (E). Pub. L. 105–135, § 221(2), added subpars. (D) and (E).
+Par. (3)(D), (E). Pub. L. 105–135, § 221(2), added subpars. (D) and (E).
 
-Par. (5). Pub. L. 105–135, § 221(3), added par. (5).
+Par. (5). Pub. L. 105–135, § 221(3), added par. (5).
 
 1996—Par. (3). Pub. L. 104–208 inserted heading and amended text of par. (3) generally. Prior to amendment, text read as follows: “Any development company assisted under this section must meet criteria established by the Administration, including the extent of participation to be required or amount of paid-in capital to be used in each instance as is determined to be reasonable by the Administration. Community injection funds may be derived, in whole or in part, from—
 
@@ -3825,13 +3825,13 @@ Par. (5). Pub. L. 105–135, § 221(3), added par. (5).
 
 “(D) a small business concern (or its owners, stockholders, or affiliates) receiving assistance through bodies authorized under this subchapter.”
 
-1990—Par. (2). Pub. L. 101–574 struck out period at end and inserted “, except loans meeting the criteria specified in section 695(d)(3) of this title shall be limited to $1,000,000 for each such identifiable small business concern.”
+1990—Par. (2). Pub. L. 101–574 struck out period at end and inserted “, except loans meeting the criteria specified in section 695(d)(3) of this title shall be limited to $1,000,000 for each such identifiable small business concern.”
 
-1988—Pub. L. 100–590, § 116(b)(1), inserted “Loans for plant acquisition, construction, conversion, and expansion” as section catchline.
+1988—Pub. L. 100–590, § 116(b)(1), inserted “Loans for plant acquisition, construction, conversion, and expansion” as section catchline.
 
 Par. (2). Pub. L. 100–418 substituted “$750,000” for “$500,000”.
 
-Par. (4). Pub. L. 100–590, § 116(a), added par. (4).
+Par. (4). Pub. L. 100–590, § 116(a), added par. (4).
 
 1981—Pars. (1) to (4). Pub. L. 97–35 redesignated pars. (2) to (4) as (1) to (3), respectively. Former par. (1), which provided that all loans made shall be so secured as reasonably to assure repayment and that in agreements to participate in loans on a deferred basis, such participation by the Administration shall not be in excess of 90 per centum of the balance of the loan outstanding at the time of disbursement, was struck out.
 
@@ -3839,13 +3839,13 @@ Par. (5). Pub. L. 97–35 struck out par. (5) which provided that loans, includi
 
 1978—Par. (4). Pub. L. 95–507 inserted provisions relating to derivation of community injection funds.
 
-1976—Pub. L. 94–305, § 108(a), inserted “acquisition,” after “plant” in introductory text.
+1976—Pub. L. 94–305, § 108(a), inserted “acquisition,” after “plant” in introductory text.
 
-Par. (3). Pub. L. 94–305, § 110, substituted “$500,000” for “$350,000”.
+Par. (3). Pub. L. 94–305, § 110, substituted “$500,000” for “$350,000”.
 
-1961—Par. (3). Pub. L. 87–341, § 10(1), substituted “$350,000” for “$250,000”.
+1961—Par. (3). Pub. L. 87–341, § 10(1), substituted “$350,000” for “$250,000”.
 
-Par. (5). Pub. L. 87–341, § 10(2), substituted “twenty-five” for “ten” before “years plus such additional period”.
+Par. (5). Pub. L. 87–341, § 10(2), substituted “twenty-five” for “ten” before “years plus such additional period”.
 
 Par. (6). Pub. L. 87–27 struck out par. (6) which provided for termination of authority of the Administration to make loans to local development companies after June 30, 1961.
 
@@ -3853,7 +3853,7 @@ Par. (6). Pub. L. 87–27 struck out par. (6) which provided for termination of 
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–240, title I, § 1122(b), Sept. 27, 2010, 124 Stat. 2512, provided that the amendment made by section 1122(b) is effective 2 years after Sept. 27, 2010.
+Pub. L. 111–240, title I, § 1122(b), Sept. 27, 2010, 124 Stat. 2512, provided that the amendment made by section 1122(b) is effective 2 years after Sept. 27, 2010.
 
 **Effective Date of 2007 Amendment**
 
@@ -3873,13 +3873,13 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1918 of Pub. L.
 
 **Refinancing Senior Project Debt**
 
-Pub. L. 116–260, div. N, title III, § 328(c), Dec. 27, 2020, 134 Stat. 2040, provided that: “During the 1-year period beginning on the date of enactment of this Act [Dec. 27, 2020], a development company described in title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.) is authorized to allow the refinancing of a senior loan on an existing project in an amount that, when combined with the outstanding balance on the development company loan, is not more than 90 percent of the total loan to value. Proceeds of such refinancing can be used to support business operating expenses.”
+Pub. L. 116–260, div. N, title III, § 328(c), Dec. 27, 2020, 134 Stat. 2040, provided that: “During the 1-year period beginning on the date of enactment of this Act [Dec. 27, 2020], a development company described in title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.) is authorized to allow the refinancing of a senior loan on an existing project in an amount that, when combined with the outstanding balance on the development company loan, is not more than 90 percent of the total loan to value. Proceeds of such refinancing can be used to support business operating expenses.”
 
 **Refinancing Not Involving Expansions Under Former Par. (7)(C)**
 
-Pub. L. 114–113, div. E, title V, § 521(a), Dec. 18, 2015, 129 Stat. 2463, which provided that former par. (7)(C) of this section as in effect on Sept. 25, 2012, would be in effect in any fiscal year during which the cost to the Federal Government of making guarantees under such par. and section 697 of this title would be zero, with certain exceptions, was repealed by Pub. L. 116–260, div. N, title III, § 328(a)(1), Dec. 27, 2020, 134 Stat. 2038.
+Pub. L. 114–113, div. E, title V, § 521(a), Dec. 18, 2015, 129 Stat. 2463, which provided that former par. (7)(C) of this section as in effect on Sept. 25, 2012, would be in effect in any fiscal year during which the cost to the Federal Government of making guarantees under such par. and section 697 of this title would be zero, with certain exceptions, was repealed by Pub. L. 116–260, div. N, title III, § 328(a)(1), Dec. 27, 2020, 134 Stat. 2038.
 
-### § 697. Development company debentures
+### § 697. Development company debentures
 
 **(a) Guarantees; Administration authority; regulatory terms and conditions; full faith and credit; subordination of debentures**
 
@@ -3973,9 +3973,9 @@ All fees, interest, and profits received and retained by the Administration unde
 
 **(2) Purchase or acceleration of debenture**
 
-Not later than the 65th day after the date on which a payment on a loan described in paragraph (1) is due and not received, and absent a formal written deferral agreement, the administration 1
+Not later than the 65th day after the date on which a payment on a loan described in paragraph (1) is due and not received, and absent a formal written deferral agreement, the administration 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 shall take all necessary steps to purchase or accelerate the debenture.
 
@@ -3991,7 +3991,7 @@ shall take all necessary steps to purchase or accelerate the debenture.
 
 The Administration may not assess or collect any up front guarantee fee with respect to loans made under this subchapter during the 2-year period beginning on October 1, 2002.
 
-(Pub. L. 85–699, title V, § 503, as added Pub. L. 96–302, title I, § 113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§ 112(c), 114, 117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, § 8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, § 213(1), Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–36, § 6, Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title II, §§ 202(b)–(e), 203, Sept. 30, 1996, 110 Stat. 3009–735, 3009–736; Pub. L. 105–135, title II, § 222, Dec. 2, 1997, 111 Stat. 2604; Pub. L. 106–554, § 1(a)(9) [title III, § 304], Dec. 21, 2000, 114 Stat. 2763, 2763A–684; Pub. L. 107–100, § 6(b), Dec. 21, 2001, 115 Stat. 971; Pub. L. 108–199, div. B, title VI, § 631, Jan. 23, 2004, 118 Stat. 100; Pub. L. 108–205, § 2, Mar. 15, 2004, 118 Stat. 553; Pub. L. 108–217, § 2, Apr. 5, 2004, 118 Stat. 591; Pub. L. 108–306, § 2, Sept. 24, 2004, 118 Stat. 1131; Pub. L. 108–447, div. B, title V, div. K, title II, § 204, Dec. 8, 2004, 118 Stat. 2911, 3466.)
+(Pub. L. 85–699, title V, § 503, as added Pub. L. 96–302, title I, § 113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§ 112(c), 114, 117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, § 8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, § 213(1), Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–36, § 6, Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title II, §§ 202(b)–(e), 203, Sept. 30, 1996, 110 Stat. 3009–735, 3009–736; Pub. L. 105–135, title II, § 222, Dec. 2, 1997, 111 Stat. 2604; Pub. L. 106–554, § 1(a)(9) [title III, § 304], Dec. 21, 2000, 114 Stat. 2763, 2763A–684; Pub. L. 107–100, § 6(b), Dec. 21, 2001, 115 Stat. 971; Pub. L. 108–199, div. B, title VI, § 631, Jan. 23, 2004, 118 Stat. 100; Pub. L. 108–205, § 2, Mar. 15, 2004, 118 Stat. 553; Pub. L. 108–217, § 2, Apr. 5, 2004, 118 Stat. 591; Pub. L. 108–306, § 2, Sept. 24, 2004, 118 Stat. 1131; Pub. L. 108–447, div. B, title V, div. K, title II, § 204, Dec. 8, 2004, 118 Stat. 2911, 3466.)
 
 **Editorial Notes**
 
@@ -4001,7 +4001,7 @@ For definition of “this chapter”, referred to in subsecs. (b)(7)(A)(ii) and 
 
 **Amendments**
 
-2004—Subsec. (f). Pub. L. 108–447, § 204, struck out “, but shall not apply to financings approved by the Administration on or after October 1, 2005” before period at end.
+2004—Subsec. (f). Pub. L. 108–447, § 204, struck out “, but shall not apply to financings approved by the Administration on or after October 1, 2005” before period at end.
 
 Pub. L. 108–447, title V, substituted “October 1, 2005” for “October 1, 2004”.
 
@@ -4011,55 +4011,55 @@ Pub. L. 108–205, as amended by Pub. L. 108–306, substituted “May 21, 2004�
 
 Pub. L. 108–199 substituted “March 15, 2004” for “October 1, 2003” before period at end.
 
-2001—Subsec. (b)(7)(A). Pub. L. 107–100, § 6(b)(1), designated existing provisions following “not exceed” as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), realigned margins, and added cl. (ii).
+2001—Subsec. (b)(7)(A). Pub. L. 107–100, § 6(b)(1), designated existing provisions following “not exceed” as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), realigned margins, and added cl. (ii).
 
-Subsec. (i). Pub. L. 107–100, § 6(b)(2), added subsec. (i).
+Subsec. (i). Pub. L. 107–100, § 6(b)(2), added subsec. (i).
 
 2000—Subsec. (f). Pub. L. 106–554 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The fees authorized by subsections (b) and (c) of this section shall apply to financings approved by the Administration on or after October 1, 1996, but shall not apply to financings approved by the Administration on or after October 1, 2000.”
 
-1997—Subsec. (b)(7)(A). Pub. L. 105–135, § 222(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “assesses and collects a fee, which shall be payable by the borrower, in an amount equal to the lesser of—
+1997—Subsec. (b)(7)(A). Pub. L. 105–135, § 222(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “assesses and collects a fee, which shall be payable by the borrower, in an amount equal to the lesser of—
 
 “(i) 0.9375 percent per year of the outstanding balance of the loan; or
 
 “(ii) such percentage per year of the outstanding balance of the loan as the Administrator may determine to be necessary to reduce the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter to an amount that, taking into consideration any available appropriated funds, would permit the Administration to purchase or guarantee $2,000,000,000 of debentures in fiscal year 1997; and”.
 
-Subsec. (f). Pub. L. 105–135, § 222(2), substituted “2000” for “1997”.
+Subsec. (f). Pub. L. 105–135, § 222(2), substituted “2000” for “1997”.
 
-1996—Subsec. (b)(7)(A). Pub. L. 104–208, § 202(b), substituted “equal to the lesser of—” for “equal to 0.125 percent per year of the outstanding balance of the loan” and added cls. (i) and (ii).
+1996—Subsec. (b)(7)(A). Pub. L. 104–208, § 202(b), substituted “equal to the lesser of—” for “equal to 0.125 percent per year of the outstanding balance of the loan” and added cls. (i) and (ii).
 
-Subsec. (d). Pub. L. 104–208, § 202(c), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The Administration may impose an additional charge for administrative expenses with respect to each debenture for which payment of principal and interest is guaranteed under subsection (a) of this section.”
+Subsec. (d). Pub. L. 104–208, § 202(c), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The Administration may impose an additional charge for administrative expenses with respect to each debenture for which payment of principal and interest is guaranteed under subsection (a) of this section.”
 
-Subsec. (f). Pub. L. 104–208, § 202(d), added subsec. (f).
+Subsec. (f). Pub. L. 104–208, § 202(d), added subsec. (f).
 
-Subsec. (g). Pub. L. 104–208, § 202(e), added subsec. (g).
+Subsec. (g). Pub. L. 104–208, § 202(e), added subsec. (g).
 
-Subsec. (h). Pub. L. 104–208, § 203, added subsec. (h).
+Subsec. (h). Pub. L. 104–208, § 203, added subsec. (h).
 
 1995—Subsec. (b)(7). Pub. L. 104–36 added par. (7).
 
-1994—Subsec. (c) to (e). Pub. L. 103–403 made technical amendment to Pub. L. 100–590, § 112(c). See 1988 Amendment note below.
+1994—Subsec. (c) to (e). Pub. L. 103–403 made technical amendment to Pub. L. 100–590, § 112(c). See 1988 Amendment note below.
 
 1990—Subsec. (e)(3). Pub. L. 101–515 added par. (3).
 
-1988—Subsec. (a)(2). Pub. L. 100–590, § 114, inserted two provisos that Administration not decline to issue such guarantee when ownership interests of small business concern and of property to be financed with loan are not identical, and that Administrator has determined on case-by-case basis that such ownership interest, guarantee, and loan, will substantially benefit small business concern.
+1988—Subsec. (a)(2). Pub. L. 100–590, § 114, inserted two provisos that Administration not decline to issue such guarantee when ownership interests of small business concern and of property to be financed with loan are not identical, and that Administrator has determined on case-by-case basis that such ownership interest, guarantee, and loan, will substantially benefit small business concern.
 
-Subsec. (c). Pub. L. 100–590, § 112(c)(B), formerly § 112(c)(1)(B), as amended by Pub. L. 103–403, added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 100–590, § 112(c)(B), formerly § 112(c)(1)(B), as amended by Pub. L. 103–403, added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 100–590, § 112(c)(A), formerly § 112(c)(1)(A), as amended by Pub. L. 103–403, redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 100–590, § 112(c)(A), formerly § 112(c)(1)(A), as amended by Pub. L. 103–403, redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 100–590, § 117, which directed substitution of “(1) For purposes of” for “For purposes of”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2), was executed to subsec. (e) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (e) by Pub. L. 100–590, § 112(c)(1).
+Subsec. (e). Pub. L. 100–590, § 117, which directed substitution of “(1) For purposes of” for “For purposes of”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2), was executed to subsec. (e) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (e) by Pub. L. 100–590, § 112(c)(1).
 
-Pub. L. 100–590, § 112(c)(A), formerly § 112(c)(1)(A), as amended by Pub. L. 103–403, redesignated former subsec. (d) as (e).
+Pub. L. 100–590, § 112(c)(A), formerly § 112(c)(1)(A), as amended by Pub. L. 103–403, redesignated former subsec. (d) as (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–306, § 2, Sept. 24, 2004, 118 Stat. 1131, provided in part that: “The amendment made by the preceding sentence [amending section 2 of Pub. L. 108–205, which amended this section] shall take effect as if included in the enactment of the section to which it relates.”
+Pub. L. 108–306, § 2, Sept. 24, 2004, 118 Stat. 1131, provided in part that: “The amendment made by the preceding sentence [amending section 2 of Pub. L. 108–205, which amended this section] shall take effect as if included in the enactment of the section to which it relates.”
 
 **Effective Date of 2001 Amendment; Use of Funds**
 
-Pub. L. 107–100, § 6(d), (e), Dec. 21, 2001, 115 Stat. 972, provided that:
+Pub. L. 107–100, § 6(d), (e), Dec. 21, 2001, 115 Stat. 972, provided that:
 
 > **“(d) Use of Funds.—** The amendments made by this section to section 503 of the Small Business Investment Act of 1958 [15 U.S.C. 697], shall be effective only to the extent that funds are made available under appropriations Acts, which funds shall be utilized by the Administrator to offset the cost (as such term is defined in section 502 of the Federal Credit Reform Act of 1990 [2 U.S.C. 661a]) of such amendments.
 
@@ -4079,7 +4079,7 @@ Amendment by Pub. L. 104–36 inapplicable to loans made or guaranteed under Sma
 
 **Termination Date of 1988 Amendment**
 
-Pub. L. 100–590, title I, § 112(c), Nov. 3, 1988, 102 Stat. 2996, as amended by Pub. L. 101–515, title V, § 3, Nov. 5, 1990, 104 Stat. 2140; Pub. L. 103–317, title IV, Aug. 26, 1994, 108 Stat. 1755, which provided that the amendment made by paragraph (1), amending this section, was to be repealed on Oct. 1, 1997, was repealed by Pub. L. 103–403, title II, § 213(2), Oct. 22, 1994, 108 Stat. 4184.
+Pub. L. 100–590, title I, § 112(c), Nov. 3, 1988, 102 Stat. 2996, as amended by Pub. L. 101–515, title V, § 3, Nov. 5, 1990, 104 Stat. 2140; Pub. L. 103–317, title IV, Aug. 26, 1994, 108 Stat. 1755, which provided that the amendment made by paragraph (1), amending this section, was to be repealed on Oct. 1, 1997, was repealed by Pub. L. 103–403, title II, § 213(2), Oct. 22, 1994, 108 Stat. 4184.
 
 **Effective Date**
 
@@ -4087,7 +4087,7 @@ Section effective Oct. 1, 1980, see section 507 of Pub. L. 96–302, set out as 
 
 **Temporary Fee Elimination for the 504 Loan Program**
 
-Pub. L. 116–260, div. N, title III, § 327(b), Dec. 27, 2020, 134 Stat. 2037, provided that:
+Pub. L. 116–260, div. N, title III, § 327(b), Dec. 27, 2020, 134 Stat. 2037, provided that:
 
 > **“(1) In general.—** During the period beginning on the date of enactment of this Act [Dec. 27, 2020] and ending on September 30, 2021, and to the extent the cost of such elimination in fees is offset by appropriations, with respect to each project or loan guaranteed by the Administrator [of the Small Business Administration] pursuant to title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.) for which an application is approved or pending approval on or after the date of enactment of this Act—
 
@@ -4101,7 +4101,7 @@ Pub. L. 116–260, div. N, title III, § 327(b), Dec. 27, 2020, 134 Stat. 2037
 
 > **“(B) Amount.—** The payment to a development company under clause (i) shall be in an amount equal to 1.5 percent of the net debenture proceeds for which the development company does not collect a processing fee pursuant to paragraph (1)(B).”
 
-### § 697a. Private debenture sales
+### § 697a. Private debenture sales
 
 **(a)** Notwithstanding any other law, rule, or regulation, the Administration shall sell to investors, either publicly or by private placement, debentures pursuant to section 697 of this title as follows:
 
@@ -4119,7 +4119,7 @@ Pub. L. 116–260, div. N, title III, § 327(b), Dec. 27, 2020, 134 Stat. 2037
 
 **(3)** any obligation which is secured by, or substantially all of the value of which is attributable to, any obligation described in paragraph (1) or (2).
 
-(Pub. L. 85–699, title V, § 504, as added Pub. L. 99–272, title XVIII, § 18008(a), Apr. 7, 1986, 100 Stat. 366; amended Pub. L. 100–72, § 2 July 11, 1987, 101 Stat. 477; Pub. L. 100–590, title I, § 112(a), Nov. 3, 1988, 102 Stat. 2996.)
+(Pub. L. 85–699, title V, § 504, as added Pub. L. 99–272, title XVIII, § 18008(a), Apr. 7, 1986, 100 Stat. 366; amended Pub. L. 100–72, § 2 July 11, 1987, 101 Stat. 477; Pub. L. 100–590, title I, § 112(a), Nov. 3, 1988, 102 Stat. 2996.)
 
 **Editorial Notes**
 
@@ -4153,9 +4153,9 @@ Small Business Administration to promulgate final rules and regulations to imple
 
 **Pilot Program Report**
 
-Pub. L. 99–272, title XVIII, § 18008(b), Apr. 7, 1986, 100 Stat. 367, required the Small Business Administration to report to the President and Congress on the pilot program under former 15 U.S.C. 697a involving debenture sales to investors not later than 90 days after the date of the last debenture sale in each fiscal year, and unless a report was made by Oct. 1 of 1986 and 1987, the Administration was to make an interim report by such dates.
+Pub. L. 99–272, title XVIII, § 18008(b), Apr. 7, 1986, 100 Stat. 367, required the Small Business Administration to report to the President and Congress on the pilot program under former 15 U.S.C. 697a involving debenture sales to investors not later than 90 days after the date of the last debenture sale in each fiscal year, and unless a report was made by Oct. 1 of 1986 and 1987, the Administration was to make an interim report by such dates.
 
-### § 697b. Pooling of debentures
+### § 697b. Pooling of debentures
 
 **(a) Issuance; debentures composing trust or pool**
 
@@ -4193,7 +4193,7 @@ The Administration shall not collect any fee for any guarantee under this sectio
 
 **(2)** Nothing in this subsection shall prohibit the utilization of a book-entry or other electronic form of registration for trust certificates.
 
-(Pub. L. 85–699, title V, § 505, as added Pub. L. 99–272, title XVIII, § 18008(c), Apr. 7, 1986, 100 Stat. 367; amended Pub. L. 100–590, title I, § 111(d)(1), (2), Nov. 3, 1988, 102 Stat. 2995; Pub. L. 104–208, div. D, title II, § 205(c), Sept. 30, 1996, 110 Stat. 3009–738.)
+(Pub. L. 85–699, title V, § 505, as added Pub. L. 99–272, title XVIII, § 18008(c), Apr. 7, 1986, 100 Stat. 367; amended Pub. L. 100–590, title I, § 111(d)(1), (2), Nov. 3, 1988, 102 Stat. 2995; Pub. L. 104–208, div. D, title II, § 205(c), Sept. 30, 1996, 110 Stat. 3009–738.)
 
 **Editorial Notes**
 
@@ -4205,9 +4205,9 @@ For definition of “this chapter”, referred to in subsec. (a), see References
 
 1996—Subsec. (f). Pub. L. 104–208 designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), in subpar. (A) substituted “provide for a central registration of all trust certificates sold pursuant to this section;” for “provide for a central registration of all trust certificates sold pursuant to this section; such central registration shall include with respect to each sale, identification of each development company; the interest rate paid by the development company; commissions, fees, or discounts paid to brokers and dealers in trust certificates; identification of each purchaser of the trust certificate; the price paid by the purchaser for the trust certificate; the interest rate paid on the trust certificate; the fees of any agent for carrying out the functions described in paragraph (2); and such other information as the Administration deems appropriate;”, and added par. (2).
 
-1988—Pub. L. 100–590, § 111(d)(2), inserted “Pooling of debentures” as section catchline.
+1988—Pub. L. 100–590, § 111(d)(2), inserted “Pooling of debentures” as section catchline.
 
-Subsec. (a). Pub. L. 100–590, § 111(d)(1), substituted “all or a” for “all of a”.
+Subsec. (a). Pub. L. 100–590, § 111(d)(1), substituted “all or a” for “all of a”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4217,19 +4217,19 @@ Amendment by Pub. L. 104–208 effective Oct. 1, 1996, see section 3 of Pub. L. 
 
 **Rules and Regulations for Implementation of Central Registration, Pilot Program and Trust Certificate Provisions; Consultation**
 
-Pub. L. 99–272, title XVIII, § 18008(d), Apr. 7, 1986, 100 Stat. 368, provided that:
+Pub. L. 99–272, title XVIII, § 18008(d), Apr. 7, 1986, 100 Stat. 368, provided that:
 
 > **“(1)** Notwithstanding any law, rule, or regulation, within 60 days after the date of enactment of this Act [Apr. 7, 1986], the Small Business Administration shall develop and promulgate final rules and regulations to implement the central registration provisions provided for in section 505(f)(1) of the Small Business Investment Act [15 U.S.C. 697b(f)(1)], and shall contract with an agent for an initial period of not to exceed two years to carry out the functions provided for in section 505(f)(2) of such Act.
 
 > **“(2)** Notwithstanding any law, rule or regulation, within 60 days after the date of enactment of this Act [Apr. 7, 1986], the Small Business Administration also shall consult with representatives of appropriate Federal and State agencies and officials, the securities industry, financial institutions and lenders, and small business persons, and shall develop and promulgate final rules and regulations to implement sections 504 and 505 of the Small Business Investment Act [15 U.S.C. 697a, 697b].”
 
-### § 697c. Restrictions on development company assistance
+### § 697c. Restrictions on development company assistance
 
 Notwithstanding Any Other Provision of Law: (1) on or after May 1, 1991, no development company may accept funding from any source, including but not limited to any department or agency of the United States Government, if such funding includes any conditions, priorities or restrictions upon the types of small businesses to which they may provide financial assistance under this subchapter or if it includes any conditions or imposes any requirements, directly or indirectly, upon any recipient of assistance under this subchapter; and (2) before such date, no department or agency of the United States Government which provides funding to any development company shall impose any condition, priority or restriction upon the type of small business which receives financing under this subchapter nor shall it include any condition or impose any requirement, directly or indirectly, upon any recipient of assistance under this subchapter: *Provided*, That the foregoing shall not affect any such conditions, priorities or restrictions if the department or agency also provides all of the financial assistance to be delivered by the development company to the small business and such conditions, priorities or restrictions are limited solely to the financial assistance so provided.
 
-(Pub. L. 85–699, title V, § 506, as added Pub. L. 100–590, title I, § 117(b), Nov. 3, 1988, 102 Stat. 2998.)
+(Pub. L. 85–699, title V, § 506, as added Pub. L. 100–590, title I, § 117(b), Nov. 3, 1988, 102 Stat. 2998.)
 
-### § 697d. Accredited Lenders Program
+### § 697d. Accredited Lenders Program
 
 **(a) Establishment**
 
@@ -4269,33 +4269,33 @@ A suspension or revocation under paragraph (1) shall not affect any outstanding 
 
 In this section, the term “qualified State or local development company” has the meaning given the term in section 697(e) of this title.
 
-(Pub. L. 85–699, title V, § 507, as added Pub. L. 103–403, title II, § 212(a), Oct. 22, 1994, 108 Stat. 4183; amended Pub. L. 116–260, div. N, title III, § 328(b), Dec. 27, 2020, 134 Stat. 2040.)
+(Pub. L. 85–699, title V, § 507, as added Pub. L. 103–403, title II, § 212(a), Oct. 22, 1994, 108 Stat. 4183; amended Pub. L. 116–260, div. N, title III, § 328(b), Dec. 27, 2020, 134 Stat. 2040.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsecs. (e), (f). Pub. L. 116–260, § 328(b)(2), added subsec. (e) and struck out former subsec. (e) which related to express loan authority of a local development company designated as an accredited lender, and subsec. (f) which defined terms “accredited lender certified company”, “covered loan”, and “qualified State or local development company” in this section.
+2020—Subsecs. (e), (f). Pub. L. 116–260, § 328(b)(2), added subsec. (e) and struck out former subsec. (e) which related to express loan authority of a local development company designated as an accredited lender, and subsec. (f) which defined terms “accredited lender certified company”, “covered loan”, and “qualified State or local development company” in this section.
 
-Pub. L. 116–260, § 328(b)(1), added subsecs. (e) and (f) and struck out former subsec. (e) which defined “qualified State or local development company” for purposes of this section.
+Pub. L. 116–260, § 328(b)(1), added subsecs. (e) and (f) and struck out former subsec. (e) which defined “qualified State or local development company” for purposes of this section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. N, title III, § 328(b)(2), Dec. 27, 2020, 134 Stat. 2040, provided in part that the amendment made by section 328(b)(2) is effective on Sept. 30, 2023.
+Pub. L. 116–260, div. N, title III, § 328(b)(2), Dec. 27, 2020, 134 Stat. 2040, provided in part that the amendment made by section 328(b)(2) is effective on Sept. 30, 2023.
 
 Except as otherwise provided, amendment by Pub. L. 116–260 effective on Dec. 27, 2020, and applicable to loans and grants made on or after Dec. 27, 2020, see section 348 of Pub. L. 116–260, set out as a note under section 636 of this title.
 
 **Regulations**
 
-Pub. L. 103–403, title II, § 212(b), Oct. 22, 1994, 108 Stat. 4184, provided that: “Not later than 120 days after the date of enactment of this Act [Oct. 22, 1994], the Administration shall promulgate final regulations to carry out this section [enacting this section and provisions set out below].”
+Pub. L. 103–403, title II, § 212(b), Oct. 22, 1994, 108 Stat. 4184, provided that: “Not later than 120 days after the date of enactment of this Act [Oct. 22, 1994], the Administration shall promulgate final regulations to carry out this section [enacting this section and provisions set out below].”
 
 **Report on Implementation of Program**
 
-Pub. L. 103–403, title II, § 212(c), Oct. 22, 1994, 108 Stat. 4184, provided that: “Not later than 1 year after the effective date of regulations promulgated under subsection (b) [set out above], and biennially thereafter, the Administration shall report to the Committees on Small Business of the Senate and the House of Representatives [Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate] on the implementation of this section [enacting this section and provisions set out above]. Such report shall include data on the number of development companies designated as accredited lenders, their debenture guarantee volume, their loss rates, the average processing time on their guarantee applications, and such other information as the Administration deems appropriate.”
+Pub. L. 103–403, title II, § 212(c), Oct. 22, 1994, 108 Stat. 4184, provided that: “Not later than 1 year after the effective date of regulations promulgated under subsection (b) [set out above], and biennially thereafter, the Administration shall report to the Committees on Small Business of the Senate and the House of Representatives [Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate] on the implementation of this section [enacting this section and provisions set out above]. Such report shall include data on the number of development companies designated as accredited lenders, their debenture guarantee volume, their loss rates, the average processing time on their guarantee applications, and such other information as the Administration deems appropriate.”
 
-### § 697e. Premier Certified Lenders Program
+### § 697e. Premier Certified Lenders Program
 
 **(a) Establishment**
 
@@ -4319,9 +4319,9 @@ To be eligible to participate in the Premier Certified Lenders Program establish
 
 **(C)** if the company agrees to assume and to reimburse the Administration for 10 percent of any loss sustained by the Administration as a result of default by the company in the payment of principal or interest on a debenture issued by such company and guaranteed by the Administration under this section (15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) for such company); and
 
-**(D)** the 1
+**(D)** the 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “if”.
+<sup>1</sup> So in original. Probably should be preceded by “if”.
 
 Administrator determines, with respect to the company, that the loss reserve established in accordance with subsection (c) is sufficient for the company to meet its obligations to protect the Federal Government from risk of loss.
 
@@ -4535,7 +4535,7 @@ Each certified development company participating in the program under this secti
 
 **(4)** such other information as the Administration deems appropriate.
 
-(Pub. L. 85–699, title V, § 508, as added and amended Pub. L. 103–403, title II, § 217, Oct. 22, 1994, 108 Stat. 4185; Pub. L. 105–135, title II, § 223(a), Dec. 2, 1997, 111 Stat. 2604; Pub. L. 106–554, § 1(a)(9) [title III, §§ 305, 306], Dec. 21, 2000, 114 Stat. 2763, 2763A–685; Pub. L. 108–232, §§ 2–3(c), May 28, 2004, 118 Stat. 649–652.)
+(Pub. L. 85–699, title V, § 508, as added and amended Pub. L. 103–403, title II, § 217, Oct. 22, 1994, 108 Stat. 4185; Pub. L. 105–135, title II, § 223(a), Dec. 2, 1997, 111 Stat. 2604; Pub. L. 106–554, § 1(a)(9) [title III, §§ 305, 306], Dec. 21, 2000, 114 Stat. 2763, 2763A–685; Pub. L. 108–232, §§ 2–3(c), May 28, 2004, 118 Stat. 649–652.)
 
 **Editorial Notes**
 
@@ -4547,47 +4547,47 @@ October 22, 1994, referred to in subsec. (j), was in the original “the date of
 
 **Amendments**
 
-2004—Subsec. (b)(2)(C). Pub. L. 108–232, § 3(b), inserted “(15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) for such company)” before “; and”.
+2004—Subsec. (b)(2)(C). Pub. L. 108–232, § 3(b), inserted “(15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) for such company)” before “; and”.
 
-Subsec. (b)(2)(D). Pub. L. 108–232, § 3(c)(1), substituted “subsection (c)” for “subsection (c)(2)”.
+Subsec. (b)(2)(D). Pub. L. 108–232, § 3(c)(1), substituted “subsection (c)” for “subsection (c)(2)”.
 
-Subsec. (c)(5). Pub. L. 108–232, § 3(c)(2), struck out “10 percent” after “the premier company’s”.
+Subsec. (c)(5). Pub. L. 108–232, § 3(c)(2), struck out “10 percent” after “the premier company’s”.
 
-Subsec. (c)(6). Pub. L. 108–232, § 2, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+Subsec. (c)(6). Pub. L. 108–232, § 2, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (c)(7), (8). Pub. L. 108–232, § 3(a), added pars. (7) and (8).
+Subsec. (c)(7), (8). Pub. L. 108–232, § 3(a), added pars. (7) and (8).
 
-2000—Pub. L. 106–554, § 1(a)(9) [title III, § 305], repealed Pub. L. 103–403, § 217(b). See 1994 Amendment note below.
+2000—Pub. L. 106–554, § 1(a)(9) [title III, § 305], repealed Pub. L. 103–403, § 217(b). See 1994 Amendment note below.
 
-Subsec. (a). Pub. L. 106–554, § 1(a)(9) [title III, § 306(1)], substituted “The” for “On a pilot program basis, the”.
+Subsec. (a). Pub. L. 106–554, § 1(a)(9) [title III, § 306(1)], substituted “The” for “On a pilot program basis, the”.
 
-Subsecs. (d), (e). Pub. L. 106–554, § 1(a)(9) [title III, § 306(2), (5)], added heading and text of subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsecs. (d), (e). Pub. L. 106–554, § 1(a)(9) [title III, § 306(2), (5)], added heading and text of subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 106–554, § 1(a)(9) [title III, § 306(2), (3)], redesignated subsec. (e) as (f) and substituted “subsection (g)” for “subsection (f)”. Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 106–554, § 1(a)(9) [title III, § 306(2), (3)], redesignated subsec. (e) as (f) and substituted “subsection (g)” for “subsection (f)”. Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 106–554, § 1(a)(9) [title III, § 306(2)], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 106–554, § 1(a)(9) [title III, § 306(2)], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 106–554, § 1(a)(9) [title III, § 306(2), (4)], redesignated subsec. (g) as (h) and substituted “subsection (g)” for “subsection (f)”. Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 106–554, § 1(a)(9) [title III, § 306(2), (4)], redesignated subsec. (g) as (h) and substituted “subsection (g)” for “subsection (f)”. Former subsec. (h) redesignated (i).
 
-Subsecs. (i), (j). Pub. L. 106–554, § 1(a)(9) [title III, § 306(2)], redesignated subsecs. (h) and (i) as (i) and (j), respectively.
+Subsecs. (i), (j). Pub. L. 106–554, § 1(a)(9) [title III, § 306(2)], redesignated subsecs. (h) and (i) as (i) and (j), respectively.
 
-1997—Subsec. (a). Pub. L. 105–135, § 223(a)(1), struck out “not more than 15” before “certified development companies”.
+1997—Subsec. (a). Pub. L. 105–135, § 223(a)(1), struck out “not more than 15” before “certified development companies”.
 
-Subsec. (b)(2). Pub. L. 105–135, § 223(a)(2)(A)(i), struck out “if such company” after “premier certified lender” in introductory provisions.
+Subsec. (b)(2). Pub. L. 105–135, § 223(a)(2)(A)(i), struck out “if such company” after “premier certified lender” in introductory provisions.
 
-Subsec. (b)(2)(A), (B). Pub. L. 105–135, § 223(a)(2)(A)(ii), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (b)(2)(A), (B). Pub. L. 105–135, § 223(a)(2)(A)(ii), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) has been an active participant in the accredited lenders program during the 12-month period preceding the date on which the company submits an application under paragraph (1), except that, prior to January 1, 1996, the Administration may waive this requirement if the company is qualified to participate in the accredited lenders program;
 
 “(B) has a history of submitting to the Administration adequately analyzed debenture guarantee application packages; and”.
 
-Subsec. (b)(2)(C). Pub. L. 105–135, § 223(a)(2)(A)(iii), inserted “if the company” before “agrees to assume” and substituted “; and” for period at end.
+Subsec. (b)(2)(C). Pub. L. 105–135, § 223(a)(2)(A)(iii), inserted “if the company” before “agrees to assume” and substituted “; and” for period at end.
 
-Subsec. (b)(2)(D). Pub. L. 105–135, § 223(a)(2)(A)(iv), added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 105–135, § 223(a)(2)(A)(iv), added subpar. (D).
 
-Subsec. (b)(3). Pub. L. 105–135, § 223(a)(2)(B), added par. (3).
+Subsec. (b)(3). Pub. L. 105–135, § 223(a)(2)(B), added par. (3).
 
-Subsec. (c). Pub. L. 105–135, § 223(a)(3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows:
+Subsec. (c). Pub. L. 105–135, § 223(a)(3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows:
 
 “(1) Establishment.—A company designated as a premier certified lender shall establish a loss reserve for financings approved pursuant to this section.
 
@@ -4607,17 +4607,17 @@ Subsec. (c). Pub. L. 105–135, § 223(a)(3), added subsec. (c) and struck out
 
 “(C) 25 percent not later than 2 years after a debenture is closed.”
 
-Subsec. (d)(1). Pub. L. 105–135, § 223(a)(4), substituted “to approve, authorize, close, service, foreclose, litigate (except that the Administration may monitor the conduct of any such litigation to which a premier certified lender is a party), and liquidate loans” for “to approve loans”.
+Subsec. (d)(1). Pub. L. 105–135, § 223(a)(4), substituted “to approve, authorize, close, service, foreclose, litigate (except that the Administration may monitor the conduct of any such litigation to which a premier certified lender is a party), and liquidate loans” for “to approve loans”.
 
-Subsec. (f). Pub. L. 105–135, § 223(a)(5), substituted “certified development company” for “State or local development company” in introductory provisions.
+Subsec. (f). Pub. L. 105–135, § 223(a)(5), substituted “certified development company” for “State or local development company” in introductory provisions.
 
-Subsec. (g). Pub. L. 105–135, § 223(a)(6), substituted “revocation” for “designation” in heading.
+Subsec. (g). Pub. L. 105–135, § 223(a)(6), substituted “revocation” for “designation” in heading.
 
-Subsec. (h). Pub. L. 105–135, § 223(a)(7), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “Not later than 180 days after October 22, 1994, the Administration shall promulgate regulations to carry out this section.”
+Subsec. (h). Pub. L. 105–135, § 223(a)(7), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “Not later than 180 days after October 22, 1994, the Administration shall promulgate regulations to carry out this section.”
 
-Subsec. (i)(3). Pub. L. 105–135, § 223(a)(8), substituted “other lenders, specifically comparing default rates and recovery rates on liquidations” for “other lenders”.
+Subsec. (i)(3). Pub. L. 105–135, § 223(a)(8), substituted “other lenders, specifically comparing default rates and recovery rates on liquidations” for “other lenders”.
 
-1994—Pub. L. 103–403, § 217(b), which directed repeal of this section effective Oct. 1, 2000, and was repealed by section 1(a)(9) [title III, § 305] of Pub. L. 106–554, was not executed to reflect the probable intent of Congress and the amendments to this section by section 1(a)(9) [title III, § 306] of Pub. L. 106–554. See Termination Date note below.
+1994—Pub. L. 103–403, § 217(b), which directed repeal of this section effective Oct. 1, 2000, and was repealed by section 1(a)(9) [title III, § 305] of Pub. L. 106–554, was not executed to reflect the probable intent of Congress and the amendments to this section by section 1(a)(9) [title III, § 306] of Pub. L. 106–554. See Termination Date note below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4631,11 +4631,11 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 **Termination Date**
 
-Section 217(b) of Pub. L. 103–403, as amended by Pub. L. 105–135, title II, § 223(c), Dec. 2, 1997, 111 Stat. 2606, which provided that this section was to be repealed effective Oct. 1, 2000, was repealed by Pub. L. 106–554, § 1(a)(9) [title III, § 305], Dec. 21, 2000, 114 Stat. 2763, 2763A–685.
+Section 217(b) of Pub. L. 103–403, as amended by Pub. L. 105–135, title II, § 223(c), Dec. 2, 1997, 111 Stat. 2606, which provided that this section was to be repealed effective Oct. 1, 2000, was repealed by Pub. L. 106–554, § 1(a)(9) [title III, § 305], Dec. 21, 2000, 114 Stat. 2763, 2763A–685.
 
 **Regulations**
 
-Pub. L. 105–135, title II, § 223(b), Dec. 2, 1997, 111 Stat. 2606, provided that:
+Pub. L. 105–135, title II, § 223(b), Dec. 2, 1997, 111 Stat. 2606, provided that:
 
 > “The Administrator shall—
 
@@ -4643,7 +4643,7 @@ Pub. L. 105–135, title II, § 223(b), Dec. 2, 1997, 111 Stat. 2606, provided
 
 > **“(2)** not later than 180 days after the date of enactment of this Act, issue program guidelines and fully implement the amendments made by subsection (a).”
 
-### § 697f. Prepayment of development company debentures
+### § 697f. Prepayment of development company debentures
 
 **(a) In general**
 
@@ -4745,7 +4745,7 @@ Not later than 30 days after October 22, 1994, the Administration shall promulga
 
 There are authorized to be appropriated $30,000,000 to carry out the provisions of The Small Business Prepayment Penalty Relief Act of 1994.
 
-(Pub. L. 85–699, title V, § 509, as added Pub. L. 103–403, title V, § 503, Oct. 22, 1994, 108 Stat. 4199; amended Pub. L. 104–208, div. D, title II, § 208(h)(1)(H), Sept. 30, 1996, 110 Stat. 3009–747.)
+(Pub. L. 85–699, title V, § 509, as added Pub. L. 103–403, title V, § 503, Oct. 22, 1994, 108 Stat. 4199; amended Pub. L. 104–208, div. D, title II, § 208(h)(1)(H), Sept. 30, 1996, 110 Stat. 3009–747.)
 
 **Editorial Notes**
 
@@ -4759,15 +4759,15 @@ The Small Business Prepayment Penalty Relief Act of 1994, referred to in subsec.
 
 **Amendments**
 
-1996—Subsec. (a)(1). Pub. L. 104–208, § 208(h)(1)(H)(i), struck out at end “A small business investment company operating under the authority of section 681(d) of this title that has issued a debenture that was purchased by and is held by the Administration, may, under the same terms and conditions, prepay such debenture, and the penalty as provided in this section, and shall thereafter be immediately eligible to apply for additional assistance from the Administration.”
+1996—Subsec. (a)(1). Pub. L. 104–208, § 208(h)(1)(H)(i), struck out at end “A small business investment company operating under the authority of section 681(d) of this title that has issued a debenture that was purchased by and is held by the Administration, may, under the same terms and conditions, prepay such debenture, and the penalty as provided in this section, and shall thereafter be immediately eligible to apply for additional assistance from the Administration.”
 
-Subsec. (e)(1)(B). Pub. L. 104–208, § 208(h)(1)(H)(ii), substituted “section 681 of this title” for “subsection (c) or (d) of section 681 of this title”.
+Subsec. (e)(1)(B). Pub. L. 104–208, § 208(h)(1)(H)(ii), substituted “section 681 of this title” for “subsection (c) or (d) of section 681 of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Intention of Congress**
 
-Pub. L. 103–403, title V, § 502, Oct. 22, 1994, 108 Stat. 4198, provided that:
+Pub. L. 103–403, title V, § 502, Oct. 22, 1994, 108 Stat. 4198, provided that:
 
 > **“(a) In General.—** The Small Business Administration shall fully utilize the $30,000,000 appropriated in Public Law 103–317 [108 Stat. 1724] to reduce, in accordance with this title [enacting this section and provisions set out as a note under section 661 of this title] and the amendments made by this title, prepayment penalties imposed in connection with debentures issued under—
 
@@ -4787,7 +4787,7 @@ Pub. L. 103–403, title V, § 502, Oct. 22, 1994, 108 Stat. 4198, provided th
 
 > **“(2)** allow any borrower or issuer to participate in the program at a percentage rate other than the rate finally determined to be applicable to all other borrowers or issuers with similar terms of years.”
 
-### § 697g. Foreclosure and liquidation of loans
+### § 697g. Foreclosure and liquidation of loans
 
 **(a) Delegation of authority**
 
@@ -4821,9 +4821,9 @@ On request the Administration shall examine the qualifications of any company de
 
 **(c) Scope of delegated authority**
 
-**(1) In general** Each qualified State or local development company to which the Administration delegates authority under section 1
+**(1) In general** Each qualified State or local development company to which the Administration delegates authority under section 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (a) may with respect to any loan described in subsection (a)—
 
@@ -4955,7 +4955,7 @@ Based on information provided by qualified State and local development companies
 
 **(E)** The number of times that the Administration has failed to approve or reject a liquidation plan in accordance with subparagraph (A)(i), a workout plan in accordance with subparagraph (C)(i), or to approve or deny a request for purchase of indebtedness under subparagraph (B)(i), including specific information regarding the reasons for the Administration’s failure and any delays that resulted.
 
-(Pub. L. 85–699, title V, § 510, as added Pub. L. 106–554, § 1(a)(9) [title III, § 307(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–685.)
+(Pub. L. 85–699, title V, § 510, as added Pub. L. 106–554, § 1(a)(9) [title III, § 307(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–685.)
 
 **Editorial Notes**
 
@@ -4971,7 +4971,7 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 
 **Regulations**
 
-Pub. L. 106–554, § 1(a)(9) [title III, § 307(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–689, provided that:
+Pub. L. 106–554, § 1(a)(9) [title III, § 307(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–689, provided that:
 
 > **“(1) In general.—** Not later than 150 days after the date of the enactment of this Act [Dec. 21, 2000], the Administrator shall issue such regulations as may be necessary to carry out section 510 of the Small Business Investment Act of 1958 [15 U.S.C. 697g], as added by subsection (a) of this section.
 

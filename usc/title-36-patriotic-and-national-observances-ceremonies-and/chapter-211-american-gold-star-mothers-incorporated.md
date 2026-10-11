@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 211—AMERICAN GOLD STAR MOTHERS, INCORPORATED"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 211—AMERICAN GOLD STAR MOTHERS, INCORPORATED"
 identifier: "/us/usc/t36/stII/ptB/ch211"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 211—AMERICAN GOLD STAR MOTHERS, INCORPORATED
 
-## § 21101. Definition
+## § 21101. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
 
@@ -25,11 +25,11 @@ For purposes of this chapter, “State” includes the District of Columbia and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21101 | 36:2413. | June 12, 1984, Pub. L. 98–314, § 14, 98 Stat. 239. |
+| 21101 | 36:2413. | June 12, 1984, Pub. L. 98–314, § 14, 98 Stat. 239. |
 
 The words “the Commonwealth of Puerto Rico” are omitted as included in “the territories and possessions of the United States”.
 
-## § 21102. Organization
+## § 21102. Organization
 
 **(a) Federal Charter.—** American Gold Star Mothers, Incorporated (in this chapter, the “corporation”), incorporated in the District of Columbia, is a federally chartered corporation.
 
@@ -41,12 +41,12 @@ The words “the Commonwealth of Puerto Rico” are omitted as included in “th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21102(a) | 36:2401. | June 12, 1984, Pub. L. 98–314, §§ 1, 15 (last sentence), 16, 98 Stat. 237, 239. |
+| 21102(a) | 36:2401. | June 12, 1984, Pub. L. 98–314, §§ 1, 15 (last sentence), 16, 98 Stat. 237, 239. |
 | 21102(b) | 36:2414 (last sentence). 36:2415. |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary words.
 
-## § 21103. Purposes
+## § 21103. Purposes
 
 The purposes of the corporation are as provided in the articles of incorporation and include a continuing commitment, on a national basis, to—
 
@@ -76,13 +76,13 @@ The purposes of the corporation are as provided in the articles of incorporation
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21103 | 36:2403. | June 12, 1984, Pub. L. 98–314, § 3, 98 Stat. 237; June 13, 1991, Pub. L. 102–54, § 13(n)(6), 105 Stat. 278. |
+| 21103 | 36:2403. | June 12, 1984, Pub. L. 98–314, § 3, 98 Stat. 237; June 13, 1991, Pub. L. 102–54, § 13(n)(6), 105 Stat. 278. |
 
 Before clause (1), the word “objects” is omitted as included in “purposes”.
 
 In clause (6), the words “of America” are omitted for consistency in the revised title and with other titles of the United States Code.
 
-## § 21104. Membership
+## § 21104. Membership
 
 **(a) Eligibility.—** Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the constitution and bylaws.
 
@@ -94,10 +94,10 @@ In clause (6), the words “of America” are omitted for consistency in the rev
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21104(a) | 36:2405 (words before 3d comma). | June 12, 1984, Pub. L. 98–314, § 5 (words before 3d comma, words after 3d comma related to discrimination in membership), 98 Stat. 238. |
+| 21104(a) | 36:2405 (words before 3d comma). | June 12, 1984, Pub. L. 98–314, § 5 (words before 3d comma, words after 3d comma related to discrimination in membership), 98 Stat. 238. |
 | 21104(b) | 36:2405 (words after 3d comma related to discrimination in membership). |  |
 
-## § 21105. Governing body
+## § 21105. Governing body
 
 **(a) Board of Directors.—** The board of directors and the responsibilities of the board are as provided in the articles of incorporation.
 
@@ -111,13 +111,13 @@ In clause (6), the words “of America” are omitted for consistency in the rev
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21105(a) | 36:2406. | June 12, 1984, Pub. L. 98–314, §§ 5 (words after 3d comma related to discrimination in holding office), 6, 7, 98 Stat. 238. |
+| 21105(a) | 36:2406. | June 12, 1984, Pub. L. 98–314, §§ 5 (words after 3d comma related to discrimination in holding office), 6, 7, 98 Stat. 238. |
 | 21105(b) | 36:2407. |  |
 | 21105(c) | 36:2405 (words after 3d comma related to discrimination in holding office). |  |
 
 The words “and in conformity with the laws of the State or States in which it is incorporated” in 36:2406 and “and in conformity with the laws of the State or States wherein it is incorporated” in 36:2407 are omitted as unnecessary.
 
-## § 21106. Powers
+## § 21106. Powers
 
 The corporation has only the powers provided in its bylaws and articles of incorporation filed in each State in which it is incorporated.
 
@@ -127,11 +127,11 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21106 | 36:2402. | June 12, 1984, Pub. L. 98–314, § 2, 98 Stat. 237. |
+| 21106 | 36:2402. | June 12, 1984, Pub. L. 98–314, § 2, 98 Stat. 237. |
 
 The words “and subject to the laws of such State or States” are omitted as unnecessary.
 
-## § 21107. Restrictions
+## § 21107. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -147,7 +147,7 @@ The words “and subject to the laws of such State or States” are omitted as u
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21107(a) | 36:2408(c). | June 12, 1984, Pub. L. 98–314, § 8(a)–(d), 98 Stat. 238. |
+| 21107(a) | 36:2408(c). | June 12, 1984, Pub. L. 98–314, § 8(a)–(d), 98 Stat. 238. |
 | 21107(b) | 36:2408(a). |  |
 | 21107(c) | 36:2408(b). |  |
 | 21107(d) | 36:2408(d). |  |
@@ -156,7 +156,7 @@ In subsection (a), the words “any shares of” are omitted as unnecessary.
 
 In subsection (b), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
 
-## § 21108. Duty to maintain corporate and tax-exempt status
+## § 21108. Duty to maintain corporate and tax-exempt status
 
 **(a) Corporate Status.—** The corporation shall maintain its status as a corporation incorporated under the laws of each State in which it is incorporated.
 
@@ -168,12 +168,12 @@ In subsection (b), the words “inure to the benefit of” are substituted for �
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21108(a) | 36:2408(e). | June 12, 1984, Pub. L. 98–314, §§ 8(e), 15 (1st sentence), 98 Stat. 238, 239. |
+| 21108(a) | 36:2408(e). | June 12, 1984, Pub. L. 98–314, §§ 8(e), 15 (1st sentence), 98 Stat. 238, 239. |
 | 21108(b) | 36:2414 (1st sentence). |  |
 
 In subsection (a), the words “organized and” are omitted as unnecessary. The words “each State” are substituted for “State or States” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 21109. Records and inspection
+## § 21109. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -191,11 +191,11 @@ In subsection (a), the words “organized and” are omitted as unnecessary. The
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21109 | 36:2410. | June 12, 1984, Pub. L. 98–314, § 10, 98 Stat. 238. |
+| 21109 | 36:2410. | June 12, 1984, Pub. L. 98–314, § 10, 98 Stat. 238. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code. The words “Nothing in this section shall be construed to contravene any applicable State law” are omitted as unnecessary.
 
-## § 21110. Service of process
+## § 21110. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
@@ -205,9 +205,9 @@ The corporation shall comply with the law on service of process of each State in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21110 | 36:2404. | June 12, 1984, Pub. L. 98–314, § 4, 98 Stat. 238. |
+| 21110 | 36:2404. | June 12, 1984, Pub. L. 98–314, § 4, 98 Stat. 238. |
 
-## § 21111. Liability for acts of officers and agents
+## § 21111. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -217,9 +217,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21111 | 36:2409. | June 12, 1984, Pub. L. 98–314, § 9, 98 Stat. 238. |
+| 21111 | 36:2409. | June 12, 1984, Pub. L. 98–314, § 9, 98 Stat. 238. |
 
-## § 21112. Annual report
+## § 21112. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year. The report shall be submitted at the same time as the report of the audit required by section 10101 of this title. The report may not be printed as a public document.
 
@@ -229,7 +229,7 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21112 | 36:2411. | June 12, 1984, Pub. L. 98–314, § 12, 98 Stat. 239. |
+| 21112 | 36:2411. | June 12, 1984, Pub. L. 98–314, § 12, 98 Stat. 239. |
 
 **Statutory Notes and Related Subsidiaries**
 

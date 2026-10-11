@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–282, title I, § 121(a), Dec. 4, 2018, 132 Stat. 4238, inserted chapter 49 designation and heading and added items 4901 to 4904.
+2018—Pub. L. 115–282, title I, § 121(a), Dec. 4, 2018, 132 Stat. 4238, inserted chapter 49 designation and heading and added items 4901 to 4904.
 
-## § 4901. Requirement for prior authorization of appropriations
+## § 4901. Requirement for prior authorization of appropriations
 
 Amounts may be appropriated to or for the use of the Coast Guard for the following matters only if the amounts have been authorized by law after December 31, 1976:
 
@@ -31,17 +31,17 @@ Amounts may be appropriated to or for the use of the Coast Guard for the followi
 
 **(3)** For research and development.1
 
-<sup>1</sup>  So in original. The period probably should not appear.
+<sup>1</sup> So in original. The period probably should not appear.
 
 of technologies, materials, and human factors directly related to improving the performance of the Coast Guard.
 
-(Added Pub. L. 97–295, § 2(20)(A), Oct. 12, 1982, 96 Stat. 1303, § 662; amended Pub. L. 101–225, title II, § 222(c), Dec. 12, 1989, 103 Stat. 1919; Pub. L. 111–259, title IV, § 442(2), Oct. 7, 2010, 124 Stat. 2733; renumbered § 2701 and amended Pub. L. 114–120, title I, § 101(b), Feb. 8, 2016, 130 Stat. 30; Pub. L. 115–232, div. C, title XXXV, § 3538(a), Aug. 13, 2018, 132 Stat. 2322; renumbered § 4901 and amended Pub. L. 115–282, title I, §§ 121(b), 123(c)(5)(A), Dec. 4, 2018, 132 Stat. 4238, 4241; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8513(a)(5), Jan. 1, 2021, 134 Stat. 4760.)
+(Added Pub. L. 97–295, § 2(20)(A), Oct. 12, 1982, 96 Stat. 1303, § 662; amended Pub. L. 101–225, title II, § 222(c), Dec. 12, 1989, 103 Stat. 1919; Pub. L. 111–259, title IV, § 442(2), Oct. 7, 2010, 124 Stat. 2733; renumbered § 2701 and amended Pub. L. 114–120, title I, § 101(b), Feb. 8, 2016, 130 Stat. 30; Pub. L. 115–232, div. C, title XXXV, § 3538(a), Aug. 13, 2018, 132 Stat. 2322; renumbered § 4901 and amended Pub. L. 115–282, title I, §§ 121(b), 123(c)(5)(A), Dec. 4, 2018, 132 Stat. 4238, 4241; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8513(a)(5), Jan. 1, 2021, 134 Stat. 4760.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 662 | 14:656(note). | Sept. 10, 1976, Pub. L. 94–406, § 5, 90 Stat. 1236. |
+| 662 | 14:656(note). | Sept. 10, 1976, Pub. L. 94–406, § 5, 90 Stat. 1236. |
 
 The word “Amounts” is substituted for “funds” for clarity and consistency. Before clause (1), the words “After fiscal year 1977” are omitted as executed. The words “of such funds” are omitted as unnecessary. In clause (2), the words “aids, establishments, vessels, or aircraft” are substituted for “thereto” for clarity. In clause (4), the words “a matter referred to in clauses (1)–(3)” are substituted for “any of the above” for clarity.
 
@@ -49,27 +49,27 @@ The word “Amounts” is substituted for “funds” for clarity and consistenc
 
 **Amendments**
 
-2021—Par. (1). Pub. L. 116–283, § 8513(a)(5)(A), substituted “support” for “maintenance”.
+2021—Par. (1). Pub. L. 116–283, § 8513(a)(5)(A), substituted “support” for “maintenance”.
 
-Par. (2). Pub. L. 116–283, § 8513(a)(5)(B), substituted “procurement” for “acquisition”.
+Par. (2). Pub. L. 116–283, § 8513(a)(5)(B), substituted “procurement” for “acquisition”.
 
-Par. (3). Pub. L. 116–283, § 8513(a)(5)(C)–(E), redesignated par. (5) as (3), substituted “research and development.” for “research, development, test, and evaluation”, and struck out former par. (3) which read as follows: “For the Coast Guard Reserve program, including operations and maintenance of the program, personnel and training costs, equipment, and services.”
+Par. (3). Pub. L. 116–283, § 8513(a)(5)(C)–(E), redesignated par. (5) as (3), substituted “research and development.” for “research, development, test, and evaluation”, and struck out former par. (3) which read as follows: “For the Coast Guard Reserve program, including operations and maintenance of the program, personnel and training costs, equipment, and services.”
 
-Par. (4). Pub. L. 116–283, § 8513(a)(5)(C), struck out par. (4) which read as follows: “For the environmental compliance and restoration functions of the Coast Guard under section 318 of this title.”
+Par. (4). Pub. L. 116–283, § 8513(a)(5)(C), struck out par. (4) which read as follows: “For the environmental compliance and restoration functions of the Coast Guard under section 318 of this title.”
 
-Par. (5). Pub. L. 116–283, § 8513(a)(5)(D), redesignated par. (5) as (3).
+Par. (5). Pub. L. 116–283, § 8513(a)(5)(D), redesignated par. (5) as (3).
 
-Par. (6). Pub. L. 116–283, § 8513(a)(5)(C), struck out par. (6) which read as follows: “For alteration or removal of bridges over navigable waters of the United States constituting obstructions to navigation, and for personnel and administrative costs associated with the Alteration of Bridges Program.”
+Par. (6). Pub. L. 116–283, § 8513(a)(5)(C), struck out par. (6) which read as follows: “For alteration or removal of bridges over navigable waters of the United States constituting obstructions to navigation, and for personnel and administrative costs associated with the Alteration of Bridges Program.”
 
-2018—Pub. L. 115–282, § 121(b), renumbered section 2701 of this title as this section.
+2018—Pub. L. 115–282, § 121(b), renumbered section 2701 of this title as this section.
 
 Par. (2). Pub. L. 115–232 substituted “aircraft, and systems” for “and aircraft”.
 
-Par. (4). Pub. L. 115–282, § 123(c)(5)(A), substituted “section 318” for “chapter 19”.
+Par. (4). Pub. L. 115–282, § 123(c)(5)(A), substituted “section 318” for “chapter 19”.
 
-2016—Pub. L. 114–120, § 101(b)(1), (2), renumbered section 662 of this title as this section.
+2016—Pub. L. 114–120, § 101(b)(1), (2), renumbered section 662 of this title as this section.
 
-Pars. (1) to (6). Pub. L. 114–120, § 101(b)(3), added pars. (1) to (6) and struck out former pars. (1) to (5) which read as follows:
+Pars. (1) to (6). Pub. L. 114–120, § 101(b)(3), added pars. (1) to (6) and struck out former pars. (1) to (5) which read as follows:
 
 “(1) For the operation and maintenance of the Coast Guard.
 
@@ -85,7 +85,7 @@ Pars. (1) to (6). Pub. L. 114–120, § 101(b)(3), added pars. (1) to (6) and 
 
 1989—Par. (5). Pub. L. 101–225 added par. (5).
 
-## § 4902. Authorizations of appropriations
+## § 4902. Authorizations of appropriations
 
 Funds are authorized to be appropriated for fiscal years 2026 and 2027 for necessary expenses of the Coast Guard as follows:
 
@@ -127,123 +127,123 @@ Funds are authorized to be appropriated for fiscal years 2026 and 2027 for neces
 
 **(B)** $1,215,000,000 for fiscal year 2027.
 
-(Added Pub. L. 114–120, title I, § 101(a), Feb. 8, 2016, 130 Stat. 29, § 2702; amended Pub. L. 114–328, div. C, title XXXV, § 3503(d)(1), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–232, div. C, title XXXV, §§ 3531(c)(14), 3538(b), Aug. 13, 2018, 132 Stat. 2320, 2322; renumbered § 4902 and amended Pub. L. 115–282, title I, §§ 121(b), 123(c)(5)(B), title II, § 202, Dec. 4, 2018, 132 Stat. 4238, 4241; Pub. L. 116–283, div. G, title LVXXXI [LXXXI], § 8101, Jan. 1, 2021, 134 Stat. 4634; Pub. L. 117–263, div. K, title CXI, § 11101, Dec. 23, 2022, 136 Stat. 4003; Pub. L. 119–60, div. G, title LXXI, § 7101, Dec. 18, 2025, 139 Stat. 1663.)
+(Added Pub. L. 114–120, title I, § 101(a), Feb. 8, 2016, 130 Stat. 29, § 2702; amended Pub. L. 114–328, div. C, title XXXV, § 3503(d)(1), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–232, div. C, title XXXV, §§ 3531(c)(14), 3538(b), Aug. 13, 2018, 132 Stat. 2320, 2322; renumbered § 4902 and amended Pub. L. 115–282, title I, §§ 121(b), 123(c)(5)(B), title II, § 202, Dec. 4, 2018, 132 Stat. 4238, 4241; Pub. L. 116–283, div. G, title LVXXXI [LXXXI], § 8101, Jan. 1, 2021, 134 Stat. 4634; Pub. L. 117–263, div. K, title CXI, § 11101, Dec. 23, 2022, 136 Stat. 4003; Pub. L. 119–60, div. G, title LXXI, § 7101, Dec. 18, 2025, 139 Stat. 1663.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 7101(1), substituted “fiscal years 2026 and 2027” for “fiscal years 2022 and 2023” in introductory provisions.
+2025—Pub. L. 119–60, § 7101(1), substituted “fiscal years 2026 and 2027” for “fiscal years 2022 and 2023” in introductory provisions.
 
-Par. (1)(A)(i), (ii). Pub. L. 119–60, § 7101(2)(A), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+Par. (1)(A)(i), (ii). Pub. L. 119–60, § 7101(2)(A), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) $10,000,000,000 for fiscal year 2022; and
 
 “(ii) $10,750,000,000 for fiscal year 2023.”
 
-Par. (1)(B). Pub. L. 119–60, § 7101(2)(B), substituted “$25,570,000” for “$23,456,000”.
+Par. (1)(B). Pub. L. 119–60, § 7101(2)(B), substituted “$25,570,000” for “$23,456,000”.
 
-Par. (1)(C). Pub. L. 119–60, § 7101(2)(C), substituted “clause (ii) of subparagraph (A), $26,848,500” for “subparagraph (A)(ii), $24,353,000”.
+Par. (1)(C). Pub. L. 119–60, § 7101(2)(C), substituted “clause (ii) of subparagraph (A), $26,848,500” for “subparagraph (A)(ii), $24,353,000”.
 
-Par. (2)(A)(i), (ii). Pub. L. 119–60, § 7101(3), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+Par. (2)(A)(i), (ii). Pub. L. 119–60, § 7101(3), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) $3,312,114,000 for fiscal year 2022; and
 
 “(ii) $3,477,600,000 for fiscal year 2023.”
 
-Par. (3)(A), (B). Pub. L. 119–60, § 7101(4), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+Par. (3)(A), (B). Pub. L. 119–60, § 7101(4), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) $7,476,000 for fiscal year 2022; and
 
 “(B) $14,681,084 for fiscal year 2023.”
 
-Par. (4). Pub. L. 119–60, § 7101(5), added par. (4) and struck out former par. (4) which read as follows: “For the Coast Guard’s Medicare-eligible retiree health care fund contribution to the Department of Defense—
+Par. (4). Pub. L. 119–60, § 7101(5), added par. (4) and struck out former par. (4) which read as follows: “For the Coast Guard’s Medicare-eligible retiree health care fund contribution to the Department of Defense—
 
 “(A) $240,577,000 for fiscal year 2022; and
 
 “(B) $252,887,000 for fiscal year 2023.”
 
-2022—Pub. L. 117–263, § 11101(1), substituted “fiscal years 2022 and 2023” for “fiscal years 2020 and 2021” in introductory provisions.
+2022—Pub. L. 117–263, § 11101(1), substituted “fiscal years 2022 and 2023” for “fiscal years 2020 and 2021” in introductory provisions.
 
-Par. (1)(A). Pub. L. 117–263, § 11101(2)(A), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+Par. (1)(A). Pub. L. 117–263, § 11101(2)(A), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) $8,151,620,850 for fiscal year 2020; and
 
 “(ii) $8,396,169,475 for fiscal year 2021.”
 
-Par. (1)(B). Pub. L. 117–263, § 11101(2)(B), substituted “$23,456,000” for “$17,035,000”.
+Par. (1)(B). Pub. L. 117–263, § 11101(2)(B), substituted “$23,456,000” for “$17,035,000”.
 
-Par. (1)(C). Pub. L. 117–263, § 11101(2)(C), substituted “(A)(ii), $24,353,000” for “, (A)(ii) $17,376,000”.
+Par. (1)(C). Pub. L. 117–263, § 11101(2)(C), substituted “(A)(ii), $24,353,000” for “, (A)(ii) $17,376,000”.
 
-Par. (2)(A). Pub. L. 117–263, § 11101(3)(A), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+Par. (2)(A). Pub. L. 117–263, § 11101(3)(A), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) $2,794,745,000 for fiscal year 2020; and
 
 “(ii) $3,312,114,000 for fiscal year 2021.”
 
-Par. (2)(B). Pub. L. 117–263, § 11101(3)(B), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+Par. (2)(B). Pub. L. 117–263, § 11101(3)(B), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) $10,000,000 for fiscal year 2020; and
 
 “(ii) $20,000,000 for fiscal year 2021.”
 
-Par. (3). Pub. L. 117–263, § 11101(4), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+Par. (3). Pub. L. 117–263, § 11101(4), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) $13,834,000 for fiscal year 2020; and
 
 “(B) $14,111,000 for fiscal year 2021.”
 
-Par. (4). Pub. L. 117–263, § 11101(5), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+Par. (4). Pub. L. 117–263, § 11101(5), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) $205,107,000 for fiscal year 2020; and
 
 “(B) $209,209,000 for fiscal year 2021.”
 
-2021—Pub. L. 116–283, § 8101(1), substituted “years 2020 and 2021” for “year 2019” in introductory provisions.
+2021—Pub. L. 116–283, § 8101(1), substituted “years 2020 and 2021” for “year 2019” in introductory provisions.
 
-Par. (1)(A). Pub. L. 116–283, § 8101(2), substituted “provided for—” for “provided for, $7,914,195,000 for fiscal year 2019.” and added cls. (i) and (ii).
+Par. (1)(A). Pub. L. 116–283, § 8101(2), substituted “provided for—” for “provided for, $7,914,195,000 for fiscal year 2019.” and added cls. (i) and (ii).
 
-Par. (1)(B). Pub. L. 116–283, § 8101(3), (4), substituted “subparagraph (A)(i), $17,035,000 shall be for environmental compliance and restoration.” for “subparagraph (A)—” in introductory provisions and struck out cls. (i) and (ii) which read as follows:
+Par. (1)(B). Pub. L. 116–283, § 8101(3), (4), substituted “subparagraph (A)(i), $17,035,000 shall be for environmental compliance and restoration.” for “subparagraph (A)—” in introductory provisions and struck out cls. (i) and (ii) which read as follows:
 
 “(i) $16,701,000 shall be for environmental compliance and restoration; and
 
 “(ii) $199,360,000 shall be for the Coast Guard’s Medicare-eligible retiree health care fund contribution to the Department of Defense.”
 
-Par. (1)(C). Pub. L. 116–283, § 8101(5), added subpar. (C).
+Par. (1)(C). Pub. L. 116–283, § 8101(5), added subpar. (C).
 
-Par. (2). Pub. L. 116–283, § 8101(6), designated existing provisions as subpar. (A), substituted “and equipment—” for “and equipment, $2,694,745,000 for fiscal year 2019.”, added cls. (i) and (ii) of subpar. (A), and added subpar. (B).
+Par. (2). Pub. L. 116–283, § 8101(6), designated existing provisions as subpar. (A), substituted “and equipment—” for “and equipment, $2,694,745,000 for fiscal year 2019.”, added cls. (i) and (ii) of subpar. (A), and added subpar. (B).
 
-Par. (3). Pub. L. 116–283, § 8101(7), substituted “and equipment—” for “and equipment, $29,141,000 for fiscal year 2019.” and added subpars. (A) and (B).
+Par. (3). Pub. L. 116–283, § 8101(7), substituted “and equipment—” for “and equipment, $29,141,000 for fiscal year 2019.” and added subpars. (A) and (B).
 
-Par. (4). Pub. L. 116–283, § 8101(8), added par. (4).
+Par. (4). Pub. L. 116–283, § 8101(8), added par. (4).
 
-2018—Pub. L. 115–282, § 202(b), struck out subsec. (b) designation and heading before “Funds are authorized” and struck out subsec. (a) which related to authorization of appropriations for fiscal year 2018.
+2018—Pub. L. 115–282, § 202(b), struck out subsec. (b) designation and heading before “Funds are authorized” and struck out subsec. (a) which related to authorization of appropriations for fiscal year 2018.
 
-Pub. L. 115–282, § 202(a), amended section generally. Prior to amendment, section related to authorization of appropriations.
+Pub. L. 115–282, § 202(a), amended section generally. Prior to amendment, section related to authorization of appropriations.
 
-Pub. L. 115–282, § 121(b), renumbered section 2702 of this title as this section.
+Pub. L. 115–282, § 121(b), renumbered section 2702 of this title as this section.
 
-Par. (2). Pub. L. 115–232, § 3538(b), substituted “aircraft, and systems” for “and aircraft” in introductory provisions.
+Par. (2). Pub. L. 115–232, § 3538(b), substituted “aircraft, and systems” for “and aircraft” in introductory provisions.
 
-Par. (4). Pub. L. 115–282, § 123(c)(5)(B), substituted “section 318” for “chapter 19” in introductory provisions.
+Par. (4). Pub. L. 115–282, § 123(c)(5)(B), substituted “section 318” for “chapter 19” in introductory provisions.
 
-Par. (5). Pub. L. 115–232, § 3531(c)(14), substituted “Commandant” for “Commandant of the Coast Guard” in introductory provisions.
+Par. (5). Pub. L. 115–232, § 3531(c)(14), substituted “Commandant” for “Commandant of the Coast Guard” in introductory provisions.
 
-2016—Par. (1)(B). Pub. L. 114–328, § 3503(d)(1)(A), substituted “$6,986,815,000” for “$6,981,036,000”.
+2016—Par. (1)(B). Pub. L. 114–328, § 3503(d)(1)(A), substituted “$6,986,815,000” for “$6,981,036,000”.
 
-Par. (3)(B). Pub. L. 114–328, § 3503(d)(1)(B), substituted “$134,237,000” for “$140,016,000”.
+Par. (3)(B). Pub. L. 114–328, § 3503(d)(1)(B), substituted “$134,237,000” for “$140,016,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–282, title II, § 202(b), Dec. 4, 2018, 132 Stat. 4242, provided that the amendment made by section 202(b) is effective October 1, 2018.
+Pub. L. 115–282, title II, § 202(b), Dec. 4, 2018, 132 Stat. 4242, provided that the amendment made by section 202(b) is effective October 1, 2018.
 
 **Effective Date of 2016 Amendment**
 
 Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under section 2182 of this title.
 
-## § 4903. Authorization of personnel end strengths
+## § 4903. Authorization of personnel end strengths
 
 **(a)** For each fiscal year, Congress shall authorize the strength for active duty personnel of the Coast Guard as of the end of that fiscal year. Amounts may be appropriated for a fiscal year to or for the use of active duty personnel of the Coast Guard only if the end strength for active duty personnel for that fiscal year has been authorized by law. If at the end of any fiscal year there is in effect a declaration of war or national emergency, the President may defer the effectiveness of any end-strength limitation with respect to that fiscal year prescribed by law for any military or civilian component of the Coast Guard, for a period not to exceed 6 months after the end of the war or termination of the national emergency.
 
@@ -261,13 +261,13 @@ Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub.
 
 **(2)** Amounts may be appropriated for a fiscal year for use in training military personnel of the Coast Guard in the categories referred to in paragraph (1) only if the average student loads for the Coast Guard for that fiscal year have been authorized by law.
 
-(Added Pub. L. 97–295, § 2(20)(A), Oct. 12, 1982, 96 Stat. 1302, § 661; amended Pub. L. 107–295, title I, § 105(a), Nov. 25, 2002, 116 Stat. 2085; renumbered § 2703, Pub. L. 114–120, title I, § 101(c), Feb. 8, 2016, 130 Stat. 31; renumbered § 4903, Pub. L. 115–282, title I, § 121(b), Dec. 4, 2018, 132 Stat. 4238.)
+(Added Pub. L. 97–295, § 2(20)(A), Oct. 12, 1982, 96 Stat. 1302, § 661; amended Pub. L. 107–295, title I, § 105(a), Nov. 25, 2002, 116 Stat. 2085; renumbered § 2703, Pub. L. 114–120, title I, § 101(c), Feb. 8, 2016, 130 Stat. 31; renumbered § 4903, Pub. L. 115–282, title I, § 121(b), Dec. 4, 2018, 132 Stat. 4238.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 661 | 14:ch. 11(note). | Sept. 10, 1976, Pub. L. 94–406, § 6, 90 Stat. 1236. |
+| 661 | 14:ch. 11(note). | Sept. 10, 1976, Pub. L. 94–406, § 6, 90 Stat. 1236. |
 
 The words “after fiscal year 1977” are omitted as executed. The word “Amounts” is substituted for “funds” for clarity and consistency.
 
@@ -281,7 +281,7 @@ The words “after fiscal year 1977” are omitted as executed. The word “Amou
 
 2002—Subsec. (a). Pub. L. 107–295 inserted at end “If at the end of any fiscal year there is in effect a declaration of war or national emergency, the President may defer the effectiveness of any end-strength limitation with respect to that fiscal year prescribed by law for any military or civilian component of the Coast Guard, for a period not to exceed 6 months after the end of the war or termination of the national emergency.”
 
-## § 4904. Authorized levels of military strength and training
+## § 4904. Authorized levels of military strength and training
 
 **(a) Active Duty Strength.—** The Coast Guard is authorized an end-of-year strength for active duty personnel of 50,000 for fiscal years 2026, and 55,000 for fiscal year 2027.
 
@@ -295,45 +295,45 @@ The words “after fiscal year 1977” are omitted as executed. The word “Amou
 
 **(4)** For officer acquisition, 1,600 student years for each of fiscal years 2026 and 2027.
 
-(Added Pub. L. 114–120, title I, § 101(a), Feb. 8, 2016, 130 Stat. 29, § 2704; renumbered § 4904 and amended Pub. L. 115–282, title I, § 121(b), title II, § 203, Dec. 4, 2018, 132 Stat. 4238, 4242; Pub. L. 116–283, div. G, title LVXXXI [LXXXI], § 8102, Jan. 1, 2021, 134 Stat. 4634; Pub. L. 117–263, div. K, title CXI, § 11102, title CXIV, § 11413(c), Dec. 23, 2022, 136 Stat. 4004, 4120; Pub. L. 119–60, div. G, title LXXI, § 7102(a), Dec. 18, 2025, 139 Stat. 1663.)
+(Added Pub. L. 114–120, title I, § 101(a), Feb. 8, 2016, 130 Stat. 29, § 2704; renumbered § 4904 and amended Pub. L. 115–282, title I, § 121(b), title II, § 203, Dec. 4, 2018, 132 Stat. 4238, 4242; Pub. L. 116–283, div. G, title LVXXXI [LXXXI], § 8102, Jan. 1, 2021, 134 Stat. 4634; Pub. L. 117–263, div. K, title CXI, § 11102, title CXIV, § 11413(c), Dec. 23, 2022, 136 Stat. 4004, 4120; Pub. L. 119–60, div. G, title LXXI, § 7102(a), Dec. 18, 2025, 139 Stat. 1663.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 7102(a)(1), substituted “50,000 for fiscal years 2026, and 55,000 for fiscal year 2027” for “44,500 for each of fiscal years 2022 and 2023”.
+2025—Subsec. (a). Pub. L. 119–60, § 7102(a)(1), substituted “50,000 for fiscal years 2026, and 55,000 for fiscal year 2027” for “44,500 for each of fiscal years 2022 and 2023”.
 
-Subsec. (b). Pub. L. 119–60, § 7102(a)(2)(A), struck out “for each of fiscal years 2022 and 2023” after “average military training student loads” in introductory provisions.
+Subsec. (b). Pub. L. 119–60, § 7102(a)(2)(A), struck out “for each of fiscal years 2022 and 2023” after “average military training student loads” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 119–60, § 7102(a)(2)(B), substituted “4,000 student years for each of fiscal years 2026 and 2027” for “2,500 student years”.
+Subsec. (b)(1). Pub. L. 119–60, § 7102(a)(2)(B), substituted “4,000 student years for each of fiscal years 2026 and 2027” for “2,500 student years”.
 
-Subsec. (b)(2). Pub. L. 119–60, § 7102(a)(2)(C), substituted “250 student years for each of fiscal years 2026 and 2027” for “165 student years”.
+Subsec. (b)(2). Pub. L. 119–60, § 7102(a)(2)(C), substituted “250 student years for each of fiscal years 2026 and 2027” for “165 student years”.
 
-Subsec. (b)(3). Pub. L. 119–60, § 7102(a)(2)(D), substituted “700 student years for each of fiscal years 2026 and 2027” for “385 student years”.
+Subsec. (b)(3). Pub. L. 119–60, § 7102(a)(2)(D), substituted “700 student years for each of fiscal years 2026 and 2027” for “385 student years”.
 
-Subsec. (b)(4). Pub. L. 119–60, § 7102(a)(2)(E), substituted “1,600 student years for each of fiscal years 2026 and 2027” for “1,200 student years”.
+Subsec. (b)(4). Pub. L. 119–60, § 7102(a)(2)(E), substituted “1,600 student years for each of fiscal years 2026 and 2027” for “1,200 student years”.
 
-2022—Subsec. (a). Pub. L. 117–263, § 11102(1), substituted “fiscal years 2022 and 2023” for “fiscal years 2020 and 2021”.
+2022—Subsec. (a). Pub. L. 117–263, § 11102(1), substituted “fiscal years 2022 and 2023” for “fiscal years 2020 and 2021”.
 
-Subsec. (b). Pub. L. 117–263, § 11102(2), substituted “fiscal years 2022 and 2023” for “fiscal years 2020 and 2021”.
+Subsec. (b). Pub. L. 117–263, § 11102(2), substituted “fiscal years 2022 and 2023” for “fiscal years 2020 and 2021”.
 
-Subsec. (b)(3). Pub. L. 117–263, § 11413(c), substituted “385” for “350”.
+Subsec. (b)(3). Pub. L. 117–263, § 11413(c), substituted “385” for “350”.
 
-2021—Subsec. (a). Pub. L. 116–283, § 8102(1), substituted “44,500 for each of fiscal years 2020 and 2021” for “43,000 for fiscal year 2018 and 44,500 for fiscal year 2019”.
+2021—Subsec. (a). Pub. L. 116–283, § 8102(1), substituted “44,500 for each of fiscal years 2020 and 2021” for “43,000 for fiscal year 2018 and 44,500 for fiscal year 2019”.
 
-Subsec. (b). Pub. L. 116–283, § 8102(2), substituted “fiscal years 2020 and 2021” for “fiscal years 2018 and 2019” in introductory provisions.
+Subsec. (b). Pub. L. 116–283, § 8102(2), substituted “fiscal years 2020 and 2021” for “fiscal years 2018 and 2019” in introductory provisions.
 
 2018—Pub. L. 115–282 renumbered section 2704 of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, § 203(1), substituted “for fiscal year 2018 and 44,500 for fiscal year 2019” for “for each of fiscal years 2016 and 2017”.
+Subsec. (a). Pub. L. 115–282, § 203(1), substituted “for fiscal year 2018 and 44,500 for fiscal year 2019” for “for each of fiscal years 2016 and 2017”.
 
-Subsec. (b). Pub. L. 115–282, § 203(2), substituted “fiscal years 2018 and 2019” for “fiscal years 2016 and 2017” in introductory provisions.
+Subsec. (b). Pub. L. 115–282, § 203(2), substituted “fiscal years 2018 and 2019” for “fiscal years 2016 and 2017” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Reporting Requirement**
 
-Pub. L. 119–60, div. G, title LXXI, § 7102(b), Dec. 18, 2025, 139 Stat. 1664, provided that:
+Pub. L. 119–60, div. G, title LXXI, § 7102(b), Dec. 18, 2025, 139 Stat. 1664, provided that:
 
 > “In any fiscal year in which the submission required under section 1105 of title 31, United States Code, does not include a proportional increase in the Operations and Support funding under section 4902(1)(A) of title 14, United States Code, to support the end strengths authorized under the amendments made by subsection (a) [amending this section]—
 

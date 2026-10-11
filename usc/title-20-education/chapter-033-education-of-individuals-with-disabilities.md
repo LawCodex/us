@@ -17,11 +17,11 @@ retrieved: 2026-10-11
 
 **Codification**
 
-The Individuals with Disabilities Education Act, comprising this chapter, was originally enacted as title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, known as the Education of the Handicapped Act, and amended by Pub. L. 92–318, June 23, 1972, 86 Stat. 235; Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 484; Pub. L. 94–142, Nov. 29, 1975, 89 Stat. 773; Pub. L. 95–49, June 17, 1977, 91 Stat. 230; Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143; Pub. L. 96–270, June 14, 1980, 94 Stat. 487; Pub. L. 98–199, Dec. 2, 1983, 97 Stat. 1357; Pub. L. 99–159, Nov. 22, 1985, 99 Stat. 887; Pub. L. 99–362, July 9, 1986, 100 Stat. 769; Pub. L. 99–372, Aug. 5, 1986, 100 Stat. 796; Pub. L. 99–457, Oct. 8, 1986, 100 Stat. 1145; Pub. L. 100–630, Nov. 7, 1988, 102 Stat. 3289; Pub. L. 101–476, Oct. 30, 1990, 104 Stat. 1103; Pub. L. 102–73, July 25, 1991, 105 Stat. 333; Pub. L. 102–119, Oct. 7, 1991, 105 Stat. 587; Pub. L. 102–421, Oct. 16, 1992, 106 Stat. 2151; Pub. L. 102–569, Oct. 29, 1992, 106 Stat. 4344; Pub. L. 103–73, Aug. 11, 1993, 107 Stat. 718; Pub. L. 103–218, Mar. 9, 1994, 108 Stat. 50; Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518; Pub. L. 105–17, June 4, 1997, 111 Stat. 37; Pub. L. 105–244, Oct. 7, 1998, 112 Stat. 1581; Pub. L. 106–25, Apr. 29, 1999, 113 Stat. 41; Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677; Pub. L. 107–110, Jan. 8, 2002, 115 Stat. 1425; Pub. L. 108–173, Dec. 8, 2003, 117 Stat. 2066. Title VI is shown herein, however, as having been added by Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2647, without reference to those intervening amendments because of the extensive revision of title VI by Pub. L. 108–446.
+The Individuals with Disabilities Education Act, comprising this chapter, was originally enacted as title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, known as the Education of the Handicapped Act, and amended by Pub. L. 92–318, June 23, 1972, 86 Stat. 235; Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 484; Pub. L. 94–142, Nov. 29, 1975, 89 Stat. 773; Pub. L. 95–49, June 17, 1977, 91 Stat. 230; Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143; Pub. L. 96–270, June 14, 1980, 94 Stat. 487; Pub. L. 98–199, Dec. 2, 1983, 97 Stat. 1357; Pub. L. 99–159, Nov. 22, 1985, 99 Stat. 887; Pub. L. 99–362, July 9, 1986, 100 Stat. 769; Pub. L. 99–372, Aug. 5, 1986, 100 Stat. 796; Pub. L. 99–457, Oct. 8, 1986, 100 Stat. 1145; Pub. L. 100–630, Nov. 7, 1988, 102 Stat. 3289; Pub. L. 101–476, Oct. 30, 1990, 104 Stat. 1103; Pub. L. 102–73, July 25, 1991, 105 Stat. 333; Pub. L. 102–119, Oct. 7, 1991, 105 Stat. 587; Pub. L. 102–421, Oct. 16, 1992, 106 Stat. 2151; Pub. L. 102–569, Oct. 29, 1992, 106 Stat. 4344; Pub. L. 103–73, Aug. 11, 1993, 107 Stat. 718; Pub. L. 103–218, Mar. 9, 1994, 108 Stat. 50; Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518; Pub. L. 105–17, June 4, 1997, 111 Stat. 37; Pub. L. 105–244, Oct. 7, 1998, 112 Stat. 1581; Pub. L. 106–25, Apr. 29, 1999, 113 Stat. 41; Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677; Pub. L. 107–110, Jan. 8, 2002, 115 Stat. 1425; Pub. L. 108–173, Dec. 8, 2003, 117 Stat. 2066. Title VI is shown herein, however, as having been added by Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2647, without reference to those intervening amendments because of the extensive revision of title VI by Pub. L. 108–446.
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 1400. Short title; findings; purposes
+### § 1400. Short title; findings; purposes
 
 **(a) Short title**
 
@@ -131,7 +131,7 @@ This chapter may be cited as the “Individuals with Disabilities Education Act�
 
 **(4)** to assess, and ensure the effectiveness of, efforts to educate children with disabilities.
 
-(Pub. L. 91–230, title VI, § 601, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2647; amended Pub. L. 111–256, § 2(b)(1), Oct. 5, 2010, 124 Stat. 2643.)
+(Pub. L. 91–230, title VI, § 601, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2647; amended Pub. L. 111–256, § 2(b)(1), Oct. 5, 2010, 124 Stat. 2643.)
 
 **Editorial Notes**
 
@@ -139,7 +139,7 @@ This chapter may be cited as the “Individuals with Disabilities Education Act�
 
 The Education for All Handicapped Children Act of 1975, referred to in subsec. (c)(2), (3), is Pub. L. 94–142, Nov. 29, 1975, 89 Stat. 773. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out below and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(5)(C), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(5)(C), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 **Codification**
 
@@ -147,9 +147,9 @@ Section is comprised of section 601 of Pub. L. 91–230. Subsec. (b) of section 
 
 **Prior Provisions**
 
-A prior section 1400, Pub. L. 91–230, title VI, § 601, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 37, contained short title for this chapter and related to congressional findings and purposes, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1400, Pub. L. 91–230, title VI, § 601, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 37, contained short title for this chapter and related to congressional findings and purposes, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1400, Pub. L. 91–230, title VI, § 601, Apr. 13, 1970, 84 Stat. 175; Pub. L. 94–142, § 3, Nov. 29, 1975, 89 Stat. 774; Pub. L. 101–476, title IX, § 901(a)(1), (b)(1)–(9), Oct. 30, 1990, 104 Stat. 1141, 1142; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, contained short title for this chapter and related to congressional statements and declarations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17. This section had been classified as a note under former section 1401 of this title prior to being amended by Pub. L. 94–142.
+Another prior section 1400, Pub. L. 91–230, title VI, § 601, Apr. 13, 1970, 84 Stat. 175; Pub. L. 94–142, § 3, Nov. 29, 1975, 89 Stat. 774; Pub. L. 101–476, title IX, § 901(a)(1), (b)(1)–(9), Oct. 30, 1990, 104 Stat. 1141, 1142; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, contained short title for this chapter and related to congressional statements and declarations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17. This section had been classified as a note under former section 1401 of this title prior to being amended by Pub. L. 94–142.
 
 **Amendments**
 
@@ -159,7 +159,7 @@ Another prior section 1400, Pub. L. 91–230, title VI, § 601, Apr. 13, 1970,
 
 **Effective Date**
 
-Pub. L. 108–446, title III, § 302(a), (b), Dec. 3, 2004, 118 Stat. 2803, as amended by Pub. L. 114–95, title IX, § 9214(e), Dec. 10, 2015, 129 Stat. 2166, provided that:
+Pub. L. 108–446, title III, § 302(a), (b), Dec. 3, 2004, 118 Stat. 2803, as amended by Pub. L. 114–95, title IX, § 9214(e), Dec. 10, 2015, 129 Stat. 2166, provided that:
 
 > **“(a) Parts A, B, and C, and subpart 1 of Part D.—** Parts A, B, and C, and subpart 1 of part D, of the Individuals with Disabilities Education Act [subchapters I, II, and III and part A of subchapter IV of this chapter], as amended by title I, shall take effect on July 1, 2005.
 
@@ -167,53 +167,53 @@ Pub. L. 108–446, title III, § 302(a), (b), Dec. 3, 2004, 118 Stat. 2803, as
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–256, § 1, Oct. 5, 2010, 124 Stat. 2643, provided that: “This Act [amending this section, sections 1140, 1401, and 7512 of this title, sections 705, 764, and 791 of Title 29, Labor, and sections 217a–1, 247b–4, 285g, 285g–2, 291k, 294c, and 300d–52 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, and amending provisions set out as notes under sections 280f, 285g, 300b–1, and 2000ff of Title 42] may be cited as ‘Rosa’s Law’.”
+Pub. L. 111–256, § 1, Oct. 5, 2010, 124 Stat. 2643, provided that: “This Act [amending this section, sections 1140, 1401, and 7512 of this title, sections 705, 764, and 791 of Title 29, Labor, and sections 217a–1, 247b–4, 285g, 285g–2, 291k, 294c, and 300d–52 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, and amending provisions set out as notes under sections 280f, 285g, 300b–1, and 2000ff of Title 42] may be cited as ‘Rosa’s Law’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–446, § 1, Dec. 3, 2004, 118 Stat. 2647, provided that: “This Act [enacting subchapters I to IV of this chapter, part E of subchapter I of chapter 76 of this title, and sections 9567 to 9567b of this title, amending sections 927, 1087ee, 1087ii, 4304, 5802, 6103, 6311, 6317, 7221g, 7273b, 9511, 9515, 9516, and 9605 of this title, section 2164 of Title 10, Armed Forces, section 121 of Title 17, Copyrights, sections 721, 725, 772, and 773 of Title 29, Labor, and sections 280c–6, 290bb–25, 290ff–1, 290ff–2, 1396b, 1396n, 5011, 9835, 9836, 9837, 12511, 15025, and 15064 of Title 42, The Public Health and Welfare, repealing section 1444 of this title, redesignating former part E of subchapter I of chapter 76 of this title as part F, omitting sections 1445, 1456, and 1483 to 1487 of this title, enacting provisions set out as notes under this section and section 9567b of this title, and amending provisions set out as a note under section 285g of Title 42] may be cited as the ‘Individuals with Disabilities Education Improvement Act of 2004’.”
+Pub. L. 108–446, § 1, Dec. 3, 2004, 118 Stat. 2647, provided that: “This Act [enacting subchapters I to IV of this chapter, part E of subchapter I of chapter 76 of this title, and sections 9567 to 9567b of this title, amending sections 927, 1087ee, 1087ii, 4304, 5802, 6103, 6311, 6317, 7221g, 7273b, 9511, 9515, 9516, and 9605 of this title, section 2164 of Title 10, Armed Forces, section 121 of Title 17, Copyrights, sections 721, 725, 772, and 773 of Title 29, Labor, and sections 280c–6, 290bb–25, 290ff–1, 290ff–2, 1396b, 1396n, 5011, 9835, 9836, 9837, 12511, 15025, and 15064 of Title 42, The Public Health and Welfare, repealing section 1444 of this title, redesignating former part E of subchapter I of chapter 76 of this title as part F, omitting sections 1445, 1456, and 1483 to 1487 of this title, enacting provisions set out as notes under this section and section 9567b of this title, and amending provisions set out as a note under section 285g of Title 42] may be cited as the ‘Individuals with Disabilities Education Improvement Act of 2004’.”
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–17, § 1, June 4, 1997, 111 Stat. 37, provided that: “This Act [enacting subchapters I to IV of this chapter, repealing former subchapters III and V to IX of this chapter, and enacting provisions set out as notes under this section and sections 1431 and 1451 of this title] may be cited as the ‘Individuals with Disabilities Education Act Amendments of 1997’.”
+Pub. L. 105–17, § 1, June 4, 1997, 111 Stat. 37, provided that: “This Act [enacting subchapters I to IV of this chapter, repealing former subchapters III and V to IX of this chapter, and enacting provisions set out as notes under this section and sections 1431 and 1451 of this title] may be cited as the ‘Individuals with Disabilities Education Act Amendments of 1997’.”
 
 **Short Title of 1991 Amendment**
 
-Pub. L. 102–119, § 1, Oct. 7, 1991, 105 Stat. 587, provided that: “This Act [see Tables for classification] may be cited as the ‘Individuals with Disabilities Education Act Amendments of 1991’.”
+Pub. L. 102–119, § 1, Oct. 7, 1991, 105 Stat. 587, provided that: “This Act [see Tables for classification] may be cited as the ‘Individuals with Disabilities Education Act Amendments of 1991’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–476, § 1(a), Oct. 30, 1990, 104 Stat. 1103, provided that: “This Act [see Tables for classification] may be cited as the ‘Education of the Handicapped Act Amendments of 1990’.”
+Pub. L. 101–476, § 1(a), Oct. 30, 1990, 104 Stat. 1103, provided that: “This Act [see Tables for classification] may be cited as the ‘Education of the Handicapped Act Amendments of 1990’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–630, § 1, Nov. 7, 1988, 102 Stat. 3289, provided that: “This Act [amending sections 101, 1401, 1404, 1406, 1407, 1411 to 1419, 1421 to 1425, 1431 to 1433, 1441, 1443, 1451, 1452, 1461, 1471, 1472, and 1475 to 1482 of this title, sections 702, 705, 706, 709, 711, 713, 717, 720 to 723, 731, 732, 740, 741, 750, 752, 761 to 762, 770, 772, 774 to 776, 777 to 777b, 777d, 777f, 780, 781 to 783, 791 to 794, 794b, 794d, 795a, 795g to 795i, 795*l* to 795n, 795q, 796a to 796g, 796i, and 1904 of Title 29, Labor, and section 155 of Title 36, Patriotic Societies and Observances, enacting provisions set out as notes under sections 101, 1419, and 1432 of this title and sections 731 and 777c of Title 29, and repealing provisions set out as a note under section 795m of Title 29] may be cited as the ‘Handicapped Programs Technical Amendments Act of 1988’.”
+Pub. L. 100–630, § 1, Nov. 7, 1988, 102 Stat. 3289, provided that: “This Act [amending sections 101, 1401, 1404, 1406, 1407, 1411 to 1419, 1421 to 1425, 1431 to 1433, 1441, 1443, 1451, 1452, 1461, 1471, 1472, and 1475 to 1482 of this title, sections 702, 705, 706, 709, 711, 713, 717, 720 to 723, 731, 732, 740, 741, 750, 752, 761 to 762, 770, 772, 774 to 776, 777 to 777b, 777d, 777f, 780, 781 to 783, 791 to 794, 794b, 794d, 795a, 795g to 795i, 795*l* to 795n, 795q, 796a to 796g, 796i, and 1904 of Title 29, Labor, and section 155 of Title 36, Patriotic Societies and Observances, enacting provisions set out as notes under sections 101, 1419, and 1432 of this title and sections 731 and 777c of Title 29, and repealing provisions set out as a note under section 795m of Title 29] may be cited as the ‘Handicapped Programs Technical Amendments Act of 1988’.”
 
 **Short Title of 1986 Amendments**
 
-Pub. L. 99–457, § 1(a), Oct. 8, 1986, 100 Stat. 1145, provided that: “This Act [enacting sections 1408, 1461, 1462, and 1471 to 1485 of this title, amending sections 1401, 1406, 1411 to 1413, 1418, 1419, 1421 to 1424, 1424a, 1425, 1427, 1431 to 1433, 1435, 1441, 1443, 1444, 1452, and 1454 of this title, repealing sections 1403 and 1453 of this title, and enacting provisions set out as notes under sections 1419 and 1485 of this title] may be cited as the ‘Education of the Handicapped Act Amendments of 1986’.”
+Pub. L. 99–457, § 1(a), Oct. 8, 1986, 100 Stat. 1145, provided that: “This Act [enacting sections 1408, 1461, 1462, and 1471 to 1485 of this title, amending sections 1401, 1406, 1411 to 1413, 1418, 1419, 1421 to 1424, 1424a, 1425, 1427, 1431 to 1433, 1435, 1441, 1443, 1444, 1452, and 1454 of this title, repealing sections 1403 and 1453 of this title, and enacting provisions set out as notes under sections 1419 and 1485 of this title] may be cited as the ‘Education of the Handicapped Act Amendments of 1986’.”
 
-Pub. L. 99–372, § 1, Aug. 5, 1986, 100 Stat. 796, provided that: “This Act [amending section 1415 of this title and enacting provisions set out as notes under section 1415 of this title] may be cited as the ‘Handicapped Children’s Protection Act of 1986’.”
+Pub. L. 99–372, § 1, Aug. 5, 1986, 100 Stat. 796, provided that: “This Act [amending section 1415 of this title and enacting provisions set out as notes under section 1415 of this title] may be cited as the ‘Handicapped Children’s Protection Act of 1986’.”
 
 **Short Title of 1983 Amendment**
 
-Pub. L. 98–199, § 1, Dec. 2, 1983, 97 Stat. 1357, provided: “That this Act [enacting sections 1407 and 1427 of this title, amending sections 1401 to 1404, 1406, 1411 to 1414, 1416 to 1426, 1431 to 1435, 1441 to 1444, 1452, 1454, and 1461 of this title, repealing section 1461 of this title, omitting section 1436 of this title, enacting a provision set out as a note under section 1401 of this title, and amending provisions set out as notes under sections 101, 681, and 1411 of this title] may be cited as the ‘Education of the Handicapped Act Amendments of 1983’.”
+Pub. L. 98–199, § 1, Dec. 2, 1983, 97 Stat. 1357, provided: “That this Act [enacting sections 1407 and 1427 of this title, amending sections 1401 to 1404, 1406, 1411 to 1414, 1416 to 1426, 1431 to 1435, 1441 to 1444, 1452, 1454, and 1461 of this title, repealing section 1461 of this title, omitting section 1436 of this title, enacting a provision set out as a note under section 1401 of this title, and amending provisions set out as notes under sections 101, 681, and 1411 of this title] may be cited as the ‘Education of the Handicapped Act Amendments of 1983’.”
 
 **Short Title of 1977 Amendment**
 
-Pub. L. 95–49, § 1, June 17, 1977, 91 Stat. 230, provided: “That this Act [amending sections 1426, 1436, 1441, 1444, and 1454 of this title, and enacting provisions set out as a note under section 1426 of this title] may be cited as the ‘Education of the Handicapped Amendments of 1977’.”
+Pub. L. 95–49, § 1, June 17, 1977, 91 Stat. 230, provided: “That this Act [amending sections 1426, 1436, 1441, 1444, and 1454 of this title, and enacting provisions set out as a note under section 1426 of this title] may be cited as the ‘Education of the Handicapped Amendments of 1977’.”
 
 **Short Title of 1975 Amendment**
 
-Pub. L. 94–142, § 1, Nov. 29, 1975, 89 Stat. 773, provided: “That this Act [enacting sections 1405, 1406, 1415, 1416, 1417, 1418, 1419, and 1420 of this title, amending this section and sections 1232, 1401, 1411, 1411 notes, 1412, 1412 note, 1413, 1413 note, 1414, and 1453 of this title, and enacting provisions set out as a note under section 1411 of this title] may be cited as the ‘Education for All Handicapped Children Act of 1975’.”
+Pub. L. 94–142, § 1, Nov. 29, 1975, 89 Stat. 773, provided: “That this Act [enacting sections 1405, 1406, 1415, 1416, 1417, 1418, 1419, and 1420 of this title, amending this section and sections 1232, 1401, 1411, 1411 notes, 1412, 1412 note, 1413, 1413 note, 1414, and 1453 of this title, and enacting provisions set out as a note under section 1411 of this title] may be cited as the ‘Education for All Handicapped Children Act of 1975’.”
 
 **Short Title of 1974 Amendment**
 
-Pub. L. 93–380, title VI, § 611, Aug. 21, 1974, 88 Stat. 579, provided that: “This title [enacting section 1424a of this title, amending sections 1402, 1403, 1411 to 1413, 1426, 1436, 1444, 1452, 1454, and 1461 of this title, and enacting provisions set out as notes under sections 1402 and 1411 to 1413 of this title] may be cited as the ‘Education of the Handicapped Amendments of 1974’.”
+Pub. L. 93–380, title VI, § 611, Aug. 21, 1974, 88 Stat. 579, provided that: “This title [enacting section 1424a of this title, amending sections 1402, 1403, 1411 to 1413, 1426, 1436, 1444, 1452, 1454, and 1461 of this title, and enacting provisions set out as notes under sections 1402 and 1411 to 1413 of this title] may be cited as the ‘Education of the Handicapped Amendments of 1974’.”
 
 **Regulations**
 
-Pub. L. 111–256, § 3, Oct. 5, 2010, 124 Stat. 2645, provided that:
+Pub. L. 111–256, § 3, Oct. 5, 2010, 124 Stat. 2645, provided that:
 
 > “For purposes of regulations issued to carry out a provision amended by this Act [see Short Title of 2010 Amendment note above]—
 
@@ -231,7 +231,7 @@ Pub. L. 111–256, § 3, Oct. 5, 2010, 124 Stat. 2645, provided that:
 
 **Construction of 2010 Amendment**
 
-Pub. L. 111–256, § 4, Oct. 5, 2010, 124 Stat. 2645, provided that:
+Pub. L. 111–256, § 4, Oct. 5, 2010, 124 Stat. 2645, provided that:
 
 > “This Act [see Short Title of 2010 Amendment note above] shall be construed to make amendments to provisions of Federal law to substitute the term ‘an intellectual disability’ for ‘mental retardation’, and ‘individuals with intellectual disabilities’ for ‘the mentally retarded’ or ‘individuals who are mentally retarded’, without any intent to—
 
@@ -241,7 +241,7 @@ Pub. L. 111–256, § 4, Oct. 5, 2010, 124 Stat. 2645, provided that:
 
 **Transition**
 
-Pub. L. 108–446, title III, § 303, Dec. 3, 2004, 118 Stat. 2803, provided that:
+Pub. L. 108–446, title III, § 303, Dec. 3, 2004, 118 Stat. 2803, provided that:
 
 > **“(a) Orderly Transition.—**
 
@@ -255,11 +255,11 @@ Pub. L. 108–446, title III, § 303, Dec. 3, 2004, 118 Stat. 2803, provided t
 
 **References to Education of the Handicapped Act**
 
-Pub. L. 101–476, title IX, § 901(a)(3), Oct. 30, 1990, 104 Stat. 1142, provided that: “Any other Act and any regulation which refers to the Education of the Handicapped Act shall be considered to refer to the Individuals with Disabilities Education Act.”
+Pub. L. 101–476, title IX, § 901(a)(3), Oct. 30, 1990, 104 Stat. 1142, provided that: “Any other Act and any regulation which refers to the Education of the Handicapped Act shall be considered to refer to the Individuals with Disabilities Education Act.”
 
 **Definitions**
 
-Pub. L. 111–256, § 2(k), Oct. 5, 2010, 124 Stat. 2644, provided that:
+Pub. L. 111–256, § 2(k), Oct. 5, 2010, 124 Stat. 2644, provided that:
 
 > “For purposes of each provision amended by this section [amending this section, sections 1140, 1401, and 7512 of this title, sections 705, 764, and 791 of Title 29, Labor, and sections 217a–1, 247b–4, 285g, 285g–2, 291k, 294c, and 300d–52 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 280f, 285g, 300b–1, and 2000ff of Title 42]—
 
@@ -267,7 +267,7 @@ Pub. L. 111–256, § 2(k), Oct. 5, 2010, 124 Stat. 2644, provided that:
 
 > **“(2)** a reference to individuals with intellectual disabilities shall mean individuals who were previously referred to as individuals who are ‘individuals with mental retardation’ or ‘the mentally retarded’, or variations of those terms.”
 
-### § 1401. Definitions
+### § 1401. Definitions
 
 Except as otherwise provided, in this chapter:
 
@@ -309,7 +309,7 @@ The term does not include a medical device that is surgically implanted, or the 
 
 **(ii)** who, by reason thereof, needs special education and related services.
 
-**(4) Repealed. Pub. L. 114–95, title IX, § 9215(ss)(1)(A), Dec. 10, 2015, 129 Stat. 2181**
+**(4) Repealed. Pub. L. 114–95, title IX, § 9215(ss)(1)(A), Dec. 10, 2015, 129 Stat. 2181**
 
 **(5) Educational service agency** The term “educational service agency”—
 
@@ -353,7 +353,7 @@ The term “elementary school” means a nonprofit institutional day or resident
 
 **(D)** are provided in conformity with the individualized education program required under section 1414(d) of this title.
 
-**(10) Repealed. Pub. L. 114–95, title IX, § 9214(d)(1), Dec. 10, 2015, 129 Stat. 2164**
+**(10) Repealed. Pub. L. 114–95, title IX, § 9214(d)(1), Dec. 10, 2015, 129 Stat. 2164**
 
 **(11) Homeless children**
 
@@ -507,37 +507,37 @@ The term “ward of the State” means a child who, as determined by the State w
 
 The term does not include a foster child who has a foster parent who meets the definition of a parent in paragraph (23).
 
-(Pub. L. 91–230, title VI, § 602, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2652; amended Pub. L. 110–315, title IX, § 941(k)(2)(C), Aug. 14, 2008, 122 Stat. 3466; Pub. L. 111–256, § 2(b)(2), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 114–95, title IX, §§ 9214(d)(1), 9215(ss)(1), Dec. 10, 2015, 129 Stat. 2164, 2181.)
+(Pub. L. 91–230, title VI, § 602, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2652; amended Pub. L. 110–315, title IX, § 941(k)(2)(C), Aug. 14, 2008, 122 Stat. 3466; Pub. L. 111–256, § 2(b)(2), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 114–95, title IX, §§ 9214(d)(1), 9215(ss)(1), Dec. 10, 2015, 129 Stat. 2164, 2181.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in par. (8)(A)(ii), (iii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of this title. Part A of title III of the Act is classified generally to part A (§ 6811 et seq.) of subchapter III of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in par. (8)(A)(ii), (iii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of this title. Part A of title III of the Act is classified generally to part A (§ 6811 et seq.) of subchapter III of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in par. (17)(B), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§ 1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in par. (17)(B), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§ 1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
 **Prior Provisions**
 
-A prior section 1401, Pub. L. 91–230, title VI, § 602, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 42; amended Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828, related to definitions of terms used in this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1401, Pub. L. 91–230, title VI, § 602, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 42; amended Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828, related to definitions of terms used in this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1401, Pub. L. 91–230, title VI, § 602, Apr. 13, 1970, 84 Stat. 175; Pub. L. 94–142, § 4(a), Nov. 29, 1975, 89 Stat. 775; Pub. L. 98–199, §§ 2, 3(b), Dec. 2, 1983, 97 Stat. 1357, 1358; Pub. L. 99–457, title IV, § 402, Oct. 8, 1986, 100 Stat. 1172; Pub. L. 100–630, title I, § 101(a), Nov. 7, 1988, 102 Stat. 3289; Pub. L. 101–476, title I, § 101, title IX, § 901(b)(10)–(20), Oct. 30, 1990, 104 Stat. 1103, 1142, 1143; Pub. L. 102–73, title VIII, § 802(d)(1), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§ 3, 25(a)(1), (b), Oct. 7, 1991, 105 Stat. 587, 605, 607; Pub. L. 103–382, title III, § 391(f)(1), Oct. 20, 1994, 108 Stat. 4023, related to definitions of terms used in this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1401, Pub. L. 91–230, title VI, § 602, Apr. 13, 1970, 84 Stat. 175; Pub. L. 94–142, § 4(a), Nov. 29, 1975, 89 Stat. 775; Pub. L. 98–199, §§ 2, 3(b), Dec. 2, 1983, 97 Stat. 1357, 1358; Pub. L. 99–457, title IV, § 402, Oct. 8, 1986, 100 Stat. 1172; Pub. L. 100–630, title I, § 101(a), Nov. 7, 1988, 102 Stat. 3289; Pub. L. 101–476, title I, § 101, title IX, § 901(b)(10)–(20), Oct. 30, 1990, 104 Stat. 1103, 1142, 1143; Pub. L. 102–73, title VIII, § 802(d)(1), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§ 3, 25(a)(1), (b), Oct. 7, 1991, 105 Stat. 587, 605, 607; Pub. L. 103–382, title III, § 391(f)(1), Oct. 20, 1994, 108 Stat. 4023, related to definitions of terms used in this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 **Amendments**
 
-2015—Par. (4). Pub. L. 114–95, § 9215(ss)(1)(A), struck out par. (4). Text read as follows: “The term ‘core academic subjects’ has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965.”
+2015—Par. (4). Pub. L. 114–95, § 9215(ss)(1)(A), struck out par. (4). Text read as follows: “The term ‘core academic subjects’ has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965.”
 
-Par. (8)(A)(iii). Pub. L. 114–95, § 9215(ss)(1)(B), which directed substitution of “under part A of title III of that Act” for “under parts A and B of title III of that Act” in “paragraph (8)(a)(3)”, was executed to par. (8)(A)(iii) to reflect the probable intent of Congress.
+Par. (8)(A)(iii). Pub. L. 114–95, § 9215(ss)(1)(B), which directed substitution of “under part A of title III of that Act” for “under parts A and B of title III of that Act” in “paragraph (8)(a)(3)”, was executed to par. (8)(A)(iii) to reflect the probable intent of Congress.
 
-Par. (10). Pub. L. 114–95, § 9214(d)(1), struck out par. (10) which related to definition of highly qualified.
+Par. (10). Pub. L. 114–95, § 9214(d)(1), struck out par. (10) which related to definition of highly qualified.
 
-Par. (18). Pub. L. 114–95, § 9215(ss)(1)(C), added par. (18) and struck out former par. (18). Prior to amendment, text read as follows: “The term ‘limited English proficient’ has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965.”
+Par. (18). Pub. L. 114–95, § 9215(ss)(1)(C), added par. (18) and struck out former par. (18). Prior to amendment, text read as follows: “The term ‘limited English proficient’ has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965.”
 
-2010—Par. (3)(A)(i). Pub. L. 111–256, § 2(b)(2)(A), substituted “with intellectual disabilities” for “with mental retardation”.
+2010—Par. (3)(A)(i). Pub. L. 111–256, § 2(b)(2)(A), substituted “with intellectual disabilities” for “with mental retardation”.
 
-Par. (30)(C). Pub. L. 111–256, § 2(b)(2)(B), substituted “of intellectual disabilities” for “of mental retardation”.
+Par. (30)(C). Pub. L. 111–256, § 2(b)(2)(B), substituted “of intellectual disabilities” for “of mental retardation”.
 
 2008—Par. (17)(B). Pub. L. 110–315 substituted “college or university” for “community college” and “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
@@ -555,7 +555,7 @@ Section effective July 1, 2005, see section 302(a) of Pub. L. 108–446, set out
 
 For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of this title.
 
-### § 1402. Office of Special Education Programs
+### § 1402. Office of Special Education Programs
 
 **(a) Establishment**
 
@@ -569,17 +569,17 @@ The Office established under subsection (a) shall be headed by a Director who sh
 
 Notwithstanding section 1342 of title 31, the Secretary is authorized to accept voluntary and uncompensated services in furtherance of the purposes of this chapter.
 
-(Pub. L. 91–230, title VI, § 603, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2659.)
+(Pub. L. 91–230, title VI, § 603, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2659.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1402, Pub. L. 91–230, title VI, § 603, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 46, related to the Office of Special Education Programs, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1402, Pub. L. 91–230, title VI, § 603, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 46, related to the Office of Special Education Programs, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1402, Pub. L. 91–230, title VI, § 603, Apr. 13, 1970, 84 Stat. 177; Pub. L. 93–380, title VI, § 612(a), Aug. 21, 1974, 88 Stat. 579; Pub. L. 98–199, § 3(a), Dec. 2, 1983, 97 Stat. 1357; Pub. L. 101–476, title IX, § 901(b)(21), Oct. 30, 1990, 104 Stat. 1143; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to the Office of Special Education Programs, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1402, Pub. L. 91–230, title VI, § 603, Apr. 13, 1970, 84 Stat. 177; Pub. L. 93–380, title VI, § 612(a), Aug. 21, 1974, 88 Stat. 579; Pub. L. 98–199, § 3(a), Dec. 2, 1983, 97 Stat. 1357; Pub. L. 101–476, title IX, § 901(b)(21), Oct. 30, 1990, 104 Stat. 1143; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to the Office of Special Education Programs, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-### § 1403. Abrogation of State sovereign immunity
+### § 1403. Abrogation of State sovereign immunity
 
 **(a) In general**
 
@@ -593,19 +593,19 @@ In a suit against a State for a violation of this chapter, remedies (including r
 
 Subsections (a) and (b) apply with respect to violations that occur in whole or part after October 30, 1990.
 
-(Pub. L. 91–230, title VI, § 604, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2659.)
+(Pub. L. 91–230, title VI, § 604, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2659.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1403, Pub. L. 91–230, title VI, § 604, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 47, related to abrogation of State sovereign immunity, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1403, Pub. L. 91–230, title VI, § 604, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 47, related to abrogation of State sovereign immunity, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1403, Pub. L. 91–230, title VI, § 604, as added Pub. L. 101–476, title I, § 103, Oct. 30, 1990, 104 Stat. 1106, related to abrogation of State sovereign immunity, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1403, Pub. L. 91–230, title VI, § 604, as added Pub. L. 101–476, title I, § 103, Oct. 30, 1990, 104 Stat. 1106, related to abrogation of State sovereign immunity, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-Another prior section 1403, Pub. L. 91–230, title VI, § 604, Apr. 13, 1970, 84 Stat. 177; Pub. L. 93–380, title VI, § 613, Aug. 21, 1974, 88 Stat. 580; Pub. L. 94–273, §§ 3(14), 13(2), Apr. 21, 1976, 90 Stat. 376, 378; Pub. L. 98–199, § 4, Dec. 2, 1983, 97 Stat. 1358, established the National Advisory Committee on the Education of Handicapped Children and Youth, prior to repeal by Pub. L. 99–457, title IV, § 407, Oct. 8, 1986, 100 Stat. 1177.
+Another prior section 1403, Pub. L. 91–230, title VI, § 604, Apr. 13, 1970, 84 Stat. 177; Pub. L. 93–380, title VI, § 613, Aug. 21, 1974, 88 Stat. 580; Pub. L. 94–273, §§ 3(14), 13(2), Apr. 21, 1976, 90 Stat. 376, 378; Pub. L. 98–199, § 4, Dec. 2, 1983, 97 Stat. 1358, established the National Advisory Committee on the Education of Handicapped Children and Youth, prior to repeal by Pub. L. 99–457, title IV, § 407, Oct. 8, 1986, 100 Stat. 1177.
 
-### § 1404. Acquisition of equipment; construction or alteration of facilities
+### § 1404. Acquisition of equipment; construction or alteration of facilities
 
 **(a) In general**
 
@@ -617,31 +617,31 @@ If the Secretary determines that a program authorized under this chapter will be
 
 **(2)** appendix A of subpart 101–19.6 of title 41, Code of Federal Regulations (commonly known as the “Uniform Federal Accessibility Standards”).
 
-(Pub. L. 91–230, title VI, § 605, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2659.)
+(Pub. L. 91–230, title VI, § 605, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2659.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1404, Pub. L. 91–230, title VI, § 605, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 47, related to the acquisition of equipment and construction or alteration of facilities, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1404, Pub. L. 91–230, title VI, § 605, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 47, related to the acquisition of equipment and construction or alteration of facilities, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1404, Pub. L. 91–230, title VI, § 605, Apr. 13, 1970, 84 Stat. 177; Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, § 101(b), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 102–119, § 25(a)(2), Oct. 7, 1991, 105 Stat. 605, related to acquisition of equipment and construction of necessary facilities, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1404, Pub. L. 91–230, title VI, § 605, Apr. 13, 1970, 84 Stat. 177; Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, § 101(b), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 102–119, § 25(a)(2), Oct. 7, 1991, 105 Stat. 605, related to acquisition of equipment and construction of necessary facilities, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-### § 1405. Employment of individuals with disabilities
+### § 1405. Employment of individuals with disabilities
 
 The Secretary shall ensure that each recipient of assistance under this chapter makes positive efforts to employ and advance in employment qualified individuals with disabilities in programs assisted under this chapter.
 
-(Pub. L. 91–230, title VI, § 606, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2659.)
+(Pub. L. 91–230, title VI, § 606, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2659.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1405, Pub. L. 91–230, title VI, § 606, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 47, related to employment of individuals with disabilities by recipients of assistance under this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1405, Pub. L. 91–230, title VI, § 606, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 47, related to employment of individuals with disabilities by recipients of assistance under this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1405, Pub. L. 91–230, title VI, § 606, as added Pub. L. 94–142, § 6(a), Nov. 29, 1975, 89 Stat. 795; amended Pub. L. 101–476, title IX, § 901(b)(22), (23), Oct. 30, 1990, 104 Stat. 1143; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to employment of individuals with disabilities by recipients of assistance under this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1405, Pub. L. 91–230, title VI, § 606, as added Pub. L. 94–142, § 6(a), Nov. 29, 1975, 89 Stat. 795; amended Pub. L. 101–476, title IX, § 901(b)(22), (23), Oct. 30, 1990, 104 Stat. 1143; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to employment of individuals with disabilities by recipients of assistance under this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-### § 1406. Requirements for prescribing regulations
+### § 1406. Requirements for prescribing regulations
 
 **(a) In general**
 
@@ -683,17 +683,17 @@ The Secretary shall, on a quarterly basis, publish in the Federal Register, and 
 
 **(B)** ensure that all such correspondence is issued, where applicable, in compliance with the requirements of section 553 of title 5.
 
-(Pub. L. 91–230, title VI, § 607, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2659.)
+(Pub. L. 91–230, title VI, § 607, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2659.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1406, Pub. L. 91–230, title VI, § 607, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 47, related to requirements for prescribing regulations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1406, Pub. L. 91–230, title VI, § 607, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 47, related to requirements for prescribing regulations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another section 1406, Pub. L. 91–230, title VI, § 607, as added Pub. L. 94–142, § 6(a), Nov. 29, 1975, 89 Stat. 795; amended Pub. L. 98–199, §§ 3(b), 5, Dec. 2, 1983, 97 Stat. 1358; Pub. L. 99–457, title IV, § 401, Oct. 8, 1986, 100 Stat. 1172; Pub. L. 100–630, title I, § 101(c), Nov. 7, 1988, 102 Stat. 3290, related to grants for removal of architectural barriers, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another section 1406, Pub. L. 91–230, title VI, § 607, as added Pub. L. 94–142, § 6(a), Nov. 29, 1975, 89 Stat. 795; amended Pub. L. 98–199, §§ 3(b), 5, Dec. 2, 1983, 97 Stat. 1358; Pub. L. 99–457, title IV, § 401, Oct. 8, 1986, 100 Stat. 1172; Pub. L. 100–630, title I, § 101(c), Nov. 7, 1988, 102 Stat. 3290, related to grants for removal of architectural barriers, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-### § 1407. State administration
+### § 1407. State administration
 
 **(a) Rulemaking** Each State that receives funds under this chapter shall—
 
@@ -707,15 +707,15 @@ Another section 1406, Pub. L. 91–230, title VI, § 607, as added Pub. L. 94�
 
 State rules, regulations, and policies under this chapter shall support and facilitate local educational agency and school-level system improvement designed to enable children with disabilities to meet the challenging State student academic achievement standards.
 
-(Pub. L. 91–230, title VI, § 608, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2661.)
+(Pub. L. 91–230, title VI, § 608, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2661.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1407, Pub. L. 91–230, title VI, § 608, as added Pub. L. 98–199, § 6, Dec. 2, 1983, 97 Stat. 1359; amended Pub. L. 100–630, title I, § 101(d), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title IX, § 901(b)(24), Oct. 30, 1990, 104 Stat. 1143; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to regulation requirements, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1407, Pub. L. 91–230, title VI, § 608, as added Pub. L. 98–199, § 6, Dec. 2, 1983, 97 Stat. 1359; amended Pub. L. 100–630, title I, § 101(d), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title IX, § 901(b)(24), Oct. 30, 1990, 104 Stat. 1143; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to regulation requirements, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-### § 1408. Paperwork reduction
+### § 1408. Paperwork reduction
 
 **(a) Pilot program**
 
@@ -775,29 +775,29 @@ A State desiring to participate in the program under this section shall submit a
 
 **(5)** ensuring satisfaction of family members.
 
-(Pub. L. 91–230, title VI, § 609, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2661.)
+(Pub. L. 91–230, title VI, § 609, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2661.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1408, Pub. L. 91–230, title VI, § 609, as added Pub. L. 99–457, title II, § 202, Oct. 8, 1986, 100 Stat. 1158, related to eligibility for financial assistance, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1408, Pub. L. 91–230, title VI, § 609, as added Pub. L. 99–457, title II, § 202, Oct. 8, 1986, 100 Stat. 1158, related to eligibility for financial assistance, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-### § 1409. Freely associated States
+### § 1409. Freely associated States
 
 The Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau shall continue to be eligible for competitive grants administered by the Secretary under this chapter to the extent that such grants continue to be available to States and local educational agencies under this chapter.
 
-(Pub. L. 91–230, title VI, § 610, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2662.)
+(Pub. L. 91–230, title VI, § 610, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2662.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1409, Pub. L. 91–230, title VI, § 610, as added Pub. L. 101–476, title I, § 104, Oct. 30, 1990, 104 Stat. 1106, provided administrative provisions applicable to former subchapters III to VII of this chapter and former section 1418 of this title, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1409, Pub. L. 91–230, title VI, § 610, as added Pub. L. 101–476, title I, § 104, Oct. 30, 1990, 104 Stat. 1106, provided administrative provisions applicable to former subchapters III to VII of this chapter and former section 1418 of this title, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 ## SUBCHAPTER II—ASSISTANCE FOR EDUCATION OF ALL CHILDREN WITH DISABILITIES
 
-### § 1411. Authorization; allotment; use of funds; authorization of appropriations
+### § 1411. Authorization; allotment; use of funds; authorization of appropriations
 
 **(a) Grants to States**
 
@@ -1273,7 +1273,7 @@ The Secretary of the Interior shall make available to the Secretary of Education
 
 **(8)** such sums as may be necessary for fiscal year 2012 and each succeeding fiscal year.
 
-(Pub. L. 91–230, title VI, § 611, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2662; amended Pub. L. 114–95, title IX, § 9215(ss)(2), Dec. 10, 2015, 129 Stat. 2181; Pub. L. 118–42, div. G, title II, § 209(b)(3), Mar. 9, 2024, 138 Stat. 442.)
+(Pub. L. 91–230, title VI, § 611, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2662; amended Pub. L. 114–95, title IX, § 9215(ss)(2), Dec. 10, 2015, 129 Stat. 2181; Pub. L. 118–42, div. G, title II, § 209(b)(3), Mar. 9, 2024, 138 Stat. 442.)
 
 **Editorial Notes**
 
@@ -1281,23 +1281,23 @@ The Secretary of the Interior shall make available to the Secretary of Education
 
 Public Law 95–134, referred to in subsec. (b)(1)(B), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
 
-The Social Security Act, referred to in subsec. (e)(3)(H), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (e)(3)(H), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 1411, Pub. L. 91–230, title VI, § 611, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 49, related to authorization, allotment, use of funds, and authorization of appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1411, Pub. L. 91–230, title VI, § 611, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 49, related to authorization, allotment, use of funds, and authorization of appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1411, Pub. L. 91–230, title VI, § 611, Apr. 13, 1970, 84 Stat. 178; Pub. L. 93–380, title VI, § 614(a), (e)(1), (2), Aug. 21, 1974, 88 Stat. 580, 582; Pub. L. 94–142, §§ 2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, 89 Stat. 773, 776, 794; Pub. L. 95–561, title XIII, § 1341(a), Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–270, § 13, June 14, 1980, 94 Stat. 498; Pub. L. 98–199, §§ 3(b), 15, Dec. 2, 1983, 97 Stat. 1358, 1374; Pub. L. 99–159, title VI, § 601, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–362, § 2, July 9, 1986, 100 Stat. 769; Pub. L. 99–457, title II, § 201(b), title IV, §§ 403, 404, Oct. 8, 1986, 100 Stat. 1158, 1173; Pub. L. 100–630, title I, § 102(a), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title II, § 201, title IX, § 901(b)(25)–(32), Oct. 30, 1990, 104 Stat. 1111, 1143; Pub. L. 102–73, title VIII, § 802(d)(2), (3), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§ 4, 25(a)(4), (19), (b), Oct. 7, 1991, 105 Stat. 587, 606, 607; Pub. L. 103–382, title III, § 311, Oct. 20, 1994, 108 Stat. 3931, related to entitlements and allocations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1411, Pub. L. 91–230, title VI, § 611, Apr. 13, 1970, 84 Stat. 178; Pub. L. 93–380, title VI, § 614(a), (e)(1), (2), Aug. 21, 1974, 88 Stat. 580, 582; Pub. L. 94–142, §§ 2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, 89 Stat. 773, 776, 794; Pub. L. 95–561, title XIII, § 1341(a), Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–270, § 13, June 14, 1980, 94 Stat. 498; Pub. L. 98–199, §§ 3(b), 15, Dec. 2, 1983, 97 Stat. 1358, 1374; Pub. L. 99–159, title VI, § 601, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–362, § 2, July 9, 1986, 100 Stat. 769; Pub. L. 99–457, title II, § 201(b), title IV, §§ 403, 404, Oct. 8, 1986, 100 Stat. 1158, 1173; Pub. L. 100–630, title I, § 102(a), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title II, § 201, title IX, § 901(b)(25)–(32), Oct. 30, 1990, 104 Stat. 1111, 1143; Pub. L. 102–73, title VIII, § 802(d)(2), (3), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§ 4, 25(a)(4), (19), (b), Oct. 7, 1991, 105 Stat. 587, 606, 607; Pub. L. 103–382, title III, § 311, Oct. 20, 1994, 108 Stat. 3931, related to entitlements and allocations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 **Amendments**
 
 2024—Subsec. (b)(1)(A). Pub. L. 118–42 added subpar. (A) and struck out former subpar. (A) which related to reserving appropriated funds to provide assistance to outlying areas and grants to freely associated States.
 
-2015—Subsec. (e)(2)(C)(x). Pub. L. 114–95, § 9215(ss)(2)(A)(i), substituted “6361 of this title” for “7301 of this title”.
+2015—Subsec. (e)(2)(C)(x). Pub. L. 114–95, § 9215(ss)(2)(A)(i), substituted “6361 of this title” for “7301 of this title”.
 
-Subsec. (e)(2)(C)(xi). Pub. L. 114–95, § 9215(ss)(2)(A)(ii), substituted “including direct student services described in section 6303b(c)(3) of this title to children with disabilities, to schools or local educational agencies implementing comprehensive support and improvement activities or targeted support and improvement activities under section 6311(d) of this title on the basis of consistent underperformance of the disaggregated subgroup of children with disabilities” for “including supplemental educational services as defined in 6316(e) of this title to children with disabilities, in schools or local educational agencies identified for improvement under section 6316 of this title on the sole basis of the assessment results of the disaggregated subgroup of children with disabilities” and “based on the challenging academic standards described in section 6311(b)(1) of this title” for “to meet or exceed the objectives established by the State under section 6311(b)(2)(G) of this title”.
+Subsec. (e)(2)(C)(xi). Pub. L. 114–95, § 9215(ss)(2)(A)(ii), substituted “including direct student services described in section 6303b(c)(3) of this title to children with disabilities, to schools or local educational agencies implementing comprehensive support and improvement activities or targeted support and improvement activities under section 6311(d) of this title on the basis of consistent underperformance of the disaggregated subgroup of children with disabilities” for “including supplemental educational services as defined in 6316(e) of this title to children with disabilities, in schools or local educational agencies identified for improvement under section 6316 of this title on the sole basis of the assessment results of the disaggregated subgroup of children with disabilities” and “based on the challenging academic standards described in section 6311(b)(1) of this title” for “to meet or exceed the objectives established by the State under section 6311(b)(2)(G) of this title”.
 
-Subsec. (e)(3)(C)(ii)(I)(bb). Pub. L. 114–95, § 9215(ss)(2)(B), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
+Subsec. (e)(3)(C)(ii)(I)(bb). Pub. L. 114–95, § 9215(ss)(2)(B), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1343,7 +1343,7 @@ Pub. L. 113–235, div. G, title III, Dec. 16, 2014, 128 Stat. 2499.
 
 Pub. L. 113–76, div. H, title III, Jan. 17, 2014, 128 Stat. 394.
 
-### § 1412. State eligibility
+### § 1412. State eligibility
 
 **(a) In general** A State is eligible for assistance under this subchapter for a fiscal year if the State submits a plan that provides assurances to the Secretary that the State has in effect policies and procedures to ensure that the State meets each of the following conditions:
 
@@ -1631,9 +1631,9 @@ The State educational agency has established and maintains qualifications to ens
 
 **(C) Qualifications for special education teachers** The qualifications described in subparagraph (A) shall ensure that each person employed as a special education teacher in the State who teaches elementary school, middle school, or secondary school—
 
-**(i)** has obtained full State certification as a special education teacher (including participating in an alternate route to certification as a special educator, if such alternate route meets minimum requirements described in section 2005.56(a)(2)(ii) 1
+**(i)** has obtained full State certification as a special education teacher (including participating in an alternate route to certification as a special educator, if such alternate route meets minimum requirements described in section 2005.56(a)(2)(ii) 1
 
-<sup>1</sup>  So in original. Probably should be “200.56(a)(2)(ii)”.
+<sup>1</sup> So in original. Probably should be “200.56(a)(2)(ii)”.
 
 of title 34, Code of Federal Regulations, as such section was in effect on November 28, 2008), or passed the State special education teacher licensing examination, and holds a license to teach in the State as a special education teacher, except with respect to any teacher teaching in a public charter school who shall meet the requirements set forth in the State’s public charter school law;
 
@@ -1641,7 +1641,7 @@ of title 34, Code of Federal Regulations, as such section was in effect on Novem
 
 **(iii)** holds at least a bachelor’s degree..2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 **(D) Policy**
 
@@ -1931,41 +1931,41 @@ The findings of fact by the Secretary, if supported by substantial evidence, sha
 
 Upon the filing of a petition under subparagraph (B), the United States court of appeals shall have jurisdiction to affirm the action of the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
-(Pub. L. 91–230, title VI, § 612, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2676; amended Pub. L. 114–95, title IX, §§ 9214(d)(2), 9215(ss)(3), Dec. 10, 2015, 129 Stat. 2164, 2182.)
+(Pub. L. 91–230, title VI, § 612, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2676; amended Pub. L. 114–95, title IX, §§ 9214(d)(2), 9215(ss)(3), Dec. 10, 2015, 129 Stat. 2164, 2182.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(11)(A)(iii), (21)(B)(v), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title VII of the Act is classified generally to part B (§ 11431 et seq.) of subchapter VI of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(11)(A)(iii), (21)(B)(v), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title VII of the Act is classified generally to part B (§ 11431 et seq.) of subchapter VI of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
-The Controlled Substances Act, referred to in subsec. (a)(25)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (a)(25)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 For the effective date of the Individuals with Disabilities Education Improvement Act of 2004, referred to in subsec. (c)(1), (3), see section 302(a), (b) of Pub. L. 108–446, set out as an Effective Date note under section 1400 of this title.
 
-The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XIX of the Act are classified generally to subchapters V (§ 701 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XIX of the Act are classified generally to subchapters V (§ 701 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 1412, Pub. L. 91–230, title VI, § 612, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 60, related to State eligibility for assistance, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1412, Pub. L. 91–230, title VI, § 612, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 60, related to State eligibility for assistance, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1412, Pub. L. 91–230, title VI, § 612, Apr. 13, 1970, 84 Stat. 178; Pub. L. 92–318, title IV, § 421(b)(1)(C), June 23, 1972, 86 Stat. 341; Pub. L. 93–380, title VI, §§ 614(b), (f)(1), 615(a), title VIII, § 843(b), Aug. 21, 1974, 88 Stat. 581, 582, 611; Pub. L. 94–142, §§ 2(a)(4), (c), (d), 5(a), Nov. 29, 1975, 89 Stat. 773, 774, 780; Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 99–457, title II, § 203(a), Oct. 8, 1986, 100 Stat. 1158; Pub. L. 100–630, title I, § 102(b), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title IX, § 901(b)(33)–(46), (c), Oct. 30, 1990, 104 Stat. 1143, 1144, 1151; Pub. L. 102–119, § 25(a)(5), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to eligibility requirements, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1412, Pub. L. 91–230, title VI, § 612, Apr. 13, 1970, 84 Stat. 178; Pub. L. 92–318, title IV, § 421(b)(1)(C), June 23, 1972, 86 Stat. 341; Pub. L. 93–380, title VI, §§ 614(b), (f)(1), 615(a), title VIII, § 843(b), Aug. 21, 1974, 88 Stat. 581, 582, 611; Pub. L. 94–142, §§ 2(a)(4), (c), (d), 5(a), Nov. 29, 1975, 89 Stat. 773, 774, 780; Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 99–457, title II, § 203(a), Oct. 8, 1986, 100 Stat. 1158; Pub. L. 100–630, title I, § 102(b), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title IX, § 901(b)(33)–(46), (c), Oct. 30, 1990, 104 Stat. 1143, 1144, 1151; Pub. L. 102–119, § 25(a)(5), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to eligibility requirements, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 **Amendments**
 
-2015—Subsec. (a)(14)(C). Pub. L. 114–95, § 9214(d)(2)(A), substituted “secondary school—” for “secondary school is highly qualified by the deadline established in section 6319(a)(2) of this title” and added cls. (i) to (iii).
+2015—Subsec. (a)(14)(C). Pub. L. 114–95, § 9214(d)(2)(A), substituted “secondary school—” for “secondary school is highly qualified by the deadline established in section 6319(a)(2) of this title” and added cls. (i) to (iii).
 
-Subsec. (a)(14)(D). Pub. L. 114–95, § 9214(d)(2)(B), substituted “personnel who meet the applicable requirements described in this paragraph” for “highly qualified personnel”.
+Subsec. (a)(14)(D). Pub. L. 114–95, § 9214(d)(2)(B), substituted “personnel who meet the applicable requirements described in this paragraph” for “highly qualified personnel”.
 
-Subsec. (a)(14)(E). Pub. L. 114–95, § 9214(d)(2)(C), substituted “staff person to meet the applicable requirements described in this paragraph” for “staff person to be highly qualified”.
+Subsec. (a)(14)(E). Pub. L. 114–95, § 9214(d)(2)(C), substituted “staff person to meet the applicable requirements described in this paragraph” for “staff person to be highly qualified”.
 
-Subsec. (a)(15)(A)(ii). Pub. L. 114–95, § 9215(ss)(3)(A)(i), added cl. (ii) and struck out former cl. (ii) which read as follows: “are the same as the State’s definition of adequate yearly progress, including the State’s objectives for progress by children with disabilities, under section 6311(b)(2)(C) of this title;”.
+Subsec. (a)(15)(A)(ii). Pub. L. 114–95, § 9215(ss)(3)(A)(i), added cl. (ii) and struck out former cl. (ii) which read as follows: “are the same as the State’s definition of adequate yearly progress, including the State’s objectives for progress by children with disabilities, under section 6311(b)(2)(C) of this title;”.
 
-Subsec. (a)(15)(B). Pub. L. 114–95, § 9215(ss)(3)(A)(ii), which directed substitution of “including measurements of interim progress for children with disabilities under section 6311(c)(4)(A)(i)” for “including measurable annual objectives for progress by children with disabilities under section 6311(b)(2)(C)(v)(II)”, was executed by making the substitution for “including measurable annual objectives for progress by children with disabilities under section 6311(b)(2)(C)(v)(II)(cc)”, to reflect the probable intent of Congress.
+Subsec. (a)(15)(B). Pub. L. 114–95, § 9215(ss)(3)(A)(ii), which directed substitution of “including measurements of interim progress for children with disabilities under section 6311(c)(4)(A)(i)” for “including measurable annual objectives for progress by children with disabilities under section 6311(b)(2)(C)(v)(II)”, was executed by making the substitution for “including measurable annual objectives for progress by children with disabilities under section 6311(b)(2)(C)(v)(II)(cc)”, to reflect the probable intent of Congress.
 
-Subsec. (a)(16)(C)(ii)(I). Pub. L. 114–95, § 9215(ss)(3)(B)(i), substituted “challenging State academic content standards under section 6311(b)(1) of this title and alternate academic achievement standards under section 6311(b)(1)(E) of this title” for “State’s challenging academic content standards and challenging student academic achievement standards”.
+Subsec. (a)(16)(C)(ii)(I). Pub. L. 114–95, § 9215(ss)(3)(B)(i), substituted “challenging State academic content standards under section 6311(b)(1) of this title and alternate academic achievement standards under section 6311(b)(1)(E) of this title” for “State’s challenging academic content standards and challenging student academic achievement standards”.
 
-Subsec. (a)(16)(C)(ii)(II). Pub. L. 114–95, § 9215(ss)(3)(B)(ii), substituted “section 6311(b)(1)(E) of this title,” for “the regulations promulgated to carry out section 6311(b)(1) of this title,”.
+Subsec. (a)(16)(C)(ii)(II). Pub. L. 114–95, § 9215(ss)(3)(B)(ii), substituted “section 6311(b)(1)(E) of this title,” for “the regulations promulgated to carry out section 6311(b)(1) of this title,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1973,7 +1973,7 @@ Subsec. (a)(16)(C)(ii)(II). Pub. L. 114–95, § 9215(ss)(3)(B)(ii), substitut
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-### § 1413. Local educational agency eligibility
+### § 1413. Local educational agency eligibility
 
 **(a) In general** A local educational agency is eligible for assistance under this subchapter for a fiscal year if such agency submits a plan that provides assurances to the State educational agency that the local educational agency meets each of the following conditions:
 
@@ -2231,21 +2231,21 @@ For each fiscal year for which a State educational agency exercises the authorit
 
 Notwithstanding paragraph (1), a State educational agency may not reduce the level of expenditures described in paragraph (1) if any local educational agency in the State would, as a result of such reduction, receive less than 100 percent of the amount necessary to ensure that all children with disabilities served by the local educational agency receive a free appropriate public education from the combination of Federal funds received under this chapter and State funds received from the State educational agency.
 
-(Pub. L. 91–230, title VI, § 613, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2694; amended Pub. L. 114–95, title IX, § 9215(ss)(4), Dec. 10, 2015, 129 Stat. 2182.)
+(Pub. L. 91–230, title VI, § 613, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2694; amended Pub. L. 114–95, title IX, § 9215(ss)(4), Dec. 10, 2015, 129 Stat. 2182.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(2)(C)(ii), (f)(5), and (j)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(2)(C)(ii), (f)(5), and (j)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 For the effective date of the Individuals with Disabilities Education Improvement Act of 2004, referred to in subsec. (b)(1), (3), see section 302(a), (b) of Pub. L. 108–446, set out as an Effective Date note under section 1400 of this title.
 
 **Prior Provisions**
 
-A prior section 1413, Pub. L. 91–230, title VI, § 613, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 73; amended Pub. L. 107–110, title X, § 1076(i), Jan. 8, 2002, 115 Stat. 2091, related to local educational agency eligibility, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1413, Pub. L. 91–230, title VI, § 613, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 73; amended Pub. L. 107–110, title X, § 1076(i), Jan. 8, 2002, 115 Stat. 2091, related to local educational agency eligibility, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1413, Pub. L. 91–230, title VI, § 613, Apr. 13, 1970, 84 Stat. 179; Pub. L. 93–380, title VI, §§ 614(c), (d), 615(b), (c), title VIII, § 843(b)(2), Aug. 21, 1974, 88 Stat. 581, 583, 611; Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 782; Pub. L. 98–199, §§ 3(b), 7, Dec. 2, 1983, 97 Stat. 1358, 1359; Pub. L. 99–457, title II, § 203(b), title IV, § 405, Oct. 8, 1986, 100 Stat. 1159, 1174; Pub. L. 100–630, title I, § 102(c), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title II, § 202, title IX, § 901(b)(47)–(58), Oct. 30, 1990, 104 Stat. 1111, 1144; Pub. L. 102–119, §§ 5, 25(a)(6), (b), Oct. 7, 1991, 105 Stat. 591, 606, 607; Pub. L. 103–382, title III, § 391(f)(2), Oct. 20, 1994, 108 Stat. 4023, related to requisite features of a State plan, approval of State plan by Secretary, and participation of children with disabilities enrolled in private schools, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1413, Pub. L. 91–230, title VI, § 613, Apr. 13, 1970, 84 Stat. 179; Pub. L. 93–380, title VI, §§ 614(c), (d), 615(b), (c), title VIII, § 843(b)(2), Aug. 21, 1974, 88 Stat. 581, 583, 611; Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 782; Pub. L. 98–199, §§ 3(b), 7, Dec. 2, 1983, 97 Stat. 1358, 1359; Pub. L. 99–457, title II, § 203(b), title IV, § 405, Oct. 8, 1986, 100 Stat. 1159, 1174; Pub. L. 100–630, title I, § 102(c), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title II, § 202, title IX, § 901(b)(47)–(58), Oct. 30, 1990, 104 Stat. 1111, 1144; Pub. L. 102–119, §§ 5, 25(a)(6), (b), Oct. 7, 1991, 105 Stat. 591, 606, 607; Pub. L. 103–382, title III, § 391(f)(2), Oct. 20, 1994, 108 Stat. 4023, related to requisite features of a State plan, approval of State plan by Secretary, and participation of children with disabilities enrolled in private schools, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 **Amendments**
 
@@ -2257,7 +2257,7 @@ Another prior section 1413, Pub. L. 91–230, title VI, § 613, Apr. 13, 1970,
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-### § 1414. Evaluations, eligibility determinations, individualized education programs, and educational placements
+### § 1414. Evaluations, eligibility determinations, individualized education programs, and educational placements
 
 **(a) Evaluations, parental consent, and reevaluations**
 
@@ -2731,9 +2731,9 @@ If a participating agency, other than the local educational agency, fails to pro
 
 **(B) Additional requirement**
 
-If a child with a disability is convicted as an adult under State law and incarcerated in an adult prison, the child’s IEP Team may modify the child’s IEP or placement notwithstanding the requirements of sections 1
+If a child with a disability is convicted as an adult under State law and incarcerated in an adult prison, the child’s IEP Team may modify the child’s IEP or placement notwithstanding the requirements of sections 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 1412(a)(5)(A) of this title and paragraph (1)(A) if the State has demonstrated a bona fide security or compelling penological interest that cannot otherwise be accommodated.
 
@@ -2743,31 +2743,31 @@ Each local educational agency or State educational agency shall ensure that the 
 
 **(f) Alternative means of meeting participation**
 
-When conducting IEP team 2
+When conducting IEP team 2
 
-<sup>2</sup>  So in original. Probably should be capitalized.
+<sup>2</sup> So in original. Probably should be capitalized.
 
 meetings and placement meetings pursuant to this section, section 1415(e) of this title, and section 1415(f)(1)(B) of this title, and carrying out administrative matters under section 1415 of this title (such as scheduling, exchange of witness lists, and status conferences), the parent of a child with a disability and a local educational agency may agree to use alternative means of meeting participation, such as video conferences and conference calls.
 
-(Pub. L. 91–230, title VI, § 614, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2702; amended Pub. L. 114–95, title IX, § 9215(ss)(5), Dec. 10, 2015, 129 Stat. 2182.)
+(Pub. L. 91–230, title VI, § 614, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2702; amended Pub. L. 114–95, title IX, § 9215(ss)(5), Dec. 10, 2015, 129 Stat. 2182.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 6368(3) of this title, as such section was in effect on the day before December 10, 2015, referred to in subsec. (b)(5)(A), means section 6368(3) of this title prior to being omitted in the general amendment of part B of subchapter I of chapter 70 of this title by Pub. L. 114–95, title I, § 1201, Dec. 10, 2015, 129 Stat. 1879.
+Section 6368(3) of this title, as such section was in effect on the day before December 10, 2015, referred to in subsec. (b)(5)(A), means section 6368(3) of this title prior to being omitted in the general amendment of part B of subchapter I of chapter 70 of this title by Pub. L. 114–95, title I, § 1201, Dec. 10, 2015, 129 Stat. 1879.
 
 **Prior Provisions**
 
-A prior section 1414, Pub. L. 91–230, title VI, § 614, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 81, related to evaluations, eligibility determinations, individualized education programs, and educational placements, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1414, Pub. L. 91–230, title VI, § 614, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 81, related to evaluations, eligibility determinations, individualized education programs, and educational placements, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1414, Pub. L. 91–230, title VI, § 614, Apr. 13, 1970, 84 Stat. 181; Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 784; Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, § 102(d), Nov. 7, 1988, 102 Stat. 3293; Pub. L. 101–476, title IX, § 901(b)(59)–(70), Oct. 30, 1990, 104 Stat. 1144, 1145; Pub. L. 102–119, §§ 6, 25(b), Oct. 7, 1991, 105 Stat. 591, 607, related to requisite features of an application, approval of application by State educational agency, consolidated applications of local educational agencies, and provision of special education and related services directly to children with disabilities in areas not served by local educational agency, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1414, Pub. L. 91–230, title VI, § 614, Apr. 13, 1970, 84 Stat. 181; Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 784; Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, § 102(d), Nov. 7, 1988, 102 Stat. 3293; Pub. L. 101–476, title IX, § 901(b)(59)–(70), Oct. 30, 1990, 104 Stat. 1144, 1145; Pub. L. 102–119, §§ 6, 25(b), Oct. 7, 1991, 105 Stat. 591, 607, related to requisite features of an application, approval of application by State educational agency, consolidated applications of local educational agencies, and provision of special education and related services directly to children with disabilities in areas not served by local educational agency, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-A prior section 1414a, Pub. L. 91–230, title VI, § 614A, as added Pub. L. 103–382, title III, § 312, Oct. 20, 1994, 108 Stat. 3934, which related to treatment of State agencies that received funds for fiscal year 1994 under subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as in existence on the day preceding Oct. 20, 1994), was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1414a, Pub. L. 91–230, title VI, § 614A, as added Pub. L. 103–382, title III, § 312, Oct. 20, 1994, 108 Stat. 3934, which related to treatment of State agencies that received funds for fiscal year 1994 under subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as in existence on the day preceding Oct. 20, 1994), was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 **Amendments**
 
-2015—Subsec. (b)(5)(A). Pub. L. 114–95 inserted “, as such section was in effect on the day before December 10, 2015” after “of this title”.
+2015—Subsec. (b)(5)(A). Pub. L. 114–95 inserted “, as such section was in effect on the day before December 10, 2015” after “of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2775,7 +2775,7 @@ A prior section 1414a, Pub. L. 91–230, title VI, § 614A, as added Pub. L. 1
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-### § 1415. Procedural safeguards
+### § 1415. Procedural safeguards
 
 **(a) Establishment of procedures**
 
@@ -3371,7 +3371,7 @@ A parent of a child with a disability may elect to receive notices required unde
 
 Nothing in this section shall be construed to preclude a parent from filing a separate due process complaint on an issue separate from a due process complaint already filed.
 
-(Pub. L. 91–230, title VI, § 615, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2715.)
+(Pub. L. 91–230, title VI, § 615, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2715.)
 
 **Editorial Notes**
 
@@ -3381,19 +3381,19 @@ Section 327 of the District of Columbia Appropriations Act, 2005, referred to in
 
 The Federal Rules of Civil Procedure, referred to in subsec. (i)(3)(D)(i)(I), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Controlled Substances Act, referred to in subsec. (k)(7)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (k)(7)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (*l*), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (*l*), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (*l*), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title V of the Act is classified generally to subchapter V (§ 790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (*l*), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title V of the Act is classified generally to subchapter V (§ 790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 **Prior Provisions**
 
-A prior section 1415, Pub. L. 91–230, title VI, § 615, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 88; amended Pub. L. 106–25, § 6(a), Apr. 29, 1999, 113 Stat. 49, related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1415, Pub. L. 91–230, title VI, § 615, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 88; amended Pub. L. 106–25, § 6(a), Apr. 29, 1999, 113 Stat. 49, related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1415, Pub. L. 91–230, title VI, § 615, as added Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 788; amended Pub. L. 99–372, §§ 2, 3, Aug. 5, 1986, 100 Stat. 796, 797; Pub. L. 100–630, title I, § 102(e), Nov. 7, 1988, 102 Stat. 3294; Pub. L. 101–476, title IX, § 901(b)(71)–(75), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, § 314(a)(1), Oct. 20, 1994, 108 Stat. 3936, related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1415, Pub. L. 91–230, title VI, § 615, as added Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 788; amended Pub. L. 99–372, §§ 2, 3, Aug. 5, 1986, 100 Stat. 796, 797; Pub. L. 100–630, title I, § 102(e), Nov. 7, 1988, 102 Stat. 3294; Pub. L. 101–476, title IX, § 901(b)(71)–(75), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, § 314(a)(1), Oct. 20, 1994, 108 Stat. 3936, related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-### § 1416. Monitoring, technical assistance, and enforcement
+### § 1416. Monitoring, technical assistance, and enforcement
 
 **(a) Federal and State monitoring**
 
@@ -3647,21 +3647,21 @@ Nothing in this section shall be construed to restrict the Secretary from utiliz
 
 **(2)** provide technical assistance (from funds reserved under section 1411(c) of this title), where needed, to improve the capacity of States to meet the data collection requirements.
 
-(Pub. L. 91–230, title VI, § 616, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2731.)
+(Pub. L. 91–230, title VI, § 616, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2731.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The General Education Provisions Act, referred to in subsec. (g), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
+The General Education Provisions Act, referred to in subsec. (g), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 1416, Pub. L. 91–230, title VI, § 616, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 99, related to withholding of payments and judicial review, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1416, Pub. L. 91–230, title VI, § 616, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 99, related to withholding of payments and judicial review, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1416, Pub. L. 91–230, title VI, § 616, as added Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 789; amended Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, § 102(f), Nov. 7, 1988, 102 Stat. 3294; Pub. L. 101–476, title IX, § 901(b)(76), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to withholding of payments, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1416, Pub. L. 91–230, title VI, § 616, as added Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 789; amended Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, § 102(f), Nov. 7, 1988, 102 Stat. 3294; Pub. L. 101–476, title IX, § 901(b)(76), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to withholding of payments, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-### § 1417. Administration
+### § 1417. Administration
 
 **(a) Responsibilities of Secretary** The Secretary shall—
 
@@ -3695,7 +3695,7 @@ The Secretary is authorized to hire qualified personnel necessary to carry out t
 
 **(4)** a model form of the prior written notice described in subsections (b)(3) and (c)(1) of section 1415 of this title that is consistent with the requirements of this subchapter and is sufficient to meet such requirements.
 
-(Pub. L. 91–230, title VI, § 617, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2737.)
+(Pub. L. 91–230, title VI, § 617, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2737.)
 
 **Editorial Notes**
 
@@ -3707,11 +3707,11 @@ The Individuals with Disabilities Education Improvement Act of 2004, referred to
 
 **Prior Provisions**
 
-A prior section 1417, Pub. L. 91–230, title VI, § 617, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 100, related to Secretary’s administrative duties, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1417, Pub. L. 91–230, title VI, § 617, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 100, related to Secretary’s administrative duties, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1417, Pub. L. 91–230, title VI, § 617, as added Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 791; amended Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, § 102(g), Nov. 7, 1988, 102 Stat. 3295; Pub. L. 101–476, title IX, § 901(b)(77), (78), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, § 25(a)(7), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to Secretary’s administrative duties, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1417, Pub. L. 91–230, title VI, § 617, as added Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 791; amended Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, § 102(g), Nov. 7, 1988, 102 Stat. 3295; Pub. L. 101–476, title IX, § 901(b)(77), (78), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, § 25(a)(7), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to Secretary’s administrative duties, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-### § 1418. Program information
+### § 1418. Program information
 
 **(a) In general** Each State that receives assistance under this subchapter, and the Secretary of the Interior, shall provide data each year to the Secretary of Education and the public on the following:
 
@@ -3785,17 +3785,17 @@ The Secretary may provide technical assistance to States to ensure compliance wi
 
 **(C)** require the local educational agency to publicly report on the revision of policies, practices, and procedures described under subparagraph (A).
 
-(Pub. L. 91–230, title VI, § 618, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2738.)
+(Pub. L. 91–230, title VI, § 618, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2738.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1418, Pub. L. 91–230, title VI, § 618, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 101, related to program information, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1418, Pub. L. 91–230, title VI, § 618, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 101, related to program information, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1418, Pub. L. 91–230, title VI, § 618, as added Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 791; amended Pub. L. 98–199, §§ 3(b), 8, Dec. 2, 1983, 97 Stat. 1358, 1360; Pub. L. 99–457, title IV, § 406, Oct. 8, 1986, 100 Stat. 1174; Pub. L. 100–630, title I, § 102(h), Nov. 7, 1988, 102 Stat. 3295; Pub. L. 101–476, title II, § 203, Oct. 30, 1990, 104 Stat. 1112, related to evaluation and program information, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1418, Pub. L. 91–230, title VI, § 618, as added Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 791; amended Pub. L. 98–199, §§ 3(b), 8, Dec. 2, 1983, 97 Stat. 1358, 1360; Pub. L. 99–457, title IV, § 406, Oct. 8, 1986, 100 Stat. 1174; Pub. L. 100–630, title I, § 102(h), Nov. 7, 1988, 102 Stat. 3295; Pub. L. 101–476, title II, § 203, Oct. 30, 1990, 104 Stat. 1112, related to evaluation and program information, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-### § 1419. Preschool grants
+### § 1419. Preschool grants
 
 **(a) In general** The Secretary shall provide grants under this section to assist States to provide special education and related services, in accordance with this subchapter—
 
@@ -3945,45 +3945,45 @@ In this section, the term “State” means each of the 50 States, the District 
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
-(Pub. L. 91–230, title VI, § 619, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2740.)
+(Pub. L. 91–230, title VI, § 619, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2740.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1419, Pub. L. 91–230, title VI, § 619, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 102, related to preschool grants, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1419, Pub. L. 91–230, title VI, § 619, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 102, related to preschool grants, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1419, Pub. L. 91–230, title VI, § 619, as added Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 793; amended Pub. L. 98–199, §§ 3(b), 9, Dec. 2, 1983, 97 Stat. 1358, 1363; Pub. L. 99–457, title II, § 201(a), Oct. 8, 1986, 100 Stat. 1155; Pub. L. 100–630, title I, § 102(i), Nov. 7, 1988, 102 Stat. 3296; Pub. L. 101–476, title IX, § 901(b)(79)–(93), Oct. 30, 1990, 104 Stat. 1145, 1146; Pub. L. 102–119, §§ 7, 25(b), Oct. 7, 1991, 105 Stat. 591, 607, related to preschool grants, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1419, Pub. L. 91–230, title VI, § 619, as added Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 793; amended Pub. L. 98–199, §§ 3(b), 9, Dec. 2, 1983, 97 Stat. 1358, 1363; Pub. L. 99–457, title II, § 201(a), Oct. 8, 1986, 100 Stat. 1155; Pub. L. 100–630, title I, § 102(i), Nov. 7, 1988, 102 Stat. 3296; Pub. L. 101–476, title IX, § 901(b)(79)–(93), Oct. 30, 1990, 104 Stat. 1145, 1146; Pub. L. 102–119, §§ 7, 25(b), Oct. 7, 1991, 105 Stat. 591, 607, related to preschool grants, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-A prior section 1420, Pub. L. 91–230, title VI, § 620, as added Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 793; amended Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358, which related to payments to States and distribution by States to local educational agencies and intermediate educational units, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1420, Pub. L. 91–230, title VI, § 620, as added Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 793; amended Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358, which related to payments to States and distribution by States to local educational agencies and intermediate educational units, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-Prior sections 1421 to 1427, which comprised former subchapter III of this chapter, were repealed by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
+Prior sections 1421 to 1427, which comprised former subchapter III of this chapter, were repealed by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
-Section 1421, Pub. L. 91–230, title VI, § 621, Apr. 13, 1970, 84 Stat. 181; Pub. L. 98–199, §§ 3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1363; Pub. L. 99–457, title III, § 301, Oct. 8, 1986, 100 Stat. 1159; Pub. L. 100–630, title I, § 103(b), Nov. 7, 1988, 102 Stat. 3296; Pub. L. 101–476, title III, § 301, title IX, § 901(b)(95)–(99), Oct. 30, 1990, 104 Stat. 1117, 1146; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to establishment and operation of regional and Federal resource centers.
+Section 1421, Pub. L. 91–230, title VI, § 621, Apr. 13, 1970, 84 Stat. 181; Pub. L. 98–199, §§ 3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1363; Pub. L. 99–457, title III, § 301, Oct. 8, 1986, 100 Stat. 1159; Pub. L. 100–630, title I, § 103(b), Nov. 7, 1988, 102 Stat. 3296; Pub. L. 101–476, title III, § 301, title IX, § 901(b)(95)–(99), Oct. 30, 1990, 104 Stat. 1117, 1146; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to establishment and operation of regional and Federal resource centers.
 
-Section 1422, Pub. L. 91–230, title VI, § 622, Apr. 13, 1970, 84 Stat. 182; Pub. L. 98–199, §§ 3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1364; Pub. L. 99–457, title III, § 302, Oct. 8, 1986, 100 Stat. 1160; Pub. L. 100–630, title I, § 103(c), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, § 302, Oct. 30, 1990, 104 Stat. 1118; Pub. L. 102–119, § 25(a)(8), Oct. 7, 1991, 105 Stat. 606; Pub. L. 103–382, title III, § 391(f)(3), Oct. 20, 1994, 108 Stat. 4023, related to services for deaf-blind children and youth.
+Section 1422, Pub. L. 91–230, title VI, § 622, Apr. 13, 1970, 84 Stat. 182; Pub. L. 98–199, §§ 3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1364; Pub. L. 99–457, title III, § 302, Oct. 8, 1986, 100 Stat. 1160; Pub. L. 100–630, title I, § 103(c), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, § 302, Oct. 30, 1990, 104 Stat. 1118; Pub. L. 102–119, § 25(a)(8), Oct. 7, 1991, 105 Stat. 606; Pub. L. 103–382, title III, § 391(f)(3), Oct. 20, 1994, 108 Stat. 4023, related to services for deaf-blind children and youth.
 
-Section 1423, Pub. L. 91–230, title VI, § 623, Apr. 13, 1970, 84 Stat. 183; Pub. L. 98–199, §§ 3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1365; Pub. L. 99–457, title III, § 303, Oct. 8, 1986, 100 Stat. 1161; Pub. L. 100–630, title I, § 103(d), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, § 303, title IX, § 901(b)(100)–(106), Oct. 30, 1990, 104 Stat. 1121, 1146, 1147; Pub. L. 102–119, §§ 8, 25(a)(9), (b), Oct. 7, 1991, 105 Stat. 592, 606, 607, related to early education for children with disabilities.
+Section 1423, Pub. L. 91–230, title VI, § 623, Apr. 13, 1970, 84 Stat. 183; Pub. L. 98–199, §§ 3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1365; Pub. L. 99–457, title III, § 303, Oct. 8, 1986, 100 Stat. 1161; Pub. L. 100–630, title I, § 103(d), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, § 303, title IX, § 901(b)(100)–(106), Oct. 30, 1990, 104 Stat. 1121, 1146, 1147; Pub. L. 102–119, §§ 8, 25(a)(9), (b), Oct. 7, 1991, 105 Stat. 592, 606, 607, related to early education for children with disabilities.
 
-Section 1424, Pub. L. 91–230, title VI, § 624, Apr. 13, 1970, 84 Stat. 183; Pub. L. 98–199, §§ 3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1366; Pub. L. 99–457, title III, § 304, Oct. 8, 1986, 100 Stat. 1162; Pub. L. 100–630, title I, § 103(e), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, § 304, title IX, § 901(b)(107)–(110), Oct. 30, 1990, 104 Stat. 1122, 1147; Pub. L. 102–119, § 25(a)(10), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to programs for children with severe disabilities.
+Section 1424, Pub. L. 91–230, title VI, § 624, Apr. 13, 1970, 84 Stat. 183; Pub. L. 98–199, §§ 3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1366; Pub. L. 99–457, title III, § 304, Oct. 8, 1986, 100 Stat. 1162; Pub. L. 100–630, title I, § 103(e), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, § 304, title IX, § 901(b)(107)–(110), Oct. 30, 1990, 104 Stat. 1122, 1147; Pub. L. 102–119, § 25(a)(10), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to programs for children with severe disabilities.
 
-Section 1424a, Pub. L. 91–230, title VI, § 625, as added Pub. L. 93–380, title VI, § 616, Aug. 21, 1974, 88 Stat. 584; amended Pub. L. 98–199, §§ 3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1367; Pub. L. 99–457, title III, § 305, Oct. 8, 1986, 100 Stat. 1162; Pub. L. 100–630, title I, § 103(f), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, § 305, title IX, § 901(b)(111)–(118), Oct. 30, 1990, 104 Stat. 1123, 1147; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–421, title II, § 201(a), Oct. 16, 1992, 106 Stat. 2164, related to programs of postsecondary, vocational, technical, continuing, or adult education for individuals with disabilities.
+Section 1424a, Pub. L. 91–230, title VI, § 625, as added Pub. L. 93–380, title VI, § 616, Aug. 21, 1974, 88 Stat. 584; amended Pub. L. 98–199, §§ 3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1367; Pub. L. 99–457, title III, § 305, Oct. 8, 1986, 100 Stat. 1162; Pub. L. 100–630, title I, § 103(f), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, § 305, title IX, § 901(b)(111)–(118), Oct. 30, 1990, 104 Stat. 1123, 1147; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–421, title II, § 201(a), Oct. 16, 1992, 106 Stat. 2164, related to programs of postsecondary, vocational, technical, continuing, or adult education for individuals with disabilities.
 
-Section 1425, Pub. L. 91–230, title VI, § 626, formerly § 625, Apr. 13, 1970, 84 Stat. 183, renumbered § 626, Pub. L. 93–380, title VI, § 616, Aug. 21, 1974, 88 Stat. 584; amended Pub. L. 98–199, §§ 3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1367; Pub. L. 99–457, title III, § 306, Oct. 8, 1986, 100 Stat. 1163; Pub. L. 100–630, title I, § 103(g), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title III, § 306, title IX, § 901(b)(119)–(127), Oct. 30, 1990, 104 Stat. 1124, 1147, 1148; Pub. L. 102–119, § 25(a)(11), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to secondary education and transitional services for youth with disabilities.
+Section 1425, Pub. L. 91–230, title VI, § 626, formerly § 625, Apr. 13, 1970, 84 Stat. 183, renumbered § 626, Pub. L. 93–380, title VI, § 616, Aug. 21, 1974, 88 Stat. 584; amended Pub. L. 98–199, §§ 3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1367; Pub. L. 99–457, title III, § 306, Oct. 8, 1986, 100 Stat. 1163; Pub. L. 100–630, title I, § 103(g), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title III, § 306, title IX, § 901(b)(119)–(127), Oct. 30, 1990, 104 Stat. 1124, 1147, 1148; Pub. L. 102–119, § 25(a)(11), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to secondary education and transitional services for youth with disabilities.
 
-Section 1426, Pub. L. 91–230, title VI, § 627, formerly § 626, Apr. 13, 1970, 84 Stat. 184, renumbered § 627 and amended Pub. L. 93–380, title VI, §§ 616, 617, Aug. 21, 1974, 88 Stat. 584; Pub. L. 95–49, § 2, June 17, 1977, 91 Stat. 230; Pub. L. 98–199, § 10, Dec. 2, 1983, 97 Stat. 1368; Pub. L. 101–476, title III, § 307, Oct. 30, 1990, 104 Stat. 1127, related to programs for children and youth with serious emotional disturbance.
+Section 1426, Pub. L. 91–230, title VI, § 627, formerly § 626, Apr. 13, 1970, 84 Stat. 184, renumbered § 627 and amended Pub. L. 93–380, title VI, §§ 616, 617, Aug. 21, 1974, 88 Stat. 584; Pub. L. 95–49, § 2, June 17, 1977, 91 Stat. 230; Pub. L. 98–199, § 10, Dec. 2, 1983, 97 Stat. 1368; Pub. L. 101–476, title III, § 307, Oct. 30, 1990, 104 Stat. 1127, related to programs for children and youth with serious emotional disturbance.
 
-Section 1427, Pub. L. 91–230, title VI, § 628, as added Pub. L. 98–199, § 10, Dec. 2, 1983, 97 Stat. 1368; amended Pub. L. 99–457, title III, § 307, Oct. 8, 1986, 100 Stat. 1165; Pub. L. 101–476, title III, § 308, Oct. 30, 1990, 104 Stat. 1128, authorized appropriations.
+Section 1427, Pub. L. 91–230, title VI, § 628, as added Pub. L. 98–199, § 10, Dec. 2, 1983, 97 Stat. 1368; amended Pub. L. 99–457, title III, § 307, Oct. 8, 1986, 100 Stat. 1165; Pub. L. 101–476, title III, § 308, Oct. 30, 1990, 104 Stat. 1128, authorized appropriations.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Preschool Grants**
 
-Pub. L. 100–630, title I, § 110, Nov. 7, 1988, 102 Stat. 3303, as amended by Pub. L. 101–476, title IX, § 901(a)(3), Oct. 30, 1990, 104 Stat. 1142, provided that: “The provisions of section 300.300(b)(3) of title 34, Code of Federal Regulations, shall not apply with respect to children aged 3 through 5, inclusive, in any State for any fiscal year for which the State receives a grant under section 619(a)(1) of the Individuals with Disabilities Education Act [20 U.S.C. 1419(a)(1)].”
+Pub. L. 100–630, title I, § 110, Nov. 7, 1988, 102 Stat. 3303, as amended by Pub. L. 101–476, title IX, § 901(a)(3), Oct. 30, 1990, 104 Stat. 1142, provided that: “The provisions of section 300.300(b)(3) of title 34, Code of Federal Regulations, shall not apply with respect to children aged 3 through 5, inclusive, in any State for any fiscal year for which the State receives a grant under section 619(a)(1) of the Individuals with Disabilities Education Act [20 U.S.C. 1419(a)(1)].”
 
 ## SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES
 
-### § 1431. Findings and policy
+### § 1431. Findings and policy
 
 **(a) Findings** Congress finds that there is an urgent and substantial need—
 
@@ -4007,15 +4007,15 @@ Pub. L. 100–630, title I, § 110, Nov. 7, 1988, 102 Stat. 3303, as amended b
 
 **(4)** to encourage States to expand opportunities for children under 3 years of age who would be at risk of having substantial developmental delay if they did not receive early intervention services.
 
-(Pub. L. 91–230, title VI, § 631, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2744.)
+(Pub. L. 91–230, title VI, § 631, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2744.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1431, Pub. L. 91–230, title VI, § 631, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 106, set out findings and policy, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1431, Pub. L. 91–230, title VI, § 631, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 106, set out findings and policy, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1431, Pub. L. 91–230, title VI, § 631, Apr. 13, 1970, 84 Stat. 184; Pub. L. 98–199, §§ 3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1369; Pub. L. 99–457, title III, § 308, Oct. 8, 1986, 100 Stat. 1165; Pub. L. 100–630, title I, § 104(b), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title IV, § 401, title IX, § 901(b)(129)–(142), Oct. 30, 1990, 104 Stat. 1129, 1148; Pub. L. 102–119, §§ 9(a), (b), 25(a)(12), (b), Oct. 7, 1991, 105 Stat. 593, 594, 606, 607; Pub. L. 102–421, title II, § 202, Oct. 16, 1992, 106 Stat. 2165; Pub. L. 102–569, title IX, § 912(a), Oct. 29, 1992, 106 Stat. 4486; Pub. L. 103–73, title III, § 302, Aug. 11, 1993, 107 Stat. 736; Pub. L. 103–218, title IV, § 401, Mar. 9, 1994, 108 Stat. 95, related to grants for personnel training, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1431, Pub. L. 91–230, title VI, § 631, Apr. 13, 1970, 84 Stat. 184; Pub. L. 98–199, §§ 3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1369; Pub. L. 99–457, title III, § 308, Oct. 8, 1986, 100 Stat. 1165; Pub. L. 100–630, title I, § 104(b), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title IV, § 401, title IX, § 901(b)(129)–(142), Oct. 30, 1990, 104 Stat. 1129, 1148; Pub. L. 102–119, §§ 9(a), (b), 25(a)(12), (b), Oct. 7, 1991, 105 Stat. 593, 594, 606, 607; Pub. L. 102–421, title II, § 202, Oct. 16, 1992, 106 Stat. 2165; Pub. L. 102–569, title IX, § 912(a), Oct. 29, 1992, 106 Stat. 4486; Pub. L. 103–73, title III, § 302, Aug. 11, 1993, 107 Stat. 736; Pub. L. 103–218, title IV, § 401, Mar. 9, 1994, 108 Stat. 95, related to grants for personnel training, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4023,7 +4023,7 @@ Another prior section 1431, Pub. L. 91–230, title VI, § 631, Apr. 13, 1970,
 
 Subchapter effective July 1, 2005, see section 302(a) of Pub. L. 108–446, set out as a note under section 1400 of this title.
 
-### § 1432. Definitions
+### § 1432. Definitions
 
 In this subchapter:
 
@@ -4137,31 +4137,31 @@ The term “developmental delay”, when used with respect to an individual resi
 
 **(II)** a written notification to parents of their rights and responsibilities in determining whether their child will continue to receive services under this subchapter or participate in preschool programs under section 1419 of this title.
 
-(Pub. L. 91–230, title VI, § 632, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2744.)
+(Pub. L. 91–230, title VI, § 632, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2744.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1432, Pub. L. 91–230, title VI, § 632, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 106, set out definitions for this subchapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1432, Pub. L. 91–230, title VI, § 632, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 106, set out definitions for this subchapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1432, Pub. L. 91–230, title VI, § 632, Apr. 13, 1970, 84 Stat. 184; Pub. L. 98–199, §§ 3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1371; Pub. L. 99–457, title III, § 309, Oct. 8, 1986, 100 Stat. 1168; Pub. L. 100–630, title I, § 104(c), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title IV, § 402, title IX, § 901(b)(143), Oct. 30, 1990, 104 Stat. 1132, 1148; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to grants to State educational agencies and institutions for traineeships, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1432, Pub. L. 91–230, title VI, § 632, Apr. 13, 1970, 84 Stat. 184; Pub. L. 98–199, §§ 3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1371; Pub. L. 99–457, title III, § 309, Oct. 8, 1986, 100 Stat. 1168; Pub. L. 100–630, title I, § 104(c), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title IV, § 402, title IX, § 901(b)(143), Oct. 30, 1990, 104 Stat. 1132, 1148; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to grants to State educational agencies and institutions for traineeships, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-### § 1433. General authority
+### § 1433. General authority
 
 The Secretary shall, in accordance with this subchapter, make grants to States (from their allotments under section 1443 of this title) to assist each State to maintain and implement a statewide, comprehensive, coordinated, multidisciplinary, interagency system to provide early intervention services for infants and toddlers with disabilities and their families.
 
-(Pub. L. 91–230, title VI, § 633, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2746.)
+(Pub. L. 91–230, title VI, § 633, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2746.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1433, Pub. L. 91–230, title VI, § 633, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 108, related to the general authority of the Secretary, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1433, Pub. L. 91–230, title VI, § 633, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 108, related to the general authority of the Secretary, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1433, Pub. L. 91–230, title VI, § 633, Apr. 13, 1970, 84 Stat. 184; Pub. L. 98–199, §§ 3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1371; Pub. L. 99–457, title III, § 310, Oct. 8, 1986, 100 Stat. 1168; Pub. L. 100–630, title I, § 104(e), Nov. 7, 1988, 102 Stat. 3299; Pub. L. 101–476, title IV, § 403, title IX, § 901(b)(144), Oct. 30, 1990, 104 Stat. 1133, 1149; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to establishment of national clearinghouses, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1433, Pub. L. 91–230, title VI, § 633, Apr. 13, 1970, 84 Stat. 184; Pub. L. 98–199, §§ 3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1371; Pub. L. 99–457, title III, § 310, Oct. 8, 1986, 100 Stat. 1168; Pub. L. 100–630, title I, § 104(e), Nov. 7, 1988, 102 Stat. 3299; Pub. L. 101–476, title IV, § 403, title IX, § 901(b)(144), Oct. 30, 1990, 104 Stat. 1133, 1149; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to establishment of national clearinghouses, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-### § 1434. Eligibility
+### § 1434. Eligibility
 
 In order to be eligible for a grant under section 1433 of this title, a State shall provide assurances to the Secretary that the State—
 
@@ -4169,17 +4169,17 @@ In order to be eligible for a grant under section 1433 of this title, a State sh
 
 **(2)** has in effect a statewide system that meets the requirements of section 1435 of this title.
 
-(Pub. L. 91–230, title VI, § 634, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2746.)
+(Pub. L. 91–230, title VI, § 634, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2746.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1434, Pub. L. 91–230, title VI, § 634, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 108, related to grant eligibility, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1434, Pub. L. 91–230, title VI, § 634, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 108, related to grant eligibility, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1434, Pub. L. 91–230, title VI, § 634, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§ 3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 101–476, title IV, § 404, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–119, § 9(c)(1), Oct. 7, 1991, 105 Stat. 595, related to reports to Secretary by recipients of grants and contracts, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1434, Pub. L. 91–230, title VI, § 634, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§ 3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 101–476, title IV, § 404, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–119, § 9(c)(1), Oct. 7, 1991, 105 Stat. 595, related to reports to Secretary by recipients of grants and contracts, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-### § 1435. Requirements for statewide system
+### § 1435. Requirements for statewide system
 
 **(a) In general** A statewide system described in section 1433 of this title shall include, at a minimum, the following components:
 
@@ -4299,21 +4299,21 @@ If a statewide system includes a State policy described in paragraph (1), a Stat
 
 Nothing in this subsection shall be construed to require a provider of services under this subchapter to provide a child served under this subchapter with a free appropriate public education.
 
-(Pub. L. 91–230, title VI, § 635, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2747; amended Pub. L. 111–320, title II, § 202(b), Dec. 20, 2010, 124 Stat. 3509.)
+(Pub. L. 91–230, title VI, § 635, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2747; amended Pub. L. 111–320, title II, § 202(b), Dec. 20, 2010, 124 Stat. 3509.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1435, Pub. L. 91–230, title VI, § 635, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 108, related to requirements for statewide system, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1435, Pub. L. 91–230, title VI, § 635, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 108, related to requirements for statewide system, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1435, Pub. L. 91–230, title VI, § 635, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§ 3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 99–457, title III, § 311, Oct. 8, 1986, 100 Stat. 1169; Pub. L. 101–476, title IV, § 405, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–119, §§ 9(c)(2), 10, 25(a)(13), Oct. 7, 1991, 105 Stat. 595, 606, authorized appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1435, Pub. L. 91–230, title VI, § 635, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§ 3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 99–457, title III, § 311, Oct. 8, 1986, 100 Stat. 1169; Pub. L. 101–476, title IV, § 405, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–119, §§ 9(c)(2), 10, 25(a)(13), Oct. 7, 1991, 105 Stat. 595, 606, authorized appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 **Amendments**
 
 2010—Subsec. (c)(2)(G). Pub. L. 111–320 substituted “section 10402 of title 42” for “section 10421 of title 42”.
 
-### § 1436. Individualized family service plan
+### § 1436. Individualized family service plan
 
 **(a) Assessment and program development** A statewide system described in section 1433 of this title shall provide, at a minimum, for each infant or toddler with a disability, and the infant’s or toddler’s family, to receive—
 
@@ -4353,17 +4353,17 @@ The individualized family service plan shall be developed within a reasonable ti
 
 The contents of the individualized family service plan shall be fully explained to the parents and informed written consent from the parents shall be obtained prior to the provision of early intervention services described in such plan. If the parents do not provide consent with respect to a particular early intervention service, then only the early intervention services to which consent is obtained shall be provided.
 
-(Pub. L. 91–230, title VI, § 636, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2751.)
+(Pub. L. 91–230, title VI, § 636, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2751.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1436, Pub. L. 91–230, title VI, § 636, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 111, related to individualized family service plans, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1436, Pub. L. 91–230, title VI, § 636, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 111, related to individualized family service plans, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1436, Pub. L. 91–230, title VI, § 636, Apr. 13, 1970, 84 Stat. 185; Pub. L. 93–380, title VI, § 618, Aug. 21, 1974, 88 Stat. 584; Pub. L. 95–49, § 3, June 17, 1977, 91 Stat. 230, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 98–199, § 11, Dec. 2, 1983, 97 Stat. 1369.
+Another prior section 1436, Pub. L. 91–230, title VI, § 636, Apr. 13, 1970, 84 Stat. 185; Pub. L. 93–380, title VI, § 618, Aug. 21, 1974, 88 Stat. 584; Pub. L. 95–49, § 3, June 17, 1977, 91 Stat. 230, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 98–199, § 11, Dec. 2, 1983, 97 Stat. 1369.
 
-### § 1437. State application and assurances
+### § 1437. State application and assurances
 
 **(a) Application** A State desiring to receive a grant under section 1433 of this title shall submit an application to the Secretary at such time and in such manner as the Secretary may reasonably require. The application shall contain—
 
@@ -4459,15 +4459,15 @@ An application submitted by a State in accordance with this section shall remain
 
 **(3)** an official finding of noncompliance with Federal law or regulations is made with respect to the State.
 
-(Pub. L. 91–230, title VI, § 637, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2752.)
+(Pub. L. 91–230, title VI, § 637, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2752.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1437, Pub. L. 91–230, title VI, § 637, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 112, related to State application and assurances, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1437, Pub. L. 91–230, title VI, § 637, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 112, related to State application and assurances, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-### § 1438. Uses of funds
+### § 1438. Uses of funds
 
 In addition to using funds provided under section 1433 of this title to maintain and implement the statewide system required by such section, a State may use such funds—
 
@@ -4487,15 +4487,15 @@ In addition to using funds provided under section 1433 of this title to maintain
 
 **(C)** conducting periodic follow-up on each such referral to determine if the status of the infant or toddler involved has changed with respect to the eligibility of the infant or toddler for services under this subchapter.
 
-(Pub. L. 91–230, title VI, § 638, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2755.)
+(Pub. L. 91–230, title VI, § 638, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2755.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1438, Pub. L. 91–230, title VI, § 638, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 114, related to uses of funds, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1438, Pub. L. 91–230, title VI, § 638, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 114, related to uses of funds, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-### § 1439. Procedural safeguards
+### § 1439. Procedural safeguards
 
 **(a) Minimum procedures** The procedural safeguards required to be included in a statewide system under section 1435(a)(13) of this title shall provide, at a minimum, the following:
 
@@ -4525,15 +4525,15 @@ A prior section 1438, Pub. L. 91–230, title VI, § 638, as added Pub. L. 105
 
 During the pendency of any proceeding or action involving a complaint by the parents of an infant or toddler with a disability, unless the State agency and the parents otherwise agree, the infant or toddler shall continue to receive the appropriate early intervention services currently being provided or, if applying for initial services, shall receive the services not in dispute.
 
-(Pub. L. 91–230, title VI, § 639, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2755.)
+(Pub. L. 91–230, title VI, § 639, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2755.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1439, Pub. L. 91–230, title VI, § 639, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 115, set out procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1439, Pub. L. 91–230, title VI, § 639, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 115, set out procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-### § 1440. Payor of last resort
+### § 1440. Payor of last resort
 
 **(a) Nonsubstitution**
 
@@ -4575,19 +4575,19 @@ Such local educational agency or State agency is authorized to claim reimburseme
 
 Nothing in this subchapter shall be construed to permit the State to reduce medical or other assistance available or to alter eligibility under title V of the Social Security Act [42 U.S.C. 701 et seq.] (relating to maternal and child health) or title XIX of the Social Security Act [42 U.S.C. 1396 et seq.] (relating to medicaid for infants or toddlers with disabilities) within the State.
 
-(Pub. L. 91–230, title VI, § 640, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2757.)
+(Pub. L. 91–230, title VI, § 640, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2757.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XIX of the Act are classified generally to subchapters V (§ 701 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XIX of the Act are classified generally to subchapters V (§ 701 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 1440, Pub. L. 91–230, title VI, § 640, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 116, related to the payor of last resort, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1440, Pub. L. 91–230, title VI, § 640, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 116, related to the payor of last resort, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-### § 1441. State interagency coordinating council
+### § 1441. State interagency coordinating council
 
 **(a) Establishment**
 
@@ -4691,17 +4691,17 @@ The council may advise and assist the lead agency and the State educational agen
 
 No member of the council shall cast a vote on any matter that is likely to provide a direct financial benefit to that member or otherwise give the appearance of a conflict of interest under State law.
 
-(Pub. L. 91–230, title VI, § 641, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2758.)
+(Pub. L. 91–230, title VI, § 641, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2758.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1441, Pub. L. 91–230, title VI, § 641, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 116, related to State interagency coordinating councils, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1441, Pub. L. 91–230, title VI, § 641, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 116, related to State interagency coordinating councils, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1441, Pub. L. 91–230, title VI, § 641, Apr. 13, 1970, 84 Stat. 185; Pub. L. 95–49, § 4, June 17, 1977, 91 Stat. 230; Pub. L. 98–199, §§ 3(b), 12, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 99–457, title III, § 312, Oct. 8, 1986, 100 Stat. 1169; Pub. L. 100–630, title I, § 105(b), Nov. 7, 1988, 102 Stat. 3299; Pub. L. 101–476, title V, § 501, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–421, title II, § 203, Oct. 16, 1992, 106 Stat. 2165, related to grants, contracts, and cooperative agreements for research and related activities, attention deficit disorder centers, and model demonstration programs, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
+Another prior section 1441, Pub. L. 91–230, title VI, § 641, Apr. 13, 1970, 84 Stat. 185; Pub. L. 95–49, § 4, June 17, 1977, 91 Stat. 230; Pub. L. 98–199, §§ 3(b), 12, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 99–457, title III, § 312, Oct. 8, 1986, 100 Stat. 1169; Pub. L. 100–630, title I, § 105(b), Nov. 7, 1988, 102 Stat. 3299; Pub. L. 101–476, title V, § 501, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–421, title II, § 203, Oct. 16, 1992, 106 Stat. 2165, related to grants, contracts, and cooperative agreements for research and related activities, attention deficit disorder centers, and model demonstration programs, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
-### § 1442. Federal administration
+### § 1442. Federal administration
 
 Sections 1416, 1417, and 1418 of this title shall, to the extent not inconsistent with this subchapter, apply to the program authorized by this subchapter, except that—
 
@@ -4711,17 +4711,17 @@ Sections 1416, 1417, and 1418 of this title shall, to the extent not inconsisten
 
 **(3)** any reference to the education of children with disabilities or the education of all children with disabilities shall be considered to be a reference to the provision of appropriate early intervention services to infants and toddlers with disabilities.
 
-(Pub. L. 91–230, title VI, § 642, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2760.)
+(Pub. L. 91–230, title VI, § 642, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2760.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1442, Pub. L. 91–230, title VI, § 642, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 118, related to Federal administration, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1442, Pub. L. 91–230, title VI, § 642, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 118, related to Federal administration, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1442, Pub. L. 91–230, title VI, § 642, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§ 3(b), 12, Dec. 2, 1983, 97 Stat. 1358, 1373; Pub. L. 101–476, title V, § 502, Oct. 30, 1990, 104 Stat. 1138; Pub. L. 102–119, § 25(a)(14), Oct. 7, 1991, 105 Stat. 606, related to research and demonstration projects in physical education and recreation for children with disabilities, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
+Another prior section 1442, Pub. L. 91–230, title VI, § 642, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§ 3(b), 12, Dec. 2, 1983, 97 Stat. 1358, 1373; Pub. L. 101–476, title V, § 502, Oct. 30, 1990, 104 Stat. 1138; Pub. L. 102–119, § 25(a)(14), Oct. 7, 1991, 105 Stat. 606, related to research and demonstration projects in physical education and recreation for children with disabilities, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
-### § 1443. Allocation of funds
+### § 1443. Allocation of funds
 
 **(a) Reservation of funds for outlying areas**
 
@@ -4817,7 +4817,7 @@ Pursuant to section 1225(b) of this title, amounts under a grant provided under 
 
 Amounts under a grant provided under paragraph (1) that are not obligated and expended prior to the beginning of the second fiscal year succeeding the fiscal year for which such amounts were appropriated shall be returned to the Secretary and used to make grants to States under section 1433 of this title (from their allotments under this section) during such second succeeding fiscal year.
 
-(Pub. L. 91–230, title VI, § 643, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2760.)
+(Pub. L. 91–230, title VI, § 643, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2760.)
 
 **Editorial Notes**
 
@@ -4827,29 +4827,29 @@ Public Law 95–134, referred to in subsec. (a)(2), is Pub. L. 95–134, Oct. 15
 
 **Prior Provisions**
 
-A prior section 1443, Pub. L. 91–230, title VI, § 643, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 118, related to allocation of funds, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1443, Pub. L. 91–230, title VI, § 643, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 118, related to allocation of funds, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1443, Pub. L. 91–230, title VI, § 643, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§ 3(b), 12, Dec. 2, 1983, 97 Stat. 1358, 1373; Pub. L. 99–457, title III, § 313, Oct. 8, 1986, 100 Stat. 1170; Pub. L. 100–630, title I, § 105(c), Nov. 7, 1988, 102 Stat. 3299; Pub. L. 101–476, title IX, § 901(b)(145), (146), Oct. 30, 1990, 104 Stat. 1149; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to requirement of the Secretary to convene panels of experts to evaluate proposals for projects, prior to repeal by Pub. L. 101–476, title V, §§ 503, 1001, Oct. 30, 1990, 104 Stat. 1138, 1151, effective Oct. 1, 1990.
+Another prior section 1443, Pub. L. 91–230, title VI, § 643, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§ 3(b), 12, Dec. 2, 1983, 97 Stat. 1358, 1373; Pub. L. 99–457, title III, § 313, Oct. 8, 1986, 100 Stat. 1170; Pub. L. 100–630, title I, § 105(c), Nov. 7, 1988, 102 Stat. 3299; Pub. L. 101–476, title IX, § 901(b)(145), (146), Oct. 30, 1990, 104 Stat. 1149; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to requirement of the Secretary to convene panels of experts to evaluate proposals for projects, prior to repeal by Pub. L. 101–476, title V, §§ 503, 1001, Oct. 30, 1990, 104 Stat. 1138, 1151, effective Oct. 1, 1990.
 
-### § 1444. Authorization of appropriations
+### § 1444. Authorization of appropriations
 
 For the purpose of carrying out this subchapter, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2005 through 2010.
 
-(Pub. L. 91–230, title VI, § 644, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2763.)
+(Pub. L. 91–230, title VI, § 644, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2763.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1444, Pub. L. 91–230, title VI, § 644, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 121; amended Pub. L. 106–402, title IV, § 401(b)(1), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 108–173, title IX, § 900(e)(6)(C), Dec. 8, 2003, 117 Stat. 2373, which related to the Federal Interagency Coordinating Council, was repealed, as such section was in effect on the day before Dec. 3, 2004, by Pub. L. 108–446, title III, § 304, Dec. 3, 2004, 118 Stat. 2804.
+A prior section 1444, Pub. L. 91–230, title VI, § 644, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 121; amended Pub. L. 106–402, title IV, § 401(b)(1), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 108–173, title IX, § 900(e)(6)(C), Dec. 8, 2003, 117 Stat. 2373, which related to the Federal Interagency Coordinating Council, was repealed, as such section was in effect on the day before Dec. 3, 2004, by Pub. L. 108–446, title III, § 304, Dec. 3, 2004, 118 Stat. 2804.
 
-Another prior section 1444, Pub. L. 91–230, title VI, § 643, formerly § 644, Apr. 13, 1970, 84 Stat. 186; Pub. L. 93–380, title VI, § 619, Aug. 21, 1974, 88 Stat. 585; Pub. L. 95–49, § 5, June 17, 1977, 91 Stat. 231; Pub. L. 98–199, § 12, Dec. 2, 1983, 97 Stat. 1374; Pub. L. 99–457, title III, § 314, Oct. 8, 1986, 100 Stat. 1171; renumbered § 643 and amended Pub. L. 101–476, title V, §§ 503, 504, title IX, § 901(b)(147), (148), Oct. 30, 1990, 104 Stat. 1138, 1149; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, authorized appropriations, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
+Another prior section 1444, Pub. L. 91–230, title VI, § 643, formerly § 644, Apr. 13, 1970, 84 Stat. 186; Pub. L. 93–380, title VI, § 619, Aug. 21, 1974, 88 Stat. 585; Pub. L. 95–49, § 5, June 17, 1977, 91 Stat. 231; Pub. L. 98–199, § 12, Dec. 2, 1983, 97 Stat. 1374; Pub. L. 99–457, title III, § 314, Oct. 8, 1986, 100 Stat. 1171; renumbered § 643 and amended Pub. L. 101–476, title V, §§ 503, 504, title IX, § 901(b)(147), (148), Oct. 30, 1990, 104 Stat. 1138, 1149; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, authorized appropriations, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
-A prior section 1445, Pub. L. 91–230, title VI, § 645, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 123, which authorized appropriations, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1445, Pub. L. 91–230, title VI, § 645, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 123, which authorized appropriations, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 ## SUBCHAPTER IV—NATIONAL ACTIVITIES TO IMPROVE EDUCATION OF CHILDREN WITH DISABILITIES
 
-### § 1450. Findings
+### § 1450. Findings
 
 Congress finds the following:
 
@@ -4905,17 +4905,17 @@ Congress finds the following:
 
 **(12)** Support is needed to improve technological resources and integrate technology, including universally designed technologies, into the lives of children with disabilities, parents of children with disabilities, school personnel, and others through curricula, services, and assistive technologies.
 
-(Pub. L. 91–230, title VI, § 650, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2763.)
+(Pub. L. 91–230, title VI, § 650, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2763.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transition Provisions**
 
-Pub. L. 105–17, title II, § 202, June 4, 1997, 111 Stat. 156, provided that: “Notwithstanding any other provision of law, beginning on October 1, 1997, the Secretary of Education may use funds appropriated under part D of the Individuals with Disabilities Education Act [this subchapter] to make continuation awards for projects that were funded under section 618 [former 20 U.S.C. 1418] and parts C through G of such Act [former subchapters III to VII of this chapter] (as in effect on September 30, 1997).”
+Pub. L. 105–17, title II, § 202, June 4, 1997, 111 Stat. 156, provided that: “Notwithstanding any other provision of law, beginning on October 1, 1997, the Secretary of Education may use funds appropriated under part D of the Individuals with Disabilities Education Act [this subchapter] to make continuation awards for projects that were funded under section 618 [former 20 U.S.C. 1418] and parts C through G of such Act [former subchapters III to VII of this chapter] (as in effect on September 30, 1997).”
 
 ### Part A—State Personnel Development Grants
 
-#### § 1451. Purpose; definition of personnel; program authority
+#### § 1451. Purpose; definition of personnel; program authority
 
 **(a) Purpose**
 
@@ -4957,9 +4957,9 @@ The Secretary may increase the amounts of grants under paragraph (4) to account 
 
 **(D)** the alignment of proposed activities with section 1412(a)(14) of this title;
 
-**(E)** the alignment of proposed activities with the State plans and applications submitted under sections 6311 and 6611(d) 1
+**(E)** the alignment of proposed activities with the State plans and applications submitted under sections 6311 and 6611(d) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 respectively, of this title; and
 
@@ -5001,15 +5001,15 @@ Notwithstanding any other provision of this part, from funds appropriated under 
 
 A State educational agency that receives a continuation award under paragraph (1) for any fiscal year may not receive any other award under this part for that fiscal year.
 
-(Pub. L. 91–230, title VI, § 651, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2765; amended Pub. L. 114–95, title IX, § 9215(ss)(6), Dec. 10, 2015, 129 Stat. 2183.)
+(Pub. L. 91–230, title VI, § 651, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2765; amended Pub. L. 114–95, title IX, § 9215(ss)(6), Dec. 10, 2015, 129 Stat. 2183.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1451, Pub. L. 91–230, title VI, § 651, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 123, related to the findings and purposes of part A of former subchapter IV of this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1451, Pub. L. 91–230, title VI, § 651, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 123, related to the findings and purposes of part A of former subchapter IV of this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1451, Pub. L. 91–230, title VI, § 651, Apr. 13, 1970, 84 Stat. 186; Pub. L. 100–630, title I, § 106(b), Nov. 7, 1988, 102 Stat. 3300; Pub. L. 101–476, title VI, § 601, title IX, § 901(b)(150), Oct. 30, 1990, 104 Stat. 1138, 1149; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to the purposes of former subchapter VI of this chapter, which included promoting general welfare of deaf and hard of hearing individuals and visually impaired individuals and educational advancement of individuals with disabilities, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
+Another prior section 1451, Pub. L. 91–230, title VI, § 651, Apr. 13, 1970, 84 Stat. 186; Pub. L. 100–630, title I, § 106(b), Nov. 7, 1988, 102 Stat. 3300; Pub. L. 101–476, title VI, § 601, title IX, § 901(b)(150), Oct. 30, 1990, 104 Stat. 1138, 1149; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to the purposes of former subchapter VI of this chapter, which included promoting general welfare of deaf and hard of hearing individuals and visually impaired individuals and educational advancement of individuals with disabilities, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
 **Amendments**
 
@@ -5025,7 +5025,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Part effective July 1, 2005, see section 302(a) of Pub. L. 108–446, set out as a note under section 1400 of this title.
 
-#### § 1452. Eligibility and collaborative process
+#### § 1452. Eligibility and collaborative process
 
 **(a) Eligible applicants**
 
@@ -5075,17 +5075,17 @@ A State educational agency may apply for a grant under this part for a grant per
 
 **(B)** ensure that any activities the State educational agency will carry out under this part that are within that partner’s jurisdiction (which may include activities described in section 1454(b) of this title) are carried out by that partner.
 
-(Pub. L. 91–230, title VI, § 652, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2767.)
+(Pub. L. 91–230, title VI, § 652, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2767.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1452, Pub. L. 91–230, title VI, § 652, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 124, related to eligibility and collaborative process, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1452, Pub. L. 91–230, title VI, § 652, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 124, related to eligibility and collaborative process, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1452, Pub. L. 91–230, title VI, § 652, Apr. 13, 1970, 84 Stat. 186; Pub. L. 93–380, title VI, § 620(1), Aug. 21, 1974, 88 Stat. 585; Pub. L. 94–482, title V, § 501(h), Oct. 12, 1976, 90 Stat. 2237; Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 99–457, title III, § 315, Oct. 8, 1986, 100 Stat. 1171; Pub. L. 100–630, title I, § 106(c), Nov. 7, 1988, 102 Stat. 3300; Pub. L. 101–476, title VI, § 602, title IX, § 901(b)(151), (152), Oct. 30, 1990, 104 Stat. 1139, 1149; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to establishment of a loan service of captioned films, television, descriptive video, and educational media for individuals with disabilities, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
+Another prior section 1452, Pub. L. 91–230, title VI, § 652, Apr. 13, 1970, 84 Stat. 186; Pub. L. 93–380, title VI, § 620(1), Aug. 21, 1974, 88 Stat. 585; Pub. L. 94–482, title V, § 501(h), Oct. 12, 1976, 90 Stat. 2237; Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 99–457, title III, § 315, Oct. 8, 1986, 100 Stat. 1171; Pub. L. 100–630, title I, § 106(c), Nov. 7, 1988, 102 Stat. 3300; Pub. L. 101–476, title VI, § 602, title IX, § 901(b)(151), (152), Oct. 30, 1990, 104 Stat. 1139, 1149; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to establishment of a loan service of captioned films, television, descriptive video, and educational media for individuals with disabilities, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
-#### § 1453. Applications
+#### § 1453. Applications
 
 **(a) In general**
 
@@ -5159,31 +5159,31 @@ The Secretary may use available funds appropriated to carry out this part to pay
 
 **(3)** identify changes in the strategies used by the State educational agency and described in subsection (b)(4), if any, to improve the State educational agency’s performance.
 
-(Pub. L. 91–230, title VI, § 653, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2768; amended Pub. L. 114–95, title IX, §§ 9214(d)(3), 9215(ss)(7), Dec. 10, 2015, 129 Stat. 2165, 2183.)
+(Pub. L. 91–230, title VI, § 653, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2768; amended Pub. L. 114–95, title IX, §§ 9214(d)(3), 9215(ss)(7), Dec. 10, 2015, 129 Stat. 2165, 2183.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (a)(2)(C), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (a)(2)(C), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 1453, Pub. L. 91–230, title VI, § 653, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 125, related to grant applications, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1453, Pub. L. 91–230, title VI, § 653, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 125, related to grant applications, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1453, Pub. L. 91–230, title VI, § 653, Apr. 13, 1970, 84 Stat. 187; Pub. L. 94–142, § 6(b), Nov. 29, 1975, 89 Stat. 795; Pub. L. 99–386, title II, § 204, Aug. 22, 1986, 100 Stat. 823, related to establishment and operation of centers on educational media and materials for handicapped, prior to repeal by Pub. L. 99–457, title III, § 316, Oct. 8, 1986, 100 Stat. 1171.
+Another prior section 1453, Pub. L. 91–230, title VI, § 653, Apr. 13, 1970, 84 Stat. 187; Pub. L. 94–142, § 6(b), Nov. 29, 1975, 89 Stat. 795; Pub. L. 99–386, title II, § 204, Aug. 22, 1986, 100 Stat. 823, related to establishment and operation of centers on educational media and materials for handicapped, prior to repeal by Pub. L. 99–457, title III, § 316, Oct. 8, 1986, 100 Stat. 1171.
 
 **Amendments**
 
-2015—Subsec. (b)(3). Pub. L. 114–95, § 9215(ss)(7), substituted “and 2101(d),” for “and 2112,”.
+2015—Subsec. (b)(3). Pub. L. 114–95, § 9215(ss)(7), substituted “and 2101(d),” for “and 2112,”.
 
-Subsec. (b)(7). Pub. L. 114–95, § 9214(d)(3)(A), substituted “teachers who meet the qualifications described in section 1412(a)(14)(C) of this title” for “highly qualified teachers”.
+Subsec. (b)(7). Pub. L. 114–95, § 9214(d)(3)(A), substituted “teachers who meet the qualifications described in section 1412(a)(14)(C) of this title” for “highly qualified teachers”.
 
-Subsec. (b)(8). Pub. L. 114–95, § 9214(d)(3)(B), substituted “teachers who do not meet the qualifications described in section 1412(a)(14)(C) of this title” for “teachers who are not highly qualified”.
+Subsec. (b)(8). Pub. L. 114–95, § 9214(d)(3)(B), substituted “teachers who do not meet the qualifications described in section 1412(a)(14)(C) of this title” for “teachers who are not highly qualified”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5191,7 +5191,7 @@ Subsec. (b)(8). Pub. L. 114–95, § 9214(d)(3)(B), substituted “teachers wh
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-#### § 1454. Use of funds
+#### § 1454. Use of funds
 
 **(a) Professional development activities** A State educational agency that receives a grant under this part shall use the grant funds to support activities in accordance with the State’s plan described in section 1453 of this title, including 1 or more of the following:
 
@@ -5319,7 +5319,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Public Law 95–134, permitting the consolidation of grants to the outlying areas, shall not apply to funds received under this part.
 
-(Pub. L. 91–230, title VI, § 654, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2770; amended Pub. L. 114–95, title IX, §§ 9214(d)(4)(A), (B), 9215(ss)(8), Dec. 10, 2015, 129 Stat. 2165, 2183.)
+(Pub. L. 91–230, title VI, § 654, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2770; amended Pub. L. 114–95, title IX, §§ 9214(d)(4)(A), (B), 9215(ss)(8), Dec. 10, 2015, 129 Stat. 2165, 2183.)
 
 **Editorial Notes**
 
@@ -5327,31 +5327,31 @@ Public Law 95–134, permitting the consolidation of grants to the outlying area
 
 Section 7801 of this title, referred to in subsec. (a)(1)(B), was in the original “section 8101 of such Act”, which was translated as meaning section 8101 of the Elementary and Secondary Education Act of 1965, to reflect the probable intent of Congress.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title II of the Act is classified generally to subchapter II (§ 1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title II of the Act is classified generally to subchapter II (§ 1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-Section 6613(c)(18) of this title (as such section was in effect on the day before December 10, 2015), referred to in subsec. (b)(10), means section 6613(c)(18) of this title prior to repeal by Pub. L. 114–95, title II, § 2002, Dec. 10, 2015, 129 Stat. 1913. Section 2002 of Pub. L. 114–95 enacted a new section 6613 of this title.
+Section 6613(c)(18) of this title (as such section was in effect on the day before December 10, 2015), referred to in subsec. (b)(10), means section 6613(c)(18) of this title prior to repeal by Pub. L. 114–95, title II, § 2002, Dec. 10, 2015, 129 Stat. 1913. Section 2002 of Pub. L. 114–95 enacted a new section 6613 of this title.
 
 Public Law 95–134, referred to in subsec. (e), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159. Provisions relating to consolidation of grants to the outlying areas are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
 
 **Prior Provisions**
 
-A prior section 1454, Pub. L. 91–230, title VI, § 654, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 128, related to use of funds, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1454, Pub. L. 91–230, title VI, § 654, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 128, related to use of funds, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1454, Pub. L. 91–230, title VI, § 653, formerly § 654, Apr. 13, 1970, 84 Stat. 187; Pub. L. 93–380, title VI, § 620(2), Aug. 21, 1974, 88 Stat. 585; Pub. L. 95–49, § 6, June 17, 1977, 91 Stat. 231; Pub. L. 98–199, § 13, Dec. 2, 1983, 97 Stat. 1374; renumbered § 653 and amended Pub. L. 99–457, title III, § 316, Oct. 8, 1986, 100 Stat. 1171; Pub. L. 101–476, title VI, § 603, Oct. 30, 1990, 104 Stat. 1140, authorized appropriations, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
+Another prior section 1454, Pub. L. 91–230, title VI, § 653, formerly § 654, Apr. 13, 1970, 84 Stat. 187; Pub. L. 93–380, title VI, § 620(2), Aug. 21, 1974, 88 Stat. 585; Pub. L. 95–49, § 6, June 17, 1977, 91 Stat. 231; Pub. L. 98–199, § 13, Dec. 2, 1983, 97 Stat. 1374; renumbered § 653 and amended Pub. L. 99–457, title III, § 316, Oct. 8, 1986, 100 Stat. 1171; Pub. L. 101–476, title VI, § 603, Oct. 30, 1990, 104 Stat. 1140, authorized appropriations, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
 **Amendments**
 
-2015—Subsec. (a)(1)(B). Pub. L. 114–95, § 9215(ss)(8)(A)(i), substituted “challenging State academic achievement standards and with the requirements for professional development, as defined in section 7801 of this title” for “challenging State student academic achievement and functional standards and with the requirements for professional development, as defined in section 7801 of this title”.
+2015—Subsec. (a)(1)(B). Pub. L. 114–95, § 9215(ss)(8)(A)(i), substituted “challenging State academic achievement standards and with the requirements for professional development, as defined in section 7801 of this title” for “challenging State student academic achievement and functional standards and with the requirements for professional development, as defined in section 7801 of this title”.
 
-Subsec. (a)(4). Pub. L. 114–95, § 9214(d)(4)(A), substituted “special education teachers who meet the qualifications described in section 1412(a)(14)(C) of this title, particularly initiatives that have been proven effective in recruiting and retaining teachers” for “highly qualified special education teachers, particularly initiatives that have been proven effective in recruiting and retaining highly qualified teachers” in introductory provisions.
+Subsec. (a)(4). Pub. L. 114–95, § 9214(d)(4)(A), substituted “special education teachers who meet the qualifications described in section 1412(a)(14)(C) of this title, particularly initiatives that have been proven effective in recruiting and retaining teachers” for “highly qualified special education teachers, particularly initiatives that have been proven effective in recruiting and retaining highly qualified teachers” in introductory provisions.
 
-Subsec. (a)(5)(A). Pub. L. 114–95, § 9215(ss)(8)(A)(ii), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
+Subsec. (a)(5)(A). Pub. L. 114–95, § 9215(ss)(8)(A)(ii), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
 
-Subsec. (b)(2). Pub. L. 114–95, § 9214(d)(4)(B)(i), substituted “certification of special education teachers for individuals with a baccalaureate or master’s degree who meet the qualifications described in section 1412(a)(14)(C) of this title” for “certification of special education teachers for highly qualified individuals with a baccalaureate or master’s degree”.
+Subsec. (b)(2). Pub. L. 114–95, § 9214(d)(4)(B)(i), substituted “certification of special education teachers for individuals with a baccalaureate or master’s degree who meet the qualifications described in section 1412(a)(14)(C) of this title” for “certification of special education teachers for highly qualified individuals with a baccalaureate or master’s degree”.
 
-Subsec. (b)(4). Pub. L. 114–95, § 9214(d)(4)(B)(ii), substituted “special education teachers who meet the qualifications described in section 1412(a)(14)(C) of this title” for “highly qualified special education teachers”.
+Subsec. (b)(4). Pub. L. 114–95, § 9214(d)(4)(B)(ii), substituted “special education teachers who meet the qualifications described in section 1412(a)(14)(C) of this title” for “highly qualified special education teachers”.
 
-Subsec. (b)(10). Pub. L. 114–95, § 9215(ss)(8)(B), inserted “(as such section was in effect on the day before December 10, 2015)” after “of this title”.
+Subsec. (b)(10). Pub. L. 114–95, § 9215(ss)(8)(B), inserted “(as such section was in effect on the day before December 10, 2015)” after “of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5359,23 +5359,23 @@ Subsec. (b)(10). Pub. L. 114–95, § 9215(ss)(8)(B), inserted “(as such sec
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-#### § 1455. Authorization of appropriations
+#### § 1455. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this part such sums as may be necessary for each of the fiscal years 2005 through 2010.
 
-(Pub. L. 91–230, title VI, § 655, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2774.)
+(Pub. L. 91–230, title VI, § 655, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2774.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1455, Pub. L. 91–230, title VI, § 655, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 129, set out minimum State grant amounts, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1455, Pub. L. 91–230, title VI, § 655, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 129, set out minimum State grant amounts, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-A prior section 1456, Pub. L. 91–230, title VI, § 656, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 129, which authorized appropriations, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1456, Pub. L. 91–230, title VI, § 656, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 129, which authorized appropriations, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 ### Part B—Personnel Preparation, Technical Assistance, Model Demonstration Projects, and Dissemination of Information
 
-#### § 1461. Purpose; definition of eligible entity
+#### § 1461. Purpose; definition of eligible entity
 
 **(a) Purpose** The purpose of this part is—
 
@@ -5409,19 +5409,19 @@ A prior section 1456, Pub. L. 91–230, title VI, § 656, as added Pub. L. 105
 
 The Secretary may limit which eligible entities described in paragraph (1) are eligible for a grant, contract, or cooperative agreement under this part to 1 or more of the categories of eligible entities described in paragraph (1).
 
-(Pub. L. 91–230, title VI, § 661, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2774.)
+(Pub. L. 91–230, title VI, § 661, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2774.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1461, Pub. L. 91–230, title VI, § 661, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 130, related to administrative provisions, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1461, Pub. L. 91–230, title VI, § 661, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 130, related to administrative provisions, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1461, Pub. L. 91–230, title VI, § 661, as added Pub. L. 99–457, title III, § 317, Oct. 8, 1986, 100 Stat. 1172; amended Pub. L. 100–630, title I, § 107(b), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title VII, § 701, title IX, § 901(b)(154)–(156), Oct. 30, 1990, 104 Stat. 1140, 1149; Pub. L. 102–119, § 25(a)(15), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to financial assistance for the purpose of advancing use of new technology, media, and materials in education of students with disabilities and provision of related services and early intervention services to infants and toddlers with disabilities, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
+Another prior section 1461, Pub. L. 91–230, title VI, § 661, as added Pub. L. 99–457, title III, § 317, Oct. 8, 1986, 100 Stat. 1172; amended Pub. L. 100–630, title I, § 107(b), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title VII, § 701, title IX, § 901(b)(154)–(156), Oct. 30, 1990, 104 Stat. 1140, 1149; Pub. L. 102–119, § 25(a)(15), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to financial assistance for the purpose of advancing use of new technology, media, and materials in education of students with disabilities and provision of related services and early intervention services to infants and toddlers with disabilities, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
-Another prior section 1461, Pub. L. 91–230, title VI, § 661, Apr. 13, 1970, 84 Stat. 187; Pub. L. 93–380, title VI, § 621, Aug. 21, 1974, 88 Stat. 585; Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358, related to research, training, and model centers respecting special programs for children with specific learning disabilities, providing in subsec. (a), Secretary’s grant and contract authority, functions of model centers, and considerations governing making of contracts and grants; subsec. (b), other considerations in making awards, geographical distribution of training programs and trained personnel, and a model center in each State; and subsec. (c), appropriations authorization of $10, $20, and $20 million dollars for fiscal years ending June 30, 1975 through 1977, respectively, prior to repeal by Pub. L. 98–199, § 14, Dec. 2, 1983, 97 Stat. 1374.
+Another prior section 1461, Pub. L. 91–230, title VI, § 661, Apr. 13, 1970, 84 Stat. 187; Pub. L. 93–380, title VI, § 621, Aug. 21, 1974, 88 Stat. 585; Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358, related to research, training, and model centers respecting special programs for children with specific learning disabilities, providing in subsec. (a), Secretary’s grant and contract authority, functions of model centers, and considerations governing making of contracts and grants; subsec. (b), other considerations in making awards, geographical distribution of training programs and trained personnel, and a model center in each State; and subsec. (c), appropriations authorization of $10, $20, and $20 million dollars for fiscal years ending June 30, 1975 through 1977, respectively, prior to repeal by Pub. L. 98–199, § 14, Dec. 2, 1983, 97 Stat. 1374.
 
-#### § 1462. Personnel development to improve services and results for children with disabilities
+#### § 1462. Personnel development to improve services and results for children with disabilities
 
 **(a) In general** The Secretary, on a competitive basis, shall award grants to, or enter into contracts or cooperative agreements with, eligible entities to carry out 1 or more of the following objectives:
 
@@ -5647,31 +5647,31 @@ Notwithstanding paragraph (1), the Secretary may reduce or waive the service obl
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2005 through 2010.
 
-(Pub. L. 91–230, title VI, § 662, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2774; amended Pub. L. 114–95, title IX, §§ 9214(d)(4)(C), 9215(ss)(9), Dec. 10, 2015, 129 Stat. 2165, 2183.)
+(Pub. L. 91–230, title VI, § 662, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2774; amended Pub. L. 114–95, title IX, §§ 9214(d)(4)(C), 9215(ss)(9), Dec. 10, 2015, 129 Stat. 2165, 2183.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A)(vii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A)(vii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 1462, Pub. L. 91–230, title VI, § 662, as added Pub. L. 99–457, title III, § 317, Oct. 8, 1986, 100 Stat. 1172; amended Pub. L. 101–476, title VII, § 702, Oct. 30, 1990, 104 Stat. 1141, authorized appropriations, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
+A prior section 1462, Pub. L. 91–230, title VI, § 662, as added Pub. L. 99–457, title III, § 317, Oct. 8, 1986, 100 Stat. 1172; amended Pub. L. 101–476, title VII, § 702, Oct. 30, 1990, 104 Stat. 1141, authorized appropriations, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
-A prior section 662 of Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 188, eff. July 1, 1971, repealed sections 611 to 618, 621 to 624, and 871 to 880a of this title, and sections 2491 to 2494 and 2698 to 2698b of Title 42, The Public Health and Welfare, and amended section 676 of this title, prior to repeal by Pub. L. 98–199, § 14, Dec. 2, 1983, 97 Stat. 1374.
+A prior section 662 of Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 188, eff. July 1, 1971, repealed sections 611 to 618, 621 to 624, and 871 to 880a of this title, and sections 2491 to 2494 and 2698 to 2698b of Title 42, The Public Health and Welfare, and amended section 676 of this title, prior to repeal by Pub. L. 98–199, § 14, Dec. 2, 1983, 97 Stat. 1374.
 
 **Amendments**
 
-2015—Subsec. (a)(1). Pub. L. 114–95, § 9214(d)(4)(C)(i)(I), substituted “personnel, as defined in section 1451(b) of this title, who meet the applicable requirements described in section 1412(a)(14) of this title” for “highly qualified personnel, as defined in section 1451(b) of this title”.
+2015—Subsec. (a)(1). Pub. L. 114–95, § 9214(d)(4)(C)(i)(I), substituted “personnel, as defined in section 1451(b) of this title, who meet the applicable requirements described in section 1412(a)(14) of this title” for “highly qualified personnel, as defined in section 1451(b) of this title”.
 
-Subsec. (a)(5). Pub. L. 114–95, § 9214(d)(4)(C)(i)(II), substituted “special education teachers meet the qualifications described in section 1412(a)(14)(C) of this title” for “special education teachers are highly qualified”.
+Subsec. (a)(5). Pub. L. 114–95, § 9214(d)(4)(C)(i)(II), substituted “special education teachers meet the qualifications described in section 1412(a)(14)(C) of this title” for “special education teachers are highly qualified”.
 
-Subsec. (b)(2)(A)(viii). Pub. L. 114–95, § 9215(ss)(9), substituted “section 6113(d)(1)(A)(ii)” for “section 7113(d)(1)(A)(ii)”.
+Subsec. (b)(2)(A)(viii). Pub. L. 114–95, § 9215(ss)(9), substituted “section 6113(d)(1)(A)(ii)” for “section 7113(d)(1)(A)(ii)”.
 
-Subsec. (b)(2)(B). Pub. L. 114–95, § 9214(d)(4)(C)(ii), substituted “special education teachers who meet the qualifications described in section 1412(a)(14)(C) of this title” for “highly qualified teachers”.
+Subsec. (b)(2)(B). Pub. L. 114–95, § 9214(d)(4)(C)(ii), substituted “special education teachers who meet the qualifications described in section 1412(a)(14)(C) of this title” for “highly qualified teachers”.
 
-Subsec. (c)(4)(B). Pub. L. 114–95, § 9214(d)(4)(C)(iii), substituted “personnel who meet the applicable requirements described in section 1412(a)(14) of this title” for “highly qualified personnel”.
+Subsec. (c)(4)(B). Pub. L. 114–95, § 9214(d)(4)(C)(iii), substituted “personnel who meet the applicable requirements described in section 1412(a)(14) of this title” for “highly qualified personnel”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5679,7 +5679,7 @@ Subsec. (c)(4)(B). Pub. L. 114–95, § 9214(d)(4)(C)(iii), substituted “per
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-#### § 1463. Technical assistance, demonstration projects, dissemination of information, and implementation of scientifically based research
+#### § 1463. Technical assistance, demonstration projects, dissemination of information, and implementation of scientifically based research
 
 **(a) In general**
 
@@ -5753,13 +5753,13 @@ To the maximum extent feasible, each eligible entity shall demonstrate that the 
 
 As appropriate, the Secretary shall give priority to applications that propose to serve teachers and school personnel directly in the school environment.
 
-(Pub. L. 91–230, title VI, § 663, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2781; amended Pub. L. 114–95, title IX, § 9215(ss)(10), Dec. 10, 2015, 129 Stat. 2183.)
+(Pub. L. 91–230, title VI, § 663, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2781; amended Pub. L. 114–95, title IX, § 9215(ss)(10), Dec. 10, 2015, 129 Stat. 2183.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Education Sciences Reform Act of 2002, referred to in subsec. (e), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941. Part D of the Act is classified generally to part D (§ 9561 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Education Sciences Reform Act of 2002, referred to in subsec. (e), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941. Part D of the Act is classified generally to part D (§ 9561 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
 **Amendments**
 
@@ -5771,7 +5771,7 @@ The Education Sciences Reform Act of 2002, referred to in subsec. (e), is title 
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-#### § 1464. Studies and evaluations
+#### § 1464. Studies and evaluations
 
 **(a) Studies and evaluations**
 
@@ -5887,15 +5887,15 @@ The Secretary shall delegate to the Director of the Institute of Education Scien
 
 The Secretary shall study, and report to Congress regarding, the extent to which States adopt policies described in section 1435(c)(1) of this title and on the effects of those policies.
 
-(Pub. L. 91–230, title VI, § 664, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2783.)
+(Pub. L. 91–230, title VI, § 664, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2783.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Education Sciences Reform Act of 2002, referred to in subsec. (d)(1), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941. Part E of the Act is classified generally to part E (§ 9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Education Sciences Reform Act of 2002, referred to in subsec. (d)(1), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941. Part E of the Act is classified generally to part E (§ 9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
-#### § 1465. Interim alternative educational settings, behavioral supports, and systemic school interventions
+#### § 1465. Interim alternative educational settings, behavioral supports, and systemic school interventions
 
 **(a) Program authorized** The Secretary may award grants, and enter into contracts and cooperative agreements, to support safe learning environments that support academic achievement for all students by—
 
@@ -5965,9 +5965,9 @@ The Education Sciences Reform Act of 2002, referred to in subsec. (d)(1), is tit
 
 Each eligible entity receiving a grant under this section shall prepare and submit annually to the Secretary a report on the outcomes of the activities assisted under the grant.
 
-(Pub. L. 91–230, title VI, § 665, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2786.)
+(Pub. L. 91–230, title VI, § 665, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2786.)
 
-#### § 1466. Authorization of appropriations
+#### § 1466. Authorization of appropriations
 
 **(a) In general**
 
@@ -5977,11 +5977,11 @@ There are authorized to be appropriated to carry out this part (other than secti
 
 From amounts appropriated under subsection (a) for fiscal year 2005, the Secretary shall reserve $1,000,000 to carry out the study authorized in section 1464(c) of this title. From amounts appropriated under subsection (a) for a succeeding fiscal year, the Secretary may reserve an additional amount to carry out such study if the Secretary determines the additional amount is necessary.
 
-(Pub. L. 91–230, title VI, § 667, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2787.)
+(Pub. L. 91–230, title VI, § 667, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2787.)
 
 ### Part C—Supports To Improve Results for Children With Disabilities
 
-#### § 1470. Purposes
+#### § 1470. Purposes
 
 The purposes of this part are to ensure that—
 
@@ -5993,9 +5993,9 @@ The purposes of this part are to ensure that—
 
 **(4)** appropriate technology and media are researched, developed, and demonstrated, to improve and implement early intervention, educational, and transitional services and results for children with disabilities and their families.
 
-(Pub. L. 91–230, title VI, § 670, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2788.)
+(Pub. L. 91–230, title VI, § 670, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2788.)
 
-#### § 1471. Parent training and information centers
+#### § 1471. Parent training and information centers
 
 **(a) Program authorized**
 
@@ -6109,17 +6109,17 @@ The board of directors of each parent organization that receives an award under 
 
 When a parent organization requests a continuation award under this section, the board of directors shall submit to the Secretary a written review of the parent training and information program conducted by the parent organization during the preceding fiscal year.
 
-(Pub. L. 91–230, title VI, § 671, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2788.)
+(Pub. L. 91–230, title VI, § 671, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2788.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1471, Pub. L. 91–230, title VI, § 671, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 135, related to congressional findings and purposes for subpart 1 of part B of former subchapter IV of this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1471, Pub. L. 91–230, title VI, § 671, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 135, related to congressional findings and purposes for subpart 1 of part B of former subchapter IV of this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1471, Pub. L. 91–230, title VI, § 671, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1145; amended Pub. L. 100–630, title I, § 108(a), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title IX, § 901(b)(158)–(161), Oct. 30, 1990, 104 Stat. 1149; Pub. L. 102–119, §§ 11, 25(a)(16), (b), Oct. 7, 1991, 105 Stat. 595, 606, 607, related to congressional findings and policy with regard to early intervention services for infants and toddlers with disabilities and their families, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+Another prior section 1471, Pub. L. 91–230, title VI, § 671, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1145; amended Pub. L. 100–630, title I, § 108(a), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title IX, § 901(b)(158)–(161), Oct. 30, 1990, 104 Stat. 1149; Pub. L. 102–119, §§ 11, 25(a)(16), (b), Oct. 7, 1991, 105 Stat. 595, 606, 607, related to congressional findings and policy with regard to early intervention services for infants and toddlers with disabilities and their families, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
-#### § 1472. Community parent resource centers
+#### § 1472. Community parent resource centers
 
 **(a) Program authorized**
 
@@ -6149,17 +6149,17 @@ Another prior section 1471, Pub. L. 91–230, title VI, § 671, as added Pub. 
 
 **(4)** be designed to meet the specific needs of families who experience significant isolation from available sources of information and support.
 
-(Pub. L. 91–230, title VI, § 672, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2791.)
+(Pub. L. 91–230, title VI, § 672, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2791.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1472, Pub. L. 91–230, title VI, § 672, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 136, related to research and innovation to improve services and results for children with disabilities, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1472, Pub. L. 91–230, title VI, § 672, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 136, related to research and innovation to improve services and results for children with disabilities, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1472, Pub. L. 91–230, title VI, § 672, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1146; amended Pub. L. 100–630, title I, § 108(b), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title VIII, § 801, title IX, § 901(b)(162), (163), Oct. 30, 1990, 104 Stat. 1141, 1149; Pub. L. 102–119, §§ 12, 25(b), Oct. 7, 1991, 105 Stat. 595, 607, related to definitions, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+Another prior section 1472, Pub. L. 91–230, title VI, § 672, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1146; amended Pub. L. 100–630, title I, § 108(b), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title VIII, § 801, title IX, § 901(b)(162), (163), Oct. 30, 1990, 104 Stat. 1141, 1149; Pub. L. 102–119, §§ 12, 25(b), Oct. 7, 1991, 105 Stat. 595, 607, related to definitions, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
-#### § 1473. Technical assistance for parent training and information centers
+#### § 1473. Technical assistance for parent training and information centers
 
 **(a) Program authorized**
 
@@ -6199,17 +6199,17 @@ In this section, the term “eligible entity” has the meaning given the term i
 
 Each eligible entity receiving an award under subsection (a) shall develop collaborative agreements with the geographically appropriate regional resource center and, as appropriate, the regional educational laboratory supported under section 9564 of this title, to further parent and professional collaboration.
 
-(Pub. L. 91–230, title VI, § 673, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2791.)
+(Pub. L. 91–230, title VI, § 673, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2791.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1473, Pub. L. 91–230, title VI, § 673, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 139, related to personnel preparation to improve services and results for children with disabilities, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1473, Pub. L. 91–230, title VI, § 673, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 139, related to personnel preparation to improve services and results for children with disabilities, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1473, Pub. L. 91–230, title VI, § 673, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1147; amended Pub. L. 101–476, title IX, § 901(b)(164), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to general authority of Secretary to make grants to States for development of system to provide early intervention services for infants and toddlers with disabilities and their families, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+Another prior section 1473, Pub. L. 91–230, title VI, § 673, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1147; amended Pub. L. 101–476, title IX, § 901(b)(164), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to general authority of Secretary to make grants to States for development of system to provide early intervention services for infants and toddlers with disabilities and their families, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
-#### § 1474. Technology development, demonstration, and utilization; media services; and instructional materials
+#### § 1474. Technology development, demonstration, and utilization; media services; and instructional materials
 
 **(a) Program authorized**
 
@@ -6319,7 +6319,7 @@ Nothing in this subsection shall be construed to establish a private right of ac
 
 Subsections (a) through (d) shall not apply to this subsection.
 
-(Pub. L. 91–230, title VI, § 674, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2792.)
+(Pub. L. 91–230, title VI, § 674, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2792.)
 
 **Editorial Notes**
 
@@ -6329,49 +6329,49 @@ This chapter, referred to in subsec. (e)(3)(A), (5), was in the original “this
 
 “An Act to provide books for the adult blind”, approved March 3, 1931, referred to in subsec. (e)(3)(A), is act Mar. 3, 1931, ch. 400, 46 Stat. 1487, which is classified generally to sections 135a and 135b of Title 2, The Congress. For complete classification of this Act to the Code, see Tables.
 
-Section 121(d) of title 17, referred to in subsec. (e)(3)(D), was amended by Pub. L. 115–261, § 2(a)(1)(D), Oct. 9, 2018, 132 Stat. 3667, and no longer defines the term “specialized formats”.
+Section 121(d) of title 17, referred to in subsec. (e)(3)(D), was amended by Pub. L. 115–261, § 2(a)(1)(D), Oct. 9, 2018, 132 Stat. 3667, and no longer defines the term “specialized formats”.
 
 **Prior Provisions**
 
-A prior section 1474, Pub. L. 91–230, title VI, § 674, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 143, related to studies and evaluations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1474, Pub. L. 91–230, title VI, § 674, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 143, related to studies and evaluations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1474, Pub. L. 91–230, title VI, § 674, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1147, related to general eligibility, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+Another prior section 1474, Pub. L. 91–230, title VI, § 674, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1147, related to general eligibility, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
-#### § 1475. Authorization of appropriations
+#### § 1475. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this part such sums as may be necessary for each of the fiscal years 2005 through 2010.
 
-(Pub. L. 91–230, title VI, § 675, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2795.)
+(Pub. L. 91–230, title VI, § 675, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2795.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior sections 1475 to 1480 were repealed by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+Prior sections 1475 to 1480 were repealed by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
-Section 1475, Pub. L. 91–230, title VI, § 675, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1147; amended Pub. L. 100–630, title I, § 108(c), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title IX, § 901(b)(165), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–52, § 10, June 6, 1991, 105 Stat. 263; Pub. L. 102–119, §§ 19(c), 25(b), Oct. 7, 1991, 105 Stat. 601, 607, related to continuing eligibility.
+Section 1475, Pub. L. 91–230, title VI, § 675, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1147; amended Pub. L. 100–630, title I, § 108(c), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title IX, § 901(b)(165), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–52, § 10, June 6, 1991, 105 Stat. 263; Pub. L. 102–119, §§ 19(c), 25(b), Oct. 7, 1991, 105 Stat. 601, 607, related to continuing eligibility.
 
-Section 1476, Pub. L. 91–230, title VI, § 675, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1147; amended Pub. L. 100–630, title I, § 108(c), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title IX, § 901(b)(165), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–52, § 10, June 6, 1991, 105 Stat. 263; Pub. L. 102–119, §§ 19(c), 25(b), Oct. 7, 1991, 105 Stat. 601, 607, related to the minimum components for a statewide system providing early intervention services to infants and toddlers with disabilities and their families.
+Section 1476, Pub. L. 91–230, title VI, § 675, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1147; amended Pub. L. 100–630, title I, § 108(c), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title IX, § 901(b)(165), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–52, § 10, June 6, 1991, 105 Stat. 263; Pub. L. 102–119, §§ 19(c), 25(b), Oct. 7, 1991, 105 Stat. 601, 607, related to the minimum components for a statewide system providing early intervention services to infants and toddlers with disabilities and their families.
 
-Section 1477, Pub. L. 91–230, title VI, § 677, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1149; amended Pub. L. 100–630, title I, § 108(f), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title IX, § 901(b)(174)–(176), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§ 14, 25(b), Oct. 7, 1991, 105 Stat. 597, 607, related to the individualized family service plan.
+Section 1477, Pub. L. 91–230, title VI, § 677, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1149; amended Pub. L. 100–630, title I, § 108(f), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title IX, § 901(b)(174)–(176), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§ 14, 25(b), Oct. 7, 1991, 105 Stat. 597, 607, related to the individualized family service plan.
 
-Section 1478, Pub. L. 91–230, title VI, § 678, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1150; amended Pub. L. 100–630, title I, § 108(g), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, § 901(b)(177), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§ 15, 25(b), Oct. 7, 1991, 105 Stat. 597, 607, related to contents of State application, statement of assurances, and approval process.
+Section 1478, Pub. L. 91–230, title VI, § 678, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1150; amended Pub. L. 100–630, title I, § 108(g), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, § 901(b)(177), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§ 15, 25(b), Oct. 7, 1991, 105 Stat. 597, 607, related to contents of State application, statement of assurances, and approval process.
 
-Section 1479, Pub. L. 91–230, title VI, § 679, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1151; amended Pub. L. 100–630, title I, § 108(h), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, § 901(b)(178), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§ 16, 25(b), Oct. 7, 1991, 105 Stat. 598, 607, related to permissible uses of funds.
+Section 1479, Pub. L. 91–230, title VI, § 679, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1151; amended Pub. L. 100–630, title I, § 108(h), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, § 901(b)(178), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§ 16, 25(b), Oct. 7, 1991, 105 Stat. 598, 607, related to permissible uses of funds.
 
-Section 1480, Pub. L. 91–230, title VI, § 680, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1152; amended Pub. L. 100–630, title I, § 108(i), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, § 901(b)(179), (180), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§ 17, 25(b), Oct. 7, 1991, 105 Stat. 598, 607, related to procedural safeguards.
+Section 1480, Pub. L. 91–230, title VI, § 680, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1152; amended Pub. L. 100–630, title I, § 108(i), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, § 901(b)(179), (180), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§ 17, 25(b), Oct. 7, 1991, 105 Stat. 598, 607, related to procedural safeguards.
 
 ### Part D—General Provisions
 
-#### § 1481. Comprehensive plan for parts B and C
+#### § 1481. Comprehensive plan for parts B and C
 
 **(a) Comprehensive plan**
 
 **(1) In general**
 
-After receiving input from interested individuals with relevant expertise, the Secretary shall develop and implement a comprehensive plan for activities carried out under parts B and C in order to enhance the provision of early intervention services, educational services, related services, and transitional services to children with disabilities under subchapters II and III. To the extent practicable, the plan shall be coordinated with the plan developed pursuant to section 9567b(c) of this title 1
+After receiving input from interested individuals with relevant expertise, the Secretary shall develop and implement a comprehensive plan for activities carried out under parts B and C in order to enhance the provision of early intervention services, educational services, related services, and transitional services to children with disabilities under subchapters II and III. To the extent practicable, the plan shall be coordinated with the plan developed pursuant to section 9567b(c) of this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and shall include mechanisms to address early intervention, educational, related service and transitional needs identified by State educational agencies in applications submitted for State personnel development grants under part A and for grants under parts B and C.
 
@@ -6459,7 +6459,7 @@ In making an award of a grant, contract, or cooperative agreement under part B o
 
 No State or local educational agency, or other public institution or agency, may receive a grant or enter into a contract or cooperative agreement under part B or C that relates exclusively to programs, projects, and activities pertaining to children aged 3 through 5, inclusive, unless the State is eligible to receive a grant under section 1419(b) of this title.
 
-(Pub. L. 91–230, title VI, § 681, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2795; amended Pub. L. 114–95, title IX, § 9215(ss)(11), Dec. 10, 2015, 129 Stat. 2183.)
+(Pub. L. 91–230, title VI, § 681, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2795; amended Pub. L. 114–95, title IX, § 9215(ss)(11), Dec. 10, 2015, 129 Stat. 2183.)
 
 **Editorial Notes**
 
@@ -6467,13 +6467,13 @@ No State or local educational agency, or other public institution or agency, may
 
 Section 9567b(c) of this title, referred to in subsec. (a)(1), was in the original “section 178(c) of the Education Sciences Reform Act of 2002”, meaning section 178(c) of Pub. L. 107–279, which was translated as reading section 177(c) of Pub. L. 107–279, to reflect the probable intent of Congress, because Pub. L. 107–279 does not contain a section 178 and section 177(c) of that Act requires development of a plan.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3)(K), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VII of the Act is classified generally to subchapter VII (§ 7701 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3)(K), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VII of the Act is classified generally to subchapter VII (§ 7701 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 1481, Pub. L. 91–230, title VI, § 681, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 146, related to congressional findings and purposes for subpart 2 of part B of former subchapter IV of this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1481, Pub. L. 91–230, title VI, § 681, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 146, related to congressional findings and purposes for subpart 2 of part B of former subchapter IV of this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1481, Pub. L. 91–230, title VI, § 681, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1152; amended Pub. L. 100–630, title I, § 108(j), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, § 901(b)(181), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to nonsubstitution of funds to pay for services which would have been paid for from another source and construction of such provisions so as not to reduce other benefits, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+Another prior section 1481, Pub. L. 91–230, title VI, § 681, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1152; amended Pub. L. 100–630, title I, § 108(j), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, § 901(b)(181), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to nonsubstitution of funds to pay for services which would have been paid for from another source and construction of such provisions so as not to reduce other benefits, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
 **Amendments**
 
@@ -6485,7 +6485,7 @@ Another prior section 1481, Pub. L. 91–230, title VI, § 681, as added Pub. 
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-#### § 1482. Administrative provisions
+#### § 1482. Administrative provisions
 
 **(a) Applicant and recipient responsibilities**
 
@@ -6575,68 +6575,68 @@ The Secretary may use funds made available to carry out part B or C to evaluate 
 
 If the sum of the amount appropriated to carry out parts B and C, and part E of the Education Sciences Reform Act of 2002 [20 U.S.C. 9567 et seq.] for any fiscal year is less than $130,000,000, the amounts listed in paragraph (1) shall be ratably reduced for the fiscal year.
 
-(Pub. L. 91–230, title VI, § 682, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2797.)
+(Pub. L. 91–230, title VI, § 682, as added Pub. L. 108–446, title I, § 101, Dec. 3, 2004, 118 Stat. 2797.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Education Sciences Reform Act of 2002, referred to in subsec. (d)(2), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941. Part E of the Act is classified generally to part E (§ 9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Education Sciences Reform Act of 2002, referred to in subsec. (d)(2), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941. Part E of the Act is classified generally to part E (§ 9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 1482, Pub. L. 91–230, title VI, § 682, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 149, related to parent training and information centers, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1482, Pub. L. 91–230, title VI, § 682, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 149, related to parent training and information centers, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1482, Pub. L. 91–230, title VI, § 682, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1153; amended Pub. L. 100–630, title I, § 108(k), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, § 901(b)(182), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§ 18, 25(a)(18), (b), Oct. 7, 1991, 105 Stat. 599, 606, 607, related to establishment of State Interagency Coordinating Councils, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+Another prior section 1482, Pub. L. 91–230, title VI, § 682, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1153; amended Pub. L. 100–630, title I, § 108(k), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, § 901(b)(182), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§ 18, 25(a)(18), (b), Oct. 7, 1991, 105 Stat. 599, 606, 607, related to establishment of State Interagency Coordinating Councils, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
-A prior section 1483, Pub. L. 91–230, title VI, § 683, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 151, which related to community parent resource centers, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1483, Pub. L. 91–230, title VI, § 683, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 151, which related to community parent resource centers, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1483, Pub. L. 91–230, title VI, § 683, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1154; amended Pub. L. 101–476, title IX, § 901(b)(183), (184), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to Federal administration, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+Another prior section 1483, Pub. L. 91–230, title VI, § 683, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1154; amended Pub. L. 101–476, title IX, § 901(b)(183), (184), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to Federal administration, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
-A prior section 1484, Pub. L. 91–230, title VI, § 684, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 152, which related to technical assistance for parent training and information centers, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1484, Pub. L. 91–230, title VI, § 684, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 152, which related to technical assistance for parent training and information centers, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1484, Pub. L. 91–230, title VI, § 684, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1154; amended Pub. L. 101–476, title IX, § 901(b)(185), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 102–119, §§ 19(a)(1), (b), 25(b), Oct. 7, 1991, 105 Stat. 600, 601, 607; Pub. L. 103–382, title III, § 313(a), Oct. 20, 1994, 108 Stat. 3935, related to allocation of funds, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+Another prior section 1484, Pub. L. 91–230, title VI, § 684, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1154; amended Pub. L. 101–476, title IX, § 901(b)(185), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 102–119, §§ 19(a)(1), (b), 25(b), Oct. 7, 1991, 105 Stat. 600, 601, 607; Pub. L. 103–382, title III, § 313(a), Oct. 20, 1994, 108 Stat. 3935, related to allocation of funds, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
-A prior section 1484a, Pub. L. 91–230, title VI, § 685, as added Pub. L. 102–119, § 21(2), Oct. 7, 1991, 105 Stat. 602; amended Pub. L. 102–321, title I, § 161, July 10, 1992, 106 Stat. 375; Pub. L. 103–448, title II, § 204(w)(2)(B), Nov. 2, 1994, 108 Stat. 4746, related to establishment, composition, functions, etc., of the Federal Interagency Coordinating Council, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+A prior section 1484a, Pub. L. 91–230, title VI, § 685, as added Pub. L. 102–119, § 21(2), Oct. 7, 1991, 105 Stat. 602; amended Pub. L. 102–321, title I, § 161, July 10, 1992, 106 Stat. 375; Pub. L. 103–448, title II, § 204(w)(2)(B), Nov. 2, 1994, 108 Stat. 4746, related to establishment, composition, functions, etc., of the Federal Interagency Coordinating Council, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
-A prior section 1485, Pub. L. 91–230, title VI, § 685, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 152; amended Pub. L. 106–402, title IV, § 401(b)(1), Oct. 30, 2000, 114 Stat. 1737, which related to coordinated technical assistance and dissemination, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1485, Pub. L. 91–230, title VI, § 685, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 152; amended Pub. L. 106–402, title IV, § 401(b)(1), Oct. 30, 2000, 114 Stat. 1737, which related to coordinated technical assistance and dissemination, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1485, Pub. L. 91–230, title VI, § 686, formerly § 685, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1155; renumbered § 686 and amended Pub. L. 102–119, §§ 20, 21(1), Oct. 7, 1991, 105 Stat. 602, related to authorization of appropriations, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+Another prior section 1485, Pub. L. 91–230, title VI, § 686, formerly § 685, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1155; renumbered § 686 and amended Pub. L. 102–119, §§ 20, 21(1), Oct. 7, 1991, 105 Stat. 602, related to authorization of appropriations, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
-A prior section 1486, Pub. L. 91–230, title VI, § 686, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 154, which authorized appropriations, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1486, Pub. L. 91–230, title VI, § 686, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 154, which authorized appropriations, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-A prior section 1487, Pub. L. 91–230, title VI, § 687, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 154, which related to technology development, demonstration, and utilization and media services, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1487, Pub. L. 91–230, title VI, § 687, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 154, which related to technology development, demonstration, and utilization and media services, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Prior sections 1491 to 1491*o*, which comprised former subchapter IX of this chapter, were repealed by Pub. L. 105–17, title II, § 203(a), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1998.
+Prior sections 1491 to 1491*o*, which comprised former subchapter IX of this chapter, were repealed by Pub. L. 105–17, title II, § 203(a), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1998.
 
-Section 1491, Pub. L. 91–230, title VI, § 701, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3937, provided that former subchapter IX of this chapter could be cited as the “Families of Children With Disabilities Support Act of 1994”.
+Section 1491, Pub. L. 91–230, title VI, § 701, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3937, provided that former subchapter IX of this chapter could be cited as the “Families of Children With Disabilities Support Act of 1994”.
 
-Section 1491a, Pub. L. 91–230, title VI, § 702, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3937, related to findings, purposes, and policy.
+Section 1491a, Pub. L. 91–230, title VI, § 702, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3937, related to findings, purposes, and policy.
 
-Section 1491b, Pub. L. 91–230, title VI, § 703, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3939, related to definitions.
+Section 1491b, Pub. L. 91–230, title VI, § 703, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3939, related to definitions.
 
-Section 1491c, Pub. L. 91–230, title VI, § 704, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3943, related to grants to States.
+Section 1491c, Pub. L. 91–230, title VI, § 704, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3943, related to grants to States.
 
-Section 1491d, Pub. L. 91–230, title VI, § 705, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3944, related to information and assurances required in application for grant.
+Section 1491d, Pub. L. 91–230, title VI, § 705, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3944, related to information and assurances required in application for grant.
 
-Section 1491e, Pub. L. 91–230, title VI, § 706, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3946, related to designation of lead entity by State desiring to receive grant.
+Section 1491e, Pub. L. 91–230, title VI, § 706, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3946, related to designation of lead entity by State desiring to receive grant.
 
-Section 1491f, Pub. L. 91–230, title VI, § 707, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3946, related to designation or establishment by State of a State Policy Council for Families of Children with Disabilities and its composition, functions, etc.
+Section 1491f, Pub. L. 91–230, title VI, § 707, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3946, related to designation or establishment by State of a State Policy Council for Families of Children with Disabilities and its composition, functions, etc.
 
-Section 1491g, Pub. L. 91–230, title VI, § 708, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3949, related to activities authorized for use of grant funds.
+Section 1491g, Pub. L. 91–230, title VI, § 708, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3949, related to activities authorized for use of grant funds.
 
-Section 1491h, Pub. L. 91–230, title VI, § 709, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3951, related to creation and submission of strategic plan by lead entity of State in conjunction with State Policy Council.
+Section 1491h, Pub. L. 91–230, title VI, § 709, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3951, related to creation and submission of strategic plan by lead entity of State in conjunction with State Policy Council.
 
-Section 1491i, Pub. L. 91–230, title VI, § 710, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3952, related to progress criteria and reports.
+Section 1491i, Pub. L. 91–230, title VI, § 710, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3952, related to progress criteria and reports.
 
-Section 1491j, Pub. L. 91–230, title VI, § 711, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3952, related to administrative provisions.
+Section 1491j, Pub. L. 91–230, title VI, § 711, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3952, related to administrative provisions.
 
-Section 1491k, Pub. L. 91–230, title VI, § 712, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3953, related to technical assistance.
+Section 1491k, Pub. L. 91–230, title VI, § 712, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3953, related to technical assistance.
 
-Section 1491*l*, Pub. L. 91–230, title VI, § 713, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3954, related to program evaluation by Secretary.
+Section 1491*l*, Pub. L. 91–230, title VI, § 713, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3954, related to program evaluation by Secretary.
 
-Section 1491m, Pub. L. 91–230, title VI, § 714, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3955, related to projects of national significance.
+Section 1491m, Pub. L. 91–230, title VI, § 714, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3955, related to projects of national significance.
 
-Section 1491n, Pub. L. 91–230, title VI, § 715, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3955, related to construction of provisions of subchapters I through VIII of this chapter as being inapplicable to subchapter IX of this chapter.
+Section 1491n, Pub. L. 91–230, title VI, § 715, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3955, related to construction of provisions of subchapters I through VIII of this chapter as being inapplicable to subchapter IX of this chapter.
 
-Section 1491*o*, Pub. L. 91–230, title VI, § 716, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3955, related to authorization of appropriations.
+Section 1491*o*, Pub. L. 91–230, title VI, § 716, as added Pub. L. 103–382, title III, § 315, Oct. 20, 1994, 108 Stat. 3955, related to authorization of appropriations.

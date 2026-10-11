@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 For termination of chapter by section 1(b) of Pub. L. 102–551, see note set out under section 950aaa of this title.
 
-## § 950aaa. Purpose
+## § 950aaa. Purpose
 
 The purpose of this chapter is to encourage and improve telemedicine services and distance learning services in rural areas through the use of telecommunications, computer networks, and related advanced technologies by students, teachers, medical professionals, and rural residents.
 
-(Pub. L. 101–624, title XXIII, § 2331, as added Pub. L. 104–127, title VII, § 704, Apr. 4, 1996, 110 Stat. 1108.)
+(Pub. L. 101–624, title XXIII, § 2331, as added Pub. L. 104–127, title VII, § 704, Apr. 4, 1996, 110 Stat. 1108.)
 
 **Termination of Section**
 
@@ -33,17 +33,17 @@ For termination of section by section 1(b) of Pub. L. 102–551, see Termination
 
 **Prior Provisions**
 
-A prior section 950aaa, Pub. L. 101–624, title XXIII, § 2331, Nov. 28, 1990, 104 Stat. 4017, provided purposes of chapter, prior to the general amendment of this chapter by Pub. L. 104–127.
+A prior section 950aaa, Pub. L. 101–624, title XXIII, § 2331, Nov. 28, 1990, 104 Stat. 4017, provided purposes of chapter, prior to the general amendment of this chapter by Pub. L. 104–127.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Termination of Chapter**
 
-Pub. L. 102–551, § 1(b), Oct. 28, 1992, 106 Stat. 4100, as amended by Pub. L. 107–171, title VI, § 6203(b), May 13, 2002, 116 Stat. 421; Pub. L. 110–234, title VI, § 6201(c), May 22, 2008, 122 Stat. 1206, and Pub. L. 110–246, § 4(a), title VI, § 6201(c), June 18, 2008, 122 Stat. 1664, 1967; Pub. L. 113–79, title VI, § 6201(b), Feb. 7, 2014, 128 Stat. 856; Pub. L. 115–334, title VI, § 6102(b), Dec. 20, 2018, 132 Stat. 4728, provided that: “Notwithstanding any other provision of law, chapter 1 of subtitle D of title XXIII of the Food, Agriculture, Conservation and Trade Act of 1990 (7 U.S.C. 950aaa et seq.), including the amendments made by this section [enacting section 950aaa–5 of this title and amending section 950aaa–4 of this title], shall be effective until September 30, 2023.”
+Pub. L. 102–551, § 1(b), Oct. 28, 1992, 106 Stat. 4100, as amended by Pub. L. 107–171, title VI, § 6203(b), May 13, 2002, 116 Stat. 421; Pub. L. 110–234, title VI, § 6201(c), May 22, 2008, 122 Stat. 1206, and Pub. L. 110–246, § 4(a), title VI, § 6201(c), June 18, 2008, 122 Stat. 1664, 1967; Pub. L. 113–79, title VI, § 6201(b), Feb. 7, 2014, 128 Stat. 856; Pub. L. 115–334, title VI, § 6102(b), Dec. 20, 2018, 132 Stat. 4728, provided that: “Notwithstanding any other provision of law, chapter 1 of subtitle D of title XXIII of the Food, Agriculture, Conservation and Trade Act of 1990 (7 U.S.C. 950aaa et seq.), including the amendments made by this section [enacting section 950aaa–5 of this title and amending section 950aaa–4 of this title], shall be effective until September 30, 2023.”
 
 [The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2024, to continue, and authorities to be carried out, until the later of Sept. 30, 2025, the date specified in the provision of, or amendment made by, Pub. L. 115–334, or the date in effect pursuant to section 102 of Pub. L. 118–22 (7 U.S.C. 9001 note), see section 4101(a) of Pub. L. 118–158, set out in an Extension of Agricultural Programs note under section 9001 of this title.]
 
-## § 950aaa–1. Definitions
+## § 950aaa–1. Definitions
 
 In this chapter:
 
@@ -63,7 +63,7 @@ The term “Secretary” means the Secretary of Agriculture.
 
 The term “rural area” has the meaning given the term in section 950bb(b)(3) of this title.
 
-(Pub. L. 101–624, title XXIII, § 2332, as added Pub. L. 104–127, title VII, § 704, Apr. 4, 1996, 110 Stat. 1108; amended Pub. L. 115–334, title VI, § 6301(c), Dec. 20, 2018, 132 Stat. 4748.)
+(Pub. L. 101–624, title XXIII, § 2332, as added Pub. L. 104–127, title VII, § 704, Apr. 4, 1996, 110 Stat. 1108; amended Pub. L. 115–334, title VI, § 6301(c), Dec. 20, 2018, 132 Stat. 4748.)
 
 **Termination of Section**
 
@@ -73,13 +73,13 @@ For termination of section by section 1(b) of Pub. L. 102–551, see Termination
 
 **Prior Provisions**
 
-A prior section 950aaa–1, Pub. L. 101–624, title XXIII, § 2332, Nov. 28, 1990, 104 Stat. 4017; Pub. L. 102–237, title VII, § 702(g), Dec. 13, 1991, 105 Stat. 1880, provided goal of Federal Government to make affordable advanced telecommunications available to rural residents, prior to the general amendment of this chapter by Pub. L. 104–127.
+A prior section 950aaa–1, Pub. L. 101–624, title XXIII, § 2332, Nov. 28, 1990, 104 Stat. 4017; Pub. L. 102–237, title VII, § 702(g), Dec. 13, 1991, 105 Stat. 1880, provided goal of Federal Government to make affordable advanced telecommunications available to rural residents, prior to the general amendment of this chapter by Pub. L. 104–127.
 
 **Amendments**
 
 2018—Par. (4). Pub. L. 115–334 added par. (4).
 
-## § 950aaa–2. Telemedicine and distance learning services in rural areas
+## § 950aaa–2. Telemedicine and distance learning services in rural areas
 
 **(a) Services to rural areas**
 
@@ -101,9 +101,9 @@ The Secretary shall determine the portion of the financial assistance provided t
 
 **(A)** entities using telemedicine services or distance learning services;
 
-**(B)** entities providing or proposing to provide telemedicine service or distance learning service to other persons at rates calculated to ensure that the benefit of the financial assistance is passed through to the other persons; 1
+**(B)** entities providing or proposing to provide telemedicine service or distance learning service to other persons at rates calculated to ensure that the benefit of the financial assistance is passed through to the other persons; 1
 
-<sup>1</sup>  So in original. Probably should be followed by “and”.
+<sup>1</sup> So in original. Probably should be followed by “and”.
 
 **(C)** libraries.
 
@@ -199,7 +199,7 @@ Each applicant for a grant for a telemedicine or distance learning project estab
 
 **(B)** make the applications available for inspection.
 
-(Pub. L. 101–624, title XXIII, § 2333, as added Pub. L. 104–127, title VII, § 704, Apr. 4, 1996, 110 Stat. 1109; amended Pub. L. 110–234, title VI, § 6201(a), May 22, 2008, 122 Stat. 1205; Pub. L. 110–246, § 4(a), title VI, § 6201(a), June 18, 2008, 122 Stat. 1664, 1967.)
+(Pub. L. 101–624, title XXIII, § 2333, as added Pub. L. 104–127, title VII, § 704, Apr. 4, 1996, 110 Stat. 1109; amended Pub. L. 110–234, title VI, § 6201(a), May 22, 2008, 122 Stat. 1205; Pub. L. 110–246, § 4(a), title VI, § 6201(a), June 18, 2008, 122 Stat. 1664, 1967.)
 
 **Termination of Section**
 
@@ -209,7 +209,7 @@ For termination of section by section 1(b) of Pub. L. 102–551, see Termination
 
 **References in Text**
 
-The Rural Electrification Act of 1936, referred to in subsecs. (c)(2) and (h)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
+The Rural Electrification Act of 1936, referred to in subsecs. (c)(2) and (h)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
 **Codification**
 
@@ -217,11 +217,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 950aaa–2, Pub. L. 101–624, title XXIII, § 2333, Nov. 28, 1990, 104 Stat. 4017; Pub. L. 103–354, title II, § 235(b)(4)(A), (C), Oct. 13, 1994, 108 Stat. 3221, 3222, provided definitions for chapter, prior to the general amendment of this chapter by Pub. L. 104–127.
+A prior section 950aaa–2, Pub. L. 101–624, title XXIII, § 2333, Nov. 28, 1990, 104 Stat. 4017; Pub. L. 103–354, title II, § 235(b)(4)(A), (C), Oct. 13, 1994, 108 Stat. 3221, 3222, provided definitions for chapter, prior to the general amendment of this chapter by Pub. L. 104–127.
 
 **Amendments**
 
-2008—Subsec. (c)(1)(C). Pub. L. 110–246, § 6201(a), added subpar. (C).
+2008—Subsec. (c)(1)(C). Pub. L. 110–246, § 6201(a), added subpar. (C).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -229,7 +229,7 @@ A prior section 950aaa–2, Pub. L. 101–624, title XXIII, § 2333, Nov. 28, 
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-## § 950aaa–3. Administration
+## § 950aaa–3. Administration
 
 **(a) Nonduplication**
 
@@ -255,7 +255,7 @@ The Secretary shall coordinate, to the extent practicable, with other Federal an
 
 The Secretary shall establish and implement procedures to carry out informational efforts to advise potential end users located in rural areas of each State about the program authorized by this chapter.
 
-(Pub. L. 101–624, title XXIII, § 2334, as added Pub. L. 104–127, title VII, § 704, Apr. 4, 1996, 110 Stat. 1111.)
+(Pub. L. 101–624, title XXIII, § 2334, as added Pub. L. 104–127, title VII, § 704, Apr. 4, 1996, 110 Stat. 1111.)
 
 **Termination of Section**
 
@@ -265,13 +265,13 @@ For termination of section by section 1(b) of Pub. L. 102–551, see Termination
 
 **Prior Provisions**
 
-A prior section 950aaa–3, Pub. L. 101–624, title XXIII, § 2334, Nov. 28, 1990, 104 Stat. 4019; Pub. L. 103–354, title II, § 235(b)(4)(B), (C), Oct. 13, 1994, 108 Stat. 3221, 3222, contained provisions relevant to telecommunications programs, prior to the general amendment of this chapter by Pub. L. 104–127.
+A prior section 950aaa–3, Pub. L. 101–624, title XXIII, § 2334, Nov. 28, 1990, 104 Stat. 4019; Pub. L. 103–354, title II, § 235(b)(4)(B), (C), Oct. 13, 1994, 108 Stat. 3221, 3222, contained provisions relevant to telecommunications programs, prior to the general amendment of this chapter by Pub. L. 104–127.
 
-## § 950aaa–4. Regulations
+## § 950aaa–4. Regulations
 
 Not later than 180 days after April 4, 1996, the Secretary shall issue regulations to carry out this chapter.
 
-(Pub. L. 101–624, title XXIII, § 2335, as added Pub. L. 104–127, title VII, § 704, Apr. 4, 1996, 110 Stat. 1112.)
+(Pub. L. 101–624, title XXIII, § 2335, as added Pub. L. 104–127, title VII, § 704, Apr. 4, 1996, 110 Stat. 1112.)
 
 **Termination of Section**
 
@@ -281,19 +281,19 @@ For termination of section by section 1(b) of Pub. L. 102–551, see Termination
 
 **Prior Provisions**
 
-A prior section 950aaa–4, Pub. L. 101–624, title XXIII, § 2335, Nov. 28, 1990, 104 Stat. 4021; Pub. L. 102–551, § 1(c), Oct. 28, 1992, 106 Stat. 4100; Pub. L. 103–354, title II, § 235(b)(4)(C), Oct. 13, 1994, 108 Stat. 3222, related to rural community access to advanced telecommunications, prior to the general amendment of this chapter by Pub. L. 104–127.
+A prior section 950aaa–4, Pub. L. 101–624, title XXIII, § 2335, Nov. 28, 1990, 104 Stat. 4021; Pub. L. 102–551, § 1(c), Oct. 28, 1992, 106 Stat. 4100; Pub. L. 103–354, title II, § 235(b)(4)(C), Oct. 13, 1994, 108 Stat. 3222, related to rural community access to advanced telecommunications, prior to the general amendment of this chapter by Pub. L. 104–127.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Analysis by Office of Technology Assessment**
 
-Pub. L. 101–624, title XXIII, § 2385, Nov. 28, 1990, 104 Stat. 4051, provided that Office of Technology Assessment was to include, in study of effects of information age technology on rural America, analysis of feasibility of ensuring that rural citizens in their homes and schools had ability to acquire, by computer, information in a national library, and specified contents of such analysis, prior to repeal by Pub. L. 104–127, title VII, § 708, Apr. 4, 1996, 110 Stat. 1112.
+Pub. L. 101–624, title XXIII, § 2385, Nov. 28, 1990, 104 Stat. 4051, provided that Office of Technology Assessment was to include, in study of effects of information age technology on rural America, analysis of feasibility of ensuring that rural citizens in their homes and schools had ability to acquire, by computer, information in a national library, and specified contents of such analysis, prior to repeal by Pub. L. 104–127, title VII, § 708, Apr. 4, 1996, 110 Stat. 1112.
 
-## § 950aaa–5. Authorization of appropriations
+## § 950aaa–5. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this chapter $82,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 101–624, title XXIII, § 2335A, as added Pub. L. 104–127, title VII, § 704, Apr. 4, 1996, 110 Stat. 1112; amended Pub. L. 107–171, title VI, § 6203(a), May 13, 2002, 116 Stat. 421; Pub. L. 110–234, title VI, § 6201(b), May 22, 2008, 122 Stat. 1206; Pub. L. 110–246, § 4(a), title VI, § 6201(b), June 18, 2008, 122 Stat. 1664, 1967; Pub. L. 113–79, title VI, § 6201(a), Feb. 7, 2014, 128 Stat. 856; Pub. L. 115–334, title VI, § 6102(a), Dec. 20, 2018, 132 Stat. 4728.)
+(Pub. L. 101–624, title XXIII, § 2335A, as added Pub. L. 104–127, title VII, § 704, Apr. 4, 1996, 110 Stat. 1112; amended Pub. L. 107–171, title VI, § 6203(a), May 13, 2002, 116 Stat. 421; Pub. L. 110–234, title VI, § 6201(b), May 22, 2008, 122 Stat. 1206; Pub. L. 110–246, § 4(a), title VI, § 6201(b), June 18, 2008, 122 Stat. 1664, 1967; Pub. L. 113–79, title VI, § 6201(a), Feb. 7, 2014, 128 Stat. 856; Pub. L. 115–334, title VI, § 6102(a), Dec. 20, 2018, 132 Stat. 4728.)
 
 **Termination of Section**
 
@@ -307,7 +307,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 950aaa–5, Pub. L. 101–624, title XXIII, § 2335A, as added Pub. L. 102–551, § 1(a), Oct. 28, 1992, 106 Stat. 4098; amended Pub. L. 103–354, title II, § 235(b)(4)(C), Oct. 13, 1994, 108 Stat. 3222, related to special health care and distance learning program for qualified service areas, prior to the general amendment of this chapter by Pub. L. 104–127.
+A prior section 950aaa–5, Pub. L. 101–624, title XXIII, § 2335A, as added Pub. L. 102–551, § 1(a), Oct. 28, 1992, 106 Stat. 4098; amended Pub. L. 103–354, title II, § 235(b)(4)(C), Oct. 13, 1994, 108 Stat. 3222, related to special health care and distance learning program for qualified service areas, prior to the general amendment of this chapter by Pub. L. 104–127.
 
 **Amendments**
 
@@ -315,7 +315,7 @@ A prior section 950aaa–5, Pub. L. 101–624, title XXIII, § 2335A, as added
 
 2014—Pub. L. 113–79 substituted “$75,000,000 for each of fiscal years 2014 through 2018” for “$100,000,000 for each of fiscal years 1996 through 2012”.
 
-2008—Pub. L. 110–246, § 6201(b), substituted “2012” for “2007”.
+2008—Pub. L. 110–246, § 6201(b), substituted “2012” for “2007”.
 
 2002—Pub. L. 107–171 substituted “2007” for “2002”.
 

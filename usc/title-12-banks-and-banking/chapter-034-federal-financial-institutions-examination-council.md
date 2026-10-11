@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 34—FEDERAL FINANCIAL INSTITUTIONS EXAMINATION COUNCIL
 
-## § 3301. Declaration of purpose
+## § 3301. Declaration of purpose
 
 It is the purpose of this chapter to establish a Financial Institutions Examination Council which shall prescribe uniform principles and standards for the Federal examination of financial institutions by the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, the Federal Home Loan Bank Board, and the National Credit Union Administration and make recommendations to promote uniformity in the supervision of these financial institutions. The Council’s actions shall be designed to promote consistency in such examination and to insure progressive and vigilant supervision.
 
-(Pub. L. 95–630, title X, § 1002, Nov. 10, 1978, 92 Stat. 3694.)
+(Pub. L. 95–630, title X, § 1002, Nov. 10, 1978, 92 Stat. 3694.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -29,13 +29,13 @@ Section effective upon the expiration of 120 days after Nov. 10, 1978, see secti
 
 **Short Title**
 
-Pub. L. 95–630, title X, § 1001, Nov. 10, 1978, 92 Stat. 3694, provided that: “This title [enacting this chapter and amending section 67 of former Title 31, Money and Finance] may be cited as the ‘Federal Financial Institutions Examination Council Act of 1978’.”
+Pub. L. 95–630, title X, § 1001, Nov. 10, 1978, 92 Stat. 3694, provided that: “This title [enacting this chapter and amending section 67 of former Title 31, Money and Finance] may be cited as the ‘Federal Financial Institutions Examination Council Act of 1978’.”
 
 **Transfer of Functions**
 
 Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
 
-## § 3302. Definitions
+## § 3302. Definitions
 
 As used in this chapter—
 
@@ -43,19 +43,19 @@ As used in this chapter—
 
 **(2)** the term “Council” means the Financial Institutions Examination Council; and
 
-**(3)** the term “financial institution” means a commercial bank, a savings bank, a trust company, a savings association, a building and loan association, a homestead association, a cooperative bank, or a credit union; 1
+**(3)** the term “financial institution” means a commercial bank, a savings bank, a trust company, a savings association, a building and loan association, a homestead association, a cooperative bank, or a credit union; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a period.
+<sup>1</sup> So in original. The semicolon probably should be a period.
 
-(Pub. L. 95–630, title X, § 1003, Nov. 10, 1978, 92 Stat. 3694; Pub. L. 101–73, title VII, § 744(a)(1), Aug. 9, 1989, 103 Stat. 438.)
+(Pub. L. 95–630, title X, § 1003, Nov. 10, 1978, 92 Stat. 3694; Pub. L. 101–73, title VII, § 744(a)(1), Aug. 9, 1989, 103 Stat. 438.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1989—Par. (1). Pub. L. 101–73, § 744(a)(1)(A), substituted “Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
+1989—Par. (1). Pub. L. 101–73, § 744(a)(1)(A), substituted “Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
 
-Par. (3). Pub. L. 101–73, § 744(a)(1)(B), substituted “savings association” for “savings and loan association”.
+Par. (3). Pub. L. 101–73, § 744(a)(1)(B), substituted “savings association” for “savings and loan association”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -63,7 +63,7 @@ Par. (3). Pub. L. 101–73, § 744(a)(1)(B), substituted “savings associatio
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3303. Financial Institutions Examination Council
+## § 3303. Financial Institutions Examination Council
 
 **(a) Establishment; composition** There is established the Financial Institutions Examination Council which shall consist of—
 
@@ -95,7 +95,7 @@ The members of the Council may, from time to time, designate other officers or e
 
 Each member of the Council shall serve without additional compensation but shall be entitled to reasonable expenses incurred in carrying out his official duties as such a member.
 
-(Pub. L. 95–630, title X, § 1004, Nov. 10, 1978, 92 Stat. 3694; Pub. L. 101–73, title VII, § 744(a)(2), Aug. 9, 1989, 103 Stat. 438; Pub. L. 109–351, title VII, § 714(a), Oct. 13, 2006, 120 Stat. 1995; Pub. L. 111–203, title X, § 1091, July 21, 2010, 124 Stat. 2094.)
+(Pub. L. 95–630, title X, § 1004, Nov. 10, 1978, 92 Stat. 3694; Pub. L. 101–73, title VII, § 744(a)(2), Aug. 9, 1989, 103 Stat. 438; Pub. L. 109–351, title VII, § 714(a), Oct. 13, 2006, 120 Stat. 1995; Pub. L. 111–203, title X, § 1091, July 21, 2010, 124 Stat. 2094.)
 
 **Editorial Notes**
 
@@ -103,9 +103,9 @@ Each member of the Council shall serve without additional compensation but shall
 
 2010—Subsec. (a)(4). Pub. L. 111–203 substituted “Director of the Consumer Financial Protection Bureau” for “Director, Office of Thrift Supervision”.
 
-2006—Subsec. (a)(4). Pub. L. 109–351, § 714(a)(1), substituted “Thrift Supervision,” for “Thrift Supervision”.
+2006—Subsec. (a)(4). Pub. L. 109–351, § 714(a)(1), substituted “Thrift Supervision,” for “Thrift Supervision”.
 
-Subsec. (a)(6). Pub. L. 109–351, § 714(a)(2), (3), added par. (6).
+Subsec. (a)(6). Pub. L. 109–351, § 714(a)(2), (3), added par. (6).
 
 1989—Subsec. (a)(4). Pub. L. 101–73 substituted “Director, Office of Thrift Supervision” for “Chairman of the Federal Home Loan Bank Board, and”.
 
@@ -119,11 +119,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3304. Costs and expenses of Council
+## § 3304. Costs and expenses of Council
 
 One-fifth of the costs and expenses of the Council, including the salaries of its employees, shall be paid by each of the Federal financial institutions regulatory agencies. Annual assessments for such share shall be levied by the Council based upon its projected budget for the year, and additional assessments may be made during the year if necessary.
 
-(Pub. L. 95–630, title X, § 1005, Nov. 10, 1978, 92 Stat. 3695.)
+(Pub. L. 95–630, title X, § 1005, Nov. 10, 1978, 92 Stat. 3695.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -131,7 +131,7 @@ One-fifth of the costs and expenses of the Council, including the salaries of it
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3305. Functions of Council
+## § 3305. Functions of Council
 
 **(a) Establishment of principles and standards**
 
@@ -163,7 +163,7 @@ Not later than April 1 of each year, the Council shall prepare an annual report 
 
 The Council shall consult with and assist the Federal entities for lending regulation, as such term is defined in section 4121(a) of title 42, in developing and coordinating uniform standards and requirements for use by regulated lending institutions under the national flood insurance program.
 
-(Pub. L. 95–630, title X, § 1006, Nov. 10, 1978, 92 Stat. 3695; Pub. L. 97–320, title IV, § 431, Oct. 15, 1982, 96 Stat. 1527; Pub. L. 101–73, title VII, § 744(a)(3), Aug. 9, 1989, 103 Stat. 438; Pub. L. 103–325, title V, § 530, Sept. 23, 1994, 108 Stat. 2267.)
+(Pub. L. 95–630, title X, § 1006, Nov. 10, 1978, 92 Stat. 3695; Pub. L. 97–320, title IV, § 431, Oct. 15, 1982, 96 Stat. 1527; Pub. L. 101–73, title VII, § 744(a)(3), Aug. 9, 1989, 103 Stat. 438; Pub. L. 103–325, title V, § 530, Sept. 23, 1994, 108 Stat. 2267.)
 
 **Editorial Notes**
 
@@ -183,7 +183,7 @@ Section effective upon the expiration of 120 days after Nov. 10, 1978, see secti
 
 **Update of Manual**
 
-Pub. L. 116–283, div. F, title LXII, § 6209(b), Jan. 1, 2021, 134 Stat. 4574, provided that:
+Pub. L. 116–283, div. F, title LXII, § 6209(b), Jan. 1, 2021, 134 Stat. 4574, provided that:
 
 > “The Financial Institutions Examination Council shall ensure that any manual prepared by the Council is—
 
@@ -195,7 +195,7 @@ Pub. L. 116–283, div. F, title LXII, § 6209(b), Jan. 1, 2021, 134 Stat. 457
 
 **Strengthening the Role of Anti-Money Laundering and Other Financial Tools in Combating Human Trafficking**
 
-Pub. L. 116–92, div. F, title LXXI, § 7154(c), (d), Dec. 20, 2019, 133 Stat. 2260, 2261, provided that:
+Pub. L. 116–92, div. F, title LXXI, § 7154(c), (d), Dec. 20, 2019, 133 Stat. 2260, 2261, provided that:
 
 > **“(c) Required Review of Procedures.—** Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Federal Financial Institutions Examination Council, in consultation with the Secretary of the Treasury, victims of severe forms of trafficking in persons, advocates of persons at risk of becoming victims of severe forms of trafficking in persons, the United States Advisory Council on Trafficking, civil society organizations, the private sector, and appropriate law enforcement agencies, shall—
 
@@ -213,11 +213,11 @@ Pub. L. 116–92, div. F, title LXXI, § 7154(c), (d), Dec. 20, 2019, 133 Stat
 
 **Report on Consistent Use of Financial Terminology**
 
-Pub. L. 103–325, title II, § 210, Sept. 23, 1994, 108 Stat. 2203, provided that: “Not later than 2 years after the date of enactment of this Act [Sept. 23, 1994], the Financial Institutions Examination Council shall report to the Congress on its recommendations for the use of consistent financial terminology by depository institutions for small business loans or leases of personal property which are sold for the creation of small business related securities (as defined in section 3(a)(53)(A) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(53)(A)]).”
+Pub. L. 103–325, title II, § 210, Sept. 23, 1994, 108 Stat. 2203, provided that: “Not later than 2 years after the date of enactment of this Act [Sept. 23, 1994], the Financial Institutions Examination Council shall report to the Congress on its recommendations for the use of consistent financial terminology by depository institutions for small business loans or leases of personal property which are sold for the creation of small business related securities (as defined in section 3(a)(53)(A) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(53)(A)]).”
 
 **Examination Improvement Program**
 
-Pub. L. 102–242, title I, § 111(d), Dec. 19, 1991, 105 Stat. 2241, provided that:
+Pub. L. 102–242, title I, § 111(d), Dec. 19, 1991, 105 Stat. 2241, provided that:
 
 > **“(1) In general.—** The appropriate Federal banking agencies, acting through the Federal Financial Institutions Examination Council, shall each establish a comparable examination improvement program that meets the requirements of paragraph (2).
 
@@ -229,21 +229,21 @@ Pub. L. 102–242, title I, § 111(d), Dec. 19, 1991, 105 Stat. 2241, provided
 
 **Study on Regulatory Burden**
 
-Pub. L. 102–242, title II, § 221, Dec. 19, 1991, 105 Stat. 2305, required the Federal Financial Institutions Examination Council, by 1 year after Dec. 19, 1991, and in consultation with individuals representing insured depository institutions, consumers, community groups, and other interested parties, to undertake a comprehensive study of the regulatory burden on insured depository institutions of compliance with Federal banking agencies and their regulations and policies, and report to Congress on any revisions of such policies, procedures, and requirements that could reduce unnecessary burdens on insured depository institutions.
+Pub. L. 102–242, title II, § 221, Dec. 19, 1991, 105 Stat. 2305, required the Federal Financial Institutions Examination Council, by 1 year after Dec. 19, 1991, and in consultation with individuals representing insured depository institutions, consumers, community groups, and other interested parties, to undertake a comprehensive study of the regulatory burden on insured depository institutions of compliance with Federal banking agencies and their regulations and policies, and report to Congress on any revisions of such policies, procedures, and requirements that could reduce unnecessary burdens on insured depository institutions.
 
 **Study and Report Assessing Feasibility and Usefulness of Depository Institutions Making Small Business Loans To Compile and Disclose Loan Information**
 
-Pub. L. 96–399, title III, § 340(d), Oct. 8, 1980, 94 Stat. 1659, directed Federal Financial Institutions Examination Council, in consultation with Administrator of Small Business Administration, to conduct a study to assess feasibility and usefulness of requiring depository institutions which make small business loans to compile and publicly disclose information regarding such loans, and directed Council to submit a report on results of such study, together with recommendations, to Senate Committee on Banking, Housing, and Urban Affairs and House Committee on Banking, Finance and Urban Affairs not later than Mar. 1, 1981.
+Pub. L. 96–399, title III, § 340(d), Oct. 8, 1980, 94 Stat. 1659, directed Federal Financial Institutions Examination Council, in consultation with Administrator of Small Business Administration, to conduct a study to assess feasibility and usefulness of requiring depository institutions which make small business loans to compile and publicly disclose information regarding such loans, and directed Council to submit a report on results of such study, together with recommendations, to Senate Committee on Banking, Housing, and Urban Affairs and House Committee on Banking, Finance and Urban Affairs not later than Mar. 1, 1981.
 
 **Evaluation and Report on Feasibility and Desirability of Establishing a Unified System for Enforcing Fair Lending Laws and Regulations**
 
-Pub. L. 96–399, title III, § 340(e), Oct. 8, 1980, 94 Stat. 1659, directed Federal Financial Institutions Examination Council to transmit a report to Congress not later than Sept. 30, 1982, on feasibility and desirability of establishing a unified system for enforcing fair lending laws and regulations, implementing Community Reinvestment Act of 1977 [12 U.S.C. 2901 et seq.], and satisfying public disclosure purposes of Home Mortgage Disclosure Act of 1975 [12 U.S.C. 2801 et seq.], such report to evaluate status and effectiveness of data collection and analysis systems of such agencies involving fair lending and community reinvestment, and to outline possible specific timetables for implementing such a unified system.
+Pub. L. 96–399, title III, § 340(e), Oct. 8, 1980, 94 Stat. 1659, directed Federal Financial Institutions Examination Council to transmit a report to Congress not later than Sept. 30, 1982, on feasibility and desirability of establishing a unified system for enforcing fair lending laws and regulations, implementing Community Reinvestment Act of 1977 [12 U.S.C. 2901 et seq.], and satisfying public disclosure purposes of Home Mortgage Disclosure Act of 1975 [12 U.S.C. 2801 et seq.], such report to evaluate status and effectiveness of data collection and analysis systems of such agencies involving fair lending and community reinvestment, and to outline possible specific timetables for implementing such a unified system.
 
-## § 3306. State liaison
+## § 3306. State liaison
 
 To encourage the application of uniform examination principles and standards by State and Federal supervisory agencies, the Council shall establish a liaison committee composed of five representatives of State agencies which supervise financial institutions which shall meet at least twice a year with the Council. Members of the liaison committee shall receive a reasonable allowance for necessary expenses incurred in attending meetings. Members of the Liaison Committee shall elect a chairperson from among the members serving on the committee.
 
-(Pub. L. 95–630, title X, § 1007, Nov. 10, 1978, 92 Stat. 3696; Pub. L. 109–351, title VII, § 714(b), Oct. 13, 2006, 120 Stat. 1995.)
+(Pub. L. 95–630, title X, § 1007, Nov. 10, 1978, 92 Stat. 3696; Pub. L. 109–351, title VII, § 714(b), Oct. 13, 2006, 120 Stat. 1995.)
 
 **Editorial Notes**
 
@@ -257,7 +257,7 @@ To encourage the application of uniform examination principles and standards by 
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3307. Administration
+## § 3307. Administration
 
 **(a) Authority of Chairman of Council**
 
@@ -265,9 +265,9 @@ The Chairman of the Council is authorized to carry out and to delegate the autho
 
 **(b) Use of personnel, services, and facilities of Federal financial institutions regulatory agencies, Federal Reserve banks, and Federal Home Loan Banks**
 
-in 1
+in 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 addition to any other authority conferred upon it by this chapter, in carrying out its functions under this chapter, the Council may utilize, with their consent and to the extent practical, the personnel, services, and facilities of the Federal financial institutions regulatory agencies, Federal Reserve banks, and Federal Home Loan Banks, with or without reimbursement therefor.
 
@@ -277,7 +277,7 @@ addition to any other authority conferred upon it by this chapter, in carrying o
 
 **(2)** obtain the services of such experts and consultants as are necessary to carry out the provisions of this chapter.
 
-(Pub. L. 95–630, title X, § 1008, Nov. 10, 1978, 92 Stat. 3696.)
+(Pub. L. 95–630, title X, § 1008, Nov. 10, 1978, 92 Stat. 3696.)
 
 **Editorial Notes**
 
@@ -285,7 +285,7 @@ addition to any other authority conferred upon it by this chapter, in carrying o
 
 The provisions of title 5 relating to the competitive service, referred to in subsec. (c), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-The provisions of title 5 relating to classification, referred to in subsec. (c), are classified generally to chapter 51 (§ 5101 et seq.) and to subchapter III (§ 5331 et seq.) of chapter 53 of Title 5.
+The provisions of title 5 relating to classification, referred to in subsec. (c), are classified generally to chapter 51 (§ 5101 et seq.) and to subchapter III (§ 5331 et seq.) of chapter 53 of Title 5.
 
 The provisions of title 5 relating to General Schedule pay rates, referred to in subsec. (c), are set out under section 5332 of Title 5.
 
@@ -295,11 +295,11 @@ The provisions of title 5 relating to General Schedule pay rates, referred to in
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3308. Access to books, accounts, records, etc., by Council
+## § 3308. Access to books, accounts, records, etc., by Council
 
 For the purpose of carrying out this chapter, the Council shall have access to all books, accounts, records, reports, files, memorandums, papers, things, and property belonging to or in use by Federal financial institutions regulatory agencies, including reports of examination of financial institutions or their holding companies from whatever source, together with workpapers and correspondence files related to such reports, whether or not a part of the report, and all without any deletions.
 
-(Pub. L. 95–630, title X, § 1009, Nov. 10, 1978, 92 Stat. 3696.)
+(Pub. L. 95–630, title X, § 1009, Nov. 10, 1978, 92 Stat. 3696.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -307,7 +307,7 @@ For the purpose of carrying out this chapter, the Council shall have access to a
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3309. Risk management training
+## § 3309. Risk management training
 
 **(a) Seminars**
 
@@ -319,19 +319,19 @@ The Council shall develop and administer training seminars in risk management fo
 
 **(2)** report to the Congress the results of such study.
 
-(Pub. L. 95–630, title X, § 1009A, as added Pub. L. 101–73, title XII, § 1218, Aug. 9, 1989, 103 Stat. 546.)
+(Pub. L. 95–630, title X, § 1009A, as added Pub. L. 101–73, title XII, § 1218, Aug. 9, 1989, 103 Stat. 546.)
 
-## § 3310. Establishment of Appraisal Subcommittee
+## § 3310. Establishment of Appraisal Subcommittee
 
 There shall be within the Council a subcommittee to be known as the “Appraisal Subcommittee”, which shall consist of the designees of the heads of the Federal financial institutions regulatory agencies, the Bureau of Consumer Financial Protection, and the Federal Housing Finance Agency. Each such designee shall be a person who has demonstrated knowledge and competence concerning the appraisal profession. At all times at least one member of the Appraisal Subcommittee shall have demonstrated knowledge and competence through licensure, certification, or professional designation within the appraisal profession.
 
-(Pub. L. 95–630, title X, § 1011, as added Pub. L. 101–73, title XI, § 1102, Aug. 9, 1989, 103 Stat. 511; amended Pub. L. 111–203, title XIV, § 1473(s), July 21, 2010, 124 Stat. 2199.)
+(Pub. L. 95–630, title X, § 1011, as added Pub. L. 101–73, title XI, § 1102, Aug. 9, 1989, 103 Stat. 511; amended Pub. L. 111–203, title XIV, § 1473(s), July 21, 2010, 124 Stat. 2199.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–203 inserted “, the Bureau of Consumer Financial Protection, and the Federal Housing Finance Agency” after “agencies” and “At all times at least one member of the Appraisal Subcommittee shall have demonstrated knowledge and competence through licensure, certification, or professional designation within the appraisal profession.” at the end.
+2010—Pub. L. 111–203 inserted “, the Bureau of Consumer Financial Protection, and the Federal Housing Finance Agency” after “agencies” and “At all times at least one member of the Appraisal Subcommittee shall have demonstrated knowledge and competence through licensure, certification, or professional designation within the appraisal profession.” at the end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -339,7 +339,7 @@ There shall be within the Council a subcommittee to be known as the “Appraisal
 
 Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## § 3311. Required review of regulations
+## § 3311. Required review of regulations
 
 **(a) In general**
 
@@ -367,7 +367,7 @@ The Council or the appropriate Federal banking agency shall ensure that the noti
 
 **(2)** an analysis of whether the appropriate Federal banking agency involved is able to address the regulatory burdens associated with such issues by regulation, or whether such burdens must be addressed by legislative action.
 
-(Pub. L. 104–208, div. A, title II, § 2222, Sept. 30, 1996, 110 Stat. 3009–414.)
+(Pub. L. 104–208, div. A, title II, § 2222, Sept. 30, 1996, 110 Stat. 3009–414.)
 
 **Editorial Notes**
 

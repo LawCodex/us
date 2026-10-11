@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 127—EXECUTIONS AND JUDICIAL SALES
 
-## § 2001. Sale of realty generally
+## § 2001. Sale of realty generally
 
 **(a)** Any realty or interest therein sold under any order or decree of any court of the United States shall be sold as a whole or in separate parcels at public sale at the courthouse of the county, parish, or city in which the greater part of the property is located, or upon the premises or some parcel thereof located therein, as the court directs. Such sale shall be upon such terms and conditions as the court directs.
 
@@ -25,13 +25,13 @@ Property in the possession of a receiver or receivers appointed by one or more d
 
 **(c)** This section shall not apply to sales and proceedings under Title 11 or by receivers or conservators of banks appointed by the Comptroller of the Currency.
 
-(June 25, 1948, ch. 646, 62 Stat. 958; May 24, 1949, ch. 139, § 99, 63 Stat. 104.)
+(June 25, 1948, ch. 646, 62 Stat. 958; May 24, 1949, ch. 139, § 99, 63 Stat. 104.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., § 847 (Mar. 3, 1893, ch. 225, § 1, 27 Stat. 751; June 19, 1934, ch. 662, 48 Stat. 1119; Apr. 24, 1935, ch. 77, § 1, 49 Stat. 159; June 19, 1935, ch. 276, 49 Stat. 390).
+Based on title 28, U.S.C., 1940 ed., § 847 (Mar. 3, 1893, ch. 225, § 1, 27 Stat. 751; June 19, 1934, ch. 662, 48 Stat. 1119; Apr. 24, 1935, ch. 77, § 1, 49 Stat. 159; June 19, 1935, ch. 276, 49 Stat. 390).
 
 A provision making the section applicable to pending proceedings was deleted as obsolete.
 
@@ -49,7 +49,7 @@ This section corrects a typographical error in subsection (a) of section 2001 of
 
 1949—Subsec. (a). Act May 24, 1949, corrected spelling of “ancillary” in second par.
 
-## § 2002. Notice of sale of realty
+## § 2002. Notice of sale of realty
 
 A public sale of realty or interest therein under any order, judgment or decree of any court of the United States shall not be made without notice published once a week for at least four weeks prior to the sale in at least one newspaper regularly issued and of general circulation in the county, state, or judicial district of the United States wherein the realty is situated.
 
@@ -57,13 +57,13 @@ If such realty is situated in more than one county, state, district or circuit, 
 
 This section shall not apply to sales and proceedings under Title 11 or by receivers or conservators of banks appointed by the Comptroller of the Currency.
 
-(June 25, 1948, ch. 646, 62 Stat. 959; May 24, 1949, ch. 139, § 100, 63 Stat. 104.)
+(June 25, 1948, ch. 646, 62 Stat. 959; May 24, 1949, ch. 139, § 100, 63 Stat. 104.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., § 849 (Mar. 3, 1893, ch. 225, § 3, 27 Stat. 751; Apr. 24, 1935, ch. 77, § 3, 49 Stat. 160; June 19, 1935, ch. 276, 49 Stat. 390).
+Based on title 28, U.S.C., 1940 ed., § 849 (Mar. 3, 1893, ch. 225, § 3, 27 Stat. 751; Apr. 24, 1935, ch. 77, § 3, 49 Stat. 160; June 19, 1935, ch. 276, 49 Stat. 390).
 
 A provision making the section applicable to pending proceedings was deleted as obsolete.
 
@@ -85,19 +85,19 @@ This section corrects a typographical error in section 2002 of title 28, U.S.C.
 
 1949—Act May 24, 1949, substituted “11” for “II” after “Title” in third par.
 
-## § 2003. Marshal’s incapacity after levy on or sale of realty
+## § 2003. Marshal’s incapacity after levy on or sale of realty
 
 Whenever a United States marshal dies, is removed from office, or the term of his commission expires, after levying on realty or any interest therein under a writ of execution issued by a court of the United States, and before sale or other final disposition thereof, like process shall issue to the succeeding marshal and the same proceedings shall be had as if such contingency had not occurred.
 
 Whenever any such contingency arises after a marshal has sold any realty or interest therein and before a deed is executed, the court may, on application by the purchaser, or the plaintiff in whose action the sale was made, setting forth the facts of the case and the reason why the title was not perfected by such marshal, order the succeeding marshal to perfect the title and execute a deed to the purchaser, upon payment of the purchase money and unpaid costs.
 
-(June 25, 1948, ch. 646, 62 Stat. 959; May 24, 1949, ch. 139, § 101, 63 Stat. 104.)
+(June 25, 1948, ch. 646, 62 Stat. 959; May 24, 1949, ch. 139, § 101, 63 Stat. 104.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., § 850 (R.S. § 994).
+Based on title 28, U.S.C., 1940 ed., § 850 (R.S. § 994).
 
 Word “realty” was substituted for “lands, tenements, or hereditaments” in two places, the two terms being synonymous. (See Black’s Law Dictionary, 3d Ed., p. 1969.)
 
@@ -115,7 +115,7 @@ This section corrects a typographical error in section 2003 of title 28, U.S.C.
 
 1949—Act May 24, 1949, corrected spelling of “realty” in first par.
 
-## § 2004. Sale of personalty generally
+## § 2004. Sale of personalty generally
 
 Any personalty sold under any order or decree of any court of the United States shall be sold in accordance with section 2001 of this title, unless the court orders otherwise.
 
@@ -125,13 +125,13 @@ This section shall not apply to sales and proceedings under Title 11 or by recei
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 848 (Mar. 3, 1893, ch. 225, § 2, 27 Stat. 751; Apr. 24, 1935, ch. 77, § 2, 49 Stat. 160; June 19, 1935, ch. 276, 49 Stat. 390).
+Based on title 28, U.S.C., 1940 ed., § 848 (Mar. 3, 1893, ch. 225, § 2, 27 Stat. 751; Apr. 24, 1935, ch. 77, § 2, 49 Stat. 160; June 19, 1935, ch. 276, 49 Stat. 390).
 
 A provision making the section applicable to pending proceedings was deleted as obsolete.
 
 Changes were made in phraseology.
 
-## § 2005. Appraisal of goods taken on execution
+## § 2005. Appraisal of goods taken on execution
 
 Whenever State law requires that goods taken on execution be appraised before sale, goods taken under execution issued from a court of the United States shall be appraised in like manner.
 
@@ -143,13 +143,13 @@ If the appraisers fail to attend and perform their required duties, the marshal 
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 846 (R.S. § 993).
+Based on title 28, U.S.C., 1940 ed., § 846 (R.S. § 993).
 
 Words “shall be appraised in like manner” were substituted for “the appraisers appointed under the authority of the State may appraise goods taken in execution on a fieri facias issued out of any court of the United States”. The change precludes construction that the State appraisers only are available to appraise such goods in civil actions in the federal courts.
 
 Changes were made in phraseology.
 
-## § 2006. Execution against revenue officer
+## § 2006. Execution against revenue officer
 
 Execution shall not issue against a collector or other revenue officer on a final judgment in any proceeding against him for any of his acts, or for the recovery of any money exacted by or paid to him and subsequently paid into the Treasury, in performing his official duties, if the court certifies that:
 
@@ -159,11 +159,11 @@ Execution shall not issue against a collector or other revenue officer on a fina
 
 When such certificate has been issued, the amount of the judgment shall be paid out of the proper appropriation by the Treasury.
 
-(June 25, 1948, ch. 646, 62 Stat. 960; Pub. L. 107–296, title XI, § 1112(*l*), Nov. 25, 2002, 116 Stat. 2277.)
+(June 25, 1948, ch. 646, 62 Stat. 960; Pub. L. 107–296, title XI, § 1112(*l*), Nov. 25, 2002, 116 Stat. 2277.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 842 (R.S. § 989).
+Based on title 28, U.S.C., 1940 ed., § 842 (R.S. § 989).
 
 Changes were made in phraseology.
 
@@ -171,7 +171,7 @@ Changes were made in phraseology.
 
 **Amendments**
 
-2002—Par. (2). Pub. L. 107–296 inserted “, the Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice,” after “the Secretary of the Treasury”.
+2002—Par. (2). Pub. L. 107–296 inserted “, the Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice,” after “the Secretary of the Treasury”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -179,17 +179,17 @@ Changes were made in phraseology.
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-## § 2007. Imprisonment for debt
+## § 2007. Imprisonment for debt
 
 **(a)** A person shall not be imprisoned for debt on a writ of execution or other process issued from a court of the United States in any State wherein imprisonment for debt has been abolished. All modifications, conditions, and restrictions upon such imprisonment provided by State law shall apply to any writ of execution or process issued from a court of the United States in accordance with the procedure applicable in such State.
 
 **(b)** Any person arrested or imprisoned in any State on a writ of execution or other process issued from any court of the United States in a civil action shall have the same jail privileges and be governed by the same regulations as persons confined in like cases on process issued from the courts of such State. The same requirements governing discharge as are applicable in such State shall apply. Any proceedings for discharge shall be conducted before a United States magistrate judge for the judicial district wherein the defendant is held.
 
-(June 25, 1948, ch. 646, 62 Stat. 960; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 646, 62 Stat. 960; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 843, 844, and 845 (R.S. §§ 990, 991, 992; May 28, 1896, ch. 252, § 19, 29 Stat. 184; Mar. 2, 1901, ch. 814, 31 Stat. 956; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167).
+Based on title 28, U.S.C., 1940 ed., §§ 843, 844, and 845 (R.S. §§ 990, 991, 992; May 28, 1896, ch. 252, § 19, 29 Stat. 184; Mar. 2, 1901, ch. 814, 31 Stat. 956; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167).
 
 Changes were made in phraseology.
 
@@ -197,4 +197,4 @@ Changes were made in phraseology.
 
 **Change of Name**
 
-“United States magistrate judge” substituted for “United States magistrate” in subsec. (b) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of this title.
+“United States magistrate judge” substituted for “United States magistrate” in subsec. (b) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of this title.

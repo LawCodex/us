@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 10(g)(2), Sept. 16, 2011, 125 Stat. 319, which directed adding item 123 at the end of this chapter, was executed by adding the item at the end of the table of sections of this chapter, to reflect the probable intent of Congress.
+2011—Pub. L. 112–29, § 10(g)(2), Sept. 16, 2011, 125 Stat. 319, which directed adding item 123 at the end of this chapter, was executed by adding the item at the end of the table of sections of this chapter, to reflect the probable intent of Congress.
 
-Pub. L. 112–29, § 4(a)(4), Sept. 16, 2011, 125 Stat. 296, amended item 115 generally, substituting “Inventor’s oath or declaration” for “Oath of applicant”.
+Pub. L. 112–29, § 4(a)(4), Sept. 16, 2011, 125 Stat. 296, amended item 115 generally, substituting “Inventor’s oath or declaration” for “Oath of applicant”.
 
-2002—Pub. L. 107–273, div. C, title III, § 13206(a)(7), Nov. 2, 2002, 116 Stat. 1904, substituted “Inventors” for “Joint inventors” in item 116.
+2002—Pub. L. 107–273, div. C, title III, § 13206(a)(7), Nov. 2, 2002, 116 Stat. 1904, substituted “Inventors” for “Joint inventors” in item 116.
 
-1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4507(5)], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, inserted “; publication of patent applications” after “applications” in item 122.
+1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4507(5)], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, inserted “; publication of patent applications” after “applications” in item 122.
 
-1994—Pub. L. 103–465, title V, § 532(c)(6), Dec. 8, 1994, 108 Stat. 4987, substituted “Application” for “Application for patent” in item 111 and “Benefit of earlier filing date; right of priority” for “Benefit of earlier filing date in foreign country; right of priority” in item 119.
+1994—Pub. L. 103–465, title V, § 532(c)(6), Dec. 8, 1994, 108 Stat. 4987, substituted “Application” for “Application for patent” in item 111 and “Benefit of earlier filing date; right of priority” for “Benefit of earlier filing date in foreign country; right of priority” in item 119.
 
-## § 111. Application
+## § 111. Application
 
 **(a) In General.—**
 
@@ -75,11 +75,11 @@ Pub. L. 112–29, § 4(a)(4), Sept. 16, 2011, 125 Stat. 296, amended item 115 
 
 **(2)** a copy of the specification and any drawings of the previously filed application are submitted to the Director.
 
-(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 97–247, § 5, Aug. 27, 1982, 96 Stat. 319; Pub. L. 103–465, title V, § 532(b)(3), Dec. 8, 1994, 108 Stat. 4986; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4732(a)(10)(A), 4801(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, 1501A–588; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§ 3(e)(2), 4(a)(3), (d), 20(j), Sept. 16, 2011, 125 Stat. 287, 295, 296, 335; Pub. L. 112–211, title I, § 102(3), title II, § 201(a), Dec. 18, 2012, 126 Stat. 1531, 1533.)
+(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 97–247, § 5, Aug. 27, 1982, 96 Stat. 319; Pub. L. 103–465, title V, § 532(b)(3), Dec. 8, 1994, 108 Stat. 4986; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4732(a)(10)(A), 4801(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, 1501A–588; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§ 3(e)(2), 4(a)(3), (d), 20(j), Sept. 16, 2011, 125 Stat. 287, 295, 296, 335; Pub. L. 112–211, title I, § 102(3), title II, § 201(a), Dec. 18, 2012, 126 Stat. 1531, 1533.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 33 (R.S. 4888, amended (1) Mar. 3, 1915, ch. 94, § 1, 38 Stat. 958; (2) May 23, 1930, ch. 312, § 2, 46 Stat. 376).
+Based on Title 35, U.S.C., 1946 ed., § 33 (R.S. 4888, amended (1) Mar. 3, 1915, ch. 94, § 1, 38 Stat. 958; (2) May 23, 1930, ch. 312, § 2, 46 Stat. 376).
 
 The corresponding section of existing statute is divided into an introductory section relating to the application generally (this section) and a section on the specification (sec. 112).
 
@@ -89,53 +89,53 @@ The parts of the application are specified and the requirement for signature is 
 
 **Amendments**
 
-2012—Subsec. (a)(3), (4). Pub. L. 112–211, § 201(a)(1), added pars. (3) and (4) and struck out former pars. (3) and (4) which related to fee and oath or declaration and failure to submit.
+2012—Subsec. (a)(3), (4). Pub. L. 112–211, § 201(a)(1), added pars. (3) and (4) and struck out former pars. (3) and (4) which related to fee and oath or declaration and failure to submit.
 
-Subsec. (b)(3), (4). Pub. L. 112–211, § 201(a)(2), added pars. (3) and (4) and struck out former pars. (3) and (4) which related to fee and filing date of a provisional application.
+Subsec. (b)(3), (4). Pub. L. 112–211, § 201(a)(2), added pars. (3) and (4) and struck out former pars. (3) and (4) which related to fee and filing date of a provisional application.
 
-Subsec. (b)(7). Pub. L. 112–211, § 102(3), substituted “section 119, 365(a), or 386(a)” for “section 119 or 365(a)” and “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”.
+Subsec. (b)(7). Pub. L. 112–211, § 102(3), substituted “section 119, 365(a), or 386(a)” for “section 119 or 365(a)” and “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”.
 
-Subsec. (c). Pub. L. 112–211, § 201(a)(3), added subsec. (c).
+Subsec. (c). Pub. L. 112–211, § 201(a)(3), added subsec. (c).
 
-2011—Subsec. (a)(2)(A). Pub. L. 112–29, § 20(j), struck out “of this title” after “112”.
+2011—Subsec. (a)(2)(A). Pub. L. 112–29, § 20(j), struck out “of this title” after “112”.
 
-Subsec. (a)(2)(B). Pub. L. 112–29, § 20(j), struck out “of this title” after “113”.
+Subsec. (a)(2)(B). Pub. L. 112–29, § 20(j), struck out “of this title” after “113”.
 
-Subsec. (a)(2)(C). Pub. L. 112–29, § 20(j), struck out “of this title” after “115”.
+Subsec. (a)(2)(C). Pub. L. 112–29, § 20(j), struck out “of this title” after “115”.
 
-Pub. L. 112–29, § 4(a)(3)(A), substituted “or declaration” for “by the applicant”.
+Pub. L. 112–29, § 4(a)(3)(A), substituted “or declaration” for “by the applicant”.
 
-Subsec. (a)(3). Pub. L. 112–29, § 4(a)(3)(B), (C), inserted “or declaration” after “and oath” in heading and text.
+Subsec. (a)(3). Pub. L. 112–29, § 4(a)(3)(B), (C), inserted “or declaration” after “and oath” in heading and text.
 
-Subsec. (a)(4). Pub. L. 112–29, § 4(a)(3)(C), inserted “or declaration” after “and oath” in two places.
+Subsec. (a)(4). Pub. L. 112–29, § 4(a)(3)(C), inserted “or declaration” after “and oath” in two places.
 
-Subsec. (b)(1)(A). Pub. L. 112–29, § 4(d)(1), substituted “section 112(a)” for “the first paragraph of section 112 of this title”.
+Subsec. (b)(1)(A). Pub. L. 112–29, § 4(d)(1), substituted “section 112(a)” for “the first paragraph of section 112 of this title”.
 
-Subsec. (b)(1)(B). Pub. L. 112–29, § 20(j), struck out “of this title” after “113”.
+Subsec. (b)(1)(B). Pub. L. 112–29, § 20(j), struck out “of this title” after “113”.
 
-Subsec. (b)(2). Pub. L. 112–29, § 4(d)(2), substituted “subsections (b) through (e) of section 112,” for “the second through fifth paragraphs of section 112,”.
+Subsec. (b)(2). Pub. L. 112–29, § 4(d)(2), substituted “subsections (b) through (e) of section 112,” for “the second through fifth paragraphs of section 112,”.
 
-Subsec. (b)(5). Pub. L. 112–29, § 20(j), struck out “of this title” after “119(e)(3)”.
+Subsec. (b)(5). Pub. L. 112–29, § 20(j), struck out “of this title” after “119(e)(3)”.
 
-Subsec. (b)(6). Pub. L. 112–29, § 20(j), struck out “of this title” after “119(e)”.
+Subsec. (b)(6). Pub. L. 112–29, § 20(j), struck out “of this title” after “119(e)”.
 
-Subsec. (b)(7). Pub. L. 112–29, § 20(j), struck out “of this title” after “365(a)” and after “365(c)”.
+Subsec. (b)(7). Pub. L. 112–29, § 20(j), struck out “of this title” after “365(a)” and after “365(c)”.
 
-Subsec. (b)(8). Pub. L. 112–29, § 20(j), struck out “of this title” before period at end.
+Subsec. (b)(8). Pub. L. 112–29, § 20(j), struck out “of this title” before period at end.
 
-Pub. L. 112–29, § 3(e)(2), substituted “sections 131 and 135” for “sections 115, 131, 135, and 157”.
+Pub. L. 112–29, § 3(e)(2), substituted “sections 131 and 135” for “sections 115, 131, 135, and 157”.
 
-2002—Subsecs. (a)(1), (3), (4), (b)(1), (3)(B), (C), (6). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment notes below.
+2002—Subsecs. (a)(1), (3), (4), (b)(1), (3)(B), (C), (6). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment notes below.
 
-1999—Subsecs. (a)(1), (3), (4), (b)(1), (3)(B), (C). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+1999—Subsecs. (a)(1), (3), (4), (b)(1), (3)(B), (C). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
-Subsec. (b)(5). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4801(a)], amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The provisional application shall be regarded as abandoned 12 months after the filing date of such application and shall not be subject to revival thereafter.”
+Subsec. (b)(5). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4801(a)], amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The provisional application shall be regarded as abandoned 12 months after the filing date of such application and shall not be subject to revival thereafter.”
 
-Subsec. (b)(6). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+Subsec. (b)(6). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
 1994—Pub. L. 103–465 amended section generally. Prior to amendment, section read as follows: “Application for patent shall be made, or authorized to be made, by the inventor, except as otherwise provided in this title, in writing to the Commissioner. Such application shall include (1) a specification as prescribed by section 112 of this title; (2) a drawing as prescribed by section 113 of this title; and (3) an oath by the applicant as prescribed by section 115 of this title. The application must be accompanied by the fee required by law. The fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner. Upon failure to submit the fee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable. The filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.”
 
-1982—Pub. L. 97–247 inserted “, or authorized to be made,” after “shall be made”, struck out the colon after “shall include”, struck out “signed by the applicant and” after “The application”, and inserted provisions that the fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner, that upon failure to submit the fee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable, and that the filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.
+1982—Pub. L. 97–247 inserted “, or authorized to be made,” after “shall be made”, struck out the colon after “shall include”, struck out “signed by the applicant and” after “The application”, and inserted provisions that the fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner, that upon failure to submit the fee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable, and that the filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -147,17 +147,17 @@ Amendment by section 201(a) of Pub. L. 112–211 effective on the date that is 1
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–29, § 3(e)(3), Sept. 16, 2011, 125 Stat. 288, provided that: “The amendments made by this subsection [amending this section and repealing section 157 of this title] shall take effect upon the expiration of the 18-month period beginning on the date of the enactment of this Act [Sept. 16, 2011], and shall apply to any request for a statutory invention registration filed on or after that effective date.”
+Pub. L. 112–29, § 3(e)(3), Sept. 16, 2011, 125 Stat. 288, provided that: “The amendments made by this subsection [amending this section and repealing section 157 of this title] shall take effect upon the expiration of the 18-month period beginning on the date of the enactment of this Act [Sept. 16, 2011], and shall apply to any request for a statutory invention registration filed on or after that effective date.”
 
-Pub. L. 112–29, § 4(e), Sept. 16, 2011, 125 Stat. 297, provided that: “The amendments made by this section [amending this section and sections 112, 115, 118, 121, and 251 of this title] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent application that is filed on or after that effective date.”
+Pub. L. 112–29, § 4(e), Sept. 16, 2011, 125 Stat. 297, provided that: “The amendments made by this section [amending this section and sections 112, 115, 118, 121, and 251 of this title] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent application that is filed on or after that effective date.”
 
 Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(*l*) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 **Effective Date of 1999 Amendment**
 
-Amendment by section 1000(a)(9) [title IV, § 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by section 1000(a)(9) [title IV, § 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
-Amendment by section 1000(a)(9) [title IV, § 4801(a)] of Pub. L. 106–113 effective Nov. 29, 1999, and applicable to any provisional application filed on or after June 8, 1995, see section 1000(a)(9) [title IV, § 4801(d)] of Pub. L. 106–113, set out as a note under section 119 of this title.
+Amendment by section 1000(a)(9) [title IV, § 4801(a)] of Pub. L. 106–113 effective Nov. 29, 1999, and applicable to any provisional application filed on or after June 8, 1995, see section 1000(a)(9) [title IV, § 4801(d)] of Pub. L. 106–113, set out as a note under section 119 of this title.
 
 **Effective Date of 1994 Amendment**
 
@@ -171,7 +171,7 @@ Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see sect
 
 Pub. L. 92–34, June 30, 1971, 85 Stat. 87, provided that a patent or trademark application would be considered filed in the United States Patent Office on the date that it would have been received by the Patent Office except for the delay caused by emergency situation affecting postal service from Mar. 18, 1970 to Mar. 30, 1970, if a claim was made.
 
-## § 112. Specification
+## § 112. Specification
 
 **(a) In General.—** The specification shall contain a written description of the invention, and of the manner and process of making and using it, in such full, clear, concise, and exact terms as to enable any person skilled in the art to which it pertains, or with which it is most nearly connected, to make and use the same, and shall set forth the best mode contemplated by the inventor or joint inventor of carrying out the invention.
 
@@ -185,17 +185,17 @@ Pub. L. 92–34, June 30, 1971, 85 Stat. 87, provided that a patent or trademark
 
 **(f) Element in Claim for a Combination.—** An element in a claim for a combination may be expressed as a means or step for performing a specified function without the recital of structure, material, or acts in support thereof, and such claim shall be construed to cover the corresponding structure, material, or acts described in the specification and equivalents thereof.
 
-(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 89–83, § 9, July 24, 1965, 79 Stat. 261; Pub. L. 94–131, § 7, Nov. 14, 1975, 89 Stat. 691; Pub. L. 112–29, § 4(c), Sept. 16, 2011, 125 Stat. 296.)
+(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 89–83, § 9, July 24, 1965, 79 Stat. 261; Pub. L. 94–131, § 7, Nov. 14, 1975, 89 Stat. 691; Pub. L. 112–29, § 4(c), Sept. 16, 2011, 125 Stat. 296.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 33 (R.S. 4888, amended (1) Mar. 3, 1915, ch. 94, § 1, 38 Stat. 958; (2) May 23, 1930, ch. 312, § 2, 46 Stat. 376).
+Based on Title 35, U.S.C., 1946 ed., § 33 (R.S. 4888, amended (1) Mar. 3, 1915, ch. 94, § 1, 38 Stat. 958; (2) May 23, 1930, ch. 312, § 2, 46 Stat. 376).
 
 The sentence relating to signature of the specification is omitted in view of the general requirement for a signature in section 111.
 
 The last sentence is omitted for inclusion in the chapter relating to plant patents.
 
-The clause relating to machines is omitted as unnecessary and the requirement for disclosing the best mode of carrying out the invention is stated as generally applicable to all types of invention (derived from Title 35, U.S.C., 1946 ed., § 69, first defense).
+The clause relating to machines is omitted as unnecessary and the requirement for disclosing the best mode of carrying out the invention is stated as generally applicable to all types of invention (derived from Title 35, U.S.C., 1946 ed., § 69, first defense).
 
 The clause relating to the claim is made a separate paragraph to emphasize the distinction between the description and the claim or definition, and the language is modified.
 
@@ -225,15 +225,15 @@ Amendment by Pub. L. 94–131 effective Jan. 24, 1978, and applicable on and aft
 
 Amendment by Pub. L. 89–83 effective three months after July 24, 1965, see section 7(a) of Pub. L. 89–83, set out as a note under section 41 of this title.
 
-## § 113. Drawings
+## § 113. Drawings
 
 The applicant shall furnish a drawing where necessary for the understanding of the subject matter sought to be patented. When the nature of such subject matter admits of illustration by a drawing and the applicant has not furnished such a drawing, the Director may require its submission within a time period of not less than two months from the sending of a notice thereof. Drawings submitted after the filing date of the application may not be used (i) to overcome any insufficiency of the specification due to lack of an enabling disclosure or otherwise inadequate disclosure therein, or (ii) to supplement the original disclosure thereof for the purpose of interpretation of the scope of any claim.
 
-(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 94–131, § 8, Nov. 14, 1975, 89 Stat. 691; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 94–131, § 8, Nov. 14, 1975, 89 Stat. 691; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 34, part (R.S. 4889, amended Mar. 3, 1915, ch. 94, § 2, 38 Stat. 958).
+Based on Title 35, U.S.C., 1946 ed., § 34, part (R.S. 4889, amended Mar. 3, 1915, ch. 94, § 2, 38 Stat. 958).
 
 The requirement for signature in the corresponding section of existing statute is omitted; regulations of the Patent Office can take care of any substitute. A redundant clause is omitted.
 
@@ -251,23 +251,23 @@ The requirement for signature in the corresponding section of existing statute i
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1975 Amendment**
 
 Amendment by Pub. L. 94–131 effective Jan. 24, 1978, and applicable on and after that date to patent applications filed in the United States and to international applications, where applicable, see section 11 of Pub. L. 94–131, set out as an Effective Date note under section 351 of this title.
 
-## § 114. Models, specimens
+## § 114. Models, specimens
 
 The Director may require the applicant to furnish a model of convenient size to exhibit advantageously the several parts of his invention.
 
 When the invention relates to a composition of matter, the Director may require the applicant to furnish specimens or ingredients for the purpose of inspection or experiment.
 
-(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 34, part (R.S. 4890 and 4891).
+Based on Title 35, U.S.C., 1946 ed., § 34, part (R.S. 4890 and 4891).
 
 The change in language in the second paragraph broadens the requirement for specimens.
 
@@ -283,9 +283,9 @@ The change in language in the second paragraph broadens the requirement for spec
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
-## § 115. Inventor’s oath or declaration
+## § 115. Inventor’s oath or declaration
 
 **(a) Naming the Inventor; Inventor’s Oath or Declaration.—** An application for patent that is filed under section 111(a) or commences the national stage under section 371 shall include, or be amended to include, the name of the inventor for any invention claimed in the application. Except as otherwise provided in this section, each individual who is the inventor or a joint inventor of a claimed invention in an application for patent shall execute an oath or declaration in connection with the application.
 
@@ -347,11 +347,11 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 **(i) Acknowledgment of Penalties.—** Any declaration or statement filed pursuant to this section shall contain an acknowledgment that any willful false statement made in such declaration or statement is punishable under section 1001 of title 18 by fine or imprisonment of not more than 5 years, or both.
 
-(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, § 14(a), Aug. 27, 1982, 96 Stat. 321; Pub. L. 105–277, div. G, title XXII, § 2222(d), Oct. 21, 1998, 112 Stat. 2681–818; Pub. L. 112–29, § 4(a)(1), Sept. 16, 2011, 125 Stat. 293; Pub. L. 112–211, title I, § 102(4), Dec. 18, 2012, 126 Stat. 1531; Pub. L. 112–274, § 1(f), Jan. 14, 2013, 126 Stat. 2456.)
+(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, § 14(a), Aug. 27, 1982, 96 Stat. 321; Pub. L. 105–277, div. G, title XXII, § 2222(d), Oct. 21, 1998, 112 Stat. 2681–818; Pub. L. 112–29, § 4(a)(1), Sept. 16, 2011, 125 Stat. 293; Pub. L. 112–211, title I, § 102(4), Dec. 18, 2012, 126 Stat. 1531; Pub. L. 112–274, § 1(f), Jan. 14, 2013, 126 Stat. 2456.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 35 (R.S. 4892, amended (1) Mar. 3, 1903, ch. 1019, § 2, 32 Stat. 1225, 1226, (2) May 23, 1930, ch. 312, § 3, 46 Stat. 376).
+Based on Title 35, U.S.C., 1946 ed., § 35 (R.S. 4892, amended (1) Mar. 3, 1903, ch. 1019, § 2, 32 Stat. 1225, 1226, (2) May 23, 1930, ch. 312, § 3, 46 Stat. 376).
 
 The expression at the end of the second sentence is added to avoid application of the District of Columbia law to oaths taken outside the District.
 
@@ -361,9 +361,9 @@ Changes in language are made.
 
 **Amendments**
 
-2013—Subsec. (f). Pub. L. 112–274, § 1(f)(1), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “A notice of allowance under section 151 may be provided to an applicant for patent only if the applicant for patent has filed each required oath or declaration under subsection (a) or has filed a substitute statement under subsection (d) or recorded an assignment meeting the requirements of subsection (e).”
+2013—Subsec. (f). Pub. L. 112–274, § 1(f)(1), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “A notice of allowance under section 151 may be provided to an applicant for patent only if the applicant for patent has filed each required oath or declaration under subsection (a) or has filed a substitute statement under subsection (d) or recorded an assignment meeting the requirements of subsection (e).”
 
-Subsec. (g)(1). Pub. L. 112–274, § 1(f)(2), substituted “that claims” for “who claims” in introductory provisions.
+Subsec. (g)(1). Pub. L. 112–274, § 1(f)(2), substituted “that claims” for “who claims” in introductory provisions.
 
 2012—Subsec. (g)(1). Pub. L. 112–211 substituted “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)” in introductory provisions.
 
@@ -371,7 +371,7 @@ Subsec. (g)(1). Pub. L. 112–274, § 1(f)(2), substituted “that claims” f
 
 1998—Pub. L. 105–277 inserted at end “For purposes of this section, a consular officer shall include any United States citizen serving overseas, authorized to perform notarial functions pursuant to section 1750 of the Revised Statutes, as amended (22 U.S.C. 4221).”
 
-1982—Pub. L. 97–247 substituted “is” for “shall be” after “whose authority”, and inserted “, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States”.
+1982—Pub. L. 97–247 substituted “is” for “shall be” after “whose authority”, and inserted “, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -391,7 +391,7 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 Amendment by Pub. L. 97–247 effective Aug. 27, 1982, see section 17(a) of Pub. L. 97–247, set out as a note under section 41 of this title.
 
-## § 116. Inventors
+## § 116. Inventors
 
 **(a) Joint Inventions.—** When an invention is made by two or more persons jointly, they shall apply for patent jointly and each make the required oath, except as otherwise provided in this title. Inventors may apply for a patent jointly even though (1) they did not physically work together or at the same time, (2) each did not make the same type or amount of contribution, or (3) each did not make a contribution to the subject matter of every claim of the patent.
 
@@ -399,7 +399,7 @@ Amendment by Pub. L. 97–247 effective Aug. 27, 1982, see section 17(a) of Pub.
 
 **(c) Correction of Errors in Application.—** Whenever through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application, the Director may permit the application to be amended accordingly, under such terms as he prescribes.
 
-(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, § 6(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–622, title I, § 104(a), Nov. 8, 1984, 98 Stat. 3384; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(a), Sept. 16, 2011, 125 Stat. 333.)
+(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, § 6(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–622, title I, § 104(a), Nov. 8, 1984, 98 Stat. 3384; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(a), Sept. 16, 2011, 125 Stat. 333.)
 
 **Historical and Revision Notes**
 
@@ -427,7 +427,7 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1984 Amendment**
 
@@ -437,7 +437,7 @@ Amendment by Pub. L. 98–622 applicable to all United States patents granted be
 
 Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see section 17(c) of Pub. L. 97–247, set out as an Effective Date note under section 294 of this title.
 
-## § 117. Death or incapacity of inventor
+## § 117. Death or incapacity of inventor
 
 Legal representatives of deceased inventors and of those under legal incapacity may make application for patent upon compliance with the requirements and on the same terms and conditions applicable to the inventor.
 
@@ -445,15 +445,15 @@ Legal representatives of deceased inventors and of those under legal incapacity 
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 46 (R.S. 4896, amended (1) Feb. 28, 1899, ch. 227, 30 Stat. 915, (2) Mar. 3, 1903, ch. 1019, § 3, 32 Stat. 1225, 1226, (3) May 23, 1908, ch. 188, 35 Stat. 245).
+Based on Title 35, U.S.C., 1946 ed., § 46 (R.S. 4896, amended (1) Feb. 28, 1899, ch. 227, 30 Stat. 915, (2) Mar. 3, 1903, ch. 1019, § 3, 32 Stat. 1225, 1226, (3) May 23, 1908, ch. 188, 35 Stat. 245).
 
 The language has been considerably simplified.
 
-## § 118. Filing by other than inventor
+## § 118. Filing by other than inventor
 
 A person to whom the inventor has assigned or is under an obligation to assign the invention may make an application for patent. A person who otherwise shows sufficient proprietary interest in the matter may make an application for patent on behalf of and as agent for the inventor on proof of the pertinent facts and a showing that such action is appropriate to preserve the rights of the parties. If the Director grants a patent on an application filed under this section by a person other than the inventor, the patent shall be granted to the real party in interest and upon such notice to the inventor as the Director considers to be sufficient.
 
-(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 4(b)(1), Sept. 16, 2011, 125 Stat. 296.)
+(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 4(b)(1), Sept. 16, 2011, 125 Stat. 296.)
 
 **Historical and Revision Notes**
 
@@ -477,9 +477,9 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
-## § 119. Benefit of earlier filing date; right of priority
+## § 119. Benefit of earlier filing date; right of priority
 
 **(a)** An application for patent for an invention filed in this country by any person who has, or whose legal representatives or assigns have, previously regularly filed an application for a patent for the same invention in a foreign country which affords similar privileges in the case of applications filed in the United States or to citizens of the United States, or in a WTO member country, shall have the same effect as the same application would have if filed in this country on the date on which the application for patent for the same invention was first filed in such foreign country, if the application in this country is filed within 12 months from the earliest date on which such foreign application was filed. The Director may prescribe regulations, including the requirement for payment of the fee specified in section 41(a)(7), pursuant to which the 12-month period set forth in this subsection may be extended by an additional 2 months if the delay in filing the application in this country within the 12-month period was unintentional.
 
@@ -511,11 +511,11 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 **(2)** the term “UPOV Contracting Party” means a member of the International Convention for the Protection of New Varieties of Plants.
 
-(July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 87–333, § 1, Oct. 3, 1961, 75 Stat. 748; Pub. L. 92–358, § 1, July 28, 1972, 86 Stat. 501; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 103–465, title V, § 532(b)(1), Dec. 8, 1994, 108 Stat. 4985; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4503(a), (b)(2), 4801(b), (c), 4802], Nov. 29, 1999, 113 Stat. 1536, 1501A–563, 1501A–564, 1501A–588, 1501A–589; Pub. L. 107–273, div. C, title III, § 13206(b)(2), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§ 3(g)(6), 15(b), 20(j), Sept. 16, 2011, 125 Stat. 288, 328, 335; Pub. L. 112–211, title II, §§ 201(c)(1), 202(b)(2), Dec. 18, 2012, 126 Stat. 1534, 1536.)
+(July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 87–333, § 1, Oct. 3, 1961, 75 Stat. 748; Pub. L. 92–358, § 1, July 28, 1972, 86 Stat. 501; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 103–465, title V, § 532(b)(1), Dec. 8, 1994, 108 Stat. 4985; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4503(a), (b)(2), 4801(b), (c), 4802], Nov. 29, 1999, 113 Stat. 1536, 1501A–563, 1501A–564, 1501A–588, 1501A–589; Pub. L. 107–273, div. C, title III, § 13206(b)(2), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§ 3(g)(6), 15(b), 20(j), Sept. 16, 2011, 125 Stat. 288, 328, 335; Pub. L. 112–211, title II, §§ 201(c)(1), 202(b)(2), Dec. 18, 2012, 126 Stat. 1534, 1536.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 32, second paragraph (R.S. 4887, second paragraph, amended (1) Mar. 3, 1903, ch. 1019, § 1, 32 Stat. 1225, 1226, (2) June 19, 1936, ch. 594, 49 Stat. 1529, (3) Aug. 5, 1939, ch. 450, § 1, 53 Stat. 1212).
+Based on Title 35, U.S.C., 1946 ed., § 32, second paragraph (R.S. 4887, second paragraph, amended (1) Mar. 3, 1903, ch. 1019, § 1, 32 Stat. 1225, 1226, (2) June 19, 1936, ch. 594, 49 Stat. 1529, (3) Aug. 5, 1939, ch. 450, § 1, 53 Stat. 1212).
 
 The first paragraph is the same as the present law with changes in language. The references to designs have been removed for inclusion in another section and the opening clause has been modified to accord with actual practice and the requirements of the International Convention for the Protection of Industrial Property.
 
@@ -529,37 +529,37 @@ The Stockholm Revision of the Paris Convention, referred to in subsec. (d), mean
 
 **Amendments**
 
-2012—Subsec. (a). Pub. L. 112–211, § 201(c)(1)(A), substituted “12” for “twelve” and inserted at end “The Director may prescribe regulations, including the requirement for payment of the fee specified in section 41(a)(7), pursuant to which the 12-month period set forth in this subsection may be extended by an additional 2 months if the delay in filing the application in this country within the 12-month period was unintentional.”
+2012—Subsec. (a). Pub. L. 112–211, § 201(c)(1)(A), substituted “12” for “twelve” and inserted at end “The Director may prescribe regulations, including the requirement for payment of the fee specified in section 41(a)(7), pursuant to which the 12-month period set forth in this subsection may be extended by an additional 2 months if the delay in filing the application in this country within the 12-month period was unintentional.”
 
-Subsec. (b)(2). Pub. L. 112–211, § 202(b)(2), substituted “including the requirement for payment of the fee specified in section 41(a)(7)” for “including the payment of a surcharge”.
+Subsec. (b)(2). Pub. L. 112–211, § 202(b)(2), substituted “including the requirement for payment of the fee specified in section 41(a)(7)” for “including the payment of a surcharge”.
 
-Subsec. (e)(1). Pub. L. 112–211, § 201(c)(1)(B)(i), inserted “The Director may prescribe regulations, including the requirement for payment of the fee specified in section 41(a)(7), pursuant to which the 12-month period set forth in this subsection may be extended by an additional 2 months if the delay in filing the application under section 111(a) or section 363 within the 12-month period was unintentional.” after “reference to the provisional application.” and, in last sentence, substituted “including the payment of the fee specified in section 41(a)(7)” for “including the payment of a surcharge” and struck out “during the pendency of the application” before period at end.
+Subsec. (e)(1). Pub. L. 112–211, § 201(c)(1)(B)(i), inserted “The Director may prescribe regulations, including the requirement for payment of the fee specified in section 41(a)(7), pursuant to which the 12-month period set forth in this subsection may be extended by an additional 2 months if the delay in filing the application under section 111(a) or section 363 within the 12-month period was unintentional.” after “reference to the provisional application.” and, in last sentence, substituted “including the payment of the fee specified in section 41(a)(7)” for “including the payment of a surcharge” and struck out “during the pendency of the application” before period at end.
 
-Subsec. (e)(3). Pub. L. 112–211, § 201(c)(1)(B)(ii), inserted at end “For an application for patent filed under section 363 in a Receiving Office other than the Patent and Trademark Office, the 12-month and additional 2-month period set forth in this subsection shall be extended as provided under the treaty and Regulations as defined in section 351.”
+Subsec. (e)(3). Pub. L. 112–211, § 201(c)(1)(B)(ii), inserted at end “For an application for patent filed under section 363 in a Receiving Office other than the Patent and Trademark Office, the 12-month and additional 2-month period set forth in this subsection shall be extended as provided under the treaty and Regulations as defined in section 351.”
 
-2011—Subsec. (a). Pub. L. 112–29, § 3(g)(6), struck out “; but no patent shall be granted on any application for patent for an invention which had been patented or described in a printed publication in any country more than one year before the date of the actual filing of the application in this country, or which had been in public use or on sale in this country more than one year prior to such filing” before the period at the end.
+2011—Subsec. (a). Pub. L. 112–29, § 3(g)(6), struck out “; but no patent shall be granted on any application for patent for an invention which had been patented or described in a printed publication in any country more than one year before the date of the actual filing of the application in this country, or which had been in public use or on sale in this country more than one year prior to such filing” before the period at the end.
 
-Subsec. (e)(1). Pub. L. 112–29, § 20(j), struck out “of this title” after “363” in two places and after “111(b)” in two places.
+Subsec. (e)(1). Pub. L. 112–29, § 20(j), struck out “of this title” after “363” in two places and after “111(b)” in two places.
 
-Pub. L. 112–29, § 15(b), substituted “section 112(a) (other than the requirement to disclose the best mode)” for “the first paragraph of section 112 of this title”.
+Pub. L. 112–29, § 15(b), substituted “section 112(a) (other than the requirement to disclose the best mode)” for “the first paragraph of section 112 of this title”.
 
-Subsec. (e)(2). Pub. L. 112–29, § 20(j), struck out “of this title” after “111(b)” and after “41(a)(1)”.
+Subsec. (e)(2). Pub. L. 112–29, § 20(j), struck out “of this title” after “111(b)” and after “41(a)(1)”.
 
-Subsec. (g)(1). Pub. L. 112–29, § 20(j), struck out “of this title” after “104(b)(2)”.
+Subsec. (g)(1). Pub. L. 112–29, § 20(j), struck out “of this title” after “104(b)(2)”.
 
-2002—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4802(1)]. See 1999 Amendment note below.
+2002—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4802(1)]. See 1999 Amendment note below.
 
-1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4802(1)], as amended by Pub. L. 107–273, inserted “or in a WTO member country,” after “or to citizens of the United States,”.
+1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4802(1)], as amended by Pub. L. 107–273, inserted “or in a WTO member country,” after “or to citizens of the United States,”.
 
-Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4503(a)], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No application for patent shall be entitled to this right of priority unless a claim therefor and a certified copy of the original foreign application, specification and drawings upon which it is based are filed in the Patent and Trademark Office before the patent is granted, or at such time during the pendency of the application as required by the Commissioner not earlier than six months after the filing of the application in this country. Such certification shall be made by the patent office of the foreign country in which filed and show the date of the application and of the filing of the specification and other papers. The Commissioner may require a translation of the papers filed if not in the English language and such other information as he deems necessary.”
+Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4503(a)], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No application for patent shall be entitled to this right of priority unless a claim therefor and a certified copy of the original foreign application, specification and drawings upon which it is based are filed in the Patent and Trademark Office before the patent is granted, or at such time during the pendency of the application as required by the Commissioner not earlier than six months after the filing of the application in this country. Such certification shall be made by the patent office of the foreign country in which filed and show the date of the application and of the filing of the specification and other papers. The Commissioner may require a translation of the papers filed if not in the English language and such other information as he deems necessary.”
 
-Subsec. (e)(1). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4503(b)(2)], inserted at end: “No application shall be entitled to the benefit of an earlier filed provisional application under this subsection unless an amendment containing the specific reference to the earlier filed provisional application is submitted at such time during the pendency of the application as required by the Director. The Director may consider the failure to submit such an amendment within that time period as a waiver of any benefit under this subsection. The Director may establish procedures, including the payment of a surcharge, to accept an unintentionally delayed submission of an amendment under this subsection during the pendency of the application.”
+Subsec. (e)(1). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4503(b)(2)], inserted at end: “No application shall be entitled to the benefit of an earlier filed provisional application under this subsection unless an amendment containing the specific reference to the earlier filed provisional application is submitted at such time during the pendency of the application as required by the Director. The Director may consider the failure to submit such an amendment within that time period as a waiver of any benefit under this subsection. The Director may establish procedures, including the payment of a surcharge, to accept an unintentionally delayed submission of an amendment under this subsection during the pendency of the application.”
 
-Subsec. (e)(2). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4801(c)], struck out before period at end “and the provisional application was pending on the filing date of the application for patent under section 111(a) or section 363 of this title”.
+Subsec. (e)(2). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4801(c)], struck out before period at end “and the provisional application was pending on the filing date of the application for patent under section 111(a) or section 363 of this title”.
 
-Subsec. (e)(3). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4801(b)], added par. (3).
+Subsec. (e)(3). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4801(b)], added par. (3).
 
-Subsecs. (f), (g). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4802(2)], added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4802(2)], added subsecs. (f) and (g).
 
 1994—Pub. L. 103–465, in section catchline, struck out “in foreign country” after “date”, designated four undesignated paragraphs as subsecs. (a) to (d), and added subsec. (e).
 
@@ -579,15 +579,15 @@ Amendment by Pub. L. 112–211 effective on the date that is 1 year after Dec. 1
 
 Amendment by section 3(g)(6) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
 
-Pub. L. 112–29, § 15(c), Sept. 16, 2011, 125 Stat. 328, provided that: “The amendments made by this section [amending this section and sections 120 and 282 of this title] shall take effect upon the date of the enactment of this Act [Sept. 16, 2011] and shall apply to proceedings commenced on or after that date.”
+Pub. L. 112–29, § 15(c), Sept. 16, 2011, 125 Stat. 328, provided that: “The amendments made by this section [amending this section and sections 120 and 282 of this title] shall take effect upon the date of the enactment of this Act [Sept. 16, 2011] and shall apply to proceedings commenced on or after that date.”
 
 Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(*l*) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 **Effective Date of 1999 Amendment**
 
-Amendment by section 1000(a)(9) [title IV, § 4503(a), (b)(2)] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
+Amendment by section 1000(a)(9) [title IV, § 4503(a), (b)(2)] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4801(d)], Nov. 29, 1999, 113 Stat. 1536, 1501A–589, provided that: “The amendments made by this section [amending this section and section 111 of this title] shall take effect on the date of the enactment of this Act [Nov. 29, 1999] and shall apply to any provisional application filed on or after June 8, 1995, except that the amendments made by subsections (b) and (c) [amending this section] shall have no effect with respect to any patent which is the subject of litigation in an action commenced before such date of enactment.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4801(d)], Nov. 29, 1999, 113 Stat. 1536, 1501A–589, provided that: “The amendments made by this section [amending this section and section 111 of this title] shall take effect on the date of the enactment of this Act [Nov. 29, 1999] and shall apply to any provisional application filed on or after June 8, 1995, except that the amendments made by subsections (b) and (c) [amending this section] shall have no effect with respect to any patent which is the subject of litigation in an action commenced before such date of enactment.”
 
 **Effective Date of 1994 Amendment**
 
@@ -599,7 +599,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–358, § 3(a), July 28, 1972, 86 Stat. 502, provided that: “Section 1 of this Act [amending this section] shall take effect on the date when Articles 1–12 of the Paris Convention of March 20, 1883, for the Protection of Industrial Property, as revised at Stockholm, July 14, 1967, come into force with respect to the United States [Aug. 25, 1973] and shall apply only to applications thereafter filed in the United States.”
+Pub. L. 92–358, § 3(a), July 28, 1972, 86 Stat. 502, provided that: “Section 1 of this Act [amending this section] shall take effect on the date when Articles 1–12 of the Paris Convention of March 20, 1883, for the Protection of Industrial Property, as revised at Stockholm, July 14, 1967, come into force with respect to the United States [Aug. 25, 1973] and shall apply only to applications thereafter filed in the United States.”
 
 **Effective Date of 1961 Amendment**
 
@@ -609,11 +609,11 @@ Amendment by Pub. L. 87–333 effective on the date when the Convention of Paris
 
 Act Aug. 23, 1954, ch. 823, 68 Stat. 764, provided that the priority rights specified in section 101 of former Title 35, Patents, which arose before Apr. 1, 1950, were extended, with respect to inventions made subsequent to Jan. 1, 1946, in favor of certain Japanese and German nationals, to a date nine months after Aug. 23, 1954, subject to conditions and limitations specified in sections 104, 110, 112, and 114 of former title 35.
 
-## § 120. Benefit of earlier filing date in the United States
+## § 120. Benefit of earlier filing date in the United States
 
 An application for patent for an invention disclosed in the manner provided by section 112(a) (other than the requirement to disclose the best mode) in an application previously filed in the United States, or as provided by section 363 or 385, which names an inventor or joint inventor in the previously filed application shall have the same effect, as to such invention, as though filed on the date of the prior application, if filed before the patenting or abandonment of or termination of proceedings on the first application or on an application similarly entitled to the benefit of the filing date of the first application and if it contains or is amended to contain a specific reference to the earlier filed application. No application shall be entitled to the benefit of an earlier filed application under this section unless an amendment containing the specific reference to the earlier filed application is submitted at such time during the pendency of the application as required by the Director. The Director may consider the failure to submit such an amendment within that time period as a waiver of any benefit under this section. The Director may establish procedures, including the requirement for payment of the fee specified in section 41(a)(7), to accept an unintentionally delayed submission of an amendment under this section.
 
-(July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 94–131, § 9, Nov. 14, 1975, 89 Stat. 691; Pub. L. 98–622, title I, § 104(b), Nov. 8, 1984, 98 Stat. 3385; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4503(b)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–563; Pub. L. 112–29, §§ 3(f), 15(b), 20(j), Sept. 16, 2011, 125 Stat. 288, 328, 335; Pub. L. 112–211, title I, § 102(5), title II, § 202(b)(3), Dec. 18, 2012, 126 Stat. 1531, 1536.)
+(July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 94–131, § 9, Nov. 14, 1975, 89 Stat. 691; Pub. L. 98–622, title I, § 104(b), Nov. 8, 1984, 98 Stat. 3385; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4503(b)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–563; Pub. L. 112–29, §§ 3(f), 15(b), 20(j), Sept. 16, 2011, 125 Stat. 288, 328, 335; Pub. L. 112–211, title I, § 102(5), title II, § 202(b)(3), Dec. 18, 2012, 126 Stat. 1531, 1536.)
 
 **Historical and Revision Notes**
 
@@ -623,21 +623,21 @@ This section represents present law not expressed in the statute, except for the
 
 **Amendments**
 
-2012—Pub. L. 112–211, § 202(b)(3), substituted “including the requirement for payment of the fee specified in section 41(a)(7)” for “including the payment of a surcharge”.
+2012—Pub. L. 112–211, § 202(b)(3), substituted “including the requirement for payment of the fee specified in section 41(a)(7)” for “including the payment of a surcharge”.
 
-Pub. L. 112–211, § 102(5), substituted “section 363 or 385” for “section 363”.
+Pub. L. 112–211, § 102(5), substituted “section 363 or 385” for “section 363”.
 
-2011—Pub. L. 112–29, § 20(j), struck out “of this title” after “363”.
+2011—Pub. L. 112–29, § 20(j), struck out “of this title” after “363”.
 
-Pub. L. 112–29, § 15(b), substituted “section 112(a) (other than the requirement to disclose the best mode)” for “the first paragraph of section 112 of this title”.
+Pub. L. 112–29, § 15(b), substituted “section 112(a) (other than the requirement to disclose the best mode)” for “the first paragraph of section 112 of this title”.
 
-Pub. L. 112–29, § 3(f), substituted “which names an inventor or joint inventor” for “which is filed by an inventor or inventors named”.
+Pub. L. 112–29, § 3(f), substituted “which names an inventor or joint inventor” for “which is filed by an inventor or inventors named”.
 
 1999—Pub. L. 106–113 inserted at end “No application shall be entitled to the benefit of an earlier filed application under this section unless an amendment containing the specific reference to the earlier filed application is submitted at such time during the pendency of the application as required by the Director. The Director may consider the failure to submit such an amendment within that time period as a waiver of any benefit under this section. The Director may establish procedures, including the payment of a surcharge, to accept an unintentionally delayed submission of an amendment under this section.”
 
 1984—Pub. L. 98–622 substituted “which is filed by an inventor or inventors named in the previously filed application” for “by the same inventor”.
 
-1975—Pub. L. 94–131 inserted “, or as provided by section 363 of this title,” after “filed in the United States”.
+1975—Pub. L. 94–131 inserted “, or as provided by section 363 of this title,” after “filed in the United States”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -657,7 +657,7 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
+Amendment by Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
 **Effective Date of 1984 Amendment**
 
@@ -667,11 +667,11 @@ Amendment by Pub. L. 98–622 applicable to all United States patents granted be
 
 Amendment by Pub. L. 94–131 effective Jan. 24, 1978, and applicable on and after that date to patent applications filed in the United States and to international applications, where applicable, see section 11 of Pub. L. 94–131, set out as an Effective Date note under section 351 of this title.
 
-## § 121. Divisional applications
+## § 121. Divisional applications
 
 If two or more independent and distinct inventions are claimed in one application, the Director may require the application to be restricted to one of the inventions. If the other invention is made the subject of a divisional application which complies with the requirements of section 120 it shall be entitled to the benefit of the filing date of the original application. A patent issuing on an application with respect to which a requirement for restriction under this section has been made, or on an application filed as a result of such a requirement, shall not be used as a reference either in the Patent and Trademark Office or in the courts against a divisional application or against the original application or any patent issued on either of them, if the divisional application is filed before the issuance of the patent on the other application. The validity of a patent shall not be questioned for failure of the Director to require the application to be restricted to one invention.
 
-(July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§ 4(a)(2), 20(j), Sept. 16, 2011, 125 Stat. 295, 335.)
+(July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§ 4(a)(2), 20(j), Sept. 16, 2011, 125 Stat. 295, 335.)
 
 **Historical and Revision Notes**
 
@@ -681,9 +681,9 @@ This section enacts as law existing practice with respect to division, at the sa
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 20(j), struck out “of this title” after “120”.
+2011—Pub. L. 112–29, § 20(j), struck out “of this title” after “120”.
 
-Pub. L. 112–29, § 4(a)(2), struck out “If a divisional application is directed solely to subject matter described and claimed in the original application as filed, the Director may dispense with signing and execution by the inventor.” before “The validity of a patent”.
+Pub. L. 112–29, § 4(a)(2), struck out “If a divisional application is directed solely to subject matter described and claimed in the original application as filed, the Director may dispense with signing and execution by the inventor.” before “The validity of a patent”.
 
 2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
@@ -701,13 +701,13 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1975 Amendment**
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-## § 122. Confidential status of applications; publication of patent applications
+## § 122. Confidential status of applications; publication of patent applications
 
 **(a) Confidentiality.—** Except as provided in subsection (b), applications for patents shall be kept in confidence by the Patent and Trademark Office and no information concerning the same given without authority of the applicant or owner unless necessary to carry out the provisions of an Act of Congress or in such special circumstances as may be determined by the Director.
 
@@ -769,7 +769,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 **(C)** include a statement by the person making such submission affirming that the submission was made in compliance with this section.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4502(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–561; Pub. L. 112–29, §§ 8(a), 20(j), Sept. 16, 2011, 125 Stat. 315, 335; Pub. L. 112–211, title II, § 202(b)(4), Dec. 18, 2012, 126 Stat. 1536.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4502(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–561; Pub. L. 112–29, §§ 8(a), 20(j), Sept. 16, 2011, 125 Stat. 315, 335; Pub. L. 112–211, title II, § 202(b)(4), Dec. 18, 2012, 126 Stat. 1536.)
 
 **Historical and Revision Notes**
 
@@ -779,17 +779,17 @@ This section enacts the Patent Office rule of secrecy of applications.
 
 **Amendments**
 
-2012—Subsec. (b)(2)(B)(iii). Pub. L. 112–211 struck out “, unless it is shown to the satisfaction of the Director that the delay in submitting the notice was unintentional” after “regarded as abandoned”.
+2012—Subsec. (b)(2)(B)(iii). Pub. L. 112–211 struck out “, unless it is shown to the satisfaction of the Director that the delay in submitting the notice was unintentional” after “regarded as abandoned”.
 
-2011—Subsec. (b)(2)(A)(ii). Pub. L. 112–29, § 20(j), struck out “of this title” after “181”.
+2011—Subsec. (b)(2)(A)(ii). Pub. L. 112–29, § 20(j), struck out “of this title” after “181”.
 
-Subsec. (b)(2)(A)(iii). Pub. L. 112–29, § 20(j), struck out “of this title” after “111(b)”.
+Subsec. (b)(2)(A)(iii). Pub. L. 112–29, § 20(j), struck out “of this title” after “111(b)”.
 
-Subsec. (b)(2)(A)(iv). Pub. L. 112–29, § 20(j), struck out “of this title” after “16”.
+Subsec. (b)(2)(A)(iv). Pub. L. 112–29, § 20(j), struck out “of this title” after “16”.
 
-Subsec. (d). Pub. L. 112–29, § 20(j), struck out “of this title” after “17”.
+Subsec. (d). Pub. L. 112–29, § 20(j), struck out “of this title” after “17”.
 
-Subsec. (e). Pub. L. 112–29, § 8(a), added subsec. (e).
+Subsec. (e). Pub. L. 112–29, § 8(a), added subsec. (e).
 
 1999—Pub. L. 106–113 amended section catchline and text generally. Prior to amendment, text read as follows: “Applications for patents shall be kept in confidence by the Patent and Trademark Office and no information concerning the same given without authority of the applicant or owner unless necessary to carry out the provisions of any Act of Congress or in such special circumstances as may be determined by the Commissioner.”
 
@@ -803,13 +803,13 @@ Amendment by Pub. L. 112–211 effective on the date that is 1 year after Dec. 1
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–29, § 8(b), Sept. 16, 2011, 125 Stat. 316, provided that: “The amendments made by this section [amending this section] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent application filed before, on, or after that effective date.”
+Pub. L. 112–29, § 8(b), Sept. 16, 2011, 125 Stat. 316, provided that: “The amendments made by this section [amending this section] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent application filed before, on, or after that effective date.”
 
 Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(*l*) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 **Effective Date of 1999 Amendment**
 
-Amendment by of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, and applications published pursuant to subsec. (b) of this section resulting from an international application filed before Nov. 29, 2000 not to be effective as prior art as of the filing date of the international application, but to be effective as prior art in accordance with section 102(e) of this title in effect on Nov. 28, 2000, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
+Amendment by of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, and applications published pursuant to subsec. (b) of this section resulting from an international application filed before Nov. 29, 2000 not to be effective as prior art as of the filing date of the international application, but to be effective as prior art in accordance with section 102(e) of this title in effect on Nov. 28, 2000, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
 **Effective Date of 1975 Amendment**
 
@@ -817,9 +817,9 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 **Study of Applicants Filing Only in United States**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4502(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–562, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4502(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–562, provided that:
 
-> **“(1) In general.—** The Comptroller General shall conduct a 3-year study of the applicants who file only in the United States on or after the effective date of this subtitle [see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 10 of this title] and shall provide the results of such study to the Judiciary Committees of the House of Representatives and the Senate.
+> **“(1) In general.—** The Comptroller General shall conduct a 3-year study of the applicants who file only in the United States on or after the effective date of this subtitle [see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 10 of this title] and shall provide the results of such study to the Judiciary Committees of the House of Representatives and the Senate.
 
 > **“(2) Contents.—** The study conducted under paragraph (1) shall—
 
@@ -833,7 +833,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4502(b)], Nov. 29, 19
 
 > **“(E)** examine the abandonment/issuance ratios and length of application pendency before patent issuance or abandonment for published versus unpublished applications.”
 
-## § 123. Micro entity defined
+## § 123. Micro entity defined
 
 **(a) In General.—** For purposes of this title, the term “micro entity” means an applicant who makes a certification that the applicant—
 
@@ -847,9 +847,9 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4502(b)], Nov. 29, 19
 
 **(b) Applications Resulting From Prior Employment.—** An applicant is not considered to be named on a previously filed application for purposes of subsection (a)(2) if the applicant has assigned, or is under an obligation by contract or law to assign, all ownership rights in the application as the result of the applicant’s previous employment.
 
-**(c) Foreign Currency Exchange Rate.—** If an applicant’s or entity’s gross income in the preceding calendar year is not in United States dollars, the average currency exchange rate, as reported by the Internal Revenue Service, during that calendar year shall be used to determine whether the applicant’s or entity’s gross income exceeds the threshold specified in paragraphs 1
+**(c) Foreign Currency Exchange Rate.—** If an applicant’s or entity’s gross income in the preceding calendar year is not in United States dollars, the average currency exchange rate, as reported by the Internal Revenue Service, during that calendar year shall be used to determine whether the applicant’s or entity’s gross income exceeds the threshold specified in paragraphs 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph”.
+<sup>1</sup> So in original. Probably should be “paragraph”.
 
 (3) or (4) of subsection (a).
 
@@ -863,7 +863,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4502(b)], Nov. 29, 19
 
 **(f) Penalty for False Certifications.—** In addition to any other penalty available under law, an entity that is found to have falsely made a certification under this section shall, unless the entity shows that the certification was made in good faith, be subject to a fine, to be determined by the Director, the amount of which shall be not less than 3 times the amount that the entity failed to pay as a result of the false certification, whether the Director discovers the false certification before or after the date on which a patent has been issued.
 
-(Added and amended Pub. L. 112–29, §§ 10(g)(1), 20(j), Sept. 16, 2011, 125 Stat. 318, 335; Pub. L. 112–274, § 1(m), Jan. 14, 2013, 126 Stat. 2459; Pub. L. 117–328, div. W, § 107(b)(2), Dec. 29, 2022, 136 Stat. 5522; Pub. L. 118–151, § 1(2), Dec. 17, 2024, 138 Stat. 1685.)
+(Added and amended Pub. L. 112–29, §§ 10(g)(1), 20(j), Sept. 16, 2011, 125 Stat. 318, 335; Pub. L. 112–274, § 1(m), Jan. 14, 2013, 126 Stat. 2459; Pub. L. 117–328, div. W, § 107(b)(2), Dec. 29, 2022, 136 Stat. 5522; Pub. L. 118–151, § 1(2), Dec. 17, 2024, 138 Stat. 1685.)
 
 **Editorial Notes**
 
@@ -873,13 +873,13 @@ Section 61(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(3
 
 **Amendments**
 
-2024—Subsec. (f). Pub. L. 118–151 inserted “, unless the entity shows that the certification was made in good faith,” before “be subject”.
+2024—Subsec. (f). Pub. L. 118–151 inserted “, unless the entity shows that the certification was made in good faith,” before “be subject”.
 
 2022—Subsec. (f). Pub. L. 117–328 added subsec. (f).
 
 2013—Subsec. (a). Pub. L. 112–274 inserted “of this title” after “For purposes” in introductory provisions.
 
-2011—Subsec. (a). Pub. L. 112–29, § 20(j), struck out “of this title” after “For purposes” in introductory provisions.
+2011—Subsec. (a). Pub. L. 112–29, § 20(j), struck out “of this title” after “For purposes” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 

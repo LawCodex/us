@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 91—CHILDREN’S ONLINE PRIVACY PROTECTION
 
-## § 6501. Definitions
+## § 6501. Definitions
 
 In this chapter:
 
@@ -111,13 +111,13 @@ The term “person” means any individual, partnership, corporation, trust, est
 
 The term “online contact information” means an e-mail address or another substantially similar identifier that permits direct contact with a person online.
 
-(Pub. L. 105–277, div. C, title XIII, § 1302, Oct. 21, 1998, 112 Stat. 2681–728.)
+(Pub. L. 105–277, div. C, title XIII, § 1302, Oct. 21, 1998, 112 Stat. 2681–728.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–277, div. C, title XIII, § 1308, Oct. 21, 1998, 112 Stat. 2681–735, provided that:
+Pub. L. 105–277, div. C, title XIII, § 1308, Oct. 21, 1998, 112 Stat. 2681–735, provided that:
 
 > “Sections 1303(a), 1305, and 1306 of this title [enacting sections 6502(a), 6504, and 6505 of this title] take effect on the later of—
 
@@ -127,9 +127,9 @@ Pub. L. 105–277, div. C, title XIII, § 1308, Oct. 21, 1998, 112 Stat. 2681�
 
 **Short Title**
 
-Pub. L. 105–277, div. C, title XIII, § 1301, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “This title [enacting this chapter] may be cited as the ‘Children’s Online Privacy Protection Act of 1998’.”
+Pub. L. 105–277, div. C, title XIII, § 1301, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “This title [enacting this chapter] may be cited as the ‘Children’s Online Privacy Protection Act of 1998’.”
 
-## § 6502. Regulation of unfair and deceptive acts and practices in connection with collection and use of personal information from and about children on the Internet
+## § 6502. Regulation of unfair and deceptive acts and practices in connection with collection and use of personal information from and about children on the Internet
 
 **(a) Acts prohibited**
 
@@ -207,7 +207,7 @@ Subject to sections 6503 and 6505 of this title, a violation of a regulation pre
 
 No State or local government may impose any liability for commercial activities or actions by operators in interstate or foreign commerce in connection with an activity or action described in this chapter that is inconsistent with the treatment of those activities or actions under this section.
 
-(Pub. L. 105–277, div. C, title XIII, § 1303, Oct. 21, 1998, 112 Stat. 2681–730.)
+(Pub. L. 105–277, div. C, title XIII, § 1303, Oct. 21, 1998, 112 Stat. 2681–730.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -215,7 +215,7 @@ No State or local government may impose any liability for commercial activities 
 
 For effective date of subsec. (a) of this section, see section 1308 of Pub. L. 105–277, set out as a note under section 6501 of this title.
 
-## § 6503. Safe harbors
+## § 6503. Safe harbors
 
 **(a) Guidelines**
 
@@ -239,9 +239,9 @@ The Commission shall act upon requests for safe harbor treatment within 180 days
 
 Final action by the Commission on a request for approval of guidelines, or the failure to act within 180 days on a request for approval of guidelines, submitted under subsection (b) may be appealed to a district court of the United States of appropriate jurisdiction as provided for in section 706 of title 5.
 
-(Pub. L. 105–277, div. C, title XIII, § 1304, Oct. 21, 1998, 112 Stat. 2681–732.)
+(Pub. L. 105–277, div. C, title XIII, § 1304, Oct. 21, 1998, 112 Stat. 2681–732.)
 
-## § 6504. Actions by States
+## § 6504. Actions by States
 
 **(a) In general**
 
@@ -313,7 +313,7 @@ Any action brought under subsection (a) may be brought in the district court of 
 
 **(B)** may be found.
 
-(Pub. L. 105–277, div. C, title XIII, § 1305, Oct. 21, 1998, 112 Stat. 2681–733.)
+(Pub. L. 105–277, div. C, title XIII, § 1305, Oct. 21, 1998, 112 Stat. 2681–733.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -321,7 +321,7 @@ Any action brought under subsection (a) may be brought in the district court of 
 
 For effective date of section, see section 1308 of Pub. L. 105–277, set out as a note under section 6501 of this title.
 
-## § 6505. Administration and applicability
+## § 6505. Administration and applicability
 
 **(a) In general**
 
@@ -333,9 +333,9 @@ Except as otherwise provided, this chapter shall be enforced by the Commission u
 
 **(A)** national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
 
-**(B)** member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) 1
+**(B)** member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Federal Reserve Act (12 U.S.C. 601 et seq. and 611 et. seq.), by the Board; and
 
@@ -353,9 +353,9 @@ of the Federal Reserve Act (12 U.S.C. 601 et seq. and 611 et. seq.), by the Boar
 
 **(c) Exercise of certain powers**
 
-For the purpose of the exercise by any agency referred to in subsection (a) 2
+For the purpose of the exercise by any agency referred to in subsection (a) 2
 
-<sup>2</sup>  So in original. Probably should be subsection “(b)”.
+<sup>2</sup> So in original. Probably should be subsection “(b)”.
 
 of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a),2 each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
 
@@ -367,21 +367,21 @@ The Commission shall prevent any person from violating a rule of the Commission 
 
 Nothing contained in this chapter shall be construed to limit the authority of the Commission under any other provisions of law.
 
-(Pub. L. 105–277, div. C, title XIII, § 1306, Oct. 21, 1998, 112 Stat. 2681–734.)
+(Pub. L. 105–277, div. C, title XIII, § 1306, Oct. 21, 1998, 112 Stat. 2681–734.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsecs. (a) and (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) and (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-Section 25(a) of the Federal Reserve Act, referred to in subsec. (b)(1)(B), which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12.
+Section 25(a) of the Federal Reserve Act, referred to in subsec. (b)(1)(B), which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12.
 
-The Federal Credit Union Act, referred to in subsec. (b)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (b)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-The Packers and Stockyards Act, 1921, referred to in subsec. (b)(5), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§ 181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
+The Packers and Stockyards Act, 1921, referred to in subsec. (b)(5), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§ 181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (b)(6), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (b)(6), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
 This chapter, referred to in subsec. (e), was in the original “Act” and “the Act”, respectively, and was translated as reading “this title” to reflect the probable intent of Congress.
 
@@ -391,7 +391,7 @@ This chapter, referred to in subsec. (e), was in the original “Act” and “t
 
 For effective date of section, see section 1308 of Pub. L. 105–277, set out as a note under section 6501 of this title.
 
-## § 6506. Review
+## § 6506. Review
 
 Not later than 5 years after the effective date of the regulations initially issued under section 6502 of this title, the Commission shall—
 
@@ -399,4 +399,4 @@ Not later than 5 years after the effective date of the regulations initially iss
 
 **(2)** prepare and submit to Congress a report on the results of the review under paragraph (1).
 
-(Pub. L. 105–277, div. C, title XIII, § 1307, Oct. 21, 1998, 112 Stat. 2681–735.)
+(Pub. L. 105–277, div. C, title XIII, § 1307, Oct. 21, 1998, 112 Stat. 2681–735.)

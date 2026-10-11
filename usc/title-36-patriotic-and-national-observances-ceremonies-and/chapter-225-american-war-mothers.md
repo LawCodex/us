@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 225—AMERICAN WAR MOTHERS"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 225—AMERICAN WAR MOTHERS"
 identifier: "/us/usc/t36/stII/ptB/ch225"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 225—AMERICAN WAR MOTHERS
 
-## § 22501. Organization
+## § 22501. Organization
 
 **(a) Federal Charter.—** American War Mothers (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -29,14 +29,14 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22501 | 36:91. | Feb. 24, 1925, ch. 303, §§ 1, 2, 5 (words between colon and 1st comma), 13, 15, 43 Stat. 966, 967, 968. |
+| 22501 | 36:91. | Feb. 24, 1925, ch. 303, §§ 1, 2, 5 (words between colon and 1st comma), 13, 15, 43 Stat. 966, 967, 968. |
 |  | 36:92. 36:95 (words between colon and 1st comma). 36:103. 36:105. |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary and executed words.
 
 The text of 36:92, 103, and 105 is omitted as executed and obsolete.
 
-## § 22502. Purposes
+## § 22502. Purposes
 
 The purposes of the corporation are—
 
@@ -58,11 +58,11 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22502 | 36:93. | Feb. 24, 1925, ch. 303, § 3, 43 Stat. 967. |
+| 22502 | 36:93. | Feb. 24, 1925, ch. 303, § 3, 43 Stat. 967. |
 
 In clauses (5) and (6), the words “World War I” are substituted for “the World War” for clarity.
 
-## § 22503. Membership
+## § 22503. Membership
 
 Eligibility for membership in the corporation is limited to women—
 
@@ -80,11 +80,11 @@ Eligibility for membership in the corporation is limited to women—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22503 | 36:97. | Feb. 24, 1925, ch. 303, § 7, 43 Stat. 968; Sept. 26, 1942, ch. 563, 56 Stat. 758; June 26, 1953, ch. 152, 67 Stat. 81; Apr. 12, 1974, Pub. L. 93–267, 88 Stat. 85. |
+| 22503 | 36:97. | Feb. 24, 1925, ch. 303, § 7, 43 Stat. 968; Sept. 26, 1942, ch. 563, 56 Stat. 758; June 26, 1953, ch. 152, 67 Stat. 81; Apr. 12, 1974, Pub. L. 93–267, 88 Stat. 85. |
 
 In clause (2), before subclause (A), the word “natural” is substituted for “of her blood” to eliminate unnecessary words. The words “or sons”, “or daughters”, “or stepsons”, and “or stepdaughters” are omitted as unnecessary.
 
-## § 22504. Powers
+## § 22504. Powers
 
 The corporation may—
 
@@ -112,7 +112,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22504 | 36:95 (less words between colon and 1st comma). | Feb. 24, 1925, ch. 303, §§ 5 (less words between colon and 1st comma), 9, 43 Stat. 967, 968. |
+| 22504 | 36:95 (less words between colon and 1st comma). | Feb. 24, 1925, ch. 303, §§ 5 (less words between colon and 1st comma), 9, 43 Stat. 967, 968. |
 |  | 36:99. |  |
 
 In this section, the text of 36:99 is omitted as executed and obsolete.
@@ -131,7 +131,7 @@ In clause (8), the words “in courts of law and equity” are omitted as unnece
 
 In clause (9), the word “things” is omitted as included in “act”.
 
-## § 22505. Exclusive right to name
+## § 22505. Exclusive right to name
 
 The corporation and its State, territorial, and local subdivisions have the exclusive right to use the name “American War Mothers”.
 
@@ -141,11 +141,11 @@ The corporation and its State, territorial, and local subdivisions have the excl
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22505 | 36:100. | Feb. 24, 1925, ch. 303, § 10, 43 Stat. 968. |
+| 22505 | 36:100. | Feb. 24, 1925, ch. 303, § 10, 43 Stat. 968. |
 
 The words “to have” are omitted as included in “to use”. The words “in carrying out its business purposes” are omitted as unnecessary.
 
-## § 22506. Restrictions
+## § 22506. Restrictions
 
 **(a) General.—** The corporation shall be nonprofit, nonpolitical, nonsectarian, and nonpartisan, and may not promote the candidacy of an individual seeking public office.
 
@@ -157,14 +157,14 @@ The words “to have” are omitted as included in “to use”. The words “in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22506(a) | 36:98. | Feb. 24, 1925, ch. 303, § 8, 43 Stat. 968; June 26, 1953, ch. 152, 67 Stat. 81. |
-| 22506(b) | 36:96 (last sentence). | Feb. 24, 1925, ch. 303, § 6 (proviso), 43 Stat. 968. |
+| 22506(a) | 36:98. | Feb. 24, 1925, ch. 303, § 8, 43 Stat. 968; June 26, 1953, ch. 152, 67 Stat. 81. |
+| 22506(b) | 36:96 (last sentence). | Feb. 24, 1925, ch. 303, § 6 (proviso), 43 Stat. 968. |
 
 In subsection (a), words “as an organization” are omitted as unnecessary.
 
 In subsection (b), the words “real or personal” are omitted as unnecessary and for consistency in the revised title. The words “not reasonably necessary to carry out the purposes of the corporation” are substituted for “except such as may be reasonably necessary to carry out the purposes of its creation as defined in this chapter” to eliminate unnecessary words.
 
-## § 22507. Tax-exempt status
+## § 22507. Tax-exempt status
 
 The personal property and funds of the corporation, whether principal or income, so long as held or used only to carry out the purposes of the corporation, are exempt from taxation by the United States Government, the District of Columbia, and the territories and possessions of the United States.
 
@@ -174,11 +174,11 @@ The personal property and funds of the corporation, whether principal or income,
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22507 | 36:96 (1st sentence). | Feb. 24, 1925, ch. 303, § 6 (less proviso), 43 Stat. 967. |
+| 22507 | 36:96 (1st sentence). | Feb. 24, 1925, ch. 303, § 6 (less proviso), 43 Stat. 967. |
 
-The words “so long as held or used only to carry out the purposes of the corporation” are substituted for “held or used for the purposes hereof, pursuant to the provisions of this chapter . . . so long as the same shall be so used” to eliminate unnecessary words. The words “the United States Government, the District of Columbia, and the territories and possessions of the United States” are substituted for “the United States or any Territory or District thereof” for clarity.
+The words “so long as held or used only to carry out the purposes of the corporation” are substituted for “held or used for the purposes hereof, pursuant to the provisions of this chapter . . . so long as the same shall be so used” to eliminate unnecessary words. The words “the United States Government, the District of Columbia, and the territories and possessions of the United States” are substituted for “the United States or any Territory or District thereof” for clarity.
 
-## § 22508. Meetings
+## § 22508. Meetings
 
 The corporation may hold its meetings at any place the corporation decides.
 
@@ -188,9 +188,9 @@ The corporation may hold its meetings at any place the corporation decides.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22508 | 36:94. | Feb. 24, 1925, ch. 303, § 4, 43 Stat. 967. |
+| 22508 | 36:94. | Feb. 24, 1925, ch. 303, § 4, 43 Stat. 967. |
 
-## § 22509. Service of process
+## § 22509. Service of process
 
 As a condition to the exercise of any power or privilege granted by this chapter, the corporation shall file, with the secretary of state or other designated official of each State, the name and address of an agent in that State on whom legal process or demands against the corporation may be served.
 
@@ -200,11 +200,11 @@ As a condition to the exercise of any power or privilege granted by this chapter
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22509 | 36:102. | Feb. 24, 1925, ch. 303, § 12, 43 Stat. 968. |
+| 22509 | 36:102. | Feb. 24, 1925, ch. 303, § 12, 43 Stat. 968. |
 
 The words “precedent”, “herein”, and “or conferred” are omitted as unnecessary. The words “with the secretary of state or other designated official” are substituted for “in the office of the secretary of each State” for consistency in the revised title. The words “post-office” and “authorized” are omitted as unnecessary.
 
-## § 22510. Annual report
+## § 22510. Annual report
 
 Not later than January 1 of each year, the corporation shall submit a report to Congress on the activities of the corporation during the prior calendar year. The report may not be printed as a public document.
 
@@ -214,7 +214,7 @@ Not later than January 1 of each year, the corporation shall submit a report to 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22510 | 36:101. | Feb. 24, 1925, ch. 303, § 11, 43 Stat. 968; Aug. 30, 1964, Pub. L. 88–504, § 4(9), 78 Stat. 636. |
+| 22510 | 36:101. | Feb. 24, 1925, ch. 303, § 11, 43 Stat. 968; Aug. 30, 1964, Pub. L. 88–504, § 4(9), 78 Stat. 636. |
 
 The word “submit” is substituted for “make and transmit” for consistency in the revised title and to eliminate unnecessary words. The word “activities” is substituted for “proceedings” for consistency in the revised title.
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # [CHAPTER 99—REPEALED]
 
-## [§§ 2031, 2032. Repealed. Pub. L. 99–646, § 87(c)(1), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, § 3(a)(1), Nov. 14, 1986, 100 Stat. 3663]
+## [§§ 2031, 2032. Repealed. Pub. L. 99–646, § 87(c)(1), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, § 3(a)(1), Nov. 14, 1986, 100 Stat. 3663]
 
 Section 2031, act June 25, 1948, ch. 645, 62 Stat. 795, prescribed penalties for commission of rape within special maritime and territorial jurisdiction.
 

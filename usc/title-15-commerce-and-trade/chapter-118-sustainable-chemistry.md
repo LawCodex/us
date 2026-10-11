@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 118—SUSTAINABLE CHEMISTRY
 
-## § 9301. National coordinating entity for sustainable chemistry
+## § 9301. National coordinating entity for sustainable chemistry
 
 **(a) Establishment**
 
@@ -43,15 +43,15 @@ The Entity shall include representatives, including subject matter experts, from
 
 The Entity shall terminate on the date that is 10 years after January 1, 2021.
 
-(Pub. L. 116–283, div. A, title II, § 261, Jan. 1, 2021, 134 Stat. 3497.)
+(Pub. L. 116–283, div. A, title II, § 261, Jan. 1, 2021, 134 Stat. 3497.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (a), was in the original “this subtitle”, meaning subtitle E (§§ 261–267) of title II of Pub. L. 116–283, div. A, Jan. 1, 2021, 134 Stat. 3497, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Tables.
+This chapter, referred to in subsec. (a), was in the original “this subtitle”, meaning subtitle E (§§ 261–267) of title II of Pub. L. 116–283, div. A, Jan. 1, 2021, 134 Stat. 3497, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Tables.
 
-## § 9302. Strategic plan for sustainable chemistry
+## § 9302. Strategic plan for sustainable chemistry
 
 **(a) Strategic plan** Not later than 2 years after January 1, 2021, the Entity shall—
 
@@ -117,13 +117,13 @@ The Entity shall also submit the report described in paragraph (1) to the Comptr
 
 The Entity shall submit a report to Congress and the Comptroller General of the United States that incorporates the information described in subparagraphs (A), (B), (D), (E), and (F) of paragraph (1) every 3 years, commencing after the initial report is submitted until the Entity terminates.
 
-(Pub. L. 116–283, div. A, title II, § 262, Jan. 1, 2021, 134 Stat. 3498.)
+(Pub. L. 116–283, div. A, title II, § 262, Jan. 1, 2021, 134 Stat. 3498.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (a)(1), (b), and (d)(1)(D), was in the original “this subtitle”, meaning subtitle E (§§ 261–267) of title II of Pub. L. 116–283, div. A, Jan. 1, 2021, 134 Stat. 3497, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Tables.
+This chapter, referred to in subsecs. (a)(1), (b), and (d)(1)(D), was in the original “this subtitle”, meaning subtitle E (§§ 261–267) of title II of Pub. L. 116–283, div. A, Jan. 1, 2021, 134 Stat. 3497, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Tables.
 
 This chapter, referred to in subsec. (a)(3), was in the original “this title”, which was translated as meaning this subtitle, which is classified principally to this chapter, to reflect the probable intent of Congress.
 
@@ -133,7 +133,7 @@ This chapter, referred to in subsec. (a)(3), was in the original “this title�
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-## § 9303. Agency activities in support of sustainable chemistry
+## § 9303. Agency activities in support of sustainable chemistry
 
 **(a) In general**
 
@@ -179,9 +179,9 @@ The agencies participating in the Entity shall carry out activities in support o
 
 **(2)** not be used to promote the sale of a specific product, process, or technology, or to disparage a specific product, process, or technology.
 
-(Pub. L. 116–283, div. A, title II, § 263, Jan. 1, 2021, 134 Stat. 3500.)
+(Pub. L. 116–283, div. A, title II, § 263, Jan. 1, 2021, 134 Stat. 3500.)
 
-## § 9304. Partnerships in sustainable chemistry
+## § 9304. Partnerships in sustainable chemistry
 
 **(a) In general** The agencies participating in the Entity may facilitate and support, through financial, technical, or other assistance, the creation of partnerships between institutions of higher education, nongovernmental organizations, consortia, or companies across the value chain in the chemical industry, including small- and medium-sized enterprises, to—
 
@@ -209,28 +209,28 @@ In selecting partnerships for support under this section, the agencies participa
 
 **(3)** to promote the sale of a specific product, process, or technology, or to disparage a specific product, process, or technology.
 
-(Pub. L. 116–283, div. A, title II, § 264, Jan. 1, 2021, 134 Stat. 3501.)
+(Pub. L. 116–283, div. A, title II, § 264, Jan. 1, 2021, 134 Stat. 3501.)
 
-## § 9305. Prioritization
+## § 9305. Prioritization
 
 In carrying out this chapter, the Entity shall focus its support for sustainable chemistry activities on those that achieve, to the highest extent practicable, the goals outlined in the chapter.
 
-(Pub. L. 116–283, div. A, title II, § 265, Jan. 1, 2021, 134 Stat. 3502.)
+(Pub. L. 116–283, div. A, title II, § 265, Jan. 1, 2021, 134 Stat. 3502.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§ 261–267) of title II of Pub. L. 116–283, div. A, Jan. 1, 2021, 134 Stat. 3497, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Tables.
+This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§ 261–267) of title II of Pub. L. 116–283, div. A, Jan. 1, 2021, 134 Stat. 3497, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Tables.
 
-## § 9306. Rule of construction
+## § 9306. Rule of construction
 
 Nothing in this chapter shall be construed to alter or amend any State law or action with regard to sustainable chemistry, as defined by the State.
 
-(Pub. L. 116–283, div. A, title II, § 266, Jan. 1, 2021, 134 Stat. 3502.)
+(Pub. L. 116–283, div. A, title II, § 266, Jan. 1, 2021, 134 Stat. 3502.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§ 261–267) of title II of Pub. L. 116–283, div. A, Jan. 1, 2021, 134 Stat. 3497, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Tables.
+This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§ 261–267) of title II of Pub. L. 116–283, div. A, Jan. 1, 2021, 134 Stat. 3497, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Tables.

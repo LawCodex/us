@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 92—COMPREHENSIVE IRAN SANCTIONS, ACCOUNTABILITY, AND DIVESTMENT
 
-## § 8501. Findings
+## § 8501. Findings
 
 Congress makes the following findings:
 
@@ -55,7 +55,7 @@ Congress makes the following findings:
 
 **(10)** Economic sanctions imposed pursuant to the provisions of this Act, the Iran Sanctions Act of 1996, as amended by this Act, and the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), and other authorities available to the United States to impose economic sanctions to prevent Iran from developing nuclear weapons, are necessary to protect the essential security interests of the United States.
 
-(Pub. L. 111–195, § 2, July 1, 2010, 124 Stat. 1313.)
+(Pub. L. 111–195, § 2, July 1, 2010, 124 Stat. 1313.)
 
 **Termination of Section**
 
@@ -69,23 +69,23 @@ This Act, referred to in par. (10), is Pub. L. 111–195, July 1, 2010, 124 Stat
 
 The Iran Sanctions Act of 1996, as amended by this Act, referred to in par. (10), is Pub. L. 104–172, Aug. 5, 1996, 110 Stat. 1541, as amended by Pub. L. 111–195, which is set out as a note under section 1701 of Title 50, War and National Defense.
 
-The International Emergency Economic Powers Act, referred to in par. (10), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in par. (10), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–50, div. J, § 1, Apr. 24, 2024, 138 Stat. 963, provided that: “This division [enacting subchapter VI of this chapter] may be cited as the ‘Stop Harboring Iranian Petroleum Act’ or the ‘SHIP Act’.”
+Pub. L. 118–50, div. J, § 1, Apr. 24, 2024, 138 Stat. 963, provided that: “This division [enacting subchapter VI of this chapter] may be cited as the ‘Stop Harboring Iranian Petroleum Act’ or the ‘SHIP Act’.”
 
-Pub. L. 118–50, div. S, § 1, Apr. 24, 2024, 138 Stat. 1003, provided that: “This division [amending section 8513a of this title] may be cited as the ‘Iran-China Energy Sanctions Act of 2023’.”
+Pub. L. 118–50, div. S, § 1, Apr. 24, 2024, 138 Stat. 1003, provided that: “This division [amending section 8513a of this title] may be cited as the ‘Iran-China Energy Sanctions Act of 2023’.”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–328, div. AA, title II, § 201, Dec. 29, 2022, 136 Stat. 5529, provided that: “This title [enacting subchapter V of this chapter] may be cited as the ‘Masih Alinejad Harassment and Unlawful Targeting Act of 2022’ or the ‘Masih Alinejad HUNT Act of 2022’.”
+Pub. L. 117–328, div. AA, title II, § 201, Dec. 29, 2022, 136 Stat. 5529, provided that: “This title [enacting subchapter V of this chapter] may be cited as the ‘Masih Alinejad Harassment and Unlawful Targeting Act of 2022’ or the ‘Masih Alinejad HUNT Act of 2022’.”
 
 **Short Title**
 
-Pub. L. 111–195, § 1(a), July 1, 2010, 124 Stat. 1312, provided that: “This Act [enacting this chapter, amending sections 287c, 2778, and 2780 of this title, section 80a–13 of Title 15, Commerce and Trade, section 310 of Title 31, Money and Finance, and section 4315 of Title 50, War and National Defense, enacting provisions set out as notes under section 80a–13 of Title 15 and section 1701 of Title 50, and amending provisions set out as notes under section 1701 of Title 50] may be cited as the ‘Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010’.”
+Pub. L. 111–195, § 1(a), July 1, 2010, 124 Stat. 1312, provided that: “This Act [enacting this chapter, amending sections 287c, 2778, and 2780 of this title, section 80a–13 of Title 15, Commerce and Trade, section 310 of Title 31, Money and Finance, and section 4315 of Title 50, War and National Defense, enacting provisions set out as notes under section 80a–13 of Title 15 and section 1701 of Title 50, and amending provisions set out as notes under section 1701 of Title 50] may be cited as the ‘Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010’.”
 
 **Mahsa Amini Human Rights and Security Accountability**
 
@@ -199,7 +199,7 @@ Pub. L. 118–50, div. L, Apr. 24, 2024, 138 Stat. 976, provided that:
 
 > “If any provision of this division, or the application of such provision to any person or circumstance, is found to be unconstitutional, the remainder of this division, or the application of that provision to other persons or circumstances, shall not be affected.”
 
-[Memorandum of President of the United States, § 3, Sept. 13, 2024, 89 F.R. 77757, provided:
+[Memorandum of President of the United States, § 3, Sept. 13, 2024, 89 F.R. 77757, provided:
 
 [(a) I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State:
 
@@ -437,7 +437,7 @@ Pub. L. 118–50, div. R, Apr. 24, 2024, 138 Stat. 997, provided that:
 
 > **“(7) United states financial institution.—** The term ‘United States financial institution’ has the meaning given the term ‘U.S. financial institution’ under section 561.309 of title 31, Code of Federal Regulations.”
 
-[Memorandum of President of the United States, § 8, Sept. 13, 2024, 89 F.R. 77759, provided:
+[Memorandum of President of the United States, § 8, Sept. 13, 2024, 89 F.R. 77759, provided:
 
 [(a) I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State, the functions and authorities vested in the President by section 3(a) of the Holding Iranian Leaders Accountable Act of 2024 (Division R of Public Law 118–50) (the “Holding Iranian Leaders Accountable Act”) [set out above].
 
@@ -465,37 +465,37 @@ The Presidential Memorandum of November 21, 1996 (Delegation of Responsibilities
 
 I hereby delegate functions vested in the President by CISADA, as follows:
 
-• section 102(h)(5) [50 U.S.C. 1701 note] to the Secretary of State;
+• section 102(h)(5) [50 U.S.C. 1701 note] to the Secretary of State;
 
-• section 103(b)(3) [22 U.S.C. 8512(b)(3)] to the Secretary of State and the Secretary of the Treasury, consistent with Executive Orders 13224 and 13382, as amended, and any other relevant Executive Orders;
+• section 103(b)(3) [22 U.S.C. 8512(b)(3)] to the Secretary of State and the Secretary of the Treasury, consistent with Executive Orders 13224 and 13382, as amended, and any other relevant Executive Orders;
 
-• section 103(d)(1) to the Secretary of the Treasury, in consultation with the Secretary of State and, as appropriate, other agencies;
+• section 103(d)(1) to the Secretary of the Treasury, in consultation with the Secretary of State and, as appropriate, other agencies;
 
-• section 103(d)(2)(A) to the Secretary of the Treasury, in consultation with the Secretary of State;
+• section 103(d)(2)(A) to the Secretary of the Treasury, in consultation with the Secretary of State;
 
-• section 103(d)(2)(B) to the Secretary of State, in consultation with the Secretary of the Treasury and the Secretary of Commerce;
+• section 103(d)(2)(B) to the Secretary of State, in consultation with the Secretary of the Treasury and the Secretary of Commerce;
 
-• section 106 [22 U.S.C. 8515] to the Secretary of State, in consultation with the Secretary of Commerce;
+• section 106 [22 U.S.C. 8515] to the Secretary of State, in consultation with the Secretary of Commerce;
 
-• section 110 [22 U.S.C. 8518] to the Secretary of State;
+• section 110 [22 U.S.C. 8518] to the Secretary of State;
 
-• section 111(a) [22 U.S.C. 8519(a)] to the Secretary of State, in consultation with the Secretary of the Treasury and the President of the Export-Import Bank;
+• section 111(a) [22 U.S.C. 8519(a)] to the Secretary of State, in consultation with the Secretary of the Treasury and the President of the Export-Import Bank;
 
-• section 111(b) to the President of the Export Import Bank, in consultation with the Secretary of State and the Secretary of the Treasury;
+• section 111(b) to the President of the Export Import Bank, in consultation with the Secretary of State and the Secretary of the Treasury;
 
-• section 115 [124 Stat. 1341] to the Secretary of State, in consultation with the Attorney General and the Secretary of the Treasury;
+• section 115 [124 Stat. 1341] to the Secretary of State, in consultation with the Attorney General and the Secretary of the Treasury;
 
-• sections 303(a) and 303(b) [22 U.S.C. 8543(a), (b)] to the Secretary of State, in consultation with the Secretary of Commerce;
+• sections 303(a) and 303(b) [22 U.S.C. 8543(a), (b)] to the Secretary of State, in consultation with the Secretary of Commerce;
 
-• section 303(c) to the Secretary of Commerce with regard to exports governed by the Export Administration Regulations, and to the Secretary of State with regard to exports governed by the International Traffic in Arms Regulations;
+• section 303(c) to the Secretary of Commerce with regard to exports governed by the Export Administration Regulations, and to the Secretary of State with regard to exports governed by the International Traffic in Arms Regulations;
 
-• section 303(d) to the Secretary of State, in consultation with the Secretary of Commerce;
+• section 303(d) to the Secretary of State, in consultation with the Secretary of Commerce;
 
-• section 303(e) to the Secretary of State, in consultation with the Secretary of Commerce;
+• section 303(e) to the Secretary of State, in consultation with the Secretary of Commerce;
 
-• section 304 [124 Stat. 1349] to the Secretary of State, in consultation with the Secretary of Commerce;
+• section 304 [124 Stat. 1349] to the Secretary of State, in consultation with the Secretary of Commerce;
 
-• section 401(b) [22 U.S.C. 8551(b)] to the Secretary of State, in consultation with the Secretary of the Treasury and, as appropriate, other agencies, with respect to the waiver of sanctions under section 103(b); to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the application of the prohibition under section 106(a); and to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the imposition of the licensing requirement under section 303(c).
+• section 401(b) [22 U.S.C. 8551(b)] to the Secretary of State, in consultation with the Secretary of the Treasury and, as appropriate, other agencies, with respect to the waiver of sanctions under section 103(b); to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the application of the prohibition under section 106(a); and to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the imposition of the licensing requirement under section 303(c).
 
 Any reference in this memorandum to provisions of any Act related to the subject of this memorandum shall be deemed to include references to any hereafter-enacted provision of law that is the same or substantially the same as such provisions.
 
@@ -505,7 +505,7 @@ Barack Obama.
 
 ## SUBCHAPTER I—SANCTIONS
 
-### § 8511. Definitions
+### § 8511. Definitions
 
 In this subchapter:
 
@@ -547,15 +547,15 @@ The term “State” means each of the several States, the District of Columbia,
 
 **(10) United States person** The term “United States person” means—
 
-**(A)** a natural person who is a citizen or resident of the United States or a national of the United States (as defined in section 1101(a) of title 8; 1
+**(A)** a natural person who is a citizen or resident of the United States or a national of the United States (as defined in section 1101(a) of title 8; 1
 
-<sup>1</sup>  So in original. Probably should be “title 8);”.
+<sup>1</sup> So in original. Probably should be “title 8);”.
 
 and
 
 **(B)** an entity that is organized under the laws of the United States or any State.
 
-(Pub. L. 111–195, title I, § 101, July 1, 2010, 124 Stat. 1316; Pub. L. 112–158, title III, § 311(b)(2), Aug. 10, 2012, 126 Stat. 1248.)
+(Pub. L. 111–195, title I, § 101, July 1, 2010, 124 Stat. 1316; Pub. L. 112–158, title III, § 311(b)(2), Aug. 10, 2012, 126 Stat. 1248.)
 
 **Termination of Section**
 
@@ -573,7 +573,7 @@ Section 102 of this Act, referred to in par. (2), is section 102 of Pub. L. 111�
 
 2012—Par. (3). Pub. L. 112–158 substituted “section 133 of title 41” for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)”.
 
-### § 8512. Economic sanctions relating to Iran
+### § 8512. Economic sanctions relating to Iran
 
 **(a) In general**
 
@@ -675,7 +675,7 @@ The President shall prescribe regulations to carry out this section, which may i
 
 **(ii)** a report describing the reasons for the exception.
 
-(Pub. L. 111–195, title I, § 103, July 1, 2010, 124 Stat. 1328.)
+(Pub. L. 111–195, title I, § 103, July 1, 2010, 124 Stat. 1328.)
 
 **Termination of Section**
 
@@ -687,7 +687,7 @@ For termination of section, see section 8551(a) of this title.
 
 Section 101 of the Iran Freedom Support Act, referred to in subsec. (a), is section 101 of Pub. L. 109–293, which is set out as a note under section 1701 of Title 50, War and National Defense.
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(3)(A), (D), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(3)(A), (D), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 **Executive Documents**
 
@@ -695,7 +695,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(3)(A
 
 For delegation of functions of President under this section, see Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under section 8501 of this title.
 
-### § 8513. Mandatory sanctions with respect to financial institutions that engage in certain transactions
+### § 8513. Mandatory sanctions with respect to financial institutions that engage in certain transactions
 
 **(a) Findings** Congress makes the following findings:
 
@@ -875,7 +875,7 @@ The term “money laundering” means the movement of illicit cash or cash equiv
 
 The Secretary of the Treasury may further define the terms used in this section in the regulations prescribed under this section.
 
-(Pub. L. 111–195, title I, § 104, July 1, 2010, 124 Stat. 1331; Pub. L. 112–158, title II, §§ 214(a), 215(a), title III, § 312(b), (c), Aug. 10, 2012, 126 Stat. 1231, 1249; Pub. L. 116–283, div. F, title LXI, § 6110(e)(1)(A), Jan. 1, 2021, 134 Stat. 4563.)
+(Pub. L. 111–195, title I, § 104, July 1, 2010, 124 Stat. 1331; Pub. L. 112–158, title II, §§ 214(a), 215(a), title III, § 312(b), (c), Aug. 10, 2012, 126 Stat. 1231, 1249; Pub. L. 116–283, div. F, title LXI, § 6110(e)(1)(A), Jan. 1, 2021, 134 Stat. 4563.)
 
 **Termination of Section**
 
@@ -885,7 +885,7 @@ For termination of section, see section 8551(a) of this title.
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsecs. (c)(2)(E) and (d)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (c)(2)(E) and (d)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 The Classified Information Procedures Act, referred to in subsec. (g)(1), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
@@ -893,27 +893,27 @@ The Classified Information Procedures Act, referred to in subsec. (g)(1), is Pub
 
 2021—Subsec. (i)(1)(C). Pub. L. 116–283 substituted “(Z)” for “(Y)”.
 
-2012—Subsec. (c)(2)(B). Pub. L. 112–158, § 214(a), substituted “of—” for “of”, inserted cl. (i) designation before “a person subject”, and added cl. (ii).
+2012—Subsec. (c)(2)(B). Pub. L. 112–158, § 214(a), substituted “of—” for “of”, inserted cl. (i) designation before “a person subject”, and added cl. (ii).
 
-Subsec. (c)(2)(E)(ii). Pub. L. 112–158, § 215(a), substituted “person” for “financial institution” in introductory provisions.
+Subsec. (c)(2)(E)(ii). Pub. L. 112–158, § 215(a), substituted “person” for “financial institution” in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 112–158, § 312(b), added par. (4).
+Subsec. (c)(4). Pub. L. 112–158, § 312(b), added par. (4).
 
-Subsec. (f). Pub. L. 112–158, § 312(c)(1), inserted “or section 8513b of this title” after “subsection (c)” in introductory provisions.
+Subsec. (f). Pub. L. 112–158, § 312(c)(1), inserted “or section 8513b of this title” after “subsection (c)” in introductory provisions.
 
-Subsec. (g). Pub. L. 112–158, § 312(c)(2), substituted “paragraph (1) or (4) of subsection (c) or section 8513b of this title” for “subsection (c)(1)” in pars. (1) and (2).
+Subsec. (g). Pub. L. 112–158, § 312(c)(2), substituted “paragraph (1) or (4) of subsection (c) or section 8513b of this title” for “subsection (c)(1)” in pars. (1) and (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 112–158, title II, § 214(b), Aug. 10, 2012, 126 Stat. 1231, provided that: “Not later than 90 days after the date of the enactment of this Act [Aug. 10, 2012], the Secretary of the Treasury shall make such revisions to the regulations prescribed under section 104 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8513) as are necessary to carry out the amendments made by subsection (a) [amending this section].”
+Pub. L. 112–158, title II, § 214(b), Aug. 10, 2012, 126 Stat. 1231, provided that: “Not later than 90 days after the date of the enactment of this Act [Aug. 10, 2012], the Secretary of the Treasury shall make such revisions to the regulations prescribed under section 104 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8513) as are necessary to carry out the amendments made by subsection (a) [amending this section].”
 
-Pub. L. 112–158, title II, § 215(b), Aug. 10, 2012, 126 Stat. 1231, provided that: “Not later than 90 days after the date of the enactment of this Act [Aug. 10, 2012], the Secretary of the Treasury shall make such revisions to the regulations prescribed under section 104 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8513) as are necessary to carry out the amendment made by subsection (a) [amending this section].”
+Pub. L. 112–158, title II, § 215(b), Aug. 10, 2012, 126 Stat. 1231, provided that: “Not later than 90 days after the date of the enactment of this Act [Aug. 10, 2012], the Secretary of the Treasury shall make such revisions to the regulations prescribed under section 104 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8513) as are necessary to carry out the amendment made by subsection (a) [amending this section].”
 
 **Exception to Sanctions Regarding National Iranian Oil Company and National Iranian Tanker Company**
 
-Pub. L. 112–158, title III, § 312(d), Aug. 10, 2012, 126 Stat. 1250, provided that:
+Pub. L. 112–158, title III, § 312(d), Aug. 10, 2012, 126 Stat. 1250, provided that:
 
 > **“(1) In general.—** If an exception to sanctions described in clause (i) or (ii) of paragraph (4)(C) of section 104(c) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 [22 U.S.C. 8513(c)], as added by subsection (b), applies to a person that engages in a transaction described in paragraph (2) at the time of the transaction, the President is authorized not to impose sanctions with respect to the transaction under—
 
@@ -935,7 +935,7 @@ Pub. L. 112–158, title III, § 312(d), Aug. 10, 2012, 126 Stat. 1250, provid
 
 > **“(iii)** any other applicable provision of law authorizing the imposition of sanctions with respect to Iran.”
 
-### § 8513a. Imposition of sanctions with respect to the financial sector of Iran
+### § 8513a. Imposition of sanctions with respect to the financial sector of Iran
 
 **(a) Findings** Congress makes the following findings:
 
@@ -987,9 +987,9 @@ Except as provided in subparagraph (D), sanctions imposed under paragraph (1)(A)
 
 **(i) In general** Sanctions imposed pursuant to paragraph (1) shall not apply with respect to a financial transaction described in clause (ii) conducted or facilitated by a foreign financial institution if the President determines and reports to Congress, not later than 90 days after the date on which the President makes the determination required by subparagraph (B), and every 180 days thereafter, that the country with primary jurisdiction over the foreign financial institution—
 
-**(I)** has significantly reduced reduced 1
+**(I)** has significantly reduced reduced 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 its volume of crude oil purchases from Iran during the period beginning on the date on which the President submitted the last report with respect to the country under this subparagraph; or
 
@@ -1097,13 +1097,13 @@ The terms “reduce significantly”, “significant reduction”, and “signif
 
 The provisions of this section shall terminate on the date that is 30 days after the date on which the President submits to Congress the certification described in section 8551(a) of this title.
 
-(Pub. L. 112–81, div. A, title XII, § 1245, Dec. 31, 2011, 125 Stat. 1647; Pub. L. 112–158, title V, §§ 503(a)(1), (b)(1), 504(a), Aug. 10, 2012, 126 Stat. 1260, 1261; Pub. L. 112–239, div. A, title XII, § 1250, Jan. 2, 2013, 126 Stat. 2016; Pub. L. 118–50, div. S, § 2, Apr. 24, 2024, 138 Stat. 1003.)
+(Pub. L. 112–81, div. A, title XII, § 1245, Dec. 31, 2011, 125 Stat. 1647; Pub. L. 112–158, title V, §§ 503(a)(1), (b)(1), 504(a), Aug. 10, 2012, 126 Stat. 1260, 1261; Pub. L. 112–239, div. A, title XII, § 1250, Jan. 2, 2013, 126 Stat. 2016; Pub. L. 118–50, div. S, § 2, Apr. 24, 2024, 138 Stat. 1003.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsecs. (c) and (d)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (c) and (d)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 **Codification**
 
@@ -1115,29 +1115,29 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 2013—Subsec. (d)(5)(B)(ii), (iii). Pub. L. 112–239 added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-2012—Subsec. (d)(2). Pub. L. 112–158, § 503(a)(1), inserted “agricultural commodities,” after “sales of” in heading and after “sale of” in text.
+2012—Subsec. (d)(2). Pub. L. 112–158, § 503(a)(1), inserted “agricultural commodities,” after “sales of” in heading and after “sale of” in text.
 
-Subsec. (d)(3). Pub. L. 112–158, § 504(a)(1)(A), struck out “a foreign financial institution owned or controlled by the government of a foreign country, including” after “with respect to”.
+Subsec. (d)(3). Pub. L. 112–158, § 504(a)(1)(A), struck out “a foreign financial institution owned or controlled by the government of a foreign country, including” after “with respect to”.
 
-Subsec. (d)(4)(A). Pub. L. 112–158, § 503(b)(1), substituted “October 25, 2012, and the last Thursday of every other month thereafter” for “60 days after December 31, 2011, and every 60 days thereafter” and “2-month period” for “60-day period”.
+Subsec. (d)(4)(A). Pub. L. 112–158, § 503(b)(1), substituted “October 25, 2012, and the last Thursday of every other month thereafter” for “60 days after December 31, 2011, and every 60 days thereafter” and “2-month period” for “60-day period”.
 
-Subsec. (d)(4)(D)(i). Pub. L. 112–158, § 504(a)(1)(B)(i), (ii), designated existing provisions as cl. (i) and inserted cl. heading, substituted “a financial transaction described in clause (ii) conducted or facilitated by a foreign financial institution” for “a foreign financial institution” and “institution—” for “institution has significantly”, inserted subcl. (I) designation and “has significantly reduced” before “reduced its volume”, and added subcl. (II).
+Subsec. (d)(4)(D)(i). Pub. L. 112–158, § 504(a)(1)(B)(i), (ii), designated existing provisions as cl. (i) and inserted cl. heading, substituted “a financial transaction described in clause (ii) conducted or facilitated by a foreign financial institution” for “a foreign financial institution” and “institution—” for “institution has significantly”, inserted subcl. (I) designation and “has significantly reduced” before “reduced its volume”, and added subcl. (II).
 
-Subsec. (d)(4)(D)(ii). Pub. L. 112–158, § 504(a)(1)(B)(iii), added cl. (ii).
+Subsec. (d)(4)(D)(ii). Pub. L. 112–158, § 504(a)(1)(B)(iii), added cl. (ii).
 
-Subsec. (h)(3), (4). Pub. L. 112–158, § 504(a)(2), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (h)(3), (4). Pub. L. 112–158, § 504(a)(2), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (i). Pub. L. 112–158, § 504(a)(3), added subsec. (i).
+Subsec. (i). Pub. L. 112–158, § 504(a)(3), added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–158, title V, § 503(a)(2), Aug. 10, 2012, 126 Stat. 1261, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect as if included in the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1298).”
+Pub. L. 112–158, title V, § 503(a)(2), Aug. 10, 2012, 126 Stat. 1261, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect as if included in the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1298).”
 
-Pub. L. 112–158, title V, § 503(b)(2), Aug. 10, 2012, 126 Stat. 1261, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on September 1, 2012.”
+Pub. L. 112–158, title V, § 503(b)(2), Aug. 10, 2012, 126 Stat. 1261, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on September 1, 2012.”
 
-Pub. L. 112–158, title V, § 504(b), Aug. 10, 2012, 126 Stat. 1262, provided that: “The amendments made by paragraphs (1) and (2) of subsection (a) [amending this section] shall apply with respect to financial transactions conducted or facilitated on or after the date that is 180 days after the date of the enactment of this Act [Aug. 10, 2012].”
+Pub. L. 112–158, title V, § 504(b), Aug. 10, 2012, 126 Stat. 1262, provided that: “The amendments made by paragraphs (1) and (2) of subsection (a) [amending this section] shall apply with respect to financial transactions conducted or facilitated on or after the date that is 180 days after the date of the enactment of this Act [Aug. 10, 2012].”
 
 **Executive Documents**
 
@@ -1217,7 +1217,7 @@ Determination of President of the United States, No. 2012–09, June 11, 2012, 7
 
 Determination of President of the United States, No. 2012–05, Mar. 30, 2012, 77 F.R. 21387.
 
-### § 8513b. Expansion of, and reports on, mandatory sanctions with respect to financial institutions that engage in certain activities
+### § 8513b. Expansion of, and reports on, mandatory sanctions with respect to financial institutions that engage in certain activities
 
 **(a) In general**
 
@@ -1263,7 +1263,7 @@ The term “foreign financial institution” has the meaning of that term as det
 
 **(D)** a financial institution, wherever located, owned or controlled by a financial institution described in subparagraph (A), (B), or (C).
 
-(Pub. L. 111–195, title I, § 104A, as added Pub. L. 112–158, title II, § 216(a), Aug. 10, 2012, 126 Stat. 1232; amended Pub. L. 116–283, div. F, title LXI, § 6110(e)(1)(B), Jan. 1, 2021, 134 Stat. 4563.)
+(Pub. L. 111–195, title I, § 104A, as added Pub. L. 112–158, title II, § 216(a), Aug. 10, 2012, 126 Stat. 1232; amended Pub. L. 116–283, div. F, title LXI, § 6110(e)(1)(B), Jan. 1, 2021, 134 Stat. 4563.)
 
 **Editorial Notes**
 
@@ -1271,7 +1271,7 @@ The term “foreign financial institution” has the meaning of that term as det
 
 2021—Subsec. (d)(1). Pub. L. 116–283 substituted “(Z)” for “(Y)”.
 
-### § 8514. Imposition of sanctions on certain persons who are responsible for or complicit in human rights abuses committed against citizens of Iran or their family members after the June 12, 2009, elections in Iran
+### § 8514. Imposition of sanctions on certain persons who are responsible for or complicit in human rights abuses committed against citizens of Iran or their family members after the June 12, 2009, elections in Iran
 
 **(a) In general**
 
@@ -1321,21 +1321,21 @@ The sanctions described in this subsection are ineligibility for a visa to enter
 
 **(B)** respecting the human rights and basic freedoms recognized in the Universal Declaration of Human Rights.
 
-(Pub. L. 111–195, title I, § 105, July 1, 2010, 124 Stat. 1335.)
+(Pub. L. 111–195, title I, § 105, July 1, 2010, 124 Stat. 1335.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (c), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (c), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 **Executive Documents**
 
 **Delegation of Functions**
 
-Ex. Ord. No. 13553, §§ 5–7, Sept. 28, 2010, 75 F.R. 60568, 60569, authorized the Secretary of the Treasury, in consultation with the Secretary of State, to employ all powers granted to the President by subsecs. (a) to (c) of this section and to take such actions, including the promulgation of rules and regulations, as may be necessary to carry out the purposes of Ex. Ord. No. 13553, except that (1) the Secretary of State is authorized to exercise the functions and authorities conferred upon the President by subsec. (a) with respect to imposition of the visa sanctions described in subsec. (c) and is further authorized to exercise the functions and authorities conferred upon the President by subsec. (c) with respect to the promulgation of rules and regulations related to the visa sanctions described therein; and (2) the Secretary of State, in consultation with the Secretary of the Treasury, is authorized to submit to Congress, as required by subsec. (b), the initial and updated lists of persons subject to visa sanctions and blockage of property pursuant to Ex. Ord. No. 13553.
+Ex. Ord. No. 13553, §§ 5–7, Sept. 28, 2010, 75 F.R. 60568, 60569, authorized the Secretary of the Treasury, in consultation with the Secretary of State, to employ all powers granted to the President by subsecs. (a) to (c) of this section and to take such actions, including the promulgation of rules and regulations, as may be necessary to carry out the purposes of Ex. Ord. No. 13553, except that (1) the Secretary of State is authorized to exercise the functions and authorities conferred upon the President by subsec. (a) with respect to imposition of the visa sanctions described in subsec. (c) and is further authorized to exercise the functions and authorities conferred upon the President by subsec. (c) with respect to the promulgation of rules and regulations related to the visa sanctions described therein; and (2) the Secretary of State, in consultation with the Secretary of the Treasury, is authorized to submit to Congress, as required by subsec. (b), the initial and updated lists of persons subject to visa sanctions and blockage of property pursuant to Ex. Ord. No. 13553.
 
-### § 8514a. Imposition of sanctions with respect to the transfer of goods or technologies to Iran that are likely to be used to commit human rights abuses
+### § 8514a. Imposition of sanctions with respect to the transfer of goods or technologies to Iran that are likely to be used to commit human rights abuses
 
 **(a) In general**
 
@@ -1399,9 +1399,9 @@ Subject to paragraph (2), the President shall impose sanctions described in sect
 
 **(B)** impose such other sanctions from among the sanctions described in section 6(a) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) as the President determines appropriate.
 
-(Pub. L. 111–195, title I, § 105A, as added Pub. L. 112–158, title IV, § 402(a), Aug. 10, 2012, 126 Stat. 1252.)
+(Pub. L. 111–195, title I, § 105A, as added Pub. L. 112–158, title IV, § 402(a), Aug. 10, 2012, 126 Stat. 1252.)
 
-### § 8514b. Imposition of sanctions with respect to persons who engage in censorship or other related activities against citizens of Iran
+### § 8514b. Imposition of sanctions with respect to persons who engage in censorship or other related activities against citizens of Iran
 
 **(a) In general**
 
@@ -1431,9 +1431,9 @@ The list required by paragraph (1) shall be submitted in unclassified form but m
 
 The unclassified portion of the list required by paragraph (1) shall be made available to the public and posted on the websites of the Department of the Treasury and the Department of State.
 
-(Pub. L. 111–195, title I, § 105B, as added Pub. L. 112–158, title IV, § 403(b), Aug. 10, 2012, 126 Stat. 1254.)
+(Pub. L. 111–195, title I, § 105B, as added Pub. L. 112–158, title IV, § 403(b), Aug. 10, 2012, 126 Stat. 1254.)
 
-### § 8514c. Imposition of sanctions with respect to persons engaged in the diversion of goods intended for the people of Iran
+### § 8514c. Imposition of sanctions with respect to persons engaged in the diversion of goods intended for the people of Iran
 
 **(a) Imposition of sanctions**
 
@@ -1467,7 +1467,7 @@ The unclassified portion of the list required by paragraph (1) shall be made ava
 
 In this section, the term “good” has the meaning given that term in section 8801(a) of this title.
 
-(Pub. L. 111–195, title I, § 105C, as added Pub. L. 112–239, div. A, title XII, § 1249(a), Jan. 2, 2013, 126 Stat. 2015.)
+(Pub. L. 111–195, title I, § 105C, as added Pub. L. 112–239, div. A, title XII, § 1249(a), Jan. 2, 2013, 126 Stat. 2015.)
 
 **Executive Documents**
 
@@ -1475,7 +1475,7 @@ In this section, the term “good” has the meaning given that term in section 
 
 For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under section 8801 of this title.
 
-### § 8515. Prohibition on procurement contracts with persons that export sensitive technology to Iran
+### § 8515. Prohibition on procurement contracts with persons that export sensitive technology to Iran
 
 **(a) In general**
 
@@ -1501,7 +1501,7 @@ The term “sensitive technology” does not include information or informationa
 
 Not later than 1 year after July 1, 2010, the Comptroller General of the United States shall submit to the appropriate congressional committees, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives, a report assessing the extent to which executive agencies would have entered into or renewed contracts for the procurement of goods or services with persons that export sensitive technology to Iran if the prohibition under subsection (a) were not in effect.
 
-(Pub. L. 111–195, title I, § 106, July 1, 2010, 124 Stat. 1336.)
+(Pub. L. 111–195, title I, § 106, July 1, 2010, 124 Stat. 1336.)
 
 **Termination of Section**
 
@@ -1513,17 +1513,17 @@ For termination of section, see section 8551(a) of this title.
 
 For delegation of functions of President under this section, see Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under section 8501 of this title.
 
-### § 8516. Authority to implement United Nations Security Council resolutions imposing sanctions with respect to Iran
+### § 8516. Authority to implement United Nations Security Council resolutions imposing sanctions with respect to Iran
 
 In addition to any other authority of the President with respect to implementing resolutions of the United Nations Security Council, the President may prescribe such regulations as may be necessary to implement a resolution that is agreed to by the United Nations Security Council and imposes sanctions with respect to Iran.
 
-(Pub. L. 111–195, title I, § 108, July 1, 2010, 124 Stat. 1337.)
+(Pub. L. 111–195, title I, § 108, July 1, 2010, 124 Stat. 1337.)
 
 **Termination of Section**
 
 For termination of section, see section 8551(a) of this title.
 
-### § 8517. Increased capacity for efforts to combat unlawful or terrorist financing
+### § 8517. Increased capacity for efforts to combat unlawful or terrorist financing
 
 **(a) Findings** Congress finds the following:
 
@@ -1547,7 +1547,7 @@ For termination of section, see section 8551(a) of this title.
 
 **(2)** such sums as may be necessary for each of the fiscal years 2012 and 2013.
 
-(Pub. L. 111–195, title I, § 109, July 1, 2010, 124 Stat. 1338.)
+(Pub. L. 111–195, title I, § 109, July 1, 2010, 124 Stat. 1338.)
 
 **Termination of Section**
 
@@ -1559,7 +1559,7 @@ For termination of section, see section 8551(a) of this title.
 
 Section is comprised of section 109 of Pub. L. 111–195. Subsec. (c) of section 109 of Pub. L. 111–195 amended section 310 of Title 31, Money and Finance.
 
-### § 8518. Reports on investments in the energy sector of Iran
+### § 8518. Reports on investments in the energy sector of Iran
 
 **(a) Initial report**
 
@@ -1605,7 +1605,7 @@ The period described in this paragraph is the period beginning on January 1, 200
 
 **(iv)** maintaining, upgrading, or expanding existing refineries or constructing new refineries.
 
-(Pub. L. 111–195, title I, § 110, July 1, 2010, 124 Stat. 1338; Pub. L. 112–158, title II, § 224, Aug. 10, 2012, 126 Stat. 1240.)
+(Pub. L. 111–195, title I, § 110, July 1, 2010, 124 Stat. 1338; Pub. L. 112–158, title II, § 224, Aug. 10, 2012, 126 Stat. 1240.)
 
 **Termination of Section**
 
@@ -1623,7 +1623,7 @@ For termination of section, see section 8551(a) of this title.
 
 Functions of President under this section delegated to Secretary of State, see Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under section 8501 of this title.
 
-### § 8519. Reports on certain activities of foreign export credit agencies and of the Export-Import Bank of the United States
+### § 8519. Reports on certain activities of foreign export credit agencies and of the Export-Import Bank of the United States
 
 **(a) Report on certain activities of export credit agencies of foreign countries**
 
@@ -1641,7 +1641,7 @@ The President shall update the report required by paragraph (1) as new informati
 
 **(2)** the beneficiaries of the financing.
 
-(Pub. L. 111–195, title I, § 111, July 1, 2010, 124 Stat. 1339.)
+(Pub. L. 111–195, title I, § 111, July 1, 2010, 124 Stat. 1339.)
 
 **Termination of Section**
 
@@ -1661,7 +1661,7 @@ For delegation of functions of President under this section, see Memorandum of P
 
 ## SUBCHAPTER II—DIVESTMENT FROM CERTAIN COMPANIES THAT INVEST IN IRAN
 
-### § 8531. Definitions
+### § 8531. Definitions
 
 In this subchapter:
 
@@ -1699,7 +1699,7 @@ The term “State” means each of the several States, the District of Columbia,
 
 **(D)** any public institution of higher education within the meaning of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.).
 
-(Pub. L. 111–195, title II, § 201, July 1, 2010, 124 Stat. 1341.)
+(Pub. L. 111–195, title II, § 201, July 1, 2010, 124 Stat. 1341.)
 
 **Termination of Section**
 
@@ -1711,9 +1711,9 @@ For termination of section, see section 8551(a) of this title.
 
 This subchapter, referred to in text, was in the original “this title”, meaning Pub. L. 111–195, title II, July 1, 2010, 124 Stat. 1341, which enacted this subchapter, amended section 80a–13 of Title 15, Commerce and Trade, enacted provisions set out as notes under section 80a–13 of Title 15, and amended provisions set out as a note under section 1701 of Title 50, War and National Defense. For complete classification of title II to the Code, see Tables.
 
-The Higher Education Act of 1965, referred to in par. (6)(D), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in par. (6)(D), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-### § 8532. Authority of State and local governments to divest from certain companies that invest in Iran
+### § 8532. Authority of State and local governments to divest from certain companies that invest in Iran
 
 **(a) Sense of Congress**
 
@@ -1799,7 +1799,7 @@ A measure described in paragraph (1) shall be subject to the requirements of par
 
 Nothing in this Act or any other provision of law authorizing sanctions with respect to Iran shall be construed to abridge the authority of a State to issue and enforce rules governing the safety, soundness, and solvency of a financial institution subject to its jurisdiction or the business of insurance pursuant to the Act of March 9, 1945 (15 U.S.C. 1011 et seq.) (commonly known as the “McCarran-Ferguson Act”).
 
-(Pub. L. 111–195, title II, § 202, July 1, 2010, 124 Stat. 1342; Pub. L. 112–158, title II, § 222(b), Aug. 10, 2012, 126 Stat. 1239.)
+(Pub. L. 111–195, title II, § 202, July 1, 2010, 124 Stat. 1342; Pub. L. 112–158, title II, § 222(b), Aug. 10, 2012, 126 Stat. 1239.)
 
 **Termination of Section**
 
@@ -1809,7 +1809,7 @@ For termination of section, see section 8551(a) of this title.
 
 **References in Text**
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (g)(1)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (g)(1)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 This Act, referred to in subsec. (j), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, which enacted this chapter, amended sections 287c, 2778, and 2780 of this title, section 80a–13 of Title 15, Commerce and Trade, section 310 of Title 31, Money and Finance, and section 4315 of Title 50, War and National Defense, enacted provisions set out as notes under section 80a–13 of Title 15 and section 1701 of Title 50, and amended provisions set out as notes under section 1701 of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
 
@@ -1821,7 +1821,7 @@ Act of March 9, 1945, referred to in subsec. (j), is act Mar. 9, 1945, ch. 20, 5
 
 ## SUBCHAPTER III—PREVENTION OF DIVERSION OF CERTAIN GOODS, SERVICES, AND TECHNOLOGIES TO IRAN
 
-### § 8541. Definitions
+### § 8541. Definitions
 
 In this subchapter:
 
@@ -1877,9 +1877,9 @@ The term “Iranian intermediary” means an intermediary that is the Government
 
 **(13) State sponsor of terrorism** The term “state sponsor of terrorism” means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to—
 
-**(A)** section 4605(j)(1)(A) 1
+**(A)** section 4605(j)(1)(A) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50 (or any successor thereto);
 
@@ -1891,7 +1891,7 @@ of title 50 (or any successor thereto);
 
 The term “United States Munitions List” means the list maintained pursuant to part 121 of the International Traffic in Arms Regulations (or any corresponding similar regulation or ruling).
 
-(Pub. L. 111–195, title III, § 301, July 1, 2010, 124 Stat. 1345.)
+(Pub. L. 111–195, title III, § 301, July 1, 2010, 124 Stat. 1345.)
 
 **Termination of Section**
 
@@ -1901,9 +1901,9 @@ For termination of section, see section 8551(a) of this title.
 
 **References in Text**
 
-Section 4605(j)(1)(A) of title 50, referred to in par. (13)(A), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former section 4605(j)(1)(A) of title 50 can be found in section 4813(c)(1)(A)(i) of title 50, as enacted by Pub. L. 115–232.
+Section 4605(j)(1)(A) of title 50, referred to in par. (13)(A), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former section 4605(j)(1)(A) of title 50 can be found in section 4813(c)(1)(A)(i) of title 50, as enacted by Pub. L. 115–232.
 
-### § 8542. Identification of countries of concern with respect to the diversion of certain goods, services, and technologies to or through Iran
+### § 8542. Identification of countries of concern with respect to the diversion of certain goods, services, and technologies to or through Iran
 
 **(a) In general**
 
@@ -1941,13 +1941,13 @@ Not later than 180 days after July 1, 2010, the Director of National Intelligenc
 
 The report required by subsection (a) and the updates required by subsection (c) may be submitted in classified form.
 
-(Pub. L. 111–195, title III, § 302, July 1, 2010, 124 Stat. 1346.)
+(Pub. L. 111–195, title III, § 302, July 1, 2010, 124 Stat. 1346.)
 
 **Termination of Section**
 
 For termination of section, see section 8551(a) of this title.
 
-### § 8543. Destinations of Diversion Concern
+### § 8543. Destinations of Diversion Concern
 
 **(a) Designation**
 
@@ -2023,7 +2023,7 @@ The designation of a country as a Destination of Diversion Concern under subsect
 
 A report required by subsection (b) or (d) may be submitted in classified form.
 
-(Pub. L. 111–195, title III, § 303, July 1, 2010, 124 Stat. 1347.)
+(Pub. L. 111–195, title III, § 303, July 1, 2010, 124 Stat. 1347.)
 
 **Termination of Section**
 
@@ -2035,45 +2035,45 @@ For termination of section, see section 8551(a) of this title.
 
 For delegation of functions of President under this section, see Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under section 8501 of this title.
 
-### § 8544. Enforcement authority
+### § 8544. Enforcement authority
 
-The Secretary of Commerce may designate any employee of the Office of Export Enforcement of the Department of Commerce to conduct activities specified in clauses (i), (ii), and (iii) of section 12(a)(3)(B) of the Export Administration Act of 1979 (50 U.S.C. App. 2411(a)(3)(B)) 1
+The Secretary of Commerce may designate any employee of the Office of Export Enforcement of the Department of Commerce to conduct activities specified in clauses (i), (ii), and (iii) of section 12(a)(3)(B) of the Export Administration Act of 1979 (50 U.S.C. App. 2411(a)(3)(B)) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 when the employee is carrying out activities to enforce—
 
-**(1)** the provisions of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) <sup>1</sup> (as in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.));
+**(1)** the provisions of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) <sup>1</sup> (as in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.));
 
 **(2)** the provisions of this subchapter, or any other provision of law relating to export controls, with respect to which the Secretary of Commerce has enforcement responsibility; or
 
 **(3)** any license, order, or regulation issued under—
 
-**(A)** the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) <sup>1</sup> (as in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)); or
+**(A)** the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) <sup>1</sup> (as in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)); or
 
 **(B)** a provision of law referred to in paragraph (2).
 
-(Pub. L. 111–195, title III, § 305, July 1, 2010, 124 Stat. 1349.)
+(Pub. L. 111–195, title III, § 305, July 1, 2010, 124 Stat. 1349.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Export Administration Act of 1979, referred to in text, is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Section 12 of the Act was classified to section 4614 of Title 50 prior to repeal.
+The Export Administration Act of 1979, referred to in text, is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Section 12 of the Act was classified to section 4614 of Title 50 prior to repeal.
 
-The International Emergency Economic Powers Act, referred to in pars. (1) and (3)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in pars. (1) and (3)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 ## SUBCHAPTER IV—GENERAL PROVISIONS
 
-### § 8551. General provisions
+### § 8551. General provisions
 
 **(a) Sunset** The provisions of this Act (other than sections 105 and 305 [22 U.S.C. 8514, 8544] and the amendments made by sections 102, 107, 109, and 205) shall terminate, and section 80a–13(c)(1)(B) of title 15, as added by section 203(a), shall cease to be effective, on the date that is 30 days after the date on which the President certifies to Congress that—
 
 **(1)** the Government of Iran has ceased providing support for acts of international terrorism and no longer satisfies the requirements for designation as a state sponsor of terrorism (as defined in section 301 [22 U.S.C. 8541]) under—
 
-**(A)** section 4605(j)(1)(A) 1
+**(A)** section 4605(j)(1)(A) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50 (or any successor thereto);
 
@@ -2109,7 +2109,7 @@ There are authorized to be appropriated to the Secretary of State and to the Sec
 
 There are authorized to be appropriated to the Secretary of Commerce such sums as may be necessary to carry out title III [22 U.S.C. 8541 et seq.].
 
-(Pub. L. 111–195, title IV, § 401, July 1, 2010, 124 Stat. 1350; Pub. L. 112–158, title IV, § 403(d), title VI, § 605(b), Aug. 10, 2012, 126 Stat. 1255, 1265; Pub. L. 112–239, div. A, title XII, § 1249(b), Jan. 2, 2013, 126 Stat. 2016.)
+(Pub. L. 111–195, title IV, § 401, July 1, 2010, 124 Stat. 1350; Pub. L. 112–158, title IV, § 403(d), title VI, § 605(b), Aug. 10, 2012, 126 Stat. 1255, 1265; Pub. L. 112–239, div. A, title XII, § 1249(b), Jan. 2, 2013, 126 Stat. 2016.)
 
 **Editorial Notes**
 
@@ -2117,21 +2117,21 @@ There are authorized to be appropriated to the Secretary of Commerce such sums a
 
 This Act, referred to in subsecs. (a) and (c)(1), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, known as the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, which enacted this chapter, amended sections 287c, 2778, and 2780 of this title, section 80a–13 of Title 15, Commerce and Trade, section 310 of Title 31, Money and Finance, and section 4315 of Title 50, War and National Defense, enacted provisions set out as notes under section 80a–13 of Title 15 and section 1701 of Title 50, and amended provisions set out as notes under section 1701 of Title 50. Title I of the Act enacted subchapter I of this chapter, amended sections 287c, 2778, and 2780 of this title, section 310 of Title 31, and section 4315 of Title 50, enacted provisions set out as a note under section 1701 of Title 50, and amended provisions set out as a note under section 1701 of Title 50. Title III of the Act enacted subchapter III of this chapter. Section 102 of the Act enacted and amended provisions set out as notes under section 1701 of Title 50. Section 107 of the Act amended sections 287c, 2778, and 2780 of this title and section 4315 of Title 50. Section 109 of the Act enacted section 8517 of this title and amended section 310 of Title 31. Section 205 of the Act amended section 80a–13 of Title 15, enacted provisions set out as a note under section 80a–13 of Title 15, and amended provisions set out as a note under section 1701 of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
 
-Section 4605(j)(1)(A) of title 50, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former section 4605(j)(1)(A) of title 50 can be found in section 4813(c)(1)(A)(i) of title 50, as enacted by Pub. L. 115–232.
+Section 4605(j)(1)(A) of title 50, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former section 4605(j)(1)(A) of title 50 can be found in section 4813(c)(1)(A)(i) of title 50, as enacted by Pub. L. 115–232.
 
 **Amendments**
 
 2013—Subsec. (b)(1). Pub. L. 112–239 substituted “105B(a), or 105C(a)” for “or 105B(a)” and “105B(b), or 105C(b)” for “or 105B(b)”.
 
-2012—Subsec. (a)(2). Pub. L. 112–158, § 605(b), inserted “, and verifiably dismantled its,” after “development of”.
+2012—Subsec. (a)(2). Pub. L. 112–158, § 605(b), inserted “, and verifiably dismantled its,” after “development of”.
 
-Subsec. (b)(1). Pub. L. 112–158, § 403(d), inserted “, 105A(a), or 105B(a)” after “105(a)” and “, 105A(b), or 105B(b)” after “105(b)”.
+Subsec. (b)(1). Pub. L. 112–158, § 403(d), inserted “, 105A(a), or 105B(a)” after “105(a)” and “, 105A(b), or 105B(b)” after “105(b)”.
 
 **Executive Documents**
 
 **Delegation of Functions**
 
-Ex. Ord. No. 13553, §§ 5–7, Sept. 28, 2010, 77 Stat. 60568, 60569, authorized the Secretary of the Treasury, in consultation with the Secretary of State, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to impose or maintain sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) under section 8514(a) of this title; authorized the Secretary of State, in consultation with the Secretary of Homeland Security on certain admissibility matters, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to impose or maintain visa sanctions under section 8514(a) of this title; and authorized the Secretary of State, in consultation with the Secretary of the Treasury, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to include a person on the list required by section 8514(b) of this title.
+Ex. Ord. No. 13553, §§ 5–7, Sept. 28, 2010, 77 Stat. 60568, 60569, authorized the Secretary of the Treasury, in consultation with the Secretary of State, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to impose or maintain sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) under section 8514(a) of this title; authorized the Secretary of State, in consultation with the Secretary of Homeland Security on certain admissibility matters, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to impose or maintain visa sanctions under section 8514(a) of this title; and authorized the Secretary of State, in consultation with the Secretary of the Treasury, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to include a person on the list required by section 8514(b) of this title.
 
 Other delegations of functions vested in the President by this section were contained in the following:
 
@@ -2147,7 +2147,7 @@ Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set
 
 Subchapter was enacted as part of the Masih Alinejad Harassment and Unlawful Targeting Act of 2022, also known as the Masih Alinejad HUNT Act of 2022, and not as part of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 which comprises this chapter.
 
-### § 8561. Findings
+### § 8561. Findings
 
 Congress finds that the Government of the Islamic Republic of Iran surveils, harasses, terrorizes, tortures, abducts, and murders individuals who peacefully defend human rights and freedoms in Iran, and innocent entities and individuals considered by the Government of Iran to be enemies of that regime, including United States citizens on United States soil, and takes foreign nationals hostage, including in the following instances:
 
@@ -2203,7 +2203,7 @@ Congress finds that the Government of the Islamic Republic of Iran surveils, har
 
 **(26)** Iranian Americans face an ongoing campaign of intimidation both in the virtual and physical world by agents and affiliates of the Government of Iran, which aims to stifle freedom of expression and eliminate the threat Iranian authorities believe democracy, justice, and gender equality pose to their rule.
 
-(Pub. L. 117–328, div. AA, title II, § 202, Dec. 29, 2022, 136 Stat. 5530.)
+(Pub. L. 117–328, div. AA, title II, § 202, Dec. 29, 2022, 136 Stat. 5530.)
 
 **Editorial Notes**
 
@@ -2211,7 +2211,7 @@ Congress finds that the Government of the Islamic Republic of Iran surveils, har
 
 Section was enacted as part of the Masih Alinejad Harassment and Unlawful Targeting Act of 2022, also known as the Masih Alinejad HUNT Act of 2022, and not as part of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 which comprises this chapter.
 
-### § 8562. Definitions
+### § 8562. Definitions
 
 In this subchapter:
 
@@ -2243,7 +2243,7 @@ The term “foreign person” means any individual or entity that is not a Unite
 
 **(B)** an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity.
 
-(Pub. L. 117–328, div. AA, title II, § 203, Dec. 29, 2022, 136 Stat. 5532.)
+(Pub. L. 117–328, div. AA, title II, § 203, Dec. 29, 2022, 136 Stat. 5532.)
 
 **Editorial Notes**
 
@@ -2251,7 +2251,7 @@ The term “foreign person” means any individual or entity that is not a Unite
 
 Section was enacted as part of the Masih Alinejad Harassment and Unlawful Targeting Act of 2022, also known as the Masih Alinejad HUNT Act of 2022, and not as part of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 which comprises this chapter.
 
-### § 8563. Report and imposition of sanctions with respect to persons who are responsible for or complicit in abuses toward dissidents on behalf of the Government of Iran
+### § 8563. Report and imposition of sanctions with respect to persons who are responsible for or complicit in abuses toward dissidents on behalf of the Government of Iran
 
 **(a) Report required**
 
@@ -2323,21 +2323,21 @@ The visa or other entry documentation of an individual described in subparagraph
 
 **(II)** automatically cancel any other valid visa or entry documentation that is in the individual’s possession.
 
-(Pub. L. 117–328, div. AA, title II, § 204, Dec. 29, 2022, 136 Stat. 5533.)
+(Pub. L. 117–328, div. AA, title II, § 204, Dec. 29, 2022, 136 Stat. 5533.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (c)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (c)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (c)(2)(A)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (c)(2)(A)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 **Codification**
 
 Section was enacted as part of the Masih Alinejad Harassment and Unlawful Targeting Act of 2022, also known as the Masih Alinejad HUNT Act of 2022, and not as part of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 which comprises this chapter.
 
-### § 8564. Report and imposition of sanctions with respect to foreign financial institutions conducting significant transactions with persons responsible for or complicit in abuses toward dissidents on behalf of the Government of Iran
+### § 8564. Report and imposition of sanctions with respect to foreign financial institutions conducting significant transactions with persons responsible for or complicit in abuses toward dissidents on behalf of the Government of Iran
 
 **(a) Report required**
 
@@ -2347,7 +2347,7 @@ Not earlier than 30 days and not later than 60 days after the Secretary of State
 
 The Secretary of the Treasury may prohibit the opening, or prohibit or impose strict conditions on the maintaining, in the United States of a correspondent account or a payable-through account by a foreign financial institution identified under subsection (a).
 
-(Pub. L. 117–328, div. AA, title II, § 205, Dec. 29, 2022, 136 Stat. 5535.)
+(Pub. L. 117–328, div. AA, title II, § 205, Dec. 29, 2022, 136 Stat. 5535.)
 
 **Editorial Notes**
 
@@ -2355,7 +2355,7 @@ The Secretary of the Treasury may prohibit the opening, or prohibit or impose st
 
 Section was enacted as part of the Masih Alinejad Harassment and Unlawful Targeting Act of 2022, also known as the Masih Alinejad HUNT Act of 2022, and not as part of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 which comprises this chapter.
 
-### § 8565. Exceptions; waivers; implementation
+### § 8565. Exceptions; waivers; implementation
 
 **(a) Exceptions**
 
@@ -2383,7 +2383,7 @@ The President may exercise all authorities provided to the President under secti
 
 A person that violates, attempts to violate, conspires to violate, or causes a violation of section 8563(c)(1) or 8564(b) of this title or any regulation, license, or order issued to carry out either such section shall be subject to the penalties set forth in subsections (b) and (c) of section 1705 of title 50 to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
 
-(Pub. L. 117–328, div. AA, title II, § 206, Dec. 29, 2022, 136 Stat. 5535.)
+(Pub. L. 117–328, div. AA, title II, § 206, Dec. 29, 2022, 136 Stat. 5535.)
 
 **Editorial Notes**
 
@@ -2391,7 +2391,7 @@ A person that violates, attempts to violate, conspires to violate, or causes a v
 
 Section was enacted as part of the Masih Alinejad Harassment and Unlawful Targeting Act of 2022, also known as the Masih Alinejad HUNT Act of 2022, and not as part of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 which comprises this chapter.
 
-### § 8566. Exception relating to importation of goods
+### § 8566. Exception relating to importation of goods
 
 **(a) In general**
 
@@ -2401,7 +2401,7 @@ Notwithstanding any other provision of this subchapter, the authorities and requ
 
 In this section, the term “good” means any article, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
 
-(Pub. L. 117–328, div. AA, title II, § 207, Dec. 29, 2022, 136 Stat. 5536.)
+(Pub. L. 117–328, div. AA, title II, § 207, Dec. 29, 2022, 136 Stat. 5536.)
 
 **Editorial Notes**
 
@@ -2417,7 +2417,7 @@ Section was enacted as part of the Masih Alinejad Harassment and Unlawful Target
 
 Subchapter was enacted as the Stop Harboring Iranian Petroleum Act, also known as the SHIP Act, and not as part of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 which comprises this chapter.
 
-### § 8571. Statement of policy
+### § 8571. Statement of policy
 
 It is the policy of the United States—
 
@@ -2429,7 +2429,7 @@ It is the policy of the United States—
 
 **(4)** to counter Iran’s actions to finance and facilitate the participation of foreign terrorist organizations in ongoing conflicts and illicit activities due to the threat such actions pose to the vital national interests of the United States.
 
-(Pub. L. 118–50, div. J, § 2, Apr. 24, 2024, 138 Stat. 963.)
+(Pub. L. 118–50, div. J, § 2, Apr. 24, 2024, 138 Stat. 963.)
 
 **Editorial Notes**
 
@@ -2443,7 +2443,7 @@ Section was enacted as part of the Stop Harboring Iranian Petroleum Act, also kn
 
 For short title of this subchapter as the “Stop Harboring Iranian Petroleum Act”, also known as the “SHIP Act”, see section 1 of div. J of Pub. L. 118–50, set out as a Short Title of 2024 Amendment note under section 8501 of this title.
 
-### § 8572. Imposition of sanctions with respect to Iranian petroleum
+### § 8572. Imposition of sanctions with respect to Iranian petroleum
 
 **(a) In general**
 
@@ -2581,15 +2581,15 @@ The President may, on a case-by-case basis and for periods not to exceed 180 day
 
 **(2)** Iran has ceased the pursuit, acquisition, and development of, and verifiably dismantled, its nuclear, biological, and chemical weapons, ballistic missiles, and ballistic missile launch technology.
 
-(Pub. L. 118–50, div. J, § 3, Apr. 24, 2024, 138 Stat. 963.)
+(Pub. L. 118–50, div. J, § 3, Apr. 24, 2024, 138 Stat. 963.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (c)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (c)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (c)(3)(A)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (c)(3)(A)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 **Codification**
 
@@ -2599,7 +2599,7 @@ Section was enacted as part of the Stop Harboring Iranian Petroleum Act, also kn
 
 **Delegation of Functions**
 
-Memorandum of President of the United States, § 1, Sept. 13, 2024, 89 F.R. 77757, provided:
+Memorandum of President of the United States, § 1, Sept. 13, 2024, 89 F.R. 77757, provided:
 
 (a) I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State, the functions and authorities vested in the President by sections 3(a), 3(c)(1), and 3(e) of the Stop Harboring Iranian Petroleum Act (Division J of Public Law 118–50) (the “SHIP Act”) [22 U.S.C. 8572(a), (c)(1), (e)].
 
@@ -2609,7 +2609,7 @@ Memorandum of President of the United States, § 1, Sept. 13, 2024, 89 F.R. 77
 
 J.R. Biden, Jr.
 
-### § 8573. Report on Iranian petroleum and petroleum products exports
+### § 8573. Report on Iranian petroleum and petroleum products exports
 
 **(a) In general** Not later than 120 days after April 24, 2024, and annually thereafter until the date described in subsection (d), the Administrator of the Energy Information Administration shall submit to the appropriate congressional committees a report describing Iran’s growing exports of petroleum and petroleum products, that includes the following:
 
@@ -2649,7 +2649,7 @@ The unclassified portion of the report required by subsection (a) shall be poste
 
 The requirement to submit reports under this section shall be terminated on the date on which the President makes the certification described in section 8572(i) of this title.
 
-(Pub. L. 118–50, div. J, § 4, Apr. 24, 2024, 138 Stat. 967.)
+(Pub. L. 118–50, div. J, § 4, Apr. 24, 2024, 138 Stat. 967.)
 
 **Editorial Notes**
 
@@ -2657,7 +2657,7 @@ The requirement to submit reports under this section shall be terminated on the 
 
 Section was enacted as part of the Stop Harboring Iranian Petroleum Act, also known as the SHIP Act, and not as part of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 which comprises this chapter.
 
-### § 8574. Strategy to counter role of the People’s Republic of China in evasion of sanctions with respect to Iran
+### § 8574. Strategy to counter role of the People’s Republic of China in evasion of sanctions with respect to Iran
 
 **(a) In general** Not later than 120 days after April 24, 2024, the Secretary of State, in consultation with the heads of other appropriate Federal agencies, shall submit to the appropriate congressional committees a written strategy, and provide to those committees an accompanying briefing, on the role of the People’s Republic of China in evasion of sanctions imposed by the United States with respect to Iranian-origin petroleum products that includes an assessment of options—
 
@@ -2739,7 +2739,7 @@ Section was enacted as part of the Stop Harboring Iranian Petroleum Act, also kn
 
 The strategy required by subsection (a) shall be submitted in unclassified form, but may include a classified index.
 
-(Pub. L. 118–50, div. J, § 5, Apr. 24, 2024, 138 Stat. 967.)
+(Pub. L. 118–50, div. J, § 5, Apr. 24, 2024, 138 Stat. 967.)
 
 **Editorial Notes**
 
@@ -2747,7 +2747,7 @@ The strategy required by subsection (a) shall be submitted in unclassified form,
 
 Section was enacted as part of the Stop Harboring Iranian Petroleum Act, also known as the SHIP Act, and not as part of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 which comprises this chapter.
 
-### § 8575. Definitions
+### § 8575. Definitions
 
 In this subchapter:
 
@@ -2761,7 +2761,7 @@ In this subchapter:
 
 The term “covered family member”, with respect to a foreign person who is an individual, means a spouse, adult child, parent, or sibling of the person who engages in the sanctionable activity described under section 8572 of this title or who demonstrably benefits from such activity.
 
-(Pub. L. 118–50, div. J, § 6, Apr. 24, 2024, 138 Stat. 969.)
+(Pub. L. 118–50, div. J, § 6, Apr. 24, 2024, 138 Stat. 969.)
 
 **Editorial Notes**
 

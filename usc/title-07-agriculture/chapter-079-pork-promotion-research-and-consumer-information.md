@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 79—PORK PROMOTION, RESEARCH, AND CONSUMER INFORMATION
 
-## § 4801. Congressional findings and declaration of purpose
+## § 4801. Congressional findings and declaration of purpose
 
 **(a)** Congress finds that—
 
@@ -59,19 +59,19 @@ retrieved: 2026-10-11
 
 **(C)** otherwise limit the right of an individual pork producer to produce pork and pork products.
 
-(Pub. L. 99–198, title XVI, § 1612, Dec. 23, 1985, 99 Stat. 1607.)
+(Pub. L. 99–198, title XVI, § 1612, Dec. 23, 1985, 99 Stat. 1607.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 99–198, title XVI, § 1631, Dec. 23, 1985, 99 Stat. 1622, provided that: “This subtitle [subtitle B (§§ 1611–1631) of title XVI of Pub. L. 99–198, enacting this chapter] shall become effective on January 1, 1986.”
+Pub. L. 99–198, title XVI, § 1631, Dec. 23, 1985, 99 Stat. 1622, provided that: “This subtitle [subtitle B (§§ 1611–1631) of title XVI of Pub. L. 99–198, enacting this chapter] shall become effective on January 1, 1986.”
 
 **Short Title**
 
-Pub. L. 99–198, title XVI, § 1611, Dec. 23, 1985, 99 Stat. 1606, provided that: “This subtitle [subtitle B (§§ 1611–1631) of title XVI of Pub. L. 99–198, enacting this chapter] may be cited as the ‘Pork Promotion, Research, and Consumer Information Act of 1985’.”
+Pub. L. 99–198, title XVI, § 1611, Dec. 23, 1985, 99 Stat. 1606, provided that: “This subtitle [subtitle B (§§ 1611–1631) of title XVI of Pub. L. 99–198, enacting this chapter] may be cited as the ‘Pork Promotion, Research, and Consumer Information Act of 1985’.”
 
-## § 4802. Definitions
+## § 4802. Definitions
 
 For purposes of this chapter:
 
@@ -127,7 +127,7 @@ For purposes of this chapter:
 
 **(17)** The term “to market” means to sell or to otherwise dispose of a porcine animal, pork, or pork product in commerce.
 
-(Pub. L. 99–198, title XVI, § 1613, Dec. 23, 1985, 99 Stat. 1607.)
+(Pub. L. 99–198, title XVI, § 1613, Dec. 23, 1985, 99 Stat. 1607.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -135,7 +135,7 @@ For purposes of this chapter:
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4803. Pork and pork product orders
+## § 4803. Pork and pork product orders
 
 **(a)** To carry out this chapter, the Secretary shall, in accordance with this chapter, issue and, from time to time, amend orders applicable to persons engaged in—
 
@@ -145,7 +145,7 @@ Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as
 
 **(b)** The Secretary may issue such regulations as are necessary to carry out this chapter.
 
-(Pub. L. 99–198, title XVI, § 1614, Dec. 23, 1985, 99 Stat. 1609.)
+(Pub. L. 99–198, title XVI, § 1614, Dec. 23, 1985, 99 Stat. 1609.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -153,7 +153,7 @@ Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4804. Notice and hearing
+## § 4804. Notice and hearing
 
 During the period beginning on January 1, 1986, and ending 30 days after receipt of a proposal for an initial order submitted by any person affected by this chapter, the Secretary shall—
 
@@ -161,7 +161,7 @@ During the period beginning on January 1, 1986, and ending 30 days after receipt
 
 **(2)** give due notice of and opportunity for public comment on such proposed order.
 
-(Pub. L. 99–198, title XVI, § 1615, Dec. 23, 1985, 99 Stat. 1609.)
+(Pub. L. 99–198, title XVI, § 1615, Dec. 23, 1985, 99 Stat. 1609.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -169,7 +169,7 @@ During the period beginning on January 1, 1986, and ending 30 days after receipt
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4805. Findings and issuance of orders
+## § 4805. Findings and issuance of orders
 
 **(a) Necessary findings**
 
@@ -187,7 +187,7 @@ An order shall become effective on a date that is not more than 90 days followin
 
 An order shall contain such terms and conditions as are required in sections 4806 through 4809 of this title and, except as provided in section 4810 of this title, no others.
 
-(Pub. L. 99–198, title XVI, § 1616, Dec. 23, 1985, 99 Stat. 1609.)
+(Pub. L. 99–198, title XVI, § 1616, Dec. 23, 1985, 99 Stat. 1609.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -195,7 +195,7 @@ An order shall contain such terms and conditions as are required in sections 480
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4806. National Pork Producers Delegate Body
+## § 4806. National Pork Producers Delegate Body
 
 **(a) Establishment and appointment**
 
@@ -305,15 +305,15 @@ A member of the Delegate Body shall serve without compensation, but may be reimb
 
 **(h) Duties and functions** The Delegate Body shall—
 
-**(1)** recommend the rate of assessment prescribed by the initial order and any increase in such rate pursuant to section 4809(5) 1
+**(1)** recommend the rate of assessment prescribed by the initial order and any increase in such rate pursuant to section 4809(5) 1
 
-<sup>1</sup>  So in original. Probably should be section “4809(b)”.
+<sup>1</sup> So in original. Probably should be section “4809(b)”.
 
 of this title; and
 
 **(2)** determine the percentage of the aggregate amount of assessments collected in a State that each State association shall receive under section 4809(c)(1) of this title.
 
-(Pub. L. 99–198, title XVI, § 1617, Dec. 23, 1985, 99 Stat. 1609.)
+(Pub. L. 99–198, title XVI, § 1617, Dec. 23, 1985, 99 Stat. 1609.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -321,7 +321,7 @@ of this title; and
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4807. Selection of Delegate Body
+## § 4807. Selection of Delegate Body
 
 **(a) Nominations**
 
@@ -331,9 +331,9 @@ Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as
 
 **(3)**
 
-**(A)**  1
+**(A)** 1
 
-<sup>1</sup>  So in original. No subpar. (B) has been enacted.
+<sup>1</sup> So in original. No subpar. (B) has been enacted.
 
 Additional producers who are residents of a State may be nominated as candidates of such State by written petition signed by 100 producers or 5 percent of the pork producers in such State, whichever is less. The Secretary shall establish and publicize the procedures governing the time and place for filing petitions.
 
@@ -379,7 +379,7 @@ Additional producers who are residents of a State may be nominated as candidates
 
 **(3)** Additional producers who are residents of a State may be nominated to fill such positions in accordance with subsection (a)(3).
 
-(Pub. L. 99–198, title XVI, § 1618, Dec. 23, 1985, 99 Stat. 1611.)
+(Pub. L. 99–198, title XVI, § 1618, Dec. 23, 1985, 99 Stat. 1611.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -387,19 +387,19 @@ Additional producers who are residents of a State may be nominated as candidates
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4808. National Pork Board
+## § 4808. National Pork Board
 
 **(a)**
 
 **(1)** The order shall provide for the establishment and appointment by the Secretary of a 15-member National Pork Board.
 
-**(2)**  1
+**(2)** 1
 
-<sup>1</sup>  So in original. Two pars. (2) have been enacted.
+<sup>1</sup> So in original. Two pars. (2) have been enacted.
 
 The Board shall consist of producers representing at least 12 States and importers appointed by the Secretary from nominations submitted under section 4806(g) of this title .
 
-**(2)**  <sup>1</sup> The Board shall consist of producers or importers appointed by the Secretary from nominations submitted under section 4806(g) of this title.
+**(2)** <sup>1</sup> The Board shall consist of producers or importers appointed by the Secretary from nominations submitted under section 4806(g) of this title.
 
 **(3)** A member of the Board shall serve for a 3-year term, with no such member serving more than two consecutive 3-year terms, except that initial appointments to the Board shall be staggered with an equal number of members appointed, to the maximum extent possible, to 1-year, 2-year, and 3-year terms, except that the term of a member of the Board shall continue until the successor of such member, if any, is appointed in accordance with paragraph (2).
 
@@ -465,7 +465,7 @@ The Board shall consist of producers representing at least 12 States and importe
 
 **(III)** make such other reports as the Secretary or Board may require.
 
-(Pub. L. 99–198, title XVI, § 1619, Dec. 23, 1985, 99 Stat. 1612.)
+(Pub. L. 99–198, title XVI, § 1619, Dec. 23, 1985, 99 Stat. 1612.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -473,7 +473,7 @@ The Board shall consist of producers representing at least 12 States and importe
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4809. Assessments
+## § 4809. Assessments
 
 **(a) Collection and remission to Board; persons required to pay**
 
@@ -481,9 +481,9 @@ Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as
 
 **(A)** each producer for each porcine animal described in subparagraph (A) or (C) of section 4802(8) of this title produced in the United States that is sold or slaughtered for sale;
 
-**(B)** each producer for each porcine animal described in subsection 1
+**(B)** each producer for each porcine animal described in subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 4802(8)(B) of this title that is sold; and
 
@@ -545,15 +545,15 @@ Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as
 
 **(i)** 37½ percent of the aggregate amount of assessments collected under this section throughout the United States from the date assessment commences pursuant to subsection (a)(1) until the first day of the month following the month in which the Board is appointed pursuant to section 4808 of this title.2
 
-<sup>2</sup>  So in original. The period probably should be a comma.
+<sup>2</sup> So in original. The period probably should be a comma.
 
 **(ii)** 35 percent thereafter until the referendum is conducted pursuant to section 4811 of this title,
 
 **(iii)** 25 percent until twelve months after the referendum is conducted, and
 
-**(iv)** no funds thereafter except in so far as it obtains such funds from the Board pursuant to sections 3
+**(iv)** no funds thereafter except in so far as it obtains such funds from the Board pursuant to sections 3
 
-<sup>3</sup>  So in original. Probably should be “section”.
+<sup>3</sup> So in original. Probably should be “section”.
 
 4808 or 4809 of this title, each of which amounts determined under (i), (ii), and (iii) shall be less the Council’s share of refunds determined pursuant to paragraph (4).
 
@@ -569,9 +569,9 @@ Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as
 
 **(B)** The Board shall use such funds and any proceeds from the investment of such funds pursuant to subsection (g) for—
 
-**(i)** financing promotion, research, and consumer information plans and projects in accordance with this chapter; 4
+**(i)** financing promotion, research, and consumer information plans and projects in accordance with this chapter; 4
 
-<sup>4</sup>  See References in Text note below.
+<sup>4</sup> See References in Text note below.
 
 **(ii)** such expenses for the administration, maintenance, and functioning of the Board as may be authorized by the Secretary;
 
@@ -613,7 +613,7 @@ No funds collected through assessments authorized by this section may, in any ma
 
 **(3)** an obligation fully guaranteed as to principal and interest by the United States.
 
-(Pub. L. 99–198, title XVI, § 1620, Dec. 23, 1985, 99 Stat. 1614; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 99–198, title XVI, § 1620, Dec. 23, 1985, 99 Stat. 1614; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Editorial Notes**
 
@@ -631,7 +631,7 @@ This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original “
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4810. Permissive provisions
+## § 4810. Permissive provisions
 
 **(a) Recordkeeping and reporting requirements; incidental and necessary terms and conditions** On the recommendation of the Board, and with the approval of the Secretary, an order may contain one or more of the following provisions:
 
@@ -679,7 +679,7 @@ including documentation of the State of origin of a purchased porcine animal or 
 
 **(2)** if such person is an employee of the Department of Agriculture or the Board, removed from office.
 
-(Pub. L. 99–198, title XVI, § 1621, Dec. 23, 1985, 99 Stat. 1617.)
+(Pub. L. 99–198, title XVI, § 1621, Dec. 23, 1985, 99 Stat. 1617.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -687,13 +687,13 @@ including documentation of the State of origin of a purchased porcine animal or 
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4811. Referendum
+## § 4811. Referendum
 
 **(a) Continuation of order**
 
-For the purpose of determining whether an order then 1
+For the purpose of determining whether an order then 1
 
-<sup>1</sup>  So in original. Probably should be followed by “in”.
+<sup>1</sup> So in original. Probably should be followed by “in”.
 
 effect shall be continued during the period beginning not earlier than 24 months after the issuance of the order and ending not later than 30 months after the issuance of the order, the Secretary shall conduct a referendum among persons who have been pork producers and importers during a representative period, as determined by the Secretary.
 
@@ -719,7 +719,7 @@ A referendum shall be conducted in such manner as prescribed by the Secretary.
 
 A referendum to amend the initial order shall be conducted pursuant to this section.
 
-(Pub. L. 99–198, title XVI, § 1622, Dec. 23, 1985, 99 Stat. 1618.)
+(Pub. L. 99–198, title XVI, § 1622, Dec. 23, 1985, 99 Stat. 1618.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -727,7 +727,7 @@ A referendum to amend the initial order shall be conducted pursuant to this sect
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4812. Suspension and termination of orders
+## § 4812. Suspension and termination of orders
 
 **(a) Authority of Secretary**
 
@@ -751,7 +751,7 @@ If after the initial referendum provided for in section 4811(a) of this title th
 
 The termination or suspension of an order, or a provision of an order, shall not be considered an order within the meaning of this chapter.
 
-(Pub. L. 99–198, title XVI, § 1623, Dec. 23, 1985, 99 Stat. 1618.)
+(Pub. L. 99–198, title XVI, § 1623, Dec. 23, 1985, 99 Stat. 1618.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -759,7 +759,7 @@ The termination or suspension of an order, or a provision of an order, shall not
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4813. Refunds
+## § 4813. Refunds
 
 **(a) Demand for refund; persons eligible** Notwithstanding any other provision of this chapter, prior to the approval of the continuation of an order pursuant to the referendum required under section 4811(a) of this title, any person shall have the right to demand and receive from the Board a refund of an assessment collected under section 4809 of this title if such person—
 
@@ -771,9 +771,9 @@ Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as
 
 Such demand shall be made in accordance with regulations, on a form, and within a time period prescribed by the Board and approved by the Secretary, but not later than 30 days after the end of the month in which the assessment was paid.
 
-**(c) Payment of refund on submission of satisfactory proof** Such refund shall be made not later than 30 days after demand is received therefore 1
+**(c) Payment of refund on submission of satisfactory proof** Such refund shall be made not later than 30 days after demand is received therefore 1
 
-<sup>1</sup>  So in original. Probably should be “therefor”.
+<sup>1</sup> So in original. Probably should be “therefor”.
 
 on submission of proof satisfactory to the Board that the producer, person, or importer—
 
@@ -781,7 +781,7 @@ on submission of proof satisfactory to the Board that the producer, person, or i
 
 **(2)** did not collect such assessment from another producer, person, or importer.
 
-(Pub. L. 99–198, title XVI, § 1624, Dec. 23, 1985, 99 Stat. 1619.)
+(Pub. L. 99–198, title XVI, § 1624, Dec. 23, 1985, 99 Stat. 1619.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -789,7 +789,7 @@ on submission of proof satisfactory to the Board that the producer, person, or i
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4814. Petition and review
+## § 4814. Petition and review
 
 **(a)**
 
@@ -815,7 +815,7 @@ Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as
 
 **(B)** take such further proceedings as, in the opinion of the court, the law requires.
 
-(Pub. L. 99–198, title XVI, § 1625, Dec. 23, 1985, 99 Stat. 1619.)
+(Pub. L. 99–198, title XVI, § 1625, Dec. 23, 1985, 99 Stat. 1619.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -823,7 +823,7 @@ Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4815. Enforcement
+## § 4815. Enforcement
 
 **(a) Jurisdiction of district court; referral of civil actions to Attorney General**
 
@@ -877,7 +877,7 @@ Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as
 
 The remedies provided in subsections (a) and (b) shall be in addition to, and not exclusive of, other remedies that may be available.
 
-(Pub. L. 99–198, title XVI, § 1626, Dec. 23, 1985, 99 Stat. 1620.)
+(Pub. L. 99–198, title XVI, § 1626, Dec. 23, 1985, 99 Stat. 1620.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -885,7 +885,7 @@ The remedies provided in subsections (a) and (b) shall be in addition to, and no
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4816. Investigations
+## § 4816. Investigations
 
 **(a) Purposes** The Secretary may make such investigations as the Secretary considers necessary—
 
@@ -909,7 +909,7 @@ Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as
 
 **(4)** Process in such case may be served in the judicial district in which such person is an inhabitant or wherever such person may be found.
 
-(Pub. L. 99–198, title XVI, § 1627, Dec. 23, 1985, 99 Stat. 1621.)
+(Pub. L. 99–198, title XVI, § 1627, Dec. 23, 1985, 99 Stat. 1621.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -917,7 +917,7 @@ Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4817. Preemption
+## § 4817. Preemption
 
 **(a) Promotion and consumer education; funds from pork producers** This chapter is intended to occupy the field of—
 
@@ -931,13 +931,13 @@ The regulation of such activity (other than a regulation or requirement relating
 
 **(c) Application of section**
 
-This section shall apply only during a period beginning on the date of the commencement of the collection of assessments under section 4809 of this title and ending on the date of the termination of the collection of assessments under section 4811(a)(3) or 4811(b)(1)(B) 1
+This section shall apply only during a period beginning on the date of the commencement of the collection of assessments under section 4809 of this title and ending on the date of the termination of the collection of assessments under section 4811(a)(3) or 4811(b)(1)(B) 1
 
-<sup>1</sup>  So in original. Probably should be “section 4811(b)(2)(A) or 4812(b)(1)(B)”.
+<sup>1</sup> So in original. Probably should be “section 4811(b)(2)(A) or 4812(b)(1)(B)”.
 
 of this title.
 
-(Pub. L. 99–198, title XVI, § 1628, Dec. 23, 1985, 99 Stat. 1621.)
+(Pub. L. 99–198, title XVI, § 1628, Dec. 23, 1985, 99 Stat. 1621.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -945,11 +945,11 @@ of this title.
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4818. Administrative provision
+## § 4818. Administrative provision
 
 The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
 
-(Pub. L. 99–198, title XVI, § 1629, Dec. 23, 1985, 99 Stat. 1621.)
+(Pub. L. 99–198, title XVI, § 1629, Dec. 23, 1985, 99 Stat. 1621.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -957,13 +957,13 @@ The provisions of this chapter applicable to orders shall be applicable to amend
 
 Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under section 4801 of this title.
 
-## § 4819. Authorization of appropriations
+## § 4819. Authorization of appropriations
 
 **(a)** There are authorized to be appropriated such sums as may be necessary for the Secretary to carry out this chapter, subject to reimbursement from the Board under section 4809(c)(3)(B)(iv) of this title.
 
 **(b)** Sums appropriated to carry out this chapter shall not be available for payment of an expense or expenditure incurred by the Board in administering an order.
 
-(Pub. L. 99–198, title XVI, § 1630, Dec. 23, 1985, 99 Stat. 1621.)
+(Pub. L. 99–198, title XVI, § 1630, Dec. 23, 1985, 99 Stat. 1621.)
 
 **Statutory Notes and Related Subsidiaries**
 

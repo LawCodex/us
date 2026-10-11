@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 114—WESTERN BALKANS DEMOCRACY AND PROSPERITY
 
-## § 10701. Findings
+## § 10701. Findings
 
 Congress finds the following:
 
@@ -69,15 +69,15 @@ Congress finds the following:
 
 **(22)** Democratic countries whose values are in alignment with the United States make for stronger and more durable partnerships.
 
-(Pub. L. 119–60, div. H, title LXXXIII, § 8332, Dec. 18, 2025, 139 Stat. 1863.)
+(Pub. L. 119–60, div. H, title LXXXIII, § 8332, Dec. 18, 2025, 139 Stat. 1863.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 119–60, div. H, title LXXXIII, § 8331, Dec. 18, 2025, 139 Stat. 1863, provided that: “This subtitle [enacting this chapter] may be cited as the ‘Western Balkans Democracy and Prosperity Act’.”
+Pub. L. 119–60, div. H, title LXXXIII, § 8331, Dec. 18, 2025, 139 Stat. 1863, provided that: “This subtitle [enacting this chapter] may be cited as the ‘Western Balkans Democracy and Prosperity Act’.”
 
-## § 10702. Sense of Congress
+## § 10702. Sense of Congress
 
 It is a sense of Congress that the United States should—
 
@@ -153,9 +153,9 @@ It is a sense of Congress that the United States should—
 
 **(19)** work with allies and partners to strengthen law enforcement and investigative capacities in Western Balkan countries to disrupt transnational criminal organizations and corruption.
 
-(Pub. L. 119–60, div. H, title LXXXIII, § 8333, Dec. 18, 2025, 139 Stat. 1865.)
+(Pub. L. 119–60, div. H, title LXXXIII, § 8333, Dec. 18, 2025, 139 Stat. 1865.)
 
-## § 10703. Definitions
+## § 10703. Definitions
 
 In this subtitle:
 
@@ -195,9 +195,9 @@ The term “ICT” means information and communication technology.
 
 The term “Western Balkans country” means any country listed in subparagraphs (A) through (F) of paragraph (3).
 
-(Pub. L. 119–60, div. H, title LXXXIII, § 8334, Dec. 18, 2025, 139 Stat. 1867.)
+(Pub. L. 119–60, div. H, title LXXXIII, § 8334, Dec. 18, 2025, 139 Stat. 1867.)
 
-## § 10704. Sanctions relating to the Western Balkans
+## § 10704. Sanctions relating to the Western Balkans
 
 **(a) In general**
 
@@ -229,9 +229,9 @@ The President may exercise all authorities granted under the International Emerg
 
 **(ii)** ineligible to receive a visa or other documentation to enter the United States; and
 
-**(iii)** otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et 16 1
+**(iii)** otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et 16 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 seq.).
 
@@ -343,19 +343,19 @@ The President is authorized to promulgate such rules and regulations as may be n
 
 This section shall cease to have force or effect beginning on the date that is 8 years after December 18, 2025.
 
-(Pub. L. 119–60, div. H, title LXXXIII, § 8335, Dec. 18, 2025, 139 Stat. 1867.)
+(Pub. L. 119–60, div. H, title LXXXIII, § 8335, Dec. 18, 2025, 139 Stat. 1867.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsecs. (c)(1) and (j)(i), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (c)(1) and (j)(i), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (c)(2)(A)(iii), (B)(ii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (c)(2)(A)(iii), (B)(ii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-The National Security Act of 1947, referred to in subsec. (h)(3)(A), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (h)(3)(A), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-## § 10705. Democratic and economic development and prosperity initiatives
+## § 10705. Democratic and economic development and prosperity initiatives
 
 **(a) Anti-corruption initiative** The Secretary of State, through ongoing and new programs, should develop an initiative that—
 
@@ -507,9 +507,9 @@ Not later than 1 year after December 18, 2025, subject to the availability of ap
 
 **(C)** an assessment of how the United States International Development Finance Corporation, in coordination with the United States Trade and Development Agency and the Export-Import Bank of the United States, can deploy its insurance products in support of bonds or other instruments issued to raise capital through United States financial markets in the Western Balkans.
 
-(Pub. L. 119–60, div. H, title LXXXIII, § 8336, Dec. 18, 2025, 139 Stat. 1870.)
+(Pub. L. 119–60, div. H, title LXXXIII, § 8336, Dec. 18, 2025, 139 Stat. 1870.)
 
-## § 10706. Promoting cross-cultural and educational engagement
+## § 10706. Promoting cross-cultural and educational engagement
 
 **(a) Sense of Congress** It is the sense of Congress that—
 
@@ -529,9 +529,9 @@ Not later than 1 year after December 18, 2025, subject to the availability of ap
 
 **(5)** encouraging alliances and exchanges with like-minded institutions of education within the Western Balkans and the larger European continent.
 
-(Pub. L. 119–60, div. H, title LXXXIII, § 8337, Dec. 18, 2025, 139 Stat. 1875.)
+(Pub. L. 119–60, div. H, title LXXXIII, § 8337, Dec. 18, 2025, 139 Stat. 1875.)
 
-## § 10707. Young Balkan Leaders Initiative
+## § 10707. Young Balkan Leaders Initiative
 
 **(a) Sense of Congress** It is the sense of Congress that—
 
@@ -567,9 +567,9 @@ The Secretary of State should continue the BOLD Leadership Program, which shall 
 
 Not later than 180 days after December 18, 2025, the Secretary of State shall provide a briefing to the appropriate committees of Congress that describes the status of exchange programs involving the Western Balkans region.
 
-(Pub. L. 119–60, div. H, title LXXXIII, § 8338, Dec. 18, 2025, 139 Stat. 1875.)
+(Pub. L. 119–60, div. H, title LXXXIII, § 8338, Dec. 18, 2025, 139 Stat. 1875.)
 
-## § 10708. Supporting cybersecurity and cyber resilience in the Western Balkans
+## § 10708. Supporting cybersecurity and cyber resilience in the Western Balkans
 
 **(a) Sense of Congress** It is the sense of Congress that—
 
@@ -611,9 +611,9 @@ Not later than 180 days after December 18, 2025, the Secretary of State shall pr
 
 **(6)** any additional support needed from the United States for the cybersecurity and cyber resilience of the following NATO Allies: Albania, Montenegro, and North Macedonia.
 
-(Pub. L. 119–60, div. H, title LXXXIII, § 8339, Dec. 18, 2025, 139 Stat. 1876.)
+(Pub. L. 119–60, div. H, title LXXXIII, § 8339, Dec. 18, 2025, 139 Stat. 1876.)
 
-## § 10709. Relations between Kosovo and Serbia
+## § 10709. Relations between Kosovo and Serbia
 
 **(a) Sense of Congress** It is the sense of Congress that—
 
@@ -635,9 +635,9 @@ Not later than 180 days after December 18, 2025, the Secretary of State shall pr
 
 **(2)** it should support pluralistic democracies in countries in the Western Balkans as a means to prevent a return to the ethnic strife that once characterized the region.
 
-(Pub. L. 119–60, div. H, title LXXXIII, § 8340, Dec. 18, 2025, 139 Stat. 1877.)
+(Pub. L. 119–60, div. H, title LXXXIII, § 8340, Dec. 18, 2025, 139 Stat. 1877.)
 
-## § 10710. Reports on Russian and Chinese malign influence operations and campaigns in the Western Balkans
+## § 10710. Reports on Russian and Chinese malign influence operations and campaigns in the Western Balkans
 
 **(a) Reports required** Not later than 180 days after December 18, 2025, and every two years thereafter, the Secretary of State, in coordination with the Secretary of Defense, the Director of National Intelligence, and the heads of other Federal departments or agencies, as appropriate, shall submit a report to the appropriate committees of Congress, the Select Committee on Intelligence of the Senate, the Committee on Armed Services of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives regarding Russian and Chinese malign influence operations and campaigns carried out with respect to Balkan countries that seek—
 
@@ -697,4 +697,4 @@ activities that the Department of State and other relevant Federal agencies coul
 
 Each report required under subsection (a) shall be submitted in unclassified form, but may include a classified annex.
 
-(Pub. L. 119–60, div. H, title LXXXIII, § 8341, Dec. 18, 2025, 139 Stat. 1878.)
+(Pub. L. 119–60, div. H, title LXXXIII, § 8341, Dec. 18, 2025, 139 Stat. 1878.)

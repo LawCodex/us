@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 113—CONCRETE MASONRY PRODUCTS RESEARCH, EDUCATION, AND PROMOTION
 
-## § 8701. Declaration of policy
+## § 8701. Declaration of policy
 
 **(a) Purpose** The purpose of this chapter is to authorize the establishment of an orderly program for developing, financing, and carrying out an effective, continuous, and coordinated program of research, education, and promotion, including funds for marketing and market research activities, that is designed to—
 
@@ -29,15 +29,15 @@ retrieved: 2026-10-11
 
 Nothing in this chapter may be construed to provide for the control of production or otherwise limit the right of any person to manufacture concrete masonry products.
 
-(Pub. L. 115–254, div. E, § 1302, Oct. 5, 2018, 132 Stat. 3469.)
+(Pub. L. 115–254, div. E, § 1302, Oct. 5, 2018, 132 Stat. 3469.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 115–254, div. E, § 1301, Oct. 5, 2018, 132 Stat. 3469, provided that: “This division [enacting this chapter] may be cited as the ‘Concrete Masonry Products Research, Education, and Promotion Act of 2018’.”
+Pub. L. 115–254, div. E, § 1301, Oct. 5, 2018, 132 Stat. 3469, provided that: “This division [enacting this chapter] may be cited as the ‘Concrete Masonry Products Research, Education, and Promotion Act of 2018’.”
 
-## § 8702. Definitions
+## § 8702. Definitions
 
 For the purposes of this chapter:
 
@@ -119,9 +119,9 @@ The term “Secretary” means the Secretary of Commerce.
 
 The term “United States” means the several States and the District of Columbia.
 
-(Pub. L. 115–254, div. E, § 1303, Oct. 5, 2018, 132 Stat. 3469.)
+(Pub. L. 115–254, div. E, § 1303, Oct. 5, 2018, 132 Stat. 3469.)
 
-## § 8703. Issuance of orders
+## § 8703. Issuance of orders
 
 **(a) In general**
 
@@ -167,9 +167,9 @@ If there is an affirmative vote in a referendum as provided in section 8706 of t
 
 The Secretary may, from time to time, amend an order. The provisions of this chapter applicable to an order shall be applicable to any amendment to an order.
 
-(Pub. L. 115–254, div. E, § 1304, Oct. 5, 2018, 132 Stat. 3471.)
+(Pub. L. 115–254, div. E, § 1304, Oct. 5, 2018, 132 Stat. 3471.)
 
-## § 8704. Required terms in orders
+## § 8704. Required terms in orders
 
 **(a) In general**
 
@@ -445,9 +445,9 @@ Any officer, employee, or agent of the Department of Commerce or any officer, em
 
 This subsection does not authorize the withholding of information from Congress.
 
-(Pub. L. 115–254, div. E, § 1305, Oct. 5, 2018, 132 Stat. 3472.)
+(Pub. L. 115–254, div. E, § 1305, Oct. 5, 2018, 132 Stat. 3472.)
 
-## § 8705. Assessments
+## § 8705. Assessments
 
 **(a) Assessments**
 
@@ -533,9 +533,9 @@ The order shall provide that not less than 50 percent of the assessments (less a
 
 The order shall provide that the Secretary may, upon recommendation of the Board, modify the composition of the geographic regions described in paragraph (2).
 
-(Pub. L. 115–254, div. E, § 1306, Oct. 5, 2018, 132 Stat. 3478.)
+(Pub. L. 115–254, div. E, § 1306, Oct. 5, 2018, 132 Stat. 3478.)
 
-## § 8706. Referenda
+## § 8706. Referenda
 
 **(a) Initial referendum**
 
@@ -591,9 +591,9 @@ Not later than 30 days before a referendum is conducted under this section with 
 
 The Board established under an order with respect to which a referendum is conducted under this section shall reimburse the Secretary from assessments for any expenses incurred by the Secretary to conduct the referendum.
 
-(Pub. L. 115–254, div. E, § 1307, Oct. 5, 2018, 132 Stat. 3479.)
+(Pub. L. 115–254, div. E, § 1307, Oct. 5, 2018, 132 Stat. 3479.)
 
-## § 8707. Petition and review
+## § 8707. Petition and review
 
 **(a) Petition**
 
@@ -635,9 +635,9 @@ Service of process in proceedings under this subsection shall be conducted in ac
 
 The pendency of proceedings instituted under this section shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief under section 8708 of this title.
 
-(Pub. L. 115–254, div. E, § 1308, Oct. 5, 2018, 132 Stat. 3480.)
+(Pub. L. 115–254, div. E, § 1308, Oct. 5, 2018, 132 Stat. 3480.)
 
-## § 8708. Enforcement
+## § 8708. Enforcement
 
 **(a) Jurisdiction**
 
@@ -673,9 +673,9 @@ An order assessing a penalty or a cease-and-desist order issued under this subse
 
 The remedies provided in this chapter shall be in addition to, and not exclusive of, other remedies that may be available.
 
-(Pub. L. 115–254, div. E, § 1309, Oct. 5, 2018, 132 Stat. 3481.)
+(Pub. L. 115–254, div. E, § 1309, Oct. 5, 2018, 132 Stat. 3481.)
 
-## § 8709. Investigation and power to subpoena
+## § 8709. Investigation and power to subpoena
 
 **(a) Investigations**
 
@@ -709,9 +709,9 @@ Any failure to obey the order of the court may be punished by the court as a con
 
 Process in any proceeding under this subsection may be served in the United States judicial district in which the person being proceeded against resides or conducts business, or wherever the person may be found.
 
-(Pub. L. 115–254, div. E, § 1310, Oct. 5, 2018, 132 Stat. 3482.)
+(Pub. L. 115–254, div. E, § 1310, Oct. 5, 2018, 132 Stat. 3482.)
 
-## § 8710. Suspension or termination
+## § 8710. Suspension or termination
 
 **(a) Mandatory suspension or termination**
 
@@ -723,33 +723,33 @@ The Secretary shall suspend or terminate an order or a provision of an order if 
 
 **(2)** as soon as practicable, suspend or terminate, as the case may be, activities under the order in an orderly manner.
 
-(Pub. L. 115–254, div. E, § 1311, Oct. 5, 2018, 132 Stat. 3482.)
+(Pub. L. 115–254, div. E, § 1311, Oct. 5, 2018, 132 Stat. 3482.)
 
-## § 8711. Amendments to orders
+## § 8711. Amendments to orders
 
 The provisions of this chapter applicable to the order shall be applicable to any amendment to the order, except that section 8707 of this title shall not apply to an amendment.
 
-(Pub. L. 115–254, div. E, § 1312, Oct. 5, 2018, 132 Stat. 3483.)
+(Pub. L. 115–254, div. E, § 1312, Oct. 5, 2018, 132 Stat. 3483.)
 
-## § 8712. Effect on other laws
+## § 8712. Effect on other laws
 
 This chapter shall not affect or preempt any other Federal or State law authorizing research, education, and promotion relating to concrete masonry products.
 
-(Pub. L. 115–254, div. E, § 1313, Oct. 5, 2018, 132 Stat. 3483.)
+(Pub. L. 115–254, div. E, § 1313, Oct. 5, 2018, 132 Stat. 3483.)
 
-## § 8713. Regulations
+## § 8713. Regulations
 
 The Secretary may issue such regulations as may be necessary to carry out this chapter and the power vested in the Secretary under this chapter.
 
-(Pub. L. 115–254, div. E, § 1314, Oct. 5, 2018, 132 Stat. 3483.)
+(Pub. L. 115–254, div. E, § 1314, Oct. 5, 2018, 132 Stat. 3483.)
 
-## § 8714. Limitation on expenditures for administrative expenses
+## § 8714. Limitation on expenditures for administrative expenses
 
 Funds appropriated to carry out this chapter may not be used for the payment of the expenses or expenditures of the Board in administering the order.
 
-(Pub. L. 115–254, div. E, § 1315, Oct. 5, 2018, 132 Stat. 3483.)
+(Pub. L. 115–254, div. E, § 1315, Oct. 5, 2018, 132 Stat. 3483.)
 
-## § 8715. Limitations on obligation of funds
+## § 8715. Limitations on obligation of funds
 
 **(a) In general** In each fiscal year of the covered period, the Board may not obligate an amount greater than the sum of—
 
@@ -785,9 +785,9 @@ The fiscal years specified in this paragraph are the 9th and 10th fiscal years t
 
 In this section, the term “covered period” means the period that begins on October 5, 2018, and ends on the last day of the 11th fiscal year that begins on or after such date.
 
-(Pub. L. 115–254, div. E, § 1316, Oct. 5, 2018, 132 Stat. 3483.)
+(Pub. L. 115–254, div. E, § 1316, Oct. 5, 2018, 132 Stat. 3483.)
 
-## § 8716. Study and report by the Government Accountability Office
+## § 8716. Study and report by the Government Accountability Office
 
 Not later than 5 years after October 5, 2018, the Comptroller General of the United States shall prepare a study, and not later than 8 years after October 5, 2018, the Comptroller General shall submit to Congress and the Secretary a report, examining—
 
@@ -817,16 +817,16 @@ Not later than 5 years after October 5, 2018, the Comptroller General of the Uni
 
 **(13)** any other topic that the Comptroller General considers appropriate.
 
-(Pub. L. 115–254, div. E, § 1317, Oct. 5, 2018, 132 Stat. 3484.)
+(Pub. L. 115–254, div. E, § 1317, Oct. 5, 2018, 132 Stat. 3484.)
 
-## § 8717. Study and report by the Department of Commerce
+## § 8717. Study and report by the Department of Commerce
 
 Not later than 3 years after October 5, 2018, the Secretary shall prepare a study and submit to Congress a report examining the appropriateness and effectiveness of applying the commodity check-off program model (such as those programs established under the Commodity Promotion, Research, and Information Act of 1996 (7 U.S.C. 7411 et seq.)) to a nonagricultural industry, taking into account the program established by this chapter and any other check-off program involving a nonagricultural industry.
 
-(Pub. L. 115–254, div. E, § 1318, Oct. 5, 2018, 132 Stat. 3485.)
+(Pub. L. 115–254, div. E, § 1318, Oct. 5, 2018, 132 Stat. 3485.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Commodity Promotion, Research, and Information Act of 1996, referred to in text, is subtitle B of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, which is classified generally to subchapter II (§ 7411 et seq.) of chapter 101 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 7 and Tables.
+The Commodity Promotion, Research, and Information Act of 1996, referred to in text, is subtitle B of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, which is classified generally to subchapter II (§ 7411 et seq.) of chapter 101 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 7 and Tables.

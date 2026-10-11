@@ -23,11 +23,11 @@ This section [section 23 of act May 24, 1949] inserts a new chapter 50 (secs. 10
 
 **Amendments**
 
-1961—Pub. L. 87–216, § 3, Sept. 13, 1961, 75 Stat. 491, added item 1084.
+1961—Pub. L. 87–216, § 3, Sept. 13, 1961, 75 Stat. 491, added item 1084.
 
-1949—Act May 24, 1949, ch. 139, § 23, 63 Stat. 92, added chapter 50 and items 1081 to 1083.
+1949—Act May 24, 1949, ch. 139, § 23, 63 Stat. 92, added chapter 50 and items 1081 to 1083.
 
-## § 1081. Definitions
+## § 1081. Definitions
 
 As used in this chapter:
 
@@ -41,7 +41,7 @@ The term “American vessel” means any vessel documented or numbered under the
 
 The term “wire communication facility” means any and all instrumentalities, personnel, and services (among other things, the receipt, forwarding, or delivery of communications) used or useful in the transmission of writings, signs, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission.
 
-(Added May 24, 1949, ch. 139, § 23, 63 Stat. 92; amended Pub. L. 87–216, § 1, Sept. 13, 1961, 75 Stat. 491; Pub. L. 103–322, title XXXII, § 320501, Sept. 13, 1994, 108 Stat. 2114.)
+(Added May 24, 1949, ch. 139, § 23, 63 Stat. 92; amended Pub. L. 87–216, § 1, Sept. 13, 1961, 75 Stat. 491; Pub. L. 103–322, title XXXII, § 320501, Sept. 13, 1994, 108 Stat. 2114.)
 
 **Editorial Notes**
 
@@ -55,7 +55,7 @@ Section 4472 of the Internal Revenue Code of 1986, referred to in text, is class
 
 1961—Pub. L. 87–216 inserted definition of “wire communication facility”.
 
-## § 1082. Gambling ships
+## § 1082. Gambling ships
 
 **(a)** It shall be unlawful for any citizen or resident of the United States, or any other person who is on an American vessel or is otherwise under or within the jurisdiction of the United States, directly or indirectly—
 
@@ -69,7 +69,7 @@ if such gambling ship is on the high seas, or is an American vessel or otherwise
 
 **(c)** Whoever, being (1) the owner of an American vessel, or (2) the owner of any vessel under or within the jurisdiction of the United States, or (3) the owner of any vessel and being an American citizen, shall use, or knowingly permit the use of, such vessel in violation of any provision of this section shall, in addition to any other penalties provided by this chapter, forfeit such vessel, together with her tackle, apparel, and furniture, to the United States.
 
-(Added May 24, 1949, ch. 139, § 23, 63 Stat. 92; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added May 24, 1949, ch. 139, § 23, 63 Stat. 92; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -77,7 +77,7 @@ if such gambling ship is on the high seas, or is an American vessel or otherwise
 
 1994—Subsec. (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 1083. Transportation between shore and ship; penalties
+## § 1083. Transportation between shore and ship; penalties
 
 **(a)** It shall be unlawful to operate or use, or to permit the operation or use of, a vessel for the carriage or transportation, or for any part of the carriage or transportation, either directly or indirectly, of any passengers, for hire or otherwise, between a point or place within the United States and a gambling ship which is not within the jurisdiction of any State. This section does not apply to any carriage or transportation to or from a vessel in case of emergency involving the safety or protection of life or property.
 
@@ -85,9 +85,9 @@ if such gambling ship is on the high seas, or is an American vessel or otherwise
 
 For the operation or use of any vessel in violation of this section or of any rule or regulation issued hereunder, the owner or charterer of such vessel shall be subject to a civil penalty of $200 for each passenger carried or transported in violation of such provisions, and the master or other person in charge of such vessel shall be subject to a civil penalty of $300. Such penalty shall constitute a lien on such vessel, and proceedings to enforce such lien may be brought summarily by way of libel in any court of the United States having jurisdiction thereof. The Secretary of the Treasury may mitigate or remit any of the penalties provided by this section on such terms as he deems proper.
 
-(Added May 24, 1949, ch. 139, § 23, 63 Stat. 92.)
+(Added May 24, 1949, ch. 139, § 23, 63 Stat. 92.)
 
-## § 1084. Transmission of wagering information; penalties
+## § 1084. Transmission of wagering information; penalties
 
 **(a)** Whoever being engaged in the business of betting or wagering knowingly uses a wire communication facility for the transmission in interstate or foreign commerce of bets or wagers or information assisting in the placing of bets or wagers on any sporting event or contest, or for the transmission of a wire communication which entitles the recipient to receive money or credit as a result of bets or wagers, or for information assisting in the placing of bets or wagers, shall be fined under this title or imprisoned not more than two years, or both.
 
@@ -99,7 +99,7 @@ For the operation or use of any vessel in violation of this section or of any ru
 
 **(e)** As used in this section, the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or a commonwealth, territory or possession of the United States.
 
-(Added Pub. L. 87–216, § 2, Sept. 13, 1961, 75 Stat. 491; amended Pub. L. 100–690, title VII, § 7024, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–647, title XII, § 1205(g), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 87–216, § 2, Sept. 13, 1961, 75 Stat. 491; amended Pub. L. 100–690, title VII, § 7024, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–647, title XII, § 1205(g), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -109,11 +109,11 @@ For the operation or use of any vessel in violation of this section or of any ru
 
 1990—Subsec. (e). Pub. L. 101–647 inserted “commonwealth,” before “territory or possession of the United States”.
 
-1988—Subsec. (b). Pub. L. 100–690, § 7024(a), inserted “or foreign country” after “State” in two places.
+1988—Subsec. (b). Pub. L. 100–690, § 7024(a), inserted “or foreign country” after “State” in two places.
 
-Subsec. (c). Pub. L. 100–690, § 7024(b)(2), struck out “, Commonwealth of Puerto Rico, territory, possession, or the District of Columbia” after “State”.
+Subsec. (c). Pub. L. 100–690, § 7024(b)(2), struck out “, Commonwealth of Puerto Rico, territory, possession, or the District of Columbia” after “State”.
 
-Subsec. (e). Pub. L. 100–690, § 7024(b)(1), added subsec. (e).
+Subsec. (e). Pub. L. 100–690, § 7024(b)(1), added subsec. (e).
 
 **Short Title**
 

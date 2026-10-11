@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 237, consisting of sections 3771 and 3772, related to criminal procedure, prior to repeal by Pub. L. 100–702, title IV, §§ 404(a), 407, Nov. 19, 1988, 102 Stat. 4651, 4652, effective Dec. 1, 1988. See sections 2071 to 2074 of Title 28, Judiciary and Judicial Procedure.
+A prior chapter 237, consisting of sections 3771 and 3772, related to criminal procedure, prior to repeal by Pub. L. 100–702, title IV, §§ 404(a), 407, Nov. 19, 1988, 102 Stat. 4651, 4652, effective Dec. 1, 1988. See sections 2071 to 2074 of Title 28, Judiciary and Judicial Procedure.
 
 **Amendments**
 
-2026—Pub. L. 119–73, § 2(b), Jan. 23, 2026, 139 Stat. 2007, added item 3771A.
+2026—Pub. L. 119–73, § 2(b), Jan. 23, 2026, 139 Stat. 2007, added item 3771A.
 
-## § 3771. Crime victims’ rights
+## § 3771. Crime victims’ rights
 
 **(a) Rights of Crime Victims.—** A crime victim has the following rights:
 
@@ -47,9 +47,9 @@ A prior chapter 237, consisting of sections 3771 and 3772, related to criminal p
 
 **(9)** The right to be informed in a timely manner of any plea bargain or deferred prosecution agreement.
 
-**(10)** The right to be informed of the rights under this section and the services described in section 503(c) of the Victims’ Rights and Restitution Act of 1990 (42 U.S.C. 10607(c)) 1
+**(10)** The right to be informed of the rights under this section and the services described in section 503(c) of the Victims’ Rights and Restitution Act of 1990 (42 U.S.C. 10607(c)) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and provided contact information for the Office of the Victims’ Rights Ombudsman of the Department of Justice.
 
@@ -131,7 +131,7 @@ This paragraph does not affect the victim’s right to restitution as provided i
 
 **(D)** provide that the Attorney General, or the designee of the Attorney General, shall be the final arbiter of the complaint, and that there shall be no judicial review of the final decision of the Attorney General by a complainant.
 
-(Added Pub. L. 108–405, title I, § 102(a), Oct. 30, 2004, 118 Stat. 2261; amended Pub. L. 109–248, title II, § 212, July 27, 2006, 120 Stat. 616; Pub. L. 111–16, § 3(12), May 7, 2009, 123 Stat. 1608; Pub. L. 114–22, title I, § 113(a), (c)(1), May 29, 2015, 129 Stat. 240, 241.)
+(Added Pub. L. 108–405, title I, § 102(a), Oct. 30, 2004, 118 Stat. 2261; amended Pub. L. 109–248, title II, § 212, July 27, 2006, 120 Stat. 616; Pub. L. 111–16, § 3(12), May 7, 2009, 123 Stat. 1608; Pub. L. 114–22, title I, § 113(a), (c)(1), May 29, 2015, 129 Stat. 240, 241.)
 
 **Editorial Notes**
 
@@ -145,17 +145,17 @@ The date of enactment of this chapter, referred to in subsec. (f)(1), is the dat
 
 **Prior Provisions**
 
-A prior section 3771, acts June 25, 1948, ch. 645, 62 Stat. 846; May 24, 1949, ch. 139, § 59, 63 Stat. 98; May 10, 1950, ch. 174, § 1, 64 Stat. 158; July 7, 1958, Pub. L. 85–508, § 12(k), 72 Stat. 348; Mar. 18, 1959, Pub. L. 86–3, § 14(g), 73 Stat. 11; Oct. 17, 1968, Pub. L. 90–578, title III, § 301(a)(2), 82 Stat. 1115, related to procedure to and including verdict, prior to repeal by Pub. L. 100–702, title IV, §§ 404(a), 407, Nov. 19, 1988, 102 Stat. 4651, 4652, effective Dec. 1, 1988.
+A prior section 3771, acts June 25, 1948, ch. 645, 62 Stat. 846; May 24, 1949, ch. 139, § 59, 63 Stat. 98; May 10, 1950, ch. 174, § 1, 64 Stat. 158; July 7, 1958, Pub. L. 85–508, § 12(k), 72 Stat. 348; Mar. 18, 1959, Pub. L. 86–3, § 14(g), 73 Stat. 11; Oct. 17, 1968, Pub. L. 90–578, title III, § 301(a)(2), 82 Stat. 1115, related to procedure to and including verdict, prior to repeal by Pub. L. 100–702, title IV, §§ 404(a), 407, Nov. 19, 1988, 102 Stat. 4651, 4652, effective Dec. 1, 1988.
 
 **Amendments**
 
-2015—Subsec. (a)(9), (10). Pub. L. 114–22, § 113(a)(1), added pars. (9) and (10).
+2015—Subsec. (a)(9), (10). Pub. L. 114–22, § 113(a)(1), added pars. (9) and (10).
 
-Subsec. (d)(3). Pub. L. 114–22, § 113(c)(1), inserted “In deciding such application, the court of appeals shall apply ordinary standards of appellate review.” before “In no event shall”.
+Subsec. (d)(3). Pub. L. 114–22, § 113(c)(1), inserted “In deciding such application, the court of appeals shall apply ordinary standards of appellate review.” before “In no event shall”.
 
-Pub. L. 114–22, § 113(a)(2), inserted “, unless the litigants, with the approval of the court, have stipulated to a different time period for consideration” after “after the petition has been filed”.
+Pub. L. 114–22, § 113(a)(2), inserted “, unless the litigants, with the approval of the court, have stipulated to a different time period for consideration” after “after the petition has been filed”.
 
-Subsec. (e). Pub. L. 114–22, § 113(a)(3), substituted “For the purposes of this chapter:” for “For the purposes of this chapter, the term”, designated remainder of existing provisions as par. (2) and inserted par. heading, in par. (2), inserted subpar. (A) designation, heading, and “The term” before “ ‘crime victim’ means” and inserted subpar. (B) designation and heading before “In the case”, and added pars. (1) and (3).
+Subsec. (e). Pub. L. 114–22, § 113(a)(3), substituted “For the purposes of this chapter:” for “For the purposes of this chapter, the term”, designated remainder of existing provisions as par. (2) and inserted par. heading, in par. (2), inserted subpar. (A) designation, heading, and “The term” before “ ‘crime victim’ means” and inserted subpar. (B) designation and heading before “In the case”, and added pars. (1) and (3).
 
 2009—Subsec. (d)(5)(B). Pub. L. 111–16 substituted “14 days” for “10 days”.
 
@@ -165,7 +165,7 @@ Subsec. (e). Pub. L. 114–22, § 113(a)(3), substituted “For the purposes o
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–22, title I, § 113(c)(2), May 29, 2015, 129 Stat. 241, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to any petition for a writ of mandamus filed under section 3771(d)(3) of title 18, United States Code, that is pending on the date of enactment of this Act [May 29, 2015].”
+Pub. L. 114–22, title I, § 113(c)(2), May 29, 2015, 129 Stat. 241, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to any petition for a writ of mandamus filed under section 3771(d)(3) of title 18, United States Code, that is pending on the date of enactment of this Act [May 29, 2015].”
 
 **Effective Date of 2009 Amendment**
 
@@ -173,13 +173,13 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–405, title I, § 101, Oct. 30, 2004, 118 Stat. 2261, provided that: “This title [enacting this chapter and sections 10603d and 10603e of Title 42, The Public Health and Welfare, repealing section 10606 of Title 42, and enacting provisions set out as a note under this section] may be cited as the ‘Scott Campbell, Stephanie Roper, Wendy Preston, Louarna Gillis, and Nila Lynn Crime Victims’ Rights Act’.”
+Pub. L. 108–405, title I, § 101, Oct. 30, 2004, 118 Stat. 2261, provided that: “This title [enacting this chapter and sections 10603d and 10603e of Title 42, The Public Health and Welfare, repealing section 10606 of Title 42, and enacting provisions set out as a note under this section] may be cited as the ‘Scott Campbell, Stephanie Roper, Wendy Preston, Louarna Gillis, and Nila Lynn Crime Victims’ Rights Act’.”
 
 **Reports on Assertion of Crime Victims’ Rights in Criminal Cases**
 
-Pub. L. 108–405, title I, § 104(a), Oct. 30, 2004, 118 Stat. 2265, provided that: “Not later than 1 year after the date of enactment of this Act [Oct. 30, 2004] and annually thereafter, the Administrative Office of the United States Courts, for each Federal court, shall report to Congress the number of times that a right established in chapter 237 of title 18, United States Code, is asserted in a criminal case and the relief requested is denied and, with respect to each such denial, the reason for such denial, as well as the number of times a mandamus action is brought pursuant to chapter 237 of title 18, and the result reached.”
+Pub. L. 108–405, title I, § 104(a), Oct. 30, 2004, 118 Stat. 2265, provided that: “Not later than 1 year after the date of enactment of this Act [Oct. 30, 2004] and annually thereafter, the Administrative Office of the United States Courts, for each Federal court, shall report to Congress the number of times that a right established in chapter 237 of title 18, United States Code, is asserted in a criminal case and the relief requested is denied and, with respect to each such denial, the reason for such denial, as well as the number of times a mandamus action is brought pursuant to chapter 237 of title 18, and the result reached.”
 
-## § 3771A. Motion to vacate; expungement; mitigating factors
+## § 3771A. Motion to vacate; expungement; mitigating factors
 
 **(a) Definitions.—** In this section—
 
@@ -379,7 +379,7 @@ Pub. L. 108–405, title I, § 104(a), Oct. 30, 2004, 118 Stat. 2265, provided
 
 **(i) Applicability.—** This section shall apply to any conviction or arrest occurring before, on, or after the date of enactment of this section.
 
-(Added Pub. L. 119–73, § 2(a), Jan. 23, 2026, 139 Stat. 2003.)
+(Added Pub. L. 119–73, § 2(a), Jan. 23, 2026, 139 Stat. 2003.)
 
 **Editorial Notes**
 

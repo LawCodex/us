@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 97—INTERNATIONAL CHILD ABDUCTION REMEDIES
 
-## § 9001. Findings and declarations
+## § 9001. Findings and declarations
 
 **(a) Findings** The Congress makes the following findings:
 
@@ -41,7 +41,7 @@ retrieved: 2026-10-11
 
 **(4)** The Convention and this chapter empower courts in the United States to determine only rights under the Convention and not the merits of any underlying child custody claims.
 
-(Pub. L. 100–300, § 2, Apr. 29, 1988, 102 Stat. 437.)
+(Pub. L. 100–300, § 2, Apr. 29, 1988, 102 Stat. 437.)
 
 **Editorial Notes**
 
@@ -57,13 +57,13 @@ Section was formerly classified to section 11601 of Title 42, The Public Health 
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–370, § 1, Oct. 25, 2004, 118 Stat. 1750, provided that: “This Act [amending section 9006 of this title] may be cited as the ‘Prevention of Child Abduction Partnership Act’.”
+Pub. L. 108–370, § 1, Oct. 25, 2004, 118 Stat. 1750, provided that: “This Act [amending section 9006 of this title] may be cited as the ‘Prevention of Child Abduction Partnership Act’.”
 
 **Short Title**
 
-Pub. L. 100–300, § 1, Apr. 29, 1988, 102 Stat. 437, provided that: “This Act [enacting this chapter and amending section 663 of Title 42, The Public Health and Welfare] may be cited as the ‘International Child Abduction Remedies Act’.”
+Pub. L. 100–300, § 1, Apr. 29, 1988, 102 Stat. 437, provided that: “This Act [enacting this chapter and amending section 663 of Title 42, The Public Health and Welfare] may be cited as the ‘International Child Abduction Remedies Act’.”
 
-## § 9002. Definitions
+## § 9002. Definitions
 
 For the purposes of this chapter—
 
@@ -85,7 +85,7 @@ For the purposes of this chapter—
 
 **(9)** the term “United States Central Authority” means the agency of the Federal Government designated by the President under section 9006(a) of this title.
 
-(Pub. L. 100–300, § 3, Apr. 29, 1988, 102 Stat. 437.)
+(Pub. L. 100–300, § 3, Apr. 29, 1988, 102 Stat. 437.)
 
 **Editorial Notes**
 
@@ -97,7 +97,7 @@ This chapter, referred to in text, was in the original “this Act” meaning Pu
 
 Section was formerly classified to section 11602 of Title 42, The Public Health and Welfare.
 
-## § 9003. Judicial remedies
+## § 9003. Judicial remedies
 
 **(a) Jurisdiction of courts**
 
@@ -145,7 +145,7 @@ Full faith and credit shall be accorded by the courts of the States and the cour
 
 The remedies established by the Convention and this chapter shall be in addition to remedies available under other laws or international agreements.
 
-(Pub. L. 100–300, § 4, Apr. 29, 1988, 102 Stat. 438.)
+(Pub. L. 100–300, § 4, Apr. 29, 1988, 102 Stat. 438.)
 
 **Editorial Notes**
 
@@ -157,7 +157,7 @@ This chapter, referred to in subsecs. (f) to (h), was in the original “this Ac
 
 Section was formerly classified to section 11603 of Title 42, The Public Health and Welfare.
 
-## § 9004. Provisional remedies
+## § 9004. Provisional remedies
 
 **(a) Authority of courts**
 
@@ -167,7 +167,7 @@ In furtherance of the objectives of article 7(b) and other provisions of the Con
 
 No court exercising jurisdiction of an action brought under section 9003(b) of this title may, under subsection (a) of this section, order a child removed from a person having physical control of the child unless the applicable requirements of State law are satisfied.
 
-(Pub. L. 100–300, § 5, Apr. 29, 1988, 102 Stat. 439.)
+(Pub. L. 100–300, § 5, Apr. 29, 1988, 102 Stat. 439.)
 
 **Editorial Notes**
 
@@ -175,11 +175,11 @@ No court exercising jurisdiction of an action brought under section 9003(b) of t
 
 Section was formerly classified to section 11604 of Title 42, The Public Health and Welfare.
 
-## § 9005. Admissibility of documents
+## § 9005. Admissibility of documents
 
 With respect to any application to the United States Central Authority, or any petition to a court under section 9003 of this title, which seeks relief under the Convention, or any other documents or information included with such application or petition or provided after such submission which relates to the application or petition, as the case may be, no authentication of such application, petition, document, or information shall be required in order for the application, petition, document, or information to be admissible in court.
 
-(Pub. L. 100–300, § 6, Apr. 29, 1988, 102 Stat. 439.)
+(Pub. L. 100–300, § 6, Apr. 29, 1988, 102 Stat. 439.)
 
 **Editorial Notes**
 
@@ -187,7 +187,7 @@ With respect to any application to the United States Central Authority, or any p
 
 Section was formerly classified to section 11605 of Title 42, The Public Health and Welfare.
 
-## § 9006. United States Central Authority
+## § 9006. United States Central Authority
 
 **(a) Designation**
 
@@ -223,7 +223,7 @@ The limitation on liability under paragraph (1) shall not apply in any action in
 
 The limitation on liability under paragraph (1) shall not apply to any alleged act or omission related to an ordinary business activity, such as an activity involving general administration or operations, the use of motor vehicles, or personnel management.
 
-(Pub. L. 100–300, § 7, Apr. 29, 1988, 102 Stat. 439; Pub. L. 105–277, div. G, title XXII, § 2213, Oct. 21, 1998, 112 Stat. 2681–812; Pub. L. 108–370, § 2, Oct. 25, 2004, 118 Stat. 1750.)
+(Pub. L. 100–300, § 7, Apr. 29, 1988, 102 Stat. 439; Pub. L. 105–277, div. G, title XXII, § 2213, Oct. 21, 1998, 112 Stat. 2681–812; Pub. L. 108–370, § 2, Oct. 25, 2004, 118 Stat. 1750.)
 
 **Editorial Notes**
 
@@ -231,7 +231,7 @@ The limitation on liability under paragraph (1) shall not apply to any alleged a
 
 This chapter, referred to in subsecs. (b), (c), (e), and (f), was in the original “this Act” meaning Pub. L. 100–300, Apr. 29, 1988, 102 Stat. 437, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Codification**
 
@@ -259,7 +259,7 @@ Section 1. *Designation of Central Authority*. The Department of State is hereby
 
 Ronald Reagan.
 
-## § 9007. Costs and fees
+## § 9007. Costs and fees
 
 **(a) Administrative costs**
 
@@ -273,7 +273,7 @@ No department, agency, or instrumentality of the Federal Government or of any St
 
 **(3)** Any court ordering the return of a child pursuant to an action brought under section 9003 of this title shall order the respondent to pay necessary expenses incurred by or on behalf of the petitioner, including court costs, legal fees, foster home or other care during the course of proceedings in the action, and transportation costs related to the return of the child, unless the respondent establishes that such order would be clearly inappropriate.
 
-(Pub. L. 100–300, § 8, Apr. 29, 1988, 102 Stat. 440.)
+(Pub. L. 100–300, § 8, Apr. 29, 1988, 102 Stat. 440.)
 
 **Editorial Notes**
 
@@ -281,7 +281,7 @@ No department, agency, or instrumentality of the Federal Government or of any St
 
 Section was formerly classified to section 11607 of Title 42, The Public Health and Welfare.
 
-## § 9008. Collection, maintenance, and dissemination of information
+## § 9008. Collection, maintenance, and dissemination of information
 
 **(a) In general** In performing its functions under the Convention, the United States Central Authority may, under such conditions as the Central Authority prescribes by regulation, but subject to subsection (c), receive from or transmit to any department, agency, or instrumentality of the Federal Government or of any State or foreign government, and receive from or transmit to any applicant, petitioner, or respondent, information necessary to locate a child or for the purpose of otherwise implementing the Convention with respect to a child, except that the United States Central Authority—
 
@@ -309,7 +309,7 @@ To the extent that information which the United States Central Authority is auth
 
 The United States Central Authority shall maintain appropriate records concerning its activities and the disposition of cases brought to its attention.
 
-(Pub. L. 100–300, § 9, Apr. 29, 1988, 102 Stat. 440.)
+(Pub. L. 100–300, § 9, Apr. 29, 1988, 102 Stat. 440.)
 
 **Editorial Notes**
 
@@ -321,7 +321,7 @@ This chapter, referred to in subsec. (a)(2), was in the original “this Act” 
 
 Section was formerly classified to section 11608 of Title 42, The Public Health and Welfare.
 
-## § 9009. Office of Children’s Issues
+## § 9009. Office of Children’s Issues
 
 **(a) Director requirements**
 
@@ -347,7 +347,7 @@ Except as provided in paragraph (2), beginning 6 months after November 29, 1999,
 
 **(B)** the parent seeking assistance requests that such reports not be provided.
 
-(Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 201], Nov. 29, 1999, 113 Stat. 1536, 1501A–419).
+(Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 201], Nov. 29, 1999, 113 Stat. 1536, 1501A–419).
 
 **Editorial Notes**
 
@@ -357,11 +357,11 @@ Section was enacted as part of the Admiral James W. Nance and Meg Donovan Foreig
 
 Section was formerly classified to section 11608a of Title 42, The Public Health and Welfare.
 
-## § 9010. Interagency coordinating group
+## § 9010. Interagency coordinating group
 
 The Secretary of State, the Secretary of Health and Human Services, and the Attorney General shall designate Federal employees and may, from time to time, designate private citizens to serve on an interagency coordinating group to monitor the operation of the Convention and to provide advice on its implementation to the United States Central Authority and other Federal agencies. This group shall meet from time to time at the request of the United States Central Authority. The agency in which the United States Central Authority is located is authorized to reimburse such private citizens for travel and other expenses incurred in participating at meetings of the interagency coordinating group at rates not to exceed those authorized under subchapter I of chapter 57 of title 5 for employees of agencies.
 
-(Pub. L. 100–300, § 10, Apr. 29, 1988, 102 Stat. 441.)
+(Pub. L. 100–300, § 10, Apr. 29, 1988, 102 Stat. 441.)
 
 **Editorial Notes**
 
@@ -369,11 +369,11 @@ The Secretary of State, the Secretary of Health and Human Services, and the Atto
 
 Section was formerly classified to section 11609 of Title 42, The Public Health and Welfare.
 
-## § 9011. Authorization of appropriations
+## § 9011. Authorization of appropriations
 
 There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out the purposes of the Convention and this chapter.
 
-(Pub. L. 100–300, § 12, Apr. 29, 1988, 102 Stat. 442.)
+(Pub. L. 100–300, § 12, Apr. 29, 1988, 102 Stat. 442.)
 
 **Editorial Notes**
 

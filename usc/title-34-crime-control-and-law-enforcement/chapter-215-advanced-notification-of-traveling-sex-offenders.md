@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 215—ADVANCED NOTIFICATION OF TRAVELING SEX OFFENDERS
 
-## § 21501. Findings
+## § 21501. Findings
 
 Congress finds the following:
 
@@ -27,15 +27,15 @@ Congress finds the following:
 
 **(4)** Law enforcement reports indicate that known child-sex offenders are traveling internationally.
 
-**(5)** The commercial sexual exploitation of minors in child sex trafficking and pornography is a global phenomenon. The International Labour Organization has estimated that 1,8000,000 1
+**(5)** The commercial sexual exploitation of minors in child sex trafficking and pornography is a global phenomenon. The International Labour Organization has estimated that 1,8000,000 1
 
-<sup>1</sup>  So in original. Probably should be “18,000,000”.
+<sup>1</sup> So in original. Probably should be “18,000,000”.
 
 children worldwide are victims of child sex trafficking and pornography each year.
 
 **(6)** Child sex tourism, where an individual travels to a foreign country and engages in sexual activity with a child in that country, is a form of child exploitation and, where commercial, child sex trafficking.
 
-(Pub. L. 114–119, § 2, Feb. 8, 2016, 130 Stat. 15.)
+(Pub. L. 114–119, § 2, Feb. 8, 2016, 130 Stat. 15.)
 
 **Editorial Notes**
 
@@ -43,13 +43,13 @@ children worldwide are victims of child sex trafficking and pornography each yea
 
 Megan’s Law, referred to in par. (2), is Pub. L. 104–145, May 17, 1996, 110 Stat. 1345, which amended former section 14071 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 13701 of Title 42 and Tables.
 
-The Adam Walsh Child Protection and Safety Act of 2006, referred to in par. (3), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587, which enacted chapter 209 (§ 20901 et seq.) of this title and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
+The Adam Walsh Child Protection and Safety Act of 2006, referred to in par. (3), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587, which enacted chapter 209 (§ 20901 et seq.) of this title and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
 
 **Codification**
 
 Section was formerly classified to section 16935 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 21502. Definitions
+## § 21502. Definitions
 
 In this chapter:
 
@@ -61,7 +61,7 @@ The term “Center” means the Angel Watch Center established pursuant to secti
 
 The term “convicted” has the meaning given the term in section 111 of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16911).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(3) Covered sex offender**
 
@@ -113,13 +113,13 @@ The term “sex offense against a minor” means a specified offense against a m
 
 **(B) Other offenses**
 
-The term “sex offense against a minor” includes a sex offense described in section 111(5)(A) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16911(5)(A)) <sup>1</sup> that is a specified offense against a minor, as defined in paragraph (7) of such section, or an attempt or conspiracy to commit such an offense.
+The term “sex offense against a minor” includes a sex offense described in section 111(5)(A) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16911(5)(A)) <sup>1</sup> that is a specified offense against a minor, as defined in paragraph (7) of such section, or an attempt or conspiracy to commit such an offense.
 
 **(C) Foreign convictions; offenses involving consensual sexual conduct**
 
-The limitations contained in subparagraphs (B) and (C) of section 111(5) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16911(5)) <sup>1</sup> shall apply with respect to a sex offense against a minor for purposes of this chapter to the same extent and in the same manner as such limitations apply with respect to a sex offense for purposes of the Adam Walsh Child Protection and Safety Act of 2006 [34 U.S.C. 20901 et seq.].
+The limitations contained in subparagraphs (B) and (C) of section 111(5) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16911(5)) <sup>1</sup> shall apply with respect to a sex offense against a minor for purposes of this chapter to the same extent and in the same manner as such limitations apply with respect to a sex offense for purposes of the Adam Walsh Child Protection and Safety Act of 2006 [34 U.S.C. 20901 et seq.].
 
-(Pub. L. 114–119, § 3, Feb. 8, 2016, 130 Stat. 16.)
+(Pub. L. 114–119, § 3, Feb. 8, 2016, 130 Stat. 16.)
 
 **Editorial Notes**
 
@@ -127,13 +127,13 @@ The limitations contained in subparagraphs (B) and (C) of section 111(5) of the 
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–119, Feb. 8, 2016, 130 Stat. 15, known as the International Megan’s Law to Prevent Child Exploitation and Other Sexual Crimes Through Advanced Notification of Traveling Sex Offenders, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 2016 Act note set out under section 10101 of this title and Tables.
 
-The Adam Walsh Child Protection and Safety Act of 2006, referred to in par. (10)(C), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587, which enacted chapter 209 (§ 20901 et seq.) of this title and enacted, amended, and repealed numerous other sections and notes in the Code. Sections 111, 119, and 127 of the Act were classified to sections 16911, 16919, and 16927, respectively, of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as sections 20911, 20921, and 20929, respectively, of this title. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
+The Adam Walsh Child Protection and Safety Act of 2006, referred to in par. (10)(C), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587, which enacted chapter 209 (§ 20901 et seq.) of this title and enacted, amended, and repealed numerous other sections and notes in the Code. Sections 111, 119, and 127 of the Act were classified to sections 16911, 16919, and 16927, respectively, of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as sections 20911, 20921, and 20929, respectively, of this title. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
 
 **Codification**
 
 Section was formerly classified to section 16935a of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 21503. Angel Watch Center
+## § 21503. Angel Watch Center
 
 **(a) Establishment**
 
@@ -179,7 +179,7 @@ The Center shall be headed by the Assistant Secretary of U.S. Immigration and Cu
 
 **(C)** provide a list of individuals identified under subparagraph (B) to the United States Marshals Service’s National Sex Offender Targeting Center to determine compliance with title I of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2) Provision of information to Center**
 
@@ -281,13 +281,13 @@ The Center shall make available to the United States Marshals Service’s Nation
 
 **(2)** an individual required to register under the sex offender registration program of any jurisdiction or included in the National Sex Offender Registry, on the basis of an offense against a minor.
 
-(Pub. L. 114–119, § 4, Feb. 8, 2016, 130 Stat. 17.)
+(Pub. L. 114–119, § 4, Feb. 8, 2016, 130 Stat. 17.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsec. (e)(1)(C), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587. Title I of the Act, known as the Sex Offender Registration and Notification Act, was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as subchapter I (§ 20901 et seq.) of chapter 209 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
+The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsec. (e)(1)(C), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587. Title I of the Act, known as the Sex Offender Registration and Notification Act, was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as subchapter I (§ 20901 et seq.) of chapter 209 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
 
 This chapter, referred to in subsec. (e)(8), was in the original “this Act”, meaning Pub. L. 114–119, Feb. 8, 2016, 130 Stat. 15, known as the International Megan’s Law to Prevent Child Exploitation and Other Sexual Crimes Through Advanced Notification of Traveling Sex Offenders, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 2016 Act note set out under section 10101 of this title and Tables.
 
@@ -295,7 +295,7 @@ This chapter, referred to in subsec. (e)(8), was in the original “this Act”,
 
 Section was formerly classified to section 16935b of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 21504. Notification by the United States Marshals Service
+## § 21504. Notification by the United States Marshals Service
 
 **(a) In general** The United States Marshals Service’s National Sex Offender Targeting Center may—
 
@@ -315,9 +315,9 @@ In making notifications under subsection (a)(1), the United States Marshals Serv
 
 **(1)** make the case management system or other system that provides access to a list of individuals who have provided advanced notice of international travel available to the Angel Watch Center;
 
-**(2)** provide the Angel Watch Center a determination of compliance with title I of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.) 1
+**(2)** provide the Angel Watch Center a determination of compliance with title I of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 for the list of individuals transmitted under section 21503(e)(1)(C) of this title;
 
@@ -385,7 +385,7 @@ The United States Marshals Service’s National Sex Offender Targeting Center sh
 
 **(2)** a person required to register under the sex offender registration program of any jurisdiction or included in the National Sex Offender Registry.
 
-(Pub. L. 114–119, § 5, Feb. 8, 2016, 130 Stat. 20.)
+(Pub. L. 114–119, § 5, Feb. 8, 2016, 130 Stat. 20.)
 
 **Editorial Notes**
 
@@ -393,17 +393,17 @@ The United States Marshals Service’s National Sex Offender Targeting Center sh
 
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 114–119, Feb. 8, 2016, 130 Stat. 15, known as the International Megan’s Law to Prevent Child Exploitation and Other Sexual Crimes Through Advanced Notification of Traveling Sex Offenders, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 2016 Act note set out under section 10101 of this title and Tables.
 
-The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsec. (c)(2), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587. Title I of the Act, known as the Sex Offender Registration and Notification Act, was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as subchapter I (§ 20901 et seq.) of chapter 209 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
+The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsec. (c)(2), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587. Title I of the Act, known as the Sex Offender Registration and Notification Act, was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as subchapter I (§ 20901 et seq.) of chapter 209 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
 
 **Codification**
 
 Section was formerly classified to section 16935c of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 21505. Implementation
+## § 21505. Implementation
 
 In carrying out this chapter, and the amendments made by this chapter, the Attorney General may use the resources and capacities of any appropriate agencies of the Department of Justice, including the Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking, the United States Marshals Service, INTERPOL Washington-U.S. National Central Bureau, the Federal Bureau of Investigation, the Criminal Division, and the United States Attorneys’ Offices.
 
-(Pub. L. 114–119, § 6(c), Feb. 8, 2016, 130 Stat. 23.)
+(Pub. L. 114–119, § 6(c), Feb. 8, 2016, 130 Stat. 23.)
 
 **Editorial Notes**
 
@@ -417,15 +417,15 @@ Section was formerly classified to section 16935d of Title 42, The Public Health
 
 The amendments made by this chapter, referred to in text, mean the amendments made by Pub. L. 114–119. See Short Title of 2016 Act note set out under section 10101 of this title and Tables.
 
-## § 21506. Reciprocal notifications
+## § 21506. Reciprocal notifications
 
 It is the sense of Congress that the Secretary of State, in consultation with the Attorney General and the Secretary of Homeland Security, should seek reciprocal international agreements or arrangements to further the purposes of this chapter and the Sex Offender Registration and Notification Act (42 U.S.C. 16901 et seq.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 Such agreements or arrangements may establish mechanisms and undertakings to receive and transmit notices concerning international travel by sex offenders, through the Angel Watch Center, the INTERPOL notification system, and such other means as may be appropriate, including notification by the United States to other countries relating to the travel of sex offenders from the United States, reciprocal notification by other countries to the United States relating to the travel of sex offenders to the United States, and mechanisms to correct and, as applicable, remove from any other records, any inaccurate information transmitted through such notifications.
 
-(Pub. L. 114–119, § 7, Feb. 8, 2016, 130 Stat. 23.)
+(Pub. L. 114–119, § 7, Feb. 8, 2016, 130 Stat. 23.)
 
 **Editorial Notes**
 
@@ -433,13 +433,13 @@ Such agreements or arrangements may establish mechanisms and undertakings to rec
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–119, Feb. 8, 2016, 130 Stat. 15, known as the International Megan’s Law to Prevent Child Exploitation and Other Sexual Crimes Through Advanced Notification of Traveling Sex Offenders, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 2016 Act note set out under section 10101 of this title and Tables.
 
-The Sex Offender Registration and Notification Act, referred to in text, is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as subchapter I (§ 20901 et seq.) of chapter 209 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
+The Sex Offender Registration and Notification Act, referred to in text, is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as subchapter I (§ 20901 et seq.) of chapter 209 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
 
 **Codification**
 
 Section was formerly classified to section 16935e of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 21507. Implementation plan
+## § 21507. Implementation plan
 
 **(a) In general**
 
@@ -467,7 +467,7 @@ Not later than 90 days after February 8, 2016, the Secretary of Homeland Securit
 
 **(8)** the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 114–119, § 9, Feb. 8, 2016, 130 Stat. 25.)
+(Pub. L. 114–119, § 9, Feb. 8, 2016, 130 Stat. 25.)
 
 **Editorial Notes**
 
@@ -475,11 +475,11 @@ Not later than 90 days after February 8, 2016, the Secretary of Homeland Securit
 
 Section was formerly classified to section 16935f of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 21508. Technical assistance
+## § 21508. Technical assistance
 
 The Secretary of State, in consultation with the Attorney General and the Secretary of Homeland Security, may provide technical assistance to foreign authorities in order to enable such authorities to participate more effectively in the notification program system established under this chapter.
 
-(Pub. L. 114–119, § 10, Feb. 8, 2016, 130 Stat. 25.)
+(Pub. L. 114–119, § 10, Feb. 8, 2016, 130 Stat. 25.)
 
 **Editorial Notes**
 
@@ -491,11 +491,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section was formerly classified to section 16935g of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 21509. Authorization of appropriations
+## § 21509. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this chapter $6,000,000 for each of fiscal years 2018 through 2021.
 
-(Pub. L. 114–119, § 11, Feb. 8, 2016, 130 Stat. 25; Pub. L. 115–425, title III, § 302, Jan. 8, 2019, 132 Stat. 5488.)
+(Pub. L. 114–119, § 11, Feb. 8, 2016, 130 Stat. 25; Pub. L. 115–425, title III, § 302, Jan. 8, 2019, 132 Stat. 5488.)
 
 **Editorial Notes**
 
@@ -511,11 +511,11 @@ Section was formerly classified to section 16935h of Title 42, The Public Health
 
 2019—Pub. L. 115–425 substituted “2018 through 2021” for “2017 and 2018”.
 
-## § 21510. Rule of construction
+## § 21510. Rule of construction
 
 Nothing in this chapter shall be construed to limit international information sharing or law enforcement cooperation relating to any person pursuant to any authority of the Department of Justice, the Department of Homeland Security, or any other department or agency.
 
-(Pub. L. 114–119, § 12, Feb. 8, 2016, 130 Stat. 25.)
+(Pub. L. 114–119, § 12, Feb. 8, 2016, 130 Stat. 25.)
 
 **Editorial Notes**
 

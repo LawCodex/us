@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 215—AMERICAN HOSPITAL OF PARIS"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 215—AMERICAN HOSPITAL OF PARIS"
 identifier: "/us/usc/t36/stII/ptB/ch215"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 215—AMERICAN HOSPITAL OF PARIS
 
-## § 21501. Organization
+## § 21501. Organization
 
 **(a) Federal Charter.—** American Hospital of Paris (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -29,12 +29,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21501 | 36:4901. | Jan. 30, 1913, ch. 21, § 1, 37 Stat. 654. |
-|  | 36:4909. | Jan. 30, 1913, ch. 21, § 9, 37 Stat. 655; Sept. 19, 1962, Pub. L. 87–673, 76 Stat. 557; Oct. 1, 1965, Pub. L. 89–231, § 2, 79 Stat. 901. |
+| 21501 | 36:4901. | Jan. 30, 1913, ch. 21, § 1, 37 Stat. 654. |
+|  | 36:4909. | Jan. 30, 1913, ch. 21, § 9, 37 Stat. 655; Sept. 19, 1962, Pub. L. 87–673, 76 Stat. 557; Oct. 1, 1965, Pub. L. 89–231, § 2, 79 Stat. 901. |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
-## § 21502. Purpose
+## § 21502. Purpose
 
 The purpose of the corporation is to maintain a hospital in the vicinity of Paris, France, to provide medical and surgical care to citizens of the United States.
 
@@ -44,11 +44,11 @@ The purpose of the corporation is to maintain a hospital in the vicinity of Pari
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21502 | 36:4903 (words before 8th comma less “gratuitously or otherwise”). | Jan. 30, 1913, ch. 21, § 3 (words before 8th comma less “gratuitously or otherwise”), 37 Stat. 654. |
+| 21502 | 36:4903 (words before 8th comma less “gratuitously or otherwise”). | Jan. 30, 1913, ch. 21, § 3 (words before 8th comma less “gratuitously or otherwise”), 37 Stat. 654. |
 
 The word “maintain” is substituted for “establish, maintain, and conduct” to eliminate executed and unnecessary words. The word “aid” is omitted as included in “care”.
 
-## § 21503. Governing body
+## § 21503. Governing body
 
 **(a) General.—**
 
@@ -86,8 +86,8 @@ The word “maintain” is substituted for “establish, maintain, and conduct�
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21503(a) | 36:4904 (1st sentence). | Jan. 30, 1913, ch. 21, §§ 4 (1st sentence), 6, 37 Stat. 655; Apr. 12, 1974, Pub. L. 93–266, 88 Stat. 85. |
-|  | 36:4905. | Jan. 30, 1913, ch. 21, §§ 5, 7, 8, 37 Stat. 655. |
+| 21503(a) | 36:4904 (1st sentence). | Jan. 30, 1913, ch. 21, §§ 4 (1st sentence), 6, 37 Stat. 655; Apr. 12, 1974, Pub. L. 93–266, 88 Stat. 85. |
+|  | 36:4905. | Jan. 30, 1913, ch. 21, §§ 5, 7, 8, 37 Stat. 655. |
 |  | 36:4906. |  |
 | 21503(b) | 36:4908. |  |
 | 21503(c) | 36:4907. |  |
@@ -100,7 +100,7 @@ In subsection (c)(2), the words “and manage” and “and concerns” are omit
 
 In subsection (c)(3), the words “occasioned by death, resignation, or otherwise” are omitted as unnecessary.
 
-## § 21504. Acquisition and management of property
+## § 21504. Acquisition and management of property
 
 The corporation may acquire, own, lease, encumber, and transfer property, in the United States and France, to carry out the purposes of the corporation.
 
@@ -110,11 +110,11 @@ The corporation may acquire, own, lease, encumber, and transfer property, in the
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21504 | 36:4902. | Jan. 30, 1913, ch. 21, § 2, 37 Stat. 654; June 14, 1929, ch. 23, 46 Stat. 11; Oct. 1, 1965, Pub. L. 89–231, § 1, 79 Stat. 901. |
+| 21504 | 36:4902. | Jan. 30, 1913, ch. 21, § 2, 37 Stat. 654; June 14, 1929, ch. 23, 46 Stat. 11; Oct. 1, 1965, Pub. L. 89–231, § 1, 79 Stat. 901. |
 
 The words “may acquire, own, lease, encumber, and transfer” are substituted for “is authorized to take by purchase, gift, grant, devise, and bequest, and to hold, mortgage, lease, transfer, and convey” for consistency in the revised title and to eliminate unnecessary words. The words “real and personal” are omitted as unnecessary. The words “to carry out the purpose of the corporation” are substituted for “for the purposes of the said corporation” and “as may be deemed necessary for the wants or development of the corporation or any of them” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 21505. Charges for medical services
+## § 21505. Charges for medical services
 
 The corporation may charge a reasonable compensation for providing medical and surgical services or may provide those services without charge. Amounts received under this section shall be used to carry out the purposes of the corporation.
 
@@ -124,11 +124,11 @@ The corporation may charge a reasonable compensation for providing medical and s
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21505 | 36:4903 (“gratuitously or otherwise” and words after 8th comma). | Jan. 30, 1913, ch. 21, § 3 (“gratuitously or otherwise” and words after 8th comma), 37 Stat. 654. |
+| 21505 | 36:4903 (“gratuitously or otherwise” and words after 8th comma). | Jan. 30, 1913, ch. 21, § 3 (“gratuitously or otherwise” and words after 8th comma), 37 Stat. 654. |
 
 The words “may charge” are substituted for “it shall be lawful for the said corporation to demand and receive” to eliminate unnecessary words. The words “medical and surgical services” are substituted for “such care, sustenance, professional treatment, and other services” to eliminate unnecessary words. The words “to carry out the purposes of the corporation” are substituted for “be applied to the uses and benefits of the said corporation” for consistency.
 
-## § 21506. Principal office
+## § 21506. Principal office
 
 The principal office of the corporation shall be in the District of Columbia. However, offices may be maintained and meetings of the board of governors and committees may be held elsewhere.
 
@@ -138,9 +138,9 @@ The principal office of the corporation shall be in the District of Columbia. Ho
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21506 | 36:4904 (last sentence). | Jan. 30, 1913, ch. 21, § 4 (last sentence), 37 Stat. 655. |
+| 21506 | 36:4904 (last sentence). | Jan. 30, 1913, ch. 21, § 4 (last sentence), 37 Stat. 655. |
 
-## § 21507. Nonapplication of audit requirements
+## § 21507. Nonapplication of audit requirements
 
 The audit requirements of section 10101 of this title do not apply to the corporation.
 

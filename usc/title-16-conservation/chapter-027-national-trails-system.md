@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 27—NATIONAL TRAILS SYSTEM
 
-## § 1241. Congressional statement of policy and declaration of purpose
+## § 1241. Congressional statement of policy and declaration of purpose
 
 **(a) Considerations for determining establishment of trails**
 
@@ -29,89 +29,89 @@ The purpose of this chapter is to provide the means for attaining these objectiv
 
 The Congress recognizes the valuable contributions that volunteers and private, nonprofit trail groups have made to the development and maintenance of the Nation’s trails. In recognition of these contributions, it is further the purpose of this chapter to encourage and assist volunteer citizen involvement in the planning, development, maintenance, and management, where appropriate, of trails.
 
-(Pub. L. 90–543, § 2, Oct. 2, 1968, 82 Stat. 919; Pub. L. 95–625, title V, § 551(1)–(3), Nov. 10, 1978, 92 Stat. 3511; Pub. L. 98–11, title II, § 202, Mar. 28, 1983, 97 Stat. 42.)
+(Pub. L. 90–543, § 2, Oct. 2, 1968, 82 Stat. 919; Pub. L. 95–625, title V, § 551(1)–(3), Nov. 10, 1978, 92 Stat. 3511; Pub. L. 98–11, title II, § 202, Mar. 28, 1983, 97 Stat. 42.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1983—Subsec. (b). Pub. L. 98–11, § 202(1), substituted “The” for “the” before “purpose”.
+1983—Subsec. (b). Pub. L. 98–11, § 202(1), substituted “The” for “the” before “purpose”.
 
-Subsec. (c). Pub. L. 98–11, § 202(2), added subsec. (c).
+Subsec. (c). Pub. L. 98–11, § 202(2), added subsec. (c).
 
-1978—Subsec. (a). Pub. L. 95–625, § 551(1), (2), inserted “the preservation of,” and “and historic resources” after “promote” and “outdoor areas” and substituted “within scenic areas and along historic travel routes of the Nation, which are often more remotely located” for “within established scenic areas more remotely located”.
+1978—Subsec. (a). Pub. L. 95–625, § 551(1), (2), inserted “the preservation of,” and “and historic resources” after “promote” and “outdoor areas” and substituted “within scenic areas and along historic travel routes of the Nation, which are often more remotely located” for “within established scenic areas more remotely located”.
 
-Subsec. (b). Pub. L. 95–625, § 551(3), substituted “, scenic and historic” for “and scenic”.
+Subsec. (b). Pub. L. 95–625, § 551(3), substituted “, scenic and historic” for “and scenic”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2023 Amendment**
 
-Pub. L. 117–345, § 1, Jan. 5, 2023, 136 Stat. 6196, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘Butterfield Overland National Historic Trail Designation Act’.”
+Pub. L. 117–345, § 1, Jan. 5, 2023, 136 Stat. 6196, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘Butterfield Overland National Historic Trail Designation Act’.”
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–111, § 1, Jan. 27, 2020, 134 Stat. 8, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘Emancipation National Historic Trail Study Act’.”
+Pub. L. 116–111, § 1, Jan. 27, 2020, 134 Stat. 8, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘Emancipation National Historic Trail Study Act’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–432, div. C, title III, § 302, Dec. 20, 2006, 120 Stat. 3028, provided that: “This title [enacting provisions set out as a note under section 1244 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title] may be cited as the ‘White Pine County Conservation, Recreation, and Development Act of 2006’.”
+Pub. L. 109–432, div. C, title III, § 302, Dec. 20, 2006, 120 Stat. 3028, provided that: “This title [enacting provisions set out as a note under section 1244 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title] may be cited as the ‘White Pine County Conservation, Recreation, and Development Act of 2006’.”
 
-Pub. L. 109–418, § 1, Dec. 19, 2006, 120 Stat. 2882, provided that: “This Act [amending sections 81f and 1244 of this title] may be cited as the ‘Captain John Smith Chesapeake National Historic Trail Designation Act’.”
+Pub. L. 109–418, § 1, Dec. 19, 2006, 120 Stat. 2882, provided that: “This Act [amending sections 81f and 1244 of this title] may be cited as the ‘Captain John Smith Chesapeake National Historic Trail Designation Act’.”
 
 **Short Title of 2004 Amendments**
 
-Pub. L. 108–424, § 2(a), Nov. 30, 2004, 118 Stat. 2403, provided that: “This Act [enacting provisions set out as a note under section 1244 of this title and provisions listed in a table of Wilderness Areas set out under section 1132 of this title and amending provisions listed in a table of National Wildlife Conservation Areas set out under section 668dd of this title] may be cited as the ‘Lincoln County Conservation, Recreation, and Development Act of 2004’.”
+Pub. L. 108–424, § 2(a), Nov. 30, 2004, 118 Stat. 2403, provided that: “This Act [enacting provisions set out as a note under section 1244 of this title and provisions listed in a table of Wilderness Areas set out under section 1132 of this title and amending provisions listed in a table of National Wildlife Conservation Areas set out under section 668dd of this title] may be cited as the ‘Lincoln County Conservation, Recreation, and Development Act of 2004’.”
 
-Pub. L. 108–342, § 1, Oct. 18, 2004, 118 Stat. 1370, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘El Camino Real de los Tejas National Historic Trail Act’.”
+Pub. L. 108–342, § 1, Oct. 18, 2004, 118 Stat. 1370, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘El Camino Real de los Tejas National Historic Trail Act’.”
 
 **Short Title of 2002 Amendments**
 
-Pub. L. 107–338, § 1, Dec. 16, 2002, 116 Stat. 2886, provided that: “This Act [amending section 1244 of this title and enacting provisions set out as a note under section 1244 of this title] may be cited as the ‘Metacomet-Monadnock-Mattabesett Trail Study Act of 2002’.”
+Pub. L. 107–338, § 1, Dec. 16, 2002, 116 Stat. 2886, provided that: “This Act [amending section 1244 of this title and enacting provisions set out as a note under section 1244 of this title] may be cited as the ‘Metacomet-Monadnock-Mattabesett Trail Study Act of 2002’.”
 
-Pub. L. 107–325, § 1, Dec. 4, 2002, 116 Stat. 2790, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘Old Spanish Trail Recognition Act of 2002’.”
+Pub. L. 107–325, § 1, Dec. 4, 2002, 116 Stat. 2790, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘Old Spanish Trail Recognition Act of 2002’.”
 
-Pub. L. 107–214, § 1, Aug. 21, 2002, 116 Stat. 1053, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘Long Walk National Historic Trail Study Act’.”
+Pub. L. 107–214, § 1, Aug. 21, 2002, 116 Stat. 1053, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘Long Walk National Historic Trail Study Act’.”
 
 **Short Title of 2000 Amendments**
 
-Pub. L. 106–509, § 1, Nov. 13, 2000, 114 Stat. 2361, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘Ala Kahakai National Historic Trail Act’.”
+Pub. L. 106–509, § 1, Nov. 13, 2000, 114 Stat. 2361, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘Ala Kahakai National Historic Trail Act’.”
 
-Pub. L. 106–307, § 1, Oct. 13, 2000, 114 Stat. 1074, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘El Camino Real de Tierra Adentro National Historic Trail Act’.”
+Pub. L. 106–307, § 1, Oct. 13, 2000, 114 Stat. 1074, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘El Camino Real de Tierra Adentro National Historic Trail Act’.”
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–135, § 1, Dec. 7, 1999, 113 Stat. 1685, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘Star-Spangled Banner National Historic Trail Study Act of 1999’.”
+Pub. L. 106–135, § 1, Dec. 7, 1999, 113 Stat. 1685, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘Star-Spangled Banner National Historic Trail Study Act of 1999’.”
 
 **Short Title of 1993 Amendments**
 
-Pub. L. 103–145, § 1, Nov. 17, 1993, 107 Stat. 1496, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘El Camino Real Para Los Texas Study Act of 1993’.”
+Pub. L. 103–145, § 1, Nov. 17, 1993, 107 Stat. 1496, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘El Camino Real Para Los Texas Study Act of 1993’.”
 
-Pub. L. 103–144, § 1, Nov. 17, 1993, 107 Stat. 1494, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘El Camino Real de Tierra Adentro Study Act of 1993’.”
+Pub. L. 103–144, § 1, Nov. 17, 1993, 107 Stat. 1494, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘El Camino Real de Tierra Adentro Study Act of 1993’.”
 
 **Short Title of 1990 Amendments**
 
-Pub. L. 101–365, § 1, Aug. 15, 1990, 104 Stat. 429, provided that: “This Act [amending sections 1244 and 1249 of this title] may be cited as the ‘Juan Bautista de Anza National Historic Trail Act’.”
+Pub. L. 101–365, § 1, Aug. 15, 1990, 104 Stat. 429, provided that: “This Act [amending sections 1244 and 1249 of this title] may be cited as the ‘Juan Bautista de Anza National Historic Trail Act’.”
 
-Pub. L. 101–321, § 1, July 3, 1990, 104 Stat. 293, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘Selma to Montgomery National Trail Study Act of 1989’.”
+Pub. L. 101–321, § 1, July 3, 1990, 104 Stat. 293, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘Selma to Montgomery National Trail Study Act of 1989’.”
 
 **Short Title of 1988 Amendments**
 
-Pub. L. 100–559, title II, § 201, Oct. 28, 1988, 102 Stat. 2797, provided that: “This title [amending section 1244 of this title] may be cited as the ‘Coronado National Trail Study Act of 1988’.”
+Pub. L. 100–559, title II, § 201, Oct. 28, 1988, 102 Stat. 2797, provided that: “This title [amending section 1244 of this title] may be cited as the ‘Coronado National Trail Study Act of 1988’.”
 
-Pub. L. 100–470, § 1, Oct. 4, 1988, 102 Stat. 2281, provided that: “This Act [amending sections 1244 and 1248 of this title and enacting provisions set out as notes under section 1248 of this title] may be cited as the ‘National Trails System Improvements Act of 1988’.”
+Pub. L. 100–470, § 1, Oct. 4, 1988, 102 Stat. 2281, provided that: “This Act [amending sections 1244 and 1248 of this title and enacting provisions set out as notes under section 1248 of this title] may be cited as the ‘National Trails System Improvements Act of 1988’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–187, § 1, Dec. 11, 1987, 101 Stat. 1287, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘De Soto National Trail Study Act of 1987’.”
+Pub. L. 100–187, § 1, Dec. 11, 1987, 101 Stat. 1287, provided that: “This Act [amending section 1244 of this title] may be cited as the ‘De Soto National Trail Study Act of 1987’.”
 
 **Short Title of 1983 Amendment**
 
-Pub. L. 98–11, title II, § 201, Mar. 28, 1983, 97 Stat. 42, provided that: “This title [enacting sections 1250 and 1251 of this title and amending this section and sections 1242 to 1247 and 1249 of this title] may be cited as the ‘National Trails System Act Amendments of 1983’.”
+Pub. L. 98–11, title II, § 201, Mar. 28, 1983, 97 Stat. 42, provided that: “This title [enacting sections 1250 and 1251 of this title and amending this section and sections 1242 to 1247 and 1249 of this title] may be cited as the ‘National Trails System Act Amendments of 1983’.”
 
 **Short Title**
 
-Pub. L. 90–543, § 1, Oct. 2, 1968, 82 Stat. 919, provided that: “This Act [enacting this chapter] may be cited as the ‘National Trails System Act’.”
+Pub. L. 90–543, § 1, Oct. 2, 1968, 82 Stat. 919, provided that: “This Act [enacting this chapter] may be cited as the ‘National Trails System Act’.”
 
 **Executive Documents**
 
@@ -165,7 +165,7 @@ Sec. 5. *Judicial Review*. This order is intended only to improve the internal m
 
 William J. Clinton.
 
-## § 1242. National trails system
+## § 1242. National trails system
 
 **(a) Composition: recreation trails; scenic trails; historic trails; connecting or side trails; uniform markers** The national system of trails shall be composed of the following:
 
@@ -183,7 +183,7 @@ The Secretary of the Interior and the Secretary of Agriculture, in consultation 
 
 For purposes of this section, the term “extended trails” means trails or trail segments which total at least one hundred miles in length, except that historic trails of less than one hundred miles may be designated as extended trails. While it is desirable that extended trails be continuous, studies of such trails may conclude that it is feasible to propose one or more trail segments which, in the aggregate, constitute at least one hundred miles in length.
 
-(Pub. L. 90–543, § 3, Oct. 2, 1968, 82 Stat. 919; Pub. L. 95–625, title V, § 551(4), (5), Nov. 10, 1978, 92 Stat. 3511, 3512; Pub. L. 98–11, title II, § 203, Mar. 28, 1983, 97 Stat. 42; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(E), Nov. 12, 1996, 110 Stat. 4196.)
+(Pub. L. 90–543, § 3, Oct. 2, 1968, 82 Stat. 919; Pub. L. 95–625, title V, § 551(4), (5), Nov. 10, 1978, 92 Stat. 3511, 3512; Pub. L. 98–11, title II, § 203, Mar. 28, 1983, 97 Stat. 42; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(E), Nov. 12, 1996, 110 Stat. 4196.)
 
 **Editorial Notes**
 
@@ -191,17 +191,17 @@ For purposes of this section, the term “extended trails” means trails or tra
 
 1996—Subsec. (c). Pub. L. 104–333 struck out subsec. (c) which read as follows: “On October 1, 1982, and at the beginning of each odd numbered fiscal year thereafter, the Secretary of the Interior shall submit to the Speaker of the United States House of Representatives and to the President of the United States Senate, an initial and revised (respectively) National Trails System plan. Such comprehensive plan shall indicate the scope and extent of a completed nationwide system of trails, to include (1) desirable nationally significant scenic and historic components which are considered necessary to complete a comprehensive national system, and (2) other trails which would balance out a complete and comprehensive nationwide system of trails. Such plan, and the periodic revisions thereto, shall be prepared in full consultation with the Secretary of Agriculture, the Governors of the various States, and the trails community.”
 
-1983—Subsec. (a). Pub. L. 98–11, § 203(1), (2), designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (d) as pars. (1) to (4), respectively, and, in provisions preceding par. (1), substituted “shall be composed  of  the  following:”  for  “shall  be  composed of—”.
+1983—Subsec. (a). Pub. L. 98–11, § 203(1), (2), designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (d) as pars. (1) to (4), respectively, and, in provisions preceding par. (1), substituted “shall be composed of the following:” for “shall be composed of—”.
 
-Subsec. (a)(2). Pub. L. 98–11, § 203(3), inserted provision authorizing the location of national scenic trails so as to represent desert, marsh, grassland, mountain, canyon, river, forest, and other areas, as well as landforms which exhibit significant characteristics of the physiographic regions of the Nation.
+Subsec. (a)(2). Pub. L. 98–11, § 203(3), inserted provision authorizing the location of national scenic trails so as to represent desert, marsh, grassland, mountain, canyon, river, forest, and other areas, as well as landforms which exhibit significant characteristics of the physiographic regions of the Nation.
 
-Subsec. (a)(3). Pub. L. 98–11, § 203(4), (5), substituted “in this chapter are included as Federal” for “in this chapter, are established as initial Federal” in fourth sentence and struck out “subsequently” after “The appropriate Secretary may” in fifth sentence.
+Subsec. (a)(3). Pub. L. 98–11, § 203(4), (5), substituted “in this chapter are included as Federal” for “in this chapter, are established as initial Federal” in fourth sentence and struck out “subsequently” after “The appropriate Secretary may” in fifth sentence.
 
-Subsecs. (b), (c). Pub. L. 98–11, § 203(6), added subsecs. (b) and (c).
+Subsecs. (b), (c). Pub. L. 98–11, § 203(6), added subsecs. (b) and (c).
 
-1978—Subsecs. (c), (d). Pub. L. 95–625, § 551(4), (5), added subsec. (c), redesignated former subsec. (c) as (d), and substituted “, national scenic or national historic” for “or national scenic”.
+1978—Subsecs. (c), (d). Pub. L. 95–625, § 551(4), (5), added subsec. (c), redesignated former subsec. (c) as (d), and substituted “, national scenic or national historic” for “or national scenic”.
 
-## § 1243. National recreation trails; establishment and designation; prerequisites
+## § 1243. National recreation trails; establishment and designation; prerequisites
 
 **(a)** The Secretary of the Interior, or the Secretary of Agriculture where lands administered by him are involved, may establish and designate national recreation trails, with the consent of the Federal agency, State, or political subdivision having jurisdiction over the lands involved, upon finding that—
 
@@ -217,17 +217,17 @@ Subsecs. (b), (c). Pub. L. 98–11, § 203(6), added subsecs. (b) and (c).
 
 **(iii)** trails on privately owned lands may be designated “National Recreation Trails” by the appropriate Secretary with the written consent of the owner of the property involved.
 
-(Pub. L. 90–543, § 4, Oct. 2, 1968, 82 Stat. 919; Pub. L. 98–11, title II, § 204, Mar. 28, 1983, 97 Stat. 43.)
+(Pub. L. 90–543, § 4, Oct. 2, 1968, 82 Stat. 919; Pub. L. 98–11, title II, § 204, Mar. 28, 1983, 97 Stat. 43.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1983—Subsec. (b)(i), (ii). Pub. L. 98–11, § 204(1), substituted “appropriate Secretary” for “Secretary of the Interior”.
+1983—Subsec. (b)(i), (ii). Pub. L. 98–11, § 204(1), substituted “appropriate Secretary” for “Secretary of the Interior”.
 
-Subsec. (b)(iii). Pub. L. 98–11, § 204(2)–(4), added cl. (iii).
+Subsec. (b)(iii). Pub. L. 98–11, § 204(2)–(4), added cl. (iii).
 
-## § 1244. National scenic and national historic trails
+## § 1244. National scenic and national historic trails
 
 **(a) Establishment and designation; administration** National scenic and national historic trails shall be authorized and designated only by Act of Congress. There are hereby established the following National Scenic and National Historic Trails:
 
@@ -245,9 +245,9 @@ Subsec. (b)(iii). Pub. L. 98–11, § 204(2)–(4), added cl. (iii).
 
 **(7)** The Iditarod National Historic Trail, a route of approximately two thousand miles extending from Seward, Alaska, to Nome, Alaska, following the routes as depicted on maps identified as “Seward-Nome Trail”, in the Department of the Interior’s study report entitled “The Iditarod Trail (Seward-Nome Route) and other Alaskan Gold Rush Trails” dated September 1977. The map shall be on file and available for public inspection in the office of the Director, National Park Service, Washington, D.C. The trail shall be administered by the Secretary of the Interior. No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land. The authority of the Federal Government to acquire fee title under this paragraph shall be limited to an average of not more than ¼ mile on either side of the trail.
 
-**(8)** The North Country National Scenic Trail, a trail of approximately 4,600 miles, extending from the Appalachian Trail in Vermont to the vicinity of Lake Sakakawea in North Dakota, following the approximate route depicted on the map identified as “ ‘North 1
+**(8)** The North Country National Scenic Trail, a trail of approximately 4,600 miles, extending from the Appalachian Trail in Vermont to the vicinity of Lake Sakakawea in North Dakota, following the approximate route depicted on the map identified as “ ‘North 1
 
-<sup>1</sup>  So in original. The additional quotation mark probably should not appear.
+<sup>1</sup> So in original. The additional quotation mark probably should not appear.
 
 Country National Scenic Trail, Authorized Route”, dated February 2014, and numbered 649/116870. The map shall be on file and available for public inspection in the office of the Director, National Park Service, Washington, District of Columbia. The trail shall be administered by the Secretary of the Interior. No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land.
 
@@ -439,7 +439,7 @@ Country National Scenic Trail, Authorized Route”, dated February 2014, and num
 
 **(D) Land acquisition.—** The United States shall not acquire for the Pacific Northwest National Scenic Trail any land or interest in land outside the exterior boundary of any federally-managed area without the consent of the owner of the land or interest in land.
 
-**(31) 2 [footnote: 2 So in original. Two pars. (31) have been enacted.] Chilkoot national historic trail.—**
+**(31) 2 [footnote: 2 So in original. Two pars. (31) have been enacted.] Chilkoot national historic trail.—**
 
 **(A) In general.—** The Chilkoot National Historic Trail, an approximately 16.5-mile route within the Klondike Gold Rush National Historical Park that was traditionally used as a trading route by the Tlingit Indian Tribe and Tagish First Nation and as a gold rush route, as generally depicted on the map entitled “Proposed Chilkoot National Historic Trail”, numbered KLGO–461–173787, and dated October 2020.
 
@@ -485,9 +485,9 @@ Country National Scenic Trail, Authorized Route”, dated February 2014, and num
 
 **(2)** the areas adjacent to such trails, to be utilized for scenic, historic, natural, cultural, or developmental, purposes;
 
-**(3)** the characteristics which, in the judgment of the appropriate Secretary, make the proposed trail worthy of designation as a national scenic or national historic trail; and in the case of national historic trails the report shall include the recommendation of the Secretary of the Interior’s National Park System Advisory Board as to the national historic significance based on the criteria developed under the Historic Sites Act of 1935 (49 Stat. 666; 16 U.S.C. 461); 3
+**(3)** the characteristics which, in the judgment of the appropriate Secretary, make the proposed trail worthy of designation as a national scenic or national historic trail; and in the case of national historic trails the report shall include the recommendation of the Secretary of the Interior’s National Park System Advisory Board as to the national historic significance based on the criteria developed under the Historic Sites Act of 1935 (49 Stat. 666; 16 U.S.C. 461); 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 **(4)** the current status of land ownership and current and potential use along the designated route;
 
@@ -925,7 +925,7 @@ The Secretary of the Interior shall undertake a study of the shared routes of th
 
 **(vii)** Raft River to Applegate.
 
-(Pub. L. 90–543, § 5, Oct. 2, 1968, 82 Stat. 920; Pub. L. 94–527, Oct. 17, 1976, 90 Stat. 2481; Pub. L. 95–248, § 1(1), (2), Mar. 21, 1978, 92 Stat. 159; Pub. L. 95–625, title V, § 551 (7)–(15), Nov. 10, 1978, 92 Stat. 3512–3515; Pub. L. 96–87, title IV, § 401(m)(1), Oct. 12, 1979, 93 Stat. 666; Pub. L. 96–199, title I, § 101(b)(1)–(3), Mar. 5, 1980, 94 Stat. 67, 68; Pub. L. 96–344, § 14, Sept. 8, 1980, 94 Stat. 1136; Pub. L. 96–370, § 1(a), Oct. 3, 1980, 94 Stat. 1360; Pub. L. 98–11, title II, § 205, Mar. 28, 1983, 97 Stat. 43; Pub. L. 98–405, § 1, Aug. 28, 1984, 98 Stat. 1483; Pub. L. 99–445, § 1, Oct. 6, 1986, 100 Stat. 1122; Pub. L. 100–35, § 1(a), May 8, 1987, 101 Stat. 302; Pub. L. 100–187, § 3, Dec. 11, 1987, 101 Stat. 1287; Pub. L. 100–192, § 1, Dec. 16, 1987, 101 Stat. 1309; Pub. L. 100–470, § 4, Oct. 4, 1988, 102 Stat. 2283; Pub. L. 100–559, title II, § 203, Oct. 28, 1988, 102 Stat. 2797; Pub. L. 101–321, § 3, July 3, 1990, 104 Stat. 293; Pub. L. 101–365, § 2(a), Aug. 15, 1990, 104 Stat. 429; Pub. L. 102–328, § 1, Aug. 3, 1992, 106 Stat. 845; Pub. L. 102–461, Oct. 23, 1992, 106 Stat. 2273; Pub. L. 103–144, § 3, Nov. 17, 1993, 107 Stat. 1494; Pub. L. 103–145, § 3, Nov. 17, 1993, 107 Stat. 1497; Pub. L. 103–437, § 6(d)(38), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–333, div. I, title IV, §§ 402, 403, title V, § 501, Nov. 12, 1996, 110 Stat. 4148, 4153; Pub. L. 106–135, § 3, Dec. 7, 1999, 113 Stat. 1686; Pub. L. 106–307, § 3, Oct. 13, 2000, 114 Stat. 1075; Pub. L. 106–509, § 3, Nov. 13, 2000, 114 Stat. 2361; Pub. L. 106–510, § 3(a)(2), Nov. 13, 2000, 114 Stat. 2363; Pub. L. 107–214, § 3, Aug. 21, 2002, 116 Stat. 1053; Pub. L. 107–325, § 2, Dec. 4, 2002, 116 Stat. 2790; Pub. L. 107–338, § 2, Dec. 16, 2002, 116 Stat. 2886; Pub. L. 108–342, § 2, Oct. 18, 2004, 118 Stat. 1370; Pub. L. 108–352, § 14(1), Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–54, title I, § 133, Aug. 2, 2005, 119 Stat. 526; Pub. L. 109–378, § 1, Dec. 1, 2006, 120 Stat. 2664; Pub. L. 109–418, § 2, Dec. 19, 2006, 120 Stat. 2882; Pub. L. 110–229, title III, § 341, May 8, 2008, 122 Stat. 795; Pub. L. 111–11, title V, §§ 5201, 5202(a), 5204–5206, 5301(a), 5302, 5303, title VII, § 7116(f), Mar. 30, 2009, 123 Stat. 1154, 1158, 1159, 1161, 1164, 1203; Pub. L. 116–9, title II, §§ 2501, 2502(a), 2504, Mar. 12, 2019, 133 Stat. 753, 754; Pub. L. 116–111, § 2, Jan. 27, 2020, 134 Stat. 8; Pub. L. 117–328, div. DD, title V, §§ 501–503, Dec. 29, 2022, 136 Stat. 5599–5601; Pub. L. 117–345, § 2, Jan. 5, 2023, 136 Stat. 6196.)
+(Pub. L. 90–543, § 5, Oct. 2, 1968, 82 Stat. 920; Pub. L. 94–527, Oct. 17, 1976, 90 Stat. 2481; Pub. L. 95–248, § 1(1), (2), Mar. 21, 1978, 92 Stat. 159; Pub. L. 95–625, title V, § 551 (7)–(15), Nov. 10, 1978, 92 Stat. 3512–3515; Pub. L. 96–87, title IV, § 401(m)(1), Oct. 12, 1979, 93 Stat. 666; Pub. L. 96–199, title I, § 101(b)(1)–(3), Mar. 5, 1980, 94 Stat. 67, 68; Pub. L. 96–344, § 14, Sept. 8, 1980, 94 Stat. 1136; Pub. L. 96–370, § 1(a), Oct. 3, 1980, 94 Stat. 1360; Pub. L. 98–11, title II, § 205, Mar. 28, 1983, 97 Stat. 43; Pub. L. 98–405, § 1, Aug. 28, 1984, 98 Stat. 1483; Pub. L. 99–445, § 1, Oct. 6, 1986, 100 Stat. 1122; Pub. L. 100–35, § 1(a), May 8, 1987, 101 Stat. 302; Pub. L. 100–187, § 3, Dec. 11, 1987, 101 Stat. 1287; Pub. L. 100–192, § 1, Dec. 16, 1987, 101 Stat. 1309; Pub. L. 100–470, § 4, Oct. 4, 1988, 102 Stat. 2283; Pub. L. 100–559, title II, § 203, Oct. 28, 1988, 102 Stat. 2797; Pub. L. 101–321, § 3, July 3, 1990, 104 Stat. 293; Pub. L. 101–365, § 2(a), Aug. 15, 1990, 104 Stat. 429; Pub. L. 102–328, § 1, Aug. 3, 1992, 106 Stat. 845; Pub. L. 102–461, Oct. 23, 1992, 106 Stat. 2273; Pub. L. 103–144, § 3, Nov. 17, 1993, 107 Stat. 1494; Pub. L. 103–145, § 3, Nov. 17, 1993, 107 Stat. 1497; Pub. L. 103–437, § 6(d)(38), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–333, div. I, title IV, §§ 402, 403, title V, § 501, Nov. 12, 1996, 110 Stat. 4148, 4153; Pub. L. 106–135, § 3, Dec. 7, 1999, 113 Stat. 1686; Pub. L. 106–307, § 3, Oct. 13, 2000, 114 Stat. 1075; Pub. L. 106–509, § 3, Nov. 13, 2000, 114 Stat. 2361; Pub. L. 106–510, § 3(a)(2), Nov. 13, 2000, 114 Stat. 2363; Pub. L. 107–214, § 3, Aug. 21, 2002, 116 Stat. 1053; Pub. L. 107–325, § 2, Dec. 4, 2002, 116 Stat. 2790; Pub. L. 107–338, § 2, Dec. 16, 2002, 116 Stat. 2886; Pub. L. 108–342, § 2, Oct. 18, 2004, 118 Stat. 1370; Pub. L. 108–352, § 14(1), Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–54, title I, § 133, Aug. 2, 2005, 119 Stat. 526; Pub. L. 109–378, § 1, Dec. 1, 2006, 120 Stat. 2664; Pub. L. 109–418, § 2, Dec. 19, 2006, 120 Stat. 2882; Pub. L. 110–229, title III, § 341, May 8, 2008, 122 Stat. 795; Pub. L. 111–11, title V, §§ 5201, 5202(a), 5204–5206, 5301(a), 5302, 5303, title VII, § 7116(f), Mar. 30, 2009, 123 Stat. 1154, 1158, 1159, 1161, 1164, 1203; Pub. L. 116–9, title II, §§ 2501, 2502(a), 2504, Mar. 12, 2019, 133 Stat. 753, 754; Pub. L. 116–111, § 2, Jan. 27, 2020, 134 Stat. 8; Pub. L. 117–328, div. DD, title V, §§ 501–503, Dec. 29, 2022, 136 Stat. 5599–5601; Pub. L. 117–345, § 2, Jan. 5, 2023, 136 Stat. 6196.)
 
 **Editorial Notes**
 
@@ -933,7 +933,7 @@ The Secretary of the Interior shall undertake a study of the shared routes of th
 
 The Chesapeake Bay Initiative Act of 1998, referred to in subsecs. (a)(25)(C)(i)(I) and (c)(40)(C), (43)(B)(i), is title V of Pub. L. 105–312, Oct. 30, 1998, 112 Stat. 2961, which is classified as a note under section 320101 of Title 54, National Park Service and Related Programs. For complete classification of this Act to the Code, see Tables.
 
-The Historic Sites Act of 1935 (49 Stat. 666; 16 U.S.C. 461), referred to in subsec. (b)(3), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, also known as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, and section 1866(a) of Title 18, Crimes and Criminal Procedure, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The Historic Sites Act of 1935 (49 Stat. 666; 16 U.S.C. 461), referred to in subsec. (b)(3), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, also known as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, and section 1866(a) of Title 18, Crimes and Criminal Procedure, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 Section 603 of the Omnibus Parks and Public Lands Management Act of 1996, referred to in subsec. (c)(40)(C), is section 603 of Pub. L. 104–333, div. I, title VI, Nov. 12, 1996, 110 Stat. 4172, which was formerly set out as a note under section 1a–5 of this title.
 
@@ -941,31 +941,31 @@ Section 603 of the Omnibus Parks and Public Lands Management Act of 1996, referr
 
 2023—Subsec. (a)(31). Pub. L. 117–345 added par. (31) relating to Butterfield Overland National Historic Trail.
 
-2022—Subsec. (a)(31). Pub. L. 117–328, § 501, added par. (31) relating to Chilkoot National Historic Trail.
+2022—Subsec. (a)(31). Pub. L. 117–328, § 501, added par. (31) relating to Chilkoot National Historic Trail.
 
-Subsec. (c)(48). Pub. L. 117–328, § 502, added par. (48).
+Subsec. (c)(48). Pub. L. 117–328, § 502, added par. (48).
 
-Subsec. (c)(49). Pub. L. 117–328, § 503, added par. (49).
+Subsec. (c)(49). Pub. L. 117–328, § 503, added par. (49).
 
 2020—Subsec. (c)(47). Pub. L. 116–111 added par. (47).
 
-2019—Subsec. (a)(6). Pub. L. 116–9, § 2502(a), substituted “4,900” for “three thousand seven hundred”, “the Ohio River in Pittsburgh, Pennsylvania,” for “Wood River, Illinois,”, and “the map entitled ‘Lewis and Clark National Historic Trail Authorized Trail Including Proposed Eastern Legacy Extension’, dated April 2018, and numbered 648/143721.” for “maps identified as, ‘Vicinity Map, Lewis and Clark Trail’ study report dated April 1977.”
+2019—Subsec. (a)(6). Pub. L. 116–9, § 2502(a), substituted “4,900” for “three thousand seven hundred”, “the Ohio River in Pittsburgh, Pennsylvania,” for “Wood River, Illinois,”, and “the map entitled ‘Lewis and Clark National Historic Trail Authorized Trail Including Proposed Eastern Legacy Extension’, dated April 2018, and numbered 648/143721.” for “maps identified as, ‘Vicinity Map, Lewis and Clark Trail’ study report dated April 1977.”
 
-Subsec. (a)(8). Pub. L. 116–9, § 2501(2), substituted “ ‘North Country National Scenic Trail, Authorized Route’, dated February 2014, and numbered 649/116870.” for “ ‘Proposed North Country Trail-Vicinity Map’ in the Department of the Interior ‘North Country Trail Report’, dated June 1975.”
+Subsec. (a)(8). Pub. L. 116–9, § 2501(2), substituted “ ‘North Country National Scenic Trail, Authorized Route’, dated February 2014, and numbered 649/116870.” for “ ‘Proposed North Country Trail-Vicinity Map’ in the Department of the Interior ‘North Country Trail Report’, dated June 1975.”
 
-Pub. L. 116–9, § 2501(1), which directed substitution of “4,600 miles, extending from the Appalachian Trail in Vermont” for “thirty two hundred miles, extending from eastern New York State”, was executed by making the substitution for “thirty-two hundred miles, extending from eastern New York State” to reflect the probable intent of Congress.
+Pub. L. 116–9, § 2501(1), which directed substitution of “4,600 miles, extending from the Appalachian Trail in Vermont” for “thirty two hundred miles, extending from eastern New York State”, was executed by making the substitution for “thirty-two hundred miles, extending from eastern New York State” to reflect the probable intent of Congress.
 
-Subsec. (c)(46). Pub. L. 116–9, § 2504, added par. (46).
+Subsec. (c)(46). Pub. L. 116–9, § 2504, added par. (46).
 
-2009—Subsec. (a)(3) to (7). Pub. L. 111–11, § 5301(a)(1)–(5), inserted at end “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land. The authority of the Federal Government to acquire fee title under this paragraph shall be limited to an average of not more than ¼ mile on either side of the trail.”
+2009—Subsec. (a)(3) to (7). Pub. L. 111–11, § 5301(a)(1)–(5), inserted at end “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land. The authority of the Federal Government to acquire fee title under this paragraph shall be limited to an average of not more than ¼ mile on either side of the trail.”
 
-Subsec. (a)(8), (10). Pub. L. 111–11, § 5301(a)(6), (7), inserted at end “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land.”
+Subsec. (a)(8), (10). Pub. L. 111–11, § 5301(a)(6), (7), inserted at end “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land.”
 
-Subsec. (a)(11). Pub. L. 111–11, § 5301(a)(8), struck out “No lands or interests therein outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the Potomac Heritage Trail. The Secretary of the Interior may designate lands outside of federally administered areas as segments of the trail, only upon application from the States or local governmental agencies involved, if such segments meet the criteria established in this chapter and are administered by such agencies without expense to the United States.” before “The trail shall be administered” and inserted at end “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land.”
+Subsec. (a)(11). Pub. L. 111–11, § 5301(a)(8), struck out “No lands or interests therein outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the Potomac Heritage Trail. The Secretary of the Interior may designate lands outside of federally administered areas as segments of the trail, only upon application from the States or local governmental agencies involved, if such segments meet the criteria established in this chapter and are administered by such agencies without expense to the United States.” before “The trail shall be administered” and inserted at end “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land.”
 
-Subsec. (a)(14). Pub. L. 111–11, § 5301(a)(9), struck out “No lands or interests therein outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the Nez Perce National Historic Trail. The Secretary of Agriculture may designate lands outside of federally administered areas as segments of the trail upon application from the States or local governmental agencies involved if such segments meet the criteria established in this chapter and are administered by such agencies without expense to the United States.” before “So that significant route segments” and inserted at end “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land. The authority of the Federal Government to acquire fee title under this paragraph shall be limited to an average of not more than ¼ mile on either side of the trail.”
+Subsec. (a)(14). Pub. L. 111–11, § 5301(a)(9), struck out “No lands or interests therein outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the Nez Perce National Historic Trail. The Secretary of Agriculture may designate lands outside of federally administered areas as segments of the trail upon application from the States or local governmental agencies involved if such segments meet the criteria established in this chapter and are administered by such agencies without expense to the United States.” before “So that significant route segments” and inserted at end “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land. The authority of the Federal Government to acquire fee title under this paragraph shall be limited to an average of not more than ¼ mile on either side of the trail.”
 
-Subsec. (a)(16)(C). Pub. L. 111–11, § 5206(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Not later than 6 months after December 1, 2006, the Secretary of the Interior shall complete the remaining criteria and submit to Congress a study regarding the feasibility and suitability of designating, as additional components of the Trail of Tears National Historic Trail, the following routes and land components by which the Cherokee Nation was removed to Oklahoma:
+Subsec. (a)(16)(C). Pub. L. 111–11, § 5206(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Not later than 6 months after December 1, 2006, the Secretary of the Interior shall complete the remaining criteria and submit to Congress a study regarding the feasibility and suitability of designating, as additional components of the Trail of Tears National Historic Trail, the following routes and land components by which the Cherokee Nation was removed to Oklahoma:
 
 “(i) The Benge and Bell routes.
 
@@ -975,21 +975,21 @@ Subsec. (a)(16)(C). Pub. L. 111–11, § 5206(1), amended subpar. (C) generall
 
 “(iv) The related campgrounds located along the routes and land components described in clauses (i) through (iii).”
 
-Subsec. (a)(16)(D). Pub. L. 111–11, § 5206(2), struck out first sentence which read as follows: “No additional funds are authorized to be appropriated to carry out subparagraph (C).” and inserted at end “No lands or interests in lands outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the Trail of Tears National Historic Trail except with the consent of the owner thereof.”
+Subsec. (a)(16)(D). Pub. L. 111–11, § 5206(2), struck out first sentence which read as follows: “No additional funds are authorized to be appropriated to carry out subparagraph (C).” and inserted at end “No lands or interests in lands outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the Trail of Tears National Historic Trail except with the consent of the owner thereof.”
 
-Subsec. (a)(25)(A). Pub. L. 111–11, § 7116(f), substituted “The Captain John Smith” for “The John Smith”.
+Subsec. (a)(25)(A). Pub. L. 111–11, § 7116(f), substituted “The Captain John Smith” for “The John Smith”.
 
-Subsec. (a)(27) to (30). Pub. L. 111–11, §§ 5201, 5202(a), 5204, 5205, added pars. (27) to (30).
+Subsec. (a)(27) to (30). Pub. L. 111–11, §§ 5201, 5202(a), 5204, 5205, added pars. (27) to (30).
 
-Subsec. (c)(44), (45). Pub. L. 111–11, § 5303, added pars. (44) and (45).
+Subsec. (c)(44), (45). Pub. L. 111–11, § 5303, added pars. (44) and (45).
 
-Subsec. (g). Pub. L. 111–11, § 5302, added subsec. (g).
+Subsec. (g). Pub. L. 111–11, § 5302, added subsec. (g).
 
 2008—Subsec. (a)(26). Pub. L. 110–229 added par. (26).
 
-2006—Subsec. (a)(16)(B). Pub. L. 109–378, § 1(1), substituted “sections” for “subsections”.
+2006—Subsec. (a)(16)(B). Pub. L. 109–378, § 1(1), substituted “sections” for “subsections”.
 
-Subsec. (a)(16)(C), (D). Pub. L. 109–378, § 1(2), added subpars. (C) and (D).
+Subsec. (a)(16)(C), (D). Pub. L. 109–378, § 1(2), added subpars. (C) and (D).
 
 Subsec. (a)(25). Pub. L. 109–418 added par. (25).
 
@@ -997,13 +997,13 @@ Subsec. (a)(25). Pub. L. 109–418 added par. (25).
 
 2004—Subsec. (a)(24). Pub. L. 108–342 added par. (24).
 
-Subsec. (c)(19). Pub. L. 108–352, § 14(1)(A)(i), substituted “Kissimmee” for “Kissimme”.
+Subsec. (c)(19). Pub. L. 108–352, § 14(1)(A)(i), substituted “Kissimmee” for “Kissimme”.
 
-Subsec. (c)(40)(D). Pub. L. 108–352, § 14(1)(A)(ii), substituted “later than” for “later that”.
+Subsec. (c)(40)(D). Pub. L. 108–352, § 14(1)(A)(ii), substituted “later than” for “later that”.
 
-Subsec. (c)(41), (42). Pub. L. 108–352, § 14(1)(A)(iii), designated unnumbered pars. relating to the Metacomet-Monadnock-Mattabesett Trail and The Long Walk Trail as pars. (41) and (42), respectively, and par. (42) was editorially transferred to follow par. (41) to reflect the probable intent of Congress.
+Subsec. (c)(41), (42). Pub. L. 108–352, § 14(1)(A)(iii), designated unnumbered pars. relating to the Metacomet-Monadnock-Mattabesett Trail and The Long Walk Trail as pars. (41) and (42), respectively, and par. (42) was editorially transferred to follow par. (41) to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 108–352, § 14(1)(B), struck out “establishment.” before “establishment,”.
+Subsec. (d). Pub. L. 108–352, § 14(1)(B), struck out “establishment.” before “establishment,”.
 
 2002—Subsec. (a)(21) to (23). Pub. L. 107–325 redesignated par. (21) relating to the Ala Kahakai National Historic Trail as par. (22) and added par. (23).
 
@@ -1011,23 +1011,23 @@ Subsec. (c). Pub. L. 107–338 added unnumbered par. relating to the Metacomet-M
 
 Pub. L. 107–214 added unnumbered par. relating to the Long Walk Trail.
 
-2000—Subsec. (a)(18) to (20). Pub. L. 106–307, § 3(1), and Pub. L. 106–509, § 3(1), made identical amendments, designating unnumbered pars. relating to California National Historic Trail, Pony Express National Historic Trail, and Selma to Montgomery National Historic Trail as pars. (18) to (20), respectively.
+2000—Subsec. (a)(18) to (20). Pub. L. 106–307, § 3(1), and Pub. L. 106–509, § 3(1), made identical amendments, designating unnumbered pars. relating to California National Historic Trail, Pony Express National Historic Trail, and Selma to Montgomery National Historic Trail as pars. (18) to (20), respectively.
 
-Subsec. (a)(21). Pub. L. 106–509, § 3(2), added par. (21) relating to Ala Kahakai National Historic Trail.
+Subsec. (a)(21). Pub. L. 106–509, § 3(2), added par. (21) relating to Ala Kahakai National Historic Trail.
 
-Pub. L. 106–307, § 3(2), added par. (21) relating to El Camino Real de Tierra Adentro.
+Pub. L. 106–307, § 3(2), added par. (21) relating to El Camino Real de Tierra Adentro.
 
 Subsec. (a)(21)(A). Pub. L. 106–510 substituted “Hawaiʻi Volcanoes National Park” for “Hawaii Volcanoes National Park” in subpar. (A) of par. (21) relating to Ala Kahakai National Historic Trail.
 
 Subsec. (c)(35). Pub. L. 106–510 substituted “Hawaiʻi Volcanoes National Park” for “Hawaii Volcanoes National Park”.
 
-1999—Subsec. (c)(36), (37). Pub. L. 106–135, § 3(1), redesignated par. (36) relating to El Camino Real Para Los Texas as (37) and substituted “determine” for “detemine” in subpar. (C).
+1999—Subsec. (c)(36), (37). Pub. L. 106–135, § 3(1), redesignated par. (36) relating to El Camino Real Para Los Texas as (37) and substituted “determine” for “detemine” in subpar. (C).
 
 Subsec. (c)(38) to (40). Pub. L. 106–135 designated unnumbered par. relating to the Old Spanish Trail as par. (38) and unnumbered par. relating to the Great Western Scenic Trail as par. (39) and added par. (40).
 
-1996—Subsec. (a). Pub. L. 104–333, § 501, added unnumbered par. relating to Selma to Montgomery National Historic Trail.
+1996—Subsec. (a). Pub. L. 104–333, § 501, added unnumbered par. relating to Selma to Montgomery National Historic Trail.
 
-Subsec. (c). Pub. L. 104–333, §§ 402, 403, added unnumbered pars. relating to Old Spanish Trail and Great Western Scenic Trail.
+Subsec. (c). Pub. L. 104–333, §§ 402, 403, added unnumbered pars. relating to Old Spanish Trail and Great Western Scenic Trail.
 
 1994—Subsecs. (e), (f). Pub. L. 103–437 in introductory provisions substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
@@ -1057,61 +1057,61 @@ Subsec. (c)(31). Pub. L. 100–187 added par. (31).
 
 1984—Subsec. (c)(30). Pub. L. 98–405 added par. (30).
 
-1983—Subsec. (a)(11) to (13). Pub. L. 98–11, § 205(a), added pars. (11) to (13).
+1983—Subsec. (a)(11) to (13). Pub. L. 98–11, § 205(a), added pars. (11) to (13).
 
-Subsec. (b). Pub. L. 98–11, § 205(b)(1), inserted sentence in provisions preceding par. (1) requiring that the feasibility of designating a trail be determined on the basis of an evaluation of whether or not it is physically possible to develop a trail along a route being studied, and whether the development of a trail would be financially feasible.
+Subsec. (b). Pub. L. 98–11, § 205(b)(1), inserted sentence in provisions preceding par. (1) requiring that the feasibility of designating a trail be determined on the basis of an evaluation of whether or not it is physically possible to develop a trail along a route being studied, and whether the development of a trail would be financially feasible.
 
-Subsec. (b)(3). Pub. L. 98–11, § 205(b)(2), substituted “16 U.S.C. 461” for “U.S.C. 461”.
+Subsec. (b)(3). Pub. L. 98–11, § 205(b)(2), substituted “16 U.S.C. 461” for “U.S.C. 461”.
 
-Subsec. (b)(11)(B). Pub. L. 98–11, § 205(b)(3), inserted “exploration,” after “commerce,” in first sentence.
+Subsec. (b)(11)(B). Pub. L. 98–11, § 205(b)(3), inserted “exploration,” after “commerce,” in first sentence.
 
-Subsec. (c)(9). Pub. L. 98–11, § 205(c)(1), substituted “Santa Fe, New Mexico” for “Sante Fe, New Mexico”.
+Subsec. (c)(9). Pub. L. 98–11, § 205(c)(1), substituted “Santa Fe, New Mexico” for “Sante Fe, New Mexico”.
 
-Subsec. (c)(24) to (29). Pub. L. 98–11, § 205(c)(2), added pars. (24) to (29).
+Subsec. (c)(24) to (29). Pub. L. 98–11, § 205(c)(2), added pars. (24) to (29).
 
-Subsec. (d). Pub. L. 98–11, § 205(d)(1), in provisions preceding par. (1), inserted requirement that the Secretary advise the appropriate committees in the Congress if the Secretary is unable to establish an advisory council because of the lack of adequate public interest.
+Subsec. (d). Pub. L. 98–11, § 205(d)(1), in provisions preceding par. (1), inserted requirement that the Secretary advise the appropriate committees in the Congress if the Secretary is unable to establish an advisory council because of the lack of adequate public interest.
 
-Subsec. (d)(1) to (4). Pub. L. 98–11, § 205(d)(2), redesignated pars. (i) to (iv) as (1) to (4), respectively, and in par. (1) as so redesignated substituted “the head of each Federal department or independent agency administering lands through which the trail route passes, or his designee” for “a member appointed to represent each Federal department or independent agency administering lands through which the trail route passes, and each appointee shall be the person designated by the head of such department or agency”.
+Subsec. (d)(1) to (4). Pub. L. 98–11, § 205(d)(2), redesignated pars. (i) to (iv) as (1) to (4), respectively, and in par. (1) as so redesignated substituted “the head of each Federal department or independent agency administering lands through which the trail route passes, or his designee” for “a member appointed to represent each Federal department or independent agency administering lands through which the trail route passes, and each appointee shall be the person designated by the head of such department or agency”.
 
-Subsec. (f)(1). Pub. L. 98–11, § 205(e)(1), (2), substituted “national historic trails” for “national recreational trails”.
+Subsec. (f)(1). Pub. L. 98–11, § 205(e)(1), (2), substituted “national historic trails” for “national recreational trails”.
 
-Subsec. (f)(3), (4). Pub. L. 98–11, § 205(e)(3), added pars. (3) and (4).
+Subsec. (f)(3), (4). Pub. L. 98–11, § 205(e)(3), added pars. (3) and (4).
 
-1980—Subsec. (a)(8). Pub. L. 96–199, § 101(b)(1), added par. (8).
+1980—Subsec. (a)(8). Pub. L. 96–199, § 101(b)(1), added par. (8).
 
 Subsec. (a)(9). Pub. L. 96–344 added par. (9).
 
 Subsec. (a)(10). Pub. L. 96–370 added par. (10).
 
-Subsecs. (e), (f). Pub. L. 96–199, § 101(b)(2), (3), inserted reference to the North Country National Scenic Trail.
+Subsecs. (e), (f). Pub. L. 96–199, § 101(b)(2), (3), inserted reference to the North Country National Scenic Trail.
 
 1979—Subsec. (c)(23). Pub. L. 96–87 substituted “(23)” for “(20)” as the number designation of the paragraph relating to the Overmountain Victory Trail added in 1978 by section 551(13) of Pub. L. 95–625.
 
-1978—Subsec. (a). Pub. L. 95–625, § 551(7), substituted, in provision preceding par. (1), “scenic and national historic” for “scenic” and “the following National Scenic and National Historic Trails” for “as the initial National Scenic Trails”.
+1978—Subsec. (a). Pub. L. 95–625, § 551(7), substituted, in provision preceding par. (1), “scenic and national historic” for “scenic” and “the following National Scenic and National Historic Trails” for “as the initial National Scenic Trails”.
 
-Subsec. (a)(1). Pub. L. 95–625, § 551(8), substituted “Appalachian National Scenic Trail” for “Appalachian Trail”.
+Subsec. (a)(1). Pub. L. 95–625, § 551(8), substituted “Appalachian National Scenic Trail” for “Appalachian Trail”.
 
-Subsec. (a)(2). Pub. L. 95–625, § 551(8), substituted “Pacific Crest National Scenic Trail” for “Pacific Crest Trail”.
+Subsec. (a)(2). Pub. L. 95–625, § 551(8), substituted “Pacific Crest National Scenic Trail” for “Pacific Crest Trail”.
 
-Subsec. (a)(3). Pub. L. 95–625, § 551(9), substituted provisions establishing the Oregon National Historic Trail as a National Scenic and National Historic Trail for provisions requiring the establishment, by the Secretary of the Interior within 60 days after Mar. 21, 1978, of an Advisory Council for the Appalachian National Scenic Trail, which council was to terminate 120 months after Mar. 21, 1978.
+Subsec. (a)(3). Pub. L. 95–625, § 551(9), substituted provisions establishing the Oregon National Historic Trail as a National Scenic and National Historic Trail for provisions requiring the establishment, by the Secretary of the Interior within 60 days after Mar. 21, 1978, of an Advisory Council for the Appalachian National Scenic Trail, which council was to terminate 120 months after Mar. 21, 1978.
 
-Pub. L. 95–248, § 1(1), substituted provisions requiring establishment by the Secretary of the Interior within 60 days of Mar. 21, 1978, of an Advisory Council for the Appalachian National Scenic Trail, which shall terminate within 120 months of Mar. 21, 1978, and provisions relating to functions, membership, etc., of such Council, for provisions requiring establishment by the Secretary of the Interior of an advisory council for the Appalachian National Scenic Trail and by the Secretary of Agriculture of an advisory council for the Pacific Crest National Scenic Trail, and provisions relating to functions, membership, etc., of the councils.
+Pub. L. 95–248, § 1(1), substituted provisions requiring establishment by the Secretary of the Interior within 60 days of Mar. 21, 1978, of an Advisory Council for the Appalachian National Scenic Trail, which shall terminate within 120 months of Mar. 21, 1978, and provisions relating to functions, membership, etc., of such Council, for provisions requiring establishment by the Secretary of the Interior of an advisory council for the Appalachian National Scenic Trail and by the Secretary of Agriculture of an advisory council for the Pacific Crest National Scenic Trail, and provisions relating to functions, membership, etc., of the councils.
 
-Subsec. (a)(4) to (7). Pub. L. 95–625, § 551(9), added pars. (4) to (7).
+Subsec. (a)(4) to (7). Pub. L. 95–625, § 551(9), added pars. (4) to (7).
 
-Subsec. (b). Pub. L. 95–625, § 551(10), substituted in provision preceding par. (1) “National scenic or national historic” for “national scenic”, inserted “through the agency most likely to administer such trail,” after “Secretary of the Interior,”, struck out third sentence “When completed, such studies shall be the basis of appropriate proposals for additional national scenic trails which shall be submitted from time to time to the President and to the Congress.”; and substituted “The studies listed in subsection (c) of this section shall be completed and submitted to the Congress, with recommendations as to the suitability of trail designation, not later than three complete fiscal years from the date of enactment of their addition to this subsection, or from November 10, 1978, whichever is later. Such studies, when submitted, shall be printed as a House or Senate document, and shall include, but not be limited to:” for “Such proposals shall be accompanied by a report, which shall be printed as a House or Senate document, showing among other things—”.
+Subsec. (b). Pub. L. 95–625, § 551(10), substituted in provision preceding par. (1) “National scenic or national historic” for “national scenic”, inserted “through the agency most likely to administer such trail,” after “Secretary of the Interior,”, struck out third sentence “When completed, such studies shall be the basis of appropriate proposals for additional national scenic trails which shall be submitted from time to time to the President and to the Congress.”; and substituted “The studies listed in subsection (c) of this section shall be completed and submitted to the Congress, with recommendations as to the suitability of trail designation, not later than three complete fiscal years from the date of enactment of their addition to this subsection, or from November 10, 1978, whichever is later. Such studies, when submitted, shall be printed as a House or Senate document, and shall include, but not be limited to:” for “Such proposals shall be accompanied by a report, which shall be printed as a House or Senate document, showing among other things—”.
 
-Subsec. (b)(3). Pub. L. 95–625, § 551(10), (11), substituted “scenic or national historic” for “scenic” and required in the case of national historic trails the report to include the recommendation of the Secretary of the Interior’s National Park System Advisory Board as to the national historical significance based on the criteria developed under the Historic Sites Act of 1935.
+Subsec. (b)(3). Pub. L. 95–625, § 551(10), (11), substituted “scenic or national historic” for “scenic” and required in the case of national historic trails the report to include the recommendation of the Secretary of the Interior’s National Park System Advisory Board as to the national historical significance based on the criteria developed under the Historic Sites Act of 1935.
 
-Subsec. (b)(10), (11). Pub. L. 95–625, § 551(12), added pars. (10) and (11).
+Subsec. (b)(10), (11). Pub. L. 95–625, § 551(12), added pars. (10) and (11).
 
-Subsec. (c)(23). Pub. L. 95–625, § 551(13), added par. (23). See 1979 Amendment note above.
+Subsec. (c)(23). Pub. L. 95–625, § 551(13), added par. (23). See 1979 Amendment note above.
 
-Subsec. (d). Pub. L. 95–625, § 551(14), added subsec. (d) and repealed former subsec. (d) provisions for comprehensive plan for the management, acquisition, development, and use of the Appalachian Trail, submission to Congressional committees, and scope of plan, now covered in subsec. (e) of this section.
+Subsec. (d). Pub. L. 95–625, § 551(14), added subsec. (d) and repealed former subsec. (d) provisions for comprehensive plan for the management, acquisition, development, and use of the Appalachian Trail, submission to Congressional committees, and scope of plan, now covered in subsec. (e) of this section.
 
-Pub. L. 95–248, § 1(2), added subsec. (d).
+Pub. L. 95–248, § 1(2), added subsec. (d).
 
-Subsecs. (e), (f). Pub. L. 95–625, § 551(15), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 95–625, § 551(15), added subsecs. (e) and (f).
 
 1976—Subsec. (c)(15) to (22). Pub. L. 94–527 added pars. (15) to (22).
 
@@ -1123,7 +1123,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–9, title II, § 2502(b), Mar. 12, 2019, 133 Stat. 754, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is 60 days after the date of enactment of this Act [Mar. 12, 2019].”
+Pub. L. 116–9, title II, § 2502(b), Mar. 12, 2019, 133 Stat. 754, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is 60 days after the date of enactment of this Act [Mar. 12, 2019].”
 
 **Termination of Advisory Councils**
 
@@ -1131,7 +1131,7 @@ Advisory councils in existence on Jan. 5, 1973, to terminate not later than the 
 
 **Construction of Title V of Pub. L. 111–11**
 
-Pub. L. 111–11, title V, § 5401, Mar. 30, 2009, 123 Stat. 1164, provided that:
+Pub. L. 111–11, title V, § 5401, Mar. 30, 2009, 123 Stat. 1164, provided that:
 
 > **“(a) Effect on Access for Recreational Activities.—** Nothing in this title [amending this section and sections 1249, 1274, and 1276 of this title and enacting provisions set out as notes under this section and sections 1271 and 1274 of this title] shall be construed as affecting access for recreational activities otherwise allowed by law or regulation, including hunting, fishing, or trapping.
 
@@ -1143,7 +1143,7 @@ Pub. L. 117–48, Oct. 13, 2021, 135 Stat. 400, designated the September 11th Na
 
 **New England National Scenic Trail**
 
-Pub. L. 111–11, title V, § 5202(b)–(d), Mar. 30, 2009, 123 Stat. 1154, 1155, provided that:
+Pub. L. 111–11, title V, § 5202(b)–(d), Mar. 30, 2009, 123 Stat. 1154, 1155, provided that:
 
 > **“(b) Management.—** The Secretary of the Interior (referred to in this section [amending this section] as the ‘Secretary’) shall consider the actions outlined in the Trail Management Blueprint described in the report titled the ‘Metacomet Monadnock Mattabesett Trail System National Scenic Trail Feasibility Study and Environmental Assessment’, prepared by the National Park Service, and dated Spring 2006, as the framework for management and administration of the New England National Scenic Trail. Additional or more detailed plans for administration, management, protection, access, maintenance, or development of the trail may be developed consistent with the Trail Management Blueprint, and as approved by the Secretary.
 
@@ -1153,17 +1153,17 @@ Pub. L. 111–11, title V, § 5202(b)–(d), Mar. 30, 2009, 123 Stat. 1154, 11
 
 **Ice Age Floods National Geologic Trail**
 
-Pub. L. 111–11, title V, § 5203, Mar. 30, 2009, 123 Stat. 1155, described and designated the Ice Age Floods National Geologic Trail in the States of Montana, Idaho, Washington, and Oregon; provided for its administration by the Secretary of the Interior acting through the Director of the National Park Service; required the Secretary to prepare a cooperative management and interpretive plan; authorized the Secretary to establish a trail management office and interpretative facilities and to enter into cooperative management agreements; provided that designation of the Trail does not create liability for, or affect liability under any law of, any private property owner with respect to any person injured on the private property; and authorized appropriations.
+Pub. L. 111–11, title V, § 5203, Mar. 30, 2009, 123 Stat. 1155, described and designated the Ice Age Floods National Geologic Trail in the States of Montana, Idaho, Washington, and Oregon; provided for its administration by the Secretary of the Interior acting through the Director of the National Park Service; required the Secretary to prepare a cooperative management and interpretive plan; authorized the Secretary to establish a trail management office and interpretative facilities and to enter into cooperative management agreements; provided that designation of the Trail does not create liability for, or affect liability under any law of, any private property owner with respect to any person injured on the private property; and authorized appropriations.
 
 **Silver State Off-Highway Vehicle Trail**
 
-Pub. L. 109–432, div. C, title III, §§ 303, 355, Dec. 20, 2006, 120 Stat. 3028, 3040, directed the Secretary of the Interior to complete a study of routes for the extension of the Silver State Off-Highway Vehicle Trail into White Pine County, Nevada, not later than 3 years after Dec. 20, 2006, to identify the preferred route for the Trail in consultation with the State of Nevada, White Pine County, and any interested persons, to designate the Trail not later than 90 days after the study is completed, to complete a management plan for the Trail not later than 2 years after the designation, and to annually assess the effects of use of the Trail on the environment and cultural resources and to temporarily close or permanently reroute a portion of the Trail where there is an adverse environmental impact, a threat to public safety, or where necessary to repair damage to the Trail or a resource.
+Pub. L. 109–432, div. C, title III, §§ 303, 355, Dec. 20, 2006, 120 Stat. 3028, 3040, directed the Secretary of the Interior to complete a study of routes for the extension of the Silver State Off-Highway Vehicle Trail into White Pine County, Nevada, not later than 3 years after Dec. 20, 2006, to identify the preferred route for the Trail in consultation with the State of Nevada, White Pine County, and any interested persons, to designate the Trail not later than 90 days after the study is completed, to complete a management plan for the Trail not later than 2 years after the designation, and to annually assess the effects of use of the Trail on the environment and cultural resources and to temporarily close or permanently reroute a portion of the Trail where there is an adverse environmental impact, a threat to public safety, or where necessary to repair damage to the Trail or a resource.
 
-Pub. L. 108–424, title IV, § 401, Nov. 30, 2004, 118 Stat. 2416, provided that the Secretary of the Interior would manage the system of trails designated as the Silver State Off-Highway Vehicle Trail in the Lincoln County Conservation, Recreation and Development Act Map for Lincoln County, Nevada, in a manner consistent with motorized and mechanized use of the Trail, the safety of the people who use the Trail and its sensitive habitat and cultural resources, and that the Secretary would, in consultation with the State, County and other interested parties, develop a management plan, not later than 3 years after Nov. 30, 2004, and monitor and evaluate the effects of the use of the Trail to minimize adverse environmental or cultural impact while giving notice of open routes.
+Pub. L. 108–424, title IV, § 401, Nov. 30, 2004, 118 Stat. 2416, provided that the Secretary of the Interior would manage the system of trails designated as the Silver State Off-Highway Vehicle Trail in the Lincoln County Conservation, Recreation and Development Act Map for Lincoln County, Nevada, in a manner consistent with motorized and mechanized use of the Trail, the safety of the people who use the Trail and its sensitive habitat and cultural resources, and that the Secretary would, in consultation with the State, County and other interested parties, develop a management plan, not later than 3 years after Nov. 30, 2004, and monitor and evaluate the effects of the use of the Trail to minimize adverse environmental or cultural impact while giving notice of open routes.
 
 **Expedited Report to Congress**
 
-Pub. L. 107–338, § 3, Dec. 16, 2002, 116 Stat. 2886, provided that: “Notwithstanding the fourth sentence of section 5(b) of the National Trails System Act (16 U.S.C. 1244(b)), the Secretary of the Interior shall submit the study required by the amendment made by section 2 [amending this section] to Congress not later than 2 years after the date of the enactment of this Act [Dec. 16, 2002].”
+Pub. L. 107–338, § 3, Dec. 16, 2002, 116 Stat. 2886, provided that: “Notwithstanding the fourth sentence of section 5(b) of the National Trails System Act (16 U.S.C. 1244(b)), the Secretary of the Interior shall submit the study required by the amendment made by section 2 [amending this section] to Congress not later than 2 years after the date of the enactment of this Act [Dec. 16, 2002].”
 
 **California Trail Interpretive Center**
 
@@ -1175,7 +1175,7 @@ Pub. L. 105–290, Oct. 27, 1998, 112 Stat. 2782, authorized appropriations for 
 
 **Sacramento to San Francisco Mail Route; Feasibility Study for Inclusion in Pony Express National Historic Trail**
 
-Pub. L. 102–328, § 2, Aug. 3, 1992, 106 Stat. 845, as amended by Pub. L. 103–437, § 6(d)(39), Nov. 2, 1994, 108 Stat. 4585, provided that the Secretary of the Interior would undertake a study of the land and water route used to carry mail from Sacramento to San Francisco, California, to determine the feasibility and suitability of designation of such route as a component of the Pony Express National Historic Trail and, if determined feasible and suitable, would designate such route as part of the trail and publish notice of such designation in the Federal Register and submit the study to Congress.
+Pub. L. 102–328, § 2, Aug. 3, 1992, 106 Stat. 845, as amended by Pub. L. 103–437, § 6(d)(39), Nov. 2, 1994, 108 Stat. 4585, provided that the Secretary of the Interior would undertake a study of the land and water route used to carry mail from Sacramento to San Francisco, California, to determine the feasibility and suitability of designation of such route as a component of the Pony Express National Historic Trail and, if determined feasible and suitable, would designate such route as part of the trail and publish notice of such designation in the Federal Register and submit the study to Congress.
 
 **De Soto Expedition Trail Commission**
 
@@ -1183,39 +1183,39 @@ Pub. L. 101–607, Nov. 16, 1990, 104 Stat. 3105, established for 4 years in the
 
 **Authorization for Development of Trails Interpretation Center in Iowa**
 
-Pub. L. 101–191, Nov. 29, 1989, 103 Stat. 1697, as amended by Pub. L. 116–9, title II, § 2411, Mar. 12, 2019, 133 Stat. 752, authorized Secretary of the Interior to provide for development of a trails interpretation center in city of Council Bluffs, Iowa, set forth provisions relating to Congressional findings and purposes, plan and design of the center and implementation thereof, agreement for operation and maintenance of the center, cooperative agreements for technical assistance, extinguishment of any restrictions, covenants, reversions, limitations, or any other conditions imposed by the Economic Development Administration upon acceptance of donated land by Secretary, and conveyance of reversionary interest if operation of the center is determined no longer to be in the public interest, and authorized appropriations of not more than $8,400,000 to carry out the Act.
+Pub. L. 101–191, Nov. 29, 1989, 103 Stat. 1697, as amended by Pub. L. 116–9, title II, § 2411, Mar. 12, 2019, 133 Stat. 752, authorized Secretary of the Interior to provide for development of a trails interpretation center in city of Council Bluffs, Iowa, set forth provisions relating to Congressional findings and purposes, plan and design of the center and implementation thereof, agreement for operation and maintenance of the center, cooperative agreements for technical assistance, extinguishment of any restrictions, covenants, reversions, limitations, or any other conditions imposed by the Economic Development Administration upon acceptance of donated land by Secretary, and conveyance of reversionary interest if operation of the center is determined no longer to be in the public interest, and authorized appropriations of not more than $8,400,000 to carry out the Act.
 
 **Southwestern Pennsylvania Industrial Heritage Route**
 
-Pub. L. 100–698, title II, §§ 201–203, Nov. 19, 1988, 102 Stat. 4622, authorized Secretary of the Interior to designate, and authorized appropriations for, a vehicular tour route to provide for public appreciation, education, understanding, and enjoyment of certain nationally and regionally significant sites in southwestern Pennsylvania.
+Pub. L. 100–698, title II, §§ 201–203, Nov. 19, 1988, 102 Stat. 4622, authorized Secretary of the Interior to designate, and authorized appropriations for, a vehicular tour route to provide for public appreciation, education, understanding, and enjoyment of certain nationally and regionally significant sites in southwestern Pennsylvania.
 
 **Lewis and Clark National Historic Trail Interpretive Center, Montana**
 
-Pub. L. 100–552, §§ 1–4, Oct. 28, 1988, 102 Stat. 2766, 2768, authorized Secretary of Agriculture to establish Lewis and Clark National Historic Trail Interpretive Center on certain lands in Montana, required the Secretary to administer the Center and to prepare a plan for development and interpretation of the Center, authorized Secretary to accept donations, enter into cooperative agreements for various services such as rescue, firefighting, law enforcement, and development and operation of facilities, authorized Secretary to enter into agreements to provide educational and interpretive materials to the public, and authorized appropriations to carry out the Act and for construction of Center and associated structures and improvements.
+Pub. L. 100–552, §§ 1–4, Oct. 28, 1988, 102 Stat. 2766, 2768, authorized Secretary of Agriculture to establish Lewis and Clark National Historic Trail Interpretive Center on certain lands in Montana, required the Secretary to administer the Center and to prepare a plan for development and interpretation of the Center, authorized Secretary to accept donations, enter into cooperative agreements for various services such as rescue, firefighting, law enforcement, and development and operation of facilities, authorized Secretary to enter into agreements to provide educational and interpretive materials to the public, and authorized appropriations to carry out the Act and for construction of Center and associated structures and improvements.
 
 **New Jersey Coastal Heritage Trail Route**
 
-Pub. L. 100–515, Oct. 20, 1988, 102 Stat. 2563, as amended by Pub. L. 103–243, May 4, 1994, 108 Stat. 613; Pub. L. 106–18, § 1, Apr. 8, 1999, 113 Stat. 28; Pub. L. 109–338, title VII, § 703(a), Oct. 12, 2006, 120 Stat. 1859; Pub. L. 110–229, title IV, § 475, May 8, 2008, 122 Stat. 827; Pub. L. 115–431, § 1(a), Jan. 10, 2019, 132 Stat. 5521; Pub. L. 116–9, title II, § 2408, Mar. 12, 2019, 133 Stat. 750, authorized Secretary of the Interior, acting through Director of National Park Service, with concurrence of agency having jurisdiction over such roads, to designate and provide for a vehicular tour route along existing public roads linking certain nationally significant natural and cultural sites associated with coastal area of State of New Jersey, to be known as New Jersey Coastal Heritage Trail Route, and provided for termination of authority under this Act on Sept. 30, 2025.
+Pub. L. 100–515, Oct. 20, 1988, 102 Stat. 2563, as amended by Pub. L. 103–243, May 4, 1994, 108 Stat. 613; Pub. L. 106–18, § 1, Apr. 8, 1999, 113 Stat. 28; Pub. L. 109–338, title VII, § 703(a), Oct. 12, 2006, 120 Stat. 1859; Pub. L. 110–229, title IV, § 475, May 8, 2008, 122 Stat. 827; Pub. L. 115–431, § 1(a), Jan. 10, 2019, 132 Stat. 5521; Pub. L. 116–9, title II, § 2408, Mar. 12, 2019, 133 Stat. 750, authorized Secretary of the Interior, acting through Director of National Park Service, with concurrence of agency having jurisdiction over such roads, to designate and provide for a vehicular tour route along existing public roads linking certain nationally significant natural and cultural sites associated with coastal area of State of New Jersey, to be known as New Jersey Coastal Heritage Trail Route, and provided for termination of authority under this Act on Sept. 30, 2025.
 
 **Laurel Highlands National Recreational Trail Designated as Part of Potomac Heritage Trail**
 
-Pub. L. 99–500, § 101(h) [title I, § 113], Oct. 18, 1986, 100 Stat. 1783–242, 1783–262, and Pub. L. 99–591, § 101(h) [title I, § 113], Oct. 30, 1986, 100 Stat. 3341–242, 3341–262, provided that: “The Secretary of the Interior is directed to designate the Laurel Highlands National Recreational Trail, as designated by the Secretary of the Interior pursuant to section 4 of the National Trails System Act [16 U.S.C. 1243], as part of the Potomac Heritage Trail, as requested by the State of Pennsylvania in its April 1984 application, subject to the provisions of paragraph (11) of section 5(a) of the National Trails System Act, as amended [16 U.S.C. 1244(a)(11)].”
+Pub. L. 99–500, § 101(h) [title I, § 113], Oct. 18, 1986, 100 Stat. 1783–242, 1783–262, and Pub. L. 99–591, § 101(h) [title I, § 113], Oct. 30, 1986, 100 Stat. 3341–242, 3341–262, provided that: “The Secretary of the Interior is directed to designate the Laurel Highlands National Recreational Trail, as designated by the Secretary of the Interior pursuant to section 4 of the National Trails System Act [16 U.S.C. 1243], as part of the Potomac Heritage Trail, as requested by the State of Pennsylvania in its April 1984 application, subject to the provisions of paragraph (11) of section 5(a) of the National Trails System Act, as amended [16 U.S.C. 1244(a)(11)].”
 
-## § 1245. Connecting or side trails; establishment, designation, and marking as components of national trails system; location
+## § 1245. Connecting or side trails; establishment, designation, and marking as components of national trails system; location
 
 Connecting or side trails within park, forest, and other recreation areas administered by the Secretary of the Interior or Secretary of Agriculture may be established, designated, and marked by the appropriate Secretary as components of a national recreation, national scenic or national historic trail. When no Federal land acquisition is involved, connecting or side trails may be located across lands administered by interstate, State, or local governmental agencies with their consent, or, where the appropriate Secretary deems necessary or desirable, on privately owned lands with the consent of the landowner. Applications for approval and designation of connecting and side trails on non-Federal lands shall be submitted to the appropriate Secretary.
 
-(Pub. L. 90–543, § 6, Oct. 2, 1968, 82 Stat. 922; Pub. L. 95–625, title V, § 551(16), Nov. 10, 1978, 92 Stat. 3515; Pub. L. 98–11, title II, § 206, Mar. 28, 1983, 97 Stat. 45.)
+(Pub. L. 90–543, § 6, Oct. 2, 1968, 82 Stat. 922; Pub. L. 95–625, title V, § 551(16), Nov. 10, 1978, 92 Stat. 3515; Pub. L. 98–11, title II, § 206, Mar. 28, 1983, 97 Stat. 45.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1983—Pub. L. 98–11 substituted “marked by the appropriate Secretary as components” for “marked as components” and “, or, where the appropriate Secretary deems necessary or desirable, on privately owned lands with the consent of the landowner. Applications for approval and designation of connecting and side trails on non-Federal lands shall be submitted to the appropriate Secretary” for “: *Provided*, That such trails provide additional points of public access to national recreation, national scenic or national historic trails”.
+1983—Pub. L. 98–11 substituted “marked by the appropriate Secretary as components” for “marked as components” and “, or, where the appropriate Secretary deems necessary or desirable, on privately owned lands with the consent of the landowner. Applications for approval and designation of connecting and side trails on non-Federal lands shall be submitted to the appropriate Secretary” for “: *Provided*, That such trails provide additional points of public access to national recreation, national scenic or national historic trails”.
 
-1978—Pub. L. 95–625 substituted “, national scenic or national historic” for “or national scenic,” and “, national scenic, or national historic” for “or scenic”.
+1978—Pub. L. 95–625 substituted “, national scenic or national historic” for “or national scenic,” and “, national scenic, or national historic” for “or scenic”.
 
-## § 1246. Administration and development of national trails system
+## § 1246. Administration and development of national trails system
 
 **(a) Consultation of Secretary with other agencies; transfer of management responsibilities; selection of rights-of-way; criteria for selection; notice; impact upon established uses**
 
@@ -1255,9 +1255,9 @@ The appropriate Secretary may utilize condemnation proceedings without the conse
 
 **(h) Development and maintenance of national, scenic or historic, trails; cooperation with States over portions located outside of federally administered areas; cooperative agreements; participation of volunteers; reservation of right-of-way for trails in conveyances by Secretary of the Interior**
 
-**(1)** The Secretary charged with the administration of a national recreation, national scenic, or national historic trail shall provide for the development and maintenance of such trails within federally administered areas and shall cooperate with and encourage the States to operate, develop, and maintain portions of such trails which are located outside the boundaries of federally administered areas. When deemed to be in the public interest, such Secretary may enter written cooperative agreements with the States or their political subdivisions, landowners, private organizations, or individuals to operate, develop, and maintain any portion of such a trail either within or outside a federally administered area. Such agreements may include provisions for limited financial assistance to encourage participation in the acquisition, protection, operation, development, or maintenance of such trails, provisions providing volunteer in the park or volunteer in the forest status (in accordance with section 102301 of title 54 and the Volunteers in the Forests Act of 1972 1
+**(1)** The Secretary charged with the administration of a national recreation, national scenic, or national historic trail shall provide for the development and maintenance of such trails within federally administered areas and shall cooperate with and encourage the States to operate, develop, and maintain portions of such trails which are located outside the boundaries of federally administered areas. When deemed to be in the public interest, such Secretary may enter written cooperative agreements with the States or their political subdivisions, landowners, private organizations, or individuals to operate, develop, and maintain any portion of such a trail either within or outside a federally administered area. Such agreements may include provisions for limited financial assistance to encourage participation in the acquisition, protection, operation, development, or maintenance of such trails, provisions providing volunteer in the park or volunteer in the forest status (in accordance with section 102301 of title 54 and the Volunteers in the Forests Act of 1972 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 [16 U.S.C. 558a et seq.]) to individuals, private organizations, or landowners participating in such activities, or provisions of both types. The appropriate Secretary shall also initiate consultations with affected States and their political subdivisions to encourage—
 
@@ -1281,85 +1281,85 @@ Potential trail uses allowed on designated components of the national trails sys
 
 For the conservation purpose of preserving or enhancing the recreational, scenic, natural, or historical values of components of the national trails system, and environs thereof as determined by the appropriate Secretary, landowners are authorized to donate or otherwise convey qualified real property interests to qualified organizations consistent with section 170(h)(3) of title 26, including, but not limited to, right-of-way, open space, scenic, or conservation easements, without regard to any limitation on the nature of the estate or interest otherwise transferable within the jurisdiction where the land is located. The conveyance of any such interest in land in accordance with this subsection shall be deemed to further a Federal conservation policy and yield a significant public benefit for purposes of section 6 of Public Law 96–541.
 
-(Pub. L. 90–543, § 7, Oct. 2, 1968, 82 Stat. 922; Pub. L. 95–248, § 1(3), (4), Mar. 21, 1978, 92 Stat. 160; Pub. L. 95–625, title V, § 551(17)–(21), Nov. 10, 1978, 92 Stat. 3515, 3516; Pub. L. 96–87, title IV, § 401(m)(2), (3), Oct. 12, 1979, 93 Stat. 666; Pub. L. 98–11, title II, § 207, Mar. 28, 1983, 97 Stat. 45; Pub. L. 113–287, § 5(d)(23), Dec. 19, 2014, 128 Stat. 3266.)
+(Pub. L. 90–543, § 7, Oct. 2, 1968, 82 Stat. 922; Pub. L. 95–248, § 1(3), (4), Mar. 21, 1978, 92 Stat. 160; Pub. L. 95–625, title V, § 551(17)–(21), Nov. 10, 1978, 92 Stat. 3515, 3516; Pub. L. 96–87, title IV, § 401(m)(2), (3), Oct. 12, 1979, 93 Stat. 666; Pub. L. 98–11, title II, § 207, Mar. 28, 1983, 97 Stat. 45; Pub. L. 113–287, § 5(d)(23), Dec. 19, 2014, 128 Stat. 3266.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Volunteers in the Forests Act of 1972, referred to in subsec. (h)(1), probably means the Volunteers in the National Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which was classified generally to former sections 558a to 558d of this title, prior to being amended generally and renamed the Volunteers in the National Forests and Public Lands Act by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913. Section 342 of Pub. L. 118–234, set out as a note under section 558a of this title, provides that a reference in any law to the Volunteers in National Forests Act of 1972 shall be deemed to be a reference to the Volunteers in the National Forests and Public Lands Act. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
+The Volunteers in the Forests Act of 1972, referred to in subsec. (h)(1), probably means the Volunteers in the National Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which was classified generally to former sections 558a to 558d of this title, prior to being amended generally and renamed the Volunteers in the National Forests and Public Lands Act by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913. Section 342 of Pub. L. 118–234, set out as a note under section 558a of this title, provides that a reference in any law to the Volunteers in National Forests Act of 1972 shall be deemed to be a reference to the Volunteers in the National Forests and Public Lands Act. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
 
 Section 6 of Public Law 96–541, referred to in subsec. (k), is section 6 of Pub. L. 96–541, Dec. 17, 1980, 94 Stat. 3206, which amended section 170 of Title 26, Internal Revenue Code, and enacted and amended provisions set out as notes under section 170 of Title 26.
 
 **Codification**
 
-In subsec. (g), “section 303 of title 49” substituted for “section 4(f) of the Department of Transportation Act (49 U.S.C. 1653(f))” on authority of Pub. L. 97–449, § 6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§ 101 et seq.) of Title 49, Transportation.
+In subsec. (g), “section 303 of title 49” substituted for “section 4(f) of the Department of Transportation Act (49 U.S.C. 1653(f))” on authority of Pub. L. 97–449, § 6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§ 101 et seq.) of Title 49, Transportation.
 
 **Amendments**
 
 2014—Subsec. (h)(1). Pub. L. 113–287 substituted “section 102301 of title 54” for “the Volunteers in the Parks Act of 1969” in introductory provisions.
 
-1983—Subsec. (a). Pub. L. 98–11, § 207(a), designated existing provisions as par. (2), added par. (1), and in par. (2) substituted “shall publish notice of the availability of appropriate maps or descriptions in the Federal Register” for “shall publish notice thereof in the Federal Register, together with appropriate maps and descriptions”.
+1983—Subsec. (a). Pub. L. 98–11, § 207(a), designated existing provisions as par. (2), added par. (1), and in par. (2) substituted “shall publish notice of the availability of appropriate maps or descriptions in the Federal Register” for “shall publish notice thereof in the Federal Register, together with appropriate maps and descriptions”.
 
-Subsec. (b). Pub. L. 98–11, § 207(b), inserted “of the availability of appropriate maps or descriptions” after “After publication of notice”, and struck out “together with appropriate maps and descriptions,” after “Federal Register,”.
+Subsec. (b). Pub. L. 98–11, § 207(b), inserted “of the availability of appropriate maps or descriptions” after “After publication of notice”, and struck out “together with appropriate maps and descriptions,” after “Federal Register,”.
 
-Subsec. (c). Pub. L. 98–11, § 207(c), inserted provision that the appropriate Secretary may also provide for trail interpretation sites, which shall be located at historic sites along the route of any national scenic or national historic trail, in order to present information to the public about the trail, at the lowest possible cost, with emphasis on the portion of the trail passing through the State in which the site is located, and that, whenever possible, the sites be maintained by a State agency under a cooperative agreement between the appropriate Secretary and the State agency.
+Subsec. (c). Pub. L. 98–11, § 207(c), inserted provision that the appropriate Secretary may also provide for trail interpretation sites, which shall be located at historic sites along the route of any national scenic or national historic trail, in order to present information to the public about the trail, at the lowest possible cost, with emphasis on the portion of the trail passing through the State in which the site is located, and that, whenever possible, the sites be maintained by a State agency under a cooperative agreement between the appropriate Secretary and the State agency.
 
-Subsec. (e). Pub. L. 98–11, § 207(d), in first sentence, substituted “subsection (f) of this section” for “subsection (g) of this section”, and inserted a further proviso authorizing the appropriate Secretary to acquire lands or interests therein from local governments or governmental corporations with the consent of such entities.
+Subsec. (e). Pub. L. 98–11, § 207(d), in first sentence, substituted “subsection (f) of this section” for “subsection (g) of this section”, and inserted a further proviso authorizing the appropriate Secretary to acquire lands or interests therein from local governments or governmental corporations with the consent of such entities.
 
-Subsec. (f). Pub. L. 98–11, § 207(e), designated existing provisions as par. (1) and added par. (2).
+Subsec. (f). Pub. L. 98–11, § 207(e), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (g). Pub. L. 98–11, § 207(f), substituted “Except for designated protected components of the trail, no land or site located” for “No land or site located” in last sentence.
+Subsec. (g). Pub. L. 98–11, § 207(f), substituted “Except for designated protected components of the trail, no land or site located” for “No land or site located” in last sentence.
 
-Subsec. (h). Pub. L. 98–11, § 207(g), designated the first of two sentences of existing provisions as par. (1) and the last sentence as par. (2); and in par. (1), as so designated, substituted “and maintain any portion of such a trail either within” for “and maintain any portion of a national scenic or national historic trail either within” and inserted third, fourth, and fifth sentences making provision for the inclusion in written cooperative agreements provisions for limited financial assistance to encourage participation in acquisition, protection, operation, development, or maintenance of trails and for volunteer in the park or volunteer in the forest status, for the initiation of consultations with affected States and their political subdivisions, and for the giving of assistance after consultation under appropriate cooperative agreements.
+Subsec. (h). Pub. L. 98–11, § 207(g), designated the first of two sentences of existing provisions as par. (1) and the last sentence as par. (2); and in par. (1), as so designated, substituted “and maintain any portion of such a trail either within” for “and maintain any portion of a national scenic or national historic trail either within” and inserted third, fourth, and fifth sentences making provision for the inclusion in written cooperative agreements provisions for limited financial assistance to encourage participation in acquisition, protection, operation, development, or maintenance of trails and for volunteer in the park or volunteer in the forest status, for the initiation of consultations with affected States and their political subdivisions, and for the giving of assistance after consultation under appropriate cooperative agreements.
 
-Subsec. (i). Pub. L. 98–11, § 207(h), added direction that the Secretary responsible for the administration of any segment of any component of the National Trails System also utilize authorities related to units of the national park system or the national forest system in carrying out his administrative responsibilities for such component.
+Subsec. (i). Pub. L. 98–11, § 207(h), added direction that the Secretary responsible for the administration of any segment of any component of the National Trails System also utilize authorities related to units of the national park system or the national forest system in carrying out his administrative responsibilities for such component.
 
-Subsecs. (j), (k). Pub. L. 98–11, § 207(i), added subsecs. (j) and (k).
+Subsecs. (j), (k). Pub. L. 98–11, § 207(i), added subsecs. (j) and (k).
 
 1979—Subsecs. (c), (g). Pub. L. 96–87 made technical amendments to section 551(18) and (21) of Pub. L. 95–625 the net result of which expanded the provisions which had been added to subsecs. (c) and (g) of this section in 1978 by section 551(18) and (21) of Pub. L. 95–625. See 1978 Amendments note below.
 
-1978—Subsec. (a). Pub. L. 95–625, § 551(17), substituted “national scenic and national historic trails” for “National Scenic Trails” in first sentence.
+1978—Subsec. (a). Pub. L. 95–625, § 551(17), substituted “national scenic and national historic trails” for “National Scenic Trails” in first sentence.
 
-Subsec. (b). Pub. L. 95–625, § 551(17), substituted “scenic or national historic” for “scenic” in two places.
+Subsec. (b). Pub. L. 95–625, § 551(17), substituted “scenic or national historic” for “scenic” in two places.
 
-Subsec. (c). Pub. L. 95–625, § 551(17), (18), as amended Pub. L. 96–87, § 401(m)(2), substituted in first sentence “scenic or national historic” for “scenic”, in second proviso “recreation, national scenic, or national historic” for “recreation or scenic” and in fifth sentence “recreation, national scenic, and national historic” for “recreation and scenic”, and inserted following fourth sentence provisions relating to trail markers and provisions requiring the Secretary to allow other uses along the historic trails and the Continental Divide National Scenic Trail which will not substantially interfere with the nature and purposes of the trail and which, at the time of designation, were allowed by administrative regulation, including the use of motor vehicles.
+Subsec. (c). Pub. L. 95–625, § 551(17), (18), as amended Pub. L. 96–87, § 401(m)(2), substituted in first sentence “scenic or national historic” for “scenic”, in second proviso “recreation, national scenic, or national historic” for “recreation or scenic” and in fifth sentence “recreation, national scenic, and national historic” for “recreation and scenic”, and inserted following fourth sentence provisions relating to trail markers and provisions requiring the Secretary to allow other uses along the historic trails and the Continental Divide National Scenic Trail which will not substantially interfere with the nature and purposes of the trail and which, at the time of designation, were allowed by administrative regulation, including the use of motor vehicles.
 
-Subsec. (d). Pub. L. 95–625, § 551(17), substituted “recreation, national scenic, or national historic” for “recreation or scenic”.
+Subsec. (d). Pub. L. 95–625, § 551(17), substituted “recreation, national scenic, or national historic” for “recreation or scenic”.
 
-Pub. L. 95–248, § 1(3), struck out proviso relating to acreage limitation of acquisition.
+Pub. L. 95–248, § 1(3), struck out proviso relating to acreage limitation of acquisition.
 
-Subsec. (e). Pub. L. 95–625, § 551(17), (19), inserted “or national historic” after “scenic” in two places and struck out from first proviso “within two years” before “after notice of the selection of the right-of-way”.
+Subsec. (e). Pub. L. 95–625, § 551(17), (19), inserted “or national historic” after “scenic” in two places and struck out from first proviso “within two years” before “after notice of the selection of the right-of-way”.
 
-Subsec. (g). Pub. L. 95–625, § 551(20), (21), as amended Pub. L. 96–87, § 401(m)(3), struck out second proviso “: *Provided further*, That condemnation is prohibited with respect to all acquisition of lands or interest in lands for the purposes of the Pacific Crest Trail” after “connecting trail right-of-way” and inserted provisions that direct Federal acquisition for trail purposes be limited to high potential route segments or high potential historic sites and that no land or site located along a designated national historic trail or along the Continental Divide Scenic Trail be subject to the provisions of section 1653(f) of title 49 unless that land be deemed to be of historical significance under appropriate historical site criteria such as those for the National Register of Historic Places.
+Subsec. (g). Pub. L. 95–625, § 551(20), (21), as amended Pub. L. 96–87, § 401(m)(3), struck out second proviso “: *Provided further*, That condemnation is prohibited with respect to all acquisition of lands or interest in lands for the purposes of the Pacific Crest Trail” after “connecting trail right-of-way” and inserted provisions that direct Federal acquisition for trail purposes be limited to high potential route segments or high potential historic sites and that no land or site located along a designated national historic trail or along the Continental Divide Scenic Trail be subject to the provisions of section 1653(f) of title 49 unless that land be deemed to be of historical significance under appropriate historical site criteria such as those for the National Register of Historic Places.
 
-Pub. L. 95–248, § 1(4), substituted “an average of one hundred and twenty-five acres per mile” for “twenty-five acres in any one mile”, and struck out limitation on exercise of authority with respect to a connecting trail right-of-way.
+Pub. L. 95–248, § 1(4), substituted “an average of one hundred and twenty-five acres per mile” for “twenty-five acres in any one mile”, and struck out limitation on exercise of authority with respect to a connecting trail right-of-way.
 
-Subsec. (h). Pub. L. 95–625, § 551(17), substituted “recreation, national scenic, or national historic” for “recreation or scenic” in first sentence, and inserted “or national historic” after “scenic” in second sentence.
+Subsec. (h). Pub. L. 95–625, § 551(17), substituted “recreation, national scenic, or national historic” for “recreation or scenic” in first sentence, and inserted “or national historic” after “scenic” in second sentence.
 
-Subsec. (i). Pub. L. 95–625, § 551(17), substituted “recreation, national scenic, or national historic” for “recreation or scenic”.
+Subsec. (i). Pub. L. 95–625, § 551(17), substituted “recreation, national scenic, or national historic” for “recreation or scenic”.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with system activities requiring coordination and approval under this chapter and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with system activities requiring coordination and approval under this chapter and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-## § 1247. State and local area recreation and historic trails
+## § 1247. State and local area recreation and historic trails
 
 **(a) Secretary of the Interior to encourage States, political subdivisions, and private interests; financial assistance for State and local projects**
 
 The Secretary of the Interior is directed to encourage States to consider, in their comprehensive statewide outdoor recreation plans and proposals for financial assistance for State and local projects submitted pursuant to chapter 2003 of title 54, needs and opportunities for establishing park, forest, and other recreation and historic trails on lands owned or administered by States, and recreation and historic trails on lands in or near urban areas. The Secretary is also directed to encourage States to consider, in their comprehensive statewide historic preservation plans and proposals for financial assistance for State, local, and private projects submitted pursuant to division A of subtitle III of title 54, needs and opportunities for establishing historic trails. He is further directed, in accordance with the authority contained in chapter 2003 of title 54),1
 
-<sup>1</sup>  So in original. The closing parenthesis preceding the comma probably should not appear. See 2014 Amendment note below.
+<sup>1</sup> So in original. The closing parenthesis preceding the comma probably should not appear. See 2014 Amendment note below.
 
 to encourage States, political subdivisions, and private interests, including nonprofit organizations, to establish such trails.
 
 **(b) Secretary of Housing and Urban Development to encourage metropolitan and other urban areas; administrative and financial assistance in connection with recreation and transportation planning; administration of urban open-space program**
 
-The Secretary of Housing and Urban Development is directed, in administering the program of comprehensive urban planning and assistance under section 701 2
+The Secretary of Housing and Urban Development is directed, in administering the program of comprehensive urban planning and assistance under section 701 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of the Housing Act of 1954, to encourage the planning of recreation trails in connection with the recreation and transportation planning for metropolitan and other urban areas. He is further directed, in administering the urban open-space program under title VII of the Housing Act of 1961 [42 U.S.C. 1500 et seq.], to encourage such recreation trails.
 
@@ -1375,15 +1375,15 @@ The Secretary of Transportation, the Chairman of the Surface Transportation Boar
 
 Such trails may be designated and suitably marked as parts of the nationwide system of trails by the States, their political subdivisions, or other appropriate administering agencies with the approval of the Secretary of the Interior.
 
-(Pub. L. 90–543, § 8, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–625, title V, § 551(22), Nov. 10, 1978, 92 Stat. 3516; Pub. L. 98–11, title II, § 208, Mar. 28, 1983, 97 Stat. 48; Pub. L. 104–88, title III, § 317(1), Dec. 29, 1995, 109 Stat. 949; Pub. L. 113–287, § 5(d)(24), Dec. 19, 2014, 128 Stat. 3266; Pub. L. 117–58, div. B, title I, § 21301(j)(1), Nov. 15, 2021, 135 Stat. 691.)
+(Pub. L. 90–543, § 8, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–625, title V, § 551(22), Nov. 10, 1978, 92 Stat. 3516; Pub. L. 98–11, title II, § 208, Mar. 28, 1983, 97 Stat. 48; Pub. L. 104–88, title III, § 317(1), Dec. 29, 1995, 109 Stat. 949; Pub. L. 113–287, § 5(d)(24), Dec. 19, 2014, 128 Stat. 3266; Pub. L. 117–58, div. B, title I, § 21301(j)(1), Nov. 15, 2021, 135 Stat. 691.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 701 of the Housing Act of 1954, referred to in subsec. (b), was classified to section 461 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 97–35, title III, § 313(b), Aug. 13, 1981, 95 Stat. 398.
+Section 701 of the Housing Act of 1954, referred to in subsec. (b), was classified to section 461 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 97–35, title III, § 313(b), Aug. 13, 1981, 95 Stat. 398.
 
-The Housing Act of 1961, referred to in subsec. (b), is Pub. L. 87–70, June 30, 1961, 75 Stat. 149. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§ 1500 et seq.) of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 5316 of Title 42 which terminated authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12, Banks and Banking, and Tables.
+The Housing Act of 1961, referred to in subsec. (b), is Pub. L. 87–70, June 30, 1961, 75 Stat. 149. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§ 1500 et seq.) of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 5316 of Title 42 which terminated authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12, Banks and Banking, and Tables.
 
 The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsec. (d), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 45, Railroads, and Tables.
 
@@ -1395,7 +1395,7 @@ The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in su
 
 1995—Subsec. (d). Pub. L. 104–88 substituted “Chairman of the Surface Transportation Board” for “Chairman of the Interstate Commerce Commission” and “the Board” for “the Commission”.
 
-1983—Subsecs. (d), (e). Pub. L. 98–11, § 208(2), added subsec. (d) and redesignated former subsec. (d) as (e).
+1983—Subsecs. (d), (e). Pub. L. 98–11, § 208(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1978—Subsec. (a). Pub. L. 95–625 inserted “and historic” after “establishing park, forest, and other recreation” and “administered by States, and recreation”, and directed the Secretary to encourage States to consider in their plans and proposals the needs and opportunities for establishing historic trails.
 
@@ -1405,7 +1405,7 @@ The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in su
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
-## § 1248. Easements and rights-of-way
+## § 1248. Easements and rights-of-way
 
 **(a) Authorization; conditions**
 
@@ -1455,13 +1455,13 @@ Prior to conducting any such sale, the Secretary shall take appropriate steps to
 
 **(2)** The term “public lands” has the same meaning given such term in the Federal Land Policy and Management Act of 1976 [43 U.S.C. 1701 et seq.].
 
-(Pub. L. 90–543, § 9, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–91, title III, § 301(b), Aug. 4, 1977, 91 Stat. 578; Pub. L. 100–470, § 3, Oct. 4, 1988, 102 Stat. 2281; Pub. L. 104–88, title III, § 317(2), Dec. 29, 1995, 109 Stat. 949; Pub. L. 113–287, § 5(d)(25), Dec. 19, 2014, 128 Stat. 3266.)
+(Pub. L. 90–543, § 9, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–91, title III, § 301(b), Aug. 4, 1977, 91 Stat. 578; Pub. L. 100–470, § 3, Oct. 4, 1988, 102 Stat. 2281; Pub. L. 104–88, title III, § 317(2), Dec. 29, 1995, 109 Stat. 949; Pub. L. 113–287, § 5(d)(25), Dec. 19, 2014, 128 Stat. 3266.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Land Policy and Management Act of 1976, referred to in subsecs. (d)(2) and (f)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsecs. (d)(2) and (f)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (f)(1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
@@ -1481,13 +1481,13 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 **Transfer of Functions**
 
-“Secretary of Energy” substituted for “Federal Power Commission” in subsec. (b) pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
+“Secretary of Energy” substituted for “Federal Power Commission” in subsec. (b) pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
 **Abandoned Railroad Grants; Congressional Findings**
 
-Pub. L. 100–470, § 2, Oct. 4, 1988, 102 Stat. 2281, provided that:
+Pub. L. 100–470, § 2, Oct. 4, 1988, 102 Stat. 2281, provided that:
 
 > “Congress hereby finds that—
 
@@ -1499,7 +1499,7 @@ Pub. L. 100–470, § 2, Oct. 4, 1988, 102 Stat. 2281, provided that:
 
 **Condemnation**
 
-Pub. L. 100–470, § 5, Oct. 4, 1988, 102 Stat. 2283, provided that:
+Pub. L. 100–470, § 5, Oct. 4, 1988, 102 Stat. 2283, provided that:
 
 > **“(a)** Nothing in this Act [amending this section and section 1244 of this title and enacting provisions set out as notes under this section and section 1241 of this title] shall be construed as authorizing the Secretary of the Interior to use condemnation proceedings to retain or acquire all or any portion of a right-of-way described in this Act.
 
@@ -1509,9 +1509,9 @@ Pub. L. 100–470, § 5, Oct. 4, 1988, 102 Stat. 2283, provided that:
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with system activities requiring coordination and approval under this chapter and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with system activities requiring coordination and approval under this chapter and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-## § 1249. Authorization of appropriations
+## § 1249. Authorization of appropriations
 
 **(a) Appalachian and Pacific Crest National Scenic Trails**
 
@@ -1541,7 +1541,7 @@ Except as otherwise provided in this chapter, there are authorized to be appropr
 
 The administering agency for the trail shall encourage volunteer trail groups to participate in the development of the trail.
 
-(Pub. L. 90–543, § 10, Oct. 2, 1968, 82 Stat. 926; Pub. L. 95–248, § 1(5), Mar. 21, 1978, 92 Stat. 160; Pub. L. 95–625, title V, § 551(23), Nov. 10, 1978, 92 Stat. 3517; Pub. L. 96–199, title I, § 101(b)(4), Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–370, § 1(b), Oct. 3, 1980, 94 Stat. 1360; Pub. L. 98–11, title II, § 209, Mar. 28, 1983, 97 Stat. 48; Pub. L. 100–35, § 1(b), May 8, 1987, 101 Stat. 302; Pub. L. 100–192, § 2, Dec. 16, 1987, 101 Stat. 1309; Pub. L. 101–365, § 2(b), Aug. 15, 1990, 104 Stat. 429; Pub. L. 103–437, § 6(d)(38), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(J), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 108–352, § 14(2), Oct. 21, 2004, 118 Stat. 1397; Pub. L. 111–11, title V, § 5301(b), Mar. 30, 2009, 123 Stat. 1161; Pub. L. 113–287, § 5(d)(26), Dec. 19, 2014, 128 Stat. 3266.)
+(Pub. L. 90–543, § 10, Oct. 2, 1968, 82 Stat. 926; Pub. L. 95–248, § 1(5), Mar. 21, 1978, 92 Stat. 160; Pub. L. 95–625, title V, § 551(23), Nov. 10, 1978, 92 Stat. 3517; Pub. L. 96–199, title I, § 101(b)(4), Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–370, § 1(b), Oct. 3, 1980, 94 Stat. 1360; Pub. L. 98–11, title II, § 209, Mar. 28, 1983, 97 Stat. 48; Pub. L. 100–35, § 1(b), May 8, 1987, 101 Stat. 302; Pub. L. 100–192, § 2, Dec. 16, 1987, 101 Stat. 1309; Pub. L. 101–365, § 2(b), Aug. 15, 1990, 104 Stat. 429; Pub. L. 103–437, § 6(d)(38), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(J), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 108–352, § 14(2), Oct. 21, 2004, 118 Stat. 1397; Pub. L. 111–11, title V, § 5301(b), Mar. 30, 2009, 123 Stat. 1161; Pub. L. 113–287, § 5(d)(26), Dec. 19, 2014, 128 Stat. 3266.)
 
 **Editorial Notes**
 
@@ -1569,15 +1569,15 @@ Public Law 95–42 (91 Stat. 211), referred to in subsec. (b), is Pub. L. 95–4
 
 1990—Subsec. (c)(2). Pub. L. 101–365 amended first sentence generally. Prior to amendment, first sentence read as follows: “There is hereby authorized to be appropriated for fiscal year 1983 and subsequent fiscal years such sums as may be necessary to implement the provisions of this chapter relating to the trails designated by paragraphs (9), (10), (11), (12), (13), (15), and (16) of section 1244(a) of this title.”
 
-1987—Subsec. (c)(2). Pub. L. 100–192 substituted “, (10), (11), (12), (13), (15), and (16)” for “through (13) and (15)”.
+1987—Subsec. (c)(2). Pub. L. 100–192 substituted “, (10), (11), (12), (13), (15), and (16)” for “through (13) and (15)”.
 
 Pub. L. 100–35 inserted “and (15)” after “(13)”.
 
-1983—Subsec. (a)(1). Pub. L. 98–11, § 209(1), (2), inserted “(a)(1)” before “There are hereby authorized to be appropriated” at beginning of undesignated opening paragraph, and substituted “for the” for “(a) The” before “Appalachian National Scenic Trail” at beginning of former subsec. (a).
+1983—Subsec. (a)(1). Pub. L. 98–11, § 209(1), (2), inserted “(a)(1)” before “There are hereby authorized to be appropriated” at beginning of undesignated opening paragraph, and substituted “for the” for “(a) The” before “Appalachian National Scenic Trail” at beginning of former subsec. (a).
 
-Subsec. (a)(2). Pub. L. 98–11, § 209(3), (4), inserted “(2)” before sentence beginning “It is the express intent of the Congress” and substituted “protection of the Appalachian Trail” for “protection of the Trail”.
+Subsec. (a)(2). Pub. L. 98–11, § 209(3), (4), inserted “(2)” before sentence beginning “It is the express intent of the Congress” and substituted “protection of the Appalachian Trail” for “protection of the Trail”.
 
-Subsec. (c). Pub. L. 98–11, § 209(5), designated existing provisions as par. (1), inserted provision that funds may be expended for the acquisition of lands or interests therein for the purpose of providing for one trail interpretation site, as described in section 1246(c) of this title, and added par. (2).
+Subsec. (c). Pub. L. 98–11, § 209(5), designated existing provisions as par. (1), inserted provision that funds may be expended for the acquisition of lands or interests therein for the purpose of providing for one trail interpretation site, as described in section 1246(c) of this title, and added par. (2).
 
 1980—Subsec. (c). Pub. L. 96–370 substituted “(7), (8), (9), and (10)” for “(7), and (8)” and inserted reference to the Ice Age National Scenic Trail.
 
@@ -1593,25 +1593,25 @@ Subsec. (c). Pub. L. 95–625 added subsec. (c).
 
 **Effective Date of Appropriation Authorizations Under Pub. L. 98–11; Contract Authority**
 
-Pub. L. 98–11, title I, § 101, Mar. 28, 1983, 97 Stat. 42, provided that: “Authorizations of appropriations under this Act [enacting sections 1250 and 1251 of this title, amending this section and sections 1241 to 1247 of this title, and enacting provisions set out as a note under section 1241 of this title] shall be effective only for the fiscal year beginning on October 1, 1983, and subsequent fiscal years. Notwithstanding any other provision of this Act, authority to enter into contracts, and to make payments, under this Act shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.”
+Pub. L. 98–11, title I, § 101, Mar. 28, 1983, 97 Stat. 42, provided that: “Authorizations of appropriations under this Act [enacting sections 1250 and 1251 of this title, amending this section and sections 1241 to 1247 of this title, and enacting provisions set out as a note under section 1241 of this title] shall be effective only for the fiscal year beginning on October 1, 1983, and subsequent fiscal years. Notwithstanding any other provision of this Act, authority to enter into contracts, and to make payments, under this Act shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.”
 
 **Appropriations for Overmountain Victory National Historic Trail and Ice Age National Scenic Trail; Effective Date; Contract Authority**
 
-Pub. L. 96–370, § 2, Oct. 3, 1980, 94 Stat. 1360, provided that: “Authorizations of moneys to be appropriated under this Act [amending sections 1244 and 1249 of this title] shall be effective on October 1, 1981. Notwithstanding any other provision of this Act, authority to enter into contracts, to incur obligations, or to make payments under this Act shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.”
+Pub. L. 96–370, § 2, Oct. 3, 1980, 94 Stat. 1360, provided that: “Authorizations of moneys to be appropriated under this Act [amending sections 1244 and 1249 of this title] shall be effective on October 1, 1981. Notwithstanding any other provision of this Act, authority to enter into contracts, to incur obligations, or to make payments under this Act shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.”
 
-## § 1250. Volunteer trails assistance
+## § 1250. Volunteer trails assistance
 
 **(a) Volunteer planning, development, maintenance, and management of trails**
 
 **(1)** In addition to the cooperative agreement and other authorities contained in this chapter, the Secretary of the Interior, the Secretary of Agriculture, and the head of any Federal agency administering Federal lands, are authorized to encourage volunteers and volunteer organizations to plan, develop, maintain, and manage, where appropriate, trails throughout the Nation.
 
-**(2)** Wherever appropriate in furtherance of the purposes of this chapter, the Secretaries are authorized and encouraged to utilize section 102301 of title 54, the Volunteers in the Forests Act of 1972 1
+**(2)** Wherever appropriate in furtherance of the purposes of this chapter, the Secretaries are authorized and encouraged to utilize section 102301 of title 54, the Volunteers in the Forests Act of 1972 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-[16 U.S.C. 558a et seq.], and 200305 2
+[16 U.S.C. 558a et seq.], and 200305 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “section”.
+<sup>2</sup> So in original. Probably should be preceded by “section”.
 
 of title 54 (relating to the development of Statewide Comprehensive Outdoor Recreation Plans).
 
@@ -1625,19 +1625,19 @@ of title 54 (relating to the development of Statewide Comprehensive Outdoor Recr
 
 The appropriate Secretary or the head of any Federal land managing agency may utilize and make available Federal facilities, equipment, tools, and technical assistance to volunteers and volunteer organizations, subject to such limitations and restrictions as the appropriate Secretary or the head of any Federal land managing agency deems necessary or desirable.
 
-(Pub. L. 90–543, § 11, as added Pub. L. 98–11, title II, § 210, Mar. 28, 1983, 97 Stat. 49; amended Pub. L. 113–287, § 5(d)(27), Dec. 19, 2014, 128 Stat. 3267.)
+(Pub. L. 90–543, § 11, as added Pub. L. 98–11, title II, § 210, Mar. 28, 1983, 97 Stat. 49; amended Pub. L. 113–287, § 5(d)(27), Dec. 19, 2014, 128 Stat. 3267.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Volunteers in the Forests Act of 1972, referred to in subsec. (a)(2), probably means the Volunteers in the National Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which was classified generally to former sections 558a to 558d of this title, prior to being amended generally and renamed the Volunteers in the National Forests and Public Lands Act by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913. Section 342 of Pub. L. 118–234, set out as a note under section 558a of this title, provides that a reference in any law to the Volunteers in National Forests Act of 1972 shall be deemed to be a reference to the Volunteers in the National Forests and Public Lands Act. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
+The Volunteers in the Forests Act of 1972, referred to in subsec. (a)(2), probably means the Volunteers in the National Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which was classified generally to former sections 558a to 558d of this title, prior to being amended generally and renamed the Volunteers in the National Forests and Public Lands Act by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913. Section 342 of Pub. L. 118–234, set out as a note under section 558a of this title, provides that a reference in any law to the Volunteers in National Forests Act of 1972 shall be deemed to be a reference to the Volunteers in the National Forests and Public Lands Act. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
 
 **Amendments**
 
 2014—Subsec. (a)(2). Pub. L. 113–287 substituted “section 102301 of title 54” for “the Volunteers in the Parks Act of 1969” and “200305 of title 54” for “section 460*l*–8 of this title”.
 
-## § 1251. Definitions
+## § 1251. Definitions
 
 As used in this chapter:
 
@@ -1649,7 +1649,7 @@ As used in this chapter:
 
 **(4)** The term “without expense to the United States” means that no funds may be expended by Federal agencies for the development of trail related facilities or for the acquisition of lands or interests in lands outside the exterior boundaries of Federal areas. For the purposes of the preceding sentence, amounts made available to any State or political subdivision under chapter 2003 of title 54 or any other provision of law shall not be treated as an expense to the United States.
 
-(Pub. L. 90–543, § 12, as added Pub. L. 98–11, title II, § 210, Mar. 28, 1983, 97 Stat. 50; amended Pub. L. 113–287, § 5(d)(28), Dec. 19, 2014, 128 Stat. 3267.)
+(Pub. L. 90–543, § 12, as added Pub. L. 98–11, title II, § 210, Mar. 28, 1983, 97 Stat. 50; amended Pub. L. 113–287, § 5(d)(28), Dec. 19, 2014, 128 Stat. 3267.)
 
 **Editorial Notes**
 

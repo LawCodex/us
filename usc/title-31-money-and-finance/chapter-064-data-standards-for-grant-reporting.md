@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 64—DATA STANDARDS FOR GRANT REPORTING
 
-## § 6401. Definitions
+## § 6401. Definitions
 
 In this chapter:
 
@@ -59,21 +59,21 @@ In this chapter:
 
 **(8) State.—** The term “State” means each State of the United States, the District of Columbia, each commonwealth, territory, or possession of the United States, and each federally recognized Indian Tribe.
 
-(Added Pub. L. 116–103, § 4(a), Dec. 30, 2019, 133 Stat. 3267.)
+(Added Pub. L. 116–103, § 4(a), Dec. 30, 2019, 133 Stat. 3267.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 116–103, § 1(a), Dec. 30, 2019, 133 Stat. 3266, provided that: “This Act [enacting this chapter, amending sections 7502 and 7505 of this title, and enacting provisions set out as notes under this section and sections 6402 and 7505 of this title] may be cited as the ‘Grant Reporting Efficiency and Agreements Transparency Act of 2019’ or the ‘GREAT Act’.”
+Pub. L. 116–103, § 1(a), Dec. 30, 2019, 133 Stat. 3266, provided that: “This Act [enacting this chapter, amending sections 7502 and 7505 of this title, and enacting provisions set out as notes under this section and sections 6402 and 7505 of this title] may be cited as the ‘Grant Reporting Efficiency and Agreements Transparency Act of 2019’ or the ‘GREAT Act’.”
 
 **Rule of Construction**
 
-Pub. L. 116–103, § 8, Dec. 30, 2019, 133 Stat. 3271, provided that: “Nothing in this Act [see Short Title note set out above], or the amendments made by this Act, shall be construed to require the collection of data that is not otherwise required under any Federal law, rule, or regulation.”
+Pub. L. 116–103, § 8, Dec. 30, 2019, 133 Stat. 3271, provided that: “Nothing in this Act [see Short Title note set out above], or the amendments made by this Act, shall be construed to require the collection of data that is not otherwise required under any Federal law, rule, or regulation.”
 
 **Purposes**
 
-Pub. L. 116–103, § 2, Dec. 30, 2019, 133 Stat. 3266, provided that:
+Pub. L. 116–103, § 2, Dec. 30, 2019, 133 Stat. 3266, provided that:
 
 > “The purposes of this Act [see Short Title note set out above] are to—
 
@@ -87,9 +87,9 @@ Pub. L. 116–103, § 2, Dec. 30, 2019, 133 Stat. 3266, provided that:
 
 **Definitions**
 
-Pub. L. 116–103, § 3, Dec. 30, 2019, 133 Stat. 3267, provided that: “In this Act [see Short Title note set out above], the terms ‘agency’, ‘Director’, ‘Federal award’, and ‘Secretary’ have the meanings given those terms in section 6401 of title 31, United States Code, as added by section 4(a) of this Act.”
+Pub. L. 116–103, § 3, Dec. 30, 2019, 133 Stat. 3267, provided that: “In this Act [see Short Title note set out above], the terms ‘agency’, ‘Director’, ‘Federal award’, and ‘Secretary’ have the meanings given those terms in section 6401 of title 31, United States Code, as added by section 4(a) of this Act.”
 
-## § 6402. Data standards for grant reporting
+## § 6402. Data standards for grant reporting
 
 **(a) In General.—**
 
@@ -137,7 +137,7 @@ Pub. L. 116–103, § 3, Dec. 30, 2019, 133 Stat. 3267, provided that: “In t
 
 **(6)** State and local governments.
 
-(Added Pub. L. 116–103, § 4(a), Dec. 30, 2019, 133 Stat. 3268.)
+(Added Pub. L. 116–103, § 4(a), Dec. 30, 2019, 133 Stat. 3268.)
 
 **Editorial Notes**
 
@@ -151,7 +151,7 @@ The Federal Funding Accountability and Transparency Act of 2006, referred to in 
 
 **Consolidation of Assistance-Related Information; Publication of Public Information as Open Data**
 
-Pub. L. 116–103, § 6, Dec. 30, 2019, 133 Stat. 3270, provided that:
+Pub. L. 116–103, § 6, Dec. 30, 2019, 133 Stat. 3270, provided that:
 
 > **“(a) Collection of Information.—** Not later than 5 years after the date of enactment of this Act [Dec. 30, 2019], the Secretary and the Director shall, using the data standards established under chapter 64 of title 31, United States Code, as added by section 4(a) of this Act, enable the collection, public display, and maintenance of Federal award information as a Governmentwide data set, subject to reasonable restrictions established by the Director to ensure protection of personally identifiable information and otherwise sensitive information.
 
@@ -163,7 +163,7 @@ Pub. L. 116–103, § 6, Dec. 30, 2019, 133 Stat. 3270, provided that:
 
 **Evaluation of Nonproprietary Identifiers**
 
-Pub. L. 116–103, § 7, Dec. 30, 2019, 133 Stat. 3270, provided that:
+Pub. L. 116–103, § 7, Dec. 30, 2019, 133 Stat. 3270, provided that:
 
 > **“(a) Determination Required.—** The Director and the Secretary shall determine whether to use nonproprietary identifiers described in section 6402(a)(3)(B) of title 31, United States Code, as added by section 4(a) of this Act.
 
@@ -173,7 +173,7 @@ Pub. L. 116–103, § 7, Dec. 30, 2019, 133 Stat. 3270, provided that:
 
 [For definitions of terms used in section 7 of Pub. L. 116–103, set out above, see section 3 of Pub. L. 116–103, set out as a note under section 6401 of this title.]
 
-## § 6403. Guidance applying data standards for grant reporting
+## § 6403. Guidance applying data standards for grant reporting
 
 **(a) In General.—** Not later than 3 years after the date of enactment of this chapter—
 
@@ -199,7 +199,7 @@ Pub. L. 116–103, § 7, Dec. 30, 2019, 133 Stat. 3270, provided that:
 
 **(2) Procedures.—** In updating guidance under paragraph (1), the Director shall, to the maximum extent practicable, follow the procedures for the development of the data standards and guidance prescribed under this section and section 6402.
 
-(Added Pub. L. 116–103, § 4(a), Dec. 30, 2019, 133 Stat. 3269.)
+(Added Pub. L. 116–103, § 4(a), Dec. 30, 2019, 133 Stat. 3269.)
 
 **Editorial Notes**
 
@@ -207,7 +207,7 @@ Pub. L. 116–103, § 7, Dec. 30, 2019, 133 Stat. 3270, provided that:
 
 The date of enactment of this chapter, referred to in subsec. (a), is the date of enactment of Pub. L. 116–103, which was approved Dec. 30, 2019.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under section 5301 of Title 25 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -215,7 +215,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-## § 6404. Agency requirements
+## § 6404. Agency requirements
 
 Not later than 1 year after the date on which guidance is issued or updated under subsection (b) or (c), respectively, of section 6403, the head of each agency shall—
 
@@ -223,4 +223,4 @@ Not later than 1 year after the date on which guidance is issued or updated unde
 
 **(2)** amend existing information collection requests under chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”) to comply with the data standards established under section 6402 of this chapter, in accordance with the guidance issued by the Secretary and the Director under section 6403 of this chapter.
 
-(Added Pub. L. 116–103, § 4(a), Dec. 30, 2019, 133 Stat. 3269.)
+(Added Pub. L. 116–103, § 4(a), Dec. 30, 2019, 133 Stat. 3269.)

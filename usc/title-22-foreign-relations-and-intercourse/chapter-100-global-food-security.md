@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 100—GLOBAL FOOD SECURITY
 
-## § 9301. Findings
+## § 9301. Findings
 
 Congress finds that a comprehensive approach to sustainable food and nutrition security should not only respond to emergency food shortages, but should also address malnutrition, resilience to food and nutrition insecurity, building the capacity of poor, rural populations to improve their agricultural productivity and incomes, removing institutional impediments to agricultural development, value chain access and efficiency, including processing and storage, enhancing agribusiness development, access to markets and activities that address the specific needs and barriers facing women and small-scale producers, education, and collaborative research.
 
-(Pub. L. 114–195, § 2, July 20, 2016, 130 Stat. 675; Pub. L. 117–263, div. E, title LV, § 5588(a), Dec. 23, 2022, 136 Stat. 3375.)
+(Pub. L. 114–195, § 2, July 20, 2016, 130 Stat. 675; Pub. L. 117–263, div. E, title LV, § 5588(a), Dec. 23, 2022, 136 Stat. 3375.)
 
 **Editorial Notes**
 
@@ -41,11 +41,11 @@ Congress finds that a comprehensive approach to sustainable food and nutrition s
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–266, § 1, Oct. 11, 2018, 132 Stat. 3755, provided that: “This Act [amending sections 2292a, 9305, and 9307 of this title] may be cited as the ‘Global Food Security Reauthorization Act of 2017’.”
+Pub. L. 115–266, § 1, Oct. 11, 2018, 132 Stat. 3755, provided that: “This Act [amending sections 2292a, 9305, and 9307 of this title] may be cited as the ‘Global Food Security Reauthorization Act of 2017’.”
 
 **Short Title**
 
-Pub. L. 114–195, § 1, July 20, 2016, 130 Stat. 675, provided that: “This Act [enacting this chapter and amending sections 2292 and 2292a of this title] may be cited as the ‘Global Food Security Act of 2016’.”
+Pub. L. 114–195, § 1, July 20, 2016, 130 Stat. 675, provided that: “This Act [enacting this chapter and amending sections 2292 and 2292a of this title] may be cited as the ‘Global Food Security Act of 2016’.”
 
 **Global Malnutrition Prevention and Treatment**
 
@@ -203,7 +203,7 @@ Pub. L. 117–214, Oct. 19, 2022, 136 Stat. 2252, provided that:
 
 > “The requirements of this Act and the amendments made by this Act shall terminate on the date that is 7 years after the date of the enactment of this Act [Oct. 19, 2022].”
 
-## § 9302. Statement of policy objectives; sense of Congress
+## § 9302. Statement of policy objectives; sense of Congress
 
 **(a) Statement of policy objectives** It is in the national interest of the United States to promote global food security, resilience, and nutrition, consistent with national food security investment plans, which is reinforced through comprehensive, multi-sectoral programs, activities, and initiatives that consider agriculture and food systems in their totality and that—
 
@@ -227,13 +227,13 @@ Pub. L. 117–214, Oct. 19, 2022, 136 Stat. 2252, provided that:
 
 **(6)** improve the nutritional status of women, adolescent girls, and children, with a focus on reducing child stunting and incidence of wasting, including through the promotion of highly nutritious foods, diet diversification, large-scale food fortification, and nutritional behaviors that improve maternal and child health and nutrition, especially during the first 1,000-day window until a child reaches 2 years of age;
 
-**(7)** demonstrably meet, align with and leverage broader United States strategies and investments in trade, economic growth, national security, combating fragility, resilience, science and technology, natural resource management 1
+**(7)** demonstrably meet, align with and leverage broader United States strategies and investments in trade, economic growth, national security, combating fragility, resilience, science and technology, natural resource management 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 agriculture research and extension, maternal and child health, nutrition,,2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 including deworming, and water, sanitation, and hygiene;
 
@@ -249,27 +249,27 @@ including deworming, and water, sanitation, and hygiene;
 
 **(3)** utilize open and streamlined solicitations to allow for the participation of a wide range of implementing partners through the most appropriate procurement mechanisms, which may include grants, contracts, cooperative agreements, and other instruments as necessary and appropriate.
 
-(Pub. L. 114–195, § 3, July 20, 2016, 130 Stat. 676; Pub. L. 117–263, div. E, title LV, § 5588(b), Dec. 23, 2022, 136 Stat. 3375.)
+(Pub. L. 114–195, § 3, July 20, 2016, 130 Stat. 676; Pub. L. 117–263, div. E, title LV, § 5588(b), Dec. 23, 2022, 136 Stat. 3375.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–263, § 5588(b)(1), in introductory provisions, substituted “comprehensive, multi-sectoral programs, activities, and initiatives that consider agriculture and food systems in their totality and that” for “programs, activities, and initiatives that”.
+2022—Subsec. (a). Pub. L. 117–263, § 5588(b)(1), in introductory provisions, substituted “comprehensive, multi-sectoral programs, activities, and initiatives that consider agriculture and food systems in their totality and that” for “programs, activities, and initiatives that”.
 
-Subsec. (a)(1). Pub. L. 117–263, § 5588(b)(2), substituted “, economic freedom, and security through the phasing, sequencing, and coordination” for “and economic freedom through the coordination”.
+Subsec. (a)(1). Pub. L. 117–263, § 5588(b)(2), substituted “, economic freedom, and security through the phasing, sequencing, and coordination” for “and economic freedom through the coordination”.
 
-Subsec. (a)(3), (4). Pub. L. 117–263, § 5588(b)(3), added pars. (3) and (4) and struck out former pars. (3) and (4) which read as follows:
+Subsec. (a)(3), (4). Pub. L. 117–263, § 5588(b)(3), added pars. (3) and (4) and struck out former pars. (3) and (4) which read as follows:
 
 “(3) increase the productivity, incomes, and livelihoods of small-scale producers, especially women, by working across agricultural value chains, enhancing local capacity to manage agricultural resources effectively and expanding producer access to local and international markets;
 
 “(4) build resilience to food shocks among vulnerable populations and households while reducing reliance upon emergency food assistance;”.
 
-Subsec. (a)(6). Pub. L. 117–263, § 5588(b)(4), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “improve the nutritional status of women and children, with a focus on reducing child stunting, including through the promotion of highly nutritious foods, diet diversification, and nutritional behaviors that improve maternal and child health;”.
+Subsec. (a)(6). Pub. L. 117–263, § 5588(b)(4), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “improve the nutritional status of women and children, with a focus on reducing child stunting, including through the promotion of highly nutritious foods, diet diversification, and nutritional behaviors that improve maternal and child health;”.
 
-Subsec. (a)(7). Pub. L. 117–263, § 5588(b)(5), substituted “combating fragility, resilience, science and technology, natural resource management” for “science and technology,” and inserted “, including deworming,” after “nutrition,”.
+Subsec. (a)(7). Pub. L. 117–263, § 5588(b)(5), substituted “combating fragility, resilience, science and technology, natural resource management” for “science and technology,” and inserted “, including deworming,” after “nutrition,”.
 
-## § 9303. Definitions
+## § 9303. Definitions
 
 In this chapter:
 
@@ -365,41 +365,41 @@ The term “target country” means a developing country that is selected to par
 
 **(B)** in the case of children, is characterized by low weight for height and weakened immunity, increasing their risk of death due to greater frequency and severity of common infection, particularly when severe.
 
-(Pub. L. 114–195, § 4, July 20, 2016, 130 Stat. 676; Pub. L. 115–254, div. F, title VI, § 1470(s), Oct. 5, 2018, 132 Stat. 3519; Pub. L. 117–263, div. E, title LV, § 5588(c), Dec. 23, 2022, 136 Stat. 3376.)
+(Pub. L. 114–195, § 4, July 20, 2016, 130 Stat. 676; Pub. L. 115–254, div. F, title VI, § 1470(s), Oct. 5, 2018, 132 Stat. 3519; Pub. L. 117–263, div. E, title LV, § 5588(c), Dec. 23, 2022, 136 Stat. 3376.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Par. (2). Pub. L. 117–263, § 5588(c)(1), inserted “, including in response to shocks and stresses to food and nutrition security” before period at end.
+2022—Par. (2). Pub. L. 117–263, § 5588(c)(1), inserted “, including in response to shocks and stresses to food and nutrition security” before period at end.
 
-Pars. (4) to (6). Pub. L. 117–263, § 5588(c)(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7).
+Pars. (4) to (6). Pub. L. 117–263, § 5588(c)(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7).
 
-Par. (6)(H). Pub. L. 117–263, § 5588(c)(4), amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “agricultural producers, including farmer organizations, cooperatives, small-scale producers, and women; and”.
+Par. (6)(H). Pub. L. 117–263, § 5588(c)(4), amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “agricultural producers, including farmer organizations, cooperatives, small-scale producers, and women; and”.
 
-Par. (7). Pub. L. 117–263, § 5588(c)(2), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+Par. (7). Pub. L. 117–263, § 5588(c)(2), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-Par. (8). Pub. L. 117–263, § 5588(c)(5), which directed amendment of “paragraph (7), as redesignated” by inserting “the Inter-American Foundation,” after “United States African Development Foundation,” was executed by making the amendment in par. (8), as redesignated, to reflect the probable intent of Congress. Par. (7), as redesignated by Pub. L. 117–263, § 5588(c)(2), does not contain the words “United States African Development Foundation,”.
+Par. (8). Pub. L. 117–263, § 5588(c)(5), which directed amendment of “paragraph (7), as redesignated” by inserting “the Inter-American Foundation,” after “United States African Development Foundation,” was executed by making the amendment in par. (8), as redesignated, to reflect the probable intent of Congress. Par. (7), as redesignated by Pub. L. 117–263, § 5588(c)(2), does not contain the words “United States African Development Foundation,”.
 
-Pub. L. 117–263, § 5588(c)(2), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+Pub. L. 117–263, § 5588(c)(2), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-Par. (9). Pub. L. 117–263, § 5588(c)(2), (6), redesignated par. (8) as (9) and inserted “agriculture and food” before “systems” and “, including global food catastrophes,” after “food security”. Former par. (9) redesignated (10).
+Par. (9). Pub. L. 117–263, § 5588(c)(2), (6), redesignated par. (8) as (9) and inserted “agriculture and food” before “systems” and “, including global food catastrophes,” after “food security”. Former par. (9) redesignated (10).
 
-Par. (10). Pub. L. 117–263, § 5588(c)(2), (7), redesignated par. (9) as (10) and substituted “artisanal fishing communities” for “fishers”. Former par. (10) redesignated (11).
+Par. (10). Pub. L. 117–263, § 5588(c)(2), (7), redesignated par. (9) as (10) and substituted “artisanal fishing communities” for “fishers”. Former par. (10) redesignated (11).
 
-Par. (11). Pub. L. 117–263, § 5588(c)(2), redesignated par. (10) as (11). Former par. (11) redesignated (12).
+Par. (11). Pub. L. 117–263, § 5588(c)(2), redesignated par. (10) as (11). Former par. (11) redesignated (12).
 
-Par. (11)(D), (E). Pub. L. 117–263, § 5588(c)(8), amended subpars. (D) and (E) generally. Prior to amendment, subpars. (D) and (E) read as follows:
+Par. (11)(D), (E). Pub. L. 117–263, § 5588(c)(8), amended subpars. (D) and (E) generally. Prior to amendment, subpars. (D) and (E) read as follows:
 
 “(D) is a sign of chronic malnutrition; and
 
 “(E) can lead to long-term poor health, delayed motor development, impaired cognitive function, and decreased immunity.”
 
-Par. (12). Pub. L. 117–263, § 5588(c)(2), redesignated par. (11) as (12). Former par. (12) redesignated (13).
+Par. (12). Pub. L. 117–263, § 5588(c)(2), redesignated par. (11) as (12). Former par. (12) redesignated (13).
 
-Par. (13). Pub. L. 117–263, § 5588(c)(2), (9), redesignated par. (12) as (13) and substituted “food and nutrition security and agriculture-led economic growth” for “agriculture and nutrition security”.
+Par. (13). Pub. L. 117–263, § 5588(c)(2), (9), redesignated par. (12) as (13) and substituted “food and nutrition security and agriculture-led economic growth” for “agriculture and nutrition security”.
 
-Par. (14). Pub. L. 117–263, § 5588(c)(10), added par. (14).
+Par. (14). Pub. L. 117–263, § 5588(c)(10), added par. (14).
 
 2018—Par. (7). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
 
@@ -409,7 +409,7 @@ Par. (14). Pub. L. 117–263, § 5588(c)(10), added par. (14).
 
 Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of this title, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
-## § 9304. Comprehensive Global Food Security Strategy
+## § 9304. Comprehensive Global Food Security Strategy
 
 **(a) Strategy** The President shall coordinate the development and implementation of a United States whole-of-government strategy to accomplish the policy objectives set forth in section 9302(a) of this title, which shall—
 
@@ -481,47 +481,47 @@ Not later than October 1, 2016, the President, in consultation with the head of 
 
 Not less frequently than quinquennially through fiscal year 2030, the President, in consultation with the head of each relevant Federal department and agency, shall submit to the appropriate congressional committees updates to the Global Food Security Strategy required under subsection (a) and the agency-specific plans described in subsection (c)(2).
 
-(Pub. L. 114–195, § 5, July 20, 2016, 130 Stat. 678; Pub. L. 117–263, div. E, title LV, § 5588(d), (e), Dec. 23, 2022, 136 Stat. 3377, 3378.)
+(Pub. L. 114–195, § 5, July 20, 2016, 130 Stat. 678; Pub. L. 117–263, div. E, title LV, § 5588(d), (e), Dec. 23, 2022, 136 Stat. 3377, 3378.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a)(4). Pub. L. 117–263, § 5588(d)(1), substituted “partner country-led agriculture, nutrition, regulatory, food security, and water resources management policy and investment plans and governance systems” for “country-owned agriculture, nutrition, and food security policy and investment plans”.
+2022—Subsec. (a)(4). Pub. L. 117–263, § 5588(d)(1), substituted “partner country-led agriculture, nutrition, regulatory, food security, and water resources management policy and investment plans and governance systems” for “country-owned agriculture, nutrition, and food security policy and investment plans”.
 
-Subsec. (a)(5). Pub. L. 117–263, § 5588(d)(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “support inclusive agricultural value chain development, with small-scale producers, especially women, gaining greater access to the inputs, skills, resource management capacity, networking, bargaining power, financing, and market linkages needed to sustain their long-term economic prosperity;”.
+Subsec. (a)(5). Pub. L. 117–263, § 5588(d)(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “support inclusive agricultural value chain development, with small-scale producers, especially women, gaining greater access to the inputs, skills, resource management capacity, networking, bargaining power, financing, and market linkages needed to sustain their long-term economic prosperity;”.
 
-Subsec. (a)(6). Pub. L. 117–263, § 5588(d)(3), inserted “, adolescent girls,” after “women” and “and preventing incidence of wasting” after “reducing child stunting”.
+Subsec. (a)(6). Pub. L. 117–263, § 5588(d)(3), inserted “, adolescent girls,” after “women” and “and preventing incidence of wasting” after “reducing child stunting”.
 
-Subsec. (a)(7). Pub. L. 117–263, § 5588(d)(4), inserted “poor water resource management and” after “including”.
+Subsec. (a)(7). Pub. L. 117–263, § 5588(d)(4), inserted “poor water resource management and” after “including”.
 
-Subsec. (a)(8). Pub. L. 117–263, § 5588(d)(5), substituted “long-term impact” for “the long-term success of programs” and inserted “, including agricultural research capacity,” after “institutions”.
+Subsec. (a)(8). Pub. L. 117–263, § 5588(d)(5), substituted “long-term impact” for “the long-term success of programs” and inserted “, including agricultural research capacity,” after “institutions”.
 
-Subsec. (a)(9). Pub. L. 117–263, § 5588(d)(6), substituted “coordinate with and complement relevant strategies to ensure that chronically vulnerable populations are better able to adapt,” for “integrate resilience and nutrition strategies into food security programs, such that chronically vulnerable populations are better able to”.
+Subsec. (a)(9). Pub. L. 117–263, § 5588(d)(6), substituted “coordinate with and complement relevant strategies to ensure that chronically vulnerable populations are better able to adapt,” for “integrate resilience and nutrition strategies into food security programs, such that chronically vulnerable populations are better able to”.
 
-Subsec. (a)(10), (11). Pub. L. 117–263, § 5588(d)(9), added pars. (10) and (11) and struck out former pars. (10) and (11) which read as follows:
+Subsec. (a)(10), (11). Pub. L. 117–263, § 5588(d)(9), added pars. (10) and (11) and struck out former pars. (10) and (11) which read as follows:
 
 “(10) develop community and producer resilience to natural disasters, emergencies, and natural occurrences that adversely impact agricultural yield;
 
 “(11) harness science, technology, and innovation, including the research and extension activities supported by relevant Federal Departments and agencies and Feed the Future Innovation Labs, or any successor entities;”.
 
-Subsec. (a)(12), (13). Pub. L. 117–263, § 5588(d)(9), added pars. (12) and (13). Former pars. (12) and (13) redesignated (14) and (15), respectively.
+Subsec. (a)(12), (13). Pub. L. 117–263, § 5588(d)(9), added pars. (12) and (13). Former pars. (12) and (13) redesignated (14) and (15), respectively.
 
-Subsec. (a)(14). Pub. L. 117–263, § 5588(d)(8), redesignated par. (12) as (14). Former par. (14) redesignated (16).
+Subsec. (a)(14). Pub. L. 117–263, § 5588(d)(8), redesignated par. (12) as (14). Former par. (14) redesignated (16).
 
-Subsec. (a)(15). Pub. L. 117–263, § 5588(d)(8), (10), redesignated par. (13) as (15) and inserted “nongovernmental organizations, including” after “civil society,”. Former par. (15) redesignated (17).
+Subsec. (a)(15). Pub. L. 117–263, § 5588(d)(8), (10), redesignated par. (13) as (15) and inserted “nongovernmental organizations, including” after “civil society,”. Former par. (15) redesignated (17).
 
-Subsec. (a)(16). Pub. L. 117–263, § 5588(d)(8), (11), redesignated par. (14) as (16) and inserted “and coordination, as appropriate,” after “collaboration”. Former par. (16) redesignated (18).
+Subsec. (a)(16). Pub. L. 117–263, § 5588(d)(8), (11), redesignated par. (14) as (16) and inserted “and coordination, as appropriate,” after “collaboration”. Former par. (16) redesignated (18).
 
-Subsec. (a)(17). Pub. L. 117–263, § 5588(d)(8), redesignated par. (15) as (17). Former par. (17) redesignated (22).
+Subsec. (a)(17). Pub. L. 117–263, § 5588(d)(8), redesignated par. (15) as (17). Former par. (17) redesignated (22).
 
-Subsec. (a)(18). Pub. L. 117–263, § 5588(d)(8), (12), redesignated par. (16) as (18) and substituted “section 9307(a)(4) of this title;” for “section 9307(b)(4) of this title; and”.
+Subsec. (a)(18). Pub. L. 117–263, § 5588(d)(8), (12), redesignated par. (16) as (18) and substituted “section 9307(a)(4) of this title;” for “section 9307(b)(4) of this title; and”.
 
-Subsec. (a)(19) to (21). Pub. L. 117–263, § 5588(d)(13), added pars. (19) to (21).
+Subsec. (a)(19) to (21). Pub. L. 117–263, § 5588(d)(13), added pars. (19) to (21).
 
-Subsec. (a)(22). Pub. L. 117–263, § 5588(d)(7), redesignated par. (17) as (22).
+Subsec. (a)(22). Pub. L. 117–263, § 5588(d)(7), redesignated par. (17) as (22).
 
-Subsec. (d). Pub. L. 117–263, § 5588(e), added subsec. (d).
+Subsec. (d). Pub. L. 117–263, § 5588(e), added subsec. (d).
 
 **Executive Documents**
 
@@ -545,7 +545,7 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 Barack Obama.
 
-## § 9305. Assistance to implement the Global Food Security Strategy
+## § 9305. Assistance to implement the Global Food Security Strategy
 
 **(a) Food shortages**
 
@@ -559,13 +559,13 @@ There is authorized to be appropriated to the Secretary of State and the Adminis
 
 The President shall seek to ensure that assistance to implement the Global Food Security Strategy is provided under established parameters for a rigorous accountability system to monitor and evaluate progress and impact of the strategy, including by reporting to the appropriate congressional committees and the public on an annual basis.
 
-(Pub. L. 114–195, § 6, July 20, 2016, 130 Stat. 680; Pub. L. 115–266, § 2(a), Oct. 11, 2018, 132 Stat. 3755; Pub. L. 117–263, div. E, title LV, § 5588(f), Dec. 23, 2022, 136 Stat. 3378.)
+(Pub. L. 114–195, § 6, July 20, 2016, 130 Stat. 680; Pub. L. 115–266, § 2(a), Oct. 11, 2018, 132 Stat. 3755; Pub. L. 117–263, div. E, title LV, § 5588(f), Dec. 23, 2022, 136 Stat. 3378.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Title XII of chapter 2 of part I of the Act is classified generally to subpart XII (§ 2220a et seq.) of part II of subchapter I of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Title XII of chapter 2 of part I of the Act is classified generally to subpart XII (§ 2220a et seq.) of part II of subchapter I of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Amendments**
 
@@ -579,11 +579,11 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 
 Functions of President under subsec. (a) of this section delegated to the Secretary of State and the Administrator of the United States Agency for International Development, and under subsec. (c) of this section to the Administrator of the United States Agency for International Development, by Memorandum of President of the United States, Sept. 30, 2016, 81 F.R. 76483, set out as a note under section 9304 of this title.
 
-## § 9306. Emergency Food Security Program
+## § 9306. Emergency Food Security Program
 
 It shall be the policy of the United States, in coordination with other donors, regional governments, international organizations, and international financial institutions, to fully leverage, enhance, and expand the impact and reach of available United States humanitarian resources, including for food assistance, to mitigate the effects of manmade and natural disasters by utilizing innovative new approaches to delivering aid that support affected persons and the communities hosting them, build resilience and early recovery, and reduce opportunities for waste, fraud, and abuse.
 
-(Pub. L. 114–195, § 7, July 20, 2016, 130 Stat. 680; Pub. L. 117–263, div. E, title LV, § 5588(g)(1), Dec. 23, 2022, 136 Stat. 3378.)
+(Pub. L. 114–195, § 7, July 20, 2016, 130 Stat. 680; Pub. L. 117–263, div. E, title LV, § 5588(g)(1), Dec. 23, 2022, 136 Stat. 3378.)
 
 **Editorial Notes**
 
@@ -595,7 +595,7 @@ Section is comprised of section 7 of Pub. L. 114–195. Subsec. (c)(1) of sectio
 
 2022—Pub. L. 117–263 struck out subsec. (b) designation and heading before “It shall be” and struck out subsec. (a) which related to sense of Congress regarding challenges of providing international disaster assistance, especially in Syria.
 
-## § 9307. Reports
+## § 9307. Reports
 
 **(a) Global Food Security Strategy implementation reports** For each of the fiscal years through 2028, the President shall submit to the appropriate congressional committees a report that describes the status of the implementation of the Global Food Security Strategy during the preceding year, which shall—
 
@@ -627,9 +627,9 @@ Section is comprised of section 7 of Pub. L. 114–195. Subsec. (c)(1) of sectio
 
 **(14)** describe how agriculture research is prioritized within the Global Food Security Strategy to support agriculture-led growth and eventual self-sufficiency and assess efforts to coordinate research programs within the Global Food Security Strategy with key stakeholders;
 
-**(15)** identify any United States legal or regulatory impediments that could obstruct the effective implementation of the programming referred to in paragraphs (8) and (9); 1
+**(15)** identify any United States legal or regulatory impediments that could obstruct the effective implementation of the programming referred to in paragraphs (8) and (9); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(16)** contain a clear gender analysis of programming, to inform project-level activities, that includes established disaggregated gender indicators to better analyze outcomes for food productivity, income growth, control of assets, equity in access to inputs, jobs and markets, and nutrition;
 
@@ -653,43 +653,43 @@ Section is comprised of section 7 of Pub. L. 114–195. Subsec. (c)(1) of sectio
 
 The information referred to in subsections (a) and (b) shall be made available on the public website of the United States Agency for International Development in an open, machine readable format, in a timely manner.
 
-(Pub. L. 114–195, § 8, July 20, 2016, 130 Stat. 682; Pub. L. 115–266, § 3, Oct. 11, 2018, 132 Stat. 3755; Pub. L. 117–263, div. E, title LV, § 5588(h), Dec. 23, 2022, 136 Stat. 3379.)
+(Pub. L. 114–195, § 8, July 20, 2016, 130 Stat. 682; Pub. L. 115–266, § 3, Oct. 11, 2018, 132 Stat. 3755; Pub. L. 117–263, div. E, title LV, § 5588(h), Dec. 23, 2022, 136 Stat. 3379.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Paragraphs (8) and (9), referred to in subsec. (a)(15), were redesignated as pars. (10) and (11), respectively, of subsec. (a) of this section by Pub. L. 117–263, div. E, title LV, § 5588(h)(5), Dec. 23, 2022, 136 Stat. 3379.
+Paragraphs (8) and (9), referred to in subsec. (a)(15), were redesignated as pars. (10) and (11), respectively, of subsec. (a) of this section by Pub. L. 117–263, div. E, title LV, § 5588(h)(5), Dec. 23, 2022, 136 Stat. 3379.
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–263, § 5588(h)(1), in introductory provisions, substituted “For each of the fiscal years through 2028,” for “During each of the first 7 years after the date of the submission of the strategy required under section 9304(c) of this title,”, “a report that describes” for “reports that describe”, and “during the preceding year” for “at the end of the reporting period”.
+2022—Subsec. (a). Pub. L. 117–263, § 5588(h)(1), in introductory provisions, substituted “For each of the fiscal years through 2028,” for “During each of the first 7 years after the date of the submission of the strategy required under section 9304(c) of this title,”, “a report that describes” for “reports that describe”, and “during the preceding year” for “at the end of the reporting period”.
 
-Subsec. (a)(2). Pub. L. 117–263, § 5588(h)(2), inserted “, including any changes to the target countries selected pursuant to the selection criteria described in section 9304(a)(2) of this title and justifications for any such changes” before semicolon at end.
+Subsec. (a)(2). Pub. L. 117–263, § 5588(h)(2), inserted “, including any changes to the target countries selected pursuant to the selection criteria described in section 9304(a)(2) of this title and justifications for any such changes” before semicolon at end.
 
-Subsec. (a)(3). Pub. L. 117–263, § 5588(h)(3), inserted “identify and” before “describe”.
+Subsec. (a)(3). Pub. L. 117–263, § 5588(h)(3), inserted “identify and” before “describe”.
 
-Subsec. (a)(4) to (6). Pub. L. 117–263, § 5588(h)(6), added pars. (4) to (6) and struck out former par. (4) which read as follows: “identify the indicators used to establish benchmarks and measure results over time, as well as the mechanisms for reporting such results in an open and transparent manner;”. Former pars. (5) and (6) redesignated (7) and (8), respectively.
+Subsec. (a)(4) to (6). Pub. L. 117–263, § 5588(h)(6), added pars. (4) to (6) and struck out former par. (4) which read as follows: “identify the indicators used to establish benchmarks and measure results over time, as well as the mechanisms for reporting such results in an open and transparent manner;”. Former pars. (5) and (6) redesignated (7) and (8), respectively.
 
-Subsec. (a)(7). Pub. L. 117–263, § 5588(h)(5), (7), redesignated par. (5) as (7) and substituted “food” for “agriculture”. Former par. (7) redesignated (9).
+Subsec. (a)(7). Pub. L. 117–263, § 5588(h)(5), (7), redesignated par. (5) as (7) and substituted “food” for “agriculture”. Former par. (7) redesignated (9).
 
-Subsec. (a)(8). Pub. L. 117–263, § 5588(h)(5), (8), redesignated par. (6) as (8) and inserted “quantitative and qualitative” after “how” and “at the initiative, country, and zone of influence levels, including longitudinal data and key uncertainties” before semicolon at end. Former par. (8) redesignated (10).
+Subsec. (a)(8). Pub. L. 117–263, § 5588(h)(5), (8), redesignated par. (6) as (8) and inserted “quantitative and qualitative” after “how” and “at the initiative, country, and zone of influence levels, including longitudinal data and key uncertainties” before semicolon at end. Former par. (8) redesignated (10).
 
-Subsec. (a)(9). Pub. L. 117–263, § 5588(h)(5), (9), redesignated par. (7) as (9) and inserted “within target countries, amounts and justification for any spending outside of target countries” after “amounts spent”. Former par. (9) redesignated (11).
+Subsec. (a)(9). Pub. L. 117–263, § 5588(h)(5), (9), redesignated par. (7) as (9) and inserted “within target countries, amounts and justification for any spending outside of target countries” after “amounts spent”. Former par. (9) redesignated (11).
 
-Subsec. (a)(10) to (12). Pub. L. 117–263, § 5588(h)(5), redesignated pars. (8), (9), and (10) as (10), (11), and (12), respectively. Former pars. (10), (11), and (12) redesignated (12), (13), and (15), respectively.
+Subsec. (a)(10) to (12). Pub. L. 117–263, § 5588(h)(5), redesignated pars. (8), (9), and (10) as (10), (11), and (12), respectively. Former pars. (10), (11), and (12) redesignated (12), (13), and (15), respectively.
 
-Subsec. (a)(13). Pub. L. 117–263, § 5588(h)(5), (10), redesignated par. (11) as (13) and substituted “and efforts to encourage financial donor burden sharing and the impact of such investment and efforts” for “and the impact of private sector investment”.
+Subsec. (a)(13). Pub. L. 117–263, § 5588(h)(5), (10), redesignated par. (11) as (13) and substituted “and efforts to encourage financial donor burden sharing and the impact of such investment and efforts” for “and the impact of private sector investment”.
 
-Subsec. (a)(14). Pub. L. 117–263, § 5588(h)(11), added par. (14). Former par. (14) redesignated (17).
+Subsec. (a)(14). Pub. L. 117–263, § 5588(h)(11), added par. (14). Former par. (14) redesignated (17).
 
-Subsec. (a)(15). Pub. L. 117–263, § 5588(h)(4), redesignated par. (12) as (15).
+Subsec. (a)(15). Pub. L. 117–263, § 5588(h)(4), redesignated par. (12) as (15).
 
-Subsec. (a)(16). Pub. L. 117–263, § 5588(h)(4), (12), redesignated par. (13) as (16) and struck out “and” at end.
+Subsec. (a)(16). Pub. L. 117–263, § 5588(h)(4), (12), redesignated par. (13) as (16) and struck out “and” at end.
 
-Subsec. (a)(17). Pub. L. 117–263, § 5588(h)(4), (13), redesignated par. (14) as (17) and inserted “, including key challenges or missteps,” after “lessons learned” and substituted “; and” for period at end.
+Subsec. (a)(17). Pub. L. 117–263, § 5588(h)(4), (13), redesignated par. (14) as (17) and inserted “, including key challenges or missteps,” after “lessons learned” and substituted “; and” for period at end.
 
-Subsec. (a)(18). Pub. L. 117–263, § 5588(h)(14), added par. (18).
+Subsec. (a)(18). Pub. L. 117–263, § 5588(h)(14), added par. (18).
 
 2018—Subsec. (a). Pub. L. 115–266 substituted, in introductory provisions, “During each of the first 7 years” for “Not later than 1 year and 2 years” and “at the end of the reporting period” for “for 2017 and 2018”.
 
@@ -699,7 +699,7 @@ Subsec. (a)(18). Pub. L. 117–263, § 5588(h)(14), added par. (18).
 
 Functions of President under subsec. (a) of this section delegated to the Administrator of the United States Agency for International Development by Memorandum of President of the United States, Sept. 30, 2016, 81 F.R. 76483, set out as a note under section 9304 of this title.
 
-## § 9308. Rule of construction
+## § 9308. Rule of construction
 
 **(a) Effect on other programs**
 
@@ -711,13 +711,13 @@ Nothing in the Global Food Security Strategy or this chapter or the amendments m
 
 **(2)** The Food for Progress Act of 1985 (7 U.S.C. 1736*o*).
 
-**(3)** Section 416(b) of the Agriculture 1
+**(3)** Section 416(b) of the Agriculture 1
 
-<sup>1</sup>  So in original. Probably should be “Agricultural”.
+<sup>1</sup> So in original. Probably should be “Agricultural”.
 
 Act of 1949 (7 U.S.C. 1431).2
 
-<sup>2</sup>  So in original. Probably should be “1431(b)).”
+<sup>2</sup> So in original. Probably should be “1431(b)).”
 
 **(4)** McGovern-Dole Food for Education Program (7 U.S.C. 1736*o*–1).
 
@@ -727,7 +727,7 @@ Act of 1949 (7 U.S.C. 1431).2
 
 **(7)** Any other food and nutrition security and emergency and non-emergency food assistance program of the Department of Agriculture.
 
-(Pub. L. 114–195, § 9, July 20, 2016, 130 Stat. 684.)
+(Pub. L. 114–195, § 9, July 20, 2016, 130 Stat. 684.)
 
 **Editorial Notes**
 
@@ -735,8 +735,8 @@ Act of 1949 (7 U.S.C. 1431).2
 
 The amendments made by this Act, referred to in subsec. (a), are the amendments made by Pub. L. 114–195, section 7(c) of which amended sections 2292 and 2292a of this title.
 
-The Food for Peace Act, referred to in subsec. (b)(1), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (b)(1), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-The Food for Progress Act of 1985, referred to in subsec. (b)(2), is Pub. L. 99–198, title XI, § 1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736*o* of Title 7, Agriculture.
+The Food for Progress Act of 1985, referred to in subsec. (b)(2), is Pub. L. 99–198, title XI, § 1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736*o* of Title 7, Agriculture.
 
-The Bill Emerson Humanitarian Trust Act, referred to in subsec. (b)(6), is title III of Pub. L. 96–494, as added by Pub. L. 104–127, title II, § 225(a), Apr. 4, 1996, 110 Stat. 959, which is classified to section 1736f–1 of Title 7, Agriculture.
+The Bill Emerson Humanitarian Trust Act, referred to in subsec. (b)(6), is title III of Pub. L. 96–494, as added by Pub. L. 104–127, title II, § 225(a), Apr. 4, 1996, 110 Stat. 959, which is classified to section 1736f–1 of Title 7, Agriculture.

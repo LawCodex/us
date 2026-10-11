@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 106—COMMODITY PROGRAMS
 
-## § 7901. Definitions
+## § 7901. Definitions
 
 In this chapter (other than subchapter III):
 
@@ -91,7 +91,7 @@ The term “target price” means the price per bushel (or other appropriate uni
 
 The term “United States”, when used in a geographical sense, means all of the States.
 
-(Pub. L. 107–171, title I, § 1001, May 13, 2002, 116 Stat. 143; Pub. L. 108–7, div. A, title VII, § 763(a), Feb. 20, 2003, 117 Stat. 46.)
+(Pub. L. 107–171, title I, § 1001, May 13, 2002, 116 Stat. 143; Pub. L. 108–7, div. A, title VII, § 763(a), Feb. 20, 2003, 117 Stat. 46.)
 
 **Editorial Notes**
 
@@ -99,9 +99,9 @@ The term “United States”, when used in a geographical sense, means all of th
 
 This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 143, which enacted this chapter and section 1308–3a of this title, amended sections 1301, 1308 to 1308–3, 1308–4, 1308–5, 1314b, 1359aa to 1359kk, 1361, 1371, 1373, 1378, 1428, 1441, 1637a, 4501 to 4504, 4507, 4553, 6402, 6414, 6998, 7001, 7235, 7272, 7282 to 7284, 7286, and 7301 of this title, and sections 713a–4 and 714c of Title 15, Commerce and Trade, repealed sections 1339a, 1357 to 1359a, and 7271 of this title and section 3830a of Title 16, Conservation, and enacted provisions set out as notes under sections 1308 and 7272 of this title. For complete classification of title I to the Code, see Tables.
 
-Subchapter III, referred to in text, was in the original “subtitle C”, meaning subtitle C (§§ 1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
+Subchapter III, referred to in text, was in the original “subtitle C”, meaning subtitle C (§§ 1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
-The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Amendments**
 
@@ -111,19 +111,19 @@ The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch.
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–7, div. A, title VII, § 763(d), Feb. 20, 2003, 117 Stat. 47, provided that: “This section [amending this section and sections 7932 and 7934 of this title] and the amendments made by this section apply beginning with the 2003 crop of other oilseeds (as defined in section 1001 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 7901)), dry peas, lentils, and small chickpeas.”
+Pub. L. 108–7, div. A, title VII, § 763(d), Feb. 20, 2003, 117 Stat. 47, provided that: “This section [amending this section and sections 7932 and 7934 of this title] and the amendments made by this section apply beginning with the 2003 crop of other oilseeds (as defined in section 1001 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 7901)), dry peas, lentils, and small chickpeas.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–171, title I, § 1001, Feb. 8, 2006, 120 Stat. 4, provided that: “This title [amending sections 2009cc–18, 2655, 7621, 7913, 7937, 7953, 7982, and 8106 of this title and sections 3838a, 3839aa–2, 3839aa–7, and 3841 of Title 16, Conservation, and enacting provisions set out as a note under section 7937 of this title] may be cited as the ‘Agricultural Reconciliation Act of 2005’.”
+Pub. L. 109–171, title I, § 1001, Feb. 8, 2006, 120 Stat. 4, provided that: “This title [amending sections 2009cc–18, 2655, 7621, 7913, 7937, 7953, 7982, and 8106 of this title and sections 3838a, 3839aa–2, 3839aa–7, and 3841 of Title 16, Conservation, and enacting provisions set out as a note under section 7937 of this title] may be cited as the ‘Agricultural Reconciliation Act of 2005’.”
 
 **Short Title**
 
-Pub. L. 107–171, § 1(a), May 13, 2002, 116 Stat. 134, provided that: “This Act [see Tables for classification] may be cited as the ‘Farm Security and Rural Investment Act of 2002’.”
+Pub. L. 107–171, § 1(a), May 13, 2002, 116 Stat. 134, provided that: “This Act [see Tables for classification] may be cited as the ‘Farm Security and Rural Investment Act of 2002’.”
 
 ## SUBCHAPTER I—DIRECT PAYMENTS AND COUNTER-CYCLICAL PAYMENTS
 
-### § 7911. Establishment of base acres and payment acres for a farm
+### § 7911. Establishment of base acres and payment acres for a farm
 
 **(a) Election by owner of base acres calculation method**
 
@@ -231,23 +231,23 @@ The Secretary shall take into account section 7952(f) of this title when applyin
 
 The owner of a farm may reduce, at any time, the base acres for any covered commodity for the farm. The reduction shall be permanent and made in the manner prescribed by the Secretary.
 
-(Pub. L. 107–171, title I, § 1101, May 13, 2002, 116 Stat. 144.)
+(Pub. L. 107–171, title I, § 1101, May 13, 2002, 116 Stat. 144.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter III, referred to in subsec. (g)(1), (2)(A), (3), was in the original “subtitle C”, meaning subtitle C (§§ 1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
+Subchapter III, referred to in subsec. (g)(1), (2)(A), (3), was in the original “subtitle C”, meaning subtitle C (§§ 1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (g)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§ 3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (g)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§ 3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Popcorn Acreage**
 
-Pub. L. 108–7, div. A, title VII, § 767, Feb. 20, 2003, 117 Stat. 48, formerly set out as a note under this section, was transferred and is set out as a note under section 9011 of this title.
+Pub. L. 108–7, div. A, title VII, § 767, Feb. 20, 2003, 117 Stat. 48, formerly set out as a note under this section, was transferred and is set out as a note under section 9011 of this title.
 
-### § 7912. Establishment of payment yield
+### § 7912. Establishment of payment yield
 
 **(a) Establishment and purpose**
 
@@ -309,7 +309,7 @@ If the yield per planted acre for a crop of the covered commodity for a farm for
 
 The owner of a farm may not elect the method described in paragraph (3)(A) for 1 covered commodity on the farm and the method described in paragraph (3)(B) for other covered commodities on the farm.
 
-(Pub. L. 107–171, title I, § 1102, May 13, 2002, 116 Stat. 147.)
+(Pub. L. 107–171, title I, § 1102, May 13, 2002, 116 Stat. 147.)
 
 **Editorial Notes**
 
@@ -317,7 +317,7 @@ The owner of a farm may not elect the method described in paragraph (3)(A) for 1
 
 Section 1465 of this title, referred to in subsec. (b), was omitted from the Code.
 
-### § 7913. Availability of direct payments
+### § 7913. Availability of direct payments
 
 **(a) Payment required**
 
@@ -367,7 +367,7 @@ At the option of the producers on a farm, up to 50 percent of the direct payment
 
 If a producer on a farm that receives an advance direct payment for a crop year ceases to be a producer on that farm, or the extent to which the producer shares in the risk of producing a crop changes, before the date the remainder of the direct payment is made, the producer shall be responsible for repaying the Secretary the applicable amount of the advance payment, as determined by the Secretary.
 
-(Pub. L. 107–171, title I, § 1103, May 13, 2002, 116 Stat. 149; Pub. L. 109–171, title I, § 1102(a), Feb. 8, 2006, 120 Stat. 5.)
+(Pub. L. 107–171, title I, § 1103, May 13, 2002, 116 Stat. 149; Pub. L. 109–171, title I, § 1102(a), Feb. 8, 2006, 120 Stat. 5.)
 
 **Editorial Notes**
 
@@ -375,7 +375,7 @@ If a producer on a farm that receives an advance direct payment for a crop year 
 
 2006—Subsec. (d)(2). Pub. L. 109–171 substituted “2005 crop years, up to 40 percent of the direct payment for a covered commodity for the 2006 crop year, and up to 22 percent of the direct payment for a covered commodity for the 2007 crop year,” for “2007 crop years”.
 
-### § 7914. Availability of counter-cyclical payments
+### § 7914. Availability of counter-cyclical payments
 
 **(a) Payment required**
 
@@ -509,15 +509,15 @@ For the 2007 crop year, the first partial payment under paragraph (3) to the pro
 
 The producers on a farm that receive a partial payment under this subsection for a crop year shall repay to the Secretary the amount, if any, by which the total of the partial payments exceed the actual counter-cyclical payment to be made for the covered commodity for that crop year.
 
-(Pub. L. 107–171, title I, § 1104, May 13, 2002, 116 Stat. 150.)
+(Pub. L. 107–171, title I, § 1104, May 13, 2002, 116 Stat. 150.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter II, referred to in subsec. (b)(1)(B), was in the original “subtitle B”, meaning subtitle B (§§ 1201–1209) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 155, which is classified principally to subchapter II of this chapter. For complete classification of subtitle B to the Code, see Tables.
+Subchapter II, referred to in subsec. (b)(1)(B), was in the original “subtitle B”, meaning subtitle B (§§ 1201–1209) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 155, which is classified principally to subchapter II of this chapter. For complete classification of subtitle B to the Code, see Tables.
 
-### § 7915. Producer agreement required as condition of provision of direct payments and counter-cyclical payments
+### § 7915. Producer agreement required as condition of provision of direct payments and counter-cyclical payments
 
 **(a) Compliance with certain requirements**
 
@@ -563,19 +563,19 @@ In carrying out this subchapter, the Secretary shall provide adequate safeguards
 
 The Secretary shall provide for the sharing of direct payments and counter-cyclical payments among the producers on a farm on a fair and equitable basis.
 
-(Pub. L. 107–171, title I, § 1105, May 13, 2002, 116 Stat. 152.)
+(Pub. L. 107–171, title I, § 1105, May 13, 2002, 116 Stat. 152.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
-Subchapter III, referred to in subsec. (a)(1)(D), was in the original “subtitle C”, meaning subtitle C (§§ 1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
+Subchapter III, referred to in subsec. (a)(1)(D), was in the original “subtitle C”, meaning subtitle C (§§ 1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
-Subchapter II, referred to in subsec. (c), was in the original “subtitle B”, meaning subtitle B (§§ 1201–1209) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat, 155, which is classified principally to subchapter II of this chapter. For complete classification of subtitle B to the Code, see Tables.
+Subchapter II, referred to in subsec. (c), was in the original “subtitle B”, meaning subtitle B (§§ 1201–1209) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat, 155, which is classified principally to subchapter II of this chapter. For complete classification of subtitle B to the Code, see Tables.
 
-### § 7916. Planting flexibility
+### § 7916. Planting flexibility
 
 **(a) Permitted crops**
 
@@ -615,9 +615,9 @@ The planting of an agricultural commodity specified in paragraph (3) that is pro
 
 For the 2002 crop year only, if the calculation of base acres under section 7911(a) of this title results in total base acres for a farm in excess of the contract acreage (as defined in section 7202 of this title) for the farm used to calculate the fiscal year 2002 payment authorized under section 7214 of this title, paragraphs (1) and (2) of subsection (b) shall not limit the harvesting of an agricultural commodity specified in paragraph (3) of that subsection on the excess base acres, except that direct payments and counter-cyclical payments for the 2002 crop year shall be reduced by an acre for each acre of the excess base acres planted to such an agricultural commodity.
 
-(Pub. L. 107–171, title I, § 1106, May 13, 2002, 116 Stat. 153.)
+(Pub. L. 107–171, title I, § 1106, May 13, 2002, 116 Stat. 153.)
 
-### § 7917. Relation to remaining payment authority under production flexibility contracts
+### § 7917. Relation to remaining payment authority under production flexibility contracts
 
 **(a) Termination of superseded payment authority**
 
@@ -627,17 +627,17 @@ Notwithstanding section 7213(a)(7) of this title or any other provision of law, 
 
 If a producer receives all or any portion of the payment authorized for fiscal year 2002 under a production flexibility contract, the Secretary shall reduce the amount of the direct payment otherwise due the producer for the 2002 crop year under section 7913 of this title by the amount of the fiscal year 2002 payment received by the producer under the production flexibility contract.
 
-(Pub. L. 107–171, title I, § 1107, May 13, 2002, 116 Stat. 154.)
+(Pub. L. 107–171, title I, § 1107, May 13, 2002, 116 Stat. 154.)
 
-### § 7918. Period of effectiveness
+### § 7918. Period of effectiveness
 
 This subchapter shall be effective beginning with the 2002 crop year of each covered commodity through the 2007 crop year.
 
-(Pub. L. 107–171, title I, § 1108, May 13, 2002, 116 Stat. 155.)
+(Pub. L. 107–171, title I, § 1108, May 13, 2002, 116 Stat. 155.)
 
 ## SUBCHAPTER II—MARKETING ASSISTANCE LOANS AND LOAN DEFICIENCY PAYMENTS
 
-### § 7931. Availability of nonrecourse marketing assistance loans for loan commodities
+### § 7931. Availability of nonrecourse marketing assistance loans for loan commodities
 
 **(a) Nonrecourse loans available**
 
@@ -665,19 +665,19 @@ As a condition of the receipt of a marketing assistance loan under subsection (a
 
 Notwithstanding section 131 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7231), nonrecourse marketing assistance loans shall not be made for the 2002 crop of loan commodities under subtitle C of title I of such Act [7 U.S.C. 7231 et seq.].
 
-(Pub. L. 107–171, title I, § 1201, May 13, 2002, 116 Stat. 155.)
+(Pub. L. 107–171, title I, § 1201, May 13, 2002, 116 Stat. 155.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in subsec. (c), was in the original “this subtitle”, meaning subtitle B (§§ 1201–1209) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 155, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
+This subchapter, referred to in subsec. (c), was in the original “this subtitle”, meaning subtitle B (§§ 1201–1209) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 155, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
 
-The Food Security Act of 1985, referred to in subsec. (d), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (d), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
-The Federal Agriculture Improvement and Reform Act of 1996, referred to in subsec. (e), is Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 888. Subtitle C of title I of the Act is classified generally to subchapter III (§ 7231 et seq.) of chapter 100 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
+The Federal Agriculture Improvement and Reform Act of 1996, referred to in subsec. (e), is Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 888. Subtitle C of title I of the Act is classified generally to subchapter III (§ 7231 et seq.) of chapter 100 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
 
-### § 7932. Loan rates for nonrecourse marketing assistance loans
+### § 7932. Loan rates for nonrecourse marketing assistance loans
 
 **(a) 2002 and 2003 crop years** For purposes of the 2002 and 2003 crop years, the loan rate for a marketing assistance loan under section 7931 of this title for a loan commodity shall be equal to the following:
 
@@ -799,17 +799,17 @@ The Secretary shall establish a single loan rate in each county for each kind of
 
 **(3)** in the case of small chickpeas, United States number 3 small chickpeas that drop below a 20/64 screen.
 
-(Pub. L. 107–171, title I, § 1202, May 13, 2002, 116 Stat. 155; Pub. L. 108–7, div. A, title VII, § 763(b), Feb. 20, 2003, 117 Stat. 46.)
+(Pub. L. 107–171, title I, § 1202, May 13, 2002, 116 Stat. 155; Pub. L. 108–7, div. A, title VII, § 763(b), Feb. 20, 2003, 117 Stat. 46.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2003—Subsec. (a)(10). Pub. L. 108–7, § 763(b)(1), added par. (10) and struck out former par. (10) which read as follows: “In the case of other oilseeds, $0.0960 per pound.”
+2003—Subsec. (a)(10). Pub. L. 108–7, § 763(b)(1), added par. (10) and struck out former par. (10) which read as follows: “In the case of other oilseeds, $0.0960 per pound.”
 
-Subsec. (b)(10). Pub. L. 108–7, § 763(b)(2), added par. (10) and struck out former par. (10) which read as follows: “In the case of other oilseeds, $0.0930 per pound.”
+Subsec. (b)(10). Pub. L. 108–7, § 763(b)(2), added par. (10) and struck out former par. (10) which read as follows: “In the case of other oilseeds, $0.0930 per pound.”
 
-Subsecs. (c), (d). Pub. L. 108–7, § 763(b)(3), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 108–7, § 763(b)(3), added subsecs. (c) and (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -817,7 +817,7 @@ Subsecs. (c), (d). Pub. L. 108–7, § 763(b)(3), added subsecs. (c) and (d).
 
 Amendment by Pub. L. 108–7 applicable beginning with the 2003 crop of other oilseeds, dry peas, lentils, and small chickpeas, see section 763(d) of Pub. L. 108–7, set out as a note under section 7901 of this title.
 
-### § 7933. Term of loans
+### § 7933. Term of loans
 
 **(a) Term of loan**
 
@@ -827,9 +827,9 @@ In the case of each loan commodity, a marketing assistance loan under section 79
 
 The Secretary may not extend the term of a marketing assistance loan for any loan commodity.
 
-(Pub. L. 107–171, title I, § 1203, May 13, 2002, 116 Stat. 156.)
+(Pub. L. 107–171, title I, § 1203, May 13, 2002, 116 Stat. 156.)
 
-### § 7934. Repayment of loans
+### § 7934. Repayment of loans
 
 **(a) General rule** The Secretary shall permit the producers on a farm to repay a marketing assistance loan under section 7931 of this title for a loan commodity (other than upland cotton, rice, extra long staple cotton, and confectionery and each other kind of sunflower seed (other than oil sunflower seed)) at a rate that is the lesser of—
 
@@ -899,15 +899,15 @@ The loan repayment rate for dry peas, lentils, and small chickpeas shall be base
 
 For the 2001 crop year only, in the case of the producers on a farm that marketed or otherwise lost beneficial interest in a loan commodity for which a marketing assistance loan was made under section 7231 of this title before repaying the loan, the Secretary shall permit the producers to repay the loan at the appropriate repayment rate that was in effect for the loan commodity under section 7234 of this title on the date that the producers lost beneficial interest, as determined by the Secretary, if the Secretary determines the producers acted in good faith.
 
-(Pub. L. 107–171, title I, § 1204, May 13, 2002, 116 Stat. 156; Pub. L. 108–7, div. A, title VII, § 763(c), Feb. 20, 2003, 117 Stat. 47.)
+(Pub. L. 107–171, title I, § 1204, May 13, 2002, 116 Stat. 156; Pub. L. 108–7, div. A, title VII, § 763(c), Feb. 20, 2003, 117 Stat. 47.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2003—Subsec. (a). Pub. L. 108–7, § 763(c)(1), substituted “extra long staple cotton, and confectionery and each other kind of sunflower seed (other than oil sunflower seed)” for “and extra long staple cotton”.
+2003—Subsec. (a). Pub. L. 108–7, § 763(c)(1), substituted “extra long staple cotton, and confectionery and each other kind of sunflower seed (other than oil sunflower seed)” for “and extra long staple cotton”.
 
-Subsecs. (f) to (h). Pub. L. 108–7, § 763(c)(2), (3), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h).
+Subsecs. (f) to (h). Pub. L. 108–7, § 763(c)(2), (3), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -915,7 +915,7 @@ Subsecs. (f) to (h). Pub. L. 108–7, § 763(c)(2), (3), added subsecs. (f) an
 
 Amendment by Pub. L. 108–7 applicable beginning with the 2003 crop of other oilseeds, dry peas, lentils, and small chickpeas, see section 763(d) of Pub. L. 108–7, set out as a note under section 7901 of this title.
 
-### § 7935. Loan deficiency payments
+### § 7935. Loan deficiency payments
 
 **(a) Availability of loan deficiency payments**
 
@@ -969,7 +969,7 @@ For the 2002 crop of wool, mohair, honey, dry peas, lentils and small chickpeas,
 
 **(2) Omitted**
 
-(Pub. L. 107–171, title I, § 1205, May 13, 2002, 116 Stat. 158.)
+(Pub. L. 107–171, title I, § 1205, May 13, 2002, 116 Stat. 158.)
 
 **Editorial Notes**
 
@@ -977,7 +977,7 @@ For the 2002 crop of wool, mohair, honey, dry peas, lentils and small chickpeas,
 
 Section is comprised of section 1205 of Pub. L. 107–171. Subsec. (f)(2) of section 1205 of Pub. L. 107–171 amended section 7235 of this title.
 
-### § 7936. Payments in lieu of loan deficiency payments for grazed acreage
+### § 7936. Payments in lieu of loan deficiency payments for grazed acreage
 
 **(a) Eligible producers**
 
@@ -1025,19 +1025,19 @@ The Secretary shall establish an availability period for the payments authorized
 
 A 2002 through 2007 crop of wheat, barley, oats, or triticale planted on acreage that a producer elects, in the agreement required by subsection (a), to use for the grazing of livestock in lieu of any other harvesting of the crop shall not be eligible for an indemnity under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or noninsured crop assistance under section 7333 of this title.
 
-(Pub. L. 107–171, title I, § 1206, May 13, 2002, 116 Stat. 159.)
+(Pub. L. 107–171, title I, § 1206, May 13, 2002, 116 Stat. 159.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in subsec. (c)(2), was in the original “this subtitle”, meaning subtitle B (§§ 1201–1209) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 155, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
+This subchapter, referred to in subsec. (c)(2), was in the original “this subtitle”, meaning subtitle B (§§ 1201–1209) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 155, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
 
-The Federal Crop Insurance Act, referred to in subsec. (d), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (d), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 
-### § 7937. Special marketing loan provisions for upland cotton
+### § 7937. Special marketing loan provisions for upland cotton
 
-**(a) Repealed. Pub. L. 109–171, title I, § 1103(a)(1), Feb. 8, 2006, 120 Stat. 5**
+**(a) Repealed. Pub. L. 109–171, title I, § 1103(a)(1), Feb. 8, 2006, 120 Stat. 5**
 
 **(b) Special import quota**
 
@@ -1147,7 +1147,7 @@ When a quota is established under this subsection, cotton may be entered under t
 
 Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b).
 
-(Pub. L. 107–171, title I, § 1207, May 13, 2002, 116 Stat. 161; Pub. L. 109–171, title I, § 1103(a), Feb. 8, 2006, 120 Stat. 5.)
+(Pub. L. 107–171, title I, § 1207, May 13, 2002, 116 Stat. 161; Pub. L. 109–171, title I, § 1103(a), Feb. 8, 2006, 120 Stat. 5.)
 
 **Editorial Notes**
 
@@ -1157,19 +1157,19 @@ The Harmonized Tariff Schedule, referred to in subsecs. (b)(5)(D) and (c)(1)(C)(
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–171, § 1103(a)(1), struck out subsec. (a), which related to cotton user marketing certificates.
+2006—Subsec. (a). Pub. L. 109–171, § 1103(a)(1), struck out subsec. (a), which related to cotton user marketing certificates.
 
-Subsec. (b)(1)(B). Pub. L. 109–171, § 1103(a)(2)(A), struck out “, adjusted for the value of any certificate issued under subsection (a) of this section,” after “C.I.F. Northern Europe”.
+Subsec. (b)(1)(B). Pub. L. 109–171, § 1103(a)(2)(A), struck out “, adjusted for the value of any certificate issued under subsection (a) of this section,” after “C.I.F. Northern Europe”.
 
-Subsec. (b)(1)(C). Pub. L. 109–171, § 1103(a)(2)(B), struck out “, for the value of any certificates issued under subsection (a) of this section” before period at end.
+Subsec. (b)(1)(C). Pub. L. 109–171, § 1103(a)(2)(B), struck out “, for the value of any certificates issued under subsection (a) of this section” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–171, title I, § 1103(b), Feb. 8, 2006, 120 Stat. 5, provided that: “The amendments made by this section [amending this section] take effect on August 1, 2006.”
+Pub. L. 109–171, title I, § 1103(b), Feb. 8, 2006, 120 Stat. 5, provided that: “The amendments made by this section [amending this section] take effect on August 1, 2006.”
 
-### § 7938. Special competitive provisions for extra long staple cotton
+### § 7938. Special competitive provisions for extra long staple cotton
 
 **(a) Competitiveness program** Notwithstanding any other provision of law, during the period beginning on May 13, 2002, through July 31, 2008, the Secretary shall carry out a program—
 
@@ -1197,9 +1197,9 @@ Payments under this section shall be based on the amount of the difference in th
 
 Payments under this section shall be made through the issuance of cash or marketing certificates, at the option of eligible recipients of the payments.
 
-(Pub. L. 107–171, title I, § 1208, May 13, 2002, 116 Stat. 164.)
+(Pub. L. 107–171, title I, § 1208, May 13, 2002, 116 Stat. 164.)
 
-### § 7939. Availability of recourse loans for high moisture feed grains and seed cotton
+### § 7939. Availability of recourse loans for high moisture feed grains and seed cotton
 
 **(a) High moisture feed grains**
 
@@ -1239,11 +1239,11 @@ Repayment of a recourse loan made under this section shall be at the loan rate e
 
 Notwithstanding section 7237 of this title, recourse loans shall not be made for the 2002 crop of corn, grain sorghum, and seed cotton under such section.
 
-(Pub. L. 107–171, title I, § 1209, May 13, 2002, 116 Stat. 165.)
+(Pub. L. 107–171, title I, § 1209, May 13, 2002, 116 Stat. 165.)
 
 ## SUBCHAPTER III—PEANUTS
 
-### § 7951. Definitions
+### § 7951. Definitions
 
 In this subchapter:
 
@@ -1297,15 +1297,15 @@ The term “target price” means the price per ton of peanuts used to determine
 
 The term “United States”, when used in a geographical sense, means all of the States.
 
-(Pub. L. 107–171, title I, § 1301, May 13, 2002, 116 Stat. 166.)
+(Pub. L. 107–171, title I, § 1301, May 13, 2002, 116 Stat. 166.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§ 1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which enacted this subchapter, amended sections 1361, 1371, 1373, 1378, 1428, and 1441 of this title, and repealed sections 1357 to 1359a and 7271 of this title. For complete classification of subtitle C to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§ 1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which enacted this subchapter, amended sections 1361, 1371, 1373, 1378, 1428, and 1441 of this title, and repealed sections 1357 to 1359a and 7271 of this title. For complete classification of subtitle C to the Code, see Tables.
 
-### § 7952. Establishment of payment yield and base acres for peanuts for a farm
+### § 7952. Establishment of payment yield and base acres for peanuts for a farm
 
 **(a) Average yield and acreage average for historic peanut producers**
 
@@ -1421,17 +1421,17 @@ The Secretary shall take into account section 7911(g) of this title when applyin
 
 The owner of a farm may reduce, at any time, the base acres for peanuts assigned to the farm. The reduction shall be permanent and made in the manner prescribed by the Secretary.
 
-(Pub. L. 107–171, title I, § 1302, May 13, 2002, 116 Stat. 167.)
+(Pub. L. 107–171, title I, § 1302, May 13, 2002, 116 Stat. 167.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in subsecs. (c) and (d), was in the original “this subtitle”, meaning subtitle C (§§ 1301–1310) of Pub. L. 107–171, title I, May 13, 2002, 116 Stat. 166, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
+This subchapter, referred to in subsecs. (c) and (d), was in the original “this subtitle”, meaning subtitle C (§§ 1301–1310) of Pub. L. 107–171, title I, May 13, 2002, 116 Stat. 166, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (f)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§ 3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (f)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§ 3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
-### § 7953. Availability of direct payments for peanuts
+### § 7953. Availability of direct payments for peanuts
 
 **(a) Payment required**
 
@@ -1479,7 +1479,7 @@ At the option of the producers on a farm, up to 50 percent of the direct payment
 
 If a producer on a farm that receives an advance direct payment for a crop year ceases to be a producer on that farm, or the extent to which the producer shares in the risk of producing a crop changes, before the date the remainder of the direct payment is made, the producer shall be responsible for repaying the Secretary the applicable amount of the advance payment, as determined by the Secretary.
 
-(Pub. L. 107–171, title I, § 1303, May 13, 2002, 116 Stat. 170; Pub. L. 109–171, title I, § 1102(b), Feb. 8, 2006, 120 Stat. 5.)
+(Pub. L. 107–171, title I, § 1303, May 13, 2002, 116 Stat. 170; Pub. L. 109–171, title I, § 1102(b), Feb. 8, 2006, 120 Stat. 5.)
 
 **Editorial Notes**
 
@@ -1487,7 +1487,7 @@ If a producer on a farm that receives an advance direct payment for a crop year 
 
 2006—Subsec. (e)(2). Pub. L. 109–171 substituted “2005 crop years, up to 40 percent of the direct payment for the 2006 crop year, and up to 22 percent of the direct payment for the 2007 crop year,” for “2007 crop years”.
 
-### § 7954. Availability of counter-cyclical payments for peanuts
+### § 7954. Availability of counter-cyclical payments for peanuts
 
 **(a) Payment required**
 
@@ -1619,15 +1619,15 @@ For the 2007 crop year, the first partial payment under paragraph (3) to the pro
 
 The producers on a farm (or, in the case of the 2002 crop year, historic peanut producers) that receive a partial payment under this subsection for a crop year shall repay to the Secretary the amount, if any, by which the total of the partial payments exceed the actual counter-cyclical payment to be made for that crop year.
 
-(Pub. L. 107–171, title I, § 1304, May 13, 2002, 116 Stat. 171.)
+(Pub. L. 107–171, title I, § 1304, May 13, 2002, 116 Stat. 171.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in subsecs. (b)(1)(B), was in the original “this subtitle”, meaning subtitle C (§§ 1301–1310) of Pub. L. 107–171, title I, May 13, 2002, 116 Stat. 166, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
+This subchapter, referred to in subsecs. (b)(1)(B), was in the original “this subtitle”, meaning subtitle C (§§ 1301–1310) of Pub. L. 107–171, title I, May 13, 2002, 116 Stat. 166, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
-### § 7955. Producer agreement required as condition on provision of direct payments and counter-cyclical payments
+### § 7955. Producer agreement required as condition on provision of direct payments and counter-cyclical payments
 
 **(a) Compliance with certain requirements**
 
@@ -1673,17 +1673,17 @@ In carrying out this subchapter, the Secretary shall provide adequate safeguards
 
 The Secretary shall provide for the sharing of direct payments and counter-cyclical payments among the producers on a farm on a fair and equitable basis.
 
-(Pub. L. 107–171, title I, § 1305, May 13, 2002, 116 Stat. 173.)
+(Pub. L. 107–171, title I, § 1305, May 13, 2002, 116 Stat. 173.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in subsecs. (a)(1), (c), and (d), was in the original “this subtitle”, meaning subtitle C (§§ 1301–1310) of Pub. L. 107–171, title I, May 13, 2002, 116 Stat. 166, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
+This subchapter, referred to in subsecs. (a)(1), (c), and (d), was in the original “this subtitle”, meaning subtitle C (§§ 1301–1310) of Pub. L. 107–171, title I, May 13, 2002, 116 Stat. 166, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
-### § 7956. Planting flexibility
+### § 7956. Planting flexibility
 
 **(a) Permitted crops**
 
@@ -1719,9 +1719,9 @@ The planting of an agricultural commodity specified in paragraph (3) that is pro
 
 **(B)** direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such agricultural commodity.
 
-(Pub. L. 107–171, title I, § 1306, May 13, 2002, 116 Stat. 174.)
+(Pub. L. 107–171, title I, § 1306, May 13, 2002, 116 Stat. 174.)
 
-### § 7957. Marketing assistance loans and loan deficiency payments for peanuts
+### § 7957. Marketing assistance loans and loan deficiency payments for peanuts
 
 **(a) Nonrecourse loans available**
 
@@ -1829,17 +1829,17 @@ As a condition of the receipt of a marketing assistance loan under subsection (a
 
 The Secretary may implement any reimbursable agreements or provide for the payment of administrative expenses under this subchapter only in a manner that is consistent with such activities in regard to other commodities.
 
-(Pub. L. 107–171, title I, § 1307, May 13, 2002, 116 Stat. 175.)
+(Pub. L. 107–171, title I, § 1307, May 13, 2002, 116 Stat. 175.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food Security Act of 1985, referred to in subsec. (f), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (f), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
-This subchapter, referred to in subsec. (g), was in the original “this subtitle”, meaning subtitle C (§§ 1301–1310) of Pub. L. 107–171, title I, May 13, 2002, 116 Stat. 166, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
+This subchapter, referred to in subsec. (g), was in the original “this subtitle”, meaning subtitle C (§§ 1301–1310) of Pub. L. 107–171, title I, May 13, 2002, 116 Stat. 166, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
-### § 7958. Miscellaneous provisions
+### § 7958. Miscellaneous provisions
 
 **(a) Mandatory inspection**
 
@@ -1933,13 +1933,13 @@ The Secretary may transfer any funds available to carry out the activities of th
 
 This section shall take effect with the 2002 crop of peanuts.
 
-(Pub. L. 107–171, title I, § 1308, May 13, 2002, 116 Stat. 178; Pub. L. 115–334, title XII, § 12517, Dec. 20, 2018, 132 Stat. 5000; Pub. L. 117–286, § 4(a)(41), Dec. 27, 2022, 136 Stat. 4309.)
+(Pub. L. 107–171, title I, § 1308, May 13, 2002, 116 Stat. 178; Pub. L. 115–334, title XII, § 12517, Dec. 20, 2018, 132 Stat. 5000; Pub. L. 117–286, § 4(a)(41), Dec. 27, 2022, 136 Stat. 4309.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Adjustment Act, as reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, referred to in subsec. (b), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
+The Agricultural Adjustment Act, as reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, referred to in subsec. (b), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
 **Amendments**
 
@@ -1947,7 +1947,7 @@ Subsec. (c)(5). Pub. L. 117–286 substituted “Chapter 10 of title 5” for �
 
 2018—Subsec. (c)(2)(B)(iii). Pub. L. 115–334 substituted “Virginia, North Carolina, and South Carolina” for “Virginia and North Carolina”.
 
-### § 7959. Termination of marketing quota programs for peanuts and compensation to peanut quota holders for loss of quota asset value
+### § 7959. Termination of marketing quota programs for peanuts and compensation to peanut quota holders for loss of quota asset value
 
 **(a) Repeal of marketing quota**
 
@@ -2023,19 +2023,19 @@ Once a person is eligible for payments under this section, as determined under s
 
 If a person eligible for payments under this section dies, in the case of an individual, or ceases to exist, in the case of other persons, the payment eligibility of the person shall pass to the person’s personal or organizational successor, as determined by the Secretary.
 
-(Pub. L. 107–171, title I, § 1309, May 13, 2002, 116 Stat. 179.)
+(Pub. L. 107–171, title I, § 1309, May 13, 2002, 116 Stat. 179.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Adjustment Act of 1938, referred to in subsecs. (a)(2) and (f)(1), is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Part VI of subtitle B of title III of the Act was classified generally to subpart VI (§ 1357 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by subsec. (a)(1) of this section. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsecs. (a)(2) and (f)(1), is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Part VI of subtitle B of title III of the Act was classified generally to subpart VI (§ 1357 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by subsec. (a)(1) of this section. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 **Codification**
 
 Section is comprised of section 1309 of Pub. L. 107–171. Subsec. (a)(1) of section 1309 of Pub. L. 107–171 repealed sections 1357 to 1359a of this title. Subsec. (h) of section 1309 amended sections 1361, 1371, 1373, and 1378 of this title.
 
-### § 7960. Repeal of superseded price support authority and effect of repeal
+### § 7960. Repeal of superseded price support authority and effect of repeal
 
 **(a) Omitted**
 
@@ -2057,7 +2057,7 @@ The nonquota price election for segregation I, II, and III peanuts shall be 17.7
 
 For the purposes of quality adjustment only, the average support price per pound of peanuts shall be a price equal to 17.75 cents per pound. Quality under the crop insurance policy for peanuts shall be adjusted under procedures issued by the Federal Crop Insurance Corporation.
 
-(Pub. L. 107–171, title I, § 1310, May 13, 2002, 116 Stat. 182.)
+(Pub. L. 107–171, title I, § 1310, May 13, 2002, 116 Stat. 182.)
 
 **Editorial Notes**
 
@@ -2067,7 +2067,7 @@ Section is comprised of section 1310 of Pub. L. 107–171. Subsec. (a) of sectio
 
 ## SUBCHAPTER IV—SUGAR
 
-### § 7971. Storage facility loans
+### § 7971. Storage facility loans
 
 **(a) In general**
 
@@ -2089,7 +2089,7 @@ Notwithstanding any other provision of law and as soon as practicable after May 
 
 **(3)** be in such amounts and on such other terms and conditions (including terms and conditions relating to downpayments, collateral, and eligible facilities) as are normal, customary, and appropriate for the size and commercial nature of the borrower.
 
-(Pub. L. 107–171, title I, § 1402, May 13, 2002, 116 Stat. 187; Pub. L. 110–234, title I, § 1404, May 22, 2008, 122 Stat. 989; Pub. L. 110–246, § 4(a), title I, § 1404, June 18, 2008, 122 Stat. 1664, 1718.)
+(Pub. L. 107–171, title I, § 1402, May 13, 2002, 116 Stat. 187; Pub. L. 110–234, title I, § 1404, May 22, 2008, 122 Stat. 989; Pub. L. 110–246, § 4(a), title I, § 1404, June 18, 2008, 122 Stat. 1664, 1718.)
 
 **Editorial Notes**
 
@@ -2099,7 +2099,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (c)(2), (3). Pub. L. 110–246, § 1404, added par. (2), redesignated former par. (2) as (3), and, in par. (3), inserted “other” after “on such”.
+2008—Subsec. (c)(2), (3). Pub. L. 110–246, § 1404, added par. (2), redesignated former par. (2) as (3), and, in par. (3), inserted “other” after “on such”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2109,7 +2109,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ## SUBCHAPTER V—DAIRY
 
-### § 7981. Milk price support program
+### § 7981. Milk price support program
 
 **(a) Support activities**
 
@@ -2143,9 +2143,9 @@ The Secretary may make any such adjustments in the purchase prices for nonfat dr
 
 The Secretary shall carry out the program authorized by this section through the Commodity Credit Corporation.
 
-(Pub. L. 107–171, title I, § 1501, May 13, 2002, 116 Stat. 205.)
+(Pub. L. 107–171, title I, § 1501, May 13, 2002, 116 Stat. 205.)
 
-### § 7982. National dairy market loss payments
+### § 7982. National dairy market loss payments
 
 **(a) Definitions** In this section:
 
@@ -2225,27 +2225,27 @@ Except as provided in paragraph (2), any contract entered into by producers on a
 
 **(B)** allow the contract to remain in effect and require the producer to repay a portion of the payments received under the contract based on the severity of the violation.
 
-(Pub. L. 107–171, title I, § 1502, May 13, 2002, 116 Stat. 205; Pub. L. 109–171, title I, § 1101, Feb. 8, 2006, 120 Stat. 4; Pub. L. 110–28, title IX, § 9006(a), May 25, 2007, 121 Stat. 217.)
+(Pub. L. 107–171, title I, § 1502, May 13, 2002, 116 Stat. 205; Pub. L. 109–171, title I, § 1101, Feb. 8, 2006, 120 Stat. 4; Pub. L. 110–28, title IX, § 9006(a), May 25, 2007, 121 Stat. 217.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 805 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001, referred to in subsec. (d)(2), is section 805 of Pub. L. 106–387, § 1(a) [title VIII], Oct. 28, 2000, 114 Stat. 1549, 1549A–50, which is not classified to the Code.
+Section 805 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001, referred to in subsec. (d)(2), is section 805 of Pub. L. 106–387, § 1(a) [title VIII], Oct. 28, 2000, 114 Stat. 1549, 1549A–50, which is not classified to the Code.
 
 **Amendments**
 
 2007—Subsec. (c)(3). Pub. L. 110–28 inserted “and” at end of subpar. (A), substituted “September 30, 2007, 34 percent.” for “August 31, 2007, 34 percent; and” in subpar. (B), and struck out subpar. (C), which read as follows: “during the period beginning on September 1, 2007, 0 percent.”
 
-2006—Subsec. (c)(3). Pub. L. 109–171, § 1101(a), added par. (3) and struck out former par. (3) which read as follows: “45 percent.”
+2006—Subsec. (c)(3). Pub. L. 109–171, § 1101(a), added par. (3) and struck out former par. (3) which read as follows: “45 percent.”
 
-Subsec. (f). Pub. L. 109–171, § 1101(b), substituted “2007” for “2005”.
+Subsec. (f). Pub. L. 109–171, § 1101(b), substituted “2007” for “2005”.
 
-Subsec. (g)(1). Pub. L. 109–171, § 1101(b), (c)(1), struck out “and subsection (h) of this section” after “paragraph (2)” and substituted “2007” for “2005”.
+Subsec. (g)(1). Pub. L. 109–171, § 1101(b), (c)(1), struck out “and subsection (h) of this section” after “paragraph (2)” and substituted “2007” for “2005”.
 
-Subsec. (h). Pub. L. 109–171, § 1101(c)(2), struck out subsec. (h), which related to transition rule.
+Subsec. (h). Pub. L. 109–171, § 1101(c)(2), struck out subsec. (h), which related to transition rule.
 
-### § 7983. Study of national dairy policy
+### § 7983. Study of national dairy policy
 
 **(a) Study required** The Secretary of Agriculture shall conduct a comprehensive economic evaluation of the potential direct and indirect effects of the various elements of the national dairy policy, including an examination of the effect of the national dairy policy on—
 
@@ -2271,11 +2271,11 @@ Not later than 1 year after May 13, 2002, the Secretary shall submit to the Comm
 
 **(5)** Federal milk price support program established under section 7981 of this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(6)** Export programs regarding milk and dairy products, such as the dairy export incentive program established under section 713a–14 of title 15.<sup>1</sup>
 
-(Pub. L. 107–171, title I, § 1507, May 13, 2002, 116 Stat. 210.)
+(Pub. L. 107–171, title I, § 1507, May 13, 2002, 116 Stat. 210.)
 
 **Editorial Notes**
 
@@ -2287,9 +2287,9 @@ S. 1157, referred to in subsec. (c)(2), which would have granted consent to the 
 
 Section 7981 of this title, referred to in subsec. (c)(5), was in the original “section 1401”, and was translated as reading “section 1501”, meaning section 1501 of Pub. L. 107–171 to reflect the probable intent of Congress, because section 1501 of Pub. L. 107–171 relates to Federal milk price support program. Section 1401 of Pub. L. 107–171 amended sections 7272 and 7283 of this title.
 
-Section 713a–14 of title 15, referred to in subsec. (c)(6), was repealed by Pub. L. 113–79, title I, § 1423(a), Feb. 7, 2014, 128 Stat. 695.
+Section 713a–14 of title 15, referred to in subsec. (c)(6), was repealed by Pub. L. 113–79, title I, § 1423(a), Feb. 7, 2014, 128 Stat. 695.
 
-### § 7984. Studies of effects of changes in approach to national dairy policy and fluid milk identity standards
+### § 7984. Studies of effects of changes in approach to national dairy policy and fluid milk identity standards
 
 **(a) Federal dairy policy changes** The Secretary of Agriculture shall conduct a study of the effects of—
 
@@ -2305,11 +2305,11 @@ The Secretary shall conduct a study of the effects of including in the standard 
 
 Not later than 1 year after May 13, 2002, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the results of the studies required by this section.
 
-(Pub. L. 107–171, title I, § 1508, May 13, 2002, 116 Stat. 211.)
+(Pub. L. 107–171, title I, § 1508, May 13, 2002, 116 Stat. 211.)
 
 ## SUBCHAPTER VI—ADMINISTRATION
 
-### § 7991. Administration generally
+### § 7991. Administration generally
 
 **(a) Use of Commodity Credit Corporation**
 
@@ -2327,9 +2327,9 @@ Not later than 90 days after May 13, 2002, the Secretary and the Commodity Credi
 
 **(2) Procedure** The promulgation of the regulations and administration of this chapter shall be made without regard to—
 
-**(A)** chapter 35 of title 44 (commonly know 1
+**(A)** chapter 35 of title 44 (commonly know 1
 
-<sup>1</sup>  So in original. Probably should be “known”.
+<sup>1</sup> So in original. Probably should be “known”.
 
 as the “Paperwork Reduction Act”);
 
@@ -2341,9 +2341,9 @@ as the “Paperwork Reduction Act”);
 
 In carrying out this subsection, the Secretary shall use the authority provided under section 808 of title 5.
 
-**(d) Treatment of advance payment option** The protection that was afforded producers that had an option to elect to accelerate the receipt of any payment under a production flexibility contract payable under the Federal Agriculture Improvement and Reform Act of 1996, as provided by section 525 of Public 2
+**(d) Treatment of advance payment option** The protection that was afforded producers that had an option to elect to accelerate the receipt of any payment under a production flexibility contract payable under the Federal Agriculture Improvement and Reform Act of 1996, as provided by section 525 of Public 2
 
-<sup>2</sup>  So in original. Probably should be followed by “Law”.
+<sup>2</sup> So in original. Probably should be followed by “Law”.
 
 106–170 (113 Stat. 1928; 7 U.S.C. 7212 note), shall also apply to the option to receive—
 
@@ -2363,7 +2363,7 @@ If the Secretary determines that expenditures under subchapters I through V that
 
 Before making any adjustment under paragraph (1), the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report describing the determination made under that paragraph and the extent of the adjustment to be made.
 
-(Pub. L. 107–171, title I, § 1601, May 13, 2002, 116 Stat. 211; Pub. L. 110–234, title I, § 1601(e), May 22, 2008, 122 Stat. 1001; Pub. L. 110–246, § 4(a), title I, § 1601(e), June 18, 2008, 122 Stat. 1664, 1729.)
+(Pub. L. 107–171, title I, § 1601, May 13, 2002, 116 Stat. 211; Pub. L. 110–234, title I, § 1601(e), May 22, 2008, 122 Stat. 1001; Pub. L. 110–246, § 4(a), title I, § 1601(e), June 18, 2008, 122 Stat. 1664, 1729.)
 
 **Editorial Notes**
 
@@ -2373,11 +2373,11 @@ For definition of “this chapter”, referred to in subsecs. (a) to (c), see Re
 
 The Federal Agriculture Improvement and Reform Act of 1996, referred to in subsec. (d), is Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 888. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
 
-Subchapter III, referred to in subsec. (d)(1), was in the original “subtitle C”, meaning subtitle C (§§ 1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
+Subchapter III, referred to in subsec. (d)(1), was in the original “subtitle C”, meaning subtitle C (§§ 1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
-The Food, Conservation, and Energy Act of 2008, referred to in subsec. (d)(3), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§ 8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
+The Food, Conservation, and Energy Act of 2008, referred to in subsec. (d)(3), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§ 8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
-Subchapter V, referred to in subsec. (e)(1), was in the original “subtitle E”, meaning subtitle E (§§ 1501–1508) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 205, which enacted subchapter V of this chapter and amended sections 1637a, 4501–4504, 4507, 4553, 6402, and 6414 of this title and section 713a–4 of Title 15, Commerce and Trade. For complete classification of subtitle E to the Code, see Tables.
+Subchapter V, referred to in subsec. (e)(1), was in the original “subtitle E”, meaning subtitle E (§§ 1501–1508) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 205, which enacted subchapter V of this chapter and amended sections 1637a, 4501–4504, 4507, 4553, 6402, and 6414 of this title and section 713a–4 of Title 15, Commerce and Trade. For complete classification of subtitle E to the Code, see Tables.
 
 **Codification**
 
@@ -2385,7 +2385,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (d)(3). Pub. L. 110–246, § 1601(e), added par. (3).
+2008—Subsec. (d)(3). Pub. L. 110–246, § 1601(e), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2393,7 +2393,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 7992. Suspension of permanent price support authority
+### § 7992. Suspension of permanent price support authority
 
 **(a) Agricultural Adjustment Act of 1938** The following provisions of the Agricultural Adjustment Act of 1938 [7 U.S.C. 1281 et seq.] shall not be applicable to the 2002 through 2007 crops of covered commodities, peanuts, and sugar and shall not be applicable to milk during the period beginning on May 13, 2002, through December 31, 2007:
 
@@ -2435,15 +2435,15 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 The joint resolution entitled “A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended”, approved May 26, 1941 (7 U.S.C. 1330 and 1340), shall not be applicable to the crops of wheat planted for harvest in the calendar years 2002 through 2007.
 
-(Pub. L. 107–171, title I, § 1602, May 13, 2002, 116 Stat. 212.)
+(Pub. L. 107–171, title I, § 1602, May 13, 2002, 116 Stat. 212.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Adjustment Act of 1938, referred to in subsecs. (a) and (c), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. Parts II through V of subtitle B of title III of the Act are classified generally to subparts II (§ 1321 et seq.), III (§ 1331 et seq.), IV (§ 1341 et seq.), and V (§ 1351, which was omitted from the Code), respectively, of part B of subchapter II of chapter 35 of this title. Subtitle D of title III of the Act is classified generally to part D (§ 1379a et seq.) of subchapter II of chapter 35 of this title. Title IV of the Act was classified generally to subchapter III (§ 1401 et seq.) of chapter 35 of this title, and was omitted from the Code. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsecs. (a) and (c), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. Parts II through V of subtitle B of title III of the Act are classified generally to subparts II (§ 1321 et seq.), III (§ 1331 et seq.), IV (§ 1341 et seq.), and V (§ 1351, which was omitted from the Code), respectively, of part B of subchapter II of chapter 35 of this title. Subtitle D of title III of the Act is classified generally to part D (§ 1379a et seq.) of subchapter II of chapter 35 of this title. Title IV of the Act was classified generally to subchapter III (§ 1401 et seq.) of chapter 35 of this title, and was omitted from the Code. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-The Agricultural Act of 1949, referred to in subsec. (b), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title III of the Act is classified generally to sections 1447 to 1449 of this title. Title IV of the Act is classified principally to subchapter I (§ 1421 et seq.) of chapter 35A of this title. Title V of the Act, which was classified generally to subchapter IV (§ 1461 et seq.) of chapter 35A of this title, was omitted from the Code. Title VI of the Act is classified generally to subchapter V (§ 1471 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (b), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title III of the Act is classified generally to sections 1447 to 1449 of this title. Title IV of the Act is classified principally to subchapter I (§ 1421 et seq.) of chapter 35A of this title. Title V of the Act, which was classified generally to subchapter IV (§ 1461 et seq.) of chapter 35A of this title, was omitted from the Code. Title VI of the Act is classified generally to subchapter V (§ 1471 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 The joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, referred to in subsec. (c), is act May 26, 1941, ch. 133, 55 Stat. 203, which enacted sections 1330 and 1340 of this title.
 
@@ -2451,9 +2451,9 @@ The joint resolution relating to corn and wheat marketing quotas under the Agric
 
 Section is comprised of section 1602 of Pub. L. 107–171. Subsec. (d) of section 1602 of Pub. L. 107–171 amended section 7301 of this title.
 
-### § 7993. Repealed. Pub. L. 110–234, title I, § 1623(a), May 22, 2008, 122 Stat. 1025, and Pub. L. 110–246, § 4(a), title I, § 1623(a), June 18, 2008, 122 Stat. 1664, 1753
+### § 7993. Repealed. Pub. L. 110–234, title I, § 1623(a), May 22, 2008, 122 Stat. 1025, and Pub. L. 110–246, § 4(a), title I, § 1623(a), June 18, 2008, 122 Stat. 1664, 1753
 
-Section, Pub. L. 107–171, title I, § 1605, May 13, 2002, 116 Stat. 216, related to Commission on the Application of Payment Limitations for Agriculture.
+Section, Pub. L. 107–171, title I, § 1605, May 13, 2002, 116 Stat. 216, related to Commission on the Application of Payment Limitations for Agriculture.
 
 **Editorial Notes**
 
@@ -2467,7 +2467,7 @@ Pub. L. 110–234 and Pub. L. 110–246 repealed this section. Pub. L. 110–234
 
 Repeal of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 7994. Study
+### § 7994. Study
 
 **(1) In general**
 
@@ -2477,19 +2477,19 @@ The Secretary shall conduct a study on the effects on the limitation on producer
 
 Not later than 90 days after May 13, 2002, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the results of the study.
 
-(Pub. L. 107–171, title I, § 1611(b), May 13, 2002, 116 Stat. 219.)
+(Pub. L. 107–171, title I, § 1611(b), May 13, 2002, 116 Stat. 219.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Adjustment Act of 1938, referred to in par. (1), is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Part I of subtitle B of title III of the Act was classified generally to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in par. (1), is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Part I of subtitle B of title III of the Act was classified generally to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-### § 7995. Assignment of payments
+### § 7995. Assignment of payments
 
 The provisions of section 590h(g) of title 16, relating to assignment of payments, shall apply to payments made under the authority of this Act. The producer making the assignment, or the assignee, shall provide the Secretary with notice, in such manner as the Secretary may require, of any assignment made under this section.
 
-(Pub. L. 107–171, title I, § 1612, May 13, 2002, 116 Stat. 219.)
+(Pub. L. 107–171, title I, § 1612, May 13, 2002, 116 Stat. 219.)
 
 **Editorial Notes**
 
@@ -2497,7 +2497,7 @@ The provisions of section 590h(g) of title 16, relating to assignment of payment
 
 This Act, referred to in text, is Pub. L. 107–171, May 13, 2002, 116 Stat. 134, known as the Farm Security and Rural Investment Act of 2002. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of this title and Tables.
 
-### § 7996. Equitable relief from ineligibility for loans, payments, or other benefits
+### § 7996. Equitable relief from ineligibility for loans, payments, or other benefits
 
 **(a) Definitions** In this section:
 
@@ -2599,27 +2599,27 @@ A discretionary decision by the Secretary, the State Director, or the State Cons
 
 The authority provided in this section is in addition to any other authority provided in this or any other Act.
 
-(Pub. L. 107–171, title I, § 1613, May 13, 2002, 116 Stat. 219.)
+(Pub. L. 107–171, title I, § 1613, May 13, 2002, 116 Stat. 219.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(2)(B)(i), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(2)(B)(i), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-The Federal Crop Insurance Act, referred to in subsec. (a)(2)(B)(ii), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (a)(2)(B)(ii), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (e)(3)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (e)(3)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 **Codification**
 
 Section is comprised of section 1613 of Pub. L. 107–171. Subsec. (i) of section 1613 of Pub. L. 107–171 amended section 7001 of this title. Subsec. (j) of section 1613 amended section 6998 of this title and repealed sections 1339a of this title and section 3830a of Title 16, Conservation.
 
-### § 7997. Tracking of benefits
+### § 7997. Tracking of benefits
 
 As soon as practicable after May 13, 2002, the Secretary shall establish procedures to track the benefits provided, directly or indirectly, to individuals and entities under titles I and II and the amendments made by those titles.
 
-(Pub. L. 107–171, title I, § 1614, May 13, 2002, 116 Stat. 222.)
+(Pub. L. 107–171, title I, § 1614, May 13, 2002, 116 Stat. 222.)
 
 **Editorial Notes**
 
@@ -2627,7 +2627,7 @@ As soon as practicable after May 13, 2002, the Secretary shall establish procedu
 
 Titles I and II, referred to in text, mean titles I and II of Pub. L. 107–171, May 13, 2002, 116 Stat. 143. For complete classification of titles I and II of Pub. L. 107–171 to the Code, see Tables.
 
-### § 7998. Estimates of net farm income
+### § 7998. Estimates of net farm income
 
 In each issuance of projections of net farm income, the Secretary shall include (as determined by the Secretary)—
 
@@ -2641,9 +2641,9 @@ In each issuance of projections of net farm income, the Secretary shall include 
 
 **(C)** Agricultural commodities other than loan commodities.
 
-(Pub. L. 107–171, title I, § 1615, May 13, 2002, 116 Stat. 222.)
+(Pub. L. 107–171, title I, § 1615, May 13, 2002, 116 Stat. 222.)
 
-### § 7999. Availability of incentive payments for certain producers
+### § 7999. Availability of incentive payments for certain producers
 
 **(a) Incentive payments required**
 
@@ -2659,11 +2659,11 @@ Subject to subsection (b), the Secretary shall make available a total of $20,000
 
 To be eligible to obtain an incentive payment under subsection (a), a producer shall demonstrate to the satisfaction of the Secretary that buyers and end-users are available for the wheat to be covered by the incentive payment.
 
-(Pub. L. 107–171, title I, § 1616, May 13, 2002, 116 Stat. 222.)
+(Pub. L. 107–171, title I, § 1616, May 13, 2002, 116 Stat. 222.)
 
-### § 8000. Repealed. Pub. L. 110–234, title I, § 1623(b), May 22, 2008, 122 Stat. 1025, and Pub. L. 110–246, § 4(a), title I, § 1623(b), June 18, 2008, 122 Stat. 1664, 1753
+### § 8000. Repealed. Pub. L. 110–234, title I, § 1623(b), May 22, 2008, 122 Stat. 1025, and Pub. L. 110–246, § 4(a), title I, § 1623(b), June 18, 2008, 122 Stat. 1664, 1753
 
-Section, Pub. L. 107–171, title I, § 1617, May 13, 2002, 116 Stat. 222, related to renewed availability of market loss assistance and certain emergency assistance to persons that failed to receive assistance under earlier authorities.
+Section, Pub. L. 107–171, title I, § 1617, May 13, 2002, 116 Stat. 222, related to renewed availability of market loss assistance and certain emergency assistance to persons that failed to receive assistance under earlier authorities.
 
 **Editorial Notes**
 
@@ -2677,19 +2677,19 @@ Pub. L. 110–234 and Pub. L. 110–246 repealed this section. Pub. L. 110–234
 
 Repeal of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 8001. Producer retention of erroneously paid loan deficiency payments and marketing loan gains
+### § 8001. Producer retention of erroneously paid loan deficiency payments and marketing loan gains
 
 Notwithstanding any other provision of law, the Secretary and the Commodity Credit Corporation shall not require producers in Erie County, Pennsylvania, to repay loan deficiency payments and marketing loan gains erroneously paid or determined to have been earned by the Commodity Credit Corporation for certain 1998 and 1999 crops under subtitle C of title I of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7231 et seq.). In the case of a producer who has already made the repayment on or before May 13, 2002, the Commodity Credit Corporation shall reimburse the producer for the full amount of the repayment.
 
-(Pub. L. 107–171, title I, § 1618, May 13, 2002, 116 Stat. 223.)
+(Pub. L. 107–171, title I, § 1618, May 13, 2002, 116 Stat. 223.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Federal Agriculture Improvement and Reform Act of 1996, referred to in text, is Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 888. Subtitle C of title I of the Act is classified generally to subchapter III (§ 7231 et seq.) of chapter 100 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
+Federal Agriculture Improvement and Reform Act of 1996, referred to in text, is Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 888. Subtitle C of title I of the Act is classified generally to subchapter III (§ 7231 et seq.) of chapter 100 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
 
-### § 8002. Implementation funding and information management
+### § 8002. Implementation funding and information management
 
 **(a) Additional funds for administrative costs**
 
@@ -2751,7 +2751,7 @@ This subsection shall not interfere with, or delay, existing agreements or reque
 
 In addition to amounts made available under subsection (a)(3), there are authorized to be appropriated such sums as are necessary to carry out subsection (b) for each of fiscal years 2003 through 2008.
 
-(Pub. L. 107–171, title X, § 10706, May 13, 2002, 116 Stat. 519.)
+(Pub. L. 107–171, title X, § 10706, May 13, 2002, 116 Stat. 519.)
 
 **Editorial Notes**
 

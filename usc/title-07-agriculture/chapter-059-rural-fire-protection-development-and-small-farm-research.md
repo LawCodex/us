@@ -17,15 +17,15 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—RURAL COMMUNITY FIRE PROTECTION
 
-### §§ 2651 to 2654. Repealed. Pub. L. 95–313, § 16(a)(6), formerly § 13(a)(6), July 1, 1978, 92 Stat. 374; renumbered § 16(a)(6), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525
+### §§ 2651 to 2654. Repealed. Pub. L. 95–313, § 16(a)(6), formerly § 13(a)(6), July 1, 1978, 92 Stat. 374; renumbered § 16(a)(6), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525
 
-Section 2651, Pub. L. 92–419, title IV, § 401, Aug. 30, 1972, 86 Stat. 670; Pub. L. 91–524, title VIII, § 816(a), as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 240, related to purpose and findings for provisions relating to rural community fire protection assistance.
+Section 2651, Pub. L. 92–419, title IV, § 401, Aug. 30, 1972, 86 Stat. 670; Pub. L. 91–524, title VIII, § 816(a), as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 240, related to purpose and findings for provisions relating to rural community fire protection assistance.
 
-Section 2652, Pub. L. 92–419, title IV, § 402, Aug. 30, 1972, 86 Stat. 670; Pub. L. 95–113, title XV, § 1504, Sept. 29, 1977, 91 Stat. 1021, related to terms and conditions, funding requirements, etc., for cooperative agreements with State officials.
+Section 2652, Pub. L. 92–419, title IV, § 402, Aug. 30, 1972, 86 Stat. 670; Pub. L. 95–113, title XV, § 1504, Sept. 29, 1977, 91 Stat. 1021, related to terms and conditions, funding requirements, etc., for cooperative agreements with State officials.
 
-Section 2653, Pub. L. 92–419, title IV, § 403, Aug. 30, 1972, 86 Stat. 671, related to reporting requirements for Secretary of Agriculture.
+Section 2653, Pub. L. 92–419, title IV, § 403, Aug. 30, 1972, 86 Stat. 671, related to reporting requirements for Secretary of Agriculture.
 
-Section 2654, Pub. L. 92–419, title IV, § 404, Aug. 30, 1972, 86 Stat. 671; Pub. L. 91–524, title VIII, § 816(b), as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 240; amended Pub. L. 95–113, title XV, § 1505, Sept. 29, 1977, 91 Stat. 1021, related to authorization of appropriations for assistance.
+Section 2654, Pub. L. 92–419, title IV, § 404, Aug. 30, 1972, 86 Stat. 671; Pub. L. 91–524, title VIII, § 816(b), as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 240; amended Pub. L. 95–113, title XV, § 1505, Sept. 29, 1977, 91 Stat. 1021, related to authorization of appropriations for assistance.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -33,7 +33,7 @@ Section 2654, Pub. L. 92–419, title IV, § 404, Aug. 30, 1972, 86 Stat. 671;
 
 Repeal effective Oct. 1, 1978, see section 17 of Pub. L. 95–313, set out as an Effective Date note under section 2101 of Title 16, Conservation.
 
-### § 2655. Rural firefighters and emergency medical service assistance program
+### § 2655. Rural firefighters and emergency medical service assistance program
 
 **(a) Definition of emergency medical services** In this section:
 
@@ -125,7 +125,7 @@ There is authorized to be appropriated to the Secretary to carry out this sectio
 
 Not more than 5 percent of the amount appropriated under paragraph (1) for a fiscal year may be used for administrative expenses incurred in carrying out this section.
 
-(Pub. L. 107–171, title VI, § 6405, May 13, 2002, 116 Stat. 430; Pub. L. 109–171, title I, § 1405(a), Feb. 8, 2006, 120 Stat. 7; Pub. L. 110–234, title VI, § 6204, May 22, 2008, 122 Stat. 1208; Pub. L. 110–246, § 4(a), title VI, § 6204, June 18, 2008, 122 Stat. 1664, 1969.)
+(Pub. L. 107–171, title VI, § 6405, May 13, 2002, 116 Stat. 430; Pub. L. 109–171, title I, § 1405(a), Feb. 8, 2006, 120 Stat. 7; Pub. L. 110–234, title VI, § 6204, May 22, 2008, 122 Stat. 1208; Pub. L. 110–246, § 4(a), title VI, § 6204, June 18, 2008, 122 Stat. 1664, 1969.)
 
 **Editorial Notes**
 
@@ -135,7 +135,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 6204, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to authority to make grants to pay the cost of training firefighters and emergency medical personnel in rural areas, use of funds, and appropriations for fiscal years 2003 through 2006.
+2008—Pub. L. 110–246, § 6204, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to authority to make grants to pay the cost of training firefighters and emergency medical personnel in rural areas, use of funds, and appropriations for fiscal years 2003 through 2006.
 
 2006—Subsec. (c). Pub. L. 109–171 substituted “2006” for “2007”.
 
@@ -147,7 +147,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ## SUBCHAPTER II—RURAL DEVELOPMENT AND SMALL FARM RESEARCH AND EDUCATION
 
-### § 2661. Statement of purposes and goals
+### § 2661. Statement of purposes and goals
 
 **(a)** The overall purpose of this subchapter is to foster a balanced national development that provides opportunities for increased numbers of the people of the United States to work and enjoy a high quality of life dispersed throughout our Nation by providing the essential knowledge necessary for successful programs of rural development. It is further the purpose of this subchapter to—
 
@@ -161,9 +161,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(5)** support activities to supplement and extend programs that address special research and education needs in States experiencing rapid social and economic adjustments or unique problems caused by rural isolation and that address national and regional rural development policies, strategies, issues, and programs.
 
-**(b)** the 1
+**(b)** the 1
 
-<sup>1</sup>  So in original. Should be capitalized.
+<sup>1</sup> So in original. Should be capitalized.
 
 goals of this subchapter are to—
 
@@ -189,13 +189,13 @@ goals of this subchapter are to—
 
 **(D)** developing and disseminating better information about rural conditions.
 
-(Pub. L. 92–419, title V, § 501, as added Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1322.)
+(Pub. L. 92–419, title V, § 501, as added Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1322.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2661, Pub. L. 92–419, title V, § 501, Aug. 30, 1972, 86 Stat. 671, stated Congressional statement of purposes, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
+A prior section 2661, Pub. L. 92–419, title V, § 501, Aug. 30, 1972, 86 Stat. 671, stated Congressional statement of purposes, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -205,17 +205,17 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–624, title XXIII, § 2390(a), Nov. 28, 1990, 104 Stat. 4055, provided that: “This section [amending sections 2662 and 2663 of this title] may be cited as the ‘Rural Health and Safety Education Act of 1990’.”
+Pub. L. 101–624, title XXIII, § 2390(a), Nov. 28, 1990, 104 Stat. 4055, provided that: “This section [amending sections 2662 and 2663 of this title] may be cited as the ‘Rural Health and Safety Education Act of 1990’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–219, § 1, Dec. 29, 1987, 101 Stat. 1456, provided that: “This Act [amending section 2662 of this title] may be cited as the ‘Rural Crisis Recovery Program Act of 1987’.”
+Pub. L. 100–219, § 1, Dec. 29, 1987, 101 Stat. 1456, provided that: “This Act [amending section 2662 of this title] may be cited as the ‘Rural Crisis Recovery Program Act of 1987’.”
 
 **Northern Great Plains Rural Development**
 
-Pub. L. 103–318, Aug. 26, 1994, 108 Stat. 1781, as amended by Pub. L. 104–327, § 2, Oct. 19, 1996, 110 Stat. 4003, established Northern Great Plains Rural Development Commission to study and make recommendations regarding economic needs and economic development of rural Northern Great Plains by seeking and encouraging participation of interested citizens, public officials, groups, agencies, businesses, and other entities in developing 10-year rural economic development plan for Northern Great Plains, defined terms, provided for membership and organization of Commission, duties and powers of Commission, compensation of members, administrative provisions, interim and final reports to Congress, appropriations, and for termination of Commission on Sept. 30, 1997.
+Pub. L. 103–318, Aug. 26, 1994, 108 Stat. 1781, as amended by Pub. L. 104–327, § 2, Oct. 19, 1996, 110 Stat. 4003, established Northern Great Plains Rural Development Commission to study and make recommendations regarding economic needs and economic development of rural Northern Great Plains by seeking and encouraging participation of interested citizens, public officials, groups, agencies, businesses, and other entities in developing 10-year rural economic development plan for Northern Great Plains, defined terms, provided for membership and organization of Commission, duties and powers of Commission, compensation of members, administrative provisions, interim and final reports to Congress, appropriations, and for termination of Commission on Sept. 30, 1997.
 
-### § 2662. Programs authorized
+### § 2662. Programs authorized
 
 The Secretary of Agriculture (referred to in this subchapter as the “Secretary”) may conduct, in cooperation and coordination with colleges and universities, the following programs to carry out the purposes and achieve the goals of this subchapter.
 
@@ -239,7 +239,7 @@ Small farm extension programs shall consist of extension programs to improve sma
 
 Special grants programs shall consist of extension and research programs to strengthen research and education on national and regional issues in rural development, including the assessment of alternative policies and strategies for rural development and balanced growth; to develop alternative strategies for national and regional investment, and the creation of employment, in rural areas; to develop alternative energy policies to meet rural development needs; and to strengthen rural development programs of agencies of the Department of Agriculture and those in other Federal departments and agencies.
 
-**(f) , (g) Repealed. Pub. L. 104–127, title VII, § 792(a), title VIII, § 871, Apr. 4, 1996, 110 Stat. 1152, 1175**
+**(f) , (g) Repealed. Pub. L. 104–127, title VII, § 792(a), title VIII, § 871, Apr. 4, 1996, 110 Stat. 1152, 1175**
 
 **(h) Rural development extension work**
 
@@ -323,9 +323,9 @@ The Secretary shall ensure, to the extent practicable, that assistance provided 
 
 **(ii)** the reduction and prevention of exposure to farm chemicals;
 
-**(iii)** the reduction of agricultural respiratory diseases and dermititis; 1
+**(iii)** the reduction of agricultural respiratory diseases and dermititis; 1
 
-<sup>1</sup>  So in original. Probably should be “dermatitis;”.
+<sup>1</sup> So in original. Probably should be “dermatitis;”.
 
 **(iv)** the reduction and prevention of noise induced hearing loss;
 
@@ -361,15 +361,15 @@ The Secretary shall establish policies, procedures and limitations that shall ap
 
 For grants under this subsection, there are authorized to be appropriated $5,000,000 for fiscal year 1991, $10,000,000 for fiscal year 1992, $15,000,000 for fiscal year 1993, and $20,000,000 for fiscal year 1994 and each subsequent fiscal year. Amounts appropriated under this subsection shall remain available until expended.
 
-(Pub. L. 92–419, title V, § 502, as added Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1323; amended Pub. L. 99–198, title XIV, § 1440(a), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 100–219, § 2, Dec. 29, 1987, 101 Stat. 1456; Pub. L. 101–624, title XXIII, §§ 2346, 2349, 2389(a)–(c)(1), 2390(b)(1), Nov. 28, 1990, 104 Stat. 4032, 4037, 4053–4055; Pub. L. 102–237, title IV, § 403(a), title VII, § 704, Dec. 13, 1991, 105 Stat. 1863, 1881; Pub. L. 104–127, title VII, § 792(a), title VIII, §§ 871, 886, Apr. 4, 1996, 110 Stat. 1152, 1175, 1180; Pub. L. 110–234, title VII, § 7511(c)(6), May 22, 2008, 122 Stat. 1267; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(6), June 18, 2008, 122 Stat. 1664, 2029; Pub. L. 115–334, title VI, § 6101(a)(3), Dec. 20, 2018, 132 Stat. 4727.)
+(Pub. L. 92–419, title V, § 502, as added Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1323; amended Pub. L. 99–198, title XIV, § 1440(a), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 100–219, § 2, Dec. 29, 1987, 101 Stat. 1456; Pub. L. 101–624, title XXIII, §§ 2346, 2349, 2389(a)–(c)(1), 2390(b)(1), Nov. 28, 1990, 104 Stat. 4032, 4037, 4053–4055; Pub. L. 102–237, title IV, § 403(a), title VII, § 704, Dec. 13, 1991, 105 Stat. 1863, 1881; Pub. L. 104–127, title VII, § 792(a), title VIII, §§ 871, 886, Apr. 4, 1996, 110 Stat. 1152, 1175, 1180; Pub. L. 110–234, title VII, § 7511(c)(6), May 22, 2008, 122 Stat. 1267; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(6), June 18, 2008, 122 Stat. 1664, 2029; Pub. L. 115–334, title VI, § 6101(a)(3), Dec. 20, 2018, 132 Stat. 4727.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of July 2, 1862, referred to in subsec. (i)(4), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (i)(4), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, referred to in subsec. (i)(4), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (i)(4), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 **Codification**
 
@@ -377,71 +377,71 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 2662, Pub. L. 92–419, title V, § 502, Aug. 30, 1972, 86 Stat. 671; Pub. L. 95–113, title XIV, § 1440, Sept. 29, 1977, 91 Stat. 1005, related to programs authorization and cooperation and coordination with colleges and universities, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
+A prior section 2662, Pub. L. 92–419, title V, § 502, Aug. 30, 1972, 86 Stat. 671; Pub. L. 95–113, title XIV, § 1440, Sept. 29, 1977, 91 Stat. 1005, related to programs authorization and cooperation and coordination with colleges and universities, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 **Amendments**
 
-2018—Pub. L. 115–334, § 6101(a)(3)(A), inserted “(referred to in this subchapter as the ‘Secretary’)” after “Agriculture” in introductory provisions.
+2018—Pub. L. 115–334, § 6101(a)(3)(A), inserted “(referred to in this subchapter as the ‘Secretary’)” after “Agriculture” in introductory provisions.
 
-Subsec. (h)(1). Pub. L. 115–334, § 6101(a)(3)(B), substituted “Secretary” for “Secretary of Agriculture” in introductory provisions.
+Subsec. (h)(1). Pub. L. 115–334, § 6101(a)(3)(B), substituted “Secretary” for “Secretary of Agriculture” in introductory provisions.
 
-2008—Subsec. (h)(1). Pub. L. 110–246, § 7511(c)(6)(A), substituted “National Institute of Food and Agriculture” for “Extension Service” in introductory provisions.
+2008—Subsec. (h)(1). Pub. L. 110–246, § 7511(c)(6)(A), substituted “National Institute of Food and Agriculture” for “Extension Service” in introductory provisions.
 
-Subsec. (h)(4). Pub. L. 110–246, § 7511(c)(6)(B), substituted “National Institute of Food and Agriculture staff” for “Extension Service staff”.
+Subsec. (h)(4). Pub. L. 110–246, § 7511(c)(6)(B), substituted “National Institute of Food and Agriculture staff” for “Extension Service staff”.
 
-1996—Subsec. (a). Pub. L. 104–127, § 886, inserted after first sentence “The rural development extension programs shall also promote coordinated and integrated rural community initiatives that advance and empower capacity building through leadership development, entrepreneurship, business development and management training, and strategic planning to increase jobs, income, and quality of life in rural communities.”
+1996—Subsec. (a). Pub. L. 104–127, § 886, inserted after first sentence “The rural development extension programs shall also promote coordinated and integrated rural community initiatives that advance and empower capacity building through leadership development, entrepreneurship, business development and management training, and strategic planning to increase jobs, income, and quality of life in rural communities.”
 
-Subsec. (f). Pub. L. 104–127, § 792(a), struck out subsec. (f), which related to competitive grants for financially stressed farmers, dislocated farmers, and rural families.
+Subsec. (f). Pub. L. 104–127, § 792(a), struck out subsec. (f), which related to competitive grants for financially stressed farmers, dislocated farmers, and rural families.
 
-Subsec. (g). Pub. L. 104–127, § 871, struck out subsec. (g), which authorized establishment of Extension Service rural economic and business development program to enable States or counties to employ specialists as Cooperative Extension Service staff to assist individuals in creating new businesses, or to assist existing businesses.
+Subsec. (g). Pub. L. 104–127, § 871, struck out subsec. (g), which authorized establishment of Extension Service rural economic and business development program to enable States or counties to employ specialists as Cooperative Extension Service staff to assist individuals in creating new businesses, or to assist existing businesses.
 
-Subsec. (j). Pub. L. 104–127, § 871, struck out subsec. (j), which authorized program to award competitive grants to carry out rural development research.
+Subsec. (j). Pub. L. 104–127, § 871, struck out subsec. (j), which authorized program to award competitive grants to carry out rural development research.
 
-1991—Subsec. (b). Pub. L. 102–237, § 403(a)(2)(A), redesignated subsec. (b), relating to rural development extension work, as (h).
+1991—Subsec. (b). Pub. L. 102–237, § 403(a)(2)(A), redesignated subsec. (b), relating to rural development extension work, as (h).
 
-Subsec. (f). Pub. L. 102–237, § 403(a)(1), amended heading generally and in par. (2) substituted “until” for “during the period beginning on the date of the enactment of this Act and ending on”.
+Subsec. (f). Pub. L. 102–237, § 403(a)(1), amended heading generally and in par. (2) substituted “until” for “during the period beginning on the date of the enactment of this Act and ending on”.
 
-Subsec. (h). Pub. L. 102–237, § 403(a)(2), redesignated subsec. (b), relating to rural development extension work, as (h), redesignated former subsec. (h), relating to rural health and safety education programs, as (i) and former subsec. (h), relating to research grants, as (j), and moved such subsecs. to appear in proper order.
+Subsec. (h). Pub. L. 102–237, § 403(a)(2), redesignated subsec. (b), relating to rural development extension work, as (h), redesignated former subsec. (h), relating to rural health and safety education programs, as (i) and former subsec. (h), relating to research grants, as (j), and moved such subsecs. to appear in proper order.
 
-Subsec. (i). Pub. L. 102–237, § 403(a)(2)(B), (D), redesignated subsec. (h), relating to rural health and safety education programs, as (i) and moved such subsec. to appear in proper order.
+Subsec. (i). Pub. L. 102–237, § 403(a)(2)(B), (D), redesignated subsec. (h), relating to rural health and safety education programs, as (i) and moved such subsec. to appear in proper order.
 
-Subsec. (i)(1)(C). Pub. L. 102–237, § 704(a), added subpar. (C).
+Subsec. (i)(1)(C). Pub. L. 102–237, § 704(a), added subpar. (C).
 
-Subsec. (i)(4). Pub. L. 102–237, § 704(b), inserted “or entities described in paragraph (1)(C)” after “to States”.
+Subsec. (i)(4). Pub. L. 102–237, § 704(b), inserted “or entities described in paragraph (1)(C)” after “to States”.
 
-Subsec. (j). Pub. L. 102–237, § 403(a)(2)(C), (D), redesignated subsec. (h), relating to research grants, as (j) and moved such subsec. to appear in proper order.
+Subsec. (j). Pub. L. 102–237, § 403(a)(2)(C), (D), redesignated subsec. (h), relating to research grants, as (j) and moved such subsec. to appear in proper order.
 
-1990—Subsec. (b). Pub. L. 101–624, § 2346, added subsec. (b), relating to rural development extension work, following subsec. (g).
+1990—Subsec. (b). Pub. L. 101–624, § 2346, added subsec. (b), relating to rural development extension work, following subsec. (g).
 
-Subsec. (f). Pub. L. 101–624, § 2389(c)(1), substituted “Competitive” for “Special” in heading.
+Subsec. (f). Pub. L. 101–624, § 2389(c)(1), substituted “Competitive” for “Special” in heading.
 
-Subsec. (f)(1)(A). Pub. L. 101–624, § 2389(b)(1), substituted “competitive grants for programs that meet the criteria specified in subparagraph (B) to develop counseling, retraining, and educational” for “special grants for programs to develop educational, retraining, and counseling”.
+Subsec. (f)(1)(A). Pub. L. 101–624, § 2389(b)(1), substituted “competitive grants for programs that meet the criteria specified in subparagraph (B) to develop counseling, retraining, and educational” for “special grants for programs to develop educational, retraining, and counseling”.
 
-Subsec. (f)(1)(B). Pub. L. 101–624, § 2389(b)(3), (4), added subpar. (B), struck out heading, introductory provisions, and cl. (i) of former subpar. (B), and redesignated cls. (ii) to (viii) of former subpar. (B) as cls. (i) to (vii) of subpar. (D). Prior to amendment, introductory provisions and cl. (i) read as follows: “Such programs shall provide the following services:
+Subsec. (f)(1)(B). Pub. L. 101–624, § 2389(b)(3), (4), added subpar. (B), struck out heading, introductory provisions, and cl. (i) of former subpar. (B), and redesignated cls. (ii) to (viii) of former subpar. (B) as cls. (i) to (vii) of subpar. (D). Prior to amendment, introductory provisions and cl. (i) read as follows: “Such programs shall provide the following services:
 
 “(i) Clinical outreach counseling and crisis management assistance through appropriate State officials.”
 
-Subsec. (f)(1)(C). Pub. L. 101–624, § 2389(b)(2), (4), added subpar. (C) and redesignated former subpar. (C) as (E).
+Subsec. (f)(1)(C). Pub. L. 101–624, § 2389(b)(2), (4), added subpar. (C) and redesignated former subpar. (C) as (E).
 
-Subsec. (f)(1)(D). Pub. L. 101–624, § 2389(b)(2), (4), added heading and introductory provisions of subpar. (D) and redesignated former subpar. (D) as (F).
+Subsec. (f)(1)(D). Pub. L. 101–624, § 2389(b)(2), (4), added heading and introductory provisions of subpar. (D) and redesignated former subpar. (D) as (F).
 
-Subsec. (f)(1)(D)(i) to (vii). Pub. L. 101–624, § 2389(b)(3)(B), redesignated former subpar. (B)(ii) to (viii) as subpar. (D)(i) to (vii).
+Subsec. (f)(1)(D)(i) to (vii). Pub. L. 101–624, § 2389(b)(3)(B), redesignated former subpar. (B)(ii) to (viii) as subpar. (D)(i) to (vii).
 
-Subsec. (f)(1)(D)(viii). Pub. L. 101–624, § 2389(b)(5), added cl. (viii).
+Subsec. (f)(1)(D)(viii). Pub. L. 101–624, § 2389(b)(5), added cl. (viii).
 
-Subsec. (f)(1)(E). Pub. L. 101–624, § 2389(b)(2), redesignated former subpar. (C) as (E).
+Subsec. (f)(1)(E). Pub. L. 101–624, § 2389(b)(2), redesignated former subpar. (C) as (E).
 
-Subsec. (f)(1)(F). Pub. L. 101–624, § 2389(b)(6), substituted “shall work with the appropriate State office of rural health, State department or agency of mental health, and other” for “is encouraged to work with” and “an annual comprehensive plan” for “a comprehensive plan”, struck out “special” before “grant funds”, and inserted at end “For recipients in a State to be eligible for a grant under this subsection in any fiscal year, the Cooperative Extension Service within the State must develop and sign a Memorandum of Agreement with the appropriate State department or agency of mental health and other State agencies as may be appropriate to carry out the comprehensive plan. Such agreement and plan must emphasize the development and delivery of counseling and outreach programs as provided under subparagraph (B).”
+Subsec. (f)(1)(F). Pub. L. 101–624, § 2389(b)(6), substituted “shall work with the appropriate State office of rural health, State department or agency of mental health, and other” for “is encouraged to work with” and “an annual comprehensive plan” for “a comprehensive plan”, struck out “special” before “grant funds”, and inserted at end “For recipients in a State to be eligible for a grant under this subsection in any fiscal year, the Cooperative Extension Service within the State must develop and sign a Memorandum of Agreement with the appropriate State department or agency of mental health and other State agencies as may be appropriate to carry out the comprehensive plan. Such agreement and plan must emphasize the development and delivery of counseling and outreach programs as provided under subparagraph (B).”
 
-Pub. L. 101–624, § 2389(b)(2), redesignated former subpar. (D) as (F).
+Pub. L. 101–624, § 2389(b)(2), redesignated former subpar. (D) as (F).
 
-Subsec. (f)(2). Pub. L. 101–624, § 2389(a), inserted “to eligible applicants in any State applying for such grants” after “under paragraph (1)”, and substituted “1995” for “1990”.
+Subsec. (f)(2). Pub. L. 101–624, § 2389(a), inserted “to eligible applicants in any State applying for such grants” after “under paragraph (1)”, and substituted “1995” for “1990”.
 
-Subsec. (g). Pub. L. 101–624, § 2346, added subsec. (g).
+Subsec. (g). Pub. L. 101–624, § 2346, added subsec. (g).
 
-Subsec. (h). Pub. L. 101–624, § 2349, added subsec. (h) relating to research grants.
+Subsec. (h). Pub. L. 101–624, § 2349, added subsec. (h) relating to research grants.
 
-Pub. L. 101–624, § 2390(b)(1), added subsec. (h) relating to rural health and safety education programs.
+Pub. L. 101–624, § 2390(b)(1), added subsec. (h) relating to rural health and safety education programs.
 
 1987—Subsec. (f). Pub. L. 100–219 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
@@ -479,17 +479,17 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 **Effect of Amendments on Current Grant Recipients**
 
-Pub. L. 101–624, title XXIII, § 2389(d), Nov. 28, 1990, 104 Stat. 4055, provided that 8 States receiving grants under 7 U.S.C. 2662(f) during fiscal year 1990 could continue to be eligible to receive grants (in an amount not to exceed the amount received during that fiscal year) under that section notwithstanding that such grants be awarded competitively, so long as such States complied with requirement that not less than one-half of such grant amount was to be used for clinical outreach counseling and crisis management assistance, prior to repeal by Pub. L. 104–127, title VII, § 792(b)(1), Apr. 4, 1996, 100 Stat. 1152.
+Pub. L. 101–624, title XXIII, § 2389(d), Nov. 28, 1990, 104 Stat. 4055, provided that 8 States receiving grants under 7 U.S.C. 2662(f) during fiscal year 1990 could continue to be eligible to receive grants (in an amount not to exceed the amount received during that fiscal year) under that section notwithstanding that such grants be awarded competitively, so long as such States complied with requirement that not less than one-half of such grant amount was to be used for clinical outreach counseling and crisis management assistance, prior to repeal by Pub. L. 104–127, title VII, § 792(b)(1), Apr. 4, 1996, 100 Stat. 1152.
 
 **Rural Health Infrastructure Improvement**
 
-Pub. L. 101–624, title XXIII, § 2391, Nov. 28, 1990, 104 Stat. 4057, provided for award of grant for establishment of project to demonstrate model approach to improving rural health infrastructure, which was to carry out systematic, community-based rural health needs assessments, identify and coordinate available health services resources, improve community infrastructure through health education and information and leadership development and training, and develop community generated health improvement strategies, and further provided for project implementation and limitations on authorization of appropriations, prior to repeal by Pub. L. 104–127, title VII, § 709, Apr. 4, 1996, 110 Stat. 1112.
+Pub. L. 101–624, title XXIII, § 2391, Nov. 28, 1990, 104 Stat. 4057, provided for award of grant for establishment of project to demonstrate model approach to improving rural health infrastructure, which was to carry out systematic, community-based rural health needs assessments, identify and coordinate available health services resources, improve community infrastructure through health education and information and leadership development and training, and develop community generated health improvement strategies, and further provided for project implementation and limitations on authorization of appropriations, prior to repeal by Pub. L. 104–127, title VII, § 709, Apr. 4, 1996, 110 Stat. 1112.
 
-### § 2662a. Repealed. Pub. L. 104–127, title VII, § 706, title VIII, § 867, Apr. 4, 1996, 110 Stat. 1112, 1174
+### § 2662a. Repealed. Pub. L. 104–127, title VII, § 706, title VIII, § 867, Apr. 4, 1996, 110 Stat. 1112, 1174
 
-Section, Pub. L. 101–624, title XXIII, § 2348, Nov. 28, 1990, 104 Stat. 4037, required Secretary to establish program of competitive grants to rural areas to serve as demonstration areas for rural economic development and as models of such development for other areas, and set forth criteria for award of such grants.
+Section, Pub. L. 101–624, title XXIII, § 2348, Nov. 28, 1990, 104 Stat. 4037, required Secretary to establish program of competitive grants to rural areas to serve as demonstration areas for rural economic development and as models of such development for other areas, and set forth criteria for award of such grants.
 
-### § 2663. Funding
+### § 2663. Funding
 
 **(a) Authorization of appropriations**
 
@@ -527,33 +527,33 @@ Funds shall be available for use by each State in the fiscal year for which appr
 
 Funds provided to each State under this subchapter may be used to finance programs through or at private and publicly supported colleges and universities other than the institutions responsible for administering the programs, as provided under section 2664 of this title.
 
-(Pub. L. 92–419, title V, § 503, as added Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1324; amended Pub. L. 99–198, title XIV, § 1440(b), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 101–624, title XXIII, §§ 2389(c)(2), 2390(b)(2), Nov. 28, 1990, 104 Stat. 4055, 4056; Pub. L. 102–237, title IV, § 403(b), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VII, § 792(b)(2), Apr. 4, 1996, 110 Stat. 1152; Pub. L. 115–334, title VI, § 6101(a)(3)(B), Dec. 20, 2018, 132 Stat. 4727.)
+(Pub. L. 92–419, title V, § 503, as added Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1324; amended Pub. L. 99–198, title XIV, § 1440(b), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 101–624, title XXIII, §§ 2389(c)(2), 2390(b)(2), Nov. 28, 1990, 104 Stat. 4055, 4056; Pub. L. 102–237, title IV, § 403(b), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VII, § 792(b)(2), Apr. 4, 1996, 110 Stat. 1152; Pub. L. 115–334, title VI, § 6101(a)(3)(B), Dec. 20, 2018, 132 Stat. 4727.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of July 2, 1862, referred to in subsec. (e), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (e), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, referred to in subsec. (e), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (e), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 2663, Pub. L. 92–419, title V, § 503, Aug. 30, 1972, 86 Stat. 672; Pub. L. 94–259, § 1, Apr. 5, 1976, 90 Stat. 314; Pub. L. 95–113, title XIV, § 1441, Sept. 29, 1977, 91 Stat. 1006; Pub. L. 96–355, § 4(1)–(3), Sept. 24, 1980, 94 Stat. 1173, 1174, related to program moneys, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
+A prior section 2663, Pub. L. 92–419, title V, § 503, Aug. 30, 1972, 86 Stat. 672; Pub. L. 94–259, § 1, Apr. 5, 1976, 90 Stat. 314; Pub. L. 95–113, title XIV, § 1441, Sept. 29, 1977, 91 Stat. 1006; Pub. L. 96–355, § 4(1)–(3), Sept. 24, 1980, 94 Stat. 1173, 1174, related to program moneys, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 **Amendments**
 
 2018—Subsec. (b). Pub. L. 115–334 substituted “Secretary” for “Secretary of Agriculture” in introductory provisions.
 
-1996—Subsec. (c). Pub. L. 104–127, § 792(b)(2)(A)(ii), (iii), which directed substitution of “subsections (e), (h), and (i) of section 2662 of this title shall be distributed” for “section 2662(e)” and all that follows through “shall be distributed” and “objectives of subsections (e), (h), and (i) of section 2662 of this title” for “objectives of” and all that follows through “title”, could not be executed because of prior amendment by Pub. L. 102–237, which substituted “subsections (e) and (i) of section 2662 of this title shall be distributed” for “the provisions of section 2662(e) of this title shall be distributed” and “objectives of those subsections” for “objectives of section 2662(e) of this title”. See 1991 Amendment note below.
+1996—Subsec. (c). Pub. L. 104–127, § 792(b)(2)(A)(ii), (iii), which directed substitution of “subsections (e), (h), and (i) of section 2662 of this title shall be distributed” for “section 2662(e)” and all that follows through “shall be distributed” and “objectives of subsections (e), (h), and (i) of section 2662 of this title” for “objectives of” and all that follows through “title”, could not be executed because of prior amendment by Pub. L. 102–237, which substituted “subsections (e) and (i) of section 2662 of this title shall be distributed” for “the provisions of section 2662(e) of this title shall be distributed” and “objectives of those subsections” for “objectives of section 2662(e) of this title”. See 1991 Amendment note below.
 
-Pub. L. 104–127, § 792(b)(2)(A)(i), (B), struck out “(1)” before “Such sums” and struck out par. (2) which read as follows: “The Secretary shall distribute the amounts appropriated to carry out section 2662(f) of this title to colleges and universities in accordance with the requirements of such subsection.”
+Pub. L. 104–127, § 792(b)(2)(A)(i), (B), struck out “(1)” before “Such sums” and struck out par. (2) which read as follows: “The Secretary shall distribute the amounts appropriated to carry out section 2662(f) of this title to colleges and universities in accordance with the requirements of such subsection.”
 
 1991—Subsec. (c)(1). Pub. L. 102–237 substituted “subsections (e) and (i) of section 2662 of this title” for “the provisions of section 2662(e) of this title” and “objectives of those subsections” for “objectives of section 2662(e) of this title”.
 
-1990—Subsec. (c). Pub. L. 101–624, § 2390(b)(2), which directed substitution of “section 2662(f) of this title, and section 2662(h) of this title” for “and section 2662(f) of this title”, could not be executed because of prior amendment by Pub. L. 101–624, § 2389(c)(2)(B), which struck out “and section 2662(f)” wherever appearing in par. (1). See below.
+1990—Subsec. (c). Pub. L. 101–624, § 2390(b)(2), which directed substitution of “section 2662(f) of this title, and section 2662(h) of this title” for “and section 2662(f) of this title”, could not be executed because of prior amendment by Pub. L. 101–624, § 2389(c)(2)(B), which struck out “and section 2662(f)” wherever appearing in par. (1). See below.
 
-Pub. L. 101–624, § 2389(c)(2), inserted heading, designated existing provisions as par. (1), struck out “and section 2662(f)” before “of this title” in two places, and added par. (2).
+Pub. L. 101–624, § 2389(c)(2), inserted heading, designated existing provisions as par. (1), struck out “and section 2662(f)” before “of this title” in two places, and added par. (2).
 
 1985—Subsec. (c). Pub. L. 99–198 inserted references to section 2662(f) of this title.
 
@@ -563,7 +563,7 @@ Pub. L. 101–624, § 2389(c)(2), inserted heading, designated existing provis
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### § 2664. Cooperating colleges and universities
+### § 2664. Cooperating colleges and universities
 
 **(a) Program administration**
 
@@ -581,19 +581,19 @@ The institution of each State responsible for administering the programs authori
 
 The institution in each State responsible for administering the programs authorized under this subchapter shall name an advisory council to review and approve budgets and plans of work conducted under this subchapter and to advise the chief administrative officer of the institution administering the programs on matters pertaining to the programs. An existing State rural development committee or council may be named to perform this function, or a new council may be appointed by the chief administrative officer or officers. The committee or council named or appointed shall consist of at least twelve members and shall include persons representing farmers, business, labor, banking, local government, multicounty planning and development districts, public and private colleges and universities in the State, and Federal and State agencies involved in rural development.
 
-(Pub. L. 92–419, title V, § 504, as added Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1325; amended Pub. L. 115–334, title VI, § 6101(a)(3)(B), Dec. 20, 2018, 132 Stat. 4727.)
+(Pub. L. 92–419, title V, § 504, as added Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1325; amended Pub. L. 115–334, title VI, § 6101(a)(3)(B), Dec. 20, 2018, 132 Stat. 4727.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of July 2, 1862, referred to in subsec. (a), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (a), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 2664, Pub. L. 92–419, title V, § 504, Aug. 30, 1972, 86 Stat. 673, related to conducting of programs authorized by this subchapter, by cooperating colleges and universities, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
+A prior section 2664, Pub. L. 92–419, title V, § 504, Aug. 30, 1972, 86 Stat. 673, related to conducting of programs authorized by this subchapter, by cooperating colleges and universities, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 **Amendments**
 
@@ -605,17 +605,17 @@ A prior section 2664, Pub. L. 92–419, title V, § 504, Aug. 30, 1972, 86 Sta
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### § 2665. Withholding funds
+### § 2665. Withholding funds
 
 If the Secretary determines that a State is not eligible to receive part or all of the funds to which it is otherwise entitled for programs under section 2662(a) and (b) of this title because of a failure to comply with regulations issued by the Secretary under this subchapter, the facts and reasons therefor shall be reported to the President, and the amount involved shall be kept separate in the Treasury until the expiration of the Congress next succeeding the session of the legislature of the State from which funds have been withheld in order that the State may, if it should so desire, appeal to Congress from the determination of the Secretary. If the next Congress shall not direct such sum to be paid, it shall be covered into the Treasury. If any portion of the moneys that are received by the designated officers of any State for the support and maintenance of programs authorized under this subchapter shall by any action or contingency be diminished or lost, or be misapplied, it shall be replaced by the State.
 
-(Pub. L. 92–419, title V, § 505, as added Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326; amended Pub. L. 115–334, title VI, § 6101(a)(3)(B), Dec. 20, 2018, 132 Stat. 4727.)
+(Pub. L. 92–419, title V, § 505, as added Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326; amended Pub. L. 115–334, title VI, § 6101(a)(3)(B), Dec. 20, 2018, 132 Stat. 4727.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2665, Pub. L. 92–419, title V, § 505, Aug. 30, 1972, 86 Stat. 673, related to agreements and plans, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
+A prior section 2665, Pub. L. 92–419, title V, § 505, Aug. 30, 1972, 86 Stat. 673, related to agreements and plans, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 Provisions similar to those comprising this section were contained in former section 2666 of this title, prior to its repeal by Pub. L. 97–98.
 
@@ -629,7 +629,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### § 2666. Definitions
+### § 2666. Definitions
 
 For the purposes of this subchapter—
 
@@ -639,13 +639,13 @@ For the purposes of this subchapter—
 
 **(c)** “small farm” means any farm (1) producing family net income from all sources (farm and nonfarm) below the median nonmetropolitan income of the State; (2) operated by a family dependent on farming for a significant though not necessarily a majority of its income; and (3) on which family members provide most of the labor and management.
 
-(Pub. L. 92–419, title V, § 506, as added Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.)
+(Pub. L. 92–419, title V, § 506, as added Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2666, Pub. L. 92–419, title V, § 506, Aug. 30, 1972, 86 Stat. 674, related to withholding of funds, the keeping of a separate account in the Treasury, appeal by a State to Congress, covering of moneys into the Treasury, and State money replacement, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
+A prior section 2666, Pub. L. 92–419, title V, § 506, Aug. 30, 1972, 86 Stat. 674, related to withholding of funds, the keeping of a separate account in the Treasury, appeal by a State to Congress, covering of moneys into the Treasury, and State money replacement, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 Provisions similar to those comprising this section were contained in former section 2667 of this title, prior to repeal by Pub. L. 97–98.
 
@@ -655,17 +655,17 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### § 2667. Regulations
+### § 2667. Regulations
 
 The Secretary may issue such regulations as the Secretary determines necessary to carry out the provisions of this subchapter.
 
-(Pub. L. 92–419, title V, § 507, as added Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326; amended Pub. L. 115–334, title VI, § 6101(a)(3)(B), Dec. 20, 2018, 132 Stat. 4727.)
+(Pub. L. 92–419, title V, § 507, as added Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326; amended Pub. L. 115–334, title VI, § 6101(a)(3)(B), Dec. 20, 2018, 132 Stat. 4727.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2667, Pub. L. 92–419, title V, § 507, Aug. 30, 1972, 86 Stat. 674; Pub. L. 95–113, title XIV, § 1442, Sept. 29, 1977, 91 Stat. 1006; Pub. L. 96–355, § 4(4), Sept. 24, 1980, 94 Stat. 1174, set forth definitions for purposes of this subchapter, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
+A prior section 2667, Pub. L. 92–419, title V, § 507, Aug. 30, 1972, 86 Stat. 674; Pub. L. 95–113, title XIV, § 1442, Sept. 29, 1977, 91 Stat. 1006; Pub. L. 96–355, § 4(4), Sept. 24, 1980, 94 Stat. 1174, set forth definitions for purposes of this subchapter, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 Provisions similar to those comprising this section were contained in former section 2668 of this title, which was omitted from the Code.
 
@@ -679,15 +679,15 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### § 2668. Omitted
+### § 2668. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 92–419, title V, § 508, Aug. 30, 1972, 86 Stat. 674, related to Secretary’s authority to promulgate such regulations as might be necessary to carry out the provisions of this subchapter, prior to the general revision of this subchapter by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1322. See section 2667 of this title.
+Section, Pub. L. 92–419, title V, § 508, Aug. 30, 1972, 86 Stat. 674, related to Secretary’s authority to promulgate such regulations as might be necessary to carry out the provisions of this subchapter, prior to the general revision of this subchapter by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1322. See section 2667 of this title.
 
-### § 2669. Pilot projects for production and marketing of industrial hydrocarbons and alcohols from agricultural commodities and forest products
+### § 2669. Pilot projects for production and marketing of industrial hydrocarbons and alcohols from agricultural commodities and forest products
 
 **(a) Formulation and execution of program**
 
@@ -713,7 +713,7 @@ The Secretary shall supply from Commodity Credit Corporation stocks or, to such 
 
 The provisions of this section shall be carried out through the Commodity Credit Corporation.
 
-(Pub. L. 92–419, title V, § 508, formerly § 509, as added Pub. L. 95–113, title XIV, § 1420, Sept. 29, 1977, 91 Stat. 998; renumbered Pub. L. 97–98, title XIV, § 1444(b), Dec. 22, 1981, 95 Stat. 1326.)
+(Pub. L. 92–419, title V, § 508, formerly § 509, as added Pub. L. 95–113, title XIV, § 1420, Sept. 29, 1977, 91 Stat. 998; renumbered Pub. L. 97–98, title XIV, § 1444(b), Dec. 22, 1981, 95 Stat. 1326.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -721,9 +721,9 @@ The provisions of this section shall be carried out through the Commodity Credit
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 2670. Repealed. Pub. L. 97–98, title XIV, § 1444(b), Dec. 22, 1981, 95 Stat. 1326
+### § 2670. Repealed. Pub. L. 97–98, title XIV, § 1444(b), Dec. 22, 1981, 95 Stat. 1326
 
-Section, Pub. L. 92–419, title V, § 510, as added Pub. L. 95–113, title XIV, § 1443, Sept. 29, 1977, 91 Stat. 1006, required an annual evaluation by Secretary of effectiveness of programs established under section 2662(c) and (d) of this title and submission of an annual report to Congress on that evaluation and operation of programs during previous year.
+Section, Pub. L. 92–419, title V, § 510, as added Pub. L. 95–113, title XIV, § 1443, Sept. 29, 1977, 91 Stat. 1006, required an annual evaluation by Secretary of effectiveness of programs established under section 2662(c) and (d) of this title and submission of an annual report to Congress on that evaluation and operation of programs during previous year.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -731,7 +731,7 @@ Section, Pub. L. 92–419, title V, § 510, as added Pub. L. 95–113, title X
 
 Repeal effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
 
-### § 2671. Establishment of technical assistance program
+### § 2671. Establishment of technical assistance program
 
 **(a) Definition**
 
@@ -739,9 +739,9 @@ In this section, the term “tribally designated housing entity” has the meani
 
 **(b) In general**
 
-The Secretary shall, in coordination with the Office of Tribal Relations established under section 6921 1
+The Secretary shall, in coordination with the Office of Tribal Relations established under section 6921 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, provide technical assistance to improve access by Tribal entities to rural development programs funded by the Department of Agriculture through available cooperative agreement authorities of the Secretary.
 
@@ -749,7 +749,7 @@ of this title, provide technical assistance to improve access by Tribal entities
 
 Technical assistance provided under subsection (b) shall address the unique challenge of Tribal governments, Tribal producers, Tribal businesses, Tribal business entities, and tribally designated housing entities in accessing Department of Agriculture-supported rural infrastructure, rural cooperative development, rural business and industry, rural housing, and other rural development activities.
 
-(Pub. L. 115–334, title VI, § 6302, Dec. 20, 2018, 132 Stat. 4748.)
+(Pub. L. 115–334, title VI, § 6302, Dec. 20, 2018, 132 Stat. 4748.)
 
 **Editorial Notes**
 

@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–141, div. V, § 105(b), Mar. 23, 2018, 132 Stat. 1224, added item 2523.
+2018—Pub. L. 115–141, div. V, § 105(b), Mar. 23, 2018, 132 Stat. 1224, added item 2523.
 
-1994—Pub. L. 103–414, title II, § 201(b)(3), Oct. 25, 1994, 108 Stat. 4290, added item 2522.
+1994—Pub. L. 103–414, title II, § 201(b)(3), Oct. 25, 1994, 108 Stat. 4290, added item 2522.
 
-1988—Pub. L. 100–690, title VII, § 7035, Nov. 18, 1988, 102 Stat. 4398, substituted “wire, oral, or electronic” for “wire or oral” in items 2511, 2512, 2513, 2516, 2517, 2518, and 2519.
+1988—Pub. L. 100–690, title VII, § 7035, Nov. 18, 1988, 102 Stat. 4398, substituted “wire, oral, or electronic” for “wire or oral” in items 2511, 2512, 2513, 2516, 2517, 2518, and 2519.
 
-1986—Pub. L. 99–508, title I, §§ 101(c)(2), 110(b), Oct. 21, 1986, 100 Stat. 1851, 1859, inserted “AND ELECTRONIC COMMUNICATIONS” in chapter heading and added item 2521.
+1986—Pub. L. 99–508, title I, §§ 101(c)(2), 110(b), Oct. 21, 1986, 100 Stat. 1851, 1859, inserted “AND ELECTRONIC COMMUNICATIONS” in chapter heading and added item 2521.
 
-1970—Pub. L. 91–452, title II, § 227(b), Oct. 15, 1970, 84 Stat. 930, struck out item 2514 “Immunity of witnesses”, which section was repealed four years following the sixtieth day after Oct. 15, 1970.
+1970—Pub. L. 91–452, title II, § 227(b), Oct. 15, 1970, 84 Stat. 930, struck out item 2514 “Immunity of witnesses”, which section was repealed four years following the sixtieth day after Oct. 15, 1970.
 
-1968—Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 212, added chapter 119 and items 2510 to 2520.
+1968—Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 212, added chapter 119 and items 2510 to 2520.
 
-## § 2510. Definitions
+## § 2510. Definitions
 
 As used in this chapter—
 
@@ -43,7 +43,7 @@ As used in this chapter—
 
 **(4)** “intercept” means the aural or other acquisition of the contents of any wire, electronic, or oral communication through the use of any electronic, mechanical, or other device.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(5)** “electronic, mechanical, or other device” means any device or apparatus which can be used to intercept a wire, oral, or electronic communication other than—
 
@@ -139,7 +139,7 @@ a judge of any court of general criminal jurisdiction of a State who is authoriz
 
 **(B)** does not include a person known by the owner or operator of the protected computer to have an existing contractual relationship with the owner or operator of the protected computer for access to all or part of the protected computer.
 
-(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 212; amended Pub. L. 99–508, title I, § 101(a), (c)(1)(A), (4), Oct. 21, 1986, 100 Stat. 1848, 1851; Pub. L. 103–414, title II, §§ 202(a), 203, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–132, title VII, § 731, Apr. 24, 1996, 110 Stat. 1303; Pub. L. 107–56, title II, §§ 203(b)(2), 209(1), 217(1), Oct. 26, 2001, 115 Stat. 280, 283, 290; Pub. L. 107–108, title III, § 314(b), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 107–273, div. B, title IV, § 4002(e)(10), Nov. 2, 2002, 116 Stat. 1810.)
+(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 212; amended Pub. L. 99–508, title I, § 101(a), (c)(1)(A), (4), Oct. 21, 1986, 100 Stat. 1848, 1851; Pub. L. 103–414, title II, §§ 202(a), 203, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–132, title VII, § 731, Apr. 24, 1996, 110 Stat. 1303; Pub. L. 107–56, title II, §§ 203(b)(2), 209(1), 217(1), Oct. 26, 2001, 115 Stat. 280, 283, 290; Pub. L. 107–108, title III, § 314(b), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 107–273, div. B, title IV, § 4002(e)(10), Nov. 2, 2002, 116 Stat. 1810.)
 
 **Editorial Notes**
 
@@ -151,49 +151,49 @@ Section 3 of the Communications Act of 1934, referred to in par. (10), is classi
 
 2002—Par. (10). Pub. L. 107–273 substituted “has the meaning given that term in section 3 of the Communications Act of 1934;” for “shall have the same meaning which is given the term ‘common carrier’ by section 153(h) of title 47 of the United States Code;”.
 
-2001—Par. (1). Pub. L. 107–56, § 209(1)(A), struck out “and such term includes any electronic storage of such communication” before semicolon at end.
+2001—Par. (1). Pub. L. 107–56, § 209(1)(A), struck out “and such term includes any electronic storage of such communication” before semicolon at end.
 
-Par. (14). Pub. L. 107–56, § 209(1)(B), inserted “wire or” after “transmission of”.
+Par. (14). Pub. L. 107–56, § 209(1)(B), inserted “wire or” after “transmission of”.
 
-Par. (19). Pub. L. 107–108 inserted “, for purposes of section 2517(6) of this title,” before “means” in introductory provisions.
+Par. (19). Pub. L. 107–108 inserted “, for purposes of section 2517(6) of this title,” before “means” in introductory provisions.
 
-Pub. L. 107–56, § 203(b)(2), added par. (19).
+Pub. L. 107–56, § 203(b)(2), added par. (19).
 
-Pars. (20), (21). Pub. L. 107–56, § 217(1), added pars. (20) and (21).
+Pars. (20), (21). Pub. L. 107–56, § 217(1), added pars. (20) and (21).
 
-1996—Par. (12)(D). Pub. L. 104–132, § 731(1), added subpar. (D).
+1996—Par. (12)(D). Pub. L. 104–132, § 731(1), added subpar. (D).
 
-Par. (16)(F). Pub. L. 104–132, § 731(2), struck out subpar. (F) which read as follows: “an electronic communication;”.
+Par. (16)(F). Pub. L. 104–132, § 731(2), struck out subpar. (F) which read as follows: “an electronic communication;”.
 
-1994—Par. (1). Pub. L. 103–414, § 202(a)(1), struck out before semicolon at end “, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit”.
+1994—Par. (1). Pub. L. 103–414, § 202(a)(1), struck out before semicolon at end “, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit”.
 
-Par. (12). Pub. L. 103–414, § 202(a)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit;”.
+Par. (12). Pub. L. 103–414, § 202(a)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit;”.
 
-Par. (16)(F). Pub. L. 103–414, § 203, added subpar. (F).
+Par. (16)(F). Pub. L. 103–414, § 203, added subpar. (F).
 
-1986—Par. (1). Pub. L. 99–508, § 101(a)(1), substituted “any aural transfer” for “any communication”, inserted “(including the use of such connection in a switching station)” after “reception”, struck out “as a common carrier” after “person engaged”, and inserted “or communications affecting interstate or foreign commerce and such term includes any electronic storage of such communication, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit” before the semicolon at end.
+1986—Par. (1). Pub. L. 99–508, § 101(a)(1), substituted “any aural transfer” for “any communication”, inserted “(including the use of such connection in a switching station)” after “reception”, struck out “as a common carrier” after “person engaged”, and inserted “or communications affecting interstate or foreign commerce and such term includes any electronic storage of such communication, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit” before the semicolon at end.
 
-Par. (2). Pub. L. 99–508, § 101(a)(2), inserted “, but such term does not include any electronic communication” before the semicolon at end.
+Par. (2). Pub. L. 99–508, § 101(a)(2), inserted “, but such term does not include any electronic communication” before the semicolon at end.
 
-Par. (4). Pub. L. 99–508, § 101(a)(3), inserted “or other” after “aural” and “, electronic,” after “wire”.
+Par. (4). Pub. L. 99–508, § 101(a)(3), inserted “or other” after “aural” and “, electronic,” after “wire”.
 
-Par. (5). Pub. L. 99–508, § 101(a)(4), (c)(1)(A), (4), substituted “wire, oral, or electronic” for “wire or oral” in introductory provisions, substituted “provider of wire or electronic communication service” for “communications common carrier” in subpars. (a)(i) and (ii), and inserted “or furnished by such subscriber or user for connection to the facilities of such service and used in the ordinary course of its business” before the semicolon in subpar. (a)(i).
+Par. (5). Pub. L. 99–508, § 101(a)(4), (c)(1)(A), (4), substituted “wire, oral, or electronic” for “wire or oral” in introductory provisions, substituted “provider of wire or electronic communication service” for “communications common carrier” in subpars. (a)(i) and (ii), and inserted “or furnished by such subscriber or user for connection to the facilities of such service and used in the ordinary course of its business” before the semicolon in subpar. (a)(i).
 
-Par. (8). Pub. L. 99–508, § 101(a)(5), (c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” and struck out “identity of the parties to such communication or the existence,” after “concerning the”.
+Par. (8). Pub. L. 99–508, § 101(a)(5), (c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” and struck out “identity of the parties to such communication or the existence,” after “concerning the”.
 
-Pars. (9)(b), (11). Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
+Pars. (9)(b), (11). Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
 
-Pars. (12) to (18). Pub. L. 99–508, § 101(a)(6), added pars. (12) to (18).
+Pars. (12) to (18). Pub. L. 99–508, § 101(a)(6), added pars. (12) to (18).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Termination Date of 2001 Amendment**
 
-Pub. L. 107–56, title II, § 224, Oct. 26, 2001, 115 Stat. 295, as amended by Pub. L. 109–160, § 1, Dec. 30, 2005, 119 Stat. 2957; Pub. L. 109–170, § 1, Feb. 3, 2006, 120 Stat. 3, which provided that title II of Pub. L. 107–56 and the amendments made by that title would cease to have effect on Mar. 10, 2006, with certain exceptions, was repealed by Pub. L. 109–177, title I, § 102(a), Mar. 9, 2006, 120 Stat. 194.
+Pub. L. 107–56, title II, § 224, Oct. 26, 2001, 115 Stat. 295, as amended by Pub. L. 109–160, § 1, Dec. 30, 2005, 119 Stat. 2957; Pub. L. 109–170, § 1, Feb. 3, 2006, 120 Stat. 3, which provided that title II of Pub. L. 107–56 and the amendments made by that title would cease to have effect on Mar. 10, 2006, with certain exceptions, was repealed by Pub. L. 109–177, title I, § 102(a), Mar. 9, 2006, 120 Stat. 194.
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–508, title I, § 111, Oct. 21, 1986, 100 Stat. 1859, provided that:
+Pub. L. 99–508, title I, § 111, Oct. 21, 1986, 100 Stat. 1859, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b) or (c), this title and the amendments made by this title [enacting sections 2521 and 3117 of this title, amending this section and sections 2232, 2511 to 2513, and 2516 to 2520 of this title, and enacting provisions set out as notes under this section] shall take effect 90 days after the date of the enactment of this Act [Oct. 21, 1986] and shall, in the case of conduct pursuant to a court order or extension, apply only with respect to court orders or extensions made after this title takes effect.
 
@@ -207,15 +207,15 @@ Pub. L. 99–508, title I, § 111, Oct. 21, 1986, 100 Stat. 1859, provided tha
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–112, § 1, Nov. 21, 1997, 111 Stat. 2273, provided that: “This Act [amending section 2512 of this title] may be cited as the ‘Law Enforcement Technology Advertisement Clarification Act of 1997’.”
+Pub. L. 105–112, § 1, Nov. 21, 1997, 111 Stat. 2273, provided that: “This Act [amending section 2512 of this title] may be cited as the ‘Law Enforcement Technology Advertisement Clarification Act of 1997’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–508, § 1, Oct. 21, 1986, 100 Stat. 1848, provided that: “This Act [enacting sections 1367, 2521, 2701 to 2710, 3117, and 3121 to 3126 of this title, amending sections 2232, 2511 to 2513, and 2516 to 2520 of this title, and enacting provisions set out as notes under this section and sections 2701 and 3121 of this title] may be cited as the ‘Electronic Communications Privacy Act of 1986’.”
+Pub. L. 99–508, § 1, Oct. 21, 1986, 100 Stat. 1848, provided that: “This Act [enacting sections 1367, 2521, 2701 to 2710, 3117, and 3121 to 3126 of this title, amending sections 2232, 2511 to 2513, and 2516 to 2520 of this title, and enacting provisions set out as notes under this section and sections 2701 and 3121 of this title] may be cited as the ‘Electronic Communications Privacy Act of 1986’.”
 
 **Intelligence Activities**
 
-Pub. L. 99–508, title I, § 107, Oct. 21, 1986, 100 Stat. 1858, provided that:
+Pub. L. 99–508, title I, § 107, Oct. 21, 1986, 100 Stat. 1858, provided that:
 
 > **“(a) In General.—** Nothing in this Act or the amendments made by this Act [see Short Title of 1986 Amendment note above] constitutes authority for the conduct of any intelligence activity.
 
@@ -229,7 +229,7 @@ Pub. L. 99–508, title I, § 107, Oct. 21, 1986, 100 Stat. 1858, provided tha
 
 **Congressional Findings**
 
-Pub. L. 90–351, title III, § 801, June 19, 1968, 82 Stat. 211, provided that:
+Pub. L. 90–351, title III, § 801, June 19, 1968, 82 Stat. 211, provided that:
 
 > “On the basis of its own investigations and of published studies, the Congress makes the following findings:
 
@@ -243,9 +243,9 @@ Pub. L. 90–351, title III, § 801, June 19, 1968, 82 Stat. 211, provided tha
 
 **National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance**
 
-Pub. L. 90–351, title III, § 804, June 19, 1968, 82 Stat. 223, as amended by Pub. L. 91–452, title XII, § 1212, Oct. 15, 1970, 84 Stat. 961; Pub. L. 91–644, title VI, § 20, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 93–609, §§ 1–4, Jan. 2, 1975, 88 Stat. 1972, 1973; Pub. L. 94–176, Dec. 23, 1975, 89 Stat. 1031, established a National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance, provided for its membership, Chairman, powers and functions, compensation and allowances, required the Commission to study and review the operation of the provisions of this chapter to determine their effectiveness and to submit interim reports and a final report to the President and to the Congress of its findings and recommendations on or before Apr. 30, 1976, and also provided for its termination sixty days after submission of the final report.
+Pub. L. 90–351, title III, § 804, June 19, 1968, 82 Stat. 223, as amended by Pub. L. 91–452, title XII, § 1212, Oct. 15, 1970, 84 Stat. 961; Pub. L. 91–644, title VI, § 20, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 93–609, §§ 1–4, Jan. 2, 1975, 88 Stat. 1972, 1973; Pub. L. 94–176, Dec. 23, 1975, 89 Stat. 1031, established a National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance, provided for its membership, Chairman, powers and functions, compensation and allowances, required the Commission to study and review the operation of the provisions of this chapter to determine their effectiveness and to submit interim reports and a final report to the President and to the Congress of its findings and recommendations on or before Apr. 30, 1976, and also provided for its termination sixty days after submission of the final report.
 
-## § 2511. Interception and disclosure of wire, oral, or electronic communications prohibited
+## § 2511. Interception and disclosure of wire, oral, or electronic communications prohibited
 
 **(1)** Except as otherwise specifically provided in this chapter any person who—
 
@@ -495,17 +495,17 @@ if the violation of this chapter is a second or subsequent offense under paragra
 
 **(b)** The court may use any means within its authority to enforce an injunction issued under paragraph (ii)(A), and shall impose a civil fine of not less than $500 for each violation of such an injunction.
 
-(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 213; amended Pub. L. 91–358, title II, § 211(a), July 29, 1970, 84 Stat. 654; Pub. L. 95–511, title II, § 201(a)–(c), Oct. 25, 1978, 92 Stat. 1796, 1797; Pub. L. 98–549, § 6(b)(2), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 99–508, title I, §§ 101(b), (c)(1), (5), (6), (d), (f)[(1)], 102, Oct. 21, 1986, 100 Stat. 1849, 1851–1853; Pub. L. 103–322, title XXXII, § 320901, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2123, 2147; Pub. L. 103–414, title II, §§ 202(b), 204, 205, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–294, title VI, § 604(b)(42), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 107–56, title II, §§ 204, 217(2), Oct. 26, 2001, 115 Stat. 281, 291; Pub. L. 107–296, title XXII, § 2207(h)(2), (j)(1), formerly title II, § 225(h)(2), (j)(1), Nov. 25, 2002, 116 Stat. 2158, renumbered § 2207(h)(2), (j)(1), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 110–261, title I, §§ 101(c)(1), 102(c)(1), title IV, § 403(b)(2)(C), July 10, 2008, 122 Stat. 2459, 2474; Pub. L. 115–141, div. V, § 104(1)(A), Mar. 23, 2018, 132 Stat. 1216.)
+(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 213; amended Pub. L. 91–358, title II, § 211(a), July 29, 1970, 84 Stat. 654; Pub. L. 95–511, title II, § 201(a)–(c), Oct. 25, 1978, 92 Stat. 1796, 1797; Pub. L. 98–549, § 6(b)(2), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 99–508, title I, §§ 101(b), (c)(1), (5), (6), (d), (f)[(1)], 102, Oct. 21, 1986, 100 Stat. 1849, 1851–1853; Pub. L. 103–322, title XXXII, § 320901, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2123, 2147; Pub. L. 103–414, title II, §§ 202(b), 204, 205, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–294, title VI, § 604(b)(42), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 107–56, title II, §§ 204, 217(2), Oct. 26, 2001, 115 Stat. 281, 291; Pub. L. 107–296, title XXII, § 2207(h)(2), (j)(1), formerly title II, § 225(h)(2), (j)(1), Nov. 25, 2002, 116 Stat. 2158, renumbered § 2207(h)(2), (j)(1), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 110–261, title I, §§ 101(c)(1), 102(c)(1), title IV, § 403(b)(2)(C), July 10, 2008, 122 Stat. 2459, 2474; Pub. L. 115–141, div. V, § 104(1)(A), Mar. 23, 2018, 132 Stat. 1216.)
 
 **Amendment of Paragraph (2)(a)(ii)(A)**
 
-Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(2), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, § 7902(a)(1), Dec. 22, 2023, 137 Stat. 1108; Pub. L. 118–49, § 19(a)(1), Apr. 20, 2024, 138 Stat. 891; Pub. L. 119–84, § 1(a)(1), Apr. 18, 2026, 140 Stat. 770; Pub. L. 119–87, § 1(a)(2), Apr. 30, 2026, 140 Stat. 811, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of Title 50, War and National Defense, effective June 12, 2026, paragraph (2)(a)(ii)(A) of this section is amended by striking “or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978”.
+Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(2), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, § 7902(a)(1), Dec. 22, 2023, 137 Stat. 1108; Pub. L. 118–49, § 19(a)(1), Apr. 20, 2024, 138 Stat. 891; Pub. L. 119–84, § 1(a)(1), Apr. 18, 2026, 140 Stat. 770; Pub. L. 119–87, § 1(a)(2), Apr. 30, 2026, 140 Stat. 811, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of Title 50, War and National Defense, effective June 12, 2026, paragraph (2)(a)(ii)(A) of this section is amended by striking “or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978”.
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(e), (f), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§ 1801 et seq.) of Title 50, War and National Defense. Sections 101 and 704 of the Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(a)(ii), (e), and (f), are classified to sections 1801 and 1881c of Title 50, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(e), (f), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§ 1801 et seq.) of Title 50, War and National Defense. Sections 101 and 704 of the Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(a)(ii), (e), and (f), are classified to sections 1801 and 1881c of Title 50, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 Sections 633, 705, and 706 of the Communications Act of 1934, referred to in par. (2)(e), (f), (g)(iii), are classified to sections 553, 605, and 606 of Title 47, Telecommunications, respectively.
 
@@ -513,67 +513,67 @@ Sections 633, 705, and 706 of the Communications Act of 1934, referred to in par
 
 2018—Par. (2)(j). Pub. L. 115–141 added subpar. (j).
 
-2008—Par. (2)(a)(ii)(A). Pub. L. 110–261, § 101(c)(1), inserted “or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978” after “assistance”.
+2008—Par. (2)(a)(ii)(A). Pub. L. 110–261, § 101(c)(1), inserted “or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978” after “assistance”.
 
-Par. (2)(a)(iii). Pub. L. 110–261, § 102(c)(1), added cl. (iii).
+Par. (2)(a)(iii). Pub. L. 110–261, § 102(c)(1), added cl. (iii).
 
-2002—Par. (2)(a)(ii). Pub. L. 107–296, § 2207(h)(2), formerly § 225(h)(2), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), inserted “, statutory authorization,” after “terms of a court order” in concluding provisions.
+2002—Par. (2)(a)(ii). Pub. L. 107–296, § 2207(h)(2), formerly § 225(h)(2), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), inserted “, statutory authorization,” after “terms of a court order” in concluding provisions.
 
-Par. (4)(b), (c). Pub. L. 107–296, § 2207(j)(1), formerly § 225(j)(1), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), redesignated subpar. (c) as (b) and struck out former subpar. (b) which read as follows: “If the offense is a first offense under paragraph (a) of this subsection and is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, and the wire or electronic communication with respect to which the offense under paragraph (a) is a radio communication that is not scrambled, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then—
+Par. (4)(b), (c). Pub. L. 107–296, § 2207(j)(1), formerly § 225(j)(1), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), redesignated subpar. (c) as (b) and struck out former subpar. (b) which read as follows: “If the offense is a first offense under paragraph (a) of this subsection and is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, and the wire or electronic communication with respect to which the offense under paragraph (a) is a radio communication that is not scrambled, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then—
 
 “(i) if the communication is not the radio portion of a cellular telephone communication, a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit, a public land mobile radio service communication or a paging service communication, and the conduct is not that described in subsection (5), the offender shall be fined under this title or imprisoned not more than one year, or both; and
 
 “(ii) if the communication is the radio portion of a cellular telephone communication, a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit, a public land mobile radio service communication or a paging service communication, the offender shall be fined under this title.”
 
-2001—Par. (2)(f). Pub. L. 107–56, § 204, substituted “this chapter or chapter 121 or 206 of this title, or section 705 of the Communications Act of 1934” for “this chapter or chapter 121, or section 705 of the Communications Act of 1934” and “wire, oral, and electronic communications” for “wire and oral communications”.
+2001—Par. (2)(f). Pub. L. 107–56, § 204, substituted “this chapter or chapter 121 or 206 of this title, or section 705 of the Communications Act of 1934” for “this chapter or chapter 121, or section 705 of the Communications Act of 1934” and “wire, oral, and electronic communications” for “wire and oral communications”.
 
-Par. (2)(i). Pub. L. 107–56, § 217(2), added subpar. (i).
+Par. (2)(i). Pub. L. 107–56, § 217(2), added subpar. (i).
 
 1996—Par. (1)(e)(i). Pub. L. 104–294 substituted “sections 2511(2)(a)(ii), 2511(2)(b)–(c), 2511(2)(e), 2516, and 2518 of this chapter” for “sections 2511(2)(A)(ii), 2511(b)–(c), 2511(e), 2516, and 2518 of this subchapter”.
 
-1994—Par. (1)(e). Pub. L. 103–322, § 320901, added par. (1)(e).
+1994—Par. (1)(e). Pub. L. 103–322, § 320901, added par. (1)(e).
 
-Par. (2)(a)(i). Pub. L. 103–414, § 205, inserted “or electronic” after “transmission of a wire”.
+Par. (2)(a)(i). Pub. L. 103–414, § 205, inserted “or electronic” after “transmission of a wire”.
 
-Par. (4)(b). Pub. L. 103–414, § 204, in introductory provisions substituted “, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then” for “or encrypted, then”.
+Par. (4)(b). Pub. L. 103–414, § 204, in introductory provisions substituted “, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then” for “or encrypted, then”.
 
-Par. (4)(b)(i). Pub. L. 103–414, § 202(b)(1), inserted “a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit,” after “cellular telephone communication,”.
+Par. (4)(b)(i). Pub. L. 103–414, § 202(b)(1), inserted “a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit,” after “cellular telephone communication,”.
 
-Par. (4)(b)(ii). Pub. L. 103–414, § 202(b)(2), inserted “a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit,” after “cellular telephone communication,”.
+Par. (4)(b)(ii). Pub. L. 103–414, § 202(b)(2), inserted “a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit,” after “cellular telephone communication,”.
 
-Pub. L. 103–322, § 330016(1)(G), substituted “fined under this title” for “fined not more than $500”.
+Pub. L. 103–322, § 330016(1)(G), substituted “fined under this title” for “fined not more than $500”.
 
-1986—Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
+1986—Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
 
-Par. (1). Pub. L. 99–508, § 101(c)(1)(A), (d)(1), (f)[(1)], substituted “intentionally” for “willfully” in subpars. (a) to (d) and “wire, oral, or electronic’ for “wire or oral” wherever appearing in subpars. (a), (c), and (d), and in concluding provisions substituted “shall be punished as provided in subsection (4) or shall be subject to suit as provided in subsection (5)” for “shall be fined not more than $10,000 or imprisoned not more than five years, or both”.
+Par. (1). Pub. L. 99–508, § 101(c)(1)(A), (d)(1), (f)[(1)], substituted “intentionally” for “willfully” in subpars. (a) to (d) and “wire, oral, or electronic’ for “wire or oral” wherever appearing in subpars. (a), (c), and (d), and in concluding provisions substituted “shall be punished as provided in subsection (4) or shall be subject to suit as provided in subsection (5)” for “shall be fined not more than $10,000 or imprisoned not more than five years, or both”.
 
-Par. (2)(a)(i). Pub. L. 99–508, § 101(c)(5), substituted “a provider of wire or electronic communication service” for “any communication common carrier” and “of the provider of that service, except that a provider of wire communication service to the public” for “of the carrier of such communication: *Provided*, That said communication common carriers”.
+Par. (2)(a)(i). Pub. L. 99–508, § 101(c)(5), substituted “a provider of wire or electronic communication service” for “any communication common carrier” and “of the provider of that service, except that a provider of wire communication service to the public” for “of the carrier of such communication: *Provided*, That said communication common carriers”.
 
-Par. (2)(a)(ii). Pub. L. 99–508, § 101(b)(1), (c)(1)(A), (6), substituted “providers of wire or electronic communication service” for “communication common carriers”, “wire, oral, or electronic” for “wire or oral”, “if such provider” for “if the common carrier”, “provider of wire or electronic communication service” for “communication common carrier” wherever appearing, “such disclosure” for “violation of this subparagraph by a communication common carrier or an officer, employee, or agent thereof”, “render such person liable” for “render the carrier liable”, and “a court order or certification under this chapter” for “an order or certification under this subparagraph” in two places.
+Par. (2)(a)(ii). Pub. L. 99–508, § 101(b)(1), (c)(1)(A), (6), substituted “providers of wire or electronic communication service” for “communication common carriers”, “wire, oral, or electronic” for “wire or oral”, “if such provider” for “if the common carrier”, “provider of wire or electronic communication service” for “communication common carrier” wherever appearing, “such disclosure” for “violation of this subparagraph by a communication common carrier or an officer, employee, or agent thereof”, “render such person liable” for “render the carrier liable”, and “a court order or certification under this chapter” for “an order or certification under this subparagraph” in two places.
 
-Par. (2)(b). Pub. L. 99–508, § 101(c)(1)(B), inserted “or electronic” after “wire”.
+Par. (2)(b). Pub. L. 99–508, § 101(c)(1)(B), inserted “or electronic” after “wire”.
 
-Par. (2)(c). Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
+Par. (2)(c). Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
 
-Par. (2)(d). Pub. L. 99–508, § 101(b)(2), (c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” and struck out “or for the purpose of committing any other injurious act” after “of any State”.
+Par. (2)(d). Pub. L. 99–508, § 101(b)(2), (c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” and struck out “or for the purpose of committing any other injurious act” after “of any State”.
 
-Par. (2)(f). Pub. L. 99–508, § 101(b)(3), inserted “or chapter 121” in two places and substituted “foreign communications, or foreign intelligence activities conducted in accordance with otherwise applicable Federal law involving a foreign electronic communications system, utilizing a means” for “foreign communications by a means”.
+Par. (2)(f). Pub. L. 99–508, § 101(b)(3), inserted “or chapter 121” in two places and substituted “foreign communications, or foreign intelligence activities conducted in accordance with otherwise applicable Federal law involving a foreign electronic communications system, utilizing a means” for “foreign communications by a means”.
 
-Par. (2)(g), (h). Pub. L. 99–508, § 101(b)(4), added subpars. (g) and (h).
+Par. (2)(g), (h). Pub. L. 99–508, § 101(b)(4), added subpars. (g) and (h).
 
-Par. (3). Pub. L. 99–508, § 102, added par. (3).
+Par. (3). Pub. L. 99–508, § 102, added par. (3).
 
-Pars. (4), (5). Pub. L. 99–508, § 101(d)(2), added pars. (4) and (5).
+Pars. (4), (5). Pub. L. 99–508, § 101(d)(2), added pars. (4) and (5).
 
-1984—Par. (2)(e). Pub. L. 98–549, § 6(b)(2)(A), substituted “section 705 or 706” for “section 605 or 606”.
+1984—Par. (2)(e). Pub. L. 98–549, § 6(b)(2)(A), substituted “section 705 or 706” for “section 605 or 606”.
 
-Par. (2)(f). Pub. L. 98–549, § 6(b)(2)(B), substituted “section 705” for “section 605”.
+Par. (2)(f). Pub. L. 98–549, § 6(b)(2)(B), substituted “section 705” for “section 605”.
 
-1978—Par. (2)(a)(ii). Pub. L. 95–511, § 201(a), substituted provisions authorizing communication common carriers etc., to provide information to designated persons, prohibiting disclosure of intercepted information, and rendering violators civilly liable for provision exempting communication common carriers from criminality for giving information to designated officers.
+1978—Par. (2)(a)(ii). Pub. L. 95–511, § 201(a), substituted provisions authorizing communication common carriers etc., to provide information to designated persons, prohibiting disclosure of intercepted information, and rendering violators civilly liable for provision exempting communication common carriers from criminality for giving information to designated officers.
 
-Par. (2)(e), (f). Pub. L. 95–511, § 201(b), added par. (2)(e) and (f).
+Par. (2)(e), (f). Pub. L. 95–511, § 201(b), added par. (2)(e) and (f).
 
-Par. (3). Pub. L. 95–511, § 201(c), struck out par. (3) which provided that nothing in this chapter or section 605 of title 47 limited the President’s constitutional power to gather necessary intelligence to protect the national security and stated the conditions necessary for the reception into evidence and disclosure of communications intercepted by the President.
+Par. (3). Pub. L. 95–511, § 201(c), struck out par. (3) which provided that nothing in this chapter or section 605 of title 47 limited the President’s constitutional power to gather necessary intelligence to protect the national security and stated the conditions necessary for the reception into evidence and disclosure of communications intercepted by the President.
 
 1970—Par. (2)(a). Pub. L. 91–358 designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -583,7 +583,7 @@ Par. (3). Pub. L. 95–511, § 201(c), struck out par. (3) which provided that
 
 Amendments by sections 101(c)(1) and 102(c)(1) of Pub. L. 110–261 effective July 10, 2008, except as otherwise provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, see section 402 of Pub. L. 110–261, set out as a note under section 1801 of Title 50.
 
-Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(2), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, § 7902(a)(2), Dec. 22, 2023, 137 Stat. 1108; Pub. L. 118–49, § 19(a)(2), Apr. 20, 2024, 138 Stat. 891; Pub. L. 119–84, § 1(a)(2), Apr. 18, 2026, 140 Stat. 770; Pub. L. 119–87, § 1(a)(2), Apr. 30, 2026, 140 Stat. 811, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, the amendments made by section 403(b)(2) are effective June 12, 2026.
+Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(2), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, § 7902(a)(2), Dec. 22, 2023, 137 Stat. 1108; Pub. L. 118–49, § 19(a)(2), Apr. 20, 2024, 138 Stat. 891; Pub. L. 119–84, § 1(a)(2), Apr. 18, 2026, 140 Stat. 770; Pub. L. 119–87, § 1(a)(2), Apr. 30, 2026, 140 Stat. 811, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, the amendments made by section 403(b)(2) are effective June 12, 2026.
 
 **Effective Date of 2002 Amendment**
 
@@ -609,7 +609,7 @@ Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically pr
 
 Amendment by Pub. L. 91–358 effective on first day of seventh calendar month which begins after July 29, 1970, see section 901(a) of Pub. L. 91–358.
 
-## § 2512. Manufacture, distribution, possession, and advertising of wire, oral, or electronic communication intercepting devices prohibited
+## § 2512. Manufacture, distribution, possession, and advertising of wire, oral, or electronic communication intercepting devices prohibited
 
 **(1)** Except as otherwise specifically provided in this chapter, any person who intentionally—
 
@@ -651,7 +651,7 @@ to send through the mail, send or carry in interstate or foreign commerce, or ma
 
 **(3)** It shall not be unlawful under this section to advertise for sale a device described in subsection (1) of this section if the advertisement is mailed, sent, or carried in interstate or foreign commerce solely to a domestic provider of wire or electronic communication service or to an agency of the United States, a State, or a political subdivision thereof which is duly authorized to use such device.
 
-(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 214; amended Pub. L. 99–508, title I, § 101(c)(1)(A), (7), (f)(2), Oct. 21, 1986, 100 Stat. 1851, 1853; Pub. L. 103–322, title XXXIII, §§ 330016(1)(L), 330022, Sept. 13, 1994, 108 Stat. 2147, 2150; Pub. L. 104–294, title VI, § 604(b)(45), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 105–112, § 2, Nov. 21, 1997, 111 Stat. 2273; Pub. L. 107–296, title XXII, § 2207(f), formerly title II, § 225(f), Nov. 25, 2002, 116 Stat. 2158, renumbered § 2207(f), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178.)
+(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 214; amended Pub. L. 99–508, title I, § 101(c)(1)(A), (7), (f)(2), Oct. 21, 1986, 100 Stat. 1851, 1853; Pub. L. 103–322, title XXXIII, §§ 330016(1)(L), 330022, Sept. 13, 1994, 108 Stat. 2147, 2150; Pub. L. 104–294, title VI, § 604(b)(45), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 105–112, § 2, Nov. 21, 1997, 111 Stat. 2273; Pub. L. 107–296, title XXII, § 2207(f), formerly title II, § 225(f), Nov. 25, 2002, 116 Stat. 2158, renumbered § 2207(f), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178.)
 
 **Editorial Notes**
 
@@ -661,19 +661,19 @@ to send through the mail, send or carry in interstate or foreign commerce, or ma
 
 1997—Par. (3). Pub. L. 105–112 added par. (3).
 
-1996—Par. (2). Pub. L. 104–294 amended directory language of Pub. L. 103–322, § 330022. See 1994 Amendment note below.
+1996—Par. (2). Pub. L. 104–294 amended directory language of Pub. L. 103–322, § 330022. See 1994 Amendment note below.
 
-1994—Par. (1). Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in concluding provisions.
+1994—Par. (1). Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in concluding provisions.
 
-Par. (2). Pub. L. 103–322, § 330022, as amended by Pub. L. 104–294, realigned margins of concluding provisions.
+Par. (2). Pub. L. 103–322, § 330022, as amended by Pub. L. 104–294, realigned margins of concluding provisions.
 
-1986—Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
+1986—Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
 
-Par. (1). Pub. L. 99–508, § 101(c)(1)(A), (f)(2), substituted “intentionally” for “willfully” in introductory provision and “wire, oral, or electronic” for “wire or oral” in subpars. (a), (b), and (c)(i), (ii).
+Par. (1). Pub. L. 99–508, § 101(c)(1)(A), (f)(2), substituted “intentionally” for “willfully” in introductory provision and “wire, oral, or electronic” for “wire or oral” in subpars. (a), (b), and (c)(i), (ii).
 
-Par. (2)(a). Pub. L. 99–508, § 101(c)(7), substituted “a provider of wire or electronic communication service or” for “a communications common carrier or”, “such a provider, in” for “a communications common carrier, in”, and “business of providing that wire or electronic communication service” for “communications common carrier’s business”.
+Par. (2)(a). Pub. L. 99–508, § 101(c)(7), substituted “a provider of wire or electronic communication service or” for “a communications common carrier or”, “such a provider, in” for “a communications common carrier, in”, and “business of providing that wire or electronic communication service” for “communications common carrier’s business”.
 
-Par. (2)(b). Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
+Par. (2)(b). Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -689,11 +689,11 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as a note under section 2510 of this title.
 
-## § 2513. Confiscation of wire, oral, or electronic communication intercepting devices
+## § 2513. Confiscation of wire, oral, or electronic communication intercepting devices
 
 Any electronic, mechanical, or other device used, sent, carried, manufactured, assembled, possessed, sold, or advertised in violation of section 2511 or section 2512 of this chapter may be seized and forfeited to the United States. All provisions of law relating to (1) the seizure, summary and judicial forfeiture, and condemnation of vessels, vehicles, merchandise, and baggage for violations of the customs laws contained in title 19 of the United States Code, (2) the disposition of such vessels, vehicles, merchandise, and baggage or the proceeds from the sale thereof, (3) the remission or mitigation of such forfeiture, (4) the compromise of claims, and (5) the award of compensation to informers in respect of such forfeitures, shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as applicable and not inconsistent with the provisions of this section; except that such duties as are imposed upon the collector of customs or any other person with respect to the seizure and forfeiture of vessels, vehicles, merchandise, and baggage under the provisions of the customs laws contained in title 19 of the United States Code shall be performed with respect to seizure and forfeiture of electronic, mechanical, or other intercepting devices under this section by such officers, agents, or other persons as may be authorized or designated for that purpose by the Attorney General.
 
-(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 215; amended Pub. L. 99–508, title I, § 101(c)(1)(A), Oct. 21, 1986, 100 Stat. 1851.)
+(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 215; amended Pub. L. 99–508, title I, § 101(c)(1)(A), Oct. 21, 1986, 100 Stat. 1851.)
 
 **Editorial Notes**
 
@@ -707,9 +707,9 @@ Any electronic, mechanical, or other device used, sent, carried, manufactured, a
 
 Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as a note under section 2510 of this title.
 
-## [§ 2514. Repealed. Pub. L. 91–452, title II, § 227(a), Oct. 15, 1970, 84 Stat. 930]
+## [§ 2514. Repealed. Pub. L. 91–452, title II, § 227(a), Oct. 15, 1970, 84 Stat. 930]
 
-Section, Pub. L. 90–351, title II, § 802, June 19, 1968, 82 Stat. 216, provided for immunity of witnesses giving testimony or producing evidence under compulsion in Federal grand jury or court proceedings. Subject matter is covered in sections 6002 and 6003 of this title.
+Section, Pub. L. 90–351, title II, § 802, June 19, 1968, 82 Stat. 216, provided for immunity of witnesses giving testimony or producing evidence under compulsion in Federal grand jury or court proceedings. Subject matter is covered in sections 6002 and 6003 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -717,17 +717,17 @@ Section, Pub. L. 90–351, title II, § 802, June 19, 1968, 82 Stat. 216, prov
 
 Sections 227(a) and 260 of Pub. L. 91–452 provided for repeal of this section effective four years following sixtieth day after date of enactment of Pub. L. 91–452, which was approved Oct. 15, 1970, such repeal not affecting any immunity to which any individual was entitled under this section by reason of any testimony or other information given before such date. See section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of this title.
 
-## § 2515. Prohibition of use as evidence of intercepted wire or oral communications
+## § 2515. Prohibition of use as evidence of intercepted wire or oral communications
 
 Whenever any wire or oral communication has been intercepted, no part of the contents of such communication and no evidence derived therefrom may be received in evidence in any trial, hearing, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision thereof if the disclosure of that information would be in violation of this chapter.
 
-(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 216.)
+(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 216.)
 
-## § 2516. Authorization for interception of wire, oral, or electronic communications
+## § 2516. Authorization for interception of wire, oral, or electronic communications
 
 **(1)** The Attorney General, Deputy Attorney General, Associate Attorney General,1
 
-<sup>1</sup>  See 1984 Amendment note below.
+<sup>1</sup> See 1984 Amendment note below.
 
 or any Assistant Attorney General, any acting Assistant Attorney General, or any Deputy Assistant Attorney General or acting Deputy Assistant Attorney General in the Criminal Division or National Security Division specially designated by the Attorney General, may authorize an application to a Federal judge of competent jurisdiction for, and such judge may grant in conformity with section 2518 of this chapter an order authorizing or approving the interception of wire or oral communications by the Federal Bureau of Investigation, or a Federal agency having responsibility for the investigation of the offense as to which the application is made, when such interception may provide or has provided evidence of—
 
@@ -793,15 +793,15 @@ any violation of section 5861 of the Internal Revenue Code of 1986 (relating to 
 
 ### (p)
 
-a felony violation of section 1028 (relating to production of false identification documents), section 1542 (relating to false statements in passport applications), section 1546 (relating to fraud and misuse of visas, permits, and other documents), section 1028A (relating to aggravated identity theft) of this title or a violation of section 274, 277, or 278 of the Immigration and Nationality Act (relating to the smuggling of aliens); or 2
+a felony violation of section 1028 (relating to production of false identification documents), section 1542 (relating to false statements in passport applications), section 1546 (relating to fraud and misuse of visas, permits, and other documents), section 1028A (relating to aggravated identity theft) of this title or a violation of section 274, 277, or 278 of the Immigration and Nationality Act (relating to the smuggling of aliens); or 2
 
-<sup>2</sup>  So in original. The word “or” probably should not appear.
+<sup>2</sup> So in original. The word “or” probably should not appear.
 
 ### (q)
 
-any criminal violation of section 229 (relating to chemical weapons) or section 2332, 2332a, 2332b, 2332d, 2332f, 2332g, 2332h 3
+any criminal violation of section 229 (relating to chemical weapons) or section 2332, 2332a, 2332b, 2332d, 2332f, 2332g, 2332h 3
 
-<sup>3</sup>  So in original. Probably should be followed by a comma.
+<sup>3</sup> So in original. Probably should be followed by a comma.
 
 2339, 2339A, 2339B, 2339C, or 2339D of this title (relating to terrorism);
 
@@ -825,19 +825,19 @@ any conspiracy to commit any offense described in any subparagraph of this parag
 
 **(3)** Any attorney for the Government (as such term is defined for the purposes of the Federal Rules of Criminal Procedure) may authorize an application to a Federal judge of competent jurisdiction for, and such judge may grant, in conformity with section 2518 of this title, an order authorizing or approving the interception of electronic communications by an investigative or law enforcement officer having responsibility for the investigation of the offense as to which the application is made, when such interception may provide or has provided evidence of any Federal felony.
 
-(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 216; amended Pub. L. 91–452, title VIII, § 810, title IX, § 902(a), title XI, § 1103, Oct. 15, 1970, 84 Stat. 940, 947, 959; Pub. L. 91–644, title IV, § 16, Jan. 2, 1971, 84 Stat. 1891; Pub. L. 95–598, title III, § 314(h), Nov. 6, 1978, 92 Stat. 2677; Pub. L. 97–285, §§ 2(e), 4(e), Oct. 6, 1982, 96 Stat. 1220, 1221; Pub. L. 98–292, § 8, May 21, 1984, 98 Stat. 206; Pub. L. 98–473, title II, § 1203(c), Oct. 12, 1984, 98 Stat. 2152; Pub. L. 99–508, title I, §§ 101(c)(1)(A), 104, 105, Oct. 21, 1986, 100 Stat. 1851, 1855; Pub. L. 99–570, title I, § 1365(c), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 100–690, title VI, § 6461, title VII, §§ 7036, 7053(d), 7525, Nov. 18, 1988, 102 Stat. 4374, 4399, 4402, 4502; Pub. L. 101–298, § 3(b), May 22, 1990, 104 Stat. 203; Pub. L. 101–647, title XXV, § 2531, title XXXV, § 3568, Nov. 29, 1990, 104 Stat. 4879, 4928; Pub. L. 103–272, § 5(e)(11), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §§ 330011(c)(1), (q)(1), (r), 330021(1), Sept. 13, 1994, 108 Stat. 2144, 2145, 2150; Pub. L. 103–414, title II, § 208, Oct. 25, 1994, 108 Stat. 4292; Pub. L. 103–429, § 7(a)(4)(A), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–132, title IV, § 434, Apr. 24, 1996, 110 Stat. 1274; Pub. L. 104–208, div. C, title II, § 201, Sept. 30, 1996, 110 Stat. 3009–564; Pub. L. 104–287, § 6(a)(2), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–294, title I, § 102, title VI, § 601(d), Oct. 11, 1996, 110 Stat. 3491, 3499; Pub. L. 105–318, § 6(b), Oct. 30, 1998, 112 Stat. 3011; Pub. L. 106–181, title V, § 506(c)(2)(B), Apr. 5, 2000, 114 Stat. 139; Pub. L. 107–56, title II, §§ 201, 202, Oct. 26, 2001, 115 Stat. 278; Pub. L. 107–197, title III, § 301(a), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §§ 4002(c)(1), 4005(a)(1), Nov. 2, 2002, 116 Stat. 1808, 1812; Pub. L. 108–21, title II, § 201, Apr. 30, 2003, 117 Stat. 659; Pub. L. 108–458, title VI, § 6907, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 109–162, title XI, § 1171(b), Jan. 5, 2006, 119 Stat. 3123; Pub. L. 109–177, title I, §§ 110(b)(3)(C), 113, title V, § 506(a)(6), Mar. 9, 2006, 120 Stat. 208, 209, 248; Pub. L. 112–127, § 4, June 5, 2012, 126 Stat. 371; Pub. L. 112–186, § 5, Oct. 5, 2012, 126 Stat. 1429; Pub. L. 114–22, title I, § 106, May 29, 2015, 129 Stat. 238; Pub. L. 115–232, div. A, title XVII, § 1761(f), Aug. 13, 2018, 132 Stat. 2228; Pub. L. 115–392, § 13, Dec. 21, 2018, 132 Stat. 5256; Pub. L. 117–159, div. A, title II, § 12004(a)(2), June 25, 2022, 136 Stat. 1328.)
+(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 216; amended Pub. L. 91–452, title VIII, § 810, title IX, § 902(a), title XI, § 1103, Oct. 15, 1970, 84 Stat. 940, 947, 959; Pub. L. 91–644, title IV, § 16, Jan. 2, 1971, 84 Stat. 1891; Pub. L. 95–598, title III, § 314(h), Nov. 6, 1978, 92 Stat. 2677; Pub. L. 97–285, §§ 2(e), 4(e), Oct. 6, 1982, 96 Stat. 1220, 1221; Pub. L. 98–292, § 8, May 21, 1984, 98 Stat. 206; Pub. L. 98–473, title II, § 1203(c), Oct. 12, 1984, 98 Stat. 2152; Pub. L. 99–508, title I, §§ 101(c)(1)(A), 104, 105, Oct. 21, 1986, 100 Stat. 1851, 1855; Pub. L. 99–570, title I, § 1365(c), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 100–690, title VI, § 6461, title VII, §§ 7036, 7053(d), 7525, Nov. 18, 1988, 102 Stat. 4374, 4399, 4402, 4502; Pub. L. 101–298, § 3(b), May 22, 1990, 104 Stat. 203; Pub. L. 101–647, title XXV, § 2531, title XXXV, § 3568, Nov. 29, 1990, 104 Stat. 4879, 4928; Pub. L. 103–272, § 5(e)(11), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §§ 330011(c)(1), (q)(1), (r), 330021(1), Sept. 13, 1994, 108 Stat. 2144, 2145, 2150; Pub. L. 103–414, title II, § 208, Oct. 25, 1994, 108 Stat. 4292; Pub. L. 103–429, § 7(a)(4)(A), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–132, title IV, § 434, Apr. 24, 1996, 110 Stat. 1274; Pub. L. 104–208, div. C, title II, § 201, Sept. 30, 1996, 110 Stat. 3009–564; Pub. L. 104–287, § 6(a)(2), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–294, title I, § 102, title VI, § 601(d), Oct. 11, 1996, 110 Stat. 3491, 3499; Pub. L. 105–318, § 6(b), Oct. 30, 1998, 112 Stat. 3011; Pub. L. 106–181, title V, § 506(c)(2)(B), Apr. 5, 2000, 114 Stat. 139; Pub. L. 107–56, title II, §§ 201, 202, Oct. 26, 2001, 115 Stat. 278; Pub. L. 107–197, title III, § 301(a), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §§ 4002(c)(1), 4005(a)(1), Nov. 2, 2002, 116 Stat. 1808, 1812; Pub. L. 108–21, title II, § 201, Apr. 30, 2003, 117 Stat. 659; Pub. L. 108–458, title VI, § 6907, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 109–162, title XI, § 1171(b), Jan. 5, 2006, 119 Stat. 3123; Pub. L. 109–177, title I, §§ 110(b)(3)(C), 113, title V, § 506(a)(6), Mar. 9, 2006, 120 Stat. 208, 209, 248; Pub. L. 112–127, § 4, June 5, 2012, 126 Stat. 371; Pub. L. 112–186, § 5, Oct. 5, 2012, 126 Stat. 1429; Pub. L. 114–22, title I, § 106, May 29, 2015, 129 Stat. 238; Pub. L. 115–232, div. A, title XVII, § 1761(f), Aug. 13, 2018, 132 Stat. 2228; Pub. L. 115–392, § 13, Dec. 21, 2018, 132 Stat. 5256; Pub. L. 117–159, div. A, title II, § 12004(a)(2), June 25, 2022, 136 Stat. 1328.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Atomic Energy Act of 1954, referred to in par. (1)(a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in par. (1)(a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-The Arms Export Control Act, referred to in par. (1)(k), is Pub. L. 90–269, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in par. (1)(k), is Pub. L. 90–269, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
 Section 5861 of the Internal Revenue Code of 1986, referred to in par. (1)(*o*), is classified to section 5861 of Title 26, Internal Revenue Code.
 
-The Export Control Reform Act of 2018, referred to in par. (1)(t), is subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§ 4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 1741 of Pub. L. 115–232, set out as a Short Title note under section 4801 of Title 50 and Tables.
+The Export Control Reform Act of 2018, referred to in par. (1)(t), is subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§ 4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 1741 of Pub. L. 115–232, set out as a Short Title note under section 4801 of Title 50 and Tables.
 
 The Federal Rules of Criminal Procedure, referred to in par. (3), are set out in the Appendix to this title.
 
@@ -845,181 +845,181 @@ The Federal Rules of Criminal Procedure, referred to in par. (3), are set out in
 
 2022—Par. (1)(n). Pub. L. 117–159 substituted “section 922, 924, 932, or 933” for “sections 922 and 924”.
 
-2018—Par. (1)(c). Pub. L. 115–392, § 13(1), inserted “section 1582 (vessels for slave trade), section 1583 (enticement into slavery),” after section 1581 (peonage),” and “section 1585 (seizure, detention, transportation or sale of slaves), section 1586 (service on vessels in slave trade), section 1587 (possession of slaves aboard vessel), section 1588 (transportation of slaves from United States),” after “section 1584 (involuntary servitude),”.
+2018—Par. (1)(c). Pub. L. 115–392, § 13(1), inserted “section 1582 (vessels for slave trade), section 1583 (enticement into slavery),” after section 1581 (peonage),” and “section 1585 (seizure, detention, transportation or sale of slaves), section 1586 (service on vessels in slave trade), section 1587 (possession of slaves aboard vessel), section 1588 (transportation of slaves from United States),” after “section 1584 (involuntary servitude),”.
 
 Par. (1)(t), (u). Pub. L. 115–232 added subpar. (t) and redesignated former subpar. (t) as (u).
 
-Par. (2). Pub. L. 115–392, § 13(2), substituted “kidnapping, human” for “kidnapping human” and “production, prostitution,” for “production,,”.
+Par. (2). Pub. L. 115–392, § 13(2), substituted “kidnapping, human” for “kidnapping human” and “production, prostitution,” for “production,,”.
 
-2015—Par. (1)(a). Pub. L. 114–22, § 106(1)(A), inserted a comma after “weapons)”.
+2015—Par. (1)(a). Pub. L. 114–22, § 106(1)(A), inserted a comma after “weapons)”.
 
-Par. (1)(c). Pub. L. 114–22, § 106(1)(B)(v), (vi), struck out “or” after “misuse of passports),” and inserted “or” before “section 555”.
+Par. (1)(c). Pub. L. 114–22, § 106(1)(B)(v), (vi), struck out “or” after “misuse of passports),” and inserted “or” before “section 555”.
 
-Pub. L. 114–22, § 106(1)(B)(iii), (iv), inserted a comma after “virus)” and substituted “overseas), a felony” for “overseas),, section a felony”.
+Pub. L. 114–22, § 106(1)(B)(iii), (iv), inserted a comma after “virus)” and substituted “overseas), a felony” for “overseas),, section a felony”.
 
-Pub. L. 114–22, § 106(1)(B)(i), (ii), inserted “section 1581 (peonage), section 1584 (involuntary servitude), section 1589 (forced labor), section 1590 (trafficking with respect to peonage, slavery, involuntary servitude, or forced labor),” before “section 1591” and “section 1592 (unlawful conduct with respect to documents in furtherance of trafficking, peonage, slavery, involuntary servitude, or forced labor),” before “section 1751”.
+Pub. L. 114–22, § 106(1)(B)(i), (ii), inserted “section 1581 (peonage), section 1584 (involuntary servitude), section 1589 (forced labor), section 1590 (trafficking with respect to peonage, slavery, involuntary servitude, or forced labor),” before “section 1591” and “section 1592 (unlawful conduct with respect to documents in furtherance of trafficking, peonage, slavery, involuntary servitude, or forced labor),” before “section 1751”.
 
-Par. (1)(j). Pub. L. 114–22, § 106(1)(C), substituted “pipeline),” for “pipeline,)”.
+Par. (1)(j). Pub. L. 114–22, § 106(1)(C), substituted “pipeline),” for “pipeline,)”.
 
-Par. (1)(p). Pub. L. 114–22, § 106(1)(D), substituted “documents), section 1028A (relating to aggravated identity theft)” for “documents, section 1028A (relating to aggravated identity theft))”.
+Par. (1)(p). Pub. L. 114–22, § 106(1)(D), substituted “documents), section 1028A (relating to aggravated identity theft)” for “documents, section 1028A (relating to aggravated identity theft))”.
 
-Par. (2). Pub. L. 114–22, § 106(2), inserted “human trafficking, child sexual exploitation, child pornography production,” after “kidnapping”.
+Par. (2). Pub. L. 114–22, § 106(2), inserted “human trafficking, child sexual exploitation, child pornography production,” after “kidnapping”.
 
-2012—Par. (1)(c). Pub. L. 112–127 inserted “, section 555 (relating to construction or use of international border tunnels)” before semicolon at end.
+2012—Par. (1)(c). Pub. L. 112–127 inserted “, section 555 (relating to construction or use of international border tunnels)” before semicolon at end.
 
 Par. (1)(s), (t). Pub. L. 112–186 added subpar. (s) and redesignated former subpar. (s) as (t).
 
-2006—Par. (1). Pub. L. 109–177, § 506(a)(6), inserted “or National Security Division” after “the Criminal Division” in introductory provisions.
+2006—Par. (1). Pub. L. 109–177, § 506(a)(6), inserted “or National Security Division” after “the Criminal Division” in introductory provisions.
 
-Par. (1)(a). Pub. L. 109–177, § 113(a), inserted “chapter 10 (relating to biological weapons)” after “under the following chapters of this title:”.
+Par. (1)(a). Pub. L. 109–177, § 113(a), inserted “chapter 10 (relating to biological weapons)” after “under the following chapters of this title:”.
 
-Par. (1)(c). Pub. L. 109–177, §§ 110(b)(3)(C), 113(b), struck out “1992 (relating to wrecking trains),” before “a felony violation of section 1028” and inserted “section 37 (relating to violence at international airports), section 43 (relating to animal enterprise terrorism), section 81 (arson within special maritime and territorial jurisdiction),” after “the following sections of this title:”, “section 832 (relating to nuclear and weapons of mass destruction threats), section 842 (relating to explosive materials), section 930 (relating to possession of weapons in Federal facilities),” after “section 751 (relating to escape),”, “section 1114 (relating to officers and employees of the United States), section 1116 (relating to protection of foreign officials),” after “section 1014 (relating to loans and credit applications generally; renewals and discounts),”, “section 1992 (relating to terrorist attacks against mass transportation),” after “section 1344 (relating to bank fraud),”, “section 2340A (relating to torture),” after “section 2321 (relating to trafficking in certain motor vehicles or motor vehicle parts),”, and “section 956 (conspiracy to harm persons or property overseas),” after “section 175c (relating to variola virus)”.
+Par. (1)(c). Pub. L. 109–177, §§ 110(b)(3)(C), 113(b), struck out “1992 (relating to wrecking trains),” before “a felony violation of section 1028” and inserted “section 37 (relating to violence at international airports), section 43 (relating to animal enterprise terrorism), section 81 (arson within special maritime and territorial jurisdiction),” after “the following sections of this title:”, “section 832 (relating to nuclear and weapons of mass destruction threats), section 842 (relating to explosive materials), section 930 (relating to possession of weapons in Federal facilities),” after “section 751 (relating to escape),”, “section 1114 (relating to officers and employees of the United States), section 1116 (relating to protection of foreign officials),” after “section 1014 (relating to loans and credit applications generally; renewals and discounts),”, “section 1992 (relating to terrorist attacks against mass transportation),” after “section 1344 (relating to bank fraud),”, “section 2340A (relating to torture),” after “section 2321 (relating to trafficking in certain motor vehicles or motor vehicle parts),”, and “section 956 (conspiracy to harm persons or property overseas),” after “section 175c (relating to variola virus)”.
 
-Par. (1)(g). Pub. L. 109–177, § 113(c), inserted “, or section 5324 of title 31, United States Code (relating to structuring transactions to evade reporting requirement prohibited)” before semicolon at end.
+Par. (1)(g). Pub. L. 109–177, § 113(c), inserted “, or section 5324 of title 31, United States Code (relating to structuring transactions to evade reporting requirement prohibited)” before semicolon at end.
 
-Par. (1)(j). Pub. L. 109–177, § 113(d)(2), inserted “, the second sentence of section 46504 (relating to assault on a flight crew with dangerous weapon), or section 46505(b)(3) or (c) (relating to explosive or incendiary devices, or endangerment of human life, by means of weapons on aircraft)” before “of title 49”.
+Par. (1)(j). Pub. L. 109–177, § 113(d)(2), inserted “, the second sentence of section 46504 (relating to assault on a flight crew with dangerous weapon), or section 46505(b)(3) or (c) (relating to explosive or incendiary devices, or endangerment of human life, by means of weapons on aircraft)” before “of title 49”.
 
-Pub. L. 109–177, § 113(d)(1), which directed amendment of par. (1)(j) by inserting a comma after “section 60123(b) (relating to the destruction of a natural gas pipeline”, was executed by making the insertion after “section 60123(b) (relating to destruction of a natural gas pipeline”, to reflect the probable intent of Congress.
+Pub. L. 109–177, § 113(d)(1), which directed amendment of par. (1)(j) by inserting a comma after “section 60123(b) (relating to the destruction of a natural gas pipeline”, was executed by making the insertion after “section 60123(b) (relating to destruction of a natural gas pipeline”, to reflect the probable intent of Congress.
 
-Pub. L. 109–177, § 113(d)(1), struck out “or” before “section 46502 (relating to aircraft piracy)”.
+Pub. L. 109–177, § 113(d)(1), struck out “or” before “section 46502 (relating to aircraft piracy)”.
 
-Par. (1)(p). Pub. L. 109–177, § 113(e), inserted “, section 1028A (relating to aggravated identity theft)” after “other documents”.
+Par. (1)(p). Pub. L. 109–177, § 113(e), inserted “, section 1028A (relating to aggravated identity theft)” after “other documents”.
 
-Par. (1)(q). Pub. L. 109–177, § 113(f), inserted “2339” after “2332h” and substituted “2339C, or 2339D” for “or 2339C”.
+Par. (1)(q). Pub. L. 109–177, § 113(f), inserted “2339” after “2332h” and substituted “2339C, or 2339D” for “or 2339C”.
 
 Pub. L. 109–162 struck out semicolon after “(relating to chemical weapons)” and substituted “section 2332” for “sections 2332”.
 
-Par. (1)(r), (s). Pub. L. 109–177, § 113(g), added subpar. (r) and redesignated former subpar. (r) as (s).
+Par. (1)(r), (s). Pub. L. 109–177, § 113(g), added subpar. (r) and redesignated former subpar. (r) as (s).
 
-2004—Par. (1)(a). Pub. L. 108–458, § 6907(1), inserted “2122 and” after “sections”.
+2004—Par. (1)(a). Pub. L. 108–458, § 6907(1), inserted “2122 and” after “sections”.
 
-Par. (1)(c). Pub. L. 108–458, § 6907(2), inserted “section 175c (relating to variola virus),” after “section 175 (relating to biological weapons),”.
+Par. (1)(c). Pub. L. 108–458, § 6907(2), inserted “section 175c (relating to variola virus),” after “section 175 (relating to biological weapons),”.
 
-Par. (1)(q). Pub. L. 108–458, § 6907(3), inserted “2332g, 2332h,” after “2332f,”.
+Par. (1)(q). Pub. L. 108–458, § 6907(3), inserted “2332g, 2332h,” after “2332f,”.
 
-2003—Par. (1)(a). Pub. L. 108–21, § 201(1), inserted “chapter 55 (relating to kidnapping),” after “chapter 37 (relating to espionage),”.
+2003—Par. (1)(a). Pub. L. 108–21, § 201(1), inserted “chapter 55 (relating to kidnapping),” after “chapter 37 (relating to espionage),”.
 
-Par. (1)(c). Pub. L. 108–21, § 201(2), inserted “section 1591 (sex trafficking of children by force, fraud, or coercion),” after “section 1511 (obstruction of State or local law enforcement),” and “section 2251A (selling or buying of children), section 2252A (relating to material constituting or containing child pornography), section 1466A (relating to child obscenity), section 2260 (production of sexually explicit depictions of a minor for importation into the United States), sections 2421, 2422, 2423, and 2425 (relating to transportation for illegal sexual activity and related crimes),” after “sections 2251 and 2252 (sexual exploitation of children),”.
+Par. (1)(c). Pub. L. 108–21, § 201(2), inserted “section 1591 (sex trafficking of children by force, fraud, or coercion),” after “section 1511 (obstruction of State or local law enforcement),” and “section 2251A (selling or buying of children), section 2252A (relating to material constituting or containing child pornography), section 1466A (relating to child obscenity), section 2260 (production of sexually explicit depictions of a minor for importation into the United States), sections 2421, 2422, 2423, and 2425 (relating to transportation for illegal sexual activity and related crimes),” after “sections 2251 and 2252 (sexual exploitation of children),”.
 
-2002—Par. (1)(n). Pub. L. 107–273, § 4002(c)(1), repealed Pub. L. 104–294, § 601(d)(2). See 1996 Amendment note below.
+2002—Par. (1)(n). Pub. L. 107–273, § 4002(c)(1), repealed Pub. L. 104–294, § 601(d)(2). See 1996 Amendment note below.
 
-Par. (1)(q). Pub. L. 107–273, § 4005(a)(1), realigned margins.
+Par. (1)(q). Pub. L. 107–273, § 4005(a)(1), realigned margins.
 
 Pub. L. 107–197 inserted “2332f,” after “2332d,” and substituted “2339B, or 2339C” for “or 2339B”.
 
-2001—Par. (1)(c). Pub. L. 107–56, § 202, substituted “section 1341 (relating to mail fraud), a felony violation of section 1030 (relating to computer fraud and abuse),” for “and section 1341 (relating to mail fraud),”.
+2001—Par. (1)(c). Pub. L. 107–56, § 202, substituted “section 1341 (relating to mail fraud), a felony violation of section 1030 (relating to computer fraud and abuse),” for “and section 1341 (relating to mail fraud),”.
 
-Par. (1)(p). Pub. L. 107–56, § 201(1), redesignated subpar. (p), relating to conspiracy, as (r).
+Par. (1)(p). Pub. L. 107–56, § 201(1), redesignated subpar. (p), relating to conspiracy, as (r).
 
-Par. (1)(q). Pub. L. 107–56, § 201(2), added subpar. (q).
+Par. (1)(q). Pub. L. 107–56, § 201(2), added subpar. (q).
 
-Par. (1)(r). Pub. L. 107–56, § 201(1), redesignated subpar. (p), relating to conspiracy, as (r).
+Par. (1)(r). Pub. L. 107–56, § 201(1), redesignated subpar. (p), relating to conspiracy, as (r).
 
 2000—Par. (1)(c). Pub. L. 106–181 inserted “section 38 (relating to aircraft parts fraud),” after “section 32 (relating to destruction of aircraft or aircraft facilities),”.
 
 1998—Par. (1)(a). Pub. L. 105–318 inserted “chapter 90 (relating to protection of trade secrets),” after “chapter 37 (relating to espionage),”.
 
-1996—Par. (1)(c). Pub. L. 104–294, § 102, which directed amendment of par. 1(c) by inserting “chapter 90 (relating to protection of trade secrets),” after “chapter 37 (relating to espionage),”, could not be executed because phrase “chapter 37 (relating to espionage),” did not appear.
+1996—Par. (1)(c). Pub. L. 104–294, § 102, which directed amendment of par. 1(c) by inserting “chapter 90 (relating to protection of trade secrets),” after “chapter 37 (relating to espionage),”, could not be executed because phrase “chapter 37 (relating to espionage),” did not appear.
 
-Pub. L. 104–208, § 201(1), substituted “section 1992 (relating to wrecking trains), a felony violation of section 1028 (relating to production of false identification documentation), section 1425 (relating to the procurement of citizenship or nationalization unlawfully), section 1426 (relating to the reproduction of naturalization or citizenship papers), section 1427 (relating to the sale of naturalization or citizenship papers), section 1541 (relating to passport issuance without authority), section 1542 (relating to false statements in passport applications), section 1543 (relating to forgery or false use of passports), section 1544 (relating to misuse of passports), or section 1546 (relating to fraud and misuse of visas, permits, and other documents)” for “or section 1992 (relating to wrecking trains)” before semicolon at end.
+Pub. L. 104–208, § 201(1), substituted “section 1992 (relating to wrecking trains), a felony violation of section 1028 (relating to production of false identification documentation), section 1425 (relating to the procurement of citizenship or nationalization unlawfully), section 1426 (relating to the reproduction of naturalization or citizenship papers), section 1427 (relating to the sale of naturalization or citizenship papers), section 1541 (relating to passport issuance without authority), section 1542 (relating to false statements in passport applications), section 1543 (relating to forgery or false use of passports), section 1544 (relating to misuse of passports), or section 1546 (relating to fraud and misuse of visas, permits, and other documents)” for “or section 1992 (relating to wrecking trains)” before semicolon at end.
 
-Par. (1)(j). Pub. L. 104–287, § 6(a)(2), amended directory language of Pub. L. 103–272, § 5(e)(11) as amended by Pub. L. 103–429, § 7(a)(4)(A). See 1994 Amendment note below.
+Par. (1)(j). Pub. L. 104–287, § 6(a)(2), amended directory language of Pub. L. 103–272, § 5(e)(11) as amended by Pub. L. 103–429, § 7(a)(4)(A). See 1994 Amendment note below.
 
-Par. (1)(*l*). Pub. L. 104–208, § 201(2), and Pub. L. 104–294, § 601(d)(1), amended subpar. (*l*) identically, striking out “or” after semicolon at end.
+Par. (1)(*l*). Pub. L. 104–208, § 201(2), and Pub. L. 104–294, § 601(d)(1), amended subpar. (*l*) identically, striking out “or” after semicolon at end.
 
-Par. (1)(m). Pub. L. 104–208, § 201(3), (4), added subpar. (m). Former subpar. (m) redesignated (n).
+Par. (1)(m). Pub. L. 104–208, § 201(3), (4), added subpar. (m). Former subpar. (m) redesignated (n).
 
-Par. (1)(n). Pub. L. 104–294, § 601(d)(2), which could not be executed because of prior amendments by Pub. L. 104–132, § 434(1) and Pub. L. 104–208, § 201(3), was repealed by Pub. L. 107–273, § 4002(c)(1). See below.
+Par. (1)(n). Pub. L. 104–294, § 601(d)(2), which could not be executed because of prior amendments by Pub. L. 104–132, § 434(1) and Pub. L. 104–208, § 201(3), was repealed by Pub. L. 107–273, § 4002(c)(1). See below.
 
-Pub. L. 104–208, § 201(3), redesignated subpar. (m) as (n). Former subpar. (n) redesignated (*o*).
+Pub. L. 104–208, § 201(3), redesignated subpar. (m) as (n). Former subpar. (n) redesignated (*o*).
 
-Pub. L. 104–132, § 434(1), struck out “and” at end.
+Pub. L. 104–132, § 434(1), struck out “and” at end.
 
-Par. (1)(*o*). Pub. L. 104–208, § 201(3), redesignated subpar. (n) as (*o*). Former subpar. (*o*) redesignated (p).
+Par. (1)(*o*). Pub. L. 104–208, § 201(3), redesignated subpar. (n) as (*o*). Former subpar. (*o*) redesignated (p).
 
 Pub. L. 104–132 added subpar. (*o*) and redesignated former subpar. (*o*) as (p).
 
-Par. (1)(p). Pub. L. 104–208, § 201(3), redesignated subpar. (*o*), relating to felony violation of section 1028, etc., as (p).
+Par. (1)(p). Pub. L. 104–208, § 201(3), redesignated subpar. (*o*), relating to felony violation of section 1028, etc., as (p).
 
-Pub. L. 104–132, § 434(2), redesignated subpar. (*o*), relating to conspiracy, as (p).
+Pub. L. 104–132, § 434(2), redesignated subpar. (*o*), relating to conspiracy, as (p).
 
 1994—Par. (1). Pub. L. 103–414 in introductory provisions inserted “or acting Deputy Assistant Attorney General” after “Deputy Assistant Attorney General”.
 
-Par. (1)(c). Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping” in two places.
+Par. (1)(c). Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping” in two places.
 
-Pub. L. 103–322, § 330011(c)(1), amended directory language of Pub. L. 101–298, § 3(b). See 1990 Amendment note below.
+Pub. L. 103–322, § 330011(c)(1), amended directory language of Pub. L. 101–298, § 3(b). See 1990 Amendment note below.
 
-Par. (1)(j). Pub. L. 103–322, § 330011(r), amended directory language of Pub. L. 101–647, § 2531(3). See 1990 Amendment note below.
+Par. (1)(j). Pub. L. 103–322, § 330011(r), amended directory language of Pub. L. 101–647, § 2531(3). See 1990 Amendment note below.
 
-Pub. L. 103–322, § 330011(q)(1), repealed Pub. L. 101–647, § 3568. See 1990 Amendment note below.
+Pub. L. 103–322, § 330011(q)(1), repealed Pub. L. 101–647, § 3568. See 1990 Amendment note below.
 
-Pub. L. 103–272, § 5(e)(11), as amended by Pub. L. 103–429, § 7(a)(4)(A); Pub. L. 104–287, § 6(a)(2), substituted “section 60123(b) (relating to destruction of a natural gas pipeline) or section 46502 (relating to aircraft piracy) of title 49;” for “section 11(c)(2) of the Natural Gas Pipeline Safety Act of 1968 (relating to destruction of a natural gas pipeline) or subsection (i) or (n) of section 902 of the Federal Aviation Act of 1958 (relating to aircraft piracy);”.
+Pub. L. 103–272, § 5(e)(11), as amended by Pub. L. 103–429, § 7(a)(4)(A); Pub. L. 104–287, § 6(a)(2), substituted “section 60123(b) (relating to destruction of a natural gas pipeline) or section 46502 (relating to aircraft piracy) of title 49;” for “section 11(c)(2) of the Natural Gas Pipeline Safety Act of 1968 (relating to destruction of a natural gas pipeline) or subsection (i) or (n) of section 902 of the Federal Aviation Act of 1958 (relating to aircraft piracy);”.
 
-1990—Par. (1)(c). Pub. L. 101–647, § 2531(1), inserted “section 215 (relating to bribery of bank officials),” before “section 224”, “section 1032 (relating to concealment of assets),” before section 1084, “section 1014 (relating to loans and credit applications generally; renewals and discounts),” before “sections 1503,” and “section 1344 (relating to bank fraud),” before “sections 2251 and 2252” and struck out “the section in chapter 65 relating to destruction of an energy facility,” after “retaliating against a Federal official),”.
+1990—Par. (1)(c). Pub. L. 101–647, § 2531(1), inserted “section 215 (relating to bribery of bank officials),” before “section 224”, “section 1032 (relating to concealment of assets),” before section 1084, “section 1014 (relating to loans and credit applications generally; renewals and discounts),” before “sections 1503,” and “section 1344 (relating to bank fraud),” before “sections 2251 and 2252” and struck out “the section in chapter 65 relating to destruction of an energy facility,” after “retaliating against a Federal official),”.
 
-Pub. L. 101–298, § 3(b), as amended by Pub. L. 103–322, § 330011(c)(1), inserted “section 175 (relating to biological weapons),” after “section 33 (relating to destruction of motor vehicles or motor vehicle facilities),”.
+Pub. L. 101–298, § 3(b), as amended by Pub. L. 103–322, § 330011(c)(1), inserted “section 175 (relating to biological weapons),” after “section 33 (relating to destruction of motor vehicles or motor vehicle facilities),”.
 
-Par. (1)(j). Pub. L. 101–647, § 3568, which directed amendment of subsec. (j) by substituting “any violation of section 11(c)(2) of the Natural Gas Pipeline Safety Act of 1968 (relating to destruction of a natural gas pipeline) or section 902(i) or (n) of the Federal Aviation Act of 1958 (relating to aircraft piracy)” for “any violation of section 1679a(c)(2) (relating to destruction of a natural gas pipeline) or subsection (i) or (n) of section 1472 (relating to aircraft piracy) of title 49, of the United States Code”, and which was probably intended as an amendment to par. (1)(j), was repealed by Pub. L. 103–322, § 330011(q)(1).
+Par. (1)(j). Pub. L. 101–647, § 3568, which directed amendment of subsec. (j) by substituting “any violation of section 11(c)(2) of the Natural Gas Pipeline Safety Act of 1968 (relating to destruction of a natural gas pipeline) or section 902(i) or (n) of the Federal Aviation Act of 1958 (relating to aircraft piracy)” for “any violation of section 1679a(c)(2) (relating to destruction of a natural gas pipeline) or subsection (i) or (n) of section 1472 (relating to aircraft piracy) of title 49, of the United States Code”, and which was probably intended as an amendment to par. (1)(j), was repealed by Pub. L. 103–322, § 330011(q)(1).
 
-Pub. L. 101–647, § 2531(3), as amended by Pub. L. 103–322, § 330011(r), substituted “any violation of section 11(c)(2) of the Natural Gas Pipeline Safety Act of 1968 (relating to destruction of a natural gas pipeline) or subsection (i) or (n) of section 902 of the Federal Aviation Act of 1958 (relating to aircraft piracy)” for “any violation of section 1679a(c)(2) (relating to destruction of a natural gas pipeline) or subsection (i) or (n) of section 1472 (relating to aircraft piracy) of title 49, of the United States Code”.
+Pub. L. 101–647, § 2531(3), as amended by Pub. L. 103–322, § 330011(r), substituted “any violation of section 11(c)(2) of the Natural Gas Pipeline Safety Act of 1968 (relating to destruction of a natural gas pipeline) or subsection (i) or (n) of section 902 of the Federal Aviation Act of 1958 (relating to aircraft piracy)” for “any violation of section 1679a(c)(2) (relating to destruction of a natural gas pipeline) or subsection (i) or (n) of section 1472 (relating to aircraft piracy) of title 49, of the United States Code”.
 
-Par. (1)(m). Pub. L. 101–647, § 2531(2)(A), struck out subpar. (m) relating to conspiracy which read as follows: “any conspiracy to commit any of the foregoing offenses.”
+Par. (1)(m). Pub. L. 101–647, § 2531(2)(A), struck out subpar. (m) relating to conspiracy which read as follows: “any conspiracy to commit any of the foregoing offenses.”
 
-Par. (1)(*o*). Pub. L. 101–647, § 2531(2)(B)–(D), added subpar. (*o*).
+Par. (1)(*o*). Pub. L. 101–647, § 2531(2)(B)–(D), added subpar. (*o*).
 
-1988—Par. (1). Pub. L. 100–690, § 7036(a)(1), inserted “or” after “Associate Attorney General,” in introductory provisions.
+1988—Par. (1). Pub. L. 100–690, § 7036(a)(1), inserted “or” after “Associate Attorney General,” in introductory provisions.
 
-Par. (1)(a). Pub. L. 100–690, § 7036(c)(1), which directed the amendment of subpar. (a) by substituting “(relating to riots),” for “(relating to riots);” was executed by substituting “(relating to riots),” for “(relating to riots)” as the probable intent of Congress.
+Par. (1)(a). Pub. L. 100–690, § 7036(c)(1), which directed the amendment of subpar. (a) by substituting “(relating to riots),” for “(relating to riots);” was executed by substituting “(relating to riots),” for “(relating to riots)” as the probable intent of Congress.
 
-Par. (1)(c). Pub. L. 100–690, § 7053(d), which directed the amendment of section 2516(c) by substituting “1958” for “1952A” and “1959” for “1952B” was executed by making the substitutions in par. (1)(c) as the probable intent of Congress.
+Par. (1)(c). Pub. L. 100–690, § 7053(d), which directed the amendment of section 2516(c) by substituting “1958” for “1952A” and “1959” for “1952B” was executed by making the substitutions in par. (1)(c) as the probable intent of Congress.
 
-Pub. L. 100–690, § 7036(b), struck out “section 2252 or 2253 (sexual exploitation of children),” after “wire, radio, or television),” and substituted “section 2321” for “the second section 2320”.
+Pub. L. 100–690, § 7036(b), struck out “section 2252 or 2253 (sexual exploitation of children),” after “wire, radio, or television),” and substituted “section 2321” for “the second section 2320”.
 
-Pub. L. 100–690, § 7036(a)(2), which directed the amendment of par. (1) by striking the comma that follows a comma was executed to subpar. (c) by striking out the second comma after “to mail fraud)”.
+Pub. L. 100–690, § 7036(a)(2), which directed the amendment of par. (1) by striking the comma that follows a comma was executed to subpar. (c) by striking out the second comma after “to mail fraud)”.
 
-Par. (1)(i). Pub. L. 100–690, § 7525, added subpar. (i) and redesignated former subpar. (i) as (j).
+Par. (1)(i). Pub. L. 100–690, § 7525, added subpar. (i) and redesignated former subpar. (i) as (j).
 
-Par. (1)(j). Pub. L. 100–690, § 7525, redesignated former subpar. (i) as (j). Former subpar. (j) redesignated (k).
+Par. (1)(j). Pub. L. 100–690, § 7525, redesignated former subpar. (i) as (j). Former subpar. (j) redesignated (k).
 
-Pub. L. 100–690, § 7036(c)(2), which directed amendment of subpar. (j) by striking “or;” was executed by striking “or” after “Export Control Act);” to reflect the probable intent of Congress.
+Pub. L. 100–690, § 7036(c)(2), which directed amendment of subpar. (j) by striking “or;” was executed by striking “or” after “Export Control Act);” to reflect the probable intent of Congress.
 
-Par. (1)(k). Pub. L. 100–690, § 7525, redesignated former subpar. (j) as (k). Former subpar. (k) redesignated (*l*).
+Par. (1)(k). Pub. L. 100–690, § 7525, redesignated former subpar. (j) as (k). Former subpar. (k) redesignated (*l*).
 
-Pub. L. 100–690, § 7036(c)(3), struck out “or” at end.
+Pub. L. 100–690, § 7036(c)(3), struck out “or” at end.
 
-Par. (1)(*l*). Pub. L. 100–690, § 7525, redesignated former subpar. (k) as (*l*). Former subpar. (*l*) redesignated (m).
+Par. (1)(*l*). Pub. L. 100–690, § 7525, redesignated former subpar. (k) as (*l*). Former subpar. (*l*) redesignated (m).
 
-Par. (1)(m). Pub. L. 100–690, § 7525, redesignated former subpar. (*l*) relating to conspiracy as (m).
+Par. (1)(m). Pub. L. 100–690, § 7525, redesignated former subpar. (*l*) relating to conspiracy as (m).
 
-Pub. L. 100–690, § 6461, added subpar. (m) relating to sections 922 and 924.
+Pub. L. 100–690, § 6461, added subpar. (m) relating to sections 922 and 924.
 
-Par. (1)(n). Pub. L. 100–690, § 6461, added subpar. (n).
+Par. (1)(n). Pub. L. 100–690, § 6461, added subpar. (n).
 
-1986—Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
+1986—Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
 
-Par. (1). Pub. L. 99–508, § 104, substituted “any Assistant Attorney General, any acting Assistant Attorney General, or any Deputy Assistant Attorney General in the Criminal Division” for “or any Assistant Attorney General” in introductory provisions.
+Par. (1). Pub. L. 99–508, § 104, substituted “any Assistant Attorney General, any acting Assistant Attorney General, or any Deputy Assistant Attorney General in the Criminal Division” for “or any Assistant Attorney General” in introductory provisions.
 
-Par. (1)(a). Pub. L. 99–508, § 105(a)(5), inserted “section 2284 of title 42 of the United States Code (relating to sabotage of nuclear facilities or fuel),” struck out “or” after “(relating to treason),” and inserted “chapter 65 (relating to malicious mischief), chapter 111 (relating to destruction of vessels), or chapter 81 (relating to piracy)”.
+Par. (1)(a). Pub. L. 99–508, § 105(a)(5), inserted “section 2284 of title 42 of the United States Code (relating to sabotage of nuclear facilities or fuel),” struck out “or” after “(relating to treason),” and inserted “chapter 65 (relating to malicious mischief), chapter 111 (relating to destruction of vessels), or chapter 81 (relating to piracy)”.
 
 Par. (1)(c). Pub. L. 99–570, which directed the amendment of subpar. (c) by inserting “section 1956 (laundering of monetary instruments), section 1957 (relating to engaging in monetary transactions in property derived from specified unlawful activity),” after “section 1955 (prohibition of relating to business enterprises of gambling),” was executed by inserting this phrase after “section 1955 (prohibition of business enterprises of gambling),” as the probable intent of Congress.
 
-Pub. L. 99–508, § 105(a)(1), inserted “section 751 (relating to escape),” “the second section 2320 (relating to trafficking in certain motor vehicles or motor vehicle parts), section 1203 (relating to hostage taking), section 1029 (relating to fraud and related activity in connection with access devices), section 3146 (relating to penalty for failure to appear), section 3521(b)(3) (relating to witness relocation and assistance), section 32 (relating to destruction of aircraft or aircraft facilities),” and “section 1952A (relating to use of interstate commerce facilities in the commission of murder for hire), section 1952B (relating to violent crimes in aid of racketeering activity),” substituted “2312, 2313, 2314,” for “2314”, inserted “, section 115 (relating to threatening or retaliating against a Federal official), the section in chapter 65 relating to destruction of an energy facility, and section 1341 (relating to mail fraud),” substituted “, section 351” for “or section 351”, and inserted “, section 831 (relating to prohibited transactions involving nuclear materials), section 33 (relating to destruction of motor vehicles or motor vehicle facilities), or section 1992 (relating to wrecking trains)”.
+Pub. L. 99–508, § 105(a)(1), inserted “section 751 (relating to escape),” “the second section 2320 (relating to trafficking in certain motor vehicles or motor vehicle parts), section 1203 (relating to hostage taking), section 1029 (relating to fraud and related activity in connection with access devices), section 3146 (relating to penalty for failure to appear), section 3521(b)(3) (relating to witness relocation and assistance), section 32 (relating to destruction of aircraft or aircraft facilities),” and “section 1952A (relating to use of interstate commerce facilities in the commission of murder for hire), section 1952B (relating to violent crimes in aid of racketeering activity),” substituted “2312, 2313, 2314,” for “2314”, inserted “, section 115 (relating to threatening or retaliating against a Federal official), the section in chapter 65 relating to destruction of an energy facility, and section 1341 (relating to mail fraud),” substituted “, section 351” for “or section 351”, and inserted “, section 831 (relating to prohibited transactions involving nuclear materials), section 33 (relating to destruction of motor vehicles or motor vehicle facilities), or section 1992 (relating to wrecking trains)”.
 
-Par. (1)(h) to (*l*). Pub. L. 99–508, § 105(a)(2)–(4), added subpars. (h) to (k) and redesignated former subpar. (h) as (*l*).
+Par. (1)(h) to (*l*). Pub. L. 99–508, § 105(a)(2)–(4), added subpars. (h) to (k) and redesignated former subpar. (h) as (*l*).
 
-Par. (2). Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in two places.
+Par. (2). Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in two places.
 
-Par. (3). Pub. L. 99–508, § 105(b), added par. (3).
+Par. (3). Pub. L. 99–508, § 105(b), added par. (3).
 
-1984—Par. (1). Pub. L. 98–473, § 1203(c)(4), which directed the amendment of the first par. of par. (1) by inserting “Deputy Attorney General, Associate Attorney General,” after “Attorney General.” was executed by making the insertion after the first reference to “Attorney General,” to reflect the probable intent of Congress.
+1984—Par. (1). Pub. L. 98–473, § 1203(c)(4), which directed the amendment of the first par. of par. (1) by inserting “Deputy Attorney General, Associate Attorney General,” after “Attorney General.” was executed by making the insertion after the first reference to “Attorney General,” to reflect the probable intent of Congress.
 
-Par. (1)(c). Pub. L. 98–473, § 1203(c)(2), inserted references to sections 1512 and 1513 after “1503”.
+Par. (1)(c). Pub. L. 98–473, § 1203(c)(2), inserted references to sections 1512 and 1513 after “1503”.
 
-Pub. L. 98–473, § 1203(c)(1), inserted “section 1343 (fraud by wire, radio, or television), section 2252 or 2253 (sexual exploitation of children),” after “section 664 (embezzlement from pension and welfare funds),”.
+Pub. L. 98–473, § 1203(c)(1), inserted “section 1343 (fraud by wire, radio, or television), section 2252 or 2253 (sexual exploitation of children),” after “section 664 (embezzlement from pension and welfare funds),”.
 
 Pub. L. 98–292 inserted “sections 2251 and 2252 (sexual exploitation of children),” after “section 664 (embezzlement from pension and welfare funds),”.
 
-Par. (1)(g), (h). Pub. L. 98–473, § 1203(c)(3), added par. (g) and redesignated former par. (g) as (h).
+Par. (1)(g), (h). Pub. L. 98–473, § 1203(c)(3), added par. (g) and redesignated former par. (g) as (h).
 
 1982—Par. (1)(c). Pub. L. 97–285 substituted “(Presidential and Presidential staff assassination, kidnaping, and assault)” for “(Presidential assassinations, kidnapping, and assault)” after “section 1751” and substituted “(violations with respect to congressional, Cabinet, or Supreme Court assassinations, kidnaping, and assault)” for “(violations with respect to congressional assassination, kidnapping, and assault)” after “section 351”.
 
@@ -1033,7 +1033,7 @@ Par. (1)(g), (h). Pub. L. 98–473, § 1203(c)(3), added par. (g) and redesign
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
+Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
 
 **Effective Date of 2000 Amendment**
 
@@ -1041,17 +1041,17 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–287, § 6(a), Oct. 11, 1996, 110 Stat. 3398, provided that the amendment made by that section is effective July 5, 1994.
+Pub. L. 104–287, § 6(a), Oct. 11, 1996, 110 Stat. 3398, provided that the amendment made by that section is effective July 5, 1994.
 
 **Effective Date of 1994 Amendments**
 
-Pub. L. 103–429, § 7(a), Oct. 31, 1994, 108 Stat. 4388, provided that the amendment made by section 7(a)(4)(A) of Pub. L. 103–429 is effective July 5, 1994.
+Pub. L. 103–429, § 7(a), Oct. 31, 1994, 108 Stat. 4388, provided that the amendment made by section 7(a)(4)(A) of Pub. L. 103–429 is effective July 5, 1994.
 
-Pub. L. 103–322, title XXXIII, § 330011(c)(1), Sept. 13, 1994, 108 Stat. 2144, provided that the amendment made by that section is effective as of the date on which section 3(b) of Pub. L. 101–298 took effect.
+Pub. L. 103–322, title XXXIII, § 330011(c)(1), Sept. 13, 1994, 108 Stat. 2144, provided that the amendment made by that section is effective as of the date on which section 3(b) of Pub. L. 101–298 took effect.
 
-Pub. L. 103–322, title XXXIII, § 330011(q)(1), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 3568 of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, § 330011(q)(1), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 3568 of Pub. L. 101–647 took effect.
 
-Pub. L. 103–322, title XXXIII, § 330011(r), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 2531(3) of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, § 330011(r), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 2531(3) of Pub. L. 101–647 took effect.
 
 **Effective Date of 1986 Amendment**
 
@@ -1063,13 +1063,13 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 **Savings Provision**
 
-Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 
 **Rule of Construction**
 
 Nothing in amendment made by Pub. L. 117–159 to be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions, see section 12004(k) of Pub. L. 117–159, set out as a note under section 922 of this title.
 
-## § 2517. Authorization for disclosure and use of intercepted wire, oral, or electronic communications
+## § 2517. Authorization for disclosure and use of intercepted wire, oral, or electronic communications
 
 **(1)** Any investigative or law enforcement officer who, by any means authorized by this chapter, has obtained knowledge of the contents of any wire, oral, or electronic communication, or evidence derived therefrom, may disclose such contents to another investigative or law enforcement officer to the extent that such disclosure is appropriate to the proper performance of the official duties of the officer making or receiving the disclosure.
 
@@ -1083,7 +1083,7 @@ Nothing in amendment made by Pub. L. 117–159 to be construed to allow the esta
 
 **(6)** Any investigative or law enforcement officer, or attorney for the Government, who by any means authorized by this chapter, has obtained knowledge of the contents of any wire, oral, or electronic communication, or evidence derived therefrom, may disclose such contents to any other Federal law enforcement, intelligence, protective, immigration, national defense, or national security official to the extent that such contents include foreign intelligence or counterintelligence (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 401a)),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or foreign intelligence information (as defined in subsection (19) of section 2510 of this title), to assist the official who is to receive that information in the performance of his official duties. Any Federal official who receives information pursuant to this provision may use that information only as necessary in the conduct of that person’s official duties subject to any limitations on the unauthorized disclosure of such information.
 
@@ -1091,19 +1091,19 @@ or foreign intelligence information (as defined in subsection (19) of section 25
 
 **(8)** Any investigative or law enforcement officer, or other Federal official in carrying out official duties as such Federal official, who by any means authorized by this chapter, has obtained knowledge of the contents of any wire, oral, or electronic communication, or evidence derived therefrom, may disclose such contents or derivative evidence to any appropriate Federal, State, local, or foreign government official to the extent that such contents or derivative evidence reveals a threat of actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power, domestic or international sabotage, domestic or international terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by an agent of a foreign power, within the United States or elsewhere, for the purpose of preventing or responding to such a threat. Any official who receives information pursuant to this provision may use that information only as necessary in the conduct of that person’s official duties subject to any limitations on the unauthorized disclosure of such information, and any State, local, or foreign official who receives information pursuant to this provision may use that information only consistent with such guidelines as the Attorney General and Director of Central Intelligence shall jointly issue.
 
-(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 217; amended Pub. L. 91–452, title IX, § 902(b), Oct. 15, 1970, 84 Stat. 947; Pub. L. 99–508, title I, § 101(c)(1)(A), Oct. 21, 1986, 100 Stat. 1851; Pub. L. 107–56, title II, § 203(b)(1), Oct. 26, 2001, 115 Stat. 280; Pub. L. 107–296, title VIII, § 896, Nov. 25, 2002, 116 Stat. 2257; Pub. L. 117–347, title III, § 323(a)(1)(A), Jan. 5, 2023, 136 Stat. 6206.)
+(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 217; amended Pub. L. 91–452, title IX, § 902(b), Oct. 15, 1970, 84 Stat. 947; Pub. L. 99–508, title I, § 101(c)(1)(A), Oct. 21, 1986, 100 Stat. 1851; Pub. L. 107–56, title II, § 203(b)(1), Oct. 26, 2001, 115 Stat. 280; Pub. L. 107–296, title VIII, § 896, Nov. 25, 2002, 116 Stat. 2257; Pub. L. 117–347, title III, § 323(a)(1)(A), Jan. 5, 2023, 136 Stat. 6206.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Security Act of 1947, referred to in par. (6), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 3 of the Act is now classified to section 3003 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in par. (6), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 3 of the Act is now classified to section 3003 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
-2023—Pars. (7), (8). Pub. L. 117–347, § 323(a)(1)(A), repealed Pub. L. 107–296, § 896. See 2002 Amendment note below.
+2023—Pars. (7), (8). Pub. L. 117–347, § 323(a)(1)(A), repealed Pub. L. 107–296, § 896. See 2002 Amendment note below.
 
-2002—Pars. (7), (8). Pub. L. 107–296, § 896, which added pars. (7) and (8), was repealed by Pub. L. 117–347, § 323(a)(1)(A). Repeal to have no effect on amendment by Pub. L. 107–296, see Construction of 2023 Amendment note below.
+2002—Pars. (7), (8). Pub. L. 107–296, § 896, which added pars. (7) and (8), was repealed by Pub. L. 117–347, § 323(a)(1)(A). Repeal to have no effect on amendment by Pub. L. 107–296, see Construction of 2023 Amendment note below.
 
 2001—Par. (6). Pub. L. 107–56 added par. (6).
 
@@ -1127,15 +1127,15 @@ Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in cas
 
 **Construction of 2023 Amendment**
 
-Pub. L. 117–347, title III, § 323(a)(3), Jan. 5, 2023, 136 Stat. 6207, provided that: “Nothing in the amendments made by this subsection [amending this section, sections 1806, 1825, and 3365 of Title 50, War and National Defense, Rule 6 of the Federal Rules of Criminal Procedure, set out in the Appendix to this title, and provisions set out as a note under this section] shall be construed to effect [sic] the amendments made by sections 895 through 899 of the Homeland Security Act of 2002 (Public Law 107–296; 116 Stat. 2256).”
+Pub. L. 117–347, title III, § 323(a)(3), Jan. 5, 2023, 136 Stat. 6207, provided that: “Nothing in the amendments made by this subsection [amending this section, sections 1806, 1825, and 3365 of Title 50, War and National Defense, Rule 6 of the Federal Rules of Criminal Procedure, set out in the Appendix to this title, and provisions set out as a note under this section] shall be construed to effect [sic] the amendments made by sections 895 through 899 of the Homeland Security Act of 2002 (Public Law 107–296; 116 Stat. 2256).”
 
 **Procedures for Disclosure of Information**
 
-Pub. L. 107–56, title II, § 203(c), Oct. 26, 2001, 115 Stat. 280, as amended by Pub. L. 107–296, title VIII, § 897(b), Nov. 25, 2002, 116 Stat. 2258; Pub. L. 108–458, title VI, § 6501(b), Dec. 17, 2004, 118 Stat. 3760; Pub. L. 117–347, title III, § 323(a)(1)(A), Jan. 5, 2023, 136 Stat. 6206, provided that: “The Attorney General shall establish procedures for the disclosure of information pursuant to paragraphs (6) and (8) of section 2517 of title 18, United States Code, and Rule 6(e)(3)(D) of the Federal Rules of Criminal Procedure [18 U.S.C. App.] that identifies a United States person, as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801)) [sic].”
+Pub. L. 107–56, title II, § 203(c), Oct. 26, 2001, 115 Stat. 280, as amended by Pub. L. 107–296, title VIII, § 897(b), Nov. 25, 2002, 116 Stat. 2258; Pub. L. 108–458, title VI, § 6501(b), Dec. 17, 2004, 118 Stat. 3760; Pub. L. 117–347, title III, § 323(a)(1)(A), Jan. 5, 2023, 136 Stat. 6206, provided that: “The Attorney General shall establish procedures for the disclosure of information pursuant to paragraphs (6) and (8) of section 2517 of title 18, United States Code, and Rule 6(e)(3)(D) of the Federal Rules of Criminal Procedure [18 U.S.C. App.] that identifies a United States person, as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801)) [sic].”
 
-[Pub. L. 117–347, § 323(a)(1)(A), repealed Pub. L. 107–296, § 897(b). See Construction of 2023 Amendment note above.]
+[Pub. L. 117–347, § 323(a)(1)(A), repealed Pub. L. 107–296, § 897(b). See Construction of 2023 Amendment note above.]
 
-## § 2518. Procedure for interception of wire, oral, or electronic communications
+## § 2518. Procedure for interception of wire, oral, or electronic communications
 
 **(1)** Each application for an order authorizing or approving the interception of a wire, oral, or electronic communication under this chapter shall be made in writing upon oath or affirmation to a judge of competent jurisdiction and shall state the applicant’s authority to make such application. Each application shall include the following information:
 
@@ -1339,59 +1339,59 @@ the order authorizing or approving the interception is limited to interception o
 
 **(12)** An interception of a communication under an order with respect to which the requirements of subsections (1)(b)(ii) and (3)(d) of this section do not apply by reason of subsection (11)(a) shall not begin until the place where the communication is to be intercepted is ascertained by the person implementing the interception order. A provider of wire or electronic communications service that has received an order as provided for in subsection (11)(b) may move the court to modify or quash the order on the ground that its assistance with respect to the interception cannot be performed in a timely or reasonable fashion. The court, upon notice to the government, shall decide such a motion expeditiously.
 
-(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 218; amended Pub. L. 91–358, title II, § 211(b), July 29, 1970, 84 Stat. 654; Pub. L. 95–511, title II, § 201(d)–(g), Oct. 25, 1978, 92 Stat. 1797, 1798; Pub. L. 98–473, title II, § 1203(a), (b), Oct. 12, 1984, 98 Stat. 2152; Pub. L. 99–508, title I, §§ 101(c)(1)(A), (8), (e), 106(a)–(d)(3), Oct. 21, 1986, 100 Stat. 1851–1853, 1856, 1857; Pub. L. 103–414, title II, § 201(b)(1), Oct. 25, 1994, 108 Stat. 4290; Pub. L. 105–272, title VI, § 604, Oct. 20, 1998, 112 Stat. 2413.)
+(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 218; amended Pub. L. 91–358, title II, § 211(b), July 29, 1970, 84 Stat. 654; Pub. L. 95–511, title II, § 201(d)–(g), Oct. 25, 1978, 92 Stat. 1797, 1798; Pub. L. 98–473, title II, § 1203(a), (b), Oct. 12, 1984, 98 Stat. 2152; Pub. L. 99–508, title I, §§ 101(c)(1)(A), (8), (e), 106(a)–(d)(3), Oct. 21, 1986, 100 Stat. 1851–1853, 1856, 1857; Pub. L. 103–414, title II, § 201(b)(1), Oct. 25, 1994, 108 Stat. 4290; Pub. L. 105–272, title VI, § 604, Oct. 20, 1998, 112 Stat. 2413.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Communications Assistance for Law Enforcement Act, referred to in par. (4), is title I of Pub. L. 103–414, Oct. 25, 1994, 108 Stat. 4279, which is classified generally to subchapter I (§ 1001 et seq.) of chapter 9 of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 47 and Tables.
+The Communications Assistance for Law Enforcement Act, referred to in par. (4), is title I of Pub. L. 103–414, Oct. 25, 1994, 108 Stat. 4279, which is classified generally to subchapter I (§ 1001 et seq.) of chapter 9 of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 47 and Tables.
 
 **Amendments**
 
-1998—Par. (11)(b)(ii). Pub. L. 105–272, § 604(a)(1), substituted “that there is probable cause to believe that the person’s actions could have the effect of thwarting interception from a specified facility;” for “of a purpose, on the part of that person, to thwart interception by changing facilities; and”.
+1998—Par. (11)(b)(ii). Pub. L. 105–272, § 604(a)(1), substituted “that there is probable cause to believe that the person’s actions could have the effect of thwarting interception from a specified facility;” for “of a purpose, on the part of that person, to thwart interception by changing facilities; and”.
 
-Par. (11)(b)(iii). Pub. L. 105–272, § 604(a)(2), substituted “such showing has been adequately made; and” for “such purpose has been adequately shown.”
+Par. (11)(b)(iii). Pub. L. 105–272, § 604(a)(2), substituted “such showing has been adequately made; and” for “such purpose has been adequately shown.”
 
-Par. (11)(b)(iv). Pub. L. 105–272, § 604(a)(3), added cl. (iv).
+Par. (11)(b)(iv). Pub. L. 105–272, § 604(a)(3), added cl. (iv).
 
-Par. (12). Pub. L. 105–272, § 604(b), substituted “by reason of subsection (11)(a)” for “by reason of subsection (11)”, struck out “the facilities from which, or” after “shall not begin until”, and struck out comma after “the place where”.
+Par. (12). Pub. L. 105–272, § 604(b), substituted “by reason of subsection (11)(a)” for “by reason of subsection (11)”, struck out “the facilities from which, or” after “shall not begin until”, and struck out comma after “the place where”.
 
 1994—Par. (4). Pub. L. 103–414 inserted at end of concluding provisions “Pursuant to section 2522 of this chapter, an order may also be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.”
 
-1986—Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
+1986—Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
 
-Par. (1). Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in introductory provisions.
+Par. (1). Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in introductory provisions.
 
-Par. (1)(b)(ii). Pub. L. 99–508, § 106(d)(1), inserted “except as provided in subsection (11),”.
+Par. (1)(b)(ii). Pub. L. 99–508, § 106(d)(1), inserted “except as provided in subsection (11),”.
 
-Par. (1)(e). Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
+Par. (1)(e). Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
 
-Par. (3). Pub. L. 99–508, §§ 101(c)(1)(A), 106(a), in introductory provisions, substituted “wire, oral, or electronic” for “wire or oral” and inserted “(and outside that jurisdiction but within the United States in the case of a mobile interception device authorized by a Federal court within such jurisdiction)”.
+Par. (3). Pub. L. 99–508, §§ 101(c)(1)(A), 106(a), in introductory provisions, substituted “wire, oral, or electronic” for “wire or oral” and inserted “(and outside that jurisdiction but within the United States in the case of a mobile interception device authorized by a Federal court within such jurisdiction)”.
 
-Par. (3)(d). Pub. L. 99–508, §§ 101(c)(1)(A), 106(d)(2), inserted “except as provided in subsection (11),” and substituted “wire, oral, or electronic” for “wire or oral”.
+Par. (3)(d). Pub. L. 99–508, §§ 101(c)(1)(A), 106(d)(2), inserted “except as provided in subsection (11),” and substituted “wire, oral, or electronic” for “wire or oral”.
 
-Par. (4). Pub. L. 99–508, §§ 101(c)(1)(A), (8), 106(b), substituted “wire, oral, or electronic” for “wire or oral” wherever appearing and, in closing provisions, substituted “provider of wire or electronic communication service” for “communication common carrier” wherever appearing, “such service provider” for “such carrier”, and “for reasonable expenses incurred in providing such facilities or assistance” for “at the prevailing rates”.
+Par. (4). Pub. L. 99–508, §§ 101(c)(1)(A), (8), 106(b), substituted “wire, oral, or electronic” for “wire or oral” wherever appearing and, in closing provisions, substituted “provider of wire or electronic communication service” for “communication common carrier” wherever appearing, “such service provider” for “such carrier”, and “for reasonable expenses incurred in providing such facilities or assistance” for “at the prevailing rates”.
 
-Par. (5). Pub. L. 99–508, §§ 101(c)(1)(A), 106(c), substituted “wire, oral, or electronic” for “wire or oral” and inserted provisions which related to beginning of thirty-day period, minimization where intercepted communication is in code or foreign language and expert in that code or foreign language is not immediately available, and conduct of interception by Government personnel or by individual operating under Government contract, acting under supervision of investigative or law enforcement officer authorized to conduct interception.
+Par. (5). Pub. L. 99–508, §§ 101(c)(1)(A), 106(c), substituted “wire, oral, or electronic” for “wire or oral” and inserted provisions which related to beginning of thirty-day period, minimization where intercepted communication is in code or foreign language and expert in that code or foreign language is not immediately available, and conduct of interception by Government personnel or by individual operating under Government contract, acting under supervision of investigative or law enforcement officer authorized to conduct interception.
 
-Pars. (7), (8)(a), (d)(3), (9). Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” wherever appearing.
+Pars. (7), (8)(a), (d)(3), (9). Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” wherever appearing.
 
-Par. (10)(c). Pub. L. 99–508, § 101(e), added subpar. (c).
+Par. (10)(c). Pub. L. 99–508, § 101(e), added subpar. (c).
 
-Pars. (11), (12). Pub. L. 99–508, § 106(d)(3), added pars. (11) and (12).
+Pars. (11), (12). Pub. L. 99–508, § 106(d)(3), added pars. (11) and (12).
 
-1984—Par. (7). Pub. L. 98–473, § 1203(a), inserted “, the Deputy Attorney General, the Associate Attorney General,” after “Attorney General” in provisions preceding subpar. (a).
+1984—Par. (7). Pub. L. 98–473, § 1203(a), inserted “, the Deputy Attorney General, the Associate Attorney General,” after “Attorney General” in provisions preceding subpar. (a).
 
-Par. (7)(a). Pub. L. 98–473, § 1203(b), amended subpar. (a) generally, adding cl. (i) and designated existing provisions as cls. (ii) and (iii).
+Par. (7)(a). Pub. L. 98–473, § 1203(b), amended subpar. (a) generally, adding cl. (i) and designated existing provisions as cls. (ii) and (iii).
 
-1978—Par. (1). Pub. L. 95–511, § 201(d), inserted “under this chapter” after “communication”.
+1978—Par. (1). Pub. L. 95–511, § 201(d), inserted “under this chapter” after “communication”.
 
-Par. (4). Pub. L. 95–511, § 201(e), inserted “under this chapter” after “wire or oral communication” wherever appearing.
+Par. (4). Pub. L. 95–511, § 201(e), inserted “under this chapter” after “wire or oral communication” wherever appearing.
 
-Par. (9). Pub. L. 95–511, § 201(e), substituted “any wire or oral communication intercepted pursuant to this chapter” for “any intercepted wire or oral communication”.
+Par. (9). Pub. L. 95–511, § 201(e), substituted “any wire or oral communication intercepted pursuant to this chapter” for “any intercepted wire or oral communication”.
 
-Par. (10). Pub. L. 95–511, § 201(g), substituted “any wire or oral communication intercepted pursuant to this chapter,” for “any intercepted wire or oral communication,”.
+Par. (10). Pub. L. 95–511, § 201(g), substituted “any wire or oral communication intercepted pursuant to this chapter,” for “any intercepted wire or oral communication,”.
 
 1970—Par. (4). Pub. L. 91–358 inserted the provision that, upon the request of the applicant, an order authorizing the interception of a wire or oral communication direct that a communication common carrier, landlord, custodian, or other person furnish the applicant with all information, facilities, and technical assistance necessary to accomplish the interception unobtrusively and with a minimum of interference with the services provided.
 
@@ -1409,7 +1409,7 @@ Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically pr
 
 Amendment by Pub. L. 91–358 effective on first day of seventh calendar month which begins after July 29, 1970, see section 901(a) of Pub. L. 91–358.
 
-## § 2519. Reports concerning intercepted wire, oral, or electronic communications
+## § 2519. Reports concerning intercepted wire, oral, or electronic communications
 
 **(1)** In January of each year, any judge who has issued an order (or an extension thereof) under section 2518 that expired during the preceding year, or who has denied approval of an interception during that year, shall report to the Administrative Office of the United States Courts—
 
@@ -1473,25 +1473,25 @@ the information required by paragraphs (b) through (f) of this subsection with r
 
 **(3)** In June of each year the Director of the Administrative Office of the United States Courts shall transmit to the Congress a full and complete report concerning the number of applications for orders authorizing or approving the interception of wire, oral, or electronic communications pursuant to this chapter and the number of orders and extensions granted or denied pursuant to this chapter during the preceding calendar year. Such report shall include a summary and analysis of the data required to be filed with the Administrative Office by subsections (1) and (2) of this section. The Director of the Administrative Office of the United States Courts is authorized to issue binding regulations dealing with the content and form of the reports required to be filed by subsections (1) and (2) of this section.
 
-(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 222; amended Pub. L. 95–511, title II, § 201(h), Oct. 25, 1978, 92 Stat. 1798; Pub. L. 99–508, title I, §§ 101(c)(1)(A), 106(d)(4), Oct. 21, 1986, 100 Stat. 1851, 1857; Pub. L. 106–197, § 2(a), May 2, 2000, 114 Stat. 247; Pub. L. 111–174, § 6, May 27, 2010, 124 Stat. 1217.)
+(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 222; amended Pub. L. 95–511, title II, § 201(h), Oct. 25, 1978, 92 Stat. 1798; Pub. L. 99–508, title I, §§ 101(c)(1)(A), 106(d)(4), Oct. 21, 1986, 100 Stat. 1851, 1857; Pub. L. 106–197, § 2(a), May 2, 2000, 114 Stat. 247; Pub. L. 111–174, § 6, May 27, 2010, 124 Stat. 1217.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Par. (1). Pub. L. 111–174, § 6(1), substituted “In January of each year, any judge who has issued an order (or an extension thereof) under section 2518 that expired during the preceding year, or who has denied approval of an interception during that year,” for “Within thirty days after the expiration of an order (or each extension thereof) entered under section 2518, or the denial of an order approving an interception, the issuing or denying judge” in introductory provisions.
+2010—Par. (1). Pub. L. 111–174, § 6(1), substituted “In January of each year, any judge who has issued an order (or an extension thereof) under section 2518 that expired during the preceding year, or who has denied approval of an interception during that year,” for “Within thirty days after the expiration of an order (or each extension thereof) entered under section 2518, or the denial of an order approving an interception, the issuing or denying judge” in introductory provisions.
 
-Par. (2). Pub. L. 111–174, § 6(2), substituted “In March of each year” for “In January of each year” in introductory provisions.
+Par. (2). Pub. L. 111–174, § 6(2), substituted “In March of each year” for “In January of each year” in introductory provisions.
 
-Par. (3). Pub. L. 111–174, § 6(3), substituted “In June of each year” for “In April of each year”.
+Par. (3). Pub. L. 111–174, § 6(3), substituted “In June of each year” for “In April of each year”.
 
 2000—Par. (2)(b)(iv), (v). Pub. L. 106–197 added cl. (iv) and redesignated former cl. (iv) as (v).
 
-1986—Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
+1986—Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
 
-Par. (1)(b). Pub. L. 99–508, § 106(d)(4), inserted “(including whether or not the order was an order with respect to which the requirements of sections 2518(1)(b)(ii) and 2518(3)(d) of this title did not apply by reason of section 2518(11) of this title)”.
+Par. (1)(b). Pub. L. 99–508, § 106(d)(4), inserted “(including whether or not the order was an order with respect to which the requirements of sections 2518(1)(b)(ii) and 2518(3)(d) of this title did not apply by reason of section 2518(11) of this title)”.
 
-Par. (3). Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
+Par. (3). Pub. L. 99–508, § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
 
 1978—Par. (3). Pub. L. 95–511 inserted “pursuant to this chapter” after “wire or oral communications” and “granted or denied”.
 
@@ -1507,7 +1507,7 @@ Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically pr
 
 **Report on Use of DCS 1000 (Carnivore) To Implement Orders Under Section 2518**
 
-Pub. L. 107–273, div. A, title III, § 305(b), Nov. 2, 2002, 116 Stat. 1782, provided that:
+Pub. L. 107–273, div. A, title III, § 305(b), Nov. 2, 2002, 116 Stat. 1782, provided that:
 
 > “At the same time that the Attorney General, or Assistant Attorney General specially designated by the Attorney General, submits to the Administrative Office of the United States Courts the annual report required by section 2519(2) of title 18, United States Code, that is respectively next due after the end of each of the fiscal years 2002 and 2003, the Attorney General shall also submit to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives a report, covering the same respective time period, that contains the following information with respect to those orders described in that annual report that were applied for by law enforcement agencies of the Department of Justice and whose implementation involved the use of the DCS 1000 program (or any subsequent version of such program)—
 
@@ -1545,9 +1545,9 @@ Pub. L. 107–273, div. A, title III, § 305(b), Nov. 2, 2002, 116 Stat. 1782,
 
 **Encryption Reporting Requirements**
 
-Pub. L. 106–197, § 2(b), May 2, 2000, 114 Stat. 247, provided that: “The encryption reporting requirement in subsection (a) [amending this section] shall be effective for the report transmitted by the Director of the Administrative Office of the Courts for calendar year 2000 and in subsequent reports.”
+Pub. L. 106–197, § 2(b), May 2, 2000, 114 Stat. 247, provided that: “The encryption reporting requirement in subsection (a) [amending this section] shall be effective for the report transmitted by the Director of the Administrative Office of the Courts for calendar year 2000 and in subsequent reports.”
 
-## § 2520. Recovery of civil damages authorized
+## § 2520. Recovery of civil damages authorized
 
 **(a) In General.—** Except as provided in section 2511(2)(a)(ii), any person whose wire, oral, or electronic communication is intercepted, disclosed, or intentionally used in violation of this chapter may in a civil action recover from the person or entity, other than the United States, which engaged in that violation such relief as may be appropriate.
 
@@ -1589,7 +1589,7 @@ is a complete defense against any civil or criminal action brought under this ch
 
 **(g) Improper Disclosure Is Violation.—** Any willful disclosure or use by an investigative or law enforcement officer or governmental entity of information beyond the extent permitted by section 2517 is a violation of this chapter for purposes of section 2520(a).
 
-(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 223; amended Pub. L. 91–358, title II, § 211(c), July 29, 1970, 84 Stat. 654; Pub. L. 99–508, title I, § 103, Oct. 21, 1986, 100 Stat. 1853; Pub. L. 107–56, title II, § 223(a), Oct. 26, 2001, 115 Stat. 293; Pub. L. 107–296, title XXII, § 2207(e), formerly title II, § 225(e), Nov. 25, 2002, 116 Stat. 2157, renumbered § 2207(e), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 115–141, div. V, § 104(1)(B), Mar. 23, 2018, 132 Stat. 1216.)
+(Added Pub. L. 90–351, title III, § 802, June 19, 1968, 82 Stat. 223; amended Pub. L. 91–358, title II, § 211(c), July 29, 1970, 84 Stat. 654; Pub. L. 99–508, title I, § 103, Oct. 21, 1986, 100 Stat. 1853; Pub. L. 107–56, title II, § 223(a), Oct. 26, 2001, 115 Stat. 293; Pub. L. 107–296, title XXII, § 2207(e), formerly title II, § 225(e), Nov. 25, 2002, 116 Stat. 2157, renumbered § 2207(e), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 115–141, div. V, § 104(1)(B), Mar. 23, 2018, 132 Stat. 1216.)
 
 **Editorial Notes**
 
@@ -1599,9 +1599,9 @@ is a complete defense against any civil or criminal action brought under this ch
 
 2002—Subsec. (d)(3). Pub. L. 107–296 inserted “or 2511(2)(i)” after “2511(3)”.
 
-2001—Subsec. (a). Pub. L. 107–56, § 223(a)(1), inserted “, other than the United States,” after “person or entity”.
+2001—Subsec. (a). Pub. L. 107–56, § 223(a)(1), inserted “, other than the United States,” after “person or entity”.
 
-Subsecs. (f), (g). Pub. L. 107–56, § 223(a)(2), (3), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 107–56, § 223(a)(2), (3), added subsecs. (f) and (g).
 
 1986—Pub. L. 99–508 amended section generally. Prior to amendment, section read as follows: “Any person whose wire or oral communication is intercepted, disclosed, or used in violation of this chapter shall (1) have a civil cause of action against any person who intercepts, discloses, or uses, or procures any other person to intercept, disclose, or use such communications, and (2) be entitled to recover from any such person—
 
@@ -1631,13 +1631,13 @@ Amendment by Pub. L. 91–358 effective on first day of seventh calendar month w
 
 **Rule of Construction**
 
-Pub. L. 115–141, div. V, § 106, Mar. 23, 2018, 132 Stat. 1224, provided that: “Nothing in this division [see section 101 of Pub. L. 115–141, set out as a Short Title of 2018 Amendment note under section 1 of this title], or the amendments made by this division, shall be construed to preclude any foreign authority from obtaining assistance in a criminal investigation or prosecution pursuant to section 3512 of title 18, United States Code, section 1782 of title 28, United States Code, or as otherwise provided by law.”
+Pub. L. 115–141, div. V, § 106, Mar. 23, 2018, 132 Stat. 1224, provided that: “Nothing in this division [see section 101 of Pub. L. 115–141, set out as a Short Title of 2018 Amendment note under section 1 of this title], or the amendments made by this division, shall be construed to preclude any foreign authority from obtaining assistance in a criminal investigation or prosecution pursuant to section 3512 of title 18, United States Code, section 1782 of title 28, United States Code, or as otherwise provided by law.”
 
-## § 2521. Injunction against illegal interception
+## § 2521. Injunction against illegal interception
 
 Whenever it shall appear that any person is engaged or is about to engage in any act which constitutes or will constitute a felony violation of this chapter, the Attorney General may initiate a civil action in a district court of the United States to enjoin such violation. The court shall proceed as soon as practicable to the hearing and determination of such an action, and may, at any time before final determination, enter such a restraining order or prohibition, or take such other action, as is warranted to prevent a continuing and substantial injury to the United States or to any person or class of persons for whose protection the action is brought. A proceeding under this section is governed by the Federal Rules of Civil Procedure, except that, if an indictment has been returned against the respondent, discovery is governed by the Federal Rules of Criminal Procedure.
 
-(Added Pub. L. 99–508, title I, § 110(a), Oct. 21, 1986, 100 Stat. 1859.)
+(Added Pub. L. 99–508, title I, § 110(a), Oct. 21, 1986, 100 Stat. 1859.)
 
 **Editorial Notes**
 
@@ -1653,7 +1653,7 @@ The Federal Rules of Criminal Procedure, referred to in text, are set out in the
 
 Section effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as an Effective Date of 1986 Amendment note under section 2510 of this title.
 
-## § 2522. Enforcement of the Communications Assistance for Law Enforcement Act
+## § 2522. Enforcement of the Communications Assistance for Law Enforcement Act
 
 **(a) Enforcement by Court Issuing Surveillance Order.—** If a court authorizing an interception under this chapter, a State statute, or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) or authorizing use of a pen register or a trap and trace device under chapter 206 or a State statute finds that a telecommunications carrier has failed to comply with the requirements of the Communications Assistance for Law Enforcement Act, the court may, in accordance with section 108 of such Act, direct that the carrier comply forthwith and may direct that a provider of support services to the carrier or the manufacturer of the carrier’s transmission or switching equipment furnish forthwith modifications necessary for the carrier to comply.
 
@@ -1673,17 +1673,17 @@ Section effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant 
 
 **(d) Definitions.—** As used in this section, the terms defined in section 102 of the Communications Assistance for Law Enforcement Act have the meanings provided, respectively, in such section.
 
-(Added Pub. L. 103–414, title II, § 201(a), Oct. 25, 1994, 108 Stat. 4289.)
+(Added Pub. L. 103–414, title II, § 201(a), Oct. 25, 1994, 108 Stat. 4289.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (a), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§ 1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (a), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§ 1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
-The Communications Assistance for Law Enforcement Act, referred to in subsecs. (a) and (b), is title I of Pub. L. 103–414, Oct. 25, 1994, 108 Stat. 4279, which is classified generally to subchapter I (§ 1001 et seq.) of chapter 9 of Title 47, Telecommunications. Sections 102 and 108 of the Act are classified to sections 1001 and 1007, respectively, of Title 47. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 47 and Tables.
+The Communications Assistance for Law Enforcement Act, referred to in subsecs. (a) and (b), is title I of Pub. L. 103–414, Oct. 25, 1994, 108 Stat. 4279, which is classified generally to subchapter I (§ 1001 et seq.) of chapter 9 of Title 47, Telecommunications. Sections 102 and 108 of the Act are classified to sections 1001 and 1007, respectively, of Title 47. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 47 and Tables.
 
-## § 2523. Executive agreements on access to data by foreign governments
+## § 2523. Executive agreements on access to data by foreign governments
 
 **(a) Definitions.—** In this section—
 
@@ -1879,13 +1879,13 @@ The Communications Assistance for Law Enforcement Act, referred to in subsecs. (
 
 **(h) Minimization Procedures.—** A United States authority that receives the content of a communication described in subsection (b)(4)(H) from a foreign government in accordance with an executive agreement under this section shall use procedures that, to the maximum extent possible, meet the definition of minimization procedures in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801) to appropriately protect nonpublicly available information concerning United States persons.
 
-(Added Pub. L. 115–141, div. V, § 105(a), Mar. 23, 2018, 132 Stat. 1217.)
+(Added Pub. L. 115–141, div. V, § 105(a), Mar. 23, 2018, 132 Stat. 1217.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Congressional Findings**
 
-Pub. L. 115–141, div. V, § 102, Mar. 23, 2018, 132 Stat. 1213, provided that:
+Pub. L. 115–141, div. V, § 102, Mar. 23, 2018, 132 Stat. 1213, provided that:
 
 > “Congress finds the following:
 

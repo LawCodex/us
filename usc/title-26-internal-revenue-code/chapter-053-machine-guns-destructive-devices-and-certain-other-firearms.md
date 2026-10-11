@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 53, act Aug. 16, 1954, ch. 736, 68A Stat. 721, was generally revised by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227. The analysis reflects changes:
+A prior chapter 53, act Aug. 16, 1954, ch. 736, 68A Stat. 721, was generally revised by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227. The analysis reflects changes:
 
 > “Machine Guns, Destructive Devices, and Certain Other Firearms”
 
@@ -31,7 +31,7 @@ for “Machine Guns and Certain Other Firearms” in the chapter heading;
 
 ## Subchapter A—Taxes
 
-A prior subchapter A consisted of parts I to IV, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227.
+A prior subchapter A consisted of parts I to IV, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227.
 
 ### PART I—SPECIAL (OCCUPATIONAL) TAXES
 
@@ -39,13 +39,13 @@ A prior subchapter A consisted of parts I to IV, prior to the general revision o
 
 **Prior Provisions**
 
-A prior part I, act Aug. 16, 1964, ch. 736, 68A Stat. 721, and amended thereafter, consisted of sections 5801 to 5803, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1228.
+A prior part I, act Aug. 16, 1964, ch. 736, 68A Stat. 721, and amended thereafter, consisted of sections 5801 to 5803, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1228.
 
 **Amendments**
 
-1987—Pub. L. 100–203, title X, § 10512(g)(2), Dec. 22, 1987, 101 Stat. 1330–450, substituted “Imposition of tax” for “Tax” in item 5801.
+1987—Pub. L. 100–203, title X, § 10512(g)(2), Dec. 22, 1987, 101 Stat. 1330–450, substituted “Imposition of tax” for “Tax” in item 5801.
 
-#### § 5801. Imposition of tax
+#### § 5801. Imposition of tax
 
 **(a) General rule** On 1st engaging in business and thereafter on or before July 1 of each year, every importer, manufacturer, and dealer in firearms shall pay a special (occupational) tax for each place of business at the following rates:
 
@@ -67,13 +67,13 @@ All persons treated as 1 taxpayer under section 5061(e)(3) shall be treated as 1
 
 For purposes of paragraph (1), rules similar to the rules of subparagraphs (B) and (C) of section 448(c)(3) shall apply.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227; amended Pub. L. 100–203, title X, § 10512(g)(1), Dec. 22, 1987, 101 Stat. 1330–449.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227; amended Pub. L. 100–203, title X, § 10512(g)(1), Dec. 22, 1987, 101 Stat. 1330–449.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5801, acts Aug. 16, 1954, ch. 736, 68A Stat. 721; Sept. 2, 1958, Pub. L. 85–859, title II, § 203(a), 72 Stat. 1427; June 1, 1960, Pub. L. 86–478, § 1, 74 Stat. 149, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618.
+A prior section 5801, acts Aug. 16, 1954, ch. 736, 68A Stat. 721; Sept. 2, 1958, Pub. L. 85–859, title II, § 203(a), 72 Stat. 1427; June 1, 1960, Pub. L. 86–478, § 1, 74 Stat. 149, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618.
 
 **Amendments**
 
@@ -95,7 +95,7 @@ Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 10512(h) of P
 
 **Effective Date**
 
-Pub. L. 90–618, title II, § 207, Oct. 22, 1968, 82 Stat. 1235, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 90–618, title II, § 207, Oct. 22, 1968, 82 Stat. 1235, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a)** Section 201 of this title [enacting this chapter] shall take effect on the first day of the first month following the month in which it is enacted [October 1968].
 
@@ -105,11 +105,11 @@ Pub. L. 90–618, title II, § 207, Oct. 22, 1968, 82 Stat. 1235, as amended b
 
 > **“(d)** The Secretary of the Treasury, after publication in the Federal Register of his intention to do so, is authorized to establish such period of amnesty, not to exceed ninety days in the case of any single period, and immunity from liability during any such period, as the Secretary determines will contribute to the purposes of this title [adding this chapter, and sections 6806 and 7273 of this title, repealing sections 5692 and 6107 of this title, and enacting provisions set out as notes under this section].”
 
-#### § 5802. Registration of importers, manufacturers, and dealers
+#### § 5802. Registration of importers, manufacturers, and dealers
 
 On first engaging in business and thereafter on or before the first day of July of each year, each importer, manufacturer, and dealer in firearms shall register with the Secretary in each internal revenue district in which such business is to be carried on, his name, including any trade name, and the address of each location in the district where he will conduct such business. An individual required to register under this section shall include a photograph and fingerprints of the individual with the initial application. Where there is a change during the taxable year in the location of, or the trade name used in, such business, the importer, manufacturer, or dealer shall file an application with the Secretary to amend his registration. Firearms operations of an importer, manufacturer, or dealer may not be commenced at the new location or under a new trade name prior to approval by the Secretary of the application.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 103–322, title XI, § 110301(b), Sept. 13, 1994, 108 Stat. 2012.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 103–322, title XI, § 110301(b), Sept. 13, 1994, 108 Stat. 2012.)
 
 **Editorial Notes**
 
@@ -131,9 +131,9 @@ A prior section 5803, act Aug. 16, 1954, ch. 736, 68A Stat. 722, made a cross re
 
 **Prior Provisions**
 
-A prior part II consisted of sections 5811 to 5814, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227.
+A prior part II consisted of sections 5811 to 5814, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227.
 
-#### § 5811. Transfer tax
+#### § 5811. Transfer tax
 
 **(a) Rate** There shall be levied, collected, and paid on firearms transferred a tax at the rate of—
 
@@ -149,13 +149,13 @@ The tax imposed by subsection (a) of this section shall be paid by the transfero
 
 The tax imposed by subsection (a) of this section shall be payable by the appropriate stamps prescribed for payment by the Secretary.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1228; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 119–21, title VII, § 70436(a), July 4, 2025, 139 Stat. 247.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1228; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 119–21, title VII, § 70436(a), July 4, 2025, 139 Stat. 247.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5811, acts Aug. 16, 1954, ch. 736, 68A Stat. 722; Sept. 2, 1958, Pub. L. 85–859, title II, § 203(b), 72 Stat. 1427; June 1, 1960, Pub. L. 86–478, § 2, 74 Stat. 149, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618.
+A prior section 5811, acts Aug. 16, 1954, ch. 736, 68A Stat. 722; Sept. 2, 1958, Pub. L. 85–859, title II, § 203(b), 72 Stat. 1427; June 1, 1960, Pub. L. 86–478, § 2, 74 Stat. 149, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618.
 
 **Amendments**
 
@@ -173,7 +173,7 @@ Amendment by Pub. L. 119–21 applicable to calendar quarters beginning more tha
 
 Section effective on first day of first month following October 1968, see section 207 of Pub. L. 90–618, set out as a note under section 5801 of this title.
 
-#### § 5812. Transfers
+#### § 5812. Transfers
 
 **(a) Application**
 
@@ -183,7 +183,7 @@ A firearm shall not be transferred unless (1) the transferor of the firearm has 
 
 The transferee of a firearm shall not take possession of the firearm unless the Secretary has approved the transfer and registration of the firearm to the transferee as required by subsection (a) of this section.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1228; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1228; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -193,7 +193,7 @@ A prior section 5812, act Aug. 16, 1954, ch. 736, 68A Stat. 722, consisted of pr
 
 A prior section 5813, act Aug. 16, 1954, ch. 736, 68A Stat. 723, related to the affixing of the required stamps to the order form for the firearm, prior to the general revision of this chapter by Pub. L. 90–618.
 
-A prior section 5814, acts Aug. 16, 1954, ch. 736, 68A Stat. 723; Sept. 2, 1958, Pub. L. 85–859, title II, § 203(c), 72 Stat. 1427, related to the order forms required for the transfer of a firearm, prior to the general revision of this chapter by Pub. L. 90–618.
+A prior section 5814, acts Aug. 16, 1954, ch. 736, 68A Stat. 723; Sept. 2, 1958, Pub. L. 85–859, title II, § 203(c), 72 Stat. 1427, related to the order forms required for the transfer of a firearm, prior to the general revision of this chapter by Pub. L. 90–618.
 
 **Amendments**
 
@@ -205,11 +205,11 @@ A prior section 5814, acts Aug. 16, 1954, ch. 736, 68A Stat. 723; Sept. 2, 1958,
 
 **Prior Provisions**
 
-A prior part III consisted of section 5821, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227.
+A prior part III consisted of section 5821, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227.
 
-A prior part IV consisted of section 5831, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227.
+A prior part IV consisted of section 5831, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227.
 
-#### § 5821. Making tax
+#### § 5821. Making tax
 
 **(a) Rate** There shall be levied, collected, and paid upon the making of a firearm a tax at the rate of—
 
@@ -225,13 +225,13 @@ The tax imposed by subsection (a) of this section shall be paid by the person ma
 
 The tax imposed by subsection (a) of this section shall be payable by the stamp prescribed for payment by the Secretary.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1228; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 119–21, title VII, § 70436(b), July 4, 2025, 139 Stat. 247.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1228; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 119–21, title VII, § 70436(b), July 4, 2025, 139 Stat. 247.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5821, acts Aug. 16, 1954, ch. 736, 68A Stat. 724; Sept. 2, 1958, Pub. L. 85–859, title II, § 203(d), 72 Stat. 1427, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618.
+A prior section 5821, acts Aug. 16, 1954, ch. 736, 68A Stat. 724; Sept. 2, 1958, Pub. L. 85–859, title II, § 203(d), 72 Stat. 1427, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618.
 
 **Amendments**
 
@@ -249,17 +249,17 @@ Amendment by Pub. L. 119–21 applicable to calendar quarters beginning more tha
 
 Section effective on first day of first month following October 1968, see section 207 of Pub. L. 90–618, set out as a note under section 5801 of this title.
 
-#### § 5822. Making
+#### § 5822. Making
 
 No person shall make a firearm unless he has (a) filed with the Secretary a written application, in duplicate, to make and register the firearm on the form prescribed by the Secretary; (b) paid any tax payable on the making and such payment is evidenced by the proper stamp affixed to the original application form; (c) identified the firearm to be made in the application form in such manner as the Secretary may by regulations prescribe; (d) identified himself in the application form in such manner as the Secretary may by regulations prescribe, except that, if such person is an individual, the identification must include his fingerprints and his photograph; and (e) obtained the approval of the Secretary to make and register the firearm and the application form shows such approval. Applications shall be denied if the making or possession of the firearm would place the person making the firearm in violation of law.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1228; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1228; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5831, act Aug. 16, 1954, ch. 736, 68A Stat. 724, made a cross reference to section 4181 of this title relating to an excise tax on pistols, revolvers, and firearms, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227.
+A prior section 5831, act Aug. 16, 1954, ch. 736, 68A Stat. 724, made a cross reference to section 4181 of this title relating to an excise tax on pistols, revolvers, and firearms, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227.
 
 **Amendments**
 
@@ -267,7 +267,7 @@ A prior section 5831, act Aug. 16, 1954, ch. 736, 68A Stat. 724, made a cross re
 
 ## Subchapter B—General Provisions and Exemptions
 
-A prior subchapter B consisted of sections 5841 to 5848, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227.
+A prior subchapter B consisted of sections 5841 to 5848, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227.
 
 ### PART I—GENERAL PROVISIONS
 
@@ -275,9 +275,9 @@ A prior subchapter B consisted of sections 5841 to 5848, prior to the general re
 
 **Amendments**
 
-2018—Pub. L. 115–141, div. U, title IV, § 401(a)(251), Mar. 23, 2018, 132 Stat. 1196, substituted “Effect on other laws” for “Effect on other law” in item 5847.
+2018—Pub. L. 115–141, div. U, title IV, § 401(a)(251), Mar. 23, 2018, 132 Stat. 1196, substituted “Effect on other laws” for “Effect on other law” in item 5847.
 
-#### § 5841. Registration of firearms
+#### § 5841. Registration of firearms
 
 **(a) Central registry** The Secretary shall maintain a central registry of all firearms in the United States which are not in the possession or under the control of the United States. This registry shall be known as the National Firearms Registration and Transfer Record. The registry shall include—
 
@@ -297,9 +297,9 @@ Each manufacturer shall notify the Secretary of the manufacture of a firearm in 
 
 **(d) Firearms registered on effective date of this Act**
 
-A person shown as possessing a firearm by the records maintained by the Secretary pursuant to the National Firearms Act in force on the day immediately prior to the effective date of the National Firearms Act of 1968 1
+A person shown as possessing a firearm by the records maintained by the Secretary pursuant to the National Firearms Act in force on the day immediately prior to the effective date of the National Firearms Act of 1968 1
 
-<sup>1</sup>  So in original. See References in Text notes below.
+<sup>1</sup> So in original. See References in Text notes below.
 
 shall be considered to have registered under this section the firearms in his possession which are disclosed by that record as being in his possession.
 
@@ -307,13 +307,13 @@ shall be considered to have registered under this section the firearms in his po
 
 A person possessing a firearm registered as required by this section shall retain proof of registration which shall be made available to the Secretary upon request.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1229; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1229; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Firearms Act in force prior to the effective date of the National Firearms Act of 1968, referred to in subsec. (d), probably means the National Firearms Act in force prior to the effective date of the National Firearms Act Amendments of 1968, which is act Aug. 16, 1954, ch. 736, 68A Stat. 721, and which was classified generally to prior chapter 53 (prior § 5801 et seq.) of this title.
+The National Firearms Act in force prior to the effective date of the National Firearms Act of 1968, referred to in subsec. (d), probably means the National Firearms Act in force prior to the effective date of the National Firearms Act Amendments of 1968, which is act Aug. 16, 1954, ch. 736, 68A Stat. 721, and which was classified generally to prior chapter 53 (prior § 5801 et seq.) of this title.
 
 The effective date of this Act and the effective date of the National Firearms Act of 1968, referred to in subsec. (d) catchline and text, probably means the effective date of the National Firearms Act Amendments of 1968, which is Nov. 1, 1968. See section 207(a) of Pub. L. 90–618, set out as an Effective Date note under section 5801 of this title.
 
@@ -331,7 +331,7 @@ A prior section 5841, act Aug. 16, 1954, ch. 736, 68A Stat. 725, consisted of pr
 
 Section effective on first day of first month following October 1968, see section 207 of Pub. L. 90–618, set out as a note under section 5801 of this title.
 
-#### § 5842. Identification of firearms
+#### § 5842. Identification of firearms
 
 **(a) Identification of firearms other than destructive devices**
 
@@ -345,7 +345,7 @@ Any person who possesses a firearm, other than a destructive device, which does 
 
 Any firearm classified as a destructive device shall be identified in such manner as the Secretary may by regulations prescribe.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1230; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1230; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -353,23 +353,23 @@ Any firearm classified as a destructive device shall be identified in such manne
 
 A prior section 5842, act Aug. 16, 1954, ch. 736, 68A Stat. 725, related to books, records, and returns, prior to the general revision of this chapter by Pub. L. 90–618.
 
-Provisions similar to those comprising this section were contained in prior section 5843, act Aug. 16, 1954, ch. 736, 68A Stat. 725, as amended by act Sept. 2, 1958, Pub. L. 85–859, title II, § 203(e), 72 Stat. 1427, prior to the general revision of this chapter by Pub. L. 90–618.
+Provisions similar to those comprising this section were contained in prior section 5843, act Aug. 16, 1954, ch. 736, 68A Stat. 725, as amended by act Sept. 2, 1958, Pub. L. 85–859, title II, § 203(e), 72 Stat. 1427, prior to the general revision of this chapter by Pub. L. 90–618.
 
 **Amendments**
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### § 5843. Records and returns
+#### § 5843. Records and returns
 
 Importers, manufacturers, and dealers shall keep such records of, and render such returns in relation to, the importation, manufacture, making, receipt, and sale, or other disposition, of firearms as the Secretary may by regulations prescribe.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1230; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1230; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5843, act Aug. 16, 1954, ch. 736, 68A Stat. 725, as amended by act Sept. 2, 1958, Pub. L. 85–859, title II, § 203(e), 72 Stat. 1427, related to identification of firearms prior to the general revision of this chapter by Pub. L. 90–618.
+A prior section 5843, act Aug. 16, 1954, ch. 736, 68A Stat. 725, as amended by act Sept. 2, 1958, Pub. L. 85–859, title II, § 203(e), 72 Stat. 1427, related to identification of firearms prior to the general revision of this chapter by Pub. L. 90–618.
 
 Provisions similar to those comprising this section were contained in prior section 5842, act Aug. 16, 1954, 68A Stat. 725, prior to the general revision of this chapter by Pub. L. 90–618.
 
@@ -377,7 +377,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### § 5844. Importation
+#### § 5844. Importation
 
 No firearm shall be imported or brought into the United States or any territory under its control or jurisdiction unless the importer establishes, under regulations as may be prescribed by the Secretary, that the firearm to be imported or brought in is—
 
@@ -389,7 +389,7 @@ No firearm shall be imported or brought into the United States or any territory 
 
 except that, the Secretary may permit the conditional importation or bringing in of a firearm for examination and testing in connection with classifying the firearm.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1230; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1230; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -403,7 +403,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### § 5845. Definitions
+#### § 5845. Definitions
 
 For the purpose of this chapter—
 
@@ -459,7 +459,7 @@ The term “importer” means any person who is engaged in the business of impor
 
 The term “manufacturer” means any person who is engaged in the business of manufacturing firearms.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1230; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), (J), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 99–308, § 109, May 19, 1986, 100 Stat. 460; Pub. L. 115–232, div. A, title VIII, § 809(h)(3), Aug. 13, 2018, 132 Stat. 1842.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1230; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), (J), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 99–308, § 109, May 19, 1986, 100 Stat. 460; Pub. L. 115–232, div. A, title VIII, § 809(h)(3), Aug. 13, 2018, 132 Stat. 1842.)
 
 **Editorial Notes**
 
@@ -467,19 +467,19 @@ The term “manufacturer” means any person who is engaged in the business of m
 
 A prior section 5845, act Aug. 16, 1954, ch. 736, 68A Stat. 725, related to the importation of firearms into the United States or its territory, prior to the general revisions of this chapter by Pub. L. 90–618.
 
-Provisions similar to those comprising this section were contained in prior section 5848, act Aug. 16, 1954, ch. 736, 68A Stat. 727, as amended by acts Sept. 2, 1958, Pub. L. 85–859, title II, § 203(f), 72 Stat. 1427; June 1, 1960, Pub. L. 86–478, § 3, 74 Stat. 149, prior to the general revision of this chapter by Pub. L. 90–618.
+Provisions similar to those comprising this section were contained in prior section 5848, act Aug. 16, 1954, ch. 736, 68A Stat. 727, as amended by acts Sept. 2, 1958, Pub. L. 85–859, title II, § 203(f), 72 Stat. 1427; June 1, 1960, Pub. L. 86–478, § 3, 74 Stat. 149, prior to the general revision of this chapter by Pub. L. 90–618.
 
 **Amendments**
 
 2018—Subsec. (f). Pub. L. 115–232 substituted “section 7684(2), 7685, or 7686 of title 10, United States Code” for “section 4684(2), 4685, or 4686 of title 10 of the United States Code”.
 
-1986—Subsec. (a)(7). Pub. L. 99–308, § 109(b), substituted “any silencer (as defined in section 921 of title 18, United States Code)” for “a muffler or a silencer for any firearm whether or not such firearm is included within this definition”.
+1986—Subsec. (a)(7). Pub. L. 99–308, § 109(b), substituted “any silencer (as defined in section 921 of title 18, United States Code)” for “a muffler or a silencer for any firearm whether or not such firearm is included within this definition”.
 
-Subsec. (b). Pub. L. 99–308, § 109(a), substituted “any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machinegun,” for “any combination of parts designed and intended for use in converting a weapon into a machinegun,”.
+Subsec. (b). Pub. L. 99–308, § 109(a), substituted “any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machinegun,” for “any combination of parts designed and intended for use in converting a weapon into a machinegun,”.
 
-1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (f). Pub. L. 94–455, § 1906(b)(13)(A), (J), struck out “or his delegate” after “shotgun or shotgun shell which the Secretary” and “of the Treasury or his delegate” after “or any other device which the Secretary”.
+Subsec. (f). Pub. L. 94–455, § 1906(b)(13)(A), (J), struck out “or his delegate” after “shotgun or shotgun shell which the Secretary” and “of the Treasury or his delegate” after “or any other device which the Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -495,11 +495,11 @@ Amendment by Pub. L. 99–308 effective 180 days after May 19, 1986, see section
 
 Section effective on first day of first month following October 1968, except as to persons possessing firearms as defined in subsec. (a) of this section which are not registered to such persons in the National Firearms Registration and Transfer Record, see section 207 of Pub. L. 90–618, set out as a note under section 5801 of this title.
 
-#### § 5846. Other laws applicable
+#### § 5846. Other laws applicable
 
 All provisions of law relating to special taxes imposed by chapter 51 and to engraving, issuance, sale, accountability, cancellation, and distribution of stamps for tax payment shall, insofar as not inconsistent with the provisions of this chapter, be applicable with respect to the taxes imposed by sections 5801, 5811, and 5821.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1232.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1232.)
 
 **Editorial Notes**
 
@@ -507,11 +507,11 @@ All provisions of law relating to special taxes imposed by chapter 51 and to eng
 
 A prior section 5846, act Aug. 16, 1954, ch. 736, 68A Stat. 726, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618.
 
-#### § 5847. Effect on other laws
+#### § 5847. Effect on other laws
 
 Nothing in this chapter shall be construed as modifying or affecting the requirements of section 38 of the Arms Export Control Act (22 U.S.C. 2778), as amended, with respect to the manufacture, exportation, and importation of arms, ammunition, and implements of war.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1232; amended Pub. L. 115–141, div. U, title IV, § 401(a)(252), Mar. 23, 2018, 132 Stat. 1196.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1232; amended Pub. L. 115–141, div. U, title IV, § 401(a)(252), Mar. 23, 2018, 132 Stat. 1196.)
 
 **Editorial Notes**
 
@@ -523,7 +523,7 @@ A prior section 5847, act Aug. 16, 1954, ch. 736, 68A Stat. 726, related to regu
 
 2018—Pub. L. 115–141 substituted “section 38 of the Arms Export Control Act (22 U.S.C. 2778)” for “section 414 of the Mutual Security Act of 1954”.
 
-#### § 5848. Restrictive use of information
+#### § 5848. Restrictive use of information
 
 **(a) General rule**
 
@@ -533,31 +533,31 @@ No information or evidence obtained from an application, registration, or record
 
 Subsection (a) of this section shall not preclude the use of any such information or evidence in a prosecution or other action under any applicable provision of law with respect to the furnishing of false information.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1232.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1232.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5848, act Aug. 16, 1954, ch. 736, 68A Stat. 727, as amended by acts Sept. 2, 1958, Pub. L. 85–859, title II, § 203(f), 72 Stat. 1427; June 1, 1960, Pub. L. 86–478, § 3, 74 Stat. 149, related to definition of a firearm, machine gun, rifle, shotgun, other weapon, importer, manufacturer, dealer, interstate commerce, transfer and person, prior to the general revision of this chapter by Pub. L. 90–618.
+A prior section 5848, act Aug. 16, 1954, ch. 736, 68A Stat. 727, as amended by acts Sept. 2, 1958, Pub. L. 85–859, title II, § 203(f), 72 Stat. 1427; June 1, 1960, Pub. L. 86–478, § 3, 74 Stat. 149, related to definition of a firearm, machine gun, rifle, shotgun, other weapon, importer, manufacturer, dealer, interstate commerce, transfer and person, prior to the general revision of this chapter by Pub. L. 90–618.
 
-#### § 5849. Citation of chapter
+#### § 5849. Citation of chapter
 
 This chapter may be cited as the “National Firearms Act” and any reference in any other provision of law to the “National Firearms Act” shall be held to refer to the provisions of this chapter.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1232.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1232.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5849, Pub. L. 85–859, title II, § 203(g)(1), Sept. 2, 1958, 72 Stat. 1427, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618.
+A prior section 5849, Pub. L. 85–859, title II, § 203(g)(1), Sept. 2, 1958, 72 Stat. 1427, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 90–618, title II, § 202, Oct. 22, 1968, 82 Stat. 1235, provided that: “The amendments made by section 201 of this title [enacting this chapter] shall be cited as the ‘National Firearms Act Amendments of 1968’.”
+Pub. L. 90–618, title II, § 202, Oct. 22, 1968, 82 Stat. 1235, provided that: “The amendments made by section 201 of this title [enacting this chapter] shall be cited as the ‘National Firearms Act Amendments of 1968’.”
 
 ### PART II—EXEMPTIONS
 
@@ -565,9 +565,9 @@ Pub. L. 90–618, title II, § 202, Oct. 22, 1968, 82 Stat. 1235, provided tha
 
 **Amendments**
 
-2018—Pub. L. 115–141, div. U, title IV, § 401(a)(253), (254), Mar. 23, 2018, 132 Stat. 1196, substituted “General transfer and making tax exemption” for “General transfer and making exemption” in item 5852 and “Transfer and making tax exemption available to certain governmental entities” for “Exemption from transfer and making tax available to certain governmental entities and officials” in item 5853.
+2018—Pub. L. 115–141, div. U, title IV, § 401(a)(253), (254), Mar. 23, 2018, 132 Stat. 1196, substituted “General transfer and making tax exemption” for “General transfer and making exemption” in item 5852 and “Transfer and making tax exemption available to certain governmental entities” for “Exemption from transfer and making tax available to certain governmental entities and officials” in item 5853.
 
-#### § 5851. Special (occupational) tax exemption
+#### § 5851. Special (occupational) tax exemption
 
 **(a) Business with United States**
 
@@ -577,13 +577,13 @@ Any person required to pay special (occupational) tax under section 5801 shall b
 
 The exemption provided for in subsection (a) of this section may be obtained by filing with the Secretary an application on such form and containing such information as may by regulations be prescribed. The exemptions must thereafter be renewed on or before July 1 of each year. Approval of the application by the Secretary shall entitle the applicant to the exemptions stated on the approved application.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1233; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1233; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5851, act Aug. 16, 1954, ch. 736, 68A Stat. 728, as amended by act Sept. 2, 1958, Pub. L. 85–859, title II, § 203(h)(1), (2), 72 Stat. 1428, related to possessing firearms illegally, prior to the general revision of this chapter by Pub. L. 90–618. See section 5861(b) of this title.
+A prior section 5851, act Aug. 16, 1954, ch. 736, 68A Stat. 728, as amended by act Sept. 2, 1958, Pub. L. 85–859, title II, § 203(h)(1), (2), 72 Stat. 1428, related to possessing firearms illegally, prior to the general revision of this chapter by Pub. L. 90–618. See section 5861(b) of this title.
 
 Provisions similar to those comprising this section were contained in prior section 5812, act Aug. 16, 1954, ch. 736, 68A Stat. 722, prior to the general revision of this chapter by Pub. L. 90–618.
 
@@ -597,7 +597,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 Section effective on first day of first month following October 1968, see section 207 of Pub. L. 90–618, set out as a note under section 5801 of this title.
 
-#### § 5852. General transfer and making tax exemption
+#### § 5852. General transfer and making tax exemption
 
 **(a) Transfer**
 
@@ -623,7 +623,7 @@ An unserviceable firearm may be transferred as a curio or ornament without payme
 
 No firearm may be transferred or made exempt from tax under the provisions of this section unless the transfer or making is performed pursuant to an application in such form and manner as the Secretary may by regulations prescribe.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1233; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1233; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -631,13 +631,13 @@ No firearm may be transferred or made exempt from tax under the provisions of th
 
 A prior section 5852, act Aug. 16, 1954, ch. 736, 68A Stat. 728, related to removing or changing identification marks, prior to the general revision of this chapter by Pub. L. 90–618. See section 5861(g) of this title and section 922(k) of Title 18, Crimes and Criminal Procedure.
 
-Provisions similar to those comprising this section were contained in prior section 5814, act Aug. 16, 1954, ch. 736, 68A Stat. 723, as amended by act Sept. 2, 1958, Pub. L. 85–859, title II, § 203(c), 72 Stat. 1427, prior to the general revision of this chapter by Pub. L. 90–618.
+Provisions similar to those comprising this section were contained in prior section 5814, act Aug. 16, 1954, ch. 736, 68A Stat. 723, as amended by act Sept. 2, 1958, Pub. L. 85–859, title II, § 203(c), 72 Stat. 1427, prior to the general revision of this chapter by Pub. L. 90–618.
 
 **Amendments**
 
 1976—Subsecs. (e), (f). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### § 5853. Transfer and making tax exemption available to certain governmental entities
+#### § 5853. Transfer and making tax exemption available to certain governmental entities
 
 **(a) Transfer**
 
@@ -651,7 +651,7 @@ A firearm may be made without payment of the making tax imposed by section 5821 
 
 No firearm may be transferred or made exempt from tax under this section unless the transfer or making is performed pursuant to an application in such form and manner as the Secretary may by regulations prescribe.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1233; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1233; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -659,27 +659,27 @@ No firearm may be transferred or made exempt from tax under this section unless 
 
 A prior section 5853, act Aug. 16, 1954, ch. 736, 68A Stat. 728, related to importing firearms illegally, prior to the general revision of this chapter by Pub. L. 90–618. See section 5861(k) of this title and section 922(a) of Title 18, Crimes and Criminal Procedure.
 
-Provisions similar to those comprising this section were contained in prior section 5821, act Aug. 16, 1954, ch. 736, 68A Stat. 724, as amended by act Sept. 2, 1958, Pub. L. 85–859, title II, § 203(d), 72 Stat. 1427, prior to the general revision of this chapter by Pub. L. 90–618.
+Provisions similar to those comprising this section were contained in prior section 5821, act Aug. 16, 1954, ch. 736, 68A Stat. 724, as amended by act Sept. 2, 1958, Pub. L. 85–859, title II, § 203(d), 72 Stat. 1427, prior to the general revision of this chapter by Pub. L. 90–618.
 
 **Amendments**
 
 1976—Subsec. (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### § 5854. Exportation of firearms exempt from transfer tax
+#### § 5854. Exportation of firearms exempt from transfer tax
 
 A firearm may be exported without payment of the transfer tax imposed under section 5811 provided that proof of the exportation is furnished in such form and manner as the Secretary may by regulations prescribe.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1234; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1234; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5854, Pub. L. 85–859, title II, § 203(i)(1), Sept. 2, 1958, 72 Stat. 1428, related to failure to register and pay special tax, prior to the general revision of this chapter by Pub. L. 90–618. See section 5861(a), (d) of this title and section 923 of Title 18, Crimes and Criminal Procedure.
+A prior section 5854, Pub. L. 85–859, title II, § 203(i)(1), Sept. 2, 1958, 72 Stat. 1428, related to failure to register and pay special tax, prior to the general revision of this chapter by Pub. L. 90–618. See section 5861(a), (d) of this title and section 923 of Title 18, Crimes and Criminal Procedure.
 
 Provisions similar to those comprising this section were contained in prior section 5844, act Aug. 16, 1954, ch. 736, 68A Stat. 725, prior to the general revision of this chapter by Pub. L. 90–618.
 
-A prior section 5855, Pub. L. 85–859, title II, § 203(i)(1), Sept. 2, 1958, 72 Stat. 1428, made it unlawful for any person required to comply with the provisions of sections 5814, 5821, and 5841 of this title, to ship, carry or deliver any firearm in interstate commerce if such sections had not been complied with, prior to the general revision of this chapter by Pub. L. 90–618.
+A prior section 5855, Pub. L. 85–859, title II, § 203(i)(1), Sept. 2, 1958, 72 Stat. 1428, made it unlawful for any person required to comply with the provisions of sections 5814, 5821, and 5841 of this title, to ship, carry or deliver any firearm in interstate commerce if such sections had not been complied with, prior to the general revision of this chapter by Pub. L. 90–618.
 
 **Amendments**
 
@@ -691,9 +691,9 @@ A prior section 5855, Pub. L. 85–859, title II, § 203(i)(1), Sept. 2, 1958,
 
 **Prior Provisions**
 
-A prior subchapter C consisted of sections 5851 to 5854, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227.
+A prior subchapter C consisted of sections 5851 to 5854, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227.
 
-### § 5861. Prohibited acts
+### § 5861. Prohibited acts
 
 It shall be unlawful for any person—
 
@@ -721,7 +721,7 @@ It shall be unlawful for any person—
 
 **(l)** to make, or cause the making of, a false entry on any application, return, or record required by this chapter, knowing such entry to be false.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1234.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1234.)
 
 **Editorial Notes**
 
@@ -742,7 +742,7 @@ Provisions similar to those comprising subsecs. (a), (b), (d), (g), (j), and (k)
 
 The prior sections 5851 to 5853, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 728.
 
-The prior sections 5854 and 5855, Pub. L. 85–859, title II, § 203(i)(1), Sept. 2, 1958, are set out in 72 Stat. 1428.
+The prior sections 5854 and 5855, Pub. L. 85–859, title II, § 203(i)(1), Sept. 2, 1958, are set out in 72 Stat. 1428.
 
 A prior section 5862, act Aug. 16, 1954, ch. 736, 68A Stat. 729, relating to the forfeiture and disposal of any firearm involved in any violation of the provisions of this chapter or any regulation promulgated thereunder, was omitted in the general revision of this chapter by Pub. L. 90–618. The provisions of prior section 5862 of this title are covered by section 5872 of this title.
 
@@ -758,13 +758,13 @@ Section effective on first day of first month following October 1968, see sectio
 
 **Prior Provisions**
 
-A prior subchapter D, consisted of sections 5861 and 5862, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227.
+A prior subchapter D, consisted of sections 5861 and 5862, prior to the general revision of this chapter by Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1227.
 
-### § 5871. Penalties
+### § 5871. Penalties
 
 Any person who violates or fails to comply with any provision of this chapter shall, upon conviction, be fined not more than $10,000, or be imprisoned not more than ten years, or both.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1234; amended Pub. L. 98–473, title II, § 227, Oct. 12, 1984, 98 Stat. 2030.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1234; amended Pub. L. 98–473, title II, § 227, Oct. 12, 1984, 98 Stat. 2030.)
 
 **Editorial Notes**
 
@@ -776,19 +776,19 @@ Provisions similar to those comprising this section were contained in prior sect
 
 **Amendments**
 
-1984—Pub. L. 98–473 struck out “, and shall become eligible for parole as the Board of Parole shall determine” after “or both”.
+1984—Pub. L. 98–473 struck out “, and shall become eligible for parole as the Board of Parole shall determine” after “or both”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–473, title II, § 235(a)(1)(B)(ii)(IV), Oct. 12, 1984, 98 Stat. 2032, provided that the amendment made by section 227 of Pub. L. 98–473 is effective Oct. 12, 1984.
+Pub. L. 98–473, title II, § 235(a)(1)(B)(ii)(IV), Oct. 12, 1984, 98 Stat. 2032, provided that the amendment made by section 227 of Pub. L. 98–473 is effective Oct. 12, 1984.
 
 **Effective Date**
 
 Section effective on first day of first month following October 1968, see section 207(a) of Pub. L. 90–618, set out as a note under section 5801 of this title.
 
-### § 5872. Forfeitures
+### § 5872. Forfeitures
 
 **(a) Laws applicable**
 
@@ -798,7 +798,7 @@ Any firearm involved in any violation of the provisions of this chapter shall be
 
 In the case of the forfeiture of any firearm by reason of a violation of this chapter, no notice of public sale shall be required; no such firearm shall be sold at public sale; if such firearm is forfeited for a violation of this chapter and there is no remission or mitigation of forfeiture thereof, it shall be delivered by the Secretary to the Administrator of General Services, General Services Administration, who may order such firearm destroyed or may sell it to any State, or possession, or political subdivision thereof, or at the request of the Secretary, may authorize its retention for official use of the Treasury Department, or may transfer it without charge to any executive department or independent establishment of the Government for use by it.
 
-(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1235; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1235; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 

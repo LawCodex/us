@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 28A—FENTANYL ERADICATION AND NARCOTICS DETERRENCE OFF FENTANYL
 
-## § 2341. Definitions
+## § 2341. Definitions
 
 In this chapter:
 
@@ -79,7 +79,7 @@ The term “trafficking”, with respect to fentanyl, fentanyl precursors, or ot
 
 **(C)** any person in the United States.
 
-(Pub. L. 118–50, div. E, § 3003, Apr. 24, 2024, 138 Stat. 935.)
+(Pub. L. 118–50, div. E, § 3003, Apr. 24, 2024, 138 Stat. 935.)
 
 **Editorial Notes**
 
@@ -91,11 +91,11 @@ This chapter, referred to in introductory provisions, was in the original “thi
 
 **Short Title**
 
-Pub. L. 118–50, div. E, § 3001, Apr. 24, 2024, 138 Stat. 934, provided that: “This division [enacting this chapter and section 2313a of this title and amending sections 1701 and 4315 of Title 50, War and National Defense] may be cited as the ‘Fentanyl Eradication and Narcotics Deterrence Off Fentanyl’ [sic; probably should be followed by “Act”] or the ‘FEND Off Fentanyl Act’.”
+Pub. L. 118–50, div. E, § 3001, Apr. 24, 2024, 138 Stat. 934, provided that: “This division [enacting this chapter and section 2313a of this title and amending sections 1701 and 4315 of Title 50, War and National Defense] may be cited as the ‘Fentanyl Eradication and Narcotics Deterrence Off Fentanyl’ [sic; probably should be followed by “Act”] or the ‘FEND Off Fentanyl Act’.”
 
 ## SUBCHAPTER I—SANCTIONS IN RESPONSE TO NATIONAL EMERGENCY RELATING TO FENTANYL TRAFFICKING
 
-### § 2351. Finding; policy
+### § 2351. Finding; policy
 
 **(a) Finding**
 
@@ -105,9 +105,9 @@ Congress finds that international trafficking of fentanyl, fentanyl precursors, 
 
 It shall be the policy of the United States to apply economic and other financial sanctions to those who engage in the international trafficking of fentanyl, fentanyl precursors, or other related opioids to protect the national security, foreign policy, and economy of the United States.
 
-(Pub. L. 118–50, div. E, title I, § 3101, Apr. 24, 2024, 138 Stat. 936.)
+(Pub. L. 118–50, div. E, title I, § 3101, Apr. 24, 2024, 138 Stat. 936.)
 
-### § 2352. Use of national emergency authorities; reporting
+### § 2352. Use of national emergency authorities; reporting
 
 **(a) In general**
 
@@ -133,9 +133,9 @@ The President may exercise all authorities provided under sections 1702 and 1704
 
 Each report required under paragraph (1) shall be submitted in unclassified form, but may include the matters required under subparagraphs (C), (D), (E), and (F) of such paragraph in a classified annex.
 
-(Pub. L. 118–50, div. E, title I, § 3102, Apr. 24, 2024, 138 Stat. 936.)
+(Pub. L. 118–50, div. E, title I, § 3102, Apr. 24, 2024, 138 Stat. 936.)
 
-### § 2353. Imposition of sanctions with respect to fentanyl trafficking by transnational criminal organizations
+### § 2353. Imposition of sanctions with respect to fentanyl trafficking by transnational criminal organizations
 
 **(a) In general** The President shall impose the sanctions described in subsection (b) with respect to any foreign person the President determines—
 
@@ -151,15 +151,15 @@ The President, pursuant to the International Emergency Economic Powers Act (50 U
 
 Not later than 180 days after April 24, 2024, and annually thereafter, the President shall submit to the appropriate congressional committees a report on actions taken by the executive branch with respect to the foreign persons identified under subsection (a).
 
-(Pub. L. 118–50, div. E, title I, § 3103, Apr. 24, 2024, 138 Stat. 936.)
+(Pub. L. 118–50, div. E, title I, § 3103, Apr. 24, 2024, 138 Stat. 936.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-### § 2354. Penalties; waivers; exceptions
+### § 2354. Penalties; waivers; exceptions
 
 **(a) Penalties**
 
@@ -185,15 +185,15 @@ This subchapter shall not apply with respect to activities subject to the report
 
 The President may not impose sanctions under this subchapter with respect to any person for conducting or facilitating a transaction for the sale of agricultural commodities, food, medicine, or medical devices or for the provision of humanitarian assistance.
 
-(Pub. L. 118–50, div. E, title I, § 3104, Apr. 24, 2024, 138 Stat. 937.)
+(Pub. L. 118–50, div. E, title I, § 3104, Apr. 24, 2024, 138 Stat. 937.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-### § 2355. Treatment of forfeited property of transnational criminal organizations
+### § 2355. Treatment of forfeited property of transnational criminal organizations
 
 **(a) Transfer of forfeited property to forfeiture funds**
 
@@ -221,19 +221,19 @@ Not later than 180 days after April 24, 2024, and every 180 days thereafter, the
 
 Nothing in this subchapter may be construed to affect the treatment of blocked assets of a terrorist party described in section 201(a) of the Terrorism Risk Insurance Act of 2002 (28 U.S.C. 1610 note).
 
-(Pub. L. 118–50, div. E, title I, § 3105, Apr. 24, 2024, 138 Stat. 938.)
+(Pub. L. 118–50, div. E, title I, § 3105, Apr. 24, 2024, 138 Stat. 938.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Fentanyl Sanctions Act, referred to in subsec. (a)(3)(B)(ii), is title LXXII of div. F of Pub. L. 116–92, which is classified principally to chapter 28 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Fentanyl Sanctions Act, referred to in subsec. (a)(3)(B)(ii), is title LXXII of div. F of Pub. L. 116–92, which is classified principally to chapter 28 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 Section 201(a) of the Terrorism Risk Insurance Act of 2002, referred to in subsec. (b), is section 201(a) of Pub. L. 107–297, which is set out as a note under section 1610 of Title 28, Judiciary and Judicial Procedure.
 
 ## SUBCHAPTER II—ANTI-MONEY LAUNDERING MATTERS
 
-### § 2361. Treatment of transnational criminal organizations in suspicious transactions reports of the Financial Crimes Enforcement Network
+### § 2361. Treatment of transnational criminal organizations in suspicious transactions reports of the Financial Crimes Enforcement Network
 
 **(a) Filing instructions**
 
@@ -243,11 +243,11 @@ Not later than 180 days after April 24, 2024, the Director of the Financial Crim
 
 The Director shall prioritize research into reports described in subsection (a) that indicate a connection to trafficking of fentanyl or related synthetic opioids or financing of suspected transnational criminal organizations.
 
-(Pub. L. 118–50, div. E, title II, § 3202, Apr. 24, 2024, 138 Stat. 941.)
+(Pub. L. 118–50, div. E, title II, § 3202, Apr. 24, 2024, 138 Stat. 941.)
 
 ## SUBCHAPTER III—EXCEPTION RELATING TO IMPORTATION OF GOODS
 
-### § 2371. Exception relating to importation of goods
+### § 2371. Exception relating to importation of goods
 
 **(a) In general**
 
@@ -257,7 +257,7 @@ The authority or a requirement to block and prohibit all transactions in all pro
 
 In this section, the term “good” means any article, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
 
-(Pub. L. 118–50, div. E, title III, § 3301, Apr. 24, 2024, 138 Stat. 941.)
+(Pub. L. 118–50, div. E, title III, § 3301, Apr. 24, 2024, 138 Stat. 941.)
 
 **Editorial Notes**
 

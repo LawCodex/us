@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 511—MEDAL OF SACRIFICE
 
-## § 51101. Medal of sacrifice for law enforcement officers and first responders
+## § 51101. Medal of sacrifice for law enforcement officers and first responders
 
 **(a) Medal of sacrifice for law enforcement officers and first responders**
 
@@ -85,13 +85,13 @@ The Commission shall cease to exist on the date on which the President determine
 
 **(d) Description**
 
-The medal of sacrifice for law enforcement officers and first responders shall be a modified quatrefoil, with rounded lobes extending from a central octagon. The field incorporates features of the Great Seal of the United States, redesigned by Tiffany & Co 1
+The medal of sacrifice for law enforcement officers and first responders shall be a modified quatrefoil, with rounded lobes extending from a central octagon. The field incorporates features of the Great Seal of the United States, redesigned by Tiffany & Co 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 in 1885. The American eagle is charged with a coat of arms as a shield, argent, on a chevron gules between three lions rampant azure, as many chevronels argent; the crest, out of a coronet or, a double-tailed lion rampant azure, holding in its dexter paw a torch or enflamed proper; and “Integritas” included as a motto. Surrounding the seal are mullets, 47 in number, alternating with three rampant lions and incorporating four chevrons. In base, the word “SACRIFICE” is inscribed. In dexter base, three oak leaves are placed, symbolizing the national tree of the U.S., representing strength, resilience, and honoring the families and widows of the fallen. The reverse of the medal is sandblasted and bears an engraving of the names of the fallen heroes. The medal is suspended from a ribbon, either Azure or Gules depending on the fallen hero being honored. The ribbon bail is prepared and attached by hand soldering to the back of the medal. The medal is crafted from Silver Ag925 with 24k Gold Vermeil, with a weight of approximately 63 grams. It has a diameter of 2.25 inches. The Vermeil plating has a thickness of 2.5 microns. The medal combines national symbols with heraldic elements to represent the sacrifice of the fallen deputies. The use of Silver and Gold signifies the value and honor associated with their service.
 
-(Pub. L. 119–94, § 2, May 28, 2026, 140 Stat. 830.)
+(Pub. L. 119–94, § 2, May 28, 2026, 140 Stat. 830.)
 
 **Statutory Notes and Related Subsidiaries**
 

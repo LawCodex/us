@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 221 “PLANNING AND SOLICITATION GENERALLY”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1827, and consisting of reserved section 3201, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1811(b), Jan. 1, 2021, 134 Stat. 4164.
+A prior chapter 221 “PLANNING AND SOLICITATION GENERALLY”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1827, and consisting of reserved section 3201, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1811(b), Jan. 1, 2021, 134 Stat. 4164.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Policy on Qualifications of Contractors for Into-Plane Fuel Deliveries for Heavy-Lift Aircraft**
 
-Pub. L. 118–159, div. A, title I, § 163, Dec. 23, 2024, 138 Stat. 1817, provided that:
+Pub. L. 118–159, div. A, title I, § 163, Dec. 23, 2024, 138 Stat. 1817, provided that:
 
 > **“(a) Establishment of Policy.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Director of the Defense Logistics Agency shall develop and implement a policy pursuant to which acquisition planning shall be performed for any contract providing for the into-plane procurement for heavy-lift aircraft of an estimated 5,000,000 gallons or more of aviation fuel per year within the continental United States.
 
@@ -47,7 +47,7 @@ Pub. L. 118–159, div. A, title I, § 163, Dec. 23, 2024, 138 Stat. 1817, pro
 
 **Procurement of Cleaning Products**
 
-Pub. L. 118–159, div. A, title VIII, § 856, Dec. 23, 2024, 138 Stat. 1997, provided that:
+Pub. L. 118–159, div. A, title VIII, § 856, Dec. 23, 2024, 138 Stat. 1997, provided that:
 
 > “The Secretary of Defense shall procure, to the maximum extent practicable, only those cleaning products that are identified—
 
@@ -57,7 +57,7 @@ Pub. L. 118–159, div. A, title VIII, § 856, Dec. 23, 2024, 138 Stat. 1997, 
 
 **Procurement of Covered Hearing Protection Devices**
 
-Pub. L. 118–159, div. A, title VIII, § 858, Dec. 23, 2024, 138 Stat. 1998, provided that:
+Pub. L. 118–159, div. A, title VIII, § 858, Dec. 23, 2024, 138 Stat. 1998, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in coordination with the head of the Hearing Center of Excellence, may enter into one or more contracts to procure covered hearing protection devices for members of the Armed Forces.
 
@@ -75,7 +75,7 @@ Pub. L. 118–159, div. A, title VIII, § 858, Dec. 23, 2024, 138 Stat. 1998, 
 
 **Procurement of Department of Defense Batteries**
 
-Pub. L. 118–159, div. A, title VIII, § 883, Dec. 23, 2024, 138 Stat. 2018, provided that:
+Pub. L. 118–159, div. A, title VIII, § 883, Dec. 23, 2024, 138 Stat. 2018, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall—
 
@@ -115,7 +115,7 @@ Pub. L. 118–159, div. A, title VIII, § 883, Dec. 23, 2024, 138 Stat. 2018, 
 
 **Prohibition on Solicitation of Proprietary Armor for Certain Tactical Vehicles**
 
-Pub. L. 118–31, div. A, title I, § 153, Dec. 22, 2023, 137 Stat. 180, provided that:
+Pub. L. 118–31, div. A, title I, § 153, Dec. 22, 2023, 137 Stat. 180, provided that:
 
 > **“(a) Prohibition.—** The Secretary of Defense may not include in a solicitation for a tactical tracked vehicle or tactical wheeled vehicle a requirement that such vehicle use proprietary armor.
 
@@ -123,7 +123,7 @@ Pub. L. 118–31, div. A, title I, § 153, Dec. 22, 2023, 137 Stat. 180, provi
 
 **Defense Industrial Base Munition Surge Capacity Critical Reserve**
 
-Pub. L. 118–31, div. A, title II, § 245, Dec. 22, 2023, 137 Stat. 210, provided that:
+Pub. L. 118–31, div. A, title II, § 245, Dec. 22, 2023, 137 Stat. 210, provided that:
 
 > **“(a) In General.—** The Under Secretary of Defense for Acquisition and Sustainment, in coordination with the service acquisition executive of each military department, may establish a reserve of long-lead items and components to accelerate the delivery of munitions described in section 222c(c) of title 10, United States Code.
 
@@ -147,7 +147,7 @@ Pub. L. 118–31, div. A, title II, § 245, Dec. 22, 2023, 137 Stat. 210, prov
 
 **Restriction on Procurement or Purchasing by Department of Defense of Turnout Gear for Firefighters Containing Perfluoroalkyl Substances or Polyfluoroalkyl Substances**
 
-Pub. L. 117–263, div. A, title III, § 345, Dec. 23, 2022, 136 Stat. 2530, as amended by Pub. L. 119–60, div. A, title III, § 316, Dec. 18, 2025, 139 Stat. 805, provided that:
+Pub. L. 117–263, div. A, title III, § 345, Dec. 23, 2022, 136 Stat. 2530, as amended by Pub. L. 119–60, div. A, title III, § 316, Dec. 18, 2025, 139 Stat. 805, provided that:
 
 > **“(a) Prohibition on Procurement and Purchasing.—** Subject to subsection (d), beginning on October 1, 2026, the Secretary of Defense may not enter into a contract to procure or purchase covered personal protective firefighting equipment for use by Federal or civilian firefighters unless such equipment meets the specifications set forth in the most recently published edition of the National Fire Protection Associate 1970 standard, including by not containing any substance on the restricted substances list in excess of the maximum acceptable levels of such substance.
 
@@ -179,7 +179,7 @@ Pub. L. 117–263, div. A, title III, § 345, Dec. 23, 2022, 136 Stat. 2530, a
 
 **Middle Tier of Acquisition for Rapid Prototyping and Rapid Fielding**
 
-Pub. L. 116–92, div. A, title VIII, § 837, Dec. 20, 2019, 133 Stat. 1497, provided that:
+Pub. L. 116–92, div. A, title VIII, § 837, Dec. 20, 2019, 133 Stat. 1497, provided that:
 
 > **“(a) Report.—** Not later than December 15, 2019, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that includes the guidance required under [former] section 804(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note [former 10 U.S.C. 3201 note prec., formerly set out below] [see 10 U.S.C. 3602(a)]). The Under Secretary of Defense for Acquisition and Sustainment shall ensure such guidance includes the business case elements required by an acquisition program established pursuant to such guidance and the metrics required to assess the performance of such a program.
 
@@ -199,11 +199,11 @@ Pub. L. 116–92, div. A, title VIII, § 837, Dec. 20, 2019, 133 Stat. 1497, p
 
 > **“(E)** The operations of the offices of the service acquisition executives of the military departments.”
 
-Pub. L. 114–92, div. A, title VIII, § 804, Nov. 25, 2015, 129 Stat. 882, as amended by Pub. L. 114–328, div. A, title VIII, §§ 849(a), 864(b), 897, title X, § 1081(c)(2), Dec. 23, 2016, 130 Stat. 2293, 2304, 2327, 2419; Pub. L. 115–91, div. A, title VIII, § 866, Dec. 12, 2017, 131 Stat. 1495; Pub. L. 116–92, div. A, title IX, § 902(33), Dec. 20, 2019, 133 Stat. 1546; Pub. L. 116–283, div. A, title VIII, § 805, Jan. 1, 2021, 134 Stat. 3742, which authorized the Under Secretary of Defense for Acquisition and Sustainment, in consultation with the Comptroller of the Department of Defense and the Vice Chairman of the Joint Chiefs of Staff, to establish guidance for a middle tier of acquisition programs covering rapid prototyping and rapid fielding pathways, was repealed by Pub. L. 118–159, div. A, title VIII, § 804(b), Dec. 23, 2024, 138 Stat. 1968. See section 3602 of this title.
+Pub. L. 114–92, div. A, title VIII, § 804, Nov. 25, 2015, 129 Stat. 882, as amended by Pub. L. 114–328, div. A, title VIII, §§ 849(a), 864(b), 897, title X, § 1081(c)(2), Dec. 23, 2016, 130 Stat. 2293, 2304, 2327, 2419; Pub. L. 115–91, div. A, title VIII, § 866, Dec. 12, 2017, 131 Stat. 1495; Pub. L. 116–92, div. A, title IX, § 902(33), Dec. 20, 2019, 133 Stat. 1546; Pub. L. 116–283, div. A, title VIII, § 805, Jan. 1, 2021, 134 Stat. 3742, which authorized the Under Secretary of Defense for Acquisition and Sustainment, in consultation with the Comptroller of the Department of Defense and the Vice Chairman of the Joint Chiefs of Staff, to establish guidance for a middle tier of acquisition programs covering rapid prototyping and rapid fielding pathways, was repealed by Pub. L. 118–159, div. A, title VIII, § 804(b), Dec. 23, 2024, 138 Stat. 1968. See section 3602 of this title.
 
 **Use of Alternative Acquisition Paths To Acquire Critical National Security Capabilities**
 
-Pub. L. 114–92, div. A, title VIII, § 805, Nov. 25, 2015, 129 Stat. 885, as amended by Pub. L. 114–328, div. A, title VIII, § 849(b), Dec. 23, 2016, 130 Stat. 2293, provided that:
+Pub. L. 114–92, div. A, title VIII, § 805, Nov. 25, 2015, 129 Stat. 885, as amended by Pub. L. 114–328, div. A, title VIII, § 849(b), Dec. 23, 2016, 130 Stat. 2293, provided that:
 
 > “Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Secretary of Defense shall establish procedures for alternative acquisition pathways to acquire capital assets and services that meet critical national security needs. The procedures shall—
 
@@ -217,7 +217,7 @@ Pub. L. 114–92, div. A, title VIII, § 805, Nov. 25, 2015, 129 Stat. 885, as
 
 **Review and Justification of Pass-Through Contracts**
 
-Pub. L. 112–239, div. A, title VIII, § 802, Jan. 2, 2013, 126 Stat. 1824, provided that:
+Pub. L. 112–239, div. A, title VIII, § 802, Jan. 2, 2013, 126 Stat. 1824, provided that:
 
 > “Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Secretary of Defense, the Secretary of State, and the Administrator of the United States Agency for International Development shall issue such guidance and regulations as may be necessary to ensure that in any case in which an offeror for a contract or a task or delivery order informs the agency pursuant to section 52.215-22 of the Federal Acquisition Regulation that the offeror intends to award subcontracts for more than 70 percent of the total cost of work to be performed under the contract, task order, or delivery order, the contracting officer for the contract is required to—
 
@@ -229,13 +229,13 @@ Pub. L. 112–239, div. A, title VIII, § 802, Jan. 2, 2013, 126 Stat. 1824, p
 
 **Review of Acquisition Process for Rapid Fielding of Capabilities in Response to Urgent Operational Needs**
 
-Pub. L. 111–383, div. A, title VIII, § 804, Jan. 7, 2011, 124 Stat. 4256, which required a review of, and subsequent report on, the process for the fielding of capabilities in response to urgent operational needs, was repealed by Pub. L. 117–263, div. A, title VIII, § 804(c)(1), Dec. 23, 2022, 136 Stat. 2701.
+Pub. L. 111–383, div. A, title VIII, § 804, Jan. 7, 2011, 124 Stat. 4256, which required a review of, and subsequent report on, the process for the fielding of capabilities in response to urgent operational needs, was repealed by Pub. L. 117–263, div. A, title VIII, § 804(c)(1), Dec. 23, 2022, 136 Stat. 2701.
 
 **Internal Controls for Procurements on Behalf of the Department of Defense**
 
-Pub. L. 110–417, [div. A], title VIII, § 804(a)–(c), Oct. 14, 2008, 122 Stat. 4519, which related to internal controls for procurements by the Departments of Commerce and Energy on behalf of the Department of Defense, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(14)(C), Dec. 18, 2025, 139 Stat. 949.
+Pub. L. 110–417, [div. A], title VIII, § 804(a)–(c), Oct. 14, 2008, 122 Stat. 4519, which related to internal controls for procurements by the Departments of Commerce and Energy on behalf of the Department of Defense, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(14)(C), Dec. 18, 2025, 139 Stat. 949.
 
-Pub. L. 110–181, div. A, title VIII, § 801, Jan. 28, 2008, 122 Stat. 202, as amended by Pub. L. 110–417, [div. A], title VIII, § 804(d), Oct. 14, 2008, 122 Stat. 4519; Pub. L. 111–84, div. A, title VIII, § 806, Oct. 28, 2009, 123 Stat. 2404; Pub. L. 112–81, div. A, title VIII, § 817, Dec. 31, 2011, 125 Stat. 1493; Pub. L. 112–239, div. A, title VIII, §§ 801, 805, Jan. 2, 2013, 126 Stat. 1824, 1826; Pub. L. 113–291, div. A, title X, § 1071(d)(1)(B), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 116–92, div. A, title IX, § 902(42), Dec. 20, 2019, 133 Stat. 1547; Pub. L. 116–283, div. A, title XVIII, § 1806(e)(5), Jan. 1, 2021, 134 Stat. 4156, provided that:
+Pub. L. 110–181, div. A, title VIII, § 801, Jan. 28, 2008, 122 Stat. 202, as amended by Pub. L. 110–417, [div. A], title VIII, § 804(d), Oct. 14, 2008, 122 Stat. 4519; Pub. L. 111–84, div. A, title VIII, § 806, Oct. 28, 2009, 123 Stat. 2404; Pub. L. 112–81, div. A, title VIII, § 817, Dec. 31, 2011, 125 Stat. 1493; Pub. L. 112–239, div. A, title VIII, §§ 801, 805, Jan. 2, 2013, 126 Stat. 1824, 1826; Pub. L. 113–291, div. A, title X, § 1071(d)(1)(B), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 116–92, div. A, title IX, § 902(42), Dec. 20, 2019, 133 Stat. 1547; Pub. L. 116–283, div. A, title XVIII, § 1806(e)(5), Jan. 1, 2021, 134 Stat. 4156, provided that:
 
 > **“(a) Inspectors General Reviews and Determinations.—**
 
@@ -351,7 +351,7 @@ Pub. L. 110–181, div. A, title VIII, § 801, Jan. 28, 2008, 122 Stat. 202, a
 
 > **“(8) Assisted acquisition.—** The term ‘assisted acquisition’, with respect to the Department of Defense, means the type of interagency contracting through which acquisition officials of a non-defense agency award a contract or task or delivery order for the procurement of goods or services on behalf of the Department of Defense.”
 
-Pub. L. 109–364, div. A, title VIII, § 817, Oct. 17, 2006, 120 Stat. 2326, as amended by Pub. L. 116–92, div. A, title IX, § 902(43), Dec. 20, 2019, 133 Stat. 1547, provided that:
+Pub. L. 109–364, div. A, title VIII, § 817, Oct. 17, 2006, 120 Stat. 2326, as amended by Pub. L. 116–92, div. A, title IX, § 902(43), Dec. 20, 2019, 133 Stat. 1547, provided that:
 
 > **“(a) Inspector General Reviews and Determinations.—**
 
@@ -425,7 +425,7 @@ Pub. L. 109–364, div. A, title VIII, § 817, Oct. 17, 2006, 120 Stat. 2326, 
 
 > **“(B)** may be used as the contract under which property or services are procured for one or more other departments or agencies of the Federal Government.”
 
-Pub. L. 109–163, div. A, title VIII, § 811, Jan. 6, 2006, 119 Stat. 3374, as amended by Pub. L. 116–92, div. A, title IX, § 902(44), Dec. 20, 2019, 133 Stat. 1547, provided that:
+Pub. L. 109–163, div. A, title VIII, § 811, Jan. 6, 2006, 119 Stat. 3374, as amended by Pub. L. 116–92, div. A, title IX, § 902(44), Dec. 20, 2019, 133 Stat. 1547, provided that:
 
 > **“(a) Inspector General Reviews and Determinations.—**
 
@@ -499,15 +499,15 @@ Pub. L. 109–163, div. A, title VIII, § 811, Jan. 6, 2006, 119 Stat. 3374, a
 
 **Employment of State Residents in States Having Unemployment Rate in Excess of National Average**
 
-Pub. L. 109–289, div. A, title VIII, § 8048, Sept. 29, 2006, 120 Stat. 1284, provided that: “Notwithstanding any other provision of law, each contract awarded by the Department of Defense during the current fiscal year and hereafter for construction or service performed in whole or in part in a State (as defined in section 381(d) [now 281(d)] of title 10, United States Code) which is not contiguous with another State and has an unemployment rate in excess of the national average rate of unemployment as determined by the Secretary of Labor, shall include a provision requiring the contractor to employ, for the purpose of performing that portion of the contract in such State that is not contiguous with another State, individuals who are residents of such State and who, in the case of any craft or trade, possess or would be able to acquire promptly the necessary skills: *Provided*, That the Secretary of Defense may waive the requirements of this section, on a case-by-case basis, in the interest of national security.”
+Pub. L. 109–289, div. A, title VIII, § 8048, Sept. 29, 2006, 120 Stat. 1284, provided that: “Notwithstanding any other provision of law, each contract awarded by the Department of Defense during the current fiscal year and hereafter for construction or service performed in whole or in part in a State (as defined in section 381(d) [now 281(d)] of title 10, United States Code) which is not contiguous with another State and has an unemployment rate in excess of the national average rate of unemployment as determined by the Secretary of Labor, shall include a provision requiring the contractor to employ, for the purpose of performing that portion of the contract in such State that is not contiguous with another State, individuals who are residents of such State and who, in the case of any craft or trade, possess or would be able to acquire promptly the necessary skills: *Provided*, That the Secretary of Defense may waive the requirements of this section, on a case-by-case basis, in the interest of national security.”
 
 **Rapid Acquisition and Deployment Procedures**
 
-Pub. L. 107–314, div. A, title VIII, § 806, Dec. 2, 2002, 116 Stat. 2607, as amended by Pub. L. 108–136, div. A, title VIII, § 845, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 108–375, div. A, title VIII, § 811, Oct. 28, 2004, 118 Stat. 2012; Pub. L. 109–364, div. A, title X, § 1071(h), Oct. 17, 2006, 120 Stat. 2403; Pub. L. 111–383, div. A, title VIII, § 803, Jan. 7, 2011, 124 Stat. 4255; Pub. L. 112–81, div. A, title VIII, § 845(a), (b), Dec. 31, 2011, 125 Stat. 1515; Pub. L. 114–92, div. A, title VIII, § 803, Nov. 25, 2015, 129 Stat. 880; Pub. L. 114–328, div. A, title VIII, § 801, Dec. 23, 2016, 130 Stat. 2247, which required prescription of procedures for the rapid acquisition and deployment of certain supplies and associated support services, was repealed by Pub. L. 117–263, div. A, title VIII, § 804(c)(2), Dec. 23, 2022, 136 Stat. 2701. See section 3601 of this title.
+Pub. L. 107–314, div. A, title VIII, § 806, Dec. 2, 2002, 116 Stat. 2607, as amended by Pub. L. 108–136, div. A, title VIII, § 845, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 108–375, div. A, title VIII, § 811, Oct. 28, 2004, 118 Stat. 2012; Pub. L. 109–364, div. A, title X, § 1071(h), Oct. 17, 2006, 120 Stat. 2403; Pub. L. 111–383, div. A, title VIII, § 803, Jan. 7, 2011, 124 Stat. 4255; Pub. L. 112–81, div. A, title VIII, § 845(a), (b), Dec. 31, 2011, 125 Stat. 1515; Pub. L. 114–92, div. A, title VIII, § 803, Nov. 25, 2015, 129 Stat. 880; Pub. L. 114–328, div. A, title VIII, § 801, Dec. 23, 2016, 130 Stat. 2247, which required prescription of procedures for the rapid acquisition and deployment of certain supplies and associated support services, was repealed by Pub. L. 117–263, div. A, title VIII, § 804(c)(2), Dec. 23, 2022, 136 Stat. 2701. See section 3601 of this title.
 
 **Requirements Relating to Micro-Purchases**
 
-Pub. L. 105–85, div. A, title VIII, § 848, Nov. 18, 1997, 111 Stat. 1846, as amended by Pub. L. 113–291, div. A, title X, § 1071(b)(10), Dec. 19, 2014, 128 Stat. 3507, provided that:
+Pub. L. 105–85, div. A, title VIII, § 848, Nov. 18, 1997, 111 Stat. 1846, as amended by Pub. L. 113–291, div. A, title X, § 1071(b)(10), Dec. 19, 2014, 128 Stat. 3507, provided that:
 
 > **“(a) Requirement.—**
 
@@ -537,11 +537,11 @@ Pub. L. 105–85, div. A, title VIII, § 848, Nov. 18, 1997, 111 Stat. 1846, a
 
 **Defense Facility-Wide Pilot Program**
 
-Pub. L. 104–106, div. A, title VIII, § 822, Feb. 10, 1996, 110 Stat. 396, as amended by Pub. L. 106–65, div. A, title X, § 1067(6), Oct. 5, 1999, 113 Stat. 774, which authorized the Secretary of Defense to conduct a pilot program for the purpose of determining the potential for increasing the efficiency and effectiveness of the acquisition process in facilities by using commercial practices on a facility-wide basis, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(21), Dec. 18, 2025, 139 Stat. 950.
+Pub. L. 104–106, div. A, title VIII, § 822, Feb. 10, 1996, 110 Stat. 396, as amended by Pub. L. 106–65, div. A, title X, § 1067(6), Oct. 5, 1999, 113 Stat. 774, which authorized the Secretary of Defense to conduct a pilot program for the purpose of determining the potential for increasing the efficiency and effectiveness of the acquisition process in facilities by using commercial practices on a facility-wide basis, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(21), Dec. 18, 2025, 139 Stat. 950.
 
 **Elimination of Use of Class I Ozone-Depleting Substances in Certain Military Procurement Contracts**
 
-Pub. L. 102–484, div. A, title III, § 326, Oct. 23, 1992, 106 Stat. 2368, as amended by Pub. L. 104–106, div. A, title XV, §§ 1502(c)(2)(A), 1504(c)(1), Feb. 10, 1996, 110 Stat. 506, 514; Pub. L. 106–65, div. A, title X, § 1067(8), Oct. 5, 1999, 113 Stat. 774; Pub. L. 113–291, div. A, title X, § 1071(b)(14), Dec. 19, 2014, 128 Stat. 3508, provided that:
+Pub. L. 102–484, div. A, title III, § 326, Oct. 23, 1992, 106 Stat. 2368, as amended by Pub. L. 104–106, div. A, title XV, §§ 1502(c)(2)(A), 1504(c)(1), Feb. 10, 1996, 110 Stat. 506, 514; Pub. L. 106–65, div. A, title X, § 1067(8), Oct. 5, 1999, 113 Stat. 774; Pub. L. 113–291, div. A, title X, § 1071(b)(14), Dec. 19, 2014, 128 Stat. 3508, provided that:
 
 > **“(a) Elimination of Use of Class I Ozone-Depleting Substances.—**
 
@@ -591,9 +591,9 @@ Pub. L. 102–484, div. A, title III, § 326, Oct. 23, 1992, 106 Stat. 2368, a
 
 **Minimum Percentage of Competitive Procurements**
 
-Pub. L. 99–145, title IX, § 913, Nov. 8, 1985, 99 Stat. 687, as amended by Pub. L. 101–510, div. A, title XIII, § 1322(d)(1), Nov. 5, 1990, 104 Stat. 1672, which required the Secretary of Defense to establish for each fiscal year a goal for the percentage of defense procurements to be made during that year that were to be competitive procurements, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(23), Dec. 18, 2025, 139 Stat. 950.
+Pub. L. 99–145, title IX, § 913, Nov. 8, 1985, 99 Stat. 687, as amended by Pub. L. 101–510, div. A, title XIII, § 1322(d)(1), Nov. 5, 1990, 104 Stat. 1672, which required the Secretary of Defense to establish for each fiscal year a goal for the percentage of defense procurements to be made during that year that were to be competitive procurements, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(23), Dec. 18, 2025, 139 Stat. 950.
 
-## § 3201. Full and open competition
+## § 3201. Full and open competition
 
 **(a) In General.—** Except as provided in sections 3203, 3204(a), and 3205 of this title and except in the case of procurement procedures otherwise expressly authorized by statute, the head of an agency in conducting a procurement for property or services—
 
@@ -639,43 +639,43 @@ Pub. L. 99–145, title IX, § 913, Nov. 8, 1985, 99 Stat. 687, as amended by 
 
 **(4) Exception.—** This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in section 3063 of this title and to report on such matters to the Congress or any agency of the Federal Government.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1811(c), Jan. 1, 2021, 134 Stat. 4165; Pub. L. 117–81, div. A, title XVII, § 1701(b)(4)(A), Dec. 27, 2021, 135 Stat. 2132.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1811(c), Jan. 1, 2021, 134 Stat. 4165; Pub. L. 117–81, div. A, title XVII, § 1701(b)(4)(A), Dec. 27, 2021, 135 Stat. 2132.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (a) of section 2304 of this title, which was transferred to this section, redesignated as subsecs. (a) and (b), and amended by Pub. L. 116–283, § 1811(c)(2), was based on Pub. L. 98–369, div. B, title VII, § 2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 99–145, title XIII, § 1303(a)(13), Nov. 8, 1985, 99 Stat. 739; Pub. L. 100–26, § 7(d)(3)(A), Apr. 21, 1987, 101 Stat. 281; Pub. L. 103–355, title I, § 1001(1), Oct. 13, 1994, 108 Stat. 3249.
+The text of subsec. (a) of section 2304 of this title, which was transferred to this section, redesignated as subsecs. (a) and (b), and amended by Pub. L. 116–283, § 1811(c)(2), was based on Pub. L. 98–369, div. B, title VII, § 2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 99–145, title XIII, § 1303(a)(13), Nov. 8, 1985, 99 Stat. 739; Pub. L. 100–26, § 7(d)(3)(A), Apr. 21, 1987, 101 Stat. 281; Pub. L. 103–355, title I, § 1001(1), Oct. 13, 1994, 108 Stat. 3249.
 
-The text of subsec. (j) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 116–283, § 1811(c)(3), was based on Pub. L. 104–106, div. D, title XLI, § 4101(a)(2), Feb. 10, 1996, 110 Stat. 642.
+The text of subsec. (j) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 116–283, § 1811(c)(3), was based on Pub. L. 104–106, div. D, title XLI, § 4101(a)(2), Feb. 10, 1996, 110 Stat. 642.
 
-The text of subsec. (h) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (d), and amended by Pub. L. 116–283, § 1811(c)(4), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 96–513, title V, § 511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–295, § 1(24)(B), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 98–369, div. B, title VII, §§ 2723(a)(1)(B), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, § 504(b)(2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 104–106, div. D, title XLIII, § 4321(b)(5), Feb. 10, 1996, 110 Stat. 672; Pub. L. 107–217, § 3(b)(3), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 111–350, § 5(b)(12)(E), Jan. 4, 2011, 124 Stat. 3843.
+The text of subsec. (h) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (d), and amended by Pub. L. 116–283, § 1811(c)(4), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 96–513, title V, § 511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–295, § 1(24)(B), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 98–369, div. B, title VII, §§ 2723(a)(1)(B), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, § 504(b)(2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 104–106, div. D, title XLIII, § 4321(b)(5), Feb. 10, 1996, 110 Stat. 672; Pub. L. 107–217, § 3(b)(3), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 111–350, § 5(b)(12)(E), Jan. 4, 2011, 124 Stat. 3843.
 
-The text of subsec. (k) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (e), and amended by Pub. L. 116–283, § 1811(c)(5), was based on Pub. L. 103–355, title VII, § 7203(a)(1)(B), Oct. 13, 1994, 108 Stat. 3379; Pub. L. 104–106, div. D, title XLI, § 4101(a)(1), Feb. 10, 1996, 110 Stat. 642.
+The text of subsec. (k) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (e), and amended by Pub. L. 116–283, § 1811(c)(5), was based on Pub. L. 103–355, title VII, § 7203(a)(1)(B), Oct. 13, 1994, 108 Stat. 3379; Pub. L. 104–106, div. D, title XLI, § 4101(a)(1), Feb. 10, 1996, 110 Stat. 642.
 
 **Prior Provisions**
 
 A prior section 3201 was renumbered section 7101 of this title.
 
-Another prior section 3201, act Aug. 10, 1956, ch. 1041, 70A Stat. 172; Pub. L. 85–861, § 1(62), Sept. 2, 1958, 72 Stat. 1462; Pub. L. 88–647, title III, § 301(4), Oct. 13, 1964, 78 Stat. 1071, prescribed the authorized strength of the Army in members on active duty, exclusive of certain categories, and the authorized daily average strength of the Army in members on active duty during the fiscal year, exclusive of certain categories, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
+Another prior section 3201, act Aug. 10, 1956, ch. 1041, 70A Stat. 172; Pub. L. 85–861, § 1(62), Sept. 2, 1958, 72 Stat. 1462; Pub. L. 88–647, title III, § 301(4), Oct. 13, 1964, 78 Stat. 1071, prescribed the authorized strength of the Army in members on active duty, exclusive of certain categories, and the authorized daily average strength of the Army in members on active duty during the fiscal year, exclusive of certain categories, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 
-A prior section 3202, act Aug. 10, 1956, ch. 1041, 70A Stat. 172; Pub. L. 85–861, § 1(63), Sept. 2, 1958, 72 Stat. 1463; Pub. L. 90–228, § 1(1), (2), Dec. 28, 1967, 81 Stat. 745; Pub. L. 96–513, title II, § 203(a), Dec. 12, 1980, 94 Stat. 2878, related to authorized strength of Army in general officers on active duty, prior to repeal by Pub. L. 101–510, div. A, title IV, § 403(b)(1)(A), Nov. 5, 1990, 104 Stat. 1545.
+A prior section 3202, act Aug. 10, 1956, ch. 1041, 70A Stat. 172; Pub. L. 85–861, § 1(63), Sept. 2, 1958, 72 Stat. 1463; Pub. L. 90–228, § 1(1), (2), Dec. 28, 1967, 81 Stat. 745; Pub. L. 96–513, title II, § 203(a), Dec. 12, 1980, 94 Stat. 2878, related to authorized strength of Army in general officers on active duty, prior to repeal by Pub. L. 101–510, div. A, title IV, § 403(b)(1)(A), Nov. 5, 1990, 104 Stat. 1545.
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 1811(c)(2)(B), (C), as amended by Pub. L. 117–81, § 1701(b)(4)(A)(i), inserted heading, struck out par. (1) designation at beginning and substituted “Except as provided in sections 3203, 3204(a), and 3205 of this title” for “Except as provided in subsections (b), (c), and (g)” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively. Par. (2) subsequently redesignated subsec. (b).
+2021—Subsec. (a). Pub. L. 116–283, § 1811(c)(2)(B), (C), as amended by Pub. L. 117–81, § 1701(b)(4)(A)(i), inserted heading, struck out par. (1) designation at beginning and substituted “Except as provided in sections 3203, 3204(a), and 3205 of this title” for “Except as provided in subsections (b), (c), and (g)” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively. Par. (2) subsequently redesignated subsec. (b).
 
-Pub. L. 116–283, § 1811(c)(2), transferred subsec. (a) of section 2304 of this title to this section.
+Pub. L. 116–283, § 1811(c)(2), transferred subsec. (a) of section 2304 of this title to this section.
 
-Subsec. (a)(1). Pub. L. 116–283, § 1811(c)(2)(D), as amended by Pub. L. 117–81, § 1701(b)(4)(A)(ii), substituted “this section and sections 3069, 3203, 3204, 3205, 3403, 3405, 3406, 3901, 4501, and 4502 of this title” for “this chapter”.
+Subsec. (a)(1). Pub. L. 116–283, § 1811(c)(2)(D), as amended by Pub. L. 117–81, § 1701(b)(4)(A)(ii), substituted “this section and sections 3069, 3203, 3204, 3205, 3403, 3405, 3406, 3901, 4501, and 4502 of this title” for “this chapter”.
 
-Subsec. (b). Pub. L. 116–283, § 1811(c)(2)(A), (E), redesignated subsec. (a)(2) as (b) and inserted heading, redesignated subpar. (A) and cls. (i) to (iv) as par. (1) and subpars. (A) to (D), respectively, and redesignated subpar. (B) as par. (2) and substituted “paragraph (1)” for “clause (A)”.
+Subsec. (b). Pub. L. 116–283, § 1811(c)(2)(A), (E), redesignated subsec. (a)(2) as (b) and inserted heading, redesignated subpar. (A) and cls. (i) to (iv) as par. (1) and subpars. (A) to (D), respectively, and redesignated subpar. (B) as par. (2) and substituted “paragraph (1)” for “clause (A)”.
 
-Subsec. (c). Pub. L. 116–283, § 1811(c)(3), redesignated subsec. (j) of section 2304 of this title as subsec. (c) of this section and inserted heading.
+Subsec. (c). Pub. L. 116–283, § 1811(c)(3), redesignated subsec. (j) of section 2304 of this title as subsec. (c) of this section and inserted heading.
 
-Subsec. (d). Pub. L. 116–283, § 1811(c)(4), redesignated subsec. (h) of section 2304 of this title as subsec. (d) of this section and inserted heading.
+Subsec. (d). Pub. L. 116–283, § 1811(c)(4), redesignated subsec. (h) of section 2304 of this title as subsec. (d) of this section and inserted heading.
 
-Subsec. (e). Pub. L. 116–283, § 1811(c)(5), redesignated subsec. (k) of section 2304 of this title as subsec. (e) of this section, inserted subsec. and par. headings, switched order and designations of pars. (2) and (3), realigned margins of pars. (2) to (4), and substituted “section 3063” for “section 2303(a)” in pars. (1) and (4).
+Subsec. (e). Pub. L. 116–283, § 1811(c)(5), redesignated subsec. (k) of section 2304 of this title as subsec. (e) of this section, inserted subsec. and par. headings, switched order and designations of pars. (2) and (3), realigned margins of pars. (2) to (4), and substituted “section 3063” for “section 2303(a)” in pars. (1) and (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -689,13 +689,13 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **Competition for Procurement of Small Arms Supplied to Iraq and Afghanistan**
 
-Pub. L. 110–181, div. A, title VIII, § 892, Jan. 28, 2008, 122 Stat. 270, which required the Secretary of Defense to ensure, consistent with the provisions of former section 2304 of this title, full and open competition for procurement of small arms supplied to Iraq and Afghanistan, was repealed by Pub. L. 118–159, div. A, title VIII, § 811(a)(1)(B), Dec. 23, 2024, 138 Stat. 1979.
+Pub. L. 110–181, div. A, title VIII, § 892, Jan. 28, 2008, 122 Stat. 270, which required the Secretary of Defense to ensure, consistent with the provisions of former section 2304 of this title, full and open competition for procurement of small arms supplied to Iraq and Afghanistan, was repealed by Pub. L. 118–159, div. A, title VIII, § 811(a)(1)(B), Dec. 23, 2024, 138 Stat. 1979.
 
 **Competitive Award of Contracts for Reconstruction Activities in Iraq**
 
-Pub. L. 108–136, div. A, title VIII, § 805(a), Nov. 24, 2003, 117 Stat. 1542, which required the Department of Defense to fully comply with former chapter 137 of this title for contracts awarded competitively for reconstruction activities of the Iraqi oil industry, was repealed by Pub. L. 118–159, div. A, title VIII, § 811(a)(1)(A), Dec. 23, 2024, 138 Stat. 1979.
+Pub. L. 108–136, div. A, title VIII, § 805(a), Nov. 24, 2003, 117 Stat. 1542, which required the Department of Defense to fully comply with former chapter 137 of this title for contracts awarded competitively for reconstruction activities of the Iraqi oil industry, was repealed by Pub. L. 118–159, div. A, title VIII, § 811(a)(1)(A), Dec. 23, 2024, 138 Stat. 1979.
 
-## § 3203. Exclusion of particular source or restriction of solicitation to small business concerns
+## § 3203. Exclusion of particular source or restriction of solicitation to small business concerns
 
 **(a) Exclusion of Particular Source.—**
 
@@ -719,31 +719,31 @@ Pub. L. 108–136, div. A, title VIII, § 805(a), Nov. 24, 2003, 117 Stat. 154
 
 **(c) Inapplicability of Justification and Approval Requirements.—** A contract awarded pursuant to the competitive procedures referred to in subsections (a)(1) and (b) shall not be subject to the justification and approval required by section 3204(e)(1) of this title.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1811(d)(1), (2), Jan. 1, 2021, 134 Stat. 4166; Pub. L. 117–81, div. A, title XVII, § 1701(d)(3), Dec. 27, 2021, 135 Stat. 2136.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1811(d)(1), (2), Jan. 1, 2021, 134 Stat. 4166; Pub. L. 117–81, div. A, title XVII, § 1701(d)(3), Dec. 27, 2021, 135 Stat. 2136.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (b) of section 2304 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1811(d)(2), was based on Pub. L. 98–369, div. B, title VII, § 2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 98–577, title V, § 504(b)(1), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–661, div. A, title XIII, § 1343(a)(14), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 101–189, div. A, title VIII, 853(d), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 102–484, div. A, title VIII, § 801(h)(2), Oct. 23, 1992, 106 Stat. 2445; Pub. L. 103–355, title I, § 1002, Oct. 13, 1994, 108 Stat. 3249; Pub. L. 115–232, div. A, title VIII, § 812(a)(2)(C)(v), Aug. 13, 2018, 132 Stat. 1847.
+The text of subsec. (b) of section 2304 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1811(d)(2), was based on Pub. L. 98–369, div. B, title VII, § 2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 98–577, title V, § 504(b)(1), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–661, div. A, title XIII, § 1343(a)(14), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 101–189, div. A, title VIII, 853(d), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 102–484, div. A, title VIII, § 801(h)(2), Oct. 23, 1992, 106 Stat. 2445; Pub. L. 103–355, title I, § 1002, Oct. 13, 1994, 108 Stat. 3249; Pub. L. 115–232, div. A, title VIII, § 812(a)(2)(C)(v), Aug. 13, 2018, 132 Stat. 1847.
 
 **Prior Provisions**
 
-A prior section 3203, act Aug. 10, 1956, ch. 1041, 70A Stat. 173; Pub. L. 85–861, § 1(64), Sept. 2, 1958, 72 Stat. 1463, prescribed authorized strength of Regular Army in members on active duty, exclusive of officers candidates, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
+A prior section 3203, act Aug. 10, 1956, ch. 1041, 70A Stat. 173; Pub. L. 85–861, § 1(64), Sept. 2, 1958, 72 Stat. 1463, prescribed authorized strength of Regular Army in members on active duty, exclusive of officers candidates, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 1811(d)(2)(A), redesignated subsec. (b) of section 2304 of this title as subsec. (a) of this section and inserted heading.
+2021—Subsec. (a). Pub. L. 116–283, § 1811(d)(2)(A), redesignated subsec. (b) of section 2304 of this title as subsec. (a) of this section and inserted heading.
 
-Subsec. (a)(1). Pub. L. 116–283, § 1811(d)(2)(A)–(C), inserted heading, substituted “covered by chapter 137 legacy provisions” for “covered by this chapter” in introductory provisions, and realigned margins of subpars. (A) to (F).
+Subsec. (a)(1). Pub. L. 116–283, § 1811(d)(2)(A)–(C), inserted heading, substituted “covered by chapter 137 legacy provisions” for “covered by this chapter” in introductory provisions, and realigned margins of subpars. (A) to (F).
 
-Subsec. (a)(2). Pub. L. 116–283, § 1811(d)(2)(F), redesignated par. (4) as (2), inserted heading, and realigned margin. Former pars. (2) and (3) redesignated subsecs. (b) and (c), respectively.
+Subsec. (a)(2). Pub. L. 116–283, § 1811(d)(2)(F), redesignated par. (4) as (2), inserted heading, and realigned margin. Former pars. (2) and (3) redesignated subsecs. (b) and (c), respectively.
 
-Subsec. (b). Pub. L. 116–283, § 1811(d)(2)(D), redesignated subsec. (a)(2) as (b), inserted heading, and substituted “chapter 137 legacy provisions” for “this section”.
+Subsec. (b). Pub. L. 116–283, § 1811(d)(2)(D), redesignated subsec. (a)(2) as (b), inserted heading, and substituted “chapter 137 legacy provisions” for “this section”.
 
 Subsec. (c). Pub. L. 117–81 substituted “subsections (a)(1) and (b)” for “paragraphs (1) and (2)”.
 
-Pub. L. 116–283, § 1811(d)(2)(E), redesignated subsec. (a)(3) as (c), inserted heading, and substituted “section 3204(e)(1) of this title” for “subsection (f)(1)”.
+Pub. L. 116–283, § 1811(d)(2)(E), redesignated subsec. (a)(3) as (c), inserted heading, and substituted “section 3204(e)(1) of this title” for “subsection (f)(1)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -755,7 +755,7 @@ Amendment by Pub. L. 117–81 to take effect immediately after the amendments ma
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3204. Use of procedures other than competitive procedures
+## § 3204. Use of procedures other than competitive procedures
 
 **(a) When Procedures Other Than Competitive Procedures May Be Used.—** The head of an agency may use procedures other than competitive procedures only when—
 
@@ -911,85 +911,85 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(3)** Such regulations shall not apply to an item of supply included in a contract or subcontract for which the price is based on established catalog or market prices of commercial products sold in substantial quantities to the general public.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1811(d)(1), (3)–(8), Jan. 1, 2021, 134 Stat. 4166–4169; Pub. L. 117–81, div. A, title XVII, § 1701(b)(4)(B)–(E), Dec. 27, 2021, 135 Stat. 2132; Pub. L. 119–60, div. A, title XVIII, § 1804(b), Dec. 18, 2025, 139 Stat. 1234.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1811(d)(1), (3)–(8), Jan. 1, 2021, 134 Stat. 4166–4169; Pub. L. 117–81, div. A, title XVII, § 1701(b)(4)(B)–(E), Dec. 27, 2021, 135 Stat. 2132; Pub. L. 119–60, div. A, title XVIII, § 1804(b), Dec. 18, 2025, 139 Stat. 1234.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (c) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, § 1811(d)(3), was based on Pub. L. 98–369, div. B, title VII, § 2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 99–500, § 101(c) [title X, § 923(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, and Pub. L. 99–591, § 101(c) [title X, § 923(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152; Pub. L. 99–661, div. A, title IX, formerly title IV, § 923(a), Nov. 14, 1986, 100 Stat. 3932, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–355, title I, § 1005, title VII, § 7203(a)(1)(A), Oct. 13, 1994, 108 Stat. 3254, 3379; Pub. L. 104–320, §§ 7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title X, § 1073(a)(42), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 115–232, div. A, title VIII, 836(c)(2)(A), Aug. 13, 2018, 132 Stat. 1864.
+The text of subsec. (c) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, § 1811(d)(3), was based on Pub. L. 98–369, div. B, title VII, § 2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 99–500, § 101(c) [title X, § 923(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, and Pub. L. 99–591, § 101(c) [title X, § 923(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152; Pub. L. 99–661, div. A, title IX, formerly title IV, § 923(a), Nov. 14, 1986, 100 Stat. 3932, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–355, title I, § 1005, title VII, § 7203(a)(1)(A), Oct. 13, 1994, 108 Stat. 3254, 3379; Pub. L. 104–320, §§ 7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title X, § 1073(a)(42), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 115–232, div. A, title VIII, 836(c)(2)(A), Aug. 13, 2018, 132 Stat. 1864.
 
-The text of subsec. (d) of section 2304 of this title, which was transferred to this section, redesignated as subsecs. (b) and (c), and amended by Pub. L. 116–283, § 1811(d)(4), was based on Pub. L. 98–369, div. B, title VII, § 2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 99–500, § 101(c) [title X, § 923(b), (c)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, and Pub. L. 99–591, § 101(c) [title X, § 923(b), (c)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152,Pub. L. 99–661, div. A, title IX, formerly title IV, § 923(b), (c), Nov. 14, 1986, 100 Stat. 3932, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 110–417, [div. A], title VIII, § 862(b), Oct. 14, 2008, 122 Stat. 4546.
+The text of subsec. (d) of section 2304 of this title, which was transferred to this section, redesignated as subsecs. (b) and (c), and amended by Pub. L. 116–283, § 1811(d)(4), was based on Pub. L. 98–369, div. B, title VII, § 2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 99–500, § 101(c) [title X, § 923(b), (c)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, and Pub. L. 99–591, § 101(c) [title X, § 923(b), (c)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152,Pub. L. 99–661, div. A, title IX, formerly title IV, § 923(b), (c), Nov. 14, 1986, 100 Stat. 3932, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 110–417, [div. A], title VIII, § 862(b), Oct. 14, 2008, 122 Stat. 4546.
 
-The text of subsec. (e) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (d), and amended by Pub. L. 116–283, § 1811(d)(5), was based on Pub. L. 98–369, div. B, title VII, § 2723(a)(1)(C), July 18, 1984, 98 Stat. 1187.
+The text of subsec. (e) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (d), and amended by Pub. L. 116–283, § 1811(d)(5), was based on Pub. L. 98–369, div. B, title VII, § 2723(a)(1)(C), July 18, 1984, 98 Stat. 1187.
 
-The text of subsec. (f) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (e), and amended by Pub. L. 116–283, § 1811(d)(6), was based on Pub. L. 98–369, div. B, title VII, § 2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 98–577, title V, § 504(b)(2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, § 961(a)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 100–26, § 7(d)(3)(A), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, § 803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§ 817, 818, Nov. 29, 1989, 103 Stat. 1501, 1502; Pub. L. 103–160, div. A, title IX, § 904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, § 1003, Oct. 13, 1994, 108 Stat. 3249; Pub. L. 104–106, div. D, title XLI, §§ 4102(a), title XLIII, § 4321(b)(4), Feb. 10, 1996, 110 Stat. 643, 672; Pub. L. 105–85, div. A, title VIII, § 841(b), title X, § 1073(a)(43), Nov. 18, 1997, 111 Stat. 1843, 1902; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 108–375, div. A, title VIII, § 815, Oct. 28, 2004, 118 Stat. 2015; Pub. L. 109–364, div. A, title X, § 1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title VIII, § 844(b)(2), Jan. 28, 2008, 122 Stat. 239; Pub. L. 111–350, § 5(b)(12)(A)–(C), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 115–91, div. A, title XVII, § 1709(b)(2), Dec. 12, 2017, 131 Stat. 1809; Pub. L. 115–232, div. A, title VIII, § 836(c)(2)(A), Aug. 13, 2018, 132 Stat. 1864; Pub. L. 116–92, div. A, title IX, § 902(39), title XVII, § 1731(a)(37), Dec. 20, 2019, 133 Stat. 1547, 1814.
+The text of subsec. (f) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (e), and amended by Pub. L. 116–283, § 1811(d)(6), was based on Pub. L. 98–369, div. B, title VII, § 2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 98–577, title V, § 504(b)(2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, § 961(a)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 100–26, § 7(d)(3)(A), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, § 803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§ 817, 818, Nov. 29, 1989, 103 Stat. 1501, 1502; Pub. L. 103–160, div. A, title IX, § 904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, § 1003, Oct. 13, 1994, 108 Stat. 3249; Pub. L. 104–106, div. D, title XLI, §§ 4102(a), title XLIII, § 4321(b)(4), Feb. 10, 1996, 110 Stat. 643, 672; Pub. L. 105–85, div. A, title VIII, § 841(b), title X, § 1073(a)(43), Nov. 18, 1997, 111 Stat. 1843, 1902; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 108–375, div. A, title VIII, § 815, Oct. 28, 2004, 118 Stat. 2015; Pub. L. 109–364, div. A, title X, § 1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title VIII, § 844(b)(2), Jan. 28, 2008, 122 Stat. 239; Pub. L. 111–350, § 5(b)(12)(A)–(C), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 115–91, div. A, title XVII, § 1709(b)(2), Dec. 12, 2017, 131 Stat. 1809; Pub. L. 115–232, div. A, title VIII, § 836(c)(2)(A), Aug. 13, 2018, 132 Stat. 1864; Pub. L. 116–92, div. A, title IX, § 902(39), title XVII, § 1731(a)(37), Dec. 20, 2019, 133 Stat. 1547, 1814.
 
-The text of subsec. (*l*) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (f), and amended by Pub. L. 116–283, § 1811(d)(7), was based on Pub. L. 110–181, div. A, title VIII, § 844(b)(1), Jan. 28, 2008, 122 Stat. 239.
+The text of subsec. (*l*) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (f), and amended by Pub. L. 116–283, § 1811(d)(7), was based on Pub. L. 110–181, div. A, title VIII, § 844(b)(1), Jan. 28, 2008, 122 Stat. 239.
 
-The text of subsec. (i) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (g), and amended by Pub. L. 116–283, § 1811(d)(8), was based on Pub. L. 99–500, § 101(c) [title X, § 927(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–155, and Pub. L. 99–591, § 101(c) [title X, § 927(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, § 927(a), Nov. 14, 1986, 100 Stat. 3935, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 115–232, div. A, title VIII, § 836(c)(2)(C), Aug. 13, 2018, 132 Stat. 1864.
+The text of subsec. (i) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (g), and amended by Pub. L. 116–283, § 1811(d)(8), was based on Pub. L. 99–500, § 101(c) [title X, § 927(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–155, and Pub. L. 99–591, § 101(c) [title X, § 927(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, § 927(a), Nov. 14, 1986, 100 Stat. 3935, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 115–232, div. A, title VIII, § 836(c)(2)(C), Aug. 13, 2018, 132 Stat. 1864.
 
 **Prior Provisions**
 
-A prior section 3204, act Aug. 10, 1956, ch. 1041, 70A Stat. 173, Pub. L. 85–600, § 1(2), Aug. 6, 1958, 72 Stat. 522; Pub. L. 95–551, § 2, Oct. 30, 1978, 92 Stat. 2069, prescribed authorized strength of Regular Army in commissioned officers of active list, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
+A prior section 3204, act Aug. 10, 1956, ch. 1041, 70A Stat. 173, Pub. L. 85–600, § 1(2), Aug. 6, 1958, 72 Stat. 522; Pub. L. 95–551, § 2, Oct. 30, 1978, 92 Stat. 2069, prescribed authorized strength of Regular Army in commissioned officers of active list, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 
 **Amendments**
 
 2025—Subsec. (e)(1)(B). Pub. L. 119–60 substituted “$10,000,000” for “$500,000” in cl. (i), “$100,000,000” for “$10,000,000” in cls. (i) and (ii), and “$500,000,000” for “$75,000,000” in cls. (ii) and (iii).
 
-2021—Subsec. (a). Pub. L. 116–283, § 1811(d)(3)(A), inserted heading.
+2021—Subsec. (a). Pub. L. 116–283, § 1811(d)(3)(A), inserted heading.
 
-Pub. L. 116–283, § 1811(d)(3), redesignated subsec. (c) of section 2304 of this title as subsec. (a) of this section.
+Pub. L. 116–283, § 1811(d)(3), redesignated subsec. (c) of section 2304 of this title as subsec. (a) of this section.
 
-Subsec. (a)(3). Pub. L. 116–283, § 1811(d)(3)(B), as amended by Pub. L. 117–81, § 1701(b)(4)(B), inserted dash after “in order” and reformatted subpars. (A) to (C) to add line breaks before each subpar. designation and substituted semicolons for commas.
+Subsec. (a)(3). Pub. L. 116–283, § 1811(d)(3)(B), as amended by Pub. L. 117–81, § 1701(b)(4)(B), inserted dash after “in order” and reformatted subpars. (A) to (C) to add line breaks before each subpar. designation and substituted semicolons for commas.
 
-Subsec. (a)(5). Pub. L. 116–283, § 1811(d)(3)(C), substituted “section 3201(e) of this title” for “subsection (k)”.
+Subsec. (a)(5). Pub. L. 116–283, § 1811(d)(3)(C), substituted “section 3201(e) of this title” for “subsection (k)”.
 
-Subsec. (a)(7). Pub. L. 116–283, § 1811(d)(3)(D), inserted “(who may not delegate the authority under this paragraph)” after “the head of the agency” in introductory provisions.
+Subsec. (a)(7). Pub. L. 116–283, § 1811(d)(3)(D), inserted “(who may not delegate the authority under this paragraph)” after “the head of the agency” in introductory provisions.
 
-Subsec. (b). Pub. L. 116–283, § 1811(d)(4)(A), (B), inserted heading, struck out par. (1) designation at beginning, and substituted “subsection (a)(1)” for “subsection (c)(1)” in introductory provisions.
+Subsec. (b). Pub. L. 116–283, § 1811(d)(4)(A), (B), inserted heading, struck out par. (1) designation at beginning, and substituted “subsection (a)(1)” for “subsection (c)(1)” in introductory provisions.
 
-Pub. L. 116–283, § 1811(d)(4), redesignated subsec. (d) of section 2304 of this title as subsec. (b) of this section.
+Pub. L. 116–283, § 1811(d)(4), redesignated subsec. (d) of section 2304 of this title as subsec. (b) of this section.
 
-Subsec. (b)(2). Pub. L. 116–283, § 1811(d)(4)(C), struck out par. (2) which read as follows: “The authority of the head of an agency under subsection (c)(7) may not be delegated.”
+Subsec. (b)(2). Pub. L. 116–283, § 1811(d)(4)(C), struck out par. (2) which read as follows: “The authority of the head of an agency under subsection (c)(7) may not be delegated.”
 
-Subsec. (c). Pub. L. 116–283, § 1811(d)(4)(D), as amended by Pub. L. 117–81, § 1701(b)(4)(C), redesignated subsec. (b)(3) as (c) and inserted heading; redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, inserted headings, and realigned margins; in par. (1) as redesignated, substituted “paragraph (2)” for “subparagraph (B)” and “subsection (a)(2)” for “subsection (c)(2)” in introductory provisions, redesignated cl. (i) and subcls. (I) and (II) as subpar. (A) and cls. (i) and (ii), respectively, redesignated cl. (ii) as subpar. (B), and realigned margins; and, in par. (2) as redesignated, substituted “This subsection” for “This paragraph”.
+Subsec. (c). Pub. L. 116–283, § 1811(d)(4)(D), as amended by Pub. L. 117–81, § 1701(b)(4)(C), redesignated subsec. (b)(3) as (c) and inserted heading; redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, inserted headings, and realigned margins; in par. (1) as redesignated, substituted “paragraph (2)” for “subparagraph (B)” and “subsection (a)(2)” for “subsection (c)(2)” in introductory provisions, redesignated cl. (i) and subcls. (I) and (II) as subpar. (A) and cls. (i) and (ii), respectively, redesignated cl. (ii) as subpar. (B), and realigned margins; and, in par. (2) as redesignated, substituted “This subsection” for “This paragraph”.
 
-Subsec. (d). Pub. L. 116–283, § 1811(d)(5), as amended by Pub. L. 117–81, § 1701(b)(4)(D), redesignated subsec. (e) of section 2304 of this title as subsec. (d) of this section, inserted heading, and substituted “paragraph (2) or (6) of subsection (a)” for “subsection (c)(2) or (c)(6)”.
+Subsec. (d). Pub. L. 116–283, § 1811(d)(5), as amended by Pub. L. 117–81, § 1701(b)(4)(D), redesignated subsec. (e) of section 2304 of this title as subsec. (d) of this section, inserted heading, and substituted “paragraph (2) or (6) of subsection (a)” for “subsection (c)(2) or (c)(6)”.
 
-Subsec. (e). Pub. L. 116–283, § 1811(d)(6)(A), as amended by Pub. L. 117–81, § 1701(b)(4)(E)(i), inserted heading.
+Subsec. (e). Pub. L. 116–283, § 1811(d)(6)(A), as amended by Pub. L. 117–81, § 1701(b)(4)(E)(i), inserted heading.
 
-Pub. L. 116–283, § 1811(d)(6), redesignated subsec. (f) of section 2304 of this title as subsec. (e) of this section.
+Pub. L. 116–283, § 1811(d)(6), redesignated subsec. (f) of section 2304 of this title as subsec. (e) of this section.
 
-Subsec. (e)(1). Pub. L. 116–283, § 1811(d)(6)(A), (B), as amended by Pub. L. 117–81, § 1701(b)(4)(E)(ii), inserted heading, substituted “Except as provided in paragraphs (3), (4), and (7)” for “Except as provided in paragraph (2) and paragraph (6)”, and realigned margins of subpars. (A) to (C).
+Subsec. (e)(1). Pub. L. 116–283, § 1811(d)(6)(A), (B), as amended by Pub. L. 117–81, § 1701(b)(4)(E)(ii), inserted heading, substituted “Except as provided in paragraphs (3), (4), and (7)” for “Except as provided in paragraph (2) and paragraph (6)”, and realigned margins of subpars. (A) to (C).
 
-Subsec. (e)(2). Pub. L. 116–283, § 1811(d)(6)(C), (D), (K), redesignated par. (3) as (2), inserted heading, and realigned margin. Former par. (2) redesignated (3).
+Subsec. (e)(2). Pub. L. 116–283, § 1811(d)(6)(C), (D), (K), redesignated par. (3) as (2), inserted heading, and realigned margin. Former par. (2) redesignated (3).
 
-Subsec. (e)(3). Pub. L. 116–283, § 1811(d)(6)(C), (E), (K), redesignated par. (2) as (3), inserted heading, substituted “subsection (a)(2)” for “subsection (c)(2)”, and realigned margin. Former par. (3) redesignated (2).
+Subsec. (e)(3). Pub. L. 116–283, § 1811(d)(6)(C), (E), (K), redesignated par. (2) as (3), inserted heading, substituted “subsection (a)(2)” for “subsection (c)(2)”, and realigned margin. Former par. (3) redesignated (2).
 
-Subsec. (e)(4). Pub. L. 116–283, § 1811(d)(6)(G), (K), designated second sentence of par. (3) as (4), inserted heading, realigned margin, and substituted “subsection (a)(7)” for “subsection (c)(7)” in subpar. (C) and “subsection (a)(4)” for “subsection (c)(4)” in subpar. (E). Former par. (4) redesignated (5).
+Subsec. (e)(4). Pub. L. 116–283, § 1811(d)(6)(G), (K), designated second sentence of par. (3) as (4), inserted heading, realigned margin, and substituted “subsection (a)(7)” for “subsection (c)(7)” in subpar. (C) and “subsection (a)(4)” for “subsection (c)(4)” in subpar. (E). Former par. (4) redesignated (5).
 
-Subsec. (e)(5). Pub. L. 116–283, § 1811(d)(6)(F), (H), (K), redesignated par. (4) as (5), inserted heading, and realigned margin; inserted subpar. (A) designation before “In no case”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and, in cl. (ii), substituted “chapter 137 legacy provisions” for “this chapter”; and designated concluding provisions as subpar. (B) and substituted “subparagraph (A)(ii)” for “clause (B)”. Former par. (5) redesignated (6).
+Subsec. (e)(5). Pub. L. 116–283, § 1811(d)(6)(F), (H), (K), redesignated par. (4) as (5), inserted heading, and realigned margin; inserted subpar. (A) designation before “In no case”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and, in cl. (ii), substituted “chapter 137 legacy provisions” for “this chapter”; and designated concluding provisions as subpar. (B) and substituted “subparagraph (A)(ii)” for “clause (B)”. Former par. (5) redesignated (6).
 
-Subsec. (e)(6). Pub. L. 116–283, § 1811(d)(6)(I), (K), redesignated par. (5) as (6), inserted heading, and realigned margin. Former par. (6) redesignated (7).
+Subsec. (e)(6). Pub. L. 116–283, § 1811(d)(6)(I), (K), redesignated par. (5) as (6), inserted heading, and realigned margin. Former par. (6) redesignated (7).
 
-Subsec. (e)(7). Pub. L. 116–283, § 1811(d)(6)(J), (K), redesignated par. (6) as (7), inserted heading, and realigned margin.
+Subsec. (e)(7). Pub. L. 116–283, § 1811(d)(6)(J), (K), redesignated par. (6) as (7), inserted heading, and realigned margin.
 
-Subsec. (f). Pub. L. 116–283, § 1811(d)(7)(A), inserted heading.
+Subsec. (f). Pub. L. 116–283, § 1811(d)(7)(A), inserted heading.
 
-Pub. L. 116–283, § 1811(d)(7), redesignated subsec. (*l*) of section 2304 of this title as subsec. (f) of this section.
+Pub. L. 116–283, § 1811(d)(7), redesignated subsec. (*l*) of section 2304 of this title as subsec. (f) of this section.
 
-Subsec. (f)(1). Pub. L. 116–283, § 1811(d)(7)(A)–(C), inserted par. and subpar. headings, substituted “subsection (a)” for “subsection (c)” and “subsection (e)(1)” for “subsection (f)(1)” in subpar. (A) and “subsection (a)(2)” for “subsection (c)(2)” in subpar. (B).
+Subsec. (f)(1). Pub. L. 116–283, § 1811(d)(7)(A)–(C), inserted par. and subpar. headings, substituted “subsection (a)” for “subsection (c)” and “subsection (e)(1)” for “subsection (f)(1)” in subpar. (A) and “subsection (a)(2)” for “subsection (c)(2)” in subpar. (B).
 
-Subsec. (f)(2), (3). Pub. L. 116–283, § 1811(d)(7)(D)–(F), inserted headings and realigned margins.
+Subsec. (f)(2), (3). Pub. L. 116–283, § 1811(d)(7)(D)–(F), inserted headings and realigned margins.
 
-Subsec. (g). Pub. L. 116–283, § 1811(d)(8)(A), inserted heading.
+Subsec. (g). Pub. L. 116–283, § 1811(d)(8)(A), inserted heading.
 
-Pub. L. 116–283, § 1811(d)(8), redesignated subsec. (i) of section 2304 of this title as subsec. (g) of this section.
+Pub. L. 116–283, § 1811(d)(8), redesignated subsec. (i) of section 2304 of this title as subsec. (g) of this section.
 
-Subsec. (g)(1). Pub. L. 116–283, § 1811(d)(8)(B), struck out “, as defined in section 2302(2) of this title” before period at end.
+Subsec. (g)(1). Pub. L. 116–283, § 1811(d)(8)(B), struck out “, as defined in section 2302(2) of this title” before period at end.
 
-Subsec. (g)(2), (3). Pub. L. 116–283, § 1811(d)(8)(C), realigned margins.
+Subsec. (g)(2), (3). Pub. L. 116–283, § 1811(d)(8)(C), realigned margins.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1003,7 +1003,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **Pilot Program To Incentivize Contracting With Employee-Owned Businesses**
 
-Pub. L. 117–81, div. A, title VIII, § 874, Dec. 27, 2021, 135 Stat. 1863, as amended by Pub. L. 118–31, div. A, title VIII, § 872, Dec. 22, 2023, 137 Stat. 349, provided that:
+Pub. L. 117–81, div. A, title VIII, § 874, Dec. 27, 2021, 135 Stat. 1863, as amended by Pub. L. 118–31, div. A, title VIII, § 872, Dec. 22, 2023, 137 Stat. 349, provided that:
 
 > **“(a) Qualified Business Wholly-owned Through an Employee Stock Ownership Plan Defined.—** The term ‘qualified businesses wholly-owned through an Employee Stock Ownership Plan’ means an S corporation (as defined in section 1361(a)(1) of the Internal Revenue Code of 1986 [26 U.S.C. 1361(a)(1)]) for which 100 percent of the outstanding stock is held through an employee stock ownership plan (as defined in section 4975(e)(7) of such Code [26 U.S.C. 4975(e)(7)]).
 
@@ -1071,7 +1071,7 @@ Pub. L. 117–81, div. A, title VIII, § 874, Dec. 27, 2021, 135 Stat. 1863, a
 
 **Modification of Justification and Approval Requirement for Certain Department of Defense Contracts**
 
-Pub. L. 116–92, div. A, title VIII, § 823, Dec. 20, 2019, 133 Stat. 1490, provided that:
+Pub. L. 116–92, div. A, title VIII, § 823, Dec. 20, 2019, 133 Stat. 1490, provided that:
 
 > **“(a) Modification of Justification and Approval Requirement.—** Notwithstanding section 811 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2405) [41 U.S.C. 3304 note]—
 
@@ -1093,7 +1093,7 @@ Pub. L. 116–92, div. A, title VIII, § 823, Dec. 20, 2019, 133 Stat. 1490, p
 
 > **“(C)** other matters the Comptroller General deems appropriate.”
 
-## § 3205. Simplified procedures for small purchases
+## § 3205. Simplified procedures for small purchases
 
 **(a) Authorization.—** In order to promote efficiency and economy in contracting and to avoid unnecessary burdens for agencies and contractors, the Federal Acquisition Regulation shall provide for—
 
@@ -1107,29 +1107,29 @@ Pub. L. 116–92, div. A, title VIII, § 823, Dec. 20, 2019, 133 Stat. 1490, p
 
 **(d) Compliance With Special Requirements of Federal Acquisition Regulation.—** The head of an agency shall comply with the Federal Acquisition Regulation provisions referred to in section 1901(e) of title 41.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1811(d)(1), (9), Jan. 1, 2021, 134 Stat. 4166, 4170.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1811(d)(1), (9), Jan. 1, 2021, 134 Stat. 4166, 4170.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (g) of section 2304 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1811(d)(9), was based on Pub. L. 98–369, div. B, title VII, § 2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 100–26, § 7(d)(3)(A), Apr. 21, 1987, 101 Stat. 281; Pub. L. 101–510, div. A, title VIII, § 806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–25, title VII, § 701(d)(2)(A), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, § 1001(2), title IV, § 4401(a), Oct. 13, 1994, 108 Stat. 3249, 3347; Pub. L. 104–106, div. D, title XLII, § 4202(a)(1), Feb. 10, 1996, 110 Stat. 652; Pub. L. 105–85, div. A, title VIII, § 850(f)(3)(B), Nov. 18, 1997, 111 Stat. 1850; Pub. L. 111–350, § 5(b)(12)(D), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 115–232, div. A, title VIII, § 836(c)(2), Aug. 13, 2018, 132 Stat. 1864.
+The text of subsec. (g) of section 2304 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1811(d)(9), was based on Pub. L. 98–369, div. B, title VII, § 2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 100–26, § 7(d)(3)(A), Apr. 21, 1987, 101 Stat. 281; Pub. L. 101–510, div. A, title VIII, § 806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–25, title VII, § 701(d)(2)(A), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, § 1001(2), title IV, § 4401(a), Oct. 13, 1994, 108 Stat. 3249, 3347; Pub. L. 104–106, div. D, title XLII, § 4202(a)(1), Feb. 10, 1996, 110 Stat. 652; Pub. L. 105–85, div. A, title VIII, § 850(f)(3)(B), Nov. 18, 1997, 111 Stat. 1850; Pub. L. 111–350, § 5(b)(12)(D), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 115–232, div. A, title VIII, § 836(c)(2), Aug. 13, 2018, 132 Stat. 1864.
 
 **Prior Provisions**
 
-A prior section 3205, act Aug. 10, 1956, ch. 1041, 70A Stat. 173; Pub. L. 85–600, § 1(3), Aug. 6, 1958, 72 Stat. 522; Pub. L. 85–861, § 1(60), (65), Sept. 2, 1958, 72 Stat. 1462, 1463; Pub. L. 95–551, § 2, Oct. 30, 1978, 92 Stat. 2069, prescribed authorized strength of Regular Army in commissioned officers on active list, exclusive of certain categories, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
+A prior section 3205, act Aug. 10, 1956, ch. 1041, 70A Stat. 173; Pub. L. 85–600, § 1(3), Aug. 6, 1958, 72 Stat. 522; Pub. L. 85–861, § 1(60), (65), Sept. 2, 1958, 72 Stat. 1462, 1463; Pub. L. 95–551, § 2, Oct. 30, 1978, 92 Stat. 2069, prescribed authorized strength of Regular Army in commissioned officers on active list, exclusive of certain categories, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 1811(d)(9)(A), (C), inserted heading, struck out par. (1) designation before “In order to”, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively. Former pars. (2) to (4) redesignated subsecs. (b) to (d), respectively.
+2021—Subsec. (a). Pub. L. 116–283, § 1811(d)(9)(A), (C), inserted heading, struck out par. (1) designation before “In order to”, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively. Former pars. (2) to (4) redesignated subsecs. (b) to (d), respectively.
 
-Pub. L. 116–283, § 1811(d)(9), redesignated subsec. (g) of section 2304 of this title as subsec. (a) of this section.
+Pub. L. 116–283, § 1811(d)(9), redesignated subsec. (g) of section 2304 of this title as subsec. (a) of this section.
 
-Subsec. (b). Pub. L. 116–283, § 1811(d)(9)(B), (D), redesignated subsec. (a)(2) as (b), inserted heading, and substituted “subsection (a)” for “paragraph (1)”.
+Subsec. (b). Pub. L. 116–283, § 1811(d)(9)(B), (D), redesignated subsec. (a)(2) as (b), inserted heading, and substituted “subsection (a)” for “paragraph (1)”.
 
-Subsec. (c). Pub. L. 116–283, § 1811(d)(9)(B), (E), redesignated subsec. (a)(3) as (c) and inserted heading.
+Subsec. (c). Pub. L. 116–283, § 1811(d)(9)(B), (E), redesignated subsec. (a)(3) as (c) and inserted heading.
 
-Subsec. (d). Pub. L. 116–283, § 1811(d)(9)(B), (F), redesignated subsec. (a)(4) as (d) and inserted heading.
+Subsec. (d). Pub. L. 116–283, § 1811(d)(9)(B), (F), redesignated subsec. (a)(4) as (d) and inserted heading.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1137,7 +1137,7 @@ Subsec. (d). Pub. L. 116–283, § 1811(d)(9)(B), (F), redesignated subsec. (a
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3206. Planning and solicitation requirements
+## § 3206. Planning and solicitation requirements
 
 **(a) Planning and Specifications.—**
 
@@ -1231,49 +1231,49 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(e) Limitation on Evaluation of Purchase Options.—** The head of an agency, in issuing a solicitation for a contract to be awarded using sealed bid procedures, may not include in such solicitation a clause providing for the evaluation of prices for options to purchase additional property or services under the contract unless the head of the agency has determined that there is a reasonable likelihood that the options will be exercised.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1811(e), Jan. 1, 2021, 134 Stat. 4170; Pub. L. 117–81, div. A, title XVII, § 1701(b)(4)(F), (d)(4), Dec. 27, 2021, 135 Stat. 2133, 2136.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1811(e), Jan. 1, 2021, 134 Stat. 4170; Pub. L. 117–81, div. A, title XVII, § 1701(b)(4)(F), (d)(4), Dec. 27, 2021, 135 Stat. 2133, 2136.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (a) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1811(e)(2)–(7), was based on Pub. L. 98–369, div. B, title VII, § 2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 99–500, § 101(c) [title X, § 924(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, § 101(c) [title X, § 924(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title IX, formerly title IV, § 924(a), Nov. 14, 1986, 100 Stat. 3932, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title VIII, § 802(a)–(c), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–355, title I, § 1011, 1012, title IV, § 4401(b), Oct. 13, 1994, 108 Stat. 3254, 3255, 3347; Pub. L. 104–106, div. D, title XLII, § 4202(a)(2), Feb. 10, 1996, 110 Stat. 653; Pub. L. 114–328, div. A, title VIII, § 825(a), Dec. 23, 2016, 130 Stat. 2279; Pub. L. 115–232, div. A, title VIII, § 836(c)(3)(A), Aug. 13, 2018, 132 Stat. 1864.
+The text of subsec. (a) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1811(e)(2)–(7), was based on Pub. L. 98–369, div. B, title VII, § 2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 99–500, § 101(c) [title X, § 924(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, § 101(c) [title X, § 924(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title IX, formerly title IV, § 924(a), Nov. 14, 1986, 100 Stat. 3932, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title VIII, § 802(a)–(c), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–355, title I, § 1011, 1012, title IV, § 4401(b), Oct. 13, 1994, 108 Stat. 3254, 3255, 3347; Pub. L. 104–106, div. D, title XLII, § 4202(a)(2), Feb. 10, 1996, 110 Stat. 653; Pub. L. 114–328, div. A, title VIII, § 825(a), Dec. 23, 2016, 130 Stat. 2279; Pub. L. 115–232, div. A, title VIII, § 836(c)(3)(A), Aug. 13, 2018, 132 Stat. 1864.
 
 **Prior Provisions**
 
-A prior section 3206, act Aug. 10, 1956, ch. 1041, 70A Stat. 173; Pub. L. 85–155, title I, § 101(4), Aug. 21, 1957, 71 Stat. 376; Pub. L. 90–130, § 1(9)(A), (B), Nov. 8, 1967, 81 Stat. 375, prescribed authorized strength of Regular Army Nurse Corps in commissioned officers on active list of Regular Army, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
+A prior section 3206, act Aug. 10, 1956, ch. 1041, 70A Stat. 173; Pub. L. 85–155, title I, § 101(4), Aug. 21, 1957, 71 Stat. 376; Pub. L. 90–130, § 1(9)(A), (B), Nov. 8, 1967, 81 Stat. 375, prescribed authorized strength of Regular Army Nurse Corps in commissioned officers on active list of Regular Army, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1811(e)(2), transferred subsec. (a) of section 2305 of this title to this section and redesignated pars. (2) to (5) thereof as subsecs. (b) to (e), respectively.
+2021—Pub. L. 116–283, § 1811(e)(2), transferred subsec. (a) of section 2305 of this title to this section and redesignated pars. (2) to (5) thereof as subsecs. (b) to (e), respectively.
 
-Subsec. (a). Pub. L. 116–283, § 1811(e)(3)(A), (E)(i), inserted heading and redesignated subpars. (A) to (C) of par. (1) as pars. (1) to (3), respectively.
+Subsec. (a). Pub. L. 116–283, § 1811(e)(3)(A), (E)(i), inserted heading and redesignated subpars. (A) to (C) of par. (1) as pars. (1) to (3), respectively.
 
-Subsec. (a)(1). Pub. L. 116–283, § 1811(e)(3)(E), as amended by Pub. L. 117–81, § 1701(b)(4)(F), redesignated par. (1)(A) as (1), inserted heading, redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and realigned margins.
+Subsec. (a)(1). Pub. L. 116–283, § 1811(e)(3)(E), as amended by Pub. L. 117–81, § 1701(b)(4)(F), redesignated par. (1)(A) as (1), inserted heading, redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and realigned margins.
 
-Subsec. (a)(2). Pub. L. 116–283, § 1811(e)(3)(A), (B), (D), redesignated par. (1)(B) as (2), inserted heading, and realigned margin, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and substituted “chapter 137 legacy provisions” for “this chapter” in introductory provisions and in subpar. (A). Former par. (2) redesignated subsec. (b).
+Subsec. (a)(2). Pub. L. 116–283, § 1811(e)(3)(A), (B), (D), redesignated par. (1)(B) as (2), inserted heading, and realigned margin, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and substituted “chapter 137 legacy provisions” for “this chapter” in introductory provisions and in subpar. (A). Former par. (2) redesignated subsec. (b).
 
-Subsec. (a)(3). Pub. L. 117–81, § 1701(d)(4), substituted “paragraphs (1) and (2)” for “subparagraphs (A) and (B)” in introductory provisions.
+Subsec. (a)(3). Pub. L. 117–81, § 1701(d)(4), substituted “paragraphs (1) and (2)” for “subparagraphs (A) and (B)” in introductory provisions.
 
-Pub. L. 116–283, § 1811(e)(3)(A), (C), (D), as amended by Pub. L. 117–81, § 1701(b)(4)(F), redesignated par. (1)(C) as (3), inserted heading, and realigned margin and redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively. Former par. (3) redesignated subsec. (c).
+Pub. L. 116–283, § 1811(e)(3)(A), (C), (D), as amended by Pub. L. 117–81, § 1701(b)(4)(F), redesignated par. (1)(C) as (3), inserted heading, and realigned margin and redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively. Former par. (3) redesignated subsec. (c).
 
-Subsec. (b). Pub. L. 116–283, § 1811(e)(2), (4), redesignated subsec. (a)(2) as (b), inserted heading, and substituted “subsection (a)” for “paragraph (1)” in introductory provisions, redesignated subpar. (A) and its cls. (i) and (ii) as par. (1) and subpars. (A) and (B), respectively, and redesignated subpar. (B), its cls. (i) and (ii), and each of their subcls. (I) and (II) as par. (2), subpars. (A) and (B), and cls. (i) and (ii), respectively.
+Subsec. (b). Pub. L. 116–283, § 1811(e)(2), (4), redesignated subsec. (a)(2) as (b), inserted heading, and substituted “subsection (a)” for “paragraph (1)” in introductory provisions, redesignated subpar. (A) and its cls. (i) and (ii) as par. (1) and subpars. (A) and (B), respectively, and redesignated subpar. (B), its cls. (i) and (ii), and each of their subcls. (I) and (II) as par. (2), subpars. (A) and (B), and cls. (i) and (ii), respectively.
 
-Subsec. (c). Pub. L. 116–283, § 1811(e)(2), (5)(A), (B), redesignated subsec. (a)(3) as (c), inserted heading, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, and realigned margins.
+Subsec. (c). Pub. L. 116–283, § 1811(e)(2), (5)(A), (B), redesignated subsec. (a)(3) as (c), inserted heading, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, and realigned margins.
 
-Subsec. (c)(1). Pub. L. 116–283, § 1811(e)(5)(A), (C), inserted heading, substituted “paragraph (3)” for “subparagraph (C)” in two places, redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and, in subpar. (C) as redesignated, redesignated subcls. (I) to (III) as cls. (i) to (iii), respectively.
+Subsec. (c)(1). Pub. L. 116–283, § 1811(e)(5)(A), (C), inserted heading, substituted “paragraph (3)” for “subparagraph (C)” in two places, redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and, in subpar. (C) as redesignated, redesignated subcls. (I) to (III) as cls. (i) to (iii), respectively.
 
-Subsec. (c)(2). Pub. L. 116–283, § 1811(e)(5)(B), (D), redesignated par. (3)(B) as (2), inserted heading, and substituted “paragraph (1)(C)” for “clause (iii) of subparagraph (A)”.
+Subsec. (c)(2). Pub. L. 116–283, § 1811(e)(5)(B), (D), redesignated par. (3)(B) as (2), inserted heading, and substituted “paragraph (1)(C)” for “clause (iii) of subparagraph (A)”.
 
-Subsec. (c)(3). Pub. L. 116–283, § 1811(e)(5)(B), (E), redesignated par. (3)(C) as (3), inserted heading, and substituted “section 3403(d)(1)(B)” for “section 2304a(d)(1)(B)” in introductory provisions; redesignated cl. (i) as subpar. (A) and substituted “paragraph (1)(B)” for “clause (ii) of subparagraph (A)”; and redesignated cl. (ii) and its subcls. (I) and (II) as subpar. (B) and cls. (i) and (ii), respectively, and substituted “subparagraph (A)” for “clause (i)” in introductory provisions, “paragraph (1)(C)” for “clause (iii) of subparagraph (A)” in cl. (i), and “section 3406(c)” for “section 2304c(b)” in cl. (ii).
+Subsec. (c)(3). Pub. L. 116–283, § 1811(e)(5)(B), (E), redesignated par. (3)(C) as (3), inserted heading, and substituted “section 3403(d)(1)(B)” for “section 2304a(d)(1)(B)” in introductory provisions; redesignated cl. (i) as subpar. (A) and substituted “paragraph (1)(B)” for “clause (ii) of subparagraph (A)”; and redesignated cl. (ii) and its subcls. (I) and (II) as subpar. (B) and cls. (i) and (ii), respectively, and substituted “subparagraph (A)” for “clause (i)” in introductory provisions, “paragraph (1)(C)” for “clause (iii) of subparagraph (A)” in cl. (i), and “section 3406(c)” for “section 2304c(b)” in cl. (ii).
 
-Subsec. (c)(4). Pub. L. 116–283, § 1811(e)(5)(B), (F), redesignated par. (3)(D) as (4), inserted heading, substituted “paragraph (3)” for “subparagraph (C)” in introductory provisions, and redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively.
+Subsec. (c)(4). Pub. L. 116–283, § 1811(e)(5)(B), (F), redesignated par. (3)(D) as (4), inserted heading, substituted “paragraph (3)” for “subparagraph (C)” in introductory provisions, and redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively.
 
-Subsec. (c)(5). Pub. L. 116–283, § 1811(e)(5)(B), (G), redesignated par. (3)(E) as (5), inserted heading, and substituted “Paragraph (3)” for “Subparagraph (C)”.
+Subsec. (c)(5). Pub. L. 116–283, § 1811(e)(5)(B), (G), redesignated par. (3)(E) as (5), inserted heading, and substituted “Paragraph (3)” for “Subparagraph (C)”.
 
-Subsec. (d). Pub. L. 116–283, § 1811(e)(2), (6), redesignated subsec. (a)(4) as (d), inserted heading, substituted “this section” for “this subsection” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+Subsec. (d). Pub. L. 116–283, § 1811(e)(2), (6), redesignated subsec. (a)(4) as (d), inserted heading, substituted “this section” for “this subsection” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
-Subsec. (e). Pub. L. 116–283, § 1811(e)(2), (7), redesignated subsec. (a)(5) as (e) and inserted heading.
+Subsec. (e). Pub. L. 116–283, § 1811(e)(2), (7), redesignated subsec. (a)(5) as (e) and inserted heading.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1289,7 +1289,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **Balancing Security and Innovation in Software Development and Acquisition**
 
-Pub. L. 116–283, div. A, title VIII, § 835, Jan. 1, 2021, 134 Stat. 3755, provided that:
+Pub. L. 116–283, div. A, title VIII, § 835, Jan. 1, 2021, 134 Stat. 3755, provided that:
 
 > **“(a) Requirements for Solicitations of Commercial and Developmental Solutions.—** The Under Secretary of Defense for Acquisition and Sustainment, in coordination with the Chief Information Officer of the Department of Defense, shall develop requirements for appropriate software security criteria to be included in solicitations for commercial and developmental solutions and the evaluation of bids submitted in response to such solicitations, including a delineation of what processes were or will be used for a secure software development life cycle. Such requirements shall include—
 
@@ -1313,9 +1313,9 @@ Pub. L. 116–283, div. A, title VIII, § 835, Jan. 1, 2021, 134 Stat. 3755, p
 
 **Pilot Program To Use Alpha Contracting Teams for Complex Requirements**
 
-Pub. L. 116–92, div. A, title VIII, § 802, Dec. 20, 2019, 133 Stat. 1483, which required the Secretary of Defense to select initiatives to participate in a pilot program to use teams that focused on the development of complex contract technical requirements for services, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(4)(B), Dec. 18, 2025, 139 Stat. 948.
+Pub. L. 116–92, div. A, title VIII, § 802, Dec. 20, 2019, 133 Stat. 1483, which required the Secretary of Defense to select initiatives to participate in a pilot program to use teams that focused on the development of complex contract technical requirements for services, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(4)(B), Dec. 18, 2025, 139 Stat. 948.
 
-## § 3207. Assessment before contract for acquisition of supplies is entered into
+## § 3207. Assessment before contract for acquisition of supplies is entered into
 
 The Secretary of Defense shall ensure that before a contract for the delivery of supplies to the Department of Defense is entered into—
 
@@ -1327,21 +1327,21 @@ The Secretary of Defense shall ensure that before a contract for the delivery of
 
 **(2)** there is a review of both the procurement history of the item and a description of the item, including, when necessary for an adequate description of the item, a picture, drawing, diagram, or other graphic representation of the item.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1811(f), Jan. 1, 2021, 134 Stat. 4173.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1811(f), Jan. 1, 2021, 134 Stat. 4173.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (c) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1811(f)(2), was based on Pub. L. 98–525, title XII, § 1213(a), Oct. 19, 1984, 98 Stat. 2591.
+The text of subsec. (c) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1811(f)(2), was based on Pub. L. 98–525, title XII, § 1213(a), Oct. 19, 1984, 98 Stat. 2591.
 
 **Prior Provisions**
 
-A prior section 3207, act Aug. 10, 1956, ch. 1041, 70A Stat. 173; Pub. L. 85–155, title I, § 101(5), Aug. 21, 1957, 71 Stat. 376; Pub. L. 90–130, § 1(9)(C), (D), Nov. 8, 1967, 81 Stat. 375, prescribed authorized strength of Army Medical Specialist Corps in commissioned officers on active list of Regular Army, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
+A prior section 3207, act Aug. 10, 1956, ch. 1041, 70A Stat. 173; Pub. L. 85–155, title I, § 101(5), Aug. 21, 1957, 71 Stat. 376; Pub. L. 90–130, § 1(9)(C), (D), Nov. 8, 1967, 81 Stat. 375, prescribed authorized strength of Army Medical Specialist Corps in commissioned officers on active list of Regular Army, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1811(f)(2), transferred subsec. (c) of section 2305 of this title to this section and struck out subsec. (c) designation at beginning.
+2021—Pub. L. 116–283, § 1811(f)(2), transferred subsec. (c) of section 2305 of this title to this section and struck out subsec. (c) designation at beginning.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1351,7 +1351,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **Establishing Biobased Product Merit Guidance**
 
-Pub. L. 119–60, div. A, title II, § 248, Dec. 18, 2025, 139 Stat. 799, provided that:
+Pub. L. 119–60, div. A, title II, § 248, Dec. 18, 2025, 139 Stat. 799, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Under Secretary of Defense for Research and Engineering, in coordination with the Secretaries of the military departments, shall develop and make publicly available guidance for private entities on how such entities can effectively demonstrate, validate, and verify that a biobased product of such entity provides capabilities meeting the requirements of the Department of Defense.
 
@@ -1373,7 +1373,7 @@ Pub. L. 119–60, div. A, title II, § 248, Dec. 18, 2025, 139 Stat. 799, prov
 
 **Process for Enhanced Supply Chain Scrutiny**
 
-Pub. L. 115–91, div. A, title VIII, § 807, Dec. 12, 2017, 131 Stat. 1456, provided that:
+Pub. L. 115–91, div. A, title VIII, § 807, Dec. 12, 2017, 131 Stat. 1456, provided that:
 
 > **“(a) Process.—** Not later than 90 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall establish a process for enhancing scrutiny of acquisition decisions in order to improve the integration of supply chain risk management into the overall acquisition decision cycle.
 
@@ -1409,7 +1409,7 @@ Pub. L. 115–91, div. A, title VIII, § 807, Dec. 12, 2017, 131 Stat. 1456, p
 
 > **“(5)** Projected resource needs for implementing any recommendations made by the Secretary.”
 
-## § 3208. Planning for future competition in contracts for major systems
+## § 3208. Planning for future competition in contracts for major systems
 
 **(a) Development Contract.—**
 
@@ -1443,55 +1443,55 @@ Pub. L. 115–91, div. A, title VIII, § 807, Dec. 12, 2017, 131 Stat. 1456, p
 
 **(2) Evaluation.—** In considering offers in response to a solicitation requiring proposals described in subsection (a)(2) or (b)(2), the head of an agency shall base any evaluation of items developed exclusively at private expense on an analysis of the total value, in terms of innovative design, life-cycle costs, and other pertinent factors, of incorporating such items in the system.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1811(g), Jan. 1, 2021, 134 Stat. 4173.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1811(g), Jan. 1, 2021, 134 Stat. 4173.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (d) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1811(g)(2)–(6) was based on Pub. L. 98–525, title XII, § 1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 100–456, div. A, title VIII, § 806, Sept. 29, 1988, 102 Stat. 2010.
+The text of subsec. (d) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1811(g)(2)–(6) was based on Pub. L. 98–525, title XII, § 1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 100–456, div. A, title VIII, § 806, Sept. 29, 1988, 102 Stat. 2010.
 
 **Prior Provisions**
 
-A prior section 3209, act Aug. 10, 1956, ch. 1041, 70A Stat. 174; Pub. L. 85–861, § 1(60), Sept. 2, 1958, 72 Stat. 1462; Pub. L. 90–130, § 1(9)(E), Nov. 8, 1967, 81 Stat. 375; Pub. L. 95–485, title VIII, § 820(c)(1), (2), Oct. 20, 1978, 92 Stat. 1627, prescribed, with exception of Army Nurse Corps and Army Medical Specialist Corps, the authorized strength of each branch in commissioned officers on active list of Regular Army, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
+A prior section 3209, act Aug. 10, 1956, ch. 1041, 70A Stat. 174; Pub. L. 85–861, § 1(60), Sept. 2, 1958, 72 Stat. 1462; Pub. L. 90–130, § 1(9)(E), Nov. 8, 1967, 81 Stat. 375; Pub. L. 95–485, title VIII, § 820(c)(1), (2), Oct. 20, 1978, 92 Stat. 1627, prescribed, with exception of Army Nurse Corps and Army Medical Specialist Corps, the authorized strength of each branch in commissioned officers on active list of Regular Army, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 
 A prior section 3210 was renumbered section 7110 of this title.
 
-A prior section 3211, acts Aug. 10, 1956, ch. 1041, 70A Stat. 175; Sept. 2, 1958, Pub. L. 85–861, § 1(67), 72 Stat. 1463; Nov. 8, 1967, Pub. L. 90–130, § 1(9)(F), 81 Stat. 375, prescribed authorized strength of Regular Army in officers in each regular grade on promotion lists set forth in section 3296 of this title, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981. See section 521 et seq. of this title.
+A prior section 3211, acts Aug. 10, 1956, ch. 1041, 70A Stat. 175; Sept. 2, 1958, Pub. L. 85–861, § 1(67), 72 Stat. 1463; Nov. 8, 1967, Pub. L. 90–130, § 1(9)(F), 81 Stat. 375, prescribed authorized strength of Regular Army in officers in each regular grade on promotion lists set forth in section 3296 of this title, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981. See section 521 et seq. of this title.
 
-A prior section 3212, acts Aug. 10, 1956, ch. 1041, 70A Stat. 175; Sept. 2, 1958, Pub. L. 85–861, § 1(68), 72 Stat. 1463; June 30, 1960, Pub. L. 86–559, § 1(6), 74 Stat. 265; Nov. 8, 1967, Pub. L. 90–130, § 1(9)(G), 81 Stat. 375; Dec. 12, 1980, Pub. L. 96–513, title V, § 502(6), 94 Stat. 2909, related to temporary increases in authorized strength in grades of Army Reserve and Army National Guard of United States, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12009 of this title.
+A prior section 3212, acts Aug. 10, 1956, ch. 1041, 70A Stat. 175; Sept. 2, 1958, Pub. L. 85–861, § 1(68), 72 Stat. 1463; June 30, 1960, Pub. L. 86–559, § 1(6), 74 Stat. 265; Nov. 8, 1967, Pub. L. 90–130, § 1(9)(G), 81 Stat. 375; Dec. 12, 1980, Pub. L. 96–513, title V, § 502(6), 94 Stat. 2909, related to temporary increases in authorized strength in grades of Army Reserve and Army National Guard of United States, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12009 of this title.
 
-Prior sections 3213 and 3214 were repealed by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
+Prior sections 3213 and 3214 were repealed by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 
 Section 3213, act Aug. 10, 1956, ch. 1041, 70A Stat. 176, prescribed authorized strength of Regular Army in warrant officers on active list.
 
-Section 3214, acts Aug. 10, 1956, ch. 1041, 70A Stat. 176; Sept. 2, 1958, Pub. L. 85–861, § 1(64), 72 Stat. 1463, prescribed authorized strength of Regular Army in enlisted members on active duty, exclusive of officer candidates.
+Section 3214, acts Aug. 10, 1956, ch. 1041, 70A Stat. 176; Sept. 2, 1958, Pub. L. 85–861, § 1(64), 72 Stat. 1463, prescribed authorized strength of Regular Army in enlisted members on active duty, exclusive of officer candidates.
 
-A prior section 3215, acts Aug. 10, 1956, ch. 1041, 70A Stat. 176; Nov. 8, 1967, Pub. L. 90–130, § 1(9)(H), 81 Stat. 375, authorized strength of Women’s Army Corps of Regular Army in warrant officers on active list and in enlisted members on active duty to be prescribed by Secretary, prior to repeal by Pub. L. 95–485, title VIII, § 820(c)(3), Oct. 20, 1978, 92 Stat. 1627.
+A prior section 3215, acts Aug. 10, 1956, ch. 1041, 70A Stat. 176; Nov. 8, 1967, Pub. L. 90–130, § 1(9)(H), 81 Stat. 375, authorized strength of Women’s Army Corps of Regular Army in warrant officers on active list and in enlisted members on active duty to be prescribed by Secretary, prior to repeal by Pub. L. 95–485, title VIII, § 820(c)(3), Oct. 20, 1978, 92 Stat. 1627.
 
-A prior section 3216, act Aug. 10, 1956, ch. 1041, 70A Stat. 176, prescribed authorized strength of Corps of Engineers in enlisted members on active duty, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
+A prior section 3216, act Aug. 10, 1956, ch. 1041, 70A Stat. 176, prescribed authorized strength of Corps of Engineers in enlisted members on active duty, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 
-Prior sections 3217 to 3220 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994.
+Prior sections 3217 to 3220 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994.
 
-Section 3217, added Pub. L. 85–861, § 1(69)(A), Sept. 2, 1958, 72 Stat. 1463, related to authorized strength of Army in reserve commissioned officers in active status. See section 12003 of this title.
+Section 3217, added Pub. L. 85–861, § 1(69)(A), Sept. 2, 1958, 72 Stat. 1463, related to authorized strength of Army in reserve commissioned officers in active status. See section 12003 of this title.
 
-Section 3218, added Pub. L. 85–861, § 1(69)(A), Sept. 2, 1958, 72 Stat. 1463; amended Pub. L. 96–107, title III, § 302(a), Nov. 9, 1979, 93 Stat. 806; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 102–190, div. A, title X, § 1061(a)(20)(B), Dec. 5, 1991, 105 Stat. 1473, related to authorized strength of Army in reserve general officers in active status. See section 12004 of this title.
+Section 3218, added Pub. L. 85–861, § 1(69)(A), Sept. 2, 1958, 72 Stat. 1463; amended Pub. L. 96–107, title III, § 302(a), Nov. 9, 1979, 93 Stat. 806; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 102–190, div. A, title X, § 1061(a)(20)(B), Dec. 5, 1991, 105 Stat. 1473, related to authorized strength of Army in reserve general officers in active status. See section 12004 of this title.
 
-Section 3219, added Pub. L. 85–861, § 1(69)(A), Sept. 2, 1958, 72 Stat. 1464, related to authorized strength of Army in reserve commissioned officers in active status in grades below brigadier general. See section 12005(a) of this title.
+Section 3219, added Pub. L. 85–861, § 1(69)(A), Sept. 2, 1958, 72 Stat. 1464, related to authorized strength of Army in reserve commissioned officers in active status in grades below brigadier general. See section 12005(a) of this title.
 
-Section 3220, added Pub. L. 85–861, § 1(69)(A), Sept. 2, 1958, 72 Stat. 1464; amended Pub. L. 95–485, title VIII, § 820(c)(4), Oct. 20, 1978, 92 Stat. 1627, related to distribution of reserve commissioned officers by Secretary of the Army. See section 12007 of this title.
+Section 3220, added Pub. L. 85–861, § 1(69)(A), Sept. 2, 1958, 72 Stat. 1464; amended Pub. L. 95–485, title VIII, § 820(c)(4), Oct. 20, 1978, 92 Stat. 1627, related to distribution of reserve commissioned officers by Secretary of the Army. See section 12007 of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1811(g)(2), redesignated subsec. (d) of section 2305 of this title as subsec. (a) of this section and redesignated pars. (2) to (4) thereof as subsecs. (b) to (d), respectively.
+2021—Pub. L. 116–283, § 1811(g)(2), redesignated subsec. (d) of section 2305 of this title as subsec. (a) of this section and redesignated pars. (2) to (4) thereof as subsecs. (b) to (d), respectively.
 
-Subsec. (a). Pub. L. 116–283, § 1811(g)(3), inserted subsec. heading, redesignated par. (1)(A) as (1), inserted par. heading, and substituted “paragraph (2)” for “subparagraph (B)”, and redesignated par. (1)(B) and its cls. (i) and (ii) as par. (2) and subpars. (A) and (B), respectively, inserted par. heading, and substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions.
+Subsec. (a). Pub. L. 116–283, § 1811(g)(3), inserted subsec. heading, redesignated par. (1)(A) as (1), inserted par. heading, and substituted “paragraph (2)” for “subparagraph (B)”, and redesignated par. (1)(B) and its cls. (i) and (ii) as par. (2) and subpars. (A) and (B), respectively, inserted par. heading, and substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions.
 
-Subsec. (b). Pub. L. 116–283, § 1811(g)(2), (4), redesignated subsec. (a)(2) as (b), inserted subsec. heading, redesignated subpar. (A) as par. (1), inserted par. heading, and substituted “paragraph (2)” for “subparagraph (B)”, and redesignated subpar. (B) and its cls. (i) and (ii) as par. (2) and subpars. (A) and (B), respectively, inserted par. heading, and substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions.
+Subsec. (b). Pub. L. 116–283, § 1811(g)(2), (4), redesignated subsec. (a)(2) as (b), inserted subsec. heading, redesignated subpar. (A) as par. (1), inserted par. heading, and substituted “paragraph (2)” for “subparagraph (B)”, and redesignated subpar. (B) and its cls. (i) and (ii) as par. (2) and subpars. (A) and (B), respectively, inserted par. heading, and substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions.
 
-Subsec. (c). Pub. L. 116–283, § 1811(g)(2), (5), redesignated subsec. (a)(3) as (c), inserted heading, and substituted “subsections (a) and (b)” for “paragraphs (1) and (2)”.
+Subsec. (c). Pub. L. 116–283, § 1811(g)(2), (5), redesignated subsec. (a)(3) as (c), inserted heading, and substituted “subsections (a) and (b)” for “paragraphs (1) and (2)”.
 
-Subsec. (d). Pub. L. 116–283, § 1811(g)(2), (6), redesignated subsec. (a)(4) as (d), inserted subsec. heading, and substituted “subsection (a)(2) or (b)(2)” for “paragraph (1)(B) or (2)(B)” in introductory provisions; redesignated subpar. (A) and its cls. (i) and (ii) as par. (1) and subpars. (A) and (B), respectively, inserted par. heading, and realigned margins; and redesignated subpar. (B) as par. (2), inserted heading, realigned margin, and substituted “subsection (a)(2) or (b)(2)” for “paragraph (1)(B) or (2)(B)”.
+Subsec. (d). Pub. L. 116–283, § 1811(g)(2), (6), redesignated subsec. (a)(4) as (d), inserted subsec. heading, and substituted “subsection (a)(2) or (b)(2)” for “paragraph (1)(B) or (2)(B)” in introductory provisions; redesignated subpar. (A) and its cls. (i) and (ii) as par. (1) and subpars. (A) and (B), respectively, inserted par. heading, and realigned margins; and redesignated subpar. (B) as par. (2), inserted heading, realigned margin, and substituted “subsection (a)(2) or (b)(2)” for “paragraph (1)(B) or (2)(B)”.
 
 **Statutory Notes and Related Subsidiaries**
 

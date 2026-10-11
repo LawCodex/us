@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 7(a)(2), Sept. 16, 2011, 125 Stat. 313, amended item 6 generally, substituting “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
+2011—Pub. L. 112–29, § 7(a)(2), Sept. 16, 2011, 125 Stat. 313, amended item 6 generally, substituting “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
 
-2002—Pub. L. 107–273, div. C, title III, § 13205(2)(D), Nov. 2, 2002, 116 Stat. 1903, made technical correction to directory language of Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4507(4)], Nov. 29, 1999, 113 Stat. 1536, 1501A–566. See 1999 Amendment note below.
+2002—Pub. L. 107–273, div. C, title III, § 13205(2)(D), Nov. 2, 2002, 116 Stat. 1903, made technical correction to directory language of Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4507(4)], Nov. 29, 1999, 113 Stat. 1536, 1501A–566. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(4)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, amended analysis generally, substituting “OFFICERS AND EMPLOYEES” for “OFFICERS” in chapter heading, substituting “Powers and duties” for “Seal” in item 2, adding item 5, renumbering items 7 to 14 as 6 to 13, respectively, striking out former item 6, “Duties of Commissioner”, and inserting “and applications” after “patents” in items 11 and 12.
+1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(4)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, amended analysis generally, substituting “OFFICERS AND EMPLOYEES” for “OFFICERS” in chapter heading, substituting “Powers and duties” for “Seal” in item 2, adding item 5, renumbering items 7 to 14 as 6 to 13, respectively, striking out former item 6, “Duties of Commissioner”, and inserting “and applications” after “patents” in items 11 and 12.
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4507(4), 4508], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, as amended by Pub. L. 107–273, div. C, title III, § 13205(2)(D), Nov. 2, 2002, 116 Stat. 1903, which directed the insertion of “and applications” after “patents” in items 11 and 12, effective 1 year after Nov. 29, 1999, was not executed in either item to reflect the probable intent of Congress. See above.
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4507(4), 4508], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, as amended by Pub. L. 107–273, div. C, title III, § 13205(2)(D), Nov. 2, 2002, 116 Stat. 1903, which directed the insertion of “and applications” after “patents” in items 11 and 12, effective 1 year after Nov. 29, 1999, was not executed in either item to reflect the probable intent of Congress. See above.
 
-1984—Pub. L. 98–622, title II, § 201(b), Nov. 8, 1984, 98 Stat. 3386, substituted “Patent Appeals and Interferences” for “Appeals” in item 7.
+1984—Pub. L. 98–622, title II, § 201(b), Nov. 8, 1984, 98 Stat. 3386, substituted “Patent Appeals and Interferences” for “Appeals” in item 7.
 
-1972—Pub. L. 92–310, title II, § 208(b), June 6, 1972, 86 Stat. 203, struck out item 5 “Bond of Commissioner and other officers”.
+1972—Pub. L. 92–310, title II, § 208(b), June 6, 1972, 86 Stat. 203, struck out item 5 “Bond of Commissioner and other officers”.
 
-## § 1. Establishment
+## § 1. Establishment
 
 **(a) Establishment.—** The United States Patent and Trademark Office is established as an agency of the United States, within the Department of Commerce. In carrying out its functions, the United States Patent and Trademark Office shall be subject to the policy direction of the Secretary of Commerce, but otherwise shall retain responsibility for decisions regarding the management and administration of its operations and shall exercise independent control of its budget allocations and expenditures, personnel decisions and processes, procurements, and other administrative and management functions in accordance with this title and applicable provisions of law. Those operations designed to grant and issue patents and those operations which are designed to facilitate the registration of trademarks shall be treated as separate operating units within the Office.
 
@@ -39,11 +39,11 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4507(4), 4508], Nov
 
 **(c) Reference.—** For purposes of this title, the United States Patent and Trademark Office shall also be referred to as the “Office” and the “Patent and Trademark Office”.
 
-(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4711], Nov. 29, 1999, 113 Stat. 1536, 1501A–572.)
+(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4711], Nov. 29, 1999, 113 Stat. 1536, 1501A–572.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 1 (R.S. 475 and Executive Order 4175, Mar. 17, 1925).
+Based on Title 35, U.S.C., 1946 ed., § 1 (R.S. 475 and Executive Order 4175, Mar. 17, 1925).
 
 The word “all” is omitted from the corresponding section of the existing statute and “except as otherwise provided by law” added, since some old records are kept in the National Archives, see 44 U.S.C., 1946 ed., ch. 8A.
 
@@ -63,15 +63,15 @@ The phrase “and to trade-mark registrations” is added. There is no enactment
 
 **Change of Name**
 
-Pub. L. 93–596, § 3, Jan. 2, 1975, 88 Stat. 1949, provided that: “The terms ‘Patent Office’ and ‘Commissioner of Patents’ in all laws of the United States shall mean ‘Patent and Trademark Office’ and ‘Commissioner of Patents and Trademarks’, respectively.”
+Pub. L. 93–596, § 3, Jan. 2, 1975, 88 Stat. 1949, provided that: “The terms ‘Patent Office’ and ‘Commissioner of Patents’ in all laws of the United States shall mean ‘Patent and Trademark Office’ and ‘Commissioner of Patents and Trademarks’, respectively.”
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–29, § 35, Sept. 16, 2011, 125 Stat. 341, provided that: “Except as otherwise provided in this Act [see Short Title of 2011 Amendment note below], the provisions of this Act shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent issued on or after that effective date.”
+Pub. L. 112–29, § 35, Sept. 16, 2011, 125 Stat. 341, provided that: “Except as otherwise provided in this Act [see Short Title of 2011 Amendment note below], the provisions of this Act shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent issued on or after that effective date.”
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle G, § 4731], Nov. 29, 1999, 113 Stat. 1536, 1501A–581, provided that: “This subtitle [see Tables for classification] and the amendments made by this subtitle shall take effect 4 months after the date of the enactment of this Act [Nov. 29, 1999].”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle G, § 4731], Nov. 29, 1999, 113 Stat. 1536, 1501A–581, provided that: “This subtitle [see Tables for classification] and the amendments made by this subtitle shall take effect 4 months after the date of the enactment of this Act [Nov. 29, 1999].”
 
 **Effective Date of 1975 Amendment**
 
@@ -79,69 +79,69 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–328, div. W, § 101, Dec. 29, 2022, 136 Stat. 5518, provided that: “This division [amending sections 41 and 123 of this title, enacting provisions set out as notes under this section and sections 2 and 131 of this title, and amending provisions set out as notes under this section and section 41 of this title] may be cited as the ‘Unleashing American Innovators Act of 2022’.”
+Pub. L. 117–328, div. W, § 101, Dec. 29, 2022, 136 Stat. 5518, provided that: “This division [amending sections 41 and 123 of this title, enacting provisions set out as notes under this section and sections 2 and 131 of this title, and amending provisions set out as notes under this section and section 41 of this title] may be cited as the ‘Unleashing American Innovators Act of 2022’.”
 
-Pub. L. 117–245, § 1, Dec. 20, 2022, 136 Stat. 2343, provided that: “This Act [enacting section 28 of this title and provisions set out as a note under section 28 of this title] may be cited as the ‘Patents for Humanity Act of 2022’.”
+Pub. L. 117–245, § 1, Dec. 20, 2022, 136 Stat. 2343, provided that: “This Act [enacting section 28 of this title and provisions set out as a note under section 28 of this title] may be cited as the ‘Patents for Humanity Act of 2022’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–273, § 1, Oct. 31, 2018, 132 Stat. 4158, provided that: “This Act [amending provisions set out as a note under section 41 of this title] may be cited as the ‘Study of Underrepresented Classes Chasing Engineering and Science Success Act of 2018’ or the ‘SUCCESS Act’.”
+Pub. L. 115–273, § 1, Oct. 31, 2018, 132 Stat. 4158, provided that: “This Act [amending provisions set out as a note under section 41 of this title] may be cited as the ‘Study of Underrepresented Classes Chasing Engineering and Science Success Act of 2018’ or the ‘SUCCESS Act’.”
 
 **Short Title of 2012 Amendment**
 
-Pub. L. 112–211, § 1, Dec. 18, 2012, 126 Stat. 1527, provided that: “This Act [enacting part V and sections 27 and 151 of this title, amending sections 41, 100, 102, 111, 115, 119, 120, 122, 133, 154, 171, 173, 261, 361, 364 to 366, and 371 of this title, repealing section 151 of this title, and enacting provisions set out as notes under sections 27 and 100 of this title] may be cited as the ‘Patent Law Treaties Implementation Act of 2012’.”
+Pub. L. 112–211, § 1, Dec. 18, 2012, 126 Stat. 1527, provided that: “This Act [enacting part V and sections 27 and 151 of this title, amending sections 41, 100, 102, 111, 115, 119, 120, 122, 133, 154, 171, 173, 261, 361, 364 to 366, and 371 of this title, repealing section 151 of this title, and enacting provisions set out as notes under sections 27 and 100 of this title] may be cited as the ‘Patent Law Treaties Implementation Act of 2012’.”
 
 **Short Title of 2011 Amendment**
 
-Pub. L. 112–29, § 1(a), Sept. 16, 2011, 125 Stat. 284, provided that: “This Act [enacting chapter 32 and sections 123, 257, 298, 299, and 319 of this title and section 1454 of Title 28, Judiciary and Judicial Procedure, amending sections 2, 3, 6, 12, 32, 41, 42, 100, 102 to 104, 111, 112, 115, 116, 118 to 123, 132, 134, 135, 141, 143, 145, 146, 154, 156, 157, 162, 172, 182 to 186, 202, 207, 209, 210, 251, 253, 256, 257, 267, 273, 282, 284, 287, 288, 291 to 294, 301 to 307, 311 to 318, 328, 363, 365, 368, and 371 to 375 of this title, section 1071 of Title 15, Commerce and Trade, sections 1295 and 1338 of Title 28, section 2182 of Title 42, The Public Health and Welfare, and section 20135 of Title 51, National and Commercial Space Programs, repealing sections 155 and 155A of this title, enacting provisions set out as notes under this section, sections 2, 6, 32, 41, 42, 100 to 102, 111, 119, 122, 156, 202, 257, 273, 287, 292, 301, 303, 306, 311, 312, and 321 of this title, section 1071 of Title 15, and section 1295 of Title 28, and amending provisions set out as a note under section 41 of this title] may be cited as the ‘Leahy-Smith America Invents Act’.”
+Pub. L. 112–29, § 1(a), Sept. 16, 2011, 125 Stat. 284, provided that: “This Act [enacting chapter 32 and sections 123, 257, 298, 299, and 319 of this title and section 1454 of Title 28, Judiciary and Judicial Procedure, amending sections 2, 3, 6, 12, 32, 41, 42, 100, 102 to 104, 111, 112, 115, 116, 118 to 123, 132, 134, 135, 141, 143, 145, 146, 154, 156, 157, 162, 172, 182 to 186, 202, 207, 209, 210, 251, 253, 256, 257, 267, 273, 282, 284, 287, 288, 291 to 294, 301 to 307, 311 to 318, 328, 363, 365, 368, and 371 to 375 of this title, section 1071 of Title 15, Commerce and Trade, sections 1295 and 1338 of Title 28, section 2182 of Title 42, The Public Health and Welfare, and section 20135 of Title 51, National and Commercial Space Programs, repealing sections 155 and 155A of this title, enacting provisions set out as notes under this section, sections 2, 6, 32, 41, 42, 100 to 102, 111, 119, 122, 156, 202, 257, 273, 287, 292, 301, 303, 306, 311, 312, and 321 of this title, section 1071 of Title 15, and section 1295 of Title 28, and amending provisions set out as a note under section 41 of this title] may be cited as the ‘Leahy-Smith America Invents Act’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–453, § 1, Dec. 10, 2004, 118 Stat. 3596, provided that: “This Act [amending section 103 of this title and enacting provisions set out as a note under section 103 of this title] may be cited as the ‘Cooperative Research and Technology Enhancement (CREATE) Act of 2004’.”
+Pub. L. 108–453, § 1, Dec. 10, 2004, 118 Stat. 3596, provided that: “This Act [amending section 103 of this title and enacting provisions set out as a note under section 103 of this title] may be cited as the ‘Cooperative Research and Technology Enhancement (CREATE) Act of 2004’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–273, div. C, title III, § 13201, Nov. 2, 2002, 116 Stat. 1901, provided that: “This subtitle [subtitle B (§§ 13201–13211) of title III of div. C of Pub. L. 107–273, see Tables for classification] may be cited as the ‘Intellectual Property and High Technology Technical Amendments Act of 2002’.”
+Pub. L. 107–273, div. C, title III, § 13201, Nov. 2, 2002, 116 Stat. 1901, provided that: “This subtitle [subtitle B (§§ 13201–13211) of title III of div. C of Pub. L. 107–273, see Tables for classification] may be cited as the ‘Intellectual Property and High Technology Technical Amendments Act of 2002’.”
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [§ 1(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–521, provided that: “This Act [S. 1948, as enacted by section 1000(a)(9) of Pub. L. 106–113, see Tables for classification] may be cited as the ‘Intellectual Property and Communications Omnibus Reform Act of 1999’.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [§ 1(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–521, provided that: “This Act [S. 1948, as enacted by section 1000(a)(9) of Pub. L. 106–113, see Tables for classification] may be cited as the ‘Intellectual Property and Communications Omnibus Reform Act of 1999’.”
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4001], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that: “This title [see Tables for classification] may be cited as the ‘American Inventors Protection Act of 1999’.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4001], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that: “This title [see Tables for classification] may be cited as the ‘American Inventors Protection Act of 1999’.”
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle A, § 4101], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that: “This subtitle [enacting section 297 of this title and provisions set out as a note under section 297 of this title] may be cited as the ‘Inventors’ Rights Act of 1999’.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle A, § 4101], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that: “This subtitle [enacting section 297 of this title and provisions set out as a note under section 297 of this title] may be cited as the ‘Inventors’ Rights Act of 1999’.”
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle B, § 4201], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, provided that: “This subtitle [amending sections 41 and 42 of this title and enacting provisions set out as notes under section 41 of this title and section 1113 of Title 15, Commerce and Trade] may be cited as the ‘Patent and Trademark Fee Fairness Act of 1999’.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle B, § 4201], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, provided that: “This subtitle [amending sections 41 and 42 of this title and enacting provisions set out as notes under section 41 of this title and section 1113 of Title 15, Commerce and Trade] may be cited as the ‘Patent and Trademark Fee Fairness Act of 1999’.”
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle C, § 4301], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, provided that: “This subtitle [enacting section 273 of this title and provisions set out as a note under section 273 of this title] may be cited as the ‘First Inventor Defense Act of 1999’.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle C, § 4301], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, provided that: “This subtitle [enacting section 273 of this title and provisions set out as a note under section 273 of this title] may be cited as the ‘First Inventor Defense Act of 1999’.”
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle D, § 4401], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, provided that: “This subtitle [amending sections 132, 154, 156, and 282 of this title and section 1295 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 132 and 154 of this title] may be cited as the ‘Patent Term Guarantee Act of 1999’.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle D, § 4401], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, provided that: “This subtitle [amending sections 132, 154, 156, and 282 of this title and section 1295 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 132 and 154 of this title] may be cited as the ‘Patent Term Guarantee Act of 1999’.”
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle E, § 4501], Nov. 29, 1999, 113 Stat. 1536, 1501A–561, provided that: “This subtitle [amending sections 11 to 13, 102, 119, 120, 122, 135, 154, 181, 252, 284, and 374 of this title and enacting provisions set out as notes under sections 11, 41, and 122 of this title] may be cited as the ‘Domestic Publication of Foreign Filed Patent Applications Act of 1999’.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle E, § 4501], Nov. 29, 1999, 113 Stat. 1536, 1501A–561, provided that: “This subtitle [amending sections 11 to 13, 102, 119, 120, 122, 135, 154, 181, 252, 284, and 374 of this title and enacting provisions set out as notes under sections 11, 41, and 122 of this title] may be cited as the ‘Domestic Publication of Foreign Filed Patent Applications Act of 1999’.”
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle F, § 4601], Nov. 29, 1999, 113 Stat. 1536, 1501A–567, provided that: “This subtitle [enacting chapter 31 of this title, amending sections 41, 100, 134, 141, 143, and 145 of this title, and enacting provisions set out as notes under sections 41, 311, and 315 of this title] may be cited as the ‘Optional Inter Partes Reexamination Procedure Act of 1999’.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle F, § 4601], Nov. 29, 1999, 113 Stat. 1536, 1501A–567, provided that: “This subtitle [enacting chapter 31 of this title, amending sections 41, 100, 134, 141, 143, and 145 of this title, and enacting provisions set out as notes under sections 41, 311, and 315 of this title] may be cited as the ‘Optional Inter Partes Reexamination Procedure Act of 1999’.”
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle G, § 4701], Nov. 29, 1999, 113 Stat. 1536, 1501A–572, provided that: “This subtitle [see Tables for classification] may be cited as the ‘Patent and Trademark Office Efficiency Act’.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle G, § 4701], Nov. 29, 1999, 113 Stat. 1536, 1501A–572, provided that: “This subtitle [see Tables for classification] may be cited as the ‘Patent and Trademark Office Efficiency Act’.”
 
 **Short Title of 1998 Amendments**
 
-Pub. L. 105–358, § 1, Nov. 10, 1998, 112 Stat. 3272, provided that: “This Act [amending sections 41 and 42 of this title and enacting provisions set out as a note under section 41 of this title] may be cited as the ‘United States Patent and Trademark Office Reauthorization Act, Fiscal Year 1999’.”
+Pub. L. 105–358, § 1, Nov. 10, 1998, 112 Stat. 3272, provided that: “This Act [amending sections 41 and 42 of this title and enacting provisions set out as a note under section 41 of this title] may be cited as the ‘United States Patent and Trademark Office Reauthorization Act, Fiscal Year 1999’.”
 
-Pub. L. 105–289, § 1, Oct. 27, 1998, 112 Stat. 2780, provided that: “This Act [amending section 163 of this title and enacting provisions set out as notes under sections 41 and 163 of this title] may be cited as the ‘Plant Patent Amendments Act of 1998’.”
+Pub. L. 105–289, § 1, Oct. 27, 1998, 112 Stat. 2780, provided that: “This Act [amending section 163 of this title and enacting provisions set out as notes under sections 41 and 163 of this title] may be cited as the ‘Plant Patent Amendments Act of 1998’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–418, § 9001, Aug. 23, 1988, 102 Stat. 1563, provided that: “This subtitle [subtitle A (§§ 9001–9007) of title IX of Pub. L. 100–418, enacting section 295 of this title, amending sections 154, 271, and 287 of this title, and enacting provisions set out as notes under section 271 of this title] may be cited as the ‘Process Patent Amendments Act of 1988’.”
+Pub. L. 100–418, § 9001, Aug. 23, 1988, 102 Stat. 1563, provided that: “This subtitle [subtitle A (§§ 9001–9007) of title IX of Pub. L. 100–418, enacting section 295 of this title, amending sections 154, 271, and 287 of this title, and enacting provisions set out as notes under section 271 of this title] may be cited as the ‘Process Patent Amendments Act of 1988’.”
 
-Pub. L. 100–418, title IX, § 9101(a), Aug. 23, 1988, 102 Stat. 1567, provided that: “This section [amending sections 184 to 186 of this title and enacting provisions set out as notes under section 184 of this title] may be cited as the ‘Patent Law Foreign Filing Amendments Act of 1988’.”
+Pub. L. 100–418, title IX, § 9101(a), Aug. 23, 1988, 102 Stat. 1567, provided that: “This section [amending sections 184 to 186 of this title and enacting provisions set out as notes under section 184 of this title] may be cited as the ‘Patent Law Foreign Filing Amendments Act of 1988’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–622, § 1, Nov. 8, 1984, 98 Stat. 3383, provided that: “This Act [enacting section 157 of this title, amending sections 3, 7, 41, 103, 104, 116, 120, 134, 135, 141, 145, 146, 271, 305, 351, 361, 362, 365 to 368, 371 to 373, and 376 of this title, section 1295 of Title 28, Judiciary and Judicial Procedure, and sections 2182 and 2457 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 7, 41, 103, 157, and 351 of this title] may be cited as the ‘Patent Law Amendments Act of 1984’.”
+Pub. L. 98–622, § 1, Nov. 8, 1984, 98 Stat. 3383, provided that: “This Act [enacting section 157 of this title, amending sections 3, 7, 41, 103, 104, 116, 120, 134, 135, 141, 145, 146, 271, 305, 351, 361, 362, 365 to 368, 371 to 373, and 376 of this title, section 1295 of Title 28, Judiciary and Judicial Procedure, and sections 2182 and 2457 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 7, 41, 103, 157, and 351 of this title] may be cited as the ‘Patent Law Amendments Act of 1984’.”
 
 **Transfer of Functions and Assets of Patent and Trademark Office**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle G, chapter 3], Nov. 29, 1999, 113 Stat. 1536, 1501A–585, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle G, chapter 3], Nov. 29, 1999, 113 Stat. 1536, 1501A–585, provided that:
 
 > **“SEC. 4741. REFERENCES.**
 
@@ -213,7 +213,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle G, chapter 3], No
 
 **Southeast Regional Office**
 
-Pub. L. 117–328, div. W, § 103(b), Dec. 29, 2022, 136 Stat. 5519, provided that:
+Pub. L. 117–328, div. W, § 103(b), Dec. 29, 2022, 136 Stat. 5519, provided that:
 
 > **“(1) In general.—** Not later than 3 years after the date of enactment of this Act [Dec. 29, 2022], the Director shall establish a satellite office of the Office in the southeast region of the United States.
 
@@ -229,7 +229,7 @@ Pub. L. 117–328, div. W, § 103(b), Dec. 29, 2022, 136 Stat. 5519, provided 
 
 **Community Outreach Offices**
 
-Pub. L. 117–328, div. W, § 104, Dec. 29, 2022, 136 Stat. 5519, provided that:
+Pub. L. 117–328, div. W, § 104, Dec. 29, 2022, 136 Stat. 5519, provided that:
 
 > **“(a) Establishment.—**
 
@@ -271,7 +271,7 @@ Pub. L. 117–328, div. W, § 104, Dec. 29, 2022, 136 Stat. 5519, provided tha
 
 **Satellite Offices**
 
-Pub. L. 112–29, § 23, Sept. 16, 2011, 125 Stat. 336, as amended by Pub. L. 117–328, div. W, § 103(a), Dec. 29, 2022, 136 Stat. 5518, provided that:
+Pub. L. 112–29, § 23, Sept. 16, 2011, 125 Stat. 336, as amended by Pub. L. 117–328, div. W, § 103(a), Dec. 29, 2022, 136 Stat. 5518, provided that:
 
 > **“(a) Establishment.—** Subject to available resources, the Director [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] shall, by not later than the date that is 3 years after the date of the enactment of this Act [Sept. 16, 2011], establish 3 or more satellite offices in the United States to carry out the responsibilities of the [United States Patent and Trademark] Office.
 
@@ -315,7 +315,7 @@ Pub. L. 112–29, § 23, Sept. 16, 2011, 125 Stat. 336, as amended by Pub. L. 
 
 **Designation of Detroit Satellite Office**
 
-Pub. L. 112–29, § 24, Sept. 16, 2011, 125 Stat. 337, provided that:
+Pub. L. 112–29, § 24, Sept. 16, 2011, 125 Stat. 337, provided that:
 
 > **“(a) Designation.—** The satellite office of the United States Patent and Trademark Office to be located in Detroit, Michigan, shall be known and designated as the ‘Elijah J. McCoy United States Patent and Trademark Office’.
 
@@ -323,11 +323,11 @@ Pub. L. 112–29, § 24, Sept. 16, 2011, 125 Stat. 337, provided that:
 
 **Federal Agency Status for Patent and Trademark Office**
 
-Pub. L. 101–508, title X, § 10102, Nov. 5, 1990, 104 Stat. 1388–392, provided that: “For the purposes of Federal law, the Patent and Trademark Office shall be considered a Federal agency. In particular, the Patent and Trademark Office shall be subject to all Federal laws pertaining to the procurement of goods and services that would apply to a Federal agency using appropriated funds, including the Federal Property and Administrative Services Act of 1949 [now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts] and the Office of Federal Procurement Policy Act [now division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of Title 41].”
+Pub. L. 101–508, title X, § 10102, Nov. 5, 1990, 104 Stat. 1388–392, provided that: “For the purposes of Federal law, the Patent and Trademark Office shall be considered a Federal agency. In particular, the Patent and Trademark Office shall be subject to all Federal laws pertaining to the procurement of goods and services that would apply to a Federal agency using appropriated funds, including the Federal Property and Administrative Services Act of 1949 [now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts] and the Office of Federal Procurement Policy Act [now division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of Title 41].”
 
 **Definitions**
 
-Pub. L. 117–328, div. W, § 102, Dec. 29, 2022, 136 Stat. 5518, provided that:
+Pub. L. 117–328, div. W, § 102, Dec. 29, 2022, 136 Stat. 5518, provided that:
 
 > “In this division [see Short Title of 2022 Amendment note above]:
 
@@ -339,7 +339,7 @@ Pub. L. 117–328, div. W, § 102, Dec. 29, 2022, 136 Stat. 5518, provided tha
 
 > **“(4) Southeast region of the united states.—** The term ‘southeast region of the United States’ means the area of the United States that is comprised of the States of Virginia, North Carolina, South Carolina, Georgia, Florida, Tennessee, Alabama, Mississippi, Louisiana, and Arkansas.”
 
-Pub. L. 112–29, § 2, Sept. 16, 2011, 125 Stat. 284, provided that:
+Pub. L. 112–29, § 2, Sept. 16, 2011, 125 Stat. 284, provided that:
 
 > “In this Act [see Short Title of 2011 Amendment note above]:
 
@@ -353,7 +353,7 @@ Pub. L. 112–29, § 2, Sept. 16, 2011, 125 Stat. 284, provided that:
 
 > **“(5) Trademark public advisory committee.—** The term ‘Trademark Public Advisory Committee’ means the Trademark Public Advisory Committee established under section 5(a) of title 35, United States Code.”
 
-## § 2. Powers and duties
+## § 2. Powers and duties
 
 **(a) In General.—** The United States Patent and Trademark Office, subject to the policy direction of the Secretary of Commerce—
 
@@ -429,11 +429,11 @@ Pub. L. 112–29, § 2, Sept. 16, 2011, 125 Stat. 284, provided that:
 
 **(d) Construction.—** Nothing in this section shall be construed to nullify, void, cancel, or interrupt any pending request-for-proposal let or contract issued by the General Services Administration for the specific purpose of relocating or leasing space to the United States Patent and Trademark Office.
 
-(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4712], Nov. 29, 1999, 113 Stat. 1536, 1501A–572; Pub. L. 106–400, § 2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–273, div. C, title III, § 13206(a)(1), Nov. 2, 2002, 116 Stat. 1904; Pub. L. 108–178, § 4(g), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 111–350, § 5(i)(1), Jan. 4, 2011, 124 Stat. 3849; Pub. L. 112–29, §§ 20(j), 21(a), 25, Sept. 16, 2011, 125 Stat. 335, 337.)
+(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4712], Nov. 29, 1999, 113 Stat. 1536, 1501A–572; Pub. L. 106–400, § 2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–273, div. C, title III, § 13206(a)(1), Nov. 2, 2002, 116 Stat. 1904; Pub. L. 108–178, § 4(g), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 111–350, § 5(i)(1), Jan. 4, 2011, 124 Stat. 3849; Pub. L. 112–29, §§ 20(j), 21(a), 25, Sept. 16, 2011, 125 Stat. 335, 337.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 3 (R.S. 478).
+Based on Title 35, U.S.C., 1946 ed., § 3 (R.S. 478).
 
 “Certificates of trade-mark registrations” is added, see note under section 1. Changes in language are made and the specific date eliminated.
 
@@ -441,21 +441,21 @@ Based on Title 35, U.S.C., 1946 ed., § 3 (R.S. 478).
 
 **References in Text**
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(A), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§ 11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(A), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§ 11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 **Amendments**
 
-2011—Subsec. (b)(2)(E). Pub. L. 112–29, § 20(j), struck out “of this title” after “41(h)(1)”.
+2011—Subsec. (b)(2)(E). Pub. L. 112–29, § 20(j), struck out “of this title” after “41(h)(1)”.
 
-Subsec. (b)(2)(G). Pub. L. 112–29, § 25, added subpar. (G).
+Subsec. (b)(2)(G). Pub. L. 112–29, § 25, added subpar. (G).
 
 Subsec. (b)(4)(A). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
-Subsec. (b)(11). Pub. L. 112–29, § 21(a), inserted “, and the Office is authorized to expend funds to cover the subsistence expenses and travel-related expenses, including per diem, lodging costs, and transportation costs, of persons attending such programs who are not Federal employees” after “world”.
+Subsec. (b)(11). Pub. L. 112–29, § 21(a), inserted “, and the Office is authorized to expend funds to cover the subsistence expenses and travel-related expenses, including per diem, lodging costs, and transportation costs, of persons attending such programs who are not Federal employees” after “world”.
 
 2003—Subsec. (b)(4)(A). Pub. L. 108–178 substituted “subtitle I and chapter 33 of title 40, title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.),” for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.), the Public Buildings Act (40 U.S.C. 601 et seq.),”.
 
-2002—Subsec. (b)(2)(B), (4)(B). Pub. L. 107–273 struck out “, United States Code” before semicolon at end.
+2002—Subsec. (b)(2)(B), (4)(B). Pub. L. 107–273 struck out “, United States Code” before semicolon at end.
 
 2000—Subsec. (b)(4)(A). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
@@ -467,9 +467,9 @@ Subsec. (b)(11). Pub. L. 112–29, § 21(a), inserted “, and the Office is
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–274, § 1(g), Jan. 14, 2013, 126 Stat. 2457, provided that: “Notwithstanding section 35 of the Leahy-Smith America Invents Act (35 U.S.C. 1 note), the amendments made by section 21 of the Leahy-Smith America Invents Act (Public Law 112–29; 125 Stat. 335) [amending this section and section 3 of this title] shall be effective as of September 16, 2011.”
+Pub. L. 112–274, § 1(g), Jan. 14, 2013, 126 Stat. 2457, provided that: “Notwithstanding section 35 of the Leahy-Smith America Invents Act (35 U.S.C. 1 note), the amendments made by section 21 of the Leahy-Smith America Invents Act (Public Law 112–29; 125 Stat. 335) [amending this section and section 3 of this title] shall be effective as of September 16, 2011.”
 
-Pub. L. 112–29, § 20(*l*), Sept. 16, 2011, 125 Stat. 335, provided that: “The amendments made by this section [amending this section and sections 3, 12, 32, 41, 103, 104, 111, 116, 119 to 123, 132, 135, 143, 145, 146, 154, 157, 162, 172, 182 to 186, 202, 207, 209, 210, 251, 253, 256, 257, 267, 282, 284, 287, 288, 291, 294, 302 to 307, 328, 363, 365, 368, and 371 to 375 of this title and repealing sections 155 and 155A of this title] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to proceedings commenced on or after that effective date.”
+Pub. L. 112–29, § 20(*l*), Sept. 16, 2011, 125 Stat. 335, provided that: “The amendments made by this section [amending this section and sections 3, 12, 32, 41, 103, 104, 111, 116, 119 to 123, 132, 135, 143, 145, 146, 154, 157, 162, 172, 182 to 186, 202, 207, 209, 210, 251, 253, 256, 257, 267, 282, 284, 287, 288, 291, 294, 302 to 307, 328, 363, 365, 368, and 371 to 375 of this title and repealing sections 155 and 155A of this title] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to proceedings commenced on or after that effective date.”
 
 Except as otherwise provided in Pub. L. 112–29, amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued on or after that effective date, see section 35 of Pub. L. 112–29, set out as a note under section 1 of this title.
 
@@ -479,7 +479,7 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1975 Amendment**
 
@@ -487,7 +487,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 **Updates to the Patent Pro Bono Programs**
 
-Pub. L. 117–328, div. W, § 105, Dec. 29, 2022, 136 Stat. 5520, provided that:
+Pub. L. 117–328, div. W, § 105, Dec. 29, 2022, 136 Stat. 5520, provided that:
 
 > **“(a) Study and Updates.—**
 
@@ -529,7 +529,7 @@ Pub. L. 117–328, div. W, § 105, Dec. 29, 2022, 136 Stat. 5520, provided tha
 
 **Temporary Authority of Director of the USPTO During the COVID–19 Emergency**
 
-Pub. L. 116–136, div. B, title II, § 12004, Mar. 27, 2020, 134 Stat. 517, provided that:
+Pub. L. 116–136, div. B, title II, § 12004, Mar. 27, 2020, 134 Stat. 517, provided that:
 
 > **“(a) In General.—** During the emergency period described in subsection (e), the Director may toll, waive, adjust, or modify, any timing deadline established by title 35, United States Code, the Trademark Act, section 18 of the Leahy-Smith America Invents Act [Pub. L. 112–29] (35 U.S.C. 321 note), or regulations promulgated thereunder, in effect during such period, if the Director determines that the emergency related to such period—
 
@@ -561,7 +561,7 @@ Pub. L. 116–136, div. B, title II, § 12004, Mar. 27, 2020, 134 Stat. 517, p
 
 **USPTO Law School Clinic Certification Program**
 
-Pub. L. 113–227, § 1, Dec. 16, 2014, 128 Stat. 2114, provided that:
+Pub. L. 113–227, § 1, Dec. 16, 2014, 128 Stat. 2114, provided that:
 
 > **“(a) Establishment.—** The Law School Clinic Certification Program of the United States Patent and Trademark Office, as implemented by the Office, is established as a program entitled the ‘Law School Clinic Certification Program’. The Program shall allow students enrolled in a participating law school’s clinic to practice patent and trademark law before the Office by drafting, filing, and prosecuting patent or trademark applications, or both, on a pro-bono basis for clients that qualify for assistance from the law school’s clinic. The Director shall establish regulations and procedures for application to and participation in the Program. All law schools accredited by the American Bar Association are eligible for participation in the Program, and shall be examined for acceptance using identical criteria established by the Director. The Program shall be in effect for the 10-year period beginning on the date of the enactment of this Act [Dec. 16, 2014].
 
@@ -577,11 +577,11 @@ Pub. L. 113–227, § 1, Dec. 16, 2014, 128 Stat. 2114, provided that:
 
 **Patent Ombudsman Program for Small Business Concerns**
 
-Pub. L. 112–29, § 28, Sept. 16, 2011, 125 Stat. 339, provided that: “Using available resources, the Director [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] shall establish and maintain in the [United States Patent and Trademark] Office a Patent Ombudsman Program. The duties of the Program’s staff shall include providing support and services relating to patent filings to small business concerns and independent inventors.”
+Pub. L. 112–29, § 28, Sept. 16, 2011, 125 Stat. 339, provided that: “Using available resources, the Director [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] shall establish and maintain in the [United States Patent and Trademark] Office a Patent Ombudsman Program. The duties of the Program’s staff shall include providing support and services relating to patent filings to small business concerns and independent inventors.”
 
 **Pro Bono Programs**
 
-Pub. L. 112–29, § 32, Sept. 16, 2011, 125 Stat. 340, provided that:
+Pub. L. 112–29, § 32, Sept. 16, 2011, 125 Stat. 340, provided that:
 
 > **“(a) In General.—** The Director [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] shall work with and support intellectual property law associations across the country in the establishment of pro bono programs designed to assist financially under-resourced independent inventors and small businesses.
 
@@ -589,7 +589,7 @@ Pub. L. 112–29, § 32, Sept. 16, 2011, 125 Stat. 340, provided that:
 
 **Electronic Filing and Processing of Patent and Trademark Applications**
 
-Pub. L. 107–273, div. C, title III, § 13103, Nov. 2, 2002, 116 Stat. 1899, provided that:
+Pub. L. 107–273, div. C, title III, § 13103, Nov. 2, 2002, 116 Stat. 1899, provided that:
 
 > **“(a) Electronic Filing and Processing.—** The Director [of the Patent and Trademark Office] shall, beginning not later than 90 days after the date of enactment of this Act [Nov. 2, 2002], and during the 3-year period thereafter, develop an electronic system for the filing and processing of patent and trademark applications, that—
 
@@ -603,7 +603,7 @@ Pub. L. 107–273, div. C, title III, § 13103, Nov. 2, 2002, 116 Stat. 1899, 
 
 > **“(b) Authorization of Appropriations.—** Of amounts authorized under section 13102 [set out as a note under section 42 of this title], there is authorized to be appropriated to carry out subsection (a) of this section not more than $50,000,000 for each of fiscal years 2003, 2004, and 2005. Amounts made available pursuant to this subsection shall remain available until expended.”
 
-## § 3. Officers and employees
+## § 3. Officers and employees
 
 **(a) Under Secretary and Director.—**
 
@@ -673,13 +673,13 @@ Any transfer under this paragraph shall be effective as of the same effective da
 
 **(B)** The individual serving as the Assistant Commissioner for Trademarks on the day before the effective date of the Patent and Trademark Office Efficiency Act may serve as the Commissioner for Trademarks until the date on which a Commissioner for Trademarks is appointed under subsection (b).
 
-(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 85–933, § 1, Sept. 6, 1958, 72 Stat. 1793; Pub. L. 86–370, § 1(a), Sept. 23, 1959, 73 Stat. 650; Pub. L. 88–426, title III, § 305(26), Aug. 14, 1964, 78 Stat. 425; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–601, § 1, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 97–247, § 4, Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–366, § 4, Oct. 25, 1982, 96 Stat. 1760; Pub. L. 98–622, title IV, § 405, Nov. 8, 1984, 98 Stat. 3392; Pub. L. 105–304, title IV, § 401(a)(1), Oct. 28, 1998, 112 Stat. 2887; Pub. L. 106–44, § 2(c), Aug. 5, 1999, 113 Stat. 223; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4713], Nov. 29, 1999, 113 Stat. 1536, 1501A–575; Pub. L. 107–273, div. C, title III, § 13206(a)(2), Nov. 2, 2002, 116 Stat. 1904; Pub. L. 112–29, §§ 20(i)(1), 21(b), Sept. 16, 2011, 125 Stat. 334, 336.)
+(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 85–933, § 1, Sept. 6, 1958, 72 Stat. 1793; Pub. L. 86–370, § 1(a), Sept. 23, 1959, 73 Stat. 650; Pub. L. 88–426, title III, § 305(26), Aug. 14, 1964, 78 Stat. 425; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–601, § 1, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 97–247, § 4, Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–366, § 4, Oct. 25, 1982, 96 Stat. 1760; Pub. L. 98–622, title IV, § 405, Nov. 8, 1984, 98 Stat. 3392; Pub. L. 105–304, title IV, § 401(a)(1), Oct. 28, 1998, 112 Stat. 2887; Pub. L. 106–44, § 2(c), Aug. 5, 1999, 113 Stat. 223; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4713], Nov. 29, 1999, 113 Stat. 1536, 1501A–575; Pub. L. 107–273, div. C, title III, § 13206(a)(2), Nov. 2, 2002, 116 Stat. 1904; Pub. L. 112–29, §§ 20(i)(1), 21(b), Sept. 16, 2011, 125 Stat. 334, 336.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 2 (R.S. 476, amended (1) Feb. 15, 1916, ch. 22, § 1, 39 Stat. 8, (2) Feb. 14, 1927, ch. 139, § 1, 44 Stat. 1098, (3) Apr. 11, 1930, ch. 132, § 1, 46 Stat. 155).
+Based on Title 35, U.S.C., 1946 ed., § 2 (R.S. 476, amended (1) Feb. 15, 1916, ch. 22, § 1, 39 Stat. 8, (2) Feb. 14, 1927, ch. 139, § 1, 44 Stat. 1098, (3) Apr. 11, 1930, ch. 132, § 1, 46 Stat. 155).
 
-The temporary designation of the assistant commissioner as Commissioner in case of a vacancy in office is added. This will eliminate complications since present applicable general statutes (5 U.S.C., 1946 ed., § 7) permit a vacancy to be temporarily filled only for not more than 30 days.
+The temporary designation of the assistant commissioner as Commissioner in case of a vacancy in office is added. This will eliminate complications since present applicable general statutes (5 U.S.C., 1946 ed., § 7) permit a vacancy to be temporarily filled only for not more than 30 days.
 
 Changes in language are made. “Assistant commissioners” is used in the second sentence (and elsewhere in the bill) as referring to all three assistants.
 
@@ -689,23 +689,23 @@ This entire title is subject to Reorganization Plan No. 5 of 1950 (64 Stat. 1263
 
 **References in Text**
 
-The Patent and Trademark Office Efficiency Act, referred to in subsecs. (d) to (f), is Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle G (§ 4701 et seq.)], Nov. 29, 1999, 113 Stat. 1536, 1501A–572. For the effective date of the Act as 4 months after Nov. 29, 1999, see section 1009(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 1 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1 of this title and Tables.
+The Patent and Trademark Office Efficiency Act, referred to in subsecs. (d) to (f), is Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle G (§ 4701 et seq.)], Nov. 29, 1999, 113 Stat. 1536, 1501A–572. For the effective date of the Act as 4 months after Nov. 29, 1999, see section 1009(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 1 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1 of this title and Tables.
 
 **Amendments**
 
-2011—Subsec. (b)(6). Pub. L. 112–29, § 21(b), added par. (6).
+2011—Subsec. (b)(6). Pub. L. 112–29, § 21(b), added par. (6).
 
-Subsec. (e)(2). Pub. L. 112–29, § 20(i)(1), substituted “that Act,” for “this Act,” in introductory provisions.
+Subsec. (e)(2). Pub. L. 112–29, § 20(i)(1), substituted “that Act,” for “this Act,” in introductory provisions.
 
-2002—Subsec. (a)(2)(B). Pub. L. 107–273, § 13206(a)(2)(A), struck out “United States Code,” after “title 5,”.
+2002—Subsec. (a)(2)(B). Pub. L. 107–273, § 13206(a)(2)(A), struck out “United States Code,” after “title 5,”.
 
-Subsec. (b)(2)(A). Pub. L. 107–273, § 13206(a)(2)(B)(i), struck out “, United States Code” after “title 5”.
+Subsec. (b)(2)(A). Pub. L. 107–273, § 13206(a)(2)(B)(i), struck out “, United States Code” after “title 5”.
 
-Subsec. (b)(2)(B). Pub. L. 107–273, § 13206(a)(2)(B)(ii)–(iv), in first sentence, struck out “United States Code,” after “section 5382 of title 5,” and “, United States Code” after “section 5304(h)(2)(C) of title 5”, in second sentence, struck out “United States Code,” after “for purposes of section 207(c)(2)(A) of title 18,” and “, United States Code” after “clause (ii) of section 207(c)(2)(A) of title 18”, and in last sentence, struck out “, United States Code” after “title 3”.
+Subsec. (b)(2)(B). Pub. L. 107–273, § 13206(a)(2)(B)(ii)–(iv), in first sentence, struck out “United States Code,” after “section 5382 of title 5,” and “, United States Code” after “section 5304(h)(2)(C) of title 5”, in second sentence, struck out “United States Code,” after “for purposes of section 207(c)(2)(A) of title 18,” and “, United States Code” after “clause (ii) of section 207(c)(2)(A) of title 18”, and in last sentence, struck out “, United States Code” after “title 3”.
 
-Subsec. (b)(2)(C). Pub. L. 107–273, § 13206(a)(2)(B)(v), struck out “, United States Code” after “title 5”.
+Subsec. (b)(2)(C). Pub. L. 107–273, § 13206(a)(2)(B)(v), struck out “, United States Code” after “title 5”.
 
-Subsec. (c). Pub. L. 107–273, § 13206(a)(2)(C), in heading, struck out “, United States Code” before period at end, and in text, struck out “United States Code,” after “title 5,”.
+Subsec. (c). Pub. L. 107–273, § 13206(a)(2)(C), in heading, struck out “, United States Code” before period at end, and in text, struck out “United States Code,” after “title 5,”.
 
 1999—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -719,7 +719,7 @@ Subsec. (c). Pub. L. 107–273, § 13206(a)(2)(C), in heading, struck out “,
 
 “(e) The members of the Trademark Trial and Appeal Board of the Patent and Trademark Office shall each be paid at a rate not to exceed the maximum rate of basic pay payable for GS–16 of the General Schedule under section 5332 of title 5.”
 
-Subsec. (d). Pub. L. 106–44 struck out “, United States Code” after “title 5”.
+Subsec. (d). Pub. L. 106–44 struck out “, United States Code” after “title 5”.
 
 1998—Subsec. (d). Pub. L. 105–304 substituted “in effect for level III of the Executive Schedule under section 5314 of title 5, United States Code” for “prescribed by law for Assistant Secretaries of Commerce”.
 
@@ -751,11 +751,11 @@ Amendment by section 20(i)(1) of Pub. L. 112–29 effective upon the expiration 
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–622, title IV, § 406(b), Nov. 8, 1984, 98 Stat. 3393, provided that: “The amendments made by sections 401, 402, and 405 of this Act [amending this section and sections 361, 366, 371, 372, and 376 of this title] shall take effect six months after the date of the enactment of this Act [Nov. 8, 1984].”
+Pub. L. 98–622, title IV, § 406(b), Nov. 8, 1984, 98 Stat. 3393, provided that: “The amendments made by sections 401, 402, and 405 of this Act [amending this section and sections 361, 366, 371, 372, and 376 of this title] shall take effect six months after the date of the enactment of this Act [Nov. 8, 1984].”
 
 **Effective Date of 1982 Amendment**
 
@@ -763,7 +763,7 @@ Amendment by Pub. L. 97–247 effective Aug. 27, 1982, see section 17(a) of Pub.
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 93–601, § 4(b), Jan. 2, 1975, 88 Stat. 1957, provided that: “This Act [amending this section and sections 7 and 151 of this title and enacting provisions set out as a note under section 151 of this title] shall be effective upon enactment [Jan. 2, 1975]. Examiners-in-chief in office on the date of enactment shall continue in office under and in accordance with their then existing appointments.”
+Pub. L. 93–601, § 4(b), Jan. 2, 1975, 88 Stat. 1957, provided that: “This Act [amending this section and sections 7 and 151 of this title and enacting provisions set out as a note under section 151 of this title] shall be effective upon enactment [Jan. 2, 1975]. Examiners-in-chief in office on the date of enactment shall continue in office under and in accordance with their then existing appointments.”
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
@@ -773,11 +773,11 @@ Amendment by Pub. L. 88–426 effective on first day of first pay period which b
 
 **Effective Date of 1959 Amendment**
 
-Pub. L. 86–370, § 7(b), Sept. 23, 1959, 73 Stat. 653, provided that: “Sections 1 [amending this section, section 7 of this title, and provisions set out as a note below], 3 [amending sections 2205 and 2208 of former Title 5, Executive Departments and Government Officers and Employees], and 6 [amending section 1082 of former Title 5 and section 903 of Title 20, Education] of this Act shall become effective on the first day of the first pay period which begins after the date of enactment of this Act [Sept. 23, 1959].” Such section 7(b) was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 660.
+Pub. L. 86–370, § 7(b), Sept. 23, 1959, 73 Stat. 653, provided that: “Sections 1 [amending this section, section 7 of this title, and provisions set out as a note below], 3 [amending sections 2205 and 2208 of former Title 5, Executive Departments and Government Officers and Employees], and 6 [amending section 1082 of former Title 5 and section 903 of Title 20, Education] of this Act shall become effective on the first day of the first pay period which begins after the date of enactment of this Act [Sept. 23, 1959].” Such section 7(b) was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 660.
 
 **Existing Positions, Compensation, and Appointments Unaffected by Pub. L. 86–370 Until Action Taken Under Amendments**
 
-Pub. L. 86–370, § 1(c), Sept. 23, 1959, 73 Stat. 650, provided that:
+Pub. L. 86–370, § 1(c), Sept. 23, 1959, 73 Stat. 650, provided that:
 
 > “The amendments made by this section [amending sections 1 and 7 of this title] shall not affect—
 
@@ -787,15 +787,15 @@ Pub. L. 86–370, § 1(c), Sept. 23, 1959, 73 Stat. 650, provided that:
 
 > until appropriate action is taken under authority of such amendments.”
 
-## § 4. Restrictions on officers and employees as to interest in patents
+## § 4. Restrictions on officers and employees as to interest in patents
 
 Officers and employees of the Patent and Trademark Office shall be incapable, during the period of their appointments and for one year thereafter, of applying for a patent and of acquiring, directly or indirectly, except by inheritance or bequest, any patent or any right or interest in any patent, issued or to be issued by the Office. In patents applied for thereafter they shall not be entitled to any priority date earlier than one year after the termination of their appointment.
 
-(July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949.)
+(July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 4 (R.S. 480).
+Based on Title 35, U.S.C., 1946 ed., § 4 (R.S. 480).
 
 The language is revised and inability to apply for a patent, included in the original language, is made explicit.
 
@@ -817,7 +817,7 @@ The one year period is made inapplicable to applications which may be pending wh
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-## § 5. Patent and Trademark Office Public Advisory Committees
+## § 5. Patent and Trademark Office Public Advisory Committees
 
 **(a) Establishment of Public Advisory Committees.—**
 
@@ -861,51 +861,51 @@ In addition to the voting members, each Advisory Committee shall include a repre
 
 **(j) Inapplicability of Patent Prohibition.—** Section 4 shall not apply to voting members of the Advisory Committees.
 
-(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4714], Nov. 29, 1999, 113 Stat. 1536, 1501A–578; amended Pub. L. 107–273, div. C, title III, §§ 13203(b), 13206(a)(3), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–274, § 1(*l*)(1), Jan. 14, 2013, 126 Stat. 2458; Pub. L. 117–286, § 4(a)(215), Dec. 27, 2022, 136 Stat. 4329.)
+(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4714], Nov. 29, 1999, 113 Stat. 1536, 1501A–578; amended Pub. L. 107–273, div. C, title III, §§ 13203(b), 13206(a)(3), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–274, § 1(*l*)(1), Jan. 14, 2013, 126 Stat. 2458; Pub. L. 117–286, § 4(a)(215), Dec. 27, 2022, 136 Stat. 4329.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5, act July 19, 1952, ch. 950, 66 Stat. 793, related to bond of Commissioner and other officers, prior to repeal by Pub. L. 92–310, title II, § 208(a), June 6, 1972, 86 Stat. 203.
+A prior section 5, act July 19, 1952, ch. 950, 66 Stat. 793, related to bond of Commissioner and other officers, prior to repeal by Pub. L. 92–310, title II, § 208(a), June 6, 1972, 86 Stat. 203.
 
 **Amendments**
 
 2022—Subsec. (h). Pub. L. 117–286 substituted “Chapter 10 of Title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-2013—Subsec. (a)(1). Pub. L. 112–274, § 1(*l*)(1)(A), substituted “In each year, 3 members shall be appointed to each Advisory Committee for 3-year terms that shall begin on December 1 of that year. Any vacancy on an Advisory Committee shall be filled within 90 days after it occurs. A new member who is appointed to fill a vacancy shall be appointed to serve for the remainder of the predecessor’s term.” for “Members of each Public Advisory Committee shall be appointed for a term of 3 years, except that of the members first appointed, three shall be appointed for a term of 1 year, and three shall be appointed for a term of 2 years. In making appointments to each Committee, the Secretary of Commerce shall consider the risk of loss of competitive advantage in international commerce or other harm to United States companies as a result of such appointments.”
+2013—Subsec. (a)(1). Pub. L. 112–274, § 1(*l*)(1)(A), substituted “In each year, 3 members shall be appointed to each Advisory Committee for 3-year terms that shall begin on December 1 of that year. Any vacancy on an Advisory Committee shall be filled within 90 days after it occurs. A new member who is appointed to fill a vacancy shall be appointed to serve for the remainder of the predecessor’s term.” for “Members of each Public Advisory Committee shall be appointed for a term of 3 years, except that of the members first appointed, three shall be appointed for a term of 1 year, and three shall be appointed for a term of 2 years. In making appointments to each Committee, the Secretary of Commerce shall consider the risk of loss of competitive advantage in international commerce or other harm to United States companies as a result of such appointments.”
 
-Subsec. (a)(2). Pub. L. 112–274, § 1(*l*)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary shall designate a chair of each Advisory Committee, whose term as chair shall be for 3 years.”
+Subsec. (a)(2). Pub. L. 112–274, § 1(*l*)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary shall designate a chair of each Advisory Committee, whose term as chair shall be for 3 years.”
 
-Subsec. (a)(3). Pub. L. 112–274, § 1(*l*)(1)(C), struck out par. (3). Text read as follows: “Initial appointments to each Advisory Committee shall be made within 3 months after the effective date of the Patent and Trademark Office Efficiency Act. Vacancies shall be filled within 3 months after they occur.”
+Subsec. (a)(3). Pub. L. 112–274, § 1(*l*)(1)(C), struck out par. (3). Text read as follows: “Initial appointments to each Advisory Committee shall be made within 3 months after the effective date of the Patent and Trademark Office Efficiency Act. Vacancies shall be filled within 3 months after they occur.”
 
-2002—Subsec. (e). Pub. L. 107–273, § 13206(a)(3), struck out “, United States Code” after “title 5” in two places.
+2002—Subsec. (e). Pub. L. 107–273, § 13206(a)(3), struck out “, United States Code” after “title 5” in two places.
 
-Subsec. (g). Pub. L. 107–273, § 13206(a)(3), struck out “, United States Code” after “title 18”.
+Subsec. (g). Pub. L. 107–273, § 13206(a)(3), struck out “, United States Code” after “title 18”.
 
-Subsec. (i). Pub. L. 107–273, § 13203(b)(1), inserted “, privileged,” after “personnel”.
+Subsec. (i). Pub. L. 107–273, § 13203(b)(1), inserted “, privileged,” after “personnel”.
 
-Subsec. (j). Pub. L. 107–273, § 13203(b)(2), added subsec. (j).
+Subsec. (j). Pub. L. 107–273, § 13203(b)(2), added subsec. (j).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–274, § 1(n), Jan. 14, 2013, 126 Stat. 2459, provided that: “Except as otherwise provided in this Act [amending this section and sections 42, 115, 123, 135, 154, 299, and 311 of this title, repealing section 373 of this title, enacting provisions set out as notes under this section and sections 2, 135, 298, and 311 of this title, and amending provisions set out as a note under section 321 of this title], the amendments made by this Act shall take effect on the date of enactment of this Act [Jan. 14, 2013], and shall apply to proceedings commenced on or after such date of enactment.”
+Pub. L. 112–274, § 1(n), Jan. 14, 2013, 126 Stat. 2459, provided that: “Except as otherwise provided in this Act [amending this section and sections 42, 115, 123, 135, 154, 299, and 311 of this title, repealing section 373 of this title, enacting provisions set out as notes under this section and sections 2, 135, 298, and 311 of this title, and amending provisions set out as a note under section 321 of this title], the amendments made by this Act shall take effect on the date of enactment of this Act [Jan. 14, 2013], and shall apply to proceedings commenced on or after such date of enactment.”
 
 **Effective Date**
 
-Section effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 1 of this title.
+Section effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 1 of this title.
 
 **Transition**
 
-Pub. L. 112–274, § 1(*l*)(2), Jan. 14, 2013, 126 Stat. 2459, provided that:
+Pub. L. 112–274, § 1(*l*)(2), Jan. 14, 2013, 126 Stat. 2459, provided that:
 
 > **“(A) In general.—** The Secretary of Commerce shall, in the Secretary’s discretion, determine the time and manner in which the amendments made by paragraph (1) [amending this section] shall take effect, except that, in each year following the year in which this Act is enacted [2013], 3 members shall be appointed to each Advisory Committee (to which such amendments apply) for 3-year terms that begin on December 1 of that year, in accordance with section 5(a) of title 35, United States Code, as amended by paragraph (1) of this subsection.
 
 > **“(B) Deemed termination of terms.—** In order to implement the amendments made by paragraph (1), the Secretary of Commerce may determine that the term of an existing member of an Advisory Committee under section 5 of title 35, United States Code, shall be deemed to terminate on December 1 of a year beginning after the date of the enactment of this Act [Jan. 14, 2013], regardless of whether December 1 is before or after the date on which such member’s term would terminate if this Act had not been enacted.”
 
-## § 6. Patent Trial and Appeal Board
+## § 6. Patent Trial and Appeal Board
 
 **(a) In General.—** There shall be in the Office a Patent Trial and Appeal Board. The Director, the Deputy Director, the Commissioner for Patents, the Commissioner for Trademarks, and the administrative patent judges shall constitute the Patent Trial and Appeal Board. The administrative patent judges shall be persons of competent legal knowledge and scientific ability who are appointed by the Secretary, in consultation with the Director. Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Board of Patent Appeals and Interferences is deemed to refer to the Patent Trial and Appeal Board.
 
@@ -923,7 +923,7 @@ Pub. L. 112–274, § 1(*l*)(2), Jan. 14, 2013, 126 Stat. 2459, provided that:
 
 **(d) Treatment of Prior Appointments.—** The Secretary of Commerce may, in the Secretary’s discretion, deem the appointment of an administrative patent judge who, before the date of the enactment of this subsection, held office pursuant to an appointment by the Director to take effect on the date on which the Director initially appointed the administrative patent judge. It shall be a defense to a challenge to the appointment of an administrative patent judge on the basis of the judge’s having been originally appointed by the Director that the administrative patent judge so appointed was acting as a de facto officer.
 
-(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4717(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–580; amended Pub. L. 107–273, div. C, title III, § 13203(a)(2), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 110–313, § 1(a)(1), Aug. 12, 2008, 122 Stat. 3014; Pub. L. 112–29, § 7(a)(1), Sept. 16, 2011, 125 Stat. 313.)
+(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4717(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–580; amended Pub. L. 107–273, div. C, title III, § 13203(a)(2), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 110–313, § 1(a)(1), Aug. 12, 2008, 122 Stat. 3014; Pub. L. 112–29, § 7(a)(1), Sept. 16, 2011, 125 Stat. 313.)
 
 **Editorial Notes**
 
@@ -937,15 +937,15 @@ For information regarding the constitutionality of provisions of subsection (c) 
 
 **Prior Provisions**
 
-A prior section 6, acts July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 92–132, Oct. 5, 1971, 85 Stat. 364; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, § 2, Nov. 14, 1975, 89 Stat. 690; Pub. L. 97–247, §§ 7, 13, Aug. 27, 1982, 96 Stat. 320, 321; Pub. L. 102–204, § 8, Dec. 10, 1991, 105 Stat. 1641, related to duties of Commissioner, prior to repeal by Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4715(a), 4731], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–581, effective 4 months after Nov. 29, 1999.
+A prior section 6, acts July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 92–132, Oct. 5, 1971, 85 Stat. 364; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, § 2, Nov. 14, 1975, 89 Stat. 690; Pub. L. 97–247, §§ 7, 13, Aug. 27, 1982, 96 Stat. 320, 321; Pub. L. 102–204, § 8, Dec. 10, 1991, 105 Stat. 1641, related to duties of Commissioner, prior to repeal by Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4715(a), 4731], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–581, effective 4 months after Nov. 29, 1999.
 
 **Amendments**
 
 2011—Pub. L. 112–29 amended section generally. Prior to amendment, section related to the establishment, composition, and function of the Board of Patent Appeals and Interferences and to the appointment of administrative patent judges.
 
-2008—Subsec. (a). Pub. L. 110–313, § 1(a)(1)(A), (B), substituted “Deputy Director” for “Deputy Commissioner” in second sentence and “Secretary of Commerce, in consultation with the Director” for “Director” in last sentence.
+2008—Subsec. (a). Pub. L. 110–313, § 1(a)(1)(A), (B), substituted “Deputy Director” for “Deputy Commissioner” in second sentence and “Secretary of Commerce, in consultation with the Director” for “Director” in last sentence.
 
-Subsecs. (c), (d). Pub. L. 110–313, § 1(a)(1)(C), which directed addition of subsecs. (c) and (d) at end of subsec. (a), was executed by adding subsecs. (c) and (d) at end of section to reflect the probable intent of Congress.
+Subsecs. (c), (d). Pub. L. 110–313, § 1(a)(1)(C), which directed addition of subsecs. (c) and (d) at end of subsec. (a), was executed by adding subsecs. (c) and (d) at end of section to reflect the probable intent of Congress.
 
 2002—Subsec. (a). Pub. L. 107–273, which directed amendment of subsec. (a) by inserting “the Deputy Commissioner,” after “Commissioner,”, was executed by making the insertion after “The Director,” to reflect the probable intent of Congress.
 
@@ -953,7 +953,7 @@ Subsecs. (c), (d). Pub. L. 110–313, § 1(a)(1)(C), which directed addition o
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–29, § 7(e), Sept. 16, 2011, 125 Stat. 315, provided that:
+Pub. L. 112–29, § 7(e), Sept. 16, 2011, 125 Stat. 315, provided that:
 
 > “The amendments made by this section [amending this section, sections 134, 141, and 143 of this title, section 1295 of Title 28, Judiciary and Judicial Procedure, section 2182 of Title 42, The Public Health and Welfare, and section 20135 of Title 51, National and Commercial Space Programs] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to proceedings commenced on or after that effective date, except that—
 
@@ -967,17 +967,17 @@ Pub. L. 112–29, § 7(e), Sept. 16, 2011, 125 Stat. 315, provided that:
 
 **Effective Date**
 
-Section effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 1 of this title.
+Section effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 1 of this title.
 
-## § 7. Library
+## § 7. Library
 
 The Director shall maintain a library of scientific and other works and periodicals, both foreign and domestic, in the Patent and Trademark Office to aid the officers in the discharge of their duties.
 
-(July 19, 1952, ch. 950, 66 Stat. 793, § 8; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; renumbered § 7 and amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4717(1), 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 793, § 8; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; renumbered § 7 and amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4717(1), 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 10 (R.S. 486).
+Based on Title 35, U.S.C., 1946 ed., § 10 (R.S. 486).
 
 Some change in language has been made. “Purchased” is changed to “maintained” to include the existing library and keeping it up by additions. The phrase “and other” is added to include legal works. The last phrase of the corresponding section of the existing statute is omitted as unnecessary.
 
@@ -985,15 +985,15 @@ Some change in language has been made. “Purchased” is changed to “maintain
 
 **Prior Provisions**
 
-A prior section 7, acts July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 85–933, § 2, Sept. 6, 1958, 72 Stat. 1793; Pub. L. 86–370, § 1(b), Sept. 23, 1959, 73 Stat. 650; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–601, § 2, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 98–622, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3386, established the Board of Patent Appeals and Interferences, prior to repeal by Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4717(1), 4731], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–581, effective 4 months after Nov. 29, 1999.
+A prior section 7, acts July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 85–933, § 2, Sept. 6, 1958, 72 Stat. 1793; Pub. L. 86–370, § 1(b), Sept. 23, 1959, 73 Stat. 650; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–601, § 2, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 98–622, title II, § 201(a), Nov. 8, 1984, 98 Stat. 3386, established the Board of Patent Appeals and Interferences, prior to repeal by Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4717(1), 4731], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–581, effective 4 months after Nov. 29, 1999.
 
 **Amendments**
 
-2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)], renumbered section 8 of this title as this section.
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)], renumbered section 8 of this title as this section.
 
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
@@ -1001,21 +1001,21 @@ Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)], renumbered section 
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1975 Amendment**
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-## § 8. Classification of patents
+## § 8. Classification of patents
 
 The Director may revise and maintain the classification by subject matter of United States letters patent, and such other patents and printed publications as may be necessary or practicable, for the purpose of determining with readiness and accuracy the novelty of inventions for which applications for patent are filed.
 
-(July 19, 1952, ch. 950, 66 Stat. 794, § 9; renumbered § 8 and amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4717(1), 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 794, § 9; renumbered § 8 and amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4717(1), 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 6 note (June 10, 1898, ch. 430, § 1, 30 Stat. 440).
+Based on Title 35, U.S.C., 1946 ed., § 6 note (June 10, 1898, ch. 430, § 1, 30 Stat. 440).
 
 Changes in language are made.
 
@@ -1027,27 +1027,27 @@ A prior section 8 was renumbered section 7 of this title.
 
 **Amendments**
 
-2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)], renumbered section 9 of this title as this section.
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)], renumbered section 9 of this title as this section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
-## § 9. Certified copies of records
+## § 9. Certified copies of records
 
 The Director may furnish certified copies of specifications and drawings of patents issued by the Patent and Trademark Office, and of other records available either to the public or to the person applying therefor.
 
-(July 19, 1952, ch. 950, 66 Stat. 794, § 10; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; renumbered § 9 and amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4717(1), 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 794, § 10; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; renumbered § 9 and amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4717(1), 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 14 (Mar. 3, 1891, ch. 541, § 1 (part), 26 Stat. 908, 940).
+Based on Title 35, U.S.C., 1946 ed., § 14 (Mar. 3, 1891, ch. 541, § 1 (part), 26 Stat. 908, 940).
 
 Reference to other records is added. The fee for certification is omitted as it appears in the table of fees.
 
@@ -1059,11 +1059,11 @@ A prior section 9 was renumbered section 8 of this title.
 
 **Amendments**
 
-2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)], renumbered section 10 of this title as this section.
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)], renumbered section 10 of this title as this section.
 
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
@@ -1071,13 +1071,13 @@ Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)], renumbered section 
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1975 Amendment**
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-## § 10. Publications
+## § 10. Publications
 
 **(a)** The Director may publish in printed, typewritten, or electronic form, the following:
 
@@ -1095,13 +1095,13 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 **(b)** The Director may exchange any of the publications specified in items 3, 4, 5, and 6 of subsection (a) of this section for publications desirable for the use of the Patent and Trademark Office.
 
-(July 19, 1952, ch. 950, 66 Stat. 794, § 11; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; renumbered § 10 and amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4507(1), 4717(1), 4732(a)(10)(A), 4804(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–580, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §§ 13205(2)(A), 13206(b)(1)(B), (3)(A), Nov. 2, 2002, 116 Stat. 1903, 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 794, § 11; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; renumbered § 10 and amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4507(1), 4717(1), 4732(a)(10)(A), 4804(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–580, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §§ 13205(2)(A), 13206(b)(1)(B), (3)(A), Nov. 2, 2002, 116 Stat. 1903, 1906.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., §§ 13 and 16 (R.S. 489; July 9, 1947, ch. 211, § 301 (part), 61 Stat. 299, repeated in prior and subsequent appropriation acts).
+Based on Title 35, U.S.C., 1946 ed., §§ 13 and 16 (R.S. 489; July 9, 1947, ch. 211, § 301 (part), 61 Stat. 299, repeated in prior and subsequent appropriation acts).
 
-Section is amplified to list the publications of the Patent Office, based on 44 U.S.C., 1946 ed., §§ 283, 283a.
+Section is amplified to list the publications of the Patent Office, based on 44 U.S.C., 1946 ed., §§ 283, 283a.
 
 The second sentence of item 1 of the revised section is a provision appearing annually in appropriation acts to enable the Patent Office to maintain a small printing press to place headings on drawings before the drawings are reproduced.
 
@@ -1115,19 +1115,19 @@ A prior section 10 was renumbered section 9 of this title.
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–273, § 13206(b)(3)(A), amended directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4804(b)]. See 1999 Amendment note below.
+2002—Subsec. (a). Pub. L. 107–273, § 13206(b)(3)(A), amended directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4804(b)]. See 1999 Amendment note below.
 
-Subsec. (a)1. Pub. L. 107–273, § 13205(2)(A), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(1)]. See 1999 Amendment note below.
+Subsec. (a)1. Pub. L. 107–273, § 13205(2)(A), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(1)]. See 1999 Amendment note below.
 
-Subsec. (b). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+Subsec. (b). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)], renumbered section 11 of this title as this section.
+1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)], renumbered section 11 of this title as this section.
 
-Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4804(b)], as amended by Pub. L. 107–273, § 13206(b)(3)(A), which directed the general amendment of the introductory provisions of subsec. (a) of section 10 of this title to read “The Director may publish in printed, typewritten, or electronic form, the following:”, was executed to this section, which was section 11 of this title, to reflect the probable intent of Congress. This section was subsequently renumbered section 10 of this title by Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)]. Prior to amendment, introductory provisions of subsec. (a) read as follows: “The Commissioner may print, or cause to be printed, the following:”. See note above and Effective Date of 1999 Amendment note below.
+Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4804(b)], as amended by Pub. L. 107–273, § 13206(b)(3)(A), which directed the general amendment of the introductory provisions of subsec. (a) of section 10 of this title to read “The Director may publish in printed, typewritten, or electronic form, the following:”, was executed to this section, which was section 11 of this title, to reflect the probable intent of Congress. This section was subsequently renumbered section 10 of this title by Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)]. Prior to amendment, introductory provisions of subsec. (a) read as follows: “The Commissioner may print, or cause to be printed, the following:”. See note above and Effective Date of 1999 Amendment note below.
 
-Subsec. (a)1. Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(1)], as amended by Pub. L. 107–273, § 13205(2)(A), inserted “and published applications for patents” after “Patents”.
+Subsec. (a)1. Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(1)], as amended by Pub. L. 107–273, § 13205(2)(A), inserted “and published applications for patents” after “Patents”.
 
-Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner”.
+Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner”.
 
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”, wherever appearing.
 
@@ -1135,15 +1135,15 @@ Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)],
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4508], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, as amended by Pub. L. 107–273, div. C, title III, § 13205(3), Nov. 2, 2002, 116 Stat. 1903, provided that: “Except as otherwise provided in this section, sections 4502 through 4504 and 4506 through 4507 [amending sections 10 to 12, 119, 120, 122, 135, 154, 181, 252, 284, and 374 of this title and enacting provisions set out as notes under sections 41 and 122 of this title], and the amendments made by such sections, shall be effective as of November 29, 2000, and shall apply only to applications (including international applications designating the United States) filed on or after that date. The amendments made by section 4504 [amending section 154 of this title] shall additionally apply to any pending application filed before November 29, 2000, if such pending application is published pursuant to a request of the applicant under such procedures as may be established by the Director. Except as otherwise provided in this section, the amendments made by section 4505 [amending section 102 of this title] shall be effective as of November 29, 2000 and shall apply to all patents and all applications for patents pending on or filed after November 29, 2000. Patents resulting from an international application filed before November 29, 2000 and applications published pursuant to section 122(b) [probably means section 122(b) of title 35] or Article 21(2) of the treaty defined in section 351(a) [probably means section 351(a) of title 35] resulting from an international application filed before November 29, 2000 shall not be effective as prior art as of the filing date of the international application; however, such patents shall be effective as prior art in accordance with section 102(e) in effect on November 28, 2000.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4508], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, as amended by Pub. L. 107–273, div. C, title III, § 13205(3), Nov. 2, 2002, 116 Stat. 1903, provided that: “Except as otherwise provided in this section, sections 4502 through 4504 and 4506 through 4507 [amending sections 10 to 12, 119, 120, 122, 135, 154, 181, 252, 284, and 374 of this title and enacting provisions set out as notes under sections 41 and 122 of this title], and the amendments made by such sections, shall be effective as of November 29, 2000, and shall apply only to applications (including international applications designating the United States) filed on or after that date. The amendments made by section 4504 [amending section 154 of this title] shall additionally apply to any pending application filed before November 29, 2000, if such pending application is published pursuant to a request of the applicant under such procedures as may be established by the Director. Except as otherwise provided in this section, the amendments made by section 4505 [amending section 102 of this title] shall be effective as of November 29, 2000 and shall apply to all patents and all applications for patents pending on or filed after November 29, 2000. Patents resulting from an international application filed before November 29, 2000 and applications published pursuant to section 122(b) [probably means section 122(b) of title 35] or Article 21(2) of the treaty defined in section 351(a) [probably means section 351(a) of title 35] resulting from an international application filed before November 29, 2000 shall not be effective as prior art as of the filing date of the international application; however, such patents shall be effective as prior art in accordance with section 102(e) in effect on November 28, 2000.”
 
-Amendment by section 1000(a)(9) [title IV, §§ 4717(1), 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by section 1000(a)(9) [title IV, §§ 4717(1), 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1975 Amendment**
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-## § 11. Exchange of copies of patents and applications with foreign countries
+## § 11. Exchange of copies of patents and applications with foreign countries
 
 **(a) In General.—** The Director may exchange copies of specifications and drawings of United States patents and published applications for patents for those of foreign countries. The Director shall not enter into an agreement to provide such copies of specifications and drawings of United States patents and applications to a foreign country, other than a USMCA country or a WTO member country, without the express authorization of the Secretary of Commerce.
 
@@ -1153,11 +1153,11 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 **(2)** the term “WTO member country” has the meaning given that term in section 2(10) of the Uruguay Round Agreements Act (19 U.S.C. 3501(10)).
 
-(July 19, 1952, ch. 950, 66 Stat. 794, § 12; renumbered § 11 and amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4507(2), 4717(1), 4732(a)(10)(A), 4808], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–580, 1501A–582, 1501A–591; Pub. L. 107–273, div. C, title III, §§ 13205(2)(B), 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1903, 1906; Pub. L. 116–260, div. O, title VI, § 602(d), Dec. 27, 2020, 134 Stat. 2153.)
+(July 19, 1952, ch. 950, 66 Stat. 794, § 12; renumbered § 11 and amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4507(2), 4717(1), 4732(a)(10)(A), 4808], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–580, 1501A–582, 1501A–591; Pub. L. 107–273, div. C, title III, §§ 13205(2)(B), 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1903, 1906; Pub. L. 116–260, div. O, title VI, § 602(d), Dec. 27, 2020, 134 Stat. 2153.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., §§ 15, and 78, part (Jan. 14, 1915, 38 Stat. 1221; Feb. 18, 1922, ch. 58, § 9, proviso in, 42 Stat. 393).
+Based on Title 35, U.S.C., 1946 ed., §§ 15, and 78, part (Jan. 14, 1915, 38 Stat. 1221; Feb. 18, 1922, ch. 58, § 9, proviso in, 42 Stat. 393).
 
 The first act mentioned applies to Canada only, the second to any country; these are consolidated in one section, specific reference to one country not being necessary.
 
@@ -1173,17 +1173,17 @@ A prior section 11 was renumbered section 10 of this title.
 
 2020—Pub. L. 116–260 designated existing provisions as subsec. (a) and inserted heading, substituted “other than a USMCA country” for “other than a NAFTA country”, and substituted subsec. (b) for former third sentence which read as follows: “For purposes of this section, the terms ‘NAFTA country’ and ‘WTO member country’ have the meanings given those terms in section 104(b).”
 
-2002—Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+2002—Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
 
-Pub. L. 107–273, § 13205(2)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(2)]. See 1999 Amendment note below.
+Pub. L. 107–273, § 13205(2)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(2)]. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4808], inserted at end “The Director shall not enter into an agreement to provide such copies of specifications and drawings of United States patents and applications to a foreign country, other than a NAFTA country or a WTO member country, without the express authorization of the Secretary of Commerce. For purposes of this section, the terms ‘NAFTA country’ and ‘WTO member country’ have the meanings given those terms in section 104(b).”
+1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4808], inserted at end “The Director shall not enter into an agreement to provide such copies of specifications and drawings of United States patents and applications to a foreign country, other than a NAFTA country or a WTO member country, without the express authorization of the Secretary of Commerce. For purposes of this section, the terms ‘NAFTA country’ and ‘WTO member country’ have the meanings given those terms in section 104(b).”
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner”.
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner”.
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)], renumbered section 12 of this title as this section.
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)], renumbered section 12 of this title as this section.
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(2)], as amended by Pub. L. 107–273, § 13205(2)(B), inserted “and applications” after “patents” in section catchline and “and published applications for patents” after “patents” in text.
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(2)], as amended by Pub. L. 107–273, § 13205(2)(B), inserted “and applications” after “patents” in section catchline and “and published applications for patents” after “patents” in text.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1193,19 +1193,19 @@ Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div
 
 **Effective Date of 1999 Amendment**
 
-Amendment by section 1000(a)(9) [title IV, § 4507(2)] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
+Amendment by section 1000(a)(9) [title IV, § 4507(2)] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
-Amendment by section 1000(a)(9) [title IV, §§ 4717(1), 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by section 1000(a)(9) [title IV, §§ 4717(1), 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
-## § 12. Copies of patents and applications for public libraries
+## § 12. Copies of patents and applications for public libraries
 
 The Director may supply copies of specifications and drawings of patents and published applications for patents in printed or electronic form to public libraries in the United States which shall maintain such copies for the use of the public, at the rate for each year’s issue established for this purpose in section 41(d).
 
-(July 19, 1952, ch. 950, 66 Stat. 794, § 13; Pub. L. 97–247, § 15, Aug. 27, 1982, 96 Stat. 321; renumbered § 12 and amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4507(3), 4717(1), 4732(a)(10)(A), 4804(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–580, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §§ 13205(2)(C), 13206(b)(1)(B), (3)(B), Nov. 2, 2002, 116 Stat. 1903, 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
+(July 19, 1952, ch. 950, 66 Stat. 794, § 13; Pub. L. 97–247, § 15, Aug. 27, 1982, 96 Stat. 321; renumbered § 12 and amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4507(3), 4717(1), 4732(a)(10)(A), 4804(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–580, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §§ 13205(2)(C), 13206(b)(1)(B), (3)(B), Nov. 2, 2002, 116 Stat. 1903, 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 78, part (R.S. 4934, Feb. 18, 1922, ch. 58, § 9, 42 Stat. 389, 393, amended June 15, 1950, ch. 249, 64 Stat. 215).
+Based on Title 35, U.S.C., 1946 ed., § 78, part (R.S. 4934, Feb. 18, 1922, ch. 58, § 9, 42 Stat. 389, 393, amended June 15, 1950, ch. 249, 64 Stat. 215).
 
 The proviso in the schedule of fees of the existing statute is made a separate section and some changes in language are made.
 
@@ -1219,19 +1219,19 @@ A prior section 12 was renumbered section 11 of this title.
 
 2011—Pub. L. 112–29 struck out “of this title” after “41(d)”.
 
-2002—Pub. L. 107–273, § 13206(b)(3)(B), amended directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4804(c)]. See 1999 Amendment note below.
+2002—Pub. L. 107–273, § 13206(b)(3)(B), amended directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4804(c)]. See 1999 Amendment note below.
 
-Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
 
-Pub. L. 107–273, § 13205(2)(C), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(3)]. See 1999 Amendment note below.
+Pub. L. 107–273, § 13205(2)(C), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(3)]. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4804(c)], as amended by Pub. L. 107–273, § 13206(b)(3)(B), which directed amendment of section 12 of this title by substituting “copies of specifications and drawings of patents in printed or electronic form” for “printed copies of specifications and drawings of patents”, was executed to this section, which was section 13 of this title, to reflect the probable intent of Congress. This section was subsequently renumbered section 12 of this title by Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)]. See note above and Effective Date of 1999 Amendment note below.
+1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4804(c)], as amended by Pub. L. 107–273, § 13206(b)(3)(B), which directed amendment of section 12 of this title by substituting “copies of specifications and drawings of patents in printed or electronic form” for “printed copies of specifications and drawings of patents”, was executed to this section, which was section 13 of this title, to reflect the probable intent of Congress. This section was subsequently renumbered section 12 of this title by Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)]. See note above and Effective Date of 1999 Amendment note below.
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner”.
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner”.
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)], renumbered section 13 of this title as this section.
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4717(1)], renumbered section 13 of this title as this section.
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(3)], as amended by Pub. L. 107–273, § 13205(2)(C), inserted “and applications” after “patents” in section catchline and “and published applications for patents” after “patents” in text.
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(3)], as amended by Pub. L. 107–273, § 13205(2)(C), inserted “and applications” after “patents” in section catchline and “and published applications for patents” after “patents” in text.
 
 1982—Pub. L. 97–247 substituted “section 41(d)” for “section 41(a)9”.
 
@@ -1243,25 +1243,25 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 **Effective Date of 1999 Amendment**
 
-Amendment by section 1000(a)(9) [title IV, § 4507(3)] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
+Amendment by section 1000(a)(9) [title IV, § 4507(3)] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
-Amendment by section 1000(a)(9) [title IV, §§ 4717(1), 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by section 1000(a)(9) [title IV, §§ 4717(1), 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1982 Amendment**
 
 Amendment by Pub. L. 97–247 effective Aug. 27, 1982, see section 17(a) of Pub. L. 97–247, set out as a note under section 41 of this title.
 
-## § 13. Annual report to Congress
+## § 13. Annual report to Congress
 
 The Director shall report to the Congress, not later than 180 days after the end of each fiscal year, the moneys received and expended by the Office, the purposes for which the moneys were spent, the quality and quantity of the work of the Office, the nature of training provided to examiners, the evaluation of the Commissioner of Patents and the Commissioner of Trademarks by the Secretary of Commerce, the compensation of the Commissioners, and other information relating to the Office.
 
-(July 19, 1952, ch. 950, 66 Stat. 794, § 14; renumbered § 13 and amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4717(1), 4718], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–581.)
+(July 19, 1952, ch. 950, 66 Stat. 794, § 14; renumbered § 13 and amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4717(1), 4718], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–581.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 20 (R.S. 494).
+Based on Title 35, U.S.C., 1946 ed., § 20 (R.S. 494).
 
-Language is changed. The lists referred to in the corresponding section of existing statute, and which are omitted from the revised section, are the indexes provided for in section 11(a)4. The month of reporting is omitted. The report contemplated by R.S. 494 has been discontinued since 1925 under authority of 44 U.S.C., 1946 ed., § 212.
+Language is changed. The lists referred to in the corresponding section of existing statute, and which are omitted from the revised section, are the indexes provided for in section 11(a)4. The month of reporting is omitted. The report contemplated by R.S. 494 has been discontinued since 1925 under authority of 44 U.S.C., 1946 ed., § 212.
 
 **Editorial Notes**
 
@@ -1277,11 +1277,11 @@ A prior section 13 was renumbered section 12 of this title.
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Report to Congress**
 
-Pub. L. 100–703, title I, § 103(c), Nov. 19, 1988, 102 Stat. 4674, provided that:
+Pub. L. 100–703, title I, § 103(c), Nov. 19, 1988, 102 Stat. 4674, provided that:
 
 > “The Secretary of Commerce shall, on the day on which the President submits the annual budget to the Congress, provide to the Committees on the Judiciary of the Senate and the House of Representatives—
 
@@ -1297,10 +1297,10 @@ Pub. L. 100–703, title I, § 103(c), Nov. 19, 1988, 102 Stat. 4674, provided
 
 Similar provisions were contained in the following prior authorization act:
 
-Pub. L. 99–607, § 3(c), Nov. 6, 1986, 100 Stat. 3471.
+Pub. L. 99–607, § 3(c), Nov. 6, 1986, 100 Stat. 3471.
 
 **Computerized Data and Retrieval System; Report to Congress**
 
-Pub. L. 96–517, § 9, Dec. 12, 1980, 94 Stat. 3028, directed the Commissioner of Patents and Trademarks to report to Congress, within two years after Dec. 12, 1980, a plan to identify, and if necessary develop or have developed, computerized data and retrieval systems equivalent to the latest state of the art which could be applied to all aspects of the operation of the Patent and Trademark Office, and particularly to the patent search file, the patent classification system, and the trademark search file. The report was to specify the cost of implementing the plan, and how rapidly the plan could be implemented by the Patent and Trademark Office, without regard to the availability of future funding.
+Pub. L. 96–517, § 9, Dec. 12, 1980, 94 Stat. 3028, directed the Commissioner of Patents and Trademarks to report to Congress, within two years after Dec. 12, 1980, a plan to identify, and if necessary develop or have developed, computerized data and retrieval systems equivalent to the latest state of the art which could be applied to all aspects of the operation of the Patent and Trademark Office, and particularly to the patent search file, the patent classification system, and the trademark search file. The report was to specify the cost of implementing the plan, and how rapidly the plan could be implemented by the Patent and Trademark Office, without regard to the availability of future funding.
 
-## [§ 14. Renumbered § 13]
+## [§ 14. Renumbered § 13]

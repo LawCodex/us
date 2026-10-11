@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 433 of this title as this chapter and items 4532 to 4544 as 7532 to 7544, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 433 of this title as this chapter and items 4532 to 4544 as 7532 to 7544, respectively.
 
-2014—Pub. L. 113–291, div. A, title III, § 323(b), Dec. 19, 2014, 128 Stat. 3343, added item 4532 and struck out former item 4532 “Factories and arsenals: manufacture at; abolition of”.
+2014—Pub. L. 113–291, div. A, title III, § 323(b), Dec. 19, 2014, 128 Stat. 3343, added item 4532 and struck out former item 4532 “Factories and arsenals: manufacture at; abolition of”.
 
-2004—Pub. L. 108–375, div. A, title III, § 353(b), Oct. 28, 2004, 118 Stat. 1861, added item 4544.
+2004—Pub. L. 108–375, div. A, title III, § 353(b), Oct. 28, 2004, 118 Stat. 1861, added item 4544.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title III, § 342(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–65, added item 4541.
+2000—Pub. L. 106–398, § 1 [[div. A], title III, § 342(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–65, added item 4541.
 
-1993—Pub. L. 103–160, div. A, title I, § 158(a)(2), title VIII, § 828(a)(5), Nov. 30, 1993, 107 Stat. 1582, 1713, struck out items 4531 “Authorization”, 4533 “Army ration”, 4534 “Subsistence supplies: contract stipulations; place of delivery on inspection”, 4535 “Exceptional subsistence supplies: purchase without advertising”, 4537 “Military surveys and maps: assistance of United States mapping agencies”, 4538 “Unserviceable ammunition: exchange and reclamation”, and 4541 “Gratuitous services of officers of the Army Reserve” and added item 4543.
+1993—Pub. L. 103–160, div. A, title I, § 158(a)(2), title VIII, § 828(a)(5), Nov. 30, 1993, 107 Stat. 1582, 1713, struck out items 4531 “Authorization”, 4533 “Army ration”, 4534 “Subsistence supplies: contract stipulations; place of delivery on inspection”, 4535 “Exceptional subsistence supplies: purchase without advertising”, 4537 “Military surveys and maps: assistance of United States mapping agencies”, 4538 “Unserviceable ammunition: exchange and reclamation”, and 4541 “Gratuitous services of officers of the Army Reserve” and added item 4543.
 
-1986—Pub. L. 99–500, § 101(c) [title IX, § 9036(b)(2)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–108, and Pub. L. 99–591, § 101(c) [title IX, § 9036(b)(2)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–108; Pub. L. 99–661, div. A, title XII, § 1203(a)(2), Nov. 14, 1986, 100 Stat. 3969, amended analysis identically adding item 4542.
+1986—Pub. L. 99–500, § 101(c) [title IX, § 9036(b)(2)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–108, and Pub. L. 99–591, § 101(c) [title IX, § 9036(b)(2)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–108; Pub. L. 99–661, div. A, title XII, § 1203(a)(2), Nov. 14, 1986, 100 Stat. 3969, amended analysis identically adding item 4542.
 
-1982—Pub. L. 97–258, § 2(b)(9)(A), Sept. 13, 1982, 96 Stat. 1056, added item 4541.
+1982—Pub. L. 97–258, § 2(b)(9)(A), Sept. 13, 1982, 96 Stat. 1056, added item 4541.
 
-1970—Pub. L. 91–482, § 2A, Oct. 21, 1970, 84 Stat. 1082, struck out item 4539 “Horses and mules”.
+1970—Pub. L. 91–482, § 2A, Oct. 21, 1970, 84 Stat. 1082, struck out item 4539 “Horses and mules”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Authority for Government-Owned, Government-Operated Facilities To Access Production Base Support Funds**
 
-Pub. L. 118–159, div. A, title III, § 335, Dec. 23, 2024, 138 Stat. 1856, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall prescribe regulations providing that Government-owned, Government-operated facilities are eligible to receive production base support funding from the Army.”
+Pub. L. 118–159, div. A, title III, § 335, Dec. 23, 2024, 138 Stat. 1856, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall prescribe regulations providing that Government-owned, Government-operated facilities are eligible to receive production base support funding from the Army.”
 
 **Anti-Lock Brake System and Electronic Stability Control Kit for Certain Army Vehicles**
 
-Pub. L. 118–159, div. A, title III, § 355, Dec. 23, 2024, 138 Stat. 1859, provided that:
+Pub. L. 118–159, div. A, title III, § 355, Dec. 23, 2024, 138 Stat. 1859, provided that:
 
 > **“(a) Requirement.—** By not later than September 30, 2033, the Secretary of the Army shall ensure that all high-mobility multipurpose wheeled vehicles of the Army are equipped with an anti-lock brake system and electronic stability control kit.
 
@@ -63,7 +63,7 @@ Pub. L. 118–159, div. A, title III, § 355, Dec. 23, 2024, 138 Stat. 1859, p
 
 **Designation of Program Executive Office for Acquisition of Open-Source Intelligence Tools for Army**
 
-Pub. L. 118–159, div. A, title VIII, § 840, Dec. 23, 2024, 138 Stat. 1990, provided that:
+Pub. L. 118–159, div. A, title VIII, § 840, Dec. 23, 2024, 138 Stat. 1990, provided that:
 
 > **“(a) In General.—** The Secretary of the Army may designate an existing program executive office within the Army to be responsible for the acquisition of open-source intelligence tools for the Army.
 
@@ -73,7 +73,7 @@ Pub. L. 118–159, div. A, title VIII, § 840, Dec. 23, 2024, 138 Stat. 1990, 
 
 **Pilot Program To Facilitate Access to Advanced Technology Developed by Small Businesses for Ground Vehicle Systems of the Army**
 
-Pub. L. 118–31, div. A, title II, § 232, Dec. 22, 2023, 137 Stat. 205, provided that:
+Pub. L. 118–31, div. A, title II, § 232, Dec. 22, 2023, 137 Stat. 205, provided that:
 
 > **“(a) Program Required.—** Beginning not later than 90 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of the Army shall carry out a pilot program under which the Secretary seeks to facilitate a contract between the Ground Vehicle Systems Center of the Army and a non-profit research institute for the purposes of improving the ability of the Center to access advanced technology developed by a small business concern (as defined under section 3 of the Small Business Act (15 U.S.C. 632)). Any such contract shall be a commercial solutions opening contract entered into pursuant to section 3458 of title 10, United States Code.
 
@@ -81,7 +81,7 @@ Pub. L. 118–31, div. A, title II, § 232, Dec. 22, 2023, 137 Stat. 205, prov
 
 **Continuation of Soldier Enhancement Program**
 
-Pub. L. 117–81, div. A, title I, § 114, Dec. 27, 2021, 135 Stat. 1567, provided that:
+Pub. L. 117–81, div. A, title I, § 114, Dec. 27, 2021, 135 Stat. 1567, provided that:
 
 > **“(a) Requirement to Continue Program.—** The Secretary of the Army, acting through the Assistant Secretary of the Army for Acquisition, Logistics, and Technology in accordance with subsection (b), shall continue to carry out the Soldier Enhancement Program established pursuant to section 203 of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Sat. 1394 [probably should be “103 Stat. 1394”]).
 
@@ -95,7 +95,7 @@ Pub. L. 117–81, div. A, title I, § 114, Dec. 27, 2021, 135 Stat. 1567, prov
 
 **Military Standards for Armor Materials in Vehicle Specifications**
 
-Pub. L. 117–81, div. A, title VIII, § 878, Dec. 27, 2021, 135 Stat. 1867, provided that:
+Pub. L. 117–81, div. A, title VIII, § 878, Dec. 27, 2021, 135 Stat. 1867, provided that:
 
 > **“(a) In General.—** Not later than June 30, 2022, the Secretary of the Army shall establish technical specification standards for all metal and non-metal armor for incorporation into specifications for current and future armored vehicles developed or procured by the Department of the Army.
 
@@ -111,17 +111,17 @@ Pub. L. 117–81, div. A, title VIII, § 878, Dec. 27, 2021, 135 Stat. 1867, p
 
 > **“(c) Armored Vehicle Defined.—** For purposes of this section, the term ‘armored vehicle’ means a tracked or wheeled tactical vehicle incorporating armor in its manufacture.”
 
-## § 7532. Factories and arsenals: manufacture at
+## § 7532. Factories and arsenals: manufacture at
 
 The Secretary of the Army shall have supplies needed for the Department of the Army made in factories or arsenals owned by the United States, so far as those factories or arsenals can make those supplies on an economical basis.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 254, § 4532; Pub. L. 113–291, div. A, title III, § 323(a), Dec. 19, 2014, 128 Stat. 3343; renumbered § 7532, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 254, § 4532; Pub. L. 113–291, div. A, title III, § 323(a), Dec. 19, 2014, 128 Stat. 3343; renumbered § 7532, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4532(a) 4532(b) | 5:181–4(e). 50:55. | June 28, 1950, ch. 383, § 101(e), 64 Stat. 264. R.S. 1666. |
+| 4532(a) 4532(b) | 5:181–4(e). 50:55. | June 28, 1950, ch. 383, § 101(e), 64 Stat. 264. R.S. 1666. |
 
 The words “Except as otherwise provided by law”, in 5:181–4(e), are omitted, since there is no law within the scope of the exception. The word “made” is substituted for the words “manufactured or produced”. The words “United States” are substituted for the word “Government”, in 5:181–4(e). The words “which he considers” are substituted for the words “as, in his judgment”, in 50:55. The words “useless or”, in 50:55, are omitted as surplusage.
 
@@ -131,7 +131,7 @@ The words “Except as otherwise provided by law”, in 5:181–4(e), are omitte
 
 2018—Pub. L. 115–232 renumbered section 4532 of this title as this section.
 
-2014—Pub. L. 113–291 struck out “; abolition of” after “manufacture at” in section catchline, struck out subsec. (a) designation before “The Secretary”, and struck out subsec. (b) which read as follows: “The Secretary may abolish any United States arsenal that he considers unnecessary”.
+2014—Pub. L. 113–291 struck out “; abolition of” after “manufacture at” in section catchline, struck out subsec. (a) designation before “The Secretary”, and struck out subsec. (b) which read as follows: “The Secretary may abolish any United States arsenal that he considers unnecessary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -139,7 +139,7 @@ The words “Except as otherwise provided by law”, in 5:181–4(e), are omitte
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7536. Equipment: post bakeries, schools, kitchens, and mess halls
+## § 7536. Equipment: post bakeries, schools, kitchens, and mess halls
 
 Money necessary for the following items for the use of enlisted members of the Army may be spent from appropriations for regular supplies:
 
@@ -149,7 +149,7 @@ Money necessary for the following items for the use of enlisted members of the A
 
 **(3)** Tableware and mess furniture for kitchens and mess halls.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 254, § 4536; renumbered § 7536, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 254, § 4536; renumbered § 7536, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -157,7 +157,7 @@ Money necessary for the following items for the use of enlisted members of the A
 |---|---|---|
 | 4536 | 10:1334. | June 13, 1890, ch. 423 (1st proviso under “Quartermaster’s Department”), 26 Stat. 152. |
 
-The words “Money necessary \* \* \* may be spent” are substituted for the words “There may be expended \* \* \* the amounts required”. The word “bakeries” is substituted for the words “bake house to carry on post bakeries”. The words “each and all” are omitted as surplusage.
+The words “Money necessary \* \* \* may be spent” are substituted for the words “There may be expended \* \* \* the amounts required”. The word “bakeries” is substituted for the words “bake house to carry on post bakeries”. The words “each and all” are omitted as surplusage.
 
 **Editorial Notes**
 
@@ -171,7 +171,7 @@ The words “Money necessary \* \* \* may be spent” are substituted for th
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7540. Architectural and engineering services
+## § 7540. Architectural and engineering services
 
 **(a)** Whenever he considers that it is advantageous to the national defense and that existing facilities of the Department of the Army are inadequate, the Secretary of the Army may, by contract or otherwise, employ the architectural or engineering services of any person outside that Department for producing and delivering designs, plans, drawings, and specifications needed for any public works or utilities project of the Department.
 
@@ -179,13 +179,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** Sections 305, 3324, and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of title 5 do not apply to employment under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 255, § 4540; Pub. L. 89–718, § 28, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 95–454, title VII, § 703(c)(3), title VIII, § 801(a)(3)(I), Oct. 13, 1978, 92 Stat. 1217, 1222; Pub. L. 96–513, title V, § 512(16), Dec. 12, 1980, 94 Stat. 2930; renumbered § 7540, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839; Pub. L. 118–31, div. B, title XXVIII, § 2881(a), Dec. 22, 2023, 137 Stat. 780.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 255, § 4540; Pub. L. 89–718, § 28, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 95–454, title VII, § 703(c)(3), title VIII, § 801(a)(3)(I), Oct. 13, 1978, 92 Stat. 1217, 1222; Pub. L. 96–513, title V, § 512(16), Dec. 12, 1980, 94 Stat. 2930; renumbered § 7540, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839; Pub. L. 118–31, div. B, title XXVIII, § 2881(a), Dec. 22, 2023, 137 Stat. 780.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4540(a) | 5:221 (1st sentence, less last 15 words). | Aug. 7, 1939, ch. 511, § 2, 53 Stat. 1240. |
+| 4540(a) | 5:221 (1st sentence, less last 15 words). | Aug. 7, 1939, ch. 511, § 2, 53 Stat. 1240. |
 | 4540(b) | 5:221 (less 1st sentence). |  |
 | 4540(c) | 5:221 (last 15 words of 1st sentence). |  |
 
@@ -203,9 +203,9 @@ In subsection (c), reference is made in substance to the Classification Act of 1
 
 1980—Subsec. (c). Pub. L. 96–513 substituted “and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of title 5” for “5101–5115, 5331–5338, 5341, 5342, and 7204 of title 5 and subchapter VI of chapter 53 of title 5”.
 
-1978—Subsec. (c). Pub. L. 95–454, § 801(a)(3)(I), inserted reference to subchapter VI of chapter 53 of title 5.
+1978—Subsec. (c). Pub. L. 95–454, § 801(a)(3)(I), inserted reference to subchapter VI of chapter 53 of title 5.
 
-Pub. L. 95–454, § 703(c)(3), substituted “7204” for “7154”.
+Pub. L. 95–454, § 703(c)(3), substituted “7204” for “7154”.
 
 1966—Subsec. (c). Pub. L. 89–718 substituted “Sections 305, 3324, 5101–5115, 5331–5338, 5341, 5342, and 7154 of title 5” for “Sections 1071–1153 of title 5”.
 
@@ -225,7 +225,7 @@ Amendment by section 703(c)(3) of Pub. L. 95–454 effective 90 days after Oct. 
 
 Amendment by section 801(a)(3)(I) of Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of Title 5.
 
-## § 7541. Army arsenals: treatment of unutilized or underutilized plant-capacity costs
+## § 7541. Army arsenals: treatment of unutilized or underutilized plant-capacity costs
 
 **(a) Estimate of Costs.—** The Secretary of the Army shall include in the budget justification documents submitted to Congress in support of the President’s budget for a fiscal year submitted under section 1105 of title 31 an estimate of the funds to be required in that fiscal year to cover unutilized and underutilized plant-capacity costs at Army arsenals.
 
@@ -243,7 +243,7 @@ Amendment by section 801(a)(3)(I) of Pub. L. 95–454 effective on first day of 
 
 **(2)** The term “unutilized and underutilized plant-capacity costs” means the costs associated with operating and maintaining the facilities and equipment of an Army arsenal that the Secretary of the Army determines are required to be kept for mobilization needs, in those months in which the facilities and equipment are not used or are used only 20 percent or less of available work days.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title III, § 342(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–64, § 4541; renumbered § 7541, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 106–398, § 1 [[div. A], title III, § 342(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–64, § 4541; renumbered § 7541, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -261,7 +261,7 @@ Prior sections 7541 to 7541b were renumbered sections 8761 to 8761b of this titl
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7542. Technical data packages for large-caliber cannon: prohibition on transfers to foreign countries; exception
+## § 7542. Technical data packages for large-caliber cannon: prohibition on transfers to foreign countries; exception
 
 **(a) General Rule.—** Funds appropriated to the Department of Defense may not be used—
 
@@ -323,7 +323,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(h) Arsenal Defined.—** In this section, the term “arsenal” means a Government-owned, Government-operated defense plant that manufactures large-caliber cannon.
 
-(Added Pub. L. 99–500, § 101(c) [title IX, § 9036(b)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–107, and Pub. L. 99–591, § 101(c) [title IX, § 9036(b)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–107, § 4542; Pub. L. 99–661, div. A, title XII, § 1203(a)(1), Nov. 14, 1986, 100 Stat. 3968; amended Pub. L. 101–189, div. A, title VIII, § 806, Nov. 29, 1989, 103 Stat. 1489; Pub. L. 102–190, div. A, title X, §§ 1061(a)(24), 1086, Dec. 5, 1991, 105 Stat. 1473, 1483; renumbered § 7542, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 99–500, § 101(c) [title IX, § 9036(b)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–107, and Pub. L. 99–591, § 101(c) [title IX, § 9036(b)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–107, § 4542; Pub. L. 99–661, div. A, title XII, § 1203(a)(1), Nov. 14, 1986, 100 Stat. 3968; amended Pub. L. 101–189, div. A, title VIII, § 806, Nov. 29, 1989, 103 Stat. 1489; Pub. L. 102–190, div. A, title X, §§ 1061(a)(24), 1086, Dec. 5, 1991, 105 Stat. 1473, 1483; renumbered § 7542, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -341,25 +341,25 @@ A prior section 7542 was renumbered section 8762 of this title.
 
 2018—Pub. L. 115–232 renumbered section 4542 of this title as this section.
 
-1991—Subsec. (b)(1). Pub. L. 102–190, § 1086(a), substituted “friendly foreign country” for “member nation of the North Atlantic Treaty Organization or a country designated as a major non-NATO ally”.
+1991—Subsec. (b)(1). Pub. L. 102–190, § 1086(a), substituted “friendly foreign country” for “member nation of the North Atlantic Treaty Organization or a country designated as a major non-NATO ally”.
 
-Subsec. (c)(3). Pub. L. 102–190, §§ 1061(a)(24)(A), 1086(b)(1), amended par. (3) identically, substituting “subsection (f)” for “subsection (d)” in introductory provisions.
+Subsec. (c)(3). Pub. L. 102–190, §§ 1061(a)(24)(A), 1086(b)(1), amended par. (3) identically, substituting “subsection (f)” for “subsection (d)” in introductory provisions.
 
-Subsec. (f). Pub. L. 102–190, §§ 1061(a)(24)(B), 1086(b)(2), amended subsec. identically, substituting “subsection (c)(3)” for “subsection (b)(3)” in introductory provisions.
+Subsec. (f). Pub. L. 102–190, §§ 1061(a)(24)(B), 1086(b)(2), amended subsec. identically, substituting “subsection (c)(3)” for “subsection (b)(3)” in introductory provisions.
 
-1989—Subsec. (b)(1). Pub. L. 101–189, § 806(a)(1), substituted “a member nation of the North Atlantic Treaty Organization or a country designated as a major non-NATO ally” for “a friendly foreign country”.
+1989—Subsec. (b)(1). Pub. L. 101–189, § 806(a)(1), substituted “a member nation of the North Atlantic Treaty Organization or a country designated as a major non-NATO ally” for “a friendly foreign country”.
 
-Subsec. (b)(2)(B). Pub. L. 101–189, § 806(a)(2), inserted “, except as provided in subsection (e)” after “arsenal concerned”.
+Subsec. (b)(2)(B). Pub. L. 101–189, § 806(a)(2), inserted “, except as provided in subsection (e)” after “arsenal concerned”.
 
-Subsec. (b)(3). Pub. L. 101–189, § 806(a)(3), inserted “or (d)” after “subsection (c)”.
+Subsec. (b)(3). Pub. L. 101–189, § 806(a)(3), inserted “or (d)” after “subsection (c)”.
 
-Subsecs. (d), (e). Pub. L. 101–189, § 806(b)(2), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
+Subsecs. (d), (e). Pub. L. 101–189, § 806(b)(2), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
 
-Subsec. (f). Pub. L. 101–189, § 806(b)(1), redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
+Subsec. (f). Pub. L. 101–189, § 806(b)(1), redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
 
-Subsec. (f)(1). Pub. L. 101–189, § 806(c), inserted “or a cooperative project” after “cooperative research and development program”.
+Subsec. (f)(1). Pub. L. 101–189, § 806(c), inserted “or a cooperative project” after “cooperative research and development program”.
 
-Subsecs. (g), (h). Pub. L. 101–189, § 806(b)(1), redesignated subsecs. (e) and (f) as (g) and (h), respectively.
+Subsecs. (g), (h). Pub. L. 101–189, § 806(b)(1), redesignated subsecs. (e) and (f) as (g) and (h), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -369,13 +369,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Pub. L. 99–500, § 101(c) [title IX, § 9036(c)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–108, Pub. L. 99–591, § 101(c) [title IX, § 9036(c)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–108, and Pub. L. 99–661, div. A, title XII, § 1203(b), Nov. 14, 1986, 100 Stat. 3969, provided that: “Section 4542 [now 7542] of title 10, United States Code, as added by subsection (a), shall apply with respect to funds appropriated for fiscal years after fiscal year 1986.”
+Pub. L. 99–500, § 101(c) [title IX, § 9036(c)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–108, Pub. L. 99–591, § 101(c) [title IX, § 9036(c)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–108, and Pub. L. 99–661, div. A, title XII, § 1203(b), Nov. 14, 1986, 100 Stat. 3969, provided that: “Section 4542 [now 7542] of title 10, United States Code, as added by subsection (a), shall apply with respect to funds appropriated for fiscal years after fiscal year 1986.”
 
 **Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661**
 
-For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, § 6, Apr. 21, 1987, 101 Stat. 274, set out as a note under section 101 of this title.
+For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, § 6, Apr. 21, 1987, 101 Stat. 274, set out as a note under section 101 of this title.
 
-## § 7543. Army industrial facilities: sales of manufactured articles or services outside Department of Defense
+## § 7543. Army industrial facilities: sales of manufactured articles or services outside Department of Defense
 
 **(a) Authority To Sell Outside DOD.—** Regulations under section 2208(h) of this title shall authorize a working-capital funded Army industrial facility (including a Department of the Army arsenal) that manufactures large caliber cannons, gun mounts, recoil mechanisms, ammunition, munitions, or components thereof to sell manufactured articles or services to a person outside the Department of Defense if—
 
@@ -439,7 +439,7 @@ For rule of construction for certain duplicate provisions of Public Laws 99–50
 
 **(B)** in the case of services, the extent of the services sold.
 
-(Added Pub. L. 103–160, div. A, title I, § 158(a)(1), Nov. 30, 1993, 107 Stat. 1581, § 4543; amended Pub. L. 103–337, div. A, title I, § 141, Oct. 5, 1994, 108 Stat. 2688; renumbered § 7543, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 103–160, div. A, title I, § 158(a)(1), Nov. 30, 1993, 107 Stat. 1581, § 4543; amended Pub. L. 103–337, div. A, title I, § 141, Oct. 5, 1994, 108 Stat. 2688; renumbered § 7543, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -461,15 +461,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Regulations**
 
-Pub. L. 103–160, div. A, title I, § 158(c), Nov. 30, 1993, 107 Stat. 1582, provided that: “Regulations under subsection (b) of section 4543 [now 7543] of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 30 days after the date of the enactment of this Act [Nov. 30, 1993].”
+Pub. L. 103–160, div. A, title I, § 158(c), Nov. 30, 1993, 107 Stat. 1582, provided that: “Regulations under subsection (b) of section 4543 [now 7543] of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 30 days after the date of the enactment of this Act [Nov. 30, 1993].”
 
 **Pilot Program on Sales of Manufactured Articles and Services of Certain Army Industrial Facilities Without Regard to Availability From Domestic Sources**
 
-Pub. L. 107–314, div. A, title I, § 111(c), Dec. 2, 2002, 116 Stat. 2473, directed the Inspector General of the Department of Defense to review the experience under the pilot program carried out under section 141 of Pub. L. 105–85 (formerly set out below) and, not later than July 1, 2003, submit to Congress a report on the results of the review.
+Pub. L. 107–314, div. A, title I, § 111(c), Dec. 2, 2002, 116 Stat. 2473, directed the Inspector General of the Department of Defense to review the experience under the pilot program carried out under section 141 of Pub. L. 105–85 (formerly set out below) and, not later than July 1, 2003, submit to Congress a report on the results of the review.
 
-Pub. L. 105–85, div. A, title I, § 141, Nov. 18, 1997, 111 Stat. 1652, as amended by Pub. L. 106–65, div. A, title I, § 115, Oct. 5, 1999, 113 Stat. 533; Pub. L. 107–107, div. A, title I, § 112, Dec. 28, 2001, 115 Stat. 1029; Pub. L. 107–314, div. A, title I, § 111(a), (b), Dec. 2, 2002, 116 Stat. 2473; Pub. L. 108–375, div. A, title VIII, § 844, Oct. 28, 2004, 118 Stat. 2019, provided that during fiscal years 1998 through 2009, the Secretary of the Army was to carry out a pilot program to test the efficacy and appropriateness of selling manufactured articles and services of Army industrial facilities under this section without regard to the availability of the articles and services from United States commercial sources, with a report due to Congress by the Inspector General by July 1, 1999.
+Pub. L. 105–85, div. A, title I, § 141, Nov. 18, 1997, 111 Stat. 1652, as amended by Pub. L. 106–65, div. A, title I, § 115, Oct. 5, 1999, 113 Stat. 533; Pub. L. 107–107, div. A, title I, § 112, Dec. 28, 2001, 115 Stat. 1029; Pub. L. 107–314, div. A, title I, § 111(a), (b), Dec. 2, 2002, 116 Stat. 2473; Pub. L. 108–375, div. A, title VIII, § 844, Oct. 28, 2004, 118 Stat. 2019, provided that during fiscal years 1998 through 2009, the Secretary of the Army was to carry out a pilot program to test the efficacy and appropriateness of selling manufactured articles and services of Army industrial facilities under this section without regard to the availability of the articles and services from United States commercial sources, with a report due to Congress by the Inspector General by July 1, 1999.
 
-## § 7544. Army industrial facilities: cooperative activities with non-Army entities
+## § 7544. Army industrial facilities: cooperative activities with non-Army entities
 
 **(a) Cooperative Arrangements Authorized.—** A working-capital funded Army industrial facility may enter into a contract or other cooperative arrangement with a non-Army entity to carry out with the non-Army entity a military or commercial project described in subsection (b), subject to the conditions prescribed in subsection (c).
 
@@ -563,7 +563,7 @@ Pub. L. 105–85, div. A, title I, § 141, Nov. 18, 1997, 111 Stat. 1652, as a
 
 **(5)** The term “variable costs” means the costs that are expected to fluctuate directly with the volume of sales or services provided or the use of equipment or facilities.
 
-(Added Pub. L. 108–375, div. A, title III, § 353(a), Oct. 28, 2004, 118 Stat. 1859, § 4544; amended Pub. L. 109–163, div. A, title III, § 321, Jan. 6, 2006, 119 Stat. 3191; Pub. L. 109–364, div. A, title X, § 1071(a)(29), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 110–181, div. A, title III, § 328(a), Jan. 28, 2008, 122 Stat. 66; Pub. L. 111–84, div. A, title III, § 324(a), Oct. 28, 2009, 123 Stat. 2253; Pub. L. 112–81, div. A, title III, § 323(a), Dec. 31, 2011, 125 Stat. 1362; renumbered § 7544, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 108–375, div. A, title III, § 353(a), Oct. 28, 2004, 118 Stat. 1859, § 4544; amended Pub. L. 109–163, div. A, title III, § 321, Jan. 6, 2006, 119 Stat. 3191; Pub. L. 109–364, div. A, title X, § 1071(a)(29), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 110–181, div. A, title III, § 328(a), Jan. 28, 2008, 122 Stat. 66; Pub. L. 111–84, div. A, title III, § 324(a), Oct. 28, 2009, 123 Stat. 2253; Pub. L. 112–81, div. A, title III, § 323(a), Dec. 31, 2011, 125 Stat. 1362; renumbered § 7544, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -575,33 +575,33 @@ Prior sections 7544 to 7547 were renumbered sections 8764 to 8767 of this title,
 
 2018—Pub. L. 115–232 renumbered section 4544 of this title as this section.
 
-2011—Subsec. (a). Pub. L. 112–81, § 323(a)(1), struck out second sentence which read as follows: “This authority may be used to enter into not more than eight contracts or cooperative agreements in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181).”
+2011—Subsec. (a). Pub. L. 112–81, § 323(a)(1), struck out second sentence which read as follows: “This authority may be used to enter into not more than eight contracts or cooperative agreements in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181).”
 
-Subsec. (k). Pub. L. 112–81, § 323(a)(2), struck out subsec. (k). Prior to amendment, text read as follows: “The authority to enter into a cooperative arrangement under subsection (a) expires September 30, 2014.”
+Subsec. (k). Pub. L. 112–81, § 323(a)(2), struck out subsec. (k). Prior to amendment, text read as follows: “The authority to enter into a cooperative arrangement under subsection (a) expires September 30, 2014.”
 
 2009—Subsec. (a). Pub. L. 111–84 inserted “in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181)” after “not more than eight contracts or cooperative agreements”.
 
-2008—Subsec. (a). Pub. L. 110–181, § 328(a)(1), inserted at end “This authority may be used to enter into not more than eight contracts or cooperative agreements.”
+2008—Subsec. (a). Pub. L. 110–181, § 328(a)(1), inserted at end “This authority may be used to enter into not more than eight contracts or cooperative agreements.”
 
-Subsec. (k). Pub. L. 110–181, § 328(a)(2), substituted “2014” for “2009”.
+Subsec. (k). Pub. L. 110–181, § 328(a)(2), substituted “2014” for “2009”.
 
 2006—Subsec. (d). Pub. L. 109–364 substituted “Arrangement” for “Arangement” in heading.
 
-Pub. L. 109–163, § 321(b)(1), substituted “subsection (f)” for “subsection (e)” in introductory provisions.
+Pub. L. 109–163, § 321(b)(1), substituted “subsection (f)” for “subsection (e)” in introductory provisions.
 
-Subsecs. (e), (f). Pub. L. 109–163, § 321(b)(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsecs. (e), (f). Pub. L. 109–163, § 321(b)(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 109–163, § 321(b)(4), substituted “subsection (f)” for “subsection (e)”.
+Subsec. (g). Pub. L. 109–163, § 321(b)(4), substituted “subsection (f)” for “subsection (e)”.
 
-Pub. L. 109–163, § 321(b)(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Pub. L. 109–163, § 321(b)(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsecs. (h), (i). Pub. L. 109–163, § 321(b)(2), redesignated subsecs. (g) and (h) as (h) and (i), respectively. Former subsec. (i) redesignated (j).
+Subsecs. (h), (i). Pub. L. 109–163, § 321(b)(2), redesignated subsecs. (g) and (h) as (h) and (i), respectively. Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 109–163, § 321(b)(2), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
+Subsec. (j). Pub. L. 109–163, § 321(b)(2), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
-Pub. L. 109–163, § 321(a), substituted “September 30, 2009.” for “September 30, 2009, and arrangements entered into under such subsection shall terminate not later than that date.”
+Pub. L. 109–163, § 321(a), substituted “September 30, 2009.” for “September 30, 2009, and arrangements entered into under such subsection shall terminate not later than that date.”
 
-Subsec. (k). Pub. L. 109–163, § 321(b)(2), redesignated subsec. (j) as (k).
+Subsec. (k). Pub. L. 109–163, § 321(b)(2), redesignated subsec. (j) as (k).
 
 **Statutory Notes and Related Subsidiaries**
 

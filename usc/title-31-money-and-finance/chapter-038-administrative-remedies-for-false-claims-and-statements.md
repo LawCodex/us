@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1995—Pub. L. 104–66, title III, § 3001(c)(2), Dec. 21, 1995, 109 Stat. 734, struck out item 3810 “Reports”.
+1995—Pub. L. 104–66, title III, § 3001(c)(2), Dec. 21, 1995, 109 Stat. 734, struck out item 3810 “Reports”.
 
-## § 3801. Definitions
+## § 3801. Definitions
 
 **(a)** For purposes of this chapter—
 
@@ -161,7 +161,7 @@ except that such term does not include any statement made in any return of tax i
 
 **(d)** For purposes of subsection (a)(10), materiality shall be determined in the same manner as under section 3729 of this title.
 
-(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1934; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–272, § 4(f)(1)(Q), July 5, 1994, 108 Stat. 1362; Pub. L. 110–69, title VII, § 7017, Aug. 9, 2007, 121 Stat. 684; Pub. L. 110–409, § 10, Oct. 14, 2008, 122 Stat. 4314; Pub. L. 117–286, § 4(b)(56), Dec. 27, 2022, 136 Stat. 4349; Pub. L. 118–159, div. E, title LII, § 5203(b)(1), (g)(1)(A), (i), Dec. 23, 2024, 138 Stat. 2440, 2442, 2443.)
+(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1934; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–272, § 4(f)(1)(Q), July 5, 1994, 108 Stat. 1362; Pub. L. 110–69, title VII, § 7017, Aug. 9, 2007, 121 Stat. 684; Pub. L. 110–409, § 10, Oct. 14, 2008, 122 Stat. 4314; Pub. L. 117–286, § 4(b)(56), Dec. 27, 2022, 136 Stat. 4349; Pub. L. 118–159, div. E, title LII, § 5203(b)(1), (g)(1)(A), (i), Dec. 23, 2024, 138 Stat. 2440, 2442, 2443.)
 
 **Editorial Notes**
 
@@ -171,21 +171,21 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(3), (9), is classi
 
 **Amendments**
 
-2024—Subsec. (a)(3)(C). Pub. L. 118–159, § 5203(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “made to an authority which has the effect of decreasing an obligation to pay or account for property, services, or money,”.
+2024—Subsec. (a)(3)(C). Pub. L. 118–159, § 5203(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “made to an authority which has the effect of decreasing an obligation to pay or account for property, services, or money,”.
 
-Subsec. (a)(7)(C). Pub. L. 118–159, § 5203(g)(1)(A), added subpar. (C).
+Subsec. (a)(7)(C). Pub. L. 118–159, § 5203(g)(1)(A), added subpar. (C).
 
-Subsec. (a)(10), (11). Pub. L. 118–159, § 5203(i)(1), added pars. (10) and (11).
+Subsec. (a)(10), (11). Pub. L. 118–159, § 5203(i)(1), added pars. (10) and (11).
 
-Subsec. (d). Pub. L. 118–159, § 5203(i)(2), added subsec. (d).
+Subsec. (d). Pub. L. 118–159, § 5203(i)(2), added subsec. (d).
 
-2022—Subsec. (a)(1)(C). Pub. L. 117–286, § 4(b)(56)(A), substituted “section 401 of title 5)” for “section 11(2) of the Inspector General Act of 1978)”.
+2022—Subsec. (a)(1)(C). Pub. L. 117–286, § 4(b)(56)(A), substituted “section 401 of title 5)” for “section 11(2) of the Inspector General Act of 1978)”.
 
-Subsec. (a)(1)(F). Pub. L. 117–286, § 4(b)(56)(B), substituted “section 415(a) of title 5)” for “section 8G(a)(2) of the Inspector General Act of 1978)”.
+Subsec. (a)(1)(F). Pub. L. 117–286, § 4(b)(56)(B), substituted “section 415(a) of title 5)” for “section 8G(a)(2) of the Inspector General Act of 1978)”.
 
-Subsec. (a)(4)(A)(i). Pub. L. 117–286, § 4(b)(56)(C), substituted “chapter 4 of title 5” for “the Inspector General Act of 1978”.
+Subsec. (a)(4)(A)(i). Pub. L. 117–286, § 4(b)(56)(C), substituted “chapter 4 of title 5” for “the Inspector General Act of 1978”.
 
-Subsec. (a)(4)(A)(ii). Pub. L. 117–286, § 4(b)(56)(D), substituted “chapter 4 of title 5” for “the Inspector General Act of 1978”.
+Subsec. (a)(4)(A)(ii). Pub. L. 117–286, § 4(b)(56)(D), substituted “chapter 4 of title 5” for “the Inspector General Act of 1978”.
 
 2008—Subsec. (a)(1)(F). Pub. L. 110–409 added subpar. (F).
 
@@ -199,21 +199,21 @@ Subsec. (a)(4)(A)(ii). Pub. L. 117–286, § 4(b)(56)(D), substituted “chapt
 
 **Change of Name**
 
-Pub. L. 118–159, div. E, title LII, § 5203(a)(2), Dec. 23, 2024, 138 Stat. 2440, provided that: “Any reference to the Program Fraud Civil Remedies Act of 1986 in any provision of law, regulation, map, document, record, or other paper of the United States shall be deemed a reference to the Administrative False Claims Act [see Short Title note below].”
+Pub. L. 118–159, div. E, title LII, § 5203(a)(2), Dec. 23, 2024, 138 Stat. 2440, provided that: “Any reference to the Program Fraud Civil Remedies Act of 1986 in any provision of law, regulation, map, document, record, or other paper of the United States shall be deemed a reference to the Administrative False Claims Act [see Short Title note below].”
 
 **Effective Date**
 
-Pub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6104, Oct. 21, 1986, 100 Stat. 1948, provided that: “This subtitle and the amendments made by this subtitle [see Short Title note below] shall take effect on the date of enactment of this Act [Oct. 21, 1986], and shall apply to any claim or statement made, presented, or submitted on or after such date.”
+Pub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6104, Oct. 21, 1986, 100 Stat. 1948, provided that: “This subtitle and the amendments made by this subtitle [see Short Title note below] shall take effect on the date of enactment of this Act [Oct. 21, 1986], and shall apply to any claim or statement made, presented, or submitted on or after such date.”
 
 **Short Title**
 
-Pub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6101, Oct. 21, 1986, 100 Stat. 1934, as amended by Pub. L. 118–159, div. E, title LII, § 5203(a)(1)(B), Dec. 23, 2024, 138 Stat. 2440, provided that: “This subtitle [enacting this chapter, amending section 504 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section] may be cited as the ‘Administrative False Claims Act’.”
+Pub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6101, Oct. 21, 1986, 100 Stat. 1934, as amended by Pub. L. 118–159, div. E, title LII, § 5203(a)(1)(B), Dec. 23, 2024, 138 Stat. 2440, provided that: “This subtitle [enacting this chapter, amending section 504 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section] may be cited as the ‘Administrative False Claims Act’.”
 
 **Regulations**
 
-Pub. L. 118–159, div. E, title LII, § 5203(g)(3), Dec. 23, 2024, 138 Stat. 2443, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 23, 2024], each authority head, as defined in section 3801 of title 31, United States Code, and each board of contract appeals of a board described in subparagraph (B), (C), or (D) of section 7105(e)[(1)] of title 41, United States Code, shall amend procedures regarding proceedings as necessary to implement the amendments made by this subsection [amending this section, section 3803 of this title, and section 7105 of Title 41, Public Contracts].”
+Pub. L. 118–159, div. E, title LII, § 5203(g)(3), Dec. 23, 2024, 138 Stat. 2443, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 23, 2024], each authority head, as defined in section 3801 of title 31, United States Code, and each board of contract appeals of a board described in subparagraph (B), (C), or (D) of section 7105(e)[(1)] of title 41, United States Code, shall amend procedures regarding proceedings as necessary to implement the amendments made by this subsection [amending this section, section 3803 of this title, and section 7105 of Title 41, Public Contracts].”
 
-Pub. L. 118–159, div. E, title LII, § 5203(j), Dec. 23, 2024, 138 Stat. 2443, provided that:
+Pub. L. 118–159, div. E, title LII, § 5203(j), Dec. 23, 2024, 138 Stat. 2443, provided that:
 
 > “Not later than 180 days after the date of enactment of this Act [Dec. 23, 2024], each authority head, as defined in section 3801 of title 31, United States Code, shall—
 
@@ -223,11 +223,11 @@ Pub. L. 118–159, div. E, title LII, § 5203(j), Dec. 23, 2024, 138 Stat. 244
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Congressional Findings and Purposes**
 
-Pub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6102, Oct. 21, 1986, 100 Stat. 1934, provided that:
+Pub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6102, Oct. 21, 1986, 100 Stat. 1934, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -245,7 +245,7 @@ Pub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6102, Oct. 21,
 
 > **“(2)** to provide due process protections to all persons who are subject to the administrative adjudication of false, fictitious, or fraudulent claims or statements.”
 
-## § 3802. False claims and statements; liability
+## § 3802. False claims and statements; liability
 
 **(a)**
 
@@ -305,7 +305,7 @@ may provide the authority with grounds for commencing any administrative or cont
 
 **(3)** In the case of an administrative or contractual action to suspend or debar any person who is eligible to enter into contracts with the Federal Government, a determination referred to in paragraph (1) of this subsection shall not be considered as a conclusive determination of such person’s responsibility pursuant to Federal procurement laws and regulations.
 
-(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1937; amended Pub. L. 118–159, div. E, title LII, § 5203(b)(2), Dec. 23, 2024, 138 Stat. 2440.)
+(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1937; amended Pub. L. 118–159, div. E, title LII, § 5203(b)(2), Dec. 23, 2024, 138 Stat. 2440.)
 
 **Editorial Notes**
 
@@ -313,7 +313,7 @@ may provide the authority with grounds for commencing any administrative or cont
 
 2024—Subsec. (a)(3). Pub. L. 118–159 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), an assessment” for “An assessment”, and added subpar. (B).
 
-## § 3803. Hearing and determinations
+## § 3803. Hearing and determinations
 
 **(a)**
 
@@ -409,9 +409,9 @@ is requested or demanded in violation of section 3802 of this title in such clai
 
 which are intended for the personal use of the individual who receives the benefits or for a member of the individual’s family.
 
-**(3) Adjustment for Inflation.—** The maximum amount in paragraph (1) shall be adjusted for inflation in the same manner and to the same extent as civil monetary penalties under the Federal Civil Penalties Inflation Adjustment Act 1
+**(3) Adjustment for Inflation.—** The maximum amount in paragraph (1) shall be adjusted for inflation in the same manner and to the same extent as civil monetary penalties under the Federal Civil Penalties Inflation Adjustment Act 1
 
-<sup>1</sup>  So in original. Probably should be followed by “of 1990”.
+<sup>1</sup> So in original. Probably should be followed by “of 1990”.
 
 (28 U.S.C. 2461 note).
 
@@ -545,29 +545,29 @@ Any such determination shall be based on the preponderance of the evidence.
 
 **(2)** A reviewing official shall notify the Attorney General in writing not later than 30 days before entering into any agreement to compromise or settle allegations of liability under section 3802 and before the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b).
 
-(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, title II, § 204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, § 110(*o*), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 106–78, title VII, § 752(b)(13), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 110–234, title IV, §§ 4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, § 4(a), title IV, §§ 4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871; Pub. L. 113–79, title IV, § 4030(*o*), Feb. 7, 2014, 128 Stat. 815; Pub. L. 118–159, div. E, title LII, § 5203(c), (f), (g)(1)(B), Dec. 23, 2024, 138 Stat. 2440–2442.)
+(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, title II, § 204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, § 110(*o*), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 106–78, title VII, § 752(b)(13), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 110–234, title IV, §§ 4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, § 4(a), title IV, §§ 4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871; Pub. L. 113–79, title IV, § 4030(*o*), Feb. 7, 2014, 128 Stat. 815; Pub. L. 118–159, div. E, title LII, § 5203(c), (f), (g)(1)(B), Dec. 23, 2024, 138 Stat. 2440–2442.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (c)(2)(C)(i) to (vi), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, XVIII, and XX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), and XX (§ 1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42. Section 1902(a) of the Act is classified to section 1396a(a) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(2)(C)(i) to (vi), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, XVIII, and XX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), and XX (§ 1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42. Section 1902(a) of the Act is classified to section 1396a(a) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 3 of the Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(C)(vii), is classified to section 2012 of Title 7, Agriculture.
 
-The Black Lung Benefits Act, referred to in subsec. (c)(2)(C)(ix), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, which is classified generally to subchapter IV (§ 901 et seq.) of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
+The Black Lung Benefits Act, referred to in subsec. (c)(2)(C)(ix), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, which is classified generally to subchapter IV (§ 901 et seq.) of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
 
 Section 17 of the Child Nutrition Act of 1966, referred to in subsec. (c)(2)(C)(x), is classified to section 1786 of Title 42, The Public Health and Welfare.
 
 Section 336 of the Older Americans Act, referred to in subsec. (c)(2)(C)(xi), probably means section 336 of the Older Americans Act of 1965, which is classified to section 3030f of Title 42.
 
-The Railroad Retirement Act of 1974, referred to in subsec. (c)(2)(C)(xii), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (c)(2)(C)(xii), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(C)(xiii), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(C)(xiii), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (c)(2)(C)(xv), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, which is classified generally to subchapter II (§ 8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
+The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (c)(2)(C)(xv), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, which is classified generally to subchapter II (§ 8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
 
-The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(2)(C)(xvi), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§ 6861 et seq.) of subchapter III of chapter 81 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of Title 42 and Tables.
+The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(2)(C)(xvi), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§ 6861 et seq.) of subchapter III of chapter 81 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of Title 42 and Tables.
 
 The Federal Civil Penalties Inflation Adjustment Act of 1990, referred to in subsec. (c)(3), is Pub. L. 101–410, Oct. 5, 1990, 104 Stat. 890, which is set out as a note under section 2461 of Title 28, Judiciary and Judicial Procedure.
 
@@ -577,21 +577,21 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2024—Subsec. (c)(1)(A), (B). Pub. L. 118–159, § 5203(c)(1), substituted “$1,000,000” for “$150,000”.
+2024—Subsec. (c)(1)(A), (B). Pub. L. 118–159, § 5203(c)(1), substituted “$1,000,000” for “$150,000”.
 
-Subsec. (c)(3). Pub. L. 118–159, § 5203(c)(2), added par. (3).
+Subsec. (c)(3). Pub. L. 118–159, § 5203(c)(2), added par. (3).
 
-Subsec. (d)(2)(B). Pub. L. 118–159, § 5203(g)(1)(B)(ii), designated existing provisions as cl. (i), substituted “in the case of a referral to a presiding officer described in subparagraph (A) or (B) of section 3801(a)(7), the presiding” for “the presiding” and “person; or” for “person.”, and added cl. (ii)
+Subsec. (d)(2)(B). Pub. L. 118–159, § 5203(g)(1)(B)(ii), designated existing provisions as cl. (i), substituted “in the case of a referral to a presiding officer described in subparagraph (A) or (B) of section 3801(a)(7), the presiding” for “the presiding” and “person; or” for “person.”, and added cl. (ii)
 
-Subsec. (d)(2)(C). Pub. L. 118–159, § 5203(g)(1)(B)(i), (iii), added subpar. (C).
+Subsec. (d)(2)(C). Pub. L. 118–159, § 5203(g)(1)(B)(i), (iii), added subpar. (C).
 
-Subsec. (j). Pub. L. 118–159, § 5203(f), designated existing provisions as par. (1) and added par. (2).
+Subsec. (j). Pub. L. 118–159, § 5203(f), designated existing provisions as par. (1) and added par. (2).
 
 2014—Subsec. (c)(2)(C)(vii). Pub. L. 113–79 substituted “section 3” for “section 3(*l*)”.
 
-2008—Subsec. (c)(2)(C)(vii). Pub. L. 110–246, § 4115(c)(2)(E), substituted “section 3(*l*)” for “section 3(h)”.
+2008—Subsec. (c)(2)(C)(vii). Pub. L. 110–246, § 4115(c)(2)(E), substituted “section 3(*l*)” for “section 3(h)”.
 
-Pub. L. 110–246, § 4002(b)(1)(A), (B), (2)(S), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+Pub. L. 110–246, § 4002(b)(1)(A), (B), (2)(S), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
 1999—Subsec. (c)(2)(C)(xiii). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
@@ -615,7 +615,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L. 103–448, set out as a note under section 1755 of Title 42, The Public Health and Welfare.
 
-## § 3804. Subpoena authority
+## § 3804. Subpoena authority
 
 **(a)** For the purposes of an investigation under section 3803(a)(1) of this title, an investigating official is authorized to require by subpoena the production of all information, documents, reports, answers, records, accounts, papers, and data not otherwise reasonably available to the authority.
 
@@ -627,9 +627,9 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 **(c)** In the case of contumacy or refusal to obey a subpoena issued pursuant to subsection (a) or (b) of this section, the district courts of the United States shall have jurisdiction to issue an appropriate order for the enforcement of any such subpoena. Any failure to obey such order of the court is punishable by such court as contempt. In any case in which an authority seeks the enforcement of a subpoena issued pursuant to subsection (a) or (b) of this section, the authority shall request the Attorney General to petition any district court in which a hearing under this chapter is being conducted, or in which the person receiving the subpoena resides or conducts business, to issue such an order.
 
-(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1944.)
+(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1944.)
 
-## § 3805. Judicial review
+## § 3805. Judicial review
 
 **(a)**
 
@@ -663,9 +663,9 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 **(e)** Upon a final determination by the district court that a person is liable under section 3802 of this title, the court shall enter a final judgment for the appropriate amount in favor of the United States.
 
-(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1944.)
+(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1944.)
 
-## § 3806. Collection of civil penalties and assessments
+## § 3806. Collection of civil penalties and assessments
 
 **(a)** The Attorney General shall be responsible for judicial enforcement of any civil penalty or assessment imposed pursuant to the provisions of this chapter.
 
@@ -713,13 +713,13 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 **(E)** Any amount of a penalty or assessment imposed by the Secretary of Health and Human Services under this chapter with respect to a claim or statement made in connection with benefits under part B of title XVIII of the Social Security Act shall be deposited in the Federal Supplementary Medical Insurance Trust Fund.
 
-(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1945; amended Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 118–159, div. E, title LII, § 5203(d), Dec. 23, 2024, 138 Stat. 2440.)
+(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1945; amended Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 118–159, div. E, title LII, § 5203(d), Dec. 23, 2024, 138 Stat. 2440.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (g)(2)(B) to (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II and parts A and B of title XVIII of the Social Security Act are classified generally to subchapter II (§ 401 et seq.) and parts A (§ 1395c et seq.) and B (§ 1395j et seq.) of subchapter XVIII, respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (g)(2)(B) to (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II and parts A and B of title XVIII of the Social Security Act are classified generally to subchapter II (§ 401 et seq.) and parts A (§ 1395c et seq.) and B (§ 1395j et seq.) of subchapter XVIII, respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
@@ -733,15 +733,15 @@ The Social Security Act, referred to in subsec. (g)(2)(B) to (E), is act Aug. 14
 
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
-## § 3807. Right to administrative offset
+## § 3807. Right to administrative offset
 
 **(a)** The amount of any penalty or assessment which has become final under section 3803 of this title, or for which a judgment has been entered under section 3805(e) or 3806 of this title, or any amount agreed upon in a settlement or compromise under section 3803(j) or 3806(f) of this title, may be collected by administrative offset under section 3716 of this title, except that an administrative offset may not be made under this subsection against a refund of an overpayment of Federal taxes, then or later owing by the United States to the person liable for such penalty or assessment.
 
 **(b)** All amounts collected pursuant to this section shall be remitted to the Secretary of the Treasury for deposit in accordance with section 3806(g) of this title.
 
-(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1947.)
+(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1947.)
 
-## § 3808. Limitations
+## § 3808. Limitations
 
 **(a)** A notice to the person alleged to be liable with respect to a claim or statement shall be mailed or delivered in accordance with section 3803(d)(1) not later than the later of—
 
@@ -753,7 +753,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 **(c)** If at any time during the course of proceedings brought pursuant to this chapter the authority head receives or discovers any specific information regarding bribery, gratuities, conflict of interest, or other corruption or similar activity in relation to a false claim or statement, the authority head shall immediately report such information to the Attorney General, and in the case of an authority in which an Office of Inspector General is established by chapter 4 of title 5 or by any other Federal law, to the Inspector General of that authority.
 
-(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1947; amended Pub. L. 117–286, § 4(b)(57), Dec. 27, 2022, 136 Stat. 4349; Pub. L. 118–159, div. E, title LII, § 5203(h), Dec. 23, 2024, 138 Stat. 2443.)
+(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1947; amended Pub. L. 117–286, § 4(b)(57), Dec. 27, 2022, 136 Stat. 4349; Pub. L. 118–159, div. E, title LII, § 5203(h), Dec. 23, 2024, 138 Stat. 2443.)
 
 **Editorial Notes**
 
@@ -763,7 +763,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 2022—Subsec. (c). Pub. L. 117–286 substituted “chapter 4 of title 5” for “the Inspector General Act of 1978”.
 
-## § 3809. Regulations
+## § 3809. Regulations
 
 Within 180 days after the date of enactment of this chapter, each authority head shall promulgate rules and regulations necessary to implement the provisions of this chapter. Such rules and regulations shall—
 
@@ -771,7 +771,7 @@ Within 180 days after the date of enactment of this chapter, each authority head
 
 **(2)** require a reviewing official to include in any notice required by section 3803(a)(2) of this title a statement which specifies that the reviewing official has determined that there is a reasonable prospect of collecting, from a person with respect to whom the reviewing official is referring allegations of liability in such notice, the amount for which such person may be liable.
 
-(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1947.)
+(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1947.)
 
 **Editorial Notes**
 
@@ -779,11 +779,11 @@ Within 180 days after the date of enactment of this chapter, each authority head
 
 The date of enactment of this chapter, referred to in text, means the date of enactment of Pub. L. 99–509 which was approved Oct. 21, 1986.
 
-## [§ 3810. Repealed. Pub. L. 104–66, title III, § 3001(c)(1), Dec. 21, 1995, 109 Stat. 734]
+## [§ 3810. Repealed. Pub. L. 104–66, title III, § 3001(c)(1), Dec. 21, 1995, 109 Stat. 734]
 
-Section, added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1947, required annual reports to Congress.
+Section, added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1947, required annual reports to Congress.
 
-## § 3811. Effect on other law
+## § 3811. Effect on other law
 
 **(a)** This chapter does not diminish the responsibility of any agency to comply with the provisions of chapter 35 of title 44.
 
@@ -791,10 +791,10 @@ Section, added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat
 
 **(c)** For purposes of this section, the term “agency” has the same meaning as in section 3502(1) of title 44.
 
-(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1948.)
+(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1948.)
 
-## § 3812. Prohibition against delegation
+## § 3812. Prohibition against delegation
 
 Any function, duty, or responsibility which this chapter specifies be carried out by the Attorney General or an Assistant Attorney General designated by the Attorney General, shall not be delegated to, or carried out by, any other officer or employee of the Department of Justice.
 
-(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1948.)
+(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1948.)

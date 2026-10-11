@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 18A—COOPERATIVE WATERSHED MANAGEMENT PROGRAM
 
-## § 1015. Definitions
+## § 1015. Definitions
 
 In this chapter:
 
@@ -105,21 +105,21 @@ The term “Secretary” means the Secretary of the Interior.
 
 **(E)** advances any other goals associated with water quality or quantity that the Secretary determines to be appropriate.
 
-(Pub. L. 111–11, title VI, § 6001, Mar. 30, 2009, 123 Stat. 1165; Pub. L. 116–260, div. FF, title XI, § 1107(a), Dec. 27, 2020, 134 Stat. 3243.)
+(Pub. L. 111–11, title VI, § 6001, Mar. 30, 2009, 123 Stat. 1165; Pub. L. 116–260, div. FF, title XI, § 1107(a), Dec. 27, 2020, 134 Stat. 3243.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Pars. (2) to (6). Pub. L. 116–260, § 1107(a)(1), (2), added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively. Former par. (6) redesignated (7).
+2020—Pars. (2) to (6). Pub. L. 116–260, § 1107(a)(1), (2), added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively. Former par. (6) redesignated (7).
 
-Par. (6)(B)(i)(X). Pub. L. 116–260, § 1107(a)(3), added subcl. (X).
+Par. (6)(B)(i)(X). Pub. L. 116–260, § 1107(a)(3), added subcl. (X).
 
-Par. (7). Pub. L. 116–260, § 1107(a)(1), redesignated par. (6) as (7).
+Par. (7). Pub. L. 116–260, § 1107(a)(1), redesignated par. (6) as (7).
 
-Par. (7)(C). Pub. L. 116–260, § 1107(a)(4), inserted “, including benefits to fisheries, wildlife, or habitat” after “river or stream”.
+Par. (7)(C). Pub. L. 116–260, § 1107(a)(4), inserted “, including benefits to fisheries, wildlife, or habitat” after “river or stream”.
 
-## § 1015a. Program
+## § 1015a. Program
 
 **(a) Establishment** Not later than 180 days after March 30, 2009, the Secretary shall establish a program, to be known as the “Cooperative Watershed Management Program”, under which the Secretary shall provide grants—
 
@@ -317,20 +317,20 @@ The contents of an annual report required under paragraph (1) shall contain suff
 
 **(4)** $20,000,000 for each of fiscal years 2012 through 2026.
 
-(Pub. L. 111–11, title VI, § 6002, Mar. 30, 2009, 123 Stat. 1166; Pub. L. 116–260, div. D, title II, § 206, div. FF, title XI, § 1107(b), Dec. 27, 2020, 134 Stat. 1363, 3243.)
+(Pub. L. 111–11, title VI, § 6002, Mar. 30, 2009, 123 Stat. 1166; Pub. L. 116–260, div. D, title II, § 206, div. FF, title XI, § 1107(b), Dec. 27, 2020, 134 Stat. 1363, 3243.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (b). Pub. L. 116–260, § 1107(b)(1), added subsec. (b) and struck out former subsec. (b) which required Secretary to establish application process not later than 1 year after Mar. 30, 2009.
+2020—Subsec. (b). Pub. L. 116–260, § 1107(b)(1), added subsec. (b) and struck out former subsec. (b) which required Secretary to establish application process not later than 1 year after Mar. 30, 2009.
 
-Subsec. (g)(4). Pub. L. 116–260, § 1107(b)(2), which directed substitution of “2026” for “2020”, was executed by making the substitution for “2021” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 116–260, § 206. See below.
+Subsec. (g)(4). Pub. L. 116–260, § 1107(b)(2), which directed substitution of “2026” for “2020”, was executed by making the substitution for “2021” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 116–260, § 206. See below.
 
-Pub. L. 116–260, § 206, substituted “2021” for “2020”.
+Pub. L. 116–260, § 206, substituted “2021” for “2020”.
 
-## § 1015b. Effect of chapter
+## § 1015b. Effect of chapter
 
 Nothing in this chapter affects the applicability of any Federal, State, or local law with respect to any watershed group.
 
-(Pub. L. 111–11, title VI, § 6003, Mar. 30, 2009, 123 Stat. 1170.)
+(Pub. L. 111–11, title VI, § 6003, Mar. 30, 2009, 123 Stat. 1170.)

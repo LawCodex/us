@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–435, title IV, § 401(a)(2), Dec. 20, 2006, 120 Stat. 3225, added item 2011.
+2006—Pub. L. 109–435, title IV, § 401(a)(2), Dec. 20, 2006, 120 Stat. 3225, added item 2011.
 
-1997—Pub. L. 105–33, title VII, § 7003(a)(2)(A), Aug. 5, 1997, 111 Stat. 663, struck out item 2004 “Transitional appropriations”.
+1997—Pub. L. 105–33, title VII, § 7003(a)(2)(A), Aug. 5, 1997, 111 Stat. 663, struck out item 2004 “Transitional appropriations”.
 
-1989—Pub. L. 101–239, title IV, § 4001(a)(2), Dec. 19, 1989, 103 Stat. 2133, added item 2009a.
+1989—Pub. L. 101–239, title IV, § 4001(a)(2), Dec. 19, 1989, 103 Stat. 2133, added item 2009a.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Disposition of Savings Accruing to the United States Postal Service**
 
-Pub. L. 108–18, § 3, Apr. 23, 2003, 117 Stat. 627, which provided for disposition of savings accruing to the United States Postal Service, was repealed by Pub. L. 109–435, title VIII, § 804(a), Dec. 20, 2006, 120 Stat. 3253.
+Pub. L. 108–18, § 3, Apr. 23, 2003, 117 Stat. 627, which provided for disposition of savings accruing to the United States Postal Service, was repealed by Pub. L. 109–435, title VIII, § 804(a), Dec. 20, 2006, 120 Stat. 3253.
 
-## § 2001. Definitions
+## § 2001. Definitions
 
 As used in this chapter—
 
@@ -41,7 +41,7 @@ As used in this chapter—
 
 **(3)** “obligations”, when referring to debt instruments issued by the Postal Service, means notes, bonds, debentures, mortgages, and any other evidence of indebtedness.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 738; Pub. L. 109–435, title IV, § 401(b)(1), Dec. 20, 2006, 120 Stat. 3225.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 738; Pub. L. 109–435, title IV, § 401(b)(1), Dec. 20, 2006, 120 Stat. 3225.)
 
 **Editorial Notes**
 
@@ -55,7 +55,7 @@ As used in this chapter—
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 2002. Capital of the Postal Service
+## § 2002. Capital of the Postal Service
 
 **(a)** The initial capital of the Postal Service shall consist of the equity, as reflected in the budget of the President, of the Government of the United States in the former Post Office Department. The value of assets and the amount of liabilities transferred to the Postal Service upon the commencement of operations of the Postal Service shall be determined by the Postal Service subject to the approval of the Comptroller General, in accordance with the following guidelines:
 
@@ -81,7 +81,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **(d)** After the commencement of operations of the Postal Service, the President is authorized to transfer to the Postal Service, and the Postal Service is authorized to transfer to other departments, agencies, or independent establishments of the Government of the United States, with or without reimbursement, any property of that department, agency, or independent establishment and the Postal Service, respectively, when the public interest would be served by such transfer.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 738; Pub. L. 109–435, title IV, § 401(b)(2), Dec. 20, 2006, 120 Stat. 3225.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 738; Pub. L. 109–435, title IV, § 401(b)(2), Dec. 20, 2006, 120 Stat. 3225.)
 
 **Editorial Notes**
 
@@ -101,7 +101,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Assets of Postal Service**
 
-Pub. L. 91–375, § 4(b), Aug. 12, 1970, 84 Stat. 774, provided that: “Postal revenues and fees collected on and after the effective date of this section [see note below] shall be considered assets of the Postal Service.”
+Pub. L. 91–375, § 4(b), Aug. 12, 1970, 84 Stat. 774, provided that: “Postal revenues and fees collected on and after the effective date of this section [see note below] shall be considered assets of the Postal Service.”
 
 [Provisions of section 4(b) of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.]
 
@@ -125,7 +125,7 @@ Sec. 5. Delegations of authority made in this order may be redelegated.
 
 Richard Nixon.
 
-## § 2003. The Postal Service Fund
+## § 2003. The Postal Service Fund
 
 **(a)** There is established in the Treasury of the United States a revolving fund to be called the Postal Service Fund which shall be available to the Postal Service without fiscal-year limitation to carry out the purposes, functions, and powers authorized by this title (other than any of the purposes, functions, or powers for which the Competitive Products Fund is available).
 
@@ -165,7 +165,7 @@ Richard Nixon.
 
 **(h)** Liabilities of the former Post Office Department to the Employees’ Compensation Fund (appropriations for which were authorized by former section 2004, as in effect before the effective date of this subsection) shall be liabilities of the Postal Service payable out of the Fund.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 739; Pub. L. 94–421, § 2(c), Sept. 24, 1976, 90 Stat. 1304; Pub. L. 97–35, title XVII, § 1725, Aug. 13, 1981, 95 Stat. 760; Pub. L. 97–258, § 3(*l*)(1), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 99–500, § 101(m) [title II, § 201(b)], Oct. 18, 1986, 100 Stat. 1783–308, 1783–314, and Pub. L. 99–591, § 101(m) [title II, § 201(b)], Oct. 30, 1986, 100 Stat. 3341–308, 3341–314; Pub. L. 100–690, title VI, § 6252, Nov. 18, 1988, 102 Stat. 4362; Pub. L. 101–239, title IV, § 4004(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 102–393, title VI, § 638(g), Oct. 6, 1992, 106 Stat. 1790; Pub. L. 105–33, title VII, § 7003(a)(2)(B), (b), Aug. 5, 1997, 111 Stat. 663; Pub. L. 109–435, title IV, § 401(b)(3), title VI, § 603(c)(2), title X, § 1008(c)(1), Dec. 20, 2006, 120 Stat. 3225, 3241, 3260; Pub. L. 114–22, title I, § 105(c)(2)(A)(iii), May 29, 2015, 129 Stat. 237; Pub. L. 117–108, title II, § 205(b)(1), Apr. 6, 2022, 136 Stat. 1148; Pub. L. 117–286, § 4(b)(66), Dec. 27, 2022, 136 Stat. 4350; Pub. L. 119–60, div. G, title LXXII, § 7207(d)(3), Dec. 18, 2025, 139 Stat. 1693.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 739; Pub. L. 94–421, § 2(c), Sept. 24, 1976, 90 Stat. 1304; Pub. L. 97–35, title XVII, § 1725, Aug. 13, 1981, 95 Stat. 760; Pub. L. 97–258, § 3(*l*)(1), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 99–500, § 101(m) [title II, § 201(b)], Oct. 18, 1986, 100 Stat. 1783–308, 1783–314, and Pub. L. 99–591, § 101(m) [title II, § 201(b)], Oct. 30, 1986, 100 Stat. 3341–308, 3341–314; Pub. L. 100–690, title VI, § 6252, Nov. 18, 1988, 102 Stat. 4362; Pub. L. 101–239, title IV, § 4004(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 102–393, title VI, § 638(g), Oct. 6, 1992, 106 Stat. 1790; Pub. L. 105–33, title VII, § 7003(a)(2)(B), (b), Aug. 5, 1997, 111 Stat. 663; Pub. L. 109–435, title IV, § 401(b)(3), title VI, § 603(c)(2), title X, § 1008(c)(1), Dec. 20, 2006, 120 Stat. 3225, 3241, 3260; Pub. L. 114–22, title I, § 105(c)(2)(A)(iii), May 29, 2015, 129 Stat. 237; Pub. L. 117–108, title II, § 205(b)(1), Apr. 6, 2022, 136 Stat. 1148; Pub. L. 117–286, § 4(b)(66), Dec. 27, 2022, 136 Stat. 4350; Pub. L. 119–60, div. G, title LXXII, § 7207(d)(3), Dec. 18, 2025, 139 Stat. 1693.)
 
 **Editorial Notes**
 
@@ -173,7 +173,7 @@ Richard Nixon.
 
 Former section 2202 of title 39, referred to in subsec. (a)(6), means section 2202 of former Title 39, The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
 
-Section 2004, as in effect before the effective date of this subsection, referred to in subsec. (h), means section 2004 of this title, as in effect before Oct. 1, 1997. Section 2004 was repealed by Pub. L. 105–33, title VII, § 7003(a)(1), Aug. 5, 1997, 111 Stat. 663.
+Section 2004, as in effect before the effective date of this subsection, referred to in subsec. (h), means section 2004 of this title, as in effect before Oct. 1, 1997. Section 2004 was repealed by Pub. L. 105–33, title VII, § 7003(a)(1), Aug. 5, 1997, 111 Stat. 663.
 
 **Codification**
 
@@ -189,29 +189,29 @@ Pub. L. 117–108, which directed amendment of subsec. (e) by substituting “(B
 
 2015—Subsec. (e)(1). Pub. L. 114–22 substituted “section 9705(*o*)” for “section 9703(p)”.
 
-2006—Subsec. (a). Pub. L. 109–435, § 401(b)(3)(A), substituted “title (other than any of the purposes, functions, or powers for which the Competitive Products Fund is available)” for “title”.
+2006—Subsec. (a). Pub. L. 109–435, § 401(b)(3)(A), substituted “title (other than any of the purposes, functions, or powers for which the Competitive Products Fund is available)” for “title”.
 
-Subsec. (b). Pub. L. 109–435, § 401(b)(3)(B), substituted “Except as otherwise provided in section 2011, there” for “There”.
+Subsec. (b). Pub. L. 109–435, § 401(b)(3)(B), substituted “Except as otherwise provided in section 2011, there” for “There”.
 
-Subsec. (b)(9). Pub. L. 109–435, § 1008(c)(1), added par. (9).
+Subsec. (b)(9). Pub. L. 109–435, § 1008(c)(1), added par. (9).
 
-Subsec. (e)(1). Pub. L. 109–435, § 603(c)(2), substituted “The Fund shall be available for the payment of (A) all expenses incurred by the Postal Service in carrying out its functions as provided by law, subject to the same limitation as set forth in the parenthetical matter under subsection (a); (B) all expenses of the Postal Regulatory Commission, subject to the availability of amounts appropriated under section 504(d); and (C) all expenses of the Office of Inspector General, subject to the availability of amounts appropriated under section 8G(f) of the Inspector General Act of 1978.” for “The Fund shall be available for the payment of all expenses incurred by the Postal Service in carrying out its functions as provided by law and, subject to the provisions of section 3604 of this title, all of the expenses of the Postal Rate Commission.”
+Subsec. (e)(1). Pub. L. 109–435, § 603(c)(2), substituted “The Fund shall be available for the payment of (A) all expenses incurred by the Postal Service in carrying out its functions as provided by law, subject to the same limitation as set forth in the parenthetical matter under subsection (a); (B) all expenses of the Postal Regulatory Commission, subject to the availability of amounts appropriated under section 504(d); and (C) all expenses of the Office of Inspector General, subject to the availability of amounts appropriated under section 8G(f) of the Inspector General Act of 1978.” for “The Fund shall be available for the payment of all expenses incurred by the Postal Service in carrying out its functions as provided by law and, subject to the provisions of section 3604 of this title, all of the expenses of the Postal Rate Commission.”
 
-1997—Subsec. (e)(2). Pub. L. 105–33, § 7003(a)(2)(B), substituted “section 2401” for “sections 2401 and 2004” in two places.
+1997—Subsec. (e)(2). Pub. L. 105–33, § 7003(a)(2)(B), substituted “section 2401” for “sections 2401 and 2004” in two places.
 
-Subsec. (h). Pub. L. 105–33, § 7003(b), added subsec. (h).
+Subsec. (h). Pub. L. 105–33, § 7003(b), added subsec. (h).
 
-1992—Subsec. (b)(8). Pub. L. 102–393, § 638(g)(1), added par. (8).
+1992—Subsec. (b)(8). Pub. L. 102–393, § 638(g)(1), added par. (8).
 
-Subsec. (e)(1). Pub. L. 102–393, § 638(g)(2), inserted after first sentence “The Postmaster General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of Department of the Treasury law enforcement organizations (described in section 9703(p) of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Postal Service.”
+Subsec. (e)(1). Pub. L. 102–393, § 638(g)(2), inserted after first sentence “The Postmaster General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of Department of the Treasury law enforcement organizations (described in section 9703(p) of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Postal Service.”
 
 1989—Subsec. (g). Pub. L. 101–239 added subsec. (g).
 
 1988—Subsec. (b)(7). Pub. L. 100–690 struck out “administrative” after “civil” and “under title 18” after “Service”.
 
-1986—Subsec. (b)(7). Pub. L. 99–500 and Pub. L. 99–591, § 101(m) [title II, § 201(b)(1)–(3)], added par. (7).
+1986—Subsec. (b)(7). Pub. L. 99–500 and Pub. L. 99–591, § 101(m) [title II, § 201(b)(1)–(3)], added par. (7).
 
-Subsec. (e)(1). Pub. L. 99–500 and Pub. L. 99–591, § 101(m) [title II, § 201(b)(4)], substituted “as provided by law” for “under this title”.
+Subsec. (e)(1). Pub. L. 99–500 and Pub. L. 99–591, § 101(m) [title II, § 201(b)(4)], substituted “as provided by law” for “under this title”.
 
 1982—Subsec. (e)(1). Pub. L. 97–258 substituted “subchapter II of chapter 15 of title 31” for “section 665 of title 31”.
 
@@ -227,7 +227,7 @@ Amendment by section 603(c)(2) of Pub. L. 109–435 applicable with respect to f
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–33, title VII, § 7003(c), Aug. 5, 1997, 111 Stat. 663, provided that:
+Pub. L. 105–33, title VII, § 7003(c), Aug. 5, 1997, 111 Stat. 663, provided that:
 
 > **“(1) In general.—** This section [amending this section and repealing section 2004 of this title] and the amendments made by this section shall take effect on the date of the enactment of this Act [Aug. 5, 1997] or October 1, 1997, whichever is later.
 
@@ -239,11 +239,11 @@ Pub. L. 105–33, title VII, § 7003(c), Aug. 5, 1997, 111 Stat. 663, provided
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–239, title IV, § 4004(b), Dec. 19, 1989, 103 Stat. 2135, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1989.”
+Pub. L. 101–239, title IV, § 4004(b), Dec. 19, 1989, 103 Stat. 2135, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1989.”
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title XVII, § 1727, Aug. 13, 1981, 95 Stat. 761, provided that: “The provisions of this subtitle [subtitle B (§§ 1721–1727) of title XVII of Pub. L. 97–35, amending this section and section 2401 of this title and enacting provisions set out as notes under sections 403, 2004, and 2401 of this title] (other than section 1726 and this section) shall take effect on October 1, 1981. The provisions of sections 1726 [enacting a provision set out as a note under section 403 of this title] and this section [enacting this provision] shall take effect on the date of the enactment of this Act [Aug. 13, 1981].”
+Pub. L. 97–35, title XVII, § 1727, Aug. 13, 1981, 95 Stat. 761, provided that: “The provisions of this subtitle [subtitle B (§§ 1721–1727) of title XVII of Pub. L. 97–35, amending this section and section 2401 of this title and enacting provisions set out as notes under sections 403, 2004, and 2401 of this title] (other than section 1726 and this section) shall take effect on October 1, 1981. The provisions of sections 1726 [enacting a provision set out as a note under section 403 of this title] and this section [enacting this provision] shall take effect on the date of the enactment of this Act [Aug. 13, 1981].”
 
 **Effective Date**
 
@@ -251,7 +251,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Contributions by United States Postal Service to Civil Service Retirement and Disability Fund**
 
-Pub. L. 100–203, title VI, § 6002, Dec. 22, 1987, 101 Stat. 1330–276, provided that:
+Pub. L. 100–203, title VI, § 6002, Dec. 22, 1987, 101 Stat. 1330–276, provided that:
 
 > **“(a) Establishment of Postal Service Escrow Fund.—** There is established as a separate account in the United States Treasury, the ‘Postal Service Escrow Fund’. Such Fund shall—
 
@@ -277,7 +277,7 @@ Pub. L. 100–203, title VI, § 6002, Dec. 22, 1987, 101 Stat. 1330–276, pro
 
 > **“(2) Capital investment programs.—** For the purposes of paragraph (1) the term ‘capital investment program’ shall include all investments in long-term assets and capital investment expenditures (including direct and indirect costs associated with such investments and expenditures, such as obligations through contracts).”
 
-## [§ 2004. Repealed. Pub. L. 105–33, title VII, § 7003(a)(1), Aug. 5, 1997, 111 Stat. 663]
+## [§ 2004. Repealed. Pub. L. 105–33, title VII, § 7003(a)(1), Aug. 5, 1997, 111 Stat. 663]
 
 Section, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 739, authorized appropriations to ensure a sound financial transition for the Postal Service.
 
@@ -287,7 +287,7 @@ Section, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 739, authorized appropriation
 
 Repeal effective Oct. 1, 1997, with special provisions relating to payments for fiscal year 1998, see section 7003(c) of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 2003 of this title.
 
-## § 2005. Obligations
+## § 2005. Obligations
 
 **(a)**
 
@@ -345,21 +345,21 @@ as the Postal Service determines.
 
 **(5)** not be obligations of, nor shall payment of the principal thereof or interest thereon be guaranteed by, the Government of the United States, except as provided in section 2006(c) of this title.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 740; Pub. L. 101–227, § 3(a), Dec. 12, 1989, 103 Stat. 1944; Pub. L. 109–435, title V, § 502, Dec. 20, 2006, 120 Stat. 3233.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 740; Pub. L. 101–227, § 3(a), Dec. 12, 1989, 103 Stat. 1944; Pub. L. 109–435, title V, § 502, Dec. 20, 2006, 120 Stat. 3233.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (a)(1). Pub. L. 109–435, § 502(c)(2), substituted “obligations issued by the Postal Service which may be” for “any such obligations” in second sentence.
+2006—Subsec. (a)(1). Pub. L. 109–435, § 502(c)(2), substituted “obligations issued by the Postal Service which may be” for “any such obligations” in second sentence.
 
-Pub. L. 109–435, § 502(b), substituted third sentence for former third sentence which read: “In any one fiscal year the net increase in the amount of obligations outstanding issued for the purpose of capital improvements shall not exceed $2,000,000,000, and the net increase in the amount of obligations outstanding issued for the purpose of defraying operating expenses of the Postal Service shall not exceed $1,000,000,000.”
+Pub. L. 109–435, § 502(b), substituted third sentence for former third sentence which read: “In any one fiscal year the net increase in the amount of obligations outstanding issued for the purpose of capital improvements shall not exceed $2,000,000,000, and the net increase in the amount of obligations outstanding issued for the purpose of defraying operating expenses of the Postal Service shall not exceed $1,000,000,000.”
 
-Pub. L. 109–435, § 502(a), substituted “title, other than any of the purposes for which the corresponding authority is available to the Postal Service under section 2011” for “title” in first sentence.
+Pub. L. 109–435, § 502(a), substituted “title, other than any of the purposes for which the corresponding authority is available to the Postal Service under section 2011” for “title” in first sentence.
 
-Subsec. (a)(3). Pub. L. 109–435, § 502(c)(1), added par. (3).
+Subsec. (a)(3). Pub. L. 109–435, § 502(c)(1), added par. (3).
 
-Subsec. (b). Pub. L. 109–435, § 502(d), substituted “obligations issued by the Postal Service under this section,” for “such obligations,”, designated existing provisions as par. (1), and added par. (2).
+Subsec. (b). Pub. L. 109–435, § 502(d), substituted “obligations issued by the Postal Service under this section,” for “such obligations,”, designated existing provisions as par. (1), and added par. (2).
 
 1989—Subsec. (a). Pub. L. 101–227 designated existing provisions as par. (1), substituted “the maximum amount then allowable under paragraph (2) of this subsection” for “$10,000,000,000”, “$2,000,000,000” for “$1,500,000,000”, and “$1,000,000,000” for “$500,000,000” and added par. (2).
 
@@ -367,7 +367,7 @@ Subsec. (b). Pub. L. 109–435, § 502(d), substituted “obligations issued b
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–227, § 3(b), Dec. 12, 1989, 103 Stat. 1944, provided that:
+Pub. L. 101–227, § 3(b), Dec. 12, 1989, 103 Stat. 1944, provided that:
 
 > **“(1)** Subject to the provisions of paragraph (2), the amendments made by subsection (a) [amending this section] shall take effect on October 1, 1990.
 
@@ -379,7 +379,7 @@ Pub. L. 101–227, § 3(b), Dec. 12, 1989, 103 Stat. 1944, provided that:
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 2006. Relationship between the Treasury and the Postal Service
+## § 2006. Relationship between the Treasury and the Postal Service
 
 **(a)** At least 15 days before selling any issue of obligations under section 2005 or 2011 of this title, the Postal Service shall advise the Secretary of the Treasury of the amount, proposed date of sale, maturities, terms and conditions, and expected maximum rates of interest of the proposed issue in appropriate detail and shall consult with him or his designee thereon. The Secretary may elect to purchase such obligations under such terms, including rates of interest, as he and the Postal Service may agree, but at a rate of yield no less than the prevailing yield on outstanding marketable Treasury securities of comparable maturity, as determined by the Secretary. If the Secretary does not purchase such obligations, the Postal Service may proceed to issue and sell them to a party or parties other than the Secretary upon notice to the Secretary and upon consultation as to the date of issuance, maximum rates of interest, and other terms and conditions.
 
@@ -391,17 +391,17 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **(2)** the Secretary, in his discretion, determines that it would be in the public interest to do so.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 741; Pub. L. 109–435, title IV, § 401(b)(4), Dec. 20, 2006, 120 Stat. 3225.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 741; Pub. L. 109–435, title IV, § 401(b)(4), Dec. 20, 2006, 120 Stat. 3225.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–435, § 401(b)(4)(A), inserted “or 2011” after “section 2005” in first sentence.
+2006—Subsec. (a). Pub. L. 109–435, § 401(b)(4)(A), inserted “or 2011” after “section 2005” in first sentence.
 
-Subsec. (b). Pub. L. 109–435, § 401(b)(4)(B), inserted “under section 2005” before “in such amounts” in first sentence and before “in excess of such amount.” in second sentence.
+Subsec. (b). Pub. L. 109–435, § 401(b)(4)(B), inserted “under section 2005” before “in such amounts” in first sentence and before “in excess of such amount.” in second sentence.
 
-Subsec. (c). Pub. L. 109–435, § 401(b)(4)(C), inserted “or 2011(e)(4)(E)” after “section 2005(d)(5)”.
+Subsec. (c). Pub. L. 109–435, § 401(b)(4)(C), inserted “or 2011(e)(4)(E)” after “section 2005(d)(5)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -409,11 +409,11 @@ Subsec. (c). Pub. L. 109–435, § 401(b)(4)(C), inserted “or 2011(e)(4)(E)�
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 2007. Public debt character of the obligations of the Postal Service
+## § 2007. Public debt character of the obligations of the Postal Service
 
 For the purpose of any purchase of the obligations of the Postal Service, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force, are extended to include any purchases of the obligations of the Postal Service under this chapter. The Secretary of the Treasury may, at any time, sell any of the obligations of the Postal Service acquired by him under this chapter. All redemptions, purchases, and sales by the Secretary of the obligations of the Postal Service shall be treated as public debt transactions of the United States.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 741; Pub. L. 97–452, § 2(f), Jan. 12, 1983, 96 Stat. 2479.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 741; Pub. L. 97–452, § 2(f), Jan. 12, 1983, 96 Stat. 2479.)
 
 **Editorial Notes**
 
@@ -427,7 +427,7 @@ For the purpose of any purchase of the obligations of the Postal Service, the Se
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 2008. Audit and expenditures
+## § 2008. Audit and expenditures
 
 **(a)** The accounts and operations of the Postal Service shall be audited by the Comptroller General and reports thereon made to the Congress to the extent and at such times as he may determine.
 
@@ -447,11 +447,11 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 2009. Annual budget
+## § 2009. Annual budget
 
 The Postal Service shall cause to be prepared annually a budget program which shall be submitted to the Office of Management and Budget, under such rules and regulations as the President may establish as to the date of submission, the form and content, the classifications of data, and the manner in which such budget program shall be prepared and presented. The budget program shall be a business-type budget, or plan of operations, with due allowance given to the need for flexibility, including provision for emergencies and contingencies, in order that the Postal Service may properly carry out its activities as authorized by law. The budget program shall contain estimates of the financial condition and operations of the Postal Service for the current and ensuing fiscal years and the actual condition and results of operation for the last completed fiscal year. Such budget program shall include a statement of financial condition, a statement of income and expense, an analysis of surplus or deficit, a statement of sources and application of funds, and such other supplementary statements and information as are necessary or desirable to make known the financial condition and operations of the Postal Service. Such statements shall include estimates of operations by major types of activities, together with estimates of administrative expenses and estimates of borrowings. The budget program shall also include separate statements of the amounts which (1) the Postal Service requests to be appropriated under subsections (b) and (c) of section 2401, and (2) the Office of Inspector General of the United States Postal Service requests to be appropriated, out of the Postal Service Fund, under section 415(f) of title 5. The President shall include these amounts, with his recommendations but without revision, in the budget transmitted to Congress under section 1105 of title 31.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 742; Pub. L. 93–328, § 3, June 30, 1974, 88 Stat. 288; Pub. L. 97–258, § 3(*l*)(2), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 109–435, title VI, § 603(c)(1), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 117–108, title II, § 205(b)(2), Apr. 6, 2022, 136 Stat. 1148; Pub. L. 117–286, § 4(b)(67), Dec. 27, 2022, 136 Stat. 4350.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 742; Pub. L. 93–328, § 3, June 30, 1974, 88 Stat. 288; Pub. L. 97–258, § 3(*l*)(2), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 109–435, title VI, § 603(c)(1), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 117–108, title II, § 205(b)(2), Apr. 6, 2022, 136 Stat. 1148; Pub. L. 117–286, § 4(b)(67), Dec. 27, 2022, 136 Stat. 4350.)
 
 **Editorial Notes**
 
@@ -459,7 +459,7 @@ The Postal Service shall cause to be prepared annually a budget program which sh
 
 2022—Pub. L. 117–286, which directed substitution of “section 415(f) of title 5,” for “section 8G(f) of the Inspector General Act of 1978,”, was executed by substituting “section 415(f) of title 5” for “section 8G(f) of the Inspector General Act of 1978” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–108, which had struck out the comma after “1978”. See below.
 
-Pub. L. 117–108 inserted “and” before “(2)” and struck out “, and (3) the Postal Regulatory Commission requests to be appropriated, out of the Postal Service Fund, under section 504(d) of this title” after “Inspector General Act of 1978”.
+Pub. L. 117–108 inserted “and” before “(2)” and struck out “, and (3) the Postal Regulatory Commission requests to be appropriated, out of the Postal Service Fund, under section 504(d) of this title” after “Inspector General Act of 1978”.
 
 2006—Pub. L. 109–435 substituted “The budget program shall also include separate statements of the amounts which (1) the Postal Service requests to be appropriated under subsections (b) and (c) of section 2401, (2) the Office of Inspector General of the United States Postal Service requests to be appropriated, out of the Postal Service Fund, under section 8G(f) of the Inspector General Act of 1978, and (3) the Postal Regulatory Commission requests to be appropriated, out of the Postal Service Fund, under section 504(d) of this title.” for “The budget program shall also include separate statements of the amounts which the Postal Service requests to be appropriated under subsections (b) and (c) of section 2401 of this title.”
 
@@ -479,9 +479,9 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Operations of Inspector General as Major Type of Activity for Budget Purposes**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(a)(3)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, provided that: “For purposes of the fifth sentence of section 2009 of title 39, United States Code, the operations of the Office of Inspector General of the United States Postal Service shall be considered a major type of activity.”
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(a)(3)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, provided that: “For purposes of the fifth sentence of section 2009 of title 39, United States Code, the operations of the Office of Inspector General of the United States Postal Service shall be considered a major type of activity.”
 
-## § 2009a. Budgetary treatment of the Postal Service Fund
+## § 2009a. Budgetary treatment of the Postal Service Fund
 
 Notwithstanding any other provision of law, the receipts and disbursements of the Postal Service Fund, including disbursements for administrative expenses incurred in connection with the Fund—
 
@@ -493,19 +493,19 @@ Notwithstanding any other provision of law, the receipts and disbursements of th
 
 **(2)** shall be exempt from any general budget limitation imposed by statute on expenditures and net lending (budget outlays) of the United States Government; and
 
-**(3)** shall be exempt from any order issued under part C of the Balanced Budget and Emergency Deficit Control Act of 1985, and shall not be counted for purposes of calculating the deficit under section 3(6) of the Congressional Budget and Impoundment Control Act of 1974 for purposes of comparison with the maximum deficit amount under the Balanced Budget and Emergency Deficit Control Act of 1985 nor counted in calculating the excess deficit for purposes of sections 251 and 252 1
+**(3)** shall be exempt from any order issued under part C of the Balanced Budget and Emergency Deficit Control Act of 1985, and shall not be counted for purposes of calculating the deficit under section 3(6) of the Congressional Budget and Impoundment Control Act of 1974 for purposes of comparison with the maximum deficit amount under the Balanced Budget and Emergency Deficit Control Act of 1985 nor counted in calculating the excess deficit for purposes of sections 251 and 252 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Balanced Budget and Emergency Deficit Control Act of 1985, for any fiscal year.
 
-(Added Pub. L. 101–239, title IV, § 4001(a)(1), Dec. 19, 1989, 103 Stat. 2133.)
+(Added Pub. L. 101–239, title IV, § 4001(a)(1), Dec. 19, 1989, 103 Stat. 2133.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in par. (3), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Part C of the Act is classified generally to subchapter I (§ 900 et seq.) of chapter 20 of Title 2, The Congress. Sections 251 and 252 of the Act are classified to sections 901 and 902, respectively, of Title 2, and were amended generally by Pub. L. 101–508, title XIII, § 13101(a), Nov. 5, 1990, 104 Stat. 1388–577, 1388–581. Section 251 of the Act was further amended generally by Pub. L. 112–25, title I, § 101, Aug. 2, 2011, 125 Stat. 241. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in par. (3), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Part C of the Act is classified generally to subchapter I (§ 900 et seq.) of chapter 20 of Title 2, The Congress. Sections 251 and 252 of the Act are classified to sections 901 and 902, respectively, of Title 2, and were amended generally by Pub. L. 101–508, title XIII, § 13101(a), Nov. 5, 1990, 104 Stat. 1388–577, 1388–581. Section 251 of the Act was further amended generally by Pub. L. 112–25, title I, § 101, Aug. 2, 2011, 125 Stat. 241. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 Section 3(6) of the Congressional Budget and Impoundment Control Act of 1974, referred to in par. (3), is classified to section 622(6) of Title 2.
 
@@ -513,13 +513,13 @@ Section 3(6) of the Congressional Budget and Impoundment Control Act of 1974, re
 
 **Effective Date**
 
-Pub. L. 101–239, title IV, § 4001(c), Dec. 19, 1989, 103 Stat. 2133, provided that: “The amendments made by this section [enacting this section] shall apply with respect to budgets for fiscal years beginning after September 30, 1989.”
+Pub. L. 101–239, title IV, § 4001(c), Dec. 19, 1989, 103 Stat. 2133, provided that: “The amendments made by this section [enacting this section] shall apply with respect to budgets for fiscal years beginning after September 30, 1989.”
 
 **Construction**
 
-Pub. L. 101–239, title IV, § 4001(b), Dec. 19, 1989, 103 Stat. 2133, provided that: “Nothing in any amendment made by subsection (a) [enacting this section] shall be considered to diminish the oversight responsibilities or authority of the Congress under law, rule, or regulation with respect to the budget and operations of the United States Postal Service.”
+Pub. L. 101–239, title IV, § 4001(b), Dec. 19, 1989, 103 Stat. 2133, provided that: “Nothing in any amendment made by subsection (a) [enacting this section] shall be considered to diminish the oversight responsibilities or authority of the Congress under law, rule, or regulation with respect to the budget and operations of the United States Postal Service.”
 
-## § 2010. Restrictions on agreements
+## § 2010. Restrictions on agreements
 
 The Postal Service shall promote modern and efficient operations and should refrain from expending any funds, engaging in any practice, or entering into any agreement or contract, other than an agreement or contract under chapter 12 of this title, which restricts the use of new equipment or devices which may reduce the cost or improve the quality of postal services, except where such restriction is necessary to insure safe and healthful employment conditions.
 
@@ -531,7 +531,7 @@ The Postal Service shall promote modern and efficient operations and should refr
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 2011. Provisions relating to competitive products
+## § 2011. Provisions relating to competitive products
 
 **(a)**
 
@@ -671,7 +671,7 @@ as the Postal Service determines.
 
 **(2)** A copy of the most recent report submitted under paragraph (1) shall be included in the annual report submitted by the Postal Regulatory Commission under section 3652(g).
 
-(Added Pub. L. 109–435, title IV, § 401(a)(1), Dec. 20, 2006, 120 Stat. 3221.)
+(Added Pub. L. 109–435, title IV, § 401(a)(1), Dec. 20, 2006, 120 Stat. 3221.)
 
 **Editorial Notes**
 

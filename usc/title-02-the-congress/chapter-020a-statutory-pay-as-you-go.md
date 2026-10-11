@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 20A—STATUTORY PAY-AS-YOU-GO
 
-## § 931. Purpose
+## § 931. Purpose
 
 The purpose of this chapter is to reestablish a statutory procedure to enforce a rule of budget neutrality on new revenue and direct spending legislation.
 
-(Pub. L. 111–139, title I, § 2, Feb. 12, 2010, 124 Stat. 8.)
+(Pub. L. 111–139, title I, § 2, Feb. 12, 2010, 124 Stat. 8.)
 
 **Editorial Notes**
 
@@ -31,9 +31,9 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Short Title**
 
-Pub. L. 111–139, title I, § 1, Feb. 12, 2010, 124 Stat. 8, provided that: “This title [enacting this chapter and amending sections 639, 900, 905, and 906 of this title] may be cited as the ‘Statutory Pay-As-You-Go Act of 2010’.”
+Pub. L. 111–139, title I, § 1, Feb. 12, 2010, 124 Stat. 8, provided that: “This title [enacting this chapter and amending sections 639, 900, 905, and 906 of this title] may be cited as the ‘Statutory Pay-As-You-Go Act of 2010’.”
 
-## § 932. Definitions and applications
+## § 932. Definitions and applications
 
 As used in this chapter—
 
@@ -45,9 +45,9 @@ As used in this chapter—
 
 **(B)** In section 250(c)(8)(C) [2 U.S.C. 900(c)(8)(C)], the reference to the food stamp program shall be deemed to be a reference to the Supplemental Nutrition Assistance Program.
 
-**(3)** The term “AMT” means the Alternative Minimum Tax for individuals under sections 55–59 of title 26, the term “EGTRRA” means the Economic Growth and Tax Relief Reconciliation Act of 2001 (Public Law 107–16), and the term “JGTRRA” means the Jobs and Growth Tax Relief and 1
+**(3)** The term “AMT” means the Alternative Minimum Tax for individuals under sections 55–59 of title 26, the term “EGTRRA” means the Economic Growth and Tax Relief Reconciliation Act of 2001 (Public Law 107–16), and the term “JGTRRA” means the Jobs and Growth Tax Relief and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 Reconciliation Act of 2003 (Public Law 108–27).
 
@@ -67,7 +67,7 @@ Reconciliation Act of 2003 (Public Law 108–27).
 
 **(8)** The term “timing shift” refers to a delay of the date on which outlays flowing from direct spending would otherwise occur from the ninth outyear to the tenth outyear or an acceleration of the date on which revenues would otherwise occur from the tenth outyear to the ninth outyear.
 
-(Pub. L. 111–139, title I, § 3, Feb. 12, 2010, 124 Stat. 8.)
+(Pub. L. 111–139, title I, § 3, Feb. 12, 2010, 124 Stat. 8.)
 
 **Editorial Notes**
 
@@ -75,13 +75,13 @@ Reconciliation Act of 2003 (Public Law 108–27).
 
 This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 931 of this title and Tables.
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in par. (1), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in par. (1), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
 The Economic Growth and Tax Relief Reconciliation Act of 2001, referred to in par. (3), is Pub. L. 107–16, June 7, 2001, 115 Stat. 38. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
 The Jobs and Growth Tax Relief Reconciliation Act of 2003, referred to in par. (3), is Pub. L. 108–27, May 28, 2003, 117 Stat. 752. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
-## § 933. PAYGO estimates and PAYGO scorecards
+## § 933. PAYGO estimates and PAYGO scorecards
 
 **(a) PAYGO estimates**
 
@@ -89,19 +89,19 @@ The Jobs and Growth Tax Relief Reconciliation Act of 2003, referred to in par. (
 
 **(A) House of Representatives**
 
-To establish the budgetary effects of a PAYGO Act consistent with the determination made by the Chairman of the House Budget Committee, a PAYGO Act originated in or amended by the House of Representatives may include the following statement: “The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act 1
+To establish the budgetary effects of a PAYGO Act consistent with the determination made by the Chairman of the House Budget Committee, a PAYGO Act originated in or amended by the House of Representatives may include the following statement: “The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act 1
 
-<sup>1</sup>  So in original. Probably should be “Pay-As-You-Go Act”.
+<sup>1</sup> So in original. Probably should be “Pay-As-You-Go Act”.
 
 of 2010, shall be determined by reference to the latest statement titled ‘Budgetary Effects of PAYGO Legislation’ for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.”.
 
 **(B) Senate**
 
-To establish the budgetary effects of a PAYGO Act consistent with the determination made by the Chairman of the Senate Budget Committee, a PAYGO Act originated in or amended by the Senate shall include the following statement: “The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled ‘Budgetary Effects of PAYGO Legislation’ for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.”.
+To establish the budgetary effects of a PAYGO Act consistent with the determination made by the Chairman of the Senate Budget Committee, a PAYGO Act originated in or amended by the Senate shall include the following statement: “The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled ‘Budgetary Effects of PAYGO Legislation’ for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.”.
 
 **(C) Conference reports and amendments between the Houses**
 
-To establish the budgetary effects of the conference report on a PAYGO Act, or an amendment to an amendment between Houses on a PAYGO Act, which if estimated shall be estimated jointly by the Chairmen of the House and Senate Budget Committees, the conference report or amendment between the Houses shall include the following statement: “The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled ‘Budgetary Effects of PAYGO Legislation’ for this Act, jointly submitted for printing in the Congressional Record by the Chairmen of the House and Senate Budget Committees, provided that such statement has been submitted prior to the vote on passage in the House acting first on this conference report or amendment between the Houses.”.
+To establish the budgetary effects of the conference report on a PAYGO Act, or an amendment to an amendment between Houses on a PAYGO Act, which if estimated shall be estimated jointly by the Chairmen of the House and Senate Budget Committees, the conference report or amendment between the Houses shall include the following statement: “The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled ‘Budgetary Effects of PAYGO Legislation’ for this Act, jointly submitted for printing in the Congressional Record by the Chairmen of the House and Senate Budget Committees, provided that such statement has been submitted prior to the vote on passage in the House acting first on this conference report or amendment between the Houses.”.
 
 **(2) Determination of budgetary effects of PAYGO Acts**
 
@@ -163,7 +163,7 @@ Any estimate made pursuant to subparagraph (A) shall be prepared using baseline 
 
 **(3) Limitation on availability of excess savings**
 
-**(A) Prohibition on use of excess saving 2 [footnote: 2 So in original. Probably should be “savings”.] for ineligible policies**
+**(A) Prohibition on use of excess saving 2 [footnote: 2 So in original. Probably should be “savings”.] for ineligible policies**
 
 To the extent the adjustment for current policy of any provision estimated under this subsection exceeds the estimated budgetary effects of that provision, these excess savings shall not be available to offset the costs of any provisions not otherwise eligible for a current policy adjustment under section 936 of this title, and shall not be counted on the PAYGO scorecards established pursuant to subsections (d)(4) and (d)(5).
 
@@ -193,7 +193,7 @@ Except as provided in paragraph (3), in making the calculations for the PAYGO sc
 
 If a PAYGO Act does not contain a valid reference to its budgetary effects consistent with subsection (a), OMB shall estimate the budgetary effects of that legislation upon its enactment. The OMB estimate shall be based on the approaches to scorekeeping set forth in section 639 of this title, as amended by this title,3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 and subsection (g)(4), and shall use the same economic and technical assumptions as used in the most recent budget submitted by the President under section 1105(a) of title 31.
 
@@ -261,7 +261,7 @@ When the Senate is considering a conference report on, or an amendment between t
 
 If a provision is designated as an emergency requirement under this Act, CBO or OMB, as applicable, shall not include the budgetary effects of such a provision in its estimate of the budgetary effects of that PAYGO legislation.
 
-(Pub. L. 111–139, title I, § 4, Feb. 12, 2010, 124 Stat. 9.)
+(Pub. L. 111–139, title I, § 4, Feb. 12, 2010, 124 Stat. 9.)
 
 **Editorial Notes**
 
@@ -275,13 +275,13 @@ This chapter, referred to in subsecs. (c)(1) and (g)(2), was in the original “
 
 As amended by this title, referred to in subsec. (d)(3), means as amended by title I of Pub. L. 111–139.
 
-Legislation titled the “Community Living Assistance Services and Supports Act”, referred to in subsec. (d)(6), was enacted as title VIII of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 828. Title VIII, which was also known as the “CLASS Act”, enacted subchapter XXX of chapter 6A of Title 42, The Public Health and Welfare, amended section 1396a of Title 42, enacted provisions set out as notes under section 300*ll* of Title 42, and amended provisions set out as a note under section 1396p of Title 42, prior to repeal by Pub. L. 112–240, title VI, § 642(b)(1), Jan. 2, 2013, 126 Stat. 2358.
+Legislation titled the “Community Living Assistance Services and Supports Act”, referred to in subsec. (d)(6), was enacted as title VIII of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 828. Title VIII, which was also known as the “CLASS Act”, enacted subchapter XXX of chapter 6A of Title 42, The Public Health and Welfare, amended section 1396a of Title 42, enacted provisions set out as notes under section 300*ll* of Title 42, and amended provisions set out as a note under section 1396p of Title 42, prior to repeal by Pub. L. 112–240, title VI, § 642(b)(1), Jan. 2, 2013, 126 Stat. 2358.
 
 **Codification**
 
 Section is comprised of section 4 of Pub. L. 111–139. Subsec. (b) of section 4 of Pub. L. 111–139 amended section 639 of this title.
 
-## § 934. Annual report and sequestration order
+## § 934. Annual report and sequestration order
 
 **(a) Annual report**
 
@@ -291,7 +291,7 @@ Not later than 14 days (excluding weekends and holidays) after Congress adjourns
 
 If the annual report issued at the end of a session of Congress under subsection (a) shows a debit on either PAYGO scorecard for the budget year, OMB shall prepare and the President shall issue and include in that report a sequestration order that, upon issuance, shall reduce budgetary resources of direct spending programs by enough to offset that debit as prescribed in section 935 of this title. If there is a debit on both scorecards, the order shall fully offset the larger of the two debits. OMB shall transmit the order and the report to the House of Representatives and the Senate. If the President issues a sequestration order, the annual report shall contain, for each budget account to be sequestered, estimates of the baseline level of budgetary resources subject to sequestration, the amount of budgetary resources to be sequestered, and the outlay reductions that will occur in the budget year and the subsequent fiscal year because of that sequestration.
 
-(Pub. L. 111–139, title I, § 5, Feb. 12, 2010, 124 Stat. 15.)
+(Pub. L. 111–139, title I, § 5, Feb. 12, 2010, 124 Stat. 15.)
 
 **Editorial Notes**
 
@@ -299,7 +299,7 @@ If the annual report issued at the end of a session of Congress under subsection
 
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title I of Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 931 of this title and Tables.
 
-## § 935. Calculating a sequestration
+## § 935. Calculating a sequestration
 
 **(a) Reducing nonexempt budgetary resources by a uniform percentage**
 
@@ -311,7 +311,7 @@ OMB shall calculate the uniform percentage by which the budgetary resources of n
 
 Subject to the exemptions set forth in section 11,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 OMB shall determine the uniform percentage required under paragraph (1) with respect to programs and activities contained in the unified budget only.
 
@@ -323,7 +323,7 @@ OMB shall determine the uniform percentage required under paragraph (1) with res
 
 **(3)** the amount by which the sequestration in the budget year of the budgetary resources of other nonexempt mandatory programs reduces outlays in the budget year and in the subsequent fiscal year.
 
-(Pub. L. 111–139, title I, § 6, Feb. 12, 2010, 124 Stat. 16.)
+(Pub. L. 111–139, title I, § 6, Feb. 12, 2010, 124 Stat. 16.)
 
 **Editorial Notes**
 
@@ -331,7 +331,7 @@ OMB shall determine the uniform percentage required under paragraph (1) with res
 
 Section 11, referred to in subsec. (a)(2), means section 11 of Pub. L. 111–139, which amended section 905 of this title.
 
-## § 936. Adjustment for current policies
+## § 936. Adjustment for current policies
 
 **(a) Purpose** The purpose of this section is to provide for adjustments of estimates of budgetary effects of PAYGO legislation for legislation affecting 4 areas of the budget—
 
@@ -445,9 +445,9 @@ Adjustments made pursuant to this subsection are available for policies affectin
 
 **(J)** The rates on income derived from capital gains and qualified dividends as in effect for tax year 2010, as provided for under sections 301 and 302 of JGTRRA and any later amendment through December 31, 2009, affecting taxpayers with adjusted gross income of $200,000 or less for single filers and $250,000 for joint filers with these income levels indexed for inflation in each subsequent year consistent with subsection (g).
 
-**(K)** The phaseout of personal exemptions and the overall limitation on itemized deductions as in effect for tax year 2010, as provided for under sections 102 and 103 of EGTRRA of 2001, respectively, and any later amendment through December 31, 2009, affecting taxpayer 1
+**(K)** The phaseout of personal exemptions and the overall limitation on itemized deductions as in effect for tax year 2010, as provided for under sections 102 and 103 of EGTRRA of 2001, respectively, and any later amendment through December 31, 2009, affecting taxpayer 1
 
-<sup>1</sup>  So in original. Probably should be “taxpayers”.
+<sup>1</sup> So in original. Probably should be “taxpayers”.
 
 with adjusted gross income of $200,000 or less for single filers and $250,000 for joint filers, with these income levels indexed for inflation in each subsequent year consistent with subsection (g).
 
@@ -475,9 +475,9 @@ Indexed amounts are assumed to increase in each year by an amount equal to the c
 
 **(A)** each of the income tax provisions shall be estimated as though the AMT had remained at current law as scheduled on December 31, 2009 to be in effect; and
 
-**(B)** if more than 1 of the income tax provisions is 2
+**(B)** if more than 1 of the income tax provisions is 2
 
-<sup>2</sup>  So in original. Probably should be “are”.
+<sup>2</sup> So in original. Probably should be “are”.
 
 included in a single piece of legislation, those provisions shall be estimated in the order in which they appear.
 
@@ -485,7 +485,7 @@ included in a single piece of legislation, those provisions shall be estimated i
 
 For purposes of estimates made pursuant to subsection (e), changes to the AMT shall be estimated as if, on the date of enactment of legislation meeting the criteria in subsection (e)(1), all of the income tax provisions identified in subsection (f)(1) were made permanent.
 
-(Pub. L. 111–139, title I, § 7, Feb. 12, 2010, 124 Stat. 16.)
+(Pub. L. 111–139, title I, § 7, Feb. 12, 2010, 124 Stat. 16.)
 
 **Editorial Notes**
 
@@ -499,17 +499,17 @@ The Pension Protection Act of 2006, referred to in subsec. (a)(4)(A), is Pub. L.
 
 This chapter, referred to in subsecs. (c)(1), (d)(1), (e)(1), and (f)(1), was in the original “this title”, meaning title I of Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 931 of this title and Tables.
 
-## § 937. Application of BBEDCA
+## § 937. Application of BBEDCA
 
 For purposes of this chapter—
 
 **(1)** notwithstanding section 275 of BBEDCA, the provisions of sections 905, 906, 907, and 922 of this title, as amended by this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall apply to the provisions of this chapter;
 
-**(2)** references in sections 905, 906, 907, and 922 of this title to “this subchapter” or “this title” <sup>1</sup> shall be interpreted as applying to this chapter;
+**(2)** references in sections 905, 906, 907, and 922 of this title to “this subchapter” or “this title” <sup>1</sup> shall be interpreted as applying to this chapter;
 
 **(3)** references in sections 905, 906, 907, and 922 of this title to “section 904 of this title” shall be interpreted as referencing section 934 of this title;
 
@@ -521,13 +521,13 @@ shall apply to the provisions of this chapter;
 
 **(7)** section 906(k) of this title shall apply to a sequestration, if any, under this chapter; and
 
-**(8)** references 2
+**(8)** references 2
 
-<sup>2</sup>  So in original. Probably should be “the reference”.
+<sup>2</sup> So in original. Probably should be “the reference”.
 
 in section 907(e) of this title to “section 901, 902, or 903 of this title” shall be interpreted as referencing section 933 of this title.
 
-(Pub. L. 111–139, title I, § 8, Feb. 12, 2010, 124 Stat. 21.)
+(Pub. L. 111–139, title I, § 8, Feb. 12, 2010, 124 Stat. 21.)
 
 **Editorial Notes**
 
@@ -541,11 +541,11 @@ As amended by this title, referred to in par. (1), means as amended by title I o
 
 “This title”, appearing in quotes in par. (2), refers to the references to “this title” in the original in sections 905, 906, 907, and 922 of this title. “This title” appears untranslated in sections 906(h)(1), (j)(1), (3) and 922(a)(2), (3) of this title and translated as “this chapter” following “subchapter I of” in section 922(d) of this title. Those references to “this title” mean title II of Pub. L. 99–177, known as the Balanced Budget and Emergency Deficit Control Act of 1985. See References in Text notes set out under section 906 and 922 of this title.
 
-## § 938. Determinations and points of order
+## § 938. Determinations and points of order
 
 Nothing in this chapter shall be construed as limiting the authority of the chairmen of the Committees on the Budget of the House and Senate under section 643 of this title. CBO may consult with the Chairmen of the House and Senate Budget Committees to resolve any ambiguities in this chapter.
 
-(Pub. L. 111–139, title I, § 12, Feb. 12, 2010, 124 Stat. 29.)
+(Pub. L. 111–139, title I, § 12, Feb. 12, 2010, 124 Stat. 29.)
 
 **Editorial Notes**
 
@@ -553,7 +553,7 @@ Nothing in this chapter shall be construed as limiting the authority of the chai
 
 This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 931 of this title and Tables.
 
-## § 939. Limitation on changes to the Social Security Act
+## § 939. Limitation on changes to the Social Security Act
 
 **(a) Limitation on changes to the Social Security Act**
 
@@ -567,13 +567,13 @@ This section may be waived or suspended in the Senate only by the affirmative vo
 
 An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under this section.
 
-(Pub. L. 111–139, title I, § 13, Feb. 12, 2010, 124 Stat. 29.)
+(Pub. L. 111–139, title I, § 13, Feb. 12, 2010, 124 Stat. 29.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Subchapter A of chapter 9 and subchapter E of chapter 1, referred to in subsec. (a), probably mean subchapter A of chapter 9 and subchapter E of chapter 1, respectively, of the Internal Revenue Code of 1939, which were comprised of sections 1400 to 1432 and 480 to 482, respectively, and were repealed (subject to certain exceptions) by section 7851(a)(1)(A), (3) of Title 26, Internal Revenue Code of 1986.
 

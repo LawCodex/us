@@ -15,23 +15,23 @@ retrieved: 2026-10-11
 
 # CHAPTER 43—NEWSPAPER PRESERVATION
 
-## § 1801. Congressional declaration of policy
+## § 1801. Congressional declaration of policy
 
 In the public interest of maintaining a newspaper press editorially and reportorially independent and competitive in all parts of the United States, it is hereby declared to be the public policy of the United States to preserve the publication of newspapers in any city, community, or metropolitan area where a joint operating arrangement has been heretofore entered into because of economic distress or is hereafter effected in accordance with the provisions of this chapter.
 
-(Pub. L. 91–353, § 2, July 24, 1970, 84 Stat. 466.)
+(Pub. L. 91–353, § 2, July 24, 1970, 84 Stat. 466.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 91–353, § 1, July 24, 1970, 84 Stat. 466, provided that: “This Act [enacting this chapter] may be cited as the ‘Newspaper Preservation Act’.”
+Pub. L. 91–353, § 1, July 24, 1970, 84 Stat. 466, provided that: “This Act [enacting this chapter] may be cited as the ‘Newspaper Preservation Act’.”
 
 **Separability**
 
-Pub. L. 91–353, § 6, July 24, 1970, 84 Stat. 467, provided that: “If any provision of this Act [enacting this chapter] is declared unconstitutional, or the applicability thereof to any person or circumstance is held invalid, the validity of the remainder of this Act, and the applicability of such provision to any other person or circumstance, shall not be affected thereby.”
+Pub. L. 91–353, § 6, July 24, 1970, 84 Stat. 467, provided that: “If any provision of this Act [enacting this chapter] is declared unconstitutional, or the applicability thereof to any person or circumstance is held invalid, the validity of the remainder of this Act, and the applicability of such provision to any other person or circumstance, shall not be affected thereby.”
 
-## § 1802. Definitions
+## § 1802. Definitions
 
 As used in this chapter—
 
@@ -47,15 +47,15 @@ As used in this chapter—
 
 **(6)** The term “person” means any individual, and any partnership, corporation, association, or other legal entity existing under or authorized by the law of the United States, any State or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any foreign country.
 
-(Pub. L. 91–353, § 3, July 24, 1970, 84 Stat. 466.)
+(Pub. L. 91–353, § 3, July 24, 1970, 84 Stat. 466.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in par. (1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in par. (1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-## § 1803. Antitrust exemptions
+## § 1803. Antitrust exemptions
 
 **(a) Joint operating arrangements entered into prior to July 24, 1970**
 
@@ -69,16 +69,16 @@ It shall be unlawful for any person to enter into, perform, or enforce a joint o
 
 Nothing contained in the chapter shall be construed to exempt from any antitrust law any predatory pricing, any predatory practice, or any other conduct in the otherwise lawful operations of a joint newspaper operating arrangement which would be unlawful under any antitrust law if engaged in by a single entity. Except as provided in this chapter, no joint newspaper operating arrangement or any party thereto shall be exempt from any antitrust law.
 
-(Pub. L. 91–353, § 4, July 24, 1970, 84 Stat. 467.)
+(Pub. L. 91–353, § 4, July 24, 1970, 84 Stat. 467.)
 
-## § 1804. Reinstatement of joint operating arrangements previously adjudged unlawful under antitrust laws
+## § 1804. Reinstatement of joint operating arrangements previously adjudged unlawful under antitrust laws
 
 **(a)** Notwithstanding any final judgment rendered in any action brought by the United States under which a joint operating arrangement has been held to be unlawful under any antitrust law, any party to such final judgment may reinstitute said joint newspaper operating arrangement to the extent permissible under section 1803(a) of this title.
 
-**(b)** The provisions of section 1803 of this title shall apply to the determination of any civil or criminal action pending in any district court of the United State 1
+**(b)** The provisions of section 1803 of this title shall apply to the determination of any civil or criminal action pending in any district court of the United State 1
 
-<sup>1</sup>  So in original. Probably should be “States”.
+<sup>1</sup> So in original. Probably should be “States”.
 
 on July 24, 1970, in which it is alleged that any such joint operating agreement is unlawful under any antitrust law.
 
-(Pub. L. 91–353, § 5, July 24, 1970, 84 Stat. 467.)
+(Pub. L. 91–353, § 5, July 24, 1970, 84 Stat. 467.)

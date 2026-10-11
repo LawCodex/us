@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title IX, § 924(d)(2)(C), Jan. 1, 2021, 134 Stat. 3826, added item 8802 and struck out former item 8802 “Sales: members of Army and Air Force; prices”.
+2021—Pub. L. 116–283, div. A, title IX, § 924(d)(2)(C), Jan. 1, 2021, 134 Stat. 3826, added item 8802 and struck out former item 8802 “Sales: members of Army and Air Force; prices”.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 651 of this title as this chapter and items 7601 to 7606 as 8801 to 8806, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 651 of this title as this chapter and items 7601 to 7606 as 8801 to 8806, respectively.
 
-1996—Pub. L. 104–106, div. A, title III, § 375(a)(2), Feb. 10, 1996, 110 Stat. 283, added item 7606.
+1996—Pub. L. 104–106, div. A, title III, § 375(a)(2), Feb. 10, 1996, 110 Stat. 283, added item 7606.
 
-1990—Pub. L. 101–510, div. A, title III, § 329(a)(2), Nov. 5, 1990, 104 Stat. 1534, amended item 7604 generally, substituting “Ships’ stores: sale of goods and services” for “Profits: ships’ stores”.
+1990—Pub. L. 101–510, div. A, title III, § 329(a)(2), Nov. 5, 1990, 104 Stat. 1534, amended item 7604 generally, substituting “Ships’ stores: sale of goods and services” for “Profits: ships’ stores”.
 
-1985—Pub. L. 99–145, title XIII, § 1301(c)(3)(C), Nov. 8, 1985, 99 Stat. 736, inserted “the” before “naval service” and “and widowers” after “widows” in item 7601.
+1985—Pub. L. 99–145, title XIII, § 1301(c)(3)(C), Nov. 8, 1985, 99 Stat. 736, inserted “the” before “naval service” and “and widowers” after “widows” in item 7601.
 
-## § 8801. Sales: members of the naval service and Coast Guard; widows and widowers; civilian employees and other persons
+## § 8801. Sales: members of the naval service and Coast Guard; widows and widowers; civilian employees and other persons
 
 **(a)** Such stores as the Secretary of the Navy designates may be procured and sold to members of the naval service, members of the Coast Guard, and widows and widowers of such members.
 
@@ -41,14 +41,14 @@ retrieved: 2026-10-11
 
 However, sales to civilian officers and employees inside the United States may be made only to those residing within military installations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 470, § 7601; Pub. L. 99–145, title XIII, § 1301(c)(3)(A), (B), Nov. 8, 1985, 99 Stat. 736; renumbered § 8801, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 470, § 7601; Pub. L. 99–145, title XIII, § 1301(c)(3)(A), (B), Nov. 8, 1985, 99 Stat. 736; renumbered § 8801, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7601(a) | 34 U.S.C. 533. | Mar. 3, 1909, ch. 255, 35 Stat. 768 (1st proviso); Apr. 14, 1937, ch. 78, 50 Stat. 63; June 10, 1939, ch. 196, 53 Stat. 814; Jan. 23, 1942, ch. 15, 56 Stat. 13; Apr. 9, 1943, ch. 39, 57 Stat. 60; Aug. 8, 1953, ch. 390, § 2, 67 Stat. 499. |
-| 7601(b) | 34 U.S.C. 533a. | Aug. 8, 1953, ch. 390, § 1 (as applicable to Secretary of the Navy), 67 Stat. 499. |
+| 7601(a) | 34 U.S.C. 533. | Mar. 3, 1909, ch. 255, 35 Stat. 768 (1st proviso); Apr. 14, 1937, ch. 78, 50 Stat. 63; June 10, 1939, ch. 196, 53 Stat. 814; Jan. 23, 1942, ch. 15, 56 Stat. 13; Apr. 9, 1943, ch. 39, 57 Stat. 60; Aug. 8, 1953, ch. 390, § 2, 67 Stat. 499. |
+| 7601(b) | 34 U.S.C. 533a. | Aug. 8, 1953, ch. 390, § 1 (as applicable to Secretary of the Navy), 67 Stat. 499. |
 
 In subsection (a) the words “members of the naval service” are substituted for the words “officers and enlisted men of the Navy, Marine Corps”.
 
@@ -60,9 +60,9 @@ In subsection (b) the word “outside” is substituted for the words “beyond 
 
 2018—Pub. L. 115–232 renumbered section 7601 of this title as this section.
 
-1985—Pub. L. 99–145, § 1301(c)(3)(B), inserted “the” before “naval service” and “and widowers” after “widows” in section catchline.
+1985—Pub. L. 99–145, § 1301(c)(3)(B), inserted “the” before “naval service” and “and widowers” after “widows” in section catchline.
 
-Subsec. (a). Pub. L. 99–145, § 1301(c)(3)(A), inserted “and widowers” after “widows”.
+Subsec. (a). Pub. L. 99–145, § 1301(c)(3)(A), inserted “and widowers” after “widows”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -74,25 +74,25 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8802. Sales: members of Army, Air Force, and Space Force; prices
+## § 8802. Sales: members of Army, Air Force, and Space Force; prices
 
 The Navy and the Marine Corps shall sell subsistence supplies to any member of the Army, the Air Force, or the Space Force at prices charged members of the naval service.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 471, § 7602; renumbered § 8802, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title IX, § 924(d)(2)(A), (B), Jan. 1, 2021, 134 Stat. 3826.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 471, § 7602; renumbered § 8802, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title IX, § 924(d)(2)(A), (B), Jan. 1, 2021, 134 Stat. 3826.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7602 | 34 U.S.C. 538. | Aug. 29, 1916, ch. 418, § 1, 39 Stat. 630 (less words before semicolon of 3d proviso under “Subsistence of the Army”). |
+| 7602 | 34 U.S.C. 538. | Aug. 29, 1916, ch. 418, § 1, 39 Stat. 630 (less words before semicolon of 3d proviso under “Subsistence of the Army”). |
 
-This section is expanded to cover sales to members of the Air Force, as authorized by § 305(a) of the National Security Act of 1947, as amended (5 U.S.C. 171*l*).
+This section is expanded to cover sales to members of the Air Force, as authorized by § 305(a) of the National Security Act of 1947, as amended (5 U.S.C. 171*l*).
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283 substituted “Sales: members of Army, Air Force, and Space Force; prices” for “Sales: members of Army and Air Force; prices” in section catchline and “, the Air Force, or the Space Force” for “or the Air Force” in text.
+2021—Pub. L. 116–283 substituted “Sales: members of Army, Air Force, and Space Force; prices” for “Sales: members of Army and Air Force; prices” in section catchline and “, the Air Force, or the Space Force” for “or the Air Force” in text.
 
 2018—Pub. L. 115–232 renumbered section 7602 of this title as this section.
 
@@ -102,11 +102,11 @@ This section is expanded to cover sales to members of the Air Force, as authoriz
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8803. Sales: veterans under treatment
+## § 8803. Sales: veterans under treatment
 
 A person who has been separated honorably or under honorable conditions from the Army, the Navy, the Air Force, the Marine Corps, the Space Force, or the Coast Guard and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, from the Navy and the Marine Corps at prices charged members of the naval service.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 471, § 7603; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; renumbered § 8803, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title IX, § 924(d)(3), Jan. 1, 2021, 134 Stat. 3826; Pub. L. 118–159, div. A, title VI, § 642, Dec. 23, 2024, 138 Stat. 1938.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 471, § 7603; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; renumbered § 8803, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title IX, § 924(d)(3), Jan. 1, 2021, 134 Stat. 3826; Pub. L. 118–159, div. A, title VI, § 642, Dec. 23, 2024, 138 Stat. 1938.)
 
 **Historical and Revision Notes**
 
@@ -114,13 +114,13 @@ A person who has been separated honorably or under honorable conditions from the
 |---|---|---|
 | 7603 | 34 U.S.C. 536. | June 5, 1920, ch. 240 (par. under “Purchase of Army Stores by Discharged Receiving Treatment from the Public Health Service”), 41 Stat. 976. |
 
-The word “separated” is substituted for the word “discharged”. The words “under honorable conditions” are added since this provision is interpreted as benefiting personnel discharged under honorable conditions. The words “Air Force” are supplied under the authority of § 305(a) of the National Security Act of 1947, as amended (5 U.S.C. 171*l*). The words “Veterans’ Administration” are added under the authority of the Act of August 9, 1921, ch. 57, 42 Stat. 148, which transferred care of veterans to the Veterans’ Bureau, the Act of June 7, 1924, ch. 320, 43 Stat. 610, which transferred all hospitals under the jurisdiction of the Public Health Service to the Veterans’ Bureau, and the Act of July 3, 1930, ch. 863, § 1, 46 Stat. 1016, under which the President by Executive Order No. 5398, July 21, 1930, transferred the Veterans’ Bureau to the Veterans’ Administration. The words “while undergoing such care and treatment” are omitted as surplusage.
+The word “separated” is substituted for the word “discharged”. The words “under honorable conditions” are added since this provision is interpreted as benefiting personnel discharged under honorable conditions. The words “Air Force” are supplied under the authority of § 305(a) of the National Security Act of 1947, as amended (5 U.S.C. 171*l*). The words “Veterans’ Administration” are added under the authority of the Act of August 9, 1921, ch. 57, 42 Stat. 148, which transferred care of veterans to the Veterans’ Bureau, the Act of June 7, 1924, ch. 320, 43 Stat. 610, which transferred all hospitals under the jurisdiction of the Public Health Service to the Veterans’ Bureau, and the Act of July 3, 1930, ch. 863, § 1, 46 Stat. 1016, under which the President by Executive Order No. 5398, July 21, 1930, transferred the Veterans’ Bureau to the Veterans’ Administration. The words “while undergoing such care and treatment” are omitted as surplusage.
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Pub. L. 118–159 substituted “, the Space Force, or the Coast Guard” for “, or the Space Force”.
+2024—Pub. L. 118–159 substituted “, the Space Force, or the Coast Guard” for “, or the Space Force”.
 
 2021—Pub. L. 116–283 substituted “the Marine Corps, or the Space Force” for “or the Marine Corps”.
 
@@ -134,7 +134,7 @@ The word “separated” is substituted for the word “discharged”. The words
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8804. Ships’ stores: sale of goods and services
+## § 8804. Ships’ stores: sale of goods and services
 
 **(a) In General.—** Under such regulations and at such prices as the Secretary of the Navy may prescribe, the Secretary may provide for the sale of goods and services from ships’ stores to members of the naval service and to such other persons as provided by law.
 
@@ -164,7 +164,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(11)** Tobacco products.
 
-(Added Pub. L. 101–510, div. A, title III, § 329(a)(1), Nov. 5, 1990, 104 Stat. 1534, § 7604; amended Pub. L. 103–160, div. A, title III, § 371(a), formerly § 371(c), Nov. 30, 1993, 107 Stat. 1635, renumbered § 371(a), Pub. L. 104–106, div. A, title III, § 340(a)(2), Feb. 10, 1996, 110 Stat. 265; Pub. L. 112–81, div. A, title VI, § 641, Dec. 31, 2011, 125 Stat. 1466; renumbered § 8804, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
+(Added Pub. L. 101–510, div. A, title III, § 329(a)(1), Nov. 5, 1990, 104 Stat. 1534, § 7604; amended Pub. L. 103–160, div. A, title III, § 371(a), formerly § 371(c), Nov. 30, 1993, 107 Stat. 1635, renumbered § 371(a), Pub. L. 104–106, div. A, title III, § 340(a)(2), Feb. 10, 1996, 110 Stat. 265; Pub. L. 112–81, div. A, title VI, § 641, Dec. 31, 2011, 125 Stat. 1466; renumbered § 8804, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
 
 **Editorial Notes**
 
@@ -184,13 +184,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–160, div. A, title III, § 371(b), formerly § 371(d), Nov. 30, 1993, 107 Stat. 1635, renumbered § 371(b) by Pub. L. 104–106, div. A, title III, § 340(a)(2), Feb. 10, 1996, 110 Stat. 265; as amended by Pub. L. 103–337, div. A, title III, § 374(b), Oct. 5, 1994, 108 Stat. 2736, provided that: “Subsections (b) and (c) of section 7604 [now 8804] of title 10, United States Code, as added by subsection (c) [now (a)], shall take effect on October 1, 1994.”
+Pub. L. 103–160, div. A, title III, § 371(b), formerly § 371(d), Nov. 30, 1993, 107 Stat. 1635, renumbered § 371(b) by Pub. L. 104–106, div. A, title III, § 340(a)(2), Feb. 10, 1996, 110 Stat. 265; as amended by Pub. L. 103–337, div. A, title III, § 374(b), Oct. 5, 1994, 108 Stat. 2736, provided that: “Subsections (b) and (c) of section 7604 [now 8804] of title 10, United States Code, as added by subsection (c) [now (a)], shall take effect on October 1, 1994.”
 
 **Regulations**
 
-Pub. L. 101–510, div. A, title III, § 329(a)(3), Nov. 5, 1990, 104 Stat. 1534, provided that: “The regulations required to be prescribed under section 7604 [now 8804] of title 10, United States Code (as amended by paragraph (1)), shall be first prescribed not later than 90 days after the date of the enactment of this Act [Nov. 5, 1990].”
+Pub. L. 101–510, div. A, title III, § 329(a)(3), Nov. 5, 1990, 104 Stat. 1534, provided that: “The regulations required to be prescribed under section 7604 [now 8804] of title 10, United States Code (as amended by paragraph (1)), shall be first prescribed not later than 90 days after the date of the enactment of this Act [Nov. 5, 1990].”
 
-## § 8805. Acceptance of Government checks outside the United States
+## § 8805. Acceptance of Government checks outside the United States
 
 Notwithstanding section 3302(a) of title 31, the Secretary of the Navy may authorize the officer in charge of any commissary store or ship’s store ashore located outside the United States to—
 
@@ -198,7 +198,7 @@ Notwithstanding section 3302(a) of title 31, the Secretary of the Navy may autho
 
 **(2)** refund in cash any difference between the amount due and the amount of the tendered check.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 471, § 7605; Pub. L. 96–513, title V, § 513(42), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 97–258, § 3(b)(10), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 109–163, div. A, title V, § 515(b)(1)(V), Jan. 6, 2006, 119 Stat. 3233; renumbered § 8805, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 471, § 7605; Pub. L. 96–513, title V, § 513(42), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 97–258, § 3(b)(10), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 109–163, div. A, title V, § 515(b)(1)(V), Jan. 6, 2006, 119 Stat. 3233; renumbered § 8805, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
 
 **Historical and Revision Notes**
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 8806. Subsistence and other supplies: members of armed forces; veterans; executive or military departments and employees; prices
+## § 8806. Subsistence and other supplies: members of armed forces; veterans; executive or military departments and employees; prices
 
 **(a)**
 
@@ -264,13 +264,13 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **(h)** Appropriations for subsistence of the Navy or Marine Corps may be applied to the purchase of subsistence supplies for sale to members of the Navy and Marine Corps on active duty for the use of such members and their families.
 
-(Added Pub. L. 104–106, div. A, title III, § 375(a)(1), Feb. 10, 1996, 110 Stat. 281, § 7606; amended Pub. L. 105–85, div. A, title X, § 1073(a)(63), Nov. 18, 1997, 111 Stat. 1903; renumbered § 8806, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title IX, § 924(d)(4), Jan. 1, 2021, 134 Stat. 3826.)
+(Added Pub. L. 104–106, div. A, title III, § 375(a)(1), Feb. 10, 1996, 110 Stat. 281, § 7606; amended Pub. L. 105–85, div. A, title X, § 1073(a)(63), Nov. 18, 1997, 111 Stat. 1903; renumbered § 8806, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title IX, § 924(d)(4), Jan. 1, 2021, 134 Stat. 3826.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior sections 8811 to 8813 were repealed by Pub. L. 90–235, § 3(a)(2), (b)(1), Jan. 2, 1968, 81 Stat. 757, 758.
+Prior sections 8811 to 8813 were repealed by Pub. L. 90–235, § 3(a)(2), (b)(1), Jan. 2, 1968, 81 Stat. 757, 758.
 
 Section 8811, act Aug. 10, 1956, ch. 1041, 70A Stat. 544, provided for discharge of enlisted members of Air Force and limitations thereon, and for issuance of discharge certificates. See section 1169 of this title.
 
@@ -278,9 +278,9 @@ Section 8812, act Aug. 10, 1956, ch. 1041, 70A Stat. 544, provided for discharge
 
 Section 8813, act Aug. 10, 1956, ch. 1041, 70A Stat. 544, provided for dependency discharges for enlisted members of Air Force.
 
-A prior section 8814, act Aug. 10, 1956, ch. 1041, 70A Stat. 545, authorized Secretary of Air Force to discharge a regular commissioned officer who has less than three years of continuous service as a commissioned officer therein, provided that such officer not be dismissed because of his marriage, unless marriage occurred within one year after date of his original appointment, prior to repeal by Pub. L. 96–513, title II, § 214, Dec. 12, 1980, 94 Stat. 2885, effective Sept. 15, 1981. See section 630 of this title
+A prior section 8814, act Aug. 10, 1956, ch. 1041, 70A Stat. 545, authorized Secretary of Air Force to discharge a regular commissioned officer who has less than three years of continuous service as a commissioned officer therein, provided that such officer not be dismissed because of his marriage, unless marriage occurred within one year after date of his original appointment, prior to repeal by Pub. L. 96–513, title II, § 214, Dec. 12, 1980, 94 Stat. 2885, effective Sept. 15, 1981. See section 630 of this title
 
-Prior sections 8815 and 8816 were repealed by Pub. L. 90–235, § 3(a)(2), (b)(1), Jan. 2, 1968, 81 Stat. 757, 758.
+Prior sections 8815 and 8816 were repealed by Pub. L. 90–235, § 3(a)(2), (b)(1), Jan. 2, 1968, 81 Stat. 757, 758.
 
 Section 8815, act Aug. 10, 1956, ch. 1041, 70A Stat. 545, provided for resignation of regular enlisted members of Air Force enlisted on a career basis and limitations thereon.
 
@@ -288,17 +288,17 @@ Section 8816, act Aug. 10, 1956, ch. 1041, 70A Stat. 545, provided for minority 
 
 A prior section 8817 was renumbered section 9307 of this title.
 
-A prior section 8818, act Aug. 10, 1956, ch. 1041, 70A Stat. 545, authorized Secretary of Air Force, under regulations prescribed by President, to terminate appointment or enlistment of any female member of Regular Air Force, provided that appointment of a commissioned officer not be terminated by dismissal, prior to repeal by Pub. L. 96–513, title II, § 236, Dec. 12, 1980, 94 Stat. 2887, effective Sept. 15, 1981.
+A prior section 8818, act Aug. 10, 1956, ch. 1041, 70A Stat. 545, authorized Secretary of Air Force, under regulations prescribed by President, to terminate appointment or enlistment of any female member of Regular Air Force, provided that appointment of a commissioned officer not be terminated by dismissal, prior to repeal by Pub. L. 96–513, title II, § 236, Dec. 12, 1980, 94 Stat. 2887, effective Sept. 15, 1981.
 
-Prior sections 8819 and 8820 were repealed by Pub. L. 103–337, div. A, title XVI, § 1629(c)(2), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
+Prior sections 8819 and 8820 were repealed by Pub. L. 103–337, div. A, title XVI, § 1629(c)(2), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
 
-Section 8819, added Pub. L. 85–861, § 1(191)(A), Sept. 2, 1958, 72 Stat. 1534; amended Pub. L. 86–559, § 1(65), June 30, 1960, 74 Stat. 278; Pub. L. 98–525, title V, § 528(d), Oct. 19, 1984, 98 Stat. 2526; Pub. L. 104–106, div. A, title XV, § 1501(c)(32), (33), Feb. 10, 1996, 110 Stat. 500, related to discharge of officers of Air Force Reserve or Air National Guard of United States for failure of promotion to first lieutenant. See section 14503 of this title.
+Section 8819, added Pub. L. 85–861, § 1(191)(A), Sept. 2, 1958, 72 Stat. 1534; amended Pub. L. 86–559, § 1(65), June 30, 1960, 74 Stat. 278; Pub. L. 98–525, title V, § 528(d), Oct. 19, 1984, 98 Stat. 2526; Pub. L. 104–106, div. A, title XV, § 1501(c)(32), (33), Feb. 10, 1996, 110 Stat. 500, related to discharge of officers of Air Force Reserve or Air National Guard of United States for failure of promotion to first lieutenant. See section 14503 of this title.
 
 Section 8820, act Aug. 10, 1956, ch. 1041, 70A Stat. 546, related to discharge and withdrawal of Federal recognition of officers of Air National Guard of United States absent without leave. See section 14907 of this title.
 
 **Amendments**
 
-2021—Subsec. (d). Pub. L. 116–283, which directed substitution of “, Air Force, Marine Corps, or Space Force” for “or Air Force or Marine Corps”, was executed by making the substitution for “, Air Force or Marine Corps” to reflect the probable intent of Congress.
+2021—Subsec. (d). Pub. L. 116–283, which directed substitution of “, Air Force, Marine Corps, or Space Force” for “or Air Force or Marine Corps”, was executed by making the substitution for “, Air Force or Marine Corps” to reflect the probable intent of Congress.
 
 2018—Pub. L. 115–232 renumbered section 7606 of this title as this section.
 

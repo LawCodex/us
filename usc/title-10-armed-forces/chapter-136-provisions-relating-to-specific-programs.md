@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title III, § 332(b), title XVII, § 1701(f)(1), Dec. 27, 2021, 135 Stat. 1638, 2139, struck out item 2283 “Department of Defense small business strategy” and added item 2285.
+2021—Pub. L. 117–81, div. A, title III, § 332(b), title XVII, § 1701(f)(1), Dec. 27, 2021, 135 Stat. 1638, 2139, struck out item 2283 “Department of Defense small business strategy” and added item 2285.
 
-2018—Pub. L. 115–232, div. A, title III, § 311(b), title VIII, § 851(c), Aug. 13, 2018, 132 Stat. 1709, 1884, added items 2283 and 2284.
+2018—Pub. L. 115–232, div. A, title III, § 311(b), title VIII, § 851(c), Aug. 13, 2018, 132 Stat. 1709, 1884, added items 2283 and 2284.
 
-2016—Pub. L. 114–328, div. A, title XII, § 1241(d)(6), Dec. 23, 2016, 130 Stat. 2505, struck out item 2282 “Authority to build the capacity of foreign security forces”.
+2016—Pub. L. 114–328, div. A, title XII, § 1241(d)(6), Dec. 23, 2016, 130 Stat. 2505, struck out item 2282 “Authority to build the capacity of foreign security forces”.
 
-2014—Pub. L. 113–291, div. A, title XII, § 1205(a)(2), Dec. 19, 2014, 128 Stat. 3536, added item 2282.
+2014—Pub. L. 113–291, div. A, title XII, § 1205(a)(2), Dec. 19, 2014, 128 Stat. 3536, added item 2282.
 
-2011—Pub. L. 112–81, div. A, title X, § 1061(13)(B), Dec. 31, 2011, 125 Stat. 1583, struck out item 2282 “B–2 bomber: annual report”.
+2011—Pub. L. 112–81, div. A, title X, § 1061(13)(B), Dec. 31, 2011, 125 Stat. 1583, struck out item 2282 “B–2 bomber: annual report”.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title I, § 131(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–29, added item 2282.
+2000—Pub. L. 106–398, § 1 [[div. A], title I, § 131(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–29, added item 2282.
 
-## § 2281. Global Positioning System
+## § 2281. Global Positioning System
 
 **(a) Sustainment and Operation for Military Purposes.—** The Secretary of Defense shall provide for the sustainment of the capabilities of the Global Positioning System (hereinafter in this section referred to as the “GPS”), and the operation of basic GPS services, that are beneficial for the national security interests of the United States. In doing so, the Secretary shall—
 
@@ -51,9 +51,9 @@ retrieved: 2026-10-11
 
 **(5)** may not agree to any restriction on the Global Positioning System proposed by the head of a department or agency of the United States outside the Department of Defense in the exercise of that official’s regulatory authority that would adversely affect the military potential of the Global Positioning System.
 
-**(c) Federal Radionavigation Plan.—** The Secretary of Defense and the Secretary of Transportation shall jointly prepare the Federal Radionavigation Plan. The plan shall be revised and updated not less often than every two years. The plan shall be prepared in accordance with the requirements applicable to such plan as first prepared pursuant to section 507 of the International Maritime Satellite Telecommunications Act 1
+**(c) Federal Radionavigation Plan.—** The Secretary of Defense and the Secretary of Transportation shall jointly prepare the Federal Radionavigation Plan. The plan shall be revised and updated not less often than every two years. The plan shall be prepared in accordance with the requirements applicable to such plan as first prepared pursuant to section 507 of the International Maritime Satellite Telecommunications Act 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (47 U.S.C. 756). The plan, and any amendment to the plan, shall be published in the Federal Register.
 
@@ -69,33 +69,33 @@ retrieved: 2026-10-11
 
 **(2)** The term “GPS Standard Positioning Service” means the civil and commercial service provided by the basic Global Positioning System as defined in the 1996 Federal Radionavigation Plan (published jointly by the Secretary of Defense and the Secretary of Transportation in July 1997).
 
-(Added Pub. L. 105–85, div. A, title X, § 1074(d)(1), Nov. 18, 1997, 111 Stat. 1909; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title IX, § 914, Nov. 24, 2003, 117 Stat. 1567; Pub. L. 111–84, div. A, title X, § 1032, Oct. 28, 2009, 123 Stat. 2448; Pub. L. 112–239, div. A, title X, § 1064, Jan. 2, 2013, 126 Stat. 1941.)
+(Added Pub. L. 105–85, div. A, title X, § 1074(d)(1), Nov. 18, 1997, 111 Stat. 1909; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title IX, § 914, Nov. 24, 2003, 117 Stat. 1567; Pub. L. 111–84, div. A, title X, § 1032, Oct. 28, 2009, 123 Stat. 2448; Pub. L. 112–239, div. A, title X, § 1064, Jan. 2, 2013, 126 Stat. 1941.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 507 of the International Maritime Satellite Telecommunications Act, referred to in subsec. (c), is section 507 of Pub. L. 87–624 which was classified to section 756 of Title 47, Telecommunications, prior to repeal by Pub. L. 103–414, title III, § 304(b)(5), Oct. 25, 1994, 108 Stat. 4298.
+Section 507 of the International Maritime Satellite Telecommunications Act, referred to in subsec. (c), is section 507 of Pub. L. 87–624 which was classified to section 756 of Title 47, Telecommunications, prior to repeal by Pub. L. 103–414, title III, § 304(b)(5), Oct. 25, 1994, 108 Stat. 4298.
 
 **Amendments**
 
 2013—Subsecs. (d), (e). Pub. L. 112–239 redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to biennial reports on the Global Positioning System.
 
-2009—Subsec. (d)(1). Pub. L. 111–84, § 1032(a)(1), in introductory provisions, substituted “the Deputy Secretary of Defense and the Deputy Secretary of Transportation, in their capacity as co-chairs of the National Executive Committee for Space-Based Positioning, Navigation, and Timing,” for “the Secretary of Defense” and “the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services, Energy and Commerce, and Transportation and Infrastructure of the House of Representatives” for “the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives”.
+2009—Subsec. (d)(1). Pub. L. 111–84, § 1032(a)(1), in introductory provisions, substituted “the Deputy Secretary of Defense and the Deputy Secretary of Transportation, in their capacity as co-chairs of the National Executive Committee for Space-Based Positioning, Navigation, and Timing,” for “the Secretary of Defense” and “the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services, Energy and Commerce, and Transportation and Infrastructure of the House of Representatives” for “the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives”.
 
-Subsec. (d)(1)(B)(ii). Pub. L. 111–84, § 1032(b), inserted “validated” before “performance requirements” and “in accordance with Office of Management and Budget Circular A–109” after “Plan”.
+Subsec. (d)(1)(B)(ii). Pub. L. 111–84, § 1032(b), inserted “validated” before “performance requirements” and “in accordance with Office of Management and Budget Circular A–109” after “Plan”.
 
-Subsec. (d)(2). Pub. L. 111–84, § 1032(a)(2), added par. (2) and struck out former par. (2), which read as follows: “In preparing the parts of each such report required under subparagraphs (C), (D), (E), (F), and (G) of paragraph (1), the Secretary of Defense shall consult with the Secretary of State, the Secretary of Commerce, and the Secretary of Transportation.”
+Subsec. (d)(2). Pub. L. 111–84, § 1032(a)(2), added par. (2) and struck out former par. (2), which read as follows: “In preparing the parts of each such report required under subparagraphs (C), (D), (E), (F), and (G) of paragraph (1), the Secretary of Defense shall consult with the Secretary of State, the Secretary of Commerce, and the Secretary of Transportation.”
 
-2003—Subsec. (d)(1)(C). Pub. L. 108–136, § 914(a)(1), (2), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The most recent determination by the President regarding continued use of the selective availability feature of the system and the expected date of any change or elimination of the use of that feature.”
+2003—Subsec. (d)(1)(C). Pub. L. 108–136, § 914(a)(1), (2), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The most recent determination by the President regarding continued use of the selective availability feature of the system and the expected date of any change or elimination of the use of that feature.”
 
-Subsec. (d)(1)(D). Pub. L. 108–136, § 914(a)(3), redesignated subpar. (E) as (D) and substituted “Progress and challenges in” for “Any progress made toward”. Former subpar. (D) redesignated (C).
+Subsec. (d)(1)(D). Pub. L. 108–136, § 914(a)(3), redesignated subpar. (E) as (D) and substituted “Progress and challenges in” for “Any progress made toward”. Former subpar. (D) redesignated (C).
 
-Subsec. (d)(1)(E). Pub. L. 108–136, § 914(a)(4), added subpar. (E). Former subpar. (E) redesignated (D).
+Subsec. (d)(1)(E). Pub. L. 108–136, § 914(a)(4), added subpar. (E). Former subpar. (E) redesignated (D).
 
-Subsec. (d)(1)(F). Pub. L. 108–136, § 914(a)(4), added subpar. (F) and struck out former subpar. (F) which read as follows: “Any progress made toward protecting GPS from disruption and interference.”
+Subsec. (d)(1)(F). Pub. L. 108–136, § 914(a)(4), added subpar. (F) and struck out former subpar. (F) which read as follows: “Any progress made toward protecting GPS from disruption and interference.”
 
-Subsec. (d)(2). Pub. L. 108–136, § 914(b), inserted “(C),” after “under subparagraphs”.
+Subsec. (d)(2). Pub. L. 108–136, § 914(b), inserted “(C),” after “under subparagraphs”.
 
 1999—Subsec. (d)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
@@ -103,7 +103,7 @@ Subsec. (d)(2). Pub. L. 108–136, § 914(b), inserted “(C),” after “und
 
 **Resilient and Survivable Positioning, Navigation, and Timing Capabilities**
 
-Pub. L. 116–283, div. A, title XVI, § 1611, Jan. 1, 2021, 134 Stat. 4048, provided that:
+Pub. L. 116–283, div. A, title XVI, § 1611, Jan. 1, 2021, 134 Stat. 4048, provided that:
 
 > **“(a) In General.—** Not later than two years after the date of the enactment of this Act [Jan. 1, 2021], consistent with the timescale applicable to joint urgent operational needs statements, the Secretary of Defense shall—
 
@@ -127,7 +127,7 @@ Pub. L. 116–283, div. A, title XVI, § 1611, Jan. 1, 2021, 134 Stat. 4048, p
 
 **Prohibition on Availability of Funds for Certain Purposes Relating to the Global Positioning System**
 
-Pub. L. 116–283, div. A, title XVI, § 1661, Jan. 1, 2021, 134 Stat. 4073, provided that:
+Pub. L. 116–283, div. A, title XVI, § 1661, Jan. 1, 2021, 134 Stat. 4073, provided that:
 
 > **“(a) Prohibition.—** Except as provided by subsection (b), none of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2021 or any subsequent fiscal year for the Department of Defense may be obligated or expended to retrofit any Global Positioning System device or system, or network that uses the Global Positioning System, in order to mitigate harmful interference from commercial terrestrial operations using the 1526–1536 megahertz band, the 1627.5–1637.5 megahertz band, or the 1646.5–1656.5 megahertz band.
 
@@ -141,11 +141,11 @@ Pub. L. 116–283, div. A, title XVI, § 1661, Jan. 1, 2021, 134 Stat. 4073, p
 
 **Limitation on Awarding Contracts to Entities Operating Commercial Terrestrial Communication Networks That Cause Harmful Interference With the Global Positioning System**
 
-Pub. L. 116–283, div. A, title XVI, § 1662, Jan. 1, 2021, 134 Stat. 4074, provided that: “The Secretary of Defense may not enter into a contract, or extend or renew a contract, with an entity that engages in commercial terrestrial operations using the 1525–1559 megahertz band or the 1626.5–1660.5 megahertz band unless the Secretary has certified to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that such operations do not cause harmful interference to a Global Positioning System device of the Department of Defense.”
+Pub. L. 116–283, div. A, title XVI, § 1662, Jan. 1, 2021, 134 Stat. 4074, provided that: “The Secretary of Defense may not enter into a contract, or extend or renew a contract, with an entity that engages in commercial terrestrial operations using the 1525–1559 megahertz band or the 1626.5–1660.5 megahertz band unless the Secretary has certified to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that such operations do not cause harmful interference to a Global Positioning System device of the Department of Defense.”
 
 **Estimate of Damages From Federal Communications Commission Order 20–48**
 
-Pub. L. 116–283, div. A, title XVI, §1664, Jan. 1, 2021, 134 Stat. 4075, as amended by Pub. L. 117–81, div. A, title XVI, § 1682, Dec. 27, 2021, 135 Stat. 2118, provided:
+Pub. L. 116–283, div. A, title XVI, §1664, Jan. 1, 2021, 134 Stat. 4075, as amended by Pub. L. 117–81, div. A, title XVI, § 1682, Dec. 27, 2021, 135 Stat. 2118, provided:
 
 > **“(a) Limitation, Estimate, and Certification.—** None of the funds authorized to be appropriated by this Act [Pub. L. 116–283, see Tables for classification] or otherwise made available for fiscal year 2021 or any subsequent fiscal year may be obligated or expended by the Secretary of Defense to comply with the Order and Authorization adopted by the Federal Communications Commission on April 19, 2020 (FCC 20–48), until the Secretary—
 
@@ -185,7 +185,7 @@ Pub. L. 116–283, div. A, title XVI, §1664, Jan. 1, 2021, 134 Stat. 4075, as a
 
 **Prototype Program for Multi-Global Navigation Satellite System Receiver Development**
 
-Pub. L. 116–92, div. A, title XVI, § 1607, Dec. 20, 2019, 133 Stat. 1724, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1607, Dec. 20, 2019, 133 Stat. 1724, provided that:
 
 > **“(a) Prototype Multi-GNSS Program.—** The Secretary of the Air Force shall carry out a program to prototype an M-code based, multi-global navigation satellite system receiver that is capable of receiving covered signals to increase the resilience and capability of military position, navigation, and timing equipment against threats to the Global Positioning System and to deter the likelihood of attack on the worldwide Global Positioning System by reducing the benefits of such an attack.
 
@@ -267,7 +267,7 @@ Pub. L. 116–92, div. A, title XVI, § 1607, Dec. 20, 2019, 133 Stat. 1724, p
 
 **Capacity To Receive Allied and Non-Allied Signals**
 
-Pub. L. 115–232, div. A, title XVI, § 1609, Aug. 13, 2018, 132 Stat. 2110, as amended by Pub. L. 116–92, div. A, title XVI, § 1607(f), Dec. 20, 2019, 133 Stat. 1726, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1609, Aug. 13, 2018, 132 Stat. 2110, as amended by Pub. L. 116–92, div. A, title XVI, § 1607(f), Dec. 20, 2019, 133 Stat. 1726, provided that:
 
 > **“(a) Capability for Trusted Signals.—**
 
@@ -295,7 +295,7 @@ Pub. L. 115–232, div. A, title XVI, § 1609, Aug. 13, 2018, 132 Stat. 2110, 
 
 **Designation of Component of Department of Defense Responsible for Coordination of Modernization Efforts Relating to Military-Code Capable GPS Receiver Cards**
 
-Pub. L. 115–232, div. A, title XVI, § 1610, Aug. 13, 2018, 132 Stat. 2111, as amended by Pub. L. 116–92, div. A, title XVI, § 1602, Dec. 20, 2019, 133 Stat. 1722, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1610, Aug. 13, 2018, 132 Stat. 2111, as amended by Pub. L. 116–92, div. A, title XVI, § 1602, Dec. 20, 2019, 133 Stat. 1722, provided that:
 
 > **“(a) Designation.—** Not later than 30 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense, in coordination with the Secretaries of the military departments and the heads of Defense Agencies the Secretary determines appropriate, shall designate a component of the Office of the Secretary of Defense to be responsible for coordinating common solutions for the M-code modernization efforts among the military departments, Defense Agencies, and other appropriate elements of the Department of Defense.
 
@@ -333,7 +333,7 @@ Pub. L. 115–232, div. A, title XVI, § 1610, Aug. 13, 2018, 132 Stat. 2111, 
 
 **Quarterly Reports on Global Positioning System III Space Segment, Global Positioning System Operational Control Segment, and Military Global Positioning System User Equipment Acquisition Programs**
 
-Pub. L. 114–92, div. A, title XVI, § 1621, Nov. 25, 2015, 129 Stat. 1109, as amended by Pub. L. 118–159, div. A, title XVI, § 1606, Dec. 23, 2024, 138 Stat. 2162, provided that:
+Pub. L. 114–92, div. A, title XVI, § 1621, Nov. 25, 2015, 129 Stat. 1109, as amended by Pub. L. 118–159, div. A, title XVI, § 1606, Dec. 23, 2024, 138 Stat. 2162, provided that:
 
 > **“(a) Reports Required.—** Not later than 90 days after the date of the enactment of this Act [Nov. 25, 2015], and every 90 days thereafter, the Secretary of the Air Force shall submit to the Comptroller General of the United States a report and supporting documentation on the Global Positioning System III space segment, the Global Positioning System operational control segment, and the Military Global Positioning System user equipment acquisition programs.
 
@@ -375,15 +375,15 @@ Pub. L. 114–92, div. A, title XVI, § 1621, Nov. 25, 2015, 129 Stat. 1109, a
 
 **Limitation on Construction on United States Territory of Satellite Positioning Ground Monitoring Stations of Foreign Governments**
 
-Pub. L. 113–66, div. A, title XVI, § 1602(b), Dec. 26, 2013, 127 Stat. 943, which limited construction within United States territory of global navigation satellite system ground monitoring stations controlled by foreign governments, was transferred to subsec. (a) of section 2279c (now 2279d) of this title by Pub. L. 115–91, div. A, title XVI, § 1602(b)(1), Dec. 12, 2017, 131 Stat. 1722.
+Pub. L. 113–66, div. A, title XVI, § 1602(b), Dec. 26, 2013, 127 Stat. 943, which limited construction within United States territory of global navigation satellite system ground monitoring stations controlled by foreign governments, was transferred to subsec. (a) of section 2279c (now 2279d) of this title by Pub. L. 115–91, div. A, title XVI, § 1602(b)(1), Dec. 12, 2017, 131 Stat. 1722.
 
 **Use of Funds for Global Positioning System**
 
-Pub. L. 112–10, div. A, title VIII, § 8068, Apr. 15, 2011, 125 Stat. 73, provided that: “Funds available to the Department of Defense for the Global Positioning System during the current fiscal year, and hereafter, may be used to fund civil requirements associated with the satellite and ground control segments of such system’s modernization program.”
+Pub. L. 112–10, div. A, title VIII, § 8068, Apr. 15, 2011, 125 Stat. 73, provided that: “Funds available to the Department of Defense for the Global Positioning System during the current fiscal year, and hereafter, may be used to fund civil requirements associated with the satellite and ground control segments of such system’s modernization program.”
 
 **Limitation on Use of Funds for Purchasing Global Positioning System User Equipment**
 
-Pub. L. 111–383, div. A, title IX, § 913, Jan. 7, 2011, 124 Stat. 4328, as amended by Pub. L. 114–92, div. A, title XVI, § 1605, Nov. 25, 2015, 129 Stat. 1099, provided that:
+Pub. L. 111–383, div. A, title IX, § 913, Jan. 7, 2011, 124 Stat. 4328, as amended by Pub. L. 114–92, div. A, title XVI, § 1605, Nov. 25, 2015, 129 Stat. 1099, provided that:
 
 > **“(a) In General.—** Except as provided in subsections (b) and (c), none of the funds authorized to be appropriated or otherwise made available by this Act or any other Act for the Department of Defense may be obligated or expended to purchase user equipment for the Global Positioning System during fiscal years after fiscal year 2017 unless the equipment is capable of receiving the military code (commonly known as the ‘M code’) from the Global Positioning System.
 
@@ -399,7 +399,7 @@ Pub. L. 111–383, div. A, title IX, § 913, Jan. 7, 2011, 124 Stat. 4328, as 
 
 **Authorization of Interagency Support for Global Positioning System**
 
-Pub. L. 106–405, § 8, Nov. 1, 2000, 114 Stat. 1753, as amended by Pub. L. 109–364, div. A, title IX, § 911, Oct. 17, 2006, 120 Stat. 2354, provided that:
+Pub. L. 106–405, § 8, Nov. 1, 2000, 114 Stat. 1753, as amended by Pub. L. 109–364, div. A, title IX, § 911, Oct. 17, 2006, 120 Stat. 2354, provided that:
 
 > “The use of multi-agency funding and other forms of support is hereby authorized for the functions and activities of the following organizations established pursuant to the United States Space-Based Position, Navigation, and Timing Policy issued December 8, 2004 (and any successor organization, to the extent the successor organization performs the functions of the specified organization):
 
@@ -411,7 +411,7 @@ Pub. L. 106–405, § 8, Nov. 1, 2000, 114 Stat. 1753, as amended by Pub. L. 1
 
 **Enhanced Global Positioning System Program**
 
-Pub. L. 105–261, div. A, title II, § 218, Oct. 17, 1998, 112 Stat. 1951, provided that:
+Pub. L. 105–261, div. A, title II, § 218, Oct. 17, 1998, 112 Stat. 1951, provided that:
 
 > **“(a) Policy on Priority for Development of Enhanced GPS System.—** The development of an enhanced Global Positioning System is an urgent national security priority.
 
@@ -439,7 +439,7 @@ Pub. L. 105–261, div. A, title II, § 218, Oct. 17, 1998, 112 Stat. 1951, pr
 
 **Sustainment and Operation of Global Positioning System**
 
-Pub. L. 105–85, div. A, title X, § 1074(a), (b), Nov. 18, 1997, 111 Stat. 1907, provided that:
+Pub. L. 105–85, div. A, title X, § 1074(a), (b), Nov. 18, 1997, 111 Stat. 1907, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -477,7 +477,7 @@ Pub. L. 105–85, div. A, title X, § 1074(a), (b), Nov. 18, 1997, 111 Stat. 1
 
 **Access to Global Positioning System**
 
-Pub. L. 104–106, div. A, title II, § 279, Feb. 10, 1996, 110 Stat. 243, provided that:
+Pub. L. 104–106, div. A, title II, § 279, Feb. 10, 1996, 110 Stat. 243, provided that:
 
 > **“(a) Conditional Prohibition on Use of Selective Availability Feature.—** Except as provided in subsection (b), after May 1, 1996, the Secretary of Defense may not (through use of the feature known as ‘selective availability’) deny access of non-Department of Defense users to the full capabilities of the Global Positioning System.
 
@@ -489,25 +489,25 @@ Pub. L. 104–106, div. A, title II, § 279, Feb. 10, 1996, 110 Stat. 243, pro
 
 **Limitation on Procurement of Systems Not GPS-Equipped**
 
-Pub. L. 103–160, div. A, title I, § 152(b), Nov. 30, 1993, 107 Stat. 1578, as amended by Pub. L. 105–261, div. A, title II, § 218(e), Oct. 17, 1998, 112 Stat. 1952; Pub. L. 109–163, div. A, title II, § 260(a), Jan. 6, 2006, 119 Stat. 3185, provided that: “After September 30, 2007, funds may not be obligated to modify or procure any Department of Defense aircraft, ship, armored vehicle, or indirect-fire weapon system that is not equipped with a Global Positioning System receiver.”
+Pub. L. 103–160, div. A, title I, § 152(b), Nov. 30, 1993, 107 Stat. 1578, as amended by Pub. L. 105–261, div. A, title II, § 218(e), Oct. 17, 1998, 112 Stat. 1952; Pub. L. 109–163, div. A, title II, § 260(a), Jan. 6, 2006, 119 Stat. 3185, provided that: “After September 30, 2007, funds may not be obligated to modify or procure any Department of Defense aircraft, ship, armored vehicle, or indirect-fire weapon system that is not equipped with a Global Positioning System receiver.”
 
-[Pub. L. 109–163, div. A, title II, § 260(b), Jan. 6, 2006, 119 Stat. 3186, provided that: “The amendment made by subsection (a) [amending section 152(b) of Pub. L. 103–160, set out above] shall be deemed to have taken effect at the close of September 30, 2005, and any obligation or expenditure of funds by the Department of Defense during the period beginning on October 1, 2005, and ending on the date of the enactment of this Act [Jan. 6, 2006] to modify or procure a Department of Defense aircraft, ship, armored vehicle, or indirect-fire weapon system that is not equipped with a Global Positioning System receiver is hereby ratified with respect to the provision of law specified in subsection (a).” ]
+[Pub. L. 109–163, div. A, title II, § 260(b), Jan. 6, 2006, 119 Stat. 3186, provided that: “The amendment made by subsection (a) [amending section 152(b) of Pub. L. 103–160, set out above] shall be deemed to have taken effect at the close of September 30, 2005, and any obligation or expenditure of funds by the Department of Defense during the period beginning on October 1, 2005, and ending on the date of the enactment of this Act [Jan. 6, 2006] to modify or procure a Department of Defense aircraft, ship, armored vehicle, or indirect-fire weapon system that is not equipped with a Global Positioning System receiver is hereby ratified with respect to the provision of law specified in subsection (a).” ]
 
-## [§ 2282. Repealed. Pub. L. 114–328, div. A, title XII, § 1241(d)(5)(A), Dec. 23, 2016, 130 Stat. 2504]
+## [§ 2282. Repealed. Pub. L. 114–328, div. A, title XII, § 1241(d)(5)(A), Dec. 23, 2016, 130 Stat. 2504]
 
-Section, added Pub. L. 113–291, div. A, title XII, § 1205(a)(1), Dec. 19, 2014, 128 Stat. 3533, related to authority to build the capacity of foreign security forces. See section 333 of this title.
+Section, added Pub. L. 113–291, div. A, title XII, § 1205(a)(1), Dec. 19, 2014, 128 Stat. 3533, related to authority to build the capacity of foreign security forces. See section 333 of this title.
 
-A prior section 2282, added Pub. L. 106–398, § 1 [[div. A], title I, § 131(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–28; amended Pub. L. 108–136, div. A, title X, § 1031(a)(14), Nov. 24, 2003, 117 Stat. 1597, related to annual report on the B–2 bomber aircraft, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(13)(A), Dec. 31, 2011, 125 Stat. 1583.
+A prior section 2282, added Pub. L. 106–398, § 1 [[div. A], title I, § 131(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–28; amended Pub. L. 108–136, div. A, title X, § 1031(a)(14), Nov. 24, 2003, 117 Stat. 1597, related to annual report on the B–2 bomber aircraft, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(13)(A), Dec. 31, 2011, 125 Stat. 1583.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 114–328, div. A, title XII, § 1241(d)(5), Dec. 23, 2016, 130 Stat. 2504, provided that the repeal of this section is effective as of the date that is 270 days after Dec. 23, 2016.
+Pub. L. 114–328, div. A, title XII, § 1241(d)(5), Dec. 23, 2016, 130 Stat. 2504, provided that the repeal of this section is effective as of the date that is 270 days after Dec. 23, 2016.
 
-## [§ 2283. Renumbered § 4901]
+## [§ 2283. Renumbered § 4901]
 
-## § 2284. Explosive Ordnance Disposal Defense Program
+## § 2284. Explosive Ordnance Disposal Defense Program
 
 **(a) In General.—** The Secretary of Defense shall carry out a program to be known as the “Explosive Ordnance Disposal Defense Program” (in this section referred to as the “Program”) under which the Secretary shall ensure close and continuous coordination between military departments on matters relating to explosive ordnance disposal support for commanders of geographic and functional combatant commands.
 
@@ -543,7 +543,7 @@ Pub. L. 114–328, div. A, title XII, § 1241(d)(5), Dec. 23, 2016, 130 Stat. 
 
 **(2)** The term “explosive ordnance disposal” means the detection, identification, on-site evaluation, rendering safe, exploitation, recovery, and final disposal of explosive ordnance.
 
-(Added Pub. L. 115–232, div. A, title III, § 311(a), Aug. 13, 2018, 132 Stat. 1708; amended Pub. L. 116–92, div. A, title X, § 1052, title XVII, § 1731(a)(36), Dec. 20, 2019, 133 Stat. 1590, 1814; Pub. L. 116–283, div. A, title III, § 352(a), Jan. 1, 2021, 134 Stat. 3544; Pub. L. 118–159, div. A, title XVI, § 1621(d)(3), Dec. 23, 2024, 138 Stat. 2171; Pub. L. 119–60, div. A, title X, § 1004(a)(1), Dec. 18, 2025, 139 Stat. 1028.)
+(Added Pub. L. 115–232, div. A, title III, § 311(a), Aug. 13, 2018, 132 Stat. 1708; amended Pub. L. 116–92, div. A, title X, § 1052, title XVII, § 1731(a)(36), Dec. 20, 2019, 133 Stat. 1590, 1814; Pub. L. 116–283, div. A, title III, § 352(a), Jan. 1, 2021, 134 Stat. 3544; Pub. L. 118–159, div. A, title XVI, § 1621(d)(3), Dec. 23, 2024, 138 Stat. 2171; Pub. L. 119–60, div. A, title X, § 1004(a)(1), Dec. 18, 2025, 139 Stat. 1028.)
 
 **Editorial Notes**
 
@@ -553,47 +553,47 @@ Pub. L. 114–328, div. A, title XII, § 1241(d)(5), Dec. 23, 2016, 130 Stat. 
 
 2024—Subsec. (b)(3)(E). Pub. L. 118–159, which directed substitution of “Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs” for “Nuclear, Chemical, and Biological Defense Programs”, was executed by making the substitution for “Nuclear, Chemical, and Biological Defense programs”, to reflect the probable intent of Congress.
 
-2021—Subsec. (b)(1)(A). Pub. L. 116–283, § 352(a)(1), inserted “and” before “integration” and substituted “the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict” for “an Assistant Secretary of Defense”.
+2021—Subsec. (b)(1)(A). Pub. L. 116–283, § 352(a)(1), inserted “and” before “integration” and substituted “the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict” for “an Assistant Secretary of Defense”.
 
-Subsec. (b)(2). Pub. L. 116–283, § 352(a)(2), substituted “for Special Operations and Low Intensity Conflict” for “to whom responsibility is assigned under paragraph (1)(A)”.
+Subsec. (b)(2). Pub. L. 116–283, § 352(a)(2), substituted “for Special Operations and Low Intensity Conflict” for “to whom responsibility is assigned under paragraph (1)(A)”.
 
-Subsec. (b)(3) to (5). Pub. L. 116–283, § 352(a)(3), (4), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+Subsec. (b)(3) to (5). Pub. L. 116–283, § 352(a)(3), (4), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-2019—Pub. L. 116–92, § 1731(a)(36), substituted section symbol for “SEC.” before section designation.
+2019—Pub. L. 116–92, § 1731(a)(36), substituted section symbol for “SEC.” before section designation.
 
-Subsec. (b)(1)(A). Pub. L. 116–92, § 1052(a)(2)(A), inserted “and” at end.
+Subsec. (b)(1)(A). Pub. L. 116–92, § 1052(a)(2)(A), inserted “and” at end.
 
-Subsec. (b)(1)(B). Pub. L. 116–92, § 1052(a)(2)(D)(iii)–(v), substituted “evaluation activities for common tools on behalf of the military departments” for “evaluation and procurement activities on behalf of the military departments and combatant commands”.
+Subsec. (b)(1)(B). Pub. L. 116–92, § 1052(a)(2)(D)(iii)–(v), substituted “evaluation activities for common tools on behalf of the military departments” for “evaluation and procurement activities on behalf of the military departments and combatant commands”.
 
-Pub. L. 116–92, § 1052(a)(2)(D)(ii), which directed insertion of “, provides common individual training,” after “explosive ordnance disposal”, was executed by making the insertion after “explosive ordnance disposal” the first place appearing to reflect the probable intent of Congress.
+Pub. L. 116–92, § 1052(a)(2)(D)(ii), which directed insertion of “, provides common individual training,” after “explosive ordnance disposal”, was executed by making the insertion after “explosive ordnance disposal” the first place appearing to reflect the probable intent of Congress.
 
-Pub. L. 116–92, § 1052(a)(2)(D)(i), substituted “training and technology program that” for “joint program executive officer who”.
+Pub. L. 116–92, § 1052(a)(2)(D)(i), substituted “training and technology program that” for “joint program executive officer who”.
 
-Pub. L. 116–92, § 1052(a)(2)(C), redesignated subpar. (C) as (B). Former subpar. (B) redesignated par. (2).
+Pub. L. 116–92, § 1052(a)(2)(C), redesignated subpar. (C) as (B). Former subpar. (B) redesignated par. (2).
 
-Pub. L. 116–92, § 1052(a)(2)(B), redesignated subpar. (B) as par. (2).
+Pub. L. 116–92, § 1052(a)(2)(B), redesignated subpar. (B) as par. (2).
 
-Subsec. (b)(1)(C) to (E). Pub. L. 116–92, § 1052(a)(2)(C), (E), redesignated subpar. (C) as (B) and struck out subpars. (D) and (E) which read as follows:
+Subsec. (b)(1)(C) to (E). Pub. L. 116–92, § 1052(a)(2)(C), (E), redesignated subpar. (C) as (B) and struck out subpars. (D) and (E) which read as follows:
 
 “(D) designate a combat support agency to exercise fund management responsibility of the Department of Defense-wide program element for explosive ordnance disposal research, development, test, and evaluation, transactions other than contracts, cooperative agreements, and grants related to section 2371 of this title during research projects including rapid prototyping and limited procurement urgent activities, and acquisition; and
 
 “(E) designate an Army explosive ordnance disposal-qualified general officer from the combat support agency designated under subparagraph (D) to serve as the Chairman of the Department of Defense explosive ordnance disposal defense program board; and”.
 
-Subsec. (b)(2). Pub. L. 116–92, § 1052(a)(3), inserted “(A)” after “paragraph (1)”.
+Subsec. (b)(2). Pub. L. 116–92, § 1052(a)(3), inserted “(A)” after “paragraph (1)”.
 
-Pub. L. 116–92, § 1052(a)(2)(B), redesignated subpar. (B) of par. (1) as par. (2). Former par. (2) redesignated (3).
+Pub. L. 116–92, § 1052(a)(2)(B), redesignated subpar. (B) of par. (1) as par. (2). Former par. (2) redesignated (3).
 
-Pub. L. 116–92, § 1052(a)(1), redesignated par. (2) as (3).
+Pub. L. 116–92, § 1052(a)(1), redesignated par. (2) as (3).
 
-Subsec. (b)(3). Pub. L. 116–92, § 1052(a)(4), substituted “; and” for “such as weapon systems, manned and unmanned vehicles and platforms, cyber and communication equipment, and the integration of explosive ordnance disposal sets, kits and outfits and explosive ordnance disposal tools, equipment, sets, kits, and outfits developed by the department.”
+Subsec. (b)(3). Pub. L. 116–92, § 1052(a)(4), substituted “; and” for “such as weapon systems, manned and unmanned vehicles and platforms, cyber and communication equipment, and the integration of explosive ordnance disposal sets, kits and outfits and explosive ordnance disposal tools, equipment, sets, kits, and outfits developed by the department.”
 
-Pub. L. 116–92, § 1052(a)(1), redesignated par. (2) as (3).
+Pub. L. 116–92, § 1052(a)(1), redesignated par. (2) as (3).
 
-Subsec. (b)(4). Pub. L. 116–92, § 1052(a)(5), added par. (4).
+Subsec. (b)(4). Pub. L. 116–92, § 1052(a)(5), added par. (4).
 
-Subsec. (d). Pub. L. 116–92, § 1052(b), added subsec. (d).
+Subsec. (d). Pub. L. 116–92, § 1052(b), added subsec. (d).
 
-## § 2285. Department of Defense Climate Resilience Infrastructure Initiative
+## § 2285. Department of Defense Climate Resilience Infrastructure Initiative
 
 **(a) Designation.—** The programs, practices, and activities carried out pursuant to this section shall be known collectively as the “Climate Resilience Infrastructure Initiative of the Department of Defense”.
 
@@ -613,7 +613,7 @@ Subsec. (d). Pub. L. 116–92, § 1052(b), added subsec. (d).
 
 **(f) Use of Certain Technologies.—** The Secretary shall take appropriate actions to increase the use of low emission, emission-free, and net-zero-emission energy technologies in the operations, programs, projects, and activities of the Department, provided the use is cost effective over the life-cycle of the investment.
 
-(Added Pub. L. 117–81, div. A, title III, § 332(a), Dec. 27, 2021, 135 Stat. 1637; amended Pub. L. 118–159, div. A, title XVII, § 1701(a)(28), Dec. 23, 2024, 138 Stat. 2204.)
+(Added Pub. L. 117–81, div. A, title III, § 332(a), Dec. 27, 2021, 135 Stat. 1637; amended Pub. L. 118–159, div. A, title XVII, § 1701(a)(28), Dec. 23, 2024, 138 Stat. 2204.)
 
 **Editorial Notes**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 94—ORGANIC CERTIFICATION
 
-## § 6501. Purposes
+## § 6501. Purposes
 
 It is the purpose of this chapter—
 
@@ -25,15 +25,15 @@ It is the purpose of this chapter—
 
 **(3)** to facilitate interstate commerce in fresh and processed food that is organically produced.
 
-(Pub. L. 101–624, title XXI, § 2102, Nov. 28, 1990, 104 Stat. 3935.)
+(Pub. L. 101–624, title XXI, § 2102, Nov. 28, 1990, 104 Stat. 3935.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 101–624, title XXI, § 2101, Nov. 28, 1990, 104 Stat. 3935, provided that: “This title [enacting this chapter] may be cited as the ‘Organic Foods Production Act of 1990’.”
+Pub. L. 101–624, title XXI, § 2101, Nov. 28, 1990, 104 Stat. 3935, provided that: “This title [enacting this chapter] may be cited as the ‘Organic Foods Production Act of 1990’.”
 
-## § 6502. Definitions
+## § 6502. Definitions
 
 As used in this chapter:
 
@@ -151,21 +151,21 @@ The term “State organic certification program” means a program that meets th
 
 The term “synthetic” means a substance that is formulated or manufactured by a chemical process or by a process that chemically changes a substance extracted from naturally occurring plant, animal, or mineral sources, except that such term shall not apply to substances created by naturally occurring biological processes.
 
-(Pub. L. 101–624, title XXI, § 2103, Nov. 28, 1990, 104 Stat. 3935; Pub. L. 115–334, title X, § 10104(b), Dec. 20, 2018, 132 Stat. 4899.)
+(Pub. L. 101–624, title XXI, § 2103, Nov. 28, 1990, 104 Stat. 3935; Pub. L. 115–334, title X, § 10104(b), Dec. 20, 2018, 132 Stat. 4899.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (17), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (17), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
 
 **Amendments**
 
-2018—Par. (3). Pub. L. 115–334, § 10104(b)(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+2018—Par. (3). Pub. L. 115–334, § 10104(b)(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Pars. (13) to (22). Pub. L. 115–334, § 10104(b)(2), (3), added par. (13) and redesignated former pars. (13) to (21) as (14) to (22), respectively.
+Pars. (13) to (22). Pub. L. 115–334, § 10104(b)(2), (3), added par. (13) and redesignated former pars. (13) to (21) as (14) to (22), respectively.
 
-## § 6503. National organic production program
+## § 6503. National organic production program
 
 **(a) In general**
 
@@ -183,15 +183,15 @@ In developing the program under subsection (a), and the National List under sect
 
 The Secretary shall implement the program established under subsection (a) through certifying agents. Such certifying agents may certify a farm or handling operation that meets the requirements of this chapter and the requirements of the organic certification program of the State (if applicable) as an organically certified farm or handling operation.
 
-(Pub. L. 101–624, title XXI, § 2104, Nov. 28, 1990, 104 Stat. 3937.)
+(Pub. L. 101–624, title XXI, § 2104, Nov. 28, 1990, 104 Stat. 3937.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Exclusions From Organic Certification**
 
-Pub. L. 115–334, title X, § 10104(a), Dec. 20, 2018, 132 Stat. 4899, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 20, 2018], the Secretary [of Agriculture] shall issue regulations to limit the type of organic operations that are excluded from certification under section 205.101 of title 7, Code of Federal Regulations, and from certification under any other related sections under part 205 of title 7, Code of Federal Regulations.”
+Pub. L. 115–334, title X, § 10104(a), Dec. 20, 2018, 132 Stat. 4899, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 20, 2018], the Secretary [of Agriculture] shall issue regulations to limit the type of organic operations that are excluded from certification under section 205.101 of title 7, Code of Federal Regulations, and from certification under any other related sections under part 205 of title 7, Code of Federal Regulations.”
 
-## § 6504. National standards for organic production
+## § 6504. National standards for organic production
 
 To be sold or labeled as an organically produced agricultural product under this chapter, an agricultural product shall—
 
@@ -201,15 +201,15 @@ To be sold or labeled as an organically produced agricultural product under this
 
 **(3)** be produced and handled in compliance with an organic plan agreed to by the producer and handler of such product and the certifying agent.
 
-(Pub. L. 101–624, title XXI, § 2105, Nov. 28, 1990, 104 Stat. 3937; Pub. L. 102–237, title X, § 1001(1), Dec. 13, 1991, 105 Stat. 1893.)
+(Pub. L. 101–624, title XXI, § 2105, Nov. 28, 1990, 104 Stat. 3937; Pub. L. 102–237, title X, § 1001(1), Dec. 13, 1991, 105 Stat. 1893.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Par. (2). Pub. L. 102–237 substituted “; and” for period at end.
+1991—Par. (2). Pub. L. 102–237 substituted “; and” for period at end.
 
-## § 6505. Compliance requirements
+## § 6505. Compliance requirements
 
 **(a) Domestic products**
 
@@ -237,9 +237,9 @@ Imported agricultural products may be sold or labeled as organically produced if
 
 Subsection (a)(1) shall not apply to persons who sell no more than $5,000 annually in value of agricultural products.
 
-(Pub. L. 101–624, title XXI, § 2106, Nov. 28, 1990, 104 Stat. 3937.)
+(Pub. L. 101–624, title XXI, § 2106, Nov. 28, 1990, 104 Stat. 3937.)
 
-## § 6506. General requirements
+## § 6506. General requirements
 
 **(a) In general** A program established under this chapter shall—
 
@@ -315,7 +315,7 @@ Fees collected under subsection (a)(10) (including late payment penalties and in
 
 The collected fees shall be available to the Secretary, without further appropriation or fiscal-year limitation, to pay the expenses of the Secretary incurred in providing accreditation services under this chapter.
 
-(Pub. L. 101–624, title XXI, § 2107, Nov. 28, 1990, 104 Stat. 3938; Pub. L. 105–185, title VI, § 601(a), June 23, 1998, 112 Stat. 585; Pub. L. 108–11, title II, § 2105, Apr. 16, 2003, 117 Stat. 589; Pub. L. 113–79, title X, § 10005(b)(2), Feb. 7, 2014, 128 Stat. 944.)
+(Pub. L. 101–624, title XXI, § 2107, Nov. 28, 1990, 104 Stat. 3938; Pub. L. 105–185, title VI, § 601(a), June 23, 1998, 112 Stat. 585; Pub. L. 108–11, title II, § 2105, Apr. 16, 2003, 117 Stat. 589; Pub. L. 113–79, title X, § 10005(b)(2), Feb. 7, 2014, 128 Stat. 944.)
 
 **Editorial Notes**
 
@@ -327,7 +327,7 @@ The collected fees shall be available to the Secretary, without further appropri
 
 1998—Subsec. (d). Pub. L. 105–185 added subsec. (d).
 
-## § 6507. State organic certification program
+## § 6507. State organic certification program
 
 **(a) In general**
 
@@ -363,9 +363,9 @@ The governing State official, prior to implementing any substantive change to pr
 
 The Secretary shall make a determination concerning any plan, proposed change to a program, or a review of a program not later than 6 months after receipt of such plan, such proposed change, or the initiation of such review.
 
-(Pub. L. 101–624, title XXI, § 2108, Nov. 28, 1990, 104 Stat. 3939.)
+(Pub. L. 101–624, title XXI, § 2108, Nov. 28, 1990, 104 Stat. 3939.)
 
-## § 6508. Prohibited crop production practices and materials
+## § 6508. Prohibited crop production practices and materials
 
 **(a) Seed, seedlings and planting practices**
 
@@ -385,9 +385,9 @@ For a farm to be certified under this chapter, producers on such farm shall not 
 
 **(3)** use transplants that are treated with any synthetic or prohibited material.
 
-(Pub. L. 101–624, title XXI, § 2109, Nov. 28, 1990, 104 Stat. 3940.)
+(Pub. L. 101–624, title XXI, § 2109, Nov. 28, 1990, 104 Stat. 3940.)
 
-## § 6509. Animal production practices and materials
+## § 6509. Animal production practices and materials
 
 **(a) In general**
 
@@ -457,7 +457,7 @@ For a farm to be certified under this chapter as an organic farm with respect to
 
 The Secretary shall hold public hearings and shall develop detailed regulations, with notice and public comment, to guide the implementation of the standards for livestock products provided under this section.
 
-(Pub. L. 101–624, title XXI, § 2110, Nov. 28, 1990, 104 Stat. 3940; Pub. L. 102–237, title X, § 1001(2), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 109–97, title VII, § 797(c), Nov. 10, 2005, 119 Stat. 2165.)
+(Pub. L. 101–624, title XXI, § 2110, Nov. 28, 1990, 104 Stat. 3940; Pub. L. 102–237, title X, § 1001(2), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 109–97, title VII, § 797(c), Nov. 10, 2005, 119 Stat. 2165.)
 
 **Editorial Notes**
 
@@ -465,17 +465,17 @@ The Secretary shall hold public hearings and shall develop detailed regulations,
 
 2005—Subsec. (e)(2). Pub. L. 109–97 designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), a dairy” for “A dairy”, and added subpar. (B).
 
-1991—Subsec. (d)(1)(B). Pub. L. 102–237, § 1001(2)(A), substituted “parasiticides” for “paraciticides”.
+1991—Subsec. (d)(1)(B). Pub. L. 102–237, § 1001(2)(A), substituted “parasiticides” for “paraciticides”.
 
-Subsecs. (g), (h). Pub. L. 102–237, § 1001(2)(B), redesignated subsec. (h) as (g).
+Subsecs. (g), (h). Pub. L. 102–237, § 1001(2)(B), redesignated subsec. (h) as (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 116–94, div. B, title VII, § 756, Dec. 20, 2019, 133 Stat. 2654, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Agriculture shall issue a final rule based on the proposed rule entitled ‘National Organic Program; Origin of Livestock,’ published in the *Federal Register* on April 28, 2015 (80 Fed. Reg. 23455): *Provided*, That the final rule shall incorporate public comments submitted in response to the proposed rule.”
+Pub. L. 116–94, div. B, title VII, § 756, Dec. 20, 2019, 133 Stat. 2654, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Agriculture shall issue a final rule based on the proposed rule entitled ‘National Organic Program; Origin of Livestock,’ published in the *Federal Register* on April 28, 2015 (80 Fed. Reg. 23455): *Provided*, That the final rule shall incorporate public comments submitted in response to the proposed rule.”
 
-## § 6510. Handling
+## § 6510. Handling
 
 **(a) In general** For a handling operation to be certified under this chapter, each person on such handling operation shall not, with respect to any agricultural product covered by this chapter—
 
@@ -497,13 +497,13 @@ Pub. L. 116–94, div. B, title VII, § 756, Dec. 20, 2019, 133 Stat. 2654, pr
 
 For a farm or handling operation to be organically certified under this chapter, producers on such farm or persons on such handling operation shall ensure that organically produced meat does not come in contact with nonorganically produced meat.
 
-(Pub. L. 101–624, title XXI, § 2111, Nov. 28, 1990, 104 Stat. 3941; Pub. L. 102–237, title X, § 1001(3), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 106–387, § 1(a) [title VII, § 748], Oct. 28, 2000, 114 Stat. 1549, 1549A–41; Pub. L. 109–97, title VII, § 797(a), Nov. 10, 2005, 119 Stat. 2165.)
+(Pub. L. 101–624, title XXI, § 2111, Nov. 28, 1990, 104 Stat. 3941; Pub. L. 102–237, title X, § 1001(3), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 106–387, § 1(a) [title VII, § 748], Oct. 28, 2000, 114 Stat. 1549, 1549A–41; Pub. L. 109–97, title VII, § 797(a), Nov. 10, 2005, 119 Stat. 2165.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Safe Drinking Water Act, referred to in subsec. (a)(7), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Safe Drinking Water Act, referred to in subsec. (a)(7), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 **Amendments**
 
@@ -513,7 +513,7 @@ The Safe Drinking Water Act, referred to in subsec. (a)(7), is title XIV of act 
 
 1991—Subsec. (a)(1). Pub. L. 102–237 substituted “postharvest” for “post harvest”.
 
-## § 6511. Additional guidelines
+## § 6511. Additional guidelines
 
 **(a) In general**
 
@@ -537,7 +537,7 @@ If the Secretary, the applicable governing State official, or the certifying age
 
 such agricultural product shall not be sold or labeled as organically produced under this chapter.
 
-(Pub. L. 101–624, title XXI, § 2112, Nov. 28, 1990, 104 Stat. 3942; Pub. L. 102–237, title X, § 1001(4), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 113–79, title X, § 10005(a), Feb. 7, 2014, 128 Stat. 944.)
+(Pub. L. 101–624, title XXI, § 2112, Nov. 28, 1990, 104 Stat. 3942; Pub. L. 102–237, title X, § 1001(4), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 113–79, title X, § 10005(a), Feb. 7, 2014, 128 Stat. 944.)
 
 **Editorial Notes**
 
@@ -547,13 +547,13 @@ such agricultural product shall not be sold or labeled as organically produced u
 
 1991—Subsec. (b). Pub. L. 102–237 substituted “Preharvest” for “Pre-harvest” in heading.
 
-## § 6512. Other production and handling practices
+## § 6512. Other production and handling practices
 
 If a production or handling practice is not prohibited or otherwise restricted under this chapter, such practice shall be permitted unless it is determined that such practice would be inconsistent with the applicable organic certification program.
 
-(Pub. L. 101–624, title XXI, § 2113, Nov. 28, 1990, 104 Stat. 3943.)
+(Pub. L. 101–624, title XXI, § 2113, Nov. 28, 1990, 104 Stat. 3943.)
 
-## § 6513. Organic plan
+## § 6513. Organic plan
 
 **(a) In general**
 
@@ -611,9 +611,9 @@ An organic handling plan shall contain provisions designed to ensure that agricu
 
 An organic plan shall not include any production or handling practices that are inconsistent with this chapter.
 
-(Pub. L. 101–624, title XXI, § 2114, Nov. 28, 1990, 104 Stat. 3943.)
+(Pub. L. 101–624, title XXI, § 2114, Nov. 28, 1990, 104 Stat. 3943.)
 
-## § 6514. Accreditation program
+## § 6514. Accreditation program
 
 **(a) In general**
 
@@ -655,7 +655,7 @@ In establishing the system under subparagraph (A), the Secretary may integrate t
 
 **(3)** may be renewed.
 
-(Pub. L. 101–624, title XXI, § 2115, Nov. 28, 1990, 104 Stat. 3944; Pub. L. 115–334, title X, § 10104(c), Dec. 20, 2018, 132 Stat. 4900.)
+(Pub. L. 101–624, title XXI, § 2115, Nov. 28, 1990, 104 Stat. 3944; Pub. L. 115–334, title X, § 10104(c), Dec. 20, 2018, 132 Stat. 4900.)
 
 **Editorial Notes**
 
@@ -663,7 +663,7 @@ In establishing the system under subparagraph (A), the Secretary may integrate t
 
 2018—Subsecs. (c) to (e). Pub. L. 115–334 added subsecs. (c) to (e) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “An accreditation made under this section shall be for a period of not to exceed 5 years, as determined appropriate by the Secretary, and may be renewed.”
 
-## § 6515. Requirements of certifying agents
+## § 6515. Requirements of certifying agents
 
 **(a) Ability to implement requirements**
 
@@ -731,23 +731,23 @@ If the accreditation of a certifying agent is suspended under paragraph (1), the
 
 Not later than 90 days after the date on which a new certifying office performing certification activities opens, an accredited certifying agent shall notify the Secretary of the opening.
 
-(Pub. L. 101–624, title XXI, § 2116, Nov. 28, 1990, 104 Stat. 3944; Pub. L. 102–237, title X, § 1001(5), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 113–79, title X, § 10005(b)(1), Feb. 7, 2014, 128 Stat. 944; Pub. L. 115–334, title X, § 10104(d), Dec. 20, 2018, 132 Stat. 4900.)
+(Pub. L. 101–624, title XXI, § 2116, Nov. 28, 1990, 104 Stat. 3944; Pub. L. 102–237, title X, § 1001(5), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 113–79, title X, § 10005(b)(1), Feb. 7, 2014, 128 Stat. 944; Pub. L. 115–334, title X, § 10104(d), Dec. 20, 2018, 132 Stat. 4900.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (i)(1). Pub. L. 115–334, § 10104(d)(1)(A), inserted “or an entity acting as an agent of the certifying agent” after “a certifying agent”.
+2018—Subsec. (i)(1). Pub. L. 115–334, § 10104(d)(1)(A), inserted “or an entity acting as an agent of the certifying agent” after “a certifying agent”.
 
-Subsec. (i)(2), (3). Pub. L. 115–334, § 10104(d)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (i)(2), (3). Pub. L. 115–334, § 10104(d)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (j). Pub. L. 115–334, § 10104(d)(2), added subsec. (j).
+Subsec. (j). Pub. L. 115–334, § 10104(d)(2), added subsec. (j).
 
 2014—Subsecs. (c) to (j). Pub. L. 113–79 redesignated subsecs. (d) to (j) as (c) to (i), respectively, substituted “subsection (c)” for “subsection (d)” in introductory provisions of subsec. (d), and struck out former subsec. (c) which related to maintenance of, access to, and transference of records of certifying agents.
 
 1991—Subsec. (j)(2). Pub. L. 102–237 substituted “such certifying” for “certifying such”.
 
-## § 6516. Peer review of certifying agents
+## § 6516. Peer review of certifying agents
 
 **(a) Peer review**
 
@@ -757,9 +757,9 @@ In determining whether to approve an application for accreditation submitted und
 
 To assist the Secretary in evaluating applications under section 6514 of this title, the Secretary may establish a panel of not less than three persons who have expertise in organic farming and handling methods, to evaluate the State governing official or private person that is seeking accreditation as a certifying agent under such section. Not less than two members of such panel shall be persons who are not employees of the Department of Agriculture or of the applicable State government.
 
-(Pub. L. 101–624, title XXI, § 2117, Nov. 28, 1990, 104 Stat. 3945.)
+(Pub. L. 101–624, title XXI, § 2117, Nov. 28, 1990, 104 Stat. 3945.)
 
-## § 6517. National List
+## § 6517. National List
 
 **(a) In general**
 
@@ -829,21 +829,21 @@ The Secretary may develop emergency procedures for designating agricultural prod
 
 No exemption or prohibition contained in the National List shall be valid unless the National Organic Standards Board has reviewed such exemption or prohibition as provided in this section within 5 years of such exemption or prohibition being adopted or reviewed and the Secretary has renewed such exemption or prohibition.
 
-(Pub. L. 101–624, title XXI, § 2118, Nov. 28, 1990, 104 Stat. 3946; Pub. L. 102–237, title X, § 1001(6), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 109–97, title VII, § 797(b), Nov. 10, 2005, 119 Stat. 2165.)
+(Pub. L. 101–624, title XXI, § 2118, Nov. 28, 1990, 104 Stat. 3946; Pub. L. 102–237, title X, § 1001(6), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 109–97, title VII, § 797(b), Nov. 10, 2005, 119 Stat. 2165.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2005—Subsec. (c)(1). Pub. L. 109–97, § 797(b)(1)(A), inserted “in organic production and handling operations” after “substances” in heading.
+2005—Subsec. (c)(1). Pub. L. 109–97, § 797(b)(1)(A), inserted “in organic production and handling operations” after “substances” in heading.
 
-Subsec. (c)(1)(B)(iii). Pub. L. 109–97, § 797(b)(1)(B), (C), struck out cl. (iii) which read as follows: “is used in handling and is non-synthetic but is not organically produced; and”.
+Subsec. (c)(1)(B)(iii). Pub. L. 109–97, § 797(b)(1)(B), (C), struck out cl. (iii) which read as follows: “is used in handling and is non-synthetic but is not organically produced; and”.
 
-Subsec. (d)(6). Pub. L. 109–97, § 797(b)(2), added par. (6).
+Subsec. (d)(6). Pub. L. 109–97, § 797(b)(2), added par. (6).
 
 1991—Subsec. (c)(1)(B)(i). Pub. L. 102–237 substituted “parasiticides” for “paraciticides”.
 
-## § 6518. National Organic Standards Board
+## § 6518. National Organic Standards Board
 
 **(a) In general**
 
@@ -961,7 +961,7 @@ The Board shall establish procedures under which persons may petition the Board 
 
 Any confidential business information obtained by the Board in carrying out this section shall not be released to the public.
 
-(Pub. L. 101–624, title XXI, § 2119, Nov. 28, 1990, 104 Stat. 3947; Pub. L. 102–237, title X, § 1001(7), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 115–334, title X, § 10104(e), (f), Dec. 20, 2018, 132 Stat. 4901; Pub. L. 117–286, § 4(a)(39), Dec. 27, 2022, 136 Stat. 4309.)
+(Pub. L. 101–624, title XXI, § 2119, Nov. 28, 1990, 104 Stat. 3947; Pub. L. 102–237, title X, § 1001(7), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 115–334, title X, § 10104(e), (f), Dec. 20, 2018, 132 Stat. 4901; Pub. L. 117–286, § 4(a)(39), Dec. 27, 2022, 136 Stat. 4309.)
 
 **Editorial Notes**
 
@@ -969,17 +969,17 @@ Any confidential business information obtained by the Board in carrying out this
 
 2022—Subsec. (a). Pub. L. 117–286 substituted “(hereafter referred to in this section as the ‘Board’) in accordance with chapter 10 of title 5” for “(in accordance with the Federal Advisory Committee Act) (hereafter referred to in this section as the ‘Board’)”.
 
-2018—Subsec. (b)(1). Pub. L. 115–334, § 10104(e)(1), inserted “, or employees of such individuals” after “operation”.
+2018—Subsec. (b)(1). Pub. L. 115–334, § 10104(e)(1), inserted “, or employees of such individuals” after “operation”.
 
-Subsec. (b)(2). Pub. L. 115–334, § 10104(e)(2), inserted “, or employees of such individuals” after “operation”.
+Subsec. (b)(2). Pub. L. 115–334, § 10104(e)(2), inserted “, or employees of such individuals” after “operation”.
 
-Subsec. (b)(3). Pub. L. 115–334, § 10104(e)(3), inserted “, or an employee of such individual” after “products”.
+Subsec. (b)(3). Pub. L. 115–334, § 10104(e)(3), inserted “, or an employee of such individual” after “products”.
 
-Subsec. (i). Pub. L. 115–334, § 10104(f), designated existing provisions as par. (1), inserted heading, substituted “⅔” for “Two-thirds”, and added par. (2).
+Subsec. (i). Pub. L. 115–334, § 10104(f), designated existing provisions as par. (1), inserted heading, substituted “⅔” for “Two-thirds”, and added par. (2).
 
 1991—Subsec. (a). Pub. L. 102–237 substituted “to assist” for “(to assist”.
 
-## § 6519. Recordkeeping, investigations, and enforcement
+## § 6519. Recordkeeping, investigations, and enforcement
 
 **(a) Recordkeeping**
 
@@ -1097,21 +1097,21 @@ A certifying agent shall immediately report any violation of this chapter to the
 
 **(C)** the authority of the Administrator of the Environmental Protection Agency under the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.).
 
-(Pub. L. 101–624, title XXI, § 2120, Nov. 28, 1990, 104 Stat. 3949; Pub. L. 102–237, title X, § 1001(8), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 113–79, title X, § 10005(c), Feb. 7, 2014, 128 Stat. 944; Pub. L. 115–334, title X, § 10104(g), Dec. 20, 2018, 132 Stat. 4901.)
+(Pub. L. 101–624, title XXI, § 2120, Nov. 28, 1990, 104 Stat. 3949; Pub. L. 102–237, title X, § 1001(8), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 113–79, title X, § 10005(c), Feb. 7, 2014, 128 Stat. 944; Pub. L. 115–334, title X, § 10104(g), Dec. 20, 2018, 132 Stat. 4901.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Meat Inspection Act, referred to in subsec. (c)(6)(A)(i), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, § 11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
+The Federal Meat Inspection Act, referred to in subsec. (c)(6)(A)(i), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, § 11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
 
-The Poultry Products Inspection Act, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§ 451 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
+The Poultry Products Inspection Act, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§ 451 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
 
-The Egg Products Inspection Act, referred to in subsec. (c)(6)(A)(iii), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to chapter 15 (§ 1031 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of Title 21 and Tables.
+The Egg Products Inspection Act, referred to in subsec. (c)(6)(A)(iii), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to chapter 15 (§ 1031 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of Title 21 and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(6)(B), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(6)(B), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (c)(6)(C), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (c)(6)(C), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
 
 **Amendments**
 
@@ -1121,7 +1121,7 @@ The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. 
 
 1991—Subsec. (f). Pub. L. 102–237 inserted comma after “601 et seq.)”.
 
-## § 6520. Administrative appeal
+## § 6520. Administrative appeal
 
 **(a) Expedited appeals procedure** The Secretary shall establish an expedited administrative appeals procedure under which persons may appeal an action of the Secretary, the applicable governing State official, or a certifying agent under this chapter that—
 
@@ -1133,7 +1133,7 @@ The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. 
 
 A final decision of the Secretary under subsection (a) may be appealed to the United States district court for the district in which such person is located.
 
-(Pub. L. 101–624, title XXI, § 2121, Nov. 28, 1990, 104 Stat. 3950; Pub. L. 102–237, title X, § 1001(9), Dec. 13, 1991, 105 Stat. 1894.)
+(Pub. L. 101–624, title XXI, § 2121, Nov. 28, 1990, 104 Stat. 3950; Pub. L. 102–237, title X, § 1001(9), Dec. 13, 1991, 105 Stat. 1894.)
 
 **Editorial Notes**
 
@@ -1141,7 +1141,7 @@ A final decision of the Secretary under subsection (a) may be appealed to the Un
 
 1991—Subsec. (b). Pub. L. 102–237 substituted “district court for the district” for “District Court for the District”.
 
-## § 6521. Administration
+## § 6521. Administration
 
 **(a) Regulations**
 
@@ -1175,7 +1175,7 @@ The data described in paragraph (1) shall be broken down by agricultural product
 
 Any data determined by the Secretary to be confidential business information shall not be provided in the report under paragraph (1).
 
-(Pub. L. 101–624, title XXI, § 2122, Nov. 28, 1990, 104 Stat. 3951; Pub. L. 110–234, title VII, § 7511(c)(24), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(24), June 18, 2008, 122 Stat. 1664, 2031; Pub. L. 115–334, title X, § 10104(h), Dec. 20, 2018, 132 Stat. 4901.)
+(Pub. L. 101–624, title XXI, § 2122, Nov. 28, 1990, 104 Stat. 3951; Pub. L. 110–234, title VII, § 7511(c)(24), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(24), June 18, 2008, 122 Stat. 1664, 2031; Pub. L. 115–334, title X, § 10104(h), Dec. 20, 2018, 132 Stat. 4901.)
 
 **Editorial Notes**
 
@@ -1187,7 +1187,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsecs. (c), (d). Pub. L. 115–334 added subsecs. (c) and (d).
 
-2008—Subsec. (b)(1). Pub. L. 110–246, § 7511(c)(24), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+2008—Subsec. (b)(1). Pub. L. 110–246, § 7511(c)(24), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1197,7 +1197,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 7511(c)(24) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 
-## § 6521a. Organic agricultural product imports interagency working group
+## § 6521a. Organic agricultural product imports interagency working group
 
 **(a) Establishment**
 
@@ -1283,15 +1283,15 @@ An employee or official designated to carry out the duties of the Secretary or t
 
 **(ii)** a descriptive summary of compliance actions taken by certifying agents in each country.
 
-(Pub. L. 101–624, title XXI, § 2122A, as added Pub. L. 115–334, title X, § 10104(i), Dec. 20, 2018, 132 Stat. 4902.)
+(Pub. L. 101–624, title XXI, § 2122A, as added Pub. L. 115–334, title X, § 10104(i), Dec. 20, 2018, 132 Stat. 4902.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Trade Savings Provision**
 
-Pub. L. 115–334, title X, § 10104(k), Dec. 20, 2018, 132 Stat. 4905, provided that: “The amendments made by subsection (i) [enacting this section] shall be carried out in a manner consistent with United States obligations under international agreements.”
+Pub. L. 115–334, title X, § 10104(k), Dec. 20, 2018, 132 Stat. 4905, provided that: “The amendments made by subsection (i) [enacting this section] shall be carried out in a manner consistent with United States obligations under international agreements.”
 
-## § 6522. Funding
+## § 6522. Funding
 
 **(a) In general**
 
@@ -1339,7 +1339,7 @@ In carrying out paragraph (1), the Secretary shall modernize trade and transacti
 
 The amounts made available under paragraph (4) are in addition to any other funds made available for the purposes described in that paragraph and shall remain available until expended.
 
-(Pub. L. 101–624, title XXI, § 2123, Nov. 28, 1990, 104 Stat. 3951; Pub. L. 110–234, title X, § 10303, May 22, 2008, 122 Stat. 1347; Pub. L. 110–246, § 4(a), title X, § 10303, June 18, 2008, 122 Stat. 1664, 2109; Pub. L. 113–79, title X, § 10004(b), Feb. 7, 2014, 128 Stat. 942; Pub. L. 115–334, title X, § 10104(j), Dec. 20, 2018, 132 Stat. 4904; Pub. L. 118–22, div. B, title I, § 102(d)(7)(B), Nov. 17, 2023, 137 Stat. 118; Pub. L. 119–21, title I, § 10606(d), July 4, 2025, 139 Stat. 110.)
+(Pub. L. 101–624, title XXI, § 2123, Nov. 28, 1990, 104 Stat. 3951; Pub. L. 110–234, title X, § 10303, May 22, 2008, 122 Stat. 1347; Pub. L. 110–246, § 4(a), title X, § 10303, June 18, 2008, 122 Stat. 1664, 2109; Pub. L. 113–79, title X, § 10004(b), Feb. 7, 2014, 128 Stat. 942; Pub. L. 115–334, title X, § 10104(j), Dec. 20, 2018, 132 Stat. 4904; Pub. L. 118–22, div. B, title I, § 102(d)(7)(B), Nov. 17, 2023, 137 Stat. 118; Pub. L. 119–21, title I, § 10606(d), July 4, 2025, 139 Stat. 110.)
 
 **Editorial Notes**
 
@@ -1349,21 +1349,21 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2025—Subsec. (c)(4). Pub. L. 119–21 substituted “, $1,000,000 for fiscal years 2024 and 2025, and $5,000,000 for fiscal year 2026” for “and $1,000,000 for fiscal year 2024” in introductory provisions.
+2025—Subsec. (c)(4). Pub. L. 119–21 substituted “, $1,000,000 for fiscal years 2024 and 2025, and $5,000,000 for fiscal year 2026” for “and $1,000,000 for fiscal year 2024” in introductory provisions.
 
 2023—Subsec. (c)(4). Pub. L. 118–22 inserted “and $1,000,000 for fiscal year 2024” after “2019” in introductory provisions.
 
-2018—Pub. L. 115–334, § 10104(j)(1), substituted “Funding” for “Authorization of appropriations” in section catchline.
+2018—Pub. L. 115–334, § 10104(j)(1), substituted “Funding” for “Authorization of appropriations” in section catchline.
 
-Subsec. (b). Pub. L. 115–334, § 10104(j)(2), added pars. (1) to (6) and struck out former pars. (1) to (7) which related to amounts authorized to be appropriated for fiscal years 2008 to 2018 and additional sums necessary for fiscal year 2009 and each fiscal year thereafter.
+Subsec. (b). Pub. L. 115–334, § 10104(j)(2), added pars. (1) to (6) and struck out former pars. (1) to (7) which related to amounts authorized to be appropriated for fiscal years 2008 to 2018 and additional sums necessary for fiscal year 2009 and each fiscal year thereafter.
 
-Subsec. (c). Pub. L. 115–334, § 10104(j)(3), added subsec. (c) and struck out former subsec. (c) which related to modernization and technology upgrade for national organic program.
+Subsec. (c). Pub. L. 115–334, § 10104(j)(3), added subsec. (c) and struck out former subsec. (c) which related to modernization and technology upgrade for national organic program.
 
-2014—Subsec. (b)(6), (7). Pub. L. 113–79, § 10004(b)(1), added par. (6) and redesignated former par. (6) as (7).
+2014—Subsec. (b)(6), (7). Pub. L. 113–79, § 10004(b)(1), added par. (6) and redesignated former par. (6) as (7).
 
-Subsec. (c). Pub. L. 113–79, § 10004(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 113–79, § 10004(b)(2), added subsec. (c).
 
-2008—Pub. L. 110–246, § 10303, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+2008—Pub. L. 110–246, § 10303, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1375,7 +1375,7 @@ Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Se
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-## § 6523. National organic certification cost-share program
+## § 6523. National organic certification cost-share program
 
 **(a) In general**
 
@@ -1409,7 +1409,7 @@ Not later than March 1 of each year, the Secretary shall submit to the Committee
 
 Amounts made available under paragraph (1) shall remain available until expended.
 
-(Pub. L. 107–171, title X, § 10606, May 13, 2002, 116 Stat. 514; Pub. L. 110–234, title X, § 10301, May 22, 2008, 122 Stat. 1346; Pub. L. 110–246, § 4(a), title X, § 10301, June 18, 2008, 122 Stat. 1664, 2108; Pub. L. 112–240, title VII, § 701(g)(3), Jan. 2, 2013, 126 Stat. 2366; Pub. L. 113–79, title X, § 10004(c), Feb. 7, 2014, 128 Stat. 942; Pub. L. 115–334, title X, § 10105, Dec. 20, 2018, 132 Stat. 4905; Pub. L. 118–22, div. B, title I, § 102(d)(7)(C), Nov. 17, 2023, 137 Stat. 118; Pub. L. 119–21, title I, § 10606(e), July 4, 2025, 139 Stat. 110.)
+(Pub. L. 107–171, title X, § 10606, May 13, 2002, 116 Stat. 514; Pub. L. 110–234, title X, § 10301, May 22, 2008, 122 Stat. 1346; Pub. L. 110–246, § 4(a), title X, § 10301, June 18, 2008, 122 Stat. 1664, 2108; Pub. L. 112–240, title VII, § 701(g)(3), Jan. 2, 2013, 126 Stat. 2366; Pub. L. 113–79, title X, § 10004(c), Feb. 7, 2014, 128 Stat. 942; Pub. L. 115–334, title X, § 10105, Dec. 20, 2018, 132 Stat. 4905; Pub. L. 118–22, div. B, title I, § 102(d)(7)(C), Nov. 17, 2023, 137 Stat. 118; Pub. L. 119–21, title I, § 10606(e), July 4, 2025, 139 Stat. 110.)
 
 **Editorial Notes**
 
@@ -1429,21 +1429,21 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 2023—Subsec. (d)(1)(C). Pub. L. 118–22 substituted “through 2024” for “and 2023”.
 
-2018—Subsec. (a). Pub. L. 115–334, § 10105(a), struck out “(acting through the Agricultural Marketing Service)” after “Secretary of Agriculture”.
+2018—Subsec. (a). Pub. L. 115–334, § 10105(a), struck out “(acting through the Agricultural Marketing Service)” after “Secretary of Agriculture”.
 
-Subsec. (d). Pub. L. 115–334, § 10105(b), added subsec. (d) and struck out former subsec. (d) which related to funding to carry out this section for fiscal years 2013 to 2018.
+Subsec. (d). Pub. L. 115–334, § 10105(b), added subsec. (d) and struck out former subsec. (d) which related to funding to carry out this section for fiscal years 2013 to 2018.
 
 2014—Subsec. (d)(1). Pub. L. 113–79 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $22,000,000 for the period of fiscal years 2008 through 2012.”
 
-2013—Subsec. (a). Pub. L. 112–240, § 701(g)(3)(A), substituted “The Secretary of Agriculture (acting through the Agricultural Marketing Service) shall” for “Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acting through the Agricultural Marketing Service) shall use $22,000,000 for fiscal year 2008, to remain available until expended, to”.
+2013—Subsec. (a). Pub. L. 112–240, § 701(g)(3)(A), substituted “The Secretary of Agriculture (acting through the Agricultural Marketing Service) shall” for “Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acting through the Agricultural Marketing Service) shall use $22,000,000 for fiscal year 2008, to remain available until expended, to”.
 
-Subsec. (d). Pub. L. 112–240, § 701(g)(3)(B), added subsec. (d).
+Subsec. (d). Pub. L. 112–240, § 701(g)(3)(B), added subsec. (d).
 
-2008—Subsec. (a). Pub. L. 110–246, § 10301(1), substituted “$22,000,000 for fiscal year 2008” for “$5,000,000 for fiscal year 2002”.
+2008—Subsec. (a). Pub. L. 110–246, § 10301(1), substituted “$22,000,000 for fiscal year 2008” for “$5,000,000 for fiscal year 2002”.
 
-Subsec. (b)(2). Pub. L. 110–246, § 10301(2), substituted “$750” for “$500”.
+Subsec. (b)(2). Pub. L. 110–246, § 10301(2), substituted “$750” for “$500”.
 
-Subsec. (c). Pub. L. 110–246, § 10301(3), added subsec. (c).
+Subsec. (c). Pub. L. 110–246, § 10301(3), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1459,11 +1459,11 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-## § 6524. Organically produced food
+## § 6524. Organically produced food
 
 In the case of a food certified under the national organic program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.), the certification shall be considered sufficient to make a claim regarding the absence of bioengineering in the food, such as “not bioengineered”, “non-GMO”, or another similar claim.
 
-(Pub. L. 114–216, § 2, July 29, 2016, 130 Stat. 838.)
+(Pub. L. 114–216, § 2, July 29, 2016, 130 Stat. 838.)
 
 **Editorial Notes**
 

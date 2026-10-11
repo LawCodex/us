@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—POLITICAL, ECONOMIC, AND TECHNOLOGICAL SUPPORT
 
-### § 3401. Congressional findings and declaration of policy
+### § 3401. Congressional findings and declaration of policy
 
 **(a) Policy of support for peace treaty**
 
@@ -35,7 +35,7 @@ It is the policy of the United States to support the peace treaty concluded betw
 
 The authorities contained in this subchapter to implement certain arrangements in support of the peace treaty between Egypt and Israel do not signify approval by the Congress of any other agreement, understanding, or commitment made by the executive branch.
 
-(Pub. L. 96–35, § 2, July 20, 1979, 93 Stat. 89.)
+(Pub. L. 96–35, § 2, July 20, 1979, 93 Stat. 89.)
 
 **Editorial Notes**
 
@@ -47,13 +47,13 @@ This subchapter, referred to in subsec. (c), was in the original “this Act”,
 
 **Short Title**
 
-Pub. L. 96–35, § 1, July 20, 1979, 93 Stat. 89, provided that: “This Act [enacting this subchapter and sections 2349, 2349a, and 2349b of this title] may be cited as the ‘Special International Security Assistance Act of 1979’.”
+Pub. L. 96–35, § 1, July 20, 1979, 93 Stat. 89, provided that: “This Act [enacting this subchapter and sections 2349, 2349a, and 2349b of this title] may be cited as the ‘Special International Security Assistance Act of 1979’.”
 
-Pub. L. 97–132, § 1, Dec. 29, 1981, 95 Stat. 1693, provided that: “This joint resolution [enacting subchapter II of this chapter] may be cited as the ‘Multinational Force and Observers Participation Resolution’.”
+Pub. L. 97–132, § 1, Dec. 29, 1981, 95 Stat. 1693, provided that: “This joint resolution [enacting subchapter II of this chapter] may be cited as the ‘Multinational Force and Observers Participation Resolution’.”
 
 **Peace in the Middle East**
 
-Pub. L. 96–533, title VII, § 711, Dec. 16, 1980, 94 Stat. 3160, provided:
+Pub. L. 96–533, title VII, § 711, Dec. 16, 1980, 94 Stat. 3160, provided:
 
 > **“(a)** It is the sense of the Congress that all parties to the Arab-Israeli conflict need to reaffirm their unequivocal commitment to the peace process in order to achieve further progress toward a comprehensive settlement, to reinforce the principles of the Camp David accords, and to take actions to encourage parties not currently involved in the peace process to become active participants in peace efforts.
 
@@ -61,9 +61,9 @@ Pub. L. 96–533, title VII, § 711, Dec. 16, 1980, 94 Stat. 3160, provided:
 
 **Egyptian-Israeli Cultural, Scientific, and Economic Relations**
 
-Pub. L. 96–60, title IV, § 403, Aug. 15, 1979, 93 Stat. 403, provided that: “It is the sense of the Congress that it should be the policy of the United States to promote and encourage cultural, scientific, and economic relations between the Arab Republic of Egypt and the State of Israel.”
+Pub. L. 96–60, title IV, § 403, Aug. 15, 1979, 93 Stat. 403, provided that: “It is the sense of the Congress that it should be the policy of the United States to promote and encourage cultural, scientific, and economic relations between the Arab Republic of Egypt and the State of Israel.”
 
-### § 3402. Supplemental authorization of foreign military sales loan guaranties for Egypt and Israel
+### § 3402. Supplemental authorization of foreign military sales loan guaranties for Egypt and Israel
 
 **(a) Congressional findings; use of Arms Export Control Act procedures**
 
@@ -85,47 +85,47 @@ Loans guaranteed with funds made available pursuant to subsection (b) of this se
 
 **(1)** The Congress finds that the Governments of Israel and Egypt each have an enormous external debt burden which may be made more difficult by virtue of the financing authorized by this section. The Congress further finds that, as a consequence of the impact of the debt burdens incurred by Israel and Egypt under such financing, it may become necessary in future years to modify the terms of the loans guaranteed with funds made available pursuant to this section.
 
-**(2)** Repealed. Pub. L. 97–113, title VII, § 734(a)(4), Dec. 29, 1981, 95 Stat. 1560.
+**(2)** Repealed. Pub. L. 97–113, title VII, § 734(a)(4), Dec. 29, 1981, 95 Stat. 1560.
 
-(Pub. L. 96–35, § 4, July 20, 1979, 93 Stat. 90; Pub. L. 97–113, title VII, § 734(a)(4), Dec. 29, 1981, 95 Stat. 1560.)
+(Pub. L. 96–35, § 4, July 20, 1979, 93 Stat. 90; Pub. L. 97–113, title VII, § 734(a)(4), Dec. 29, 1981, 95 Stat. 1560.)
 
 **Editorial Notes**
 
 **References in Text**
 
-That Act, referred to in subsec. (b), means the Arms Export Control Act, Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+That Act, referred to in subsec. (b), means the Arms Export Control Act, Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 **Amendments**
 
 1981—Subsec. (e)(2). Pub. L. 97–113 struck out par. (2) which required annual reports respecting economic conditions in Israel and Egypt and their external debt burdens, covered in provisions respecting external debt burdens of Egypt, Israel, and Turkey in section 723 of Pub. L. 97–113, title VII, Dec. 29, 1981, 95 Stat. 1552, not classified to the Code.
 
-### § 3403. Supplemental authorization of economic support for Egypt
+### § 3403. Supplemental authorization of economic support for Egypt
 
 There is authorized to be appropriated to the President to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 [22 U.S.C. 2346 et seq.], $300,000,000 for the fiscal year 1979 for Egypt, in addition to amounts otherwise authorized to be appropriated for such chapter for the fiscal year 1979. The amounts appropriated pursuant to this section may be made available until expended.
 
-(Pub. L. 96–35, § 5, July 20, 1979, 93 Stat. 91.)
+(Pub. L. 96–35, § 5, July 20, 1979, 93 Stat. 91.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-### § 3404. Transfer of facilities of United States Sinai Field Mission to Egypt
+### § 3404. Transfer of facilities of United States Sinai Field Mission to Egypt
 
 The President is authorized to transfer to Egypt, on such terms and conditions as he may determine, such of the facilities and related property of the United States Sinai Field Mission as he may determine, upon the termination of the activities of the Sinai Field Mission in accordance with the terms of the peace treaty between Egypt and Israel.
 
-(Pub. L. 96–35, § 6, July 20, 1979, 93 Stat. 91.)
+(Pub. L. 96–35, § 6, July 20, 1979, 93 Stat. 91.)
 
-### § 3405. Contributions by other countries to support peace in the Middle East
+### § 3405. Contributions by other countries to support peace in the Middle East
 
 **(a) Presidential consultations with other countries**
 
 It is the sense of the Congress that other countries should give favorable consideration to providing support for the implementation of the peace treaty between Egypt and Israel. Therefore, the Congress requests that the President consult with other countries in order to (1) promote and develop an agreement for the establishment of a peace development fund whose purpose would be to underwrite the costs of implementing a Middle East peace, and (2) encourage investments in Israel and Egypt and other countries in the region should they join in Middle East peace agreements.
 
-**(b) Repealed. Pub. L. 97–113, title VII, § 734(a)(4), Dec. 29, 1981, 95 Stat. 1560**
+**(b) Repealed. Pub. L. 97–113, title VII, § 734(a)(4), Dec. 29, 1981, 95 Stat. 1560**
 
-(Pub. L. 96–35, § 7, July 20, 1979, 93 Stat. 92; Pub. L. 97–113, title VII, § 734(a)(4), Dec. 29, 1981, 95 Stat. 1560.)
+(Pub. L. 96–35, § 7, July 20, 1979, 93 Stat. 92; Pub. L. 97–113, title VII, § 734(a)(4), Dec. 29, 1981, 95 Stat. 1560.)
 
 **Editorial Notes**
 
@@ -133,7 +133,7 @@ It is the sense of the Congress that other countries should give favorable consi
 
 1981—Subsec. (b). Pub. L. 97–113 struck out subsec. (b) which required a Presidential report to Congress no later than Jan. 31, 1980, on United States efforts to encourage aid to Egypt and Israel.
 
-### § 3406. Trilateral scientific and technological cooperation by Egypt, Israel, and United States
+### § 3406. Trilateral scientific and technological cooperation by Egypt, Israel, and United States
 
 **(a) Preparation for United States participation**
 
@@ -147,7 +147,7 @@ It is the sense of the Congress that, in order to continue to build the structur
 
 **(3)** the means by which such projects would be implemented.
 
-(Pub. L. 96–35, § 8, July 20, 1979, 93 Stat. 92; Pub. L. 97–113, title VII, § 734(a)(4), Dec. 29, 1981, 95 Stat. 1560.)
+(Pub. L. 96–35, § 8, July 20, 1979, 93 Stat. 92; Pub. L. 97–113, title VII, § 734(a)(4), Dec. 29, 1981, 95 Stat. 1560.)
 
 **Editorial Notes**
 
@@ -155,29 +155,29 @@ It is the sense of the Congress that, in order to continue to build the structur
 
 1981—Subsec. (c). Pub. L. 97–113 struck out subsec. (c) which required Presidential report to Congress no later than twelve months after July 20, 1979, respecting trilateral cooperative projects between Egypt, Israel, and the United States.
 
-### § 3407. Repealed. Pub. L. 97–113, title VII, § 734(a)(4), Dec. 29, 1981, 95 Stat. 1560
+### § 3407. Repealed. Pub. L. 97–113, title VII, § 734(a)(4), Dec. 29, 1981, 95 Stat. 1560
 
-Section, Pub. L. 96–35, § 9, July 20, 1979, 93 Stat. 92, required submission of a Presidential report to Congress ninety days after July 20, 1979, respecting costs of implementation of the peace treaty between Egypt and Israel.
+Section, Pub. L. 96–35, § 9, July 20, 1979, 93 Stat. 92, required submission of a Presidential report to Congress ninety days after July 20, 1979, respecting costs of implementation of the peace treaty between Egypt and Israel.
 
-### § 3408. Non-proliferation of nuclear weapons
+### § 3408. Non-proliferation of nuclear weapons
 
 In accordance with the Nuclear Non-Proliferation Act of 1978 [22 U.S.C. 3201 et seq.], the Congress strongly encourages all countries in the Middle East which are not parties to the Treaty on the Non-Proliferation of Nuclear Weapons to become parties to that Treaty.
 
-(Pub. L. 96–35, § 10, July 20, 1979, 93 Stat. 93.)
+(Pub. L. 96–35, § 10, July 20, 1979, 93 Stat. 93.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Nuclear Non-Proliferation Act of 1978, referred to in text, is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
+The Nuclear Non-Proliferation Act of 1978, referred to in text, is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
 ## SUBCHAPTER II—MULTINATIONAL FORCE AND OBSERVERS PARTICIPATION
 
-### § 3421. Congressional declaration of policy
+### § 3421. Congressional declaration of policy
 
 The Congress considers the establishment of the Multinational Force and Observers to be an essential stage in the development of a comprehensive settlement in the Middle East. The Congress enacts this subchapter with the hope and expectation that establishment of the Multinational Force and Observers will assist Egypt and Israel in fulfilling the Camp David accords and bringing about the establishment of a self-governing authority in order to provide full autonomy in the West Bank and Gaza.
 
-(Pub. L. 97–132, § 2, Dec. 29, 1981, 95 Stat. 1693.)
+(Pub. L. 97–132, § 2, Dec. 29, 1981, 95 Stat. 1693.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -185,7 +185,7 @@ The Congress considers the establishment of the Multinational Force and Observer
 
 For short title of Pub. L. 97–132, which enacted this subchapter, as the Multinational Force and Observers Participation Resolution, see section 1 of Pub. L. 97–132, set out as a note under section 3401 of this title.
 
-### § 3422. Participation of United States personnel in the Multinational Force and Observers
+### § 3422. Participation of United States personnel in the Multinational Force and Observers
 
 **(a) Participation by United States Armed Forces; maximum limit on the number of members**
 
@@ -209,9 +209,9 @@ Subject to the limitations contained in this subchapter, the President is author
 
 The status of United States Government personnel assigned to the Multinational Force and Observers under subsection (a)(1) or (b) of this section shall be as provided in section 2389 of this title.
 
-(Pub. L. 97–132, § 3, Dec. 29, 1981, 95 Stat. 1693.)
+(Pub. L. 97–132, § 3, Dec. 29, 1981, 95 Stat. 1693.)
 
-### § 3423. United States contributions to costs
+### § 3423. United States contributions to costs
 
 **(a) United States share of the costs** In accordance with the agreement set forth in the exchanges of letters between the United States and Egypt and between the United States and Israel which were signed on August 3, 1981, the United States share of the costs of the Multinational Force and Observers—
 
@@ -229,17 +229,17 @@ The status of United States Government personnel assigned to the Multinational F
 
 Unless required by law, reimbursements to the United States by the Multinational Force and Observers shall be on the basis of identifiable costs actually incurred as a result of requirements imposed by the Multinational Force and Observers, and shall not include administrative surcharges.
 
-(Pub. L. 97–132, § 4, Dec. 29, 1981, 95 Stat. 1694.)
+(Pub. L. 97–132, § 4, Dec. 29, 1981, 95 Stat. 1694.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 6 of part II of the Foreign Assistance Act of 1961 is classified to part VI (§ 2348 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 6 of part II of the Foreign Assistance Act of 1961 is classified to part VI (§ 2348 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 138 of the joint resolution entitled “Joint resolution making continuing appropriations for the fiscal year 1982, and for other purposes”, approved October 1, 1981 (Public Law 97–51), referred to in subsec. (b)(2), is section 138 of Pub. L. 97–51, Oct. 1, 1981, 95 Stat. 967, which is not classified to the Code.
 
-### § 3424. Nonreimbursed costs
+### § 3424. Nonreimbursed costs
 
 **(a) Administrative and technical support and services**
 
@@ -259,7 +259,7 @@ The President may provide military training to members of the armed forces of ot
 
 **(2)** Notwithstanding subsections (a) and (b) and section 3426(b) of this title, support by a contractor under this subsection may be provided without reimbursement whenever the President determines that such action enhances or supports the national security interests of the United States.
 
-(Pub. L. 97–132, § 5, Dec. 29, 1981, 95 Stat. 1695; Pub. L. 107–107, div. A, title XII, § 1211, Dec. 28, 2001, 115 Stat. 1248.)
+(Pub. L. 97–132, § 5, Dec. 29, 1981, 95 Stat. 1695; Pub. L. 107–107, div. A, title XII, § 1211, Dec. 28, 2001, 115 Stat. 1248.)
 
 **Editorial Notes**
 
@@ -267,7 +267,7 @@ The President may provide military training to members of the armed forces of ot
 
 2001—Subsec. (d). Pub. L. 107–107 added subsec. (d).
 
-### § 3425. Reports to Congress
+### § 3425. Reports to Congress
 
 **(a) Initial report**
 
@@ -279,9 +279,9 @@ Not later than April 30, 1982, the President shall transmit to the Speaker of th
 
 **(2)** the composition of the Multinational Force and Observers, including a description of the responsibilities and deployment of the military personnel of each participating country;
 
-**(3)** All 1
+**(3)** All 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 costs incurred by the United States Government (including both normal and incremental costs), set forth by category, which are associated with the United States relationship with the Multinational Force and Observers and which were incurred during the preceding fiscal year (whether or not the United States was reimbursed for those costs), specifically including but not limited to—
 
@@ -305,7 +305,7 @@ costs incurred by the United States Government (including both normal and increm
 
 **(3)** The information with respect to any administrative and technical support and services provided on a nonreimbursed basis under section 3424(a) of this title shall include a description of the types of support and services which have been provided and an estimate of both the total costs of such support and services and the incremental costs incurred by the United States with respect to such support and services.
 
-(Pub. L. 97–132, § 6, Dec. 29, 1981, 95 Stat. 1695.)
+(Pub. L. 97–132, § 6, Dec. 29, 1981, 95 Stat. 1695.)
 
 **Executive Documents**
 
@@ -323,7 +323,7 @@ Ronald Reagan.
 
 [For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.]
 
-### § 3426. Statements of Congressional intent
+### § 3426. Statements of Congressional intent
 
 **(a) Disclaimer of Congressional approval of other agreements, understandings, or commitments**
 
@@ -337,15 +337,15 @@ The limitations contained in this subchapter with respect to United States parti
 
 Nothing in this subchapter shall affect the responsibilities of the President or the Congress under the War Powers Resolution (Public Law 93–148) [50 U.S.C. 1541 et seq.].
 
-(Pub. L. 97–132, § 7, Dec. 29, 1981, 95 Stat. 1696.)
+(Pub. L. 97–132, § 7, Dec. 29, 1981, 95 Stat. 1696.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The War Powers Resolution, referred to in subsec. (c), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
+The War Powers Resolution, referred to in subsec. (c), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
-### § 3427. Definitions
+### § 3427. Definitions
 
 As used in this subchapter—
 
@@ -353,4 +353,4 @@ As used in this subchapter—
 
 **(2)** the term “Treaty of Peace” means the Treaty of Peace between the Arab Republic of Egypt and the State of Israel signed on March 26, 1979, including the Annexes thereto.
 
-(Pub. L. 97–132, § 8, Dec. 29, 1981, 95 Stat. 1697.)
+(Pub. L. 97–132, § 8, Dec. 29, 1981, 95 Stat. 1697.)

@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 301 of this title as this chapter and item 3001 as 7001.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 301 of this title as this chapter and item 3001 as 7001.
 
-## § 7001. Definitions
+## § 7001. Definitions
 
 In this title, the term “Army” means the Army or Armies referred to in the Constitution of the United States, less that part established by law as the Air Force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 157, § 3001; Pub. L. 100–26, § 7(k)(8), Apr. 21, 1987, 101 Stat. 284; renumbered § 7001, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 157, § 3001; Pub. L. 100–26, § 7(k)(8), Apr. 21, 1987, 101 Stat. 284; renumbered § 7001, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3001 | 5:181–3(a). 10:1a(a). | June 28, 1950, ch. 383, § 2(a), 64 Stat. 263. |
+| 3001 | 5:181–3(a). 10:1a(a). | June 28, 1950, ch. 383, § 2(a), 64 Stat. 263. |
 
 The words “Army of the United States” and “are synonymous and” are omitted as surplusage, since the term “Army” is used throughout the revised title. 5:181–3(a) (last sentence) and 10:1a(a) (last sentence) are omitted as surplusage.
 
@@ -51,4 +51,4 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Deeming Rule for References to Provisions of Title 10 Redesignated by Pub. L. 115–232**
 
-Pub. L. 115–232, div. A, title VIII, § 809(t), Aug. 13, 2018, 132 Stat. 1844, provided that: “Any reference in a provision of law (other than a provision amended by this section [see Tables for classification]) to a section or chapter redesignated by this part [part II (§§ 806–809) of subtitle A of title VIII of div. A of Pub. L. 115–232, see Tables for classification] shall be deemed to refer to the section or chapter as so redesignated.”
+Pub. L. 115–232, div. A, title VIII, § 809(t), Aug. 13, 2018, 132 Stat. 1844, provided that: “Any reference in a provision of law (other than a provision amended by this section [see Tables for classification]) to a section or chapter redesignated by this part [part II (§§ 806–809) of subtitle A of title VIII of div. A of Pub. L. 115–232, see Tables for classification] shall be deemed to refer to the section or chapter as so redesignated.”

@@ -23,19 +23,19 @@ A prior chapter 13, consisting of sections 311 and 312, was renumbered chapter 1
 
 **Amendments**
 
-2016—Pub. L. 114–328, div. A, title XII, § 1241(a)(1), (*o*)(2), Dec. 23, 2016, 130 Stat. 2497, 2512, renumbered chapter 15 of this title “INSURRECTION” as chapter 13, redesignated item 331 “Federal aid for State governments” as item 251, redesignated item 332 “Use of militia and armed forces to enforce Federal authority” as item 252, redesignated item 333 “Interference with State and Federal law” as item 253, redesignated item 334 “Proclamation to disperse” as item 254, and redesignated item 335 “Guam and Virgin Islands included as ‘State’ ” as item 255.
+2016—Pub. L. 114–328, div. A, title XII, § 1241(a)(1), (*o*)(2), Dec. 23, 2016, 130 Stat. 2497, 2512, renumbered chapter 15 of this title “INSURRECTION” as chapter 13, redesignated item 331 “Federal aid for State governments” as item 251, redesignated item 332 “Use of militia and armed forces to enforce Federal authority” as item 252, redesignated item 333 “Interference with State and Federal law” as item 253, redesignated item 334 “Proclamation to disperse” as item 254, and redesignated item 335 “Guam and Virgin Islands included as ‘State’ ” as item 255.
 
-2008—Pub. L. 110–181, div. A, title X, § 1068(a)(3), (4)(A), Jan. 28, 2008, 122 Stat. 325, substituted “INSURRECTION” for “ENFORCEMENT OF THE LAWS TO RESTORE PUBLIC ORDER” in chapter heading, added item 333, and struck out former item 333 “Major public emergencies; interference with State and Federal law”.
+2008—Pub. L. 110–181, div. A, title X, § 1068(a)(3), (4)(A), Jan. 28, 2008, 122 Stat. 325, substituted “INSURRECTION” for “ENFORCEMENT OF THE LAWS TO RESTORE PUBLIC ORDER” in chapter heading, added item 333, and struck out former item 333 “Major public emergencies; interference with State and Federal law”.
 
-2006—Pub. L. 109–364, div. A, title X, § 1076(a)(3), (4)(B), Oct. 17, 2006, 120 Stat. 2405, substituted “ENFORCEMENT OF THE LAWS TO RESTORE PUBLIC ORDER” for “INSURRECTION” in chapter heading and “Major public emergencies; interference with State and Federal law” for “Interference with State and Federal law” in item 333.
+2006—Pub. L. 109–364, div. A, title X, § 1076(a)(3), (4)(B), Oct. 17, 2006, 120 Stat. 2405, substituted “ENFORCEMENT OF THE LAWS TO RESTORE PUBLIC ORDER” for “INSURRECTION” in chapter heading and “Major public emergencies; interference with State and Federal law” for “Interference with State and Federal law” in item 333.
 
-1980—Pub. L. 96–513, title V, § 511(11)(C), Dec. 12, 1980, 94 Stat. 2921, added item 335.
+1980—Pub. L. 96–513, title V, § 511(11)(C), Dec. 12, 1980, 94 Stat. 2921, added item 335.
 
-## § 251. Federal aid for State governments
+## § 251. Federal aid for State governments
 
 Whenever there is an insurrection in any State against its government, the President may, upon the request of its legislature or of its governor if the legislature cannot be convened, call into Federal service such of the militia of the other States, in the number requested by that State, and use such of the armed forces, as he considers necessary to suppress the insurrection.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 15, § 331; renumbered § 251, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 15, § 331; renumbered § 251, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Historical and Revision Notes**
 
@@ -43,7 +43,7 @@ Whenever there is an insurrection in any State against its government, the Presi
 |---|---|---|
 | 331 | 50:201. | R.S. 5297. |
 
-The words “armed forces” are substituted for the words “land or naval forces of the United States”. The word “governor” is substituted for the word “executive”. The word “may” is substituted for the words “it shall be lawful \* \* \* to”. The words “into Federal service” are substituted for the word “forth” for uniformity and clarity.
+The words “armed forces” are substituted for the words “land or naval forces of the United States”. The word “governor” is substituted for the word “executive”. The word “may” is substituted for the words “it shall be lawful \* \* \* to”. The words “into Federal service” are substituted for the word “forth” for uniformity and clarity.
 
 **Editorial Notes**
 
@@ -55,11 +55,11 @@ Another section 251 was renumbered section 240a of this title.
 
 2016—Pub. L. 114–328 renumbered section 331 of this title as this section.
 
-## § 252. Use of militia and armed forces to enforce Federal authority
+## § 252. Use of militia and armed forces to enforce Federal authority
 
 Whenever the President considers that unlawful obstructions, combinations, or assemblages, or rebellion against the authority of the United States, make it impracticable to enforce the laws of the United States in any State by the ordinary course of judicial proceedings, he may call into Federal service such of the militia of any State, and use such of the armed forces, as he considers necessary to enforce those laws or to suppress the rebellion.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 15, § 332; Pub. L. 109–163, div. A, title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3440; renumbered § 252, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 15, § 332; Pub. L. 109–163, div. A, title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3440; renumbered § 252, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Historical and Revision Notes**
 
@@ -71,7 +71,7 @@ Whenever the President considers that unlawful obstructions, combinations, or as
 
 **Derivation**
 
-Act July 29, 1861, ch. 25, § 1, 12 Stat. 281.
+Act July 29, 1861, ch. 25, § 1, 12 Stat. 281.
 
 **Editorial Notes**
 
@@ -103,7 +103,7 @@ Ex. Ord. No. 11111, June 11, 1963, 28 F.R. 5709, authorized the Secretary of Def
 
 Ex. Ord. No. 11118, Sept. 10, 1963, 28 F.R. 9863, authorized the Secretary of Defense to call into the active military service of the United States units of the Army National Guard and of the Air National Guard of the State of Alabama for an indefinite period and until relieved by appropriate orders in order to enforce the laws of the United States and any orders of United States Courts relating to the enrollment and attendance of students in public schools in the State of Alabama and to suppress unlawful assemblies, conspiracies, and domestic violence which oppose the law or impede the course of justice under the law within that State; authorized the Secretary of Defense to also use the armed forces of the United States for such purposes; and authorized the Secretary of Defense to delegate his authority to the Secretary of the Army or the Secretary of the Air Force.
 
-## § 253. Interference with State and Federal law
+## § 253. Interference with State and Federal law
 
 The President, by using the militia or the armed forces, or both, or by any other means, shall take such measures as he considers necessary to suppress, in a State, any insurrection, domestic violence, unlawful combination, or conspiracy, if it—
 
@@ -113,7 +113,7 @@ The President, by using the militia or the armed forces, or both, or by any othe
 
 In any situation covered by clause (1), the State shall be considered to have denied the equal protection of the laws secured by the Constitution.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 15, § 333; Pub. L. 109–364, div. A, title X, § 1076(a)(1), Oct. 17, 2006, 120 Stat. 2404; Pub. L. 110–181, div. A, title X, § 1068(a)(1), Jan. 28, 2008, 122 Stat. 325; renumbered § 253, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 15, § 333; Pub. L. 109–364, div. A, title X, § 1076(a)(1), Oct. 17, 2006, 120 Stat. 2404; Pub. L. 110–181, div. A, title X, § 1068(a)(1), Jan. 28, 2008, 122 Stat. 325; renumbered § 253, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Historical and Revision Notes**
 
@@ -121,11 +121,11 @@ In any situation covered by clause (1), the State shall be considered to have de
 |---|---|---|
 | 333 | 50:203. | R.S. 5299. |
 
-The words “armed forces” are substituted for the words “land or naval forces of the United States”. The word “shall” is substituted for the words “it shall be lawful for \* \* \* and it shall be his duty”.
+The words “armed forces” are substituted for the words “land or naval forces of the United States”. The word “shall” is substituted for the words “it shall be lawful for \* \* \* and it shall be his duty”.
 
 **Derivation**
 
-Act Apr. 20, 1871, ch. 22, § 3, 17 Stat. 14.
+Act Apr. 20, 1871, ch. 22, § 3, 17 Stat. 14.
 
 **Editorial Notes**
 
@@ -145,13 +145,13 @@ Another section 253 was renumbered section 240c of this title.
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title X, § 1068(d), Jan. 28, 2008, 122 Stat. 326, provided that: “The amendments made by this section [amending this section and sections 334 and 12304 of this title and repealing section 2567 of this title] shall take effect on the date of the enactment of this Act [Jan. 28, 2008].”
+Pub. L. 110–181, div. A, title X, § 1068(d), Jan. 28, 2008, 122 Stat. 326, provided that: “The amendments made by this section [amending this section and sections 334 and 12304 of this title and repealing section 2567 of this title] shall take effect on the date of the enactment of this Act [Jan. 28, 2008].”
 
-## § 254. Proclamation to disperse
+## § 254. Proclamation to disperse
 
 Whenever the President considers it necessary to use the militia or the armed forces under this chapter, he shall, by proclamation, immediately order the insurgents to disperse and retire peaceably to their abodes within a limited time.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 16, § 334; Pub. L. 109–364, div. A, title X, § 1076(a)(2), Oct. 17, 2006, 120 Stat. 2405; Pub. L. 110–181, div. A, title X, § 1068(a)(2), Jan. 28, 2008, 122 Stat. 325; renumbered § 254, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 16, § 334; Pub. L. 109–364, div. A, title X, § 1076(a)(2), Oct. 17, 2006, 120 Stat. 2405; Pub. L. 110–181, div. A, title X, § 1068(a)(2), Jan. 28, 2008, 122 Stat. 325; renumbered § 254, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Historical and Revision Notes**
 
@@ -163,7 +163,7 @@ The words “militia or the armed forces” are substituted for the words “mil
 
 **Derivation**
 
-Act July 29, 1861, ch. 25, § 2, 12 Stat. 282.
+Act July 29, 1861, ch. 25, § 2, 12 Stat. 282.
 
 **Editorial Notes**
 
@@ -217,11 +217,11 @@ Proc. No. 3841, Apr. 9, 1968, 33 F.R. 5497, commanded all persons engaged in vio
 
 Proc. No. 3842, Apr. 9, 1968, 33 F.R. 5499, commanded all persons engaged in acts of violence and obstructing the enforcement of the laws in and about the City of Baltimore to cease and desist therefrom and to disperse forthwith.
 
-## § 255. Guam and Virgin Islands included as “State”
+## § 255. Guam and Virgin Islands included as “State”
 
 For purposes of this chapter, the term “State” includes Guam and the Virgin Islands.
 
-(Added Pub. L. 90–497, § 11, Sept. 11, 1968, 82 Stat. 847, § 335; amended Pub. L. 96–513, title V, § 511(11)(A), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 109–163, div. A, title X, § 1057(a)(8), Jan. 6, 2006, 119 Stat. 3441; renumbered § 255, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 90–497, § 11, Sept. 11, 1968, 82 Stat. 847, § 335; amended Pub. L. 96–513, title V, § 511(11)(A), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 109–163, div. A, title X, § 1057(a)(8), Jan. 6, 2006, 119 Stat. 3441; renumbered § 255, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Editorial Notes**
 
@@ -241,4 +241,4 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Effective Date**
 
-Pub. L. 90–497, § 11, Sept. 11, 1968, 82 Stat. 847, provided that this section is effective on date of enactment of Pub. L. 90–497, which was approved on Sept. 11, 1968.
+Pub. L. 90–497, § 11, Sept. 11, 1968, 82 Stat. 847, provided that this section is effective on date of enactment of Pub. L. 90–497, which was approved on Sept. 11, 1968.

@@ -19,85 +19,85 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title III, § 334(a), title XVI, § 1623(a)(1), Dec. 18, 2025, 139 Stat. 816, 1183, added items 2225 and 2229b. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title III, § 334(a), title XVI, § 1623(a)(1), Dec. 18, 2025, 139 Stat. 816, 1183, added items 2225 and 2229b. Amendments were made pursuant to operation of section 102 of this title.
 
-2023—Pub. L. 118–31, div. A, title X, § 1017, Dec. 22, 2023, 137 Stat. 382, added item 2219. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title X, § 1017, Dec. 22, 2023, 137 Stat. 382, added item 2219. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 116–283, div. A, title XVIII, §§ 1807(b)(2)(B), (g)(2), 1809(f)(2), (g)(2), (i)(2), Jan. 1, 2021, 134 Stat. 4157, 4159, 4161, 4162, substituted “Regulations on production, warehousing, and supply distribution functions” for “Regulations on procurement, production, warehousing, and supply distribution functions” in item 2202 and struck out items 2212 “Obligations for contract services: reporting in budget object classes”, 2213 “Limitation on acquisition of excess supplies”, 2216 “Defense Modernization Account”, 2217 “Comparable budgeting for common procurement weapon systems”, and 2229b “Comptroller General assessment of acquisition programs and initiatives”.
+2021—Pub. L. 116–283, div. A, title XVIII, §§ 1807(b)(2)(B), (g)(2), 1809(f)(2), (g)(2), (i)(2), Jan. 1, 2021, 134 Stat. 4157, 4159, 4161, 4162, substituted “Regulations on production, warehousing, and supply distribution functions” for “Regulations on procurement, production, warehousing, and supply distribution functions” in item 2202 and struck out items 2212 “Obligations for contract services: reporting in budget object classes”, 2213 “Limitation on acquisition of excess supplies”, 2216 “Defense Modernization Account”, 2217 “Comparable budgeting for common procurement weapon systems”, and 2229b “Comptroller General assessment of acquisition programs and initiatives”.
 
-2019—Pub. L. 116–92, div. A, title XVII, § 1731(a)(33), Dec. 20, 2019, 133 Stat. 1814, substituted “Comptroller General assessment of acquisition programs and initiatives” for “Comptroller General assessment of acquisition programs and related initiatives” in item 2229b.
+2019—Pub. L. 116–92, div. A, title XVII, § 1731(a)(33), Dec. 20, 2019, 133 Stat. 1814, substituted “Comptroller General assessment of acquisition programs and initiatives” for “Comptroller General assessment of acquisition programs and related initiatives” in item 2229b.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 833(b), Aug. 13, 2018, 132 Stat. 1859, added item 2229b.
+2018—Pub. L. 115–232, div. A, title VIII, § 833(b), Aug. 13, 2018, 132 Stat. 1859, added item 2229b.
 
-2016—Pub. L. 114–328, div. A, title X, § 1081(c)(4), Dec. 23, 2016, 130 Stat. 2419, made technical correction to directory language of Pub. L. 114–92, § 883(a)(2). See 2015 Amendment note below.
+2016—Pub. L. 114–328, div. A, title X, § 1081(c)(4), Dec. 23, 2016, 130 Stat. 2419, made technical correction to directory language of Pub. L. 114–92, § 883(a)(2). See 2015 Amendment note below.
 
-Pub. L. 114–328, div. A, title VIII, § 833(b)(2)(B), Dec. 23, 2016, 130 Stat. 2284, struck out item 2225 “Information technology purchases: tracking and management”.
+Pub. L. 114–328, div. A, title VIII, § 833(b)(2)(B), Dec. 23, 2016, 130 Stat. 2284, struck out item 2225 “Information technology purchases: tracking and management”.
 
-2015—Pub. L. 114–92, div. A, title VIII, § 883(a)(2), Nov. 25, 2015, 129 Stat. 947, as amended by Pub. L. 114–328, div. A, title X, § 1081(c)(4), Dec. 23, 2016, 130 Stat. 2419, added item 2222 and struck out former item 2222 “Defense business systems: architecture, accountability, and modernization”.
+2015—Pub. L. 114–92, div. A, title VIII, § 883(a)(2), Nov. 25, 2015, 129 Stat. 947, as amended by Pub. L. 114–328, div. A, title X, § 1081(c)(4), Dec. 23, 2016, 130 Stat. 2419, added item 2222 and struck out former item 2222 “Defense business systems: architecture, accountability, and modernization”.
 
-2014—Pub. L. 113–291, div. A, title X, § 1022(a)(2), Dec. 19, 2014, 128 Stat. 3487, added item 2218a.
+2014—Pub. L. 113–291, div. A, title X, § 1022(a)(2), Dec. 19, 2014, 128 Stat. 3487, added item 2218a.
 
-2011—Pub. L. 112–81, div. A, title VIII, § 846(a)(2), Dec. 31, 2011, 125 Stat. 1517, added item 2216a.
+2011—Pub. L. 112–81, div. A, title VIII, § 846(a)(2), Dec. 31, 2011, 125 Stat. 1517, added item 2216a.
 
-Pub. L. 111–383, div. A, title VIII, § 805(a)(2), Jan. 7, 2011, 124 Stat. 4259, added item 2223a.
+Pub. L. 111–383, div. A, title VIII, § 805(a)(2), Jan. 7, 2011, 124 Stat. 4259, added item 2223a.
 
-2008—Pub. L. 110–181, div. A, title III, §§ 352(b), 371(f), Jan. 28, 2008, 122 Stat. 72, 81, added items 2228 and 2229a and struck out former item 2228 “Military equipment and infrastructure: prevention and mitigation of corrosion”.
+2008—Pub. L. 110–181, div. A, title III, §§ 352(b), 371(f), Jan. 28, 2008, 122 Stat. 72, 81, added items 2228 and 2229a and struck out former item 2228 “Military equipment and infrastructure: prevention and mitigation of corrosion”.
 
-2006—Pub. L. 109–364, div. A, title III, § 351(b), Oct. 17, 2006, 120 Stat. 2160, added item 2229.
+2006—Pub. L. 109–364, div. A, title III, § 351(b), Oct. 17, 2006, 120 Stat. 2160, added item 2229.
 
-2004—Pub. L. 108–375, div. A, title III, § 332(a)(2), title VI, § 651(f)(2), Oct. 28, 2004, 118 Stat. 1854, 1972, struck out item 2219 “Retention of morale, welfare, and recreation funds by military installations: limitation” and added item 2222.
+2004—Pub. L. 108–375, div. A, title III, § 332(a)(2), title VI, § 651(f)(2), Oct. 28, 2004, 118 Stat. 1854, 1972, struck out item 2219 “Retention of morale, welfare, and recreation funds by military installations: limitation” and added item 2222.
 
-2002—Pub. L. 107–314, div. A, title X, §§ 1004(h)(1), 1052(b)(2), 1067(a)(2), Dec. 2, 2002, 116 Stat. 2631, 2649, 2658, struck out item 2222 “Annual financial management improvement plan” and added items 2224a and 2228.
+2002—Pub. L. 107–314, div. A, title X, §§ 1004(h)(1), 1052(b)(2), 1067(a)(2), Dec. 2, 2002, 116 Stat. 2631, 2649, 2658, struck out item 2222 “Annual financial management improvement plan” and added items 2224a and 2228.
 
-2001—Pub. L. 107–107, div. A, title X, § 1009(b)(3)(B), Dec. 28, 2001, 115 Stat. 1209, substituted “Annual” for “Biennial” in item 2222.
+2001—Pub. L. 107–107, div. A, title X, § 1009(b)(3)(B), Dec. 28, 2001, 115 Stat. 1209, substituted “Annual” for “Biennial” in item 2222.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title VIII, § 812(a)(2), title X, §§ 1006(a)(2), 1008(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–214, 1654A–247, 1654A–250, added items 2225, 2226, and 2227.
+2000—Pub. L. 106–398, § 1 [[div. A], title VIII, § 812(a)(2), title X, §§ 1006(a)(2), 1008(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–214, 1654A–247, 1654A–250, added items 2225, 2226, and 2227.
 
-1999—Pub. L. 106–65, div. A, title X, § 1043(b), Oct. 5, 1999, 113 Stat. 761, added item 2224.
+1999—Pub. L. 106–65, div. A, title X, § 1043(b), Oct. 5, 1999, 113 Stat. 761, added item 2224.
 
-1998—Pub. L. 105–261, div. A, title III, § 331(a)(2), title IX, §§ 906(f)(1), 911(a)(2), title X, § 1008(b), Oct. 17, 1998, 112 Stat. 1968, 2096, 2099, 2117, added item 2212, struck out items 2216a “Defense Business Operations Fund” and 2221 “Fisher House trust funds”, and added item 2223.
+1998—Pub. L. 105–261, div. A, title III, § 331(a)(2), title IX, §§ 906(f)(1), 911(a)(2), title X, § 1008(b), Oct. 17, 1998, 112 Stat. 1968, 2096, 2099, 2117, added item 2212, struck out items 2216a “Defense Business Operations Fund” and 2221 “Fisher House trust funds”, and added item 2223.
 
-1997—Pub. L. 105–85, div. A, title X, § 1008(a)(2), Nov. 18, 1997, 111 Stat. 1871, added item 2222.
+1997—Pub. L. 105–85, div. A, title X, § 1008(a)(2), Nov. 18, 1997, 111 Stat. 1871, added item 2222.
 
-1996—Pub. L. 104–201, div. A, title X, § 1074(a)(10), Sept. 23, 1996, 110 Stat. 2659, redesignated item 2216 “Defense Business Operations Fund” as 2216a.
+1996—Pub. L. 104–201, div. A, title X, § 1074(a)(10), Sept. 23, 1996, 110 Stat. 2659, redesignated item 2216 “Defense Business Operations Fund” as 2216a.
 
-Pub. L. 104–106, div. A, title III, § 371(a)(2), title IX, §§ 912(a)(2), 914(a)(2), Feb. 10, 1996, 110 Stat. 279, 410, 412, added two items 2216 and item 2221.
+Pub. L. 104–106, div. A, title III, § 371(a)(2), title IX, §§ 912(a)(2), 914(a)(2), Feb. 10, 1996, 110 Stat. 279, 410, 412, added two items 2216 and item 2221.
 
-1994—Pub. L. 103–355, title II, § 2454(c)(3)(A), title III, § 3061(b), title V, § 5001(a)(2), Oct. 13, 1994, 108 Stat. 3326, 3336, 3350, substituted “Regulations on procurement, production, warehousing, and supply distribution functions” for “Obligation of funds: limitation” in item 2202, struck out item 2212 “Contracted advisory and assistance services: accounting procedures”, and added item 2220.
+1994—Pub. L. 103–355, title II, § 2454(c)(3)(A), title III, § 3061(b), title V, § 5001(a)(2), Oct. 13, 1994, 108 Stat. 3326, 3336, 3350, substituted “Regulations on procurement, production, warehousing, and supply distribution functions” for “Obligation of funds: limitation” in item 2202, struck out item 2212 “Contracted advisory and assistance services: accounting procedures”, and added item 2220.
 
-Pub. L. 103–337, div. A, title III, § 373(b), div. B, title XXVIII, § 2804(b)(2), Oct. 5, 1994, 108 Stat. 2736, 3053, substituted “Reimbursements” for “Availability of reimbursements” in item 2205 and added item 2219.
+Pub. L. 103–337, div. A, title III, § 373(b), div. B, title XXVIII, § 2804(b)(2), Oct. 5, 1994, 108 Stat. 2736, 3053, substituted “Reimbursements” for “Availability of reimbursements” in item 2205 and added item 2219.
 
-1993—Pub. L. 103–160, div. A, title XI, § 1106(a)(2), Nov. 30, 1993, 107 Stat. 1750, added item 2215.
+1993—Pub. L. 103–160, div. A, title XI, § 1106(a)(2), Nov. 30, 1993, 107 Stat. 1750, added item 2215.
 
-1992—Pub. L. 102–484, div. A, title X, § 1024(a)(2), Oct. 23, 1992, 106 Stat. 2488, added item 2218.
+1992—Pub. L. 102–484, div. A, title X, § 1024(a)(2), Oct. 23, 1992, 106 Stat. 2488, added item 2218.
 
-1991—Pub. L. 102–190, div. A, title III, § 317(b), Dec. 5, 1991, 105 Stat. 1338, added item 2213.
+1991—Pub. L. 102–190, div. A, title III, § 317(b), Dec. 5, 1991, 105 Stat. 1338, added item 2213.
 
-1990—Pub. L. 101–510, div. A, title XIII, § 1331(2), title XIV, §§ 1482(c)(2), 1484(i)(6), Nov. 5, 1990, 104 Stat. 1673, 1710, 1718, struck out item 2213 “Cooperative military airlift agreements”, added item 2214, and struck out items 2215 “Reports on unobligated balances” and 2216 “Annual report on budgeting for inflation”.
+1990—Pub. L. 101–510, div. A, title XIII, § 1331(2), title XIV, §§ 1482(c)(2), 1484(i)(6), Nov. 5, 1990, 104 Stat. 1673, 1710, 1718, struck out item 2213 “Cooperative military airlift agreements”, added item 2214, and struck out items 2215 “Reports on unobligated balances” and 2216 “Annual report on budgeting for inflation”.
 
-1988—Pub. L. 100–370, § 1(d)(4), July 19, 1988, 102 Stat. 843, added items 2201, 2212, and 2217.
+1988—Pub. L. 100–370, § 1(d)(4), July 19, 1988, 102 Stat. 843, added items 2201, 2212, and 2217.
 
-1986—Pub. L. 99–661, div. A, title XIII, § 1307(a)(2), Nov. 14, 1986, 100 Stat. 3981, added items 2215 and 2216.
+1986—Pub. L. 99–661, div. A, title XIII, § 1307(a)(2), Nov. 14, 1986, 100 Stat. 3981, added items 2215 and 2216.
 
-1982—Pub. L. 97–252, title XI, § 1125(b), Sept. 8, 1982, 96 Stat. 758, added item 2213.
+1982—Pub. L. 97–252, title XI, § 1125(b), Sept. 8, 1982, 96 Stat. 758, added item 2213.
 
-Pub. L. 97–214, § 10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 “Transmission of annual military construction authorization request”.
+Pub. L. 97–214, § 10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 “Transmission of annual military construction authorization request”.
 
-1978—Pub. L. 95–356, title VIII, § 802(a)(2), Sept. 8, 1978, 92 Stat. 585, added item 2212.
+1978—Pub. L. 95–356, title VIII, § 802(a)(2), Sept. 8, 1978, 92 Stat. 585, added item 2212.
 
-1962—Pub. L. 87–651, title II, § 207(b), Sept. 7, 1962, 76 Stat. 523, added items 2203 to 2211.
+1962—Pub. L. 87–651, title II, § 207(b), Sept. 7, 1962, 76 Stat. 523, added items 2203 to 2211.
 
-1958—Pub. L. 85–599, § 3(c), Aug. 6, 1958, 72 Stat. 516, struck out item 2201 “General functions of Secretary of Defense”.
+1958—Pub. L. 85–599, § 3(c), Aug. 6, 1958, 72 Stat. 516, struck out item 2201 “General functions of Secretary of Defense”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Mission Integration Management**
 
-Pub. L. 114–328, div. A, title VIII, § 855, Dec. 23, 2016, 130 Stat. 2297, directed the Secretary of Defense to establish mission integration management activities for certain mission areas that involve multiple Armed Forces and multiple programs and to submit to the congressional defense committees, at the same time the fiscal year 2018 budget is submitted to Congress, a strategy for mission integration management.
+Pub. L. 114–328, div. A, title VIII, § 855, Dec. 23, 2016, 130 Stat. 2297, directed the Secretary of Defense to establish mission integration management activities for certain mission areas that involve multiple Armed Forces and multiple programs and to submit to the congressional defense committees, at the same time the fiscal year 2018 budget is submitted to Congress, a strategy for mission integration management.
 
 **Strategic Management Plan**
 
-Pub. L. 110–181, div. A, title IX, § 904(d), (e), Jan. 28, 2008, 122 Stat. 275, as amended by Pub. L. 114–92, div. A, title X, § 1079(e), Nov. 25, 2015, 129 Stat. 999, provided that:
+Pub. L. 110–181, div. A, title IX, § 904(d), (e), Jan. 28, 2008, 122 Stat. 275, as amended by Pub. L. 114–92, div. A, title X, § 1079(e), Nov. 25, 2015, 129 Stat. 999, provided that:
 
 > **“(d) Strategic Management Plan Required.—**
 
@@ -117,7 +117,7 @@ Pub. L. 110–181, div. A, title IX, § 904(d), (e), Jan. 28, 2008, 122 Stat. 
 
 > **“(e) Report.—** Not later than 180 days after the date of the enactment of this Act [Jan. 28, 2008], the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of this section and a copy of the strategic management plan required by subsection (d).”
 
-## § 2201. Apportionment of funds: authority for exemption; excepted expenses
+## § 2201. Apportionment of funds: authority for exemption; excepted expenses
 
 **(a) Exemption From Apportionment Requirement.—** If the President determines such action to be necessary in the interest of national defense, the President may exempt from the provisions of section 1512 of title 31 appropriations, funds, and contract authorizations available for military functions of the Department of Defense.
 
@@ -127,11 +127,11 @@ Pub. L. 110–181, div. A, title IX, § 904(d), (e), Jan. 28, 2008, 122 Stat. 
 
 **(d) Notification to Congress.—** The Secretary of Defense shall immediately notify Congress of the use of any authority under this section.
 
-(Added Pub. L. 100–370, § 1(d)(1)(A), July 19, 1988, 102 Stat. 841; amended Pub. L. 106–65, div. A, title X, § 1032(a)(1), Oct. 5, 1999, 113 Stat. 751; Pub. L. 111–350, § 5(b)(4), Jan. 4, 2011, 124 Stat. 3842.)
+(Added Pub. L. 100–370, § 1(d)(1)(A), July 19, 1988, 102 Stat. 841; amended Pub. L. 106–65, div. A, title X, § 1032(a)(1), Oct. 5, 1999, 113 Stat. 751; Pub. L. 111–350, § 5(b)(4), Jan. 4, 2011, 124 Stat. 3842.)
 
 **Historical and Revision Notes**
 
-Section is based on Pub. L. 99–190, § 101(b) [title VIII, § 8009], Dec. 19, 1985, 99 Stat. 1185, 1204.
+Section is based on Pub. L. 99–190, § 101(b) [title VIII, § 8009], Dec. 19, 1985, 99 Stat. 1185, 1204.
 
 In two instances, the source law to be codified by the bill includes provisions that on their face require that the Department of Defense notify Congress of certain actions. These notification requirements were terminated by section 602 of the Goldwater-Nichols Department of Defense Reorganization Act of 1986 (Public Law 99–433), which terminated all recurring reporting requirements applicable to the Department of Defense except for those requirements that were specifically exempted in that section. The source law sections are sections 8009(c) and 8005(j) (proviso) of the FY86 defense appropriations Act (Public Law 99–190), enacted December 19, 1985, which would be codified as section 2201 of title 10 (by section 1(d) of the bill) and section 7313(a) of title 10 (by section 1(n) of the bill). In codifying the authorities provided the Department of Defense by these two provisions of law, the committee believes that it is appropriate to reinstate the congressional notification requirements that go with those authorities. These sections were recurring annual appropriation provisions for many years and were made permanent only months before the enactment of the 1986 Reorganization Act. It is the committee’s belief that the failure to exempt these provisions from the general reports termination provision was inadvertent and notes that the notification provisions had in fact previously applied to the Department of Defense for many years. The action of the committee restores the status quo as it existed before the Reorganization Act.
 
@@ -139,29 +139,29 @@ In two instances, the source law to be codified by the bill includes provisions 
 
 **Prior Provisions**
 
-A prior section 2201, act Aug. 10, 1956, ch. 1041, 70A Stat. 119, prescribed the general functions of the Secretary of Defense, prior to repeal by Pub. L. 85–599, § 3(c), Aug. 6, 1958, 72 Stat. 516. See section 113 of this title.
+A prior section 2201, act Aug. 10, 1956, ch. 1041, 70A Stat. 119, prescribed the general functions of the Secretary of Defense, prior to repeal by Pub. L. 85–599, § 3(c), Aug. 6, 1958, 72 Stat. 516. See section 113 of this title.
 
 **Amendments**
 
-2011—Subsec. (b). Pub. L. 111–350, § 5(b)(4)(A), substituted “section 6301(a) and (b)(1)–(3) of title 41” for “section 3732(a) of the Revised Statutes (41 U.S.C. 11(a))”.
+2011—Subsec. (b). Pub. L. 111–350, § 5(b)(4)(A), substituted “section 6301(a) and (b)(1)–(3) of title 41” for “section 3732(a) of the Revised Statutes (41 U.S.C. 11(a))”.
 
-Subsec. (c). Pub. L. 111–350, § 5(b)(4)(B), substituted “section 6301(a) and (b)(1)–(3) of title 41” for “section 3732(a) of the Revised Statutes (41 U.S.C. 11(a))”.
+Subsec. (c). Pub. L. 111–350, § 5(b)(4)(B), substituted “section 6301(a) and (b)(1)–(3) of title 41” for “section 3732(a) of the Revised Statutes (41 U.S.C. 11(a))”.
 
 1999—Subsec. (d). Pub. L. 106–65 substituted “Defense” for “Defense—”, struck out par. (1) designation, substituted “this section.” for “this section; and”, and struck out par. (2) which read as follows: “shall submit monthly reports to Congress on the estimated obligations incurred pursuant to subsections (b) and (c).”
 
-## § 2202. Regulations on production, warehousing, and supply distribution functions
+## § 2202. Regulations on production, warehousing, and supply distribution functions
 
 The Secretary of Defense shall prescribe regulations governing the performance within the Department of Defense of the production, warehousing, and supply distribution functions, and related functions, of the Department of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 120; Pub. L. 100–180, div. A, title XII, § 1202, Dec. 4, 1987, 101 Stat. 1153; Pub. L. 103–355, title III, § 3061(a), Oct. 13, 1994, 108 Stat. 3336; Pub. L. 116–283, div. A, title XVIII, § 1807(b)(2), Jan. 1, 2021, 134 Stat. 4157.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 120; Pub. L. 100–180, div. A, title XII, § 1202, Dec. 4, 1987, 101 Stat. 1153; Pub. L. 103–355, title III, § 3061(a), Oct. 13, 1994, 108 Stat. 3336; Pub. L. 116–283, div. A, title XVIII, § 1807(b)(2), Jan. 1, 2021, 134 Stat. 4157.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2202 | 41:162. | July 10, 1952, ch. 630, § 638, 66 Stat. 537. |
+| 2202 | 41:162. | July 10, 1952, ch. 630, § 638, 66 Stat. 537. |
 
-The words “an officer or agency \* \* \* may \* \* \* only” are substituted for the words “no officer or agency \* \* \* shall \* \* \* except”. The word “of”, before the words “the Department”, is substituted for the words “in or under”. The words “under regulations prescribed” are substituted for the words “in accordance with regulations issued”. The words “after the effective date of this section” and 41:162(b) are omitted as executed. The words “or equipment” are omitted as covered by the definition of “supplies” in section 101(26) of this title.
+The words “an officer or agency \* \* \* may \* \* \* only” are substituted for the words “no officer or agency \* \* \* shall \* \* \* except”. The word “of”, before the words “the Department”, is substituted for the words “in or under”. The words “under regulations prescribed” are substituted for the words “in accordance with regulations issued”. The words “after the effective date of this section” and 41:162(b) are omitted as executed. The words “or equipment” are omitted as covered by the definition of “supplies” in section 101(26) of this title.
 
 **Editorial Notes**
 
@@ -187,11 +187,11 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 8752 of this title.
 
-## § 2203. Budget estimates
+## § 2203. Budget estimates
 
 To account for, and report, the cost of performance of readily identifiable functional programs and activities, with segregation of operating and capital programs, budget estimates of the Department of Defense shall be prepared, presented, and justified, where practicable, and authorized programs shall be administered, in such form and manner as the Secretary of Defense, subject to the authority and direction of the President, may prescribe. As far as practicable, budget estimates and authorized programs of the military departments shall be uniform and in readily comparable form. The budget for the Department of Defense submitted to Congress for each fiscal year shall include data projecting the effect of the appropriations requested for materiel readiness requirements. The Secretary of Defense shall provide that the budget justification documents for such budget include information on the number of employees of contractors estimated to be working on contracts of the Department of Defense during the fiscal year for which the budget is submitted. Such information shall be set forth in terms of employee-years or such other measure as will be uniform and readily comparable with civilian personnel of the Department of Defense.
 
-(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 520; amended Pub. L. 97–295, § 1(21), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 99–661, div. A, title III, § 311, Nov. 14, 1986, 100 Stat. 3851.)
+(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 520; amended Pub. L. 97–295, § 1(21), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 99–661, div. A, title III, § 311, Nov. 14, 1986, 100 Stat. 3851.)
 
 **Historical and Revision Notes**
 
@@ -199,7 +199,7 @@ To account for, and report, the cost of performance of readily identifiable func
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2203 | 5:172b. | July 26, 1947, ch. 343, § 403; added Aug. 10, 1949, ch. 412, § 11 (5th and 6th pars.), 63 Stat. 586. |
+| 2203 | 5:172b. | July 26, 1947, ch. 343, § 403; added Aug. 10, 1949, ch. 412, § 11 (5th and 6th pars.), 63 Stat. 586. |
 
 The word “prescribe” is substituted for the word “determine”. 5 U.S.C. 172b(b) is omitted as executed.
 
@@ -207,7 +207,7 @@ The word “prescribe” is substituted for the word “determine”. 5 U.S.C. 1
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2203 (last sentence) | 10:2203 (note). | July 30, 1977, Pub. L. 95–79, § 812 (last sentence), 91 Stat. 336. |
+| 2203 (last sentence) | 10:2203 (note). | July 30, 1977, Pub. L. 95–79, § 812 (last sentence), 91 Stat. 336. |
 
 The words “for fiscal year 1979” are omitted as executed. The words “for each fiscal year” are substituted for “subsequent fiscal years” for consistency.
 
@@ -223,43 +223,43 @@ The words “for fiscal year 1979” are omitted as executed. The words “for e
 
 **Presidential Recommendations Respecting Modifications in Cruise Missile Program**
 
-Pub. L. 95–184, title II, § 203, Nov. 15, 1977, 91 Stat. 1382, provided that in authorizing funds under that Act [Pub. L. 95–184], Congress was asserting its readiness to consider, in accordance with the processes set forth in the Congressional Budget and Impoundment Control Act of 1974 [2 U.S.C. 621 et seq.] and the Budget and Accounting Act, 1921 [31 U.S.C. 1101 et seq.], such modifications in the United States cruise missile programs as the President might recommend to facilitate either negotiation or agreement in arms limitation or reduction talks.
+Pub. L. 95–184, title II, § 203, Nov. 15, 1977, 91 Stat. 1382, provided that in authorizing funds under that Act [Pub. L. 95–184], Congress was asserting its readiness to consider, in accordance with the processes set forth in the Congressional Budget and Impoundment Control Act of 1974 [2 U.S.C. 621 et seq.] and the Budget and Accounting Act, 1921 [31 U.S.C. 1101 et seq.], such modifications in the United States cruise missile programs as the President might recommend to facilitate either negotiation or agreement in arms limitation or reduction talks.
 
 **Report to Congressional Committees on Material Readiness Requirements for Armed Forces**
 
-Pub. L. 95–79, title VIII, § 812, July 30, 1977, 91 Stat. 336, as amended by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314, directed Secretary of Defense to submit to Congress, not later than February 15, 1978, a report setting forth quantifiable and measurable material readiness requirements for the Armed Forces, including the Reserve components thereof, monthly readiness status of the Armed Forces, including the reserve components thereof, during fiscal year 1977, and any changes in such requirements and status projected for fiscal years 1978 and 1979 and in the five-year defense program, and to inform Congress of any subsequent changes in the aforementioned materiel readiness requirements and the reasons for such changes.
+Pub. L. 95–79, title VIII, § 812, July 30, 1977, 91 Stat. 336, as amended by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314, directed Secretary of Defense to submit to Congress, not later than February 15, 1978, a report setting forth quantifiable and measurable material readiness requirements for the Armed Forces, including the Reserve components thereof, monthly readiness status of the Armed Forces, including the reserve components thereof, during fiscal year 1977, and any changes in such requirements and status projected for fiscal years 1978 and 1979 and in the five-year defense program, and to inform Congress of any subsequent changes in the aforementioned materiel readiness requirements and the reasons for such changes.
 
 **Modifications in United States Strategic Arms Programs on Recommendation of President**
 
-Pub. L. 95–79, title VIII, § 813, July 30, 1977, 91 Stat. 337, provided that in authorizing procurement under section 101 of that Act and research and development under section 201 of that Act, Congress was asserting its readiness to consider, in accordance with the processes set forth in the Congressional Budget and Impoundment Control Act of 1974 [2 U.S.C. 621 et seq.] and the Budget and Accounting Act, 1921 [31 U.S.C. 1101 et seq.], such modifications in United States strategic arms programs as the President might recommend to facilitate either negotiation or agreement in the Strategic Arms Limitation Talks.
+Pub. L. 95–79, title VIII, § 813, July 30, 1977, 91 Stat. 337, provided that in authorizing procurement under section 101 of that Act and research and development under section 201 of that Act, Congress was asserting its readiness to consider, in accordance with the processes set forth in the Congressional Budget and Impoundment Control Act of 1974 [2 U.S.C. 621 et seq.] and the Budget and Accounting Act, 1921 [31 U.S.C. 1101 et seq.], such modifications in United States strategic arms programs as the President might recommend to facilitate either negotiation or agreement in the Strategic Arms Limitation Talks.
 
-## § 2204. Obligation of appropriations
+## § 2204. Obligation of appropriations
 
 To prevent overdrafts and deficiencies in the fiscal year for which appropriations are made, appropriations made to the Department of Defense or to a military department, and reimbursements thereto, are available for obligation and expenditure only under scheduled rates of obligation, or changes thereto, that have been approved by the Secretary of Defense. This section does not prohibit the Department of Defense from incurring a deficiency that it has been authorized by law to incur.
 
-(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 520.)
+(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 520.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2204 | 5:172c. | July 26, 1947, ch. 343, § 404; added Aug. 10, 1949, ch. 412, § 11 (7th par.), 63 Stat. 587. |
+| 2204 | 5:172c. | July 26, 1947, ch. 343, § 404; added Aug. 10, 1949, ch. 412, § 11 (7th par.), 63 Stat. 587. |
 
 The words “on and after the beginning of the next fiscal year following August 10, 1949,” are omitted as executed. The last sentence is substituted for the proviso in 5 U.S.C. 172c.
 
-## § 2205. Reimbursements
+## § 2205. Reimbursements
 
 **(a) Availability of Reimbursements.—** Reimbursements made to appropriations of the Department of Defense or a department or agency thereof under sections 1535 and 1536 of title 31, or other amounts paid by or on behalf of a department or agency of the Department of Defense to another department or agency of the Department of Defense, or by or on behalf of personnel of any department or organization, for services rendered or supplies furnished, may be credited to authorized accounts. Funds so credited are available for obligation for the same period as the funds in the account so credited. Such an account shall be accounted for as one fund on the books of the Department of the Treasury.
 
 **(b) Fixed Rate for Reimbursement for Certain Services.—** The Secretary of Defense and the Secretaries of the military departments may charge a fixed rate for reimbursement of the costs of providing planning, supervision, administrative, or overhead services incident to any construction, maintenance, or repair project to real property or for providing facility services, irrespective of the appropriation financing the project or facility services.
 
-(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 520; amended Pub. L. 96–513, title V, § 511(71), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–258, § 3(b)(4), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 103–337, div. B, title XXVIII, § 2804(a), (b)(1), Oct. 5, 1994, 108 Stat. 3053.)
+(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 520; amended Pub. L. 96–513, title V, § 511(71), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–258, § 3(b)(4), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 103–337, div. B, title XXVIII, § 2804(a), (b)(1), Oct. 5, 1994, 108 Stat. 3053.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2205 | 5:172g. | July 26, 1947, ch. 343, § 408; added Aug. 10, 1949, ch. 412, § 11 (23d par.), 63 Stat. 590. |
+| 2205 | 5:172g. | July 26, 1947, ch. 343, § 408; added Aug. 10, 1949, ch. 412, § 11 (23d par.), 63 Stat. 590. |
 
 5 U.S.C. 172g is restated to reflect more clearly its purpose to authorize the Department of Defense to operate as an integrated department by permitting supplies to be furnished and services to be rendered within and among agencies of the Department of Defense and provide that reimbursements therefor be credited to authorized accounts and be available for the same purpose and period as the accounts so credited. (See Senate Report No. 366, 81st Congress, pp. 23, 24.)
 
@@ -279,18 +279,18 @@ The words “on and after the beginning of the next fiscal year following August
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 2206. Disbursement of funds of military department to cover obligation of another agency of Department of Defense
+## § 2206. Disbursement of funds of military department to cover obligation of another agency of Department of Defense
 
 As far as authorized by the Secretary of Defense, a disbursing official of a military department may, out of available advances, make disbursements to cover obligations in connection with any function, power, or duty of another department or agency of the Department of Defense and charge those disbursements on vouchers, to the appropriate appropriation of that department or agency. Disbursements so made shall be adjusted in settling the accounts of the disbursing official.
 
-(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 520; amended Pub. L. 97–258, § 2(b)(1)(A), Sept. 13, 1982, 96 Stat. 1052.)
+(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 520; amended Pub. L. 97–258, § 2(b)(1)(A), Sept. 13, 1982, 96 Stat. 1052.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2206 | 5:172h. 5:171n(a) (as applicable to 5:172h). | July 26, 1947, ch. 343, § 409; added Aug. 10, 1949, ch. 412, § 11 (24th par.), 63 Stat. 590. |
-|  |  | July 26, 1947, ch. 343, § 308(a) (as applicable to § 409), 61 Stat. 509. |
+| 2206 | 5:172h. 5:171n(a) (as applicable to 5:172h). | July 26, 1947, ch. 343, § 409; added Aug. 10, 1949, ch. 412, § 11 (24th par.), 63 Stat. 590. |
+|  |  | July 26, 1947, ch. 343, § 308(a) (as applicable to § 409), 61 Stat. 509. |
 
 The word “agency” is substituted for the word “organization”. The last sentence is substituted for the proviso in 5 U.S.C. 172h.
 
@@ -300,9 +300,9 @@ The word “agency” is substituted for the word “organization”. The last s
 
 1982—Pub. L. 97–258 substituted “official” for “officer” wherever appearing.
 
-## [§ 2207. Renumbered § 4651]
+## [§ 2207. Renumbered § 4651]
 
-## § 2208. Working-capital funds
+## § 2208. Working-capital funds
 
 **(a)** To control and account more effectively for the cost of programs and work performed in the Department of Defense, the Secretary of Defense may require the establishment of working-capital funds in the Department of Defense to—
 
@@ -478,7 +478,7 @@ including applicable administrative expenses, and be reimbursed from available a
 
 **(4)** The authority to use a working capital fund to fund a project under the authority of this subsection expires on September 30, 2027.
 
-(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, § 1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, § 1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, § 305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, § 7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, § 801, title XIII, § 1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, § 8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, § 374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, § 158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, § 1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§ 1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, § 8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§ 331(a)(1), 332, title X, § 1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771; Pub. L. 106–398, § 1 [[div. A], title III, § 341(f)], Oct. 30, 2000, 114 Stat. 1654, 1654A–64; Pub. L. 108–375, div. A, title X, § 1009, Oct. 28, 2004, 118 Stat. 2037; Pub. L. 111–383, div. A, title XIV, § 1403, Jan. 7, 2011, 124 Stat. 4410; Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(1), Dec. 31, 2011, 125 Stat. 1684; Pub. L. 114–92, div. A, title XIV, §§ 1421, 1422, Nov. 25, 2015, 129 Stat. 1083, 1084; Pub. L. 115–91, div. A, title II, § 212, Dec. 12, 2017, 131 Stat. 1324; Pub. L. 115–232, div. A, title III, § 321, title VIII, § 809(a), title XIV, § 1422, Aug. 13, 2018, 132 Stat. 1718, 1840, 2093; Pub. L. 116–92, div. A, title III, § 352, title XVII, § 1731(a)(29), Dec. 20, 2019, 133 Stat. 1320, 1813; Pub. L. 116–283, div. A, title III, § 366, Jan. 1, 2021, 134 Stat. 3551; Pub. L. 117–263, div. A, title III, §§ 354, 372, Dec. 23, 2022, 136 Stat. 2534, 2540; Pub. L. 119–60, div. A, title III, § 333, Dec. 18, 2025, 139 Stat. 816.)
+(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, § 1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, § 1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, § 305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, § 7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, § 801, title XIII, § 1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, § 8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, § 374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, § 158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, § 1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§ 1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, § 8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§ 331(a)(1), 332, title X, § 1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771; Pub. L. 106–398, § 1 [[div. A], title III, § 341(f)], Oct. 30, 2000, 114 Stat. 1654, 1654A–64; Pub. L. 108–375, div. A, title X, § 1009, Oct. 28, 2004, 118 Stat. 2037; Pub. L. 111–383, div. A, title XIV, § 1403, Jan. 7, 2011, 124 Stat. 4410; Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(1), Dec. 31, 2011, 125 Stat. 1684; Pub. L. 114–92, div. A, title XIV, §§ 1421, 1422, Nov. 25, 2015, 129 Stat. 1083, 1084; Pub. L. 115–91, div. A, title II, § 212, Dec. 12, 2017, 131 Stat. 1324; Pub. L. 115–232, div. A, title III, § 321, title VIII, § 809(a), title XIV, § 1422, Aug. 13, 2018, 132 Stat. 1718, 1840, 2093; Pub. L. 116–92, div. A, title III, § 352, title XVII, § 1731(a)(29), Dec. 20, 2019, 133 Stat. 1320, 1813; Pub. L. 116–283, div. A, title III, § 366, Jan. 1, 2021, 134 Stat. 3551; Pub. L. 117–263, div. A, title III, §§ 354, 372, Dec. 23, 2022, 136 Stat. 2534, 2540; Pub. L. 119–60, div. A, title III, § 333, Dec. 18, 2025, 139 Stat. 816.)
 
 **Historical and Revision Notes**
 
@@ -486,14 +486,14 @@ including applicable administrative expenses, and be reimbursed from available a
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2208(a) 2208(b) 2208(c)   2208(d) | 5:172d(a). 5:172d(b). 5:172d(c) (less 2d sentence). 5:172d(d). | July 26, 1947, ch. 343, § 405; added Aug. 10, 1949, ch. 412, § 11 (8th through 15th pars.), 63 Stat. 587. |
+| 2208(a) 2208(b) 2208(c) 2208(d) | 5:172d(a). 5:172d(b). 5:172d(c) (less 2d sentence). 5:172d(d). | July 26, 1947, ch. 343, § 405; added Aug. 10, 1949, ch. 412, § 11 (8th through 15th pars.), 63 Stat. 587. |
 | 2208(e) | 5:172d(e) |  |
 | 2208(f) | 5:172d(f). |  |
 | 2208(g) | 5:172d(h). |  |
 | 2208(h) | 5:172d(g). |  |
 | 2208(i) | 5:172d(c) (2d sentence). |  |
 
-In subsection (a)(1), (c)(1), (f), (g), and (h), the words “stores, . . . materials, and equipment” are omitted as covered by the word “supplies”, as defined in section 101(26) of title 10.
+In subsection (a)(1), (c)(1), (f), (g), and (h), the words “stores, . . . materials, and equipment” are omitted as covered by the word “supplies”, as defined in section 101(26) of title 10.
 
 In subsection (c), the word “used” is substituted for the word “consumed”. The words “and costs of using equipment” are inserted to reflect an opinion of the Assistant General Counsel (Fiscal Matters), Department of Defense, February 2, 1960.
 
@@ -505,7 +505,7 @@ In subsection (h), the following substitutions are made: “prescribe” for “
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2208(h) (3d sentence) | 10:2208 (note). | Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163. |
+| 2208(h) (3d sentence) | 10:2208 (note). | Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163. |
 
 The word “hereafter” is omitted as executed.
 
@@ -513,31 +513,31 @@ The word “hereafter” is omitted as executed.
 
 **References in Text**
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (*l*)(3)(B), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (*l*)(3)(B), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Prior Provisions**
 
-Provisions similar to those in subsecs. (m) to (q) of this section were contained in section 2216a of this title prior to repeal by Pub. L. 105–261, § 1008(b).
+Provisions similar to those in subsecs. (m) to (q) of this section were contained in section 2216a of this title prior to repeal by Pub. L. 105–261, § 1008(b).
 
 **Amendments**
 
 2025—Subsec. (u)(4). Pub. L. 119–60 substituted “September 30, 2027” for “September 30, 2025”.
 
-2022—Subsec. (*l*)(3). Pub. L. 117–263, § 354, designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the total” for “The total”, and added subpar. (B).
+2022—Subsec. (*l*)(3). Pub. L. 117–263, § 354, designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the total” for “The total”, and added subpar. (B).
 
-Subsec. (u)(4). Pub. L. 117–263, § 372, substituted “2025” for “2023”.
+Subsec. (u)(4). Pub. L. 117–263, § 372, substituted “2025” for “2023”.
 
 2021—Subsec. (*l*)(4), (5). Pub. L. 116–283 added par. (4) and redesignated former par. (4) as (5).
 
-2019—Subsec. (u). Pub. L. 116–92, § 1731(a)(29), inserted “of this title” after “2805” wherever appearing.
+2019—Subsec. (u). Pub. L. 116–92, § 1731(a)(29), inserted “of this title” after “2805” wherever appearing.
 
-Subsec. (u)(1). Pub. L. 116–92, § 352(1), substituted “to fund” for “to carry out”.
+Subsec. (u)(1). Pub. L. 116–92, § 352(1), substituted “to fund” for “to carry out”.
 
-Subsec. (u)(2). Pub. L. 116–92, § 352(2), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), section 2805” for “Section 2805” and “carried out with” for “funded using”, and added subpar. (B).
+Subsec. (u)(2). Pub. L. 116–92, § 352(2), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), section 2805” for “Section 2805” and “carried out with” for “funded using”, and added subpar. (B).
 
-Subsec. (u)(4). Pub. L. 116–92, § 352(3), substituted “to fund” for “to carry out”.
+Subsec. (u)(4). Pub. L. 116–92, § 352(3), substituted “to fund” for “to carry out”.
 
-2018—Subsec. (e). Pub. L. 115–232, § 1422, inserted at end “The accomplishment of the most economical and efficient organization and operation of working capital fund activities for the purposes of this subsection shall include actions toward the following:
+2018—Subsec. (e). Pub. L. 115–232, § 1422, inserted at end “The accomplishment of the most economical and efficient organization and operation of working capital fund activities for the purposes of this subsection shall include actions toward the following:
 
 “(1) Undertaking efforts to optimize the rate structure for all requisitioning entities.
 
@@ -545,39 +545,39 @@ Subsec. (u)(4). Pub. L. 116–92, § 352(3), substituted “to fund” for “
 
 “(3) Determining the appropriate leadership level for approving work from outside entities to maximize efficiency.”
 
-Subsec. (i). Pub. L. 115–232, § 809(a), substituted “section 7543” for “section 4543”.
+Subsec. (i). Pub. L. 115–232, § 809(a), substituted “section 7543” for “section 4543”.
 
-Subsec. (u). Pub. L. 115–232, § 321, added subsec. (u).
+Subsec. (u). Pub. L. 115–232, § 321, added subsec. (u).
 
 2017—Subsec. (k)(2). Pub. L. 115–91 substituted “$500,000 for procurements by a major range and test facility installation or a science and technology reinvention laboratory and not less than $250,000 for procurements at all other facilities” for “$250,000” in introductory provisions.
 
-2015—Subsec. (s). Pub. L. 114–92, § 1421, added subsec. (s).
+2015—Subsec. (s). Pub. L. 114–92, § 1421, added subsec. (s).
 
-Subsec. (t). Pub. L. 114–92, § 1422, added subsec. (t).
+Subsec. (t). Pub. L. 114–92, § 1422, added subsec. (t).
 
-2011—Subsec. (c)(1). Pub. L. 111–383, § 1403(1), inserted before semicolon “, including the cost of the procurement and qualification of technology-enhanced maintenance capabilities that improve either reliability, maintainability, sustainability, or supportability and have, at a minimum, been demonstrated to be functional in an actual system application or operational environment”.
+2011—Subsec. (c)(1). Pub. L. 111–383, § 1403(1), inserted before semicolon “, including the cost of the procurement and qualification of technology-enhanced maintenance capabilities that improve either reliability, maintainability, sustainability, or supportability and have, at a minimum, been demonstrated to be functional in an actual system application or operational environment”.
 
-Subsec. (k)(2). Pub. L. 111–383, § 1403(2), substituted “$250,000” for “$100,000” in introductory provisions.
+Subsec. (k)(2). Pub. L. 111–383, § 1403(2), substituted “$250,000” for “$100,000” in introductory provisions.
 
-Subsec. (k)(2)(A). Pub. L. 112–81, § 2802(c)(1)(A), substituted “section 2805(c)” for “section 2805(c)(1)”.
+Subsec. (k)(2)(A). Pub. L. 112–81, § 2802(c)(1)(A), substituted “section 2805(c)” for “section 2805(c)(1)”.
 
-Subsec. (*o*)(2)(A). Pub. L. 112–81, § 2802(c)(1)(B), substituted “section 2805(c)” for “section 2805(c)(1)”.
+Subsec. (*o*)(2)(A). Pub. L. 112–81, § 2802(c)(1)(B), substituted “section 2805(c)” for “section 2805(c)(1)”.
 
 2004—Subsec. (r). Pub. L. 108–375 added subsec. (r).
 
-2000—Subsec. (j)(1). Pub. L. 106–398 substituted “contract, and the solicitation” for “contract; and” at end of subpar. (A) and all that follows through “(B) the solicitation”, substituted “; or” for period after “private firms”, and added a new subpar. (B).
+2000—Subsec. (j)(1). Pub. L. 106–398 substituted “contract, and the solicitation” for “contract; and” at end of subpar. (A) and all that follows through “(B) the solicitation”, substituted “; or” for period after “private firms”, and added a new subpar. (B).
 
-1999—Subsec. (j). Pub. L. 106–65, §§ 331(a)(1), 332, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, substituted “, remanufacturing, and engineering” for “or remanufacturing” in introductory provisions, inserted “or a subcontract under a Department of Defense contract” before the semicolon in subpar. (A), substituted “solicitation for the contract or subcontract” for “Department of Defense solicitation for such contract” in subpar. (B), and added par. (2).
+1999—Subsec. (j). Pub. L. 106–65, §§ 331(a)(1), 332, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, substituted “, remanufacturing, and engineering” for “or remanufacturing” in introductory provisions, inserted “or a subcontract under a Department of Defense contract” before the semicolon in subpar. (A), substituted “solicitation for the contract or subcontract” for “Department of Defense solicitation for such contract” in subpar. (B), and added par. (2).
 
-Subsec. (*l*)(2)(A). Pub. L. 106–65, § 1066(a)(16), inserted “of” after “during a period”.
+Subsec. (*l*)(2)(A). Pub. L. 106–65, § 1066(a)(16), inserted “of” after “during a period”.
 
-1998—Subsec. (*l*)(3), (4). Pub. L. 105–261, § 1007(e)(1), and Pub. L. 105–262 amended subsec. (*l*) identically, adding par. (3) and redesignating former par. (3) as (4).
+1998—Subsec. (*l*)(3), (4). Pub. L. 105–261, § 1007(e)(1), and Pub. L. 105–262 amended subsec. (*l*) identically, adding par. (3) and redesignating former par. (3) as (4).
 
-Subsecs. (m) to (q). Pub. L. 105–261, § 1008(a), added subsecs. (m) to (q).
+Subsecs. (m) to (q). Pub. L. 105–261, § 1008(a), added subsecs. (m) to (q).
 
-1997—Subsec. (k). Pub. L. 105–85, § 1011(a), added subsec. (k) and struck out former subsec. (k) which read as follows: “The Secretary of Defense shall provide that of the total amount of payments received in a fiscal year by funds established under this section for industrial-type activities, not less than 3 percent during fiscal year 1985, not less than 4 percent during fiscal year 1986, and not less than 5 percent during fiscal year 1987 shall be used for the acquisition of capital equipment for such activities.”
+1997—Subsec. (k). Pub. L. 105–85, § 1011(a), added subsec. (k) and struck out former subsec. (k) which read as follows: “The Secretary of Defense shall provide that of the total amount of payments received in a fiscal year by funds established under this section for industrial-type activities, not less than 3 percent during fiscal year 1985, not less than 4 percent during fiscal year 1986, and not less than 5 percent during fiscal year 1987 shall be used for the acquisition of capital equipment for such activities.”
 
-Subsec. (*l*). Pub. L. 105–85, § 1011(b), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 105–85, § 1011(b), added subsec. (*l*).
 
 1993—Subsec. (i). Pub. L. 103–160 amended subsec. (i) generally. Prior to amendment, subsec. (i) required that regulations under subsec. (h) authorize working-capital funded Army industrial facilities to sell manufactured articles and services to persons outside the Department of Defense in specified cases.
 
@@ -585,7 +585,7 @@ Subsec. (*l*). Pub. L. 105–85, § 1011(b), added subsec. (*l*).
 
 1991—Subsecs. (j), (k). Pub. L. 102–172 added subsec. (j) and redesignated former subsec. (j) as (k).
 
-1990—Subsec. (i)(1). Pub. L. 101–510, § 801, added par. (1), redesignated par. (3) as (2), and struck out former pars. (1) and (2) which read as follows:
+1990—Subsec. (i)(1). Pub. L. 101–510, § 801, added par. (1), redesignated par. (3) as (2), and struck out former pars. (1) and (2) which read as follows:
 
 “(1) Regulations under subsection (h) may authorize an article manufactured by a working-capital funded Department of the Army arsenal that manufactures large caliber cannons, gun mounts, or recoil mechanisms to be sold to a person outside the Department of Defense if—
 
@@ -599,7 +599,7 @@ Subsec. (*l*). Pub. L. 105–85, § 1011(b), added subsec. (*l*).
 
 “(2) Services related to an article sold under this subsection may also be sold to the purchaser if the services are to be performed in the United States for the purchaser.”
 
-Subsec. (k). Pub. L. 101–510, § 1301(6), struck out subsec. (k) which read as follows: “Reports annually shall be made to the President and to Congress on the condition and operation of working-capital funds established under this section.”
+Subsec. (k). Pub. L. 101–510, § 1301(6), struck out subsec. (k) which read as follows: “Reports annually shall be made to the President and to Congress on the condition and operation of working-capital funds established under this section.”
 
 1987—Subsec. (i)(3). Pub. L. 100–26 inserted “(22 U.S.C. 2778)” after “Arms Export Control Act”.
 
@@ -617,19 +617,19 @@ Amendment by section 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with pr
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. A, title X, § 1007(e)(2), Oct. 17, 1998, 112 Stat. 2115, and Pub. L. 105–262, title VIII, § 8146(d)(2), Oct. 17, 1998, 112 Stat. 2340, provided that: “Section 2208(*l*)(3) of such title, as added by paragraph (1), applies to fiscal years after fiscal year 1999.”
+Pub. L. 105–261, div. A, title X, § 1007(e)(2), Oct. 17, 1998, 112 Stat. 2115, and Pub. L. 105–262, title VIII, § 8146(d)(2), Oct. 17, 1998, 112 Stat. 2340, provided that: “Section 2208(*l*)(3) of such title, as added by paragraph (1), applies to fiscal years after fiscal year 1999.”
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–94, title XII, § 1204(b), Sept. 24, 1983, 97 Stat. 683, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to appropriations for fiscal years beginning after September 30, 1984.”
+Pub. L. 98–94, title XII, § 1204(b), Sept. 24, 1983, 97 Stat. 683, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to appropriations for fiscal years beginning after September 30, 1984.”
 
 **Advance Billing for Fiscal Year 2022**
 
-Pub. L. 117–103, div. C, title VIII, § 8117, Mar. 15, 2022, 136 Stat. 203, provided that: “During fiscal year 2022, the monetary limitation imposed by section 2208(*l*)(3) of title 10, United States Code[,] may be exceeded by up to $1,000,000,000.”
+Pub. L. 117–103, div. C, title VIII, § 8117, Mar. 15, 2022, 136 Stat. 203, provided that: “During fiscal year 2022, the monetary limitation imposed by section 2208(*l*)(3) of title 10, United States Code[,] may be exceeded by up to $1,000,000,000.”
 
 **Advance Billing for Fiscal Year 2020**
 
-Pub. L. 116–136, div. B, title III, § 13003, Mar. 27, 2020, 134 Stat. 522, provided that:
+Pub. L. 116–136, div. B, title III, § 13003, Mar. 27, 2020, 134 Stat. 522, provided that:
 
 > **“(a)** Notwithstanding section 2208(*l*)(3) of title 10, United States Code, during fiscal year 2020, the total amount of the advance billings rendered or imposed for all working-capital funds of the Department of Defense may exceed the amount otherwise specified in such section.
 
@@ -637,7 +637,7 @@ Pub. L. 116–136, div. B, title III, § 13003, Mar. 27, 2020, 134 Stat. 522, 
 
 **Pilot Program for Acquisition of Commercial Satellite Communication Services**
 
-Pub. L. 113–291, div. A, title XVI, § 1605, Dec. 19, 2014, 128 Stat. 3623, as amended by Pub. L. 114–92, div. A, title XVI, § 1612, Nov. 25, 2015, 129 Stat. 1103; Pub. L. 114–328, div. A, title XVI, § 1606(a), Dec. 23, 2016, 130 Stat. 2586, provided that:
+Pub. L. 113–291, div. A, title XVI, § 1605, Dec. 19, 2014, 128 Stat. 3623, as amended by Pub. L. 114–92, div. A, title XVI, § 1612, Nov. 25, 2015, 129 Stat. 1103; Pub. L. 114–328, div. A, title XVI, § 1606(a), Dec. 23, 2016, 130 Stat. 2586, provided that:
 
 > **“(a) Pilot Program.—**
 
@@ -691,39 +691,39 @@ Pub. L. 113–291, div. A, title XVI, § 1605, Dec. 19, 2014, 128 Stat. 3623, 
 
 **Advance Billing for Fiscal Year 2006**
 
-Pub. L. 109–234, title I, § 1206, June 15, 2006, 120 Stat. 430, provided in part that: “Notwithstanding 10 U.S.C. 2208(*l*), the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense in fiscal year 2006 shall not exceed $1,200,000,000”.
+Pub. L. 109–234, title I, § 1206, June 15, 2006, 120 Stat. 430, provided in part that: “Notwithstanding 10 U.S.C. 2208(*l*), the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense in fiscal year 2006 shall not exceed $1,200,000,000”.
 
 **Advance Billing for Fiscal Year 2005**
 
-Pub. L. 109–13, div. A, title I, § 1005, May 11, 2005, 119 Stat. 243, provided that for fiscal year 2005, the limitation under subsec. (*l*)(3) of this section on the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense in a fiscal year would be applied by substituting “$1,500,000,000” for “$1,000,000,000”.
+Pub. L. 109–13, div. A, title I, § 1005, May 11, 2005, 119 Stat. 243, provided that for fiscal year 2005, the limitation under subsec. (*l*)(3) of this section on the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense in a fiscal year would be applied by substituting “$1,500,000,000” for “$1,000,000,000”.
 
 **Oversight of Defense Business Operations Fund**
 
-Pub. L. 103–337, div. A, title III, § 311(b)–(e), Oct. 5, 1994, 108 Stat. 2708, which related to purchase from other sources, limitation on inclusion of certain costs in DBOF charges, procedures for accumulation of funds, and annual reports and budget, was repealed and restated in section 2216a(d)(2)(B), (f) to (h)(3) of this title by Pub. L. 104–106, div. A, title III, § 371(a)(1), (b)(1), Feb. 10, 1996, 110 Stat. 277–279.
+Pub. L. 103–337, div. A, title III, § 311(b)–(e), Oct. 5, 1994, 108 Stat. 2708, which related to purchase from other sources, limitation on inclusion of certain costs in DBOF charges, procedures for accumulation of funds, and annual reports and budget, was repealed and restated in section 2216a(d)(2)(B), (f) to (h)(3) of this title by Pub. L. 104–106, div. A, title III, § 371(a)(1), (b)(1), Feb. 10, 1996, 110 Stat. 277–279.
 
-Pub. L. 103–337, div. A, title III, § 311(f), (g), Oct. 5, 1994, 108 Stat. 2709, required Secretary of Defense to submit to congressional defense committees, not later than Feb. 1, 1995, a report on progress made in implementing the Defense Business Operations Fund Improvement Plan, dated September 1993, and required Comptroller General to monitor and evaluate the Department of Defense implementation of the Plan and to report to congressional defense committees not later than Mar. 1, 1995.
+Pub. L. 103–337, div. A, title III, § 311(f), (g), Oct. 5, 1994, 108 Stat. 2709, required Secretary of Defense to submit to congressional defense committees, not later than Feb. 1, 1995, a report on progress made in implementing the Defense Business Operations Fund Improvement Plan, dated September 1993, and required Comptroller General to monitor and evaluate the Department of Defense implementation of the Plan and to report to congressional defense committees not later than Mar. 1, 1995.
 
 **Charges for Goods and Services Provided Through Defense Business Operations Fund**
 
-Pub. L. 103–160, div. A, title III, § 333(a), (b), Nov. 30, 1993, 107 Stat. 1621, which provided that charges for goods and services provided through Defense Business Operations Fund were to include amounts necessary to recover full costs of development, implementation, operation, and maintenance of systems supporting wholesale supply and maintenance activities of Department of Defense and use of military personnel in provision of goods and services, and were not to include amounts necessary to recover costs of military construction project other than minor construction project financed by Defense Business Operations Fund pursuant to section 2805(c)(1) of this title, and which required full cost of operation of Defense Finance Accounting Service to be financed within Defense Business Operations Fund through charges for goods and services provided through Fund, was repealed and restated in section 2216a(d)(1)(A), (C), (2)(A) of this title by Pub. L. 104–106, div. A, title III, § 371(a)(1), (b)(2), Feb. 10, 1996, 110 Stat. 277–279.
+Pub. L. 103–160, div. A, title III, § 333(a), (b), Nov. 30, 1993, 107 Stat. 1621, which provided that charges for goods and services provided through Defense Business Operations Fund were to include amounts necessary to recover full costs of development, implementation, operation, and maintenance of systems supporting wholesale supply and maintenance activities of Department of Defense and use of military personnel in provision of goods and services, and were not to include amounts necessary to recover costs of military construction project other than minor construction project financed by Defense Business Operations Fund pursuant to section 2805(c)(1) of this title, and which required full cost of operation of Defense Finance Accounting Service to be financed within Defense Business Operations Fund through charges for goods and services provided through Fund, was repealed and restated in section 2216a(d)(1)(A), (C), (2)(A) of this title by Pub. L. 104–106, div. A, title III, § 371(a)(1), (b)(2), Feb. 10, 1996, 110 Stat. 277–279.
 
 **Capital Asset Subaccount**
 
-Pub. L. 102–484, div. A, title III, § 342, Oct. 23, 1992, 106 Stat. 2376, as amended by Pub. L. 103–160, div. A, title III, § 333(c), Nov. 30, 1993, 107 Stat. 1622, which provided that charges for goods and services provided through the Defense Business Operations Fund include amounts for depreciation of capital assets which were to be credited to a separate capital asset subaccount in the Fund, authorized Secretary of Defense to award contracts for capital assets of the Fund in advance of availability of funds in the subaccount, required Secretary to submit annual reports to congressional defense committees, authorized appropriations to the Fund for fiscal years 1993 and 1994, and defined terms, was repealed and restated in section 2216a(d)(1)(B), (e), (h)(4), and (i) of this title by Pub. L. 104–106, div. A, title III, § 371(a)(1), (b)(3), Feb. 10, 1996, 110 Stat. 277–279.
+Pub. L. 102–484, div. A, title III, § 342, Oct. 23, 1992, 106 Stat. 2376, as amended by Pub. L. 103–160, div. A, title III, § 333(c), Nov. 30, 1993, 107 Stat. 1622, which provided that charges for goods and services provided through the Defense Business Operations Fund include amounts for depreciation of capital assets which were to be credited to a separate capital asset subaccount in the Fund, authorized Secretary of Defense to award contracts for capital assets of the Fund in advance of availability of funds in the subaccount, required Secretary to submit annual reports to congressional defense committees, authorized appropriations to the Fund for fiscal years 1993 and 1994, and defined terms, was repealed and restated in section 2216a(d)(1)(B), (e), (h)(4), and (i) of this title by Pub. L. 104–106, div. A, title III, § 371(a)(1), (b)(3), Feb. 10, 1996, 110 Stat. 277–279.
 
 **Limitations on Use of Defense Business Operations Fund**
 
-Pub. L. 102–190, div. A, title III, § 316, Dec. 5, 1991, 105 Stat. 1338, as amended by Pub. L. 102–484, div. A, title III, § 341, Oct. 23, 1992, 106 Stat. 2374; Pub. L. 103–160, div. A, title III, §§ 331, 332, Nov. 30, 1993, 107 Stat. 1620; Pub. L. 103–337, div. A, title III, § 311(a), Oct. 5, 1994, 108 Stat. 2708, which authorized Secretary of Defense to manage performance of certain working-capital funds established under this section, the Defense Finance and Accounting Service, the Defense Industrial Plan Equipment Center, the Defense Commissary Agency, the Defense Technical Information Service, the Defense Reutilization and Marketing Service, and certain activities funded through use of working-capital fund established under this section, directed Secretary to maintain separate accounting, reporting, and auditing of such funds and activities, required Secretary to submit to congressional defense committees, by not later than 30 days after Nov. 30, 1993, a comprehensive management plan and, by not later than Feb. 1, 1994, a progress report on plan’s implementation, and directed Comptroller General to monitor and evaluate the plan and submit to congressional defense committees, not later than Mar. 1, 1994, a report, was repealed and restated in section 2216a(a)–(c) of this title by Pub. L. 104–106, div. A, title III, § 371(a)(1), (b)(4), Feb. 10, 1996, 110 Stat. 277, 279.
+Pub. L. 102–190, div. A, title III, § 316, Dec. 5, 1991, 105 Stat. 1338, as amended by Pub. L. 102–484, div. A, title III, § 341, Oct. 23, 1992, 106 Stat. 2374; Pub. L. 103–160, div. A, title III, §§ 331, 332, Nov. 30, 1993, 107 Stat. 1620; Pub. L. 103–337, div. A, title III, § 311(a), Oct. 5, 1994, 108 Stat. 2708, which authorized Secretary of Defense to manage performance of certain working-capital funds established under this section, the Defense Finance and Accounting Service, the Defense Industrial Plan Equipment Center, the Defense Commissary Agency, the Defense Technical Information Service, the Defense Reutilization and Marketing Service, and certain activities funded through use of working-capital fund established under this section, directed Secretary to maintain separate accounting, reporting, and auditing of such funds and activities, required Secretary to submit to congressional defense committees, by not later than 30 days after Nov. 30, 1993, a comprehensive management plan and, by not later than Feb. 1, 1994, a progress report on plan’s implementation, and directed Comptroller General to monitor and evaluate the plan and submit to congressional defense committees, not later than Mar. 1, 1994, a report, was repealed and restated in section 2216a(a)–(c) of this title by Pub. L. 104–106, div. A, title III, § 371(a)(1), (b)(4), Feb. 10, 1996, 110 Stat. 277, 279.
 
 **Defense Business Operations Fund**
 
-Pub. L. 102–172, title VIII, § 8121, Nov. 26, 1991, 105 Stat. 1204, which established on the books of the Treasury a fund entitled the “Defense Business Operations Fund” to be operated as a working capital fund under the provisions of this section and to include certain existing organizations including the Defense Finance and Accounting Service, the Defense Commissary Agency, the Defense Technical Information Center, the Defense Reutilization and Marketing Service, and the Defense Industrial Plant Equipment Service, directed transfer of assets and balances of those organizations to the Fund, provided for budgeting and accounting of charges for supplies and services provided by the Fund, and directed that capital asset charges collected be credited to a subaccount of the Fund, was repealed by Pub. L. 104–106, div. A, title III, § 371(b)(5), Feb. 10, 1996, 110 Stat. 280.
+Pub. L. 102–172, title VIII, § 8121, Nov. 26, 1991, 105 Stat. 1204, which established on the books of the Treasury a fund entitled the “Defense Business Operations Fund” to be operated as a working capital fund under the provisions of this section and to include certain existing organizations including the Defense Finance and Accounting Service, the Defense Commissary Agency, the Defense Technical Information Center, the Defense Reutilization and Marketing Service, and the Defense Industrial Plant Equipment Service, directed transfer of assets and balances of those organizations to the Fund, provided for budgeting and accounting of charges for supplies and services provided by the Fund, and directed that capital asset charges collected be credited to a subaccount of the Fund, was repealed by Pub. L. 104–106, div. A, title III, § 371(b)(5), Feb. 10, 1996, 110 Stat. 280.
 
 **Sale of Inventories for Performance of Contracts With Defense Department**
 
-Pub. L. 96–154, title VII, § 767, Dec. 21, 1979, 93 Stat. 1163, which had provided that supplies available in inventories financed by working capital funds established pursuant to this section could, on and after Dec. 21, 1979, be sold to contractors for use in performing contracts with the Department of Defense, was repealed and restated in subsec. (h) of this section by Pub. L. 97–295, §§ 1(22), 6(b), Oct. 12, 1982, 96 Stat. 1290, 1315.
+Pub. L. 96–154, title VII, § 767, Dec. 21, 1979, 93 Stat. 1163, which had provided that supplies available in inventories financed by working capital funds established pursuant to this section could, on and after Dec. 21, 1979, be sold to contractors for use in performing contracts with the Department of Defense, was repealed and restated in subsec. (h) of this section by Pub. L. 97–295, §§ 1(22), 6(b), Oct. 12, 1982, 96 Stat. 1290, 1315.
 
-## § 2209. Management funds
+## § 2209. Management funds
 
 **(a)** To conduct economically and efficiently the operations of the Department of Defense that are financed by at least two appropriations but whose costs cannot be immediately distributed and charged to those appropriations, there is the Army Management Fund, the Navy Management Fund, and the Air Force Management Fund, each within its respective department and under the direction of the Secretary of that department. Each such fund shall consist of a corpus of $1,000,000 and such amounts as may be appropriated thereto from time to time. An account for an operation that is to be financed by such a fund may be established only with the approval of the Secretary of Defense.
 
@@ -731,19 +731,19 @@ Pub. L. 96–154, title VII, § 767, Dec. 21, 1979, 93 Stat. 1163, which had p
 
 **(c)** Notwithstanding any other provision of law, advances, by check or warrant, or reimbursements, may be made from available appropriations to a management fund on the basis of the estimated cost of a project. As adequate data becomes available, the estimated cost shall be revised and necessary adjustments made. Final adjustment shall be made with the appropriate funds for the fiscal year in which the advances or reimbursements are made. Except as otherwise provided by law, amounts advanced to management funds are available for obligation only during the fiscal year in which they are advanced.
 
-(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 522.)
+(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 522.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2209(a) 2209(b) 2209(c) | 5:172e(a), (b). 5:172e(c) (last sentence). 5:172e(c) (less last sentence). 5:172e(d). | July 3, 1942, ch. 484; restated Aug. 10, 1949, ch. 412, § 11 (16th through 19th pars.), 63 Stat. 588. |
+| 2209(a) 2209(b) 2209(c) | 5:172e(a), (b). 5:172e(c) (last sentence). 5:172e(c) (less last sentence). 5:172e(d). | July 3, 1942, ch. 484; restated Aug. 10, 1949, ch. 412, § 11 (16th through 19th pars.), 63 Stat. 588. |
 
 In subsection (a), the second sentence is substituted for the second sentence of 5 U.S.C. 172e(a) and the first sentence (less last 21 words) of 5 U.S.C. 172e(b) which are omitted as unnecessary.
 
 In subsection (c), the 13th through 33d words of 5 U.S.C. 172e(d) are omitted as surplusage.
 
-## § 2210. Proceeds of sales of supplies: credit to appropriations
+## § 2210. Proceeds of sales of supplies: credit to appropriations
 
 **(a)**
 
@@ -753,13 +753,13 @@ In subsection (c), the 13th through 33d words of 5 U.S.C. 172e(d) are omitted as
 
 **(b)** Obligations may, without regard to fiscal year limitations, be incurred against anticipated reimbursements to stock funds in such amounts and for such period as the Secretary of Defense, with the approval of the President, may determine to be necessary to maintain stock levels consistently with planned operations for the next fiscal year.
 
-(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 522; amended Pub. L. 96–513, title V, § 511(72), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 105–261, div. A, title X, § 1009, Oct. 17, 1998, 112 Stat. 2117.)
+(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 522; amended Pub. L. 96–513, title V, § 511(72), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 105–261, div. A, title X, § 1009, Oct. 17, 1998, 112 Stat. 2117.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2210(a) 2210(b) | 5:172d–1 (less proviso). 5:172d–1 (proviso). | Aug. 1, 1953, ch. 305, § 645, 67 Stat. 357. |
+| 2210(a) 2210(b) | 5:172d–1 (less proviso). 5:172d–1 (proviso). | Aug. 1, 1953, ch. 305, § 645, 67 Stat. 357. |
 
 In section (a), the words “proceeds of the disposal” are substituted for the words “moneys arising from the disposition”.
 
@@ -777,17 +777,17 @@ In section (a), the words “proceeds of the disposal” are substituted for the
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 2211. Reimbursement for equipment, material, or services furnished members of the United Nations
+## § 2211. Reimbursement for equipment, material, or services furnished members of the United Nations
 
 Amounts paid by members of the United Nations for equipment or materials furnished, or services performed, in joint military operations shall be credited to appropriate appropriations of the Department of Defense in the manner authorized by section 632(d) of the Foreign Assistance Act of 1961 (22 U.S.C. 2392(d)).
 
-(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 522; amended Pub. L. 96–513, title V, § 511(73), Dec. 12, 1980, 94 Stat. 2926.)
+(Added Pub. L. 87–651, title II, § 207(a), Sept. 7, 1962, 76 Stat. 522; amended Pub. L. 96–513, title V, § 511(73), Dec. 12, 1980, 94 Stat. 2926.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2211 | 5:171m–1. | Jan. 6, 1951, ch. 1213, § 703, 64 Stat. 1235. |
+| 2211 | 5:171m–1. | Jan. 6, 1951, ch. 1213, § 703, 64 Stat. 1235. |
 
 The reference to section 2392(d) of title 22 is substituted for the reference to section 1574(b) of that title to reflect section 542(b) of the Act of August 26, 1954, ch. 937 (68 Stat. 861) and section 642(a)(2) and (b) of the Act of September 4, 1961, Pub. L. 87–195 (75 Stat. 460).
 
@@ -803,17 +803,17 @@ The reference to section 2392(d) of title 22 is substituted for the reference to
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## [§ 2212. Renumbered § 3138]
+## [§ 2212. Renumbered § 3138]
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2212, added Pub. L. 100–370, § 1(d)(2)(A), July 19, 1988, 102 Stat. 842, directed Secretary of Defense to maintain within each military department an accounting procedure to aid in identification and control of expenditures for contracted advisory and assistance services, prior to repeal by Pub. L. 103–355, title II, § 2454(c)(1), Oct. 13, 1994, 108 Stat. 3326.
+A prior section 2212, added Pub. L. 100–370, § 1(d)(2)(A), July 19, 1988, 102 Stat. 842, directed Secretary of Defense to maintain within each military department an accounting procedure to aid in identification and control of expenditures for contracted advisory and assistance services, prior to repeal by Pub. L. 103–355, title II, § 2454(c)(1), Oct. 13, 1994, 108 Stat. 3326.
 
-Another prior section 2212, added Pub. L. 95–356, title VIII, § 802(a)(1), Sept. 8, 1978, 92 Stat. 585; amended Pub. L. 97–258, § 3(b)(5), Sept. 18, 1982, 96 Stat. 1063, related to transmission of annual military construction authorization request, prior to repeal by Pub. L. 97–214, § 7(1), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982, applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2859 of this title.
+Another prior section 2212, added Pub. L. 95–356, title VIII, § 802(a)(1), Sept. 8, 1978, 92 Stat. 585; amended Pub. L. 97–258, § 3(b)(5), Sept. 18, 1982, 96 Stat. 1063, related to transmission of annual military construction authorization request, prior to repeal by Pub. L. 97–214, § 7(1), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982, applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2859 of this title.
 
-## [§ 2213. Renumbered § 3070]
+## [§ 2213. Renumbered § 3070]
 
 **Editorial Notes**
 
@@ -821,7 +821,7 @@ Another prior section 2212, added Pub. L. 95–356, title VIII, § 802(a)(1), 
 
 A prior section 2213 was renumbered section 2350c of this title.
 
-## § 2214. Transfer of funds: procedure and limitations
+## § 2214. Transfer of funds: procedure and limitations
 
 **(a) Procedure for Transfer of Funds.—** Whenever authority is provided in an appropriation Act to transfer amounts in working capital funds or to transfer amounts provided in appropriation Acts for military functions of the Department of Defense (other than military construction) between such funds or appropriations (or any subdivision thereof), amounts transferred under such authority shall be merged with and be available for the same purposes and for the same time period as the fund or appropriations to which transferred.
 
@@ -839,7 +839,7 @@ A prior section 2213 was renumbered section 2350c of this title.
 
 **(2)** if the request would be for authority to reprogram amounts to an item for which the Congress has denied funds.
 
-(Added Pub. L. 101–510, div. A, title XIV, § 1482(c)(1), Nov. 5, 1990, 104 Stat. 1709.)
+(Added Pub. L. 101–510, div. A, title XIV, § 1482(c)(1), Nov. 5, 1990, 104 Stat. 1709.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -849,21 +849,21 @@ Section effective Oct. 1, 1991, see section 1482(d) of Pub. L. 101–510, set ou
 
 **Notification to Congress of Reprogramming Involving Military Construction Funds**
 
-Pub. L. 118–159, div. B, title XXVIII, § 2810, Dec. 23, 2024, 138 Stat. 2252, provided that: “The Secretary of Defense shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of any reprogramming of funds made available for military construction not later than 14 days after the date of such reprogramming.”
+Pub. L. 118–159, div. B, title XXVIII, § 2810, Dec. 23, 2024, 138 Stat. 2252, provided that: “The Secretary of Defense shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of any reprogramming of funds made available for military construction not later than 14 days after the date of such reprogramming.”
 
-## § 2215. Transfer of funds to other departments and agencies: limitation
+## § 2215. Transfer of funds to other departments and agencies: limitation
 
 Funds available for military functions of the Department of Defense may not be made available to any other department or agency of the Federal Government pursuant to a provision of law enacted after November 29, 1989, unless, not less than 30 days before such funds are made available to such other department or agency, the Secretary of Defense submits to the congressional defense committees a certification that making those funds available to such other department or agency is in the national security interest of the United States.
 
-(Added Pub. L. 103–160, div. A, title XI, § 1106(a)(1), Nov. 30, 1993, 107 Stat. 1750; amended Pub. L. 104–106, div. A, title XV, § 1502(a)(14), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title X, § 1084(b)(1), Oct. 28, 2004, 118 Stat. 2060.)
+(Added Pub. L. 103–160, div. A, title XI, § 1106(a)(1), Nov. 30, 1993, 107 Stat. 1750; amended Pub. L. 104–106, div. A, title XV, § 1502(a)(14), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title X, § 1084(b)(1), Oct. 28, 2004, 118 Stat. 2060.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2215, added Pub. L. 99–661, div. A, title XIII, § 1307(a)(1), Nov. 14, 1986, 100 Stat. 3980, related to reports on unobligated balances, prior to repeal by Pub. L. 101–510, div. A, title XIII, § 1301(7), Nov. 5, 1990, 104 Stat. 1668.
+A prior section 2215, added Pub. L. 99–661, div. A, title XIII, § 1307(a)(1), Nov. 14, 1986, 100 Stat. 3980, related to reports on unobligated balances, prior to repeal by Pub. L. 101–510, div. A, title XIII, § 1301(7), Nov. 5, 1990, 104 Stat. 1668.
 
-Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title XVI, § 1604, Nov. 29, 1989, 103 Stat. 1598, which was set out as a note under section 1531 of Title 31, Money and Finance, prior to repeal by Pub. L. 103–160, § 1106(b).
+Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title XVI, § 1604, Nov. 29, 1989, 103 Stat. 1598, which was set out as a note under section 1531 of Title 31, Money and Finance, prior to repeal by Pub. L. 103–160, § 1106(b).
 
 **Amendments**
 
@@ -877,17 +877,17 @@ Provisions similar to those in this section were contained in Pub. L. 101–189,
 
 1996—Pub. L. 104–106 designated existing provisions as subsec. (a), inserted heading, substituted “to the congressional committees specified in subsection (b)” for “to the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives”, and added subsec. (b).
 
-## [§ 2216. Renumbered § 3136]
+## [§ 2216. Renumbered § 3136]
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2216, added Pub. L. 104–106, div. A, title III, § 371(a)(1), Feb. 10, 1996, 110 Stat. 277, was renumbered section 2216a of this title and subsequently repealed.
+A prior section 2216, added Pub. L. 104–106, div. A, title III, § 371(a)(1), Feb. 10, 1996, 110 Stat. 277, was renumbered section 2216a of this title and subsequently repealed.
 
-Another prior section 2216, added Pub. L. 99–661, div. A, title XIII, § 1307(a)(1), Nov. 14, 1986, 100 Stat. 3980, related to annual reports on budgeting for inflation, prior to repeal by Pub. L. 101–510, div. A, title XIII, § 1301(8), Nov. 5, 1990, 104 Stat. 1668.
+Another prior section 2216, added Pub. L. 99–661, div. A, title XIII, § 1307(a)(1), Nov. 14, 1986, 100 Stat. 3980, related to annual reports on budgeting for inflation, prior to repeal by Pub. L. 101–510, div. A, title XIII, § 1301(8), Nov. 5, 1990, 104 Stat. 1668.
 
-## § 2216a. Rapidly meeting urgent needs: Joint Urgent Operational Needs Fund
+## § 2216a. Rapidly meeting urgent needs: Joint Urgent Operational Needs Fund
 
 **(a) Establishment.—** There is established in the Treasury an account to be known as the “Joint Urgent Operational Needs Fund” (in this section referred to as the “Fund”).
 
@@ -925,17 +925,17 @@ Another prior section 2216, added Pub. L. 99–661, div. A, title XIII, § 130
 
 **(e) Sunset.—** The authority to make expenditures or transfers from the Fund shall expire on September 30, 2018.
 
-(Added Pub. L. 112–81, div. A, title VIII, § 846(a)(1), Dec. 31, 2011, 125 Stat. 1516; amended Pub. L. 112–239, div. A, title X, § 1076(e)(2), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 113–291, div. A, title VIII, § 860, Dec. 19, 2014, 128 Stat. 3461; Pub. L. 117–263, div. A, title VIII, § 804(d)(1), Dec. 23, 2022, 136 Stat. 2701.)
+(Added Pub. L. 112–81, div. A, title VIII, § 846(a)(1), Dec. 31, 2011, 125 Stat. 1516; amended Pub. L. 112–239, div. A, title X, § 1076(e)(2), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 113–291, div. A, title VIII, § 860, Dec. 19, 2014, 128 Stat. 3461; Pub. L. 117–263, div. A, title VIII, § 804(d)(1), Dec. 23, 2022, 136 Stat. 2701.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2216a, added Pub. L. 104–106, div. A, title III, § 371(a)(1), Feb. 10, 1996, 110 Stat. 277, § 2216; renumbered § 2216a and amended Pub. L. 104–201, div. A, title III, §§ 363(c), 364, title X, § 1074(a)(10), Sept. 23, 1996, 110 Stat. 2493, 2494, 2659, related to Defense Business Operations Fund, prior to repeal by Pub. L. 105–261, div. A, title X, § 1008(b), Oct. 17, 1998, 112 Stat. 2117.
+A prior section 2216a, added Pub. L. 104–106, div. A, title III, § 371(a)(1), Feb. 10, 1996, 110 Stat. 277, § 2216; renumbered § 2216a and amended Pub. L. 104–201, div. A, title III, §§ 363(c), 364, title X, § 1074(a)(10), Sept. 23, 1996, 110 Stat. 2493, 2494, 2659, related to Defense Business Operations Fund, prior to repeal by Pub. L. 105–261, div. A, title X, § 1008(b), Oct. 17, 1998, 112 Stat. 2117.
 
 **Amendments**
 
-2022—Subsec. (c)(1). Pub. L. 117–263 substituted “Department of Defense Instruction 5000.81 (or any successor instruction), dated December 31, 2019, and titled ‘Urgent Capability Acquisition’ ” for “section 804(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (10 U.S.C. 2302 note)”.
+2022—Subsec. (c)(1). Pub. L. 117–263 substituted “Department of Defense Instruction 5000.81 (or any successor instruction), dated December 31, 2019, and titled ‘Urgent Capability Acquisition’ ” for “section 804(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (10 U.S.C. 2302 note)”.
 
 2014—Subsec. (e). Pub. L. 113–291 substituted “September 30, 2018” for “September 30, 2015”.
 
@@ -945,11 +945,11 @@ A prior section 2216a, added Pub. L. 104–106, div. A, title III, § 371(a)(1
 
 **Limitation on Commencement of Expenditures From Fund**
 
-Pub. L. 112–81, div. A, title VIII, § 846(b), Dec. 31, 2011, 125 Stat. 1517, provided that: “No expenditure may be made from the Joint Urgent Operational Needs Fund established by section 2216a of title 10, United States Code (as added by subsection (a)), until the Secretary of Defense certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that the Secretary has developed and implemented an expedited review process in compliance with the requirements of section 804 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4256; 10 U.S.C. 2302 note).”
+Pub. L. 112–81, div. A, title VIII, § 846(b), Dec. 31, 2011, 125 Stat. 1517, provided that: “No expenditure may be made from the Joint Urgent Operational Needs Fund established by section 2216a of title 10, United States Code (as added by subsection (a)), until the Secretary of Defense certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that the Secretary has developed and implemented an expedited review process in compliance with the requirements of section 804 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4256; 10 U.S.C. 2302 note).”
 
-## [§ 2217. Renumbered § 3135]
+## [§ 2217. Renumbered § 3135]
 
-## § 2218. National Defense Sealift Fund
+## § 2218. National Defense Sealift Fund
 
 **(a) Establishment.—** There is established in the Treasury of the United States a fund to be known as the “National Defense Sealift Fund”.
 
@@ -1107,7 +1107,7 @@ Pub. L. 112–81, div. A, title VIII, § 846(b), Dec. 31, 2011, 125 Stat. 1517
 
 **(5)** The term “Maritime Security Fleet” means the fleet established under section 53102(a) of title 46.
 
-(Added Pub. L. 102–484, div. A, title X, § 1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896; Pub. L. 104–106, div. A, title X, § 1014(a), title XV, § 1502(a)(15), Feb. 10, 1996, 110 Stat. 423, 503; Pub. L. 106–65, div. A, title X, §§ 1014(b), 1015, 1067(1), Oct. 5, 1999, 113 Stat. 742, 743, 774; Pub. L. 106–398, § 1 [[div. A], title X, § 1011], Oct. 30, 2000, 114 Stat. 1654, 1654A–251; Pub. L. 107–107, div. A, title X, § 1048(e)(9), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 108–136, div. A, title X, § 1043(b)(9), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 109–163, div. A, title X, § 1018(d), Jan. 6, 2006, 119 Stat. 3426; Pub. L. 109–304, § 17(a)(2), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 110–417, [div. A], title XIV, § 1407, Oct. 14, 2008, 122 Stat. 4647; Pub. L. 114–328, div. A, title X, § 1081(b)(5), Dec. 23, 2016, 130 Stat. 2419; Pub. L. 115–91, div. A, title X, § 1021(a)–(c), div. C, title XXXV, § 3502(b)(1), Dec. 12, 2017, 131 Stat. 1546, 1547, 1910; Pub. L. 115–232, div. A, title VIII, § 809(a), title X, §§ 1012, 1013, Aug. 13, 2018, 132 Stat. 1840, 1947, 1948; Pub. L. 116–92, div. A, title X, § 1031(a), Dec. 20, 2019, 133 Stat. 1579; Pub. L. 116–283, div. A, title X, § 1022, title XVIII, § 1806(e)(1)(A), Jan. 1, 2021, 134 Stat. 3840, 4155; Pub. L. 118–159, div. A, title X, § 1022, Dec. 23, 2024, 138 Stat. 2052; Pub. L. 119–60, div. A, title X, § 1022, title XVII, § 1701(a)(17), Dec. 18, 2025, 139 Stat. 1034, 1209.)
+(Added Pub. L. 102–484, div. A, title X, § 1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896; Pub. L. 104–106, div. A, title X, § 1014(a), title XV, § 1502(a)(15), Feb. 10, 1996, 110 Stat. 423, 503; Pub. L. 106–65, div. A, title X, §§ 1014(b), 1015, 1067(1), Oct. 5, 1999, 113 Stat. 742, 743, 774; Pub. L. 106–398, § 1 [[div. A], title X, § 1011], Oct. 30, 2000, 114 Stat. 1654, 1654A–251; Pub. L. 107–107, div. A, title X, § 1048(e)(9), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 108–136, div. A, title X, § 1043(b)(9), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 109–163, div. A, title X, § 1018(d), Jan. 6, 2006, 119 Stat. 3426; Pub. L. 109–304, § 17(a)(2), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 110–417, [div. A], title XIV, § 1407, Oct. 14, 2008, 122 Stat. 4647; Pub. L. 114–328, div. A, title X, § 1081(b)(5), Dec. 23, 2016, 130 Stat. 2419; Pub. L. 115–91, div. A, title X, § 1021(a)–(c), div. C, title XXXV, § 3502(b)(1), Dec. 12, 2017, 131 Stat. 1546, 1547, 1910; Pub. L. 115–232, div. A, title VIII, § 809(a), title X, §§ 1012, 1013, Aug. 13, 2018, 132 Stat. 1840, 1947, 1948; Pub. L. 116–92, div. A, title X, § 1031(a), Dec. 20, 2019, 133 Stat. 1579; Pub. L. 116–283, div. A, title X, § 1022, title XVIII, § 1806(e)(1)(A), Jan. 1, 2021, 134 Stat. 3840, 4155; Pub. L. 118–159, div. A, title X, § 1022, Dec. 23, 2024, 138 Stat. 2052; Pub. L. 119–60, div. A, title X, § 1022, title XVII, § 1701(a)(17), Dec. 18, 2025, 139 Stat. 1034, 1209.)
 
 **Editorial Notes**
 
@@ -1121,67 +1121,67 @@ Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896, provided that section 
 
 **Amendments**
 
-2025—Subsec. (c)(1)(D). Pub. L. 119–60, § 1701(a)(17), substituted “section 57100 of title 46” for “section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. 4405)”.
+2025—Subsec. (c)(1)(D). Pub. L. 119–60, § 1701(a)(17), substituted “section 57100 of title 46” for “section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. 4405)”.
 
-Subsec. (f)(3)(C). Pub. L. 119–60, § 1022, substituted “12” for “10”.
+Subsec. (f)(3)(C). Pub. L. 119–60, § 1022, substituted “12” for “10”.
 
-Subsec. (k)(3)(B). Pub. L. 119–60, § 1701(a)(17), substituted “section 57100 of title 46” for “section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. 4405)”.
+Subsec. (k)(3)(B). Pub. L. 119–60, § 1701(a)(17), substituted “section 57100 of title 46” for “section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. 4405)”.
 
-2024—Subsec. (f)(3)(A). Pub. L. 118–159, § 1022(1)(A), substituted “subsection (c)(1)(D)” for “subsection (c)(1)(E)”.
+2024—Subsec. (f)(3)(A). Pub. L. 118–159, § 1022(1)(A), substituted “subsection (c)(1)(D)” for “subsection (c)(1)(E)”.
 
-Subsec. (f)(3)(C). Pub. L. 118–159, § 1022(1)(B), substituted “10” for “nine”.
+Subsec. (f)(3)(C). Pub. L. 118–159, § 1022(1)(B), substituted “10” for “nine”.
 
-Subsec. (i). Pub. L. 118–159, § 1022(2), substituted “subsection (c)(1)(D)” for “subsection (c)(1)(E)”.
+Subsec. (i). Pub. L. 118–159, § 1022(2), substituted “subsection (c)(1)(D)” for “subsection (c)(1)(E)”.
 
-2021—Subsec. (f)(3)(C). Pub. L. 116–283, § 1022(1), substituted “nine” for “seven”.
+2021—Subsec. (f)(3)(C). Pub. L. 116–283, § 1022(1), substituted “nine” for “seven”.
 
-Subsec. (f)(3)(E). Pub. L. 116–283, § 1022(2)(A), substituted “four” for “two” in introductory provisions.
+Subsec. (f)(3)(E). Pub. L. 116–283, § 1022(2)(A), substituted “four” for “two” in introductory provisions.
 
-Subsec. (f)(3)(E)(ii). Pub. L. 116–283, § 1022(2)(B), substituted “2028” for “2026”.
+Subsec. (f)(3)(E)(ii). Pub. L. 116–283, § 1022(2)(B), substituted “2028” for “2026”.
 
-Subsec. (f)(3)(G). Pub. L. 116–283, § 1022(3), substituted “subparagraph (F)” for “subparagraph (E)”.
+Subsec. (f)(3)(G). Pub. L. 116–283, § 1022(3), substituted “subparagraph (F)” for “subparagraph (E)”.
 
-Subsec. (k)(4). Pub. L. 116–283, § 1806(e)(1)(A), substituted “section 3004” for “section 2302(1)”.
+Subsec. (k)(4). Pub. L. 116–283, § 1806(e)(1)(A), substituted “section 3004” for “section 2302(1)”.
 
-2019—Subsec. (f)(3)(E)(i). Pub. L. 116–92, § 1031(a)(1), substituted “ten new vessels that are sealift vessels, auxiliary vessels, or a combination of such vessels” for “ten new sealift vessels”.
+2019—Subsec. (f)(3)(E)(i). Pub. L. 116–92, § 1031(a)(1), substituted “ten new vessels that are sealift vessels, auxiliary vessels, or a combination of such vessels” for “ten new sealift vessels”.
 
-Subsec. (f)(3)(E)(ii). Pub. L. 116–92, § 1031(a)(2), struck out “sealift” before “vessels”.
+Subsec. (f)(3)(E)(ii). Pub. L. 116–92, § 1031(a)(2), struck out “sealift” before “vessels”.
 
-2018—Subsec. (d)(3). Pub. L. 115–232, § 809(a), substituted “section 1424(c) of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 8661 note)” for “section 1424(c) of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 7291 note)”.
+2018—Subsec. (d)(3). Pub. L. 115–232, § 809(a), substituted “section 1424(c) of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 8661 note)” for “section 1424(c) of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 7291 note)”.
 
-Subsec. (f)(3)(C). Pub. L. 115–232, § 1012(1), substituted “seven” for “two” and “vessels” for “ships”.
+Subsec. (f)(3)(C). Pub. L. 115–232, § 1012(1), substituted “seven” for “two” and “vessels” for “ships”.
 
-Subsec. (f)(3)(E). Pub. L. 115–232, § 1012(3), added subpar. (E). Former subpar. (E) redesignated (F).
+Subsec. (f)(3)(E). Pub. L. 115–232, § 1012(3), added subpar. (E). Former subpar. (E) redesignated (F).
 
-Subsec. (f)(3)(F). Pub. L. 115–232, §§ 1012(2), 1013(1)(A), redesignated subpar. (E) as (F) and substituted “30 days before” for “30 days after” in introductory provisions.
+Subsec. (f)(3)(F). Pub. L. 115–232, §§ 1012(2), 1013(1)(A), redesignated subpar. (E) as (F) and substituted “30 days before” for “30 days after” in introductory provisions.
 
-Subsec. (f)(3)(F)(i). Pub. L. 115–232, § 1013(1)(B), inserted “proposed” before “date”.
+Subsec. (f)(3)(F)(i). Pub. L. 115–232, § 1013(1)(B), inserted “proposed” before “date”.
 
-Subsec. (f)(3)(F)(ii). Pub. L. 115–232, § 1013(1)(C), substituted “would be purchased.” for “was purchased.”
+Subsec. (f)(3)(F)(ii). Pub. L. 115–232, § 1013(1)(C), substituted “would be purchased.” for “was purchased.”
 
-Subsec. (f)(3)(F)(viii). Pub. L. 115–232, § 1013(1)(D), added cl. (viii).
+Subsec. (f)(3)(F)(viii). Pub. L. 115–232, § 1013(1)(D), added cl. (viii).
 
-Subsec. (f)(3)(G). Pub. L. 115–232, § 1013(2), added subpar. (G).
+Subsec. (f)(3)(G). Pub. L. 115–232, § 1013(2), added subpar. (G).
 
-2017—Subsec. (c)(1)(D), (E). Pub. L. 115–91, § 1021(a)(1)(A), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: “Research and development relating to national defense sealift.”
+2017—Subsec. (c)(1)(D), (E). Pub. L. 115–91, § 1021(a)(1)(A), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: “Research and development relating to national defense sealift.”
 
-Subsec. (c)(3). Pub. L. 115–91, § 1021(a)(1)(B), struck out “or (D)” after “subparagraph (B)”.
+Subsec. (c)(3). Pub. L. 115–91, § 1021(a)(1)(B), struck out “or (D)” after “subparagraph (B)”.
 
-Subsec. (d)(1)(D). Pub. L. 115–91, § 1021(a)(2)(A), struck out subpar. (D) which read as follows: “research and development relating to national defense sealift.”
+Subsec. (d)(1)(D). Pub. L. 115–91, § 1021(a)(2)(A), struck out subpar. (D) which read as follows: “research and development relating to national defense sealift.”
 
-Subsec. (d)(4). Pub. L. 115–91, § 1021(a)(2)(B), added par. (4).
+Subsec. (d)(4). Pub. L. 115–91, § 1021(a)(2)(B), added par. (4).
 
-Subsec. (f)(3). Pub. L. 115–91, § 1021(b), added par. (3).
+Subsec. (f)(3). Pub. L. 115–91, § 1021(b), added par. (3).
 
-Subsec. (i). Pub. L. 115–91, § 3502(b)(1), substituted “section 57100 of title 46” for “section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744)”.
+Subsec. (i). Pub. L. 115–91, § 3502(b)(1), substituted “section 57100 of title 46” for “section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744)”.
 
-Subsec. (k)(5). Pub. L. 115–91, § 1021(c), added par. (5).
+Subsec. (k)(5). Pub. L. 115–91, § 1021(c), added par. (5).
 
 2016—Subsecs. (c)(1)(E), (k)(3)(B). Pub. L. 114–328 substituted “(50 U.S.C. 4405)” for “(50 U.S.C. App. 1744)”.
 
-2008—Subsecs. (j), (k). Pub. L. 110–417, § 1407(1), redesignated subsecs. (k) and (*l*) as (j) and (k), respectively, and struck out heading and text of former subsec. (j). Text read as follows: “Upon a determination by the Secretary of Defense that such action serves the national defense interest and after consultation with the congressional defense committees, the Secretary may use funds available for obligation or expenditure for a purpose specified under subsection (c)(1)(A), (B), (C), and (D) for any purpose under subsection (c)(1).”
+2008—Subsecs. (j), (k). Pub. L. 110–417, § 1407(1), redesignated subsecs. (k) and (*l*) as (j) and (k), respectively, and struck out heading and text of former subsec. (j). Text read as follows: “Upon a determination by the Secretary of Defense that such action serves the national defense interest and after consultation with the congressional defense committees, the Secretary may use funds available for obligation or expenditure for a purpose specified under subsection (c)(1)(A), (B), (C), and (D) for any purpose under subsection (c)(1).”
 
-Subsec. (k)(2)(B) to (I). Pub. L. 110–417, § 1407(2), added subpar. (B) and struck out former subpars. (B) to (I) which read as follows:
+Subsec. (k)(2)(B) to (I). Pub. L. 110–417, § 1407(2), added subpar. (B) and struck out former subpars. (B) to (I) which read as follows:
 
 “(B) A maritime prepositioning ship.
 
@@ -1199,11 +1199,11 @@ Subsec. (k)(2)(B) to (I). Pub. L. 110–417, § 1407(2), added subpar. (B) and
 
 “(I) Any other auxiliary support vessel.”
 
-Subsec. (*l*). Pub. L. 110–417, § 1407(1), redesignated subsec. (*l*) as (k).
+Subsec. (*l*). Pub. L. 110–417, § 1407(1), redesignated subsec. (*l*) as (k).
 
 2006—Subsec. (d)(2). Pub. L. 109–304 substituted “sections 57101–57104 and chapter 573 of title 46” for “sections 508 and 510 of the Merchant Marine Act of 1936 (46 U.S.C. App. 1158, 1160), shall be deposited in the Fund”.
 
-Subsec. (f)(1). Pub. L. 109–163 substituted “A vessel built in a foreign ship yard may not be” for “Not more than a total of five vessels built in foreign ship yards may be” and inserted “, unless specifically authorized by law” before period at end.
+Subsec. (f)(1). Pub. L. 109–163 substituted “A vessel built in a foreign ship yard may not be” for “Not more than a total of five vessels built in foreign ship yards may be” and inserted “, unless specifically authorized by law” before period at end.
 
 2003—Subsec. (*l*)(4), (5). Pub. L. 108–136 redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘congressional defense committees’ means—
 
@@ -1213,39 +1213,39 @@ Subsec. (f)(1). Pub. L. 109–163 substituted “A vessel built in a foreign shi
 
 2001—Subsec. (d)(1). Pub. L. 107–107 struck out “for fiscal years after fiscal year 1993” after “Department of Defense” in introductory provisions.
 
-2000—Subsec. (k)(1). Pub. L. 106–398, § 1 [[div. A], title X, § 1011(1)], inserted at end “As consideration for a contract with the head of an agency under this subsection, the company entering into the contract shall agree with the Secretary of Defense to make any vessel covered by the contract available to the Secretary, fully crewed and ready for sea, at any time at any port determined by the Secretary, and for whatever duration the Secretary determines necessary.”
+2000—Subsec. (k)(1). Pub. L. 106–398, § 1 [[div. A], title X, § 1011(1)], inserted at end “As consideration for a contract with the head of an agency under this subsection, the company entering into the contract shall agree with the Secretary of Defense to make any vessel covered by the contract available to the Secretary, fully crewed and ready for sea, at any time at any port determined by the Secretary, and for whatever duration the Secretary determines necessary.”
 
-Subsec. (k)(2)(E). Pub. L. 106–398, § 1 [[div. A], title X, § 1011(2)], added subpar. (E).
+Subsec. (k)(2)(E). Pub. L. 106–398, § 1 [[div. A], title X, § 1011(2)], added subpar. (E).
 
-Subsec. (k)(6). Pub. L. 106–398, § 1 [[div. A], title X, § 1011(3)], added par. (6).
+Subsec. (k)(6). Pub. L. 106–398, § 1 [[div. A], title X, § 1011(3)], added par. (6).
 
-1999—Subsec. (k). Pub. L. 106–65, § 1015(a)(2), added subsec. (k). Former subsec. (k) redesignated (*l*).
+1999—Subsec. (k). Pub. L. 106–65, § 1015(a)(2), added subsec. (k). Former subsec. (k) redesignated (*l*).
 
-Subsec. (k)(2). Pub. L. 106–65, § 1014(b), substituted “that is any of the following:” for “that is—” in introductory provisions, substituted “A” for “a” and a period for the semicolon in subpars. (A) and (B), “An” for “an” and a period for the semicolon in subpar. (C), “An” for “an” and a period for “; or” in subpar. (D), and “A” for “a” in subpar. (E), and added subpars. (F) to (I).
+Subsec. (k)(2). Pub. L. 106–65, § 1014(b), substituted “that is any of the following:” for “that is—” in introductory provisions, substituted “A” for “a” and a period for the semicolon in subpars. (A) and (B), “An” for “an” and a period for the semicolon in subpar. (C), “An” for “an” and a period for “; or” in subpar. (D), and “A” for “a” in subpar. (E), and added subpars. (F) to (I).
 
-Subsec. (*l*). Pub. L. 106–65, § 1015(a)(1), redesignated subsec. (k) as (*l*).
+Subsec. (*l*). Pub. L. 106–65, § 1015(a)(1), redesignated subsec. (k) as (*l*).
 
-Subsec. (*l*)(4)(B). Pub. L. 106–65, § 1067(1), substituted “Committee on Armed Services” for “Committee on National Security”.
+Subsec. (*l*)(4)(B). Pub. L. 106–65, § 1067(1), substituted “Committee on Armed Services” for “Committee on National Security”.
 
-Subsec. (*l*)(5). Pub. L. 106–65, § 1015(b), added par. (5).
+Subsec. (*l*)(5). Pub. L. 106–65, § 1015(b), added par. (5).
 
-1996—Subsec. (c)(1). Pub. L. 104–106, § 1014(a)(1)(A), substituted “only for the following purposes:” for “only for—”.
+1996—Subsec. (c)(1). Pub. L. 104–106, § 1014(a)(1)(A), substituted “only for the following purposes:” for “only for—”.
 
-Subsec. (c)(1)(A). Pub. L. 104–106, § 1014(a)(1)(B), (C), substituted “Construction” for “construction” and “vessels.” for “vessels;”.
+Subsec. (c)(1)(A). Pub. L. 104–106, § 1014(a)(1)(B), (C), substituted “Construction” for “construction” and “vessels.” for “vessels;”.
 
-Subsec. (c)(1)(B). Pub. L. 104–106, § 1014(a)(1)(B), (C), substituted “Operation” for “operation” and “purposes.” for “purposes;”.
+Subsec. (c)(1)(B). Pub. L. 104–106, § 1014(a)(1)(B), (C), substituted “Operation” for “operation” and “purposes.” for “purposes;”.
 
-Subsec. (c)(1)(C). Pub. L. 104–106, § 1014(a)(1)(B), (D), substituted “Installation” for “installation” and “States.” for “States; and”.
+Subsec. (c)(1)(C). Pub. L. 104–106, § 1014(a)(1)(B), (D), substituted “Installation” for “installation” and “States.” for “States; and”.
 
-Subsec. (c)(1)(D). Pub. L. 104–106, § 1014(a)(1)(B), substituted “Research” for “research”.
+Subsec. (c)(1)(D). Pub. L. 104–106, § 1014(a)(1)(B), substituted “Research” for “research”.
 
-Subsec. (c)(1)(E). Pub. L. 104–106, § 1014(a)(1)(E), added subpar. (E).
+Subsec. (c)(1)(E). Pub. L. 104–106, § 1014(a)(1)(E), added subpar. (E).
 
-Subsec. (i). Pub. L. 104–106, § 1014(a)(2), inserted “(other than subsection (c)(1)(E))” after “Nothing in this section”.
+Subsec. (i). Pub. L. 104–106, § 1014(a)(2), inserted “(other than subsection (c)(1)(E))” after “Nothing in this section”.
 
-Subsec. (j). Pub. L. 104–106, § 1502(a)(15)(A), substituted “the congressional defense committees” for “the Committees on Armed Services and on Appropriations of the Senate and the House of Representatives”.
+Subsec. (j). Pub. L. 104–106, § 1502(a)(15)(A), substituted “the congressional defense committees” for “the Committees on Armed Services and on Appropriations of the Senate and the House of Representatives”.
 
-Subsec. (k)(4). Pub. L. 104–106, § 1502(a)(15)(B), added par. (4).
+Subsec. (k)(4). Pub. L. 104–106, § 1502(a)(15)(B), added par. (4).
 
 1992—Subsec. (c)(2). Pub. L. 102–396 substituted “in amounts authorized by law” for “for programs, projects, and activities and only in amounts authorized in, or otherwise permitted under, an Act other than an appropriations Act”. See Codification note above.
 
@@ -1257,7 +1257,7 @@ Amendment by section 1806(e)(1)(A) of Pub. L. 116–283 effective Jan. 1, 2022, 
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title X, § 1031(b), Dec. 20, 2019, 133 Stat. 1579, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2019, and shall apply with respect to fiscal years beginning on or after that date.”
+Pub. L. 116–92, div. A, title X, § 1031(b), Dec. 20, 2019, 133 Stat. 1579, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2019, and shall apply with respect to fiscal years beginning on or after that date.”
 
 **Effective Date of 2018 Amendment**
 
@@ -1269,9 +1269,9 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (h) of this s
 
 **Compliance by Ready Reserve Fleet Vessels With SOLAS Lifeboats and Fire Suppression Requirements**
 
-Pub. L. 115–232, div. C, title XXXV, § 3502, Aug. 13, 2018, 132 Stat. 2308, provided that: “The Secretary of Defense shall, consistent with section 2244a of title 10, United States Code, use authority under section 2218 of such title to make such modifications to Ready Reserve Fleet vessels as are necessary for such vessels to comply [with] requirements for lifeboats and fire suppression under the International Convention for the Safety of Life at Sea by not later than October 1, 2021.”
+Pub. L. 115–232, div. C, title XXXV, § 3502, Aug. 13, 2018, 132 Stat. 2308, provided that: “The Secretary of Defense shall, consistent with section 2244a of title 10, United States Code, use authority under section 2218 of such title to make such modifications to Ready Reserve Fleet vessels as are necessary for such vessels to comply [with] requirements for lifeboats and fire suppression under the International Convention for the Safety of Life at Sea by not later than October 1, 2021.”
 
-## § 2218a. National Sea-Based Deterrence Fund
+## § 2218a. National Sea-Based Deterrence Fund
 
 **(a) Establishment.—** There is established in the Treasury of the United States a fund to be known as the “National Sea-Based Deterrence Fund”.
 
@@ -1379,7 +1379,7 @@ Pub. L. 115–232, div. C, title XXXV, § 3502, Aug. 13, 2018, 132 Stat. 2308,
 
 **(Z)** Hatches and hull penetrators.
 
-(Added Pub. L. 113–291, div. A, title X, § 1022(a)(1), Dec. 19, 2014, 128 Stat. 3486; amended Pub. L. 114–92, div. A, title X, § 1022(a), Nov. 25, 2015, 129 Stat. 965; Pub. L. 114–328, div. A, title X, § 1023, Dec. 23, 2016, 130 Stat. 2388; Pub. L. 115–91, div. A, title X, § 1022, Dec. 12, 2017, 131 Stat. 1548; Pub. L. 116–283, div. A, title X, § 1023(a), Jan. 1, 2021, 134 Stat. 3840; Pub. L. 118–31, div. A, title X, § 1016, Dec. 22, 2023, 137 Stat. 382.)
+(Added Pub. L. 113–291, div. A, title X, § 1022(a)(1), Dec. 19, 2014, 128 Stat. 3486; amended Pub. L. 114–92, div. A, title X, § 1022(a), Nov. 25, 2015, 129 Stat. 965; Pub. L. 114–328, div. A, title X, § 1023, Dec. 23, 2016, 130 Stat. 2388; Pub. L. 115–91, div. A, title X, § 1022, Dec. 12, 2017, 131 Stat. 1548; Pub. L. 116–283, div. A, title X, § 1023(a), Jan. 1, 2021, 134 Stat. 3840; Pub. L. 118–31, div. A, title X, § 1016, Dec. 22, 2023, 137 Stat. 382.)
 
 **Editorial Notes**
 
@@ -1389,25 +1389,25 @@ Pub. L. 115–232, div. C, title XXXV, § 3502, Aug. 13, 2018, 132 Stat. 2308,
 
 2021—Subsec. (h)(1). Pub. L. 116–283 substituted “incrementally funded contracts for—” for “incrementally funded contracts for advance procurement of high value, long lead time items for nuclear powered vessels to better support construction schedules and achieve cost savings through schedule reductions and properly phased installment payments.” and added subpars. (A) and (B).
 
-2017—Subsec. (i). Pub. L. 115–91, § 1022(c), struck out “of the Common Missile Compartment” after “Continuous Production” in heading.
+2017—Subsec. (i). Pub. L. 115–91, § 1022(c), struck out “of the Common Missile Compartment” after “Continuous Production” in heading.
 
-Subsec. (i)(1). Pub. L. 115–91, § 1022(a)(2), substituted “equivalent critical components” for “equivalent critical parts, components, systems, and subsystems”.
+Subsec. (i)(1). Pub. L. 115–91, § 1022(a)(2), substituted “equivalent critical components” for “equivalent critical parts, components, systems, and subsystems”.
 
-Pub. L. 115–91, § 1022(a)(1), which directed the substitution of “critical components” for “the common missile compartment” wherever appearing, was executed by making the substitution for “the common missile compartment” the first time appearing and for “the common missile compartments” the second time appearing, to reflect the probable intent of Congress.
+Pub. L. 115–91, § 1022(a)(1), which directed the substitution of “critical components” for “the common missile compartment” wherever appearing, was executed by making the substitution for “the common missile compartment” the first time appearing and for “the common missile compartments” the second time appearing, to reflect the probable intent of Congress.
 
-Subsec. (i)(2). Pub. L. 115–91, § 1022(a)(1), substituted “critical components” for “the common missile compartment”.
+Subsec. (i)(2). Pub. L. 115–91, § 1022(a)(1), substituted “critical components” for “the common missile compartment”.
 
-Subsec. (k)(3). Pub. L. 115–91, § 1022(b), added par. (3).
+Subsec. (k)(3). Pub. L. 115–91, § 1022(b), added par. (3).
 
-2016—Subsecs. (i), (j). Pub. L. 114–328, § 1023(a), added subsec. (i) and redesignated former subsec. (i) as (j). Former subsec. (j) redesignated (k).
+2016—Subsecs. (i), (j). Pub. L. 114–328, § 1023(a), added subsec. (i) and redesignated former subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 114–328, § 1023(a)(1), redesignated subsec. (j) as (k).
+Subsec. (k). Pub. L. 114–328, § 1023(a)(1), redesignated subsec. (j) as (k).
 
-Subsec. (k)(2). Pub. L. 114–328, § 1023(b), substituted “any submersible vessel constructed or purchased after fiscal year 2016 that is” for “any vessel” and inserted “and” before “that carries”.
+Subsec. (k)(2). Pub. L. 114–328, § 1023(b), substituted “any submersible vessel constructed or purchased after fiscal year 2016 that is” for “any vessel” and inserted “and” before “that carries”.
 
 2015—Subsecs. (f) to (j). Pub. L. 114–92 added subsecs. (f) to (h) and redesignated former subsecs. (f) and (g) as (i) and (j), respectively.
 
-## § 2219. Grants for improvement of Navy ship repair or alterations capability
+## § 2219. Grants for improvement of Navy ship repair or alterations capability
 
 **(a) Assistance Authorized.—**
 
@@ -1489,7 +1489,7 @@ Subsec. (k)(2). Pub. L. 114–328, § 1023(b), substituted “any submersible 
 
 **(3)** The term “United States” includes the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
 
-(Added Pub. L. 118–31, div. A, title X, § 1017, Dec. 22, 2023, 137 Stat. 382.)
+(Added Pub. L. 118–31, div. A, title X, § 1017, Dec. 22, 2023, 137 Stat. 382.)
 
 **Editorial Notes**
 
@@ -1501,7 +1501,7 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 A prior section 2219 was renumbered section 2491c of this title.
 
-## § 2220. Performance based management: acquisition programs
+## § 2220. Performance based management: acquisition programs
 
 **(a) Establishment of Goals.—** The Secretary of Defense shall approve or define the cost, performance, and schedule goals for major defense acquisition programs of the Department of Defense and for each phase of the acquisition cycle of such programs.
 
@@ -1509,7 +1509,7 @@ A prior section 2219 was renumbered section 2491c of this title.
 
 **(c) Sunset.—** The authority under this section shall terminate on September 30, 2018.
 
-(Added Pub. L. 103–355, title V, § 5001(a)(1), Oct. 13, 1994, 108 Stat. 3349; amended Pub. L. 104–106, div. A, title XV, § 1503(a)(20), div. D, title XLIII, § 4321(b)(1), Feb. 10, 1996, 110 Stat. 512, 671; Pub. L. 105–85, div. A, title VIII, § 841(a), Nov. 18, 1997, 111 Stat. 1843; Pub. L. 107–314, div. A, title X, § 1041(a)(8), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 114–328, div. A, title VIII, § 833(a)(2), Dec. 23, 2016, 130 Stat. 2283.)
+(Added Pub. L. 103–355, title V, § 5001(a)(1), Oct. 13, 1994, 108 Stat. 3349; amended Pub. L. 104–106, div. A, title XV, § 1503(a)(20), div. D, title XLIII, § 4321(b)(1), Feb. 10, 1996, 110 Stat. 512, 671; Pub. L. 105–85, div. A, title VIII, § 841(a), Nov. 18, 1997, 111 Stat. 1843; Pub. L. 107–314, div. A, title X, § 1041(a)(8), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 114–328, div. A, title VIII, § 833(a)(2), Dec. 23, 2016, 130 Stat. 2283.)
 
 **Editorial Notes**
 
@@ -1517,11 +1517,11 @@ A prior section 2219 was renumbered section 2491c of this title.
 
 2016—Subsec. (c). Pub. L. 114–328 added subsec. (c).
 
-2002—Subsec. (a). Pub. L. 107–314, § 1041(a)(8)(B), (C), struck out par. (1) designation and redesignated par. (2) as subsec. (b).
+2002—Subsec. (a). Pub. L. 107–314, § 1041(a)(8)(B), (C), struck out par. (1) designation and redesignated par. (2) as subsec. (b).
 
-Subsec. (b). Pub. L. 107–314, § 1041(a)(8)(A), (C), redesignated subsec. (a)(2) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary of Defense shall include in the annual report submitted to Congress pursuant to section 113(c) of this title an assessment of whether major acquisition programs of the Department of Defense are achieving, on average, 90 percent of cost, performance, and schedule goals established pursuant to subsection (a) and whether the average period for converting emerging technology into operational capability has decreased by 50 percent or more from the average period required for such conversion as of October 13, 1994. The Secretary shall use data from existing management systems in making the assessment.”
+Subsec. (b). Pub. L. 107–314, § 1041(a)(8)(A), (C), redesignated subsec. (a)(2) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary of Defense shall include in the annual report submitted to Congress pursuant to section 113(c) of this title an assessment of whether major acquisition programs of the Department of Defense are achieving, on average, 90 percent of cost, performance, and schedule goals established pursuant to subsection (a) and whether the average period for converting emerging technology into operational capability has decreased by 50 percent or more from the average period required for such conversion as of October 13, 1994. The Secretary shall use data from existing management systems in making the assessment.”
 
-Subsec. (c). Pub. L. 107–314, § 1041(a)(8)(A), struck out heading and text of subsec. (c). Text read as follows: “Whenever the Secretary of Defense, in the assessment required by subsection (b), determines that major defense acquisition programs of the Department of Defense are not achieving, on average, 90 percent of cost, performance, and schedule goals established pursuant to subsection (a), the Secretary shall ensure that there is a timely review of major defense acquisition programs and other programs as appropriate. In conducting the review, the Secretary shall—
+Subsec. (c). Pub. L. 107–314, § 1041(a)(8)(A), struck out heading and text of subsec. (c). Text read as follows: “Whenever the Secretary of Defense, in the assessment required by subsection (b), determines that major defense acquisition programs of the Department of Defense are not achieving, on average, 90 percent of cost, performance, and schedule goals established pursuant to subsection (a), the Secretary shall ensure that there is a timely review of major defense acquisition programs and other programs as appropriate. In conducting the review, the Secretary shall—
 
 “(1) determine whether there is a continuing need for programs that are significantly behind schedule, over budget, or not in compliance with performance or capability requirements; and
 
@@ -1529,17 +1529,17 @@ Subsec. (c). Pub. L. 107–314, § 1041(a)(8)(A), struck out heading and text 
 
 1997—Subsec. (b). Pub. L. 105–85 substituted “whether major acquisition programs” for “whether major and nonmajor acquisition programs”.
 
-1996—Subsec. (a)(2). Pub. L. 104–106, § 1503(a)(20), substituted “Under Secretary of Defense (Comptroller)” for “Comptroller of the Department of Defense”.
+1996—Subsec. (a)(2). Pub. L. 104–106, § 1503(a)(20), substituted “Under Secretary of Defense (Comptroller)” for “Comptroller of the Department of Defense”.
 
-Subsec. (b). Pub. L. 104–106, § 4321(b)(1), substituted “October 13, 1994” for “the date of the enactment of the Federal Acquisition Streamlining Act of 1994”.
+Subsec. (b). Pub. L. 104–106, § 4321(b)(1), substituted “October 13, 1994” for “the date of the enactment of the Federal Acquisition Streamlining Act of 1994”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. D, title XLIV, § 4401, Feb. 10, 1996, 110 Stat. 678, provided that:
+Pub. L. 104–106, div. D, title XLIV, § 4401, Feb. 10, 1996, 110 Stat. 678, provided that:
 
-> **“(a) Effective Date.—** Except as otherwise provided in this division [div. D (§§ 4001–4402) of Pub. L. 104–106, see Tables for classification], this division and the amendments made by this division shall take effect on the date of the enactment of this Act [Feb. 10, 1996].
+> **“(a) Effective Date.—** Except as otherwise provided in this division [div. D (§§ 4001–4402) of Pub. L. 104–106, see Tables for classification], this division and the amendments made by this division shall take effect on the date of the enactment of this Act [Feb. 10, 1996].
 
 > **“(b) Applicability of Amendments.—**
 
@@ -1557,19 +1557,19 @@ Pub. L. 104–106, div. D, title XLIV, § 4401, Feb. 10, 1996, 110 Stat. 678, 
 
 **Pilot Programs for Testing Program Manager Performance of Product Support Oversight Responsibilities for Life Cycle of Acquisition Programs**
 
-Pub. L. 105–261, div. A, title VIII, § 816, Oct. 17, 1998, 112 Stat. 2088, authorized the Secretary of Defense to designate 10 acquisition programs of the military departments as pilot programs on program manager responsibility for product support and required report to Congress by Feb. 1, 1999.
+Pub. L. 105–261, div. A, title VIII, § 816, Oct. 17, 1998, 112 Stat. 2088, authorized the Secretary of Defense to designate 10 acquisition programs of the military departments as pilot programs on program manager responsibility for product support and required report to Congress by Feb. 1, 1999.
 
 **Enhanced System of Performance Incentives**
 
-Pub. L. 103–355, title V, § 5001(b), Oct. 13, 1994, 108 Stat. 3350, provided that, within one year after Oct. 13, 1994, the Secretary of Defense should review the incentives and personnel actions available for encouraging excellence in the management of defense acquisition programs and provide an enhanced system of incentives, including pay for performance, to facilitate the achievement of goals approved or defined pursuant to subsec. (a) of this section.
+Pub. L. 103–355, title V, § 5001(b), Oct. 13, 1994, 108 Stat. 3350, provided that, within one year after Oct. 13, 1994, the Secretary of Defense should review the incentives and personnel actions available for encouraging excellence in the management of defense acquisition programs and provide an enhanced system of incentives, including pay for performance, to facilitate the achievement of goals approved or defined pursuant to subsec. (a) of this section.
 
 **Recommended Legislation**
 
-Pub. L. 103–355, title V, § 5001(c), Oct. 13, 1994, 108 Stat. 3350, directed the Secretary of Defense, not later than one year after Oct 13, 1994, to submit to Congress any recommended legislation that the Secretary considered necessary to carry out this section and otherwise to facilitate and enhance management of Department of Defense acquisition programs on the basis of performance.
+Pub. L. 103–355, title V, § 5001(c), Oct. 13, 1994, 108 Stat. 3350, directed the Secretary of Defense, not later than one year after Oct 13, 1994, to submit to Congress any recommended legislation that the Secretary considered necessary to carry out this section and otherwise to facilitate and enhance management of Department of Defense acquisition programs on the basis of performance.
 
-## [§ 2221. Repealed. Pub. L. 105–261, div. A, title IX, § 906(f)(1), Oct. 17, 1998, 112 Stat. 2096]
+## [§ 2221. Repealed. Pub. L. 105–261, div. A, title IX, § 906(f)(1), Oct. 17, 1998, 112 Stat. 2096]
 
-Section, added Pub. L. 104–106, div. A, title IX, § 914(a)(1), Feb. 10, 1996, 110 Stat. 412; amended Pub. L. 104–201, div. A, title X, § 1008(a), Sept. 23, 1996, 110 Stat. 2633; Pub. L. 105–85, div. A, title X, § 1006(a), Nov. 18, 1997, 111 Stat. 1869; Pub. L. 105–261, div. A, title X, § 1069(b)(2), Oct. 17, 1998, 112 Stat. 2136, related to Fisher House trust funds. See section 2493 of this title.
+Section, added Pub. L. 104–106, div. A, title IX, § 914(a)(1), Feb. 10, 1996, 110 Stat. 412; amended Pub. L. 104–201, div. A, title X, § 1008(a), Sept. 23, 1996, 110 Stat. 2633; Pub. L. 105–85, div. A, title X, § 1006(a), Nov. 18, 1997, 111 Stat. 1869; Pub. L. 105–261, div. A, title X, § 1069(b)(2), Oct. 17, 1998, 112 Stat. 2136, related to Fisher House trust funds. See section 2493 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1577,7 +1577,7 @@ Section, added Pub. L. 104–106, div. A, title IX, § 914(a)(1), Feb. 10, 199
 
 Repeal effective 90 days after Oct. 17, 1998, see section 906(f)(3) of Pub. L. 105–261, set out as an Effective Date of 1998 Amendment note under section 1321 of Title 31, Money and Finance.
 
-## § 2222. Defense business systems: business process reengineering; enterprise architecture; management
+## § 2222. Defense business systems: business process reengineering; enterprise architecture; management
 
 **(a) Defense Business Processes Generally.—** The Secretary of Defense shall ensure that defense business processes are reviewed, and as appropriate revised, through business process reengineering to match best commercial practices, to the maximum extent practicable, so as to minimize customization of commercial business systems.
 
@@ -1793,113 +1793,113 @@ Repeal effective 90 days after Oct. 17, 1998, see section 906(f)(3) of Pub. L. 1
 
 **(11) Data governance process.—** The term “data governance process” means a system to manage the timely Department of Defense-wide sharing of data described under subsection (e)(6)(A).
 
-(Added Pub. L. 108–375, div. A, title III, § 332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, § 906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, [div. A], title III, § 351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, § 1072(a), Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, § 1075(b)(29), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title IX, § 901, Dec. 31, 2011, 125 Stat. 1527; Pub. L. 112–239, div. A, title IX, § 906, Jan. 2, 2013, 126 Stat. 1869; Pub. L. 113–66, div. A, title IX, § 901, Dec. 26, 2013, 127 Stat. 815; Pub. L. 113–283, § 2(e)(5)(A), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 113–291, div. A, title VIII, § 803, title IX, § 901(d), (k)(3), title X, § 1071(f)(16), Dec. 19, 2014, 128 Stat. 3427, 3463, 3468, 3511; Pub. L. 114–92, div. A, title VIII, § 883(a)(1), (f), title X, § 1081(a)(7), Nov. 25, 2015, 129 Stat. 942, 1001; Pub. L. 114–328, div. A, title X, § 1081(a)(6), (c)(5), Dec. 23, 2016, 130 Stat. 2417, 2419; Pub. L. 115–91, div. A, title IX, § 912(a), title X, § 1081(b)(2), Dec. 12, 2017, 131 Stat. 1519, 1597; Pub. L. 115–232, div. A, title X, § 1081(f)(1)(A)(ii), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title VIII, § 839(a), title IX, § 902(25), title XVII, § 1731(a)(31), Dec. 20, 2019, 133 Stat. 1498, 1545, 1814; Pub. L. 117–263, div. A, title IX, § 902, Dec. 23, 2022, 136 Stat. 2748; Pub. L. 118–159, div. A, title IX, § 902(b), Dec. 23, 2024, 138 Stat. 2026; Pub. L. 119–60, div. A, title VIII, § 812(a)(2), Dec. 18, 2025, 139 Stat. 951.)
+(Added Pub. L. 108–375, div. A, title III, § 332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, § 906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, [div. A], title III, § 351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, § 1072(a), Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, § 1075(b)(29), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title IX, § 901, Dec. 31, 2011, 125 Stat. 1527; Pub. L. 112–239, div. A, title IX, § 906, Jan. 2, 2013, 126 Stat. 1869; Pub. L. 113–66, div. A, title IX, § 901, Dec. 26, 2013, 127 Stat. 815; Pub. L. 113–283, § 2(e)(5)(A), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 113–291, div. A, title VIII, § 803, title IX, § 901(d), (k)(3), title X, § 1071(f)(16), Dec. 19, 2014, 128 Stat. 3427, 3463, 3468, 3511; Pub. L. 114–92, div. A, title VIII, § 883(a)(1), (f), title X, § 1081(a)(7), Nov. 25, 2015, 129 Stat. 942, 1001; Pub. L. 114–328, div. A, title X, § 1081(a)(6), (c)(5), Dec. 23, 2016, 130 Stat. 2417, 2419; Pub. L. 115–91, div. A, title IX, § 912(a), title X, § 1081(b)(2), Dec. 12, 2017, 131 Stat. 1519, 1597; Pub. L. 115–232, div. A, title X, § 1081(f)(1)(A)(ii), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title VIII, § 839(a), title IX, § 902(25), title XVII, § 1731(a)(31), Dec. 20, 2019, 133 Stat. 1498, 1545, 1814; Pub. L. 117–263, div. A, title IX, § 902, Dec. 23, 2022, 136 Stat. 2748; Pub. L. 118–159, div. A, title IX, § 902(b), Dec. 23, 2024, 138 Stat. 2026; Pub. L. 119–60, div. A, title VIII, § 812(a)(2), Dec. 18, 2025, 139 Stat. 951.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2222, added Pub. L. 105–85, div. A, title X, § 1008(a)(1), Nov. 18, 1997, 111 Stat. 1870; amended Pub. L. 107–107, div. A, title X, § 1009(b)(1)–(3)(A), Dec. 28, 2001, 115 Stat. 1208, 1209, required Secretary of Defense to submit to Congress an annual strategic plan for improvement of financial management within Department of Defense and specified statements and matters to be included in the plan, prior to repeal by Pub. L. 107–314, div. A, title X, § 1004(h)(1), Dec. 2, 2002, 116 Stat. 2631.
+A prior section 2222, added Pub. L. 105–85, div. A, title X, § 1008(a)(1), Nov. 18, 1997, 111 Stat. 1870; amended Pub. L. 107–107, div. A, title X, § 1009(b)(1)–(3)(A), Dec. 28, 2001, 115 Stat. 1208, 1209, required Secretary of Defense to submit to Congress an annual strategic plan for improvement of financial management within Department of Defense and specified statements and matters to be included in the plan, prior to repeal by Pub. L. 107–314, div. A, title X, § 1004(h)(1), Dec. 2, 2002, 116 Stat. 2631.
 
 **Amendments**
 
-2025—Subsec. (i)(1)(A)(vi). Pub. L. 119–60, § 812(a)(2)(A), inserted “or real estate system” after “An installations management system”.
+2025—Subsec. (i)(1)(A)(vi). Pub. L. 119–60, § 812(a)(2)(A), inserted “or real estate system” after “An installations management system”.
 
-Subsec. (i)(1)(A)(ix) to (xvi). Pub. L. 119–60, § 812(a)(2)(B), added cls. (ix) to (xvi).
+Subsec. (i)(1)(A)(ix) to (xvi). Pub. L. 119–60, § 812(a)(2)(B), added cls. (ix) to (xvi).
 
 2024—Subsec. (f)(1). Pub. L. 118–159 substituted “co-chaired” for “chaired” and inserted “and the Performance Improvement Officer” after “Chief Information Officer”.
 
-2022—Subsec. (c)(2). Pub. L. 117–263, § 902(1), substituted “the Chief Information Officer of the Department of Defense, the Under Secretary of Defense for Acquisition and Sustainment, and the Chief Information Officer” for “the Chief Management Officer of the Department of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Chief Information Officer, and the Chief Management Officer”.
+2022—Subsec. (c)(2). Pub. L. 117–263, § 902(1), substituted “the Chief Information Officer of the Department of Defense, the Under Secretary of Defense for Acquisition and Sustainment, and the Chief Information Officer” for “the Chief Management Officer of the Department of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Chief Information Officer, and the Chief Management Officer”.
 
-Subsec. (e)(1). Pub. L. 117–263, § 902(2)(A), substituted “the Chief Information Officer” for “the Chief Management Officer”.
+Subsec. (e)(1). Pub. L. 117–263, § 902(2)(A), substituted “the Chief Information Officer” for “the Chief Management Officer”.
 
-Subsec. (e)(6)(A). Pub. L. 117–263, § 902(2)(B)(i), in introductory provisions, substituted “The Chief Information Officer of the Department of Defense, in coordination with the Chief Data and Artificial Intelligence Officer,” for “The Chief Management Officer of the Department of Defense” and “the Chief Information Officer shall—” for “the Chief Management Officer shall—”.
+Subsec. (e)(6)(A). Pub. L. 117–263, § 902(2)(B)(i), in introductory provisions, substituted “The Chief Information Officer of the Department of Defense, in coordination with the Chief Data and Artificial Intelligence Officer,” for “The Chief Management Officer of the Department of Defense” and “the Chief Information Officer shall—” for “the Chief Management Officer shall—”.
 
-Subsec. (e)(6)(B). Pub. L. 117–263, § 902(2)(B)(ii), substituted “The Chief Information Officer” for “ The Chief Management Officer” in introductory provisions.
+Subsec. (e)(6)(B). Pub. L. 117–263, § 902(2)(B)(ii), substituted “The Chief Information Officer” for “ The Chief Management Officer” in introductory provisions.
 
-Subsec. (f)(1). Pub. L. 117–263, § 902(3)(A), struck out “the Chief Management Officer and” before “the Chief Information Officer”.
+Subsec. (f)(1). Pub. L. 117–263, § 902(3)(A), struck out “the Chief Management Officer and” before “the Chief Information Officer”.
 
-Subsec. (f)(2). Pub. L. 117–263, § 902(3)(B)(i), (ii), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+Subsec. (f)(2). Pub. L. 117–263, § 902(3)(B)(i), (ii), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
-Subsec. (f)(2)(C)(iv). Pub. L. 117–263, § 902(3)(B)(iii), added cl. (iv).
+Subsec. (f)(2)(C)(iv). Pub. L. 117–263, § 902(3)(B)(iii), added cl. (iv).
 
-Subsec. (g)(2). Pub. L. 117–263, § 902(4), substituted “the Chief Information Officer” for “the Chief Management Officer” wherever appearing.
+Subsec. (g)(2). Pub. L. 117–263, § 902(4), substituted “the Chief Information Officer” for “the Chief Management Officer” wherever appearing.
 
-Subsec. (i)(5)(B). Pub. L. 117–263, § 902(5), substituted “the Chief Information Officer” for “the Chief Management Officer”.
+Subsec. (i)(5)(B). Pub. L. 117–263, § 902(5), substituted “the Chief Information Officer” for “the Chief Management Officer”.
 
-2019—Subsec. (c)(2). Pub. L. 116–92, § 902(25)(A), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+2019—Subsec. (c)(2). Pub. L. 116–92, § 902(25)(A), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-Subsec. (d). Pub. L. 116–92, § 839(a)(1), substituted “subsection (c)” for “subsection (c)(1)” in introductory provisions.
+Subsec. (d). Pub. L. 116–92, § 839(a)(1), substituted “subsection (c)” for “subsection (c)(1)” in introductory provisions.
 
-Subsec. (d)(7), (8). Pub. L. 116–92, § 839(a)(2), added pars. (7) and (8).
+Subsec. (d)(7), (8). Pub. L. 116–92, § 839(a)(2), added pars. (7) and (8).
 
-Subsec. (f)(2)(B)(i). Pub. L. 116–92, § 902(25)(B), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (f)(2)(B)(i). Pub. L. 116–92, § 902(25)(B), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-Subsec. (i)(11). Pub. L. 116–92, § 1731(a)(31), substituted “subsection (e)(6)(A)” for “subsection (a)(6)(A)”.
+Subsec. (i)(11). Pub. L. 116–92, § 1731(a)(31), substituted “subsection (e)(6)(A)” for “subsection (a)(6)(A)”.
 
 2018—Pub. L. 115–232 substituted “Chief Management Officer” for “Deputy Chief Management Officer” in subsec. (c)(2) after “shall direct the” and in subsecs. (e)(1), (f)(1), (g)(2)(A), (B)(ii), and (i)(5)(B).
 
-2017—Subsecs. (c)(2), (e)(1). Pub. L. 115–91, § 1081(b)(2), repealed Pub. L. 114–92, § 883(f)(1)(A). See 2015 Amendment notes below.
+2017—Subsecs. (c)(2), (e)(1). Pub. L. 115–91, § 1081(b)(2), repealed Pub. L. 114–92, § 883(f)(1)(A). See 2015 Amendment notes below.
 
-Subsec. (e)(5), (6). Pub. L. 115–91, § 912(a)(1), added pars. (5) and (6).
+Subsec. (e)(5), (6). Pub. L. 115–91, § 912(a)(1), added pars. (5) and (6).
 
-Subsec. (f)(1). Pub. L. 115–91, § 1081(b)(2), repealed Pub. L. 114–92, § 883(f)(1)(B). See 2015 Amendment note below.
+Subsec. (f)(1). Pub. L. 115–91, § 1081(b)(2), repealed Pub. L. 114–92, § 883(f)(1)(B). See 2015 Amendment note below.
 
-Subsecs. (g)(2)(A), (B)(ii), (i)(5)(B). Pub. L. 115–91, § 1081(b)(2), repealed Pub. L. 114–92, § 883(f)(1)(A). See 2015 Amendment notes below.
+Subsecs. (g)(2)(A), (B)(ii), (i)(5)(B). Pub. L. 115–91, § 1081(b)(2), repealed Pub. L. 114–92, § 883(f)(1)(A). See 2015 Amendment notes below.
 
-Subsec. (i)(10), (11). Pub. L. 115–91, § 912(a)(2), added pars. (10) and (11).
+Subsec. (i)(10), (11). Pub. L. 115–91, § 912(a)(2), added pars. (10) and (11).
 
-2016—Pub. L. 114–328, § 1081(c)(5), added subsec. (f) to section 883 of Pub. L. 114–92. See 2015 Amendment notes below.
+2016—Pub. L. 114–328, § 1081(c)(5), added subsec. (f) to section 883 of Pub. L. 114–92. See 2015 Amendment notes below.
 
-Subsec. (d)(1)(B). Pub. L. 114–328, § 1081(a)(6)(A), inserted “to” before “eliminate”.
+Subsec. (d)(1)(B). Pub. L. 114–328, § 1081(a)(6)(A), inserted “to” before “eliminate”.
 
-Subsec. (g)(1)(E). Pub. L. 114–328, § 1081(a)(6)(B), inserted “the system” before “is in compliance”.
+Subsec. (g)(1)(E). Pub. L. 114–328, § 1081(a)(6)(B), inserted “the system” before “is in compliance”.
 
-Subsec. (i)(5). Pub. L. 114–328, § 1081(a)(6)(C), struck out “program” after “system” in heading.
+Subsec. (i)(5). Pub. L. 114–328, § 1081(a)(6)(C), struck out “program” after “system” in heading.
 
-2015—Pub. L. 114–92, § 883(f)(2), as added by Pub. L. 114–328, § 1081(c)(5), repealed second par. (3) of section 901(k) of Pub. L. 113–291. See 2014 Amendment notes below.
+2015—Pub. L. 114–92, § 883(f)(2), as added by Pub. L. 114–328, § 1081(c)(5), repealed second par. (3) of section 901(k) of Pub. L. 113–291. See 2014 Amendment notes below.
 
-Pub. L. 114–92, § 883(a)(1), amended section generally. Prior to amendment, section related to architecture, accountability, and modernization of defense business systems.
+Pub. L. 114–92, § 883(a)(1), amended section generally. Prior to amendment, section related to architecture, accountability, and modernization of defense business systems.
 
-Subsecs. (c)(2), (e)(1). Pub. L. 114–92, § 883(f)(1)(A), as added by Pub. L. 114–328, § 1081(c)(5), which directed the substitution of “Under Secretary of Defense for Business Management and Information” for “Deputy Chief Management Officer of the Department of Defense”, was repealed by Pub. L. 115–91, § 1081(b)(2).
+Subsecs. (c)(2), (e)(1). Pub. L. 114–92, § 883(f)(1)(A), as added by Pub. L. 114–328, § 1081(c)(5), which directed the substitution of “Under Secretary of Defense for Business Management and Information” for “Deputy Chief Management Officer of the Department of Defense”, was repealed by Pub. L. 115–91, § 1081(b)(2).
 
-Subsec. (f)(1). Pub. L. 114–92, § 883(f)(1)(B), as added by Pub. L. 114–328, § 1081(c)(5), which directed the substitution of “Under Secretary of Defense for Business Management and Information” for “Deputy Chief Management Officer”, was repealed by Pub. L. 115–91, § 1081(b)(2).
+Subsec. (f)(1). Pub. L. 114–92, § 883(f)(1)(B), as added by Pub. L. 114–328, § 1081(c)(5), which directed the substitution of “Under Secretary of Defense for Business Management and Information” for “Deputy Chief Management Officer”, was repealed by Pub. L. 115–91, § 1081(b)(2).
 
-Subsecs. (g)(2)(A), (B)(ii), (i)(5)(B). Pub. L. 114–92, § 883(f)(1)(A), as added by Pub. L. 114–328, § 1081(c)(5), which directed the substitution of “Under Secretary of Defense for Business Management and Information” for “Deputy Chief Management Officer of the Department of Defense”, was repealed by Pub. L. 115–91, § 1081(b)(2).
+Subsecs. (g)(2)(A), (B)(ii), (i)(5)(B). Pub. L. 114–92, § 883(f)(1)(A), as added by Pub. L. 114–328, § 1081(c)(5), which directed the substitution of “Under Secretary of Defense for Business Management and Information” for “Deputy Chief Management Officer of the Department of Defense”, was repealed by Pub. L. 115–91, § 1081(b)(2).
 
-Subsec. (j)(5). Pub. L. 114–92, § 1081(a)(7), substituted “section 3552(b)(6)” for “section 3552(b)(5)”. Amendment was executed prior to amendment by Pub. L. 114–92, § 883(a)(1), see above, pursuant to section 1081(e) of Pub. L. 114–92, set out as a note under section 101 of this title.
+Subsec. (j)(5). Pub. L. 114–92, § 1081(a)(7), substituted “section 3552(b)(6)” for “section 3552(b)(5)”. Amendment was executed prior to amendment by Pub. L. 114–92, § 883(a)(1), see above, pursuant to section 1081(e) of Pub. L. 114–92, set out as a note under section 101 of this title.
 
-2014—Subsec. (a). Pub. L. 113–291, § 901(d)(1), inserted “and” at end of par. (1), substituted period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “the certification of the investment review board under paragraph (2) has been approved by the Defense Business Systems Management Committee established by section 186 of this title.”
+2014—Subsec. (a). Pub. L. 113–291, § 901(d)(1), inserted “and” at end of par. (1), substituted period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “the certification of the investment review board under paragraph (2) has been approved by the Defense Business Systems Management Committee established by section 186 of this title.”
 
-Subsec. (a)(1)(A). Pub. L. 113–291, § 803(b)(1), inserted “, including business process mapping,” after “re-engineering efforts”.
+Subsec. (a)(1)(A). Pub. L. 113–291, § 803(b)(1), inserted “, including business process mapping,” after “re-engineering efforts”.
 
-Subsec. (c)(1). Pub. L. 113–291, § 901(d)(2), substituted “investment review board established under subsection (g)” for “Defense Business Systems Management Committee” in introductory provisions.
+Subsec. (c)(1). Pub. L. 113–291, § 901(d)(2), substituted “investment review board established under subsection (g)” for “Defense Business Systems Management Committee” in introductory provisions.
 
-Subsecs. (c)(2)(E), (f)(1)(D), (E), (2)(E). Pub. L. 113–291, § 901(k)(3), which directed substitution of “the Under Secretary of Defense for Business Management and Information” for “the Deputy Chief Management Officer of the Department of Defense”, but could not be executed following the general amendment of the section by Pub. L. 114–92, was repealed by Pub. L. 114–92, § 883(f)(2), as added by Pub. L. 114–328, § 1081(c)(5). See 2015 and 2016 Amendment notes above.
+Subsecs. (c)(2)(E), (f)(1)(D), (E), (2)(E). Pub. L. 113–291, § 901(k)(3), which directed substitution of “the Under Secretary of Defense for Business Management and Information” for “the Deputy Chief Management Officer of the Department of Defense”, but could not be executed following the general amendment of the section by Pub. L. 114–92, was repealed by Pub. L. 114–92, § 883(f)(2), as added by Pub. L. 114–328, § 1081(c)(5). See 2015 and 2016 Amendment notes above.
 
-Subsec. (g)(1). Pub. L. 113–291, § 901(k)(3), which directed substitution of “the Under Secretary of Defense for Business Management and Information” for “the Deputy Chief Management Officer of the Department of Defense”, but could not be executed following the general amendment of the section by Pub. L. 114–92, was repealed by Pub. L. 114–92, § 883(f)(2), as added by Pub. L. 114–328, § 1081(c)(5). See 2015 and 2016 Amendment notes above.
+Subsec. (g)(1). Pub. L. 113–291, § 901(k)(3), which directed substitution of “the Under Secretary of Defense for Business Management and Information” for “the Deputy Chief Management Officer of the Department of Defense”, but could not be executed following the general amendment of the section by Pub. L. 114–92, was repealed by Pub. L. 114–92, § 883(f)(2), as added by Pub. L. 114–328, § 1081(c)(5). See 2015 and 2016 Amendment notes above.
 
-Pub. L. 113–291, § 901(d)(3)(A), struck out “, not later than March 15, 2012,” before “to establish an investment review board”.
+Pub. L. 113–291, § 901(d)(3)(A), struck out “, not later than March 15, 2012,” before “to establish an investment review board”.
 
-Subsec. (g)(2)(C). Pub. L. 113–291, § 901(d)(3)(B), substituted “the investment review” for “each investment review” in introductory provisions.
+Subsec. (g)(2)(C). Pub. L. 113–291, § 901(d)(3)(B), substituted “the investment review” for “each investment review” in introductory provisions.
 
-Subsec. (g)(2)(F). Pub. L. 113–291, § 901(d)(3)(C), struck out “and the Defense Business Systems Management Committee, as required by section 186(c) of this title,” after “Secretary of Defense”.
+Subsec. (g)(2)(F). Pub. L. 113–291, § 901(d)(3)(C), struck out “and the Defense Business Systems Management Committee, as required by section 186(c) of this title,” after “Secretary of Defense”.
 
-Subsec. (g)(3). Pub. L. 113–291, § 1071(f)(16), struck out “(A)” after “(3)”.
+Subsec. (g)(3). Pub. L. 113–291, § 1071(f)(16), struck out “(A)” after “(3)”.
 
-Subsec. (g)(3)(A). Pub. L. 113–291, § 901(k)(3), which directed substitution of “Under Secretary of Defense for Business Management and Information” for “Deputy Chief Management Officer” the first place appearing, and “Under Secretary” for “Deputy Chief Management Officer” the second, third, and fourth places appearing, but could not be executed following the general amendment of the section by Pub. L. 114–92, was repealed by Pub. L. 114–92, § 883(f)(2), as added by Pub. L. 114–328, § 1081(c)(5). See 2015 and 2016 Amendment notes above.
+Subsec. (g)(3)(A). Pub. L. 113–291, § 901(k)(3), which directed substitution of “Under Secretary of Defense for Business Management and Information” for “Deputy Chief Management Officer” the first place appearing, and “Under Secretary” for “Deputy Chief Management Officer” the second, third, and fourth places appearing, but could not be executed following the general amendment of the section by Pub. L. 114–92, was repealed by Pub. L. 114–92, § 883(f)(2), as added by Pub. L. 114–328, § 1081(c)(5). See 2015 and 2016 Amendment notes above.
 
-Subsec. (j)(1). Pub. L. 113–291, § 803(a), designated existing provisions as subpar. (A), struck out “, other than a national security system,” after “information system”, and added subpar. (B).
+Subsec. (j)(1). Pub. L. 113–291, § 803(a), designated existing provisions as subpar. (A), struck out “, other than a national security system,” after “information system”, and added subpar. (B).
 
 Subsec. (j)(5). Pub. L. 113–283 substituted “section 3552(b)(5)” for “section 3542(b)(2)”.
 
-Subsec. (j)(6). Pub. L. 113–291, § 803(b)(2), added par. (6).
+Subsec. (j)(6). Pub. L. 113–291, § 803(b)(2), added par. (6).
 
-2013—Subsec. (e)(1). Pub. L. 113–66, § 901(1), substituted “target defense business systems computing environment described in subsection (d)(3)” for “defense business enterprise architecture”.
+2013—Subsec. (e)(1). Pub. L. 113–66, § 901(1), substituted “target defense business systems computing environment described in subsection (d)(3)” for “defense business enterprise architecture”.
 
-Subsec. (e)(2). Pub. L. 113–66, § 901(2), substituted “that will be phased out of the defense business systems computing environment within three years after review and certification as ‘legacy systems’ by the investment management process established under subsection (g)” for “existing as of September 30, 2011 (known as ‘legacy systems’) that will not be part of the defense business enterprise architecture” and struck out “that provides for reducing the use of those legacy systems in phases” before period at end.
+Subsec. (e)(2). Pub. L. 113–66, § 901(2), substituted “that will be phased out of the defense business systems computing environment within three years after review and certification as ‘legacy systems’ by the investment management process established under subsection (g)” for “existing as of September 30, 2011 (known as ‘legacy systems’) that will not be part of the defense business enterprise architecture” and struck out “that provides for reducing the use of those legacy systems in phases” before period at end.
 
-Subsec. (e)(3). Pub. L. 113–66, § 901(3), substituted “existing systems that are part of the target defense business systems computing environment” for “legacy systems (referred to in subparagraph (B)) that will be a part of the target defense business systems computing environment described in subsection (d)(3)”.
+Subsec. (e)(3). Pub. L. 113–66, § 901(3), substituted “existing systems that are part of the target defense business systems computing environment” for “legacy systems (referred to in subparagraph (B)) that will be a part of the target defense business systems computing environment described in subsection (d)(3)”.
 
 Subsec. (g)(3). Pub. L. 112–239 added par. (3).
 
@@ -1907,13 +1907,13 @@ Subsec. (g)(3). Pub. L. 112–239 added par. (3).
 
 Subsec. (a). Pub. L. 111–383 substituted “Funds” for “Effective October 1, 2005, funds”.
 
-2009—Subsec. (a). Pub. L. 111–84, § 1072(a)(1)(A), (B), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+2009—Subsec. (a). Pub. L. 111–84, § 1072(a)(1)(A), (B), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-Subsec. (a)(2)(A). Pub. L. 111–84, § 1072(a)(1)(C), added subpar. (A) and struck out former subpar. (A), which read as follows: “is in compliance with the enterprise architecture developed under subsection (c);”.
+Subsec. (a)(2)(A). Pub. L. 111–84, § 1072(a)(1)(C), added subpar. (A) and struck out former subpar. (A), which read as follows: “is in compliance with the enterprise architecture developed under subsection (c);”.
 
-Subsec. (a)(3). Pub. L. 111–84, § 1072(a)(1)(D), substituted “the certification by the approval authority and the determination by the chief management officer are” for “the certification by the approval authority is”.
+Subsec. (a)(3). Pub. L. 111–84, § 1072(a)(1)(D), substituted “the certification by the approval authority and the determination by the chief management officer are” for “the certification by the approval authority is”.
 
-Subsec. (f). Pub. L. 111–84, § 1072(a)(2), designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), in subpar. (E) substituted “subparagraphs (A) through (D)” for “paragraphs (1) through (4)”, and added par. (2).
+Subsec. (f). Pub. L. 111–84, § 1072(a)(2), designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), in subpar. (E) substituted “subparagraphs (A) through (D)” for “paragraphs (1) through (4)”, and added par. (2).
 
 2008—Subsec. (i). Pub. L. 110–417 substituted “2013” for “2009” in introductory provisions.
 
@@ -1923,27 +1923,27 @@ Subsec. (f). Pub. L. 111–84, § 1072(a)(2), designated existing provisions a
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title X, § 1081(b)(2), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(2) is effective as of Nov. 25, 2015.
+Pub. L. 115–91, div. A, title X, § 1081(b)(2), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(2) is effective as of Nov. 25, 2015.
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title X, § 1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made by section 1081(c)(5) is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.
+Pub. L. 114–328, div. A, title X, § 1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made by section 1081(c)(5) is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–92, div. A, title VIII, § 883(f)(1), as added by Pub. L. 114–328, div. A, title X, § 1081(c)(5), Dec. 23, 2016, 130 Stat. 2419, which provided that the amendment made by section 883(f)(1) was effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291 (Feb. 1, 2017), was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(2), Dec. 12, 2017, 131 Stat. 1597.
+Pub. L. 114–92, div. A, title VIII, § 883(f)(1), as added by Pub. L. 114–328, div. A, title X, § 1081(c)(5), Dec. 23, 2016, 130 Stat. 2419, which provided that the amendment made by section 883(f)(1) was effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291 (Feb. 1, 2017), was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(2), Dec. 12, 2017, 131 Stat. 1597.
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–291, div. A, title IX, § 901(k)(3), Dec. 19, 2014, 128 Stat. 3468, which provided that the amendment made by section 901(k)(3) was effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291 (Feb. 1, 2017), was repealed by Pub. L. 114–92, div. A, title VIII, § 883(f)(2), as added by Pub. L. 114–328, div. A, title X, § 1081(c)(5), Dec. 23, 2016, 130 Stat. 2420.
+Pub. L. 113–291, div. A, title IX, § 901(k)(3), Dec. 19, 2014, 128 Stat. 3468, which provided that the amendment made by section 901(k)(3) was effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291 (Feb. 1, 2017), was repealed by Pub. L. 114–92, div. A, title VIII, § 883(f)(2), as added by Pub. L. 114–328, div. A, title X, § 1081(c)(5), Dec. 23, 2016, 130 Stat. 2420.
 
 **Transfer of Functions**
 
-Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
+Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
 
 **Framework for Integration of Information Technology Technical Debt Assessment Into Annual Budget Process**
 
-Pub. L. 119–60, div. A, title XV, § 1503, Dec. 18, 2025, 139 Stat. 1138, provided that:
+Pub. L. 119–60, div. A, title XV, § 1503, Dec. 18, 2025, 139 Stat. 1138, provided that:
 
 > **“(a) Framework Development.—** Not later than September 1, 2026, the Secretary of Defense shall, in coordination with the Chief Information Officer of the Department of Defense, the Secretaries of the military departments, and the Chief Information Officers of the military departments, develop a framework for the integration of technical debt assessment, tracking, and management into existing processes of the Department of Defense for information technology investment decisions and budget justification materials.
 
@@ -2001,7 +2001,7 @@ Pub. L. 119–60, div. A, title XV, § 1503, Dec. 18, 2025, 139 Stat. 1138, pr
 
 **Pilot Program on Use of Artificial Intelligence for Certain Workflow and Operations Tasks**
 
-Pub. L. 118–159, div. A, title II, § 237, Dec. 23, 2024, 138 Stat. 1842, provided that:
+Pub. L. 118–159, div. A, title II, § 237, Dec. 23, 2024, 138 Stat. 1842, provided that:
 
 > **“(a) Pilot Program Required.—** Beginning not later than 60 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall carry out a pilot program to assess the feasibility and advisability of using artificial intelligence-enabled software to optimize the workflow and operations for—
 
@@ -2049,7 +2049,7 @@ Pub. L. 118–159, div. A, title II, § 237, Dec. 23, 2024, 138 Stat. 1842, pr
 
 **Next Generation Business Health Metrics**
 
-Pub. L. 118–31, div. A, title IX, § 921, Dec. 22, 2023, 137 Stat. 373, provided that:
+Pub. L. 118–31, div. A, title IX, § 921, Dec. 22, 2023, 137 Stat. 373, provided that:
 
 > **“(a) Metrics Required.—** The Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop an updated set of business health metrics to inform decision-making by senior leaders of the Department of Defense.
 
@@ -2077,7 +2077,7 @@ Pub. L. 118–31, div. A, title IX, § 921, Dec. 22, 2023, 137 Stat. 373, prov
 
 **Prize Competitions for Business Systems Modernization**
 
-Pub. L. 118–31, div. A, title XV, § 1525, Dec. 22, 2023, 137 Stat. 556, provided that:
+Pub. L. 118–31, div. A, title XV, § 1525, Dec. 22, 2023, 137 Stat. 556, provided that:
 
 > **“(a) Establishment.—** Not later than 270 days after the date of the enactment of this Act [Dec. 22, 2023], under the authority of section 4025 of title 10, United States Code, the Secretary of Defense shall establish one or more prize competitions to support the business systems modernization goals of the Department of Defense.
 
@@ -2113,7 +2113,7 @@ Pub. L. 118–31, div. A, title XV, § 1525, Dec. 22, 2023, 137 Stat. 556, pro
 
 **Improved Recording and Maintaining of Department of Defense Real Property Data**
 
-Pub. L. 116–92, div. B, title XXVIII, § 2823, Dec. 20, 2019, 133 Stat. 1889, provided that:
+Pub. L. 116–92, div. B, title XXVIII, § 2823, Dec. 20, 2019, 133 Stat. 1889, provided that:
 
 > **“(a) Initial Report.—** Not later than 150 days after the date of the enactment of this Act [Dec. 20, 2019], the Undersecretary [probably should be “Under Secretary”] of Defense for Acquisition and Sustainment shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that evaluates service-level best practices for recording and maintaining real property data.
 
@@ -2121,7 +2121,7 @@ Pub. L. 116–92, div. B, title XXVIII, § 2823, Dec. 20, 2019, 133 Stat. 1889
 
 **Reform of Business Enterprise Operations in Support of Certain Activities Across Department of Defense**
 
-Pub. L. 115–232, div. A, title IX, § 921(b), Aug. 13, 2018, 132 Stat. 1927, provided that:
+Pub. L. 115–232, div. A, title IX, § 921(b), Aug. 13, 2018, 132 Stat. 1927, provided that:
 
 > **“(1) Periodic reform.—**
 
@@ -2169,7 +2169,7 @@ Pub. L. 115–232, div. A, title IX, § 921(b), Aug. 13, 2018, 132 Stat. 1927,
 
 **Analysis of Department of Defense Business Management and Operations Datasets To Promote Savings and Efficiencies**
 
-Pub. L. 115–232, div. A, title IX, § 922, Aug. 13, 2018, 132 Stat. 1929, provided that:
+Pub. L. 115–232, div. A, title IX, § 922, Aug. 13, 2018, 132 Stat. 1929, provided that:
 
 > **“(a) In General.—** The Chief Management Officer of the Department of Defense shall develop a policy on analysis of Department of Defense datasets on business management and business operations by the public for purposes of accessing data analysis capabilities that would promote savings and efficiencies and otherwise enhance the utility of such datasets to the Department.
 
@@ -2195,7 +2195,7 @@ Pub. L. 115–232, div. A, title IX, § 922, Aug. 13, 2018, 132 Stat. 1929, pr
 
 **Audit of Financial Systems of the Department of Defense by Professional Accountants**
 
-Pub. L. 115–232, div. A, title X, § 1004, Aug. 13, 2018, 132 Stat. 1947, provided that:
+Pub. L. 115–232, div. A, title X, § 1004, Aug. 13, 2018, 132 Stat. 1947, provided that:
 
 > “The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) or an appropriate official of a military department, shall ensure that each major implementation of, or modification to, a business system that contributes to financial information of the Department of Defense is reviewed by professional accountants with experience reviewing Federal financial systems to validate that such financial system will meet any applicable Federal requirements. The Secretary of Defense shall ensure that such accountants—
 
@@ -2205,7 +2205,7 @@ Pub. L. 115–232, div. A, title X, § 1004, Aug. 13, 2018, 132 Stat. 1947, pr
 
 **Standardized Business Process Rules for Military Intelligence Program**
 
-Pub. L. 115–232, div. A, title XVI, § 1624(a), Aug. 13, 2018, 132 Stat. 2119, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1624(a), Aug. 13, 2018, 132 Stat. 2119, provided that:
 
 > **“(1) Development.—** Not later than October 1, 2020, the Chief Management Officer of the Department of Defense, in coordination with the Under Secretary of Defense (Comptroller) and the Under Secretary of Defense for Intelligence [now Under Secretary of Defense for Intelligence and Security], shall develop and implement standardized business process rules for the planning, programming, budgeting, and execution process for the Military Intelligence Program.
 
@@ -2223,7 +2223,7 @@ Pub. L. 115–232, div. A, title XVI, § 1624(a), Aug. 13, 2018, 132 Stat. 211
 
 **Policy on Treatment of Defense Business System Data Related to Business Operations and Management**
 
-Pub. L. 115–91, div. A, title IX, § 911, Dec. 12, 2017, 131 Stat. 1519, provided that:
+Pub. L. 115–91, div. A, title IX, § 911, Dec. 12, 2017, 131 Stat. 1519, provided that:
 
 > **“(a) Establishment of Policy.—** Not later than one year after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall establish a data policy for the Department of Defense that mandates that any data contained in a defense business system related to business operations and management is an asset of the Department of Defense.
 
@@ -2231,7 +2231,7 @@ Pub. L. 115–91, div. A, title IX, § 911, Dec. 12, 2017, 131 Stat. 1519, pro
 
 **Establishment of Data Analytics Capability**
 
-Pub. L. 115–91, div. A, title IX, § 912(e), Dec. 12, 2017, 131 Stat. 1521, provided that:
+Pub. L. 115–91, div. A, title IX, § 912(e), Dec. 12, 2017, 131 Stat. 1521, provided that:
 
 > **“(1) Data analytics capability required.—** Not later than September 30, 2020, the Chief Management Officer of the Department of Defense shall establish and maintain within the Department of Defense a data analytics capability for purposes of supporting enhanced oversight and management of the Defense Agencies and Department of Defense Field Activities.
 
@@ -2269,7 +2269,7 @@ Pub. L. 115–91, div. A, title IX, § 912(e), Dec. 12, 2017, 131 Stat. 1521, 
 
 **Data Integration Strategies Pilot Programs**
 
-Pub. L. 115–91, div. A, title IX, § 912(f), Dec. 12, 2017, 131 Stat. 1522, provided that:
+Pub. L. 115–91, div. A, title IX, § 912(f), Dec. 12, 2017, 131 Stat. 1522, provided that:
 
 > **“(1) In general.—** The Secretary of Defense shall carry out pilot programs to develop data integration strategies for the Department of Defense to address high-priority management challenges of the Department.
 
@@ -2287,7 +2287,7 @@ Pub. L. 115–91, div. A, title IX, § 912(f), Dec. 12, 2017, 131 Stat. 1522, 
 
 **Improper Payment Matters**
 
-Pub. L. 115–91, div. A, title X, § 1003, Dec. 12, 2017, 131 Stat. 1542, provided that:
+Pub. L. 115–91, div. A, title X, § 1003, Dec. 12, 2017, 131 Stat. 1542, provided that:
 
 > “Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary of Defense (Comptroller) shall take the following actions:
 
@@ -2329,7 +2329,7 @@ Pub. L. 115–91, div. A, title X, § 1003, Dec. 12, 2017, 131 Stat. 1542, pro
 
 **Financial Operations Dashboard for the Department of Defense**
 
-Pub. L. 115–91, div. A, title X, § 1005, Dec. 12, 2017, 131 Stat. 1544, provided that:
+Pub. L. 115–91, div. A, title X, § 1005, Dec. 12, 2017, 131 Stat. 1544, provided that:
 
 > **“(a) In General.—** The Under Secretary of Defense (Comptroller) shall develop and maintain on an Internet website available to Department of Defense agencies a tool (commonly referred to as a ‘dashboard)’ [sic] to permit officials to track key indicators of the financial performance of the Department of Defense. Such key indicators may include outstanding accounts payable, abnormal accounts payable, outstanding advances, unmatched disbursements, abnormal undelivered orders, negative unliquidated obligations, violations of sections 1341 and 1517(a) of title 31, United States Code (commonly referred to as the ‘Anti-Deficiency Act’), costs deriving from payment delays, interest penalty payments, and improper payments, and actual savings realized through interest payments made, discounts for timely or advanced payments, and other financial management and improvement initiatives.
 
@@ -2341,7 +2341,7 @@ Pub. L. 115–91, div. A, title X, § 1005, Dec. 12, 2017, 131 Stat. 1544, pro
 
 **Improved Management Practices To Reduce Cost and Improve Performance of Certain Department of Defense Organizations**
 
-Pub. L. 114–328, div. A, title VIII, § 894, Dec. 23, 2016, 130 Stat. 2325, provided that:
+Pub. L. 114–328, div. A, title VIII, § 894, Dec. 23, 2016, 130 Stat. 2325, provided that:
 
 > **“(a) In General.—** Beginning not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall designate units, subunits, or entities of the Department of Defense, other than Centers of Industrial and Technical Excellence designated pursuant to section 2474 of title 10, United States Code, that conduct work that is commercial in nature or is not inherently governmental to prioritize efforts to conduct business operations in a manner that uses modern, commercial management practices and principles to reduce the costs and improve the performance of such organizations.
 
@@ -2379,11 +2379,11 @@ Pub. L. 114–328, div. A, title VIII, § 894, Dec. 23, 2016, 130 Stat. 2325, 
 
 **Increased Use of Commercial Data Integration and Analysis Products for the Purpose of Preparing Financial Statement Audits**
 
-Pub. L. 114–328, div. A, title X, § 1003, Dec. 23, 2016, 130 Stat. 2380, which required the Secretary of Defense to procure or develop technologies or services to improve data collection and analyses to support preparation of auditable financial statements for the Department of Defense, was repealed by Pub. L. 115–91, div. A, title X, § 1002(f)(3), Dec. 12, 2017, 131 Stat. 1542. See section 240e of this title.
+Pub. L. 114–328, div. A, title X, § 1003, Dec. 23, 2016, 130 Stat. 2380, which required the Secretary of Defense to procure or develop technologies or services to improve data collection and analyses to support preparation of auditable financial statements for the Department of Defense, was repealed by Pub. L. 115–91, div. A, title X, § 1002(f)(3), Dec. 12, 2017, 131 Stat. 1542. See section 240e of this title.
 
 **Science and Technology Activities To Support Business Systems Information Technology Acquisition Programs**
 
-Pub. L. 114–92, div. A, title II, § 217, Nov. 25, 2015, 129 Stat. 770, as amended by Pub. L. 115–232, div. A, title X, § 1081(f)(1)(A)(v), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title IX, § 902(26), Dec. 20, 2019, 133 Stat. 1545; Pub. L. 116–283, div. A, title XVIII, § 1806(e)(3)(B), Jan. 1, 2021, 134 Stat. 4156, provided that:
+Pub. L. 114–92, div. A, title II, § 217, Nov. 25, 2015, 129 Stat. 770, as amended by Pub. L. 115–232, div. A, title X, § 1081(f)(1)(A)(v), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title IX, § 902(26), Dec. 20, 2019, 133 Stat. 1545; Pub. L. 116–283, div. A, title XVIII, § 1806(e)(3)(B), Jan. 1, 2021, 134 Stat. 4156, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment and Under Secretary of Defense for Research and Engineering, the Chief Management Officer, and the Chief Information Officer, shall establish a set of science, technology, and innovation activities to improve the acquisition outcomes of major automated information systems through improved performance and reduced developmental and life cycle costs.
 
@@ -2477,15 +2477,15 @@ Pub. L. 114–92, div. A, title II, § 217, Nov. 25, 2015, 129 Stat. 770, as a
 
 **Deadline for Guidance on Covered Defense Business Systems**
 
-Pub. L. 114–92, div. A, title VIII, § 883(b), Nov. 25, 2015, 129 Stat. 947, provided that: “The guidance required by subsection (c)(1) of section 2222 of title 10, United States Code, as amended by subsection (a)(1), shall be issued not later than December 31, 2016.”
+Pub. L. 114–92, div. A, title VIII, § 883(b), Nov. 25, 2015, 129 Stat. 947, provided that: “The guidance required by subsection (c)(1) of section 2222 of title 10, United States Code, as amended by subsection (a)(1), shall be issued not later than December 31, 2016.”
 
 **Comptroller General Assessment Requirement**
 
-Pub. L. 114–92, div. A, title VIII, § 883(d)(1), Nov. 25, 2015, 129 Stat. 947, which required the Comptroller General, in odd-numbered years, to submit an assessment of the extent to which the actions taken by the Department of Defense complied with the requirements of this section, was repealed by Pub. L. 115–232, div. A, title VIII, § 833(c), Aug. 13, 2018, 132 Stat. 1859, effective Jan. 1, 2020.
+Pub. L. 114–92, div. A, title VIII, § 883(d)(1), Nov. 25, 2015, 129 Stat. 947, which required the Comptroller General, in odd-numbered years, to submit an assessment of the extent to which the actions taken by the Department of Defense complied with the requirements of this section, was repealed by Pub. L. 115–232, div. A, title VIII, § 833(c), Aug. 13, 2018, 132 Stat. 1859, effective Jan. 1, 2020.
 
 **Accounting Standards To Value Certain Property, Plant, and Equipment Items**
 
-Pub. L. 114–92, div. A, title X, § 1002, Nov. 25, 2015, 129 Stat. 960, provided that:
+Pub. L. 114–92, div. A, title X, § 1002, Nov. 25, 2015, 129 Stat. 960, provided that:
 
 > **“(a) Requirement for Certain Accounting Standards.—** The Secretary of Defense shall work in coordination with the Federal Accounting Standards Advisory Board to establish accounting standards to value large and unordinary general property, plant, and equipment items.
 
@@ -2493,19 +2493,19 @@ Pub. L. 114–92, div. A, title X, § 1002, Nov. 25, 2015, 129 Stat. 960, prov
 
 **Annual Audit of Financial Statements of Department of Defense Components by Independent External Auditors**
 
-Pub. L. 114–92, div. A, title X, § 1005, Nov. 25, 2015, 129 Stat. 961, which required an annual audit of financial statements of Department of Defense components by independent external auditors, was repealed by Pub. L. 115–91, div. A, title X, § 1002(e)(4), Dec. 12, 2017, 131 Stat. 1541. See section 240d of this title.
+Pub. L. 114–92, div. A, title X, § 1005, Nov. 25, 2015, 129 Stat. 961, which required an annual audit of financial statements of Department of Defense components by independent external auditors, was repealed by Pub. L. 115–91, div. A, title X, § 1002(e)(4), Dec. 12, 2017, 131 Stat. 1541. See section 240d of this title.
 
 **Deadline for Establishment of Investment Review Board and Investment Management Process**
 
-Pub. L. 113–291, div. A, title IX, § 901(e), Dec. 19, 2014, 128 Stat. 3464, provided that: “The investment review board and investment management process required by [former] section 2222(g) of title 10, United States Code, as amended by subsection (d)(3), shall be established not later than March 15, 2015.”
+Pub. L. 113–291, div. A, title IX, § 901(e), Dec. 19, 2014, 128 Stat. 3464, provided that: “The investment review board and investment management process required by [former] section 2222(g) of title 10, United States Code, as amended by subsection (d)(3), shall be established not later than March 15, 2015.”
 
 **Audit of Department of Defense Fiscal Year 2018 Financial Statements**
 
-Pub. L. 113–66, div. A, title X, § 1003(a), Dec. 26, 2013, 127 Stat. 842, which required a full audit of the financial statements of the Department of Defense for fiscal year 2018, was repealed by Pub. L. 115–91, div. A, title X, § 1002(b)(2), Dec. 12, 2017, 131 Stat. 1538. For similar provisions requiring annual audits, see section 240a of this title.
+Pub. L. 113–66, div. A, title X, § 1003(a), Dec. 26, 2013, 127 Stat. 842, which required a full audit of the financial statements of the Department of Defense for fiscal year 2018, was repealed by Pub. L. 115–91, div. A, title X, § 1002(b)(2), Dec. 12, 2017, 131 Stat. 1538. For similar provisions requiring annual audits, see section 240a of this title.
 
 **Review of Obligation and Expenditure Thresholds**
 
-Pub. L. 111–383, div. A, title VIII, § 882, Jan. 7, 2011, 124 Stat. 4308, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597; Pub. L. 116–92, div. A, title IX, § 902(27), Dec. 20, 2019, 133 Stat. 1546, provided that:
+Pub. L. 111–383, div. A, title VIII, § 882, Jan. 7, 2011, 124 Stat. 4308, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597; Pub. L. 116–92, div. A, title IX, § 902(27), Dec. 20, 2019, 133 Stat. 1546, provided that:
 
 > **“(a) Process Review.—** Not later than one year after the date of the enactment of this Act [Jan. 7, 2011], the Chief Management Officer of the Department of Defense, in coordination with the Chief Management Officer of each military department, the Director of the Office of Performance Assessment and Root Cause Analysis, the Under Secretary of Defense (Comptroller), and the Comptrollers of the military departments, shall complete a comprehensive review of the use and value of obligation and expenditure benchmarks and propose new benchmarks or processes for tracking financial performance, including, as appropriate—
 
@@ -2519,11 +2519,11 @@ Pub. L. 111–383, div. A, title VIII, § 882, Jan. 7, 2011, 124 Stat. 4308, a
 
 > **“(c) Report.—** The Deputy Chief Management Officer of the Department of Defense shall include a report on the results of the review under this section in the next update of the strategic management plan transmitted to the Committees on Armed Services of the Senate and the House of Representatives under section 904(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 275; 10 U.S.C. note prec. 2201) after the completion of the review.”
 
-[Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469, formerly set out as a References note under section 131 of this title, which provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense was to be deemed to refer to the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.]
+[Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469, formerly set out as a References note under section 131 of this title, which provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense was to be deemed to refer to the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.]
 
 **Audit Readiness of Financial Statements of the Department of Defense**
 
-Pub. L. 112–239, div. A, title X, § 1005(b), Jan. 2, 2013, 126 Stat. 1904, provided that:
+Pub. L. 112–239, div. A, title X, § 1005(b), Jan. 2, 2013, 126 Stat. 1904, provided that:
 
 > **“(1) In general.—** The Chief Management Officer of the Department of Defense and the Chief Management Officers of each of the military departments shall ensure that plans to achieve an auditable statement of budgetary resources of the Department of Defense by September 30, 2014, include appropriate steps to minimize one-time fixes and manual work-arounds, are sustainable and affordable, and will not delay full auditability of financial statements.
 
@@ -2541,7 +2541,7 @@ Pub. L. 112–239, div. A, title X, § 1005(b), Jan. 2, 2013, 126 Stat. 1904, 
 
 > **“(iii)** a description of the plan of the military department for meeting the alternative deadline.”
 
-Pub. L. 112–81, div. A, title X, § 1003, Dec. 31, 2011, 125 Stat. 1555, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, provided that:
+Pub. L. 112–81, div. A, title X, § 1003, Dec. 31, 2011, 125 Stat. 1555, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, provided that:
 
 > **“(a) Planning Requirement.—**
 
@@ -2571,9 +2571,9 @@ Pub. L. 112–81, div. A, title X, § 1003, Dec. 31, 2011, 125 Stat. 1555, as 
 
 > **“(D)** provide timeframes for implementation of such measures.”
 
-[Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469, formerly set out as a References note under section 131 of this title, which provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense was to be deemed to refer to the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.]
+[Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469, formerly set out as a References note under section 131 of this title, which provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense was to be deemed to refer to the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.]
 
-Pub. L. 111–383, div. A, title VIII, § 881, Jan. 7, 2011, 124 Stat. 4306, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, provided that:
+Pub. L. 111–383, div. A, title VIII, § 881, Jan. 7, 2011, 124 Stat. 4306, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, provided that:
 
 > **“(a) Interim Milestones.—**
 
@@ -2643,13 +2643,13 @@ Pub. L. 111–383, div. A, title VIII, § 881, Jan. 7, 2011, 124 Stat. 4306, a
 
 > **“(B)** a recommendation on whether such option should be adopted, a schedule for implementing the option if adoption is recommended, or a reason for not recommending the option if adoption is not recommended.”
 
-[Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469, formerly set out as a References note under section 131 of this title, which provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense was to be deemed to refer to the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.]
+[Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469, formerly set out as a References note under section 131 of this title, which provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense was to be deemed to refer to the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.]
 
-Pub. L. 111–84, div. A, title X, § 1003, Oct. 28, 2009, 123 Stat. 2439, as amended by Pub. L. 112–239, div. A, title X, § 1005(a), Jan. 2, 2013, 126 Stat. 1904; Pub. L. 113–66, div. A, title X, § 1003(b), Dec. 26, 2013, 127 Stat. 842, which directed the Chief Management Officer of the Department of Defense to develop a Financial Improvement and Audit Readiness Plan and to submit semi-annual reports to Congress on the status of the implementation of such plan, was repealed by Pub. L. 115–91, div. A, title X, § 1002(c)(4), Dec. 12, 2017, 131 Stat. 1540.
+Pub. L. 111–84, div. A, title X, § 1003, Oct. 28, 2009, 123 Stat. 2439, as amended by Pub. L. 112–239, div. A, title X, § 1005(a), Jan. 2, 2013, 126 Stat. 1904; Pub. L. 113–66, div. A, title X, § 1003(b), Dec. 26, 2013, 127 Stat. 842, which directed the Chief Management Officer of the Department of Defense to develop a Financial Improvement and Audit Readiness Plan and to submit semi-annual reports to Congress on the status of the implementation of such plan, was repealed by Pub. L. 115–91, div. A, title X, § 1002(c)(4), Dec. 12, 2017, 131 Stat. 1540.
 
 **Business Process Reengineering Efforts; Ongoing Programs**
 
-Pub. L. 111–84, div. A, title X, § 1072(b), Oct. 28, 2009, 123 Stat. 2471, provided that:
+Pub. L. 111–84, div. A, title X, § 1072(b), Oct. 28, 2009, 123 Stat. 2471, provided that:
 
 > **“(1) In general.—** Not later than one year after the date of the enactment of this Act [Oct. 28, 2009], the appropriate chief management officer for each defense business system modernization approved by the Defense Business Systems Management Committee before the date of the enactment of this Act that will have a total cost in excess of $100,000,000 shall review such defense business system modernization to determine whether or not appropriate business process reengineering efforts have been undertaken to ensure that—
 
@@ -2671,7 +2671,7 @@ Pub. L. 111–84, div. A, title X, § 1072(b), Oct. 28, 2009, 123 Stat. 2471, 
 
 **Business Transformation Initiatives for the Military Departments**
 
-Pub. L. 110–417, [div. A], title IX, § 908, Oct. 14, 2008, 122 Stat. 4569, provided that:
+Pub. L. 110–417, [div. A], title IX, § 908, Oct. 14, 2008, 122 Stat. 4569, provided that:
 
 > **“(a) In General.—** The Secretary of each military department shall, acting through the Chief Management Officer of such military department, carry out an initiative for the business transformation of such military department.
 
@@ -2721,7 +2721,7 @@ Pub. L. 110–417, [div. A], title IX, § 908, Oct. 14, 2008, 122 Stat. 4569, 
 
 **Financial Management Transformation Initiative for the Defense Agencies**
 
-Pub. L. 110–181, div. A, title X, § 1005, Jan. 28, 2008, 122 Stat. 301, provided that:
+Pub. L. 110–181, div. A, title X, § 1005, Jan. 28, 2008, 122 Stat. 301, provided that:
 
 > **“(a) Financial Management Transformation Initiative.—**
 
@@ -2787,7 +2787,7 @@ Pub. L. 110–181, div. A, title X, § 1005, Jan. 28, 2008, 122 Stat. 301, pro
 
 **Limitation on Financial Management Improvement and Audit Initiatives Within the Department of Defense**
 
-Pub. L. 109–364, div. A, title III, § 321, Oct. 17, 2006, 120 Stat. 2144, as amended by Pub. L. 111–383, div. A, title X, § 1075(g)(1), Jan. 7, 2011, 124 Stat. 4376, provided that:
+Pub. L. 109–364, div. A, title III, § 321, Oct. 17, 2006, 120 Stat. 2144, as amended by Pub. L. 111–383, div. A, title X, § 1075(g)(1), Jan. 7, 2011, 124 Stat. 4376, provided that:
 
 > **“(a) Limitation.—** The Secretary of Defense may not obligate or expend any funds for the purpose of any financial management improvement activity relating to the preparation, processing, or auditing of financial statements until the Secretary submits to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a written determination that each activity proposed to be funded is—
 
@@ -2799,9 +2799,9 @@ Pub. L. 109–364, div. A, title III, § 321, Oct. 17, 2006, 120 Stat. 2144, a
 
 **Time-Certain Development for Department of Defense Information Technology Business Systems**
 
-Pub. L. 109–364, div. A, title VIII, § 811, Oct. 17, 2006, 120 Stat. 2316, which provided limitations for Milestone A approval and initial operational capability regarding certain Department of Defense information technology business systems, was repealed by Pub. L. 114–92, div. A, title VIII, § 883(c), Nov. 25, 2015, 129 Stat. 947.
+Pub. L. 109–364, div. A, title VIII, § 811, Oct. 17, 2006, 120 Stat. 2316, which provided limitations for Milestone A approval and initial operational capability regarding certain Department of Defense information technology business systems, was repealed by Pub. L. 114–92, div. A, title VIII, § 883(c), Nov. 25, 2015, 129 Stat. 947.
 
-## § 2223. Information technology: additional responsibilities of Chief Information Officers
+## § 2223. Information technology: additional responsibilities of Chief Information Officers
 
 **(a) Additional Responsibilities of Chief Information Officer of Department of Defense.—** In addition to the responsibilities provided for in chapter 35 of title 44 and in section 11315 of title 40, the Chief Information Officer of the Department of Defense shall—
 
@@ -2833,7 +2833,7 @@ Pub. L. 109–364, div. A, title VIII, § 811, Oct. 17, 2006, 120 Stat. 2316, 
 
 **(3)** The term “national security system” has the meaning given that term by section 3552(b)(6) of title 44.
 
-(Added Pub. L. 105–261, div. A, title III, § 331(a)(1), Oct. 17, 1998, 112 Stat. 1967; amended Pub. L. 106–398, § 1 [[div. A], title VIII, § 811(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–210; Pub. L. 107–217, § 3(b)(1), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 109–364, div. A, title IX, § 906(b), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 113–283, § 2(e)(5)(B), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 114–92, div. A, title X, § 1081(a)(7), Nov. 25, 2015, 129 Stat. 1001.)
+(Added Pub. L. 105–261, div. A, title III, § 331(a)(1), Oct. 17, 1998, 112 Stat. 1967; amended Pub. L. 106–398, § 1 [[div. A], title VIII, § 811(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–210; Pub. L. 107–217, § 3(b)(1), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 109–364, div. A, title IX, § 906(b), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 113–283, § 2(e)(5)(B), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 114–92, div. A, title X, § 1081(a)(7), Nov. 25, 2015, 129 Stat. 1001.)
 
 **Editorial Notes**
 
@@ -2845,11 +2845,11 @@ Pub. L. 109–364, div. A, title VIII, § 811, Oct. 17, 2006, 120 Stat. 2316, 
 
 2006—Subsec. (c)(3). Pub. L. 109–364 substituted “section 3542(b)(2) of title 44” for “section 11103 of title 40”.
 
-2002—Subsecs. (a), (b). Pub. L. 107–217, § 3(b)(1)(A), (B), substituted “section 11315 of title 40” for “section 5125 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1425)” in introductory provisions.
+2002—Subsecs. (a), (b). Pub. L. 107–217, § 3(b)(1)(A), (B), substituted “section 11315 of title 40” for “section 5125 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1425)” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 107–217, § 3(b)(1)(C), substituted “section 11101 of title 40” for “section 5002 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401)”.
+Subsec. (c)(2). Pub. L. 107–217, § 3(b)(1)(C), substituted “section 11101 of title 40” for “section 5002 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401)”.
 
-Subsec. (c)(3). Pub. L. 107–217, § 3(b)(1)(D), substituted “section 11103 of title 40” for “section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452)”.
+Subsec. (c)(3). Pub. L. 107–217, § 3(b)(1)(D), substituted “section 11103 of title 40” for “section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452)”.
 
 2000—Subsec. (a)(5). Pub. L. 106–398 added par. (5).
 
@@ -2857,11 +2857,11 @@ Subsec. (c)(3). Pub. L. 107–217, § 3(b)(1)(D), substituted “section 11103
 
 **Effective Date**
 
-Pub. L. 105–261, div. A, title III, § 331(b), Oct. 17, 1998, 112 Stat. 1968, provided that: “Section 2223 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1998.”
+Pub. L. 105–261, div. A, title III, § 331(b), Oct. 17, 1998, 112 Stat. 1968, provided that: “Section 2223 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1998.”
 
 **Enhanced Security Strategy for Procurement of Private Fifth-Generation Wireless Technology**
 
-Pub. L. 119–60, div. A, title VIII, § 877, Dec. 18, 2025, 139 Stat. 1005, provided that:
+Pub. L. 119–60, div. A, title VIII, § 877, Dec. 18, 2025, 139 Stat. 1005, provided that:
 
 > **“(a) In General.—** Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall require a contractor for a procurement related to fifth-generation wireless technology for private networks on military installations to provide the information described in subsection (b) to promote enhanced wireless network security requirements, including supply chain risk management.
 
@@ -2881,7 +2881,7 @@ Pub. L. 119–60, div. A, title VIII, § 877, Dec. 18, 2025, 139 Stat. 1005, p
 
 **Plan for Deploying Private Fifth Generation and Future Generation Open Radio Access Network Architecture on Department of Defense Military Installations**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2853, Dec. 18, 2025, 139 Stat. 1323, provided that:
+Pub. L. 119–60, div. B, title XXVIII, § 2853, Dec. 18, 2025, 139 Stat. 1323, provided that:
 
 > **“(a) Requirement for Prioritized List of Military Installations.—** Pursuant to section 1526 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 10 U.S.C. 4571 note) and the Department of Defense Private 5G Deployment Strategy (dated October 2024), each Secretary of a military department shall develop a prioritized list of military installations that merit investment in private fifth generation and future generation information and communications networks.
 
@@ -2939,7 +2939,7 @@ Pub. L. 119–60, div. B, title XXVIII, § 2853, Dec. 18, 2025, 139 Stat. 1323
 
 **Modernization of the Department of Defense’s Authorization To Operate Processes**
 
-Pub. L. 118–159, div. A, title XV, § 1522, Dec. 23, 2024, 138 Stat. 2140, as amended by Pub. L. 119–60, div. A, title XV, § 1521, Dec. 18, 2025, 139 Stat. 1154, provided that:
+Pub. L. 118–159, div. A, title XV, § 1522, Dec. 23, 2024, 138 Stat. 2140, as amended by Pub. L. 119–60, div. A, title XV, § 1521, Dec. 18, 2025, 139 Stat. 1154, provided that:
 
 > **“(a) Active Directory of Authorizing Officials.—**
 
@@ -3055,7 +3055,7 @@ Pub. L. 118–159, div. A, title XV, § 1522, Dec. 23, 2024, 138 Stat. 2140, a
 
 **Required Policies To Establish Datalink Strategy of Department of Defense**
 
-Pub. L. 118–31, div. A, title XV, § 1527, Dec. 22, 2023, 137 Stat. 559, as amended by Pub. L. 119–60, div. A, title XV, § 1522, Dec. 18, 2025, 139 Stat. 1156, provided that:
+Pub. L. 118–31, div. A, title XV, § 1527, Dec. 22, 2023, 137 Stat. 559, as amended by Pub. L. 119–60, div. A, title XV, § 1522, Dec. 18, 2025, 139 Stat. 1156, provided that:
 
 > **“(a) Policies Required.—**
 
@@ -3097,7 +3097,7 @@ Pub. L. 118–31, div. A, title XV, § 1527, Dec. 22, 2023, 137 Stat. 559, as 
 
 **Demonstration Program for Component Content Management Systems**
 
-Pub. L. 117–263, div. A, title IX, § 917, Dec. 23, 2022, 136 Stat. 2756, provided that:
+Pub. L. 117–263, div. A, title IX, § 917, Dec. 23, 2022, 136 Stat. 2756, provided that:
 
 > **“(a) In General.—** Not later than July 1, 2023, the Chief Information Officer of the Department of Defense, in coordination with the official designated under section 238(b) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061), shall complete a pilot program to demonstrate the application of component content management systems to a distinct set of data of the Department.
 
@@ -3119,7 +3119,7 @@ Pub. L. 117–263, div. A, title IX, § 917, Dec. 23, 2022, 136 Stat. 2756, pr
 
 **Legacy Information Technologies and Systems Accountability**
 
-Pub. L. 117–81, div. A, title XV, § 1522, Dec. 27, 2021, 135 Stat. 2041, provided that:
+Pub. L. 117–81, div. A, title XV, § 1522, Dec. 27, 2021, 135 Stat. 2041, provided that:
 
 > **“(a) In General.—** Not later than 270 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretaries of the Army, Navy, and Air Force shall each initiate efforts to identify legacy applications, software, and information technology within their respective Departments and eliminate any such application, software, or information technology that is no longer required.
 
@@ -3139,7 +3139,7 @@ Pub. L. 117–81, div. A, title XV, § 1522, Dec. 27, 2021, 135 Stat. 2041, pr
 
 **Governance of Fifth-Generation Wireless Networking in the Department of Defense**
 
-Pub. L. 116–283, div. A, title II, § 224, Jan. 1, 2021, 134 Stat. 3472, provided that:
+Pub. L. 116–283, div. A, title II, § 224, Jan. 1, 2021, 134 Stat. 3472, provided that:
 
 > **“(a) Transition of 5G Wireless Networking to Operational Use.—**
 
@@ -3235,7 +3235,7 @@ Pub. L. 116–283, div. A, title II, § 224, Jan. 1, 2021, 134 Stat. 3472, pro
 
 **Demonstration Project on Use of Certain Technologies for Fifth-Generation Wireless Networking Services**
 
-Pub. L. 116–283, div. A, title II, § 225, Jan. 1, 2021, 134 Stat. 3475, provided that:
+Pub. L. 116–283, div. A, title II, § 225, Jan. 1, 2021, 134 Stat. 3475, provided that:
 
 > **“(a) Demonstration Project.—** The Secretary of Defense shall carry out a demonstration project to evaluate the maturity, performance, and cost of covered technologies to provide additional options for providers of fifth-generation wireless network services.
 
@@ -3251,7 +3251,7 @@ Pub. L. 116–283, div. A, title II, § 225, Jan. 1, 2021, 134 Stat. 3475, pro
 
 **Strategy and Implementation Plan for Fifth Generation Information and Communications Technologies**
 
-Pub. L. 116–92, div. A, title II, § 254, Dec. 20, 2019, 133 Stat. 1287, as amended by Pub. L. 117–263, div. A, title II, § 232, Dec. 23, 2022, 136 Stat. 2486, provided that:
+Pub. L. 116–92, div. A, title II, § 254, Dec. 20, 2019, 133 Stat. 1287, as amended by Pub. L. 117–263, div. A, title II, § 232, Dec. 23, 2022, 136 Stat. 2486, provided that:
 
 > **“(a) In General.—** Not later than 270 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall develop—
 
@@ -3319,7 +3319,7 @@ Pub. L. 116–92, div. A, title II, § 254, Dec. 20, 2019, 133 Stat. 1287, as 
 
 **Improved Management of Information Technology and Cyberspace Investments**
 
-Pub. L. 116–92, div. A, title VIII, § 892, Dec. 20, 2019, 133 Stat. 1539, provided that:
+Pub. L. 116–92, div. A, title VIII, § 892, Dec. 20, 2019, 133 Stat. 1539, provided that:
 
 > **“(a) Improved Management.—**
 
@@ -3331,7 +3331,7 @@ Pub. L. 116–92, div. A, title VIII, § 892, Dec. 20, 2019, 133 Stat. 1539, p
 
 **Chief Data Officer Responsibility for DoD Data Sets**
 
-Pub. L. 116–92, div. A, title IX, § 903(b), Dec. 20, 2019, 133 Stat. 1555, as amended by Pub. L. 117–263, div. A, title II, § 212(k), Dec. 23, 2022, 136 Stat. 2470, provided that:
+Pub. L. 116–92, div. A, title IX, § 903(b), Dec. 20, 2019, 133 Stat. 1555, as amended by Pub. L. 117–263, div. A, title II, § 212(k), Dec. 23, 2022, 136 Stat. 2470, provided that:
 
 > **“(1) In general.—** In addition to any other functions and responsibilities specified in section 3520(c) of title 44, United States, Code, the Chief Data Officer of the Department of Defense shall also be the official in the Department of Defense with principal responsibility for providing for the availability of common, usable, Defense-wide data sets.
 
@@ -3341,7 +3341,7 @@ Pub. L. 116–92, div. A, title IX, § 903(b), Dec. 20, 2019, 133 Stat. 1555, 
 
 **Policy Regarding the Transition of Data and Applications to the Cloud**
 
-Pub. L. 116–92, div. A, title XVII, § 1755, Dec. 20, 2019, 133 Stat. 1854, provided that:
+Pub. L. 116–92, div. A, title XVII, § 1755, Dec. 20, 2019, 133 Stat. 1854, provided that:
 
 > **“(a) Policy Required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Chief Information Officer of the Department of Defense and the Chief Data Officer of the Department shall, in consultation with the J6 of the Joint Staff and the Chief Management Officer, develop and issue enterprise-wide policy and implementing instructions regarding the transition of data and applications to the cloud under the Department cloud strategy in accordance with subsection (b).
 
@@ -3357,7 +3357,7 @@ Pub. L. 116–92, div. A, title XVII, § 1755, Dec. 20, 2019, 133 Stat. 1854, 
 
 **Activities and Reporting Relating to Department of Defense’s Cloud Initiative**
 
-Pub. L. 115–232, div. A, title X, § 1064, Aug. 13, 2018, 132 Stat. 1971, provided that:
+Pub. L. 115–232, div. A, title X, § 1064, Aug. 13, 2018, 132 Stat. 1971, provided that:
 
 > **“(a) Activities Required.—** Commencing not later than 90 days after the date of the enactment of this Act [Aug. 13, 2018], the Chief Information Officer of the Department of Defense, acting through the Cloud Executive Steering Group established by the Deputy Secretary of Defense in a directive memorandum dated September 13, 2017, in order to support its Joint Enterprise Defense Infrastructure initiative to procure commercial cloud services, shall conduct certain key enabling activities as follows:
 
@@ -3421,7 +3421,7 @@ Pub. L. 115–232, div. A, title X, § 1064, Aug. 13, 2018, 132 Stat. 1971, pr
 
 **Pilot Program for Open Source Software**
 
-Pub. L. 115–91, div. A, title VIII, § 875, Dec. 12, 2017, 131 Stat. 1503, provided that:
+Pub. L. 115–91, div. A, title VIII, § 875, Dec. 12, 2017, 131 Stat. 1503, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall initiate for the Department of Defense the open source software pilot program established by the Office of Management and Budget Memorandum M-16-21 titled ‘Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software’ and dated August 8, 2016.
 
@@ -3431,7 +3431,7 @@ Pub. L. 115–91, div. A, title VIII, § 875, Dec. 12, 2017, 131 Stat. 1503, p
 
 **Pilot Program on Evaluation of Commercial Information Technology**
 
-Pub. L. 114–328, div. A, title II, § 232, Dec. 23, 2016, 130 Stat. 2061, provided that:
+Pub. L. 114–328, div. A, title II, § 232, Dec. 23, 2016, 130 Stat. 2061, provided that:
 
 > **“(a) Pilot Program.—** The Director of the Defense Information Systems Agency may carry out a pilot program to evaluate commercially available information technology tools to better understand the potential impact of such tools on networks and computing environments of the Department of Defense.
 
@@ -3455,7 +3455,7 @@ Pub. L. 114–328, div. A, title II, § 232, Dec. 23, 2016, 130 Stat. 2061, pr
 
 **Additional Requirements Relating to the Software Licenses of the Department of Defense**
 
-Pub. L. 113–66, div. A, title IX, § 935, Dec. 26, 2013, 127 Stat. 833, provided that:
+Pub. L. 113–66, div. A, title IX, § 935, Dec. 26, 2013, 127 Stat. 833, provided that:
 
 > **“(a) Updated Plan.—**
 
@@ -3475,7 +3475,7 @@ Pub. L. 113–66, div. A, title IX, § 935, Dec. 26, 2013, 127 Stat. 833, prov
 
 **Collection and Analysis of Network Flow Data**
 
-Pub. L. 112–239, div. A, title IX, § 935, Jan. 2, 2013, 126 Stat. 1886, provided that:
+Pub. L. 112–239, div. A, title IX, § 935, Jan. 2, 2013, 126 Stat. 1886, provided that:
 
 > **“(a) Development of Technologies.—** The Chief Information Officer of the Department of Defense may, in coordination with the Under Secretary of Defense for Policy and the Under Secretary of Defense for Intelligence [now Under Secretary of Defense for Intelligence and Security] and acting through the Director of the Defense Information Systems Agency, use the available funding and research activities and capabilities of the Community Data Center of the Defense Information Systems Agency to develop and demonstrate collection, processing, and storage technologies for network flow data that—
 
@@ -3495,7 +3495,7 @@ Pub. L. 112–239, div. A, title IX, § 935, Jan. 2, 2013, 126 Stat. 1886, pro
 
 **Competition for Large-Scale Software Database and Data Analysis Tools**
 
-Pub. L. 112–239, div. A, title IX, § 936, Jan. 2, 2013, 126 Stat. 1886, provided that:
+Pub. L. 112–239, div. A, title IX, § 936, Jan. 2, 2013, 126 Stat. 1886, provided that:
 
 > **“(a) Analysis.—**
 
@@ -3517,7 +3517,7 @@ Pub. L. 112–239, div. A, title IX, § 936, Jan. 2, 2013, 126 Stat. 1886, pro
 
 **Software Licenses of the Department of Defense**
 
-Pub. L. 112–239, div. A, title IX, § 937, Jan. 2, 2013, 126 Stat. 1887, provided that:
+Pub. L. 112–239, div. A, title IX, § 937, Jan. 2, 2013, 126 Stat. 1887, provided that:
 
 > **“(a) Plan for Inventory of Licenses.—**
 
@@ -3537,7 +3537,7 @@ Pub. L. 112–239, div. A, title IX, § 937, Jan. 2, 2013, 126 Stat. 1887, pro
 
 **Ozone Widget Framework**
 
-Pub. L. 112–81, div. A, title IX, § 924, Dec. 31, 2011, 125 Stat. 1539, provided that:
+Pub. L. 112–81, div. A, title IX, § 924, Dec. 31, 2011, 125 Stat. 1539, provided that:
 
 > **“(a) Mechanism for Internet Publication of Information for Development of Analysis Tools and Applications.—** The Chief Information Officer of the Department of Defense, acting through the Director of the Defense Information Systems Agency, shall implement a mechanism to publish and maintain on the public Internet the application programming interface specifications, a developer’s toolkit, source code, and such other information on, and resources for, the Ozone Widget Framework (OWF) as the Chief Information Officer considers necessary to permit individuals and companies to develop, integrate, and test analysis tools and applications for use by the Department of Defense and the elements of the intelligence community.
 
@@ -3551,7 +3551,7 @@ Pub. L. 112–81, div. A, title IX, § 924, Dec. 31, 2011, 125 Stat. 1539, pro
 
 **Continuous Monitoring of Department of Defense Information Systems for Cybersecurity**
 
-Pub. L. 111–383, div. A, title IX, § 931, Jan. 7, 2011, 124 Stat. 4334, provided that:
+Pub. L. 111–383, div. A, title IX, § 931, Jan. 7, 2011, 124 Stat. 4334, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall direct the Chief Information Officer of the Department of Defense to work, in coordination with the Chief Information Officers of the military departments and the Defense Agencies and with senior cybersecurity and information assurance officials within the Department of Defense and otherwise within the Federal Government, to achieve, to the extent practicable, the following:
 
@@ -3575,9 +3575,9 @@ Pub. L. 111–383, div. A, title IX, § 931, Jan. 7, 2011, 124 Stat. 4334, pro
 
 > **“(3)** The term ‘national security system’ has the meaning given that term in [former] section 3542(b)(2) of title 44, United States Code [see now 44 U.S.C. 3552(b)(6)].”
 
-## [§ 2223a. Renumbered § 4571]
+## [§ 2223a. Renumbered § 4571]
 
-## § 2224. Defense Information Assurance Program
+## § 2224. Defense Information Assurance Program
 
 **(a) Defense Information Assurance Program.—** The Secretary of Defense shall carry out a program, to be known as the “Defense Information Assurance Program”, to protect and defend Department of Defense information, information systems, and information networks that are critical to the Department and the armed forces during day-to-day operations and operations in times of crisis.
 
@@ -3599,7 +3599,7 @@ Pub. L. 111–383, div. A, title IX, § 931, Jan. 7, 2011, 124 Stat. 4334, pro
 
 **(d) Coordination.—** In carrying out the program, the Secretary shall coordinate, as appropriate, with the head of any relevant Federal agency and with representatives of those national critical information infrastructure systems that are essential to the operations of the Department and the armed forces on information assurance measures necessary to the protection of these systems.
 
-**[(e)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(12), Nov. 24, 2003, 117 Stat. 1597.]
+**[(e)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(12), Nov. 24, 2003, 117 Stat. 1597.]
 
 **(f) Information Assurance Test Bed.—** The Secretary shall develop an information assurance test bed within the Department of Defense to provide—
 
@@ -3607,7 +3607,7 @@ Pub. L. 111–383, div. A, title IX, § 931, Jan. 7, 2011, 124 Stat. 4334, pro
 
 **(2)** organization and planning means for the conduct by the Department of the integrated or joint exercises and experiments with elements of the national information systems infrastructure and other non-Department of Defense organizations that are responsible for the oversight and management of critical information systems and infrastructures on which the Department, the armed forces, and supporting activities depend for the conduct of daily operations and operations during crisis.
 
-(Added Pub. L. 106–65, div. A, title X, § 1043(a), Oct. 5, 1999, 113 Stat. 760; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1063], Oct. 30, 2000, 114 Stat. 1654, 1654A–274; Pub. L. 107–296, title X, § 1001(c)(1)(B), Nov. 25, 2002, 116 Stat. 2267; Pub. L. 107–347, title III, § 301(c)(1)(B), Dec. 17, 2002, 116 Stat. 2955; Pub. L. 108–136, div. A, title X, § 1031(a)(12), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 108–375, div. A, title X, § 1084(d)(17), Oct. 28, 2004, 118 Stat. 2062.)
+(Added Pub. L. 106–65, div. A, title X, § 1043(a), Oct. 5, 1999, 113 Stat. 760; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1063], Oct. 30, 2000, 114 Stat. 1654, 1654A–274; Pub. L. 107–296, title X, § 1001(c)(1)(B), Nov. 25, 2002, 116 Stat. 2267; Pub. L. 107–347, title III, § 301(c)(1)(B), Dec. 17, 2002, 116 Stat. 2955; Pub. L. 108–136, div. A, title X, § 1031(a)(12), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 108–375, div. A, title X, § 1084(d)(17), Oct. 28, 2004, 118 Stat. 2062.)
 
 **Editorial Notes**
 
@@ -3617,19 +3617,19 @@ Pub. L. 111–383, div. A, title IX, § 931, Jan. 7, 2011, 124 Stat. 4334, pro
 
 2003—Subsec. (e). Pub. L. 108–136 struck out subsec. (e) which directed the Secretary of Defense to annually submit to Congress a report on the Defense Information Assurance Program.
 
-2002—Subsec. (b). Pub. L. 107–296, § 1001(c)(1)(B)(i), and Pub. L. 107–347, § 301(c)(1)(B)(i), amended subsec. (b) identically, substituting “Objectives of the Program” for “Objectives and Minimum Requirements” in heading and striking out par. (1) designation before “The objectives”.
+2002—Subsec. (b). Pub. L. 107–296, § 1001(c)(1)(B)(i), and Pub. L. 107–347, § 301(c)(1)(B)(i), amended subsec. (b) identically, substituting “Objectives of the Program” for “Objectives and Minimum Requirements” in heading and striking out par. (1) designation before “The objectives”.
 
-Subsec. (b)(2). Pub. L. 107–347, § 301(c)(1)(B)(ii), struck out par. (2) which read as follows: “The program shall at a minimum meet the requirements of sections 3534 and 3535 of title 44.”
+Subsec. (b)(2). Pub. L. 107–347, § 301(c)(1)(B)(ii), struck out par. (2) which read as follows: “The program shall at a minimum meet the requirements of sections 3534 and 3535 of title 44.”
 
-Pub. L. 107–296, § 1001(c)(1)(B)(ii), which directed the striking out of “(2) the program shall at a minimum meet the requirements of section 3534 and 3535 of title 44, United States Code.” could not be executed. See above par.
+Pub. L. 107–296, § 1001(c)(1)(B)(ii), which directed the striking out of “(2) the program shall at a minimum meet the requirements of section 3534 and 3535 of title 44, United States Code.” could not be executed. See above par.
 
-Subsec. (c). Pub. L. 107–347, § 301(c)(1)(B)(iii), inserted “, including through compliance with subchapter III of chapter 35 of title 44” after “infrastructure” in introductory provisions.
+Subsec. (c). Pub. L. 107–347, § 301(c)(1)(B)(iii), inserted “, including through compliance with subchapter III of chapter 35 of title 44” after “infrastructure” in introductory provisions.
 
-Pub. L. 107–296, § 1001(c)(1)(B)(iii), inserted “, including through compliance with subtitle II of chapter 35 of title 44” after “infrastructure” in introductory provisions.
+Pub. L. 107–296, § 1001(c)(1)(B)(iii), inserted “, including through compliance with subtitle II of chapter 35 of title 44” after “infrastructure” in introductory provisions.
 
-2000—Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title X, § 1063(a)], substituted “Objectives and Minimum Requirements” for “Objectives of the Program” in heading, designated existing provisions as par. (1), and added par. (2).
+2000—Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title X, § 1063(a)], substituted “Objectives and Minimum Requirements” for “Objectives of the Program” in heading, designated existing provisions as par. (1), and added par. (2).
 
-Subsec. (e)(7). Pub. L. 106–398, § 1 [[div. A], title X, § 1063(b)], added par. (7).
+Subsec. (e)(7). Pub. L. 106–398, § 1 [[div. A], title X, § 1063(b)], added par. (7).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3639,11 +3639,11 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 **Effective Date of 2000 Amendment**
 
-Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1065] of Pub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654, formerly set out as an Effective Date note under former section 3531 of Title 44, Public Printing and Documents.
+Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1065] of Pub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654, formerly set out as an Effective Date note under former section 3531 of Title 44, Public Printing and Documents.
 
 **Biological Data for Artificial Intelligence**
 
-Pub. L. 119–60, div. A, title II, § 245, Dec. 18, 2025, 139 Stat. 796, provided that:
+Pub. L. 119–60, div. A, title II, § 245, Dec. 18, 2025, 139 Stat. 796, provided that:
 
 > **“(a) AI Accessibility to Qualified Biological Data Resources.—**
 
@@ -3679,7 +3679,7 @@ Pub. L. 119–60, div. A, title II, § 245, Dec. 18, 2025, 139 Stat. 796, prov
 
 **Secure Mobile Phones for Senior Officials and Personnel Performing Sensitive Functions**
 
-Pub. L. 119–60, div. A, title XV, § 1511, Dec. 18, 2025, 139 Stat. 1147, provided that:
+Pub. L. 119–60, div. A, title XV, § 1511, Dec. 18, 2025, 139 Stat. 1147, provided that:
 
 > **“(a) In General.—** Beginning not later than 90 days after the date of enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall ensure that each wireless mobile phone the Department of Defense provides to a senior official of the Department or any other employee of the Department who performs sensitive national security functions, as determined by the Secretary, and all related telecommunications services are acquired under contracts or other agreements that require the enhanced cybersecurity protections described in subsection (b).
 
@@ -3701,7 +3701,7 @@ Pub. L. 119–60, div. A, title XV, § 1511, Dec. 18, 2025, 139 Stat. 1147, pr
 
 **Physical and Cybersecurity Procurement Requirements for Artificial Intelligence Systems**
 
-Pub. L. 119–60, div. A, title XV, § 1513, Dec. 18, 2025, 139 Stat. 1149, provided that:
+Pub. L. 119–60, div. A, title XV, § 1513, Dec. 18, 2025, 139 Stat. 1149, provided that:
 
 > **“(a) Security Framework.—**
 
@@ -3783,7 +3783,7 @@ Pub. L. 119–60, div. A, title XV, § 1513, Dec. 18, 2025, 139 Stat. 1149, pr
 
 **Guidance and Prohibition on Use of Certain Artificial Intelligence**
 
-Pub. L. 119–60, div. A, title XV, § 1532, Dec. 18, 2025, 139 Stat. 1157, provided that:
+Pub. L. 119–60, div. A, title XV, § 1532, Dec. 18, 2025, 139 Stat. 1157, provided that:
 
 > **“(a) Guidance and Prohibitions.—**
 
@@ -3837,7 +3837,7 @@ Pub. L. 119–60, div. A, title XV, § 1532, Dec. 18, 2025, 139 Stat. 1157, pr
 
 **Usability of Antiquated and Proprietary Data Formats for Modern Operations**
 
-Pub. L. 118–159, div. A, title XV, § 1521, Dec. 23, 2024, 138 Stat. 2138, provided that:
+Pub. L. 118–159, div. A, title XV, § 1521, Dec. 23, 2024, 138 Stat. 2138, provided that:
 
 > **“(a) Strategy and Roadmap.—**
 
@@ -3893,7 +3893,7 @@ Pub. L. 118–159, div. A, title XV, § 1521, Dec. 23, 2024, 138 Stat. 2138, p
 
 **Update of Biometric Policy of Department of Defense**
 
-Pub. L. 118–159, div. A, title XV, § 1523, Dec. 23, 2024, 138 Stat. 2142, provided that:
+Pub. L. 118–159, div. A, title XV, § 1523, Dec. 23, 2024, 138 Stat. 2142, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Under Secretary of Defense for Intelligence and Security shall update the policy of the Department of Defense regarding the protection of biometric data.
 
@@ -3907,7 +3907,7 @@ Pub. L. 118–159, div. A, title XV, § 1523, Dec. 23, 2024, 138 Stat. 2142, p
 
 **Review and Plan Relating to Cyber Red Teams of Department of Defense**
 
-Pub. L. 118–31, div. A, title XV, § 1507, Dec. 22, 2023, 137 Stat. 540, provided that:
+Pub. L. 118–31, div. A, title XV, § 1507, Dec. 22, 2023, 137 Stat. 540, provided that:
 
 > **“(a) Review Relating to Prior Joint Assessment.—**
 
@@ -3945,7 +3945,7 @@ Pub. L. 118–31, div. A, title XV, § 1507, Dec. 22, 2023, 137 Stat. 540, pro
 
 **Transfer of Data and Technology Developed Under MOSAICS Program**
 
-Pub. L. 118–31, div. A, title XV, § 1514, Dec. 22, 2023, 137 Stat. 545, provided that:
+Pub. L. 118–31, div. A, title XV, § 1514, Dec. 22, 2023, 137 Stat. 545, provided that:
 
 > **“(a) Transfers Authorized.—** The Secretary of Defense may transfer to eligible private sector entities data and technology developed under the MOSAICS program to enhance cyber threat detection and protection of critical industrial control system assets used for electricity distribution.
 
@@ -3977,7 +3977,7 @@ Pub. L. 118–31, div. A, title XV, § 1514, Dec. 22, 2023, 137 Stat. 545, pro
 
 **Modernization Program for Network Boundary and Cross-Domain Defense**
 
-Pub. L. 118–31, div. A, title XV, § 1515, Dec. 22, 2023, 137 Stat. 546, provided that:
+Pub. L. 118–31, div. A, title XV, § 1515, Dec. 22, 2023, 137 Stat. 546, provided that:
 
 > **“(a) Modernization Program Required.—** The Secretary of Defense shall carry out a modernization program for network boundary and cross-domain defense against cyber attacks. In carrying out such modernization program, the Secretary shall expand upon the fiscal year 2023 pilot program on modernized network boundary defense capabilities and the initial deployment of such capabilities to the primary Internet access points of the Department of Defense managed by the Director of the Defense Information Systems Agency.
 
@@ -4005,7 +4005,7 @@ Pub. L. 118–31, div. A, title XV, § 1515, Dec. 22, 2023, 137 Stat. 546, pro
 
 **Establishment of Certain Identity, Credential, and Access Management Activities as Program of Record**
 
-Pub. L. 118–31, div. A, title XV, § 1516, Dec. 22, 2023, 137 Stat. 546, provided that:
+Pub. L. 118–31, div. A, title XV, § 1516, Dec. 22, 2023, 137 Stat. 546, provided that:
 
 > **“(a) Establishment of Program of Record.—**
 
@@ -4045,7 +4045,7 @@ Pub. L. 118–31, div. A, title XV, § 1516, Dec. 22, 2023, 137 Stat. 546, pro
 
 **Pilot Program on Assuring Critical Infrastructure Support for Military Contingencies**
 
-Pub. L. 118–31, div. A, title XV, § 1517, Dec. 22, 2023, 137 Stat. 548, provided that:
+Pub. L. 118–31, div. A, title XV, § 1517, Dec. 22, 2023, 137 Stat. 548, provided that:
 
 > **“(a) Establishment of Pilot Program.—** Not later than 60 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall establish a pilot program to be known as the ‘Assuring Critical Infrastructure Support for Military Contingencies Pilot Program’.
 
@@ -4097,7 +4097,7 @@ Pub. L. 118–31, div. A, title XV, § 1517, Dec. 22, 2023, 137 Stat. 548, pro
 
 **Requirements for Implementation of User Activity Monitoring for Certain Personnel**
 
-Pub. L. 118–31, div. A, title XV, § 1537, Dec. 22, 2023, 137 Stat. 570, provided that:
+Pub. L. 118–31, div. A, title XV, § 1537, Dec. 22, 2023, 137 Stat. 570, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall require each head of a component of the Department of Defense to fully implement each directive, policy, and program requirement for user activity monitoring and least privilege access controls with respect to the personnel of that component, including Federal employees and contractors, granted access to classified information and classified networks, including the following directives (and any successor directives):
 
@@ -4123,7 +4123,7 @@ Pub. L. 118–31, div. A, title XV, § 1537, Dec. 22, 2023, 137 Stat. 570, pro
 
 **Management by Department of Defense of Mobile Applications**
 
-Pub. L. 118–31, div. A, title XV, § 1552, Dec. 22, 2023, 137 Stat. 579, provided that:
+Pub. L. 118–31, div. A, title XV, § 1552, Dec. 22, 2023, 137 Stat. 579, provided that:
 
 > **“(a) Implementation of Recommendations.—**
 
@@ -4143,7 +4143,7 @@ Pub. L. 118–31, div. A, title XV, § 1552, Dec. 22, 2023, 137 Stat. 579, pro
 
 **Actions To Address Serious Deficiencies in Electronic Protection of Systems That Operate in the Radio Frequency Spectrum**
 
-Pub. L. 118–31, div. A, title XVI, § 1686, Dec. 22, 2023, 137 Stat. 620, provided that:
+Pub. L. 118–31, div. A, title XVI, § 1686, Dec. 22, 2023, 137 Stat. 620, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall—
 
@@ -4183,7 +4183,7 @@ Pub. L. 118–31, div. A, title XVI, § 1686, Dec. 22, 2023, 137 Stat. 620, pr
 
 **Operational Testing for Commercial Cybersecurity Capabilities**
 
-Pub. L. 117–263, div. A, title XV, § 1514, Dec. 23, 2022, 136 Stat. 2895, provided that:
+Pub. L. 117–263, div. A, title XV, § 1514, Dec. 23, 2022, 136 Stat. 2895, provided that:
 
 > **“(a) Development and Submission of Plans.—** Not later than February 1, 2024, the Chief Information Officer of the Department of Defense and the Chief Information Officers of the military departments shall develop and submit plans described in subsection (b) to the Director of Operational Test and Evaluation who may approve the implementation of the plans pursuant to subsection (c).
 
@@ -4231,7 +4231,7 @@ Pub. L. 117–263, div. A, title XV, § 1514, Dec. 23, 2022, 136 Stat. 2895, p
 
 **Plan for Commercial Cloud Test and Evaluation**
 
-Pub. L. 117–263, div. A, title XV, § 1553, Dec. 23, 2022, 136 Stat. 2920, provided that:
+Pub. L. 117–263, div. A, title XV, § 1553, Dec. 23, 2022, 136 Stat. 2920, provided that:
 
 > **“(a) Policy and Plan.—** Not later than 180 days after the date of enactment of this Act [Dec. 23, 2022], the Secretary of Defense, in consultation with commercial industry, shall implement a policy and plan for test and evaluation of the cybersecurity of the clouds of commercial cloud service providers that provide, or are intended to provide, storage or computing of classified data of the Department of Defense.
 
@@ -4259,7 +4259,7 @@ Pub. L. 117–263, div. A, title XV, § 1553, Dec. 23, 2022, 136 Stat. 2920, p
 
 **Assessments of Weapons Systems Vulnerabilities to Radio-Frequency Enabled Cyber Attacks**
 
-Pub. L. 117–263, div. A, title XV, § 1559, Dec. 23, 2022, 136 Stat. 2926, as amended by Pub. L. 118–31, div. A, title XV, § 1502(a)(2)(F), Dec. 22, 2023, 137 Stat. 538, provided that:
+Pub. L. 117–263, div. A, title XV, § 1559, Dec. 23, 2022, 136 Stat. 2926, as amended by Pub. L. 118–31, div. A, title XV, § 1502(a)(2)(F), Dec. 22, 2023, 137 Stat. 538, provided that:
 
 > **“(a) Assessments.—** The Secretary of Defense shall ensure that the activities required by and conducted pursuant to section 1647 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1118) [10 U.S.C. 2224 note] and the amendments made by section 1712 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 134 Stat. 4087 [amending section 1647 of Pub. L. 114–92, set out as a note under this section, and section 1640 of Pub. L. 115–91, formerly set out as a note under this section]) include regular assessments of the vulnerabilities to and mission risks presented by radio-frequency enabled cyber attacks with respect to the operational technology embedded in weapons systems, aircraft, ships, ground vehicles, space systems, sensors, and datalink networks of the Department of Defense.
 
@@ -4293,7 +4293,7 @@ Pub. L. 117–263, div. A, title XV, § 1559, Dec. 23, 2022, 136 Stat. 2926, a
 
 **Coordination Between United States Cyber Command and Private Sector**
 
-Pub. L. 117–81, div. A, title XV, § 1508, Dec. 27, 2021, 135 Stat. 2032, provided that:
+Pub. L. 117–81, div. A, title XV, § 1508, Dec. 27, 2021, 135 Stat. 2032, provided that:
 
 > **“(a) Voluntary Process.—** Not later than January 1, 2023, the Commander of United States Cyber Command shall establish a voluntary process to engage with private sector information technology and cybersecurity entities to explore and develop methods and plans through which the capabilities, knowledge, and actions of—
 
@@ -4333,7 +4333,7 @@ Pub. L. 117–81, div. A, title XV, § 1508, Dec. 27, 2021, 135 Stat. 2032, pr
 
 **Enterprise-Wide Procurement of Cyber Data Products and Services**
 
-Pub. L. 117–81, div. A, title XV, § 1521, Dec. 27, 2021, 135 Stat. 2040, as amended by Pub. L. 118–31, div. A, title XV, § 1522, Dec. 22, 2023, 137 Stat. 553; Pub. L. 118–159, div. A, title XV, § 1501, Dec. 23, 2024, 138 Stat. 2131, provided that:
+Pub. L. 117–81, div. A, title XV, § 1521, Dec. 27, 2021, 135 Stat. 2040, as amended by Pub. L. 118–31, div. A, title XV, § 1522, Dec. 22, 2023, 137 Stat. 553; Pub. L. 118–159, div. A, title XV, § 1501, Dec. 23, 2024, 138 Stat. 2131, provided that:
 
 > **“(a) Program.—** Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall designate an executive agent for Department of Defense-wide procurement of cyber data products and services. The executive agent shall establish a program management office responsible for such procurement, and the program manager of such program office shall be responsible for the following:
 
@@ -4381,7 +4381,7 @@ Pub. L. 117–81, div. A, title XV, § 1521, Dec. 27, 2021, 135 Stat. 2040, as
 
 **Protective Domain Name System Within the Department of Defense**
 
-Pub. L. 117–81, div. A, title XV, § 1524, Dec. 27, 2021, 135 Stat. 2042, provided that:
+Pub. L. 117–81, div. A, title XV, § 1524, Dec. 27, 2021, 135 Stat. 2042, provided that:
 
 > **“(a) In General.—** Not later than 120 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall ensure each component of the Department of Defense uses a Protective Domain Name System (PDNS) instantiation offered by the Department.
 
@@ -4397,7 +4397,7 @@ Pub. L. 117–81, div. A, title XV, § 1524, Dec. 27, 2021, 135 Stat. 2042, pr
 
 **Cyber Data Management**
 
-Pub. L. 117–81, div. A, title XV, § 1527, Dec. 27, 2021, 135 Stat. 2043, provided that:
+Pub. L. 117–81, div. A, title XV, § 1527, Dec. 27, 2021, 135 Stat. 2043, provided that:
 
 > **“(a) In General.—** The Commander of United States Cyber Command and the Secretaries of the military departments, in coordination with the Principal Cyber Advisor to the Secretary, the Chief Information Officer and the Chief Data Officer of the Department of Defense, and the Chairman of the Joint Chiefs of Staff, shall—
 
@@ -4437,7 +4437,7 @@ Pub. L. 117–81, div. A, title XV, § 1527, Dec. 27, 2021, 135 Stat. 2043, pr
 
 **Zero Trust Strategy, Principles, Model Architecture, and Implementation Plans**
 
-Pub. L. 118–159, div. A, title XV, § 1513, Dec. 23, 2024, 138 Stat. 2136, provided that:
+Pub. L. 118–159, div. A, title XV, § 1513, Dec. 23, 2024, 138 Stat. 2136, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Chief Information Officer of the Department of Defense shall develop guidance for how—
 
@@ -4447,7 +4447,7 @@ Pub. L. 118–159, div. A, title XV, § 1513, Dec. 23, 2024, 138 Stat. 2136, p
 
 > **“(b) Internet of Things Defined.—** In this section, the term ‘Internet of Things’ has the meaning given such term by the National Institution of Standards and Technology in NIST Special Publication 800-172 and any amendatory or superseding document relating thereto.”
 
-Pub. L. 117–81, div. A, title XV, § 1528, Dec. 27, 2021, 135 Stat. 2044, as amended by Pub. L. 117–263, div. A, title XV, § 1501(c)(2), Dec. 23, 2022, 136 Stat. 2879, provided that:
+Pub. L. 117–81, div. A, title XV, § 1528, Dec. 27, 2021, 135 Stat. 2044, as amended by Pub. L. 117–263, div. A, title XV, § 1501(c)(2), Dec. 23, 2022, 136 Stat. 2879, provided that:
 
 > **“(a) In General.—** Not later than 270 days after the date of the enactment of this Act [Dec. 27, 2021], the Chief Information Officer of the Department of Defense and the Commander of United States Cyber Command shall jointly develop a zero trust strategy, principles, and a model architecture to be implemented across the Department of Defense Information Network, including classified networks, operational technology, and weapon systems.
 
@@ -4589,7 +4589,7 @@ Pub. L. 117–81, div. A, title XV, § 1528, Dec. 27, 2021, 135 Stat. 2044, as
 
 **Demonstration Program for Automated Security Validation Tools**
 
-Pub. L. 117–81, div. A, title XV, § 1529, Dec. 27, 2021, 135 Stat. 2048, provided that:
+Pub. L. 117–81, div. A, title XV, § 1529, Dec. 27, 2021, 135 Stat. 2048, provided that:
 
 > **“(a) Demonstration Program Required.—** Not later than October 1, 2024, the Chief Information Officer of the Department of Defense, acting through the Director of the Defense Information Systems Agency of the Department, shall complete a demonstration program to demonstrate and assess an automated security validation capability to assist the Department by—
 
@@ -4629,7 +4629,7 @@ Pub. L. 117–81, div. A, title XV, § 1529, Dec. 27, 2021, 135 Stat. 2048, pr
 
 **Considerations Relating to Permanently Basing United States Equipment or Additional Forces in Host Countries With At-Risk Vendors in 5G or 6G Networks**
 
-Pub. L. 116–283, div. A, title X, § 1058, Jan. 1, 2021, 134 Stat. 3856, as amended by Pub. L. 119–60, div. A, title VIII, § 811(c)(3)(D), Dec. 18, 2025, 139 Stat. 950, provided that:
+Pub. L. 116–283, div. A, title X, § 1058, Jan. 1, 2021, 134 Stat. 3856, as amended by Pub. L. 119–60, div. A, title VIII, § 811(c)(3)(D), Dec. 18, 2025, 139 Stat. 950, provided that:
 
 > **“(a) In General.—** Prior to basing a major weapon system or additional permanently assigned forces comparable to or larger than a battalion, squadron, or naval combatant in a host country with at-risk 5th generation (in this section referred to as ‘5G’) or sixth generation (in this section referred to as ‘6G’) wireless network equipment, software, or services, including supply chain vulnerabilities identified by the Federal Acquisition Security Council, where United States military personnel and their families will be directly connected or subscribers to networks that include such at-risk equipment, software, and services in their official duties or in the conduct of personal affairs, the Secretary of Defense shall take into consideration the risks to personnel, equipment, and operations of the Department of Defense in the host country posed by current or intended use by such country of 5G or 6G telecommunications architecture provided by at-risk vendors, including Huawei and ZTE, and any steps to mitigate those risks, including—
 
@@ -4661,7 +4661,7 @@ Pub. L. 116–283, div. A, title X, § 1058, Jan. 1, 2021, 134 Stat. 3856, as 
 
 **Responsibility for Cybersecurity and Critical Infrastructure Protection of the Defense Industrial Base**
 
-Pub. L. 116–283, div. A, title XVII, § 1724, Jan. 1, 2021, 134 Stat. 4111, as amended by Pub. L. 118–31, div. A, title XV, § 1511, Dec. 22, 2023, 137 Stat. 541, provided that:
+Pub. L. 116–283, div. A, title XVII, § 1724, Jan. 1, 2021, 134 Stat. 4111, as amended by Pub. L. 118–31, div. A, title XV, § 1511, Dec. 22, 2023, 137 Stat. 541, provided that:
 
 > **“(a) Critical Infrastructure Defined.—** In this section, the term ‘critical infrastructure’ has the meaning given such term in section 1016(e) of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (42 U.S.C. 5195c(e)).
 
@@ -4699,7 +4699,7 @@ Pub. L. 116–283, div. A, title XVII, § 1724, Jan. 1, 2021, 134 Stat. 4111, 
 
 **Improving the Training With Industry Program**
 
-Pub. L. 116–283, div. A, title XVII, § 1726(b), Jan. 1, 2021, 134 Stat. 4116, provided that:
+Pub. L. 116–283, div. A, title XVII, § 1726(b), Jan. 1, 2021, 134 Stat. 4116, provided that:
 
 > **“(1) In general.—** Not later than 120 days after the date of the enactment of this Act [Jan. 1, 2021], the Principal Cyber Advisor of the Department of Defense, in consultation with the Principal Cyber Advisors of the military services and the Under Secretary of Defense for Personnel and Readiness, shall submit to the Secretary of Defense and the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a review of the current utilization and utility of the Training With Industry (TWI) programs, including relating to the following:
 
@@ -4711,7 +4711,7 @@ Pub. L. 116–283, div. A, title XVII, § 1726(b), Jan. 1, 2021, 134 Stat. 411
 
 **Reporting Requirements for Cross Domain Incidents and Exemptions to Policies for Information Technology**
 
-Pub. L. 116–283, div. A, title XVII, § 1727, Jan. 1, 2021, 134 Stat. 4117, as amended by Pub. L. 118–159, div. A, title XV, § 1511, Dec. 23, 2024, 138 Stat. 2136, provided that:
+Pub. L. 116–283, div. A, title XVII, § 1727, Jan. 1, 2021, 134 Stat. 4117, as amended by Pub. L. 118–159, div. A, title XV, § 1511, Dec. 23, 2024, 138 Stat. 2136, provided that:
 
 > **“(a) Incident Reporting.—**
 
@@ -4733,7 +4733,7 @@ Pub. L. 116–283, div. A, title XVII, § 1727, Jan. 1, 2021, 134 Stat. 4117, 
 
 **Pilot Program on Cybersecurity Capability Metrics**
 
-Pub. L. 116–283, div. A, title XVII, § 1733, Jan. 1, 2021, 134 Stat. 4123, provided that:
+Pub. L. 116–283, div. A, title XVII, § 1733, Jan. 1, 2021, 134 Stat. 4123, provided that:
 
 > **“(a) Pilot Program Required.—** The Secretary of Defense, acting through the Chief Information Officer of the Department of Defense and the Commander of United States Cyber Command, shall conduct a pilot program to assess the feasibility and advisability of developing and using speed-based metrics to measure the performance and effectiveness of security operations centers and cyber security service providers in the Department of Defense.
 
@@ -4779,7 +4779,7 @@ Pub. L. 116–283, div. A, title XVII, § 1733, Jan. 1, 2021, 134 Stat. 4123, 
 
 **Integration of Department of Defense User Activity Monitoring and Cybersecurity**
 
-Pub. L. 116–283, div. A, title XVII, § 1735, Jan. 1, 2021, 134 Stat. 4125, provided that:
+Pub. L. 116–283, div. A, title XVII, § 1735, Jan. 1, 2021, 134 Stat. 4125, provided that:
 
 > **“(a) Integration of Plans, Capabilities, and Systems.—** The Secretary of Defense shall integrate the plans, capabilities, and systems for user activity monitoring, and the plans, capabilities, and systems for endpoint cybersecurity and the collection of metadata on network activity for cybersecurity to enable mutual support and information sharing.
 
@@ -4795,7 +4795,7 @@ Pub. L. 116–283, div. A, title XVII, § 1735, Jan. 1, 2021, 134 Stat. 4125, 
 
 **Assessment on Defense Industrial Base Participation in a Threat Information Sharing Program**
 
-Pub. L. 116–283, div. A, title XVII, § 1737, Jan. 1, 2021, 134 Stat. 4127, provided that:
+Pub. L. 116–283, div. A, title XVII, § 1737, Jan. 1, 2021, 134 Stat. 4127, provided that:
 
 > **“(a) Defense Industrial Base Threat Information Program Assessment.—** Not later than 270 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall complete an assessment of the feasibility, suitability, and definition of, and resourcing required to establish, a defense industrial base threat information sharing program to collaborate and share threat information with, and obtain threat information from, the defense industrial base.
 
@@ -4867,7 +4867,7 @@ Pub. L. 116–283, div. A, title XVII, § 1737, Jan. 1, 2021, 134 Stat. 4127, 
 
 **Assistance for Small Manufacturers in the Defense Industrial Supply Chain on Matters Relating to Cybersecurity**
 
-Pub. L. 116–283, div. A, title XVII, § 1738, Jan. 1, 2021, 134 Stat. 4129, provided that:
+Pub. L. 116–283, div. A, title XVII, § 1738, Jan. 1, 2021, 134 Stat. 4129, provided that:
 
 > **“(a) In General.—** Subject to the availability of appropriations, the Secretary of Defense, in consultation with the Director of the National Institute of Standards and Technology, may award financial assistance to a Center for the purpose of providing cybersecurity services to small manufacturers.
 
@@ -4907,7 +4907,7 @@ Pub. L. 116–283, div. A, title XVII, § 1738, Jan. 1, 2021, 134 Stat. 4129, 
 
 **Assessment on Defense Industrial Base Cybersecurity Threat Hunting Program**
 
-Pub. L. 116–283, div. A, title XVII, § 1739, Jan. 1, 2021, 134 Stat. 4130, provided that:
+Pub. L. 116–283, div. A, title XVII, § 1739, Jan. 1, 2021, 134 Stat. 4130, provided that:
 
 > **“(a) Assessment Required.—** Not later than 270 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall complete an assessment of the feasibility, suitability, definition of, and resourcing required to establish a defense industrial base cybersecurity threat hunting program to actively identify cybersecurity threats and vulnerabilities within the defense industrial base.
 
@@ -4979,7 +4979,7 @@ Pub. L. 116–283, div. A, title XVII, § 1739, Jan. 1, 2021, 134 Stat. 4130, 
 
 **Role of Chief Information Officer in Improving Enterprise-Wide Cybersecurity**
 
-Pub. L. 116–92, div. A, title XVI, § 1641, Dec. 20, 2019, 133 Stat. 1750, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1641, Dec. 20, 2019, 133 Stat. 1750, provided that:
 
 > **“(a) In General.—** In carrying out the responsibilities established in section 142 of title 10, United States Code, the Chief Information Officer of the Department of Defense shall, to the maximum extent practicable, ensure that the cybersecurity programs and capabilities of the Department—
 
@@ -5017,7 +5017,7 @@ Pub. L. 116–92, div. A, title XVI, § 1641, Dec. 20, 2019, 133 Stat. 1750, p
 
 **Control and Analysis of Department of Defense Data Stolen Through Cyberspace**
 
-Pub. L. 116–92, div. A, title XVI, § 1646, Dec. 20, 2019, 133 Stat. 1753, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1646, Dec. 20, 2019, 133 Stat. 1753, provided that:
 
 > **“(a) Requirements.—** If the Secretary of Defense determines that significant Department of Defense data may have been stolen through cyberspace and evidence of theft of the data in question—
 
@@ -5045,7 +5045,7 @@ Pub. L. 116–92, div. A, title XVI, § 1646, Dec. 20, 2019, 133 Stat. 1753, p
 
 **Use of National Security Agency Cybersecurity Expertise To Support Evaluation of Commercial Cybersecurity Products**
 
-Pub. L. 116–92, div. A, title XVI, § 1647, Dec. 20, 2019, 133 Stat. 1754, as amended by Pub. L. 116–283, div. A, title X, § 1081(c)(7), Jan. 1, 2021, 134 Stat. 3873, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1647, Dec. 20, 2019, 133 Stat. 1754, as amended by Pub. L. 116–283, div. A, title X, § 1081(c)(7), Jan. 1, 2021, 134 Stat. 3873, provided that:
 
 > **“(a) Advisory Mission.—** The National Security Agency shall, as a mission in its role in securing the information systems of the Department of Defense, advise and assist the Department of Defense in its evaluation and adoption of cybersecurity products and services from industry, especially the commercial cybersecurity sector.
 
@@ -5081,11 +5081,11 @@ Pub. L. 116–92, div. A, title XVI, § 1647, Dec. 20, 2019, 133 Stat. 1754, a
 
 > **“(C)** be used for the procurement and fielding of cybersecurity products on behalf of the Department.”
 
-[Pub. L. 116–283, div. A, title X, § 1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(7) of Pub. L. 116–283 to section 1647 of Pub. L. 116–92, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019) and as if included in Pub. L. 116–92.]
+[Pub. L. 116–283, div. A, title X, § 1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(7) of Pub. L. 116–283 to section 1647 of Pub. L. 116–92, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019) and as if included in Pub. L. 116–92.]
 
 **Framework To Enhance Cybersecurity of the United States Defense Industrial Base**
 
-Pub. L. 116–92, div. A, title XVI, § 1648, Dec. 20, 2019, 133 Stat. 1755, as amended by Pub. L. 117–81, div. A, title XV, § 1526, Dec. 27, 2021, 135 Stat. 2043, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1648, Dec. 20, 2019, 133 Stat. 1755, as amended by Pub. L. 117–81, div. A, title XV, § 1526, Dec. 27, 2021, 135 Stat. 2043, provided that:
 
 > **“(a) Framework Required.—** Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022 [Dec. 27, 2021], the Secretary of Defense shall develop a consistent, comprehensive framework to enhance cybersecurity for the United States defense industrial base.
 
@@ -5209,7 +5209,7 @@ Pub. L. 116–92, div. A, title XVI, § 1648, Dec. 20, 2019, 133 Stat. 1755, a
 
 **Designation of Test Networks for Testing and Accreditation of Cybersecurity Products and Services**
 
-Pub. L. 116–92, div. A, title XVI, § 1658, Dec. 20, 2019, 133 Stat. 1769, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1658, Dec. 20, 2019, 133 Stat. 1769, provided that:
 
 > **“(a) Designation.—** Not later than April 1, 2020, the Secretary of Defense shall designate, for use by the Defense Information Systems Agency and such other components of the Department of Defense as the Secretary considers appropriate, three test networks for the testing and accreditation of cybersecurity products and services.
 
@@ -5227,7 +5227,7 @@ Pub. L. 116–92, div. A, title XVI, § 1658, Dec. 20, 2019, 133 Stat. 1769, p
 
 **Procedures and Reporting Requirement on Cybersecurity Breaches and Loss of Personally Identifiable Information and Controlled Unclassified Information**
 
-Pub. L. 115–232, div. A, title XVI, § 1639, Aug. 13, 2018, 132 Stat. 2129, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1639, Aug. 13, 2018, 132 Stat. 2129, provided that:
 
 > **“(a) In General.—** In the event of a significant loss of personally identifiable information of civilian or uniformed members of the Armed Forces, or a significant loss of controlled unclassified information by a cleared defense contractor, the Secretary of Defense shall promptly submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] notice in writing of such loss. Such notice may be submitted in classified or unclassified formats.
 
@@ -5241,7 +5241,7 @@ Pub. L. 115–232, div. A, title XVI, § 1639, Aug. 13, 2018, 132 Stat. 2129, 
 
 **Matters Pertaining to the Sharkseer Cybersecurity Program**
 
-Pub. L. 115–232, div. A, title XVI, § 1641, Aug. 13, 2018, 132 Stat. 2131, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1641, Aug. 13, 2018, 132 Stat. 2131, provided that:
 
 > **“(a) Transfer of Program.—** Not later than March 1, 2019, the Secretary of Defense shall transfer the operations and maintenance for the Sharkseer cybersecurity program from the National Security Agency to the Defense Information Systems Agency, including all associated funding and, as the Secretary considers necessary, personnel.
 
@@ -5261,7 +5261,7 @@ Pub. L. 115–232, div. A, title XVI, § 1641, Aug. 13, 2018, 132 Stat. 2131, 
 
 **Designation of Official for Matters Relating to Integrating Cybersecurity and Industrial Control Systems Within the Department of Defense**
 
-Pub. L. 115–232, div. A, title XVI, § 1643, Aug. 13, 2018, 132 Stat. 2133, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1643, Aug. 13, 2018, 132 Stat. 2133, provided that:
 
 > **“(a) Designation of Integrating Official.—** Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall designate one official to be responsible for matters relating to integrating cybersecurity and industrial control systems for the Department of Defense.
 
@@ -5269,7 +5269,7 @@ Pub. L. 115–232, div. A, title XVI, § 1643, Aug. 13, 2018, 132 Stat. 2133, 
 
 **Assistance for Small Manufacturers in the Defense Industrial Supply Chain and Universities on Matters Relating to Cybersecurity**
 
-Pub. L. 115–232, div. A, title XVI, § 1644, Aug. 13, 2018, 132 Stat. 2133, as amended by Pub. L. 116–283, div. A, title XVIII, §§ 1844(e)(2), 1869(e), Jan. 1, 2021, 134 Stat. 4246, 4284; Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 2154, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1644, Aug. 13, 2018, 132 Stat. 2133, as amended by Pub. L. 116–283, div. A, title XVIII, §§ 1844(e)(2), 1869(e), Jan. 1, 2021, 134 Stat. 4246, 4284; Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 2154, provided that:
 
 > **“(a) Dissemination of Cybersecurity Resources.—**
 
@@ -5329,7 +5329,7 @@ Pub. L. 115–232, div. A, title XVI, § 1644, Aug. 13, 2018, 132 Stat. 2133, 
 
 **Email and Internet Website Security and Authentication**
 
-Pub. L. 115–232, div. A, title XVI, § 1645, Aug. 13, 2018, 132 Stat. 2135, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1645, Aug. 13, 2018, 132 Stat. 2135, provided that:
 
 > **“(a) Implementation of Plan Required.—** Except as provided by subsection (b), the Secretary of Defense shall develop and implement the plan outlined in Binding Operational Directive 18–01, issued by the Secretary of Homeland Security on October 16, 2017, relating to email security and authentication and Internet website security, according to the schedule established by the Binding Operational Directive for the rest of the Executive Branch beginning with the date of enactment of this Act [Aug. 13, 2018].
 
@@ -5339,11 +5339,11 @@ Pub. L. 115–232, div. A, title XVI, § 1645, Aug. 13, 2018, 132 Stat. 2135, 
 
 **Risk Thresholds for Systems and Network Operations**
 
-Pub. L. 115–232, div. A, title XVI, § 1647(c), Aug. 13, 2018, 132 Stat. 2136, provided that: “The Chief Information Officer of the Department of Defense, in coordination with the Principal Cyber Advisor, the Director of Operations of the Joint Staff, and the Commander of United States Cyber Command, shall establish risk thresholds for systems and network operations that, when exceeded, would trigger heightened security measures, such as enhanced monitoring and access policy changes.”
+Pub. L. 115–232, div. A, title XVI, § 1647(c), Aug. 13, 2018, 132 Stat. 2136, provided that: “The Chief Information Officer of the Department of Defense, in coordination with the Principal Cyber Advisor, the Director of Operations of the Joint Staff, and the Commander of United States Cyber Command, shall establish risk thresholds for systems and network operations that, when exceeded, would trigger heightened security measures, such as enhanced monitoring and access policy changes.”
 
 **Mitigation of Risks to National Security Posed by Providers of Information Technology Products and Services Who Have Obligations to Foreign Governments**
 
-Pub. L. 115–232, div. A, title XVI, § 1655, Aug. 13, 2018, 132 Stat. 2149, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1655, Aug. 13, 2018, 132 Stat. 2149, provided that:
 
 > **“(a) Disclosure Required.—** Subject to the regulations issued under subsection (b), the Department of Defense may not use a product, service, or system procured or acquired after the date of the enactment of this Act [Aug. 13, 2018] relating to information or operational technology, cybersecurity, an industrial control system, or weapons system provided by a person unless that person discloses to the Secretary of Defense the following:
 
@@ -5397,7 +5397,7 @@ Pub. L. 115–232, div. A, title XVI, § 1655, Aug. 13, 2018, 132 Stat. 2149, 
 
 **Integration of Strategic Information Operations and Cyber-Enabled Information Operations**
 
-Pub. L. 115–91, div. A, title XVI, § 1637, Dec. 12, 2017, 131 Stat. 1742, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1637, Dec. 12, 2017, 131 Stat. 1742, provided that:
 
 > **“(a) Processes and Procedures for Integration.—**
 
@@ -5461,7 +5461,7 @@ Pub. L. 115–91, div. A, title XVI, § 1637, Dec. 12, 2017, 131 Stat. 1742, p
 
 **Exercise on Assessing Cybersecurity Support to Election Systems of States**
 
-Pub. L. 115–91, div. A, title XVI, § 1638, Dec. 12, 2017, 131 Stat. 1744, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1638, Dec. 12, 2017, 131 Stat. 1744, provided that:
 
 > **“(a) Inclusion of Cyber Vulnerabilities in Election Systems in Cyber Guard Exercises.—** Subject to subsection (b), the Secretary of Defense, in consultation with the Secretary of Homeland Security, may carry out exercises relating to the cybersecurity of election systems of States as part of the exercise commonly known as the ‘Cyber Guard Exercise’.
 
@@ -5475,7 +5475,7 @@ Pub. L. 115–91, div. A, title XVI, § 1638, Dec. 12, 2017, 131 Stat. 1744, p
 
 **Measurement of Compliance With Cybersecurity Requirements for Industrial Control Systems**
 
-Pub. L. 115–91, div. A, title XVI, § 1639, Dec. 12, 2017, 131 Stat. 1744, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1639, Dec. 12, 2017, 131 Stat. 1744, provided that:
 
 > **“(a) In General.—** Not later than January 1, 2018, the Secretary of Defense shall make such changes to the cybersecurity scorecard as are necessary to ensure that the Secretary measures the progress of each element of the Department of Defense in securing the industrial control systems of the Department against cyber threats, including such industrial control systems as supervisory control and data acquisition systems, distributed control systems, programmable logic controllers, and platform information technology.
 
@@ -5483,11 +5483,11 @@ Pub. L. 115–91, div. A, title XVI, § 1639, Dec. 12, 2017, 131 Stat. 1744, p
 
 **Strategic Cybersecurity Program**
 
-Pub. L. 115–91, div. A, title XVI, § 1640, Dec. 12, 2017, 131 Stat. 1745, as amended by Pub. L. 116–283, div. A, title XVII, § 1712(b), Jan. 1, 2021, 134 Stat. 4087; Pub. L. 117–81, div. A, title XV, § 1525, Dec. 27, 2021, 135 Stat. 2043; Pub. L. 117–263, div. A, title XV, § 1503, Dec. 23, 2022, 136 Stat. 2880, which provided for the establishment of the Strategic Cybersecurity Program to ensure the Department of Defense’s ability to conduct the most important military missions of the Department, was repealed by Pub. L. 118–31, div. A, title XV, § 1502(a)(2)(C), Dec. 22, 2023, 137 Stat. 537. See section 391b of this title.
+Pub. L. 115–91, div. A, title XVI, § 1640, Dec. 12, 2017, 131 Stat. 1745, as amended by Pub. L. 116–283, div. A, title XVII, § 1712(b), Jan. 1, 2021, 134 Stat. 4087; Pub. L. 117–81, div. A, title XV, § 1525, Dec. 27, 2021, 135 Stat. 2043; Pub. L. 117–263, div. A, title XV, § 1503, Dec. 23, 2022, 136 Stat. 2880, which provided for the establishment of the Strategic Cybersecurity Program to ensure the Department of Defense’s ability to conduct the most important military missions of the Department, was repealed by Pub. L. 118–31, div. A, title XV, § 1502(a)(2)(C), Dec. 22, 2023, 137 Stat. 537. See section 391b of this title.
 
 **Requirement To Enter Into Agreements Relating to Use of Cyber Opposition Forces**
 
-Pub. L. 114–328, div. A, title XVI, § 1644, Dec. 23, 2016, 130 Stat. 2602, provided that:
+Pub. L. 114–328, div. A, title XVI, § 1644, Dec. 23, 2016, 130 Stat. 2602, provided that:
 
 > **“(a) Requirement for Agreements.—** Not later than September 30, 2017, the Secretary of Defense shall ensure that each commander of a combatant command establishes appropriate agreements with the Secretary relating to the use of cyber opposition forces. Each agreement shall require the command—
 
@@ -5523,7 +5523,7 @@ Pub. L. 114–328, div. A, title XVI, § 1644, Dec. 23, 2016, 130 Stat. 2602, 
 
 **Cyber Protection Support for Department of Defense Personnel in Positions Highly Vulnerable to Cyber Attack**
 
-Pub. L. 114–328, div. A, title XVI, § 1645, Dec. 23, 2016, 130 Stat. 2603, provided that:
+Pub. L. 114–328, div. A, title XVI, § 1645, Dec. 23, 2016, 130 Stat. 2603, provided that:
 
 > **“(a) Authority to Provide Cyber Protection Support.—**
 
@@ -5553,7 +5553,7 @@ Pub. L. 114–328, div. A, title XVI, § 1645, Dec. 23, 2016, 130 Stat. 2603, 
 
 **Limitation on Full Deployment of Joint Regional Security Stacks**
 
-Pub. L. 114–328, div. A, title XVI, § 1646, Dec. 23, 2016, 130 Stat. 2604, provided that:
+Pub. L. 114–328, div. A, title XVI, § 1646, Dec. 23, 2016, 130 Stat. 2604, provided that:
 
 > **“(a) Limitation.—** The Secretary of a military department or the head of a Defense Agency may not declare that such department or Defense Agency has achieved full operational capability for the deployment of joint regional security stacks until the date on which—
 
@@ -5581,7 +5581,7 @@ Pub. L. 114–328, div. A, title XVI, § 1646, Dec. 23, 2016, 130 Stat. 2604, 
 
 **Evaluation of Cyber Vulnerabilities of Department of Defense Critical Infrastructure**
 
-Pub. L. 114–328, div. A, title XVI, § 1650, Dec. 23, 2016, 130 Stat. 2607, as amended by Pub. L. 115–91, div. A, title XVI, § 1643, Dec. 12, 2017, 131 Stat. 1748; Pub. L. 115–232, div. A, title XVI, § 1634, Aug. 13, 2018, 132 Stat. 2125; Pub. L. 118–31, div. A, title XV, § 1502(a)(2)(B), Dec. 22, 2023, 137 Stat. 537, provided that:
+Pub. L. 114–328, div. A, title XVI, § 1650, Dec. 23, 2016, 130 Stat. 2607, as amended by Pub. L. 115–91, div. A, title XVI, § 1643, Dec. 12, 2017, 131 Stat. 1748; Pub. L. 115–232, div. A, title XVI, § 1634, Aug. 13, 2018, 132 Stat. 2125; Pub. L. 118–31, div. A, title XV, § 1502(a)(2)(B), Dec. 22, 2023, 137 Stat. 537, provided that:
 
 > **“(a) Plan for Evaluation.—**
 
@@ -5657,7 +5657,7 @@ Pub. L. 114–328, div. A, title XVI, § 1650, Dec. 23, 2016, 130 Stat. 2607, 
 
 **Plan for Information Security Continuous Monitoring Capability and Comply-To-Connect Policy; Limitation on Software Licensing**
 
-Pub. L. 114–328, div. A, title XVI, § 1653, Dec. 23, 2016, 130 Stat. 2610, provided that:
+Pub. L. 114–328, div. A, title XVI, § 1653, Dec. 23, 2016, 130 Stat. 2610, provided that:
 
 > **“(a) Information Security Monitoring Plan and Policy.—**
 
@@ -5699,7 +5699,7 @@ Pub. L. 114–328, div. A, title XVI, § 1653, Dec. 23, 2016, 130 Stat. 2610, 
 
 **Acquisition Authority of the Commander of United States Cyber Command**
 
-Pub. L. 114–92, div. A, title VIII, § 807, Nov. 25, 2015, 129 Stat. 886, as amended by Pub. L. 115–232, div. A, title XVI, § 1635, Aug. 13, 2018, 132 Stat. 2125; Pub. L. 116–92, div. A, title VIII, § 821, Dec. 20, 2019, 133 Stat. 1490; Pub. L. 116–283, div. A, title XVII, § 1711, Jan. 1, 2021, 134 Stat. 4086, provided that:
+Pub. L. 114–92, div. A, title VIII, § 807, Nov. 25, 2015, 129 Stat. 886, as amended by Pub. L. 115–232, div. A, title XVI, § 1635, Aug. 13, 2018, 132 Stat. 2125; Pub. L. 116–92, div. A, title VIII, § 821, Dec. 20, 2019, 133 Stat. 1490; Pub. L. 116–283, div. A, title XVII, § 1711, Jan. 1, 2021, 134 Stat. 4086, provided that:
 
 > **“(a) Authority.—**
 
@@ -5779,7 +5779,7 @@ Pub. L. 114–92, div. A, title VIII, § 807, Nov. 25, 2015, 129 Stat. 886, as
 
 **Evaluation of Cyber Vulnerabilities of Major Weapon Systems of the Department of Defense**
 
-Pub. L. 114–92, div. A, title XVI, § 1647, Nov. 25, 2015, 129 Stat. 1118, as amended by Pub. L. 114–328, div. A, title XVI, § 1649(b), Dec. 23, 2016, 130 Stat. 2606; Pub. L. 116–92, div. A, title XVI, § 1633, Dec. 20, 2019, 133 Stat. 1746; Pub. L. 116–283, div. A, title XVII, § 1712(a), Jan. 1, 2021, 134 Stat. 4087; Pub. L. 118–31, div. A, title XV, § 1502(a)(2)(A), Dec. 22, 2023, 137 Stat. 537, provided that:
+Pub. L. 114–92, div. A, title XVI, § 1647, Nov. 25, 2015, 129 Stat. 1118, as amended by Pub. L. 114–328, div. A, title XVI, § 1649(b), Dec. 23, 2016, 130 Stat. 2606; Pub. L. 116–92, div. A, title XVI, § 1633, Dec. 20, 2019, 133 Stat. 1746; Pub. L. 116–283, div. A, title XVII, § 1712(a), Jan. 1, 2021, 134 Stat. 4087; Pub. L. 118–31, div. A, title XV, § 1502(a)(2)(A), Dec. 22, 2023, 137 Stat. 537, provided that:
 
 > **“(a) Evaluation Required.—**
 
@@ -5839,7 +5839,7 @@ Pub. L. 114–92, div. A, title XVI, § 1647, Nov. 25, 2015, 129 Stat. 1118, a
 
 **Notification of Foreign Threats to Information Technology Systems Impacting National Security**
 
-Pub. L. 113–291, div. A, title X, § 1078, Dec. 19, 2014, 128 Stat. 3520, provided that:
+Pub. L. 113–291, div. A, title X, § 1078, Dec. 19, 2014, 128 Stat. 3520, provided that:
 
 > **“(a) Notification Required.—**
 
@@ -5855,7 +5855,7 @@ Pub. L. 113–291, div. A, title X, § 1078, Dec. 19, 2014, 128 Stat. 3520, pr
 
 **Authorities, Capabilities, and Oversight of the United States Cyber Command**
 
-Pub. L. 113–66, div. A, title IX, § 932, Dec. 26, 2013, 127 Stat. 829, as amended by Pub. L. 116–283, div. A, title XVII, § 1713(a), Jan. 1, 2021, 134 Stat. 4089; Pub. L. 117–81, div. A, title XV, § 1503(a), Dec. 27, 2021, 135 Stat. 2021; Pub. L. 117–263, div. A, title X, § 1081(d), title XV, § 1501(a), (b)(2)(A), (B), Dec. 23, 2022, 136 Stat. 2797, 2877, 2878, provided that:
+Pub. L. 113–66, div. A, title IX, § 932, Dec. 26, 2013, 127 Stat. 829, as amended by Pub. L. 116–283, div. A, title XVII, § 1713(a), Jan. 1, 2021, 134 Stat. 4089; Pub. L. 117–81, div. A, title XV, § 1503(a), Dec. 27, 2021, 135 Stat. 2021; Pub. L. 117–263, div. A, title X, § 1081(d), title XV, § 1501(a), (b)(2)(A), (B), Dec. 23, 2022, 136 Stat. 2797, 2877, 2878, provided that:
 
 > **“(a) Provision of Certain Operational Capabilities.—** The Secretary of Defense shall take such actions as the Secretary considers appropriate to provide the United States Cyber Command operational military units with infrastructure and equipment enabling access to the Internet and other types of networks to permit the United States Cyber Command to conduct the peacetime and wartime missions of the Command.
 
@@ -5873,7 +5873,7 @@ Pub. L. 113–66, div. A, title IX, § 932, Dec. 26, 2013, 127 Stat. 829, as a
 
 > **“(d) Training of Cyber Personnel.—** The Secretary shall establish and maintain training capabilities and facilities in the Armed Forces and, as the Secretary considers appropriate, at the United States Cyber Command, to support the needs of the Armed Forces and the United States Cyber Command for personnel who are assigned offensive and defensive cyber missions in the Department of Defense.”
 
-Pub. L. 114–328, div. A, title XVI, § 1643(b), Dec. 23, 2016, 130 Stat. 2602, as amended by Pub. L. 117–263, div. A, title XV, § 1501(c)(3), Dec. 23, 2022, 136 Stat. 2879, provided that:
+Pub. L. 114–328, div. A, title XVI, § 1643(b), Dec. 23, 2016, 130 Stat. 2602, as amended by Pub. L. 117–263, div. A, title XV, § 1501(c)(3), Dec. 23, 2022, 136 Stat. 2879, provided that:
 
 > “The Principal Cyber Advisor to the Secretary of Defense, acting through the cross-functional team under section 392a(a)(3) of title 10, United States Code, and in consultation with the Commander of the United States Cyber Command, shall supervise—
 
@@ -5885,11 +5885,11 @@ Pub. L. 114–328, div. A, title XVI, § 1643(b), Dec. 23, 2016, 130 Stat. 260
 
 **Joint Federated Centers for Trusted Defense Systems for the Department of Defense**
 
-Pub. L. 113–66, div. A, title IX, § 937, Dec. 26, 2013, 127 Stat. 834, as amended by Pub. L. 114–92, div. A, title II, § 231, Nov. 25, 2015, 129 Stat. 778, which provided for the establishment of a joint federation of capabilities to support the trusted defense system needs of the Department of Defense, was repealed by Pub. L. 118–159, div. A, title IX, § 922(c), Dec. 23, 2024, 138 Stat. 2039. See section 4129 of this title.
+Pub. L. 113–66, div. A, title IX, § 937, Dec. 26, 2013, 127 Stat. 834, as amended by Pub. L. 114–92, div. A, title II, § 231, Nov. 25, 2015, 129 Stat. 778, which provided for the establishment of a joint federation of capabilities to support the trusted defense system needs of the Department of Defense, was repealed by Pub. L. 118–159, div. A, title IX, § 922(c), Dec. 23, 2024, 138 Stat. 2039. See section 4129 of this title.
 
 **Improvements in Assurance of Computer Software Procured by the Department of Defense**
 
-Pub. L. 112–239, div. A, title IX, § 933, Jan. 2, 2013, 126 Stat. 1884, as amended by Pub. L. 116–283, div. A, title XVIII, § 1806(e)(2)(A), Jan. 1, 2021, 134 Stat. 4155, provided that:
+Pub. L. 112–239, div. A, title IX, § 933, Jan. 2, 2013, 126 Stat. 1884, as amended by Pub. L. 116–283, div. A, title XVIII, § 1806(e)(2)(A), Jan. 1, 2021, 134 Stat. 4155, provided that:
 
 > **“(a) Baseline Software Assurance Policy.—** The Under Secretary of Defense for Acquisition, Technology, and Logistics, in coordination with the Chief Information Officer of the Department of Defense, shall develop and implement a baseline software assurance policy for the entire lifecycle of covered systems. Such policy shall be included as part of the strategy for trusted defense systems of the Department of Defense.
 
@@ -5933,15 +5933,15 @@ Pub. L. 112–239, div. A, title IX, § 933, Jan. 2, 2013, 126 Stat. 1884, as 
 
 **Reports to Department of Defense on Penetrations of Networks and Information Systems of Certain Contractors**
 
-Pub. L. 112–239, div. A, title IX, § 941, Jan. 2, 2013, 126 Stat. 1889, which authorized the Secretary of Defense to establish criteria and reporting procedures applicable to penetration of cleared defense contractors’ networks or information systems, was transferred to chapter 19 of this title, redesignated as section 393, and amended by Pub. L. 114–92, div. A, title XVI, § 1641(a), Nov. 25, 2015, 129 Stat. 1114.
+Pub. L. 112–239, div. A, title IX, § 941, Jan. 2, 2013, 126 Stat. 1889, which authorized the Secretary of Defense to establish criteria and reporting procedures applicable to penetration of cleared defense contractors’ networks or information systems, was transferred to chapter 19 of this title, redesignated as section 393, and amended by Pub. L. 114–92, div. A, title XVI, § 1641(a), Nov. 25, 2015, 129 Stat. 1114.
 
 **Insider Threat Detection**
 
-Pub. L. 112–81, div. A, title IX, § 922, Dec. 31, 2011, 125 Stat. 1537, as amended by Pub. L. 114–92, div. A, title X, § 1073(e), Nov. 25, 2015, 129 Stat. 996, which established a program for information sharing protection and insider threat mitigation for the information systems of the Department of Defense, was repealed by Pub. L. 119–60, div. A, title XVI, § 1623(b), Dec. 18, 2025, 139 Stat. 1183. Prior to repeal, text of subsecs. (a) and (b) of section 922 of Pub. L. 112–81 were copied to section 2225 of this title.
+Pub. L. 112–81, div. A, title IX, § 922, Dec. 31, 2011, 125 Stat. 1537, as amended by Pub. L. 114–92, div. A, title X, § 1073(e), Nov. 25, 2015, 129 Stat. 996, which established a program for information sharing protection and insider threat mitigation for the information systems of the Department of Defense, was repealed by Pub. L. 119–60, div. A, title XVI, § 1623(b), Dec. 18, 2025, 139 Stat. 1183. Prior to repeal, text of subsecs. (a) and (b) of section 922 of Pub. L. 112–81 were copied to section 2225 of this title.
 
 **Strategy To Acquire Capabilities To Detect Previously Unknown Cyber Attacks**
 
-Pub. L. 112–81, div. A, title IX, § 953, Dec. 31, 2011, 125 Stat. 1550, provided that:
+Pub. L. 112–81, div. A, title IX, § 953, Dec. 31, 2011, 125 Stat. 1550, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall develop and implement a plan to augment the cybersecurity strategy of the Department of Defense through the acquisition of advanced capabilities to discover and isolate penetrations and attacks that were previously unknown and for which signatures have not been developed for incorporation into computer intrusion detection and prevention systems and anti-virus software systems.
 
@@ -5985,11 +5985,11 @@ Pub. L. 112–81, div. A, title IX, § 953, Dec. 31, 2011, 125 Stat. 1550, pro
 
 **Strategy on Computer Software Assurance**
 
-Pub. L. 111–383, div. A, title IX, § 932, Jan. 7, 2011, 124 Stat. 4335, as amended by Pub. L. 116–283, div. A, title XVIII, § 1806(e)(2)(B), Jan. 1, 2021, 134 Stat. 4155, which required Secretary of Defense to develop and implement a strategy for assuring the security of software and software-based applications for certain critical information or weapon systems by Oct. 1, 2011, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(12)(G), Dec. 18, 2025, 139 Stat. 949.
+Pub. L. 111–383, div. A, title IX, § 932, Jan. 7, 2011, 124 Stat. 4335, as amended by Pub. L. 116–283, div. A, title XVIII, § 1806(e)(2)(B), Jan. 1, 2021, 134 Stat. 4155, which required Secretary of Defense to develop and implement a strategy for assuring the security of software and software-based applications for certain critical information or weapon systems by Oct. 1, 2011, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(12)(G), Dec. 18, 2025, 139 Stat. 949.
 
 **Institute for Defense Computer Security and Information Protection**
 
-Pub. L. 106–398, § 1 [[div. A], title IX, § 921], Oct. 30, 2000, 114 Stat. 1654, 1654A–233, provided that:
+Pub. L. 106–398, § 1 [[div. A], title IX, § 921], Oct. 30, 2000, 114 Stat. 1654, 1654A–233, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense shall establish an Institute for Defense Computer Security and Information Protection.
 
@@ -6005,25 +6005,25 @@ Pub. L. 106–398, § 1 [[div. A], title IX, § 921], Oct. 30, 2000, 114 Sta
 
 > **“(e) Report.—** Not later than April 1, 2001, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the Secretary’s plan for implementing this section.”
 
-## § 2224a. Information security: continued applicability of expiring Governmentwide requirements to the Department of Defense
+## § 2224a. Information security: continued applicability of expiring Governmentwide requirements to the Department of Defense
 
-**(a) In General.—** The provisions of subchapter II 1
+**(a) In General.—** The provisions of subchapter II 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of chapter 35 of title 44 shall continue to apply through September 30, 2004, with respect to the Department of Defense, notwithstanding the expiration of authority under section 3536 1 of such title.
+of chapter 35 of title 44 shall continue to apply through September 30, 2004, with respect to the Department of Defense, notwithstanding the expiration of authority under section 3536 1 of such title.
 
-**(b) Responsibilities.—** In administering the provisions of subchapter II <sup>1</sup> of chapter 35 of title 44 with respect to the Department of Defense after the expiration of authority under section 3536 <sup>1</sup> of such title, the Secretary of Defense shall perform the duties set forth in that subchapter for the Director of the Office of Management and Budget.
+**(b) Responsibilities.—** In administering the provisions of subchapter II <sup>1</sup> of chapter 35 of title 44 with respect to the Department of Defense after the expiration of authority under section 3536 <sup>1</sup> of such title, the Secretary of Defense shall perform the duties set forth in that subchapter for the Director of the Office of Management and Budget.
 
-(Added Pub. L. 107–314, div. A, title X, § 1052(b)(1), Dec. 2, 2002, 116 Stat. 2648.)
+(Added Pub. L. 107–314, div. A, title X, § 1052(b)(1), Dec. 2, 2002, 116 Stat. 2648.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Provisions relating to the expiration of authority of subchapter II of chapter 35 of title 44, referred to in text, did not appear in section 3536 of title 44 subsequent to the general revision of subchapter II by Pub. L. 107–296, title X, § 1001(b)(1), Nov. 25, 2002, 116 Stat. 2259. Subchapter II, as revised by Pub. L. 107–296, was repealed and a new subchapter II enacted by Pub. L. 113–283, § 2(a), Dec. 18, 2014, 128 Stat. 3073.
+Provisions relating to the expiration of authority of subchapter II of chapter 35 of title 44, referred to in text, did not appear in section 3536 of title 44 subsequent to the general revision of subchapter II by Pub. L. 107–296, title X, § 1001(b)(1), Nov. 25, 2002, 116 Stat. 2259. Subchapter II, as revised by Pub. L. 107–296, was repealed and a new subchapter II enacted by Pub. L. 113–283, § 2(a), Dec. 18, 2014, 128 Stat. 3073.
 
-## § 2225. Insider threat detection
+## § 2225. Insider threat detection
 
 **(a) Program Required.—** The Secretary of Defense shall establish a program for information sharing protection and insider threat mitigation for the information systems of the Department of Defense to detect unauthorized access to, use of, or transmission of classified or controlled unclassified information.
 
@@ -6067,23 +6067,23 @@ Provisions relating to the expiration of authority of subchapter II of chapter 3
 
 **(7)** A plan for enforcement to ensure that the program is being applied and implemented on a uniform and consistent basis.
 
-(Added Pub. L. 119–60, div. A, title XVI, § 1623(a), Dec. 18, 2025, 139 Stat. 1183.)
+(Added Pub. L. 119–60, div. A, title XVI, § 1623(a), Dec. 18, 2025, 139 Stat. 1183.)
 
 **Editorial Notes**
 
 **Codification**
 
-Text of section, as added by Pub. L. 119–60, is based on text of subsecs. (a) and (b) of section 922 of Pub. L. 112–81, div. A, title IX, Dec. 31, 2011, 125 Stat. 1537, which was formerly set out in a note under section 2224 of this title, prior to repeal by Pub. L. 119–60, div. A, title XVI, § 1623(b), Dec. 18, 2025, 139 Stat. 1183.
+Text of section, as added by Pub. L. 119–60, is based on text of subsecs. (a) and (b) of section 922 of Pub. L. 112–81, div. A, title IX, Dec. 31, 2011, 125 Stat. 1537, which was formerly set out in a note under section 2224 of this title, prior to repeal by Pub. L. 119–60, div. A, title XVI, § 1623(b), Dec. 18, 2025, 139 Stat. 1183.
 
 **Prior Provisions**
 
-A prior section 2225, added Pub. L. 106–398, § 1 [[div. A], title VIII, § 812(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–212; amended Pub. L. 108–178, § 4(b)(2), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 109–364, div. A, title X, § 1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 111–350, § 5(b)(6), Jan. 4, 2011, 124 Stat. 3842, related to tracking and management of information technology purchases, prior to repeal by Pub. L. 114–328, div. A, title VIII, § 833(b)(2)(A), Dec. 23, 2016, 130 Stat. 2284.
+A prior section 2225, added Pub. L. 106–398, § 1 [[div. A], title VIII, § 812(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–212; amended Pub. L. 108–178, § 4(b)(2), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 109–364, div. A, title X, § 1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 111–350, § 5(b)(6), Jan. 4, 2011, 124 Stat. 3842, related to tracking and management of information technology purchases, prior to repeal by Pub. L. 114–328, div. A, title VIII, § 833(b)(2)(A), Dec. 23, 2016, 130 Stat. 2284.
 
-## [§ 2226. Renumbered § 4602]
+## [§ 2226. Renumbered § 4602]
 
-## [§ 2227. Renumbered § 4601]
+## [§ 2227. Renumbered § 4601]
 
-## § 2228. Office of Corrosion Policy and Oversight
+## § 2228. Office of Corrosion Policy and Oversight
 
 **(a) Office and Director.—**
 
@@ -6197,79 +6197,79 @@ A prior section 2225, added Pub. L. 106–398, § 1 [[div. A], title VIII, §�
 
 **(B)** an industrial coatings applicator training program registered under the Act of August 16, 1937 (popularly known as the “National Apprenticeship Act”; 29 U.S.C. 50 et seq.).
 
-(Added Pub. L. 107–314, div. A, title X, § 1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, § 371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, [div. A], title X, § 1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, § 331, Jan. 7, 2011, 124 Stat. 4185; Pub. L. 112–239, div. A, title III, § 341, Jan. 2, 2013, 126 Stat. 1699; Pub. L. 114–328, div. A, title IX, § 954(a), (b), Dec. 23, 2016, 130 Stat. 2376, 2377; Pub. L. 115–232, div. A, title VIII, § 811(a), Aug. 13, 2018, 132 Stat. 1845; Pub. L. 116–92, div. A, title VIII, § 861(j)(13), title XVII, § 1731(a)(32), Dec. 20, 2019, 133 Stat. 1520, 1814; Pub. L. 117–81, div. A, title VIII, § 813, Dec. 27, 2021, 135 Stat. 1823; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(19), Dec. 22, 2023, 137 Stat. 684.)
+(Added Pub. L. 107–314, div. A, title X, § 1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, § 371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, [div. A], title X, § 1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, § 331, Jan. 7, 2011, 124 Stat. 4185; Pub. L. 112–239, div. A, title III, § 341, Jan. 2, 2013, 126 Stat. 1699; Pub. L. 114–328, div. A, title IX, § 954(a), (b), Dec. 23, 2016, 130 Stat. 2376, 2377; Pub. L. 115–232, div. A, title VIII, § 811(a), Aug. 13, 2018, 132 Stat. 1845; Pub. L. 116–92, div. A, title VIII, § 861(j)(13), title XVII, § 1731(a)(32), Dec. 20, 2019, 133 Stat. 1520, 1814; Pub. L. 117–81, div. A, title VIII, § 813, Dec. 27, 2021, 135 Stat. 1823; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(19), Dec. 22, 2023, 137 Stat. 684.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Act of August 16, 1937, referred to in subsec. (f)(6)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
+The Act of August 16, 1937, referred to in subsec. (f)(6)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
 **Amendments**
 
 2023—Subsec. (c)(2). Pub. L. 118–31 substituted “instructions;” for “instructions;;”.
 
-2021—Subsec. (b)(6). Pub. L. 117–81, § 813(1), added par. (6).
+2021—Subsec. (b)(6). Pub. L. 117–81, § 813(1), added par. (6).
 
-Subsec. (c)(4). Pub. L. 117–81, § 813(2), added par. (4).
+Subsec. (c)(4). Pub. L. 117–81, § 813(2), added par. (4).
 
-Subsec. (f)(6). Pub. L. 117–81, § 813(3), added par. (6).
+Subsec. (f)(6). Pub. L. 117–81, § 813(3), added par. (6).
 
-2019—Subsec. (a)(2). Pub. L. 116–92, § 1731(a)(32), struck out second period at end.
+2019—Subsec. (a)(2). Pub. L. 116–92, § 1731(a)(32), struck out second period at end.
 
-Subsec. (a)(4). Pub. L. 116–92, § 861(j)(13), substituted “under section 1731 of this title” for “under section 1733(b)(1)(C) of this title”.
+Subsec. (a)(4). Pub. L. 116–92, § 861(j)(13), substituted “under section 1731 of this title” for “under section 1733(b)(1)(C) of this title”.
 
-2018—Subsec. (a)(1). Pub. L. 115–232, § 811(a)(1), substituted “and Sustainment” for “, Technology, and Logistics”.
+2018—Subsec. (a)(1). Pub. L. 115–232, § 811(a)(1), substituted “and Sustainment” for “, Technology, and Logistics”.
 
-Subsec. (a)(2). Pub. L. 115–232 substituted “and Sustainment” for “, Technology, and Logistics” and struck out “The Director shall report directly to the Under Secretary” after “infrastructure of the Department of Defense.”
+Subsec. (a)(2). Pub. L. 115–232 substituted “and Sustainment” for “, Technology, and Logistics” and struck out “The Director shall report directly to the Under Secretary” after “infrastructure of the Department of Defense.”
 
-2016—Subsec. (e)(1). Pub. L. 114–328, § 954(a)(1), inserted “and ending with the budget for fiscal year 2022” after “2009” in introductory provisions.
+2016—Subsec. (e)(1). Pub. L. 114–328, § 954(a)(1), inserted “and ending with the budget for fiscal year 2022” after “2009” in introductory provisions.
 
-Subsec. (e)(1)(B). Pub. L. 114–328, § 954(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The return on investment that would be achieved by implementing the strategy, including available validated data on return on investment for completed corrosion projects and activities.”
+Subsec. (e)(1)(B). Pub. L. 114–328, § 954(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The return on investment that would be achieved by implementing the strategy, including available validated data on return on investment for completed corrosion projects and activities.”
 
-Subsec. (e)(1)(D). Pub. L. 114–328, § 954(a)(3), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “An explanation if the funding requirements are not fully funded in the budget.”
+Subsec. (e)(1)(D). Pub. L. 114–328, § 954(a)(3), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “An explanation if the funding requirements are not fully funded in the budget.”
 
-Subsec. (e)(1)(F). Pub. L. 114–328, § 954(a)(4), struck out “pilot” before “program”.
+Subsec. (e)(1)(F). Pub. L. 114–328, § 954(a)(4), struck out “pilot” before “program”.
 
-Subsec. (e)(2). Pub. L. 114–328, § 954(b), designated existing provisions as subpar. (A), substituted “a summary of the most recent report required by subparagraph (B).” for “a copy of the annual corrosion report most recently submitted by the corrosion control and prevention executive of each military department under section 903(b)(5) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4567; 10 U.S.C. 2228 note).”, and added subpar. (B).
+Subsec. (e)(2). Pub. L. 114–328, § 954(b), designated existing provisions as subpar. (A), substituted “a summary of the most recent report required by subparagraph (B).” for “a copy of the annual corrosion report most recently submitted by the corrosion control and prevention executive of each military department under section 903(b)(5) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4567; 10 U.S.C. 2228 note).”, and added subpar. (B).
 
-2013—Subsec. (e)(1)(B). Pub. L. 112–239, § 341(1)(A), inserted “, including available validated data on return on investment for completed corrosion projects and activities” before period at end.
+2013—Subsec. (e)(1)(B). Pub. L. 112–239, § 341(1)(A), inserted “, including available validated data on return on investment for completed corrosion projects and activities” before period at end.
 
-Subsec. (e)(1)(E). Pub. L. 112–239, § 341(1)(B), substituted “For the fiscal year preceding the fiscal year covered by the report” for “For the fiscal year covered by the report and the preceding fiscal year”.
+Subsec. (e)(1)(E). Pub. L. 112–239, § 341(1)(B), substituted “For the fiscal year preceding the fiscal year covered by the report” for “For the fiscal year covered by the report and the preceding fiscal year”.
 
-Subsec. (e)(1)(F). Pub. L. 112–239, § 341(1)(C), added subpar. (F).
+Subsec. (e)(1)(F). Pub. L. 112–239, § 341(1)(C), added subpar. (F).
 
-Subsec. (e)(2), (3). Pub. L. 112–239, § 341(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Within 60 days after submission of the budget for a fiscal year, the Comptroller General shall provide to the congressional defense committees—
+Subsec. (e)(2), (3). Pub. L. 112–239, § 341(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Within 60 days after submission of the budget for a fiscal year, the Comptroller General shall provide to the congressional defense committees—
 
 “(A) an analysis of the budget submission for corrosion control and prevention by the Department of Defense; and
 
 “(B) an analysis of the report required under paragraph (1), including the annex to the report described in paragraph (3).”
 
-2011—Subsec. (e)(1)(C). Pub. L. 111–383, § 331(1)(A), substituted “For the fiscal year covered by the report and the preceding fiscal year, the” for “The”.
+2011—Subsec. (e)(1)(C). Pub. L. 111–383, § 331(1)(A), substituted “For the fiscal year covered by the report and the preceding fiscal year, the” for “The”.
 
-Subsec. (e)(1)(E). Pub. L. 111–383, § 331(1)(B), added subpar. (E).
+Subsec. (e)(1)(E). Pub. L. 111–383, § 331(1)(B), added subpar. (E).
 
-Subsec. (e)(2)(B). Pub. L. 111–383, § 331(2), inserted before period at end “, including the annex to the report described in paragraph (3)”.
+Subsec. (e)(2)(B). Pub. L. 111–383, § 331(2), inserted before period at end “, including the annex to the report described in paragraph (3)”.
 
-Subsec. (e)(3). Pub. L. 111–383, § 331(3), added par. (3).
+Subsec. (e)(3). Pub. L. 111–383, § 331(3), added par. (3).
 
-2008—Pub. L. 110–181, § 371(a)(1), substituted “Office of Corrosion Policy and Oversight” for “Military equipment and infrastructure: prevention and mitigation of corrosion” in section catchline.
+2008—Pub. L. 110–181, § 371(a)(1), substituted “Office of Corrosion Policy and Oversight” for “Military equipment and infrastructure: prevention and mitigation of corrosion” in section catchline.
 
-Subsec. (a). Pub. L. 110–181, § 371(a)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Former text read as follows: “The Secretary of Defense shall designate an officer or employee of the Department of Defense, or a standing board or committee of the Department of Defense, as the senior official or organization responsible in the Department to the Secretary of Defense (after the Under Secretary of Defense for Acquisition, Technology, and Logistics) for the prevention and mitigation of corrosion of the military equipment and infrastructure of the Department.”
+Subsec. (a). Pub. L. 110–181, § 371(a)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Former text read as follows: “The Secretary of Defense shall designate an officer or employee of the Department of Defense, or a standing board or committee of the Department of Defense, as the senior official or organization responsible in the Department to the Secretary of Defense (after the Under Secretary of Defense for Acquisition, Technology, and Logistics) for the prevention and mitigation of corrosion of the military equipment and infrastructure of the Department.”
 
-Subsec. (b)(1). Pub. L. 110–181, § 371(a)(2)(A), substituted “Director of Corrosion Policy and Oversight (in this section referred to as the ‘Director’)” for “official or organization designated under subsection (a)”.
+Subsec. (b)(1). Pub. L. 110–181, § 371(a)(2)(A), substituted “Director of Corrosion Policy and Oversight (in this section referred to as the ‘Director’)” for “official or organization designated under subsection (a)”.
 
-Subsec. (b)(2) to (5). Pub. L. 110–181, § 371(a)(2)(B), substituted “Director” for “designated official or organization”.
+Subsec. (b)(2) to (5). Pub. L. 110–181, § 371(a)(2)(B), substituted “Director” for “designated official or organization”.
 
-Subsecs. (c), (d). Pub. L. 110–181, § 371(b), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (f).
+Subsecs. (c), (d). Pub. L. 110–181, § 371(b), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (f).
 
-Subsec. (d)(2)(D). Pub. L. 110–181, § 371(c), as amended by Pub. L. 110–417, inserted “, including through the establishment of memoranda of agreement, joint funding agreements, public-private partnerships, university research and education centers, and other cooperative research agreements” after “operational systems”.
+Subsec. (d)(2)(D). Pub. L. 110–181, § 371(c), as amended by Pub. L. 110–417, inserted “, including through the establishment of memoranda of agreement, joint funding agreements, public-private partnerships, university research and education centers, and other cooperative research agreements” after “operational systems”.
 
-Subsec. (e). Pub. L. 110–181, § 371(d), added subsec. (e).
+Subsec. (e). Pub. L. 110–181, § 371(d), added subsec. (e).
 
-Subsec. (f). Pub. L. 110–181, § 371(b), redesignated subsec. (d) as (f).
+Subsec. (f). Pub. L. 110–181, § 371(b), redesignated subsec. (d) as (f).
 
-Subsec. (f)(4), (5). Pub. L. 110–181, § 371(e), added pars. (4) and (5).
+Subsec. (f)(4), (5). Pub. L. 110–181, § 371(e), added pars. (4) and (5).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6279,11 +6279,11 @@ Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pu
 
 **Submission of Notice and Plan to Congress Before Reorganizing, Restructuring, or Eliminating Any Position or Office**
 
-Pub. L. 115–232, div. A, title VIII, § 811(i), Aug. 13, 2018, 132 Stat. 1846, provided that: “Not less than 30 days before reorganizing, restructuring, or eliminating any position or office specified in this section, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives notice of such reorganization, restructuring, or elimination together with a plan to ensure that mission requirements are met and appropriate oversight is conducted in carrying out such reorganization, restructuring, or elimination. Such plan shall address how user needs will be met and how associated roles and responsibilities will be accomplished for each position or office that the Secretary determines requiring reorganization, restructuring, or elimination.”
+Pub. L. 115–232, div. A, title VIII, § 811(i), Aug. 13, 2018, 132 Stat. 1846, provided that: “Not less than 30 days before reorganizing, restructuring, or eliminating any position or office specified in this section, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives notice of such reorganization, restructuring, or elimination together with a plan to ensure that mission requirements are met and appropriate oversight is conducted in carrying out such reorganization, restructuring, or elimination. Such plan shall address how user needs will be met and how associated roles and responsibilities will be accomplished for each position or office that the Secretary determines requiring reorganization, restructuring, or elimination.”
 
 **Implementation of Corrective Actions Resulting From Corrosion Study of the F–22 and F–35 Aircraft**
 
-Pub. L. 112–81, div. A, title III, § 324, Dec. 31, 2011, 125 Stat. 1362, provided that:
+Pub. L. 112–81, div. A, title III, § 324, Dec. 31, 2011, 125 Stat. 1362, provided that:
 
 > **“(a) Implementation; Congressional Briefing.—** Not later than January 31, 2012, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall implement the recommended actions described in subsection (b) and provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on the actions taken by the Under Secretary to implement such recommended actions.
 
@@ -6307,7 +6307,7 @@ Pub. L. 112–81, div. A, title III, § 324, Dec. 31, 2011, 125 Stat. 1362, pr
 
 **Corrosion Control and Prevention Executives for the Military Departments**
 
-Pub. L. 114–328, div. A, title III, § 322, Dec. 23, 2016, 130 Stat. 2075, provided that:
+Pub. L. 114–328, div. A, title III, § 322, Dec. 23, 2016, 130 Stat. 2075, provided that:
 
 > **“(a) In General.—** Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2016], the Under Secretary of Defense for Acquisition, Technology, and Logistics, in coordination with the Director of Corrosion Policy and Oversight for the Department of Defense, shall revise guidance relating to corrosion control and prevention executives to—
 
@@ -6317,7 +6317,7 @@ Pub. L. 114–328, div. A, title III, § 322, Dec. 23, 2016, 130 Stat. 2075, p
 
 > **“(b) Corrosion Control and Prevention Executive Defined.—** In this section, the term ‘corrosion control and prevention executive’ means the employee of a military department designated as the corrosion control and prevention executive of the department under section 903(a) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 2228 note).”
 
-Pub. L. 110–417, [div. A], title IX, § 903, Oct. 14, 2008, 122 Stat. 4566, as amended by Pub. L. 113–66, div. A, title III, § 334, title X, § 1084(b)(1), Dec. 26, 2013, 127 Stat. 740, 871; Pub. L. 114–328, div. A, title IX, § 954(c), Dec. 23, 2016, 130 Stat. 2377; Pub. L. 115–91, div. A, title IX, § 924, Dec. 12, 2017, 131 Stat. 1526; Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(C), Dec. 18, 2025, 139 Stat. 1227, provided that:
+Pub. L. 110–417, [div. A], title IX, § 903, Oct. 14, 2008, 122 Stat. 4566, as amended by Pub. L. 113–66, div. A, title III, § 334, title X, § 1084(b)(1), Dec. 26, 2013, 127 Stat. 740, 871; Pub. L. 114–328, div. A, title IX, § 954(c), Dec. 23, 2016, 130 Stat. 2377; Pub. L. 115–91, div. A, title IX, § 924, Dec. 12, 2017, 131 Stat. 1526; Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(C), Dec. 18, 2025, 139 Stat. 1227, provided that:
 
 > **“(a) Requirement to Designate Corrosion Control and Prevention Executive.—** Not later than 90 days after the date of the enactment of this Act [Oct. 14, 2008], the Assistant Secretary of each military department with responsibility for acquisition, technology, and logistics shall designate an employee of the military department as the corrosion control and prevention executive. Such executive shall be a senior official in the department with responsibility for coordinating department-level corrosion control and prevention program activities (including budget programming) with the military department and the Office of the Secretary of Defense, the portfolio acquisition executives of the military departments, and relevant major subordinate commands of the military departments. Each individual so designated shall be a senior civilian employee of the military department concerned in pay grade GS–15 or higher.
 
@@ -6357,13 +6357,13 @@ Pub. L. 110–417, [div. A], title IX, § 903, Oct. 14, 2008, 122 Stat. 4566, 
 
 > **“(4)** The corrosion control and prevention executive of a military department shall be the principal point of contact of the department to the Director of Corrosion Policy and Oversight (as assigned under section 2228 of title 10, United States Code).
 
-> **“[(5)** Repealed. Pub. L. 114–328, div. A, title IX, § 954(c), Dec. 23, 2016, 130 Stat. 2377.]”
+> **“[(5)** Repealed. Pub. L. 114–328, div. A, title IX, § 954(c), Dec. 23, 2016, 130 Stat. 2377.]”
 
 **Deadline for Designation of Responsible Official or Organization; Interim Report; Deadline for Long-Term Strategy; GAO Review**
 
-Pub. L. 107–314, div. A, title X, § 1067(b)–(e), Dec. 2, 2002, 116 Stat. 2658, 2659, directed the Secretary of Defense to designate a responsible official or organization under subsec. (a) of this section not later than 90 days after Dec. 2, 2002, directed the Secretary to submit to Congress a report setting forth the long-term strategy required under subsec. (c) of this section not later than one year after Dec. 2, 2002, and required the Comptroller General to monitor the implementation of such long-term strategy and, not later than 18 months after Dec. 2, 2002, to submit to Congress an assessment of the extent to which that strategy had been implemented.
+Pub. L. 107–314, div. A, title X, § 1067(b)–(e), Dec. 2, 2002, 116 Stat. 2658, 2659, directed the Secretary of Defense to designate a responsible official or organization under subsec. (a) of this section not later than 90 days after Dec. 2, 2002, directed the Secretary to submit to Congress a report setting forth the long-term strategy required under subsec. (c) of this section not later than one year after Dec. 2, 2002, and required the Comptroller General to monitor the implementation of such long-term strategy and, not later than 18 months after Dec. 2, 2002, to submit to Congress an assessment of the extent to which that strategy had been implemented.
 
-## § 2229. Strategic policy on prepositioning of materiel and equipment
+## § 2229. Strategic policy on prepositioning of materiel and equipment
 
 **(a) Policy Required.—**
 
@@ -6401,7 +6401,7 @@ Pub. L. 107–314, div. A, title X, § 1067(b)–(e), Dec. 2, 2002, 116 Stat. 
 
 **(3)** A certification under this subsection shall be in an unclassified form but may have a classified annex.
 
-(Added Pub. L. 109–364, div. A, title III, § 351(a), Oct. 17, 2006, 120 Stat. 2160; amended Pub. L. 112–81, div. A, title III, § 341(a), Dec. 31, 2011, 125 Stat. 1369; Pub. L. 113–66, div. A, title III, § 321(a), Dec. 26, 2013, 127 Stat. 730; Pub. L. 113–291, div. A, title III, § 322, Dec. 19, 2014, 128 Stat. 3343; Pub. L. 114–92, div. A, title X, § 1081(a)(8), Nov. 25, 2015, 129 Stat. 1001.)
+(Added Pub. L. 109–364, div. A, title III, § 351(a), Oct. 17, 2006, 120 Stat. 2160; amended Pub. L. 112–81, div. A, title III, § 341(a), Dec. 31, 2011, 125 Stat. 1369; Pub. L. 113–66, div. A, title III, § 321(a), Dec. 26, 2013, 127 Stat. 730; Pub. L. 113–291, div. A, title III, § 322, Dec. 19, 2014, 128 Stat. 3343; Pub. L. 114–92, div. A, title X, § 1081(a)(8), Nov. 25, 2015, 129 Stat. 1001.)
 
 **Editorial Notes**
 
@@ -6423,7 +6423,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (d) of this s
 
 **Plans Regarding Condition and Maintenance of Prepositioned Stockpiles of Navy, Marine Corps, and Air Force**
 
-Pub. L. 118–159, div. A, title III, § 333, Dec. 23, 2024, 138 Stat. 1855, provided that:
+Pub. L. 118–159, div. A, title III, § 333, Dec. 23, 2024, 138 Stat. 1855, provided that:
 
 > **“(a) Plan Required.—**
 
@@ -6459,7 +6459,7 @@ Pub. L. 118–159, div. A, title III, § 333, Dec. 23, 2024, 138 Stat. 1855, p
 
 **Pre-Positioned Stocks of Finished Defense Textile Articles**
 
-Pub. L. 118–159, div. A, title III, § 336, Dec. 23, 2024, 138 Stat. 1856, provided that:
+Pub. L. 118–159, div. A, title III, § 336, Dec. 23, 2024, 138 Stat. 1856, provided that:
 
 > **“(a) In General.—** The Secretary of Defense may establish pre-positioned stocks of finished defense textile articles, such as uniforms and protective gear, to support the rapid mobilization and sustainment of members of the Armed Forces during a contingency operation.
 
@@ -6467,7 +6467,7 @@ Pub. L. 118–159, div. A, title III, § 336, Dec. 23, 2024, 138 Stat. 1856, p
 
 **Plan Regarding Condition and Maintenance of Prepositioned Stockpiles of the Army**
 
-Pub. L. 118–31, div. A, title III, § 349, Dec. 22, 2023, 137 Stat. 228, provided that:
+Pub. L. 118–31, div. A, title III, § 349, Dec. 22, 2023, 137 Stat. 228, provided that:
 
 > **“(a) Plan Required.—** Not later than 90 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of the Army shall develop a plan to improve the required inspection procedures for the prepositioned stockpiles of the Army, for the purpose of identifying deficiencies and conducting maintenance repairs at levels necessary to ensure such prepositioned stockpiles are mission-capable.
 
@@ -6481,7 +6481,7 @@ Pub. L. 118–31, div. A, title III, § 349, Dec. 22, 2023, 137 Stat. 228, pro
 
 **Implementation Plan and Report**
 
-Pub. L. 113–66, div. A, title III, § 321(b), (c), Dec. 26, 2013, 127 Stat. 731, 732, as amended by Pub. L. 113–291, div. A, title III, § 324, Dec. 19, 2014, 128 Stat. 3343, provided that:
+Pub. L. 113–66, div. A, title III, § 321(b), (c), Dec. 26, 2013, 127 Stat. 731, 732, as amended by Pub. L. 113–291, div. A, title III, § 324, Dec. 19, 2014, 128 Stat. 3343, provided that:
 
 > **“(b) Implementation Plan.—**
 
@@ -6511,7 +6511,7 @@ Pub. L. 113–66, div. A, title III, § 321(b), (c), Dec. 26, 2013, 127 Stat. 
 
 **Deadline for Establishment of Policy**
 
-Pub. L. 109–364, div. A, title III, § 351(c), Oct. 17, 2006, 120 Stat. 2160, provided that:
+Pub. L. 109–364, div. A, title III, § 351(c), Oct. 17, 2006, 120 Stat. 2160, provided that:
 
 > **“(1) Deadline.—** Not later than six months after the date of the enactment of this Act [Oct. 17, 2006], the Secretary of Defense shall establish the strategic policy on the programs of the Department of Defense for the prepositioning of materiel and equipment required under section 2229 of title 10, United States Code, as added by subsection (a).
 
@@ -6519,7 +6519,7 @@ Pub. L. 109–364, div. A, title III, § 351(c), Oct. 17, 2006, 120 Stat. 2160
 
 **Improving Department of Defense Support for Civil Authorities**
 
-Pub. L. 109–364, div. A, title III, § 359, Oct. 17, 2006, 120 Stat. 2164, provided that:
+Pub. L. 109–364, div. A, title III, § 359, Oct. 17, 2006, 120 Stat. 2164, provided that:
 
 > **“(a) Consultation.—** In the development of concept plans for the Department of Defense for providing support to civil authorities, the Secretary of Defense may consult with the Secretary of Homeland Security and State governments.
 
@@ -6531,7 +6531,7 @@ Pub. L. 109–364, div. A, title III, § 359, Oct. 17, 2006, 120 Stat. 2164, p
 
 > **“(e) Procedures and Guidelines.—** The Secretary may develop procedures and guidelines applicable to the prepositioning of basic response assets under subsection (b).”
 
-## § 2229a. Annual report on prepositioned materiel and equipment
+## § 2229a. Annual report on prepositioned materiel and equipment
 
 **(a) Annual Report Required.—** Not later than the date of the submission of the President’s budget request for a fiscal year under section 1105 of title 31, the Secretary of Defense shall submit to the congressional defense committees a report on the status of the materiel in the prepositioned stocks as of the end of the fiscal year preceding the fiscal year during which the report is submitted. Each report shall be unclassified and may contain a classified annex. Each report shall include the following information:
 
@@ -6567,7 +6567,7 @@ Pub. L. 109–364, div. A, title III, § 359, Oct. 17, 2006, 120 Stat. 2164, p
 
 **(3)** The requirement to conduct a review under this subsection shall terminate on September 30, 2015.
 
-(Added Pub. L. 110–181, div. A, title III, § 352(a), Jan. 28, 2008, 122 Stat. 71; amended Pub. L. 112–81, div. A, title III, § 341(b), Dec. 31, 2011, 125 Stat. 1369; Pub. L. 112–239, div. A, title III, § 343, Jan. 2, 2013, 126 Stat. 1700; Pub. L. 114–92, div. A, title III, § 331, Nov. 25, 2015, 129 Stat. 791.)
+(Added Pub. L. 110–181, div. A, title III, § 352(a), Jan. 28, 2008, 122 Stat. 71; amended Pub. L. 112–81, div. A, title III, § 341(b), Dec. 31, 2011, 125 Stat. 1369; Pub. L. 112–239, div. A, title III, § 343, Jan. 2, 2013, 126 Stat. 1700; Pub. L. 114–92, div. A, title III, § 331, Nov. 25, 2015, 129 Stat. 791.)
 
 **Editorial Notes**
 
@@ -6585,7 +6585,7 @@ Pub. L. 109–364, div. A, title III, § 359, Oct. 17, 2006, 120 Stat. 2164, p
 
 For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
-## § 2229b. Responsibility for contested logistics posture management
+## § 2229b. Responsibility for contested logistics posture management
 
 **(a) In General.—** The Deputy Secretary of Defense, the Vice Chair of the Joint Chiefs of Staff, and the Commander of the United States Transportation Command shall be responsible for the integration of global contested logistics posture management. Such responsibilities shall include each of the following:
 
@@ -6641,7 +6641,7 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 
 **(e) Budget Justification Materials.—** The Secretary of Defense shall include in the budget justification materials submitted to Congress in support of the budget of the President for a fiscal year pursuant to section 1105(a) of title 31, United States Code, a cumulative accounting of contested logistics investments represented in such budget and how such investments relate to the duties and responsibilities under subsection (a)(1) and (2).
 
-(Added Pub. L. 119–60, div. A, title III, § 334(a), Dec. 18, 2025, 139 Stat. 816.)
+(Added Pub. L. 119–60, div. A, title III, § 334(a), Dec. 18, 2025, 139 Stat. 816.)
 
 **Editorial Notes**
 
@@ -6657,4 +6657,4 @@ A prior section 2229b was renumbered section 3072 of this title.
 
 **Deadline for Implementation**
 
-Pub. L. 119–60, div. A, title III, § 334(b), Dec. 18, 2025, 139 Stat. 818, provided that: “The development of the strategy required under subsection (c) of section 2229b of title 10, United States Code, as added by subsection (a), shall be completed by not later than January 31, 2027.”
+Pub. L. 119–60, div. A, title III, § 334(b), Dec. 18, 2025, 139 Stat. 818, provided that: “The development of the strategy required under subsection (c) of section 2229b of title 10, United States Code, as added by subsection (a), shall be completed by not later than January 31, 2027.”

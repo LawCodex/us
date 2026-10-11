@@ -19,35 +19,35 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 20(k), Sept. 16, 2011, 125 Stat. 335, struck out items 155 “Patent term extension” and 155A “Patent term restoration”.
+2011—Pub. L. 112–29, § 20(k), Sept. 16, 2011, 125 Stat. 335, struck out items 155 “Patent term extension” and 155A “Patent term restoration”.
 
-Pub. L. 112–29, § 3(e)(1), Sept. 16, 2011, 125 Stat. 287, struck out item 157 “Statutory invention registration”.
+Pub. L. 112–29, § 3(e)(1), Sept. 16, 2011, 125 Stat. 287, struck out item 157 “Statutory invention registration”.
 
-1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4507(6)], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, inserted “; provisional rights” after “patent” in item 154.
+1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4507(6)], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, inserted “; provisional rights” after “patent” in item 154.
 
-1984—Pub. L. 98–622, title I, § 102(b), Nov. 8, 1984, 98 Stat. 3384, added item 157.
+1984—Pub. L. 98–622, title I, § 102(b), Nov. 8, 1984, 98 Stat. 3384, added item 157.
 
-Pub. L. 98–417, title II, § 201(b), Sept. 24, 1984, 98 Stat. 1602, added item 156.
+Pub. L. 98–417, title II, § 201(b), Sept. 24, 1984, 98 Stat. 1602, added item 156.
 
-1983—Pub. L. 98–127, § 4(b), Oct. 13, 1983, 97 Stat. 833, added item 155A.
+1983—Pub. L. 98–127, § 4(b), Oct. 13, 1983, 97 Stat. 833, added item 155A.
 
-Pub. L. 97–414, § 11(b), Jan. 4, 1983, 96 Stat. 2066, added item 155.
+Pub. L. 97–414, § 11(b), Jan. 4, 1983, 96 Stat. 2066, added item 155.
 
-1965—Pub. L. 89–83, § 6, July 24, 1965, 79 Stat. 261, substituted “Issue of patent” for “Time of issue of patent” in item 151.
+1965—Pub. L. 89–83, § 6, July 24, 1965, 79 Stat. 261, substituted “Issue of patent” for “Time of issue of patent” in item 151.
 
-## § 151. Issue of patent
+## § 151. Issue of patent
 
 **(a) In General.—** If it appears that an applicant is entitled to a patent under the law, a written notice of allowance of the application shall be given or mailed to the applicant. The notice shall specify a sum, constituting the issue fee and any required publication fee, which shall be paid within 3 months thereafter.
 
 **(b) Effect of Payment.—** Upon payment of this sum the patent may issue, but if payment is not timely made, the application shall be regarded as abandoned.
 
-(Added Pub. L. 112–211, title II, § 202(b)(6), Dec. 18, 2012, 126 Stat. 1536.)
+(Added Pub. L. 112–211, title II, § 202(b)(6), Dec. 18, 2012, 126 Stat. 1536.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 151, act July 19, 1952, ch. 950, 66 Stat. 803; Pub. L. 89–83, § 4, July 24, 1965, 79 Stat. 260; Pub. L. 93–601, § 3, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906, related to issue of patent, prior to repeal by Pub. L. 112–211, title II, § 202(b)(6), Dec. 18, 2012, 126 Stat. 1536.
+A prior section 151, act July 19, 1952, ch. 950, 66 Stat. 803; Pub. L. 89–83, § 4, July 24, 1965, 79 Stat. 260; Pub. L. 93–601, § 3, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906, related to issue of patent, prior to repeal by Pub. L. 112–211, title II, § 202(b)(6), Dec. 18, 2012, 126 Stat. 1536.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -55,15 +55,15 @@ A prior section 151, act July 19, 1952, ch. 950, 66 Stat. 803; Pub. L. 89–83, 
 
 Section effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that date and patent applications pending on or filed after that date, and not effective with respect to patents in litigation commenced before that date, see section 203 of Pub. L. 112–211, set out as a note under section 27 of this title.
 
-## § 152. Issue of patent to assignee
+## § 152. Issue of patent to assignee
 
 Patents may be granted to the assignee of the inventor of record in the Patent and Trademark Office, upon the application made and the specification sworn to by the inventor, except as otherwise provided in this title.
 
-(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949.)
+(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 44 (R.S. 4895).
+Based on Title 35, U.S.C., 1946 ed., § 44 (R.S. 4895).
 
 Language is changed and the reference to reissue is omitted in view of the general provision in section 251.
 
@@ -79,15 +79,15 @@ Language is changed and the reference to reissue is omitted in view of the gener
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-## § 153. How issued
+## § 153. How issued
 
 Patents shall be issued in the name of the United States of America, under the seal of the Patent and Trademark Office, and shall be signed by the Director or have his signature placed thereon and shall be recorded in the Patent and Trademark Office.
 
-(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §§ 13203(c), 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1902, 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §§ 13203(c), 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1902, 1906.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 39 (R.S. 4883, amended (1) Feb. 18, 1888, ch. 15, 25 Stat. 40, (2) April 11, 1903, ch. 417, 32 Stat. 95, (3) Feb. 18, 1922, ch. 58, § 5, 42 Stat. 391).
+Based on Title 35, U.S.C., 1946 ed., § 39 (R.S. 4883, amended (1) Feb. 18, 1888, ch. 15, 25 Stat. 40, (2) April 11, 1903, ch. 417, 32 Stat. 95, (3) Feb. 18, 1922, ch. 58, § 5, 42 Stat. 391).
 
 The phrases referring to the attesting officers and to the recording of the patents are broadened.
 
@@ -95,11 +95,11 @@ The phrases referring to the attesting officers and to the recording of the pate
 
 **Amendments**
 
-2002—Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+2002—Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-Pub. L. 107–273, § 13203(c), struck out “and attested by an officer of the Patent and Trademark Office designated by the Director,” after “signature placed thereon”.
+Pub. L. 107–273, § 13203(c), struck out “and attested by an officer of the Patent and Trademark Office designated by the Director,” after “signature placed thereon”.
 
-1999—Pub. L. 106–113, as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner” in two places.
+1999—Pub. L. 106–113, as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner” in two places.
 
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” wherever appearing.
 
@@ -107,13 +107,13 @@ Pub. L. 107–273, § 13203(c), struck out “and attested by an officer of th
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1975 Amendment**
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-## § 154. Contents and term of patent; provisional rights
+## § 154. Contents and term of patent; provisional rights
 
 **(a) In General.—**
 
@@ -233,11 +233,11 @@ the term of the patent shall be extended 1 day for each day of the pendency of t
 
 **(B) Copies.—** The Director may require the applicant to provide a copy of the international application and a translation thereof.
 
-(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 89–83, § 5, July 24, 1965, 79 Stat. 261; Pub. L. 96–517, § 4, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 100–418, title IX, § 9002, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 103–465, title V, § 532(a)(1), Dec. 8, 1994, 108 Stat. 4983; Pub. L. 104–295, § 20(e)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4402(a), 4504], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, 1501A–564; Pub. L. 107–273, div. C, title III, §§ 13204, 13206(a)(8), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–29, §§ 3(j)(1), (2)(B), 9(a), 20(j), Sept. 16, 2011, 125 Stat. 290, 316, 335; Pub. L. 112–211, title I, § 102(6), Dec. 18, 2012, 126 Stat. 1531; Pub. L. 112–274, § 1(h), Jan. 14, 2013, 126 Stat. 2457.)
+(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 89–83, § 5, July 24, 1965, 79 Stat. 261; Pub. L. 96–517, § 4, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 100–418, title IX, § 9002, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 103–465, title V, § 532(a)(1), Dec. 8, 1994, 108 Stat. 4983; Pub. L. 104–295, § 20(e)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4402(a), 4504], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, 1501A–564; Pub. L. 107–273, div. C, title III, §§ 13204, 13206(a)(8), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–29, §§ 3(j)(1), (2)(B), 9(a), 20(j), Sept. 16, 2011, 125 Stat. 290, 316, 335; Pub. L. 112–211, title I, § 102(6), Dec. 18, 2012, 126 Stat. 1531; Pub. L. 112–274, § 1(h), Jan. 14, 2013, 126 Stat. 2457.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 40 (R.S. 4884, amended May 23, 1930, ch. 312, § 1, 46 Stat. 376).
+Based on Title 35, U.S.C., 1946 ed., § 40 (R.S. 4884, amended May 23, 1930, ch. 312, § 1, 46 Stat. 376).
 
 The reference to plants is omitted for inclusion in another section and the reference to the title is shortened since the title is of no legal significance.
 
@@ -253,51 +253,51 @@ The date of the enactment of the Uruguay Round Agreements Act, referred to in su
 
 **Amendments**
 
-2013—Subsec. (b)(1)(A)(i)(II). Pub. L. 112–274, § 1(h)(1)(A), which directed substitution of “of commencement of the national stage under section 371 in an international application” for “on which an international application fulfilled the requirements of section 371 of this title”, was executed by making the substitution for “on which an international application fulfilled the requirements of section 371”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 112–29, § 20(j). See 2011 Amendment note below.
+2013—Subsec. (b)(1)(A)(i)(II). Pub. L. 112–274, § 1(h)(1)(A), which directed substitution of “of commencement of the national stage under section 371 in an international application” for “on which an international application fulfilled the requirements of section 371 of this title”, was executed by making the substitution for “on which an international application fulfilled the requirements of section 371”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 112–29, § 20(j). See 2011 Amendment note below.
 
-Subsec. (b)(1)(B). Pub. L. 112–274, § 1(h)(1)(B), substituted “the application under section 111(a) in the United States or, in the case of an international application, the date of commencement of the national stage under section 371 in the international application” for “the application in the United States” in introductory provisions.
+Subsec. (b)(1)(B). Pub. L. 112–274, § 1(h)(1)(B), substituted “the application under section 111(a) in the United States or, in the case of an international application, the date of commencement of the national stage under section 371 in the international application” for “the application in the United States” in introductory provisions.
 
-Subsec. (b)(3)(B)(i). Pub. L. 112–274, § 1(h)(2), substituted “no later than the date of issuance of the patent” for “with the written notice of allowance of the application under section 151”.
+Subsec. (b)(3)(B)(i). Pub. L. 112–274, § 1(h)(2), substituted “no later than the date of issuance of the patent” for “with the written notice of allowance of the application under section 151”.
 
-Subsec. (b)(4)(A). Pub. L. 112–274, § 1(h)(3), substituted “the Director’s decision on the applicant’s request for reconsideration under paragraph (3)(B)(ii) shall have exclusive remedy” for “a determination made by the Director under paragraph (3) shall have remedy” and “the date of the Director’s decision on the applicant’s request for reconsideration” for “the grant of the patent”.
+Subsec. (b)(4)(A). Pub. L. 112–274, § 1(h)(3), substituted “the Director’s decision on the applicant’s request for reconsideration under paragraph (3)(B)(ii) shall have exclusive remedy” for “a determination made by the Director under paragraph (3) shall have remedy” and “the date of the Director’s decision on the applicant’s request for reconsideration” for “the grant of the patent”.
 
-2012—Subsec. (a)(2). Pub. L. 112–211, § 102(6)(A)(i), substituted “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”.
+2012—Subsec. (a)(2). Pub. L. 112–211, § 102(6)(A)(i), substituted “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”.
 
-Subsec. (a)(3). Pub. L. 112–211, § 102(6)(A)(ii), substituted “section 119, 365(a), 365(b), 386(a), or 386(b)” for “section 119, 365(a), or 365(b)”.
+Subsec. (a)(3). Pub. L. 112–211, § 102(6)(A)(ii), substituted “section 119, 365(a), 365(b), 386(a), or 386(b)” for “section 119, 365(a), or 365(b)”.
 
-Subsec. (d)(1). Pub. L. 112–211, § 102(6)(B), inserted “or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty” after “Article 21(2)(a) of such treaty” in introductory provisions.
+Subsec. (d)(1). Pub. L. 112–211, § 102(6)(B), inserted “or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty” after “Article 21(2)(a) of such treaty” in introductory provisions.
 
-2011—Subsec. (a)(2). Pub. L. 112–29, § 20(j), struck out “of this title” after “365(c)”.
+2011—Subsec. (a)(2). Pub. L. 112–29, § 20(j), struck out “of this title” after “365(c)”.
 
-Subsec. (a)(3). Pub. L. 112–29, § 20(j), struck out “of this title” after “365(b)”.
+Subsec. (a)(3). Pub. L. 112–29, § 20(j), struck out “of this title” after “365(b)”.
 
-Subsec. (b)(1)(A)(i). Pub. L. 112–29, § 20(j), in introductory provisions, struck out “of this title” after “132” and after “151”.
+Subsec. (b)(1)(A)(i). Pub. L. 112–29, § 20(j), in introductory provisions, struck out “of this title” after “132” and after “151”.
 
-Subsec. (b)(1)(A)(i)(I). Pub. L. 112–29, § 20(j), struck out “of this title” after “111(a)”.
+Subsec. (b)(1)(A)(i)(I). Pub. L. 112–29, § 20(j), struck out “of this title” after “111(a)”.
 
-Subsec. (b)(1)(A)(i)(II). Pub. L. 112–29, § 20(j), struck out “of this title” after “371”.
+Subsec. (b)(1)(A)(i)(II). Pub. L. 112–29, § 20(j), struck out “of this title” after “371”.
 
-Subsec. (b)(1)(A)(iii), (B)(ii). Pub. L. 112–29, § 3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
+Subsec. (b)(1)(A)(iii), (B)(ii). Pub. L. 112–29, § 3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
 
-Subsec. (b)(1)(C). Pub. L. 112–29, § 3(j)(2)(B), amended heading generally. Prior to amendment, heading read as follows: “Guarantee or adjustments for delays due to interferences, secrecy orders, and appeals”.
+Subsec. (b)(1)(C). Pub. L. 112–29, § 3(j)(2)(B), amended heading generally. Prior to amendment, heading read as follows: “Guarantee or adjustments for delays due to interferences, secrecy orders, and appeals”.
 
-Subsec. (b)(1)(C)(iii). Pub. L. 112–29, § 3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
+Subsec. (b)(1)(C)(iii). Pub. L. 112–29, § 3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
 
-Subsec. (b)(4)(A). Pub. L. 112–29, § 9(a), substituted “United States District Court for the Eastern District of Virginia” for “United States District Court for the District of Columbia”.
+Subsec. (b)(4)(A). Pub. L. 112–29, § 9(a), substituted “United States District Court for the Eastern District of Virginia” for “United States District Court for the District of Columbia”.
 
-Subsec. (c)(2). Pub. L. 112–29, § 20(j), in introductory provisions, struck out “of this title” after “285”.
+Subsec. (c)(2). Pub. L. 112–29, § 20(j), in introductory provisions, struck out “of this title” after “285”.
 
-Subsec. (c)(3). Pub. L. 112–29, § 20(j), struck out “of this title” after “excluded by paragraph (2))”.
+Subsec. (c)(3). Pub. L. 112–29, § 20(j), struck out “of this title” after “excluded by paragraph (2))”.
 
-2002—Subsec. (b)(4)(A). Pub. L. 107–273, § 13206(a)(8), struck out “, United States Code,” after “title 5”.
+2002—Subsec. (b)(4)(A). Pub. L. 107–273, § 13206(a)(8), struck out “, United States Code,” after “title 5”.
 
-Subsec. (d)(4)(A). Pub. L. 107–273, § 13204, amended subsec. (d)(4)(A) as in effect on Nov. 29, 2000, by substituting “the date of” for “the date on which the Patent and Trademark Office receives a copy of the” and “publication in the English language” for “international application in the English language”.
+Subsec. (d)(4)(A). Pub. L. 107–273, § 13204, amended subsec. (d)(4)(A) as in effect on Nov. 29, 2000, by substituting “the date of” for “the date on which the Patent and Trademark Office receives a copy of the” and “publication in the English language” for “international application in the English language”.
 
-1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4504(1)], inserted “; provisional rights” after “patent” in section catchline.
+1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4504(1)], inserted “; provisional rights” after “patent” in section catchline.
 
-Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4402(a)], amended heading and text of subsec. (b) generally. Prior to amendment, text provided for interference delay or secrecy orders, extensions for appellate review, a limitations period, and a maximum period of 5 years duration for all extensions.
+Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4402(a)], amended heading and text of subsec. (b) generally. Prior to amendment, text provided for interference delay or secrecy orders, extensions for appellate review, a limitations period, and a maximum period of 5 years duration for all extensions.
 
-Subsec. (d). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4504(2)], added subsec. (d).
+Subsec. (d). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4504(2)], added subsec. (d).
 
 1996—Subsec. (c)(2). Pub. L. 104–295 substituted “acts” for “Acts” in introductory provisions.
 
@@ -329,15 +329,15 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4405(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, provided that: “The amendments made by sections 4402 and 4404 [amending this section, sections 156 and 282 of this title, and section 1295 of Title 28, Judiciary and Judicial Procedure] shall take effect on the date that is 6 months after the date of the enactment of this Act [Nov. 29, 1999] and, except for a design patent application filed under chapter 16 of title 35, United States Code, shall apply to any application filed on or after the date that is 6 months after the date of the enactment of this Act.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4405(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, provided that: “The amendments made by sections 4402 and 4404 [amending this section, sections 156 and 282 of this title, and section 1295 of Title 28, Judiciary and Judicial Procedure] shall take effect on the date that is 6 months after the date of the enactment of this Act [Nov. 29, 1999] and, except for a design patent application filed under chapter 16 of title 35, United States Code, shall apply to any application filed on or after the date that is 6 months after the date of the enactment of this Act.”
 
-Amendment by section 1000(a)(9) [title IV, § 4504] of Pub. L. 106–113 effective Nov. 29, 2000, applicable only to applications (including international applications designating the United States) filed on or after that date, and additionally applicable to any pending application filed before Nov. 29, 2000, if such pending application is published pursuant to a request of the applicant under such procedures as may be established by the Director, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
+Amendment by section 1000(a)(9) [title IV, § 4504] of Pub. L. 106–113 effective Nov. 29, 2000, applicable only to applications (including international applications designating the United States) filed on or after that date, and additionally applicable to any pending application filed before Nov. 29, 2000, if such pending application is published pursuant to a request of the applicant under such procedures as may be established by the Director, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–465, title V, § 534, Dec. 8, 1994, 108 Stat. 4990, provided that:
+Pub. L. 103–465, title V, § 534, Dec. 8, 1994, 108 Stat. 4990, provided that:
 
-> **“(a) In General.—** Subject to subsection (b), the amendments made by this subtitle [subtitle C (§§ 531–534) of title V of Pub. L. 103–465, amending this section and sections 41, 104, 111, 119, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365, and 373 of this title] take effect on the date that is one year after the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].
+> **“(a) In General.—** Subject to subsection (b), the amendments made by this subtitle [subtitle C (§§ 531–534) of title V of Pub. L. 103–465, amending this section and sections 41, 104, 111, 119, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365, and 373 of this title] take effect on the date that is one year after the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].
 
 > **“(b) Patent Applications.—**
 
@@ -361,13 +361,13 @@ Amendment by Pub. L. 89–83 effective three months after July 24, 1965, see sec
 
 **Regulations**
 
-Pub. L. 103–465, title V, § 532(a)(2), Dec. 8, 1994, 108 Stat. 4985, authorized the Commissioner of Patents and Trademarks to prescribe regulations for further limited reexamination of applications pending 2 years or longer and for examination of more than 1 independent and distinct invention in applications pending 3 years or longer, as of the effective date of section 154(a)(2) of this title, and to establish appropriate related fees.
+Pub. L. 103–465, title V, § 532(a)(2), Dec. 8, 1994, 108 Stat. 4985, authorized the Commissioner of Patents and Trademarks to prescribe regulations for further limited reexamination of applications pending 2 years or longer and for examination of more than 1 independent and distinct invention in applications pending 3 years or longer, as of the effective date of section 154(a)(2) of this title, and to establish appropriate related fees.
 
-## [§§ 155, 155A. Repealed. Pub. L. 112–29, § 20(k), Sept. 16, 2011, 125 Stat. 335]
+## [§§ 155, 155A. Repealed. Pub. L. 112–29, § 20(k), Sept. 16, 2011, 125 Stat. 335]
 
-Section 155, added Pub. L. 97–414, § 11(a), Jan. 4, 1983, 96 Stat. 2065; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(6), (10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906, related to patent term extension.
+Section 155, added Pub. L. 97–414, § 11(a), Jan. 4, 1983, 96 Stat. 2065; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(6), (10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906, related to patent term extension.
 
-Section 155A, added Pub. L. 98–127, § 4(a), Oct. 13, 1983, 97 Stat. 832; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(7), (10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906, related to patent term restoration.
+Section 155A, added Pub. L. 98–127, § 4(a), Oct. 13, 1983, 97 Stat. 832; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(7), (10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906, related to patent term restoration.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -375,7 +375,7 @@ Section 155A, added Pub. L. 98–127, § 4(a), Oct. 13, 1983, 97 Stat. 832; am
 
 Repeal effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(*l*) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment note under section 2 of this title.
 
-## § 156. Extension of patent term
+## § 156. Extension of patent term
 
 **(a)** The term of a patent which claims a product, a method of using a product, or a method of manufacturing a product shall be extended in accordance with this section from the original expiration date of the patent, which shall include any patent term adjustment granted under section 154(b), if—
 
@@ -471,9 +471,9 @@ of the extension application and shall submit to the Secretary who is so notifie
 
 **(B)**
 
-**(i)** If a petition is submitted to the Secretary making the determination under subparagraph (A), not later than 180 days after the publication of the determination under subparagraph (A), upon which it may reasonably be determined that the applicant did not act with due diligence during the applicable regulatory review period, the Secretary making the determination shall, in accordance with regulations promulgated by such Secretary, determine if the applicant acted with due diligence during the applicable regulatory review period. The Secretary making the determination shall make such determination not later than 90 days after the receipt of such a petition. For a drug product, device, or additive subject to the Federal Food, Drug, and Cosmetic Act or the Public Health Service Act, the Secretary may not delegate the authority to make the determination prescribed by this clause to an office below the Office of the Director 1
+**(i)** If a petition is submitted to the Secretary making the determination under subparagraph (A), not later than 180 days after the publication of the determination under subparagraph (A), upon which it may reasonably be determined that the applicant did not act with due diligence during the applicable regulatory review period, the Secretary making the determination shall, in accordance with regulations promulgated by such Secretary, determine if the applicant acted with due diligence during the applicable regulatory review period. The Secretary making the determination shall make such determination not later than 90 days after the receipt of such a petition. For a drug product, device, or additive subject to the Federal Food, Drug, and Cosmetic Act or the Public Health Service Act, the Secretary may not delegate the authority to make the determination prescribed by this clause to an office below the Office of the Director 1
 
-<sup>1</sup>  So in original. Probably should be “Commissioner”.
+<sup>1</sup> So in original. Probably should be “Commissioner”.
 
 of Food and Drugs. For a product subject to the Virus-Serum-Toxin Act, the Secretary of Agriculture may not delegate the authority to make the determination prescribed by this clause to an office below the Office of the Assistant Secretary for Marketing and Inspection Services.
 
@@ -549,9 +549,9 @@ including any salt or ester of the active ingredient, as a single entity or in c
 
 **(C)** Any reference to the Virus-Serum-Toxin Act is a reference to the Act of March 4, 1913 (21 U.S.C. 151–158).
 
-**(5)** The term “informal hearing” has the meaning prescribed for such term by section 201(y) 2
+**(5)** The term “informal hearing” has the meaning prescribed for such term by section 201(y) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of the Federal Food, Drug, and Cosmetic Act.
 
@@ -569,9 +569,9 @@ of the Federal Food, Drug, and Cosmetic Act.
 
 **(B)** The regulatory review period for a new drug, antibiotic drug, or human biological product is the sum of—
 
-**(i)** the period beginning on the date an exemption under subsection (i) of section 505 or subsection (d) of section 507 <sup>2</sup> became effective for the approved product and ending on the date an application was initially submitted for such drug product under section 351, 505, or 507,<sup>2</sup> and
+**(i)** the period beginning on the date an exemption under subsection (i) of section 505 or subsection (d) of section 507 <sup>2</sup> became effective for the approved product and ending on the date an application was initially submitted for such drug product under section 351, 505, or 507,<sup>2</sup> and
 
-**(ii)** the period beginning on the date the application was initially submitted for the approved product under section 351, subsection (b) of section 505, or section 507 <sup>2</sup> and ending on the date such application was approved under such section.
+**(ii)** the period beginning on the date the application was initially submitted for the approved product under section 351, subsection (b) of section 505, or section 507 <sup>2</sup> and ending on the date such application was approved under such section.
 
 **(2)**
 
@@ -653,19 +653,19 @@ before such date for the approved product the period of extension determined on 
 
 **(D)** the date of issuance of the interim final rule controlling the drug under section 201(j) of the Controlled Substances Act.
 
-(Added Pub. L. 98–417, title II, § 201(a), Sept. 24, 1984, 98 Stat. 1598; amended Pub. L. 100–670, title II, § 201(a)–(h), Nov. 16, 1988, 102 Stat. 3984–3987; Pub. L. 103–179, §§ 5, 6, Dec. 3, 1993, 107 Stat. 2040, 2042; Pub. L. 103–465, title V, § 532(c)(1), Dec. 8, 1994, 108 Stat. 4987; Pub. L. 105–115, title I, § 125(b)(2)(P), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4404, 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(a)(9), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1904, 1906; Pub. L. 112–29, § 37(a), Sept. 16, 2011, 125 Stat. 341; Pub. L. 114–89, § 2(c), Nov. 25, 2015, 129 Stat. 700.)
+(Added Pub. L. 98–417, title II, § 201(a), Sept. 24, 1984, 98 Stat. 1598; amended Pub. L. 100–670, title II, § 201(a)–(h), Nov. 16, 1988, 102 Stat. 3984–3987; Pub. L. 103–179, §§ 5, 6, Dec. 3, 1993, 107 Stat. 2040, 2042; Pub. L. 103–465, title V, § 532(c)(1), Dec. 8, 1994, 108 Stat. 4987; Pub. L. 105–115, title I, § 125(b)(2)(P), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4404, 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(a)(9), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1904, 1906; Pub. L. 112–29, § 37(a), Sept. 16, 2011, 125 Stat. 341; Pub. L. 114–89, § 2(c), Nov. 25, 2015, 129 Stat. 700.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Virus-Serum-Toxin Act, referred to in subsecs. (d)(2)(A)(i), (B)(i), (f)(2)(B), (4)(C), and (g)(5)(B), (6)(C), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 828, which is classified generally to chapter 5 (§ 151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
+The Virus-Serum-Toxin Act, referred to in subsecs. (d)(2)(A)(i), (B)(i), (f)(2)(B), (4)(C), and (g)(5)(B), (6)(C), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 828, which is classified generally to chapter 5 (§ 151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(2)(A)(ii), (B)(ii), (f), (g)(2)(B), (3)(B)(ii), (6)(C), and (i)(1)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(2)(A)(ii), (B)(ii), (f), (g)(2)(B), (3)(B)(ii), (6)(C), and (i)(1)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Public Health Service Act, referred to in subsecs. (d)(2)(B)(i), (f)(2)(A), and (i)(1)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsecs. (d)(2)(B)(i), (f)(2)(A), and (i)(1)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-Sections 503, 505, 512, 515, 571, and 572 of the Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (f)(4)(B), (g)(1)(B), (3)(B), and (i)(2)(A)(ii), (B), (C), are classified, respectively, to sections 353, 355, 360b, 360e, 360ccc, and 360ccc–1 of Title 21, Food and Drugs. Section 507 of the Act, referred to in subsec. (g)(1)(B), was classified to section 357 of Title 21, prior to repeal by Pub. L. 105–115, title I, § 125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
+Sections 503, 505, 512, 515, 571, and 572 of the Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (f)(4)(B), (g)(1)(B), (3)(B), and (i)(2)(A)(ii), (B), (C), are classified, respectively, to sections 353, 355, 360b, 360e, 360ccc, and 360ccc–1 of Title 21, Food and Drugs. Section 507 of the Act, referred to in subsec. (g)(1)(B), was classified to section 357 of Title 21, prior to repeal by Pub. L. 105–115, title I, § 125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
 
 Section 201 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(5), which is classified to section 321 of Title 21, was subsequently amended, and section 201(y) no longer defines the term “informal hearing”. However, such term is defined elsewhere in that section.
 
@@ -675,59 +675,59 @@ The date of enactment of the Generic Animal Drug and Patent Term Restoration Act
 
 The date of the enactment of this section, referred to in subsec. (g)(6), is the date of the enactment of Pub. L. 98–417, which was approved Sept. 24, 1984.
 
-The Controlled Substances Act, referred to in subsec. (i)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (i)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 Section 201 of the Controlled Substances Act, referred to in subsec. (i)(2)(D), is classified to section 811 of Title 21, Food and Drugs.
 
 **Amendments**
 
-2015—Subsec. (d)(1). Pub. L. 114–89, § 2(c)(1), in introductory provisions, inserted “, or in the case of a drug product described in subsection (i), within the sixty-day period beginning on the covered date (as defined in subsection (i))” after “marketing or use”.
+2015—Subsec. (d)(1). Pub. L. 114–89, § 2(c)(1), in introductory provisions, inserted “, or in the case of a drug product described in subsection (i), within the sixty-day period beginning on the covered date (as defined in subsection (i))” after “marketing or use”.
 
-Subsec. (i). Pub. L. 114–89, § 2(c)(2), added subsec. (i).
+Subsec. (i). Pub. L. 114–89, § 2(c)(2), added subsec. (i).
 
 2011—Subsec. (d)(1). Pub. L. 112–29 inserted concluding provisions.
 
-2002—Subsec. (b)(3)(B). Pub. L. 107–273, § 13206(a)(9)(A), substituted “paragraph” for “paragraphs”.
+2002—Subsec. (b)(3)(B). Pub. L. 107–273, § 13206(a)(9)(A), substituted “paragraph” for “paragraphs”.
 
-Subsec. (d). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+Subsec. (d). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
 
-Subsec. (d)(2)(B)(i). Pub. L. 107–273, § 13206(a)(9)(B), substituted “below the Office” for “below the office”.
+Subsec. (d)(2)(B)(i). Pub. L. 107–273, § 13206(a)(9)(B), substituted “below the Office” for “below the office”.
 
-Subsec. (e). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+Subsec. (e). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
 
-Subsec. (g)(6)(B)(iii). Pub. L. 107–273, § 13206(a)(9)(C), substituted “submitted” for “submittted”.
+Subsec. (g)(6)(B)(iii). Pub. L. 107–273, § 13206(a)(9)(C), substituted “submitted” for “submittted”.
 
-Subsec. (h). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+Subsec. (h). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
 
-1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4404], in introductory provisions, inserted “, which shall include any patent term adjustment granted under section 154(b),” after “the original expiration date of the patent”.
+1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4404], in introductory provisions, inserted “, which shall include any patent term adjustment granted under section 154(b),” after “the original expiration date of the patent”.
 
-Subsecs. (d), (e), (h). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
+Subsecs. (d), (e), (h). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
 
-1997—Subsec. (f)(4)(B). Pub. L. 105–115, § 125(b)(2)(P), struck out “507,” after “505,” in two places.
+1997—Subsec. (f)(4)(B). Pub. L. 105–115, § 125(b)(2)(P), struck out “507,” after “505,” in two places.
 
 1994—Subsec. (a)(2). Pub. L. 103–465 inserted “under subsection (e)(1) of this section” after “extended”.
 
-1993—Subsec. (a)(1). Pub. L. 103–179, § 6(1)(A), substituted “subsection (d)(1)” for “subsection (d)”.
+1993—Subsec. (a)(1). Pub. L. 103–179, § 6(1)(A), substituted “subsection (d)(1)” for “subsection (d)”.
 
-Subsec. (a)(3). Pub. L. 103–179, § 6(1)(B), substituted “paragraphs (1) through (4) of subsection (d)” for “subsection (d)”.
+Subsec. (a)(3). Pub. L. 103–179, § 6(1)(B), substituted “paragraphs (1) through (4) of subsection (d)” for “subsection (d)”.
 
-Subsec. (b). Pub. L. 103–179, § 6(2), substituted “Except as provided in subsection (d)(5)(F), the rights” for “The rights” in introductory provisions.
+Subsec. (b). Pub. L. 103–179, § 6(2), substituted “Except as provided in subsection (d)(5)(F), the rights” for “The rights” in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 103–179, § 5(1), substituted “extended under subsection (e)(1)” for “extended”.
+Subsec. (c)(4). Pub. L. 103–179, § 5(1), substituted “extended under subsection (e)(1)” for “extended”.
 
-Subsec. (d)(1). Pub. L. 103–179, § 5(2), substituted “Except as provided in paragraph (5), such” for “Such” in second sentence.
+Subsec. (d)(1). Pub. L. 103–179, § 5(2), substituted “Except as provided in paragraph (5), such” for “Such” in second sentence.
 
-Subsec. (d)(5). Pub. L. 103–179, § 5(3), added par. (5).
+Subsec. (d)(5). Pub. L. 103–179, § 5(3), added par. (5).
 
-Subsec. (e)(1). Pub. L. 103–179, § 6(3)(A), substituted “paragraphs (1) through (4) of subsection (d)” for “subsection (d)”.
+Subsec. (e)(1). Pub. L. 103–179, § 6(3)(A), substituted “paragraphs (1) through (4) of subsection (d)” for “subsection (d)”.
 
-Subsec. (e)(2). Pub. L. 103–179, § 6(3)(B), substituted “subsection (d)(1)” for “subsection (d)”.
+Subsec. (e)(2). Pub. L. 103–179, § 6(3)(B), substituted “subsection (d)(1)” for “subsection (d)”.
 
-1988—Subsec. (a)(5)(A). Pub. L. 100–670, § 201(a)(1), inserted “or (C)” after “in subparagraph (B)”.
+1988—Subsec. (a)(5)(A). Pub. L. 100–670, § 201(a)(1), inserted “or (C)” after “in subparagraph (B)”.
 
-Subsec. (a)(5)(C). Pub. L. 100–670, § 201(a)(2), (3), added subpar. (C).
+Subsec. (a)(5)(C). Pub. L. 100–670, § 201(a)(2), (3), added subpar. (C).
 
-Subsec. (b). Pub. L. 100–670, § 201(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The rights derived from any patent the term of which is extended under this section shall during the period during which the patent is extended—
+Subsec. (b). Pub. L. 100–670, § 201(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The rights derived from any patent the term of which is extended under this section shall during the period during which the patent is extended—
 
 “(1) in the case of a patent which claims a product, be limited to any use approved for the approved product before the expiration of the term of the patent under the provision of law under which the applicable regulatory review occurred;
 
@@ -735,61 +735,61 @@ Subsec. (b). Pub. L. 100–670, § 201(b), amended subsec. (b) generally. Prio
 
 “(3) in the case of a patent which claims a method of manufacturing a product, be limited to the method of manufacturing as used to make the approved product.”
 
-Subsec. (c)(2). Pub. L. 100–670, § 201(c), substituted “(3)(B)(i), (4)(B)(i), and (5)(B)(i)” for “and (3)(B)(i)”.
+Subsec. (c)(2). Pub. L. 100–670, § 201(c), substituted “(3)(B)(i), (4)(B)(i), and (5)(B)(i)” for “and (3)(B)(i)”.
 
-Subsec. (d)(1)(C). Pub. L. 100–670, § 201(d), inserted “or the Secretary of Agriculture” after “and Human Services”.
+Subsec. (d)(1)(C). Pub. L. 100–670, § 201(d), inserted “or the Secretary of Agriculture” after “and Human Services”.
 
-Subsec. (d)(2)(A). Pub. L. 100–670, § 201(e), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Within sixty days of the submittal of an application for extension of the term of a patent under paragraph (1), the Commissioner shall notify the Secretary of Health and Human Services if the patent claims any human drug product, a medical device, or a food additive or color additive or a method of using or manufacturing such a product, device, or additive and if the product, device, and additive are subject to the Federal Food, Drug, and Cosmetic Act, of the extension application and shall submit to the Secretary a copy of the application. Not later than thirty days after the receipt of an application from the Commissioner, the Secretary shall review the dates contained in the application pursuant to paragraph (1)(C) and determine the applicable regulatory review period, shall notify the Commissioner of the determination, and shall publish in the Federal Register a notice of such determination.”
+Subsec. (d)(2)(A). Pub. L. 100–670, § 201(e), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Within sixty days of the submittal of an application for extension of the term of a patent under paragraph (1), the Commissioner shall notify the Secretary of Health and Human Services if the patent claims any human drug product, a medical device, or a food additive or color additive or a method of using or manufacturing such a product, device, or additive and if the product, device, and additive are subject to the Federal Food, Drug, and Cosmetic Act, of the extension application and shall submit to the Secretary a copy of the application. Not later than thirty days after the receipt of an application from the Commissioner, the Secretary shall review the dates contained in the application pursuant to paragraph (1)(C) and determine the applicable regulatory review period, shall notify the Commissioner of the determination, and shall publish in the Federal Register a notice of such determination.”
 
-Subsec. (d)(2)(B). Pub. L. 100–670, § 201(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+Subsec. (d)(2)(B). Pub. L. 100–670, § 201(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
 “(i) If a petition is submitted to the Secretary under subparagraph (A), not later than one hundred and eighty days after the publication of the determination under subparagraph (A), upon which it may reasonably be determined that the applicant did not act with due diligence during the applicable regulatory review period, the Secretary shall, in accordance with regulations promulgated by the Secretary determine if the applicant acted with due diligence during the applicable regulatory review period. The Secretary shall make such determination not later than ninety days after the receipt of such a petition. The Secretary may not delegate the authority to make the determination prescribed by this subparagraph to an office below the Office of the Commissioner of Food and Drugs.
 
 “(ii) The Secretary shall notify the Commissioner of the determination and shall publish in the Federal Register a notice of such determination together with the factual and legal basis for such determination. Any interested person may request, within the sixty-day period beginning on the publication of a determination, the Secretary to hold an informal hearing on the determination. If such a request is made within such period, the Secretary shall hold such hearing not later than thirty days after the date of the request, or at the request of the person making the request, not later than sixty days after such date. The Secretary shall provide notice of the hearing to the owner of the patent involved and to any interested person and provide the owner and any interested person an opportunity to participate in the hearing. Within thirty days after the completion of the hearing, the Secretary shall affirm or revise the determination which was the subject of the hearing and notify the Commissioner of any revision of the determination and shall publish any such revision in the Federal Register.”
 
-Subsec. (f)(1)(A). Pub. L. 100–670, § 201(g)(1), struck out “human” before “drug product”.
+Subsec. (f)(1)(A). Pub. L. 100–670, § 201(g)(1), struck out “human” before “drug product”.
 
-Subsec. (f)(2). Pub. L. 100–670, § 201(g)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘human drug product’ means the active ingredient of a new drug, antibiotic drug, or human biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act and the Public Health Service Act) including any salt or ester of the active ingredient, as a single entity or in combination with another active ingredient.”
+Subsec. (f)(2). Pub. L. 100–670, § 201(g)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘human drug product’ means the active ingredient of a new drug, antibiotic drug, or human biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act and the Public Health Service Act) including any salt or ester of the active ingredient, as a single entity or in combination with another active ingredient.”
 
-Subsec. (f)(4)(B), (C). Pub. L. 100–670, § 201(g)(2), which directed general amendment of subpars. (B) and (C) of par. (4), was executed by amending subpar. (B) generally, and adding subpar. (C) as probable intent of Congress in light of absence of subpar. (C) in par. (4). Prior to amendment, subpar. (B) read as follows: “Any reference to section 503, 505, 507, or 515 is a reference to section 503, 505, 507, or 515 of the Federal Food, Drug, and Cosmetic Act.”
+Subsec. (f)(4)(B), (C). Pub. L. 100–670, § 201(g)(2), which directed general amendment of subpars. (B) and (C) of par. (4), was executed by amending subpar. (B) generally, and adding subpar. (C) as probable intent of Congress in light of absence of subpar. (C) in par. (4). Prior to amendment, subpar. (B) read as follows: “Any reference to section 503, 505, 507, or 515 is a reference to section 503, 505, 507, or 515 of the Federal Food, Drug, and Cosmetic Act.”
 
-Subsec. (f)(7), (8). Pub. L. 100–670, § 201(g)(3), added pars. (7) and (8).
+Subsec. (f)(7), (8). Pub. L. 100–670, § 201(g)(3), added pars. (7) and (8).
 
-Subsec. (g)(1)(A). Pub. L. 100–670, § 201(h)(1)(A), (2), substituted “new drug, antibiotic drug, or human biological product” for “human drug product” and “paragraph (6)” for “paragraph (4)”.
+Subsec. (g)(1)(A). Pub. L. 100–670, § 201(h)(1)(A), (2), substituted “new drug, antibiotic drug, or human biological product” for “human drug product” and “paragraph (6)” for “paragraph (4)”.
 
-Subsec. (g)(1)(B). Pub. L. 100–670, § 201(h)(1)(B), substituted “new drug, antibiotic drug, or human biological product” for “human drug product” in introductory provisions and “product” for “human drug product” in cls. (i) and (ii).
+Subsec. (g)(1)(B). Pub. L. 100–670, § 201(h)(1)(B), substituted “new drug, antibiotic drug, or human biological product” for “human drug product” in introductory provisions and “product” for “human drug product” in cls. (i) and (ii).
 
-Subsec. (g)(2)(A), (3)(A). Pub. L. 100–670, § 201(h)(3), substituted “paragraph (6)” for “paragraph (4)”.
+Subsec. (g)(2)(A), (3)(A). Pub. L. 100–670, § 201(h)(3), substituted “paragraph (6)” for “paragraph (4)”.
 
-Subsec. (g)(4), (5). Pub. L. 100–670, § 201(h)(4), added pars. (4) and (5). Former par. (4) redesignated (6).
+Subsec. (g)(4), (5). Pub. L. 100–670, § 201(h)(4), added pars. (4) and (5). Former par. (4) redesignated (6).
 
-Subsec. (g)(6). Pub. L. 100–670, § 201(h)(4), redesignated former par. (4) as (6).
+Subsec. (g)(6). Pub. L. 100–670, § 201(h)(4), redesignated former par. (4) as (6).
 
-Subsec. (g)(6)(B)(i). Pub. L. 100–670, § 201(h)(5)(A), substituted “paragraph (1)(B) or (4)(B) was submitted and no request for the authority described in paragraph (5)(B) was submitted” for “paragraph (1)(B) was submitted”.
+Subsec. (g)(6)(B)(i). Pub. L. 100–670, § 201(h)(5)(A), substituted “paragraph (1)(B) or (4)(B) was submitted and no request for the authority described in paragraph (5)(B) was submitted” for “paragraph (1)(B) was submitted”.
 
-Subsec. (g)(6)(B)(ii). Pub. L. 100–670, § 201(h)(5)(B), substituted “paragraph (2)(B) or (4)(B)” for “paragraph (2)”.
+Subsec. (g)(6)(B)(ii). Pub. L. 100–670, § 201(h)(5)(B), substituted “paragraph (2)(B) or (4)(B)” for “paragraph (2)”.
 
-Subsec. (g)(6)(C). Pub. L. 100–670, § 201(h)(5)(C), inserted “or in the case of an approved product which is a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act or the Virus-Serum-Toxin Act), three years” after “exceed two years”.
+Subsec. (g)(6)(C). Pub. L. 100–670, § 201(h)(5)(C), inserted “or in the case of an approved product which is a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act or the Virus-Serum-Toxin Act), three years” after “exceed two years”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–29, § 37(b), Sept. 16, 2011, 125 Stat. 341, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any application for extension of a patent term under section 156 of title 35, United States Code, that is pending on, that is filed after, or as to which a decision regarding the application is subject to judicial review on, the date of the enactment of this Act [Sept. 16, 2011].”
+Pub. L. 112–29, § 37(b), Sept. 16, 2011, 125 Stat. 341, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any application for extension of a patent term under section 156 of title 35, United States Code, that is pending on, that is filed after, or as to which a decision regarding the application is subject to judicial review on, the date of the enactment of this Act [Sept. 16, 2011].”
 
 **Effective Date of 1999 Amendment**
 
-Amendment by section 1000(a)(9) [title IV, § 4404] of Pub. L. 106–113 effective on date that is 6 months after Nov. 29, 1999, and, except for design patent application filed under chapter 16 of this title, applicable to any application filed on or after such date, see section 1000(a)(9) [title IV, § 4405(a)] of Pub. L. 106–113, set out as a note under section 154 of this title.
+Amendment by section 1000(a)(9) [title IV, § 4404] of Pub. L. 106–113 effective on date that is 6 months after Nov. 29, 1999, and, except for design patent application filed under chapter 16 of this title, applicable to any application filed on or after such date, see section 1000(a)(9) [title IV, § 4405(a)] of Pub. L. 106–113, set out as a note under section 154 of this title.
 
-Amendment by section 1000(a)(9) [title IV, § 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by section 1000(a)(9) [title IV, § 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1994 Amendment**
 
 Amendment by Pub. L. 103–465 effective 6 months after Dec. 8, 1994, and applicable to all patent applications filed in the United States on or after that effective date, with provisions relating to earliest filed patent application, see section 534(b)(1), (3) of Pub. L. 103–465, set out as a note under section 154 of this title.
 
-## [§ 157. Repealed. Pub. L. 112–29, § 3(e)(1), Sept. 16, 2011, 125 Stat. 287]
+## [§ 157. Repealed. Pub. L. 112–29, § 3(e)(1), Sept. 16, 2011, 125 Stat. 287]
 
-Section, added Pub. L. 98–622, title I, § 102(a), Nov. 8, 1984, 98 Stat. 3383; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A), (11)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, 1501A–583; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335, related to statutory invention registration.
+Section, added Pub. L. 98–622, title I, § 102(a), Nov. 8, 1984, 98 Stat. 3383; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A), (11)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, 1501A–583; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335, related to statutory invention registration.
 
 **Statutory Notes and Related Subsidiaries**
 

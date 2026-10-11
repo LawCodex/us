@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 103—CONTROLLING THE ASSAULT OF NON-SOLICITED PORNOGRAPHY AND MARKETING
 
-## § 7701. Congressional findings and policy
+## § 7701. Congressional findings and policy
 
 **(a) Findings** The Congress finds the following:
 
@@ -51,19 +51,19 @@ retrieved: 2026-10-11
 
 **(3)** recipients of commercial electronic mail have a right to decline to receive additional commercial electronic mail from the same source.
 
-(Pub. L. 108–187, § 2, Dec. 16, 2003, 117 Stat. 2699.)
+(Pub. L. 108–187, § 2, Dec. 16, 2003, 117 Stat. 2699.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 108–187, § 16, Dec. 16, 2003, 117 Stat. 2719, provided that: “The provisions of this Act [see Short Title note below], other than section 9 [enacting section 7708 of this title], shall take effect on January 1, 2004.”
+Pub. L. 108–187, § 16, Dec. 16, 2003, 117 Stat. 2719, provided that: “The provisions of this Act [see Short Title note below], other than section 9 [enacting section 7708 of this title], shall take effect on January 1, 2004.”
 
 **Short Title**
 
-Pub. L. 108–187, § 1, Dec. 16, 2003, 117 Stat. 2699, provided that: “This Act [enacting this chapter and section 1037 of Title 18, Crimes and Criminal Procedure, amending section 227 of Title 47, Telecommunications, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003’, or the ‘CAN-SPAM Act of 2003’.”
+Pub. L. 108–187, § 1, Dec. 16, 2003, 117 Stat. 2699, provided that: “This Act [enacting this chapter and section 1037 of Title 18, Crimes and Criminal Procedure, amending section 227 of Title 47, Telecommunications, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003’, or the ‘CAN-SPAM Act of 2003’.”
 
-## § 7702. Definitions
+## § 7702. Definitions
 
 In this chapter:
 
@@ -179,7 +179,7 @@ a subscription, membership, account, loan, or comparable ongoing commercial rela
 
 The Commission by regulation pursuant to section 7711 of this title may modify the definition in subparagraph (A) to expand or contract the categories of messages that are treated as transactional or relationship messages for purposes of this chapter to the extent that such modification is necessary to accommodate changes in electronic mail technology or practices and accomplish the purposes of this chapter.
 
-(Pub. L. 108–187, § 3, Dec. 16, 2003, 117 Stat. 2700.)
+(Pub. L. 108–187, § 3, Dec. 16, 2003, 117 Stat. 2700.)
 
 **Editorial Notes**
 
@@ -187,7 +187,7 @@ The Commission by regulation pursuant to section 7711 of this title may modify t
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
-The Federal Trade Commission Act, referred to in par. (7), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in par. (7), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 The Internet Tax Freedom Act, referred to in par. (10), is title XI of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–719, which is set out as a note under section 151 of Title 47, Telecommunications.
 
@@ -197,7 +197,7 @@ The Internet Tax Freedom Act, referred to in par. (10), is title XI of Pub. L. 1
 
 Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under section 7701 of this title.
 
-## § 7703. Prohibition against predatory and abusive commercial e-mail
+## § 7703. Prohibition against predatory and abusive commercial e-mail
 
 **(a) Omitted**
 
@@ -227,7 +227,7 @@ Pursuant to its authority under section 994(p) of title 28 and in accordance wit
 
 **(2)** the Department of Justice should use all existing law enforcement tools to investigate and prosecute those who send bulk commercial e-mail to facilitate the commission of Federal crimes, including the tools contained in chapters 47 and 63 of title 18 (relating to fraud and false statements); chapter 71 of title 18 (relating to obscenity); chapter 110 of title 18 (relating to the sexual exploitation of children); and chapter 95 of title 18 (relating to racketeering), as appropriate.
 
-(Pub. L. 108–187, § 4, Dec. 16, 2003, 117 Stat. 2703.)
+(Pub. L. 108–187, § 4, Dec. 16, 2003, 117 Stat. 2703.)
 
 **Editorial Notes**
 
@@ -241,7 +241,7 @@ Section is comprised of section 4 of Pub. L. 108–187. Subsec. (a) of section 4
 
 Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under section 7701 of this title.
 
-## § 7704. Other protections for users of commercial electronic mail
+## § 7704. Other protections for users of commercial electronic mail
 
 **(a) Requirements for transmission of messages**
 
@@ -369,7 +369,7 @@ In this subsection, the term “sexually oriented material” means any material
 
 Whoever knowingly violates paragraph (1) shall be fined under title 18, or imprisoned not more than 5 years, or both.
 
-(Pub. L. 108–187, § 5, Dec. 16, 2003, 117 Stat. 2706.)
+(Pub. L. 108–187, § 5, Dec. 16, 2003, 117 Stat. 2706.)
 
 **Editorial Notes**
 
@@ -383,7 +383,7 @@ This chapter, referred to in subsec. (a)(4)(A)(iv), was in the original “this 
 
 Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under section 7701 of this title.
 
-## § 7705. Businesses knowingly promoted by electronic mail with false or misleading transmission information
+## § 7705. Businesses knowingly promoted by electronic mail with false or misleading transmission information
 
 **(a) In general** It is unlawful for a person to promote, or allow the promotion of, that person’s trade or business, or goods, products, property, or services sold, offered for sale, leased or offered for lease, or otherwise made available through that trade or business, in a commercial electronic mail message the transmission of which is in violation of section 7704(a)(1) of this title if that person—
 
@@ -421,7 +421,7 @@ Subsections (f) and (g) of section 7706 of this title do not apply to violations
 
 Except as provided in section 7706(f)(8) of this title, nothing in this section may be construed to limit or prevent any action that may be taken under this chapter with respect to any violation of any other section of this chapter.
 
-(Pub. L. 108–187, § 6, Dec. 16, 2003, 117 Stat. 2710.)
+(Pub. L. 108–187, § 6, Dec. 16, 2003, 117 Stat. 2710.)
 
 **Editorial Notes**
 
@@ -435,7 +435,7 @@ This chapter, referred to in subsec. (d), was in the original “this Act”, me
 
 Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under section 7701 of this title.
 
-## § 7706. Enforcement generally
+## § 7706. Enforcement generally
 
 **(a) Violation is unfair or deceptive act or practice**
 
@@ -477,9 +477,9 @@ For the purpose of the exercise by any agency referred to in subsection (b) of i
 
 **(d) Actions by the Commission**
 
-The Commission shall prevent any person from violating this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this chapter. Any entity that violates any provision of that subtitle 1
+The Commission shall prevent any person from violating this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this chapter. Any entity that violates any provision of that subtitle 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 is subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of that subtitle.1
 
@@ -611,7 +611,7 @@ For any violation of section 7704 of this title (other than section 7704(a)(1) o
 
 In any action brought pursuant to paragraph (1), the court may, in its discretion, require an undertaking for the payment of the costs of such action, and assess reasonable costs, including reasonable attorneys’ fees, against any party.
 
-(Pub. L. 108–187, § 7, Dec. 16, 2003, 117 Stat. 2711.)
+(Pub. L. 108–187, § 7, Dec. 16, 2003, 117 Stat. 2711.)
 
 **Editorial Notes**
 
@@ -619,23 +619,23 @@ In any action brought pursuant to paragraph (1), the court may, in its discretio
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
-Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (b)(1)(B), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
+Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (b)(1)(B), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
 
-The Federal Credit Union Act, referred to in subsec. (b)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (b)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (b)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (b)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (b)(4), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (b)(4), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
-The Investment Advisers Act of 1940, referred to in subsec. (b)(5), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80b–20 of this title and Tables.
+The Investment Advisers Act of 1940, referred to in subsec. (b)(5), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80b–20 of this title and Tables.
 
-The Packers and Stockyards Act, 1921, referred to in subsec. (b)(8), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§ 181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
+The Packers and Stockyards Act, 1921, referred to in subsec. (b)(8), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§ 181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (b)(9), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (b)(9), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
-The Communications Act of 1934, referred to in subsec. (b)(10), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (b)(10), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -643,7 +643,7 @@ The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1
 
 Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under section 7701 of this title.
 
-## § 7707. Effect on other laws
+## § 7707. Effect on other laws
 
 **(a) Federal law**
 
@@ -667,7 +667,7 @@ This chapter supersedes any statute, regulation, or rule of a State or political
 
 Nothing in this chapter shall be construed to have any effect on the lawfulness or unlawfulness, under any other provision of law, of the adoption, implementation, or enforcement by a provider of Internet access service of a policy of declining to transmit, route, relay, handle, or store certain types of electronic mail messages.
 
-(Pub. L. 108–187, § 8, Dec. 16, 2003, 117 Stat. 2716.)
+(Pub. L. 108–187, § 8, Dec. 16, 2003, 117 Stat. 2716.)
 
 **Editorial Notes**
 
@@ -681,7 +681,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under section 7701 of this title.
 
-## § 7708. Do-Not-E-Mail registry
+## § 7708. Do-Not-E-Mail registry
 
 **(a) In general** Not later than 6 months after December 16, 2003, the Commission shall transmit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce a report that—
 
@@ -695,9 +695,9 @@ Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as 
 
 The Commission may establish and implement the plan, but not earlier than 9 months after December 16, 2003.
 
-(Pub. L. 108–187, § 9, Dec. 16, 2003, 117 Stat. 2716.)
+(Pub. L. 108–187, § 9, Dec. 16, 2003, 117 Stat. 2716.)
 
-## § 7709. Study of effects of commercial electronic mail
+## § 7709. Study of effects of commercial electronic mail
 
 **(a) In general**
 
@@ -711,7 +711,7 @@ Not later than 24 months after December 16, 2003, the Commission, in consultatio
 
 **(3)** analysis and recommendations concerning options for protecting consumers, including children, from the receipt and viewing of commercial electronic mail that is obscene or pornographic.
 
-(Pub. L. 108–187, § 10, Dec. 16, 2003, 117 Stat. 2716.)
+(Pub. L. 108–187, § 10, Dec. 16, 2003, 117 Stat. 2716.)
 
 **Editorial Notes**
 
@@ -725,7 +725,7 @@ This chapter, referred to in subsecs. (a) and (b)(1), was in the original “thi
 
 Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under section 7701 of this title.
 
-## § 7710. Improving enforcement by providing rewards for information about violations; labeling
+## § 7710. Improving enforcement by providing rewards for information about violations; labeling
 
 The Commission shall transmit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce—
 
@@ -741,7 +741,7 @@ The Commission shall transmit to the Senate Committee on Commerce, Science, and 
 
 **(2)** a report, within 18 months after December 16, 2003, that sets forth a plan for requiring commercial electronic mail to be identifiable from its subject line, by means of compliance with Internet Engineering Task Force Standards, the use of the characters “ADV” in the subject line, or other comparable identifier, or an explanation of any concerns the Commission has that cause the Commission to recommend against the plan.
 
-(Pub. L. 108–187, § 11, Dec. 16, 2003, 117 Stat. 2717.)
+(Pub. L. 108–187, § 11, Dec. 16, 2003, 117 Stat. 2717.)
 
 **Editorial Notes**
 
@@ -755,7 +755,7 @@ This chapter, referred to in par. (1), was in the original “this Act”, meani
 
 Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under section 7701 of this title.
 
-## § 7711. Regulations
+## § 7711. Regulations
 
 **(a) In general**
 
@@ -765,7 +765,7 @@ The Commission may issue regulations to implement the provisions of this Act (no
 
 Subsection (a) may not be construed to authorize the Commission to establish a requirement pursuant to section 7704(a)(5)(A) of this title to include any specific words, characters, marks, or labels in a commercial electronic mail message, or to include the identification required by section 7704(a)(5)(A) of this title in any particular part of such a mail message (such as the subject line or body).
 
-(Pub. L. 108–187, § 13, Dec. 16, 2003, 117 Stat. 2717.)
+(Pub. L. 108–187, § 13, Dec. 16, 2003, 117 Stat. 2717.)
 
 **Editorial Notes**
 
@@ -779,7 +779,7 @@ This Act (not including the amendments made by sections 4 and 12), referred to i
 
 Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under section 7701 of this title.
 
-## § 7712. Application to wireless
+## § 7712. Application to wireless
 
 **(a) Effect on other law**
 
@@ -807,7 +807,7 @@ The Federal Communications Commission shall consider the ability of a sender of 
 
 In this section, the term “mobile service commercial message” means a commercial electronic mail message that is transmitted directly to a wireless device that is utilized by a subscriber of commercial mobile service (as such term is defined in section 332(d) of title 47) in connection with such service.
 
-(Pub. L. 108–187, § 14, Dec. 16, 2003, 117 Stat. 2718.)
+(Pub. L. 108–187, § 14, Dec. 16, 2003, 117 Stat. 2718.)
 
 **Editorial Notes**
 
@@ -821,11 +821,11 @@ This chapter, referred to in subsecs. (a) and (b)(3), (4), was in the original �
 
 Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under section 7701 of this title.
 
-## § 7713. Separability
+## § 7713. Separability
 
 If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of this chapter and the application of such provision to other persons or circumstances shall not be affected.
 
-(Pub. L. 108–187, § 15, Dec. 16, 2003, 117 Stat. 2718.)
+(Pub. L. 108–187, § 15, Dec. 16, 2003, 117 Stat. 2718.)
 
 **Editorial Notes**
 

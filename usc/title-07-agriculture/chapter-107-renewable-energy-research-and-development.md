@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Codification**
 
-Title IX of the Farm Security and Rural Investment Act of 2002, which comprises this chapter, was originally enacted by Pub. L. 107–171, title IX, May 13, 2002, 116 Stat. 475, and amended by Pub. L. 108–199, div. A, title VII, § 778(b), Jan. 23, 2004, 118 Stat. 41; Pub. L. 109–58, title II, § 205, title IX, § 943(a), (b), Aug. 8, 2005, 119 Stat. 654, 880, 881; Pub. L. 109–171, title I, § 1301, Feb. 8, 2006, 120 Stat. 6. Such title is shown herein, however, as having been added by Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1303, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2064, without reference to such intervening amendments because of the extensive revision of the title’s provisions by Pub. L. 110–234 and Pub. L. 110–246, which amended the title identically. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Title IX of the Farm Security and Rural Investment Act of 2002, which comprises this chapter, was originally enacted by Pub. L. 107–171, title IX, May 13, 2002, 116 Stat. 475, and amended by Pub. L. 108–199, div. A, title VII, § 778(b), Jan. 23, 2004, 118 Stat. 41; Pub. L. 109–58, title II, § 205, title IX, § 943(a), (b), Aug. 8, 2005, 119 Stat. 654, 880, 881; Pub. L. 109–171, title I, § 1301, Feb. 8, 2006, 120 Stat. 6. Such title is shown herein, however, as having been added by Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1303, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2064, without reference to such intervening amendments because of the extensive revision of the title’s provisions by Pub. L. 110–234 and Pub. L. 110–246, which amended the title identically. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
-## § 8101. Definitions
+## § 8101. Definitions
 
 Except as otherwise provided, in this chapter:
 
@@ -191,7 +191,7 @@ A system described in subparagraph (A) may not include a mechanism for dispensin
 
 The term “Secretary” means the Secretary of Agriculture.
 
-(Pub. L. 107–171, title IX, § 9001, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1303, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2064; amended Pub. L. 113–79, title IX, § 9001, Feb. 7, 2014, 128 Stat. 926; Pub. L. 115–334, title IX, § 9001, Dec. 20, 2018, 132 Stat. 4883.)
+(Pub. L. 107–171, title IX, § 9001, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1303, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2064; amended Pub. L. 113–79, title IX, § 9001, Feb. 7, 2014, 128 Stat. 926; Pub. L. 115–334, title IX, § 9001, Dec. 20, 2018, 132 Stat. 4883.)
 
 **Editorial Notes**
 
@@ -201,33 +201,33 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 8101, Pub. L. 107–171, title IX, § 9001, May 13, 2002, 116 Stat. 475; Pub. L. 109–58, title IX, § 943(a)(1), Aug. 8, 2005, 119 Stat. 880, contained definitions for this chapter, prior to the general amendment of this chapter by Pub. L. 110–246.
+A prior section 8101, Pub. L. 107–171, title IX, § 9001, May 13, 2002, 116 Stat. 475; Pub. L. 109–58, title IX, § 943(a)(1), Aug. 8, 2005, 119 Stat. 880, contained definitions for this chapter, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 **Amendments**
 
-2018—Par. (4)(A). Pub. L. 115–334, § 9001(1), substituted “agricultural materials, renewable chemicals,” for “agricultural materials”.
+2018—Par. (4)(A). Pub. L. 115–334, § 9001(1), substituted “agricultural materials, renewable chemicals,” for “agricultural materials”.
 
-Par. (7)(A). Pub. L. 115–334, § 9001(2), substituted “or an intermediate ingredient or feedstock of renewable biomass into any 1 or more, or a combination, of—” and cls. (i) to (iii) for “into biofuels and biobased products; and”.
+Par. (7)(A). Pub. L. 115–334, § 9001(2), substituted “or an intermediate ingredient or feedstock of renewable biomass into any 1 or more, or a combination, of—” and cls. (i) to (iii) for “into biofuels and biobased products; and”.
 
-Par. (16)(A). Pub. L. 115–334, § 9001(3)(A), substituted “subparagraph (C), the term ‘renewable energy system’ means a system that produces usable energy from a renewable energy source.” for “subparagraph (B), the term ‘renewable energy system’ means a system that—
+Par. (16)(A). Pub. L. 115–334, § 9001(3)(A), substituted “subparagraph (C), the term ‘renewable energy system’ means a system that produces usable energy from a renewable energy source.” for “subparagraph (B), the term ‘renewable energy system’ means a system that—
 
 “(i) produces usable energy from a renewable energy source; and
 
 “(ii) may include distribution components necessary to move energy produced by such system to the initial point of sale.”
 
-Par. (16)(B), (C). Pub. L. 115–334, § 9001(3)(B), (C), added subpar. (B) and redesignated former subpar. (B) as (C).
+Par. (16)(B), (C). Pub. L. 115–334, § 9001(3)(B), (C), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-2014—Par. (9). Pub. L. 113–79, § 9001(2), added par. (9). Former par. (9) redesignated (10).
+2014—Par. (9). Pub. L. 113–79, § 9001(2), added par. (9). Former par. (9) redesignated (10).
 
-Par. (10) to (13). Pub. L. 113–79, § 9001(1), redesignated pars. (9) to (12) as (10) to (13), respectively. Former par. (13) redesignated (15).
+Par. (10) to (13). Pub. L. 113–79, § 9001(1), redesignated pars. (9) to (12) as (10) to (13), respectively. Former par. (13) redesignated (15).
 
-Par. (14). Pub. L. 113–79, § 9001(3), added par. (14)
+Par. (14). Pub. L. 113–79, § 9001(3), added par. (14)
 
-Par. (15). Pub. L. 113–79, § 9001(1), redesignated par. (13) as (15).
+Par. (15). Pub. L. 113–79, § 9001(1), redesignated par. (13) as (15).
 
-Par. (16). Pub. L. 113–79, § 9001(4), added par. (16).
+Par. (16). Pub. L. 113–79, § 9001(4), added par. (16).
 
-Par. (17). Pub. L. 113–79, § 9001(1), redesignated par. (14) as (17).
+Par. (17). Pub. L. 113–79, § 9001(1), redesignated par. (14) as (17).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -237,11 +237,11 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–199, div. A, title VII, § 778(a), Jan. 23, 2004, 118 Stat. 41, provided that: “This section [enacting section 8109 of this title] may be cited as the ‘Sun Grant Research Initiative Act of 2003’.”
+Pub. L. 108–199, div. A, title VII, § 778(a), Jan. 23, 2004, 118 Stat. 41, provided that: “This section [enacting section 8109 of this title] may be cited as the ‘Sun Grant Research Initiative Act of 2003’.”
 
 **Biomass Research and Development**
 
-Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, § 9008, May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, § 201, Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, § 941, Aug. 8, 2005, 119 Stat. 873, known as the Biomass Research and Development Act of 2000, and formerly set out as a note under this section, provided temporary authority for the Secretaries of Agriculture and Energy to promote biomass research and development. As amended by Pub. L. 109–58, the program became permanent, and title III of Pub. L. 106–224 was transferred to chapter 112 (§ 8601 et seq.) of this title. Subsequently, title III of Pub. L. 106–224 was repealed by Pub. L. 110–246, title IX, § 9001(b), June 18, 2008, 122 Stat. 2095.
+Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, § 9008, May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, § 201, Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, § 941, Aug. 8, 2005, 119 Stat. 873, known as the Biomass Research and Development Act of 2000, and formerly set out as a note under this section, provided temporary authority for the Secretaries of Agriculture and Energy to promote biomass research and development. As amended by Pub. L. 109–58, the program became permanent, and title III of Pub. L. 106–224 was transferred to chapter 112 (§ 8601 et seq.) of this title. Subsequently, title III of Pub. L. 106–224 was repealed by Pub. L. 110–246, title IX, § 9001(b), June 18, 2008, 122 Stat. 2095.
 
 **Executive Documents**
 
@@ -283,7 +283,7 @@ The Secretary of Agriculture is hereby authorized and directed to publish this m
 
 Barack Obama.
 
-## § 8102. Biobased markets program
+## § 8102. Biobased markets program
 
 **(a) Federal procurement of biobased products**
 
@@ -381,9 +381,9 @@ The Secretary, after consultation with the Administrator, the Administrator of G
 
 **(C) Information provided**
 
-Information provided pursuant to subparagraph (B)(v) 1
+Information provided pursuant to subparagraph (B)(v) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 with respect to a material or item shall be considered to be provided for another item made with the same material or item.
 
@@ -587,13 +587,13 @@ In this section, the term “biobased product” (as defined in section 8101 of 
 
 In carrying out this section, except as provided in subsection (g), the Secretary shall act through the rural development mission area.
 
-(Pub. L. 107–171, title IX, § 9002, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1305, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2067; amended Pub. L. 112–240, title VII, § 701(f)(1), Jan. 2, 2013, 126 Stat. 2364; Pub. L. 113–79, title IX, § 9002(a), Feb. 7, 2014, 128 Stat. 926; Pub. L. 115–334, title IX, § 9002, Dec. 20, 2018, 132 Stat. 4883; Pub. L. 118–22, div. B, title I, § 102(d)(6)(A), Nov. 17, 2023, 137 Stat. 117.)
+(Pub. L. 107–171, title IX, § 9002, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1305, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2067; amended Pub. L. 112–240, title VII, § 701(f)(1), Jan. 2, 2013, 126 Stat. 2364; Pub. L. 113–79, title IX, § 9002(a), Feb. 7, 2014, 128 Stat. 926; Pub. L. 115–334, title IX, § 9002, Dec. 20, 2018, 132 Stat. 4883; Pub. L. 118–22, div. B, title I, § 102(d)(6)(A), Nov. 17, 2023, 137 Stat. 117.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subparagraph (B)(v) of subsection (a)(3) of this section, referred to in subsec. (a)(3)(C), was redesignated subparagraph (B)(vii) by Pub. L. 113–79, title IX, § 9002(a)(1)(B)(i)(II), Feb. 7, 2014, 128 Stat. 927.
+Subparagraph (B)(v) of subsection (a)(3) of this section, referred to in subsec. (a)(3)(C), was redesignated subparagraph (B)(vii) by Pub. L. 113–79, title IX, § 9002(a)(1)(B)(i)(II), Feb. 7, 2014, 128 Stat. 927.
 
 The date of the enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(2)(A), (e), and (j)(1), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -603,57 +603,57 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 8102, Pub. L. 107–171, title IX, § 9002, May 13, 2002, 116 Stat. 476; Pub. L. 109–58, title II, § 205, title IX, § 943(a)(2), (b), Aug. 8, 2005, 119 Stat. 654, 880, 881, related to Federal procurement of biobased products, prior to the general amendment of this chapter by Pub. L. 110–246.
+A prior section 8102, Pub. L. 107–171, title IX, § 9002, May 13, 2002, 116 Stat. 476; Pub. L. 109–58, title II, § 205, title IX, § 943(a)(2), (b), Aug. 8, 2005, 119 Stat. 654, 880, 881, related to Federal procurement of biobased products, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 **Amendments**
 
 2023—Subsec. (k)(1). Pub. L. 118–22 substituted “2024” for “2023”.
 
-2018—Subsec. (b)(2)(A)(iii). Pub. L. 115–334, § 9002(1), added cl. (iii).
+2018—Subsec. (b)(2)(A)(iii). Pub. L. 115–334, § 9002(1), added cl. (iii).
 
-Subsec. (f). Pub. L. 115–334, § 9002(2), amended subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary shall establish a national registry of testing centers for biobased products that will serve biobased product manufacturers.”
+Subsec. (f). Pub. L. 115–334, § 9002(2), amended subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary shall establish a national registry of testing centers for biobased products that will serve biobased product manufacturers.”
 
-Subsecs. (h), (i). Pub. L. 115–334, § 9002(4), added subsecs. (h) and (i). Former subsecs. (h) and (i) redesignated (j) and (k), respectively.
+Subsecs. (h), (i). Pub. L. 115–334, § 9002(4), added subsecs. (h) and (i). Former subsecs. (h) and (i) redesignated (j) and (k), respectively.
 
-Subsecs. (j), (k). Pub. L. 115–334, § 9002(3), redesignated subsecs. (h) and (i) as (j) and (k), respectively. Former subsec. (j) redesignated (*l*).
+Subsecs. (j), (k). Pub. L. 115–334, § 9002(3), redesignated subsecs. (h) and (i) as (j) and (k), respectively. Former subsec. (j) redesignated (*l*).
 
-Subsec. (k)(1). Pub. L. 115–334, § 9002(5)(A), substituted “2023” for “2018”.
+Subsec. (k)(1). Pub. L. 115–334, § 9002(5)(A), substituted “2023” for “2018”.
 
-Subsec. (k)(2). Pub. L. 115–334, § 9002(5)(B), substituted “$3,000,000 for each of fiscal years 2019 through 2023” for “$2,000,000 for each of fiscal years 2014 through 2018”.
+Subsec. (k)(2). Pub. L. 115–334, § 9002(5)(B), substituted “$3,000,000 for each of fiscal years 2019 through 2023” for “$2,000,000 for each of fiscal years 2014 through 2018”.
 
-Subsec. (*l*). Pub. L. 115–334, § 9002(3), redesignated subsec. (j) as (*l*).
+Subsec. (*l*). Pub. L. 115–334, § 9002(3), redesignated subsec. (j) as (*l*).
 
-Subsec. (m). Pub. L. 115–334, § 9002(6), added subsec. (m).
+Subsec. (m). Pub. L. 115–334, § 9002(6), added subsec. (m).
 
-2014—Subsec. (a)(2)(A)(i)(III). Pub. L. 113–79, § 9002(a)(1)(A), added subcl. (III).
+2014—Subsec. (a)(2)(A)(i)(III). Pub. L. 113–79, § 9002(a)(1)(A), added subcl. (III).
 
-Subsec. (a)(3)(B)(v). Pub. L. 113–79, § 9002(a)(1)(B)(i)(III), added cl. (v). Former cl. (v) redesignated (vii).
+Subsec. (a)(3)(B)(v). Pub. L. 113–79, § 9002(a)(1)(B)(i)(III), added cl. (v). Former cl. (v) redesignated (vii).
 
-Pub. L. 113–79, § 9002(a)(1)(B)(i)(I), inserted “as determined to be necessary by the Secretary based on the availability of data,” before “provide information”.
+Pub. L. 113–79, § 9002(a)(1)(B)(i)(I), inserted “as determined to be necessary by the Secretary based on the availability of data,” before “provide information”.
 
-Subsec. (a)(3)(B)(vi). Pub. L. 113–79, § 9002(a)(1)(B)(i)(III), added cl. (vi). Former cl. (vi) redesignated (viii).
+Subsec. (a)(3)(B)(vi). Pub. L. 113–79, § 9002(a)(1)(B)(i)(III), added cl. (vi). Former cl. (vi) redesignated (viii).
 
-Subsec. (a)(3)(B)(vii), (viii). Pub. L. 113–79, § 9002(a)(1)(B)(i)(II), redesignated cls. (v) and (vi) as (vii) and (viii), respectively.
+Subsec. (a)(3)(B)(vii), (viii). Pub. L. 113–79, § 9002(a)(1)(B)(i)(II), redesignated cls. (v) and (vi) as (vii) and (viii), respectively.
 
-Subsec. (a)(3)(F). Pub. L. 113–79, § 9002(a)(1)(B)(ii), added subpar. (F).
+Subsec. (a)(3)(F). Pub. L. 113–79, § 9002(a)(1)(B)(ii), added subpar. (F).
 
-Subsec. (b)(3). Pub. L. 113–79, § 9002(a)(2)(A), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+Subsec. (b)(3). Pub. L. 113–79, § 9002(a)(2)(A), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (b)(4). Pub. L. 113–79, § 9002(a)(2)(B), added par. (4).
+Subsec. (b)(4). Pub. L. 113–79, § 9002(a)(2)(B), added par. (4).
 
-Subsec. (g). Pub. L. 113–79, § 9002(a)(5), added subsec. (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 113–79, § 9002(a)(5), added subsec. (g). Former subsec. (g) redesignated (h).
 
-Subsec. (g)(2). Pub. L. 113–79, § 9002(a)(3)(A)(i), substituted “Each report under paragraph (1)” for “The report” in introductory provisions.
+Subsec. (g)(2). Pub. L. 113–79, § 9002(a)(3)(A)(i), substituted “Each report under paragraph (1)” for “The report” in introductory provisions.
 
-Subsec. (g)(2)(C). Pub. L. 113–79, § 9002(a)(3)(A)(ii)–(iv), added subpar. (C).
+Subsec. (g)(2)(C). Pub. L. 113–79, § 9002(a)(3)(A)(ii)–(iv), added subpar. (C).
 
-Subsec. (g)(3). Pub. L. 113–79, § 9002(a)(3)(B), added par. (3).
+Subsec. (g)(3). Pub. L. 113–79, § 9002(a)(3)(B), added par. (3).
 
-Subsecs. (h), (i). Pub. L. 113–79, § 9002(a)(4), redesignated subsecs. (g) and (h) as (h) and (i), respectively.
+Subsecs. (h), (i). Pub. L. 113–79, § 9002(a)(4), redesignated subsecs. (g) and (h) as (h) and (i), respectively.
 
-Subsec. (i)(1), (2). Pub. L. 113–79, § 9002(a)(6), added pars. (1) and (2) and struck out former pars. (1) and (2) which related to mandatory funding for fiscal years 2008 through 2012 and discretionary funding for fiscal years 2009 through 2013, respectively.
+Subsec. (i)(1), (2). Pub. L. 113–79, § 9002(a)(6), added pars. (1) and (2) and struck out former pars. (1) and (2) which related to mandatory funding for fiscal years 2008 through 2012 and discretionary funding for fiscal years 2009 through 2013, respectively.
 
-Subsec. (j). Pub. L. 113–79, § 9002(a)(7), added subsec. (j).
+Subsec. (j). Pub. L. 113–79, § 9002(a)(7), added subsec. (j).
 
 2013—Subsec. (h)(2). Pub. L. 112–240 substituted “2013” for “2012”.
 
@@ -675,7 +675,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Driving Innovation and Creating Jobs in Rural America Through Biobased and Sustainable Product Procurement**
 
-Memorandum of President of the United States, Feb. 21, 2012, 77 F.R. 10939, as amended by Ex. Ord. No. 13693, § 16(b), Mar. 19, 2015, 80 F.R. 15880, provided:
+Memorandum of President of the United States, Feb. 21, 2012, 77 F.R. 10939, as amended by Ex. Ord. No. 13693, § 16(b), Mar. 19, 2015, 80 F.R. 15880, provided:
 
 Memorandum for the Heads of Executive Departments and Agencies
 
@@ -687,7 +687,7 @@ The goal of this memorandum is to ensure that executive departments and agencies
 
 Therefore, I direct that agencies take the following steps to significantly increase Federal procurement of biobased and other sustainable products.
 
-Section 1. [Revoked by Ex. Ord. No. 13693, § 16(b), Mar. 19, 2015, 80 F.R. 15880.]
+Section 1. [Revoked by Ex. Ord. No. 13693, § 16(b), Mar. 19, 2015, 80 F.R. 15880.]
 
 Sec. 2. *Biobased Product Designations*. The USDA has already designated 64 categories of biobased products for preferred Federal procurement. Although these categories represent an estimated 9,000 individual products, less than half of the known biobased products are currently included in the preference program. Increasing the number of products subject to the Federal procurement preference will increase procurement of biobased products. Therefore, I direct the Secretary of Agriculture to:
 
@@ -751,7 +751,7 @@ Sec. 8. *General Provisions*. (a) This memorandum shall apply to an agency with 
 
 Barack Obama.
 
-## § 8103. Biorefinery, renewable chemical, and biobased product manufacturing assistance
+## § 8103. Biorefinery, renewable chemical, and biobased product manufacturing assistance
 
 **(a) Purpose** The purpose of this section is to assist in the development of new and emerging technologies for the development of advanced biofuels, renewable chemicals, and biobased product manufacturing so as to—
 
@@ -943,7 +943,7 @@ Nothing in this subsection shall be interpreted to authorize funds of the Commod
 
 **(B)** any grant agreement that may result in any outlay after September 30, 2031.
 
-(Pub. L. 107–171, title IX, § 9003, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1310, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2072; amended Pub. L. 112–240, title VII, § 701(f)(2), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9003, Feb. 7, 2014, 128 Stat. 928; Pub. L. 115–334, title IX, § 9003, Dec. 20, 2018, 132 Stat. 4884; Pub. L. 117–169, title II, §§ 22001, 22003, 22004, Aug. 16, 2022, 136 Stat. 2018, 2020.)
+(Pub. L. 107–171, title IX, § 9003, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1310, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2072; amended Pub. L. 112–240, title VII, § 701(f)(2), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9003, Feb. 7, 2014, 128 Stat. 928; Pub. L. 115–334, title IX, § 9003, Dec. 20, 2018, 132 Stat. 4884; Pub. L. 117–169, title II, §§ 22001, 22003, 22004, Aug. 16, 2022, 136 Stat. 2018, 2020.)
 
 **Editorial Notes**
 
@@ -951,7 +951,7 @@ Nothing in this subsection shall be interpreted to authorize funds of the Commod
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (f)(2), is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Rural Electrification Act of 1936, referred to in subsec. (j)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (j)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
 **Codification**
 
@@ -959,53 +959,53 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 8103, Pub. L. 107–171, title IX, § 9003, May 13, 2002, 116 Stat. 478, related to biorefinery development grants, prior to the general amendment of this chapter by Pub. L. 110–246.
+A prior section 8103, Pub. L. 107–171, title IX, § 9003, May 13, 2002, 116 Stat. 478, related to biorefinery development grants, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 **Amendments**
 
-2022—Subsec. (h). Pub. L. 117–169, § 22201, added subsec. (h).
+2022—Subsec. (h). Pub. L. 117–169, § 22201, added subsec. (h).
 
-Subsec. (i). Pub. L. 117–169, § 22203, added subsec. (i).
+Subsec. (i). Pub. L. 117–169, § 22203, added subsec. (i).
 
-Subsec. (j). Pub. L. 117–169, § 22204, added subsec. (j).
+Subsec. (j). Pub. L. 117–169, § 22204, added subsec. (j).
 
-2018—Subsec. (b)(3)(A). Pub. L. 115–334, § 9003(1)(A), substituted “produces any 1 or more, or a combination, of—” and cls. (i) to (iii) for “produces an advanced biofuel; and”.
+2018—Subsec. (b)(3)(A). Pub. L. 115–334, § 9003(1)(A), substituted “produces any 1 or more, or a combination, of—” and cls. (i) to (iii) for “produces an advanced biofuel; and”.
 
-Subsec. (b)(3)(B). Pub. L. 115–334, § 9003(1)(B), substituted “produces any 1 or more, or a combination, of—” and cls. (i) to (iii) for “produces an advanced biofuel.”
+Subsec. (b)(3)(B). Pub. L. 115–334, § 9003(1)(B), substituted “produces any 1 or more, or a combination, of—” and cls. (i) to (iii) for “produces an advanced biofuel.”
 
-Subsec. (g)(1)(A)(iii), (iv). Pub. L. 115–334, § 9003(2)(A), added cls. (iii) and (iv).
+Subsec. (g)(1)(A)(iii), (iv). Pub. L. 115–334, § 9003(2)(A), added cls. (iii) and (iv).
 
-Subsec. (g)(2). Pub. L. 115–334, § 9003(2)(B), substituted “2023” for “2018”.
+Subsec. (g)(2). Pub. L. 115–334, § 9003(2)(B), substituted “2023” for “2018”.
 
-2014—Pub. L. 113–79, § 9003(a)(1), inserted “, renewable chemical, and biobased product manufacturing” after “Biorefinery” in section catchline.
+2014—Pub. L. 113–79, § 9003(a)(1), inserted “, renewable chemical, and biobased product manufacturing” after “Biorefinery” in section catchline.
 
-Subsec. (a). Pub. L. 113–79, § 9003(a)(2), inserted “renewable chemicals, and biobased product manufacturing” after “advanced biofuels,” in introductory provisions.
+Subsec. (a). Pub. L. 113–79, § 9003(a)(2), inserted “renewable chemicals, and biobased product manufacturing” after “advanced biofuels,” in introductory provisions.
 
-Subsec. (b). Pub. L. 113–79, § 9003(a)(3), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+Subsec. (b). Pub. L. 113–79, § 9003(a)(3), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-Subsec. (c). Pub. L. 113–79, § 9003(a)(4), substituted “to eligible entities guarantees for loans” for “to eligible entities—
+Subsec. (c). Pub. L. 113–79, § 9003(a)(4), substituted “to eligible entities guarantees for loans” for “to eligible entities—
 
 “(1) grants to assist in paying the costs of the development and construction of demonstration-scale biorefineries to demonstrate the commercial viability of 1 or more processes for converting renewable biomass to advanced biofuels; and
 
 “(2) guarantees for loans”.
 
-Subsec. (d). Pub. L. 113–79, § 9003(a)(5), (6), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to awarding of grants under subsec. (c)(1).
+Subsec. (d). Pub. L. 113–79, § 9003(a)(5), (6), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to awarding of grants under subsec. (c)(1).
 
-Subsec. (d)(1)(C). Pub. L. 113–79, § 9003(a)(7)(B), substituted “subsection (c)” for “subsection (c)(2)”.
+Subsec. (d)(1)(C). Pub. L. 113–79, § 9003(a)(7)(B), substituted “subsection (c)” for “subsection (c)(2)”.
 
-Subsec. (d)(1)(D). Pub. L. 113–79, § 9003(a)(7)(A), added subpar. (D).
+Subsec. (d)(1)(D). Pub. L. 113–79, § 9003(a)(7)(A), added subpar. (D).
 
-Subsec. (d)(2)(A), (B). Pub. L. 113–79, § 9003(a)(7)(B), substituted “subsection (c)” for “subsection (c)(2)” wherever appearing.
+Subsec. (d)(2)(A), (B). Pub. L. 113–79, § 9003(a)(7)(B), substituted “subsection (c)” for “subsection (c)(2)” wherever appearing.
 
-Subsec. (d)(2)(C). Pub. L. 113–79, § 9003(a)(7)(C), substituted “subsection (g)” for “subsection (h)”.
+Subsec. (d)(2)(C). Pub. L. 113–79, § 9003(a)(7)(C), substituted “subsection (g)” for “subsection (h)”.
 
-Subsecs. (e) to (g). Pub. L. 113–79, § 9003(a)(6), redesignated subsecs. (f) to (h) as (e) to (g), respectively.
+Subsecs. (e) to (g). Pub. L. 113–79, § 9003(a)(6), redesignated subsecs. (f) to (h) as (e) to (g), respectively.
 
-Subsec. (g)(1). Pub. L. 113–79, § 9003(b)(1), added par. (1) and struck out former par. (1) which related to mandatory funding for loan guarantees for fiscal years 2009 and 2010.
+Subsec. (g)(1). Pub. L. 113–79, § 9003(b)(1), added par. (1) and struck out former par. (1) which related to mandatory funding for loan guarantees for fiscal years 2009 and 2010.
 
-Subsec. (g)(2). Pub. L. 113–79, § 9003(b)(2), substituted “$75,000,000 for each of fiscal years 2014 through 2018” for “$150,000,000 for each of fiscal years 2009 through 2013”.
+Subsec. (g)(2). Pub. L. 113–79, § 9003(b)(2), substituted “$75,000,000 for each of fiscal years 2014 through 2018” for “$150,000,000 for each of fiscal years 2009 through 2013”.
 
-Subsec. (h). Pub. L. 113–79, § 9003(a)(6), redesignated subsec. (h) as (g).
+Subsec. (h). Pub. L. 113–79, § 9003(a)(6), redesignated subsec. (h) as (g).
 
 2013—Subsec. (h)(2). Pub. L. 112–240 substituted “2013” for “2012”.
 
@@ -1019,13 +1019,13 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-## § 8104. Repealed. Pub. L. 115–334, title IX, § 9004, Dec. 20, 2018, 132 Stat. 4885
+## § 8104. Repealed. Pub. L. 115–334, title IX, § 9004, Dec. 20, 2018, 132 Stat. 4885
 
-Section, Pub. L. 107–171, title IX, § 9004, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1313, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2075; amended Pub. L. 112–240, title VII, § 701(f)(3), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9004, Feb. 7, 2014, 128 Stat. 930, related to repowering assistance program.
+Section, Pub. L. 107–171, title IX, § 9004, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1313, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2075; amended Pub. L. 112–240, title VII, § 701(f)(3), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9004, Feb. 7, 2014, 128 Stat. 930, related to repowering assistance program.
 
-A prior section 8104, Pub. L. 107–171, title IX, § 9004, May 13, 2002, 116 Stat. 480, related to a biodiesel fuel education program, prior to the general amendment of this chapter by Pub. L. 110–246. See section 8106 of this title.
+A prior section 8104, Pub. L. 107–171, title IX, § 9004, May 13, 2002, 116 Stat. 480, related to a biodiesel fuel education program, prior to the general amendment of this chapter by Pub. L. 110–246. See section 8106 of this title.
 
-## § 8105. Bioenergy program for advanced biofuels
+## § 8105. Bioenergy program for advanced biofuels
 
 **(a) Definition of eligible producer**
 
@@ -1087,7 +1087,7 @@ In addition to any other funds made available to carry out this section, there i
 
 Of the funds provided for each fiscal year, not more than 5 percent of the funds shall be made available to eligible producers for production at facilities with a total refining capacity exceeding 150,000,000 gallons per year.
 
-(Pub. L. 107–171, title IX, § 9005, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1314, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2075; amended Pub. L. 112–240, title VII, § 701(f)(4), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9005, Feb. 7, 2014, 128 Stat. 930; Pub. L. 115–334, title IX, § 9005, Dec. 20, 2018, 132 Stat. 4885; Pub. L. 118–22, div. B, title I, § 102(d)(6)(B), Nov. 17, 2023, 137 Stat. 117; Pub. L. 119–21, title I, § 10605, July 4, 2025, 139 Stat. 109.)
+(Pub. L. 107–171, title IX, § 9005, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1314, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2075; amended Pub. L. 112–240, title VII, § 701(f)(4), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9005, Feb. 7, 2014, 128 Stat. 930; Pub. L. 115–334, title IX, § 9005, Dec. 20, 2018, 132 Stat. 4885; Pub. L. 118–22, div. B, title I, § 102(d)(6)(B), Nov. 17, 2023, 137 Stat. 117; Pub. L. 119–21, title I, § 10605, July 4, 2025, 139 Stat. 109.)
 
 **Editorial Notes**
 
@@ -1097,7 +1097,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 8105, Pub. L. 107–171, title IX, § 9005, May 13, 2002, 116 Stat. 480, related to an energy audit and renewable energy development program, prior to the general amendment of this chapter by Pub. L. 110–246.
+A prior section 8105, Pub. L. 107–171, title IX, § 9005, May 13, 2002, 116 Stat. 480, related to an energy audit and renewable energy development program, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 **Amendments**
 
@@ -1105,15 +1105,15 @@ A prior section 8105, Pub. L. 107–171, title IX, § 9005, May 13, 2002, 116 
 
 2023—Subsec. (g)(1)(F). Pub. L. 118–22 substituted “2024” for “2023”.
 
-2018—Subsec. (e). Pub. L. 115–334, § 9005(1), designated existing provisions as par. (1), inserted heading, substituted “The Secretary shall” for “The Secretary may” and added par. (2).
+2018—Subsec. (e). Pub. L. 115–334, § 9005(1), designated existing provisions as par. (1), inserted heading, substituted “The Secretary shall” for “The Secretary may” and added par. (2).
 
-Subsec. (g)(1)(F). Pub. L. 115–334, § 9005(2)(A), added subpar. (F).
+Subsec. (g)(1)(F). Pub. L. 115–334, § 9005(2)(A), added subpar. (F).
 
-Subsec. (g)(2). Pub. L. 115–334, § 9005(2)(B), substituted “2019 through 2023” for “2014 through 2018”.
+Subsec. (g)(2). Pub. L. 115–334, § 9005(2)(B), substituted “2019 through 2023” for “2014 through 2018”.
 
-2014—Subsec. (g)(1)(E). Pub. L. 113–79, § 9005(1), added subpar. (E).
+2014—Subsec. (g)(1)(E). Pub. L. 113–79, § 9005(1), added subpar. (E).
 
-Subsec. (g)(2). Pub. L. 113–79, § 9005(2), substituted “$20,000,000 for each of fiscal years 2014 through 2018” for “$25,000,000 for each of fiscal years 2009 through 2013”.
+Subsec. (g)(2). Pub. L. 113–79, § 9005(2), substituted “$20,000,000 for each of fiscal years 2014 through 2018” for “$25,000,000 for each of fiscal years 2009 through 2013”.
 
 2013—Subsec. (g)(2). Pub. L. 112–240 substituted “2013” for “2012”.
 
@@ -1131,7 +1131,7 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-## § 8106. Biodiesel fuel education program
+## § 8106. Biodiesel fuel education program
 
 **(a) Establishment**
 
@@ -1153,7 +1153,7 @@ In carrying out this section, the Secretary shall consult with the Secretary of 
 
 There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 107–171, title IX, § 9006, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1315, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2076; amended Pub. L. 112–240, title VII, § 701(f)(5), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9006, Feb. 7, 2014, 128 Stat. 930; Pub. L. 115–334, title IX, § 9006, Dec. 20, 2018, 132 Stat. 4885.)
+(Pub. L. 107–171, title IX, § 9006, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1315, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2076; amended Pub. L. 112–240, title VII, § 701(f)(5), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9006, Feb. 7, 2014, 128 Stat. 930; Pub. L. 115–334, title IX, § 9006, Dec. 20, 2018, 132 Stat. 4885.)
 
 **Editorial Notes**
 
@@ -1163,15 +1163,15 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 8106, Pub. L. 107–171, title IX, § 9006, May 13, 2002, 116 Stat. 482; Pub. L. 109–171, title I, § 1301, Feb. 8, 2006, 120 Stat. 6, related to assistance to farmers, ranchers, and rural small businesses to purchase renewable energy systems and make energy efficiency improvements, prior to the general amendment of this chapter by Pub. L. 110–246. See section 8107 of this title.
+A prior section 8106, Pub. L. 107–171, title IX, § 9006, May 13, 2002, 116 Stat. 482; Pub. L. 109–171, title I, § 1301, Feb. 8, 2006, 120 Stat. 6, related to assistance to farmers, ranchers, and rural small businesses to purchase renewable energy systems and make energy efficiency improvements, prior to the general amendment of this chapter by Pub. L. 110–246. See section 8107 of this title.
 
 **Amendments**
 
 2018—Subsec. (d). Pub. L. 115–334 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to mandatory and discretionary funding.
 
-2014—Subsec. (d)(1). Pub. L. 113–79, § 9006(1), substituted “Mandatory funding” for “Fiscal years 2009 through 2012” in heading and “2018” for “2012” in text.
+2014—Subsec. (d)(1). Pub. L. 113–79, § 9006(1), substituted “Mandatory funding” for “Fiscal years 2009 through 2012” in heading and “2018” for “2012” in text.
 
-Subsec. (d)(2). Pub. L. 113–79, § 9006(2), substituted “Discretionary funding” for “Authorization of appropriations” in heading and “each of fiscal years 2014 through 2018” for “fiscal year 2013” in text.
+Subsec. (d)(2). Pub. L. 113–79, § 9006(2), substituted “Discretionary funding” for “Authorization of appropriations” in heading and “each of fiscal years 2014 through 2018” for “fiscal year 2013” in text.
 
 2013—Subsec. (d). Pub. L. 112–240 added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $1,000,000 for each of fiscal years 2008 through 2012.”
 
@@ -1185,7 +1185,7 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-## § 8107. Rural Energy for America Program
+## § 8107. Rural Energy for America Program
 
 **(a) Establishment** The Secretary, in consultation with the Secretary of Energy, shall establish a Rural Energy for America Program to promote energy efficiency and renewable energy development for agricultural producers and rural small businesses through—
 
@@ -1369,7 +1369,7 @@ Funds not obligated under subparagraph (A) by April 1 of each fiscal year to car
 
 In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 107–171, title IX, § 9007, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1315, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2077; amended Pub. L. 112–240, title VII, § 701(f)(6), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9007, Feb. 7, 2014, 128 Stat. 930; Pub. L. 115–334, title IX, § 9007, Dec. 20, 2018, 132 Stat. 4886.)
+(Pub. L. 107–171, title IX, § 9007, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1315, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2077; amended Pub. L. 112–240, title VII, § 701(f)(6), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9007, Feb. 7, 2014, 128 Stat. 930; Pub. L. 115–334, title IX, § 9007, Dec. 20, 2018, 132 Stat. 4886.)
 
 **Editorial Notes**
 
@@ -1379,33 +1379,33 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 8107, Pub. L. 107–171, title IX, § 9007, May 13, 2002, 116 Stat. 483, related to application of hydrogen and fuel cell technologies, prior to the general amendment of this chapter by Pub. L. 110–246.
+A prior section 8107, Pub. L. 107–171, title IX, § 9007, May 13, 2002, 116 Stat. 483, related to application of hydrogen and fuel cell technologies, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 **Amendments**
 
-2018—Subsec. (c)(1). Pub. L. 115–334, § 9007(1)(A), amended par. (1) generally. Prior to amendment, text read as follows: “In addition to any similar authority, the Secretary shall provide loan guarantees and grants to agricultural producers and rural small businesses—
+2018—Subsec. (c)(1). Pub. L. 115–334, § 9007(1)(A), amended par. (1) generally. Prior to amendment, text read as follows: “In addition to any similar authority, the Secretary shall provide loan guarantees and grants to agricultural producers and rural small businesses—
 
 “(A) to purchase renewable energy systems, including systems that may be used to produce and sell electricity; and
 
 “(B) to make energy efficiency improvements.”
 
-Subsec. (c)(3)(D). Pub. L. 115–334, § 9007(1)(B), added subpar. (D).
+Subsec. (c)(3)(D). Pub. L. 115–334, § 9007(1)(B), added subpar. (D).
 
-Subsec. (e). Pub. L. 115–334, § 9007(2), substituted “subsection (f)” for “subsection (g)” in pars. (1) and (2).
+Subsec. (e). Pub. L. 115–334, § 9007(2), substituted “subsection (f)” for “subsection (g)” in pars. (1) and (2).
 
-Subsec. (f). Pub. L. 115–334, § 9007(3), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “Not later than 4 years after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall submit to Congress a report on the implementation of this section, including the outcomes achieved by projects funded under this section.”
+Subsec. (f). Pub. L. 115–334, § 9007(3), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “Not later than 4 years after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall submit to Congress a report on the implementation of this section, including the outcomes achieved by projects funded under this section.”
 
-Subsec. (f)(3). Pub. L. 115–334, § 9007(4), substituted “2019 through 2023” for “2014 through 2018”.
+Subsec. (f)(3). Pub. L. 115–334, § 9007(4), substituted “2019 through 2023” for “2014 through 2018”.
 
-Subsec. (g). Pub. L. 115–334, § 9007(3), redesignated subsec. (g) as (f).
+Subsec. (g). Pub. L. 115–334, § 9007(3), redesignated subsec. (g) as (f).
 
-2014—Subsec. (b)(2)(D), (E). Pub. L. 113–79, § 9007(a)(1), added subpar. (D) and redesignated former subpar. (D) as (E).
+2014—Subsec. (b)(2)(D), (E). Pub. L. 113–79, § 9007(a)(1), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (c)(3), (4). Pub. L. 113–79, § 9007(a)(2), added par. (4), redesignated former par. (4) as (3), and struck out former par. (3) which related to grants to agricultural producers or rural small businesses to conduct feasibility studies.
+Subsec. (c)(3), (4). Pub. L. 113–79, § 9007(a)(2), added par. (4), redesignated former par. (4) as (3), and struck out former par. (3) which related to grants to agricultural producers or rural small businesses to conduct feasibility studies.
 
-Subsec. (g)(1)(E). Pub. L. 113–79, § 9007(b)(1), added subpar. (E).
+Subsec. (g)(1)(E). Pub. L. 113–79, § 9007(b)(1), added subpar. (E).
 
-Subsec. (g)(3). Pub. L. 113–79, § 9007(b)(2), substituted “$20,000,000 for each of fiscal years 2014 through 2018” for “$25,000,000 for each of fiscal years 2009 through 2013”.
+Subsec. (g)(3). Pub. L. 113–79, § 9007(b)(2), substituted “$20,000,000 for each of fiscal years 2014 through 2018” for “$25,000,000 for each of fiscal years 2009 through 2013”.
 
 2013—Subsec. (g)(3). Pub. L. 112–240 substituted “2013” for “2012”.
 
@@ -1419,7 +1419,7 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-## § 8107a. Rural energy savings program
+## § 8107a. Rural energy savings program
 
 **(a) Purpose**
 
@@ -1585,13 +1585,13 @@ Subject to the availability of funds and except as otherwise provided in this se
 
 There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 107–171, title VI, § 6407, as added Pub. L. 113–79, title VI, § 6205, Feb. 7, 2014, 128 Stat. 857; amended Pub. L. 115–334, title VI, § 6303, Dec. 20, 2018, 132 Stat. 4749.)
+(Pub. L. 107–171, title VI, § 6407, as added Pub. L. 113–79, title VI, § 6205, Feb. 7, 2014, 128 Stat. 857; amended Pub. L. 115–334, title VI, § 6303, Dec. 20, 2018, 132 Stat. 4749.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rural Electrification Act of 1936, referred to in subsec. (c)(4), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (c)(4), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
 **Codification**
 
@@ -1599,27 +1599,27 @@ Section was not enacted as part of title IX of Pub. L. 107–171, which comprise
 
 **Amendments**
 
-2018—Subsec. (b)(2). Pub. L. 115–334, § 6303(1), substituted “efficiency (including cost-effective on- or off-grid renewable energy or energy storage systems).” for “efficiency.”
+2018—Subsec. (b)(2). Pub. L. 115–334, § 6303(1), substituted “efficiency (including cost-effective on- or off-grid renewable energy or energy storage systems).” for “efficiency.”
 
-Subsec. (c)(4). Pub. L. 115–334, § 6303(2)(B), added par. (4). Former par. (4) redesignated (5).
+Subsec. (c)(4). Pub. L. 115–334, § 6303(2)(B), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (c)(5). Pub. L. 115–334, § 6303(2)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (c)(5). Pub. L. 115–334, § 6303(2)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (c)(5)(B). Pub. L. 115–334, § 6303(2)(C), substituted “(7)” for “(6)”.
+Subsec. (c)(5)(B). Pub. L. 115–334, § 6303(2)(C), substituted “(7)” for “(6)”.
 
-Subsec. (c)(6) to (8). Pub. L. 115–334, § 6303(2)(A), redesignated pars. (5) to (7) as (6) to (8), respectively.
+Subsec. (c)(6) to (8). Pub. L. 115–334, § 6303(2)(A), redesignated pars. (5) to (7) as (6) to (8), respectively.
 
-Subsec. (c)(9). Pub. L. 115–334, § 6303(2)(D), added par. (9).
+Subsec. (c)(9). Pub. L. 115–334, § 6303(2)(D), added par. (9).
 
-Subsec. (d)(1)(A). Pub. L. 115–334, § 6303(3)(A), substituted “5 percent” for “3 percent” in introductory provisions.
+Subsec. (d)(1)(A). Pub. L. 115–334, § 6303(3)(A), substituted “5 percent” for “3 percent” in introductory provisions.
 
-Subsec. (d)(1)(D). Pub. L. 115–334, § 6303(3)(B), substituted “recurring service” for “electric” in introductory provisions.
+Subsec. (d)(1)(D). Pub. L. 115–334, § 6303(3)(B), substituted “recurring service” for “electric” in introductory provisions.
 
-Subsec. (h). Pub. L. 115–334, § 6303(5), added subsec. (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 115–334, § 6303(5), added subsec. (h). Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 115–334, § 6303(4), (6), redesignated subsec. (h) as (i) and substituted “2023” for “2018”.
+Subsec. (i). Pub. L. 115–334, § 6303(4), (6), redesignated subsec. (h) as (i) and substituted “2023” for “2018”.
 
-## § 8108. Biomass research and development
+## § 8108. Biomass research and development
 
 **(a) Definitions** In this section:
 
@@ -1879,9 +1879,9 @@ The non-Federal share of the cost of a demonstration or commercial project under
 
 **(i)** adapted, made available, and disseminated, as appropriate; and
 
-**(ii)** included in the best practices database established under section 5925e(e) 1
+**(ii)** included in the best practices database established under section 5925e(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -1925,13 +1925,13 @@ Not more than 4 percent of the amount made available for each fiscal year under 
 
 In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 107–171, title IX, § 9008, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1318, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2079; amended Pub. L. 112–240, title VII, § 701(f)(7), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9008, Feb. 7, 2014, 128 Stat. 931; Pub. L. 115–334, title VII, § 7507, Dec. 20, 2018, 132 Stat. 4823.)
+(Pub. L. 107–171, title IX, § 9008, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1318, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2079; amended Pub. L. 112–240, title VII, § 701(f)(7), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9008, Feb. 7, 2014, 128 Stat. 931; Pub. L. 115–334, title VII, § 7507, Dec. 20, 2018, 132 Stat. 4823.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5925e of this title, referred to in subsec. (e)(6)(C)(ii), was repealed by Pub. L. 113–79, title VII, § 7212(a), Feb. 7, 2014, 128 Stat. 886.
+Section 5925e of this title, referred to in subsec. (e)(6)(C)(ii), was repealed by Pub. L. 113–79, title VII, § 7212(a), Feb. 7, 2014, 128 Stat. 886.
 
 **Codification**
 
@@ -1939,25 +1939,25 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 8108, Pub. L. 107–171, title IX, § 9010, May 13, 2002, 116 Stat. 485, related to continuation of bioenergy program, prior to the general amendment of this chapter by Pub. L. 110–246. See section 8105 of this title.
+A prior section 8108, Pub. L. 107–171, title IX, § 9010, May 13, 2002, 116 Stat. 485, related to continuation of bioenergy program, prior to the general amendment of this chapter by Pub. L. 110–246. See section 8105 of this title.
 
-A prior section 9008 of Pub. L. 107–171 amended title III of Pub. L. 106–224, which was classified to chapter 112 (§ 8601 et seq.) of this title prior to repeal by Pub. L. 110–246, § 9001(b).
+A prior section 9008 of Pub. L. 107–171 amended title III of Pub. L. 106–224, which was classified to chapter 112 (§ 8601 et seq.) of this title prior to repeal by Pub. L. 110–246, § 9001(b).
 
 **Amendments**
 
-2018—Subsec. (a)(1)(C). Pub. L. 115–334, § 7507(1), added subpar. (C).
+2018—Subsec. (a)(1)(C). Pub. L. 115–334, § 7507(1), added subpar. (C).
 
-Subsec. (d)(2)(A)(xiii), (xiv). Pub. L. 115–334, § 7507(2), added cl. (xiii) and redesignated former cl. (xiii) as (xiv).
+Subsec. (d)(2)(A)(xiii), (xiv). Pub. L. 115–334, § 7507(2), added cl. (xiii) and redesignated former cl. (xiii) as (xiv).
 
-Subsec. (e)(2)(B)(iv). Pub. L. 115–334, § 7507(3)(A), added cl. (iv).
+Subsec. (e)(2)(B)(iv). Pub. L. 115–334, § 7507(3)(A), added cl. (iv).
 
-Subsec. (e)(3)(B)(iii). Pub. L. 115–334, § 7507(3)(B), added cl. (iii).
+Subsec. (e)(3)(B)(iii). Pub. L. 115–334, § 7507(3)(B), added cl. (iii).
 
-Subsec. (h)(2). Pub. L. 115–334, § 7507(4), substituted “2023” for “2018”.
+Subsec. (h)(2). Pub. L. 115–334, § 7507(4), substituted “2023” for “2018”.
 
-2014—Subsec. (h)(1)(E). Pub. L. 113–79, § 9008(1), added subpar. (E).
+2014—Subsec. (h)(1)(E). Pub. L. 113–79, § 9008(1), added subpar. (E).
 
-Subsec. (h)(2). Pub. L. 113–79, § 9008(2), substituted “$20,000,000 for each of fiscal years 2014 through 2018” for “$35,000,000 for each of fiscal years 2009 through 2013”.
+Subsec. (h)(2). Pub. L. 113–79, § 9008(2), substituted “$20,000,000 for each of fiscal years 2014 through 2018” for “$35,000,000 for each of fiscal years 2009 through 2013”.
 
 2013—Subsec. (h)(2). Pub. L. 112–240 substituted “2013” for “2012”.
 
@@ -1971,13 +1971,13 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-## § 8109. Repealed. Pub. L. 115–334, title IX, § 9008, Dec. 20, 2018, 132 Stat. 4886
+## § 8109. Repealed. Pub. L. 115–334, title IX, § 9008, Dec. 20, 2018, 132 Stat. 4886
 
-Section, Pub. L. 107–171, title IX, § 9009, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1324, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2085; amended Pub. L. 112–240, title VII, § 701(f)(8), Jan. 2, 2013, 126 Stat. 2365, established the Rural Energy Self-Sufficiency Initiative.
+Section, Pub. L. 107–171, title IX, § 9009, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1324, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2085; amended Pub. L. 112–240, title VII, § 701(f)(8), Jan. 2, 2013, 126 Stat. 2365, established the Rural Energy Self-Sufficiency Initiative.
 
-A prior section 8109, Pub. L. 107–171, title IX, § 9011, as added Pub. L. 108–199, div. A, title VII, § 778(b), Jan. 23, 2004, 118 Stat. 41, related to research, extension, and educational programs on biobased energy technologies and products, prior to the general amendment of this chapter by Pub. L. 110–246. See section 8114 of this title.
+A prior section 8109, Pub. L. 107–171, title IX, § 9011, as added Pub. L. 108–199, div. A, title VII, § 778(b), Jan. 23, 2004, 118 Stat. 41, related to research, extension, and educational programs on biobased energy technologies and products, prior to the general amendment of this chapter by Pub. L. 110–246. See section 8114 of this title.
 
-## § 8110. Feedstock flexibility program for bioenergy producers
+## § 8110. Feedstock flexibility program for bioenergy producers
 
 **(a) Definitions** In this section:
 
@@ -2077,7 +2077,7 @@ If sugar that is subject to a marketing allotment under part VII of subtitle B o
 
 The Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation, including the use of such sums as are necessary, to carry out this section.
 
-(Pub. L. 107–171, title IX, § 9010, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1325, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2086; amended Pub. L. 112–240, title VII, § 701(f)(9), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9009, Feb. 7, 2014, 128 Stat. 931; Pub. L. 115–334, title IX, § 9009, Dec. 20, 2018, 132 Stat. 4887; Pub. L. 118–22, div. B, title I, § 102(d)(6)(C), Nov. 17, 2023, 137 Stat. 118; Pub. L. 118–158, div. D, § 4101(d)(3), Dec. 21, 2024, 138 Stat. 1769; Pub. L. 119–37, div. E, § 5002(d)(3), Nov. 12, 2025, 139 Stat. 627.)
+(Pub. L. 107–171, title IX, § 9010, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1325, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2086; amended Pub. L. 112–240, title VII, § 701(f)(9), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9009, Feb. 7, 2014, 128 Stat. 931; Pub. L. 115–334, title IX, § 9009, Dec. 20, 2018, 132 Stat. 4887; Pub. L. 118–22, div. B, title I, § 102(d)(6)(C), Nov. 17, 2023, 137 Stat. 118; Pub. L. 118–158, div. D, § 4101(d)(3), Dec. 21, 2024, 138 Stat. 1769; Pub. L. 119–37, div. E, § 5002(d)(3), Nov. 12, 2025, 139 Stat. 627.)
 
 **Editorial Notes**
 
@@ -2085,7 +2085,7 @@ The Secretary shall use the funds, facilities, and authorities of the Commodity 
 
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Agricultural Adjustment Act of 1938, referred to in subsec. (b)(5), is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Part VII of subtitle B of title III of the Act is classified to subpart VII (§ 1359aa et seq.) of part B of subchapter II of chapter 35 of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (b)(5), is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Part VII of subtitle B of title III of the Act is classified to subpart VII (§ 1359aa et seq.) of part B of subchapter II of chapter 35 of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 **Codification**
 
@@ -2131,7 +2131,7 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-## § 8111. Biomass Crop Assistance Program
+## § 8111. Biomass Crop Assistance Program
 
 **(a) Definitions** In this section:
 
@@ -2269,9 +2269,9 @@ The term “producer” means an owner or operator of contract acreage that is p
 
 **(9) Socially disadvantaged farmer or rancher**
 
-The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) 1
+The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -2351,9 +2351,9 @@ On approval of a BCAP project area by the Secretary, each producer in the BCAP p
 
 **(III)** a plan that is equivalent to a conservation or forest stewardship plan; and
 
-**(iv)** any additional requirements that Secretary 2
+**(iv)** any additional requirements that Secretary 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “the”.
+<sup>2</sup> So in original. Probably should be preceded by “the”.
 
 determines to be necessary.
 
@@ -2455,15 +2455,15 @@ Of the amount made available under paragraph (1) for each fiscal year, the Secre
 
 Effective for fiscal year 2014 and each subsequent fiscal year, funds made available under this subsection shall be available for the provision of technical assistance with respect to activities authorized under this section.
 
-(Pub. L. 107–171, title IX, § 9011, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1327, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2089; amended Pub. L. 112–240, title VII, § 701(f)(10), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9010, Feb. 7, 2014, 128 Stat. 932; Pub. L. 115–334, title IX, § 9010, Dec. 20, 2018, 132 Stat. 4887.)
+(Pub. L. 107–171, title IX, § 9011, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1327, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2089; amended Pub. L. 112–240, title VII, § 701(f)(10), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9010, Feb. 7, 2014, 128 Stat. 932; Pub. L. 115–334, title IX, § 9010, Dec. 20, 2018, 132 Stat. 4887.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Act of 2014, referred to in subsec. (a)(4)(B)(i), (6)(A), and (C)(i), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§ 9001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
+The Agricultural Act of 2014, referred to in subsec. (a)(4)(B)(i), (6)(A), and (C)(i), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§ 9001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsecs. (a)(5)(A)(ii), (B)(iii), (iv), and (c)(3)(B)(ii), (5)(D), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B, C, and H of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.), III (§ 3821 et seq.), and VII (§ 3865 et seq.), respectively, of chapter 58 of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§ 3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsecs. (a)(5)(A)(ii), (B)(iii), (iv), and (c)(3)(B)(ii), (5)(D), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B, C, and H of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.), III (§ 3821 et seq.), and VII (§ 3865 et seq.), respectively, of chapter 58 of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§ 3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (a)(5)(B)(ii), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -2479,13 +2479,13 @@ A prior section 9011 of Pub. L. 107–171 was classified to section 8109 of this
 
 **Amendments**
 
-2018—Subsec. (a)(6)(B)(iv). Pub. L. 115–334, § 9010(1)(A), added cl. (iv).
+2018—Subsec. (a)(6)(B)(iv). Pub. L. 115–334, § 9010(1)(A), added cl. (iv).
 
-Subsec. (a)(6)(C)(iv) to (vii). Pub. L. 115–334, § 9010(1)(B), redesignated cls. (v) to (vii) as (iv) to (vi), respectively, and struck out former cl. (iv) which read as follows: “algae;”.
+Subsec. (a)(6)(C)(iv) to (vii). Pub. L. 115–334, § 9010(1)(B), redesignated cls. (v) to (vii) as (iv) to (vi), respectively, and struck out former cl. (iv) which read as follows: “algae;”.
 
-Subsec. (f)(1). Pub. L. 115–334, § 9010(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $25,000,000 for each of fiscal years 2014 through 2018.”
+Subsec. (f)(1). Pub. L. 115–334, § 9010(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $25,000,000 for each of fiscal years 2014 through 2018.”
 
-Subsec. (f)(3). Pub. L. 115–334, § 9010(2)(B), amended par. (3) generally. Prior to amendment, par. (3) related to funds for technical assistance.
+Subsec. (f)(3). Pub. L. 115–334, § 9010(2)(B), amended par. (3) generally. Prior to amendment, par. (3) related to funds for technical assistance.
 
 2014—Pub. L. 113–79 amended section generally. Prior to amendment, section related to the Biomass Crop Assistance Program.
 
@@ -2501,11 +2501,11 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-## § 8112. Repealed. Pub. L. 113–79, title IX, § 9011, Feb. 7, 2014, 128 Stat. 938
+## § 8112. Repealed. Pub. L. 113–79, title IX, § 9011, Feb. 7, 2014, 128 Stat. 938
 
-Section, Pub. L. 107–171, title IX, § 9012, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1331, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2093; amended Pub. L. 112–240, title VII, § 701(f)(11), Jan. 2, 2013, 126 Stat. 2366, related to a competitive research and development program to encourage use of forest biomass for energy.
+Section, Pub. L. 107–171, title IX, § 9012, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1331, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2093; amended Pub. L. 112–240, title VII, § 701(f)(11), Jan. 2, 2013, 126 Stat. 2366, related to a competitive research and development program to encourage use of forest biomass for energy.
 
-## § 8113. Community Wood Energy and Wood Innovation Program
+## § 8113. Community Wood Energy and Wood Innovation Program
 
 **(a) Definitions** In this section:
 
@@ -2621,7 +2621,7 @@ Not more than 25 percent of funds provided as grants under the Program for a fis
 
 There is authorized to be appropriated to carry out the Program $25,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 107–171, title IX, § 9013, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1332, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2094; amended Pub. L. 112–240, title VII, § 701(f)(12), Jan. 2, 2013, 126 Stat. 2366; Pub. L. 113–79, title IX, § 9012, Feb. 7, 2014, 128 Stat. 938; Pub. L. 115–334, title VIII, § 8644, Dec. 20, 2018, 132 Stat. 4873.)
+(Pub. L. 107–171, title IX, § 9013, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1332, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2094; amended Pub. L. 112–240, title VII, § 701(f)(12), Jan. 2, 2013, 126 Stat. 2366; Pub. L. 113–79, title IX, § 9012, Feb. 7, 2014, 128 Stat. 938; Pub. L. 115–334, title VIII, § 8644, Dec. 20, 2018, 132 Stat. 4873.)
 
 **Editorial Notes**
 
@@ -2633,13 +2633,13 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 2018—Pub. L. 115–334 amended section generally. Prior to amendment, section related to the Community Wood Energy Program.
 
-2014—Subsec. (a). Pub. L. 113–79, § 9012(a), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+2014—Subsec. (a). Pub. L. 113–79, § 9012(a), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-Subsec. (b)(1)(C). Pub. L. 113–79, § 9012(b), added subpar. (C).
+Subsec. (b)(1)(C). Pub. L. 113–79, § 9012(b), added subpar. (C).
 
-Subsec. (d). Pub. L. 113–79, § 9012(c), designated existing provisions as par. (1) and inserted heading, substituted “A State or local government that receives a grant under subparagraph (A) or (B) of subsection (b)(1)” for “A State or local government that receives a grant under subsection (b)”, and added par. (2).
+Subsec. (d). Pub. L. 113–79, § 9012(c), designated existing provisions as par. (1) and inserted heading, substituted “A State or local government that receives a grant under subparagraph (A) or (B) of subsection (b)(1)” for “A State or local government that receives a grant under subsection (b)”, and added par. (2).
 
-Subsec. (e). Pub. L. 113–79, § 9012(d), substituted “2018” for “2013”.
+Subsec. (e). Pub. L. 113–79, § 9012(d), substituted “2018” for “2013”.
 
 2013—Subsec. (e). Pub. L. 112–240 substituted “2013” for “2012”.
 
@@ -2653,7 +2653,7 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-## § 8114. Sun grant program
+## § 8114. Sun grant program
 
 **(a) Establishment** The Secretary shall establish and carry out a program to provide grants to the sun grant centers and subcenter specified in subsection (b)—
 
@@ -2759,15 +2759,15 @@ Except as provided in subclauses (II) and (III), as a condition of receiving a g
 
 **(II) Exclusion**
 
-Subclause (I) shall not apply to fundamental research (as defined in subsection (f)(1) of section 6971 of this title (as added by section 7511(a)(4)) 1
+Subclause (I) shall not apply to fundamental research (as defined in subsection (f)(1) of section 6971 of this title (as added by section 7511(a)(4)) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a third closing parenthesis.
+<sup>1</sup> So in original. Probably should be followed by a third closing parenthesis.
 
 .
 
 **(III) Reduction**
 
-The sun grant center or subcenter may reduce or eliminate the requirement for non-Federal funds under subclause (I) for applied research (as defined in subsection (f)(1) of section 6971 of this title (as added by section 7511(a)(4)) <sup>1</sup> if the sun grant center or subcenter determines that the reduction is necessary and appropriate pursuant to guidance issued by the Secretary.
+The sun grant center or subcenter may reduce or eliminate the requirement for non-Federal funds under subclause (I) for applied research (as defined in subsection (f)(1) of section 6971 of this title (as added by section 7511(a)(4)) <sup>1</sup> if the sun grant center or subcenter determines that the reduction is necessary and appropriate pursuant to guidance issued by the Secretary.
 
 **(v) Buildings and facilities**
 
@@ -2815,7 +2815,7 @@ The sun grant centers and subcenter shall maintain a Sun Grant Information Analy
 
 There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2008 through 2023, of which not more than $4,000,000 for each fiscal year shall be made available to carry out subsection (e).
 
-(Pub. L. 110–234, title VII, § 7526, May 22, 2008, 122 Stat. 1274; Pub. L. 110–246, § 4(a), title VII, § 7526, June 18, 2008, 122 Stat. 1664, 2035; Pub. L. 113–79, title VII, §§ 7128(b)(5), 7516, Feb. 7, 2014, 128 Stat. 879, 903; Pub. L. 115–334, title VII, §§ 7414, 7614(b)(4)(A), Dec. 20, 2018, 132 Stat. 4819, 4836.)
+(Pub. L. 110–234, title VII, § 7526, May 22, 2008, 122 Stat. 1274; Pub. L. 110–246, § 4(a), title VII, § 7526, June 18, 2008, 122 Stat. 1664, 2035; Pub. L. 113–79, title VII, §§ 7128(b)(5), 7516, Feb. 7, 2014, 128 Stat. 879, 903; Pub. L. 115–334, title VII, §§ 7414, 7614(b)(4)(A), Dec. 20, 2018, 132 Stat. 4819, 4836.)
 
 **Editorial Notes**
 
@@ -2835,41 +2835,41 @@ Provisions similar to those in this section were contained in section 8109 of th
 
 **Amendments**
 
-2018—Subsec. (c)(1)(C)(iv)(IV). Pub. L. 115–334, § 7614(b)(4)(A), struck out subcl. (IV). Text read as follows: “The matching funds requirement under section 3371 of this title shall not apply in the case of a grant provided by a sun grant center or subcenter under this paragraph.”
+2018—Subsec. (c)(1)(C)(iv)(IV). Pub. L. 115–334, § 7614(b)(4)(A), struck out subcl. (IV). Text read as follows: “The matching funds requirement under section 3371 of this title shall not apply in the case of a grant provided by a sun grant center or subcenter under this paragraph.”
 
-Subsec. (g). Pub. L. 115–334, § 7414, substituted “2023” for “2018”.
+Subsec. (g). Pub. L. 115–334, § 7414, substituted “2023” for “2018”.
 
-2014—Subsec. (a)(4)(B). Pub. L. 113–79, § 7516(a)(1), substituted “other appropriate Federal agencies (as determined by the Secretary)” for “the Department of Energy”.
+2014—Subsec. (a)(4)(B). Pub. L. 113–79, § 7516(a)(1), substituted “other appropriate Federal agencies (as determined by the Secretary)” for “the Department of Energy”.
 
-Subsec. (b)(1)(A). Pub. L. 113–79, § 7516(a)(2)(A), struck out “at South Dakota State University” after “center”.
+Subsec. (b)(1)(A). Pub. L. 113–79, § 7516(a)(2)(A), struck out “at South Dakota State University” after “center”.
 
-Subsec. (b)(1)(B). Pub. L. 113–79, § 7516(a)(2)(B), struck out “at the University of Tennessee at Knoxville” after “center” in introductory provisions.
+Subsec. (b)(1)(B). Pub. L. 113–79, § 7516(a)(2)(B), struck out “at the University of Tennessee at Knoxville” after “center” in introductory provisions.
 
-Subsec. (b)(1)(C). Pub. L. 113–79, § 7516(a)(2)(C), struck out “at Oklahoma State University” after “center”.
+Subsec. (b)(1)(C). Pub. L. 113–79, § 7516(a)(2)(C), struck out “at Oklahoma State University” after “center”.
 
-Subsec. (b)(1)(D). Pub. L. 113–79, § 7516(a)(2)(D), struck out “at Oregon State University” after “center” in introductory provisions.
+Subsec. (b)(1)(D). Pub. L. 113–79, § 7516(a)(2)(D), struck out “at Oregon State University” after “center” in introductory provisions.
 
-Subsec. (b)(1)(E). Pub. L. 113–79, § 7516(a)(2)(E), struck out “at Cornell University” after “center”.
+Subsec. (b)(1)(E). Pub. L. 113–79, § 7516(a)(2)(E), struck out “at Cornell University” after “center”.
 
-Subsec. (b)(1)(F). Pub. L. 113–79, § 7516(a)(2)(F), struck out “at the University of Hawaii” after “subcenter”.
+Subsec. (b)(1)(F). Pub. L. 113–79, § 7516(a)(2)(F), struck out “at the University of Hawaii” after “subcenter”.
 
-Subsec. (c)(1)(B). Pub. L. 113–79, § 7516(a)(3)(A), substituted “integrated, multistate research, extension, and education programs on technology development and technology implementation” for “multistate—
+Subsec. (c)(1)(B). Pub. L. 113–79, § 7516(a)(3)(A), substituted “integrated, multistate research, extension, and education programs on technology development and technology implementation” for “multistate—
 
 “(i) research, extension, and education programs on technology development; and
 
 “(ii) integrated research, extension, and education programs on technology implementation”.
 
-Subsec. (c)(1)(C), (D). Pub. L. 113–79, § 7516(a)(3)(B), (C), redesignated subpar. (D) as (C) and struck out former subpar. (C) which related to funding allocation.
+Subsec. (c)(1)(C), (D). Pub. L. 113–79, § 7516(a)(3)(B), (C), redesignated subpar. (D) as (C) and struck out former subpar. (C) which related to funding allocation.
 
-Subsec. (c)(1)(D)(iv)(IV). Pub. L. 113–79, § 7128(b)(5), added subcl. (IV).
+Subsec. (c)(1)(D)(iv)(IV). Pub. L. 113–79, § 7128(b)(5), added subcl. (IV).
 
-Subsec. (d)(1). Pub. L. 113–79, § 7516(a)(4)(A), struck out “in accordance with paragraph (2)” after “industry” and substituted “bioproducts” for “gasification” and “other appropriate Federal agencies” for “the Department of Energy”.
+Subsec. (d)(1). Pub. L. 113–79, § 7516(a)(4)(A), struck out “in accordance with paragraph (2)” after “industry” and substituted “bioproducts” for “gasification” and “other appropriate Federal agencies” for “the Department of Energy”.
 
-Subsec. (d)(2) to (4). Pub. L. 113–79, § 7516(a)(4)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2). Prior to amendment, text read as follows: “With respect to gasification research activity, the sun grant centers and subcenter shall coordinate planning with land-grant colleges and universities in their respective regions that have ongoing research activities in that area.”
+Subsec. (d)(2) to (4). Pub. L. 113–79, § 7516(a)(4)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2). Prior to amendment, text read as follows: “With respect to gasification research activity, the sun grant centers and subcenter shall coordinate planning with land-grant colleges and universities in their respective regions that have ongoing research activities in that area.”
 
-Subsec. (f)(1). Pub. L. 113–79, § 7516(b), substituted “subsection (c)(1)(C)(i)” for “subsection (c)(1)(D)(i)”.
+Subsec. (f)(1). Pub. L. 113–79, § 7516(b), substituted “subsection (c)(1)(C)(i)” for “subsection (c)(1)(D)(i)”.
 
-Subsec. (g). Pub. L. 113–79, § 7516(a)(5), substituted “2018” for “2012”.
+Subsec. (g). Pub. L. 113–79, § 7516(a)(5), substituted “2018” for “2012”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2885,7 +2885,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
 
-## § 8115. Carbon utilization and biogas education program
+## § 8115. Carbon utilization and biogas education program
 
 **(a) Definitions** In this section:
 
@@ -2921,4 +2921,4 @@ The term “carbon dioxide” means carbon dioxide that is produced as a byprodu
 
 **(2)** $1,000,000 to carry out subsection (b)(2).
 
-(Pub. L. 107–171, title IX, § 9014, as added Pub. L. 115–334, title IX, § 9011, Dec. 20, 2018, 132 Stat. 4887.)
+(Pub. L. 107–171, title IX, § 9014, as added Pub. L. 115–334, title IX, § 9011, Dec. 20, 2018, 132 Stat. 4887.)

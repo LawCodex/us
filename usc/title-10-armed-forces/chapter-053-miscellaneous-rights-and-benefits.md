@@ -19,105 +19,105 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2024—Pub. L. 118–159, div. A, title VII, § 733(1), Dec. 23, 2024, 138 Stat. 1956, struck out “in emergencies” after “veterinary services” in item 1060c. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title VII, § 733(1), Dec. 23, 2024, 138 Stat. 1956, struck out “in emergencies” after “veterinary services” in item 1060c. Amendment was made pursuant to operation of section 102 of this title.
 
-2023—Pub. L. 118–31, div. A, title VI, § 632(1), Dec. 22, 2023, 137 Stat. 296, inserted “; lodging expenses” after “benefits” in item 1059. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title VI, § 632(1), Dec. 22, 2023, 137 Stat. 296, inserted “; lodging expenses” after “benefits” in item 1059. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title V, § 532(b), Dec. 27, 2021, 135 Stat. 1695, added item 1044f.
+2021—Pub. L. 117–81, div. A, title V, § 532(b), Dec. 27, 2021, 135 Stat. 1695, added item 1044f.
 
-2019—Pub. L. 116–92, div. A, title VII, § 735(b), Dec. 20, 2019, 133 Stat. 1463, added item 1060c.
+2019—Pub. L. 116–92, div. A, title VII, § 735(b), Dec. 20, 2019, 133 Stat. 1463, added item 1060c.
 
-2016—Pub. L. 114–328, div. A, title XII, §§ 1241(*o*)(4), 1243(b)(2), 1253(a)(2)(B), Dec. 23, 2016, 130 Stat. 2512, 2516, 2532, struck out items 1050 “Latin American cooperation: payment of personnel expenses”, 1050a “African cooperation: payment of personnel expenses”, 1051 “Multilateral, bilateral, or regional cooperation programs: payment of personnel expenses”, 1051a “Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses”, 1051b “Bilateral or regional cooperation programs: awards and mementos to recognize superior noncombat achievements or performance”, and 1051c “Multilateral, bilateral, or regional cooperation programs: assignments to improve education and training in information security”.
+2016—Pub. L. 114–328, div. A, title XII, §§ 1241(*o*)(4), 1243(b)(2), 1253(a)(2)(B), Dec. 23, 2016, 130 Stat. 2512, 2516, 2532, struck out items 1050 “Latin American cooperation: payment of personnel expenses”, 1050a “African cooperation: payment of personnel expenses”, 1051 “Multilateral, bilateral, or regional cooperation programs: payment of personnel expenses”, 1051a “Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses”, 1051b “Bilateral or regional cooperation programs: awards and mementos to recognize superior noncombat achievements or performance”, and 1051c “Multilateral, bilateral, or regional cooperation programs: assignments to improve education and training in information security”.
 
-2013—Pub. L. 113–66, div. A, title VI, § 621(a)(2)(B), (c)(2)(B), title XVII, § 1716(a)(2), Dec. 26, 2013, 127 Stat. 783, 784, 969, added item 1044e and struck out items 1036 “Escorts for dependents of members: transportation and travel allowances” and 1053a “Expenses incurred in connection with leave canceled due to contingency operations: reimbursement”.
+2013—Pub. L. 113–66, div. A, title VI, § 621(a)(2)(B), (c)(2)(B), title XVII, § 1716(a)(2), Dec. 26, 2013, 127 Stat. 783, 784, 969, added item 1044e and struck out items 1036 “Escorts for dependents of members: transportation and travel allowances” and 1053a “Expenses incurred in connection with leave canceled due to contingency operations: reimbursement”.
 
-2011—Pub. L. 112–81, div. A, title V, § 588(b), title IX, § 951(a)(2), Dec. 31, 2011, 125 Stat. 1437, 1549, added items 1051c and 1056a.
+2011—Pub. L. 112–81, div. A, title V, § 588(b), title IX, § 951(a)(2), Dec. 31, 2011, 125 Stat. 1437, 1549, added items 1051c and 1056a.
 
-Pub. L. 111–383, div. A, title XII, § 1204(b), Jan. 7, 2011, 124 Stat. 4387, added item 1050a.
+Pub. L. 111–383, div. A, title XII, § 1204(b), Jan. 7, 2011, 124 Stat. 4387, added item 1050a.
 
-2008—Pub. L. 110–417, [div. A], title XII, § 1231(c)(2), Oct. 14, 2008, 122 Stat. 4637, added item 1051 and struck out former item 1051 “Bilateral or regional cooperation programs: payment of personnel expenses”.
+2008—Pub. L. 110–417, [div. A], title XII, § 1231(c)(2), Oct. 14, 2008, 122 Stat. 4637, added item 1051 and struck out former item 1051 “Bilateral or regional cooperation programs: payment of personnel expenses”.
 
-Pub. L. 110–181, div. A, title VI, § 671(b)(2), title XII, § 1203(e)(2), Jan. 28, 2008, 122 Stat. 184, 365, added items 1030 and 1051a and struck out former item 1051a “Coalition liaison officers: administrative services and support; travel, subsistence, and other personal expenses”.
+Pub. L. 110–181, div. A, title VI, § 671(b)(2), title XII, § 1203(e)(2), Jan. 28, 2008, 122 Stat. 184, 365, added items 1030 and 1051a and struck out former item 1051a “Coalition liaison officers: administrative services and support; travel, subsistence, and other personal expenses”.
 
-2006—Pub. L. 109–364, div. A, title V, § 598(b)(2), Oct. 17, 2006, 120 Stat. 2237, struck out “; issuance of permanent ID card after attaining 75 years of age” after “retirees” in item 1060b.
+2006—Pub. L. 109–364, div. A, title V, § 598(b)(2), Oct. 17, 2006, 120 Stat. 2237, struck out “; issuance of permanent ID card after attaining 75 years of age” after “retirees” in item 1060b.
 
-2004—Pub. L. 108–375, div. A, title V, § 583(a)(2), Oct. 28, 2004, 118 Stat. 1929, added item 1060b.
+2004—Pub. L. 108–375, div. A, title V, § 583(a)(2), Oct. 28, 2004, 118 Stat. 1929, added item 1060b.
 
-2003—Pub. L. 108–136, div. A, title XII, § 1222(b), Nov. 24, 2003, 117 Stat. 1652, added item 1051b.
+2003—Pub. L. 108–136, div. A, title XII, § 1222(b), Nov. 24, 2003, 117 Stat. 1652, added item 1051b.
 
-2002—Pub. L. 107–314, div. A, title XII, § 1201(a)(2), Dec. 2, 2002, 116 Stat. 2663, added item 1051a.
+2002—Pub. L. 107–314, div. A, title XII, § 1201(a)(2), Dec. 2, 2002, 116 Stat. 2663, added item 1051a.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title V, §§ 551(b), 579(c)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–125, 1654A–142, added items 1044d, 1052, 1053, and 1053a, and struck out former items 1052 “Reimbursement for adoption expenses” and 1053 “Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay”.
+2000—Pub. L. 106–398, § 1 [[div. A], title V, §§ 551(b), 579(c)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–125, 1654A–142, added items 1044d, 1052, 1053, and 1053a, and struck out former items 1052 “Reimbursement for adoption expenses” and 1053 “Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay”.
 
-1997—Pub. L. 105–85, div. A, title V, § 593(a)(2), Nov. 18, 1997, 111 Stat. 1763, added item 1033.
+1997—Pub. L. 105–85, div. A, title V, § 593(a)(2), Nov. 18, 1997, 111 Stat. 1763, added item 1033.
 
-1996—Pub. L. 104–106, div. A, title VII, § 749(a)(2), Feb. 10, 1996, 110 Stat. 389, added item 1044c.
+1996—Pub. L. 104–106, div. A, title VII, § 749(a)(2), Feb. 10, 1996, 110 Stat. 389, added item 1044c.
 
-Pub. L. 104–106, div. A, title XV, § 1504(a)(2), Feb. 10, 1996, 110 Stat. 513, made technical correction to Pub. L. 103–337, § 531(g)(2). See 1994 Amendment note below.
+Pub. L. 104–106, div. A, title XV, § 1504(a)(2), Feb. 10, 1996, 110 Stat. 513, made technical correction to Pub. L. 103–337, § 531(g)(2). See 1994 Amendment note below.
 
-1994—Pub. L. 103–337, div. A, title V, § 531(g)(2), Oct. 5, 1994, 108 Stat. 2758, as amended by Pub. L. 104–106, div. A, title XV, § 1504(a)(2), Feb. 10, 1996, 110 Stat. 513, substituted “Protected communications;” for “Communicating with a Member of Congress or Inspector General;” in item 1034.
+1994—Pub. L. 103–337, div. A, title V, § 531(g)(2), Oct. 5, 1994, 108 Stat. 2758, as amended by Pub. L. 104–106, div. A, title XV, § 1504(a)(2), Feb. 10, 1996, 110 Stat. 513, substituted “Protected communications;” for “Communicating with a Member of Congress or Inspector General;” in item 1034.
 
-Pub. L. 103–337, div. A, title V, § 535(c)(2), title VI, § 653(b), title X, § 1070(a)(5)(B), (6)(B), title XVI, § 1671(b)(9), Oct. 5, 1994, 108 Stat. 2763, 2795, 2855, 3013, struck out item 1033 “Compensation: Reserve on active duty accepting from any person”, redesignated item 1058 “Dependents of members separated for dependent abuse: transitional compensation” as item 1059 and amended it generally, redesignated item 1058 “Military service of retired members with newly democratic nations: consent of Congress” as item 1060, and added item 1060a.
+Pub. L. 103–337, div. A, title V, § 535(c)(2), title VI, § 653(b), title X, § 1070(a)(5)(B), (6)(B), title XVI, § 1671(b)(9), Oct. 5, 1994, 108 Stat. 2763, 2795, 2855, 3013, struck out item 1033 “Compensation: Reserve on active duty accepting from any person”, redesignated item 1058 “Dependents of members separated for dependent abuse: transitional compensation” as item 1059 and amended it generally, redesignated item 1058 “Military service of retired members with newly democratic nations: consent of Congress” as item 1060, and added item 1060a.
 
-Pub. L. 103–337, div. A, title X, § 1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, made technical correction to Pub. L. 103–160, § 554(a)(2). See 1993 Amendment note below.
+Pub. L. 103–337, div. A, title X, § 1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, made technical correction to Pub. L. 103–160, § 554(a)(2). See 1993 Amendment note below.
 
-1993—Pub. L. 103–160, div. A, title V, §§ 551(a)(2), 574(b), title XIV, § 1433(b)(2), Nov. 30, 1993, 107 Stat. 1662, 1675, 1834, added item 1044b and items 1058 “Responsibilities of military law enforcement officials at scenes of domestic violence” and 1058 “Military service of retired members with newly democratic nations: consent of Congress”.
+1993—Pub. L. 103–160, div. A, title V, §§ 551(a)(2), 574(b), title XIV, § 1433(b)(2), Nov. 30, 1993, 107 Stat. 1662, 1675, 1834, added item 1044b and items 1058 “Responsibilities of military law enforcement officials at scenes of domestic violence” and 1058 “Military service of retired members with newly democratic nations: consent of Congress”.
 
-Pub. L. 103–160, div. A, title V, § 554(a)(2), Nov. 30, 1993, 107 Stat. 1666, as amended by Pub. L. 103–337, div. A, title X, § 1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, added item 1058 “Dependents of members separated for dependent abuse: transitional compensation”.
+Pub. L. 103–160, div. A, title V, § 554(a)(2), Nov. 30, 1993, 107 Stat. 1666, as amended by Pub. L. 103–337, div. A, title X, § 1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, added item 1058 “Dependents of members separated for dependent abuse: transitional compensation”.
 
-1992—Pub. L. 102–484, div. A, title VI, § 651(b), title X, § 1080(b), Oct. 23, 1992, 106 Stat. 2426, 2514, added items 1046 and 1057.
+1992—Pub. L. 102–484, div. A, title VI, § 651(b), title X, § 1080(b), Oct. 23, 1992, 106 Stat. 2426, 2514, added items 1046 and 1057.
 
-1991—Pub. L. 102–190, div. A, title VI, § 651(a)(2), Dec. 5, 1991, 105 Stat. 1386, added item 1052.
+1991—Pub. L. 102–190, div. A, title VI, § 651(a)(2), Dec. 5, 1991, 105 Stat. 1386, added item 1052.
 
-Pub. L. 102–25, title VII, § 701(e)(8)(B), Apr. 6, 1991, 105 Stat. 115, struck out “mandatory” after “error in” in item 1053.
+Pub. L. 102–25, title VII, § 701(e)(8)(B), Apr. 6, 1991, 105 Stat. 115, struck out “mandatory” after “error in” in item 1053.
 
-1990—Pub. L. 101–510, div. A, title V, §§ 502(b)(2), 551(a)(2), title XIV, § 1481(c)(2), Nov. 5, 1990, 104 Stat. 1557, 1566, 1705, added items 1044a and 1056 and struck out item 1046 “Preseparation counseling requirement”.
+1990—Pub. L. 101–510, div. A, title V, §§ 502(b)(2), 551(a)(2), title XIV, § 1481(c)(2), Nov. 5, 1990, 104 Stat. 1557, 1566, 1705, added items 1044a and 1056 and struck out item 1046 “Preseparation counseling requirement”.
 
-1989—Pub. L. 101–189, div. A, title VI, § 664(a)(3)(B), Nov. 29, 1989, 103 Stat. 1466, substituted “Reimbursement for financial institution charges incurred because of Government” for “Relief for expenses because of” in item 1053.
+1989—Pub. L. 101–189, div. A, title VI, § 664(a)(3)(B), Nov. 29, 1989, 103 Stat. 1466, substituted “Reimbursement for financial institution charges incurred because of Government” for “Relief for expenses because of” in item 1053.
 
-1988—Pub. L. 100–456, div. A, title VI, § 621(a)(2), title VIII, § 846(a)(2), Sept. 29, 1988, 102 Stat. 1983, 2030, substituted “Communicating with a Member of Congress or Inspector General; prohibition of retaliatory personnel actions” for “Communicating with a Member of Congress” in item 1034 and added item 1055.
+1988—Pub. L. 100–456, div. A, title VI, § 621(a)(2), title VIII, § 846(a)(2), Sept. 29, 1988, 102 Stat. 1983, 2030, substituted “Communicating with a Member of Congress or Inspector General; prohibition of retaliatory personnel actions” for “Communicating with a Member of Congress” in item 1034 and added item 1055.
 
-Pub. L. 100–370, § 1(c)(2)(B), July 19, 1988, 102 Stat. 841, struck out item 1052 “Period for use of commissary stores; eligibility attributable to active duty for training”.
+Pub. L. 100–370, § 1(c)(2)(B), July 19, 1988, 102 Stat. 841, struck out item 1052 “Period for use of commissary stores; eligibility attributable to active duty for training”.
 
-1987—Pub. L. 100–26, § 7(e)(1)(B), Apr. 21, 1987, 101 Stat. 281, added item 1032 and struck out second item 1051 “Disability and death compensation: dependents of members held as captives”.
+1987—Pub. L. 100–26, § 7(e)(1)(B), Apr. 21, 1987, 101 Stat. 281, added item 1032 and struck out second item 1051 “Disability and death compensation: dependents of members held as captives”.
 
-1986—Pub. L. 99–661, div. A, title VI, §§ 656(a)(2), 662(a)(2), title XIII, §§ 1322(b), 1356(a)(2), Nov. 14, 1986, 100 Stat. 3891, 3894, 3989, 3998, added item 1051 “Bilateral or regional cooperation programs: payment of personnel expenses” and items 1052 to 1054.
+1986—Pub. L. 99–661, div. A, title VI, §§ 656(a)(2), 662(a)(2), title XIII, §§ 1322(b), 1356(a)(2), Nov. 14, 1986, 100 Stat. 3891, 3894, 3989, 3998, added item 1051 “Bilateral or regional cooperation programs: payment of personnel expenses” and items 1052 to 1054.
 
-Pub. L. 99–399, title VIII, § 806(b)(2), Aug. 27, 1986, 100 Stat. 886, added item 1051 “Disability and death compensation: dependents of members held as captives”.
+Pub. L. 99–399, title VIII, § 806(b)(2), Aug. 27, 1986, 100 Stat. 886, added item 1051 “Disability and death compensation: dependents of members held as captives”.
 
-1985—Pub. L. 99–145, title XIII, § 1303(a)(6), Nov. 8, 1985, 99 Stat. 739, substituted “Atmospheric” for “Atomospheric” in item 1043.
+1985—Pub. L. 99–145, title XIII, § 1303(a)(6), Nov. 8, 1985, 99 Stat. 739, substituted “Atmospheric” for “Atomospheric” in item 1043.
 
-1984—Pub. L. 98–525, title VI, §§ 651(b), 654(b), title VII, § 708(a)(2), title XIV, §§ 1401(d)(2), 1405(19)(B)(ii), Oct. 19, 1984, 98 Stat. 2549, 2552, 2572, 2616, 2623, added items 1044 to 1050 and substituted “Member” for “member” in item 1034.
+1984—Pub. L. 98–525, title VI, §§ 651(b), 654(b), title VII, § 708(a)(2), title XIV, §§ 1401(d)(2), 1405(19)(B)(ii), Oct. 19, 1984, 98 Stat. 2549, 2552, 2572, 2616, 2623, added items 1044 to 1050 and substituted “Member” for “member” in item 1034.
 
-1983—Pub. L. 98–94, title X, § 1007(b)(2), Sept. 24, 1983, 97 Stat. 662, added item 1043.
+1983—Pub. L. 98–94, title X, § 1007(b)(2), Sept. 24, 1983, 97 Stat. 662, added item 1043.
 
-1982—Pub. L. 97–258, § 2(b)(2)(A), Sept. 13, 1982, 96 Stat. 1052, added item 1042.
+1982—Pub. L. 97–258, § 2(b)(2)(A), Sept. 13, 1982, 96 Stat. 1052, added item 1042.
 
-1980—Pub. L. 96–513, title V, § 511(33)(B), Dec. 12, 1980, 94 Stat. 2922, redesignated item 1040 as added by Pub. L. 90–285 as item 1041.
+1980—Pub. L. 96–513, title V, § 511(33)(B), Dec. 12, 1980, 94 Stat. 2922, redesignated item 1040 as added by Pub. L. 90–285 as item 1041.
 
-1977—Pub. L. 95–105, title V, § 509(d)(2), Aug. 17, 1977, 91 Stat. 860, struck out item 1032 “Dual capacity: Reserve accepting employment with foreign government or concern”.
+1977—Pub. L. 95–105, title V, § 509(d)(2), Aug. 17, 1977, 91 Stat. 860, struck out item 1032 “Dual capacity: Reserve accepting employment with foreign government or concern”.
 
-1968—Pub. L. 90–235, § 7(a)(2)(B), Jan. 2, 1968, 81 Stat. 763, added item 1040: “Replacement of certificate of discharge”. Another item 1040: “Transportation of dependent patients”, was added by Pub. L. 89–140, § 1(2), Aug. 28, 1965, 79 Stat. 579.
+1968—Pub. L. 90–235, § 7(a)(2)(B), Jan. 2, 1968, 81 Stat. 763, added item 1040: “Replacement of certificate of discharge”. Another item 1040: “Transportation of dependent patients”, was added by Pub. L. 89–140, § 1(2), Aug. 28, 1965, 79 Stat. 579.
 
-1966—Pub. L. 89–538, § 1(2), Aug. 14, 1966, 80 Stat. 347, substituted “Deposits of savings” for “Enlisted members’ deposits” in item 1035.
+1966—Pub. L. 89–538, § 1(2), Aug. 14, 1966, 80 Stat. 347, substituted “Deposits of savings” for “Enlisted members’ deposits” in item 1035.
 
-1965—Pub. L. 89–140, § 1(2), Aug. 28, 1965, 79 Stat. 579, added item 1040 “Transportation of dependent patients”.
+1965—Pub. L. 89–140, § 1(2), Aug. 28, 1965, 79 Stat. 579, added item 1040 “Transportation of dependent patients”.
 
-Pub. L. 89–132, § 9(b), Aug. 21, 1965, 79 Stat. 548, added item 1040 “Free postage from combat zone” which was repealed by Pub. L. 89–315, § 3(b), Nov. 1, 1965, 79 Stat. 1165.
+Pub. L. 89–132, § 9(b), Aug. 21, 1965, 79 Stat. 548, added item 1040 “Free postage from combat zone” which was repealed by Pub. L. 89–315, § 3(b), Nov. 1, 1965, 79 Stat. 1165.
 
-1961—Pub. L. 87–165, § 1(2), Aug. 25, 1961, 75 Stat. 401, added item 1039.
+1961—Pub. L. 87–165, § 1(2), Aug. 25, 1961, 75 Stat. 401, added item 1039.
 
-1959—Pub. L. 86–160, § 1(2), Aug. 14, 1959, 73 Stat. 358, added item 1036.
+1959—Pub. L. 86–160, § 1(2), Aug. 14, 1959, 73 Stat. 358, added item 1036.
 
-Pub. L. 86–142, § 1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
+Pub. L. 86–142, § 1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 
-1958—Pub. L. 85–861, § 1(24)(B), Sept. 2, 1958, 72 Stat. 1445, added item 1037.
+1958—Pub. L. 85–861, § 1(24)(B), Sept. 2, 1958, 72 Stat. 1445, added item 1037.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Promotion of Tax Preparation Assistance Programs**
 
-Pub. L. 118–159, div. A, title VI, § 653, Dec. 23, 2024, 138 Stat. 1939, provided that:
+Pub. L. 118–159, div. A, title VI, § 653, Dec. 23, 2024, 138 Stat. 1939, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall ensure that each member of a covered Armed Force receives, not later than March 1 of each year, via email or other electronic means, a notice regarding the MilTax program and other tax preparation assistance programs furnished by the Secretary.
 
@@ -127,7 +127,7 @@ Pub. L. 118–159, div. A, title VI, § 653, Dec. 23, 2024, 138 Stat. 1939, pr
 
 **Flexible Workplace Programs**
 
-Pub. L. 117–263, div. A, title XI, § 1107, Dec. 23, 2022, 136 Stat. 2818, provided that:
+Pub. L. 117–263, div. A, title XI, § 1107, Dec. 23, 2022, 136 Stat. 2818, provided that:
 
 > “Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall promulgate guidance to the military departments to promote consistency in policies relating to flexible workplace programs. Such guidance shall address at a minimum the conditions under which an employee is allowed to perform all or a portion of assigned duties—
 
@@ -137,7 +137,7 @@ Pub. L. 117–263, div. A, title XI, § 1107, Dec. 23, 2022, 136 Stat. 2818, p
 
 **Policy To Improve Responses to Pregnancy and Childbirth by Certain Members of the Armed Forces**
 
-Pub. L. 116–283, div. A, title V, § 555, Jan. 1, 2021, 134 Stat. 3636, provided that:
+Pub. L. 116–283, div. A, title V, § 555, Jan. 1, 2021, 134 Stat. 3636, provided that:
 
 > **“(a) Policy Required.—** The Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop a policy to ensure that the career of a member of the Armed Forces is not unduly affected because the member is a covered member. The policy shall address the following:
 
@@ -179,11 +179,11 @@ Pub. L. 116–283, div. A, title V, § 555, Jan. 1, 2021, 134 Stat. 3636, prov
 
 **Training on Certain Department of Defense Instructions for Members of the Armed Forces**
 
-Pub. L. 116–283, div. A, title V, § 556, Jan. 1, 2021, 134 Stat. 3637, provided that: “In accordance with Department of Defense Instruction 1300.17, dated September 1, 2020, and applicable law, the Secretary of Defense shall implement training on relevant Federal statutes, Department of Defense Instructions, and the regulations of each military department, including the responsibility of commanders to maintain good order and discipline.”
+Pub. L. 116–283, div. A, title V, § 556, Jan. 1, 2021, 134 Stat. 3637, provided that: “In accordance with Department of Defense Instruction 1300.17, dated September 1, 2020, and applicable law, the Secretary of Defense shall implement training on relevant Federal statutes, Department of Defense Instructions, and the regulations of each military department, including the responsibility of commanders to maintain good order and discipline.”
 
 **Access to Wireless High-speed Internet and Network Connections for Certain Members of the Armed Forces**
 
-Pub. L. 114–328, div. A, title III, § 347, Dec. 23, 2016, 130 Stat. 2086, provided that:
+Pub. L. 114–328, div. A, title III, § 347, Dec. 23, 2016, 130 Stat. 2086, provided that:
 
 > **“(a) In General.—** In providing members of the Armed Forces with access to high-speed wireless Internet and network connections at military installations outside the United States, the Secretary of Defense may provide such access without charge to the members and their dependents.
 
@@ -191,7 +191,7 @@ Pub. L. 114–328, div. A, title III, § 347, Dec. 23, 2016, 130 Stat. 2086, p
 
 **Protection of Rights of Conscience of Members of the Armed Forces and Chaplains of Such Members**
 
-Pub. L. 112–239, div. A, title V, § 533, Jan. 2, 2013, 126 Stat. 1727, as amended by Pub. L. 113–66, div. A, title V, § 532(a), Dec. 26, 2013, 127 Stat. 759, provided that:
+Pub. L. 112–239, div. A, title V, § 533, Jan. 2, 2013, 126 Stat. 1727, as amended by Pub. L. 113–66, div. A, title V, § 532(a), Dec. 26, 2013, 127 Stat. 759, provided that:
 
 > **“(a) Protection of Rights of Conscience.—**
 
@@ -207,15 +207,15 @@ Pub. L. 112–239, div. A, title V, § 533, Jan. 2, 2013, 126 Stat. 1727, as a
 
 > **“(c) Regulations.—** The Secretary of Defense shall issue regulations implementing the protections afforded by this section.”
 
-[Pub. L. 113–66, div. A, title V, § 532(b), Dec. 26, 2013, 127 Stat. 759, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall prescribe the implementing regulations required by subsection (c) of such section [section 533 of Pub. L. 112–239, set out above]. In prescribing such regulations, the Secretary shall consult with the official military faith-group representatives who endorse military chaplains.” ]
+[Pub. L. 113–66, div. A, title V, § 532(b), Dec. 26, 2013, 127 Stat. 759, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall prescribe the implementing regulations required by subsection (c) of such section [section 533 of Pub. L. 112–239, set out above]. In prescribing such regulations, the Secretary shall consult with the official military faith-group representatives who endorse military chaplains.” ]
 
 **Freedom of Conscience of Military Chaplains With Respect to the Performance of Marriages**
 
-Pub. L. 112–81, div. A, title V, § 544, Dec. 31, 2011, 125 Stat. 1412, provided that: “A military chaplain who, as a matter of conscience or moral principle, does not wish to perform a marriage may not be required to do so.”
+Pub. L. 112–81, div. A, title V, § 544, Dec. 31, 2011, 125 Stat. 1412, provided that: “A military chaplain who, as a matter of conscience or moral principle, does not wish to perform a marriage may not be required to do so.”
 
 **Prohibition on Infringing on the Individual Right to Lawfully Acquire, Possess, Own, Carry, and Otherwise Use Privately Owned Firearms, Ammunition, and Other Weapons**
 
-Pub. L. 111–383, div. A, title X, § 1062, Jan. 7, 2011, 124 Stat. 4363, as amended by Pub. L. 112–239, div. A, title X, § 1057, Jan. 2, 2013, 126 Stat. 1938, provided that:
+Pub. L. 111–383, div. A, title X, § 1062, Jan. 7, 2011, 124 Stat. 4363, as amended by Pub. L. 112–239, div. A, title X, § 1057, Jan. 2, 2013, 126 Stat. 1938, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (c), the Secretary of Defense shall not prohibit, issue any requirement relating to, or collect or record any information relating to the otherwise lawful acquisition, possession, ownership, carrying, or other use of a privately owned firearm, privately owned ammunition, or another privately owned weapon by a member of the Armed Forces or civilian employee of the Department of Defense on property that is not—
 
@@ -251,7 +251,7 @@ Pub. L. 111–383, div. A, title X, § 1062, Jan. 7, 2011, 124 Stat. 4363, as 
 
 **Department of Defense Telecommunications Benefit**
 
-Pub. L. 108–136, div. A, title III, § 344, Nov. 24, 2003, 117 Stat. 1448, as amended by Pub. L. 108–375, div. A, title III, § 341, Oct. 28, 2004, 118 Stat. 1857; Pub. L. 109–163, div. A, title III, § 375, Jan. 6, 2006, 119 Stat. 3213; Pub. L. 109–364, div. A, title III, § 355(a)–(c), Oct. 17, 2006, 120 Stat. 2162, 2163; Pub. L. 111–383, div. A, title X, § 1075(g)(3), Jan. 7, 2011, 124 Stat. 4376, provided that:
+Pub. L. 108–136, div. A, title III, § 344, Nov. 24, 2003, 117 Stat. 1448, as amended by Pub. L. 108–375, div. A, title III, § 341, Oct. 28, 2004, 118 Stat. 1857; Pub. L. 109–163, div. A, title III, § 375, Jan. 6, 2006, 119 Stat. 3213; Pub. L. 109–364, div. A, title III, § 355(a)–(c), Oct. 17, 2006, 120 Stat. 2162, 2163; Pub. L. 111–383, div. A, title X, § 1075(g)(3), Jan. 7, 2011, 124 Stat. 4376, provided that:
 
 > **“(a) Provision of Benefit.—**
 
@@ -289,7 +289,7 @@ Pub. L. 108–136, div. A, title III, § 344, Nov. 24, 2003, 117 Stat. 1448, a
 
 > **“(g) Contingency Operation Defined.—** In this section, the term ‘contingency operation’ has the meaning given that term in section 101(a)(13) of title 10, United States Code. The term includes Operation Iraqi Freedom and Operation Enduring Freedom.”
 
-## § 1030. Bonus to encourage Department of Defense personnel to refer persons for appointment as officers to serve in health professions
+## § 1030. Bonus to encourage Department of Defense personnel to refer persons for appointment as officers to serve in health professions
 
 **(a) Authority To Pay Bonus.—**
 
@@ -343,7 +343,7 @@ Pub. L. 108–136, div. A, title III, § 344, Nov. 24, 2003, 117 Stat. 1448, a
 
 **(i) Duration of Authority.—** A bonus may not be paid under subsection (a) with respect to any referral that occurs after December 31, 2011.
 
-(Added Pub. L. 110–181, div. A, title VI, § 671(b)(1), Jan. 28, 2008, 122 Stat. 182; amended Pub. L. 110–417, [div. A], title VI, § 615(a), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, § 616(1), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, § 616(1), title X, § 1075(b)(15), Jan. 7, 2011, 124 Stat. 4238, 4369; Pub. L. 116–283, div. A, title IX, § 924(b)(23), Jan. 1, 2021, 134 Stat. 3824.)
+(Added Pub. L. 110–181, div. A, title VI, § 671(b)(1), Jan. 28, 2008, 122 Stat. 182; amended Pub. L. 110–417, [div. A], title VI, § 615(a), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, § 616(1), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, § 616(1), title X, § 1075(b)(15), Jan. 7, 2011, 124 Stat. 4238, 4369; Pub. L. 116–283, div. A, title IX, § 924(b)(23), Jan. 1, 2021, 134 Stat. 3824.)
 
 **Editorial Notes**
 
@@ -351,15 +351,15 @@ Pub. L. 108–136, div. A, title III, § 344, Nov. 24, 2003, 117 Stat. 1448, a
 
 2021—Subsec. (h)(3). Pub. L. 116–283 inserted “and the Space Force” after “concerning the Air Force”.
 
-2011—Subsec. (e)(1). Pub. L. 111–383, § 1075(b)(15), substituted “three years.” for “3 years,”.
+2011—Subsec. (e)(1). Pub. L. 111–383, § 1075(b)(15), substituted “three years.” for “3 years,”.
 
-Subsec. (i). Pub. L. 111–383, § 616(1), substituted “December 31, 2011” for “December 31, 2010”.
+Subsec. (i). Pub. L. 111–383, § 616(1), substituted “December 31, 2011” for “December 31, 2010”.
 
 2009—Subsec. (i). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (i). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 
-## § 1031. Administration of oath
+## § 1031. Administration of oath
 
 The President, the Vice-President, the Secretary of Defense, any commissioned officer, and any other person designated under regulations prescribed by the Secretary of Defense may administer any oath—
 
@@ -367,13 +367,13 @@ The President, the Vice-President, the Secretary of Defense, any commissioned of
 
 **(2)** required by law in connection with such an enlistment or appointment.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 109–364, div. A, title V, § 595(b), Oct. 17, 2006, 120 Stat. 2235.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 109–364, div. A, title V, § 595(b), Oct. 17, 2006, 120 Stat. 2235.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1031 | 10:19. 34:217a–2. | May 22, 1950, ch. 193, § 1, 64 Stat. 187. |
+| 1031 | 10:19. 34:217a–2. | May 22, 1950, ch. 193, § 1, 64 Stat. 187. |
 
 The words “(including the reserve component)” are omitted, since the words “any component of an armed force” include the reserve components. The words “any oath required for the enlistment or appointment of any person” are substituted for the words “the oath required for the enlistment of any person, the oath required for the appointment of any person to commissioned or warrant officer grade, and any other oath required by law in connection with the enlistment or appointment of any person”.
 
@@ -383,7 +383,7 @@ The words “(including the reserve component)” are omitted, since the words �
 
 2006—Pub. L. 109–364 substituted “The President, the Vice-President, the Secretary of Defense, any commissioned officer, and any other person designated under regulations prescribed by the Secretary of Defense may administer any oath” for “Any commissioned officer of any component of an armed force, whether or not on active duty, may administer any oath” in introductory provisions.
 
-## § 1032. Disability and death compensation: dependents of members held as captives
+## § 1032. Disability and death compensation: dependents of members held as captives
 
 **(a)** The President shall prescribe regulations under which the Secretary concerned may pay compensation for the disability or death of a dependent of a member of the uniformed services if the President determines that the disability or death—
 
@@ -401,25 +401,25 @@ The words “(including the reserve component)” are omitted, since the words �
 
 **(2)** The term “Secretary concerned” has the meaning given that term in section 101 of that title.
 
-(Added Pub. L. 99–399, title VIII, § 806(b)(1), Aug. 27, 1986, 100 Stat. 885, § 1051; amended Pub. L. 99–661, div. A, title XIII, § 1343(a)(25), Nov. 14, 1986, 100 Stat. 3994; renumbered § 1032 and amended Pub. L. 100–26, §§ 3(8), 7(e)(1)(A), Apr. 21, 1987, 101 Stat. 274, 281; Pub. L. 101–189, div. A, title XVI, § 1622(e)(2), Nov. 29, 1989, 103 Stat. 1605.)
+(Added Pub. L. 99–399, title VIII, § 806(b)(1), Aug. 27, 1986, 100 Stat. 885, § 1051; amended Pub. L. 99–661, div. A, title XIII, § 1343(a)(25), Nov. 14, 1986, 100 Stat. 3994; renumbered § 1032 and amended Pub. L. 100–26, §§ 3(8), 7(e)(1)(A), Apr. 21, 1987, 101 Stat. 274, 281; Pub. L. 101–189, div. A, title XVI, § 1622(e)(2), Nov. 29, 1989, 103 Stat. 1605.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1032, act Aug. 10, 1956, ch. 1041, 70A Stat. 80, provided that a Reserve may accept civil employment with a foreign government or concern, prior to repeal by Pub. L. 95–105, title V, § 509(d)(1), Aug. 17, 1977, 91 Stat. 860.
+A prior section 1032, act Aug. 10, 1956, ch. 1041, 70A Stat. 80, provided that a Reserve may accept civil employment with a foreign government or concern, prior to repeal by Pub. L. 95–105, title V, § 509(d)(1), Aug. 17, 1977, 91 Stat. 860.
 
 **Amendments**
 
-1989—Subsec. (d)(1). Pub. L. 101–189, § 1622(e)(2)(A), substituted “The term ‘dependent’ has” for “ ‘Dependent’ has”.
+1989—Subsec. (d)(1). Pub. L. 101–189, § 1622(e)(2)(A), substituted “The term ‘dependent’ has” for “ ‘Dependent’ has”.
 
-Subsec. (d)(2). Pub. L. 101–189, § 1622(e)(2)(B), inserted “The term” after “(2)”.
+Subsec. (d)(2). Pub. L. 101–189, § 1622(e)(2)(B), inserted “The term” after “(2)”.
 
-1987—Pub. L. 100–26, § 7(e)(1)(A), renumbered the second section 1051 of this title as this section.
+1987—Pub. L. 100–26, § 7(e)(1)(A), renumbered the second section 1051 of this title as this section.
 
-Subsec. (d)(1), (2). Pub. L. 100–26, § 3(8), amended directory language of Pub. L. 99–661. See 1986 Amendment note below.
+Subsec. (d)(1), (2). Pub. L. 100–26, § 3(8), amended directory language of Pub. L. 99–661. See 1986 Amendment note below.
 
-1986—Subsec. (d). Pub. L. 99–661, § 1343(a)(25), as amended by Pub. L. 100–26, § 3(8), substituted “title 37” for “that title” in par. (1), and “has the meaning given that term” for “and ‘uniformed services’ have the meanings given those terms” in par. (2).
+1986—Subsec. (d). Pub. L. 99–661, § 1343(a)(25), as amended by Pub. L. 100–26, § 3(8), substituted “title 37” for “that title” in par. (1), and “has the meaning given that term” for “and ‘uniformed services’ have the meanings given those terms” in par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -429,7 +429,7 @@ Amendment by section 3(8) of Pub. L. 100–26 applicable as if included in Pub. 
 
 **Effective Date**
 
-Pub. L. 99–399, title VIII, § 806(b)(3), Aug. 27, 1986, 100 Stat. 886, provided that: “Section 1051 [now 1032] of title 10, United States Code, as added by paragraph (1), shall apply with respect to any disability or death resulting from an injury that occurs after January 21, 1981.”
+Pub. L. 99–399, title VIII, § 806(b)(3), Aug. 27, 1986, 100 Stat. 886, provided that: “Section 1051 [now 1032] of title 10, United States Code, as added by paragraph (1), shall apply with respect to any disability or death resulting from an injury that occurs after January 21, 1981.”
 
 **Executive Documents**
 
@@ -437,7 +437,7 @@ Pub. L. 99–399, title VIII, § 806(b)(3), Aug. 27, 1986, 100 Stat. 886, prov
 
 Functions of President under this section delegated to Secretary of Defense, see section 4 of Ex. Ord. No. 12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of Title 5, Government Organization and Employees.
 
-## § 1033. Participation in management of specified non-Federal entities: authorized activities
+## § 1033. Participation in management of specified non-Federal entities: authorized activities
 
 **(a) Authorization.—** The Secretary concerned may authorize a member of the armed forces under the Secretary’s jurisdiction to serve without compensation as a director, officer, or trustee, or to otherwise participate, in the management of an entity designated under subsection (b). Any such authorization shall be made on a case-by-case basis, for a particular member to participate in a specific capacity with a specific designated entity. Such authorization may be made only for the purpose of providing oversight and advice to, and coordination with, the designated entity, and participation of the member in the activities of the designated entity may not extend to participation in the day-to-day operations of the entity.
 
@@ -471,13 +471,13 @@ Functions of President under this section delegated to Secretary of Defense, see
 
 **(d) Regulations.—** The Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 105–85, div. A, title V, § 593(a)(1), Nov. 18, 1997, 111 Stat. 1762; amended Pub. L. 106–65, div. A, title V, § 583, Oct. 5, 1999, 113 Stat. 634; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 105–85, div. A, title V, § 593(a)(1), Nov. 18, 1997, 111 Stat. 1762; amended Pub. L. 106–65, div. A, title V, § 583, Oct. 5, 1999, 113 Stat. 634; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1033, act Aug. 10, 1956, ch. 1041, 70A Stat. 80, related to Reserves continuing to accept compensation while on active duty that they were receiving prior to being ordered to active duty, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(g)(2), 1691, Oct. 5, 1994, 108 Stat. 2996, 3026, eff. Dec. 1, 1994.
+A prior section 1033, act Aug. 10, 1956, ch. 1041, 70A Stat. 80, related to Reserves continuing to accept compensation while on active duty that they were receiving prior to being ordered to active duty, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(g)(2), 1691, Oct. 5, 1994, 108 Stat. 2996, 3026, eff. Dec. 1, 1994.
 
 **Amendments**
 
@@ -491,7 +491,7 @@ A prior section 1033, act Aug. 10, 1956, ch. 1041, 70A Stat. 80, related to Rese
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-## § 1034. Protected communications; prohibition of retaliatory personnel actions
+## § 1034. Protected communications; prohibition of retaliatory personnel actions
 
 **(a) Restricting Communications With Members of Congress and Inspector General Prohibited.—**
 
@@ -623,7 +623,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(B)** submit to the Inspector General a report on the actions taken by the Secretary pursuant to this paragraph, and provide for the inclusion of a summary of the report under this subparagraph (with any personally identifiable information redacted) in the semiannual report to Congress of the Inspector General of the Department of Defense or the Inspector General of the Department of Homeland Security, as applicable, under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(3)** If the Secretary concerned determines under paragraph (1) that an order for corrective or disciplinary action is not appropriate, not later than 30 days after making the determination, such Secretary shall—
 
@@ -681,13 +681,13 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(3)** The term “unlawful discrimination” means discrimination on the basis of race, color, religion, sex, or national origin.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, § 1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, § 846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, § 202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, § 531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, § 933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, § 1 [[div. A], title IX, § 903], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, § 591(a), Oct. 28, 2004, 118 Stat. 1933; Pub. L. 110–181, div. A, title X, § 1063(a)(8), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title V, § 523, Dec. 31, 2011, 125 Stat. 1401; Pub. L. 113–66, div. A, title XVII, §§ 1714, 1715, Dec. 26, 2013, 127 Stat. 964–966; Pub. L. 114–328, div. A, title V, §§ 531(a)–(d), 532(a), (b), Dec. 23, 2016, 130 Stat. 2118–2120; Pub. L. 115–91, div. A, title X, § 1081(c)(2)(C), Dec. 12, 2017, 131 Stat. 1599; Pub. L. 116–92, div. A, title XVII, § 1731(a)(21), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 117–286, § 4(b)(27), Dec. 27, 2022, 136 Stat. 4346.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, § 1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, § 846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, § 202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, § 531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, § 933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, § 1 [[div. A], title IX, § 903], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, § 591(a), Oct. 28, 2004, 118 Stat. 1933; Pub. L. 110–181, div. A, title X, § 1063(a)(8), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title V, § 523, Dec. 31, 2011, 125 Stat. 1401; Pub. L. 113–66, div. A, title XVII, §§ 1714, 1715, Dec. 26, 2013, 127 Stat. 964–966; Pub. L. 114–328, div. A, title V, §§ 531(a)–(d), 532(a), (b), Dec. 23, 2016, 130 Stat. 2118–2120; Pub. L. 115–91, div. A, title X, § 1081(c)(2)(C), Dec. 12, 2017, 131 Stat. 1599; Pub. L. 116–92, div. A, title XVII, § 1731(a)(21), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 117–286, § 4(b)(27), Dec. 27, 2022, 136 Stat. 4346.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1034 | 50 App.:454(a) (last par.) | June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, § 1(d) (last par.), 65 Stat. 78. |
+| 1034 | 50 App.:454(a) (last par.) | June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, § 1(d) (last par.), 65 Stat. 78. |
 
 The words “prevented”, “directly or indirectly”, “concerning any subject”, “or Members”, and “and safety” are omitted as surplusage. The word “unlawful” is substituted for the words “in violation of law”.
 
@@ -695,7 +695,7 @@ The words “prevented”, “directly or indirectly”, “concerning any subje
 
 **References in Text**
 
-Section 5 of the Inspector General Act of 1978, referred to in subsec. (f)(2)(B), is section 5 of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 405 of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4212, 4361.
+Section 5 of the Inspector General Act of 1978, referred to in subsec. (f)(2)(B), is section 5 of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 405 of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4212, 4361.
 
 **Amendments**
 
@@ -705,29 +705,29 @@ Section 5 of the Inspector General Act of 1978, referred to in subsec. (f)(2)(B)
 
 2017—Subsec. (c)(2)(A). Pub. L. 115–91 substituted “section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice)” for “sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice)”.
 
-2016—Subsec. (b)(2). Pub. L. 114–328, § 531(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any action prohibited by paragraph (1) (including the threat to take any unfavorable action, the withholding or threat to withhold any favorable action, or making or threatening to make a significant change in the duties or responsibilities of a member of the armed forces not commensurate with the member’s grade) shall be considered for the purposes of this section to be a personnel action prohibited by this subsection.”
+2016—Subsec. (b)(2). Pub. L. 114–328, § 531(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any action prohibited by paragraph (1) (including the threat to take any unfavorable action, the withholding or threat to withhold any favorable action, or making or threatening to make a significant change in the duties or responsibilities of a member of the armed forces not commensurate with the member’s grade) shall be considered for the purposes of this section to be a personnel action prohibited by this subsection.”
 
-Subsec. (c)(4)(E), (F). Pub. L. 114–328, § 531(b)(1), added subpar. (E) and redesignated former subpar. (E) as (F).
+Subsec. (c)(4)(E), (F). Pub. L. 114–328, § 531(b)(1), added subpar. (E) and redesignated former subpar. (E) as (F).
 
-Subsec. (e)(1). Pub. L. 114–328, § 531(b)(2), substituted “subsection (c)(4)(F)” for “subsection (c)(4)(E)”.
+Subsec. (e)(1). Pub. L. 114–328, § 531(b)(2), substituted “subsection (c)(4)(F)” for “subsection (c)(4)(E)”.
 
-Subsec. (e)(3). Pub. L. 114–328, § 531(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 180 days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
+Subsec. (e)(3). Pub. L. 114–328, § 531(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 180 days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
 
 “(A) of that determination (including the reasons why the report may not be submitted within that time); and
 
 “(B) of the time when the report will be submitted.”
 
-Subsec. (f). Pub. L. 114–328, § 532(a)(1), substituted “Substantiated Violations” for “Violations” in heading.
+Subsec. (f). Pub. L. 114–328, § 532(a)(1), substituted “Substantiated Violations” for “Violations” in heading.
 
-Subsec. (f)(1). Pub. L. 114–328, § 532(a)(2), substituted “corrective or disciplinary action should be taken. If the Secretary concerned determines that corrective or disciplinary action should be taken, the Secretary shall take appropriate corrective or disciplinary action.” for “there is sufficient basis to conclude whether a personnel action prohibited by subsection (b) has occurred.”
+Subsec. (f)(1). Pub. L. 114–328, § 532(a)(2), substituted “corrective or disciplinary action should be taken. If the Secretary concerned determines that corrective or disciplinary action should be taken, the Secretary shall take appropriate corrective or disciplinary action.” for “there is sufficient basis to conclude whether a personnel action prohibited by subsection (b) has occurred.”
 
-Subsec. (f)(2). Pub. L. 114–328, § 532(b)(1), substituted “the Inspector General determines” for “the Secretary concerned determines under paragraph (1)” and “the Secretary concerned shall” for “the Secretary shall” in introductory provisions.
+Subsec. (f)(2). Pub. L. 114–328, § 532(b)(1), substituted “the Inspector General determines” for “the Secretary concerned determines under paragraph (1)” and “the Secretary concerned shall” for “the Secretary shall” in introductory provisions.
 
-Subsec. (f)(2)(A). Pub. L. 114–328, § 532(b)(2), inserted before semicolon “, including referring the report to the appropriate board for the correction of military records”.
+Subsec. (f)(2)(A). Pub. L. 114–328, § 532(b)(2), inserted before semicolon “, including referring the report to the appropriate board for the correction of military records”.
 
-Subsec. (f)(2)(B). Pub. L. 114–328, § 532(b)(3), added subpar. (B) and struck out former subpar. (B) which read as follows: “take any appropriate disciplinary action against the individual who committed such prohibited personnel action.”
+Subsec. (f)(2)(B). Pub. L. 114–328, § 532(b)(3), added subpar. (B) and struck out former subpar. (B) which read as follows: “take any appropriate disciplinary action against the individual who committed such prohibited personnel action.”
 
-Subsec. (g)(2). Pub. L. 114–328, § 531(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In resolving an application described in paragraph (1), a correction board—
+Subsec. (g)(2). Pub. L. 114–328, § 531(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In resolving an application described in paragraph (1), a correction board—
 
 “(A) shall review the report of the Inspector General submitted under subsection (e)(1);
 
@@ -735,31 +735,31 @@ Subsec. (g)(2). Pub. L. 114–328, § 531(d), amended par. (2) generally. Prio
 
 “(C) may receive oral argument, examine and cross-examine witnesses, take depositions, and, if appropriate, conduct an evidentiary hearing.”
 
-2013—Subsec. (b)(1). Pub. L. 113–66, § 1714(a)(1)(A), substituted “preparing or being perceived as making or preparing—” for “preparing—” in introductory provisions.
+2013—Subsec. (b)(1). Pub. L. 113–66, § 1714(a)(1)(A), substituted “preparing or being perceived as making or preparing—” for “preparing—” in introductory provisions.
 
-Subsec. (b)(1)(B)(v), (vi). Pub. L. 113–66, § 1714(a)(1)(C), added cl. (v) and redesignated former cl. (v) as (vi).
+Subsec. (b)(1)(B)(v), (vi). Pub. L. 113–66, § 1714(a)(1)(C), added cl. (v) and redesignated former cl. (v) as (vi).
 
-Subsec. (b)(1)(C). Pub. L. 113–66, § 1714(a)(1)(B), (C)(ii), (D), added subpar. (C).
+Subsec. (b)(1)(C). Pub. L. 113–66, § 1714(a)(1)(B), (C)(ii), (D), added subpar. (C).
 
-Subsec. (b)(2). Pub. L. 113–66, § 1714(a)(2), substituted a comma for “and” after “unfavorable action” and inserted “, or making or threatening to make a significant change in the duties or responsibilities of a member of the armed forces not commensurate with the member’s grade” after “favorable action”.
+Subsec. (b)(2). Pub. L. 113–66, § 1714(a)(2), substituted a comma for “and” after “unfavorable action” and inserted “, or making or threatening to make a significant change in the duties or responsibilities of a member of the armed forces not commensurate with the member’s grade” after “favorable action”.
 
-Subsec. (c)(1). Pub. L. 113–66, § 1714(b)(1), substituted “paragraph (4)” for “paragraph (3)”.
+Subsec. (c)(1). Pub. L. 113–66, § 1714(b)(1), substituted “paragraph (4)” for “paragraph (3)”.
 
-Subsec. (c)(2)(A). Pub. L. 113–66, § 1715, substituted “rape, sexual assault, or other sexual misconduct in violation of sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice), sexual harassment, or” for “sexual harassment or”.
+Subsec. (c)(2)(A). Pub. L. 113–66, § 1715, substituted “rape, sexual assault, or other sexual misconduct in violation of sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice), sexual harassment, or” for “sexual harassment or”.
 
-Subsec. (c)(3) to (6). Pub. L. 113–66, § 1714(b)(2)–(5), added par. (3), redesignated former pars. (3) to (5) as (4) to (6), respectively, in par. (5), substituted “paragraph (4)(A)” for “paragraph (3)(A)”, “paragraph (4)(D)” for “paragraph (3)(D)”, and “one year” for “60 days”, and in par. (6), substituted “one or both of the following:” and subpars. (A) and (B) for “outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
+Subsec. (c)(3) to (6). Pub. L. 113–66, § 1714(b)(2)–(5), added par. (3), redesignated former pars. (3) to (5) as (4) to (6), respectively, in par. (5), substituted “paragraph (4)(A)” for “paragraph (3)(A)”, “paragraph (4)(D)” for “paragraph (3)(D)”, and “one year” for “60 days”, and in par. (6), substituted “one or both of the following:” and subpars. (A) and (B) for “outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
 
-Subsec. (d). Pub. L. 113–66, § 1714(c), substituted “subparagraph (A), (B), or (C) of subsection (c)(2)” for “subparagraph (A) or (B) of subsection (c)(2)”.
+Subsec. (d). Pub. L. 113–66, § 1714(c), substituted “subparagraph (A), (B), or (C) of subsection (c)(2)” for “subparagraph (A) or (B) of subsection (c)(2)”.
 
-Subsec. (e)(1). Pub. L. 113–66, § 1714(d)(1), substituted “subsection (c)(4)(E)” for “subsection (c)(3)(E)” in two places and “transmitted to such Secretaries” for “transmitted to the Secretary” and inserted “and the Secretary of the military department concerned” after “the Secretary of Defense”.
+Subsec. (e)(1). Pub. L. 113–66, § 1714(d)(1), substituted “subsection (c)(4)(E)” for “subsection (c)(3)(E)” in two places and “transmitted to such Secretaries” for “transmitted to the Secretary” and inserted “and the Secretary of the military department concerned” after “the Secretary of Defense”.
 
-Subsec. (e)(3). Pub. L. 113–66, § 1714(d)(2), inserted “and the Secretary of the military department concerned” after “the Secretary of Defense” in introductory provisions.
+Subsec. (e)(3). Pub. L. 113–66, § 1714(d)(2), inserted “and the Secretary of the military department concerned” after “the Secretary of Defense” in introductory provisions.
 
-Subsec. (f). Pub. L. 113–66, § 1714(e)(2), added subsec. (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 113–66, § 1714(e)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 113–66, § 1714(e)(1), (f), redesignated subsec. (f) as (g), and in par. (3), substituted “board holds” for “board elects to hold” in introductory provisions and “the member or former member would benefit from” for “the case is unusually complex or otherwise requires” in subpar. (A)(ii). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 113–66, § 1714(e)(1), (f), redesignated subsec. (f) as (g), and in par. (3), substituted “board holds” for “board elects to hold” in introductory provisions and “the member or former member would benefit from” for “the case is unusually complex or otherwise requires” in subpar. (A)(ii). Former subsec. (g) redesignated (h).
 
-Subsecs. (h) to (j). Pub. L. 113–66, § 1714(e)(1), redesignated subsecs. (g) to (i) as (h) to (j), respectively.
+Subsecs. (h) to (j). Pub. L. 113–66, § 1714(e)(1), redesignated subsecs. (g) to (i) as (h) to (j), respectively.
 
 2011—Subsec. (c)(2)(C). Pub. L. 112–81 added subpar. (C).
 
@@ -769,11 +769,11 @@ Subsecs. (h) to (j). Pub. L. 113–66, § 1714(e)(1), redesignated subsecs. (g
 
 2002—Subsecs. (c)(5), (e)(1), (3), (h), (i)(2)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2000—Subsec. (c)(3)(A). Pub. L. 106–398, § 1 [[div. A], title IX, § 903(a)], inserted “, in accordance with regulations prescribed under subsection (h),” after “shall expeditiously determine”.
+2000—Subsec. (c)(3)(A). Pub. L. 106–398, § 1 [[div. A], title IX, § 903(a)], inserted “, in accordance with regulations prescribed under subsection (h),” after “shall expeditiously determine”.
 
-Subsec. (i)(2). Pub. L. 106–398, § 1 [[div. A], title IX, § 903(b)(1)], inserted “any of” after “means” in introductory provisions.
+Subsec. (i)(2). Pub. L. 106–398, § 1 [[div. A], title IX, § 903(b)(1)], inserted “any of” after “means” in introductory provisions.
 
-Subsec. (i)(2)(C) to (G). Pub. L. 106–398, § 1 [[div. A], title IX, § 903(b)(2), (3)], added subpar. (C) and struck out former subpars. (C) to (G) which read as follows:
+Subsec. (i)(2)(C) to (G). Pub. L. 106–398, § 1 [[div. A], title IX, § 903(b)(2), (3)], added subpar. (C) and struck out former subpars. (C) to (G) which read as follows:
 
 “(C) The Inspector General of the Army, in the case of a member of the Army.
 
@@ -785,79 +785,79 @@ Subsec. (i)(2)(C) to (G). Pub. L. 106–398, § 1 [[div. A], title IX, § 90
 
 “(G) An officer of the armed forces assigned or detailed under regulations of the Secretary concerned to serve as an Inspector General at any command level in one of the armed forces.”
 
-1998—Subsec. (b)(1)(B)(ii). Pub. L. 105–261, § 933(f)(2), substituted “subsection (i)) or any other Inspector General appointed under the Inspector General Act of 1978” for “subsection (j))”.
+1998—Subsec. (b)(1)(B)(ii). Pub. L. 105–261, § 933(f)(2), substituted “subsection (i)) or any other Inspector General appointed under the Inspector General Act of 1978” for “subsection (j))”.
 
-Subsec. (c)(1). Pub. L. 105–261, § 933(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “If a member of the armed forces submits to the Inspector General of the Department of Defense (or the Inspector General of the Department of Transportation, in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall expeditiously investigate the allegation. If, in the case of an allegation submitted to the Inspector General of the Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector general conducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
+Subsec. (c)(1). Pub. L. 105–261, § 933(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “If a member of the armed forces submits to the Inspector General of the Department of Defense (or the Inspector General of the Department of Transportation, in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall expeditiously investigate the allegation. If, in the case of an allegation submitted to the Inspector General of the Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector general conducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
 
-Subsec. (c)(2)(B). Pub. L. 105–261, § 933(b), substituted “Gross mismanagement” for “Mismanagement”.
+Subsec. (c)(2)(B). Pub. L. 105–261, § 933(b), substituted “Gross mismanagement” for “Mismanagement”.
 
-Subsec. (c)(3) to (5). Pub. L. 105–261, § 933(a)(1)(B), added pars. (3) to (5) and struck out former par. (3) which read as follows: “The Inspector General is not required to make an investigation under paragraph (1) in the case of an allegation made more than 60 days after the date on which the member becomes aware of the personnel action that is the subject of the allegation.”
+Subsec. (c)(3) to (5). Pub. L. 105–261, § 933(a)(1)(B), added pars. (3) to (5) and struck out former par. (3) which read as follows: “The Inspector General is not required to make an investigation under paragraph (1) in the case of an allegation made more than 60 days after the date on which the member becomes aware of the personnel action that is the subject of the allegation.”
 
-Subsec. (d). Pub. L. 105–261, § 933(a)(2), inserted “receiving the allegation” after “, the Inspector General” and “In the case of an allegation received by the Inspector General of the Department of Defense, the Inspector General may delegate that responsibility to the Inspector General of the armed force concerned.” at end.
+Subsec. (d). Pub. L. 105–261, § 933(a)(2), inserted “receiving the allegation” after “, the Inspector General” and “In the case of an allegation received by the Inspector General of the Department of Defense, the Inspector General may delegate that responsibility to the Inspector General of the armed force concerned.” at end.
 
-Subsec. (e)(1). Pub. L. 105–261, § 933(c)(1), substituted “After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E), the Inspector General conducting the investigation shall submit a report on” for “Not later than 30 days after completion of an investigation under subsection (c) or (d), the Inspector General shall submit a report on” and inserted “shall transmit a copy of the report on the results of the investigation to” before “the member of the armed forces” and “The report shall be transmitted to the Secretary, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E).” at end.
+Subsec. (e)(1). Pub. L. 105–261, § 933(c)(1), substituted “After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E), the Inspector General conducting the investigation shall submit a report on” for “Not later than 30 days after completion of an investigation under subsection (c) or (d), the Inspector General shall submit a report on” and inserted “shall transmit a copy of the report on the results of the investigation to” before “the member of the armed forces” and “The report shall be transmitted to the Secretary, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E).” at end.
 
-Subsec. (e)(2). Pub. L. 105–261, § 933(c)(2), substituted “transmitted” for “submitted” and inserted at end “However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items is made before or after the copy of the report is transmitted to the member.”
+Subsec. (e)(2). Pub. L. 105–261, § 933(c)(2), substituted “transmitted” for “submitted” and inserted at end “However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items is made before or after the copy of the report is transmitted to the member.”
 
-Subsec. (e)(3). Pub. L. 105–261, § 933(c)(3), substituted “180 days” for “90 days”.
+Subsec. (e)(3). Pub. L. 105–261, § 933(c)(3), substituted “180 days” for “90 days”.
 
-Subsec. (h). Pub. L. 105–261, § 933(f)(1), redesignated subsec. (i) as (h).
+Subsec. (h). Pub. L. 105–261, § 933(f)(1), redesignated subsec. (i) as (h).
 
-Pub. L. 105–261, § 933(d), struck out heading and text of subsec. (h). Text read as follows: “After disposition of any case under this section, the Inspector General shall, whenever possible, conduct an interview with the person making the allegation to determine the views of that person on the disposition of the matter.”
+Pub. L. 105–261, § 933(d), struck out heading and text of subsec. (h). Text read as follows: “After disposition of any case under this section, the Inspector General shall, whenever possible, conduct an interview with the person making the allegation to determine the views of that person on the disposition of the matter.”
 
-Subsec. (i). Pub. L. 105–261, § 933(f)(1), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+Subsec. (i). Pub. L. 105–261, § 933(f)(1), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
-Subsec. (j). Pub. L. 105–261, § 933(f)(1), redesignated subsec. (j) as (i).
+Subsec. (j). Pub. L. 105–261, § 933(f)(1), redesignated subsec. (j) as (i).
 
-Subsec. (j)(2). Pub. L. 105–261, § 933(e), substituted “means the following:” for “means—” in introductory provisions, added subpars. (A) to (F), redesignated former subpar. (B) as (G) and substituted “An officer” for “an officer” in that subpar., and struck out former subpar. (A) which read as follows: “an Inspector General appointed under the Inspector General Act of 1978; and”.
+Subsec. (j)(2). Pub. L. 105–261, § 933(e), substituted “means the following:” for “means—” in introductory provisions, added subpars. (A) to (F), redesignated former subpar. (B) as (G) and substituted “An officer” for “an officer” in that subpar., and struck out former subpar. (A) which read as follows: “an Inspector General appointed under the Inspector General Act of 1978; and”.
 
-1994—Pub. L. 103–337, § 531(g)(1), substituted “Protected communications” for “Communicating with a Member of Congress or Inspector General” in section catchline.
+1994—Pub. L. 103–337, § 531(g)(1), substituted “Protected communications” for “Communicating with a Member of Congress or Inspector General” in section catchline.
 
-Subsec. (b). Pub. L. 103–337, § 531(a), inserted “(1)” before “No person may take”, substituted “or preparing—” for “or preparing a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted.”, added subpars. (A) and (B), inserted “(2)” before “Any action prohibited”, and substituted “paragraph (1)” for “the preceding sentence”.
+Subsec. (b). Pub. L. 103–337, § 531(a), inserted “(1)” before “No person may take”, substituted “or preparing—” for “or preparing a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted.”, added subpars. (A) and (B), inserted “(2)” before “Any action prohibited”, and substituted “paragraph (1)” for “the preceding sentence”.
 
-Subsec. (c). Pub. L. 103–337, § 531(b)(3), substituted “Allegations of Prohibited Personnel Actions” for “Certain Allegations” in heading.
+Subsec. (c). Pub. L. 103–337, § 531(b)(3), substituted “Allegations of Prohibited Personnel Actions” for “Certain Allegations” in heading.
 
-Subsec. (c)(1). Pub. L. 103–337, § 531(b)(1), inserted at end “If, in the case of an allegation submitted to the Inspector General of the Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector general conducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
+Subsec. (c)(1). Pub. L. 103–337, § 531(b)(1), inserted at end “If, in the case of an allegation submitted to the Inspector General of the Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector general conducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
 
-Subsec. (c)(2). Pub. L. 103–337, § 531(b)(2), added par. (2) and struck out former par. (2) which read as follows: “A communication described in this paragraph is a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted in which the member of the armed forces makes a complaint or discloses information that the member reasonably believes constitutes evidence of—
+Subsec. (c)(2). Pub. L. 103–337, § 531(b)(2), added par. (2) and struck out former par. (2) which read as follows: “A communication described in this paragraph is a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted in which the member of the armed forces makes a complaint or discloses information that the member reasonably believes constitutes evidence of—
 
 “(A) a violation of a law or regulation; or
 
 “(B) mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.”
 
-Subsec. (c)(4). Pub. L. 103–337, § 531(c)(2), struck out par. (4) which read as follows: “If the Inspector General has not already done so, the Inspector General shall commence a separate investigation of the information that the member believes evidences wrongdoing as described in subparagraph (A) or (B) of paragraph (2). The Inspector General is not required to make such an investigation if the information that the member believes evidences wrongdoing relates to actions which took place during combat.”
+Subsec. (c)(4). Pub. L. 103–337, § 531(c)(2), struck out par. (4) which read as follows: “If the Inspector General has not already done so, the Inspector General shall commence a separate investigation of the information that the member believes evidences wrongdoing as described in subparagraph (A) or (B) of paragraph (2). The Inspector General is not required to make such an investigation if the information that the member believes evidences wrongdoing relates to actions which took place during combat.”
 
-Subsec. (c)(5). Pub. L. 103–337, § 531(d)(1), redesignated subsec. (c)(5) as subsec. (e)(1).
+Subsec. (c)(5). Pub. L. 103–337, § 531(d)(1), redesignated subsec. (c)(5) as subsec. (e)(1).
 
-Subsec. (c)(6), (7). Pub. L. 103–337, § 531(d)(4), redesignated subsec. (c)(6) and (7) as subsec. (e)(3) and (4), respectively.
+Subsec. (c)(6), (7). Pub. L. 103–337, § 531(d)(4), redesignated subsec. (c)(6) and (7) as subsec. (e)(3) and (4), respectively.
 
-Subsec. (d). Pub. L. 103–337, § 531(c)(2), added subsec. (d). Former subsec. (d) redesignated (f).
+Subsec. (d). Pub. L. 103–337, § 531(c)(2), added subsec. (d). Former subsec. (d) redesignated (f).
 
-Subsec. (e). Pub. L. 103–337, § 531(d)(1), redesignated subsec. (c)(5) as subsec. (e) and inserted subsec. heading and par. (1) designation before “Not later than 30 days”. Former subsec. (e) redesignated (g).
+Subsec. (e). Pub. L. 103–337, § 531(d)(1), redesignated subsec. (c)(5) as subsec. (e) and inserted subsec. heading and par. (1) designation before “Not later than 30 days”. Former subsec. (e) redesignated (g).
 
-Subsec. (e)(1). Pub. L. 103–337, § 531(d)(2), substituted “subsection (c) or (d)” for “this subsection” and “the member of the armed forces who made the allegation investigated” for “the member of the armed forces concerned” and struck out at end “In the copy of the report submitted to the member, the Inspector General may exclude any information that would not otherwise be available to the member under section 552 of title 5.”
+Subsec. (e)(1). Pub. L. 103–337, § 531(d)(2), substituted “subsection (c) or (d)” for “this subsection” and “the member of the armed forces who made the allegation investigated” for “the member of the armed forces concerned” and struck out at end “In the copy of the report submitted to the member, the Inspector General may exclude any information that would not otherwise be available to the member under section 552 of title 5.”
 
-Subsec. (e)(2). Pub. L. 103–337, § 531(d)(3), added par. (2).
+Subsec. (e)(2). Pub. L. 103–337, § 531(d)(3), added par. (2).
 
-Subsec. (e)(3). Pub. L. 103–337, § 531(d)(4), (5), redesignated subsec. (c)(6) as subsec. (e)(3) and substituted “paragraph (1)” for “paragraph (5)”.
+Subsec. (e)(3). Pub. L. 103–337, § 531(d)(4), (5), redesignated subsec. (c)(6) as subsec. (e)(3) and substituted “paragraph (1)” for “paragraph (5)”.
 
-Subsec. (e)(4). Pub. L. 103–337, § 531(d)(4), redesignated subsec. (c)(7) as subsec. (e)(4).
+Subsec. (e)(4). Pub. L. 103–337, § 531(d)(4), redesignated subsec. (c)(7) as subsec. (e)(4).
 
-Subsec. (f). Pub. L. 103–337, § 531(c)(1), (f)(1), redesignated subsec. (d) as (f) and substituted “subsection (e)(1)” for “subsection (c)(5)” in pars. (2)(A), (3)(A)(i) and (B). Former subsec. (f) redesignated (h).
+Subsec. (f). Pub. L. 103–337, § 531(c)(1), (f)(1), redesignated subsec. (d) as (f) and substituted “subsection (e)(1)” for “subsection (c)(5)” in pars. (2)(A), (3)(A)(i) and (B). Former subsec. (f) redesignated (h).
 
-Subsec. (g). Pub. L. 103–337, § 531(c)(1), (f)(2), redesignated subsec. (e) as (g) and substituted “subsection (f)” for “subsection (d)”. Former subsec. (g) redesignated (i).
+Subsec. (g). Pub. L. 103–337, § 531(c)(1), (f)(2), redesignated subsec. (e) as (g) and substituted “subsection (f)” for “subsection (d)”. Former subsec. (g) redesignated (i).
 
-Subsecs. (h), (i). Pub. L. 103–337, § 531(c)(1), redesignated subsecs. (f) and (g) as (h) and (i), respectively. Former subsec. (h) redesignated (j).
+Subsecs. (h), (i). Pub. L. 103–337, § 531(c)(1), redesignated subsecs. (f) and (g) as (h) and (i), respectively. Former subsec. (h) redesignated (j).
 
-Subsec. (j). Pub. L. 103–337, § 531(c)(1), (e), redesignated subsec. (h) as (j) and added par. (3).
+Subsec. (j). Pub. L. 103–337, § 531(c)(1), (e), redesignated subsec. (h) as (j) and added par. (3).
 
-1989—Subsec. (c)(1). Pub. L. 101–225, § 202(1), inserted “when the Coast Guard is not operating as a service in the Navy” after “Coast Guard”.
+1989—Subsec. (c)(1). Pub. L. 101–225, § 202(1), inserted “when the Coast Guard is not operating as a service in the Navy” after “Coast Guard”.
 
-Subsec. (c)(5). Pub. L. 101–225, § 202(2), inserted “(or to the Secretary of Transportation in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Secretary of Defense”.
+Subsec. (c)(5). Pub. L. 101–225, § 202(2), inserted “(or to the Secretary of Transportation in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Secretary of Defense”.
 
-Subsec. (c)(6). Pub. L. 101–225, § 202(3), inserted “(or to the Secretary of Transportation in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Secretary of Defense”.
+Subsec. (c)(6). Pub. L. 101–225, § 202(3), inserted “(or to the Secretary of Transportation in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Secretary of Defense”.
 
-Subsec. (e). Pub. L. 101–225, § 202(4), inserted “(except for a member or former member of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “armed forces”.
+Subsec. (e). Pub. L. 101–225, § 202(4), inserted “(except for a member or former member of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “armed forces”.
 
 1988—Pub. L. 100–456 substituted “Communicating with a Member of Congress or Inspector General; prohibition of retaliatory personnel actions” for “Communicating with a Member of Congress” in section catchline, and amended text generally. Prior to amendment, text read as follows: “No person may restrict any member of an armed force in communicating with a Member of Congress, unless the communication is unlawful or violates a regulation necessary to the security of the United States.”
 
@@ -867,15 +867,15 @@ Subsec. (e). Pub. L. 101–225, § 202(4), inserted “(except for a member or
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title V, § 532(c), Dec. 23, 2016, 130 Stat. 2121, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 23, 2016], and shall apply with respect to reports received by the Secretaries of the military departments and the Secretary of Homeland Security under section 1034(e) of title 10, United States Code, on or after that date.”
+Pub. L. 114–328, div. A, title V, § 532(c), Dec. 23, 2016, 130 Stat. 2121, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 23, 2016], and shall apply with respect to reports received by the Secretaries of the military departments and the Secretary of Homeland Security under section 1034(e) of title 10, United States Code, on or after that date.”
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–375, div. A, title V, § 591(b), Oct. 28, 2004, 118 Stat. 1933, provided that: “The amendments made by this section [amending this section] apply with respect to any unfavorable personnel action taken or threatened, and any withholding of or threat to withhold a favorable personnel action, on or after the date of the enactment of this Act [Oct. 28, 2004].”
+Pub. L. 108–375, div. A, title V, § 591(b), Oct. 28, 2004, 118 Stat. 1933, provided that: “The amendments made by this section [amending this section] apply with respect to any unfavorable personnel action taken or threatened, and any withholding of or threat to withhold a favorable personnel action, on or after the date of the enactment of this Act [Oct. 28, 2004].”
 
 **Effective Date of 2002 Amendment**
 
@@ -883,21 +883,21 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–456, div. A, title VIII, § 846(d), Sept. 29, 1988, 102 Stat. 2030, provided that: “The amendment to section 1034 of title 10, United States Code, made by subsection (a)(1), shall apply with respect to any personnel action taken (or threatened to be taken) on or after the date of the enactment of this Act [Sept. 29, 1988] as a reprisal prohibited by subsection (b) of that section.”
+Pub. L. 100–456, div. A, title VIII, § 846(d), Sept. 29, 1988, 102 Stat. 2030, provided that: “The amendment to section 1034 of title 10, United States Code, made by subsection (a)(1), shall apply with respect to any personnel action taken (or threatened to be taken) on or after the date of the enactment of this Act [Sept. 29, 1988] as a reprisal prohibited by subsection (b) of that section.”
 
 **Regulations**
 
-Pub. L. 103–337, div. A, title V, § 531(h), (i), Oct. 5, 1994, 108 Stat. 2758, provided that:
+Pub. L. 103–337, div. A, title V, § 531(h), (i), Oct. 5, 1994, 108 Stat. 2758, provided that:
 
 > **“(h) Deadline for Regulations.—** The Secretary of Defense and the Secretary of Transportation shall prescribe regulations to implement the amendments made by this section [amending this section] not later than 120 days after the date of the enactment of this Act [Oct. 5, 1994].
 
 > **“(i) Content of Regulations.—** In prescribing regulations under section 1034 of title 10, United States Code, as amended by this section, the Secretary of Defense and the Secretary of Transportation shall provide for appropriate procedural protections for the subject of any investigation carried out under the provisions of that section, including a process for appeal and review of investigative findings.”
 
-Pub. L. 100–456, div. A, title VIII, § 846(b), Sept. 29, 1988, 102 Stat. 2030, provided that: “The Secretary of Defense and the Secretary of Transportation shall prescribe the regulations required by subsection (g) [now (i)] of section 1034 of title 10, United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act [Sept. 29, 1988].”
+Pub. L. 100–456, div. A, title VIII, § 846(b), Sept. 29, 1988, 102 Stat. 2030, provided that: “The Secretary of Defense and the Secretary of Transportation shall prescribe the regulations required by subsection (g) [now (i)] of section 1034 of title 10, United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act [Sept. 29, 1988].”
 
 **Uniform Standards for Inspector General Investigations of Prohibited Personnel Actions and Other Matters**
 
-Pub. L. 114–328, div. A, title V, § 531(e), Dec. 23, 2016, 130 Stat. 2120, provided that:
+Pub. L. 114–328, div. A, title V, § 531(e), Dec. 23, 2016, 130 Stat. 2120, provided that:
 
 > **“(1) In general.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2016], the Inspector General of the Department of Defense shall prescribe uniform standards for the following:
 
@@ -909,7 +909,7 @@ Pub. L. 114–328, div. A, title V, § 531(e), Dec. 23, 2016, 130 Stat. 2120, 
 
 **Notice to Congress of Certain Department of Defense Nondisclosure Agreements**
 
-Pub. L. 112–239, div. A, title X, § 1054, Jan. 2, 2013, 126 Stat. 1937, provided that:
+Pub. L. 112–239, div. A, title X, § 1054, Jan. 2, 2013, 126 Stat. 1937, provided that:
 
 > **“(a) Notice Required.—** The Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] notice of any request or requirement for members of the Armed Forces or civilian employees of the Department of Defense to enter into nondisclosure agreements that could restrict the ability of such members or employees to communicate with Congress. Each such notice shall include the following:
 
@@ -929,7 +929,7 @@ Pub. L. 112–239, div. A, title X, § 1054, Jan. 2, 2013, 126 Stat. 1937, pro
 
 **Whistleblower Protections for Members of Armed Forces**
 
-Pub. L. 102–190, div. A, title VIII, § 843, Dec. 5, 1991, 105 Stat. 1449, provided that:
+Pub. L. 102–190, div. A, title VIII, § 843, Dec. 5, 1991, 105 Stat. 1449, provided that:
 
 > **“(a) Regulations Required.—** The Secretary of Defense shall prescribe regulations prohibiting members of the Armed Forces from taking or threatening to take any unfavorable personnel action, or withholding or threatening to withhold a favorable personnel action, as a reprisal against any member of the Armed Forces for making or preparing a lawful communication to any employee of the Department of Defense or any member of the Armed Forces who is assigned to or belongs to an organization which has as its primary responsibility audit, inspection, investigation, or enforcement of any law or regulation.
 
@@ -939,9 +939,9 @@ Pub. L. 102–190, div. A, title VIII, § 843, Dec. 5, 1991, 105 Stat. 1449, p
 
 **Report on Activities of Inspector General**
 
-Pub. L. 100–456, div. A, title VIII, § 846(c), Sept. 29, 1988, 102 Stat. 2030, directed Inspector General of Department of Defense (and Inspector General of Department of Transportation with respect to Coast Guard) to submit, not later than Feb. 1, 1990, a report to Congress on activities of Inspector General under this section, with that report to include, in the case of each case handled by Inspector General under this section, a description of (A) nature of allegation described in subsec. (c) of this section; (B) evaluation and recommendation of Inspector General with respect to allegation; (C) any action of appropriate board for correction of military records with respect to allegation; (D) if allegation was determined to be meritorious, any corrective action taken; and (E) views of member or former member of armed forces making allegation (determined on basis of interview under subsec. (f) of this section) on disposition of case.
+Pub. L. 100–456, div. A, title VIII, § 846(c), Sept. 29, 1988, 102 Stat. 2030, directed Inspector General of Department of Defense (and Inspector General of Department of Transportation with respect to Coast Guard) to submit, not later than Feb. 1, 1990, a report to Congress on activities of Inspector General under this section, with that report to include, in the case of each case handled by Inspector General under this section, a description of (A) nature of allegation described in subsec. (c) of this section; (B) evaluation and recommendation of Inspector General with respect to allegation; (C) any action of appropriate board for correction of military records with respect to allegation; (D) if allegation was determined to be meritorious, any corrective action taken; and (E) views of member or former member of armed forces making allegation (determined on basis of interview under subsec. (f) of this section) on disposition of case.
 
-## § 1035. Deposits of savings
+## § 1035. Deposits of savings
 
 **(a)** Under joint regulations prescribed by the Secretaries concerned, a member of the armed forces who is on a permanent duty assignment outside the United States or its possessions may deposit during that tour of duty not more than his unallotted current pay and allowances in amounts of $5 or more, with any branch, office, or officer of a uniformed service. Amounts so deposited shall be deposited in the Treasury and kept as a separate fund, and shall be accounted for in the same manner as public funds.
 
@@ -963,13 +963,13 @@ Pub. L. 100–456, div. A, title VIII, § 846(c), Sept. 29, 1988, 102 Stat. 20
 
 **(3)** The term “Persian Gulf conflict” means the period beginning on January 16, 1991, and ending on the date thereafter prescribed by Presidential proclamation or by law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 89–538, § 1(1), Aug. 14, 1966, 80 Stat. 347; Pub. L. 90–122, § 1, Nov. 3, 1967, 81 Stat. 361; Pub. L. 91–200, Feb. 26, 1970, 84 Stat. 16; Pub. L. 98–525, title XIV, § 1405(20), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–661, div. A, title XIII, § 1343(a)(3), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 102–25, title III, § 310, Apr. 6, 1991, 105 Stat. 84; Pub. L. 102–190, div. A, title VI, § 639, Dec. 5, 1991, 105 Stat. 1384.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 89–538, § 1(1), Aug. 14, 1966, 80 Stat. 347; Pub. L. 90–122, § 1, Nov. 3, 1967, 81 Stat. 361; Pub. L. 91–200, Feb. 26, 1970, 84 Stat. 16; Pub. L. 98–525, title XIV, § 1405(20), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–661, div. A, title XIII, § 1343(a)(3), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 102–25, title III, § 310, Apr. 6, 1991, 105 Stat. 84; Pub. L. 102–190, div. A, title VI, § 639, Dec. 5, 1991, 105 Stat. 1384.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1035(a) | 10:908(a) (less words after last semicolon). 34:937 (less words after last semicolon). | July 15, 1954, ch. 513, §§ 1–3, 68 Stat. 485. |
+| 1035(a) | 10:908(a) (less words after last semicolon). 34:937 (less words after last semicolon). | July 15, 1954, ch. 513, §§ 1–3, 68 Stat. 485. |
 | 1035(b) | 10:908b (1st 20, and last 13, words). |  |
 |  | 34:938 (1st 20, and last 13, words). |  |
 | 1035(c) | 10:908a (words after last semicolon). |  |
@@ -989,17 +989,17 @@ In subsection (c), the words “not less than $5” are omitted as surplusage.
 
 **Amendments**
 
-1991—Subsec. (b). Pub. L. 102–190, § 639(a), substituted “, the Persian Gulf conflict, or a contingency operation” for “or during the Persian Gulf conflict” before period at end of second sentence and struck out at end “For purposes of this subsection, the Vietnam conflict begins on February 28, 1961, and ends on May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law.”
+1991—Subsec. (b). Pub. L. 102–190, § 639(a), substituted “, the Persian Gulf conflict, or a contingency operation” for “or during the Persian Gulf conflict” before period at end of second sentence and struck out at end “For purposes of this subsection, the Vietnam conflict begins on February 28, 1961, and ends on May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law.”
 
-Pub. L. 102–25, § 310(a), (c)(1), struck out “, as defined in section 551(2) of title 37,” after “missing status”, inserted “or during the Persian Gulf conflict” before period at end of second sentence, and substituted “May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law” for “the date designated by the President by Executive order as the date of the termination of combatant activities in Vietnam”.
+Pub. L. 102–25, § 310(a), (c)(1), struck out “, as defined in section 551(2) of title 37,” after “missing status”, inserted “or during the Persian Gulf conflict” before period at end of second sentence, and substituted “May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law” for “the date designated by the President by Executive order as the date of the termination of combatant activities in Vietnam”.
 
-Subsec. (e). Pub. L. 102–25, § 310(c)(2), struck out “(as defined in section 551(2) of title 37)” after “in a missing status”.
+Subsec. (e). Pub. L. 102–25, § 310(c)(2), struck out “(as defined in section 551(2) of title 37)” after “in a missing status”.
 
-Subsec. (f). Pub. L. 102–190, § 639(b), added subsec. (f) and redesignated former subsec. (f) as (g).
+Subsec. (f). Pub. L. 102–190, § 639(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-Pub. L. 102–25, § 310(b), added subsec. (f).
+Pub. L. 102–25, § 310(b), added subsec. (f).
 
-Subsec. (g). Pub. L. 102–190, § 639(b)(1), (c), redesignated subsec. (f) as (g) and amended it generally. Prior to amendment, subsec. (g) read as follows: “In this section, the term ‘missing status’ has the meaning given such term in section 551(2) of title 37.”
+Subsec. (g). Pub. L. 102–190, § 639(b)(1), (c), redesignated subsec. (f) as (g) and amended it generally. Prior to amendment, subsec. (g) read as follows: “In this section, the term ‘missing status’ has the meaning given such term in section 551(2) of title 37.”
 
 1986—Subsec. (a). Pub. L. 99–661 substituted “armed forces” for “armed force”.
 
@@ -1021,11 +1021,11 @@ Subsec. (d). Pub. L. 89–538 reenacted subsec. (d) substantially without change
 
 **Effective Date of 1967 Amendment**
 
-Pub. L. 90–122, § 2, Nov. 3, 1967, 81 Stat. 361, provided that: “This Act [amending this section] becomes effective as of September 1, 1966.”
+Pub. L. 90–122, § 2, Nov. 3, 1967, 81 Stat. 361, provided that: “This Act [amending this section] becomes effective as of September 1, 1966.”
 
 **Savings Program for Overseas Personnel**
 
-Pub. L. 101–510, div. A, title XI, § 1114, Nov. 5, 1990, 104 Stat. 1636, as amended by Pub. L. 102–25, title III, § 314(1), (3), Apr. 6, 1991, 105 Stat. 86, directed the Secretary of Defense to prescribe regulations establishing standards and procedures for the administration of a program to authorize members of the Armed Forces serving outside the United States during the Persian Gulf conflict to make deposits of unallotted current pay and allowances and to earn interest under this section.
+Pub. L. 101–510, div. A, title XI, § 1114, Nov. 5, 1990, 104 Stat. 1636, as amended by Pub. L. 102–25, title III, § 314(1), (3), Apr. 6, 1991, 105 Stat. 86, directed the Secretary of Defense to prescribe regulations establishing standards and procedures for the administration of a program to authorize members of the Armed Forces serving outside the United States during the Persian Gulf conflict to make deposits of unallotted current pay and allowances and to earn interest under this section.
 
 **Adjustment of Deposit Accounts of Certain Enlisted Men**
 
@@ -1041,9 +1041,9 @@ Pub. L. 89–738, Nov. 2, 1966, 80 Stat. 1165, provided:
 
 > All payments heretofore made which would, but for the fact of such payment, be payable under this Act are validated. However, if such a payment has been repaid to the United States, the fact of payment shall not affect entitlement under this Act.”
 
-**Rates of Interest on Deposits Made Before Aug. 14, 1966**
+**Rates of Interest on Deposits Made Before Aug. 14, 1966**
 
-Pub. L. 89–538, § 2, Aug. 14, 1966, 80 Stat. 347, provided that:
+Pub. L. 89–538, § 2, Aug. 14, 1966, 80 Stat. 347, provided that:
 
 > **“(a)** Notwithstanding the first section of this Act [amending this section], an amount on deposit under section 1035 of title 10, United States Code, on the date of enactment of this Act [Aug. 14, 1966], shall accrue interest at the rate and under the conditions in effect on the day before the date of enactment of this Act [Aug. 14, 1966], until the member’s current enlistment terminates or earlier, as may be jointly prescribed by the Secretaries concerned. However, a member who is on a permanent duty assignment outside the United States or its possessions on the date of enactment of this Act [Aug. 14, 1966], or who reports for that duty on or after that date but before the termination of his current enlistment, will be entitled to interest on such deposit, on and after that date, at the rate and under the conditions prescribed pursuant to section 1 [amending this section]. Payments of deposits, and interest thereon, may be made to the member’s heirs or legal representatives.
 
@@ -1051,7 +1051,7 @@ Pub. L. 89–538, § 2, Aug. 14, 1966, 80 Stat. 347, provided that:
 
 **Extension of Coverage to Public Health Service and Coast and Geodetic Survey Personnel; Rules and Regulations**
 
-Pub. L. 89–538, § 3(c), Aug. 14, 1966, 80 Stat. 348, provided that: “Regulations prescribed by the Secretary of Commerce and the Secretary of Health, Education, and Welfare [now Health and Human Services] under subsections (a) and (b) [extending savings deposits benefits to commissioned officers of the Public Health Service and the Coast and Geodetic Survey (now the National Oceanic and Atmospheric Administration), respectively] shall be prescribed jointly with regulations prescribed by the Secretaries concerned under section 1035 of title 10, United States Code.”
+Pub. L. 89–538, § 3(c), Aug. 14, 1966, 80 Stat. 348, provided that: “Regulations prescribed by the Secretary of Commerce and the Secretary of Health, Education, and Welfare [now Health and Human Services] under subsections (a) and (b) [extending savings deposits benefits to commissioned officers of the Public Health Service and the Coast and Geodetic Survey (now the National Oceanic and Atmospheric Administration), respectively] shall be prescribed jointly with regulations prescribed by the Secretaries concerned under section 1035 of title 10, United States Code.”
 
 **Public Health Service**
 
@@ -1073,11 +1073,11 @@ This order shall be effective September 1, 1966.
 
 Lyndon B. Johnson.
 
-## [§ 1036. Repealed. Pub. L. 113–66, div. A, title VI, § 621(a)(2)(A), Dec. 26, 2013, 127 Stat. 783]
+## [§ 1036. Repealed. Pub. L. 113–66, div. A, title VI, § 621(a)(2)(A), Dec. 26, 2013, 127 Stat. 783]
 
-Section, added Pub. L. 86–160, § 1(1), Aug. 14, 1959, 73 Stat. 358; amended Pub. L. 98–94, title IX, § 913(a), Sept. 24, 1983, 97 Stat. 640, provided for transportation and travel allowances for escorts for dependents of members.
+Section, added Pub. L. 86–160, § 1(1), Aug. 14, 1959, 73 Stat. 358; amended Pub. L. 98–94, title IX, § 913(a), Sept. 24, 1983, 97 Stat. 640, provided for transportation and travel allowances for escorts for dependents of members.
 
-## § 1037. Counsel before foreign judicial tribunals and administrative agencies; court costs and bail
+## § 1037. Counsel before foreign judicial tribunals and administrative agencies; court costs and bail
 
 **(a)** Under regulations to be prescribed by him, the Secretary concerned may employ counsel, and pay counsel fees, court costs, bail, and other expenses incident to the representation, before the judicial tribunals and administrative agencies of any foreign nation, of persons subject to the Uniform Code of Military Justice and of persons not subject to the Uniform Code of Military Justice who are employed by or accompanying the armed forces in an area outside the United States and the territories and possessions of the United States, the Northern Mariana Islands, and the Commonwealth of Puerto Rico. So far as practicable, these regulations shall be uniform for all armed forces.
 
@@ -1085,13 +1085,13 @@ Section, added Pub. L. 86–160, § 1(1), Aug. 14, 1959, 73 Stat. 358; amended
 
 **(c)** Appropriations available to the military department concerned or the Department of Homeland Security, as the case may be, for the pay of persons under its jurisdiction may be used to carry out this section.
 
-(Added Pub. L. 85–861, § 1(24)(A), Sept. 2, 1958, 72 Stat. 1445; amended Pub. L. 96–513, title I, § 511(31), Dec. 12, 1980, 94 Stat. 2922; Pub. L. 99–145, title VI, § 681(a), Nov. 8, 1985, 99 Stat. 665; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 85–861, § 1(24)(A), Sept. 2, 1958, 72 Stat. 1445; amended Pub. L. 96–513, title I, § 511(31), Dec. 12, 1980, 94 Stat. 2922; Pub. L. 99–145, title VI, § 681(a), Nov. 8, 1985, 99 Stat. 665; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1037(a) | 50:751. 50:752. | July 24, 1956, ch. 689 (less § 3), 70 Stat. 630. |
+| 1037(a) | 50:751. 50:752. | July 24, 1956, ch. 689 (less § 3), 70 Stat. 630. |
 | 1037(b) | 50:754. |  |
 | 1037(c) | 50:755. |  |
 
@@ -1105,7 +1105,7 @@ In subsection (c), the words “the terms and provisions of” are omitted as su
 
 **References in Text**
 
-The Uniform Code of Military Justice, referred to in subsec. (a), is classified to chapter 47 (§ 801 et seq.) of this title.
+The Uniform Code of Military Justice, referred to in subsec. (a), is classified to chapter 47 (§ 801 et seq.) of this title.
 
 **Amendments**
 
@@ -1123,41 +1123,41 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–145, title VI, § 681(b), Nov. 8, 1985, 99 Stat. 665, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to costs incurred after September 30, 1985.”
+Pub. L. 99–145, title VI, § 681(b), Nov. 8, 1985, 99 Stat. 665, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to costs incurred after September 30, 1985.”
 
 **Effective Date of 1980 Amendment**
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 1038. Service credit: certain service in Women’s Army Auxiliary Corps
+## § 1038. Service credit: certain service in Women’s Army Auxiliary Corps
 
 In computing years of active service of any female member of the armed forces, there shall be credited for all purposes, except the right to promotion, in addition to any other service that may be credited, all active service performed in the Women’s Army Auxiliary Corps after May 13, 1942, and before September 30, 1943, if that member performed active service in the armed forces after September 29, 1943. Service as an officer in the Women’s Army Auxiliary Corps shall be credited as active service in the status of a commissioned officer, and service as an enrolled member of the Corps shall be credited as active service in the status of an enlisted member.
 
-(Added Pub. L. 86–142, § 1(1), Aug. 7, 1959, 73 Stat. 289.)
+(Added Pub. L. 86–142, § 1(1), Aug. 7, 1959, 73 Stat. 289.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Election of Pension or Compensation**
 
-Pub. L. 86–142, § 2, Aug. 7, 1959, 73 Stat. 289, provided that a person entitled to a pension or compensation under any law administered by the Veterans’ Administration, based on the active service described in section 1 of Pub. L. 86–142, which added section 1038 to Title 10, Armed Forces, could elect within 1 year after Aug. 7, 1959 to receive that pension or compensation in lieu of any compensation under the Federal Employees’ Compensation Act; that such an election is irrevocable; and that the election does not entitle that person to the pension or compensation for any period before the date of election.
+Pub. L. 86–142, § 2, Aug. 7, 1959, 73 Stat. 289, provided that a person entitled to a pension or compensation under any law administered by the Veterans’ Administration, based on the active service described in section 1 of Pub. L. 86–142, which added section 1038 to Title 10, Armed Forces, could elect within 1 year after Aug. 7, 1959 to receive that pension or compensation in lieu of any compensation under the Federal Employees’ Compensation Act; that such an election is irrevocable; and that the election does not entitle that person to the pension or compensation for any period before the date of election.
 
 **Back Pay or Allowances**
 
-Pub. L. 86–142, § 3, Aug. 7, 1959, 73 Stat. 289, provided that: “No person is entitled to back pay or allowances because of any service credited under section 1 of this Act [enacting this section].”
+Pub. L. 86–142, § 3, Aug. 7, 1959, 73 Stat. 289, provided that: “No person is entitled to back pay or allowances because of any service credited under section 1 of this Act [enacting this section].”
 
-## § 1039. Crediting of minority service
+## § 1039. Crediting of minority service
 
 For the purpose of determining eligibility for retirement or transfer to the Fleet Reserve or Fleet Marine Corps Reserve, entitlement to retired or retainer pay, and years of service in computing retired or retainer pay of a member of the armed forces, any service which would be creditable but for the fact that it was performed by him under an enlistment or induction entered into before he attained the age prescribed by law for that enlistment or induction, shall be credited.
 
-(Added Pub. L. 87–165, § 1(1), Aug. 25, 1961, 75 Stat. 401.)
+(Added Pub. L. 87–165, § 1(1), Aug. 25, 1961, 75 Stat. 401.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 87–165, § 2, Aug. 25, 1961, 75 Stat. 401, provided that: “Section 1 [enacting this section] applies to service performed, and retirements or transfers to the Fleet Reserve or the Fleet Marine Corps Reserve effected, before and after this Act takes effect [Aug. 25, 1961].”
+Pub. L. 87–165, § 2, Aug. 25, 1961, 75 Stat. 401, provided that: “Section 1 [enacting this section] applies to service performed, and retirements or transfers to the Fleet Reserve or the Fleet Marine Corps Reserve effected, before and after this Act takes effect [Aug. 25, 1961].”
 
-## § 1040. Transportation of dependent patients
+## § 1040. Transportation of dependent patients
 
 **(a)**
 
@@ -1183,7 +1183,7 @@ Pub. L. 87–165, § 2, Aug. 25, 1961, 75 Stat. 401, provided that: “Section
 
 **(c)** In this section, the term “dependent” has the meaning given that term in section 1072 of this title.
 
-(Added Pub. L. 89–140, § 1(1), Aug. 28, 1965, 79 Stat. 579; amended Pub. L. 96–513, title V, § 511(32), Dec. 12, 1980, 94 Stat. 2922; Pub. L. 98–94, title IX, § 913(b), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, § 611, title XIV, § 1405(21), Oct. 19, 1984, 98 Stat. 2538, 2623; Pub. L. 99–348, title III, § 304(a)(2), July 1, 1986, 100 Stat. 703; Pub. L. 99–661, div. A, title VI, § 616(a), Nov. 14, 1986, 100 Stat. 3880; Pub. L. 112–81, div. A, title VII, § 705, Dec. 31, 2011, 125 Stat. 1473; Pub. L. 113–66, div. A, title VI, § 621(b), Dec. 26, 2013, 127 Stat. 783; Pub. L. 113–291, div. A, title X, § 1071(f)(11), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–92, div. A, title VII, § 721, Nov. 25, 2015, 129 Stat. 869.)
+(Added Pub. L. 89–140, § 1(1), Aug. 28, 1965, 79 Stat. 579; amended Pub. L. 96–513, title V, § 511(32), Dec. 12, 1980, 94 Stat. 2922; Pub. L. 98–94, title IX, § 913(b), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, § 611, title XIV, § 1405(21), Oct. 19, 1984, 98 Stat. 2538, 2623; Pub. L. 99–348, title III, § 304(a)(2), July 1, 1986, 100 Stat. 703; Pub. L. 99–661, div. A, title VI, § 616(a), Nov. 14, 1986, 100 Stat. 3880; Pub. L. 112–81, div. A, title VII, § 705, Dec. 31, 2011, 125 Stat. 1473; Pub. L. 113–66, div. A, title VI, § 621(b), Dec. 26, 2013, 127 Stat. 783; Pub. L. 113–291, div. A, title X, § 1071(f)(11), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–92, div. A, title VII, § 721, Nov. 25, 2015, 129 Stat. 869.)
 
 **Editorial Notes**
 
@@ -1191,7 +1191,7 @@ Pub. L. 87–165, § 2, Aug. 25, 1961, 75 Stat. 401, provided that: “Section
 
 Another section 1040 was renumbered section 1041 of this title.
 
-Another section 1040, related to free postage from combat zones, was added by Pub. L. 89–132, § 9(a), Aug. 21, 1965, 79 Stat. 548, prior to repeal by Pub. L. 89–315, § 3(a), Nov. 1, 1965, 79 Stat. 1164. See section 3401 et seq. of Title 39, Postal Service.
+Another section 1040, related to free postage from combat zones, was added by Pub. L. 89–132, § 9(a), Aug. 21, 1965, 79 Stat. 548, prior to repeal by Pub. L. 89–315, § 3(a), Nov. 1, 1965, 79 Stat. 1164. See section 3401 et seq. of Title 39, Postal Service.
 
 **Amendments**
 
@@ -1199,21 +1199,21 @@ Another section 1040, related to free postage from combat zones, was added by Pu
 
 2014—Subsec. (a)(1). Pub. L. 113–291 substituted “37.” for “37..”.
 
-2013—Subsec. (a)(1). Pub. L. 113–66, § 621(b)(1), substituted “travel and transportation allowances may be furnished to necessary attendants. The dependents and any attendants shall be furnished such travel and transportation allowances as specified in regulations prescribed under section 464 of title 37.” for “round-trip transportation and travel expenses may be furnished necessary attendants. In addition to transportation of a dependent at the expense of the United States authorized under this subsection, reasonable travel expenses incurred in connection with the transportation of the dependent may be paid at the expense of the United States”.
+2013—Subsec. (a)(1). Pub. L. 113–66, § 621(b)(1), substituted “travel and transportation allowances may be furnished to necessary attendants. The dependents and any attendants shall be furnished such travel and transportation allowances as specified in regulations prescribed under section 464 of title 37.” for “round-trip transportation and travel expenses may be furnished necessary attendants. In addition to transportation of a dependent at the expense of the United States authorized under this subsection, reasonable travel expenses incurred in connection with the transportation of the dependent may be paid at the expense of the United States”.
 
-Subsec. (d). Pub. L. 113–66, § 621(b)(2), struck out subsec. (d) which read as follows: “Transportation and travel expenses authorized by this section shall be furnished in accordance with joint regulations to be prescribed by the Secretary of Transportation, the Secretary of Defense, the Secretary of Commerce, and the Secretary of Health and Human Services, which shall require the use of transportation facilities of the United States insofar as practicable.”
+Subsec. (d). Pub. L. 113–66, § 621(b)(2), struck out subsec. (d) which read as follows: “Transportation and travel expenses authorized by this section shall be furnished in accordance with joint regulations to be prescribed by the Secretary of Transportation, the Secretary of Defense, the Secretary of Commerce, and the Secretary of Health and Human Services, which shall require the use of transportation facilities of the United States insofar as practicable.”
 
 2011—Subsec. (a). Pub. L. 112–81 designated existing provisions as par. (1) and added par. (2).
 
-1986—Subsec. (a). Pub. L. 99–661 substituted “In addition to transportation of a dependent at the expense of the United States authorized under this subsection, reasonable travel expenses incurred in connection with the transportation of the dependent may be paid at the expense of the United States. Travel expenses authorized by this section may include reimbursement for necessary local travel in the vicinity of the medical facility involved. The transportation and travel expenses authorized by this section may be paid in advance” for “, and such expenses may be paid in advance”.
+1986—Subsec. (a). Pub. L. 99–661 substituted “In addition to transportation of a dependent at the expense of the United States authorized under this subsection, reasonable travel expenses incurred in connection with the transportation of the dependent may be paid at the expense of the United States. Travel expenses authorized by this section may include reimbursement for necessary local travel in the vicinity of the medical facility involved. The transportation and travel expenses authorized by this section may be paid in advance” for “, and such expenses may be paid in advance”.
 
-Subsec. (c). Pub. L. 99–348 substituted “In this section, the term ‘dependent’ has the meaning given that term in” for “ ‘Dependent’ and ‘uniformed services’ in this section have the meanings of those terms as defined in”.
+Subsec. (c). Pub. L. 99–348 substituted “In this section, the term ‘dependent’ has the meaning given that term in” for “ ‘Dependent’ and ‘uniformed services’ in this section have the meanings of those terms as defined in”.
 
-1984—Subsec. (a). Pub. L. 98–525, § 1405(21), substituted “30” for “thirty”.
+1984—Subsec. (a). Pub. L. 98–525, § 1405(21), substituted “30” for “thirty”.
 
-Pub. L. 98–525, § 611, made provisions of section applicable to a dependent accompanying a member of the uniformed services stationed in Alaska or Hawaii.
+Pub. L. 98–525, § 611, made provisions of section applicable to a dependent accompanying a member of the uniformed services stationed in Alaska or Hawaii.
 
-1983—Subsec. (a). Pub. L. 98–94 inserted “, and such expenses may be paid in advance” after “attendants”.
+1983—Subsec. (a). Pub. L. 98–94 inserted “, and such expenses may be paid in advance” after “attendants”.
 
 1980—Subsec. (d). Pub. L. 96–513 substituted “Secretary of Transportation” and “Secretary of Health and Human Services” for “Secretary of the Treasury” and “Secretary of Health, Education, and Welfare”, respectively.
 
@@ -1221,27 +1221,27 @@ Pub. L. 98–525, § 611, made provisions of section applicable to a dependent
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–661, div. A, title VI, § 616(b), Nov. 14, 1986, 100 Stat. 3880, provided that: “The amendment made by subsection (a) [amending this section] shall apply only to travel performed on or after the date of the enactment of this Act [Nov. 14, 1986].”
+Pub. L. 99–661, div. A, title VI, § 616(b), Nov. 14, 1986, 100 Stat. 3880, provided that: “The amendment made by subsection (a) [amending this section] shall apply only to travel performed on or after the date of the enactment of this Act [Nov. 14, 1986].”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title VI, § 611, Oct. 19, 1984, 98 Stat. 2538, provided that the amendment made by that section is effective Oct. 1, 1984.
+Pub. L. 98–525, title VI, § 611, Oct. 19, 1984, 98 Stat. 2538, provided that the amendment made by that section is effective Oct. 1, 1984.
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–94, title IX, § 913(c), Sept. 24, 1983, 97 Stat. 640, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1036 of this title] shall apply to travel performed by escorts or attendants of dependents on or after the date of the enactment of this Act [Sept. 24, 1983].”
+Pub. L. 98–94, title IX, § 913(c), Sept. 24, 1983, 97 Stat. 640, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1036 of this title] shall apply to travel performed by escorts or attendants of dependents on or after the date of the enactment of this Act [Sept. 24, 1983].”
 
 **Effective Date of 1980 Amendment**
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 1041. Replacement of certificate of discharge
+## § 1041. Replacement of certificate of discharge
 
 If satisfactory proof is presented that a person who was discharged honorably or under honorable conditions has lost his certificate of discharge from an armed force or that it was destroyed without his procurement or connivance, the Secretary concerned may give that person, or his surviving spouse, a certificate of that discharge, indelibly marked to show that it is a certificate in place of the lost or destroyed certificate. A certificate given under this section may not be accepted as a voucher for the payment of a claim against the United States for pay, bounty, or other allowance, or as evidence in any other case.
 
-(Added Pub. L. 90–235, § 7(a)(2)(A), Jan. 2, 1968, 81 Stat. 762, § 1040; renumbered § 1041, Pub. L. 96–513, title V, § 511(33)(A), Dec. 12, 1980, 94 Stat. 2922.)
+(Added Pub. L. 90–235, § 7(a)(2)(A), Jan. 2, 1968, 81 Stat. 762, § 1040; renumbered § 1041, Pub. L. 96–513, title V, § 511(33)(A), Dec. 12, 1980, 94 Stat. 2922.)
 
-## § 1042. Copy of certificate of service
+## § 1042. Copy of certificate of service
 
 A fee for a copy of a certificate showing service in the armed forces may not be charged to—
 
@@ -1251,7 +1251,7 @@ A fee for a copy of a certificate showing service in the armed forces may not be
 
 **(3)** a legal representative of the person.
 
-(Added Pub. L. 97–258, § 2(b)(2)(B), Sept. 13, 1982, 96 Stat. 1052.)
+(Added Pub. L. 97–258, § 2(b)(2)(B), Sept. 13, 1982, 96 Stat. 1052.)
 
 **Historical and Revision Notes**
 
@@ -1261,13 +1261,13 @@ A fee for a copy of a certificate showing service in the armed forces may not be
 
 The words “armed forces” are substituted for “Army, Navy, Air Force, Marine Corps, or Coast Guard” because of 10:101(4). The words “honorably or” are added for consistency with 10:1040.
 
-## § 1043. Service credit: service in the National Oceanic and Atmospheric Administration or the Public Health Service
+## § 1043. Service credit: service in the National Oceanic and Atmospheric Administration or the Public Health Service
 
 Active commissioned service in the National Oceanic and Atmospheric Administration or the Public Health Service shall be credited as active commissioned service in the armed forces for purposes of determining the retirement eligibility and computing the retired pay of a member of the armed forces.
 
-(Added Pub. L. 98–94, title X, § 1007(b)(1), Sept. 24, 1983, 97 Stat. 662.)
+(Added Pub. L. 98–94, title X, § 1007(b)(1), Sept. 24, 1983, 97 Stat. 662.)
 
-## § 1044. Legal assistance
+## § 1044. Legal assistance
 
 **(a)** Subject to the availability of legal staff resources, the Secretary concerned may provide legal assistance in connection with their personal civil legal affairs to the following persons:
 
@@ -1303,7 +1303,7 @@ Active commissioned service in the National Oceanic and Atmospheric Administrati
 
 **(e)** The Secretary concerned shall define “dependent” for the purposes of this section.
 
-(Added Pub. L. 98–525, title VI, § 651(a), Oct. 19, 1984, 98 Stat. 2549; amended Pub. L. 104–201, div. A, title V, § 583, Sept. 23, 1996, 110 Stat. 2538; Pub. L. 106–398, § 1 [[div. A], title V, § 524(a), (b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 109–163, div. A, title V, § 555, Jan. 6, 2006, 119 Stat. 3265; Pub. L. 110–181, div. A, title V, § 541, Jan. 28, 2008, 122 Stat. 114; Pub. L. 111–84, div. A, title V, § 513, Oct. 28, 2009, 123 Stat. 2282; Pub. L. 112–239, div. A, title V, § 531(d)(2), Jan. 2, 2013, 126 Stat. 1726; Pub. L. 113–66, div. A, title XVII, § 1716(a)(3)(A), (B), Dec. 26, 2013, 127 Stat. 969; Pub. L. 113–291, div. A, title X, § 1071(f)(12), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–92, div. A, title V, § 535(c), Nov. 25, 2015, 129 Stat. 816; Pub. L. 116–92, div. B, title XXX, § 3022(b), Dec. 20, 2019, 133 Stat. 1934; Pub. L. 117–263, div. K, title CXVII, § 11707, Dec. 23, 2022, 136 Stat. 4158.)
+(Added Pub. L. 98–525, title VI, § 651(a), Oct. 19, 1984, 98 Stat. 2549; amended Pub. L. 104–201, div. A, title V, § 583, Sept. 23, 1996, 110 Stat. 2538; Pub. L. 106–398, § 1 [[div. A], title V, § 524(a), (b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 109–163, div. A, title V, § 555, Jan. 6, 2006, 119 Stat. 3265; Pub. L. 110–181, div. A, title V, § 541, Jan. 28, 2008, 122 Stat. 114; Pub. L. 111–84, div. A, title V, § 513, Oct. 28, 2009, 123 Stat. 2282; Pub. L. 112–239, div. A, title V, § 531(d)(2), Jan. 2, 2013, 126 Stat. 1726; Pub. L. 113–66, div. A, title XVII, § 1716(a)(3)(A), (B), Dec. 26, 2013, 127 Stat. 969; Pub. L. 113–291, div. A, title X, § 1071(f)(12), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–92, div. A, title V, § 535(c), Nov. 25, 2015, 129 Stat. 816; Pub. L. 116–92, div. B, title XXX, § 3022(b), Dec. 20, 2019, 133 Stat. 1934; Pub. L. 117–263, div. K, title CXVII, § 11707, Dec. 23, 2022, 136 Stat. 4158.)
 
 **Editorial Notes**
 
@@ -1317,11 +1317,11 @@ Active commissioned service in the National Oceanic and Atmospheric Administrati
 
 2014—Subsec. (d)(2). Pub. L. 113–291 substituted “such section.” for “such section..”.
 
-2013—Subsec. (b). Pub. L. 112–239 inserted “, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps,” after “jurisdiction of the Secretary”.
+2013—Subsec. (b). Pub. L. 112–239 inserted “, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps,” after “jurisdiction of the Secretary”.
 
-Subsec. (d)(2). Pub. L. 113–66, § 1716(a)(3)(A), inserted before period at end “and, for purposes of service as a Special Victims’ Counsel under section 1044e of this title, meets the additional qualifications specified in subsection (d)(2) of such section.”
+Subsec. (d)(2). Pub. L. 113–66, § 1716(a)(3)(A), inserted before period at end “and, for purposes of service as a Special Victims’ Counsel under section 1044e of this title, meets the additional qualifications specified in subsection (d)(2) of such section.”
 
-Subsec. (d)(3)(B). Pub. L. 113–66, § 1716(a)(3)(B), substituted “1044d, 1044e, and 1565b(a)(1)(A)” for “and 1044d”.
+Subsec. (d)(3)(B). Pub. L. 113–66, § 1716(a)(3)(B), substituted “1044d, 1044e, and 1565b(a)(1)(A)” for “and 1044d”.
 
 2009—Subsec. (a)(4). Pub. L. 111–84 substituted “the Secretary), for a period of time (prescribed by the Secretary)” for “the Secretary of Defense), for a period of time, prescribed by the Secretary of Defense,”.
 
@@ -1329,31 +1329,31 @@ Subsec. (d)(3)(B). Pub. L. 113–66, § 1716(a)(3)(B), substituted “1044d, 1
 
 2006—Subsecs. (d), (e). Pub. L. 109–163 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-2000—Subsec. (a)(4). Pub. L. 106–398, § 1 [[div. A], title V, § 524(a)(2)], added par. (4). Former par. (4) redesignated (5).
+2000—Subsec. (a)(4). Pub. L. 106–398, § 1 [[div. A], title V, § 524(a)(2)], added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 106–398, § 1 [[div. A], title V, § 524(b)], substituted “(3), and (4)” for “and (3)”.
+Subsec. (a)(5). Pub. L. 106–398, § 1 [[div. A], title V, § 524(b)], substituted “(3), and (4)” for “and (3)”.
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 524(a)(1)], redesignated par. (4) as (5).
+Pub. L. 106–398, § 1 [[div. A], title V, § 524(a)(1)], redesignated par. (4) as (5).
 
-1996—Subsec. (a). Pub. L. 104–201, § 583(d)(1), substituted “to the following persons:” for “to—” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–201, § 583(d)(1), substituted “to the following persons:” for “to—” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 104–201, § 583(c), (d)(2), (3), substituted “Members” for “members”, struck out “under his jurisdiction” after “armed forces”, and substituted a period for the semicolon at end.
+Subsec. (a)(1). Pub. L. 104–201, § 583(c), (d)(2), (3), substituted “Members” for “members”, struck out “under his jurisdiction” after “armed forces”, and substituted a period for the semicolon at end.
 
-Subsec. (a)(2). Pub. L. 104–201, § 583(c), (d)(2), (4), substituted “Members and” for “members and”, struck out “under his jurisdiction” after “former members”, and substituted a period for “; and” at end.
+Subsec. (a)(2). Pub. L. 104–201, § 583(c), (d)(2), (4), substituted “Members and” for “members and”, struck out “under his jurisdiction” after “former members”, and substituted a period for “; and” at end.
 
-Subsec. (a)(3), (4). Pub. L. 104–201, § 583(a), added pars. (3) and (4) and struck out former par. (3) which read as follows: “dependents of members and former members described in clauses (1) and (2).”
+Subsec. (a)(3), (4). Pub. L. 104–201, § 583(a), added pars. (3) and (4) and struck out former par. (3) which read as follows: “dependents of members and former members described in clauses (1) and (2).”
 
-Subsec. (c). Pub. L. 104–201, § 583(b), substituted “uniformed services described in subsection (a)” for “armed forces” and inserted “such” after “dependent of”.
+Subsec. (c). Pub. L. 104–201, § 583(b), substituted “uniformed services described in subsection (a)” for “armed forces” and inserted “such” after “dependent of”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 524(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–108, provided that: “Regulations to implement the amendments made by this section [amending this section] shall be prescribed not later than 180 days after the date of the enactment of this Act [Oct. 30, 2000].”
+Pub. L. 106–398, § 1 [[div. A], title V, § 524(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–108, provided that: “Regulations to implement the amendments made by this section [amending this section] shall be prescribed not later than 180 days after the date of the enactment of this Act [Oct. 30, 2000].”
 
 **Legal Counsel for Victims of Alleged Domestic Violence Offenses**
 
-Pub. L. 116–92, div. A, title V, § 548, Dec. 20, 2019, 133 Stat. 1378, provided that:
+Pub. L. 116–92, div. A, title V, § 548, Dec. 20, 2019, 133 Stat. 1378, provided that:
 
 > **“(a) In General.—** Not later than December 1, 2020, the Secretary of Defense shall carry out a program to provide legal counsel (referred to in this section as ‘Counsel’) to victims of alleged domestic violence offenses who are otherwise eligible for military legal assistance under section 1044 of title 10, United States Code.
 
@@ -1391,7 +1391,7 @@ Pub. L. 116–92, div. A, title V, § 548, Dec. 20, 2019, 133 Stat. 1378, prov
 
 > **“(3)** an attempt to commit an offense specified in paragraph (1) or (2) as punishable under section 880 of such title (article 80 of the Uniform Code of Military Justice).”
 
-## § 1044a. Authority to act as notary
+## § 1044a. Authority to act as notary
 
 **(a)** The persons named in subsection (b) have the general powers of a notary public and of a consul of the United States in the performance of all notarial acts to be executed by any of the following:
 
@@ -1421,27 +1421,27 @@ Pub. L. 116–92, div. A, title V, § 548, Dec. 20, 2019, 133 Stat. 1378, prov
 
 **(d)** The signature of any such person acting as notary, together with the title of that person’s offices, is prima facie evidence that the signature is genuine, that the person holds the designated title, and that the person is authorized to perform a notarial act.
 
-(Added Pub. L. 101–510, div. A, title V, § 551(a)(1), Nov. 5, 1990, 104 Stat. 1566; amended Pub. L. 104–201, div. A, title V, § 573, Sept. 23, 1996, 110 Stat. 2534; Pub. L. 107–107, div. A, title XI, § 1103, Dec. 28, 2001, 115 Stat. 1236; Pub. L. 114–328, div. A, title V, § 523(b), Dec. 23, 2016, 130 Stat. 2116; Pub. L. 116–259, title II, § 205(b)(1), Dec. 23, 2020, 134 Stat. 1167.)
+(Added Pub. L. 101–510, div. A, title V, § 551(a)(1), Nov. 5, 1990, 104 Stat. 1566; amended Pub. L. 104–201, div. A, title V, § 573, Sept. 23, 1996, 110 Stat. 2534; Pub. L. 107–107, div. A, title XI, § 1103, Dec. 28, 2001, 115 Stat. 1236; Pub. L. 114–328, div. A, title V, § 523(b), Dec. 23, 2016, 130 Stat. 2116; Pub. L. 116–259, title II, § 205(b)(1), Dec. 23, 2020, 134 Stat. 1167.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (a)(1). Pub. L. 116–259, § 205(b)(1)(A), substituted “uniformed services” for “armed forces”.
+2020—Subsec. (a)(1). Pub. L. 116–259, § 205(b)(1)(A), substituted “uniformed services” for “armed forces”.
 
-Subsec. (b)(4). Pub. L. 116–259, § 205(b)(1)(B), substituted “uniformed services” for “armed forces” in two places.
+Subsec. (b)(4). Pub. L. 116–259, § 205(b)(1)(B), substituted “uniformed services” for “armed forces” in two places.
 
 2016—Subsec. (b)(6). Pub. L. 114–328 added par. (6).
 
-2001—Subsec. (b)(2). Pub. L. 107–107, § 1103(a), substituted “legal assistance attorneys” for “legal assistance officers”.
+2001—Subsec. (b)(2). Pub. L. 107–107, § 1103(a), substituted “legal assistance attorneys” for “legal assistance officers”.
 
-Subsec. (b)(5). Pub. L. 107–107, § 1103(b), added par. (5).
+Subsec. (b)(5). Pub. L. 107–107, § 1103(b), added par. (5).
 
-1996—Subsec. (b)(1). Pub. L. 104–201, § 573(1), substituted “, including reserve judge advocates when not in a duty status” for “on active duty or performing inactive-duty training”.
+1996—Subsec. (b)(1). Pub. L. 104–201, § 573(1), substituted “, including reserve judge advocates when not in a duty status” for “on active duty or performing inactive-duty training”.
 
-Subsec. (b)(3). Pub. L. 104–201, § 573(2), substituted “adjutants, including reserve members when not in a duty status” for “adjutants on active duty or performing inactive-duty training”.
+Subsec. (b)(3). Pub. L. 104–201, § 573(2), substituted “adjutants, including reserve members when not in a duty status” for “adjutants on active duty or performing inactive-duty training”.
 
-Subsec. (b)(4). Pub. L. 104–201, § 573(3), substituted “members of the armed forces, including reserve members when not in a duty status,” for “persons on active duty or performing inactive-duty training”.
+Subsec. (b)(4). Pub. L. 104–201, § 573(3), substituted “members of the armed forces, including reserve members when not in a duty status,” for “persons on active duty or performing inactive-duty training”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1449,7 +1449,7 @@ Subsec. (b)(4). Pub. L. 104–201, § 573(3), substituted “members of the ar
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 1044b. Military powers of attorney: requirement for recognition by States
+## § 1044b. Military powers of attorney: requirement for recognition by States
 
 **(a) Instruments To Be Given Legal Effect Without Regard to State Law.—** A military power of attorney—
 
@@ -1467,9 +1467,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(d) State Defined.—** In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and a possession of the United States.
 
-(Added Pub. L. 103–160, div. A, title V, § 574(a), Nov. 30, 1993, 107 Stat. 1674.)
+(Added Pub. L. 103–160, div. A, title V, § 574(a), Nov. 30, 1993, 107 Stat. 1674.)
 
-## § 1044c. Advance medical directives of members and dependents: requirement for recognition by States
+## § 1044c. Advance medical directives of members and dependents: requirement for recognition by States
 
 **(a) Instruments To Be Given Legal Effect Without Regard to State Law.—** An advance medical directive executed by a person eligible for legal assistance—
 
@@ -1499,15 +1499,15 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(3)** The term “legal assistance” means legal services authorized under section 1044 of this title.
 
-(Added Pub. L. 104–106, div. A, title VII, § 749(a)(1), Feb. 10, 1996, 110 Stat. 388.)
+(Added Pub. L. 104–106, div. A, title VII, § 749(a)(1), Feb. 10, 1996, 110 Stat. 388.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title VII, § 749(b), Feb. 10, 1996, 110 Stat. 389, provided that: “Section 1044c of title 10, United States Code, shall take effect on the date of the enactment of this Act [Feb. 10, 1996] and shall apply to advance medical directives referred to in that section that are executed before, on, or after that date.”
+Pub. L. 104–106, div. A, title VII, § 749(b), Feb. 10, 1996, 110 Stat. 389, provided that: “Section 1044c of title 10, United States Code, shall take effect on the date of the enactment of this Act [Feb. 10, 1996] and shall apply to advance medical directives referred to in that section that are executed before, on, or after that date.”
 
-## § 1044d. Military testamentary instruments: requirement for recognition by States
+## § 1044d. Military testamentary instruments: requirement for recognition by States
 
 **(a) Testamentary Instruments To Be Given Legal Effect.—** A military testamentary instrument—
 
@@ -1581,15 +1581,15 @@ Pub. L. 104–106, div. A, title VII, § 749(b), Feb. 10, 1996, 110 Stat. 389,
 
 **(3)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and each possession of the United States.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title V, § 551(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–123; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. A, title V, § 523(a), Dec. 23, 2016, 130 Stat. 2116.)
+(Added Pub. L. 106–398, § 1 [[div. A], title V, § 551(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–123; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. A, title V, § 523(a), Dec. 23, 2016, 130 Stat. 2116.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (c)(2). Pub. L. 114–328, § 523(a)(1), added par. (2) and struck out former par. (2) which read as follows: “the instrument is executed in the presence of a military legal assistance counsel acting as presiding attorney;”.
+2016—Subsec. (c)(2). Pub. L. 114–328, § 523(a)(1), added par. (2) and struck out former par. (2) which read as follows: “the instrument is executed in the presence of a military legal assistance counsel acting as presiding attorney;”.
 
-Subsec. (c)(3). Pub. L. 114–328, § 523(a)(2), substituted “person notarizing the instrument in accordance with paragraph (2)” for “presiding attorney”.
+Subsec. (c)(3). Pub. L. 114–328, § 523(a)(2), substituted “person notarizing the instrument in accordance with paragraph (2)” for “presiding attorney”.
 
 2002—Subsec. (f). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -1599,7 +1599,7 @@ Subsec. (c)(3). Pub. L. 114–328, § 523(a)(2), substituted “person notariz
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-## § 1044e. Special Victims’ Counsel for victims of sex-related offenses
+## § 1044e. Special Victims’ Counsel for victims of sex-related offenses
 
 **(a) Designation; Purposes.—**
 
@@ -1739,7 +1739,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(i) Regulations.—** The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 113–66, div. A, title XVII, § 1716(a)(1), Dec. 26, 2013, 127 Stat. 966; amended Pub. L. 113–291, div. A, title V, §§ 531(c), 533, 534(a), Dec. 19, 2014, 128 Stat. 3364, 3366, 3367; Pub. L. 114–92, div. A, title V, §§ 532–534(a), 535(a), (b), Nov. 25, 2015, 129 Stat. 815, 816; Pub. L. 115–91, div. A, title X, § 1081(c)(2)(D), Dec. 12, 2017, 131 Stat. 1599; Pub. L. 116–92, div. A, title V, §§ 541, 542(a), Dec. 20, 2019, 133 Stat. 1374, 1375; Pub. L. 116–283, div. A, title X, § 1081(a)(22), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 117–81, div. A, title X, § 1081(a)(15), Dec. 27, 2021, 135 Stat. 1920.)
+(Added Pub. L. 113–66, div. A, title XVII, § 1716(a)(1), Dec. 26, 2013, 127 Stat. 966; amended Pub. L. 113–291, div. A, title V, §§ 531(c), 533, 534(a), Dec. 19, 2014, 128 Stat. 3364, 3366, 3367; Pub. L. 114–92, div. A, title V, §§ 532–534(a), 535(a), (b), Nov. 25, 2015, 129 Stat. 815, 816; Pub. L. 115–91, div. A, title X, § 1081(c)(2)(D), Dec. 12, 2017, 131 Stat. 1599; Pub. L. 116–92, div. A, title V, §§ 541, 542(a), Dec. 20, 2019, 133 Stat. 1374, 1375; Pub. L. 116–283, div. A, title X, § 1081(a)(22), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 117–81, div. A, title X, § 1081(a)(15), Dec. 27, 2021, 135 Stat. 1920.)
 
 **Editorial Notes**
 
@@ -1753,47 +1753,47 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 Subsec. (g). Pub. L. 117–81 substituted “number of Special Victims’ Counsels” for “number of Special Victims’ Counsel”.
 
-2019—Subsec. (b)(8)(D). Pub. L. 116–92, § 541(a), substituted “, section 1408(h) of this title, and other” for “and other”.
+2019—Subsec. (b)(8)(D). Pub. L. 116–92, § 541(a), substituted “, section 1408(h) of this title, and other” for “and other”.
 
-Subsec. (b)(10), (11). Pub. L. 116–92, § 541(b), added par. (10) and redesignated former par. (10) as (11).
+Subsec. (b)(10), (11). Pub. L. 116–92, § 541(b), added par. (10) and redesignated former par. (10) as (11).
 
-Subsec. (f)(4). Pub. L. 116–92, § 542(a), added par. (4).
+Subsec. (f)(4). Pub. L. 116–92, § 542(a), added par. (4).
 
-Subsecs. (g) to (i). Pub. L. 116–92, § 541(c), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+Subsecs. (g) to (i). Pub. L. 116–92, § 541(c), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 2017—Subsec. (g)(1). Pub. L. 115–91 substituted “920b, 920c, or 930” for “920a, 920b, 920c, or 925” and “120b, 120c, or 130” for “120a, 120b, 120c, or 125”.
 
-2015—Subsec. (a)(2)(C). Pub. L. 114–92, § 532, added subpar. (C).
+2015—Subsec. (a)(2)(C). Pub. L. 114–92, § 532, added subpar. (C).
 
-Subsec. (b)(9), (10). Pub. L. 114–92, § 533, added par. (9) and redesignated former par. (9) as (10).
+Subsec. (b)(9), (10). Pub. L. 114–92, § 533, added par. (9) and redesignated former par. (9) as (10).
 
-Subsec. (d). Pub. L. 114–92, § 535(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+Subsec. (d). Pub. L. 114–92, § 535(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
-Subsec. (e)(3). Pub. L. 114–92, § 535(b), added par. (3).
+Subsec. (e)(3). Pub. L. 114–92, § 535(b), added par. (3).
 
-Subsec. (f)(2), (3). Pub. L. 114–92, § 534(a), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (f)(2), (3). Pub. L. 114–92, § 534(a), added par. (2) and redesignated former par. (2) as (3).
 
-2014—Subsec. (a). Pub. L. 113–291, § 533(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary concerned shall designate legal counsel (to be known as ‘Special Victims’ Counsel’) for the purpose of providing legal assistance to an individual eligible for military legal assistance under section 1044 of this title who is the victim of an alleged sex-related offense, regardless of whether the report of that offense is restricted or unrestricted.”
+2014—Subsec. (a). Pub. L. 113–291, § 533(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary concerned shall designate legal counsel (to be known as ‘Special Victims’ Counsel’) for the purpose of providing legal assistance to an individual eligible for military legal assistance under section 1044 of this title who is the victim of an alleged sex-related offense, regardless of whether the report of that offense is restricted or unrestricted.”
 
-Subsec. (b)(4). Pub. L. 113–291, § 531(c)(1), substituted “the United States” for “the Department of Defense”.
+Subsec. (b)(4). Pub. L. 113–291, § 531(c)(1), substituted “the United States” for “the Department of Defense”.
 
-Subsec. (b)(6). Pub. L. 113–291, § 534(a), substituted “Representing the victim” for “Accompanying the victim”.
+Subsec. (b)(6). Pub. L. 113–291, § 534(a), substituted “Representing the victim” for “Accompanying the victim”.
 
-Subsec. (d)(2). Pub. L. 113–291, § 531(c)(2), inserted “, and within the Marine Corps, by the Staff Judge Advocate to the Commandant of the Marine Corps” before period at end.
+Subsec. (d)(2). Pub. L. 113–291, § 531(c)(2), inserted “, and within the Marine Corps, by the Staff Judge Advocate to the Commandant of the Marine Corps” before period at end.
 
-Subsec. (e)(1). Pub. L. 113–291, § 531(c)(3), inserted “concerned” after “jurisdiction of the Secretary”.
+Subsec. (e)(1). Pub. L. 113–291, § 531(c)(3), inserted “concerned” after “jurisdiction of the Secretary”.
 
-Subsec. (f). Pub. L. 113–291, § 533(b), substituted “described in subsection (a)(2)” for “eligible for military legal assistance under section 1044 of this title” in pars. (1) and (2).
+Subsec. (f). Pub. L. 113–291, § 533(b), substituted “described in subsection (a)(2)” for “eligible for military legal assistance under section 1044 of this title” in pars. (1) and (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Civilian Positions To Support Special Victims’ Counsel**
 
-Pub. L. 117–81, div. A, title V, § 546, Dec. 27, 2021, 135 Stat. 1712, provided that:
+Pub. L. 117–81, div. A, title V, § 546, Dec. 27, 2021, 135 Stat. 1712, provided that:
 
 > **“(a) Civilian Support Positions.—** Each Secretary of a military department may establish one or more civilian positions within each office of the Special Victims’ Counsel under the jurisdiction of such Secretary.
 
@@ -1807,7 +1807,7 @@ Pub. L. 117–81, div. A, title V, § 546, Dec. 27, 2021, 135 Stat. 1712, prov
 
 **Notification of Significant Events and Documentation of Preference for Prosecution Jurisdiction for Victims of Sexual Assault**
 
-Pub. L. 116–92, div. A, title V, § 538, Dec. 20, 2019, 133 Stat. 1363, provided that:
+Pub. L. 116–92, div. A, title V, § 538, Dec. 20, 2019, 133 Stat. 1363, provided that:
 
 > **“(a) Notification to Victims of Events in Military Justice Process.—**
 
@@ -1821,7 +1821,7 @@ Pub. L. 116–92, div. A, title V, § 538, Dec. 20, 2019, 133 Stat. 1363, prov
 
 **Training for Special Victims’ Counsel on Civilian Criminal Justice Matters in the States of the Military Installations to Which Assigned**
 
-Pub. L. 116–92, div. A, title V, § 550C, Dec. 20, 2019, 133 Stat. 1382, provided that:
+Pub. L. 116–92, div. A, title V, § 550C, Dec. 20, 2019, 133 Stat. 1382, provided that:
 
 > **“(a) Training.—**
 
@@ -1847,11 +1847,11 @@ Pub. L. 116–92, div. A, title V, § 550C, Dec. 20, 2019, 133 Stat. 1382, pro
 
 **Special Victims’ Counsel Training Regarding the Unique Challenges Often Faced by Male Victims of Sexual Assault**
 
-Pub. L. 115–91, div. A, title V, § 536, Dec. 12, 2017, 131 Stat. 1392, provided that: “The baseline Special Victims’ Counsel training established under section 1044e(d)(2) of title 10, United States Code, shall include training for Special Victims’ Counsel to recognize and deal with the unique challenges often faced by male victims of sexual assault.”
+Pub. L. 115–91, div. A, title V, § 536, Dec. 12, 2017, 131 Stat. 1392, provided that: “The baseline Special Victims’ Counsel training established under section 1044e(d)(2) of title 10, United States Code, shall include training for Special Victims’ Counsel to recognize and deal with the unique challenges often faced by male victims of sexual assault.”
 
 **Enhancement of Victims’ Rights in Connection With Prosecution of Certain Sex-Related Offenses**
 
-Pub. L. 113–291, div. A, title V, § 534(b)–(e), Dec. 19, 2014, 128 Stat. 3367, 3368, provided that:
+Pub. L. 113–291, div. A, title V, § 534(b)–(e), Dec. 19, 2014, 128 Stat. 3367, 3368, provided that:
 
 > **“(b) Consultation Regarding Victim’s Preference in Prosecution Venue.—**
 
@@ -1875,13 +1875,13 @@ Pub. L. 113–291, div. A, title V, § 534(b)–(e), Dec. 19, 2014, 128 Stat. 
 
 **Implementation**
 
-Pub. L. 113–66, div. A, title XVII, § 1716(a)(4), Dec. 26, 2013, 127 Stat. 969, provided that: “Section 1044e of title 10, United States Code, as added by paragraph (1), shall be implemented within 180 days after the date of the enactment of this Act [Dec. 26, 2013].”
+Pub. L. 113–66, div. A, title XVII, § 1716(a)(4), Dec. 26, 2013, 127 Stat. 969, provided that: “Section 1044e of title 10, United States Code, as added by paragraph (1), shall be implemented within 180 days after the date of the enactment of this Act [Dec. 26, 2013].”
 
 **Enhanced Training Requirement**
 
-Pub. L. 113–66, div. A, title XVII, § 1716(b), Dec. 26, 2013, 127 Stat. 969, provided that: “The Secretary of each military department, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, shall implement, consistent with the guidelines provided under section 1044e of title 10, United States Code, as added by subsection (a), in-depth and advanced training for all military and civilian attorneys providing legal assistance under section 1044 or 1044e of such title to support victims of alleged sex-related offenses.”
+Pub. L. 113–66, div. A, title XVII, § 1716(b), Dec. 26, 2013, 127 Stat. 969, provided that: “The Secretary of each military department, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, shall implement, consistent with the guidelines provided under section 1044e of title 10, United States Code, as added by subsection (a), in-depth and advanced training for all military and civilian attorneys providing legal assistance under section 1044 or 1044e of such title to support victims of alleged sex-related offenses.”
 
-## § 1044f. Policies with respect to special trial counsel
+## § 1044f. Policies with respect to special trial counsel
 
 **(a) Policies Required.—** The Secretary of Defense shall establish policies with respect to the appropriate mechanisms and procedures that the Secretaries of the military departments shall establish relating to the activities of special trial counsel, including expected milestones for such Secretaries to fully implement such mechanisms and procedures. Subject to subsection (c), the policies shall—
 
@@ -1915,27 +1915,27 @@ Pub. L. 113–66, div. A, title XVII, § 1716(b), Dec. 26, 2013, 127 Stat. 969
 
 **(d) Military Service Defined.—** In this section, the term “military service” means the Army, Navy, Air Force, Marine Corps, and Space Force.
 
-(Added Pub. L. 117–81, div. A, title V, § 532(a), Dec. 27, 2021, 135 Stat. 1694; amended Pub. L. 117–263, div. A, title V, § 545(a), Dec. 23, 2022, 136 Stat. 2584.)
+(Added Pub. L. 117–81, div. A, title V, § 532(a), Dec. 27, 2021, 135 Stat. 1694; amended Pub. L. 117–263, div. A, title V, § 545(a), Dec. 23, 2022, 136 Stat. 2584.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–263, § 545(a)(1), substituted “Subject to subsection (c), the policies shall” for “The policies shall” in introductory provisions.
+2022—Subsec. (a). Pub. L. 117–263, § 545(a)(1), substituted “Subject to subsection (c), the policies shall” for “The policies shall” in introductory provisions.
 
-Subsecs. (c), (d). Pub. L. 117–263, § 545(a)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 117–263, § 545(a)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. A, title V, § 545(b), Dec. 23, 2022, 136 Stat. 2584, provided that: “The amendments made subsection (a) [amending this section] shall take effect immediately after the coming into effect of the amendments made by section 532 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1694) [enacting this section] as provided in section 539C of that Act (10 U.S.C. 801 note).”
+Pub. L. 117–263, div. A, title V, § 545(b), Dec. 23, 2022, 136 Stat. 2584, provided that: “The amendments made subsection (a) [amending this section] shall take effect immediately after the coming into effect of the amendments made by section 532 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1694) [enacting this section] as provided in section 539C of that Act (10 U.S.C. 801 note).”
 
 **Effective Date**
 
 Section effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as an Effective Date of 2021 Amendment note under section 801 of this title.
 
-## § 1045. Voluntary withholding of State income tax from retired or retainer pay
+## § 1045. Voluntary withholding of State income tax from retired or retainer pay
 
 **(a)** The Secretary concerned shall enter into an agreement under this section with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Secretary concerned shall withhold State income tax from the monthly retired or retainer pay of any member or former member entitled to such pay who voluntarily requests such withholding in writing. The amounts withheld during any calendar month shall be retained by the Secretary concerned and disbursed to the States during the following calendar month.
 
@@ -1957,7 +1957,7 @@ Section effective on the date that is two years after Dec. 27, 2021, and applica
 
 **(2)** The term “Secretary concerned” includes the Secretary of Health and Human Services with respect to the commissioned corps of the Public Health Service and the Secretary of Commerce with respect to the commissioned corps of the National Oceanic and Atmospheric Administration.
 
-(Added Pub. L. 98–525, title VI, § 654(a), Oct. 19, 1984, 98 Stat. 2551; amended Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 109–163, div. A, title VI, § 661, Jan. 6, 2006, 119 Stat. 3314.)
+(Added Pub. L. 98–525, title VI, § 654(a), Oct. 19, 1984, 98 Stat. 2551; amended Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 109–163, div. A, title VI, § 661, Jan. 6, 2006, 119 Stat. 3314.)
 
 **Editorial Notes**
 
@@ -1967,21 +1967,21 @@ Section effective on the date that is two years after Dec. 27, 2021, and applica
 
 1987—Subsec. (e)(1), (2). Pub. L. 100–26 inserted “The term” after each par. designation.
 
-## § 1046. Overseas temporary foster care program
+## § 1046. Overseas temporary foster care program
 
 **(a) Program Authorized.—** The Secretary concerned may establish a program to provide temporary foster care services outside the United States for children accompanying members of the armed forces on duty at stations outside the United States. The foster care services provided under such a program shall be similar to those services provided by State and local governments in the United States.
 
 **(b) Expenses.—** Under regulations prescribed by the Secretary concerned, the expenses related to providing foster care services under subsection (a) may be paid from appropriated funds available to the Secretary.
 
-(Added Pub. L. 102–484, div. A, title VI, § 651(a), Oct. 23, 1992, 106 Stat. 2425.)
+(Added Pub. L. 102–484, div. A, title VI, § 651(a), Oct. 23, 1992, 106 Stat. 2425.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1046, added Pub. L. 98–525, title VII, § 708(a)(1), Oct. 19, 1984, 98 Stat. 2572, related to preseparation counseling, prior to repeal by Pub. L. 101–510, div. A, title V, § 502(b)(1), Nov. 5, 1990, 104 Stat. 1557.
+A prior section 1046, added Pub. L. 98–525, title VII, § 708(a)(1), Oct. 19, 1984, 98 Stat. 2572, related to preseparation counseling, prior to repeal by Pub. L. 101–510, div. A, title V, § 502(b)(1), Nov. 5, 1990, 104 Stat. 1557.
 
-## § 1047. Allowance for civilian clothing
+## § 1047. Allowance for civilian clothing
 
 **(a) Members Traveling In Connection With Medical Evacuation.—** The Secretary of the military department concerned may furnish civilian clothing and luggage to a member at a cost not to exceed $250, or reimburse a member for the purchase of civilian clothing and luggage in an amount not to exceed $250, in the case of a member who—
 
@@ -1999,7 +1999,7 @@ A prior section 1046, added Pub. L. 98–525, title VII, § 708(a)(1), Oct. 19
 
 **(4)** discharged before completion of recruit training under honorable conditions for dependency, hardship, minority, or disability or for the convenience of the Government.
 
-(Added Pub. L. 98–525, title XIV, § 1401(d)(1), Oct. 19, 1984, 98 Stat. 2615; amended Pub. L. 108–375, div. A, title V, § 584(a), Oct. 28, 2004, 118 Stat. 1929; Pub. L. 110–181, div. A, title VI, § 634, Jan. 28, 2008, 122 Stat. 155.)
+(Added Pub. L. 98–525, title XIV, § 1401(d)(1), Oct. 19, 1984, 98 Stat. 2615; amended Pub. L. 108–375, div. A, title V, § 584(a), Oct. 28, 2004, 118 Stat. 1929; Pub. L. 110–181, div. A, title VI, § 634, Jan. 28, 2008, 122 Stat. 155.)
 
 **Editorial Notes**
 
@@ -2007,105 +2007,105 @@ A prior section 1046, added Pub. L. 98–525, title VII, § 708(a)(1), Oct. 19
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
-Oct. 12, 1984, Pub. L. 98–473, title I, § 101(h) [title VIII, § 8024], 98 Stat. 1904, 1928.
+Oct. 12, 1984, Pub. L. 98–473, title I, § 101(h) [title VIII, § 8024], 98 Stat. 1904, 1928.
 
-Dec. 8, 1983, Pub. L. 98–212, title VII, § 727, 97 Stat. 1443.
+Dec. 8, 1983, Pub. L. 98–212, title VII, § 727, 97 Stat. 1443.
 
-Dec. 21, 1982, Pub. L. 97–377, title I, § 101(c) [title VII, § 730], 96 Stat. 1833, 1855.
+Dec. 21, 1982, Pub. L. 97–377, title I, § 101(c) [title VII, § 730], 96 Stat. 1833, 1855.
 
-Dec. 29, 1981, Pub. L. 97–114, title VII, § 730, 95 Stat. 1584.
+Dec. 29, 1981, Pub. L. 97–114, title VII, § 730, 95 Stat. 1584.
 
-Dec. 15, 1980, Pub. L. 96–527, title VII, § 731, 94 Stat. 3086.
+Dec. 15, 1980, Pub. L. 96–527, title VII, § 731, 94 Stat. 3086.
 
-Dec. 21, 1979, Pub. L. 96–154, title VII, § 731, 93 Stat. 1157.
+Dec. 21, 1979, Pub. L. 96–154, title VII, § 731, 93 Stat. 1157.
 
-Oct. 13, 1978, Pub. L. 95–457, title VIII, § 831, 92 Stat. 1249.
+Oct. 13, 1978, Pub. L. 95–457, title VIII, § 831, 92 Stat. 1249.
 
-Sept. 21, 1977, Pub. L. 95–111, title VIII, § 830, 91 Stat. 905.
+Sept. 21, 1977, Pub. L. 95–111, title VIII, § 830, 91 Stat. 905.
 
-Sept. 22, 1976, Pub. L. 94–419, title VII, § 730, 90 Stat. 1296.
+Sept. 22, 1976, Pub. L. 94–419, title VII, § 730, 90 Stat. 1296.
 
-Feb. 9, 1976, Pub. L. 94–212, title VII, § 730, 90 Stat. 173.
+Feb. 9, 1976, Pub. L. 94–212, title VII, § 730, 90 Stat. 173.
 
-Oct. 8, 1974, Pub. L. 93–437, title VIII, § 831, 88 Stat. 1230.
+Oct. 8, 1974, Pub. L. 93–437, title VIII, § 831, 88 Stat. 1230.
 
-Jan. 2, 1974, Pub. L. 93–238, title VII, § 732, 87 Stat. 1044.
+Jan. 2, 1974, Pub. L. 93–238, title VII, § 732, 87 Stat. 1044.
 
-Oct. 26, 1972, Pub. L. 92–570, title VII, § 732, 86 Stat. 1201.
+Oct. 26, 1972, Pub. L. 92–570, title VII, § 732, 86 Stat. 1201.
 
-Dec. 18, 1971, Pub. L. 92–204, title VII, § 733, 85 Stat. 733.
+Dec. 18, 1971, Pub. L. 92–204, title VII, § 733, 85 Stat. 733.
 
-Jan. 11, 1971, Pub. L. 91–668, title VIII, § 833, 84 Stat. 2036.
+Jan. 11, 1971, Pub. L. 91–668, title VIII, § 833, 84 Stat. 2036.
 
-Dec. 29, 1969, Pub. L. 91–171, title VI, § 633, 83 Stat. 485.
+Dec. 29, 1969, Pub. L. 91–171, title VI, § 633, 83 Stat. 485.
 
-Oct. 17, 1968, Pub. L. 90–580, title V, § 532, 82 Stat. 1135.
+Oct. 17, 1968, Pub. L. 90–580, title V, § 532, 82 Stat. 1135.
 
-Sept. 29, 1967, Pub. L. 90–96, title VI, § 632, 81 Stat. 247.
+Sept. 29, 1967, Pub. L. 90–96, title VI, § 632, 81 Stat. 247.
 
-Oct. 15, 1966, Pub. L. 89–687, title VI, § 633, 80 Stat. 996.
+Oct. 15, 1966, Pub. L. 89–687, title VI, § 633, 80 Stat. 996.
 
-Sept. 29, 1965, Pub. L. 89–213, title VI, § 633, 79 Stat. 879.
+Sept. 29, 1965, Pub. L. 89–213, title VI, § 633, 79 Stat. 879.
 
-Aug. 19, 1964, Pub. L. 88–446, title V, § 533, 78 Stat. 480.
+Aug. 19, 1964, Pub. L. 88–446, title V, § 533, 78 Stat. 480.
 
-Oct. 17, 1963, Pub. L. 88–149, title V, § 533, 77 Stat. 269.
+Oct. 17, 1963, Pub. L. 88–149, title V, § 533, 77 Stat. 269.
 
-Aug. 9, 1962, Pub. L. 87–577, title V, § 534, 76 Stat. 333.
+Aug. 9, 1962, Pub. L. 87–577, title V, § 534, 76 Stat. 333.
 
-Aug. 17, 1961, Pub. L. 87–144, title VI, § 634, 75 Stat. 381.
+Aug. 17, 1961, Pub. L. 87–144, title VI, § 634, 75 Stat. 381.
 
-July 7, 1960, Pub. L. 86–601, title II, § 201, 74 Stat. 340–342.
+July 7, 1960, Pub. L. 86–601, title II, § 201, 74 Stat. 340–342.
 
-Aug. 18, 1959, Pub. L. 86–166, title II, § 201, 73 Stat. 368–370.
+Aug. 18, 1959, Pub. L. 86–166, title II, § 201, 73 Stat. 368–370.
 
-Aug. 22, 1958, Pub. L. 85–724, title III, § 301, title IV, § 401, title V, § 501, 72 Stat. 714, 717, 721.
+Aug. 22, 1958, Pub. L. 85–724, title III, § 301, title IV, § 401, title V, § 501, 72 Stat. 714, 717, 721.
 
-Aug. 2, 1957, Pub. L. 85–117, title III, § 301, title IV, § 401, title V, § 501, 71 Stat. 314, 316, 321.
+Aug. 2, 1957, Pub. L. 85–117, title III, § 301, title IV, § 401, title V, § 501, 71 Stat. 314, 316, 321.
 
-July 2, 1956, ch. 488, title III, § 301, title IV, § 401, title V, § 501, 70 Stat. 457, 459, 464.
+July 2, 1956, ch. 488, title III, § 301, title IV, § 401, title V, § 501, 70 Stat. 457, 459, 464.
 
-July 13, 1955, ch. 358, title III, § 301, title IV, § 401, title V, § 501, 69 Stat. 304, 306, 312.
+July 13, 1955, ch. 358, title III, § 301, title IV, § 401, title V, § 501, 69 Stat. 304, 306, 312.
 
-June 30, 1954, ch. 432, title IV, § 401, title V, § 501, title VI, § 601, 68 Stat. 339, 342, 347.
+June 30, 1954, ch. 432, title IV, § 401, title V, § 501, title VI, § 601, 68 Stat. 339, 342, 347.
 
-Aug. 1, 1953, ch. 305, title III, § 301, title IV, § 401, title V, § 501, 67 Stat. 339, 342, 348.
+Aug. 1, 1953, ch. 305, title III, § 301, title IV, § 401, title V, § 501, 67 Stat. 339, 342, 348.
 
-July 10, 1952, ch. 630, title III, § 301, title IV, § 401, title V, § 501, 66 Stat. 520, 524, 529.
+July 10, 1952, ch. 630, title III, § 301, title IV, § 401, title V, § 501, 66 Stat. 520, 524, 529.
 
-Oct. 18, 1951, ch. 512, title III, § 301, title IV, § 401, title V, § 501, 65 Stat. 429, 437, 443.
+Oct. 18, 1951, ch. 512, title III, § 301, title IV, § 401, title V, § 501, 65 Stat. 429, 437, 443.
 
-Sept. 6, 1950, ch. 896, Ch. X, title III, § 301, title IV, § 401, title V, § 501, 64 Stat. 735, 743, 749.
+Sept. 6, 1950, ch. 896, Ch. X, title III, § 301, title IV, § 401, title V, § 501, 64 Stat. 735, 743, 749.
 
-Oct. 29, 1949, ch. 787, title III, § 301, title IV, § 401, title V, § 501, 63 Stat. 993, 1006, 1014.
+Oct. 29, 1949, ch. 787, title III, § 301, title IV, § 401, title V, § 501, 63 Stat. 993, 1006, 1014.
 
 June 24, 1948, ch. 632, 62 Stat. 655.
 
-July 30, 1947, ch. 357, title I, § 1, 61 Stat. 557.
+July 30, 1947, ch. 357, title I, § 1, 61 Stat. 557.
 
-July 16, 1946, ch. 583, § 1, 60 Stat. 548.
+July 16, 1946, ch. 583, § 1, 60 Stat. 548.
 
-July 3, 1945, ch. 265, § 1, 59 Stat. 391.
+July 3, 1945, ch. 265, § 1, 59 Stat. 391.
 
-June 28, 1944, ch. 303, § 1, 58 Stat. 580.
+June 28, 1944, ch. 303, § 1, 58 Stat. 580.
 
-July 1, 1943, ch. 185, § 1, 57 Stat. 354.
+July 1, 1943, ch. 185, § 1, 57 Stat. 354.
 
-July 2, 1942, ch. 477, § 1, 56 Stat. 617.
+July 2, 1942, ch. 477, § 1, 56 Stat. 617.
 
-June 30, 1941, ch. 262, § 1, 55 Stat. 373.
+June 30, 1941, ch. 262, § 1, 55 Stat. 373.
 
-June 13, 1940, ch. 343, § 1, 54 Stat. 359.
+June 13, 1940, ch. 343, § 1, 54 Stat. 359.
 
-Apr. 26, 1939, ch. 88, § 1, 53 Stat. 600.
+Apr. 26, 1939, ch. 88, § 1, 53 Stat. 600.
 
-June 11, 1938, ch. 37, § 1, 52 Stat. 650.
+June 11, 1938, ch. 37, § 1, 52 Stat. 650.
 
-July 1, 1937, ch. 423, § 1, 50 Stat. 450.
+July 1, 1937, ch. 423, § 1, 50 Stat. 450.
 
-May 15, 1936, ch. 404, § 1, title I, 49 Stat. 1286.
+May 15, 1936, ch. 404, § 1, title I, 49 Stat. 1286.
 
-Apr. 9, 1935, ch. 54, § 1, title I, 49 Stat. 129.
+Apr. 9, 1935, ch. 54, § 1, title I, 49 Stat. 129.
 
 Apr. 26, 1934, ch. 165, title I, 48 Stat. 622.
 
@@ -2135,7 +2135,7 @@ Apr. 15, 1926, ch. 146, title I, 44 Stat. 262.
 
 **Effective Date of 2004 Amendment; Retroactive Application**
 
-Pub. L. 108–375, div. A, title V, § 584(b), (c), Oct. 28, 2004, 118 Stat. 1930, provided that:
+Pub. L. 108–375, div. A, title V, § 584(b), (c), Oct. 28, 2004, 118 Stat. 1930, provided that:
 
 > **“(b) Effective Date.—** Subsection (a) of section 1047 of title 10, United States Code, as added by subsection (a), shall take effect as of October 1, 2004, and (subject to subsection (c)) shall apply with respect to clothing furnished, and reimbursement for clothing purchased, on or after that date.
 
@@ -2145,11 +2145,11 @@ Pub. L. 108–375, div. A, title V, § 584(b), (c), Oct. 28, 2004, 118 Stat. 1
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
 
-## § 1048. Gratuity payment to persons discharged for fraudulent enlistment
+## § 1048. Gratuity payment to persons discharged for fraudulent enlistment
 
 The Secretary concerned may pay a gratuity of not to exceed $25 to a person discharged for fraudulent enlistment.
 
-(Added Pub. L. 98–525, title XIV, § 1401(d)(1), Oct. 19, 1984, 98 Stat. 2616.)
+(Added Pub. L. 98–525, title XIV, § 1401(d)(1), Oct. 19, 1984, 98 Stat. 2616.)
 
 **Editorial Notes**
 
@@ -2157,91 +2157,91 @@ The Secretary concerned may pay a gratuity of not to exceed $25 to a person disc
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
-Oct. 12, 1984, Pub. L. 98–473, title I, § 101(h) [title VIII, § 8006], 98 Stat. 1904, 1923.
+Oct. 12, 1984, Pub. L. 98–473, title I, § 101(h) [title VIII, § 8006], 98 Stat. 1904, 1923.
 
-Dec. 8, 1983, Pub. L. 98–212, title VII, § 709, 97 Stat. 1439.
+Dec. 8, 1983, Pub. L. 98–212, title VII, § 709, 97 Stat. 1439.
 
-Dec. 21, 1982, Pub. L. 97–377, title I, § 101(c) [title VII, § 709], 96 Stat. 1833, 1851.
+Dec. 21, 1982, Pub. L. 97–377, title I, § 101(c) [title VII, § 709], 96 Stat. 1833, 1851.
 
-Dec. 29, 1981, Pub. L. 97–114, title VII, § 709, 95 Stat. 1579.
+Dec. 29, 1981, Pub. L. 97–114, title VII, § 709, 95 Stat. 1579.
 
-Dec. 15, 1980, Pub. L. 96–527, title VII, § 709, 94 Stat. 3081.
+Dec. 15, 1980, Pub. L. 96–527, title VII, § 709, 94 Stat. 3081.
 
-Dec. 21, 1979, Pub. L. 96–154, title VII, § 709, 93 Stat. 1153.
+Dec. 21, 1979, Pub. L. 96–154, title VII, § 709, 93 Stat. 1153.
 
-Oct. 13, 1978, Pub. L. 95–457, title VIII, § 809, 92 Stat. 1244.
+Oct. 13, 1978, Pub. L. 95–457, title VIII, § 809, 92 Stat. 1244.
 
-Sept. 21, 1977, Pub. L. 95–111, title VIII, § 808, 91 Stat. 900.
+Sept. 21, 1977, Pub. L. 95–111, title VIII, § 808, 91 Stat. 900.
 
-Sept. 22, 1976, Pub. L. 94–419, title VII, § 708, 90 Stat. 1292.
+Sept. 22, 1976, Pub. L. 94–419, title VII, § 708, 90 Stat. 1292.
 
-Feb. 9, 1976, Pub. L. 94–212, title VII, § 708, 90 Stat. 169.
+Feb. 9, 1976, Pub. L. 94–212, title VII, § 708, 90 Stat. 169.
 
-Oct. 8, 1974, Pub. L. 93–437, title VIII, § 808, 88 Stat. 1225.
+Oct. 8, 1974, Pub. L. 93–437, title VIII, § 808, 88 Stat. 1225.
 
-Jan. 2, 1974, Pub. L. 93–238, title VII, § 708, 87 Stat. 1039.
+Jan. 2, 1974, Pub. L. 93–238, title VII, § 708, 87 Stat. 1039.
 
-Oct. 26, 1972, Pub. L. 92–570, title VII, § 708, 86 Stat. 1197.
+Oct. 26, 1972, Pub. L. 92–570, title VII, § 708, 86 Stat. 1197.
 
-Dec. 18, 1971, Pub. L. 92–204, title VII, § 708, 85 Stat. 728.
+Dec. 18, 1971, Pub. L. 92–204, title VII, § 708, 85 Stat. 728.
 
-Jan. 11, 1971, Pub. L. 91–668, title VIII, § 808, 84 Stat. 2031.
+Jan. 11, 1971, Pub. L. 91–668, title VIII, § 808, 84 Stat. 2031.
 
-Dec. 29, 1969, Pub. L. 91–171, title VI, § 608, 83 Stat. 480.
+Dec. 29, 1969, Pub. L. 91–171, title VI, § 608, 83 Stat. 480.
 
-Oct. 17, 1968, Pub. L. 90–580, title V, § 507, 82 Stat. 1130.
+Oct. 17, 1968, Pub. L. 90–580, title V, § 507, 82 Stat. 1130.
 
-Sept. 29, 1967, Pub. L. 90–96, title VI, § 607, 81 Stat. 242.
+Sept. 29, 1967, Pub. L. 90–96, title VI, § 607, 81 Stat. 242.
 
-Oct. 15, 1966, Pub. L. 89–687, title VI, § 607, 80 Stat. 991.
+Oct. 15, 1966, Pub. L. 89–687, title VI, § 607, 80 Stat. 991.
 
-Sept. 29, 1965, Pub. L. 89–213, title VI, § 607, 79 Stat. 874.
+Sept. 29, 1965, Pub. L. 89–213, title VI, § 607, 79 Stat. 874.
 
-Aug. 19, 1964, Pub. L. 88–446, title V, § 507, 78 Stat. 475.
+Aug. 19, 1964, Pub. L. 88–446, title V, § 507, 78 Stat. 475.
 
-Oct. 17, 1963, Pub. L. 88–149, title V, § 507, 77 Stat. 264.
+Oct. 17, 1963, Pub. L. 88–149, title V, § 507, 77 Stat. 264.
 
-Aug. 9, 1962, Pub. L. 87–577, title V, § 507, 76 Stat. 328.
+Aug. 9, 1962, Pub. L. 87–577, title V, § 507, 76 Stat. 328.
 
-Aug. 17, 1961, Pub. L. 87–144, title VI, § 607, 75 Stat. 376.
+Aug. 17, 1961, Pub. L. 87–144, title VI, § 607, 75 Stat. 376.
 
-July 7, 1960, Pub. L. 86–601, title V, § 507, 74 Stat. 350.
+July 7, 1960, Pub. L. 86–601, title V, § 507, 74 Stat. 350.
 
-Aug. 18, 1959, Pub. L. 86–166, title V, § 607, 73 Stat. 379.
+Aug. 18, 1959, Pub. L. 86–166, title V, § 607, 73 Stat. 379.
 
-Aug. 22, 1958, Pub. L. 85–724, title III, § 301, title V, § 501, 72 Stat. 713, 722.
+Aug. 22, 1958, Pub. L. 85–724, title III, § 301, title V, § 501, 72 Stat. 713, 722.
 
-Aug. 2, 1957, Pub. L. 85–117, title III, § 301, title V, § 501, 71 Stat. 313, 321.
+Aug. 2, 1957, Pub. L. 85–117, title III, § 301, title V, § 501, 71 Stat. 313, 321.
 
-July 2, 1956, ch. 488, title III, § 301, title V, § 501, 70 Stat. 456, 465.
+July 2, 1956, ch. 488, title III, § 301, title V, § 501, 70 Stat. 456, 465.
 
-July 13, 1955, ch. 358, title III, § 301, title V, § 501, 69 Stat. 303, 313.
+July 13, 1955, ch. 358, title III, § 301, title V, § 501, 69 Stat. 303, 313.
 
-June 30, 1954, ch. 432, title IV, § 401, title VI, § 601, 68 Stat. 339, 348.
+June 30, 1954, ch. 432, title IV, § 401, title VI, § 601, 68 Stat. 339, 348.
 
-Aug. 1, 1953, ch. 305, title III, § 301, title V, § 501, 67 Stat. 338, 348.
+Aug. 1, 1953, ch. 305, title III, § 301, title V, § 501, 67 Stat. 338, 348.
 
-July 10, 1952, ch. 630, title III, § 301, title V, § 501, 66 Stat. 519, 530.
+July 10, 1952, ch. 630, title III, § 301, title V, § 501, 66 Stat. 519, 530.
 
-Oct. 18, 1951, ch. 512, title III, § 301, title V, § 501, 65 Stat. 426, 443.
+Oct. 18, 1951, ch. 512, title III, § 301, title V, § 501, 65 Stat. 426, 443.
 
-Sept. 6, 1950, ch. 896, Ch. X, title III, § 301, title V, § 501, 64 Stat. 732, 750.
+Sept. 6, 1950, ch. 896, Ch. X, title III, § 301, title V, § 501, 64 Stat. 732, 750.
 
-Oct. 29, 1949, ch. 787, title III, § 301, title V, § 501, 63 Stat. 991, 1015.
+Oct. 29, 1949, ch. 787, title III, § 301, title V, § 501, 63 Stat. 991, 1015.
 
 June 24, 1948, ch. 632, 62 Stat. 653.
 
-July 30, 1947, ch. 357, title I, § 1, 61 Stat. 555.
+July 30, 1947, ch. 357, title I, § 1, 61 Stat. 555.
 
-July 16, 1946, ch. 583, § 1, 60 Stat. 546.
+July 16, 1946, ch. 583, § 1, 60 Stat. 546.
 
-July 3, 1945, ch. 265, § 1, 59 Stat. 389.
+July 3, 1945, ch. 265, § 1, 59 Stat. 389.
 
-June 28, 1944, ch. 303, § 1, 58 Stat. 578.
+June 28, 1944, ch. 303, § 1, 58 Stat. 578.
 
-July 1, 1943, ch. 185, § 1, 57 Stat. 352.
+July 1, 1943, ch. 185, § 1, 57 Stat. 352.
 
-July 2, 1942, ch. 477, § 1, 56 Stat. 615.
+July 2, 1942, ch. 477, § 1, 56 Stat. 615.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2249,7 +2249,7 @@ July 2, 1942, ch. 477, § 1, 56 Stat. 615.
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
 
-## § 1049. Subsistence: miscellaneous persons
+## § 1049. Subsistence: miscellaneous persons
 
 The following persons may be provided subsistence at the expense of the United States:
 
@@ -2263,7 +2263,7 @@ The following persons may be provided subsistence at the expense of the United S
 
 **(5)** Supernumeraries, when necessitated by emergent military circumstances.
 
-(Added Pub. L. 98–525, title XIV, § 1401(d)(1), Oct. 19, 1984, 98 Stat. 2616.)
+(Added Pub. L. 98–525, title XIV, § 1401(d)(1), Oct. 19, 1984, 98 Stat. 2616.)
 
 **Editorial Notes**
 
@@ -2271,105 +2271,105 @@ The following persons may be provided subsistence at the expense of the United S
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
-Oct. 12, 1984, Pub. L. 98–473, title I, § 101(h) [title VIII, § 8006], 98 Stat. 1904, 1923.
+Oct. 12, 1984, Pub. L. 98–473, title I, § 101(h) [title VIII, § 8006], 98 Stat. 1904, 1923.
 
-Dec. 8, 1983, Pub. L. 98–212, title VII, § 709, 97 Stat. 1439.
+Dec. 8, 1983, Pub. L. 98–212, title VII, § 709, 97 Stat. 1439.
 
-Dec. 21, 1982, Pub. L. 97–377, title I, § 101(c) [title VII, § 709], 96 Stat. 1833, 1851.
+Dec. 21, 1982, Pub. L. 97–377, title I, § 101(c) [title VII, § 709], 96 Stat. 1833, 1851.
 
-Dec. 29, 1981, Pub. L. 97–114, title VII, § 709, 95 Stat. 1579.
+Dec. 29, 1981, Pub. L. 97–114, title VII, § 709, 95 Stat. 1579.
 
-Dec. 15, 1980, Pub. L. 96–527, title VII, § 709, 94 Stat. 3081.
+Dec. 15, 1980, Pub. L. 96–527, title VII, § 709, 94 Stat. 3081.
 
-Dec. 21, 1979, Pub. L. 96–154, title VII, § 709, 93 Stat. 1153.
+Dec. 21, 1979, Pub. L. 96–154, title VII, § 709, 93 Stat. 1153.
 
-Oct. 13, 1978, Pub. L. 95–457, title VIII, § 809, 92 Stat. 1244.
+Oct. 13, 1978, Pub. L. 95–457, title VIII, § 809, 92 Stat. 1244.
 
-Sept. 21, 1977, Pub. L. 95–111, title VIII, § 808, 91 Stat. 900.
+Sept. 21, 1977, Pub. L. 95–111, title VIII, § 808, 91 Stat. 900.
 
-Sept. 22, 1976, Pub. L. 94–419, title VII, § 708, 90 Stat. 1292.
+Sept. 22, 1976, Pub. L. 94–419, title VII, § 708, 90 Stat. 1292.
 
-Feb. 9, 1976, Pub. L. 94–212, title VII, § 708, 90 Stat. 169.
+Feb. 9, 1976, Pub. L. 94–212, title VII, § 708, 90 Stat. 169.
 
-Oct. 8, 1974, Pub. L. 93–437, title VIII, § 808, 88 Stat. 1225.
+Oct. 8, 1974, Pub. L. 93–437, title VIII, § 808, 88 Stat. 1225.
 
-Jan. 2, 1974, Pub. L. 93–238, title VII, § 708, 87 Stat. 1039.
+Jan. 2, 1974, Pub. L. 93–238, title VII, § 708, 87 Stat. 1039.
 
-Oct. 26, 1972, Pub. L. 92–570, title VII, § 708, 86 Stat. 1197.
+Oct. 26, 1972, Pub. L. 92–570, title VII, § 708, 86 Stat. 1197.
 
-Dec. 18, 1971, Pub. L. 92–204, title VII, § 708, 85 Stat. 728.
+Dec. 18, 1971, Pub. L. 92–204, title VII, § 708, 85 Stat. 728.
 
-Jan. 11, 1971, Pub. L. 91–668, title VIII, § 808, 84 Stat. 2031.
+Jan. 11, 1971, Pub. L. 91–668, title VIII, § 808, 84 Stat. 2031.
 
-Dec. 29, 1969, Pub. L. 91–171, title VI, § 608, 83 Stat. 480.
+Dec. 29, 1969, Pub. L. 91–171, title VI, § 608, 83 Stat. 480.
 
-Oct. 17, 1968, Pub. L. 90–580, title V, § 507, 82 Stat. 1130.
+Oct. 17, 1968, Pub. L. 90–580, title V, § 507, 82 Stat. 1130.
 
-Sept. 29, 1967, Pub. L. 90–96, title VI, § 607, 81 Stat. 242.
+Sept. 29, 1967, Pub. L. 90–96, title VI, § 607, 81 Stat. 242.
 
-Oct. 15, 1966, Pub. L. 89–687, title VI, § 607, 80 Stat. 991.
+Oct. 15, 1966, Pub. L. 89–687, title VI, § 607, 80 Stat. 991.
 
-Sept. 29, 1965, Pub. L. 89–213, title VI, § 607, 79 Stat. 874.
+Sept. 29, 1965, Pub. L. 89–213, title VI, § 607, 79 Stat. 874.
 
-Aug. 19, 1964, Pub. L. 88–446, title V, § 507, 78 Stat. 475.
+Aug. 19, 1964, Pub. L. 88–446, title V, § 507, 78 Stat. 475.
 
-Oct. 17, 1963, Pub. L. 88–149, title V, § 507, 77 Stat. 264.
+Oct. 17, 1963, Pub. L. 88–149, title V, § 507, 77 Stat. 264.
 
-Aug. 9, 1962, Pub. L. 87–577, title V, § 507, 76 Stat. 328.
+Aug. 9, 1962, Pub. L. 87–577, title V, § 507, 76 Stat. 328.
 
-Aug. 17, 1961, Pub. L. 87–144, title II, § 201, title VI, § 607, 75 Stat. 367, 376.
+Aug. 17, 1961, Pub. L. 87–144, title II, § 201, title VI, § 607, 75 Stat. 367, 376.
 
-July 7, 1960, Pub. L. 86–601, title II, § 201, title V, § 507, 74 Stat. 340, 350.
+July 7, 1960, Pub. L. 86–601, title II, § 201, title V, § 507, 74 Stat. 340, 350.
 
-Aug. 18, 1959, Pub. L. 86–166, title II, § 201, title V, § 607, 73 Stat. 368, 379.
+Aug. 18, 1959, Pub. L. 86–166, title II, § 201, title V, § 607, 73 Stat. 368, 379.
 
-Aug. 22, 1958, Pub. L. 85–724, title III, § 301, title V, § 501, 72 Stat. 713, 714, 721, 722.
+Aug. 22, 1958, Pub. L. 85–724, title III, § 301, title V, § 501, 72 Stat. 713, 714, 721, 722.
 
-Aug. 2, 1957, Pub. L. 85–117, title III, § 301, title V, § 501, 71 Stat. 313, 314, 321.
+Aug. 2, 1957, Pub. L. 85–117, title III, § 301, title V, § 501, 71 Stat. 313, 314, 321.
 
-July 2, 1956, ch. 488, title III, § 301, title V, § 501, 70 Stat. 456, 457, 465.
+July 2, 1956, ch. 488, title III, § 301, title V, § 501, 70 Stat. 456, 457, 465.
 
-July 13, 1955, ch. 358, title III, § 301, title V, § 501, 69 Stat. 303, 312.
+July 13, 1955, ch. 358, title III, § 301, title V, § 501, 69 Stat. 303, 312.
 
-June 30, 1954, ch. 432, title IV, § 401, title VI, § 601, 68 Stat. 339, 348.
+June 30, 1954, ch. 432, title IV, § 401, title VI, § 601, 68 Stat. 339, 348.
 
-Aug. 1, 1953, ch. 305, title III, § 301, title V, § 501, 67 Stat. 338, 339, 348.
+Aug. 1, 1953, ch. 305, title III, § 301, title V, § 501, 67 Stat. 338, 339, 348.
 
-July 10, 1952, ch. 630, title III, § 301, title V, § 501, 66 Stat. 519, 520, 529.
+July 10, 1952, ch. 630, title III, § 301, title V, § 501, 66 Stat. 519, 520, 529.
 
-Oct. 18, 1951, ch. 512, title III, § 301, title V, § 501, 65 Stat. 428, 443.
+Oct. 18, 1951, ch. 512, title III, § 301, title V, § 501, 65 Stat. 428, 443.
 
-Sept. 6, 1950, ch. 896, Ch. X, title III, § 301, title V, § 501, 64 Stat. 734, 749, 750.
+Sept. 6, 1950, ch. 896, Ch. X, title III, § 301, title V, § 501, 64 Stat. 734, 749, 750.
 
-Oct. 29, 1949, ch. 787, title III, § 301, title V, § 501, 63 Stat. 991, 992, 1015.
+Oct. 29, 1949, ch. 787, title III, § 301, title V, § 501, 63 Stat. 991, 992, 1015.
 
 June 24, 1948, ch. 632, 62 Stat. 654.
 
-July 30, 1947, ch. 357, title I, § 1, 61 Stat. 556.
+July 30, 1947, ch. 357, title I, § 1, 61 Stat. 556.
 
-July 16, 1946, ch. 583, § 1, 60 Stat. 546, 547.
+July 16, 1946, ch. 583, § 1, 60 Stat. 546, 547.
 
-July 3, 1945, ch. 265, § 1, 59 Stat. 389, 390.
+July 3, 1945, ch. 265, § 1, 59 Stat. 389, 390.
 
-June 28, 1944, ch. 303, § 1, 58 Stat. 579.
+June 28, 1944, ch. 303, § 1, 58 Stat. 579.
 
-July 1, 1943, ch. 185, § 1, 57 Stat. 353.
+July 1, 1943, ch. 185, § 1, 57 Stat. 353.
 
-July 2, 1942, ch. 477, § 1, 56 Stat. 616.
+July 2, 1942, ch. 477, § 1, 56 Stat. 616.
 
-June 30, 1941, ch. 262, § 1, 55 Stat. 372.
+June 30, 1941, ch. 262, § 1, 55 Stat. 372.
 
-June 13, 1940, ch. 343, § 1, 54 Stat. 357.
+June 13, 1940, ch. 343, § 1, 54 Stat. 357.
 
-Apr. 26, 1939, ch. 88, § 1, 53 Stat. 599.
+Apr. 26, 1939, ch. 88, § 1, 53 Stat. 599.
 
-June 11, 1938, ch. 37, § 1, 52 Stat. 648.
+June 11, 1938, ch. 37, § 1, 52 Stat. 648.
 
-July 1, 1937, ch. 423, § 1, 50 Stat. 448.
+July 1, 1937, ch. 423, § 1, 50 Stat. 448.
 
-May 15, 1936, ch. 404, § 1, title I, 49 Stat. 1285.
+May 15, 1936, ch. 404, § 1, title I, 49 Stat. 1285.
 
-Apr. 9, 1935, ch. 54, § 1, title I, 49 Stat. 127.
+Apr. 9, 1935, ch. 54, § 1, title I, 49 Stat. 127.
 
 Apr. 26, 1934, ch. 165, title I, 48 Stat. 620.
 
@@ -2397,9 +2397,9 @@ Feb. 12, 1925, ch. 225, title I, 43 Stat. 898.
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
 
-## [§ 1050. Repealed. Pub. L. 114–328, div. A, title XII, § 1243(b)(1), Dec. 23, 2016, 130 Stat. 2516]
+## [§ 1050. Repealed. Pub. L. 114–328, div. A, title XII, § 1243(b)(1), Dec. 23, 2016, 130 Stat. 2516]
 
-Section, added Pub. L. 98–525, title XIV, § 1401(d)(1), Oct. 19, 1984, 98 Stat. 2616; amended Pub. L. 105–261, div. A, title IX, § 905(b), Oct. 17, 1998, 112 Stat. 2093, related to the payment of personnel expenses for Latin American cooperation.
+Section, added Pub. L. 98–525, title XIV, § 1401(d)(1), Oct. 19, 1984, 98 Stat. 2616; amended Pub. L. 105–261, div. A, title IX, § 905(b), Oct. 17, 1998, 112 Stat. 2093, related to the payment of personnel expenses for Latin American cooperation.
 
 **Editorial Notes**
 
@@ -2407,119 +2407,119 @@ Section, added Pub. L. 98–525, title XIV, § 1401(d)(1), Oct. 19, 1984, 98 S
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, § 8006], Oct. 12, 1984, 98 Stat. 1904, 1923.
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8006], Oct. 12, 1984, 98 Stat. 1904, 1923.
 
-Pub. L. 98–212, title VII, § 709, Dec. 8, 1983, 97 Stat. 1439.
+Pub. L. 98–212, title VII, § 709, Dec. 8, 1983, 97 Stat. 1439.
 
-Pub. L. 97–377, title I, § 101(c) [title VII, § 709], Dec. 21, 1982, 96 Stat. 1833, 1851.
+Pub. L. 97–377, title I, § 101(c) [title VII, § 709], Dec. 21, 1982, 96 Stat. 1833, 1851.
 
-Pub. L. 97–114, title VII, § 709, Dec. 29, 1981, 95 Stat. 1579.
+Pub. L. 97–114, title VII, § 709, Dec. 29, 1981, 95 Stat. 1579.
 
-Pub. L. 96–527, title VII, § 709, Dec. 15, 1980, 94 Stat. 3081.
+Pub. L. 96–527, title VII, § 709, Dec. 15, 1980, 94 Stat. 3081.
 
-Pub. L. 96–154, title VII, § 709, Dec. 21, 1979, 93 Stat. 1153.
+Pub. L. 96–154, title VII, § 709, Dec. 21, 1979, 93 Stat. 1153.
 
-Pub. L. 95–457, title VIII, § 809, Oct. 13, 1978, 92 Stat. 1244.
+Pub. L. 95–457, title VIII, § 809, Oct. 13, 1978, 92 Stat. 1244.
 
-Pub. L. 95–111, title VIII, § 808, Sept. 21, 1977, 91 Stat. 900.
+Pub. L. 95–111, title VIII, § 808, Sept. 21, 1977, 91 Stat. 900.
 
-Pub. L. 94–419, title VII, § 708, Sept. 22, 1976, 90 Stat. 1292.
+Pub. L. 94–419, title VII, § 708, Sept. 22, 1976, 90 Stat. 1292.
 
-Pub. L. 94–212, title VII, § 708, Feb. 9, 1976, 90 Stat. 169.
+Pub. L. 94–212, title VII, § 708, Feb. 9, 1976, 90 Stat. 169.
 
-Pub. L. 93–437, title VIII, § 808, Oct. 8, 1974, 88 Stat. 1225.
+Pub. L. 93–437, title VIII, § 808, Oct. 8, 1974, 88 Stat. 1225.
 
-Pub. L. 93–238, title VII, § 708, Jan. 2, 1974, 87 Stat. 1039.
+Pub. L. 93–238, title VII, § 708, Jan. 2, 1974, 87 Stat. 1039.
 
-Pub. L. 92–570, title VII, § 708, Oct. 26, 1972, 86 Stat. 1197.
+Pub. L. 92–570, title VII, § 708, Oct. 26, 1972, 86 Stat. 1197.
 
-Pub. L. 92–204, title VII, § 708, Dec. 18, 1971, 85 Stat. 728.
+Pub. L. 92–204, title VII, § 708, Dec. 18, 1971, 85 Stat. 728.
 
-Pub. L. 91–668, title VIII, § 808, Jan. 11, 1971, 84 Stat. 2031.
+Pub. L. 91–668, title VIII, § 808, Jan. 11, 1971, 84 Stat. 2031.
 
-Pub. L. 91–171, title VI, § 608, Dec. 29, 1969, 83 Stat. 480.
+Pub. L. 91–171, title VI, § 608, Dec. 29, 1969, 83 Stat. 480.
 
-Pub. L. 90–580, title V, § 507, Oct. 17, 1968, 82 Stat. 1130.
+Pub. L. 90–580, title V, § 507, Oct. 17, 1968, 82 Stat. 1130.
 
-Pub. L. 90–96, title VI, § 607, Sept. 29, 1967, 81 Stat. 242.
+Pub. L. 90–96, title VI, § 607, Sept. 29, 1967, 81 Stat. 242.
 
-Pub. L. 89–687, title VI, § 607, Oct. 15, 1966, 80 Stat. 991.
+Pub. L. 89–687, title VI, § 607, Oct. 15, 1966, 80 Stat. 991.
 
-Pub. L. 89–213, title VI, § 607, Sept. 29, 1965, 79 Stat. 874.
+Pub. L. 89–213, title VI, § 607, Sept. 29, 1965, 79 Stat. 874.
 
-Pub. L. 88–446, title V, § 507, Aug. 19, 1964, 78 Stat. 475.
+Pub. L. 88–446, title V, § 507, Aug. 19, 1964, 78 Stat. 475.
 
-Pub. L. 88–149, title V, § 507, Oct. 17, 1963, 77 Stat. 264.
+Pub. L. 88–149, title V, § 507, Oct. 17, 1963, 77 Stat. 264.
 
-Pub. L. 87–577, title V, § 507, Aug. 9, 1962, 76 Stat. 328.
+Pub. L. 87–577, title V, § 507, Aug. 9, 1962, 76 Stat. 328.
 
-Pub. L. 87–144, title II, § 201, Aug. 17, 1961, 75 Stat. 367, 369.
+Pub. L. 87–144, title II, § 201, Aug. 17, 1961, 75 Stat. 367, 369.
 
-Pub. L. 86–601, title II, § 201, July 7, 1960, 74 Stat. 341, 343.
+Pub. L. 86–601, title II, § 201, July 7, 1960, 74 Stat. 341, 343.
 
-Pub. L. 86–166, title II, § 201, Aug. 18, 1959, 73 Stat. 369, 371.
+Pub. L. 86–166, title II, § 201, Aug. 18, 1959, 73 Stat. 369, 371.
 
-Pub. L. 85–724, title III, § 301, title V, § 501, Aug. 22, 1958, 72 Stat. 714, 721.
+Pub. L. 85–724, title III, § 301, title V, § 501, Aug. 22, 1958, 72 Stat. 714, 721.
 
-Pub. L. 85–117, title III, § 301, title V, § 501, Aug. 2, 1957, 71 Stat. 314, 321.
+Pub. L. 85–117, title III, § 301, title V, § 501, Aug. 2, 1957, 71 Stat. 314, 321.
 
-July 2, 1956, ch. 488, title III, § 301, title V, § 501, 70 Stat. 457, 465.
+July 2, 1956, ch. 488, title III, § 301, title V, § 501, 70 Stat. 457, 465.
 
-July 13, 1955, ch. 358, title III, § 301, title V, § 501, 69 Stat. 304, 312.
+July 13, 1955, ch. 358, title III, § 301, title V, § 501, 69 Stat. 304, 312.
 
-June 30, 1954, ch. 432, title IV, § 401, title VI, § 601, 68 Stat. 340, 347.
+June 30, 1954, ch. 432, title IV, § 401, title VI, § 601, 68 Stat. 340, 347.
 
-Aug. 1, 1953, ch. 305, title III, § 301, title V, § 501, 67 Stat. 339, 347.
+Aug. 1, 1953, ch. 305, title III, § 301, title V, § 501, 67 Stat. 339, 347.
 
-July 10, 1952, ch. 630, title III, § 301, title V, § 501, 66 Stat. 521, 529.
+July 10, 1952, ch. 630, title III, § 301, title V, § 501, 66 Stat. 521, 529.
 
-Oct. 18, 1951, ch. 512, title III, § 301, title V, § 501, 65 Stat. 426, 442.
+Oct. 18, 1951, ch. 512, title III, § 301, title V, § 501, 65 Stat. 426, 442.
 
-Sept. 6, 1950, ch. 896, Ch. X, title III, § 301, title V, § 501, 64 Stat. 732, 749.
+Sept. 6, 1950, ch. 896, Ch. X, title III, § 301, title V, § 501, 64 Stat. 732, 749.
 
-Oct. 29, 1949, ch. 787, title III, § 301, title V, § 501, 63 Stat. 989, 1014.
+Oct. 29, 1949, ch. 787, title III, § 301, title V, § 501, 63 Stat. 989, 1014.
 
 June 24, 1948, ch. 632, 62 Stat. 650.
 
-July 30, 1947, ch. 357, title I, § 1, 61 Stat. 568.
+July 30, 1947, ch. 357, title I, § 1, 61 Stat. 568.
 
-July 16, 1946, ch. 583, § 1, 60 Stat. 560.
+July 16, 1946, ch. 583, § 1, 60 Stat. 560.
 
-July 3, 1945, ch. 265, § 1, 59 Stat. 401.
+July 3, 1945, ch. 265, § 1, 59 Stat. 401.
 
-June 28, 1944, ch. 303, § 1, 58 Stat. 591.
+June 28, 1944, ch. 303, § 1, 58 Stat. 591.
 
-July 1, 1943, ch. 185, § 1, 57 Stat. 365.
+July 1, 1943, ch. 185, § 1, 57 Stat. 365.
 
-July 2, 1942, ch. 477, § 1, 56 Stat. 628.
+July 2, 1942, ch. 477, § 1, 56 Stat. 628.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision for Fiscal Years 2017, 2018, and 2019**
 
-Pub. L. 114–328, div. A, title XII, § 1243(c), Dec. 23, 2016, 130 Stat. 2516, as amended by Pub. L. 115–91, div. A, title XII, § 1208, Dec. 12, 2017, 131 Stat. 1647, provided that: “The authority under section 1050 of title 10, United States Code, as in effect on the day before the date of the enactment of this Act [Dec. 23, 2016], shall continue to apply with respect to the Inter-American Defense College during fiscal years 2017, 2018, and 2019 under regulations prescribed by the Secretary of Defense.”
+Pub. L. 114–328, div. A, title XII, § 1243(c), Dec. 23, 2016, 130 Stat. 2516, as amended by Pub. L. 115–91, div. A, title XII, § 1208, Dec. 12, 2017, 131 Stat. 1647, provided that: “The authority under section 1050 of title 10, United States Code, as in effect on the day before the date of the enactment of this Act [Dec. 23, 2016], shall continue to apply with respect to the Inter-American Defense College during fiscal years 2017, 2018, and 2019 under regulations prescribed by the Secretary of Defense.”
 
-## [§§ 1050a to 1051a. Repealed. Pub. L. 114–328, div. A, title XII, § 1243(b)(1), Dec. 23, 2016, 130 Stat. 2516]
+## [§§ 1050a to 1051a. Repealed. Pub. L. 114–328, div. A, title XII, § 1243(b)(1), Dec. 23, 2016, 130 Stat. 2516]
 
-Section 1050a, added Pub. L. 111–383, div. A, title XII, § 1204(a), Jan. 7, 2011, 124 Stat. 4386, related to the payment of personnel expenses for African cooperation.
+Section 1050a, added Pub. L. 111–383, div. A, title XII, § 1204(a), Jan. 7, 2011, 124 Stat. 4386, related to the payment of personnel expenses for African cooperation.
 
-Section 1051, added Pub. L. 99–661, div. A, title XIII, § 1322(a), Nov. 14, 1986, 100 Stat. 3989; amended Pub. L. 101–189, div. A, title IX, § 936, Nov. 29, 1989, 103 Stat. 1538; Pub. L. 101–510, div. A, title XIII, § 1301(5), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–484, div. A, title XIII, § 1362, Oct. 23, 1992, 106 Stat. 2560; Pub. L. 107–314, div. A, title XII, § 1202(a), Dec. 2, 2002, 116 Stat. 2663; Pub. L. 109–163, div. A, title XII, § 1203, Jan. 6, 2006, 119 Stat. 3456; Pub. L. 110–417, [div. A], title XII, § 1231(a), (b)(1), (c)(1), Oct. 14, 2008, 122 Stat. 4636, 4637, related to the payment of expenses for multilateral, bilateral, or regional cooperation programs.
+Section 1051, added Pub. L. 99–661, div. A, title XIII, § 1322(a), Nov. 14, 1986, 100 Stat. 3989; amended Pub. L. 101–189, div. A, title IX, § 936, Nov. 29, 1989, 103 Stat. 1538; Pub. L. 101–510, div. A, title XIII, § 1301(5), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–484, div. A, title XIII, § 1362, Oct. 23, 1992, 106 Stat. 2560; Pub. L. 107–314, div. A, title XII, § 1202(a), Dec. 2, 2002, 116 Stat. 2663; Pub. L. 109–163, div. A, title XII, § 1203, Jan. 6, 2006, 119 Stat. 3456; Pub. L. 110–417, [div. A], title XII, § 1231(a), (b)(1), (c)(1), Oct. 14, 2008, 122 Stat. 4636, 4637, related to the payment of expenses for multilateral, bilateral, or regional cooperation programs.
 
-Section 1051a, added Pub. L. 107–314, div. A, title XII, § 1201(a)(1), Dec. 2, 2002, 116 Stat. 2662; amended Pub. L. 109–13, div. A, title I, § 1010, May 11, 2005, 119 Stat. 244; Pub. L. 109–163, div. A, title XII, § 1205, Jan. 6, 2006, 119 Stat. 3456; Pub. L. 110–181, div. A, title XII, § 1203(a)–(e)(1), Jan. 28, 2008, 122 Stat. 364, 365; Pub. L. 111–84, div. A, title XII, § 1205(a), Oct. 28, 2009, 123 Stat. 2514; Pub. L. 113–291, div. A, title XII, § 1203, Dec. 19, 2014, 128 Stat. 3530, related to the payment of travel, subsistence, medical care, and other personal expenses and the provision of administrative services and support to liaison officers of certain foreign nations.
+Section 1051a, added Pub. L. 107–314, div. A, title XII, § 1201(a)(1), Dec. 2, 2002, 116 Stat. 2662; amended Pub. L. 109–13, div. A, title I, § 1010, May 11, 2005, 119 Stat. 244; Pub. L. 109–163, div. A, title XII, § 1205, Jan. 6, 2006, 119 Stat. 3456; Pub. L. 110–181, div. A, title XII, § 1203(a)–(e)(1), Jan. 28, 2008, 122 Stat. 364, 365; Pub. L. 111–84, div. A, title XII, § 1205(a), Oct. 28, 2009, 123 Stat. 2514; Pub. L. 113–291, div. A, title XII, § 1203, Dec. 19, 2014, 128 Stat. 3530, related to the payment of travel, subsistence, medical care, and other personal expenses and the provision of administrative services and support to liaison officers of certain foreign nations.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Air Force Scholarships for Partnership for Peace Nations To Participate in the Euro-NATO Joint Jet Pilot Training Program**
 
-Pub. L. 111–383, div. A, title XII, § 1206, Jan. 7, 2011, 124 Stat. 4387, permitted the Secretary of the Air Force to establish and maintain a demonstration scholarship program, until Sept. 30, 2012, to allow personnel of the air forces of countries that are signatories of the Partnership for Peace Framework Document to receive undergraduate pilot training and necessary related training through the Euro-NATO Joint Jet Pilot Training (ENJJPT) program.
+Pub. L. 111–383, div. A, title XII, § 1206, Jan. 7, 2011, 124 Stat. 4387, permitted the Secretary of the Air Force to establish and maintain a demonstration scholarship program, until Sept. 30, 2012, to allow personnel of the air forces of countries that are signatories of the Partnership for Peace Framework Document to receive undergraduate pilot training and necessary related training through the Euro-NATO Joint Jet Pilot Training (ENJJPT) program.
 
-## [§ 1051b. Renumbered § 313]
+## [§ 1051b. Renumbered § 313]
 
-## [§ 1051c. Repealed. Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(B), Dec. 23, 2016, 130 Stat. 2532]
+## [§ 1051c. Repealed. Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(B), Dec. 23, 2016, 130 Stat. 2532]
 
-Section, added Pub. L. 112–81, div. A, title IX, § 951(a)(1), Dec. 31, 2011, 125 Stat. 1548, related to assignments to improve education and training in information security as part of multilateral, bilateral, or regional cooperation programs.
+Section, added Pub. L. 112–81, div. A, title IX, § 951(a)(1), Dec. 31, 2011, 125 Stat. 1548, related to assignments to improve education and training in information security as part of multilateral, bilateral, or regional cooperation programs.
 
-## § 1052. Adoption expenses: reimbursement
+## § 1052. Adoption expenses: reimbursement
 
 **(a) Authorization To Reimburse.—** The Secretary of Defense shall carry out a program under which a member of the armed forces may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member in the adoption of a child under 18 years of age.
 
@@ -2569,7 +2569,7 @@ Section, added Pub. L. 112–81, div. A, title IX, § 951(a)(1), Dec. 31, 2011
 
 **(ii)** a certificate of citizenship has been issued for such child under section 322 of that Act (8 U.S.C. 1433).
 
-(Added Pub. L. 102–190, div. A, title VI, § 651(a)(1), Dec. 5, 1991, 105 Stat. 1385; amended Pub. L. 102–484, div. A, title X, § 1052(12), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 104–201, div. A, title VI, § 652(a), Sept. 23, 1996, 110 Stat. 2582; Pub. L. 106–398, § 1 [[div. A], title V, § 579(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–141; Pub. L. 108–375, div. A, title VI, § 661, Oct. 28, 2004, 118 Stat. 1974; Pub. L. 109–163, div. A, title V, § 592(a), Jan. 6, 2006, 119 Stat. 3280.)
+(Added Pub. L. 102–190, div. A, title VI, § 651(a)(1), Dec. 5, 1991, 105 Stat. 1385; amended Pub. L. 102–484, div. A, title X, § 1052(12), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 104–201, div. A, title VI, § 652(a), Sept. 23, 1996, 110 Stat. 2582; Pub. L. 106–398, § 1 [[div. A], title V, § 579(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–141; Pub. L. 108–375, div. A, title VI, § 661, Oct. 28, 2004, 118 Stat. 1974; Pub. L. 109–163, div. A, title V, § 592(a), Jan. 6, 2006, 119 Stat. 3280.)
 
 **Editorial Notes**
 
@@ -2585,9 +2585,9 @@ A prior section 1052 was renumbered section 1063 of this title and subsequently 
 
 2000—Pub. L. 106–398 substituted “Adoption expenses: reimbursement” for “Reimbursement for adoption expenses” in section catchline.
 
-1996—Subsec. (g)(1). Pub. L. 104–201, § 652(a)(1), substituted “qualified adoption agency.” for “State or local government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.”
+1996—Subsec. (g)(1). Pub. L. 104–201, § 652(a)(1), substituted “qualified adoption agency.” for “State or local government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.”
 
-Subsec. (g)(3). Pub. L. 104–201, § 652(a)(2), added par. (3).
+Subsec. (g)(3). Pub. L. 104–201, § 652(a)(2), added par. (3).
 
 1992—Subsec. (b). Pub. L. 102–484 inserted close parenthesis before period at end.
 
@@ -2595,13 +2595,13 @@ Subsec. (g)(3). Pub. L. 104–201, § 652(a)(2), added par. (3).
 
 **Effective Date**
 
-Pub. L. 102–190, div. A, title VI, § 651(c), Dec. 5, 1991, 105 Stat. 1387, provided that: “The amendments made by subsections (a) and (b) [enacting this section and section 514 of Title 14, Coast Guard] shall take effect on the date of the enactment of this Act [Dec. 5, 1991] and shall apply to adoptions completed on or after that date.”
+Pub. L. 102–190, div. A, title VI, § 651(c), Dec. 5, 1991, 105 Stat. 1387, provided that: “The amendments made by subsections (a) and (b) [enacting this section and section 514 of Title 14, Coast Guard] shall take effect on the date of the enactment of this Act [Dec. 5, 1991] and shall apply to adoptions completed on or after that date.”
 
 **Reimbursement for Adoptions Completed During Period Between Test and Permanent Program**
 
-Pub. L. 102–484, div. A, title VI, § 652, Oct. 23, 1992, 106 Stat. 2426, provided that this section and section 514 (now 2903) of Title 14, Coast Guard, would apply with respect to the reimbursement of adoption expenses incurred for an adoption proceeding completed during the period beginning on Oct. 1, 1990, and ending on Dec. 4, 1991, to the extent that such expenses would have been covered if the proceeding had been completed after Dec. 4, 1991, but only if an application for such reimbursement had been made within one year after Oct. 23, 1992.
+Pub. L. 102–484, div. A, title VI, § 652, Oct. 23, 1992, 106 Stat. 2426, provided that this section and section 514 (now 2903) of Title 14, Coast Guard, would apply with respect to the reimbursement of adoption expenses incurred for an adoption proceeding completed during the period beginning on Oct. 1, 1990, and ending on Dec. 4, 1991, to the extent that such expenses would have been covered if the proceeding had been completed after Dec. 4, 1991, but only if an application for such reimbursement had been made within one year after Oct. 23, 1992.
 
-## § 1053. Financial institution charges incurred because of Government error in direct deposit of pay: reimbursement
+## § 1053. Financial institution charges incurred because of Government error in direct deposit of pay: reimbursement
 
 **(a)**
 
@@ -2619,7 +2619,7 @@ Pub. L. 102–484, div. A, title VI, § 652, Oct. 23, 1992, 106 Stat. 2426, pr
 
 **(2)** The term “pay” includes (A) retired pay, and (B) allowances.
 
-(Added Pub. L. 99–661, div. A, title VI, § 662(a)(1), Nov. 14, 1986, 100 Stat. 3893; amended Pub. L. 101–189, div. A, title VI, § 664(a)(1)–(3)(A), Nov. 29, 1989, 103 Stat. 1466; Pub. L. 102–25, title VII, § 701(e)(8)(A), Apr. 6, 1991, 105 Stat. 115; Pub. L. 104–106, div. A, title XV, § 1501(c)(8), Feb. 10, 1996, 110 Stat. 499; Pub. L. 105–261, div. A, title V, § 564(a), Oct. 17, 1998, 112 Stat. 2029; Pub. L. 106–398, § 1 [[div. A], title V, § 579(c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–141.)
+(Added Pub. L. 99–661, div. A, title VI, § 662(a)(1), Nov. 14, 1986, 100 Stat. 3893; amended Pub. L. 101–189, div. A, title VI, § 664(a)(1)–(3)(A), Nov. 29, 1989, 103 Stat. 1466; Pub. L. 102–25, title VII, § 701(e)(8)(A), Apr. 6, 1991, 105 Stat. 115; Pub. L. 104–106, div. A, title XV, § 1501(c)(8), Feb. 10, 1996, 110 Stat. 499; Pub. L. 105–261, div. A, title V, § 564(a), Oct. 17, 1998, 112 Stat. 2029; Pub. L. 106–398, § 1 [[div. A], title V, § 579(c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–141.)
 
 **Editorial Notes**
 
@@ -2633,31 +2633,31 @@ Pub. L. 102–484, div. A, title VI, § 652, Oct. 23, 1992, 106 Stat. 2426, pr
 
 1991—Pub. L. 102–25 struck out “mandatory” after “error in” in section catchline.
 
-1989—Pub. L. 101–189, § 664(a)(3)(A), amended section catchline generally, substituting “Reimbursement for financial institution charges incurred because of Government” for “Relief for expenses because of”.
+1989—Pub. L. 101–189, § 664(a)(3)(A), amended section catchline generally, substituting “Reimbursement for financial institution charges incurred because of Government” for “Relief for expenses because of”.
 
-Subsec. (a). Pub. L. 101–189, § 664(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A member of the armed forces who, by law or regulation, is required to participate in a program for the automatic deposit of pay to a financial institution may be reimbursed for overdraft charges levied by the financial institution when such charges result from an administrative or mechanical error on the part of the Government that causes such member’s pay to be deposited late or in an incorrect amount or manner.”
+Subsec. (a). Pub. L. 101–189, § 664(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A member of the armed forces who, by law or regulation, is required to participate in a program for the automatic deposit of pay to a financial institution may be reimbursed for overdraft charges levied by the financial institution when such charges result from an administrative or mechanical error on the part of the Government that causes such member’s pay to be deposited late or in an incorrect amount or manner.”
 
-Subsec. (d). Pub. L. 101–189, § 664(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In this section, the term ‘financial institution’ has the meaning given that term in section 3332 of title 31.”
+Subsec. (d). Pub. L. 101–189, § 664(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In this section, the term ‘financial institution’ has the meaning given that term in section 3332 of title 31.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–189, div. A, title VI, § 664(c), Nov. 29, 1989, 103 Stat. 1467, provided that: “The amendments made by subsection (a) [amending this section], and section 1594 of title 10, United States Code, as added by subsection (b), shall apply with respect to pay and allowances deposited (or scheduled to be deposited) on or after the first day of the first month beginning after the date of the enactment of this Act [Nov. 29, 1989].”
+Pub. L. 101–189, div. A, title VI, § 664(c), Nov. 29, 1989, 103 Stat. 1467, provided that: “The amendments made by subsection (a) [amending this section], and section 1594 of title 10, United States Code, as added by subsection (b), shall apply with respect to pay and allowances deposited (or scheduled to be deposited) on or after the first day of the first month beginning after the date of the enactment of this Act [Nov. 29, 1989].”
 
 **Effective Date**
 
-Pub. L. 99–661, div. A, title VI, § 662(c), Nov. 14, 1986, 100 Stat. 3894, provided that: “Section 1053 of title 10, United States Code, as added by subsection (a), shall apply only with respect to charges levied as a result of errors occurring on or after the date of the enactment of this Act [Nov. 14, 1986].”
+Pub. L. 99–661, div. A, title VI, § 662(c), Nov. 14, 1986, 100 Stat. 3894, provided that: “Section 1053 of title 10, United States Code, as added by subsection (a), shall apply only with respect to charges levied as a result of errors occurring on or after the date of the enactment of this Act [Nov. 14, 1986].”
 
-## [§ 1053a. Repealed. Pub. L. 113–66, div. A, title VI, § 621(c)(2)(A), Dec. 26, 2013, 127 Stat. 784]
+## [§ 1053a. Repealed. Pub. L. 113–66, div. A, title VI, § 621(c)(2)(A), Dec. 26, 2013, 127 Stat. 784]
 
-Section, added Pub. L. 106–398, § 1 [[div. A], title V, § 579(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–141, related to reimbursement for expenses incurred in connection with leave canceled due to contingency operations.
+Section, added Pub. L. 106–398, § 1 [[div. A], title V, § 579(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–141, related to reimbursement for expenses incurred in connection with leave canceled due to contingency operations.
 
-## § 1054. Defense of certain suits arising out of legal malpractice
+## § 1054. Defense of certain suits arising out of legal malpractice
 
 **(a)** The remedy against the United States provided by sections 1346(b) and 2672 of title 28 for damages for injury or loss of property caused by the negligent or wrongful act or omission of any person who is an attorney, paralegal, or other member of a legal staff within the Department of Defense (including the National Guard while engaged in training or duty under section 316, 502, 503, 504, or 505 of title 32) or within the Coast Guard, in connection with providing legal services while acting within the scope of the person’s duties or employment, is exclusive of any other civil action or proceeding by reason of the same subject matter against the person (or the estate of the person) whose act or omission gave rise to such action or proceeding.
 
@@ -2683,31 +2683,31 @@ Section, added Pub. L. 106–398, § 1 [[div. A], title V, § 579(a)], Oct. 
 
 **(g)** In this section, the term “head of the agency concerned” means the Secretary of Defense, the Secretary of a military department, or the Secretary of the department in which the Coast Guard is operating, as appropriate.
 
-(Added Pub. L. 99–661, div. A, title XIII, § 1356(a)(1), Nov. 14, 1986, 100 Stat. 3996; amended Pub. L. 100–448, § 15(a), Sept. 28, 1988, 102 Stat. 1845.)
+(Added Pub. L. 99–661, div. A, title XIII, § 1356(a)(1), Nov. 14, 1986, 100 Stat. 3996; amended Pub. L. 100–448, § 15(a), Sept. 28, 1988, 102 Stat. 1845.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–448, § 15(a)(1), inserted “or within the Coast Guard” after “of title 32)”.
+1988—Subsec. (a). Pub. L. 100–448, § 15(a)(1), inserted “or within the Coast Guard” after “of title 32)”.
 
-Subsec. (g). Pub. L. 100–448, § 15(a)(2), inserted reference to the Secretary of the department in which the Coast Guard is operating.
+Subsec. (g). Pub. L. 100–448, § 15(a)(2), inserted reference to the Secretary of the department in which the Coast Guard is operating.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–448, § 15(b), Sept. 28, 1988, 102 Stat. 1845, provided that: “The amendments made by subsection (a) [amending this section] shall apply only to claims accruing on or after the date of the enactment of this Act [Sept. 28, 1988], regardless of when the alleged negligent act or omission occurred.”
+Pub. L. 100–448, § 15(b), Sept. 28, 1988, 102 Stat. 1845, provided that: “The amendments made by subsection (a) [amending this section] shall apply only to claims accruing on or after the date of the enactment of this Act [Sept. 28, 1988], regardless of when the alleged negligent act or omission occurred.”
 
 **Effective Date**
 
-Pub. L. 99–661, div. A, title XIII, § 1356(b), Nov. 14, 1986, 100 Stat. 3998, provided that: “Section 1054 of title 10, United States Code, as added by subsection (a), shall apply only to claims accruing on or after the date of the enactment of this Act [Nov. 14, 1986], regardless of when the alleged negligent or wrongful act or omission occurred.”
+Pub. L. 99–661, div. A, title XIII, § 1356(b), Nov. 14, 1986, 100 Stat. 3998, provided that: “Section 1054 of title 10, United States Code, as added by subsection (a), shall apply only to claims accruing on or after the date of the enactment of this Act [Nov. 14, 1986], regardless of when the alleged negligent or wrongful act or omission occurred.”
 
 **Transfer of Functions**
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 1055. Waiver of security deposits for members renting private housing; authority to indemnify landlord
+## § 1055. Waiver of security deposits for members renting private housing; authority to indemnify landlord
 
 **(a)** The Secretary of Defense may carry out a program under which the Secretary of a military department agrees to indemnify a landlord who leases a rental unit to a member of the armed forces against a breach of the lease by the member or for damage to the rental unit caused by the member. In exchange for agreement for such indemnification by the Secretary, the landlord shall be required to waive any requirement for payment by the member of a security deposit that the landlord would otherwise require.
 
@@ -2737,15 +2737,15 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(d)** In this section, the term “landlord” means a person who leases a rental unit to a member of the armed forces.
 
-(Added Pub. L. 100–456, div. A, title VI, § 621(a)(1), Sept. 29, 1988, 102 Stat. 1982.)
+(Added Pub. L. 100–456, div. A, title VI, § 621(a)(1), Sept. 29, 1988, 102 Stat. 1982.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–456, div. A, title VI, § 621(b), Sept. 29, 1988, 102 Stat. 1983, provided that: “Section 1055 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1988.”
+Pub. L. 100–456, div. A, title VI, § 621(b), Sept. 29, 1988, 102 Stat. 1983, provided that: “Section 1055 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1988.”
 
-## § 1056. Relocation assistance programs
+## § 1056. Relocation assistance programs
 
 **(a) Requirement to Provide Assistance.—** The Secretary of Defense shall carry out a program to provide relocation assistance to members of the armed forces and their families as provided in this section. In addition, the Secretary of Defense shall make every effort, consistent with readiness objectives, to stabilize and lengthen tours of duty to minimize the adverse effects of relocation.
 
@@ -2805,29 +2805,29 @@ Pub. L. 100–456, div. A, title VI, § 621(b), Sept. 29, 1988, 102 Stat. 1983
 
 **(f) Inapplicability to Coast Guard.—** This section does not apply to the Coast Guard.
 
-(Added Pub. L. 101–510, div. A, title XIV, § 1481(c)(1), Nov. 5, 1990, 104 Stat. 1705; amended Pub. L. 104–106, div. A, title IX, § 903(d), title X, § 1062(a), Feb. 10, 1996, 110 Stat. 402, 443; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 107–107, div. A, title X, § 1048(a)(9), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 119–60, div. A, title VI, § 662(a), Dec. 18, 2025, 139 Stat. 914.)
+(Added Pub. L. 101–510, div. A, title XIV, § 1481(c)(1), Nov. 5, 1990, 104 Stat. 1705; amended Pub. L. 104–106, div. A, title IX, § 903(d), title X, § 1062(a), Feb. 10, 1996, 110 Stat. 402, 443; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 107–107, div. A, title X, § 1048(a)(9), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 119–60, div. A, title VI, § 662(a), Dec. 18, 2025, 139 Stat. 914.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title VI, § 661(a)–(g), Nov. 29, 1989, 103 Stat. 1463, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 101–510, § 1481(c)(3).
+Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title VI, § 661(a)–(g), Nov. 29, 1989, 103 Stat. 1463, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 101–510, § 1481(c)(3).
 
 **Amendments**
 
-2025—Subsec. (b)(2)(A). Pub. L. 119–60, § 662(a)(1)(A), substituted “community orientation, education systems, school enrollment procedures, and State-specific provisions under the Interstate Compact on Educational Opportunity for Military Children” for “and community orientation”.
+2025—Subsec. (b)(2)(A). Pub. L. 119–60, § 662(a)(1)(A), substituted “community orientation, education systems, school enrollment procedures, and State-specific provisions under the Interstate Compact on Educational Opportunity for Military Children” for “and community orientation”.
 
-Subsec. (b)(2)(C). Pub. L. 119–60, § 662(a)(1)(B), substituted “community orientation, and educational resources for dependent children, including school transition assistance, academic continuity, and special education services” for “and community orientation”.
+Subsec. (b)(2)(C). Pub. L. 119–60, § 662(a)(1)(B), substituted “community orientation, and educational resources for dependent children, including school transition assistance, academic continuity, and special education services” for “and community orientation”.
 
-Subsec. (b)(2)(E), (F). Pub. L. 119–60, § 662(a)(1)(C), added subpars. (E) and (F).
+Subsec. (b)(2)(E), (F). Pub. L. 119–60, § 662(a)(1)(C), added subpars. (E) and (F).
 
-Subsec. (b)(3), (4). Pub. L. 119–60, § 662(a)(2), added pars. (3) and (4).
+Subsec. (b)(3), (4). Pub. L. 119–60, § 662(a)(2), added pars. (3) and (4).
 
-2001—Subsec. (c)(2). Pub. L. 107–107 struck out “, not later than September 30, 1991,” before “information available”.
+2001—Subsec. (c)(2). Pub. L. 107–107 struck out “, not later than September 30, 1991,” before “information available”.
 
-1996—Subsec. (d). Pub. L. 104–106, § 903(a), (d), which directed repeal of subsec. (d), eff. Jan. 31, 1997, was repealed by Pub. L. 104–201.
+1996—Subsec. (d). Pub. L. 104–106, § 903(a), (d), which directed repeal of subsec. (d), eff. Jan. 31, 1997, was repealed by Pub. L. 104–201.
 
-Subsecs. (f), (g). Pub. L. 104–106, § 1062(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Annual Report.—Not later than March 1 each year, the Secretary of Defense, acting through the Director of Military Relocation Assistance Programs, shall submit to Congress a report on the program under this section and on military family relocation matters. The report shall include the following:
+Subsecs. (f), (g). Pub. L. 104–106, § 1062(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Annual Report.—Not later than March 1 each year, the Secretary of Defense, acting through the Director of Military Relocation Assistance Programs, shall submit to Congress a report on the program under this section and on military family relocation matters. The report shall include the following:
 
 “(1) An assessment of available, affordable private-sector housing for members of the armed forces and their families.
 
@@ -2841,7 +2841,7 @@ Subsecs. (f), (g). Pub. L. 104–106, § 1062(a), redesignated subsec. (g) as 
 
 **Implementation of Relocation Assistance Programs**
 
-Pub. L. 101–510, div. A, title XIV, § 1481(c)(4), Nov. 5, 1990, 104 Stat. 1705, provided that: “The program required to be carried out by section 1056 of title 10, United States Code, as added by paragraph (1), shall be established by the Secretary of Defense not later than October 1, 1990. The Secretary shall prescribe regulations to implement that section not later than July 1, 1990.”
+Pub. L. 101–510, div. A, title XIV, § 1481(c)(4), Nov. 5, 1990, 104 Stat. 1705, provided that: “The program required to be carried out by section 1056 of title 10, United States Code, as added by paragraph (1), shall be established by the Secretary of Defense not later than October 1, 1990. The Secretary shall prescribe regulations to implement that section not later than July 1, 1990.”
 
 **Transfer of Functions**
 
@@ -2849,7 +2849,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Oversight Requirements for Contracts Relating to Relocation Logistics for Household Goods**
 
-Pub. L. 119–60, div. A, title III, § 346, Dec. 18, 2025, 139 Stat. 827, provided that:
+Pub. L. 119–60, div. A, title III, § 346, Dec. 18, 2025, 139 Stat. 827, provided that:
 
 > **“(a) Requirements.—** The Secretary of Defense shall ensure that any covered contract includes the following oversight requirements:
 
@@ -2897,7 +2897,7 @@ Pub. L. 119–60, div. A, title III, § 346, Dec. 18, 2025, 139 Stat. 827, pro
 
 > **“(2)** does not include a contract or other agreement for the relocation of a private vehicle owned or leased by a member of the Armed Forces.”
 
-## § 1056a. Reintegration of recovered Department of Defense personnel; post-isolation support activities for other recovered personnel
+## § 1056a. Reintegration of recovered Department of Defense personnel; post-isolation support activities for other recovered personnel
 
 **(a) Reintegration and Support Authorized.—** The Secretary of Defense may carry out the following:
 
@@ -2937,9 +2937,9 @@ Pub. L. 119–60, div. A, title III, § 346, Dec. 18, 2025, 139 Stat. 827, pro
 
 **(C)** other activities to facilitate return of the recovered person to military duty or employment with the Department of Defense as expeditiously as possible following such a separation.
 
-(Added Pub. L. 112–81, div. A, title V, § 588(a), Dec. 31, 2011, 125 Stat. 1436.)
+(Added Pub. L. 112–81, div. A, title V, § 588(a), Dec. 31, 2011, 125 Stat. 1436.)
 
-## § 1057. Use of armed forces insignia on State license plates
+## § 1057. Use of armed forces insignia on State license plates
 
 **(a)** The Secretary concerned may approve an application by a State to use or imitate the seal or other insignia of the department (under the jurisdiction of such Secretary) or of armed forces (under the jurisdiction of such Secretary) on motor vehicle license plates issued by the State to an individual who is a member or former member of the armed forces.
 
@@ -2947,9 +2947,9 @@ Pub. L. 119–60, div. A, title III, § 346, Dec. 18, 2025, 139 Stat. 827, pro
 
 **(c)** In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, and American Samoa.
 
-(Added Pub. L. 102–484, div. A, title X, § 1080(a), Oct. 23, 1992, 106 Stat. 2514.)
+(Added Pub. L. 102–484, div. A, title X, § 1080(a), Oct. 23, 1992, 106 Stat. 2514.)
 
-## § 1058. Responsibilities of military law enforcement officials at scenes of domestic violence
+## § 1058. Responsibilities of military law enforcement officials at scenes of domestic violence
 
 **(a) Immediate Actions Required.—** Under regulations prescribed pursuant to subsection (c), the Secretary concerned shall ensure, in any case of domestic violence in which a military law enforcement official at the scene determines that physical injury has been inflicted or a deadly weapon or dangerous instrument has been used, that military law enforcement officials—
 
@@ -2963,7 +2963,7 @@ Pub. L. 119–60, div. A, title III, § 346, Dec. 18, 2025, 139 Stat. 827, pro
 
 **(d) Military Law Enforcement Official.—** In this section, the term “military law enforcement official” means a person authorized under regulations governing the armed forces to apprehend persons subject to the Uniform Code of Military Justice (chapter 47 of this title) or to trial thereunder.
 
-(Added Pub. L. 103–160, div. A, title V, § 551(a)(1), Nov. 30, 1993, 107 Stat. 1661; amended Pub. L. 103–337, div. A, title X, § 1070(a)(4), (b)(3), Oct. 5, 1994, 108 Stat. 2855, 2856; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 103–160, div. A, title V, § 551(a)(1), Nov. 30, 1993, 107 Stat. 1661; amended Pub. L. 103–337, div. A, title X, § 1070(a)(4), (b)(3), Oct. 5, 1994, 108 Stat. 2855, 2856; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
@@ -2975,9 +2975,9 @@ Other sections 1058 were renumbered sections 1059 and 1060 of this title.
 
 2002—Subsec. (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1994—Pub. L. 103–337, § 1070(b)(3), made technical correction to directory language of Pub. L. 103–160, § 551(a)(1), which enacted this section.
+1994—Pub. L. 103–337, § 1070(b)(3), made technical correction to directory language of Pub. L. 103–160, § 551(a)(1), which enacted this section.
 
-Subsec. (d). Pub. L. 103–337, § 1070(a)(4), substituted “subject to the Uniform Code of Military Justice (chapter 47 of this title)” for “subject to this chapter”.
+Subsec. (d). Pub. L. 103–337, § 1070(a)(4), substituted “subject to the Uniform Code of Military Justice (chapter 47 of this title)” for “subject to this chapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2987,13 +2987,13 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title X, § 1070(b), Oct. 5, 1994, 108 Stat. 2856, provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
+Pub. L. 103–337, div. A, title X, § 1070(b), Oct. 5, 1994, 108 Stat. 2856, provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
 
 **Deadline for Prescribing Procedures**
 
-Pub. L. 103–160, div. A, title V, § 551(b), Nov. 30, 1993, 107 Stat. 1662, provided that: “The Secretary of Defense shall prescribe procedures to carry out section 1058 of title 10, United States Code, as added by subsection (a), not later than six months after the date of the enactment of this Act [Nov. 30, 1993].”
+Pub. L. 103–160, div. A, title V, § 551(b), Nov. 30, 1993, 107 Stat. 1662, provided that: “The Secretary of Defense shall prescribe procedures to carry out section 1058 of title 10, United States Code, as added by subsection (a), not later than six months after the date of the enactment of this Act [Nov. 30, 1993].”
 
-## § 1059. Dependents of members separated for dependent abuse: transitional compensation; commissary and exchange benefits; lodging expenses
+## § 1059. Dependents of members separated for dependent abuse: transitional compensation; commissary and exchange benefits; lodging expenses
 
 **(a) Authority To Pay Compensation.—** The Secretary of Defense, with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy), and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may each establish a program to pay monthly transitional compensation in accordance with this section to dependents or former dependents of a member of the armed forces described in subsection (b). Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.
 
@@ -3115,101 +3115,101 @@ Pub. L. 103–160, div. A, title V, § 551(b), Nov. 30, 1993, 107 Stat. 1662, 
 
 **(3)** who is 18 years of age or older but less than 23 years of age, is enrolled in a full-time course of study in an institution of higher learning approved by the Secretary of Defense and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child’s support.
 
-(Added Pub. L. 103–160, div. A, title V, § 554(a)(1), Nov. 30, 1993, 107 Stat. 1663, § 1058; renumbered § 1059 and amended Pub. L. 103–337, div. A, title V, § 535(a)–(c)(1), title X, § 1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, § 636(a), (b), title XV, § 1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511; Pub. L. 105–261, div. A, title V, § 570(a), (b), Oct. 17, 1998, 112 Stat. 2032; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §§ 572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, 117 Stat. 1484–1486; Pub. L. 112–239, div. A, title V, § 564(a), Jan. 2, 2013, 126 Stat. 1748; Pub. L. 113–291, div. A, title VI, § 621, Dec. 19, 2014, 128 Stat. 3401; Pub. L. 115–91, div. A, title V, § 531(*l*), Dec. 12, 2017, 131 Stat. 1386; Pub. L. 116–92, div. A, title VI, § 621, Dec. 20, 2019, 133 Stat. 1426; Pub. L. 117–81, div. A, title V, § 549(a), Dec. 27, 2021, 135 Stat. 1715; Pub. L. 118–31, div. A, title VI, §§ 631, 632, Dec. 22, 2023, 137 Stat. 296.)
+(Added Pub. L. 103–160, div. A, title V, § 554(a)(1), Nov. 30, 1993, 107 Stat. 1663, § 1058; renumbered § 1059 and amended Pub. L. 103–337, div. A, title V, § 535(a)–(c)(1), title X, § 1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, § 636(a), (b), title XV, § 1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511; Pub. L. 105–261, div. A, title V, § 570(a), (b), Oct. 17, 1998, 112 Stat. 2032; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §§ 572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, 117 Stat. 1484–1486; Pub. L. 112–239, div. A, title V, § 564(a), Jan. 2, 2013, 126 Stat. 1748; Pub. L. 113–291, div. A, title VI, § 621, Dec. 19, 2014, 128 Stat. 3401; Pub. L. 115–91, div. A, title V, § 531(*l*), Dec. 12, 2017, 131 Stat. 1386; Pub. L. 116–92, div. A, title VI, § 621, Dec. 20, 2019, 133 Stat. 1426; Pub. L. 117–81, div. A, title V, § 549(a), Dec. 27, 2021, 135 Stat. 1715; Pub. L. 118–31, div. A, title VI, §§ 631, 632, Dec. 22, 2023, 137 Stat. 296.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Pub. L. 118–31, § 632(3), substituted “subsection (m)” for “subsection (k)” wherever appearing.
+2023—Pub. L. 118–31, § 632(3), substituted “subsection (m)” for “subsection (k)” wherever appearing.
 
-Pub. L. 118–31, § 632(1), inserted “; lodging expenses” after “benefits” in section catchline.
+Pub. L. 118–31, § 632(1), inserted “; lodging expenses” after “benefits” in section catchline.
 
-Subsec. (b)(3). Pub. L. 118–31, § 631(a), added par. (3).
+Subsec. (b)(3). Pub. L. 118–31, § 631(a), added par. (3).
 
-Subsec. (e)(1)(A). Pub. L. 118–31, § 631(b)(1)(A), inserted “or an offense described in subsection (b)(3)(B)” after “offense” in introductory provisions.
+Subsec. (e)(1)(A). Pub. L. 118–31, § 631(b)(1)(A), inserted “or an offense described in subsection (b)(3)(B)” after “offense” in introductory provisions.
 
-Subsec. (e)(1)(A)(ii). Pub. L. 118–31, § 631(b)(1)(B), substituted “allowances;” for “allowances; and”.
+Subsec. (e)(1)(A)(ii). Pub. L. 118–31, § 631(b)(1)(B), substituted “allowances;” for “allowances; and”.
 
-Subsec. (e)(1)(B). Pub. L. 118–31, § 631(b)(2), struck out “(if the basis for the separation includes a dependent-abuse offense)” after “with such regulations”.
+Subsec. (e)(1)(B). Pub. L. 118–31, § 631(b)(2), struck out “(if the basis for the separation includes a dependent-abuse offense)” after “with such regulations”.
 
-Subsec. (k). Pub. L. 118–31, § 632(4), added subsec. (k). Former subsec. (k) redesignated (m).
+Subsec. (k). Pub. L. 118–31, § 632(4), added subsec. (k). Former subsec. (k) redesignated (m).
 
-Subsec. (*l*). Pub. L. 118–31, § 632(2), which directed redesignation of subsec. (m) as (*l*), was executed by making the redesignation and moving subsec. (*l*) so as to appear before subsec. (m), to reflect the probable intent of Congress. Former subsec. (*l*) redesignated (n).
+Subsec. (*l*). Pub. L. 118–31, § 632(2), which directed redesignation of subsec. (m) as (*l*), was executed by making the redesignation and moving subsec. (*l*) so as to appear before subsec. (m), to reflect the probable intent of Congress. Former subsec. (*l*) redesignated (n).
 
-Pub. L. 118–31, § 631(c), in introductory provisions, substituted “referred to in subsection (b) or” for “resulting in the separation of the former member or” and “and was subsequently” for “resulting in the separation of the former member and was subsequently”.
+Pub. L. 118–31, § 631(c), in introductory provisions, substituted “referred to in subsection (b) or” for “resulting in the separation of the former member or” and “and was subsequently” for “resulting in the separation of the former member and was subsequently”.
 
-Subsec. (m). Pub. L. 118–31, § 632(2), redesignated subsec. (k) as (m). Former subsec. (m) redesignated (*l*).
+Subsec. (m). Pub. L. 118–31, § 632(2), redesignated subsec. (k) as (m). Former subsec. (m) redesignated (*l*).
 
-Subsec. (m)(4). Pub. L. 118–31, § 631(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
+Subsec. (m)(4). Pub. L. 118–31, § 631(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
 “(A) Except as provided in subparagraph (B), the authority of the Secretary concerned under paragraph (1) may not be delegated.
 
 “(B) During the two year period following the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, the authority of the Secretary concerned under paragraph (1) may be delegated to an official at the Assistant Secretary-level or above. Any exercise of such delegated authority shall be reported to the Secretary concerned on a quarterly basis.”
 
-Subsec. (n). Pub. L. 118–31, § 632(2), redesignated subsec. (*l*) as (n).
+Subsec. (n). Pub. L. 118–31, § 632(2), redesignated subsec. (*l*) as (n).
 
 2021—Subsec. (m)(4). Pub. L. 117–81 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The authority of the Secretary concerned under paragraph (1) may not be delegated.”
 
-2019—Subsec. (m). Pub. L. 116–92, § 621(1), (2), inserted “Members or” before “Former Members” in heading and “member or” before “former member” wherever appearing in pars. (1) and (2).
+2019—Subsec. (m). Pub. L. 116–92, § 621(1), (2), inserted “Members or” before “Former Members” in heading and “member or” before “former member” wherever appearing in pars. (1) and (2).
 
-Subsec. (m)(3), (4). Pub. L. 116–92, § 621(3), (4), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (m)(3), (4). Pub. L. 116–92, § 621(3), (4), added par. (3) and redesignated former par. (3) as (4).
 
-2017—Subsec. (e)(1)(A)(ii). Pub. L. 115–91, § 531(*l*)(1), substituted “the date of entry of judgment under section 860c of this title (article 60c of the Uniform Code of Military Justice) if the sentence includes” for “the date of the approval of the court-martial sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes”.
+2017—Subsec. (e)(1)(A)(ii). Pub. L. 115–91, § 531(*l*)(1), substituted “the date of entry of judgment under section 860c of this title (article 60c of the Uniform Code of Military Justice) if the sentence includes” for “the date of the approval of the court-martial sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes”.
 
-Subsec. (e)(3)(A). Pub. L. 115–91, § 531(*l*)(2), substituted “conviction for a dependent-abuse offense and the conviction is disapproved or is otherwise not part of the judgment under section 860c of this title (article 60c of the Uniform Code of Military Justice) or the punishment is disapproved or is otherwise not part of the judgment under such section (article),” for “conviction by a court-martial for a dependent-abuse offense and each such conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated to a lesser punishment that does not include any such punishment,”.
+Subsec. (e)(3)(A). Pub. L. 115–91, § 531(*l*)(2), substituted “conviction for a dependent-abuse offense and the conviction is disapproved or is otherwise not part of the judgment under section 860c of this title (article 60c of the Uniform Code of Military Justice) or the punishment is disapproved or is otherwise not part of the judgment under such section (article),” for “conviction by a court-martial for a dependent-abuse offense and each such conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated to a lesser punishment that does not include any such punishment,”.
 
 2014—Subsec. (d)(4). Pub. L. 113–291 substituted “as of the date on which the separation action is initiated by a commander of the individual described in subsection (b)” for “as of the date on which the individual described in subsection (b) is separated from active duty”.
 
-2013—Subsec. (f)(4). Pub. L. 112–239, § 564(a)(1), added par. (4).
+2013—Subsec. (f)(4). Pub. L. 112–239, § 564(a)(1), added par. (4).
 
-Subsec. (*l*). Pub. L. 112–239, § 564(a)(2), substituted “or eligible spouse at the time of the dependent-abuse offense resulting in the separation of the former member or who was carried during pregnancy at the time of the dependent-abuse offense resulting in the separation of the former member and was subsequently born alive to the eligible spouse or former spouse” for “at the time of the dependent-abuse offense resulting in the separation of the former member” in introductory provisions.
+Subsec. (*l*). Pub. L. 112–239, § 564(a)(2), substituted “or eligible spouse at the time of the dependent-abuse offense resulting in the separation of the former member or who was carried during pregnancy at the time of the dependent-abuse offense resulting in the separation of the former member and was subsequently born alive to the eligible spouse or former spouse” for “at the time of the dependent-abuse offense resulting in the separation of the former member” in introductory provisions.
 
-2003—Subsec. (b)(2). Pub. L. 108–136, § 574, inserted “, voluntarily or involuntarily,” after “administratively separated”.
+2003—Subsec. (b)(2). Pub. L. 108–136, § 574, inserted “, voluntarily or involuntarily,” after “administratively separated”.
 
-Subsec. (e)(1)(A). Pub. L. 108–136, § 572(a), substituted “shall commence—” and cls. (i) and (ii) for “shall commence as of the date of the approval of the court-martial sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and”.
+Subsec. (e)(1)(A). Pub. L. 108–136, § 572(a), substituted “shall commence—” and cls. (i) and (ii) for “shall commence as of the date of the approval of the court-martial sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and”.
 
-Subsec. (e)(2). Pub. L. 108–136, § 572(b)(1), substituted “a period of not less than 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned” for “a period of 36 months, except that, if as of the date on which payment of transitional compensation commences the unserved portion of the member’s period of obligated active duty service is less than 36 months, the period for which transitional compensation is paid shall be equal to the greater of—
+Subsec. (e)(2). Pub. L. 108–136, § 572(b)(1), substituted “a period of not less than 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned” for “a period of 36 months, except that, if as of the date on which payment of transitional compensation commences the unserved portion of the member’s period of obligated active duty service is less than 36 months, the period for which transitional compensation is paid shall be equal to the greater of—
 
 “(A) the unserved portion of the member’s period of obligated active duty service; or
 
 “(B) 12 months”.
 
-Subsec. (e)(3)(A). Pub. L. 108–136, § 572(c), substituted “conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated” for “punishment applicable to the member under the sentence is remitted, set aside, or mitigated”.
+Subsec. (e)(3)(A). Pub. L. 108–136, § 572(c), substituted “conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated” for “punishment applicable to the member under the sentence is remitted, set aside, or mitigated”.
 
-Subsec. (m). Pub. L. 108–136, § 573(a), added subsec. (m).
+Subsec. (m). Pub. L. 108–136, § 573(a), added subsec. (m).
 
 2002—Subsecs. (a), (k)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1998—Subsec. (d)(1). Pub. L. 105–261, § 570(a)(1), struck out “(except as otherwise provided in this subsection)” after “such compensation shall” and inserted before period at end “, including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse”.
+1998—Subsec. (d)(1). Pub. L. 105–261, § 570(a)(1), struck out “(except as otherwise provided in this subsection)” after “such compensation shall” and inserted before period at end “, including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse”.
 
-Subsec. (d)(2). Pub. L. 105–261, § 570(a)(2), substituted “is or, but for subsection (g), would be eligible” for “(but for subsection (g)) would be eligible” and “compensation under this section shall” for “such compensation shall”.
+Subsec. (d)(2). Pub. L. 105–261, § 570(a)(2), substituted “is or, but for subsection (g), would be eligible” for “(but for subsection (g)) would be eligible” and “compensation under this section shall” for “such compensation shall”.
 
-Subsec. (d)(4). Pub. L. 105–261, § 570(a)(3), substituted “For purposes of this subsection” for “For purposes of paragraphs (2) and (3)”.
+Subsec. (d)(4). Pub. L. 105–261, § 570(a)(3), substituted “For purposes of this subsection” for “For purposes of paragraphs (2) and (3)”.
 
-Subsec. (f)(2). Pub. L. 105–261, § 570(b), substituted “has custody of a dependent child of the member who resides in the same household as that spouse or former spouse” for “has custody of a dependent child or children of the member”.
+Subsec. (f)(2). Pub. L. 105–261, § 570(b), substituted “has custody of a dependent child of the member who resides in the same household as that spouse or former spouse” for “has custody of a dependent child or children of the member”.
 
-1996—Subsec. (a). Pub. L. 104–106, § 636(a), inserted at end “Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.”
+1996—Subsec. (a). Pub. L. 104–106, § 636(a), inserted at end “Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.”
 
-Subsec. (c)(2). Pub. L. 104–106, § 1503(a)(8), substituted “subsection (k)” for “subsection (j)”.
+Subsec. (c)(2). Pub. L. 104–106, § 1503(a)(8), substituted “subsection (k)” for “subsection (j)”.
 
-Subsec. (d). Pub. L. 104–106, § 636(b)(1), in introductory provisions, substituted “the case of any individual described in subsection (b)” for “any case of a separation from active duty as described in subsection (b)” and “dependents of the individual” for “dependents of the former member”.
+Subsec. (d). Pub. L. 104–106, § 636(b)(1), in introductory provisions, substituted “the case of any individual described in subsection (b)” for “any case of a separation from active duty as described in subsection (b)” and “dependents of the individual” for “dependents of the former member”.
 
-Subsec. (d)(1). Pub. L. 104–106, § 636(b)(2), substituted “If the individual” for “If the former member” and “to whom the individual” for “to whom the member”.
+Subsec. (d)(1). Pub. L. 104–106, § 636(b)(2), substituted “If the individual” for “If the former member” and “to whom the individual” for “to whom the member”.
 
-Subsec. (d)(2). Pub. L. 104–106, § 636(b)(3), substituted “individual described in subsection (b)” for “former member” in two places.
+Subsec. (d)(2). Pub. L. 104–106, § 636(b)(3), substituted “individual described in subsection (b)” for “former member” in two places.
 
-Subsec. (d)(3). Pub. L. 104–106, § 636(b)(4), substituted “individual described in subsection (b)” for “former member”.
+Subsec. (d)(3). Pub. L. 104–106, § 636(b)(4), substituted “individual described in subsection (b)” for “former member”.
 
-Subsec. (d)(4). Pub. L. 104–106, § 636(b)(5), substituted “individual described in subsection (b)” for “member” in two places.
+Subsec. (d)(4). Pub. L. 104–106, § 636(b)(5), substituted “individual described in subsection (b)” for “member” in two places.
 
-Subsec. (g)(3). Pub. L. 104–106, § 1503(a)(8), substituted “subsection (k))” for “subsection (j))”.
+Subsec. (g)(3). Pub. L. 104–106, § 1503(a)(8), substituted “subsection (k))” for “subsection (j))”.
 
-1994—Pub. L. 103–337, § 1070(a)(5)(A), renumbered section 1058 of this title as this section.
+1994—Pub. L. 103–337, § 1070(a)(5)(A), renumbered section 1058 of this title as this section.
 
-Pub. L. 103–337, § 535(c)(1), inserted “; commissary and exchange benefits” at end of section catchline.
+Pub. L. 103–337, § 535(c)(1), inserted “; commissary and exchange benefits” at end of section catchline.
 
-Subsec. (e). Pub. L. 103–337, § 535(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
+Subsec. (e). Pub. L. 103–337, § 535(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
 
 “(e) Commencement and Duration of Payment.—(1) Payment of transitional compensation under this section shall commence as of the date of the discontinuance of the member’s pay and allowances pursuant to the separation or sentencing of the member and, except as provided in paragraph (2), shall be paid for a period of 36 months.
 
@@ -3219,23 +3219,23 @@ Subsec. (e). Pub. L. 103–337, § 535(a), amended subsec. (e) generally. Prio
 
 “(B) 12 months.”
 
-Subsecs. (j) to (*l*). Pub. L. 103–337, § 535(b), added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (*l*), respectively.
+Subsecs. (j) to (*l*). Pub. L. 103–337, § 535(b), added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (*l*), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title V, § 564(b), Jan. 2, 2013, 126 Stat. 1749, provided that: “No benefits shall accrue by reason of the amendments made by this section [amending this section] for any month that begins before the date of the enactment of this Act [Jan. 2, 2013].”
+Pub. L. 112–239, div. A, title V, § 564(b), Jan. 2, 2013, 126 Stat. 1749, provided that: “No benefits shall accrue by reason of the amendments made by this section [amending this section] for any month that begins before the date of the enactment of this Act [Jan. 2, 2013].”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–136, div. A, title V, § 572(d), Nov. 24, 2003, 117 Stat. 1485, provided that: “The amendments made by this section [amending this section] shall apply only with respect to cases in which a court-martial sentence is adjudged on or after the date of the enactment of this Act [Nov. 24, 2003].”
+Pub. L. 108–136, div. A, title V, § 572(d), Nov. 24, 2003, 117 Stat. 1485, provided that: “The amendments made by this section [amending this section] shall apply only with respect to cases in which a court-martial sentence is adjudged on or after the date of the enactment of this Act [Nov. 24, 2003].”
 
-Pub. L. 108–136, div. A, title V, § 573(b), Nov. 24, 2003, 117 Stat. 1485, provided that: “The authority under subsection (m) of section 1059 of title 10, United States Code, as added by subsection (a), may be exercised with respect to eligibility for benefits under that section only for dependents and former dependents of individuals who are separated from active duty in the Armed Forces on or after the date of the enactment of this Act [Nov. 24, 2003].”
+Pub. L. 108–136, div. A, title V, § 573(b), Nov. 24, 2003, 117 Stat. 1485, provided that: “The authority under subsection (m) of section 1059 of title 10, United States Code, as added by subsection (a), may be exercised with respect to eligibility for benefits under that section only for dependents and former dependents of individuals who are separated from active duty in the Armed Forces on or after the date of the enactment of this Act [Nov. 24, 2003].”
 
 **Effective Date of 2002 Amendment**
 
@@ -3243,11 +3243,11 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. A, title V, § 570(c), Oct. 17, 1998, 112 Stat. 2032, provided that: “No benefits shall accrue by reason of the amendments made by this section [amending this section] for any month that begins before the date of the enactment of this Act [Oct. 17, 1998].”
+Pub. L. 105–261, div. A, title V, § 570(c), Oct. 17, 1998, 112 Stat. 2032, provided that: “No benefits shall accrue by reason of the amendments made by this section [amending this section] for any month that begins before the date of the enactment of this Act [Oct. 17, 1998].”
 
 **Effective Date**
 
-Pub. L. 103–160, div. A, title V, § 554(b), Nov. 30, 1993, 107 Stat. 1666, as amended by Pub. L. 103–337, div. A, title X, § 1070(b)(5), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title VI, § 636(c), Feb. 10, 1996, 110 Stat. 367, provided that:
+Pub. L. 103–160, div. A, title V, § 554(b), Nov. 30, 1993, 107 Stat. 1666, as amended by Pub. L. 103–337, div. A, title X, § 1070(b)(5), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title VI, § 636(c), Feb. 10, 1996, 110 Stat. 367, provided that:
 
 > **“(1)** The section of title 10, United States Code, added by subsection (a)(1) [this section] shall apply with respect to a member of the Armed Forces who, after November 29, 1993—
 
@@ -3259,9 +3259,9 @@ Pub. L. 103–160, div. A, title V, § 554(b), Nov. 30, 1993, 107 Stat. 1666, 
 
 **Duration of Transitional Compensation Payments**
 
-Pub. L. 108–136, div. A, title V, § 572(b)(2), Nov. 24, 2003, 117 Stat. 1485, provided that: “Policies under subsection (e)(2) of section 1059 of title 10, United States Code, as amended by paragraph (1), for the duration of transitional compensation payments under that section shall be prescribed under such subsection not later than six months after the date of the enactment of this Act [Nov. 24, 2003].”
+Pub. L. 108–136, div. A, title V, § 572(b)(2), Nov. 24, 2003, 117 Stat. 1485, provided that: “Policies under subsection (e)(2) of section 1059 of title 10, United States Code, as amended by paragraph (1), for the duration of transitional compensation payments under that section shall be prescribed under such subsection not later than six months after the date of the enactment of this Act [Nov. 24, 2003].”
 
-## § 1060. Military service of retired members with newly democratic nations: consent of Congress
+## § 1060. Military service of retired members with newly democratic nations: consent of Congress
 
 **(a) Consent of Congress.—** Subject to subsection (b), Congress consents to a retired member of the uniformed services—
 
@@ -3273,7 +3273,7 @@ Pub. L. 108–136, div. A, title V, § 572(b)(2), Nov. 24, 2003, 117 Stat. 148
 
 **(c) Determination of Newly Democratic Nations.—** The Secretary concerned and the Secretary of State shall jointly determine whether a nation is a newly democratic nation for the purposes of this section.
 
-**[(d)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(9), Nov. 24, 2003, 117 Stat. 1597.]
+**[(d)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(9), Nov. 24, 2003, 117 Stat. 1597.]
 
 **(e) Continued Entitlement to Retired Pay and Benefits.—** The eligibility of a retired member to receive retired or retainer pay and other benefits arising from the retired member’s status as a retired member of the uniformed services, and the eligibility of dependents of such retired member to receive benefits on the basis of such retired member’s status as a retired member of the uniformed services, may not be terminated by reason of employment or holding of an office or position consented to in subsection (a).
 
@@ -3281,7 +3281,7 @@ Pub. L. 108–136, div. A, title V, § 572(b)(2), Nov. 24, 2003, 117 Stat. 148
 
 **(g) Civil Employment by Foreign Governments.—** For a provision of law providing the consent of Congress to civil employment by foreign governments, see section 908 of title 37.
 
-(Added Pub. L. 103–160, div. A, title XIV, § 1433(b)(1), Nov. 30, 1993, 107 Stat. 1834, § 1058; renumbered § 1060, Pub. L. 103–337, div. A, title X, § 1070(a)(6)(A), Oct. 5, 1994, 108 Stat. 2855; amended Pub. L. 104–106, div. A, title XV, § 1502(a)(13), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1031(a)(9), Nov. 24, 2003, 117 Stat. 1597.)
+(Added Pub. L. 103–160, div. A, title XIV, § 1433(b)(1), Nov. 30, 1993, 107 Stat. 1834, § 1058; renumbered § 1060, Pub. L. 103–337, div. A, title X, § 1070(a)(6)(A), Oct. 5, 1994, 108 Stat. 2855; amended Pub. L. 104–106, div. A, title XV, § 1502(a)(13), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1031(a)(9), Nov. 24, 2003, 117 Stat. 1597.)
 
 **Editorial Notes**
 
@@ -3299,15 +3299,15 @@ Pub. L. 108–136, div. A, title V, § 572(b)(2), Nov. 24, 2003, 117 Stat. 148
 
 **Effective Date**
 
-Pub. L. 103–160, div. A, title XIV, § 1433(d), Nov. 30, 1993, 107 Stat. 1835, provided that this section was to take effect as of Jan. 1, 1993, prior to repeal by Pub. L. 103–236, title I, § 182(b), Apr. 30, 1994, 108 Stat. 418.
+Pub. L. 103–160, div. A, title XIV, § 1433(d), Nov. 30, 1993, 107 Stat. 1835, provided that this section was to take effect as of Jan. 1, 1993, prior to repeal by Pub. L. 103–236, title I, § 182(b), Apr. 30, 1994, 108 Stat. 418.
 
 **Restoration of Withheld Benefits**
 
-Pub. L. 103–236, title I, § 182(a), Apr. 30, 1994, 108 Stat. 418, as amended by Pub. L. 103–337, div. A, title X, § 1070(d)(7), Oct. 5, 1994, 108 Stat. 2858; Pub. L. 103–415, § 1(j), Oct. 25, 1994, 108 Stat. 4301, provided that: “With respect to any person for which the Secretary of State and the Secretary concerned within the Department of Defense have approved the employment or the holding of a position pursuant to the provisions of section 1060 of title 10, United States Code, before April 30, 1994, the consents, approvals and determinations under that section shall be deemed to be effective as of January 1, 1993.”
+Pub. L. 103–236, title I, § 182(a), Apr. 30, 1994, 108 Stat. 418, as amended by Pub. L. 103–337, div. A, title X, § 1070(d)(7), Oct. 5, 1994, 108 Stat. 2858; Pub. L. 103–415, § 1(j), Oct. 25, 1994, 108 Stat. 4301, provided that: “With respect to any person for which the Secretary of State and the Secretary concerned within the Department of Defense have approved the employment or the holding of a position pursuant to the provisions of section 1060 of title 10, United States Code, before April 30, 1994, the consents, approvals and determinations under that section shall be deemed to be effective as of January 1, 1993.”
 
 **Congressional Findings**
 
-Pub. L. 103–160, div. A, title XIV, § 1433(a), Nov. 30, 1993, 107 Stat. 1833, provided that:
+Pub. L. 103–160, div. A, title XIV, § 1433(a), Nov. 30, 1993, 107 Stat. 1833, provided that:
 
 > “The Congress makes the following findings:
 
@@ -3319,7 +3319,7 @@ Pub. L. 103–160, div. A, title XIV, § 1433(a), Nov. 30, 1993, 107 Stat. 183
 
 > **“(4)** The service of retired members of the Armed Forces of the United States in the armed forces of newly democratic nations could lead to a better understanding of military roles and missions in a democracy.”
 
-## § 1060a. Special supplemental food program
+## § 1060a. Special supplemental food program
 
 **(a) Program Required.—** The Secretary of Defense shall carry out a program to provide supplemental foods and nutrition education to members of the armed forces on duty at stations outside the United States (and its territories and possessions) and to eligible civilians serving with, employed by, or accompanying the armed forces outside the United States (and its territories and possessions).
 
@@ -3347,9 +3347,9 @@ Pub. L. 103–160, div. A, title XIV, § 1433(a), Nov. 30, 1993, 107 Stat. 183
 
 **(B)** the producer to rebate to the Secretary amounts equal to agreed portions of the amounts paid by the Secretary for the procurement of that particular brand of food for the program.
 
-**(2)** The Secretary of Defense shall use competitive procedures under chapter 137 1
+**(2)** The Secretary of Defense shall use competitive procedures under chapter 137 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title to enter into contracts under this subsection.
 
@@ -3379,49 +3379,49 @@ of this title to enter into contracts under this subsection.
 
 **(4)** The terms “nutrition education” and “supplemental foods” have the meanings given the terms in section 17(b) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(b)).
 
-(Added Pub. L. 103–337, div. A, title VI, § 653(a), Oct. 5, 1994, 108 Stat. 2794; amended Pub. L. 104–106, div. A, title XV, § 1503(a)(9), Feb. 10, 1996, 110 Stat. 511; Pub. L. 105–85, div. A, title VI, § 655(b)(1), Nov. 18, 1997, 111 Stat. 1805; Pub. L. 106–65, div. A, title VI, § 674(a)–(d), Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–398, § 1 [[div. A], title VI, § 662], Oct. 30, 2000, 114 Stat. 1654, 1654A–167; Pub. L. 107–107, div. A, title III, § 334, Dec. 28, 2001, 115 Stat. 1059; Pub. L. 107–314, div. A, title III, § 324, Dec. 2, 2002, 116 Stat. 2511.)
+(Added Pub. L. 103–337, div. A, title VI, § 653(a), Oct. 5, 1994, 108 Stat. 2794; amended Pub. L. 104–106, div. A, title XV, § 1503(a)(9), Feb. 10, 1996, 110 Stat. 511; Pub. L. 105–85, div. A, title VI, § 655(b)(1), Nov. 18, 1997, 111 Stat. 1805; Pub. L. 106–65, div. A, title VI, § 674(a)–(d), Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–398, § 1 [[div. A], title VI, § 662], Oct. 30, 2000, 114 Stat. 1654, 1654A–167; Pub. L. 107–107, div. A, title III, § 334, Dec. 28, 2001, 115 Stat. 1059; Pub. L. 107–314, div. A, title III, § 324, Dec. 2, 2002, 116 Stat. 2511.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 137 of this title, referred to in subsec. (e)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
+Chapter 137 of this title, referred to in subsec. (e)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
 
-The Immigration and Nationality Act, referred to in subsec. (g)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (g)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 **Amendments**
 
-2002—Subsec. (e)(1)(A). Pub. L. 107–314, § 324(a), inserted “or Navy Exchange Markets” after “commissary stores”.
+2002—Subsec. (e)(1)(A). Pub. L. 107–314, § 324(a), inserted “or Navy Exchange Markets” after “commissary stores”.
 
-Subsec. (e)(3). Pub. L. 107–314, § 324(b), in first sentence, substituted “subsection, including any period of extension of the contract by modification of the contract, exercise of an option, or other cause, may not exceed three years” for “subsection may not exceed one year”.
+Subsec. (e)(3). Pub. L. 107–314, § 324(b), in first sentence, substituted “subsection, including any period of extension of the contract by modification of the contract, exercise of an option, or other cause, may not exceed three years” for “subsection may not exceed one year”.
 
 2001—Subsecs. (e) to (g). Pub. L. 107–107 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 2000—Subsec. (c)(1)(B). Pub. L. 106–398 added second sentence and struck out former second sentence which read as follows: “The Secretary shall also consider the value of housing in kind provided to the individual when determining program eligibility.”
 
-1999—Subsec. (a). Pub. L. 106–65, § 674(a), substituted “Program Required” for “Authority” in heading and “The Secretary of Defense shall carry out a program to provide supplemental foods and nutrition education” for “The Secretary of Defense may carry out a program to provide special supplemental food benefits” in text.
+1999—Subsec. (a). Pub. L. 106–65, § 674(a), substituted “Program Required” for “Authority” in heading and “The Secretary of Defense shall carry out a program to provide supplemental foods and nutrition education” for “The Secretary of Defense may carry out a program to provide special supplemental food benefits” in text.
 
-Subsec. (b). Pub. L. 106–65, § 674(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense the same payments and commodities as are made for the special supplemental food program in the United States under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786). The Secretary of Defense may use funds available for the Department of Defense to carry out the program under subsection (a).”
+Subsec. (b). Pub. L. 106–65, § 674(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense the same payments and commodities as are made for the special supplemental food program in the United States under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786). The Secretary of Defense may use funds available for the Department of Defense to carry out the program under subsection (a).”
 
-Subsec. (c)(1)(A). Pub. L. 106–65, § 674(c)(1), inserted at end “In determining eligibility for benefits, a person already certified for participation in the special supplemental nutrition program for women, infants, and children under such section 17 shall be considered eligible for the duration of the certification period under that special supplemental nutrition program.”
+Subsec. (c)(1)(A). Pub. L. 106–65, § 674(c)(1), inserted at end “In determining eligibility for benefits, a person already certified for participation in the special supplemental nutrition program for women, infants, and children under such section 17 shall be considered eligible for the duration of the certification period under that special supplemental nutrition program.”
 
-Subsec. (c)(1)(B). Pub. L. 106–65, § 674(c)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “The Secretary of Defense shall prescribe regulations governing computation of income eligibility standards for families of individuals participating in the program under this section.”
+Subsec. (c)(1)(B). Pub. L. 106–65, § 674(c)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “The Secretary of Defense shall prescribe regulations governing computation of income eligibility standards for families of individuals participating in the program under this section.”
 
-Subsec. (c)(2). Pub. L. 106–65, § 674(c)(3), inserted “, particularly with respect to nutrition education” before period at end.
+Subsec. (c)(2). Pub. L. 106–65, § 674(c)(3), inserted “, particularly with respect to nutrition education” before period at end.
 
-Subsec. (c)(3). Pub. L. 106–65, § 674(c)(4), added par. (3).
+Subsec. (c)(3). Pub. L. 106–65, § 674(c)(4), added par. (3).
 
-Subsec. (f)(4). Pub. L. 106–65, § 674(d), added par. (4).
+Subsec. (f)(4). Pub. L. 106–65, § 674(d), added par. (4).
 
 1997—Subsec. (b). Pub. L. 105–85 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense from funds appropriated for such purpose, the same payments and commodities as are made for the special supplemental food program in the United States under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786).”
 
-1996—Subsec. (f)(2)(B). Pub. L. 104–106 substituted “, as determined in accordance with the Immigration and Nationality Act (8 U.S.C. 1101 et seq.)” for “(as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)))”.
+1996—Subsec. (f)(2)(B). Pub. L. 104–106 substituted “, as determined in accordance with the Immigration and Nationality Act (8 U.S.C. 1101 et seq.)” for “(as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)))”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program To Increase Access to Food on Military Installations of the Army**
 
-Pub. L. 118–159, div. A, title VI, § 654, Dec. 23, 2024, 138 Stat. 1939, as amended by Pub. L. 119–60, div. A, title VI, § 663, Dec. 18, 2025, 139 Stat. 915, provided that:
+Pub. L. 118–159, div. A, title VI, § 654, Dec. 23, 2024, 138 Stat. 1939, as amended by Pub. L. 119–60, div. A, title VI, § 663, Dec. 18, 2025, 139 Stat. 915, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of a military department shall implement a pilot program to increase access to food on military installations under the jurisdiction of the Secretary for members of the Armed Forces who reside on such military installations.
 
@@ -3447,7 +3447,7 @@ Pub. L. 118–159, div. A, title VI, § 654, Dec. 23, 2024, 138 Stat. 1939, as
 
 **Food Insecurity Among Military Families: Data Collection; Training; Report**
 
-Pub. L. 117–263, div. A, title VI, § 645, Dec. 23, 2022, 136 Stat. 2637, provided that:
+Pub. L. 117–263, div. A, title VI, § 645, Dec. 23, 2022, 136 Stat. 2637, provided that:
 
 > **“(a) Data Collection.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Under Secretary of Defense for Personnel and Readiness, in coordination with the Under Secretary for Food, Nutrition, and Consumer Services of the Department of Agriculture, shall—
 
@@ -3485,9 +3485,9 @@ Pub. L. 117–263, div. A, title VI, § 645, Dec. 23, 2022, 136 Stat. 2637, pr
 
 **Report on Implementation of Special Supplemental Food Program**
 
-Pub. L. 105–85, div. A, title VI, § 655(b)(2), Nov. 18, 1997, 111 Stat. 1805, directed the Secretary of Defense to submit to Congress a report including plans to implement the program authorized under this section not later than 90 days after Nov. 18, 1997.
+Pub. L. 105–85, div. A, title VI, § 655(b)(2), Nov. 18, 1997, 111 Stat. 1805, directed the Secretary of Defense to submit to Congress a report including plans to implement the program authorized under this section not later than 90 days after Nov. 18, 1997.
 
-## § 1060b. Military ID cards: dependents and survivors of retirees
+## § 1060b. Military ID cards: dependents and survivors of retirees
 
 **(a) Issuance of Permanent ID Card.—**
 
@@ -3505,23 +3505,23 @@ Pub. L. 105–85, div. A, title VI, § 655(b)(2), Nov. 18, 1997, 111 Stat. 180
 
 **(2)** The term “retiree dependent” means a person who is a dependent of a retired member of the uniformed services, or a survivor of a deceased retired member of the uniformed services, who is eligible for any benefit from the Department of Defense.
 
-(Added Pub. L. 108–375, div. A, title V, § 583(a)(1), Oct. 28, 2004, 118 Stat. 1929; amended Pub. L. 109–364, div. A, title V, § 598(a), (b)(1), Oct. 17, 2006, 120 Stat. 2237.)
+(Added Pub. L. 108–375, div. A, title V, § 583(a)(1), Oct. 28, 2004, 118 Stat. 1929; amended Pub. L. 109–364, div. A, title V, § 598(a), (b)(1), Oct. 17, 2006, 120 Stat. 2237.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Pub. L. 109–364, § 598(b)(1), struck out “; issuance of permanent ID card after attaining 75 years of age” after “retirees” in section catchline.
+2006—Pub. L. 109–364, § 598(b)(1), struck out “; issuance of permanent ID card after attaining 75 years of age” after “retirees” in section catchline.
 
-Subsec. (a). Pub. L. 109–364, § 598(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In issuing military ID cards to retiree dependents, the Secretary concerned shall issue a permanent ID card (not subject to renewal) to any such retiree dependent who has attained 75 years of age. Such a permanent ID card shall be issued upon the expiration, after the retiree dependent attains 75 years of age, of any earlier, renewable military ID card or, if earlier, upon the request of such a retiree dependent after attaining age 75.”
+Subsec. (a). Pub. L. 109–364, § 598(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In issuing military ID cards to retiree dependents, the Secretary concerned shall issue a permanent ID card (not subject to renewal) to any such retiree dependent who has attained 75 years of age. Such a permanent ID card shall be issued upon the expiration, after the retiree dependent attains 75 years of age, of any earlier, renewable military ID card or, if earlier, upon the request of such a retiree dependent after attaining age 75.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 108–375, div. A, title V, § 583(b), Oct. 28, 2004, 118 Stat. 1929, provided that: “Section 1060b of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2004.”
+Pub. L. 108–375, div. A, title V, § 583(b), Oct. 28, 2004, 118 Stat. 1929, provided that: “Section 1060b of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2004.”
 
-## § 1060c. Provision of veterinary services
+## § 1060c. Provision of veterinary services
 
 **(a) In General.—** A veterinary professional described in subsection (b) may provide veterinary services in any State, the District of Columbia, or a territory or possession of the United States, without regard to where such veterinary professional or the patient animal are located, if the provision of such services is within the scope of the authorized duties of such veterinary professional for the Department of Defense.
 
@@ -3537,14 +3537,14 @@ Pub. L. 108–375, div. A, title V, § 583(b), Oct. 28, 2004, 118 Stat. 1929, 
 
 **(3)** currently licensed by a State, the District of Columbia, or a territory or possession of the United States to provide veterinary services.
 
-(Added Pub. L. 116–92, div. A, title VII, § 735(a), Dec. 20, 2019, 133 Stat. 1462; amended Pub. L. 118–159, div. A, title VII, § 733, Dec. 23, 2024, 138 Stat. 1956.)
+(Added Pub. L. 116–92, div. A, title VII, § 735(a), Dec. 20, 2019, 133 Stat. 1462; amended Pub. L. 118–159, div. A, title VII, § 733, Dec. 23, 2024, 138 Stat. 1956.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Pub. L. 118–159, § 733(1), struck out “in emergencies” after “veterinary services” in section catchline.
+2024—Pub. L. 118–159, § 733(1), struck out “in emergencies” after “veterinary services” in section catchline.
 
-Subsec. (a). Pub. L. 118–159, § 733(2), struck out “for the purposes described in subsection (c)” after “veterinary services”.
+Subsec. (a). Pub. L. 118–159, § 733(2), struck out “for the purposes described in subsection (c)” after “veterinary services”.
 
-Subsec. (c). Pub. L. 118–159, § 733(3), struck out subsec. (c) which described the purposes of veterinary services in response to certain emergencies.
+Subsec. (c). Pub. L. 118–159, § 733(3), struck out subsec. (c) which described the purposes of veterinary services in response to certain emergencies.

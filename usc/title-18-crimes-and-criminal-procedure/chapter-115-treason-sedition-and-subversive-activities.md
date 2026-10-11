@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1994—Pub. L. 103–322, title XXXIII, § 330004(13), Sept. 13, 1994, 108 Stat. 2142, struck out item 2391 “Temporary extension of section 2388”.
+1994—Pub. L. 103–322, title XXXIII, § 330004(13), Sept. 13, 1994, 108 Stat. 2142, struck out item 2391 “Temporary extension of section 2388”.
 
-1953—Act June 30, 1953, ch. 175, § 5, 67 Stat. 134, added item 2391.
+1953—Act June 30, 1953, ch. 175, § 5, 67 Stat. 134, added item 2391.
 
-## § 2381. Treason
+## § 2381. Treason
 
 Whoever, owing allegiance to the United States, levies war against them or adheres to their enemies, giving them aid and comfort within the United States or elsewhere, is guilty of treason and shall suffer death, or shall be imprisoned not less than five years and fined under this title but not less than $10,000; and shall be incapable of holding any office under the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 807; Pub. L. 103–322, title XXXIII, § 330016(2)(J), Sept. 13, 1994, 108 Stat. 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 807; Pub. L. 103–322, title XXXIII, § 330016(2)(J), Sept. 13, 1994, 108 Stat. 2148.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 1, 2 (Mar. 4, 1909, ch. 321, §§ 1, 2, 35 Stat. 1088).
+Based on title 18, U.S.C., 1940 ed., §§ 1, 2 (Mar. 4, 1909, ch. 321, §§ 1, 2, 35 Stat. 1088).
 
 Section consolidates sections 1 and 2 of title 18, U.S.C., 1940 ed.
 
@@ -47,15 +47,15 @@ Minor change was made in phraseology.
 
 1994—Pub. L. 103–322 inserted “under this title but” before “not less than $10,000”.
 
-## § 2382. Misprision of treason
+## § 2382. Misprision of treason
 
 Whoever, owing allegiance to the United States and having knowledge of the commission of any treason against them, conceals and does not, as soon as may be, disclose and make known the same to the President or to some judge of the United States, or to the governor or to some judge or justice of a particular State, is guilty of misprision of treason and shall be fined under this title or imprisoned not more than seven years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 807; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 807; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 3 (Mar. 4, 1909, ch. 321, § 3, 35 Stat. 1088).
+Based on title 18, U.S.C., 1940 ed., § 3 (Mar. 4, 1909, ch. 321, § 3, 35 Stat. 1088).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -65,15 +65,15 @@ Mandatory punishment provision was rephrased in the alternative.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 2383. Rebellion or insurrection
+## § 2383. Rebellion or insurrection
 
 Whoever incites, sets on foot, assists, or engages in any rebellion or insurrection against the authority of the United States or the laws thereof, or gives aid or comfort thereto, shall be fined under this title or imprisoned not more than ten years, or both; and shall be incapable of holding any office under the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 808; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 808; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 4 (Mar. 4, 1909, ch. 321, § 4, 35 Stat. 1088).
+Based on title 18, U.S.C., 1940 ed., § 4 (Mar. 4, 1909, ch. 321, § 4, 35 Stat. 1088).
 
 Word “moreover” was deleted as surplusage and minor changes were made in phraseology.
 
@@ -83,15 +83,15 @@ Word “moreover” was deleted as surplusage and minor changes were made in phr
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 2384. Seditious conspiracy
+## § 2384. Seditious conspiracy
 
 If two or more persons in any State or Territory, or in any place subject to the jurisdiction of the United States, conspire to overthrow, put down, or to destroy by force the Government of the United States, or to levy war against them, or to oppose by force the authority thereof, or by force to prevent, hinder, or delay the execution of any law of the United States, or by force to seize, take, or possess any property of the United States contrary to the authority thereof, they shall each be fined under this title or imprisoned not more than twenty years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 808; July 24, 1956, ch. 678, § 1, 70 Stat. 623; Pub. L. 103–322, title XXXIII, § 330016(1)(N), Sept. 13, 1994, 108 Stat. 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 808; July 24, 1956, ch. 678, § 1, 70 Stat. 623; Pub. L. 103–322, title XXXIII, § 330016(1)(N), Sept. 13, 1994, 108 Stat. 2148.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 6 (Mar. 4, 1909, ch. 321, § 6, 35 Stat. 1089).
+Based on title 18, U.S.C., 1940 ed., § 6 (Mar. 4, 1909, ch. 321, § 6, 35 Stat. 1089).
 
 **Editorial Notes**
 
@@ -105,9 +105,9 @@ Based on title 18, U.S.C., 1940 ed., § 6 (Mar. 4, 1909, ch. 321, § 6, 35 S
 
 **Effective Date of 1956 Amendment**
 
-Act July 24, 1956, ch. 678, § 3, 70 Stat. 624, provided that: “The foregoing amendments [amending this section and section 2385 of this title] shall apply only with respect to offenses committed on and after the date of the enactment of this Act [July 24, 1956].”
+Act July 24, 1956, ch. 678, § 3, 70 Stat. 624, provided that: “The foregoing amendments [amending this section and section 2385 of this title] shall apply only with respect to offenses committed on and after the date of the enactment of this Act [July 24, 1956].”
 
-## § 2385. Advocating overthrow of Government
+## § 2385. Advocating overthrow of Government
 
 Whoever knowingly or willfully advocates, abets, advises, or teaches the duty, necessity, desirability, or propriety of overthrowing or destroying the government of the United States or the government of any State, Territory, District or Possession thereof, or the government of any political subdivision therein, by force or violence, or by the assassination of any officer of any such government; or
 
@@ -121,11 +121,11 @@ If two or more persons conspire to commit any offense named in this section, eac
 
 As used in this section, the terms “organizes” and “organize”, with respect to any society, group, or assembly of persons, include the recruiting of new members, the forming of new units, and the regrouping or expansion of existing clubs, classes, and other units of such society, group, or assembly of persons.
 
-(June 25, 1948, ch. 645, 62 Stat. 808; July 24, 1956, ch. 678, § 2, 70 Stat. 623; Pub. L. 87–486, June 19, 1962, 76 Stat. 103; Pub. L. 103–322, title XXXIII, § 330016(1)(N), Sept. 13, 1994, 108 Stat. 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 808; July 24, 1956, ch. 678, § 2, 70 Stat. 623; Pub. L. 87–486, June 19, 1962, 76 Stat. 103; Pub. L. 103–322, title XXXIII, § 330016(1)(N), Sept. 13, 1994, 108 Stat. 2148.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 10, 11, 13 (June 28, 1940, ch. 439, title I, §§ 2, 3, 5, 54 Stat. 670, 671).
+Based on title 18, U.S.C., 1940 ed., §§ 10, 11, 13 (June 28, 1940, ch. 439, title I, §§ 2, 3, 5, 54 Stat. 670, 671).
 
 Section consolidates sections 10, 11, and 13 of title 18, U.S.C., 1940 ed. Section 13 of title 18, U.S.C., 1940 ed., which contained the punishment provisions applicable to sections 10 and 11 of title 18, U.S.C., 1940 ed., was combined with section 11 of title 18, U.S.C., 1940 ed., and added to this section.
 
@@ -157,7 +157,7 @@ The phraseology was considerably changed to effect consolidation but without any
 
 Amendment by act July 24, 1956, as applicable only with respect to offenses committed on and after July 24, 1956, see section 3 of act July 24, 1956, set out as a note under section 2384 of this title.
 
-## § 2386. Registration of certain organizations
+## § 2386. Registration of certain organizations
 
 (A) For the purposes of this section:
 
@@ -247,11 +247,11 @@ All statements filed under this section shall be public records and open to publ
 
 Whoever in a statement filed pursuant to this section willfully makes any false statement or willfully omits to state any fact which is required to be stated, or which is necessary to make the statements made not misleading, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 808; Pub. L. 103–322, title XXXIII, § 330016(1)(I), (L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 808; Pub. L. 103–322, title XXXIII, § 330016(1)(I), (L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 14–17 (Oct. 17, 1940, ch. 897, §§ 1–4, 54 Stat. 1201–1204).
+Based on title 18, U.S.C., 1940 ed., §§ 14–17 (Oct. 17, 1940, ch. 897, §§ 1–4, 54 Stat. 1201–1204).
 
 Section consolidates sections 14–17 of title 18, U.S.C., 1940 ed., as subsections (a), (b), (c), and (d), respectively, of this section, with necessary changes of phraseology and translation of section references.
 
@@ -263,7 +263,7 @@ Words “upon conviction” which preceded “be subject” were omitted as surp
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in penultimate par. and for “fined not more than $2,000” in last par.
 
-## § 2387. Activities affecting armed forces generally
+## § 2387. Activities affecting armed forces generally
 
 **(a)** Whoever, with intent to interfere with, impair, or influence the loyalty, morale, or discipline of the military or naval forces of the United States:
 
@@ -275,13 +275,13 @@ Shall be fined under this title or imprisoned not more than ten years, or both, 
 
 **(b)** For the purposes of this section, the term “military or naval forces of the United States” includes the Army of the United States, the Navy, Air Force, Marine Corps, Coast Guard, Navy Reserve, Marine Corps Reserve, and Coast Guard Reserve of the United States; and, when any merchant vessel is commissioned in the Navy or is in the service of the Army or the Navy, includes the master, officers, and crew of such vessel.
 
-(June 25, 1948, ch. 645, 62 Stat. 811; May 24, 1949, ch. 139, § 46, 63 Stat. 96; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–163, div. A, title V, § 515(f)(2), Jan. 6, 2006, 119 Stat. 3236.)
+(June 25, 1948, ch. 645, 62 Stat. 811; May 24, 1949, ch. 139, § 46, 63 Stat. 96; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–163, div. A, title V, § 515(f)(2), Jan. 6, 2006, 119 Stat. 3236.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., §§ 9, 11, 13 (June 28, 1940, ch. 439, title I, §§ 1, 3, 5, 54 Stat. 670, 671).
+Based on title 18, U.S.C., 1940 ed., §§ 9, 11, 13 (June 28, 1940, ch. 439, title I, §§ 1, 3, 5, 54 Stat. 670, 671).
 
 Section consolidates sections 9, 11, and 13 of title 18, U.S.C., 1940 ed., with only such changes of phraseology as were necessary to effect consolidation.
 
@@ -319,9 +319,9 @@ Coast Guard transferred to Department of Transportation and functions, powers, a
 
 **Transfer of Functions**
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26, of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Such plan excepted from transfer functions of Coast Guard and Commandant thereof when Coast Guard is operating as a part of the Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26, of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Such plan excepted from transfer functions of Coast Guard and Commandant thereof when Coast Guard is operating as a part of the Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
-## § 2388. Activities affecting armed forces during war
+## § 2388. Activities affecting armed forces during war
 
 **(a)** Whoever, when the United States is at war, willfully makes or conveys false reports or false statements with intent to interfere with the operation or success of the military or naval forces of the United States or to promote the success of its enemies; or
 
@@ -335,11 +335,11 @@ Shall be fined under this title or imprisoned not more than twenty years, or bot
 
 **(d)** This section shall apply within the admiralty and maritime jurisdiction of the United States, and on the high seas, as well as within the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 811; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 811; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on sections 33, 34, 35, 37 of title 50, U.S.C., 1940 ed., War and National Defense (June 15, 1917, ch. 30, title I, §§ 3, 4, 5, 8, 40 Stat. 219; Mar. 3, 1921, ch. 136, 41 Stat. 1359; Mar. 28, 1940, ch. 72, § 2, 54 Stat. 79).
+Based on sections 33, 34, 35, 37 of title 50, U.S.C., 1940 ed., War and National Defense (June 15, 1917, ch. 30, title I, §§ 3, 4, 5, 8, 40 Stat. 219; Mar. 3, 1921, ch. 136, 41 Stat. 1359; Mar. 28, 1940, ch. 72, § 2, 54 Stat. 79).
 
 Sections 33, 34, 35, and 37 of title 50, U.S.C., 1940 ed., War and National Defense, were consolidated. Sections 34, 35, and 37 of title 50, U.S.C., 1940 ed., War and National Defense, are also incorporated in sections 791, 792, and 794 of this title, to which they relate.
 
@@ -355,13 +355,13 @@ Minor changes were made in phraseology.
 
 **Repeals**
 
-Act June 30, 1953, ch. 175, § 7, 67 Stat. 134, repealed Joint Res. July 3, 1952, ch. 570, § 1(a)(29), 66 Stat. 333; Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, which had provided that this section should continue in force until six months after the termination of the National emergency proclaimed by 1950 Proc. No. 2914, which is set out as a note preceding section 1 of Title 50, War and National Defense.
+Act June 30, 1953, ch. 175, § 7, 67 Stat. 134, repealed Joint Res. July 3, 1952, ch. 570, § 1(a)(29), 66 Stat. 333; Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, which had provided that this section should continue in force until six months after the termination of the National emergency proclaimed by 1950 Proc. No. 2914, which is set out as a note preceding section 1 of Title 50, War and National Defense.
 
 **Repeal of Extensions of War-time Provisions**
 
-Joint Res. July 3, 1952, ch. 570, § 6, 66 Stat. 334, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54, as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96. Intermediate extensions by Joint Res. June 14, 1952, ch. 437, 66 Stat. 137, and Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions until July 3, 1952, expired by their own terms.
+Joint Res. July 3, 1952, ch. 570, § 6, 66 Stat. 334, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54, as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96. Intermediate extensions by Joint Res. June 14, 1952, ch. 437, 66 Stat. 137, and Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions until July 3, 1952, expired by their own terms.
 
-## § 2389. Recruiting for service against United States
+## § 2389. Recruiting for service against United States
 
 Whoever recruits soldiers or sailors within the United States, or in any place subject to the jurisdiction thereof, to engage in armed hostility against the same; or
 
@@ -369,11 +369,11 @@ Whoever opens within the United States, or in any place subject to the jurisdict
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 811; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 811; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 7 (Mar. 4, 1909, ch. 321, § 7, 35 Stat. 1089).
+Based on title 18, U.S.C., 1940 ed., § 7 (Mar. 4, 1909, ch. 321, § 7, 35 Stat. 1089).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -385,19 +385,19 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in last par.
 
-## § 2390. Enlistment to serve against United States
+## § 2390. Enlistment to serve against United States
 
-Whoever enlists or is engaged within the United States or in any place subject to the jurisdiction thereof, with intent to serve in armed hostility against the United States, shall be fined under this title 1
+Whoever enlists or is engaged within the United States or in any place subject to the jurisdiction thereof, with intent to serve in armed hostility against the United States, shall be fined under this title 1
 
-<sup>1</sup>  See 1994 Amendment note below.
+<sup>1</sup> See 1994 Amendment note below.
 
 or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 8 (Mar. 4, 1909, ch. 321, § 8, 35 Stat. 1089).
+Based on title 18, U.S.C., 1940 ed., § 8 (Mar. 4, 1909, ch. 321, § 8, 35 Stat. 1089).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -409,6 +409,6 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322, which directed the amendment of this section by striking “fined not more than $100” and inserting “fined under this title”, was executed by substituting “fined under this title” for “fined $100”, to reflect the probable intent of Congress.
 
-## [§ 2391. Repealed. Pub. L. 103–322, title XXXIII, § 330004(13), Sept. 13, 1994, 108 Stat. 2142]
+## [§ 2391. Repealed. Pub. L. 103–322, title XXXIII, § 330004(13), Sept. 13, 1994, 108 Stat. 2142]
 
-Section, added June 30, 1953, ch. 175, § 6, 67 Stat. 134, related to temporary extension of section 2388 of this title.
+Section, added June 30, 1953, ch. 175, § 6, 67 Stat. 134, related to temporary extension of section 2388 of this title.

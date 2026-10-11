@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior subchapter U consisted of sections 1391 to 1397, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
+A prior subchapter U consisted of sections 1391 to 1397, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
 
 **Amendments**
 
-1997—Pub. L. 105–34, title II, § 226(b)(1), Aug. 5, 1997, 111 Stat. 824, added items for parts IV and V and struck out former item for part IV “Regulations”.
+1997—Pub. L. 105–34, title II, § 226(b)(1), Aug. 5, 1997, 111 Stat. 824, added items for parts IV and V and struck out former item for part IV “Regulations”.
 
 ## PART I—DESIGNATION
 
-### § 1391. Designation procedure
+### § 1391. Designation procedure
 
 **(a) In general**
 
@@ -189,11 +189,11 @@ The rules of subsection (g)(3) shall apply to designations under this subsection
 
 The number of areas which may be designated as empowerment zones under this subsection shall be increased by 1 for each area which ceases to be an empowerment zone by reason of section 1400E(e).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 Each additional area designated by reason of the preceding sentence shall have the same urban or rural character as the area it is replacing.
 
-(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 543; amended Pub. L. 105–34, title IX, §§ 951(a), 952(a), (d), Aug. 5, 1997, 111 Stat. 885–887; Pub. L. 106–554, § 1(a)(7) [title I, §§ 111, 112, title III, § 319(13)], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–601, 2763A–646; Pub. L. 111–312, title VII, § 753(a), Dec. 17, 2010, 124 Stat. 3321; Pub. L. 112–240, title III, § 327(a), Jan. 2, 2013, 126 Stat. 2334; Pub. L. 113–295, div. A, title I, § 139(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, § 171(a)(1), Dec. 18, 2015, 129 Stat. 3069; Pub. L. 115–123, div. D, title I, § 40311(a)(1), Feb. 9, 2018, 132 Stat. 147; Pub. L. 115–141, div. U, title IV, § 401(a)(194), Mar. 23, 2018, 132 Stat. 1193; Pub. L. 116–94, div. Q, title I, § 118(a), Dec. 20, 2019, 133 Stat. 3229; Pub. L. 116–260, div. EE, title I, § 118(a), Dec. 27, 2020, 134 Stat. 3051.)
+(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 543; amended Pub. L. 105–34, title IX, §§ 951(a), 952(a), (d), Aug. 5, 1997, 111 Stat. 885–887; Pub. L. 106–554, § 1(a)(7) [title I, §§ 111, 112, title III, § 319(13)], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–601, 2763A–646; Pub. L. 111–312, title VII, § 753(a), Dec. 17, 2010, 124 Stat. 3321; Pub. L. 112–240, title III, § 327(a), Jan. 2, 2013, 126 Stat. 2334; Pub. L. 113–295, div. A, title I, § 139(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, § 171(a)(1), Dec. 18, 2015, 129 Stat. 3069; Pub. L. 115–123, div. D, title I, § 40311(a)(1), Feb. 9, 2018, 132 Stat. 147; Pub. L. 115–141, div. U, title IV, § 401(a)(194), Mar. 23, 2018, 132 Stat. 1193; Pub. L. 116–94, div. Q, title I, § 118(a), Dec. 20, 2019, 133 Stat. 3229; Pub. L. 116–260, div. EE, title I, § 118(a), Dec. 27, 2020, 134 Stat. 3051.)
 
 **Editorial Notes**
 
@@ -203,11 +203,11 @@ The date of the enactment of this subsection, referred to in subsec. (g)(2), is 
 
 The date of the enactment of this subsection, referred to in subsec. (h)(2), is the date of enactment of Pub. L. 106–554, which was approved Dec. 21, 2000.
 
-Section 1400E(e), referred to in subsec. (h)(4), was repealed by Pub. L. 115–141, div. U, title IV, § 401(d)(5)(A), Mar. 23, 2018, 132 Stat. 1210.
+Section 1400E(e), referred to in subsec. (h)(4), was repealed by Pub. L. 115–141, div. U, title IV, § 401(d)(5)(A), Mar. 23, 2018, 132 Stat. 1210.
 
 **Prior Provisions**
 
-A prior section 1391, added Pub. L. 95–600, title VI, § 601(a), Nov. 6, 1978, 92 Stat. 2892; amended Pub. L. 96–222, title I, § 106(a)(4), Apr. 1, 1980, 94 Stat. 221; Pub. L. 96–595, § 3(a)(1), (2), Dec. 24, 1980, 94 Stat. 3465, defined terms used in former subchapter U, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
+A prior section 1391, added Pub. L. 95–600, title VI, § 601(a), Nov. 6, 1978, 92 Stat. 2892; amended Pub. L. 96–222, title I, § 106(a)(4), Apr. 1, 1980, 94 Stat. 221; Pub. L. 96–595, § 3(a)(1), (2), Dec. 24, 1980, 94 Stat. 3465, defined terms used in former subchapter U, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
 
 **Amendments**
 
@@ -225,49 +225,49 @@ Subsec. (g)(3)(E)(ii). Pub. L. 115–141 substituted “the Interior” for “I
 
 2013—Subsec. (d)(1)(A)(i). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
 
-2010—Subsec. (d)(1)(A)(i). Pub. L. 111–312, § 753(a)(1), substituted “December 31, 2011” for “December 31, 2009”.
+2010—Subsec. (d)(1)(A)(i). Pub. L. 111–312, § 753(a)(1), substituted “December 31, 2011” for “December 31, 2009”.
 
-Subsec. (h)(2). Pub. L. 111–312, § 753(a)(2), struck out at end “Subject to subparagraphs (B) and (C) of subsection (d)(1), such designations shall remain in effect during the period beginning on January 1, 2002, and ending on December 31, 2009.”
+Subsec. (h)(2). Pub. L. 111–312, § 753(a)(2), struck out at end “Subject to subparagraphs (B) and (C) of subsection (d)(1), such designations shall remain in effect during the period beginning on January 1, 2002, and ending on December 31, 2009.”
 
-2000—Subsec. (d)(1)(A). Pub. L. 106–554, § 1(a)(7) [title I, § 112], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the close of the 10th calendar year beginning on or after such date of designation,”.
+2000—Subsec. (d)(1)(A). Pub. L. 106–554, § 1(a)(7) [title I, § 112], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the close of the 10th calendar year beginning on or after such date of designation,”.
 
-Subsec. (g)(3)(C). Pub. L. 106–554, § 1(a)(7) [title III, § 319(13)], substituted “paragraph (1)” for “paragraph (1)(B)”.
+Subsec. (g)(3)(C). Pub. L. 106–554, § 1(a)(7) [title III, § 319(13)], substituted “paragraph (1)” for “paragraph (1)(B)”.
 
-Subsec. (h). Pub. L. 106–554, § 1(a)(7) [title I, § 111], added subsec. (h).
+Subsec. (h). Pub. L. 106–554, § 1(a)(7) [title I, § 111], added subsec. (h).
 
-1997—Subsec. (b)(2). Pub. L. 105–34, § 951(a)(3), substituted “1,000,000” for “750,000”.
+1997—Subsec. (b)(2). Pub. L. 105–34, § 951(a)(3), substituted “1,000,000” for “750,000”.
 
-Pub. L. 105–34, § 951(a)(2), which directed substitution of “8” for “6”, was executed by making the substitution both places “6” appeared, to reflect the probable intent of Congress.
+Pub. L. 105–34, § 951(a)(2), which directed substitution of “8” for “6”, was executed by making the substitution both places “6” appeared, to reflect the probable intent of Congress.
 
-Pub. L. 105–34, § 951(a)(1), substituted “11” for “9”.
+Pub. L. 105–34, § 951(a)(1), substituted “11” for “9”.
 
-Subsec. (c). Pub. L. 105–34, § 952(d)(2), substituted “subsection (a)” for “this section”.
+Subsec. (c). Pub. L. 105–34, § 952(d)(2), substituted “subsection (a)” for “this section”.
 
-Subsecs. (e), (f). Pub. L. 105–34, § 952(d)(1), substituted “this section” for “subsection (a)” in introductory provisions.
+Subsecs. (e), (f). Pub. L. 105–34, § 952(d)(1), substituted “this section” for “subsection (a)” in introductory provisions.
 
-Subsec. (g). Pub. L. 105–34, § 952(a), added subsec. (g).
+Subsec. (g). Pub. L. 105–34, § 952(a), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. EE, title I, § 118(e), Dec. 27, 2020, 134 Stat. 3051, provided that: “The amendments made by this section [amending this section and sections 1397A and 1397B of this title] shall apply to taxable years beginning after December 31, 2020.”
+Pub. L. 116–260, div. EE, title I, § 118(e), Dec. 27, 2020, 134 Stat. 3051, provided that: “The amendments made by this section [amending this section and sections 1397A and 1397B of this title] shall apply to taxable years beginning after December 31, 2020.”
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–94, div. Q, title I, § 118(c), Dec. 20, 2019, 133 Stat. 3229, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 116–94, div. Q, title I, § 118(c), Dec. 20, 2019, 133 Stat. 3229, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2017.”
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–123, div. D, title I, § 40311(b), Feb. 9, 2018, 132 Stat. 147, provided that: “The amendment made by subsection (a)(1) [amending this section] shall apply to taxable years beginning after December 31, 2016.”
+Pub. L. 115–123, div. D, title I, § 40311(b), Feb. 9, 2018, 132 Stat. 147, provided that: “The amendment made by subsection (a)(1) [amending this section] shall apply to taxable years beginning after December 31, 2016.”
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title I, § 171(e)(1), Dec. 18, 2015, 129 Stat. 3071, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2014.”
+Pub. L. 114–113, div. Q, title I, § 171(e)(1), Dec. 18, 2015, 129 Stat. 3071, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2014.”
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–295, div. A, title I, § 139(c), Dec. 19, 2014, 128 Stat. 4020, provided that: “The amendment made by this section [amending this section] shall apply to periods after December 31, 2013.”
+Pub. L. 113–295, div. A, title I, § 139(c), Dec. 19, 2014, 128 Stat. 4020, provided that: “The amendment made by this section [amending this section] shall apply to periods after December 31, 2013.”
 
 **Effective Date of 2013 Amendment**
 
@@ -279,25 +279,25 @@ Amendment by Pub. L. 111–312 applicable to periods after Dec. 31, 2009, see se
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title IX, § 951(c), Aug. 5, 1997, 111 Stat. 885, provided that: “The amendments made by this section [amending this section and section 1396 of this title] shall take effect on the date of the enactment of this Act [Aug. 5, 1997], except that designations of new empowerment zones made pursuant to such amendments shall be made during the 180-day period beginning on the date of the enactment of this Act. No designation pursuant to such amendments shall take effect before January 1, 2000.”
+Pub. L. 105–34, title IX, § 951(c), Aug. 5, 1997, 111 Stat. 885, provided that: “The amendments made by this section [amending this section and section 1396 of this title] shall take effect on the date of the enactment of this Act [Aug. 5, 1997], except that designations of new empowerment zones made pursuant to such amendments shall be made during the 180-day period beginning on the date of the enactment of this Act. No designation pursuant to such amendments shall take effect before January 1, 2000.”
 
 **Treatment of Certain Termination Dates Specified in Nominations**
 
-Pub. L. 116–260, div. EE, title I, § 118(d), Dec. 27, 2020, 134 Stat. 3051, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Dec. 27, 2020]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
+Pub. L. 116–260, div. EE, title I, § 118(d), Dec. 27, 2020, 134 Stat. 3051, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Dec. 27, 2020]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
 
-Pub. L. 116–94, div. Q, title I, § 118(b), Dec. 20, 2019, 133 Stat. 3229, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Dec. 20, 2019]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
+Pub. L. 116–94, div. Q, title I, § 118(b), Dec. 20, 2019, 133 Stat. 3229, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Dec. 20, 2019]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
 
-Pub. L. 115–123, div. D, title I, § 40311(a)(2), Feb. 9, 2018, 132 Stat. 147, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Feb. 9, 2018]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
+Pub. L. 115–123, div. D, title I, § 40311(a)(2), Feb. 9, 2018, 132 Stat. 147, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Feb. 9, 2018]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
 
-Pub. L. 114–113, div. Q, title I, § 171(a)(2), Dec. 18, 2015, 129 Stat. 3069, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Dec. 18, 2015]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
+Pub. L. 114–113, div. Q, title I, § 171(a)(2), Dec. 18, 2015, 129 Stat. 3069, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Dec. 18, 2015]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
 
-Pub. L. 113–295, div. A, title I, § 139(b), Dec. 19, 2014, 128 Stat. 4020, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Dec. 19, 2014]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
+Pub. L. 113–295, div. A, title I, § 139(b), Dec. 19, 2014, 128 Stat. 4020, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Dec. 19, 2014]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
 
-Pub. L. 112–240, title III, § 327(c), Jan. 2, 2013, 126 Stat. 2334, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Jan. 2, 2013]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
+Pub. L. 112–240, title III, § 327(c), Jan. 2, 2013, 126 Stat. 2334, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Jan. 2, 2013]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section, the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
 
-Pub. L. 111–312, title VII, § 753(c), Dec. 17, 2010, 124 Stat. 3321, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Dec. 17, 2010]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section [Dec. 17, 2010], the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
+Pub. L. 111–312, title VII, § 753(c), Dec. 17, 2010, 124 Stat. 3321, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act [Dec. 17, 2010]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section [Dec. 17, 2010], the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary’s designee) may provide.”
 
-### § 1392. Eligibility criteria
+### § 1392. Eligibility criteria
 
 **(a) In general** A nominated area shall be eligible for designation under section 1391 only if it meets the following criteria:
 
@@ -379,19 +379,19 @@ In the case of an area which is not tracted for population census tracts, the eq
 
 A nominated area in Alaska or Hawaii shall be treated as meeting the requirements of paragraphs (2), (3), and (4) of subsection (a) if for each census tract or block group within such area 20 percent or more of the families have income which is 50 percent or less of the statewide median family income (as determined under section 143).
 
-(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 545; amended Pub. L. 105–34, title IX, § 954, Aug. 5, 1997, 111 Stat. 888.)
+(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 545; amended Pub. L. 105–34, title IX, § 954, Aug. 5, 1997, 111 Stat. 888.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1392, added Pub. L. 95–600, title VI, § 601(a), Nov. 6, 1978, 92 Stat. 2893; amended Pub. L. 96–222, title I, § 106(a)(5), Apr. 1, 1980, 94 Stat. 221; Pub. L. 96–595, § 3(a)(3), (4), Dec. 24, 1980, 94 Stat. 3465, related to election by general stock ownership corporations not to be subject to taxes imposed by this chapter, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
+A prior section 1392, added Pub. L. 95–600, title VI, § 601(a), Nov. 6, 1978, 92 Stat. 2893; amended Pub. L. 96–222, title I, § 106(a)(5), Apr. 1, 1980, 94 Stat. 221; Pub. L. 96–595, § 3(a)(3), (4), Dec. 24, 1980, 94 Stat. 3465, related to election by general stock ownership corporations not to be subject to taxes imposed by this chapter, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
 
 **Amendments**
 
 1997—Subsec. (d). Pub. L. 105–34 added subsec. (d).
 
-### § 1393. Definitions and special rules
+### § 1393. Definitions and special rules
 
 **(a) In general** For purposes of this subchapter—
 
@@ -447,17 +447,17 @@ Population and poverty rate shall be determined by the most recent decennial cen
 
 For purposes of this title, the terms “empowerment zone” and “enterprise community” mean areas designated as such under section 1391.
 
-(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 547.)
+(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 547.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1393, added Pub. L. 95–600, title VI, § 601(a), Nov. 6, 1978, 92 Stat. 2894; amended Pub. L. 96–595, § 3(a)(5), (6), (8), Dec. 24, 1980, 94 Stat. 3465, related to taxation of general stock ownership corporation taxable income to shareholders, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
+A prior section 1393, added Pub. L. 95–600, title VI, § 601(a), Nov. 6, 1978, 92 Stat. 2894; amended Pub. L. 96–595, § 3(a)(5), (6), (8), Dec. 24, 1980, 94 Stat. 3465, related to taxation of general stock ownership corporation taxable income to shareholders, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
 
 ## PART II—TAX-EXEMPT FACILITY BONDS FOR EMPOWERMENT ZONES AND ENTERPRISE COMMUNITIES
 
-### § 1394. Tax-exempt enterprise zone facility bonds
+### § 1394. Tax-exempt enterprise zone facility bonds
 
 **(a) In general**
 
@@ -629,7 +629,7 @@ Bonds to which paragraph (1) applies shall not be taken into account in applying
 
 **(B)** in the case of obligations issued after December 31, 2001, all empowerment zones (other than the District of Columbia Enterprise Zone) were taken into account under sections 1397C and 1397D.
 
-(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 548; amended Pub. L. 104–188, title I, § 1703(n)(7), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title IX, §§ 953(a), 955(a), (b), Aug. 5, 1997, 111 Stat. 887, 889, 890; Pub. L. 106–554, § 1(a)(7) [title I, §§ 115(a), 116(b)(3), (4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, 2763A–603; Pub. L. 107–147, title IV, § 417(16), Mar. 9, 2002, 116 Stat. 56; Pub. L. 113–295, div. A, title II, § 220(*o*), (p), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 114–113, div. Q, title I, § 171(b)–(d), Dec. 18, 2015, 129 Stat. 3070, 3071; Pub. L. 115–141, div. U, title IV, § 401(a)(195), Mar. 23, 2018, 132 Stat. 1193.)
+(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 548; amended Pub. L. 104–188, title I, § 1703(n)(7), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title IX, §§ 953(a), 955(a), (b), Aug. 5, 1997, 111 Stat. 887, 889, 890; Pub. L. 106–554, § 1(a)(7) [title I, §§ 115(a), 116(b)(3), (4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, 2763A–603; Pub. L. 107–147, title IV, § 417(16), Mar. 9, 2002, 116 Stat. 56; Pub. L. 113–295, div. A, title II, § 220(*o*), (p), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 114–113, div. Q, title I, § 171(b)–(d), Dec. 18, 2015, 129 Stat. 3070, 3071; Pub. L. 115–141, div. U, title IV, § 401(a)(195), Mar. 23, 2018, 132 Stat. 1193.)
 
 **Editorial Notes**
 
@@ -639,51 +639,51 @@ Section 103(20) of the Riegle Community Development and Regulatory Improvement A
 
 **Prior Provisions**
 
-A prior section 1394, added Pub. L. 95–600, title VI, § 601(a), Nov. 6, 1978, 92 Stat. 2895; amended Pub. L. 96–595, § 3(a)(6)–(8), Dec. 24, 1980, 94 Stat. 3465, related to rules applicable to distributions of an electing general stock ownership corporation, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
+A prior section 1394, added Pub. L. 95–600, title VI, § 601(a), Nov. 6, 1978, 92 Stat. 2895; amended Pub. L. 96–595, § 3(a)(6)–(8), Dec. 24, 1980, 94 Stat. 3465, related to rules applicable to distributions of an electing general stock ownership corporation, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
 
-A prior section 1395, added Pub. L. 95–600, title VI, § 601(a), Nov. 6, 1978, 92 Stat. 2895, related to adjustment to basis of stock of shareholders, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
+A prior section 1395, added Pub. L. 95–600, title VI, § 601(a), Nov. 6, 1978, 92 Stat. 2895, related to adjustment to basis of stock of shareholders, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
 
 **Amendments**
 
 2018—Subsec. (b)(3)(B)(i)(II). Pub. L. 115–141 substituted “subsections” for “subsection”.
 
-2015—Subsec. (b)(3)(B)(i). Pub. L. 114–113, § 171(b), designated existing provisions as subcl. (I), inserted heading, substituted “Except as provided in subclause (II), references” for “References”, and added subcl. (II).
+2015—Subsec. (b)(3)(B)(i). Pub. L. 114–113, § 171(b), designated existing provisions as subcl. (I), inserted heading, substituted “Except as provided in subclause (II), references” for “References”, and added subcl. (II).
 
-Subsec. (b)(3)(B)(iii). Pub. L. 114–113, § 171(d)(1), substituted “, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction” for “or an enterprise community”.
+Subsec. (b)(3)(B)(iii). Pub. L. 114–113, § 171(d)(1), substituted “, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction” for “or an enterprise community”.
 
-Subsec. (b)(3)(C). Pub. L. 114–113, § 171(c)(1), added subpar. (C). Former subpar. (C) redesignated (D).
+Subsec. (b)(3)(C). Pub. L. 114–113, § 171(c)(1), added subpar. (C). Former subpar. (C) redesignated (D).
 
-Subsec. (b)(3)(D). Pub. L. 114–113, § 171(c)(1), (d)(2), redesignated subpar. (C) as (D) and substituted “Other definitions” for “Definitions” in heading. Former subpar. (D) redesignated (E).
+Subsec. (b)(3)(D). Pub. L. 114–113, § 171(c)(1), (d)(2), redesignated subpar. (C) as (D) and substituted “Other definitions” for “Definitions” in heading. Former subpar. (D) redesignated (E).
 
-Subsec. (b)(3)(D)(iii). Pub. L. 114–113, § 171(c)(2), added cl. (iii).
+Subsec. (b)(3)(D)(iii). Pub. L. 114–113, § 171(c)(2), added cl. (iii).
 
-Subsec. (b)(3)(E). Pub. L. 114–113, § 171(c)(1), redesignated subpar. (D) as (E).
+Subsec. (b)(3)(E). Pub. L. 114–113, § 171(c)(1), redesignated subpar. (D) as (E).
 
-2014—Subsec. (f). Pub. L. 113–295, § 220(*o*), struck out “designated under section 1391(g)” after “empowerment zones” in heading.
+2014—Subsec. (f). Pub. L. 113–295, § 220(*o*), struck out “designated under section 1391(g)” after “empowerment zones” in heading.
 
-Subsec. (f)(1), (2)(A). Pub. L. 113–295, § 220(p), substituted “an empowerment zone facility bond” for “a new empowerment zone facility bond”.
+Subsec. (f)(1), (2)(A). Pub. L. 113–295, § 220(p), substituted “an empowerment zone facility bond” for “a new empowerment zone facility bond”.
 
 2002—Subsec. (c)(2). Pub. L. 107–147 substituted “paragraph (1)” for “subparagraph (A)”.
 
-2000—Subsec. (b)(2). Pub. L. 106–554, § 1(a)(7) [title I, § 116(b)(3)(A)], substituted “section 1397D” for “section 1397C” in introductory provisions.
+2000—Subsec. (b)(2). Pub. L. 106–554, § 1(a)(7) [title I, § 116(b)(3)(A)], substituted “section 1397D” for “section 1397C” in introductory provisions.
 
-Subsec. (b)(2)(B). Pub. L. 106–554, § 1(a)(7) [title I, § 116(b)(3)(B)], substituted “section 1397D(a)(2)” for “section 1397C(a)(2)”.
+Subsec. (b)(2)(B). Pub. L. 106–554, § 1(a)(7) [title I, § 116(b)(3)(B)], substituted “section 1397D(a)(2)” for “section 1397C(a)(2)”.
 
-Subsec. (b)(3). Pub. L. 106–554, § 1(a)(7) [title I, § 116(b)(4)(A)], substituted “section 1397C” for “section 1397B” wherever appearing.
+Subsec. (b)(3). Pub. L. 106–554, § 1(a)(7) [title I, § 116(b)(4)(A)], substituted “section 1397C” for “section 1397B” wherever appearing.
 
-Subsec. (b)(3)(B)(iii). Pub. L. 106–554, § 1(a)(7) [title I, § 116(b)(4)(B)], substituted “section 1397C(d)” for “section 1397B(d)”.
+Subsec. (b)(3)(B)(iii). Pub. L. 106–554, § 1(a)(7) [title I, § 116(b)(4)(B)], substituted “section 1397C(d)” for “section 1397B(d)”.
 
-Subsec. (f)(3). Pub. L. 106–554, § 1(a)(7) [title I, § 115(a)], amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘new empowerment zone facility bond’ means any bond which would be described in subsection (a) if only empowerment zones designated under section 1391(g) were taken into account under sections 1397B and 1397C.”
+Subsec. (f)(3). Pub. L. 106–554, § 1(a)(7) [title I, § 115(a)], amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘new empowerment zone facility bond’ means any bond which would be described in subsection (a) if only empowerment zones designated under section 1391(g) were taken into account under sections 1397B and 1397C.”
 
-1997—Subsec. (b)(2). Pub. L. 105–34, § 955(b), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘qualified zone property’ has the meaning given such term by section 1397C; except that the references to empowerment zones shall be treated as including references to enterprise communities.”
+1997—Subsec. (b)(2). Pub. L. 105–34, § 955(b), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘qualified zone property’ has the meaning given such term by section 1397C; except that the references to empowerment zones shall be treated as including references to enterprise communities.”
 
-Subsec. (b)(3). Pub. L. 105–34, § 955(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘enterprise zone business’ has the meaning given to such term by section 1397B, except that—
+Subsec. (b)(3). Pub. L. 105–34, § 955(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘enterprise zone business’ has the meaning given to such term by section 1397B, except that—
 
 “(A) references to empowerment zones shall be treated as including references to enterprise communities, and
 
 “(B) such term includes any trades or businesses which would qualify as an enterprise zone business (determined after the modification of subparagraph (A)) if such trades or businesses were separately incorporated.”
 
-Subsec. (f). Pub. L. 105–34, § 953(a), added subsec. (f).
+Subsec. (f). Pub. L. 105–34, § 953(a), added subsec. (f).
 
 1996—Subsec. (e)(2). Pub. L. 104–188, which directed that par. (2) be amended by striking “(i)” and inserting “(A)” and by striking “(ii)” and inserting “(B)”, could not be executed, because par. (2) contained neither “(i)” nor “(ii)”.
 
@@ -691,23 +691,23 @@ Subsec. (f). Pub. L. 105–34, § 953(a), added subsec. (f).
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title I, § 171(e)(2), Dec. 18, 2015, 129 Stat. 3071, provided that: “The amendments made by subsections (b), (c), and (d) [amending this section] shall apply to bonds issued after December 31, 2015.”
+Pub. L. 114–113, div. Q, title I, § 171(e)(2), Dec. 18, 2015, 129 Stat. 3071, provided that: “The amendments made by subsections (b), (c), and (d) [amending this section] shall apply to bonds issued after December 31, 2015.”
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–554, § 1(a)(7) [title I, § 115(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–602, provided that: “The amendments made by this section [amending this section] shall apply to obligations issued after December 31, 2001.”
+Pub. L. 106–554, § 1(a)(7) [title I, § 115(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–602, provided that: “The amendments made by this section [amending this section] shall apply to obligations issued after December 31, 2001.”
 
-Amendment by section 1(a)(7) [title I, § 116(b)(3), (4)] of Pub. L. 106–554 applicable to qualified empowerment zone assets acquired after Dec. 21, 2000, see section 1(a)(7) [title I, § 116(c)] of Pub. L. 106–554, set out as a note under section 1016 of this title.
+Amendment by section 1(a)(7) [title I, § 116(b)(3), (4)] of Pub. L. 106–554 applicable to qualified empowerment zone assets acquired after Dec. 21, 2000, see section 1(a)(7) [title I, § 116(c)] of Pub. L. 106–554, set out as a note under section 1016 of this title.
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title IX, § 953(b), Aug. 5, 1997, 111 Stat. 888, provided that: “The amendment made by this section [amending this section] shall apply to obligations issued after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title IX, § 953(b), Aug. 5, 1997, 111 Stat. 888, provided that: “The amendment made by this section [amending this section] shall apply to obligations issued after the date of the enactment of this Act [Aug. 5, 1997].”
 
-Pub. L. 105–34, title IX, § 955(c), Aug. 5, 1997, 111 Stat. 890, provided that: “The amendments made by this section [amending this section] shall apply to obligations issued after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title IX, § 955(c), Aug. 5, 1997, 111 Stat. 890, provided that: “The amendments made by this section [amending this section] shall apply to obligations issued after the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1996 Amendment**
 
-Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§ 13001–13444, to which such amendment relates, see section 1703(*o*) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§ 13001–13444, to which such amendment relates, see section 1703(*o*) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 ## PART III—ADDITIONAL INCENTIVES FOR EMPOWERMENT ZONES
 
@@ -715,11 +715,11 @@ Amendment by Pub. L. 104–188 effective as if included in the provision of the 
 
 **Amendments**
 
-2000—Pub. L. 106–554, § 1(a)(7) [title I, § 116(b)(6)], Dec. 21, 2000, 114 Stat. 2763, 2763A–604, added items for subparts C and D and struck out former item for subpart C “General provisions”.
+2000—Pub. L. 106–554, § 1(a)(7) [title I, § 116(b)(6)], Dec. 21, 2000, 114 Stat. 2763, 2763A–604, added items for subparts C and D and struck out former item for subpart C “General provisions”.
 
 ### Subpart A—Empowerment Zone Employment Credit
 
-#### § 1396. Empowerment zone employment credit
+#### § 1396. Empowerment zone employment credit
 
 **(a) Amount of credit**
 
@@ -789,7 +789,7 @@ exceeds $500,000.
 
 **(ii)** by reason of a mere change in the form of conducting the trade or business of the taxpayer if the employee continues to be employed in such trade or business and the taxpayer retains a substantial interest in such trade or business.
 
-(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 549; amended Pub. L. 104–188, title I, § 1201(e)(4), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–34, title IX, §§ 951(b), 952(b), Aug. 5, 1997, 111 Stat. 885, 887; Pub. L. 106–554, § 1(a)(7) [title I, § 113(a), (b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–601.)
+(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 549; amended Pub. L. 104–188, title I, § 1201(e)(4), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–34, title IX, §§ 951(b), 952(b), Aug. 5, 1997, 111 Stat. 885, 887; Pub. L. 106–554, § 1(a)(7) [title I, § 113(a), (b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–601.)
 
 **Editorial Notes**
 
@@ -799,13 +799,13 @@ The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is Pub. L. 105�
 
 **Prior Provisions**
 
-A prior section 1396, added Pub. L. 95–600, title VI, § 601(a), Nov. 6, 1978, 92 Stat. 2895; amended Pub. L. 96–595, § 3(a)(6), (9), (10), Dec. 24, 1980, 94 Stat. 3465, related to minimum distributions by an electing general stock ownership corporation, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
+A prior section 1396, added Pub. L. 95–600, title VI, § 601(a), Nov. 6, 1978, 92 Stat. 2895; amended Pub. L. 96–595, § 3(a)(6), (9), (10), Dec. 24, 1980, 94 Stat. 3465, related to minimum distributions by an electing general stock ownership corporation, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
 
 **Amendments**
 
-2000—Subsec. (b). Pub. L. 106–554, § 1(a)(7) [title I, § 113(a)], amended subsec. (b) generally, substituting provisions establishing an applicable percentage of 20 percent for provisions setting out tables for determining the applicable percentage.
+2000—Subsec. (b). Pub. L. 106–554, § 1(a)(7) [title I, § 113(a)], amended subsec. (b) generally, substituting provisions establishing an applicable percentage of 20 percent for provisions setting out tables for determining the applicable percentage.
 
-Subsec. (e). Pub. L. 106–554, § 1(a)(7) [title I, § 113(b)], struck out heading and text of subsec. (e). Text read as follows: “This section shall be applied without regard to any empowerment zone designated under section 1391(g).”
+Subsec. (e). Pub. L. 106–554, § 1(a)(7) [title I, § 113(b)], struck out heading and text of subsec. (e). Text read as follows: “This section shall be applied without regard to any empowerment zone designated under section 1391(g).”
 
 1997—Subsec. (b). Pub. L. 105–34 substituted “For purposes of this section—
 
@@ -813,7 +813,7 @@ Subsec. (e). Pub. L. 106–554, § 1(a)(7) [title I, § 113(b)], struck out 
 
 for “For purposes of this section, the term ‘applicable percentage’ means the percentage determined in accordance with the following table:” and added par. (2).
 
-Subsec. (e). Pub. L. 105–34, § 952(b), added subsec. (e).
+Subsec. (e). Pub. L. 105–34, § 952(b), added subsec. (e).
 
 1996—Subsec. (c)(3). Pub. L. 104–188 substituted “work opportunity credit” for “targeted jobs credit” in heading.
 
@@ -821,7 +821,7 @@ Subsec. (e). Pub. L. 105–34, § 952(b), added subsec. (e).
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–554, § 1(a)(7) [title I, § 113(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, provided that: “The amendments made by this section [amending this section and section 1400 of this title] shall apply to wages paid or incurred after December 31, 2001.”
+Pub. L. 106–554, § 1(a)(7) [title I, § 113(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, provided that: “The amendments made by this section [amending this section and section 1400 of this title] shall apply to wages paid or incurred after December 31, 2001.”
 
 **Effective Date of 1997 Amendment**
 
@@ -831,7 +831,7 @@ Amendment by section 951(b) of Pub. L. 105–34 effective Aug. 5, 1997, except t
 
 Amendment by Pub. L. 104–188 applicable to individuals who begin work for the employer after Sept. 30, 1996, see section 1201(g) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
-#### § 1397. Other definitions and special rules
+#### § 1397. Other definitions and special rules
 
 **(a) Wages** For purposes of this subpart—
 
@@ -861,17 +861,17 @@ A person is related to any other person if the person bears a relationship to su
 
 For purposes of this subpart, rules similar to the rules of section 51(k) and subsections (c), (d), and (e) of section 52 shall apply.
 
-(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 551.)
+(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 551.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1397, added Pub. L. 95–600, title VI, § 601(a), Nov. 6, 1978, 92 Stat. 2895, related to special rules applicable to an electing general stock ownership corporation, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
+A prior section 1397, added Pub. L. 95–600, title VI, § 601(a), Nov. 6, 1978, 92 Stat. 2895, related to special rules applicable to an electing general stock ownership corporation, prior to repeal by Pub. L. 99–514, title XIII, § 1303(a), Oct. 22, 1986, 100 Stat. 2658.
 
 ### Subpart B—Additional Expensing
 
-#### § 1397A. Increase in expensing under section 179
+#### § 1397A. Increase in expensing under section 179
 
 **(a) General rule** In the case of an enterprise zone business, for purposes of section 179—
 
@@ -891,7 +891,7 @@ Rules similar to the rules under section 179(d)(10) shall apply with respect to 
 
 This section shall not apply to any property placed in service in taxable years beginning after December 31, 2020.
 
-(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 552; amended Pub. L. 105–34, title IX, § 952(c), Aug. 5, 1997, 111 Stat. 887; Pub. L. 106–554, § 1(a)(7) [title I, § 114(a), (b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–601; Pub. L. 116–260, div. EE, title I, § 118(b), Dec. 27, 2020, 134 Stat. 3051.)
+(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 552; amended Pub. L. 105–34, title IX, § 952(c), Aug. 5, 1997, 111 Stat. 887; Pub. L. 106–554, § 1(a)(7) [title I, § 114(a), (b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–601; Pub. L. 116–260, div. EE, title I, § 118(b), Dec. 27, 2020, 134 Stat. 3051.)
 
 **Editorial Notes**
 
@@ -899,9 +899,9 @@ This section shall not apply to any property placed in service in taxable years 
 
 2020—Subsec. (c). Pub. L. 116–260 added subsec. (c).
 
-2000—Subsec. (a)(1)(A). Pub. L. 106–554, § 1(a)(7) [title I, § 114(a)], substituted “$35,000” for “$20,000”.
+2000—Subsec. (a)(1)(A). Pub. L. 106–554, § 1(a)(7) [title I, § 114(a)], substituted “$35,000” for “$20,000”.
 
-Subsec. (c). Pub. L. 106–554, § 1(a)(7) [title I, § 114(b)], struck out heading and text of subsec. (c). Text read as follows: “For purposes of this section, qualified zone property shall not include any property substantially all of the use of which is in any parcel described in section 1391(g)(3)(A)(iii).”
+Subsec. (c). Pub. L. 106–554, § 1(a)(7) [title I, § 114(b)], struck out heading and text of subsec. (c). Text read as follows: “For purposes of this section, qualified zone property shall not include any property substantially all of the use of which is in any parcel described in section 1391(g)(3)(A)(iii).”
 
 1997—Subsec. (c). Pub. L. 105–34 added subsec. (c).
 
@@ -913,7 +913,7 @@ Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–554, § 1(a)(7) [title I, § 114(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2001.”
+Pub. L. 106–554, § 1(a)(7) [title I, § 114(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2001.”
 
 ### Subpart C—Nonrecognition of Gain on Rollover of Empowerment Zone Investments
 
@@ -921,9 +921,9 @@ Pub. L. 106–554, § 1(a)(7) [title I, § 114(c)], Dec. 21, 2000, 114 Stat.
 
 **Amendments**
 
-2000—Pub. L. 106–554, § 1(a)(7) [title I, § 116(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–602, added subpart C heading and item 1397B. Former subpart C, consisting of sections 1397B and 1397C, redesignated D.
+2000—Pub. L. 106–554, § 1(a)(7) [title I, § 116(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–602, added subpart C heading and item 1397B. Former subpart C, consisting of sections 1397B and 1397C, redesignated D.
 
-#### § 1397B. Nonrecognition of gain on rollover of empowerment zone investments
+#### § 1397B. Nonrecognition of gain on rollover of empowerment zone investments
 
 **(a) Nonrecognition of gain** In the case of any sale of a qualified empowerment zone asset held by the taxpayer for more than 1 year and with respect to which such taxpayer elects the application of this section, gain from such sale shall be recognized only to the extent that the amount realized on such sale exceeds—
 
@@ -935,11 +935,11 @@ Pub. L. 106–554, § 1(a)(7) [title I, § 114(c)], Dec. 21, 2000, 114 Stat.
 
 **(1) Qualified empowerment zone asset**
 
-**(A) In general** The term “qualified empowerment zone asset” means any property which would be a qualified community asset (as defined in section 1400F) 1
+**(A) In general** The term “qualified empowerment zone asset” means any property which would be a qualified community asset (as defined in section 1400F) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-if in section 1400F 1—
+if in section 1400F 1—
 
 **(i)** references to empowerment zones were substituted for references to renewal communities,
 
@@ -975,7 +975,7 @@ For purposes of determining whether the nonrecognition of gain under subsection 
 
 This section shall not apply to sales in taxable years beginning after December 31, 2020.
 
-(Added Pub. L. 106–554, § 1(a)(7) [title I, § 116(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–602; amended Pub. L. 113–295, div. A, title II, § 206(c), Dec. 19, 2014, 128 Stat. 4027; Pub. L. 115–141, div. U, title IV, § 401(d)(4)(B)(vii), (5)(B)(iv), (v), Mar. 23, 2018, 132 Stat. 1209, 1210; Pub. L. 116–260, div. EE, title I, § 118(c), Dec. 27, 2020, 134 Stat. 3051.)
+(Added Pub. L. 106–554, § 1(a)(7) [title I, § 116(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–602; amended Pub. L. 113–295, div. A, title II, § 206(c), Dec. 19, 2014, 128 Stat. 4027; Pub. L. 115–141, div. U, title IV, § 401(d)(4)(B)(vii), (5)(B)(iv), (v), Mar. 23, 2018, 132 Stat. 1209, 1210; Pub. L. 116–260, div. EE, title I, § 118(c), Dec. 27, 2020, 134 Stat. 3051.)
 
 **Editorial Notes**
 
@@ -983,7 +983,7 @@ This section shall not apply to sales in taxable years beginning after December 
 
 The date of the enactment of this paragraph, referred to in subsec. (b)(1)(A)(iii), is the date of enactment of Pub. L. 106–554, which was approved Dec. 21, 2000.
 
-Section 1400F, referred to in subsec. (b)(1), was repealed by Pub. L. 115–141, div. U, title IV, § 401(d)(5)(A), Mar. 23, 2018, 132 Stat. 1210.
+Section 1400F, referred to in subsec. (b)(1), was repealed by Pub. L. 115–141, div. U, title IV, § 401(d)(5)(A), Mar. 23, 2018, 132 Stat. 1210.
 
 **Prior Provisions**
 
@@ -993,11 +993,11 @@ A prior section 1397B was renumbered section 1397C of this title.
 
 2020—Subsec. (c). Pub. L. 116–260 added subsec. (c).
 
-2018—Subsec. (b)(1)(B). Pub. L. 115–141, § 401(d)(5)(B)(iv), added subpar. (B).
+2018—Subsec. (b)(1)(B). Pub. L. 115–141, § 401(d)(5)(B)(iv), added subpar. (B).
 
-Pub. L. 115–141, § 401(d)(4)(B)(vii), struck out subpar. (B). Text read as follows: “The District of Columbia Enterprise Zone shall not be treated as an empowerment zone for purposes of this section.”
+Pub. L. 115–141, § 401(d)(4)(B)(vii), struck out subpar. (B). Text read as follows: “The District of Columbia Enterprise Zone shall not be treated as an empowerment zone for purposes of this section.”
 
-Subsec. (b)(5). Pub. L. 115–141, § 401(d)(5)(B)(v), substituted “which is sold, the taxpayer’s holding period for such asset and the asset referred to in subsection (a)(1) shall be determined without regard to section 1223.” for “which is sold—
+Subsec. (b)(5). Pub. L. 115–141, § 401(d)(5)(B)(v), substituted “which is sold, the taxpayer’s holding period for such asset and the asset referred to in subsection (a)(1) shall be determined without regard to section 1223.” for “which is sold—
 
 “(A) the taxpayer’s holding period for such asset and the asset referred to in subsection (a)(1) shall be determined without regard to section 1223, and
 
@@ -1017,7 +1017,7 @@ Amendment by Pub. L. 113–295 effective as if included in the provisions of the
 
 **Effective Date**
 
-Section applicable to qualified empowerment zone assets acquired after Dec. 21, 2000, see section 1(a)(7) [title I, § 116(c)] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note under section 1016 of this title.
+Section applicable to qualified empowerment zone assets acquired after Dec. 21, 2000, see section 1(a)(7) [title I, § 116(c)] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note under section 1016 of this title.
 
 **Savings Provision**
 
@@ -1033,9 +1033,9 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 **Amendments**
 
-2000—Pub. L. 106–554, § 1(a)(7) [title I, § 116(a)(1), (b)(7)], Dec. 21, 2000, 114 Stat. 2763, 2763A–602, 2763A–604, redesignated subpart C of this part as this subpart and items for sections 1397B and 1397C as 1397C and 1397D, respectively.
+2000—Pub. L. 106–554, § 1(a)(7) [title I, § 116(a)(1), (b)(7)], Dec. 21, 2000, 114 Stat. 2763, 2763A–602, 2763A–604, redesignated subpart C of this part as this subpart and items for sections 1397B and 1397C as 1397C and 1397D, respectively.
 
-#### § 1397C. Enterprise zone business defined
+#### § 1397C. Enterprise zone business defined
 
 **(a) In general** For purposes of this part, the term “enterprise zone business” means—
 
@@ -1133,7 +1133,7 @@ For purposes of subparagraph (B), rules similar to the rules of section 1397(b) 
 
 then all the services performed by employees, all business activities, all tangible property, and all intangible property of the business entity or proprietorship that occur in or is located on the real property described in paragraphs (1) and (2) shall be treated as occurring or situated in an empowerment zone.
 
-(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 552, § 1397B; amended Pub. L. 104–188, title I, § 1703(m), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title IX, § 956(a), Aug. 5, 1997, 111 Stat. 890; Pub. L. 106–170, title V, § 532(c)(4), Dec. 17, 1999, 113 Stat. 1931; renumbered § 1397C, Pub. L. 106–554, § 1(a)(7) [title I, § 116(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–602; Pub. L. 115–141, div. U, title IV, § 401(a)(196), Mar. 23, 2018, 132 Stat. 1193.)
+(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 552, § 1397B; amended Pub. L. 104–188, title I, § 1703(m), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title IX, § 956(a), Aug. 5, 1997, 111 Stat. 890; Pub. L. 106–170, title V, § 532(c)(4), Dec. 17, 1999, 113 Stat. 1931; renumbered § 1397C, Pub. L. 106–554, § 1(a)(7) [title I, § 116(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–602; Pub. L. 115–141, div. U, title IV, § 401(a)(196), Mar. 23, 2018, 132 Stat. 1193.)
 
 **Editorial Notes**
 
@@ -1149,27 +1149,27 @@ A prior section 1397C was renumbered section 1397D of this title.
 
 1999—Subsec. (e)(2). Pub. L. 106–170 substituted “section 1221(a)(4)” for “section 1221(4)”.
 
-1997—Subsec. (b)(2). Pub. L. 105–34, § 956(a)(1), substituted “50 percent” for “80 percent”.
+1997—Subsec. (b)(2). Pub. L. 105–34, § 956(a)(1), substituted “50 percent” for “80 percent”.
 
-Subsec. (b)(3). Pub. L. 105–34, § 956(a)(2), substituted “a substantial portion” for “substantially all”.
+Subsec. (b)(3). Pub. L. 105–34, § 956(a)(2), substituted “a substantial portion” for “substantially all”.
 
-Subsec. (b)(4). Pub. L. 105–34, § 956(a)(2), (3), substituted “a substantial portion” for “substantially all” and struck out “, and exclusively related to,” after “entity is used in”.
+Subsec. (b)(4). Pub. L. 105–34, § 956(a)(2), (3), substituted “a substantial portion” for “substantially all” and struck out “, and exclusively related to,” after “entity is used in”.
 
-Subsec. (b)(5). Pub. L. 105–34, § 956(a)(2), substituted “a substantial portion” for “substantially all”.
+Subsec. (b)(5). Pub. L. 105–34, § 956(a)(2), substituted “a substantial portion” for “substantially all”.
 
-Subsec. (c)(1). Pub. L. 105–34, § 956(a)(1), substituted “50 percent” for “80 percent”.
+Subsec. (c)(1). Pub. L. 105–34, § 956(a)(1), substituted “50 percent” for “80 percent”.
 
-Subsec. (c)(2). Pub. L. 105–34, § 956(a)(2), substituted “a substantial portion” for “substantially all”.
+Subsec. (c)(2). Pub. L. 105–34, § 956(a)(2), substituted “a substantial portion” for “substantially all”.
 
-Subsec. (c)(3). Pub. L. 105–34, § 956(a)(2), (3), substituted “a substantial portion” for “substantially all” and struck out “, and exclusively related to,” after “business is used in”.
+Subsec. (c)(3). Pub. L. 105–34, § 956(a)(2), (3), substituted “a substantial portion” for “substantially all” and struck out “, and exclusively related to,” after “business is used in”.
 
-Subsec. (c)(4). Pub. L. 105–34, § 956(a)(2), substituted “a substantial portion” for “substantially all”.
+Subsec. (c)(4). Pub. L. 105–34, § 956(a)(2), substituted “a substantial portion” for “substantially all”.
 
-Subsec. (d)(2). Pub. L. 105–34, § 956(a)(4), inserted concluding provisions.
+Subsec. (d)(2). Pub. L. 105–34, § 956(a)(4), inserted concluding provisions.
 
-Subsec. (d)(3). Pub. L. 105–34, § 956(a)(5), substituted “at least 50 percent” for “substantially all”.
+Subsec. (d)(3). Pub. L. 105–34, § 956(a)(5), substituted “at least 50 percent” for “substantially all”.
 
-Subsec. (f). Pub. L. 105–34, § 956(a)(6), added subsec. (f).
+Subsec. (f). Pub. L. 105–34, § 956(a)(6), added subsec. (f).
 
 1996—Subsec. (d)(5)(B). Pub. L. 104–188 struck out “preceding” before “taxable year” in introductory provisions.
 
@@ -1181,7 +1181,7 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title IX, § 956(b), Aug. 5, 1997, 111 Stat. 891, provided that:
+Pub. L. 105–34, title IX, § 956(b), Aug. 5, 1997, 111 Stat. 891, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section] shall apply to taxable years beginning on or after the date of the enactment of this Act [Aug. 5, 1997].
 
@@ -1189,9 +1189,9 @@ Pub. L. 105–34, title IX, § 956(b), Aug. 5, 1997, 111 Stat. 891, provided t
 
 **Effective Date of 1996 Amendment**
 
-Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§ 13001–13444, to which such amendment relates, see section 1703(*o*) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§ 13001–13444, to which such amendment relates, see section 1703(*o*) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
-#### § 1397D. Qualified zone property defined
+#### § 1397D. Qualified zone property defined
 
 **(a) General rule** For purposes of this part—
 
@@ -1211,7 +1211,7 @@ In the case of any property which is substantially renovated by the taxpayer, th
 
 For purposes of subsection (a)(1)(B), if property is sold and leased back by the taxpayer within 3 months after the date such property was originally placed in service, such property shall be treated as originally placed in service not earlier than the date on which such property is used under the leaseback.
 
-(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 554, § 1397C; renumbered § 1397D, Pub. L. 106–554, § 1(a)(7) [title I, § 116(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–602.)
+(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 554, § 1397C; renumbered § 1397D, Pub. L. 106–554, § 1(a)(7) [title I, § 116(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–602.)
 
 **Editorial Notes**
 
@@ -1229,13 +1229,13 @@ A prior section 1397D was renumbered section 1397F of this title.
 
 **Amendments**
 
-2017—Pub. L. 115–97, title I, § 13404(c)(1), Dec. 22, 2017, 131 Stat. 2138, struck out item 1397E “Credit to holders of qualified zone academy bonds”.
+2017—Pub. L. 115–97, title I, § 13404(c)(1), Dec. 22, 2017, 131 Stat. 2138, struck out item 1397E “Credit to holders of qualified zone academy bonds”.
 
-1997—Pub. L. 105–34, title II, § 226(a), Aug. 5, 1997, 111 Stat. 820, added part IV heading and item 1397E. Former part IV, consisting of section 1397D, redesignated V.
+1997—Pub. L. 105–34, title II, § 226(a), Aug. 5, 1997, 111 Stat. 820, added part IV heading and item 1397E. Former part IV, consisting of section 1397D, redesignated V.
 
-### [§ 1397E. Repealed. Pub. L. 115–97, title I, § 13404(c)(1), Dec. 22, 2017, 131 Stat. 2138]
+### [§ 1397E. Repealed. Pub. L. 115–97, title I, § 13404(c)(1), Dec. 22, 2017, 131 Stat. 2138]
 
-Section, added Pub. L. 105–34, title II, § 226(a), Aug. 5, 1997, 111 Stat. 821; amended Pub. L. 105–206, title VI, § 6004(g)(2)–(4), July 22, 1998, 112 Stat. 796; Pub. L. 106–78, title VII, § 752(b)(11), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–170, title V, § 509, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 107–110, title X, § 1076(t), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 107–147, title VI, § 608(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, § 304(a), title IV, § 406(c), Oct. 4, 2004, 118 Stat. 1179, 1189; Pub. L. 109–58, title XIII, § 1303(c)(2), (3), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–432, div. A, title I, § 107(a), (b)(1), Dec. 20, 2006, 120 Stat. 2938; Pub. L. 110–234, title XV, § 15316(c)(2), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, § 4(a), title XV, § 15316(c)(2), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–343, div. C, title III, § 313(b)(3), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–5, div. B, title I, § 1531(c)(3), Feb. 17, 2009, 123 Stat. 360; Pub. L. 114–95, title IX, § 9215(uu)(3), Dec. 10, 2015, 129 Stat. 2183, related to credit to holders of qualified zone academy bonds.
+Section, added Pub. L. 105–34, title II, § 226(a), Aug. 5, 1997, 111 Stat. 821; amended Pub. L. 105–206, title VI, § 6004(g)(2)–(4), July 22, 1998, 112 Stat. 796; Pub. L. 106–78, title VII, § 752(b)(11), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–170, title V, § 509, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 107–110, title X, § 1076(t), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 107–147, title VI, § 608(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, § 304(a), title IV, § 406(c), Oct. 4, 2004, 118 Stat. 1179, 1189; Pub. L. 109–58, title XIII, § 1303(c)(2), (3), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–432, div. A, title I, § 107(a), (b)(1), Dec. 20, 2006, 120 Stat. 2938; Pub. L. 110–234, title XV, § 15316(c)(2), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, § 4(a), title XV, § 15316(c)(2), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–343, div. C, title III, § 313(b)(3), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–5, div. B, title I, § 1531(c)(3), Feb. 17, 2009, 123 Stat. 360; Pub. L. 114–95, title IX, § 9215(uu)(3), Dec. 10, 2015, 129 Stat. 2183, related to credit to holders of qualified zone academy bonds.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1249,9 +1249,9 @@ Repeal applicable to bonds issued after Dec. 31, 2017, see section 13404(d) of P
 
 **Amendments**
 
-1997—Pub. L. 105–34, title II, § 226(a), (b)(2), Aug. 5, 1997, 111 Stat. 820, 824, redesignated part IV of this subchapter as this part and item 1397D as 1397F.
+1997—Pub. L. 105–34, title II, § 226(a), (b)(2), Aug. 5, 1997, 111 Stat. 820, 824, redesignated part IV of this subchapter as this part and item 1397D as 1397F.
 
-### § 1397F. Regulations
+### § 1397F. Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of parts II and III, including—
 
@@ -1261,12 +1261,12 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 **(3)** regulations dealing with inadvertent failures of entities to be enterprise zone businesses.
 
-(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 555, § 1397D; renumbered § 1397F, Pub. L. 105–34, title II, § 226(a), Aug. 5, 1997, 111 Stat. 820; amended Pub. L. 105–206, title VI, § 6004(g)(1), July 22, 1998, 112 Stat. 796.)
+(Added Pub. L. 103–66, title XIII, § 13301(a), Aug. 10, 1993, 107 Stat. 555, § 1397D; renumbered § 1397F, Pub. L. 105–34, title II, § 226(a), Aug. 5, 1997, 111 Stat. 820; amended Pub. L. 105–206, title VI, § 6004(g)(1), July 22, 1998, 112 Stat. 796.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Pub. L. 105–206 amended directory language of Pub. L. 105–34, § 226(a). See 1997 Amendment note below.
+1998—Pub. L. 105–206 amended directory language of Pub. L. 105–34, § 226(a). See 1997 Amendment note below.
 
-1997—Pub. L. 105–34, § 226(a), as amended by Pub. L. 105–206, renumbered section 1397D of this title as this section.
+1997—Pub. L. 105–34, § 226(a), as amended by Pub. L. 105–206, renumbered section 1397D of this title as this section.

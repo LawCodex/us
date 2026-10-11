@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 95—IRAN FREEDOM AND COUNTERPROLIFERATION
 
-## § 8801. Definitions
+## § 8801. Definitions
 
 **(a) In general** In this chapter:
 
@@ -43,9 +43,9 @@ The term “foreign financial institution” has the meaning of that term as det
 
 **(6) Good**
 
-The term “good” has the meaning given that term in section 4618 1
+The term “good” has the meaning given that term in section 4618 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
@@ -87,29 +87,29 @@ The term “vessel” has the meaning given that term in section 3 of title 1.
 
 For purposes of this chapter, in determining if financial transactions or financial services are significant, the President may consider the totality of the facts and circumstances, including factors similar to the factors set forth in section 561.404 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
 
-(Pub. L. 112–239, div. A, title XII, § 1242, Jan. 2, 2013, 126 Stat. 2004.)
+(Pub. L. 112–239, div. A, title XII, § 1242, Jan. 2, 2013, 126 Stat. 2004.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle D (§§ 1241–1255) of title XII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2004, known as the Iran Freedom and Counter-Proliferation Act of 2012, which is classified principally to this chapter. For complete classification of subtitle D to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle D (§§ 1241–1255) of title XII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2004, known as the Iran Freedom and Counter-Proliferation Act of 2012, which is classified principally to this chapter. For complete classification of subtitle D to the Code, see Short Title note set out below and Tables.
 
-Section 4618 of title 50, referred to in subsec. (a)(6), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4618 of title 50, referred to in subsec. (a)(6), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
-The International Emergency Economic Powers Act, referred to in subsec. (a)(6), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (a)(6), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 112–239, div. A, title XII, § 1241, Jan. 2, 2013, 126 Stat. 2004, provided that: “This subtitle [subtitle D (§§ 1241–1255) of title XII of div. A of Pub. L. 112–239, enacting this chapter and section 8514c of this title, amending sections 8513a and 8551 of this title and section 2335 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 2333 and 2335 of Title 18] may be cited as the ‘Iran Freedom and Counter-Proliferation Act of 2012’.”
+Pub. L. 112–239, div. A, title XII, § 1241, Jan. 2, 2013, 126 Stat. 2004, provided that: “This subtitle [subtitle D (§§ 1241–1255) of title XII of div. A of Pub. L. 112–239, enacting this chapter and section 8514c of this title, amending sections 8513a and 8551 of this title and section 2335 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 2333 and 2335 of Title 18] may be cited as the ‘Iran Freedom and Counter-Proliferation Act of 2012’.”
 
 **Executive Documents**
 
 **Executive Order No. 13716**
 
-Ex. Ord. No. 13716, Jan. 16, 2016, 81 F.R. 3693, which provided implementation authorities for aspects of certain statutory sanctions relating to Iran outside the scope of U.S. commitments under the Joint Comprehensive Plan of Action of July 14, 2015, was revoked by Ex. Ord. No. 13846, § 9(b), Aug. 6, 2018, 83 F.R. 38945, listed in a table under section 1701 of Title 50, War and National Defense.
+Ex. Ord. No. 13716, Jan. 16, 2016, 81 F.R. 3693, which provided implementation authorities for aspects of certain statutory sanctions relating to Iran outside the scope of U.S. commitments under the Joint Comprehensive Plan of Action of July 14, 2015, was revoked by Ex. Ord. No. 13846, § 9(b), Aug. 6, 2018, 83 F.R. 38945, listed in a table under section 1701 of Title 50, War and National Defense.
 
 **Delegation of Certain Functions and Authorities Under the Iran Freedom and Counter-Proliferation Act of 2012**
 
@@ -121,73 +121,73 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 I hereby delegate functions and authorities vested in the President by the Iran Freedom and Counter-Proliferation Act of 2012 (subtitle D of title XII of [division A of] Public Law 112–239) (22 U.S.C. 8801 et seq.) (IFCA), as follows:
 
-• Section 1244(c)(1) and (c)(2) [22 U.S.C. 8803(c)(1), (c)(2)] to the Secretary of the Treasury, in consultation with the Secretary of State;
+• Section 1244(c)(1) and (c)(2) [22 U.S.C. 8803(c)(1), (c)(2)] to the Secretary of the Treasury, in consultation with the Secretary of State;
 
-• Section 1244(d)(1)(A) to the Secretary of State, in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of the Iran Sanctions Act of 1996 (Public Law 104–172) (50 U.S.C. 1701 note), as amended (ISA), are selected pursuant to section 1244(d)(1)(A), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
+• Section 1244(d)(1)(A) to the Secretary of State, in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of the Iran Sanctions Act of 1996 (Public Law 104–172) (50 U.S.C. 1701 note), as amended (ISA), are selected pursuant to section 1244(d)(1)(A), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
 
-• Section 1244(d)(2) to the Secretary of the Treasury, in consultation with the Secretary of State;
+• Section 1244(d)(2) to the Secretary of the Treasury, in consultation with the Secretary of State;
 
-• Section 1244(f) to the Secretary of State, in consultation with the Secretary of the Treasury;
+• Section 1244(f) to the Secretary of State, in consultation with the Secretary of the Treasury;
 
-• Section 1244(i) to the Secretary of State, in consultation with the Secretary of the Treasury;
+• Section 1244(i) to the Secretary of State, in consultation with the Secretary of the Treasury;
 
-• Section 1245(a)(1)(A) [22 U.S.C. 8804(a)(1)(A)] to the Secretary of the Treasury, in consultation with the Secretaries of State and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1245(a)(1)(A), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
+• Section 1245(a)(1)(A) [22 U.S.C. 8804(a)(1)(A)] to the Secretary of the Treasury, in consultation with the Secretaries of State and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1245(a)(1)(A), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
 
-• Sections [sic] 1245(a)(1)(B) and (C) to the Secretary of State, in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1245(a)(1)(B) or (C), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
+• Sections [sic] 1245(a)(1)(B) and (C) to the Secretary of State, in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1245(a)(1)(B) or (C), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
 
-• Section 1245(c) to the Secretary of the Treasury, in consultation with the Secretary of State;
+• Section 1245(c) to the Secretary of the Treasury, in consultation with the Secretary of State;
 
-• Section 1245(e) to the Secretary of State, in consultation with the Secretary of the Treasury;
+• Section 1245(e) to the Secretary of State, in consultation with the Secretary of the Treasury;
 
-• Section 1245(f) to the Secretary of State and the Secretary of the Treasury commensurate with their respective areas of responsibility, in consultation with each other;
+• Section 1245(f) to the Secretary of State and the Secretary of the Treasury commensurate with their respective areas of responsibility, in consultation with each other;
 
-• Section 1245(g) to the Secretary of State, in consultation with the Secretary of the Treasury;
+• Section 1245(g) to the Secretary of State, in consultation with the Secretary of the Treasury;
 
-• Section 1246(a)(1)(A) [22 U.S.C. 8805(a)(1)(A)] to the Secretary of State and the Secretary of the Treasury commensurate with their respective areas of responsibility, in consultation with each other, the Secretary of Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1246(a)(1)(A), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
+• Section 1246(a)(1)(A) [22 U.S.C. 8805(a)(1)(A)] to the Secretary of State and the Secretary of the Treasury commensurate with their respective areas of responsibility, in consultation with each other, the Secretary of Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1246(a)(1)(A), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
 
-• Sections [sic] 1246(a)(1)(B)(i) and (ii) to the Secretary of State, in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1246(a)(1)(B)(i) or (ii), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
+• Sections [sic] 1246(a)(1)(B)(i) and (ii) to the Secretary of State, in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1246(a)(1)(B)(i) or (ii), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
 
-• Section 1246(a)(1)(B)(iii) to the Secretary of State and the Secretary of the Treasury commensurate with their respective areas of responsibility, in consultation with each other, the Secretary of Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1246(a)(1)(B)(iii), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
+• Section 1246(a)(1)(B)(iii) to the Secretary of State and the Secretary of the Treasury commensurate with their respective areas of responsibility, in consultation with each other, the Secretary of Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1246(a)(1)(B)(iii), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
 
-• Section 1246(a)(1)(C) to the Secretary of the Treasury, in consultation with the Secretaries of State and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1246(a)(1)(C), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
+• Section 1246(a)(1)(C) to the Secretary of the Treasury, in consultation with the Secretaries of State and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1246(a)(1)(C), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
 
-• Section 1246(d) to the Secretary of State and the Secretary of the Treasury commensurate with their respective areas of responsibility, in consultation with each other;
+• Section 1246(d) to the Secretary of State and the Secretary of the Treasury commensurate with their respective areas of responsibility, in consultation with each other;
 
-• Section 1246(e) to the Secretary of State, in consultation with the Secretary of the Treasury;
+• Section 1246(e) to the Secretary of State, in consultation with the Secretary of the Treasury;
 
-• Section 1247(a) [22 U.S.C. 8806(a)] to the Secretary of the Treasury, in consultation with the Secretary of State;
+• Section 1247(a) [22 U.S.C. 8806(a)] to the Secretary of the Treasury, in consultation with the Secretary of State;
 
-• Section 1247(f) to the Secretary of State, in consultation with the Secretary of the Treasury;
+• Section 1247(f) to the Secretary of State, in consultation with the Secretary of the Treasury;
 
-• Section 1248(b)(1) [22 U.S.C. 8807(b)(1)] to the Secretary of the Treasury, in consultation with the Secretary of State, with respect to the requirement to impose applicable sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA) described in section 105(c) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (Public Law 111–195) (22 U.S.C. 8501 et seq.) (CISADA), and with respect to the requirement to include the sanctioned persons on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury;
+• Section 1248(b)(1) [22 U.S.C. 8807(b)(1)] to the Secretary of the Treasury, in consultation with the Secretary of State, with respect to the requirement to impose applicable sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA) described in section 105(c) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (Public Law 111–195) (22 U.S.C. 8501 et seq.) (CISADA), and with respect to the requirement to include the sanctioned persons on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury;
 
-• Section 1248(b)(1) to the Secretary of State, with respect to the requirement to impose visa sanctions described in section 105(c) of CISADA;
+• Section 1248(b)(1) to the Secretary of State, with respect to the requirement to impose visa sanctions described in section 105(c) of CISADA;
 
-• Section 1248(b)(3) to the Secretary of the Treasury, in consultation with the Secretary of State, with respect to application of section 401(b) of CISADA to IEEPA sanctions imposed under section 1248(b)(1)(A) of IFCA;
+• Section 1248(b)(3) to the Secretary of the Treasury, in consultation with the Secretary of State, with respect to application of section 401(b) of CISADA to IEEPA sanctions imposed under section 1248(b)(1)(A) of IFCA;
 
-• Section 1248(b)(3) to the Secretary of State, in consultation with the Secretary of Homeland Security on matters related to admissibility or inadmissibility within the authority of the Secretary of Homeland Security, with respect to application of section 401(b) of CISADA to visa sanctions imposed under section 1248(b)(1)(A) of IFCA;
+• Section 1248(b)(3) to the Secretary of State, in consultation with the Secretary of Homeland Security on matters related to admissibility or inadmissibility within the authority of the Secretary of Homeland Security, with respect to application of section 401(b) of CISADA to visa sanctions imposed under section 1248(b)(1)(A) of IFCA;
 
-• Section 1252(a) [22 U.S.C. 8808(a)] to the Director of National Intelligence, in consultation with the Secretaries of State and the Treasury;
+• Section 1252(a) [22 U.S.C. 8808(a)] to the Director of National Intelligence, in consultation with the Secretaries of State and the Treasury;
 
-• Section 1253(a) [22 U.S.C. 8809(a)] to the Secretary of the Treasury and the Secretary of State, commensurate with their respective areas of responsibility outlined in this memorandum;
+• Section 1253(a) [22 U.S.C. 8809(a)] to the Secretary of the Treasury and the Secretary of State, commensurate with their respective areas of responsibility outlined in this memorandum;
 
-• Section 1253(c)(1) to the Secretary of State, in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate;
+• Section 1253(c)(1) to the Secretary of State, in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate;
 
-• Section 1253(c)(2) to the Secretary of State and the Secretary of the Treasury commensurate with their respective areas of responsibility, in consultation with each other, the Secretary of Commerce, and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1244(d)(1)(A), 1245(a)(1), or 1246(a)(1) (including in each case as informed by section 1253(c)(2)), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA.
+• Section 1253(c)(2) to the Secretary of State and the Secretary of the Treasury commensurate with their respective areas of responsibility, in consultation with each other, the Secretary of Commerce, and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1244(d)(1)(A), 1245(a)(1), or 1246(a)(1) (including in each case as informed by section 1253(c)(2)), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA.
 
 I hereby delegate functions and authorities vested in the President by CISADA, as amended by section 1249 of IFCA, as follows:
 
-• Section 105C(b) [22 U.S.C. 8514c(b)] to the Secretary of the Treasury, in consultation with or at the recommendation of the Secretary of State, with respect to the determinations described in sections [sic] 105C(b)(1);
+• Section 105C(b) [22 U.S.C. 8514c(b)] to the Secretary of the Treasury, in consultation with or at the recommendation of the Secretary of State, with respect to the determinations described in sections [sic] 105C(b)(1);
 
-• Section 105C(b) to the Secretary of State, in consultation with the Secretary of the Treasury, with respect to the requirement to submit any lists of persons determined to meet the criteria described in sections [sic] 105C(b)(1), to the appropriate congressional committees as required by sections [sic] 105C(b);
+• Section 105C(b) to the Secretary of State, in consultation with the Secretary of the Treasury, with respect to the requirement to submit any lists of persons determined to meet the criteria described in sections [sic] 105C(b)(1), to the appropriate congressional committees as required by sections [sic] 105C(b);
 
-• Section 401(b) [22 U.S.C. 8551(b)] to the Secretary of State, in consultation with the Secretary of the Treasury, with respect to the requirement to include a person on the list described in section 105C(b);
+• Section 401(b) [22 U.S.C. 8551(b)] to the Secretary of State, in consultation with the Secretary of the Treasury, with respect to the requirement to include a person on the list described in section 105C(b);
 
-• Sections 105C(a)(1) and 401(b) to the Secretary of the Treasury, in consultation with the Secretary of State, with respect to the requirement to impose or maintain applicable sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA) under section 105C(a)(1);
+• Sections 105C(a)(1) and 401(b) to the Secretary of the Treasury, in consultation with the Secretary of State, with respect to the requirement to impose or maintain applicable sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA) under section 105C(a)(1);
 
-• Section 105C(a)(1) to the Secretary of State, with respect to the requirement to impose or maintain visa sanctions; and
+• Section 105C(a)(1) to the Secretary of State, with respect to the requirement to impose or maintain visa sanctions; and
 
-• Section 401(b) to the Secretary of State, in consultation with the Secretary of Homeland Security on matters related to admissibility or inadmissibility within the authority of the Secretary of Homeland Security, with respect to functions and waiver authorities regarding the requirement to impose or maintain visa sanctions under sections [sic] 105C(a)(1).
+• Section 401(b) to the Secretary of State, in consultation with the Secretary of Homeland Security on matters related to admissibility or inadmissibility within the authority of the Secretary of Homeland Security, with respect to functions and waiver authorities regarding the requirement to impose or maintain visa sanctions under sections [sic] 105C(a)(1).
 
 Any reference in this memorandum to provisions of any Act related to the subject of this memorandum shall be deemed to include references to any hereafter-enacted provisions of law that is the same or substantially the same as such provisions.
 
@@ -195,7 +195,7 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 Barack Obama.
 
-## § 8802. Sense of Congress relating to violations of human rights by Iran
+## § 8802. Sense of Congress relating to violations of human rights by Iran
 
 **(a) Finding**
 
@@ -211,9 +211,9 @@ Congress finds that the interests of the United States and international peace a
 
 **(4)** defeat all attempts by the Government of Iran to jam or otherwise obstruct international satellite broadcast signals.
 
-(Pub. L. 112–239, div. A, title XII, § 1243, Jan. 2, 2013, 126 Stat. 2005.)
+(Pub. L. 112–239, div. A, title XII, § 1243, Jan. 2, 2013, 126 Stat. 2005.)
 
-## § 8803. Imposition of sanctions with respect to the energy, shipping, and shipbuilding sectors of Iran
+## § 8803. Imposition of sanctions with respect to the energy, shipping, and shipbuilding sectors of Iran
 
 **(a) Findings** Congress makes the following findings:
 
@@ -353,7 +353,7 @@ Except as provided in paragraph (2), this section shall not apply to the sale, s
 
 Each report submitted under paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
 
-(Pub. L. 112–239, div. A, title XII, § 1244, Jan. 2, 2013, 126 Stat. 2006.)
+(Pub. L. 112–239, div. A, title XII, § 1244, Jan. 2, 2013, 126 Stat. 2006.)
 
 **Executive Documents**
 
@@ -361,7 +361,7 @@ Each report submitted under paragraph (1)(B) shall be submitted in unclassified 
 
 For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under section 8801 of this title.
 
-## § 8804. Imposition of sanctions with respect to the sale, supply, or transfer of certain materials to or from Iran
+## § 8804. Imposition of sanctions with respect to the sale, supply, or transfer of certain materials to or from Iran
 
 **(a) Sale, supply, or transfer of certain materials**
 
@@ -441,7 +441,7 @@ Each report submitted under paragraph (1)(B) shall be submitted in unclassified 
 
 For purposes of this section, the term “national balance sheet of Iran” refers to the ratio of the assets of the Government of Iran to the liabilities of that Government.
 
-(Pub. L. 112–239, div. A, title XII, § 1245, Jan. 2, 2013, 126 Stat. 2009.)
+(Pub. L. 112–239, div. A, title XII, § 1245, Jan. 2, 2013, 126 Stat. 2009.)
 
 **Executive Documents**
 
@@ -449,7 +449,7 @@ For purposes of this section, the term “national balance sheet of Iran” refe
 
 For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under section 8801 of this title.
 
-## § 8805. Imposition of sanctions with respect to the provision of underwriting services or insurance or reinsurance for activities or persons with respect to which sanctions have been imposed
+## § 8805. Imposition of sanctions with respect to the provision of underwriting services or insurance or reinsurance for activities or persons with respect to which sanctions have been imposed
 
 **(a) Imposition of sanctions**
 
@@ -503,19 +503,19 @@ The President may not impose sanctions under subparagraph (A) or (C) or clause (
 
 Each report submitted under paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
 
-(Pub. L. 112–239, div. A, title XII, § 1246, Jan. 2, 2013, 126 Stat. 2011.)
+(Pub. L. 112–239, div. A, title XII, § 1246, Jan. 2, 2013, 126 Stat. 2011.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (a)(1)(A), (B)(i), (ii), was in the original “this subtitle”, meaning subtitle D (§§ 1241–1255) of title XII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2004, known as the Iran Freedom and Counter-Proliferation Act of 2012, which is classified principally to this chapter. For complete classification of subtitle D to the Code, see Short Title note set out under section 8801 of this title and Tables.
+This chapter, referred to in subsec. (a)(1)(A), (B)(i), (ii), was in the original “this subtitle”, meaning subtitle D (§§ 1241–1255) of title XII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2004, known as the Iran Freedom and Counter-Proliferation Act of 2012, which is classified principally to this chapter. For complete classification of subtitle D to the Code, see Short Title note set out under section 8801 of this title and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (a)(1)(A), (B)(iii), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (a)(1)(A), (B)(iii), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, referred to in subsec. (a)(1)(A), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, which is classified principally to chapter 92 (§ 8501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
+The Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, referred to in subsec. (a)(1)(A), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, which is classified principally to chapter 92 (§ 8501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
 
-The Iran Threat Reduction and Syria Human Rights Act of 2012, referred to in subsec. (a)(1)(A), is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1214, which is classified principally to chapter 94 (§ 8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
+The Iran Threat Reduction and Syria Human Rights Act of 2012, referred to in subsec. (a)(1)(A), is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1214, which is classified principally to chapter 94 (§ 8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
 **Executive Documents**
 
@@ -523,7 +523,7 @@ The Iran Threat Reduction and Syria Human Rights Act of 2012, referred to in sub
 
 For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under section 8801 of this title.
 
-## § 8806. Imposition of sanctions with respect to foreign financial institutions that facilitate financial transactions on behalf of specially designated nationals
+## § 8806. Imposition of sanctions with respect to foreign financial institutions that facilitate financial transactions on behalf of specially designated nationals
 
 **(a) In general**
 
@@ -585,7 +585,7 @@ Subsection (a) shall not apply with respect to a financial transaction described
 
 Each report submitted under paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
 
-(Pub. L. 112–239, div. A, title XII, § 1247, Jan. 2, 2013, 126 Stat. 2013.)
+(Pub. L. 112–239, div. A, title XII, § 1247, Jan. 2, 2013, 126 Stat. 2013.)
 
 **Executive Documents**
 
@@ -593,7 +593,7 @@ Each report submitted under paragraph (1)(B) shall be submitted in unclassified 
 
 For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under section 8801 of this title.
 
-## § 8807. Impositions of sanctions with respect to the Islamic Republic of Iran Broadcasting
+## § 8807. Impositions of sanctions with respect to the Islamic Republic of Iran Broadcasting
 
 **(a) Findings** Congress makes the following findings:
 
@@ -617,7 +617,7 @@ The requirement to impose sanctions under paragraph (1)(A) shall not include the
 
 Sections 8514(d) and 8551(b) of this title shall apply with respect to sanctions imposed under paragraph (1)(A) to the same extent that such sections apply with respect to the imposition of sanctions under section 8514(a) of this title.
 
-(Pub. L. 112–239, div. A, title XII, § 1248, Jan. 2, 2013, 126 Stat. 2015.)
+(Pub. L. 112–239, div. A, title XII, § 1248, Jan. 2, 2013, 126 Stat. 2015.)
 
 **Executive Documents**
 
@@ -625,7 +625,7 @@ Sections 8514(d) and 8551(b) of this title shall apply with respect to sanctions
 
 For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under section 8801 of this title.
 
-## § 8808. Report on use of certain Iranian seaports by foreign vessels and use of foreign airports by sanctioned Iranian air carriers
+## § 8808. Report on use of certain Iranian seaports by foreign vessels and use of foreign airports by sanctioned Iranian air carriers
 
 **(a) In general** Not later than 180 days after January 2, 2013, and annually thereafter through 2016, the President shall submit to the appropriate congressional committees a report that contains—
 
@@ -643,7 +643,7 @@ For delegation of certain functions and authorities vested in the President by t
 
 Each report required by subsection (a) shall be submitted in unclassified form, but may include a classified annex.
 
-(Pub. L. 112–239, div. A, title XII, § 1252, Jan. 2, 2013, 126 Stat. 2017.)
+(Pub. L. 112–239, div. A, title XII, § 1252, Jan. 2, 2013, 126 Stat. 2017.)
 
 **Executive Documents**
 
@@ -651,7 +651,7 @@ Each report required by subsection (a) shall be submitted in unclassified form, 
 
 For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under section 8801 of this title.
 
-## § 8809. Implementation; penalties
+## § 8809. Implementation; penalties
 
 **(a) Implementation**
 
@@ -675,13 +675,13 @@ The penalties provided for in subsections (b) and (c) of section 1705 of title 5
 
 **(6)** Section 13(b).
 
-(Pub. L. 112–239, div. A, title XII, § 1253, Jan. 2, 2013, 126 Stat. 2017.)
+(Pub. L. 112–239, div. A, title XII, § 1253, Jan. 2, 2013, 126 Stat. 2017.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (a) and (b), was in the original “this subtitle”, meaning subtitle D (§§ 1241–1255) of title XII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2004, known as the Iran Freedom and Counter-Proliferation Act of 2012, which is classified principally to this chapter. For complete classification of subtitle D to the Code, see Short Title note set out under section 8801 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original “this subtitle”, meaning subtitle D (§§ 1241–1255) of title XII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2004, known as the Iran Freedom and Counter-Proliferation Act of 2012, which is classified principally to this chapter. For complete classification of subtitle D to the Code, see Short Title note set out under section 8801 of this title and Tables.
 
 **Executive Documents**
 
@@ -689,26 +689,26 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this s
 
 For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under section 8801 of this title.
 
-## § 8810. Applicability to certain natural gas projects
+## § 8810. Applicability to certain natural gas projects
 
 Nothing in this subtitle or the amendments made by this subtitle shall apply with respect to any activity relating to a project described in subsection (a) of section 8783 of this title to which the exception under that section applies at the time of the activity.
 
-(Pub. L. 112–239, div. A, title XII, § 1254, Jan. 2, 2013, 126 Stat. 2018.)
+(Pub. L. 112–239, div. A, title XII, § 1254, Jan. 2, 2013, 126 Stat. 2018.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in text, is subtitle D (§§ 1241–1255) of title XII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2004, known as the Iran Freedom and Counter-Proliferation Act of 2012, which is classified principally to this chapter. For complete classification of subtitle D to the Code, see Short Title note set out under section 8801 of this title and Tables.
+This subtitle, referred to in text, is subtitle D (§§ 1241–1255) of title XII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2004, known as the Iran Freedom and Counter-Proliferation Act of 2012, which is classified principally to this chapter. For complete classification of subtitle D to the Code, see Short Title note set out under section 8801 of this title and Tables.
 
-## § 8811. Rule of construction
+## § 8811. Rule of construction
 
 Nothing in this subtitle or the amendments made by this subtitle shall be construed to limit sanctions imposed with respect to Iran under any other provision of law or to limit the authority of the President to impose additional sanctions with respect to Iran.
 
-(Pub. L. 112–239, div. A, title XII, § 1255, Jan. 2, 2013, 126 Stat. 2018.)
+(Pub. L. 112–239, div. A, title XII, § 1255, Jan. 2, 2013, 126 Stat. 2018.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in text, is subtitle D (§§ 1241–1255) of title XII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2004, known as the Iran Freedom and Counter-Proliferation Act of 2012, which is classified principally to this chapter. For complete classification of subtitle D to the Code, see Short Title note set out under section 8801 of this title and Tables.
+This subtitle, referred to in text, is subtitle D (§§ 1241–1255) of title XII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2004, known as the Iran Freedom and Counter-Proliferation Act of 2012, which is classified principally to this chapter. For complete classification of subtitle D to the Code, see Short Title note set out under section 8801 of this title and Tables.

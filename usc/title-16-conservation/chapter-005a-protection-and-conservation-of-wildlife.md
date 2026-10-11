@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GAME, FUR-BEARING ANIMALS, AND FISH
 
-### § 661. Short title; authorization
+### § 661. Short title; authorization
 
 **(a) Short title**
 
@@ -27,7 +27,7 @@ This Act may be cited as the “Fish and Wildlife Coordination Act”.
 
 For the purpose of recognizing the vital contribution of our wildlife resources to the Nation, the increasing public interest and significance thereof due to expansion of our national economy and other factors, and to provide that wildlife conservation shall receive equal consideration and be coordinated with other features of water-resource development programs through the effectual and harmonious planning, development, maintenance, and coordination of wildlife conservation and rehabilitation for the purposes of this Act in the United States, its Territories and possessions, the Secretary of the Interior is authorized (1) to provide assistance to, and cooperate with, Federal, State, and public or private agencies and organizations in the development, protection, rearing, and stocking of all species of wildlife, resources thereof, and their habitat, in controlling losses of the same from disease or other causes, in minimizing damages from overabundant species, in providing public shooting and fishing areas, including easements across public lands for access thereto, and in carrying out other measures necessary to effectuate the purposes of this Act; (2) to make surveys and investigations of the wildlife of the public domain, including lands and waters or interests therein acquired or controlled by any agency of the United States; and (3) to accept donations of land and contributions of funds in furtherance of the purposes of this Act.
 
-(Mar. 10, 1934, ch. 55, § 1, 48 Stat. 401; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Aug. 14, 1946, ch. 965, 60 Stat. 1080; Pub. L. 85–624, § 2, Aug. 12, 1958, 72 Stat. 563; Pub. L. 116–9, title VII, § 7001(b)(2)(A), Mar. 12, 2019, 133 Stat. 779.)
+(Mar. 10, 1934, ch. 55, § 1, 48 Stat. 401; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Aug. 14, 1946, ch. 965, 60 Stat. 1080; Pub. L. 85–624, § 2, Aug. 12, 1958, 72 Stat. 563; Pub. L. 116–9, title VII, § 7001(b)(2)(A), Mar. 12, 2019, 133 Stat. 779.)
 
 **Editorial Notes**
 
@@ -47,11 +47,11 @@ This Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known
 
 **Short Title of 2022 Amendment**
 
-Section 1 of H.R. 5608, One Hundred Seventeenth Congress, as engrossed in the House of Representatives on Dec. 8, 2021, which was enacted into law by Pub. L. 117–328, div. HH, title V, § 603, Dec. 29, 2022, 136 Stat. 5996, provided that: “This Act [probably means H.R. 5608 as enacted into law by Pub. L. 117–328, enacting section 667i of this title, amending section 8302 of Title 7, Agriculture, and enacting provisions set out as a note under section 667i of this title] may be cited as the ‘Chronic Wasting Disease Research and Management Act’.”
+Section 1 of H.R. 5608, One Hundred Seventeenth Congress, as engrossed in the House of Representatives on Dec. 8, 2021, which was enacted into law by Pub. L. 117–328, div. HH, title V, § 603, Dec. 29, 2022, 136 Stat. 5996, provided that: “This Act [probably means H.R. 5608 as enacted into law by Pub. L. 117–328, enacting section 667i of this title, amending section 8302 of Title 7, Agriculture, and enacting provisions set out as a note under section 667i of this title] may be cited as the ‘Chronic Wasting Disease Research and Management Act’.”
 
 **Short Title**
 
-Pub. L. 85–624, § 1, Aug. 12, 1958, 72 Stat. 563, provided: “That the Act of March 10, 1934, as amended [sections 661 to 666c–1 of this title], and as further amended by this Act may be cited as the ‘Fish and Wildlife Coordination Act’.”
+Pub. L. 85–624, § 1, Aug. 12, 1958, 72 Stat. 563, provided: “That the Act of March 10, 1934, as amended [sections 661 to 666c–1 of this title], and as further amended by this Act may be cited as the ‘Fish and Wildlife Coordination Act’.”
 
 **Transfer of Functions**
 
@@ -59,7 +59,7 @@ Functions, appropriations, records, and property of Secretary of the Interior an
 
 **Appropriations**
 
-Pub. L. 85–624, § 4, Aug. 12, 1958, 72 Stat. 568, provided that: “There is authorized to be appropriated and expended such funds as may be necessary to carry out the purposes of this Act [amending this section and sections 662 to 664 of this title and enacting section 1008 of this title].”
+Pub. L. 85–624, § 4, Aug. 12, 1958, 72 Stat. 568, provided that: “There is authorized to be appropriated and expended such funds as may be necessary to carry out the purposes of this Act [amending this section and sections 662 to 664 of this title and enacting section 1008 of this title].”
 
 **Study of Soft- and Hard-Shell Clams**
 
@@ -69,11 +69,11 @@ Act May 26, 1948, ch. 348, 62 Stat. 274, directed the Fish and Wildlife Service 
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with wildlife consultation in act Mar. 10, 1934 (see Short Title note above), and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with act Mar. 10, 1934, with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with wildlife consultation in act Mar. 10, 1934 (see Short Title note above), and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with act Mar. 10, 1934, with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5.
 
-Reorg. Plan No. III of 1940, § 3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees, consolidated Bureau of Fisheries and Bureau of Biological Survey with their respective functions into one agency in Department of the Interior to be known as the Fish and Wildlife Service, and abolished the office of Commissioner and Deputy Commissioner of Fisheries and transferred their functions to the consolidated agency.
+Reorg. Plan No. III of 1940, § 3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees, consolidated Bureau of Fisheries and Bureau of Biological Survey with their respective functions into one agency in Department of the Interior to be known as the Fish and Wildlife Service, and abolished the office of Commissioner and Deputy Commissioner of Fisheries and transferred their functions to the consolidated agency.
 
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, transferred Bureau of Fisheries in Department of Commerce, and its functions, to Department of the Interior; transferred functions of Secretary of Commerce relating to protection of fur seals and other fur-bearing animals to Secretary of the Interior; and transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
@@ -109,7 +109,7 @@ Sec. 5. *Judicial Review*. This order is not intended to, and does not, create a
 
 George W. Bush.
 
-### § 662. Impounding, diverting, or controlling of waters
+### § 662. Impounding, diverting, or controlling of waters
 
 **(a) Consultations between agencies**
 
@@ -143,7 +143,7 @@ The provisions of this section shall be applicable with respect to any project f
 
 The provisions of this Act shall not be applicable to those projects for the impoundment of water where the maximum surface area of such impoundments is less than ten acres, nor to activities for or in connection with programs primarily for land management and use carried out by Federal agencies with respect to Federal lands under their jurisdiction.
 
-(Mar. 10, 1934, ch. 55, § 2, 48 Stat. 401; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Aug. 14, 1946, ch. 965, 60 Stat. 1080; Pub. L. 85–624, § 2, Aug. 12, 1958, 72 Stat. 564; Pub. L. 89–72, § 6(b), July 9, 1965, 79 Stat. 216.)
+(Mar. 10, 1934, ch. 55, § 2, 48 Stat. 401; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Aug. 14, 1946, ch. 965, 60 Stat. 1080; Pub. L. 85–624, § 2, Aug. 12, 1958, 72 Stat. 564; Pub. L. 89–72, § 6(b), July 9, 1965, 79 Stat. 216.)
 
 **Editorial Notes**
 
@@ -167,7 +167,7 @@ The date of enactment of the Fish and Wildlife Coordination Act, referred to in 
 
 See Transfer of Functions note set out under section 661 of this title.
 
-### § 663. Impoundment or diversion of waters
+### § 663. Impoundment or diversion of waters
 
 **(a) Conservation, maintenance, and management of wildlife resources; development and improvement**
 
@@ -193,7 +193,7 @@ Federal lands acquired or withdrawn for Federal water-resource purposes and made
 
 Any lands acquired pursuant to this section by any Federal agency within the exterior boundaries of a national forest shall, upon acquisition, be added to and become national forest lands, and shall be administered as a part of the forest within which they are situated, subject to all laws applicable to lands acquired under the provisions of the Act of March 1, 1911 (36 Stat. 961), unless such lands are acquired to carry out the National Migratory Bird Management Program.
 
-(Mar. 10, 1934, ch. 55, § 3, 48 Stat. 401; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 14, 1946, ch. 965, 60 Stat. 1081; Pub. L. 85–624, § 2, Aug. 12, 1958, 72 Stat. 566.)
+(Mar. 10, 1934, ch. 55, § 3, 48 Stat. 401; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 14, 1946, ch. 965, 60 Stat. 1081; Pub. L. 85–624, § 2, Aug. 12, 1958, 72 Stat. 566.)
 
 **Editorial Notes**
 
@@ -219,11 +219,11 @@ Subsecs. (c) to (f). Pub. L. 85–624 added subsecs. (c) to (f).
 
 See Transfer of Functions note set out under section 661 of this title.
 
-### § 664. Administration; rules and regulations; availability of lands to State agencies
+### § 664. Administration; rules and regulations; availability of lands to State agencies
 
 Such areas as are made available to the Secretary of the Interior for the purposes of this Act, pursuant to sections 661 and 663 of this title or pursuant to any other authorization, shall be administered by him directly or in accordance with cooperative agreements entered into pursuant to the provisions of section 661 of this title and in accordance with such rules and regulations for the conservation, maintenance, and management of wildlife, resources thereof, and its habitat thereon, as may be adopted by the Secretary in accordance with general plans approved jointly by the Secretary of the Interior and the head of the department or agency exercising primary administration of such areas: *Provided*, That such rules and regulations shall not be inconsistent with the laws for the protection of fish and game of the States in which such area is situated: *Provided, further*, That lands having value to the National Migratory Bird Management Program may, pursuant to general plans, be made available without cost directly to the State agency having control over wildlife resources, if it is jointly determined by the Secretary of the Interior and such State agency that this would be in the public interest: *And provided further*, That the Secretary of the Interior shall have the right to assume the management and administration of such lands in behalf of the National Migratory Bird Management Program if the Secretary finds that the State agency has withdrawn from or otherwise relinquished such management and administration.
 
-(Mar. 10, 1934, ch. 55, § 4, 48 Stat. 402; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 14, 1946, ch. 965, 60 Stat. 1081; Pub. L. 85–624, § 2, Aug. 12, 1958, 72 Stat. 567.)
+(Mar. 10, 1934, ch. 55, § 4, 48 Stat. 402; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 14, 1946, ch. 965, 60 Stat. 1081; Pub. L. 85–624, § 2, Aug. 12, 1958, 72 Stat. 567.)
 
 **Editorial Notes**
 
@@ -243,11 +243,11 @@ This Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known
 
 See Transfer of Functions note set out under section 661 of this title.
 
-### § 665. Investigations as to effect of sewage, industrial wastes; reports
+### § 665. Investigations as to effect of sewage, industrial wastes; reports
 
 The Secretary of the Interior, through the Fish and Wildlife Service and the United States Bureau of Mines, is authorized to make such investigations as he deems necessary to determine the effects of domestic sewage, mine, petroleum, and industrial wastes, erosion silt, and other polluting substances on wildlife, and to make reports to the Congress concerning such investigations and of recommendations for alleviating dangerous and undesirable effects of such pollution. These investigations shall include (1) the determination of standards of water quality for the maintenance of wildlife; (2) the study of methods of abating and preventing pollution, including methods for the recovery of useful or marketable products and byproducts of wastes; and (3) the collation and distribution of data on the progress and results of such investigations for the use of Federal, State, municipal, and private agencies, individuals, organizations, or enterprises.
 
-(Mar. 10, 1934, ch. 55, § 5, 48 Stat. 402; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 14, 1946, ch. 965, 60 Stat. 1081; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
+(Mar. 10, 1934, ch. 55, § 5, 48 Stat. 402; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 14, 1946, ch. 965, 60 Stat. 1081; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
 
 **Editorial Notes**
 
@@ -267,17 +267,17 @@ The Secretary of the Interior, through the Fish and Wildlife Service and the Uni
 
 See Transfer of Functions note set out under section 661 of this title.
 
-### § 665a. Maintenance of adequate water levels in upper Mississippi River
+### § 665a. Maintenance of adequate water levels in upper Mississippi River
 
 In the management of existing facilities (including locks, dams, and pools) in the Mississippi River between Rock Island, Illinois, and Minneapolis, Minnesota, administered by the United States Corps of Engineers of the Department of the Army, that Department is directed to give full consideration and recognition to the needs of fish and other wildlife resources and their habitat dependent on such waters, without increasing additional liability to the Government, and, to the maximum extent possible without causing damage to levee and drainage districts, adjacent railroads and highways, farm lands, and dam structures, shall generally operate and maintain pool levels as though navigation was carried on throughout the year.
 
-(Mar. 10, 1934, ch. 55, § 5A, as added June 19, 1948, ch. 528, 62 Stat. 497.)
+(Mar. 10, 1934, ch. 55, § 5A, as added June 19, 1948, ch. 528, 62 Stat. 497.)
 
-### § 666. Authorization of appropriations
+### § 666. Authorization of appropriations
 
 There is authorized to be appropriated from time to time, out of any money in the Treasury not otherwise appropriated, such amounts as may be necessary to carry out the provisions of this Act and regulations made pursuant thereto, including the construction of such facilities, buildings, and other improvements necessary for economical administration of areas made available to the Secretary of the Interior under this Act, and the employment in the city of Washington and elsewhere of such persons and means as the Secretary of the Interior may deem necessary for such purposes.
 
-(Mar. 10, 1934, ch. 55, § 6, 48 Stat. 402; Aug. 14, 1946, ch. 965, 60 Stat. 1081.)
+(Mar. 10, 1934, ch. 55, § 6, 48 Stat. 402; Aug. 14, 1946, ch. 965, 60 Stat. 1081.)
 
 **Editorial Notes**
 
@@ -289,11 +289,11 @@ This Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known
 
 1946—Act Aug. 14, 1946, amended section generally to provide for the necessary appropriations to carry out the purposes of sections 661 to 666c of this title.
 
-### § 666a. Penalties
+### § 666a. Penalties
 
 Any person who shall violate any rule or regulation promulgated in accordance with this Act shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $500 or imprisoned for not more than one year, or both.
 
-(Mar. 10, 1934, ch. 55, § 7, as added Aug. 14, 1946, ch. 965, 60 Stat. 1082.)
+(Mar. 10, 1934, ch. 55, § 7, as added Aug. 14, 1946, ch. 965, 60 Stat. 1082.)
 
 **Editorial Notes**
 
@@ -301,11 +301,11 @@ Any person who shall violate any rule or regulation promulgated in accordance wi
 
 This Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
 
-### § 666b. Definitions
+### § 666b. Definitions
 
 The terms “wildlife” and “wildlife resources” as used herein include birds, fishes, mammals, and all other classes of wild animals and all types of aquatic and land vegetation upon which wildlife is dependent.
 
-(Mar. 10, 1934, ch. 55, § 8, as added Aug. 14, 1946, ch. 965, 60 Stat. 1082.)
+(Mar. 10, 1934, ch. 55, § 8, as added Aug. 14, 1946, ch. 965, 60 Stat. 1082.)
 
 **Editorial Notes**
 
@@ -313,11 +313,11 @@ The terms “wildlife” and “wildlife resources” as used herein include bir
 
 Herein, referred to in text, means act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
 
-### § 666c. Applicability to Tennessee Valley Authority
+### § 666c. Applicability to Tennessee Valley Authority
 
 The provisions of this Act shall not apply to the Tennessee Valley Authority.
 
-(Mar. 10, 1934, ch. 55, § 9, as added Aug. 14, 1946, ch. 965, 60 Stat. 1082.)
+(Mar. 10, 1934, ch. 55, § 9, as added Aug. 14, 1946, ch. 965, 60 Stat. 1082.)
 
 **Editorial Notes**
 
@@ -325,7 +325,7 @@ The provisions of this Act shall not apply to the Tennessee Valley Authority.
 
 This Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
 
-### § 666c–1. Protection of water, oceans, coasts, and wildlife from invasive species
+### § 666c–1. Protection of water, oceans, coasts, and wildlife from invasive species
 
 **(a) Definitions** In this section:
 
@@ -337,9 +337,9 @@ The term “control”, with respect to an invasive species, means the eradicati
 
 The term “ecosystem” means the complex of a community of organisms and the environment of the organisms.
 
-**(3) Eligible State** The term “eligible State” means any of— 1
+**(3) Eligible State** The term “eligible State” means any of— 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(A)** a State;
 
@@ -521,7 +521,7 @@ Nothing in this section authorizes the Secretary concerned to suspend any water 
 
 **(l) Use of partnerships**
 
-Subject to the <sup>1</sup> subsections (m) and (n), the Secretary concerned may enter into any contract or cooperative agreement with another Federal agency, an eligible State, a federally recognized Indian tribe, a political subdivision of an eligible State, or a private individual or entity to assist with the control and management of an invasive species.
+Subject to the <sup>1</sup> subsections (m) and (n), the Secretary concerned may enter into any contract or cooperative agreement with another Federal agency, an eligible State, a federally recognized Indian tribe, a political subdivision of an eligible State, or a private individual or entity to assist with the control and management of an invasive species.
 
 **(m) Memorandum of understanding**
 
@@ -571,35 +571,35 @@ Each project and activity carried out pursuant to this section shall be coordina
 
 **(2)** $2,500,000 to the Secretary of the Interior.
 
-(Mar. 10, 1934, ch. 55, § 10, as added Pub. L. 116–9, title VII, § 7001(b)(2)(B), Mar. 12, 2019, 133 Stat. 779; amended Pub. L. 116–188, title I, § 105, Oct. 30, 2020, 134 Stat. 916; Pub. L. 118–198, title I, § 104, Dec. 23, 2024, 138 Stat. 2680.)
+(Mar. 10, 1934, ch. 55, § 10, as added Pub. L. 116–9, title VII, § 7001(b)(2)(B), Mar. 12, 2019, 133 Stat. 779; amended Pub. L. 116–188, title I, § 105, Oct. 30, 2020, 134 Stat. 916; Pub. L. 118–198, title I, § 104, Dec. 23, 2024, 138 Stat. 2680.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 **Amendments**
 
 2024—Subsec. (p). Pub. L. 118–198 substituted “2030” for “2025” in introductory provisions.
 
-2020—Subsec. (c)(2)(A). Pub. L. 116–188, § 105(1)(A), added cl. (i) and redesignated former cls. (i) and (ii) as (ii) and (iii), respectively.
+2020—Subsec. (c)(2)(A). Pub. L. 116–188, § 105(1)(A), added cl. (i) and redesignated former cls. (i) and (ii) as (ii) and (iii), respectively.
 
-Subsec. (c)(2)(B) to (D). Pub. L. 116–188, § 105(1)(B), (C), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+Subsec. (c)(2)(B) to (D). Pub. L. 116–188, § 105(1)(B), (C), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-Subsec. (p). Pub. L. 116–188, § 105(2), added subsec. (p).
+Subsec. (p). Pub. L. 116–188, § 105(2), added subsec. (p).
 
-### § 666d. Skagit National Wildlife Refuge; exchange of lands
+### § 666d. Skagit National Wildlife Refuge; exchange of lands
 
 The Secretary of the Interior is authorized, in his discretion, at any time within ten years from October 6, 1949, to accept from the State of Washington on behalf of the United States title to any lands in the State of Washington which he deems chiefly valuable for wildlife refuge purposes, and which are equivalent in value to the lands of the United States within the Skagit National Wildlife Refuge, and in exchange therefor to convey by deed on behalf of the United States to the State of Washington the said lands of the United States in the Skagit National Wildlife Refuge.
 
-(Oct. 6, 1949, ch. 619, § 1, 63 Stat. 708.)
+(Oct. 6, 1949, ch. 619, § 1, 63 Stat. 708.)
 
-### § 666e. Administration of acquired lands
+### § 666e. Administration of acquired lands
 
 Any lands acquired by the Secretary of the Interior under the terms of this section and section 666d of this title, if located within or adjacent to an existing wildlife refuge or reservation, immediately shall become a part of such refuge or reservation and shall be administered under the laws and regulations applicable thereto, and, if not so located, may be administered as a migratory-waterfowl management area, refuge, reservation, or breeding ground in accordance with the provisions of the Act of August 14, 1946 (60 Stat. 1080), and Acts supplementary thereto.
 
-(Oct. 6, 1949, ch. 619, § 2, 63 Stat. 708.)
+(Oct. 6, 1949, ch. 619, § 2, 63 Stat. 708.)
 
 **Editorial Notes**
 
@@ -607,17 +607,17 @@ Any lands acquired by the Secretary of the Interior under the terms of this sect
 
 The Act of August 14, 1946, referred to in text, is act Aug. 14, 1946, ch. 965, 60 Stat. 1080, which amended act Mar. 10, 1934, ch. 55, by generally amending sections 1 to 6, which are classified to sections 661 to 665 and 666 of this title, and by adding sections 7 to 9, which are classified to sections 666a to 666c of this title. Subsequent acts added sections 5A and 10 of act Mar. 10, 1934, which are classified to sections 665a and 666c–1 of this title, respectively.
 
-### § 666f. Wildlife conservation and agricultural, industrial, recreational, and related uses for certain Federal lands; transfer of lands to Secretary of the Interior; administration, development, and disposition
+### § 666f. Wildlife conservation and agricultural, industrial, recreational, and related uses for certain Federal lands; transfer of lands to Secretary of the Interior; administration, development, and disposition
 
 In order to promote the orderly development and use of the lands and interests therein acquired by the United States in connection with the Crab Orchard Creek project and the Illinois Ordnance Plant in Williamson, Jackson, and Union Counties, Illinois, consistent with the needs of agriculture, industry, recreation, and wildlife conservation, all of the interests of the United States in and to such lands are hereby transferred to the Secretary of the Interior for administration, development, and disposition, in accordance with the provisions of this section and section 666g of this title.
 
-(Aug. 5, 1947, ch. 489, § 1, 61 Stat. 770.)
+(Aug. 5, 1947, ch. 489, § 1, 61 Stat. 770.)
 
-### § 666g. Classification of lands; industrial leases; moneys subject to section 715s of this title; administration; jurisdiction of Federal agencies
+### § 666g. Classification of lands; industrial leases; moneys subject to section 715s of this title; administration; jurisdiction of Federal agencies
 
 All of the lands transferred to the Secretary of the Interior, pursuant to the provisions of section 666f of this title and this section, first shall be classified by him with a view to determining, in cooperation with Federal, State, and public or private agencies and organizations, the most beneficial use that may be made thereof to carry out the purposes of section 666f of this title and this section, including the development of wildlife conservation, agricultural, recreational, industrial, and related purposes. Such lands as have been or may hereafter be determined to be chiefly valuable for industrial purposes shall be leased for such purposes at such time and under such terms and conditions as the Secretary of the Interior shall prescribe. All moneys received or collected in connection with such leases shall be subject to the provisions of section 715s of this title. Except to the extent otherwise provided in section 666f of this title and this section, all lands herein transferred shall be administered by the Secretary of the Interior through the Fish and Wildlife Service in accordance with the provisions of the act of August 14, 1946 (Public Law 732, Seventy-ninth Congress), and Acts supplementary thereto and amendatory thereof for the conservation of wildlife, and for the development of the agricultural, recreational, industrial, and related purposes specified in section 666f of this title and this section: *Provided*, That no jurisdiction shall be exercised by the Secretary of the Interior over that portion of such lands and the improvements thereon which are now utilized by the Department of the Army directly or indirectly until such time as it is determined by the Secretary of the Army that utilization of such portions of such lands and the improvements thereon directly or indirectly by the Department of the Army is no longer required: *Provided further*, That, subsequent to the determination referred to in the preceding proviso, the lands and improvements mentioned therein shall be administered by the Secretary of the Interior, and any lease or other disposition thereof shall be made subject to such terms, conditions, restrictions, and reservations imposed by the Secretary of the Army as will, in the opinion of the Secretary of the Army, be adequate to assure the continued availability for war production purposes of such lands and improvements.
 
-(Aug. 5, 1947, ch. 489, § 2, 61 Stat. 770; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 95–616, § 8, Nov. 8, 1978, 92 Stat. 3114.)
+(Aug. 5, 1947, ch. 489, § 2, 61 Stat. 770; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 95–616, § 8, Nov. 8, 1978, 92 Stat. 3114.)
 
 **Editorial Notes**
 
@@ -637,11 +637,11 @@ The act of August 14, 1946, referred to in text, is act Aug. 14, 1946, ch. 965, 
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 667. Game management supply depots; appropriations
+### § 667. Game management supply depots; appropriations
 
 Appropriations made for the administration, protection, maintenance, control, improvements, and development of wildlife sanctuaries, reservations, and refuges under the control of the Secretary of the Interior shall be available for the purchase, transportation, and handling of supplies and materials for distribution at cost from game management supply depots maintained by the Department of the Interior to projects specially provided for, and transfers between the appropriations for said purposes are authorized in order that the cost of supplies and materials, and transportation and handling thereof, drawn from central warehouses so maintained may be charged to the particular project benefited; and such supplies and materials as remain in said depots at the end of any fiscal year shall be continuously available for issuance during subsequent fiscal years and to be charged for by such transfers of funds between said appropriations for the fiscal year then current without decreasing in any way the appropriations made for that fiscal year: *Provided*, That supplies and materials shall not be purchased solely for the purpose of increasing the value of storehouse stock beyond reasonable requirements for any current fiscal year.
 
-(June 24, 1936, ch. 764, 49 Stat. 1913; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
+(June 24, 1936, ch. 764, 49 Stat. 1913; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -655,23 +655,23 @@ Former first sentence provided for establishment of a game management supply dep
 
 See Transfer of Functions note set out under section 661 of this title.
 
-### § 667a. Omitted
+### § 667a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 8, 1940, ch. 295, §§ 1–4, 54 Stat. 261, authorized compacts or agreements between or among the States bordering on the Atlantic Ocean with respect to fishing in the territorial waters and bays and inlets of the Atlantic Ocean on which such States border.
+Section, act June 8, 1940, ch. 295, §§ 1–4, 54 Stat. 261, authorized compacts or agreements between or among the States bordering on the Atlantic Ocean with respect to fishing in the territorial waters and bays and inlets of the Atlantic Ocean on which such States border.
 
-Act May 4, 1942, ch. 283, §§ 1–4, 56 Stat. 267, granted the consent and approval of Congress to an interstate compact relating to the better utilization of the fisheries (marine, shell, and anadromous) of the Atlantic seaboard and creating the Atlantic States Marine Fisheries Commission.
+Act May 4, 1942, ch. 283, §§ 1–4, 56 Stat. 267, granted the consent and approval of Congress to an interstate compact relating to the better utilization of the fisheries (marine, shell, and anadromous) of the Atlantic seaboard and creating the Atlantic States Marine Fisheries Commission.
 
-Act Aug. 19, 1950, ch. 763, §§ 1–4, 64 Stat. 467, granted the consent and approval of Congress to an amendment to the Atlantic States Marine Fisheries Compact and repealed limitation on the life of such compact.
+Act Aug. 19, 1950, ch. 763, §§ 1–4, 64 Stat. 467, granted the consent and approval of Congress to an amendment to the Atlantic States Marine Fisheries Compact and repealed limitation on the life of such compact.
 
-### § 667b. Transfer of certain real property for wildlife conservation purposes; reservation of rights
+### § 667b. Transfer of certain real property for wildlife conservation purposes; reservation of rights
 
 Upon request, real property which is under the jurisdiction or control of a Federal agency and no longer required by such agency, (1) can be utilized for wildlife conservation purposes by the agency of the State exercising administration over the wildlife resources of the State wherein the real property lies or by the Secretary of the Interior; and (2) is valuable for use for any such purpose, and which, in the determination of the Administrator of General Services, is available for such use may, notwithstanding any other provisions of law, be transferred without reimbursement or transfer of funds (with or without improvements as determined by said Administrator) by the Federal agency having jurisdiction or control of the property to (a) such State agency if the management thereof for the conservation of wildlife relates to other than migratory birds, or (b) to the Secretary of the Interior if the real property has particular value in carrying out the national migratory bird management program. Any such transfer to other than the United States shall be subject to the reservation by the United States of all oil, gas, and mineral rights, and to the condition that the property shall continue to be used for wildlife conservation or other of the above-stated purposes and in the event it is no longer used for such purposes or in the event it is needed for national defense purposes title thereto shall revert to the United States.
 
-(May 19, 1948, ch. 310, § 1, 62 Stat. 240; June 30, 1949, ch. 288, title I, § 105, 63 Stat. 381; Pub. L. 92–432, Sept. 26, 1972, 86 Stat. 723.)
+(May 19, 1948, ch. 310, § 1, 62 Stat. 240; June 30, 1949, ch. 288, title I, § 105, 63 Stat. 381; Pub. L. 92–432, Sept. 26, 1972, 86 Stat. 723.)
 
 **Editorial Notes**
 
@@ -683,25 +683,25 @@ Upon request, real property which is under the jurisdiction or control of a Fede
 
 **Transfer of Functions**
 
-Functions, records, property, etc., of War Assets Administration transferred to General Services Administration, functions of War Assets Administrator transferred to Administrator of General Services, and War Assets Administration and office of War Assets Administrator abolished by section 105 of act June 30, 1949. Transfer of functions effective July 1, 1949, see section 605, formerly § 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583.
+Functions, records, property, etc., of War Assets Administration transferred to General Services Administration, functions of War Assets Administrator transferred to Administrator of General Services, and War Assets Administration and office of War Assets Administrator abolished by section 105 of act June 30, 1949. Transfer of functions effective July 1, 1949, see section 605, formerly § 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583.
 
-### § 667c. Publication of designating order
+### § 667c. Publication of designating order
 
 Whenever any real property is transferred pursuant to sections 667b to 667d of this title, the Administrator of General Services shall make and have published in the Federal Register an appropriate order, which may be revised from time to time in like manner, designating for which of the purposes specified in section 667b of this title the property so transferred shall be used.
 
-(May 19, 1948, ch. 310, § 2, 62 Stat. 241; June 30, 1949, ch. 288, title I, § 105, 63 Stat. 381.)
+(May 19, 1948, ch. 310, § 2, 62 Stat. 241; June 30, 1949, ch. 288, title I, § 105, 63 Stat. 381.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-Functions, records, property, etc., of War Assets Administration transferred to General Services Administration, functions of War Assets Administrator transferred to Administrator of General Services, and War Assets Administration and office of War Assets Administrator abolished by section 105 of act June 30, 1949. Transfer of functions effective July 1, 1949, see section 605, formerly § 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583.
+Functions, records, property, etc., of War Assets Administration transferred to General Services Administration, functions of War Assets Administrator transferred to Administrator of General Services, and War Assets Administration and office of War Assets Administrator abolished by section 105 of act June 30, 1949. Transfer of functions effective July 1, 1949, see section 605, formerly § 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583.
 
-### § 667d. Reports to Congress
+### § 667d. Reports to Congress
 
 A statement of the acreage and value of such property as may have been transferred pursuant to sections 667b to 667d of this title during the preceding fiscal year shall be annually prepared by the Administrator of General Services.
 
-(May 19, 1948, ch. 310, § 3, 62 Stat. 241; June 30, 1949, ch. 288, title I, § 105, 63 Stat. 381; Pub. L. 104–66, title II, § 2091(b), Dec. 21, 1995, 109 Stat. 730.)
+(May 19, 1948, ch. 310, § 3, 62 Stat. 241; June 30, 1949, ch. 288, title I, § 105, 63 Stat. 381; Pub. L. 104–66, title II, § 2091(b), Dec. 21, 1995, 109 Stat. 730.)
 
 **Editorial Notes**
 
@@ -713,17 +713,17 @@ A statement of the acreage and value of such property as may have been transferr
 
 **Transfer of Functions**
 
-Functions, records, property, etc., of War Assets Administration transferred to General Services Administration, functions of War Assets Administrator transferred to Administrator of General Services, and War Assets Administration and office of War Assets Administrator abolished by section 105 of act June 30, 1949. Transfer of functions effective July 1, 1949, see section 605, formerly § 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583.
+Functions, records, property, etc., of War Assets Administration transferred to General Services Administration, functions of War Assets Administrator transferred to Administrator of General Services, and War Assets Administration and office of War Assets Administrator abolished by section 105 of act June 30, 1949. Transfer of functions effective July 1, 1949, see section 605, formerly § 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583.
 
-### § 667e. Repealed. Pub. L. 97–79, § 9(b)(2), Nov. 16, 1981, 95 Stat. 1079
+### § 667e. Repealed. Pub. L. 97–79, § 9(b)(2), Nov. 16, 1981, 95 Stat. 1079
 
-Section, act May 25, 1900, ch. 553, § 5, 31 Stat. 188, provided that the dead bodies of game animals or game or song birds be subject to the laws of the State into which they are transported. See section 3378(a) of this title.
+Section, act May 25, 1900, ch. 553, § 5, 31 Stat. 188, provided that the dead bodies of game animals or game or song birds be subject to the laws of the State into which they are transported. See section 3378(a) of this title.
 
-### § 667f. Availability of grain to prevent waterfowl depredations; payment of packaging, transporting, handling, and other charges
+### § 667f. Availability of grain to prevent waterfowl depredations; payment of packaging, transporting, handling, and other charges
 
 For the purpose of preventing crop damage by migratory waterfowl, the Commodity Credit Corporation shall make available to the Secretary of the Interior such wheat, corn, or other grains, acquired through price support operations and certified by the Commodity Credit Corporation to be available for purposes of sections 667f to 667f–3 of this title or in such condition through spoilage or deterioration as not to be desirable for human consumption, as the Secretary of the Interior shall requisition pursuant to section 667f–1 of this title. With respect to any grain thus made available, the Commodity Credit Corporation may pay packaging, transporting, handling, and other charges up to the time of delivery to one or more designated locations in each State.
 
-(July 3, 1956, ch. 512, § 1, 70 Stat. 492.)
+(July 3, 1956, ch. 512, § 1, 70 Stat. 492.)
 
 **Editorial Notes**
 
@@ -731,11 +731,11 @@ For the purpose of preventing crop damage by migratory waterfowl, the Commodity 
 
 Section was formerly classified to section 442 of Title 7, Agriculture, prior to editorial reclassification and renumbering as this section.
 
-### § 667f–1. Requisition of grain to prevent crop depredation by migratory waterfowl
+### § 667f–1. Requisition of grain to prevent crop depredation by migratory waterfowl
 
 Upon a finding by the Secretary of the Interior that any area in the United States is threatened with damage to farmers’ crops by migratory waterfowl, whether or not during the open season for such migratory waterfowl, the Secretary of the Interior is authorized and directed to requisition from the Commodity Credit Corporation and to make available to Federal, State, or local governmental bodies or officials, or to private organizations or persons, such grain acquired by the Commodity Credit Corporation through price-support operations in such quantities and subject to such regulations as the Secretary determines will most effectively lure migratory waterfowl away from crop depredations and at the same time not expose such migratory waterfowl to shooting over areas to which the waterfowl have been lured by such feeding programs.
 
-(July 3, 1956, ch. 512, § 2, 70 Stat. 492.)
+(July 3, 1956, ch. 512, § 2, 70 Stat. 492.)
 
 **Editorial Notes**
 
@@ -743,11 +743,11 @@ Upon a finding by the Secretary of the Interior that any area in the United Stat
 
 Section was formerly classified to section 443 of Title 7, Agriculture, prior to editorial reclassification and renumbering as this section.
 
-### § 667f–2. Reimbursement of packaging and transporting expenses
+### § 667f–2. Reimbursement of packaging and transporting expenses
 
 With respect to all grain made available pursuant to section 667f–1 of this title, the Commodity Credit Corporation shall be reimbursed by the Secretary of the Interior for its expenses in packaging and transporting such grain for purposes of sections 667f to 667f–3 of this title.
 
-(July 3, 1956, ch. 512, § 3, 70 Stat. 492.)
+(July 3, 1956, ch. 512, § 3, 70 Stat. 492.)
 
 **Editorial Notes**
 
@@ -755,11 +755,11 @@ With respect to all grain made available pursuant to section 667f–1 of this ti
 
 Section was formerly classified to section 444 of Title 7, Agriculture, prior to editorial reclassification and renumbering as this section.
 
-### § 667f–3. Authorization of appropriations for mitigating losses caused by waterfowl depredation
+### § 667f–3. Authorization of appropriations for mitigating losses caused by waterfowl depredation
 
 There are authorized to be appropriated such sums as may be necessary to reimburse the Commodity Credit Corporation for its investment in the grain transferred pursuant to sections 667f to 667f–3 of this title.
 
-(July 3, 1956, ch. 512, § 4, 70 Stat. 492.)
+(July 3, 1956, ch. 512, § 4, 70 Stat. 492.)
 
 **Editorial Notes**
 
@@ -767,11 +767,11 @@ There are authorized to be appropriated such sums as may be necessary to reimbur
 
 Section was formerly classified to section 445 of Title 7, Agriculture, prior to editorial reclassification and renumbering as this section.
 
-### § 667g. Requisition of surplus grain; prevention of starvation of resident game birds and other resident wildlife; utilization by State agencies; reimbursement for packaging and transporting
+### § 667g. Requisition of surplus grain; prevention of starvation of resident game birds and other resident wildlife; utilization by State agencies; reimbursement for packaging and transporting
 
 For the purpose of meeting emergency situations caused by adverse weather conditions or other factors destructive of important wildlife resources, the States are authorized, upon the request of the State fish and game authority or other State agency having similar authority and a finding by the Secretary of the Interior that any area of the United States is threatened with serious damage or loss to resident game birds and other resident wildlife from starvation, to requisition from the Commodity Credit Corporation grain acquired by the Corporation through price support operations. Such grain may thereafter be furnished to the particular State for direct and sole utilization by the appropriate State agencies for purposes of sections 667g to 667g–2 of this title in such quantities as mutually agreed upon by the State and the Commodity Credit Corporation and subject to such regulations as may be considered desirable by the Corporation. The Corporation shall be reimbursed by the particular State in each instance for the expense of the Corporation in packaging and transporting such grain for purposes of sections 667g to 667g–2 of this title.
 
-(Pub. L. 87–152, § 1, Aug. 17, 1961, 75 Stat. 389.)
+(Pub. L. 87–152, § 1, Aug. 17, 1961, 75 Stat. 389.)
 
 **Editorial Notes**
 
@@ -779,11 +779,11 @@ For the purpose of meeting emergency situations caused by adverse weather condit
 
 Section was formerly classified to section 447 of Title 7, Agriculture, prior to editorial reclassification and renumbering as this section.
 
-### § 667g–1. Requisition and use of grain for prevention of starvation of migratory birds; reimbursement for packaging and transporting
+### § 667g–1. Requisition and use of grain for prevention of starvation of migratory birds; reimbursement for packaging and transporting
 
 Upon a finding by the Secretary of the Interior that migratory birds are threatened with starvation in any area of the United States, the Secretary is authorized to requisition from the Commodity Credit Corporation grain acquired by that Corporation through price support operations in such quantities as may be mutually agreed upon. The Corporation shall be reimbursed by the Secretary for its expense in packaging and transporting of such grain for purposes of sections 667g to 667g–2 of this title.
 
-(Pub. L. 87–152, § 2, Aug. 17, 1961, 75 Stat. 389.)
+(Pub. L. 87–152, § 2, Aug. 17, 1961, 75 Stat. 389.)
 
 **Editorial Notes**
 
@@ -791,11 +791,11 @@ Upon a finding by the Secretary of the Interior that migratory birds are threate
 
 Section was formerly classified to section 448 of Title 7, Agriculture, prior to editorial reclassification and renumbering as this section.
 
-### § 667g–2. Authorization of appropriations for reimbursement of Commodity Credit Corporation
+### § 667g–2. Authorization of appropriations for reimbursement of Commodity Credit Corporation
 
 There are authorized to be appropriated such sums as may be necessary to reimburse the Commodity Credit Corporation for its investment in grain transferred pursuant to sections 667g to 667g–2 of this title.
 
-(Pub. L. 87–152, § 3, Aug. 17, 1961, 75 Stat. 389.)
+(Pub. L. 87–152, § 3, Aug. 17, 1961, 75 Stat. 389.)
 
 **Editorial Notes**
 
@@ -803,7 +803,7 @@ There are authorized to be appropriated such sums as may be necessary to reimbur
 
 Section was formerly classified to section 449 of Title 7, Agriculture, prior to editorial reclassification and renumbering as this section.
 
-### § 667h. Chronic Wasting Disease Task Force
+### § 667h. Chronic Wasting Disease Task Force
 
 **(a) Definitions** In this section:
 
@@ -1021,27 +1021,27 @@ The study under paragraph (2) shall be completed not later than 180 days after t
 
 **(3)** for fiscal year 2021, $1,200,000 to the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, to carry out activities to fund research under subsection (c).
 
-(Pub. L. 116–188, title I, § 104, Oct. 30, 2020, 134 Stat. 911; Pub. L. 118–198, title I, § 103, Dec. 23, 2024, 138 Stat. 2680.)
+(Pub. L. 116–188, title I, § 104, Oct. 30, 2020, 134 Stat. 911; Pub. L. 118–198, title I, § 103, Dec. 23, 2024, 138 Stat. 2680.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (b)(1). Pub. L. 118–198, § 103(1)(A), struck out “after the completion of the study required by subsection (c)” before period at end.
+2024—Subsec. (b)(1). Pub. L. 118–198, § 103(1)(A), struck out “after the completion of the study required by subsection (c)” before period at end.
 
-Subsec. (b)(5)(A). Pub. L. 118–198, § 103(1)(B), substituted “90 days after December 23, 2024. The efforts of the Task Force shall not be contingent on the completion of the study required by subsection (c)” for “180 days after the date on which the study is completed under subsection (c)”.
+Subsec. (b)(5)(A). Pub. L. 118–198, § 103(1)(B), substituted “90 days after December 23, 2024. The efforts of the Task Force shall not be contingent on the completion of the study required by subsection (c)” for “180 days after the date on which the study is completed under subsection (c)”.
 
-Subsec. (d)(1). Pub. L. 118–198, § 103(2), substituted “2030” for “2025”.
+Subsec. (d)(1). Pub. L. 118–198, § 103(2), substituted “2030” for “2025”.
 
-### § 667i. Chronic wasting disease research and management program
+### § 667i. Chronic wasting disease research and management program
 
 **(a) Research program**
 
 **(1) In general**
 
-Not later than 90 days after the date on which funds are made available to carry out this section, the Secretary of Agriculture shall establish a program under which the Secretary shall offer to enter into cooperative agreements or other legal instruments, as authorized under 1
+Not later than 90 days after the date on which funds are made available to carry out this section, the Secretary of Agriculture shall establish a program under which the Secretary shall offer to enter into cooperative agreements or other legal instruments, as authorized under 1
 
-<sup>1</sup>  So in original. Probably should be followed by “section”.
+<sup>1</sup> So in original. Probably should be followed by “section”.
 
 8312 of title 7, with eligible entities to conduct research on the transmission of, resistance to, and diagnosis of chronic wasting disease.
 
@@ -1053,9 +1053,9 @@ Not later than 90 days after the date on which funds are made available to carry
 
 **(ii)** testing methods that significantly improve sensitivity and accelerate timelines for test results on non-live cervids;
 
-**(B)** the long-term suppression or eradication of chronic wasting disease; or 2
+**(B)** the long-term suppression or eradication of chronic wasting disease; or 2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 **(C)** determination markers for genetic resistance to chronic wasting disease and strategies for using genetic resistance to combat the spread of the disease;
 
@@ -1155,7 +1155,7 @@ Of the funds made available under subsection (e) for a fiscal year to carry out 
 
 Nothing in this section shall be construed as interfering with, or otherwise affecting, the authority of the Federal Government or States to manage wildlife and livestock on land within their respective jurisdictions, including managing, surveying, and monitoring the incidence of chronic wasting disease.
 
-(Pub. L. 117–328, div. HH, title V, § 603, Dec. 29, 2022, 136 Stat. 5996.)
+(Pub. L. 117–328, div. HH, title V, § 603, Dec. 29, 2022, 136 Stat. 5996.)
 
 **Editorial Notes**
 
@@ -1171,7 +1171,7 @@ Section is based on section 3 of H.R. 5608, One Hundred Seventeenth Congress, as
 
 **Findings**
 
-Section 2 of H.R. 5608, One Hundred Seventeenth Congress, as engrossed in the House of Representatives on Dec. 8, 2021, which was enacted into law by Pub. L. 117–328, div. HH, title V, § 603, Dec. 29, 2022, 136 Stat. 5996, provided that:
+Section 2 of H.R. 5608, One Hundred Seventeenth Congress, as engrossed in the House of Representatives on Dec. 8, 2021, which was enacted into law by Pub. L. 117–328, div. HH, title V, § 603, Dec. 29, 2022, 136 Stat. 5996, provided that:
 
 > “Congress finds the following:
 
@@ -1189,7 +1189,7 @@ Section 2 of H.R. 5608, One Hundred Seventeenth Congress, as engrossed in the Ho
 
 ## SUBCHAPTER II—PROTECTION OF BALD AND GOLDEN EAGLES
 
-### § 668. Bald and golden eagles
+### § 668. Bald and golden eagles
 
 **(a) Prohibited acts; criminal penalties**
 
@@ -1203,7 +1203,7 @@ Whoever, within the United States or any place subject to the jurisdiction there
 
 The head of any Federal agency who has issued a lease, license, permit, or other agreement authorizing the grazing of domestic livestock on Federal lands to any person who is convicted of a violation of this subchapter or of any permit or regulation issued hereunder may immediately cancel each such lease, license, permit, or other agreement. The United States shall not be liable for the payment of any compensation, reimbursement, or damages in connection with the cancellation of any lease, license, permit, or other agreement pursuant to this section.
 
-(June 8, 1940, ch. 278, § 1, 54 Stat. 250; Pub. L. 86–70, § 14, June 25, 1959, 73 Stat. 143; Pub. L. 87–884, Oct. 24, 1962, 76 Stat. 1246; Pub. L. 92–535, § 1, Oct. 23, 1972, 86 Stat. 1064.)
+(June 8, 1940, ch. 278, § 1, 54 Stat. 250; Pub. L. 86–70, § 14, June 25, 1959, 73 Stat. 143; Pub. L. 87–884, Oct. 24, 1962, 76 Stat. 1246; Pub. L. 92–535, § 1, Oct. 23, 1972, 86 Stat. 1064.)
 
 **Editorial Notes**
 
@@ -1237,7 +1237,7 @@ Enacting clause of act June 8, 1940, provided:
 
 > “Whereas the bald eagle is now threatened with extinction: Therefore
 
-> “Be it enacted \* \* \*”
+> “Be it enacted \* \* \*”
 
 , etc.
 
@@ -1245,13 +1245,13 @@ Enacting clause of act June 8, 1940, provided:
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-### § 668a. Taking and using of the bald and golden eagle for scientific, exhibition, and religious purposes
+### § 668a. Taking and using of the bald and golden eagle for scientific, exhibition, and religious purposes
 
 Whenever, after investigation, the Secretary of the Interior shall determine that it is compatible with the preservation of the bald eagle or the golden eagle to permit the taking, possession, and transportation of specimens thereof for the scientific or exhibition purposes of public museums, scientific societies, and zoological parks, or for the religious purposes of Indian tribes, or that it is necessary to permit the taking of such eagles for the protection of wildlife or of agricultural or other interests in any particular locality, he may authorize the taking of such eagles pursuant to regulations which he is hereby authorized to prescribe: *Provided*, That on request of the Governor of any State, the Secretary of the Interior shall authorize the taking of golden eagles for the purpose of seasonally protecting domesticated flocks and herds in such State, in accordance with regulations established under the provisions of this section, in such part or parts of such State and for such periods as the Secretary determines to be necessary to protect such interests: *Provided further*, That bald eagles may not be taken for any purpose unless, prior to such taking, a permit to do so is procured from the Secretary of the Interior: *Provided further*, That the Secretary of the Interior, pursuant to such regulations as he may prescribe, may permit the taking, possession, and transportation of golden eagles for the purposes of falconry, except that only golden eagles which would be taken because of depredations on livestock or wildlife may be taken for purposes of falconry: *Provided further*, That the Secretary of the Interior, pursuant to such regulations as he may prescribe, may permit the taking of golden eagle nests which interfere with resource development or recovery operations.
 
-(June 8, 1940, ch. 278, § 2, 54 Stat. 251; Pub. L. 87–884, Oct. 24, 1962, 76 Stat. 1246; Pub. L. 92–535, § 2, Oct. 23, 1972, 86 Stat. 1065; Pub. L. 95–616, § 9, Nov. 8, 1979, 92 Stat. 3114.)
+(June 8, 1940, ch. 278, § 2, 54 Stat. 251; Pub. L. 87–884, Oct. 24, 1962, 76 Stat. 1246; Pub. L. 92–535, § 2, Oct. 23, 1972, 86 Stat. 1065; Pub. L. 95–616, § 9, Nov. 8, 1979, 92 Stat. 3114.)
 
 **Editorial Notes**
 
@@ -1301,7 +1301,7 @@ The Director of the Office of Management and Budget is authorized and directed t
 
 William J. Clinton.
 
-### § 668b. Enforcement provisions
+### § 668b. Enforcement provisions
 
 **(a) Arrest; search; issuance and execution of warrants and process**
 
@@ -1315,7 +1315,7 @@ All bald or golden eagles, or parts, nests, or eggs thereof, taken, possessed, s
 
 All provisions of law relating to the seizure, forfeiture, and condemnation of a vessel for violation of the customs laws, the disposition of such vessel or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this subchapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this subchapter: *Provided*, That all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Treasury Department shall, for the purposes of this subchapter, be exercised or performed by the Secretary of the Interior or by such persons as he may designate.
 
-(June 8, 1940, ch. 278, § 3, 54 Stat. 251; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 92–535, § 3, Oct. 23, 1972, 86 Stat. 1065; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 8, 1940, ch. 278, § 3, 54 Stat. 251; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 92–535, § 3, Oct. 23, 1972, 86 Stat. 1065; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -1327,19 +1327,19 @@ All provisions of law relating to the seizure, forfeiture, and condemnation of a
 
 **Change of Name**
 
-“United States magistrate judge” substituted for “United States magistrate” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” in subsec. (a) pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+“United States magistrate judge” substituted for “United States magistrate” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” in subsec. (a) pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-### § 668c. Definitions
+### § 668c. Definitions
 
 As used in this subchapter “whoever” includes also associations, partnerships, and corporations; “take” includes also pursue, shoot, shoot at, poison, wound, kill, capture, trap, collect, molest or disturb; “transport” includes also ship, convey, carry, or transport by any means whatever, and deliver or receive or cause to be delivered or received for such shipment, conveyance, carriage, or transportation.
 
-(June 8, 1940, ch. 278, § 4, 54 Stat. 251; Pub. L. 92–535, § 4, Oct. 23, 1972, 86 Stat. 1065.)
+(June 8, 1940, ch. 278, § 4, 54 Stat. 251; Pub. L. 92–535, § 4, Oct. 23, 1972, 86 Stat. 1065.)
 
 **Editorial Notes**
 
@@ -1347,41 +1347,41 @@ As used in this subchapter “whoever” includes also associations, partnership
 
 1972—Pub. L. 92–535 substituted “poison, wound, kill, capture, trap, collect, molest” for “wound, kill, capture, trap, collect, or otherwise willfully molest”.
 
-### § 668d. Availability of appropriations for Migratory Bird Treaty Act
+### § 668d. Availability of appropriations for Migratory Bird Treaty Act
 
 Moneys now or hereafter available to the Secretary of the Interior for the administration and enforcement of the Migratory Bird Treaty Act of July 3, 1918 [16 U.S.C. 703 et seq.], shall be equally available for the administration and enforcement of this subchapter.
 
-(June 8, 1940, ch. 278, § 5, 54 Stat. 251.)
+(June 8, 1940, ch. 278, § 5, 54 Stat. 251.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
+The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
 ## SUBCHAPTER III—ENDANGERED SPECIES OF FISH AND WILDLIFE
 
-### §§ 668aa to 668cc–6. Repealed. Pub. L. 93–205, § 14, Dec. 28, 1973, 87 Stat. 903
+### §§ 668aa to 668cc–6. Repealed. Pub. L. 93–205, § 14, Dec. 28, 1973, 87 Stat. 903
 
 The provisions of sections 668aa to 668cc–6, which, pursuant to section 12(d) of Pub. L. 91–135, Dec. 5, 1969, 83 Stat. 283, were known as the “Endangered Species Conservation Act of 1969”, are covered by section 1531 et seq. of this title.
 
-Section 668aa, Pub. L. 89–669, § 1, Oct. 15, 1966, 80 Stat. 926; Pub. L. 91–135, § 12(a), (e), Dec. 5, 1969, 83 Stat. 282, 283, set out the Congressional findings, declaration of policy, and statement of purposes in seeking the protection of endangered species of fish and wildlife.
+Section 668aa, Pub. L. 89–669, § 1, Oct. 15, 1966, 80 Stat. 926; Pub. L. 91–135, § 12(a), (e), Dec. 5, 1969, 83 Stat. 282, 283, set out the Congressional findings, declaration of policy, and statement of purposes in seeking the protection of endangered species of fish and wildlife.
 
-Section 668bb, Pub. L. 89–669, § 2, Oct. 15, 1966, 80 Stat. 926; Pub. L. 91–135, § 12(b), (c), Dec. 5, 1969, 83 Stat. 282, set out the powers and duties of the Secretary of the Interior in carrying out the mandate of the Endangered Species Conservation Act of 1969.
+Section 668bb, Pub. L. 89–669, § 2, Oct. 15, 1966, 80 Stat. 926; Pub. L. 91–135, § 12(b), (c), Dec. 5, 1969, 83 Stat. 282, set out the powers and duties of the Secretary of the Interior in carrying out the mandate of the Endangered Species Conservation Act of 1969.
 
-Section 668cc, Pub. L. 89–669, § 3, Oct. 15, 1966, 80 Stat. 927, covered the Secretary’s duty to cooperate with the States, area administration, management agreements, and disposition of revenues.
+Section 668cc, Pub. L. 89–669, § 3, Oct. 15, 1966, 80 Stat. 927, covered the Secretary’s duty to cooperate with the States, area administration, management agreements, and disposition of revenues.
 
-Section 668cc–1, Pub. L. 91–135, § 1, Dec. 5, 1969, 83 Stat. 275, defined “Secretary”, “fish or wildlife”, “United States”, and “person”.
+Section 668cc–1, Pub. L. 91–135, § 1, Dec. 5, 1969, 83 Stat. 275, defined “Secretary”, “fish or wildlife”, “United States”, and “person”.
 
-Section 668cc–2, Pub. L. 91–135, § 2, Dec. 5, 1969, 83 Stat. 275, covered importation of endangered species and set out civil and criminal penalties by reference to provisions of section 668cc–4 of this title.
+Section 668cc–2, Pub. L. 91–135, § 2, Dec. 5, 1969, 83 Stat. 275, covered importation of endangered species and set out civil and criminal penalties by reference to provisions of section 668cc–4 of this title.
 
-Section 668cc–3, Pub. L. 91–135, § 3, Dec. 5, 1969, 83 Stat. 275, provided for determination by the Secretary of the species threatened with extinction, methods to be used and factors determinative of Secretary’s determination, and rule making procedures to be used.
+Section 668cc–3, Pub. L. 91–135, § 3, Dec. 5, 1969, 83 Stat. 275, provided for determination by the Secretary of the species threatened with extinction, methods to be used and factors determinative of Secretary’s determination, and rule making procedures to be used.
 
-Section 668cc–4, Pub. L. 91–135, § 4, Dec. 5, 1969, 83 Stat. 276, set out penalties for violation of sections 668cc–2 and 668cc–3 of this title and provisions for their enforcement.
+Section 668cc–4, Pub. L. 91–135, § 4, Dec. 5, 1969, 83 Stat. 276, set out penalties for violation of sections 668cc–2 and 668cc–3 of this title and provisions for their enforcement.
 
-Section 668cc–5, Pub. L. 91–135, § 5, Dec. 5, 1969, 83 Stat. 278, covered international agreements for fish and wildlife preservation.
+Section 668cc–5, Pub. L. 91–135, § 5, Dec. 5, 1969, 83 Stat. 278, covered international agreements for fish and wildlife preservation.
 
-Section 668cc–6, Pub. L. 91–135, § 6, Dec. 5, 1969, 83 Stat. 278, called for coordination of administration of provisions relating to endangered species of fish and wildlife with animal quarantine and tariff laws, and provided for non-impairment of functions of Secretaries of Agriculture and Treasury under agriculture and tariff laws, including imports.
+Section 668cc–6, Pub. L. 91–135, § 6, Dec. 5, 1969, 83 Stat. 278, called for coordination of administration of provisions relating to endangered species of fish and wildlife with animal quarantine and tariff laws, and provided for non-impairment of functions of Secretaries of Agriculture and Treasury under agriculture and tariff laws, including imports.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1389,7 +1389,7 @@ Section 668cc–6, Pub. L. 91–135, § 6, Dec. 5, 1969, 83 Stat. 278, called 
 
 Repeal effective Dec. 28, 1973, see section 16 of Pub. L. 93–205, set out as an Effective Date note under section 1531 of this title.
 
-### § 668dd. National Wildlife Refuge System
+### § 668dd. National Wildlife Refuge System
 
 **(a) Designation; administration; continuance of resources-management-programs for refuge lands in Alaska; disposal of acquired lands; proceeds**
 
@@ -1629,7 +1629,7 @@ Nothing in this Act shall be construed as affecting the authority, jurisdiction,
 
 Coordination with State fish and wildlife agency personnel or with personnel of other affected State agencies pursuant to this Act shall not be subject to chapter 10 of title 5.
 
-(Pub. L. 89–669, § 4, Oct. 15, 1966, 80 Stat. 927; Pub. L. 90–404, § 1, July 18, 1968, 82 Stat. 359; Pub. L. 93–205, § 13(a), Dec. 28, 1973, 87 Stat. 902; Pub. L. 93–509, § 2, Dec. 3, 1974, 88 Stat. 1603; Pub. L. 94–215, § 5, Feb. 17, 1976, 90 Stat. 190; Pub. L. 94–223, Feb. 27, 1976, 90 Stat. 199; Pub. L. 95–616, §§ 3(f), 6, Nov. 8, 1978, 92 Stat. 3111, 3114; Pub. L. 100–226, § 4, Dec. 31, 1987, 101 Stat. 1551; Pub. L. 100–653, title IX, § 904, Nov. 14, 1988, 102 Stat. 3834; Pub. L. 105–57, §§ 3(b)–8, Oct. 9, 1997, 111 Stat. 1254–1259; Pub. L. 105–312, title II, § 206, Oct. 30, 1998, 112 Stat. 2958; Pub. L. 117–286, § 4(a)(99), Dec. 27, 2022, 136 Stat. 4316.)
+(Pub. L. 89–669, § 4, Oct. 15, 1966, 80 Stat. 927; Pub. L. 90–404, § 1, July 18, 1968, 82 Stat. 359; Pub. L. 93–205, § 13(a), Dec. 28, 1973, 87 Stat. 902; Pub. L. 93–509, § 2, Dec. 3, 1974, 88 Stat. 1603; Pub. L. 94–215, § 5, Feb. 17, 1976, 90 Stat. 190; Pub. L. 94–223, Feb. 27, 1976, 90 Stat. 199; Pub. L. 95–616, §§ 3(f), 6, Nov. 8, 1978, 92 Stat. 3111, 3114; Pub. L. 100–226, § 4, Dec. 31, 1987, 101 Stat. 1551; Pub. L. 100–653, title IX, § 904, Nov. 14, 1988, 102 Stat. 3834; Pub. L. 105–57, §§ 3(b)–8, Oct. 9, 1997, 111 Stat. 1254–1259; Pub. L. 105–312, title II, § 206, Oct. 30, 1998, 112 Stat. 2958; Pub. L. 117–286, § 4(a)(99), Dec. 27, 2022, 136 Stat. 4316.)
 
 **Editorial Notes**
 
@@ -1637,11 +1637,11 @@ Coordination with State fish and wildlife agency personnel or with personnel of 
 
 This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, which enacted sections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715*l*, 715m of this title. For complete classification of this Act to the Code, see Tables.
 
-The Migratory Bird Conservation Act, referred to in subsec. (d)(2), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
+The Migratory Bird Conservation Act, referred to in subsec. (d)(2), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
-The Migratory Bird Hunting Stamp Act, referred to in subsec. (d)(2), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 451, which is classified generally to subchapter IV (§ 718 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 718 of this title and Tables.
+The Migratory Bird Hunting Stamp Act, referred to in subsec. (d)(2), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 451, which is classified generally to subchapter IV (§ 718 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 718 of this title and Tables.
 
-The Refuge Recreation Act and the Act of September 28, 1962, referred to in subsecs. (d)(3)(A)(iii) and (i), is Pub. L. 87–714, Sept. 28, 1962, 76 Stat. 653, which is classified generally to subchapter LXVIII (§ 460k et seq.) of chapter 1 of this title.
+The Refuge Recreation Act and the Act of September 28, 1962, referred to in subsecs. (d)(3)(A)(iii) and (i), is Pub. L. 87–714, Sept. 28, 1962, 76 Stat. 653, which is classified generally to subchapter LXVIII (§ 460k et seq.) of chapter 1 of this title.
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (e)(1)(A), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
@@ -1649,73 +1649,73 @@ The Alaska National Interest Lands Conservation Act, referred to in subsec. (e)(
 
 2022—Subsec. (*o*). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
 
-1998—Subsec. (c). Pub. L. 105–312, § 206(1), struck out “knowingly” after “No person shall” in first sentence.
+1998—Subsec. (c). Pub. L. 105–312, § 206(1), struck out “knowingly” after “No person shall” in first sentence.
 
-Subsec. (f). Pub. L. 105–312, § 206(2), inserted subsec. heading, par. (1) designation and heading, and “knowingly” after “Any person who”, and added par. (2).
+Subsec. (f). Pub. L. 105–312, § 206(2), inserted subsec. heading, par. (1) designation and heading, and “knowingly” after “Any person who”, and added par. (2).
 
-1997—Subsec. (a)(1). Pub. L. 105–57, § 3(b), substituted “Secretary” for “Secretary of the Interior” before “for the conservation of fish and wildlife”.
+1997—Subsec. (a)(1). Pub. L. 105–57, § 3(b), substituted “Secretary” for “Secretary of the Interior” before “for the conservation of fish and wildlife”.
 
-Subsec. (a)(2). Pub. L. 105–57, § 4(1), (3), added par. (2) and redesignated former par. (2) as (5).
+Subsec. (a)(2). Pub. L. 105–57, § 4(1), (3), added par. (2) and redesignated former par. (2) as (5).
 
-Subsec. (a)(2)(A). Pub. L. 105–57, § 3(b), substituted “Secretary” for “Secretary of the Interior” before “determines with the approval”.
+Subsec. (a)(2)(A). Pub. L. 105–57, § 3(b), substituted “Secretary” for “Secretary of the Interior” before “determines with the approval”.
 
-Subsec. (a)(3). Pub. L. 105–57, §§ 4(1), 5(a), added par. (3) and redesignated former par. (3) as (6).
+Subsec. (a)(3). Pub. L. 105–57, §§ 4(1), 5(a), added par. (3) and redesignated former par. (3) as (6).
 
-Subsec. (a)(4). Pub. L. 105–57, § 5(a), added par. (4).
+Subsec. (a)(4). Pub. L. 105–57, § 5(a), added par. (4).
 
-Subsec. (a)(5). Pub. L. 105–57, § 4(1), redesignated par. (2) as (5).
+Subsec. (a)(5). Pub. L. 105–57, § 4(1), redesignated par. (2) as (5).
 
-Subsec. (a)(6). Pub. L. 105–57, § 4(1), redesignated par. (3) as (6).
+Subsec. (a)(6). Pub. L. 105–57, § 4(1), redesignated par. (3) as (6).
 
-Subsec. (a)(6)(i). Pub. L. 105–57, § 4(2), substituted “paragraph (5)” for “paragraph (2)”.
+Subsec. (a)(6)(i). Pub. L. 105–57, § 4(2), substituted “paragraph (5)” for “paragraph (2)”.
 
-Subsec. (b). Pub. L. 105–57, § 5(b)(1), substituted “authorized to take the following actions:” for “authorized—” in introductory provisions.
+Subsec. (b). Pub. L. 105–57, § 5(b)(1), substituted “authorized to take the following actions:” for “authorized—” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 105–57, § 5(b)(2), substituted “Enter” for “to enter”.
+Subsec. (b)(1). Pub. L. 105–57, § 5(b)(2), substituted “Enter” for “to enter”.
 
-Subsec. (b)(2). Pub. L. 105–57, § 5(b)(3), substituted “Accept” for “to accept” and substituted a period for “, and” at end.
+Subsec. (b)(2). Pub. L. 105–57, § 5(b)(3), substituted “Accept” for “to accept” and substituted a period for “, and” at end.
 
-Subsec. (b)(3). Pub. L. 105–57, § 5(b)(4), substituted “Acquire” for “to acquire”.
+Subsec. (b)(3). Pub. L. 105–57, § 5(b)(4), substituted “Acquire” for “to acquire”.
 
-Subsec. (b)(4), (5). Pub. L. 105–57, § 5(b)(5), added pars. (4) and (5).
+Subsec. (b)(4), (5). Pub. L. 105–57, § 5(b)(5), added pars. (4) and (5).
 
-Subsec. (c). Pub. L. 105–57, § 8(b), struck out at end “The provisions of this Act shall not be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate fish and resident wildlife under State law or regulations in any area within the System.”
+Subsec. (c). Pub. L. 105–57, § 8(b), struck out at end “The provisions of this Act shall not be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate fish and resident wildlife under State law or regulations in any area within the System.”
 
-Subsec. (d)(2). Pub. L. 105–57, § 3(b), substituted “Secretary” for “Secretary of the Interior” before “may not grant to any Federal” and before “pursuant to this paragraph”.
+Subsec. (d)(2). Pub. L. 105–57, § 3(b), substituted “Secretary” for “Secretary of the Interior” before “may not grant to any Federal” and before “pursuant to this paragraph”.
 
-Subsec. (d)(3), (4). Pub. L. 105–57, § 6, added pars. (3) and (4).
+Subsec. (d)(3), (4). Pub. L. 105–57, § 6, added pars. (3) and (4).
 
-Subsec. (e). Pub. L. 105–57, § 7(a), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsec. (e). Pub. L. 105–57, § 7(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-Subsec. (f). Pub. L. 105–57, § 7(a)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 105–57, § 7(a)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Pub. L. 105–57, § 3(b), substituted “Secretary” for “Secretary of the Interior” before “to enforce the provisions”.
+Pub. L. 105–57, § 3(b), substituted “Secretary” for “Secretary of the Interior” before “to enforce the provisions”.
 
-Subsec. (g). Pub. L. 105–57, § 7(a)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 105–57, § 7(a)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 105–57, § 7(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 105–57, § 7(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Pub. L. 105–57, § 3(b), substituted “Secretary” for “Secretary of the Interior”.
+Pub. L. 105–57, § 3(b), substituted “Secretary” for “Secretary of the Interior”.
 
-Subsecs. (i), (j). Pub. L. 105–57, § 7(a)(1), redesignated subsecs. (h) and (i) as (i) and (j), respectively.
+Subsecs. (i), (j). Pub. L. 105–57, § 7(a)(1), redesignated subsecs. (h) and (i) as (i) and (j), respectively.
 
-Subsecs. (k) to (*o*). Pub. L. 105–57, § 8(a), added subsecs. (k) to (*o*).
+Subsecs. (k) to (*o*). Pub. L. 105–57, § 8(a), added subsecs. (k) to (*o*).
 
 1988—Subsec. (e). Pub. L. 100–653 substituted “thereunder shall be fined under title 18 or imprisoned for not more than 1 year, or both” for “thereunder shall be fined not more than $500 or be imprisoned not more than six months, or both”.
 
 1987—Subsec. (f). Pub. L. 100–226 inserted at end “The Director of the United States Fish and Wildlife Service is authorized to utilize by agreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.”
 
-1978—Subsec. (d)(1)(A). Pub. L. 95–616, § 6, authorized the Secretary to find that the taking of any species of migratory birds in more than 40 percent of the area would be beneficial to the species.
+1978—Subsec. (d)(1)(A). Pub. L. 95–616, § 6, authorized the Secretary to find that the taking of any species of migratory birds in more than 40 percent of the area would be beneficial to the species.
 
-Subsec. (f). Pub. L. 95–616, § 3(f), substituted “disposed of by the Secretary, in accordance with law” for “disposed of by the court”.
+Subsec. (f). Pub. L. 95–616, § 3(f), substituted “disposed of by the Secretary, in accordance with law” for “disposed of by the court”.
 
 1976—Subsec. (a). Pub. L. 94–223 designated existing first sentence as par. (1), provided for administration of the System by the Secretary of the Interior through the United States Fish and Wildlife Service and inserted provision respecting continuance of programs relating to management of resources in refuge lands in Alaska, subject to direct supervision of the United States Fish and Wildlife Service; struck out second sentence providing that “Nothing in this Act shall restrict the authority of the Secretary to modify or revoke public land withdrawals affecting lands in the System as presently constituted, or as it may be constituted, whenever he determines that such action is consistent with the public interest.”; designated existing third sentence as par. (2), redesignated as subpars. (A) and (B) former clauses (1) and (2), redesignated as subpar. (B)(i) and (ii) former cl. (2)(A) and (B), substituted in subpar. (A) “with the approval of” for “after consultation with”, inserted in subpar. (B)(i) “or fair market value, whichever is greater;” and reenacted as second sentence of par. (2) former last sentence of subsec. (a); and added par. (3).
 
-Subsec. (b)(3). Pub. L. 94–215 substituted designations “(A)” and “(B)” for “(a)” and “(b)”, inserted in cl. (A) “, or for interests in acquired or public lands,” before “under his jurisdiction” and substituted in cl. (B) “he may prescribe” for “the Secretary may prescribe”.
+Subsec. (b)(3). Pub. L. 94–215 substituted designations “(A)” and “(B)” for “(a)” and “(b)”, inserted in cl. (A) “, or for interests in acquired or public lands,” before “under his jurisdiction” and substituted in cl. (B) “he may prescribe” for “the Secretary may prescribe”.
 
 1974—Subsec. (d). Pub. L. 93–509 designated existing provisions as par. (1)(A) and (B) and added par. (2).
 
-1973—Subsec. (c). Pub. L. 93–205 inserted “With the exception of endangered species and threatened species listed by the Secretary pursuant to section 1533 of this title in States wherein a cooperative agreement does not exist pursuant to section 1535(c) of this title” before “nothing in this Act shall be construed” and struck out “, including endangered species thereof,” before “on lands not within the System” in second sentence.
+1973—Subsec. (c). Pub. L. 93–205 inserted “With the exception of endangered species and threatened species listed by the Secretary pursuant to section 1533 of this title in States wherein a cooperative agreement does not exist pursuant to section 1535(c) of this title” before “nothing in this Act shall be construed” and struck out “, including endangered species thereof,” before “on lands not within the System” in second sentence.
 
 1968—Subsec. (a). Pub. L. 90–404 inserted provisions that no acquired lands which are or become a part of the National Wildlife Refuge System may be transferred or otherwise disposed of except under the specified conditions, and provisions that the Secretary pay into the migratory bird conservation fund the proceeds of any such transfer or disposal.
 
@@ -1723,7 +1723,7 @@ Subsec. (b)(3). Pub. L. 94–215 substituted designations “(A)” and “(B)�
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–509, § 3, Dec. 3, 1974, 88 Stat. 1603, provided that: “Section 4 (d)(2) of the Act of October 15, 1966 (as added by this Act) [subsec. (d)(2) of this section], shall apply with respect to any right-of-way, easement, or reservation granted by the Secretary of the Interior on or after the date of the enactment of this Act [Dec. 3, 1974], including any right-of-way, easement, or reservation granted on or after such date in connection with any use permitted by him pursuant to section 4(d)(2) of the Act of October 15, 1966 [now subsec. (d)(1)(B) of this section] (as in effect before the date of the enactment of this Act).”
+Pub. L. 93–509, § 3, Dec. 3, 1974, 88 Stat. 1603, provided that: “Section 4 (d)(2) of the Act of October 15, 1966 (as added by this Act) [subsec. (d)(2) of this section], shall apply with respect to any right-of-way, easement, or reservation granted by the Secretary of the Interior on or after the date of the enactment of this Act [Dec. 3, 1974], including any right-of-way, easement, or reservation granted on or after such date in connection with any use permitted by him pursuant to section 4(d)(2) of the Act of October 15, 1966 [now subsec. (d)(1)(B) of this section] (as in effect before the date of the enactment of this Act).”
 
 **Effective Date of 1973 Amendment**
 
@@ -1731,31 +1731,31 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–404, § 2, July 18, 1968, 82 Stat. 359, provided that: “The amendments made by the first section of this Act [amending subsec. (a) of this section] shall apply only with respect to transfers and disposals of land initiated and completed after the date of their enactment [July 18, 1968].”
+Pub. L. 90–404, § 2, July 18, 1968, 82 Stat. 359, provided that: “The amendments made by the first section of this Act [amending subsec. (a) of this section] shall apply only with respect to transfers and disposals of land initiated and completed after the date of their enactment [July 18, 1968].”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–296, § 1, Dec. 27, 2022, 136 Stat. 4374, provided that: “This Act [amending provisions listed in a table of National Wildlife Refuges set out under this section] may be cited as the ‘Red River National Wildlife Refuge Boundary Modification Act’.”
+Pub. L. 117–296, § 1, Dec. 27, 2022, 136 Stat. 4374, provided that: “This Act [amending provisions listed in a table of National Wildlife Refuges set out under this section] may be cited as the ‘Red River National Wildlife Refuge Boundary Modification Act’.”
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–101, § 1, Dec. 18, 2015, 129 Stat. 2203, provided that: “This Act [enacting provisions listed in a table of National Memorials set out under section 320301 of Title 54, National Park Service and Related Programs, and amending provisions listed in a table of National Wildlife Refuges set out under this section] may be cited as the ‘Billy Frank Jr. Tell Your Story Act’.”
+Pub. L. 114–101, § 1, Dec. 18, 2015, 129 Stat. 2203, provided that: “This Act [enacting provisions listed in a table of National Memorials set out under section 320301 of Title 54, National Park Service and Related Programs, and amending provisions listed in a table of National Wildlife Refuges set out under this section] may be cited as the ‘Billy Frank Jr. Tell Your Story Act’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–312, title II, § 201, Oct. 30, 1998, 112 Stat. 2957, provided that: “This title [amending this section, sections 721 and 722 of this title, and section 564w–1 of Title 25, Indians, enacting provisions set out as a note under section 722 of this title, and amending provisions listed in a table of National Wildlife Refuges set out under this section] may be cited as the ‘National Wildlife Refuge System Improvement Act of 1998’.”
+Pub. L. 105–312, title II, § 201, Oct. 30, 1998, 112 Stat. 2957, provided that: “This title [amending this section, sections 721 and 722 of this title, and section 564w–1 of Title 25, Indians, enacting provisions set out as a note under section 722 of this title, and amending provisions listed in a table of National Wildlife Refuges set out under this section] may be cited as the ‘National Wildlife Refuge System Improvement Act of 1998’.”
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–57, § 1(a), Oct. 9, 1997, 111 Stat. 1252, provided that: “This Act [amending this section and section 668ee of this title and enacting provisions set out as notes under this section] may be cited as the ‘National Wildlife Refuge System Improvement Act of 1997’.”
+Pub. L. 105–57, § 1(a), Oct. 9, 1997, 111 Stat. 1252, provided that: “This Act [amending this section and section 668ee of this title and enacting provisions set out as notes under this section] may be cited as the ‘National Wildlife Refuge System Improvement Act of 1997’.”
 
 **Short Title of 1974 Amendment**
 
-Pub. L. 93–509, § 1, Dec. 3, 1974, 88 Stat. 1603, provided: “That this Act [amending this section and section 715s of this title, and enacting provisions set out as notes under this section] may be cited as the ‘National Wildlife Refuge System Administration Act Amendments of 1974’.”
+Pub. L. 93–509, § 1, Dec. 3, 1974, 88 Stat. 1603, provided: “That this Act [amending this section and section 715s of this title, and enacting provisions set out as notes under this section] may be cited as the ‘National Wildlife Refuge System Administration Act Amendments of 1974’.”
 
 **Short Title**
 
-Pub. L. 91–135, § 12(f), Dec. 5, 1969, 83 Stat. 283, provided that: “The provisions of sections 4 and 5 of the Act of October 15, 1966 (80 Stat. 929; 16 U.S.C. 668dd–668ee), as amended, shall hereinafter be cited as the ‘National Wildlife Refuge System Administration Act of 1966’.”
+Pub. L. 91–135, § 12(f), Dec. 5, 1969, 83 Stat. 283, provided that: “The provisions of sections 4 and 5 of the Act of October 15, 1966 (80 Stat. 929; 16 U.S.C. 668dd–668ee), as amended, shall hereinafter be cited as the ‘National Wildlife Refuge System Administration Act of 1966’.”
 
 **National Wildlife Refuge System Centennial**
 
@@ -1953,7 +1953,7 @@ Pub. L. 106–408, title III, Nov. 1, 2000, 114 Stat. 1782, provided that:
 
 **Congressional Findings**
 
-Pub. L. 105–57, § 2, Oct. 9, 1997, 111 Stat. 1252, provided that:
+Pub. L. 105–57, § 2, Oct. 9, 1997, 111 Stat. 1252, provided that:
 
 > “The Congress finds the following:
 
@@ -1975,7 +1975,7 @@ Pub. L. 105–57, § 2, Oct. 9, 1997, 111 Stat. 1252, provided that:
 
 **Statutory Construction With Respect to Alaska**
 
-Pub. L. 105–57, § 9, Oct. 9, 1997, 111 Stat. 1260, provided that:
+Pub. L. 105–57, § 9, Oct. 9, 1997, 111 Stat. 1260, provided that:
 
 > **“(a) In General.—** Nothing in this Act [see Short Title of 1997 Amendment note above] is intended to affect—
 
@@ -1989,7 +1989,7 @@ Pub. L. 105–57, § 9, Oct. 9, 1997, 111 Stat. 1260, provided that:
 
 **Land Transfer and Conveyance, Pease Air Force Base, New Hampshire**
 
-Pub. L. 102–154, title III, § 319, Nov. 13, 1991, 105 Stat. 1036, provided that:
+Pub. L. 102–154, title III, § 319, Nov. 13, 1991, 105 Stat. 1036, provided that:
 
 > **“(a) Transfer by the Air Force.—** Notwithstanding any other provision of law, the Secretary of the Air Force shall transfer to the Department of the Interior a parcel of real property located west of McIntyre Road at the site of former Pease Air Force Base, New Hampshire: *Provided*, That the Secretary of the Air Force shall retain responsibility for any hazardous substances which may be found on the property so transferred.
 
@@ -2021,113 +2021,113 @@ Pub. L. 102–154, title III, § 319, Nov. 13, 1991, 105 Stat. 1036, provided 
 <tr><th>National Wildlife Refuges</th></tr>
 <tr><th></th></tr>
 <tr><td>Provisions relating to national wildlife refuges were contained in the following acts and executive documents:</td></tr>
-<tr><td>Alaska Maritime National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, § 303(1), Dec. 2, 1980, 94 Stat. 2389; Pub. L. 101–622, Nov. 21, 1990, 104 Stat. 3347; Pub. L. 102–489, Oct. 24, 1992, 106 Stat. 3138; Pub. L. 106–554, § 1(a)(4) [div. A, § 302], Dec. 21, 2000, 114 Stat. 2763, 2763A–180; Pub. L. 107–239, Oct. 11, 2002, 116 Stat. 1488; Pub. L. 107–314, div. B, title XXVIII, § 2853, Dec. 2, 2002, 116 Stat. 2727.</td></tr>
-<tr><td>Alaska Peninsula National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(1), Dec. 2, 1980, 94 Stat. 2385; Pub. L. 111–11, title VI, §§ 6401–6406, Mar. 30, 2009, 123 Stat. 1177–1182.</td></tr>
-<tr><td>Amagansett National Wildlife Refuge, New York.—Pub. L. 104–148, § 1, May 24, 1996, 110 Stat. 1378.</td></tr>
-<tr><td>Aransas National Wildlife Refuge, Myrtle Foester Whitmire Division, Texas.—Pub. L. 102–226, § 1, Dec. 11, 1991, 105 Stat. 1685.</td></tr>
-<tr><td>Arctic National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, § 303(2), Dec. 2, 1980, 94 Stat. 2390; Pub. L. 115–97, title II, § 20001(b)(2)(B), Dec. 22, 2017, 131 Stat. 2236.</td></tr>
+<tr><td>Alaska Maritime National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, § 303(1), Dec. 2, 1980, 94 Stat. 2389; Pub. L. 101–622, Nov. 21, 1990, 104 Stat. 3347; Pub. L. 102–489, Oct. 24, 1992, 106 Stat. 3138; Pub. L. 106–554, § 1(a)(4) [div. A, § 302], Dec. 21, 2000, 114 Stat. 2763, 2763A–180; Pub. L. 107–239, Oct. 11, 2002, 116 Stat. 1488; Pub. L. 107–314, div. B, title XXVIII, § 2853, Dec. 2, 2002, 116 Stat. 2727.</td></tr>
+<tr><td>Alaska Peninsula National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(1), Dec. 2, 1980, 94 Stat. 2385; Pub. L. 111–11, title VI, §§ 6401–6406, Mar. 30, 2009, 123 Stat. 1177–1182.</td></tr>
+<tr><td>Amagansett National Wildlife Refuge, New York.—Pub. L. 104–148, § 1, May 24, 1996, 110 Stat. 1378.</td></tr>
+<tr><td>Aransas National Wildlife Refuge, Myrtle Foester Whitmire Division, Texas.—Pub. L. 102–226, § 1, Dec. 11, 1991, 105 Stat. 1685.</td></tr>
+<tr><td>Arctic National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, § 303(2), Dec. 2, 1980, 94 Stat. 2390; Pub. L. 115–97, title II, § 20001(b)(2)(B), Dec. 22, 2017, 131 Stat. 2236.</td></tr>
 <tr><td>Arthur R. Marshall Loxahatchee National Wildlife Refuge, Florida.—Pub. L. 99–615, Nov. 6, 1986, 100 Stat. 3484.</td></tr>
-<tr><td>Atchafalaya National Wildlife Refuge, Louisiana.—Pub. L. 98–548, title III, Oct. 26, 1984, 98 Stat. 2776; Pub. L. 99–625, § 2, Nov. 7, 1986, 100 Stat. 3502.</td></tr>
-<tr><td>Baca National Wildlife Refuge, Colorado.—Pub. L. 106–530, § 6, Nov. 22, 2000, 114 Stat. 2530.</td></tr>
-<tr><td>Bandon Marsh National Wildlife Refuge, Oregon.—Pub. L. 97–137, title I, Dec. 29, 1981, 95 Stat. 1709; Pub. L. 105–321, § 5, Oct. 30, 1998, 112 Stat. 3025.</td></tr>
-<tr><td>Bayou Cocodrie National Wildlife Refuge, Louisiana.—Pub. L. 101–593, title I, § 108, Nov. 16, 1990, 104 Stat. 2956.</td></tr>
-<tr><td>Bayou Sauvage Urban National Wildlife Refuge, Louisiana.—Pub. L. 99–645, title V, § 502, Nov. 10, 1986, 100 Stat. 3590; Pub. L. 104–253, § 2, Oct. 9, 1996, 110 Stat. 3167.</td></tr>
-<tr><td>Becharof National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(2), Dec. 2, 1980, 94 Stat. 2385.</td></tr>
-<tr><td>Billy Frank Jr. Nisqually National Wildlife Refuge (former Nisqually National Wildlife Refuge), Washington.—Pub. L. 113–76, div. G, title I, § 126, Jan. 17, 2014, 128 Stat. 315; Pub. L. 114–101, § 2, Dec. 18, 2015, 129 Stat. 2203.</td></tr>
-<tr><td>Bitter Lake National Wildlife Refuge, New Mexico.—Pub. L. 108–7, div. F, title I, § 139, Feb. 20, 2003, 117 Stat. 244.</td></tr>
+<tr><td>Atchafalaya National Wildlife Refuge, Louisiana.—Pub. L. 98–548, title III, Oct. 26, 1984, 98 Stat. 2776; Pub. L. 99–625, § 2, Nov. 7, 1986, 100 Stat. 3502.</td></tr>
+<tr><td>Baca National Wildlife Refuge, Colorado.—Pub. L. 106–530, § 6, Nov. 22, 2000, 114 Stat. 2530.</td></tr>
+<tr><td>Bandon Marsh National Wildlife Refuge, Oregon.—Pub. L. 97–137, title I, Dec. 29, 1981, 95 Stat. 1709; Pub. L. 105–321, § 5, Oct. 30, 1998, 112 Stat. 3025.</td></tr>
+<tr><td>Bayou Cocodrie National Wildlife Refuge, Louisiana.—Pub. L. 101–593, title I, § 108, Nov. 16, 1990, 104 Stat. 2956.</td></tr>
+<tr><td>Bayou Sauvage Urban National Wildlife Refuge, Louisiana.—Pub. L. 99–645, title V, § 502, Nov. 10, 1986, 100 Stat. 3590; Pub. L. 104–253, § 2, Oct. 9, 1996, 110 Stat. 3167.</td></tr>
+<tr><td>Becharof National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(2), Dec. 2, 1980, 94 Stat. 2385.</td></tr>
+<tr><td>Billy Frank Jr. Nisqually National Wildlife Refuge (former Nisqually National Wildlife Refuge), Washington.—Pub. L. 113–76, div. G, title I, § 126, Jan. 17, 2014, 128 Stat. 315; Pub. L. 114–101, § 2, Dec. 18, 2015, 129 Stat. 2203.</td></tr>
+<tr><td>Bitter Lake National Wildlife Refuge, New Mexico.—Pub. L. 108–7, div. F, title I, § 139, Feb. 20, 2003, 117 Stat. 244.</td></tr>
 <tr><td>Blackwater National Wildlife Refuge, Maryland.—Pub. L. 108–131, Nov. 22, 2003, 117 Stat. 1372.</td></tr>
-<tr><td>Bogue Chitto National Wildlife Refuge, Louisiana and Mississippi.—Pub. L. 96–288, June 28, 1980, 94 Stat. 603; Pub. L. 99–191, § 3, Dec. 19, 1985, 99 Stat. 1327; Pub. L. 101–233, § 17, Dec. 13, 1989, 103 Stat. 1978.</td></tr>
-<tr><td>Bon Secour National Wildlife Refuge, Alabama.—Pub. L. 96–267, June 9, 1980, 94 Stat. 483; Pub. L. 99–191, § 1, Dec. 19, 1985, 99 Stat. 1327.</td></tr>
-<tr><td>Cache River National Wildlife Refuge, Arkansas.—Pub. L. 102–584, §§ 1–5, Nov. 2, 1992, 106 Stat. 4937–4941.</td></tr>
-<tr><td>Cahaba River National Wildlife Refuge, Alabama.—Pub. L. 106–331, Oct. 19, 2000, 114 Stat. 1303; Pub. L. 106–369, § 9(b), Oct. 27, 2000, 114 Stat. 1419; Pub. L. 109–363, title V, Oct. 17, 2006, 120 Stat. 2078.</td></tr>
-<tr><td>Cape Romain National Wildlife Refuge, South Carolina.—Pub. L. 107–63, title I, § 129, Nov. 5, 2001, 115 Stat. 442.</td></tr>
-<tr><td>Cat Island National Wildlife Refuge, Louisiana.—Pub. L. 106–369, §§ 1–7, Oct. 27, 2000, 114 Stat. 1417–1419.</td></tr>
-<tr><td>Charles M. Russell National Wildlife Refuge, Montana.—Pub. L. 106–541, title VIII, Dec. 11, 2000, 114 Stat. 2699; Pub. L. 111–85, title I, § 123, Oct. 28, 2009, 123 Stat. 2852.</td></tr>
+<tr><td>Bogue Chitto National Wildlife Refuge, Louisiana and Mississippi.—Pub. L. 96–288, June 28, 1980, 94 Stat. 603; Pub. L. 99–191, § 3, Dec. 19, 1985, 99 Stat. 1327; Pub. L. 101–233, § 17, Dec. 13, 1989, 103 Stat. 1978.</td></tr>
+<tr><td>Bon Secour National Wildlife Refuge, Alabama.—Pub. L. 96–267, June 9, 1980, 94 Stat. 483; Pub. L. 99–191, § 1, Dec. 19, 1985, 99 Stat. 1327.</td></tr>
+<tr><td>Cache River National Wildlife Refuge, Arkansas.—Pub. L. 102–584, §§ 1–5, Nov. 2, 1992, 106 Stat. 4937–4941.</td></tr>
+<tr><td>Cahaba River National Wildlife Refuge, Alabama.—Pub. L. 106–331, Oct. 19, 2000, 114 Stat. 1303; Pub. L. 106–369, § 9(b), Oct. 27, 2000, 114 Stat. 1419; Pub. L. 109–363, title V, Oct. 17, 2006, 120 Stat. 2078.</td></tr>
+<tr><td>Cape Romain National Wildlife Refuge, South Carolina.—Pub. L. 107–63, title I, § 129, Nov. 5, 2001, 115 Stat. 442.</td></tr>
+<tr><td>Cat Island National Wildlife Refuge, Louisiana.—Pub. L. 106–369, §§ 1–7, Oct. 27, 2000, 114 Stat. 1417–1419.</td></tr>
+<tr><td>Charles M. Russell National Wildlife Refuge, Montana.—Pub. L. 106–541, title VIII, Dec. 11, 2000, 114 Stat. 2699; Pub. L. 111–85, title I, § 123, Oct. 28, 2009, 123 Stat. 2852.</td></tr>
 <tr><td>Cibola National Wildlife Refuge, California.—Pub. L. 109–127, Dec. 7, 2005, 119 Stat. 2548.</td></tr>
-<tr><td>Clarks River National Wildlife Refuge, Kentucky.—Pub. L. 104–208, div. A, title I, § 101(d) [title I], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185.</td></tr>
-<tr><td>Columbia National Wildlife Refuge, Washington.—Pub. L. 106–291, title I, § 138, Oct. 11, 2000, 114 Stat. 949.</td></tr>
+<tr><td>Clarks River National Wildlife Refuge, Kentucky.—Pub. L. 104–208, div. A, title I, § 101(d) [title I], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185.</td></tr>
+<tr><td>Columbia National Wildlife Refuge, Washington.—Pub. L. 106–291, title I, § 138, Oct. 11, 2000, 114 Stat. 949.</td></tr>
 <tr><td>Congressman Lester Wolff Oyster Bay National Wildlife Refuge, New York.—Pub. L. 116–110, Jan. 27, 2020, 134 Stat. 6.</td></tr>
-<tr><td>Cossatot National Wildlife Refuge, Arkansas.—Pub. L. 104–333, div. I, title III, § 305(h), Nov. 12, 1996, 110 Stat. 4130.</td></tr>
-<tr><td>Desert National Wildlife Range, Nevada.—Pub. L. 107–282, title III, § 301, Nov. 6, 2002, 116 Stat. 2006; Pub. L. 108–424, title VI, § 601, Nov. 30, 2004, 118 Stat. 2419.</td></tr>
+<tr><td>Cossatot National Wildlife Refuge, Arkansas.—Pub. L. 104–333, div. I, title III, § 305(h), Nov. 12, 1996, 110 Stat. 4130.</td></tr>
+<tr><td>Desert National Wildlife Range, Nevada.—Pub. L. 107–282, title III, § 301, Nov. 6, 2002, 116 Stat. 2006; Pub. L. 108–424, title VI, § 601, Nov. 30, 2004, 118 Stat. 2419.</td></tr>
 <tr><td>Detroit River International Wildlife Refuge (former Wyandotte National Wildlife Refuge), Michigan.—Pub. L. 87–119, Aug. 3, 1961, 75 Stat. 243; Pub. L. 107–91, Dec. 21, 2001, 115 Stat. 894; Pub. L. 108–23, May 19, 2003, 117 Stat. 704.</td></tr>
-<tr><td>Don Edwards San Francisco Bay National Wildlife Refuge, California.—Pub. L. 92–326, June 30, 1972, 86 Stat. 391; Pub. L. 96–290, § 1, June 28, 1980, 94 Stat. 607; Pub. L. 100–556, title II, Oct. 28, 1988, 102 Stat. 2780; Pub. L. 104–78, § 1, Dec. 28, 1995, 109 Stat. 790.</td></tr>
+<tr><td>Don Edwards San Francisco Bay National Wildlife Refuge, California.—Pub. L. 92–326, June 30, 1972, 86 Stat. 391; Pub. L. 96–290, § 1, June 28, 1980, 94 Stat. 607; Pub. L. 100–556, title II, Oct. 28, 1988, 102 Stat. 2780; Pub. L. 104–78, § 1, Dec. 28, 1995, 109 Stat. 790.</td></tr>
 <tr><td>Edwin B. Forsythe National Wildlife Refuge, New Jersey.—Pub. L. 98–293, May 22, 1984, 98 Stat. 207.</td></tr>
 <tr><td>Egmont Key National Wildlife Refuge, Florida.—Pub. L. 93–341, July 10, 1974, 88 Stat. 295.</td></tr>
-<tr><td>Elizabeth Hartwell Mason Neck National Wildlife Refuge (former Mason Neck National Wildlife Refuge), Virginia.—Pub. L. 106–291, title I, § 120, Oct. 11, 2000, 114 Stat. 944; Pub. L. 109–269, § 1, Aug. 12, 2006, 120 Stat. 682.</td></tr>
-<tr><td>Ernest F. Hollings ACE Basin National Wildlife Refuge, South Carolina.—Pub. L. 108–447, div. E, title I, § 137, Dec. 8, 2004, 118 Stat. 3068.</td></tr>
-<tr><td>Flattery Rocks National Wildlife Refuge, Washington.—Ex. Ord. No. 703, Oct. 23, 1907; Proc. No. 2416, July 25, 1940, 54 Stat. 2717; Pub. L. 100–226, § 3, Dec. 31, 1987, 101 Stat. 1550.</td></tr>
+<tr><td>Elizabeth Hartwell Mason Neck National Wildlife Refuge (former Mason Neck National Wildlife Refuge), Virginia.—Pub. L. 106–291, title I, § 120, Oct. 11, 2000, 114 Stat. 944; Pub. L. 109–269, § 1, Aug. 12, 2006, 120 Stat. 682.</td></tr>
+<tr><td>Ernest F. Hollings ACE Basin National Wildlife Refuge, South Carolina.—Pub. L. 108–447, div. E, title I, § 137, Dec. 8, 2004, 118 Stat. 3068.</td></tr>
+<tr><td>Flattery Rocks National Wildlife Refuge, Washington.—Ex. Ord. No. 703, Oct. 23, 1907; Proc. No. 2416, July 25, 1940, 54 Stat. 2717; Pub. L. 100–226, § 3, Dec. 31, 1987, 101 Stat. 1550.</td></tr>
 <tr><td>Grays Harbor National Wildlife Refuge, Washington.—Pub. L. 100–406, Aug. 19, 1988, 102 Stat. 1041.</td></tr>
 <tr><td>Great Dismal Swamp National Wildlife Refuge, Virginia and North Carolina.—Pub. L. 93–402, Aug. 30, 1974, 88 Stat. 801.</td></tr>
-<tr><td>Hart Mountain National Antelope Refuge, Oregon.—Pub. L. 105–321, § 4(a)–(d), Oct. 30, 1998, 112 Stat. 3023.</td></tr>
+<tr><td>Hart Mountain National Antelope Refuge, Oregon.—Pub. L. 105–321, § 4(a)–(d), Oct. 30, 1998, 112 Stat. 3023.</td></tr>
 <tr><td>Hobe Sound National Wildlife Refuge (see Nathaniel P. Reed Hobe Sound National Wildlife Refuge).</td></tr>
-<tr><td>Holt Collier National Wildlife Refuge (former Bogue Phalia Unit of the Yazoo National Wildlife Refuge), Mississippi.—Pub. L. 108–199, div. H, § 145(g)(1), Jan. 23, 2004, 118 Stat. 444.</td></tr>
-<tr><td>Humboldt Bay National Wildlife Refuge, California.—Pub. L. 96–290, § 2, June 28, 1980, 94 Stat. 607; Pub. L. 107–130, Jan. 16, 2002, 115 Stat. 2409.</td></tr>
-<tr><td>Innoko National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(3), Dec. 2, 1980, 94 Stat. 2386.</td></tr>
-<tr><td>Izembek National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 303(3), Dec. 2, 1980, 94 Stat. 2390; Pub. L. 111–11, title VI, §§ 6401–6406, Mar. 30, 2009, 123 Stat. 1177–1182.</td></tr>
+<tr><td>Holt Collier National Wildlife Refuge (former Bogue Phalia Unit of the Yazoo National Wildlife Refuge), Mississippi.—Pub. L. 108–199, div. H, § 145(g)(1), Jan. 23, 2004, 118 Stat. 444.</td></tr>
+<tr><td>Humboldt Bay National Wildlife Refuge, California.—Pub. L. 96–290, § 2, June 28, 1980, 94 Stat. 607; Pub. L. 107–130, Jan. 16, 2002, 115 Stat. 2409.</td></tr>
+<tr><td>Innoko National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(3), Dec. 2, 1980, 94 Stat. 2386.</td></tr>
+<tr><td>Izembek National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 303(3), Dec. 2, 1980, 94 Stat. 2390; Pub. L. 111–11, title VI, §§ 6401–6406, Mar. 30, 2009, 123 Stat. 1177–1182.</td></tr>
 <tr><td>James Campbell National Wildlife Refuge, Hawaii.—Pub. L. 109–225, May 25, 2006, 120 Stat. 378.</td></tr>
 <tr><td>Jocelyn Nungaray National Wildlife Refuge, Texas.—Ex. Ord. No. 14229, Mar. 4, 2025, 90 F.R. 11585; Pub. L. 119–30, July 24, 2025, 139 Stat. 473.</td></tr>
-<tr><td>John H. Chafee National Wildlife Refuge (former Pettaquamscutt Cove National Wildlife Refuge), Rhode Island.—Pub. L. 100–610, title II, Nov. 5, 1988, 102 Stat. 3176; Pub. L. 102–212, title II, § 202, Dec. 11, 1991, 105 Stat. 1660; Pub. L. 104–212, title II, Oct. 1, 1996, 110 Stat. 3014; Pub. L. 106–53, title V, § 565(c), Aug. 17, 1999, 113 Stat. 367.</td></tr>
-<tr><td>John Heinz National Wildlife Refuge at Tinicum (former Tinicum National Environmental Center), Pennsylvania.—Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 995; Pub. L. 103–340, § 7, formerly § 6, Oct. 6, 1994, 108 Stat. 3120, renumbered § 7, Pub. L. 106–369, § 9(a), Oct. 27, 2000, 114 Stat. 1419; Pub. L. 109–166, § 4, Jan. 10, 2006, 119 Stat. 3577.</td></tr>
-<tr><td>Kanuti National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(4), Dec. 2, 1980, 94 Stat. 2386.</td></tr>
-<tr><td>Kenai National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, § 303(4), Dec. 2, 1980, 94 Stat. 2391; Pub. L. 104–333, div. I, title III, § 311(d)(3), Nov. 12, 1996, 110 Stat. 4142.</td></tr>
+<tr><td>John H. Chafee National Wildlife Refuge (former Pettaquamscutt Cove National Wildlife Refuge), Rhode Island.—Pub. L. 100–610, title II, Nov. 5, 1988, 102 Stat. 3176; Pub. L. 102–212, title II, § 202, Dec. 11, 1991, 105 Stat. 1660; Pub. L. 104–212, title II, Oct. 1, 1996, 110 Stat. 3014; Pub. L. 106–53, title V, § 565(c), Aug. 17, 1999, 113 Stat. 367.</td></tr>
+<tr><td>John Heinz National Wildlife Refuge at Tinicum (former Tinicum National Environmental Center), Pennsylvania.—Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 995; Pub. L. 103–340, § 7, formerly § 6, Oct. 6, 1994, 108 Stat. 3120, renumbered § 7, Pub. L. 106–369, § 9(a), Oct. 27, 2000, 114 Stat. 1419; Pub. L. 109–166, § 4, Jan. 10, 2006, 119 Stat. 3577.</td></tr>
+<tr><td>Kanuti National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(4), Dec. 2, 1980, 94 Stat. 2386.</td></tr>
+<tr><td>Kenai National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, § 303(4), Dec. 2, 1980, 94 Stat. 2391; Pub. L. 104–333, div. I, title III, § 311(d)(3), Nov. 12, 1996, 110 Stat. 4142.</td></tr>
 <tr><td>Kilauea Point National Wildlife Refuge, Hawaii.—Pub. L. 108–481, Dec. 23, 2004, 118 Stat. 3910.</td></tr>
-<tr><td>Klamath Marsh National Wildlife Refuge, Oregon.—Act Aug. 13, 1954, ch. 732, § 28, as added Pub. L. 85–731, § 1, Aug. 23, 1958, 72 Stat. 816; amended Pub. L. 86–247, Sept. 9, 1959, 73 Stat. 477; Pub. L. 105–312, title II, § 205, Oct. 30, 1998, 112 Stat. 2957; Pub. L. 105–321, § 4(e), Oct. 30, 1998, 112 Stat. 3025.</td></tr>
-<tr><td>Kodiak National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 303(5), Dec. 2, 1980, 94 Stat. 2391.</td></tr>
-<tr><td>Koyukuk National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(5), Dec. 2, 1980, 94 Stat. 2386.</td></tr>
+<tr><td>Klamath Marsh National Wildlife Refuge, Oregon.—Act Aug. 13, 1954, ch. 732, § 28, as added Pub. L. 85–731, § 1, Aug. 23, 1958, 72 Stat. 816; amended Pub. L. 86–247, Sept. 9, 1959, 73 Stat. 477; Pub. L. 105–312, title II, § 205, Oct. 30, 1998, 112 Stat. 2957; Pub. L. 105–321, § 4(e), Oct. 30, 1998, 112 Stat. 3025.</td></tr>
+<tr><td>Kodiak National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 303(5), Dec. 2, 1980, 94 Stat. 2391.</td></tr>
+<tr><td>Koyukuk National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(5), Dec. 2, 1980, 94 Stat. 2386.</td></tr>
 <tr><td>Mason Neck National Wildlife Refuge, Virginia (see Elizabeth Hartwell Mason Neck National Wildlife Refuge).</td></tr>
-<tr><td>McNary National Wildlife Refuge, Washington.—Pub. L. 106–53, title V, § 563(l), Aug. 17, 1999, 113 Stat. 365; Pub. L. 110–114, title III, § 3164, Nov. 8, 2007, 121 Stat. 1151.</td></tr>
-<tr><td>Midway Atoll National Wildlife Refuge, Midway Islands.—Ex. Ord. No. 13022, § 3(a), Oct. 31, 1996, 61 F.R. 56875; Pub. L. 107–206, title I, § 703, Aug. 2, 2002, 116 Stat. 864.</td></tr>
+<tr><td>McNary National Wildlife Refuge, Washington.—Pub. L. 106–53, title V, § 563(l), Aug. 17, 1999, 113 Stat. 365; Pub. L. 110–114, title III, § 3164, Nov. 8, 2007, 121 Stat. 1151.</td></tr>
+<tr><td>Midway Atoll National Wildlife Refuge, Midway Islands.—Ex. Ord. No. 13022, § 3(a), Oct. 31, 1996, 61 F.R. 56875; Pub. L. 107–206, title I, § 703, Aug. 2, 2002, 116 Stat. 864.</td></tr>
 <tr><td>Minnesota Valley National Wildlife Refuge, Minnesota.—Pub. L. 94–466, Oct. 8, 1976, 90 Stat. 1992.</td></tr>
-<tr><td>Mountain Longleaf National Wildlife Refuge, Alabama.—Pub. L. 107–314, div. B, title XXVIII, § 2821, Dec. 2, 2002, 116 Stat. 2710.</td></tr>
-<tr><td>Nathaniel P. Reed Hobe Sound National Wildlife Refuge (former Hobe Sound National Wildlife Refuge), Florida.—Pub. L. 115–282, title VIII, § 837, Dec. 4, 2018, 132 Stat. 4321; Pub. L. 115–432, Jan. 10, 2019, 132 Stat. 5522.</td></tr>
-<tr><td>Neal Smith National Wildlife Refuge, Iowa.—Pub. L. 105–83, title III, § 341, Nov. 14, 1997, 111 Stat. 1604.</td></tr>
-<tr><td>Ninigret National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, § 1214(g), (i), June 9, 1998, 112 Stat. 206, 207; Pub. L. 105–206, title IX, § 9006(d), July 22, 1998, 112 Stat. 849.</td></tr>
+<tr><td>Mountain Longleaf National Wildlife Refuge, Alabama.—Pub. L. 107–314, div. B, title XXVIII, § 2821, Dec. 2, 2002, 116 Stat. 2710.</td></tr>
+<tr><td>Nathaniel P. Reed Hobe Sound National Wildlife Refuge (former Hobe Sound National Wildlife Refuge), Florida.—Pub. L. 115–282, title VIII, § 837, Dec. 4, 2018, 132 Stat. 4321; Pub. L. 115–432, Jan. 10, 2019, 132 Stat. 5522.</td></tr>
+<tr><td>Neal Smith National Wildlife Refuge, Iowa.—Pub. L. 105–83, title III, § 341, Nov. 14, 1997, 111 Stat. 1604.</td></tr>
+<tr><td>Ninigret National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, § 1214(g), (i), June 9, 1998, 112 Stat. 206, 207; Pub. L. 105–206, title IX, § 9006(d), July 22, 1998, 112 Stat. 849.</td></tr>
 <tr><td>Nisqually National Wildlife Refuge, Washington (see Billy Frank Jr. Nisqually National Wildlife Refuge).</td></tr>
-<tr><td>North Platte National Wildlife Refuge, Nebraska.—Pub. L. 104–212, title I, § 101, Oct. 1, 1996, 110 Stat. 3014.</td></tr>
-<tr><td>Nowitna National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(6), Dec. 2, 1980, 94 Stat. 2387.</td></tr>
-<tr><td>Oahu National Wildlife Refuge Complex, Hawaii.—Pub. L. 104–209, § 1, Oct. 1, 1996, 110 Stat. 3010.</td></tr>
+<tr><td>North Platte National Wildlife Refuge, Nebraska.—Pub. L. 104–212, title I, § 101, Oct. 1, 1996, 110 Stat. 3014.</td></tr>
+<tr><td>Nowitna National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(6), Dec. 2, 1980, 94 Stat. 2387.</td></tr>
+<tr><td>Oahu National Wildlife Refuge Complex, Hawaii.—Pub. L. 104–209, § 1, Oct. 1, 1996, 110 Stat. 3010.</td></tr>
 <tr><td>Ottawa National Wildlife Refuge Complex, Ohio.—Pub. L. 108–23, May 19, 2003, 117 Stat. 704.</td></tr>
-<tr><td>Oxbow National Wildlife Refuge, Massachusetts.—Pub. L. 103–337, div. B, title XXVIII, § 2846, Oct. 5, 1994, 108 Stat. 3071; Pub. L. 104–106, div. B, title XXVIII, § 2853, Feb. 10, 1996, 110 Stat. 567.</td></tr>
+<tr><td>Oxbow National Wildlife Refuge, Massachusetts.—Pub. L. 103–337, div. B, title XXVIII, § 2846, Oct. 5, 1994, 108 Stat. 3071; Pub. L. 104–106, div. B, title XXVIII, § 2853, Feb. 10, 1996, 110 Stat. 567.</td></tr>
 <tr><td>Pettaquamscutt Cove National Wildlife Refuge, Rhode Island (see John H. Chafee National Wildlife Refuge).</td></tr>
 <tr><td>Pocosin Lakes National Wildlife Refuge, North Carolina.—Pub. L. 103–232, title III, Apr. 11, 1994, 108 Stat. 339.</td></tr>
 <tr><td>Protection Island National Wildlife Refuge, Washington.—Pub. L. 97–333, Oct. 15, 1982, 96 Stat. 1623.</td></tr>
-<tr><td>Quillayute Needles National Wildlife Refuge, Washington.—Ex. Ord. No. 705, Oct. 23, 1907; Proc. No. 2416, July 25, 1940, 54 Stat. 2717; Pub. L. 100–226, § 3, Dec. 31, 1987, 101 Stat. 1550.</td></tr>
-<tr><td>Red River National Wildlife Refuge, Louisiana.—Pub. L. 106–300, Oct. 13, 2000, 114 Stat. 1055; Pub. L. 106–369, § 9(c), Oct. 27, 2000, 114 Stat. 1419; Pub. L. 117–296, § 2, Dec. 27, 2022, 136 Stat. 4374.</td></tr>
-<tr><td>Rhode Island National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, § 1214(j), June 9, 1998, 112 Stat. 207.</td></tr>
-<tr><td>Ridgefield National Wildlife Refuge, Washington.—Pub. L. 102–570, § 1, Oct. 29, 1992, 106 Stat. 4489.</td></tr>
-<tr><td>Rocky Flats National Wildlife Refuge, Colorado.—Pub. L. 107–107, div. C, title XXXI, Dec. 28, 2001, 115 Stat. 1379; Pub. L. 109–163, div. C, title XXXI, § 3112(b)(7), Jan. 6, 2006, 119 Stat. 3541.</td></tr>
-<tr><td>Rocky Mountain Arsenal National Wildlife Refuge, Colorado.—Pub. L. 102–402, Oct. 9, 1992, 106 Stat. 1961; Pub. L. 105–85, div. B, title XXVIII, § 2840, Nov. 18, 1997, 111 Stat. 2007; Pub. L. 114–328, div. B, title XXVIII, § 2829C, Dec. 23, 2016, 130 Stat. 2731.</td></tr>
-<tr><td>Sachuest Point National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, § 1214(f), (h), June 9, 1998, 112 Stat. 206, 207.</td></tr>
-<tr><td>Sailors’ Snug Harbor National Wildlife Refuge, New York.—Pub. L. 96–315, § 2, July 25, 1980, 94 Stat. 957.</td></tr>
-<tr><td>St. Marks National Wildlife Refuge, Florida.—Pub. L. 109–241, title V, § 504, July 11, 2006, 120 Stat. 551.</td></tr>
+<tr><td>Quillayute Needles National Wildlife Refuge, Washington.—Ex. Ord. No. 705, Oct. 23, 1907; Proc. No. 2416, July 25, 1940, 54 Stat. 2717; Pub. L. 100–226, § 3, Dec. 31, 1987, 101 Stat. 1550.</td></tr>
+<tr><td>Red River National Wildlife Refuge, Louisiana.—Pub. L. 106–300, Oct. 13, 2000, 114 Stat. 1055; Pub. L. 106–369, § 9(c), Oct. 27, 2000, 114 Stat. 1419; Pub. L. 117–296, § 2, Dec. 27, 2022, 136 Stat. 4374.</td></tr>
+<tr><td>Rhode Island National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, § 1214(j), June 9, 1998, 112 Stat. 207.</td></tr>
+<tr><td>Ridgefield National Wildlife Refuge, Washington.—Pub. L. 102–570, § 1, Oct. 29, 1992, 106 Stat. 4489.</td></tr>
+<tr><td>Rocky Flats National Wildlife Refuge, Colorado.—Pub. L. 107–107, div. C, title XXXI, Dec. 28, 2001, 115 Stat. 1379; Pub. L. 109–163, div. C, title XXXI, § 3112(b)(7), Jan. 6, 2006, 119 Stat. 3541.</td></tr>
+<tr><td>Rocky Mountain Arsenal National Wildlife Refuge, Colorado.—Pub. L. 102–402, Oct. 9, 1992, 106 Stat. 1961; Pub. L. 105–85, div. B, title XXVIII, § 2840, Nov. 18, 1997, 111 Stat. 2007; Pub. L. 114–328, div. B, title XXVIII, § 2829C, Dec. 23, 2016, 130 Stat. 2731.</td></tr>
+<tr><td>Sachuest Point National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, § 1214(f), (h), June 9, 1998, 112 Stat. 206, 207.</td></tr>
+<tr><td>Sailors’ Snug Harbor National Wildlife Refuge, New York.—Pub. L. 96–315, § 2, July 25, 1980, 94 Stat. 957.</td></tr>
+<tr><td>St. Marks National Wildlife Refuge, Florida.—Pub. L. 109–241, title V, § 504, July 11, 2006, 120 Stat. 551.</td></tr>
 <tr><td>Sam D. Hamilton Noxubee National Wildlife Refuge (former Noxubee National Wildlife Refuge), Mississippi.—Pub. L. 112–94, Feb. 14, 2012, 126 Stat. 10.</td></tr>
-<tr><td>San Diego National Wildlife Refuge, California.—Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2848], Oct. 30, 2000, 114 Stat. 1654, 1654A–426.</td></tr>
+<tr><td>San Diego National Wildlife Refuge, California.—Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2848], Oct. 30, 2000, 114 Stat. 1654, 1654A–426.</td></tr>
 <tr><td>Seal Beach National Wildlife Refuge, California.—Pub. L. 92–408, Aug. 29, 1972, 86 Stat. 633.</td></tr>
-<tr><td>Selawik National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(7), Dec. 2, 1980, 94 Stat. 2387.</td></tr>
-<tr><td>Senator Dale Bumpers White River National Wildlife Refuge (former White River National Wildlife Refuge), Arkansas.—Pub. L. 102–584, §§ 1–5, Nov. 2, 1992, 106 Stat. 4937–4941; Pub. L. 113–76, div. G, title I, § 120, Jan. 17, 2014, 128 Stat. 314.</td></tr>
+<tr><td>Selawik National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(7), Dec. 2, 1980, 94 Stat. 2387.</td></tr>
+<tr><td>Senator Dale Bumpers White River National Wildlife Refuge (former White River National Wildlife Refuge), Arkansas.—Pub. L. 102–584, §§ 1–5, Nov. 2, 1992, 106 Stat. 4937–4941; Pub. L. 113–76, div. G, title I, § 120, Jan. 17, 2014, 128 Stat. 314.</td></tr>
 <tr><td>Silvio Conte National Fish and Wildlife Refuge, Connecticut, Massachusetts, New Hampshire, and Vermont.—Pub. L. 102–212, title I, Dec. 11, 1991, 105 Stat. 1655.</td></tr>
-<tr><td>Sonny Bono Salton Sea National Wildlife Refuge, California.—Pub. L. 105–372, title I, § 103, Nov. 12, 1998, 112 Stat. 3380.</td></tr>
-<tr><td>Stewart B. McKinney National Wildlife Refuge, Connecticut.—Pub. L. 98–548, title II, Oct. 26, 1984, 98 Stat. 2774; Pub. L. 100–38, May 13, 1987, 101 Stat. 306; Pub. L. 101–443, § 2, Oct. 19, 1990, 104 Stat. 1028.</td></tr>
-<tr><td>Stillwater National Wildlife Refuge, Nevada.—Pub. L. 101–618, title II, § 206(b), Nov. 16, 1990, 104 Stat. 3309.</td></tr>
-<tr><td>Tensas River National Wildlife Refuge, Louisiana.—Pub. L. 96–285, June 28, 1980, 94 Stat. 595; Pub. L. 99–191, § 2, Dec. 19, 1985, 99 Stat. 1327; Pub. L. 104–253, § 1, Oct. 9, 1996, 110 Stat. 3167.</td></tr>
-<tr><td>Tetlin National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(8), Dec. 2, 1980, 94 Stat. 2388.</td></tr>
-<tr><td>Theodore Roosevelt National Wildlife Refuge, Mississippi.—Pub. L. 108–199, div. H, § 145, Jan. 23, 2004, 118 Stat. 443.</td></tr>
-<tr><td>Theodore Roosevelt National Wildlife Refuge Complex (former Central Mississippi National Wildlife Refuge Complex), Mississippi.—Pub. L. 108–199, div. H, § 145(g)(2), Jan. 23, 2004, 118 Stat. 444.</td></tr>
+<tr><td>Sonny Bono Salton Sea National Wildlife Refuge, California.—Pub. L. 105–372, title I, § 103, Nov. 12, 1998, 112 Stat. 3380.</td></tr>
+<tr><td>Stewart B. McKinney National Wildlife Refuge, Connecticut.—Pub. L. 98–548, title II, Oct. 26, 1984, 98 Stat. 2774; Pub. L. 100–38, May 13, 1987, 101 Stat. 306; Pub. L. 101–443, § 2, Oct. 19, 1990, 104 Stat. 1028.</td></tr>
+<tr><td>Stillwater National Wildlife Refuge, Nevada.—Pub. L. 101–618, title II, § 206(b), Nov. 16, 1990, 104 Stat. 3309.</td></tr>
+<tr><td>Tensas River National Wildlife Refuge, Louisiana.—Pub. L. 96–285, June 28, 1980, 94 Stat. 595; Pub. L. 99–191, § 2, Dec. 19, 1985, 99 Stat. 1327; Pub. L. 104–253, § 1, Oct. 9, 1996, 110 Stat. 3167.</td></tr>
+<tr><td>Tetlin National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(8), Dec. 2, 1980, 94 Stat. 2388.</td></tr>
+<tr><td>Theodore Roosevelt National Wildlife Refuge, Mississippi.—Pub. L. 108–199, div. H, § 145, Jan. 23, 2004, 118 Stat. 443.</td></tr>
+<tr><td>Theodore Roosevelt National Wildlife Refuge Complex (former Central Mississippi National Wildlife Refuge Complex), Mississippi.—Pub. L. 108–199, div. H, § 145(g)(2), Jan. 23, 2004, 118 Stat. 444.</td></tr>
 <tr><td>Tinicum National Environmental Center (see John Heinz National Wildlife Refuge at Tinicum).</td></tr>
-<tr><td>Togiak National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 303(6), Dec. 2, 1980, 94 Stat. 2392.</td></tr>
+<tr><td>Togiak National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 303(6), Dec. 2, 1980, 94 Stat. 2392.</td></tr>
 <tr><td>Waccamaw National Wildlife Refuge, South Carolina.—Pub. L. 107–63, title I, Nov. 5, 2001, 115 Stat. 420.</td></tr>
-<tr><td>Wallkill River National Wildlife Refuge, New Jersey.—Pub. L. 101–593, title I, § 107, Nov. 16, 1990, 104 Stat. 2955.</td></tr>
-<tr><td>Wertheim National Wildlife Refuge, New York.—Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 222], Nov. 29, 1999, 113 Stat. 1536, 1501A–299.</td></tr>
+<tr><td>Wallkill River National Wildlife Refuge, New Jersey.—Pub. L. 101–593, title I, § 107, Nov. 16, 1990, 104 Stat. 2955.</td></tr>
+<tr><td>Wertheim National Wildlife Refuge, New York.—Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 222], Nov. 29, 1999, 113 Stat. 1536, 1501A–299.</td></tr>
 <tr><td>White River National Wildlife Refuge, Arkansas (see Senator Dale Bumpers White River National Wildlife Refuge).</td></tr>
 <tr><td>Wyandotte National Wildlife Refuge, Michigan (see Detroit River International Wildlife Refuge).</td></tr>
-<tr><td>Yukon Delta National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 303(7), Dec. 2, 1980, 94 Stat. 2392; Pub. L. 108–129, Nov. 17, 2003, 117 Stat. 1358.</td></tr>
-<tr><td>Yukon Flats National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(9), Dec. 2, 1980, 94 Stat. 2388.</td></tr>
+<tr><td>Yukon Delta National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 303(7), Dec. 2, 1980, 94 Stat. 2392; Pub. L. 108–129, Nov. 17, 2003, 117 Stat. 1358.</td></tr>
+<tr><td>Yukon Flats National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(9), Dec. 2, 1980, 94 Stat. 2388.</td></tr>
 </table>
 
 <table>
 <tr><th>National Wildlife Conservation Area</th></tr>
 <tr><th></th></tr>
-<tr><td>Falls of the Ohio National Wildlife Conservation Area, Kentucky.—Pub. L. 97–137, title II, Dec. 29, 1981, 95 Stat. 1710; Pub. L. 98–613, § 10(c), (d), Oct. 31, 1984, 98 Stat. 3191; Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2672.</td></tr>
+<tr><td>Falls of the Ohio National Wildlife Conservation Area, Kentucky.—Pub. L. 97–137, title II, Dec. 29, 1981, 95 Stat. 1710; Pub. L. 98–613, § 10(c), (d), Oct. 31, 1984, 98 Stat. 3191; Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2672.</td></tr>
 </table>
 
 <table>
@@ -2140,7 +2140,7 @@ Pub. L. 102–154, title III, § 319, Nov. 13, 1991, 105 Stat. 1036, provided 
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with approval to cross national wildlife refuges under sections 668dd and 668ee of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Em­ployees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with approval to cross national wildlife refuges under sections 668dd and 668ee of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Em­ployees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 **Ex. Ord. No. 12996. Management and General Public Use of National Wildlife Refuge System**
 
@@ -2186,7 +2186,7 @@ Sec. 4. *Judicial Review*. This order does not create any right or benefit, subs
 
 William J. Clinton.
 
-### § 668ee. Definitions
+### § 668ee. Definitions
 
 For purposes of this Act:
 
@@ -2224,7 +2224,7 @@ For purposes of this Act:
 
 **(15)** The terms “take”, “taking”, and “taken” mean to pursue, hunt, shoot, capture, collect, or kill, or to attempt to pursue, hunt, shoot, capture, collect, or kill.
 
-(Pub. L. 89–669, § 5, Oct. 15, 1966, 80 Stat. 929; Pub. L. 105–57, § 3(a), Oct. 9, 1997, 111 Stat. 1253.)
+(Pub. L. 89–669, § 5, Oct. 15, 1966, 80 Stat. 929; Pub. L. 105–57, § 3(a), Oct. 9, 1997, 111 Stat. 1253.)
 
 **Editorial Notes**
 
@@ -2232,7 +2232,7 @@ For purposes of this Act:
 
 This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, which enacted sections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715*l*, 715m of this title. For complete classification of this Act to the Code, see Tables.
 
-The Bankhead-Jones Farm Tenant Act, referred to in par. (5)(B), is act July 22, 1937, ch. 517, 50 Stat. 522. Title III of the Act is classified generally to subchapter III (§ 1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1000 of Title 7 and Tables.
+The Bankhead-Jones Farm Tenant Act, referred to in par. (5)(B), is act July 22, 1937, ch. 517, 50 Stat. 522. Title III of the Act is classified generally to subchapter III (§ 1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1000 of Title 7 and Tables.
 
 **Amendments**
 
@@ -2244,10 +2244,10 @@ The Bankhead-Jones Farm Tenant Act, referred to in par. (5)(B), is act July 22, 
 
 “(c) The terms ‘State’ and the ‘United States’ as used in this Act mean the several States of the United States, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, and Guam.”
 
-### §§ 668ff to 668jj. Omitted
+### §§ 668ff to 668jj. Omitted
 
 Sections, Pub. L. 92–330, June 30, 1972, 86 Stat. 399, which established San Francisco Bay National Wildlife Refuge to be administered by Secretary of the Interior in accordance with the National Wildlife Refuge System Administration Act, have been omitted because of the limited scope of the subject matter. The San Francisco Bay National Wildlife Refuge [now Don Edwards San Francisco Bay National Wildlife Refuge] has been set out in the table of National Wildlife Refuges under section 668dd of this title.
 
-### §§ 668kk to 668ss. Omitted
+### §§ 668kk to 668ss. Omitted
 
 Sections, Pub. L. 94–466, Oct. 8, 1976, 90 Stat. 1992, which established Minnesota Valley National Wildlife Refuge to be administered by Secretary of the Interior in accordance with the National Wildlife Refuge System Administration Act, have been omitted because of the limited scope of the subject matter. The Minnesota National Wildlife Refuge has been set out in the table of National Wildlife Refuges under section 668dd of this title.

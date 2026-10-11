@@ -19,61 +19,61 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–328, div. V, title IV, § 404(a)(2), Dec. 29, 2022, 136 Stat. 5512, added item 1167 “Mental health consultations” at end of chapter analysis.
+2022—Pub. L. 117–328, div. V, title IV, § 404(a)(2), Dec. 29, 2022, 136 Stat. 5512, added item 1167 “Mental health consultations” at end of chapter analysis.
 
-Pub. L. 117–271, § 1(b)(2), Dec. 27, 2022, 136 Stat. 4180, added item 1166 and struck out former item 1166 “Specialized teams to evaluate claims involving military sexual trauma”.
+Pub. L. 117–271, § 1(b)(2), Dec. 27, 2022, 136 Stat. 4180, added item 1166 and struck out former item 1166 “Specialized teams to evaluate claims involving military sexual trauma”.
 
-Pub. L. 117–168, § 1(b)(2), title II, §§ 202(a), 203(a), title III, §§ 302, 303, title IV, §§ 403(d), 406(b), Aug. 10, 2022, 136 Stat. 1759, 1766, 1775, 1777, 1779, 1781, 1784, added items 1119, 1120, 1167, and 1168, item for subchapter VII, and items 1171 to 1176 and substituted “certain locations” for “the Republic of Vietnam” in item 1116.
+Pub. L. 117–168, § 1(b)(2), title II, §§ 202(a), 203(a), title III, §§ 302, 303, title IV, §§ 403(d), 406(b), Aug. 10, 2022, 136 Stat. 1759, 1766, 1775, 1777, 1779, 1781, 1784, added items 1119, 1120, 1167, and 1168, item for subchapter VII, and items 1171 to 1176 and substituted “certain locations” for “the Republic of Vietnam” in item 1116.
 
-2021—Pub. L. 117–16, § 7(a)(1), (b)(3), June 8, 2021, 135 Stat. 284, 285, renumbered item 1164 “Specialized teams to evaluate claims involving military sexual trauma” as 1166 and made technical amendment to directory language of Pub. L. 116–315, § 4101(b). See Amendment note below.
+2021—Pub. L. 117–16, § 7(a)(1), (b)(3), June 8, 2021, 135 Stat. 284, 285, renumbered item 1164 “Specialized teams to evaluate claims involving military sexual trauma” as 1166 and made technical amendment to directory language of Pub. L. 116–315, § 4101(b). See Amendment note below.
 
-Pub. L. 116–315, title V, §§ 5501(a)(2), 5502(b), Jan. 5, 2021, 134 Stat. 5048, 5050, added item 1164 “Specialized teams to evaluate claims involving military sexual trauma” and item 1165.
+Pub. L. 116–315, title V, §§ 5501(a)(2), 5502(b), Jan. 5, 2021, 134 Stat. 5048, 5050, added item 1164 “Specialized teams to evaluate claims involving military sexual trauma” and item 1165.
 
-Pub. L. 116–315, title IV, § 4101(b), Jan. 5, 2021, 134 Stat. 5008, as amended by Pub. L. 117–16, § 7(b)(3), June 8, 2021, 135 Stat. 285, added item 1164 “Presumptions of service-connection for Coronavirus Disease 2019”.
+Pub. L. 116–315, title IV, § 4101(b), Jan. 5, 2021, 134 Stat. 5008, as amended by Pub. L. 117–16, § 7(b)(3), June 8, 2021, 135 Stat. 285, added item 1164 “Presumptions of service-connection for Coronavirus Disease 2019”.
 
-2019—Pub. L. 116–23, §§ 2(b), 3(b), June 25, 2019, 133 Stat. 968, 970, added items 1116A and 1116B.
+2019—Pub. L. 116–23, §§ 2(b), 3(b), June 25, 2019, 133 Stat. 968, 970, added items 1116A and 1116B.
 
-2008—Pub. L. 110–389, title II, § 211(c), Oct. 10, 2008, 122 Stat. 4151, added item 1156.
+2008—Pub. L. 110–389, title II, § 211(c), Oct. 10, 2008, 122 Stat. 4151, added item 1156.
 
-2001—Pub. L. 107–103, title II, § 201(c)(2)(B), Dec. 27, 2001, 115 Stat. 988, substituted “Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in the Republic of Vietnam” for “Presumptions of service connection for diseases associated with exposure to certain herbicide agents” in item 1116.
+2001—Pub. L. 107–103, title II, § 201(c)(2)(B), Dec. 27, 2001, 115 Stat. 988, substituted “Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in the Republic of Vietnam” for “Presumptions of service connection for diseases associated with exposure to certain herbicide agents” in item 1116.
 
-1998—Pub. L. 105–368, title X, § 1005(a), Nov. 11, 1998, 112 Stat. 3364, renumbered item 1103 “Cost-of-living adjustments” as 1104.
+1998—Pub. L. 105–368, title X, § 1005(a), Nov. 11, 1998, 112 Stat. 3364, renumbered item 1103 “Cost-of-living adjustments” as 1104.
 
-Pub. L. 105–277, div. C, title XVI, § 1602(a)(2), Oct. 21, 1998, 112 Stat. 2681–744, added item 1118.
+Pub. L. 105–277, div. C, title XVI, § 1602(a)(2), Oct. 21, 1998, 112 Stat. 2681–744, added item 1118.
 
-Pub. L. 105–178, title VIII, § 8202(a)(2), as added by Pub. L. 105–206, title IX, § 9014(a), July 22, 1998, 112 Stat. 865, added item 1103 “Special provisions relating to claims based upon effects of tobacco products”.
+Pub. L. 105–178, title VIII, § 8202(a)(2), as added by Pub. L. 105–206, title IX, § 9014(a), July 22, 1998, 112 Stat. 865, added item 1103 “Special provisions relating to claims based upon effects of tobacco products”.
 
-1997—Pub. L. 105–33, title VIII, § 8031(a)(2), Aug. 5, 1997, 111 Stat. 668, added item 1103 “Cost-of-living adjustments”.
+1997—Pub. L. 105–33, title VIII, § 8031(a)(2), Aug. 5, 1997, 111 Stat. 668, added item 1103 “Cost-of-living adjustments”.
 
-1994—Pub. L. 103–446, title I, § 106(a)(2), Nov. 2, 1994, 108 Stat. 4651, added item 1117.
+1994—Pub. L. 103–446, title I, § 106(a)(2), Nov. 2, 1994, 108 Stat. 4651, added item 1117.
 
-1992—Pub. L. 102–568, title IV, § 401(d)(2), Oct. 29, 1992, 106 Stat. 4336, substituted “Trial work periods and vocational rehabilitation for certain veterans with total disability ratings” for “Temporary program for trial work periods and vocational rehabilitation for certain veterans with total disability ratings” in item 1163.
+1992—Pub. L. 102–568, title IV, § 401(d)(2), Oct. 29, 1992, 106 Stat. 4336, substituted “Trial work periods and vocational rehabilitation for certain veterans with total disability ratings” for “Temporary program for trial work periods and vocational rehabilitation for certain veterans with total disability ratings” in item 1163.
 
-1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 301 to 363 as 1101 to 1163, respectively.
+1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 301 to 363 as 1101 to 1163, respectively.
 
-Pub. L. 102–4, § 2(a)(2), Feb. 6, 1991, 105 Stat. 13, added item 316.
+Pub. L. 102–4, § 2(a)(2), Feb. 6, 1991, 105 Stat. 13, added item 316.
 
-1986—Pub. L. 99–576, title I, § 109(a)(2), Oct. 28, 1986, 100 Stat. 3253, amended item 360 generally, substituting “loss of paired organs or extremities” for “blindness or bilateral kidney involvement or bilateral deafness”.
+1986—Pub. L. 99–576, title I, § 109(a)(2), Oct. 28, 1986, 100 Stat. 3253, amended item 360 generally, substituting “loss of paired organs or extremities” for “blindness or bilateral kidney involvement or bilateral deafness”.
 
-1984—Pub. L. 98–543, title I, § 111(a)(2), Oct. 24, 1984, 98 Stat. 2739, added item 363.
+1984—Pub. L. 98–543, title I, § 111(a)(2), Oct. 24, 1984, 98 Stat. 2739, added item 363.
 
-1982—Pub. L. 97–295, § 4(9), Oct. 12, 1982, 96 Stat. 1305, added item 361.
+1982—Pub. L. 97–295, § 4(9), Oct. 12, 1982, 96 Stat. 1305, added item 361.
 
-1976—Pub. L. 94–433, title IV, §§ 401(1), 404(5), Sept. 30, 1976, 90 Stat. 1377, 1378, substituted “surviving spouses” for “widows” in item 302 and struck out item 356 “Minimum rating for arrested tuberculosis”.
+1976—Pub. L. 94–433, title IV, §§ 401(1), 404(5), Sept. 30, 1976, 90 Stat. 1377, 1378, substituted “surviving spouses” for “widows” in item 302 and struck out item 356 “Minimum rating for arrested tuberculosis”.
 
-1974—Pub. L. 93–295, title II, § 206(c), May 31, 1974, 88 Stat. 183, struck out item 343 “Conditions under which wartime rates payable”.
+1974—Pub. L. 93–295, title II, § 206(c), May 31, 1974, 88 Stat. 183, struck out item 343 “Conditions under which wartime rates payable”.
 
-1972—Pub. L. 92–328, title I, §§ 103(b), 108(d), June 30, 1972, 86 Stat. 394, 396, struck out item 336 “Conditions under which wartime rates payable” and added item 362.
+1972—Pub. L. 92–328, title I, §§ 103(b), 108(d), June 30, 1972, 86 Stat. 394, 396, struck out item 336 “Conditions under which wartime rates payable” and added item 362.
 
-1970—Pub. L. 91–376, § 3(c), Aug. 12, 1970, 84 Stat. 789, inserted reference to disabilities in item 312.
+1970—Pub. L. 91–376, § 3(c), Aug. 12, 1970, 84 Stat. 789, inserted reference to disabilities in item 312.
 
-1966—Pub. L. 89–358, § 7(b), Mar. 3, 1966, 80 Stat. 27, added item 337.
+1966—Pub. L. 89–358, § 7(b), Mar. 3, 1966, 80 Stat. 27, added item 337.
 
-1965—Pub. L. 89–311, § 3(c), Oct. 31, 1965, 79 Stat. 1155, inserted reference to bilateral deafness in item 360.
+1965—Pub. L. 89–311, § 3(c), Oct. 31, 1965, 79 Stat. 1155, inserted reference to bilateral deafness in item 360.
 
-1962—Pub. L. 87–610, § 2, Aug. 28, 1962, 76 Stat. 406, added item 360.
+1962—Pub. L. 87–610, § 2, Aug. 28, 1962, 76 Stat. 406, added item 360.
 
-1960—Pub. L. 86–501, § 2, June 10, 1960, 74 Stat. 195, added item 359.
+1960—Pub. L. 86–501, § 2, June 10, 1960, 74 Stat. 195, added item 359.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -141,7 +141,7 @@ Pub. L. 117–168, title VI, Aug. 10, 2022, 136 Stat. 1792, provided that:
 
 ## SUBCHAPTER I—GENERAL
 
-### § 1101. Definitions
+### § 1101. Definitions
 
 For the purposes of this chapter—
 
@@ -277,7 +277,7 @@ Yellow fever
 
 and such other tropical diseases as the Secretary may add to this list.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1118, § 301; Pub. L. 94–433, title IV, §§ 401(2), (3), 404(1), Sept. 30, 1976, 90 Stat. 1377, 1378; Pub. L. 98–160, title VII, § 702(2), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 100–322, title III, § 313, May 20, 1988, 102 Stat. 535; renumbered § 1101 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 116–283, div. A, title IX, § 926(a)(5), Jan. 1, 2021, 134 Stat. 3830.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1118, § 301; Pub. L. 94–433, title IV, §§ 401(2), (3), 404(1), Sept. 30, 1976, 90 Stat. 1377, 1378; Pub. L. 98–160, title VII, § 702(2), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 100–322, title III, § 313, May 20, 1988, 102 Stat. 535; renumbered § 1101 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 116–283, div. A, title IX, § 926(a)(5), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -285,35 +285,35 @@ and such other tropical diseases as the Secretary may add to this list.
 
 2021—Pars. (1), (2)(A). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 301 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 301 of this title as this section.
 
-Pars. (3), (4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pars. (3), (4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1988—Par. (3). Pub. L. 100–322 inserted “Lupus erythematosus, systemic” after “Leukemia”.
 
 1983—Par. (3). Pub. L. 98–160 substituted a period for the semicolon at end of paragraph following “may add to this list”.
 
-1976—Par. (2)(A), (B). Pub. L. 94–433, § 404(1), substituted “such veteran” for “him” in subpars. (A) and (B).
+1976—Par. (2)(A), (B). Pub. L. 94–433, § 404(1), substituted “such veteran” for “him” in subpars. (A) and (B).
 
-Par. (3). Pub. L. 94–433, § 401(2), substituted “Hansen’s disease” for “Leprosy”.
+Par. (3). Pub. L. 94–433, § 401(2), substituted “Hansen’s disease” for “Leprosy”.
 
-Par. (4). Pub. L. 94–433, § 401(3), inserted “Hansen’s disease” after “Filiariasis” and struck out “Leprosy” before “Loiasis”.
+Par. (4). Pub. L. 94–433, § 401(3), inserted “Hansen’s disease” after “Filiariasis” and struck out “Leprosy” before “Loiasis”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–433, title IV, § 406, Sept. 30, 1976, 90 Stat. 1380, provided that: “The provisions of this Act [see Tables for classification] shall become effective on October 1, 1976.”
+Pub. L. 94–433, title IV, § 406, Sept. 30, 1976, 90 Stat. 1380, provided that: “The provisions of this Act [see Tables for classification] shall become effective on October 1, 1976.”
 
 **Effective Date of Future Increases**
 
-Pub. L. 98–223, title I, § 108, Mar. 2, 1984, 98 Stat. 40, provided that: “It is the sense of the Congress that any increase provided by law to take effect after fiscal year 1984 in the rates of disability compensation and dependency and indemnity compensation payable under chapters 11 and 13, respectively, of title 38, United States Code, shall take effect on December 1 of the fiscal year involved and that the budgets for any such fiscal year include amounts to achieve such purpose.”
+Pub. L. 98–223, title I, § 108, Mar. 2, 1984, 98 Stat. 40, provided that: “It is the sense of the Congress that any increase provided by law to take effect after fiscal year 1984 in the rates of disability compensation and dependency and indemnity compensation payable under chapters 11 and 13, respectively, of title 38, United States Code, shall take effect on December 1 of the fiscal year involved and that the budgets for any such fiscal year include amounts to achieve such purpose.”
 
 [Section 108 of Pub. L. 98–223 effective Apr. 1, 1984, see section 107 of Pub. L. 98–223, set out as a note under section 1114 of this title.]
 
 **Improving Processing by Department of Veterans Affairs of Disability Claims for Post-Traumatic Stress Disorder Through Improved Training**
 
-Pub. L. 118–31, div. E, title L, § 5003, Dec. 22, 2023, 137 Stat. 931, provided that:
+Pub. L. 118–31, div. E, title L, § 5003, Dec. 22, 2023, 137 Stat. 931, provided that:
 
 > **“(a) Formal Process for Conduct of Annual Analysis of Training Needs Based on Trends.—** Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Veterans Affairs, acting through the Under Secretary for Benefits, shall establish a formal process to analyze, on an annual basis, training needs of employees of the Department who review claims for disability compensation for post-traumatic stress disorder, based on identified processing error trends.
 
@@ -329,7 +329,7 @@ Pub. L. 118–31, div. E, title L, § 5003, Dec. 22, 2023, 137 Stat. 931, prov
 
 **Veterans’ Disability Benefits Commission**
 
-Pub. L. 108–136, div. A, title XV, Nov. 24, 2003, 117 Stat. 1676, as amended by Pub. L. 109–163, div. A, title V, § 590, Jan. 6, 2006, 119 Stat. 3279, provided that:
+Pub. L. 108–136, div. A, title XV, Nov. 24, 2003, 117 Stat. 1676, as amended by Pub. L. 109–163, div. A, title V, § 590, Jan. 6, 2006, 119 Stat. 3279, provided that:
 
 > **“SEC. 1501. ESTABLISHMENT OF COMMISSION.**
 
@@ -441,13 +441,13 @@ Pub. L. 108–136, div. A, title XV, Nov. 24, 2003, 117 Stat. 1676, as amended b
 
 **Treatment of Certain Income of Alaska Natives for Purposes of Need-Based Benefits**
 
-Pub. L. 103–446, title V, § 506, Nov. 2, 1994, 108 Stat. 4664, provided that: “Any receipt by an individual from a Native Corporation under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) of cash, stock, land, or other interests referred to in subparagraphs (A) through (E) of section 29(c) of that Act (43 U.S.C. 1626(c)) (whether such receipt is attributable to the disposition of real property, profits from the operation of real property, or otherwise) shall not be countable as income for purposes of any law administered by the Secretary of Veterans Affairs.”
+Pub. L. 103–446, title V, § 506, Nov. 2, 1994, 108 Stat. 4664, provided that: “Any receipt by an individual from a Native Corporation under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) of cash, stock, land, or other interests referred to in subparagraphs (A) through (E) of section 29(c) of that Act (43 U.S.C. 1626(c)) (whether such receipt is attributable to the disposition of real property, profits from the operation of real property, or otherwise) shall not be countable as income for purposes of any law administered by the Secretary of Veterans Affairs.”
 
 **Cost-of-Living Increases in Compensation Rates**
 
-Pub. L. 103–446, title I, § 111(b), Nov. 2, 1994, 108 Stat. 4654, provided that: “The fiscal year 1995 cost-of-living adjustments in the rates of and limitations for compensation payable under chapter 11 of title 38, United States Code, and of dependency and indemnity compensation payable under chapter 13 of such title will be no more than a percentage equal to the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1994, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)), with all increased monthly rates and limitations (other than increased rates or limitations equal to a whole dollar amount) rounded down to the next lower dollar.”
+Pub. L. 103–446, title I, § 111(b), Nov. 2, 1994, 108 Stat. 4654, provided that: “The fiscal year 1995 cost-of-living adjustments in the rates of and limitations for compensation payable under chapter 11 of title 38, United States Code, and of dependency and indemnity compensation payable under chapter 13 of such title will be no more than a percentage equal to the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1994, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)), with all increased monthly rates and limitations (other than increased rates or limitations equal to a whole dollar amount) rounded down to the next lower dollar.”
 
-Pub. L. 103–66, title XII, § 12008, Aug. 10, 1993, 107 Stat. 415, provided that:
+Pub. L. 103–66, title XII, § 12008, Aug. 10, 1993, 107 Stat. 415, provided that:
 
 > **“(a) Policy.—** The fiscal year 1994 cost-of-living adjustments in the rates of and limitations for compensation payable under chapter 11 of title 38, United States Code, and of dependency and indemnity compensation payable under chapter 13 of such title, except as provided in subsection (b) of this section, will be no more than a percentage equal to the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1993, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)), with all increased monthly rates and limitations (other than increased rates or limitations equal to a whole dollar amount) rounded down to the next lower dollar.
 
@@ -457,7 +457,7 @@ Pub. L. 103–66, title XII, § 12008, Aug. 10, 1993, 107 Stat. 415, provided 
 
 > **“(2)** For purposes of paragraph (1), the new law increase is the amount by which the rate of dependency and indemnity compensation provided for recipients under section 1311(a)(1) of such title is increased for fiscal year 1994.”
 
-Pub. L. 101–508, title VIII, § 8005, Nov. 5, 1990, 104 Stat. 1388–343, provided that:
+Pub. L. 101–508, title VIII, § 8005, Nov. 5, 1990, 104 Stat. 1388–343, provided that:
 
 > **“(a) Policy Regarding Fiscal Year 1991.—** The fiscal year 1991 cost-of-living adjustments in the rates of compensation payable under chapter 11 of title 38, United States Code, and of the dependency and indemnity compensation payable under chapter 13 of such title will be no more than a 5.4 percent increase, with all increased monthly rates rounded down to the next lower dollar. The effective date for such adjustments will not be earlier than January 1, 1991.
 
@@ -465,7 +465,7 @@ Pub. L. 101–508, title VIII, § 8005, Nov. 5, 1990, 104 Stat. 1388–343, pr
 
 **Benefits and Services for Former Prisoners of War; Implementation of Programs; Records for Disposition of Claims; Definition**
 
-Pub. L. 97–37, § 6, Aug. 14, 1981, 95 Stat. 937, provided that:
+Pub. L. 97–37, § 6, Aug. 14, 1981, 95 Stat. 937, provided that:
 
 > **“(a)** Not later than ninety days after the date of the enactment of this Act [Aug. 14, 1981] and at appropriate times thereafter, the Administrator shall, to the maximum extent feasible and in order to carry out the requirements of the veterans outreach services program under subchapter IV of [former] chapter 3 of title 38, United States Code, seek out former prisoners of war and provide them with information regarding applicable changes in law, regulations, policies, guidelines, or other directives affecting the benefits and services to which former prisoners of war are entitled under such title by virtue of the amendments made by this Act [see Tables for classification].
 
@@ -479,17 +479,17 @@ Pub. L. 97–37, § 6, Aug. 14, 1981, 95 Stat. 937, provided that:
 
 **Study on Disability Compensation and Health-Care Needs of Former Prisoners of War; Report to President and Congress**
 
-Pub. L. 95–479, title III, § 305, Oct. 18, 1978, 92 Stat. 1565, directed Administrator of Veterans’ Affairs, in consultation with Secretary of Defense, to carry out a comprehensive study of disability compensation awarded to, and health care needs of veterans who are former prisoners of war and to submit a report on results of such study to Congress and President not later than Feb. 1, 1980.
+Pub. L. 95–479, title III, § 305, Oct. 18, 1978, 92 Stat. 1565, directed Administrator of Veterans’ Affairs, in consultation with Secretary of Defense, to carry out a comprehensive study of disability compensation awarded to, and health care needs of veterans who are former prisoners of war and to submit a report on results of such study to Congress and President not later than Feb. 1, 1980.
 
 **Amputees, Cardiovascular Disorders; Study**
 
-Pub. L. 94–433, title IV, § 403, Sept. 30, 1976, 90 Stat. 1378, directed Administrator to conduct a scientific study to determine if there is causal relationship between amputation of an extremity and subsequent development of cardiovascular disorders and to report to Speaker and President of Senate not later than June 30, 1977.
+Pub. L. 94–433, title IV, § 403, Sept. 30, 1976, 90 Stat. 1378, directed Administrator to conduct a scientific study to determine if there is causal relationship between amputation of an extremity and subsequent development of cardiovascular disorders and to report to Speaker and President of Senate not later than June 30, 1977.
 
 **Study of Claims for Dependency and Indemnity Compensation**
 
-Pub. L. 93–295, title II, § 207, May 31, 1974, 88 Stat. 183, directed Administrator of Veterans’ Affairs to make a detailed study of claims for dependency and indemnity compensation relating to veterans, as defined in section 101(2) of this title, who at time of death within six months prior to May 31, 1974, were receiving disability compensation from Veterans’ Administration based upon a rating total and permanent in nature, and submit a report together with such comments and recommendations as Administrator deemed appropriate to Speaker of the House and President of the Senate not more than thirty days after Jan. 14, 1975.
+Pub. L. 93–295, title II, § 207, May 31, 1974, 88 Stat. 183, directed Administrator of Veterans’ Affairs to make a detailed study of claims for dependency and indemnity compensation relating to veterans, as defined in section 101(2) of this title, who at time of death within six months prior to May 31, 1974, were receiving disability compensation from Veterans’ Administration based upon a rating total and permanent in nature, and submit a report together with such comments and recommendations as Administrator deemed appropriate to Speaker of the House and President of the Senate not more than thirty days after Jan. 14, 1975.
 
-### § 1102. Special provisions relating to surviving spouses
+### § 1102. Special provisions relating to surviving spouses
 
 **(a)** No compensation shall be paid to the surviving spouse of a veteran under this chapter unless such surviving spouse was married to such veteran—
 
@@ -501,21 +501,21 @@ Pub. L. 93–295, title II, § 207, May 31, 1974, 88 Stat. 183, directed Admin
 
 **(b)** Subsection (a) shall not be applicable to any surviving spouse who, with respect to date of marriage, could have qualified as a surviving spouse for death compensation under any law administered by the Secretary in effect on December 31, 1957.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1119, § 302; Pub. L. 86–491, June 8, 1960, 74 Stat. 161; Pub. L. 90–77, title I, § 101(a), Aug. 31, 1967, 81 Stat. 178; Pub. L. 94–433, title IV, § 404(2)–(4), Sept. 30, 1976, 90 Stat. 1378; renumbered § 1102 and amended Pub. L. 102–83, §§ 4(a)(1), 5(a), Aug. 6, 1991, 105 Stat. 403, 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1119, § 302; Pub. L. 86–491, June 8, 1960, 74 Stat. 161; Pub. L. 90–77, title I, § 101(a), Aug. 31, 1967, 81 Stat. 178; Pub. L. 94–433, title IV, § 404(2)–(4), Sept. 30, 1976, 90 Stat. 1378; renumbered § 1102 and amended Pub. L. 102–83, §§ 4(a)(1), 5(a), Aug. 6, 1991, 105 Stat. 403, 406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 302 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 302 of this title as this section.
 
-Subsec. (b). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Subsec. (b). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-1976—Pub. L. 94–433, § 404(4), substituted “surviving spouses” for “widows” in section catchline.
+1976—Pub. L. 94–433, § 404(4), substituted “surviving spouses” for “widows” in section catchline.
 
-Subsec. (a). Pub. L. 94–433, § 404(2), substituted “surviving spouse of a veteran under this chapter unless such surviving spouse was married to such veteran” for “widow of a veteran under this chapter unless she was married to him”.
+Subsec. (a). Pub. L. 94–433, § 404(2), substituted “surviving spouse of a veteran under this chapter unless such surviving spouse was married to such veteran” for “widow of a veteran under this chapter unless she was married to him”.
 
-Subsec. (b). Pub. L. 94–433, § 404(3), substituted “surviving spouse” for “widow” in two places.
+Subsec. (b). Pub. L. 94–433, § 404(3), substituted “surviving spouse” for “widow” in two places.
 
 1967—Subsec. (a)(2), (3). Pub. L. 90–77 qualified widow of a veteran for receipt of compensation by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
 
@@ -531,13 +531,13 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 
-### § 1103. Special provisions relating to claims based upon effects of tobacco products
+### § 1103. Special provisions relating to claims based upon effects of tobacco products
 
 **(a)** Notwithstanding any other provision of law, a veteran’s disability or death shall not be considered to have resulted from personal injury suffered or disease contracted in the line of duty in the active military, naval, air, or space service for purposes of this title on the basis that it resulted from injury or disease attributable to the use of tobacco products by the veteran during the veteran’s service.
 
 **(b)** Nothing in subsection (a) shall be construed as precluding the establishment of service connection for disability or death from a disease or injury which is otherwise shown to have been incurred or aggravated in active military, naval, air, or space service or which became manifest to the requisite degree of disability during any applicable presumptive period specified in section 1112 or 1116 of this title.
 
-(Added Pub. L. 105–178, title VIII, § 8202(a)(1), as added Pub. L. 105–206, title IX, § 9014(a), July 22, 1998, 112 Stat. 865; amended Pub. L. 116–283, div. A, title IX, § 926(a)(6), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 105–178, title VIII, § 8202(a)(1), as added Pub. L. 105–206, title IX, § 9014(a), July 22, 1998, 112 Stat. 865; amended Pub. L. 116–283, div. A, title IX, § 926(a)(6), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -555,21 +555,21 @@ A prior section 1103 was renumbered section 1104 of this title.
 
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, see section 9016 of Pub. L. 105–206, set out as an Effective Date of 1998 Amendment note under section 101 of Title 23, Highways.
 
-Pub. L. 105–178, title VIII, § 8202(b), as amended by Pub. L. 105–206, title IX, § 9014(a), July 22, 1998, 112 Stat. 865, provided that: “Section 1103 of title 38, United States Code, as added by subsection (a), shall apply with respect to claims received by the Secretary of Veterans Affairs after the date of the enactment of this Act [June 9, 1998].”
+Pub. L. 105–178, title VIII, § 8202(b), as amended by Pub. L. 105–206, title IX, § 9014(a), July 22, 1998, 112 Stat. 865, provided that: “Section 1103 of title 38, United States Code, as added by subsection (a), shall apply with respect to claims received by the Secretary of Veterans Affairs after the date of the enactment of this Act [June 9, 1998].”
 
-### § 1104. Cost-of-living adjustments
+### § 1104. Cost-of-living adjustments
 
 **(a)** In the computation of cost-of-living adjustments for fiscal years 1998 through 2013 in the rates of, and dollar limitations applicable to, compensation payable under this chapter, such adjustments shall be made by a uniform percentage that is no more than the percentage equal to the social security increase for that fiscal year, with all increased monthly rates and limitations (other than increased rates or limitations equal to a whole dollar amount) rounded down to the next lower whole dollar amount.
 
 **(b)** For purposes of this section, the term “social security increase” means the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased for any fiscal year as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
 
-(Added Pub. L. 105–33, title VIII, § 8031(a)(1), Aug. 5, 1997, 111 Stat. 668, § 1103; renumbered § 1104, Pub. L. 105–368, title X, § 1005(a), Nov. 11, 1998, 112 Stat. 3364; amended Pub. L. 107–103, title II, § 205, Dec. 27, 2001, 115 Stat. 990; Pub. L. 108–183, title VII, § 706, Dec. 16, 2003, 117 Stat. 2672.)
+(Added Pub. L. 105–33, title VIII, § 8031(a)(1), Aug. 5, 1997, 111 Stat. 668, § 1103; renumbered § 1104, Pub. L. 105–368, title X, § 1005(a), Nov. 11, 1998, 112 Stat. 3364; amended Pub. L. 107–103, title II, § 205, Dec. 27, 2001, 115 Stat. 990; Pub. L. 108–183, title VII, § 706, Dec. 16, 2003, 117 Stat. 2672.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
@@ -581,11 +581,11 @@ The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 5
 
 ## SUBCHAPTER II—WARTIME DISABILITY COMPENSATION
 
-### § 1110. Basic entitlement
+### § 1110. Basic entitlement
 
 For disability resulting from personal injury suffered or disease contracted in line of duty, or for aggravation of a preexisting injury suffered or disease contracted in line of duty, in the active military, naval, air, or space service, during a period of war, the United States will pay to any veteran thus disabled and who was discharged or released under conditions other than dishonorable from the period of service in which said injury or disease was incurred, or preexisting injury or disease was aggravated, compensation as provided in this subchapter, but no compensation shall be paid if the disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1119, § 310; Pub. L. 101–508, title VIII, § 8052(a)(2), Nov. 5, 1990, 104 Stat. 1388–351; renumbered § 1110, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, § 8202(a), June 9, 1998, 112 Stat. 492; Pub. L. 105–206, title IX, § 9014(a), July 22, 1998, 112 Stat. 865; Pub. L. 116–283, div. A, title IX, § 926(a)(7), Jan. 1, 2021, 134 Stat. 3830.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1119, § 310; Pub. L. 101–508, title VIII, § 8052(a)(2), Nov. 5, 1990, 104 Stat. 1388–351; renumbered § 1110, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, § 8202(a), June 9, 1998, 112 Stat. 492; Pub. L. 105–206, title IX, § 9014(a), July 22, 1998, 112 Stat. 865; Pub. L. 116–283, div. A, title IX, § 926(a)(7), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -593,7 +593,7 @@ For disability resulting from personal injury suffered or disease contracted in 
 
 2021—Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-1998—Pub. L. 105–178, which directed the substitution of “, abuse of alcohol or drugs, or use of tobacco products” for “or abuse of alcohol or drugs” before the period at end, was amended generally by Pub. L. 105–206, which provided that the amendments made by that section as originally enacted shall be treated for all purposes as not having been made. See Effective Date of 1998 Amendment note below.
+1998—Pub. L. 105–178, which directed the substitution of “, abuse of alcohol or drugs, or use of tobacco products” for “or abuse of alcohol or drugs” before the period at end, was amended generally by Pub. L. 105–206, which provided that the amendments made by that section as originally enacted shall be treated for all purposes as not having been made. See Effective Date of 1998 Amendment note below.
 
 1991—Pub. L. 102–83 renumbered section 310 of this title as this section.
 
@@ -611,23 +611,23 @@ Amendment by Pub. L. 101–508 effective with respect to claims filed after Oct.
 
 **Construction of 1998 Amendment**
 
-Pub. L. 105–206, title IX, § 9014(a), July 22, 1998, 112 Stat. 865, provided that section 8202 of Pub. L. 105–178 is amended generally and that the amendments made by that section as originally enacted shall be treated for all purposes as not having been made.
+Pub. L. 105–206, title IX, § 9014(a), July 22, 1998, 112 Stat. 865, provided that section 8202 of Pub. L. 105–178 is amended generally and that the amendments made by that section as originally enacted shall be treated for all purposes as not having been made.
 
-### § 1111. Presumption of sound condition
+### § 1111. Presumption of sound condition
 
 For the purposes of section 1110 of this title, every veteran shall be taken to have been in sound condition when examined, accepted, and enrolled for service, except as to defects, infirmities, or disorders noted at the time of the examination, acceptance, and enrollment, or where clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1119, § 311; renumbered § 1111 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1119, § 311; renumbered § 1111 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 311 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 311 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1110” for “310”.
+Pub. L. 102–83, § 5(c)(1), substituted “1110” for “310”.
 
-### § 1112. Presumptions relating to certain diseases and disabilities
+### § 1112. Presumptions relating to certain diseases and disabilities
 
 **(a)** For the purposes of section 1110 of this title, and subject to the provisions of section 1113 of this title, in the case of any veteran who served for ninety days or more during a period of war—
 
@@ -763,7 +763,7 @@ shall be considered to have been incurred in or aggravated by such service, notw
 
 **(4)** A radiation-exposed veteran who receives a payment under the provisions of the Radiation Exposure Compensation Act of 1990 (42 U.S.C. 2210 note) shall not be deprived, by reason of the receipt of that payment, of receipt of compensation to which that veteran is entitled by reason of paragraph (1), but there shall be deducted from payment of such compensation the amount of the payment under that Act.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, § 312; Pub. L. 86–187, Aug. 25, 1959, 73 Stat. 418; Pub. L. 86–188, Aug. 25, 1959, 73 Stat. 418; Pub. L. 87–645, § 3, Sept. 7, 1962, 76 Stat. 442; Pub. L. 91–376, § 3(a), (b), Aug. 12, 1970, 84 Stat. 788, 789; Pub. L. 97–37, § 4(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 98–223, title I, §§ 101(c), 111, Mar. 2, 1984, 98 Stat. 38, 40; Pub. L. 99–576, title I, § 108(a), Oct. 28, 1986, 100 Stat. 3252; Pub. L. 100–321, § 2(a), May 20, 1988, 102 Stat. 485; Pub. L. 100–322, title III, § 312, May 20, 1988, 102 Stat. 534; renumbered § 1112 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §§ 104(a), 105, Aug. 14, 1991, 105 Stat. 415; Pub. L. 102–578, § 2(a), Oct. 30, 1992, 106 Stat. 4774; Pub. L. 103–446, title V, § 501(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 106–117, title V, § 503, Nov. 30, 1999, 113 Stat. 1575; Pub. L. 108–183, title II, § 201, Dec. 16, 2003, 117 Stat. 2656; Pub. L. 108–454, title III, §§ 302(a), 306(a), (b), Dec. 10, 2004, 118 Stat. 3610, 3612; Pub. L. 109–233, title IV, § 401, June 15, 2006, 120 Stat. 407; Pub. L. 110–389, title I, § 106, Oct. 10, 2008, 122 Stat. 4149; Pub. L. 116–283, div. A, title IX, § 926(a)(8), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–168, title IV, §§ 401(b), 402(b), Aug. 10, 2022, 136 Stat. 1780.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, § 312; Pub. L. 86–187, Aug. 25, 1959, 73 Stat. 418; Pub. L. 86–188, Aug. 25, 1959, 73 Stat. 418; Pub. L. 87–645, § 3, Sept. 7, 1962, 76 Stat. 442; Pub. L. 91–376, § 3(a), (b), Aug. 12, 1970, 84 Stat. 788, 789; Pub. L. 97–37, § 4(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 98–223, title I, §§ 101(c), 111, Mar. 2, 1984, 98 Stat. 38, 40; Pub. L. 99–576, title I, § 108(a), Oct. 28, 1986, 100 Stat. 3252; Pub. L. 100–321, § 2(a), May 20, 1988, 102 Stat. 485; Pub. L. 100–322, title III, § 312, May 20, 1988, 102 Stat. 534; renumbered § 1112 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §§ 104(a), 105, Aug. 14, 1991, 105 Stat. 415; Pub. L. 102–578, § 2(a), Oct. 30, 1992, 106 Stat. 4774; Pub. L. 103–446, title V, § 501(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 106–117, title V, § 503, Nov. 30, 1999, 113 Stat. 1575; Pub. L. 108–183, title II, § 201, Dec. 16, 2003, 117 Stat. 2656; Pub. L. 108–454, title III, §§ 302(a), 306(a), (b), Dec. 10, 2004, 118 Stat. 3610, 3612; Pub. L. 109–233, title IV, § 401, June 15, 2006, 120 Stat. 407; Pub. L. 110–389, title I, § 106, Oct. 10, 2008, 122 Stat. 4149; Pub. L. 116–283, div. A, title IX, § 926(a)(8), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–168, title IV, §§ 401(b), 402(b), Aug. 10, 2022, 136 Stat. 1780.)
 
 **Editorial Notes**
 
@@ -773,9 +773,9 @@ The Radiation Exposure Compensation Act, referred to in subsec. (c)(4), is Pub. 
 
 **Amendments**
 
-2022—Subsec. (c)(3)(B)(v). Pub. L. 117–168, § 401(b), added cl. (v).
+2022—Subsec. (c)(3)(B)(v). Pub. L. 117–168, § 401(b), added cl. (v).
 
-Subsec. (c)(3)(B)(vi), (vii). Pub. L. 117–168, § 402(b), added cls. (vi) and (vii).
+Subsec. (c)(3)(B)(vi), (vii). Pub. L. 117–168, § 402(b), added cls. (vi) and (vii).
 
 2021—Subsec. (b)(1). Pub. L. 116–283 substituted “air, or space service” for “or air service” in subpars. (A) and (B).
 
@@ -785,11 +785,11 @@ Subsec. (c)(1). Pub. L. 116–283 substituted “air, or space service” for �
 
 2006—Subsec. (b)(3)(L), (M). Pub. L. 109–233 added subpars. (L) and (M).
 
-2004—Subsec. (c)(2)(Q) to (U). Pub. L. 108–454, § 306(a), added subpars. (Q) to (U).
+2004—Subsec. (c)(2)(Q) to (U). Pub. L. 108–454, § 306(a), added subpars. (Q) to (U).
 
-Subsec. (c)(3)(B)(iv). Pub. L. 108–454, § 306(b), added cl. (iv).
+Subsec. (c)(3)(B)(iv). Pub. L. 108–454, § 306(b), added cl. (iv).
 
-Subsec. (c)(4). Pub. L. 108–454, § 302(a), added par. (4).
+Subsec. (c)(4). Pub. L. 108–454, § 302(a), added par. (4).
 
 2003—Subsec. (b). Pub. L. 108–183 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of section 1110 of this title and subject to the provisions of section 1113 of this title, in the case of a veteran who is a former prisoner of war and who was detained or interned for not less than thirty days, the disease of—
 
@@ -829,29 +829,29 @@ which became manifest to a degree of 10 percent or more after active military, n
 
 1994—Subsec. (c)(3)(B)(i). Pub. L. 103–446 inserted before period at end “(without regard to whether the nation conducting the test was the United States or another nation)”.
 
-1992—Subsec. (c)(1). Pub. L. 102–578, § 2(a)(1), struck out “to a degree of 10 percent or more within the presumption period (as specified in paragraph (3) of this subsection)” after “radiation-exposed veteran”.
+1992—Subsec. (c)(1). Pub. L. 102–578, § 2(a)(1), struck out “to a degree of 10 percent or more within the presumption period (as specified in paragraph (3) of this subsection)” after “radiation-exposed veteran”.
 
-Subsec. (c)(2)(N), (O). Pub. L. 102–578, § 2(a)(2), added subpars. (N) and (O).
+Subsec. (c)(2)(N), (O). Pub. L. 102–578, § 2(a)(2), added subpars. (N) and (O).
 
-Subsec. (c)(3), (4). Pub. L. 102–578, § 2(a)(3), (4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The presumption period for purposes of paragraph (1) of this subsection is the 40-year period beginning on the last date on which the veteran participated in a radiation-risk activity.”
+Subsec. (c)(3), (4). Pub. L. 102–578, § 2(a)(3), (4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The presumption period for purposes of paragraph (1) of this subsection is the 40-year period beginning on the last date on which the veteran participated in a radiation-risk activity.”
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 312 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 312 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1110” for “310” and “1113” for “313” in introductory provisions.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1110” for “310” and “1113” for “313” in introductory provisions.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1110” for “310” and “1113” for “313” in introductory provisions.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1110” for “310” and “1113” for “313” in introductory provisions.
 
-Subsec. (b)(11). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b)(11). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (c)(1). Pub. L. 102–86, § 105(1), amended subsec. (c)(1) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “during active military, naval, or air service” for “during the veteran’s service on active duty” and “during a period” for “during the period”.
+Subsec. (c)(1). Pub. L. 102–86, § 105(1), amended subsec. (c)(1) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “during active military, naval, or air service” for “during the veteran’s service on active duty” and “during a period” for “during the period”.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1110” for “310” and “1113” for “313”.
+Pub. L. 102–83, § 5(c)(1), substituted “1110” for “310” and “1113” for “313”.
 
-Subsec. (c)(3). Pub. L. 102–86, § 104(a), amended subsec. (c)(3) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by striking out before period at end “, except that such period shall be the 30-year period beginning on that date in the case of leukemia (other than chronic lymphocytic leukemia)”.
+Subsec. (c)(3). Pub. L. 102–86, § 104(a), amended subsec. (c)(3) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by striking out before period at end “, except that such period shall be the 30-year period beginning on that date in the case of leukemia (other than chronic lymphocytic leukemia)”.
 
-Subsec. (c)(4)(A). Pub. L. 102–86, § 105(2), amended subsec. (c)(4)(A) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by inserting “(i)” after “means” and adding cl. (ii).
+Subsec. (c)(4)(A). Pub. L. 102–86, § 105(2), amended subsec. (c)(4)(A) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by inserting “(i)” after “means” and adding cl. (ii).
 
-Subsec. (c)(4)(B)(iii). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (c)(4)(B)(iii). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1988—Subsec. (b)(13) to (15). Pub. L. 100–322 added pars. (13) to (15).
 
@@ -859,13 +859,13 @@ Subsec. (c). Pub. L. 100–321 added subsec. (c).
 
 1986—Subsec. (b)(11), (12). Pub. L. 99–576 added pars. (11) and (12).
 
-1984—Subsec. (a)(1) to (5). Pub. L. 98–223, § 101(c), substituted “percent” for “per centum”.
+1984—Subsec. (a)(1) to (5). Pub. L. 98–223, § 101(c), substituted “percent” for “per centum”.
 
-Subsec. (b). Pub. L. 98–223, § 111, added par. (10).
+Subsec. (b). Pub. L. 98–223, § 111, added par. (10).
 
-Pub. L. 98–223, § 101(c), substituted “percent” for “per centum” in provision following par. (10).
+Pub. L. 98–223, § 101(c), substituted “percent” for “per centum” in provision following par. (10).
 
-1981—Subsecs. (b), (c). Pub. L. 97–37, § 4(a)(1), (2), redesignated subsec. (c) as (b) and generally revised structure so as to include anxiety states as a listed disease, and exclude the enumerated armed conflicts and resulting treatment incurred. Former subsec. (b), relating to treatment as a prisoner of war as deemed in violation of the Geneva Conventions of 1929 and 1949, was struck out.
+1981—Subsecs. (b), (c). Pub. L. 97–37, § 4(a)(1), (2), redesignated subsec. (c) as (b) and generally revised structure so as to include anxiety states as a listed disease, and exclude the enumerated armed conflicts and resulting treatment incurred. Former subsec. (b), relating to treatment as a prisoner of war as deemed in violation of the Geneva Conventions of 1929 and 1949, was struck out.
 
 1970—Pub. L. 91–376 inserted reference to disabilities in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
 
@@ -879,47 +879,47 @@ Pub. L. 86–187 substituted “three years” for “two years” in par. (4).
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–454, title III, § 302(c), Dec. 10, 2004, 118 Stat. 3610, provided that: “Paragraph (4) of section 1112(c) of title 38, United States Code, as added by subsection (a), shall take effect with respect to compensation payments for months beginning after March 26, 2002. Subsection (c) of section 1310 of such title, as added by subsection (b), shall take effect with respect to dependency and indemnity compensation payments for months beginning after March 26, 2002.”
+Pub. L. 108–454, title III, § 302(c), Dec. 10, 2004, 118 Stat. 3610, provided that: “Paragraph (4) of section 1112(c) of title 38, United States Code, as added by subsection (a), shall take effect with respect to compensation payments for months beginning after March 26, 2002. Subsection (c) of section 1310 of such title, as added by subsection (b), shall take effect with respect to dependency and indemnity compensation payments for months beginning after March 26, 2002.”
 
-Pub. L. 108–454, title III, § 306(c), Dec. 10, 2004, 118 Stat. 3612, provided that: “The amendments made by this section [amending this section] shall take effect as of March 26, 2002.”
+Pub. L. 108–454, title III, § 306(c), Dec. 10, 2004, 118 Stat. 3612, provided that: “The amendments made by this section [amending this section] shall take effect as of March 26, 2002.”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–578, § 2(b), Oct. 30, 1992, 106 Stat. 4774, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1992.”
+Pub. L. 102–578, § 2(b), Oct. 30, 1992, 106 Stat. 4774, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1992.”
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–86, title I, § 104(b), Aug. 14, 1991, 105 Stat. 415, provided that: “No benefit may be paid by reason of the amendment made by subsection (a) [amending this section] for any period before the date of the enactment of this Act [Aug. 14, 1991].”
+Pub. L. 102–86, title I, § 104(b), Aug. 14, 1991, 105 Stat. 415, provided that: “No benefit may be paid by reason of the amendment made by subsection (a) [amending this section] for any period before the date of the enactment of this Act [Aug. 14, 1991].”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–321, § 2(b), May 20, 1988, 102 Stat. 486, provided that: “Subsection (c) of section 312 [now 1112] of title 38, United States Code, as added by subsection (a), shall take effect on May 1, 1988.”
+Pub. L. 100–321, § 2(b), May 20, 1988, 102 Stat. 486, provided that: “Subsection (c) of section 312 [now 1112] of title 38, United States Code, as added by subsection (a), shall take effect on May 1, 1988.”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–576, title I, § 108(b), Oct. 28, 1986, 100 Stat. 3252, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as of October 1, 1986.”
+Pub. L. 99–576, title I, § 108(b), Oct. 28, 1986, 100 Stat. 3252, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as of October 1, 1986.”
 
 **Effective Date of 1984 Amendment**
 
 Amendment by section 101(c) of Pub. L. 98–223 effective Apr. 1, 1984, see section 107 of Pub. L. 98–223, set out as a note under section 1114 of this title.
 
-Pub. L. 98–223, title I, § 114, Mar. 2, 1984, 98 Stat. 40, provided that: “The amendments made by this part [part B (§§ 111–114) of title I of Pub. L. 98–223, amending this section and sections 314 and 3011 [now 1114 and 5111] of this title] shall take effect as of October 1, 1983.”
+Pub. L. 98–223, title I, § 114, Mar. 2, 1984, 98 Stat. 40, provided that: “The amendments made by this part [part B (§§ 111–114) of title I of Pub. L. 98–223, amending this section and sections 314 and 3011 [now 1114 and 5111] of this title] shall take effect as of October 1, 1983.”
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–37, § 4(b), Aug. 14, 1981, 95 Stat. 936, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1981.”
+Pub. L. 97–37, § 4(b), Aug. 14, 1981, 95 Stat. 936, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1981.”
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–645, § 4, Sept. 7, 1962, 76 Stat. 442, provided that: “This Act [amending this section and sections 314 and 3203 [now 1114 and 5503] of this title and enacting provisions set out as a note under section 1114 of this title] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act [Sept. 7, 1962] but no payments shall be made by reason of this Act for any period before such effective date. The increased rate of compensation payable to any veteran entitled thereto on such first day shall be further increased, for such month only, in an amount equal to three times the monthly increase provided for such veteran by the amendments made by this Act.”
+Pub. L. 87–645, § 4, Sept. 7, 1962, 76 Stat. 442, provided that: “This Act [amending this section and sections 314 and 3203 [now 1114 and 5503] of this title and enacting provisions set out as a note under section 1114 of this title] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act [Sept. 7, 1962] but no payments shall be made by reason of this Act for any period before such effective date. The increased rate of compensation payable to any veteran entitled thereto on such first day shall be further increased, for such month only, in an amount equal to three times the monthly increase provided for such veteran by the amendments made by this Act.”
 
-### § 1113. Presumptions rebuttable
+### § 1113. Presumptions rebuttable
 
 **(a)** Where there is affirmative evidence to the contrary, or evidence to establish that an intercurrent injury or disease which is a recognized cause of any of the diseases or disabilities within the purview of section 1112, 1116, 1117, 1118, or 1120 of this title, has been suffered between the date of separation from service and the onset of any such diseases or disabilities, or the disability is due to the veteran’s own willful misconduct, service-connection pursuant to section 1112, 1116, 1118, or 1120 of this title, or payments of compensation pursuant to section 1117 of this title, will not be in order.
 
 **(b)** Nothing in section 1112, 1116, 1117, 1118, or 1120 of this title, subsection (a) of this section, or section 5 of Public Law 98–542 (38 U.S.C. 1154 note) shall be construed to prevent the granting of service-connection for any disease or disorder otherwise shown by sound judgment to have been incurred in or aggravated by active military, naval, air, or space service.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, § 313; Pub. L. 102–4, § 2(b), Feb. 6, 1991, 105 Stat. 13; renumbered § 1113 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title I, § 106(b), title V, § 501(b)(1), Nov. 2, 1994, 108 Stat. 4651, 4663; Pub. L. 105–277, div. C, title XVI, § 1602(b), Oct. 21, 1998, 112 Stat. 2681–744; Pub. L. 116–283, div. A, title IX, § 926(a)(9), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–168, title IV, § 406(c), Aug. 10, 2022, 136 Stat. 1784.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, § 313; Pub. L. 102–4, § 2(b), Feb. 6, 1991, 105 Stat. 13; renumbered § 1113 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title I, § 106(b), title V, § 501(b)(1), Nov. 2, 1994, 108 Stat. 4651, 4663; Pub. L. 105–277, div. C, title XVI, § 1602(b), Oct. 21, 1998, 112 Stat. 2681–744; Pub. L. 116–283, div. A, title IX, § 926(a)(9), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–168, title IV, § 406(c), Aug. 10, 2022, 136 Stat. 1784.)
 
 **Editorial Notes**
 
@@ -929,19 +929,19 @@ Pub. L. 87–645, § 4, Sept. 7, 1962, 76 Stat. 442, provided that: “This Ac
 
 2021—Subsec. (b). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-1998—Subsec. (a). Pub. L. 105–277 substituted “1117, or 1118” for “or 1117” and “, 1116, or 1118” for “or 1116”.
+1998—Subsec. (a). Pub. L. 105–277 substituted “1117, or 1118” for “or 1117” and “, 1116, or 1118” for “or 1116”.
 
-Subsec. (b). Pub. L. 105–277, § 1602(b)(1), substituted “1117, or 1118” for “or 1117”.
+Subsec. (b). Pub. L. 105–277, § 1602(b)(1), substituted “1117, or 1118” for “or 1117”.
 
-1994—Subsec. (a). Pub. L. 103–446, § 106(b), inserted “or disabilities” after “diseases” in two places, substituted “purview of section 1112, 1116, or 1117” for “purview of section 1112 or 1116”, and inserted “, or payments of compensation pursuant to section 1117 of this title,” before “will not”.
+1994—Subsec. (a). Pub. L. 103–446, § 106(b), inserted “or disabilities” after “diseases” in two places, substituted “purview of section 1112, 1116, or 1117” for “purview of section 1112 or 1116”, and inserted “, or payments of compensation pursuant to section 1117 of this title,” before “will not”.
 
-Subsec. (b). Pub. L. 103–446, § 501(b)(1), substituted “title,” for “title or” and inserted “, or section 5 of Public Law 98–542 (38 U.S.C. 1154 note)” after “of this section”.
+Subsec. (b). Pub. L. 103–446, § 501(b)(1), substituted “title,” for “title or” and inserted “, or section 5 of Public Law 98–542 (38 U.S.C. 1154 note)” after “of this section”.
 
-Pub. L. 103–446, § 106(b)(1), substituted “section 1112, 1116, or 1117” for “section 1112 or 1116”.
+Pub. L. 103–446, § 106(b)(1), substituted “section 1112, 1116, or 1117” for “section 1112 or 1116”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 313 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 313 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1112 or 1116” for “312 or 316” wherever appearing.
+Pub. L. 102–83, § 5(c)(1), substituted “1112 or 1116” for “312 or 316” wherever appearing.
 
 Pub. L. 102–4 inserted “or 316” after “section 312” wherever appearing.
 
@@ -953,9 +953,9 @@ Amendment by Pub. L. 117–168 effective Aug. 10, 2022, with additional provisio
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–446, title V, § 501(b)(2), Nov. 2, 1994, 108 Stat. 4663, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to applications for veterans benefits that are submitted to the Secretary of Veterans Affairs after the date of the enactment of this Act [Nov. 2, 1994].”
+Pub. L. 103–446, title V, § 501(b)(2), Nov. 2, 1994, 108 Stat. 4663, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to applications for veterans benefits that are submitted to the Secretary of Veterans Affairs after the date of the enactment of this Act [Nov. 2, 1994].”
 
-### § 1114. Rates of wartime disability compensation
+### § 1114. Rates of wartime disability compensation
 
 For the purposes of section 1110 of this title—
 
@@ -991,7 +991,7 @@ For the purposes of section 1110 of this title—
 
 **(p)** in the event the veteran’s service-connected disabilities exceed the requirements for any of the rates prescribed in this section, the Secretary may allow the next higher rate or an intermediate rate, but in no event in excess of $4,667. In the event the veteran has suffered service-connected blindness with 5/200 visual acuity or less and (1) has also suffered bilateral deafness (and the hearing impairment in either one or both ears is service connected) rated at no less than 30 percent disabling, the Secretary shall allow the next higher rate, or (2) has also suffered service-connected total deafness in one ear or service-connected anatomical loss or loss of use of one hand or one foot, the Secretary shall allow the next intermediate rate, but in no event in excess of $4,667. In the event the veteran has suffered service-connected blindness, having only light perception or less, and has also suffered bilateral deafness (and the hearing impairment in either one or both ears is service connected) rated at 10 or 20 percent disabling, the Secretary shall allow the next intermediate rate, but in no event in excess of $4,667. In the event the veteran has suffered the anatomical loss or loss of use, or a combination of anatomical loss and loss of use, of three extremities, the Secretary shall allow the next higher rate or intermediate rate, but in no event in excess of $4,667. Any intermediate rate under this subsection shall be established at the arithmetic mean, rounded down to the nearest dollar, between the two rates concerned.
 
-**[(q)** Repealed. Pub. L. 90–493, § 4(a), Aug. 19, 1968, 82 Stat. 809.]
+**[(q)** Repealed. Pub. L. 90–493, § 4(a), Aug. 19, 1968, 82 Stat. 809.]
 
 **(r)** Subject to section 5503(c) of this title, if any veteran, otherwise entitled to compensation authorized under subsection (*o*) of this section, at the maximum rate authorized under subsection (p) of this section, or at the intermediate rate authorized between the rates authorized under subsections (n) and (*o*) of this section and at the rate authorized under subsection (k) of this section, is in need of regular aid and attendance, then, in addition to such compensation—
 
@@ -1005,959 +1005,959 @@ For the purposes of clause (2) of this subsection, need for a higher level of ca
 
 **(t)** Subject to section 5503(c) of this title, if any veteran, as the result of service-connected disability, is in need of regular aid and attendance for the residuals of traumatic brain injury, is not eligible for compensation under subsection (r)(2), and in the absence of such regular aid and attendance would require hospitalization, nursing home care, or other residential institutional care, the veteran shall be paid, in addition to any other compensation under this section, a monthly aid and attendance allowance equal to the rate described in subsection (r)(2), which for purposes of section 1134 of this title shall be considered as additional compensation payable for disability. An allowance authorized under this subsection shall be paid in lieu of any allowance authorized by subsection (r)(1).
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, § 314; Pub. L. 85–782, § 2, Aug. 27, 1958, 72 Stat. 936; Pub. L. 86–663, § 1, July 14, 1960, 74 Stat. 528; Pub. L. 87–645, §§ 1(a), 2(a), Sept. 7, 1962, 76 Stat. 441; Pub. L. 88–20, § 1, May 15, 1963, 77 Stat. 17; Pub. L. 88–22, § 1, May 15, 1963, 77 Stat. 18; Pub. L. 89–311, §§ 1(a), 3(d), (e), Oct. 31, 1965, 79 Stat. 1154, 1155; Pub. L. 90–77, title IV, § 401, Aug. 31, 1967, 81 Stat. 190; Pub. L. 90–493, §§ 1(a), 4(a), Aug. 19, 1968, 82 Stat. 808, 809; Pub. L. 91–376, § 1(a), Aug. 12, 1970, 84 Stat. 787; Pub. L. 92–328, title I, § 101(a), June 30, 1972, 86 Stat. 393; Pub. L. 93–295, title I, § 101(a), May 31, 1974, 88 Stat. 181; Pub. L. 94–71, title I, § 101(a), Aug. 5, 1975, 89 Stat. 395; Pub. L. 94–433, title I, § 101(a), title IV, §§ 401(4), (5), 404(6)–(8), Sept. 30, 1976, 90 Stat. 1374, 1377, 1378; Pub. L. 95–117, title I, § 101(a), Oct. 3, 1977, 91 Stat. 1063; Pub. L. 95–479, title I, § 101(a)–(d), Oct. 18, 1978, 92 Stat. 1560, 1561; Pub. L. 96–128, title I, §§ 101(a), 104, 105, Nov. 28, 1979, 93 Stat. 982, 984; Pub. L. 96–385, title I, § 101(a), Oct. 7, 1980, 94 Stat. 1528; Pub. L. 97–66, title I, §§ 101(a), 104, Oct. 17, 1981, 95 Stat. 1026, 1027; Pub. L. 97–253, title IV, §§ 404(a), 405(b), Sept. 8, 1982, 96 Stat. 803; Pub. L. 97–306, title I, §§ 101(a), 107, 111(a), (b), Oct. 14, 1982, 96 Stat. 1429, 1431, 1432; Pub. L. 98–223, title I, §§ 101(a), 112, Mar. 2, 1984, 98 Stat. 37, 40; Pub. L. 98–543, title I, § 101(a), Oct. 24, 1984, 98 Stat. 2735; Pub. L. 99–238, title I, § 101(a), Jan. 13, 1986, 99 Stat. 1765; Pub. L. 99–576, title I, §§ 101(a), 109(b), Oct. 28, 1986, 100 Stat. 3250, 3253; Pub. L. 100–227, title I, § 101(a), Dec. 31, 1987, 101 Stat. 1552; Pub. L. 100–687, div. B, title XI, § 1101(a), Nov. 18, 1988, 102 Stat. 4123; Pub. L. 101–237, title I, § 101(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–3, § 2(a), Feb. 6, 1991, 105 Stat. 7; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1114 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–152, § 2(a), Nov. 12, 1991, 105 Stat. 985; Pub. L. 103–78, § 1, Aug. 13, 1993, 107 Stat. 767; Pub. L. 103–140, § 2, Nov. 11, 1993, 107 Stat. 1485; Pub. L. 105–98, § 2(a), Nov. 19, 1997, 111 Stat. 2155; Pub. L. 106–118, § 2(a), Nov. 30, 1999, 113 Stat. 1601; Pub. L. 106–419, title III, § 302, Nov. 1, 2000, 114 Stat. 1853; Pub. L. 107–94, § 2(a), Dec. 21, 2001, 115 Stat. 900; Pub. L. 107–103, title II, § 204(b)(1), Dec. 27, 2001, 115 Stat. 990; Pub. L. 107–330, title I, § 102, title III, § 309(a), Dec. 6, 2002, 116 Stat. 2821, 2829; Pub. L. 108–454, title III, § 307(a), Dec. 10, 2004, 118 Stat. 3612; Pub. L. 109–111, § 2(a), Nov. 22, 2005, 119 Stat. 2362; Pub. L. 109–233, title V, § 502(1), (2), June 15, 2006, 120 Stat. 415; Pub. L. 109–444, § 9(a), Dec. 21, 2006, 120 Stat. 3314; Pub. L. 109–461, title X, §§ 1005(a), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 110–157, title I, § 101, Dec. 26, 2007, 121 Stat. 1831; Pub. L. 110–324, § 3(a), Sept. 24, 2008, 122 Stat. 3550; Pub. L. 111–37, § 3(a), June 30, 2009, 123 Stat. 1928; Pub. L. 111–275, title VI, § 601(a), (b)(1), title X, § 1001(b), Oct. 13, 2010, 124 Stat. 2884, 2896.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, § 314; Pub. L. 85–782, § 2, Aug. 27, 1958, 72 Stat. 936; Pub. L. 86–663, § 1, July 14, 1960, 74 Stat. 528; Pub. L. 87–645, §§ 1(a), 2(a), Sept. 7, 1962, 76 Stat. 441; Pub. L. 88–20, § 1, May 15, 1963, 77 Stat. 17; Pub. L. 88–22, § 1, May 15, 1963, 77 Stat. 18; Pub. L. 89–311, §§ 1(a), 3(d), (e), Oct. 31, 1965, 79 Stat. 1154, 1155; Pub. L. 90–77, title IV, § 401, Aug. 31, 1967, 81 Stat. 190; Pub. L. 90–493, §§ 1(a), 4(a), Aug. 19, 1968, 82 Stat. 808, 809; Pub. L. 91–376, § 1(a), Aug. 12, 1970, 84 Stat. 787; Pub. L. 92–328, title I, § 101(a), June 30, 1972, 86 Stat. 393; Pub. L. 93–295, title I, § 101(a), May 31, 1974, 88 Stat. 181; Pub. L. 94–71, title I, § 101(a), Aug. 5, 1975, 89 Stat. 395; Pub. L. 94–433, title I, § 101(a), title IV, §§ 401(4), (5), 404(6)–(8), Sept. 30, 1976, 90 Stat. 1374, 1377, 1378; Pub. L. 95–117, title I, § 101(a), Oct. 3, 1977, 91 Stat. 1063; Pub. L. 95–479, title I, § 101(a)–(d), Oct. 18, 1978, 92 Stat. 1560, 1561; Pub. L. 96–128, title I, §§ 101(a), 104, 105, Nov. 28, 1979, 93 Stat. 982, 984; Pub. L. 96–385, title I, § 101(a), Oct. 7, 1980, 94 Stat. 1528; Pub. L. 97–66, title I, §§ 101(a), 104, Oct. 17, 1981, 95 Stat. 1026, 1027; Pub. L. 97–253, title IV, §§ 404(a), 405(b), Sept. 8, 1982, 96 Stat. 803; Pub. L. 97–306, title I, §§ 101(a), 107, 111(a), (b), Oct. 14, 1982, 96 Stat. 1429, 1431, 1432; Pub. L. 98–223, title I, §§ 101(a), 112, Mar. 2, 1984, 98 Stat. 37, 40; Pub. L. 98–543, title I, § 101(a), Oct. 24, 1984, 98 Stat. 2735; Pub. L. 99–238, title I, § 101(a), Jan. 13, 1986, 99 Stat. 1765; Pub. L. 99–576, title I, §§ 101(a), 109(b), Oct. 28, 1986, 100 Stat. 3250, 3253; Pub. L. 100–227, title I, § 101(a), Dec. 31, 1987, 101 Stat. 1552; Pub. L. 100–687, div. B, title XI, § 1101(a), Nov. 18, 1988, 102 Stat. 4123; Pub. L. 101–237, title I, § 101(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–3, § 2(a), Feb. 6, 1991, 105 Stat. 7; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1114 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–152, § 2(a), Nov. 12, 1991, 105 Stat. 985; Pub. L. 103–78, § 1, Aug. 13, 1993, 107 Stat. 767; Pub. L. 103–140, § 2, Nov. 11, 1993, 107 Stat. 1485; Pub. L. 105–98, § 2(a), Nov. 19, 1997, 111 Stat. 2155; Pub. L. 106–118, § 2(a), Nov. 30, 1999, 113 Stat. 1601; Pub. L. 106–419, title III, § 302, Nov. 1, 2000, 114 Stat. 1853; Pub. L. 107–94, § 2(a), Dec. 21, 2001, 115 Stat. 900; Pub. L. 107–103, title II, § 204(b)(1), Dec. 27, 2001, 115 Stat. 990; Pub. L. 107–330, title I, § 102, title III, § 309(a), Dec. 6, 2002, 116 Stat. 2821, 2829; Pub. L. 108–454, title III, § 307(a), Dec. 10, 2004, 118 Stat. 3612; Pub. L. 109–111, § 2(a), Nov. 22, 2005, 119 Stat. 2362; Pub. L. 109–233, title V, § 502(1), (2), June 15, 2006, 120 Stat. 415; Pub. L. 109–444, § 9(a), Dec. 21, 2006, 120 Stat. 3314; Pub. L. 109–461, title X, §§ 1005(a), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 110–157, title I, § 101, Dec. 26, 2007, 121 Stat. 1831; Pub. L. 110–324, § 3(a), Sept. 24, 2008, 122 Stat. 3550; Pub. L. 111–37, § 3(a), June 30, 2009, 123 Stat. 1928; Pub. L. 111–275, title VI, § 601(a), (b)(1), title X, § 1001(b), Oct. 13, 2010, 124 Stat. 2884, 2896.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (m). Pub. L. 111–275, § 601(a)(1), substituted “both legs with factors” for “both legs at a level, or with complications,” and “one leg with factors” for “one leg at levels, or with complications,”.
+2010—Subsec. (m). Pub. L. 111–275, § 601(a)(1), substituted “both legs with factors” for “both legs at a level, or with complications,” and “one leg with factors” for “one leg at levels, or with complications,”.
 
-Subsec. (n). Pub. L. 111–275, § 601(a)(2), substituted “both arms with factors” for “both arms at levels, or with complications,”, “both legs with factors that” for “both legs so near the hip as to”, and “one leg with factors that” for “one leg so near the shoulder and hip as to”.
+Subsec. (n). Pub. L. 111–275, § 601(a)(2), substituted “both arms with factors” for “both arms at levels, or with complications,”, “both legs with factors that” for “both legs so near the hip as to”, and “one leg with factors that” for “one leg so near the shoulder and hip as to”.
 
-Subsec. (*o*). Pub. L. 111–275, § 601(a)(3), substituted “with factors that” for “so near the shoulder as to”.
+Subsec. (*o*). Pub. L. 111–275, § 601(a)(3), substituted “with factors that” for “so near the shoulder as to”.
 
-Subsec. (p). Pub. L. 111–275, § 601(b)(1)(A), substituted a period for the semicolon at end.
+Subsec. (p). Pub. L. 111–275, § 601(b)(1)(A), substituted a period for the semicolon at end.
 
-Subsec. (r)(2). Pub. L. 111–275, § 1001(b), substituted “$2,983” for “$$2,983”.
+Subsec. (r)(2). Pub. L. 111–275, § 1001(b), substituted “$2,983” for “$$2,983”.
 
-Subsec. (t). Pub. L. 111–275, § 601(b)(1)(B), added subsec. (t).
+Subsec. (t). Pub. L. 111–275, § 601(b)(1)(B), added subsec. (t).
 
-2009—Subsec. (a). Pub. L. 111–37, § 3(a)(1), substituted “$123” for “$117”.
+2009—Subsec. (a). Pub. L. 111–37, § 3(a)(1), substituted “$123” for “$117”.
 
-Subsec. (b). Pub. L. 111–37, § 3(a)(2), substituted “$243” for “$230”.
+Subsec. (b). Pub. L. 111–37, § 3(a)(2), substituted “$243” for “$230”.
 
-Subsec. (c). Pub. L. 111–37, § 3(a)(3), substituted “$376” for “$356”.
+Subsec. (c). Pub. L. 111–37, § 3(a)(3), substituted “$376” for “$356”.
 
-Subsec. (d). Pub. L. 111–37, § 3(a)(4), substituted “$541” for “$512”.
+Subsec. (d). Pub. L. 111–37, § 3(a)(4), substituted “$541” for “$512”.
 
-Subsec. (e). Pub. L. 111–37, § 3(a)(5), substituted “$770” for “$728”.
+Subsec. (e). Pub. L. 111–37, § 3(a)(5), substituted “$770” for “$728”.
 
-Subsec. (f). Pub. L. 111–37, § 3(a)(6), substituted “$974” for “$921”.
+Subsec. (f). Pub. L. 111–37, § 3(a)(6), substituted “$974” for “$921”.
 
-Subsec. (g). Pub. L. 111–37, § 3(a)(7), substituted “$1,228” for “$1,161”.
+Subsec. (g). Pub. L. 111–37, § 3(a)(7), substituted “$1,228” for “$1,161”.
 
-Subsec. (h). Pub. L. 111–37, § 3(a)(8), substituted “$1,427” for “$1,349”.
+Subsec. (h). Pub. L. 111–37, § 3(a)(8), substituted “$1,427” for “$1,349”.
 
-Subsec. (i). Pub. L. 111–37, § 3(a)(9), substituted “$1,604” for “$1,517”.
+Subsec. (i). Pub. L. 111–37, § 3(a)(9), substituted “$1,604” for “$1,517”.
 
-Subsec. (j). Pub. L. 111–37, § 3(a)(10), substituted “$2,673” for “$2,527”.
+Subsec. (j). Pub. L. 111–37, § 3(a)(10), substituted “$2,673” for “$2,527”.
 
-Subsec. (k). Pub. L. 111–37, § 3(a)(11), substituted “$96” for “$91” in two places and substituted “$3,327” and “$4,667” for “$3,145” and “$4,412”, respectively.
+Subsec. (k). Pub. L. 111–37, § 3(a)(11), substituted “$96” for “$91” in two places and substituted “$3,327” and “$4,667” for “$3,145” and “$4,412”, respectively.
 
-Subsec. (*l*). Pub. L. 111–37, § 3(a)(12), substituted “$3,327” for “$3,145”.
+Subsec. (*l*). Pub. L. 111–37, § 3(a)(12), substituted “$3,327” for “$3,145”.
 
-Subsec. (m). Pub. L. 111–37, § 3(a)(13), substituted “$3,671” for “$3,470”.
+Subsec. (m). Pub. L. 111–37, § 3(a)(13), substituted “$3,671” for “$3,470”.
 
-Subsec. (n). Pub. L. 111–37, § 3(a)(14), substituted “$4,176” for “$3,948”.
+Subsec. (n). Pub. L. 111–37, § 3(a)(14), substituted “$4,176” for “$3,948”.
 
-Subsecs. (*o*), (p). Pub. L. 111–37, § 3(a)(15), substituted “$4,667” for “$4,412” wherever appearing.
+Subsecs. (*o*), (p). Pub. L. 111–37, § 3(a)(15), substituted “$4,667” for “$4,412” wherever appearing.
 
-Subsec. (r)(1). Pub. L. 111–37, § 3(a)(16), substituted “$2,002” for “$1,893”.
+Subsec. (r)(1). Pub. L. 111–37, § 3(a)(16), substituted “$2,002” for “$1,893”.
 
-Subsec. (r)(2). Pub. L. 111–37, § 3(a)(16), substituted “$2,983” for “$2,820”.
+Subsec. (r)(2). Pub. L. 111–37, § 3(a)(16), substituted “$2,983” for “$2,820”.
 
-Subsec. (s). Pub. L. 111–37, § 3(a)(17), substituted “$2,993” for “$2,829”.
+Subsec. (s). Pub. L. 111–37, § 3(a)(17), substituted “$2,993” for “$2,829”.
 
-2008—Subsec. (a). Pub. L. 110–324, § 3(a)(1), substituted “$117” for “$115”.
+2008—Subsec. (a). Pub. L. 110–324, § 3(a)(1), substituted “$117” for “$115”.
 
-Subsec. (b). Pub. L. 110–324, § 3(a)(2), substituted “$230” for “$225”.
+Subsec. (b). Pub. L. 110–324, § 3(a)(2), substituted “$230” for “$225”.
 
-Subsec. (c). Pub. L. 110–324, § 3(a)(3), substituted “$356” for “$348”.
+Subsec. (c). Pub. L. 110–324, § 3(a)(3), substituted “$356” for “$348”.
 
-Subsec. (d). Pub. L. 110–324, § 3(a)(4), substituted “$512” for “$501”.
+Subsec. (d). Pub. L. 110–324, § 3(a)(4), substituted “$512” for “$501”.
 
-Subsec. (e). Pub. L. 110–324, § 3(a)(5), substituted “$728” for “$712”.
+Subsec. (e). Pub. L. 110–324, § 3(a)(5), substituted “$728” for “$712”.
 
-Subsec. (f). Pub. L. 110–324, § 3(a)(6), substituted “$921” for “$901”.
+Subsec. (f). Pub. L. 110–324, § 3(a)(6), substituted “$921” for “$901”.
 
-Subsec. (g). Pub. L. 110–324, § 3(a)(7), substituted “$1,161” for “$1,135”.
+Subsec. (g). Pub. L. 110–324, § 3(a)(7), substituted “$1,161” for “$1,135”.
 
-Subsec. (h). Pub. L. 110–324, § 3(a)(8), substituted “$1,349” for “$1,319”.
+Subsec. (h). Pub. L. 110–324, § 3(a)(8), substituted “$1,349” for “$1,319”.
 
-Subsec. (i). Pub. L. 110–324, § 3(a)(9), substituted “$1,517” for “$1,483”.
+Subsec. (i). Pub. L. 110–324, § 3(a)(9), substituted “$1,517” for “$1,483”.
 
-Subsec. (j). Pub. L. 110–324, § 3(a)(10), substituted “$2,527” for “$2,471”.
+Subsec. (j). Pub. L. 110–324, § 3(a)(10), substituted “$2,527” for “$2,471”.
 
-Subsec. (k). Pub. L. 110–324, § 3(a)(11), substituted “$91” for “$89” in two places and substituted “$3,145” and “$4,412” for “$3,075” and “$4,313”, respectively.
+Subsec. (k). Pub. L. 110–324, § 3(a)(11), substituted “$91” for “$89” in two places and substituted “$3,145” and “$4,412” for “$3,075” and “$4,313”, respectively.
 
-Subsec. (*l*). Pub. L. 110–324, § 3(a)(12), substituted “$3,145” for “$3,075”.
+Subsec. (*l*). Pub. L. 110–324, § 3(a)(12), substituted “$3,145” for “$3,075”.
 
-Subsec. (m). Pub. L. 110–324, § 3(a)(13), substituted “$3,470” for “$3,392”.
+Subsec. (m). Pub. L. 110–324, § 3(a)(13), substituted “$3,470” for “$3,392”.
 
-Subsec. (n). Pub. L. 110–324, § 3(a)(14), substituted “$3,948” for “$3,860”.
+Subsec. (n). Pub. L. 110–324, § 3(a)(14), substituted “$3,948” for “$3,860”.
 
-Subsecs. (*o*), (p). Pub. L. 110–324, § 3(a)(15), substituted “$4,412” for “$4,313” wherever appearing.
+Subsecs. (*o*), (p). Pub. L. 110–324, § 3(a)(15), substituted “$4,412” for “$4,313” wherever appearing.
 
-Subsec. (r)(1). Pub. L. 110–324, § 3(a)(16), substituted “$1,893” for “$1,851”.
+Subsec. (r)(1). Pub. L. 110–324, § 3(a)(16), substituted “$1,893” for “$1,851”.
 
-Subsec. (r)(2). Pub. L. 110–324, § 3(a)(16), substituted “$2,820” for “$2,757”.
+Subsec. (r)(2). Pub. L. 110–324, § 3(a)(16), substituted “$2,820” for “$2,757”.
 
-Subsec. (s). Pub. L. 110–324, § 3(a)(17), substituted “$2,829” for “$2,766”.
+Subsec. (s). Pub. L. 110–324, § 3(a)(17), substituted “$2,829” for “$2,766”.
 
 2007—Subsec. (*o*). Pub. L. 110–157 substituted “20/200” for “5/200”.
 
-2006—Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Subsec. (a). Pub. L. 109–461, § 1005(a)(1), substituted “$115” for “$112”.
+Subsec. (a). Pub. L. 109–461, § 1005(a)(1), substituted “$115” for “$112”.
 
-Pub. L. 109–444, § 9(a)(1), which substituted “$115” for “$112”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(1), which substituted “$115” for “$112”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (b). Pub. L. 109–461, § 1005(a)(2), substituted “$225” for “$218”.
+Subsec. (b). Pub. L. 109–461, § 1005(a)(2), substituted “$225” for “$218”.
 
-Pub. L. 109–444, § 9(a)(2), which substituted “$225” for “$218”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(2), which substituted “$225” for “$218”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (c). Pub. L. 109–461, § 1005(a)(3), substituted “$348” for “$337”.
+Subsec. (c). Pub. L. 109–461, § 1005(a)(3), substituted “$348” for “$337”.
 
-Pub. L. 109–444, § 9(a)(3), which substituted “$348” for “$337”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(3), which substituted “$348” for “$337”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (d). Pub. L. 109–461, § 1005(a)(4), substituted “$501” for “$485”.
+Subsec. (d). Pub. L. 109–461, § 1005(a)(4), substituted “$501” for “$485”.
 
-Pub. L. 109–444, § 9(a)(4), which substituted “$501” for “$485”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(4), which substituted “$501” for “$485”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (e). Pub. L. 109–461, § 1005(a)(5), substituted “$712” for “$690”.
+Subsec. (e). Pub. L. 109–461, § 1005(a)(5), substituted “$712” for “$690”.
 
-Pub. L. 109–444, § 9(a)(5), which substituted “$712” for “$690”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(5), which substituted “$712” for “$690”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (f). Pub. L. 109–461, § 1005(a)(6), substituted “$901” for “$873”.
+Subsec. (f). Pub. L. 109–461, § 1005(a)(6), substituted “$901” for “$873”.
 
-Pub. L. 109–444, § 9(a)(6), which substituted “$901” for “$873”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(6), which substituted “$901” for “$873”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (g). Pub. L. 109–461, § 1005(a)(7), substituted “$1,135” for “$1,099”.
+Subsec. (g). Pub. L. 109–461, § 1005(a)(7), substituted “$1,135” for “$1,099”.
 
-Pub. L. 109–444, § 9(a)(7), which substituted “$1,135” for “$1,099”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(7), which substituted “$1,135” for “$1,099”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (h). Pub. L. 109–461, § 1005(a)(8), substituted “$1,319” for “$1,277”.
+Subsec. (h). Pub. L. 109–461, § 1005(a)(8), substituted “$1,319” for “$1,277”.
 
-Pub. L. 109–444, § 9(a)(8), which substituted “$1,319” for “$1,277”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(8), which substituted “$1,319” for “$1,277”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (i). Pub. L. 109–461, § 1005(a)(9), substituted “$1,483” for “$1,436”.
+Subsec. (i). Pub. L. 109–461, § 1005(a)(9), substituted “$1,483” for “$1,436”.
 
-Pub. L. 109–444, § 9(a)(9), which substituted “$1,483” for “$1,436”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(9), which substituted “$1,483” for “$1,436”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (j). Pub. L. 109–461, § 1005(a)(10), substituted “$2,471” for “$2,393”.
+Subsec. (j). Pub. L. 109–461, § 1005(a)(10), substituted “$2,471” for “$2,393”.
 
-Pub. L. 109–444, § 9(a)(10), which substituted “$2,471” for “$2,393”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(10), which substituted “$2,471” for “$2,393”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (k). Pub. L. 109–461, § 1005(a)(11), substituted “$89” for “$87” in two places and substituted “$3,075” and “$4,313” for “$2,977” and “$4,176”, respectively.
+Subsec. (k). Pub. L. 109–461, § 1005(a)(11), substituted “$89” for “$87” in two places and substituted “$3,075” and “$4,313” for “$2,977” and “$4,176”, respectively.
 
-Pub. L. 109–444, § 9(a)(11), which substituted “$89” for “$87” in two places and substituted “$3,075” and “$4,313” for “$2,977” and “$4,176”, respectively, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(11), which substituted “$89” for “$87” in two places and substituted “$3,075” and “$4,313” for “$2,977” and “$4,176”, respectively, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (*l*). Pub. L. 109–461, § 1005(a)(12), substituted “$3,075” for “$2,977”.
+Subsec. (*l*). Pub. L. 109–461, § 1005(a)(12), substituted “$3,075” for “$2,977”.
 
-Pub. L. 109–444, § 9(a)(12), which substituted “$3,075” for “$2,977”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(12), which substituted “$3,075” for “$2,977”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Pub. L. 109–233, § 502(1), substituted “with such significant disabilities” for “so helpless”.
+Pub. L. 109–233, § 502(1), substituted “with such significant disabilities” for “so helpless”.
 
-Subsec. (m). Pub. L. 109–461, § 1005(a)(13), substituted “$3,392” for “$3,284”.
+Subsec. (m). Pub. L. 109–461, § 1005(a)(13), substituted “$3,392” for “$3,284”.
 
-Pub. L. 109–444, § 9(a)(13), which substituted “$3,392” for “$3,284”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(13), which substituted “$3,392” for “$3,284”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Pub. L. 109–233, § 502(2), substituted “so significantly disabled” for “so helpless”.
+Pub. L. 109–233, § 502(2), substituted “so significantly disabled” for “so helpless”.
 
-Subsec. (n). Pub. L. 109–461, § 1005(a)(14), substituted “$3,860” for “$3,737”.
+Subsec. (n). Pub. L. 109–461, § 1005(a)(14), substituted “$3,860” for “$3,737”.
 
-Pub. L. 109–444, § 9(a)(14), which substituted “$3,860” for “$3,737”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(14), which substituted “$3,860” for “$3,737”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsecs. (*o*), (p). Pub. L. 109–461, § 1005(a)(15), substituted “$4,313” for “$4,176” wherever appearing.
+Subsecs. (*o*), (p). Pub. L. 109–461, § 1005(a)(15), substituted “$4,313” for “$4,176” wherever appearing.
 
-Pub. L. 109–444, § 9(a)(15), which substituted “$4,313” for “$4,176” wherever appearing, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(15), which substituted “$4,313” for “$4,176” wherever appearing, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (r). Pub. L. 109–461, § 1005(a)(16), substituted “$1,851” and “$2,757” for “$1,792” and “2,669”, respectively.
+Subsec. (r). Pub. L. 109–461, § 1005(a)(16), substituted “$1,851” and “$2,757” for “$1,792” and “2,669”, respectively.
 
-Pub. L. 109–444, § 9(a)(16), which substituted “$1,851” and “$2,757” for “$1,792” and “2,669”, respectively, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(16), which substituted “$1,851” and “$2,757” for “$1,792” and “2,669”, respectively, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (s). Pub. L. 109–461, § 1005(a)(17), substituted “$2,766” for “$2,678”.
+Subsec. (s). Pub. L. 109–461, § 1005(a)(17), substituted “$2,766” for “$2,678”.
 
-Pub. L. 109–444, § 9(a)(17), which substituted “$2,766” for “$2,678”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(a)(17), which substituted “$2,766” for “$2,678”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-2005—Subsec. (a). Pub. L. 109–111, § 2(a)(1), substituted “$112” for “$106”.
+2005—Subsec. (a). Pub. L. 109–111, § 2(a)(1), substituted “$112” for “$106”.
 
-Subsec. (b). Pub. L. 109–111, § 2(a)(2), substituted “$218” for “$205”.
+Subsec. (b). Pub. L. 109–111, § 2(a)(2), substituted “$218” for “$205”.
 
-Subsec. (c). Pub. L. 109–111, § 2(a)(3), substituted “$337” for “$316”.
+Subsec. (c). Pub. L. 109–111, § 2(a)(3), substituted “$337” for “$316”.
 
-Subsec. (d). Pub. L. 109–111, § 2(a)(4), substituted “$485” for “$454”.
+Subsec. (d). Pub. L. 109–111, § 2(a)(4), substituted “$485” for “$454”.
 
-Subsec. (e). Pub. L. 109–111, § 2(a)(5), substituted “$690” for “$646”.
+Subsec. (e). Pub. L. 109–111, § 2(a)(5), substituted “$690” for “$646”.
 
-Subsec. (f). Pub. L. 109–111, § 2(a)(6), substituted “$873” for “$817”.
+Subsec. (f). Pub. L. 109–111, § 2(a)(6), substituted “$873” for “$817”.
 
-Subsec. (g). Pub. L. 109–111, § 2(a)(7), substituted “$1,099” for “$1,029”.
+Subsec. (g). Pub. L. 109–111, § 2(a)(7), substituted “$1,099” for “$1,029”.
 
-Subsec. (h). Pub. L. 109–111, § 2(a)(8), substituted “$1,277” for “$1,195”.
+Subsec. (h). Pub. L. 109–111, § 2(a)(8), substituted “$1,277” for “$1,195”.
 
-Subsec. (i). Pub. L. 109–111, § 2(a)(9), substituted “$1,436” for “$1,344”.
+Subsec. (i). Pub. L. 109–111, § 2(a)(9), substituted “$1,436” for “$1,344”.
 
-Subsec. (j). Pub. L. 109–111, § 2(a)(10), substituted “$2,393” for “$2,239”.
+Subsec. (j). Pub. L. 109–111, § 2(a)(10), substituted “$2,393” for “$2,239”.
 
-Subsec. (k). Pub. L. 109–111, § 2(a)(11), substituted “$87” for “$82” in two places and substituted “$2,977” and “$4,176” for “$2,785” and “$3,907”, respectively.
+Subsec. (k). Pub. L. 109–111, § 2(a)(11), substituted “$87” for “$82” in two places and substituted “$2,977” and “$4,176” for “$2,785” and “$3,907”, respectively.
 
-Subsec. (*l*). Pub. L. 109–111, § 2(a)(12), substituted “$2,977” for “$2,785”.
+Subsec. (*l*). Pub. L. 109–111, § 2(a)(12), substituted “$2,977” for “$2,785”.
 
-Subsec. (m). Pub. L. 109–111, § 2(a)(13), substituted “$3,284” for “$3,073”.
+Subsec. (m). Pub. L. 109–111, § 2(a)(13), substituted “$3,284” for “$3,073”.
 
-Subsec. (n). Pub. L. 109–111, § 2(a)(14), substituted “$3,737” for “$3,496”.
+Subsec. (n). Pub. L. 109–111, § 2(a)(14), substituted “$3,737” for “$3,496”.
 
-Subsecs. (*o*), (p). Pub. L. 109–111, § 2(a)(15), substituted “$4,176” for “$3,907” wherever appearing.
+Subsecs. (*o*), (p). Pub. L. 109–111, § 2(a)(15), substituted “$4,176” for “$3,907” wherever appearing.
 
-Subsec. (r). Pub. L. 109–111, § 2(a)(16), substituted “$1,792” and “$2,669” for “$1,677” and “$2,497”, respectively.
+Subsec. (r). Pub. L. 109–111, § 2(a)(16), substituted “$1,792” and “$2,669” for “$1,677” and “$2,497”, respectively.
 
-Subsec. (s). Pub. L. 109–111, § 2(a)(17), substituted “$2,678” for “$2,506”.
+Subsec. (s). Pub. L. 109–111, § 2(a)(17), substituted “$2,678” for “$2,506”.
 
-2004—Subsec. (a). Pub. L. 108–454, § 307(a)(1), substituted “$106” for “$104”.
+2004—Subsec. (a). Pub. L. 108–454, § 307(a)(1), substituted “$106” for “$104”.
 
-Subsec. (b). Pub. L. 108–454, § 307(a)(2), substituted “$205” for “$201”.
+Subsec. (b). Pub. L. 108–454, § 307(a)(2), substituted “$205” for “$201”.
 
-Subsec. (c). Pub. L. 108–454, § 307(a)(3), substituted “$316” for “$310”.
+Subsec. (c). Pub. L. 108–454, § 307(a)(3), substituted “$316” for “$310”.
 
-Subsec. (d). Pub. L. 108–454, § 307(a)(4), substituted “$454” for “$445”.
+Subsec. (d). Pub. L. 108–454, § 307(a)(4), substituted “$454” for “$445”.
 
-Subsec. (e). Pub. L. 108–454, § 307(a)(5), substituted “$646” for “$633”.
+Subsec. (e). Pub. L. 108–454, § 307(a)(5), substituted “$646” for “$633”.
 
-Subsec. (f). Pub. L. 108–454, § 307(a)(6), substituted “$817” for “$801”.
+Subsec. (f). Pub. L. 108–454, § 307(a)(6), substituted “$817” for “$801”.
 
-Subsec. (g). Pub. L. 108–454, § 307(a)(7), substituted “$1,029” for “$1,008”.
+Subsec. (g). Pub. L. 108–454, § 307(a)(7), substituted “$1,029” for “$1,008”.
 
-Subsec. (h). Pub. L. 108–454, § 307(a)(8), substituted “$1,195” for “$1,171”.
+Subsec. (h). Pub. L. 108–454, § 307(a)(8), substituted “$1,195” for “$1,171”.
 
-Subsec. (i). Pub. L. 108–454, § 307(a)(9), substituted “$1,344” for “$1,317”.
+Subsec. (i). Pub. L. 108–454, § 307(a)(9), substituted “$1,344” for “$1,317”.
 
-Subsec. (j). Pub. L. 108–454, § 307(a)(10), substituted “$2,239” for “$2,193”.
+Subsec. (j). Pub. L. 108–454, § 307(a)(10), substituted “$2,239” for “$2,193”.
 
-Subsec. (k). Pub. L. 108–454, § 307(a)(11), substituted “$82” for “$81” in two places and substituted “$2,785” and “$3,907” for “$2,728” and “$3,827”, respectively.
+Subsec. (k). Pub. L. 108–454, § 307(a)(11), substituted “$82” for “$81” in two places and substituted “$2,785” and “$3,907” for “$2,728” and “$3,827”, respectively.
 
-Subsec. (*l*). Pub. L. 108–454, § 307(a)(12), substituted “$2,785” for “$2,728”.
+Subsec. (*l*). Pub. L. 108–454, § 307(a)(12), substituted “$2,785” for “$2,728”.
 
-Subsec. (m). Pub. L. 108–454, § 307(a)(13), substituted “$3,073” for “$3,010”.
+Subsec. (m). Pub. L. 108–454, § 307(a)(13), substituted “$3,073” for “$3,010”.
 
-Subsec. (n). Pub. L. 108–454, § 307(a)(14), substituted “$3,496” for “$3,425”.
+Subsec. (n). Pub. L. 108–454, § 307(a)(14), substituted “$3,496” for “$3,425”.
 
-Subsecs. (*o*), (p). Pub. L. 108–454, § 307(a)(15), substituted “$3,907” for “$3,827” wherever appearing.
+Subsecs. (*o*), (p). Pub. L. 108–454, § 307(a)(15), substituted “$3,907” for “$3,827” wherever appearing.
 
-Subsec. (r). Pub. L. 108–454, § 307(a)(16), substituted “$1,677” and “$2,497” for “$1,643” and “$2,446”, respectively.
+Subsec. (r). Pub. L. 108–454, § 307(a)(16), substituted “$1,677” and “$2,497” for “$1,643” and “$2,446”, respectively.
 
-Subsec. (s). Pub. L. 108–454, § 307(a)(17), substituted “$2,506” for “$2,455”.
+Subsec. (s). Pub. L. 108–454, § 307(a)(17), substituted “$2,506” for “$2,455”.
 
-2002—Subsec. (a). Pub. L. 107–330, § 309(a)(1), substituted “$104” for “$103”.
+2002—Subsec. (a). Pub. L. 107–330, § 309(a)(1), substituted “$104” for “$103”.
 
-Subsec. (b). Pub. L. 107–330, § 309(a)(2), substituted “$201” for “$199”.
+Subsec. (b). Pub. L. 107–330, § 309(a)(2), substituted “$201” for “$199”.
 
-Subsec. (c). Pub. L. 107–330, § 309(a)(3), substituted “$310” for “$306”.
+Subsec. (c). Pub. L. 107–330, § 309(a)(3), substituted “$310” for “$306”.
 
-Subsec. (d). Pub. L. 107–330, § 309(a)(4), substituted “$445” for “$439”.
+Subsec. (d). Pub. L. 107–330, § 309(a)(4), substituted “$445” for “$439”.
 
-Subsec. (e). Pub. L. 107–330, § 309(a)(5), substituted “$633” for “$625”.
+Subsec. (e). Pub. L. 107–330, § 309(a)(5), substituted “$633” for “$625”.
 
-Subsec. (f). Pub. L. 107–330, § 309(a)(6), substituted “$801” for “$790”.
+Subsec. (f). Pub. L. 107–330, § 309(a)(6), substituted “$801” for “$790”.
 
-Subsec. (g). Pub. L. 107–330, § 309(a)(7), substituted “$1,008” for “$995”.
+Subsec. (g). Pub. L. 107–330, § 309(a)(7), substituted “$1,008” for “$995”.
 
-Subsec. (h). Pub. L. 107–330, § 309(a)(8), substituted “$1,171” for “$1,155”.
+Subsec. (h). Pub. L. 107–330, § 309(a)(8), substituted “$1,171” for “$1,155”.
 
-Subsec. (i). Pub. L. 107–330, § 309(a)(9), substituted “$1,317” for “$1,299”.
+Subsec. (i). Pub. L. 107–330, § 309(a)(9), substituted “$1,317” for “$1,299”.
 
-Subsec. (j). Pub. L. 107–330, § 309(a)(10), substituted “$2,193” for “$2,163”.
+Subsec. (j). Pub. L. 107–330, § 309(a)(10), substituted “$2,193” for “$2,163”.
 
-Subsec. (k). Pub. L. 107–330, § 309(a)(11), substituted “$81” for “$80” in two places and substituted “$2,728” and “$3,827” for “$2,691” and “$3,775”, respectively.
+Subsec. (k). Pub. L. 107–330, § 309(a)(11), substituted “$81” for “$80” in two places and substituted “$2,728” and “$3,827” for “$2,691” and “$3,775”, respectively.
 
-Pub. L. 107–330, § 102, substituted “25 percent or more of tissue from a single breast or both breasts in combination (including loss by mastectomy or partial mastectomy) or has received radiation treatment of breast tissue” for “one or both breasts (including loss by mastectomy)”.
+Pub. L. 107–330, § 102, substituted “25 percent or more of tissue from a single breast or both breasts in combination (including loss by mastectomy or partial mastectomy) or has received radiation treatment of breast tissue” for “one or both breasts (including loss by mastectomy)”.
 
-Subsec. (*l*). Pub. L. 107–330, § 309(a)(12), substituted “$2,728” for “$2,691”.
+Subsec. (*l*). Pub. L. 107–330, § 309(a)(12), substituted “$2,728” for “$2,691”.
 
-Subsec. (m). Pub. L. 107–330, § 309(a)(13), substituted “$3,010” for “$2,969”.
+Subsec. (m). Pub. L. 107–330, § 309(a)(13), substituted “$3,010” for “$2,969”.
 
-Subsec. (n). Pub. L. 107–330, § 309(a)(14), substituted “$3,425” for “$3,378”.
+Subsec. (n). Pub. L. 107–330, § 309(a)(14), substituted “$3,425” for “$3,378”.
 
-Subsecs. (*o*), (p). Pub. L. 107–330, § 309(a)(15), substituted “$3,827” for “$3,775” wherever appearing.
+Subsecs. (*o*), (p). Pub. L. 107–330, § 309(a)(15), substituted “$3,827” for “$3,775” wherever appearing.
 
-Subsec. (r). Pub. L. 107–330, § 309(a)(16), substituted “$1,643” and “$2,446” for “$1,621” and “$2,413”, respectively.
+Subsec. (r). Pub. L. 107–330, § 309(a)(16), substituted “$1,643” and “$2,446” for “$1,621” and “$2,413”, respectively.
 
-Subsec. (s). Pub. L. 107–330, § 309(a)(17), substituted “$2,455” for “$2,422”.
+Subsec. (s). Pub. L. 107–330, § 309(a)(17), substituted “$2,455” for “$2,422”.
 
-2001—Subsec. (a). Pub. L. 107–94, § 2(a)(1), substituted “$103” for “$98”.
+2001—Subsec. (a). Pub. L. 107–94, § 2(a)(1), substituted “$103” for “$98”.
 
-Subsec. (b). Pub. L. 107–94, § 2(a)(2), substituted “$199” for “$188”.
+Subsec. (b). Pub. L. 107–94, § 2(a)(2), substituted “$199” for “$188”.
 
-Subsec. (c). Pub. L. 107–94, § 2(a)(3), substituted “$306” for “$288”.
+Subsec. (c). Pub. L. 107–94, § 2(a)(3), substituted “$306” for “$288”.
 
-Subsec. (d). Pub. L. 107–94, § 2(a)(4), substituted “$439” for “$413”.
+Subsec. (d). Pub. L. 107–94, § 2(a)(4), substituted “$439” for “$413”.
 
-Subsec. (e). Pub. L. 107–94, § 2(a)(5), substituted “$625” for “$589”.
+Subsec. (e). Pub. L. 107–94, § 2(a)(5), substituted “$625” for “$589”.
 
-Subsec. (f). Pub. L. 107–94, § 2(a)(6), substituted “$790” for “$743”.
+Subsec. (f). Pub. L. 107–94, § 2(a)(6), substituted “$790” for “$743”.
 
-Subsec. (g). Pub. L. 107–94, § 2(a)(7), substituted “$995” for “$937”.
+Subsec. (g). Pub. L. 107–94, § 2(a)(7), substituted “$995” for “$937”.
 
-Subsec. (h). Pub. L. 107–94, § 2(a)(8), substituted “$1,155” for “$1,087”.
+Subsec. (h). Pub. L. 107–94, § 2(a)(8), substituted “$1,155” for “$1,087”.
 
-Subsec. (i). Pub. L. 107–94, § 2(a)(9), substituted “$1,299” for “$1,224”.
+Subsec. (i). Pub. L. 107–94, § 2(a)(9), substituted “$1,299” for “$1,224”.
 
-Subsec. (j). Pub. L. 107–94, § 2(a)(10), substituted “$2,163” for “$2,036”.
+Subsec. (j). Pub. L. 107–94, § 2(a)(10), substituted “$2,163” for “$2,036”.
 
-Subsec. (k). Pub. L. 107–94, § 2(a)(11), substituted “$80” for “$76” in two places, “$2,691” for “$2,533”, and “$3,775” for “$3,553”.
+Subsec. (k). Pub. L. 107–94, § 2(a)(11), substituted “$80” for “$76” in two places, “$2,691” for “$2,533”, and “$3,775” for “$3,553”.
 
-Subsec. (*l*). Pub. L. 107–94, § 2(a)(12), substituted “$2,691” for “$2,533”.
+Subsec. (*l*). Pub. L. 107–94, § 2(a)(12), substituted “$2,691” for “$2,533”.
 
-Subsec. (m). Pub. L. 107–94, § 2(a)(13), substituted “$2,969” for “$2,794”.
+Subsec. (m). Pub. L. 107–94, § 2(a)(13), substituted “$2,969” for “$2,794”.
 
-Subsec. (n). Pub. L. 107–94, § 2(a)(14), substituted “$3,378” for “$3,179”.
+Subsec. (n). Pub. L. 107–94, § 2(a)(14), substituted “$3,378” for “$3,179”.
 
-Subsecs. (*o*), (p). Pub. L. 107–94, § 2(a)(15), substituted “$3,775” for “$3,553” wherever appearing.
+Subsecs. (*o*), (p). Pub. L. 107–94, § 2(a)(15), substituted “$3,775” for “$3,553” wherever appearing.
 
 Subsec. (r). Pub. L. 107–103 substituted “section 5503(c)” for “section 5503(e)” in introductory provisions.
 
-Subsec. (r)(1). Pub. L. 107–94, § 2(a)(16), substituted “$1,621” for “$1,525”.
+Subsec. (r)(1). Pub. L. 107–94, § 2(a)(16), substituted “$1,621” for “$1,525”.
 
-Subsec. (r)(2). Pub. L. 107–94, § 2(a)(16), substituted “$2,413” for “$2,271”.
+Subsec. (r)(2). Pub. L. 107–94, § 2(a)(16), substituted “$2,413” for “$2,271”.
 
-Subsec. (s). Pub. L. 107–94, § 2(a)(17), substituted “$2,422” for “$2,280”.
+Subsec. (s). Pub. L. 107–94, § 2(a)(17), substituted “$2,422” for “$2,280”.
 
 2000—Subsec. (k). Pub. L. 106–419 substituted “has suffered complete organic” for “or has suffered complete organic” and inserted “or, in the case of a woman veteran, has suffered the anatomical loss of one or both breasts (including loss by mastectomy),” after “air and bone conduction,”.
 
-1999—Subsec. (a). Pub. L. 106–118, § 2(a)(1), substituted “$98” for “$95”.
+1999—Subsec. (a). Pub. L. 106–118, § 2(a)(1), substituted “$98” for “$95”.
 
-Subsec. (b). Pub. L. 106–118, § 2(a)(2), substituted “$188” for “$182”.
+Subsec. (b). Pub. L. 106–118, § 2(a)(2), substituted “$188” for “$182”.
 
-Subsec. (c). Pub. L. 106–118, § 2(a)(3), substituted “$288” for “$279”.
+Subsec. (c). Pub. L. 106–118, § 2(a)(3), substituted “$288” for “$279”.
 
-Subsec. (d). Pub. L. 106–118, § 2(a)(4), substituted “$413” for “$399”.
+Subsec. (d). Pub. L. 106–118, § 2(a)(4), substituted “$413” for “$399”.
 
-Subsec. (e). Pub. L. 106–118, § 2(a)(5), substituted “$589” for “$569”.
+Subsec. (e). Pub. L. 106–118, § 2(a)(5), substituted “$589” for “$569”.
 
-Subsec. (f). Pub. L. 106–118, § 2(a)(6), substituted “$743” for “$717”.
+Subsec. (f). Pub. L. 106–118, § 2(a)(6), substituted “$743” for “$717”.
 
-Subsec. (g). Pub. L. 106–118, § 2(a)(7), substituted “$937” for “$905”.
+Subsec. (g). Pub. L. 106–118, § 2(a)(7), substituted “$937” for “$905”.
 
-Subsec. (h). Pub. L. 106–118, § 2(a)(8), substituted “$1,087” for “$1,049”.
+Subsec. (h). Pub. L. 106–118, § 2(a)(8), substituted “$1,087” for “$1,049”.
 
-Subsec. (i). Pub. L. 106–118, § 2(a)(9), substituted “$1,224” for “$1,181”.
+Subsec. (i). Pub. L. 106–118, § 2(a)(9), substituted “$1,224” for “$1,181”.
 
-Subsec. (j). Pub. L. 106–118, § 2(a)(10), substituted “$2,036” for “$1,964”.
+Subsec. (j). Pub. L. 106–118, § 2(a)(10), substituted “$2,036” for “$1,964”.
 
-Subsec. (k). Pub. L. 106–118, § 2(a)(11), substituted “$76” for “$75” in two places and substituted “$2,533” and “$3,553” for “$2,443” and “$3,426”, respectively.
+Subsec. (k). Pub. L. 106–118, § 2(a)(11), substituted “$76” for “$75” in two places and substituted “$2,533” and “$3,553” for “$2,443” and “$3,426”, respectively.
 
-Subsec. (*l*). Pub. L. 106–118, § 2(a)(12), substituted “$2,533” for “$2,443”.
+Subsec. (*l*). Pub. L. 106–118, § 2(a)(12), substituted “$2,533” for “$2,443”.
 
-Subsec. (m). Pub. L. 106–118, § 2(a)(13), substituted “$2,794” for “$2,694”.
+Subsec. (m). Pub. L. 106–118, § 2(a)(13), substituted “$2,794” for “$2,694”.
 
-Subsec. (n). Pub. L. 106–118, § 2(a)(14), substituted “$3,179” for “$3,066”.
+Subsec. (n). Pub. L. 106–118, § 2(a)(14), substituted “$3,179” for “$3,066”.
 
-Subsecs. (*o*), (p). Pub. L. 106–118, § 2(a)(15), substituted “$3,553” for “$3,426” wherever appearing.
+Subsecs. (*o*), (p). Pub. L. 106–118, § 2(a)(15), substituted “$3,553” for “$3,426” wherever appearing.
 
-Subsec. (r). Pub. L. 106–118, § 2(a)(16), substituted “$1,525” and “$2,271” for “$1,471” and “$2,190”, respectively.
+Subsec. (r). Pub. L. 106–118, § 2(a)(16), substituted “$1,525” and “$2,271” for “$1,471” and “$2,190”, respectively.
 
-Subsec. (s). Pub. L. 106–118, § 2(a)(17), substituted “$2,280” for “$2,199”.
+Subsec. (s). Pub. L. 106–118, § 2(a)(17), substituted “$2,280” for “$2,199”.
 
-1997—Subsec. (a). Pub. L. 105–98, § 2(a)(1), substituted “$95” for “$87”.
+1997—Subsec. (a). Pub. L. 105–98, § 2(a)(1), substituted “$95” for “$87”.
 
-Subsec. (b). Pub. L. 105–98, § 2(a)(2), substituted “$182” for “$166”.
+Subsec. (b). Pub. L. 105–98, § 2(a)(2), substituted “$182” for “$166”.
 
-Subsec. (c). Pub. L. 105–98, § 2(a)(3), substituted “$279” for “$253”.
+Subsec. (c). Pub. L. 105–98, § 2(a)(3), substituted “$279” for “$253”.
 
-Subsec. (d). Pub. L. 105–98, § 2(a)(4), substituted “$399” for “$361”.
+Subsec. (d). Pub. L. 105–98, § 2(a)(4), substituted “$399” for “$361”.
 
-Subsec. (e). Pub. L. 105–98, § 2(a)(5), substituted “$569” for “$515”.
+Subsec. (e). Pub. L. 105–98, § 2(a)(5), substituted “$569” for “$515”.
 
-Subsec. (f). Pub. L. 105–98, § 2(a)(6), substituted “$717” for “$648”.
+Subsec. (f). Pub. L. 105–98, § 2(a)(6), substituted “$717” for “$648”.
 
-Subsec. (g). Pub. L. 105–98, § 2(a)(7), substituted “$905” for “$819”.
+Subsec. (g). Pub. L. 105–98, § 2(a)(7), substituted “$905” for “$819”.
 
-Subsec. (h). Pub. L. 105–98, § 2(a)(8), substituted “$1,049” for “$948”.
+Subsec. (h). Pub. L. 105–98, § 2(a)(8), substituted “$1,049” for “$948”.
 
-Subsec. (i). Pub. L. 105–98, § 2(a)(9), substituted “$1,181” for “$1,067”.
+Subsec. (i). Pub. L. 105–98, § 2(a)(9), substituted “$1,181” for “$1,067”.
 
-Subsec. (j). Pub. L. 105–98, § 2(a)(10), substituted “$1,964” for “$1,774”.
+Subsec. (j). Pub. L. 105–98, § 2(a)(10), substituted “$1,964” for “$1,774”.
 
-Subsec. (k). Pub. L. 105–98, § 2(a)(11), substituted “$75” for “$70” in two places and substituted “$2,443” and “$3,426” for “$2,207” and “$3,093”, respectively.
+Subsec. (k). Pub. L. 105–98, § 2(a)(11), substituted “$75” for “$70” in two places and substituted “$2,443” and “$3,426” for “$2,207” and “$3,093”, respectively.
 
-Subsec. (*l*). Pub. L. 105–98, § 2(a)(12), substituted “$2,443” for “$2,207”.
+Subsec. (*l*). Pub. L. 105–98, § 2(a)(12), substituted “$2,443” for “$2,207”.
 
-Subsec. (m). Pub. L. 105–98, § 2(a)(13), substituted “$2,694” for “$2,432”.
+Subsec. (m). Pub. L. 105–98, § 2(a)(13), substituted “$2,694” for “$2,432”.
 
-Subsec. (n). Pub. L. 105–98, § 2(a)(14), substituted “$3,066” for “$2,768”.
+Subsec. (n). Pub. L. 105–98, § 2(a)(14), substituted “$3,066” for “$2,768”.
 
-Subsecs. (*o*), (p). Pub. L. 105–98, § 2(a)(15), substituted “$3,426” for “$3,093” wherever appearing.
+Subsecs. (*o*), (p). Pub. L. 105–98, § 2(a)(15), substituted “$3,426” for “$3,093” wherever appearing.
 
-Subsec. (r). Pub. L. 105–98, § 2(a)(16), substituted “$1,471” and “$2,190” for “$1,328” and “$1,978”, respectively.
+Subsec. (r). Pub. L. 105–98, § 2(a)(16), substituted “$1,471” and “$2,190” for “$1,328” and “$1,978”, respectively.
 
-Subsec. (s). Pub. L. 105–98, § 2(a)(17), substituted “$2,199” for “$1,985”.
+Subsec. (s). Pub. L. 105–98, § 2(a)(17), substituted “$2,199” for “$1,985”.
 
-1993—Subsec. (a). Pub. L. 103–140, § 2(1), substituted “$87” for “$85”.
+1993—Subsec. (a). Pub. L. 103–140, § 2(1), substituted “$87” for “$85”.
 
-Pub. L. 103–78, § 1(1), substituted “$85” for “$83”.
+Pub. L. 103–78, § 1(1), substituted “$85” for “$83”.
 
-Subsec. (b). Pub. L. 103–140, § 2(2), substituted “$166” for “$162”.
+Subsec. (b). Pub. L. 103–140, § 2(2), substituted “$166” for “$162”.
 
-Pub. L. 103–78, § 1(2), substituted “$162” for “$157”.
+Pub. L. 103–78, § 1(2), substituted “$162” for “$157”.
 
-Subsec. (c). Pub. L. 103–140, § 2(3), substituted “$253” for “$247”.
+Subsec. (c). Pub. L. 103–140, § 2(3), substituted “$253” for “$247”.
 
-Pub. L. 103–78, § 1(3), substituted “$247” for “$240”.
+Pub. L. 103–78, § 1(3), substituted “$247” for “$240”.
 
-Subsec. (d). Pub. L. 103–140, § 2(4), substituted “$361” for “$352”.
+Subsec. (d). Pub. L. 103–140, § 2(4), substituted “$361” for “$352”.
 
-Pub. L. 103–78, § 1(4), substituted “$352” for “$342”.
+Pub. L. 103–78, § 1(4), substituted “$352” for “$342”.
 
-Subsec. (e). Pub. L. 103–140, § 2(5), substituted “$515” for “$502”.
+Subsec. (e). Pub. L. 103–140, § 2(5), substituted “$515” for “$502”.
 
-Pub. L. 103–78, § 1(5), substituted “$502” for “$487”.
+Pub. L. 103–78, § 1(5), substituted “$502” for “$487”.
 
-Subsec. (f). Pub. L. 103–140, § 2(6), substituted “$648” for “$632”.
+Subsec. (f). Pub. L. 103–140, § 2(6), substituted “$648” for “$632”.
 
-Pub. L. 103–78, § 1(6), substituted “$632” for “$614”.
+Pub. L. 103–78, § 1(6), substituted “$632” for “$614”.
 
-Subsec. (g). Pub. L. 103–140, § 2(7), substituted “$819” for “$799”.
+Subsec. (g). Pub. L. 103–140, § 2(7), substituted “$819” for “$799”.
 
-Pub. L. 103–78, § 1(7), substituted “$799” for “$776”.
+Pub. L. 103–78, § 1(7), substituted “$799” for “$776”.
 
-Subsec. (h). Pub. L. 103–140, § 2(8), substituted “$948” for “$924”.
+Subsec. (h). Pub. L. 103–140, § 2(8), substituted “$948” for “$924”.
 
-Pub. L. 103–78, § 1(8), substituted “$924” for “$897”.
+Pub. L. 103–78, § 1(8), substituted “$924” for “$897”.
 
-Subsec. (i). Pub. L. 103–140, § 2(9), substituted “$1,067” for “$1,040”.
+Subsec. (i). Pub. L. 103–140, § 2(9), substituted “$1,067” for “$1,040”.
 
-Pub. L. 103–78, § 1(9), substituted “$1,040” for “$1,010”.
+Pub. L. 103–78, § 1(9), substituted “$1,040” for “$1,010”.
 
-Subsec. (j). Pub. L. 103–140, § 2(10), substituted “$1,774” for “$1,730”.
+Subsec. (j). Pub. L. 103–140, § 2(10), substituted “$1,774” for “$1,730”.
 
-Pub. L. 103–78, § 1(10), substituted “$1,730” for “$1,680”.
+Pub. L. 103–78, § 1(10), substituted “$1,730” for “$1,680”.
 
-Subsec. (k). Pub. L. 103–140, § 2(11), substituted “$2,207” and “$3,093” for “$2,152” and “$3,015”, respectively.
+Subsec. (k). Pub. L. 103–140, § 2(11), substituted “$2,207” and “$3,093” for “$2,152” and “$3,015”, respectively.
 
-Pub. L. 103–78, § 1(11), which directed the substitution of “$70” for “$68”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+Pub. L. 103–78, § 1(11), which directed the substitution of “$70” for “$68”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
-Pub. L. 103–78, § 1(11), substituted “$2,152” and “$3,015” for “$2,089” and “$2,927”, respectively.
+Pub. L. 103–78, § 1(11), substituted “$2,152” and “$3,015” for “$2,089” and “$2,927”, respectively.
 
-Subsec. (*l*). Pub. L. 103–140, § 2(12), substituted “$2,207” for “$2,152”.
+Subsec. (*l*). Pub. L. 103–140, § 2(12), substituted “$2,207” for “$2,152”.
 
-Pub. L. 103–78, § 1(12), substituted “$2,152” for “$2,089”.
+Pub. L. 103–78, § 1(12), substituted “$2,152” for “$2,089”.
 
-Subsec. (m). Pub. L. 103–140, § 2(13), substituted “$2,432” for “$2,371”.
+Subsec. (m). Pub. L. 103–140, § 2(13), substituted “$2,432” for “$2,371”.
 
-Pub. L. 103–78, § 1(13), substituted “$2,371” for “$2,302”.
+Pub. L. 103–78, § 1(13), substituted “$2,371” for “$2,302”.
 
-Subsec. (n). Pub. L. 103–140, § 2(14), substituted “$2,768” for “$2,698”.
+Subsec. (n). Pub. L. 103–140, § 2(14), substituted “$2,768” for “$2,698”.
 
-Pub. L. 103–78, § 1(14), substituted “$2,698” for “$2,619”.
+Pub. L. 103–78, § 1(14), substituted “$2,698” for “$2,619”.
 
-Subsec. (*o*). Pub. L. 103–140, § 2(15), substituted “$3,093” for “$3,015”.
+Subsec. (*o*). Pub. L. 103–140, § 2(15), substituted “$3,093” for “$3,015”.
 
-Pub. L. 103–78, § 1(15), substituted “$3,015” for “$2,927”.
+Pub. L. 103–78, § 1(15), substituted “$3,015” for “$2,927”.
 
-Subsec. (p). Pub. L. 103–140, § 2(15), substituted “$3,093” for “$3,015” wherever appearing.
+Subsec. (p). Pub. L. 103–140, § 2(15), substituted “$3,093” for “$3,015” wherever appearing.
 
-Pub. L. 103–78, § 1(15), substituted “$3,015” for “$2,927” wherever appearing.
+Pub. L. 103–78, § 1(15), substituted “$3,015” for “$2,927” wherever appearing.
 
-Subsec. (r). Pub. L. 103–140, § 2(16), substituted “$1,328” for “$1,295” in par. (1) and “$1,978” for “$1,928” in par. (2).
+Subsec. (r). Pub. L. 103–140, § 2(16), substituted “$1,328” for “$1,295” in par. (1) and “$1,978” for “$1,928” in par. (2).
 
-Pub. L. 103–78, § 1(16), substituted “$1,295” for “$1,257” in par. (1) and “$1,928” for “$1,872” in par. (2).
+Pub. L. 103–78, § 1(16), substituted “$1,295” for “$1,257” in par. (1) and “$1,928” for “$1,872” in par. (2).
 
-Subsec. (s). Pub. L. 103–140, § 2(17), substituted “$1,985” for “$1,935”.
+Subsec. (s). Pub. L. 103–140, § 2(17), substituted “$1,985” for “$1,935”.
 
-Pub. L. 103–78, § 1(17), substituted “$1,935” for “$1,879”.
+Pub. L. 103–78, § 1(17), substituted “$1,935” for “$1,879”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 314 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 314 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1110” for “310” in introductory provisions.
+Pub. L. 102–83, § 5(c)(1), substituted “1110” for “310” in introductory provisions.
 
-Subsec. (a). Pub. L. 102–152, § 2(a)(1), substituted “$83” for “$80”.
+Subsec. (a). Pub. L. 102–152, § 2(a)(1), substituted “$83” for “$80”.
 
-Pub. L. 102–3, § 2(a)(1), substituted “$80” for “$76”.
+Pub. L. 102–3, § 2(a)(1), substituted “$80” for “$76”.
 
-Subsec. (b). Pub. L. 102–152, § 2(a)(2), substituted “$157” for “$151”.
+Subsec. (b). Pub. L. 102–152, § 2(a)(2), substituted “$157” for “$151”.
 
-Pub. L. 102–3, § 2(a)(2), substituted “$151” for “$144”.
+Pub. L. 102–3, § 2(a)(2), substituted “$151” for “$144”.
 
-Subsec. (c). Pub. L. 102–152, § 2(a)(3), substituted “$240” for “$231”.
+Subsec. (c). Pub. L. 102–152, § 2(a)(3), substituted “$240” for “$231”.
 
-Pub. L. 102–3, § 2(a)(3), substituted “$231” for “$220”.
+Pub. L. 102–3, § 2(a)(3), substituted “$231” for “$220”.
 
-Subsec. (d). Pub. L. 102–152, § 2(a)(4), substituted “$342” for “$330”.
+Subsec. (d). Pub. L. 102–152, § 2(a)(4), substituted “$342” for “$330”.
 
-Pub. L. 102–3, § 2(a)(4), substituted “$330” for “$314”.
+Pub. L. 102–3, § 2(a)(4), substituted “$330” for “$314”.
 
-Subsec. (e). Pub. L. 102–152, § 2(a)(5), substituted “$487” for “$470”.
+Subsec. (e). Pub. L. 102–152, § 2(a)(5), substituted “$487” for “$470”.
 
-Pub. L. 102–3, § 2(a)(5), substituted “$470” for “$446”.
+Pub. L. 102–3, § 2(a)(5), substituted “$470” for “$446”.
 
-Subsec. (f). Pub. L. 102–152, § 2(a)(6), substituted “$614” for “$592”.
+Subsec. (f). Pub. L. 102–152, § 2(a)(6), substituted “$614” for “$592”.
 
-Pub. L. 102–3, § 2(a)(6), substituted “$592” for “$562”.
+Pub. L. 102–3, § 2(a)(6), substituted “$592” for “$562”.
 
-Subsec. (g). Pub. L. 102–152, § 2(a)(7), substituted “$776” for “$748”.
+Subsec. (g). Pub. L. 102–152, § 2(a)(7), substituted “$776” for “$748”.
 
-Pub. L. 102–3, § 2(a)(7), substituted “$748” for “$710”.
+Pub. L. 102–3, § 2(a)(7), substituted “$748” for “$710”.
 
-Subsec. (h). Pub. L. 102–152, § 2(a)(8), substituted “$897” for “$865”.
+Subsec. (h). Pub. L. 102–152, § 2(a)(8), substituted “$897” for “$865”.
 
-Pub. L. 102–3, § 2(a)(8), substituted “$865” for “$821”.
+Pub. L. 102–3, § 2(a)(8), substituted “$865” for “$821”.
 
-Subsec. (i). Pub. L. 102–152, § 2(a)(9), substituted “$1,010” for “$974”.
+Subsec. (i). Pub. L. 102–152, § 2(a)(9), substituted “$1,010” for “$974”.
 
-Pub. L. 102–3, § 2(a)(9), substituted “$974” for “$925”.
+Pub. L. 102–3, § 2(a)(9), substituted “$974” for “$925”.
 
-Subsec. (j). Pub. L. 102–152, § 2(a)(10), substituted “$1,680” for “$1,620”.
+Subsec. (j). Pub. L. 102–152, § 2(a)(10), substituted “$1,680” for “$1,620”.
 
-Pub. L. 102–3, § 2(a)(10), substituted “$1,620” for “$1,537”.
+Pub. L. 102–3, § 2(a)(10), substituted “$1,620” for “$1,537”.
 
-Subsec. (k). Pub. L. 102–152, § 2(a)(11), substituted “$68” for “$66” in two places and “$2,089” and “$2,927” for “$2,014” and “$2,823”, respectively.
+Subsec. (k). Pub. L. 102–152, § 2(a)(11), substituted “$68” for “$66” in two places and “$2,089” and “$2,927” for “$2,014” and “$2,823”, respectively.
 
-Pub. L. 102–3, § 2(a)(11), substituted “$2,014” for “$1,911” and “$2,823” for “$2,679”.
+Pub. L. 102–3, § 2(a)(11), substituted “$2,014” for “$1,911” and “$2,823” for “$2,679”.
 
-Subsec. (*l*). Pub. L. 102–152, § 2(a)(12), substituted “$2,089” for “$2,014”.
+Subsec. (*l*). Pub. L. 102–152, § 2(a)(12), substituted “$2,089” for “$2,014”.
 
-Pub. L. 102–3, § 2(a)(12), substituted “$2,014” for “$1,911”.
+Pub. L. 102–3, § 2(a)(12), substituted “$2,014” for “$1,911”.
 
-Subsec. (m). Pub. L. 102–152, § 2(a)(13), substituted “$2,302” for “$2,220”.
+Subsec. (m). Pub. L. 102–152, § 2(a)(13), substituted “$2,302” for “$2,220”.
 
-Pub. L. 102–3, § 2(a)(13), substituted “$2,220” for “$2,107”.
+Pub. L. 102–3, § 2(a)(13), substituted “$2,220” for “$2,107”.
 
-Subsec. (n). Pub. L. 102–152, § 2(a)(14), substituted “$2,619” for “$2,526”.
+Subsec. (n). Pub. L. 102–152, § 2(a)(14), substituted “$2,619” for “$2,526”.
 
-Pub. L. 102–3, § 2(a)(14), substituted “$2,526” for “$2,397”.
+Pub. L. 102–3, § 2(a)(14), substituted “$2,526” for “$2,397”.
 
-Subsec. (*o*). Pub. L. 102–152, § 2(a)(15), substituted “$2,927” for “$2,823”.
+Subsec. (*o*). Pub. L. 102–152, § 2(a)(15), substituted “$2,927” for “$2,823”.
 
-Pub. L. 102–3, § 2(a)(15), substituted “$2,823” for “$2,679”.
+Pub. L. 102–3, § 2(a)(15), substituted “$2,823” for “$2,679”.
 
-Subsec. (p). Pub. L. 102–152, § 2(a)(15), substituted “$2,927” for “$2,823” wherever appearing.
+Subsec. (p). Pub. L. 102–152, § 2(a)(15), substituted “$2,927” for “$2,823” wherever appearing.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–3, § 2(a)(15), substituted “$2,823” for “$2,679” wherever appearing.
+Pub. L. 102–3, § 2(a)(15), substituted “$2,823” for “$2,679” wherever appearing.
 
-Subsec. (r). Pub. L. 102–152, § 2(a)(16), substituted “$1,257” for “$1,212” in par. (1) and “$1,872” for “$1,805” in par. (2).
+Subsec. (r). Pub. L. 102–152, § 2(a)(16), substituted “$1,257” for “$1,212” in par. (1) and “$1,872” for “$1,805” in par. (2).
 
-Pub. L. 102–83, § 5(c)(1), substituted “1134” for “334” in last sentence.
+Pub. L. 102–83, § 5(c)(1), substituted “1134” for “334” in last sentence.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (2).
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (2).
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in penultimate sentence.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in penultimate sentence.
 
 Pub. L. 102–40 substituted “5503(e)” for “3203(e)” in introductory provisions.
 
-Pub. L. 102–3, § 2(a)(16), substituted “$1,212” for “$1,150” in par. (1) and “$1,805” for “$1,713” in par. (2).
+Pub. L. 102–3, § 2(a)(16), substituted “$1,212” for “$1,150” in par. (1) and “$1,805” for “$1,713” in par. (2).
 
-Subsec. (s). Pub. L. 102–152, § 2(a)(17), substituted “$1,879” for “$1,812”.
+Subsec. (s). Pub. L. 102–152, § 2(a)(17), substituted “$1,879” for “$1,812”.
 
-Pub. L. 102–3, § 2(a)(17), substituted “$1,812” for “$1,720”.
+Pub. L. 102–3, § 2(a)(17), substituted “$1,812” for “$1,720”.
 
-1989—Subsec. (a). Pub. L. 101–237, § 101(a)(1), substituted “$76” for “$73”.
+1989—Subsec. (a). Pub. L. 101–237, § 101(a)(1), substituted “$76” for “$73”.
 
-Subsec. (b). Pub. L. 101–237, § 101(a)(2), substituted “$144” for “$138”.
+Subsec. (b). Pub. L. 101–237, § 101(a)(2), substituted “$144” for “$138”.
 
-Subsec. (c). Pub. L. 101–237, § 101(a)(3), substituted “$220” for “$210”.
+Subsec. (c). Pub. L. 101–237, § 101(a)(3), substituted “$220” for “$210”.
 
-Subsec. (d). Pub. L. 101–237, § 101(a)(4), substituted “$314” for “$300”.
+Subsec. (d). Pub. L. 101–237, § 101(a)(4), substituted “$314” for “$300”.
 
-Subsec. (e). Pub. L. 101–237, § 101(a)(5), substituted “$446” for “$426”.
+Subsec. (e). Pub. L. 101–237, § 101(a)(5), substituted “$446” for “$426”.
 
-Subsec. (f). Pub. L. 101–237, § 101(a)(6), substituted “$562” for “$537”.
+Subsec. (f). Pub. L. 101–237, § 101(a)(6), substituted “$562” for “$537”.
 
-Subsec. (g). Pub. L. 101–237, § 101(a)(7), substituted “$710” for “$678”.
+Subsec. (g). Pub. L. 101–237, § 101(a)(7), substituted “$710” for “$678”.
 
-Subsec. (h). Pub. L. 101–237, § 101(a)(8), substituted “$821” for “$784”.
+Subsec. (h). Pub. L. 101–237, § 101(a)(8), substituted “$821” for “$784”.
 
-Subsec. (i). Pub. L. 101–237, § 101(a)(9), substituted “$925” for “$883”.
+Subsec. (i). Pub. L. 101–237, § 101(a)(9), substituted “$925” for “$883”.
 
-Subsec. (j). Pub. L. 101–237, § 101(a)(10), substituted “$1,537” for “$1,468”.
+Subsec. (j). Pub. L. 101–237, § 101(a)(10), substituted “$1,537” for “$1,468”.
 
-Subsec. (k). Pub. L. 101–237, § 101(a)(11), substituted “$66” for “$63” in two places and substituted “$1,911” and “$2,679” for “$1,825” and “$2,559”, respectively.
+Subsec. (k). Pub. L. 101–237, § 101(a)(11), substituted “$66” for “$63” in two places and substituted “$1,911” and “$2,679” for “$1,825” and “$2,559”, respectively.
 
-Subsec. (*l*). Pub. L. 101–237, § 101(a)(12), substituted “$1,911” for “$1,825”.
+Subsec. (*l*). Pub. L. 101–237, § 101(a)(12), substituted “$1,911” for “$1,825”.
 
-Subsec. (m). Pub. L. 101–237, § 101(a)(13), substituted “$2,107” for “$2,012”.
+Subsec. (m). Pub. L. 101–237, § 101(a)(13), substituted “$2,107” for “$2,012”.
 
-Subsec. (n). Pub. L. 101–237, § 101(a)(14), substituted “$2,397” for “$2,289”.
+Subsec. (n). Pub. L. 101–237, § 101(a)(14), substituted “$2,397” for “$2,289”.
 
-Subsecs. (*o*), (p). Pub. L. 101–237, § 101(a)(15), substituted “$2,679” for “$2,559” wherever appearing.
+Subsecs. (*o*), (p). Pub. L. 101–237, § 101(a)(15), substituted “$2,679” for “$2,559” wherever appearing.
 
-Subsec. (r). Pub. L. 101–237, § 101(a)(16), substituted “$1,150” and “$1,713” for “$1,098” and “$1,636”, respectively.
+Subsec. (r). Pub. L. 101–237, § 101(a)(16), substituted “$1,150” and “$1,713” for “$1,098” and “$1,636”, respectively.
 
-Subsec. (s). Pub. L. 101–237, § 101(a)(17), substituted “$1,720” for “$1,643”.
+Subsec. (s). Pub. L. 101–237, § 101(a)(17), substituted “$1,720” for “$1,643”.
 
-1988—Subsec. (a). Pub. L. 100–687, § 1101(a)(1), substituted “$73” for “$71”.
+1988—Subsec. (a). Pub. L. 100–687, § 1101(a)(1), substituted “$73” for “$71”.
 
-Subsec. (b). Pub. L. 100–687, § 1101(a)(2), substituted “$138” for “$133”.
+Subsec. (b). Pub. L. 100–687, § 1101(a)(2), substituted “$138” for “$133”.
 
-Subsec. (c). Pub. L. 100–687, § 1101(a)(3), substituted “$210” for “$202”.
+Subsec. (c). Pub. L. 100–687, § 1101(a)(3), substituted “$210” for “$202”.
 
-Subsec. (d). Pub. L. 100–687, § 1101(a)(4), substituted “$300” for “$289”.
+Subsec. (d). Pub. L. 100–687, § 1101(a)(4), substituted “$300” for “$289”.
 
-Subsec. (e). Pub. L. 100–687, § 1101(a)(5), substituted “$426” for “$410”.
+Subsec. (e). Pub. L. 100–687, § 1101(a)(5), substituted “$426” for “$410”.
 
-Subsec. (f). Pub. L. 100–687, § 1101(a)(6), substituted “$537” for “$516”.
+Subsec. (f). Pub. L. 100–687, § 1101(a)(6), substituted “$537” for “$516”.
 
-Subsec. (g). Pub. L. 100–687, § 1101(a)(7), substituted “$678” for “$652”.
+Subsec. (g). Pub. L. 100–687, § 1101(a)(7), substituted “$678” for “$652”.
 
-Subsec. (h). Pub. L. 100–687, § 1101(a)(8), substituted “$784” for “$754”.
+Subsec. (h). Pub. L. 100–687, § 1101(a)(8), substituted “$784” for “$754”.
 
-Subsec. (i). Pub. L. 100–687, § 1101(a)(9), substituted “$883” for “$849”.
+Subsec. (i). Pub. L. 100–687, § 1101(a)(9), substituted “$883” for “$849”.
 
-Subsec. (j). Pub. L. 100–687, § 1101(a)(10), substituted “$1,468” for “$1,411”.
+Subsec. (j). Pub. L. 100–687, § 1101(a)(10), substituted “$1,468” for “$1,411”.
 
-Subsec. (k). Pub. L. 100–687, § 1101(a)(11), substituted “$1,825” and “$2,559” for “$1,754” and “$2,459”, respectively.
+Subsec. (k). Pub. L. 100–687, § 1101(a)(11), substituted “$1,825” and “$2,559” for “$1,754” and “$2,459”, respectively.
 
-Subsec. (*l*). Pub. L. 100–687, § 1101(a)(12), substituted “$1,825” for “$1,754”.
+Subsec. (*l*). Pub. L. 100–687, § 1101(a)(12), substituted “$1,825” for “$1,754”.
 
-Subsec. (m). Pub. L. 100–687, § 1101(a)(13), substituted “$2,012” for “$1,933”.
+Subsec. (m). Pub. L. 100–687, § 1101(a)(13), substituted “$2,012” for “$1,933”.
 
-Subsec. (n). Pub. L. 100–687, § 1101(a)(14), substituted “$2,289” for “$2,199”.
+Subsec. (n). Pub. L. 100–687, § 1101(a)(14), substituted “$2,289” for “$2,199”.
 
-Subsecs. (*o*), (p). Pub. L. 100–687, § 1101(a)(15), substituted “$2,559” for “$2,459” wherever appearing.
+Subsecs. (*o*), (p). Pub. L. 100–687, § 1101(a)(15), substituted “$2,559” for “$2,459” wherever appearing.
 
-Subsec. (r). Pub. L. 100–687, § 1101(a)(16), substituted “$1,098” and “$1,636” for “$1,055” and “$1,572”, respectively.
+Subsec. (r). Pub. L. 100–687, § 1101(a)(16), substituted “$1,098” and “$1,636” for “$1,055” and “$1,572”, respectively.
 
-Subsec. (s). Pub. L. 100–687, § 1101(a)(17), substituted “$1,643” for “$1,579”.
+Subsec. (s). Pub. L. 100–687, § 1101(a)(17), substituted “$1,643” for “$1,579”.
 
-1987—Subsec. (a). Pub. L. 100–227, § 101(a)(1), substituted “$71” for “$69”.
+1987—Subsec. (a). Pub. L. 100–227, § 101(a)(1), substituted “$71” for “$69”.
 
-Subsec. (b). Pub. L. 100–227, § 101(a)(2), substituted “$133” for “$128”.
+Subsec. (b). Pub. L. 100–227, § 101(a)(2), substituted “$133” for “$128”.
 
-Subsec. (c). Pub. L. 100–227, § 101(a)(3), substituted “$202” for “$194”.
+Subsec. (c). Pub. L. 100–227, § 101(a)(3), substituted “$202” for “$194”.
 
-Subsec. (d). Pub. L. 100–227, § 101(a)(4), substituted “$289” for “$278”.
+Subsec. (d). Pub. L. 100–227, § 101(a)(4), substituted “$289” for “$278”.
 
-Subsec. (e). Pub. L. 100–227, § 101(a)(5), substituted “$410” for “$394”.
+Subsec. (e). Pub. L. 100–227, § 101(a)(5), substituted “$410” for “$394”.
 
-Subsec. (f). Pub. L. 100–227, § 101(a)(6), substituted “$516” for “$496”.
+Subsec. (f). Pub. L. 100–227, § 101(a)(6), substituted “$516” for “$496”.
 
-Subsec. (g). Pub. L. 100–227, § 101(a)(7), substituted “$652” for “$626”.
+Subsec. (g). Pub. L. 100–227, § 101(a)(7), substituted “$652” for “$626”.
 
-Subsec. (h). Pub. L. 100–227, § 101(a)(8), substituted “$754” for “$724”.
+Subsec. (h). Pub. L. 100–227, § 101(a)(8), substituted “$754” for “$724”.
 
-Subsec. (i). Pub. L. 100–227, § 101(a)(9), substituted “$849” for “$815”.
+Subsec. (i). Pub. L. 100–227, § 101(a)(9), substituted “$849” for “$815”.
 
-Subsec. (j). Pub. L. 100–227, § 101(a)(10), substituted “$1,411” for “$1,355”.
+Subsec. (j). Pub. L. 100–227, § 101(a)(10), substituted “$1,411” for “$1,355”.
 
-Subsec. (k). Pub. L. 100–227, § 101(a)(11), substituted “$1,754” and “$2,459” for “$1,684” and “$2,360”, respectively.
+Subsec. (k). Pub. L. 100–227, § 101(a)(11), substituted “$1,754” and “$2,459” for “$1,684” and “$2,360”, respectively.
 
-Subsec. (*l*). Pub. L. 100–227, § 101(a)(12), substituted “$1,754” for “$1,684”.
+Subsec. (*l*). Pub. L. 100–227, § 101(a)(12), substituted “$1,754” for “$1,684”.
 
-Subsec. (m). Pub. L. 100–227, § 101(a)(13), substituted “$1,933” for “$1,856”.
+Subsec. (m). Pub. L. 100–227, § 101(a)(13), substituted “$1,933” for “$1,856”.
 
-Subsec. (n). Pub. L. 100–227, § 101(a)(14), substituted “$2,199” for “$2,111”.
+Subsec. (n). Pub. L. 100–227, § 101(a)(14), substituted “$2,199” for “$2,111”.
 
-Subsecs. (*o*), (p). Pub. L. 100–227, § 101(a)(15), substituted “$2,459” for “$2,360” wherever appearing.
+Subsecs. (*o*), (p). Pub. L. 100–227, § 101(a)(15), substituted “$2,459” for “$2,360” wherever appearing.
 
-Subsec. (r). Pub. L. 100–227, § 101(a)(16), substituted “$1,055” and “$1,572” for “$1,013” and “$1,509”, respectively.
+Subsec. (r). Pub. L. 100–227, § 101(a)(16), substituted “$1,055” and “$1,572” for “$1,013” and “$1,509”, respectively.
 
-Subsec. (s). Pub. L. 100–227, § 101(a)(17), substituted “$1,579” for “$1,516”.
+Subsec. (s). Pub. L. 100–227, § 101(a)(17), substituted “$1,579” for “$1,516”.
 
-1986—Subsec. (a). Pub. L. 99–576, § 101(a)(1), substituted “$69” for “$68”.
+1986—Subsec. (a). Pub. L. 99–576, § 101(a)(1), substituted “$69” for “$68”.
 
-Pub. L. 99–238, § 101(a)(1), substituted “$68” for “$66”.
+Pub. L. 99–238, § 101(a)(1), substituted “$68” for “$66”.
 
-Subsec. (b). Pub. L. 99–576, § 101(a)(2), substituted “$128” for “$126”.
+Subsec. (b). Pub. L. 99–576, § 101(a)(2), substituted “$128” for “$126”.
 
-Pub. L. 99–238, § 101(a)(2), substituted “$126” for “$122”.
+Pub. L. 99–238, § 101(a)(2), substituted “$126” for “$122”.
 
-Subsec. (c). Pub. L. 99–576, § 101(a)(3), substituted “$194” for “$191”.
+Subsec. (c). Pub. L. 99–576, § 101(a)(3), substituted “$194” for “$191”.
 
-Pub. L. 99–238, § 101(a)(3), substituted “$191” for “$185”.
+Pub. L. 99–238, § 101(a)(3), substituted “$191” for “$185”.
 
-Subsec. (d). Pub. L. 99–576, § 101(a)(4), substituted “$278” for “$274”.
+Subsec. (d). Pub. L. 99–576, § 101(a)(4), substituted “$278” for “$274”.
 
-Pub. L. 99–238, § 101(a)(4), substituted “$274” for “$266”.
+Pub. L. 99–238, § 101(a)(4), substituted “$274” for “$266”.
 
-Subsec. (e). Pub. L. 99–576, § 101(a)(5), substituted “$394” for “$388”.
+Subsec. (e). Pub. L. 99–576, § 101(a)(5), substituted “$394” for “$388”.
 
-Pub. L. 99–238, § 101(a)(5), substituted “$388” for “$376”.
+Pub. L. 99–238, § 101(a)(5), substituted “$388” for “$376”.
 
-Subsec. (f). Pub. L. 99–576, § 101(a)(6), substituted “$496” for “$489”.
+Subsec. (f). Pub. L. 99–576, § 101(a)(6), substituted “$496” for “$489”.
 
-Pub. L. 99–238, § 101(a)(6), substituted “$489” for “$474”.
+Pub. L. 99–238, § 101(a)(6), substituted “$489” for “$474”.
 
-Subsec. (g). Pub. L. 99–576, § 101(a)(7), substituted “$626” for “$617”.
+Subsec. (g). Pub. L. 99–576, § 101(a)(7), substituted “$626” for “$617”.
 
-Pub. L. 99–238, § 101(a)(7), substituted “$617” for “$598”.
+Pub. L. 99–238, § 101(a)(7), substituted “$617” for “$598”.
 
-Subsec. (h). Pub. L. 99–576, § 101(a)(8), substituted “$724” for “$713”.
+Subsec. (h). Pub. L. 99–576, § 101(a)(8), substituted “$724” for “$713”.
 
-Pub. L. 99–238, § 101(a)(8), substituted “$713” for “$692”.
+Pub. L. 99–238, § 101(a)(8), substituted “$713” for “$692”.
 
-Subsec. (i). Pub. L. 99–576, § 101(a)(9), substituted “$815” for “$803”.
+Subsec. (i). Pub. L. 99–576, § 101(a)(9), substituted “$815” for “$803”.
 
-Pub. L. 99–238, § 101(a)(9), substituted “$803” for “$779”.
+Pub. L. 99–238, § 101(a)(9), substituted “$803” for “$779”.
 
-Subsec. (j). Pub. L. 99–576, § 101(a)(10), substituted “$1,355” for “$1,335”.
+Subsec. (j). Pub. L. 99–576, § 101(a)(10), substituted “$1,355” for “$1,335”.
 
-Pub. L. 99–238, § 101(a)(10), substituted “$1,335” for “$1,295”.
+Pub. L. 99–238, § 101(a)(10), substituted “$1,335” for “$1,295”.
 
-Subsec. (k). Pub. L. 99–576, § 101(a)(11), substituted “$63”, “$1,684”, and “$2,360” for “$62”, “$1,659”, and “$2,325”, respectively.
+Subsec. (k). Pub. L. 99–576, § 101(a)(11), substituted “$63”, “$1,684”, and “$2,360” for “$62”, “$1,659”, and “$2,325”, respectively.
 
-Pub. L. 99–238, § 101(a)(11), substituted “$1,659” and “$2,325” for “$1,609” and “$2,255”, respectively.
+Pub. L. 99–238, § 101(a)(11), substituted “$1,659” and “$2,325” for “$1,609” and “$2,255”, respectively.
 
-Subsec. (*l*). Pub. L. 99–576, § 101(a)(12), substituted “$1,684” for “$1,659”.
+Subsec. (*l*). Pub. L. 99–576, § 101(a)(12), substituted “$1,684” for “$1,659”.
 
-Pub. L. 99–238, § 101(a)(12), substituted “$1,659” for “$1,609”.
+Pub. L. 99–238, § 101(a)(12), substituted “$1,659” for “$1,609”.
 
-Subsec. (m). Pub. L. 99–576, § 101(a)(13), substituted “$1,856” for “$1,829”.
+Subsec. (m). Pub. L. 99–576, § 101(a)(13), substituted “$1,856” for “$1,829”.
 
-Pub. L. 99–238, § 101(a)(13), substituted “$1,829” for “$1,774”.
+Pub. L. 99–238, § 101(a)(13), substituted “$1,829” for “$1,774”.
 
-Subsec. (n). Pub. L. 99–576, § 101(a)(14), substituted “$2,111” for “$2,080”.
+Subsec. (n). Pub. L. 99–576, § 101(a)(14), substituted “$2,111” for “$2,080”.
 
-Pub. L. 99–238, § 101(a)(14), substituted “$2,080” for “$2,017”.
+Pub. L. 99–238, § 101(a)(14), substituted “$2,080” for “$2,017”.
 
-Subsecs. (*o*), (p). Pub. L. 99–576, § 101(a)(15), substituted “$2,360” for “$2,325” wherever appearing.
+Subsecs. (*o*), (p). Pub. L. 99–576, § 101(a)(15), substituted “$2,360” for “$2,325” wherever appearing.
 
-Pub. L. 99–238, § 101(a)(15), substituted “$2,325” for “$2,255” wherever appearing.
+Pub. L. 99–238, § 101(a)(15), substituted “$2,325” for “$2,255” wherever appearing.
 
-Subsec. (r). Pub. L. 99–576, § 101(a)(16), substituted “$1,013” and “$1,509” for “$998” and “$1,487”, respectively.
+Subsec. (r). Pub. L. 99–576, § 101(a)(16), substituted “$1,013” and “$1,509” for “$998” and “$1,487”, respectively.
 
-Pub. L. 99–238, § 101(a)(16), substituted “$998” and “$1,487” for “$968” and “$1,442”, respectively.
+Pub. L. 99–238, § 101(a)(16), substituted “$998” and “$1,487” for “$968” and “$1,442”, respectively.
 
-Subsec. (s). Pub. L. 99–576, § 101(a)(17), substituted “$1,516” for “$1,494”.
+Subsec. (s). Pub. L. 99–576, § 101(a)(17), substituted “$1,516” for “$1,494”.
 
-Pub. L. 99–238, § 101(a)(17), substituted “$1,494” for “$1,449”.
+Pub. L. 99–238, § 101(a)(17), substituted “$1,494” for “$1,449”.
 
-Subsec. (t). Pub. L. 99–576, § 109(b), struck out subsec. (t) which read as follows:
+Subsec. (t). Pub. L. 99–576, § 109(b), struck out subsec. (t) which read as follows:
 
 “(1) If the veteran (A) is entitled to receive compensation at any rate provided for under subsections (a) through (i) of this section and compensation under subsection (k) of this section, (B) has suffered the loss or loss of use of an extremity as a result of a service-connected disability ratable at 40 percent or more, and (C) has suffered the loss or loss of use of the paired extremity as a result of a non-service-connected disability, not the result of the veteran’s own willful misconduct, that would be rated, if service-connected, at 40 percent or more, the monthly rate of compensation payable to such veteran shall be increased by $289.
 
 “(2) If a veteran described in paragraph (1) of this subsection receives any money or property of value pursuant to an award in a judicial proceeding based upon, or a settlement or compromise of, any cause of action for damages for the non-service-connected disability described in such paragraph, the increase in the rate of compensation otherwise payable under this subsection shall not be paid for any month following a month in which any such money or property is received until such time as the total of the amount of such increase that would otherwise have been payable equals the total of the amount of any such money received and the fair market value of any such property received.”
 
-Pub. L. 99–238, § 101(a)(18), substituted “$289” for “$280” in par. (1).
+Pub. L. 99–238, § 101(a)(18), substituted “$289” for “$280” in par. (1).
 
-1984—Subsec. (a). Pub. L. 98–543, § 101(a)(1), substituted “$66” for “$64”.
+1984—Subsec. (a). Pub. L. 98–543, § 101(a)(1), substituted “$66” for “$64”.
 
-Pub. L. 98–223, § 101(a)(1), substituted “$64” for “$62”.
+Pub. L. 98–223, § 101(a)(1), substituted “$64” for “$62”.
 
-Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
+Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
 
-Subsec. (b). Pub. L. 98–543, § 101(a)(2), substituted “$122” for “$118”.
+Subsec. (b). Pub. L. 98–543, § 101(a)(2), substituted “$122” for “$118”.
 
-Pub. L. 98–223, § 101(a)(2), substituted “$118” for “$114”.
+Pub. L. 98–223, § 101(a)(2), substituted “$118” for “$114”.
 
-Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
+Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
 
-Subsec. (c). Pub. L. 98–543, § 101(a)(3), substituted “$185” for “$179”.
+Subsec. (c). Pub. L. 98–543, § 101(a)(3), substituted “$185” for “$179”.
 
-Pub. L. 98–223, § 101(a)(3), substituted “$179” for “$173”.
+Pub. L. 98–223, § 101(a)(3), substituted “$179” for “$173”.
 
-Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
+Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
 
-Subsec. (d). Pub. L. 98–543, § 101(a)(4), substituted “$266” for “$258”.
+Subsec. (d). Pub. L. 98–543, § 101(a)(4), substituted “$266” for “$258”.
 
-Pub. L. 98–223, § 101(a)(4), substituted “$258” for “$249”.
+Pub. L. 98–223, § 101(a)(4), substituted “$258” for “$249”.
 
-Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
+Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
 
-Subsec. (e). Pub. L. 98–543, § 101(a)(5), substituted “376” for “364”.
+Subsec. (e). Pub. L. 98–543, § 101(a)(5), substituted “376” for “364”.
 
-Pub. L. 98–223, § 101(a)(5), substituted “$364” for “$352”.
+Pub. L. 98–223, § 101(a)(5), substituted “$364” for “$352”.
 
-Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
+Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
 
-Subsec. (f). Pub. L. 98–543, § 101(a)(6), substituted “$474” for “$459”.
+Subsec. (f). Pub. L. 98–543, § 101(a)(6), substituted “$474” for “$459”.
 
-Pub. L. 98–223, § 101(a)(6), substituted “$459” for “$443”.
+Pub. L. 98–223, § 101(a)(6), substituted “$459” for “$443”.
 
-Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
+Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
 
-Subsec. (g). Pub. L. 98–543, § 101(a)(7), substituted “$598” for “$579”.
+Subsec. (g). Pub. L. 98–543, § 101(a)(7), substituted “$598” for “$579”.
 
-Pub. L. 98–223, § 101(a)(7), substituted “$579” for “$559”.
+Pub. L. 98–223, § 101(a)(7), substituted “$579” for “$559”.
 
-Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
+Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
 
-Subsec. (h). Pub. L. 98–543, § 101(a)(8), substituted “$692” for “$671”.
+Subsec. (h). Pub. L. 98–543, § 101(a)(8), substituted “$692” for “$671”.
 
-Pub. L. 98–223, § 101(a)(8), substituted “$671” for “$648”.
+Pub. L. 98–223, § 101(a)(8), substituted “$671” for “$648”.
 
-Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
+Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
 
-Subsec. (i). Pub. L. 98–543, § 101(a)(9), substituted “$779” for “$755”.
+Subsec. (i). Pub. L. 98–543, § 101(a)(9), substituted “$779” for “$755”.
 
-Pub. L. 98–223, § 101(a)(9), substituted “$755” for “$729”.
+Pub. L. 98–223, § 101(a)(9), substituted “$755” for “$729”.
 
-Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
+Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
 
-Subsec. (j). Pub. L. 98–543, § 101(a)(10), substituted “$1,295” for “$1,255”.
+Subsec. (j). Pub. L. 98–543, § 101(a)(10), substituted “$1,295” for “$1,255”.
 
-Pub. L. 98–223, § 101(a)(10), substituted “$1,255” for “$1,213”.
+Pub. L. 98–223, § 101(a)(10), substituted “$1,255” for “$1,213”.
 
-Subsec. (k). Pub. L. 98–543, § 101(a)(11), substituted “$1,609” and “$2,255” for “$1,559” and “$2,185”, respectively.
+Subsec. (k). Pub. L. 98–543, § 101(a)(11), substituted “$1,609” and “$2,255” for “$1,559” and “$2,185”, respectively.
 
-Pub. L. 98–223, § 101(a)(11), substituted “$1,559” and “$2,185” for “$1,506” and “$2,111”, respectively.
+Pub. L. 98–223, § 101(a)(11), substituted “$1,559” and “$2,185” for “$1,506” and “$2,111”, respectively.
 
-Subsec. (*l*). Pub. L. 98–543, § 101(a)(12), substituted “$1,609” for “$1,559”.
+Subsec. (*l*). Pub. L. 98–543, § 101(a)(12), substituted “$1,609” for “$1,559”.
 
-Pub. L. 98–223, § 101(a)(12), substituted “$1,559” for “$1,506”.
+Pub. L. 98–223, § 101(a)(12), substituted “$1,559” for “$1,506”.
 
-Subsec. (m). Pub. L. 98–543, § 101(a)(13), substituted “$1,774” for “$1,719”.
+Subsec. (m). Pub. L. 98–543, § 101(a)(13), substituted “$1,774” for “$1,719”.
 
-Pub. L. 98–223, § 101(a)(13), substituted “$1,719” for “$1,661”.
+Pub. L. 98–223, § 101(a)(13), substituted “$1,719” for “$1,661”.
 
-Subsec. (n). Pub. L. 98–543, § 101(a)(14), substituted “$2,017” for “$1,954”.
+Subsec. (n). Pub. L. 98–543, § 101(a)(14), substituted “$2,017” for “$1,954”.
 
-Pub. L. 98–223, § 101(a)(14), substituted “$1,954” for “$1,888”.
+Pub. L. 98–223, § 101(a)(14), substituted “$1,954” for “$1,888”.
 
-Subsec. (*o*). Pub. L. 98–543, § 101(a)(15), substituted “$2,255” for “$2,185”.
+Subsec. (*o*). Pub. L. 98–543, § 101(a)(15), substituted “$2,255” for “$2,185”.
 
-Pub. L. 98–223, § 101(a)(15), substituted “$2,185” for “$2,111”.
+Pub. L. 98–223, § 101(a)(15), substituted “$2,185” for “$2,111”.
 
-Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
+Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
 
-Pub. L. 98–223, § 112(a), inserted “or if the veteran has suffered service-connected total deafness in one ear or bilateral deafness (and the hearing impairment in either one or both ears is service connected) rated at 40 percent or more disabling and the veteran has also suffered service-connected blindness having only light perception or less,” after “5/200 visual acuity or less,”.
+Pub. L. 98–223, § 112(a), inserted “or if the veteran has suffered service-connected total deafness in one ear or bilateral deafness (and the hearing impairment in either one or both ears is service connected) rated at 40 percent or more disabling and the veteran has also suffered service-connected blindness having only light perception or less,” after “5/200 visual acuity or less,”.
 
-Subsec. (p). Pub. L. 98–543, § 101(a)(15), substituted “$2,255” for “$2,185” in four places.
+Subsec. (p). Pub. L. 98–543, § 101(a)(15), substituted “$2,255” for “$2,185” in four places.
 
-Pub. L. 98–223, § 101(a)(15), substituted “$2,185” for “$2,111” in three places.
+Pub. L. 98–223, § 101(a)(15), substituted “$2,185” for “$2,111” in three places.
 
-Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
+Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
 
-Pub. L. 98–223, § 112(b)(1), substituted “30” for “40” in cl. (1).
+Pub. L. 98–223, § 112(b)(1), substituted “30” for “40” in cl. (1).
 
-Pub. L. 98–223, § 112(b)(2), inserted provision authorizing the Administrator to allow the next intermediate rate, but in no event in excess of $2,185, in the event the veteran has suffered service-connected blindness, having only light perception or less, and has also suffered bilateral deafness, and the hearing impairment in either one or both ears is service connected, rated at 10 to 20 percent disabling.
+Pub. L. 98–223, § 112(b)(2), inserted provision authorizing the Administrator to allow the next intermediate rate, but in no event in excess of $2,185, in the event the veteran has suffered service-connected blindness, having only light perception or less, and has also suffered bilateral deafness, and the hearing impairment in either one or both ears is service connected, rated at 10 to 20 percent disabling.
 
-Subsec. (r). Pub. L. 98–543, § 101(a)(16), substituted “$968” and “$1,442” for “$938” and “$1,397”, respectively.
+Subsec. (r). Pub. L. 98–543, § 101(a)(16), substituted “$968” and “$1,442” for “$938” and “$1,397”, respectively.
 
-Pub. L. 98–223, § 101(a)(16), substituted “$938” and “$1,397” for “$906” and “$1,350”, respectively.
+Pub. L. 98–223, § 101(a)(16), substituted “$938” and “$1,397” for “$906” and “$1,350”, respectively.
 
-Subsec. (s). Pub. L. 98–543, § 101(a)(17), substituted “$1,449” for “$1,404”.
+Subsec. (s). Pub. L. 98–543, § 101(a)(17), substituted “$1,449” for “$1,404”.
 
-Pub. L. 98–223, § 101(a)(17), substituted “$1,404” for “$1,357”.
+Pub. L. 98–223, § 101(a)(17), substituted “$1,404” for “$1,357”.
 
-Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
+Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum”.
 
-Subsec. (t)(1). Pub. L. 98–543, § 101(a)(18), substituted “$280” for “$271”.
+Subsec. (t)(1). Pub. L. 98–543, § 101(a)(18), substituted “$280” for “$271”.
 
-Pub. L. 98–223, § 101(a)(18), substituted “$271” for “$262”.
+Pub. L. 98–223, § 101(a)(18), substituted “$271” for “$262”.
 
-Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum” in two places.
+Pub. L. 98–223, § 101(a)(19), substituted “percent” for “per centum” in two places.
 
-1982—Subsec. (a). Pub. L. 97–306, §§ 101(a)(1), 107, 108, substituted “$62” for “$58”, and repealed amendment made by Pub. L. 97–253, § 405(b)(1), eff. Oct. 1, 1982.
+1982—Subsec. (a). Pub. L. 97–306, §§ 101(a)(1), 107, 108, substituted “$62” for “$58”, and repealed amendment made by Pub. L. 97–253, § 405(b)(1), eff. Oct. 1, 1982.
 
-Pub. L. 97–253, § 405(b)(1), (h), eff. Jan. 1, 1983, substituted “$57” for “$58”.
+Pub. L. 97–253, § 405(b)(1), (h), eff. Jan. 1, 1983, substituted “$57” for “$58”.
 
-Subsec. (b). Pub. L. 97–306, § 101(a)(2), substituted “$114” for “$107”.
+Subsec. (b). Pub. L. 97–306, § 101(a)(2), substituted “$114” for “$107”.
 
-Subsec. (c). Pub. L. 97–306, §§ 101(a)(3), 107, 108, substituted “$173” for “$162”, and repealed amendment made by Pub. L. 97–253, § 405(b)(2), eff. Oct. 1, 1982.
+Subsec. (c). Pub. L. 97–306, §§ 101(a)(3), 107, 108, substituted “$173” for “$162”, and repealed amendment made by Pub. L. 97–253, § 405(b)(2), eff. Oct. 1, 1982.
 
-Pub. L. 97–253, § 405(b)(2), (h), eff. Jan. 1, 1983, substituted “$161” for “$162”.
+Pub. L. 97–253, § 405(b)(2), (h), eff. Jan. 1, 1983, substituted “$161” for “$162”.
 
-Subsec. (d). Pub. L. 97–306, § 101(a)(4), substituted “$249” for “$232”.
+Subsec. (d). Pub. L. 97–306, § 101(a)(4), substituted “$249” for “$232”.
 
-Subsec. (e). Pub. L. 97–306, § 101(a)(5), substituted “$352” for “$328”.
+Subsec. (e). Pub. L. 97–306, § 101(a)(5), substituted “$352” for “$328”.
 
-Subsec. (f). Pub. L. 97–306, §§ 101(a)(6), 107, 108, substituted “$443” for “$413”, and repealed amendment made by Pub. L. 97–253, § 405(b)(3), eff. Oct. 1, 1982.
+Subsec. (f). Pub. L. 97–306, §§ 101(a)(6), 107, 108, substituted “$443” for “$413”, and repealed amendment made by Pub. L. 97–253, § 405(b)(3), eff. Oct. 1, 1982.
 
-Pub. L. 97–253, § 405(b)(3), (h), eff. Jan. 1, 1983, substituted “$412” for “$413”.
+Pub. L. 97–253, § 405(b)(3), (h), eff. Jan. 1, 1983, substituted “$412” for “$413”.
 
-Subsec. (g). Pub. L. 97–306, § 101(a)(7), substituted “$559” for “$521”.
+Subsec. (g). Pub. L. 97–306, § 101(a)(7), substituted “$559” for “$521”.
 
-Subsec. (h). Pub. L. 97–306, §§ 101(a)(8), 107, 108, substituted “$648” for “$604”, and repealed amendment made by Pub. L. 97–253, § 405(b)(4), eff. Oct. 1, 1982.
+Subsec. (h). Pub. L. 97–306, §§ 101(a)(8), 107, 108, substituted “$648” for “$604”, and repealed amendment made by Pub. L. 97–253, § 405(b)(4), eff. Oct. 1, 1982.
 
-Pub. L. 97–253, § 405(b)(4), (h), eff. Jan. 1, 1983, substituted “$603” for “$604”.
+Pub. L. 97–253, § 405(b)(4), (h), eff. Jan. 1, 1983, substituted “$603” for “$604”.
 
-Subsec. (i). Pub. L. 97–306, § 101(a)(9), substituted “$729” for “$679”.
+Subsec. (i). Pub. L. 97–306, § 101(a)(9), substituted “$729” for “$679”.
 
-Subsec. (j). Pub. L. 97–306, § 101(a)(10), substituted “$1,213” for “$1,130”.
+Subsec. (j). Pub. L. 97–306, § 101(a)(10), substituted “$1,213” for “$1,130”.
 
-Subsec. (k). Pub. L. 97–306, §§ 101(a)(11), 107, 108, substituted “$1,506” for “$1,403” and “$2,111” for “$1,966”, and repealed amendment made by Pub. L. 97–253, § 405(b)(5), eff. Oct. 1, 1982.
+Subsec. (k). Pub. L. 97–306, §§ 101(a)(11), 107, 108, substituted “$1,506” for “$1,403” and “$2,111” for “$1,966”, and repealed amendment made by Pub. L. 97–253, § 405(b)(5), eff. Oct. 1, 1982.
 
-Pub. L. 97–253, § 405(b)(5), (h), eff. Jan. 1, 1983, substituted “$61” for “$62”, “$1,402” for “$1,403”, “$61” for “$62”, and “$1,965” for “$1,966”.
+Pub. L. 97–253, § 405(b)(5), (h), eff. Jan. 1, 1983, substituted “$61” for “$62”, “$1,402” for “$1,403”, “$61” for “$62”, and “$1,965” for “$1,966”.
 
-Subsec. (*l*). Pub. L. 97–306, §§ 101(a)(12), 107, 108, substituted “$1,506” for “$1,403”, and repealed amendment made by Pub. L. 97–253, § 405(b)(6), eff. Oct. 1, 1982.
+Subsec. (*l*). Pub. L. 97–306, §§ 101(a)(12), 107, 108, substituted “$1,506” for “$1,403”, and repealed amendment made by Pub. L. 97–253, § 405(b)(6), eff. Oct. 1, 1982.
 
-Pub. L. 97–253, § 405(b)(6), (h), eff. Jan. 1, 1983, substituted “$1,402” for “$1,403”.
+Pub. L. 97–253, § 405(b)(6), (h), eff. Jan. 1, 1983, substituted “$1,402” for “$1,403”.
 
-Subsec. (m). Pub. L. 97–306, §§ 101(a)(13), 107, 108, substituted “$1,661” for “$1,547”, and repealed amendment made by Pub. L. 97–253, § 405(b)(7), eff. Oct. 1, 1982.
+Subsec. (m). Pub. L. 97–306, §§ 101(a)(13), 107, 108, substituted “$1,661” for “$1,547”, and repealed amendment made by Pub. L. 97–253, § 405(b)(7), eff. Oct. 1, 1982.
 
-Pub. L. 97–253, § 405(b)(7), (h), eff. Jan. 1, 1983, substituted “$1,546” for “$1,547”.
+Pub. L. 97–253, § 405(b)(7), (h), eff. Jan. 1, 1983, substituted “$1,546” for “$1,547”.
 
-Subsec. (n). Pub. L. 97–306, §§ 101(a)(14), 107, 108, 111(a), inserted “or has suffered blindness without light perception in both eyes,” after “anatomical loss of both eyes,”, substituted “$1,888” for “$1,758”, and repealed amendment made by Pub. L. 97–253, § 405(b)(8), eff. Oct. 1, 1982.
+Subsec. (n). Pub. L. 97–306, §§ 101(a)(14), 107, 108, 111(a), inserted “or has suffered blindness without light perception in both eyes,” after “anatomical loss of both eyes,”, substituted “$1,888” for “$1,758”, and repealed amendment made by Pub. L. 97–253, § 405(b)(8), eff. Oct. 1, 1982.
 
-Pub. L. 97–253, § 405(b)(8), (h), eff. Jan. 1, 1983, substituted “$1,757” for “$1,758”.
+Pub. L. 97–253, § 405(b)(8), (h), eff. Jan. 1, 1983, substituted “$1,757” for “$1,758”.
 
-Subsec. (*o*). Pub. L. 97–306, §§ 101(a)(15), 107, 108, substituted “$2,111” for “$1,966”, and repealed amendment made by Pub. L. 97–253, § 405(b)(9), eff. Oct. 1, 1982.
+Subsec. (*o*). Pub. L. 97–306, §§ 101(a)(15), 107, 108, substituted “$2,111” for “$1,966”, and repealed amendment made by Pub. L. 97–253, § 405(b)(9), eff. Oct. 1, 1982.
 
-Pub. L. 97–253, § 405(b)(9), (h), eff. Jan. 1, 1983, substituted “$1,965” for “$1,966”.
+Pub. L. 97–253, § 405(b)(9), (h), eff. Jan. 1, 1983, substituted “$1,965” for “$1,966”.
 
-Subsec. (p). Pub. L. 97–306, §§ 101(a)(15), 107, 108, 111(b), substituted “$2,111” for “$1,966” wherever appearing, inserted “or service-connected anatomical loss or loss of use of one hand or one foot” after “in one ear”, and repealed amendment made by Pub. L. 97–253, § 405(b)(9), eff. Oct. 1, 1982.
+Subsec. (p). Pub. L. 97–306, §§ 101(a)(15), 107, 108, 111(b), substituted “$2,111” for “$1,966” wherever appearing, inserted “or service-connected anatomical loss or loss of use of one hand or one foot” after “in one ear”, and repealed amendment made by Pub. L. 97–253, § 405(b)(9), eff. Oct. 1, 1982.
 
-Pub. L. 97–253, § 405(b)(9), (h), eff. Jan. 1, 1983, substituted “$1,965” for “$1,966” wherever appearing.
+Pub. L. 97–253, § 405(b)(9), (h), eff. Jan. 1, 1983, substituted “$1,965” for “$1,966” wherever appearing.
 
-Pub. L. 97–253, § 404(a), inserted “down” after “arithmetic mean, rounded”.
+Pub. L. 97–253, § 404(a), inserted “down” after “arithmetic mean, rounded”.
 
-Subsec. (r). Pub. L. 97–306, §§ 101(a)(16), 107, 108, substituted “$906” for “$844” in par. (1), “$1,350” for “$1,257” in par. (2), and repealed amendment made by Pub. L. 97–253, § 405(b)(10), eff. Oct. 1, 1982.
+Subsec. (r). Pub. L. 97–306, §§ 101(a)(16), 107, 108, substituted “$906” for “$844” in par. (1), “$1,350” for “$1,257” in par. (2), and repealed amendment made by Pub. L. 97–253, § 405(b)(10), eff. Oct. 1, 1982.
 
-Pub. L. 97–253, § 405(b)(10), (h), eff. Jan. 1, 1983, substituted “$843” for “$844” in par. (1), and “$1,256” for “$1,257” in par. (2).
+Pub. L. 97–253, § 405(b)(10), (h), eff. Jan. 1, 1983, substituted “$843” for “$844” in par. (1), and “$1,256” for “$1,257” in par. (2).
 
-Subsec. (s). Pub. L. 97–306, §§ 101(a)(17), 107, 108, substituted “$1,357” for “$1,264”, and repealed amendment made by Pub. L. 97–253, § 405(b)(11), eff. Oct. 1, 1982.
+Subsec. (s). Pub. L. 97–306, §§ 101(a)(17), 107, 108, substituted “$1,357” for “$1,264”, and repealed amendment made by Pub. L. 97–253, § 405(b)(11), eff. Oct. 1, 1982.
 
-Pub. L. 97–253, § 405(b)(11), (h), eff. Jan. 1, 1983, substituted “$1,263” for “$1,264”.
+Pub. L. 97–253, § 405(b)(11), (h), eff. Jan. 1, 1983, substituted “$1,263” for “$1,264”.
 
-Subsec. (t)(1). Pub. L. 97–306, §§ 101(a)(18), 107, 108, substituted “$262” for “$244”, and repealed amendment made by Pub. L. 97–253, § 405(b)(12), eff. Oct. 1, 1982.
+Subsec. (t)(1). Pub. L. 97–306, §§ 101(a)(18), 107, 108, substituted “$262” for “$244”, and repealed amendment made by Pub. L. 97–253, § 405(b)(12), eff. Oct. 1, 1982.
 
-Pub. L. 97–253, § 405(b)(12), (h), eff. Jan. 1, 1983, substituted “$243” for “$244”.
+Pub. L. 97–253, § 405(b)(12), (h), eff. Jan. 1, 1983, substituted “$243” for “$244”.
 
-1981—Subsecs. (a) to (k). Pub. L. 97–66, § 101(a)(1)–(11), increased compensation in subsec. (a) from $54 to $58, subsec. (b) from $99 to $107, subsec. (c) from $150 to $162, subsec. (d) from $206 to $232, subsec. (e) from $291 to $328, subsec. (f) from $367 to $413, subsec. (g) from $434 to $521, subsec. (h) from $503 to $604, subsec. (i) from $566 to $679, subsec. (j) from $1,016 to $1,130, and subsec. (k) from $1,262 to $1,403 and from $1,768 to $1,966.
+1981—Subsecs. (a) to (k). Pub. L. 97–66, § 101(a)(1)–(11), increased compensation in subsec. (a) from $54 to $58, subsec. (b) from $99 to $107, subsec. (c) from $150 to $162, subsec. (d) from $206 to $232, subsec. (e) from $291 to $328, subsec. (f) from $367 to $413, subsec. (g) from $434 to $521, subsec. (h) from $503 to $604, subsec. (i) from $566 to $679, subsec. (j) from $1,016 to $1,130, and subsec. (k) from $1,262 to $1,403 and from $1,768 to $1,966.
 
-Subsec. (*l*). Pub. L. 97–66, §§ 101(a)(12), 104(1), substituted “loss of use of both feet” for “loss of use of both hands, or both feet” and “$1,403” for “$1,262”.
+Subsec. (*l*). Pub. L. 97–66, §§ 101(a)(12), 104(1), substituted “loss of use of both feet” for “loss of use of both hands, or both feet” and “$1,403” for “$1,262”.
 
-Subsec. (m). Pub. L. 97–66, §§ 101(a)(13), 104(2), substituted “both hands, or of both legs at a level, or with complications, preventing natural knee action with prostheses in place, or of one arm and one leg at levels, or with complications, preventing natural elbow and knee action with prostheses” for “two extremities at a level, or with complications, preventing natural elbow or knee action with prosthesis” and “$1,547” for “$1,391”.
+Subsec. (m). Pub. L. 97–66, §§ 101(a)(13), 104(2), substituted “both hands, or of both legs at a level, or with complications, preventing natural knee action with prostheses in place, or of one arm and one leg at levels, or with complications, preventing natural elbow and knee action with prostheses” for “two extremities at a level, or with complications, preventing natural elbow or knee action with prosthesis” and “$1,547” for “$1,391”.
 
-Subsec. (n). Pub. L. 97–66, §§ 101(a)(14), 104(3), substituted “or loss of use of both arms at levels, or with complications, preventing natural elbow action with prostheses in place, has suffered the anatomical loss of both legs so near the hip as to prevent the use of prosthetic appliances, or has suffered the anatomical loss of one arm and one leg so near the shoulder and hip as to prevent the use of prosthetic appliances,” for “of two extremities so near the shoulder or hip as to prevent the use of a prosthetic appliance” and “$1,758” for “$1,581”.
+Subsec. (n). Pub. L. 97–66, §§ 101(a)(14), 104(3), substituted “or loss of use of both arms at levels, or with complications, preventing natural elbow action with prostheses in place, has suffered the anatomical loss of both legs so near the hip as to prevent the use of prosthetic appliances, or has suffered the anatomical loss of one arm and one leg so near the shoulder and hip as to prevent the use of prosthetic appliances,” for “of two extremities so near the shoulder or hip as to prevent the use of a prosthetic appliance” and “$1,758” for “$1,581”.
 
-Subsec. (*o*). Pub. L. 97–66, §§ 101(a)(15), 104(4), substituted “visual acuity or less, or if the veteran has suffered the anatomical loss of both arms so near the shoulder as to prevent the use of prosthetic appliances, the monthly compensation shall be $1,966” for “visual acuity or less, the monthly compensation shall be $1,768”.
+Subsec. (*o*). Pub. L. 97–66, §§ 101(a)(15), 104(4), substituted “visual acuity or less, or if the veteran has suffered the anatomical loss of both arms so near the shoulder as to prevent the use of prosthetic appliances, the monthly compensation shall be $1,966” for “visual acuity or less, the monthly compensation shall be $1,768”.
 
-Subsec. (p). Pub. L. 97–66, § 101(a)(15), substituted “$1,966” for “$1,768” in three places.
+Subsec. (p). Pub. L. 97–66, § 101(a)(15), substituted “$1,966” for “$1,768” in three places.
 
-Subsec. (r). Pub. L. 97–66, § 101(a)(16), substituted “$844” for “$759” in cl. (1) and “$1,257” for “$1,130” in cl. (2).
+Subsec. (r). Pub. L. 97–66, § 101(a)(16), substituted “$844” for “$759” in cl. (1) and “$1,257” for “$1,130” in cl. (2).
 
-Subsec. (s). Pub. L. 97–66, § 101(a)(17), increased compensation from $1,137 to $1,264.
+Subsec. (s). Pub. L. 97–66, § 101(a)(17), increased compensation from $1,137 to $1,264.
 
-Subsec. (t)(1). Pub. L. 97–66, § 101(a)(18), increased compensation from $219 to $244.
+Subsec. (t)(1). Pub. L. 97–66, § 101(a)(18), increased compensation from $219 to $244.
 
-1980—Subsecs. (a) to (*o*). Pub. L. 96–385, § 101(a)(1)–(15), increased compensation in subsec. (a) from $48 to $54, subsec. (b) from $88 to $99, subsec. (c) from $133 to $150, subsec. (d) from $182 to $206, subsec. (e) from $255 to $291, subsec. (f) from $321 to $367, subsec. (g) from $380 to $434, subsec. (h) from $440 to $503, subsec. (i) from $495 to $566, subsec. (j) from $889 to $1,016, subsec. (k) from $1,104 and $1,547 to $1,262 and $1,768, subsec. (*l*) from $1,104 to $1,262, subsec. (m) from $1,217 to $1,391, subsec. (n) from $1,383 to $1,581, subsec. (*o*) from $1,547 to $1,768.
+1980—Subsecs. (a) to (*o*). Pub. L. 96–385, § 101(a)(1)–(15), increased compensation in subsec. (a) from $48 to $54, subsec. (b) from $88 to $99, subsec. (c) from $133 to $150, subsec. (d) from $182 to $206, subsec. (e) from $255 to $291, subsec. (f) from $321 to $367, subsec. (g) from $380 to $434, subsec. (h) from $440 to $503, subsec. (i) from $495 to $566, subsec. (j) from $889 to $1,016, subsec. (k) from $1,104 and $1,547 to $1,262 and $1,768, subsec. (*l*) from $1,104 to $1,262, subsec. (m) from $1,217 to $1,391, subsec. (n) from $1,383 to $1,581, subsec. (*o*) from $1,547 to $1,768.
 
-Subsec. (p). Pub. L. 96–385, § 101(a)(15), substituted “$1,768” for “$1,547” in three places.
+Subsec. (p). Pub. L. 96–385, § 101(a)(15), substituted “$1,768” for “$1,547” in three places.
 
-Subsec. (r). Pub. L. 96–385, § 101(a)(16), substituted “$759” for “$664” in cl. (1) and “$1,130” for “$989” in cl. (2).
+Subsec. (r). Pub. L. 96–385, § 101(a)(16), substituted “$759” for “$664” in cl. (1) and “$1,130” for “$989” in cl. (2).
 
-Subsec. (s). Pub. L. 96–385, § 101(a)(17), increased compensation from $995 to $1,137.
+Subsec. (s). Pub. L. 96–385, § 101(a)(17), increased compensation from $995 to $1,137.
 
-Subsec. (t)(1). Pub. L. 96–385, § 101(a)(18), increased compensation from $192 to $219.
+Subsec. (t)(1). Pub. L. 96–385, § 101(a)(18), increased compensation from $192 to $219.
 
-1979—Subsecs. (a) to (*o*). Pub. L. 96–128, § 101(a)(1)–(15), increased compensation in subsec. (a) from $44 to $48, subsec. (b) from $80 to $88, subsec. (c) from $121 to $133, subsec. (d) from $166 to $182, subsec. (e) from $232 to $255, subsec. (f) from $292 to $321, subsec. (g) from $346 to $380, subsec. (h) from $400 to $440, subsec. (i) from $450 to $495, subsec. (j) from $809 to $889, subsec. (k) from $56 to $62, from $1,005 to $1,104, and from $1,408 to $1,547, subsec. (*l*) from $1,005 to $1,104, subsec. (m) from $1,107 to $1,217, subsec. (n) from $1,258 to $1,383, and subsec. (*o*) from $1,408 to $1,547.
+1979—Subsecs. (a) to (*o*). Pub. L. 96–128, § 101(a)(1)–(15), increased compensation in subsec. (a) from $44 to $48, subsec. (b) from $80 to $88, subsec. (c) from $121 to $133, subsec. (d) from $166 to $182, subsec. (e) from $232 to $255, subsec. (f) from $292 to $321, subsec. (g) from $346 to $380, subsec. (h) from $400 to $440, subsec. (i) from $450 to $495, subsec. (j) from $809 to $889, subsec. (k) from $56 to $62, from $1,005 to $1,104, and from $1,408 to $1,547, subsec. (*l*) from $1,005 to $1,104, subsec. (m) from $1,107 to $1,217, subsec. (n) from $1,258 to $1,383, and subsec. (*o*) from $1,408 to $1,547.
 
-Subsec. (p). Pub. L. 96–128, §§ 101(a)(15), 105, inserted provisions respecting the establishment of any intermediate rate, and substituted “$1,547” for “$1,408” wherever appearing.
+Subsec. (p). Pub. L. 96–128, §§ 101(a)(15), 105, inserted provisions respecting the establishment of any intermediate rate, and substituted “$1,547” for “$1,408” wherever appearing.
 
-Subsec. (r). Pub. L. 96–128, §§ 101(a)(16), 104, inserted provisions relating to intermediate rates and struck out reference to subsections (*o*) or (p) of this section in introductory text, substituted “$664” for “$604” in cl. (1), and substituted “$989” for “$900” in cl. (2).
+Subsec. (r). Pub. L. 96–128, §§ 101(a)(16), 104, inserted provisions relating to intermediate rates and struck out reference to subsections (*o*) or (p) of this section in introductory text, substituted “$664” for “$604” in cl. (1), and substituted “$989” for “$900” in cl. (2).
 
-Subsec. (s). Pub. L. 96–128, § 101(a)(17), increased compensation from $905 to $995.
+Subsec. (s). Pub. L. 96–128, § 101(a)(17), increased compensation from $905 to $995.
 
-Subsec. (t)(1). Pub. L. 96–128, § 101(a)(18), increased compensation from $175 to $192.
+Subsec. (t)(1). Pub. L. 96–128, § 101(a)(18), increased compensation from $175 to $192.
 
-1978—Subsecs. (a) to (*o*). Pub. L. 95–479, § 101(a)(1)–(15), increased compensation in subsec. (a) from $41 to $44, subsec. (b) from $75 to $80, in subsec. (c) from $113 to $121, in subsec. (d) from $155 to $166, in subsec. (e) from $216 to $232, in subsec. (f) from $272 to $292, in subsec. (g) from $322 to $346, in subsec. (h) from $373 to $400, in subsec. (i) from $419 to $450, in subsec. (j) from $754 to $809, in subsec. (k) from $937 and $1,312 to $1,005 and $1,408, respectively, in subsec. (*l*) from $937 to $1,005, in subsec. (m) from $1,032 to $1,107, in subsec. (n) from $1,172 to $1,258, and in subsec. (*o*) from $1,312 to $1,408.
+1978—Subsecs. (a) to (*o*). Pub. L. 95–479, § 101(a)(1)–(15), increased compensation in subsec. (a) from $41 to $44, subsec. (b) from $75 to $80, in subsec. (c) from $113 to $121, in subsec. (d) from $155 to $166, in subsec. (e) from $216 to $232, in subsec. (f) from $272 to $292, in subsec. (g) from $322 to $346, in subsec. (h) from $373 to $400, in subsec. (i) from $419 to $450, in subsec. (j) from $754 to $809, in subsec. (k) from $937 and $1,312 to $1,005 and $1,408, respectively, in subsec. (*l*) from $937 to $1,005, in subsec. (m) from $1,032 to $1,107, in subsec. (n) from $1,172 to $1,258, and in subsec. (*o*) from $1,312 to $1,408.
 
-Subsec. (p). Pub. L. 95–479, § 101(a)(15), (b), substituted “$1,408” for “$1,312” in two places, and inserted provision allowing next higher rate or intermediate rate but in no event in excess of $1,408 in event veteran has suffered anatomical loss or loss of use, or a combination thereof, of three extremities.
+Subsec. (p). Pub. L. 95–479, § 101(a)(15), (b), substituted “$1,408” for “$1,312” in two places, and inserted provision allowing next higher rate or intermediate rate but in no event in excess of $1,408 in event veteran has suffered anatomical loss or loss of use, or a combination thereof, of three extremities.
 
-Subsec. (r). Pub. L. 95–479, § 101(c), raised the monthly aid and attendance allowance from $563 to $604, and inserted provisions relating to need of higher level of care.
+Subsec. (r). Pub. L. 95–479, § 101(c), raised the monthly aid and attendance allowance from $563 to $604, and inserted provisions relating to need of higher level of care.
 
-Subsec. (s). Pub. L. 95–479, § 101(a)(16), substituted “$905” for “$843”.
+Subsec. (s). Pub. L. 95–479, § 101(a)(16), substituted “$905” for “$843”.
 
-Subsec. (t). Pub. L. 95–479, § 101(d), added subsec. (t).
+Subsec. (t). Pub. L. 95–479, § 101(d), added subsec. (t).
 
 1977—Subsecs. (a) to (p), (r), (s). Pub. L. 95–117 increased compensation in subsec. (a) from $38 to $41, subsec. (b) from $70 to $75, subsec. (c) from $106 to $113, subsec. (d) from $145 to $155, subsec. (e) from $203 to $216, subsec. (f) from $255 to $272, subsec. (g) from $302 to $322, subsec. (h) from $350 to $373, subsec. (i) from $393 to $419, subsec. (j) from $707 to $754, subsec. (k) from $879 and $1,231 to $937 and $1,312, respectively, subsec. (*l*) from $879 to $937, subsec. (m) from $968 to $1,032, subsec. (n) from $1,099 to $1,172, subsec. (*o*) from $1,231 to $1,312, subsec. (p) from $1,231 to $1,312, subsec. (r) from $528 to $563, and subsec. (s) from $791 to $843.
 
-1976—Subsecs. (a) to (*l*). Pub. L. 94–433, § 101(a)(1)–(12), increased compensation in subsec. (a) from $35 to $38, subsec. (b) from $65 to $70, subsec. (c) from $98 to $106, subsec. (d) from $134 to $145, subsec. (e) from $188 to $203, subsec. (f) from $236 to $255, subsec. (g) from $280 to $302, subsec. (h) from $324 to $350, subsec. (i) from $364 to $393, subsec. (j) from $655 to $707, subsec. (k) from $52, $814, and $1,139 to $56, $879, and $1,231, respectively, and subsec. (*l*) from $814 to $879.
+1976—Subsecs. (a) to (*l*). Pub. L. 94–433, § 101(a)(1)–(12), increased compensation in subsec. (a) from $35 to $38, subsec. (b) from $65 to $70, subsec. (c) from $98 to $106, subsec. (d) from $134 to $145, subsec. (e) from $188 to $203, subsec. (f) from $236 to $255, subsec. (g) from $280 to $302, subsec. (h) from $324 to $350, subsec. (i) from $364 to $393, subsec. (j) from $655 to $707, subsec. (k) from $52, $814, and $1,139 to $56, $879, and $1,231, respectively, and subsec. (*l*) from $814 to $879.
 
-Subsec. (m). Pub. L. 94–433, § 101(a)(13), 404(6), increased compensation from $896 to $968 and substituted “such veteran” for “him”, respectively.
+Subsec. (m). Pub. L. 94–433, § 101(a)(13), 404(6), increased compensation from $896 to $968 and substituted “such veteran” for “him”, respectively.
 
-Subsec. (n). Pub. L. 94–433, § 101(a)(14), increased compensation from $1,018 to $1,099.
+Subsec. (n). Pub. L. 94–433, § 101(a)(14), increased compensation from $1,018 to $1,099.
 
-Subsec. (*o*). Pub. L. 94–433, §§ 101(a)(15), 401(4), 404(6), increased compensation from $1,139 to $1,231, struck out “in combination with total blindness with <sup>5</sup>⁄<sub>200</sub> visual acuity or less,” before “the monthly compensation”, and substituted “such veteran” for “him”, respectively.
+Subsec. (*o*). Pub. L. 94–433, §§ 101(a)(15), 401(4), 404(6), increased compensation from $1,139 to $1,231, struck out “in combination with total blindness with <sup>5</sup>⁄<sub>200</sub> visual acuity or less,” before “the monthly compensation”, and substituted “such veteran” for “him”, respectively.
 
-Subsec. (p). Pub. L. 94–433, §§ 101(a)(15), 404(7), increased compensation from $1,139 to $1,231 and struck out “, in his discretion,” before “may allow”, respectively.
+Subsec. (p). Pub. L. 94–433, §§ 101(a)(15), 404(7), increased compensation from $1,139 to $1,231 and struck out “, in his discretion,” before “may allow”, respectively.
 
-Subsec. (r). Pub. L. 94–433, §§ 101(a)(16), 401(5), 404(8), increased compensation from $489 to $528 and substituted reference to section “3203(e)” for “3203(f)” of this title and “such veteran” for “he”, respectively.
+Subsec. (r). Pub. L. 94–433, §§ 101(a)(16), 401(5), 404(8), increased compensation from $489 to $528 and substituted reference to section “3203(e)” for “3203(f)” of this title and “such veteran” for “he”, respectively.
 
-Subsec. (s). Pub. L. 94–433, §§ 101(a)(17), 404(8), increased compensation from $732 to $791 and substituted “such veteran’s” for “his” after “by reason of” and before “house”, respectively.
+Subsec. (s). Pub. L. 94–433, §§ 101(a)(17), 404(8), increased compensation from $732 to $791 and substituted “such veteran’s” for “his” after “by reason of” and before “house”, respectively.
 
 1975—Subsecs. (a) to (p), (r), (s). Pub. L. 94–71 increased compensation in subsec. (a) from $32 to $35, subsec. (b) from $59 to $65, subsec. (c) from $89 to $98, subsec. (d) from $122 to $134, subsec. (e) from $171 to $188, subsec. (f) from $211 to $236, subsec. (g) from $250 to $280, subsec. (h) from $289 to $324, subsec. (i) from $325 to $364, subsec. (j) from $584 to $655, subsec. (k) from $727 and $1,017 to $814 and $1,139, respectively, subsec. (*l*) from $727 to $814, subsec. (m) from $800 to $896, subsec. (n) from $909 to $1,018, subsec. (*o*) from $1,017 to $1,139, subsec. (p) from $1,017 to $1,139, subsec. (r) from $437 to $489, and subsec. (s) from $654 to $732.
 
@@ -1967,33 +1967,33 @@ Subsec. (s). Pub. L. 94–433, §§ 101(a)(17), 404(8), increased compensation
 
 1970—Subsecs. (a) to (p), (r), (s). Pub. L. 91–376 increased compensation in subsec. (a) from $23 to $25, subsec. (b) from $43 to $46, subsec. (c) from $65 to $70, subsec. (d) from $89 to $96, subsec. (e) from $122 to $135, subsec. (f) from $147 to $163, subsec. (g) from $174 to $193, subsec. (h) from $201 to $223, subsec. (i) from $226 to $250, subsec. (j) from $400 to $450, subsec. (k) from $500 and $700 to $560 and $784, respectively, subsec. (*l*) from $500 to $560, subsec. (m) from $550 to $616, subsec. (n) from $625 to $700, subsec. (*o*) from $700 to $784, subsec. (p) from $700 to $784, subsec. (r) from $300 to $336, and subsec. (s) from $450 to $504.
 
-1968—Subsecs. (a) to (p). Pub. L. 90–493, § 1(a)(1)–(14), (17), increased compensation in subsec. (a) from $21 to $23, subsec. (b) from $40 to $43, subsec. (c) from $60 to $65, subsec. (d) from $82 to $89, subsec. (e) from $113 to $122, subsec. (f) from $136 to $147, subsec. (g) from $161 to $174, subsec. (h) from $186 to $201, subsec. (i) from $209 to $226, subsec. (j) from $300 to $400, subsec. (k) from $600 and $400 to $700 and $500, respectively, subsec. (*l*) from $400 to $500, subsec. (m) from $450 to $550, subsec. (n) from $525 to $625, subsec. (*o*) from $600 to $700, and subsec. (p) from $600 to $700.
+1968—Subsecs. (a) to (p). Pub. L. 90–493, § 1(a)(1)–(14), (17), increased compensation in subsec. (a) from $21 to $23, subsec. (b) from $40 to $43, subsec. (c) from $60 to $65, subsec. (d) from $82 to $89, subsec. (e) from $113 to $122, subsec. (f) from $136 to $147, subsec. (g) from $161 to $174, subsec. (h) from $186 to $201, subsec. (i) from $209 to $226, subsec. (j) from $300 to $400, subsec. (k) from $600 and $400 to $700 and $500, respectively, subsec. (*l*) from $400 to $500, subsec. (m) from $450 to $550, subsec. (n) from $525 to $625, subsec. (*o*) from $600 to $700, and subsec. (p) from $600 to $700.
 
-Subsec. (q). Pub. L. 90–493, § 4(a), struck out provision that if the veteran is shown to have had a service-connected disability resulting from an active tuberculous disease, the monthly compensation shall be not less than $67, provided that, in the judgment of the Administrator, the disease has reached a condition of complete arrest.
+Subsec. (q). Pub. L. 90–493, § 4(a), struck out provision that if the veteran is shown to have had a service-connected disability resulting from an active tuberculous disease, the monthly compensation shall be not less than $67, provided that, in the judgment of the Administrator, the disease has reached a condition of complete arrest.
 
-Subsecs. (r), (s). Pub. L. 90–493, § 1(a)(15), (16), increased compensation in subsec. (r) from $250 to $300, and in subsec. (s) from $350 to $450.
+Subsecs. (r), (s). Pub. L. 90–493, § 1(a)(15), (16), increased compensation in subsec. (r) from $250 to $300, and in subsec. (s) from $350 to $450.
 
 1967—Subsec. (k). Pub. L. 90–77 substituted “one or more creative organs” for “a creative organ” and “in the event the veteran has suffered one or more of the disabilities heretofore specified in this subsection” for “in the event of anatomical loss or loss of use of a creative organ, or one foot, or one hand, or both buttocks, or blindness of one eye, having only light perception, or has suffered complete organic aphonia with constant inability to communicate by speech, or deafness of both ears, having absence of air and bone conduction” and inserted following “$47 per month” where initially appearing “for each such loss or loss of use”, reference to subsec. (s) of this section and limitation of compensation to $400 per month.
 
-1965—Subsecs. (a) to (m). Pub. L. 89–311, § 1(a)(1)–(14), increased compensation in subsec. (a) from $20 to $21, subsec. (b) from $38 to $40, subsec. (c) from $58 to $60, subsec. (d) from $77 to $82, subsec. (e) from $107 to $113, subsec. (f) from $128 to $136, subsec. (g) from $149 to $161, subsec. (h) from $170 to $186, subsec. (i) from $191 to $209, subsec. (j) from $250 to $300, subsec. (k) from $525 to $600, subsec. (*l*) from $340 to $400, subsec. (m) from $390 to $450, and subsec. (n) from $440 to $525.
+1965—Subsecs. (a) to (m). Pub. L. 89–311, § 1(a)(1)–(14), increased compensation in subsec. (a) from $20 to $21, subsec. (b) from $38 to $40, subsec. (c) from $58 to $60, subsec. (d) from $77 to $82, subsec. (e) from $107 to $113, subsec. (f) from $128 to $136, subsec. (g) from $149 to $161, subsec. (h) from $170 to $186, subsec. (i) from $191 to $209, subsec. (j) from $250 to $300, subsec. (k) from $525 to $600, subsec. (*l*) from $340 to $400, subsec. (m) from $390 to $450, and subsec. (n) from $440 to $525.
 
-Subsec. (*o*). Pub. L. 89–311, §§ 1(a)(11), 3(d), increased compensation from $525 to $600 and relaxed requirement of total deafness by requiring only bilateral deafness (if the hearing impairment in either one or both ears is service connected) rated at 60 per centum or more disabling.
+Subsec. (*o*). Pub. L. 89–311, §§ 1(a)(11), 3(d), increased compensation from $525 to $600 and relaxed requirement of total deafness by requiring only bilateral deafness (if the hearing impairment in either one or both ears is service connected) rated at 60 per centum or more disabling.
 
-Subsec. (p). Pub. L. 89–311, § 3(e), increased from $525 to $600 the allowable maximum rates when service-connected disabilities exceed the requirements for any of the prescribed rates and inserted specific reference to an increase to the next higher rate in the case of service-connected blindness and bilateral deafness and an increase to the next intermediate rate in the case of service-connected total deafness in one ear.
+Subsec. (p). Pub. L. 89–311, § 3(e), increased from $525 to $600 the allowable maximum rates when service-connected disabilities exceed the requirements for any of the prescribed rates and inserted specific reference to an increase to the next higher rate in the case of service-connected blindness and bilateral deafness and an increase to the next intermediate rate in the case of service-connected total deafness in one ear.
 
-Subsec. (r). Pub. L. 89–311, § 1(a)(15), substituted “$250” for “$200”.
+Subsec. (r). Pub. L. 89–311, § 1(a)(15), substituted “$250” for “$200”.
 
-Subsec. (s). Pub. L. 89–311, § 1(a)(16), substituted “$350” for “$290”.
+Subsec. (s). Pub. L. 89–311, § 1(a)(16), substituted “$350” for “$290”.
 
 1963—Subsec. (k). Pub. L. 88–22 provided increased compensation for veterans suffering complete organic aphonia with constant inability to communicate by speech.
 
 Pub. L. 88–20 provided increased compensation for veterans suffering deafness of both ears, having absence of air and bone conduction.
 
-1962—Subsecs. (a) to (p). Pub. L. 87–645, § 1(a)(1)–(14), increased monthly compensation in subsec. (a) from $19 to $20, subsec. (b) from $36 to $38, subsec. (c) from $55 to $58, subsec. (d) from $73 to $77, subsec. (e) from $100 to $107, subsec. (f) from $120 to $128, subsec. (g) from $140 to $149, subsec. (h) from $160 to $170, subsec. (i) from $179 to $191, subsec. (j) from $225 to $250, subsec. (k) from $450 to $525, subsec. (*l*) from $309 to $340, subsec. (m) from $359 to $390, subsec. (n) from $401 to $440, and subsec. (*o*) and (p) from $450 to $525.
+1962—Subsecs. (a) to (p). Pub. L. 87–645, § 1(a)(1)–(14), increased monthly compensation in subsec. (a) from $19 to $20, subsec. (b) from $36 to $38, subsec. (c) from $55 to $58, subsec. (d) from $73 to $77, subsec. (e) from $100 to $107, subsec. (f) from $120 to $128, subsec. (g) from $140 to $149, subsec. (h) from $160 to $170, subsec. (i) from $179 to $191, subsec. (j) from $225 to $250, subsec. (k) from $450 to $525, subsec. (*l*) from $309 to $340, subsec. (m) from $359 to $390, subsec. (n) from $401 to $440, and subsec. (*o*) and (p) from $450 to $525.
 
-Subsec. (r). Pub. L. 87–645, §§ 1(a)(15), 2(a), increased monthly compensation from $150 to $200, and substituted “, subject to the limitations of section 3203(f) of this title” for “for all periods during which he is not hospitalized at Government expense”.
+Subsec. (r). Pub. L. 87–645, §§ 1(a)(15), 2(a), increased monthly compensation from $150 to $200, and substituted “, subject to the limitations of section 3203(f) of this title” for “for all periods during which he is not hospitalized at Government expense”.
 
-Subsec. (s). Pub. L. 87–645, § 1(a)(16), increased monthly compensation from $265 to $290.
+Subsec. (s). Pub. L. 87–645, § 1(a)(16), increased monthly compensation from $265 to $290.
 
 1960—Subsec. (s). Pub. L. 86–663 added subsec. (s).
 
@@ -2003,81 +2003,81 @@ Subsec. (s). Pub. L. 87–645, § 1(a)(16), increased monthly compensation fro
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title VI, § 601(c), Oct. 13, 2010, 124 Stat. 2884, provided that: “The amendments made by this section [amending this section and section 5503 of this title] shall take effect on October 1, 2011.”
+Pub. L. 111–275, title VI, § 601(c), Oct. 13, 2010, 124 Stat. 2884, provided that: “The amendments made by this section [amending this section and section 5503 of this title] shall take effect on October 1, 2011.”
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–37, § 3(g), June 30, 2009, 123 Stat. 1931, provided that: “The amendments made by this section [amending this section and sections 1115, 1162, 1311, and 1313 to 1315 of this title] shall take effect on December 1, 2008.”
+Pub. L. 111–37, § 3(g), June 30, 2009, 123 Stat. 1931, provided that: “The amendments made by this section [amending this section and sections 1115, 1162, 1311, and 1313 to 1315 of this title] shall take effect on December 1, 2008.”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–324, § 3(f), Sept. 24, 2008, 122 Stat. 3552, provided that: “The amendments made by this section [amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title] shall take effect on December 1, 2007.”
+Pub. L. 110–324, § 3(f), Sept. 24, 2008, 122 Stat. 3552, provided that: “The amendments made by this section [amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title] shall take effect on December 1, 2007.”
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–111, § 2(f), Nov. 22, 2005, 119 Stat. 2364, provided that: “The amendments made by this section [amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title] shall take effect on December 1, 2005.”
+Pub. L. 109–111, § 2(f), Nov. 22, 2005, 119 Stat. 2364, provided that: “The amendments made by this section [amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title] shall take effect on December 1, 2005.”
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–94, § 7, Dec. 21, 2001, 115 Stat. 902, provided that: “The amendments made by this Act [amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title] shall take effect on December 1, 2001.”
+Pub. L. 107–94, § 7, Dec. 21, 2001, 115 Stat. 902, provided that: “The amendments made by this Act [amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title] shall take effect on December 1, 2001.”
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–118, § 7, Nov. 30, 1999, 113 Stat. 1603, provided that: “The amendments made by this Act [amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title] shall take effect on December 1, 1999.”
+Pub. L. 106–118, § 7, Nov. 30, 1999, 113 Stat. 1603, provided that: “The amendments made by this Act [amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title] shall take effect on December 1, 1999.”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–98, § 7, Nov. 19, 1997, 111 Stat. 2158, provided that: “The amendments made by this Act [amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title] shall take effect on December 1, 1997.”
+Pub. L. 105–98, § 7, Nov. 19, 1997, 111 Stat. 2158, provided that: “The amendments made by this Act [amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title] shall take effect on December 1, 1997.”
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–140, § 7, Nov. 11, 1993, 107 Stat. 1487, provided that: “The amendments made by this Act [amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title] shall take effect on December 1, 1993.”
+Pub. L. 103–140, § 7, Nov. 11, 1993, 107 Stat. 1487, provided that: “The amendments made by this Act [amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title] shall take effect on December 1, 1993.”
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–152, § 7, Nov. 12, 1991, 105 Stat. 988, provided that: “The amendments made by this Act [amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title] shall take effect on December 1, 1991.”
+Pub. L. 102–152, § 7, Nov. 12, 1991, 105 Stat. 988, provided that: “The amendments made by this Act [amending this section and sections 1115, 1162, 1311, 1313, and 1314 of this title] shall take effect on December 1, 1991.”
 
-Pub. L. 102–3, § 7, Feb. 6, 1991, 105 Stat. 10, provided that: “Section 2(b) [set out as a note below] and the amendments made by this Act [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title] shall take effect as of January 1, 1991.”
+Pub. L. 102–3, § 7, Feb. 6, 1991, 105 Stat. 10, provided that: “Section 2(b) [set out as a note below] and the amendments made by this Act [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title] shall take effect as of January 1, 1991.”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–237, title I, § 106, Dec. 18, 1989, 103 Stat. 2064, provided that: “The amendments made by this part [part A (§§ 101–106) of title I of Pub. L. 101–237, amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title] shall take effect on December 1, 1989.”
+Pub. L. 101–237, title I, § 106, Dec. 18, 1989, 103 Stat. 2064, provided that: “The amendments made by this part [part A (§§ 101–106) of title I of Pub. L. 101–237, amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title] shall take effect on December 1, 1989.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–687, div. B, title XI, § 1106, Nov. 18, 1988, 102 Stat. 4125, provided that: “The amendments made by this title [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title, and enacting provisions set out as a note below] shall take effect on December 1, 1988.”
+Pub. L. 100–687, div. B, title XI, § 1106, Nov. 18, 1988, 102 Stat. 4125, provided that: “The amendments made by this title [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title, and enacting provisions set out as a note below] shall take effect on December 1, 1988.”
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–227, title I, § 107, Dec. 31, 1987, 101 Stat. 1555, provided that: “The amendments made by this title [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title and enacting provisions set out as notes under this section and section 101 of this title] shall take effect as of December 1, 1987.”
+Pub. L. 100–227, title I, § 107, Dec. 31, 1987, 101 Stat. 1555, provided that: “The amendments made by this title [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title and enacting provisions set out as notes under this section and section 101 of this title] shall take effect as of December 1, 1987.”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–576, title I, § 107, Oct. 28, 1986, 100 Stat. 3252, provided that: “The amendments made by sections 101 through 106 [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title] shall take effect on December 1, 1986, except that such amendments shall not take effect unless benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1986, as a result of a determination under section 215(i) of such Act (42 U.S.C 415(i)).”
+Pub. L. 99–576, title I, § 107, Oct. 28, 1986, 100 Stat. 3252, provided that: “The amendments made by sections 101 through 106 [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title] shall take effect on December 1, 1986, except that such amendments shall not take effect unless benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 1986, as a result of a determination under section 215(i) of such Act (42 U.S.C 415(i)).”
 
 Amendment by section 109(b) of Pub. L. 99–576 effective Oct. 28, 1986, see section 109(c)(1) of Pub. L. 99–576, set out as a note under section 1160 of this title.
 
-Pub. L. 99–238, title I, § 107, Jan. 13, 1986, 99 Stat. 1767, provided that: “The amendments made by this title [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title and enacting provisions set out as a note under this section] shall take effect as of December 1, 1985.”
+Pub. L. 99–238, title I, § 107, Jan. 13, 1986, 99 Stat. 1767, provided that: “The amendments made by this title [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title and enacting provisions set out as a note under this section] shall take effect as of December 1, 1985.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–543, title I, § 107, Oct. 24, 1984, 98 Stat. 2737, provided that: “Sections 101 through 106 [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title and enacting provisions set out as a note under this section] shall take effect on December 1, 1984.”
+Pub. L. 98–543, title I, § 107, Oct. 24, 1984, 98 Stat. 2737, provided that: “Sections 101 through 106 [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title and enacting provisions set out as a note under this section] shall take effect on December 1, 1984.”
 
-Pub. L. 98–223, title I, § 107, Mar. 2, 1984, 98 Stat. 39, provided that: “The amendments made by this part [part A (§§ 101–108) of title I of Pub. L. 98–223, see Tables for classification] shall take effect on April 1, 1984.”
+Pub. L. 98–223, title I, § 107, Mar. 2, 1984, 98 Stat. 39, provided that: “The amendments made by this part [part A (§§ 101–108) of title I of Pub. L. 98–223, see Tables for classification] shall take effect on April 1, 1984.”
 
 Amendment by section 112 of Pub. L. 98–223 effective Oct. 1, 1983, see section 114 of Pub. L. 98–223, set out as a note under section 1112 of this title.
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–306, title I, § 108, Oct. 14, 1982, 96 Stat. 1432, provided that: “The amendments made by this part [part A (§§ 101–108) of title I of Pub. L. 97–306, see Tables for classification] shall take effect on October 1, 1982.”
+Pub. L. 97–306, title I, § 108, Oct. 14, 1982, 96 Stat. 1432, provided that: “The amendments made by this part [part A (§§ 101–108) of title I of Pub. L. 97–306, see Tables for classification] shall take effect on October 1, 1982.”
 
-Pub. L. 97–306, title I, § 111(c), Oct. 14, 1982, 96 Stat. 1432, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall take effect on October 1, 1982.”
+Pub. L. 97–306, title I, § 111(c), Oct. 14, 1982, 96 Stat. 1432, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall take effect on October 1, 1982.”
 
-Pub. L. 97–253, title IV, § 404(c), Sept. 8, 1982, 96 Stat. 803, provided that: “The amendments made by this section [amending this section and section 315 [now 1115] of this title] shall take effect on October 1, 1982.”
+Pub. L. 97–253, title IV, § 404(c), Sept. 8, 1982, 96 Stat. 803, provided that: “The amendments made by this section [amending this section and section 315 [now 1115] of this title] shall take effect on October 1, 1982.”
 
 **Effective Date of 1981 Amendment**
 
-Pub L. 97–66, title VII, § 701, Oct. 17, 1981, 95 Stat. 1037, provided that:
+Pub L. 97–66, title VII, § 701, Oct. 17, 1981, 95 Stat. 1037, provided that:
 
 “(a) The amendments made by titles I, II, and III [see Tables for classification] shall take effect as of October 1, 1981.
 
@@ -2095,7 +2095,7 @@ Pub L. 97–66, title VII, § 701, Oct. 17, 1981, 95 Stat. 1037, provided that
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–385, title VI, § 601, Oct. 7, 1980, 94 Stat. 1538, provided that:
+Pub. L. 96–385, title VI, § 601, Oct. 7, 1980, 94 Stat. 1538, provided that:
 
 > **“(a)** The amendments made by titles I and II [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title] shall apply only to payments for months beginning after September 30, 1980.
 
@@ -2109,7 +2109,7 @@ Pub. L. 96–385, title VI, § 601, Oct. 7, 1980, 94 Stat. 1538, provided that
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–128, title VI, § 601, Nov. 28, 1979, 93 Stat. 987, as amended by Pub. L. 96–151, title III, § 306(a), Dec. 20, 1979, 93 Stat. 1097, provided that:
+Pub. L. 96–128, title VI, § 601, Nov. 28, 1979, 93 Stat. 987, as amended by Pub. L. 96–151, title III, § 306(a), Dec. 20, 1979, 93 Stat. 1097, provided that:
 
 > **“(a)**
 
@@ -2119,11 +2119,11 @@ Pub. L. 96–128, title VI, § 601, Nov. 28, 1979, 93 Stat. 987, as amended by
 
 > **“(b)** The amendments made by titles III, IV, and V [see Tables for classification] shall take effect on the date of the enactment of this Act [Nov. 28, 1979].”
 
-[Pub. L. 96–151, title III, § 306(b), Dec. 20, 1979, 93 Stat. 1097, provided that the amendment made to section 601(a)(2) of Pub. L. 96–128 [substituting “clause (11)” for “clause (1)”], set out as a note above, shall take effect as of Nov. 28, 1979.]
+[Pub. L. 96–151, title III, § 306(b), Dec. 20, 1979, 93 Stat. 1097, provided that the amendment made to section 601(a)(2) of Pub. L. 96–128 [substituting “clause (11)” for “clause (1)”], set out as a note above, shall take effect as of Nov. 28, 1979.]
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–479, title IV, § 401, Oct. 18, 1978, 92 Stat. 1566, provided that:
+Pub. L. 95–479, title IV, § 401, Oct. 18, 1978, 92 Stat. 1566, provided that:
 
 > **“(a)** Except as provided in subsection (b), the amendments made by this Act [see Tables for classification] shall take effect on October 1, 1978.
 
@@ -2131,7 +2131,7 @@ Pub. L. 95–479, title IV, § 401, Oct. 18, 1978, 92 Stat. 1566, provided tha
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–117, title V, § 501, Oct. 3, 1977, 91 Stat. 1066, provided that: “Except as otherwise provided in this Act, the amendments made by this Act to title 38, United States Code [see Tables for classification], shall become effective on October 1, 1977.”
+Pub. L. 95–117, title V, § 501, Oct. 3, 1977, 91 Stat. 1066, provided that: “Except as otherwise provided in this Act, the amendments made by this Act to title 38, United States Code [see Tables for classification], shall become effective on October 1, 1977.”
 
 **Effective Date of 1976 Amendment**
 
@@ -2139,25 +2139,25 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–71, title III, § 301, Aug. 5, 1975, 89 Stat. 398, provided that: “The provisions of this Act [see Tables for classification] shall become effective August 1, 1975.”
+Pub. L. 94–71, title III, § 301, Aug. 5, 1975, 89 Stat. 398, provided that: “The provisions of this Act [see Tables for classification] shall become effective August 1, 1975.”
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–295, title IV, § 401, May 31, 1974, 88 Stat. 184, provided that: “The provisions of this Act [see Tables for classification] shall become effective on May 1, 1974, except that title III [amending sections 1701 and 3202 [now 3501 and 5502] of this title] shall become effective on the first day of the second calendar month following enactment [May 31, 1974].”
+Pub. L. 93–295, title IV, § 401, May 31, 1974, 88 Stat. 184, provided that: “The provisions of this Act [see Tables for classification] shall become effective on May 1, 1974, except that title III [amending sections 1701 and 3202 [now 3501 and 5502] of this title] shall become effective on the first day of the second calendar month following enactment [May 31, 1974].”
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–328, title III, § 301(a), June 30, 1972, 86 Stat. 398, provided that: “Sections 101 through 107 of this Act [see Tables for classification] shall take effect on the first day of the second calendar month which begins after the date of enactment [June 30, 1972].”
+Pub. L. 92–328, title III, § 301(a), June 30, 1972, 86 Stat. 398, provided that: “Sections 101 through 107 of this Act [see Tables for classification] shall take effect on the first day of the second calendar month which begins after the date of enactment [June 30, 1972].”
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–376, § 9, Aug. 12, 1970, 84 Stat. 790, provided that: “The first two sections of this Act [amending this section and section 315 [now 1115] of this title and enacting provision set out as a note under this section] take effect July 1, 1970. Sections 4, 5, 6, and 7 [amending sections 103, 3010 [now 5110], and 3104 [now 5304] of this title, and enacting provision set out as a note under section 103 of this title] take effect January 1, 1971.”
+Pub. L. 91–376, § 9, Aug. 12, 1970, 84 Stat. 790, provided that: “The first two sections of this Act [amending this section and section 315 [now 1115] of this title and enacting provision set out as a note under this section] take effect July 1, 1970. Sections 4, 5, 6, and 7 [amending sections 103, 3010 [now 5110], and 3104 [now 5304] of this title, and enacting provision set out as a note under section 103 of this title] take effect January 1, 1971.”
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–493, § 2, Aug. 19, 1968, 82 Stat. 809, provided that: “The compensation payable pursuant to the amendments made by this Act [amending this section] shall be payable beginning with the first day of January 1969.”
+Pub. L. 90–493, § 2, Aug. 19, 1968, 82 Stat. 809, provided that: “The compensation payable pursuant to the amendments made by this Act [amending this section] shall be payable beginning with the first day of January 1969.”
 
-Pub. L. 90–493, § 4(b), Aug. 19, 1968, 82 Stat. 809, provided that: “The repeals made by subsection (a) of this section [repealing subsec. (q) of this section and section 356 of this title] shall not apply in the case of any veteran who, on the date of enactment of this Act [Aug. 19, 1968], was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.”
+Pub. L. 90–493, § 4(b), Aug. 19, 1968, 82 Stat. 809, provided that: “The repeals made by subsection (a) of this section [repealing subsec. (q) of this section and section 356 of this title] shall not apply in the case of any veteran who, on the date of enactment of this Act [Aug. 19, 1968], was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.”
 
 **Effective Date of 1967 Amendment**
 
@@ -2165,13 +2165,13 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–311, § 9, Oct. 31, 1965, 79 Stat. 1157, provided that: “The amendments made by the first section and sections 2, 3, and 4 of this Act [amending this section and sections 101, 315 [now 1115], 360 [now 1160], 414 [now 1314], and 560 [now 1560] of this title and enacting provisions set out as a note under this section] shall take effect on the first day of the second calendar month following the date of enactment of this Act [Oct. 31, 1965].”
+Pub. L. 89–311, § 9, Oct. 31, 1965, 79 Stat. 1157, provided that: “The amendments made by the first section and sections 2, 3, and 4 of this Act [amending this section and sections 101, 315 [now 1115], 360 [now 1160], 414 [now 1314], and 560 [now 1560] of this title and enacting provisions set out as a note under this section] shall take effect on the first day of the second calendar month following the date of enactment of this Act [Oct. 31, 1965].”
 
 **Effective Date of 1963 Amendment**
 
-Pub. L. 88–22, § 2, May 15, 1963, 77 Stat. 18, provided that: “The amendments made by this Act [amending this section] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act [May 15, 1963].”
+Pub. L. 88–22, § 2, May 15, 1963, 77 Stat. 18, provided that: “The amendments made by this Act [amending this section] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act [May 15, 1963].”
 
-Pub. L. 88–20, § 2, May 15, 1963, 77 Stat. 17, provided that: “The amendments made by this Act [amending this section] shall take effect on the first day of the second month which begins after the date of its enactment [May 15, 1963].”
+Pub. L. 88–20, § 2, May 15, 1963, 77 Stat. 17, provided that: “The amendments made by this Act [amending this section] shall take effect on the first day of the second month which begins after the date of its enactment [May 15, 1963].”
 
 **Effective Date of 1962 Amendment**
 
@@ -2179,19 +2179,19 @@ Amendment by Pub. L. 87–645 effective first day of first calendar month which 
 
 **Effective Date of 1960 Amendment**
 
-Pub. L. 86–663, § 2, July 14, 1960, 74 Stat. 528, provided that: “This Act [amending this section] shall be effective on and after the first day of the second calendar month following the date of its enactment [July 14, 1960].”
+Pub. L. 86–663, § 2, July 14, 1960, 74 Stat. 528, provided that: “This Act [amending this section] shall be effective on and after the first day of the second calendar month following the date of its enactment [July 14, 1960].”
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–782, § 2, Aug. 27, 1958, 72 Stat. 936, provided that the amendment made by that section is effective Jan. 1, 1959.
+Pub. L. 85–782, § 2, Aug. 27, 1958, 72 Stat. 936, provided that the amendment made by that section is effective Jan. 1, 1959.
 
 **Repeal of Temporary Changes in Fiscal Year 1983 Compensation**
 
-Pub. L. 97–253, title IV, § 405, Sept. 8, 1982, 96 Stat. 803, [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title and enacting provisions set out as notes under this section] was repealed by Pub. L. 97–306, title I, § 107, Oct. 14, 1982, 96 Stat. 1431. Section 405 of Pub. L. 97–253 had amended those sections relating to compensation to be effective Jan. 1, 1983, in contemplation of the later enactment of a law providing for cost-of-living increases for fiscal year 1983, with the intent that the increases provided for under section 405 of Pub. L. 97–253 be superseded by increases provided for in the later law. Pub. L. 97–306 provided for the anticipated increases and repealed section 405 of Pub. L. 97–253.
+Pub. L. 97–253, title IV, § 405, Sept. 8, 1982, 96 Stat. 803, [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title and enacting provisions set out as notes under this section] was repealed by Pub. L. 97–306, title I, § 107, Oct. 14, 1982, 96 Stat. 1431. Section 405 of Pub. L. 97–253 had amended those sections relating to compensation to be effective Jan. 1, 1983, in contemplation of the later enactment of a law providing for cost-of-living increases for fiscal year 1983, with the intent that the increases provided for under section 405 of Pub. L. 97–253 be superseded by increases provided for in the later law. Pub. L. 97–306 provided for the anticipated increases and repealed section 405 of Pub. L. 97–253.
 
 **Disability Compensation and Dependency and Indemnity Compensation Rate Increases**
 
-Pub. L. 119–42, §§ 2(a)–(c), 3, Nov. 25, 2025, 139 Stat. 665, 666, provided that:
+Pub. L. 119–42, §§ 2(a)–(c), 3, Nov. 25, 2025, 139 Stat. 665, 666, provided that:
 
 > **“SEC. 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.**
 
@@ -2217,175 +2217,175 @@ Pub. L. 119–42, §§ 2(a)–(c), 3, Nov. 25, 2025, 139 Stat. 665, 666, provi
 
 Similar provisions were contained in the following acts:
 
-Pub. L. 118–130, §§ 2(a)–(c), 3, Nov. 25, 2024, 138 Stat. 1639, 1640.
+Pub. L. 118–130, §§ 2(a)–(c), 3, Nov. 25, 2024, 138 Stat. 1639, 1640.
 
-Pub. L. 118–6, §§ 2(a)–(c), 3, June 14, 2023, 137 Stat. 50, 51.
+Pub. L. 118–6, §§ 2(a)–(c), 3, June 14, 2023, 137 Stat. 50, 51.
 
-Pub. L. 117–191, §§ 2(a)–(c), 3, Oct. 10, 2022, 136 Stat. 2207, 2208.
+Pub. L. 117–191, §§ 2(a)–(c), 3, Oct. 10, 2022, 136 Stat. 2207, 2208.
 
-Pub. L. 117–45, §§ 2(a)–(c), 3, Oct. 8, 2021, 135 Stat. 389, 390.
+Pub. L. 117–45, §§ 2(a)–(c), 3, Oct. 8, 2021, 135 Stat. 389, 390.
 
-Pub. L. 116–178, §§ 2(a)–(c), 3, Oct. 20, 2020, 134 Stat. 853, 854.
+Pub. L. 116–178, §§ 2(a)–(c), 3, Oct. 20, 2020, 134 Stat. 853, 854.
 
-Pub. L. 116–58, §§ 2(a)–(c), 3, Sept. 26, 2019, 133 Stat. 1091, 1092.
+Pub. L. 116–58, §§ 2(a)–(c), 3, Sept. 26, 2019, 133 Stat. 1091, 1092.
 
-Pub. L. 115–258, §§ 2(a)–(c), 3, Oct. 9, 2018, 132 Stat. 3662, 3663.
+Pub. L. 115–258, §§ 2(a)–(c), 3, Oct. 9, 2018, 132 Stat. 3662, 3663.
 
-Pub. L. 115–75, §§ 2(a)–(c), 3, Nov. 2, 2017, 131 Stat. 1244, 1245.
+Pub. L. 115–75, §§ 2(a)–(c), 3, Nov. 2, 2017, 131 Stat. 1244, 1245.
 
-Pub. L. 114–197, §§ 2(a)–(c), 3, July 22, 2016, 130 Stat. 693, 694.
+Pub. L. 114–197, §§ 2(a)–(c), 3, July 22, 2016, 130 Stat. 693, 694.
 
-Pub. L. 113–181, § 2(a)–(c), (e), Sept. 26, 2014, 128 Stat. 1916, 1917.
+Pub. L. 113–181, § 2(a)–(c), (e), Sept. 26, 2014, 128 Stat. 1916, 1917.
 
-Pub. L. 113–52, § 2(a)–(c), (e), Nov. 21, 2013, 127 Stat. 582, 583.
+Pub. L. 113–52, § 2(a)–(c), (e), Nov. 21, 2013, 127 Stat. 582, 583.
 
-Pub. L. 112–198, §§ 2(a)–(c), 3, Nov. 27, 2012, 126 Stat. 1463, 1464.
+Pub. L. 112–198, §§ 2(a)–(c), 3, Nov. 27, 2012, 126 Stat. 1463, 1464.
 
-Pub. L. 112–53, § 2(a)–(c), (e), Nov. 9, 2011, 125 Stat. 548, 549.
+Pub. L. 112–53, § 2(a)–(c), (e), Nov. 9, 2011, 125 Stat. 548, 549.
 
-Pub. L. 111–247, §§ 2(a)–(c), 3, Sept. 30, 2010, 124 Stat. 2623, 2624.
+Pub. L. 111–247, §§ 2(a)–(c), 3, Sept. 30, 2010, 124 Stat. 2623, 2624.
 
-Pub. L. 111–37, § 2(a)–(c), (e), June 30, 2009, 123 Stat. 1927, 1928.
+Pub. L. 111–37, § 2(a)–(c), (e), June 30, 2009, 123 Stat. 1927, 1928.
 
-Pub. L. 110–324, § 2(a)–(c), (e), Sept. 24, 2008, 122 Stat. 3549, 3550.
+Pub. L. 110–324, § 2(a)–(c), (e), Sept. 24, 2008, 122 Stat. 3549, 3550.
 
-Pub. L. 110–111, §§ 2(a)–(c), 3, Nov. 5, 2007, 121 Stat. 1035, 1036.
+Pub. L. 110–111, §§ 2(a)–(c), 3, Nov. 5, 2007, 121 Stat. 1035, 1036.
 
-Pub. L. 109–361, §§ 2(a)–(c), 3, Oct. 16, 2006, 120 Stat. 2062, 2063.
+Pub. L. 109–361, §§ 2(a)–(c), 3, Oct. 16, 2006, 120 Stat. 2062, 2063.
 
-Pub. L. 108–363, §§ 2(a)–(c), 3, Oct. 25, 2004, 118 Stat. 1705, 1706.
+Pub. L. 108–363, §§ 2(a)–(c), 3, Oct. 25, 2004, 118 Stat. 1705, 1706.
 
-Pub. L. 108–147, §§ 2(a)–(c), 3, Dec. 3, 2003, 117 Stat. 1885, 1886.
+Pub. L. 108–147, §§ 2(a)–(c), 3, Dec. 3, 2003, 117 Stat. 1885, 1886.
 
-Pub. L. 107–247, §§ 2(a)–(c), 3, Oct. 23, 2002, 116 Stat. 1517, 1518.
+Pub. L. 107–247, §§ 2(a)–(c), 3, Oct. 23, 2002, 116 Stat. 1517, 1518.
 
-Pub. L. 106–413, §§ 2(a)–(c), 3, Nov. 1, 2000, 114 Stat. 1798, 1799.
+Pub. L. 106–413, §§ 2(a)–(c), 3, Nov. 1, 2000, 114 Stat. 1798, 1799.
 
-Pub. L. 105–368, title XI, §§ 1101(a)–(c), 1102, Nov. 11, 1998, 112 Stat. 3366, 3367.
+Pub. L. 105–368, title XI, §§ 1101(a)–(c), 1102, Nov. 11, 1998, 112 Stat. 3366, 3367.
 
-Pub. L. 104–263, § 2(a), (c), Oct. 9, 1996, 110 Stat. 3212.
+Pub. L. 104–263, § 2(a), (c), Oct. 9, 1996, 110 Stat. 3212.
 
-Pub. L. 104–57, §§ 2(a)–(c), 3, Nov. 22, 1995, 109 Stat. 555, 556.
+Pub. L. 104–57, §§ 2(a)–(c), 3, Nov. 22, 1995, 109 Stat. 555, 556.
 
-Pub. L. 103–418, §§ 2(a)–(c), 3, Oct. 25, 1994, 108 Stat. 4336, 4337.
+Pub. L. 103–418, §§ 2(a)–(c), 3, Oct. 25, 1994, 108 Stat. 4336, 4337.
 
-Pub. L. 102–510, § 2(a), (c), Oct. 24, 1992, 106 Stat. 3318, 3319.
+Pub. L. 102–510, § 2(a), (c), Oct. 24, 1992, 106 Stat. 3318, 3319.
 
 **Administrative Adjustment of Disability Rates of Certain Persons Not Covered by This Chapter**
 
-Pub. L. 119–42, § 2(d), Nov. 25, 2025, 139 Stat. 665, provided that: “The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) [set out as a note above], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) [set out as a note preceding section 101 of this title] who have not received compensation under chapter 11 of title 38, United States Code.”
+Pub. L. 119–42, § 2(d), Nov. 25, 2025, 139 Stat. 665, provided that: “The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) [set out as a note above], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) [set out as a note preceding section 101 of this title] who have not received compensation under chapter 11 of title 38, United States Code.”
 
 Similar provisions were contained in the following acts:
 
-Pub. L. 118–130, § 2(d), Nov. 25, 2024, 138 Stat. 1639.
+Pub. L. 118–130, § 2(d), Nov. 25, 2024, 138 Stat. 1639.
 
-Pub. L. 118–6, § 2(d), June 14, 2023, 137 Stat. 50.
+Pub. L. 118–6, § 2(d), June 14, 2023, 137 Stat. 50.
 
-Pub. L. 117–191, § 2(d), Oct. 10, 2022, 136 Stat. 2207.
+Pub. L. 117–191, § 2(d), Oct. 10, 2022, 136 Stat. 2207.
 
-Pub. L. 117–45, § 2(d), Oct. 8, 2021, 135 Stat. 389.
+Pub. L. 117–45, § 2(d), Oct. 8, 2021, 135 Stat. 389.
 
-Pub. L. 116–178, § 2(d), Oct. 20, 2020, 134 Stat. 853.
+Pub. L. 116–178, § 2(d), Oct. 20, 2020, 134 Stat. 853.
 
-Pub. L. 116–58, § 2(d), Sept. 26, 2019, 133 Stat. 1091.
+Pub. L. 116–58, § 2(d), Sept. 26, 2019, 133 Stat. 1091.
 
-Pub. L. 115–258, § 2(d), Oct. 9, 2018, 132 Stat. 3662.
+Pub. L. 115–258, § 2(d), Oct. 9, 2018, 132 Stat. 3662.
 
-Pub. L. 115–75, § 2(d), Nov. 2, 2017, 131 Stat. 1244.
+Pub. L. 115–75, § 2(d), Nov. 2, 2017, 131 Stat. 1244.
 
-Pub. L. 114–197, § 2(d), July 22, 2016, 130 Stat. 693.
+Pub. L. 114–197, § 2(d), July 22, 2016, 130 Stat. 693.
 
-Pub. L. 113–181, § 2(d), Sept. 26, 2014, 128 Stat. 1916.
+Pub. L. 113–181, § 2(d), Sept. 26, 2014, 128 Stat. 1916.
 
-Pub. L. 113–52, § 2(d), Nov. 21, 2013, 127 Stat. 582.
+Pub. L. 113–52, § 2(d), Nov. 21, 2013, 127 Stat. 582.
 
-Pub. L. 112–198, § 2(d), Nov. 27, 2012, 126 Stat. 1464.
+Pub. L. 112–198, § 2(d), Nov. 27, 2012, 126 Stat. 1464.
 
-Pub. L. 112–53, § 2(d), Nov. 9, 2011, 125 Stat. 549.
+Pub. L. 112–53, § 2(d), Nov. 9, 2011, 125 Stat. 549.
 
-Pub. L. 111–247, § 2(d), Sept. 30, 2010, 124 Stat. 2624.
+Pub. L. 111–247, § 2(d), Sept. 30, 2010, 124 Stat. 2624.
 
-Pub. L. 111–37, § 2(d), June 30, 2009, 123 Stat. 1928.
+Pub. L. 111–37, § 2(d), June 30, 2009, 123 Stat. 1928.
 
-Pub. L. 110–324, § 2(d), Sept. 24, 2008, 122 Stat. 3550.
+Pub. L. 110–324, § 2(d), Sept. 24, 2008, 122 Stat. 3550.
 
-Pub. L. 110–111, § 2(d), Nov. 5, 2007, 121 Stat. 1036.
+Pub. L. 110–111, § 2(d), Nov. 5, 2007, 121 Stat. 1036.
 
-Pub. L. 109–361, § 2(d), Oct. 16, 2006, 120 Stat. 2063.
+Pub. L. 109–361, § 2(d), Oct. 16, 2006, 120 Stat. 2063.
 
-Pub. L. 109–111, § 2(g), Nov. 22, 2005, 119 Stat. 2364.
+Pub. L. 109–111, § 2(g), Nov. 22, 2005, 119 Stat. 2364.
 
-Pub. L. 108–363, § 2(d), Oct. 25, 2004, 118 Stat. 1706.
+Pub. L. 108–363, § 2(d), Oct. 25, 2004, 118 Stat. 1706.
 
-Pub. L. 108–147, § 2(d), Dec. 3, 2003, 117 Stat. 1886.
+Pub. L. 108–147, § 2(d), Dec. 3, 2003, 117 Stat. 1886.
 
-Pub. L. 107–247, § 2(d), Oct. 23, 2002, 116 Stat. 1518.
+Pub. L. 107–247, § 2(d), Oct. 23, 2002, 116 Stat. 1518.
 
-Pub. L. 107–94, § 2(b), Dec. 21, 2001, 115 Stat. 901.
+Pub. L. 107–94, § 2(b), Dec. 21, 2001, 115 Stat. 901.
 
-Pub. L. 106–413, § 2(d), Nov. 1, 2000, 114 Stat. 1799.
+Pub. L. 106–413, § 2(d), Nov. 1, 2000, 114 Stat. 1799.
 
-Pub. L. 106–118, § 2(b), Nov. 30, 1999, 113 Stat. 1602.
+Pub. L. 106–118, § 2(b), Nov. 30, 1999, 113 Stat. 1602.
 
-Pub. L. 105–368, title XI, § 1101(d), Nov. 11, 1998, 112 Stat. 3366.
+Pub. L. 105–368, title XI, § 1101(d), Nov. 11, 1998, 112 Stat. 3366.
 
-Pub. L. 105–98, § 2(b), Nov. 19, 1997, 111 Stat. 2156.
+Pub. L. 105–98, § 2(b), Nov. 19, 1997, 111 Stat. 2156.
 
-Pub. L. 104–263, § 2(b), Oct. 9, 1996, 110 Stat. 3212.
+Pub. L. 104–263, § 2(b), Oct. 9, 1996, 110 Stat. 3212.
 
-Pub. L. 104–57, § 2(d), Nov. 22, 1995, 109 Stat. 556.
+Pub. L. 104–57, § 2(d), Nov. 22, 1995, 109 Stat. 556.
 
-Pub. L. 103–418, § 2(d), Oct. 25, 1994, 108 Stat. 4337.
+Pub. L. 103–418, § 2(d), Oct. 25, 1994, 108 Stat. 4337.
 
-Pub. L. 102–510, § 2(b), Oct. 24, 1992, 106 Stat. 3318.
+Pub. L. 102–510, § 2(b), Oct. 24, 1992, 106 Stat. 3318.
 
-Pub. L. 102–152, § 2(b), Nov. 12, 1991, 105 Stat. 986.
+Pub. L. 102–152, § 2(b), Nov. 12, 1991, 105 Stat. 986.
 
-Pub. L. 102–3, § 2(b), Feb. 6, 1991, 105 Stat. 8.
+Pub. L. 102–3, § 2(b), Feb. 6, 1991, 105 Stat. 8.
 
-Pub. L. 101–237, title I, § 101(b), Dec. 18, 1989, 103 Stat. 2063.
+Pub. L. 101–237, title I, § 101(b), Dec. 18, 1989, 103 Stat. 2063.
 
-Pub. L. 100–687, div. B, title XI, § 1101(b), Nov. 18, 1988, 102 Stat. 4123.
+Pub. L. 100–687, div. B, title XI, § 1101(b), Nov. 18, 1988, 102 Stat. 4123.
 
-Pub. L. 100–227, title I, § 101(b), Dec. 31, 1987, 101 Stat. 1553.
+Pub. L. 100–227, title I, § 101(b), Dec. 31, 1987, 101 Stat. 1553.
 
-Pub. L. 99–576, title I, § 101(b), Oct. 28, 1986, 100 Stat. 3251.
+Pub. L. 99–576, title I, § 101(b), Oct. 28, 1986, 100 Stat. 3251.
 
-Pub. L. 99–238, title I, § 101(b), Jan. 13, 1986, 99 Stat. 1766.
+Pub. L. 99–238, title I, § 101(b), Jan. 13, 1986, 99 Stat. 1766.
 
-Pub. L. 98–543, title I, § 101(b), Oct. 24, 1984, 98 Stat. 2736.
+Pub. L. 98–543, title I, § 101(b), Oct. 24, 1984, 98 Stat. 2736.
 
-Pub. L. 98–223, title I, § 101(b), Mar. 2, 1984, 98 Stat. 38.
+Pub. L. 98–223, title I, § 101(b), Mar. 2, 1984, 98 Stat. 38.
 
-Pub. L. 97–306, title I, § 101(b), Oct. 14, 1982, 96 Stat. 1430.
+Pub. L. 97–306, title I, § 101(b), Oct. 14, 1982, 96 Stat. 1430.
 
-Pub. L. 97–66, title I, § 101(b), Oct. 17, 1981, 95 Stat. 1027.
+Pub. L. 97–66, title I, § 101(b), Oct. 17, 1981, 95 Stat. 1027.
 
-Pub. L. 96–385, title I, § 101(b), Oct. 7, 1980, 94 Stat. 1529.
+Pub. L. 96–385, title I, § 101(b), Oct. 7, 1980, 94 Stat. 1529.
 
-Pub. L. 96–128, title I, § 101(b), Nov. 28, 1979, 93 Stat. 983.
+Pub. L. 96–128, title I, § 101(b), Nov. 28, 1979, 93 Stat. 983.
 
-Pub. L. 95–479, title I, § 101(e), Oct. 18, 1978, 92 Stat. 1562.
+Pub. L. 95–479, title I, § 101(e), Oct. 18, 1978, 92 Stat. 1562.
 
-Pub. L. 95–117, title I, § 101(b), Oct. 3, 1977, 91 Stat. 1063.
+Pub. L. 95–117, title I, § 101(b), Oct. 3, 1977, 91 Stat. 1063.
 
-Pub. L. 94–433, title I, § 101(b), Sept. 30, 1976, 90 Stat. 1374.
+Pub. L. 94–433, title I, § 101(b), Sept. 30, 1976, 90 Stat. 1374.
 
-Pub. L. 94–71, title I, § 101(b), Aug. 5, 1975, 89 Stat. 395.
+Pub. L. 94–71, title I, § 101(b), Aug. 5, 1975, 89 Stat. 395.
 
-Pub. L. 93–295, title I, § 101(b), May 31, 1974, 88 Stat. 181.
+Pub. L. 93–295, title I, § 101(b), May 31, 1974, 88 Stat. 181.
 
-Pub. L. 92–328, title I, § 101(b), June 30, 1972, 86 Stat. 393.
+Pub. L. 92–328, title I, § 101(b), June 30, 1972, 86 Stat. 393.
 
-Pub. L. 91–376, § 1(b), Aug. 12, 1970, 84 Stat. 788.
+Pub. L. 91–376, § 1(b), Aug. 12, 1970, 84 Stat. 788.
 
-Pub. L. 90–493, § 1(b), Aug. 19, 1968, 82 Stat. 809.
+Pub. L. 90–493, § 1(b), Aug. 19, 1968, 82 Stat. 809.
 
-Pub. L. 89–311, § 1(b), Oct. 31, 1965, 79 Stat. 1154.
+Pub. L. 89–311, § 1(b), Oct. 31, 1965, 79 Stat. 1154.
 
-Pub. L. 87–645, § 1(b), Sept. 7, 1962, 76 Stat. 441.
+Pub. L. 87–645, § 1(b), Sept. 7, 1962, 76 Stat. 441.
 
-### § 1115. Additional compensation for dependents
+### § 1115. Additional compensation for dependents
 
 Any veteran entitled to compensation at the rates provided in section 1114 of this title, and whose disability is rated not less than 30 percent, shall be entitled to additional compensation for dependents in the following monthly amounts:
 
@@ -2405,7 +2405,7 @@ Any veteran entitled to compensation at the rates provided in section 1114 of th
 
 **(2)** If and while rated partially disabled, but not less than 30 percent, in an amount having the same ratio to the amount specified in paragraph (1) of this section as the degree of disability bears to total disability. The amounts payable under this paragraph, if not a multiple of $1, shall be rounded down to the nearest dollar.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1121, § 315; Pub. L. 86–499, § 1, June 8, 1960, 74 Stat. 165; Pub. L. 89–137, § 1(b), Aug. 26, 1965, 79 Stat. 576; Pub. L. 89–311, § 2(a), (b), Oct. 31, 1965, 79 Stat. 1154, 1155; Pub. L. 91–376, § 2, Aug. 12, 1970, 84 Stat. 788; Pub. L. 92–328, title I, § 102, June 30, 1972, 86 Stat. 394; Pub. L. 93–295, title I, § 102, May 31, 1974, 88 Stat. 181; Pub. L. 94–71, title I, § 102, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title I, § 102, title IV, § 404(9)–(11), Sept. 30, 1976, 90 Stat. 1375, 1378; Pub. L. 95–117, title I, § 102, Oct. 3, 1977, 91 Stat. 1064; Pub. L. 95–479, title I, § 102, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title I, § 102, Nov. 28, 1979, 93 Stat. 983; Pub. L. 96–385, title I, § 102, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title I, § 102, Oct. 17, 1981, 95 Stat. 1027; Pub. L. 97–253, title IV, §§ 404(b), 405(c), Sept. 8, 1982, 96 Stat. 803; Pub. L. 97–306, title I, §§ 102, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, § 102, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, § 102, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, § 102, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, § 102, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–227, title I, § 102, Dec. 31, 1987, 101 Stat. 1553; Pub. L. 100–687, div. B, title XI, § 1102, Nov. 18, 1988, 102 Stat. 4123; Pub. L. 101–237, title I, § 102, Dec. 18, 1989, 103 Stat. 2063; Pub. L. 102–3, § 3, Feb. 6, 1991, 105 Stat. 8; renumbered § 1115 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, § 3, Nov. 12, 1991, 105 Stat. 986; Pub. L. 103–78, § 2, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, § 3, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, § 3, Nov. 19, 1997, 111 Stat. 2156; Pub. L. 106–118, § 3, Nov. 30, 1999, 113 Stat. 1602; Pub. L. 107–94, § 3, Dec. 21, 2001, 115 Stat. 901; Pub. L. 107–330, title III, § 309(b), Dec. 6, 2002, 116 Stat. 2830; Pub. L. 108–454, title III, § 307(b), Dec. 10, 2004, 118 Stat. 3613; Pub. L. 109–111, § 2(b), Nov. 22, 2005, 119 Stat. 2363; Pub. L. 109–233, title V, § 502(3), June 15, 2006, 120 Stat. 415; Pub. L. 109–444, § 9(b), Dec. 21, 2006, 120 Stat. 3314; Pub. L. 109–461, title X, §§ 1005(b), 1006(b), Dec. 22, 2006, 120 Stat. 3467, 3468; Pub. L. 110–324, § 3(b), Sept. 24, 2008, 122 Stat. 3551; Pub. L. 111–37, § 3(b), June 30, 2009, 123 Stat. 1929.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1121, § 315; Pub. L. 86–499, § 1, June 8, 1960, 74 Stat. 165; Pub. L. 89–137, § 1(b), Aug. 26, 1965, 79 Stat. 576; Pub. L. 89–311, § 2(a), (b), Oct. 31, 1965, 79 Stat. 1154, 1155; Pub. L. 91–376, § 2, Aug. 12, 1970, 84 Stat. 788; Pub. L. 92–328, title I, § 102, June 30, 1972, 86 Stat. 394; Pub. L. 93–295, title I, § 102, May 31, 1974, 88 Stat. 181; Pub. L. 94–71, title I, § 102, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title I, § 102, title IV, § 404(9)–(11), Sept. 30, 1976, 90 Stat. 1375, 1378; Pub. L. 95–117, title I, § 102, Oct. 3, 1977, 91 Stat. 1064; Pub. L. 95–479, title I, § 102, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title I, § 102, Nov. 28, 1979, 93 Stat. 983; Pub. L. 96–385, title I, § 102, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title I, § 102, Oct. 17, 1981, 95 Stat. 1027; Pub. L. 97–253, title IV, §§ 404(b), 405(c), Sept. 8, 1982, 96 Stat. 803; Pub. L. 97–306, title I, §§ 102, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, § 102, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, § 102, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, § 102, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, § 102, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–227, title I, § 102, Dec. 31, 1987, 101 Stat. 1553; Pub. L. 100–687, div. B, title XI, § 1102, Nov. 18, 1988, 102 Stat. 4123; Pub. L. 101–237, title I, § 102, Dec. 18, 1989, 103 Stat. 2063; Pub. L. 102–3, § 3, Feb. 6, 1991, 105 Stat. 8; renumbered § 1115 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, § 3, Nov. 12, 1991, 105 Stat. 986; Pub. L. 103–78, § 2, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, § 3, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, § 3, Nov. 19, 1997, 111 Stat. 2156; Pub. L. 106–118, § 3, Nov. 30, 1999, 113 Stat. 1602; Pub. L. 107–94, § 3, Dec. 21, 2001, 115 Stat. 901; Pub. L. 107–330, title III, § 309(b), Dec. 6, 2002, 116 Stat. 2830; Pub. L. 108–454, title III, § 307(b), Dec. 10, 2004, 118 Stat. 3613; Pub. L. 109–111, § 2(b), Nov. 22, 2005, 119 Stat. 2363; Pub. L. 109–233, title V, § 502(3), June 15, 2006, 120 Stat. 415; Pub. L. 109–444, § 9(b), Dec. 21, 2006, 120 Stat. 3314; Pub. L. 109–461, title X, §§ 1005(b), 1006(b), Dec. 22, 2006, 120 Stat. 3467, 3468; Pub. L. 110–324, § 3(b), Sept. 24, 2008, 122 Stat. 3551; Pub. L. 111–37, § 3(b), June 30, 2009, 123 Stat. 1929.)
 
 **Disability Compensation and Dependency and Indemnity Compensation Rate Increases**
 
@@ -2415,319 +2415,319 @@ For increases in rates of Department of Veterans Affairs disability compensation
 
 **Amendments**
 
-2009—Par. (1)(A). Pub. L. 111–37, § 3(b)(1), substituted “$150” for “$142”.
+2009—Par. (1)(A). Pub. L. 111–37, § 3(b)(1), substituted “$150” for “$142”.
 
-Par. (1)(B). Pub. L. 111–37, § 3(b)(2), substituted “$259” and “$75” for “$245” and “$71”, respectively.
+Par. (1)(B). Pub. L. 111–37, § 3(b)(2), substituted “$259” and “$75” for “$245” and “$71”, respectively.
 
-Par. (1)(C). Pub. L. 111–37, § 3(b)(3), substituted “$101” and “$75” for “$96” and “$71”, respectively.
+Par. (1)(C). Pub. L. 111–37, § 3(b)(3), substituted “$101” and “$75” for “$96” and “$71”, respectively.
 
-Par. (1)(D). Pub. L. 111–37, § 3(b)(4), substituted “$120” for “$114”.
+Par. (1)(D). Pub. L. 111–37, § 3(b)(4), substituted “$120” for “$114”.
 
-Par. (1)(E). Pub. L. 111–37, § 3(b)(5), substituted “$286” for “$271”.
+Par. (1)(E). Pub. L. 111–37, § 3(b)(5), substituted “$286” for “$271”.
 
-Par. (1)(F). Pub. L. 111–37, § 3(b)(6), substituted “$240” for “$227”.
+Par. (1)(F). Pub. L. 111–37, § 3(b)(6), substituted “$240” for “$227”.
 
-2008—Par. (1)(A). Pub. L. 110–324, § 3(b)(1), substituted “$142” for “$139”.
+2008—Par. (1)(A). Pub. L. 110–324, § 3(b)(1), substituted “$142” for “$139”.
 
-Par. (1)(B). Pub. L. 110–324, § 3(b)(2), substituted “$245” and “$71” for “$240” and “$70”, respectively.
+Par. (1)(B). Pub. L. 110–324, § 3(b)(2), substituted “$245” and “$71” for “$240” and “$70”, respectively.
 
-Par. (1)(C). Pub. L. 110–324, § 3(b)(3), substituted “$96” and “$71” for “$94” and “$70”, respectively.
+Par. (1)(C). Pub. L. 110–324, § 3(b)(3), substituted “$96” and “$71” for “$94” and “$70”, respectively.
 
-Par. (1)(D). Pub. L. 110–324, § 3(b)(4), substituted “$114” for “$112”.
+Par. (1)(D). Pub. L. 110–324, § 3(b)(4), substituted “$114” for “$112”.
 
-Par. (1)(E). Pub. L. 110–324, § 3(b)(5), substituted “$271” for “$265”.
+Par. (1)(E). Pub. L. 110–324, § 3(b)(5), substituted “$271” for “$265”.
 
-Par. (1)(F). Pub. L. 110–324, § 3(b)(6), substituted “$227” for “$222”.
+Par. (1)(F). Pub. L. 110–324, § 3(b)(6), substituted “$227” for “$222”.
 
-2006—Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Par. (1)(A). Pub. L. 109–461, § 1005(b)(1), substituted “$139” for “$135”.
+Par. (1)(A). Pub. L. 109–461, § 1005(b)(1), substituted “$139” for “$135”.
 
-Pub. L. 109–444, § 9(b)(1), which substituted “$139” for “$135”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(b)(1), which substituted “$139” for “$135”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Par. (1)(B). Pub. L. 109–461, § 1005(b)(2), substituted “$240” and “$70” for “$233” and “$68”, respectively.
+Par. (1)(B). Pub. L. 109–461, § 1005(b)(2), substituted “$240” and “$70” for “$233” and “$68”, respectively.
 
-Pub. L. 109–444, § 9(b)(2), which substituted “$240” and “$70” for “$233” and “$68”, respectively, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(b)(2), which substituted “$240” and “$70” for “$233” and “$68”, respectively, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Par. (1)(C). Pub. L. 109–461, § 1005(b)(3), substituted “$94” and “$70” for “$91” and “$68”, respectively.
+Par. (1)(C). Pub. L. 109–461, § 1005(b)(3), substituted “$94” and “$70” for “$91” and “$68”, respectively.
 
-Pub. L. 109–444, § 9(b)(3), which substituted “$94” and “$70” for “$91” and “$68”, respectively, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(b)(3), which substituted “$94” and “$70” for “$91” and “$68”, respectively, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Par. (1)(D). Pub. L. 109–461, § 1005(b)(4), substituted “$112” for “$109”.
+Par. (1)(D). Pub. L. 109–461, § 1005(b)(4), substituted “$112” for “$109”.
 
-Pub. L. 109–444, § 9(b)(4), which substituted “$112” for “$109”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(b)(4), which substituted “$112” for “$109”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Par. (1)(E). Pub. L. 109–461, § 1005(b)(5), substituted “$265” for “$257”.
+Par. (1)(E). Pub. L. 109–461, § 1005(b)(5), substituted “$265” for “$257”.
 
-Pub. L. 109–444, § 9(b)(5), which substituted “$265” for “$257”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(b)(5), which substituted “$265” for “$257”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
 Par. (1)(E)(ii). Pub. L. 109–233 substituted “blind, or so nearly blind or significantly disabled as to” for “helpless or blind, or so nearly helpless or blind as to”.
 
-Par. (1)(F). Pub. L. 109–461, § 1005(b)(6), substituted “$222” for “$215”.
+Par. (1)(F). Pub. L. 109–461, § 1005(b)(6), substituted “$222” for “$215”.
 
-Pub. L. 109–444, § 9(b)(6), which substituted “$222” for “$215”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 9(b)(6), which substituted “$222” for “$215”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-2005—Par. (1)(A). Pub. L. 109–111, § 2(b)(1), substituted “$135” for “$127”.
+2005—Par. (1)(A). Pub. L. 109–111, § 2(b)(1), substituted “$135” for “$127”.
 
-Par. (1)(B). Pub. L. 109–111, § 2(b)(2), substituted “$233” and “$68” for “$219” and “$65”, respectively.
+Par. (1)(B). Pub. L. 109–111, § 2(b)(2), substituted “$233” and “$68” for “$219” and “$65”, respectively.
 
-Par. (1)(C). Pub. L. 109–111, § 2(b)(3), substituted “$91” and “$68” for “$86” and “$65”, respectively.
+Par. (1)(C). Pub. L. 109–111, § 2(b)(3), substituted “$91” and “$68” for “$86” and “$65”, respectively.
 
-Par. (1)(D). Pub. L. 109–111, § 2(b)(4), substituted “$109” for “$103”.
+Par. (1)(D). Pub. L. 109–111, § 2(b)(4), substituted “$109” for “$103”.
 
-Par. (1)(E). Pub. L. 109–111, § 2(b)(5), substituted “$257” for “$241”.
+Par. (1)(E). Pub. L. 109–111, § 2(b)(5), substituted “$257” for “$241”.
 
-Par. (1)(F). Pub. L. 109–111, § 2(b)(6), substituted “$215” for “$202”.
+Par. (1)(F). Pub. L. 109–111, § 2(b)(6), substituted “$215” for “$202”.
 
-2004—Par. (1)(A). Pub. L. 108–454, § 307(b)(1), substituted “$127” for “$125”.
+2004—Par. (1)(A). Pub. L. 108–454, § 307(b)(1), substituted “$127” for “$125”.
 
-Par. (1)(B). Pub. L. 108–454, § 307(b)(2), substituted “$219” and “$65” for “$215” and “$64”, respectively.
+Par. (1)(B). Pub. L. 108–454, § 307(b)(2), substituted “$219” and “$65” for “$215” and “$64”, respectively.
 
-Par. (1)(C). Pub. L. 108–454, § 307(b)(3), substituted “$86” and “$65” for “$85” and “$64”, respectively.
+Par. (1)(C). Pub. L. 108–454, § 307(b)(3), substituted “$86” and “$65” for “$85” and “$64”, respectively.
 
-Par. (1)(D). Pub. L. 108–454, § 307(b)(4), substituted “$103” for “$101”.
+Par. (1)(D). Pub. L. 108–454, § 307(b)(4), substituted “$103” for “$101”.
 
-Par. (1)(E). Pub. L. 108–454, § 307(b)(5), substituted “$241” for “$237”.
+Par. (1)(E). Pub. L. 108–454, § 307(b)(5), substituted “$241” for “$237”.
 
-Par. (1)(F). Pub. L. 108–454, § 307(b)(6), substituted “$202” for “$198”.
+Par. (1)(F). Pub. L. 108–454, § 307(b)(6), substituted “$202” for “$198”.
 
-2002—Par. (1)(A). Pub. L. 107–330, § 309(b)(1), substituted “$125” for “$124”.
+2002—Par. (1)(A). Pub. L. 107–330, § 309(b)(1), substituted “$125” for “$124”.
 
-Par. (1)(B). Pub. L. 107–330, § 309(b)(2), substituted “$215” for “$213”.
+Par. (1)(B). Pub. L. 107–330, § 309(b)(2), substituted “$215” for “$213”.
 
-Par. (1)(C). Pub. L. 107–330, § 309(b)(3), substituted “$85” for “$84”.
+Par. (1)(C). Pub. L. 107–330, § 309(b)(3), substituted “$85” for “$84”.
 
-Par. (1)(D). Pub. L. 107–330, § 309(b)(4), substituted “$101” for “$100”.
+Par. (1)(D). Pub. L. 107–330, § 309(b)(4), substituted “$101” for “$100”.
 
-Par. (1)(E). Pub. L. 107–330, § 309(b)(5), substituted “$237” for “$234”.
+Par. (1)(E). Pub. L. 107–330, § 309(b)(5), substituted “$237” for “$234”.
 
-Par. (1)(F). Pub. L. 107–330, § 309(b)(6), substituted “$198” for “$196”.
+Par. (1)(F). Pub. L. 107–330, § 309(b)(6), substituted “$198” for “$196”.
 
-2001—Par. (1)(A). Pub. L. 107–94, § 3(1), substituted “$124” for “$117”.
+2001—Par. (1)(A). Pub. L. 107–94, § 3(1), substituted “$124” for “$117”.
 
-Par. (1)(B). Pub. L. 107–94, § 3(2), substituted “$213” and “$64” for “$201” and “$61”, respectively.
+Par. (1)(B). Pub. L. 107–94, § 3(2), substituted “$213” and “$64” for “$201” and “$61”, respectively.
 
-Par. (1)(C). Pub. L. 107–94, § 3(3), substituted “$84” and “$64” for “$80” and “$61”, respectively.
+Par. (1)(C). Pub. L. 107–94, § 3(3), substituted “$84” and “$64” for “$80” and “$61”, respectively.
 
-Par. (1)(D). Pub. L. 107–94, § 3(4), substituted “$100” for “$95”.
+Par. (1)(D). Pub. L. 107–94, § 3(4), substituted “$100” for “$95”.
 
-Par. (1)(E). Pub. L. 107–94, § 3(5), substituted “$234” for “$222”.
+Par. (1)(E). Pub. L. 107–94, § 3(5), substituted “$234” for “$222”.
 
-Par. (1)(F). Pub. L. 107–94, § 3(6), substituted “$196” for “$186”.
+Par. (1)(F). Pub. L. 107–94, § 3(6), substituted “$196” for “$186”.
 
-1999—Par. (1)(A). Pub. L. 106–118, § 3(1), substituted “$117” for “$114”.
+1999—Par. (1)(A). Pub. L. 106–118, § 3(1), substituted “$117” for “$114”.
 
-Par. (1)(B). Pub. L. 106–118, § 3(2), substituted “$201” and “$61” for “$195” and “$60”, respectively.
+Par. (1)(B). Pub. L. 106–118, § 3(2), substituted “$201” and “$61” for “$195” and “$60”, respectively.
 
-Par. (1)(C). Pub. L. 106–118, § 3(3), substituted “$80” and “$61” for “$78” and “$60”, respectively.
+Par. (1)(C). Pub. L. 106–118, § 3(3), substituted “$80” and “$61” for “$78” and “$60”, respectively.
 
-Par. (1)(D). Pub. L. 106–118, § 3(4), substituted “$95” for “$92”.
+Par. (1)(D). Pub. L. 106–118, § 3(4), substituted “$95” for “$92”.
 
-Par. (1)(E). Pub. L. 106–118, § 3(5), substituted “$222” for “$215”.
+Par. (1)(E). Pub. L. 106–118, § 3(5), substituted “$222” for “$215”.
 
-Par. (1)(F). Pub. L. 106–118, § 3(6), substituted “$186” for “$180”.
+Par. (1)(F). Pub. L. 106–118, § 3(6), substituted “$186” for “$180”.
 
-1997—Par. (1)(A). Pub. L. 105–98, § 3(1), substituted “$114” for “$105”.
+1997—Par. (1)(A). Pub. L. 105–98, § 3(1), substituted “$114” for “$105”.
 
-Par. (1)(B). Pub. L. 105–98, § 3(2), substituted “$195” and “$60” for “$178” and “$55”, respectively.
+Par. (1)(B). Pub. L. 105–98, § 3(2), substituted “$195” and “$60” for “$178” and “$55”, respectively.
 
-Par. (1)(C). Pub. L. 105–98, § 3(3), substituted “$78” and “$60” for “$72” and “$55”, respectively.
+Par. (1)(C). Pub. L. 105–98, § 3(3), substituted “$78” and “$60” for “$72” and “$55”, respectively.
 
-Par. (1)(D). Pub. L. 105–98, § 3(4), substituted “$92” for “$84”.
+Par. (1)(D). Pub. L. 105–98, § 3(4), substituted “$92” for “$84”.
 
-Par. (1)(E). Pub. L. 105–98, § 3(5), substituted “$215” for “$195”.
+Par. (1)(E). Pub. L. 105–98, § 3(5), substituted “$215” for “$195”.
 
-Par. (1)(F). Pub. L. 105–98, § 3(6), substituted “$180” for “$164”.
+Par. (1)(F). Pub. L. 105–98, § 3(6), substituted “$180” for “$164”.
 
-1993—Par. (1)(A). Pub. L. 103–140, § 3(1), substituted “$105” for “$103”.
+1993—Par. (1)(A). Pub. L. 103–140, § 3(1), substituted “$105” for “$103”.
 
-Pub. L. 103–78, § 2(1), substituted “$103” for “$100”.
+Pub. L. 103–78, § 2(1), substituted “$103” for “$100”.
 
-Par. (1)(B). Pub. L. 103–140, § 3(2), substituted “$178” for “$174” and “$55” for “$54”.
+Par. (1)(B). Pub. L. 103–140, § 3(2), substituted “$178” for “$174” and “$55” for “$54”.
 
-Pub. L. 103–78, § 2(2), substituted “$174” for “$169” and “$54” for “$52”.
+Pub. L. 103–78, § 2(2), substituted “$174” for “$169” and “$54” for “$52”.
 
-Par. (1)(C). Pub. L. 103–140, § 3(3), substituted “$72” for “$71” and “$55” for “$54”.
+Par. (1)(C). Pub. L. 103–140, § 3(3), substituted “$72” for “$71” and “$55” for “$54”.
 
-Pub. L. 103–78, § 2(3), substituted “$71” for “$69” and “$54” for “$52”.
+Pub. L. 103–78, § 2(3), substituted “$71” for “$69” and “$54” for “$52”.
 
-Par. (1)(D). Pub. L. 103–140, § 3(4), substituted “$84” for “$82”.
+Par. (1)(D). Pub. L. 103–140, § 3(4), substituted “$84” for “$82”.
 
-Pub. L. 103–78, § 2(4), substituted “$82” for “$80”.
+Pub. L. 103–78, § 2(4), substituted “$82” for “$80”.
 
-Par. (1)(E). Pub. L. 103–140, § 3(5), substituted “$195” for “$191”.
+Par. (1)(E). Pub. L. 103–140, § 3(5), substituted “$195” for “$191”.
 
-Pub. L. 103–78, § 2(5), substituted “$191” for “$185”.
+Pub. L. 103–78, § 2(5), substituted “$191” for “$185”.
 
-Par. (1)(F). Pub. L. 103–140, § 3(6), substituted “$164” for “$160”.
+Par. (1)(F). Pub. L. 103–140, § 3(6), substituted “$164” for “$160”.
 
-Pub. L. 103–78, § 2(6), substituted “$160” for “$155”.
+Pub. L. 103–78, § 2(6), substituted “$160” for “$155”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 315 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 315 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1114” for “314” in introductory provisions.
+Pub. L. 102–83, § 5(c)(1), substituted “1114” for “314” in introductory provisions.
 
-Par. (1)(A). Pub. L. 102–152, § 3(1), substituted “$100” for “$96”.
+Par. (1)(A). Pub. L. 102–152, § 3(1), substituted “$100” for “$96”.
 
-Pub. L. 102–3, § 3(1), substituted “$96” for “$92”.
+Pub. L. 102–3, § 3(1), substituted “$96” for “$92”.
 
-Par. (1)(B). Pub. L. 102–152, § 3(2), substituted “$169” for “$163” and “$52” for “$50”.
+Par. (1)(B). Pub. L. 102–152, § 3(2), substituted “$169” for “$163” and “$52” for “$50”.
 
-Pub. L. 102–3, § 3(2), substituted “$163” for “$155” and “$50” for “$48”.
+Pub. L. 102–3, § 3(2), substituted “$163” for “$155” and “$50” for “$48”.
 
-Par. (1)(C). Pub. L. 102–152, § 3(3), substituted “$69” for “$67” and “$52” for “$50”.
+Par. (1)(C). Pub. L. 102–152, § 3(3), substituted “$69” for “$67” and “$52” for “$50”.
 
-Pub. L. 102–3, § 3(3), substituted “$67” for “$64” and “$50” for “$48”.
+Pub. L. 102–3, § 3(3), substituted “$67” for “$64” and “$50” for “$48”.
 
-Par. (1)(D). Pub. L. 102–152, § 3(4), substituted “$80” for “$77”.
+Par. (1)(D). Pub. L. 102–152, § 3(4), substituted “$80” for “$77”.
 
-Pub. L. 102–3, § 3(4), substituted “$77” for “$74”.
+Pub. L. 102–3, § 3(4), substituted “$77” for “$74”.
 
-Par. (1)(E). Pub. L. 102–152, § 3(5), substituted “$185” for “$178”.
+Par. (1)(E). Pub. L. 102–152, § 3(5), substituted “$185” for “$178”.
 
-Pub. L. 102–3, § 3(5), substituted “$178” for “$169”.
+Pub. L. 102–3, § 3(5), substituted “$178” for “$169”.
 
-Par. (1)(F). Pub. L. 102–152, § 3(6), substituted “$155” for “$149”.
+Par. (1)(F). Pub. L. 102–152, § 3(6), substituted “$155” for “$149”.
 
-Pub. L. 102–3, § 3(6), substituted “$149” for “$142”.
+Pub. L. 102–3, § 3(6), substituted “$149” for “$142”.
 
-1989—Par. (1)(A). Pub. L. 101–237, § 102(1), substituted “$92” for “$88”.
+1989—Par. (1)(A). Pub. L. 101–237, § 102(1), substituted “$92” for “$88”.
 
-Par. (1)(B). Pub. L. 101–237, § 102(2), substituted “$155” and “$48” for “$148” and “$46”, respectively.
+Par. (1)(B). Pub. L. 101–237, § 102(2), substituted “$155” and “$48” for “$148” and “$46”, respectively.
 
-Par. (1)(C). Pub. L. 101–237, § 102(3), substituted “$64” and “$48” for “$61” and “$46”, respectively.
+Par. (1)(C). Pub. L. 101–237, § 102(3), substituted “$64” and “$48” for “$61” and “$46”, respectively.
 
-Par. (1)(D). Pub. L. 101–237, § 102(4), substituted “$74” for “$71”.
+Par. (1)(D). Pub. L. 101–237, § 102(4), substituted “$74” for “$71”.
 
-Par. (1)(E). Pub. L. 101–237, § 102(5), substituted “$169” for “$161”.
+Par. (1)(E). Pub. L. 101–237, § 102(5), substituted “$169” for “$161”.
 
-Par. (1)(F). Pub. L. 101–237, § 102(6), substituted “$142” for “$136”.
+Par. (1)(F). Pub. L. 101–237, § 102(6), substituted “$142” for “$136”.
 
-1988—Par. (1)(A). Pub. L. 100–687, § 1102(1), substituted “$88” for “$85”.
+1988—Par. (1)(A). Pub. L. 100–687, § 1102(1), substituted “$88” for “$85”.
 
-Par. (1)(B). Pub. L. 100–687, § 1102(2), substituted “$148” and “$46” for “$143” and “$45”, respectively.
+Par. (1)(B). Pub. L. 100–687, § 1102(2), substituted “$148” and “$46” for “$143” and “$45”, respectively.
 
-Par. (1)(C). Pub. L. 100–687, § 1102(3), substituted “$61” and “$46” for “$59” and “$45”, respectively.
+Par. (1)(C). Pub. L. 100–687, § 1102(3), substituted “$61” and “$46” for “$59” and “$45”, respectively.
 
-Par. (1)(D). Pub. L. 100–687, § 1102(4), substituted “$71” for “$69”.
+Par. (1)(D). Pub. L. 100–687, § 1102(4), substituted “$71” for “$69”.
 
-Par. (1)(E). Pub. L. 100–687, § 1102(5), substituted “$161” for “$155”.
+Par. (1)(E). Pub. L. 100–687, § 1102(5), substituted “$161” for “$155”.
 
-Par. (1)(F). Pub. L. 100–687, § 1102(6), substituted “$136” for “$131”.
+Par. (1)(F). Pub. L. 100–687, § 1102(6), substituted “$136” for “$131”.
 
-1987—Par. (1)(A). Pub. L. 100–227, § 102(1), substituted “$85” for “$82”.
+1987—Par. (1)(A). Pub. L. 100–227, § 102(1), substituted “$85” for “$82”.
 
-Par. (1)(B). Pub. L. 100–227, § 102(2), substituted “$143” and “$45” for “$138” and “$44”, respectively.
+Par. (1)(B). Pub. L. 100–227, § 102(2), substituted “$143” and “$45” for “$138” and “$44”, respectively.
 
-Par. (1)(C). Pub. L. 100–227, § 102(3), substituted “$59” and “$45” for “$57” and “$44”, respectively.
+Par. (1)(C). Pub. L. 100–227, § 102(3), substituted “$59” and “$45” for “$57” and “$44”, respectively.
 
-Par. (1)(D). Pub. L. 100–227, § 102(4), substituted “$69” for “$67”.
+Par. (1)(D). Pub. L. 100–227, § 102(4), substituted “$69” for “$67”.
 
-Par. (1)(E). Pub. L. 100–227, § 102(5), substituted “$155” for “$149”.
+Par. (1)(E). Pub. L. 100–227, § 102(5), substituted “$155” for “$149”.
 
-Par. (1)(F). Pub. L. 100–227, § 102(6), substituted “$131” for “$126”.
+Par. (1)(F). Pub. L. 100–227, § 102(6), substituted “$131” for “$126”.
 
-1986—Par. (1)(A). Pub. L. 99–576, § 102(1), substituted “$82” for “$81”.
+1986—Par. (1)(A). Pub. L. 99–576, § 102(1), substituted “$82” for “$81”.
 
-Pub. L. 99–238, § 102(1), substituted “$81” for “$79”.
+Pub. L. 99–238, § 102(1), substituted “$81” for “$79”.
 
-Par. (1)(B). Pub. L. 99–576, § 102(2), substituted “$138” and “$44” for “$136” and “$43”, respectively.
+Par. (1)(B). Pub. L. 99–576, § 102(2), substituted “$138” and “$44” for “$136” and “$43”, respectively.
 
-Pub. L. 99–238, § 102(2), substituted “$136” and “$43” for “$132” and “$42”, respectively.
+Pub. L. 99–238, § 102(2), substituted “$136” and “$43” for “$132” and “$42”, respectively.
 
-Par. (1)(C). Pub. L. 99–576, § 102(3), substituted “$57” and “$44” for “$56” and “$43”, respectively.
+Par. (1)(C). Pub. L. 99–576, § 102(3), substituted “$57” and “$44” for “$56” and “$43”, respectively.
 
-Pub. L. 99–238, § 102(3), substituted “$56” and “$43” for “$54” and “$42”, respectively.
+Pub. L. 99–238, § 102(3), substituted “$56” and “$43” for “$54” and “$42”, respectively.
 
-Par. (1)(D). Pub. L. 99–576, § 102(4), substituted “$67” for “$66”.
+Par. (1)(D). Pub. L. 99–576, § 102(4), substituted “$67” for “$66”.
 
-Pub. L. 99–238, § 102(4), substituted “$66” for “$64”.
+Pub. L. 99–238, § 102(4), substituted “$66” for “$64”.
 
-Par. (1)(E). Pub. L. 99–576, § 102(5), substituted “$149” for “$147”.
+Par. (1)(E). Pub. L. 99–576, § 102(5), substituted “$149” for “$147”.
 
-Pub. L. 99–238, § 102(5), substituted “$147” for “$143”.
+Pub. L. 99–238, § 102(5), substituted “$147” for “$143”.
 
-Par. (1)(F). Pub. L. 99–576, § 102(6), substituted “$126” for “$124”.
+Par. (1)(F). Pub. L. 99–576, § 102(6), substituted “$126” for “$124”.
 
-Pub. L. 99–238, § 102(6), substituted “$124” for “$120”.
+Pub. L. 99–238, § 102(6), substituted “$124” for “$120”.
 
-1984—Pub. L. 98–223, § 102(b), substituted “percent” for “per centum” in provision preceding par. (1).
+1984—Pub. L. 98–223, § 102(b), substituted “percent” for “per centum” in provision preceding par. (1).
 
-Par. (1)(A). Pub. L. 98–543, § 102(1), substituted “$79” for “$77”.
+Par. (1)(A). Pub. L. 98–543, § 102(1), substituted “$79” for “$77”.
 
-Pub. L. 98–223, § 102(a)(1), substituted “$77” for “$74”.
+Pub. L. 98–223, § 102(a)(1), substituted “$77” for “$74”.
 
-Par. (1)(B). Pub. L. 98–543, § 102(2), substituted “$132” and “$42” for “$128” and “$41”, respectively.
+Par. (1)(B). Pub. L. 98–543, § 102(2), substituted “$132” and “$42” for “$128” and “$41”, respectively.
 
-Pub. L. 98–223, § 102(a)(2), substituted “$128” and “$41” for “$124” and “$40”, respectively.
+Pub. L. 98–223, § 102(a)(2), substituted “$128” and “$41” for “$124” and “$40”, respectively.
 
-Par. (1)(C). Pub. L. 98–543, § 102(3), substituted “$54” and “$42” for “$52” and “$41”, respectively.
+Par. (1)(C). Pub. L. 98–543, § 102(3), substituted “$54” and “$42” for “$52” and “$41”, respectively.
 
-Pub. L. 98–223, § 102(a)(3), substituted “$52” and “$41” for “$50” and “$40”, respectively.
+Pub. L. 98–223, § 102(a)(3), substituted “$52” and “$41” for “$50” and “$40”, respectively.
 
-Par. (1)(D). Pub. L. 98–543, § 102(4), substituted “$64” for “$62”.
+Par. (1)(D). Pub. L. 98–543, § 102(4), substituted “$64” for “$62”.
 
-Pub. L. 98–223, § 102(a)(4), substituted “$62” for “$60”.
+Pub. L. 98–223, § 102(a)(4), substituted “$62” for “$60”.
 
-Par. (1)(E). Pub. L. 98–543, § 102(5), substituted “$143” for “$139”.
+Par. (1)(E). Pub. L. 98–543, § 102(5), substituted “$143” for “$139”.
 
-Pub. L. 98–223, § 102(a)(5), substituted “$139” for “$134”.
+Pub. L. 98–223, § 102(a)(5), substituted “$139” for “$134”.
 
-Par. (1)(F). Pub. L. 98–543, § 102(6), substituted “$120” for “$116”.
+Par. (1)(F). Pub. L. 98–543, § 102(6), substituted “$120” for “$116”.
 
-Pub. L. 98–223, § 102(a)(6), substituted “$116” for “$112”.
+Pub. L. 98–223, § 102(a)(6), substituted “$116” for “$112”.
 
-Par. (2). Pub. L. 98–223, § 102(b), substituted “percent” for “per centum”.
+Par. (2). Pub. L. 98–223, § 102(b), substituted “percent” for “per centum”.
 
-1982—Par. (1)(A). Pub. L. 97–306, § 102(1), added subpar. (A) and struck out former subpar. (A) which provided $69 for a veteran with a spouse but no child living.
+1982—Par. (1)(A). Pub. L. 97–306, § 102(1), added subpar. (A) and struck out former subpar. (A) which provided $69 for a veteran with a spouse but no child living.
 
-Par. (1)(B). Pub. L. 97–306, §§ 102(1), 107, 108, added subpar. (B), repealed amendment made by Pub. L. 97–253, § 405(c)(1), eff. Oct. 1, 1982, and struck out former subpar. (B) which provided $116 for a veteran with a spouse and one child living.
+Par. (1)(B). Pub. L. 97–306, §§ 102(1), 107, 108, added subpar. (B), repealed amendment made by Pub. L. 97–253, § 405(c)(1), eff. Oct. 1, 1982, and struck out former subpar. (B) which provided $116 for a veteran with a spouse and one child living.
 
-Pub. L. 97–253, § 405(c)(1), (h), eff. Jan. 1, 1983, substituted “$115” for “$116”.
+Pub. L. 97–253, § 405(c)(1), (h), eff. Jan. 1, 1983, substituted “$115” for “$116”.
 
-Par. (1)(C). Pub. L. 97–306, § 102(1), added subpar. (C) and struck out former subpar. (C) which provided $153 for a veteran with a spouse and two children living.
+Par. (1)(C). Pub. L. 97–306, § 102(1), added subpar. (C) and struck out former subpar. (C) which provided $153 for a veteran with a spouse and two children living.
 
-Par. (1)(D). Pub. L. 97–306, §§ 102(1)–(3), 107, 108, redesignated subpar. (H) as (D), in subpar. (D) as so redesignated, substituted “$60” for “$56”, struck out former subpar. (D) which provided $192 for a veteran with a spouse and three or more children living (plus $38 for each living child in excess of three), and repealed amendment made by Pub. L. 97–253, § 405(c)(2), eff. Oct. 1, 1982.
+Par. (1)(D). Pub. L. 97–306, §§ 102(1)–(3), 107, 108, redesignated subpar. (H) as (D), in subpar. (D) as so redesignated, substituted “$60” for “$56”, struck out former subpar. (D) which provided $192 for a veteran with a spouse and three or more children living (plus $38 for each living child in excess of three), and repealed amendment made by Pub. L. 97–253, § 405(c)(2), eff. Oct. 1, 1982.
 
-Pub. L. 97–253, § 405(c)(2), (h), eff. Jan. 1, 1983, substituted “$37” for “$38” after “plus”.
+Pub. L. 97–253, § 405(c)(2), (h), eff. Jan. 1, 1983, substituted “$37” for “$38” after “plus”.
 
-Par. (1)(E). Pub. L. 97–306, § 102(1), (2), (4), redesignated subpar. (I) as (E), substituted “$134” for “$125”, and struck out former subpar. (E) which provided $47 for a veteran with no spouse but one child living.
+Par. (1)(E). Pub. L. 97–306, § 102(1), (2), (4), redesignated subpar. (I) as (E), substituted “$134” for “$125”, and struck out former subpar. (E) which provided $47 for a veteran with no spouse but one child living.
 
-Par. (1)(F). Pub. L. 97–306, § 102(1), (2), (5), redesignated subpar. (J) as (F), substituted “$112” for “$105”, and struck out former subpar. (F) which provided $86 for a veteran with no spouse but two children living.
+Par. (1)(F). Pub. L. 97–306, § 102(1), (2), (5), redesignated subpar. (J) as (F), substituted “$112” for “$105”, and struck out former subpar. (F) which provided $86 for a veteran with no spouse but two children living.
 
-Par. (1)(G). Pub. L. 97–306, §§ 102(1), 107, 108, struck out subpar. (G) which provided $123 for a veteran with no spouse but three or more children living (plus $38 for each living child in excess of three), and repealed amendment made by Pub. L. 97–253, § 405(c)(3), eff. Oct. 1, 1982.
+Par. (1)(G). Pub. L. 97–306, §§ 102(1), 107, 108, struck out subpar. (G) which provided $123 for a veteran with no spouse but three or more children living (plus $38 for each living child in excess of three), and repealed amendment made by Pub. L. 97–253, § 405(c)(3), eff. Oct. 1, 1982.
 
-Pub. L. 97–253, § 405(c)(3), (h), eff. Jan. 1, 1983, substituted “$37” for “$38” after “plus”.
+Pub. L. 97–253, § 405(c)(3), (h), eff. Jan. 1, 1983, substituted “$37” for “$38” after “plus”.
 
-Par. (1)(H) to (J). Pub. L. 97–306, § 102(2), redesignated subpars. (H), (I), and (J) as (D), (E), and (F), respectively.
+Par. (1)(H) to (J). Pub. L. 97–306, § 102(2), redesignated subpars. (H), (I), and (J) as (D), (E), and (F), respectively.
 
-Par. (2). Pub. L. 97–253, § 404(b), substituted provisions that the amounts payable under this paragraph, if not a multiple of $1, be rounded down to the nearest dollar for provisions that such amounts would be adjusted upward or downward to the nearest dollar, counting fifty cents and over as a whole dollar.
+Par. (2). Pub. L. 97–253, § 404(b), substituted provisions that the amounts payable under this paragraph, if not a multiple of $1, be rounded down to the nearest dollar for provisions that such amounts would be adjusted upward or downward to the nearest dollar, counting fifty cents and over as a whole dollar.
 
 1981—Par. (1)(A) to (J). Pub. L. 97–66 increased compensation figures as follows: in subpar. (A) from $62 to $69, in subpar. (B) from $104 to $116, in subpar. (C) from $138 to $153, in subpar. (D) from $173 to $192 and from $34 to $38, in subpar. (E) from $42 to $47, in subpar. (F) from $77 to $86, in subpar (G) from $111 to $123 and from $34 to $38, in subpar. (H) from $50 to $56, in subpar. (I) from $112 to $125, and in subpar. (J) from $94 to $105.
 
-1980—Par. (1)(A) to (J). Pub. L. 96–385, § 102(1)–(10), increased additional compensation in subpar. (A) from $54 to $62, in subpar. (B) from $91 to $104, in subpar. (C) from $121 to $138, in subpar. (D) from $151 and $30 to $173 and $34, respectively, in subpar. (E) from $37 to $42, in subpar. (F) from $67 to $77, in subpar. (G) from $97 and $30 to $111 and $34, respectively, in subpar. (H) from $44 to $50, in subpar. (I) from $98 to $112, and in subpar. (J) from $82 to $94.
+1980—Par. (1)(A) to (J). Pub. L. 96–385, § 102(1)–(10), increased additional compensation in subpar. (A) from $54 to $62, in subpar. (B) from $91 to $104, in subpar. (C) from $121 to $138, in subpar. (D) from $151 and $30 to $173 and $34, respectively, in subpar. (E) from $37 to $42, in subpar. (F) from $67 to $77, in subpar. (G) from $97 and $30 to $111 and $34, respectively, in subpar. (H) from $44 to $50, in subpar. (I) from $98 to $112, and in subpar. (J) from $82 to $94.
 
-1979—Par. (1)(A) to (H). Pub. L. 96–128, § 102(a)(1)–(8), increased additional compensation in subpar. (A) from $49 to $54, in subpar. (B) from $83 to $91, in subpar. (C) from $110 to $121, in subpar. (D) from $137 and $27 to $151 and $30, respectively, in subpar. (E) from $34 to $37, in subpar. (F) from $61 to $67, in subpar. (G) from $88 and $27 to $97 and $30, respectively, and in subpar. (H) from $40 to $44.
+1979—Par. (1)(A) to (H). Pub. L. 96–128, § 102(a)(1)–(8), increased additional compensation in subpar. (A) from $49 to $54, in subpar. (B) from $83 to $91, in subpar. (C) from $110 to $121, in subpar. (D) from $137 and $27 to $151 and $30, respectively, in subpar. (E) from $34 to $37, in subpar. (F) from $61 to $67, in subpar. (G) from $88 and $27 to $97 and $30, respectively, and in subpar. (H) from $40 to $44.
 
-Par. (1)(I). Pub. L. 96–128, § 102(a)(9), (b)(1)(A), substituted “paragraph” for “subsection”, “(i)” for “(1)”, “(ii)” for “(2)”, “$98” for “$89”, and “section” for “subsection”.
+Par. (1)(I). Pub. L. 96–128, § 102(a)(9), (b)(1)(A), substituted “paragraph” for “subsection”, “(i)” for “(1)”, “(ii)” for “(2)”, “$98” for “$89”, and “section” for “subsection”.
 
-Par. (1)(J). Pub. L. 96–128, § 102(a)(10), (b)(1)(B), substituted “paragraph” for “subsection”, “$82” for “$75”, and “section” for “subsection”.
+Par. (1)(J). Pub. L. 96–128, § 102(a)(10), (b)(1)(B), substituted “paragraph” for “subsection”, “$82” for “$75”, and “section” for “subsection”.
 
-Par. (2). Pub. L. 96–128, § 102(b)(2), inserted “of this section” after “(1)”.
+Par. (2). Pub. L. 96–128, § 102(b)(2), inserted “of this section” after “(1)”.
 
-1978—Pub. L. 95–479, § 102(b), substituted “30 per centum” for “50 per centum” in provisions preceding par. (1).
+1978—Pub. L. 95–479, § 102(b), substituted “30 per centum” for “50 per centum” in provisions preceding par. (1).
 
-Par. (1). Pub. L. 95–479, § 102(a), substituted $49 for $46 in subpar. (A), $83 for $77 in subpar. (B), $110 for $98 in subpar. (C), $137 and $27 for $120 and $22, respectively, in subpar. (D), $34 for $30 in subpar. (E), $61 for $52 in subpar. (F), $88 and $27 for $77 and $22, respectively, in subpar. (G), $40 for $37 in subpar. (H), $89 for $83 in subpar. (I), and $75 for $70 in subpar. (J).
+Par. (1). Pub. L. 95–479, § 102(a), substituted $49 for $46 in subpar. (A), $83 for $77 in subpar. (B), $110 for $98 in subpar. (C), $137 and $27 for $120 and $22, respectively, in subpar. (D), $34 for $30 in subpar. (E), $61 for $52 in subpar. (F), $88 and $27 for $77 and $22, respectively, in subpar. (G), $40 for $37 in subpar. (H), $89 for $83 in subpar. (I), and $75 for $70 in subpar. (J).
 
-Par. (2). Pub. L. 95–479, § 102(b), substituted “30 per centum” for “50 per centum”.
+Par. (2). Pub. L. 95–479, § 102(b), substituted “30 per centum” for “50 per centum”.
 
 1977—Par. (1). Pub. L. 95–117 substituted $46 for $43 in subpar. (A), $77 for $72 in subpar. (B), $98 for $92 in subpar. (C), $120 and $22 for $113 and $21, respectively, in subpar. (D), $30 for $28 in subpar. (E), $52 for $49 in subpar. (F), $77 and $22 for $72 and $21, respectively, in subpar. (G), $37 for $35 in subpar. (H), $83 for $78 in subpar. (I), and $70 for $66 in subpar. (J).
 
-1976—Par. (1). Pub. L. 94–433, § 102, substituted $43 for $40 in subpar. (A), $72 for $67 in subpar. (B), $92 for $85 in subpar. (C), $113 and $21 for $105 and $19, respectively, in subpar. (D), $28 for $26 in subpar. (E), $49 for $45 in subpar. (F), $72 and $21 for $67 and $19, respectively, in subpar. (G), $35 for $32 in subpar. (H), added subpar. (I), and substituted $66 for $61 in subpar. (J), formerly (I), but redesignated (J).
+1976—Par. (1). Pub. L. 94–433, § 102, substituted $43 for $40 in subpar. (A), $72 for $67 in subpar. (B), $92 for $85 in subpar. (C), $113 and $21 for $105 and $19, respectively, in subpar. (D), $28 for $26 in subpar. (E), $49 for $45 in subpar. (F), $72 and $21 for $67 and $19, respectively, in subpar. (G), $35 for $32 in subpar. (H), added subpar. (I), and substituted $66 for $61 in subpar. (J), formerly (I), but redesignated (J).
 
-Pub. L. 94–433, §§ 404(9), (10), substituted “spouse” for “wife” in subpars. (A) through (G) and “parent dependent upon such veteran” for “mother or father, either or both dependent upon him” in subpar. (H).
+Pub. L. 94–433, §§ 404(9), (10), substituted “spouse” for “wife” in subpars. (A) through (G) and “parent dependent upon such veteran” for “mother or father, either or both dependent upon him” in subpar. (H).
 
-Par. (2). Pub. L. 94–433, § 404(11), struck out “his” before “disability bears”.
+Par. (2). Pub. L. 94–433, § 404(11), struck out “his” before “disability bears”.
 
 1975—Par. (1). Pub. L. 94–71 substituted $40 for $36 in subpar. (A), $67 for $61 in subpar. (B), $85 for $77 in subpar. (C), $105 and $19 for $95 and $17, respectively, in subpar. (D), $26 for $24 in subpar. (E), $45 for $41 in subpar. (F), $67 and $19 for $61 and $17, respectively, in subpar. (G), $32 for $29 in subpar. (H) and $61 for $55 in subpar. (I).
 
@@ -2853,21 +2853,21 @@ Amendment by Pub. L. 91–376 effective July 1, 1970, see section 9 of Pub. L. 9
 
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under section 1114 of this title.
 
-Pub. L. 89–137, § 2, Aug. 26, 1965, 79 Stat. 576, provided that: “The foregoing provisions of this Act [amending this section and former section 1504 of this title] shall become effective on the first day of the second calendar month which begins following the date of enactment of this Act [Aug. 26, 1965].”
+Pub. L. 89–137, § 2, Aug. 26, 1965, 79 Stat. 576, provided that: “The foregoing provisions of this Act [amending this section and former section 1504 of this title] shall become effective on the first day of the second calendar month which begins following the date of enactment of this Act [Aug. 26, 1965].”
 
 **Effective Date of 1960 Amendment**
 
-Pub. L. 86–499, § 2, June 8, 1960, 74 Stat. 165, provided that: “The amendments made by this Act [amending this section] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act [June 8, 1960].”
+Pub. L. 86–499, § 2, June 8, 1960, 74 Stat. 165, provided that: “The amendments made by this Act [amending this section] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act [June 8, 1960].”
 
 **Repeal**
 
-Pub. L. 97–253, title IV, § 405(c), Sept. 8, 1982, 96 Stat. 803, cited as a credit to this section, was repealed by Pub. L. 97–306, §§ 107, 108, Oct. 14, 1982, 96 Stat. 1431, 1432, eff. Oct. 1, 1982.
+Pub. L. 97–253, title IV, § 405(c), Sept. 8, 1982, 96 Stat. 803, cited as a credit to this section, was repealed by Pub. L. 97–306, §§ 107, 108, Oct. 14, 1982, 96 Stat. 1431, 1432, eff. Oct. 1, 1982.
 
 **Savings Provision**
 
-Pub. L. 89–137, § 1(c), Aug. 26, 1965, 79 Stat. 576, provided that: “Any veteran-trainee receiving subsistence allowance on the date of the enactment of this Act [Aug. 26, 1965] while pursuing a course of vocational rehabilitation authorized by chapter 31 of title 38, United States Code [former section 1501 et seq. of this title], shall not have such allowance reduced by reason of the amendments contained in such Act [amending this section and former section 1504 of this title].”
+Pub. L. 89–137, § 1(c), Aug. 26, 1965, 79 Stat. 576, provided that: “Any veteran-trainee receiving subsistence allowance on the date of the enactment of this Act [Aug. 26, 1965] while pursuing a course of vocational rehabilitation authorized by chapter 31 of title 38, United States Code [former section 1501 et seq. of this title], shall not have such allowance reduced by reason of the amendments contained in such Act [amending this section and former section 1504 of this title].”
 
-### § 1116. Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in certain locations
+### § 1116. Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in certain locations
 
 **(a)**
 
@@ -2913,7 +2913,7 @@ shall be considered to have been incurred in or aggravated by such service, notw
 
 **(c)** For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran who performed covered service,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
 
@@ -2929,7 +2929,7 @@ shall be presumed to have been exposed during such service to an herbicide agent
 
 **(5)** performed on Guam or American Samoa, or in the territorial waters thereof, during the period beginning on January 9, 1962, and ending on July 31, 1980, or served on Johnston Atoll or on a ship that called at Johnston Atoll during the period beginning on January 1, 1972, and ending on September 30, 1977.
 
-(Added Pub. L. 102–4, § 2(a)(1), Feb. 6, 1991, 105 Stat. 11, § 316; renumbered § 1116 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, § 505, title XII, § 1201(e)(6), Nov. 2, 1994, 108 Stat. 4664, 4685; Pub. L. 104–275, title V, § 505(b), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title IV, § 404(a)(1), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–103, title II, § 201(a)(1)(A), (b)–(c)(2)(A), (d)(1), Dec. 27, 2001, 115 Stat. 987, 988; Pub. L. 116–283, div. H, title XCI, § 9109, Jan. 1, 2021, 134 Stat. 4785; Pub. L. 117–168, title II, § 202(d)(1), title IV, §§ 403(b), (d), 404(b), (c), Aug. 10, 2022, 136 Stat. 1775, 1780–1782.)
+(Added Pub. L. 102–4, § 2(a)(1), Feb. 6, 1991, 105 Stat. 11, § 316; renumbered § 1116 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, § 505, title XII, § 1201(e)(6), Nov. 2, 1994, 108 Stat. 4664, 4685; Pub. L. 104–275, title V, § 505(b), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title IV, § 404(a)(1), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–103, title II, § 201(a)(1)(A), (b)–(c)(2)(A), (d)(1), Dec. 27, 2001, 115 Stat. 987, 988; Pub. L. 116–283, div. H, title XCI, § 9109, Jan. 1, 2021, 134 Stat. 4785; Pub. L. 117–168, title II, § 202(d)(1), title IV, §§ 403(b), (d), 404(b), (c), Aug. 10, 2022, 136 Stat. 1775, 1780–1782.)
 
 **Editorial Notes**
 
@@ -2941,67 +2941,67 @@ Section 3 of the Agent Orange Act of 1991, referred to in subsec. (b), is sectio
 
 **Amendments**
 
-2022—Pub. L. 117–168, § 403(d), substituted “certain locations” for “the Republic of Vietnam” in section catchline.
+2022—Pub. L. 117–168, § 403(d), substituted “certain locations” for “the Republic of Vietnam” in section catchline.
 
-Subsec. (a)(1). Pub. L. 117–168, § 403(b)(1), which directed substitution of “performed covered service” for “, during active military, naval, air, or space service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” wherever appearing in section, was executed by making the substitution for “, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” in subpars. (A) and (B) to reflect the probable intent of Congress.
+Subsec. (a)(1). Pub. L. 117–168, § 403(b)(1), which directed substitution of “performed covered service” for “, during active military, naval, air, or space service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” wherever appearing in section, was executed by making the substitution for “, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” in subpars. (A) and (B) to reflect the probable intent of Congress.
 
-Subsec. (a)(2)(C), (E). Pub. L. 117–168, § 403(b)(2), which directed substitution of “performed covered service” for “performed active military, naval, air, or space service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” wherever appearing in section, was executed by making the substitution for “performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” to reflect the probable intent of Congress.
+Subsec. (a)(2)(C), (E). Pub. L. 117–168, § 403(b)(2), which directed substitution of “performed covered service” for “performed active military, naval, air, or space service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” wherever appearing in section, was executed by making the substitution for “performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” to reflect the probable intent of Congress.
 
-Subsec. (a)(2)(L). Pub. L. 117–168, § 404(b), added subpar. (L).
+Subsec. (a)(2)(L). Pub. L. 117–168, § 404(b), added subpar. (L).
 
-Subsec. (a)(2)(M). Pub. L. 117–168, § 404(c), added subpar. (M).
+Subsec. (a)(2)(M). Pub. L. 117–168, § 404(c), added subpar. (M).
 
-Subsec. (b). Pub. L. 117–168, § 202(d)(1)(A), (B), added subsec. (b) and struck out former subsec. (b) which required the Secretary to prescribe regulations based on determination of a positive association between the occurrence of a disease in humans and exposure to an herbicide agent.
+Subsec. (b). Pub. L. 117–168, § 202(d)(1)(A), (B), added subsec. (b) and struck out former subsec. (b) which required the Secretary to prescribe regulations based on determination of a positive association between the occurrence of a disease in humans and exposure to an herbicide agent.
 
-Subsec. (c). Pub. L. 117–168, § 403(b)(1), which directed substitution of “performed covered service” for “, during active military, naval, air, or space service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” wherever appearing in section, was executed by making the substitution for “, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” to reflect the probable intent of Congress.
+Subsec. (c). Pub. L. 117–168, § 403(b)(1), which directed substitution of “performed covered service” for “, during active military, naval, air, or space service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” wherever appearing in section, was executed by making the substitution for “, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” to reflect the probable intent of Congress.
 
-Pub. L. 117–168, § 202(d)(1)(A), (C), redesignated subsec. (f) as (c) and struck out former subsec. (c) which related to determinations of presumption of service connection between diseases and exposure to herbicide agents and issuance of regulations based on such determinations.
+Pub. L. 117–168, § 202(d)(1)(A), (C), redesignated subsec. (f) as (c) and struck out former subsec. (c) which related to determinations of presumption of service connection between diseases and exposure to herbicide agents and issuance of regulations based on such determinations.
 
-Subsec. (d). Pub. L. 117–168, §§ 202(d)(1)(A), 403(b)(3), added subsec. (d) and struck out former subsec. (d) which provided for continuation of compensation if a disease was determined no longer to be presumed as service connected.
+Subsec. (d). Pub. L. 117–168, §§ 202(d)(1)(A), 403(b)(3), added subsec. (d) and struck out former subsec. (d) which provided for continuation of compensation if a disease was determined no longer to be presumed as service connected.
 
-Subsec. (e). Pub. L. 117–168, § 202(d)(1)(A), struck out subsec. (e). Text read as follows: “Subsections (b) through (d) shall cease to be effective on September 30, 2015.”
+Subsec. (e). Pub. L. 117–168, § 202(d)(1)(A), struck out subsec. (e). Text read as follows: “Subsections (b) through (d) shall cease to be effective on September 30, 2015.”
 
-Subsec. (f). Pub. L. 117–168, § 202(d)(1)(C), redesignated subsec. (f) as (c).
+Subsec. (f). Pub. L. 117–168, § 202(d)(1)(C), redesignated subsec. (f) as (c).
 
 2021—Subsec. (a)(2)(I) to (K). Pub. L. 116–283 added subpars. (I) to (K).
 
-2001—Pub. L. 107–103, § 201(c)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Presumptions of service connection for diseases associated with exposure to certain herbicide agents”.
+2001—Pub. L. 107–103, § 201(c)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Presumptions of service connection for diseases associated with exposure to certain herbicide agents”.
 
-Subsec. (a)(2)(F). Pub. L. 107–103, § 201(a)(1)(A), struck out “within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” before period at end.
+Subsec. (a)(2)(F). Pub. L. 107–103, § 201(a)(1)(A), struck out “within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” before period at end.
 
-Subsec. (a)(2)(H). Pub. L. 107–103, § 201(b), added subpar. (H).
+Subsec. (a)(2)(H). Pub. L. 107–103, § 201(b), added subpar. (H).
 
-Subsec. (a)(3), (4). Pub. L. 107–103, § 201(c)(1)(B), redesignated par. (4) as (3). Former par. (3) redesignated as subsec. (f).
+Subsec. (a)(3), (4). Pub. L. 107–103, § 201(c)(1)(B), redesignated par. (4) as (3). Former par. (3) redesignated as subsec. (f).
 
-Subsec. (e). Pub. L. 107–103, § 201(d)(1), substituted “on September 30, 2015” for “10 years after the first day of the fiscal year in which the National Academy of Sciences transmits to the Secretary the first report under section 3 of the Agent Orange Act of 1991”.
+Subsec. (e). Pub. L. 107–103, § 201(d)(1), substituted “on September 30, 2015” for “10 years after the first day of the fiscal year in which the National Academy of Sciences transmits to the Secretary the first report under section 3 of the Agent Orange Act of 1991”.
 
-Subsec. (f). Pub. L. 107–103, § 201(c)(1)(A), (C), redesignated subsec. (a)(3) as (f), substituted “For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran” for “For the purposes of this subsection, a veteran”, and struck out “and has a disease referred to in paragraph (1)(B) of this subsection” after “May 7, 1975,”.
+Subsec. (f). Pub. L. 107–103, § 201(c)(1)(A), (C), redesignated subsec. (a)(3) as (f), substituted “For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran” for “For the purposes of this subsection, a veteran”, and struck out “and has a disease referred to in paragraph (1)(B) of this subsection” after “May 7, 1975,”.
 
 2000—Subsec. (a)(2)(F). Pub. L. 106–419 inserted “of disability” after “to a degree”.
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–275, § 505(b)(2), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
+1996—Subsec. (a)(1)(A). Pub. L. 104–275, § 505(b)(2), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
 
-Subsec. (a)(1)(B). Pub. L. 104–275, § 505(b)(1), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975,” for “during the Vietnam era”.
+Subsec. (a)(1)(B). Pub. L. 104–275, § 505(b)(1), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975,” for “during the Vietnam era”.
 
-Subsec. (a)(2)(C), (E), (F). Pub. L. 104–275, § 505(b)(2), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
+Subsec. (a)(2)(C), (E), (F). Pub. L. 104–275, § 505(b)(2), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
 
-Subsec. (a)(3). Pub. L. 104–275, § 505(b)(1), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975,” for “during the Vietnam era”.
+Subsec. (a)(3). Pub. L. 104–275, § 505(b)(1), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975,” for “during the Vietnam era”.
 
-Subsec. (a)(4). Pub. L. 104–275, § 505(b)(2), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
+Subsec. (a)(4). Pub. L. 104–275, § 505(b)(2), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
 
-1994—Subsec. (a)(1)(B). Pub. L. 103–446, § 1201(e)(6), substituted “(i)” for “(1)” and “(ii)” for “(2)”.
+1994—Subsec. (a)(1)(B). Pub. L. 103–446, § 1201(e)(6), substituted “(i)” for “(1)” and “(ii)” for “(2)”.
 
-Subsec. (a)(2)(D) to (G). Pub. L. 103–446, § 505, added subpars. (D) to (G).
+Subsec. (a)(2)(D) to (G). Pub. L. 103–446, § 505, added subpars. (D) to (G).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 316 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 316 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “1110” for “310” and “1113” for “313” in introductory provisions.
+Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “1110” for “310” and “1113” for “313” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–168, title IV, § 403(e), Aug. 10, 2022, 136 Stat. 1781, provided that:
+Pub. L. 117–168, title IV, § 403(e), Aug. 10, 2022, 136 Stat. 1781, provided that:
 
 > “The amendments made by this section [amending this section and section 1710 of this title] shall take effect on the date of the enactment of this Act [Aug. 10, 2022] and shall apply as follows:
 
@@ -3019,7 +3019,7 @@ Pub. L. 117–168, title IV, § 403(e), Aug. 10, 2022, 136 Stat. 1781, provide
 
 > **“(2)** On October 1, 2022, for everyone not described in paragraph (1).”
 
-Pub. L. 117–168, title IV, § 404(d), Aug. 10, 2022, 136 Stat. 1782, provided that:
+Pub. L. 117–168, title IV, § 404(d), Aug. 10, 2022, 136 Stat. 1782, provided that:
 
 > **“(1) Monoclonal gammopathy of undetermined significance.—**
 
@@ -3063,7 +3063,7 @@ Pub. L. 117–168, title IV, § 404(d), Aug. 10, 2022, 136 Stat. 1782, provide
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–103, title II, § 201(a)(1)(B), Dec. 27, 2001, 115 Stat. 987, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect January 1, 2002.”
+Pub. L. 107–103, title II, § 201(a)(1)(B), Dec. 27, 2001, 115 Stat. 987, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect January 1, 2002.”
 
 **Effective Date of 1996 Amendment**
 
@@ -3071,7 +3071,7 @@ Amendment by Pub. L. 104–275 effective Jan. 1, 1997, with no benefit to be pai
 
 **Comptroller General Briefing and Report on Repealing Manifestation Period for Presumptions of Service Connection for Certain Diseases Associated With Exposure to Certain Herbicide Agents**
 
-Pub. L. 116–315, title II, § 2011, Jan. 5, 2021, 134 Stat. 4979, provided that:
+Pub. L. 116–315, title II, § 2011, Jan. 5, 2021, 134 Stat. 4979, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Jan. 5, 2021], the Comptroller General of the United States shall provide to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a briefing on preliminary observations of the Comptroller General, and not later than 240 days after the date of such briefing, provide such committees a briefing and submit to such committees a final report, on the efforts of the Secretary of Veterans Affairs to provide benefits, including compensation and health care, to veterans—
 
@@ -3289,7 +3289,7 @@ Pub. L. 114–315, title VI, subtitle C, Dec. 16, 2016, 130 Stat. 1579, provided
 
 **Report on Time Limit for Presumption of Cancer Caused by Herbicide Agent**
 
-Pub. L. 107–103, title II, § 201(a)(2)–(4), Dec. 27, 2001, 115 Stat. 987, provided that:
+Pub. L. 107–103, title II, § 201(a)(2)–(4), Dec. 27, 2001, 115 Stat. 987, provided that:
 
 > **“(2)** The Secretary of Veterans Affairs shall enter into a contract with the National Academy of Sciences, not later than six months after the date of the enactment of this Act [Dec. 27, 2001], for the performance of a study to include a review of all available scientific literature on the effects of exposure to an herbicide agent containing dioxin on the development of respiratory cancers in humans and whether it is possible to identify a period of time after exposure to herbicides after which a presumption of service-connection for such exposure would not be warranted. Under the contract, the National Academy of Sciences shall submit a report to the Secretary setting forth its conclusions. The report shall be submitted not later than 18 months after the contract is entered into.
 
@@ -3309,7 +3309,7 @@ Pub. L. 107–103, title II, § 201(a)(2)–(4), Dec. 27, 2001, 115 Stat. 987,
 
 **Agreement With National Academy of Sciences**
 
-Pub. L. 102–4, § 3, Feb. 6, 1991, 105 Stat. 13, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, § 503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, § 201(d)(2), Dec. 27, 2001, 115 Stat. 988; Pub. L. 113–175, title IV, § 407, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, § 408, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, § 411, Sept. 29, 2016, 130 Stat. 941; Pub. L. 115–62, title IV, § 410, Sept. 29, 2017, 131 Stat. 1165; Pub. L. 115–251, title I, § 127, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–159, div. E, title IV, § 5404, Oct. 1, 2020, 134 Stat. 751, provided that:
+Pub. L. 102–4, § 3, Feb. 6, 1991, 105 Stat. 13, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, § 503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, § 201(d)(2), Dec. 27, 2001, 115 Stat. 988; Pub. L. 113–175, title IV, § 407, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, § 408, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, § 411, Sept. 29, 2016, 130 Stat. 941; Pub. L. 115–62, title IV, § 410, Sept. 29, 2017, 131 Stat. 1165; Pub. L. 115–251, title I, § 127, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–159, div. E, title IV, § 5404, Oct. 1, 2020, 134 Stat. 751, provided that:
 
 > **“(a) Purpose.—** The purpose of this section is to provide for the National Academy of Sciences, an independent nonprofit scientific organization with appropriate expertise which is not part of the Federal Government, to review and evaluate the available scientific evidence regarding associations between diseases and exposure to dioxin and other chemical compounds in herbicides.
 
@@ -3375,7 +3375,7 @@ Pub. L. 102–4, § 3, Feb. 6, 1991, 105 Stat. 13, as amended by Pub. L. 102�
 
 **Results of Examinations and Treatment of Veterans for Disabilities Related to Exposure to Certain Herbicides or to Service in Vietnam**
 
-Pub. L. 102–4, § 6, Feb. 6, 1991, 105 Stat. 15, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
+Pub. L. 102–4, § 6, Feb. 6, 1991, 105 Stat. 15, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
 
 > **“(a) In General.—** Subject to subsections (d) and (e), the Secretary of Veterans Affairs shall compile and analyze, on a continuing basis, all clinical data that (1) is obtained by the Department of Veterans Affairs in connection with examinations and treatment furnished to veterans by the Department after November 3, 1981, by reason of eligibility provided in section 1710(e)(1)(A) of title 38, United States Code, and (2) is likely to be scientifically useful in determining the association, if any, between the disabilities of veterans referred to in such section and exposure to dioxin or any other toxic substance referred to in such section or between such disabilities and active military, naval, or air service in the Republic of Vietnam during the Vietnam era.
 
@@ -3409,7 +3409,7 @@ Pub. L. 102–4, § 6, Feb. 6, 1991, 105 Stat. 15, as amended by Pub. L. 102�
 
 **Tissue Archiving System**
 
-Pub. L. 102–4, § 7, Feb. 6, 1991, 105 Stat. 16, provided that:
+Pub. L. 102–4, § 7, Feb. 6, 1991, 105 Stat. 16, provided that:
 
 > **“(a) Establishment of System.—** Subject to subsections (e) and (f), for the purpose of facilitating future scientific research on the effects of exposure of veterans to dioxin and other toxic agents in herbicides used in support of United States and allied military operations in the Republic of Vietnam during the Vietnam era, the Secretary of Veterans Affairs shall establish and maintain a system for the collection and storage of voluntarily contributed samples of blood and tissue of veterans who performed active military, naval, or air service in the Republic of Vietnam during the Vietnam era.
 
@@ -3433,7 +3433,7 @@ Pub. L. 102–4, § 7, Feb. 6, 1991, 105 Stat. 16, provided that:
 
 **Scientific Research Feasibility Studies Program**
 
-Pub. L. 102–4, § 8, Feb. 6, 1991, 105 Stat. 17, provided that:
+Pub. L. 102–4, § 8, Feb. 6, 1991, 105 Stat. 17, provided that:
 
 > **“(a) Establishment of Program.—** Subject to subsections (e) and (f), the Secretary of Veterans Affairs shall establish a program to provide for the conduct of studies of the feasibility of conducting additional scientific research on—
 
@@ -3475,7 +3475,7 @@ Pub. L. 102–4, § 8, Feb. 6, 1991, 105 Stat. 17, provided that:
 
 **Blood Testing of Certain Vietnam-Era Veterans**
 
-Pub. L. 102–4, § 9, Feb. 6, 1991, 105 Stat. 18, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
+Pub. L. 102–4, § 9, Feb. 6, 1991, 105 Stat. 18, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
 
 > **“(a) Blood Testing.—** Subject to subsections (d) and (e), in the case of a veteran described in section 1710(e)(1)(A) of title 38, United States Code, who—
 
@@ -3503,7 +3503,7 @@ Pub. L. 102–4, § 9, Feb. 6, 1991, 105 Stat. 18, as amended by Pub. L. 102�
 
 **Study of Effect of Vietnam Experience on Health Status of Women Vietnam Veterans**
 
-Pub. L. 99–272, title XIX, § 19031, Apr. 7, 1986, 100 Stat. 385, provided that:
+Pub. L. 99–272, title XIX, § 19031, Apr. 7, 1986, 100 Stat. 385, provided that:
 
 > **“(a) Requirement for Epidemiological Study.—**
 
@@ -3605,9 +3605,9 @@ Pub. L. 99–272, title XIX, § 19031, Apr. 7, 1986, 100 Stat. 385, provided t
 
 **Agent Orange Study; Report to Congressional Committees**
 
-Pub. L. 96–151, title III, § 307, Dec. 20, 1979, 93 Stat. 1097, as amended by Pub. L. 97–72, title IV, § 401, Nov. 3, 1981, 95 Stat. 1061; Pub. L. 98–542, § 8(a), Oct. 24, 1984, 98 Stat. 2731, directed that a protocol be designed for an epidemiological study of the long-term health effects of Agent Orange on Armed Forces personnel who served in Vietnam, and that reports be submitted to Congress describing results with comments and recommendations.
+Pub. L. 96–151, title III, § 307, Dec. 20, 1979, 93 Stat. 1097, as amended by Pub. L. 97–72, title IV, § 401, Nov. 3, 1981, 95 Stat. 1061; Pub. L. 98–542, § 8(a), Oct. 24, 1984, 98 Stat. 2731, directed that a protocol be designed for an epidemiological study of the long-term health effects of Agent Orange on Armed Forces personnel who served in Vietnam, and that reports be submitted to Congress describing results with comments and recommendations.
 
-### § 1116A. Presumptions of service connection for veterans who served offshore of the Republic of Vietnam
+### § 1116A. Presumptions of service connection for veterans who served offshore of the Republic of Vietnam
 
 **(a) Service Connection.—** For the purposes of section 1110 of this title, and subject to section 1113 of this title, a disease covered by section 1116 of this title becoming manifest as specified in that section in a veteran who, during active military, naval, or air service, served offshore of the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of evidence of such disease during the period of such service.
 
@@ -3645,17 +3645,17 @@ Pub. L. 96–151, title III, § 307, Dec. 20, 1979, 93 Stat. 1097, as amended 
 
 **(e) Herbicide Agent.—** In this section, the term “herbicide agent” has the meaning given that term in section 1116(a)(3) of this title.
 
-(Added Pub. L. 116–23, § 2(a), June 25, 2019, 133 Stat. 966.)
+(Added Pub. L. 116–23, § 2(a), June 25, 2019, 133 Stat. 966.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 116–23, § 2(g), June 25, 2019, 133 Stat. 969, provided that: “The amendments made by this section [enacting this section and amending section 1710 of this title] shall take effect on January 1, 2020.”
+Pub. L. 116–23, § 2(g), June 25, 2019, 133 Stat. 969, provided that: “The amendments made by this section [enacting this section and amending section 1710 of this title] shall take effect on January 1, 2020.”
 
 **Implementation**
 
-Pub. L. 116–23, § 2(c), June 25, 2019, 133 Stat. 968, provided that:
+Pub. L. 116–23, § 2(c), June 25, 2019, 133 Stat. 968, provided that:
 
 > **“(1) Guidance.—** Notwithstanding section 501 of such title, the Secretary of Veterans Affairs may issue guidance to implement section 1116A of title 38, United States Code, as added by subsection (a), before prescribing new regulations under such section.
 
@@ -3681,7 +3681,7 @@ Pub. L. 116–23, § 2(c), June 25, 2019, 133 Stat. 968, provided that:
 
 **Outreach**
 
-Pub. L. 116–23, § 2(d), June 25, 2019, 133 Stat. 968, provided that:
+Pub. L. 116–23, § 2(d), June 25, 2019, 133 Stat. 968, provided that:
 
 > **“(1) Requirement.—** The Secretary of Veterans Affairs shall conduct outreach to inform veterans described in paragraph (2) of the ability to submit a claim for disability compensation under section 1116A of title 38, United States Code, as added by subsection (a). Such outreach shall include the following:
 
@@ -3691,7 +3691,7 @@ Pub. L. 116–23, § 2(d), June 25, 2019, 133 Stat. 968, provided that:
 
 > **“(2) Veteran described.—** A veteran described in this paragraph is a veteran who, during active military, naval, or air service, served offshore of the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.”
 
-### § 1116B. Presumption of herbicide exposure for certain veterans who served in Korea
+### § 1116B. Presumption of herbicide exposure for certain veterans who served in Korea
 
 **(a) Presumption of Service-Connection.—**
 
@@ -3711,7 +3711,7 @@ Pub. L. 116–23, § 2(d), June 25, 2019, 133 Stat. 968, provided that:
 
 **(c) Herbicide Agent.—** For purposes of this section, the term “herbicide agent” has the meaning given such term in section 1821(d) of this title.
 
-(Added Pub. L. 116–23, § 3(a), June 25, 2019, 133 Stat. 969; amended Pub. L. 117–168, title II, § 202(d)(2), Aug. 10, 2022, 136 Stat. 1775.)
+(Added Pub. L. 116–23, § 3(a), June 25, 2019, 133 Stat. 969; amended Pub. L. 117–168, title II, § 202(d)(2), Aug. 10, 2022, 136 Stat. 1775.)
 
 **Editorial Notes**
 
@@ -3723,11 +3723,11 @@ Pub. L. 116–23, § 2(d), June 25, 2019, 133 Stat. 968, provided that:
 
 **Effective Date**
 
-Pub. L. 116–23, § 3(d), June 25, 2019, 133 Stat. 970, provided that: “The amendments made by this section [enacting this section] shall take effect on January 1, 2020.”
+Pub. L. 116–23, § 3(d), June 25, 2019, 133 Stat. 970, provided that: “The amendments made by this section [enacting this section] shall take effect on January 1, 2020.”
 
 **Implementation**
 
-Pub. L. 116–23, § 3(c), June 25, 2019, 133 Stat. 970, provided that:
+Pub. L. 116–23, § 3(c), June 25, 2019, 133 Stat. 970, provided that:
 
 > **“(1) Guidance.—** Notwithstanding section 501 of such title, the Secretary of Veterans Affairs may issue guidance to implement section 1116B of title 38, United States Code, as added by subsection (a), before prescribing new regulations under such section.
 
@@ -3747,7 +3747,7 @@ Pub. L. 116–23, § 3(c), June 25, 2019, 133 Stat. 970, provided that:
 
 > **“(ii)** that is pending at the Veterans Benefits Administration or the Board of Veterans’ Appeals on or after the date of the enactment of this Act and before the date on which the Secretary commences the implementation of such section 1116B.”
 
-### § 1117. Compensation for disabilities occurring in Persian Gulf War veterans
+### § 1117. Compensation for disabilities occurring in Persian Gulf War veterans
 
 **(a)**
 
@@ -3763,9 +3763,9 @@ Pub. L. 116–23, § 3(c), June 25, 2019, 133 Stat. 970, provided that:
 
 **(b)**
 
-**(1)** Whenever the Secretary determines under section 1118(c) 1
+**(1)** Whenever the Secretary determines under section 1118(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title that a presumption of service connection previously established under this section is no longer warranted—
 
@@ -3839,49 +3839,49 @@ of this title that a presumption of service connection previously established un
 
 **(2)** Not less frequently than once each year, the Secretary shall submit to Congress a report on the actions taken by the Secretary to carry out paragraph (1).
 
-(Added Pub. L. 103–446, title I, § 106(a)(1), Nov. 2, 1994, 108 Stat. 4650; amended Pub. L. 105–277, div. C, title XVI, § 1602(c), Oct. 21, 1998, 112 Stat. 2681–744; Pub. L. 107–103, title II, §§ 202(a), (b)(1), (d)(1), 203(a), Dec. 27, 2001, 115 Stat. 988, 989; Pub. L. 109–233, title V, § 503(1), June 15, 2006, 120 Stat. 415; Pub. L. 117–168, title IV, § 405, Aug. 10, 2022, 136 Stat. 1783.)
+(Added Pub. L. 103–446, title I, § 106(a)(1), Nov. 2, 1994, 108 Stat. 4650; amended Pub. L. 105–277, div. C, title XVI, § 1602(c), Oct. 21, 1998, 112 Stat. 2681–744; Pub. L. 107–103, title II, §§ 202(a), (b)(1), (d)(1), 203(a), Dec. 27, 2001, 115 Stat. 988, 989; Pub. L. 109–233, title V, § 503(1), June 15, 2006, 120 Stat. 415; Pub. L. 117–168, title IV, § 405, Aug. 10, 2022, 136 Stat. 1783.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1118(c) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 117–168, title II, § 202(d)(3)(A), Aug. 10, 2022, 136 Stat. 1775.
+Section 1118(c) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 117–168, title II, § 202(d)(3)(A), Aug. 10, 2022, 136 Stat. 1775.
 
 **Amendments**
 
-2022—Subsec. (a)(1). Pub. L. 117–168, § 405(a), substituted “became manifest to any degree at any time.” for “became manifest—
+2022—Subsec. (a)(1). Pub. L. 117–168, § 405(a), substituted “became manifest to any degree at any time.” for “became manifest—
 
 “(A) during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
 
 “(B) to a degree of 10 percent or more during the presumptive period prescribed under subsection (b).”
 
-Subsec. (a)(2)(C). Pub. L. 117–168, § 405(b)(3), substituted “under subsection (c)” for “under subsection (d)”.
+Subsec. (a)(2)(C). Pub. L. 117–168, § 405(b)(3), substituted “under subsection (c)” for “under subsection (d)”.
 
-Subsecs. (b), (c). Pub. L. 117–168, § 405(b)(1), (2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “The Secretary shall prescribe by regulation the period of time following service in the Southwest Asia theater of operations during the Persian Gulf War that the Secretary determines is appropriate for presumption of service connection for purposes of this section. The Secretary’s determination of such period of time shall be made following a review of any available credible medical or scientific evidence and the historical treatment afforded disabilities for which manifestation periods have been established and shall take into account other pertinent circumstances regarding the experiences of veterans of the Persian Gulf War.”
+Subsecs. (b), (c). Pub. L. 117–168, § 405(b)(1), (2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “The Secretary shall prescribe by regulation the period of time following service in the Southwest Asia theater of operations during the Persian Gulf War that the Secretary determines is appropriate for presumption of service connection for purposes of this section. The Secretary’s determination of such period of time shall be made following a review of any available credible medical or scientific evidence and the historical treatment afforded disabilities for which manifestation periods have been established and shall take into account other pertinent circumstances regarding the experiences of veterans of the Persian Gulf War.”
 
-Subsec. (d). Pub. L. 117–168, § 405(b)(2), (c), added subsec. (d) and redesignated former subsec. (d) as (c).
+Subsec. (d). Pub. L. 117–168, § 405(b)(2), (c), added subsec. (d) and redesignated former subsec. (d) as (c).
 
-Subsec. (f). Pub. L. 117–168, § 405(d), inserted “, Afghanistan, Israel, Egypt, Turkey, Syria, or Jordan,” after “operations”.
+Subsec. (f). Pub. L. 117–168, § 405(d), inserted “, Afghanistan, Israel, Egypt, Turkey, Syria, or Jordan,” after “operations”.
 
-Subsec. (i). Pub. L. 117–168, § 405(e), added subsec. (i).
+Subsec. (i). Pub. L. 117–168, § 405(e), added subsec. (i).
 
 2006—Subsec. (h)(1). Pub. L. 109–233 substituted “notwithstanding” for “nothwithstanding”.
 
-2001—Subsec. (a). Pub. L. 107–103, § 202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from an undiagnosed illness (or combination of undiagnosed illnesses) that—
+2001—Subsec. (a). Pub. L. 107–103, § 202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from an undiagnosed illness (or combination of undiagnosed illnesses) that—
 
 “(1) became manifest during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
 
 “(2) became manifest to a degree of 10 percent or more within the presumptive period prescribed under subsection (b).”
 
-Subsec. (c)(1). Pub. L. 107–103, § 202(a)(2)(A), struck out “for an undiagnosed illness (or combination of undiagnosed illnesses)” after “service connection” in introductory provisions.
+Subsec. (c)(1). Pub. L. 107–103, § 202(a)(2)(A), struck out “for an undiagnosed illness (or combination of undiagnosed illnesses)” after “service connection” in introductory provisions.
 
-Subsec. (c)(1)(A). Pub. L. 107–103, § 202(a)(2)(B), struck out “for such illness (or combination of illnesses)” after “awarded compensation under this section”.
+Subsec. (c)(1)(A). Pub. L. 107–103, § 202(a)(2)(B), struck out “for such illness (or combination of illnesses)” after “awarded compensation under this section”.
 
-Subsec. (c)(2). Pub. L. 107–103, § 202(d)(1), substituted “on September 30, 2011” for “10 years after the first day of the fiscal year in which the National Academy of Sciences submits to the Secretary the first report under section 1603 of the Persian Gulf War Veterans Act of 1998”.
+Subsec. (c)(2). Pub. L. 107–103, § 202(d)(1), substituted “on September 30, 2011” for “10 years after the first day of the fiscal year in which the National Academy of Sciences submits to the Secretary the first report under section 1603 of the Persian Gulf War Veterans Act of 1998”.
 
-Subsec. (g). Pub. L. 107–103, § 202(b)(1), added subsec. (g).
+Subsec. (g). Pub. L. 107–103, § 202(b)(1), added subsec. (g).
 
-Subsec. (h). Pub. L. 107–103, § 203(a), added subsec. (h).
+Subsec. (h). Pub. L. 107–103, § 203(a), added subsec. (h).
 
 1998—Subsecs. (c) to (f). Pub. L. 105–277 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
@@ -3889,21 +3889,21 @@ Subsec. (h). Pub. L. 107–103, § 203(a), added subsec. (h).
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–103, title II, § 202(c), Dec. 27, 2001, 115 Stat. 989, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1118 of this title] shall take effect on March 1, 2002.”
+Pub. L. 107–103, title II, § 202(c), Dec. 27, 2001, 115 Stat. 989, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1118 of this title] shall take effect on March 1, 2002.”
 
-Pub. L. 107–103, title II, § 203(b), Dec. 27, 2001, 115 Stat. 990, provided that: “The authority provided by subsection (h) of section 1117 of title 38, United States Code, as added by subsection (a), may be used by the Secretary of Veterans Affairs with respect to any medical research project of the Department of Veterans Affairs, whether commenced before, on, or after the date of the enactment of this Act [Dec. 27, 2001].”
+Pub. L. 107–103, title II, § 203(b), Dec. 27, 2001, 115 Stat. 990, provided that: “The authority provided by subsection (h) of section 1117 of title 38, United States Code, as added by subsection (a), may be used by the Secretary of Veterans Affairs with respect to any medical research project of the Department of Veterans Affairs, whether commenced before, on, or after the date of the enactment of this Act [Dec. 27, 2001].”
 
 **Regulations**
 
-Pub. L. 103–446, title I, § 106(d), Nov. 2, 1994, 108 Stat. 4651, provided that: “If the Secretary states in the report under subsection (c) [set out below] that the Secretary intends to pay compensation as provided in section 1117 of title 38, United States Code, as added by subsection (a), the Secretary shall, not later than 30 days after the date on which such report is submitted, publish in the Federal Register proposed regulations under subsections (b) and (c) of that section.”
+Pub. L. 103–446, title I, § 106(d), Nov. 2, 1994, 108 Stat. 4651, provided that: “If the Secretary states in the report under subsection (c) [set out below] that the Secretary intends to pay compensation as provided in section 1117 of title 38, United States Code, as added by subsection (a), the Secretary shall, not later than 30 days after the date on which such report is submitted, publish in the Federal Register proposed regulations under subsections (b) and (c) of that section.”
 
 **Agreement With National Academy of Sciences Regarding Evaluation of Health Consequences of Service in Southwest Asia During the Persian Gulf War**
 
-Pub. L. 105–368, title I, § 101, Nov. 11, 1998, 112 Stat. 3317, as amended by Pub. L. 111–275, title VIII, § 806(b)(1), (2), Oct. 13, 2010, 124 Stat. 2891, provided that the Secretary of Veterans Affairs was to enter into an agreement with the National Academy of Sciences to review and evaluate the available scientific evidence regarding associations between illness and service in the Southwest Asia theater of operations during the Persian Gulf War, and that the section would cease to be effective on Oct. 1, 2018.
+Pub. L. 105–368, title I, § 101, Nov. 11, 1998, 112 Stat. 3317, as amended by Pub. L. 111–275, title VIII, § 806(b)(1), (2), Oct. 13, 2010, 124 Stat. 2891, provided that the Secretary of Veterans Affairs was to enter into an agreement with the National Academy of Sciences to review and evaluate the available scientific evidence regarding associations between illness and service in the Southwest Asia theater of operations during the Persian Gulf War, and that the section would cease to be effective on Oct. 1, 2018.
 
 **Improving Effectiveness of Care of Persian Gulf War Veterans**
 
-Pub. L. 105–368, title I, § 105, Nov. 11, 1998, 112 Stat. 3324, provided that:
+Pub. L. 105–368, title I, § 105, Nov. 11, 1998, 112 Stat. 3324, provided that:
 
 > **“(a) Assessment by National Academy of Sciences.—** Not later than April 1, 1999, the Secretary of Veterans Affairs shall enter into a contract with the National Academy of Sciences to review the available scientific data in order to—
 
@@ -3921,7 +3921,7 @@ Pub. L. 105–368, title I, § 105, Nov. 11, 1998, 112 Stat. 3324, provided th
 
 **Agreement With National Academy of Sciences Regarding Toxic Drugs and Illnesses Associated With Gulf War**
 
-Pub. L. 105–277, div. C, title XVI, §§ 1603–1605, Oct. 21, 1998, 112 Stat. 2681–745 to 2681–748, as amended by Pub. L. 107–103, title II, § 202(d)(2), Dec. 27, 2001, 115 Stat. 989; Pub. L. 111–275, title VIII, § 806(a), (b)(3), Oct. 13, 2010, 124 Stat. 2890, 2893, provided that:
+Pub. L. 105–277, div. C, title XVI, §§ 1603–1605, Oct. 21, 1998, 112 Stat. 2681–745 to 2681–748, as amended by Pub. L. 107–103, title II, § 202(d)(2), Dec. 27, 2001, 115 Stat. 989; Pub. L. 111–275, title VIII, § 806(a), (b)(3), Oct. 13, 2010, 124 Stat. 2890, 2893, provided that:
 
 > **“SEC. 1603. AGREEMENT WITH NATIONAL ACADEMY OF SCIENCES.**
 
@@ -4105,7 +4105,7 @@ Pub. L. 105–277, div. C, title XVI, §§ 1603–1605, Oct. 21, 1998, 112 Sta
 
 > **“[SEC. 1604.**
 
-> Repealed. Pub. L. 111–275, title VIII, § 806(b)(3), Oct. 13, 2010, 124 Stat. 2893.]
+> Repealed. Pub. L. 111–275, title VIII, § 806(b)(3), Oct. 13, 2010, 124 Stat. 2893.]
 
 > **“SEC. 1605. DEFINITIONS.**
 
@@ -4123,7 +4123,7 @@ Pub. L. 105–277, div. C, title XVI, §§ 1603–1605, Oct. 21, 1998, 112 Sta
 
 **Persian Gulf War Veterans’ Benefits**
 
-Pub. L. 103–446, title I, §§ 102–105, 107, 109, 110, Nov. 2, 1994, 108 Stat. 4647–4650, 4652–4654, as amended by Pub. L. 104–262, title III, § 352(a), Oct. 9, 1996, 110 Stat. 3210; Pub. L. 105–368, title I, § 107, Nov. 11, 1998, 112 Stat. 3325; Pub. L. 106–117, title II, § 205(b), (c), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 115–182, title I, § 144(a)(3), June 6, 2018, 132 Stat. 1430, provided that:
+Pub. L. 103–446, title I, §§ 102–105, 107, 109, 110, Nov. 2, 1994, 108 Stat. 4647–4650, 4652–4654, as amended by Pub. L. 104–262, title III, § 352(a), Oct. 9, 1996, 110 Stat. 3210; Pub. L. 105–368, title I, § 107, Nov. 11, 1998, 112 Stat. 3325; Pub. L. 106–117, title II, § 205(b), (c), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 115–182, title I, § 144(a)(3), June 6, 2018, 132 Stat. 1430, provided that:
 
 > **“SEC. 102. FINDINGS.**
 
@@ -4253,7 +4253,7 @@ Pub. L. 103–446, title I, §§ 102–105, 107, 109, 110, Nov. 2, 1994, 108 S
 
 > **“(d) Authorization.—** There are authorized to be appropriated to the Department such sums as are necessary for the conduct of studies described in subsection (a).”
 
-[Pub. L. 104–262, title III, § 352(b), Oct. 9, 1996, 110 Stat. 3211, provided that: “Any diagnostic testing and medical examinations undertaken by the Secretary of Veterans Affairs for the purpose of the study required by subsection (a) of such section [section 107(a) of Pub. L. 103–446, set out above] during the period beginning on October 1, 1996, and ending on the date of the enactment of this Act [Oct. 9, 1996] is hereby ratified.” ]
+[Pub. L. 104–262, title III, § 352(b), Oct. 9, 1996, 110 Stat. 3211, provided that: “Any diagnostic testing and medical examinations undertaken by the Secretary of Veterans Affairs for the purpose of the study required by subsection (a) of such section [section 107(a) of Pub. L. 103–446, set out above] during the period beginning on October 1, 1996, and ending on the date of the enactment of this Act [Oct. 9, 1996] is hereby ratified.” ]
 
 **Report to Congress on Intention To Pay Compensation**
 
@@ -4263,7 +4263,7 @@ Section 106(c) of Pub. L. 103–446 directed Secretary of Veterans Affairs, not 
 
 **Executive Order No. 12961**
 
-Ex. Ord. No. 12961, May 26, 1995, 60 F.R. 28507, which established the Presidential Advisory Committee on Gulf War Veterans’ Illnesses, was revoked by Ex. Ord. No. 13138, § 3(g), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Ex. Ord. No. 12961, May 26, 1995, 60 F.R. 28507, which established the Presidential Advisory Committee on Gulf War Veterans’ Illnesses, was revoked by Ex. Ord. No. 13138, § 3(g), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 **Ex. Ord. No. 13034. Extension of Presidential Advisory Committee on Gulf War Veterans’ Illnesses**
 
@@ -4293,7 +4293,7 @@ Sec. 3. *General Provisions*. (a) The Committee shall terminate 30 days after su
 
 William J. Clinton.
 
-### § 1118. Presumptions of service connection for illnesses associated with service in the Persian Gulf during the Persian Gulf War
+### § 1118. Presumptions of service connection for illnesses associated with service in the Persian Gulf during the Persian Gulf War
 
 **(a)**
 
@@ -4311,7 +4311,7 @@ William J. Clinton.
 
 **(b)** The Secretary shall ensure that any determination made on or after the date of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 regarding a presumption of service connection based on a toxic exposure under this section is made pursuant to subchapter VII of this chapter.
 
-(Added Pub. L. 105–277, div. C, title XVI, § 1602(a)(1), Oct. 21, 1998, 112 Stat. 2681–742; amended Pub. L. 107–103, title II, § 202(b)(2), (d)(1), Dec. 27, 2001, 115 Stat. 989; Pub. L. 117–168, title II, § 202(d)(3), Aug. 10, 2022, 136 Stat. 1775.)
+(Added Pub. L. 105–277, div. C, title XVI, § 1602(a)(1), Oct. 21, 1998, 112 Stat. 2681–742; amended Pub. L. 107–103, title II, § 202(b)(2), (d)(1), Dec. 27, 2001, 115 Stat. 989; Pub. L. 117–168, title II, § 202(d)(3), Aug. 10, 2022, 136 Stat. 1775.)
 
 **Editorial Notes**
 
@@ -4323,9 +4323,9 @@ The date of the enactment of the Sergeant First Class Heath Robinson Honoring ou
 
 2022—Subsecs. (b) to (e). Pub. L. 117–168 added subsec. (b) and struck out former subsecs. (b) to (e) which related to determinations of presumptions of service connection between illnesses and exposure to toxic agents during the Persian Gulf War.
 
-2001—Subsec. (a)(4). Pub. L. 107–103, § 202(b)(2), added par. (4).
+2001—Subsec. (a)(4). Pub. L. 107–103, § 202(b)(2), added par. (4).
 
-Subsec. (e). Pub. L. 107–103, § 202(d)(1), substituted “on September 30, 2011” for “10 years after the first day of the fiscal year in which the National Academy of Sciences submits to the Secretary the first report under section 1603 of the Persian Gulf War Veterans Act of 1998”.
+Subsec. (e). Pub. L. 107–103, § 202(d)(1), substituted “on September 30, 2011” for “10 years after the first day of the fiscal year in which the National Academy of Sciences submits to the Secretary the first report under section 1603 of the Persian Gulf War Veterans Act of 1998”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4333,7 +4333,7 @@ Subsec. (e). Pub. L. 107–103, § 202(d)(1), substituted “on September 30, 
 
 Amendment by section 202(b)(2) of Pub. L. 107–103 effective Mar. 1, 2002, see section 202(c) of Pub. L. 107–103, set out as a note under section 1117 of this title.
 
-### § 1119. Presumptions of toxic exposure
+### § 1119. Presumptions of toxic exposure
 
 **(a) Consideration of Records.—** If a veteran submits to the Secretary a claim for compensation for a service-connected disability under section 1110 of this title with evidence of a disability and a toxic exposure that occurred during active military, naval, air, or space service, the Secretary may, in adjudicating such claim, consider—
 
@@ -4403,7 +4403,7 @@ Amendment by section 202(b)(2) of Pub. L. 107–103 effective Mar. 1, 2002, see 
 
 **(3)** The term “toxic exposure risk activity” has the meaning given such term in section 1710(e)(4) of this title.
 
-(Added Pub. L. 117–168, title III, § 302, Aug. 10, 2022, 136 Stat. 1777.)
+(Added Pub. L. 117–168, title III, § 302, Aug. 10, 2022, 136 Stat. 1777.)
 
 **Editorial Notes**
 
@@ -4411,7 +4411,7 @@ Amendment by section 202(b)(2) of Pub. L. 107–103 effective Mar. 1, 2002, see 
 
 The date of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022, referred to in subsec. (b)(3), is the date of enactment of Pub. L. 117–168, which was approved Aug. 10, 2022.
 
-### § 1120. Presumption of service connection for certain diseases associated with exposure to burn pits and other toxins
+### § 1120. Presumption of service connection for certain diseases associated with exposure to burn pits and other toxins
 
 **(a) Presumption of Service Connection.—** For the purposes of section 1110 of this title, and subject to section 1113 of this title, a disease specified in subsection (b) becoming manifest in a covered veteran shall be considered to have been incurred in or aggravated during active military, naval, air, or space service, notwithstanding that there is no record of evidence of such disease during the period of such service.
 
@@ -4469,7 +4469,7 @@ The date of the enactment of the Sergeant First Class Heath Robinson Honoring ou
 
 **(c) Covered Veteran Defined.—** In this section, the term “covered veteran” has the meaning given that term in section 1119(c) of this title.
 
-(Added Pub. L. 117–168, title IV, § 406(b), Aug. 10, 2022, 136 Stat. 1784; amended Pub. L. 117–263, div. E, title LI, § 5124(a), Dec. 23, 2022, 136 Stat. 3211.)
+(Added Pub. L. 117–168, title IV, § 406(b), Aug. 10, 2022, 136 Stat. 1784; amended Pub. L. 117–263, div. E, title LI, § 5124(a), Dec. 23, 2022, 136 Stat. 3211.)
 
 **Editorial Notes**
 
@@ -4481,11 +4481,11 @@ The date of the enactment of the Sergeant First Class Heath Robinson Honoring ou
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. E, title LI, § 5124(d), Dec. 23, 2022, 136 Stat. 3211, provided that: “The amendments made by this section [amending this section and sections 8103 and 8104 of this title] shall take effect as if included in the enactment of the Honoring our PACT Act of 2022 (Public Law 117–168).”
+Pub. L. 117–263, div. E, title LI, § 5124(d), Dec. 23, 2022, 136 Stat. 3211, provided that: “The amendments made by this section [amending this section and sections 8103 and 8104 of this title] shall take effect as if included in the enactment of the Honoring our PACT Act of 2022 (Public Law 117–168).”
 
 **Effective Date**
 
-Pub. L. 117–168, title IV, § 406(d), Aug. 10, 2022, 136 Stat. 1784, provided that:
+Pub. L. 117–168, title IV, § 406(d), Aug. 10, 2022, 136 Stat. 1784, provided that:
 
 > “The amendments made by this section [enacting this section and amending section 1113 of this title] shall take effect on the date of the enactment of this Act [Aug. 10, 2022] and shall apply as follows:
 
@@ -4511,19 +4511,19 @@ Pub. L. 117–168, title IV, § 406(d), Aug. 10, 2022, 136 Stat. 1784, provide
 
 ## SUBCHAPTER III—WARTIME DEATH COMPENSATION
 
-### § 1121. Basic entitlement
+### § 1121. Basic entitlement
 
 The surviving spouse, child or children, and dependent parent or parents of any veteran who died before January 1, 1957 as the result of injury or disease incurred in or aggravated by active military, naval, or air service, in line of duty, during a period of war, shall be entitled to receive compensation at the monthly rates specified in section 1122 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1122, § 321; Pub. L. 92–197, § 6, Dec. 15, 1971, 85 Stat. 662; Pub. L. 94–433, title IV, § 404(12), Sept. 30, 1976, 90 Stat. 1378; renumbered § 1121 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1122, § 321; Pub. L. 92–197, § 6, Dec. 15, 1971, 85 Stat. 662; Pub. L. 94–433, title IV, § 404(12), Sept. 30, 1976, 90 Stat. 1378; renumbered § 1121 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 321 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 321 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1122” for “322”.
+Pub. L. 102–83, § 5(c)(1), substituted “1122” for “322”.
 
 1976—Pub. L. 94–433 substituted “spouse” for “widow”.
 
@@ -4539,7 +4539,7 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 Amendment by Pub. L. 92–197 effective Jan. 1, 1972, see section 10 of Pub. L. 92–197, set out as a note under section 1311 of this title.
 
-### § 1122. Rates of wartime death compensation
+### § 1122. Rates of wartime death compensation
 
 **(a)** The monthly rates of death compensation shall be as follows:
 
@@ -4559,7 +4559,7 @@ Amendment by Pub. L. 92–197 effective Jan. 1, 1972, see section 10 of Pub. L. 
 
 **(b)** The monthly rate of death compensation payable to a surviving spouse or dependent parent under subsection (a) of this section shall be increased by $79 if the payee is (1) a patient in a nursing home or (2) blind, or so nearly blind or significantly disabled as to need or require the regular aid and attendance of another person.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1122, § 322; Pub. L. 91–96, § 7, Oct. 27, 1969, 83 Stat. 146; Pub. L. 91–588, § 3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 92–197, § 9, Dec. 15, 1971, 85 Stat. 662; Pub. L. 93–295, title II, § 204, May 31, 1974, 88 Stat. 183; Pub. L. 94–169, title II, § 202, Dec. 23, 1975, 89 Stat. 1021; Pub. L. 94–432, title IV, § 401, Sept. 30, 1976, 90 Stat. 1372; Pub. L. 94–433, title IV, § 404(13)–(17), Sept. 30, 1976, 90 Stat. 1378, 1379; Pub. L. 95–204, title III, § 301, Dec. 2, 1977, 91 Stat. 1459; renumbered § 1122, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 109–233, title V, § 502(3), June 15, 2006, 120 Stat. 415.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1122, § 322; Pub. L. 91–96, § 7, Oct. 27, 1969, 83 Stat. 146; Pub. L. 91–588, § 3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 92–197, § 9, Dec. 15, 1971, 85 Stat. 662; Pub. L. 93–295, title II, § 204, May 31, 1974, 88 Stat. 183; Pub. L. 94–169, title II, § 202, Dec. 23, 1975, 89 Stat. 1021; Pub. L. 94–432, title IV, § 401, Sept. 30, 1976, 90 Stat. 1372; Pub. L. 94–433, title IV, § 404(13)–(17), Sept. 30, 1976, 90 Stat. 1378, 1379; Pub. L. 95–204, title III, § 301, Dec. 2, 1977, 91 Stat. 1459; renumbered § 1122, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 109–233, title V, § 502(3), June 15, 2006, 120 Stat. 415.)
 
 **Editorial Notes**
 
@@ -4571,9 +4571,9 @@ Amendment by Pub. L. 92–197 effective Jan. 1, 1972, see section 10 of Pub. L. 
 
 1977—Subsec. (b). Pub. L. 95–204 substituted “$79” for “$74”.
 
-1976—Subsec. (a). Pub. L. 94–433, § 404(13)–(16), substituted “Surviving spouse” for “Widow” in pars. (1) and (2); “surviving spouse” for “widow” in pars. (3), (4), and (5); “parent” for “mother or father” in par. (6); and “Both dependent parents” for “Dependent mother and father” in par. (7).
+1976—Subsec. (a). Pub. L. 94–433, § 404(13)–(16), substituted “Surviving spouse” for “Widow” in pars. (1) and (2); “surviving spouse” for “widow” in pars. (3), (4), and (5); “parent” for “mother or father” in par. (6); and “Both dependent parents” for “Dependent mother and father” in par. (7).
 
-Subsec. (b). Pub. L. 94–433, § 404(17), substituted “surviving spouse” for “widow”.
+Subsec. (b). Pub. L. 94–433, § 404(17), substituted “surviving spouse” for “widow”.
 
 Pub. L. 94–432 substituted “$74” for “$69”.
 
@@ -4591,7 +4591,7 @@ Pub. L. 94–432 substituted “$74” for “$69”.
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–204, title III, § 302, Dec. 2, 1977, 91 Stat. 1459, provided that: “The provisions of this Act [see Tables for classification] shall take effect January 1, 1978.”
+Pub. L. 95–204, title III, § 302, Dec. 2, 1977, 91 Stat. 1459, provided that: “The provisions of this Act [see Tables for classification] shall take effect January 1, 1978.”
 
 **Effective Date of 1976 Amendments**
 
@@ -4601,7 +4601,7 @@ Amendment by Pub. L. 94–432 effective Jan. 1, 1977, see section 405(b) of Pub.
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–169, title II, § 202, Dec. 23, 1975, 89 Stat. 1021, as amended by section 101 of Pub. L. 94–432, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title II, § 202, Dec. 23, 1975, 89 Stat. 1021, as amended by section 101 of Pub. L. 94–432, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 **Effective Date of 1974 Amendment**
 
@@ -4621,11 +4621,11 @@ Amendment by Pub. L. 91–96 effective first day of second calendar month which 
 
 ## SUBCHAPTER IV—PEACETIME DISABILITY COMPENSATION
 
-### § 1131. Basic entitlement
+### § 1131. Basic entitlement
 
 For disability resulting from personal injury suffered or disease contracted in line of duty, or for aggravation of a preexisting injury suffered or disease contracted in line of duty, in the active military, naval, air, or space service, during other than a period of war, the United States will pay to any veteran thus disabled and who was discharged or released under conditions other than dishonorable from the period of service in which said injury or disease was incurred, or preexisting injury or disease was aggravated, compensation as provided in this subchapter, but no compensation shall be paid if the disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1122, § 331; Pub. L. 101–508, title VIII, § 8052(a)(3), Nov. 5, 1990, 104 Stat. 1388–351; renumbered § 1131, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, § 8202(b), June 9, 1998, 112 Stat. 492; Pub. L. 105–206, title IX, § 9014(a), July 22, 1998, 112 Stat. 865; Pub. L. 116–283, div. A, title IX, § 926(a)(10), Jan. 1, 2021, 134 Stat. 3830.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1122, § 331; Pub. L. 101–508, title VIII, § 8052(a)(3), Nov. 5, 1990, 104 Stat. 1388–351; renumbered § 1131, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, § 8202(b), June 9, 1998, 112 Stat. 492; Pub. L. 105–206, title IX, § 9014(a), July 22, 1998, 112 Stat. 865; Pub. L. 116–283, div. A, title IX, § 926(a)(10), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -4633,7 +4633,7 @@ For disability resulting from personal injury suffered or disease contracted in 
 
 2021—Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-1998—Pub. L. 105–178, which directed the substitution of “, abuse of alcohol or drugs, or use of tobacco products” for “or abuse of alcohol or drugs” before the period at end, was amended generally by Pub. L. 105–206, which provided that the amendments made by that section as originally enacted shall be treated for all purposes as not having been made. See Effective Date of 1998 Amendment note below.
+1998—Pub. L. 105–178, which directed the substitution of “, abuse of alcohol or drugs, or use of tobacco products” for “or abuse of alcohol or drugs” before the period at end, was amended generally by Pub. L. 105–206, which provided that the amendments made by that section as originally enacted shall be treated for all purposes as not having been made. See Effective Date of 1998 Amendment note below.
 
 1991—Pub. L. 102–83 renumbered section 331 of this title as this section.
 
@@ -4651,13 +4651,13 @@ Amendment by Pub. L. 101–508 effective with respect to claims filed after Oct.
 
 **Construction of 1998 Amendment**
 
-Pub. L. 105–206, title IX, § 9014(a), July 22, 1998, 112 Stat. 865, provided that section 8202 of Pub. L. 105–178 is amended generally and that the amendments made by that section as originally enacted shall be treated for all purposes as not having been made.
+Pub. L. 105–206, title IX, § 9014(a), July 22, 1998, 112 Stat. 865, provided that section 8202 of Pub. L. 105–178 is amended generally and that the amendments made by that section as originally enacted shall be treated for all purposes as not having been made.
 
-### § 1132. Presumption of sound condition
+### § 1132. Presumption of sound condition
 
 For the purposes of section 1131 of this title, every person employed in the active military, naval, air, or space service for six months or more shall be taken to have been in sound condition when examined, accepted and enrolled for service, except as to defects, infirmities, or disorders noted at the time of the examination, acceptance and enrollment, or where evidence or medical judgment is such as to warrant a finding that the disease or injury existed before acceptance and enrollment.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1122, § 332; renumbered § 1132 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 116–283, div. A, title IX, § 926(a)(11), Jan. 1, 2021, 134 Stat. 3830.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1122, § 332; renumbered § 1132 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 116–283, div. A, title IX, § 926(a)(11), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -4665,11 +4665,11 @@ For the purposes of section 1131 of this title, every person employed in the act
 
 2021—Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 332 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 332 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1131” for “331”.
+Pub. L. 102–83, § 5(c)(1), substituted “1131” for “331”.
 
-### § 1133. Presumptions relating to certain diseases
+### § 1133. Presumptions relating to certain diseases
 
 **(a)** For the purposes of section 1131 of this title, and subject to the provisions of subsections (b) and (c) of this section, any veteran who served for six months or more and contracts a tropical disease or a resultant disorder or disease originating because of therapy administered in connection with a tropical disease, or as a preventative thereof, shall be deemed to have incurred such disability in the active military, naval, air, or space service when it is shown to exist within one year after separation from active service, or at a time when standard and accepted treatises indicate that the incubation period thereof commenced during active service.
 
@@ -4677,7 +4677,7 @@ Pub. L. 102–83, § 5(c)(1), substituted “1131” for “331”.
 
 **(c)** Nothing in this section shall be construed to prevent the granting of service-connection for any disease or disorder otherwise shown by sound judgment to have been incurred in or aggravated by active military, naval, air, or space service.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1123, § 333; renumbered § 1133 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 116–283, div. A, title IX, § 926(a)(12), Jan. 1, 2021, 134 Stat. 3830.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1123, § 333; renumbered § 1133 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 116–283, div. A, title IX, § 926(a)(12), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -4685,23 +4685,23 @@ Pub. L. 102–83, § 5(c)(1), substituted “1131” for “331”.
 
 2021—Pub. L. 116–283 substituted “air, or space service” for “or air service” wherever appearing.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 333 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 333 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1131” for “331”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1131” for “331”.
 
-### § 1134. Rates of peacetime disability compensation
+### § 1134. Rates of peacetime disability compensation
 
 For the purposes of section 1131 of this title, the compensation payable for the disability shall be that specified in section 1114 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1123, § 334; Pub. L. 92–328, title I, § 108(a), June 30, 1972, 86 Stat. 396; renumbered § 1134 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1123, § 334; Pub. L. 92–328, title I, § 108(a), June 30, 1972, 86 Stat. 396; renumbered § 1134 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 334 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 334 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1131” for “331” and “1114” for “314”.
+Pub. L. 102–83, § 5(c)(1), substituted “1131” for “331” and “1114” for “314”.
 
 1972—Pub. L. 92–328 substituted provisions that compensation payable for the disability be that specified in section 314 of this title, for provisions that compensation payable for the disability be equal to 80% of the compensation payable for such disability under section 314 of this title, adjusted upward or downward to the nearest dollar.
 
@@ -4709,21 +4709,21 @@ Pub. L. 102–83, § 5(c)(1), substituted “1131” for “331” and “1114
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–328, title III, § 301(b), June 30, 1972, 86 Stat. 398, provided that: “Section 108 [repealing section 336 of this title and amending this section and section 335 [now 1135] of this title] shall take effect on July 1, 1973.”
+Pub. L. 92–328, title III, § 301(b), June 30, 1972, 86 Stat. 398, provided that: “Section 108 [repealing section 336 of this title and amending this section and section 335 [now 1135] of this title] shall take effect on July 1, 1973.”
 
-### § 1135. Additional compensation for dependents
+### § 1135. Additional compensation for dependents
 
 Any veteran entitled to compensation at the rates provided in section 1134 of this title, and whose disability is rated not less than 30 percent, shall be entitled to additional monthly compensation for dependents as provided in section 1115 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1123, § 335; Pub. L. 92–328, title I, § 108(b), June 30, 1972, 86 Stat. 396; Pub. L. 98–543, title I, § 112(a), Oct. 24, 1984, 98 Stat. 2740; renumbered § 1135 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1123, § 335; Pub. L. 92–328, title I, § 108(b), June 30, 1972, 86 Stat. 396; Pub. L. 98–543, title I, § 112(a), Oct. 24, 1984, 98 Stat. 2740; renumbered § 1135 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 335 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 335 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1134” for “334” and “1115” for “315”.
+Pub. L. 102–83, § 5(c)(1), substituted “1134” for “334” and “1115” for “315”.
 
 1984—Pub. L. 98–543 substituted “30 percent” for “50 per centum”.
 
@@ -4733,25 +4733,25 @@ Pub. L. 102–83, § 5(c)(1), substituted “1134” for “334” and “1115
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–543, title I, § 112(b), Oct. 24, 1984, 98 Stat. 2740, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of October 1, 1978.”
+Pub. L. 98–543, title I, § 112(b), Oct. 24, 1984, 98 Stat. 2740, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of October 1, 1978.”
 
 **Effective Date of 1972 Amendment**
 
 Amendment by Pub. L. 92–328 effective July 1, 1973, see section 301(b) of Pub. L. 92–328, set out as a note under section 1134 of this title.
 
-### [§ 1136. Vacant]
+### [§ 1136. Vacant]
 
 **Editorial Notes**
 
 **Codification**
 
-Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 1163 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, section 336 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1123, which set forth the conditions under which wartime rates were payable to any veteran otherwise entitled to compensation under the provisions of this subchapter, was repealed by Pub. L. 92–328, title I, § 108(c), title III, § 301(b), June 30, 1972, 86 Stat. 396, 398, effective July 1, 1973.
+Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 1163 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, section 336 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1123, which set forth the conditions under which wartime rates were payable to any veteran otherwise entitled to compensation under the provisions of this subchapter, was repealed by Pub. L. 92–328, title I, § 108(c), title III, § 301(b), June 30, 1972, 86 Stat. 396, 398, effective July 1, 1973.
 
-### § 1137. Wartime presumptions for certain veterans
+### § 1137. Wartime presumptions for certain veterans
 
 For the purposes of this subchapter and subchapter V of this chapter and notwithstanding the provisions of sections 1132 and 1133 of this subchapter, the provisions of sections 1111, 1112, and 1113 of this chapter shall be applicable in the case of any veteran who served in the active military, naval, air, or space service after December 31, 1946.
 
-(Added Pub. L. 89–358, § 7(a), Mar. 3, 1966, 80 Stat. 27, § 337; amended Pub. L. 93–295, title II, § 205, May 31, 1974, 88 Stat. 183; renumbered § 1137 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 116–283, div. A, title IX, § 926(a)(13), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 89–358, § 7(a), Mar. 3, 1966, 80 Stat. 27, § 337; amended Pub. L. 93–295, title II, § 205, May 31, 1974, 88 Stat. 183; renumbered § 1137 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 116–283, div. A, title IX, § 926(a)(13), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -4759,9 +4759,9 @@ For the purposes of this subchapter and subchapter V of this chapter and notwith
 
 2021—Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 337 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 337 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1132 and 1133” for “332 and 333” and “1111, 1112, and 1113” for “311, 312, and 313”.
+Pub. L. 102–83, § 5(c)(1), substituted “1132 and 1133” for “332 and 333” and “1111, 1112, and 1113” for “311, 312, and 313”.
 
 1974—Pub. L. 93–295 substituted “December 31, 1946” for “January 31, 1955”.
 
@@ -4773,11 +4773,11 @@ Amendment by Pub. L. 93–295 effective May 1, 1974, see section 401 of Pub. L. 
 
 ## SUBCHAPTER V—PEACETIME DEATH COMPENSATION
 
-### § 1141. Basic entitlement
+### § 1141. Basic entitlement
 
 The surviving spouse, child or children, and dependent parent or parents of any veteran who died before January 1, 1957, as the result of injury or disease incurred in or aggravated by active military, naval, air, or space service, in line of duty, during other than a period of war, shall be entitled to receive compensation as hereinafter provided in this subchapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1123, § 341; Pub. L. 92–197, § 6, Dec. 15, 1971, 85 Stat. 662; Pub. L. 94–433, title IV, § 404(18), Sept. 30, 1976, 90 Stat. 1379; renumbered § 1141, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 116–283, div. A, title IX, § 926(a)(14), Jan. 1, 2021, 134 Stat. 3830.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1123, § 341; Pub. L. 92–197, § 6, Dec. 15, 1971, 85 Stat. 662; Pub. L. 94–433, title IV, § 404(18), Sept. 30, 1976, 90 Stat. 1379; renumbered § 1141, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 116–283, div. A, title IX, § 926(a)(14), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -4801,19 +4801,19 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 Amendment by Pub. L. 92–197 effective Jan. 1, 1972, see section 10 of Pub. L. 92–197, set out as a note under section 1311 of this title.
 
-### § 1142. Rates of peacetime death compensation
+### § 1142. Rates of peacetime death compensation
 
 For the purposes of section 1141 of this title, the monthly rates of death compensation payable shall be those specified in section 1122 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, § 342; Pub. L. 93–295, title II, § 206(a), May 31, 1974, 88 Stat. 183; renumbered § 1142 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, § 342; Pub. L. 93–295, title II, § 206(a), May 31, 1974, 88 Stat. 183; renumbered § 1142 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 342 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 342 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1141” for “341” and “1122” for “322”.
+Pub. L. 102–83, § 5(c)(1), substituted “1141” for “341” and “1122” for “322”.
 
 1974—Pub. L. 93–295 substituted “those specified in section 322 of this title” for “equal to 80 per centum of the rates prescribed by section 322 of this title, adjusted upward or downward to the nearest dollar, counting fifty cents and over as a whole dollar”.
 
@@ -4823,17 +4823,17 @@ Pub. L. 102–83, § 5(c)(1), substituted “1141” for “341” and “1122
 
 Amendment by Pub. L. 93–295 effective May 1, 1974, see section 401 of Pub. L. 93–295, set out as a note under section 1114 of this title.
 
-### [§ 1143. Vacant]
+### [§ 1143. Vacant]
 
 **Editorial Notes**
 
 **Codification**
 
-Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 1163 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, section 343 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, which prescribed conditions under which wartime rates of compensation were payable, was repealed by Pub. L. 93–295, title II, § 206(b), title IV, § 401, May 31, 1974, 88 Stat. 183, 184, effective May 1, 1974.
+Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 1163 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, section 343 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, which prescribed conditions under which wartime rates of compensation were payable, was repealed by Pub. L. 93–295, title II, § 206(b), title IV, § 401, May 31, 1974, 88 Stat. 183, 184, effective May 1, 1974.
 
 ## SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS
 
-### § 1151. Benefits for persons disabled by treatment or vocational rehabilitation
+### § 1151. Benefits for persons disabled by treatment or vocational rehabilitation
 
 **(a)** Compensation under this chapter and dependency and indemnity compensation under chapter 13 of this title shall be awarded for a qualifying additional disability or a qualifying death of a veteran in the same manner as if such additional disability or death were service-connected. For purposes of this section, a disability or death is a qualifying additional disability or qualifying death if the disability or death was not the result of the veteran’s willful misconduct and—
 
@@ -4861,7 +4861,7 @@ Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 
 
 **(2)** Chapter 39, relating to automobiles and adaptive equipment.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, § 351; Pub. L. 87–825, § 3, Oct. 15, 1962, 76 Stat. 950; Pub. L. 91–24, § 3, June 11, 1969, 83 Stat. 33; Pub. L. 94–433, title IV, § 404(19), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–223, title II, § 213(1), Mar. 2, 1984, 98 Stat. 46; renumbered § 1151 and amended Pub. L. 102–83, §§ 4(a)(1), 5(a), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 104–204, title IV, § 422(a), Sept. 26, 1996, 110 Stat. 2926; Pub. L. 106–419, title III, § 303, Nov. 1, 2000, 114 Stat. 1853; Pub. L. 108–454, title III, § 304(a),(c), Dec. 10, 2004, 118 Stat. 3611.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, § 351; Pub. L. 87–825, § 3, Oct. 15, 1962, 76 Stat. 950; Pub. L. 91–24, § 3, June 11, 1969, 83 Stat. 33; Pub. L. 94–433, title IV, § 404(19), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–223, title II, § 213(1), Mar. 2, 1984, 98 Stat. 46; renumbered § 1151 and amended Pub. L. 102–83, §§ 4(a)(1), 5(a), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 104–204, title IV, § 422(a), Sept. 26, 1996, 110 Stat. 2926; Pub. L. 106–419, title III, § 303, Nov. 1, 2000, 114 Stat. 1853; Pub. L. 108–454, title III, § 304(a),(c), Dec. 10, 2004, 118 Stat. 3611.)
 
 **Editorial Notes**
 
@@ -4871,25 +4871,25 @@ The date of the enactment of this paragraph, referred to in subsec. (b)(2), is t
 
 **Amendments**
 
-2004—Subsec. (b). Pub. L. 108–454, § 304(c), designated existing provision as par. (1), inserted “(except as otherwise provided in paragraph (2))” after “service-connected, then”, and added par. (2).
+2004—Subsec. (b). Pub. L. 108–454, § 304(c), designated existing provision as par. (1), inserted “(except as otherwise provided in paragraph (2))” after “service-connected, then”, and added par. (2).
 
-Subsec. (c). Pub. L. 108–454, § 304(a), added subsec. (c).
+Subsec. (c). Pub. L. 108–454, § 304(a), added subsec. (c).
 
 2000—Subsec. (a)(2). Pub. L. 106–419 inserted “(A)” after “proximately caused” and added cl. (B).
 
-1996—Subsec. (a). Pub. L. 104–204, § 422(a)(1), added subsec. (a) and struck out former first sentence of section which read as follows: “Where any veteran shall have suffered an injury, or an aggravation of an injury, as the result of hospitalization, medical or surgical treatment, or the pursuit of a course of vocational rehabilitation under chapter 31 of this title, awarded under any of the laws administered by the Secretary, or as a result of having submitted to an examination under any such law, and not the result of such veteran’s own willful misconduct, and such injury or aggravation results in additional disability to or the death of such veteran, disability or death compensation under this chapter and dependency and indemnity compensation under chapter 13 of this title shall be awarded in the same manner as if such disability, aggravation, or death were service-connected.”
+1996—Subsec. (a). Pub. L. 104–204, § 422(a)(1), added subsec. (a) and struck out former first sentence of section which read as follows: “Where any veteran shall have suffered an injury, or an aggravation of an injury, as the result of hospitalization, medical or surgical treatment, or the pursuit of a course of vocational rehabilitation under chapter 31 of this title, awarded under any of the laws administered by the Secretary, or as a result of having submitted to an examination under any such law, and not the result of such veteran’s own willful misconduct, and such injury or aggravation results in additional disability to or the death of such veteran, disability or death compensation under this chapter and dependency and indemnity compensation under chapter 13 of this title shall be awarded in the same manner as if such disability, aggravation, or death were service-connected.”
 
-Subsec. (b). Pub. L. 104–204, § 422(a)(2), designated second sentence of section as subsec. (b), struck out “, aggravation,” after “disability” in two places, and substituted “this subsection equals the total amount” for “this sentence equals the total amount”.
+Subsec. (b). Pub. L. 104–204, § 422(a)(2), designated second sentence of section as subsec. (b), struck out “, aggravation,” after “disability” in two places, and substituted “this subsection equals the total amount” for “this sentence equals the total amount”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 351 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 351 of this title as this section.
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
 1984—Pub. L. 98–223 substituted “title 28” for “title 28, United States Code,” in two places.
 
 1976—Pub. L. 94–433 struck out “him” before “under any of the laws” and substituted “such veteran’s” for “his” in first sentence.
 
-1969—Pub. L. 91–24 substituted “, on or after December 1, 1962,” for “hereafter” wherever appearing.
+1969—Pub. L. 91–24 substituted “, on or after December 1, 1962,” for “hereafter” wherever appearing.
 
 1962—Pub. L. 87–825 provided that where an individual is awarded a judgment under section 1346(b) of title 28, enters a settlement or compromise under section 2672 or 2677 of such title by reason of a disability, aggravation, or death treated pursuant to this section as if service-connected, then no benefits shall be paid such individual for any month beginning after such judgment, settlement or compromise becomes final until the aggregate amount of benefits equals the total amount included in such judgment, settlement, or compromise, and struck out provisions which required that no benefits were to be awarded unless application was made therefor within two years after an injury or aggravation was suffered, or a death occurred.
 
@@ -4897,11 +4897,11 @@ Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” 
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–454, title III, § 304(b), Dec. 10, 2004, 118 Stat. 3611, provided that: “Subsection (c) of section 1151 of title 38, United States Code, as added by subsection (a), shall apply with respect to eligibility for benefits and services provided by the Secretary of Veterans Affairs on or after the date of the enactment of this Act [Dec. 10, 2004].”
+Pub. L. 108–454, title III, § 304(b), Dec. 10, 2004, 118 Stat. 3611, provided that: “Subsection (c) of section 1151 of title 38, United States Code, as added by subsection (a), shall apply with respect to eligibility for benefits and services provided by the Secretary of Veterans Affairs on or after the date of the enactment of this Act [Dec. 10, 2004].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–204, title IV, § 422(b), (c), Sept. 26, 1996, 110 Stat. 2927, provided that:
+Pub. L. 104–204, title IV, § 422(b), (c), Sept. 26, 1996, 110 Stat. 2927, provided that:
 
 > **“(b)**
 
@@ -4919,11 +4919,11 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 Amendment by Pub. L. 87–825 effective first day of second calendar month which begins after Oct. 15, 1962, see section 7 of Pub. L. 87–825, set out as a note under section 110 of this title.
 
-### § 1152. Persons heretofore having a compensable status
+### § 1152. Persons heretofore having a compensable status
 
 The death and disability benefits of this chapter shall, notwithstanding the service requirements thereof, be granted to persons heretofore recognized by law as having a compensable status, including persons whose claims are based on war or peacetime service rendered before April 21, 1898.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, § 352; renumbered § 1152, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, § 352; renumbered § 1152, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -4931,11 +4931,11 @@ The death and disability benefits of this chapter shall, notwithstanding the ser
 
 1991—Pub. L. 102–83 renumbered section 352 of this title as this section.
 
-### § 1153. Aggravation
+### § 1153. Aggravation
 
 A preexisting injury or disease will be considered to have been aggravated by active military, naval, air, or space service, where there is an increase in disability during such service, unless there is a specific finding that the increase in disability is due to the natural progress of the disease.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, § 353; renumbered § 1153, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 116–283, div. A, title IX, § 926(a)(15), Jan. 1, 2021, 134 Stat. 3830.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, § 353; renumbered § 1153, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 116–283, div. A, title IX, § 926(a)(15), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -4945,13 +4945,13 @@ A preexisting injury or disease will be considered to have been aggravated by ac
 
 1991—Pub. L. 102–83 renumbered section 353 of this title as this section.
 
-### § 1154. Consideration to be accorded time, place, and circumstances of service
+### § 1154. Consideration to be accorded time, place, and circumstances of service
 
 **(a)** The Secretary shall include in the regulations pertaining to service-connection of disabilities (1) additional provisions in effect requiring that in each case where a veteran is seeking service-connection for any disability due consideration shall be given to the places, types, and circumstances of such veteran’s service as shown by such veteran’s service record, the official history of each organization in which such veteran served, such veteran’s medical records, and all pertinent medical and lay evidence, and (2) the provisions required by section 5 of the Veterans’ Dioxin and Radiation Exposure Compensation Standards Act (Public Law 98–542; 98 Stat. 2727).
 
 **(b)** In the case of any veteran who engaged in combat with the enemy in active service with a military, naval, air, or space organization of the United States during a period of war, campaign, or expedition, the Secretary shall accept as sufficient proof of service-connection of any disease or injury alleged to have been incurred in or aggravated by such service satisfactory lay or other evidence of service incurrence or aggravation of such injury or disease, if consistent with the circumstances, conditions, or hardships of such service, notwithstanding the fact that there is no official record of such incurrence or aggravation in such service, and, to that end, shall resolve every reasonable doubt in favor of the veteran. Service-connection of such injury or disease may be rebutted by clear and convincing evidence to the contrary. The reasons for granting or denying service-connection in each case shall be recorded in full.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, § 354; Pub. L. 94–433, title IV, § 404(20), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–542, § 4, Oct. 24, 1984, 98 Stat. 2727; Pub. L. 102–54, § 14(b)(1), June 13, 1991, 105 Stat. 282; renumbered § 1154 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 116–283, div. A, title IX, § 926(d), Jan. 1, 2021, 134 Stat. 3831.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, § 354; Pub. L. 94–433, title IV, § 404(20), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–542, § 4, Oct. 24, 1984, 98 Stat. 2727; Pub. L. 102–54, § 14(b)(1), June 13, 1991, 105 Stat. 282; renumbered § 1154 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 116–283, div. A, title IX, § 926(d), Jan. 1, 2021, 134 Stat. 3831.)
 
 **Editorial Notes**
 
@@ -4963,15 +4963,15 @@ Section 5 of the Veterans’ Dioxin and Radiation Exposure Compensation Standard
 
 2021—Subsec. (b). Pub. L. 116–283 substituted “air, or space organization” for “or air organization”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 354 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 354 of this title as this section.
 
-Pub. L. 102–54, § 14(b)(1)(A), inserted a comma after “place” in section catchline.
+Pub. L. 102–54, § 14(b)(1)(A), inserted a comma after “place” in section catchline.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–54, § 14(b)(1)(B), inserted before period at end “(Public Law 98–542; 98 Stat. 2727)”.
+Pub. L. 102–54, § 14(b)(1)(B), inserted before period at end “(Public Law 98–542; 98 Stat. 2727)”.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1984—Subsec. (a). Pub. L. 98–542 designated existing provisions as cl. (1) and added cl. (2).
 
@@ -4985,7 +4985,7 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 **Radiation Dose Reconstruction Program of Department of Defense**
 
-Pub. L. 108–183, title VI, § 601, Dec. 16, 2003, 117 Stat. 2667, as amended by Pub. L. 117–263, div. A, title VII, § 734, Dec. 23, 2022, 136 Stat. 2668, provided that:
+Pub. L. 108–183, title VI, § 601, Dec. 16, 2003, 117 Stat. 2667, as amended by Pub. L. 117–263, div. A, title VII, § 734, Dec. 23, 2022, 136 Stat. 2668, provided that:
 
 > **“(a) Review of Mission, Procedures, and Administration.—**
 
@@ -5009,7 +5009,7 @@ Pub. L. 108–183, title VI, § 601, Dec. 16, 2003, 117 Stat. 2667, as amended
 
 **Review of Dose Reconstruction Program of the Defense Threat Reduction Agency**
 
-Pub. L. 106–419, title III, § 305, Nov. 1, 2000, 114 Stat. 1853, provided that:
+Pub. L. 106–419, title III, § 305, Nov. 1, 2000, 114 Stat. 1853, provided that:
 
 > **“(a) Review by National Academy of Sciences.—** Not later than 30 days after the date of the enactment of this Act [Nov. 1, 2000], the Secretary of Defense shall enter into a contract with the National Academy of Sciences to carry out periodic reviews of the program of the Defense Threat Reduction Agency of the Department of Defense known as the ‘dose reconstruction program’.
 
@@ -5037,7 +5037,7 @@ Pub. L. 106–419, title III, § 305, Nov. 1, 2000, 114 Stat. 1853, provided t
 
 **Ionizing Radiation Registry**
 
-Pub. L. 99–576, title II, § 232, Oct. 28, 1986, 100 Stat. 3264, as amended by Pub. L. 102–83, §§ 5(c)(2), 6(h), Aug. 6, 1991, 105 Stat. 406, 408, provided that:
+Pub. L. 99–576, title II, § 232, Oct. 28, 1986, 100 Stat. 3264, as amended by Pub. L. 102–83, §§ 5(c)(2), 6(h), Aug. 6, 1991, 105 Stat. 406, 408, provided that:
 
 > **“(a) Establishment of Registry.—** The Secretary of Veterans Affairs shall establish and maintain a special record to be known as the ‘Ionizing Radiation Registry’ (hereinafter in this section referred to as the ‘Registry’).
 
@@ -5083,7 +5083,7 @@ Pub. L. 99–576, title II, § 232, Oct. 28, 1986, 100 Stat. 3264, as amended 
 
 **Veterans’ Dioxin and Radiation Exposure Compensation Standards; Congressional Findings and Statement of Purpose**
 
-Pub. L. 98–542, § 1–3, Oct. 24, 1984, 98 Stat. 2725, 2727, as amended by Pub. L. 102–4, § 10(a), (b), Feb. 6, 1991, 105 Stat. 19, provided that:
+Pub. L. 98–542, § 1–3, Oct. 24, 1984, 98 Stat. 2725, 2727, as amended by Pub. L. 102–4, § 10(a), (b), Feb. 6, 1991, 105 Stat. 19, provided that:
 
 > **“short title**
 
@@ -5133,7 +5133,7 @@ Pub. L. 98–542, § 1–3, Oct. 24, 1984, 98 Stat. 2725, 2727, as amended by 
 
 **Requirement for and Content of Regulations; Advisory Committee on Environmental Standards; Nuclear Radiation Matters Involving Other Agencies**
 
-Pub. L. 98–542, § 5–7, Oct. 24, 1984, 98 Stat. 2727–2730, as amended by Pub. L. 100–321, § 2(c), May 20, 1988, 102 Stat. 486; Pub. L. 102–4, § 10(c), (d), Feb. 6, 1991, 105 Stat. 19, 20; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
+Pub. L. 98–542, § 5–7, Oct. 24, 1984, 98 Stat. 2727–2730, as amended by Pub. L. 100–321, § 2(c), May 20, 1988, 102 Stat. 486; Pub. L. 102–4, § 10(c), (d), Feb. 6, 1991, 105 Stat. 19, 20; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
 
 > **“requirement for and content of regulations**
 
@@ -5239,7 +5239,7 @@ Pub. L. 98–542, § 5–7, Oct. 24, 1984, 98 Stat. 2727–2730, as amended by
 
 > **“(b)** The Administrator of Veterans’ Affairs [now Secretary of Veterans Affairs], in resolving material differences between a radiation dose estimate, from a credible source, submitted by a veteran or survivor and a radiation dose estimate prepared and transmitted by the Director of the Defense Nuclear Agency, shall provide for the preparation of a radiation dose estimate by an independent expert, who shall be selected by the Director of the National Institutes of Health and who shall not be affiliated with the Defense Nuclear Agency, and the Administrator shall provide for the consideration of such independent estimate in connection with the adjudication of the claim for Veterans’ Administration [now Department of Veterans Affairs] compensation.”
 
-[Pub. L. 102–4, § 10(e), Feb. 6, 1991, 105 Stat. 20, as amended by Pub. L. 102–86, title V, § 503(b)(2), Aug. 14, 1991, 105 Stat. 425, provided that:
+[Pub. L. 102–4, § 10(e), Feb. 6, 1991, 105 Stat. 20, as amended by Pub. L. 102–86, title V, § 503(b)(2), Aug. 14, 1991, 105 Stat. 425, provided that:
 
 [“(1) Except as provided in paragraph (2), the amendments made by this section [amending sections 2 and 3 of Pub. L. 98–542, set out above, and sections 5 and 6 of Pub. L. 98–542, set out above] shall take effect at the end of the two-month period beginning on the date of the enactment of the Veterans’ Benefits Programs Improvement Act of 1991 [Aug. 14, 1991].
 
@@ -5251,7 +5251,7 @@ Pub. L. 98–542, § 5–7, Oct. 24, 1984, 98 Stat. 2727–2730, as amended by
 
 **Identification of Activities Involving Exposure to Ionizing Radiation Before January 1, 1970**
 
-Section 10 of Pub. L. 98–542, as added by Pub. L. 102–578, § 3, Oct. 30, 1992, 106 Stat. 4774, provided that:
+Section 10 of Pub. L. 98–542, as added by Pub. L. 102–578, § 3, Oct. 30, 1992, 106 Stat. 4774, provided that:
 
 > **“(a) In General.—**
 
@@ -5285,27 +5285,27 @@ Section 10 of Pub. L. 98–542, as added by Pub. L. 102–578, § 3, Oct. 30, 
 
 **Interim Benefits for Disability or Death in Certain Cases**
 
-Pub. L. 98–542, § 9, Oct. 24, 1984, 98 Stat. 2732, provided for payment of interim monthly disability benefits to veterans who had served in Vietnam during Vietnam era and who had diseases chloracne and porphyria cutanea tarda which manifested themselves within one year after date of veteran’s most recent departure from Vietnam, but with no such interim benefits to be paid after Sept. 30, 1986.
+Pub. L. 98–542, § 9, Oct. 24, 1984, 98 Stat. 2732, provided for payment of interim monthly disability benefits to veterans who had served in Vietnam during Vietnam era and who had diseases chloracne and porphyria cutanea tarda which manifested themselves within one year after date of veteran’s most recent departure from Vietnam, but with no such interim benefits to be paid after Sept. 30, 1986.
 
 **Radiation Exposure Study and Guide**
 
-Pub. L. 98–160, title VI, Nov. 21, 1983, 97 Stat. 1006, as amended by Pub. L. 98–542, § 8(b), Oct. 24, 1984, 98 Stat. 2732, provided for the conduct of an epidemiological study of long-term adverse health effects of exposure to ionizing radiation from detonation of nuclear devices in connection with tests of such devices or in connection with occupation of Hiroshima and Nagasaki, Japan, between Sept. 11, 1945, and July 1, 1946, and provided for reports to Congress on studies made together with recommendations as to necessary legislation.
+Pub. L. 98–160, title VI, Nov. 21, 1983, 97 Stat. 1006, as amended by Pub. L. 98–542, § 8(b), Oct. 24, 1984, 98 Stat. 2732, provided for the conduct of an epidemiological study of long-term adverse health effects of exposure to ionizing radiation from detonation of nuclear devices in connection with tests of such devices or in connection with occupation of Hiroshima and Nagasaki, Japan, between Sept. 11, 1945, and July 1, 1946, and provided for reports to Congress on studies made together with recommendations as to necessary legislation.
 
-### § 1155. Authority for schedule for rating disabilities
+### § 1155. Authority for schedule for rating disabilities
 
 The Secretary shall adopt and apply a schedule of ratings of reductions in earning capacity from specific injuries or combination of injuries. The ratings shall be based, as far as practicable, upon the average impairments of earning capacity resulting from such injuries in civil occupations. The schedule shall be constructed so as to provide ten grades of disability and no more, upon which payments of compensation shall be based, namely, 10 percent, 20 percent, 30 percent, 40 percent, 50 percent, 60 percent, 70 percent, 80 percent, 90 percent, and total, 100 percent. The Secretary shall from time to time readjust this schedule of ratings in accordance with experience. However, in no event shall such a readjustment in the rating schedule cause a veteran’s disability rating in effect on the effective date of the readjustment to be reduced unless an improvement in the veteran’s disability is shown to have occurred.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, § 355; Pub. L. 98–223, title I, § 101(c), Mar. 2, 1984, 98 Stat. 38; renumbered § 1155 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, § 103(a), Aug. 14, 1991, 105 Stat. 414.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, § 355; Pub. L. 98–223, title I, § 101(c), Mar. 2, 1984, 98 Stat. 38; renumbered § 1155 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, § 103(a), Aug. 14, 1991, 105 Stat. 414.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–86 amended this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by inserting at end “However, in no event shall such a readjustment in the rating schedule cause a veteran’s disability rating in effect on the effective date of the readjustment to be reduced unless an improvement in the veteran’s disability is shown to have occurred.”
+1991—Pub. L. 102–86 amended this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by inserting at end “However, in no event shall such a readjustment in the rating schedule cause a veteran’s disability rating in effect on the effective date of the readjustment to be reduced unless an improvement in the veteran’s disability is shown to have occurred.”
 
-Pub. L. 102–83, § 5(a), renumbered section 355 of this title as this section.
+Pub. L. 102–83, § 5(a), renumbered section 355 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
 1984—Pub. L. 98–223 substituted “percent” for “per centum” wherever appearing.
 
@@ -5313,13 +5313,13 @@ Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Admin
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–86, title I, § 103(b), Aug. 14, 1991, 105 Stat. 415, provided that: “The amendment made by subsection (a) [amending this section] shall apply with regard to changes in rating schedules that take effect after the date of the enactment of this Act [Aug. 14, 1991].”
+Pub. L. 102–86, title I, § 103(b), Aug. 14, 1991, 105 Stat. 415, provided that: “The amendment made by subsection (a) [amending this section] shall apply with regard to changes in rating schedules that take effect after the date of the enactment of this Act [Aug. 14, 1991].”
 
 **Effective Date of 1984 Amendment**
 
 Amendment by Pub. L. 98–223 effective Apr. 1, 1984, see section 107 of Pub. L. 98–223, set out as a note under section 1114 of this title.
 
-### § 1156. Temporary disability ratings
+### § 1156. Temporary disability ratings
 
 **(a) Assignment of Temporary Ratings.—**
 
@@ -5377,23 +5377,23 @@ Amendment by Pub. L. 98–223 effective Apr. 1, 1984, see section 107 of Pub. L.
 
 **(d) Construction.—** Nothing in this section shall be construed to preclude the Secretary from providing a temporary disability rating under an authority other than this section.
 
-(Added Pub. L. 110–389, title II, § 211(a), Oct. 10, 2008, 122 Stat. 4149.)
+(Added Pub. L. 110–389, title II, § 211(a), Oct. 10, 2008, 122 Stat. 4149.)
 
 **Editorial Notes**
 
 **Codification**
 
-Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 1163 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, section 356 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, which provided for a minimum rating for veterans with arrested tuberculosis, was repealed by Pub. L. 90–493, § 4, Aug. 19, 1968, 82 Stat. 809, but repeal not applicable in case of veteran who on Aug. 19, 1968, was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.
+Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 1163 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, section 356 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, which provided for a minimum rating for veterans with arrested tuberculosis, was repealed by Pub. L. 90–493, § 4, Aug. 19, 1968, 82 Stat. 809, but repeal not applicable in case of veteran who on Aug. 19, 1968, was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 110–389, title II, § 211(b), Oct. 10, 2008, 122 Stat. 4151, provided that: “Section 1156(a)(1) of title 38, United States Code, as added by subsection (a), shall apply with respect to a veteran who is discharged or released from active duty (as defined in section 101 of title 38, United States Code) on or after the date of the enactment of this Act [Oct. 10, 2008].”
+Pub. L. 110–389, title II, § 211(b), Oct. 10, 2008, 122 Stat. 4151, provided that: “Section 1156(a)(1) of title 38, United States Code, as added by subsection (a), shall apply with respect to a veteran who is discharged or released from active duty (as defined in section 101 of title 38, United States Code) on or after the date of the enactment of this Act [Oct. 10, 2008].”
 
 **Department of Veterans Affairs Automatic Processing of Certain Claims for Temporary Disability Ratings**
 
-Pub. L. 118–210, title III, § 307, Jan. 2, 2025, 138 Stat. 2794, provided that:
+Pub. L. 118–210, title III, § 307, Jan. 2, 2025, 138 Stat. 2794, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Jan. 2, 2025], the Secretary of Veterans Affairs shall modify the information technology systems of the Department of Veterans Affairs to use automation technology for claims for temporary disability ratings for veterans described in section 1156(a)(1)(C) of title 38, United States Code.
 
@@ -5405,35 +5405,35 @@ Pub. L. 118–210, title III, § 307, Jan. 2, 2025, 138 Stat. 2794, provided t
 
 > **“(3)** claims may be processed manually if the evidence of record is not sufficient to decide the claim or if the medical evidence is provided in a format that is not compatible with the system developed under subsection (a).”
 
-### § 1157. Combination of certain ratings
+### § 1157. Combination of certain ratings
 
 The Secretary shall provide for the combination of ratings and pay compensation at the rates prescribed in subchapter II of this chapter to those veterans who served during a period of war and during any other time, who have suffered disability in line of duty in each period of service.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, § 357; renumbered § 1157 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, § 357; renumbered § 1157 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 357 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 357 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-### § 1158. Disappearance
+### § 1158. Disappearance
 
 Where a veteran receiving compensation under this chapter disappears, the Secretary may pay the compensation otherwise payable to the veteran to such veteran’s spouse, children, and parents. Payments made to such spouse, child, or parent under the preceding sentence shall not exceed the amounts payable to each if the veteran had died from service-connected disability.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, § 358; Pub. L. 86–212, Sept. 1, 1959, 73 Stat. 436; Pub. L. 94–433, title IV, § 404(21), Sept. 30, 1976, 90 Stat. 1379; renumbered § 1158 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, § 358; Pub. L. 86–212, Sept. 1, 1959, 73 Stat. 436; Pub. L. 94–433, title IV, § 404(21), Sept. 30, 1976, 90 Stat. 1379; renumbered § 1158 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 358 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 358 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1976—Pub. L. 94–433 struck out “, in his discretion,” after “Administrator” and substituted “such veteran’s spouse” for “his wife” and “such spouse” for “a wife”.
+1976—Pub. L. 94–433 struck out “, in his discretion,” after “Administrator” and substituted “such veteran’s spouse” for “his wife” and “such spouse” for “a wife”.
 
 1959—Pub. L. 86–212 substituted “a veteran” for “an incompetent veteran”.
 
@@ -5443,19 +5443,19 @@ Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Admin
 
 Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L. 94–433, set out as a note under section 1101 of this title.
 
-### § 1159. Protection of service connection
+### § 1159. Protection of service connection
 
 Service connection for any disability or death granted under this title which has been in force for ten or more years shall not be severed on or after January 1, 1962, except upon a showing that the original grant of service connection was based on fraud or it is clearly shown from military records that the person concerned did not have the requisite service or character of discharge. The mentioned period shall be computed from the date determined by the Secretary as the date on which the status commenced for rating purposes.
 
-(Added Pub. L. 86–501, § 1, June 10, 1960, 74 Stat. 195, § 359; amended Pub. L. 87–825, § 6, Oct. 15, 1962, 76 Stat. 950; renumbered § 1159 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 86–501, § 1, June 10, 1960, 74 Stat. 195, § 359; amended Pub. L. 87–825, § 6, Oct. 15, 1962, 76 Stat. 950; renumbered § 1159 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 359 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 359 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1962—Pub. L. 87–825 provided for computation of the period from the date the administrator determines as the date the status commenced for rating purposes.
 
@@ -5465,7 +5465,7 @@ Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Admin
 
 Amendment by Pub. L. 87–825 effective first day of second calendar month which begins after Oct. 15, 1962, see section 7 of Pub. L. 87–825, set out as a note under section 110 of this title.
 
-### § 1160. Special consideration for certain cases of loss of paired organs or extremities
+### § 1160. Special consideration for certain cases of loss of paired organs or extremities
 
 **(a)** Where a veteran has suffered—
 
@@ -5487,7 +5487,7 @@ the Secretary shall assign and pay to the veteran the applicable rate of compens
 
 **(b)** If a veteran described in subsection (a) of this section receives any money or property of value pursuant to an award in a judicial proceeding based upon, or a settlement or compromise of, any cause of action for damages for the non-service-connected disability described in such subsection, the increase in the rate of compensation otherwise payable under this section shall not be paid for any month following a month in which any such money or property is received until such time as the total of the amount of such increase that would otherwise have been payable equals the total of the amount of any such money received and the fair market value of any such property received.
 
-(Added Pub. L. 87–610, § 1, Aug. 28, 1962, 76 Stat. 406, § 360; amended Pub. L. 89–311, § 3(a), (b), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 94–433, title IV, § 404(22), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–160, title VII, § 702(3), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 99–576, title I, § 109(a)(1), Oct. 28, 1986, 100 Stat. 3253; renumbered § 1160 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–330, title I, § 103, Dec. 6, 2002, 116 Stat. 2821; Pub. L. 110–157, title I, § 102, Dec. 26, 2007, 121 Stat. 1831.)
+(Added Pub. L. 87–610, § 1, Aug. 28, 1962, 76 Stat. 406, § 360; amended Pub. L. 89–311, § 3(a), (b), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 94–433, title IV, § 404(22), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–160, title VII, § 702(3), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 99–576, title I, § 109(a)(1), Oct. 28, 1986, 100 Stat. 3253; renumbered § 1160 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–330, title I, § 103, Dec. 6, 2002, 116 Stat. 2821; Pub. L. 110–157, title I, § 102, Dec. 26, 2007, 121 Stat. 1831.)
 
 **Editorial Notes**
 
@@ -5497,9 +5497,9 @@ the Secretary shall assign and pay to the veteran the applicable rate of compens
 
 2002—Subsec. (a)(3). Pub. L. 107–330 substituted “deafness compensable to a degree of 10 percent or more in one ear” for “total deafness in one ear” and “deafness in the other ear” for “total deafness in the other ear”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 360 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 360 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in concluding provisions.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in concluding provisions.
 
 1986—Pub. L. 99–576 amended section generally, substituting “loss of paired organs or extremities” for “blindness or bilateral kidney involvement or bilateral deafness” in section catchline. Prior to amendment, text of section read as follows: “Where any veteran (1) has suffered blindness in one eye as a result of service-connected disability and has suffered blindness in the other eye as a result of non-service-connected disability not the result of such veteran’s own willful misconduct, or (2) has suffered the loss or loss of use of one kidney as a result of service-connected disability, and has suffered severe involvement of the other kidney such as to cause total disability, as a result of non-service-connected disability not the result of such veteran’s own willful misconduct, or (3) has suffered total deafness in one ear as a result of service-connected disability and has suffered total deafness in the other ear as the result of non-service-connected disability not the result of such veteran’s own willful misconduct, the Administrator shall assign and pay to the veteran concerned the applicable rate of compensation under this chapter as if such veteran’s blindness in both eyes or such bilateral kidney involvement were the result of service-connected disability.”
 
@@ -5513,7 +5513,7 @@ Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–576, title I, § 109(c), Oct. 28, 1986, 100 Stat. 3253, provided that:
+Pub. L. 99–576, title I, § 109(c), Oct. 28, 1986, 100 Stat. 3253, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by this section [amending this section and section 314 [now 1114] of this title] shall take effect on the date of the enactment of this Act [Oct. 28, 1986].
 
@@ -5527,21 +5527,21 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under section 1114 of this title.
 
-### § 1161. Payment of disability compensation in disability severance cases
+### § 1161. Payment of disability compensation in disability severance cases
 
 The deduction of disability severance pay from disability compensation, to the extent required by section 1212(d) of title 10, shall be made at a monthly rate not in excess of the rate of compensation to which the former member would be entitled based on the degree of such former member’s disability as determined on the initial Department rating.
 
-(Added Pub. L. 91–241, May 7, 1970, 84 Stat. 203, § 361; amended Pub. L. 94–433, title IV, § 404(23), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–160, title VII, § 702(4), Nov. 21, 1983, 97 Stat. 1009; renumbered § 1161 and amended Pub. L. 102–83, §§ 4(a)(3), (4), 5(a), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 110–181, div. A, title XVI, § 1646(c), as added Pub. L. 110–389, title I, § 103(a)(2), Oct. 10, 2008, 122 Stat. 4148.)
+(Added Pub. L. 91–241, May 7, 1970, 84 Stat. 203, § 361; amended Pub. L. 94–433, title IV, § 404(23), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–160, title VII, § 702(4), Nov. 21, 1983, 97 Stat. 1009; renumbered § 1161 and amended Pub. L. 102–83, §§ 4(a)(3), (4), 5(a), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 110–181, div. A, title XVI, § 1646(c), as added Pub. L. 110–389, title I, § 103(a)(2), Oct. 10, 2008, 122 Stat. 4148.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Pub. L. 110–181, § 1646(c), as added by Pub. L. 110–389, § 103(a)(2), substituted “to the extent required by section 1212(d) of title 10” for “as required by section 1212(c) of title 10”.
+2008—Pub. L. 110–181, § 1646(c), as added by Pub. L. 110–389, § 103(a)(2), substituted “to the extent required by section 1212(d) of title 10” for “as required by section 1212(c) of title 10”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 361 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 361 of this title as this section.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
 1983—Pub. L. 98–160 struck out “United States Code,” after “title 10,”.
 
@@ -5551,7 +5551,7 @@ Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veteran
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–389, title I, § 103(b), Oct. 10, 2008, 122 Stat. 4148, provided that: “The amendments made by subsection (a) [adding section 1646(c) to Pub. L. 110–181 and provisions set out as a note under section 1212 of Title 10, Armed Forces] shall take effect on January 28, 2008 (the date of the enactment of the Wounded Warrior Act [title XVI of Pub. L. 110–181]), as if included in that Act, to which they relate.”
+Pub. L. 110–389, title I, § 103(b), Oct. 10, 2008, 122 Stat. 4148, provided that: “The amendments made by subsection (a) [adding section 1646(c) to Pub. L. 110–181 and provisions set out as a note under section 1212 of Title 10, Armed Forces] shall take effect on January 28, 2008 (the date of the enactment of the Wounded Warrior Act [title XVI of Pub. L. 110–181]), as if included in that Act, to which they relate.”
 
 Amendment by section 1646(c) of Pub. L. 110–181 effective Jan. 28, 2008, and applicable with respect to members of the Armed Forces separated from the Armed Forces under chapter 61 of title 10, United States Code, on or after that date, see section 1646(d) of Pub. L. 110–181, set out as a note under section 1212 of Title 10, Armed Forces.
 
@@ -5559,11 +5559,11 @@ Amendment by section 1646(c) of Pub. L. 110–181 effective Jan. 28, 2008, and a
 
 Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L. 94–433, set out as a note under section 1101 of this title.
 
-### § 1162. Clothing allowance
+### § 1162. Clothing allowance
 
-**(a) Eligibility Requirements.—** The Secretary, under regulations which the Secretary shall prescribe, shall pay a clothing allowance of $716 1
+**(a) Eligibility Requirements.—** The Secretary, under regulations which the Secretary shall prescribe, shall pay a clothing allowance of $716 1
 
-<sup>1</sup>  See Special Benefit Allowance Rates note below.
+<sup>1</sup> See Special Benefit Allowance Rates note below.
 
 per year to each veteran who—
 
@@ -5611,7 +5611,7 @@ per year to each veteran who—
 
 **(2)** discontinue the clothing allowance based on such claim.
 
-(Added Pub. L. 92–328, title I, § 103(a), June 30, 1972, 86 Stat. 394, § 362; amended Pub. L. 94–71, title I, § 103, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title III, § 301, title IV, § 404(24), Sept. 30, 1976, 90 Stat. 1377, 1379; Pub. L. 95–117, title III, § 301, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 95–479, title I, § 103, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title I, § 103, Nov. 28, 1979, 93 Stat. 984; Pub. L. 96–385, title I, § 103, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title I, § 103, Oct. 17, 1981, 95 Stat. 1027; Pub. L. 97–253, title IV, § 405(d), Sept. 8, 1982, 96 Stat. 804; Pub. L. 97–306, title I, §§ 103, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, § 103, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, § 103, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, § 103, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, § 103, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–227, title I, § 103, Dec. 31, 1987, 101 Stat. 1553; Pub. L. 100–687, div. B, title XI, § 1103, Nov. 18, 1988, 102 Stat. 4124; Pub. L. 101–237, title I, §§ 103, 112, Dec. 18, 1989, 103 Stat. 2063, 2065; Pub. L. 102–3, § 4, Feb. 6, 1991, 105 Stat. 8; renumbered § 1162, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, § 4, Nov. 12, 1991, 105 Stat. 986; Pub. L. 103–78, § 3, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, § 4, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, § 4, Nov. 19, 1997, 111 Stat. 2156; Pub. L. 106–118, § 4, Nov. 30, 1999, 113 Stat. 1602; Pub. L. 107–94, § 4, Dec. 21, 2001, 115 Stat. 901; Pub. L. 107–330, title III, § 309(c), Dec. 6, 2002, 116 Stat. 2830; Pub. L. 108–454, title III, § 307(c), Dec. 10, 2004, 118 Stat. 3613; Pub. L. 109–111, § 2(c), Nov. 22, 2005, 119 Stat. 2363; Pub. L. 109–444, § 9(c), Dec. 21, 2006, 120 Stat. 3315; Pub. L. 109–461, title X, §§ 1005(c), 1006(b), Dec. 22, 2006, 120 Stat. 3467, 3468; Pub. L. 110–324, § 3(c), Sept. 24, 2008, 122 Stat. 3551; Pub. L. 111–37, § 3(c), June 30, 2009, 123 Stat. 1929; Pub. L. 117–328, div. U, title II, § 201(b), Dec. 29, 2022, 136 Stat. 5446.)
+(Added Pub. L. 92–328, title I, § 103(a), June 30, 1972, 86 Stat. 394, § 362; amended Pub. L. 94–71, title I, § 103, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title III, § 301, title IV, § 404(24), Sept. 30, 1976, 90 Stat. 1377, 1379; Pub. L. 95–117, title III, § 301, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 95–479, title I, § 103, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title I, § 103, Nov. 28, 1979, 93 Stat. 984; Pub. L. 96–385, title I, § 103, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title I, § 103, Oct. 17, 1981, 95 Stat. 1027; Pub. L. 97–253, title IV, § 405(d), Sept. 8, 1982, 96 Stat. 804; Pub. L. 97–306, title I, §§ 103, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, § 103, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, § 103, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, § 103, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, § 103, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–227, title I, § 103, Dec. 31, 1987, 101 Stat. 1553; Pub. L. 100–687, div. B, title XI, § 1103, Nov. 18, 1988, 102 Stat. 4124; Pub. L. 101–237, title I, §§ 103, 112, Dec. 18, 1989, 103 Stat. 2063, 2065; Pub. L. 102–3, § 4, Feb. 6, 1991, 105 Stat. 8; renumbered § 1162, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, § 4, Nov. 12, 1991, 105 Stat. 986; Pub. L. 103–78, § 3, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, § 4, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, § 4, Nov. 19, 1997, 111 Stat. 2156; Pub. L. 106–118, § 4, Nov. 30, 1999, 113 Stat. 1602; Pub. L. 107–94, § 4, Dec. 21, 2001, 115 Stat. 901; Pub. L. 107–330, title III, § 309(c), Dec. 6, 2002, 116 Stat. 2830; Pub. L. 108–454, title III, § 307(c), Dec. 10, 2004, 118 Stat. 3613; Pub. L. 109–111, § 2(c), Nov. 22, 2005, 119 Stat. 2363; Pub. L. 109–444, § 9(c), Dec. 21, 2006, 120 Stat. 3315; Pub. L. 109–461, title X, §§ 1005(c), 1006(b), Dec. 22, 2006, 120 Stat. 3467, 3468; Pub. L. 110–324, § 3(c), Sept. 24, 2008, 122 Stat. 3551; Pub. L. 111–37, § 3(c), June 30, 2009, 123 Stat. 1929; Pub. L. 117–328, div. U, title II, § 201(b), Dec. 29, 2022, 136 Stat. 5446.)
 
 **Disability Compensation and Dependency and Indemnity Compensation Rate Increases**
 
@@ -5623,7 +5623,7 @@ For increases in rates of Department of Veterans Affairs disability compensation
 
 2022—Pub. L. 117–328 designated existing provisions as subsec. (a) and inserted heading, inserted comma after “The Secretary” in introductory provisions, and added subsecs. (b) to (d).
 
-Subsec. (a)(2). Pub. L. 117–328, § 201(b)(2), substituted “which—
+Subsec. (a)(2). Pub. L. 117–328, § 201(b)(2), substituted “which—
 
 “(A) a physician has prescribed for a skin condition which is due to a service-connected disability; and
 
@@ -5635,11 +5635,11 @@ for “which (A) a physician has prescribed for a skin condition which is due to
 
 2008—Pub. L. 110–324 substituted “$677” for “$662” in introductory provisions.
 
-2006—Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Pub. L. 109–461, § 1005(c), substituted “$662” for “$641”.
+Pub. L. 109–461, § 1005(c), substituted “$662” for “$641”.
 
-Pub. L. 109–444, which substituted “$662” for “$641”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, which substituted “$662” for “$641”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
 2005—Pub. L. 109–111 substituted “$641” for “$600”.
 
@@ -5663,9 +5663,9 @@ Pub. L. 102–83 renumbered section 362 of this title as this section.
 
 Pub. L. 102–3 substituted “$436” for “$414”.
 
-1989—Pub. L. 101–237, § 112, substituted “Secretary under” for “Administrator under” and “Secretary shall” for “Administrator shall”, and substituted “who—” and pars. (1) and (2) for “who because of disability which is compensable under the provisions of this chapter, wears or uses prosthetic or orthopedic appliance or appliances (including a wheelchair) which the Administrator determines tends to wear out or tear the clothing of such a veteran.”
+1989—Pub. L. 101–237, § 112, substituted “Secretary under” for “Administrator under” and “Secretary shall” for “Administrator shall”, and substituted “who—” and pars. (1) and (2) for “who because of disability which is compensable under the provisions of this chapter, wears or uses prosthetic or orthopedic appliance or appliances (including a wheelchair) which the Administrator determines tends to wear out or tear the clothing of such a veteran.”
 
-Pub. L. 101–237, § 103, substituted “$414” for “$395”.
+Pub. L. 101–237, § 103, substituted “$414” for “$395”.
 
 1988—Pub. L. 100–687 substituted “$395” for “$380”.
 
@@ -5679,9 +5679,9 @@ Pub. L. 99–238 substituted “$360” for “$349”.
 
 Pub. L. 98–223 substituted “$338” for “$327”.
 
-1982—Pub. L. 97–306, §§ 103, 107, 108, substituted “$327” for “$305” and repealed amendment made by Pub. L. 97–253, § 405(d), eff. Oct. 1, 1982.
+1982—Pub. L. 97–306, §§ 103, 107, 108, substituted “$327” for “$305” and repealed amendment made by Pub. L. 97–253, § 405(d), eff. Oct. 1, 1982.
 
-Pub. L. 97–253, § 405(d), (h), eff. Jan. 1, 1983, substituted “$304” for “$305” after “clothing allowance of”.
+Pub. L. 97–253, § 405(d), (h), eff. Jan. 1, 1983, substituted “$304” for “$305” after “clothing allowance of”.
 
 1981—Pub. L. 97–66 substituted “$305” for “$274”.
 
@@ -5693,7 +5693,7 @@ Pub. L. 97–253, § 405(d), (h), eff. Jan. 1, 1983, substituted “$304” fo
 
 1977—Pub. L. 95–117 substituted “$203” for “$190”.
 
-1976—Pub. L. 94–433, §§ 301, 404(24), substituted “$190” for “$175” and “the Administrator shall prescribe” for “he shall prescribe”.
+1976—Pub. L. 94–433, §§ 301, 404(24), substituted “$190” for “$175” and “the Administrator shall prescribe” for “he shall prescribe”.
 
 1975—Pub. L. 94–71 substituted “$175” for “$150”.
 
@@ -5701,7 +5701,7 @@ Pub. L. 97–253, § 405(d), (h), eff. Jan. 1, 1983, substituted “$304” fo
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–328, div. U, title II, § 201(c), Dec. 29, 2022, 136 Stat. 5447, provided that:
+Pub. L. 117–328, div. U, title II, § 201(c), Dec. 29, 2022, 136 Stat. 5447, provided that:
 
 > “The amendments made by subsection (b) [amending this section] shall apply with respect to—
 
@@ -5805,13 +5805,13 @@ Section effective first day of second calendar month which begins after June 30,
 
 **Repeal**
 
-Section 405(d) of Pub. L. 97–253, cited as a credit to this section, was repealed by Pub. L. 97–306, §§ 107, 108, Oct. 14, 1982, 96 Stat. 1431, 1432, eff. Oct. 1, 1982.
+Section 405(d) of Pub. L. 97–253, cited as a credit to this section, was repealed by Pub. L. 97–306, §§ 107, 108, Oct. 14, 1982, 96 Stat. 1431, 1432, eff. Oct. 1, 1982.
 
 **Special Benefit Allowance Rates**
 
 For current VA special benefit allowance rates, see https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/
 
-### § 1163. Trial work periods and vocational rehabilitation for certain veterans with total disability ratings
+### § 1163. Trial work periods and vocational rehabilitation for certain veterans with total disability ratings
 
 **(a)**
 
@@ -5833,17 +5833,17 @@ For current VA special benefit allowance rates, see https://www.va.gov/disabilit
 
 **(2)** After providing the notice required under paragraph (1) of this subsection, the Secretary shall offer the veteran the opportunity for an evaluation under section 3106(a) of this title.
 
-(Added Pub. L. 98–543, title I, § 111(a)(1), Oct. 24, 1984, 98 Stat. 2738, § 363; amended Pub. L. 100–687, div. B, title XIII, § 1301, Nov. 18, 1988, 102 Stat. 4127; renumbered § 1163 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–291, § 2(a), May 20, 1992, 106 Stat. 178; Pub. L. 102–568, title IV, § 401(a)–(d)(1), Oct. 29, 1992, 106 Stat. 4336.)
+(Added Pub. L. 98–543, title I, § 111(a)(1), Oct. 24, 1984, 98 Stat. 2738, § 363; amended Pub. L. 100–687, div. B, title XIII, § 1301, Nov. 18, 1988, 102 Stat. 4127; renumbered § 1163 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–291, § 2(a), May 20, 1992, 106 Stat. 178; Pub. L. 102–568, title IV, § 401(a)–(d)(1), Oct. 29, 1992, 106 Stat. 4336.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Pub. L. 102–568, § 401(d)(1), substituted “Trial work periods and vocational rehabilitation for certain veterans with total disability ratings” for “Temporary program for trial work periods and vocational rehabilitation for certain veterans with total disability ratings” as section catchline.
+1992—Pub. L. 102–568, § 401(d)(1), substituted “Trial work periods and vocational rehabilitation for certain veterans with total disability ratings” for “Temporary program for trial work periods and vocational rehabilitation for certain veterans with total disability ratings” as section catchline.
 
-Subsec. (a)(1). Pub. L. 102–568, § 401(a)(1), substituted “after January 31, 1985,” for “during the program period”.
+Subsec. (a)(1). Pub. L. 102–568, § 401(a)(1), substituted “after January 31, 1985,” for “during the program period”.
 
-Subsec. (a)(2). Pub. L. 102–568, § 401(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this section:
+Subsec. (a)(2). Pub. L. 102–568, § 401(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this section:
 
 “(A) The term ‘qualified veteran’ means a veteran who has a service-connected disability, or service-connected disabilities, not rated as total but who has been awarded a rating of total disability by reason of inability to secure or follow a substantially gainful occupation as a result of such disability or disabilities.
 
@@ -5851,39 +5851,39 @@ Subsec. (a)(2). Pub. L. 102–568, § 401(a)(2), amended par. (2) generally. P
 
 Pub. L. 102–291 substituted “December 31, 1992” for “January 31, 1992” in subpar. (B).
 
-Subsec. (b). Pub. L. 102–568, § 401(b), substituted “The Secretary” for “During the program period, the Secretary”.
+Subsec. (b). Pub. L. 102–568, § 401(b), substituted “The Secretary” for “During the program period, the Secretary”.
 
-Subsec. (c)(1). Pub. L. 102–568, § 401(c), substituted “after January 31, 1985, of a rating of total disability described in subsection (a)(2)” for “during the program period of a rating of total disability described in subsection (a)(2)(A)”.
+Subsec. (c)(1). Pub. L. 102–568, § 401(c), substituted “after January 31, 1985, of a rating of total disability described in subsection (a)(2)” for “during the program period of a rating of total disability described in subsection (a)(2)(A)”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 363 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 363 of this title as this section.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3104(a)(2)” for “1504(a)(2)” and “3104(a)(5)” for “1504(a)(5)”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3104(a)(2)” for “1504(a)(2)” and “3104(a)(5)” for “1504(a)(5)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3106(a)” for “1506(a)” in par. (2).
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “3106(a)” for “1506(a)” in par. (2).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in pars. (1) and (2).
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in pars. (1) and (2).
 
-1988—Subsec. (a)(2)(B). Pub. L. 100–687, § 1301(a), substituted “1992” for “1989”.
+1988—Subsec. (a)(2)(B). Pub. L. 100–687, § 1301(a), substituted “1992” for “1989”.
 
-Subsec. (c)(1). Pub. L. 100–687, § 1301(b)(2), (3), substituted “(1) In” for “(1)(A) Except as provided in paragraph (4) of this subsection, in”, redesignated cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively, and struck out former subpar. (B) which required that, after providing notice, Administrator arrange promptly for evaluation to determine whether achievement of vocational goal by veteran is feasible.
+Subsec. (c)(1). Pub. L. 100–687, § 1301(b)(2), (3), substituted “(1) In” for “(1)(A) Except as provided in paragraph (4) of this subsection, in”, redesignated cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively, and struck out former subpar. (B) which required that, after providing notice, Administrator arrange promptly for evaluation to determine whether achievement of vocational goal by veteran is feasible.
 
-Subsec. (c)(2). Pub. L. 100–687, § 1301(b)(1), (3)(B), added par. (2) and struck out former par. (2) which related to failure of veteran to participate in evaluation, and reduction of disability rating.
+Subsec. (c)(2). Pub. L. 100–687, § 1301(b)(1), (3)(B), added par. (2) and struck out former par. (2) which related to failure of veteran to participate in evaluation, and reduction of disability rating.
 
-Subsec. (c)(3). Pub. L. 100–687, § 1301(b)(1), struck out par. (3) which related to individualized written plan of vocational rehabilitation after completion of evaluation, and failure to pursue program of vocational rehabilitation described in such plan.
+Subsec. (c)(3). Pub. L. 100–687, § 1301(b)(1), struck out par. (3) which related to individualized written plan of vocational rehabilitation after completion of evaluation, and failure to pursue program of vocational rehabilitation described in such plan.
 
-Subsec. (c)(4). Pub. L. 100–687, § 1301(b)(1), struck out par. (4) which read as follows: “This subsection does not apply with respect to a veteran as to whom the Administrator determines that an evaluation of vocational rehabilitation potential or achievement of a vocational goal is not reasonably feasible.”
+Subsec. (c)(4). Pub. L. 100–687, § 1301(b)(1), struck out par. (4) which read as follows: “This subsection does not apply with respect to a veteran as to whom the Administrator determines that an evaluation of vocational rehabilitation potential or achievement of a vocational goal is not reasonably feasible.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–291, § 2(d), May 20, 1992, 106 Stat. 178, provided that: “The amendments made by subsections (a) through (c) [amending this section and sections 1524 and 1525 of this title] shall take effect as of January 31, 1992.”
+Pub. L. 102–291, § 2(d), May 20, 1992, 106 Stat. 178, provided that: “The amendments made by subsections (a) through (c) [amending this section and sections 1524 and 1525 of this title] shall take effect as of January 31, 1992.”
 
 **Ratification of Actions of Secretary of Veterans Affairs During Lapsed Period**
 
-Pub. L. 102–291, § 2(e), May 20, 1992, 106 Stat. 178, provided that:
+Pub. L. 102–291, § 2(e), May 20, 1992, 106 Stat. 178, provided that:
 
 > “The following actions of the Secretary of Veterans Affairs during the period beginning on February 1, 1992, and ending on the date of the enactment of this Act [May 20, 1992] are hereby ratified with respect to that period:
 
@@ -5895,13 +5895,13 @@ Pub. L. 102–291, § 2(e), May 20, 1992, 106 Stat. 178, provided that:
 
 **Information; Temporary Program; Administrator**
 
-Pub. L. 98–543, title I, § 111(b), Oct. 24, 1984, 98 Stat. 2739, directed Administrator of Veterans’ Affairs to provide, not later than Apr. 1, 1985, to certain veterans with service-connected disabilities, a statement containing information explaining subsec. (b) of this section, information explaining purposes and availability of and eligibility for, and procedures for pursuing, a vocational rehabilitation program under chapter 31 of this title, and a summary description of scope of services and assistance available under chapter 31.
+Pub. L. 98–543, title I, § 111(b), Oct. 24, 1984, 98 Stat. 2739, directed Administrator of Veterans’ Affairs to provide, not later than Apr. 1, 1985, to certain veterans with service-connected disabilities, a statement containing information explaining subsec. (b) of this section, information explaining purposes and availability of and eligibility for, and procedures for pursuing, a vocational rehabilitation program under chapter 31 of this title, and a summary description of scope of services and assistance available under chapter 31.
 
 **Report to Congressional Committees; Trial Program**
 
-Pub. L. 98–543, title I, § 111(c), Oct. 24, 1984, 98 Stat. 2739, as amended by Pub. L. 99–576, title VII, § 703(a)(2), Oct. 28, 1986, 100 Stat. 3303, directed Administrator of Veterans’ Affairs to submit, not later than Apr. 15, 1988, to Committees on Veterans’ Affairs of Senate and House of Representatives a report on results of implementation of this section during the three-year period beginning on Feb. 1, 1985.
+Pub. L. 98–543, title I, § 111(c), Oct. 24, 1984, 98 Stat. 2739, as amended by Pub. L. 99–576, title VII, § 703(a)(2), Oct. 28, 1986, 100 Stat. 3303, directed Administrator of Veterans’ Affairs to submit, not later than Apr. 15, 1988, to Committees on Veterans’ Affairs of Senate and House of Representatives a report on results of implementation of this section during the three-year period beginning on Feb. 1, 1985.
 
-### § 1164. Presumptions of service-connection for Coronavirus Disease 2019
+### § 1164. Presumptions of service-connection for Coronavirus Disease 2019
 
 **(a) Presumptions Generally.—**
 
@@ -5953,13 +5953,13 @@ Pub. L. 98–543, title I, § 111(c), Oct. 24, 1984, 98 Stat. 2739, as amended
 
 **(e) Medical Examinations and Opinions.—** If there is a question of whether the symptoms experienced by an individual described in paragraph (1) of subsection (a) during a manifestation period described in paragraph (2) of such subsection are attributable to COVID–19 resulting from infection with SARS–CoV–2 during the qualifying period of duty, in determining whether a medical examination or medical opinion is necessary to make a decision on the claim within the meaning of section 5103A(d) of this title, a qualifying period of duty described in subsection (b) of this section shall be treated as if it were active military, naval, or air service for purposes of section 5103A(d)(2)(B) of this title.
 
-(Added Pub. L. 116–315, title IV, § 4101(a), Jan. 5, 2021, 134 Stat. 5006.)
+(Added Pub. L. 116–315, title IV, § 4101(a), Jan. 5, 2021, 134 Stat. 5006.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Emergencies Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 The date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020, referred to in subsec. (b)(1)(B), (2)(B), is the date of enactment of Pub. L. 116–315, which was approved Jan. 5, 2021.
 
@@ -5971,7 +5971,7 @@ Another section 1164 was renumbered section 1166 of this title.
 
 **Medical Opinions for Certain Veterans With Service-Connected Disabilities Who Die of COVID–19**
 
-Pub. L. 117–328, div. U, title II, § 202(a), (b), Dec. 29, 2022, 136 Stat. 5447, provided that:
+Pub. L. 117–328, div. U, title II, § 202(a), (b), Dec. 29, 2022, 136 Stat. 5447, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall secure a medical opinion to determine if a service-connected disability was the principal or contributory cause of death before notifying the survivor of the final decision in any case in which all of the following factors are met:
 
@@ -5989,7 +5989,7 @@ Pub. L. 117–328, div. U, title II, § 202(a), (b), Dec. 29, 2022, 136 Stat. 
 
 > **“(b) Outreach.—** The Secretary shall provide information to veterans, dependents, and veterans service organizations about applying to dependency and indemnity compensation when a veteran dies from COVID–19. The Secretary shall provide such information through the website of the Department of Veterans Affairs and via other outreach mechanisms.”
 
-### § 1165. Choice of sex of medical examiner for certain disabilities
+### § 1165. Choice of sex of medical examiner for certain disabilities
 
 **(a) In General.—** The Secretary shall ensure that a veteran who requires a medical examination from a covered medical provider in support of a claim for compensation under this chapter for a mental or physical health condition that resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment may designate the sex of the medical provider who provides such medical examination.
 
@@ -5997,9 +5997,9 @@ Pub. L. 117–328, div. U, title II, § 202(a), (b), Dec. 29, 2022, 136 Stat. 
 
 **(c) Notice.—** Before providing any medical examination for a veteran in support for a claim described in subsection (a), the Secretary shall notify the veteran of the veteran’s rights under subsection (a).
 
-(Added Pub. L. 116–315, title V, § 5502(a), Jan. 5, 2021, 134 Stat. 5050.)
+(Added Pub. L. 116–315, title V, § 5502(a), Jan. 5, 2021, 134 Stat. 5050.)
 
-### § 1166. Claims involving military sexual trauma
+### § 1166. Claims involving military sexual trauma
 
 **(a) Processing.—**
 
@@ -6031,31 +6031,31 @@ Pub. L. 117–328, div. U, title II, § 202(a), (b), Dec. 29, 2022, 136 Stat. 
 
 **(2)** The term “military sexual trauma” means, with respect to a veteran, a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment during active military, naval, air, or space service.
 
-(Added Pub. L. 116–315, title V, § 5501(a)(1), Jan. 5, 2021, 134 Stat. 5048, § 1164; renumbered § 1166 and amended Pub. L. 117–16, § 7(a)(1), (b)(4)(A), June 8, 2021, 135 Stat. 284, 285; Pub. L. 117–271, § 1(a), (b)(1), Dec. 27, 2022, 136 Stat. 4179, 4180.)
+(Added Pub. L. 116–315, title V, § 5501(a)(1), Jan. 5, 2021, 134 Stat. 5048, § 1164; renumbered § 1166 and amended Pub. L. 117–16, § 7(a)(1), (b)(4)(A), June 8, 2021, 135 Stat. 284, 285; Pub. L. 117–271, § 1(a), (b)(1), Dec. 27, 2022, 136 Stat. 4179, 4180.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–271, § 1(b)(1), substituted “Claims” for “Specialized teams to evaluate claims” in section catchline.
+2022—Pub. L. 117–271, § 1(b)(1), substituted “Claims” for “Specialized teams to evaluate claims” in section catchline.
 
-Subsec. (a). Pub. L. 117–271, § 1(a)(2)(B), (C), designated existing provisions as par. (1) and added par. (2).
+Subsec. (a). Pub. L. 117–271, § 1(a)(2)(B), (C), designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 117–271, § 1(a)(1), (2)(A), substituted “Processing” for “In General” in heading and “air, or space service” for “or air service” in text.
+Pub. L. 117–271, § 1(a)(1), (2)(A), substituted “Processing” for “In General” in heading and “air, or space service” for “or air service” in text.
 
-Subsec. (b). Pub. L. 117–271, § 1(a)(4), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 117–271, § 1(a)(4), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 117–271, § 1(a)(5), designated existing provisions as par. (1) and added pars. (2) and (3).
+Subsec. (c). Pub. L. 117–271, § 1(a)(5), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Pub. L. 117–271, § 1(a)(3), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Pub. L. 117–271, § 1(a)(3), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (c)(2). Pub. L. 117–271, § 1(a)(1), substituted “air, or space service” for “or air service”.
+Subsec. (c)(2). Pub. L. 117–271, § 1(a)(1), substituted “air, or space service” for “or air service”.
 
-Subsec. (d). Pub. L. 117–271, § 1(a)(3), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 117–271, § 1(a)(3), redesignated subsec. (c) as (d).
 
-2021—Pub. L. 117–16, § 7(b)(4)(A), made technical correction to directory language of Pub. L. 116–315, § 5501(a)(1), which enacted this section.
+2021—Pub. L. 117–16, § 7(b)(4)(A), made technical correction to directory language of Pub. L. 116–315, § 5501(a)(1), which enacted this section.
 
-Pub. L. 117–16, § 7(a)(1), renumbered section 1164 of this title, relating to specialized teams to evaluate claims involving military sexual trauma, as this section.
+Pub. L. 117–16, § 7(a)(1), renumbered section 1164 of this title, relating to specialized teams to evaluate claims involving military sexual trauma, as this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6113,7 +6113,7 @@ Pub. L. 117–303, Dec. 27, 2022, 136 Stat. 4387, provided that:
 
 **Review of Language and Practices Used in Connection With Claims Involving Military Sexual Trauma**
 
-Pub. L. 117–300, § 2, Dec. 27, 2022, 136 Stat. 4379, provided that:
+Pub. L. 117–300, § 2, Dec. 27, 2022, 136 Stat. 4379, provided that:
 
 > **“(a) Board of Veterans’ Appeals.—**
 
@@ -6161,7 +6161,7 @@ Pub. L. 117–300, § 2, Dec. 27, 2022, 136 Stat. 4379, provided that:
 
 > **“(C)** ensures that the language or practices do not retraumatize the individual.”
 
-### § 1167.1 [footnote: 1 Another section 1167 is set out after section 1168.] Outreach pursuant to changes in presumptions of service connection
+### § 1167.1 [footnote: 1 Another section 1167 is set out after section 1168.] Outreach pursuant to changes in presumptions of service connection
 
 **(a) In General.—** Whenever a law, including through a regulation or Federal court decision or settlement, establishes or modifies a presumption of service connection, the Secretary shall—
 
@@ -6187,17 +6187,17 @@ Pub. L. 117–300, § 2, Dec. 27, 2022, 136 Stat. 4379, provided that:
 
 **(C)** The Secretary shall contact each claimant identified under subsection (a) in the same manner that the Department last provided notice of a decision.
 
-(Added Pub. L. 117–168, title II, § 203(a), Aug. 10, 2022, 136 Stat. 1775.)
+(Added Pub. L. 117–168, title II, § 203(a), Aug. 10, 2022, 136 Stat. 1775.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 117–168, title II, § 203(b), Aug. 10, 2022, 136 Stat. 1776, provided that: “Section 1167 of title 38, United States Code, as added by subsection (a), shall apply with respect to presumptions of service connection established or modified on or after the date of the enactment of this Act [Aug. 10, 2022], including pursuant to amendments made by this Act [see Short Title of 2022 Amendment note set out under section 101 of this title].”
+Pub. L. 117–168, title II, § 203(b), Aug. 10, 2022, 136 Stat. 1776, provided that: “Section 1167 of title 38, United States Code, as added by subsection (a), shall apply with respect to presumptions of service connection established or modified on or after the date of the enactment of this Act [Aug. 10, 2022], including pursuant to amendments made by this Act [see Short Title of 2022 Amendment note set out under section 101 of this title].”
 
 **Rule of Construction**
 
-Pub. L. 117–168, title II, § 203(c), Aug. 10, 2022, 136 Stat. 1776, provided that:
+Pub. L. 117–168, title II, § 203(c), Aug. 10, 2022, 136 Stat. 1776, provided that:
 
 > “Nothing in this section [enacting this section and provisions set out as a note above] shall be construed as—
 
@@ -6205,7 +6205,7 @@ Pub. L. 117–168, title II, § 203(c), Aug. 10, 2022, 136 Stat. 1776, provide
 
 > **“(2)** requiring a retroactively applied effective date of a supplemental claim earlier than the date a presumption of service connection is established or modified.”
 
-### § 1168. Medical nexus examinations for toxic exposure risk activities
+### § 1168. Medical nexus examinations for toxic exposure risk activities
 
 **(a) Medical Examinations and Medical Opinions.—**
 
@@ -6227,9 +6227,9 @@ Pub. L. 117–168, title II, § 203(c), Aug. 10, 2022, 136 Stat. 1776, provide
 
 **(c) Toxic Exposure Risk Activity Defined.—** In this section, the term “toxic exposure risk activity” has the meaning given that term in section 1710(e)(4) of this title.
 
-(Added Pub. L. 117–168, title III, § 303, Aug. 10, 2022, 136 Stat. 1779.)
+(Added Pub. L. 117–168, title III, § 303, Aug. 10, 2022, 136 Stat. 1779.)
 
-### § 1167.1 [footnote: 1 Another section 1167 is set out preceding section 1168.] Mental health consultations
+### § 1167.1 [footnote: 1 Another section 1167 is set out preceding section 1168.] Mental health consultations
 
 **(a) In General.—** Not later than 30 days after the date on which a veteran submits to the Secretary a claim for compensation under this chapter for a service-connected disability relating to a mental health diagnosis, the Secretary shall offer the veteran a mental health consultation to assess the mental health needs of, and care options for, the veteran.
 
@@ -6241,11 +6241,11 @@ Pub. L. 117–168, title II, § 203(c), Aug. 10, 2022, 136 Stat. 1776, provide
 
 **(c) Rule of Construction.—** A consultation provided to a veteran under this section shall not be construed as a determination that any disability of such veteran is service-connected for the purposes of any benefit under the laws administered by the Secretary.
 
-(Added Pub. L. 117–328, div. V, title IV, § 404(a)(1), Dec. 29, 2022, 136 Stat. 5512.)
+(Added Pub. L. 117–328, div. V, title IV, § 404(a)(1), Dec. 29, 2022, 136 Stat. 5512.)
 
 ## SUBCHAPTER VII—DETERMINATIONS RELATING TO PRESUMPTIONS OF SERVICE CONNECTION BASED ON TOXIC EXPOSURE
 
-### § 1171. Procedures to determine presumptions of service connection based on toxic exposure; definitions
+### § 1171. Procedures to determine presumptions of service connection based on toxic exposure; definitions
 
 **(a) Procedures.—** The Secretary shall determine whether to establish, or to remove, presumptions of service connection based on toxic exposure pursuant to this subchapter, whereby—
 
@@ -6275,7 +6275,7 @@ Pub. L. 117–168, title II, § 203(c), Aug. 10, 2022, 136 Stat. 1776, provide
 
 **(2)** The term “Individual Longitudinal Exposure Record” means the data system maintained under section 996 of title 10.
 
-(Added Pub. L. 117–168, title II, § 202(a), Aug. 10, 2022, 136 Stat. 1767; amended Pub. L. 119–60, div. A, title V, § 521(b), Dec. 18, 2025, 139 Stat. 864.)
+(Added Pub. L. 117–168, title II, § 202(a), Aug. 10, 2022, 136 Stat. 1767; amended Pub. L. 119–60, div. A, title V, § 521(b), Dec. 18, 2025, 139 Stat. 864.)
 
 **Editorial Notes**
 
@@ -6287,7 +6287,7 @@ Pub. L. 117–168, title II, § 203(c), Aug. 10, 2022, 136 Stat. 1776, provide
 
 **Correction of Exposure Records by Members of the Armed Forces and Veterans**
 
-Pub. L. 117–168, title VIII, § 803, Aug. 10, 2022, 136 Stat. 1802, provided that:
+Pub. L. 117–168, title VIII, § 803, Aug. 10, 2022, 136 Stat. 1802, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall coordinate with the Secretary of Defense to provide a means for veterans to update their records as necessary to reflect exposures to occupational or environmental hazards by such member or veteran in the Individual Longitudinal Exposure Record.
 
@@ -6303,7 +6303,7 @@ Pub. L. 117–168, title VIII, § 803, Aug. 10, 2022, 136 Stat. 1802, provided
 
 > **“(2) Toxic exposure.—** The term ‘toxic exposure’ has the meaning given such term in section 101 of title 38, United States Code, as amended by section 102(b).”
 
-### § 1172. Annual notice and opportunity for public comment
+### § 1172. Annual notice and opportunity for public comment
 
 **(a) Notice Required.—**
 
@@ -6367,9 +6367,9 @@ Pub. L. 117–168, title VIII, § 803, Aug. 10, 2022, 136 Stat. 1802, provided
 
 **(f) Responses by Secretary.—** In response to each report submitted under subsection (e), the Secretary shall, not later than 30 days after receiving the report, initiate a formal evaluation pursuant to section 1173 of this title.
 
-(Added Pub. L. 117–168, title II, § 202(a), Aug. 10, 2022, 136 Stat. 1768.)
+(Added Pub. L. 117–168, title II, § 202(a), Aug. 10, 2022, 136 Stat. 1768.)
 
-### § 1173. Formal evaluation of recommendations
+### § 1173. Formal evaluation of recommendations
 
 **(a) Formal Evaluations.—** The Secretary shall establish a process to conduct a formal evaluation with respect to each recommendation made by the Working Group under section 1172 of this title.
 
@@ -6421,9 +6421,9 @@ Pub. L. 117–168, title VIII, § 803, Aug. 10, 2022, 136 Stat. 1802, provided
 
 **(d) Recommendation for Establishing a Presumption of Service Connection.—** Not later than 120 days after the date on which a formal evaluation is commenced, the element of the Department that conducts the evaluation shall submit to the Secretary a recommendation with respect to establishing a presumption of service connection for the toxic exposure and illness, or modifying an existing presumption of service connection, covered by the evaluation.
 
-(Added Pub. L. 117–168, title II, § 202(a), Aug. 10, 2022, 136 Stat. 1769.)
+(Added Pub. L. 117–168, title II, § 202(a), Aug. 10, 2022, 136 Stat. 1769.)
 
-### § 1174. Regulations regarding presumptions of service connection based on toxic exposure
+### § 1174. Regulations regarding presumptions of service connection based on toxic exposure
 
 **(a) Action Upon Recommendation.—** Not later than 160 days after the date on which the Secretary receives a recommendation to establish or modify a presumption of service connection under section 1173 of this title—
 
@@ -6455,7 +6455,7 @@ Pub. L. 117–168, title VIII, § 803, Aug. 10, 2022, 136 Stat. 1802, provided
 
 **(C)** no veteran or survivor covered under subparagraph (A) or (B) shall have their compensation reduced solely because of the removal of an illness pursuant to paragraph (1).
 
-(Added Pub. L. 117–168, title II, § 202(a), Aug. 10, 2022, 136 Stat. 1770.)
+(Added Pub. L. 117–168, title II, § 202(a), Aug. 10, 2022, 136 Stat. 1770.)
 
 **Editorial Notes**
 
@@ -6463,7 +6463,7 @@ Pub. L. 117–168, title VIII, § 803, Aug. 10, 2022, 136 Stat. 1802, provided
 
 Title IV of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022, referred to in subsec. (b)(1)(A)(ii), is title IV of Pub. L. 117–168, Aug. 10, 2022, 136 Stat. 1780, which enacted section 1120 of this title, amended sections 1112, 1113, 1116, 1117, and 1710 of this title, and enacted provisions set out as notes under sections 101, 1116, and 1120 of this title. For complete classification of title IV to the Code, see Tables.
 
-### § 1175. Authority to modify process; congressional oversight
+### § 1175. Authority to modify process; congressional oversight
 
 **(a) In General.—** The Secretary may modify the process under which the working group established under subsection (b) of section 1172 of this title conducts assessments under such section, the Secretary conducts formal evaluations under section 1173 of this title, and issues regulations under section 1174 of this title if—
 
@@ -6477,9 +6477,9 @@ Title IV of the Sergeant First Class Heath Robinson Honoring our Promise to Addr
 
 **(2)** A description of any exceptions to the requirements of such sections that are proposed because of limited available scientific evidence, and a description of how such evaluations will be conducted.
 
-(Added Pub. L. 117–168, title II, § 202(a), Aug. 10, 2022, 136 Stat. 1771.)
+(Added Pub. L. 117–168, title II, § 202(a), Aug. 10, 2022, 136 Stat. 1771.)
 
-### § 1176. Agreement with National Academies of Sciences, Engineering, and Medicine concerning toxic exposures
+### § 1176. Agreement with National Academies of Sciences, Engineering, and Medicine concerning toxic exposures
 
 **(a) Purpose.—** The purpose of this section is to provide for the National Academies of Sciences, Engineering, and Medicine (in this section referred to as the “Academies”), an independent nonprofit scientific organization with appropriate expertise that is not part of the Federal Government, to review and evaluate the available scientific evidence regarding associations between diseases and toxic exposures.
 
@@ -6545,7 +6545,7 @@ Title IV of the Sergeant First Class Heath Robinson Honoring our Promise to Addr
 
 **(2)** If the Secretary enters into an agreement with another organization as described in paragraph (1), any reference in this subchapter to the Academies shall be treated as a reference to the other organization.
 
-(Added Pub. L. 117–168, title II, § 202(a), Aug. 10, 2022, 136 Stat. 1772.)
+(Added Pub. L. 117–168, title II, § 202(a), Aug. 10, 2022, 136 Stat. 1772.)
 
 **Editorial Notes**
 

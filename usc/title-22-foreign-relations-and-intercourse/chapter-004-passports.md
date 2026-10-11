@@ -15,15 +15,15 @@ retrieved: 2026-10-11
 
 # CHAPTER 4—PASSPORTS
 
-## § 211. Repealed. July 3, 1926, ch. 772, § 4, 44 Stat. 887
+## § 211. Repealed. July 3, 1926, ch. 772, § 4, 44 Stat. 887
 
-Section, R.S. § 4075; act June 14, 1902, ch. 1088, § 1, 32 Stat. 386, provided for issuance of passports. See section 211a of this title.
+Section, R.S. § 4075; act June 14, 1902, ch. 1088, § 1, 32 Stat. 386, provided for issuance of passports. See section 211a of this title.
 
-## § 211a. Authority to grant, issue, and verify passports
+## § 211a. Authority to grant, issue, and verify passports
 
 The Secretary of State may grant and issue passports, and cause passports to be granted, issued, and verified in foreign countries by diplomatic and consular officers of the United States, and by such other employees of the Department of State who are citizens of the United States as the Secretary of State may designate, and by the chief or other executive officer of the insular possessions of the United States, and through the use of Department of State electronic systems, under such rules as the President shall designate and prescribe for and on behalf of the United States, and no other entity shall grant, issue, or verify such passports. Unless authorized by law, a passport may not be designated as restricted for travel to or for use in any country other than a country with which the United States is at war, where armed hostilities are in progress, or where there is imminent danger to the public health or the physical safety of United States travellers.
 
-(July 3, 1926, ch. 772, § 1, 44 Stat. 887; Pub. L. 95–426, title I, § 124, Oct. 7, 1978, 92 Stat. 971; Pub. L. 103–236, title I, § 127(a), Apr. 30, 1994, 108 Stat. 394; Pub. L. 103–415, § 1(b), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 118–159, div. G, title LXXV, § 7506, Dec. 23, 2024, 138 Stat. 2547.)
+(July 3, 1926, ch. 772, § 1, 44 Stat. 887; Pub. L. 95–426, title I, § 124, Oct. 7, 1978, 92 Stat. 971; Pub. L. 103–236, title I, § 127(a), Apr. 30, 1994, 108 Stat. 394; Pub. L. 103–415, § 1(b), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 118–159, div. G, title LXXV, § 7506, Dec. 23, 2024, 138 Stat. 2547.)
 
 **Editorial Notes**
 
@@ -31,9 +31,9 @@ The Secretary of State may grant and issue passports, and cause passports to be 
 
 2024—Pub. L. 118–159 inserted “and through the use of Department of State electronic systems,” after “the insular possessions of the United States,” and substituted “entity” for “person”.
 
-1994—Pub. L. 103–415, § 1(b)(1), substituted “such other employees” for “such employees”.
+1994—Pub. L. 103–415, § 1(b)(1), substituted “such other employees” for “such employees”.
 
-Pub. L. 103–415, § 1(b)(2), which directed the amendment of this section by substituting “United States” for “United States,” was executed by making the substitution after “who are citizens of the”, to reflect the probable intent of Congress.
+Pub. L. 103–415, § 1(b)(2), which directed the amendment of this section by substituting “United States” for “United States,” was executed by making the substitution after “who are citizens of the”, to reflect the probable intent of Congress.
 
 Pub. L. 103–236 substituted “by diplomatic and consular officers of the United States, and by other employees of the Department of State who are citizens of the United States,” for “by diplomatic representatives of the United States, and by such consul generals, consuls, or vice consuls when in charge,”.
 
@@ -43,15 +43,15 @@ Pub. L. 103–236 substituted “by diplomatic and consular officers of the Unit
 
 **Short Title of 2023 Amendment**
 
-Pub. L. 118–31, div. F, title LXI, § 6114(a), Dec. 22, 2023, 137 Stat. 968, provided that: “This section [amending section 214 of this title] may be cited as the ‘First Responders Passport Act’.”
+Pub. L. 118–31, div. F, title LXI, § 6114(a), Dec. 22, 2023, 137 Stat. 968, provided that: “This section [amending section 214 of this title] may be cited as the ‘First Responders Passport Act’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–167, § 1, Jan. 10, 2006, 119 Stat. 3578, provided that: “This Act [amending section 214 of this title] may be cited as the ‘Passport Services Enhancement Act of 2005’.”
+Pub. L. 109–167, § 1, Jan. 10, 2006, 119 Stat. 3578, provided that: “This Act [amending section 214 of this title] may be cited as the ‘Passport Services Enhancement Act of 2005’.”
 
 **Passport System Reform and Backlog Prevention**
 
-Pub. L. 118–159, div. G, title LXXV, § 7508, Dec. 23, 2024, 138 Stat. 2548, provided that:
+Pub. L. 118–159, div. G, title LXXV, § 7508, Dec. 23, 2024, 138 Stat. 2548, provided that:
 
 > **“(a) Standards for Passport Issuance Process.—** In administering and modernizing the passport issuance process, the Secretary [of State] shall evaluate the performance of such process against the following criteria:
 
@@ -137,11 +137,11 @@ Pub. L. 118–159, div. G, title LXXV, § 7508, Dec. 23, 2024, 138 Stat. 2548,
 
 **Special Hiring Authority for Passport Services**
 
-Pub. L. 118–31, div. F, title LXI, § 6101, Dec. 22, 2023, 137 Stat. 965, provided that: “During the 3-year period beginning on the date of the enactment of this division [Dec. 22, 2023], the Secretary [of State], without regard to the provisions under sections 3309 through 3318 of title 5, United States Code, may directly appoint up to 80 candidates to positions in the competitive service (as defined in section 2102 of such title) at the Department [of State] in the Passport and Visa Examining Series 0967.”
+Pub. L. 118–31, div. F, title LXI, § 6101, Dec. 22, 2023, 137 Stat. 965, provided that: “During the 3-year period beginning on the date of the enactment of this division [Dec. 22, 2023], the Secretary [of State], without regard to the provisions under sections 3309 through 3318 of title 5, United States Code, may directly appoint up to 80 candidates to positions in the competitive service (as defined in section 2102 of such title) at the Department [of State] in the Passport and Visa Examining Series 0967.”
 
 **Passport Travel Advisories**
 
-Pub. L. 118–31, div. F, title LXI, § 6103, Dec. 22, 2023, 137 Stat. 965, as amended by Pub. L. 118–159, div. G, title LXXVII, § 7706(a), Dec. 23, 2024, 138 Stat. 2555, provided that:
+Pub. L. 118–31, div. F, title LXI, § 6103, Dec. 22, 2023, 137 Stat. 965, as amended by Pub. L. 118–159, div. G, title LXXVII, § 7706(a), Dec. 23, 2024, 138 Stat. 2555, provided that:
 
 > “Not later than 180 days after the date of the enactment of this division [Dec. 22, 2023], the Department [of State] shall make prominent in United States regular passports, on the first three pages of the passport, the following information:
 
@@ -157,15 +157,15 @@ Pub. L. 118–31, div. F, title LXI, § 6103, Dec. 22, 2023, 137 Stat. 965, as
 
 **Limitations on Use of Funds for Procurement of Paper for Passports**
 
-Pub. L. 100–440, title VI, § 617(b), Sept. 22, 1988, 102 Stat. 1755, provided that: “None of the funds made available by this or any other Act with respect to any fiscal year may be used to procure paper for passports granted or issued pursuant to the first section of the Act entitled ‘An Act to regulate the issue and validity of passports, and for other purposes’, approved July 3, 1926 (22 U.S.C. 211a), if such paper is manufactured outside of the United States or its possessions or is procured from any corporation or other entity owned or controlled by persons not citizens of the United States. This subsection shall not apply if no domestic manufacturer for passport paper exists.”
+Pub. L. 100–440, title VI, § 617(b), Sept. 22, 1988, 102 Stat. 1755, provided that: “None of the funds made available by this or any other Act with respect to any fiscal year may be used to procure paper for passports granted or issued pursuant to the first section of the Act entitled ‘An Act to regulate the issue and validity of passports, and for other purposes’, approved July 3, 1926 (22 U.S.C. 211a), if such paper is manufactured outside of the United States or its possessions or is procured from any corporation or other entity owned or controlled by persons not citizens of the United States. This subsection shall not apply if no domestic manufacturer for passport paper exists.”
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 100–202, § 101(m) [title VI, § 622(b)], Dec. 22, 1987, 101 Stat. 1329–390, 1329–428.
+Pub. L. 100–202, § 101(m) [title VI, § 622(b)], Dec. 22, 1987, 101 Stat. 1329–390, 1329–428.
 
 **Persons Entitled to Diplomatic or Official United States Passport**
 
-Pub. L. 95–426, title I, § 125, Oct. 7, 1978, 92 Stat. 971, provided that: “It is the sense of the Congress that a diplomatic or official United States passport should be issued only to, and used only by, a person who holds a diplomatic or other official position in the United States Government or who is otherwise eligible for such a passport under conditions specifically authorized by law.”
+Pub. L. 95–426, title I, § 125, Oct. 7, 1978, 92 Stat. 971, provided that: “It is the sense of the Congress that a diplomatic or official United States passport should be issued only to, and used only by, a person who holds a diplomatic or other official position in the United States Government or who is otherwise eligible for such a passport under conditions specifically authorized by law.”
 
 **Executive Documents**
 
@@ -187,23 +187,23 @@ Sec. 3. *Saving provisions*. All rules and regulations contained in the Executiv
 
 Lyndon B. Johnson.
 
-## § 212. Persons entitled to passport
+## § 212. Persons entitled to passport
 
 No passport shall be granted or issued to or verified for any other persons than those owing allegiance, whether citizens or not, to the United States.
 
-(R.S. § 4076; June 14, 1902, ch. 1088, § 2, 32 Stat. 386.)
+(R.S. § 4076; June 14, 1902, ch. 1088, § 2, 32 Stat. 386.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 4076 derived from act May 30, 1866, ch. 102, 14 Stat. 54.
+R.S. § 4076 derived from act May 30, 1866, ch. 102, 14 Stat. 54.
 
 **Amendments**
 
 1902—Act June 14, 1902, substituted “those owing allegiance, whether citizens or not, to the United States” for “citizens of the United States”.
 
-## § 212a. Restriction of passports for sex tourism
+## § 212a. Restriction of passports for sex tourism
 
 **(a) In general** Following any conviction of an individual for a violation of section 2423 of title 18, the Attorney General shall notify in a timely manner—
 
@@ -243,15 +243,15 @@ Notwithstanding paragraph (1), the Secretary of State may, prior to revocation, 
 
 **(B)** the term “imprisonment” means being confined in or otherwise restricted to a jail, prison, half-way house, treatment facility, or another institution, on a full or part-time basis, pursuant to the sentence imposed as the result of a criminal conviction.
 
-(Pub. L. 110–457, title II, § 236, Dec. 23, 2008, 122 Stat. 5082.)
+(Pub. L. 110–457, title II, § 236, Dec. 23, 2008, 122 Stat. 5082.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in subsec. (a)(2), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (a)(2), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-## § 212b. Unique passport identifiers for covered sex offenders
+## § 212b. Unique passport identifiers for covered sex offenders
 
 **(a) In general**
 
@@ -295,7 +295,7 @@ In furtherance of this section, the Secretary of State may require a passport ap
 
 This section shall take effect upon certification by the Secretary of State, the Secretary of Homeland Security, and the Attorney General, that the process developed and reported to the appropriate congressional committees under section 21507 of title 34 has been successfully implemented.
 
-(Pub. L. 110–457, title II, § 240, as added Pub. L. 114–119, § 8, Feb. 8, 2016, 130 Stat. 24; amended Pub. L. 117–347, title III, § 323(b), Jan. 5, 2023, 136 Stat. 6207.)
+(Pub. L. 110–457, title II, § 240, as added Pub. L. 114–119, § 8, Feb. 8, 2016, 130 Stat. 24; amended Pub. L. 117–347, title III, § 323(b), Jan. 5, 2023, 136 Stat. 6207.)
 
 **Editorial Notes**
 
@@ -303,11 +303,11 @@ This section shall take effect upon certification by the Secretary of State, the
 
 2023—Subsec. (b)(3). Pub. L. 117–347 added par. (3).
 
-## § 213. Application for passport; verification by oath of initial passport
+## § 213. Application for passport; verification by oath of initial passport
 
 Before a passport is issued to any person by or under authority of the United States such person shall subscribe to and submit a written application which shall contain a true recital of each and every matter of fact which may be required by law or by any rules authorized by law to be stated as a prerequisite to the issuance of any such passport. If the applicant has not previously been issued a United States passport, the application shall be duly verified by his oath before a person authorized and empowered by the Secretary of State to administer oaths. Each passport application made available to potential applicants (DS–11) and each passport renewal application made available to current passport holders (DS–82) shall include a form that, if completed, indicates the applicant’s consent to the disclosure of information otherwise protected under section 552a of title 5 (commonly known as the “Privacy Act of 1974”) in the event such applicant is determined to be wrongfully detained by a foreign government. Declining to complete such form shall not affect the issuance of a passport to a qualified applicant or diplomatic efforts to secure the release of a United States national from the custody of a foreign government or entity.
 
-(June 15, 1917, ch. 30, title IX, § 1, 40 Stat. 227; Pub. L. 90–428, § 3, July 26, 1968, 82 Stat. 446; Pub. L. 118–159, div. G, title LXXVII, § 7706(b), Dec. 23, 2024, 138 Stat. 2555.)
+(June 15, 1917, ch. 30, title IX, § 1, 40 Stat. 227; Pub. L. 90–428, § 3, July 26, 1968, 82 Stat. 446; Pub. L. 118–159, div. G, title LXXVII, § 7706(b), Dec. 23, 2024, 138 Stat. 2555.)
 
 **Editorial Notes**
 
@@ -329,7 +329,7 @@ Amendment by Pub. L. 90–428 effective on thirtieth day following July 26, 1968
 
 **Improvements Related to Hand-Carry Courier Services for Passport Applications and Passports**
 
-Pub. L. 118–159, div. G, title LXXV, § 7507(b), Dec. 23, 2024, 138 Stat. 2547, provided that:
+Pub. L. 118–159, div. G, title LXXV, § 7507(b), Dec. 23, 2024, 138 Stat. 2547, provided that:
 
 > **“(1) In general.—** The Secretary [of State] shall take such steps as may be necessary to—
 
@@ -347,7 +347,7 @@ Pub. L. 118–159, div. G, title LXXV, § 7507(b), Dec. 23, 2024, 138 Stat. 25
 
 **Strengthening Passport Customer Visibility and Transparency**
 
-Pub. L. 118–31, div. F, title LXI, § 6106, Dec. 22, 2023, 137 Stat. 966, provided that:
+Pub. L. 118–31, div. F, title LXI, § 6106, Dec. 22, 2023, 137 Stat. 966, provided that:
 
 > **“(a) Online Status Tool.—** Not later than 2 years after the date of the enactment of this division [Dec. 22, 2023], the Department [of State] should modernize the online passport application status tool to include, to the greatest extent possible, step by step updates on the status of passport applications, including with respect to the following stages:
 
@@ -379,19 +379,19 @@ Pub. L. 118–31, div. F, title LXI, § 6106, Dec. 22, 2023, 137 Stat. 966, pr
 
 **Publication and Updates of Estimated Time for Processing of Passport Applications**
 
-Pub. L. 118–31, div. F, title LXI, § 6108, Dec. 22, 2023, 137 Stat. 967, provided that: “The Secretary [of State] shall publish and update on a quarterly basis on relevant websites of the Department [of State] the estimated time for processing of passport applications.”
+Pub. L. 118–31, div. F, title LXI, § 6108, Dec. 22, 2023, 137 Stat. 967, provided that: “The Secretary [of State] shall publish and update on a quarterly basis on relevant websites of the Department [of State] the estimated time for processing of passport applications.”
 
 **Use of Commercially Available Technology in Online Passport Renewal Program**
 
-Pub. L. 118–31, div. F, title LXI, § 6111, Dec. 22, 2023, 137 Stat. 968, provided that: “The Secretary [of State] shall take such steps as may be necessary to compare and use the best commercially available technology in the private sector, as determined by the Secretary, in the development of the Department [of State]’s online passport renewal program or any successor program.”
+Pub. L. 118–31, div. F, title LXI, § 6111, Dec. 22, 2023, 137 Stat. 968, provided that: “The Secretary [of State] shall take such steps as may be necessary to compare and use the best commercially available technology in the private sector, as determined by the Secretary, in the development of the Department [of State]’s online passport renewal program or any successor program.”
 
 **Agreements With Foreign Countries Regarding Passports Nearing Expiration**
 
-Pub. L. 118–31, div. F, title LXI, § 6113, Dec. 22, 2023, 137 Stat. 968, provided that: “The President, acting through the Secretary [of State], shall seek to reach agreements with the governments of foreign countries that do not accept United States passports that are at or within 6 months of expiration to allow for the use of such United States passports.”
+Pub. L. 118–31, div. F, title LXI, § 6113, Dec. 22, 2023, 137 Stat. 968, provided that: “The President, acting through the Secretary [of State], shall seek to reach agreements with the governments of foreign countries that do not accept United States passports that are at or within 6 months of expiration to allow for the use of such United States passports.”
 
 **Return of Supporting Documents for Passport Applications Through United States Postal Service Certified Mail**
 
-Pub. L. 117–263, div. I, title XCVII, § 9714, Dec. 23, 2022, 136 Stat. 3921, provided that:
+Pub. L. 117–263, div. I, title XCVII, § 9714, Dec. 23, 2022, 136 Stat. 3921, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary shall establish a procedure that provides, to any individual applying for a new United States passport or to renew the United States passport of the individual by mail, the option to have supporting documents for the application returned to the individual by the United States Postal Service through certified mail.
 
@@ -413,7 +413,7 @@ Pub. L. 117–263, div. I, title XCVII, § 9714, Dec. 23, 2022, 136 Stat. 3921
 
 **Issuance of Passports for Children Under Age 14**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 236], Nov. 29, 1999, 113 Stat. 1536, 1501A–430, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 236], Nov. 29, 1999, 113 Stat. 1536, 1501A–430, provided that:
 
 > **“(a) In General.—**
 
@@ -433,7 +433,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 236], Nov. 29
 
 > **“(b) Exceptions.—** The regulations required by subsection (a) may provide for exceptions in exigent circumstances, such as those involving the health or welfare of the child, or when the Secretary determines that issuance of a passport is warranted by special family circumstances.”
 
-## § 213a. Authority to designate additional passport acceptance agents
+## § 213a. Authority to designate additional passport acceptance agents
 
 **(a) Authority to designate**
 
@@ -459,7 +459,7 @@ The Secretary may designate any person described in subsection (b) that meets su
 
 The Secretary shall prescribe or revise such regulations as may be necessary to carry out this division.
 
-(Pub. L. 118–31, div. F, title LXI, § 6109, Dec. 22, 2023, 137 Stat. 967; Pub. L. 118–159, div. G, title LXXV, § 7507(a), Dec. 23, 2024, 138 Stat. 2547.)
+(Pub. L. 118–31, div. F, title LXI, § 6109, Dec. 22, 2023, 137 Stat. 967; Pub. L. 118–159, div. G, title LXXV, § 7507(a), Dec. 23, 2024, 138 Stat. 2547.)
 
 **Editorial Notes**
 
@@ -477,7 +477,7 @@ This division, referred to in subsec. (c), is div. F of Pub. L. 118–31, Dec. 2
 
 For definition of “Secretary” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under section 2651 of this title.
 
-## § 214. Fees for execution and issuance of passports; persons excused from payment
+## § 214. Fees for execution and issuance of passports; persons excused from payment
 
 **(a)**
 
@@ -505,15 +505,15 @@ For definition of “Secretary” as used in this section, see section 6002 of P
 
 **(1)** The Secretary of State may by regulation establish and collect a surcharge on applicable fees for the filing of each application for a passport in order to cover the costs of meeting the increased demand for passports as a result of actions taken to comply with section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note). Such surcharge shall be in addition to the fees provided for in subsection (a) and in addition to the surcharges or fees otherwise authorized by law and shall be deposited in the Consular and Border Security Programs account, to remain available until expended for the purposes of meeting such costs.1
 
-<sup>1</sup>  See Extension of Consular Fees note below.
+<sup>1</sup> See Extension of Consular Fees note below.
 
 **(2)** The authority to collect the surcharge provided under paragraph (1) may not be exercised after September 30, 2010.2
 
-<sup>2</sup>  See Extension of Authority To Collect Surcharge note below.
+<sup>2</sup> See Extension of Authority To Collect Surcharge note below.
 
 **(3)** The Secretary of State shall ensure that, to the extent practicable, the total cost of a passport application during fiscal years 2006 and 2007, including the surcharge authorized under paragraph (1), shall not exceed the cost of the passport application as of December 1, 2005.
 
-(June 4, 1920, ch. 223, § 1, 41 Stat. 750; Feb. 10, 1956, ch. 31, 70 Stat. 11; Pub. L. 90–428, § 2, July 26, 1968, 82 Stat. 446; Pub. L. 92–14, § 1, May 14, 1971, 85 Stat. 38; Pub. L. 93–417, Sept. 17, 1974, 88 Stat. 1151; Pub. L. 97–241, title I, § 116(a), Aug. 24, 1982, 96 Stat. 279; Pub. L. 104–208, div. A, title I, § 101(a) [title IV, § 407], Sept. 30, 1996, 110 Stat. 3009, 3009–55; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 233(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–426; Pub. L. 109–167, § 2, Jan. 10, 2006, 119 Stat. 3578; Pub. L. 109–210, § 1, Mar. 24, 2006, 120 Stat. 319; Pub. L. 109–472, § 5, Jan. 11, 2007, 120 Stat. 3555; Pub. L. 115–31, div. J, title VII, § 7081(f), May 5, 2017, 131 Stat. 716; Pub. L. 118–31, div. F, title LXI, § 6114(b), Dec. 22, 2023, 137 Stat. 968.)
+(June 4, 1920, ch. 223, § 1, 41 Stat. 750; Feb. 10, 1956, ch. 31, 70 Stat. 11; Pub. L. 90–428, § 2, July 26, 1968, 82 Stat. 446; Pub. L. 92–14, § 1, May 14, 1971, 85 Stat. 38; Pub. L. 93–417, Sept. 17, 1974, 88 Stat. 1151; Pub. L. 97–241, title I, § 116(a), Aug. 24, 1982, 96 Stat. 279; Pub. L. 104–208, div. A, title I, § 101(a) [title IV, § 407], Sept. 30, 1996, 110 Stat. 3009, 3009–55; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 233(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–426; Pub. L. 109–167, § 2, Jan. 10, 2006, 119 Stat. 3578; Pub. L. 109–210, § 1, Mar. 24, 2006, 120 Stat. 319; Pub. L. 109–472, § 5, Jan. 11, 2007, 120 Stat. 3555; Pub. L. 115–31, div. J, title VII, § 7081(f), May 5, 2017, 131 Stat. 716; Pub. L. 118–31, div. F, title LXI, § 6114(b), Dec. 22, 2023, 137 Stat. 968.)
 
 **Editorial Notes**
 
@@ -523,7 +523,7 @@ For definition of “Secretary” as used in this section, see section 6002 of P
 
 2017—Subsec. (b)(1). Pub. L. 115–31 substituted “in the Consular and Border Security Programs account” for “as an offsetting collection to the appropriate Department of State appropriation”.
 
-2007—Subsec. (a). Pub. L. 109–472 substituted “from a widow” for “or from a widow” and inserted “; or from an individual or individuals abroad, returning to the United States, when the Secretary determines that foregoing the collection of such fee is justified for humanitarian reasons or for law enforcement purposes” after “memorial service for such member”.
+2007—Subsec. (a). Pub. L. 109–472 substituted “from a widow” for “or from a widow” and inserted “; or from an individual or individuals abroad, returning to the United States, when the Secretary determines that foregoing the collection of such fee is justified for humanitarian reasons or for law enforcement purposes” after “memorial service for such member”.
 
 2006—Pub. L. 109–167 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -531,7 +531,7 @@ Subsec. (a). Pub. L. 109–210 substituted “or from a widow, widower, child, p
 
 1999—Pub. L. 106–113, in first sentence, substituted “the filing of each application for a passport (including the cost of passport issuance and use)” for “each passport issued” and “each such application except” for “each application for a passport; except” and inserted after first sentence “Such fees shall not be refundable, except as the Secretary may by regulation prescribe.”
 
-1996—Pub. L. 104–208 inserted “; except that the Secretary of State may by regulation authorize State officials or the United States Postal Service to collect and retain the execution fee for each application for a passport accepted by such officials or by that Service” before period at end of first sentence and struck out after first sentence “Nothing contained in this section shall be construed to limit the right of the Secretary of State by regulation (1) to authorize State officials to collect and retain the execution fee, or (2) to transfer to the United States Postal Service the execution fee for each application accepted by that Service.”
+1996—Pub. L. 104–208 inserted “; except that the Secretary of State may by regulation authorize State officials or the United States Postal Service to collect and retain the execution fee for each application for a passport accepted by such officials or by that Service” before period at end of first sentence and struck out after first sentence “Nothing contained in this section shall be construed to limit the right of the Secretary of State by regulation (1) to authorize State officials to collect and retain the execution fee, or (2) to transfer to the United States Postal Service the execution fee for each application accepted by that Service.”
 
 1982—Pub. L. 97–241 substituted provision that the Secretary of State prescribe by regulation the fee for passports for provision that a fee of $10 be charged for each passport and that the fees be collected and paid into the Treasury quarterly.
 
@@ -547,11 +547,11 @@ Subsec. (a). Pub. L. 109–210 substituted “or from a widow, widower, child, p
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 233(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–426, provided that: “The amendments made by this section [amending this section and repealing section 216 of this title] shall take effect on the date of issuance of final regulations under section 1 of the Passport Act of June 4, 1920 [22 U.S.C. 214], as amended by subsection (a).” [Final regulations issued Feb. 23, 2000, effective May 15, 2000, see 65 F.R. 14211.]
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 233(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–426, provided that: “The amendments made by this section [amending this section and repealing section 216 of this title] shall take effect on the date of issuance of final regulations under section 1 of the Passport Act of June 4, 1920 [22 U.S.C. 214], as amended by subsection (a).” [Final regulations issued Feb. 23, 2000, effective May 15, 2000, see 65 F.R. 14211.]
 
 **Effective and Termination Date of 1971 Amendment**
 
-Pub. L. 92–14, § 2, May 14, 1971, 85 Stat. 38, as amended by Pub. L. 93–126, § 8, Oct. 18, 1973, 87 Stat. 453, provided that: “The amendment made by this Act [amending this section] shall become effective on the date of enactment [May 14, 1971] and shall continue in effect until June 30, 1974.”
+Pub. L. 92–14, § 2, May 14, 1971, 85 Stat. 38, as amended by Pub. L. 93–126, § 8, Oct. 18, 1973, 87 Stat. 453, provided that: “The amendment made by this Act [amending this section] shall become effective on the date of enactment [May 14, 1971] and shall continue in effect until June 30, 1974.”
 
 **Effective Date of 1968 Amendment**
 
@@ -559,65 +559,65 @@ Amendment by Pub. L. 90–428 effective on thirtieth day following July 26, 1968
 
 **Electronic Payment for Passport Application Fees**
 
-Pub. L. 118–31, div. F, title LXI, § 6112, Dec. 22, 2023, 137 Stat. 968, provided that: “The Secretary [of State] shall develop a process to accept electronic payment for all fees associated with the processing of passport applications, including for applications submitted by regular mail.”
+Pub. L. 118–31, div. F, title LXI, § 6112, Dec. 22, 2023, 137 Stat. 968, provided that: “The Secretary [of State] shall develop a process to accept electronic payment for all fees associated with the processing of passport applications, including for applications submitted by regular mail.”
 
 **Deposit of Consular Fees in the Consular and Border Security Programs Account**
 
-Pub. L. 117–103, div. K, title VII, § 7069(e), Mar. 15, 2022, 136 Stat. 681, provided that: “Beginning on October 1, 2021 and for each fiscal year thereafter, fees collected pursuant to subsection (a) of section 1 of the Passport Act of June 4, 1920 (22 U.S.C. 214(a)) shall, notwithstanding such subsection, be deposited in the Consular and Border Security Programs account as discretionary offsetting receipts: *Provided*, That amounts deposited in fiscal year 2022 shall remain available until expended for the purposes of such account: *Provided further*, That the Secretary of State may by regulation authorize State officials or the United States Postal Service to collect and retain the execution fee for each application for a passport accepted by such officials or by that Service.”
+Pub. L. 117–103, div. K, title VII, § 7069(e), Mar. 15, 2022, 136 Stat. 681, provided that: “Beginning on October 1, 2021 and for each fiscal year thereafter, fees collected pursuant to subsection (a) of section 1 of the Passport Act of June 4, 1920 (22 U.S.C. 214(a)) shall, notwithstanding such subsection, be deposited in the Consular and Border Security Programs account as discretionary offsetting receipts: *Provided*, That amounts deposited in fiscal year 2022 shall remain available until expended for the purposes of such account: *Provided further*, That the Secretary of State may by regulation authorize State officials or the United States Postal Service to collect and retain the execution fee for each application for a passport accepted by such officials or by that Service.”
 
 **Extension of Consular Fees**
 
-Pub. L. 119–75, div. F, title VII, § 7067(a), Feb. 3, 2026, 140 Stat. 622, provided that: “Section 1(b)(1) of the Passport Act of June 4, 1920 (22 U.S.C. 214(b)(1)) shall be applied through fiscal year 2026 by substituting ‘the costs of providing consular services’ for ‘such costs’.”
+Pub. L. 119–75, div. F, title VII, § 7067(a), Feb. 3, 2026, 140 Stat. 622, provided that: “Section 1(b)(1) of the Passport Act of June 4, 1920 (22 U.S.C. 214(b)(1)) shall be applied through fiscal year 2026 by substituting ‘the costs of providing consular services’ for ‘such costs’.”
 
 Prior extensions were contained in the following prior acts:
 
-Pub. L. 118–47, div. F, title VII, § 7068(a), Mar. 23, 2024, 138 Stat. 848.
+Pub. L. 118–47, div. F, title VII, § 7068(a), Mar. 23, 2024, 138 Stat. 848.
 
-Pub. L. 117–328, div. K, title VII, § 7068(a), Dec. 29, 2022, 136 Stat. 5089.
+Pub. L. 117–328, div. K, title VII, § 7068(a), Dec. 29, 2022, 136 Stat. 5089.
 
-Pub. L. 117–103, div. K, title VII, § 7069(a), Mar. 15, 2022, 136 Stat. 681.
+Pub. L. 117–103, div. K, title VII, § 7069(a), Mar. 15, 2022, 136 Stat. 681.
 
-Pub. L. 116–260, div. K, title VII, § 7069(a), Dec. 27, 2020, 134 Stat. 1812.
+Pub. L. 116–260, div. K, title VII, § 7069(a), Dec. 27, 2020, 134 Stat. 1812.
 
 **Extension of Authority To Collect Surcharge**
 
-Pub. L. 117–263, div. I, title XCVIII, § 9802(a), Dec. 23, 2022, 136 Stat. 3924, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 (22 U.S.C. 214(b)(2)) shall be applied by striking ‘September 30, 2010’ and inserting ‘September 30, 2026’.”
+Pub. L. 117–263, div. I, title XCVIII, § 9802(a), Dec. 23, 2022, 136 Stat. 3924, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 (22 U.S.C. 214(b)(2)) shall be applied by striking ‘September 30, 2010’ and inserting ‘September 30, 2026’.”
 
 Prior extensions were contained in the following prior acts:
 
-Pub. L. 117–103, div. K, title VII, § 7034(*l*)(1), Mar. 15, 2022, 136 Stat. 623.
+Pub. L. 117–103, div. K, title VII, § 7034(*l*)(1), Mar. 15, 2022, 136 Stat. 623.
 
-Pub. L. 116–260, div. K, title VII, § 7034(*l*)(1), Dec. 27, 2020, 134 Stat. 1749.
+Pub. L. 116–260, div. K, title VII, § 7034(*l*)(1), Dec. 27, 2020, 134 Stat. 1749.
 
-Pub. L. 116–94, div. G, title VII, § 7034(*l*)(1), Dec. 20, 2019, 133 Stat. 2872.
+Pub. L. 116–94, div. G, title VII, § 7034(*l*)(1), Dec. 20, 2019, 133 Stat. 2872.
 
-Pub. L. 116–6, div. F, title VII, § 7034(m)(1), Feb. 15, 2019, 133 Stat. 326.
+Pub. L. 116–6, div. F, title VII, § 7034(m)(1), Feb. 15, 2019, 133 Stat. 326.
 
-Pub. L. 115–141, div. K, title VII, § 7034(*l*)(1), Mar. 23, 2018, 132 Stat. 895.
+Pub. L. 115–141, div. K, title VII, § 7034(*l*)(1), Mar. 23, 2018, 132 Stat. 895.
 
-Pub. L. 115–31, div. J, title VII, § 7034(k)(1), May 5, 2017, 131 Stat. 651.
+Pub. L. 115–31, div. J, title VII, § 7034(k)(1), May 5, 2017, 131 Stat. 651.
 
-Pub. L. 114–113, div. K, title VII, § 7034(k)(1), Dec. 18, 2015, 129 Stat. 2764.
+Pub. L. 114–113, div. K, title VII, § 7034(k)(1), Dec. 18, 2015, 129 Stat. 2764.
 
-Pub. L. 113–235, div. J, title VII, § 7034(*l*)(1), Dec. 16, 2014, 128 Stat. 2625.
+Pub. L. 113–235, div. J, title VII, § 7034(*l*)(1), Dec. 16, 2014, 128 Stat. 2625.
 
-Pub. L. 113–76, div. K, title VII, § 7034(m)(1), Jan. 17, 2014, 128 Stat. 515.
+Pub. L. 113–76, div. K, title VII, § 7034(m)(1), Jan. 17, 2014, 128 Stat. 515.
 
-Pub. L. 112–74, div. I, title VII, § 7034(m)(1), Dec. 23, 2011, 125 Stat. 1216.
+Pub. L. 112–74, div. I, title VII, § 7034(m)(1), Dec. 23, 2011, 125 Stat. 1216.
 
 **Deposit of Receipts From Expedited Passport Processing**
 
-Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1760, as amended by Pub. L. 115–31, div. J, title VII, § 7081(g), May 5, 2017, 131 Stat. 716, provided in part “That hereafter all receipts received from a new charge from expedited passport processing shall be deposited in this account as an offsetting collection or in the Consular and Border Security Programs account and shall be available until expended”.
+Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1760, as amended by Pub. L. 115–31, div. J, title VII, § 7081(g), May 5, 2017, 131 Stat. 716, provided in part “That hereafter all receipts received from a new charge from expedited passport processing shall be deposited in this account as an offsetting collection or in the Consular and Border Security Programs account and shall be available until expended”.
 
 **Information From United States Passports**
 
-Pub. L. 101–604, title II, § 203(d), Nov. 16, 1990, 104 Stat. 3083, provided that: “Notwithstanding any other provision of law, to the extent provided in appropriation Acts, for each fiscal year not more than $5,000,000 in passport fees collected by the Department of State may be credited to a Department of State account. Amounts credited to such account shall be available only for the costs associated with the acquisition and production of machine-readable United States passports and visas and compatible reading equipment. Amounts credited to such account are authorized to remain available until expended.”
+Pub. L. 101–604, title II, § 203(d), Nov. 16, 1990, 104 Stat. 3083, provided that: “Notwithstanding any other provision of law, to the extent provided in appropriation Acts, for each fiscal year not more than $5,000,000 in passport fees collected by the Department of State may be credited to a Department of State account. Amounts credited to such account shall be available only for the costs associated with the acquisition and production of machine-readable United States passports and visas and compatible reading equipment. Amounts credited to such account are authorized to remain available until expended.”
 
-## § 214a. Fees erroneously charged and paid; refund
+## § 214a. Fees erroneously charged and paid; refund
 
 Whenever a fee is erroneously charged and paid for the issue of a passport to a person who is exempted from the payment of such a fee by section 214 of this title, the Department of State is authorized to refund to the person who paid such fee the amount thereof, and the money for that purpose is authorized to be appropriated.
 
-(July 3, 1926, ch. 772, § 3, 44 Stat. 887.)
+(July 3, 1926, ch. 772, § 3, 44 Stat. 887.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -625,33 +625,33 @@ Whenever a fee is erroneously charged and paid for the issue of a passport to a 
 
 Effective July 1, 1935, enumerated appropriation accounts appearing on the books of the Government were abolished and in lieu thereof there was established an account to be designated “Refund of Moneys Erroneously Received and Covered.” See section 1322 of Title 31, Money and Finance.
 
-## § 215. Omitted
+## § 215. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 4, 1920, ch. 223, § 2, 41 Stat. 750, provided for fees of $1 for each application for a visa and $9 for each visa. It was superseded by sections 2(h) and 7(h) of the Immigration Act of 1924 (act May 26, 1924, ch. 190, 43 Stat. 154, 157) which provided for fees in the same amounts. The 1924 Act was repealed by section 403(a)(23) of the Immigration and Nationality Act (act June 27, 1952, ch. 477, 66 Stat. 279). See section 1351 of Title 8, Aliens and Nationality, and section 9701 of Title 31, Money and Finance.
+Section, act June 4, 1920, ch. 223, § 2, 41 Stat. 750, provided for fees of $1 for each application for a visa and $9 for each visa. It was superseded by sections 2(h) and 7(h) of the Immigration Act of 1924 (act May 26, 1924, ch. 190, 43 Stat. 154, 157) which provided for fees in the same amounts. The 1924 Act was repealed by section 403(a)(23) of the Immigration and Nationality Act (act June 27, 1952, ch. 477, 66 Stat. 279). See section 1351 of Title 8, Aliens and Nationality, and section 9701 of Title 31, Money and Finance.
 
-## § 216. Repealed. Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 233(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–426
+## § 216. Repealed. Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 233(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–426
 
-Section, act June 4, 1920, ch. 223, § 4, 41 Stat. 751, authorized return of fees on refusal to visé.
+Section, act June 4, 1920, ch. 223, § 4, 41 Stat. 751, authorized return of fees on refusal to visé.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-For effective date of repeal, see section 1000(a)(7) [div. A, title II, § 233(c)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 214 of this title.
+For effective date of repeal, see section 1000(a)(7) [div. A, title II, § 233(c)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 214 of this title.
 
-## § 217. Repealed. July 3, 1926, ch. 772, § 4, 44 Stat. 887
+## § 217. Repealed. July 3, 1926, ch. 772, § 4, 44 Stat. 887
 
-Section, act June 4, 1920, ch. 223, § 3, 41 Stat. 751, limited time as to validity of passport or visé. See section 217a of this title.
+Section, act June 4, 1920, ch. 223, § 3, 41 Stat. 751, limited time as to validity of passport or visé. See section 217a of this title.
 
-## § 217a. Validity of passport; limitation of time
+## § 217a. Validity of passport; limitation of time
 
 A passport shall be valid for a period of ten years from the date of issue, except that the Secretary of State may limit the validity of a passport to a period of less than ten years in an individual case or on a general basis pursuant to regulation.
 
-(July 3, 1926, ch. 772, § 2, 44 Stat. 887; July 1, 1930, ch. 782, 46 Stat. 839; May 16, 1932, ch. 187, 47 Stat. 157; Pub. L. 86–267, Sept. 14, 1959, 73 Stat. 552; Pub. L. 90–428, § 1, July 26, 1968, 82 Stat. 446; Pub. L. 97–241, title I, § 116(b)(1), Aug. 24, 1982, 96 Stat. 279.)
+(July 3, 1926, ch. 772, § 2, 44 Stat. 887; July 1, 1930, ch. 782, 46 Stat. 839; May 16, 1932, ch. 187, 47 Stat. 157; Pub. L. 86–267, Sept. 14, 1959, 73 Stat. 552; Pub. L. 90–428, § 1, July 26, 1968, 82 Stat. 446; Pub. L. 97–241, title I, § 116(b)(1), Aug. 24, 1982, 96 Stat. 279.)
 
 **Editorial Notes**
 
@@ -671,62 +671,62 @@ A passport shall be valid for a period of ten years from the date of issue, exce
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–241, title I, § 116(b)(2), Aug. 24, 1982, 96 Stat. 279, provided that: “The amendment made by this subsection [amending this section] applies with respect to passports issued after the date of enactment of this Act [Aug. 24, 1982].”
+Pub. L. 97–241, title I, § 116(b)(2), Aug. 24, 1982, 96 Stat. 279, provided that: “The amendment made by this subsection [amending this section] applies with respect to passports issued after the date of enactment of this Act [Aug. 24, 1982].”
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–428, § 4, July 26, 1968, 82 Stat. 446, provided that: “This Act [amending this section and sections 213 and 214 of this title] shall take effect on the thirtieth day following the date of its enactment [July 26, 1968].”
+Pub. L. 90–428, § 4, July 26, 1968, 82 Stat. 446, provided that: “This Act [amending this section and sections 213 and 214 of this title] shall take effect on the thirtieth day following the date of its enactment [July 26, 1968].”
 
 **Revision to Date of Expiration of United States Passports**
 
-Pub. L. 118–159, div. G, title LXXV, § 7507(c), Dec. 23, 2024, 138 Stat. 2547, provided that: “The Secretary [of State] may take such actions as may be necessary to provide for the date of expiration of each United States passport issued or renewed on or after the date that is 180 days after the date of the enactment of this Act [Dec. 23, 2024] to be the same date as the date of birth of the applicant or holder of the passport.”
+Pub. L. 118–159, div. G, title LXXV, § 7507(c), Dec. 23, 2024, 138 Stat. 2547, provided that: “The Secretary [of State] may take such actions as may be necessary to provide for the date of expiration of each United States passport issued or renewed on or after the date that is 180 days after the date of the enactment of this Act [Dec. 23, 2024] to be the same date as the date of birth of the applicant or holder of the passport.”
 
 **Notification of Passport Expiration**
 
-Pub. L. 118–31, div. F, title LXI, § 6110, Dec. 22, 2023, 137 Stat. 968, provided that: “The Secretary [of State] shall take such steps as may be necessary to ensure that each individual holding a valid United States passport is notified of the upcoming expiration of such passport not later than one year before the date of such expiration.”
+Pub. L. 118–31, div. F, title LXI, § 6110, Dec. 22, 2023, 137 Stat. 968, provided that: “The Secretary [of State] shall take such steps as may be necessary to ensure that each individual holding a valid United States passport is notified of the upcoming expiration of such passport not later than one year before the date of such expiration.”
 
-## § 218. Returns as to passports issued, etc.
+## § 218. Returns as to passports issued, etc.
 
 All persons who shall be authorized to grant, issue, or verify passports, shall make return of the same to the Secretary of State, in such manner and as often as he shall require; and such returns shall specify the names and all other particulars of the persons to whom the same shall be granted, issued, or verified, as embraced in such passport.
 
-(R.S. § 4077.)
+(R.S. § 4077.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 4077 derived from act May 30, 1866, ch. 102, 14 Stat. 54.
+R.S. § 4077 derived from act May 30, 1866, ch. 102, 14 Stat. 54.
 
-## §§ 219 to 222. Repealed. June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948
+## §§ 219 to 222. Repealed. June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948
 
-Section 219, R.S. § 4078; act June 14, 1902, ch. 1088, § 3, 32 Stat. 386, related to issuance of false passports. See section 1541 of Title 18, Crimes and Criminal Procedure.
+Section 219, R.S. § 4078; act June 14, 1902, ch. 1088, § 3, 32 Stat. 386, related to issuance of false passports. See section 1541 of Title 18, Crimes and Criminal Procedure.
 
-Section 220, acts June 15, 1917, ch. 30, title IX, § 2, 40 Stat. 227; Mar. 28, 1940, ch. 72, § 7, 54 Stat. 80, related to false statements in application for passports. See section 1542 of Title 18.
+Section 220, acts June 15, 1917, ch. 30, title IX, § 2, 40 Stat. 227; Mar. 28, 1940, ch. 72, § 7, 54 Stat. 80, related to false statements in application for passports. See section 1542 of Title 18.
 
-Section 221, acts June 15, 1917, ch. 30, title IX, § 3, 40 Stat. 227; Mar. 28, 1940, ch. 72, § 7, 54 Stat. 80, related to unlawful use of passports. See section 1544 of Title 18.
+Section 221, acts June 15, 1917, ch. 30, title IX, § 3, 40 Stat. 227; Mar. 28, 1940, ch. 72, § 7, 54 Stat. 80, related to unlawful use of passports. See section 1544 of Title 18.
 
-Section 222, acts June 15, 1917, ch. 30, title IX, § 4, 40 Stat. 227; Mar. 28, 1940, ch. 72, § 7, 54 Stat. 80, related to forging or altering of passports. See section 1543 of Title 18.
+Section 222, acts June 15, 1917, ch. 30, title IX, § 4, 40 Stat. 227; Mar. 28, 1940, ch. 72, § 7, 54 Stat. 80, related to forging or altering of passports. See section 1543 of Title 18.
 
-## §§ 223 to 229. Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(15), (20), (43), 66 Stat. 279, 280
+## §§ 223 to 229. Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(15), (20), (43), 66 Stat. 279, 280
 
-Section 223, acts May 22, 1918, ch. 81, § 1, 40 Stat. 559; June 21, 1941, ch. 210, § 1, 55 Stat. 252, related to wartime restrictions generally. See section 1185 of Title 8, Aliens and Nationality.
+Section 223, acts May 22, 1918, ch. 81, § 1, 40 Stat. 559; June 21, 1941, ch. 210, § 1, 55 Stat. 252, related to wartime restrictions generally. See section 1185 of Title 8, Aliens and Nationality.
 
-Section 224, act May 22, 1918, ch. 81, § 2, 40 Stat. 559, related to requirement of passport for citizens during wartime restrictions. See section 1185 of Title 8.
+Section 224, act May 22, 1918, ch. 81, § 2, 40 Stat. 559, related to requirement of passport for citizens during wartime restrictions. See section 1185 of Title 8.
 
-Section 225, acts May 22, 1918, ch. 81, § 3, 40 Stat. 559; June 21, 1941, ch. 210, § 2, 55 Stat. 253, related to penalty for violation of wartime restrictions. See section 1185 of Title 8.
+Section 225, acts May 22, 1918, ch. 81, § 3, 40 Stat. 559; June 21, 1941, ch. 210, § 2, 55 Stat. 253, related to penalty for violation of wartime restrictions. See section 1185 of Title 8.
 
-Section 226, acts May 22, 1918, ch. 81, § 4, 40 Stat. 559; June 21, 1941, ch. 210, § 2a, 55 Stat. 253, related to definition of “United States” and “person” as used in wartime restriction. See section 1185 of Title 8.
+Section 226, acts May 22, 1918, ch. 81, § 4, 40 Stat. 559; June 21, 1941, ch. 210, § 2a, 55 Stat. 253, related to definition of “United States” and “person” as used in wartime restriction. See section 1185 of Title 8.
 
-Section 226a, act May 22, 1918, ch. 81, § 5, as added June 21, 1941, ch. 210, § 3, 55 Stat 253, related to permit as guarantee of admission to the United States. See section 1185 of Title 8.
+Section 226a, act May 22, 1918, ch. 81, § 5, as added June 21, 1941, ch. 210, § 3, 55 Stat 253, related to permit as guarantee of admission to the United States. See section 1185 of Title 8.
 
-Section 226b, act May 22, 1918, ch. 81, § 6, as added June 21, 1941, ch. 210, § 3, 55 Stat. 253, related to proclamation, rule, etc., as bar to prosecution. See section 1185 of Title 8.
+Section 226b, act May 22, 1918, ch. 81, § 6, as added June 21, 1941, ch. 210, § 3, 55 Stat. 253, related to proclamation, rule, etc., as bar to prosecution. See section 1185 of Title 8.
 
-Section 227, act Mar. 2, 1921, ch. 113, § 1, 41 Stat. 1217, related to continuation of regulations as to alien passport requirements.
+Section 227, act Mar. 2, 1921, ch. 113, § 1, 41 Stat. 1217, related to continuation of regulations as to alien passport requirements.
 
-Sections 228 and 229, act June 20, 1941, ch. 209, §§ 1, 2, 55 Stat. 252, related to refusal of visés to aliens whose admission might endanger the public safety, and to rules and regulations governing this refusal. See section 1102 of Title 8.
+Sections 228 and 229, act June 20, 1941, ch. 209, §§ 1, 2, 55 Stat. 252, related to refusal of visés to aliens whose admission might endanger the public safety, and to rules and regulations governing this refusal. See section 1102 of Title 8.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Termination of Emergency Provisions**
 
-Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, provided for the extension of certain emergency provisions (previously extended to April 1, 1953 by Joint Res. July 3, 1952, ch. 570, § 1(b), 66 Stat. 333) until July 1, 1953. Joint Res. Mar. 31, 1953, ch. 13, § 2, 67 Stat. 18, provided that the extension did not apply to the provisions of sections 223 to 226b of this title.
+Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, provided for the extension of certain emergency provisions (previously extended to April 1, 1953 by Joint Res. July 3, 1952, ch. 570, § 1(b), 66 Stat. 333) until July 1, 1953. Joint Res. Mar. 31, 1953, ch. 13, § 2, 67 Stat. 18, provided that the extension did not apply to the provisions of sections 223 to 226b of this title.

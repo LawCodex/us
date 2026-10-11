@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 44A—ANTARCTIC MARINE LIVING RESOURCES CONVENTION
 
-## § 2431. Findings and purpose
+## § 2431. Findings and purpose
 
 **(a) Findings** The Congress finds that—
 
@@ -35,23 +35,23 @@ retrieved: 2026-10-11
 
 The purpose of this chapter is to provide the legislative authority necessary to implement, with respect to the United States, the Convention on the Conservation of Antarctic Marine Living Resources.
 
-(Pub. L. 98–623, title III, § 302, Nov. 8, 1984, 98 Stat. 3398.)
+(Pub. L. 98–623, title III, § 302, Nov. 8, 1984, 98 Stat. 3398.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 98–623, title III, § 301, Nov. 8, 1984, 98 Stat. 3398, provided that: “This title [enacting this chapter] may be cited as the ‘Antarctic Marine Living Resources Convention Act of 1984’.”
+Pub. L. 98–623, title III, § 301, Nov. 8, 1984, 98 Stat. 3398, provided that: “This title [enacting this chapter] may be cited as the ‘Antarctic Marine Living Resources Convention Act of 1984’.”
 
-## § 2432. Definitions
+## § 2432. Definitions
 
 For purposes of this chapter—
 
 **(1) Antarctic Convergence**
 
-The term “Antarctic Convergence” means a line joining the following points along the parallels of latitude and meridians of longitude: 50 degrees south, 0 degrees; 50 degrees south, 30 degrees east; 45 degrees south, 30 degrees east; 45 degrees south, 80 degrees east; 55 degrees south, 80 degrees east; 55 degrees south, 150 degrees east; 60 degrees south, 150 degrees east; 60 degrees south; 1
+The term “Antarctic Convergence” means a line joining the following points along the parallels of latitude and meridians of longitude: 50 degrees south, 0 degrees; 50 degrees south, 30 degrees east; 45 degrees south, 30 degrees east; 45 degrees south, 80 degrees east; 55 degrees south, 80 degrees east; 55 degrees south, 150 degrees east; 60 degrees south, 150 degrees east; 60 degrees south; 1
 
-<sup>1</sup>  So in original. Probably should be a comma.
+<sup>1</sup> So in original. Probably should be a comma.
 
 50 degrees west; 50 degrees south, 50 degrees west; and 50 degrees south, 0 degrees.
 
@@ -115,9 +115,9 @@ unless the vessel has been granted the nationality of a foreign nation in accord
 
 The term “vessel subject to the jurisdiction of the United States” includes a vessel without nationality or a vessel assimilated to a vessel without nationality, in accordance with paragraph (2) of Article 6 of the 1958 Convention on the High Seas.
 
-(Pub. L. 98–623, title III, § 303, Nov. 8, 1984, 98 Stat. 3398.)
+(Pub. L. 98–623, title III, § 303, Nov. 8, 1984, 98 Stat. 3398.)
 
-## § 2433. Representatives
+## § 2433. Representatives
 
 **(a) Representative to the Commission**
 
@@ -131,9 +131,9 @@ The Secretary of Commerce and the Director of the National Science Foundation, w
 
 The United States representatives to the Commission and the Scientific Committee shall receive no additional compensation by reason of their services as such representatives.
 
-(Pub. L. 98–623, title III, § 304, Nov. 8, 1984, 98 Stat. 3400.)
+(Pub. L. 98–623, title III, § 304, Nov. 8, 1984, 98 Stat. 3400.)
 
-## § 2434. Conservation measures; system of observation and inspection
+## § 2434. Conservation measures; system of observation and inspection
 
 **(a) Conservation measures**
 
@@ -157,7 +157,7 @@ The Secretary of State, with the concurrence of the Secretary of Commerce, the D
 
 The Secretary of State is further authorized to receive, on behalf of the United States Government, reports, requests, and other communications from the Commission and to take appropriate action on them, either directly or by reference to the appropriate authority.
 
-(Pub. L. 98–623, title III, § 305, Nov. 8, 1984, 98 Stat. 3400.)
+(Pub. L. 98–623, title III, § 305, Nov. 8, 1984, 98 Stat. 3400.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -165,7 +165,7 @@ The Secretary of State is further authorized to receive, on behalf of the United
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 2435. Unlawful activities
+## § 2435. Unlawful activities
 
 It is unlawful for any person—
 
@@ -183,17 +183,17 @@ It is unlawful for any person—
 
 **(7)** to interfere with, delay, or prevent, by any means, the apprehension, arrest, or detention of another person, knowing that such other person has committed any act prohibited by this section.
 
-(Pub. L. 98–623, title III, § 306, Nov. 8, 1984, 98 Stat. 3401; Pub. L. 114–81, title I, § 106(1), Nov. 5, 2015, 129 Stat. 657.)
+(Pub. L. 98–623, title III, § 306, Nov. 8, 1984, 98 Stat. 3401; Pub. L. 114–81, title I, § 106(1), Nov. 5, 2015, 129 Stat. 657.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Par. (3). Pub. L. 114–81, § 106(1)(A), struck out “which he knows, or reasonably should have known, was” before “harvested in violation”.
+2015—Par. (3). Pub. L. 114–81, § 106(1)(A), struck out “which he knows, or reasonably should have known, was” before “harvested in violation”.
 
-Pars. (4), (5). Pub. L. 114–81, § 106(1)(B), (C), inserted “, investigation,” after “search”.
+Pars. (4), (5). Pub. L. 114–81, § 106(1)(B), (C), inserted “, investigation,” after “search”.
 
-## § 2436. Regulations
+## § 2436. Regulations
 
 **(a) In general**
 
@@ -209,11 +209,11 @@ The Secretary of Commerce, after consultation with the Secretary of State, the S
 
 **(C)** with respect to which the Secretary of State,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
-does not notify Commission 2
+does not notify Commission 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “the”.
+<sup>2</sup> So in original. Probably should be preceded by “the”.
 
 in accordance with section 2434(a)(1) of this title within the time period allotted for objections under Article IX of the Convention.
 
@@ -221,7 +221,7 @@ in accordance with section 2434(a)(1) of this title within the time period allot
 
 Upon publication of such regulation in the Federal Register, such conservation measure shall enter into force with respect to the United States.
 
-(Pub. L. 98–623, title III, § 307, Nov. 8, 1984, 98 Stat. 3401; Pub. L. 114–81, title I, § 106(2), Nov. 5, 2015, 129 Stat. 658.)
+(Pub. L. 98–623, title III, § 307, Nov. 8, 1984, 98 Stat. 3401; Pub. L. 114–81, title I, § 106(2), Nov. 5, 2015, 129 Stat. 658.)
 
 **Editorial Notes**
 
@@ -235,7 +235,7 @@ Upon publication of such regulation in the Federal Register, such conservation m
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 2437. Civil penalties
+## § 2437. Civil penalties
 
 **(a) In general**
 
@@ -257,7 +257,7 @@ The Attorney General of the United States may seek to recover in any appropriate
 
 The assessment of a civil penalty under subsection (a) for any act shall not be deemed to preclude the assessment of a civil penalty for such act under any other law.
 
-(Pub. L. 98–623, title III, § 308, Nov. 8, 1984, 98 Stat. 3401; Pub. L. 114–81, title I, § 101(a)(2), Nov. 5, 2015, 129 Stat. 653.)
+(Pub. L. 98–623, title III, § 308, Nov. 8, 1984, 98 Stat. 3401; Pub. L. 114–81, title I, § 101(a)(2), Nov. 5, 2015, 129 Stat. 653.)
 
 **Editorial Notes**
 
@@ -265,7 +265,7 @@ The assessment of a civil penalty under subsection (a) for any act shall not be 
 
 2015—Pub. L. 114–81 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to assessment of penalties.
 
-## § 2438. Criminal offenses
+## § 2438. Criminal offenses
 
 **(a) Offenses**
 
@@ -279,9 +279,9 @@ Any offense described in subsection (a) is punishable by a fine of $50,000, or i
 
 A conviction under subsection (a) for any act shall not be deemed to preclude a conviction for such act under any other law.
 
-(Pub. L. 98–623, title III, § 309, Nov. 8, 1984, 98 Stat. 3403.)
+(Pub. L. 98–623, title III, § 309, Nov. 8, 1984, 98 Stat. 3403.)
 
-## § 2439. Enforcement
+## § 2439. Enforcement
 
 **(a) Responsibility**
 
@@ -299,9 +299,9 @@ The provisions of this chapter shall be enforced by the Secretary of Commerce an
 
 **(A)** any evidentiary item where there are reasonable grounds to believe that a person has committed or is attempting to commit an act prohibited by section 2435 of this title,
 
-**(B)** any Antarctic marine living resources (or part of 1
+**(B)** any Antarctic marine living resources (or part of 1
 
-<sup>1</sup>  So in original. Probably should be “or”.
+<sup>1</sup> So in original. Probably should be “or”.
 
 product thereof) with respect to which such an act is committed,
 
@@ -335,7 +335,7 @@ Subject to the succeeding provisions of this subsection, any property or item se
 
 All provisions of law relating to the seizure, forfeiture, and condemnation of property (including vessels) for violation of the customs laws, the disposition of such property or the proceeds from the sale thereof, and the remission or mitigation of such forfeiture, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, and the compromise of claims, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter; except that all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Customs Service may, for the purposes of this chapter, also be exercised or performed by the Secretary of Commerce or the Secretary of the department in which the Coast Guard is operating, or by such officers or employees of the United States as each Secretary may designate.
 
-(Pub. L. 98–623, title III, § 310, Nov. 8, 1984, 98 Stat. 3403.)
+(Pub. L. 98–623, title III, § 310, Nov. 8, 1984, 98 Stat. 3403.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -345,13 +345,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 2440. Jurisdiction of courts
+## § 2440. Jurisdiction of courts
 
 The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter or of any regulation promulgated under this chapter.
 
-(Pub. L. 98–623, title III, § 311, Nov. 8, 1984, 98 Stat. 3405.)
+(Pub. L. 98–623, title III, § 311, Nov. 8, 1984, 98 Stat. 3405.)
 
-## § 2441. Federal agency cooperation
+## § 2441. Federal agency cooperation
 
 **(a) Responsibilities**
 
@@ -385,7 +385,7 @@ In carrying out their functions under this section, the Secretary of State, the 
 
 The Department of Homeland Security shall facilitate planning for the design, procurement, maintenance, deployment, and operation of icebreakers needed to provide a platform for Antarctic research. All funds necessary to support icebreaking operations, except for recurring incremental costs associated with specific projects, shall be allocated to the United States Coast Guard.
 
-(Pub. L. 98–623, title III, § 312, Nov. 8, 1984, 98 Stat. 3405; Pub. L. 109–241, title IX, § 902(h)(2), July 11, 2006, 120 Stat. 567.)
+(Pub. L. 98–623, title III, § 312, Nov. 8, 1984, 98 Stat. 3405; Pub. L. 109–241, title IX, § 902(h)(2), July 11, 2006, 120 Stat. 567.)
 
 **Editorial Notes**
 
@@ -393,13 +393,13 @@ The Department of Homeland Security shall facilitate planning for the design, pr
 
 2006—Subsec. (c). Pub. L. 109–241 substituted “of Homeland Security” for “of Transportation”.
 
-## § 2442. Relationship to existing treaties and statutes
+## § 2442. Relationship to existing treaties and statutes
 
 **(a) In general**
 
-Nothing in this chapter 1
+Nothing in this chapter 1
 
-<sup>1</sup>  See Codification note below.
+<sup>1</sup> See Codification note below.
 
 shall be construed as contravening or superseding (1) the provisions of any international treaty, convention, or agreement, if such treaty, convention or agreement is in force with respect to the United States on Nov. 8, 1984, or (2) the provisions of any statute which implements any such treaty, convention, or agreement. Nothing in this chapter shall be construed as contravening or superseding the provisions of any statute enacted before Nov. 8, 1984, which may otherwise apply to Antarctic marine living resources.
 
@@ -407,7 +407,7 @@ shall be construed as contravening or superseding (1) the provisions of any inte
 
 Nothing in this section shall be construed to prevent the application of provisions of the Convention, conservation measures adopted by the Commission pursuant to article IX of the Convention, or regulations promulgated under this chapter, which are more restrictive than the provisions of, measures adopted under, or regulations promulgated under, the treaties or statutes described in subsection (a).
 
-(Pub. L. 98–623, title III, § 313, Nov. 8, 1984, 98 Stat. 3406.)
+(Pub. L. 98–623, title III, § 313, Nov. 8, 1984, 98 Stat. 3406.)
 
 **Editorial Notes**
 
@@ -415,7 +415,7 @@ Nothing in this section shall be construed to prevent the application of provisi
 
 This chapter, the first time it appears in subsec. (a), was in the original “this Act” and was translated as reading “this title”, as the probable intent of Congress.
 
-## § 2443. Authorization of appropriations
+## § 2443. Authorization of appropriations
 
 There are authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, such sums as may be necessary for carrying out the provisions of this chapter, including, but not limited to—
 
@@ -425,10 +425,10 @@ There are authorized to be appropriated, out of any moneys in the Treasury not o
 
 **(3)** the directed research program and the furnishing of facilities and personnel to the Commission referred to in section 2441 of this title.
 
-(Pub. L. 98–623, title III, § 314, Nov. 8, 1984, 98 Stat. 3406.)
+(Pub. L. 98–623, title III, § 314, Nov. 8, 1984, 98 Stat. 3406.)
 
-## § 2444. Severability
+## § 2444. Severability
 
 If any provision of this chapter or the application of this chapter to any person or circumstance is held invalid, neither the remainder of this chapter nor the application of that provision to other persons or circumstances shall be affected thereby.
 
-(Pub. L. 98–623, title III, § 315, Nov. 8, 1984, 98 Stat. 3407.)
+(Pub. L. 98–623, title III, § 315, Nov. 8, 1984, 98 Stat. 3407.)

@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2024—Pub. L. 118–159, div. A, title XVII, § 1701(a)(49), Dec. 23, 2024, 138 Stat. 2206, renumbered item 20404 “Force shaping authority” as 20405.
+2024—Pub. L. 118–159, div. A, title XVII, § 1701(a)(49), Dec. 23, 2024, 138 Stat. 2206, renumbered item 20404 “Force shaping authority” as 20405.
 
-## § 20401. Applicability of certain provisions of law related to separation
+## § 20401. Applicability of certain provisions of law related to separation
 
 **(a) Officer Separation.—** Except as specified in this section or otherwise modified in this chapter, the provisions of chapter 59 of this title applicable to officers of a regular component shall apply to officers of the Space Force.
 
@@ -45,15 +45,15 @@ retrieved: 2026-10-11
 
 **(2)** pertaining to a reserve enlisted member serving in an active status shall apply to an enlisted member of the Space Force serving in a space force active status or on sustained duty.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1718(a), Dec. 22, 2023, 137 Stat. 656; amended Pub. L. 118–159, div. A, title V, § 521(w), Dec. 23, 2024, 138 Stat. 1883.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1718(a), Dec. 22, 2023, 137 Stat. 656; amended Pub. L. 118–159, div. A, title V, § 521(w), Dec. 23, 2024, 138 Stat. 1883.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (b). Pub. L. 118–159 inserted “, and” after “1174(b)”.
+2024—Subsec. (b). Pub. L. 118–159 inserted “, and” after “1174(b)”.
 
-## § 20402. Enlisted members: standards and qualifications for retention
+## § 20402. Enlisted members: standards and qualifications for retention
 
 **(a) Standards and Qualifications for Retention.—** The Secretary of the Air Force shall, by regulation, prescribe—
 
@@ -69,9 +69,9 @@ retrieved: 2026-10-11
 
 **(3)** have the member’s enlistment terminated.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1718(a), Dec. 22, 2023, 137 Stat. 656.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1718(a), Dec. 22, 2023, 137 Stat. 656.)
 
-## § 20403. Officers: standards and qualifications for retention
+## § 20403. Officers: standards and qualifications for retention
 
 **(a) Standards and Qualifications.—** To be retained in an active status, a Space Force officer must—
 
@@ -83,9 +83,9 @@ retrieved: 2026-10-11
 
 **(c) Result of Failure to Comply.—** A Space Force officer who fails to attain the number of points prescribed under subsection (a)(1), or to conform to the standards and qualifications prescribed under subsection (a)(2), may be referred to a board convened under section 20501(a) of this title.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1718(a), Dec. 22, 2023, 137 Stat. 656.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1718(a), Dec. 22, 2023, 137 Stat. 656.)
 
-## § 20404. Selection of officers for early retirement or discharge
+## § 20404. Selection of officers for early retirement or discharge
 
 **(a) Consideration for Early Retirement.—** The Secretary of the Air Force may convene selection boards under section 20211(b) of this title to consider for early retirement officers on the Space Force officer list as follows:
 
@@ -115,7 +115,7 @@ retrieved: 2026-10-11
 
 **(c) Discharges and Retirements Considered to Be Involuntary.—** The discharge or retirement of an officer pursuant to this section shall be considered to be involuntary for purposes of any other provision of law.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1718(a), Dec. 22, 2023, 137 Stat. 657; amended Pub. L. 118–159, div. A, title XVII, § 1701(a)(50), Dec. 23, 2024, 138 Stat. 2206.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1718(a), Dec. 22, 2023, 137 Stat. 657; amended Pub. L. 118–159, div. A, title XVII, § 1701(a)(50), Dec. 23, 2024, 138 Stat. 2206.)
 
 **Editorial Notes**
 
@@ -127,7 +127,7 @@ Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, ref
 
 2024—Subsecs. (a), (b)(1). Pub. L. 118–159 substituted “Space Force” for “space force” in introductory provisions.
 
-## § 20405. Force shaping authority
+## § 20405. Force shaping authority
 
 **(a) Authority.—** The Secretary of the Air Force may, solely for the purpose of restructuring the Space Force—
 
@@ -147,4 +147,4 @@ Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, ref
 
 **(c) Regulations.—** The Secretary of the Air Force shall prescribe regulations for the exercise of the Secretary’s authority under this section.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1718(a), Dec. 22, 2023, 137 Stat. 658.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1718(a), Dec. 22, 2023, 137 Stat. 658.)

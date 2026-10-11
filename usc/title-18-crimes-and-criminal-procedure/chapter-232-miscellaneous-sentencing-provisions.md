@@ -19,35 +19,35 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1996—Pub. L. 104–132, title II, §§ 204(b), 206(b), Apr. 24, 1996, 110 Stat. 1229, 1236, added item 3663A and substituted “issuance and enforcement of order of restitution” for “issuing order of restitution” in item 3664.
+1996—Pub. L. 104–132, title II, §§ 204(b), 206(b), Apr. 24, 1996, 110 Stat. 1229, 1236, added item 3663A and substituted “issuance and enforcement of order of restitution” for “issuing order of restitution” in item 3664.
 
-1990—Pub. L. 101–647, title XXXV, § 3594, Nov. 29, 1990, 104 Stat. 4931, substituted “Conveyances” for “Conveyance” in item 3669.
+1990—Pub. L. 101–647, title XXXV, § 3594, Nov. 29, 1990, 104 Stat. 4931, substituted “Conveyances” for “Conveyance” in item 3669.
 
-1984—Pub. L. 98–473, title II, §§ 212(a)(5), 235(a)(1), Oct. 12, 1984, 98 Stat. 2010, 2031, as amended, added chapter heading and analysis of sections for chapter 232 consisting of items 3661 to 3673, effective Nov. 1, 1987.
+1984—Pub. L. 98–473, title II, §§ 212(a)(5), 235(a)(1), Oct. 12, 1984, 98 Stat. 2010, 2031, as amended, added chapter heading and analysis of sections for chapter 232 consisting of items 3661 to 3673, effective Nov. 1, 1987.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 98–473, title II, §§ 212(a)(1), (3)–(5), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2010, 2031, as amended, enacted heading, analysis, and section 3673 of this chapter (§§ 3661 to 3673), provided that sections 3577, 3578, 3579, 3580, 3611, 3612, 3615, 3617, 3618, 3619, 3620, and 3656 of this title are renumbered as sections 3661, 3662, 3663, 3664, 3665, 3666, 3667, 3668, 3669, 3670, 3671, and 3672, respectively, of this chapter, and amended section 3663 of this chapter, effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this chapter. Section 235 of Pub. L. 98–473, as amended, relating to effective dates, is set out as a note under section 3551 of this title.
+Pub. L. 98–473, title II, §§ 212(a)(1), (3)–(5), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2010, 2031, as amended, enacted heading, analysis, and section 3673 of this chapter (§§ 3661 to 3673), provided that sections 3577, 3578, 3579, 3580, 3611, 3612, 3615, 3617, 3618, 3619, 3620, and 3656 of this title are renumbered as sections 3661, 3662, 3663, 3664, 3665, 3666, 3667, 3668, 3669, 3670, 3671, and 3672, respectively, of this chapter, and amended section 3663 of this chapter, effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this chapter. Section 235 of Pub. L. 98–473, as amended, relating to effective dates, is set out as a note under section 3551 of this title.
 
-## § 3661. Use of information for sentencing
+## § 3661. Use of information for sentencing
 
 No limitation shall be placed on the information concerning the background, character, and conduct of a person convicted of an offense which a court of the United States may receive and consider for the purpose of imposing an appropriate sentence.
 
-(Added Pub. L. 91–452, title X, § 1001(a), Oct. 15, 1970, 84 Stat. 951, § 3577; renumbered § 3661, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
+(Added Pub. L. 91–452, title X, § 1001(a), Oct. 15, 1970, 84 Stat. 951, § 3577; renumbered § 3661, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–421, § 1, Oct. 12, 1990, 104 Stat. 909, provided that: “This Act [amending provisions set out as a note under section 3672 of this title] may be cited as the ‘Drug and Alcohol Dependent Offenders Treatment Act of 1989’.”
+Pub. L. 101–421, § 1, Oct. 12, 1990, 104 Stat. 909, provided that: “This Act [amending provisions set out as a note under section 3672 of this title] may be cited as the ‘Drug and Alcohol Dependent Offenders Treatment Act of 1989’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–570, title I, § 1861(a), Oct. 27, 1986, 100 Stat. 3207–53, provided that: “This section [amending sections 3672 and 4255 of this title, enacting provisions set out as a note under section 3672 of this title, and amending provisions set out as a note under section 4255 of this title] may be cited as the ‘Drug and Alcohol Dependent Offenders Treatment Act of 1986’.”
+Pub. L. 99–570, title I, § 1861(a), Oct. 27, 1986, 100 Stat. 3207–53, provided that: “This section [amending sections 3672 and 4255 of this title, enacting provisions set out as a note under section 3672 of this title, and amending provisions set out as a note under section 4255 of this title] may be cited as the ‘Drug and Alcohol Dependent Offenders Treatment Act of 1986’.”
 
-## § 3662. Conviction records
+## § 3662. Conviction records
 
 **(a)** The Attorney General of the United States is authorized to establish in the Department of Justice a repository for records of convictions and determinations of the validity of such convictions.
 
@@ -63,9 +63,9 @@ Pub. L. 99–570, title I, § 1861(a), Oct. 27, 1986, 100 Stat. 3207–53, pro
 
 **(d)** The Attorney General of the United States shall give reasonable public notice, and afford to interested parties opportunity for hearing, prior to prescribing regulations under this section.
 
-(Added Pub. L. 91–452, title X, § 1001(a), Oct. 15, 1970, 84 Stat. 951, § 3578; renumbered § 3662, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
+(Added Pub. L. 91–452, title X, § 1001(a), Oct. 15, 1970, 84 Stat. 951, § 3578; renumbered § 3662, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
 
-## § 3663. Order of restitution
+## § 3663. Order of restitution
 
 **(a)**
 
@@ -121,7 +121,7 @@ less the value (as of the date the property is returned) of any part of the prop
 
 **(1)** Notwithstanding any other provision of law (but subject to the provisions of subsections (a)(1)(B)(i)(II) and (ii),1
 
-<sup>1</sup>  So in original. Probably should be “(ii)),”.
+<sup>1</sup> So in original. Probably should be “(ii)),”.
 
 when sentencing a defendant convicted of an offense described in section 401, 408(a), 409, 416, 420, or 422(a) of the Controlled Substances Act (21 U.S.C. 841, 848(a), 849, 856, 861, 863), in which there is no identifiable victim, the court may order that the defendant make restitution in accordance with this subsection.
 
@@ -151,13 +151,13 @@ when sentencing a defendant convicted of an offense described in section 401, 40
 
 **(d)** An order of restitution made pursuant to this section shall be issued and enforced in accordance with section 3664.
 
-(Added Pub. L. 97–291, § 5(a), Oct. 12, 1982, 96 Stat. 1253, § 3579; renumbered § 3663 and amended Pub. L. 98–473, title II, § 212(a)(1), (3), Oct. 12, 1984, 98 Stat. 1987, 2010; Pub. L. 98–596, § 9, Oct. 30, 1984, 98 Stat. 3138; Pub. L. 99–646, §§ 8(b), 20(a), 77(a), 78(a), 79(a), Nov. 10, 1986, 100 Stat. 3593, 3596, 3618, 3619; Pub. L. 100–182, § 13, Dec. 7, 1987, 101 Stat. 1268; Pub. L. 100–185, § 12, Dec. 11, 1987, 101 Stat. 1285; Pub. L. 100–690, title VII, § 7042, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 101–647, title XXV, § 2509, title XXXV, § 3595, Nov. 29, 1990, 104 Stat. 4863, 4931; Pub. L. 103–272, § 5(e)(12), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title IV, §§ 40504, 40505, Sept. 13, 1994, 108 Stat. 1947; Pub. L. 104–132, title II, § 205(a), Apr. 24, 1996, 110 Stat. 1229; Pub. L. 104–294, title VI, §§ 601(r)(1), (2), 605(*l*), Oct. 11, 1996, 110 Stat. 3502, 3510; Pub. L. 106–310, div. B, title XXXVI, § 3613(c), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 109–59, title VII, § 7128(b), Aug. 10, 2005, 119 Stat. 1910; Pub. L. 110–326, title II, § 202, Sept. 26, 2008, 122 Stat. 3561.)
+(Added Pub. L. 97–291, § 5(a), Oct. 12, 1982, 96 Stat. 1253, § 3579; renumbered § 3663 and amended Pub. L. 98–473, title II, § 212(a)(1), (3), Oct. 12, 1984, 98 Stat. 1987, 2010; Pub. L. 98–596, § 9, Oct. 30, 1984, 98 Stat. 3138; Pub. L. 99–646, §§ 8(b), 20(a), 77(a), 78(a), 79(a), Nov. 10, 1986, 100 Stat. 3593, 3596, 3618, 3619; Pub. L. 100–182, § 13, Dec. 7, 1987, 101 Stat. 1268; Pub. L. 100–185, § 12, Dec. 11, 1987, 101 Stat. 1285; Pub. L. 100–690, title VII, § 7042, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 101–647, title XXV, § 2509, title XXXV, § 3595, Nov. 29, 1990, 104 Stat. 4863, 4931; Pub. L. 103–272, § 5(e)(12), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title IV, §§ 40504, 40505, Sept. 13, 1994, 108 Stat. 1947; Pub. L. 104–132, title II, § 205(a), Apr. 24, 1996, 110 Stat. 1229; Pub. L. 104–294, title VI, §§ 601(r)(1), (2), 605(*l*), Oct. 11, 1996, 110 Stat. 3502, 3510; Pub. L. 106–310, div. B, title XXXVI, § 3613(c), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 109–59, title VII, § 7128(b), Aug. 10, 2005, 119 Stat. 1910; Pub. L. 110–326, title II, § 202, Sept. 26, 2008, 122 Stat. 3561.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Controlled Substances Act, referred to in subsec. (c)(4), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (c)(4), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 **Amendments**
 
@@ -167,31 +167,31 @@ The Controlled Substances Act, referred to in subsec. (c)(4), is title II of Pub
 
 2000—Subsec. (c)(2)(B). Pub. L. 106–310 inserted “which may be” after “fine”.
 
-1996—Subsec. (a)(1). Pub. L. 104–132, § 205(a)(1)(A)–(E), substituted “(a)(1)(A) The court” for “(a)(1) The court”, inserted “, section 401, 408(a), 409, 416, 420, or 422(a) of the Controlled Substances Act (21 U.S.C. 841, 848(a), 849, 856, 861, 863) (but in no case shall a participant in an offense under such sections be considered a victim of such offense under this section),” before “or section 46312,”, “other than an offense described in section 3663A(c),” after “title 49”, and “, or if the victim is deceased, to the victim’s estate” before period at end, and added subpar. (B).
+1996—Subsec. (a)(1). Pub. L. 104–132, § 205(a)(1)(A)–(E), substituted “(a)(1)(A) The court” for “(a)(1) The court”, inserted “, section 401, 408(a), 409, 416, 420, or 422(a) of the Controlled Substances Act (21 U.S.C. 841, 848(a), 849, 856, 861, 863) (but in no case shall a participant in an offense under such sections be considered a victim of such offense under this section),” before “or section 46312,”, “other than an offense described in section 3663A(c),” after “title 49”, and “, or if the victim is deceased, to the victim’s estate” before period at end, and added subpar. (B).
 
-Subsec. (a)(1)(A). Pub. L. 104–294, § 601(r)(1), inserted at end “The court may also order, if agreed to by the parties in a plea agreement, restitution to persons other than the victim of the offense.”
+Subsec. (a)(1)(A). Pub. L. 104–294, § 601(r)(1), inserted at end “The court may also order, if agreed to by the parties in a plea agreement, restitution to persons other than the victim of the offense.”
 
-Subsec. (a)(2). Pub. L. 104–132, § 205(a)(1)(F), as amended by Pub. L. 104–294, § 605(*l*), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purposes of restitution, a victim of an offense that involves as an element a scheme, a conspiracy, or a pattern of criminal activity means any person directly harmed by the defendant’s criminal conduct in the course of the scheme, conspiracy, or pattern.”
+Subsec. (a)(2). Pub. L. 104–132, § 205(a)(1)(F), as amended by Pub. L. 104–294, § 605(*l*), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purposes of restitution, a victim of an offense that involves as an element a scheme, a conspiracy, or a pattern of criminal activity means any person directly harmed by the defendant’s criminal conduct in the course of the scheme, conspiracy, or pattern.”
 
-Subsec. (c). Pub. L. 104–132, § 205(a)(2), (3), added subsec. (c) and struck out former subsec. (c) which read as follows: “If the court decides to order restitution under this section, the court shall, if the victim is deceased, order that the restitution be made to the victim’s estate.”
+Subsec. (c). Pub. L. 104–132, § 205(a)(2), (3), added subsec. (c) and struck out former subsec. (c) which read as follows: “If the court decides to order restitution under this section, the court shall, if the victim is deceased, order that the restitution be made to the victim’s estate.”
 
-Subsec. (c)(4). Pub. L. 104–294, § 601(r)(2), inserted “or chapter 96” after “under chapter 46”.
+Subsec. (c)(4). Pub. L. 104–294, § 601(r)(2), inserted “or chapter 96” after “under chapter 46”.
 
-Subsec. (d). Pub. L. 104–132, § 205(a)(2), (3), added subsec. (d) and struck out former subsec. (d) which read as follows: “To the extent that the court determines that the complication and prolongation of the sentencing process resulting from the fashioning of an order of restitution under this section outweighs the need to provide restitution to any victims, the court may decline to make such an order.”
+Subsec. (d). Pub. L. 104–132, § 205(a)(2), (3), added subsec. (d) and struck out former subsec. (d) which read as follows: “To the extent that the court determines that the complication and prolongation of the sentencing process resulting from the fashioning of an order of restitution under this section outweighs the need to provide restitution to any victims, the court may decline to make such an order.”
 
-Subsecs. (e) to (i). Pub. L. 104–132, § 205(a)(2), struck out subsecs. (e) to (i), relating to provisions for restitution to persons who had compensated victims for their loss as well as offsets for restitution received by victims against amounts later recovered as compensatory damages, court orders that defendant make restitution in specified time period or in specified installments, payment of restitution as condition of probation or of supervised release, enforcement of restitution orders by United States or by victim, and supervision, termination, or restoration of eligibility for Federal benefits of persons delinquent in making restitution, respectively.
+Subsecs. (e) to (i). Pub. L. 104–132, § 205(a)(2), struck out subsecs. (e) to (i), relating to provisions for restitution to persons who had compensated victims for their loss as well as offsets for restitution received by victims against amounts later recovered as compensatory damages, court orders that defendant make restitution in specified time period or in specified installments, payment of restitution as condition of probation or of supervised release, enforcement of restitution orders by United States or by victim, and supervision, termination, or restoration of eligibility for Federal benefits of persons delinquent in making restitution, respectively.
 
 1994—Subsec. (a)(1). Pub. L. 103–272 substituted “section 46312, 46502, or 46504 of title 49” for “under subsection (h), (i), (j), or (n) of section 902 of the Federal Aviation Act of 1958 (49 U.S.C. 1472)”.
 
-Subsec. (b)(2). Pub. L. 103–322, § 40504(1), in introductory provisions, inserted “including an offense under chapter 109A or chapter 110” after “victim”.
+Subsec. (b)(2). Pub. L. 103–322, § 40504(1), in introductory provisions, inserted “including an offense under chapter 109A or chapter 110” after “victim”.
 
-Subsec. (b)(3) to (5). Pub. L. 103–322, § 40504(2)–(4), struck out “and” at end of par. (3), added par. (4), and redesignated former par. (4) as (5).
+Subsec. (b)(3) to (5). Pub. L. 103–322, § 40504(2)–(4), struck out “and” at end of par. (3), added par. (4), and redesignated former par. (4) as (5).
 
-Subsec. (i). Pub. L. 103–322, § 40505, added subsec. (i).
+Subsec. (i). Pub. L. 103–322, § 40505, added subsec. (i).
 
-1990—Subsec. (a). Pub. L. 101–647, § 2509, designated existing provisions as par. (1) and added pars. (2) and (3).
+1990—Subsec. (a). Pub. L. 101–647, § 2509, designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (f)(4). Pub. L. 101–647, § 3595, substituted “604(a)(18)” for “604(a)(17)”.
+Subsec. (f)(4). Pub. L. 101–647, § 3595, substituted “604(a)(18)” for “604(a)(17)”.
 
 1988—Subsec. (h). Pub. L. 100–690 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “An order of restitution may be enforced by the United States in the manner provided in sections 3812 and 3813 or in the same manner as a judgment in a civil action, and by the victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
 
@@ -199,25 +199,25 @@ Subsec. (f)(4). Pub. L. 101–647, § 3595, substituted “604(a)(18)” for �
 
 Subsec. (g). Pub. L. 100–182 substituted “revoke probation or a term of supervised release,” for “revoke probation,” in two places and inserted “probation or” after “modify the term or conditions of” in two places.
 
-1986—Subsec. (a). Pub. L. 99–646, § 20(a), which directed that subsec. (a)(1) be amended by inserting “, in the case of a misdemeanor,” after “in addition to or”, was executed to subsec. (a) to reflect the probable intent of Congress and the prior amendment to subsec. (a) by Pub. L. 99–646, § 8(b), below.
+1986—Subsec. (a). Pub. L. 99–646, § 20(a), which directed that subsec. (a)(1) be amended by inserting “, in the case of a misdemeanor,” after “in addition to or”, was executed to subsec. (a) to reflect the probable intent of Congress and the prior amendment to subsec. (a) by Pub. L. 99–646, § 8(b), below.
 
-Pub. L. 99–646, § 8(b), struck out par. (1) designation, and struck out par. (2) which read as follows: “If the court does not order restitution, or orders only partial restitution, under this section, the court shall state on the record the reasons therefor.”
+Pub. L. 99–646, § 8(b), struck out par. (1) designation, and struck out par. (2) which read as follows: “If the court does not order restitution, or orders only partial restitution, under this section, the court shall state on the record the reasons therefor.”
 
-Subsec. (a)(1). Pub. L. 99–646, § 79(a), substituted “such offense” for “the offense”.
+Subsec. (a)(1). Pub. L. 99–646, § 79(a), substituted “such offense” for “the offense”.
 
-Subsec. (d). Pub. L. 99–646, § 77(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The court shall impose an order of restitution to the extent that such order is as fair as possible to the victim and the imposition of such order will not unduly complicate or prolong the sentencing process.”
+Subsec. (d). Pub. L. 99–646, § 77(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The court shall impose an order of restitution to the extent that such order is as fair as possible to the victim and the imposition of such order will not unduly complicate or prolong the sentencing process.”
 
-Subsec. (h). Pub. L. 99–646, § 78(a), substituted “in the manner provided for the collection of fines and penalties by section 3565 or by a victim” for “or a victim”.
+Subsec. (h). Pub. L. 99–646, § 78(a), substituted “in the manner provided for the collection of fines and penalties by section 3565 or by a victim” for “or a victim”.
 
-1984—Pub. L. 98–473, § 212(a)(1), renumbered section 3579 of this title as this section.
+1984—Pub. L. 98–473, § 212(a)(1), renumbered section 3579 of this title as this section.
 
-Subsec. (c). Pub. L. 98–596, § 9(1), substituted “court” for “Court” after “If the”.
+Subsec. (c). Pub. L. 98–596, § 9(1), substituted “court” for “Court” after “If the”.
 
-Subsec. (f)(4). Pub. L. 98–596, § 9(2), added par. (4).
+Subsec. (f)(4). Pub. L. 98–596, § 9(2), added par. (4).
 
-Subsec. (g). Pub. L. 98–473, § 212(a)(3)(A), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “If such defendant is placed on probation or paroled under this title, any restitution ordered under this section shall be a condition of such probation or parole. The court may revoke probation and the Parole Commission may revoke parole if the defendant fails to comply with such order. In determining whether to revoke probation or parole, the court or Parole Commission shall consider the defendant’s employment status, earning ability, financial resources, the willfulness of the defendant’s failure to pay, and any other special circumstances that may have a bearing on the defendant’s ability to pay.”
+Subsec. (g). Pub. L. 98–473, § 212(a)(3)(A), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “If such defendant is placed on probation or paroled under this title, any restitution ordered under this section shall be a condition of such probation or parole. The court may revoke probation and the Parole Commission may revoke parole if the defendant fails to comply with such order. In determining whether to revoke probation or parole, the court or Parole Commission shall consider the defendant’s employment status, earning ability, financial resources, the willfulness of the defendant’s failure to pay, and any other special circumstances that may have a bearing on the defendant’s ability to pay.”
 
-Subsec. (h). Pub. L. 98–473, § 212(a)(3)(B), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “An order of restitution may be enforced by the United States in the manner provided for the collection of fines and penalties by section 3565 or by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
+Subsec. (h). Pub. L. 98–473, § 212(a)(3)(B), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “An order of restitution may be enforced by the United States in the manner provided for the collection of fines and penalties by section 3565 or by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -235,11 +235,11 @@ Amendment by section 8(b) of Pub. L. 99–646 effective Nov. 1, 1987, see sectio
 
 Amendment by section 20(a) of Pub. L. 99–646 effective Nov. 1, 1987, see section 20(c) of Pub. L. 99–646, set out as a note under section 3556 of this title.
 
-Pub. L. 99–646, § 77(b), Nov. 10, 1986, 100 Stat. 3618, provided that: “The amendment made by this section [amending this section] shall take effect on the 30th day after the date of the enactment of this Act [Nov. 10, 1986].”
+Pub. L. 99–646, § 77(b), Nov. 10, 1986, 100 Stat. 3618, provided that: “The amendment made by this section [amending this section] shall take effect on the 30th day after the date of the enactment of this Act [Nov. 10, 1986].”
 
-Pub. L. 99–646, § 78(b), Nov. 10, 1986, 100 Stat. 3618, provided that: “The amendment made by this section [amending this section] shall take effect on the 30th day after the date of the enactment of this Act [Nov. 10, 1986].”
+Pub. L. 99–646, § 78(b), Nov. 10, 1986, 100 Stat. 3618, provided that: “The amendment made by this section [amending this section] shall take effect on the 30th day after the date of the enactment of this Act [Nov. 10, 1986].”
 
-Pub. L. 99–646, § 79(b), Nov. 10, 1986, 100 Stat. 3619, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Nov. 10, 1986].”
+Pub. L. 99–646, § 79(b), Nov. 10, 1986, 100 Stat. 3619, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Nov. 10, 1986].”
 
 **Effective Date of 1984 Amendments**
 
@@ -253,9 +253,9 @@ Section effective with respect to offenses occurring after Jan. 1, 1983, see sec
 
 **Profit by a Criminal From Sale of His Story**
 
-Pub. L. 97–291, § 7, Oct. 12, 1982, 96 Stat. 1257, required the Attorney General to report, by Oct. 12, 1982, to Congress regarding any laws that are necessary to ensure that no Federal felon derives any profit from the sale of the recollections, thoughts, and feelings of such felon with regards to the offense committed by the felon until any victim of the offense receives restitution.
+Pub. L. 97–291, § 7, Oct. 12, 1982, 96 Stat. 1257, required the Attorney General to report, by Oct. 12, 1982, to Congress regarding any laws that are necessary to ensure that no Federal felon derives any profit from the sale of the recollections, thoughts, and feelings of such felon with regards to the offense committed by the felon until any victim of the offense receives restitution.
 
-## § 3663A. Mandatory restitution to victims of certain crimes
+## § 3663A. Mandatory restitution to victims of certain crimes
 
 **(a)**
 
@@ -329,7 +329,7 @@ Pub. L. 97–291, § 7, Oct. 12, 1982, 96 Stat. 1257, required the Attorney Ge
 
 **(d)** An order of restitution under this section shall be issued and enforced in accordance with section 3664.
 
-(Added Pub. L. 104–132, title II, § 204(a), Apr. 24, 1996, 110 Stat. 1227; amended Pub. L. 106–310, div. B, title XXXVI, § 3613(d), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 112–186, § 6, Oct. 5, 2012, 126 Stat. 1430; Pub. L. 116–206, § 5, Dec. 4, 2020, 134 Stat. 1000; Pub. L. 118–77, § 2, July 30, 2024, 138 Stat. 1510.)
+(Added Pub. L. 104–132, title II, § 204(a), Apr. 24, 1996, 110 Stat. 1227; amended Pub. L. 106–310, div. B, title XXXVI, § 3613(d), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 112–186, § 6, Oct. 5, 2012, 126 Stat. 1430; Pub. L. 116–206, § 5, Dec. 4, 2020, 134 Stat. 1000; Pub. L. 118–77, § 2, July 30, 2024, 138 Stat. 1510.)
 
 **Editorial Notes**
 
@@ -341,9 +341,9 @@ Section 3 of the Rodchenkov Anti-Doping Act of 2019, referred to in subsec. (c)(
 
 2024—Subsec. (a)(4). Pub. L. 118–77 added par. (4).
 
-2020—Subsec. (c)(1)(A)(iii) to (v). Pub. L. 116–206, § 5(1), added cl. (iii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
+2020—Subsec. (c)(1)(A)(iii) to (v). Pub. L. 116–206, § 5(1), added cl. (iii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
 
-Subsec. (c)(3). Pub. L. 116–206, § 5(2), inserted “or (iii)” after “paragraph (1)(A)(ii)” in introductory provisions.
+Subsec. (c)(3). Pub. L. 116–206, § 5(2), inserted “or (iii)” after “paragraph (1)(A)(ii)” in introductory provisions.
 
 2012—Subsec. (c)(1)(A)(iv). Pub. L. 112–186 added cl. (iv).
 
@@ -355,7 +355,7 @@ Subsec. (c)(3). Pub. L. 116–206, § 5(2), inserted “or (iii)” after “p
 
 Section to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as an Effective Date of 1996 Amendment note under section 2248 of this title.
 
-## § 3664. Procedure for issuance and enforcement of order of restitution
+## § 3664. Procedure for issuance and enforcement of order of restitution
 
 **(a)** For orders of restitution under this title, the court shall order the probation officer to obtain and include in its presentence report, or in a separate report, as the court may direct, information sufficient for the court to exercise its discretion in fashioning a restitution order. The report shall include, to the extent practicable, a complete accounting of the losses to each victim, any restitution owed pursuant to a plea agreement, and information relating to the economic circumstances of each defendant. If the number or identity of victims cannot be reasonably ascertained, or other circumstances exist that make this requirement clearly impracticable, the probation officer shall so inform the court.
 
@@ -481,7 +481,7 @@ Section to be effective, to extent constitutionally permissible, for sentencing 
 
 **(p)** Nothing in this section or sections 2248, 2259, 2264, 2327, 3663, and 3663A and arising out of the application of such sections, shall be construed to create a cause of action not otherwise authorized in favor of any person against the United States or any officer or employee of the United States.
 
-(Added Pub. L. 97–291, § 5(a), Oct. 12, 1982, 96 Stat. 1255, § 3580; renumbered § 3664, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987; amended Pub. L. 101–647, title XXXV, § 3596, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, § 206(a), Apr. 24, 1996, 110 Stat. 1232; Pub. L. 107–273, div. B, title IV, § 4002(e)(1), Nov. 2, 2002, 116 Stat. 1810.)
+(Added Pub. L. 97–291, § 5(a), Oct. 12, 1982, 96 Stat. 1255, § 3580; renumbered § 3664, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987; amended Pub. L. 101–647, title XXXV, § 3596, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, § 206(a), Apr. 24, 1996, 110 Stat. 1232; Pub. L. 107–273, div. B, title IV, § 4002(e)(1), Nov. 2, 2002, 116 Stat. 1810.)
 
 **Editorial Notes**
 
@@ -507,31 +507,31 @@ Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permi
 
 Section effective with respect to offenses occurring after Jan. 1, 1983, see section 9(b)(2) of Pub. L. 97–291, set out as a note under section 1512 of this title.
 
-## § 3665. Firearms possessed by convicted felons
+## § 3665. Firearms possessed by convicted felons
 
 A judgment of conviction for transporting a stolen motor vehicle in interstate or foreign commerce or for committing or attempting to commit a felony in violation of any law of the United States involving the use of threats, force, or violence or perpetrated in whole or in part by the use of firearms, may, in addition to the penalty provided by law for such offense, order the confiscation and disposal of firearms and ammunition found in the possession or under the immediate control of the defendant at the time of his arrest.
 
 The court may direct the delivery of such firearms or ammunition to the law-enforcement agency which apprehended such person, for its use or for any other disposition in its discretion.
 
-(June 25, 1948, ch. 645, 62 Stat. 839, § 3611; renumbered § 3665, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
+(June 25, 1948, ch. 645, 62 Stat. 839, § 3611; renumbered § 3665, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 645 (June 13, 1939, ch. 197, 53 Stat. 814).
+Based on title 18, U.S.C., 1940 ed., § 645 (June 13, 1939, ch. 197, 53 Stat. 814).
 
 The condensation and simplification of this section clarifies its intent to confiscate the firearms taken from persons convicted of crimes of violence without any real change of substance.
 
-## § 3666. Bribe moneys
+## § 3666. Bribe moneys
 
 Moneys received or tendered in evidence in any United States Court, or before any officer thereof, which have been paid to or received by any official as a bribe, shall, after the final disposition of the case, proceeding or investigation, be deposited in the registry of the court to be disposed of in accordance with the order of the court, to be subject, however, to the provisions of section 2042 of Title 28.
 
-(June 25, 1948, ch. 645, 62 Stat. 840, § 3612; May 24, 1949, ch. 139, § 55, 63 Stat. 96; renumbered § 3666, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
+(June 25, 1948, ch. 645, 62 Stat. 840, § 3612; May 24, 1949, ch. 139, § 55, 63 Stat. 96; renumbered § 3666, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., § 570 (Jan. 7, 1925, ch. 33, 43 Stat. 726).
+Based on title 18, U.S.C., 1940 ed., § 570 (Jan. 7, 1925, ch. 33, 43 Stat. 726).
 
 Changes were made in phraseology.
 
@@ -545,17 +545,17 @@ This section [section 55] corrects section 3612 of title 18, U.S.C., so that the
 
 1949—Act May 24, 1949, substituted “section 2042” for “section 852”.
 
-## § 3667. Liquors and related property; definitions
+## § 3667. Liquors and related property; definitions
 
 All liquor involved in any violation of sections 1261–1265 of this title, the containers of such liquor, and every vehicle or vessel used in the transportation thereof, shall be seized and forfeited and such property or its proceeds disposed of in accordance with the laws relating to seizures, forfeitures, and dispositions of property or proceeds, for violation of the internal-revenue laws.
 
 As used in this section, “vessel” includes every description of watercraft used, or capable of being used, as a means of transportation in water or in water and air; “vehicle” includes animals and every description of carriage or other contrivance used, or capable of being used, as a means of transportation on land or through the air.
 
-(June 25, 1948, ch. 645, 62 Stat. 840, § 3615; renumbered § 3667, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
+(June 25, 1948, ch. 645, 62 Stat. 840, § 3615; renumbered § 3667, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
 
 **Historical and Revision Notes**
 
-Based on sections 222 and 224 of title 27, U.S.C., 1940 ed., Intoxicating Liquors (June 25, 1936, ch. 815, §§ 2, 4, 49 Stat. 1928).
+Based on sections 222 and 224 of title 27, U.S.C., 1940 ed., Intoxicating Liquors (June 25, 1936, ch. 815, §§ 2, 4, 49 Stat. 1928).
 
 Section consolidates sections 222 and 224 of title 27, U.S.C., 1940 ed., with changes in phraseology and arrangement necessary to effect the consolidation. Said section 222 is also incorporated in section 1262 of this title.
 
@@ -563,7 +563,7 @@ Definition of “State” in section 222 of title 27 U.S.C., 1940 ed., as meanin
 
 Changes made in phraseology.
 
-## § 3668. Remission or mitigation of forfeitures under liquor laws; possession pending trial
+## § 3668. Remission or mitigation of forfeitures under liquor laws; possession pending trial
 
 **(a) Jurisdiction of court**
 
@@ -581,11 +581,11 @@ Upon the request of any claimant whose claim for remission or mitigation is allo
 
 In any proceeding in court for the forfeiture under the internal-revenue laws of any vehicle or aircraft seized for a violation of the internal-revenue laws relating to liquor, the court shall order delivery thereof to any claimant who shall establish his right to the immediate possession thereof, and shall execute, with one or more sureties approved by the court, and deliver to the court, a bond to the United States for the payment of a sum equal to the appraised value of such vehicle or aircraft. Such bond shall be conditioned to return such vehicle or aircraft at the time of the trial and to pay the difference between the appraised value of such vehicle or aircraft as of the time it shall have been so released on bond and the appraised value thereof as of the time of trial; and conditioned further that, if the vehicle or aircraft be not returned at the time of trial, the bond shall stand in lieu of, and be forfeited in the same manner as, such vehicle or aircraft. Notwithstanding this subsection or any other provisions of law relating to the delivery of possession on bond of vehicles or aircraft sought to be forfeited under the internal-revenue laws, the court may, in its discretion and upon good cause shown by the United States, refuse to order such delivery of possession.
 
-(June 25, 1948, ch. 645, 62 Stat. 840, § 3617; renumbered § 3668, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987; amended Pub. L. 107–217, § 3(d), Aug. 21, 2002, 116 Stat. 1299.)
+(June 25, 1948, ch. 645, 62 Stat. 840, § 3617; renumbered § 3668, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987; amended Pub. L. 107–217, § 3(d), Aug. 21, 2002, 116 Stat. 1299.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 646 (Aug. 27, 1935, ch. 740, § 204, 49 Stat. 878).
+Based on title 18, U.S.C., 1940 ed., § 646 (Aug. 27, 1935, ch. 740, § 204, 49 Stat. 878).
 
 A minor change was made in phraseology.
 
@@ -595,15 +595,15 @@ A minor change was made in phraseology.
 
 2002—Subsec. (c). Pub. L. 107–217 substituted “section 1306 of title 40” for “sections 304f–304m of Title 40”.
 
-## § 3669. Conveyances carrying liquor
+## § 3669. Conveyances carrying liquor
 
 Any conveyance, whether used by the owner or another in introducing or attempting to introduce intoxicants into the Indian country, or into other places where the introduction is prohibited by treaty or enactment of Congress, shall be subject to seizure, libel, and forfeiture.
 
-(June 25, 1948, ch. 645, 62 Stat. 841, § 3618; renumbered § 3669, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
+(June 25, 1948, ch. 645, 62 Stat. 841, § 3618; renumbered § 3669, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
 
 **Historical and Revision Notes**
 
-Based on section 247 of title 25, U.S.C., 1940 ed., Indians (Mar. 2, 1917, ch. 146, § 1, 39 Stat. 970).
+Based on section 247 of title 25, U.S.C., 1940 ed., Indians (Mar. 2, 1917, ch. 146, § 1, 39 Stat. 970).
 
 Words “Automobiles or any other vehicles or” at beginning of section were omitted, and “any conveyance” substituted to remove possible ambiguity as to scope of section.
 
@@ -611,11 +611,11 @@ Words at conclusion of section “provided in section 246 of this title” added
 
 Minor changes were made in arrangement and phraseology.
 
-## § 3670. Disposition of conveyances seized for violation of the Indian liquor laws
+## § 3670. Disposition of conveyances seized for violation of the Indian liquor laws
 
 The provisions of section 3668 of this title shall apply to any conveyances seized, proceeded against by libel, or forfeited under the provisions of section 3113 or 3669 of this title for having been used in introducing or attempting to introduce intoxicants into the Indian country or into other places where such introduction is prohibited by treaty or enactment of Congress.
 
-(Added Oct. 24, 1951, ch. 546, § 2, 65 Stat. 609, § 3619; renumbered § 3670 and amended Pub. L. 98–473, title II, §§ 212(a)(1), 223(k), Oct. 12, 1984, 98 Stat. 1987, 2029.)
+(Added Oct. 24, 1951, ch. 546, § 2, 65 Stat. 609, § 3619; renumbered § 3670 and amended Pub. L. 98–473, title II, §§ 212(a)(1), 223(k), Oct. 12, 1984, 98 Stat. 1987, 2029.)
 
 **Editorial Notes**
 
@@ -629,13 +629,13 @@ The provisions of section 3668 of this title shall apply to any conveyances seiz
 
 Amendment by section 223(k) of Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-## § 3671. Vessels carrying explosives and steerage passengers
+## § 3671. Vessels carrying explosives and steerage passengers
 
 The amount of any fine imposed upon the master of a steamship or other vessel under the provisions of section 2278 of this title shall be a lien upon such vessel, and such vessel may be libeled therefor in the district court of the United States for any district in which such vessel shall arrive or from which it shall depart.
 
-(Added Sept. 3, 1954, ch. 1263, § 36, 68 Stat. 1239, § 3620; renumbered § 3671, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
+(Added Sept. 3, 1954, ch. 1263, § 36, 68 Stat. 1239, § 3620; renumbered § 3671, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
 
-## § 3672. Duties of Director of Administrative Office of the United States Courts
+## § 3672. Duties of Director of Administrative Office of the United States Courts
 
 The Director of the Administrative Office of the United States Courts, or his authorized agent, shall investigate the work of the probation officers and make recommendations concerning the same to the respective judges and shall have access to the records of all probation officers.
 
@@ -655,13 +655,13 @@ He shall pay for presentence studies and reports by qualified consultants and pr
 
 Whenever the court finds that funds are available for payment by or on behalf of a person furnished such services, training, or guidance, the court may direct that such funds be paid to the Director. Any moneys collected under this paragraph shall be used to reimburse the appropriations obligated and disbursed in payment for such services, training, or guidance.
 
-(June 25, 1948, ch. 645, 62 Stat. 843, § 3656; May 24, 1949, ch. 139, § 57, 63 Stat. 97; renumbered § 3672, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987; Pub. L. 99–570, title I, § 1861(b)(1), Oct. 27, 1986, 100 Stat. 3207–53; Pub. L. 99–646, § 18(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 100–182, § 20, Dec. 7, 1987, 101 Stat. 1270; Pub. L. 110–199, title II, § 253, Apr. 9, 2008, 122 Stat. 693; Pub. L. 110–406, § 15(b), Oct. 13, 2008, 122 Stat. 4294; Pub. L. 111–350, § 5(d)(1), Jan. 4, 2011, 124 Stat. 3847.)
+(June 25, 1948, ch. 645, 62 Stat. 843, § 3656; May 24, 1949, ch. 139, § 57, 63 Stat. 97; renumbered § 3672, Pub. L. 98–473, title II, § 212(a)(1), Oct. 12, 1984, 98 Stat. 1987; Pub. L. 99–570, title I, § 1861(b)(1), Oct. 27, 1986, 100 Stat. 3207–53; Pub. L. 99–646, § 18(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 100–182, § 20, Dec. 7, 1987, 101 Stat. 1270; Pub. L. 110–199, title II, § 253, Apr. 9, 2008, 122 Stat. 693; Pub. L. 110–406, § 15(b), Oct. 13, 2008, 122 Stat. 4294; Pub. L. 111–350, § 5(d)(1), Jan. 4, 2011, 124 Stat. 3847.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., § 728 (Mar. 4, 1925, ch. 521, § 4(a), as added June 6, 1930, ch. 406, § 2, 46 Stat. 503).
+Based on title 18, U.S.C., 1940 ed., § 728 (Mar. 4, 1925, ch. 521, § 4(a), as added June 6, 1930, ch. 406, § 2, 46 Stat. 503).
 
 The only change made in this section was the substitution of the “Director of the Administrative Office of the United States Courts” for “Attorney General”. (See reviser’s note under section 3654 of this title.)
 
@@ -681,15 +681,15 @@ This Act, referred to in the seventh undesignated par., probably means Pub. L. 1
 
 2011—Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes of the United States” in seventh undesignated par.
 
-2008—Pub. L. 110–406, § 15(b)(2), which directed insertion of “to expend funds or” after “He shall also have the authority” in fourth sentence of seventh undesignated par., was executed by making the insertion after “He also shall have the authority” to reflect the probable intent of Congress.
+2008—Pub. L. 110–406, § 15(b)(2), which directed insertion of “to expend funds or” after “He shall also have the authority” in fourth sentence of seventh undesignated par., was executed by making the insertion after “He also shall have the authority” to reflect the probable intent of Congress.
 
-Pub. L. 110–406, § 15(b)(1), substituted “negotiate and award contracts identified in this paragraph” for “negotiate and award such contracts” in third sentence of seventh undesignated par.
+Pub. L. 110–406, § 15(b)(1), substituted “negotiate and award contracts identified in this paragraph” for “negotiate and award such contracts” in third sentence of seventh undesignated par.
 
 Pub. L. 110–199 inserted last sentence of seventh undesignated par.
 
-1987—Pub. L. 100–182, § 20(1), amended seventh undesignated par. generally. Prior to amendment, seventh undesignated par. read as follows: “He shall have the authority to contract with any appropriate public or private agency or person for the detection of and care in the community of an offender who is an alcohol-dependent person, or an addict or a drug-dependent person within the meaning of section 2 of the Public Health Service Act (42 U.S.C. 201). This authority shall include the authority to provide equipment and supplies; testing; medical, educational, social, psychological, and vocational services; corrective and preventive guidance and training; and other rehabilitative services designed to protect the public and benefit the alcohol-dependent person, addict, or drug-dependent person by eliminating his dependence on alcohol or addicting drugs, or by controlling his dependence and his susceptibility to addiction. He may negotiate and award such contracts without regard to section 3709 of the Revised Statutes (41 U.S.C. 5).”
+1987—Pub. L. 100–182, § 20(1), amended seventh undesignated par. generally. Prior to amendment, seventh undesignated par. read as follows: “He shall have the authority to contract with any appropriate public or private agency or person for the detection of and care in the community of an offender who is an alcohol-dependent person, or an addict or a drug-dependent person within the meaning of section 2 of the Public Health Service Act (42 U.S.C. 201). This authority shall include the authority to provide equipment and supplies; testing; medical, educational, social, psychological, and vocational services; corrective and preventive guidance and training; and other rehabilitative services designed to protect the public and benefit the alcohol-dependent person, addict, or drug-dependent person by eliminating his dependence on alcohol or addicting drugs, or by controlling his dependence and his susceptibility to addiction. He may negotiate and award such contracts without regard to section 3709 of the Revised Statutes (41 U.S.C. 5).”
 
-Pub. L. 100–182, § 20(2), added ninth undesignated par.: “Whenever the court finds that funds are available for payment by or on behalf of a person furnished such services, training, or guidance, the court may direct that such funds be paid to the Director. Any moneys collected under this paragraph shall be used to reimburse the appropriations obligated and disbursed in payment for such services, training, or guidance.”
+Pub. L. 100–182, § 20(2), added ninth undesignated par.: “Whenever the court finds that funds are available for payment by or on behalf of a person furnished such services, training, or guidance, the court may direct that such funds be paid to the Director. Any moneys collected under this paragraph shall be used to reimburse the appropriations obligated and disbursed in payment for such services, training, or guidance.”
 
 1986—Pub. L. 99–570 and Pub. L. 99–646 added substantially identical seventh and eighth undesignated pars. containing provision relating to authority to contract with any appropriate public or private agency or person for the detection of and care in the community of an offender who is an alcohol-dependent person, an addict, or a drug-dependent person and provision relating to payment for presentence studies and reports by qualified consultants and presentence examinations and reports by psychiatric and psychological examiners ordered by the court under section 3552(b) or (c).
 
@@ -703,9 +703,9 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 
 **Effective Date of 1986 Amendments**
 
-Pub. L. 99–646, § 18(b), Nov. 10, 1986, 100 Stat. 3596, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the taking effect of such redesignation [section 3656 of this title renumbered section 3672 effective Nov. 1, 1987].”
+Pub. L. 99–646, § 18(b), Nov. 10, 1986, 100 Stat. 3596, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the taking effect of such redesignation [section 3656 of this title renumbered section 3672 effective Nov. 1, 1987].”
 
-Pub. L. 99–570, title I, § 1861(b)(2), Oct. 27, 1986, 100 Stat. 3207–53, provided that: “The amendment made by this section [probably should be “subsection”, amending this section] shall take effect on the date of the taking effect of such redesignation [section 3656 of this title renumbered section 3672 effective Nov. 1, 1987].”
+Pub. L. 99–570, title I, § 1861(b)(2), Oct. 27, 1986, 100 Stat. 3207–53, provided that: “The amendment made by this section [probably should be “subsection”, amending this section] shall take effect on the date of the taking effect of such redesignation [section 3656 of this title renumbered section 3672 effective Nov. 1, 1987].”
 
 **Construction of 2008 Amendment**
 
@@ -713,7 +713,7 @@ For construction of amendments by Pub. L. 110–199 and requirements for grants 
 
 **Authorization of Appropriations**
 
-Pub. L. 95–537, § 4(a), Oct. 27, 1978, 92 Stat. 2038, as amended by Pub. L. 98–236, § 2, Mar. 20, 1984, 98 Stat. 66; Pub. L. 99–570, title I, § 1861(d), Oct. 27, 1986, 100 Stat. 3207–53; Pub. L. 100–690, title VI, § 6291, Nov. 18, 1988, 102 Stat. 4369; Pub. L. 101–421, § 2, Oct. 12, 1990, 104 Stat. 909, authorized appropriations to carry out the purposes of Pub. L. 95–537 and the seventh par. of this section for the fiscal year ending Sept. 30, 1980, to the fiscal year ending Sept. 30, 1992.
+Pub. L. 95–537, § 4(a), Oct. 27, 1978, 92 Stat. 2038, as amended by Pub. L. 98–236, § 2, Mar. 20, 1984, 98 Stat. 66; Pub. L. 99–570, title I, § 1861(d), Oct. 27, 1986, 100 Stat. 3207–53; Pub. L. 100–690, title VI, § 6291, Nov. 18, 1988, 102 Stat. 4369; Pub. L. 101–421, § 2, Oct. 12, 1990, 104 Stat. 909, authorized appropriations to carry out the purposes of Pub. L. 95–537 and the seventh par. of this section for the fiscal year ending Sept. 30, 1980, to the fiscal year ending Sept. 30, 1992.
 
 **Statutory Notes and Executive Documents**
 
@@ -721,7 +721,7 @@ Pub. L. 95–537, § 4(a), Oct. 27, 1978, 92 Stat. 2038, as amended by Pub. L.
 
 Increase in compensation rates fixed under this section, see note under section 603 of Title 28, Judiciary and Judicial Procedure.
 
-## § 3673. Definitions for sentencing provisions
+## § 3673. Definitions for sentencing provisions
 
 As used in chapters 227 and 229—
 
@@ -731,7 +731,7 @@ As used in chapters 227 and 229—
 
 **(3)** the term “law enforcement officer” means a public servant authorized by law or by a government agency to engage in or supervise the prevention, detection, investigation, or prosecution of an offense.
 
-(Added Pub. L. 98–473, title II, § 212(a)(4), Oct. 12, 1984, 98 Stat. 2010; amended Pub. L. 99–646, § 2(a), Nov. 10, 1986, 100 Stat. 3592.)
+(Added Pub. L. 98–473, title II, § 212(a)(4), Oct. 12, 1984, 98 Stat. 2010; amended Pub. L. 99–646, § 2(a), Nov. 10, 1986, 100 Stat. 3592.)
 
 **Editorial Notes**
 
@@ -743,7 +743,7 @@ As used in chapters 227 and 229—
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–646, § 2(b), Nov. 10, 1986, 100 Stat. 3592, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the taking effect of section 3673 of title 18, United States Code [Nov. 1, 1987].”
+Pub. L. 99–646, § 2(b), Nov. 10, 1986, 100 Stat. 3592, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the taking effect of section 3673 of title 18, United States Code [Nov. 1, 1987].”
 
 **Effective Date**
 

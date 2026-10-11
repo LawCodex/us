@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 10—CUSTOMS SERVICE
 
-## § 2071. Establishment of Service; Commissioner; appointment
+## § 2071. Establishment of Service; Commissioner; appointment
 
 There shall be in the Department of the Treasury a service to be known as the United States Customs Service, and a Commissioner of Customs.1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 The Commissioner of Customs,1 who shall be appointed by the President by and with the advice and consent of the Senate, shall—
 
@@ -29,7 +29,7 @@ The Commissioner of Customs,1 who shall be appointed by the President by and wit
 
 **(3)** report to the Secretary of the Treasury through such other officials as may be designated by the Secretary.
 
-(Mar. 3, 1927, ch. 348, § 1, 44 Stat. 1381; May 27, 1930, ch. 342, § 8, 46 Stat. 430; Ex. Ord. No. 6639, § 1a, Mar. 10, 1934; Pub. L. 101–207, § 3(b)(1), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(Mar. 3, 1927, ch. 348, § 1, 44 Stat. 1381; May 27, 1930, ch. 342, § 8, 46 Stat. 430; Ex. Ord. No. 6639, § 1a, Mar. 10, 1934; Pub. L. 101–207, § 3(b)(1), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 **Editorial Notes**
 
@@ -37,9 +37,9 @@ The Commissioner of Customs,1 who shall be appointed by the President by and wit
 
 Provisions that fixed the compensation of the Commissioner have been omitted as the position is under the Executive Schedule, see section 5316 of Title 5, Government Organization and Employees.
 
-Provisions that authorized appointment of the Commissioner “without regard to the civil service laws” were omitted as the appointment is subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the act of Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5. The position is currently excepted from the civil service rules and regulations by Schedule C, see Part 213 of Title 5 of the Code of Federal Regulations.
+Provisions that authorized appointment of the Commissioner “without regard to the civil service laws” were omitted as the appointment is subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the act of Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5. The position is currently excepted from the civil service rules and regulations by Schedule C, see Part 213 of Title 5 of the Code of Federal Regulations.
 
-Section was formerly classified to section 281 of Title 5 prior to the general revision and codification of Title 5 by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 281 of Title 5 prior to the general revision and codification of Title 5 by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 References to the Bureau of Prohibition and to the Commissioner of Prohibition were omitted in view of the change of name of the Bureau of Prohibition to the Bureau of Industrial Alcohol by act May 27, 1930, and the abolition of the Bureau of Industrial Alcohol by Ex. Ord. No. 6639.
 
@@ -55,7 +55,7 @@ Reference to Commissioner of Customs deemed to be reference to Commissioner of U
 
 **Effective Date**
 
-Act Mar. 3, 1927, ch. 348, § 7, 44 Stat. 1383, provided that: “This Act shall take effect April 1, 1927.”
+Act Mar. 3, 1927, ch. 348, § 7, 44 Stat. 1383, provided that: “This Act shall take effect April 1, 1927.”
 
 **Transfer of Functions**
 
@@ -63,33 +63,33 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Mandatory Advance Electronic Information for Cargo and Other Improved Customs Reporting Procedures**
 
-Pub. L. 107–210, div. A, title III, § 343(a), (c), Aug. 6, 2002, 116 Stat. 981, 985, as amended by Pub. L. 107–295, title I, § 108(b), Nov. 25, 2002, 116 Stat. 2089; Pub. L. 109–59, title XI, § 11165(a), Aug. 10, 2005, 119 Stat. 1976; Pub. L. 114–125, title I, § 111(c), Feb. 24, 2016, 130 Stat. 140; Pub. L. 115–271, title VIII, § 8003(a)(1), (b)(1), (e), Oct. 24, 2018, 132 Stat. 4074, which authorized the Secretary of the Treasury to promulgate regulations providing for the transmission to the Customs Service of electronic information pertaining to cargo entering or leaving the United States and was formerly set out as a note under this section, was transferred to section 1415 of this title.
+Pub. L. 107–210, div. A, title III, § 343(a), (c), Aug. 6, 2002, 116 Stat. 981, 985, as amended by Pub. L. 107–295, title I, § 108(b), Nov. 25, 2002, 116 Stat. 2089; Pub. L. 109–59, title XI, § 11165(a), Aug. 10, 2005, 119 Stat. 1976; Pub. L. 114–125, title I, § 111(c), Feb. 24, 2016, 130 Stat. 140; Pub. L. 115–271, title VIII, § 8003(a)(1), (b)(1), (e), Oct. 24, 2018, 132 Stat. 4074, which authorized the Secretary of the Treasury to promulgate regulations providing for the transmission to the Customs Service of electronic information pertaining to cargo entering or leaving the United States and was formerly set out as a note under this section, was transferred to section 1415 of this title.
 
 **Secure Systems of Transportation**
 
-Pub. L. 107–210, div. A, title III, § 343A, Aug. 6, 2002, 116 Stat. 985, required the Secretary of the Treasury to establish a joint task force to evaluate, prototype, and certify secure systems of transportation, required the joint task force to establish a program to evaluate and certify secure systems of international intermodal transport, provided minimum standards for the program, and mandated that the Secretary recognize certified systems of intermodal transport and report to Congress within one year of the program’s implementation, prior to repeal by Pub. L. 107–295, title I, § 108(c), Nov. 25, 2002, 116 Stat. 2090.
+Pub. L. 107–210, div. A, title III, § 343A, Aug. 6, 2002, 116 Stat. 985, required the Secretary of the Treasury to establish a joint task force to evaluate, prototype, and certify secure systems of transportation, required the joint task force to establish a program to evaluate and certify secure systems of international intermodal transport, provided minimum standards for the program, and mandated that the Secretary recognize certified systems of intermodal transport and report to Congress within one year of the program’s implementation, prior to repeal by Pub. L. 107–295, title I, § 108(c), Nov. 25, 2002, 116 Stat. 2090.
 
 **Extension of Pre-Clearance Program in Aruba**
 
-Pub. L. 102–393, title VI, § 637, Oct. 6, 1992, 106 Stat. 1779, provided that: “Notwithstanding any other provision of law, the United States Customs Service pilot pre-clearance program authorized to be established in Aruba shall be extended through 1994.”
+Pub. L. 102–393, title VI, § 637, Oct. 6, 1992, 106 Stat. 1779, provided that: “Notwithstanding any other provision of law, the United States Customs Service pilot pre-clearance program authorized to be established in Aruba shall be extended through 1994.”
 
 **Reports Regarding Expansion of Customs Preclearance Operations and Recovery for Damage Resulting From Customs Examinations**
 
-Pub. L. 101–382, title I, § 124, Aug. 20, 1990, 104 Stat. 643, as amended by Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210, provided that the Secretary of the Treasury would assess the advisability of expanding the use of preclearance operations by the United States Customs Service at foreign airports and report to Congress no later than Feb. 1, 1991, and also provided that the Secretary would evaluate various means by which persons whose merchandise is damaged during customs examinations could seek compensation from, or take other recourse against, the United States Customs Service, and report this evaluation to Congress by Feb. 1, 1991.
+Pub. L. 101–382, title I, § 124, Aug. 20, 1990, 104 Stat. 643, as amended by Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210, provided that the Secretary of the Treasury would assess the advisability of expanding the use of preclearance operations by the United States Customs Service at foreign airports and report to Congress no later than Feb. 1, 1991, and also provided that the Secretary would evaluate various means by which persons whose merchandise is damaged during customs examinations could seek compensation from, or take other recourse against, the United States Customs Service, and report this evaluation to Congress by Feb. 1, 1991.
 
 **Pilot Preclearance Program**
 
-Pub. L. 101–382, title II, § 233, Aug. 20, 1990, 104 Stat. 663, required the Commissioner of Customs to carry out, during fiscal years 1991 and 1992, preclearance operations at a facility of the United States Customs Service in a country within the Caribbean Basin which the Commissioner considered appropriate for testing the extent to which the availability of preclearance operations could assist in the development of tourism and to submit to Congress, as soon as practicable after Sept. 30, 1992, a report regarding those preclearance operations.
+Pub. L. 101–382, title II, § 233, Aug. 20, 1990, 104 Stat. 663, required the Commissioner of Customs to carry out, during fiscal years 1991 and 1992, preclearance operations at a facility of the United States Customs Service in a country within the Caribbean Basin which the Commissioner considered appropriate for testing the extent to which the availability of preclearance operations could assist in the development of tourism and to submit to Congress, as soon as practicable after Sept. 30, 1992, a report regarding those preclearance operations.
 
 **Incumbent Commissioner on December 6, 1989**
 
-Pub. L. 101–207, § 3(b)(2), Dec. 7, 1989, 103 Stat. 1834, provided that: “The individual who is serving as the Commissioner of Customs on the day before the date of the enactment of this Act [Dec. 7, 1989] may continue to serve in such capacity until a Commissioner of Customs, appointed as provided in the amendment made by paragraph (1) [amending this section], takes office.”
+Pub. L. 101–207, § 3(b)(2), Dec. 7, 1989, 103 Stat. 1834, provided that: “The individual who is serving as the Commissioner of Customs on the day before the date of the enactment of this Act [Dec. 7, 1989] may continue to serve in such capacity until a Commissioner of Customs, appointed as provided in the amendment made by paragraph (1) [amending this section], takes office.”
 
 **Advisory Committee on Commercial Operations of United States Customs Service**
 
-Pub. L. 100–203, title IX, § 9503(c), Dec. 22, 1987, 101 Stat. 1330–381, which directed the Secretary of the Treasury to establish an Advisory Committee on Commercial Operations of the United States Customs Service to advise the Secretary and prepare annual reports relating to commercial operations of the United States Customs Service, was repealed, effective on the date on which the Advisory Committee was established under section 4316(a) of this title [Mar. 29, 2016, see 81 F.R. 18865], by Pub. L. 114–125, title I, § 109(g)(1), Feb. 24, 2016, 130 Stat. 137.
+Pub. L. 100–203, title IX, § 9503(c), Dec. 22, 1987, 101 Stat. 1330–381, which directed the Secretary of the Treasury to establish an Advisory Committee on Commercial Operations of the United States Customs Service to advise the Secretary and prepare annual reports relating to commercial operations of the United States Customs Service, was repealed, effective on the date on which the Advisory Committee was established under section 4316(a) of this title [Mar. 29, 2016, see 81 F.R. 18865], by Pub. L. 114–125, title I, § 109(g)(1), Feb. 24, 2016, 130 Stat. 137.
 
-Pub. L. 99–272, title XIII, § 13033, Apr. 7, 1986, 100 Stat. 311, which provided for the establishment of an advisory committee, whose members were to consist of representatives from the airline, shipping, and other transportation industries, the general public, and others, to advise the Secretary of the Treasury on issues related to the performance of the customs services, was repealed by Pub. L. 100–203, title IX, § 9503(d), Dec. 22, 1987, 101 Stat. 1330–382.
+Pub. L. 99–272, title XIII, § 13033, Apr. 7, 1986, 100 Stat. 311, which provided for the establishment of an advisory committee, whose members were to consist of representatives from the airline, shipping, and other transportation industries, the general public, and others, to advise the Secretary of the Treasury on issues related to the performance of the customs services, was repealed by Pub. L. 100–203, title IX, § 9503(d), Dec. 22, 1987, 101 Stat. 1330–382.
 
 **Executive Documents**
 
@@ -99,11 +99,11 @@ Pub. L. 99–272, title XIII, § 13033, Apr. 7, 1986, 100 Stat. 311, which pro
 
 **Transfer of Functions**
 
-Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
+Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 2072. Officers and employees
+## § 2072. Officers and employees
 
 **(a) Appointment by Secretary of the Treasury**
 
@@ -113,7 +113,7 @@ The Secretary of the Treasury is authorized to appoint, in the service establish
 
 The Secretary of the Treasury is authorized to designate an officer of the United States Customs Service to act as Commissioner of Customs,1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 during the absence or disability of the Commissioner of Customs,1 or in the event that there is no Commissioner of Customs.1
 
@@ -149,29 +149,29 @@ The term “Commissioner” means the Commissioner responsible for the United St
 
 **(2) Commercial Operations Advisory Committee**
 
-The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (19 U.S.C. 2071 note) 2
+The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (19 U.S.C. 2071 note) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 or any successor committee.
 
-(Mar. 3, 1927, ch. 348, § 2, 44 Stat. 1381; May 27, 1930, ch. 342, § 8, 46 Stat. 430; June 17, 1930, ch. 497, title IV, § 650, 46 Stat. 762; Ex. Ord. No. 6639, § 1a, Mar. 10, 1934; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Sept. 3, 1954, ch. 1263, § 9, 68 Stat. 1228; Pub. L. 109–347, title IV, § 402, Oct. 13, 2006, 120 Stat. 1924; Pub. L. 114–125, title VIII, § 802(d)(2), (h)(3), Feb. 24, 2016, 130 Stat. 210, 215.)
+(Mar. 3, 1927, ch. 348, § 2, 44 Stat. 1381; May 27, 1930, ch. 342, § 8, 46 Stat. 430; June 17, 1930, ch. 497, title IV, § 650, 46 Stat. 762; Ex. Ord. No. 6639, § 1a, Mar. 10, 1934; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Sept. 3, 1954, ch. 1263, § 9, 68 Stat. 1228; Pub. L. 109–347, title IV, § 402, Oct. 13, 2006, 120 Stat. 1924; Pub. L. 114–125, title VIII, § 802(d)(2), (h)(3), Feb. 24, 2016, 130 Stat. 210, 215.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in subsec. (e)(2), is section 9503(c) of Pub. L. 100–203, which was set out as a note under section 2071 of this title, prior to repeal by Pub. L. 114–125, title I, § 109(g)(1), Feb. 24, 2016, 130 Stat. 137. For establishment of successor committee, see section 4316(a) of this title.
+Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in subsec. (e)(2), is section 9503(c) of Pub. L. 100–203, which was set out as a note under section 2071 of this title, prior to repeal by Pub. L. 114–125, title I, § 109(g)(1), Feb. 24, 2016, 130 Stat. 137. For establishment of successor committee, see section 4316(a) of this title.
 
 **Codification**
 
-Section was formerly classified to section 281a of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 281a of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” were substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Chapter 51 and subchapter III of chapter 53 of title 5” were substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
-2016—Subsecs. (d) to (f). Pub. L. 114–125, § 802(h)(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which established the Office of International Trade. Notwithstanding directory language amending this section “as added” by section 402 of Pub. L. 109–347, amendment was executed to this section as amended by section 402 of Pub. L. 109–347, to reflect the probable intent of Congress. See 2006 Amendment note below.
+2016—Subsecs. (d) to (f). Pub. L. 114–125, § 802(h)(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which established the Office of International Trade. Notwithstanding directory language amending this section “as added” by section 402 of Pub. L. 109–347, amendment was executed to this section as amended by section 402 of Pub. L. 109–347, to reflect the probable intent of Congress. See 2006 Amendment note below.
 
 2006—Subsecs. (d) to (f). Pub. L. 109–347 added subsecs. (d) to (f).
 
@@ -189,7 +189,7 @@ Reference to Commissioner of Customs deemed to be reference to Commissioner of U
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, title XI, § 1106(a), cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, title XI, § 1106(a), cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
 **Transfer of Functions**
 
@@ -207,23 +207,23 @@ Act June 17, 1930, authorized the appointment of an additional deputy commission
 
 **Transfer of Functions**
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Bureau of Industrial Alcohol and office of Commissioner of Industrial Alcohol abolished and Commissioner’s functions transferred to Commissioner of Internal Revenue by Ex. Ord. No. 6639.
 
-## § 2073. Transfer of personnel, etc., to Service
+## § 2073. Transfer of personnel, etc., to Service
 
-**(a)** Repealed. Sept. 3, 1954, ch. 1263, § 10, 68 Stat. 1229.
+**(a)** Repealed. Sept. 3, 1954, ch. 1263, § 10, 68 Stat. 1229.
 
 **(b)** The records, property (including office equipment), and personnel of the Division of Customs are transferred to the United States Customs Service.
 
-(Mar. 3, 1927, ch. 348, § 3, 44 Stat. 1382; Sept. 3, 1954, ch. 1263, § 10, 68 Stat. 1229.)
+(Mar. 3, 1927, ch. 348, § 3, 44 Stat. 1382; Sept. 3, 1954, ch. 1263, § 10, 68 Stat. 1229.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 281b of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 281b of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 Subsection (c) of section 3 of act March 3, 1927, abolished the Division of Customs and offices of directors and assistant directors of customs and Special Agency Service of the Customs.
 
@@ -245,9 +245,9 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Transfer of Functions**
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 2074. Establishment of revolving fund
+## § 2074. Establishment of revolving fund
 
 There is established a revolving fund of $300,000 which shall be available, without fiscal year limitation exclusively for transfer to the appropriation for collecting the revenue from customs to cover obligations of the United States Customs Service arising from authorized reimbursable services, pending reimbursement from parties in interest: *Provided,* That amounts so transferred shall be returned to the revolving fund not later than six months after the close of the fiscal year in which transferred.
 
@@ -257,7 +257,7 @@ There is established a revolving fund of $300,000 which shall be available, with
 
 **Codification**
 
-Section was formerly classified to section 281g of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, Sept. 6, 1966, § 1, 80 Stat. 378.
+Section was formerly classified to section 281g of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, Sept. 6, 1966, § 1, 80 Stat. 378.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -273,9 +273,9 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Transfer of Functions**
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 2075. Appropriations authorization
+## § 2075. Appropriations authorization
 
 **(a) In general**
 
@@ -287,9 +287,9 @@ Functions of all officers of Department of the Treasury and functions of all age
 
 **(B)** the amount authorized for the fiscal year for the salaries and expenses of the Service for other than commercial operations.
 
-**(3)** By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the Commissioner of Customs 1
+**(3)** By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the Commissioner of Customs 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the operations of the Customs Service as provided for in subsection (b).
 
@@ -323,7 +323,7 @@ No part of any sum that is appropriated under the authority of subsection (b) ma
 
 **(d) Overtime pay limitations; waiver**
 
-No part of any sum that is appropriated under subsection (b) for fiscal years after September 30, 1984, may be used for administrative expenses to pay any employee of the United States Customs Service overtime pay in an amount exceeding $25,000; except that the Commissioner of Customs <sup>1</sup> or his designee may waive this limitation in individual cases in order to prevent excessive costs or to meet emergency requirements of the Service.
+No part of any sum that is appropriated under subsection (b) for fiscal years after September 30, 1984, may be used for administrative expenses to pay any employee of the United States Customs Service overtime pay in an amount exceeding $25,000; except that the Commissioner of Customs <sup>1</sup> or his designee may waive this limitation in individual cases in order to prevent excessive costs or to meet emergency requirements of the Service.
 
 **(e) Pay comparability authorization**
 
@@ -331,13 +331,13 @@ For the fiscal year beginning October 1, 1982, and for each fiscal year thereaft
 
 **(f) Use of savings resulting from administrative consolidations**
 
-If savings in salaries and expenses result from the consolidation of administrative functions within the Customs Service, the Commissioner of Customs <sup>1</sup> shall apply those savings, to the extent they are not needed to meet emergency requirements of the Service, to strengthening the commercial operations of the Service by increasing the number of inspector, import specialist, patrol officer, and other line operational positions.
+If savings in salaries and expenses result from the consolidation of administrative functions within the Customs Service, the Commissioner of Customs <sup>1</sup> shall apply those savings, to the extent they are not needed to meet emergency requirements of the Service, to strengthening the commercial operations of the Service by increasing the number of inspector, import specialist, patrol officer, and other line operational positions.
 
 **(g) Allocation of resources; notice to Congressional committees**
 
-**(1)** The Commissioner of Customs <sup>1</sup> shall ensure that existing levels of commercial services, including inspection and control, classification, and value, shall continue to be provided by Customs personnel assigned to the headquarters office of any Customs district designated by statute before April 7, 1986. The number of such personnel assigned to any such district headquarters shall not be reduced through attrition or otherwise, and such personnel shall be afforded the opportunity to maintain their proficiency through training and workshops to the same extent provided to Customs personnel in any other district. Automation and other modernization equipment shall be made available, as needed on a timely basis, to such headquarters to the same extent as such equipment is made available to any other district headquarters.
+**(1)** The Commissioner of Customs <sup>1</sup> shall ensure that existing levels of commercial services, including inspection and control, classification, and value, shall continue to be provided by Customs personnel assigned to the headquarters office of any Customs district designated by statute before April 7, 1986. The number of such personnel assigned to any such district headquarters shall not be reduced through attrition or otherwise, and such personnel shall be afforded the opportunity to maintain their proficiency through training and workshops to the same extent provided to Customs personnel in any other district. Automation and other modernization equipment shall be made available, as needed on a timely basis, to such headquarters to the same extent as such equipment is made available to any other district headquarters.
 
-**(2)** The Commissioner of Customs <sup>1</sup> shall notify the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives at least 180 days prior to taking any action which would—
+**(2)** The Commissioner of Customs <sup>1</sup> shall notify the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives at least 180 days prior to taking any action which would—
 
 **(A)** result in any significant reduction in force of employees other than by means of attrition;
 
@@ -413,7 +413,7 @@ Not later than 30 days after October 13, 2006, the Commissioner shall designate 
 
 In this subsection, the term “Commissioner” means the Commissioner responsible for United States Customs and Border Protection in the Department of Homeland Security.
 
-(Pub. L. 95–410, title III, § 301, Oct. 3, 1978, 92 Stat. 905; Pub. L. 97–456, § 2, Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title VII, § 702, Oct. 30, 1984, 98 Stat. 3043; Pub. L. 99–272, title XIII, § 13022(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 99–509, title VIII, § 8102, Oct. 21, 1986, 100 Stat. 1967; Pub. L. 99–570, title III, § 3141(a), Oct. 27, 1986, 100 Stat. 3207–92; Pub. L. 100–203, title IX, § 9503(a), (b), Dec. 22, 1987, 101 Stat. 1330–380, 1330–381; Pub. L. 100–690, title VII, § 7361(a), (b), Nov. 18, 1988, 102 Stat. 4474; Pub. L. 101–207, § 3(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, § 102, Aug. 20, 1990, 104 Stat. 634; Pub. L. 107–210, div. A, title III, § 311(a), (b)(1), (c), (d), Aug. 6, 2002, 116 Stat. 973; Pub. L. 109–347, title IV, § 403, Oct. 13, 2006, 120 Stat. 1926; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(Pub. L. 95–410, title III, § 301, Oct. 3, 1978, 92 Stat. 905; Pub. L. 97–456, § 2, Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title VII, § 702, Oct. 30, 1984, 98 Stat. 3043; Pub. L. 99–272, title XIII, § 13022(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 99–509, title VIII, § 8102, Oct. 21, 1986, 100 Stat. 1967; Pub. L. 99–570, title III, § 3141(a), Oct. 27, 1986, 100 Stat. 3207–92; Pub. L. 100–203, title IX, § 9503(a), (b), Dec. 22, 1987, 101 Stat. 1330–380, 1330–381; Pub. L. 100–690, title VII, § 7361(a), (b), Nov. 18, 1988, 102 Stat. 4474; Pub. L. 101–207, § 3(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, § 102, Aug. 20, 1990, 104 Stat. 634; Pub. L. 107–210, div. A, title III, § 311(a), (b)(1), (c), (d), Aug. 6, 2002, 116 Stat. 973; Pub. L. 109–347, title IV, § 403, Oct. 13, 2006, 120 Stat. 1926; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 **Editorial Notes**
 
@@ -427,51 +427,51 @@ Hereafter, referred to in subsec. (h)(3), probably means on and after the date o
 
 2006—Subsec. (h). Pub. L. 109–347 added subsec. (h).
 
-2002—Subsec. (a)(3). Pub. L. 107–210, § 311(d), added par. (3).
+2002—Subsec. (a)(3). Pub. L. 107–210, § 311(d), added par. (3).
 
-Subsec. (b)(1)(A). Pub. L. 107–210, § 311(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “$516,217,000 for fiscal year 1991.”
+Subsec. (b)(1)(A). Pub. L. 107–210, § 311(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “$516,217,000 for fiscal year 1991.”
 
-Subsec. (b)(1)(B). Pub. L. 107–210, § 311(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “$542,091,000 for fiscal year 1992.”
+Subsec. (b)(1)(B). Pub. L. 107–210, § 311(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “$542,091,000 for fiscal year 1992.”
 
-Subsec. (b)(2)(A)(i). Pub. L. 107–210, § 311(b)(1)(A), added cl. (i) and struck out former cl. (i) which read as follows: “$672,021,000 for fiscal year 1991.”
+Subsec. (b)(2)(A)(i). Pub. L. 107–210, § 311(b)(1)(A), added cl. (i) and struck out former cl. (i) which read as follows: “$672,021,000 for fiscal year 1991.”
 
-Subsec. (b)(2)(A)(ii). Pub. L. 107–210, § 311(b)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “$705,793,000 for fiscal year 1992.”
+Subsec. (b)(2)(A)(ii). Pub. L. 107–210, § 311(b)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “$705,793,000 for fiscal year 1992.”
 
-Subsec. (b)(3)(A). Pub. L. 107–210, § 311(c)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “$143,047,000 for fiscal year 1991.”
+Subsec. (b)(3)(A). Pub. L. 107–210, § 311(c)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “$143,047,000 for fiscal year 1991.”
 
-Subsec. (b)(3)(B). Pub. L. 107–210, § 311(c)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “$150,199,000 for fiscal year 1992.”
+Subsec. (b)(3)(B). Pub. L. 107–210, § 311(c)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “$150,199,000 for fiscal year 1992.”
 
 1990—Subsec. (b). Pub. L. 101–382, amended subsec. (b) generally, in par. (1), substituting provisions authorizing $516,217,000 and $542,091,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $418,822,000 for fiscal year 1990, of which at least $26,240,000 was to be used to hire at least 435 additional inspectors and other drug interdiction personnel, in par. (2), designating existing provisions as subpar. (A) and substituting provisions authorizing $672,021,000 and $705,793,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $656,468,000 for fiscal year 1990, striking out provisions relating to Customs User Fee Account, and adding subpar. (B), and in par. (3), substituting provisions authorizing $143,047,000 and $150,199,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $128,128,000 for fiscal year 1990.
 
-1989—Subsec. (b)(1). Pub. L. 101–207, § 3(a)(1), (2), substituted “1990” for “1989” and “$418,822,000” for “$440,504,000”.
+1989—Subsec. (b)(1). Pub. L. 101–207, § 3(a)(1), (2), substituted “1990” for “1989” and “$418,822,000” for “$440,504,000”.
 
-Subsec. (b)(2). Pub. L. 101–207, § 3(a)(1), (3), substituted “1990” for “1989” and “$656,468,000” for “$615,247,000”.
+Subsec. (b)(2). Pub. L. 101–207, § 3(a)(1), (3), substituted “1990” for “1989” and “$656,468,000” for “$615,247,000”.
 
-Subsec. (b)(3). Pub. L. 101–207, § 3(a)(1), (4), substituted “1990” for “1989” and “$128,128,000” for “$142,262,000”.
+Subsec. (b)(3). Pub. L. 101–207, § 3(a)(1), (4), substituted “1990” for “1989” and “$128,128,000” for “$142,262,000”.
 
-Subsec. (b)(4). Pub. L. 101–207, § 3(a)(5), struck out par. (4) which read as follows: “There are authorized to be appropriated to the Secretary of the Treasury for fiscal year 1989, $1,600,000 for payment to the Customs Cooperation Council.”
+Subsec. (b)(4). Pub. L. 101–207, § 3(a)(5), struck out par. (4) which read as follows: “There are authorized to be appropriated to the Secretary of the Treasury for fiscal year 1989, $1,600,000 for payment to the Customs Cooperation Council.”
 
-1988—Subsec. (b)(1). Pub. L. 100–690, § 7361(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated for fiscal year 1988 not to exceed $348,192,000 for the salaries and expenses of the United States Customs Service that are incurred in noncommercial operations, of which $171,857.06 shall be available only for concluding Contract TC–82–54 that was awarded for the development and testing of an automatic license plate reader.”
+1988—Subsec. (b)(1). Pub. L. 100–690, § 7361(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated for fiscal year 1988 not to exceed $348,192,000 for the salaries and expenses of the United States Customs Service that are incurred in noncommercial operations, of which $171,857.06 shall be available only for concluding Contract TC–82–54 that was awarded for the development and testing of an automatic license plate reader.”
 
-Subsec. (b)(2). Pub. L. 100–690, § 7361(a)(2)(A), (B), substituted authorization of appropriation of $615,247,000 for fiscal year 1989 for authorization of appropriation of $615,000,000 for fiscal year 1988.
+Subsec. (b)(2). Pub. L. 100–690, § 7361(a)(2)(A), (B), substituted authorization of appropriation of $615,247,000 for fiscal year 1989 for authorization of appropriation of $615,000,000 for fiscal year 1988.
 
-Subsec. (b)(3). Pub. L. 100–690, § 7361(a)(2)(A), (C), substituted authorization of appropriation of $142,262,000 for fiscal year 1989 for authorization of appropriation of $118,309,000 for fiscal year 1988.
+Subsec. (b)(3). Pub. L. 100–690, § 7361(a)(2)(A), (C), substituted authorization of appropriation of $142,262,000 for fiscal year 1989 for authorization of appropriation of $118,309,000 for fiscal year 1988.
 
-Subsec. (b)(4). Pub. L. 100–690, § 7361(a)(2)(D), added par. (4).
+Subsec. (b)(4). Pub. L. 100–690, § 7361(a)(2)(D), added par. (4).
 
-Subsec. (g)(3). Pub. L. 100–690, § 7361(b), added par. (3).
+Subsec. (g)(3). Pub. L. 100–690, § 7361(b), added par. (3).
 
-1987—Subsec. (b). Pub. L. 100–203, § 9503(a), amended subsec. (b) generally, revising and restating as pars. (1) to (3) provisions of former pars. (1) and (2).
+1987—Subsec. (b). Pub. L. 100–203, § 9503(a), amended subsec. (b) generally, revising and restating as pars. (1) to (3) provisions of former pars. (1) and (2).
 
-Subsec. (f). Pub. L. 100–203, § 9503(b)(1), struck out heading which is now editorially supplied.
+Subsec. (f). Pub. L. 100–203, § 9503(b)(1), struck out heading which is now editorially supplied.
 
-Subsec. (g). Pub. L. 100–203, § 9503(b)(2), (3), struck out heading which is now editorially supplied, designated existing provisions as par. (1), and added par. (2).
+Subsec. (g). Pub. L. 100–203, § 9503(b)(2), (3), struck out heading which is now editorially supplied, designated existing provisions as par. (1), and added par. (2).
 
-1986—Subsec. (a). Pub. L. 99–509, § 8102(1), designated existing provisions as par. (1) and added par. (2).
+1986—Subsec. (a). Pub. L. 99–509, § 8102(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 99–570, title III, § 3141(a), Oct. 27, 1986, 100 Stat. 3207–92, which directed an amendment to subsec. (b) of this section did not become effective pursuant to Pub. L. 99–570, title III, § 3141(b), which provided that the amendment made by section 3141(a) would not be effective if H.R. 5300 was enacted with an identical amendment. H.R. 5300 was enacted as Pub. L. 99–509 with an identical amendment in section 8102(2). See below.
+Subsec. (b). Pub. L. 99–570, title III, § 3141(a), Oct. 27, 1986, 100 Stat. 3207–92, which directed an amendment to subsec. (b) of this section did not become effective pursuant to Pub. L. 99–570, title III, § 3141(b), which provided that the amendment made by section 3141(a) would not be effective if H.R. 5300 was enacted with an identical amendment. H.R. 5300 was enacted as Pub. L. 99–509 with an identical amendment in section 8102(2). See below.
 
-Pub. L. 99–509, § 8102(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+Pub. L. 99–509, § 8102(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
 “(1) There are authorized to be appropriated to the Department of the Treasury not to exceed $772,141,000 for the salaries and expenses of the United States Customs Service for fiscal year 1986; of which—
 
@@ -499,13 +499,13 @@ Pub. L. 99–509, § 8102(2), amended subsec. (b) generally. Prior to amendmen
 
 “(7) As soon as possible after April 7, 1986, but not later than 12 months after April 7, 1986, the General Accounting Office shall complete, and submit to the Committee on Ways and Means and the Committee on Finance, a study that evaluates the air detection and interdiction capability of the Customs Service, including assets, geographic dispersal, costs of operation, procurement practices, and the services and equipment provided by other Federal agencies. Within 6 months after commencing the study, the General Accounting Office shall consult with the Committees on the progress of the study.”
 
-Pub. L. 99–272, § 13022(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated to the Department of the Treasury not to exceed $686,399,000 for the salaries and expenses of the United States Customs Service for fiscal year 1985; of which (A) $28,070,000 is for the operation and maintenance of the air interdiction program of the Service, and (B) not to exceed $15,000,000 is for the implementation of the ‘Operation EXODUS’ program and any related program designed to enforce or monitor export controls under the Export Administration Act of 1979 [50 App. U.S.C. 2401 et seq.].”
+Pub. L. 99–272, § 13022(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated to the Department of the Treasury not to exceed $686,399,000 for the salaries and expenses of the United States Customs Service for fiscal year 1985; of which (A) $28,070,000 is for the operation and maintenance of the air interdiction program of the Service, and (B) not to exceed $15,000,000 is for the implementation of the ‘Operation EXODUS’ program and any related program designed to enforce or monitor export controls under the Export Administration Act of 1979 [50 App. U.S.C. 2401 et seq.].”
 
-Subsecs. (f), (g). Pub. L. 99–272, § 13022(a)(2), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 99–272, § 13022(a)(2), added subsecs. (f) and (g).
 
-1984—Subsec. (b). Pub. L. 98–573, § 702(1), amended subsec. (b) generally, which prior to amendment read as follows: “There are authorized to be appropriated to the Department of the Treasury not to exceed $564,224,000 for the salaries and expenses of the United States Customs Service for fiscal year 1983, of which not to exceed $31,464,000 is for salary and expenses for the enforcement of the alcohol and tobacco revenue laws.”
+1984—Subsec. (b). Pub. L. 98–573, § 702(1), amended subsec. (b) generally, which prior to amendment read as follows: “There are authorized to be appropriated to the Department of the Treasury not to exceed $564,224,000 for the salaries and expenses of the United States Customs Service for fiscal year 1983, of which not to exceed $31,464,000 is for salary and expenses for the enforcement of the alcohol and tobacco revenue laws.”
 
-Subsecs. (d), (e). Pub. L. 98–573, § 702(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 98–573, § 702(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1983—Pub. L. 97–456 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
@@ -521,7 +521,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 **Special Effective Date Rule, 1986 Amendment**
 
-Pub. L. 99–570, title III, § 3141(b), Oct. 27, 1986, 100 Stat. 3207–93, provided that: “If the bill H.R. 5300 [enacted as Pub. L. 99–509] (providing for reconciliation of the budget for fiscal year 1987) is enacted and includes an amendment to section 301(b) of the Customs Procedural Reform and Simplification Act of 1978 which is identical to the amendment made by subsection (a) of this section [amending this section], then the amendment made by subsection (a) shall have no effect.”
+Pub. L. 99–570, title III, § 3141(b), Oct. 27, 1986, 100 Stat. 3207–93, provided that: “If the bill H.R. 5300 [enacted as Pub. L. 99–509] (providing for reconciliation of the budget for fiscal year 1987) is enacted and includes an amendment to section 301(b) of the Customs Procedural Reform and Simplification Act of 1978 which is identical to the amendment made by subsection (a) of this section [amending this section], then the amendment made by subsection (a) shall have no effect.”
 
 **Transfer of Functions**
 
@@ -531,17 +531,17 @@ Office of International Trade abolished and assets, functions, personnel, and li
 
 **Automated Commercial Environment Computer System**
 
-Pub. L. 107–210, div. A, title III, § 311(b)(2), (3), Aug. 6, 2002, 116 Stat. 973, which related to the development, establishment, and implementation of the Automated Commercial Environment computer system and directed the Commissioner of Customs to prepare periodic reports, was repealed by Pub. L. 107–296, title IV, § 419(b), Nov. 25, 2002, 116 Stat. 2182, and Pub. L. 114–125, title I, § 106(b)(3), Feb. 24, 2016, 130 Stat. 134.
+Pub. L. 107–210, div. A, title III, § 311(b)(2), (3), Aug. 6, 2002, 116 Stat. 973, which related to the development, establishment, and implementation of the Automated Commercial Environment computer system and directed the Commissioner of Customs to prepare periodic reports, was repealed by Pub. L. 107–296, title IV, § 419(b), Nov. 25, 2002, 116 Stat. 2182, and Pub. L. 114–125, title I, § 106(b)(3), Feb. 24, 2016, 130 Stat. 134.
 
-## § 2076. Advances in foreign countries
+## § 2076. Advances in foreign countries
 
-Section 3648 of the Revised Statutes (31 U.S.C. 529b) 1
+Section 3648 of the Revised Statutes (31 U.S.C. 529b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-shall not apply to payments made for the Bureau of Customs 2
+shall not apply to payments made for the Bureau of Customs 2
 
-<sup>2</sup>  See Change of Name note below.
+<sup>2</sup> See Change of Name note below.
 
 in foreign countries.
 
@@ -551,11 +551,11 @@ in foreign countries.
 
 **References in Text**
 
-Section 3648 of the Revised Statutes, referred to in text, was classified to section 529 (not 529b) of former Title 31, Money and Finance, and subsequently repealed and restated as section 3324(a), (b) of Title 31 by Pub. L. 97–258, §§ 1, 5(b), Sept. 13, 1982, 96 Stat. 950, 1068.
+Section 3648 of the Revised Statutes, referred to in text, was classified to section 529 (not 529b) of former Title 31, Money and Finance, and subsequently repealed and restated as section 3324(a), (b) of Title 31 by Pub. L. 97–258, §§ 1, 5(b), Sept. 13, 1982, 96 Stat. 950, 1068.
 
 **Codification**
 
-Section was formerly classified to section 529b of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 529b of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -567,7 +567,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 Section is from Treasury Department Appropriation Act, 1939. Similar provisions were contained in the following appropriation acts:
 
-May 6, 1939, ch. 115, title I, § 1, 53 Stat. 660.
+May 6, 1939, ch. 115, title I, § 1, 53 Stat. 660.
 
 May 14, 1937, ch. 180, title I, 50 Stat. 142.
 
@@ -583,23 +583,23 @@ The Bureau of Customs was redesignated the United States Customs Service by Trea
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 2077. Advances for enforcement of customs provisions
+## § 2077. Advances for enforcement of customs provisions
 
 The Commissioner of Customs,1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 with the approval of the Secretary of the Treasury, is authorized to direct the advance of funds by the Fiscal Service, Treasury Department, in connection with the enforcement of the customs laws.
 
-(Mar. 28, 1928, ch. 266, § 2, as added Aug. 7, 1939, ch. 566, § 1, 53 Stat. 1263; amended 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(Mar. 28, 1928, ch. 266, § 2, as added Aug. 7, 1939, ch. 566, § 1, 53 Stat. 1263; amended 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 529c of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 529c of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -615,25 +615,25 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
 “Fiscal Service” substituted in text for “Division of Disbursement” on authority of section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees, which consolidated such division into Fiscal Service of Department of the Treasury. See section 306 of Title 31, Money and Finance.
 
-## § 2078. Certification of reason for advance
+## § 2078. Certification of reason for advance
 
-A certificate by the Commissioner of Customs 1
+A certificate by the Commissioner of Customs 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 stating the amount of an expenditure made from funds advanced and certifying that the confidential nature of the transaction involved renders it inadvisable to specify the details thereof or impracticable to furnish the payee’s receipt shall be a sufficient voucher for the sum expressed to have been expended.
 
-(Mar. 28, 1928, ch. 266, § 3, as added Aug. 7, 1939, ch. 566, § 1, 53 Stat. 1263; amended Pub. L. 91–513, title III, § 1102(n)(2), Oct. 27, 1970, 84 Stat. 1293; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(Mar. 28, 1928, ch. 266, § 3, as added Aug. 7, 1939, ch. 566, § 1, 53 Stat. 1263; amended Pub. L. 91–513, title III, § 1102(n)(2), Oct. 27, 1970, 84 Stat. 1293; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 529d of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 529d of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
@@ -661,13 +661,13 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 2079. Payments in foreign countries; claims for reimbursement
+## § 2079. Payments in foreign countries; claims for reimbursement
 
 The provisions of this Act shall not affect payments made for the United States Customs Service in foreign countries, nor the right of any customs officer or employee to claim reimbursement for personal funds expended in connection with the enforcement of the customs laws.
 
-(Mar. 28, 1928, ch. 266, § 4, as added Aug. 7, 1939, ch. 566, § 1, 53 Stat. 1263; amended Pub. L. 91–513, title III, § 1102(n)(3), Oct. 27, 1970, 84 Stat. 1293.)
+(Mar. 28, 1928, ch. 266, § 4, as added Aug. 7, 1939, ch. 566, § 1, 53 Stat. 1263; amended Pub. L. 91–513, title III, § 1102(n)(3), Oct. 27, 1970, 84 Stat. 1293.)
 
 **Editorial Notes**
 
@@ -677,7 +677,7 @@ This Act, referred to in text, is act Mar. 28, 1928, ch. 266, 45 Stat. 374, whic
 
 **Codification**
 
-Section was formerly classified to section 529e of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 529e of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
@@ -705,13 +705,13 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of the Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of the Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 2080. Advances from available appropriations; rules and regulations
+## § 2080. Advances from available appropriations; rules and regulations
 
 Advances pursuant to this Act, in connection with the enforcement of the customs laws may be made, notwithstanding the provisions of section 3324(a) and (b) of title 31, from the appropriations available for the enforcement of such laws. The Secretary of the Treasury is authorized to prescribe such rules and regulations concerning advances made pursuant to this Act as are necessary or appropriate for the protection of the interests of the United States.
 
-(Mar. 28, 1928, ch. 266, § 5, as added Aug. 7, 1939, ch. 566, § 1, 53 Stat. 1263; amended Pub. L. 91–513, title III, § 1102(n)(4), Oct. 27, 1970, 84 Stat. 1293.)
+(Mar. 28, 1928, ch. 266, § 5, as added Aug. 7, 1939, ch. 566, § 1, 53 Stat. 1263; amended Pub. L. 91–513, title III, § 1102(n)(4), Oct. 27, 1970, 84 Stat. 1293.)
 
 **Editorial Notes**
 
@@ -723,9 +723,9 @@ Sections 529a and 529g of former Title 31 were repealed by sections 1101(a)(3) a
 
 **Codification**
 
-“Section 3324(a) and (b) of title 31” substituted in text for “section 3648 of the Revised Statutes of the United States (U.S.C., title 31, sec. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Section 3324(a) and (b) of title 31” substituted in text for “section 3648 of the Revised Statutes of the United States (U.S.C., title 31, sec. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-Section was formerly classified to section 529f of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 529f of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
@@ -741,7 +741,7 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under section 171 of Title 21, Food and Drugs.
 
-## § 2081. Undercover investigative operations of Customs Service
+## § 2081. Undercover investigative operations of Customs Service
 
 **(a) Certification required for exemption of undercover operations from certain laws** With respect to any undercover investigative operation of the United States Customs Service (hereinafter in this section referred to as the “Service”) which is necessary for the detection and prosecution of offenses against the United States which are within the jurisdiction of the Secretary of the Treasury—
 
@@ -765,11 +765,11 @@ Prosecutions for any violation of law occurring, and civil seizures or forfeitur
 
 **(3)** the proceeds from the undercover operation may be used to offset necessary and reasonable expenses incurred in such operation without regard to the provisions of section 3302 of title 31;
 
-only upon the written certification of the Commissioner of Customs 1
+only upon the written certification of the Commissioner of Customs 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
-(or, if designated by the Commissioner the Deputy or an Assistant Commissioner of Customs) 1 that any action authorized by paragraph (1), (2), or (3) of this subsection is necessary for the conduct of such undercover operation.
+(or, if designated by the Commissioner the Deputy or an Assistant Commissioner of Customs) 1 that any action authorized by paragraph (1), (2), or (3) of this subsection is necessary for the conduct of such undercover operation.
 
 **(b) Liquidation of corporations and business entities**
 
@@ -817,19 +817,19 @@ As soon as the proceeds from an undercover investigative operation with respect 
 
 except that subparagraphs (A) and (B) shall not apply with respect to the report required under paragraph (2) of subsection (d) of this section.
 
-(Pub. L. 99–570, title III, § 3131, Oct. 27, 1986, 100 Stat. 3207–90; Pub. L. 104–201, div. A, title X, § 1074(d)(3), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 104–316, title I, § 110(b), Oct. 19, 1996, 110 Stat. 3832; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(Pub. L. 99–570, title III, § 3131, Oct. 27, 1986, 100 Stat. 3207–90; Pub. L. 104–201, div. A, title X, § 1074(d)(3), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 104–316, title I, § 110(b), Oct. 19, 1996, 110 Stat. 3832; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a)(1)(A)(ii), “sections 6301(a) and (b)(1) to (3) and 6306 of title 41,” substituted for “sections 3732(a) and 3741 of the Revised Statutes of the United States (41 U.S.C. 11(a) and 22),” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(1)(A)(ii), “sections 6301(a) and (b)(1) to (3) and 6306 of title 41,” substituted for “sections 3732(a) and 3741 of the Revised Statutes of the United States (41 U.S.C. 11(a) and 22),” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(1)(A)(iii), “chapter 45 of title 41,” substituted for “section 305 of the Act of June 30, 1949 (63 Stat. 396; 41 U.S.C. 255),” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(1)(A)(iii), “chapter 45 of title 41,” substituted for “section 305 of the Act of June 30, 1949 (63 Stat. 396; 41 U.S.C. 255),” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(1)(A)(iv), “Section 8141 of title 40” substituted for “the third undesignated paragraph under the heading ‘Miscellaneous’ of the Act of March 3, 1877 (19 Stat. 370; 40 U.S.C. 34)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a)(1)(A)(iv), “Section 8141 of title 40” substituted for “the third undesignated paragraph under the heading ‘Miscellaneous’ of the Act of March 3, 1877 (19 Stat. 370; 40 U.S.C. 34)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
 
-In subsec. (a)(1)(A)(v), “section 3901 of title 41, and” substituted for “section 304(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a)), and” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(1)(A)(v), “section 3901 of title 41, and” substituted for “section 304(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a)), and” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
@@ -847,11 +847,11 @@ Reference to Commissioner of Customs deemed to be reference to Commissioner of U
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 2082. Customs Service administration
+## § 2082. Customs Service administration
 
-**(a) In general** The Commissioner of Customs 1
+**(a) In general** The Commissioner of Customs 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 shall—
 
@@ -861,15 +861,15 @@ shall—
 
 **(b) Survey reports**
 
-The Commissioner of Customs <sup>1</sup> shall no later than January 31, 1991, submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the results of the first survey implemented under subsection (a)(2).
+The Commissioner of Customs <sup>1</sup> shall no later than January 31, 1991, submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the results of the first survey implemented under subsection (a)(2).
 
-(Pub. L. 101–382, title I, § 113, Aug. 20, 1990, 104 Stat. 639; Pub. L. 101–508, title X, § 10001(d), Nov. 5, 1990, 104 Stat. 1388–386; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(Pub. L. 101–382, title I, § 113, Aug. 20, 1990, 104 Stat. 639; Pub. L. 101–508, title X, § 10001(d), Nov. 5, 1990, 104 Stat. 1388–386; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–508, § 10001(d)(1)–(3), inserted “and” after semicolon at end of par. (1), substituted a period for semicolon at end of par. (2), and struck out pars. (3) to (5) which read as follows:
+1990—Subsec. (a). Pub. L. 101–508, § 10001(d)(1)–(3), inserted “and” after semicolon at end of par. (1), substituted a period for semicolon at end of par. (2), and struck out pars. (3) to (5) which read as follows:
 
 “(3) as soon as practicable after the enactment of appropriations for the Customs Service for each fiscal year, but not later than the 15th day after the beginning of such year, estimate, based on the amounts appropriated, the amount of the fee that would, if imposed on the processing of merchandise, offset the salaries and expenses subject to reimbursement from the fee that will likely be incurred by the Service in conducting commercial operations during that year;
 
@@ -877,7 +877,7 @@ The Commissioner of Customs <sup>1</sup> shall no later than January 31, 1991,
 
 “(5) report within 45 days of the beginning of any fiscal year to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the results of each fee estimate made under paragraph (3) and each cost base and user fee methodology derivation made under paragraph (4).”
 
-Subsec. (b). Pub. L. 101–508, § 10001(d)(4), substituted “Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate” for “Committees referred to in subsection (a)(5) of this section”.
+Subsec. (b). Pub. L. 101–508, § 10001(d)(4), substituted “Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate” for “Committees referred to in subsection (a)(5) of this section”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -899,13 +899,13 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Establishment and Implementation of Cost Accounting System; Reports**
 
-Pub. L. 107–210, div. A, title III, § 334, Aug. 6, 2002, 116 Stat. 977, required the Commissioner of Customs, not later than Sept. 30, 2003, to establish and implement a cost accounting system with specified requirements for expenses incurred in both commercial and noncommercial operations of the Customs Service and report to Congress on a quarterly basis between Aug. 6, 2002, and the date on which the cost accounting system was fully implemented.
+Pub. L. 107–210, div. A, title III, § 334, Aug. 6, 2002, 116 Stat. 977, required the Commissioner of Customs, not later than Sept. 30, 2003, to establish and implement a cost accounting system with specified requirements for expenses incurred in both commercial and noncommercial operations of the Customs Service and report to Congress on a quarterly basis between Aug. 6, 2002, and the date on which the cost accounting system was fully implemented.
 
-## § 2083. Annual national trade and customs law violation estimates and enforcement strategy
+## § 2083. Annual national trade and customs law violation estimates and enforcement strategy
 
-**(a) Violation estimates** Not later than 30 days before the beginning of each fiscal year after fiscal year 1991, the Commissioner of Customs 1
+**(a) Violation estimates** Not later than 30 days before the beginning of each fiscal year after fiscal year 1991, the Commissioner of Customs 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereafter in this section referred to as the “Committees”) a report that contains estimates of—
 
@@ -919,13 +919,13 @@ shall submit to the Committee on Ways and Means of the House of Representatives 
 
 **(2)** may from time-to-time amend the listing developed under paragraph (1).
 
-**(c) Enforcement strategy** Within 90 days after submitting a report under subsection (a) for any fiscal year, the Commissioner of Customs <sup>1</sup> shall—
+**(c) Enforcement strategy** Within 90 days after submitting a report under subsection (a) for any fiscal year, the Commissioner of Customs <sup>1</sup> shall—
 
 **(1)** develop a nationally uniform enforcement strategy for dealing during that year with the violations estimated in the report; and
 
 **(2)** submit to the Committees a report setting forth the details of the strategy.
 
-**(d) Compliance program** The Commissioner of Customs <sup>1</sup> shall—
+**(d) Compliance program** The Commissioner of Customs <sup>1</sup> shall—
 
 **(1)** devise and implement a methodology for estimating the level of compliance with the laws administered by the Customs Service; and
 
@@ -933,13 +933,13 @@ shall submit to the Committee on Ways and Means of the House of Representatives 
 
 **(e) Confidentiality** The contents of any report submitted to the Committees under subsection (a) or (c)(2) are confidential and disclosure of all or part of the contents is restricted to—
 
-**(1)** officers and employees of the United States designated by the Commissioner of Customs; <sup>1</sup>
+**(1)** officers and employees of the United States designated by the Commissioner of Customs; <sup>1</sup>
 
 **(2)** the chairman of each of the Committees; and
 
 **(3)** those members of each of the Committees and staff persons of each of the Committees who are authorized by the chairman thereof to have access to the contents.
 
-(Pub. L. 101–382, title I, § 123, Aug. 20, 1990, 104 Stat. 642; Pub. L. 103–182, title VI, § 691(c), Dec. 8, 1993, 107 Stat. 2224; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(Pub. L. 101–382, title I, § 123, Aug. 20, 1990, 104 Stat. 642; Pub. L. 103–182, title VI, § 691(c), Dec. 8, 1993, 107 Stat. 2224; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 **Editorial Notes**
 
@@ -957,7 +957,7 @@ Reference to Commissioner of Customs deemed to be reference to Commissioner of U
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 2084. Office of Trade
+## § 2084. Office of Trade
 
 **(a) In general**
 
@@ -999,7 +999,7 @@ There shall be at the head of the Office of Trade an Executive Assistant Commiss
 
 Not later than 30 days after February 24, 2016, the Commissioner of U.S. Customs and Border Protection shall transfer the assets, functions, personnel, and liabilities of the Office of International Trade to the Office of Trade established under subsection (b).1
 
-<sup>1</sup>  So in original. Probably should be “subsection (a).”
+<sup>1</sup> So in original. Probably should be “subsection (a).”
 
 **(B) Elimination**
 
@@ -1027,16 +1027,16 @@ Not less than 90 days prior to the transfer of assets, functions, personnel, or 
 
 In this section, the terms “customs and trade laws of the United States”, “trade enforcement”, and “trade facilitation” have the meanings given such terms in section 4301 of this title.
 
-(Mar. 3, 1927, ch. 348, § 4, as added Pub. L. 114–125, title VIII, § 802(h)(1), Feb. 24, 2016, 130 Stat. 213.)
+(Mar. 3, 1927, ch. 348, § 4, as added Pub. L. 114–125, title VIII, § 802(h)(1), Feb. 24, 2016, 130 Stat. 213.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4 of act March 3, 1927, was classified to section 281c of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378. Subsection (a) of section 4 was transferred to section 163 of Title 21, Food and Drugs, prior to the omission of section 163 from the Code on the authority of Reorg. Plan No. 1 of 1968, eff. Apr. 8, 1968, 33 F.R. 5611, 82 Stat. 1367, set out in the Appendix to Title 5.
+A prior section 4 of act March 3, 1927, was classified to section 281c of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378. Subsection (a) of section 4 was transferred to section 163 of Title 21, Food and Drugs, prior to the omission of section 163 from the Code on the authority of Reorg. Plan No. 1 of 1968, eff. Apr. 8, 1968, 33 F.R. 5611, 82 Stat. 1367, set out in the Appendix to Title 5.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Continuation in Office**
 
-Pub. L. 114–125, title VIII, § 802(h)(2), Feb. 24, 2016, 130 Stat. 215, provided that: “The individual serving as the Assistant Commissioner of the Office of International Trade on the day before the date of the enactment of this Act [Feb. 24, 2016] may serve as the Executive Assistant Commissioner of Trade on and after such date of enactment, at the discretion of the Commissioner of U.S. Customs and Border Protection.”
+Pub. L. 114–125, title VIII, § 802(h)(2), Feb. 24, 2016, 130 Stat. 215, provided that: “The individual serving as the Assistant Commissioner of the Office of International Trade on the day before the date of the enactment of this Act [Feb. 24, 2016] may serve as the Executive Assistant Commissioner of Trade on and after such date of enactment, at the discretion of the Commissioner of U.S. Customs and Border Protection.”

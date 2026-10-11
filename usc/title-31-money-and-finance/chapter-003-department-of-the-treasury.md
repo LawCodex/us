@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. F, title LXI, § 6106(b), Jan. 1, 2021, 134 Stat. 4557, added item 316.
+2021—Pub. L. 116–283, div. F, title LXI, § 6106(b), Jan. 1, 2021, 134 Stat. 4557, added item 316.
 
-2010—Pub. L. 111–203, title V, § 502(c), July 21, 2010, 124 Stat. 1588, added items 312 to 315 and struck out item 312 “Continuing in office”.
+2010—Pub. L. 111–203, title V, § 502(c), July 21, 2010, 124 Stat. 1588, added items 312 to 315 and struck out item 312 “Continuing in office”.
 
-2003—Pub. L. 108–177, title I, § 105(a)(2), Dec. 13, 2003, 117 Stat. 2603, added item 311 and redesignated former item 311 as 312.
+2003—Pub. L. 108–177, title I, § 105(a)(2), Dec. 13, 2003, 117 Stat. 2603, added item 311 and redesignated former item 311 as 312.
 
-2001—Pub. L. 107–56, title III, § 361(c), Oct. 26, 2001, 115 Stat. 332, added item 310 and redesignated former item 310 as 311.
+2001—Pub. L. 107–56, title III, § 361(c), Oct. 26, 2001, 115 Stat. 332, added item 310 and redesignated former item 310 as 311.
 
-1994—Pub. L. 103–296, title III, § 312(*l*)(2), Aug. 15, 1994, 108 Stat. 1530, added item 333.
+1994—Pub. L. 103–296, title III, § 312(*l*)(2), Aug. 15, 1994, 108 Stat. 1530, added item 333.
 
-1989—Pub. L. 101–73, title III, § 307(a)(2), Aug. 9, 1989, 103 Stat. 352, added item 309 and redesignated former item 309 as 310.
+1989—Pub. L. 101–73, title III, § 307(a)(2), Aug. 9, 1989, 103 Stat. 352, added item 309 and redesignated former item 309 as 310.
 
-1984—Pub. L. 98–302, § 3(b), May 25, 1984, 98 Stat. 218, added item 332.
+1984—Pub. L. 98–302, § 3(b), May 25, 1984, 98 Stat. 218, added item 332.
 
 ## SUBCHAPTER I—ORGANIZATION
 
-### § 301. Department of the Treasury
+### § 301. Department of the Treasury
 
 **(a)** The Department of the Treasury is an executive department of the United States Government at the seat of the Government.
 
@@ -59,31 +59,31 @@ retrieved: 2026-10-11
 
 **(g)** The Department shall have a seal.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 878; Pub. L. 98–594, § 1(a), Oct. 30, 1984, 98 Stat. 3129; Pub. L. 99–190, § 141, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 103–211, title II, § 2003(a), Feb. 12, 1994, 108 Stat. 24; Pub. L. 108–177, title I, § 105(d)(2), Dec. 13, 2003, 117 Stat. 2603; Pub. L. 110–49, § 11(a), July 26, 2007, 121 Stat. 260; Pub. L. 110–343, div. A, title I, § 101(a)(3)(B)(ii), Oct. 3, 2008, 122 Stat. 3768; Pub. L. 112–166, § 2(*l*), Aug. 10, 2012, 126 Stat. 1286.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 878; Pub. L. 98–594, § 1(a), Oct. 30, 1984, 98 Stat. 3129; Pub. L. 99–190, § 141, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 103–211, title II, § 2003(a), Feb. 12, 1994, 108 Stat. 24; Pub. L. 108–177, title I, § 105(d)(2), Dec. 13, 2003, 117 Stat. 2603; Pub. L. 110–49, § 11(a), July 26, 2007, 121 Stat. 260; Pub. L. 110–343, div. A, title I, § 101(a)(3)(B)(ii), Oct. 3, 2008, 122 Stat. 3768; Pub. L. 112–166, § 2(*l*), Aug. 10, 2012, 126 Stat. 1286.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 301(a) | 31:1001(words before 1st comma). | R.S. § 233. |
+| 301(a) | 31:1001(words before 1st comma). | R.S. § 233. |
 | 301(b) | 31:1001(words after 1st comma). |  |
-| 301(c) | 31:1004(related to Deputy Secretary). | Feb. 17, 1922, ch. 55(related to appointment and duties of Deputy and Under Secretaries), 42 Stat. 366; July 22, 1954, ch. 557, § 3, 68 Stat. 496; restated May 18, 1972, Pub. L. 92–302, § 1(a), 86 Stat. 148. |
+| 301(c) | 31:1004(related to Deputy Secretary). | Feb. 17, 1922, ch. 55(related to appointment and duties of Deputy and Under Secretaries), 42 Stat. 366; July 22, 1954, ch. 557, § 3, 68 Stat. 496; restated May 18, 1972, Pub. L. 92–302, § 1(a), 86 Stat. 148. |
 |  |  | Jan. 3, 1923, ch. 22(related to appointment and duties of Deputy and Under Secretaries), 42 Stat. 1087. |
 |  |  | Apr. 4, 1924, ch. 84(related to appointment and duties of Deputy and Under Secretaries), 43 Stat. 64. |
-|  | 31:1005. | Feb. 17, 1922, ch. 55(related to vacancy in office of Secretary of the Treasury), 42 Stat. 366; restated May 18, 1972, Pub. L. 92–302, § 1(a), 86 Stat. 149. |
+|  | 31:1005. | Feb. 17, 1922, ch. 55(related to vacancy in office of Secretary of the Treasury), 42 Stat. 366; restated May 18, 1972, Pub. L. 92–302, § 1(a), 86 Stat. 149. |
 |  |  | Jan. 3, 1923, ch. 22(related to vacancy in office of Secretary of the Treasury), 42 Stat. 1087. |
 |  |  | Apr. 4, 1924, ch. 84(related to vacancy in office of Secretary of the Treasury), 43 Stat. 64. |
-| 301(d) | 31:141. | R.S. § 301. |
+| 301(d) | 31:141. | R.S. § 301. |
 |  | 31:1004(related to Under Secretaries). |  |
-|  | 31:1005a(1st–3d sentences). | May 18, 1972, Pub. L. 92–302, § 1(b), 86 Stat. 149. |
-|  | 5 App. | Reorg. Plan No. 3 of 1940, eff. June 30, 1940, § 1(a)(7)(1st sentence), 54 Stat. 1231. |
+|  | 31:1005a(1st–3d sentences). | May 18, 1972, Pub. L. 92–302, § 1(b), 86 Stat. 149. |
+|  | 5 App. | Reorg. Plan No. 3 of 1940, eff. June 30, 1940, § 1(a)(7)(1st sentence), 54 Stat. 1231. |
 | 301(e) | 31:1005a(last sentence). |  |
-|  | 31:1006. | R.S. § 234; July 11, 1890, ch. 667, § 1(1st par. under heading “Treasury Department”), 26 Stat. 236; Mar. 3, 1917, ch. 163, § 1(1st par. under heading “Treasury Department”), 39 Stat. 1083; Reorg. Plan No. 3 of 1940, eff. June 30, 1940, § 1(d), 54 Stat. 1232; restated July 22, 1954, ch. 557, § 4, 68 Stat. 496; July 8, 1963, Pub. L. 88–58, 77 Stat. 76; May 18, 1972, Pub. L. 92–302, § 1(c), 86 Stat. 149. |
-|  | 31:1007. | R.S. § 245. |
-| 301(f)(1) | 26:7801(b)(1), (2)(last sentence), (3). | Aug. 16, 1954, ch. 736, § 7801(b), 68A Stat. 915; restated Sept. 22, 1959, Pub. L. 86–368, § 1, 73 Stat. 647; Aug. 14, 1964, Pub. L. 88–426, § 305(39), 78 Stat. 427; Oct. 4, 1976, Pub. L. 94–455, § 1906(b)(13)(B), 90 Stat. 1834. |
-|  | 31:1009. | May 10, 1934, ch. 277, § 512(a), (c), 48 Stat. 758, 759. |
+|  | 31:1006. | R.S. § 234; July 11, 1890, ch. 667, § 1(1st par. under heading “Treasury Department”), 26 Stat. 236; Mar. 3, 1917, ch. 163, § 1(1st par. under heading “Treasury Department”), 39 Stat. 1083; Reorg. Plan No. 3 of 1940, eff. June 30, 1940, § 1(d), 54 Stat. 1232; restated July 22, 1954, ch. 557, § 4, 68 Stat. 496; July 8, 1963, Pub. L. 88–58, 77 Stat. 76; May 18, 1972, Pub. L. 92–302, § 1(c), 86 Stat. 149. |
+|  | 31:1007. | R.S. § 245. |
+| 301(f)(1) | 26:7801(b)(1), (2)(last sentence), (3). | Aug. 16, 1954, ch. 736, § 7801(b), 68A Stat. 915; restated Sept. 22, 1959, Pub. L. 86–368, § 1, 73 Stat. 647; Aug. 14, 1964, Pub. L. 88–426, § 305(39), 78 Stat. 427; Oct. 4, 1976, Pub. L. 94–455, § 1906(b)(13)(B), 90 Stat. 1834. |
+|  | 31:1009. | May 10, 1934, ch. 277, § 512(a), (c), 48 Stat. 758, 759. |
 | 301(f)(2) | 26:7801(b)(2)(1st, 2d sentences). |  |
-| 301(g) | 31:1010(related to seal). | R.S. § 372(related to seal); May 10, 1934, ch. 277, § 512(b), 48 Stat. 759. |
+| 301(g) | 31:1010(related to seal). | R.S. § 372(related to seal); May 10, 1934, ch. 277, § 512(b), 48 Stat. 759. |
 
 In subsection (a), the words “of the United States Government” are added for clarity.
 
@@ -99,7 +99,7 @@ In subsection (f), the words “carry out” and “duties and powers” are sub
 
 In subsection (f)(1), the words “governing appointment in the competitive service” are substituted for “civil service laws” to conform to 5:2102.
 
-In subsection (g), the words “The General Counsel . . . shall have charge” are omitted as superseded by the source provisions restated in subsection (b) of this section and section 321(c) of the revised title.
+In subsection (g), the words “The General Counsel . . . shall have charge” are omitted as superseded by the source provisions restated in subsection (b) of this section and section 321(c) of the revised title.
 
 **Editorial Notes**
 
@@ -109,9 +109,9 @@ The provisions of title 5 governing appointment in the competitive service, refe
 
 **Amendments**
 
-2012—Subsec. (d). Pub. L. 112–166, § 2(*l*)(2), substituted “and 2 Deputy Under Secretaries” for “2 Deputy Under Secretaries, and a Treasurer of the United States” and inserted “and a Treasurer of the United States appointed by the President” after “Fiscal Assistant Secretary appointed by the Secretary”.
+2012—Subsec. (d). Pub. L. 112–166, § 2(*l*)(2), substituted “and 2 Deputy Under Secretaries” for “2 Deputy Under Secretaries, and a Treasurer of the United States” and inserted “and a Treasurer of the United States appointed by the President” after “Fiscal Assistant Secretary appointed by the Secretary”.
 
-Subsec. (e). Pub. L. 112–166, § 2(*l*)(1), substituted “8 Assistant Secretaries” for “10 Assistant Secretaries” and inserted after first sentence “The Department shall have 2 Assistant Secretaries not subject to the advice and consent of the Senate who shall be the Assistant Secretary for Public Affairs, and the Assistant Secretary for Management.”
+Subsec. (e). Pub. L. 112–166, § 2(*l*)(1), substituted “8 Assistant Secretaries” for “10 Assistant Secretaries” and inserted after first sentence “The Department shall have 2 Assistant Secretaries not subject to the advice and consent of the Senate who shall be the Assistant Secretary for Public Affairs, and the Assistant Secretary for Management.”
 
 2008—Subsec. (e). Pub. L. 110–343 substituted “10” for “9”.
 
@@ -137,11 +137,11 @@ Amendment by Pub. L. 110–49 applicable after the end of the 90-day period begi
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–203, title V, § 501, July 21, 2010, 124 Stat. 1580, provided that: “This subtitle [subtitle A (§§ 501, 502) of title V of Pub. L. 111–203, enacting sections 313 and 314 of this title, amending section 321 of this title, and renumbering former sections 312 and 313 of this title as sections 315 and 312, respectively] may be cited as the ‘Federal Insurance Office Act of 2010’.”
+Pub. L. 111–203, title V, § 501, July 21, 2010, 124 Stat. 1580, provided that: “This subtitle [subtitle A (§§ 501, 502) of title V of Pub. L. 111–203, enacting sections 313 and 314 of this title, amending section 321 of this title, and renumbering former sections 312 and 313 of this title as sections 315 and 312, respectively] may be cited as the ‘Federal Insurance Office Act of 2010’.”
 
 **Office of Secretary of the Treasury; Compensation**
 
-Pub. L. 105–61, title I, § 116, Oct. 10, 1997, 111 Stat. 1284, provided that:
+Pub. L. 105–61, title I, § 116, Oct. 10, 1997, 111 Stat. 1284, provided that:
 
 > **“(a)**
 
@@ -161,9 +161,9 @@ Pub. L. 105–61, title I, § 116, Oct. 10, 1997, 111 Stat. 1284, provided tha
 
 **Office of the Undersecretary for Enforcement**
 
-Pub. L. 108–447, div. H, title II, § 222(b)(2), Dec. 8, 2004, 118 Stat. 3245, provided that: “The Office of the Undersecretary for Enforcement of the Department of the Treasury, established in accordance with section 103 [105] of the Treasury Department Appropriations Act, 1994 (Public Law 103–123) [set out below] is abolished, and all rights, duties, and responsibilities of that office are transferred on the date of enactment of this Act [Dec. 8, 2004] to the Office of the Undersecretary for Terrorism and Financial Crimes of the Department of the Treasury in accordance with this section [enacting section 313 of this title and amending section 311 of this title], and the amendments made by this section, except as otherwise specifically provided in this section or the amendments made by this section, or other applicable law.”
+Pub. L. 108–447, div. H, title II, § 222(b)(2), Dec. 8, 2004, 118 Stat. 3245, provided that: “The Office of the Undersecretary for Enforcement of the Department of the Treasury, established in accordance with section 103 [105] of the Treasury Department Appropriations Act, 1994 (Public Law 103–123) [set out below] is abolished, and all rights, duties, and responsibilities of that office are transferred on the date of enactment of this Act [Dec. 8, 2004] to the Office of the Undersecretary for Terrorism and Financial Crimes of the Department of the Treasury in accordance with this section [enacting section 313 of this title and amending section 311 of this title], and the amendments made by this section, except as otherwise specifically provided in this section or the amendments made by this section, or other applicable law.”
 
-Pub. L. 103–123, title I, § 105, Oct. 28, 1993, 107 Stat. 1234, provided that: “Notwithstanding any other provision of law, the Secretary of the Treasury shall establish an Office of the Undersecretary for Enforcement within the Department of the Treasury by no later than February 15, 1994.”
+Pub. L. 103–123, title I, § 105, Oct. 28, 1993, 107 Stat. 1234, provided that: “Notwithstanding any other provision of law, the Secretary of the Treasury shall establish an Office of the Undersecretary for Enforcement within the Department of the Treasury by no later than February 15, 1994.”
 
 **Compensation and Emoluments of Secretary of the Treasury at Level in Effect on January 1, 1989; Actions Challenging Appointment on Constitutional Grounds**
 
@@ -201,7 +201,7 @@ Nothing in Pub. L. 101–576 [see Short Title of 1990 Amendment note set out und
 
 For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
-### § 302. Treasury of the United States
+### § 302. Treasury of the United States
 
 The United States Government has a Treasury of the United States. The Treasury is in the Department of the Treasury.
 
@@ -211,11 +211,11 @@ The United States Government has a Treasury of the United States. The Treasury i
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 302 | 31:472. | R.S. § 3591. |
+| 302 | 31:472. | R.S. § 3591. |
 
 The section is substituted for the source provisions to eliminate unnecessary words and because of subsequent laws and the restatement in the revised title about the authority of the Secretary of the Treasury and coins, currency, accounts, depositaries, and public debt of the United States Government.
 
-### § 303. Bureau of Engraving and Printing
+### § 303. Bureau of Engraving and Printing
 
 **(a)** The Bureau of Engraving and Printing is a bureau in the Department of the Treasury.
 
@@ -231,13 +231,13 @@ The section is substituted for the source provisions to eliminate unnecessary wo
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 303 | 31:171. | June 4, 1897, ch. 2, § 1(4th proviso on p. 18), 30 Stat. 18. |
+| 303 | 31:171. | June 4, 1897, ch. 2, § 1(4th proviso on p. 18), 30 Stat. 18. |
 
 In subsection (a), the words “a bureau in the Department of the Treasury” are added for clarity and consistency in chapter 3 of the revised title.
 
 In subsection (b), the first sentence is substituted for the words before the first comma because of the source provisions restated in section 321(c) of the revised title. Clause (1) is substituted for “subject to the direction of the Secretary of the Treasury” for consistency in the revised title and with other titles of the United States Code. The words “and be responsible” are omitted as being included in “reports directly to” and because of section 301 of the revised title.
 
-### § 304. United States Mint
+### § 304. United States Mint
 
 **(a)** The United States Mint is a bureau in the Department of the Treasury.
 
@@ -247,13 +247,13 @@ In subsection (b), the first sentence is substituted for the words before the fi
 
 **(2)** The Director shall carry out duties and powers prescribed by the Secretary of the Treasury.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 879; Pub. L. 102–390, title II, § 225(a), (b)(1), (2), Oct. 6, 1992, 106 Stat. 1629.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 879; Pub. L. 102–390, title II, § 225(a), (b)(1), (2), Oct. 6, 1992, 106 Stat. 1629.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 304(a) | 31:251(1st sentence less words after 1st comma). | R.S. § 343(less 1st sentence words after 1st comma). |
+| 304(a) | 31:251(1st sentence less words after 1st comma). | R.S. § 343(less 1st sentence words after 1st comma). |
 | 304(b)(1) | 31:251(2d sentence words before comma, last sentence). |  |
 | 304(b)(2) | 31:251(2d sentence words after comma). |  |
 
@@ -265,13 +265,13 @@ In subsection (b)(2), the words “The Director shall carry out duties and power
 
 **Amendments**
 
-1992—Pub. L. 102–390, § 225(b)(2), substituted “United States Mint” for “Bureau of the Mint” in section catchline.
+1992—Pub. L. 102–390, § 225(b)(2), substituted “United States Mint” for “Bureau of the Mint” in section catchline.
 
-Subsec. (a). Pub. L. 102–390, § 225(a), substituted “United States Mint” for “Bureau of the Mint”.
+Subsec. (a). Pub. L. 102–390, § 225(a), substituted “United States Mint” for “Bureau of the Mint”.
 
-Subsec. (b)(1). Pub. L. 102–390, § 225(b)(1), substituted “head of the Mint” for “head of the Bureau”.
+Subsec. (b)(1). Pub. L. 102–390, § 225(b)(1), substituted “head of the Mint” for “head of the Bureau”.
 
-### § 305. Federal Financing Bank
+### § 305. Federal Financing Bank
 
 The Federal Financing Bank, established under section 4 of the Federal Financing Bank Act of 1973 (12 U.S.C. 2283), is subject to the direction and supervision of the Secretary of the Treasury.
 
@@ -285,7 +285,7 @@ The Federal Financing Bank, established under section 4 of the Federal Financing
 
 The section is included to provide in subchapter I of chapter 3 of the revised title a complete list of the organizational units established by law that are in the Department of the Treasury or are subject to the direction and supervision of the Secretary of the Treasury.
 
-### § 306. Fiscal Service
+### § 306. Fiscal Service
 
 **(a)** The Fiscal Service is a service in the Department of the Treasury.
 
@@ -299,13 +299,13 @@ The section is included to provide in subchapter I of chapter 3 of the revised t
 
 **(d)** The Secretary of the Treasury may designate another officer or employee of the Department to act as the Fiscal Assistant Secretary when the Fiscal Assistant Secretary is absent or unable to serve or when the office of Fiscal Assistant Secretary is vacant.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 879; Pub. L. 108–458, title VII, § 7801, Dec. 17, 2004, 118 Stat. 3860.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 879; Pub. L. 108–458, title VII, § 7801, Dec. 17, 2004, 118 Stat. 3860.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 306 | 5 App. | Reorg. Plan No. 3 of 1940, eff. June 30, 1940, § 1(less (a)(7)(1st sentence), (d)), 54 Stat. 1231. |
+| 306 | 5 App. | Reorg. Plan No. 3 of 1940, eff. June 30, 1940, § 1(less (a)(7)(1st sentence), (d)), 54 Stat. 1231. |
 
 In subsection (a), the word “service” is substituted for “agency” in section 1(a)(1)(words before last comma) of Reorganization Plan No. 3 of 1940 (eff. June 30, 1940, 54 Stat. 1232) for consistency in the revised title. The words related to the organizational units being consolidated into the Fiscal Service are omitted as executed.
 
@@ -329,17 +329,17 @@ The Bureau of Government Financial Operations, referred to in subsec. (c)(1), is
 
 **Reimbursement of Financial Management Service and Bureau of the Public Debt**
 
-Pub. L. 105–277, div. A, § 101(h) [title I], Oct. 21, 1998, 112 Stat. 2681–480, 2681–486, provided in part: “That notwithstanding any other provisions of law, effective upon enactment [Oct. 21, 1998] and thereafter, the Bureau of the Public Debt shall be fully and directly reimbursed by the funds described in section 104 of Public Law 101–136 (103 Stat. 789) [set out below] for costs and services performed by the Bureau in the administration of such funds.”
+Pub. L. 105–277, div. A, § 101(h) [title I], Oct. 21, 1998, 112 Stat. 2681–480, 2681–486, provided in part: “That notwithstanding any other provisions of law, effective upon enactment [Oct. 21, 1998] and thereafter, the Bureau of the Public Debt shall be fully and directly reimbursed by the funds described in section 104 of Public Law 101–136 (103 Stat. 789) [set out below] for costs and services performed by the Bureau in the administration of such funds.”
 
 Similar provisions were contained in Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1279.
 
-Pub. L. 103–329, title I, § 105, Sept. 30, 1994, 108 Stat. 2390, provided that: “Notwithstanding any other provision of law, beginning in fiscal year 1995 and thereafter, the Financial Management Service (FMS) shall be reimbursed, for postage incurred by FMS to make check payments on their behalf, by: the Department of Veterans Affairs, for the mailing of Compensation and Pension benefit payments; the Department of Health and Human Services, for the mailing of Supplemental Security Income payments; and the Office of Personnel Management, for the mailing of Retirement payments. Such reimbursement shall be due beginning with checks mailed on October 1, 1994, and such reimbursement shall occur on a monthly basis.”
+Pub. L. 103–329, title I, § 105, Sept. 30, 1994, 108 Stat. 2390, provided that: “Notwithstanding any other provision of law, beginning in fiscal year 1995 and thereafter, the Financial Management Service (FMS) shall be reimbursed, for postage incurred by FMS to make check payments on their behalf, by: the Department of Veterans Affairs, for the mailing of Compensation and Pension benefit payments; the Department of Health and Human Services, for the mailing of Supplemental Security Income payments; and the Office of Personnel Management, for the mailing of Retirement payments. Such reimbursement shall be due beginning with checks mailed on October 1, 1994, and such reimbursement shall occur on a monthly basis.”
 
-Pub. L. 102–393, title I, § 105, Oct. 6, 1992, 106 Stat. 1737, provided that: “Notwithstanding any other provision of law, beginning October 1, 1992, and thereafter, the Financial Management Service (FMS) shall be reimbursed by the Internal Revenue Service (IRS) and the Department of Agriculture, National Finance Center (NFC), for the postage costs the FMS incurs to make check payments on behalf of the IRS and the NFC.”
+Pub. L. 102–393, title I, § 105, Oct. 6, 1992, 106 Stat. 1737, provided that: “Notwithstanding any other provision of law, beginning October 1, 1992, and thereafter, the Financial Management Service (FMS) shall be reimbursed by the Internal Revenue Service (IRS) and the Department of Agriculture, National Finance Center (NFC), for the postage costs the FMS incurs to make check payments on behalf of the IRS and the NFC.”
 
-Pub. L. 101–136, title I, § 104, Nov. 3, 1989, 103 Stat. 789, provided that: “Notwithstanding any other provision of law, beginning October 1, 1990, and thereafter, the Financial Management Service shall be fully and directly reimbursed from the Social Security Trust Funds for the costs it incurs in the issuance of Social Security Trust Funds benefit payments, including all physical costs associated with payment preparation and postage costs. Such direct reimbursement shall also be made for all other trust and special funds which are the recipients of services performed by the Financial Management Service and which prior to enactment of this provision [Nov. 3, 1989] reimburse the General Fund of the Treasury for such services.”
+Pub. L. 101–136, title I, § 104, Nov. 3, 1989, 103 Stat. 789, provided that: “Notwithstanding any other provision of law, beginning October 1, 1990, and thereafter, the Financial Management Service shall be fully and directly reimbursed from the Social Security Trust Funds for the costs it incurs in the issuance of Social Security Trust Funds benefit payments, including all physical costs associated with payment preparation and postage costs. Such direct reimbursement shall also be made for all other trust and special funds which are the recipients of services performed by the Financial Management Service and which prior to enactment of this provision [Nov. 3, 1989] reimburse the General Fund of the Treasury for such services.”
 
-### § 307. Office of the Comptroller of the Currency
+### § 307. Office of the Comptroller of the Currency
 
 The Office of the Comptroller of the Currency, established under section 324 of the Revised Statutes (12 U.S.C. 1), is an office in the Department of the Treasury.
 
@@ -353,7 +353,7 @@ The Office of the Comptroller of the Currency, established under section 324 of 
 
 The section is included to provide in subchapter I of chapter 3 of the revised title a complete list of the organizational units established by law that are in the Department of the Treasury or are subject to the direction and supervision of the Secretary of the Treasury. The title “Office of the Comptroller of the Currency” and the word “office” are used to reflect the name that this organizational unit of the Department of the Treasury historically has been given.
 
-### § 308. United States Customs Service
+### § 308. United States Customs Service
 
 The United States Customs Service, established under section 1 of the Act of March 3, 1927 (19 U.S.C. 2071), is a service in the Department of the Treasury.
 
@@ -379,21 +379,21 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 Bureau of Customs redesignated United States Customs Service by Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037.
 
-### § 309. Office of Thrift Supervision
+### § 309. Office of Thrift Supervision
 
-The Office of Thrift Supervision established under section 3(a) 1
+The Office of Thrift Supervision established under section 3(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Home Owners’ Loan Act shall be an office in the Department of the Treasury.
 
-(Added Pub. L. 101–73, title III, § 307(a)(1), Aug. 9, 1989, 103 Stat. 352; amended Pub. L. 103–272, § 4(f)(1)(A), July 5, 1994, 108 Stat. 1361.)
+(Added Pub. L. 101–73, title III, § 307(a)(1), Aug. 9, 1989, 103 Stat. 352; amended Pub. L. 103–272, § 4(f)(1)(A), July 5, 1994, 108 Stat. 1361.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3(a) of the Home Owners’ Loan Act, referred to in text, which established the Office of Thrift Supervision, was classified to section 1462a(a) of Title 12, Banks and Banking, and was struck out by Pub. L. 111–203, title III, § 369(3)(B), July 21, 2010, 124 Stat. 1558.
+Section 3(a) of the Home Owners’ Loan Act, referred to in text, which established the Office of Thrift Supervision, was classified to section 1462a(a) of Title 12, Banks and Banking, and was struck out by Pub. L. 111–203, title III, § 369(3)(B), July 21, 2010, 124 Stat. 1558.
 
 **Prior Provisions**
 
@@ -409,7 +409,7 @@ A prior section 309 was renumbered section 315 of this title.
 
 Office of Thrift Supervision abolished and functions transferred to the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency and the Comptroller of the Currency, and the Federal Deposit Insurance Corporation by sections 5412 and 5413 of Title 12, Banks and Banking.
 
-### § 310. Financial Crimes Enforcement Network
+### § 310. Financial Crimes Enforcement Network
 
 **(a) In General.—** The Financial Crimes Enforcement Network established by order of the Secretary of the Treasury (Treasury Order Numbered 105–08, in this section referred to as “FinCEN”) on April 25, 1990, shall be a bureau in the Department of the Treasury.
 
@@ -721,19 +721,19 @@ Office of Thrift Supervision abolished and functions transferred to the Board of
 
 **(E) Detection and prevention of financial crimes and terrorism.—** To provide development of, and training in the use of, technology to detect and prevent financial crimes and terrorism within and without the United States, $8,000,000.
 
-(Added Pub. L. 107–56, title III, § 361(a)(2), Oct. 26, 2001, 115 Stat. 329; amended Pub. L. 108–458, title VI, §§ 6101, 6203(a), Dec. 17, 2004, 118 Stat. 3744, 3746; Pub. L. 111–195, title I, § 109(c), July 1, 2010, 124 Stat. 1338; Pub. L. 116–283, div. F, title LXI, §§ 6101(c), 6102(b), 6103, 6105(a), 6107–6109(a), title LXIII, § 6304, title LXV, § 6509(a), Jan. 1, 2021, 134 Stat. 4551–4553, 4555, 4557–4560, 4586, 4633; Pub. L. 117–81, div. F, title LXI, § 6101, Dec. 27, 2021, 135 Stat. 2382.)
+(Added Pub. L. 107–56, title III, § 361(a)(2), Oct. 26, 2001, 115 Stat. 329; amended Pub. L. 108–458, title VI, §§ 6101, 6203(a), Dec. 17, 2004, 118 Stat. 3744, 3746; Pub. L. 111–195, title I, § 109(c), July 1, 2010, 124 Stat. 1338; Pub. L. 116–283, div. F, title LXI, §§ 6101(c), 6102(b), 6103, 6105(a), 6107–6109(a), title LXIII, § 6304, title LXV, § 6509(a), Jan. 1, 2021, 134 Stat. 4551–4553, 4555, 4557–4560, 4586, 4633; Pub. L. 117–81, div. F, title LXI, § 6101, Dec. 27, 2021, 135 Stat. 2382.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 2 of title I of Public Law 91–508, referred to in subsec. (b)(2)(B)(i), (C)(iii), (I), is chapter 2 (§§ 121–129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§ 1951 et seq.) of Title 12, Banks and Banking. For complete classification of chapter 2 to the Code, see Tables.
+Chapter 2 of title I of Public Law 91–508, referred to in subsec. (b)(2)(B)(i), (C)(iii), (I), is chapter 2 (§§ 121–129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§ 1951 et seq.) of Title 12, Banks and Banking. For complete classification of chapter 2 to the Code, see Tables.
 
 Section 21 of the Federal Deposit Insurance Act, referred to in subsec. (b)(2)(B)(i), (C)(iii), (I), is classified to section 1829b of Title 12, Banks and Banking.
 
 Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsecs. (b)(2)(L), (d)(4)(C), (g)(8), and (k)(1), is section 6003 of Pub. L. 116–283, which is set out as a note under section 5311 of this title.
 
-The Right to Financial Privacy Act of 1978, referred to in subsec. (c)(2), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
+The Right to Financial Privacy Act of 1978, referred to in subsec. (c)(2), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
 Section 362 of Public Law 107–56, referred to in subsec. (d)(2)(A), is set out as a note below.
 
@@ -745,43 +745,43 @@ A prior section 310 was renumbered section 315 of this title.
 
 **Amendments**
 
-2021—Subsec. (b)(2)(C)(i). Pub. L. 116–283, § 6102(b)(1), inserted “Tribal,” after “local,”.
+2021—Subsec. (b)(2)(C)(i). Pub. L. 116–283, § 6102(b)(1), inserted “Tribal,” after “local,”.
 
-Subsec. (b)(2)(C)(iv). Pub. L. 116–283, § 6102(b)(2), struck out “international” before “terrorism”.
+Subsec. (b)(2)(C)(iv). Pub. L. 116–283, § 6102(b)(2), struck out “international” before “terrorism”.
 
-Subsec. (b)(2)(E), (F). Pub. L. 116–283, § 6102(b)(1), inserted “Tribal,” after “local,”.
+Subsec. (b)(2)(E), (F). Pub. L. 116–283, § 6102(b)(1), inserted “Tribal,” after “local,”.
 
-Subsec. (b)(2)(J) to (O). Pub. L. 116–283, § 6101(c), added subpars. (J) to (N) and redesignated former subpar. (J) as (O).
+Subsec. (b)(2)(J) to (O). Pub. L. 116–283, § 6101(c), added subpars. (J) to (N) and redesignated former subpar. (J) as (O).
 
-Subsec. (d). Pub. L. 116–283, § 6103(2), added subsec. (d). Former subsec. (d) redesignated (*l*).
+Subsec. (d). Pub. L. 116–283, § 6103(2), added subsec. (d). Former subsec. (d) redesignated (*l*).
 
-Subsec. (d)(2). Pub. L. 117–81, § 6101(1), inserted “other relevant private sector entities,” after “financial institutions,” in introductory provisions.
+Subsec. (d)(2). Pub. L. 117–81, § 6101(1), inserted “other relevant private sector entities,” after “financial institutions,” in introductory provisions.
 
-Subsec. (d)(3)(A)(i)(II). Pub. L. 117–81, § 6101(2), inserted “and other relevant private sector entities” after “financial institutions”.
+Subsec. (d)(3)(A)(i)(II). Pub. L. 117–81, § 6101(2), inserted “and other relevant private sector entities” after “financial institutions”.
 
-Subsec. (d)(5)(A). Pub. L. 117–81, § 6101(3)(A), inserted “or other relevant private sector entity” after “financial institution”.
+Subsec. (d)(5)(A). Pub. L. 117–81, § 6101(3)(A), inserted “or other relevant private sector entity” after “financial institution”.
 
-Subsec. (d)(5)(B). Pub. L. 117–81, § 6101(3)(B), designated existing provisions as cl. (i), inserted cl. (i) heading, and added cl. (ii).
+Subsec. (d)(5)(B). Pub. L. 117–81, § 6101(3)(B), designated existing provisions as cl. (i), inserted cl. (i) heading, and added cl. (ii).
 
-Subsec. (e). Pub. L. 116–283, § 6105(a), added subsec. (e).
+Subsec. (e). Pub. L. 116–283, § 6105(a), added subsec. (e).
 
-Subsecs. (f), (g). Pub. L. 116–283, § 6107, added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 116–283, § 6107, added subsecs. (f) and (g).
 
-Subsec. (h). Pub. L. 116–283, § 6108, added subsec. (h).
+Subsec. (h). Pub. L. 116–283, § 6108, added subsec. (h).
 
-Subsec. (i). Pub. L. 116–283, § 6109(a), added subsec. (i).
+Subsec. (i). Pub. L. 116–283, § 6109(a), added subsec. (i).
 
-Subsecs. (j), (k). Pub. L. 116–283, § 6304, added subsecs. (j) and (k).
+Subsecs. (j), (k). Pub. L. 116–283, § 6304, added subsecs. (j) and (k).
 
-Subsec. (*l*). Pub. L. 116–283, § 6103(1), redesignated former subsec. (d) as (*l*).
+Subsec. (*l*). Pub. L. 116–283, § 6103(1), redesignated former subsec. (d) as (*l*).
 
-Subsec. (*l*)(1). Pub. L. 116–283, § 6509(a), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There are authorized to be appropriated for FinCEN $100,419,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 and 2013.”
+Subsec. (*l*)(1). Pub. L. 116–283, § 6509(a), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There are authorized to be appropriated for FinCEN $100,419,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 and 2013.”
 
 2010—Subsec. (d)(1). Pub. L. 111–195 substituted “$100,419,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 and 2013” for “such sums as may be necessary for fiscal years 2002, 2003, 2004, and 2005”.
 
-2004—Subsec. (c)(1), (2)(A). Pub. L. 108–458, § 6203(a), substituted “FinCEN” for “the Network”.
+2004—Subsec. (c)(1), (2)(A). Pub. L. 108–458, § 6203(a), substituted “FinCEN” for “the Network”.
 
-Subsec. (d). Pub. L. 108–458, § 6101, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+Subsec. (d). Pub. L. 108–458, § 6101, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -791,7 +791,7 @@ Amendment by section 6203(a) of Pub. L. 108–458 effective as if included in Pu
 
 **Assessment of Bank Secrecy Act No-Action Letters**
 
-Pub. L. 116–283, div. F, title LXIII, § 6305, Jan. 1, 2021, 134 Stat. 4587, provided that:
+Pub. L. 116–283, div. F, title LXIII, § 6305, Jan. 1, 2021, 134 Stat. 4587, provided that:
 
 > **“(a) Assessment.—**
 
@@ -817,25 +817,25 @@ Pub. L. 116–283, div. F, title LXIII, § 6305, Jan. 1, 2021, 134 Stat. 4587,
 
 **Establishment of Highly Secure Network**
 
-Pub. L. 107–56, title III, § 362, Oct. 26, 2001, 115 Stat. 332, as amended by Pub. L. 108–458, title VI, § 6202(m), Dec. 17, 2004, 118 Stat. 3746, provided that:
+Pub. L. 107–56, title III, § 362, Oct. 26, 2001, 115 Stat. 332, as amended by Pub. L. 108–458, title VI, § 6202(m), Dec. 17, 2004, 118 Stat. 3746, provided that:
 
 > **“(a) In General.—** The Secretary [of the Treasury] shall establish a highly secure network in the Financial Crimes Enforcement Network that—
 
-> **“(1)** allows financial institutions to file reports required under subchapter II of chapter 53 of title 31, United States Code, chapter 2 of Public Law 91–508 [probably means chapter 2 (§§ 121 to 129) of title I of Pub. L. 91–508 (12 U.S.C. 1951 et seq.)], or section 21 of the Federal Deposit Insurance Act [12 U.S.C. 1829b] through the secure network; and
+> **“(1)** allows financial institutions to file reports required under subchapter II of chapter 53 of title 31, United States Code, chapter 2 of Public Law 91–508 [probably means chapter 2 (§§ 121 to 129) of title I of Pub. L. 91–508 (12 U.S.C. 1951 et seq.)], or section 21 of the Federal Deposit Insurance Act [12 U.S.C. 1829b] through the secure network; and
 
 > **“(2)** provides financial institutions with alerts and other information regarding suspicious activities that warrant immediate and enhanced scrutiny.
 
 > **“(b) Expedited Development.—** The Secretary shall take such action as may be necessary to ensure that the secure network required under subsection (a) is fully operational before the end of the 9-month period beginning on the date of enactment of this Act [Oct. 26, 2001].”
 
-### § 311. Office of Intelligence and Analysis
+### § 311. Office of Intelligence and Analysis
 
 **(a) Establishment.—** There is established within the Department of the Treasury, the Office of Intelligence and Analysis (in this section referred to as the “Office”), which shall—
 
 **(1)** be within the Office of Terrorism and Financial Intelligence;
 
-**(2)** be responsible for the receipt, analysis, collation, and dissemination of foreign intelligence and foreign counterintelligence information (within the meaning of section 3 of the National Security Act of 1947 (50 U.S.C. 401a)) 1
+**(2)** be responsible for the receipt, analysis, collation, and dissemination of foreign intelligence and foreign counterintelligence information (within the meaning of section 3 of the National Security Act of 1947 (50 U.S.C. 401a)) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 related to the operation and responsibilities of the Department of the Treasury; and
 
@@ -843,13 +843,13 @@ related to the operation and responsibilities of the Department of the Treasury;
 
 **(b) Assistant Secretary for Intelligence and Analysis.—** The Office shall be headed by an Assistant Secretary, who shall be appointed by the President, by and with the advice and consent of the Senate. The Assistant Secretary shall report directly to the Undersecretary of the Treasury for Terrorism and Financial Crimes.
 
-(Added Pub. L. 108–177, title I, § 105(a)(1)(B), Dec. 13, 2003, 117 Stat. 2603; amended Pub. L. 108–447, div. H, title II, § 222(b)(1), Dec. 8, 2004, 118 Stat. 3245.)
+(Added Pub. L. 108–177, title I, § 105(a)(1)(B), Dec. 13, 2003, 117 Stat. 2603; amended Pub. L. 108–447, div. H, title II, § 222(b)(1), Dec. 8, 2004, 118 Stat. 3245.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Security Act of 1947, referred to in subsec. (a)(2), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 3 of the Act is now classified to section 3003 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (a)(2), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 3 of the Act is now classified to section 3003 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 **Prior Provisions**
 
@@ -857,19 +857,19 @@ A prior section 311 was renumbered section 315 of this title.
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–447, § 222(b)(1)(A), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+2004—Subsec. (a). Pub. L. 108–447, § 222(b)(1)(A), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-Subsec. (b). Pub. L. 108–447, § 222(b)(1)(B), substituted “Terrorism and Financial Crimes” for “Enforcement”.
+Subsec. (b). Pub. L. 108–447, § 222(b)(1)(B), substituted “Terrorism and Financial Crimes” for “Enforcement”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Construction**
 
-Pub. L. 108–177, title I, § 105(b), Dec. 13, 2003, 117 Stat. 2603, as amended by Pub. L. 111–259, title VIII, § 808, Oct. 7, 2010, 124 Stat. 2749, provided that: “Nothing in section 311 of title 31, United States Code (as amended by subsection (a)), or in section 313 of such title, shall be construed to alter the authorities and responsibilities of the Director of National Intelligence with respect to the Office of Intelligence and Analysis of the Department of the Treasury as an element of the intelligence community.”
+Pub. L. 108–177, title I, § 105(b), Dec. 13, 2003, 117 Stat. 2603, as amended by Pub. L. 111–259, title VIII, § 808, Oct. 7, 2010, 124 Stat. 2749, provided that: “Nothing in section 311 of title 31, United States Code (as amended by subsection (a)), or in section 313 of such title, shall be construed to alter the authorities and responsibilities of the Director of National Intelligence with respect to the Office of Intelligence and Analysis of the Department of the Treasury as an element of the intelligence community.”
 
 **Pilot Program on Recruitment and Retention in Office of Intelligence and Analysis of the Department of the Treasury**
 
-Pub. L. 117–103, div. X, title IV, § 416, Mar. 15, 2022, 136 Stat. 979, provided that:
+Pub. L. 117–103, div. X, title IV, § 416, Mar. 15, 2022, 136 Stat. 979, provided that:
 
 > **“(a) Pilot Program Required.—** The Assistant Secretary for Intelligence and Analysis of the Department of the Treasury shall carry out a pilot program to assess the feasibility and advisability of using adjustments of rates of pay to recruit and retain staff for high-demand positions in the Office of Intelligence and Analysis of the Department of the Treasury.
 
@@ -907,7 +907,7 @@ Pub. L. 117–103, div. X, title IV, § 416, Mar. 15, 2022, 136 Stat. 979, pro
 
 [For definitions of “congressional intelligence committees” and “intelligence community” as used in section 416 of div. X of Pub. L. 117–103, set out above, see section 2 of div. X of Pub. L. 117–103, set out as a note under section 3003 of Title 50, War and National Defense.]
 
-### § 312. Terrorism and financial intelligence
+### § 312. Terrorism and financial intelligence
 
 **(a) Office of Terrorism and Financial Intelligence.—**
 
@@ -1019,7 +1019,7 @@ Pub. L. 117–103, div. X, title IV, § 416, Mar. 15, 2022, 136 Stat. 979, pro
 
 **(h) Deployment of Staff.—** The Secretary of the Treasury may detail, without regard to the provisions of section 300.301 of title 5, Code of Federal Regulations, any employee in the OTFI to any position in the OTFI for which the Secretary has determined there is a need.
 
-(Added Pub. L. 108–447, div. H, title II, § 222(a), Dec. 8, 2004, 118 Stat. 3242, § 313; renumbered § 312, Pub. L. 111–203, title V, § 502(a)(2), July 21, 2010, 124 Stat. 1580; amended Pub. L. 114–22, title I, § 105(c)(2)(A)(ii)(I), May 29, 2015, 129 Stat. 237; Pub. L. 116–92, div. F, title LXXI, § 7153, Dec. 20, 2019, 133 Stat. 2259; Pub. L. 116–283, div. F, title LXI, § 6105(b), Jan. 1, 2021, 134 Stat. 4555.)
+(Added Pub. L. 108–447, div. H, title II, § 222(a), Dec. 8, 2004, 118 Stat. 3242, § 313; renumbered § 312, Pub. L. 111–203, title V, § 502(a)(2), July 21, 2010, 124 Stat. 1580; amended Pub. L. 114–22, title I, § 105(c)(2)(A)(ii)(I), May 29, 2015, 129 Stat. 237; Pub. L. 116–92, div. F, title LXXI, § 7153, Dec. 20, 2019, 133 Stat. 2259; Pub. L. 116–283, div. F, title LXI, § 6105(b), Jan. 1, 2021, 134 Stat. 4555.)
 
 **Editorial Notes**
 
@@ -1039,9 +1039,9 @@ A prior section 312 was renumbered section 315 of this title.
 
 2021—Subsecs. (g), (h). Pub. L. 116–283 added subsecs. (g) and (h).
 
-2019—Subsec. (a)(4)(E) to (H). Pub. L. 116–92, § 7153(a), added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
+2019—Subsec. (a)(4)(E) to (H). Pub. L. 116–92, § 7153(a), added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
 
-Subsec. (a)(8). Pub. L. 116–92, § 7153(b), added par. (8).
+Subsec. (a)(8). Pub. L. 116–92, § 7153(b), added par. (8).
 
 2015—Subsec. (d). Pub. L. 114–22 substituted “section 9705” for “section 9703”.
 
@@ -1057,7 +1057,7 @@ Reference to Community Management Staff deemed to be a reference to the staff of
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-### § 313. Federal Insurance Office
+### § 313. Federal Insurance Office
 
 **(a) Establishment.—** There is established within the Department of the Treasury the Federal Insurance Office.
 
@@ -1189,9 +1189,9 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **(C)** the application of the antitrust laws of any State to the business of insurance; or
 
-**(D)** any State insurance measure governing the capital or solvency of an insurer, except to the extent that such State insurance measure results in less favorable treatment of a non-United State 1
+**(D)** any State insurance measure governing the capital or solvency of an insurer, except to the extent that such State insurance measure results in less favorable treatment of a non-United State 1
 
-<sup>1</sup>  So in original. Probably should be “States”.
+<sup>1</sup> So in original. Probably should be “States”.
 
 insurer than a United States insurer;
 
@@ -1297,7 +1297,7 @@ insurer than a United States insurer;
 
 **(s) Authorization of Appropriations.—** There are authorized to be appropriated for the Office for each fiscal year such sums as may be necessary.
 
-(Added Pub. L. 111–203, title V, § 502(a)(3), July 21, 2010, 124 Stat. 1580.)
+(Added Pub. L. 111–203, title V, § 502(a)(3), July 21, 2010, 124 Stat. 1580.)
 
 **Editorial Notes**
 
@@ -1305,17 +1305,17 @@ insurer than a United States insurer;
 
 Section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (c)(1)(B), is section 1204(c) of Pub. L. 101–73, which is set out as a note under section 1811 of Title 12, Banks and Banking.
 
-The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (c)(1)(C), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title I of the Act, known as the Financial Stability Act of 2010, is classified principally to subchapter I (§ 5311 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (c)(1)(C), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title I of the Act, known as the Financial Stability Act of 2010, is classified principally to subchapter I (§ 5311 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
 The Terrorism Risk Insurance Act of 2002, referred to in subsec. (c)(1)(D), is Pub. L. 107–297, Nov. 26, 2002, 116 Stat. 2322. Title I of the Act, relating to the Terrorism Insurance Program, is set out as a note under section 6701 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 6701 of Title 15 and Tables.
 
-The Financial Stability Act of 2010, referred to in subsec. (c)(3), is title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to subchapter I (§ 5311 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+The Financial Stability Act of 2010, referred to in subsec. (c)(3), is title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to subchapter I (§ 5311 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
-The Federal Crop Insurance Act, referred to in subsec. (d)(3), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (d)(3), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
-The Consumer Financial Protection Act of 2010, referred to in subsec. (j)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§ 5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsec. (j)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§ 5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
-The Nonadmitted and Reinsurance Reform Act of 2010, referred to in subsec. (*o*)(2), is subtitle B (§§ 511–542) of title V of Pub. L. 111–203, July 21, 2010, 124 Stat. 1589. Part II of the Act is classified generally to subchapter II (§ 8221 et seq.) of chapter 108 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 15 and Tables.
+The Nonadmitted and Reinsurance Reform Act of 2010, referred to in subsec. (*o*)(2), is subtitle B (§§ 511–542) of title V of Pub. L. 111–203, July 21, 2010, 124 Stat. 1589. Part II of the Act is classified generally to subchapter II (§ 8221 et seq.) of chapter 108 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 15 and Tables.
 
 The date of enactment of this section, referred to subsec. (p)(1), is the date of enactment of Pub. L. 111–203, which was approved July 21, 2010.
 
@@ -1331,7 +1331,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 **International Insurance Capital Standards Accountability**
 
-Pub. L. 115–174, title II, § 211, May 24, 2018, 132 Stat. 1316, provided that:
+Pub. L. 115–174, title II, § 211, May 24, 2018, 132 Stat. 1316, provided that:
 
 > **“(a) Findings.—** Congress finds that—
 
@@ -1377,7 +1377,7 @@ Pub. L. 115–174, title II, § 211, May 24, 2018, 132 Stat. 1316, provided th
 
 > **“(4) Report on increase in transparency.—** Not later than 180 days after the date of enactment of this Act [May 24, 2018], the Chairman of the Board of Governors of the Federal Reserve System and the Secretary of the Treasury, or their designees, shall submit to Congress a report and provide testimony to Congress on the efforts of the Chairman and the Secretary to increase transparency at meetings of the International Association of Insurance Supervisors.”
 
-### § 314. Covered agreements
+### § 314. Covered agreements
 
 **(a) Authority.—** The Secretary and the United States Trade Representative are authorized, jointly, to negotiate and enter into covered agreements on behalf of the United States.
 
@@ -1399,7 +1399,7 @@ Pub. L. 115–174, title II, § 211, May 24, 2018, 132 Stat. 1316, provided th
 
 **(2)** a period of 90 calendar days beginning on the date on which the copy of the final legal text of the agreement is submitted to the congressional committees under paragraph (1) has expired.
 
-(Added Pub. L. 111–203, title V, § 502(a)(3), July 21, 2010, 124 Stat. 1588.)
+(Added Pub. L. 111–203, title V, § 502(a)(3), July 21, 2010, 124 Stat. 1588.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1407,11 +1407,11 @@ Pub. L. 115–174, title II, § 211, May 24, 2018, 132 Stat. 1316, provided th
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
 
-### § 315. Continuing in office
+### § 315. Continuing in office
 
 When the term of office of an officer of the Department of the Treasury ends, the officer may continue to serve until a successor is appointed and qualified.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 880, § 309; renumbered § 310, Pub. L. 101–73, title III, § 307(a)(1), Aug. 9, 1989, 103 Stat. 352; renumbered § 311, Pub. L. 107–56, title III, § 361(a)(1), Oct. 26, 2001, 115 Stat. 329; renumbered § 312, Pub. L. 108–177, title I, § 105(a)(1)(A), Dec. 13, 2003, 117 Stat. 2603; renumbered § 315, Pub. L. 111–203, title V, § 502(a)(1), July 21, 2010, 124 Stat. 1580.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 880, § 309; renumbered § 310, Pub. L. 101–73, title III, § 307(a)(1), Aug. 9, 1989, 103 Stat. 352; renumbered § 311, Pub. L. 107–56, title III, § 361(a)(1), Oct. 26, 2001, 115 Stat. 329; renumbered § 312, Pub. L. 108–177, title I, § 105(a)(1)(A), Dec. 13, 2003, 117 Stat. 2603; renumbered § 315, Pub. L. 111–203, title V, § 502(a)(1), July 21, 2010, 124 Stat. 1580.)
 
 **Historical and Revision Notes**
 
@@ -1419,7 +1419,7 @@ When the term of office of an officer of the Department of the Treasury ends, th
 |---|---|---|
 | 309 | 31:1016. | Mar. 2, 1895, ch. 187 (1st par. under heading “Treasury Department”), 28 Stat. 844. |
 
-In the section, the words “When the term of office . . . ends” are substituted for “whose terms of office have expired or shall expire” for consistency and to eliminate unnecessary words. The words “may continue to serve” are substituted for “The Secretary of the Treasury is authorized and directed to pay”, “and who have been performing or shall perform the duties of their respective offices after the date of such expiration”, and “the salary, compensation, fees, or emoluments authorized or provided by law in each case for the respective incumbents of the offices” because of 25 Op. Atty. Gen. 636 (1906) and for consistency with other titles of the United States Code. The words “until a successor is appointed and qualified” are substituted for “before the appointment and qualification of their successors” and 31:1016 (last sentence) for consistency with other titles of the Code.
+In the section, the words “When the term of office . . . ends” are substituted for “whose terms of office have expired or shall expire” for consistency and to eliminate unnecessary words. The words “may continue to serve” are substituted for “The Secretary of the Treasury is authorized and directed to pay”, “and who have been performing or shall perform the duties of their respective offices after the date of such expiration”, and “the salary, compensation, fees, or emoluments authorized or provided by law in each case for the respective incumbents of the offices” because of 25 Op. Atty. Gen. 636 (1906) and for consistency with other titles of the United States Code. The words “until a successor is appointed and qualified” are substituted for “before the appointment and qualification of their successors” and 31:1016 (last sentence) for consistency with other titles of the Code.
 
 **Editorial Notes**
 
@@ -1439,7 +1439,7 @@ In the section, the words “When the term of office . . . ends” are subst
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-### § 316. Treasury Attaché Program
+### § 316. Treasury Attaché Program
 
 **(a) In General.—** There is established the Treasury Financial Attaché Program, under which the Secretary of the Treasury shall appoint employees of the Department of the Treasury as a Treasury Financial Attaché, who shall—
 
@@ -1471,7 +1471,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **(2) Phase in.—** The compensation described in paragraph (1) shall be phased in over 2 years.
 
-(Added Pub. L. 116–283, div. F, title LXI, § 6106(a), Jan. 1, 2021, 134 Stat. 4556.)
+(Added Pub. L. 116–283, div. F, title LXI, § 6106(a), Jan. 1, 2021, 134 Stat. 4556.)
 
 **Editorial Notes**
 
@@ -1481,7 +1481,7 @@ The date of enactment of this section, referred to in subsecs. (b)(1), is the da
 
 ## SUBCHAPTER II—ADMINISTRATIVE
 
-### § 321. General authority of the Secretary
+### § 321. General authority of the Secretary
 
 **(a)** The Secretary of the Treasury shall—
 
@@ -1551,30 +1551,30 @@ The date of enactment of this section, referred to in subsecs. (b)(1), is the da
 
 **(4)** The Secretary of the Treasury shall, not less frequently than annually, make a public disclosure of the amount (and sources) of the gifts and bequests received under this subsection, and the purposes for which amounts in the separate fund established under this subsection are expended.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 880; Pub. L. 98–369, div. A, title IV, § 445, July 18, 1984, 98 Stat. 816; Pub. L. 101–73, title III, § 307(b), (d), Aug. 9, 1989, 103 Stat. 353; Pub. L. 104–66, title I, § 1132(b), Dec. 21, 1995, 109 Stat. 725; Pub. L. 111–203, title III, § 378(1), title V, § 502(b), July 21, 2010, 124 Stat. 1570, 1588.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 880; Pub. L. 98–369, div. A, title IV, § 445, July 18, 1984, 98 Stat. 816; Pub. L. 101–73, title III, § 307(b), (d), Aug. 9, 1989, 103 Stat. 353; Pub. L. 104–66, title I, § 1132(b), Dec. 21, 1995, 109 Stat. 725; Pub. L. 111–203, title III, § 378(1), title V, § 502(b), July 21, 2010, 124 Stat. 1570, 1588.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 321(a)(1)– (3) | 31:1002(less words between 1st and 2d semicolons and between 4th and 5th semicolons). | R.S. § 248(less words between 4th and 5th semicolons). |
+| 321(a)(1)– (3) | 31:1002(less words between 1st and 2d semicolons and between 4th and 5th semicolons). | R.S. § 248(less words between 4th and 5th semicolons). |
 | 321(a)(4) | (no source). |  |
-| 321(a)(5) | 31:427. | R.S. § 251(words after “Treasury” and before “shall prescribe forms of entries”). |
+| 321(a)(5) | 31:427. | R.S. § 251(words after “Treasury” and before “shall prescribe forms of entries”). |
 | 321(a)(6) | 31:1002(words between 1st and 2d semicolons). |  |
-| 321(a)(7) | 31:1011. | R.S. § 376; May 10, 1934, ch. 277, § 512(b), 48 Stat. 759. |
-| 321(a)(8) | 31:1024. | R.S. §§ 239, 261; Feb. 18, 1875, ch. 80, § 1(3d complete par. on p. 317), 18 Stat. 317; Aug. 7, 1946, ch. 770, § 1(48), 60 Stat. 870. |
-| 321(b)(1) | 31:127. | Oct. 9, 1940, ch. 796, § 5, 54 Stat. 1087. |
-|  | 31:317f. | Dec. 18, 1942, ch. 767, § 7, 56 Stat. 1066. |
-|  | 31:397. | July 23, 1965, Pub. L. 89–81, § 107, 79 Stat. 255. |
-|  | 31:528(d). | R.S. § 3646(d); July 8, 1937, ch. 444, § 9, 50 Stat. 483; restated Dec. 3, 1945, ch. 515, § 1, 59 Stat. 593. |
-|  | 31:564. | Nov. 21, 1941, ch. 489, § 5, 55 Stat. 778; Dec. 22, 1974, Pub. L. 93–539, § 1(a) (related to § 4), 88 Stat. 1738. |
-|  | 31:1053. | Oct. 26, 1970, Pub. L. 91–508, § 204, 84 Stat. 1120. |
-|  | 31:1262(a). | Oct. 20, 1972, Pub. L. 92–512, § 142(a), 86 Stat. 935. |
-| 321(b)(2), (3) | 31:1001(note). | Reorg. Plan No. 26 of 1950, eff. July 31, 1950, §§ 2, 4, 64 Stat. 1281. |
-| 321(b)(4) | 31:1017. | June 12, 1917, ch. 27, § 1(4th par. under heading “Miscellaneous Objects, Treasury Department”), 40 Stat. 118; Mar. 4, 1921, ch. 161, § 1(1st par. under heading “Miscellaneous Objects, Treasury Department”), 41 Stat. 1374. |
-| 321(b)(5) | 31:486. | Apr. 28, 1904, ch. 1762, § 1(proviso immediately before heading “Revenue-Cutter Service”), 33 Stat. 460. |
-| 321(b)(6) | 31:1023(a). | June 1, 1955, ch. 119, § 1(a), 69 Stat. 82. |
-| 321(c) | 31:1001(note). | Reorg. Plan No. 26 of 1950, eff. July 31, 1950, § 1(a), (b), 64 Stat. 1280. |
+| 321(a)(7) | 31:1011. | R.S. § 376; May 10, 1934, ch. 277, § 512(b), 48 Stat. 759. |
+| 321(a)(8) | 31:1024. | R.S. §§ 239, 261; Feb. 18, 1875, ch. 80, § 1(3d complete par. on p. 317), 18 Stat. 317; Aug. 7, 1946, ch. 770, § 1(48), 60 Stat. 870. |
+| 321(b)(1) | 31:127. | Oct. 9, 1940, ch. 796, § 5, 54 Stat. 1087. |
+|  | 31:317f. | Dec. 18, 1942, ch. 767, § 7, 56 Stat. 1066. |
+|  | 31:397. | July 23, 1965, Pub. L. 89–81, § 107, 79 Stat. 255. |
+|  | 31:528(d). | R.S. § 3646(d); July 8, 1937, ch. 444, § 9, 50 Stat. 483; restated Dec. 3, 1945, ch. 515, § 1, 59 Stat. 593. |
+|  | 31:564. | Nov. 21, 1941, ch. 489, § 5, 55 Stat. 778; Dec. 22, 1974, Pub. L. 93–539, § 1(a) (related to § 4), 88 Stat. 1738. |
+|  | 31:1053. | Oct. 26, 1970, Pub. L. 91–508, § 204, 84 Stat. 1120. |
+|  | 31:1262(a). | Oct. 20, 1972, Pub. L. 92–512, § 142(a), 86 Stat. 935. |
+| 321(b)(2), (3) | 31:1001(note). | Reorg. Plan No. 26 of 1950, eff. July 31, 1950, §§ 2, 4, 64 Stat. 1281. |
+| 321(b)(4) | 31:1017. | June 12, 1917, ch. 27, § 1(4th par. under heading “Miscellaneous Objects, Treasury Department”), 40 Stat. 118; Mar. 4, 1921, ch. 161, § 1(1st par. under heading “Miscellaneous Objects, Treasury Department”), 41 Stat. 1374. |
+| 321(b)(5) | 31:486. | Apr. 28, 1904, ch. 1762, § 1(proviso immediately before heading “Revenue-Cutter Service”), 33 Stat. 460. |
+| 321(b)(6) | 31:1023(a). | June 1, 1955, ch. 119, § 1(a), 69 Stat. 82. |
+| 321(c) | 31:1001(note). | Reorg. Plan No. 26 of 1950, eff. July 31, 1950, § 1(a), (b), 64 Stat. 1280. |
 
 In subsection (a)(1)–(3), the words between the 2d and 3d semicolons are omitted as superseded by section 3512 of the revised title.
 
@@ -1610,17 +1610,17 @@ In subsection (b)(6), the word “buy” is substituted for “make expenditures
 
 **Amendments**
 
-2010—Subsec. (a)(9). Pub. L. 111–203, § 502(b), added par. (9).
+2010—Subsec. (a)(9). Pub. L. 111–203, § 502(b), added par. (9).
 
-Subsec. (c). Pub. L. 111–203, § 378(1)(A), inserted “and” at end of par. (1), substituted period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “of the Director of the Office of Thrift Supervision;”.
+Subsec. (c). Pub. L. 111–203, § 378(1)(A), inserted “and” at end of par. (1), substituted period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “of the Director of the Office of Thrift Supervision;”.
 
-Subsec. (e). Pub. L. 111–203, § 378(1)(B), struck out subsec. (e). Text read as follows: “The Secretary of the Treasury may not merge or consolidate the Office of Thrift Supervision, or any of the functions or responsibilities of the Office or the Director of such office, with the Office of the Comptroller of the Currency or the Comptroller of the Currency.”
+Subsec. (e). Pub. L. 111–203, § 378(1)(B), struck out subsec. (e). Text read as follows: “The Secretary of the Treasury may not merge or consolidate the Office of Thrift Supervision, or any of the functions or responsibilities of the Office or the Director of such office, with the Office of the Comptroller of the Currency or the Comptroller of the Currency.”
 
 1995—Subsec. (b)(7). Pub. L. 104–66 added par. (7).
 
-1989—Subsec. (c)(3). Pub. L. 101–73, § 307(b), added par. (3).
+1989—Subsec. (c)(3). Pub. L. 101–73, § 307(b), added par. (3).
 
-Subsec. (e). Pub. L. 101–73, § 307(d), added subsec. (e).
+Subsec. (e). Pub. L. 101–73, § 307(d), added subsec. (e).
 
 1984—Subsec. (d). Pub. L. 98–369 added subsec. (d).
 
@@ -1634,7 +1634,7 @@ Amendment by section 502(b) of Pub. L. 111–203 effective 1 day after July 21, 
 
 **Use of Aircraft in Emergency Law Enforcement Support**
 
-Pub. L. 104–52, title I, § 107, Nov. 19, 1995, 109 Stat. 476, provided that: “The Secretary of the Treasury is authorized in fiscal year 1996 and hereafter, to use Treasury Department aircraft, with or without reimbursement, to assist bureaus within the Department of the Treasury or other Federal agencies, Departments or offices outside of the Department of the Treasury to provide emergency law enforcement support to protect human life, property, public health, or safety.”
+Pub. L. 104–52, title I, § 107, Nov. 19, 1995, 109 Stat. 476, provided that: “The Secretary of the Treasury is authorized in fiscal year 1996 and hereafter, to use Treasury Department aircraft, with or without reimbursement, to assist bureaus within the Department of the Treasury or other Federal agencies, Departments or offices outside of the Department of the Treasury to provide emergency law enforcement support to protect human life, property, public health, or safety.”
 
 **Executive Documents**
 
@@ -1642,7 +1642,7 @@ Pub. L. 104–52, title I, § 107, Nov. 19, 1995, 109 Stat. 476, provided that
 
 For assignment of certain emergency preparedness functions to Secretary of the Treasury, see Parts 1, 2, and 15 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
-### § 322. Working capital fund
+### § 322. Working capital fund
 
 **(a)** The Department of the Treasury has a working capital fund. Amounts in the fund are available for expenses of operating and maintaining common administrative services of the Department that the Secretary of the Treasury, with the approval of the Director of the Office of Management and Budget, decides may be carried out more advantageously and more economically as central services.
 
@@ -1660,13 +1660,13 @@ For assignment of certain emergency preparedness functions to Secretary of the T
 
 **(d)** The fund shall be reimbursed, or credited with advance payments, from amounts available to the Department or from other sources, for supplies and services at rates that will equal the expenses of operation, including accrual of annual leave and the depreciation of plant and equipment. Amounts the Secretary decides are in excess of the needs of the fund shall be deposited at the end of each fiscal year in the Treasury as miscellaneous receipts.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 881; Pub. L. 98–369, div. A, title IV, § 442, July 18, 1984, 98 Stat. 816.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 881; Pub. L. 98–369, div. A, title IV, § 442, July 18, 1984, 98 Stat. 816.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 322(a) | 31:1033(1st sentence less words between 1st and 3d commas, 2d sentence 1st–9th words). | Dec. 31, 1970, Pub. L. 91–614, § 401, 84 Stat. 1846. |
+| 322(a) | 31:1033(1st sentence less words between 1st and 3d commas, 2d sentence 1st–9th words). | Dec. 31, 1970, Pub. L. 91–614, § 401, 84 Stat. 1846. |
 | 322(b) | 31:1033(1st sentence words between 1st and 3d commas, last sentence). |  |
 | 322(c) | 31:1033(2d sentence less 1st–9th words, 4th sentence). |  |
 | 322(d) | 31:1033(3d, 5th sentences). |  |
@@ -1687,11 +1687,11 @@ In subsection (d), the words “other Federal agencies” are omitted because th
 
 **Department of the Treasury Franchise Fund**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title I], Sept. 30, 1996, 110 Stat. 3009–314, 3009–316, as amended by Pub. L. 106–554, § 1(a)(3) [title I, § 120], Dec. 21, 2000, 114 Stat. 2763, 2763A–135; Pub. L. 108–7, div. J, title I, § 123, Feb. 20, 2003, 117 Stat. 439; Pub. L. 108–447, div. H, title II, § 219, Dec. 8, 2004, 118 Stat. 3242, provided in part that: “Hereafter There [sic] is established in the Treasury a franchise fund to be available without fiscal year limitation, for expenses and equipment necessary for the maintenance and operation of such financial and administrative support services as the Secretary determines may be performed more advantageously as central services: *Provided*, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital, shall be used to capitalize such fund: *Provided further*, That such fund shall be reimbursed or credited with the payments, including advanced payments, from applicable appropriations and funds available to the Department and other Federal agencies for which such administrative and financial services are performed, at rates which will recover all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of Automatic Data Processing (ADP) software and systems, and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: *Provided further*, That such fund shall provide services on a competitive basis: *Provided further*, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Treasury financial management, ADP, and other support systems: *Provided further*, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury.”
+Pub. L. 104–208, div. A, title I, § 101(f) [title I], Sept. 30, 1996, 110 Stat. 3009–314, 3009–316, as amended by Pub. L. 106–554, § 1(a)(3) [title I, § 120], Dec. 21, 2000, 114 Stat. 2763, 2763A–135; Pub. L. 108–7, div. J, title I, § 123, Feb. 20, 2003, 117 Stat. 439; Pub. L. 108–447, div. H, title II, § 219, Dec. 8, 2004, 118 Stat. 3242, provided in part that: “Hereafter There [sic] is established in the Treasury a franchise fund to be available without fiscal year limitation, for expenses and equipment necessary for the maintenance and operation of such financial and administrative support services as the Secretary determines may be performed more advantageously as central services: *Provided*, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital, shall be used to capitalize such fund: *Provided further*, That such fund shall be reimbursed or credited with the payments, including advanced payments, from applicable appropriations and funds available to the Department and other Federal agencies for which such administrative and financial services are performed, at rates which will recover all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of Automatic Data Processing (ADP) software and systems, and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: *Provided further*, That such fund shall provide services on a competitive basis: *Provided further*, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Treasury financial management, ADP, and other support systems: *Provided further*, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury.”
 
-[Amendments by Pub. L. 108–447 to Pub. L. 104–208, § 101(f) [title I], set out above, were executed to reflect the probable intent of Congress, notwithstanding errors in the directory language.]
+[Amendments by Pub. L. 108–447 to Pub. L. 104–208, § 101(f) [title I], set out above, were executed to reflect the probable intent of Congress, notwithstanding errors in the directory language.]
 
-### § 323. Investment of operating cash
+### § 323. Investment of operating cash
 
 **(a)** To manage United States cash, the Secretary of the Treasury may invest any part of the operating cash of the Treasury for not more than 90 days. The Secretary may invest the operating cash of the Treasury in—
 
@@ -1711,13 +1711,13 @@ Pub. L. 104–208, div. A, title I, § 101(f) [title I], Sept. 30, 1996, 110 S
 
 **(2)** For purposes of paragraph (1), the term “appropriate committees” means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 882; Pub. L. 110–351, title V, § 502, Oct. 7, 2008, 122 Stat. 3980.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 882; Pub. L. 110–351, title V, § 502, Oct. 7, 2008, 122 Stat. 3980.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 323(a) | 31:1038(1st sentence less 1st, 2d provisos). | Oct. 28, 1977, Pub. L. 95–147, § 1, 91 Stat. 1227. |
+| 323(a) | 31:1038(1st sentence less 1st, 2d provisos). | Oct. 28, 1977, Pub. L. 95–147, § 1, 91 Stat. 1227. |
 | 323(b) | 31:1038(1st, 2d provisos). |  |
 | 323(c) | 31:1038(last sentence). |  |
 
@@ -1731,7 +1731,7 @@ In subsection (c), the words “Investments in obligations of depositaries maint
 
 2008—Pub. L. 110–351 amended section generally. Prior to amendment, section related to investment of operating cash.
 
-### § 324. Disposing and extending the maturity of obligations
+### § 324. Disposing and extending the maturity of obligations
 
 **(a)** The Secretary of the Treasury may—
 
@@ -1747,13 +1747,13 @@ In subsection (c), the words “Investments in obligations of depositaries maint
 
 **(c)** The authority under this section is in addition to authority under another law.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 882; Pub. L. 98–369, div. A, title IV, § 444, July 18, 1984, 98 Stat. 816.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 882; Pub. L. 98–369, div. A, title IV, § 444, July 18, 1984, 98 Stat. 816.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 324(a) | 31:741a(a)(1st sentence words before 9th comma). | Apr. 3, 1945, ch. 51, § 5, 59 Stat. 48. |
+| 324(a) | 31:741a(a)(1st sentence words before 9th comma). | Apr. 3, 1945, ch. 51, § 5, 59 Stat. 48. |
 | 324(b) | 31:741a(a)(1st sentence words after 9th comma, last sentence). |  |
 | 324(c) | 31:741a(b). |  |
 
@@ -1771,7 +1771,7 @@ Subsection (c) is substituted for 31:741a(b) to eliminate unnecessary words and 
 
 1984—Subsec. (b). Pub. L. 98–369 struck out provision that the Secretary could not dispose of obligations of one issuer, held by the Secretary at one time, having on the date of disposal a total face or par value of more than $1,000,000 or, if no-par obligations, a stated or book value of more than $1,000,000.
 
-### § 325. International affairs authorization
+### § 325. International affairs authorization
 
 **(a)** Under regulations prescribed by the Secretary of the Treasury, the Secretary may provide officers and employees of the Department of the Treasury carrying out international affairs duties and powers of the Department with allowances and benefits comparable to those provided under chapter 9 of title I of the Foreign Service Act of 1980 (22 U.S.C. 4081 et seq.).
 
@@ -1799,14 +1799,14 @@ Subsection (c) is substituted for 31:741a(b) to eliminate unnecessary words and 
 
 **(C)** allowances and benefits, because of cost of living increases, provided under subsection (a) of this section.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 882; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(3)(D)], Nov. 5, 1990, 104 Stat. 1427, 1439.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 882; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(3)(D)], Nov. 5, 1990, 104 Stat. 1427, 1439.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 325(a) | 31:822a(d). | Jan. 30, 1934, ch. 6, 48 Stat. 337, § 10(d); added Nov. 8, 1978, Pub. L. 95–612, § 2, 92 Stat. 3091; Oct. 17, 1980, Pub. L. 96–465, § 2206(f), 94 Stat. 2163. |
-| 325(b), (c) | (uncodified). | Nov. 8, 1978, Pub. L. 95–612, § 5, 92 Stat. 3092; Aug. 8, 1979, Pub. L. 96–47, 93 Stat. 344; Aug. 13, 1981, Pub. L. 97–35, § 382(a), 95 Stat. 432. |
+| 325(a) | 31:822a(d). | Jan. 30, 1934, ch. 6, 48 Stat. 337, § 10(d); added Nov. 8, 1978, Pub. L. 95–612, § 2, 92 Stat. 3091; Oct. 17, 1980, Pub. L. 96–465, § 2206(f), 94 Stat. 2163. |
+| 325(b), (c) | (uncodified). | Nov. 8, 1978, Pub. L. 95–612, § 5, 92 Stat. 3092; Aug. 8, 1979, Pub. L. 96–47, 93 Stat. 344; Aug. 13, 1981, Pub. L. 97–35, § 382(a), 95 Stat. 432. |
 
 In the section, the words “international affairs duties and powers” are substituted for “international affairs functions” for consistency in the revised title and with other titles of the United States Code. The words “officers and employees” are substituted for “personnel” and “employees” as being more precise.
 
@@ -1824,26 +1824,26 @@ Subsection (c) is substituted for the words “and such sums as may be necessary
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 **Study on Role of Gold in Domestic and International Monetary Systems; Establishment of Commission; Report to Congress; Availability of Appropriations**
 
-Pub. L. 96–389, § 10, Oct. 7, 1980, 94 Stat. 1555, as amended Pub. L. 97–47, § 2, Sept. 30, 1981, 95 Stat. 954, provided that the Secretary of the Treasury establish and chair a commission consisting of three members of the Board of Governors of the Federal Reserve System, two members of the Council of Economic Advisors, and four private citizens with business, finance, or academic backgrounds, to be designated by the Secretary, and one majority and one minority member each from the Joint Economic Committee, the Senate Committee on Banking, Housing, and Urban Affairs, and the House Committee on Banking, Finance and Urban Affairs to be designated by the Speaker of the House and the President of the Senate, respectively. The commission was to conduct a study to assess and make recommendations with regard to the policy of the United States Government concerning the role of gold in domestic and international monetary systems, and transmit to Congress a report containing its findings and recommendations not later than March 31, 1982. Sums appropriated pursuant to section 5 of Public Law 95–612 [Pub. L. 95–612, § 5, Nov. 8, 1978, 92 Stat. 3092, which was not classified to the Code] were made available to the commission to carry out its functions.
+Pub. L. 96–389, § 10, Oct. 7, 1980, 94 Stat. 1555, as amended Pub. L. 97–47, § 2, Sept. 30, 1981, 95 Stat. 954, provided that the Secretary of the Treasury establish and chair a commission consisting of three members of the Board of Governors of the Federal Reserve System, two members of the Council of Economic Advisors, and four private citizens with business, finance, or academic backgrounds, to be designated by the Secretary, and one majority and one minority member each from the Joint Economic Committee, the Senate Committee on Banking, Housing, and Urban Affairs, and the House Committee on Banking, Finance and Urban Affairs to be designated by the Speaker of the House and the President of the Senate, respectively. The commission was to conduct a study to assess and make recommendations with regard to the policy of the United States Government concerning the role of gold in domestic and international monetary systems, and transmit to Congress a report containing its findings and recommendations not later than March 31, 1982. Sums appropriated pursuant to section 5 of Public Law 95–612 [Pub. L. 95–612, § 5, Nov. 8, 1978, 92 Stat. 3092, which was not classified to the Code] were made available to the commission to carry out its functions.
 
-### § 326. Availability of appropriations for certain expenses
+### § 326. Availability of appropriations for certain expenses
 
 **(a)** Under regulations prescribed by the Secretary of the Treasury, an appropriation for the Department of the Treasury available to pay travel expenses also is available to pay expenses to attend meetings of organizations related to the function or activity for which the appropriation is made.
 
 **(b)** The Secretary may approve reimbursement to agents on protective missions for subsistence expenses authorized by law without regard to rates and amounts established under section 5702 of title 5.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 883; Pub. L. 99–234, title I, § 107(e), Jan. 2, 1986, 99 Stat. 1759.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 883; Pub. L. 99–234, title I, § 107(e), Jan. 2, 1986, 99 Stat. 1759.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code* | *Source (Statutes at Large)* |
 |---|---|---|
-| 326(a) | 31:1031. | June 1, 1955, ch. 113, § 102, 69 Stat. 76. |
-| 326(b) | 31:1032. | Sept. 29, 1969, Pub. L. 91–74, § 102(1st par.), 83 Stat. 118. |
+| 326(a) | 31:1031. | June 1, 1955, ch. 113, § 102, 69 Stat. 76. |
+| 326(b) | 31:1032. | Sept. 29, 1969, Pub. L. 91–74, § 102(1st par.), 83 Stat. 118. |
 
 In subsection (a), the words “On and after June 1, 1955,” are omitted as executed.
 
@@ -1861,7 +1861,7 @@ In subsection (b), the words “On and after September 29, 1969,” are omitted 
 
 Amendment by Pub. L. 99–234 effective (1) on the effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of Title 5, Government Organization and Employees.
 
-### § 327. Advancements and reimbursements for services
+### § 327. Advancements and reimbursements for services
 
 **(a)** In this section, “service” includes service provided in—
 
@@ -1890,7 +1890,7 @@ In subsection (a), the words “shall not be limited to” are omitted as surplu
 
 In subsection (b), the words “When the Secretary of the Treasury provides a service” are substituted for “When any service authorized by law and directed by the Secretary of the Treasury is performed or to be performed” to eliminate unnecessary words. The words “by the Fiscal Service or the Office of the Treasurer of the United States of the Department of the Treasury” are omitted because of the source provisions restated in section 321 of the revised title. The words “agency (except the Department of the Treasury)” are substituted for 31:157(c)(1) for consistency in the revised title and with other titles of the Code. The word “reimburse” is substituted for “pay”, and the words “advanced or reimbursed” are substituted for “transferred”, for clarity and because of the restatement.
 
-### § 328. Accounts and payments of former disbursing officials
+### § 328. Accounts and payments of former disbursing officials
 
 **(a)** If a chief disbursing official or a director of a disbursing center of the Department of the Treasury dies, resigns, or leaves office, the deputy chief disbursing official or the deputy director of the disbursing center designated by the Secretary of the Treasury may continue the accounts and payments in the name of the former disbursing official or director through the last day of the 2d month after the month in which the death, resignation, or separation occurs. The accounts and payments shall be allowed, audited, and settled as provided by law. The Secretary shall honor checks signed in the name of the former disbursing official or director in the same way as if the former disbursing official or director had continued in office.
 
@@ -1902,14 +1902,14 @@ In subsection (b), the words “When the Secretary of the Treasury provides a se
 
 | *Revised Section* | *Source (U.S. Code* | *Source (Statutes at Large)* |
 |---|---|---|
-| 328(a) | 31:1014(1st, 2d sentences). | Dec. 24, 1942, ch. 821, 56 Stat. 1086; restated Aug. 1, 1947, ch. 438, 61 Stat. 717; June 6, 1972, Pub. L. 92–310, § 231(dd), 86 Stat. 213. |
+| 328(a) | 31:1014(1st, 2d sentences). | Dec. 24, 1942, ch. 821, 56 Stat. 1086; restated Aug. 1, 1947, ch. 438, 61 Stat. 717; June 6, 1972, Pub. L. 92–310, § 231(dd), 86 Stat. 213. |
 | 328(b) | 31:1014(last sentence). |  |
 
 In subsection (a), the words “director of a disbursing center” are substituted for “any regional disbursing officer of the Fiscal Service, Treasury Department” to reflect the title of the position now presently authorized. The words “dies, resigns, or leaves office” are substituted for “In case of the death or of the resignation or separation from office” for consistency with other titles of the United States Code. The words “designated by an official of the Treasury Department authorized by the Secretary of the Treasury to make such designation” are omitted as unnecessary because of the source provisions restated in section 321 of the revised title. The word “through” is substituted for “for a period of time not to extend beyond” to eliminate unnecessary words. The words “as provided by law” are substituted for “in the General Accounting Office”, for consistency with other titles of the Code. The word “Secretary” is substituted for “Treasurer of the United States” because of the source provisions restated in section 321 of the revised title.
 
 Subsection (b) is substituted for 31:1014(last sentence) for clarity and to eliminate unnecessary words.
 
-### § 329. Limitations on outside activities
+### § 329. Limitations on outside activities
 
 **(a)**
 
@@ -1945,8 +1945,8 @@ Subsection (b) is substituted for 31:1014(last sentence) for clarity and to elim
 
 | *Revised Section* | *Source (U.S. Code* | *Source (Statutes at Large)* |
 |---|---|---|
-| 329(a) | 31:163, 1003. | R.S. § 243. |
-| 329(b) | 31:1018. | R.S. § 244. |
+| 329(a) | 31:163, 1003. | R.S. § 243. |
+| 329(b) | 31:1018. | R.S. § 244. |
 
 In subsection (a)(1), before clause (A), the words “The Secretary of the Treasury and the Treasurer may not” are substituted for “No person appointed to the office of Secretary of the Treasury, or Treasurer, shall” because of the restatement and for consistency in the revised title. The words “or First Comptroller” (subsequently redesignated as the Comptroller of the Treasury by section 4 of the Act of July 31, 1894 (ch. 174, 28 Stat. 205)) and “or First Auditor” in section 243 of the Revised Statutes are omitted because the positions were abolished by sections 301 and 310 of the Act of June 10, 1921 (ch. 18, 42 Stat. 23, 25). The text of 31:163 is omitted because the position of Register was abolished by section 1(a) of Reorganization Plan No. 3 of 1940 (eff. June 30, 1940, 54 Stat. 1231). In clause (A), the words “directly or indirectly” are omitted as unnecessary. The words “be involved” are substituted for “be concerned or interested in carrying on the business of” to eliminate unnecessary words. In clause (B), the words “any part of a” are substituted for “in whole or in part” for consistency. The words “(except a pleasure vessel)” are added for consistency with 19:1599. In clause (C), the words “buy or hold as beneficiary in trust” are substituted for “purchase by himself, or another in trust for him” for clarity and consistency. The words “public land” are omitted as being included in “public property”. In clause (D), the words “involved in buying or disposing of obligations” are substituted for “be concerned in the purchase or disposal of any public securities” to eliminate unnecessary words and for consistency in the revised title. In clause (E), the words “personally take or use a benefit gained from conducting business of the Department of the Treasury” are substituted for “take or apply to his own use any emolument or gain for negotiating or transacting any business in the Treasury Department” to eliminate unnecessary words.
 
@@ -1958,7 +1958,7 @@ In subsection (b)(1), before clause (A), the words “An officer or employee of 
 
 In subsection (b)(2), the words “An officer or employee violating this subsection” are added because of the restatement. The word “punished” is omitted as unnecessary.
 
-### § 330. Practice before the Department
+### § 330. Practice before the Department
 
 **(a)** Subject to section 500 of title 5, the Secretary of the Treasury may—
 
@@ -1996,13 +1996,13 @@ The Secretary may impose a monetary penalty on any representative described in t
 
 **(e)** Nothing in this section or in any other provision of law shall be construed to limit the authority of the Secretary of the Treasury to impose standards applicable to the rendering of written advice with respect to any entity, transaction plan or arrangement, or other plan or arrangement, which is of a type which the Secretary determines as having a potential for tax avoidance or evasion.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 884; Pub. L. 98–369, div. A, title I, § 156(a), July 18, 1984, 98 Stat. 695; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 108–357, title VIII, § 822(a)(1), (b), Oct. 22, 2004, 118 Stat. 1586, 1587; Pub. L. 109–280, title XII, § 1219(d), Aug. 17, 2006, 120 Stat. 1085; Pub. L. 114–113, div. Q, title IV, § 410, Dec. 18, 2015, 129 Stat. 3121.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 884; Pub. L. 98–369, div. A, title I, § 156(a), July 18, 1984, 98 Stat. 695; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 108–357, title VIII, § 822(a)(1), (b), Oct. 22, 2004, 118 Stat. 1586, 1587; Pub. L. 109–280, title XII, § 1219(d), Aug. 17, 2006, 120 Stat. 1085; Pub. L. 114–113, div. Q, title IV, § 410, Dec. 18, 2015, 129 Stat. 3121.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code* | *Source (Statutes at Large)* |
 |---|---|---|
-| 330(a) | 31:1026(1st sentence). | July 7, 1884, ch. 334, § 3(proviso and sentence immediately after proviso under heading “War Department”), 23 Stat. 258. |
+| 330(a) | 31:1026(1st sentence). | July 7, 1884, ch. 334, § 3(proviso and sentence immediately after proviso under heading “War Department”), 23 Stat. 258. |
 | 330(b) | 31:1026(last sentence). |  |
 
 In the section, the words “representatives of persons” are substituted for “agents, attorneys, or other persons representing claimants before his department” to eliminate unnecessary words.
@@ -2019,9 +2019,9 @@ In subsection (b), the word “proceeding” is substituted for “hearing” be
 
 2006—Subsec. (c). Pub. L. 109–280 struck out “with respect to whom a penalty has been assessed under section 6701(a) of the Internal Revenue Code of 1986” after “any appraiser” in introductory provisions.
 
-2004—Subsec. (b). Pub. L. 108–357, § 822(a)(1), inserted “, or censure,” after “Department” in introductory provisions and inserted at end “The Secretary may impose a monetary penalty on any representative described in the preceding sentence. If the representative was acting on behalf of an employer or any firm or other entity in connection with the conduct giving rise to such penalty, the Secretary may impose a monetary penalty on such employer, firm, or entity if it knew, or reasonably should have known, of such conduct. Such penalty shall not exceed the gross income derived (or to be derived) from the conduct giving rise to the penalty and may be in addition to, or in lieu of, any suspension, disbarment, or censure of the representative.”
+2004—Subsec. (b). Pub. L. 108–357, § 822(a)(1), inserted “, or censure,” after “Department” in introductory provisions and inserted at end “The Secretary may impose a monetary penalty on any representative described in the preceding sentence. If the representative was acting on behalf of an employer or any firm or other entity in connection with the conduct giving rise to such penalty, the Secretary may impose a monetary penalty on such employer, firm, or entity if it knew, or reasonably should have known, of such conduct. Such penalty shall not exceed the gross income derived (or to be derived) from the conduct giving rise to the penalty and may be in addition to, or in lieu of, any suspension, disbarment, or censure of the representative.”
 
-Subsec. (d). Pub. L. 108–357, § 822(b), added subsec. (d).
+Subsec. (d). Pub. L. 108–357, § 822(b), added subsec. (d).
 
 1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -2035,13 +2035,13 @@ Amendment by Pub. L. 109–280 applicable to appraisals prepared with respect to
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 822(a)(2), Oct. 22, 2004, 118 Stat. 1587, provided that: “The amendments made by this subsection [amending this section] shall apply to actions taken after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 822(a)(2), Oct. 22, 2004, 118 Stat. 1587, provided that: “The amendments made by this subsection [amending this section] shall apply to actions taken after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 156(b), July 18, 1984, 98 Stat. 695, provided that: “The amendment made by subsection (a) [amending this section] shall apply to penalties assessed after the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title I, § 156(b), July 18, 1984, 98 Stat. 695, provided that: “The amendment made by subsection (a) [amending this section] shall apply to penalties assessed after the date of the enactment of this Act [July 18, 1984].”
 
-### § 331. Reports
+### § 331. Reports
 
 **(a)** The Secretary of the Treasury shall submit to Congress each year an annual report. The report shall include—
 
@@ -2083,24 +2083,24 @@ Pub. L. 98–369, div. A, title I, § 156(b), July 18, 1984, 98 Stat. 695, pro
 
 **(2)** The Comptroller General of the United States shall audit the financial statement required by this section.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 884; Pub. L. 103–356, title IV, § 405(c), Oct. 13, 1994, 108 Stat. 3416.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 884; Pub. L. 103–356, title IV, § 405(c), Oct. 13, 1994, 108 Stat. 3416.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code* | *Source (Statutes at Large)* |
 |---|---|---|
-| 331(a)(1)– (5) | 31:1027. | R.S. § 257. |
-|  | 31:1030. | Feb. 26, 1907, ch. 1635, § 1(2d par. under heading “Treasury Department”), 34 Stat. 949. |
-| 331(a)(6) | 31:757c(i)(last sentence). | Sept. 24, 1917, ch. 56, 40 Stat. 288, § 22(i)(last sentence); added Apr. 11, 1943, ch. 52, § 3, 57 Stat. 63; restated Apr. 3, 1945, ch. 51, § 3, 59 Stat. 48. |
-| 331(a)(7) | 31:725p(a)(last sentence). | June 26, 1934, ch. 756, §§ 17(a)(last sentence), 18(a)(last sentence), 48 Stat. 1230, 1231. |
+| 331(a)(1)– (5) | 31:1027. | R.S. § 257. |
+|  | 31:1030. | Feb. 26, 1907, ch. 1635, § 1(2d par. under heading “Treasury Department”), 34 Stat. 949. |
+| 331(a)(6) | 31:757c(i)(last sentence). | Sept. 24, 1917, ch. 56, 40 Stat. 288, § 22(i)(last sentence); added Apr. 11, 1943, ch. 52, § 3, 57 Stat. 63; restated Apr. 3, 1945, ch. 51, § 3, 59 Stat. 48. |
+| 331(a)(7) | 31:725p(a)(last sentence). | June 26, 1934, ch. 756, §§ 17(a)(last sentence), 18(a)(last sentence), 48 Stat. 1230, 1231. |
 |  | 31:725q(a)(last sentence). |  |
-| 331(b) | 31:757f. | Nov. 13, 1966, Pub. L. 89–809, § 402, 80 Stat. 1590; Apr. 21, 1976, Pub. L. 94–273, § 2(17), 90 Stat. 375. |
-| 331(c) | 31:1029. | July 31, 1894, ch. 174, § 15, 28 Stat. 210. |
-| 331(d) | 31:1002(words between 4th and 5th semicolons) | R.S. § 248(words between 4th and 5th semicolons). |
+| 331(b) | 31:757f. | Nov. 13, 1966, Pub. L. 89–809, § 402, 80 Stat. 1590; Apr. 21, 1976, Pub. L. 94–273, § 2(17), 90 Stat. 375. |
+| 331(c) | 31:1029. | July 31, 1894, ch. 174, § 15, 28 Stat. 210. |
+| 331(d) | 31:1002(words between 4th and 5th semicolons) | R.S. § 248(words between 4th and 5th semicolons). |
 
 In subsections (a) and (c), the word “receipts” is substituted for “revenues” for consistency in the section and the revised title.
 
-In subsection (a)(1), the words “public receipts and public expenditures” are substituted for “receipts and expenditures of the Government” in 31:1030 for consistency in the section. The word “completed” is omitted as surplus. In clause (2), the words “First. A report on the subject of finance” in 31:1027 are omitted because of the restatement. The word “containing” is omitted as surplus. In clause (4), the words “Second. A report containing” are omitted because of the restatement. The words “prior fiscal year” are substituted for “during the year preceding” for consistency. In clause (5), the words “paid at the Treasury” are omitted as unnecessary. The 3d paragraph of section 257 of the Revised Statutes, providing for a report on rules and regulations of the Secretary of the Treasury on imported goods, wares, and merchandise, is omitted as obsolete because section 252 of the Revised Statutes, authorizing those rules and regulations, was repealed by the Act of February 27, 1877 (ch. 69, 19 Stat. 241). The 4th paragraph of section 257, providing for a report on amounts of hospital taxes collected from sick and disabled seamen, is omitted as obsolete because section 15 of the Act of June 26, 1884 (ch. 121, 23 Stat. 57), repealed the tax. In clause (7), the words “the Commissioners of the District of Columbia” (subsequently changed to “the Mayor of the District of Columbia” by section 422 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, 87 Stat. 790)) in 31:725p are omitted as unnecessary because of § 448 of the District of Columbia Self-Government and Governmental Reorganization Act. The text of 31:725q(proviso) is omitted because of the restatement.
+In subsection (a)(1), the words “public receipts and public expenditures” are substituted for “receipts and expenditures of the Government” in 31:1030 for consistency in the section. The word “completed” is omitted as surplus. In clause (2), the words “First. A report on the subject of finance” in 31:1027 are omitted because of the restatement. The word “containing” is omitted as surplus. In clause (4), the words “Second. A report containing” are omitted because of the restatement. The words “prior fiscal year” are substituted for “during the year preceding” for consistency. In clause (5), the words “paid at the Treasury” are omitted as unnecessary. The 3d paragraph of section 257 of the Revised Statutes, providing for a report on rules and regulations of the Secretary of the Treasury on imported goods, wares, and merchandise, is omitted as obsolete because section 252 of the Revised Statutes, authorizing those rules and regulations, was repealed by the Act of February 27, 1877 (ch. 69, 19 Stat. 241). The 4th paragraph of section 257, providing for a report on amounts of hospital taxes collected from sick and disabled seamen, is omitted as obsolete because section 15 of the Act of June 26, 1884 (ch. 121, 23 Stat. 57), repealed the tax. In clause (7), the words “the Commissioners of the District of Columbia” (subsequently changed to “the Mayor of the District of Columbia” by section 422 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, 87 Stat. 790)) in 31:725p are omitted as unnecessary because of § 448 of the District of Columbia Self-Government and Governmental Reorganization Act. The text of 31:725q(proviso) is omitted because of the restatement.
 
 In subsection (b)(1), before clause (A), the words “for the prior fiscal year” are substituted for “as of the close of the preceding September 30 (beginning with the report as of June 30, 1967)” to eliminate unnecessary words. In clause (C), the word “obligations” is substituted for “securities” for consistency in the revised title. Clause (D) is substituted for “and of each department, agency, and instrumentality thereof” for clarity.
 
@@ -2118,9 +2118,9 @@ In subsection (d), the words “either House of Congress” are substituted for 
 
 **Termination of Reporting Requirements**
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsecs. (a), (b)(1)(A), and (c) of this section are listed on pages 140 and 142), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsecs. (a), (b)(1)(A), and (c) of this section are listed on pages 140 and 142), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
-### § 332. Miscellaneous administrative authority
+### § 332. Miscellaneous administrative authority
 
 The Secretary of the Treasury may to the extent provided in advance by appropriation Acts—
 
@@ -2152,7 +2152,7 @@ The Secretary of the Treasury may to the extent provided in advance by appropria
 
 **(B)** when appropriate, dispose of (by sale, rent, transfer, or otherwise) properties referred to in subparagraph (A)(i).
 
-(Added Pub. L. 98–302, § 3(a), May 25, 1984, 98 Stat. 217.)
+(Added Pub. L. 98–302, § 3(a), May 25, 1984, 98 Stat. 217.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2162,9 +2162,9 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Law
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 333. Prohibition of misuse of Department of the Treasury names, symbols, etc.
+### § 333. Prohibition of misuse of Department of the Treasury names, symbols, etc.
 
 **(a) General Rule.—** No person may use, in connection with, or as a part of, any advertisement, solicitation, business activity, or product, whether alone or with other words, letters, symbols, or emblems—
 
@@ -2206,13 +2206,13 @@ in a manner which could reasonably be interpreted or construed as conveying the 
 
 **(3) Coordination with subsection (c).—** No criminal proceeding may be commenced under this subsection with respect to any violation if a civil penalty has previously been assessed under subsection (c) with respect to such violation.
 
-(Added Pub. L. 103–296, title III, § 312(*l*)(1), Aug. 15, 1994, 108 Stat. 1528.)
+(Added Pub. L. 103–296, title III, § 312(*l*)(1), Aug. 15, 1994, 108 Stat. 1528.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 103–296, title III, § 312(m), Aug. 15, 1994, 108 Stat. 1530, provided that:
+Pub. L. 103–296, title III, § 312(m), Aug. 15, 1994, 108 Stat. 1530, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [enacting this section and amending section 1320b–10 of Title 42, The Public Health and Welfare] shall apply with respect to violations occurring after March 31, 1995.
 
@@ -2220,4 +2220,4 @@ Pub. L. 103–296, title III, § 312(m), Aug. 15, 1994, 108 Stat. 1530, provid
 
 **Report on Implementation of Section**
 
-Pub. L. 103–296, title III, § 312(*l*)(3), Aug. 15, 1994, 108 Stat. 1530, required the Secretary of the Treasury to submit a report to Congress by May 1, 1996, on the implementation of the amendments made by section 312 of Pub. L. 103–296 (enacting this section and amending section 1320b–10 of Title 42), with such report to include the number of cases in which the Secretary has notified persons of violations of this section, the number of prosecutions commenced under such section, and the total amount of the penalties collected in such prosecutions.
+Pub. L. 103–296, title III, § 312(*l*)(3), Aug. 15, 1994, 108 Stat. 1530, required the Secretary of the Treasury to submit a report to Congress by May 1, 1996, on the implementation of the amendments made by section 312 of Pub. L. 103–296 (enacting this section and amending section 1320b–10 of Title 42), with such report to include the number of cases in which the Secretary has notified persons of violations of this section, the number of prosecutions commenced under such section, and the total amount of the penalties collected in such prosecutions.

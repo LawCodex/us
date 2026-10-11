@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 23—FARM CREDIT SYSTEM
 
-## § 2001. Congressional declaration of policy and objectives
+## § 2001. Congressional declaration of policy and objectives
 
 **(a)** It is declared to be the policy of the Congress, recognizing that a prosperous, productive agriculture is essential to a free nation and recognizing the growing need for credit in rural areas, that the farmer-owned cooperative Farm Credit System be designed to accomplish the objective of improving the income and well-being of American farmers and ranchers by furnishing sound, adequate, and constructive credit and closely related services to them, their cooperatives, and to selected farm-related businesses necessary for efficient farm operations.
 
@@ -23,19 +23,19 @@ retrieved: 2026-10-11
 
 **(c)** It is declared to be the policy of Congress that the credit needs of farmers, ranchers, and their cooperatives are best served if the institutions of the Farm Credit System provide equitable and competitive interest rates to eligible borrowers, taking into consideration the creditworthiness and access to alternative sources of credit for borrowers, the cost of funds, the operating costs of the institution, including the costs of any loan loss amortization under section 2254(b)1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the cost of servicing loans, the need to retain earnings to protect borrowers’ stock, and the volume of net new borrowing. Further, it is declared to be the policy of Congress that Farm Credit System institutions take action in accordance with the Farm Credit Act Amendments of 1986 in such manner that borrowers from the institutions derive the greatest benefit practicable from that Act: *Provided*, That in no case is any borrower to be charged a rate of interest that is below competitive market rates for similar loans made by private lenders to borrowers of equivalent creditworthiness and access to alternative credit.
 
-(Pub. L. 92–181, § 1.1, Dec. 10, 1971, 85 Stat. 583; Pub. L. 99–509, title I, § 1032, Oct. 21, 1986, 100 Stat. 1877; Pub. L. 115–334, title V, § 5411(1), Dec. 20, 2018, 132 Stat. 4679.)
+(Pub. L. 92–181, § 1.1, Dec. 10, 1971, 85 Stat. 583; Pub. L. 99–509, title I, § 1032, Oct. 21, 1986, 100 Stat. 1877; Pub. L. 115–334, title V, § 5411(1), Dec. 20, 2018, 132 Stat. 4679.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2254(b) of this title, referred to in subsec. (c), was amended by Pub. L. 115–334, title V, § 5411(31)(B)(ii)(II), (iii), Dec. 20, 2018, 132 Stat. 4683. Section 5411(31)(B)(ii)(II) of Pub. L. 115–334 amended section 2254(b) of this title by striking out the third sentence of par. (1), which read as follows: “Notwithstanding the provisions of the preceding sentence and any other provision of this chapter, for the period July 1, 1986, through December 31, 1988, the institutions of the Farm Credit System may, on the prior approval of the Farm Credit Administration and subject to such conditions as it may establish, capitalize annually their provision for losses that is in excess of one-half of 1 percent of loans outstanding and amortize such capitalized amounts over a period not to exceed 20 years.” Section 5411(31)(B)(iii) of Pub. L. 115–334 amended section 2254(b) of this title in part by striking out par. (2), which read as follows: “In accordance with the regulations of the Farm Credit Administration, for the period ending December 31, 1992, System institutions are authorized to use the authorities contained in the third sentence of paragraph (1) except as otherwise provided in section 2278a–6 of this title.”
+Section 2254(b) of this title, referred to in subsec. (c), was amended by Pub. L. 115–334, title V, § 5411(31)(B)(ii)(II), (iii), Dec. 20, 2018, 132 Stat. 4683. Section 5411(31)(B)(ii)(II) of Pub. L. 115–334 amended section 2254(b) of this title by striking out the third sentence of par. (1), which read as follows: “Notwithstanding the provisions of the preceding sentence and any other provision of this chapter, for the period July 1, 1986, through December 31, 1988, the institutions of the Farm Credit System may, on the prior approval of the Farm Credit Administration and subject to such conditions as it may establish, capitalize annually their provision for losses that is in excess of one-half of 1 percent of loans outstanding and amortize such capitalized amounts over a period not to exceed 20 years.” Section 5411(31)(B)(iii) of Pub. L. 115–334 amended section 2254(b) of this title in part by striking out par. (2), which read as follows: “In accordance with the regulations of the Farm Credit Administration, for the period ending December 31, 1992, System institutions are authorized to use the authorities contained in the third sentence of paragraph (1) except as otherwise provided in section 2278a–6 of this title.”
 
-The Farm Credit Act Amendments of 1986, referred to in subsec. (c), is subtitle D of Pub. L. 99–509, title I, §§ 1031–1037, Oct. 21, 1986, 100 Stat. 1877, which amended sections 2001, 2015, 2075, 2131, 2159, 2205, 2252, and 2254 of this title and enacted provisions set out as a note below. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note below and Tables.
+The Farm Credit Act Amendments of 1986, referred to in subsec. (c), is subtitle D of Pub. L. 99–509, title I, §§ 1031–1037, Oct. 21, 1986, 100 Stat. 1877, which amended sections 2001, 2015, 2075, 2131, 2159, 2205, 2252, and 2254 of this title and enacted provisions set out as a note below. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note below and Tables.
 
 **Amendments**
 
@@ -47,47 +47,47 @@ The Farm Credit Act Amendments of 1986, referred to in subsec. (c), is subtitle 
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–205, title IV, § 401, Dec. 23, 1985, 99 Stat. 1709, provided that: “The provisions of titles I, II, III, and VI of this Act [enacting sections 2152, 2161, 2199, 2200, 2216 to 2216k, 2219, 2219a, 2253, 2261 to 2273 of this title and provisions set out as notes under section 2001 of this title, amending sections 2002, 2012, 2013, 2031, 2033, 2034, 2051, 2052, 2054, 2072 to 2074, 2077, 2078, 2091, 2093 to 2096, 2098, 2122 to 2126, 2132 to 2134, 2151, 2153 to 2156, 2182, 2183, 2201, 2202, 2205, 2206, 2211 to 2213, 2221 to 2223, 2227, 2241 to 2246, 2248 to 2252, and 2254 of this title, and repealing sections 2152, 2247, and 2253 of this title] shall become effective thirty days after enactment [Dec. 23, 1985].”
+Pub. L. 99–205, title IV, § 401, Dec. 23, 1985, 99 Stat. 1709, provided that: “The provisions of titles I, II, III, and VI of this Act [enacting sections 2152, 2161, 2199, 2200, 2216 to 2216k, 2219, 2219a, 2253, 2261 to 2273 of this title and provisions set out as notes under section 2001 of this title, amending sections 2002, 2012, 2013, 2031, 2033, 2034, 2051, 2052, 2054, 2072 to 2074, 2077, 2078, 2091, 2093 to 2096, 2098, 2122 to 2126, 2132 to 2134, 2151, 2153 to 2156, 2182, 2183, 2201, 2202, 2205, 2206, 2211 to 2213, 2221 to 2223, 2227, 2241 to 2246, 2248 to 2252, and 2254 of this title, and repealing sections 2152, 2247, and 2253 of this title] shall become effective thirty days after enactment [Dec. 23, 1985].”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–105, § 1(a), Feb. 10, 1996, 110 Stat. 162, provided that: “This Act [enacting sections 2214a, 2219e, 2277a–10a, 2277a–10b, 2279bb–7, and 2279cc of this title, amending sections 2013, 2018, 2020, 2129, 2154a, 2199, 2202a, 2252, 2254, 2277a, 2277a–2, 2277a–4, 2277a–5, 2277a–7, 2277a–8, 2277a–10, 2279aa, 2279aa–1, 2279aa–3, 2279aa–5, 2279aa–6, 2279aa–8, 2279aa–9, 2279aa–11 to 2279aa–13, 2279bb–1 to 2279bb–4 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, and section 1999 of Title 7, Agriculture, repealing section 2279aa–7 of this title, and enacting provisions set out as notes under this section and sections 2013 and 2252 of this title] may be cited as the ‘Farm Credit System Reform Act of 1996’.”
+Pub. L. 104–105, § 1(a), Feb. 10, 1996, 110 Stat. 162, provided that: “This Act [enacting sections 2214a, 2219e, 2277a–10a, 2277a–10b, 2279bb–7, and 2279cc of this title, amending sections 2013, 2018, 2020, 2129, 2154a, 2199, 2202a, 2252, 2254, 2277a, 2277a–2, 2277a–4, 2277a–5, 2277a–7, 2277a–8, 2277a–10, 2279aa, 2279aa–1, 2279aa–3, 2279aa–5, 2279aa–6, 2279aa–8, 2279aa–9, 2279aa–11 to 2279aa–13, 2279bb–1 to 2279bb–4 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, and section 1999 of Title 7, Agriculture, repealing section 2279aa–7 of this title, and enacting provisions set out as notes under this section and sections 2013 and 2252 of this title] may be cited as the ‘Farm Credit System Reform Act of 1996’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–376, § 1, Oct. 19, 1994, 108 Stat. 3497, provided that: “This Act [enacting section 2206a of this title and amending sections 2122, 2128, and 2129 of this title] may be cited as the ‘Farm Credit System Agricultural Export and Risk Management Act’.”
+Pub. L. 103–376, § 1, Oct. 19, 1994, 108 Stat. 3497, provided that: “This Act [enacting section 2206a of this title and amending sections 2122, 2128, and 2129 of this title] may be cited as the ‘Farm Credit System Agricultural Export and Risk Management Act’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–552, § 1(a), Oct. 28, 1992, 106 Stat. 4102, provided that: “This Act [see Tables for classification] may be cited as the ‘Farm Credit Banks and Associations Safety and Soundness Act of 1992’.”
+Pub. L. 102–552, § 1(a), Oct. 28, 1992, 106 Stat. 4102, provided that: “This Act [see Tables for classification] may be cited as the ‘Farm Credit Banks and Associations Safety and Soundness Act of 1992’.”
 
 **Short Title of 1988 Amendments**
 
-Pub. L. 100–399, § 1, Aug. 17, 1988, 102 Stat. 989, provided that: “This Act [see Tables for classification] may be cited as the ‘Agricultural Credit Technical Corrections Act of 1988’.”
+Pub. L. 100–399, § 1, Aug. 17, 1988, 102 Stat. 989, provided that: “This Act [see Tables for classification] may be cited as the ‘Agricultural Credit Technical Corrections Act of 1988’.”
 
-Pub. L. 100–233, § 1(a), Jan. 6, 1988, 101 Stat. 1568, provided that: “This Act [see Tables for classification] may be cited as the ‘Agricultural Credit Act of 1987’.”
+Pub. L. 100–233, § 1(a), Jan. 6, 1988, 101 Stat. 1568, provided that: “This Act [see Tables for classification] may be cited as the ‘Agricultural Credit Act of 1987’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–509, title I, § 1031, Oct. 21, 1986, 100 Stat. 1877, provided that: “This subtitle [subtitle D (§§ 1031–1037) of title I of Pub. L. 99–509, amending sections 2001, 2015, 2075, 2131, 2159, 2205, 2252, and 2254 of this title] may be cited as the ‘Farm Credit Act Amendments of 1986’.”
+Pub. L. 99–509, title I, § 1031, Oct. 21, 1986, 100 Stat. 1877, provided that: “This subtitle [subtitle D (§§ 1031–1037) of title I of Pub. L. 99–509, amending sections 2001, 2015, 2075, 2131, 2159, 2205, 2252, and 2254 of this title] may be cited as the ‘Farm Credit Act Amendments of 1986’.”
 
 **Short Title of 1985 Amendment**
 
-Pub. L. 99–205, § 1, Dec. 23, 1985, 99 Stat. 1678, provided: “That this Act [enacting sections 2152, 2161, 2199, 2200, 2216 to 2216k, 2219, 2219a, 2253, 2261 to 2273 of this title and provisions set out as notes under this section and section 2241 of this title, amending sections 2002, 2012, 2013, 2031, 2033, 2034, 2051, 2052, 2054, 2072 to 2074, 2077, 2078, 2091, 2093 to 2096, 2098, 2122 to 2126, 2132 to 2134, 2151, 2153 to 2156, 2182, 2183, 2201, 2202, 2205, 2206, 2211 to 2213, 2221 to 2223, 2227, 2241 to 2246, 2248 to 2252, and 2254 of this title, and repealing sections 2152, 2247, and 2253 of this title] may be cited as the ‘Farm Credit Amendments Act of 1985’.”
+Pub. L. 99–205, § 1, Dec. 23, 1985, 99 Stat. 1678, provided: “That this Act [enacting sections 2152, 2161, 2199, 2200, 2216 to 2216k, 2219, 2219a, 2253, 2261 to 2273 of this title and provisions set out as notes under this section and section 2241 of this title, amending sections 2002, 2012, 2013, 2031, 2033, 2034, 2051, 2052, 2054, 2072 to 2074, 2077, 2078, 2091, 2093 to 2096, 2098, 2122 to 2126, 2132 to 2134, 2151, 2153 to 2156, 2182, 2183, 2201, 2202, 2205, 2206, 2211 to 2213, 2221 to 2223, 2227, 2241 to 2246, 2248 to 2252, and 2254 of this title, and repealing sections 2152, 2247, and 2253 of this title] may be cited as the ‘Farm Credit Amendments Act of 1985’.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–592, § 1, Dec. 24, 1980, 94 Stat. 3437, provided: “That this Act [enacting sections 2205 to 2208, 2211 to 2214, 2218, and 2260 of this title and amending sections 1141b, 2012 to 2020, 2033, 2034, 2051 to 2054, 2072 to 2077, 2091, 2093, 2094, 2096, 2097, 2122, 2124, 2126, 2128 to 2132, 2156, 2181, 2221, 2223, 2242, 2244, 2249, 2251, and 2252 of this title and section 3802 of Title 7, Agriculture] may be cited as the ‘Farm Credit Act Amendments of 1980’.”
+Pub. L. 96–592, § 1, Dec. 24, 1980, 94 Stat. 3437, provided: “That this Act [enacting sections 2205 to 2208, 2211 to 2214, 2218, and 2260 of this title and amending sections 1141b, 2012 to 2020, 2033, 2034, 2051 to 2054, 2072 to 2077, 2091, 2093, 2094, 2096, 2097, 2122, 2124, 2126, 2128 to 2132, 2156, 2181, 2221, 2223, 2242, 2244, 2249, 2251, and 2252 of this title and section 3802 of Title 7, Agriculture] may be cited as the ‘Farm Credit Act Amendments of 1980’.”
 
 **Short Title**
 
-Pub. L. 92–181, § 1, Dec. 10, 1971, 85 Stat. 583, provided: “That this Act [enacting this chapter and provisions set out as notes under this section, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, and section 393 of this title, and repealing section 636 et seq. of this title] may be cited as the ‘Farm Credit Act of 1971’.”
+Pub. L. 92–181, § 1, Dec. 10, 1971, 85 Stat. 583, provided: “That this Act [enacting this chapter and provisions set out as notes under this section, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, and section 393 of this title, and repealing section 636 et seq. of this title] may be cited as the ‘Farm Credit Act of 1971’.”
 
 **Regulations**
 
-Pub. L. 104–105, title III, § 301, Feb. 10, 1996, 110 Stat. 185, provided that: “The Secretary of Agriculture and the Farm Credit Administration shall promulgate regulations and take other required actions to implement the provisions of this Act [see Short Title of 1996 Amendment note above] not later than 90 days after the effective date of this Act [Feb. 10, 1996].”
+Pub. L. 104–105, title III, § 301, Feb. 10, 1996, 110 Stat. 185, provided that: “The Secretary of Agriculture and the Farm Credit Administration shall promulgate regulations and take other required actions to implement the provisions of this Act [see Short Title of 1996 Amendment note above] not later than 90 days after the effective date of this Act [Feb. 10, 1996].”
 
-Pub. L. 100–233, title IX, § 901, Jan. 6, 1988, 101 Stat. 1717, as amended by Pub. L. 100–399, title VIII, § 801, Aug. 17, 1988, 102 Stat. 1006, provided that:
+Pub. L. 100–233, title IX, § 901, Jan. 6, 1988, 101 Stat. 1717, as amended by Pub. L. 100–399, title VIII, § 801, Aug. 17, 1988, 102 Stat. 1006, provided that:
 
 > **“(a) Issuance of Regulations.—**
 
@@ -107,27 +107,27 @@ Pub. L. 100–233, title IX, § 901, Jan. 6, 1988, 101 Stat. 1717, as amended 
 
 Pub. L. 92–181, which enacted this chapter, represents a complete rewriting of the farm credit laws and a fundamental reworking of the statutory basis for the farm credit system. In connection with such reworking of material, the existing statutory provisions covering this area were repealed and their substance revised, reenacted, and expanded by Pub. L. 92–181.
 
-The repealed provisions constituted the bulk of chapter 7 of this title. Pub. L. 92–181, § 5.40(a), formerly § 5.26(a), Dec. 10, 1971, 85 Stat. 624, renumbered § 5.40(a), by Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703, enumerated the repealed statutes as follows: The Federal Farm Loan Act, as amended; section 2 of the Act of March 10, 1924 (Public Numbered 35, Sixty-eighth Congress, 43 Stat. 17), as amended; section 6 of the Act of January 23, 1932 (Public Numbered 3, Seventy-second Congress, 47 Stat. 14), as amended; the Farm Credit Act of 1933, as amended; sections 29 and 40 of the Emergency Farm Mortgage Act of 1933; Act of June 18, 1934 (Public Numbered 381, Seventy-third Congress, 48 Stat. 983); Act of June 4, 1936 (Public Numbered 644, Seventy-fourth Congress, 49 Stat. 1461), as amended; sections 5, 6, 20, 25(b) and 39 of the Farm Credit Act of 1937, as amended; sections 601 and 602 of the Act of September 21, 1944 (Public Law 425, Seventy-eighth Congress, 58 Stat. 740, 741), as amended; sections 1, 2, 3, 4, 5, 6, 7, 8, 16, and 17(b) of the Farm Credit Act of 1953, as amended; sections 2, 101, and 201(b) of the Farm Credit Act of 1956.
+The repealed provisions constituted the bulk of chapter 7 of this title. Pub. L. 92–181, § 5.40(a), formerly § 5.26(a), Dec. 10, 1971, 85 Stat. 624, renumbered § 5.40(a), by Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703, enumerated the repealed statutes as follows: The Federal Farm Loan Act, as amended; section 2 of the Act of March 10, 1924 (Public Numbered 35, Sixty-eighth Congress, 43 Stat. 17), as amended; section 6 of the Act of January 23, 1932 (Public Numbered 3, Seventy-second Congress, 47 Stat. 14), as amended; the Farm Credit Act of 1933, as amended; sections 29 and 40 of the Emergency Farm Mortgage Act of 1933; Act of June 18, 1934 (Public Numbered 381, Seventy-third Congress, 48 Stat. 983); Act of June 4, 1936 (Public Numbered 644, Seventy-fourth Congress, 49 Stat. 1461), as amended; sections 5, 6, 20, 25(b) and 39 of the Farm Credit Act of 1937, as amended; sections 601 and 602 of the Act of September 21, 1944 (Public Law 425, Seventy-eighth Congress, 58 Stat. 740, 741), as amended; sections 1, 2, 3, 4, 5, 6, 7, 8, 16, and 17(b) of the Farm Credit Act of 1953, as amended; sections 2, 101, and 201(b) of the Farm Credit Act of 1956.
 
 **Savings Provision**
 
-Pub. L. 92–181, § 5.40(b), formerly § 5.26(b), Dec. 10, 1971, 85 Stat. 625, renumbered § 5.40(b), Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703, provided that: “All regulations of the Farm Credit Administration or the institutions of the System and all charters, bylaws, resolutions, stock classifications, and policy directives issued or approved by the Farm Credit Administration, and all elections held and appointments made under the Acts repealed by subsection (a) of this section [see Repeals note above] shall be continuing and remain valid until superseded, modified, or replaced under the authority of this Act [this chapter]. All stock, notes, bonds, debentures, and other obligations issued under the repealed acts shall be valid and enforceable upon the terms and conditions under which they were issued, including the pledge of collateral against which they were issued, and all loans made and security or collateral therefor held by, and all contracts entered into by, institutions of the System shall remain enforceable according to their terms unless and until modified in accordance with the provisions of this Act; it being the purpose of this subsection to avoid disruption in the effective operation of the System by reason of said repeals.”
+Pub. L. 92–181, § 5.40(b), formerly § 5.26(b), Dec. 10, 1971, 85 Stat. 625, renumbered § 5.40(b), Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703, provided that: “All regulations of the Farm Credit Administration or the institutions of the System and all charters, bylaws, resolutions, stock classifications, and policy directives issued or approved by the Farm Credit Administration, and all elections held and appointments made under the Acts repealed by subsection (a) of this section [see Repeals note above] shall be continuing and remain valid until superseded, modified, or replaced under the authority of this Act [this chapter]. All stock, notes, bonds, debentures, and other obligations issued under the repealed acts shall be valid and enforceable upon the terms and conditions under which they were issued, including the pledge of collateral against which they were issued, and all loans made and security or collateral therefor held by, and all contracts entered into by, institutions of the System shall remain enforceable according to their terms unless and until modified in accordance with the provisions of this Act; it being the purpose of this subsection to avoid disruption in the effective operation of the System by reason of said repeals.”
 
 **Separability**
 
-Pub. 92–181, § 5.42, formerly § 5.28, Dec. 10, 1971, 85 Stat. 625, renumbered § 5.42, Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703, provided that: “If any provision of this Act [this chapter], or the application thereof to any persons or in any circumstances, is held invalid, the remainder of this Act and the application of such provision to other persons or in other circumstances shall not be affected thereby.”
+Pub. 92–181, § 5.42, formerly § 5.28, Dec. 10, 1971, 85 Stat. 625, renumbered § 5.42, Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703, provided that: “If any provision of this Act [this chapter], or the application thereof to any persons or in any circumstances, is held invalid, the remainder of this Act and the application of such provision to other persons or in other circumstances shall not be affected thereby.”
 
 **References to Earlier Farm Credit Acts**
 
-Pub. L. 92–181, § 5.40(a), formerly § 5.26(a), Dec. 10, 1971, 85 Stat. 624, renumbered § 5.40(a), Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703, provided in part that: “All references in other legislation, State or Federal, rules and regulations of any agency, stock, contracts, deeds, security instruments, bonds, debentures, notes, mortgages and other documents of the institutions of the System, to the Acts repealed hereby [see Repeals note above], shall be deemed to refer to comparable provisions of this Act [this chapter].”
+Pub. L. 92–181, § 5.40(a), formerly § 5.26(a), Dec. 10, 1971, 85 Stat. 624, renumbered § 5.40(a), Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703, provided in part that: “All references in other legislation, State or Federal, rules and regulations of any agency, stock, contracts, deeds, security instruments, bonds, debentures, notes, mortgages and other documents of the institutions of the System, to the Acts repealed hereby [see Repeals note above], shall be deemed to refer to comparable provisions of this Act [this chapter].”
 
 **Reservation of Right To Amend or Repeal**
 
-Pub. 92–181, § 5.43, formerly § 5.29, Dec. 10, 1971, 85 Stat. 625, renumbered § 5.43, Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703, provided that: “The right to alter, amend, or repeal any provision or all of this Act [this chapter] is expressly reserved.”
+Pub. 92–181, § 5.43, formerly § 5.29, Dec. 10, 1971, 85 Stat. 625, renumbered § 5.43, Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703, provided that: “The right to alter, amend, or repeal any provision or all of this Act [this chapter] is expressly reserved.”
 
 **Study on Demand for and Availability of Credit in Rural Areas for Agriculture, Housing, and Rural Development**
 
-Pub. L. 104–127, title VI, § 650, Apr. 4, 1996, 110 Stat. 1105, provided that:
+Pub. L. 104–127, title VI, § 650, Apr. 4, 1996, 110 Stat. 1105, provided that:
 
 > **“(a) In General.—** The Secretary of Agriculture shall conduct a study and report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the demand for and availability of credit in rural areas for agriculture, housing, and rural development.
 
@@ -167,21 +167,21 @@ Pub. L. 104–127, title VI, § 650, Apr. 4, 1996, 110 Stat. 1105, provided th
 
 **GAO Study of Rural Credit Cost and Availability**
 
-Pub. L. 101–624, title XVIII, § 1842, Nov. 28, 1990, 104 Stat. 3835, directed Comptroller General of the United States to conduct a study relating to cost and availability of credit in rural America and, not later than 2 years after Nov. 28, 1990, submit a report to Committee on Agriculture of House of Representatives and Committee on Agriculture, Nutrition, and Forestry of Senate.
+Pub. L. 101–624, title XVIII, § 1842, Nov. 28, 1990, 104 Stat. 3835, directed Comptroller General of the United States to conduct a study relating to cost and availability of credit in rural America and, not later than 2 years after Nov. 28, 1990, submit a report to Committee on Agriculture of House of Representatives and Committee on Agriculture, Nutrition, and Forestry of Senate.
 
 **Authorization of Appropriations for National Commission on Agricultural Finance and National Commission on Agriculture and Rural Development Policy**
 
-Pub. L. 100–71, title V, § 519(b), July 11, 1987, 101 Stat. 475, authorized and appropriated (1) for National Commission on Agricultural Finance established under section 501 of Pub. L. 99–205, $100,000, to remain available until expended, and (2) for National Commission on Agriculture and Rural Development [Policy] established under section 5002 of this title, $100,000, to remain available until expended.
+Pub. L. 100–71, title V, § 519(b), July 11, 1987, 101 Stat. 475, authorized and appropriated (1) for National Commission on Agricultural Finance established under section 501 of Pub. L. 99–205, $100,000, to remain available until expended, and (2) for National Commission on Agriculture and Rural Development [Policy] established under section 5002 of this title, $100,000, to remain available until expended.
 
 **Loan Review by Local Lending Institutions**
 
-Pub. L. 99–205, title III, § 307, Dec. 23, 1985, 99 Stat. 1709, required each local lending institution of Farm Credit System established under this chapter to (1) review each loan that had been placed in non-accrual status by such institution to determine whether such loan could be restructured based on changes in circumstances of such institution as the result of this Act and the amendments made by this Act, and (2) notify in writing borrower of each such loan of provisions of this section.
+Pub. L. 99–205, title III, § 307, Dec. 23, 1985, 99 Stat. 1709, required each local lending institution of Farm Credit System established under this chapter to (1) review each loan that had been placed in non-accrual status by such institution to determine whether such loan could be restructured based on changes in circumstances of such institution as the result of this Act and the amendments made by this Act, and (2) notify in writing borrower of each such loan of provisions of this section.
 
 **National Commission on Agricultural Finance**
 
-Pub. L. 99–205, title V, § 501, Dec. 23, 1985, 99 Stat. 1710, directed President to appoint a National Commission on Agricultural Finance, comprised of 15 members, representing the financial community, the agricultural sector, and government, to conduct a study of methods to ensure availability of adequate credit to agricultural producers and agribusiness, taking into account long-term financing needs of agricultural economy, roles of commercial banks, Farm Credit System, and Farmers Home Administration in meeting those financial needs, with the Commission, in conducting such study, to (1) evaluate financial circumstances relative to both lenders and borrowers of farm credit, (2) evaluate structure, performance, and conduct of private lenders—commercial bankers and Farm Credit System—and public lenders, (3) explore need for long-term assistance in stabilizing value of agricultural assets, and (4) evaluate effect on suppliers, producers, processors, and local communities when financial institutions fail, and not later than Dec. 23, 1986, to submit to Congress a report containing results of study, together with comments and recommendations for legislation providing for a sound, reasonable, and primarily self-supporting credit program for farmers and ranchers as Commission considers appropriate.
+Pub. L. 99–205, title V, § 501, Dec. 23, 1985, 99 Stat. 1710, directed President to appoint a National Commission on Agricultural Finance, comprised of 15 members, representing the financial community, the agricultural sector, and government, to conduct a study of methods to ensure availability of adequate credit to agricultural producers and agribusiness, taking into account long-term financing needs of agricultural economy, roles of commercial banks, Farm Credit System, and Farmers Home Administration in meeting those financial needs, with the Commission, in conducting such study, to (1) evaluate financial circumstances relative to both lenders and borrowers of farm credit, (2) evaluate structure, performance, and conduct of private lenders—commercial bankers and Farm Credit System—and public lenders, (3) explore need for long-term assistance in stabilizing value of agricultural assets, and (4) evaluate effect on suppliers, producers, processors, and local communities when financial institutions fail, and not later than Dec. 23, 1986, to submit to Congress a report containing results of study, together with comments and recommendations for legislation providing for a sound, reasonable, and primarily self-supporting credit program for farmers and ranchers as Commission considers appropriate.
 
-## § 2002. Farm Credit System
+## § 2002. Farm Credit System
 
 **(a) Composition**
 
@@ -191,31 +191,31 @@ The Farm Credit System shall include the Farm Credit Banks, the bank for coopera
 
 There shall be not more than twelve farm credit districts in the United States, which may be designated by number, one of which districts shall include the Commonwealth of Puerto Rico and one of which districts may, if authorized by the Farm Credit Administration, include the Virgin Islands of the United States: *Provided*, That the extension of credit and other services authorized by this chapter in the Virgin Islands of the United States shall be undertaken only if determined to be feasible under regulations of the Farm Credit Administration. The boundaries of the twelve farm credit districts existing on December 10, 1971, may be readjusted from time to time by the Farm Credit Administration, with the concurrence of the boards of the banks in each district involved. Two or more districts may be merged as provided in section 2252(a)(2) of this title.
 
-(Pub. L. 92–181, § 1.2, formerly §§ 1.2, 5.0, Dec. 10, 1971, 85 Stat. 583, 614; Pub. L. 96–592, title V, § 501, Dec. 24, 1980, 94 Stat. 3448; Pub. L. 99–205, title II, § 205(c), (g)(1), Dec. 23, 1985, 99 Stat. 1703, 1706; Pub. L. 100–233, title IV, § 434, title VIII, § 805(a), (v), Jan. 6, 1988, 101 Stat. 1662, 1715, 1716; Pub. L. 100–399, title IX, § 901(q)–(s), Aug. 17, 1988, 102 Stat. 1008; Pub. L. 115–334, title V, § 5411(2), Dec. 20, 2018, 132 Stat. 4679.)
+(Pub. L. 92–181, § 1.2, formerly §§ 1.2, 5.0, Dec. 10, 1971, 85 Stat. 583, 614; Pub. L. 96–592, title V, § 501, Dec. 24, 1980, 94 Stat. 3448; Pub. L. 99–205, title II, § 205(c), (g)(1), Dec. 23, 1985, 99 Stat. 1703, 1706; Pub. L. 100–233, title IV, § 434, title VIII, § 805(a), (v), Jan. 6, 1988, 101 Stat. 1662, 1715, 1716; Pub. L. 100–399, title IX, § 901(q)–(s), Aug. 17, 1988, 102 Stat. 1008; Pub. L. 115–334, title V, § 5411(2), Dec. 20, 2018, 132 Stat. 4679.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 100–399, § 901(r), transferred section 5.0 of Pub. L. 92–181, which was classified to section 2221 of this title, to subsec. (b) of this section.
+Pub. L. 100–399, § 901(r), transferred section 5.0 of Pub. L. 92–181, which was classified to section 2221 of this title, to subsec. (b) of this section.
 
 **Amendments**
 
 2018—Subsec. (a). Pub. L. 115–334 added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Farm Credit System shall include the the Farm Credit Banks, the Federal land bank associations, the production credit associations, the banks for cooperatives, and such other institutions as may be made a part of the System, all of which shall be chartered by and subject to regulation by the Farm Credit Administration.”
 
-1988—Subsec. (a). Pub. L. 100–399, § 901(s), designated existing provisions as subsec. (a), inserted heading, and substituted “regulation” for “the regulation”.
+1988—Subsec. (a). Pub. L. 100–399, § 901(s), designated existing provisions as subsec. (a), inserted heading, and substituted “regulation” for “the regulation”.
 
-Pub. L. 100–233, § 434, amended provisions generally. Prior to amendment, provisions read as follows: “The Farm Credit System shall include the Federal land banks, the Federal land bank associations, the Federal intermediate credit banks, the production credit associations, the banks for cooperatives, and such other institutions as may be made a part of the System, all of which shall be chartered by and subject to regulation by the Farm Credit Administration.”
+Pub. L. 100–233, § 434, amended provisions generally. Prior to amendment, provisions read as follows: “The Farm Credit System shall include the Federal land banks, the Federal land bank associations, the Federal intermediate credit banks, the production credit associations, the banks for cooperatives, and such other institutions as may be made a part of the System, all of which shall be chartered by and subject to regulation by the Farm Credit Administration.”
 
-Pub. L. 100–233, § 805(a), substituted “subject to regulation” for “subject to the regulation”.
+Pub. L. 100–233, § 805(a), substituted “subject to regulation” for “subject to the regulation”.
 
-Subsec. (b). Pub. L. 100–399, § 901(q), (r), designated section 2221 of this title as subsec. (b), inserted heading, and substituted “boards of the banks in each district” for “district boards”.
+Subsec. (b). Pub. L. 100–399, § 901(q), (r), designated section 2221 of this title as subsec. (b), inserted heading, and substituted “boards of the banks in each district” for “district boards”.
 
-Pub. L. 100–233, § 805(v), substituted “section 2252(a)(2) of this title” for “section 2252(2) of this title”.
+Pub. L. 100–233, § 805(v), substituted “section 2252(a)(2) of this title” for “section 2252(2) of this title”.
 
-1985—Subsec. (a). Pub. L. 99–205, § 205(c), substituted “regulation by” for “supervision of”.
+1985—Subsec. (a). Pub. L. 99–205, § 205(c), substituted “regulation by” for “supervision of”.
 
-Subsec. (b). Pub. L. 99–205, § 205(g)(1), substituted “Farm Credit Administration” for “Federal Farm Credit Board” in first and second sentences, and made a technical amendment to reference to section 2252(2) of this title to reflect the renumbering of the corresponding section of the original act.
+Subsec. (b). Pub. L. 99–205, § 205(g)(1), substituted “Farm Credit Administration” for “Federal Farm Credit Board” in first and second sentences, and made a technical amendment to reference to section 2252(2) of this title to reflect the renumbering of the corresponding section of the original act.
 
 1980—Subsec. (b). Pub. L. 96–592 inserted provisions relating to Virgin Islands of the United States.
 
@@ -223,13 +223,13 @@ Subsec. (b). Pub. L. 99–205, § 205(g)(1), substituted “Farm Credit Admini
 
 **Effective Date of 1988 Amendments**
 
-Pub. L. 100–399, title X, § 1001, Aug. 17, 1988, 102 Stat. 1008, provided that:
+Pub. L. 100–399, title X, § 1001, Aug. 17, 1988, 102 Stat. 1008, provided that:
 
 > **“(a) General Rule.—** Except as provided in subsection (b), the amendments made by this Act [see Tables for classification] shall take effect as if enacted immediately after the enactment of the 1987 Act [Pub. L. 100–233, which was enacted Jan. 6, 1988].
 
 > **“(b) Exceptions.—** The amendments made by sections 102(b), 102(f), 102(g), 102(h), 201(q), 302(c), 302(d), 302(e), 401, 402(b), 409(d), 411, 414, and 901 (other than by subsections (a), (b), (c), (e), (f), and (g) thereof) of this Act [see Tables for classification] shall take effect immediately after the amendment made by section 401 of the 1987 Act takes effect [section 401 of Pub. L. 100–233, effective 6 months after Jan. 6, 1988].”
 
-Pub. L. 100–233, title IV, § 434, Jan. 6, 1988, 101 Stat. 1662, provided in part that the amendment of this section by section 434 of Pub. L. 100–233 is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 434, Jan. 6, 1988, 101 Stat. 1662, provided in part that the amendment of this section by section 434 of Pub. L. 100–233 is effective 6 months after Jan. 6, 1988.
 
 **Effective Date of 1985 Amendment**
 
@@ -237,7 +237,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 **Consolidation of District Farm Credit Banks**
 
-Pub. L. 100–233, title IV, § 412, Jan. 6, 1988, 101 Stat. 1638, as amended by Pub. L. 100–399, title IV, § 404, Aug. 17, 1988, 102 Stat. 999, provided that:
+Pub. L. 100–233, title IV, § 412, Jan. 6, 1988, 101 Stat. 1638, as amended by Pub. L. 100–399, title IV, § 404, Aug. 17, 1988, 102 Stat. 999, provided that:
 
 > **“(a) Submission of Proposal.—**
 
@@ -267,9 +267,9 @@ Pub. L. 100–233, title IV, § 412, Jan. 6, 1988, 101 Stat. 1638, as amended 
 
 [For termination, effective May 15, 2000, of reporting provisions in section 412(a)(3) of Pub. L. 100–233, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 166 of House Document No. 103–7.]
 
-**Applicability of Laws Enacted After January 1, 1960**
+**Applicability of Laws Enacted After January 1, 1960**
 
-Pub. L. 86–168, title II, § 203(b), Aug. 18, 1959, 73 Stat. 390, provided that: “Any Act of Congress enacted after the effective date of this title [Jan. 1, 1960] and which states that it shall be applicable to agencies or instrumentalities of the United States or to corporations controlled or owned, in whole or in part, by the United States, or to officers and employees of the United States or such agencies or instrumentalities or corporations, shall not be applicable to a Federal land bank, Federal intermediate credit bank, or bank for cooperatives, or to its directors, officers, or employees unless such Act specifically so provides by naming such banks.”
+Pub. L. 86–168, title II, § 203(b), Aug. 18, 1959, 73 Stat. 390, provided that: “Any Act of Congress enacted after the effective date of this title [Jan. 1, 1960] and which states that it shall be applicable to agencies or instrumentalities of the United States or to corporations controlled or owned, in whole or in part, by the United States, or to officers and employees of the United States or such agencies or instrumentalities or corporations, shall not be applicable to a Federal land bank, Federal intermediate credit bank, or bank for cooperatives, or to its directors, officers, or employees unless such Act specifically so provides by naming such banks.”
 
 ## SUBCHAPTER I—FARM CREDIT BANKS
 
@@ -277,9 +277,9 @@ Pub. L. 86–168, title II, § 203(b), Aug. 18, 1959, 73 Stat. 390, provided t
 
 **Codification**
 
-Title I of the Farm Credit Act of 1971, comprising this subchapter, was originally enacted by Pub. L. 92–181, title I, Dec. 10, 1971, 85 Stat. 583, and amended by Pub. L. 96–592, Dec. 24, 1980, 94 Stat. 3437; Pub. L. 99–205, Dec. 23, 1985, 99 Stat. 1678; Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1874; Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568. Such title is shown herein, however, as having been added by Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, without reference to such intervening amendments because of the extensive revision of the title’s provisions by Pub. L. 100–233.
+Title I of the Farm Credit Act of 1971, comprising this subchapter, was originally enacted by Pub. L. 92–181, title I, Dec. 10, 1971, 85 Stat. 583, and amended by Pub. L. 96–592, Dec. 24, 1980, 94 Stat. 3437; Pub. L. 99–205, Dec. 23, 1985, 99 Stat. 1678; Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1874; Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568. Such title is shown herein, however, as having been added by Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, without reference to such intervening amendments because of the extensive revision of the title’s provisions by Pub. L. 100–233.
 
-### § 2011. Establishment, charters, titles, branches
+### § 2011. Establishment, charters, titles, branches
 
 **(a) Establishment**
 
@@ -297,7 +297,7 @@ Each Farm Credit Bank may include in its title the name of the city in which it 
 
 Each Farm Credit Bank may establish such branches or other offices as may be appropriate for the effective operation of its business.
 
-(Pub. L. 92–181, title I, § 1.3, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622; amended Pub. L. 100–399, title IV, § 401(a), (b), Aug. 17, 1988, 102 Stat. 995.)
+(Pub. L. 92–181, title I, § 1.3, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622; amended Pub. L. 100–399, title IV, § 401(a), (b), Aug. 17, 1988, 102 Stat. 995.)
 
 **Editorial Notes**
 
@@ -307,13 +307,13 @@ Section 410 of the Agricultural Credit Act of 1987, referred to in subsec. (a), 
 
 **Prior Provisions**
 
-A prior section 2011, Pub. L. 92–181, title I, § 1.3, Dec. 10, 1971, 85 Stat. 583; Pub. L. 100–233, title VIII, § 802(a), Jan. 6, 1988, 101 Stat. 1710, related to establishment, title, and branches of Federal land banks prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2011, Pub. L. 92–181, title I, § 1.3, Dec. 10, 1971, 85 Stat. 583; Pub. L. 100–233, title VIII, § 802(a), Jan. 6, 1988, 101 Stat. 1710, related to establishment, title, and branches of Federal land banks prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–399, § 401(a), inserted “, as provided in section 410 of the Agricultural Credit Act of 1987,” before “shall”.
+1988—Subsec. (a). Pub. L. 100–399, § 401(a), inserted “, as provided in section 410 of the Agricultural Credit Act of 1987,” before “shall”.
 
-Subsec. (b). Pub. L. 100–399, § 401(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The charters or organization certificates of Farm Credit Banks may be modified from time to time by the Farm Credit Administration Board, not inconsistent with the provisions of this subchapter, as may be necessary or expedient to implement this chapter.”
+Subsec. (b). Pub. L. 100–399, § 401(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The charters or organization certificates of Farm Credit Banks may be modified from time to time by the Farm Credit Administration Board, not inconsistent with the provisions of this subchapter, as may be necessary or expedient to implement this chapter.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -323,11 +323,11 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 **Long-Term Lending Authority of Farm Credit Bank of Texas With Respect to States of Alabama, Louisiana, and Mississippi**
 
-Pub. L. 102–552, title IV, § 401(b), Oct. 28, 1992, 106 Stat. 4128, as amended by Pub. L. 110–234, title V, § 5407(c)(3), May 22, 2008, 122 Stat. 1160; Pub. L. 110–246, § 4(a), title V, § 5407(c)(3), June 18, 2008, 122 Stat. 1664, 1922, provided that:
+Pub. L. 102–552, title IV, § 401(b), Oct. 28, 1992, 106 Stat. 4128, as amended by Pub. L. 110–234, title V, § 5407(c)(3), May 22, 2008, 122 Stat. 1160; Pub. L. 110–246, § 4(a), title V, § 5407(c)(3), June 18, 2008, 122 Stat. 1664, 1922, provided that:
 
 > **“(1) In general.—** Notwithstanding any other provision of law (except section 7.7 of the Farm Credit Act of 1971 [12 U.S.C. 2279c]), the Farm Credit Bank of Texas may act in accordance with the exclusive charter of the bank, as amended by the Farm Credit Administration on February 7, 1989, and effective February 9, 1989 (except to the extent that the charter may be further amended by the Farm Credit Administration in accordance with its general authorities under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.).
 
@@ -335,7 +335,7 @@ Pub. L. 102–552, title IV, § 401(b), Oct. 28, 1992, 106 Stat. 4128, as amen
 
 **Mandatory Merger of System Institutions**
 
-Pub. L. 100–233, title IV, § 410, Jan. 6, 1988, 101 Stat. 1637, as amended by Pub. L. 100–399, title IV, § 402, Aug. 17, 1988, 102 Stat. 999; Pub. L. 102–552, title IV, § 401(a), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 110–234, title V, § 5407(c)(2), May 22, 2008, 122 Stat. 1160; Pub. L. 110–246, § 4(a), title V, § 5407(c)(2), June 18, 2008, 122 Stat. 1664, 1922, provided that:
+Pub. L. 100–233, title IV, § 410, Jan. 6, 1988, 101 Stat. 1637, as amended by Pub. L. 100–399, title IV, § 402, Aug. 17, 1988, 102 Stat. 999; Pub. L. 102–552, title IV, § 401(a), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 110–234, title V, § 5407(c)(2), May 22, 2008, 122 Stat. 1160; Pub. L. 110–246, § 4(a), title V, § 5407(c)(2), June 18, 2008, 122 Stat. 1664, 1922, provided that:
 
 > **“(a) In General.—** Not later than 6 months after the date of the enactment of this section [Jan. 6, 1988], the Federal land bank and the Federal intermediate credit bank of each Farm Credit System district shall merge into a Farm Credit Bank in such district pursuant to a plan of merger agreed on by the Boards of Directors of such banks and approved by the Farm Credit Administration, or if such banks fail to agree, a plan of merger prescribed by the Farm Credit Administration. The mergers required by this section shall be implemented without regard to title VII [enacting sections 2279aa to 2279aa–14 of this title, amending sections 2012, 2033, 2072, and 2093 of this title, section 1988 of Title 7, Agriculture, and section 9105 of Title 31, Money and Finance, and enacting provisions set out as notes under section 2279aa of this title and section 1988 of Title 7].
 
@@ -537,17 +537,17 @@ Pub. L. 100–233, title IV, § 410, Jan. 6, 1988, 101 Stat. 1637, as amended 
 
 > **“(iii) Expedited review.—** Any such proceeding before the court shall be assigned for hearing and completed at the earliest possible date, and shall be expedited in every way. The court shall render its final decision relative to any challenge as soon as possible in accordance with the United States Arbitration Act (9 U.S.C. 1 et seq.), or not later than 30 days from the date the challenge is brought, whichever is sooner, unless the court determines that a longer period of time is required to satisfy the requirements of the Constitution.”
 
-### § 2012. Board of directors
+### § 2012. Board of directors
 
 Each Farm Credit Bank shall elect a board of directors of such number, for such term, in such manner, and with such qualifications, as may be required in its bylaws, except that, at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.
 
-(Pub. L. 92–181, title I, § 1.4, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622; amended Pub. L. 100–399, title IV, § 401(c), Aug. 17, 1988, 102 Stat. 995.)
+(Pub. L. 92–181, title I, § 1.4, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622; amended Pub. L. 100–399, title IV, § 401(c), Aug. 17, 1988, 102 Stat. 995.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2012, Pub. L. 92–181, title I, § 1.4, Dec. 10, 1971, 85 Stat. 584; Pub. L. 96–592, title I, § 101, Dec. 24, 1980, 94 Stat. 3437; Pub. L. 99–205, title II, § 205(d)(1), Dec. 23, 1985, 99 Stat. 1703; Pub. L. 100–233, title VII, § 705(a), title VIII, § 802(b), Jan. 6, 1988, 101 Stat. 1706, 1710; Pub. L. 100–399, title VI, § 604, Aug. 17, 1988, 102 Stat. 1006, related to corporate existence and general corporate powers, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2012, Pub. L. 92–181, title I, § 1.4, Dec. 10, 1971, 85 Stat. 584; Pub. L. 96–592, title I, § 101, Dec. 24, 1980, 94 Stat. 3437; Pub. L. 99–205, title II, § 205(d)(1), Dec. 23, 1985, 99 Stat. 1703; Pub. L. 100–233, title VII, § 705(a), title VIII, § 802(b), Jan. 6, 1988, 101 Stat. 1706, 1710; Pub. L. 100–399, title VI, § 604, Aug. 17, 1988, 102 Stat. 1006, related to corporate existence and general corporate powers, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
@@ -561,9 +561,9 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-### § 2013. General corporate powers
+### § 2013. General corporate powers
 
 Each Farm Credit Bank shall be a body corporate and, subject to regulation by the Farm Credit Administration, shall have power to—
 
@@ -643,19 +643,19 @@ except that no Government funds deposited under the provisions of this paragraph
 
 **(24)** operate as an originator and become certified as a certified facility under subchapter VIII.
 
-(Pub. L. 92–181, title I, § 1.5, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1623; amended Pub. L. 100–399, title IV, § 401(d), Aug. 17, 1988, 102 Stat. 995; Pub. L. 104–105, title II, § 201, Feb. 10, 1996, 110 Stat. 172.)
+(Pub. L. 92–181, title I, § 1.5, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1623; amended Pub. L. 100–399, title IV, § 401(d), Aug. 17, 1988, 102 Stat. 995; Pub. L. 104–105, title II, § 201, Feb. 10, 1996, 110 Stat. 172.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2013, Pub. L. 92–181, title I, § 1.5, Dec. 10, 1971, 85 Stat. 585; Pub. L. 96–592, title I, § 102, Dec. 24, 1980, 94 Stat. 3437; Pub. L. 99–205, title II, § 205(d)(2), (3), title VI, § 601, Dec. 23, 1985, 99 Stat. 1703, 1711; Pub. L. 100–233, title VIII, § 802(c), Jan. 6, 1988, 101 Stat. 1710, related to land bank stock, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2013, Pub. L. 92–181, title I, § 1.5, Dec. 10, 1971, 85 Stat. 585; Pub. L. 96–592, title I, § 102, Dec. 24, 1980, 94 Stat. 3437; Pub. L. 99–205, title II, § 205(d)(2), (3), title VI, § 601, Dec. 23, 1985, 99 Stat. 1703, 1711; Pub. L. 100–233, title VIII, § 802(c), Jan. 6, 1988, 101 Stat. 1710, related to land bank stock, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
-1996—Par. (13). Pub. L. 104–105 struck out “, and the appointment and compensation of the chief executive officer thereof,” after “in its district”.
+1996—Par. (13). Pub. L. 104–105 struck out “, and the appointment and compensation of the chief executive officer thereof,” after “in its district”.
 
-1988—Par. (9). Pub. L. 100–399, § 401(d)(1), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “prescribe by its board of directors—
+1988—Par. (9). Pub. L. 100–399, § 401(d)(1), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “prescribe by its board of directors—
 
 “(A) the bylaws of such bank that shall not be inconsistent with law, providing for the classes of the stock of the bank and the manner in which such stock shall be issued, transferred, and retired;
 
@@ -669,25 +669,25 @@ A prior section 2013, Pub. L. 92–181, title I, § 1.5, Dec. 10, 1971, 85 Sta
 
 “(F) the privileges granted to the bank by law exercised and enjoyed;”.
 
-Par. (11). Pub. L. 100–399, § 401(d)(2), substituted “of securities or” for “or securities of”.
+Par. (11). Pub. L. 100–399, § 401(d)(2), substituted “of securities or” for “or securities of”.
 
-Par. (12)(B), (C). Pub. L. 100–399, § 401(d)(3), struck out “participate with” before “one or more” in subpar. (B) and “participate with” before “lenders that” in subpar. (C).
+Par. (12)(B), (C). Pub. L. 100–399, § 401(d)(3), struck out “participate with” before “one or more” in subpar. (B) and “participate with” before “lenders that” in subpar. (C).
 
-Par. (14). Pub. L. 100–399, § 401(d)(4), substituted “(within the meaning of section 1813 of this title)” for “as defined in section 1813 of this title”.
+Par. (14). Pub. L. 100–399, § 401(d)(4), substituted “(within the meaning of section 1813 of this title)” for “as defined in section 1813 of this title”.
 
-Par. (18). Pub. L. 100–399, § 401(d)(5), struck out “Federal land bank” after “delegate to”.
+Par. (18). Pub. L. 100–399, § 401(d)(5), struck out “Federal land bank” after “delegate to”.
 
-Par. (22). Pub. L. 100–399, § 401(d)(6), substituted “in accordance with generally accepted accounting principles, except as may be authorized by the Farm Credit Administration;” for “as authorized by the Farm Credit Administration; and”.
+Par. (22). Pub. L. 100–399, § 401(d)(6), substituted “in accordance with generally accepted accounting principles, except as may be authorized by the Farm Credit Administration;” for “as authorized by the Farm Credit Administration; and”.
 
-Par. (23). Pub. L. 100–399, § 401(d)(7), struck out “and approved by the Farm Credit Administration Board” after “of the bank” and substituted “purpose; and” for “purpose.”
+Par. (23). Pub. L. 100–399, § 401(d)(7), struck out “and approved by the Farm Credit Administration Board” after “of the bank” and substituted “purpose; and” for “purpose.”
 
-Par. (24). Pub. L. 100–399, § 401(d)(8), added par. (24).
+Par. (24). Pub. L. 100–399, § 401(d)(8), added par. (24).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–105, title III, § 302, Feb. 10, 1996, 110 Stat. 185, provided that: “Except as otherwise provided in this Act, this Act [see Short Title of 1996 Amendment note set out under section 2001 of this title] and the amendments made by this Act shall become effective on the date of enactment [Feb. 10, 1996].”
+Pub. L. 104–105, title III, § 302, Feb. 10, 1996, 110 Stat. 185, provided that: “Except as otherwise provided in this Act, this Act [see Short Title of 1996 Amendment note set out under section 2001 of this title] and the amendments made by this Act shall become effective on the date of enactment [Feb. 10, 1996].”
 
 **Effective Date of 1988 Amendment**
 
@@ -695,27 +695,27 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-### § 2014. Farm Credit Bank capitalization
+### § 2014. Farm Credit Bank capitalization
 
 In accordance with section 2154a of this title, the Farm Credit Banks shall provide, through bylaws and subject to Farm Credit Administration regulations, for the capitalization of the bank and the manner in which bank stock shall be issued, held, transferred, and retired and bank earnings distributed.
 
-(Pub. L. 92–181, title I, § 1.6, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1624.)
+(Pub. L. 92–181, title I, § 1.6, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1624.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2014, Pub. L. 92–181, title I, § 1.6, Dec. 10, 1971, 85 Stat. 585; Pub. L. 96–592, title I, § 103, Dec. 24, 1980, 94 Stat. 3438, related to real estate mortgage loans, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2014, Pub. L. 92–181, title I, § 1.6, Dec. 10, 1971, 85 Stat. 585; Pub. L. 96–592, title I, § 103, Dec. 24, 1980, 94 Stat. 3438, related to real estate mortgage loans, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-### § 2015. Lending authority
+### § 2015. Lending authority
 
 **(a) Real estate loans and related assistance**
 
@@ -779,7 +779,7 @@ For purposes of this subsection, a financing institution together with the subsi
 
 Nothing in this section shall require termination of discount relationships in existence on December 24, 1980.
 
-(Pub. L. 92–181, title I, § 1.7, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1625; amended Pub. L. 100–399, title IV, § 401(e), (f), Aug. 17, 1988, 102 Stat. 995, 996.)
+(Pub. L. 92–181, title I, § 1.7, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1625; amended Pub. L. 100–399, title IV, § 401(e), (f), Aug. 17, 1988, 102 Stat. 995, 996.)
 
 **Editorial Notes**
 
@@ -789,17 +789,17 @@ In subsec. (b)(5), “December 24, 1980” substituted for “the effective date
 
 **Prior Provisions**
 
-A prior section 2015, Pub. L. 92–181, title I, § 1.7, Dec. 10, 1971, 85 Stat. 585; Pub. L. 96–592, title I, § 104, Dec. 24, 1980, 94 Stat. 3438; Pub. L. 99–509, title I, § 1033(a), Oct. 21, 1986, 100 Stat. 1877, related to interest rates and other charges, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2015, Pub. L. 92–181, title I, § 1.7, Dec. 10, 1971, 85 Stat. 585; Pub. L. 96–592, title I, § 104, Dec. 24, 1980, 94 Stat. 3438; Pub. L. 99–509, title I, § 1033(a), Oct. 21, 1986, 100 Stat. 1877, related to interest rates and other charges, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–399, § 401(e), inserted in heading “and related assistance” and amended text generally. Prior to amendment, text read as follows: “The Farm Credit Banks are authorized to make or participate with other lenders in long-term real estate mortgage loans in rural areas, as defined by the Farm Credit Administration, or to producers or harvesters of aquatic products, and make continuing commitments to make such loans under specified circumstances, for a term of not less than 5 nor more than 40 years.”
+1988—Subsec. (a). Pub. L. 100–399, § 401(e), inserted in heading “and related assistance” and amended text generally. Prior to amendment, text read as follows: “The Farm Credit Banks are authorized to make or participate with other lenders in long-term real estate mortgage loans in rural areas, as defined by the Farm Credit Administration, or to producers or harvesters of aquatic products, and make continuing commitments to make such loans under specified circumstances, for a term of not less than 5 nor more than 40 years.”
 
-Subsec. (b)(2). Pub. L. 100–399, § 401(f)(1), struck out provision that banks may own and lease or lease with an option to purchase to persons eligible for assistance under this subchapter, equipment needed in the operations of such persons.
+Subsec. (b)(2). Pub. L. 100–399, § 401(f)(1), struck out provision that banks may own and lease or lease with an option to purchase to persons eligible for assistance under this subchapter, equipment needed in the operations of such persons.
 
-Subsec. (b)(3). Pub. L. 100–399, § 401(f)(2), substituted in heading “services” for “assistance” and in subpar. (B) “described in subparagraph (A)” for “herein contained”.
+Subsec. (b)(3). Pub. L. 100–399, § 401(f)(2), substituted in heading “services” for “assistance” and in subpar. (B) “described in subparagraph (A)” for “herein contained”.
 
-Subsec. (b)(4)(A). Pub. L. 100–399, § 401(f)(3), substituted “subsection” for “section”.
+Subsec. (b)(4)(A). Pub. L. 100–399, § 401(f)(3), substituted “subsection” for “section”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -809,9 +809,9 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-### § 2016. Interest rates and other charges
+### § 2016. Interest rates and other charges
 
 **(a) In general**
 
@@ -821,13 +821,13 @@ Loans and discounts made by a Farm Credit Bank shall bear such rate or rates of 
 
 In setting rates and charges, it shall be the objective to provide the types of credit needed by eligible borrowers at the lowest reasonable costs on a sound business basis taking into consideration the cost of money to the bank, necessary reserve and expenses of the bank and associations, and providing services to members. The loan documents or discounting and financing agreements, may provide for the interest rate or rates to vary from time to time during the repayment period of the loan or agreement.
 
-(Pub. L. 92–181, title I, § 1.8, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1626; amended Pub. L. 100–399, title IV, § 401(g), Aug. 17, 1988, 102 Stat. 996.)
+(Pub. L. 92–181, title I, § 1.8, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1626; amended Pub. L. 100–399, title IV, § 401(g), Aug. 17, 1988, 102 Stat. 996.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2016, Pub. L. 92–181, title I, § 1.8, Dec. 10, 1971, 85 Stat. 586; Pub. L. 96–592, title I, § 105, Dec. 24, 1980, 94 Stat. 3438, related to eligibility, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2016, Pub. L. 92–181, title I, § 1.8, Dec. 10, 1971, 85 Stat. 586; Pub. L. 96–592, title I, § 105, Dec. 24, 1980, 94 Stat. 3438, related to eligibility, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
@@ -841,9 +841,9 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-### § 2017. Eligibility
+### § 2017. Eligibility
 
 The credit and financial services authorized in this subchapter may be made available to persons who are or become stockholders or members of the bank or associations in the district, and who are—
 
@@ -853,21 +853,21 @@ The credit and financial services authorized in this subchapter may be made avai
 
 **(3)** owners of rural homes.
 
-(Pub. L. 92–181, title I, § 1.9, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1626.)
+(Pub. L. 92–181, title I, § 1.9, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1626.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2017, Pub. L. 92–181, title I, § 1.9, Dec. 10, 1971, 85 Stat. 586; Pub. L. 96–592, title I, § 106, Dec. 24, 1980, 94 Stat. 3438; Pub. L. 100–233, title IV, § 426, title VIII, § 802(d), Jan. 6, 1988, 101 Stat. 1657, 1710; Pub. L. 100–399, title IV, § 412, title VII, § 701, Aug. 17, 1988, 102 Stat. 1004, 1006, related to security, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2017, Pub. L. 92–181, title I, § 1.9, Dec. 10, 1971, 85 Stat. 586; Pub. L. 96–592, title I, § 106, Dec. 24, 1980, 94 Stat. 3438; Pub. L. 100–233, title IV, § 426, title VIII, § 802(d), Jan. 6, 1988, 101 Stat. 1657, 1710; Pub. L. 100–399, title IV, § 412, title VII, § 701, Aug. 17, 1988, 102 Stat. 1004, 1006, related to security, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-### § 2018. Security; terms
+### § 2018. Security; terms
 
 **(a) Real estate loans**
 
@@ -905,27 +905,27 @@ Additional security for any loan may be required by the bank to supplement real 
 
 Loans, other than real estate loans, and discounts made under the provisions of this subchapter shall be repayable in not more than 7 years (15 years if made to producers or harvesters of aquatic products) from the time that such are made or discounted by the Farm Credit Bank, except that the Board of Directors, under regulations of the Farm Credit Administration, may approve policies permitting loans, advances, or discounts (other than those made to producers or harvesters of aquatic products) to be repayable in not more than 10 years from the time that such are made or discounted by such bank.
 
-(Pub. L. 92–181, title I, § 1.10, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1627; amended Pub. L. 100–399, title IV, § 401(h), (i), Aug. 17, 1988, 102 Stat. 996; Pub. L. 104–105, title II, §§ 202, 203, Feb. 10, 1996, 110 Stat. 172.)
+(Pub. L. 92–181, title I, § 1.10, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1627; amended Pub. L. 100–399, title IV, § 401(h), (i), Aug. 17, 1988, 102 Stat. 996; Pub. L. 104–105, title II, §§ 202, 203, Feb. 10, 1996, 110 Stat. 172.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2018, Pub. L. 92–181, title I, § 1.10, Dec. 10, 1971, 85 Stat. 586; Pub. L. 96–592, title I, § 107, Dec. 24, 1980, 94 Stat. 3438, related to purposes, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2018, Pub. L. 92–181, title I, § 1.10, Dec. 10, 1971, 85 Stat. 586; Pub. L. 96–592, title I, § 107, Dec. 24, 1980, 94 Stat. 3438, related to purposes, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–105, § 202(b), substituted “subparagraphs (C) and (D)” for “paragraphs (2) and (3)”.
+1996—Subsec. (a)(1)(A). Pub. L. 104–105, § 202(b), substituted “subparagraphs (C) and (D)” for “paragraphs (2) and (3)”.
 
-Subsec. (a)(1)(D). Pub. L. 104–105, § 202(a), added subpar. (D).
+Subsec. (a)(1)(D). Pub. L. 104–105, § 202(a), added subpar. (D).
 
-Subsec. (a)(5). Pub. L. 104–105, § 203, struck out heading and text of par. (5). Text read as follows: “Each Farm Credit Bank shall require a financial statement from each borrower at least once every 3 years, or during such shorter period of time as may be required under regulations of the Farm Credit Administration.”
+Subsec. (a)(5). Pub. L. 104–105, § 203, struck out heading and text of par. (5). Text read as follows: “Each Farm Credit Bank shall require a financial statement from each borrower at least once every 3 years, or during such shorter period of time as may be required under regulations of the Farm Credit Administration.”
 
-1988—Subsec. (a)(2). Pub. L. 100–399, § 401(h)(1), substituted “prescribed by regulations of” for “approved by”.
+1988—Subsec. (a)(2). Pub. L. 100–399, § 401(h)(1), substituted “prescribed by regulations of” for “approved by”.
 
-Subsec. (a)(3). Pub. L. 100–399, § 401(h)(2), substituted “under standards” for “under appraisal standards” and “in accordance with regulations of” for “and approved by”.
+Subsec. (a)(3). Pub. L. 100–399, § 401(h)(2), substituted “under standards” for “under appraisal standards” and “in accordance with regulations of” for “and approved by”.
 
-Subsec. (b). Pub. L. 100–399, § 401(i), substituted “harvesters of aquatic products) from” for “harvester of aquatic products) from”.
+Subsec. (b). Pub. L. 100–399, § 401(i), substituted “harvesters of aquatic products) from” for “harvester of aquatic products) from”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -935,9 +935,9 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-### § 2019. Purposes for extensions of credit
+### § 2019. Purposes for extensions of credit
 
 **(a) Agricultural or aquatic purposes**
 
@@ -973,13 +973,13 @@ Loans to persons furnishing farm-related services to farmers and ranchers direct
 
 The banks may own and lease, or lease with option to purchase, to persons eligible for credit under this subchapter or subchapter II, equipment or facilities needed in the operations of such persons.
 
-(Pub. L. 92–181, title I, § 1.11, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1627; amended Pub. L. 100–399, title IV, § 401(j), Aug. 17, 1988, 102 Stat. 996; Pub. L. 101–624, title XVIII, § 1832(a), Nov. 28, 1990, 104 Stat. 3832; Pub. L. 102–237, title V, § 502(a), Dec. 13, 1991, 105 Stat. 1868.)
+(Pub. L. 92–181, title I, § 1.11, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1627; amended Pub. L. 100–399, title IV, § 401(j), Aug. 17, 1988, 102 Stat. 996; Pub. L. 101–624, title XVIII, § 1832(a), Nov. 28, 1990, 104 Stat. 3832; Pub. L. 102–237, title V, § 502(a), Dec. 13, 1991, 105 Stat. 1868.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2019, Pub. L. 92–181, title I, § 1.11, Dec. 10, 1971, 85 Stat. 586; Pub. L. 96–592, title I, § 108, Dec. 24, 1980, 94 Stat. 3438, related to services related to borrower’s operations, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2019, Pub. L. 92–181, title I, § 1.11, Dec. 10, 1971, 85 Stat. 586; Pub. L. 96–592, title I, § 108, Dec. 24, 1980, 94 Stat. 3438, related to services related to borrower’s operations, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
@@ -1001,9 +1001,9 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-### § 2020. Related services
+### § 2020. Related services
 
 **(a) In general**
 
@@ -1019,7 +1019,7 @@ Each Farm Credit Bank may assess each production credit association, other assoc
 
 The assessment on any association or other financing institution described in paragraph (1) for any period shall be computed in an equitable manner, as determined by the Corporation.
 
-(Pub. L. 92–181, title I, § 1.12, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1628; amended Pub. L. 100–399, title IV, § 401(k), Aug. 17, 1988, 102 Stat. 996; Pub. L. 101–220, § 6(b)(1), (2), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 104–105, title II, § 215(a)(2)(C), Feb. 10, 1996, 110 Stat. 176; Pub. L. 107–171, title V, § 5403(a)(2)(A), May 13, 2002, 116 Stat. 350; Pub. L. 110–234, title V, § 5401(a), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, § 4(a), title V, § 5401(a), June 18, 2008, 122 Stat. 1664, 1915.)
+(Pub. L. 92–181, title I, § 1.12, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1628; amended Pub. L. 100–399, title IV, § 401(k), Aug. 17, 1988, 102 Stat. 996; Pub. L. 101–220, § 6(b)(1), (2), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 104–105, title II, § 215(a)(2)(C), Feb. 10, 1996, 110 Stat. 176; Pub. L. 107–171, title V, § 5403(a)(2)(A), May 13, 2002, 116 Stat. 350; Pub. L. 110–234, title V, § 5401(a), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, § 4(a), title V, § 5401(a), June 18, 2008, 122 Stat. 1664, 1915.)
 
 **Editorial Notes**
 
@@ -1029,29 +1029,29 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 2020, Pub. L. 92–181, title I, § 1.12, Dec. 10, 1971, 85 Stat. 586; Pub. L. 96–592, title I, § 109, Dec. 24, 1980, 94 Stat. 3439, related to loans through associations or agents, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2020, Pub. L. 92–181, title I, § 1.12, Dec. 10, 1971, 85 Stat. 586; Pub. L. 96–592, title I, § 109, Dec. 24, 1980, 94 Stat. 3439, related to loans through associations or agents, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
-2008—Subsec. (b). Pub. L. 110–246, § 5401(a), designated first sentence as par. (1), inserted heading, added par. (2), and struck out former second sentence which related to computation of the assessment on the same basis as is used to compute the premium payment and provided formula to calculate a maximum amount.
+2008—Subsec. (b). Pub. L. 110–246, § 5401(a), designated first sentence as par. (1), inserted heading, added par. (2), and struck out former second sentence which related to computation of the assessment on the same basis as is used to compute the premium payment and provided formula to calculate a maximum amount.
 
-2002—Subsec. (b)(1). Pub. L. 107–171, § 5403(a)(2)(A)(i), inserted “and Government Sponsored Enterprise-guaranteed loans (as defined in section 2277a–4(a)(4) of this title) provided for in paragraph (4)” after “government-guaranteed loans (as defined in section 2277a–4(a)(3) of this title) provided for in paragraph (3)”.
+2002—Subsec. (b)(1). Pub. L. 107–171, § 5403(a)(2)(A)(i), inserted “and Government Sponsored Enterprise-guaranteed loans (as defined in section 2277a–4(a)(4) of this title) provided for in paragraph (4)” after “government-guaranteed loans (as defined in section 2277a–4(a)(3) of this title) provided for in paragraph (3)”.
 
-Subsec. (b)(4). Pub. L. 107–171, § 5403(a)(2)(A)(ii)–(iv), added par. (4).
+Subsec. (b)(4). Pub. L. 107–171, § 5403(a)(2)(A)(ii)–(iv), added par. (4).
 
-1996—Pub. L. 104–105, § 215(a)(2)(C), which directed amendment of “section 1.12(b)”, without specifying the name of the Act being amended, was executed to this section, which is section 112 of the Farm Credit Act of 1971, to reflect the probable intent of Congress.
+1996—Pub. L. 104–105, § 215(a)(2)(C), which directed amendment of “section 1.12(b)”, without specifying the name of the Act being amended, was executed to this section, which is section 112 of the Farm Credit Act of 1971, to reflect the probable intent of Congress.
 
-Subsec. (b)(1). Pub. L. 104–105, § 215(a)(2)(C)(i), inserted “(as defined in section 2277a–4(a)(3) of this title)” after “government-guaranteed loans”.
+Subsec. (b)(1). Pub. L. 104–105, § 215(a)(2)(C)(i), inserted “(as defined in section 2277a–4(a)(3) of this title)” after “government-guaranteed loans”.
 
-Subsec. (b)(3). Pub. L. 104–105, § 215(a)(2)(C)(i), inserted “(as so defined)” after “government-guaranteed loans” in subpars. (A) and (B).
+Subsec. (b)(3). Pub. L. 104–105, § 215(a)(2)(C)(i), inserted “(as so defined)” after “government-guaranteed loans” in subpars. (A) and (B).
 
-1989—Subsec. (b). Pub. L. 101–220, § 6(b)(1), inserted “, other association making direct loans under the authority provided under section 2279b of this title,” after “production credit association”.
+1989—Subsec. (b). Pub. L. 101–220, § 6(b)(1), inserted “, other association making direct loans under the authority provided under section 2279b of this title,” after “production credit association”.
 
-Subsec. (b)(1). Pub. L. 101–220, § 6(b)(2)(A), inserted “funded by or” before “discounted with” and “excluding the guaranteed portions of government-guaranteed loans provided for in paragraph (3),” and struck out “and” after “multiplied by 0.0015;”.
+Subsec. (b)(1). Pub. L. 101–220, § 6(b)(2)(A), inserted “funded by or” before “discounted with” and “excluding the guaranteed portions of government-guaranteed loans provided for in paragraph (3),” and struck out “and” after “multiplied by 0.0015;”.
 
-Subsec. (b)(2). Pub. L. 101–220, § 6(b)(2)(B), inserted “funded by or” before “discounted with” and substituted “0.0025; and” for “0.0025.”.
+Subsec. (b)(2). Pub. L. 101–220, § 6(b)(2)(B), inserted “funded by or” before “discounted with” and substituted “0.0025; and” for “0.0025.”.
 
-Subsec. (b)(3). Pub. L. 101–220, § 6(b)(2)(C), added par. (3).
+Subsec. (b)(3). Pub. L. 101–220, § 6(b)(2)(C), added par. (3).
 
 1988—Subsec. (a). Pub. L. 100–399 designated existing provision as subsec. (a), inserted heading, substituted “directors of the bank” for “directors of each district bank”, and added subsec. (b).
 
@@ -1063,11 +1063,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–171, title V, § 5403(b), May 13, 2002, 116 Stat. 351, provided that: “The amendments made by this section [amending this section and sections 2277a–4 and 2277a–5 of this title] shall apply with respect to determinations of premiums for calendar year 2002 and for any succeeding calendar year, and to certified statements with respect to such premiums.”
+Pub. L. 107–171, title V, § 5403(b), May 13, 2002, 116 Stat. 351, provided that: “The amendments made by this section [amending this section and sections 2277a–4 and 2277a–5 of this title] shall apply with respect to determinations of premiums for calendar year 2002 and for any succeeding calendar year, and to certified statements with respect to such premiums.”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–220, § 6(c), Dec. 12, 1989, 103 Stat. 1880, provided that: “The amendments made by subsections (a) and (b) [amending sections 2020, 2277a–4, 2277a–8, and 2277a–10 of this title] shall be effective for insurance premiums due to the Farm Credit System Insurance Corporation under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) on or after January 1, 1990, based on the loan volume of each bank for each calendar year beginning with calendar year 1989, and shall be effective for the calculation of the initial premium payment required under section 5.56(c) of the Farm Credit Act of 1971 (12 U.S.C. 2277a–5(c)).”
+Pub. L. 101–220, § 6(c), Dec. 12, 1989, 103 Stat. 1880, provided that: “The amendments made by subsections (a) and (b) [amending sections 2020, 2277a–4, 2277a–8, and 2277a–10 of this title] shall be effective for insurance premiums due to the Farm Credit System Insurance Corporation under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) on or after January 1, 1990, based on the loan volume of each bank for each calendar year beginning with calendar year 1989, and shall be effective for the calculation of the initial premium payment required under section 5.56(c) of the Farm Credit Act of 1971 (12 U.S.C. 2277a–5(c)).”
 
 **Effective Date of 1988 Amendment**
 
@@ -1075,9 +1075,9 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-### § 2021. Loans through associations or agents
+### § 2021. Loans through associations or agents
 
 **(a) In general**
 
@@ -1091,67 +1091,67 @@ If there is no active association chartered to serve territory where the real es
 
 When the loan is not made through a Federal land bank association, the applicant shall purchase stock in the bank in accordance with the capitalization requirements provided for in the bylaws of the bank.
 
-(Pub. L. 92–181, title I, § 1.13, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1628.)
+(Pub. L. 92–181, title I, § 1.13, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1628.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1.13 of Pub. L. 92–181 was classified to section 2031 of this title prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 1.13 of Pub. L. 92–181 was classified to section 2031 of this title prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-### § 2022. Liens on stock
+### § 2022. Liens on stock
 
 The Farm Credit Banks shall have a first lien on the stock or participation certificates it issues for the payment of any liability of the stockholders to the bank.
 
-(Pub. L. 92–181, title I, § 1.14, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1629.)
+(Pub. L. 92–181, title I, § 1.14, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1629.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1.14 of Pub. L. 92–181 was classified to section 2032 of this title prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 1.14 of Pub. L. 92–181 was classified to section 2032 of this title prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-### § 2023. Taxation
+### § 2023. Taxation
 
 The Farm Credit Banks and the capital, reserves, and surplus thereof, and the income derived therefrom, shall be exempt from Federal, State, municipal, and local taxation, except taxes on real estate held by a Farm Credit Bank to the same extent, according to its value, as other similar property held by other persons is taxed. The mortgages held by the Farm Credit Banks and the notes, bonds, debentures, and other obligations issued by the banks shall be considered and held to be instrumentalities of the United States and, as such, they and the income therefrom shall be exempt from all Federal, State, municipal, and local taxation, other than Federal income tax liability of the holder thereof under the Public Debt Act of 1941 (31 U.S.C. 3124).
 
-(Pub. L. 92–181, title I, § 1.15, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1629; amended Pub. L. 100–399, title IV, § 401(*l*), Aug. 17, 1988, 102 Stat. 997.)
+(Pub. L. 92–181, title I, § 1.15, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1629; amended Pub. L. 100–399, title IV, § 401(*l*), Aug. 17, 1988, 102 Stat. 997.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1.15 of Pub. L. 92–181 was classified to section 2033 of this title prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 1.15 of Pub. L. 92–181 was classified to section 2033 of this title prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
-A prior section 2031, Pub. L. 92–181, title I, § 1.13, Dec. 10, 1971, 85 Stat. 587; Pub. L. 99–205, title II, § 205(d)(4), Dec. 23, 1985, 99 Stat. 1703; Pub. L. 100–233, title VIII, § 802(e), Jan. 6, 1988, 101 Stat. 1710, related to organizations, articles, and charters of Federal land bank associations, and powers of Farm Credit Administration, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401. See section 2011 of this title.
+A prior section 2031, Pub. L. 92–181, title I, § 1.13, Dec. 10, 1971, 85 Stat. 587; Pub. L. 99–205, title II, § 205(d)(4), Dec. 23, 1985, 99 Stat. 1703; Pub. L. 100–233, title VIII, § 802(e), Jan. 6, 1988, 101 Stat. 1710, related to organizations, articles, and charters of Federal land bank associations, and powers of Farm Credit Administration, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401. See section 2011 of this title.
 
-A prior section 2032, Pub. L. 92–181, title I, § 1.14, Dec. 10, 1971, 85 Stat. 587, related to board of directors, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401. See section 2012 of this title.
+A prior section 2032, Pub. L. 92–181, title I, § 1.14, Dec. 10, 1971, 85 Stat. 587, related to board of directors, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401. See section 2012 of this title.
 
-A prior section 2033, Pub. L. 92–181, title I, § 1.15, Dec. 10, 1971, 85 Stat. 587; Pub. L. 96–592, title I, § 110, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title II, § 205(d)(5), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VII, § 705(b), title VIII, § 805(b), Jan. 6, 1988, 101 Stat. 1707, 1715; Pub. L. 100–399, title VI, § 604, title VII, § 702(a), Aug. 17, 1988, 102 Stat. 1006, related to general corporate powers, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401. See section 2013 of this title.
+A prior section 2033, Pub. L. 92–181, title I, § 1.15, Dec. 10, 1971, 85 Stat. 587; Pub. L. 96–592, title I, § 110, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title II, § 205(d)(5), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VII, § 705(b), title VIII, § 805(b), Jan. 6, 1988, 101 Stat. 1707, 1715; Pub. L. 100–399, title VI, § 604, title VII, § 702(a), Aug. 17, 1988, 102 Stat. 1006, related to general corporate powers, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401. See section 2013 of this title.
 
-A prior section 2034, Pub. L. 92–181, title I, § 1.16, Dec. 10, 1971, 85 Stat. 589; Pub. L. 96–592, title I, § 111, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title III, § 304(a), Dec. 23, 1985, 99 Stat. 1708, related to association stock, value of shares, voting, and purchase, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2034, Pub. L. 92–181, title I, § 1.16, Dec. 10, 1971, 85 Stat. 589; Pub. L. 96–592, title I, § 111, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title III, § 304(a), Dec. 23, 1985, 99 Stat. 1708, related to association stock, value of shares, voting, and purchase, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
-A prior section 2051, Pub. L. 92–181, title I, § 1.17, Dec. 10, 1971, 85 Stat. 589; Pub. L. 96–592, title I, § 112, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title II, § 205(d)(6), title VI, § 602, Dec. 23, 1985, 99 Stat. 1704, 1711; Pub. L. 100–233, title VIII, § 802(f), Jan. 6, 1988, 101 Stat. 1711, related to land bank reserves, dividends, and patronage refunds, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2051, Pub. L. 92–181, title I, § 1.17, Dec. 10, 1971, 85 Stat. 589; Pub. L. 96–592, title I, § 112, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title II, § 205(d)(6), title VI, § 602, Dec. 23, 1985, 99 Stat. 1704, 1711; Pub. L. 100–233, title VIII, § 802(f), Jan. 6, 1988, 101 Stat. 1711, related to land bank reserves, dividends, and patronage refunds, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
-A prior section 2052, Pub. L. 92–181, title I, § 1.18, Dec. 10, 1971, 85 Stat. 589; Pub. L. 96–592, title I, § 113, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title VI, § 603, Dec. 23, 1985, 99 Stat. 1711; Pub. L. 100–233, title VIII, § 802(g), Jan. 6, 1988, 101 Stat. 1711, related to association reserves, dividends, and patronage refunds, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2052, Pub. L. 92–181, title I, § 1.18, Dec. 10, 1971, 85 Stat. 589; Pub. L. 96–592, title I, § 113, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title VI, § 603, Dec. 23, 1985, 99 Stat. 1711; Pub. L. 100–233, title VIII, § 802(g), Jan. 6, 1988, 101 Stat. 1711, related to association reserves, dividends, and patronage refunds, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
-A prior section 2053, Pub. L. 92–181, title I, § 1.19, Dec. 10, 1971, 85 Stat. 590; Pub. L. 96–592, title I, § 114, Dec. 24, 1980, 94 Stat. 3439, related to agreements for sharing gains or losses, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2053, Pub. L. 92–181, title I, § 1.19, Dec. 10, 1971, 85 Stat. 590; Pub. L. 96–592, title I, § 114, Dec. 24, 1980, 94 Stat. 3439, related to agreements for sharing gains or losses, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
-A prior section 2054, Pub. L. 92–181, title I, § 1.20, Dec. 10, 1971, 85 Stat. 590; Pub. L. 96–592, title I, § 115, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title II, § 205(d)(7), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VIII, § 805(c), Jan. 6, 1988, 101 Stat. 1715, related to liens on stock and participation certificates, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2054, Pub. L. 92–181, title I, § 1.20, Dec. 10, 1971, 85 Stat. 590; Pub. L. 96–592, title I, § 115, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title II, § 205(d)(7), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VIII, § 805(c), Jan. 6, 1988, 101 Stat. 1715, related to liens on stock and participation certificates, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
-A prior section 2055, Pub. L. 92–181, title I, § 1.21, Dec. 10, 1971, 85 Stat. 590; Pub. L. 100–399, title IX, § 901(a), Aug. 17, 1988, 102 Stat. 1007, related to tax exempt status, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401. See section 2023 of this title.
+A prior section 2055, Pub. L. 92–181, title I, § 1.21, Dec. 10, 1971, 85 Stat. 590; Pub. L. 100–399, title IX, § 901(a), Aug. 17, 1988, 102 Stat. 1007, related to tax exempt status, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401. See section 2023 of this title.
 
 **Amendments**
 
@@ -1165,7 +1165,7 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 ## SUBCHAPTER II—FARM CREDIT ASSOCIATIONS
 
@@ -1173,9 +1173,9 @@ Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided th
 
 **Codification**
 
-Title II of the Farm Credit Act of 1971, comprising this subchapter, was originally enacted by Pub. L. 92–181, title II, Dec. 10, 1971, 85 Stat. 590, and amended by Pub. L. 95–443, Oct. 10, 1978, 92 Stat. 1066; Pub. L. 96–592, Dec. 24, 1980, 94 Stat. 3437; Pub. L. 99–205, Dec. 23, 1985, 99 Stat. 1678; Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1874; Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568. Such title is shown herein, however, as having been added by Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, without reference to such intervening amendments because of the extensive revision of the title’s provisions by Pub. L. 100–233.
+Title II of the Farm Credit Act of 1971, comprising this subchapter, was originally enacted by Pub. L. 92–181, title II, Dec. 10, 1971, 85 Stat. 590, and amended by Pub. L. 95–443, Oct. 10, 1978, 92 Stat. 1066; Pub. L. 96–592, Dec. 24, 1980, 94 Stat. 3437; Pub. L. 99–205, Dec. 23, 1985, 99 Stat. 1678; Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1874; Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568. Such title is shown herein, however, as having been added by Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, without reference to such intervening amendments because of the extensive revision of the title’s provisions by Pub. L. 100–233.
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1629, substituted “Farm Credit Associations” for “Federal Intermediate Credit Banks and Production Credit Associations” as subchapter heading.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1629, substituted “Farm Credit Associations” for “Federal Intermediate Credit Banks and Production Credit Associations” as subchapter heading.
 
 ### Part A—Production Credit Associations
 
@@ -1183,9 +1183,9 @@ Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1629, substituted
 
 **Codification**
 
-1988—Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1629, substituted “Production Credit Associations” for “Federal Intermediate Credit Banks” as part A heading.
+1988—Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1629, substituted “Production Credit Associations” for “Federal Intermediate Credit Banks” as part A heading.
 
-#### § 2071. Organization and charters
+#### § 2071. Organization and charters
 
 **(a) Charter**
 
@@ -1235,25 +1235,25 @@ On approval of the proposed articles by the Farm Credit Administration, and on t
 
 **(D)** approve amendments to the charter of the association.
 
-(Pub. L. 92–181, title II, § 2.0, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1629; amended Pub. L. 100–399, title IV, § 401(m), Aug. 17, 1988, 102 Stat. 997; Pub. L. 102–237, title V, § 502(b), Dec. 13, 1991, 105 Stat. 1868.)
+(Pub. L. 92–181, title II, § 2.0, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1629; amended Pub. L. 100–399, title IV, § 401(m), Aug. 17, 1988, 102 Stat. 997; Pub. L. 102–237, title V, § 502(b), Dec. 13, 1991, 105 Stat. 1868.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2071, Pub. L. 92–181, title II, § 2.0, Dec. 10, 1971, 85 Stat. 590; Pub. L. 100–233, title VIII, § 802(h), Jan. 6, 1988, 101 Stat. 1711, related to establishment and branches of Federal intermediate credit banks, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2071, Pub. L. 92–181, title II, § 2.0, Dec. 10, 1971, 85 Stat. 590; Pub. L. 100–233, title VIII, § 802(h), Jan. 6, 1988, 101 Stat. 1711, related to establishment and branches of Federal intermediate credit banks, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
 1991—Subsec. (b)(8). Pub. L. 102–237 substituted “charter, to” for “charter to” in introductory provisions.
 
-1988—Subsec. (b)(1). Pub. L. 100–399, § 401(m)(1), substituted “this part” for “this subchapter”.
+1988—Subsec. (b)(1). Pub. L. 100–399, § 401(m)(1), substituted “this part” for “this subchapter”.
 
-Subsec. (b)(3)(B). Pub. L. 100–399, § 401(m)(2), (3), struck out “the” before “powers” and substituted “this subtitle” for “this part”, both of which for purposes of codification were translated as “this part”, requiring no change in text.
+Subsec. (b)(3)(B). Pub. L. 100–399, § 401(m)(2), (3), struck out “the” before “powers” and substituted “this subtitle” for “this part”, both of which for purposes of codification were translated as “this part”, requiring no change in text.
 
-Subsec. (b)(3)(C). Pub. L. 100–399, § 401(m)(3), struck out “the” before “territory”.
+Subsec. (b)(3)(C). Pub. L. 100–399, § 401(m)(3), struck out “the” before “territory”.
 
-Subsec. (b)(8). Pub. L. 100–399, § 401(m)(4), struck out in introductory provision “or by approval of bylaws of the association” after “the charter” and amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “direct at any time such changes in the charter as the Farm Credit Administration finds necessary for the accomplishment of the purposes of this chapter”.
+Subsec. (b)(8). Pub. L. 100–399, § 401(m)(4), struck out in introductory provision “or by approval of bylaws of the association” after “the charter” and amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “direct at any time such changes in the charter as the Farm Credit Administration finds necessary for the accomplishment of the purposes of this chapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1267,11 +1267,11 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 **Merger of Production Credit Associations and Federal Land Bank Associations**
 
-Pub. L. 100–233, title IV, § 411, Jan. 6, 1988, 101 Stat. 1638, as amended by Pub. L. 100–399, title IV, § 403, Aug. 17, 1988, 102 Stat. 999, provided that:
+Pub. L. 100–233, title IV, § 411, Jan. 6, 1988, 101 Stat. 1638, as amended by Pub. L. 100–399, title IV, § 403, Aug. 17, 1988, 102 Stat. 999, provided that:
 
 > **“(a) Submission of Proposal.—** Not later than 6 months after the date of the merger of the Federal land bank and the Federal intermediate credit bank in a district, the Boards of Directors of each Federal land bank association and each production credit association in such district, that share substantially the same geographical territory with each other, shall submit to the voting stockholders of each such association for their approval, a plan, approved by the supervising bank and the Farm Credit Administration, for merging such associations.
 
@@ -1287,7 +1287,7 @@ Pub. L. 100–233, title IV, § 411, Jan. 6, 1988, 101 Stat. 1638, as amended 
 
 **Reassignment of Associations to Adjoining Districts**
 
-Pub. L. 100–233, title IV, § 433, Jan. 6, 1988, 101 Stat. 1662, as amended by Pub. L. 100–399, title IV, § 417, Aug. 17, 1988, 102 Stat. 1004, provided that:
+Pub. L. 100–233, title IV, § 433, Jan. 6, 1988, 101 Stat. 1662, as amended by Pub. L. 100–399, title IV, § 417, Aug. 17, 1988, 102 Stat. 1004, provided that:
 
 > **“(a) Petition of Bank.—** Notwithstanding any other provision of law, effective for the 12-month period beginning on the date of enactment of this Act [Jan. 6, 1988], each Federal land bank association or production credit association, whose chartered territory adjoins the territory of another district, may petition the Farm Credit Administration to amend the charters of the association and the adjoining district bank to provide that the territory of the association is part of the adjoining district.
 
@@ -1307,17 +1307,17 @@ Pub. L. 100–233, title IV, § 433, Jan. 6, 1988, 101 Stat. 1662, as amended 
 
 > **“(D)** the Farm Credit Administration Board.”
 
-#### § 2072. Board of directors
+#### § 2072. Board of directors
 
 Each production credit association shall elect from the voting members of such association, a board of directors of such number, for such terms, with such qualifications, and in such manner as may be required by the bylaws of the association, except that at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, stockholder, or agent of a System institution.
 
-(Pub. L. 92–181, title II, § 2.1, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1630; amended Pub. L. 100–399, title IV, § 401(n), Aug. 17, 1988, 102 Stat. 997; Pub. L. 102–237, title V, § 502(c), Dec. 13, 1991, 105 Stat. 1868.)
+(Pub. L. 92–181, title II, § 2.1, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1630; amended Pub. L. 100–399, title IV, § 401(n), Aug. 17, 1988, 102 Stat. 997; Pub. L. 102–237, title V, § 502(c), Dec. 13, 1991, 105 Stat. 1868.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2072, Pub. L. 92–181, title II, § 2.1, Dec. 10, 1971, 85 Stat. 591; Pub. L. 96–592, title II, § 201, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title II, § 205(e)(1), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VII, § 705(c), title VIII, §§ 802(i), 805(d), Jan. 6, 1988, 101 Stat. 1707, 1711, 1715; Pub. L. 100–399, title VI, § 604, title IX, § 901(b), Aug. 17, 1988, 102 Stat. 1006, 1007, related to corporate existence and general corporate powers, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2072, Pub. L. 92–181, title II, § 2.1, Dec. 10, 1971, 85 Stat. 591; Pub. L. 96–592, title II, § 201, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title II, § 205(e)(1), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VII, § 705(c), title VIII, §§ 802(i), 805(d), Jan. 6, 1988, 101 Stat. 1707, 1711, 1715; Pub. L. 100–399, title VI, § 604, title IX, § 901(b), Aug. 17, 1988, 102 Stat. 1006, 1007, related to corporate existence and general corporate powers, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
@@ -1333,9 +1333,9 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided in part that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided in part that this section is effective 6 months after Jan. 6, 1988.
 
-#### § 2073. General corporate powers
+#### § 2073. General corporate powers
 
 Each production credit association shall be a body corporate and, subject to supervision by the Farm Credit Bank for the district and regulation by the Farm Credit Administration, shall have the power to—
 
@@ -1393,17 +1393,17 @@ Each production credit association shall be a body corporate and, subject to sup
 
 **(21)** operate as an originator and become certified as a certified facility under subchapter VIII.
 
-(Pub. L. 92–181, title II, § 2.2, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1630; amended Pub. L. 100–399, title IV, § 401(*o*), Aug. 17, 1988, 102 Stat. 997.)
+(Pub. L. 92–181, title II, § 2.2, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1630; amended Pub. L. 100–399, title IV, § 401(*o*), Aug. 17, 1988, 102 Stat. 997.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2073, Pub. L. 92–181, title II, § 2.2, Dec. 10, 1971, 85 Stat. 592; Pub. L. 96–592, title II, § 202, Dec. 24, 1980, 94 Stat. 3440; Pub. L. 99–205, title II, § 205(e)(2)–(5), title VI, § 604, Dec. 23, 1985, 99 Stat. 1704, 1711; Pub. L. 100–233, title VIII, §§ 802(j), 805(e), Jan. 6, 1988, 101 Stat. 1711, 1715, related to Federal intermediate credit bank stock, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2073, Pub. L. 92–181, title II, § 2.2, Dec. 10, 1971, 85 Stat. 592; Pub. L. 96–592, title II, § 202, Dec. 24, 1980, 94 Stat. 3440; Pub. L. 99–205, title II, § 205(e)(2)–(5), title VI, § 604, Dec. 23, 1985, 99 Stat. 1704, 1711; Pub. L. 100–233, title VIII, §§ 802(j), 805(e), Jan. 6, 1988, 101 Stat. 1711, 1715, related to Federal intermediate credit bank stock, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
-1988—Par. (16). Pub. L. 100–399, § 401(*o*)(1), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “prescribe by the board of directors of the association the bylaws not inconsistent with law providing for—
+1988—Par. (16). Pub. L. 100–399, § 401(*o*)(1), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “prescribe by the board of directors of the association the bylaws not inconsistent with law providing for—
 
 “(A) the classes of association stock and the manner in which the stock shall be issued, transferred, and retired;
 
@@ -1413,9 +1413,9 @@ A prior section 2073, Pub. L. 92–181, title II, § 2.2, Dec. 10, 1971, 85 St
 
 “(D) the general business conducted, and the privileges granted to the association by law exercised and enjoyed;”.
 
-Par. (17). Pub. L. 100–399, § 401(*o*)(2), substituted “provide by its board of directors for” for “elect by the board of directors of the association” and “serve as” for “be elected or designated”.
+Par. (17). Pub. L. 100–399, § 401(*o*)(2), substituted “provide by its board of directors for” for “elect by the board of directors of the association” and “serve as” for “be elected or designated”.
 
-Par. (21). Pub. L. 100–399, § 401(*o*)(3)–(5), added par. (21).
+Par. (21). Pub. L. 100–399, § 401(*o*)(3)–(5), added par. (21).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1425,9 +1425,9 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided in part that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided in part that this section is effective 6 months after Jan. 6, 1988.
 
-#### § 2074. Production credit association capitalization
+#### § 2074. Production credit association capitalization
 
 **(a) In general**
 
@@ -1443,13 +1443,13 @@ In accordance with section 2154a of this title, each production credit associati
 
 When the bylaws of an association so provide and subject to the general directions of the Farm Credit Administration, available net earnings at the end of any fiscal year may be distributed on a patronage basis in stock, participation certificates, or in cash. Any part of the earnings of the fiscal year in excess of the operating expenses for such year held in the surplus account may be allocated to patrons on a patronage basis.
 
-(Pub. L. 92–181, title II, § 2.3, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1632; amended Pub. L. 102–552, title V, § 501, Oct. 28, 1992, 106 Stat. 4129.)
+(Pub. L. 92–181, title II, § 2.3, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1632; amended Pub. L. 102–552, title V, § 501, Oct. 28, 1992, 106 Stat. 4129.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2074, Pub. L. 92–181, title II, § 2.3, Dec. 10, 1971, 85 Stat. 593; Pub. L. 96–592, title II, § 203, Dec. 24, 1980, 94 Stat. 3440; Pub. L. 99–205, title II, § 205(e)(6), Dec. 23, 1985, 99 Stat. 1704, related to loans, discounts, participation, and leasing, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2074, Pub. L. 92–181, title II, § 2.3, Dec. 10, 1971, 85 Stat. 593; Pub. L. 96–592, title II, § 203, Dec. 24, 1980, 94 Stat. 3440; Pub. L. 99–205, title II, § 205(e)(6), Dec. 23, 1985, 99 Stat. 1704, related to loans, discounts, participation, and leasing, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
@@ -1459,9 +1459,9 @@ A prior section 2074, Pub. L. 92–181, title II, § 2.3, Dec. 10, 1971, 85 St
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-#### § 2075. Short- and intermediate-term loans; participation; other financial assistance; terms; conditions; interest; security
+#### § 2075. Short- and intermediate-term loans; participation; other financial assistance; terms; conditions; interest; security
 
 **(a) Short- and intermediate-term loans** Each production credit association, under standards prescribed by the board of directors of the Farm Credit Bank of the district, may make, guarantee, or participate with other lenders in short- and intermediate-term loans and other similar financial assistance to—
 
@@ -1507,13 +1507,13 @@ The loan documents may provide for the interest rate or rates to vary from time 
 
 Such standards may require prior approval of the bank on certain classes of loans, and may authorize a continuing commitment to a borrower of a line of credit.
 
-(Pub. L. 92–181, title II, § 2.4, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1632; amended Pub. L. 100–399, title IV, § 401(p), (q), Aug. 17, 1988, 102 Stat. 997; Pub. L. 101–624, title XVIII, § 1832(b), Nov. 28, 1990, 104 Stat. 3832; Pub. L. 115–334, title V, § 5411(3), Dec. 20, 2018, 132 Stat. 4679.)
+(Pub. L. 92–181, title II, § 2.4, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1632; amended Pub. L. 100–399, title IV, § 401(p), (q), Aug. 17, 1988, 102 Stat. 997; Pub. L. 101–624, title XVIII, § 1832(b), Nov. 28, 1990, 104 Stat. 3832; Pub. L. 115–334, title V, § 5411(3), Dec. 20, 2018, 132 Stat. 4679.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2075, Pub. L. 92–181, title II, § 2.4, Dec. 10, 1971, 85 Stat. 594; Pub. L. 95–443, Oct. 10, 1978, 92 Stat. 1066; Pub. L. 96–592, title II, § 204, Dec. 24, 1980, 94 Stat. 3441; Pub. L. 99–509, title I, § 1033(b), Oct. 21, 1986, 100 Stat. 1877, related to terms, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2075, Pub. L. 92–181, title II, § 2.4, Dec. 10, 1971, 85 Stat. 594; Pub. L. 95–443, Oct. 10, 1978, 92 Stat. 1066; Pub. L. 96–592, title II, § 204, Dec. 24, 1980, 94 Stat. 3441; Pub. L. 99–509, title I, § 1033(b), Oct. 21, 1986, 100 Stat. 1877, related to terms, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
@@ -1521,9 +1521,9 @@ A prior section 2075, Pub. L. 92–181, title II, § 2.4, Dec. 10, 1971, 85 St
 
 1990—Subsec. (a)(1). Pub. L. 101–624 substituted “some portion of the total processing or marketing for which financing is extended, except that the aggregate of the financing provided by any association for basic processing and marketing directly related to the operations of farmers, ranchers, and producers or harvesters of aquatic products, if the operations of the applicant supply less than 20 percent of the total processing or marketing for which financing is extended, shall not exceed 15 percent of the total of all outstanding loans of all associations in the district at the end of its preceding fiscal year” for “at least 20 percent, or such larger percent as is required by the supervising bank under regulations of the Farm Credit Administration, of the total processing or marketing for which financing is extended”.
 
-1988—Subsec. (b)(1). Pub. L. 100–399, § 401(p), substituted “this part” for “this subchapter” and substituted “or planned” for “planned”.
+1988—Subsec. (b)(1). Pub. L. 100–399, § 401(p), substituted “this part” for “this subchapter” and substituted “or planned” for “planned”.
 
-Subsec. (d). Pub. L. 100–399, § 401(q), added subsec. (d).
+Subsec. (d). Pub. L. 100–399, § 401(q), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1533,31 +1533,31 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-#### § 2076. Other services
+#### § 2076. Other services
 
 Each production credit association may provide technical assistance to borrowers, applicants, and members and may make available to them at their option such financial related services appropriate to their on-farm and aquatic operations as is determined feasible by the board of directors of each Farm Credit Bank, under regulations prescribed by the Farm Credit Administration.
 
-(Pub. L. 92–181, title II, § 2.5, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1633.)
+(Pub. L. 92–181, title II, § 2.5, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1633.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2076, Pub. L. 92–181, title II, § 2.5, Dec. 10, 1971, 85 Stat. 595; Pub. L. 96–592, title II, § 205, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 100–233, title III, § 305, Jan. 6, 1988, 101 Stat. 1621, related to services related to borrowers’ operations, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2076, Pub. L. 92–181, title II, § 2.5, Dec. 10, 1971, 85 Stat. 595; Pub. L. 96–592, title II, § 205, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 100–233, title III, § 305, Jan. 6, 1988, 101 Stat. 1621, related to services related to borrowers’ operations, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-#### § 2076a. Liens on stock
+#### § 2076a. Liens on stock
 
 Except with regard to stock or participation certificates held by other Farm Credit System institutions, each production credit association shall have a first lien on stock and participation certificates the association issues, on allocated surplus, and on investments in equity reserve, for any indebtedness of the holder of the capital investments and, in the case of equity reserves, for charges for association losses in excess of reserves and surpluses.
 
-(Pub. L. 92–181, title II, § 2.6, as added Pub. L. 101–624, title XVIII, § 1833(2), Nov. 28, 1990, 104 Stat. 3832.)
+(Pub. L. 92–181, title II, § 2.6, as added Pub. L. 101–624, title XVIII, § 1833(2), Nov. 28, 1990, 104 Stat. 3832.)
 
 **Editorial Notes**
 
@@ -1571,25 +1571,25 @@ A prior section 2.6 of Pub. L. 92–181 was renumbered section 2.7 and is classi
 
 Section effective Jan. 7, 1988, see section 1861(d) of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 2001 of Title 7, Agriculture.
 
-#### § 2077. Taxation
+#### § 2077. Taxation
 
 Each production credit association and its obligations are instrumentalities of the United States and as such any and all notes, debentures, and other obligations issued by such associations shall be exempt, both as to principal and interest, from all taxation (except surtaxes, estate, inheritance, and gift taxes) now or hereafter imposed by the United States or any State, territorial, or local taxing authority, except that interest on such obligations shall be subject to Federal income taxation in the hands of the holder.
 
-(Pub. L. 92–181, title II, § 2.7, formerly § 2.6, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1633; amended Pub. L. 100–399, title IV, § 401(r), Aug. 17, 1988, 102 Stat. 998; renumbered § 2.7, Pub. L. 101–624, title XVIII, § 1833(1), Nov. 28, 1990, 104 Stat. 3832.)
+(Pub. L. 92–181, title II, § 2.7, formerly § 2.6, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1633; amended Pub. L. 100–399, title IV, § 401(r), Aug. 17, 1988, 102 Stat. 998; renumbered § 2.7, Pub. L. 101–624, title XVIII, § 1833(1), Nov. 28, 1990, 104 Stat. 3832.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2077, Pub. L. 92–181, title II, § 2.6, Dec. 10, 1971, 85 Stat. 595; Pub. L. 96–592, title II, § 206, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 99–205, title II, § 205(e)(7), (8), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VIII, §§ 802(k), 805(f), Jan. 6, 1988, 101 Stat. 1711, 1715, related to net earnings, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2077, Pub. L. 92–181, title II, § 2.6, Dec. 10, 1971, 85 Stat. 595; Pub. L. 96–592, title II, § 206, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 99–205, title II, § 205(e)(7), (8), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VIII, §§ 802(k), 805(f), Jan. 6, 1988, 101 Stat. 1711, 1715, related to net earnings, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
-A prior section 2078, Pub. L. 92–181, title II, § 2.7, Dec. 10, 1971, 85 Stat. 597; Pub. L. 99–205, title II, § 205(e)(9), Dec. 23, 1985, 99 Stat. 1704, related to distribution of assets on liquidation, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2078, Pub. L. 92–181, title II, § 2.7, Dec. 10, 1971, 85 Stat. 597; Pub. L. 99–205, title II, § 205(e)(9), Dec. 23, 1985, 99 Stat. 1704, related to distribution of assets on liquidation, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
-A prior section 2079, Pub. L. 92–181, title II, § 2.8, Dec. 10, 1971, 85 Stat. 597; Pub. L. 100–399, title IX, § 901(a), Aug. 17, 1988, 102 Stat. 1007, related to taxation, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2079, Pub. L. 92–181, title II, § 2.8, Dec. 10, 1971, 85 Stat. 597; Pub. L. 100–399, title IX, § 901(a), Aug. 17, 1988, 102 Stat. 1007, related to taxation, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
-1988—Pub. L. 100–399 substituted “interest,” for “interest” and inserted “, except that interest on such obligations shall be subject to Federal income taxation in the hands of the holder”.
+1988—Pub. L. 100–399 substituted “interest,” for “interest” and inserted “, except that interest on such obligations shall be subject to Federal income taxation in the hands of the holder”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1599,7 +1599,7 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 ### Part B—Federal Land Bank Associations
 
@@ -1607,9 +1607,9 @@ Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided th
 
 **Codification**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1634, substituted “Federal Land Bank Associations” for “Production Credit Associations” as part B heading.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1634, substituted “Federal Land Bank Associations” for “Production Credit Associations” as part B heading.
 
-#### § 2091. Organizations; articles; charters; powers of the Farm Credit Administration
+#### § 2091. Organizations; articles; charters; powers of the Farm Credit Administration
 
 **(a) Charter**
 
@@ -1665,21 +1665,21 @@ On the approval of the proposed articles by the Farm Credit Administration and t
 
 **(4)** to approve amendments to the charter of such association.
 
-(Pub. L. 92–181, title II, § 2.10, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1634; amended Pub. L. 100–399, title IV, § 401(s), (t), Aug. 17, 1988, 102 Stat. 998.)
+(Pub. L. 92–181, title II, § 2.10, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1634; amended Pub. L. 100–399, title IV, § 401(s), (t), Aug. 17, 1988, 102 Stat. 998.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2091, Pub. L. 92–181, title II, § 2.10, Dec. 10, 1971, 85 Stat. 597; Pub. L. 96–592, title II, § 207, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 99–205, title II, § 205(e)(10), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VIII, §§ 802(*l*), 805(g), Jan. 6, 1988, 101 Stat. 1711, 1715, related to organization and charters of production credit associations, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2091, Pub. L. 92–181, title II, § 2.10, Dec. 10, 1971, 85 Stat. 597; Pub. L. 96–592, title II, § 207, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 99–205, title II, § 205(e)(10), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VIII, §§ 802(*l*), 805(g), Jan. 6, 1988, 101 Stat. 1711, 1715, related to organization and charters of production credit associations, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
-1988—Subsec. (b)(1). Pub. L. 100–399, § 401(s)(1), inserted “under section 2015(a) of this title” after “a Farm Credit Bank”.
+1988—Subsec. (b)(1). Pub. L. 100–399, § 401(s)(1), inserted “under section 2015(a) of this title” after “a Farm Credit Bank”.
 
-Subsec. (b)(2)(D)(i). Pub. L. 100–399, § 401(s)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the individual’s eligibility for, and request or need of the individual of a Farm Credit Bank loan;”.
+Subsec. (b)(2)(D)(i). Pub. L. 100–399, § 401(s)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the individual’s eligibility for, and request or need of the individual of a Farm Credit Bank loan;”.
 
-Subsec. (c). Pub. L. 100–399, § 401(t), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Farm Credit Administration shall have power, in the terms of the charter, under rules and regulations prescribed by the Farm Credit Administration or by approving the bylaws of the association, to provide for the—
+Subsec. (c). Pub. L. 100–399, § 401(t), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Farm Credit Administration shall have power, in the terms of the charter, under rules and regulations prescribed by the Farm Credit Administration or by approving the bylaws of the association, to provide for the—
 
 “(1) organization of the association;
 
@@ -1697,19 +1697,19 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-#### § 2092. Board of directors
+#### § 2092. Board of directors
 
 Each Federal land bank association shall elect from its voting shareholders a board of directors of such number, for such terms, in such manner, and with such qualifications as may be required by its bylaws except that, at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, stockholder, or agent of a System institution.
 
-(Pub. L. 92–181, title II, § 2.11, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1635; amended Pub. L. 102–237, title V, § 502(d), Dec. 13, 1991, 105 Stat. 1868.)
+(Pub. L. 92–181, title II, § 2.11, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1635; amended Pub. L. 102–237, title V, § 502(d), Dec. 13, 1991, 105 Stat. 1868.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2092, Pub. L. 92–181, title II, § 2.11, Dec. 10, 1971, 85 Stat. 598, related to board of directors, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2092, Pub. L. 92–181, title II, § 2.11, Dec. 10, 1971, 85 Stat. 598, related to board of directors, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
@@ -1719,9 +1719,9 @@ A prior section 2092, Pub. L. 92–181, title II, § 2.11, Dec. 10, 1971, 85 S
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-#### § 2093. General corporate powers
+#### § 2093. General corporate powers
 
 Each Federal land bank association shall be a body corporate and, subject to supervision of the Farm Credit Bank for the district and the regulation of the Farm Credit Administration, shall have the power to—
 
@@ -1781,23 +1781,23 @@ Each Federal land bank association shall be a body corporate and, subject to sup
 
 **(22)** operate as an originator and become certified as a certified facility under subchapter VIII.
 
-(Pub. L. 92–181, title II, § 2.12, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1635; amended Pub. L. 100–399, title IV, § 401(u), Aug. 17, 1988, 102 Stat. 998.)
+(Pub. L. 92–181, title II, § 2.12, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1635; amended Pub. L. 100–399, title IV, § 401(u), Aug. 17, 1988, 102 Stat. 998.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2093, Pub. L. 92–181, title II, § 2.12, Dec. 10, 1971, 85 Stat. 598; Pub. L. 96–592, title II, § 208, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 99–205, title II, § 205(e)(11), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VII, § 705(d), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, § 604, Aug. 17, 1988, 102 Stat. 1006, related to general corporate powers, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2093, Pub. L. 92–181, title II, § 2.12, Dec. 10, 1971, 85 Stat. 598; Pub. L. 96–592, title II, § 208, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 99–205, title II, § 205(e)(11), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VII, § 705(d), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, § 604, Aug. 17, 1988, 102 Stat. 1006, related to general corporate powers, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Amendments**
 
-1988—Par. (7). Pub. L. 100–399, § 401(u)(1), substituted “provide by its board of directors for” for “elect by its board of directors” and “serve as” for “be elected or designated”.
+1988—Par. (7). Pub. L. 100–399, § 401(u)(1), substituted “provide by its board of directors for” for “elect by its board of directors” and “serve as” for “be elected or designated”.
 
-Par. (8). Pub. L. 100–399, § 401(u)(2), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “prescribe by its board of directors, association bylaws, not inconsistent with law, providing for the classes of association stock and the manner in which such stock shall be issued, transferred, and retired; the officers and employees of the association elected or provided for, the property of the association that is acquired, held, and transferred, the general business of the association conducted, and the privileges granted to the association by law exercised and enjoyed;”.
+Par. (8). Pub. L. 100–399, § 401(u)(2), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “prescribe by its board of directors, association bylaws, not inconsistent with law, providing for the classes of association stock and the manner in which such stock shall be issued, transferred, and retired; the officers and employees of the association elected or provided for, the property of the association that is acquired, held, and transferred, the general business of the association conducted, and the privileges granted to the association by law exercised and enjoyed;”.
 
-Par. (12). Pub. L. 100–399, § 401(u)(3), substituted “agreed to by” for “agreed to or delegated to”.
+Par. (12). Pub. L. 100–399, § 401(u)(3), substituted “agreed to by” for “agreed to or delegated to”.
 
-Par. (22). Pub. L. 100–399, § 401(u)(4)–(6), added par. (22).
+Par. (22). Pub. L. 100–399, § 401(u)(4)–(6), added par. (22).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1807,69 +1807,69 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-#### § 2094. Federal land bank association capitalization
+#### § 2094. Federal land bank association capitalization
 
 In accordance with section 2154a of this title, the Federal land bank association shall provide, through its bylaws and subject to Farm Credit Administration regulations, for its capitalization and the manner in which its stock shall be issued, held, transferred, and retired and its earnings distributed.
 
-(Pub. L. 92–181, title II, § 2.13, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1636.)
+(Pub. L. 92–181, title II, § 2.13, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1636.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2094, Pub. L. 92–181, title II, § 2.13, Dec. 10, 1971, 85 Stat. 599; Pub. L. 96–592, title II, § 209, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 99–205, title II, § 205(e)(12)–(14), title III, § 304(b), Dec. 23, 1985, 99 Stat. 1705, 1708; Pub. L. 100–233, title VIII, § 805(h), Jan. 6, 1988, 101 Stat. 1715, related to stock and participation certificates, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2094, Pub. L. 92–181, title II, § 2.13, Dec. 10, 1971, 85 Stat. 599; Pub. L. 96–592, title II, § 209, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 99–205, title II, § 205(e)(12)–(14), title III, § 304(b), Dec. 23, 1985, 99 Stat. 1705, 1708; Pub. L. 100–233, title VIII, § 805(h), Jan. 6, 1988, 101 Stat. 1715, related to stock and participation certificates, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-#### § 2095. Repealed. Pub. L. 100–399, title IV, § 401(v), Aug. 17, 1988, 102 Stat. 999
+#### § 2095. Repealed. Pub. L. 100–399, title IV, § 401(v), Aug. 17, 1988, 102 Stat. 999
 
-Section, Pub. L. 92–181, title II, § 2.14, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1636, provided that whenever any Federal land bank association was liquidated, a sum equal to its reserve account as required in this chapter was to be paid and become the property of the bank in which such association was a shareholder.
+Section, Pub. L. 92–181, title II, § 2.14, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1636, provided that whenever any Federal land bank association was liquidated, a sum equal to its reserve account as required in this chapter was to be paid and become the property of the bank in which such association was a shareholder.
 
-A prior section 2095, Pub. L. 92–181, title II, § 2.14, Dec. 10, 1971, 85 Stat. 600; Pub. L. 99–205, title II, § 205(e)(15), title VI, § 605, Dec. 23, 1985, 99 Stat. 1705, 1711, related to application of earnings, restoration of capital impairment, and surplus account, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2095, Pub. L. 92–181, title II, § 2.14, Dec. 10, 1971, 85 Stat. 600; Pub. L. 99–205, title II, § 205(e)(15), title VI, § 605, Dec. 23, 1985, 99 Stat. 1705, 1711, related to application of earnings, restoration of capital impairment, and surplus account, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Construction of Repeal**
 
-Pub. L. 100–399, title IV, § 401(v), Aug. 17, 1988, 102 Stat. 999, repealed this section and provided that this chapter be applied and administered as if this section had not been enacted.
+Pub. L. 100–399, title IV, § 401(v), Aug. 17, 1988, 102 Stat. 999, repealed this section and provided that this chapter be applied and administered as if this section had not been enacted.
 
-#### § 2096. Agreements for sharing gains or losses
+#### § 2096. Agreements for sharing gains or losses
 
 Each Farm Credit Bank may enter into agreements with Federal land bank associations in its district for sharing the gain or losses on loans or on security held therefor or acquired in liquidation thereof, and associations are authorized to enter into any such agreements and also, subject to bank approval, agreements with other associations in the district for sharing the risk of loss on loans endorsed by each such association. As may be authorized by the bank in accordance with regulations of the Farm Credit Administration, associations also may enter into agreements with other Farm Credit System institutions to share loan and other losses, whether to protect against capital impairment or for any other purpose.
 
-(Pub. L. 92–181, title II, § 2.14, formerly § 2.15, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1636; renumbered § 2.14, Pub. L. 100–399, title IV, § 401(w), Aug. 17, 1988, 102 Stat. 999.)
+(Pub. L. 92–181, title II, § 2.14, formerly § 2.15, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1636; renumbered § 2.14, Pub. L. 100–399, title IV, § 401(w), Aug. 17, 1988, 102 Stat. 999.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2096, Pub. L. 92–181, title II, § 2.15, Dec. 10, 1971, 85 Stat. 601; Pub. L. 96–592, title II, § 210, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 99–205, title II, § 205(b), Dec. 23, 1985, 99 Stat. 1703; Pub. L. 100–233, title IV, § 431(f), title VIII, § 805(i), Jan. 6, 1988, 101 Stat. 1660, 1715; Pub. L. 100–399, title IV, § 415(b), Aug. 17, 1988, 102 Stat. 1004, related to short- and intermediate-term loans, participation, other financial assistance, terms, conditions, interest, and security, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2096, Pub. L. 92–181, title II, § 2.15, Dec. 10, 1971, 85 Stat. 601; Pub. L. 96–592, title II, § 210, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 99–205, title II, § 205(b), Dec. 23, 1985, 99 Stat. 1703; Pub. L. 100–233, title IV, § 431(f), title VIII, § 805(i), Jan. 6, 1988, 101 Stat. 1660, 1715; Pub. L. 100–399, title IV, § 415(b), Aug. 17, 1988, 102 Stat. 1004, related to short- and intermediate-term loans, participation, other financial assistance, terms, conditions, interest, and security, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
-A prior section 2.14 of Pub. L. 92–181 was classified to section 2095 of this title and was repealed by Pub. L. 100–399, § 401(v).
+A prior section 2.14 of Pub. L. 92–181 was classified to section 2095 of this title and was repealed by Pub. L. 100–399, § 401(v).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-#### § 2097. Liens on stock
+#### § 2097. Liens on stock
 
 Each Federal land bank association shall have a first lien on the stock and participation certificates it issues, except on stock or participation certificates held by other Farm Credit System institutions, for the payment of any liability of the stockholder to the association or to the bank, or to both of them.
 
-(Pub. L. 92–181, title II, § 2.15, formerly § 2.16, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1637; renumbered § 2.15, Pub. L. 100–399, title IV, § 401(w), Aug. 17, 1988, 102 Stat. 999.)
+(Pub. L. 92–181, title II, § 2.15, formerly § 2.16, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1637; renumbered § 2.15, Pub. L. 100–399, title IV, § 401(w), Aug. 17, 1988, 102 Stat. 999.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2097, Pub. L. 92–181, title II, § 2.16, Dec. 10, 1971, 85 Stat. 602; Pub. L. 96–592, title II, § 211, Dec. 24, 1980, 94 Stat. 3443, related to other services, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2097, Pub. L. 92–181, title II, § 2.16, Dec. 10, 1971, 85 Stat. 602; Pub. L. 96–592, title II, § 211, Dec. 24, 1980, 94 Stat. 3443, related to other services, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 A prior section 2.15 of Pub. L. 92–181 was renumbered section 2.14 and is classified to section 2096 of this title.
 
@@ -1877,25 +1877,25 @@ A prior section 2.15 of Pub. L. 92–181 was renumbered section 2.14 and is clas
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
-#### § 2098. Taxation
+#### § 2098. Taxation
 
 Each Federal land bank association and the capital, reserves, and surplus thereof, and the income derived therefrom, shall be exempt from Federal, State, municipal, and local taxation, except taxes on real estate held by a Federal land bank association to the same extent, according to its value, as other similar property held by other persons is taxed. The mortgages held by the Federal land bank associations and the notes, bonds, debentures, and other obligations issued by the associations shall be considered and held to be instrumentalities of the United States and, as such, they and the income therefrom shall be exempt from all Federal, State, municipal, and local taxation, other than Federal income tax liability of the holder thereof under the Public Debt Act of 1941 (31 U.S.C. 3124).
 
-(Pub. L. 92–181, title II, § 2.16, formerly § 2.17, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1637; renumbered § 2.16 and amended Pub. L. 100–399, title IV, § 401(w), (x), Aug. 17, 1988, 102 Stat. 999.)
+(Pub. L. 92–181, title II, § 2.16, formerly § 2.17, as added Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1637; renumbered § 2.16 and amended Pub. L. 100–399, title IV, § 401(w), (x), Aug. 17, 1988, 102 Stat. 999.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2098, Pub. L. 92–181, title II, § 2.17, Dec. 10, 1971, 85 Stat. 602; Pub. L. 99–205, title II, § 205(e)(16), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, § 805(j), Jan. 6, 1988, 101 Stat. 1715, related to taxation, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+A prior section 2098, Pub. L. 92–181, title II, § 2.17, Dec. 10, 1971, 85 Stat. 602; Pub. L. 99–205, title II, § 205(e)(16), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, § 805(j), Jan. 6, 1988, 101 Stat. 1715, related to taxation, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 A prior section 2.16 of Pub. L. 92–181 was renumbered section 2.15 and is classified to section 2097 of this title.
 
 **Amendments**
 
-1988—Pub. L. 100–399, § 401(x), substituted “derived therefrom, shall” for “derived therefrom shall”, “by the associations” for “by the banks”, and “3124” for “742(a)”.
+1988—Pub. L. 100–399, § 401(x), substituted “derived therefrom, shall” for “derived therefrom shall”, “by the associations” for “by the banks”, and “3124” for “742(a)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1905,7 +1905,7 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Effective Date**
 
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 ## SUBCHAPTER III—BANKS FOR COOPERATIVES
 
@@ -1915,13 +1915,13 @@ Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided th
 
 **Codification**
 
-Pub. L. 100–233, title IV, § 415(1), Jan. 6, 1988, 101 Stat. 1642, inserted part A heading.
+Pub. L. 100–233, title IV, § 415(1), Jan. 6, 1988, 101 Stat. 1642, inserted part A heading.
 
-#### § 2121. Establishment; titles; branches
+#### § 2121. Establishment; titles; branches
 
 The banks for cooperatives established pursuant to sections 2 and 30 of the Farm Credit Act of 1933, as amended, shall continue as federally chartered instrumentalities of the United States. The Farm Credit Administration shall approve amendments consistent with this chapter to charters and organizational certificates of banks for cooperatives. Unless an existing bank for cooperatives is merged with another bank, there shall be a bank for cooperatives in each farm credit district. A bank for cooperatives may include in its title the name of the city in which it is located or other geographical designation. When authorized by the Farm Credit Administration each bank for cooperatives may establish such branches or other offices as may be appropriate for the effective operation of its business.
 
-(Pub. L. 92–181, title III, § 3.0, Dec. 10, 1971, 85 Stat. 602; Pub. L. 100–233, title IV, § 414(b), title VIII, § 802(m), Jan. 6, 1988, 101 Stat. 1641, 1711; Pub. L. 100–399, title IV, § 406(b), title IX, § 901(c), Aug. 17, 1988, 102 Stat. 1000, 1007; Pub. L. 115–334, title V, § 5411(4), Dec. 20, 2018, 132 Stat. 4679.)
+(Pub. L. 92–181, title III, § 3.0, Dec. 10, 1971, 85 Stat. 602; Pub. L. 100–233, title IV, § 414(b), title VIII, § 802(m), Jan. 6, 1988, 101 Stat. 1641, 1711; Pub. L. 100–399, title IV, § 406(b), title IX, § 901(c), Aug. 17, 1988, 102 Stat. 1000, 1007; Pub. L. 115–334, title V, § 5411(4), Dec. 20, 2018, 132 Stat. 4679.)
 
 **Editorial Notes**
 
@@ -1933,11 +1933,11 @@ Sections 2 and 30 of the Farm Credit Act of 1933, as amended, referred to in tex
 
 2018—Subsec. (a). Pub. L. 115–334 struck out “and a Central Bank for Cooperatives” after “each farm credit district” and “The Central Bank for Cooperatives may be located in such place as its board of directors may determine with the approval of the Farm Credit Administration.” after “other geographical designation.”
 
-1988—Pub. L. 100–399, § 901(c), substituted “merged with another bank” for “merged with one or more other such banks under section 2181 of this title”.
+1988—Pub. L. 100–399, § 901(c), substituted “merged with another bank” for “merged with one or more other such banks under section 2181 of this title”.
 
-Pub. L. 100–233, § 802(m), substituted “The Farm Credit Administration shall approve amendments consistent with this chapter to charters and organizational certificates of banks for cooperatives” for “Their charters or organization certificates may be modified from time to time by the Farm Credit Administration, not inconsistent with the provisions of this subchapter, as may be necessary or expedient to implement this chapter”.
+Pub. L. 100–233, § 802(m), substituted “The Farm Credit Administration shall approve amendments consistent with this chapter to charters and organizational certificates of banks for cooperatives” for “Their charters or organization certificates may be modified from time to time by the Farm Credit Administration, not inconsistent with the provisions of this subchapter, as may be necessary or expedient to implement this chapter”.
 
-Pub. L. 100–233, § 414(b), which designated existing provisions as subsec. (a), and added subsec. (b) reading “Each bank for cooperatives shall elect from its voting stockholders a board of directors of such number, for such term, in such manner, and with such qualifications as may be required in its bylaws, except that, at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.”, was repealed by section 406(b) of Pub. L. 100–399. See Construction of 1988 Amendment note below.
+Pub. L. 100–233, § 414(b), which designated existing provisions as subsec. (a), and added subsec. (b) reading “Each bank for cooperatives shall elect from its voting stockholders a board of directors of such number, for such term, in such manner, and with such qualifications as may be required in its bylaws, except that, at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.”, was repealed by section 406(b) of Pub. L. 100–399. See Construction of 1988 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1947,11 +1947,11 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 **Construction of 1988 Amendment**
 
-Pub. L. 100–399, title IV, § 406(b), Aug. 17, 1988, 102 Stat. 1000, provided that section 414(b) of Pub. L. 100–233, cited as a credit to this section, is repealed and that the Agricultural Credit Act of 1987 (Pub. L. 100–233) and this chapter shall be applied and administered as if such section had not been enacted.
+Pub. L. 100–399, title IV, § 406(b), Aug. 17, 1988, 102 Stat. 1000, provided that section 414(b) of Pub. L. 100–233, cited as a credit to this section, is repealed and that the Agricultural Credit Act of 1987 (Pub. L. 100–233) and this chapter shall be applied and administered as if such section had not been enacted.
 
 **Voluntary Merger of Banks for Cooperatives**
 
-Pub. L. 100–233, title IV, § 413, Jan. 6, 1988, 101 Stat. 1639, as amended by Pub. L. 100–399, title IV, § 405, Aug. 17, 1988, 102 Stat. 1000, provided that:
+Pub. L. 100–233, title IV, § 413, Jan. 6, 1988, 101 Stat. 1639, as amended by Pub. L. 100–399, title IV, § 405, Aug. 17, 1988, 102 Stat. 1000, provided that:
 
 > **“(a) Submission of Proposal.—**
 
@@ -2023,9 +2023,9 @@ Pub. L. 100–233, title IV, § 413, Jan. 6, 1988, 101 Stat. 1639, as amended 
 
 **Bank for Cooperatives Initial Board of Directors**
 
-Pub. L. 100–233, title IV, § 414(a), Jan. 6, 1988, 101 Stat. 1641, as amended by Pub. L. 100–399, title IV, § 406(a), Aug. 17, 1988, 102 Stat. 1000, provided that: “Notwithstanding section 3.2 [probably means section 3.2 of Pub. L. 92–181, 12 U.S.C. 2123], the initial board of each district bank for cooperatives shall be composed of the members of the district board (which is dissolved upon the creation of the district Farm Credit Bank) elected by the stockholders of the bank for cooperatives and one member elected by the other two members, which member shall not be a director, officer, employee, or stockholder of a System institution. The initial board shall operate for such term as is agreed to by the members of the board, except that such period shall not exceed two years. Thereafter, the board shall be elected and serve in accordance with section 3.0 of the Farm Credit Act of 1971 [12 U.S.C. 2121].”
+Pub. L. 100–233, title IV, § 414(a), Jan. 6, 1988, 101 Stat. 1641, as amended by Pub. L. 100–399, title IV, § 406(a), Aug. 17, 1988, 102 Stat. 1000, provided that: “Notwithstanding section 3.2 [probably means section 3.2 of Pub. L. 92–181, 12 U.S.C. 2123], the initial board of each district bank for cooperatives shall be composed of the members of the district board (which is dissolved upon the creation of the district Farm Credit Bank) elected by the stockholders of the bank for cooperatives and one member elected by the other two members, which member shall not be a director, officer, employee, or stockholder of a System institution. The initial board shall operate for such term as is agreed to by the members of the board, except that such period shall not exceed two years. Thereafter, the board shall be elected and serve in accordance with section 3.0 of the Farm Credit Act of 1971 [12 U.S.C. 2121].”
 
-#### § 2122. Corporate existence; general corporate powers
+#### § 2122. Corporate existence; general corporate powers
 
 Each bank for cooperatives shall be a body corporate and, subject to regulation by the Farm Credit Administration, shall have power to—
 
@@ -2091,7 +2091,7 @@ Each bank for cooperatives shall be a body corporate and, subject to regulation 
 
 **(18)** As may be authorized by its board of directors, agree with other Farm Credit System institutions to share loan or other losses, whether to protect against capital impairment or for any other purpose.
 
-(Pub. L. 92–181, title III, § 3.1, Dec. 10, 1971, 85 Stat. 602; Pub. L. 96–592, title III, § 301, Dec. 24, 1980, 94 Stat. 3443; Pub. L. 99–205, title II, § 205(e)(1), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, § 802(n), Jan. 6, 1988, 101 Stat. 1712; Pub. L. 100–399, title IX, § 901(b), Aug. 17, 1988, 102 Stat. 1007; Pub. L. 102–552, title V, § 502, Oct. 28, 1992, 106 Stat. 4130; Pub. L. 103–376, §§ 2, 6, Oct. 19, 1994, 108 Stat. 3497, 3500; Pub. L. 107–171, title V, § 5401(a), May 13, 2002, 116 Stat. 349.)
+(Pub. L. 92–181, title III, § 3.1, Dec. 10, 1971, 85 Stat. 602; Pub. L. 96–592, title III, § 301, Dec. 24, 1980, 94 Stat. 3443; Pub. L. 99–205, title II, § 205(e)(1), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, § 802(n), Jan. 6, 1988, 101 Stat. 1712; Pub. L. 100–399, title IX, § 901(b), Aug. 17, 1988, 102 Stat. 1007; Pub. L. 102–552, title V, § 502, Oct. 28, 1992, 106 Stat. 4130; Pub. L. 103–376, §§ 2, 6, Oct. 19, 1994, 108 Stat. 3497, 3500; Pub. L. 107–171, title V, § 5401(a), May 13, 2002, 116 Stat. 349.)
 
 **Editorial Notes**
 
@@ -2099,9 +2099,9 @@ Each bank for cooperatives shall be a body corporate and, subject to regulation 
 
 2002—Par. (11)(B)(iii), (iv). Pub. L. 107–171 redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “With respect to similar entities that are eligible to borrow from a Farm Credit Bank or association under subchapter I or II of this chapter, the authority of a bank for cooperatives to participate in loans to the entities under this subparagraph shall be subject to the prior approval of the Farm Credit Bank or Banks in whose chartered territory the entity is eligible to borrow. The approval may be granted on an annual basis and under such terms and conditions as may be agreed on between the bank for cooperatives and the Farm Credit Bank or Banks that serve the territory.”
 
-1994—Par. (11)(B)(i)(I)(bb). Pub. L. 103–376, § 6, substituted “other Farm Credit System institutions” for “the other banks for cooperatives under this subparagraph” and “all Farm Credit System institutions” for “all banks for cooperatives”.
+1994—Par. (11)(B)(i)(I)(bb). Pub. L. 103–376, § 6, substituted “other Farm Credit System institutions” for “the other banks for cooperatives under this subparagraph” and “all Farm Credit System institutions” for “all banks for cooperatives”.
 
-Par. (11)(B)(iv). Pub. L. 103–376, § 2, added cl. (iv).
+Par. (11)(B)(iv). Pub. L. 103–376, § 2, added cl. (iv).
 
 1992—Par. (11). Pub. L. 102–552 designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -2115,13 +2115,13 @@ Par. (13)(A). Pub. L. 99–205 inserted “under regulations issued” after “
 
 Pars. (16) to (19). Pub. L. 99–205 struck out par. (16) respecting power of bank for cooperatives to perform any function delegated to it by the Farm Credit Administration, and redesignated pars. (17) to (19) as (16) to (18), respectively.
 
-1980—Par. (11). Pub. L. 96–592, § 301(1), inserted provisions respecting participation with one or more other Farm Credit System institutions in loans.
+1980—Par. (11). Pub. L. 96–592, § 301(1), inserted provisions respecting participation with one or more other Farm Credit System institutions in loans.
 
-Par. (12). Pub. L. 96–592, § 301(2), inserted applicability to any insured State nonmember bank and to other domestic or foreign financial organizations.
+Par. (12). Pub. L. 96–592, § 301(2), inserted applicability to any insured State nonmember bank and to other domestic or foreign financial organizations.
 
-Par. (13). Pub. L. 96–592, § 301(3), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+Par. (13). Pub. L. 96–592, § 301(3), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-Pars. (18), (19). Pub. L. 96–592, § 301(4), added pars. (18) and (19).
+Pars. (18), (19). Pub. L. 96–592, § 301(4), added pars. (18) and (19).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2133,7 +2133,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2123. Board of directors
+#### § 2123. Board of directors
 
 **(a) In general**
 
@@ -2151,21 +2151,21 @@ Each bank for cooperatives shall elect a board of directors of such number, for 
 
 The total number of votes under this subsection shall be the number of voting stockholders of a bank for cooperatives multiplied by two.
 
-(Pub. L. 92–181, title III, § 3.2, Dec. 10, 1971, 85 Stat. 603; Pub. L. 99–205, title II, § 205(e)(2), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–399, title IX, § 901(d), Aug. 17, 1988, 102 Stat. 1007; Pub. L. 102–552, title V, § 503, Oct. 28, 1992, 106 Stat. 4130; Pub. L. 115–334, title V, § 5411(5), Dec. 20, 2018, 132 Stat. 4679.)
+(Pub. L. 92–181, title III, § 3.2, Dec. 10, 1971, 85 Stat. 603; Pub. L. 99–205, title II, § 205(e)(2), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–399, title IX, § 901(d), Aug. 17, 1988, 102 Stat. 1007; Pub. L. 102–552, title V, § 503, Oct. 28, 1992, 106 Stat. 4130; Pub. L. 115–334, title V, § 5411(5), Dec. 20, 2018, 132 Stat. 4679.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–334, § 5411(5)(B), (C), redesignated subsec. (a)(1) as (a) and subsec. (a)(2) as (b), inserted headings, and struck out former subsec. (b) which read as follows: “The board of directors of the Central Bank for Cooperatives shall consist of one member elected by the board of each bank for cooperatives, including the United Bank for Cooperatives if the Central Bank for Cooperatives is not merged into such bank, and one member appointed by the Farm Credit Administration.”
+2018—Pub. L. 115–334, § 5411(5)(B), (C), redesignated subsec. (a)(1) as (a) and subsec. (a)(2) as (b), inserted headings, and struck out former subsec. (b) which read as follows: “The board of directors of the Central Bank for Cooperatives shall consist of one member elected by the board of each bank for cooperatives, including the United Bank for Cooperatives if the Central Bank for Cooperatives is not merged into such bank, and one member appointed by the Farm Credit Administration.”
 
-Subsec. (a)(1). Pub. L. 115–334, § 5411(5)(A)(i), struck out “not merged into the United Bank for Cooperatives or the National Bank for Cooperatives” after “Each bank for cooperatives”.
+Subsec. (a)(1). Pub. L. 115–334, § 5411(5)(A)(i), struck out “not merged into the United Bank for Cooperatives or the National Bank for Cooperatives” after “Each bank for cooperatives”.
 
-Subsec. (a)(2)(A). Pub. L. 115–334, § 5411(5)(A)(ii), struck out “(other than the National Bank for Cooperatives)” after “a bank for cooperatives” in introductory provisions.
+Subsec. (a)(2)(A). Pub. L. 115–334, § 5411(5)(A)(ii), struck out “(other than the National Bank for Cooperatives)” after “a bank for cooperatives” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 115–334, § 5411(5)(C)(ii), (D)(ii), redesignated subsec. (a)(2)(A) and cls. (i) and (ii) thereof as subsec. (b)(1) and subpars. (A) and (B) thereof, respectively, inserted par. heading, and realigned margins.
+Subsec. (b)(1). Pub. L. 115–334, § 5411(5)(C)(ii), (D)(ii), redesignated subsec. (a)(2)(A) and cls. (i) and (ii) thereof as subsec. (b)(1) and subpars. (A) and (B) thereof, respectively, inserted par. heading, and realigned margins.
 
-Subsec. (b)(2). Pub. L. 115–334, § 5411(5)(D)(i), (E), redesignated subsec. (a)(2)(B) as subsec. (b)(2), inserted heading, and substituted “this subsection” for “this paragraph”.
+Subsec. (b)(2). Pub. L. 115–334, § 5411(5)(D)(i), (E), redesignated subsec. (a)(2)(B) as subsec. (b)(2), inserted heading, and substituted “this subsection” for “this paragraph”.
 
 1992—Subsec. (a). Pub. L. 102–552 designated existing provisions as par. (1) and added par. (2).
 
@@ -2185,7 +2185,7 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2124. Stock of banks for cooperatives
+#### § 2124. Stock of banks for cooperatives
 
 **(a) Amount**
 
@@ -2197,9 +2197,9 @@ The capital stock of each bank shall be divided into shares of par value of $100
 
 **(c) Eligible holders of voting stock**
 
-Voting stock may be issued or transferred to and held only by (i) cooperative associations eligible to borrow from the banks 1
+Voting stock may be issued or transferred to and held only by (i) cooperative associations eligible to borrow from the banks 1
 
-<sup>1</sup>  So in original. There probably should be a semicolon after “banks”.
+<sup>1</sup> So in original. There probably should be a semicolon after “banks”.
 
 (ii) other categories of persons and entities described in sections 2128 and 2129 of this title eligible to borrow from the bank, as determined by the bank’s board of directors; and (iii) other banks for cooperatives, and shall not be otherwise transferred, pledged, or hypothecated except as consented to by the issuing bank under regulations of the Farm Credit Administration.
 
@@ -2215,7 +2215,7 @@ Nonvoting investment stock may be issued in such series and in such amounts as m
 
 Participation certificates may be issued to parties to whom voting stock may not be issued.
 
-(Pub. L. 92–181, title III, § 3.3, Dec. 10, 1971, 85 Stat. 603; Pub. L. 96–592, title III, § 302, Dec. 24, 1980, 94 Stat. 3443; Pub. L. 99–205, title II, § 205(e)(3), (4), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, §§ 802(*o*), 805(k), Jan. 6, 1988, 101 Stat. 1712, 1715; Pub. L. 110–234, title V, §§ 5402, 5403(a), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, § 4(a), title V, §§ 5402, 5403(a), June 18, 2008, 122 Stat. 1664, 1915.)
+(Pub. L. 92–181, title III, § 3.3, Dec. 10, 1971, 85 Stat. 603; Pub. L. 96–592, title III, § 302, Dec. 24, 1980, 94 Stat. 3443; Pub. L. 99–205, title II, § 205(e)(3), (4), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, §§ 802(*o*), 805(k), Jan. 6, 1988, 101 Stat. 1712, 1715; Pub. L. 110–234, title V, §§ 5402, 5403(a), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, § 4(a), title V, §§ 5402, 5403(a), June 18, 2008, 122 Stat. 1664, 1915.)
 
 **Editorial Notes**
 
@@ -2225,21 +2225,21 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (b). Pub. L. 110–246, § 5402, which directed substitution of “par” for “per”, could not be executed because “per” did not appear.
+2008—Subsec. (b). Pub. L. 110–246, § 5402, which directed substitution of “par” for “per”, could not be executed because “per” did not appear.
 
-Subsec. (c)(ii), (iii). Pub. L. 110–246, § 5403(a), added cl. (ii) and redesignated former cl. (ii) as (iii).
+Subsec. (c)(ii), (iii). Pub. L. 110–246, § 5403(a), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-1988—Subsec. (a). Pub. L. 100–233, § 802(*o*)(1), struck out “, with the approval of Farm Credit Administration,” after “board determines”.
+1988—Subsec. (a). Pub. L. 100–233, § 802(*o*)(1), struck out “, with the approval of Farm Credit Administration,” after “board determines”.
 
-Subsec. (b). Pub. L. 100–233, § 802(*o*)(2), struck out “with the approval of the Farm Credit Administration” after “board may determine”.
+Subsec. (b). Pub. L. 100–233, § 802(*o*)(2), struck out “with the approval of the Farm Credit Administration” after “board may determine”.
 
-Subsec. (d). Pub. L. 100–233, § 805(k), substituted “by” for “by by” after “regulations issued”.
+Subsec. (d). Pub. L. 100–233, § 805(k), substituted “by” for “by by” after “regulations issued”.
 
-Subsec. (e). Pub. L. 100–233, § 802(*o*)(3), struck out “and approved by the Farm Credit Administration” after “Board”.
+Subsec. (e). Pub. L. 100–233, § 802(*o*)(3), struck out “and approved by the Farm Credit Administration” after “Board”.
 
-1985—Subsec. (d). Pub. L. 99–205, § 205(e)(3), inserted “under regulations issued by” after “authorized”.
+1985—Subsec. (d). Pub. L. 99–205, § 205(e)(3), inserted “under regulations issued by” after “authorized”.
 
-Subsec. (e). Pub. L. 99–205, § 205(e)(4), struck out “, except for stock held by the Governor,” before “may be exchanged”.
+Subsec. (e). Pub. L. 99–205, § 205(e)(4), struck out “, except for stock held by the Governor,” before “may be exchanged”.
 
 1980—Subsec. (f). Pub. L. 96–592 added subsec. (f).
 
@@ -2253,11 +2253,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2125. Dividends
+#### § 2125. Dividends
 
 Dividends may be payable only on nonvoting investment stock, if declared by the board of directors of the bank, subject to the general direction of the Farm Credit Administration.
 
-(Pub. L. 92–181, title III, § 3.4, Dec. 10, 1971, 85 Stat. 604; Pub. L. 99–205, title II, § 205(e)(5), title VI, § 606, Dec. 23, 1985, 99 Stat. 1705, 1711; Pub. L. 100–233, title VIII, § 805(*l*), Jan. 6, 1988, 101 Stat. 1715.)
+(Pub. L. 92–181, title III, § 3.4, Dec. 10, 1971, 85 Stat. 604; Pub. L. 99–205, title II, § 205(e)(5), title VI, § 606, Dec. 23, 1985, 99 Stat. 1705, 1711; Pub. L. 100–233, title VIII, § 805(*l*), Jan. 6, 1988, 101 Stat. 1715.)
 
 **Editorial Notes**
 
@@ -2265,7 +2265,7 @@ Dividends may be payable only on nonvoting investment stock, if declared by the 
 
 1988—Pub. L. 100–233 struck out “other than stock held by the Farm Credit Administration,” after “investment stock,”.
 
-1985—Pub. L. 99–205 struck out “the Governor of” before “the Farm Credit Administration” and inserted “, subject to the general direction of the Farm Credit Administration”.
+1985—Pub. L. 99–205 struck out “the Governor of” before “the Farm Credit Administration” and inserted “, subject to the general direction of the Farm Credit Administration”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2273,11 +2273,11 @@ Dividends may be payable only on nonvoting investment stock, if declared by the 
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2126. Retirement of stock
+#### § 2126. Retirement of stock
 
 Nonvoting investment stock and participation certificates may be called for retirement at par. With the approval of the issuing bank, the holder may elect not to have the called stock or participation certificates retired in response to a call, reserving the right to have such stock or participation certificates included in the next call for retirement. Voting stock may also be retired at par, on call or on such revolving basis as the board may determine with due regard for its total capital needs: *Provided, however*, That all equities in the banks issued or allocated with respect to 1971 and prior years shall be retired on a revolving basis according to the year of issue with the oldest outstanding equities being first retired. Equities issued for subsequent years shall not be called or retired until equities described in the preceding sentence of this proviso have been retired.
 
-(Pub. L. 92–181, title III, § 3.5, Dec. 10, 1971, 85 Stat. 604; Pub. L. 96–592, title III, § 303, Dec. 24, 1980, 94 Stat. 3444; Pub. L. 99–205, title II, § 205(e)(6), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, § 802(p), Jan. 6, 1988, 101 Stat. 1712; Pub. L. 115–334, title V, § 5411(6), Dec. 20, 2018, 132 Stat. 4679.)
+(Pub. L. 92–181, title III, § 3.5, Dec. 10, 1971, 85 Stat. 604; Pub. L. 96–592, title III, § 303, Dec. 24, 1980, 94 Stat. 3444; Pub. L. 99–205, title II, § 205(e)(6), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, § 802(p), Jan. 6, 1988, 101 Stat. 1712; Pub. L. 115–334, title V, § 5411(6), Dec. 20, 2018, 132 Stat. 4679.)
 
 **Editorial Notes**
 
@@ -2297,13 +2297,13 @@ Nonvoting investment stock and participation certificates may be called for reti
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2127. Guaranty fund subscriptions in lieu of stock
+#### § 2127. Guaranty fund subscriptions in lieu of stock
 
 If any cooperative association is not authorized under the laws of the State in which it is organized to take and hold stock in a bank for cooperatives, the bank shall, in lieu of any requirement for stock purchase, require the association to pay into or have on deposit in a guaranty fund, or the bank may retain out of the amount of the loan and credit to the guaranty fund account of the borrower, a sum equal to the amount of stock which the association would otherwise be required to own. Each reference to stock of the banks for cooperatives in this chapter shall include such guaranty fund equivalents. The holder of the guaranty fund equivalent and the bank shall each be entitled to the same rights and obligations with respect thereto as the rights and obligations associated with the class or classes of stock involved.
 
-(Pub. L. 92–181, title III, § 3.6, Dec. 10, 1971, 85 Stat. 604.)
+(Pub. L. 92–181, title III, § 3.6, Dec. 10, 1971, 85 Stat. 604.)
 
-#### § 2128. Loans, commitments, and technical and financial assistance
+#### § 2128. Loans, commitments, and technical and financial assistance
 
 **(a) Authorities**
 
@@ -2363,7 +2363,7 @@ Notwithstanding any other provision of this subchapter, the banks for cooperativ
 
 For purposes of this subsection, the term “rural area” means all territory of a State that is not within the outer boundary of any city or town having a population of more than 20,000 based on the latest decennial census of the United States.
 
-(Pub. L. 92–181, title III, § 3.7, Dec. 10, 1971, 85 Stat. 605; Pub. L. 96–592, title III, § 304, Dec. 24, 1980, 94 Stat. 3444; Pub. L. 101–624, title XXIII, § 2323(a), Nov. 28, 1990, 104 Stat. 4013; Pub. L. 102–237, title V, § 502(e)(1), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 102–552, title V, §§ 504, 505, Oct. 28, 1992, 106 Stat. 4131; Pub. L. 103–376, § 3, Oct. 19, 1994, 108 Stat. 3497; Pub. L. 107–171, title V, § 5402, May 13, 2002, 116 Stat. 350; Pub. L. 115–334, title V, § 5411(7), Dec. 20, 2018, 132 Stat. 4679.)
+(Pub. L. 92–181, title III, § 3.7, Dec. 10, 1971, 85 Stat. 605; Pub. L. 96–592, title III, § 304, Dec. 24, 1980, 94 Stat. 3444; Pub. L. 101–624, title XXIII, § 2323(a), Nov. 28, 1990, 104 Stat. 4013; Pub. L. 102–237, title V, § 502(e)(1), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 102–552, title V, §§ 504, 505, Oct. 28, 1992, 106 Stat. 4131; Pub. L. 103–376, § 3, Oct. 19, 1994, 108 Stat. 3497; Pub. L. 107–171, title V, § 5402, May 13, 2002, 116 Stat. 350; Pub. L. 115–334, title V, § 5411(7), Dec. 20, 2018, 132 Stat. 4679.)
 
 **Editorial Notes**
 
@@ -2371,13 +2371,13 @@ For purposes of this subsection, the term “rural area” means all territory o
 
 2018—Subsec. (a). Pub. L. 115–334 struck out “Such regulations may include provisions for avoiding duplication between the Central Bank and district banks for cooperatives.” before “Each bank may own”.
 
-2002—Subsec. (b)(1), (2)(A)(i). Pub. L. 107–171, § 5402(1), substituted “agricultural supplies” for “farm supplies”.
+2002—Subsec. (b)(1), (2)(A)(i). Pub. L. 107–171, § 5402(1), substituted “agricultural supplies” for “farm supplies”.
 
-Subsec. (b)(4). Pub. L. 107–171, § 5402(2), added par. (4).
+Subsec. (b)(4). Pub. L. 107–171, § 5402(2), added par. (4).
 
-1994—Subsec. (b)(1). Pub. L. 103–376, § 3(A), substituted “assistance to” for “assistance to (A)”, “bank for the import” for “bank for the export or import”, and “if the bank for cooperatives” for “and (B) a domestic or foreign party in which such an association has at least the minimum ownership interest approved under regulations of the Farm Credit Administration for the purpose of facilitating the association’s export or import operations of the type described in subparagraph (A): *Provided*, That a”.
+1994—Subsec. (b)(1). Pub. L. 103–376, § 3(A), substituted “assistance to” for “assistance to (A)”, “bank for the import” for “bank for the export or import”, and “if the bank for cooperatives” for “and (B) a domestic or foreign party in which such an association has at least the minimum ownership interest approved under regulations of the Farm Credit Administration for the purpose of facilitating the association’s export or import operations of the type described in subparagraph (A): *Provided*, That a”.
 
-Subsec. (b)(2). Pub. L. 103–376, § 3(B), added par. (2) and struck out former par. (2) which read as follows: “A bank for cooperatives is authorized to make or participate in loans and commitments, and to extend other technical and financial assistance, to any domestic or foreign entity that is eligible for a guarantee or insurance as described in subparagraphs (A) and (B) with respect to transactions involving the Soviet Union (its successor entities or any of the individual republics of the Soviet Union) or an emerging democracy (as defined in section 1542(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5622 note)) for the export of agricultural commodities and products thereof from the United States, including (where applicable) the cost of freight, if in each case—
+Subsec. (b)(2). Pub. L. 103–376, § 3(B), added par. (2) and struck out former par. (2) which read as follows: “A bank for cooperatives is authorized to make or participate in loans and commitments, and to extend other technical and financial assistance, to any domestic or foreign entity that is eligible for a guarantee or insurance as described in subparagraphs (A) and (B) with respect to transactions involving the Soviet Union (its successor entities or any of the individual republics of the Soviet Union) or an emerging democracy (as defined in section 1542(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5622 note)) for the export of agricultural commodities and products thereof from the United States, including (where applicable) the cost of freight, if in each case—
 
 “(A) the loan involved is unconditionally guaranteed or insured by a department, agency, bureau, board, commission, or establishment of the United States or any corporation wholly owned directly or indirectly by the United States; and
 
@@ -2387,9 +2387,9 @@ Subsec. (b)(2). Pub. L. 103–376, § 3(B), added par. (2) and struck out form
 
 “(ii) is issued on or before September 30, 1995.”
 
-1992—Subsec. (a). Pub. L. 102–552, § 504, inserted “at any time (whether or not they have a loan from the bank outstanding)” after “assistance” in first sentence.
+1992—Subsec. (a). Pub. L. 102–552, § 504, inserted “at any time (whether or not they have a loan from the bank outstanding)” after “assistance” in first sentence.
 
-Subsec. (f). Pub. L. 102–552, § 505, in introductory provisions, substituted “installing, maintaining, expanding, improving, or operating” for “the installation, expansion, or improvement of” and “extending” for “to extend”.
+Subsec. (f). Pub. L. 102–552, § 505, in introductory provisions, substituted “installing, maintaining, expanding, improving, or operating” for “the installation, expansion, or improvement of” and “extending” for “to extend”.
 
 1991—Subsec. (b). Pub. L. 102–237 designated existing provisions as par. (1), redesignated cl. (1) as (A) and inserted “or products thereof” after “commodities”, redesignated cl. (2) as (B) and substituted “subparagraph (A)” for “clause (1) of this subsection”, and added pars. (2) and (3).
 
@@ -2401,9 +2401,9 @@ Subsec. (f). Pub. L. 102–552, § 505, in introductory provisions, substitute
 
 **Funding To Be Consistent With Other Laws**
 
-Pub. L. 118–42, div. B, title VII, § 757, Mar. 9, 2024, 138 Stat. 114, provided that: “In this fiscal year and each fiscal year thereafter, and notwithstanding any other provision of law, none of the funds made available by this or any other Act may be used to implement section 3.7(f) of the Farm Credit Act of 1971 [12 U.S.C. 2128(f)] in a manner inconsistent with section 343(a)(13) of the Consolidated Farm and Rural Development Act [7 U.S.C. 1991(a)(13)].”
+Pub. L. 118–42, div. B, title VII, § 757, Mar. 9, 2024, 138 Stat. 114, provided that: “In this fiscal year and each fiscal year thereafter, and notwithstanding any other provision of law, none of the funds made available by this or any other Act may be used to implement section 3.7(f) of the Farm Credit Act of 1971 [12 U.S.C. 2128(f)] in a manner inconsistent with section 343(a)(13) of the Consolidated Farm and Rural Development Act [7 U.S.C. 1991(a)(13)].”
 
-#### § 2129. Eligibility
+#### § 2129. Eligibility
 
 **(a)** Any association of farmers, producers or harvesters of aquatic products, or any federation of such associations, which is operated on a cooperative basis, and has the powers for processing, preparing for market, handling, or marketing farm or aquatic products; or for purchasing, testing, grading, processing, distributing, or furnishing farm or aquatic supplies or furnishing farm or aquatic business services or services to eligible cooperatives and conforms to either of the two following requirements:
 
@@ -2435,51 +2435,51 @@ shall be eligible to borrow from a bank for cooperatives. Any such association t
 
 **(4)** Nothing in this subsection shall be construed to adversely affect the eligibility, as it existed on January 6, 1988, of cooperatives and other entities for any other credit assistance under Federal law.
 
-(Pub. L. 92–181, title III, § 3.8, Dec. 10, 1971, 85 Stat. 605; Pub. L. 94–184, § 1(a), Dec. 31, 1975, 89 Stat. 1060; Pub. L. 96–592, title III, § 305, Dec. 24, 1980, 94 Stat. 3445; Pub. L. 99–198, title XIII, § 1322, Dec. 23, 1985, 99 Stat. 1534; Pub. L. 100–233, title IV, § 421, title VIII, § 805(m), Jan. 6, 1988, 101 Stat. 1654, 1715; Pub. L. 100–399, title IV, § 410, title IX, § 901(e), Aug. 17, 1988, 102 Stat. 1003, 1007; Pub. L. 101–624, title XXIII, § 2323(b), Nov. 28, 1990, 104 Stat. 4013; Pub. L. 102–237, title V, § 502(e)(2), (f), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title V, § 506, Oct. 28, 1992, 106 Stat. 4131; Pub. L. 103–376, § 4, Oct. 19, 1994, 108 Stat. 3498; Pub. L. 104–105, title II, §§ 204, 205, Feb. 10, 1996, 110 Stat. 172; Pub. L. 115–334, title V, § 5411(8), title VI, § 6602(b)(17), Dec. 20, 2018, 132 Stat. 4680, 4777.)
+(Pub. L. 92–181, title III, § 3.8, Dec. 10, 1971, 85 Stat. 605; Pub. L. 94–184, § 1(a), Dec. 31, 1975, 89 Stat. 1060; Pub. L. 96–592, title III, § 305, Dec. 24, 1980, 94 Stat. 3445; Pub. L. 99–198, title XIII, § 1322, Dec. 23, 1985, 99 Stat. 1534; Pub. L. 100–233, title IV, § 421, title VIII, § 805(m), Jan. 6, 1988, 101 Stat. 1654, 1715; Pub. L. 100–399, title IV, § 410, title IX, § 901(e), Aug. 17, 1988, 102 Stat. 1003, 1007; Pub. L. 101–624, title XXIII, § 2323(b), Nov. 28, 1990, 104 Stat. 4013; Pub. L. 102–237, title V, § 502(e)(2), (f), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title V, § 506, Oct. 28, 1992, 106 Stat. 4131; Pub. L. 103–376, § 4, Oct. 19, 1994, 108 Stat. 3498; Pub. L. 104–105, title II, §§ 204, 205, Feb. 10, 1996, 110 Stat. 172; Pub. L. 115–334, title V, § 5411(8), title VI, § 6602(b)(17), Dec. 20, 2018, 132 Stat. 4680, 4777.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rural Electrification Act of 1936, referred to in subsec. (b)(1)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (b)(1)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
 
 **Amendments**
 
-2018—Subsec. (b)(1)(A). Pub. L. 115–334, § 6602(b)(17), struck out “or a loan or loan commitment from the Rural Telephone Bank,” before “or that are eligible”.
+2018—Subsec. (b)(1)(A). Pub. L. 115–334, § 6602(b)(17), struck out “or a loan or loan commitment from the Rural Telephone Bank,” before “or that are eligible”.
 
-Pub. L. 115–334, § 5411(8), inserted “(or any successor agency)” after “Rural Electrification Administration”.
+Pub. L. 115–334, § 5411(8), inserted “(or any successor agency)” after “Rural Electrification Administration”.
 
-1996—Subsec. (a). Pub. L. 104–105, § 204(a), inserted at end “Any such association that has received a loan from a bank for cooperatives shall, without regard to the requirements of paragraphs (1) through (4), continue to be eligible for so long as more than 50 percent (or such higher percentage as is established by the bank board) of the voting control of the association is held by farmers, producers or harvesters of aquatic products, or eligible cooperative associations.”
+1996—Subsec. (a). Pub. L. 104–105, § 204(a), inserted at end “Any such association that has received a loan from a bank for cooperatives shall, without regard to the requirements of paragraphs (1) through (4), continue to be eligible for so long as more than 50 percent (or such higher percentage as is established by the bank board) of the voting control of the association is held by farmers, producers or harvesters of aquatic products, or eligible cooperative associations.”
 
-Subsec. (b)(1)(A). Pub. L. 104–105, § 205, substituted “are eligible under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.) for” for “have been certified by the Administrator of the Rural Electrification Administration to be eligible for such” and “loan guarantee from the Administration or the Bank (or a successor of the Administration or the Bank), and” for “loan guarantee, and”.
+Subsec. (b)(1)(A). Pub. L. 104–105, § 205, substituted “are eligible under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.) for” for “have been certified by the Administrator of the Rural Electrification Administration to be eligible for such” and “loan guarantee from the Administration or the Bank (or a successor of the Administration or the Bank), and” for “loan guarantee, and”.
 
-Subsec. (b)(1)(D). Pub. L. 104–105, § 204(b), substituted “and (4), or under the last sentence, of subsection (a)” for “and (4) of subsection (a)”.
+Subsec. (b)(1)(D). Pub. L. 104–105, § 204(b), substituted “and (4), or under the last sentence, of subsection (a)” for “and (4) of subsection (a)”.
 
 1994—Subsec. (b)(1)(B) to (E). Pub. L. 103–376 redesignated subpars. (C) to (E) as (B) to (D), respectively, realigned margin of subpar. (D), and struck out former subpar. (B) which read as follows: “Any legal entity more than 50 percent of the voting control of which is held by one or more associations or other entities that are eligible to borrow from a bank for cooperatives under subsection (a) of this section or subparagraph (A) of this paragraph, except that any such legal entity, when considered together with one or more such associations or other entities that hold such control, meet the requirement of subsection (a)(3) of this section.”
 
 1992—Subsec. (b)(1)(E). Pub. L. 102–552 added subpar. (E).
 
-1991—Subsec. (a)(4). Pub. L. 102–237, § 502(f)(1), substituted “a percentage” for “A percentage”.
+1991—Subsec. (a)(4). Pub. L. 102–237, § 502(f)(1), substituted “a percentage” for “A percentage”.
 
-Subsec. (b)(1)(D). Pub. L. 102–237, § 502(e)(2), (f)(2), substituted “subsection (b) or (f) of section 2128 of this title” for “section 2128(f) of this title” and realigned margin of subpar. (D).
+Subsec. (b)(1)(D). Pub. L. 102–237, § 502(e)(2), (f)(2), substituted “subsection (b) or (f) of section 2128 of this title” for “section 2128(f) of this title” and realigned margin of subpar. (D).
 
 1990—Subsec. (b)(1)(D). Pub. L. 101–624 added subpar. (D).
 
-1988—Pub. L. 100–399, § 901(e), substituted “bank board” for “district board” in subsec. (a)(4).
+1988—Pub. L. 100–399, § 901(e), substituted “bank board” for “district board” in subsec. (a)(4).
 
-Pub. L. 100–399, § 410, substituted “makes” for “make” in subsec. (b)(1)(C).
+Pub. L. 100–399, § 410, substituted “makes” for “make” in subsec. (b)(1)(C).
 
-Pub. L. 100–233, § 805(m), redesignated subsec. (1) as subsec. (a) and pars. (a) to (d) as pars. (1) to (4), respectively, in par. (4) redesignated cls. (1) to (3) as (A) to (C), respectively, and in cl. (C) substituted “paragraph (B)” for “paragraph (2)”.
+Pub. L. 100–233, § 805(m), redesignated subsec. (1) as subsec. (a) and pars. (a) to (d) as pars. (1) to (4), respectively, in par. (4) redesignated cls. (1) to (3) as (A) to (C), respectively, and in cl. (C) substituted “paragraph (B)” for “paragraph (2)”.
 
-Pub. L. 100–233, § 421, added subsec. (b) and struck out former subsec. (2) which read as follows: “Notwithstanding any other provision of this subchapter, cooperatives and other entities that have received a loan, loan commitment, or loan guarantee from the Rural Electrification Administration, or a loan or loan commitment from the Rural Telephone Bank, or that have been certified by the Administrator of the Rural Electrification Administration to be eligible for such a loan, loan commitment, or loan guarantee, and subsidiaries of such cooperatives or other entities, shall also be eligible to borrow from a bank for cooperatives.”
+Pub. L. 100–233, § 421, added subsec. (b) and struck out former subsec. (2) which read as follows: “Notwithstanding any other provision of this subchapter, cooperatives and other entities that have received a loan, loan commitment, or loan guarantee from the Rural Electrification Administration, or a loan or loan commitment from the Rural Telephone Bank, or that have been certified by the Administrator of the Rural Electrification Administration to be eligible for such a loan, loan commitment, or loan guarantee, and subsidiaries of such cooperatives or other entities, shall also be eligible to borrow from a bank for cooperatives.”
 
-1985—Pub. L. 99–198, § 1322(1), designated existing provisions as subsec. (1) and added subsec. (2).
+1985—Pub. L. 99–198, § 1322(1), designated existing provisions as subsec. (1) and added subsec. (2).
 
-1980—Pub. L. 96–592, § 305(1), inserted reference to aquatic business in introductory text.
+1980—Pub. L. 96–592, § 305(1), inserted reference to aquatic business in introductory text.
 
-Subsec. (c). Pub. L. 96–592, § 305(2), inserted reference to aquatic business services or services to eligible cooperatives.
+Subsec. (c). Pub. L. 96–592, § 305(2), inserted reference to aquatic business services or services to eligible cooperatives.
 
-Subsec. (d). Pub. L. 96–592, § 305(3), substituted “60” for “70”, and designated former parenthetical material as item (1), and added items (2) and (3) and limitation with respect to any type of association or cooperative.
+Subsec. (d). Pub. L. 96–592, § 305(3), substituted “60” for “70”, and designated former parenthetical material as item (1), and added items (2) and (3) and limitation with respect to any type of association or cooperative.
 
 1975—Subsec. (d). Pub. L. 94–184 inserted provision relating to 70 per centum of voting control in the case of rural electric, telephone, and public utility cooperatives.
 
@@ -2493,13 +2493,13 @@ Amendment by section 502(f) of Pub. L. 102–237 effective as if included in the
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2130. Ownership of stock by borrowers
+#### § 2130. Ownership of stock by borrowers
 
 **(a)** Each borrower entitled to hold voting stock shall, at the time a loan is made by a bank for cooperatives, own at least one share of voting stock and shall be required by the bank to invest in additional voting stock or nonvoting investment stock at that time, or from time to time, as the lending bank may determine, but the requirement for investment in stock at the time the loan is closed shall not exceed an amount equal to 10 per centum of the face amount of the loan. Such additional ownership requirements may be based on the face amount of the loan, the outstanding loan balance or on a percentage of the interest payable by the borrower during any year or during any quarter thereof, or upon such other basis as the bank determines will provide adequate capital for the operation of the bank and equitable ownership thereof among borrowers.
 
 **(b)** Notwithstanding the provisions of subsection (a) of this section, the purchase of stock need not be required with respect to that part of any loan made by a bank for cooperatives which it sells to or makes in participation with financial institutions other than any of the banks for cooperatives. In such cases the distribution of earnings of the bank for cooperatives shall be on the basis of the interest in the loan retained by such bank.
 
-(Pub. L. 92–181 title III, § 3.9, Dec. 10, 1971, 85 Stat. 605; Pub. L. 96–592, title III, § 306, Dec. 24, 1980, 94 Stat. 3445; Pub. L. 100–233, title VIII, § 802(q), Jan. 6, 1988, 101 Stat. 1712; Pub. L. 115–334, title V, § 5411(9), Dec. 20, 2018, 132 Stat. 4680.)
+(Pub. L. 92–181 title III, § 3.9, Dec. 10, 1971, 85 Stat. 605; Pub. L. 96–592, title III, § 306, Dec. 24, 1980, 94 Stat. 3445; Pub. L. 100–233, title VIII, § 802(q), Jan. 6, 1988, 101 Stat. 1712; Pub. L. 115–334, title V, § 5411(9), Dec. 20, 2018, 132 Stat. 4680.)
 
 **Editorial Notes**
 
@@ -2511,7 +2511,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 1980—Subsec. (a). Pub. L. 96–592 inserted provisions respecting entitlement to hold voting stock.
 
-#### § 2131. Loans
+#### § 2131. Loans
 
 **(a) Interest rates and charges**
 
@@ -2529,23 +2529,23 @@ Each bank for cooperatives shall have a first lien on all stock or other equitie
 
 In any case where the debt of a borrower is in default, or in any case of liquidation or dissolution of a present or former borrower from a bank for cooperatives, the bank may, but shall not be required to, retire and cancel all or a part of the stock, allocated surplus or contingency reserves, or any other equity in the bank owned by or allocated to such borrower, at the fair market value thereof not exceeding par, and, to the extent required in such cases, corresponding shares and allocations and other equity interests held by a bank in another bank for cooperatives (or any successor bank) on account of such indebtedness, shall be retired or equitably adjusted. In no event shall the bank’s equities be retired or canceled if the retirement or cancellation would adversely affect the bank’s capital structure, as determined by the Farm Credit Administration.
 
-(Pub. L. 92–181, title III, § 3.10, Dec. 10, 1971, 85 Stat. 606; Pub. L. 96–592, title III, § 307, Dec. 24, 1980, 94 Stat. 3445; Pub. L. 99–509, title I, § 1033(c), Oct. 21, 1986, 100 Stat. 1877; Pub. L. 115–334, title V, § 5411(10), Dec. 20, 2018, 132 Stat. 4680.)
+(Pub. L. 92–181, title III, § 3.10, Dec. 10, 1971, 85 Stat. 606; Pub. L. 96–592, title III, § 307, Dec. 24, 1980, 94 Stat. 3445; Pub. L. 99–509, title I, § 1033(c), Oct. 21, 1986, 100 Stat. 1877; Pub. L. 115–334, title V, § 5411(10), Dec. 20, 2018, 132 Stat. 4680.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (c). Pub. L. 115–334, § 5411(10)(A), struck out at end “In the case of a direct loan to an eligible cooperative by the Central Bank, the Central Bank shall have a first lien on the stock and equities of the borrower in the district bank and the district bank shall have a lien thereon junior only to the lien of the Central Bank.”
+2018—Subsec. (c). Pub. L. 115–334, § 5411(10)(A), struck out at end “In the case of a direct loan to an eligible cooperative by the Central Bank, the Central Bank shall have a first lien on the stock and equities of the borrower in the district bank and the district bank shall have a lien thereon junior only to the lien of the Central Bank.”
 
-Subsec. (d). Pub. L. 115–334, § 5411(10)(B), substituted “held by a bank in another bank for cooperatives (or any successor bank) on account of such indebtedness” for “held by a district bank in another district bank on account of such indebtedness”.
+Subsec. (d). Pub. L. 115–334, § 5411(10)(B), substituted “held by a bank in another bank for cooperatives (or any successor bank) on account of such indebtedness” for “held by a district bank in another district bank on account of such indebtedness”.
 
-1986—Subsec. (a). Pub. L. 99–509 struck out “, with the approval of the Farm Credit Administration as provided in section 2205 of this title” after “from time to time”.
+1986—Subsec. (a). Pub. L. 99–509 struck out “, with the approval of the Farm Credit Administration as provided in section 2205 of this title” after “from time to time”.
 
-1980—Subsec. (a). Pub. L. 96–592, § 307(1), inserted reference to section 2205 of this title.
+1980—Subsec. (a). Pub. L. 96–592, § 307(1), inserted reference to section 2205 of this title.
 
-Subsec. (d). Pub. L. 96–592, § 307(2), substituted “market” for “book” and inserted provisions respecting retirement or cancellation of equities as affected by the capital structure.
+Subsec. (d). Pub. L. 96–592, § 307(2), substituted “market” for “book” and inserted provisions respecting retirement or cancellation of equities as affected by the capital structure.
 
-#### § 2132. Earnings and reserves; application of savings
+#### § 2132. Earnings and reserves; application of savings
 
 **(a) Application of savings**
 
@@ -2567,37 +2567,37 @@ Notwithstanding any other provisions of this section any costs or expenses attri
 
 A bank for cooperatives may pay in cash such portion of its patronage refunds as will permit its taxable income to be determined without taking into account savings applied as allocated surplus, allocated contingency reserves, and patronage refunds under subsection (a) of this section.
 
-(Pub. L. 92–181, title III, § 3.11, Dec. 10, 1971, 85 Stat. 606; Pub. L. 96–592, title III, § 308, Dec. 24, 1980, 94 Stat. 3445; Pub. L. 99–205, title II, § 205(e)(7), (8), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, §§ 802(r), 805(n), Jan. 6, 1988, 101 Stat. 1712, 1716; Pub. L. 115–334, title V, § 5411(11), Dec. 20, 2018, 132 Stat. 4680.)
+(Pub. L. 92–181, title III, § 3.11, Dec. 10, 1971, 85 Stat. 606; Pub. L. 96–592, title III, § 308, Dec. 24, 1980, 94 Stat. 3445; Pub. L. 99–205, title II, § 205(e)(7), (8), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, §§ 802(r), 805(n), Jan. 6, 1988, 101 Stat. 1712, 1716; Pub. L. 115–334, title V, § 5411(11), Dec. 20, 2018, 132 Stat. 4680.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 5411(11)(A), substituted “subsection (b)” for “subsections (b) and (c) of this section”.
+2018—Subsec. (a). Pub. L. 115–334, § 5411(11)(A), substituted “subsection (b)” for “subsections (b) and (c) of this section”.
 
-Subsec. (b). Pub. L. 115–334, § 5411(11)(B), struck out “district” before “bank for cooperatives” and substituted “All patronage” for “Except as provided in subsection (c) below, all patronage”.
+Subsec. (b). Pub. L. 115–334, § 5411(11)(B), struck out “district” before “bank for cooperatives” and substituted “All patronage” for “Except as provided in subsection (c) below, all patronage”.
 
-Subsecs. (c) to (f). Pub. L. 115–334, § 5411(11)(C), (D), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “The net savings of the Central Bank for Cooperatives after the earnings for the fiscal year have been applied in accordance with subsection (a) of this section shall be paid in stock or cash, or both, as determined by the board, as patronage refunds to the district banks on the basis of interests held by the Central Bank in loans made by the district banks and upon any direct loans made by the Central Bank to cooperative associations, or on such other proportionate patronage basis as may be approved by the board of directors. In cases of direct loans, such refund shall be paid to the district bank or banks which issued their stock to the borrower incident to such loans, and the district bank or banks shall issue a like amount of patronage refunds to the borrower.”
+Subsecs. (c) to (f). Pub. L. 115–334, § 5411(11)(C), (D), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “The net savings of the Central Bank for Cooperatives after the earnings for the fiscal year have been applied in accordance with subsection (a) of this section shall be paid in stock or cash, or both, as determined by the board, as patronage refunds to the district banks on the basis of interests held by the Central Bank in loans made by the district banks and upon any direct loans made by the Central Bank to cooperative associations, or on such other proportionate patronage basis as may be approved by the board of directors. In cases of direct loans, such refund shall be paid to the district bank or banks which issued their stock to the borrower incident to such loans, and the district bank or banks shall issue a like amount of patronage refunds to the borrower.”
 
-1988—Subsec. (a). Pub. L. 100–233, §§ 802(r)(1), 805(n)(1), (5), redesignated subsec. (b) as (a), substituted “(b) and (c)” for “(c) and (d)”, struck out “as may be approved by the Farm Credit Administration” after “payment of operating expenses”, and struck out at end “If during the fiscal year but not at the end thereof a bank shall have had outstanding capital stock held by the United States, provision will be made for payment of franchise taxes required in section 2151 of this title.”
+1988—Subsec. (a). Pub. L. 100–233, §§ 802(r)(1), 805(n)(1), (5), redesignated subsec. (b) as (a), substituted “(b) and (c)” for “(c) and (d)”, struck out “as may be approved by the Farm Credit Administration” after “payment of operating expenses”, and struck out at end “If during the fiscal year but not at the end thereof a bank shall have had outstanding capital stock held by the United States, provision will be made for payment of franchise taxes required in section 2151 of this title.”
 
-Subsec. (b). Pub. L. 100–233, §§ 802(r)(2), 805(n)(2), (5), redesignated subsec. (c) as (b) and substituted “(a) of this section” for “(b) of this section, whichever is applicable,”, “(c) below” for “(d) below”, and “may be approved by the board of directors” for “the Farm Credit Administration may approve”. Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 100–233, §§ 802(r)(2), 805(n)(2), (5), redesignated subsec. (c) as (b) and substituted “(a) of this section” for “(b) of this section, whichever is applicable,”, “(c) below” for “(d) below”, and “may be approved by the board of directors” for “the Farm Credit Administration may approve”. Former subsec. (b) redesignated (a).
 
-Subsec. (c). Pub. L. 100–233, §§ 802(r)(3), 805(n)(3), (5), redesignated subsec. (d) as (c) and substituted “(a) of this section” for “(b) of this section whichever is applicable,” and “may be approved by the board of directors” for “the Farm Credit Administration may approve”. Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 100–233, §§ 802(r)(3), 805(n)(3), (5), redesignated subsec. (d) as (c) and substituted “(a) of this section” for “(b) of this section whichever is applicable,” and “may be approved by the board of directors” for “the Farm Credit Administration may approve”. Former subsec. (c) redesignated (b).
 
-Subsecs. (d), (e). Pub. L. 100–233, § 805(n)(5), redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d) redesignated (c).
+Subsecs. (d), (e). Pub. L. 100–233, § 805(n)(5), redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d) redesignated (c).
 
-Subsecs. (f), (g). Pub. L. 100–233, § 805(n)(4), (5), redesignated subsec. (g) as (f), substituted “A bank for cooperatives” for “For any year that a bank for cooperatives is subject to Federal income tax, it”, and struck out “or (b)” after “subsection (a)”. Former subsec. (f) redesignated (e).
+Subsecs. (f), (g). Pub. L. 100–233, § 805(n)(4), (5), redesignated subsec. (g) as (f), substituted “A bank for cooperatives” for “For any year that a bank for cooperatives is subject to Federal income tax, it”, and struck out “or (b)” after “subsection (a)”. Former subsec. (f) redesignated (e).
 
-1985—Subsec. (a). Pub. L. 99–205, § 205(e)(7), struck out subsec. (a) which provided for application of savings when bank for cooperatives has outstanding stock held by the Governor.
+1985—Subsec. (a). Pub. L. 99–205, § 205(e)(7), struck out subsec. (a) which provided for application of savings when bank for cooperatives has outstanding stock held by the Governor.
 
-Subsec. (b). Pub. L. 99–205, § 205(e)(8)(A), substituted “At the end of each fiscal year, the net” for “Whenever at the end of any fiscal year a bank for cooperatives shall have no outstanding capital stock held by the Governor of the Farm Credit Administration, the net”.
+Subsec. (b). Pub. L. 99–205, § 205(e)(8)(A), substituted “At the end of each fiscal year, the net” for “Whenever at the end of any fiscal year a bank for cooperatives shall have no outstanding capital stock held by the Governor of the Farm Credit Administration, the net”.
 
-Subsecs. (c), (d). Pub. L. 99–205, § 205(e)(8)(B), substituted “subsection (b) of this section” for “subsection (a) or (b) of this section”.
+Subsecs. (c), (d). Pub. L. 99–205, § 205(e)(8)(B), substituted “subsection (b) of this section” for “subsection (a) or (b) of this section”.
 
-1980—Subsec. (b). Pub. L. 96–592, § 308(1), struck out provisions relating to 25 per centum requirement for net savings.
+1980—Subsec. (b). Pub. L. 96–592, § 308(1), struck out provisions relating to 25 per centum requirement for net savings.
 
-Subsec. (c). Pub. L. 96–592, § 308(2), inserted applicability to participation certificates and to borrowers to whom refunds are payable.
+Subsec. (c). Pub. L. 96–592, § 308(2), inserted applicability to participation certificates and to borrowers to whom refunds are payable.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2605,11 +2605,11 @@ Subsec. (c). Pub. L. 96–592, § 308(2), inserted applicability to participat
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2133. Distribution of assets on liquidation or dissolution
+#### § 2133. Distribution of assets on liquidation or dissolution
 
 In the case of liquidation or dissolution of any bank for cooperatives, after payment or retirement, first, of all liabilities; second, of all capital stock issued before January 1, 1956, at par, and all nonvoting stock at par; and third, all voting stock at par; any surplus and reserves existing on January 1, 1956, shall be paid to the holders of stock issued before that date, and voting stock pro rata; and any remaining allocated surplus and reserves shall be distributed to those entities to which they are allocated on the books of the bank, and any other remaining surplus shall be paid to the holders of outstanding voting stock. If it should become necessary to use any surplus or reserves to pay any liabilities or to retire any capital stock, unallocated reserves or surplus, allocated reserves and surplus shall be exhausted in accordance with rules prescribed by the Farm Credit Administration.
 
-(Pub. L. 92–181, title III, § 3.12, Dec. 10, 1971, 85 Stat. 608; Pub. L. 99–205, title II, § 205(e)(9), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, § 805(*o*), Jan. 6, 1988, 101 Stat. 1716.)
+(Pub. L. 92–181, title III, § 3.12, Dec. 10, 1971, 85 Stat. 608; Pub. L. 99–205, title II, § 205(e)(9), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, § 805(*o*), Jan. 6, 1988, 101 Stat. 1716.)
 
 **Editorial Notes**
 
@@ -2617,7 +2617,7 @@ In the case of liquidation or dissolution of any bank for cooperatives, after pa
 
 1988—Pub. L. 100–233 inserted “the” before “Farm Credit Administration”.
 
-1985—Pub. L. 99–205 struck out “, any stock held by the Governor of the Farm Credit Administration at par” before “, and all nonvoting stock at par”, and struck out “stock held by the Governor of the Farm Credit Administration,” before “and voting stock pro rata” in first sentence.
+1985—Pub. L. 99–205 struck out “, any stock held by the Governor of the Farm Credit Administration at par” before “, and all nonvoting stock at par”, and struck out “stock held by the Governor of the Farm Credit Administration,” before “and voting stock pro rata” in first sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2625,17 +2625,17 @@ In the case of liquidation or dissolution of any bank for cooperatives, after pa
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2134. Taxation
+#### § 2134. Taxation
 
 Each bank for cooperatives and its obligations are instrumentalities of the United States and as such any and all notes, debentures, and other obligations issued by such bank shall be exempt, both as to principal and interest from all taxation (except surtaxes, estate, inheritance, and gift taxes) now or hereafter imposed by the United States or any State, territorial, or local taxing authority, except that interest on such obligations shall be subject to Federal income taxation in the hands of the holder.
 
-(Pub. L. 92–181, title III, § 3.13, Dec. 10, 1971, 85 Stat. 608; Pub. L. 99–205, title II, § 205(e)(10), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, § 805(p), Jan. 6, 1988, 101 Stat. 1716.)
+(Pub. L. 92–181, title III, § 3.13, Dec. 10, 1971, 85 Stat. 608; Pub. L. 99–205, title II, § 205(e)(10), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, § 805(p), Jan. 6, 1988, 101 Stat. 1716.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Pub. L. 100–233 inserted before period at end “, except that interest on such obligations shall be subject to Federal income taxation in the hands of the holder”.
+1988—Pub. L. 100–233 inserted before period at end “, except that interest on such obligations shall be subject to Federal income taxation in the hands of the holder”.
 
 1985—Pub. L. 99–205 struck out last two sentences relating to exemption of banks for cooperatives and their property, franchises, capital, reserves, surplus, other funds, and income from Federal and non-Federal taxation except for Federal income taxation of interest on obligations of such banks and for Federal and non-Federal taxation of real and tangible personal property of such banks to same extent as similar property is taxed, and making such exemption provisions applicable only for any year or part thereof in which stock in such banks was held by the Governor of the Farm Credit Administration.
 
@@ -2651,9 +2651,9 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 **Codification**
 
-Pub. L. 115–334, title V, § 5411(12), Dec. 20, 2018, 132 Stat. 4680, struck out “United and” before “National” in part heading.
+Pub. L. 115–334, title V, § 5411(12), Dec. 20, 2018, 132 Stat. 4680, struck out “United and” before “National” in part heading.
 
-#### § 2141. Charter, powers, and operation
+#### § 2141. Charter, powers, and operation
 
 **(a) Charter**
 
@@ -2667,7 +2667,7 @@ The consolidated bank and the board of directors of such bank shall have all of 
 
 The consolidated bank shall be organized and operated on a cooperative basis.
 
-(Pub. L. 92–181, title III, § 3.20, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1642; amended Pub. L. 100–399, title IV, § 407(a), (b), Aug. 17, 1988, 102 Stat. 1000; Pub. L. 115–334, title V, § 5411(13), Dec. 20, 2018, 132 Stat. 4680.)
+(Pub. L. 92–181, title III, § 3.20, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1642; amended Pub. L. 100–399, title IV, § 407(a), (b), Aug. 17, 1988, 102 Stat. 1000; Pub. L. 115–334, title V, § 5411(13), Dec. 20, 2018, 132 Stat. 4680.)
 
 **Editorial Notes**
 
@@ -2677,13 +2677,13 @@ Section 413 of the Agricultural Credit Act of 1987, referred to in subsecs. (a) 
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 5411(13)(A), struck out “or the United Bank for Cooperatives, as the case may be” after “National Bank for Cooperatives”.
+2018—Subsec. (a). Pub. L. 115–334, § 5411(13)(A), struck out “or the United Bank for Cooperatives, as the case may be” after “National Bank for Cooperatives”.
 
-Subsec. (b). Pub. L. 115–334, § 5411(13)(B), substituted “the constituent banks described in section 413(b) of the Agricultural Credit Act of 1987 (12 U.S.C. 2121 note; Public Law 100–233)” for “the district banks for cooperatives and the Central Bank for Cooperatives”.
+Subsec. (b). Pub. L. 115–334, § 5411(13)(B), substituted “the constituent banks described in section 413(b) of the Agricultural Credit Act of 1987 (12 U.S.C. 2121 note; Public Law 100–233)” for “the district banks for cooperatives and the Central Bank for Cooperatives”.
 
-1988—Subsec. (a). Pub. L. 100–399, § 407(a), struck out “in this section” after “referred to” and inserted “, established under section 413 of the Agricultural Credit Act of 1987,” before “shall”.
+1988—Subsec. (a). Pub. L. 100–399, § 407(a), struck out “in this section” after “referred to” and inserted “, established under section 413 of the Agricultural Credit Act of 1987,” before “shall”.
 
-Subsec. (b). Pub. L. 100–399, § 407(b), inserted “except” before “as otherwise”.
+Subsec. (b). Pub. L. 100–399, § 407(b), inserted “except” before “as otherwise”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2691,15 +2691,15 @@ Subsec. (b). Pub. L. 100–399, § 407(b), inserted “except” before “as 
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2142. Repealed. Pub. L. 115–334, title V, § 5411(14), Dec. 20, 2018, 132 Stat. 4680
+#### § 2142. Repealed. Pub. L. 115–334, title V, § 5411(14), Dec. 20, 2018, 132 Stat. 4680
 
-Section, Pub. L. 92–181, title III, § 3.21, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1642; amended Pub. L. 100–399, title IV, § 407(c), (d), Aug. 17, 1988, 102 Stat. 1000, related to provisions for the board of directors of a consolidated bank.
+Section, Pub. L. 92–181, title III, § 3.21, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1642; amended Pub. L. 100–399, title IV, § 407(c), (d), Aug. 17, 1988, 102 Stat. 1000, related to provisions for the board of directors of a consolidated bank.
 
-#### § 2143. Credit delivery office
+#### § 2143. Credit delivery office
 
 On a determination by the board of directors of the consolidated bank that the bank’s loan portfolio is concentrated in any one district or districts (according to the district boundaries in effect immediately prior to the effective date of the establishment of the bank under section 413 of the Agricultural Credit Act of 1987), the bank may consider the creation of regional service centers to accommodate such loan concentrations.
 
-(Pub. L. 92–181, title III, § 3.22, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1643; amended Pub. L. 100–399, title IV, § 407(e), Aug. 17, 1988, 102 Stat. 1000.)
+(Pub. L. 92–181, title III, § 3.22, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1643; amended Pub. L. 100–399, title IV, § 407(e), Aug. 17, 1988, 102 Stat. 1000.)
 
 **Editorial Notes**
 
@@ -2717,23 +2717,23 @@ Section 413 of the Agricultural Credit Act of 1987, referred to in text, is sect
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2144. Consolidation of functions
+#### § 2144. Consolidation of functions
 
 Subject to section 2143 of this title, to the greatest extent practicable, the functions of the consolidated bank shall be consolidated in the central office of the bank.
 
-(Pub. L. 92–181, title III, § 3.23, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1644.)
+(Pub. L. 92–181, title III, § 3.23, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1644.)
 
-#### § 2145. Exchange of ownership interests
+#### § 2145. Exchange of ownership interests
 
 On the establishment of the consolidated bank, ownership interests of the stockholders and subscribers to the guaranty funds of the constituent district banks for cooperatives (including stock, participation certificates, and allocated equities) shall be exchanged for like ownership interests in the consolidated bank on a book value basis.
 
-(Pub. L. 92–181, title III, § 3.24, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1644.)
+(Pub. L. 92–181, title III, § 3.24, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1644.)
 
-#### § 2146. Capitalization
+#### § 2146. Capitalization
 
 In accordance with section 2154a of this title, each consolidated bank shall provide, through bylaws and subject to Farm Credit Administration regulations, for the capitalization of the bank and the manner in which bank stock shall be issued, held, transferred, and retired and bank earnings distributed.
 
-(Pub. L. 92–181, title III, § 3.25, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1644; amended Pub. L. 100–399, title IV, § 407(f), Aug. 17, 1988, 102 Stat. 1000.)
+(Pub. L. 92–181, title III, § 3.25, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1644; amended Pub. L. 100–399, title IV, § 407(f), Aug. 17, 1988, 102 Stat. 1000.)
 
 **Editorial Notes**
 
@@ -2747,7 +2747,7 @@ In accordance with section 2154a of this title, each consolidated bank shall pro
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2147. Patronage pools
+#### § 2147. Patronage pools
 
 Under such terms and conditions as may be determined by its board of directors, the consolidated bank may—
 
@@ -2755,13 +2755,13 @@ Under such terms and conditions as may be determined by its board of directors, 
 
 **(2)** allocate revenues, expenses, and net savings among such pools on an equitable basis.
 
-(Pub. L. 92–181, title III, § 3.26, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1644.)
+(Pub. L. 92–181, title III, § 3.26, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1644.)
 
-#### § 2148. Transactions to accomplish merger
+#### § 2148. Transactions to accomplish merger
 
 The receipt of assets or assumption of liabilities by the consolidated bank, the exchange of stock, equities, or other ownership interests, and any other transaction carried out in accomplishing the merger of the banks for cooperatives shall not be treated as a taxable event under the laws of the United States or of any State or political subdivision thereof. The preceding sentence shall also apply to the receipt of assets and liabilities by a cooperative to the extent that the net amount of the distribution is immediately reinvested in stock of a consolidated bank (and in such case the basis of such stock shall be appropriately reduced by the amount of gain not recognized by reason of this sentence).
 
-(Pub. L. 92–181, title III, § 3.27, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1644; amended Pub. L. 100–399, title IV, § 407(g), Aug. 17, 1988, 102 Stat. 1001.)
+(Pub. L. 92–181, title III, § 3.27, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1644; amended Pub. L. 100–399, title IV, § 407(g), Aug. 17, 1988, 102 Stat. 1001.)
 
 **Editorial Notes**
 
@@ -2775,11 +2775,11 @@ The receipt of assets or assumption of liabilities by the consolidated bank, the
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2149. Lending limits
+#### § 2149. Lending limits
 
 The Farm Credit Administration may not establish lending limits for the consolidated bank with respect to any loans or borrowers that are more restrictive than the combined lending limits that were previously established by the Farm Credit Administration for the constituent banks described in section 413(b) of the Agricultural Credit Act of 1987 (12 U.S.C. 2121 note; Public Law 100–233) with respect to such loans or borrowers.
 
-(Pub. L. 92–181, title III, § 3.28, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1644; amended Pub. L. 115–334, title V, § 5411(15), Dec. 20, 2018, 132 Stat. 4680.)
+(Pub. L. 92–181, title III, § 3.28, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1644; amended Pub. L. 115–334, title V, § 5411(15), Dec. 20, 2018, 132 Stat. 4680.)
 
 **Editorial Notes**
 
@@ -2787,9 +2787,9 @@ The Farm Credit Administration may not establish lending limits for the consolid
 
 2018—Pub. L. 115–334 substituted “the constituent banks described in section 413(b) of the Agricultural Credit Act of 1987 (12 U.S.C. 2121 note; Public Law 100–233)” for “a district bank for cooperatives and the Central Bank for Cooperatives”.
 
-#### § 2149a. Repealed. Pub. L. 115–334, title V, § 5411(16), Dec. 20, 2018, 132 Stat. 4680
+#### § 2149a. Repealed. Pub. L. 115–334, title V, § 5411(16), Dec. 20, 2018, 132 Stat. 4680
 
-Section, Pub. L. 92–181, title III, § 3.29, formerly title VII, § 7.5, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1646; renumbered § 3.29, Pub. L. 100–399, title IV, § 408(e), Aug. 17, 1988, 102 Stat. 1001, related to reports by merged banks for cooperatives.
+Section, Pub. L. 92–181, title III, § 3.29, formerly title VII, § 7.5, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1646; renumbered § 3.29, Pub. L. 100–399, title IV, § 408(e), Aug. 17, 1988, 102 Stat. 1001, related to reports by merged banks for cooperatives.
 
 Section was classified to section 2279a–5 of this title prior to renumbering by Pub. L. 100–399.
 
@@ -2797,23 +2797,23 @@ Section was classified to section 2279a–5 of this title prior to renumbering b
 
 ### Part A—Funding
 
-#### § 2151. Repealed. Pub. L. 115–334, title V, § 5411(17), Dec. 20, 2018, 132 Stat. 4680
+#### § 2151. Repealed. Pub. L. 115–334, title V, § 5411(17), Dec. 20, 2018, 132 Stat. 4680
 
-Section, Pub. L. 92–181, title IV, § 4.0, Dec. 10, 1971, 85 Stat. 609; Pub. L. 99–205, title I, § 101(1), Dec. 23, 1985, 99 Stat. 1678; Pub. L. 100–233, title II, § 202, Jan. 6, 1988, 101 Stat. 1605; Pub. L. 100–399, title II, § 202, Aug. 17, 1988, 102 Stat. 992, related to the revolving fund in effect immediately before Jan. 6, 1988.
+Section, Pub. L. 92–181, title IV, § 4.0, Dec. 10, 1971, 85 Stat. 609; Pub. L. 99–205, title I, § 101(1), Dec. 23, 1985, 99 Stat. 1678; Pub. L. 100–233, title II, § 202, Jan. 6, 1988, 101 Stat. 1605; Pub. L. 100–399, title II, § 202, Aug. 17, 1988, 102 Stat. 992, related to the revolving fund in effect immediately before Jan. 6, 1988.
 
-#### § 2152. Repealed. Pub. L. 100–233, title II, § 207(a)(1), Jan. 6, 1988, 101 Stat. 1607
+#### § 2152. Repealed. Pub. L. 100–233, title II, § 207(a)(1), Jan. 6, 1988, 101 Stat. 1607
 
-Section, Pub. L. 92–181, title IV, § 4.1, as added Pub. L. 99–205, title I, § 104, Dec. 23, 1985, 99 Stat. 1687, contained requirements for purchase of stock and payment of assessments and contribution of capital to Capital Corporation.
+Section, Pub. L. 92–181, title IV, § 4.1, as added Pub. L. 99–205, title I, § 104, Dec. 23, 1985, 99 Stat. 1687, contained requirements for purchase of stock and payment of assessments and contribution of capital to Capital Corporation.
 
-A prior section 2152, Pub. L. 92–181, title IV, § 4.1, Dec. 10, 1971, 85 Stat. 609, related to revolving funds and government deposits, prior to repeal, effective thirty days after Dec. 23, 1985, by Pub. L. 99–205, title I, § 101(2), Dec. 23, 1985, 99 Stat. 1678.
+A prior section 2152, Pub. L. 92–181, title IV, § 4.1, Dec. 10, 1971, 85 Stat. 609, related to revolving funds and government deposits, prior to repeal, effective thirty days after Dec. 23, 1985, by Pub. L. 99–205, title I, § 101(2), Dec. 23, 1985, 99 Stat. 1678.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 100–233, title II, § 207(b), Jan. 6, 1988, 101 Stat. 1607, provided that: “The repeals made by subsection (a) [repealing this section and sections 2216 to 2216k, and 2252(a)(8) of this title] shall take effect 15 days after the date of the enactment of this Act [Jan. 6, 1988].”
+Pub. L. 100–233, title II, § 207(b), Jan. 6, 1988, 101 Stat. 1607, provided that: “The repeals made by subsection (a) [repealing this section and sections 2216 to 2216k, and 2252(a)(8) of this title] shall take effect 15 days after the date of the enactment of this Act [Jan. 6, 1988].”
 
-#### § 2153. Power to borrow; issuance of notes, bonds, debentures, and other obligations
+#### § 2153. Power to borrow; issuance of notes, bonds, debentures, and other obligations
 
 Each of the banks of the System, in order to obtain funds for its authorized purposes, shall have power, subject to regulation by the Farm Credit Administration, and subject to the limitations of paragraph (e) of this section, to—
 
@@ -2827,7 +2827,7 @@ Each of the banks of the System, in order to obtain funds for its authorized pur
 
 **(e)** No bank or banks shall issue notes, bonds, debentures, or other obligations individually or in concert with one or more banks of the System other than through the Federal Farm Credit Banks Funding Corporation under any provision of this chapter except under subsection (a) of this section: *Provided*, That any bank or banks may issue investment bonds or like obligations other than through the Federal Farm Credit Banks Funding Corporation if the interest rate is not in excess of the interest allowable on savings deposits of commercial banks of comparable amounts and maturities under Federal Reserve regulation on its member banks.
 
-(Pub. L. 92–181, title IV, § 4.2, Dec. 10, 1971, 85 Stat. 610; Pub. L. 99–205, title II, § 205(f)(1), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title IV, § 418(b), formerly § 415(b), Jan. 6, 1988, 101 Stat. 1653, renumbered § 418(b), Pub. L. 100–399, title IV, § 409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title II, § 203(e), Aug. 17, 1988, 102 Stat. 993.)
+(Pub. L. 92–181, title IV, § 4.2, Dec. 10, 1971, 85 Stat. 610; Pub. L. 99–205, title II, § 205(f)(1), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title IV, § 418(b), formerly § 415(b), Jan. 6, 1988, 101 Stat. 1653, renumbered § 418(b), Pub. L. 100–399, title IV, § 409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title II, § 203(e), Aug. 17, 1988, 102 Stat. 993.)
 
 **Editorial Notes**
 
@@ -2835,7 +2835,7 @@ Each of the banks of the System, in order to obtain funds for its authorized pur
 
 1988—Subsec. (d). Pub. L. 100–233 substituted “the boards of directors of each bank” for “the boards of directors of each of the 12 districts and the Central Bank for Cooperatives”.
 
-Subsec. (e). Pub. L. 100–399, § 203(e), substituted “System other than through the” for “System other than through their”, and substituted “Federal Farm Credit Banks Funding Corporation” for “fiscal agent” in two places.
+Subsec. (e). Pub. L. 100–399, § 203(e), substituted “System other than through the” for “System other than through their”, and substituted “Federal Farm Credit Banks Funding Corporation” for “fiscal agent” in two places.
 
 1985—Pub. L. 99–205 substituted “regulation by” for “supervision of” in provision preceding subsec. (a).
 
@@ -2853,7 +2853,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2154. Capital adequacy of banks and institutions
+#### § 2154. Capital adequacy of banks and institutions
 
 **(a) Minimum levels of capital**
 
@@ -2871,17 +2871,17 @@ The Farm Credit Administration shall cause System institutions to achieve and ma
 
 Each bank shall have on hand at the time of issuance of any note, bond, debenture, or other similar obligation and at all times thereafter maintain, free from any lien or other pledge, notes and other obligations representing loans made under this chapter or real or personal property acquired in connection with loans made under this chapter, obligations of the United States or any agency thereof direct or fully guaranteed, other bank assets (including marketable securities) approved by the Farm Credit Administration, or cash, in an aggregate value equal to the total amount of notes, bonds, debentures, or other similar obligations outstanding for which the bank is primarily liable.
 
-(Pub. L. 92–181, title IV, § 4.3, Dec. 10, 1971, 85 Stat. 611; Pub. L. 99–205, title I, § 101(3), Dec. 23, 1985, 99 Stat. 1678; Pub. L. 100–233, title III, § 304, title VIII, §§ 804(a)(3), 805(q), Jan. 6, 1988, 101 Stat. 1621, 1715, 1716; Pub. L. 100–399, title VII, § 702(b), Aug. 17, 1988, 102 Stat. 1006.)
+(Pub. L. 92–181, title IV, § 4.3, Dec. 10, 1971, 85 Stat. 611; Pub. L. 99–205, title I, § 101(3), Dec. 23, 1985, 99 Stat. 1678; Pub. L. 100–233, title III, § 304, title VIII, §§ 804(a)(3), 805(q), Jan. 6, 1988, 101 Stat. 1621, 1715, 1716; Pub. L. 100–399, title VII, § 702(b), Aug. 17, 1988, 102 Stat. 1006.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (b)(2). Pub. L. 100–233, § 804(a)(3), struck out subpar. (A) designation and struck out subpar. (B) which read as follows: “Any directive issued under this paragraph, including plans submitted pursuant thereto, shall be enforceable under the provisions of section 2267 of this title to the same extent as an effective and outstanding order issued under section 2261 of this title that has become final.”
+1988—Subsec. (b)(2). Pub. L. 100–233, § 804(a)(3), struck out subpar. (A) designation and struck out subpar. (B) which read as follows: “Any directive issued under this paragraph, including plans submitted pursuant thereto, shall be enforceable under the provisions of section 2267 of this title to the same extent as an effective and outstanding order issued under section 2261 of this title that has become final.”
 
-Subsec. (c). Pub. L. 100–233, § 805(q), which directed the amendment of subsec. (c) by substituting “direct or fully guaranteed” for “direct of fully guaranteed” was repealed by Pub. L. 100–399, § 702(b). See Construction of 1988 Amendment note below.
+Subsec. (c). Pub. L. 100–233, § 805(q), which directed the amendment of subsec. (c) by substituting “direct or fully guaranteed” for “direct of fully guaranteed” was repealed by Pub. L. 100–399, § 702(b). See Construction of 1988 Amendment note below.
 
-Pub. L. 100–233, § 304, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each bank shall have on hand at the time of issuance of any long-term notes, bonds, debentures, or other similar obligations and at all times thereafter maintain, free from any lien or other pledge, notes and other obligations representing loans made under the authority of this chapter, obligations of the United States or any agency thereof direct or fully guaranteed, other readily marketable securities approved by the Farm Credit Administration, or cash, in an aggregate value equal to the total amount of long-term notes, bonds, debentures, or other similar obligations outstanding for which the bank is primarily liable.”
+Pub. L. 100–233, § 304, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each bank shall have on hand at the time of issuance of any long-term notes, bonds, debentures, or other similar obligations and at all times thereafter maintain, free from any lien or other pledge, notes and other obligations representing loans made under the authority of this chapter, obligations of the United States or any agency thereof direct or fully guaranteed, other readily marketable securities approved by the Farm Credit Administration, or cash, in an aggregate value equal to the total amount of long-term notes, bonds, debentures, or other similar obligations outstanding for which the bank is primarily liable.”
 
 1985—Pub. L. 99–205 substituted “Capital adequacy of banks and associations” for “Aggregate of obligations; collateral” in section catchline.
 
@@ -2897,11 +2897,11 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 **Construction of 1988 Amendment**
 
-Pub. L. 100–399, title VII, § 702(b), Aug. 17, 1988, 102 Stat. 1006, provided that section 805(q) of Pub. L. 100–233, cited as a credit to this section, is repealed and that subsec. (c) of this section shall be applied and administered as if such section had not been enacted.
+Pub. L. 100–399, title VII, § 702(b), Aug. 17, 1988, 102 Stat. 1006, provided that section 805(q) of Pub. L. 100–233, cited as a credit to this section, is repealed and that subsec. (c) of this section shall be applied and administered as if such section had not been enacted.
 
 **Minimum Capital Adequacy Standards**
 
-Pub. L. 100–233, title III, § 301(a), Jan. 6, 1988, 101 Stat. 1608, as amended by Pub. L. 100–399, title III, § 301(a), Aug. 17, 1988, 102 Stat. 993, provided that:
+Pub. L. 100–233, title III, § 301(a), Jan. 6, 1988, 101 Stat. 1608, as amended by Pub. L. 100–399, title III, § 301(a), Aug. 17, 1988, 102 Stat. 993, provided that:
 
 > **“(1) In general.—**
 
@@ -2919,7 +2919,7 @@ Pub. L. 100–233, title III, § 301(a), Jan. 6, 1988, 101 Stat. 1608, as amen
 
 > **“(4) Permanent capital.—** For purposes of this subsection, the term ‘permanent capital’ has the same meaning given that term in section 4.3A(a)(1) of the Farm Credit Act of 1971 [12 U.S.C. 2154a(a)(1)].”
 
-#### § 2154a. Capitalization of System institutions
+#### § 2154a. Capitalization of System institutions
 
 **(a) Definitions** As used in this section:
 
@@ -3031,7 +3031,7 @@ This section shall not be construed to affect the provisions of this chapter tha
 
 To the extent that any provision of this section is inconsistent with any other provision of this chapter (other than section 2162 of this title), the provision of this section shall control.
 
-(Pub. L. 92–181, title IV, § 4.3A, as added Pub. L. 100–233, title III, § 301(b), Jan. 6, 1988, 101 Stat. 1608; amended Pub. L. 100–399, title III, § 301(b)–(f), Aug. 17, 1988, 102 Stat. 994; Pub. L. 102–552, title I, § 101, Oct. 28, 1992, 106 Stat. 4103; Pub. L. 104–105, title II, § 206, Feb. 10, 1996, 110 Stat. 173; Pub. L. 110–234, title V, § 5403(b), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, § 4(a), title V, § 5403(b), June 18, 2008, 122 Stat. 1664, 1916.)
+(Pub. L. 92–181, title IV, § 4.3A, as added Pub. L. 100–233, title III, § 301(b), Jan. 6, 1988, 101 Stat. 1608; amended Pub. L. 100–399, title III, § 301(b)–(f), Aug. 17, 1988, 102 Stat. 994; Pub. L. 102–552, title I, § 101, Oct. 28, 1992, 106 Stat. 4103; Pub. L. 104–105, title II, § 206, Feb. 10, 1996, 110 Stat. 173; Pub. L. 110–234, title V, § 5403(b), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, § 4(a), title V, § 5403(b), June 18, 2008, 122 Stat. 1664, 1916.)
 
 **Editorial Notes**
 
@@ -3041,7 +3041,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (c)(1)(D)(ii) to (iv). Pub. L. 110–246, § 5403(b), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+2008—Subsec. (c)(1)(D)(ii) to (iv). Pub. L. 110–246, § 5403(b), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
 1996—Subsecs. (f) to (h). Pub. L. 104–105 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
@@ -3051,17 +3051,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 “(B) is protected under section 2162 of this title or is otherwise not at risk.”
 
-1988—Subsec. (a)(1)(B). Pub. L. 100–399, § 301(b), substituted “section 2162 of this title” for “section 4.9B”.
+1988—Subsec. (a)(1)(B). Pub. L. 100–399, § 301(b), substituted “section 2162 of this title” for “section 4.9B”.
 
-Subsec. (c)(1)(D)(i). Pub. L. 100–399, § 301(c)(1), substituted “producers or” for “producers, or”.
+Subsec. (c)(1)(D)(i). Pub. L. 100–399, § 301(c)(1), substituted “producers or” for “producers, or”.
 
-Subsec. (c)(1)(G). Pub. L. 100–399, § 301(c)(2), substituted “voting stock issued” for “stock issued”.
+Subsec. (c)(1)(G). Pub. L. 100–399, § 301(c)(2), substituted “voting stock issued” for “stock issued”.
 
-Subsec. (c)(1)(H). Pub. L. 100–399, § 301(d), inserted “, except as otherwise provided in this section” after “the borrower”.
+Subsec. (c)(1)(H). Pub. L. 100–399, § 301(d), inserted “, except as otherwise provided in this section” after “the borrower”.
 
-Subsec. (c)(1)(I). Pub. L. 100–399, § 301(e), struck out “standards issued under” after “established under”.
+Subsec. (c)(1)(I). Pub. L. 100–399, § 301(e), struck out “standards issued under” after “established under”.
 
-Subsec. (d)(1). Pub. L. 100–399, § 301(f), struck out “and in section 2162 of this title” after “paragraph (2)” and “or allocated equities” after “retirement of stock”.
+Subsec. (d)(1). Pub. L. 100–399, § 301(f), struck out “and in section 2162 of this title” after “paragraph (2)” and “or allocated equities” after “retirement of stock”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3073,7 +3073,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2155. Liability of banks; United States not liable
+#### § 2155. Liability of banks; United States not liable
 
 **(a) Joint and several liability of banks**
 
@@ -3105,27 +3105,27 @@ The United States shall not be liable or assume any liability directly or indire
 
 Beginning 5 years after January 6, 1988, the Farm Credit Administration shall not call on any System institution to satisfy the liability of the institution on any joint, consolidated, or System-wide obligation participated in by the institution or with respect to which the institution is primarily, or jointly and severally, liable, before the Farm Credit Insurance Fund is exhausted, even if the Fund is only able to make a partial payment because of insufficient amounts in the Fund.
 
-(Pub. L. 92–181, title IV, § 4.4, Dec. 10, 1971, 85 Stat. 611; Pub. L. 99–205, title I, § 101(4), title II, § 205(f)(2), Dec. 23, 1985, 99 Stat. 1679, 1706; Pub. L. 100–233, title II, § 207(c), title III, § 303, Jan. 6, 1988, 101 Stat. 1608, 1620; Pub. L. 100–399, title III, § 303, Aug. 17, 1988, 102 Stat. 995.)
+(Pub. L. 92–181, title IV, § 4.4, Dec. 10, 1971, 85 Stat. 611; Pub. L. 99–205, title I, § 101(4), title II, § 205(f)(2), Dec. 23, 1985, 99 Stat. 1679, 1706; Pub. L. 100–233, title II, § 207(c), title III, § 303, Jan. 6, 1988, 101 Stat. 1608, 1620; Pub. L. 100–399, title III, § 303, Aug. 17, 1988, 102 Stat. 995.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–233, § 303(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each bank of the System shall be fully liable on notes, bonds, debentures, or other obligations issued by it individually, and shall be liable for the interest payments on long-term notes, bonds, debentures, or other obligations issued by other banks operating under the same subchapter of this chapter. Each bank shall also be primarily liable for the portion of any issue of consolidated or System-wide obligations made on its behalf and be jointly and severally liable for the payment of any additional sums as called upon by the Farm Credit Administration in order to make payments of interest or principal which any bank primarily liable therefor shall be unable to make. Such calls shall be made first upon the other banks operating under the same subchapter of this chapter as the defaulting bank, and second upon banks operating under other subchapters of this chapter, taking into consideration the capital, surplus, bonds, debentures, or other obligations which each may have outstanding at the time of such assessment.”
+1988—Subsec. (a). Pub. L. 100–233, § 303(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each bank of the System shall be fully liable on notes, bonds, debentures, or other obligations issued by it individually, and shall be liable for the interest payments on long-term notes, bonds, debentures, or other obligations issued by other banks operating under the same subchapter of this chapter. Each bank shall also be primarily liable for the portion of any issue of consolidated or System-wide obligations made on its behalf and be jointly and severally liable for the payment of any additional sums as called upon by the Farm Credit Administration in order to make payments of interest or principal which any bank primarily liable therefor shall be unable to make. Such calls shall be made first upon the other banks operating under the same subchapter of this chapter as the defaulting bank, and second upon banks operating under other subchapters of this chapter, taking into consideration the capital, surplus, bonds, debentures, or other obligations which each may have outstanding at the time of such assessment.”
 
-Subsec. (c). Pub. L. 100–233, § 207(c), redesignated subsec. (d) as (c), and struck out former subsec. (c) which provided that for purposes of this part, the term “bank” included the Capital Corporation.
+Subsec. (c). Pub. L. 100–233, § 207(c), redesignated subsec. (d) as (c), and struck out former subsec. (c) which provided that for purposes of this part, the term “bank” included the Capital Corporation.
 
 Subsec. (d). Pub. L. 100–399 redesignated subsec. (e) as (d).
 
-Pub. L. 100–233, § 207(c), redesignated subsec. (d) as (c).
+Pub. L. 100–233, § 207(c), redesignated subsec. (d) as (c).
 
 Subsec. (e). Pub. L. 100–399 redesignated subsec. (e) as (d).
 
-Pub. L. 100–233, § 303(b), added subsec. (e).
+Pub. L. 100–233, § 303(b), added subsec. (e).
 
-1985—Subsec. (b). Pub. L. 99–205, § 205(f)(2), substituted “execution of” for “Governor to execute” in first sentence and struck out “by the Governor” after “shall be executed” in second sentence.
+1985—Subsec. (b). Pub. L. 99–205, § 205(f)(2), substituted “execution of” for “Governor to execute” in first sentence and struck out “by the Governor” after “shall be executed” in second sentence.
 
-Subsecs. (c), (d). Pub. L. 99–205, § 101(4), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 99–205, § 101(4), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3137,27 +3137,27 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2156. Repealed. Pub. L. 100–233, title II, § 204(b), Jan. 6, 1988, 101 Stat. 1607
+#### § 2156. Repealed. Pub. L. 100–233, title II, § 204(b), Jan. 6, 1988, 101 Stat. 1607
 
-Section, Pub. L. 92–181, title IV, § 4.5, Dec. 10, 1971, 85 Stat. 611; Pub. L. 96–592, title IV, § 401, Dec. 24, 1980, 94 Stat. 3446; Pub. L. 99–205, title II, § 205(f)(3), Dec. 23, 1985, 99 Stat. 1706, provided for establishment of a finance committee for banks organized and operated under subchapters I, II, and III of this chapter. See section 2160 of this title.
+Section, Pub. L. 92–181, title IV, § 4.5, Dec. 10, 1971, 85 Stat. 611; Pub. L. 96–592, title IV, § 401, Dec. 24, 1980, 94 Stat. 3446; Pub. L. 99–205, title II, § 205(f)(3), Dec. 23, 1985, 99 Stat. 1706, provided for establishment of a finance committee for banks organized and operated under subchapters I, II, and III of this chapter. See section 2160 of this title.
 
-#### § 2157. Bonds as investments
+#### § 2157. Bonds as investments
 
 The bonds, debentures, and other similar obligations issued under the authority of this chapter shall be lawful investments for all fiduciary and trust funds and may be accepted as security for all public deposits.
 
-(Pub. L. 92–181, title IV, § 4.6, Dec. 10, 1971, 85 Stat. 612.)
+(Pub. L. 92–181, title IV, § 4.6, Dec. 10, 1971, 85 Stat. 612.)
 
-#### § 2158. Purchase and sale by Federal Reserve System
+#### § 2158. Purchase and sale by Federal Reserve System
 
 Any member of the Federal Reserve System may buy and sell bonds, debentures, or other similar obligations issued under the authority of this chapter and any Federal Reserve bank may buy and sell such obligations to the same extent and subject to the same limitations placed upon the purchase and sale by said banks of State, county, district, and municipal bonds under section 355 of this title.
 
-(Pub. L. 92–181, title IV, § 4.7, Dec. 10, 1971, 85 Stat. 612.)
+(Pub. L. 92–181, title IV, § 4.7, Dec. 10, 1971, 85 Stat. 612.)
 
-#### § 2159. Purchase and sale of obligations
+#### § 2159. Purchase and sale of obligations
 
 Each bank of the System may purchase its own obligations and the obligations of other banks of the System and may provide for the sale of obligations issued by it, consolidated obligations, or Systemwide obligations through a fiscal agent or agents, by negotiation, offer, bid, syndicate sale, and to deliver such obligations by book entry, wire transfer, or such other means as may be appropriate.
 
-(Pub. L. 92–181, title IV, § 4.8, Dec. 10, 1971, 85 Stat. 612; Pub. L. 99–509, title I, § 1034, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–233, title II, § 205(a), Jan. 6, 1988, 101 Stat. 1607; Pub. L. 115–334, title V, § 5411(18), Dec. 20, 2018, 132 Stat. 4680.)
+(Pub. L. 92–181, title IV, § 4.8, Dec. 10, 1971, 85 Stat. 612; Pub. L. 99–509, title I, § 1034, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–233, title II, § 205(a), Jan. 6, 1988, 101 Stat. 1607; Pub. L. 115–334, title V, § 5411(18), Dec. 20, 2018, 132 Stat. 4680.)
 
 **Editorial Notes**
 
@@ -3169,7 +3169,7 @@ Each bank of the System may purchase its own obligations and the obligations of 
 
 1986—Pub. L. 99–509 designated existing provisions as subsec. (a) and added subsec. (b).
 
-#### § 2160. Federal Farm Credit Banks Funding Corporation
+#### § 2160. Federal Farm Credit Banks Funding Corporation
 
 **(a) Establishment**
 
@@ -3235,7 +3235,7 @@ The stock of the predecessor corporation issued before January 6, 1988, shall, b
 
 The succession to assets, assumption of liabilities, conversion of obligations, instruments, and stock, and effectuation of any other transaction by the Corporation to carry out this subsection shall not be treated as a taxable event under the laws of any State or political subdivision thereof.
 
-(Pub. L. 92–181, title IV, § 4.9, Dec. 10, 1971, 85 Stat. 612; Pub. L. 100–233, title II, § 204(a), Jan. 6, 1988, 101 Stat. 1605; Pub. L. 100–399, title II, § 203(a)–(d), Aug. 17, 1988, 102 Stat. 992, 993; Pub. L. 102–552, title V, § 507, Oct. 28, 1992, 106 Stat. 4131; Pub. L. 115–334, title V, § 5411(19), Dec. 20, 2018, 132 Stat. 4681.)
+(Pub. L. 92–181, title IV, § 4.9, Dec. 10, 1971, 85 Stat. 612; Pub. L. 100–233, title II, § 204(a), Jan. 6, 1988, 101 Stat. 1605; Pub. L. 100–399, title II, § 203(a)–(d), Aug. 17, 1988, 102 Stat. 992, 993; Pub. L. 102–552, title V, § 507, Oct. 28, 1992, 106 Stat. 4131; Pub. L. 115–334, title V, § 5411(19), Dec. 20, 2018, 132 Stat. 4681.)
 
 **Editorial Notes**
 
@@ -3245,11 +3245,11 @@ January 6, 1988, referred to in subsec. (e)(3), was in the original “the date 
 
 **Amendments**
 
-Subsec. (d)(2). Pub. L. 115–334, § 5411(19)(A), designated concluding provisions of subsec. (d)(1) as par. (2), inserted heading, inserted “of paragraph (1)” after “(A) and (B)”, and struck out former par. (2) which related to Assistance Board non-voting representatives and post-termination representation on the board of directors of the Corporation.
+Subsec. (d)(2). Pub. L. 115–334, § 5411(19)(A), designated concluding provisions of subsec. (d)(1) as par. (2), inserted heading, inserted “of paragraph (1)” after “(A) and (B)”, and struck out former par. (2) which related to Assistance Board non-voting representatives and post-termination representation on the board of directors of the Corporation.
 
-Subsec. (d)(3). Pub. L. 115–334, § 5411(19)(A)(i), added par. (3).
+Subsec. (d)(3). Pub. L. 115–334, § 5411(19)(A)(i), added par. (3).
 
-Subsecs. (e), (f). Pub. L. 115–334, § 5411(19)(B), (C), redesignated subsec. (f) as (e) and struck out former subsec. (e) which set out transitional authority until a majority of the voting members of the board of directors of the Corporation was elected.
+Subsecs. (e), (f). Pub. L. 115–334, § 5411(19)(B), (C), redesignated subsec. (f) as (e) and struck out former subsec. (e) which set out transitional authority until a majority of the voting members of the board of directors of the Corporation was elected.
 
 1992—Subsec. (d)(2). Pub. L. 102–552 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
@@ -3261,13 +3261,13 @@ Subsecs. (e), (f). Pub. L. 115–334, § 5411(19)(B), (C), redesignated subsec
 
 1988—Pub. L. 100–233 amended section generally. Prior to amendment, section read as follows: “A fiscal agency shall be established by the banks for such of their functions relating to the issuance, marketing, and handling of their obligations, and interbank or intersystem flow of funds as may from time to time be required.”
 
-Subsec. (b)(3). Pub. L. 100–399, § 203(b), inserted “predecessor Federal Farm Credit Banks” before “Funding Corporation”.
+Subsec. (b)(3). Pub. L. 100–399, § 203(b), inserted “predecessor Federal Farm Credit Banks” before “Funding Corporation”.
 
-Subsec. (d)(2)(B), (C). Pub. L. 100–399, § 203(c), substituted “directors of the Corporation” for “directors of the Federal Farm Credit Banks Funding Corporation”.
+Subsec. (d)(2)(B), (C). Pub. L. 100–399, § 203(c), substituted “directors of the Corporation” for “directors of the Federal Farm Credit Banks Funding Corporation”.
 
-Subsec. (e). Pub. L. 100–399, § 203(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Until a quorum of the board of directors of the Corporation is elected or appointed, the finance committee established under section 2156 of this title in effect before January 6, 1988, and the fiscal agency established under section 2160 of this title in effect before January 6, 1988, shall continue to operate as if this section had not been enacted.”
+Subsec. (e). Pub. L. 100–399, § 203(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Until a quorum of the board of directors of the Corporation is elected or appointed, the finance committee established under section 2156 of this title in effect before January 6, 1988, and the fiscal agency established under section 2160 of this title in effect before January 6, 1988, shall continue to operate as if this section had not been enacted.”
 
-Subsec. (f). Pub. L. 100–399, § 203(a), added subsec. (f).
+Subsec. (f). Pub. L. 100–399, § 203(a), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3275,9 +3275,9 @@ Subsec. (f). Pub. L. 100–399, § 203(a), added subsec. (f).
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2161. Repealed. Pub. L. 100–399, title I, § 101(a), Aug. 17, 1988, 102 Stat. 989
+#### § 2161. Repealed. Pub. L. 100–399, title I, § 101(a), Aug. 17, 1988, 102 Stat. 989
 
-Section, Pub. L. 92–181, title IV, § 4.9A, as added Pub. L. 99–205, title I, § 105, Dec. 23, 1985, 99 Stat. 1687, authorized a central reserve for Farm Credit System.
+Section, Pub. L. 92–181, title IV, § 4.9A, as added Pub. L. 99–205, title I, § 105, Dec. 23, 1985, 99 Stat. 1687, authorized a central reserve for Farm Credit System.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3285,7 +3285,7 @@ Section, Pub. L. 92–181, title IV, § 4.9A, as added Pub. L. 99–205, title
 
 Repeal effective immediately after enactment of Pub. L. 100–233, approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2162. Protection of borrower stock
+#### § 2162. Protection of borrower stock
 
 **(a) Retirement of stock**
 
@@ -3341,13 +3341,13 @@ The term “institution” means a bank or association chartered under this chap
 
 **(C)** in the case of participation certificates and allocated equities subject to retirement under a revolving cycle but that a System institution elects to retire out of order for application against a loan in default or otherwise as provided in this chapter, par or face value discounted, at a rate determined by the institution, to reflect the present value of the equity or interest as of the date of such retirement.
 
-(Pub. L. 92–181, title IV, § 4.9A, as added Pub. L. 100–233, title I, § 101, Jan. 6, 1988, 101 Stat. 1572; amended Pub. L. 100–399, title I, § 101(b)–(d), Aug. 17, 1988, 102 Stat. 989; Pub. L. 115–334, title V, § 5411(20), Dec. 20, 2018, 132 Stat. 4681.)
+(Pub. L. 92–181, title IV, § 4.9A, as added Pub. L. 100–233, title I, § 101, Jan. 6, 1988, 101 Stat. 1572; amended Pub. L. 100–399, title I, § 101(b)–(d), Aug. 17, 1988, 102 Stat. 989; Pub. L. 115–334, title V, § 5411(20), Dec. 20, 2018, 132 Stat. 4681.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4.9A of Pub. L. 92–181, which authorized a central reserve for Farm Credit System, was classified to section 2161 of this title and was repealed by Pub. L. 100–399, § 101(a).
+A prior section 4.9A of Pub. L. 92–181, which authorized a central reserve for Farm Credit System, was classified to section 2161 of this title and was repealed by Pub. L. 100–399, § 101(a).
 
 **Amendments**
 
@@ -3357,11 +3357,11 @@ A prior section 4.9A of Pub. L. 92–181, which authorized a central reserve for
 
 “(2) after such 5-year period, the Farm Credit System Insurance Corporation shall provide the receiver with sufficient funds from the Farm Credit Insurance Fund to enable the receiver to carry out this subsection.”
 
-1988—Subsec. (a). Pub. L. 100–399, § 101(b), struck out provision that an institution whose capital stock is impaired coordinate retirement of stock under this section with the activities of the Assistance Board and the Financial Assistance Corporation.
+1988—Subsec. (a). Pub. L. 100–399, § 101(b), struck out provision that an institution whose capital stock is impaired coordinate retirement of stock under this section with the activities of the Assistance Board and the Financial Assistance Corporation.
 
-Subsec. (c). Pub. L. 100–399, § 101(c), inserted “stock” in subsec. heading and amended text generally. Prior to amendment, text read as follows: “If an institution is unable to retire eligible borrower stock at par value due to the freezing of such stock during a liquidation of the institution, the receiver of the institution shall retire such stock at par value as would have been retired in the ordinary course of business of the institution and the Financial Assistance Corporation, on request of the Assistance Board, shall provide the receiver with sufficient funds to enable the receiver to carry out this subsection.”
+Subsec. (c). Pub. L. 100–399, § 101(c), inserted “stock” in subsec. heading and amended text generally. Prior to amendment, text read as follows: “If an institution is unable to retire eligible borrower stock at par value due to the freezing of such stock during a liquidation of the institution, the receiver of the institution shall retire such stock at par value as would have been retired in the ordinary course of business of the institution and the Financial Assistance Corporation, on request of the Assistance Board, shall provide the receiver with sufficient funds to enable the receiver to carry out this subsection.”
 
-Subsec. (d)(2)(B). Pub. L. 100–399, § 101(d), in introductory provision substituted “issued or allocated” for “required to be purchased, and is purchased, as a condition of obtaining a loan made” and in cl. (i) substituted “section 2154a of this title” for “section 4.9B”.
+Subsec. (d)(2)(B). Pub. L. 100–399, § 101(d), in introductory provision substituted “issued or allocated” for “required to be purchased, and is purchased, as a condition of obtaining a loan made” and in cl. (i) substituted “section 2154a of this title” for “section 4.9B”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3375,15 +3375,15 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 **Codification**
 
-Pub. L. 100–233, title IV, § 418(a)(1), formerly § 415(a)(1), Jan. 6, 1988, 101 Stat. 1653, renumbered § 418(a)(1), Pub. L. 100–399, title IV, § 409(a), Aug. 17, 1988, 102 Stat. 1003, substituted “Dissolution” for “Dissolution and merger” as part B heading.
+Pub. L. 100–233, title IV, § 418(a)(1), formerly § 415(a)(1), Jan. 6, 1988, 101 Stat. 1653, renumbered § 418(a)(1), Pub. L. 100–399, title IV, § 409(a), Aug. 17, 1988, 102 Stat. 1003, substituted “Dissolution” for “Dissolution and merger” as part B heading.
 
-#### §§ 2181, 2182. Repealed. Pub. L. 100–233, title IV, § 418(a)(2), (3), formerly § 415(a)(2), (3), Jan. 6, 1988, 101 Stat. 1653; renumbered § 418(a)(2), (3), Pub. L. 100–399, title IV, § 409(a), Aug. 17, 1988, 102 Stat. 1003
+#### §§ 2181, 2182. Repealed. Pub. L. 100–233, title IV, § 418(a)(2), (3), formerly § 415(a)(2), (3), Jan. 6, 1988, 101 Stat. 1653; renumbered § 418(a)(2), (3), Pub. L. 100–399, title IV, § 409(a), Aug. 17, 1988, 102 Stat. 1003
 
-Section 2181, Pub. L. 92–181, title IV, § 4.10, Dec. 10, 1971, 85 Stat. 612; Pub. L. 96–592, title IV, § 402, Dec. 24, 1980, 94 Stat. 3446, related to merger of similar banks.
+Section 2181, Pub. L. 92–181, title IV, § 4.10, Dec. 10, 1971, 85 Stat. 612; Pub. L. 96–592, title IV, § 402, Dec. 24, 1980, 94 Stat. 3446, related to merger of similar banks.
 
-Section 2182, Pub. L. 92–181, title IV, § 4.11, Dec. 10, 1971, 85 Stat. 612; Pub. L. 99–205, title II, § 205(f)(4), Dec. 23, 1985, 99 Stat. 1706, related to board of directors for merged bank.
+Section 2182, Pub. L. 92–181, title IV, § 4.11, Dec. 10, 1971, 85 Stat. 612; Pub. L. 99–205, title II, § 205(f)(4), Dec. 23, 1985, 99 Stat. 1706, related to board of directors for merged bank.
 
-#### § 2183. Dissolution; voluntary or involuntary liquidation; mergers; receiverships or conservators
+#### § 2183. Dissolution; voluntary or involuntary liquidation; mergers; receiverships or conservators
 
 **(a) Voluntary liquidation; consent of Farm Credit Administration; rules and regulations; minimization of adverse effect; voluntary merger; mandatory merger on failure to comply or meet obligations**
 
@@ -3397,29 +3397,29 @@ The Farm Credit Administration Board may appoint a conservator or receiver for a
 
 In the case of an involuntary liquidation of an association, regulations of the Farm Credit Administration, among other things, shall direct the supervising bank to institute such measures as it deems appropriate to minimize the adverse effect of the liquidation on those borrowers whose loans are purchased by or otherwise transferred to another System institution.
 
-(Pub. L. 92–181, title IV, § 4.12, Dec. 10, 1971, 85 Stat. 612; Pub. L. 99–205, title I, § 102, title II, § 205(f)(5), title III, § 305, Dec. 23, 1985, 99 Stat. 1679, 1706, 1708; Pub. L. 100–233, title III, § 306, title IV, § 418(a)(4), formerly § 415(a)(4), § 431(g), title VIII, § 805(r), Jan. 6, 1988, 101 Stat. 1622, 1653, 1660, 1716, renumbered § 418(a)(4), Pub. L. 100–399, title IV, § 409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title IX, § 901(f), Aug. 17, 1988, 102 Stat. 1007.)
+(Pub. L. 92–181, title IV, § 4.12, Dec. 10, 1971, 85 Stat. 612; Pub. L. 99–205, title I, § 102, title II, § 205(f)(5), title III, § 305, Dec. 23, 1985, 99 Stat. 1679, 1706, 1708; Pub. L. 100–233, title III, § 306, title IV, § 418(a)(4), formerly § 415(a)(4), § 431(g), title VIII, § 805(r), Jan. 6, 1988, 101 Stat. 1622, 1653, 1660, 1716, renumbered § 418(a)(4), Pub. L. 100–399, title IV, § 409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title IX, § 901(f), Aug. 17, 1988, 102 Stat. 1007.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–399, § 901(f), substituted “board of the supervising bank” for “district board”.
+1988—Subsec. (a). Pub. L. 100–399, § 901(f), substituted “board of the supervising bank” for “district board”.
 
-Pub. L. 100–233, § 415(a)(4), struck out third sentence which provided that Associations may voluntarily merge with other like associations upon the vote of a majority of each of their stockholders present and voting or voting by written proxy at duly authorized meetings, and with the approval of the supervising bank and the Farm Credit Administration, and substituted “Board may require an association to merge with another association” for “may require such merger” in fourth sentence.
+Pub. L. 100–233, § 415(a)(4), struck out third sentence which provided that Associations may voluntarily merge with other like associations upon the vote of a majority of each of their stockholders present and voting or voting by written proxy at duly authorized meetings, and with the approval of the supervising bank and the Farm Credit Administration, and substituted “Board may require an association to merge with another association” for “may require such merger” in fourth sentence.
 
-Subsec. (b). Pub. L. 100–233, § 431(g), substituted “Farm Credit Administration Board” for “Farm Credit Administration” wherever appearing other than in cl. (5).
+Subsec. (b). Pub. L. 100–233, § 431(g), substituted “Farm Credit Administration Board” for “Farm Credit Administration” wherever appearing other than in cl. (5).
 
-Pub. L. 100–233, § 306, added cl. (6) and inserted “, and such receiver or conservator, after the 5-year period beginning on January 6, 1988, shall be the Farm Credit System Insurance Corporation” before the period at end of second sentence.
+Pub. L. 100–233, § 306, added cl. (6) and inserted “, and such receiver or conservator, after the 5-year period beginning on January 6, 1988, shall be the Farm Credit System Insurance Corporation” before the period at end of second sentence.
 
-Pub. L. 100–233, § 805(r), substituted “court shall” for “court, shall”.
+Pub. L. 100–233, § 805(r), substituted “court shall” for “court, shall”.
 
-1985—Subsec. (a). Pub. L. 99–205, § 205(f)(5), substituted “Farm Credit Administration” for “Federal Farm Credit Board” in last sentence.
+1985—Subsec. (a). Pub. L. 99–205, § 205(f)(5), substituted “Farm Credit Administration” for “Federal Farm Credit Board” in last sentence.
 
-Pub. L. 99–205, § 305(a), inserted after first sentence a sentence requiring the regulations, in the case of a voluntary liquidation of an association, to direct the supervising bank to institute appropriate measures to minimize the adverse effect of the liquidation on borrowers whose loans are purchased by or otherwise transferred to another System institution.
+Pub. L. 99–205, § 305(a), inserted after first sentence a sentence requiring the regulations, in the case of a voluntary liquidation of an association, to direct the supervising bank to institute appropriate measures to minimize the adverse effect of the liquidation on borrowers whose loans are purchased by or otherwise transferred to another System institution.
 
-Subsec. (b). Pub. L. 99–205, § 102, in revising subsec. (b), substituted expanded provisions respecting appointment of conservator or receiver for former provision, which read as follows: “Upon default of any obligation by any institution of the System, such institution may be declared insolvent and placed in the hands of a conservator or a receiver appointed by the Governor and the proceedings thereon shall be in accordance with regulations of the Farm Credit Administration regarding such insolvencies.”
+Subsec. (b). Pub. L. 99–205, § 102, in revising subsec. (b), substituted expanded provisions respecting appointment of conservator or receiver for former provision, which read as follows: “Upon default of any obligation by any institution of the System, such institution may be declared insolvent and placed in the hands of a conservator or a receiver appointed by the Governor and the proceedings thereon shall be in accordance with regulations of the Farm Credit Administration regarding such insolvencies.”
 
-Subsec. (c). Pub. L. 99–205, § 305(b), added subsec. (c).
+Subsec. (c). Pub. L. 99–205, § 305(b), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3431,7 +3431,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2184. Communications with stockholders
+#### § 2184. Communications with stockholders
 
 **(a) Provision of stockholder lists**
 
@@ -3455,7 +3455,7 @@ As an alternative to receiving a list of stockholders, a stockholder may request
 
 Alternative communications may be used, at the discretion of the requesting stockholder, if the requester agrees to defray the reasonable costs of the communication. If the requester decides to exercise this option, the institution shall provide the requester with a written estimate of the costs of handling and mailing the communication as soon as is practicable after receipt of the stockholder’s request to furnish the communication.
 
-(Pub. L. 92–181, title IV, § 4.12A, as added Pub. L. 100–233, title IV, § 420, Jan. 6, 1988, 101 Stat. 1653; amended Pub. L. 115–334, title V, § 5411(21), Dec. 20, 2018, 132 Stat. 4681.)
+(Pub. L. 92–181, title IV, § 4.12A, as added Pub. L. 100–233, title IV, § 420, Jan. 6, 1988, 101 Stat. 1653; amended Pub. L. 115–334, title V, § 5411(21), Dec. 20, 2018, 132 Stat. 4681.)
 
 **Editorial Notes**
 
@@ -3469,9 +3469,9 @@ Alternative communications may be used, at the discretion of the requesting stoc
 
 **Codification**
 
-Pub. L. 100–233, title VIII, § 804(b), Jan. 6, 1988, 101 Stat. 1715, substituted “Rights of Borrowers; Loan Restructuring” for “Rights of Applicants” as part C heading.
+Pub. L. 100–233, title VIII, § 804(b), Jan. 6, 1988, 101 Stat. 1715, substituted “Rights of Borrowers; Loan Restructuring” for “Rights of Applicants” as part C heading.
 
-#### § 2199. Disclosure
+#### § 2199. Disclosure
 
 **(a) In general** In accordance with regulations of the Farm Credit Administration, qualified lenders shall provide to borrowers, for all loans that are not subject to the Truth in Lending Act (15 U.S.C. 1601 et seq.), meaningful and timely disclosure not later than the time of the loan closing, of—
 
@@ -3495,25 +3495,25 @@ Pub. L. 100–233, title VIII, § 804(b), Jan. 6, 1988, 101 Stat. 1715, substi
 
 **(3)** explain to the borrower in writing how the credit status of the borrower may be improved to receive a lower interest rate on the loan.
 
-(Pub. L. 92–181, title IV, § 4.13, as added Pub. L. 99–205, title III, § 301(b), Dec. 23, 1985, 99 Stat. 1707; amended Pub. L. 100–233, title I, §§ 103, 109, Jan. 6, 1988, 101 Stat. 1579, 1584; Pub. L. 104–105, title II, § 207, Feb. 10, 1996, 110 Stat. 173.)
+(Pub. L. 92–181, title IV, § 4.13, as added Pub. L. 99–205, title III, § 301(b), Dec. 23, 1985, 99 Stat. 1707; amended Pub. L. 100–233, title I, §§ 103, 109, Jan. 6, 1988, 101 Stat. 1579, 1584; Pub. L. 104–105, title II, § 207, Feb. 10, 1996, 110 Stat. 173.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Truth in Lending Act, referred to in subsec. (a), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec. (a), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 **Prior Provisions**
 
-A prior section 4.13 of Pub. L. 92–181, title IV, Dec. 10, 1971, 85 Stat. 613, was renumbered section 4.13B by Pub. L. 99–205, title III, § 301(a), Dec. 23, 1985, 99 Stat. 1707, and is classified to section 2201 of this title.
+A prior section 4.13 of Pub. L. 92–181, title IV, Dec. 10, 1971, 85 Stat. 613, was renumbered section 4.13B by Pub. L. 99–205, title III, § 301(a), Dec. 23, 1985, 99 Stat. 1707, and is classified to section 2201 of this title.
 
 **Amendments**
 
-1996—Subsec. (a)(4). Pub. L. 104–105 inserted before semicolon at end “, and notice to the borrower of a change in the interest rate applicable to the loan of the borrower may be made within a reasonable time after the effective date of an increase or decrease in the interest rate”.
+1996—Subsec. (a)(4). Pub. L. 104–105 inserted before semicolon at end “, and notice to the borrower of a change in the interest rate applicable to the loan of the borrower may be made within a reasonable time after the effective date of an increase or decrease in the interest rate”.
 
-1988—Pub. L. 100–233, § 109, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+1988—Pub. L. 100–233, § 109, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Pub. L. 100–233, § 103, amended section generally, substituting introductory provisions and cls. (1) to (6) for former subsecs. (a) and (b).
+Pub. L. 100–233, § 103, amended section generally, substituting introductory provisions and cls. (1) to (6) for former subsecs. (a) and (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3521,11 +3521,11 @@ Pub. L. 100–233, § 103, amended section generally, substituting introductor
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2200. Access to documents and information
+#### § 2200. Access to documents and information
 
 In accordance with regulations of the Farm Credit Administration, qualified lenders shall provide their borrowers, at the time of execution of loans, copies of all documents signed by the borrower and at any time thereafter, on a borrower’s request, copies of all documents signed or delivered by the borrower and at any time, on request, a copy of the institution’s articles of incorporation or charter and bylaws and copies of each appraisal of the borrower’s assets made or used by the qualified lender.
 
-(Pub. L. 92–181, title IV, § 4.13A, as added Pub. L. 99–205, title III, § 301(b), Dec. 23, 1985, 99 Stat. 1707; amended Pub. L. 100–233, title I, § 104, Jan. 6, 1988, 101 Stat. 1579.)
+(Pub. L. 92–181, title IV, § 4.13A, as added Pub. L. 99–205, title III, § 301(b), Dec. 23, 1985, 99 Stat. 1707; amended Pub. L. 100–233, title I, § 104, Jan. 6, 1988, 101 Stat. 1579.)
 
 **Editorial Notes**
 
@@ -3539,7 +3539,7 @@ In accordance with regulations of the Farm Credit Administration, qualified lend
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2201. Notice of action on application
+#### § 2201. Notice of action on application
 
 **(a) Loan applications** Each qualified lender to which a person has applied for a loan shall provide the person with prompt written notice of—
 
@@ -3557,7 +3557,7 @@ Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99
 
 **(3)** the borrower’s right to review under section 2202 of this title.
 
-(Pub. L. 92–181, title IV, § 4.13B, formerly § 4.13, Dec. 10, 1971, 85 Stat. 613, renumbered § 4.13B and amended Pub. L. 99–205, title III, §§ 301(a), 302, Dec. 23, 1985, 99 Stat. 1707, 1708; Pub. L. 100–233, title I, § 105, Jan. 6, 1988, 101 Stat. 1579.)
+(Pub. L. 92–181, title IV, § 4.13B, formerly § 4.13, Dec. 10, 1971, 85 Stat. 613, renumbered § 4.13B and amended Pub. L. 99–205, title III, §§ 301(a), 302, Dec. 23, 1985, 99 Stat. 1707, 1708; Pub. L. 100–233, title I, § 105, Jan. 6, 1988, 101 Stat. 1579.)
 
 **Editorial Notes**
 
@@ -3565,7 +3565,7 @@ Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99
 
 1988—Pub. L. 100–233 amended section generally. Prior to amendment, section read as follows: “Every applicant for a loan from an institution of the System shall be entitled to prompt written notice of action on his application, and, if the loan applied for is reduced or denied, the reason for such action, and of the applicant’s right to review under section 2202 of this title.”
 
-1985—Pub. L. 99–205, § 302, provided for a “written” notice and for the applicant’s right to review under section 2202 of this title.
+1985—Pub. L. 99–205, § 302, provided for a “written” notice and for the applicant’s right to review under section 2202 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3573,7 +3573,7 @@ Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2202. Reconsideration of actions
+#### § 2202. Reconsideration of actions
 
 **(a) Credit review committees**
 
@@ -3621,19 +3621,19 @@ An independent appraisal shall be permitted if additional collateral for a loan 
 
 Promptly after a review by the credit review committee, the committee shall notify the applicant or borrower, as the case may be, in writing of the decision of the committee and the reasons for the decision.
 
-(Pub. L. 92–181, title IV, § 4.14, Dec. 10, 1971, 85 Stat. 613; Pub. L. 99–205, title III, § 303, Dec. 23, 1985, 99 Stat. 1708; Pub. L. 100–233, title I, § 106, title VIII, § 805(s), Jan. 6, 1988, 101 Stat. 1580, 1716; Pub. L. 100–399, title I, § 103, title VII, § 702(b), Aug. 17, 1988, 102 Stat. 990, 1006.)
+(Pub. L. 92–181, title IV, § 4.14, Dec. 10, 1971, 85 Stat. 613; Pub. L. 99–205, title III, § 303, Dec. 23, 1985, 99 Stat. 1708; Pub. L. 100–233, title I, § 106, title VIII, § 805(s), Jan. 6, 1988, 101 Stat. 1580, 1716; Pub. L. 100–399, title I, § 103, title VII, § 702(b), Aug. 17, 1988, 102 Stat. 990, 1006.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Pub. L. 100–233, § 805(s), which directed amendment of this section by substituting “committees” for “committee(s)”, “2201” for “2199”, and “review” for “reviews”, was repealed by Pub. L. 100–399, § 702(b). See Construction of 1988 Amendment note below.
+1988—Pub. L. 100–233, § 805(s), which directed amendment of this section by substituting “committees” for “committee(s)”, “2201” for “2199”, and “review” for “reviews”, was repealed by Pub. L. 100–399, § 702(b). See Construction of 1988 Amendment note below.
 
-Pub. L. 100–233, § 106, amended section generally. Prior to amendment, section read as follows: “The board of directors of each Farm Credit System institution shall establish one or more credit review committee(s), which shall include farmer board respresentation. [sic] Any loan applicant who has received written notice, under section 2199 of this title, of a decision to deny or reduce the loan applied for, if the applicant so requests in writing within thirty days after receiving such notice, may obtain a review of such decision in person before the credit review committee. When a loan applicant requests review of an adverse credit decision, a majority of persons serving on such reviews committee must be persons who were not involved in making the adverse decision. Promptly after any such review, the applicant shall be notified in writing of the credit review committee’s decision and the reasons therefor.”
+Pub. L. 100–233, § 106, amended section generally. Prior to amendment, section read as follows: “The board of directors of each Farm Credit System institution shall establish one or more credit review committee(s), which shall include farmer board respresentation. [sic] Any loan applicant who has received written notice, under section 2199 of this title, of a decision to deny or reduce the loan applied for, if the applicant so requests in writing within thirty days after receiving such notice, may obtain a review of such decision in person before the credit review committee. When a loan applicant requests review of an adverse credit decision, a majority of persons serving on such reviews committee must be persons who were not involved in making the adverse decision. Promptly after any such review, the applicant shall be notified in writing of the credit review committee’s decision and the reasons therefor.”
 
-Subsec. (b)(1). Pub. L. 100–399, § 103(a), substituted “before the” for “by a”.
+Subsec. (b)(1). Pub. L. 100–399, § 103(a), substituted “before the” for “by a”.
 
-Subsec. (d)(1). Pub. L. 100–399, § 103(b), inserted “or (2)”.
+Subsec. (d)(1). Pub. L. 100–399, § 103(b), inserted “or (2)”.
 
 1985—Pub. L. 99–205, in amending section generally, substituted provisions respecting reconsideration of action on loan application for prior reconsideration provisions which read as follows: “Any applicant who has reason to believe that the action on his application by an association failed to take into account facts pertinent to his application, or has misinterpreted or failed to properly apply the applicable law or rules and regulations governing his application, may, if he so requests in writing within thirty days of the date of that notice, request an informal hearing on his application and the action of the association in reduction or denial thereof, or the reason for such action, in person before the loan committee or officer or employee thereof authorized to act on applications under section 2033(11) or 2093(18) of this title. Promptly after such a hearing, he shall be notified of the decision upon reconsideration and the reasons therefor.”
 
@@ -3649,9 +3649,9 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 **Construction of 1988 Amendment**
 
-Pub. L. 100–399, title VII, § 702(b), Aug. 17, 1988, 102 Stat. 1006, provided that section 805(s) of Pub. L. 100–233, cited as a credit to this section, is repealed and that this section shall be applied and administered as if such section had not been enacted.
+Pub. L. 100–399, title VII, § 702(b), Aug. 17, 1988, 102 Stat. 1006, provided that section 805(s) of Pub. L. 100–233, cited as a credit to this section, is repealed and that this section shall be applied and administered as if such section had not been enacted.
 
-#### § 2202a. Restructuring distressed loans
+#### § 2202a. Restructuring distressed loans
 
 **(a) Definitions** As used in this part and section 2219a of this title:
 
@@ -3813,37 +3813,37 @@ The time limitation prescribed in subsection (b)(2), and the requirements of sub
 
 Each Farm Credit Bank, on request of any association, may assist the association in restructuring loans under this section.
 
-(Pub. L. 92–181, title IV, § 4.14A, as added Pub. L. 100–233, title I, § 102(a), Jan. 6, 1988, 101 Stat. 1574; amended Pub. L. 100–399, title I, § 102(a)–(f), Aug. 17, 1988, 102 Stat. 990; Pub. L. 104–105, title II, § 208(a), Feb. 10, 1996, 110 Stat. 173; Pub. L. 115–334, title V, § 5411(22), Dec. 20, 2018, 132 Stat. 4681.)
+(Pub. L. 92–181, title IV, § 4.14A, as added Pub. L. 100–233, title I, § 102(a), Jan. 6, 1988, 101 Stat. 1574; amended Pub. L. 100–399, title I, § 102(a)–(f), Aug. 17, 1988, 102 Stat. 990; Pub. L. 104–105, title II, § 208(a), Feb. 10, 1996, 110 Stat. 173; Pub. L. 115–334, title V, § 5411(22), Dec. 20, 2018, 132 Stat. 4681.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 5411(22)(A)(i), inserted “and section 2219a of this title” after “this part” in introductory provisions.
+2018—Subsec. (a). Pub. L. 115–334, § 5411(22)(A)(i), inserted “and section 2219a of this title” after “this part” in introductory provisions.
 
-Subsec. (a)(5)(B)(ii)(I). Pub. L. 115–334, § 5411(22)(A)(ii), struck out “2202c,” after “2202b,”.
+Subsec. (a)(5)(B)(ii)(I). Pub. L. 115–334, § 5411(22)(A)(ii), struck out “2202c,” after “2202b,”.
 
-Subsecs. (h) to (j). Pub. L. 115–334, § 5411(22)(B), (C), redesignated subsecs. (i) to (k) as (h) to (j), respectively, and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows: “During the 5-year period beginning on January 6, 1988, each qualified lender shall submit semiannual reports to the Farm Credit Administration containing—
+Subsecs. (h) to (j). Pub. L. 115–334, § 5411(22)(B), (C), redesignated subsecs. (i) to (k) as (h) to (j), respectively, and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows: “During the 5-year period beginning on January 6, 1988, each qualified lender shall submit semiannual reports to the Farm Credit Administration containing—
 
 “(1) the results of the review of distressed loans of the lender; and
 
 “(2) the financial effect of loan restructurings and liquidations on the lender.”
 
-Subsecs. (k), (*l*). Pub. L. 115–334, § 5411(22)(C), (D), redesignated subsec. (*l*) as (k) and struck out “production credit” after “request of any”. Former subsec. (k) redesignated (j).
+Subsecs. (k), (*l*). Pub. L. 115–334, § 5411(22)(C), (D), redesignated subsec. (*l*) as (k) and struck out “production credit” after “request of any”. Former subsec. (k) redesignated (j).
 
 1996—Subsec. (a)(5). Pub. L. 104–105 designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Subject to subparagraph (B), the term” for “The term”, and added subpar. (B).
 
-1988—Subsec. (a). Pub. L. 100–399, § 102(a), struck out “(other than in sections 2205 and 2206 of this title)” after “in this part”.
+1988—Subsec. (a). Pub. L. 100–399, § 102(a), struck out “(other than in sections 2205 and 2206 of this title)” after “in this part”.
 
-Subsec. (a)(6)(B). Pub. L. 100–399, § 102(b), substituted “section 2015(b)(1)(B) of this title” for “section 2074(a)(2) of this title” and “section 2015(b)(1) of this title” for “section 2074(a) of this title”.
+Subsec. (a)(6)(B). Pub. L. 100–399, § 102(b), substituted “section 2015(b)(1)(B) of this title” for “section 2074(a)(2) of this title” and “section 2015(b)(1) of this title” for “section 2074(a) of this title”.
 
-Subsec. (e)(1). Pub. L. 100–399, § 102(c), substituted “cost to such qualified” for “cost to a qualified”.
+Subsec. (e)(1). Pub. L. 100–399, § 102(c), substituted “cost to such qualified” for “cost to a qualified”.
 
-Subsec. (g)(1). Pub. L. 100–399, § 102(d), substituted “bank” for “farm credit district”.
+Subsec. (g)(1). Pub. L. 100–399, § 102(d), substituted “bank” for “farm credit district”.
 
-Subsec. (g)(3). Pub. L. 100–399, § 102(e), substituted “bank board” for “district board”.
+Subsec. (g)(3). Pub. L. 100–399, § 102(e), substituted “bank board” for “district board”.
 
-Subsec. (*l*). Pub. L. 100–399, § 102(f), substituted “Farm Credit Bank” for “Federal intermediate credit bank”.
+Subsec. (*l*). Pub. L. 100–399, § 102(f), substituted “Farm Credit Bank” for “Federal intermediate credit bank”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3853,9 +3853,9 @@ Amendment by section 102(b), (f) of Pub. L. 100–399 effective immediately afte
 
 **Sense of Congress**
 
-Pub. L. 100–233, title I, § 102(b), Jan. 6, 1988, 101 Stat. 1579, provided that: “It is the sense of Congress that the banks and associations (except banks for cooperatives) operating under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) should administer distressed loans to farmers with the objective of using the loan guarantee programs of the Farmers Home Administration and other loan restructuring measures, including participation in interest rate buy-down programs that are Federally or State funded, and other Federal and State sponsored financial assistance programs that offer relief to financially distressed farmers, as alternatives to foreclosure, considering the availability and appropriateness of such programs on a case-by-case basis.”
+Pub. L. 100–233, title I, § 102(b), Jan. 6, 1988, 101 Stat. 1579, provided that: “It is the sense of Congress that the banks and associations (except banks for cooperatives) operating under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) should administer distressed loans to farmers with the objective of using the loan guarantee programs of the Farmers Home Administration and other loan restructuring measures, including participation in interest rate buy-down programs that are Federally or State funded, and other Federal and State sponsored financial assistance programs that offer relief to financially distressed farmers, as alternatives to foreclosure, considering the availability and appropriateness of such programs on a case-by-case basis.”
 
-#### § 2202b. Effect of restructuring on borrower stock
+#### § 2202b. Effect of restructuring on borrower stock
 
 **(a) Farm Credit Bank**
 
@@ -3869,13 +3869,13 @@ If a production credit association forgives and writes off, under section 2202a 
 
 Notwithstanding subsections (a) and (b), the borrower shall be entitled to retain at least one share of stock to maintain the borrower’s membership and voting interest in the association.
 
-(Pub. L. 92–181, title IV, § 4.14B, as added Pub. L. 100–233, title I, § 102(a), Jan. 6, 1988, 101 Stat. 1577; amended Pub. L. 100–399, title I, § 102(g), Aug. 17, 1988, 102 Stat. 990.)
+(Pub. L. 92–181, title IV, § 4.14B, as added Pub. L. 100–233, title I, § 102(a), Jan. 6, 1988, 101 Stat. 1577; amended Pub. L. 100–399, title I, § 102(g), Aug. 17, 1988, 102 Stat. 990.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–399 substituted in subsec. heading “Farm Credit Bank” for “Federal land bank” and in text “a Farm Credit Bank” for “a Federal land bank” and “, to the extent provided for in the bylaws of the bank relating to capitalization, the bank shall” for “the Federal land bank shall”.
+1988—Subsec. (a). Pub. L. 100–399 substituted in subsec. heading “Farm Credit Bank” for “Federal land bank” and in text “a Farm Credit Bank” for “a Federal land bank” and “, to the extent provided for in the bylaws of the bank relating to capitalization, the bank shall” for “the Federal land bank shall”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3883,11 +3883,11 @@ Notwithstanding subsections (a) and (b), the borrower shall be entitled to retai
 
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2202c. Repealed. Pub. L. 115–334, title V, § 5411(23), Dec. 20, 2018, 132 Stat. 4682
+#### § 2202c. Repealed. Pub. L. 115–334, title V, § 5411(23), Dec. 20, 2018, 132 Stat. 4682
 
-Section, Pub. L. 92–181, title IV, § 4.14C, as added Pub. L. 100–233, title I, § 102(a), Jan. 6, 1988, 101 Stat. 1578; amended Pub. L. 100–399, title I, § 102(h), Aug. 17, 1988, 102 Stat. 990, related to review of restructuring denials and establishment of a National Special Asset Council.
+Section, Pub. L. 92–181, title IV, § 4.14C, as added Pub. L. 100–233, title I, § 102(a), Jan. 6, 1988, 101 Stat. 1578; amended Pub. L. 100–399, title I, § 102(h), Aug. 17, 1988, 102 Stat. 990, related to review of restructuring denials and establishment of a National Special Asset Council.
 
-#### § 2202d. Protection of borrowers who meet all loan obligations
+#### § 2202d. Protection of borrowers who meet all loan obligations
 
 **(a) Foreclosure prohibited**
 
@@ -3917,13 +3917,13 @@ If the borrower was not delinquent in any principal or interest payment under th
 
 This subsection shall only apply if a loan being placed in nonaccrual status results in an adverse action being taken against the borrower.
 
-(Pub. L. 92–181, title IV, § 4.14D, as added Pub. L. 100–233, title I, § 107, Jan. 6, 1988, 101 Stat. 1581.)
+(Pub. L. 92–181, title IV, § 4.14D, as added Pub. L. 100–233, title I, § 107, Jan. 6, 1988, 101 Stat. 1581.)
 
-#### § 2202e. Waiver of mediation rights by borrowers
+#### § 2202e. Waiver of mediation rights by borrowers
 
 No System institution may make a loan secured by a mortgage or lien on agricultural property to a borrower on the condition that the borrower waive any right under the mediation program of any State.
 
-(Pub. L. 92–181, title IV, § 4.14E, as added Pub. L. 100–233, title V, § 511, Jan. 6, 1988, 101 Stat. 1664; amended Pub. L. 103–354, title II, § 282(f)(2), Oct. 13, 1994, 108 Stat. 3235.)
+(Pub. L. 92–181, title IV, § 4.14E, as added Pub. L. 100–233, title V, § 511, Jan. 6, 1988, 101 Stat. 1664; amended Pub. L. 103–354, title II, § 282(f)(2), Oct. 13, 1994, 108 Stat. 3235.)
 
 **Editorial Notes**
 
@@ -3937,13 +3937,13 @@ No System institution may make a loan secured by a mortgage or lien on agricultu
 
 **Codification**
 
-Pub. L. 100–233, title VIII, § 805(t)(1), Jan. 6, 1988, 101 Stat. 1716, added part D heading.
+Pub. L. 100–233, title VIII, § 805(t)(1), Jan. 6, 1988, 101 Stat. 1716, added part D heading.
 
-#### § 2203. Nomination of association directors; representative selection of nominees
+#### § 2203. Nomination of association directors; representative selection of nominees
 
 Each production credit association and each Federal land bank association shall elect a nominating committee by vote of the stockholders at the annual meeting to serve for the following year. Each nominating committee shall review lists of farmers from the association territory, determine their willingness to serve, and submit for election a slate of eligible candidates which shall include at least two nominees for each elective office to be filled. In doing so, the committee shall endeavor to assure representation to all sections of the association territory and as nearly as possible to all types of agriculture practiced within the area. Employees of the association shall not be eligible to be nominated, elected, or serve as a member of the board. Nominations shall also be accepted from the floor. Members of the board are not eligible to serve on the nominating committee. Regulations of the Farm Credit Administration governing the election of bank directors shall similarly assure a choice of two nominees for each elective office to be filled and that the bank board represent as nearly as possible all types of agriculture in the district.
 
-(Pub. L. 92–181, title IV, § 4.15, Dec. 10, 1971, 85 Stat. 613; Pub. L. 100–399, title IX, § 901(g), Aug. 17, 1988, 102 Stat. 1007.)
+(Pub. L. 92–181, title IV, § 4.15, Dec. 10, 1971, 85 Stat. 613; Pub. L. 100–399, title IX, § 901(g), Aug. 17, 1988, 102 Stat. 1007.)
 
 **Editorial Notes**
 
@@ -3957,15 +3957,15 @@ Each production credit association and each Federal land bank association shall 
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2204. Repealed. Pub. L. 102–552, title V, § 508, Oct. 28, 1992, 106 Stat. 4132
+#### § 2204. Repealed. Pub. L. 102–552, title V, § 508, Oct. 28, 1992, 106 Stat. 4132
 
-Section, Pub. L. 92–181, title IV, § 4.16, Dec. 10, 1971, 85 Stat. 613, prohibited tax-exempt guarantees.
+Section, Pub. L. 92–181, title IV, § 4.16, Dec. 10, 1971, 85 Stat. 613, prohibited tax-exempt guarantees.
 
-#### § 2205. Interest rates
+#### § 2205. Interest rates
 
 Interest rates on loans from institutions of the Farm Credit System shall not be subject to any interest rate limitation imposed by any State constitution or statute or other laws. Such limitation is preempted for purposes of this chapter. Interest rates on loans made by agricultural credit corporations organized in conjunction with cooperative associations for the purpose of financing the ordinary crop operations of the members of such associations or other producers and eligible to discount with the Farm Credit Banks shall be exempt from any interest rate limitation imposed by any State constitution or statute or other laws which are hereby preempted for purposes of this chapter.
 
-(Pub. L. 92–181, title IV, § 4.17, as added Pub. L. 96–592, title IV, § 403, Dec. 24, 1980, 94 Stat. 3446; amended Pub. L. 99–205, title II, § 205(f)(6), Dec. 23, 1985, 99 Stat. 1706; Pub. L. 99–509, title I, § 1035, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–399, title IX, § 901(h), Aug. 17, 1988, 102 Stat. 1007; Pub. L. 115–334, title V, § 5411(24), Dec. 20, 2018, 132 Stat. 4682.)
+(Pub. L. 92–181, title IV, § 4.17, as added Pub. L. 96–592, title IV, § 403, Dec. 24, 1980, 94 Stat. 3446; amended Pub. L. 99–205, title II, § 205(f)(6), Dec. 23, 1985, 99 Stat. 1706; Pub. L. 99–509, title I, § 1035, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–399, title IX, § 901(h), Aug. 17, 1988, 102 Stat. 1007; Pub. L. 115–334, title V, § 5411(24), Dec. 20, 2018, 132 Stat. 4682.)
 
 **Editorial Notes**
 
@@ -3977,7 +3977,7 @@ Interest rates on loans from institutions of the Farm Credit System shall not be
 
 1986—Pub. L. 99–509 substituted first two sentences for former first sentence which read as follows: “Interest rates on loans from institutions of the Farm Credit System shall be determined with the approval of, as provided in section 2252(a)(5) of this title, the Farm Credit Administration as provided in this chapter, notwithstanding any interest rate limitation imposed by any State constitution or statute or other laws which are hereby preempted for purposes of this chapter.”
 
-1985—Pub. L. 99–205 inserted “, as provided in section 2252(a)(5) of this title,” after “with the approval of” in first sentence.
+1985—Pub. L. 99–205 inserted “, as provided in section 2252(a)(5) of this title,” after “with the approval of” in first sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3989,11 +3989,11 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2206. Participation loans
+#### § 2206. Participation loans
 
 Notwithstanding any other provisions of this chapter, the terms of any loan participated in by two or more Farm Credit System institutions operating under different subchapters of this chapter, including provisions for capitalization of the portion of the loan participated in by each institution, shall be as may be agreed upon among such institutions and authorized under regulations issued by the Farm Credit Administration, except that for purposes of determining borrower eligibility, membership, term, amount, loan security, and purchase of stock or participation certificates by the borrower, the provisions of law applicable to the loan shall be the provisions in the subchapter under which the institution that originates the loan operates.
 
-(Pub. L. 92–181, title IV, § 4.18, as added Pub. L. 96–592, title IV, § 403, Dec. 24, 1980, 94 Stat. 3446; amended Pub. L. 99–205, title II, § 205(f)(7), Dec. 23, 1985, 99 Stat. 1706.)
+(Pub. L. 92–181, title IV, § 4.18, as added Pub. L. 96–592, title IV, § 403, Dec. 24, 1980, 94 Stat. 3446; amended Pub. L. 99–205, title II, § 205(f)(7), Dec. 23, 1985, 99 Stat. 1706.)
 
 **Editorial Notes**
 
@@ -4007,7 +4007,7 @@ Notwithstanding any other provisions of this chapter, the terms of any loan part
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2206a. Authority of Farm Credit Banks and direct lender associations to participate in loans to similar entities for risk management purposes
+#### § 2206a. Authority of Farm Credit Banks and direct lender associations to participate in loans to similar entities for risk management purposes
 
 **(a) Definitions** As used in this section:
 
@@ -4031,15 +4031,15 @@ The terms “participate” and “participation” shall have the meaning provi
 
 **(4)** the loan is of the type authorized under section 2019(b) or 2075(a)(2) of this title.
 
-(Pub. L. 92–181, title IV, § 4.18A, as added Pub. L. 103–376, § 5, Oct. 19, 1994, 108 Stat. 3498; Pub. L. 107–171, title V, § 5401(b), May 13, 2002, 116 Stat. 349.)
+(Pub. L. 92–181, title IV, § 4.18A, as added Pub. L. 103–376, § 5, Oct. 19, 1994, 108 Stat. 3498; Pub. L. 107–171, title V, § 5401(b), May 13, 2002, 116 Stat. 349.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (a)(1). Pub. L. 107–171, § 5401(b)(1), substituted “2122(11)(B)(iii) of this title” for “2122(11)(B)(iv) of this title”.
+2002—Subsec. (a)(1). Pub. L. 107–171, § 5401(b)(1), substituted “2122(11)(B)(iii) of this title” for “2122(11)(B)(iv) of this title”.
 
-Subsec. (c). Pub. L. 107–171, § 5401(b)(2), struck out heading and text of subsec. (c). Text read as follows:
+Subsec. (c). Pub. L. 107–171, § 5401(b)(2), struck out heading and text of subsec. (c). Text read as follows:
 
 “(1) In general.—With respect to a similar entity that is eligible to borrow from a bank for cooperatives under subchapter III of this chapter, the authority of a Farm Credit Bank or association to participate in a loan to the entity under this section shall be subject to the prior approval of the bank for cooperatives having, at the time the loan is made, the greatest loan volume in the State in which the headquarters office of the similar entity is located.
 
@@ -4047,13 +4047,13 @@ Subsec. (c). Pub. L. 107–171, § 5401(b)(2), struck out heading and text of 
 
 “(3) Approval by supervising farm credit bank.—An association may not participate in a loan to a similar entity under this section without the approval of the supervising Farm Credit Bank of the association.”
 
-#### § 2207. Young, beginning, and small farmers and ranchers
+#### § 2207. Young, beginning, and small farmers and ranchers
 
 **(a)** Under policies of the Farm Credit Bank board, each association shall prepare a program for furnishing sound and constructive credit and related services to young, beginning, and small farmers and ranchers. Such programs shall assure that such credit and services are available in coordination with other institutions of the Farm Credit System serving the territory and with other governmental and private sources of credit. Each program shall be subject to review and approval by the supervising bank.
 
 **(b)** The Farm Credit Bank for each district shall annually obtain from associations under its supervision reports of activities under programs developed pursuant to subsection (a) and progress toward program objectives. On the basis of such reports, the bank shall provide to the Farm Credit Administration an annual report summarizing the operations and achievements in its district under such programs.
 
-(Pub. L. 92–181, title IV, § 4.19, as added Pub. L. 96–592, title IV, § 403, Dec. 24, 1980, 94 Stat. 3446; amended Pub. L. 100–399, title IX, § 901(i), (j), Aug. 17, 1988, 102 Stat. 1007; Pub. L. 115–334, title V, § 5411(25), Dec. 20, 2018, 132 Stat. 4682.)
+(Pub. L. 92–181, title IV, § 4.19, as added Pub. L. 96–592, title IV, § 403, Dec. 24, 1980, 94 Stat. 3446; amended Pub. L. 100–399, title IX, § 901(i), (j), Aug. 17, 1988, 102 Stat. 1007; Pub. L. 115–334, title V, § 5411(25), Dec. 20, 2018, 132 Stat. 4682.)
 
 **Editorial Notes**
 
@@ -4061,9 +4061,9 @@ Subsec. (c). Pub. L. 107–171, § 5401(b)(2), struck out heading and text of 
 
 2018—Subsec. (a). Pub. L. 115–334 struck out “district” before “Farm Credit Bank board” and “Federal land bank association and production credit” before “association shall prepare” and substituted “institutions” for “units”.
 
-1988—Subsec. (a). Pub. L. 100–399, § 901(i), inserted “Farm Credit Bank” after “district”.
+1988—Subsec. (a). Pub. L. 100–399, § 901(i), inserted “Farm Credit Bank” after “district”.
 
-Subsec. (b). Pub. L. 100–399, § 901(j), substituted “The Farm Credit Bank for each district” for “The Federal land bank and the Federal intermediate credit bank for each district”, “under its supervision” for “under their supervision”, “subsection (a)” for “subsection (a) of this section”, “the bank shall” for “the banks shall”, “an annual report” for “a joint annual report”, and “achievements in its district” for “achievements in their district”.
+Subsec. (b). Pub. L. 100–399, § 901(j), substituted “The Farm Credit Bank for each district” for “The Federal land bank and the Federal intermediate credit bank for each district”, “under its supervision” for “under their supervision”, “subsection (a)” for “subsection (a) of this section”, “the bank shall” for “the banks shall”, “an annual report” for “a joint annual report”, and “achievements in its district” for “achievements in their district”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4071,7 +4071,7 @@ Subsec. (b). Pub. L. 100–399, § 901(j), substituted “The Farm Credit Bank
 
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2208. Prohibition against use of signed ballots
+#### § 2208. Prohibition against use of signed ballots
 
 In any election or merger vote, or other proceeding subject to a vote of the stockholders (or subscribers to the guaranty fund of a bank for cooperatives), conducted by a lending institution of the Farm Credit System, the institution—
 
@@ -4079,7 +4079,7 @@ In any election or merger vote, or other proceeding subject to a vote of the sto
 
 **(2)** shall implement measures to safeguard the voting process for the protection of the right of stockholders (or subscribers) to a secret ballot.
 
-(Pub. L. 92–181, title IV, § 4.20, as added Pub. L. 96–592, title IV, § 403, Dec. 24, 1980, 94 Stat. 3447; amended Pub. L. 100–233, title IV, § 425, Jan. 6, 1988, 101 Stat. 1657.)
+(Pub. L. 92–181, title IV, § 4.20, as added Pub. L. 96–592, title IV, § 403, Dec. 24, 1980, 94 Stat. 3447; amended Pub. L. 100–233, title IV, § 425, Jan. 6, 1988, 101 Stat. 1657.)
 
 **Editorial Notes**
 
@@ -4087,9 +4087,9 @@ In any election or merger vote, or other proceeding subject to a vote of the sto
 
 1988—Pub. L. 100–233 amended section generally. Prior to amendment, section read as follows: “The provisions of (1) section 2074 of this title authorizing the Federal intermediate credit banks to lend to or discount paper for other financial institutions, and (2) section 2128(b) of this title authorizing the financing of certain domestic or foreign entities in connection with the import or export activities of cooperatives which are borrowers from the banks for cooperatives, shall expire on September 30, 1990, unless extended by Act of Congress prior to that date. Any contract or agreement entered into under the authority of either provision prior to its expiration shall remain in full force and effect notwithstanding such expiration.”
 
-#### § 2209. Repealed. Pub. L. 115–334, title V, § 5403, Dec. 20, 2018, 132 Stat. 4675
+#### § 2209. Repealed. Pub. L. 115–334, title V, § 5403, Dec. 20, 2018, 132 Stat. 4675
 
-Section, Pub. L. 92–181, title IV, § 4.21, as added Pub. L. 100–399, title IV, § 414, Aug. 17, 1988, 102 Stat. 1004; amended Pub. L. 102–552, title V, § 509, Oct. 28, 1992, 106 Stat. 4132, related to maximum amount of compensation of bank directors.
+Section, Pub. L. 92–181, title IV, § 4.21, as added Pub. L. 100–399, title IV, § 414, Aug. 17, 1988, 102 Stat. 1004; amended Pub. L. 102–552, title V, § 509, Oct. 28, 1992, 106 Stat. 4132, related to maximum amount of compensation of bank directors.
 
 ### Part E—Service Organizations
 
@@ -4097,13 +4097,13 @@ Section, Pub. L. 92–181, title IV, § 4.21, as added Pub. L. 100–399, titl
 
 **Codification**
 
-Pub. L. 100–233, title VIII, § 805(t)(2), Jan. 6, 1988, 101 Stat. 1716, redesignated part D as E.
+Pub. L. 100–233, title VIII, § 805(t)(2), Jan. 6, 1988, 101 Stat. 1716, redesignated part D as E.
 
-#### § 2211. Establishment
+#### § 2211. Establishment
 
 Any bank of the Farm Credit System, or two or more of such banks acting together, may organize a corporation or corporations for the purpose of performing functions and services for or on behalf of the organizing bank or banks that the bank or banks may perform pursuant to this chapter: *Provided*, That a corporation so organized shall have no authority either to extend credit or provide insurance services for borrowers from Farm Credit System institutions, nor shall it have any greater authority with respect to functions and services than the organizing bank or banks possess under this chapter. The organizing bank or banks shall apply for a Federal charter for the corporation by forwarding to the Farm Credit Administration a statement of the need for the corporation and proposed articles specifying in general terms the objectives for which the corporation is formed, the powers to be exercised by it in carrying out the functions and services, and the territory it is to serve. The Farm Credit Administration for good cause may deny the charter applied for. Upon the approval of articles by the Farm Credit Administration and the issuance of a charter, the corporation shall become as of such date a federally chartered body corporate and an instrumentality of the United States.
 
-(Pub. L. 92–181, title IV, § 4.25, as added Pub. L. 96–592, title IV, § 404, Dec. 24, 1980, 94 Stat. 3447; amended Pub. L. 99–205, title II, § 205(f)(8), Dec. 23, 1985, 99 Stat. 1706.)
+(Pub. L. 92–181, title IV, § 4.25, as added Pub. L. 96–592, title IV, § 404, Dec. 24, 1980, 94 Stat. 3447; amended Pub. L. 99–205, title II, § 205(f)(8), Dec. 23, 1985, 99 Stat. 1706.)
 
 **Editorial Notes**
 
@@ -4117,11 +4117,11 @@ Any bank of the Farm Credit System, or two or more of such banks acting together
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2212. Powers of Farm Credit Administration
+#### § 2212. Powers of Farm Credit Administration
 
 The Farm Credit Administration shall have power, under rules and regulations prescribed by the Farm Credit Administration, to provide for the organization of any corporation chartered under this part and the territory within which its operations may be carried on, and to approve amendments consistent with this chapter to charters or articles of service corporations.
 
-(Pub. L. 92–181, title IV, § 4.26, as added Pub. L. 96–592, title IV, § 404, Dec. 24, 1980, 94 Stat. 3447; amended Pub. L. 99–205, title II, § 205(f)(9), Dec. 23, 1985, 99 Stat. 1706; Pub. L. 100–233, title VIII, § 802(s), Jan. 6, 1988, 101 Stat. 1712.)
+(Pub. L. 92–181, title IV, § 4.26, as added Pub. L. 96–592, title IV, § 404, Dec. 24, 1980, 94 Stat. 3447; amended Pub. L. 99–205, title II, § 205(f)(9), Dec. 23, 1985, 99 Stat. 1706; Pub. L. 100–233, title VIII, § 802(s), Jan. 6, 1988, 101 Stat. 1712.)
 
 **Editorial Notes**
 
@@ -4151,11 +4151,11 @@ The Farm Credit Administration shall have power, under rules and regulations pre
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2213. Regulation and examination
+#### § 2213. Regulation and examination
 
 The corporations organized under this part shall be institutions of the Farm Credit System and shall be subject to the same regulation and examination by the Farm Credit Administration as are the organizing bank or banks under this chapter.
 
-(Pub. L. 92–181, title IV, § 4.27, as added Pub. L. 96–592, title IV, § 404, Dec. 24, 1980, 94 Stat. 3447; amended Pub. L. 99–205, title II, § 205(f)(10), Dec. 23, 1985, 99 Stat. 1706; Pub. L. 100–233, title VIII, § 802(t), Jan. 6, 1988, 101 Stat. 1712.)
+(Pub. L. 92–181, title IV, § 4.27, as added Pub. L. 96–592, title IV, § 404, Dec. 24, 1980, 94 Stat. 3447; amended Pub. L. 99–205, title II, § 205(f)(10), Dec. 23, 1985, 99 Stat. 1706; Pub. L. 100–233, title VIII, § 802(t), Jan. 6, 1988, 101 Stat. 1712.)
 
 **Editorial Notes**
 
@@ -4171,11 +4171,11 @@ The corporations organized under this part shall be institutions of the Farm Cre
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2214. State laws
+#### § 2214. State laws
 
 State and other laws shall apply to corporations organized pursuant to this part to the same extent such laws would apply to the organizing banks engaged in the same activity in the same jurisdiction: *Provided, however*, That to the extent that sections 2023, 2098, and 2134 of this title may exempt banks or associations of the Farm Credit System from taxation, such exemptions, other than with respect to franchise taxes, shall not extend to corporations organized pursuant to this part.
 
-(Pub. L. 92–181, title IV, § 4.28, as added Pub. L. 96–592, title IV, § 404, Dec. 24, 1980, 94 Stat. 3448; amended Pub. L. 100–399, title IX, § 901(k), Aug. 17, 1988, 102 Stat. 1007; Pub. L. 102–237, title V, § 502(g), Dec. 13, 1991, 105 Stat. 1869.)
+(Pub. L. 92–181, title IV, § 4.28, as added Pub. L. 96–592, title IV, § 404, Dec. 24, 1980, 94 Stat. 3448; amended Pub. L. 100–399, title IX, § 901(k), Aug. 17, 1988, 102 Stat. 1007; Pub. L. 102–237, title V, § 502(g), Dec. 13, 1991, 105 Stat. 1869.)
 
 **Editorial Notes**
 
@@ -4195,45 +4195,45 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2214a. “Bank” defined
+#### § 2214a. “Bank” defined
 
 In this part, the term “bank” includes each association operating under subchapter II.
 
-(Pub. L. 92–181, title IV, § 4.28A, as added Pub. L. 104–105, title II, § 209, Feb. 10, 1996, 110 Stat. 174.)
+(Pub. L. 92–181, title IV, § 4.28A, as added Pub. L. 104–105, title II, § 209, Feb. 10, 1996, 110 Stat. 174.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4.28A of title IV of Pub. L. 92–181, which provided for chartering of Farm Credit System Capital Corporation by Farm Credit Administration and revoked charter of Farm Credit System Capital Corporation which had been issued under part D of this subchapter, was classified to section 2216 of this title, prior to repeal by Pub. L. 100–233, title II, § 207(a)(3), Jan. 6, 1988, 101 Stat. 1607.
+A prior section 4.28A of title IV of Pub. L. 92–181, which provided for chartering of Farm Credit System Capital Corporation by Farm Credit Administration and revoked charter of Farm Credit System Capital Corporation which had been issued under part D of this subchapter, was classified to section 2216 of this title, prior to repeal by Pub. L. 100–233, title II, § 207(a)(3), Jan. 6, 1988, 101 Stat. 1607.
 
 ### Part D1—Farm Credit System Capital Corporation
 
-#### §§ 2216 to 2216k. Repealed. Pub. L. 100–233, title II, § 207(a)(3), Jan. 6, 1988, 101 Stat. 1607
+#### §§ 2216 to 2216k. Repealed. Pub. L. 100–233, title II, § 207(a)(3), Jan. 6, 1988, 101 Stat. 1607
 
-Section 2216, Pub. L. 92–181, title IV, § 4.28A, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1680, provided for chartering of Farm Credit System Capital Corporation by Farm Credit Administration and revoked charter of Farm Credit System Capital Corporation which had been issued under part D of this subchapter.
+Section 2216, Pub. L. 92–181, title IV, § 4.28A, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1680, provided for chartering of Farm Credit System Capital Corporation by Farm Credit Administration and revoked charter of Farm Credit System Capital Corporation which had been issued under part D of this subchapter.
 
-Section 2216a, Pub. L. 92–181, title IV, § 4.28B, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1680, set out purposes of Capital Corporation.
+Section 2216a, Pub. L. 92–181, title IV, § 4.28B, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1680, set out purposes of Capital Corporation.
 
-Section 2216b, Pub. L. 92–181, title IV, § 4.28C, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1680, provided for Board of Directors of Capital Corporation.
+Section 2216b, Pub. L. 92–181, title IV, § 4.28C, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1680, provided for Board of Directors of Capital Corporation.
 
-Section 2216c, Pub. L. 92–181, title IV, § 4.28D, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1682, provided for compensation of members of Board of Directors of Capital Corporation.
+Section 2216c, Pub. L. 92–181, title IV, § 4.28D, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1682, provided for compensation of members of Board of Directors of Capital Corporation.
 
-Section 2216d, Pub. L. 92–181, title IV, § 4.28E, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1682, authorized Board of Directors of Capital Corporation to adopt rules.
+Section 2216d, Pub. L. 92–181, title IV, § 4.28E, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1682, authorized Board of Directors of Capital Corporation to adopt rules.
 
-Section 2216e, Pub. L. 92–181, title IV, § 4.28F, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1682, provided for selection of chief executive officer of Capital Corporation.
+Section 2216e, Pub. L. 92–181, title IV, § 4.28F, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1682, provided for selection of chief executive officer of Capital Corporation.
 
-Section 2216f, Pub. L. 92–181, title IV, § 4.28G, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1682, enumerated corporate powers of Capital Corporation.
+Section 2216f, Pub. L. 92–181, title IV, § 4.28G, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1682, enumerated corporate powers of Capital Corporation.
 
-Section 2216g, Pub. L. 92–181, title IV, § 4.28H, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1685, provided for succession of Capital Corporation.
+Section 2216g, Pub. L. 92–181, title IV, § 4.28H, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1685, provided for succession of Capital Corporation.
 
-Section 2216h, Pub. L. 92–181, title IV, § 4.28I, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1685, set out provisions limiting powers of Capital Corporation.
+Section 2216h, Pub. L. 92–181, title IV, § 4.28I, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1685, set out provisions limiting powers of Capital Corporation.
 
-Section 2216i, Pub. L. 92–181, title IV, § 4.28J, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1686, set out authority of Secretary of the Treasury.
+Section 2216i, Pub. L. 92–181, title IV, § 4.28J, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1686, set out authority of Secretary of the Treasury.
 
-Section 2216j, Pub. L. 92–181, title IV, § 4.28K, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1687, provided for initial capitalization of Capital Corporation.
+Section 2216j, Pub. L. 92–181, title IV, § 4.28K, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1687, provided for initial capitalization of Capital Corporation.
 
-Section 2216k, Pub. L. 92–181, title IV, § 4.28L, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1687, provided for tax status of consolidated obligations.
+Section 2216k, Pub. L. 92–181, title IV, § 4.28L, as added Pub. L. 99–205, title I, § 103, Dec. 23, 1985, 99 Stat. 1687, provided for tax status of consolidated obligations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4247,11 +4247,11 @@ Repeal effective 15 days after Jan. 6, 1988, see section 207(b) of Pub. L. 100�
 
 **Codification**
 
-Pub. L. 100–399, title VII, § 702(c), Aug. 17, 1988, 102 Stat. 1006, redesignated part G as F.
+Pub. L. 100–399, title VII, § 702(c), Aug. 17, 1988, 102 Stat. 1006, redesignated part G as F.
 
-Pub. L. 100–233, title VIII, § 805(u), Jan. 6, 1988, 101 Stat. 1716, redesignated part E as G.
+Pub. L. 100–233, title VIII, § 805(u), Jan. 6, 1988, 101 Stat. 1716, redesignated part E as G.
 
-#### § 2218. Lines of insurance
+#### § 2218. Lines of insurance
 
 **(a) Regulatory authorization**
 
@@ -4285,23 +4285,23 @@ Pub. L. 100–233, title VIII, § 805(u), Jan. 6, 1988, 101 Stat. 1716, redesi
 
 Notwithstanding any provision of this section to the contrary, any bank or association that on December 24, 1980, is offering insurance coverages not authorized by this section may continue to sell such coverages for a period of not more than one year from such date and may continue to service such coverages until their expiration.
 
-(Pub. L. 92–181, title IV, § 4.29, as added Pub. L. 96–592, title IV, § 404, Dec. 24, 1980, 94 Stat. 3448; amended Pub. L. 100–233, title IV, § 422(a), Jan. 6, 1988, 101 Stat. 1655; Pub. L. 100–399, title IV, § 411, Aug. 17, 1988, 102 Stat. 1003; Pub. L. 101–624, title XVIII, § 1834, Nov. 28, 1990, 104 Stat. 3833.)
+(Pub. L. 92–181, title IV, § 4.29, as added Pub. L. 96–592, title IV, § 404, Dec. 24, 1980, 94 Stat. 3448; amended Pub. L. 100–233, title IV, § 422(a), Jan. 6, 1988, 101 Stat. 1655; Pub. L. 100–399, title IV, § 411, Aug. 17, 1988, 102 Stat. 1003; Pub. L. 101–624, title XVIII, § 1834, Nov. 28, 1990, 104 Stat. 3833.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (a)(2). Pub. L. 101–624, § 1834(1), inserted “, if more than two insurers for each type of insurance have proposed programs to a bank that will, in all likelihood, have long-term viability and meet the requirements of subsection (b)(2)(D)” before period at end of first sentence, and “, if at least two insurers have been approved in accordance with this paragraph” before period at end of third sentence.
+1990—Subsec. (a)(2). Pub. L. 101–624, § 1834(1), inserted “, if more than two insurers for each type of insurance have proposed programs to a bank that will, in all likelihood, have long-term viability and meet the requirements of subsection (b)(2)(D)” before period at end of first sentence, and “, if at least two insurers have been approved in accordance with this paragraph” before period at end of third sentence.
 
-Subsec. (b)(2)(E). Pub. L. 101–624, § 1834(2), inserted before semicolon at end “, if at least two insurers have been approved in accordance with subsection (a)(2)”.
+Subsec. (b)(2)(E). Pub. L. 101–624, § 1834(2), inserted before semicolon at end “, if at least two insurers have been approved in accordance with subsection (a)(2)”.
 
-1988—Subsec. (a). Pub. L. 100–233, § 422(a)(1), designated existing provisions as par. (1), struck out “of this Act” to conform to style of original enactment, resulting in no change in text, inserted “or borrower from” before “any such bank”, inserted provision at end giving a member or borrower the option, without coercion from the bank or association of such member or borrower, to accept or reject such insurance, and added par. (2).
+1988—Subsec. (a). Pub. L. 100–233, § 422(a)(1), designated existing provisions as par. (1), struck out “of this Act” to conform to style of original enactment, resulting in no change in text, inserted “or borrower from” before “any such bank”, inserted provision at end giving a member or borrower the option, without coercion from the bank or association of such member or borrower, to accept or reject such insurance, and added par. (2).
 
-Subsec. (a)(1). Pub. L. 100–399, § 411(a), substituted “subchapters I and II of this chapter” for “sections 2019, 2033, 2076, and 2097 of this title”.
+Subsec. (a)(1). Pub. L. 100–399, § 411(a), substituted “subchapters I and II of this chapter” for “sections 2019, 2033, 2076, and 2097 of this title”.
 
-Subsec. (a)(2). Pub. L. 100–399, § 411(b), substituted “Farm Credit Banks” for “Federal intermediate credit banks”.
+Subsec. (a)(2). Pub. L. 100–399, § 411(b), substituted “Farm Credit Banks” for “Federal intermediate credit banks”.
 
-Subsec. (b)(2). Pub. L. 100–233, § 422(a)(2), redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and added subpars. (D) and (E).
+Subsec. (b)(2). Pub. L. 100–233, § 422(a)(2), redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and added subpars. (D) and (E).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4311,7 +4311,7 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **Continuation of Program**
 
-Pub. L. 100–233, title IV, § 422(b), Jan. 6, 1988, 101 Stat. 1656, provided that: “Notwithstanding the amendments made to section 4.29 [12 U.S.C. 2218] by subsection (a), any insurance program offered by any bank or association of the Farm Credit System on the date of the enactment of this Act [Jan. 6, 1988] that does not meet the requirements of section 4.29, as so amended, may be continued until July 1, 1988.”
+Pub. L. 100–233, title IV, § 422(b), Jan. 6, 1988, 101 Stat. 1656, provided that: “Notwithstanding the amendments made to section 4.29 [12 U.S.C. 2218] by subsection (a), any insurance program offered by any bank or association of the Farm Credit System on the date of the enactment of this Act [Jan. 6, 1988] that does not meet the requirements of section 4.29, as so amended, may be continued until July 1, 1988.”
 
 ### Part G—Miscellaneous
 
@@ -4319,15 +4319,15 @@ Pub. L. 100–233, title IV, § 422(b), Jan. 6, 1988, 101 Stat. 1656, provided
 
 **Codification**
 
-Pub. L. 100–399, title VII, § 702(c), Aug. 17, 1988, 102 Stat. 1006, redesignated part H as G.
+Pub. L. 100–399, title VII, § 702(c), Aug. 17, 1988, 102 Stat. 1006, redesignated part H as G.
 
-Pub. L. 100–233, title VIII, § 805(u), Jan. 6, 1988, 101 Stat. 1716, redesignated part F as H.
+Pub. L. 100–233, title VIII, § 805(u), Jan. 6, 1988, 101 Stat. 1716, redesignated part F as H.
 
-#### § 2219. Limitation on separate sale
+#### § 2219. Limitation on separate sale
 
 If real property is acquired by any institution of the Farm Credit System through foreclosure, no institution of the Farm Credit System shall sell the surface rights to that real property to any person unless the institution also sells all mineral rights to that real property to that person.
 
-(Pub. L. 92–181, title IV, § 4.35, as added Pub. L. 99–205, title III, § 306, Dec. 23, 1985, 99 Stat. 1709.)
+(Pub. L. 92–181, title IV, § 4.35, as added Pub. L. 99–205, title III, § 306, Dec. 23, 1985, 99 Stat. 1709.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4335,7 +4335,7 @@ If real property is acquired by any institution of the Farm Credit System throug
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2219a. Right of first refusal
+#### § 2219a. Right of first refusal
 
 **(a) General rule**
 
@@ -4449,7 +4449,7 @@ The rights provided in this section shall not diminish any such right of first r
 
 This section shall not apply to a bank for cooperatives.
 
-(Pub. L. 92–181, title IV, § 4.36, as added Pub. L. 99–205, title III, § 306, Dec. 23, 1985, 99 Stat. 1709; amended Pub. L. 100–233, title I, § 108, Jan. 6, 1988, 101 Stat. 1582; Pub. L. 100–399, title I, § 104, Aug. 17, 1988, 102 Stat. 990.)
+(Pub. L. 92–181, title IV, § 4.36, as added Pub. L. 99–205, title III, § 306, Dec. 23, 1985, 99 Stat. 1709; amended Pub. L. 100–233, title I, § 108, Jan. 6, 1988, 101 Stat. 1582; Pub. L. 100–399, title I, § 104, Aug. 17, 1988, 102 Stat. 990.)
 
 **Editorial Notes**
 
@@ -4457,11 +4457,11 @@ This section shall not apply to a bank for cooperatives.
 
 1988—Pub. L. 100–233 amended section generally. Prior to amendment, section read as follows: “No institution of the Farm Credit System shall sell any real property that previously served as security for a loan in a tract larger than a normal family size farm in the vicinity of the property for less than the amount it can receive from the Capital Corporation.”
 
-Subsec. (b)(2). Pub. L. 100–399, § 104(a), substituted “30” for “15”.
+Subsec. (b)(2). Pub. L. 100–399, § 104(a), substituted “30” for “15”.
 
-Subsec. (b)(3). Pub. L. 100–399, § 104(b), substituted “15” for “30”.
+Subsec. (b)(3). Pub. L. 100–399, § 104(b), substituted “15” for “30”.
 
-Subsec. (g). Pub. L. 100–399, § 104(c), substituted “previous owner” for “former borrower”.
+Subsec. (g). Pub. L. 100–399, § 104(c), substituted “previous owner” for “former borrower”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4473,7 +4473,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2219b. Application of uninsured accounts
+#### § 2219b. Application of uninsured accounts
 
 **(a) In general**
 
@@ -4485,7 +4485,7 @@ Money of a borrower held by a Farm Credit System institution in an uninsured vol
 
 **(2)** to otherwise effectively carry out this section.
 
-(Pub. L. 92–181, title IV, § 4.37, as added Pub. L. 100–233, title I, § 110, Jan. 6, 1988, 101 Stat. 1585.)
+(Pub. L. 92–181, title IV, § 4.37, as added Pub. L. 100–233, title I, § 110, Jan. 6, 1988, 101 Stat. 1585.)
 
 **Editorial Notes**
 
@@ -4493,11 +4493,11 @@ Money of a borrower held by a Farm Credit System institution in an uninsured vol
 
 Another section 4.37 of Pub. L. 92–181 was renumbered section 4.38 and is classified to section 2219c of this title.
 
-#### § 2219c. Affirmative action
+#### § 2219c. Affirmative action
 
 All institutions of the Farm Credit System with more than 20 employees shall establish and maintain an affirmative action program plan that applies the affirmative action standards otherwise applied to contractors of the Federal Government.
 
-(Pub. L. 92–181, title IV, § 4.38, formerly § 4.37, as added Pub. L. 100–233, title IV, § 427, Jan. 6, 1988, 101 Stat. 1657; renumbered § 4.38, Pub. L. 100–399, title IV, § 413, Aug. 17, 1988, 102 Stat. 1004; amended Pub. L. 115–334, title V, § 5411(26), Dec. 20, 2018, 132 Stat. 4682.)
+(Pub. L. 92–181, title IV, § 4.38, formerly § 4.37, as added Pub. L. 100–233, title IV, § 427, Jan. 6, 1988, 101 Stat. 1657; renumbered § 4.38, Pub. L. 100–399, title IV, § 413, Aug. 17, 1988, 102 Stat. 1004; amended Pub. L. 115–334, title V, § 5411(26), Dec. 20, 2018, 132 Stat. 4682.)
 
 **Editorial Notes**
 
@@ -4505,25 +4505,25 @@ All institutions of the Farm Credit System with more than 20 employees shall est
 
 2018—Pub. L. 115–334 substituted “All” for “The Assistance Board established under section 2278a of this title and all”.
 
-#### § 2219d. Encouragement of conservation practices
+#### § 2219d. Encouragement of conservation practices
 
 At the time a System institution or an agricultural mortgage loan originator (as defined in section 2279aa of this title) approves a loan made to a borrower that, in the opinion of the institution or originator, would be ineligible for a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) by reason of subtitle B or C of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.), the institution or originator, as the case may be, shall encourage the borrower to contact the Department of Agriculture Soil Conservation Service to obtain information about soil conservation methods and practices.
 
-(Pub. L. 92–181, title IV, § 4.39, formerly § 4.38, as added Pub. L. 100–233, title IV, § 428, Jan. 6, 1988, 101 Stat. 1658; renumbered § 4.39, Pub. L. 100–399, title IV, § 413, Aug. 17, 1988, 102 Stat. 1004; amended Pub. L. 115–334, title V, § 5411(27), Dec. 20, 2018, 132 Stat. 4682.)
+(Pub. L. 92–181, title IV, § 4.39, formerly § 4.38, as added Pub. L. 100–233, title IV, § 428, Jan. 6, 1988, 101 Stat. 1658; renumbered § 4.39, Pub. L. 100–399, title IV, § 413, Aug. 17, 1988, 102 Stat. 1004; amended Pub. L. 115–334, title V, § 5411(27), Dec. 20, 2018, 132 Stat. 4682.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consolidated Farm and Rural Development Act, referred to in text, is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in text, is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
-The Food Security Act of 1985, referred to in text, is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Food Security Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7 and Tables.
+The Food Security Act of 1985, referred to in text, is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Food Security Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7 and Tables.
 
 **Amendments**
 
 2018—Pub. L. 115–334 substituted “section 2279aa of this title)” for “section 2279aa(7) of this title)”.
 
-#### § 2219e. Liability for making criminal referrals
+#### § 2219e. Liability for making criminal referrals
 
 **(a) In general** Any institution of the Farm Credit System, or any director, officer, employee, or agent of a Farm Credit System institution, that discloses to a Government authority information proffered in good faith that may be relevant to a possible violation of any law or regulation shall not be liable to any person under any law of the United States or any State—
 
@@ -4535,7 +4535,7 @@ The Food Security Act of 1985, referred to in text, is Pub. L. 99–198, Dec. 23
 
 Any institution of the Farm Credit System, or any director, officer, employee, or agent of a Farm Credit System institution, may disclose information to a Government authority that may be relevant to a possible violation of any law or regulation.
 
-(Pub. L. 104–105, title II, § 221, Feb. 10, 1996, 110 Stat. 184.)
+(Pub. L. 104–105, title II, § 221, Feb. 10, 1996, 110 Stat. 184.)
 
 **Editorial Notes**
 
@@ -4549,35 +4549,35 @@ Section was enacted as part of the Farm Credit System Reform Act of 1996, and no
 
 **Codification**
 
-Pub. L. 100–399, title IX, § 901(*o*), (p), Aug. 17, 1988, 102 Stat. 1008, struck out “DISTRICT AND” before “FARM” in subchapter heading and struck out part A heading “District Organization”.
+Pub. L. 100–399, title IX, § 901(*o*), (p), Aug. 17, 1988, 102 Stat. 1008, struck out “DISTRICT AND” before “FARM” in subchapter heading and struck out part A heading “District Organization”.
 
 ### Part A—District Organization
 
-#### § 2221. Transferred
+#### § 2221. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 92–181, title V, § 5.0, Dec. 10, 1971, 85 Stat. 614; Pub. L. 96–592, title V, § 501, Dec. 24, 1980, 94 Stat. 3448; Pub. L. 99–205, title II, § 205(g)(1), Dec. 23, 1985, 99 Stat. 1706; Pub. L. 100–233, title VIII, § 805(v), Jan. 6, 1988, 101 Stat. 1716; Pub. L. 100–399, title IX, § 901(q), (r), Aug. 17, 1988, 102 Stat. 1008, which related to creation of districts, was transferred to section 1.2(b) of Pub. L. 92–181 by section 901(r) of Pub. L. 100–399 and is classified to section 2002(b) of this title.
+Section, Pub. L. 92–181, title V, § 5.0, Dec. 10, 1971, 85 Stat. 614; Pub. L. 96–592, title V, § 501, Dec. 24, 1980, 94 Stat. 3448; Pub. L. 99–205, title II, § 205(g)(1), Dec. 23, 1985, 99 Stat. 1706; Pub. L. 100–233, title VIII, § 805(v), Jan. 6, 1988, 101 Stat. 1716; Pub. L. 100–399, title IX, § 901(q), (r), Aug. 17, 1988, 102 Stat. 1008, which related to creation of districts, was transferred to section 1.2(b) of Pub. L. 92–181 by section 901(r) of Pub. L. 100–399 and is classified to section 2002(b) of this title.
 
-#### §§ 2222 to 2227. Repealed. Pub. L. 100–399, title IV, § 409(d), Aug. 17, 1988, 102 Stat. 1003
+#### §§ 2222 to 2227. Repealed. Pub. L. 100–399, title IV, § 409(d), Aug. 17, 1988, 102 Stat. 1003
 
-Sections 2222 to 2227 were directed to be repealed by Pub. L. 100–233, title IV, § 418(c), formerly § 415(c), Jan. 6, 1988, 101 Stat. 1653, renumbered § 418(c), Pub. L. 100–399, title IV, § 409(a), Aug. 17, 1988, 102 Stat. 1003, which was repealed by section 409(c) of Pub. L. 100–399, title IV, Aug. 17, 1988, 102 Stat. 1003.
+Sections 2222 to 2227 were directed to be repealed by Pub. L. 100–233, title IV, § 418(c), formerly § 415(c), Jan. 6, 1988, 101 Stat. 1653, renumbered § 418(c), Pub. L. 100–399, title IV, § 409(a), Aug. 17, 1988, 102 Stat. 1003, which was repealed by section 409(c) of Pub. L. 100–399, title IV, Aug. 17, 1988, 102 Stat. 1003.
 
 Section 409(c) of Pub. L. 100–399 provided in part that section 418(c) of Pub. L. 100–233 is repealed and that this chapter shall be applied and administered, and the amendments by sections 430 and 802(u) of Pub. L. 100–233 (amending sections 2226 and 2223, respectively, of this title) shall take effect, as if such section 418(c) had not been enacted.
 
-Section 2222, Pub. L. 92–181, title V, § 5.1, Dec. 10, 1971, 85 Stat. 614; Pub. L. 99–205, title II, § 205(g)(2), Dec. 23, 1985, 99 Stat. 1707, related to district boards of directors, membership, eligibility, and terms.
+Section 2222, Pub. L. 92–181, title V, § 5.1, Dec. 10, 1971, 85 Stat. 614; Pub. L. 99–205, title II, § 205(g)(2), Dec. 23, 1985, 99 Stat. 1707, related to district boards of directors, membership, eligibility, and terms.
 
-Section 2223, Pub. L. 92–181, title V, § 5.2, Dec. 10, 1971, 85 Stat. 614; Pub. L. 96–592, title V, § 502, Dec. 24, 1980, 94 Stat. 3449; Pub. L. 99–205, title II, § 205(g)(3), (4), title VI, § 607, Dec. 23, 1985, 99 Stat. 1707, 1712; Pub. L. 100–233, title VIII, § 802(u), Jan. 6, 1988, 101 Stat. 1712, related to nomination and election of district directors.
+Section 2223, Pub. L. 92–181, title V, § 5.2, Dec. 10, 1971, 85 Stat. 614; Pub. L. 96–592, title V, § 502, Dec. 24, 1980, 94 Stat. 3449; Pub. L. 99–205, title II, § 205(g)(3), (4), title VI, § 607, Dec. 23, 1985, 99 Stat. 1707, 1712; Pub. L. 100–233, title VIII, § 802(u), Jan. 6, 1988, 101 Stat. 1712, related to nomination and election of district directors.
 
-Section 2224, Pub. L. 92–181, title V, § 5.3, Dec. 10, 1971, 85 Stat. 615, related to functions of district directors.
+Section 2224, Pub. L. 92–181, title V, § 5.3, Dec. 10, 1971, 85 Stat. 615, related to functions of district directors.
 
-Section 2225, Pub. L. 92–181, title V, § 5.4, Dec. 10, 1971, 85 Stat. 615, related to district board officers.
+Section 2225, Pub. L. 92–181, title V, § 5.4, Dec. 10, 1971, 85 Stat. 615, related to district board officers.
 
-Section 2226, Pub. L. 92–181, title V, § 5.5, Dec. 10, 1971, 85 Stat. 616; Pub. L. 100–233, title IV, § 430, Jan. 6, 1988, 101 Stat. 1658, related to compensation of district boards.
+Section 2226, Pub. L. 92–181, title V, § 5.5, Dec. 10, 1971, 85 Stat. 616; Pub. L. 100–233, title IV, § 430, Jan. 6, 1988, 101 Stat. 1658, related to compensation of district boards.
 
-Section 2227, Pub. L. 92–181, title V, § 5.6, Dec. 10, 1971, 85 Stat. 616; 1978 Reorg. Plan No. 2, § 102, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 99–205, title II, § 205(g)(5), Dec. 23, 1985, 99 Stat. 1707, related to powers of district farm credit board.
+Section 2227, Pub. L. 92–181, title V, § 5.6, Dec. 10, 1971, 85 Stat. 616; 1978 Reorg. Plan No. 2, § 102, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 99–205, title II, § 205(g)(5), Dec. 23, 1985, 99 Stat. 1707, related to powers of district farm credit board.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4591,7 +4591,7 @@ Repeal effective immediately after amendments made by section 401 of Pub. L. 100
 
 **Ex. Ord. No. 6084. Reorganizing Agricultural Credit Agencies of the United States**
 
-Ex. Ord. No. 6084, Mar. 27, 1933, provided in part: . . . it is hereby ordered that:
+Ex. Ord. No. 6084, Mar. 27, 1933, provided in part: . . . it is hereby ordered that:
 
 (1) The functions of the Secretary of Agriculture as a member of the Federal Farm Board, and the offices of the appointed members of the Federal Farm Board, except the office of the member designated as chairman thereof, are abolished.
 
@@ -4633,13 +4633,13 @@ This order shall take effect upon the sixty-first calendar day after its transmi
 
 Franklin D. Roosevelt.
 
-[All functions, powers and duties of the Governor of the Farm Credit Administration which relate to the making, administration, and liquidation of all loans identified or referred to in pars. 5(b), 5(c), and 5(d) of this Executive Order were abolished by act Aug. 14, 1946, ch. 964, § 2(a)(2), 60 Stat. 1062, set out as a note under sections 1001 to 1006 of Title 7, Agriculture.]
+[All functions, powers and duties of the Governor of the Farm Credit Administration which relate to the making, administration, and liquidation of all loans identified or referred to in pars. 5(b), 5(c), and 5(d) of this Executive Order were abolished by act Aug. 14, 1946, ch. 964, § 2(a)(2), 60 Stat. 1062, set out as a note under sections 1001 to 1006 of Title 7, Agriculture.]
 
-#### § 2241. Farm Credit Administration
+#### § 2241. Farm Credit Administration
 
 The Farm Credit Administration shall be an independent agency in the executive branch of the Government. It shall be composed of the Farm Credit Administration Board and such other personnel as are employed in carrying out the functions, powers, and duties vested in the Farm Credit Administration by this chapter.
 
-(Pub. L. 92–181, title V, § 5.7, Dec. 10, 1971, 85 Stat. 617; Pub. L. 99–205, title II, § 201(1), Dec. 23, 1985, 99 Stat. 1688.)
+(Pub. L. 92–181, title V, § 5.7, Dec. 10, 1971, 85 Stat. 617; Pub. L. 99–205, title II, § 201(1), Dec. 23, 1985, 99 Stat. 1688.)
 
 **Editorial Notes**
 
@@ -4655,7 +4655,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 **Interim Implementation of 1985 Amendment**
 
-Pub. L. 99–205, title IV, § 402, Dec. 23, 1985, 99 Stat. 1709, provided that:
+Pub. L. 99–205, title IV, § 402, Dec. 23, 1985, 99 Stat. 1709, provided that:
 
 > **“(a)** Until the Chairman of the Farm Credit Administration Board provided for under the amendment made by section 201(1) of this Act [see section 2242 of this title] is appointed by the President and confirmed by the Senate, the Governor of the Farm Credit Administration, under the Farm Credit Act of 1971 [this chapter] as in effect on the day before the date of enactment of this Act [Dec. 23, 1985], shall perform the functions of the Chairman prescribed for the Chairman by this Act [Pub. L. 99–205, see Short Title of 1985 Amendment note set out under section 2001 of this title].
 
@@ -4669,7 +4669,7 @@ Pub. L. 99–205, title IV, § 402, Dec. 23, 1985, 99 Stat. 1709, provided tha
 
 > **“(d)** All regulations of the Farm Credit Administration or the institutions of the System, and all charters, bylaws, resolutions, stock classifications, and policy directives issued or approved by the Farm Credit Administration, and all elections held and appointments made under the Farm Credit Act of 1971 [this chapter], before the date of enactment of this Act [Dec. 23, 1985], shall be continuing and remain valid until superseded, modified, or replaced under the authority of this Act [Pub. L. 99–205, see Short Title of 1985 Amendment note set out under section 2001 of this title].”
 
-#### § 2242. Farm Credit Administration Board
+#### § 2242. Farm Credit Administration Board
 
 **(a) Appointment**
 
@@ -4695,7 +4695,7 @@ The members of the Board shall devote their full time and attention to the busin
 
 **(3)** have a strong financial, legal, or regulatory background.
 
-(Pub. L. 92–181, title V, § 5.8, Dec. 10, 1971, 85 Stat. 617; Pub. L. 96–592, title V, § 503, Dec. 24, 1980, 94 Stat. 3449; Pub. L. 99–205, title II, § 201(1), Dec. 23, 1985, 99 Stat. 1688; Pub. L. 100–233, title IV, § 431(a), Jan. 6, 1988, 101 Stat. 1658; Pub. L. 102–552, title I, § 102, Oct. 28, 1992, 106 Stat. 4103.)
+(Pub. L. 92–181, title V, § 5.8, Dec. 10, 1971, 85 Stat. 617; Pub. L. 96–592, title V, § 503, Dec. 24, 1980, 94 Stat. 3449; Pub. L. 99–205, title II, § 201(1), Dec. 23, 1985, 99 Stat. 1688; Pub. L. 100–233, title IV, § 431(a), Jan. 6, 1988, 101 Stat. 1658; Pub. L. 102–552, title I, § 102, Oct. 28, 1992, 106 Stat. 4103.)
 
 **Editorial Notes**
 
@@ -4719,7 +4719,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 For provisions authorizing interim implementation by Governor of Farm Credit Administration of amendments to this section by Pub. L. 99–205, see section 402 of Pub. L. 99–205, set out as a note under section 2241 of this title.
 
-#### § 2243. Powers of Board
+#### § 2243. Powers of Board
 
 The Board shall manage and administer, and establish policies for, the Farm Credit Administration. It—
 
@@ -4731,13 +4731,13 @@ The Board shall manage and administer, and establish policies for, the Farm Cred
 
 **(4)** may require such reports as it deems necessary from the institutions of the Farm Credit System.
 
-(Pub. L. 92–181, title V, § 5.9, Dec. 10, 1971, 85 Stat. 619; Pub. L. 99–205, title II, § 201(1), Dec. 23, 1985, 99 Stat. 1689; Pub. L. 100–233, title VIII, § 805(w), Jan. 6, 1988, 101 Stat. 1716.)
+(Pub. L. 92–181, title V, § 5.9, Dec. 10, 1971, 85 Stat. 619; Pub. L. 99–205, title II, § 201(1), Dec. 23, 1985, 99 Stat. 1689; Pub. L. 100–233, title VIII, § 805(w), Jan. 6, 1988, 101 Stat. 1716.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Pub. L. 100–233 struck out “; civil proceedings” in section catchline.
+1988—Pub. L. 100–233 struck out “; civil proceedings” in section catchline.
 
 1985—Pub. L. 99–205 substituted requirement that the Board manage and administer, and establish policies for, the Farm Credit Administration for former requirement that the Federal Farm Credit Board establish the general policy for the guidance of the Farm Credit Administration, including matters of broad and general supervisory, advisory, or policy nature; incorporated existing text in provisions designated cls. (1) to (4); substituted in cl. (2) “general regulation” for “general supervision”; and struck out last sentence which read as follows: “The Board shall function as a unit without delegating any of its functions to individual members, but may appoint committees and subcommittees for studies and reports for consideration by the Board. It shall not operate in an administrative capacity.”
 
@@ -4751,7 +4751,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 For provisions authorizing interim implementation by Governor of Farm Credit Administration of amendments to this section by Pub. L. 99–205, see section 402 of Pub. L. 99–205, set out as a note under section 2241 of this title.
 
-#### § 2244. Chairman; responsibilities; governing standards
+#### § 2244. Chairman; responsibilities; governing standards
 
 **(a) Chairman of Farm Credit Administration Board; power and authority**
 
@@ -4777,7 +4777,7 @@ In carrying out responsibilities under this chapter, the Chairman of the Board s
 
 The Chairman of the Board shall enforce the rules, regulations, and orders of the Board. Except as provided in section 518 of title 28, relating to litigation before the Supreme Court, attorneys designated by the Chairman shall represent the Farm Credit Administration in any civil proceeding or civil action brought in connection with the administration of conservatorships and receiverships. Attorneys designated by the Chairman may represent the Farm Credit Administration in any other civil proceedings or civil action when so authorized by the Attorney General under provisions of title 28.
 
-(Pub. L. 92–181, title V, § 5.10, Dec. 10, 1971, 85 Stat. 619; Pub. L. 96–592, title V, § 504, Dec. 24, 1980, 94 Stat. 3449; Pub. L. 99–205, title II, § 201(1), Dec. 23, 1985, 99 Stat. 1689; Pub. L. 100–233, title IV, § 431(b), Jan. 6, 1988, 101 Stat. 1658.)
+(Pub. L. 92–181, title V, § 5.10, Dec. 10, 1971, 85 Stat. 619; Pub. L. 96–592, title V, § 504, Dec. 24, 1980, 94 Stat. 3449; Pub. L. 99–205, title II, § 201(1), Dec. 23, 1985, 99 Stat. 1689; Pub. L. 100–233, title IV, § 431(b), Jan. 6, 1988, 101 Stat. 1658.)
 
 **Editorial Notes**
 
@@ -4799,7 +4799,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 For provisions authorizing interim implementation by Governor of Farm Credit Administration of amendments to this section by Pub. L. 99–205, see section 402 of Pub. L. 99–205, set out as a note under section 2241 of this title.
 
-#### § 2245. Organization of Farm Credit Administration
+#### § 2245. Organization of Farm Credit Administration
 
 **(a) Policies of Board**
 
@@ -4839,7 +4839,7 @@ The powers of the Chairman as chief executive officer necessary for day to day m
 
 The operations of the Farm Credit Administration, and the salaries of members of the Board and employees of the Administration, shall be funded and paid for from the fund created under section 2250 of this title.
 
-(Pub. L. 92–181, title V, § 5.11, Dec. 10, 1971, 85 Stat. 620; Pub. L. 99–205, title II, § 201(1), Dec. 23, 1985, 99 Stat. 1690; Pub. L. 100–233, title IV, § 431(c), title VIII, § 805(x), Jan. 6, 1988, 101 Stat. 1659, 1716; Pub. L. 100–399, title IV, § 415(a), title VII, § 702(b), Aug. 17, 1988, 102 Stat. 1004, 1006; Pub. L. 101–73, title XII, § 1210, Aug. 9, 1989, 103 Stat. 523; Pub. L. 117–286, § 4(c)(23), Dec. 27, 2022, 136 Stat. 4357.)
+(Pub. L. 92–181, title V, § 5.11, Dec. 10, 1971, 85 Stat. 620; Pub. L. 99–205, title II, § 201(1), Dec. 23, 1985, 99 Stat. 1690; Pub. L. 100–233, title IV, § 431(c), title VIII, § 805(x), Jan. 6, 1988, 101 Stat. 1659, 1716; Pub. L. 100–399, title IV, § 415(a), title VII, § 702(b), Aug. 17, 1988, 102 Stat. 1004, 1006; Pub. L. 101–73, title XII, § 1210, Aug. 9, 1989, 103 Stat. 523; Pub. L. 117–286, § 4(c)(23), Dec. 27, 2022, 136 Stat. 4357.)
 
 **Editorial Notes**
 
@@ -4855,11 +4855,11 @@ The operations of the Farm Credit Administration, and the salaries of members of
 
 “(C) subject to section 5373 of title 5.”
 
-1988—Pub. L. 100–233, § 805(x), which directed the amendment of this section by striking out the last sentence, was repealed by Pub. L. 100–399, § 702(b). See Construction of 1988 Amendment note below.
+1988—Pub. L. 100–233, § 805(x), which directed the amendment of this section by striking out the last sentence, was repealed by Pub. L. 100–399, § 702(b). See Construction of 1988 Amendment note below.
 
-Pub. L. 100–233, § 431(c), amended section generally, substituting subsecs. (a) to (d) for former text consisting of single undesignated paragraph.
+Pub. L. 100–233, § 431(c), amended section generally, substituting subsecs. (a) to (d) for former text consisting of single undesignated paragraph.
 
-Subsec. (c)(2)(C). Pub. L. 100–399, § 415(a), substituted “5373” for “5315”.
+Subsec. (c)(2)(C). Pub. L. 100–399, § 415(a), substituted “5373” for “5315”.
 
 1985—Pub. L. 99–205 substituted provisions respecting organization of the Farm Credit Administration for provisions relating to compensation and expense allowance of the Governor of the Farm Credit Administration.
 
@@ -4875,17 +4875,17 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 **Construction of 1988 Amendment**
 
-Pub. L. 100–399, title VII, § 702(b), Aug. 17, 1988, 102 Stat. 1006, provided that section 805(x) of Pub. L. 100–233, cited as a credit to this section, is repealed and that this section shall be applied and administered as if such section had not been enacted.
+Pub. L. 100–399, title VII, § 702(b), Aug. 17, 1988, 102 Stat. 1006, provided that section 805(x) of Pub. L. 100–233, cited as a credit to this section, is repealed and that this section shall be applied and administered as if such section had not been enacted.
 
 **Interim Implementation of 1985 Amendment**
 
 For provisions authorizing interim implementation by Governor of Farm Credit Administration of amendments to this section by Pub. L. 99–205, see section 402 of Pub. L. 99–205, set out as a note under section 2241 of this title.
 
-#### § 2246. Advisory committees
+#### § 2246. Advisory committees
 
 The Chairman of the Board, subject to the approval of the Board, may establish one or more advisory committees in accordance with chapter 10 of title 5 and may appoint to such committee or committees individuals who are members of the Federal Farm Credit Board when such Board is terminated by the Farm Credit Amendments Act of 1985.
 
-(Pub. L. 92–181, title V, § 5.12, Dec. 10, 1971, 85 Stat. 620; Pub. L. 99–205, title II, § 201(1), Dec. 23, 1985, 99 Stat. 1690; Pub. L. 100–233, title IV, § 431(d), Jan. 6, 1988, 101 Stat. 1660; Pub. L. 117–286, § 4(a)(56), Dec. 27, 2022, 136 Stat. 4311.)
+(Pub. L. 92–181, title V, § 5.12, Dec. 10, 1971, 85 Stat. 620; Pub. L. 99–205, title II, § 201(1), Dec. 23, 1985, 99 Stat. 1690; Pub. L. 100–233, title IV, § 431(d), Jan. 6, 1988, 101 Stat. 1660; Pub. L. 117–286, § 4(a)(56), Dec. 27, 2022, 136 Stat. 4311.)
 
 **Editorial Notes**
 
@@ -4897,7 +4897,7 @@ The Farm Credit Amendments Act of 1985, referred to in text, is Pub. L. 99–205
 
 2022—Pub. L. 117–286 substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act”.
 
-1988—Pub. L. 100–233 inserted “, subject to the approval of the Board,” after “Chairman of the Board”.
+1988—Pub. L. 100–233 inserted “, subject to the approval of the Board,” after “Chairman of the Board”.
 
 1985—Pub. L. 99–205 substituted provisions respecting advisory committees for provisions respecting compliance by the Governor with orders of the Federal Farm Credit Board.
 
@@ -4911,9 +4911,9 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 For provisions authorizing interim implementation by Governor of Farm Credit Administration of amendments to this section by Pub. L. 99–205, see section 402 of Pub. L. 99–205, set out as a note under section 2241 of this title.
 
-#### § 2247. Repealed. Pub. L. 99–205, title II, § 201(2), Dec. 23, 1985, 99 Stat. 1690
+#### § 2247. Repealed. Pub. L. 99–205, title II, § 201(2), Dec. 23, 1985, 99 Stat. 1690
 
-Section, Pub. L. 92–181, title V, § 5.13, Dec. 10, 1971, 85 Stat. 620, related to authority of Governor of the Farm Credit Administration to fix powers and duties of divisions and instrumentalities of the Administration.
+Section, Pub. L. 92–181, title V, § 5.13, Dec. 10, 1971, 85 Stat. 620, related to authority of Governor of the Farm Credit Administration to fix powers and duties of divisions and instrumentalities of the Administration.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4921,17 +4921,17 @@ Section, Pub. L. 92–181, title V, § 5.13, Dec. 10, 1971, 85 Stat. 620, rela
 
 Repeal effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2248. Seal of the Farm Credit Administration
+#### § 2248. Seal of the Farm Credit Administration
 
 The Farm Credit Administration shall have a seal, as adopted by the Board, which shall be judicially noted.
 
-(Pub. L. 92–181, title V, § 5.13, formerly § 5.14, Dec. 10, 1971, 85 Stat. 620; renumbered § 5.13 and amended Pub. L. 99–205, title II, § 201(3), Dec. 23, 1985, 99 Stat. 1690.)
+(Pub. L. 92–181, title V, § 5.13, formerly § 5.14, Dec. 10, 1971, 85 Stat. 620; renumbered § 5.13 and amended Pub. L. 99–205, title II, § 201(3), Dec. 23, 1985, 99 Stat. 1690.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5.13 of Pub. L. 92–181 was classified to section 2247 of this title prior to repeal by Pub. L. 99–205, title II, § 201(2), Dec. 23, 1985, 99 Stat. 1690.
+A prior section 5.13 of Pub. L. 92–181 was classified to section 2247 of this title prior to repeal by Pub. L. 99–205, title II, § 201(2), Dec. 23, 1985, 99 Stat. 1690.
 
 **Amendments**
 
@@ -4943,11 +4943,11 @@ A prior section 5.13 of Pub. L. 92–181 was classified to section 2247 of this 
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2249. Administrative expenses
+#### § 2249. Administrative expenses
 
 The Farm Credit Administration may, within the limits of funds available therefor, make necessary expenditures for personnel services and rent at the seat of Government and elsewhere; contract stenographic reporting services; purchase and exchange lawbooks, books of reference, periodicals, newspapers, expenses of attendance at meetings and conferences; purchase, operation, and maintenance at the seat of Government and elsewhere of motor-propelled passenger-carrying vehicles and other vehicles; printing and binding; and for such other facilities and services, including temporary employment by contract or otherwise, as it may from time to time find necessary for the proper administration of this chapter. The Farm Credit Administration may dispose of property so acquired and any amounts collected from the disposition of such property shall be deposited in the special fund provided for in section 2250(b) of this title and shall be available to the Administration in the same manner and for the same purposes as the funds collected under section 2250(a) of this title.
 
-(Pub. L. 92–181, title V, § 5.14, formerly § 5.15, Dec. 10, 1971, 85 Stat. 620; Pub. L. 96–592, title V, § 505, Dec. 24, 1980, 94 Stat. 3449; renumbered § 5.14 and amended Pub. L. 99–205, title II, § 201(4), Dec. 23, 1985, 99 Stat. 1690.)
+(Pub. L. 92–181, title V, § 5.14, formerly § 5.15, Dec. 10, 1971, 85 Stat. 620; Pub. L. 96–592, title V, § 505, Dec. 24, 1980, 94 Stat. 3449; renumbered § 5.14 and amended Pub. L. 99–205, title II, § 201(4), Dec. 23, 1985, 99 Stat. 1690.)
 
 **Editorial Notes**
 
@@ -4967,7 +4967,7 @@ A prior section 5.14 of Pub. L. 92–181 was renumbered section 5.13 and is clas
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2250. Farm Credit Administration operating expenses fund
+#### § 2250. Farm Credit Administration operating expenses fund
 
 **(a) Determinations required**
 
@@ -5011,13 +5011,13 @@ All income earned from such investments and reinvestments shall be deposited in 
 
 Such investments shall be made in public debt securities with maturities suitable to the needs of the Expense Account, as determined by the Farm Credit Administration, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
-(Pub. L. 92–181, title V, § 5.15, formerly § 5.16, Dec. 10, 1971, 85 Stat. 620; renumbered § 5.15 and amended Pub. L. 99–205, title II, §§ 201(5), 205(g)(6), Dec. 23, 1985, 99 Stat. 1690, 1707; Pub. L. 100–233, title IV, § 432(a), Jan. 6, 1988, 101 Stat. 1660; Pub. L. 100–399, title IV, § 416(a), (b), Aug. 17, 1988, 102 Stat. 1004; Pub. L. 102–552, title V, § 510, Oct. 28, 1992, 106 Stat. 4132.)
+(Pub. L. 92–181, title V, § 5.15, formerly § 5.16, Dec. 10, 1971, 85 Stat. 620; renumbered § 5.15 and amended Pub. L. 99–205, title II, §§ 201(5), 205(g)(6), Dec. 23, 1985, 99 Stat. 1690, 1707; Pub. L. 100–233, title IV, § 432(a), Jan. 6, 1988, 101 Stat. 1660; Pub. L. 100–399, title IV, § 416(a), (b), Aug. 17, 1988, 102 Stat. 1004; Pub. L. 102–552, title V, § 510, Oct. 28, 1992, 106 Stat. 4132.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (b)(1), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (b)(1), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 **Prior Provisions**
 
@@ -5025,7 +5025,7 @@ A prior section 5.15 of Pub. L. 92–181 was renumbered section 5.14 and is clas
 
 **Amendments**
 
-1992—Subsec. (b)(1). Pub. L. 102–552 inserted “, for purposes of sequestration,” after “regard” and struck out “or any other law” before “, to pay the expenses”.
+1992—Subsec. (b)(1). Pub. L. 102–552 inserted “, for purposes of sequestration,” after “regard” and struck out “or any other law” before “, to pay the expenses”.
 
 1988—Pub. L. 100–233 amended section generally. Prior to amendment, section read as follows:
 
@@ -5033,11 +5033,11 @@ A prior section 5.15 of Pub. L. 92–181 was renumbered section 5.14 and is clas
 
 “(b) The amounts collected pursuant to subsection (a) of this section shall be covered into the Treasury, and credited to a special fund and, without regard to other law, shall be available to the Farm Credit Administration for expenditure during each fiscal year for salaries and expenses of the Farm Credit Administration. As soon as practicable after the end of each such fiscal year, the Farm Credit Administration shall determine, on a fair and reasonable basis, the cost of operation of the Farm Credit Administration and the part thereof which fairly and equitably should be allocated to each bank and association as its share of the cost during the fiscal year of the Farm Credit Administration. If the amount so allocated is greater than the amount collected from the bank or other institutions, the difference shall be collected from such bank or other institutions, and, if less, shall be refunded from the special fund to the bank or other institutions entitled thereto or credited in the special fund to such bank or other institutions for use for the same purposes in future fiscal years.”
 
-Subsec. (a)(2)(A). Pub. L. 100–399, § 416(a), substituted “the assessment described in paragraph (1)(B)” for “such assessment”.
+Subsec. (a)(2)(A). Pub. L. 100–399, § 416(a), substituted “the assessment described in paragraph (1)(B)” for “such assessment”.
 
-Subsec. (a)(2)(C). Pub. L. 100–399, § 416(b), substituted “described” for “specified”.
+Subsec. (a)(2)(C). Pub. L. 100–399, § 416(b), substituted “described” for “specified”.
 
-1985—Subsec. (b). Pub. L. 99–205, § 205(g)(6), substituted “the Farm Credit Administration” for “said Administration” twice in first sentence, and for “the Administration” and “such Administration” in second sentence.
+1985—Subsec. (b). Pub. L. 99–205, § 205(g)(6), substituted “the Farm Credit Administration” for “said Administration” twice in first sentence, and for “the Administration” and “such Administration” in second sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5049,7 +5049,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2251. Quarters and facilities for the Farm Credit Administration
+#### § 2251. Quarters and facilities for the Farm Credit Administration
 
 **(a) Location of principal office**
 
@@ -5089,7 +5089,7 @@ The plans and decisions for such building and facilities and for the enlargement
 
 In actions undertaken by the banks pursuant to this section, the Farm Credit Administration may act as agent for the banks.
 
-(Pub. L. 92–181, title V, § 5.16, formerly § 5.17, Dec. 10, 1971, 85 Stat. 621; Pub. L. 96–592, title V, § 506, Dec. 24, 1980, 94 Stat. 3449; renumbered § 5.16 and amended Pub. L. 99–205, title II, § 201(6), Dec. 23, 1985, 99 Stat. 1690; Pub. L. 100–233, title VIII, § 805(y), Jan. 6, 1988, 101 Stat. 1717; Pub. L. 100–399, title IX, § 901(*l*), Aug. 17, 1988, 102 Stat. 1008; Pub. L. 115–334, title V, §§ 5405, 5411(28), Dec. 20, 2018, 132 Stat. 4676, 4682.)
+(Pub. L. 92–181, title V, § 5.16, formerly § 5.17, Dec. 10, 1971, 85 Stat. 621; Pub. L. 96–592, title V, § 506, Dec. 24, 1980, 94 Stat. 3449; renumbered § 5.16 and amended Pub. L. 99–205, title II, § 201(6), Dec. 23, 1985, 99 Stat. 1690; Pub. L. 100–233, title VIII, § 805(y), Jan. 6, 1988, 101 Stat. 1717; Pub. L. 100–399, title IX, § 901(*l*), Aug. 17, 1988, 102 Stat. 1008; Pub. L. 115–334, title V, §§ 5405, 5411(28), Dec. 20, 2018, 132 Stat. 4676, 4682.)
 
 **Editorial Notes**
 
@@ -5099,19 +5099,19 @@ A prior section 5.16 of Pub. L. 92–181 was renumbered section 5.15 and is clas
 
 **Amendments**
 
-2018—Subsecs. (a), (b). Pub. L. 115–334, § 5405, added subsec. (a) and designated existing introductory provisions and pars. (1) to (5) as subsec. (b).
+2018—Subsecs. (a), (b). Pub. L. 115–334, § 5405, added subsec. (a) and designated existing introductory provisions and pars. (1) to (5) as subsec. (b).
 
-Subsec. (c). Pub. L. 115–334, § 5411(28), designated existing concluding provisions as subsec. (c) and first to fifth sentences thereof as pars. (1) to (5), respectively, and inserted subsec. and par. headings.
+Subsec. (c). Pub. L. 115–334, § 5411(28), designated existing concluding provisions as subsec. (c) and first to fifth sentences thereof as pars. (1) to (5), respectively, and inserted subsec. and par. headings.
 
-Subsec. (c)(2). Pub. L. 115–334, § 5411(28)(D), substituted “The advances of funds described in paragraph (1)” for “Such advances”.
+Subsec. (c)(2). Pub. L. 115–334, § 5411(28)(D), substituted “The advances of funds described in paragraph (1)” for “Such advances”.
 
-Subsec. (c)(5). Pub. L. 115–334, § 5411(28)(A), substituted “In actions undertaken by the banks pursuant to this section” for “In actions undertaken by the banks pursuant to the foregoing provisions of this section”.
+Subsec. (c)(5). Pub. L. 115–334, § 5411(28)(A), substituted “In actions undertaken by the banks pursuant to this section” for “In actions undertaken by the banks pursuant to the foregoing provisions of this section”.
 
 1988—Pub. L. 100–399 substituted “bank boards” for “district boards” in introductory provisions.
 
 Pub. L. 100–233 transferred undesignated provisions following par. (4) consisting of four sentences relating to advances of funds for purposes set out in this section as in the sole judgment of the Board may from time to time be advisable for purposes of this section, to a position immediately before last sentence of this section which provides for agency status of Administration for the banks.
 
-1985—Pub. L. 99–205, § 201(6)(A)–(C), made technical amendments to the references to sections 2249 and 2250 of this title in first and third sentences to reflect the renumbering of the corresponding sections of the original act, and struck out “Federal Farm Credit” before “Board” in par. (2) of first sentence.
+1985—Pub. L. 99–205, § 201(6)(A)–(C), made technical amendments to the references to sections 2249 and 2250 of this title in first and third sentences to reflect the renumbering of the corresponding sections of the original act, and struck out “Federal Farm Credit” before “Board” in par. (2) of first sentence.
 
 1980—Pub. L. 96–592 added par. (5) and provisions respecting agency status of Administration for the banks.
 
@@ -5125,7 +5125,7 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### § 2252. Powers and duties
+#### § 2252. Powers and duties
 
 **(a) Enumerated powers** The Farm Credit Administration shall have the following powers, functions, and responsibilities in connection with the institutions of the Farm Credit System and the administration of this chapter:
 
@@ -5215,7 +5215,7 @@ The Farm Credit Administration shall not have authority, either direct or indire
 
 **(d) Legislative veto of regulations; procedures applicable**
 
-**(1)** If there are any unresolved differences between the Farm Credit Administration and the Board of Governors of the Federal Reserve System as to whether any regulation implementing section 2128(b) of this title or the other provisions of subchapter III relating to the authority under section 2128(b) of this title conforms to national banking policies, objectives and limitations, simultaneously with promulgation of any such regulation under this chapter, and simultaneously with promulgation of any regulation implementing section 2015(b) of this title, the Farm Credit Administration shall transmit a copy thereof to the Secretary of the Senate and the Clerk of the House of Representatives. Except as provided in paragraph (2), the regulation shall not become effective if, within ninety calendar days of continuous session of Congress after the date of promulgation, both Houses of Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows: “That Congress disapproves the regulations promulgated by the Farm Credit Administration dealing with the matter of             , which regulation was transmitted to Congress on             ”, the blank spaces therein being appropriately filled.
+**(1)** If there are any unresolved differences between the Farm Credit Administration and the Board of Governors of the Federal Reserve System as to whether any regulation implementing section 2128(b) of this title or the other provisions of subchapter III relating to the authority under section 2128(b) of this title conforms to national banking policies, objectives and limitations, simultaneously with promulgation of any such regulation under this chapter, and simultaneously with promulgation of any regulation implementing section 2015(b) of this title, the Farm Credit Administration shall transmit a copy thereof to the Secretary of the Senate and the Clerk of the House of Representatives. Except as provided in paragraph (2), the regulation shall not become effective if, within ninety calendar days of continuous session of Congress after the date of promulgation, both Houses of Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows: “That Congress disapproves the regulations promulgated by the Farm Credit Administration dealing with the matter of , which regulation was transmitted to Congress on ”, the blank spaces therein being appropriately filled.
 
 **(2)** If at the end of sixty calendar days of continuous session of Congress after the date of promulgation of a regulation, no committee of either House of Congress has reported or been discharged from further consideration of a concurrent resolution disapproving the regulation, and neither House has adopted such a resolution, the regulation may go into effect immediately. If, within such sixty calendar days, such a committee has reported or been discharged from further consideration of such a resolution, or either House has adopted such a resolution, the regulation may go into effect not sooner than ninety calendar days of continuous session of Congress after its promulgation unless disapproved as provided in paragraph (1).
 
@@ -5227,7 +5227,7 @@ The Farm Credit Administration shall not have authority, either direct or indire
 
 **(4)** Congressional inaction on or rejection of a resolution of disapproval shall not be deemed an expression of approval of such regulation.
 
-(Pub. L. 92–181, title V, § 5.17, formerly § 5.18, Dec. 10, 1971, 85 Stat. 621; Pub. L. 96–592, title V, §§ 507, 508, Dec. 24, 1980, 94 Stat. 3449; renumbered § 5.17 and amended Pub. L. 99–205, title II, § 201(7), Dec. 23, 1985, 99 Stat. 1691; Pub. L. 99–509, title I, § 1036, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–233, title II, § 207(a)(2), title IV, § 417, formerly § 414, § 418(d), formerly § 415(d), §§ 424(a), 431(e), title VIII, §§ 802(v), 805(z), Jan. 6, 1988, 101 Stat. 1607, 1653, 1656, 1660, 1713, 1717, renumbered §§ 417, 418(d), Pub. L. 100–399, title IV, § 409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title II, § 205, title IV, § 409(e), title IX, § 901(m), (n), Aug. 17, 1988, 102 Stat. 993, 1003, 1008; Pub. L. 101–624, title XVIII, § 1843(a)(1), Nov. 28, 1990, 104 Stat. 3836; Pub. L. 102–237, title V, § 502(h), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title IV, § 401(c), title V, § 511, Oct. 28, 1992, 106 Stat. 4128, 4132; Pub. L. 104–105, title II, §§ 210, 211, Feb. 10, 1996, 110 Stat. 174; Pub. L. 110–234, title V, § 5407(b), (c)(1), May 22, 2008, 122 Stat. 1160; Pub. L. 110–246, § 4(a), title V, § 5407(b), (c)(1), June 18, 2008, 122 Stat. 1664, 1921, 1922; Pub. L. 115–334, title V, § 5411(29), Dec. 20, 2018, 132 Stat. 4682.)
+(Pub. L. 92–181, title V, § 5.17, formerly § 5.18, Dec. 10, 1971, 85 Stat. 621; Pub. L. 96–592, title V, §§ 507, 508, Dec. 24, 1980, 94 Stat. 3449; renumbered § 5.17 and amended Pub. L. 99–205, title II, § 201(7), Dec. 23, 1985, 99 Stat. 1691; Pub. L. 99–509, title I, § 1036, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–233, title II, § 207(a)(2), title IV, § 417, formerly § 414, § 418(d), formerly § 415(d), §§ 424(a), 431(e), title VIII, §§ 802(v), 805(z), Jan. 6, 1988, 101 Stat. 1607, 1653, 1656, 1660, 1713, 1717, renumbered §§ 417, 418(d), Pub. L. 100–399, title IV, § 409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title II, § 205, title IV, § 409(e), title IX, § 901(m), (n), Aug. 17, 1988, 102 Stat. 993, 1003, 1008; Pub. L. 101–624, title XVIII, § 1843(a)(1), Nov. 28, 1990, 104 Stat. 3836; Pub. L. 102–237, title V, § 502(h), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title IV, § 401(c), title V, § 511, Oct. 28, 1992, 106 Stat. 4128, 4132; Pub. L. 104–105, title II, §§ 210, 211, Feb. 10, 1996, 110 Stat. 174; Pub. L. 110–234, title V, § 5407(b), (c)(1), May 22, 2008, 122 Stat. 1160; Pub. L. 110–246, § 4(a), title V, § 5407(b), (c)(1), June 18, 2008, 122 Stat. 1664, 1921, 1922; Pub. L. 115–334, title V, § 5411(29), Dec. 20, 2018, 132 Stat. 4682.)
 
 **Editorial Notes**
 
@@ -5243,67 +5243,67 @@ A prior section 5.17 of Pub. L. 92–181 was renumbered section 5.16 and is clas
 
 2018—Subsec. (a)(2). Pub. L. 115–334 struck out “In issuing charters and certificates of territory for district-wide mergers of associations where stockholders of one or more associations did not approve the merger, the charter of the new or merged association shall not include the territory of the disagreeing association or associations; charters issued during calendar year 1985 for district-wide new or merged associations which included the territory of a disagreeing association shall be revoked and reissued to exclude such territory, unless subsequently agreed to by the board of directors of such association or associations. The Farm Credit Administration Board shall ensure that disapproving associations (A) shall not be charged any assessment under this chapter at a rate higher than that charged other like associations in the district, and (B) shall be provided with financial services and assistance on the same basis as other like associations in the district (including, but not limited to, access to credit and rates of interest on loans and discounts) by a district Farm Credit bank to the association and its member-borrowers.” after “institutions involved.”
 
-2008—Subsec. (a)(2). Pub. L. 110–246, § 5407(c)(1), substituted “(2)” for “(2)(A)” and struck out pars. (B) and (C) which prohibited issuance or amendment of the charter of any institution of the Farm Credit System that would authorize the institution to exercise lending authority in a territory in which the charter of another such institution authorized the other institution to exercise like authority, unless specified approvals were obtained, and provided that such prohibition would apply only in geographic areas where, due to the failure of a merger, the Federal intermediate credit bank or its successor was chartered to provide short- and intermediate-term credit, and a neighboring Farm Credit Bank that was not the successor to the Federal intermediate credit bank was chartered to provide long-term credit, in the same geographic territory.
+2008—Subsec. (a)(2). Pub. L. 110–246, § 5407(c)(1), substituted “(2)” for “(2)(A)” and struck out pars. (B) and (C) which prohibited issuance or amendment of the charter of any institution of the Farm Credit System that would authorize the institution to exercise lending authority in a territory in which the charter of another such institution authorized the other institution to exercise like authority, unless specified approvals were obtained, and provided that such prohibition would apply only in geographic areas where, due to the failure of a merger, the Federal intermediate credit bank or its successor was chartered to provide short- and intermediate-term credit, and a neighboring Farm Credit Bank that was not the successor to the Federal intermediate credit bank was chartered to provide long-term credit, in the same geographic territory.
 
-Subsec. (a)(15). Pub. L. 110–246, § 5407(b), added par. (15).
+Subsec. (a)(15). Pub. L. 110–246, § 5407(b), added par. (15).
 
-1996—Subsec. (a)(2)(A). Pub. L. 104–105, § 210, struck out “or management agreements” after “consolidations of boards of directors” in first sentence.
+1996—Subsec. (a)(2)(A). Pub. L. 104–105, § 210, struck out “or management agreements” after “consolidations of boards of directors” in first sentence.
 
-Subsec. (a)(8). Pub. L. 104–105, § 211, inserted “the requirements of the Farm Credit Administration governing the dissemination to stockholders of quarterly reports of System institutions may not be more burdensome or costly than the requirements applicable to national banks, and” after “except that”.
+Subsec. (a)(8). Pub. L. 104–105, § 211, inserted “the requirements of the Farm Credit Administration governing the dissemination to stockholders of quarterly reports of System institutions may not be more burdensome or costly than the requirements applicable to national banks, and” after “except that”.
 
-1992—Subsec. (a)(2). Pub. L. 102–552, § 401(c), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+1992—Subsec. (a)(2). Pub. L. 102–552, § 401(c), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-Subsec. (a)(13), (14). Pub. L. 102–552, § 511, added pars. (13) and (14).
+Subsec. (a)(13), (14). Pub. L. 102–552, § 511, added pars. (13) and (14).
 
 1991—Subsec. (a)(8)(B)(ii). Pub. L. 102–237 struck out second period at end.
 
 1990—Subsec. (a)(13). Pub. L. 101–624 struck out par. (13) which read as follows: “Except for associations, approve the salary scale for employees of the institutions of the System, and approve the compensation of the chief executive officer of such institutions: *Provided*, That no salary scale or rate of compensation shall be approved under this provision unless determined by the Board to be fair and reasonable. The Board may not delegate its responsibilities under this paragraph.”
 
-1988—Subsec. (a)(1). Pub. L. 100–399, § 901(m)(1), substituted “district banks” for “district boards”.
+1988—Subsec. (a)(1). Pub. L. 100–399, § 901(m)(1), substituted “district banks” for “district boards”.
 
-Subsec. (a)(2). Pub. L. 100–399, § 901(m)(2), substituted “district bank boards” for “boards of the districts”.
+Subsec. (a)(2). Pub. L. 100–399, § 901(m)(2), substituted “district bank boards” for “boards of the districts”.
 
-Pub. L. 100–399, § 409(e), substituted “approve the consolidation or division of the territories of institutions when agreed to” for “the consolidation or division of the territories that they serve when agreed to”.
+Pub. L. 100–399, § 409(e), substituted “approve the consolidation or division of the territories of institutions when agreed to” for “the consolidation or division of the territories that they serve when agreed to”.
 
-Pub. L. 100–233, § 802(v)(1)(A), substituted “approve amendments to” for “amend or modify”.
+Pub. L. 100–233, § 802(v)(1)(A), substituted “approve amendments to” for “amend or modify”.
 
-Pub. L. 100–233, § 415(d), substituted “section 2279a of this title” for “section 2181 of this title” and “approve mergers and any related activities as provided for in subchapter VII; and” for “; approve mergers of banks operating under the same subchapter of this chapter, merger of Federal land bank associations, merger of production credit associations, and”.
+Pub. L. 100–233, § 415(d), substituted “section 2279a of this title” for “section 2181 of this title” and “approve mergers and any related activities as provided for in subchapter VII; and” for “; approve mergers of banks operating under the same subchapter of this chapter, merger of Federal land bank associations, merger of production credit associations, and”.
 
-Pub. L. 100–233, § 414, substituted “. The Farm Credit Administration Board shall ensure that disapproving associations (A) shall not be charged any assessment under this chapter at a rate higher than that charged other like associations in the district, and (B) shall be provided with financial services and assistance on the same basis as other like associations in the district” for “; and the Farm Credit Administration shall ensure that the board of directors of district banks does not discriminate against the disapproving associations in exercising its supervisory authorities. Such associations shall not be (i) charged any assessment under this chapter at a rate higher than that charged other like associations in the district or (ii) discriminated against in the provision of any financial service and assistance”.
+Pub. L. 100–233, § 414, substituted “. The Farm Credit Administration Board shall ensure that disapproving associations (A) shall not be charged any assessment under this chapter at a rate higher than that charged other like associations in the district, and (B) shall be provided with financial services and assistance on the same basis as other like associations in the district” for “; and the Farm Credit Administration shall ensure that the board of directors of district banks does not discriminate against the disapproving associations in exercising its supervisory authorities. Such associations shall not be (i) charged any assessment under this chapter at a rate higher than that charged other like associations in the district or (ii) discriminated against in the provision of any financial service and assistance”.
 
-Pub. L. 100–233, § 431(e)(1), substituted “The Farm Credit Administration Board, after consultation with the respective boards of directors of the affected banks, may require two or more banks operating under the same or different titles to merge if the Board determines that one of such banks has failed to meet its outstanding obligations” for “The Chairman of the Farm Credit Administration Board, after consultation with the respective district board or boards and the board of directors of the Capital Corporation may require two or more banks of the Farm Credit System (other than Central Banks for Cooperatives) operating under the same subchapter to merge if the Chairman determines that one of such banks has failed to meet outstanding obligations of such bank.”
+Pub. L. 100–233, § 431(e)(1), substituted “The Farm Credit Administration Board, after consultation with the respective boards of directors of the affected banks, may require two or more banks operating under the same or different titles to merge if the Board determines that one of such banks has failed to meet its outstanding obligations” for “The Chairman of the Farm Credit Administration Board, after consultation with the respective district board or boards and the board of directors of the Capital Corporation may require two or more banks of the Farm Credit System (other than Central Banks for Cooperatives) operating under the same subchapter to merge if the Chairman determines that one of such banks has failed to meet outstanding obligations of such bank.”
 
-Subsec. (a)(3). Pub. L. 100–399, § 901(m)(3), substituted “Farm Credit Banks under section 2207(b) of this title” for “Federal land banks and Federal intermediate credit banks under section 2207(b) of this title”.
+Subsec. (a)(3). Pub. L. 100–399, § 901(m)(3), substituted “Farm Credit Banks under section 2207(b) of this title” for “Federal land banks and Federal intermediate credit banks under section 2207(b) of this title”.
 
-Subsec. (a)(5). Pub. L. 100–233, § 802(v)(1)(B), struck out “that meet standards and criteria established by the Farm Credit Administration, including standards and criteria with respect to (A) interest rates on obligations of Farm Credit System institutions, and (B) the payment of dividends or patronage refunds by Farm Credit System institutions” after “Farm Credit institutions”.
+Subsec. (a)(5). Pub. L. 100–233, § 802(v)(1)(B), struck out “that meet standards and criteria established by the Farm Credit Administration, including standards and criteria with respect to (A) interest rates on obligations of Farm Credit System institutions, and (B) the payment of dividends or patronage refunds by Farm Credit System institutions” after “Farm Credit institutions”.
 
-Subsec. (a)(8). Pub. L. 100–399, § 205, redesignated par. (9) as (8).
+Subsec. (a)(8). Pub. L. 100–399, § 205, redesignated par. (9) as (8).
 
-Pub. L. 100–233, § 207(a)(2), struck out par. (8) which read as follows: “Make investments in stock of the Capital Corporation out of the revolving fund referred to in section 2151 of this title, and require the retirement of such stock.”
+Pub. L. 100–233, § 207(a)(2), struck out par. (8) which read as follows: “Make investments in stock of the Capital Corporation out of the revolving fund referred to in section 2151 of this title, and require the retirement of such stock.”
 
-Subsec. (a)(9). Pub. L. 100–399, § 205, redesignated par. (10) as (9). Former par. (9) redesignated (8).
+Subsec. (a)(9). Pub. L. 100–399, § 205, redesignated par. (10) as (9). Former par. (9) redesignated (8).
 
-Pub. L. 100–233, § 424(a), inserted provisions limiting Farm Credit Administration from requiring System institutions to disclose in reports to stockholders certain information concerning condition or classification of loans to certain directors or members of immediate family of certain directors.
+Pub. L. 100–233, § 424(a), inserted provisions limiting Farm Credit Administration from requiring System institutions to disclose in reports to stockholders certain information concerning condition or classification of loans to certain directors or members of immediate family of certain directors.
 
-Subsec. (a)(10) to (12). Pub. L. 100–399, § 205, redesignated pars. (11) to (13) as (10) to (12), respectively. Former par. (10) redesignated (9).
+Subsec. (a)(10) to (12). Pub. L. 100–399, § 205, redesignated pars. (11) to (13) as (10) to (12), respectively. Former par. (10) redesignated (9).
 
-Subsec. (a)(13). Pub. L. 100–399, § 205, redesignated par. (14) as (13). Former par. (13) redesignated (12).
+Subsec. (a)(13). Pub. L. 100–399, § 205, redesignated par. (14) as (13). Former par. (13) redesignated (12).
 
-Pub. L. 100–233, § 805(z), redesignated par. (14) as (13), and struck out former par. (13) which read as follows: “Sue and be sued, complain and defend in any court of law or equity, State or Federal. All suits of a civil nature at common law or in equity to which the Farm Credit Administration shall be a party shall be deemed to arise under the laws of the United States, and the United States district courts shall have original jurisdiction thereof, without regard to the amount of the controversy; and the Farm Credit Administration may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States district court for the district or division embracing the place where the same is pending by following any procedure for removal now or hereafter in effect. Service of process on the Farm Credit Administration shall be in accordance with provisions of title 28 and rules adopted under title 28 for suits in which an agency of the United States is a party. The Farm Credit Administration shall designate an agent at its principal office to accept service of process.”
+Pub. L. 100–233, § 805(z), redesignated par. (14) as (13), and struck out former par. (13) which read as follows: “Sue and be sued, complain and defend in any court of law or equity, State or Federal. All suits of a civil nature at common law or in equity to which the Farm Credit Administration shall be a party shall be deemed to arise under the laws of the United States, and the United States district courts shall have original jurisdiction thereof, without regard to the amount of the controversy; and the Farm Credit Administration may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States district court for the district or division embracing the place where the same is pending by following any procedure for removal now or hereafter in effect. Service of process on the Farm Credit Administration shall be in accordance with provisions of title 28 and rules adopted under title 28 for suits in which an agency of the United States is a party. The Farm Credit Administration shall designate an agent at its principal office to accept service of process.”
 
-Subsec. (a)(14). Pub. L. 100–399, § 205, redesignated par. (14) as (13).
+Subsec. (a)(14). Pub. L. 100–399, § 205, redesignated par. (14) as (13).
 
-Pub. L. 100–233, §§ 431(e)(2), 805(z), redesignated par. (15) as (14) and inserted “by the Board” and “The Board may not delegate its responsibilities under this paragraph.” Former subsec. (14) redesignated (13).
+Pub. L. 100–233, §§ 431(e)(2), 805(z), redesignated par. (15) as (14) and inserted “by the Board” and “The Board may not delegate its responsibilities under this paragraph.” Former subsec. (14) redesignated (13).
 
-Subsec. (a)(15). Pub. L. 100–233, § 805(z), redesignated par. (15) as (14).
+Subsec. (a)(15). Pub. L. 100–233, § 805(z), redesignated par. (15) as (14).
 
-Subsecs. (b), (c). Pub. L. 100–233, § 802(v)(2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Subsecs. (b), (c). Pub. L. 100–233, § 802(v)(2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 100–233, § 802(v)(2), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 100–233, § 802(v)(2), redesignated subsec. (c) as (d).
 
-Subsec. (d)(1). Pub. L. 100–399, § 901(n)(1), made technical amendment to reference to sections 2015(b) and 2128(b) of this title involving underlying provisions of original act and requiring no change in text.
+Subsec. (d)(1). Pub. L. 100–399, § 901(n)(1), made technical amendment to reference to sections 2015(b) and 2128(b) of this title involving underlying provisions of original act and requiring no change in text.
 
-Pub. L. 100–399, § 901(n), substituted “section 2015(b) of this title” for “section 2074 of this title”.
+Pub. L. 100–399, § 901(n), substituted “section 2015(b) of this title” for “section 2074 of this title”.
 
 1986—Subsec. (a)(5)(A). Pub. L. 99–509 struck out “and on loans made or discounted by such institutions” after “Farm Credit System institutions”.
 
@@ -5317,7 +5317,7 @@ Pub. L. 100–399, § 901(n), substituted “section 2015(b) of this title” 
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title V, § 5407(d), May 22, 2008, 122 Stat. 1161, and Pub. L. 110–246, § 4(a), title V, § 5407(d), June 18, 2008, 122 Stat. 1664, 1922, provided that: “The amendments made by this section [enacting section 2279c of this title and amending this section and provisions set out as notes under section 2011 of this title] take effect on January 1, 2010.”
+Pub. L. 110–234, title V, § 5407(d), May 22, 2008, 122 Stat. 1161, and Pub. L. 110–246, § 4(a), title V, § 5407(d), June 18, 2008, 122 Stat. 1664, 1922, provided that: “The amendments made by this section [enacting section 2279c of this title and amending this section and provisions set out as notes under section 2011 of this title] take effect on January 1, 2010.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
@@ -5337,7 +5337,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 **Regulations**
 
-Pub. L. 100–233, title IV, § 424(b), Jan. 6, 1988, 101 Stat. 1656, provided that: “Within 30 days after the date of the enactment of this Act [Jan. 6, 1988], the Farm Credit Administration shall amend its regulations as necessary to implement the amendment made by subsection (a) [amending this section].”
+Pub. L. 100–233, title IV, § 424(b), Jan. 6, 1988, 101 Stat. 1656, provided that: “Within 30 days after the date of the enactment of this Act [Jan. 6, 1988], the Farm Credit Administration shall amend its regulations as necessary to implement the amendment made by subsection (a) [amending this section].”
 
 **Termination of Reporting Requirements**
 
@@ -5345,7 +5345,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (a)(3) of this
 
 **Compensation Disclosure by Farm Credit System Institutions**
 
-Pub. L. 113–79, title V, § 5404, Feb. 7, 2014, 128 Stat. 840, provided that:
+Pub. L. 113–79, title V, § 5404, Feb. 7, 2014, 128 Stat. 840, provided that:
 
 > **“(a) Findings.—** Congress finds that—
 
@@ -5365,7 +5365,7 @@ Pub. L. 113–79, title V, § 5404, Feb. 7, 2014, 128 Stat. 840, provided that
 
 **Regulatory Review**
 
-Pub. L. 104–105, title II, § 212, Feb. 10, 1996, 110 Stat. 174, provided that:
+Pub. L. 104–105, title II, § 212, Feb. 10, 1996, 110 Stat. 174, provided that:
 
 > **“(a) Findings.—** Congress finds that—
 
@@ -5379,7 +5379,7 @@ Pub. L. 104–105, title II, § 212, Feb. 10, 1996, 110 Stat. 174, provided th
 
 **Forbearance and Restructuring for Farm Loans; Farm Credit Administration**
 
-Pub. L. 100–387, title III, § 313(b), Aug. 11, 1988, 102 Stat. 950, provided that:
+Pub. L. 100–387, title III, § 313(b), Aug. 11, 1988, 102 Stat. 950, provided that:
 
 > “It further is the sense of Congress that the Farm Credit Administration should in its oversight of Farm Credit System institutions, with respect to farmers and ranchers who suffer major losses due to drought, hail, excessive moisture, or related condition in 1988—
 
@@ -5389,15 +5389,15 @@ Pub. L. 100–387, title III, § 313(b), Aug. 11, 1988, 102 Stat. 950, provide
 
 > **“(3)** encourage other lenders participating with Farm Credit System institutions in mutual loan agreements to exercise forbearance before declaring loans to such farmers and ranchers in default.”
 
-#### § 2253. Repealed. Pub. L. 115–334, title V, § 5411(30), Dec. 20, 2018, 132 Stat. 4682
+#### § 2253. Repealed. Pub. L. 115–334, title V, § 5411(30), Dec. 20, 2018, 132 Stat. 4682
 
-Section, Pub. L. 92–181, title V, § 5.18, as added Pub. L. 99–205, title II, § 202(b), Dec. 23, 1985, 99 Stat. 1693, related to continued effectiveness of certain delegations made by the Farm Credit Administration through twelve months after Dec. 23, 1985.
+Section, Pub. L. 92–181, title V, § 5.18, as added Pub. L. 99–205, title II, § 202(b), Dec. 23, 1985, 99 Stat. 1693, related to continued effectiveness of certain delegations made by the Farm Credit Administration through twelve months after Dec. 23, 1985.
 
-A prior section 2253, Pub. L. 92–181, title V, § 5.19, Dec. 10, 1971, 85 Stat. 622, related to delegation of duties and powers to financial institutions, prior to repeal, effective thirty days after Dec. 23, 1985, by Pub. L. 99–205, title II, § 202(a), Dec. 23, 1985, 99 Stat. 1693.
+A prior section 2253, Pub. L. 92–181, title V, § 5.19, Dec. 10, 1971, 85 Stat. 622, related to delegation of duties and powers to financial institutions, prior to repeal, effective thirty days after Dec. 23, 1985, by Pub. L. 99–205, title II, § 202(a), Dec. 23, 1985, 99 Stat. 1693.
 
 A prior section 5.18 of Pub. L. 92–181 was renumbered section 5.17 and is classified to section 2252 of this title.
 
-#### § 2254. Examinations
+#### § 2254. Examinations
 
 **(a) Scope and frequency of examinations; power, authority, and liability of examiners**
 
@@ -5425,49 +5425,49 @@ The Farm Credit Administration may publish the report of examination of any Syst
 
 A System institution shall not be considered to have waived the confidentiality of a privileged communication with an attorney or an accountant if the System institution provides the content of the communication to the Farm Credit Administration pursuant to the supervisory or regulatory authorities of the Farm Credit Administration.
 
-(Pub. L. 92–181, title V, § 5.19, formerly § 5.20, Dec. 10, 1971, 85 Stat. 623; renumbered § 5.19 and amended Pub. L. 99–205, title II, § 203(a), Dec. 23, 1985, 99 Stat. 1693; Pub. L. 99–509, title I, § 1037, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–233, title II, § 205(b), title IV, § 432(b), Jan. 6, 1988, 101 Stat. 1607, 1661; Pub. L. 100–399, title II, § 204, title IV, § 416(c), Aug. 17, 1988, 102 Stat. 993, 1004; Pub. L. 101–624, title XVIII, § 1843(b), Nov. 28, 1990, 104 Stat. 3836; Pub. L. 102–552, title V, §§ 512, 513(b), Oct. 28, 1992, 106 Stat. 4133, 4134; Pub. L. 104–105, title II, § 213, Feb. 10, 1996, 110 Stat. 175; Pub. L. 115–334, title V, §§ 5404, 5411(31), Dec. 20, 2018, 132 Stat. 4676, 4682.)
+(Pub. L. 92–181, title V, § 5.19, formerly § 5.20, Dec. 10, 1971, 85 Stat. 623; renumbered § 5.19 and amended Pub. L. 99–205, title II, § 203(a), Dec. 23, 1985, 99 Stat. 1693; Pub. L. 99–509, title I, § 1037, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–233, title II, § 205(b), title IV, § 432(b), Jan. 6, 1988, 101 Stat. 1607, 1661; Pub. L. 100–399, title II, § 204, title IV, § 416(c), Aug. 17, 1988, 102 Stat. 993, 1004; Pub. L. 101–624, title XVIII, § 1843(b), Nov. 28, 1990, 104 Stat. 3836; Pub. L. 102–552, title V, §§ 512, 513(b), Oct. 28, 1992, 106 Stat. 4133, 4134; Pub. L. 104–105, title II, § 213, Feb. 10, 1996, 110 Stat. 175; Pub. L. 115–334, title V, §§ 5404, 5411(31), Dec. 20, 2018, 132 Stat. 4676, 4682.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5.19 of Pub. L. 92–181 was classified to section 2253 of this title prior to repeal by Pub. L. 99–205, title II, § 202(a), Dec. 23, 1985, 99 Stat. 1693.
+A prior section 5.19 of Pub. L. 92–181 was classified to section 2253 of this title prior to repeal by Pub. L. 99–205, title II, § 202(a), Dec. 23, 1985, 99 Stat. 1693.
 
 **References in Text**
 
-The National Bank Act, referred to in subsec. (a), is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
+The National Bank Act, referred to in subsec. (a), is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
 
-The Federal Reserve Act, referred to in subsec. (a), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+The Federal Reserve Act, referred to in subsec. (a), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
-The Federal Deposit Insurance Act, referred to in subsec. (a), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (a), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 5411(31)(A), substituted “Each institution” for “Except for Federal land bank associations, each institution” and struck out “Each Federal land bank association shall be examined by Farm Credit Administration examiners at such times as the Farm Credit Administration Board may determine, except that each such association shall be examined at least once every three years.” after “each 18-month period.”
+2018—Subsec. (a). Pub. L. 115–334, § 5411(31)(A), substituted “Each institution” for “Except for Federal land bank associations, each institution” and struck out “Each Federal land bank association shall be examined by Farm Credit Administration examiners at such times as the Farm Credit Administration Board may determine, except that each such association shall be examined at least once every three years.” after “each 18-month period.”
 
-Subsec. (b). Pub. L. 115–334, § 5411(31)(B), struck out par. (1) designation before “Each institution”, struck out “, except with respect to any actions taken by any banks of the System under section 2159(b) of this title,” after “accounting principles” and “Notwithstanding the provisions of the preceding sentence and any other provision of this chapter, for the period July 1, 1986, through December 31, 1988, the institutions of the Farm Credit System may, on the prior approval of the Farm Credit Administration and subject to such conditions as it may establish, capitalize annually their provision for losses that is in excess of one-half of 1 percent of loans outstanding and amortize such capitalized amounts over a period not to exceed 20 years.” after “may require.”, and struck out pars. (2) and (3) which read as follows:
+Subsec. (b). Pub. L. 115–334, § 5411(31)(B), struck out par. (1) designation before “Each institution”, struck out “, except with respect to any actions taken by any banks of the System under section 2159(b) of this title,” after “accounting principles” and “Notwithstanding the provisions of the preceding sentence and any other provision of this chapter, for the period July 1, 1986, through December 31, 1988, the institutions of the Farm Credit System may, on the prior approval of the Farm Credit Administration and subject to such conditions as it may establish, capitalize annually their provision for losses that is in excess of one-half of 1 percent of loans outstanding and amortize such capitalized amounts over a period not to exceed 20 years.” after “may require.”, and struck out pars. (2) and (3) which read as follows:
 
 “(2) In accordance with the regulations of the Farm Credit Administration, for the period ending December 31, 1992, System institutions are authorized to use the authorities contained in the third sentence of paragraph (1) except as otherwise provided in section 2278a–6 of this title.
 
 “(3) Any preferred stock issued under section 2278b–7 of this title shall be subordinated to, and impaired before, other stock or equities of the institution.”
 
-Subsec. (e). Pub. L. 115–334, § 5404, added subsec. (e).
+Subsec. (e). Pub. L. 115–334, § 5404, added subsec. (e).
 
 1996—Subsec. (a). Pub. L. 104–105 substituted “during each 18-month period” for “each year” in first sentence.
 
-1992—Subsec. (a). Pub. L. 102–552, § 512, substituted “may include, if appropriate” for “shall include” in third sentence.
+1992—Subsec. (a). Pub. L. 102–552, § 512, substituted “may include, if appropriate” for “shall include” in third sentence.
 
-Subsec. (d). Pub. L. 102–552, § 513(b), added subsec. (d).
+Subsec. (d). Pub. L. 102–552, § 513(b), added subsec. (d).
 
 1990—Subsec. (a). Pub. L. 101–624 inserted after third sentence “Examination of banks shall include an analysis of the compensation paid to the chief executive officer and the salary scales of the employees of the bank.”
 
-1988—Subsec. (a). Pub. L. 100–399, § 416(c), substituted “at least once every three years” for “at least once every 5 years”.
+1988—Subsec. (a). Pub. L. 100–399, § 416(c), substituted “at least once every three years” for “at least once every 5 years”.
 
-Pub. L. 100–233, § 432(b), substituted “Except for Federal land bank associations, each” for “Each”, substituted “the Board” for “the Chairman of the Board” in two places, and inserted after first sentence “Each Federal land bank association shall be examined by Farm Credit Administration examiners at such times as the Farm Credit Administration Board may determine, except that each such association shall be examined at least once every 5 years.”
+Pub. L. 100–233, § 432(b), substituted “Except for Federal land bank associations, each” for “Each”, substituted “the Board” for “the Chairman of the Board” in two places, and inserted after first sentence “Each Federal land bank association shall be examined by Farm Credit Administration examiners at such times as the Farm Credit Administration Board may determine, except that each such association shall be examined at least once every 5 years.”
 
-Subsec. (b). Pub. L. 100–233, § 205(b), designated existing provisions as par. (1) and added pars. (2) and (3).
+Subsec. (b). Pub. L. 100–233, § 205(b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (b)(2). Pub. L. 100–399, § 204, substituted “the third sentence of paragraph (1)” for “this section”.
+Subsec. (b)(2). Pub. L. 100–399, § 204, substituted “the third sentence of paragraph (1)” for “this section”.
 
 1986—Subsec. (b). Pub. L. 99–509 substituted second and third sentences for former second sentence which read as follows: “Each such report shall contain financial statements prepared in accordance with generally accepted accounting principles and contain such additional information as the Farm Credit Administration by regulation may require.”
 
@@ -5485,7 +5485,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 **Restraint by Federal Bank Regulatory Agencies in Overseeing Agricultural Borrowers**
 
-Pub. L. 99–198, title XIII, § 1326, Dec. 23, 1985, 99 Stat. 1540, provided that:
+Pub. L. 99–198, title XIII, § 1326, Dec. 23, 1985, 99 Stat. 1540, provided that:
 
 > **“(a)** Congress finds and declares that—
 
@@ -5495,11 +5495,11 @@ Pub. L. 99–198, title XIII, § 1326, Dec. 23, 1985, 99 Stat. 1540, provided 
 
 > **“(b)** It is therefore the sense of Congress that the Federal bank regulatory agencies should ensure, in their examination procedures, that examiners exercise caution and restraint and give due consideration not only to the current cash flow of agricultural borrowers under financial stress, but to factors such as their loan collateral and ultimate ability to repay as well, for so long as the adverse economic effects of the cost-price squeeze of recent years continue to impair the ability of these borrowers to meet scheduled repayments on their loans.”
 
-#### § 2255. Conditions of other banks and lending institutions
+#### § 2255. Conditions of other banks and lending institutions
 
 The Comptroller of the Currency is authorized and directed, upon request of the Farm Credit Administration to furnish for confidential use of an institution of the System such reports, records, and other information as he may have available relating to the financial condition of national banks through, for, or with which such institution of the System has made or contemplates making discounts or loans and to make such further examination, as may be agreed, of organizations through, for, or with which such institution of the Farm Credit System has made or contemplates making discounts or loans.
 
-(Pub. L. 92–181, title V, § 5.20, formerly § 5.21, Dec. 10, 1971, 85 Stat. 623; renumbered § 5.20, Pub. L. 99–205, title II, § 203(b), Dec. 23, 1985, 99 Stat. 1694.)
+(Pub. L. 92–181, title V, § 5.20, formerly § 5.21, Dec. 10, 1971, 85 Stat. 623; renumbered § 5.20, Pub. L. 99–205, title II, § 203(b), Dec. 23, 1985, 99 Stat. 1694.)
 
 **Editorial Notes**
 
@@ -5507,11 +5507,11 @@ The Comptroller of the Currency is authorized and directed, upon request of the 
 
 A prior section 5.20 of Pub. L. 92–181 was renumbered section 5.19 and is classified to section 2254 of this title.
 
-#### § 2256. Consent to the availability of reports and to examinations
+#### § 2256. Consent to the availability of reports and to examinations
 
 Any organization other than State banks, trust companies, and savings associations shall, as a condition precedent to securing discount privileges with a bank of the Farm Credit System, file with such bank its written consent to examination by farm credit examiners as may be directed by the Farm Credit Administration; and State banks, trust companies, and savings associations may be required in like manner to file a written consent that reports of their examination by constituted State authorities may be furnished by such authorities upon the request of the Farm Credit Administration.
 
-(Pub. L. 92–181, title V, § 5.21, formerly § 5.22, Dec. 10, 1971, 85 Stat. 623; renumbered § 5.21, Pub. L. 99–205, title II, § 203(b), Dec. 23, 1985, 99 Stat. 1694.)
+(Pub. L. 92–181, title V, § 5.21, formerly § 5.22, Dec. 10, 1971, 85 Stat. 623; renumbered § 5.21, Pub. L. 99–205, title II, § 203(b), Dec. 23, 1985, 99 Stat. 1694.)
 
 **Editorial Notes**
 
@@ -5519,11 +5519,11 @@ Any organization other than State banks, trust companies, and savings associatio
 
 A prior section 5.21 of Pub. L. 92–181 was renumbered section 5.20 and is classified to section 2255 of this title.
 
-#### § 2257. Reports on conditions of institutions receiving loans or deposits
+#### § 2257. Reports on conditions of institutions receiving loans or deposits
 
 The executive departments, boards, commissions, and independent establishments of the Government of the United States, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Reserve banks are severally authorized under such conditions as they may prescribe, upon request of the Farm Credit Administration, to make available to it or to any institution of the System in confidence all reports, records, or other information relating to the condition of any organization to which such institution of the System has made or contemplates making loan or for which it has or contemplates discounting paper, or which it is using or contemplates using as a custodian of securities or other credit instruments, or a depository. The Federal Reserve banks in their capacity as depositories, agents, and custodians for bonds, debentures, and other obligations issued by the banks of the System or book entries thereof are also authorized and directed, upon request of the Farm Credit Administration, to make available for audit by farm credit examiners all appropriate books, accounts, financial records, files, and other papers.
 
-(Pub. L. 92–181, title V, § 5.22, formerly § 5.23, Dec. 10, 1971, 85 Stat. 624; renumbered § 5.22, Pub. L. 99–205, title II, § 203(b), Dec. 23, 1985, 99 Stat. 1694.)
+(Pub. L. 92–181, title V, § 5.22, formerly § 5.23, Dec. 10, 1971, 85 Stat. 624; renumbered § 5.22, Pub. L. 99–205, title II, § 203(b), Dec. 23, 1985, 99 Stat. 1694.)
 
 **Editorial Notes**
 
@@ -5531,7 +5531,7 @@ The executive departments, boards, commissions, and independent establishments o
 
 A prior section 5.22 of Pub. L. 92–181 was renumbered section 5.21 and is classified to section 2256 of this title.
 
-#### § 2257a. Uniform financial reporting instructions
+#### § 2257a. Uniform financial reporting instructions
 
 **(a) In general**
 
@@ -5545,13 +5545,13 @@ If the financial reports are maintained by a computer system, each System instit
 
 Within 6 months of January 6, 1988, each System institution shall submit to the Farm Credit Administration a report on the plan of that institution to bring the operations of the institution into compliance with the uniform financial reporting instructions required by the Farm Credit Administration.
 
-(Pub. L. 92–181, title V, § 5.22A, as added Pub. L. 100–233, title IV, § 429, Jan. 6, 1988, 101 Stat. 1658.)
+(Pub. L. 92–181, title V, § 5.22A, as added Pub. L. 100–233, title IV, § 429, Jan. 6, 1988, 101 Stat. 1658.)
 
-#### § 2258. Jurisdiction
+#### § 2258. Jurisdiction
 
 Each institution of the System shall for the purposes of jurisdiction be deemed to be a citizen of the State, commonwealth, or District of Columbia in which its principal office is located.
 
-(Pub. L. 92–181, title V, § 5.23, formerly § 5.24, Dec. 10, 1971, 85 Stat. 624; Pub. L. 94–184, § 1(b), Dec. 31, 1975, 89 Stat. 1060; renumbered § 5.23, Pub. L. 99–205, title II, § 203(b), Dec. 23, 1985, 99 Stat. 1694.)
+(Pub. L. 92–181, title V, § 5.23, formerly § 5.24, Dec. 10, 1971, 85 Stat. 624; Pub. L. 94–184, § 1(b), Dec. 31, 1975, 89 Stat. 1060; renumbered § 5.23, Pub. L. 99–205, title II, § 203(b), Dec. 23, 1985, 99 Stat. 1694.)
 
 **Editorial Notes**
 
@@ -5563,11 +5563,11 @@ A prior section 5.23 of Pub. L. 92–181 was renumbered section 5.22 and is clas
 
 1975—Pub. L. 94–184 struck out provisions prohibiting district court jurisdiction on the basis of incorporation under this Act or prior Federal law, and prohibiting jurisdiction except in cases by or against the United States or one of its officers, or against a person over whom State courts have no jurisdiction and except in cases by or against a receiver or conservator appointed under this chapter.
 
-#### § 2259. State legislation
+#### § 2259. State legislation
 
 Whenever it is determined by the Farm Credit Administration, or by judicial decision, that a State law is applicable to the obligations and securities authorized to be held by the institutions of the System under this chapter, which law would provide insufficient protection or inadequate safeguards against loss in the event of default, the Farm Credit Administration may declare such obligations or securities to be ineligible as collateral for the issuance of new notes, bonds, debentures, and other obligations under this chapter.
 
-(Pub. L. 92–181, title V, § 5.24, formerly § 5.25, Dec. 10, 1971, 85 Stat. 624; renumbered § 5.24, Pub. L. 99–205, title II, § 203(b), Dec. 23, 1985, 99 Stat. 1694.)
+(Pub. L. 92–181, title V, § 5.24, formerly § 5.25, Dec. 10, 1971, 85 Stat. 624; renumbered § 5.24, Pub. L. 99–205, title II, § 203(b), Dec. 23, 1985, 99 Stat. 1694.)
 
 **Editorial Notes**
 
@@ -5575,23 +5575,23 @@ Whenever it is determined by the Farm Credit Administration, or by judicial deci
 
 A prior section 5.24 of Pub. L. 92–181 was renumbered section 5.23 and is classified to section 2258 of this title.
 
-#### § 2260. Transferred
+#### § 2260. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 92–181, title V, § 5.30, as added Pub. L. 96–592, title V, § 509, Dec. 24, 1980, 94 Stat. 3450, which related to audit and report to Congress by the Comptroller General, was renumbered section 5.44 of Pub. L. 92–181 by Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703, transferred to section 2275 of this title, and repealed by Pub. L. 115–334, title V, § 5411(36), Dec. 20, 2018, 132 Stat. 4683.
+Section, Pub. L. 92–181, title V, § 5.30, as added Pub. L. 96–592, title V, § 509, Dec. 24, 1980, 94 Stat. 3450, which related to audit and report to Congress by the Comptroller General, was renumbered section 5.44 of Pub. L. 92–181 by Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703, transferred to section 2275 of this title, and repealed by Pub. L. 115–334, title V, § 5411(36), Dec. 20, 2018, 132 Stat. 4683.
 
 ### Part C—Enforcement Powers of Farm Credit Administration
 
-#### § 2261. Cease and desist proceedings
+#### § 2261. Cease and desist proceedings
 
 **(a)** If, in the opinion of the Farm Credit Administration, any institution in the Farm Credit System, or any director, officer, employee, agent, or other person participating in the conduct of the affairs of such an institution is engaging or has engaged, or the Farm Credit Administration has reasonable cause to believe that the institution or any director, officer, employee, agent, or other person participating in the conduct of the affairs of such institution is about to engage, in an unsafe or unsound practice in conducting the business of such institution, or is violating or has violated, or the Farm Credit Administration has reasonable cause to believe that the institution or any director, officer, employee, agent, or other person participating in the conduct of the affairs of such institution is about to violate, a law, rule, or regulation, or any condition imposed in writing by the Farm Credit Administration in connection with the granting of any application or other request by the institution or any written agreement entered into with the Farm Credit Administration, the Farm Credit Administration may issue and serve upon the institution or such director, officer, employee, agent, or other person a notice of charges in respect thereof. The notice shall contain a statement of the facts constituting the alleged violation or violations or the unsafe or unsound practice or practices, and shall fix a time and place at which a hearing will be held to determine whether an order to cease and desist therefrom should issue against the institution or the director, officer, employee, agent, or other person participating in the conduct of the affairs of such institution. Such hearing shall be fixed for a date not earlier than thirty days nor later than sixty days after service of such notice unless an earlier or a later date is set by the Farm Credit Administration at the request of any party so served. Unless the party or parties so served shall appear at the hearing personally or by a duly authorized representative, they shall be deemed to have consented to the issuance of the cease and desist order. In the event of such consent, or if upon the record made at any such hearing, the Farm Credit Administration shall find that any violation or unsafe or unsound practice specified in the notice of charges has been established, the Farm Credit Administration may issue and serve upon the institution or the director, officer, employee, agent, or other person participating in the conduct of the affairs of such institution an order to cease and desist from any such violation or practice. Such order may, by provisions that may be mandatory or otherwise, require the institution or its directors, officers, employees, agents, and other persons participating in the conduct of the affairs of such institution to cease and desist from the same, and, further, to take affirmative action to correct the conditions resulting from any such violation or practice.
 
 **(b)** A cease and desist order shall become effective at the expiration of thirty days after the service of such order upon the institution or other person concerned (except in the case of a cease and desist order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided therein except to such extent as it is stayed, modified, terminated, or set aside by action of the Farm Credit Administration or a reviewing court.
 
-(Pub. L. 92–181, title V, § 5.25, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1694.)
+(Pub. L. 92–181, title V, § 5.25, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1694.)
 
 **Editorial Notes**
 
@@ -5605,13 +5605,13 @@ A prior section 5.25 of Pub. L. 92–181 was renumbered section 5.24 and is clas
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2262. Temporary cease and desist orders
+#### § 2262. Temporary cease and desist orders
 
 **(a)** Whenever the Farm Credit Administration shall determine that the violation or threatened violation or the unsafe or unsound practice or practices, specified in the notice of charges served upon the institution or any director, officer, employee, agent, or other person participating in the conduct of the affairs of such institution under section 2261 of this title, or the continuation thereof, is likely to cause insolvency or substantial dissipation of assets or earnings of the institution, or is likely to seriously weaken the condition of the institution or otherwise seriously prejudice the interests of the investors in Farm Credit System obligations or shareholders in the institution prior to the completion of the proceedings conducted under section 2261 of this title, the Farm Credit Administration may issue a temporary order requiring the institution or such director, officer, employee, agent, or other person to cease and desist from any such violation or practice and to take affirmative action to prevent such insolvency, dissipation, condition, or prejudice pending completion of such proceedings. Such order shall become effective upon service upon the institution or such director, officer, employee, agent, or other person participating in the conduct of the affairs of such institution and, unless set aside, limited, or suspended by a court in proceedings authorized by subsection (b), shall remain effective and enforceable pending the completion of the administrative proceedings pursuant to such notice and until such time as the Farm Credit Administration shall dismiss the charges specified in such notice, or if a cease and desist order is issued against the institution or such director, officer, employee, agent, or other person, until effective date of such order.
 
 **(b)** Within ten days after the institution concerned or any director, officer, employee, agent, or other person participating in the conduct of the affairs of such institution has been served with a temporary cease and desist order, the institution or such director, officer, employee, agent, or other person may apply to the United States district court for the judicial district in which the home office of the institution is located, or the United States district court for the District of Columbia, for an injunction setting aside, limiting, or suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the institution or such director, officer, employee, agent, or other person under section 2261 of this title, and such court shall have jurisdiction to issue such injunction.
 
-(Pub. L. 92–181, title V, § 5.26, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1695.)
+(Pub. L. 92–181, title V, § 5.26, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1695.)
 
 **Editorial Notes**
 
@@ -5625,11 +5625,11 @@ A prior section 5.26 of Pub. L. 92–181 was renumbered section 5.40 and is set 
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2263. Enforcement of temporary cease and desist orders
+#### § 2263. Enforcement of temporary cease and desist orders
 
 In the case of violation or threatened violation of, or failure to obey, a temporary cease and desist order issued under section 2262 of this title, the Farm Credit Administration may apply to the United States district court, or the United States court of any territory, within the jurisdiction of which the home office of the institution is located, for an injunction to enforce such order, and, if the court shall determine that there has been such violation or threatened violation or failure to obey, it shall be the duty of the court to issue such injunction.
 
-(Pub. L. 92–181, title V, § 5.27, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1696.)
+(Pub. L. 92–181, title V, § 5.27, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1696.)
 
 **Editorial Notes**
 
@@ -5643,7 +5643,7 @@ A prior section 5.27 of Pub. L. 92–181, which amended section 393 of this titl
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2264. Suspension or removal of director or officer
+#### § 2264. Suspension or removal of director or officer
 
 **(a) Written notice of intention to remove; violation of law, rule, regulation, or final cease and desist order; unsafe or unsound practice; breach of fiduciary duty**
 
@@ -5665,7 +5665,7 @@ A notice of intention to remove a director, officer, or other person from office
 
 Within ten days after any director, officer, or other person has been suspended from office or prohibited from participation in the conduct of the affairs of a System institution under subsection (c) of this section, such director, officer, or other person may apply to the United States district court for the judicial district in which the home office of the institution is located, or the United States district court for the District of Columbia, for a stay of either such suspension or prohibition, or both, pending the completion of the administrative proceedings pursuant to the notice served upon such director, officer, or other person under subsection (a) or (b), and such court shall have jurisdiction to stay either such suspension or prohibition, or both.
 
-(Pub. L. 92–181, title V, § 5.28, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1696; amended Pub. L. 100–233, title VIII, § 805(aa), Jan. 6, 1988, 101 Stat. 1717; Pub. L. 100–399, title VII, § 702(d), Aug. 17, 1988, 102 Stat. 1006.)
+(Pub. L. 92–181, title V, § 5.28, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1696; amended Pub. L. 100–233, title VIII, § 805(aa), Jan. 6, 1988, 101 Stat. 1717; Pub. L. 100–399, title VII, § 702(d), Aug. 17, 1988, 102 Stat. 1006.)
 
 **Editorial Notes**
 
@@ -5675,11 +5675,11 @@ A prior section 5.28 of Pub. L. 92–181 was renumbered section 5.42 and is set 
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–233, § 805(aa)(1), designated provisions preceding subsec. (b) as subsec. (a).
+1988—Subsec. (a). Pub. L. 100–233, § 805(aa)(1), designated provisions preceding subsec. (b) as subsec. (a).
 
 Subsec. (e). Pub. L. 100–399 substituted “subsection (c)” for “subsection (d)”.
 
-Pub. L. 100–233, § 805(aa)(2), substituted “subsection (d) of this section” for “subsection (d)(3) of this section”.
+Pub. L. 100–233, § 805(aa)(2), substituted “subsection (d) of this section” for “subsection (d)(3) of this section”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5691,13 +5691,13 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2265. Suspension or removal of director or officer charged with felony
+#### § 2265. Suspension or removal of director or officer charged with felony
 
 **(a)** Whenever any director or officer of an institution in the Farm Credit System, or other person participating in the conduct of the affairs of such institution, is charged in any information, indictment, or complaint authorized by a United States attorney, with the commission of or participation in a crime involving dishonesty or breach of trust that is punishable by imprisonment for a term exceeding one year under State or Federal law, the Farm Credit Administration may, if continued service or participation by the individual may pose a threat to the interests of the institution’s shareholders or investors in Farm Credit System obligations or threaten to impair public confidence in the institution or the Farm Credit System, by written notice served upon such director, officer, or other person, suspend such director, officer, or other person from office or prohibit such director, officer, or other person from further participation in any manner in the conduct of the affairs of the institution. A copy of such notice shall also be served upon the institution. Such suspension or prohibition shall remain in effect until such information, indictment, or complaint is finally disposed of or until terminated by the Farm Credit Administration. In the event that a judgment of conviction with respect to such crime is entered against such director, officer, or other person, and at such time as such judgment is not subject to further appellate review, the Farm Credit Administration may, if continued service or participation by the individual may pose a threat to the interests of the institution’s shareholders or the investors in Farm Credit System obligations or may threaten to impair public confidence in the institution or the Farm Credit System, issue and serve upon such director, officer, or other person an order removing such director, officer, or other person from office or prohibiting such director, officer, or other person from further participation in any manner in the conduct of the affairs of the institution except with the consent of the Farm Credit Administration. A copy of such order shall also be served upon such institution, whereupon such director or officer shall cease to be a director or officer of such institution. A finding of not guilty or other disposition of the charge shall not preclude the Farm Credit Administration from thereafter instituting proceedings to remove such director, officer, or other person from office or to prohibit further participation in Farm Credit System affairs under section 2264 of this title. Any notice of suspension or order of removal issued under this paragraph shall remain effective and outstanding until the completion of any hearing or appeal authorized under subsection (b) unless terminated by the Farm Credit Administration.
 
 **(b)** Within thirty days from service of any notice of suspension or order of removal issued under subsection (a), the director, officer, or other person concerned may request in writing an opportunity to appear before the Farm Credit Administration to show that the continued service to or participation in the conduct of the affairs of the institution by such individual does not, or is not likely to, pose a threat to the interest of the institution’s shareholders or the investors in Farm Credit System obligations or threaten to impair public confidence in the institution or the Farm Credit System. Upon receipt of any such request, the Farm Credit Administration shall fix a time (not more than thirty days after receipt of such request, unless extended at the request of the concerned director, officer, or other person) and place at which the director, officer, or other person may appear, personally or through counsel, before the Chairman of the Farm Credit Administration or designated employees of the Farm Credit Administration to submit written materials (or, at the discretion of the Farm Credit Administration, oral testimony) and oral argument. Within sixty days of such hearing, the Farm Credit Administration shall notify the director, officer, or other person whether the suspension or prohibition from participation in any manner in the conduct of the affairs of the institution will be continued, terminated, or otherwise modified, or whether the order removing such director, officer, or other person from office or prohibiting such individual from further participation in any manner in the conduct of the affairs of the institution will be rescinded or otherwise modified. Such notification shall contain a statement of the basis for the Farm Credit Administration’s decision, if adverse to the director, officer, or other person. The Farm Credit Administration may prescribe such rules as may be necessary to effectuate the purposes of this subsection.
 
-(Pub. L. 92–181, title V, § 5.29, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1698; amended Pub. L. 100–233, title VIII, § 805(bb), Jan. 6, 1988, 101 Stat. 1717; Pub. L. 100–399, title VII, § 702(e), Aug. 17, 1988, 102 Stat. 1006.)
+(Pub. L. 92–181, title V, § 5.29, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1698; amended Pub. L. 100–233, title VIII, § 805(bb), Jan. 6, 1988, 101 Stat. 1717; Pub. L. 100–399, title VII, § 702(e), Aug. 17, 1988, 102 Stat. 1006.)
 
 **Editorial Notes**
 
@@ -5707,11 +5707,11 @@ A prior section 5.29 of Pub. L. 92–181 was renumbered section 5.43 and is set 
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–233, § 805(bb)(1), substituted “may pose a threat to the interests of the institution’s shareholders or investors in Farm Credit System obligations or may threaten to impair public confidence in the institution or the Farm Credit System” for “may pose a threat to the interest of the institution’s shareholders or the investors in the Farm Credit System obligations or may threaten to impair public confidence in the institution or Farm Credit System”.
+1988—Subsec. (a). Pub. L. 100–233, § 805(bb)(1), substituted “may pose a threat to the interests of the institution’s shareholders or investors in Farm Credit System obligations or may threaten to impair public confidence in the institution or the Farm Credit System” for “may pose a threat to the interest of the institution’s shareholders or the investors in the Farm Credit System obligations or may threaten to impair public confidence in the institution or Farm Credit System”.
 
 Subsec. (b). Pub. L. 100–233 struck out “may” before “threaten to impair public confidence”.
 
-Pub. L. 100–233, § 805(bb)(2), substituted “of the institution’s shareholders or the investors in Farm Credit System obligations or may threaten to impair public confidence in the institution or the Farm Credit System” for “in Farm Credit System obligations”.
+Pub. L. 100–233, § 805(bb)(2), substituted “of the institution’s shareholders or the investors in Farm Credit System obligations or may threaten to impair public confidence in the institution or the Farm Credit System” for “in Farm Credit System obligations”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5723,7 +5723,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2265a. Removal and prohibition authority; industry-wide prohibition
+#### § 2265a. Removal and prohibition authority; industry-wide prohibition
 
 **(a) Definition of person** In this section, the term “person” means—
 
@@ -5763,9 +5763,9 @@ Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99
 
 **(i)** the Farm Credit Administration; and
 
-**(ii)** each appropriate Federal financial institutions regulatory agency (as defined in section 1818(e)(7)(D) of this title) of the applicable institution described in any of paragraphs (1), (2), (3), or (4) of subsection (b) with respect to which the party proposes to be become 1
+**(ii)** each appropriate Federal financial institutions regulatory agency (as defined in section 1818(e)(7)(D) of this title) of the applicable institution described in any of paragraphs (1), (2), (3), or (4) of subsection (b) with respect to which the party proposes to be become 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 an affiliated party.
 
@@ -5781,21 +5781,21 @@ The agencies described in clauses (i) and (ii) of paragraph (1)(B) shall consult
 
 **(d) Violations**
 
-A violation of subsection (b) by any person who is subject to an order described in that subsection shall be treated as violation 2
+A violation of subsection (b) by any person who is subject to an order described in that subsection shall be treated as violation 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “a”.
+<sup>2</sup> So in original. Probably should be preceded by “a”.
 
 of that order.
 
-(Pub. L. 92–181, title V, § 5.29A, as added Pub. L. 115–334, title V, § 5406, Dec. 20, 2018, 132 Stat. 4676.)
+(Pub. L. 92–181, title V, § 5.29A, as added Pub. L. 115–334, title V, § 5406, Dec. 20, 2018, 132 Stat. 4676.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Credit Union Act, referred to in subsec. (b)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+The Federal Credit Union Act, referred to in subsec. (b)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
-#### § 2266. Hearings and judicial review
+#### § 2266. Hearings and judicial review
 
 **(a) Venue; closed hearings; decisions and findings of fact; orders; modification or other action by Farm Credit Administration; judicial review**
 
@@ -5809,13 +5809,13 @@ Any party to the proceeding, or any person required by an order issued under thi
 
 The commencement of proceedings for judicial review under subsection (b) shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Farm Credit Administration.
 
-(Pub. L. 92–181, title V, § 5.30, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1699; amended Pub. L. 100–233, title VIII, § 805(cc), Jan. 6, 1988, 101 Stat. 1717.)
+(Pub. L. 92–181, title V, § 5.30, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1699; amended Pub. L. 100–233, title VIII, § 805(cc), Jan. 6, 1988, 101 Stat. 1717.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5.30 of Pub. L. 92–181 was renumbered section 5.44 and transferred from section 2260 to section 2275 of this title, prior to repeal by Pub. L. 115–334, title V, § 5411(36), Dec. 20, 2018, 132 Stat. 4683.
+A prior section 5.30 of Pub. L. 92–181 was renumbered section 5.44 and transferred from section 2260 to section 2275 of this title, prior to repeal by Pub. L. 115–334, title V, § 5411(36), Dec. 20, 2018, 132 Stat. 4683.
 
 **Amendments**
 
@@ -5827,11 +5827,11 @@ A prior section 5.30 of Pub. L. 92–181 was renumbered section 5.44 and transfe
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2267. Jurisdiction and enforcement
+#### § 2267. Jurisdiction and enforcement
 
 The Farm Credit Administration may in its discretion apply to the United States district court, or the United States court of any territory, within the jurisdiction of which the home office of the institution is located, for the enforcement of any effective and outstanding notice or order issued under this part, and such courts shall have jurisdiction and power to order and require compliance herewith; but except as otherwise provided in this part no court shall have jurisdiction to affect by injunction or otherwise the issuance or enforcement of any notice or order under this part, or to review, modify, suspend, terminate, or set aside any such notice or order. For purposes of this section, any directive issued under section 2154(b)(2), 2154a(e), or 2202a(h) of this title shall be treated as an effective and outstanding order issued under section 2261 of this title that has become final.
 
-(Pub. L. 92–181, title V, § 5.31, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1700; amended Pub. L. 100–233, title VIII, § 804(a)(1), Jan. 6, 1988, 101 Stat. 1714; Pub. L. 115–334, title V, § 5411(32), Dec. 20, 2018, 132 Stat. 4683.)
+(Pub. L. 92–181, title V, § 5.31, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1700; amended Pub. L. 100–233, title VIII, § 804(a)(1), Jan. 6, 1988, 101 Stat. 1714; Pub. L. 115–334, title V, § 5411(32), Dec. 20, 2018, 132 Stat. 4683.)
 
 **Editorial Notes**
 
@@ -5847,7 +5847,7 @@ The Farm Credit Administration may in its discretion apply to the United States 
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2267a. Jurisdiction over institution-affiliated parties
+#### § 2267a. Jurisdiction over institution-affiliated parties
 
 **(a) In general**
 
@@ -5865,9 +5865,9 @@ To proceed against a party under subsection (b), the notice or order described i
 
 The date on which a party ceases to be an institution-affiliated party described in subsection (c) may occur before, on, or after December 20, 2018.
 
-(Pub. L. 92–181, title V, § 5.31A, as added Pub. L. 115–334, title V, § 5407, Dec. 20, 2018, 132 Stat. 4677.)
+(Pub. L. 92–181, title V, § 5.31A, as added Pub. L. 115–334, title V, § 5407, Dec. 20, 2018, 132 Stat. 4677.)
 
-#### § 2268. Penalty
+#### § 2268. Penalty
 
 **(a) Forfeiture and payment; compromise, modification, or remitting by Farm Credit Administration; assessment and collection by written notice**
 
@@ -5901,7 +5901,7 @@ All penalties collected under authority of this section shall be covered into th
 
 For purposes of this section, any directive issued under section 2154(b)(2), 2154a(e), or 2202a(h) of this title shall be treated as an order that has become final and was issued under section 2261 of this title.
 
-(Pub. L. 92–181, title V, § 5.32, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1700; amended Pub. L. 100–233, title IV, § 423, title VIII, §§ 804(a)(2), 805(dd), Jan. 6, 1988, 101 Stat. 1656, 1714, 1717; Pub. L. 115–334, title V, § 5411(33), Dec. 20, 2018, 132 Stat. 4683.)
+(Pub. L. 92–181, title V, § 5.32, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1700; amended Pub. L. 100–233, title IV, § 423, title VIII, §§ 804(a)(2), 805(dd), Jan. 6, 1988, 101 Stat. 1656, 1714, 1717; Pub. L. 115–334, title V, § 5411(33), Dec. 20, 2018, 132 Stat. 4683.)
 
 **Editorial Notes**
 
@@ -5909,15 +5909,15 @@ For purposes of this section, any directive issued under section 2154(b)(2), 215
 
 2018—Subsec. (h). Pub. L. 115–334 substituted “2202a(h)” for “2202a(i)”.
 
-1988—Subsec. (a). Pub. L. 100–233, § 423(a), substituted “continues. Any such institution or person who violates any provision of this chapter or any regulation issued under this chapter shall forfeit and pay a civil penalty of not more than $500 per day for each day during which such violation continues. Notwithstanding the preceding sentences,” for “continues, but”.
+1988—Subsec. (a). Pub. L. 100–233, § 423(a), substituted “continues. Any such institution or person who violates any provision of this chapter or any regulation issued under this chapter shall forfeit and pay a civil penalty of not more than $500 per day for each day during which such violation continues. Notwithstanding the preceding sentences,” for “continues, but”.
 
-Subsec. (b). Pub. L. 100–233, § 423(b), inserted “Before determining whether to assess a civil money penalty and determining the amount of such penalty, the Farm Credit Administration shall notify the institution or person to be assessed of the violation or violations alleged to have occurred or to be occurring, and shall solicit the views of the institution or person regarding the imposition of such penalty.”
+Subsec. (b). Pub. L. 100–233, § 423(b), inserted “Before determining whether to assess a civil money penalty and determining the amount of such penalty, the Farm Credit Administration shall notify the institution or person to be assessed of the violation or violations alleged to have occurred or to be occurring, and shall solicit the views of the institution or person regarding the imposition of such penalty.”
 
-Subsec. (d). Pub. L. 100–233, § 423(c), substituted “Final orders of the Farm Credit Administration issued under subsection (c) shall be reviewable under chapter 7 of title 5” for “The findings of the Farm Credit Administration shall be set aside if found to be unsupported by substantial evidence as provided by section 706(2)(E) of title 5”.
+Subsec. (d). Pub. L. 100–233, § 423(c), substituted “Final orders of the Farm Credit Administration issued under subsection (c) shall be reviewable under chapter 7 of title 5” for “The findings of the Farm Credit Administration shall be set aside if found to be unsupported by substantial evidence as provided by section 706(2)(E) of title 5”.
 
-Subsec. (f). Pub. L. 100–233, § 805(dd), substituted “section 2267 of this title and this section” for “sections 2267 and 2268 of this title”.
+Subsec. (f). Pub. L. 100–233, § 805(dd), substituted “section 2267 of this title and this section” for “sections 2267 and 2268 of this title”.
 
-Subsec. (h). Pub. L. 100–233, § 804(a)(2), added subsec. (h).
+Subsec. (h). Pub. L. 100–233, § 804(a)(2), added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5925,11 +5925,11 @@ Subsec. (h). Pub. L. 100–233, § 804(a)(2), added subsec. (h).
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2269. Further penalties
+#### § 2269. Further penalties
 
 Any director or officer, or former director or officer of a System institution, or any other person, against whom there is outstanding and effective any notice or order (which is an order which has become final) served upon such director, officer, or other person under section 2264 or 2265 of this title, and who (1) participates in any manner in the conduct of the affairs of the institution involved, or directly or indirectly solicits or procures, or transfers or attempts to transfer, or votes or attempts to vote, any proxies, consents, or authorizations in respect of any voting rights in such institution, or (2) without the prior written approval of the Farm Credit Administration, votes for a director, serves or acts as a director, officer, or employee of any System institution, shall upon conviction be fined not more than $5,000 or imprisoned for not more than one year, or both.
 
-(Pub. L. 92–181, title V, § 5.33, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1701.)
+(Pub. L. 92–181, title V, § 5.33, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1701.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5937,11 +5937,11 @@ Any director or officer, or former director or officer of a System institution, 
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2270. Replacement of suspended or removed directors
+#### § 2270. Replacement of suspended or removed directors
 
 If at any time, because of the suspension or removal of one or more directors pursuant to section 2264 or 2265 of this title, there shall be on the board of directors of a System institution less than a quorum of directors not so suspended, the Chairman shall appoint persons to serve temporarily as directors in their place and stead so as to establish a quorum until such time as those who have been removed are reinstated or their respective successors are duly elected and take office.
 
-(Pub. L. 92–181, title V, § 5.34, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1701.)
+(Pub. L. 92–181, title V, § 5.34, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1701.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5949,7 +5949,7 @@ If at any time, because of the suspension or removal of one or more directors pu
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2271. Definitions
+#### § 2271. Definitions
 
 As used in this part—
 
@@ -5979,23 +5979,23 @@ As used in this part—
 
 **(B)** mean any significant noncompliance by a System institution (as determined by the Farm Credit Administration, in consultation with the Farm Credit System Insurance Corporation) with any term or condition imposed on the institution by the Farm Credit System Insurance Corporation under section 2277a–10 of this title.
 
-(Pub. L. 92–181, title V, § 5.35, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1701; amended Pub. L. 100–233, title II, §§ 203, 207(d), Jan. 6, 1988, 101 Stat. 1605, 1608; Pub. L. 102–237, title V, § 502(i), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title II, § 202(b), Oct. 28, 1992, 106 Stat. 4106; Pub. L. 115–334, title V, §§ 5408, 5411(34), Dec. 20, 2018, 132 Stat. 4678, 4683.)
+(Pub. L. 92–181, title V, § 5.35, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1701; amended Pub. L. 100–233, title II, §§ 203, 207(d), Jan. 6, 1988, 101 Stat. 1605, 1608; Pub. L. 102–237, title V, § 502(i), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title II, § 202(b), Oct. 28, 1992, 106 Stat. 4106; Pub. L. 115–334, title V, §§ 5408, 5411(34), Dec. 20, 2018, 132 Stat. 4678, 4683.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pars. (4), (5). Pub. L. 115–334, § 5408, added par. (4) and redesignated former par. (4) as (5).
+2018—Pars. (4), (5). Pub. L. 115–334, § 5408, added par. (4) and redesignated former par. (4) as (5).
 
-Par. (5)(B), (C). Pub. L. 115–334, § 5411(34), redesignated subpar. (C) as (B), struck out “after December 31, 1992,” before “mean any” and “by the Farm Credit System Assistance Board under section 2278a–6 of this title or” before “by the Farm Credit System Insurance Corporation”, and struck out former subpar. (B) which read as follows: “during the period beginning on January 6, 1988, and ending December 31, 1992, mean any noncompliance by a System institution, as determined by the Farm Credit Administration in consultation with the Assistance Board, with any term or condition imposed on the institution by the Assistance Board under section 2278a–6 of this title; and”.
+Par. (5)(B), (C). Pub. L. 115–334, § 5411(34), redesignated subpar. (C) as (B), struck out “after December 31, 1992,” before “mean any” and “by the Farm Credit System Assistance Board under section 2278a–6 of this title or” before “by the Farm Credit System Insurance Corporation”, and struck out former subpar. (B) which read as follows: “during the period beginning on January 6, 1988, and ending December 31, 1992, mean any noncompliance by a System institution, as determined by the Farm Credit Administration in consultation with the Assistance Board, with any term or condition imposed on the institution by the Assistance Board under section 2278a–6 of this title; and”.
 
 1992—Par. (4)(C). Pub. L. 102–552 added subpar. (C).
 
 1991—Par. (3). Pub. L. 102–237 substituted “part E” for “part D”.
 
-1988—Par. (3). Pub. L. 100–233, § 207(d), substituted “Financial Assistance Corporation” for “Capital Corporation”.
+1988—Par. (3). Pub. L. 100–233, § 207(d), substituted “Financial Assistance Corporation” for “Capital Corporation”.
 
-Par. (4). Pub. L. 100–233, § 203, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the term ‘unsafe or unsound practice’ shall have the meaning given to it by the Farm Credit Administration by regulations, rule, or order.”
+Par. (4). Pub. L. 100–233, § 203, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the term ‘unsafe or unsound practice’ shall have the meaning given to it by the Farm Credit Administration by regulations, rule, or order.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6007,11 +6007,11 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2272. Notice of service
+#### § 2272. Notice of service
 
 Any service required or authorized to be made by the Farm Credit Administration under this section may be made by registered mail, or in such other manner reasonably calculated to give actual notice as the Farm Credit Administration may by regulation or otherwise provide. Any such service by mail is complete upon mailing. Copies of any notice or order served by the Farm Credit Administration on any association or any director or officer thereof or other person participating in the conduct of its affairs, under the provisions of this part, shall also be sent to the supervisory bank.
 
-(Pub. L. 92–181, title V, § 5.36, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1702.)
+(Pub. L. 92–181, title V, § 5.36, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1702.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6019,11 +6019,11 @@ Any service required or authorized to be made by the Farm Credit Administration 
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2273. Ancillary provisions; subpena power; etc.
+#### § 2273. Ancillary provisions; subpena power; etc.
 
 In the course of or in connection with any proceeding under this part or any examination or investigation under this chapter, the Farm Credit Administration or any designated representative thereof, including any person designated to conduct any hearing under this part, shall have the power to administer oaths and affirmations, to take or cause to be taken depositions, and to issue, revoke, quash, or modify subpenas and subpenas duces tecum; and the Farm Credit Administration is empowered to make rules and regulations with respect to any such proceedings, examinations, or investigations. The attendance of witnesses and the production of documents provided for in this section may be required from any place in any State or in any territory or other place subject to the jurisdiction of the United States at any designated place where such proceeding is being conducted. The Farm Credit Administration or any party to proceedings under this part may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district or the United States court in any territory in which such proceeding is being conducted, or where the witness resides or carries on business, for enforcement of any subpena or subpena duces tecum issued pursuant to this part, and such courts shall have jurisdiction and power to order and require compliance therewith. Witnesses subpenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States. Any court having jurisdiction of any proceeding instituted under this part by a System institution or a director or officer thereof, may allow to any such party such reasonable expenses and attorneys’ fees as it deems just and proper; and such expenses and fees shall be paid by the System institution or from its assets. Any person who willfully shall fail or refuse to attend or testify or to answer any lawful inquiry or to produce books, papers, correspondence, memoranda, contracts, agreements, or other records, if in such person’s power so to do, in obedience to the subpena of the Farm Credit Administration, shall be guilty of a misdemeanor and, upon conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for a term of not more than one year or both.
 
-(Pub. L. 92–181, title V, § 5.37, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1702; amended Pub. L. 100–233, title VIII, § 805(ee), Jan. 6, 1988, 101 Stat. 1717.)
+(Pub. L. 92–181, title V, § 5.37, as added Pub. L. 99–205, title II, § 204, Dec. 23, 1985, 99 Stat. 1702; amended Pub. L. 100–233, title VIII, § 805(ee), Jan. 6, 1988, 101 Stat. 1717.)
 
 **Editorial Notes**
 
@@ -6037,11 +6037,11 @@ In the course of or in connection with any proceeding under this part or any exa
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
 
-#### § 2274. Power to remove directors and officers
+#### § 2274. Power to remove directors and officers
 
 Notwithstanding any other provision of this chapter, a Farm Credit Bank board, officer, or employee shall not remove any director or officer of any association.
 
-(Pub. L. 92–181, title V, § 5.38, as added Pub. L. 100–233, title IV, § 432(c), Jan. 6, 1988, 101 Stat. 1661; amended Pub. L. 115–334, title V, § 5411(35), Dec. 20, 2018, 132 Stat. 4683.)
+(Pub. L. 92–181, title V, § 5.38, as added Pub. L. 100–233, title IV, § 432(c), Jan. 6, 1988, 101 Stat. 1661; amended Pub. L. 115–334, title V, § 5411(35), Dec. 20, 2018, 132 Stat. 4683.)
 
 **Editorial Notes**
 
@@ -6051,9 +6051,9 @@ Notwithstanding any other provision of this chapter, a Farm Credit Bank board, o
 
 ### Part D—Miscellaneous
 
-#### § 2275. Repealed. Pub. L. 115–334, title V, § 5411(36), Dec. 20, 2018, 132 Stat. 4683
+#### § 2275. Repealed. Pub. L. 115–334, title V, § 5411(36), Dec. 20, 2018, 132 Stat. 4683
 
-Section, Pub. L. 92–181, title V, § 5.44, formerly § 5.30, as added Pub. L. 96–592, title V, § 509, Dec. 24, 1980, 94 Stat. 3450; renumbered § 5.44, Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, related to Government Accountability Office audit, report to Congress, and access and examination of recorded information by the Comptroller General. See section 2276 of this title.
+Section, Pub. L. 92–181, title V, § 5.44, formerly § 5.30, as added Pub. L. 96–592, title V, § 509, Dec. 24, 1980, 94 Stat. 3450; renumbered § 5.44, Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, related to Government Accountability Office audit, report to Congress, and access and examination of recorded information by the Comptroller General. See section 2276 of this title.
 
 **Editorial Notes**
 
@@ -6061,7 +6061,7 @@ Section, Pub. L. 92–181, title V, § 5.44, formerly § 5.30, as added Pub.
 
 Section was formerly classified to section 2260 of this title.
 
-#### § 2275a. Transition rules relating to amendment of certain FCA approval authorities
+#### § 2275a. Transition rules relating to amendment of certain FCA approval authorities
 
 **(a) In general**
 
@@ -6081,7 +6081,7 @@ At the close of the 1-year period referred to in paragraph (1), the Farm Credit 
 
 This section shall not affect the authority of the Farm Credit Administration to exercise any other approval authority either on a case-by-case basis or through regulation, as provided in section 2252(a)(5) of this title.
 
-(Pub. L. 92–181, title V, § 5.45, as added Pub. L. 100–233, title VIII, § 802(w), Jan. 6, 1988, 101 Stat. 1713.)
+(Pub. L. 92–181, title V, § 5.45, as added Pub. L. 100–233, title VIII, § 802(w), Jan. 6, 1988, 101 Stat. 1713.)
 
 **Editorial Notes**
 
@@ -6089,11 +6089,11 @@ This section shall not affect the authority of the Farm Credit Administration to
 
 The amendments made by section 802 of the Agricultural Credit Act of 1987, referred to in subsec. (b)(1), are the amendments made by section 802 of Pub. L. 100–233, title VIII, Jan. 6, 1988, 101 Stat. 1710, which enacted section 2275a of this title and amended sections 2011 to 2013, 2017, 2031, 2051, 2052, 2071 to 2073, 2077, 2091, 2121, 2122, 2124, 2126, 2130, 2132, 2212, 2213, 2223, and 2252 of this title. For complete classification of section 802 to the Code, see Tables.
 
-#### § 2276. Access to and examination by Comptroller General of books, documents, etc., of farm credit system banks and institutions
+#### § 2276. Access to and examination by Comptroller General of books, documents, etc., of farm credit system banks and institutions
 
 On and after December 19, 1985, the Comptroller General or his duly authorized representatives shall have access to and the right to examine all books, documents, papers, records, or other recorded information within the possession or control of the Federal land banks and Federal land bank associations, Federal intermediate credit banks and production credit associations and banks for cooperatives.
 
-(Pub. L. 99–190, § 107, Dec. 19, 1985, 99 Stat. 1316.)
+(Pub. L. 99–190, § 107, Dec. 19, 1985, 99 Stat. 1316.)
 
 **Editorial Notes**
 
@@ -6103,7 +6103,7 @@ Section was not enacted as part of the Farm Credit Act of 1971 which comprises t
 
 ### Part E—Farm Credit System Insurance Corporation
 
-#### § 2277a. Definitions
+#### § 2277a. Definitions
 
 As used in this part:
 
@@ -6129,7 +6129,7 @@ The term “insured System bank” means any System bank whose participation in 
 
 The term “State” means any of the 50 States, the District of Columbia, any Territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Virgin Islands.
 
-(Pub. L. 92–181, title V, § 5.51, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1611; amended Pub. L. 100–399, title III, § 302(a), (b), Aug. 17, 1988, 102 Stat. 994; Pub. L. 104–105, title II, § 214(a), Feb. 10, 1996, 110 Stat. 175.)
+(Pub. L. 92–181, title V, § 5.51, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1611; amended Pub. L. 100–399, title III, § 302(a), (b), Aug. 17, 1988, 102 Stat. 994; Pub. L. 104–105, title II, § 214(a), Feb. 10, 1996, 110 Stat. 175.)
 
 **Editorial Notes**
 
@@ -6137,13 +6137,13 @@ The term “State” means any of the 50 States, the District of Columbia, any T
 
 1996—Pars. (5), (6). Pub. L. 104–105 redesignated par. (6) as (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘receiver’ means a receiver or conservator appointed by the Farm Credit Administration for a System institution.”
 
-1988—Par. (3)(A), (B). Pub. L. 100–399, § 302(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
+1988—Par. (3)(A), (B). Pub. L. 100–399, § 302(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
 “(A) on or before January 6, 1988, on behalf of any System bank; and
 
 “(B) after such date, on behalf of any insured System bank.”
 
-Par. (5). Pub. L. 100–399, § 302(b), substituted “for” for “to liquidate”.
+Par. (5). Pub. L. 100–399, § 302(b), substituted “for” for “to liquidate”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6157,13 +6157,13 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### § 2277a–1. Establishment of Farm Credit System Insurance Corporation
+#### § 2277a–1. Establishment of Farm Credit System Insurance Corporation
 
 There is hereby established the Farm Credit System Insurance Corporation which shall insure, in accordance with this part, the timely payment of principal and interest on notes, bonds, debentures, and other obligations issued under subsection (c) or (d) of section 2153 of this title on behalf of one or more System banks all of which are entitled to the benefits of insurance under this part.
 
-(Pub. L. 92–181, title V, § 5.52, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1611.)
+(Pub. L. 92–181, title V, § 5.52, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1611.)
 
-#### § 2277a–2. Board of Directors
+#### § 2277a–2. Board of Directors
 
 **(a) Establishment**
 
@@ -6173,7 +6173,7 @@ The Corporation shall be managed by a Board of Directors that shall consist of t
 
 The Board of Directors shall be chaired by any Board member other than the Chairman of the Farm Credit Administration Board.
 
-(Pub. L. 92–181, title V, § 5.53, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1611; amended Pub. L. 102–552, title II, § 201(a), Oct. 28, 1992, 106 Stat. 4104; Pub. L. 104–105, title II, § 219(a), Feb. 10, 1996, 110 Stat. 184.)
+(Pub. L. 92–181, title V, § 5.53, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1611; amended Pub. L. 102–552, title II, § 201(a), Oct. 28, 1992, 106 Stat. 4104; Pub. L. 104–105, title II, § 219(a), Feb. 10, 1996, 110 Stat. 184.)
 
 **Editorial Notes**
 
@@ -6191,19 +6191,19 @@ The Board of Directors shall be chaired by any Board member other than the Chair
 
 **Effective Date of 1992 Amendment; Transition Provision**
 
-Pub. L. 102–552, title II, § 201(c), Oct. 28, 1992, 106 Stat. 4105, provided that:
+Pub. L. 102–552, title II, § 201(c), Oct. 28, 1992, 106 Stat. 4105, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and sections 5314 and 5315 of Title 5, Government Organization and Employees] shall become effective on January 1, 1996.
 
 > **“(2) Transitional provision.—** The Board of Directors of the Farm Credit System Insurance Corporation as established by section 5.53 of the Farm Credit Act of 1971 (12 U.S.C. 2277a–2) (as it existed before the amendments made by subsection (a) of this section) shall continue in existence and continue to manage the Farm Credit System Insurance Corporation until at least two members are appointed by the President, by and with the advice and consent of the Senate, to the new Board established by section 5.53 of such Act (as amended by subsection (a) of this section).”
 
-#### § 2277a–3. Commencement of insurance
+#### § 2277a–3. Commencement of insurance
 
 Effective beginning on January 1, 1989, or 12 months after January 6, 1988, whichever is later, each System bank shall be an insured System bank and shall be subject to this part. Each System bank that is authorized to commence or resume operations under a subchapter of this chapter shall be an insured System bank from the time of such authorization. A bank resulting from the merger or consolidation of insured System banks shall be an insured System bank.
 
-(Pub. L. 92–181, title V, § 5.54, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1611.)
+(Pub. L. 92–181, title V, § 5.54, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1611.)
 
-#### § 2277a–4. Premiums
+#### § 2277a–4. Premiums
 
 **(a) Amount in Fund not exceeding secure base amount**
 
@@ -6299,13 +6299,13 @@ If, at the end of any calendar year, the aggregate of the amounts in the Farm Cr
 
 **(A)** 10 percent of the total amount shall be credited to the Allocated Insurance Reserves Account established under paragraph (1)(B), subject to paragraph (6)(C); and
 
-**(B)** there shall be credited to the allocated insurance reserves account 1
+**(B)** there shall be credited to the allocated insurance reserves account 1
 
-<sup>1</sup>  So in original. Probably should be “Allocated Insurance Reserves Account”.
+<sup>1</sup> So in original. Probably should be “Allocated Insurance Reserves Account”.
 
-of each insured system 2
+of each insured system 2
 
-<sup>2</sup>  So in original. Probably should be “System”.
+<sup>2</sup> So in original. Probably should be “System”.
 
 bank an amount that bears the same ratio to the total amount (less any amount credited under subparagraph (A)) as—
 
@@ -6351,7 +6351,7 @@ Not later than 60 days after receipt of a payment made under subparagraph (A)(i)
 
 For purposes of subparagraph (A)(ii), in any Farm Credit district in which the funding bank has reimbursed 1 or more affiliated associations of the bank for the previously unreimbursed portion of the Financial Assistance Corporation stock held by the associations, the funding bank shall be deemed to be the holder of the shares of Financial Assistance Corporation stock for which the funding bank has provided the reimbursement.
 
-(Pub. L. 92–181, title V, § 5.55, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1612; amended Pub. L. 100–399, title III, § 302(c)–(e), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–220, § 6(a), Dec. 12, 1989, 103 Stat. 1879; Pub. L. 104–105, title II, § 215(a)(1), (2)(A), (b), (c), Feb. 10, 1996, 110 Stat. 175, 176, 179; Pub. L. 107–171, title V, § 5403(a)(1), May 13, 2002, 116 Stat. 350; Pub. L. 110–234, title V, § 5404, May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, § 4(a), title V, § 5404, June 18, 2008, 122 Stat. 1664, 1916.)
+(Pub. L. 92–181, title V, § 5.55, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1612; amended Pub. L. 100–399, title III, § 302(c)–(e), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–220, § 6(a), Dec. 12, 1989, 103 Stat. 1879; Pub. L. 104–105, title II, § 215(a)(1), (2)(A), (b), (c), Feb. 10, 1996, 110 Stat. 175, 176, 179; Pub. L. 107–171, title V, § 5403(a)(1), May 13, 2002, 116 Stat. 350; Pub. L. 110–234, title V, § 5404, May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, § 4(a), title V, § 5404, June 18, 2008, 122 Stat. 1664, 1916.)
 
 **Editorial Notes**
 
@@ -6361,79 +6361,79 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 5404(a)(1)(A), in introductory provisions, substituted “paragraph (3)” for “paragraph (2)” and struck out “annual” before “premium”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 5404(a)(1)(A), in introductory provisions, substituted “paragraph (3)” for “paragraph (2)” and struck out “annual” before “premium”.
 
-Subsec. (a)(1)(A) to (D). Pub. L. 110–246, § 5404(a)(1)(B), added subpars. (A) and (B) and struck out former subpars. (A) to (D) which described how to calculate the annual premium due from an insured System bank.
+Subsec. (a)(1)(A) to (D). Pub. L. 110–246, § 5404(a)(1)(B), added subpars. (A) and (B) and struck out former subpars. (A) to (D) which described how to calculate the annual premium due from an insured System bank.
 
-Subsec. (a)(2) to (4). Pub. L. 110–246, § 5404(a)(2)–(6), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, in par. (3), struck out “annual” before “premium”, in par. (4), inserted “or investments” after “loans” in heading and, in introductory provisions, substituted “In this section, the term ‘government-guaranteed’, when applied to a loan or an investment, means a loan, credit, or investment, or portion of a loan, credit, or investment, that is guaranteed—” for “As used in this section and section 2020(b) of this title, the term ‘government-guaranteed loans’ means loans or credits, or portions of loans or credits, that are guaranteed—”, and struck out former par. (4). Prior to amendment, text read as follows: “In this section and sections 2020(b) and 2277a–5(a) of this title, the term ‘Government Sponsored Enterprise-guaranteed loan’ means a loan or credit, or portion of a loan or credit, that is guaranteed by an entity that is chartered by Congress to serve a public purpose and the debt obligations of which are not explicitly guaranteed by the United States, including the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, and the Federal Agricultural Mortgage Corporation, but not including any other institution of the Farm Credit System.”
+Subsec. (a)(2) to (4). Pub. L. 110–246, § 5404(a)(2)–(6), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, in par. (3), struck out “annual” before “premium”, in par. (4), inserted “or investments” after “loans” in heading and, in introductory provisions, substituted “In this section, the term ‘government-guaranteed’, when applied to a loan or an investment, means a loan, credit, or investment, or portion of a loan, credit, or investment, that is guaranteed—” for “As used in this section and section 2020(b) of this title, the term ‘government-guaranteed loans’ means loans or credits, or portions of loans or credits, that are guaranteed—”, and struck out former par. (4). Prior to amendment, text read as follows: “In this section and sections 2020(b) and 2277a–5(a) of this title, the term ‘Government Sponsored Enterprise-guaranteed loan’ means a loan or credit, or portion of a loan or credit, that is guaranteed by an entity that is chartered by Congress to serve a public purpose and the debt obligations of which are not explicitly guaranteed by the United States, including the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, and the Federal Agricultural Mortgage Corporation, but not including any other institution of the Farm Credit System.”
 
-Subsec. (b). Pub. L. 110–246, § 5404(b), struck out “annual” before “premium”.
+Subsec. (b). Pub. L. 110–246, § 5404(b), struck out “annual” before “premium”.
 
-Subsec. (c). Pub. L. 110–246, § 5404(c), designated existing provisions as par. (1), inserted heading, substituted “(as adjusted under paragraph (2))” for “(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)”, and added par. (2).
+Subsec. (c). Pub. L. 110–246, § 5404(c), designated existing provisions as par. (1), inserted heading, substituted “(as adjusted under paragraph (2))” for “(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)”, and added par. (2).
 
-Subsec. (d). Pub. L. 110–246, § 5404(d)(1), (2), in heading, substituted “loan and investment amounts” for “principal outstanding” and, in introductory provisions, substituted “For the purpose of subsections (a) and (c), the principal outstanding on all loans made by an insured System bank, and the amount outstanding on all investments made by an insured System bank, shall be determined based on—” for “For the purpose of subsections (a), (c), and (e) of this section, the principal outstanding on all loans made by an insured System bank shall be determined based on all loans made—”.
+Subsec. (d). Pub. L. 110–246, § 5404(d)(1), (2), in heading, substituted “loan and investment amounts” for “principal outstanding” and, in introductory provisions, substituted “For the purpose of subsections (a) and (c), the principal outstanding on all loans made by an insured System bank, and the amount outstanding on all investments made by an insured System bank, shall be determined based on—” for “For the purpose of subsections (a), (c), and (e) of this section, the principal outstanding on all loans made by an insured System bank shall be determined based on all loans made—”.
 
-Subsec. (d)(1) to (3). Pub. L. 110–246, § 5404(d)(3), (4), in pars. (1) to (3), inserted “all loans or investments made” after par. designation and, in pars. (1) and (2), inserted “or investments” after “such loans”.
+Subsec. (d)(1) to (3). Pub. L. 110–246, § 5404(d)(3), (4), in pars. (1) to (3), inserted “all loans or investments made” after par. designation and, in pars. (1) and (2), inserted “or investments” after “such loans”.
 
-Subsec. (e)(3). Pub. L. 110–246, § 5404(e)(1), substituted “the secure base amount” for “the average secure base amount for the calendar year (as calculated on an average daily balance basis)”.
+Subsec. (e)(3). Pub. L. 110–246, § 5404(e)(1), substituted “the secure base amount” for “the average secure base amount for the calendar year (as calculated on an average daily balance basis)”.
 
-Subsec. (e)(4)(B). Pub. L. 110–246, § 5404(e)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “there shall be credited to the Allocated Insurance Reserves Account of each insured System bank an amount that bears the same ratio to the total amount (less any amount credited under subparagraph (A)) as the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by the bank that are in accrual status bears to the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by all insured System banks that are in accrual status (excluding, in each case, the guaranteed portions of loans described in subparagraph (C) or (D) of subsection (a)(1) of this section).”
+Subsec. (e)(4)(B). Pub. L. 110–246, § 5404(e)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “there shall be credited to the Allocated Insurance Reserves Account of each insured System bank an amount that bears the same ratio to the total amount (less any amount credited under subparagraph (A)) as the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by the bank that are in accrual status bears to the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by all insured System banks that are in accrual status (excluding, in each case, the guaranteed portions of loans described in subparagraph (C) or (D) of subsection (a)(1) of this section).”
 
-Subsec. (e)(6)(A). Pub. L. 110–246, § 5404(e)(3)(A)(i), struck out “beginning more than 8 years after the date on which the aggregate of the amounts in the Farm Credit Insurance Fund exceeds the secure base amount, but not earlier than January 1, 2005” after “calendar year” in introductory provisions.
+Subsec. (e)(6)(A). Pub. L. 110–246, § 5404(e)(3)(A)(i), struck out “beginning more than 8 years after the date on which the aggregate of the amounts in the Farm Credit Insurance Fund exceeds the secure base amount, but not earlier than January 1, 2005” after “calendar year” in introductory provisions.
 
-Subsec. (e)(6)(A)(i). Pub. L. 110–246, § 5404(e)(3)(A)(ii), added cl. (i) and struck out former cl. (i) which read as follows: “subject to subparagraphs (D) and (F), pay to each insured System bank, in a manner determined by the Corporation, an amount equal to the lesser of—
+Subsec. (e)(6)(A)(i). Pub. L. 110–246, § 5404(e)(3)(A)(ii), added cl. (i) and struck out former cl. (i) which read as follows: “subject to subparagraphs (D) and (F), pay to each insured System bank, in a manner determined by the Corporation, an amount equal to the lesser of—
 
 “(I) 20 percent of the balance in the insured System bank’s Allocated Insurance Reserves Account as of the preceding December 31; or
 
 “(II) 20 percent of the balance in the bank’s Allocated Insurance Reserves Account on the date of the payment; and”.
 
-Subsec. (e)(6)(A)(ii). Pub. L. 110–246, § 5404(e)(3)(A)(iii), substituted “subparagraphs (C) and (E)” for “subparagraphs (C), (E), and (F)” and “at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B).” for “, of the lesser of—
+Subsec. (e)(6)(A)(ii). Pub. L. 110–246, § 5404(e)(3)(A)(iii), substituted “subparagraphs (C) and (E)” for “subparagraphs (C), (E), and (F)” and “at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B).” for “, of the lesser of—
 
 “(I) 20 percent of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B) as of the preceding December 31; or
 
 “(II) 20 percent of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B) on the date of the payment.”
 
-Subsec. (e)(6)(C)(i). Pub. L. 110–246, § 5404(e)(3)(B)(i), struck out “(in addition to the amounts described in subparagraph (F)(ii))” after “an amount equal to $56,000,000”.
+Subsec. (e)(6)(C)(i). Pub. L. 110–246, § 5404(e)(3)(B)(i), struck out “(in addition to the amounts described in subparagraph (F)(ii))” after “an amount equal to $56,000,000”.
 
-Subsec. (e)(6)(C)(ii). Pub. L. 110–246, § 5404(e)(3)(B)(ii), added cl. (ii) and struck out former cl. (ii) which related to wind down and termination of the Allocated Insurance Reserves Account established under subsec. (e)(1) of this section.
+Subsec. (e)(6)(C)(ii). Pub. L. 110–246, § 5404(e)(3)(B)(ii), added cl. (ii) and struck out former cl. (ii) which related to wind down and termination of the Allocated Insurance Reserves Account established under subsec. (e)(1) of this section.
 
-Subsec. (e)(6)(F). Pub. L. 110–246, § 5404(e)(3)(C), struck out subpar. (F) which related to determination of amount of initial payment made to each payee under subsec. (e)(6)(A) of this section.
+Subsec. (e)(6)(F). Pub. L. 110–246, § 5404(e)(3)(C), struck out subpar. (F) which related to determination of amount of initial payment made to each payee under subsec. (e)(6)(A) of this section.
 
-2002—Subsec. (a)(1)(A). Pub. L. 107–171, § 5403(a)(1)(A)(i)(I), substituted “loans provided for in subparagraphs (C) and (D)” for “government-guaranteed loans provided for in subparagraph (C)”.
+2002—Subsec. (a)(1)(A). Pub. L. 107–171, § 5403(a)(1)(A)(i)(I), substituted “loans provided for in subparagraphs (C) and (D)” for “government-guaranteed loans provided for in subparagraph (C)”.
 
-Subsec. (a)(1)(D). Pub. L. 107–171, § 5403(a)(1)(A)(i)(II)–(IV), added subpar. (D).
+Subsec. (a)(1)(D). Pub. L. 107–171, § 5403(a)(1)(A)(i)(II)–(IV), added subpar. (D).
 
-Subsec. (a)(4). Pub. L. 107–171, § 5403(a)(1)(A)(ii), added par. (4).
+Subsec. (a)(4). Pub. L. 107–171, § 5403(a)(1)(A)(ii), added par. (4).
 
-Subsec. (e)(4)(B). Pub. L. 107–171, § 5403(a)(1)(B), substituted “loans described in subparagraph (C) or (D) of subsection (a)(1) of this section” for “government-guaranteed loans described in subsection (a)(1)(C) of this section”.
+Subsec. (e)(4)(B). Pub. L. 107–171, § 5403(a)(1)(B), substituted “loans described in subparagraph (C) or (D) of subsection (a)(1) of this section” for “government-guaranteed loans described in subsection (a)(1)(C) of this section”.
 
-1996—Subsec. (a). Pub. L. 104–105, § 215(a)(1)(A), substituted “If at the end of any calendar year the aggregate of amounts in the Farm Credit Insurance Fund does not exceed the secure base amount, subject to paragraph (2), the annual premium due from any insured System bank for the calendar year” for “Until the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the annual premium due from any insured System bank for any calendar year”.
+1996—Subsec. (a). Pub. L. 104–105, § 215(a)(1)(A), substituted “If at the end of any calendar year the aggregate of amounts in the Farm Credit Insurance Fund does not exceed the secure base amount, subject to paragraph (2), the annual premium due from any insured System bank for the calendar year” for “Until the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the annual premium due from any insured System bank for any calendar year”.
 
-Subsec. (a)(2), (3). Pub. L. 104–105, § 215(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (a)(2), (3). Pub. L. 104–105, § 215(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (b). Pub. L. 104–105, § 215(a)(2)(A), substituted “Farm Credit Insurance Fund” for “Insurance Fund” in two places, and “subsection (a)(1)” for “subsection (a)”, and struck out “for the following calendar year” after “each insured System bank”.
+Subsec. (b). Pub. L. 104–105, § 215(a)(2)(A), substituted “Farm Credit Insurance Fund” for “Insurance Fund” in two places, and “subsection (a)(1)” for “subsection (a)”, and struck out “for the following calendar year” after “each insured System bank”.
 
-Subsec. (d). Pub. L. 104–105, § 215(c), in introductory provisions, substituted “subsections (a), (c), and (e) of this section” for “subsections (a) and (c) of this section” and “an insured System bank” for “a Farm Credit Bank”, and in pars. (1) through (3), substituted “insured System bank” for “Farm Credit Bank”.
+Subsec. (d). Pub. L. 104–105, § 215(c), in introductory provisions, substituted “subsections (a), (c), and (e) of this section” for “subsections (a) and (c) of this section” and “an insured System bank” for “a Farm Credit Bank”, and in pars. (1) through (3), substituted “insured System bank” for “Farm Credit Bank”.
 
-Subsec. (e). Pub. L. 104–105, § 215(b), added subsec. (e).
+Subsec. (e). Pub. L. 104–105, § 215(b), added subsec. (e).
 
-1989—Subsec. (a). Pub. L. 101–220, § 6(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Until the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the annual premium due from any insured System bank for any calendar year shall be equal to the sum of—
+1989—Subsec. (a). Pub. L. 101–220, § 6(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Until the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the annual premium due from any insured System bank for any calendar year shall be equal to the sum of—
 
 “(1) the annual average principal outstanding for such year on loans made by the bank that are in accrual status, multiplied by 0.0015; and
 
 “(2) the annual average principal outstanding for such year on loans made by the bank that are in nonaccrual status, multiplied by 0.0025.”
 
-Subsec. (b). Pub. L. 101–220, § 6(a)(2), inserted “, as determined under subsection (a),” after “calendar year”.
+Subsec. (b). Pub. L. 101–220, § 6(a)(2), inserted “, as determined under subsection (a),” after “calendar year”.
 
-Subsec. (c). Pub. L. 101–220, § 6(a)(3), inserted “(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)” after “such time”.
+Subsec. (c). Pub. L. 101–220, § 6(a)(3), inserted “(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)” after “such time”.
 
-Subsec. (d). Pub. L. 101–220, § 6(a)(4), in introductory provisions, substituted “subsections (a) and (c) of this section” for “subsection (a) of this section” and struck out “intermediate term” after “outstanding on all”, inserted par. (1), and struck out former par. (1) which read as follows: “by the production credit associations in the district in which such bank is located;”.
+Subsec. (d). Pub. L. 101–220, § 6(a)(4), in introductory provisions, substituted “subsections (a) and (c) of this section” for “subsection (a) of this section” and struck out “intermediate term” after “outstanding on all”, inserted par. (1), and struck out former par. (1) which read as follows: “by the production credit associations in the district in which such bank is located;”.
 
-1988—Subsec. (d). Pub. L. 100–399, § 302(c), substituted in introductory provisions “intermediate term loans made by a Farm Credit Bank” for “loans made by a Federal intermediate credit bank”.
+1988—Subsec. (d). Pub. L. 100–399, § 302(c), substituted in introductory provisions “intermediate term loans made by a Farm Credit Bank” for “loans made by a Federal intermediate credit bank”.
 
-Subsec. (d)(2). Pub. L. 100–399, § 302(d), (e), substituted “section 2015(b)(1)(B) of this title” for “section 2074(a)(2) of this title” and “Farm Credit Bank” for “Federal intermediate credit bank”.
+Subsec. (d)(2). Pub. L. 100–399, § 302(d), (e), substituted “section 2015(b)(1)(B) of this title” for “section 2074(a)(2) of this title” and “Farm Credit Bank” for “Federal intermediate credit bank”.
 
-Subsec. (d)(3). Pub. L. 100–399, § 302(e), substituted “Farm Credit Bank” for “Federal intermediate credit bank”.
+Subsec. (d)(3). Pub. L. 100–399, § 302(e), substituted “Farm Credit Bank” for “Federal intermediate credit bank”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6455,9 +6455,9 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 **GAO Reports on Risk-Based Insurance Premiums, Access to Association Capital, Supplemental Premiums, and Consolidation**
 
-Pub. L. 102–552, title II, § 204, Oct. 28, 1992, 106 Stat. 4106, as amended by Pub. L. 104–316, title I, § 106(e), Oct. 19, 1996, 110 Stat. 3831, provided for a report by the Comptroller General on risk-based insurance premiums, structure and capital, and another report on benefits to farmer and rancher borrowers of the Farm Credit System institutions of merging the 10 district Farm Credit Banks (and the Federal Intermediate Credit Bank of Jackson) into fewer regional Farm Credit Banks, and provided that the reports were to be provided to Congress not later than 12 months after Oct. 28, 1992.
+Pub. L. 102–552, title II, § 204, Oct. 28, 1992, 106 Stat. 4106, as amended by Pub. L. 104–316, title I, § 106(e), Oct. 19, 1996, 110 Stat. 3831, provided for a report by the Comptroller General on risk-based insurance premiums, structure and capital, and another report on benefits to farmer and rancher borrowers of the Farm Credit System institutions of merging the 10 district Farm Credit Banks (and the Federal Intermediate Credit Bank of Jackson) into fewer regional Farm Credit Banks, and provided that the reports were to be provided to Congress not later than 12 months after Oct. 28, 1992.
 
-#### § 2277a–5. Certification of premiums
+#### § 2277a–5. Certification of premiums
 
 **(a) Filing certified statement** On a date to be determined in the sole discretion of the Board of Directors of the Corporation, each insured System bank that became insured before the beginning of the period for which premiums are being assessed (referred to in this section as the “period”) shall file with the Corporation a certified statement showing—
 
@@ -6501,7 +6501,7 @@ The amount of the premium shall be established not later than 60 days after fili
 
 The Board of Directors shall prescribe all rules and regulations necessary for the enforcement of this section. The Board of Directors may limit the retroactive effect, if any, of any of its rules or regulations.
 
-(Pub. L. 92–181, title V, § 5.56, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1612; amended Pub. L. 100–399, title III, § 302(f), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–624, title XVIII, § 1835, Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, § 215(a)(2)(B), Feb. 10, 1996, 110 Stat. 176; Pub. L. 107–171, title V, § 5403(a)(2)(B), May 13, 2002, 116 Stat. 351; Pub. L. 110–234, title V, § 5405, May 22, 2008, 122 Stat. 1157; Pub. L. 110–246, § 4(a), title V, § 5405, June 18, 2008, 122 Stat. 1664, 1919.)
+(Pub. L. 92–181, title V, § 5.56, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1612; amended Pub. L. 100–399, title III, § 302(f), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–624, title XVIII, § 1835, Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, § 215(a)(2)(B), Feb. 10, 1996, 110 Stat. 176; Pub. L. 107–171, title V, § 5403(a)(2)(B), May 13, 2002, 116 Stat. 351; Pub. L. 110–234, title V, § 5405, May 22, 2008, 122 Stat. 1157; Pub. L. 110–246, § 4(a), title V, § 5405, June 18, 2008, 122 Stat. 1664, 1919.)
 
 **Editorial Notes**
 
@@ -6511,15 +6511,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–246, § 5405(a), added subsec. (a) and struck out former subsec. (a) which related to the required annual filing of a certified statement from each insured System bank that became insured before the beginning of the year.
+2008—Subsec. (a). Pub. L. 110–246, § 5405(a), added subsec. (a) and struck out former subsec. (a) which related to the required annual filing of a certified statement from each insured System bank that became insured before the beginning of the year.
 
-Subsec. (c). Pub. L. 110–246, § 5405(b), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Each System bank shall pay to the Corporation the amount of the initial premium it is required to certify under subsection (a) of this section as soon as practicable after January 1, 1990, based on the application of section 2277a–4 of this title to the accruing loan volume of the bank for calendar year 1989.”
+Subsec. (c). Pub. L. 110–246, § 5405(b), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Each System bank shall pay to the Corporation the amount of the initial premium it is required to certify under subsection (a) of this section as soon as practicable after January 1, 1990, based on the application of section 2277a–4 of this title to the accruing loan volume of the bank for calendar year 1989.”
 
-Subsecs. (d), (e). Pub. L. 110–246, § 5405(c), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The premium payments required from insured System banks under subsection (a) of this section shall be made not less frequently than annually in such manner and at such time or times as the Board of Directors shall prescribe, except that the amount of the premium shall be established not later than 60 days after filing the certified statement setting forth the amount of the premium.”
+Subsecs. (d), (e). Pub. L. 110–246, § 5405(c), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The premium payments required from insured System banks under subsection (a) of this section shall be made not less frequently than annually in such manner and at such time or times as the Board of Directors shall prescribe, except that the amount of the premium shall be established not later than 60 days after filing the certified statement setting forth the amount of the premium.”
 
-2002—Subsec. (a)(1). Pub. L. 107–171, § 5403(a)(2)(B)(i), inserted “and Government Sponsored Enterprise-guaranteed loans (as defined in section 2277a–4(a)(4) of this title)” after “government-guaranteed loans”.
+2002—Subsec. (a)(1). Pub. L. 107–171, § 5403(a)(2)(B)(i), inserted “and Government Sponsored Enterprise-guaranteed loans (as defined in section 2277a–4(a)(4) of this title)” after “government-guaranteed loans”.
 
-Subsec. (a)(4) to (6). Pub. L. 107–171, § 5403(a)(2)(B)(ii), (iii), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+Subsec. (a)(4) to (6). Pub. L. 107–171, § 5403(a)(2)(B)(ii), (iii), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
 1996—Subsec. (a)(2), (3). Pub. L. 104–105 substituted “2277a–4(a)(3) of this title” for “2277a–4(a)(2) of this title”.
 
@@ -6541,7 +6541,7 @@ Amendment by Pub. L. 107–171 applicable with respect to determinations of prem
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2277a–6. Overpayment and underpayment of premiums; remedies
+#### § 2277a–6. Overpayment and underpayment of premiums; remedies
 
 **(a) Overpayments**
 
@@ -6575,15 +6575,15 @@ Every director who participated in or assented to a failure (described in paragr
 
 The remedies provided in subsections (b) and (c) shall not be construed as limiting any other remedies against any insured System bank, but shall be in addition thereto.
 
-(Pub. L. 92–181, title V, § 5.57, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1613; amended Pub. L. 100–399, title III, § 302(g), (h), Aug. 17, 1988, 102 Stat. 994.)
+(Pub. L. 92–181, title V, § 5.57, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1613; amended Pub. L. 100–399, title III, § 302(g), (h), Aug. 17, 1988, 102 Stat. 994.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (b)(1). Pub. L. 100–399, § 302(g), struck out “made any report of condition required under section 2277a–4 of this title or” after “bank has” and “make any such report or” after “bank to”.
+1988—Subsec. (b)(1). Pub. L. 100–399, § 302(g), struck out “made any report of condition required under section 2277a–4 of this title or” after “bank has” and “make any such report or” after “bank to”.
 
-Subsec. (b)(2). Pub. L. 100–399, § 302(h), substituted “bank has filed” for “bank has made or filed”.
+Subsec. (b)(2). Pub. L. 100–399, § 302(h), substituted “bank has filed” for “bank has made or filed”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6591,7 +6591,7 @@ Subsec. (b)(2). Pub. L. 100–399, § 302(h), substituted “bank has filed”
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2277a–7. General corporate powers
+#### § 2277a–7. General corporate powers
 
 On January 6, 1988, the Corporation shall become a body corporate and as such shall have the following powers:
 
@@ -6655,7 +6655,7 @@ The Corporation may act as a conservator or receiver.
 
 The Corporation may prescribe by its Board of Directors such rules and regulations as it considers necessary to carry out this part and section 2020(b) of this title (except to the extent that authority to issue such rules and regulations has been expressly and exclusively granted to any other regulatory agency).
 
-(Pub. L. 92–181, title V, § 5.58, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1614; amended Pub. L. 100–399, title III, § 302(i), Aug. 17, 1988, 102 Stat. 994; Pub. L. 102–237, title V, § 502(j), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title II, § 202(a), Oct. 28, 1992, 106 Stat. 4105; Pub. L. 104–105, title II, § 214(b), Feb. 10, 1996, 110 Stat. 175; Pub. L. 110–234, title V, § 5401(b), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, § 4(a), title V, § 5401(b), June 18, 2008, 122 Stat. 1664, 1915; Pub. L. 115–334, title V, § 5411(37), Dec. 20, 2018, 132 Stat. 4683.)
+(Pub. L. 92–181, title V, § 5.58, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1614; amended Pub. L. 100–399, title III, § 302(i), Aug. 17, 1988, 102 Stat. 994; Pub. L. 102–237, title V, § 502(j), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title II, § 202(a), Oct. 28, 1992, 106 Stat. 4105; Pub. L. 104–105, title II, § 214(b), Feb. 10, 1996, 110 Stat. 175; Pub. L. 110–234, title V, § 5401(b), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, § 4(a), title V, § 5401(b), June 18, 2008, 122 Stat. 1664, 1915; Pub. L. 115–334, title V, § 5411(37), Dec. 20, 2018, 132 Stat. 4683.)
 
 **Editorial Notes**
 
@@ -6667,7 +6667,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Par. (2). Pub. L. 115–334 struck out at end “The Corporation shall succeed to the rights of the Farm Credit System Assistance Board under agreements between the Farm Credit System Assistance Board and System institutions certifying the institutions as eligible to issue preferred stock pursuant to subchapter VI on the termination of the Assistance Board on the date provided in section 2278a–12 of this title.”
 
-2008—Par. (10). Pub. L. 110–246, § 5401(b), inserted “and section 2020(b) of this title” after “this part”.
+2008—Par. (10). Pub. L. 110–246, § 5401(b), inserted “and section 2020(b) of this title” after “this part”.
 
 1996—Par. (9). Pub. L. 104–105 added par. (9) and struck out heading and text of former par. (9). Text read as follows: “The Corporation may act as receiver.”
 
@@ -6687,7 +6687,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2277a–8. Conduct of corporate affairs; examination of System institutions
+#### § 2277a–8. Conduct of corporate affairs; examination of System institutions
 
 **(a) Conduct of corporate affairs**
 
@@ -6717,9 +6717,9 @@ To the extent practicable, the Corporation shall use the personnel and resources
 
 **(A) In general**
 
-If the Board of Directors considers it necessary to examine an insured System bank, a production credit association, an association making direct loans under the authority provided under section 2279b of this title, or any System institution in receivership, the Board may, using Farm Credit Administration examiners, conduct the examination using reports and other information on the System institution prepared or held by the Farm Credit Administration. Notwithstanding any other provision of this chapter, on cancellation of the charter of a System institution, the Corporation shall have authority to examine the system 1
+If the Board of Directors considers it necessary to examine an insured System bank, a production credit association, an association making direct loans under the authority provided under section 2279b of this title, or any System institution in receivership, the Board may, using Farm Credit Administration examiners, conduct the examination using reports and other information on the System institution prepared or held by the Farm Credit Administration. Notwithstanding any other provision of this chapter, on cancellation of the charter of a System institution, the Corporation shall have authority to examine the system 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine.
 
@@ -6747,7 +6747,7 @@ In connection with examinations under this section, the Corporation or its desig
 
 The examiners appointed by the Board of Directors shall cooperate to the maximum extent possible with examiners of the Farm Credit Administration to minimize duplication of effort and minimize costs.
 
-(Pub. L. 92–181, title V, § 5.59, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1615; amended Pub. L. 101–220, § 6(b)(3), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 102–552, title II, § 203, title V, § 513(a), Oct. 28, 1992, 106 Stat. 4106, 4133; Pub. L. 104–105, title II, § 216, Feb. 10, 1996, 110 Stat. 179.)
+(Pub. L. 92–181, title V, § 5.59, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1615; amended Pub. L. 101–220, § 6(b)(3), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 102–552, title II, § 203, title V, § 513(a), Oct. 28, 1992, 106 Stat. 4106, 4133; Pub. L. 104–105, title II, § 216, Feb. 10, 1996, 110 Stat. 179.)
 
 **Editorial Notes**
 
@@ -6755,11 +6755,11 @@ The examiners appointed by the Board of Directors shall cooperate to the maximum
 
 1996—Subsec. (b)(1)(A). Pub. L. 104–105 inserted at end “Notwithstanding any other provision of this chapter, on cancellation of the charter of a System institution, the Corporation shall have authority to examine the system institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine.”
 
-1992—Pub. L. 102–552, § 513(a)(1), substituted “System institutions” for “insured System banks” in section catchline.
+1992—Pub. L. 102–552, § 513(a)(1), substituted “System institutions” for “insured System banks” in section catchline.
 
-Subsec. (a)(5). Pub. L. 102–552, § 203, added par. (5).
+Subsec. (a)(5). Pub. L. 102–552, § 203, added par. (5).
 
-Subsec. (b). Pub. L. 102–552, § 513(a)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “(b) Examination of Insured System Banks.—
+Subsec. (b). Pub. L. 102–552, § 513(a)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “(b) Examination of Insured System Banks.—
 
 “(1) Appointment of examiners.—The Board of Directors may appoint examiners who may, on behalf of the Corporation, examine any insured System bank, any production credit association, any other association making direct loans under authority provided under section 2279b of this title, and any System institution in receivership, if in the judgment of the Board of Directors an examination of the institution is necessary.
 
@@ -6775,7 +6775,7 @@ Subsec. (b). Pub. L. 102–552, § 513(a)(2), added subsec. (b) and struck out
 
 Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm Credit System Insurance Corporation under this chapter on or after Jan. 1, 1990, based on the loan volume of each bank for each calendar year beginning with calendar year 1989, and effective for the calculation of the initial premium payment required under section 2277a–5(c) of this title, see section 6(c) of Pub. L. 101–220, set out as a note under section 2020 of this title.
 
-#### § 2277a–9. Insurance Fund
+#### § 2277a–9. Insurance Fund
 
 **(a) Establishment**
 
@@ -6803,15 +6803,15 @@ The Corporation may expend amounts in the Insurance Fund to carry out section 22
 
 The Corporation shall make all payments and refunds required to be made by the Corporation under this part from amounts in the Insurance Fund.
 
-(Pub. L. 92–181, title V, § 5.60, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1616; amended Pub. L. 100–399, title III, § 302(j)–(*l*), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–624, title XVIII, § 1836(a), Nov. 28, 1990, 104 Stat. 3833; Pub. L. 115–334, title V, § 5411(38), Dec. 20, 2018, 132 Stat. 4683.)
+(Pub. L. 92–181, title V, § 5.60, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1616; amended Pub. L. 100–399, title III, § 302(j)–(*l*), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–624, title XVIII, § 1836(a), Nov. 28, 1990, 104 Stat. 3833; Pub. L. 115–334, title V, § 5411(38), Dec. 20, 2018, 132 Stat. 4683.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (b). Pub. L. 115–334, § 5411(38)(A), struck out par. (2) designation and heading before “The Corporation” and struck out par. (1) which provided for transfer of amounts in the revolving fund into the Farm Credit Insurance Fund, with exception for transactions before Jan. 6, 1988.
+2018—Subsec. (b). Pub. L. 115–334, § 5411(38)(A), struck out par. (2) designation and heading before “The Corporation” and struck out par. (1) which provided for transfer of amounts in the revolving fund into the Farm Credit Insurance Fund, with exception for transactions before Jan. 6, 1988.
 
-Subsec. (c)(2). Pub. L. 115–334, § 5411(38)(B), substituted “Insurance Fund to ensure” for “Insurance Fund to—
+Subsec. (c)(2). Pub. L. 115–334, § 5411(38)(B), substituted “Insurance Fund to ensure” for “Insurance Fund to—
 
 “(A) satisfy System institution defaults through the purchase of preferred stock or other payments as provided for in section 2278b–6(d)(3) of this title; and
 
@@ -6819,11 +6819,11 @@ Subsec. (c)(2). Pub. L. 115–334, § 5411(38)(B), substituted “Insurance Fu
 
 1990—Subsec. (c)(1), (2). Pub. L. 101–624 substituted “January 1, 1993” for “5 years after the date of the enactment of this part” in par. (1) and for “5 years after the date of enactment of this part” in par. (2).
 
-1988—Subsec. (b)(1). Pub. L. 100–399, § 302(j), struck out “(in effect immediately before January 6, 1988)” after “section 2151 of this title”.
+1988—Subsec. (b)(1). Pub. L. 100–399, § 302(j), struck out “(in effect immediately before January 6, 1988)” after “section 2151 of this title”.
 
-Subsec. (b)(2). Pub. L. 100–399, § 302(k), substituted “The” for “Beginning 5 years after January 6, 1988, the”.
+Subsec. (b)(2). Pub. L. 100–399, § 302(k), substituted “The” for “Beginning 5 years after January 6, 1988, the”.
 
-Subsec. (c)(2)(B). Pub. L. 100–399, § 302(*l*), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ensure the retirement of borrower stock at par value and participation certificates or other similar equities at face value as provided for under section 2162(c)(2) of this title.”
+Subsec. (c)(2)(B). Pub. L. 100–399, § 302(*l*), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ensure the retirement of borrower stock at par value and participation certificates or other similar equities at face value as provided for under section 2162(c)(2) of this title.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6831,7 +6831,7 @@ Subsec. (c)(2)(B). Pub. L. 100–399, § 302(*l*), amended subpar. (B) general
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2277a–10. Powers of Corporation with respect to troubled insured System banks
+#### § 2277a–10. Powers of Corporation with respect to troubled insured System banks
 
 **(a) Authority to provide assistance**
 
@@ -6943,21 +6943,21 @@ As used in this section, the terms “insured System bank” and “bank” incl
 
 The Corporation shall not exercise any authority under this section during the 5-year period prior to January 1, 1993.
 
-(Pub. L. 92–181, title V, § 5.61, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1616; amended Pub. L. 101–220, § 6(b)(4), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 101–624, title XVIII, § 1836(b), Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, § 217, Feb. 10, 1996, 110 Stat. 179.)
+(Pub. L. 92–181, title V, § 5.61, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1616; amended Pub. L. 101–220, § 6(b)(4), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 101–624, title XVIII, § 1836(b), Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, § 217, Feb. 10, 1996, 110 Stat. 179.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a)(1). Pub. L. 104–105, § 217(b)(1), substituted “Stand-alone assistance” for “In general” in par. heading.
+1996—Subsec. (a)(1). Pub. L. 104–105, § 217(b)(1), substituted “Stand-alone assistance” for “In general” in par. heading.
 
-Subsec. (a)(2). Pub. L. 104–105, § 217(b)(2)(A), substituted “Facilitation of mergers or consolidation” for “Enumerated powers” in par. heading.
+Subsec. (a)(2). Pub. L. 104–105, § 217(b)(2)(A), substituted “Facilitation of mergers or consolidation” for “Enumerated powers” in par. heading.
 
-Subsec. (a)(2)(A). Pub. L. 104–105, § 217(b)(2)(B), substituted “In general” for “Facilitation of mergers or consolidation” in subpar. heading.
+Subsec. (a)(2)(A). Pub. L. 104–105, § 217(b)(2)(B), substituted “In general” for “Facilitation of mergers or consolidation” in subpar. heading.
 
-Subsec. (a)(3)(A). Pub. L. 104–105, § 217(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Assistance shall not be provided to an insured System bank under this subsection if the amount of such assistance exceeds an amount determined by the Corporation to be the cost of liquidating the bank (including paying the insured obligations issued on behalf of the bank). This subparagraph shall not apply to the provision of assistance to a bank if the Corporation determines that the continued operation of the bank is essential to provide adequate agricultural credit services in the area of operations of the bank.”
+Subsec. (a)(3)(A). Pub. L. 104–105, § 217(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Assistance shall not be provided to an insured System bank under this subsection if the amount of such assistance exceeds an amount determined by the Corporation to be the cost of liquidating the bank (including paying the insured obligations issued on behalf of the bank). This subparagraph shall not apply to the provision of assistance to a bank if the Corporation determines that the continued operation of the bank is essential to provide adequate agricultural credit services in the area of operations of the bank.”
 
-Subsec. (a)(3)(B) to (F). Pub. L. 104–105, § 217(a), added subpars. (B) to (E) and redesignated former subpar. (B) as (F).
+Subsec. (a)(3)(B) to (F). Pub. L. 104–105, § 217(a), added subpars. (B) to (E) and redesignated former subpar. (B) as (F).
 
 1990—Subsec. (f). Pub. L. 101–624 substituted “prior to January 1, 1993” for “beginning on the date of the enactment of this part”.
 
@@ -6969,7 +6969,7 @@ Subsec. (a)(3)(B) to (F). Pub. L. 104–105, § 217(a), added subpars. (B) to 
 
 Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm Credit System Insurance Corporation under this chapter on or after Jan. 1, 1990, based on the loan volume of each bank for each calendar year beginning with calendar year 1989, and effective for the calculation of the initial premium payment required under section 2277a–5(c) of this title, see section 6(c) of Pub. L. 101–220, set out as a note under section 2020 of this title.
 
-#### § 2277a–10a. Oversight actions by Corporation
+#### § 2277a–10a. Oversight actions by Corporation
 
 **(a) “Institution” defined** In this section, the term “institution” means—
 
@@ -6991,9 +6991,9 @@ On receiving an application for a merger or restructuring of an institution, the
 
 If the proposed merger or restructuring involves an institution that fails to meet the minimum level for any capital requirement established by the Farm Credit Administration applicable to the institution, the Farm Credit Administration shall allow 30 days within which the Corporation may submit the views and recommendations of the Corporation, including any conditions for approval. In determining whether to approve or disapprove any proposed merger or restructuring, the Farm Credit Administration shall give due consideration to the views and recommendations of the Corporation.
 
-(Pub. L. 92–181, title V, § 5.61A, as added Pub. L. 104–105, title II, § 218, Feb. 10, 1996, 110 Stat. 180.)
+(Pub. L. 92–181, title V, § 5.61A, as added Pub. L. 104–105, title II, § 218, Feb. 10, 1996, 110 Stat. 180.)
 
-#### § 2277a–10b. Authority to regulate golden parachute and indemnification payments
+#### § 2277a–10b. Authority to regulate golden parachute and indemnification payments
 
 **(a) Definitions** In this section:
 
@@ -7097,9 +7097,9 @@ The Corporation may prohibit or limit, by regulation or order, any golden parach
 
 **(2)** limits the powers, functions, or responsibilities of the Farm Credit Administration.
 
-(Pub. L. 92–181, title V, § 5.61B, as added Pub. L. 104–105, title II, § 218, Feb. 10, 1996, 110 Stat. 181.)
+(Pub. L. 92–181, title V, § 5.61B, as added Pub. L. 104–105, title II, § 218, Feb. 10, 1996, 110 Stat. 181.)
 
-#### § 2277a–10c. Corporation as conservator or receiver; certain other powers
+#### § 2277a–10c. Corporation as conservator or receiver; certain other powers
 
 **(a) Definition of institution**
 
@@ -7783,7 +7783,7 @@ The term “qualified financial contract” means any securities contract, commo
 
 **(bb)** does not include any repurchase obligation under a participation in a commercial mortgage,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 loan unless the Corporation determines by regulation, resolution, or order to include any such participation within the meaning of such term.
 
@@ -8211,9 +8211,9 @@ The transfer of any assets or liabilities of a System bank in default or danger 
 
 **(iv)** has been, continuously from the time of its execution, an official record of such System bank in default;
 
-**(I)** notwithstanding subsection 2
+**(I)** notwithstanding subsection 2
 
-<sup>2</sup>  So in original. Probably should be “section”.
+<sup>2</sup> So in original. Probably should be “section”.
 
 2277a–10(d)(2) of this title, any agreement relating to an extension of credit between a System bank, Federal Reserve bank, or the United States Treasury and any System institution which was executed before the extension of credit by such lender to such System institution shall be treated as having been executed contemporaneously with such extension of credit for purposes of subparagraph (H); and
 
@@ -8355,7 +8355,7 @@ The Corporation as conservator or receiver of a System institution shall not be 
 
 This section shall become applicable with respect to the power of the Corporation to act as a conservator or receiver on the date on which the Farm Credit Administration appoints the Corporation as a conservator or receiver under section 2183 or 2279cc of this title.
 
-(Pub. L. 92–181, title V, § 5.61C, as added Pub. L. 115–334, title V, § 5412, Dec. 20, 2018, 132 Stat. 4686.)
+(Pub. L. 92–181, title V, § 5.61C, as added Pub. L. 115–334, title V, § 5412, Dec. 20, 2018, 132 Stat. 4686.)
 
 **Editorial Notes**
 
@@ -8365,31 +8365,31 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b)(17), (18), are 
 
 The Gramm-Leach-Bliley Act, referred to in subsec. (c)(15)(B)(i), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 
-The Legal Certainty for Bank Products Act of 2000, referred to in subsec. (c)(15)(B)(ii), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, § 1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
+The Legal Certainty for Bank Products Act of 2000, referred to in subsec. (c)(15)(B)(ii), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, § 1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
 
-The Commodity Exchange Act, referred to in subsec. (c)(15)(B)(iv), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (c)(15)(B)(iv), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-#### § 2277a–11. Investment of funds
+#### § 2277a–11. Investment of funds
 
 Money of the Corporation not otherwise employed shall be invested in obligations of the United States or in obligations guaranteed as to principal and interest by the United States.
 
-(Pub. L. 92–181, title V, § 5.62, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1618.)
+(Pub. L. 92–181, title V, § 5.62, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1618.)
 
-#### § 2277a–12. Exemption from taxation
+#### § 2277a–12. Exemption from taxation
 
 Notwithstanding any other provision of law, the Corporation, including its franchise, and its capital, reserves, surplus, and income, shall be exempt from all taxation imposed by the United States, or by any State, county, municipality, or local taxing authority, except that any real property of the Corporation shall be subject to State, county, municipal, and local taxation to the same extent according to its value as other real property is taxed.
 
-(Pub. L. 92–181, title V, § 5.63, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1618.)
+(Pub. L. 92–181, title V, § 5.63, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1618.)
 
-#### § 2277a–13. Omitted
+#### § 2277a–13. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 92–181, title V, § 5.64, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1619, which required the Farm Credit System Insurance Corporation to submit an annual report to Congress on the operations of the Corporation, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 167 of House Document No. 103–7.
+Section, Pub. L. 92–181, title V, § 5.64, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1619, which required the Farm Credit System Insurance Corporation to submit an annual report to Congress on the operations of the Corporation, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 167 of House Document No. 103–7.
 
-#### § 2277a–14. Prohibitions
+#### § 2277a–14. Prohibitions
 
 **(a) Corporate name**
 
@@ -8449,7 +8449,7 @@ For each willful violation of paragraph (1), the institution involved shall be s
 
 No funds from administrative accounts or from the Farm Credit System Insurance Fund may be used by the Corporation to provide assistance to the Federal Agricultural Mortgage Corporation or to support any activities related to the Federal Agricultural Mortgage Corporation.
 
-(Pub. L. 92–181, title V, § 5.65, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1619; amended Pub. L. 101–624, title XVIII, § 1837, Nov. 28, 1990, 104 Stat. 3834; Pub. L. 102–237, title V, § 502(k), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 115–334, title V, § 5409, Dec. 20, 2018, 132 Stat. 4678.)
+(Pub. L. 92–181, title V, § 5.65, as added Pub. L. 100–233, title III, § 302, Jan. 6, 1988, 101 Stat. 1619; amended Pub. L. 101–624, title XVIII, § 1837, Nov. 28, 1990, 104 Stat. 3834; Pub. L. 102–237, title V, § 502(k), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 115–334, title V, § 5409, Dec. 20, 2018, 132 Stat. 4678.)
 
 **Editorial Notes**
 
@@ -8459,69 +8459,69 @@ No funds from administrative accounts or from the Farm Credit System Insurance F
 
 1991—Subsec. (d)(1). Pub. L. 102–237 struck out “insured” before “System”.
 
-1990—Subsec. (d)(1). Pub. L. 101–624, § 1837(1), substituted “insured System institution” for “insured System bank”.
+1990—Subsec. (d)(1). Pub. L. 101–624, § 1837(1), substituted “insured System institution” for “insured System bank”.
 
-Subsec. (d)(2). Pub. L. 101–624, § 1837(2), substituted “institution” for “bank”.
+Subsec. (d)(2). Pub. L. 101–624, § 1837(2), substituted “institution” for “bank”.
 
 ## SUBCHAPTER VI—ASSISTANCE TO FARM CREDIT SYSTEM
 
-### §§ 2278a to 2278b–11. Repealed. Pub. L. 115–334, title V, § 5411(39), Dec. 20, 2018, 132 Stat. 4683
+### §§ 2278a to 2278b–11. Repealed. Pub. L. 115–334, title V, § 5411(39), Dec. 20, 2018, 132 Stat. 4683
 
 Sections 2278a to 2278a–13 comprised part A of this subchapter “Assistance Board”.
 
-Section 2278a, Pub. L. 92–181, title VI, § 6.0, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1585, established the Farm Credit System Assistance Board.
+Section 2278a, Pub. L. 92–181, title VI, § 6.0, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1585, established the Farm Credit System Assistance Board.
 
-Section 2278a–1, Pub. L. 92–181, title VI, § 6.1, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1585, set out purposes of the Board.
+Section 2278a–1, Pub. L. 92–181, title VI, § 6.1, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1585, set out purposes of the Board.
 
-Section 2278a–2, Pub. L. 92–181, title VI, § 6.2, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1586; amended Pub. L. 102–237, title V, § 502(*l*), Dec. 13, 1991, 105 Stat. 1869, provided for Board of Directors of the Assistance Board.
+Section 2278a–2, Pub. L. 92–181, title VI, § 6.2, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1586; amended Pub. L. 102–237, title V, § 502(*l*), Dec. 13, 1991, 105 Stat. 1869, provided for Board of Directors of the Assistance Board.
 
-Section 2278a–3, Pub. L. 92–181, title VI, § 6.3, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1587; amended Pub. L. 100–399, title II, § 201(a), (b), Aug. 17, 1988, 102 Stat. 990, established the Assistance Board as a body corporate and set out its powers.
+Section 2278a–3, Pub. L. 92–181, title VI, § 6.3, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1587; amended Pub. L. 100–399, title II, § 201(a), (b), Aug. 17, 1988, 102 Stat. 990, established the Assistance Board as a body corporate and set out its powers.
 
-Section 2278a–4, Pub. L. 92–181, title VI, § 6.4, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1588; amended Pub. L. 100–399, title II, § 201(c), Aug. 17, 1988, 102 Stat. 991, related to certification of eligibility to issue preferred stock.
+Section 2278a–4, Pub. L. 92–181, title VI, § 6.4, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1588; amended Pub. L. 100–399, title II, § 201(c), Aug. 17, 1988, 102 Stat. 991, related to certification of eligibility to issue preferred stock.
 
-Section 2278a–5, Pub. L. 92–181, title VI, § 6.5, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1588; amended Pub. L. 100–399, title II, § 201(d), (e), Aug. 17, 1988, 102 Stat. 991, provided for ways the Board could render assistance to certified institutions.
+Section 2278a–5, Pub. L. 92–181, title VI, § 6.5, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1588; amended Pub. L. 100–399, title II, § 201(d), (e), Aug. 17, 1988, 102 Stat. 991, provided for ways the Board could render assistance to certified institutions.
 
-Section 2278a–6, Pub. L. 92–181, title VI, § 6.6, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1589; amended Pub. L. 100–399, title II, § 201(f)–(i), Aug. 17, 1988, 102 Stat. 991; Pub. L. 101–624, title XVIII, § 1843(a)(2), Nov. 28, 1990, 104 Stat. 3836, related to special powers of the Board.
+Section 2278a–6, Pub. L. 92–181, title VI, § 6.6, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1589; amended Pub. L. 100–399, title II, § 201(f)–(i), Aug. 17, 1988, 102 Stat. 991; Pub. L. 101–624, title XVIII, § 1843(a)(2), Nov. 28, 1990, 104 Stat. 3836, related to special powers of the Board.
 
-Section 2278a–7, Pub. L. 92–181, title VI, § 6.7, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1591; amended Pub. L. 100–399, title II, § 201(j), Aug. 17, 1988, 102 Stat. 991, related to administrative and financial support for the Board.
+Section 2278a–7, Pub. L. 92–181, title VI, § 6.7, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1591; amended Pub. L. 100–399, title II, § 201(j), Aug. 17, 1988, 102 Stat. 991, related to administrative and financial support for the Board.
 
-Section 2278a–8, Pub. L. 92–181, title VI, § 6.8, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1591, provided that the Board’s powers were limited to the purposes specified in this subchapter.
+Section 2278a–8, Pub. L. 92–181, title VI, § 6.8, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1591, provided that the Board’s powers were limited to the purposes specified in this subchapter.
 
-Section 2278a–9, Pub. L. 92–181, title VI, § 6.9, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1591; amended Pub. L. 100–399, title II, § 201(k), (*l*), Aug. 17, 1988, 102 Stat. 991; Pub. L. 102–552, title III, § 301, Oct. 28, 1992, 106 Stat. 4107, provided that the Board would succeed to the assets of and assume all debts, obligations, contracts, and other liabilities of the Capital Corporation.
+Section 2278a–9, Pub. L. 92–181, title VI, § 6.9, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1591; amended Pub. L. 100–399, title II, § 201(k), (*l*), Aug. 17, 1988, 102 Stat. 991; Pub. L. 102–552, title III, § 301, Oct. 28, 1992, 106 Stat. 4107, provided that the Board would succeed to the assets of and assume all debts, obligations, contracts, and other liabilities of the Capital Corporation.
 
-Section 2278a–10, Pub. L. 92–181, title VI, § 6.10, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1594, related to regulations and audits by and for the Board.
+Section 2278a–10, Pub. L. 92–181, title VI, § 6.10, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1594, related to regulations and audits by and for the Board.
 
-Section 2278a–11, Pub. L. 92–181, title VI, § 6.11, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1594, exempted the Board from various taxes.
+Section 2278a–11, Pub. L. 92–181, title VI, § 6.11, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1594, exempted the Board from various taxes.
 
-Section 2278a–12, Pub. L. 92–181, title VI, § 6.12, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1594; amended Pub. L. 100–399, title II, § 201(m), Aug. 17, 1988, 102 Stat. 991, stated that the Assistance Board and its authority would terminate on Dec. 31, 1992.
+Section 2278a–12, Pub. L. 92–181, title VI, § 6.12, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1594; amended Pub. L. 100–399, title II, § 201(m), Aug. 17, 1988, 102 Stat. 991, stated that the Assistance Board and its authority would terminate on Dec. 31, 1992.
 
-Section 2278a–13, Pub. L. 92–181, title VI, § 6.13, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1594; amended Pub. L. 100–399, title II, § 201(n), Aug. 17, 1988, 102 Stat. 991, set out transitional provisions from the Farm Credit Administration Board to the Assistance Board.
+Section 2278a–13, Pub. L. 92–181, title VI, § 6.13, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1594; amended Pub. L. 100–399, title II, § 201(n), Aug. 17, 1988, 102 Stat. 991, set out transitional provisions from the Farm Credit Administration Board to the Assistance Board.
 
 Sections 2278b to 2278b–11 comprised part B of this subchapter “Financial Assistance Corporation”.
 
-Section 2278b, Pub. L. 92–181, title VI, § 6.20, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1595, established the Farm Credit System Financial Assistance Corporation.
+Section 2278b, Pub. L. 92–181, title VI, § 6.20, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1595, established the Farm Credit System Financial Assistance Corporation.
 
-Section 2278b–1, Pub. L. 92–181, title VI, § 6.21, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1595; amended Pub. L. 102–552, title III, § 307(a), Oct. 28, 1992, 106 Stat. 4116, provided for the purpose of the Financial Assistance Corporation.
+Section 2278b–1, Pub. L. 92–181, title VI, § 6.21, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1595; amended Pub. L. 102–552, title III, § 307(a), Oct. 28, 1992, 106 Stat. 4116, provided for the purpose of the Financial Assistance Corporation.
 
-Section 2278b–2, Pub. L. 92–181, title VI, § 6.22, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1595; amended Pub. L. 100–399, title II, § 201(*o*), Aug. 17, 1988, 102 Stat. 991, provided for a Board of Directors, including its composition and duties.
+Section 2278b–2, Pub. L. 92–181, title VI, § 6.22, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1595; amended Pub. L. 100–399, title II, § 201(*o*), Aug. 17, 1988, 102 Stat. 991, provided for a Board of Directors, including its composition and duties.
 
-Section 2278b–3, Pub. L. 92–181, title VI, § 6.23, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1595; amended Pub. L. 102–237, title V, § 502(m), Dec. 13, 1991, 105 Stat. 1869, required the Corporation to issue generally nontransferable stock with a par value of $5 to System institutions.
+Section 2278b–3, Pub. L. 92–181, title VI, § 6.23, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1595; amended Pub. L. 102–237, title V, § 502(m), Dec. 13, 1991, 105 Stat. 1869, required the Corporation to issue generally nontransferable stock with a par value of $5 to System institutions.
 
-Section 2278b–4, Pub. L. 92–181, title VI, § 6.24, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1596; amended Pub. L. 100–399, title II, § 201(a), (b), Aug. 17, 1988, 102 Stat. 990, granted the Financial Assistance Corporation certain corporate powers.
+Section 2278b–4, Pub. L. 92–181, title VI, § 6.24, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1596; amended Pub. L. 100–399, title II, § 201(a), (b), Aug. 17, 1988, 102 Stat. 990, granted the Financial Assistance Corporation certain corporate powers.
 
-Section 2278b–5, Pub. L. 92–181, title VI, § 6.25, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1597, established the Farm Credit Assistance Fund and the Financial Assistance Corporation Trust Fund.
+Section 2278b–5, Pub. L. 92–181, title VI, § 6.25, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1597, established the Farm Credit Assistance Fund and the Financial Assistance Corporation Trust Fund.
 
-Section 2278b–6, Pub. L. 92–181, title VI, § 6.26, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1597; amended Pub. L. 100–399, title II, § 201(p)–(x), Aug. 17, 1988, 102 Stat. 991, 992; Pub. L. 102–552, title III, §§ 302–304(a), 305, 306, Oct. 28, 1992, 106 Stat. 4109–4111, 4114, related to debt obligations issued by the Financial Assistance Corporation.
+Section 2278b–6, Pub. L. 92–181, title VI, § 6.26, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1597; amended Pub. L. 100–399, title II, § 201(p)–(x), Aug. 17, 1988, 102 Stat. 991, 992; Pub. L. 102–552, title III, §§ 302–304(a), 305, 306, Oct. 28, 1992, 106 Stat. 4109–4111, 4114, related to debt obligations issued by the Financial Assistance Corporation.
 
-Section 2278b–7, Pub. L. 92–181, title VI, § 6.27, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1602; amended Pub. L. 100–399, title II, § 201(y)–(aa), Aug. 17, 1988, 102 Stat. 992, provided for System institution issuance of preferred stock subject to such terms and conditions as authorized by the Assistance Board.
+Section 2278b–7, Pub. L. 92–181, title VI, § 6.27, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1602; amended Pub. L. 100–399, title II, § 201(y)–(aa), Aug. 17, 1988, 102 Stat. 992, provided for System institution issuance of preferred stock subject to such terms and conditions as authorized by the Assistance Board.
 
-Section 2278b–8, Pub. L. 92–181, title VI, § 6.28, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1603; amended Pub. L. 100–399, title II, § 201(bb), Aug. 17, 1988, 102 Stat. 992; Pub. L. 102–552, title III, § 304(b), Oct. 28, 1992, 106 Stat. 4114, provided for reimbursement to the Financial Assistance Corporation of certain interest charges.
+Section 2278b–8, Pub. L. 92–181, title VI, § 6.28, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1603; amended Pub. L. 100–399, title II, § 201(bb), Aug. 17, 1988, 102 Stat. 992; Pub. L. 102–552, title III, § 304(b), Oct. 28, 1992, 106 Stat. 4114, provided for reimbursement to the Financial Assistance Corporation of certain interest charges.
 
-Section 2278b–9, Pub. L. 92–181, title VI, § 6.29, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1603; amended Pub. L. 100–460, title VI, § 646, Oct. 1, 1988, 102 Stat. 2266, related to one-time stock purchases by System institutions from the Financial Assistance Corporation.
+Section 2278b–9, Pub. L. 92–181, title VI, § 6.29, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1603; amended Pub. L. 100–460, title VI, § 646, Oct. 1, 1988, 102 Stat. 2266, related to one-time stock purchases by System institutions from the Financial Assistance Corporation.
 
-Section 2278b–10, Pub. L. 92–181, title VI, § 6.30, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1604, exempted the Financial Assistance Corporation from various taxes.
+Section 2278b–10, Pub. L. 92–181, title VI, § 6.30, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1604, exempted the Financial Assistance Corporation from various taxes.
 
-Section 2278b–11, Pub. L. 92–181, title VI, § 6.31, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1605; amended Pub. L. 102–552, title III, § 307(b), Oct. 28, 1992, 106 Stat. 4116, provided for termination of the Financial Assistance Corporation and transfer of remaining funds into the Insurance Fund.
+Section 2278b–11, Pub. L. 92–181, title VI, § 6.31, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1605; amended Pub. L. 102–552, title III, § 307(b), Oct. 28, 1992, 106 Stat. 4116, provided for termination of the Financial Assistance Corporation and transfer of remaining funds into the Insurance Fund.
 
 ## SUBCHAPTER VII—RESTRUCTURING OF SYSTEM INSTITUTIONS
 
@@ -8529,11 +8529,11 @@ Section 2278b–11, Pub. L. 92–181, title VI, § 6.31, as added Pub. L. 100�
 
 **Codification**
 
-Pub. L. 100–399, title IV, § 408(a), Aug. 17, 1988, 102 Stat. 1001, substituted “RESTRUCTURING OF” for “MERGERS OF” in subchapter heading.
+Pub. L. 100–399, title IV, § 408(a), Aug. 17, 1988, 102 Stat. 1001, substituted “RESTRUCTURING OF” for “MERGERS OF” in subchapter heading.
 
 ### Part A—Merger of Banks Within a District
 
-#### § 2279a. Power to merge
+#### § 2279a. Power to merge
 
 The banks within a district may merge into a single entity (hereinafter in this subchapter referred to as a “merged bank”) if the plan of merger is approved by—
 
@@ -8545,7 +8545,7 @@ The banks within a district may merge into a single entity (hereinafter in this 
 
 **(4)** in the case of a bank for cooperatives, a majority of the total equity interests in such merging bank for cooperatives (including allocated, but not unallocated, surplus and reserves) held by those stockholders or subscribers to the guaranty fund of the bank voting.
 
-(Pub. L. 92–181, title VII, § 7.0, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1645; amended Pub. L. 100–399, title IV, § 408(b), Aug. 17, 1988, 102 Stat. 1001.)
+(Pub. L. 92–181, title VII, § 7.0, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1645; amended Pub. L. 100–399, title IV, § 408(b), Aug. 17, 1988, 102 Stat. 1001.)
 
 **Editorial Notes**
 
@@ -8559,11 +8559,11 @@ The banks within a district may merge into a single entity (hereinafter in this 
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2279a–1. Board of directors
+#### § 2279a–1. Board of directors
 
 Each merged bank shall elect a board of directors of such number, for such term, in such manner, and with such qualifications, as may be required in its bylaws, except that at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.
 
-(Pub. L. 92–181, title VII, § 7.1, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1645; amended Pub. L. 100–399, title IV, § 408(c), Aug. 17, 1988, 102 Stat. 1001.)
+(Pub. L. 92–181, title VII, § 7.1, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1645; amended Pub. L. 100–399, title IV, § 408(c), Aug. 17, 1988, 102 Stat. 1001.)
 
 **Editorial Notes**
 
@@ -8577,7 +8577,7 @@ Each merged bank shall elect a board of directors of such number, for such term,
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2279a–2. Powers of merged banks
+#### § 2279a–2. Powers of merged banks
 
 **(a) In general**
 
@@ -8587,19 +8587,19 @@ Except as otherwise provided in this subchapter, a merged bank shall have all of
 
 The Farm Credit Administration shall issue regulations that establish the manner in which the powers and obligations of the banks that form the merged bank are consolidated, and to the extent necessary, reconciled in the merged bank.
 
-(Pub. L. 92–181, title VII, § 7.2, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1645.)
+(Pub. L. 92–181, title VII, § 7.2, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1645.)
 
-#### § 2279a–3. Capitalization
+#### § 2279a–3. Capitalization
 
 In accordance with section 2154a of this title, each merged bank shall provide, through bylaws and subject to Farm Credit Administration regulations, for the capitalization of the bank and the manner in which bank stock shall be issued, held, transferred, and retired and bank earnings distributed.
 
-(Pub. L. 92–181, title VII, § 7.3, as added Pub. L. 100–399, title IV, § 408(d), Aug. 17, 1988, 102 Stat. 1001.)
+(Pub. L. 92–181, title VII, § 7.3, as added Pub. L. 100–399, title IV, § 408(d), Aug. 17, 1988, 102 Stat. 1001.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2279a–3, Pub. L. 92–181, title VII, § 7.3, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1645, related to issuance of shares of capital stock, prior to repeal by Pub. L. 100–399, title IV, § 408(d), Aug. 17, 1988, 102 Stat. 1001.
+A prior section 2279a–3, Pub. L. 92–181, title VII, § 7.3, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1645, related to issuance of shares of capital stock, prior to repeal by Pub. L. 100–399, title IV, § 408(d), Aug. 17, 1988, 102 Stat. 1001.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8607,9 +8607,9 @@ A prior section 2279a–3, Pub. L. 92–181, title VII, § 7.3, as added Pub. 
 
 Section effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as an Effective Date of 1988 Amendment note under section 2002 of this title.
 
-#### § 2279a–4. Repealed. Pub. L. 100–399, title IV, § 408(d), Aug. 17, 1988, 102 Stat. 1001
+#### § 2279a–4. Repealed. Pub. L. 100–399, title IV, § 408(d), Aug. 17, 1988, 102 Stat. 1001
 
-Section, Pub. L. 92–181, title VII, § 7.4, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1646, related to earnings, reserves, and distributions with regard to merged banks. See section 2279a–3 of this title.
+Section, Pub. L. 92–181, title VII, § 7.4, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1646, related to earnings, reserves, and distributions with regard to merged banks. See section 2279a–3 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8617,19 +8617,19 @@ Section, Pub. L. 92–181, title VII, § 7.4, as added Pub. L. 100–233, titl
 
 Repeal effective as if repealing provisions had been enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as an Effective Date of 1988 Amendment note under section 2002 of this title.
 
-#### § 2279a–5. Transferred
+#### § 2279a–5. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 92–181, title VII, § 7.5, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1646, which required reports by merged banks for cooperatives, was renumbered section 3.29 of title III of Pub. L. 92–181 by Pub. L. 100–399, title IV, § 408(e), Aug. 17, 1988, 102 Stat. 1001, and was classified to section 2149a of this title, prior to repeal by Pub. L. 115–334, title V, § 5411(16), Dec. 20, 2018, 132 Stat. 4680.
+Section, Pub. L. 92–181, title VII, § 7.5, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1646, which required reports by merged banks for cooperatives, was renumbered section 3.29 of title III of Pub. L. 92–181 by Pub. L. 100–399, title IV, § 408(e), Aug. 17, 1988, 102 Stat. 1001, and was classified to section 2149a of this title, prior to repeal by Pub. L. 115–334, title V, § 5411(16), Dec. 20, 2018, 132 Stat. 4680.
 
 ### Part B—Mergers, Transfers of Assets, and Powers of Associations Within a District
 
 #### subpart 1—transfers by federal land banks to federal land bank associations
 
-##### § 2279b. Transfer of lending authority
+##### § 2279b. Transfer of lending authority
 
 **(a) Voluntary transfers** A Federal land bank or a merged bank having a Federal land bank as one of its constituents, may transfer to a Federal land bank association, and the association may assume, the authority of the transferring bank in the territorial area served by the association, to make and participate in long-term real estate mortgage loans under this chapter if the transfer is approved by—
 
@@ -8653,23 +8653,23 @@ The Farm Credit Administration shall issue regulations that establish the manner
 
 On the merger of one or more production credit associations with one or more Federal land bank associations, the bank supervising the Federal land bank association shall transfer all of the direct lending authority of the bank in the territory served by such Federal land bank association to such merged association.
 
-(Pub. L. 92–181, title VII, § 7.6, formerly §§ 7.6, 7.7, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1647; amended Pub. L. 100–399, title IV, § 408(f)–(j), Aug. 17, 1988, 102 Stat. 1001, 1002.)
+(Pub. L. 92–181, title VII, § 7.6, formerly §§ 7.6, 7.7, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1647; amended Pub. L. 100–399, title IV, § 408(f)–(j), Aug. 17, 1988, 102 Stat. 1001, 1002.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 100–399, § 408(j), transferred section 7.7 of Pub. L. 92–181, which was classified to section 2279c of this title, to subsec. (d) of this section.
+Pub. L. 100–399, § 408(j), transferred section 7.7 of Pub. L. 92–181, which was classified to section 2279c of this title, to subsec. (d) of this section.
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–399, § 408(f), substituted “Voluntary transfers” for “Assignments” as subsection heading, and in text substituted “may transfer” for “may assign”, “this chapter” for “sections 2014 through 2017 of this title”, and “transfer is approved” for “assignment is approved” in introductory provisions, and “sections 2279a and 2279c–1 of this title, respectively” for “sections 2279a and 2279b of this title” in par. (3).
+1988—Subsec. (a). Pub. L. 100–399, § 408(f), substituted “Voluntary transfers” for “Assignments” as subsection heading, and in text substituted “may transfer” for “may assign”, “this chapter” for “sections 2014 through 2017 of this title”, and “transfer is approved” for “assignment is approved” in introductory provisions, and “sections 2279a and 2279c–1 of this title, respectively” for “sections 2279a and 2279b of this title” in par. (3).
 
-Subsec. (b). Pub. L. 100–399, § 408(g), substituted “a transfer described in subsection (a) or (d)” for “an assignment described in subsection (a)” in introductory provisions and “the bank may provide” for “the Federal land bank may provide” in par. (2).
+Subsec. (b). Pub. L. 100–399, § 408(g), substituted “a transfer described in subsection (a) or (d)” for “an assignment described in subsection (a)” in introductory provisions and “the bank may provide” for “the Federal land bank may provide” in par. (2).
 
-Subsec. (c). Pub. L. 100–399, § 408(h), struck out “assignments or” before “transfers are consolidated” and struck out second sentence, which provided that, following a transfer or assignment under subsection (a) of this section, the provisions of section 2154a of this title were to be applicable to the association.
+Subsec. (c). Pub. L. 100–399, § 408(h), struck out “assignments or” before “transfers are consolidated” and struck out second sentence, which provided that, following a transfer or assignment under subsection (a) of this section, the provisions of section 2154a of this title were to be applicable to the association.
 
-Subsec. (d). Pub. L. 100–399, § 408(i), (j), transferred section 2279c of this title to subsec. (d) of this section, substituted heading for former section heading, and amended text generally. Prior to amendment, text read as follows: “On the merger of one or more production credit associations with one or more Federal land bank associations, the bank supervising the Federal land bank association shall transfer all of its direct lending authority of the bank to such association under section 2279c–1 of this title.”
+Subsec. (d). Pub. L. 100–399, § 408(i), (j), transferred section 2279c of this title to subsec. (d) of this section, substituted heading for former section heading, and amended text generally. Prior to amendment, text read as follows: “On the merger of one or more production credit associations with one or more Federal land bank associations, the bank supervising the Federal land bank association shall transfer all of its direct lending authority of the bank to such association under section 2279c–1 of this title.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8677,7 +8677,7 @@ Subsec. (d). Pub. L. 100–399, § 408(i), (j), transferred section 2279c of t
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-##### § 2279c. Equalization of loan-making powers of certain district associations
+##### § 2279c. Equalization of loan-making powers of certain district associations
 
 **(a) Equalization of loan-making powers**
 
@@ -8705,7 +8705,7 @@ Notwithstanding section 2252(a) of this title, the Farm Credit Bank with which a
 
 This section applies only to associations the chartered territory of which was within the geographic area served by the Federal intermediate credit bank immediately prior to its merger with a Farm Credit Bank under section 410(e)(1) of the Agricultural Credit Act of 1987 (12 U.S.C. 2011 note; Public Law 100–233).
 
-(Pub. L. 92–181, title VII, § 7.7, as added Pub. L. 110–234, title V, § 5407(a), May 22, 2008, 122 Stat. 1159, and Pub. L. 110–246, § 4(a), title V, § 5407(a), June 18, 2008, 122 Stat. 1664, 1921.)
+(Pub. L. 92–181, title VII, § 7.7, as added Pub. L. 110–234, title V, § 5407(a), May 22, 2008, 122 Stat. 1159, and Pub. L. 110–246, § 4(a), title V, § 5407(a), June 18, 2008, 122 Stat. 1664, 1921.)
 
 **Editorial Notes**
 
@@ -8715,7 +8715,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 2279c, Pub. L. 92–181, title VII, § 7.7, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1647; amended Pub. L. 100–399, title IV, § 408(i), (j), Aug. 17, 1988, 102 Stat. 1002, related to mergers of unlike associations, prior to renumbering as section 7.6(d) of Pub. L. 92–181 and transfer to section 2279b(d) of this title.
+A prior section 2279c, Pub. L. 92–181, title VII, § 7.7, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1647; amended Pub. L. 100–399, title IV, § 408(i), (j), Aug. 17, 1988, 102 Stat. 1002, related to mergers of unlike associations, prior to renumbering as section 7.6(d) of Pub. L. 92–181 and transfer to section 2279b(d) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8727,7 +8727,7 @@ Section effective Jan. 1, 2010, see section 5407(d) of Pub. L. 110–246, set ou
 
 #### subpart 2—merger of like and unlike associations
 
-##### § 2279c–1. Merger of associations
+##### § 2279c–1. Merger of associations
 
 **(a) In general** Two or more associations within the same district, whether or not organized under the same subchapter of this chapter, may merge into a single entity (hereinafter in this subchapter referred to as a “merged association”) if the plan of merger is approved by—
 
@@ -8761,19 +8761,19 @@ Subject to section 2154a of this title, the number of shares of capital stock is
 
 In accordance with section 2154a of this title, each merged association shall provide, through bylaws and subject to Farm Credit Administration regulations, for the capitalization of the association and the manner in which association stock shall be issued, held, transferred, and retired, and association earnings shall be distributed.
 
-(Pub. L. 92–181, title VII, § 7.8, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1647; amended Pub. L. 100–399, title IV, § 408(k), (*l*), Aug. 17, 1988, 102 Stat. 1002.)
+(Pub. L. 92–181, title VII, § 7.8, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1647; amended Pub. L. 100–399, title IV, § 408(k), (*l*), Aug. 17, 1988, 102 Stat. 1002.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (b)(2). Pub. L. 100–399, § 408(k), struck out second sentence, which directed that, following a merger under subsection (a) of this section, the provisions of section 2154a of this title were to be applicable to the merged association.
+1988—Subsec. (b)(2). Pub. L. 100–399, § 408(k), struck out second sentence, which directed that, following a merger under subsection (a) of this section, the provisions of section 2154a of this title were to be applicable to the merged association.
 
-Subsec. (c)(2). Pub. L. 100–399, § 408(*l*), substituted “Capitalization” for “Plan of capitalization” as par. (2) heading and amended text generally. Prior to amendment, text read as follows: “The number of shares of capital stock, and the rights and privileges thereof, issued by a merged association after a merger shall be determined by the Board of Directors of the merged association, with the approval of the supervising bank, and shall be consistent with section 2154a of this title and the regulations issued by the Farm Credit Administration.”
+Subsec. (c)(2). Pub. L. 100–399, § 408(*l*), substituted “Capitalization” for “Plan of capitalization” as par. (2) heading and amended text generally. Prior to amendment, text read as follows: “The number of shares of capital stock, and the rights and privileges thereof, issued by a merged association after a merger shall be determined by the Board of Directors of the merged association, with the approval of the supervising bank, and shall be consistent with section 2154a of this title and the regulations issued by the Farm Credit Administration.”
 
-Subsec. (c)(3). Pub. L. 100–399, § 408(*l*), struck out par. (3) which read as follows: “Voting stock of a merged association shall be issued to and held by farmers, ranchers, or producers or harvesters of aquatic products who are or were, immediately prior to the merger, direct borrowers from one of the associations forming the merged association or the supervising bank of such merged association.”
+Subsec. (c)(3). Pub. L. 100–399, § 408(*l*), struck out par. (3) which read as follows: “Voting stock of a merged association shall be issued to and held by farmers, ranchers, or producers or harvesters of aquatic products who are or were, immediately prior to the merger, direct borrowers from one of the associations forming the merged association or the supervising bank of such merged association.”
 
-Subsec. (d). Pub. L. 100–399, § 408(*l*), struck out subsec. (d) which read as follows: “The plan of merger shall provide for the issuance, transfer, and retirement of stock and the distribution of earnings in accordance with the provisions of section 2154a of this title.”
+Subsec. (d). Pub. L. 100–399, § 408(*l*), struck out subsec. (d) which read as follows: “The plan of merger shall provide for the issuance, transfer, and retirement of stock and the distribution of earnings in accordance with the provisions of section 2154a of this title.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8783,7 +8783,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### subpart 3—reconsideration
 
-##### § 2279c–2. Reconsideration
+##### § 2279c–2. Reconsideration
 
 **(a) Period** A stockholder vote in favor of—
 
@@ -8825,7 +8825,7 @@ If a majority of stockholders of any one of the affected banks or associations v
 
 If a petition for reconsideration of such vote is either not filed prior to the 60th day after the vote or, if timely filed, is not signed by at least 15 percent of the stockholders, the merger, transfer, or termination shall become effective in accordance with the plan of merger, transfer, or termination.
 
-(Pub. L. 92–181, title VII, § 7.9, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1648; amended Pub. L. 100–399, title IV, § 408(n), (*o*), Aug. 17, 1988, 102 Stat. 1002; Pub. L. 115–334, title V, § 5411(40), Dec. 20, 2018, 132 Stat. 4683.)
+(Pub. L. 92–181, title VII, § 7.9, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1648; amended Pub. L. 100–399, title IV, § 408(n), (*o*), Aug. 17, 1988, 102 Stat. 1002; Pub. L. 115–334, title V, § 5411(40), Dec. 20, 2018, 132 Stat. 4683.)
 
 **Editorial Notes**
 
@@ -8833,23 +8833,23 @@ If a petition for reconsideration of such vote is either not filed prior to the 
 
 2018—Subsec. (c). Pub. L. 115–334 struck out subsec. (c) which related to special reconsideration regarding the organization as a separate association by certain associations that had voluntarily merged with one or more associations.
 
-1988—Subsec. (a)(1). Pub. L. 100–399, § 408(n)(1), substituted “this chapter” for “section 2252(a)(2) of this title”.
+1988—Subsec. (a)(1). Pub. L. 100–399, § 408(n)(1), substituted “this chapter” for “section 2252(a)(2) of this title”.
 
-Subsec. (a)(4). Pub. L. 100–399, § 408(n)(5), redesignated par. (5) as (4).
+Subsec. (a)(4). Pub. L. 100–399, § 408(n)(5), redesignated par. (5) as (4).
 
-Pub. L. 100–399, § 408(n)(2), inserted reference to section 2279f–1 of this title.
+Pub. L. 100–399, § 408(n)(2), inserted reference to section 2279f–1 of this title.
 
-Subsec. (a)(5). Pub. L. 100–399, § 408(n)(5), redesignated par. (6) as (5). Former par. (5) redesignated (4).
+Subsec. (a)(5). Pub. L. 100–399, § 408(n)(5), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
-Pub. L. 100–399, § 408(n)(3), substituted “or” for “and”.
+Pub. L. 100–399, § 408(n)(3), substituted “or” for “and”.
 
-Subsec. (a)(6). Pub. L. 100–399, § 408(n)(5), redesignated par. (7) as (6). Former par. (6) redesignated (5).
+Subsec. (a)(6). Pub. L. 100–399, § 408(n)(5), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
-Pub. L. 100–399, § 408(n)(4), substituted “section 2279f” for “section 2279f–1”.
+Pub. L. 100–399, § 408(n)(4), substituted “section 2279f” for “section 2279f–1”.
 
-Subsec. (a)(7). Pub. L. 100–399, § 408(n)(5), redesignated par. (7) as (6).
+Subsec. (a)(7). Pub. L. 100–399, § 408(n)(5), redesignated par. (7) as (6).
 
-Subsec. (b)(2). Pub. L. 100–399, § 408(*o*), struck out comma before “shall not take effect” and substituted “such banks or” for “such”.
+Subsec. (b)(2). Pub. L. 100–399, § 408(*o*), struck out comma before “shall not take effect” and substituted “such banks or” for “such”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8863,9 +8863,9 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 **Codification**
 
-Pub. L. 100–399, title IV, § 408(m), Aug. 17, 1988, 102 Stat. 1002, redesignated subpart 3 as 4.
+Pub. L. 100–399, title IV, § 408(m), Aug. 17, 1988, 102 Stat. 1002, redesignated subpart 3 as 4.
 
-##### § 2279d. Termination of System institution status
+##### § 2279d. Termination of System institution status
 
 **(a) Conditions** A System institution may terminate the status of the institution as a System institution if—
 
@@ -8889,7 +8889,7 @@ Pub. L. 100–399, title IV, § 408(m), Aug. 17, 1988, 102 Stat. 1002, redesig
 
 **(2)** the institution shall no longer be an instrumentality of the United States under this chapter.
 
-(Pub. L. 92–181, title VII, § 7.10, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1650; amended Pub. L. 115–334, title V, § 5411(41), Dec. 20, 2018, 132 Stat. 4683.)
+(Pub. L. 92–181, title VII, § 7.10, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1650; amended Pub. L. 115–334, title V, § 5411(41), Dec. 20, 2018, 132 Stat. 4683.)
 
 **Editorial Notes**
 
@@ -8899,7 +8899,7 @@ Pub. L. 100–399, title IV, § 408(m), Aug. 17, 1988, 102 Stat. 1002, redesig
 
 ### Part C—Approval of Disclosure Information and Issuance of Charters by the Farm Credit Administration Board
 
-#### § 2279e. Approval of disclosure information and issuance of charters
+#### § 2279e. Approval of disclosure information and issuance of charters
 
 **(a) Disclosure of information**
 
@@ -8919,7 +8919,7 @@ If the Farm Credit Administration Board disapproves the plan for submission to t
 
 Each plan of merger or transfer of lending authority may include a proposed new or revised Federal charter for the merged or transferee entity. The Farm Credit Administration Board shall issue such charter on the approval of the plan, as prescribed in this subchapter, unless the Board determines that the charter submitted is not consistent with this chapter.
 
-(Pub. L. 92–181, title VII, § 7.11, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1651; amended Pub. L. 100–399, title IV, § 408(p), Aug. 17, 1988, 102 Stat. 1002; Pub. L. 102–237, title V, § 502(n), Dec. 13, 1991, 105 Stat. 1870.)
+(Pub. L. 92–181, title VII, § 7.11, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1651; amended Pub. L. 100–399, title IV, § 408(p), Aug. 17, 1988, 102 Stat. 1002; Pub. L. 102–237, title V, § 502(n), Dec. 13, 1991, 105 Stat. 1870.)
 
 **Editorial Notes**
 
@@ -8937,7 +8937,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 ### Part D—Mergers of Like Entities
 
-#### § 2279f. Merger of similar banks
+#### § 2279f. Merger of similar banks
 
 **(a) In general** Banks organized or operating under this chapter may merge with banks in other districts operating under the same subchapter if the plan of merger is approved by—
 
@@ -8979,15 +8979,15 @@ If the other members of the board fail to elect an outside director, the Farm Cr
 
 Notwithstanding paragraph (2), the bylaws of the merged bank may, with the approval of the Farm Credit Administration, provide for a different number of directors to be selected in a different manner, except that the bylaws shall provide for at least one outside director.
 
-(Pub. L. 92–181, title VII, § 7.12, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1652; amended Pub. L. 100–399, title IV, § 408(q), (r), Aug. 17, 1988, 102 Stat. 1002, 1003.)
+(Pub. L. 92–181, title VII, § 7.12, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1652; amended Pub. L. 100–399, title IV, § 408(q), (r), Aug. 17, 1988, 102 Stat. 1002, 1003.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (b). Pub. L. 100–399, § 408(q), substituted “Powers and capitalization” for “Procedures” in heading and, in amending text generally, substituted “Sections 2279a–2 and 2279a–3 of this title” for “The provisions of sections 2279a–2 through 2279a–4 of this title”.
+1988—Subsec. (b). Pub. L. 100–399, § 408(q), substituted “Powers and capitalization” for “Procedures” in heading and, in amending text generally, substituted “Sections 2279a–2 and 2279a–3 of this title” for “The provisions of sections 2279a–2 through 2279a–4 of this title”.
 
-Subsec. (c)(2)(B). Pub. L. 100–399, § 408(r), substituted “directors” for “members”.
+Subsec. (c)(2)(B). Pub. L. 100–399, § 408(r), substituted “directors” for “members”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8995,7 +8995,7 @@ Subsec. (c)(2)(B). Pub. L. 100–399, § 408(r), substituted “directors” f
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2279f–1. Merger of similar associations
+#### § 2279f–1. Merger of similar associations
 
 **(a) In general** Associations may voluntarily merge with other like associations if the plan of merger is approved by—
 
@@ -9011,15 +9011,15 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 The provisions of subsections (b) and (c) of section 2279c–1 of this title shall apply to associations merged under this section.
 
-(Pub. L. 92–181, title VII, § 7.13, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1653; amended Pub. L. 100–399, title IV, § 408(s), (t), Aug. 17, 1988, 102 Stat. 1003.)
+(Pub. L. 92–181, title VII, § 7.13, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1653; amended Pub. L. 100–399, title IV, § 408(s), (t), Aug. 17, 1988, 102 Stat. 1003.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (a)(4). Pub. L. 100–399, § 408(s), substituted “the Farm Credit Banks involved” for “the Farm Credit Bank”.
+1988—Subsec. (a)(4). Pub. L. 100–399, § 408(s), substituted “the Farm Credit Banks involved” for “the Farm Credit Bank”.
 
-Subsec. (b). Pub. L. 100–399, § 408(t), substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)”.
+Subsec. (b). Pub. L. 100–399, § 408(t), substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9029,11 +9029,11 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 ### Part E—Taxation of Merger Transactions
 
-#### § 2279g. Transactions to accomplish mergers exempt from certain State taxes
+#### § 2279g. Transactions to accomplish mergers exempt from certain State taxes
 
 No State or political subdivision thereof may treat the merger or consolidation of two or more institutions of the Farm Credit System under this subchapter or title IV of the Agricultural Credit Act of 1987 as resulting in a change of ownership of any property owned by any of such merging or consolidating institutions, for purposes of any law of such State or political subdivision providing for reassessment of property on the occurrence of a change of ownership or imposing a tax on the ownership or transfer of property.
 
-(Pub. L. 92–181, title VII, § 7.14, as added Pub. L. 100–399, title IV, § 408(u), Aug. 17, 1988, 102 Stat. 1003.)
+(Pub. L. 92–181, title VII, § 7.14, as added Pub. L. 100–399, title IV, § 408(u), Aug. 17, 1988, 102 Stat. 1003.)
 
 **Editorial Notes**
 
@@ -9049,7 +9049,7 @@ Section effective as if enacted immediately after enactment of Pub. L. 100–233
 
 ## SUBCHAPTER VIII—AGRICULTURAL MORTGAGE SECONDARY MARKET
 
-### § 2279aa. Definitions
+### § 2279aa. Definitions
 
 For purposes of this subchapter:
 
@@ -9115,15 +9115,15 @@ The term “originator” means any Farm Credit System institution, bank, insura
 
 The term “State” has the meaning given such term in section 2277a of this title.
 
-(Pub. L. 92–181, title VIII, § 8.0, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1686; amended Pub. L. 100–399, title VI, § 601(a), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 101–624, title XVIII, § 1839, Nov. 28, 1990, 104 Stat. 3834; Pub. L. 104–105, title I, §§ 101, 102, 108(c)(1), 109(b)(1), Feb. 10, 1996, 110 Stat. 163–165; Pub. L. 110–234, title V, § 5406(a), May 22, 2008, 122 Stat. 1158; Pub. L. 110–246, § 4(a), title V, § 5406(a), June 18, 2008, 122 Stat. 1664, 1920; Pub. L. 115–334, title V, § 5411(42), Dec. 20, 2018, 132 Stat. 4683.)
+(Pub. L. 92–181, title VIII, § 8.0, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1686; amended Pub. L. 100–399, title VI, § 601(a), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 101–624, title XVIII, § 1839, Nov. 28, 1990, 104 Stat. 3834; Pub. L. 104–105, title I, §§ 101, 102, 108(c)(1), 109(b)(1), Feb. 10, 1996, 110 Stat. 163–165; Pub. L. 110–234, title V, § 5406(a), May 22, 2008, 122 Stat. 1158; Pub. L. 110–246, § 4(a), title V, § 5406(a), June 18, 2008, 122 Stat. 1664, 1920; Pub. L. 115–334, title V, § 5411(42), Dec. 20, 2018, 132 Stat. 4683.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consolidated Farm and Rural Development Act, referred to in par. (7)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in par. (7)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
-The Rural Electrification Act of 1936, referred to in par. (7)(C), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
+The Rural Electrification Act of 1936, referred to in par. (7)(C), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
 
 **Codification**
 
@@ -9131,7 +9131,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Par. (2). Pub. L. 115–334, § 5411(42)(A), substituted “means the board of directors established under section 2279aa–2 of this title.” for “means—
+2018—Par. (2). Pub. L. 115–334, § 5411(42)(A), substituted “means the board of directors established under section 2279aa–2 of this title.” for “means—
 
 “(A) the interim board of directors established in section 2279aa–2(a) of this title; and
 
@@ -9139,27 +9139,27 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 as the case may be.”
 
-Par. (6). Pub. L. 115–334, § 5411(42)(B), (C), redesignated par. (7) as (6) and struck out former par. (6) which defined “interim board” to mean the interim board of directors established in section 2279aa–2(a) of this title.
+Par. (6). Pub. L. 115–334, § 5411(42)(B), (C), redesignated par. (7) as (6) and struck out former par. (6) which defined “interim board” to mean the interim board of directors established in section 2279aa–2(a) of this title.
 
-Par. (7). Pub. L. 115–334, § 5411(42)(C), (D), redesignated par. (9) as (7) and substituted “(b) and (c)” for “(b) through (d)” in subpar. (B)(i). Former par. (7) redesignated (6).
+Par. (7). Pub. L. 115–334, § 5411(42)(C), (D), redesignated par. (9) as (7) and substituted “(b) and (c)” for “(b) through (d)” in subpar. (B)(i). Former par. (7) redesignated (6).
 
-Par. (8). Pub. L. 115–334, § 5411(42)(B), (C), redesignated par. (10) as (8) and struck out former par. (8) which defined “permanent board” to mean the permanent board of directors established in section 2279aa–2(b) of this title.
+Par. (8). Pub. L. 115–334, § 5411(42)(B), (C), redesignated par. (10) as (8) and struck out former par. (8) which defined “permanent board” to mean the permanent board of directors established in section 2279aa–2(b) of this title.
 
-Pars. (9), (10). Pub. L. 115–334, § 5411(42)(C), redesignated pars. (9) and (10) as (7) and (8), respectively.
+Pars. (9), (10). Pub. L. 115–334, § 5411(42)(C), redesignated pars. (9) and (10) as (7) and (8), respectively.
 
-2008—Par. (9)(C). Pub. L. 110–246, § 5406(a), added subpar. (C).
+2008—Par. (9)(C). Pub. L. 110–246, § 5406(a), added subpar. (C).
 
-1996—Par. (1)(B)(ii). Pub. L. 104–105, § 101, substituted “, excluding the land to which the dwelling is affixed, with a value” for “with a purchase price”.
+1996—Par. (1)(B)(ii). Pub. L. 104–105, § 101, substituted “, excluding the land to which the dwelling is affixed, with a value” for “with a purchase price”.
 
-Par. (3)(A). Pub. L. 104–105, § 102(1), substituted “an agricultural mortgage marketing” for “a secondary marketing agricultural loan”.
+Par. (3)(A). Pub. L. 104–105, § 102(1), substituted “an agricultural mortgage marketing” for “a secondary marketing agricultural loan”.
 
-Par. (3)(B). Pub. L. 104–105, § 102(2), struck out “, but only with respect to qualified loans described in paragraph (9)(B)” after “thereof”.
+Par. (3)(B). Pub. L. 104–105, § 102(2), struck out “, but only with respect to qualified loans described in paragraph (9)(B)” after “thereof”.
 
-Par. (9)(B)(i). Pub. L. 104–105, §§ 108(c)(1), 109(b)(1), substituted “(d)” for “(f)” and “2279aa–8” for “2279aa–7, 2279aa–8,”.
+Par. (9)(B)(i). Pub. L. 104–105, §§ 108(c)(1), 109(b)(1), substituted “(d)” for “(f)” and “2279aa–8” for “2279aa–7, 2279aa–8,”.
 
-1990—Par. (3). Pub. L. 101–624, § 1839(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘certified facility’ means a secondary marketing agricultural loan facility that is certified under section 2279aa–5 of this title.”
+1990—Par. (3). Pub. L. 101–624, § 1839(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘certified facility’ means a secondary marketing agricultural loan facility that is certified under section 2279aa–5 of this title.”
 
-Par. (9). Pub. L. 101–624, § 1839(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘qualified loan’ means an obligation that—
+Par. (9). Pub. L. 101–624, § 1839(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘qualified loan’ means an obligation that—
 
 “(A) is secured by a fee-simple or leasehold mortgage with status as a first lien on agricultural real estate located in the United States that is not subject to any legal or equitable claims deriving from a preceding fee-simple or leasehold mortgage;
 
@@ -9185,9 +9185,9 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 **Statement of Purpose**
 
-Pub. L. 100–233, title VII, § 701, Jan. 6, 1988, 101 Stat. 1686, provided that:
+Pub. L. 100–233, title VII, § 701, Jan. 6, 1988, 101 Stat. 1686, provided that:
 
-> “It is the purpose of this subtitle [subtitle A (§§ 701–705) of title VII of Pub. L. 100–233, enacting this subchapter, amending sections 2012, 2033, 2072, and 2093 of this title and section 9105 of Title 31, Money and Finance, and enacting provisions set out as a note below]—
+> “It is the purpose of this subtitle [subtitle A (§§ 701–705) of title VII of Pub. L. 100–233, enacting this subchapter, amending sections 2012, 2033, 2072, and 2093 of this title and section 9105 of Title 31, Money and Finance, and enacting provisions set out as a note below]—
 
 > **“(1)** to establish a corporation chartered by the Federal Government;
 
@@ -9205,11 +9205,11 @@ Pub. L. 100–233, title VII, § 701, Jan. 6, 1988, 101 Stat. 1686, provided t
 
 **GAO Studies**
 
-Pub. L. 100–233, title VII, § 704, Jan. 6, 1988, 101 Stat. 1706, as amended by Pub. L. 100–399, title VI, § 603, Aug. 17, 1988, 102 Stat. 1006, directed Comptroller General of United States to conduct studies of (1) implementation of amendments made by subtitle A (§§ 701–705) of title VII of Pub. L. 100–233 (which enacted this subchapter and amended sections 2012, 2033, 2072, and 2093 of this title and section 9105 of Title 31, Money and Finance) by Federal Agricultural Mortgage Corporation and effect of operations of Corporation on producers, Farm Credit System, and other lenders, and capital markets, (2) feasibility and appropriateness of promoting establishment of a secondary market for securities representing interests in, or obligations backed by, pools of agricultural real estate loans for which a guarantee had not been provided by Federal Agricultural Mortgage Corporation, and (3) feasibility of expanding authority granted under amendments made by such subtitle A to authorize sale of securities based on or backed by a trust or pool consisting of loans made to farm-related and rural small businesses, and required, not later than Jan. 6, 1990, Comptroller General to transmit to Congress a report on the studies, including therein such recommendations for administrative action and legislation as might be appropriate.
+Pub. L. 100–233, title VII, § 704, Jan. 6, 1988, 101 Stat. 1706, as amended by Pub. L. 100–399, title VI, § 603, Aug. 17, 1988, 102 Stat. 1006, directed Comptroller General of United States to conduct studies of (1) implementation of amendments made by subtitle A (§§ 701–705) of title VII of Pub. L. 100–233 (which enacted this subchapter and amended sections 2012, 2033, 2072, and 2093 of this title and section 9105 of Title 31, Money and Finance) by Federal Agricultural Mortgage Corporation and effect of operations of Corporation on producers, Farm Credit System, and other lenders, and capital markets, (2) feasibility and appropriateness of promoting establishment of a secondary market for securities representing interests in, or obligations backed by, pools of agricultural real estate loans for which a guarantee had not been provided by Federal Agricultural Mortgage Corporation, and (3) feasibility of expanding authority granted under amendments made by such subtitle A to authorize sale of securities based on or backed by a trust or pool consisting of loans made to farm-related and rural small businesses, and required, not later than Jan. 6, 1990, Comptroller General to transmit to Congress a report on the studies, including therein such recommendations for administrative action and legislation as might be appropriate.
 
 ### Part A—Establishment and Activities of Federal Agricultural Mortgage Corporation
 
-#### § 2279aa–1. Federal Agricultural Mortgage Corporation
+#### § 2279aa–1. Federal Agricultural Mortgage Corporation
 
 **(a) Establishment**
 
@@ -9241,7 +9241,7 @@ The Farm Credit System and System institutions (other than the Corporation) shal
 
 **(4)** purchase qualified loans and issue securities representing interests in, or obligations backed by, the qualified loans, guaranteed for the timely repayment of principal and interest.
 
-(Pub. L. 92–181, title VIII, § 8.1, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1687; amended Pub. L. 104–105, title I, § 103, Feb. 10, 1996, 110 Stat. 163.)
+(Pub. L. 92–181, title VIII, § 8.1, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1687; amended Pub. L. 104–105, title I, § 103, Feb. 10, 1996, 110 Stat. 163.)
 
 **Editorial Notes**
 
@@ -9249,7 +9249,7 @@ The Farm Credit System and System institutions (other than the Corporation) shal
 
 1996—Subsec. (b)(4). Pub. L. 104–105 added par. (4).
 
-#### § 2279aa–2. Board of directors
+#### § 2279aa–2. Board of directors
 
 **(a) In general**
 
@@ -9329,21 +9329,21 @@ The Board shall meet at the call of the chairperson or a majority of its members
 
 The Board may appoint, employ, fix the pay of, and provide other allowances and benefits for such officers and employees of the Corporation as the Board determines to be appropriate.
 
-(Pub. L. 92–181, title VIII, § 8.2, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1688; amended Pub. L. 100–399, title VI, § 601(b), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 115–334, title V, § 5411(43), Dec. 20, 2018, 132 Stat. 4684.)
+(Pub. L. 92–181, title VIII, § 8.2, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1688; amended Pub. L. 100–399, title VI, § 601(b), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 115–334, title V, § 5411(43), Dec. 20, 2018, 132 Stat. 4684.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 5411(43)(A)–(C)(i), redesignated subsec. (b) as (a), substituted “In general” for “Permanent board” in heading and “Board” for “permanent board” wherever appearing in text, and struck out former subsec. (a) which established an interim board of directors until the first meeting of a permanent board of directors.
+2018—Subsec. (a). Pub. L. 115–334, § 5411(43)(A)–(C)(i), redesignated subsec. (b) as (a), substituted “In general” for “Permanent board” in heading and “Board” for “permanent board” wherever appearing in text, and struck out former subsec. (a) which established an interim board of directors until the first meeting of a permanent board of directors.
 
-Subsec. (a)(1). Pub. L. 115–334, § 5411(43)(B), added par. (1) and struck out former par. (1) which required the Corporation to establish a permanent board of directors for financial institutions once certain thresholds were met.
+Subsec. (a)(1). Pub. L. 115–334, § 5411(43)(B), added par. (1) and struck out former par. (1) which required the Corporation to establish a permanent board of directors for financial institutions once certain thresholds were met.
 
-Subsec. (a)(3). Pub. L. 115–334, § 5411(43)(C)(ii)–(iv), redesignated par. (4) as (3), substituted “paragraph (5)” for “paragraph (6)” in subpar. (A), and struck out former par. (3) which set a date by which the presidential appointees to the permanent board were to be appointed.
+Subsec. (a)(3). Pub. L. 115–334, § 5411(43)(C)(ii)–(iv), redesignated par. (4) as (3), substituted “paragraph (5)” for “paragraph (6)” in subpar. (A), and struck out former par. (3) which set a date by which the presidential appointees to the permanent board were to be appointed.
 
-Subsec. (a)(4) to (10). Pub. L. 115–334, § 5411(43)(C)(iii), redesignated pars. (5) to (10) as (4) to (9), respectively. Former par. (4) redesignated (3).
+Subsec. (a)(4) to (10). Pub. L. 115–334, § 5411(43)(C)(iii), redesignated pars. (5) to (10) as (4) to (9), respectively. Former par. (4) redesignated (3).
 
-Subsecs. (b), (c). Pub. L. 115–334, § 5411(43)(D), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+Subsecs. (b), (c). Pub. L. 115–334, § 5411(43)(D), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
 1988—Subsecs. (a)(1), (b)(3)(B). Pub. L. 100–399 substituted “date of the enactment” for “effective date”, both of which for purposes of codification were translated as “January 6, 1988,”.
 
@@ -9353,7 +9353,7 @@ Subsecs. (b), (c). Pub. L. 115–334, § 5411(43)(D), redesignated subsec. (c)
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2279aa–3. Powers and duties of Corporation and Board
+#### § 2279aa–3. Powers and duties of Corporation and Board
 
 **(a) Guarantees**
 
@@ -9429,17 +9429,17 @@ The Federal Reserve banks shall act as depositories for, and as fiscal agents or
 
 The Corporation shall have access to the book-entry system of the Federal Reserve System.
 
-(Pub. L. 92–181, title VIII, § 8.3, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1691; amended Pub. L. 100–399, title VI, § 601(c), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 102–237, title V, § 503(c), Dec. 13, 1991, 105 Stat. 1877; Pub. L. 102–552, title III, § 308(b)(1), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, §§ 104, 105, Feb. 10, 1996, 110 Stat. 163.)
+(Pub. L. 92–181, title VIII, § 8.3, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1691; amended Pub. L. 100–399, title VI, § 601(c), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 102–237, title V, § 503(c), Dec. 13, 1991, 105 Stat. 1877; Pub. L. 102–552, title III, § 308(b)(1), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, §§ 104, 105, Feb. 10, 1996, 110 Stat. 163.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (c)(13) to (15). Pub. L. 104–105, § 104, added par. (13) and redesignated former pars. (13) and (14) as (14) and (15), respectively.
+1996—Subsec. (c)(13) to (15). Pub. L. 104–105, § 104, added par. (13) and redesignated former pars. (13) and (14) as (14) and (15), respectively.
 
-Subsec. (d). Pub. L. 104–105, § 105(1), which directed the amendment of subsec. (d) by substituting “shall act as depositories for, and” for “may act as depositories for, or”, was executed by making the substitution for “may act as depositaries for, or” to reflect the probable intent of Congress.
+Subsec. (d). Pub. L. 104–105, § 105(1), which directed the amendment of subsec. (d) by substituting “shall act as depositories for, and” for “may act as depositories for, or”, was executed by making the substitution for “may act as depositaries for, or” to reflect the probable intent of Congress.
 
-Subsec. (e). Pub. L. 104–105, § 105(2), substituted “Corporation shall have access to” for “Secretary of the Treasury may authorize the Corporation to use”.
+Subsec. (e). Pub. L. 104–105, § 105(2), substituted “Corporation shall have access to” for “Secretary of the Treasury may authorize the Corporation to use”.
 
 1992—Subsec. (c)(13). Pub. L. 102–552 substituted “2279aa–11(e)” for “2279aa–11(g)”.
 
@@ -9453,7 +9453,7 @@ Subsec. (e). Pub. L. 104–105, § 105(2), substituted “Corporation shall ha
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2279aa–4. Stock issuance
+#### § 2279aa–4. Stock issuance
 
 **(a) Voting common stock**
 
@@ -9551,7 +9551,7 @@ Subject to paragraphs (2) and (3) of subsection (c), the holders of the preferre
 
 In the event of any liquidation, dissolution, or winding up of the business of the Corporation, the holders of the preferred shares of stock shall be paid in full at the par value thereof, plus all accrued dividends, before the holders of the common shares receive any payment.
 
-(Pub. L. 92–181, title VIII, § 8.4, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1692; amended Pub. L. 100–399, title VI, § 601(d), (e), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 115–334, title V, § 5411(44), Dec. 20, 2018, 132 Stat. 4684.)
+(Pub. L. 92–181, title VIII, § 8.4, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1692; amended Pub. L. 100–399, title VI, § 601(d), (e), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 115–334, title V, § 5411(44), Dec. 20, 2018, 132 Stat. 4684.)
 
 **Editorial Notes**
 
@@ -9559,9 +9559,9 @@ In the event of any liquidation, dissolution, or winding up of the business of t
 
 2018—Subsec. (a)(1). Pub. L. 115–334, within existing provisions, designated first and second sentences as subpars. (A) and (B), respectively, added subpar. (C) and struck out former third sentence which read “Voting shall be by classes as described in section 2279aa–2(a)(9) of this title.”, designated fourth to sixth sentences collectively as subpar. (D) and individually as cls. (i) to (iii), respectively, thereof, substituted “2279aa–2(a)(2)(A)” for “2279aa–2(b)(2)(A)” in subpar. (D)(ii) and “2279aa–2(a)(2)(B)” for “2279aa–2(b)(2)(B)” in subpar. (D)(iii), and inserted subpar. and cl. headings.
 
-1988—Subsec. (a)(1). Pub. L. 100–399, § 601(d), in penultimate sentence, inserted “and” after “institutions” and inserted “, including national banking associations (which shall be allowed to purchase and hold such stock)” before period at end.
+1988—Subsec. (a)(1). Pub. L. 100–399, § 601(d), in penultimate sentence, inserted “and” after “institutions” and inserted “, including national banking associations (which shall be allowed to purchase and hold such stock)” before period at end.
 
-Subsec. (e)(1). Pub. L. 100–399, § 601(e), substituted “books of the Corporation” for “books of the Association”.
+Subsec. (e)(1). Pub. L. 100–399, § 601(e), substituted “books of the Corporation” for “books of the Association”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9569,7 +9569,7 @@ Subsec. (e)(1). Pub. L. 100–399, § 601(e), substituted “books of the Corp
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2279aa–5. Certification of agricultural mortgage marketing facilities
+#### § 2279aa–5. Certification of agricultural mortgage marketing facilities
 
 **(a) Eligibility standards**
 
@@ -9625,19 +9625,19 @@ Notwithstanding any other provision of this chapter, any Farm Credit System inst
 
 Any number of Farm Credit System institutions (other than the Corporation) may enter into an agreement with any certified facility (including an affiliate established under paragraph (1)) to sell the qualified loans of such institutions exclusively to or through the facility.
 
-(Pub. L. 92–181, title VIII, § 8.5, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1694; amended Pub. L. 104–105, title I, § 106, Feb. 10, 1996, 110 Stat. 164.)
+(Pub. L. 92–181, title VIII, § 8.5, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1694; amended Pub. L. 104–105, title I, § 106, Feb. 10, 1996, 110 Stat. 164.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a)(1). Pub. L. 104–105, § 106(1)(A), inserted “(other than the Corporation)” after “facilities”.
+1996—Subsec. (a)(1). Pub. L. 104–105, § 106(1)(A), inserted “(other than the Corporation)” after “facilities”.
 
-Subsec. (a)(2). Pub. L. 104–105, § 106(1)(B), inserted “(other than the Corporation)” after “facility” in introductory provisions.
+Subsec. (a)(2). Pub. L. 104–105, § 106(1)(B), inserted “(other than the Corporation)” after “facility” in introductory provisions.
 
-Subsec. (e)(1). Pub. L. 104–105, § 106(2), struck out “(other than the Corporation)” after “System institution”.
+Subsec. (e)(1). Pub. L. 104–105, § 106(2), struck out “(other than the Corporation)” after “System institution”.
 
-#### § 2279aa–6. Guarantee of qualified loans
+#### § 2279aa–6. Guarantee of qualified loans
 
 **(a) Guarantee authorized for certified facilities**
 
@@ -9713,7 +9713,7 @@ Each obligation shall clearly indicate that the obligation is not an obligation 
 
 The Corporation may not issue obligations pursuant to paragraph (2) under this subsection while any obligation issued by the Corporation under section 2279aa–13(a) of this title remains outstanding.
 
-(Pub. L. 92–181, title VIII, § 8.6, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1695; amended Pub. L. 100–399, title VI, § 601(f)–(h), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 102–237, title V, § 503(d), Dec. 13, 1991, 105 Stat. 1877; Pub. L. 104–105, title I, §§ 107, 108(a), (c)(2), 109(a), (b)(4), Feb. 10, 1996, 110 Stat. 164, 165; Pub. L. 110–234, title V, § 5406(b), May 22, 2008, 122 Stat. 1158; Pub. L. 110–246, § 4(a), title V, § 5406(b), June 18, 2008, 122 Stat. 1664, 1920; Pub. L. 115–334, title V, § 5411(45), Dec. 20, 2018, 132 Stat. 4685.)
+(Pub. L. 92–181, title VIII, § 8.6, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1695; amended Pub. L. 100–399, title VI, § 601(f)–(h), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 102–237, title V, § 503(d), Dec. 13, 1991, 105 Stat. 1877; Pub. L. 104–105, title I, §§ 107, 108(a), (c)(2), 109(a), (b)(4), Feb. 10, 1996, 110 Stat. 164, 165; Pub. L. 110–234, title V, § 5406(b), May 22, 2008, 122 Stat. 1158; Pub. L. 110–246, § 4(a), title V, § 5406(b), June 18, 2008, 122 Stat. 1664, 1920; Pub. L. 115–334, title V, § 5411(45), Dec. 20, 2018, 132 Stat. 4685.)
 
 **Editorial Notes**
 
@@ -9723,19 +9723,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (d). Pub. L. 115–334, § 5411(45)(A), (B), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to aggregate principal amounts of qualified loans and limits on provision of guarantees during certain years.
+2018—Subsec. (d). Pub. L. 115–334, § 5411(45)(A), (B), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to aggregate principal amounts of qualified loans and limits on provision of guarantees during certain years.
 
-Subsec. (d)(2). Pub. L. 115–334, § 5411(45)(C), substituted “2279aa of this title)” for “2279aa(9) of this title)”.
+Subsec. (d)(2). Pub. L. 115–334, § 5411(45)(C), substituted “2279aa of this title)” for “2279aa(9) of this title)”.
 
-Subsec. (e). Pub. L. 115–334, § 5411(45)(B), redesignated subsec. (e) as (d).
+Subsec. (e). Pub. L. 115–334, § 5411(45)(B), redesignated subsec. (e) as (d).
 
-2008—Subsec. (a)(1)(A), (B)(i). Pub. L. 110–246, § 5406(b), inserted “applicable” before “standards”.
+2008—Subsec. (a)(1)(A), (B)(i). Pub. L. 110–246, § 5406(b), inserted “applicable” before “standards”.
 
-1996—Subsec. (a)(1). Pub. L. 104–105, § 107(1), designated part of existing text as subpar. (A) and added subpar. (B).
+1996—Subsec. (a)(1). Pub. L. 104–105, § 107(1), designated part of existing text as subpar. (A) and added subpar. (B).
 
-Subsec. (a)(2). Pub. L. 104–105, § 108(c)(2), struck out “subject to the provisions of subsection (b) of this section” after “paragraph (1),”.
+Subsec. (a)(2). Pub. L. 104–105, § 108(c)(2), struck out “subject to the provisions of subsection (b) of this section” after “paragraph (1),”.
 
-Subsec. (b). Pub. L. 104–105, §§ 108(a), 109(a)(2), redesignated subsec. (d) as (b) and struck out heading and text of former subsec.(b). Text read as follows: “In the case of any pool referred to in subsection (a) of this section, the Corporation shall—
+Subsec. (b). Pub. L. 104–105, §§ 108(a), 109(a)(2), redesignated subsec. (d) as (b) and struck out heading and text of former subsec.(b). Text read as follows: “In the case of any pool referred to in subsection (a) of this section, the Corporation shall—
 
 “(1) provide a guarantee only with respect to an individual pool of qualified loans on application of a certified facility;
 
@@ -9745,27 +9745,27 @@ Subsec. (b). Pub. L. 104–105, §§ 108(a), 109(a)(2), redesignated subsec. (
 
 “(4) ensure the timely receipt of principal and interest due to security or obligation holders only after full recourse has been taken against such reserves and retained subordinated participating interests.”
 
-Subsec. (b)(4) to (6). Pub. L. 104–105, § 109(b)(4), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Text read as follows: “The facility shall comply with the standards adopted by the Board under subsection (c) of this section in establishing and maintaining the pool.”
+Subsec. (b)(4) to (6). Pub. L. 104–105, § 109(b)(4), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Text read as follows: “The facility shall comply with the standards adopted by the Board under subsection (c) of this section in establishing and maintaining the pool.”
 
-Subsec. (c). Pub. L. 104–105, § 109(a), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c) which related to standards requiring diversified pools, including establishment of minimum criteria for pools of qualified loans, provisions to encourage loans to small farms and family farmers, and requirements for congressional review of standards.
+Subsec. (c). Pub. L. 104–105, § 109(a), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c) which related to standards requiring diversified pools, including establishment of minimum criteria for pools of qualified loans, provisions to encourage loans to small farms and family farmers, and requirements for congressional review of standards.
 
-Subsec. (d). Pub. L. 104–105, § 109(a)(2), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
+Subsec. (d). Pub. L. 104–105, § 109(a)(2), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
 
-Subsec. (d)(4) to (7). Pub. L. 104–105, § 107(2), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out heading and text of former par. (4). Text read as follows: “Each loan in the pool shall have been sold to the certified facility without recourse to the originator of such loan (other than recourse to any interest of such originator in a reserve established in connection with such loan or any subordinated participation interest of such originator in such loan).”
+Subsec. (d)(4) to (7). Pub. L. 104–105, § 107(2), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out heading and text of former par. (4). Text read as follows: “Each loan in the pool shall have been sold to the certified facility without recourse to the originator of such loan (other than recourse to any interest of such originator in a reserve established in connection with such loan or any subordinated participation interest of such originator in such loan).”
 
-Subsecs. (e), (f). Pub. L. 104–105, § 109(a)(2), redesignated subsecs. (f) and (g) as (d) and (e), respectively. Former subsec. (e) redesignated (c).
+Subsecs. (e), (f). Pub. L. 104–105, § 109(a)(2), redesignated subsecs. (f) and (g) as (d) and (e), respectively. Former subsec. (e) redesignated (c).
 
-Subsec. (g). Pub. L. 104–105, § 109(a)(2), redesignated subsec. (g) as (e).
+Subsec. (g). Pub. L. 104–105, § 109(a)(2), redesignated subsec. (g) as (e).
 
-Subsec. (g)(2). Pub. L. 104–105, § 107(3), substituted “2279aa(9) of this title” for “2279aa(9)(B) of this title”.
+Subsec. (g)(2). Pub. L. 104–105, § 107(3), substituted “2279aa(9) of this title” for “2279aa(9)(B) of this title”.
 
 1991—Subsec. (g). Pub. L. 102–237 added subsec. (g).
 
-1988—Subsec. (a)(1). Pub. L. 100–399, § 601(f), substituted “represents interests solely in, or obligations fully backed by, any pool consisting solely of qualified loans which meet the standards established under section 2279aa–8 of this title and which are” for “represents interests in, or obligations backed by, any pool of qualified loans”.
+1988—Subsec. (a)(1). Pub. L. 100–399, § 601(f), substituted “represents interests solely in, or obligations fully backed by, any pool consisting solely of qualified loans which meet the standards established under section 2279aa–8 of this title and which are” for “represents interests in, or obligations backed by, any pool of qualified loans”.
 
-Subsec. (e). Pub. L. 100–399, § 601(g), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “registration requirements (if any) with respect to such securities; and”.
+Subsec. (e). Pub. L. 100–399, § 601(g), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “registration requirements (if any) with respect to such securities; and”.
 
-Subsec. (f)(1). Pub. L. 100–399, § 601(h), substituted “date of the enactment” for “effective date”, both of which for purposes of codification were translated as “January 6, 1988,”.
+Subsec. (f)(1). Pub. L. 100–399, § 601(h), substituted “date of the enactment” for “effective date”, both of which for purposes of codification were translated as “January 6, 1988,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9777,11 +9777,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2279aa–7. Repealed. Pub. L. 104–105, title I, § 108(b), Feb. 10, 1996, 110 Stat. 164
+#### § 2279aa–7. Repealed. Pub. L. 104–105, title I, § 108(b), Feb. 10, 1996, 110 Stat. 164
 
-Section, Pub. L. 92–181, title VIII, § 8.7, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1698, related to reserves and subordinated participation interests of certified facilities, including provisions relating to cash contributions, retention of subordinated participation interests, additional requirements relating to reserves under former section 2279aa–6(b)(2) of this title, and authority of Board of Directors of Federal Agricultural Mortgage Corporation to establish other policies and procedures.
+Section, Pub. L. 92–181, title VIII, § 8.7, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1698, related to reserves and subordinated participation interests of certified facilities, including provisions relating to cash contributions, retention of subordinated participation interests, additional requirements relating to reserves under former section 2279aa–6(b)(2) of this title, and authority of Board of Directors of Federal Agricultural Mortgage Corporation to establish other policies and procedures.
 
-#### § 2279aa–8. Standards for qualified loans
+#### § 2279aa–8. Standards for qualified loans
 
 **(a) Standards**
 
@@ -9827,7 +9827,7 @@ Paragraph (1) shall not apply with respect to any agricultural mortgage loan des
 
 The standards established under subsection (a) shall not discriminate against small originators or small agricultural mortgage loans that are at least $50,000. The Board shall promote and encourage the inclusion of qualified loans for small farms and family farmers in the agricultural mortgage secondary market.
 
-(Pub. L. 92–181, title VIII, § 8.8, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1700; amended Pub. L. 100–399, title VI, § 601(i), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 104–105, title I, § 110, Feb. 10, 1996, 110 Stat. 165; Pub. L. 110–234, title V, § 5406(c), May 22, 2008, 122 Stat. 1158; Pub. L. 110–246, § 4(a), title V, § 5406(c), June 18, 2008, 122 Stat. 1664, 1920; Pub. L. 115–334, title V, § 5410(a), Dec. 20, 2018, 132 Stat. 4678.)
+(Pub. L. 92–181, title VIII, § 8.8, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1700; amended Pub. L. 100–399, title VI, § 601(i), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 104–105, title I, § 110, Feb. 10, 1996, 110 Stat. 165; Pub. L. 110–234, title V, § 5406(c), May 22, 2008, 122 Stat. 1158; Pub. L. 110–246, § 4(a), title V, § 5406(c), June 18, 2008, 122 Stat. 1664, 1920; Pub. L. 115–334, title V, § 5410(a), Dec. 20, 2018, 132 Stat. 4678.)
 
 **Editorial Notes**
 
@@ -9839,15 +9839,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (c)(2). Pub. L. 115–334 substituted “2,000” for “1,000”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 5406(c)(1), added pars. (1) and (2), designated last sentence as par. (3) and inserted heading, and struck out former first sentence which read as follows: “Not later than 120 days after the appointment and election of the permanent Board, the Corporation, in consultation with originators, shall establish uniform underwriting, security appraisal, and repayment standards for qualified loans.”
+2008—Subsec. (a). Pub. L. 110–246, § 5406(c)(1), added pars. (1) and (2), designated last sentence as par. (3) and inserted heading, and struck out former first sentence which read as follows: “Not later than 120 days after the appointment and election of the permanent Board, the Corporation, in consultation with originators, shall establish uniform underwriting, security appraisal, and repayment standards for qualified loans.”
 
-Subsec. (b). Pub. L. 110–246, § 5406(c)(2)(A), inserted “with respect to loans secured by agricultural real estate” after “subsection (a)” in introductory provisions.
+Subsec. (b). Pub. L. 110–246, § 5406(c)(2)(A), inserted “with respect to loans secured by agricultural real estate” after “subsection (a)” in introductory provisions.
 
-Subsec. (b)(5). Pub. L. 110–246, § 5406(c)(2)(B), substituted “ensure that the farmer or rancher” for “ensure that the borrower” and “farm or ranch” for “site”.
+Subsec. (b)(5). Pub. L. 110–246, § 5406(c)(2)(B), substituted “ensure that the farmer or rancher” for “ensure that the borrower” and “farm or ranch” for “site”.
 
-Subsec. (c)(1). Pub. L. 110–246, § 5406(c)(3), inserted “secured by agricultural real estate” after “A loan”.
+Subsec. (c)(1). Pub. L. 110–246, § 5406(c)(3), inserted “secured by agricultural real estate” after “A loan”.
 
-Subsecs. (d), (e). Pub. L. 110–246, § 5406(c)(4), (5), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “No standard prescribed under subsection (a) shall take effect before the later of—
+Subsecs. (d), (e). Pub. L. 110–246, § 5406(c)(4), (5), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “No standard prescribed under subsection (a) shall take effect before the later of—
 
 “(1) the end of a period consisting of 30 legislative days and beginning on the date such standards are submitted to the Congress; or
 
@@ -9861,7 +9861,7 @@ Subsecs. (d), (e). Pub. L. 110–246, § 5406(c)(4), (5), redesignated subsec.
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–334, title V, § 5410(b), Dec. 20, 2018, 132 Stat. 4678, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 1 year after the date a report submitted in accordance with section 5414 of this Act [132 Stat. 4724] indicates that it is feasible to increase the acreage limitation in section 8.8(c)(2) of the Farm Credit Act of 1971 [12 U.S.C. 2279aa–8(c)(2)] to 2,000 acres [report submitted June 2019].”
+Pub. L. 115–334, title V, § 5410(b), Dec. 20, 2018, 132 Stat. 4678, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 1 year after the date a report submitted in accordance with section 5414 of this Act [132 Stat. 4724] indicates that it is feasible to increase the acreage limitation in section 8.8(c)(2) of the Farm Credit Act of 1971 [12 U.S.C. 2279aa–8(c)(2)] to 2,000 acres [report submitted June 2019].”
 
 **Effective Date of 2008 Amendment**
 
@@ -9871,7 +9871,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2279aa–9. Exemption from restructuring and borrowers rights provisions for pooled loans
+#### § 2279aa–9. Exemption from restructuring and borrowers rights provisions for pooled loans
 
 **(a) Restructuring**
 
@@ -9881,7 +9881,7 @@ Notwithstanding any other provision of law, sections 2202, 2202a, 2202b, 2202d, 
 
 At the time of application for a loan (as defined in section 2202a(a)(5) of this title), originators that are Farm Credit System institutions shall give written notice to each applicant of the terms and conditions of the loan, setting forth separately terms and conditions for pooled loans and loans that are not pooled. This notice shall include a statement, if applicable, that the loan may be pooled and that, if pooled, sections 2202, 2202a, 2202b, 2202d, and 2219a of this title shall not apply. This notice also shall inform the applicant that he or she has the right not to have the loan pooled. Within 3 days from the time of commitment, an applicant has the right to refuse to allow the loan to be pooled, thereby retaining rights under sections 2202, 2202a, 2202b, 2202d, and 2219a of this title, if applicable.
 
-(Pub. L. 92–181, title VIII, § 8.9, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1701; amended Pub. L. 100–399, title VI, § 601(j), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 104–105, title II, § 208(b), Feb. 10, 1996, 110 Stat. 174; Pub. L. 115–334, title V, § 5411(46), Dec. 20, 2018, 132 Stat. 4685.)
+(Pub. L. 92–181, title VIII, § 8.9, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1701; amended Pub. L. 100–399, title VI, § 601(j), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 104–105, title II, § 208(b), Feb. 10, 1996, 110 Stat. 174; Pub. L. 115–334, title V, § 5411(46), Dec. 20, 2018, 132 Stat. 4685.)
 
 **Editorial Notes**
 
@@ -9899,7 +9899,7 @@ At the time of application for a loan (as defined in section 2202a(a)(5) of this
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2279aa–10. Funding for guarantee; reserves of Corporation
+#### § 2279aa–10. Funding for guarantee; reserves of Corporation
 
 **(a) Guarantee**
 
@@ -9937,7 +9937,7 @@ The Corporation may not issue obligations to the Secretary of the Treasury under
 
 The Corporation may impose charges or fees in reasonable amounts in connection with the administration of its activities under this subchapter to recover its costs for performing such administration.
 
-(Pub. L. 92–181, title VIII, § 8.10, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1701; amended Pub. L. 104–316, title I, § 106(f), Oct. 19, 1996, 110 Stat. 3831.)
+(Pub. L. 92–181, title VIII, § 8.10, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1701; amended Pub. L. 104–316, title I, § 106(f), Oct. 19, 1996, 110 Stat. 3831.)
 
 **Editorial Notes**
 
@@ -9945,7 +9945,7 @@ The Corporation may impose charges or fees in reasonable amounts in connection w
 
 1996—Subsec. (b)(4). Pub. L. 104–316 substituted “Review” for “Annual review” in heading and “may review” for “shall annually review” in text.
 
-#### § 2279aa–11. Supervision, examination, and report of condition
+#### § 2279aa–11. Supervision, examination, and report of condition
 
 **(a) Regulation**
 
@@ -10009,7 +10009,7 @@ As used in this subchapter, the term “affiliate” shall mean an entity effect
 
 **(2)** the supervision of the powers, functions, and duties of the Corporation is performed, to the extent practicable, by personnel who are not responsible for the supervision of the banks and associations of the Farm Credit System.
 
-(Pub. L. 92–181, title VIII, § 8.11, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1702; amended Pub. L. 101–624, title XVIII, § 1840, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–237, title V, § 503(a), Dec. 13, 1991, 105 Stat. 1870; Pub. L. 102–552, title III, § 308(b)(2), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, § 111, Feb. 10, 1996, 110 Stat. 165; Pub. L. 115–334, title V, § 5411(47), Dec. 20, 2018, 132 Stat. 4685.)
+(Pub. L. 92–181, title VIII, § 8.11, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1702; amended Pub. L. 101–624, title XVIII, § 1840, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–237, title V, § 503(a), Dec. 13, 1991, 105 Stat. 1870; Pub. L. 102–552, title III, § 308(b)(2), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, § 111, Feb. 10, 1996, 110 Stat. 165; Pub. L. 115–334, title V, § 5411(47), Dec. 20, 2018, 132 Stat. 4685.)
 
 **Editorial Notes**
 
@@ -10021,25 +10021,25 @@ As used in this subchapter, the term “affiliate” shall mean an entity effect
 
 1992—Subsec. (a)(1)(B)(ii). Pub. L. 102–552 substituted “December 13, 1991” for “the date of enactment of this section”.
 
-1991—Subsec. (a)(1). Pub. L. 102–237, § 503(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter, the Farm Credit Administration shall have the authority to—
+1991—Subsec. (a)(1). Pub. L. 102–237, § 503(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter, the Farm Credit Administration shall have the authority to—
 
 “(A) provide for the examination of the condition of the Corporation and its affiliates; and
 
 “(B) provide for the general supervision of the safe and sound performance of the powers, functions, and duties vested in the Corporation and its affiliates by this subchapter, including through the use of the enforcement powers of the Farm Credit Administration under part C of subchapter V of this chapter.”
 
-Subsec. (a)(3). Pub. L. 102–237, § 503(a)(2), added par. (3).
+Subsec. (a)(3). Pub. L. 102–237, § 503(a)(2), added par. (3).
 
-Subsec. (f). Pub. L. 102–237, § 503(a)(3), added subsec. (f).
+Subsec. (f). Pub. L. 102–237, § 503(a)(3), added subsec. (f).
 
-1990—Subsec. (a)(1). Pub. L. 101–624, § 1840(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter, the regulatory authority of the Farm Credit Administration with respect to the Corporation shall be confined to—
+1990—Subsec. (a)(1). Pub. L. 101–624, § 1840(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter, the regulatory authority of the Farm Credit Administration with respect to the Corporation shall be confined to—
 
 “(A) providing for the examination of the condition of the Corporation; and
 
 “(B) providing for the general supervision of the safe and sound performance of the powers, functions, and duties vested in the Corporation by this subchapter, including through the use of the enforcement powers of the Farm Credit Administration under part C of subchapter V of this chapter.”
 
-Subsec. (e). Pub. L. 101–624, § 1840(2), added subsec. (e).
+Subsec. (e). Pub. L. 101–624, § 1840(2), added subsec. (e).
 
-#### § 2279aa–12. Securities in credit enhanced pools
+#### § 2279aa–12. Securities in credit enhanced pools
 
 **(a) Federal laws**
 
@@ -10089,23 +10089,23 @@ The enactment by any State of a law of the type described in subparagraph (A) sh
 
 **(2)** limits or prohibits a prepayment penalty (either fixed or declining), yield maintenance, or make-whole payment that may be charged, taken, or received by an agricultural lender or a certified facility in connection with the full or partial payment of the principal amount due on a loan by a borrower in advance of the scheduled date for the payment under the terms of the loan, otherwise known as a prepayment of the loan principal.
 
-(Pub. L. 92–181, title VIII, § 8.12, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1703; amended Pub. L. 100–399, title VI, § 601(k), (*l*), Aug. 17, 1988, 102 Stat. 1006; Pub. L. 104–105, title I, § 112, Feb. 10, 1996, 110 Stat. 165.)
+(Pub. L. 92–181, title VIII, § 8.12, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1703; amended Pub. L. 100–399, title VI, § 601(k), (*l*), Aug. 17, 1988, 102 Stat. 1006; Pub. L. 104–105, title I, § 112, Feb. 10, 1996, 110 Stat. 165.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (a)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 **Amendments**
 
 1996—Subsec. (d). Pub. L. 104–105 added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Any provision of the constitution or law of any State which expressly limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, or reserved by agricultural lenders or certified facilities shall not apply to any agricultural loan made by an originator or a certified facility in accordance with this subchapter that is included in a pool for which the Corporation has provided a guarantee.”
 
-1988—Subsec. (a)(1). Pub. L. 100–399, § 601(k), inserted “, or obligations backed by,” before “a pool”.
+1988—Subsec. (a)(1). Pub. L. 100–399, § 601(k), inserted “, or obligations backed by,” before “a pool”.
 
-Subsec. (b)(2). Pub. L. 100–399, § 601(*l*), substituted “date of the enactment” for “effective date” both of which for purposes of codification was translated as “January 6, 1988,”.
+Subsec. (b)(2). Pub. L. 100–399, § 601(*l*), substituted “date of the enactment” for “effective date” both of which for purposes of codification was translated as “January 6, 1988,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10113,7 +10113,7 @@ Subsec. (b)(2). Pub. L. 100–399, § 601(*l*), substituted “date of the ena
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### § 2279aa–13. Authority to issue obligations to cover guarantee losses of Corporation
+#### § 2279aa–13. Authority to issue obligations to cover guarantee losses of Corporation
 
 **(a) Sale of obligations to Treasury**
 
@@ -10159,7 +10159,7 @@ All purchases and sales by the Secretary of the Treasury of obligations issued b
 
 There is authorized to be appropriated to the Secretary of the Treasury $1,500,000,000, without fiscal year limitation, to carry out the purposes of this subchapter.
 
-(Pub. L. 92–181, title VIII, § 8.13, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1704; amended Pub. L. 104–105, title I, § 109(b)(2), Feb. 10, 1996, 110 Stat. 165.)
+(Pub. L. 92–181, title VIII, § 8.13, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1704; amended Pub. L. 104–105, title I, § 109(b)(2), Feb. 10, 1996, 110 Stat. 165.)
 
 **Editorial Notes**
 
@@ -10167,7 +10167,7 @@ There is authorized to be appropriated to the Secretary of the Treasury $1,500,0
 
 1996—Subsec. (a). Pub. L. 104–105 substituted “section” for “sections 2279aa–6(b) and” in pars. (1) and (2)(A).
 
-#### § 2279aa–14. Federal jurisdiction
+#### § 2279aa–14. Federal jurisdiction
 
 Notwithstanding section 1349 of title 28 or any other provision of law:
 
@@ -10185,11 +10185,11 @@ by following any procedure for removal for causes in effect at the time of such 
 
 **(4)** No attachment or execution shall be issued against the Corporation or any of the property of the Corporation before final judgment in any Federal, State, or other court.
 
-(Pub. L. 92–181, title VIII, § 8.14, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1705.)
+(Pub. L. 92–181, title VIII, § 8.14, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1705.)
 
 ### Part B—Regulation of Financial Safety and Soundness of Federal Agricultural Mortgage Corporation
 
-#### § 2279bb. Definitions
+#### § 2279bb. Definitions
 
 For purposes of this part:
 
@@ -10223,7 +10223,7 @@ The term “regulatory capital” means, with respect to the Corporation, the co
 
 The term “State” means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
-(Pub. L. 92–181, title VIII, § 8.31, as added Pub. L. 102–237, title V, § 503(b)(2), Dec. 13, 1991, 105 Stat. 1871.)
+(Pub. L. 92–181, title VIII, § 8.31, as added Pub. L. 102–237, title V, § 503(b)(2), Dec. 13, 1991, 105 Stat. 1871.)
 
 **Executive Documents**
 
@@ -10231,7 +10231,7 @@ The term “State” means the States of the United States, the District of Colu
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### § 2279bb–1. Risk-based capital levels
+#### § 2279bb–1. Risk-based capital levels
 
 **(a) Risk-based capital test** The Director of the Office of Secondary Market Oversight shall, by regulation, establish a risk-based capital test under this section for the Corporation. When applied to the Corporation, the risk-based capital test shall determine the amount of regulatory capital for the Corporation that is sufficient for the Corporation to maintain positive capital during a 10-year period in which both of the following circumstances occur:
 
@@ -10293,7 +10293,7 @@ The regulations referred to in paragraph (1) shall be sufficiently specific to p
 
 The Director shall make copies of the statistical model or models used to implement the risk-based capital test under this section available for public acquisition and may charge a reasonable fee for such copies.
 
-(Pub. L. 92–181, title VIII, § 8.32, as added Pub. L. 102–237, title V, § 503(b)(2), Dec. 13, 1991, 105 Stat. 1871; amended Pub. L. 102–552, title III, § 308(b)(3), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, §§ 109(b)(3), 113, Feb. 10, 1996, 110 Stat. 165, 166; Pub. L. 110–234, title V, § 5406(d), May 22, 2008, 122 Stat. 1159; Pub. L. 110–246, § 4(a), title V, § 5406(d), June 18, 2008, 122 Stat. 1664, 1920; Pub. L. 115–334, title V, § 5411(48), Dec. 20, 2018, 132 Stat. 4685.)
+(Pub. L. 92–181, title VIII, § 8.32, as added Pub. L. 102–237, title V, § 503(b)(2), Dec. 13, 1991, 105 Stat. 1871; amended Pub. L. 102–552, title III, § 308(b)(3), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, §§ 109(b)(3), 113, Feb. 10, 1996, 110 Stat. 165, 166; Pub. L. 110–234, title V, § 5406(d), May 22, 2008, 122 Stat. 1159; Pub. L. 110–246, § 4(a), title V, § 5406(d), June 18, 2008, 122 Stat. 1664, 1920; Pub. L. 115–334, title V, § 5411(48), Dec. 20, 2018, 132 Stat. 4685.)
 
 **Editorial Notes**
 
@@ -10303,25 +10303,25 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 5411(48)(A), substituted “The” for “Not sooner than the expiration of the 3-year period beginning on February 10, 1996, the” in introductory provisions.
+2018—Subsec. (a). Pub. L. 115–334, § 5411(48)(A), substituted “The” for “Not sooner than the expiration of the 3-year period beginning on February 10, 1996, the” in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 115–334, § 5411(48)(B), substituted “section 2279aa(7)(C)” for “section 2279aa(9)(C)”.
+Subsec. (a)(1)(B). Pub. L. 115–334, § 5411(48)(B), substituted “section 2279aa(7)(C)” for “section 2279aa(9)(C)”.
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 5406(d), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+2008—Subsec. (a)(1). Pub. L. 110–246, § 5406(d), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-1996—Subsec. (a). Pub. L. 104–105, § 113(1), in first sentence, substituted “Not sooner than the expiration of the 3-year period beginning on February 10, 1996,” for “Not later than the expiration of the 2-year period beginning on December 13, 1991,”.
+1996—Subsec. (a). Pub. L. 104–105, § 113(1), in first sentence, substituted “Not sooner than the expiration of the 3-year period beginning on February 10, 1996,” for “Not later than the expiration of the 2-year period beginning on December 13, 1991,”.
 
-Subsec. (b)(1)(C). Pub. L. 104–105, § 109(b)(3), substituted “Director may” for “Director shall” and inserted before semicolon at end “(as in effect before February 10, 1996)”.
+Subsec. (b)(1)(C). Pub. L. 104–105, § 109(b)(3), substituted “Director may” for “Director shall” and inserted before semicolon at end “(as in effect before February 10, 1996)”.
 
-Subsec. (b)(2). Pub. L. 104–105, § 113(2), substituted “8-year” for “5-year” in first sentence.
+Subsec. (b)(2). Pub. L. 104–105, § 113(2), substituted “8-year” for “5-year” in first sentence.
 
-Subsec. (d). Pub. L. 104–105, § 113(3), designated first sentence of existing provisions as par. (1), inserted heading, added subpar. (A), and designated part of first sentence as subpar. (B), designated second sentence of existing provisions as par. (2), inserted heading, and substituted “The regulations referred to in paragraph (1) shall” for “The regulations shall”.
+Subsec. (d). Pub. L. 104–105, § 113(3), designated first sentence of existing provisions as par. (1), inserted heading, added subpar. (A), and designated part of first sentence as subpar. (B), designated second sentence of existing provisions as par. (2), inserted heading, and substituted “The regulations referred to in paragraph (1) shall” for “The regulations shall”.
 
-1992—Subsecs. (a), (b)(1)(D). Pub. L. 102–552, § 308(b)(3)(A), substituted “December 13, 1991” for “the date of the enactment of this section”.
+1992—Subsecs. (a), (b)(1)(D). Pub. L. 102–552, § 308(b)(3)(A), substituted “December 13, 1991” for “the date of the enactment of this section”.
 
-Subsec. (b)(1)(E). Pub. L. 102–552, § 308(b)(3)(B), substituted “December 13, 1991” for “the date of the enactment of such Act”.
+Subsec. (b)(1)(E). Pub. L. 102–552, § 308(b)(3)(B), substituted “December 13, 1991” for “the date of the enactment of such Act”.
 
-Subsec. (b)(2). Pub. L. 102–552, § 308(b)(3)(A), substituted “December 13, 1991” for “the date of the enactment of this section” in two places.
+Subsec. (b)(2). Pub. L. 102–552, § 308(b)(3)(A), substituted “December 13, 1991” for “the date of the enactment of this section” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10329,7 +10329,7 @@ Subsec. (b)(2). Pub. L. 102–552, § 308(b)(3)(A), substituted “December 13
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-#### § 2279bb–2. Minimum capital level
+#### § 2279bb–2. Minimum capital level
 
 **(a) In general** Except as provided in subsection (b), for purposes of this part, the minimum capital level for the Corporation shall be an amount of core capital equal to the sum of
 
@@ -10383,7 +10383,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(B)** the aggregate amount of qualified loans purchased and held by the Corporation under section 2279aa–3(c)(13) of this title.
 
-(Pub. L. 92–181, title VIII, § 8.33, as added Pub. L. 102–237, title V, § 503(b)(2), Dec. 13, 1991, 105 Stat. 1873; amended Pub. L. 104–105, title I, § 114, Feb. 10, 1996, 110 Stat. 166; Pub. L. 115–334, title V, § 5411(49), Dec. 20, 2018, 132 Stat. 4685.)
+(Pub. L. 92–181, title VIII, § 8.33, as added Pub. L. 102–237, title V, § 503(b)(2), Dec. 13, 1991, 105 Stat. 1873; amended Pub. L. 104–105, title I, § 114, Feb. 10, 1996, 110 Stat. 166; Pub. L. 115–334, title V, § 5411(49), Dec. 20, 2018, 132 Stat. 4685.)
 
 **Editorial Notes**
 
@@ -10393,11 +10393,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 1996—Pub. L. 104–105 amended section generally, substituting present provisions for provisions relating to minimum capital level, including general provisions, provisions relating to 18-month transition, and provisions relating to linked portfolio assets.
 
-#### § 2279bb–3. Critical capital level
+#### § 2279bb–3. Critical capital level
 
 For purposes of this part, the critical capital level for the Corporation shall be an amount of core capital equal to 50 percent of the total minimum capital amount determined under section 2279bb–2 of this title.
 
-(Pub. L. 92–181, title VIII, § 8.34, as added Pub. L. 102–237, title V, § 503(b)(2), Dec. 13, 1991, 105 Stat. 1874; amended Pub. L. 104–105, title I, § 115, Feb. 10, 1996, 110 Stat. 167.)
+(Pub. L. 92–181, title VIII, § 8.34, as added Pub. L. 102–237, title V, § 503(b)(2), Dec. 13, 1991, 105 Stat. 1874; amended Pub. L. 104–105, title I, § 115, Feb. 10, 1996, 110 Stat. 167.)
 
 **Editorial Notes**
 
@@ -10415,7 +10415,7 @@ For purposes of this part, the critical capital level for the Corporation shall 
 
 “(B) after the expiration of such 5-year period, 1.25 percent of any such aggregate assets.”
 
-#### § 2279bb–4. Enforcement levels
+#### § 2279bb–4. Enforcement levels
 
 **(a) In general** The Director shall classify the Corporation, for purposes of this part, according to the following enforcement levels:
 
@@ -10471,7 +10471,7 @@ The Director shall determine the classification of the Corporation for purposes 
 
 **(3)** stating the reasons for the classification of the Corporation within such level.
 
-(Pub. L. 92–181, title VIII, § 8.35, as added Pub. L. 102–237, title V, § 503(b)(2), Dec. 13, 1991, 105 Stat. 1874; amended Pub. L. 104–105, title I, § 116, Feb. 10, 1996, 110 Stat. 168; Pub. L. 115–334, title V, § 5411(50), Dec. 20, 2018, 132 Stat. 4685.)
+(Pub. L. 92–181, title VIII, § 8.35, as added Pub. L. 102–237, title V, § 503(b)(2), Dec. 13, 1991, 105 Stat. 1874; amended Pub. L. 104–105, title I, § 116, Feb. 10, 1996, 110 Stat. 168; Pub. L. 115–334, title V, § 5411(50), Dec. 20, 2018, 132 Stat. 4685.)
 
 **Editorial Notes**
 
@@ -10481,7 +10481,7 @@ The Director shall determine the classification of the Corporation for purposes 
 
 1996—Subsec. (e). Pub. L. 104–105 substituted “during the period beginning on December 13, 1991, and ending on the effective date of the risk based capital regulation issued by the Director under section 2279bb–1 of this title,” for “during the 30-month period beginning on December 13, 1991,”.
 
-#### § 2279bb–5. Mandatory actions applicable to level II
+#### § 2279bb–5. Mandatory actions applicable to level II
 
 **(a) Capital restoration plan**
 
@@ -10505,9 +10505,9 @@ If the Corporation is classified as within level II, the Corporation may not mak
 
 This section shall take effect upon the expiration of the 30-month period beginning on December 13, 1991.
 
-(Pub. L. 92–181, title VIII, § 8.36, as added Pub. L. 102–237, title V, § 503(b)(2), Dec. 13, 1991, 105 Stat. 1876.)
+(Pub. L. 92–181, title VIII, § 8.36, as added Pub. L. 102–237, title V, § 503(b)(2), Dec. 13, 1991, 105 Stat. 1876.)
 
-#### § 2279bb–6. Supervisory actions applicable to level III
+#### § 2279bb–6. Supervisory actions applicable to level III
 
 **(a) Mandatory supervisory actions**
 
@@ -10567,15 +10567,15 @@ Appoint a conservator for the Corporation consistent with this chapter.
 
 This section shall take effect on January 1, 1992.
 
-(Pub. L. 92–181, title VIII, § 8.37, as added Pub. L. 102–237, title V, § 503(b)(2), Dec. 13, 1991, 105 Stat. 1876.)
+(Pub. L. 92–181, title VIII, § 8.37, as added Pub. L. 102–237, title V, § 503(b)(2), Dec. 13, 1991, 105 Stat. 1876.)
 
-#### § 2279bb–7. Repealed. Pub. L. 115–334, title V, § 5411(51), Dec. 20, 2018, 132 Stat. 4685
+#### § 2279bb–7. Repealed. Pub. L. 115–334, title V, § 5411(51), Dec. 20, 2018, 132 Stat. 4685
 
-Section, Pub. L. 92–181, title VIII, § 8.38, as added Pub. L. 104–105, title I, § 117, Feb. 10, 1996, 110 Stat. 168, related to recapitalization of Corporation.
+Section, Pub. L. 92–181, title VIII, § 8.38, as added Pub. L. 104–105, title I, § 117, Feb. 10, 1996, 110 Stat. 168, related to recapitalization of Corporation.
 
 ### Part C—Receivership, Conservatorship, and Liquidation of Federal Agricultural Mortgage Corporation
 
-#### § 2279cc. Conservatorship; liquidation; receivership
+#### § 2279cc. Conservatorship; liquidation; receivership
 
 **(a) Voluntary liquidation**
 
@@ -10695,4 +10695,4 @@ The charter of the Corporation shall be canceled, and the authority provided to 
 
 The Office of Secondary Market Oversight established under section 2279aa–11 of this title shall be abolished, and section 2279aa–11(a) of this title and part B shall have no force or effect, on such date as the Farm Credit Administration Board determines is appropriate following the placement of the Corporation in receivership, but not later than the conclusion of the receivership and discharge of the receiver.
 
-(Pub. L. 92–181, title VIII, § 8.41, as added Pub. L. 104–105, title I, § 118, Feb. 10, 1996, 110 Stat. 168.)
+(Pub. L. 92–181, title VIII, § 8.41, as added Pub. L. 104–105, title I, § 118, Feb. 10, 1996, 110 Stat. 168.)

@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1504—NATIONAL AMERICAN INDIAN VETERANS, INCORPORATED"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1504—NATIONAL AMERICAN INDIAN VETERANS, INCORPORATED"
 identifier: "/us/usc/t36/stII/ptB/ch1504"
 type: code
 jurisdiction: us
@@ -11,17 +11,17 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1504—NATIONAL AMERICAN INDIAN VETERANS, INCORPORATED
 
-## § 150401. Organization
+## § 150401. Organization
 
 The National American Indian Veterans, Incorporated, a nonprofit corporation organized in the United States (referred to in this chapter as the “corporation”), is a federally chartered corporation.
 
-(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 935.)
+(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 935.)
 
-## § 150402. Purposes
+## § 150402. Purposes
 
 The purposes of the corporation are those stated in the articles of incorporation, constitution, and bylaws of the corporation, and include a commitment—
 
@@ -43,47 +43,47 @@ The purposes of the corporation are those stated in the articles of incorporatio
 
 **(B)** training and educating Tribal Veterans Service Officers for Indian Tribes in need.
 
-(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 935.)
+(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 935.)
 
-## § 150403. Membership
+## § 150403. Membership
 
 Subject to section 150406, eligibility for membership in the corporation, and the rights and privileges of members, shall be as provided in the constitution and bylaws of the corporation.
 
-(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 936.)
+(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 936.)
 
-## § 150404. Board of directors
+## § 150404. Board of directors
 
 Subject to section 150406, the board of directors of the corporation, and the responsibilities of the board, shall be as provided in the constitution and bylaws of the corporation and in conformity with the laws under which the corporation is incorporated.
 
-(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 936.)
+(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 936.)
 
-## § 150405. Officers
+## § 150405. Officers
 
 Subject to section 150406, the officers of the corporation, and the election of such officers, shall be as provided in the constitution and bylaws of the corporation and in conformity with the laws of the jurisdiction under which the corporation is incorporated.
 
-(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 936.)
+(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 936.)
 
-## § 150406. Nondiscrimination
+## § 150406. Nondiscrimination
 
 In establishing the conditions of membership in the corporation, and in determining the requirements for serving on the board of directors or as an officer of the corporation, the corporation may not discriminate on the basis of race, color, religion, sex, national origin, handicap, or age.
 
-(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 936.)
+(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 936.)
 
-## § 150407. Powers
+## § 150407. Powers
 
 The corporation shall have only those powers granted the corporation through its articles of incorporation, constitution, and bylaws, which shall conform to the laws of the jurisdiction under which the corporation is incorporated.
 
-(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 936.)
+(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 936.)
 
-## § 150408. Exclusive right to name, seals, emblems, and badges
+## § 150408. Exclusive right to name, seals, emblems, and badges
 
 **(a) In General.—** The corporation shall have the sole and exclusive right to use the names “National American Indian Veterans, Incorporated” and “National American Indian Veterans”, and such seals, emblems, and badges as the corporation may lawfully adopt.
 
 **(b) Effect.—** Nothing in this section interferes or conflicts with any established or vested rights.
 
-(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 936.)
+(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 936.)
 
-## § 150409. Restrictions
+## § 150409. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not—
 
@@ -105,13 +105,13 @@ The corporation shall have only those powers granted the corporation through its
 
 **(d) No Federal Endorsement.—** The corporation may not claim congressional approval or Federal Government authority by virtue of the charter granted by this chapter for any of the activities of the corporation.
 
-(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 937.)
+(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 937.)
 
-## § 150410. Duty to maintain tax-exempt status
+## § 150410. Duty to maintain tax-exempt status
 
 The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986.
 
-(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 937.)
+(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 937.)
 
 **Editorial Notes**
 
@@ -119,7 +119,7 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 Internal Revenue Code of 1986, referred to in text, is classified to Title 26, Internal Revenue Code.
 
-## § 150411. Records and inspection
+## § 150411. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -139,9 +139,9 @@ Internal Revenue Code of 1986, referred to in text, is classified to Title 26, I
 
 **(B)** the laws of those jurisdictions within the United States and its territories within which the corporation carries out activities in furtherance of the purposes of the corporation.
 
-(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 937.)
+(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 937.)
 
-## § 150412. Service of process
+## § 150412. Service of process
 
 With respect to service of process, the corporation shall comply with the laws of—
 
@@ -149,21 +149,21 @@ With respect to service of process, the corporation shall comply with the laws o
 
 **(2)** those jurisdictions within the United States and its territories within which the corporation carries out activities in furtherance of the purposes of the corporation.
 
-(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 937.)
+(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 937.)
 
-## § 150413. Liability for acts of officers and agents
+## § 150413. Liability for acts of officers and agents
 
 The corporation shall be liable for the acts of the officers and agents of the corporation acting within the scope of their authority.
 
-(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 938.)
+(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 938.)
 
-## § 150414. Failure to comply with requirements
+## § 150414. Failure to comply with requirements
 
 If the corporation fails to comply with any of the requirements of this chapter, including the requirement under section 150410 to maintain its status as an organization exempt from taxation, the charter granted by this chapter shall expire.
 
-(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 938.)
+(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 938.)
 
-## § 150415. Annual report
+## § 150415. Annual report
 
 **(a) In General.—** The corporation shall submit to Congress an annual report describing the activities of the corporation during the preceding fiscal year.
 
@@ -171,4 +171,4 @@ If the corporation fails to comply with any of the requirements of this chapter,
 
 **(c) Report Not Public Document.—** No annual report under this section shall be printed as a public document.
 
-(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 938.)
+(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 938.)

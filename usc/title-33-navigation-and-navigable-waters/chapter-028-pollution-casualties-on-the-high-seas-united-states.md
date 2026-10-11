@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 28—POLLUTION CASUALTIES ON THE HIGH SEAS: UNITED STATES INTERVENTION
 
-## § 1471. Definitions
+## § 1471. Definitions
 
 As used in this chapter—
 
@@ -41,7 +41,7 @@ As used in this chapter—
 
 **(7)** “United States” means the States, the District of Columbia, the Commonwealth of Puerto Rico, the Canal Zone, Guam, American Samoa, the United States Virgin Islands, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Marianas, and any other commonwealth, territory, or possession of the United States.
 
-(Pub. L. 93–248, § 2, Feb. 5, 1974, 88 Stat. 8; Pub. L. 95–302, § 1(1), June 26, 1978, 92 Stat. 344.)
+(Pub. L. 93–248, § 2, Feb. 5, 1974, 88 Stat. 8; Pub. L. 95–302, § 1(1), June 26, 1978, 92 Stat. 344.)
 
 **Editorial Notes**
 
@@ -61,7 +61,7 @@ For effective date of amendment by Pub. L. 95–302, see section 2 of Pub. L. 95
 
 **Short Title**
 
-Pub. L. 93–248, § 1, Feb. 5, 1974, 88 Stat. 8, provided: “That this Act [enacting this chapter] may be cited as the ‘Intervention on the High Seas Act’.”
+Pub. L. 93–248, § 1, Feb. 5, 1974, 88 Stat. 8, provided: “That this Act [enacting this chapter] may be cited as the ‘Intervention on the High Seas Act’.”
 
 **Transfer of Functions**
 
@@ -73,11 +73,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 1472. Grave and imminent danger from oil pollution casualties to coastline or related interests of United States; Federal nonliability for Federal preventive measures on the high seas
+## § 1472. Grave and imminent danger from oil pollution casualties to coastline or related interests of United States; Federal nonliability for Federal preventive measures on the high seas
 
 Whenever a ship collision, stranding, or other incident of navigation or other occurrence on board a ship or external to it resulting in material damage or imminent threat of material damage to the ship or her cargo creates, as determined by the Secretary, a grave and imminent danger to the coastline or related interests of the United States from pollution or threat of pollution of the sea by convention oil or of the sea or atmosphere by a substance other than convention oil which may reasonably be expected to result in major harmful consequences, the Secretary may, except as provided for in section 1479 of this title, without liability for any damage to the owners or operators of the ship, to her cargo or crew, to underwriters or other parties interested therein, take measures on the high seas, in accordance with the provisions of the convention, the protocol and this chapter, to prevent, mitigate, or eliminate that danger.
 
-(Pub. L. 93–248, § 3, Feb. 5, 1974, 88 Stat. 8; Pub. L. 95–302, § 1(2), June 26, 1978, 92 Stat. 344.)
+(Pub. L. 93–248, § 3, Feb. 5, 1974, 88 Stat. 8; Pub. L. 95–302, § 1(2), June 26, 1978, 92 Stat. 344.)
 
 **Editorial Notes**
 
@@ -91,13 +91,13 @@ Whenever a ship collision, stranding, or other incident of navigation or other o
 
 For effective date of amendment by Pub. L. 95–302, see section 2 of Pub. L. 95–302, set out as a note under section 1487 of this title.
 
-## § 1473. Consultations and determinations respecting creation of hazards to human health, etc.; criteria for determinations respecting grave and imminent dangers of major harmful consequences to United States coastline or related interests
+## § 1473. Consultations and determinations respecting creation of hazards to human health, etc.; criteria for determinations respecting grave and imminent dangers of major harmful consequences to United States coastline or related interests
 
 **(a)** The Secretary, after consultation with the Administrator of the Environmental Protection Agency and the Secretary of Commerce, shall determine when a substance other than those enumerated in the protocol is liable to create a hazard to human health, to harm living resources, to damage amenities, or to interfere with other legitimate uses of the sea.
 
 **(b)** In determining whether there is grave and imminent danger of major harmful consequences to the coastline or related interests of the United States, the Secretary shall consider the interests of the United States directly threatened or affected including but not limited to, human health, fish, shellfish, and other living marine resources, wildlife, coastal zone and estuarine activities, and public and private shorelines and beaches.
 
-(Pub. L. 93–248, § 4, Feb. 5, 1974, 88 Stat. 9; Pub. L. 95–302, § 1(3), June 26, 1978, 92 Stat. 344.)
+(Pub. L. 93–248, § 4, Feb. 5, 1974, 88 Stat. 9; Pub. L. 95–302, § 1(3), June 26, 1978, 92 Stat. 344.)
 
 **Editorial Notes**
 
@@ -111,7 +111,7 @@ For effective date of amendment by Pub. L. 95–302, see section 2 of Pub. L. 95
 
 For effective date of amendment by Pub. L. 95–302, see section 2 of Pub. L. 95–302, set out as a note under section 1487 of this title.
 
-## § 1474. Federal intervention actions
+## § 1474. Federal intervention actions
 
 Upon a determination under section 1472 of this title of a grave and imminent danger to the coastline or related interests of the United States, the Secretary may—
 
@@ -121,9 +121,9 @@ Upon a determination under section 1472 of this title of a grave and imminent da
 
 **(3)** remove, and, if necessary, destroy the ship and cargo which is the source of the danger.
 
-(Pub. L. 93–248, § 5, Feb. 5, 1974, 88 Stat. 9.)
+(Pub. L. 93–248, § 5, Feb. 5, 1974, 88 Stat. 9.)
 
-## § 1475. Consultation procedure
+## § 1475. Consultation procedure
 
 Before taking any measure under section 1474 of this title, the Secretary shall—
 
@@ -133,15 +133,15 @@ Before taking any measure under section 1474 of this title, the Secretary shall�
 
 **(3)** consider any views submitted in response to the consultation or notification required by subsections (1) and (2) of this section.
 
-(Pub. L. 93–248, § 6, Feb. 5, 1974, 88 Stat. 9.)
+(Pub. L. 93–248, § 6, Feb. 5, 1974, 88 Stat. 9.)
 
-## § 1476. Emergencies
+## § 1476. Emergencies
 
 In cases of extreme urgency requiring measures to be taken immediately, the Secretary may take those measures rendered necessary by the urgency of the situation without the prior consultation or notification as required by section 1475 of this title or without the continuation of consultations already begun.
 
-(Pub. L. 93–248, § 7, Feb. 5, 1974, 88 Stat. 9.)
+(Pub. L. 93–248, § 7, Feb. 5, 1974, 88 Stat. 9.)
 
-## § 1477. Reasonable measures; considerations
+## § 1477. Reasonable measures; considerations
 
 **(a)** Measures directed or conducted under this chapter shall be proportionate to the damage, actual or threatened, to the coastline or related interests of the United States and may not go beyond what is reasonably necessary to prevent, mitigate, or eliminate that damage.
 
@@ -153,9 +153,9 @@ In cases of extreme urgency requiring measures to be taken immediately, the Secr
 
 **(3)** the extent of the damage which may be caused by those measures.
 
-(Pub. L. 93–248, § 8, Feb. 5, 1974, 88 Stat. 9.)
+(Pub. L. 93–248, § 8, Feb. 5, 1974, 88 Stat. 9.)
 
-## § 1478. Personal, flag state, and foreign state considerations
+## § 1478. Personal, flag state, and foreign state considerations
 
 In the direction and conduct of measures under this chapter the Secretary shall use his best endeavors to—
 
@@ -165,9 +165,9 @@ In the direction and conduct of measures under this chapter the Secretary shall 
 
 **(3)** not unnecessarily interfere with rights and interests of others, including the flag state of any ship involved, other foreign states threatened by damage, and persons otherwise concerned.
 
-(Pub. L. 93–248, § 9, Feb. 5, 1974, 88 Stat. 9.)
+(Pub. L. 93–248, § 9, Feb. 5, 1974, 88 Stat. 9.)
 
-## § 1479. Federal liability for unreasonable damages
+## § 1479. Federal liability for unreasonable damages
 
 **(a) Payment of compensation**
 
@@ -181,7 +181,7 @@ Actions against the United States seeking compensation for any excessive measure
 
 With respect to intervention for a substance identified pursuant to section 1473(a) of this title, the United States has the burden of establishing that, under the circumstances present at the time of the intervention, the substance could reasonably pose a grave and imminent danger analogous to that posed by a substance enumerated in the protocol.
 
-(Pub. L. 93–248, § 10, Feb. 5, 1974, 88 Stat. 10; Pub. L. 95–302, § 1(4), June 26, 1978, 92 Stat. 345; Pub. L. 97–164, title I, § 161(6), Apr. 2, 1982, 96 Stat. 49; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 93–248, § 10, Feb. 5, 1974, 88 Stat. 10; Pub. L. 95–302, § 1(4), June 26, 1978, 92 Stat. 345; Pub. L. 97–164, title I, § 161(6), Apr. 2, 1982, 96 Stat. 49; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
@@ -213,13 +213,13 @@ For effective date of amendment by Pub. L. 95–302, see section 2 of Pub. L. 95
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 1480. Notification by Secretary of State
+## § 1480. Notification by Secretary of State
 
 The Secretary of State shall notify without delay foreign states concerned, the Secretary-General of the Inter-Governmental Maritime Consultative Organization, and persons affected by measures taken under this chapter.
 
-(Pub. L. 93–248, § 11, Feb. 5, 1974, 88 Stat. 10.)
+(Pub. L. 93–248, § 11, Feb. 5, 1974, 88 Stat. 10.)
 
-## § 1481. Violations; penalties
+## § 1481. Violations; penalties
 
 **(a)** A person commits a class A misdemeanor if that person—
 
@@ -231,13 +231,13 @@ The Secretary of State shall notify without delay foreign states concerned, the 
 
 **(b)** In a criminal proceeding for an offense under paragraph (1) or (2) of subsection (a) of this section it shall be a defense for the accused to prove that he used all due diligence to comply with any order or direction that he had reasonable cause to believe that compliance would have resulted in serious risk to human life.
 
-(Pub. L. 93–248, § 12, Feb. 5, 1974, 88 Stat. 10; Pub. L. 101–380, title IV, § 4302(*l*), Aug. 18, 1990, 104 Stat. 539.)
+(Pub. L. 93–248, § 12, Feb. 5, 1974, 88 Stat. 10; Pub. L. 101–380, title IV, § 4302(*l*), Aug. 18, 1990, 104 Stat. 539.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–380 substituted “A person commits a class A misdemeanor if that person” for “Any person who” in introductory provisions and struck out “, shall be fined not more than $10,000 or imprisoned not more than one year, or both” after “under this chapter” in par. (3).
+1990—Subsec. (a). Pub. L. 101–380 substituted “A person commits a class A misdemeanor if that person” for “Any person who” in introductory provisions and struck out “, shall be fined not more than $10,000 or imprisoned not more than one year, or both” after “under this chapter” in par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -245,7 +245,7 @@ The Secretary of State shall notify without delay foreign states concerned, the 
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
 
-## § 1482. Consultation for nomination and nomination of experts, negotiators, etc.; proposal of amendments to list of substances other than convention oil; Presidential acceptance of amendments
+## § 1482. Consultation for nomination and nomination of experts, negotiators, etc.; proposal of amendments to list of substances other than convention oil; Presidential acceptance of amendments
 
 **(a) Nomination of experts and proposal of amendments to list of substances**
 
@@ -259,17 +259,17 @@ The Secretary of State, in consultation with the Secretary, shall designate or n
 
 The President may accept amendments to the list of substances other than convention oil in accordance with article III of the protocol.
 
-(Pub. L. 93–248, § 13, Feb. 5, 1974, 88 Stat. 10; Pub. L. 95–302, § 1(5), June 26, 1978, 92 Stat. 345.)
+(Pub. L. 93–248, § 13, Feb. 5, 1974, 88 Stat. 10; Pub. L. 95–302, § 1(5), June 26, 1978, 92 Stat. 345.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1978—Subsec. (a). Pub. L. 95–302, § 1(5)(A), inserted provisions relating to applicability of article II of the protocol and provisions for proposal of amendments to the list of substances other than convention oil.
+1978—Subsec. (a). Pub. L. 95–302, § 1(5)(A), inserted provisions relating to applicability of article II of the protocol and provisions for proposal of amendments to the list of substances other than convention oil.
 
-Subsec. (b). Pub. L. 95–302, § 1(5)(B), substituted “protocol” for “annexes thereto”.
+Subsec. (b). Pub. L. 95–302, § 1(5)(B), substituted “protocol” for “annexes thereto”.
 
-Subsec. (c). Pub. L. 95–302, § 1(5)(C), added subsec. (c).
+Subsec. (c). Pub. L. 95–302, § 1(5)(C), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -277,23 +277,23 @@ Subsec. (c). Pub. L. 95–302, § 1(5)(C), added subsec. (c).
 
 For effective date of amendment by Pub. L. 95–302, see section 2 of Pub. L. 95–302, set out as a note under section 1487 of this title.
 
-## § 1483. Foreign government ships; immunity
+## § 1483. Foreign government ships; immunity
 
 No measures may be taken under authority of this chapter against any warship or other ship owned or operated by a country and used, for the time being, only on Government noncommercial service.
 
-(Pub. L. 93–248, § 14, Feb. 5, 1974, 88 Stat. 10.)
+(Pub. L. 93–248, § 14, Feb. 5, 1974, 88 Stat. 10.)
 
-## § 1484. Interpretation and administration; other right, duty, privilege, or immunity and other remedy unaffected
+## § 1484. Interpretation and administration; other right, duty, privilege, or immunity and other remedy unaffected
 
 This chapter shall be interpreted and administered in a manner consistent with the convention, the protocol, and other international law. Except as specifically provided, nothing in this chapter may be interpreted to prejudice any otherwise applicable right, duty, privilege, or immunity or deprive any country or person of any remedy otherwise applicable.
 
-(Pub. L. 93–248, § 15, Feb. 5, 1974, 88 Stat. 10; Pub. L. 95–302, § 1(6), June 26, 1978, 92 Stat. 345.)
+(Pub. L. 93–248, § 15, Feb. 5, 1974, 88 Stat. 10; Pub. L. 95–302, § 1(6), June 26, 1978, 92 Stat. 345.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1978—Pub. L. 95–302 inserted “, the protocol,” after “convention”.
+1978—Pub. L. 95–302 inserted “, the protocol,” after “convention”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -301,17 +301,17 @@ This chapter shall be interpreted and administered in a manner consistent with t
 
 For effective date of amendment by Pub. L. 95–302, see section 2 of Pub. L. 95–302, set out as a note under section 1487 of this title.
 
-## § 1485. Rules and regulations
+## § 1485. Rules and regulations
 
 The Secretary may issue reasonable rules and regulations which he considers appropriate and necessary for the effective implementation of this chapter.
 
-(Pub. L. 93–248, § 16, Feb. 5, 1974, 88 Stat. 10.)
+(Pub. L. 93–248, § 16, Feb. 5, 1974, 88 Stat. 10.)
 
-## § 1486. Oil Spill Liability Trust Fund
+## § 1486. Oil Spill Liability Trust Fund
 
 The Oil Spill Liability Trust Fund shall be available to the Secretary for actions taken under sections 1474 and 1476 of this title.
 
-(Pub. L. 93–248, § 17, Feb. 5, 1974, 88 Stat. 10; Pub. L. 101–380, title II, § 2001, Aug. 18, 1990, 104 Stat. 506.)
+(Pub. L. 93–248, § 17, Feb. 5, 1974, 88 Stat. 10; Pub. L. 101–380, title II, § 2001, Aug. 18, 1990, 104 Stat. 506.)
 
 **Editorial Notes**
 
@@ -325,11 +325,11 @@ The Oil Spill Liability Trust Fund shall be available to the Secretary for actio
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
 
-## § 1487. Effective date
+## § 1487. Effective date
 
 This chapter shall be effective upon February 5, 1974, or upon the date the convention becomes effective as to the United States, whichever is later.
 
-(Pub. L. 93–248, § 18, Feb. 5, 1974, 88 Stat. 10.)
+(Pub. L. 93–248, § 18, Feb. 5, 1974, 88 Stat. 10.)
 
 **Editorial Notes**
 
@@ -341,4 +341,4 @@ The date the convention became effective as to the United States, referred to in
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–302, § 2, June 26, 1978, 92 Stat. 345, provided that: “This Act [amending sections 1471 to 1473, 1479, 1482, and 1484 of this title] shall be effective upon the date of enactment [June 26, 1978], or upon the date the protocol becomes effective as to the United States, whichever is later.” [The protocol was adopted by the United States on Sept. 7, 1978, to be effective as to the United States upon its adoption by 15 countries. The protocol became effective as to the United States Mar. 30, 1983.
+Pub. L. 95–302, § 2, June 26, 1978, 92 Stat. 345, provided that: “This Act [amending sections 1471 to 1473, 1479, 1482, and 1484 of this title] shall be effective upon the date of enactment [June 26, 1978], or upon the date the protocol becomes effective as to the United States, whichever is later.” [The protocol was adopted by the United States on Sept. 7, 1978, to be effective as to the United States upon its adoption by 15 countries. The protocol became effective as to the United States Mar. 30, 1983.

@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 2207—UNITED STATES SUBMARINE VETERANS OF WORLD WAR II"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 2207—UNITED STATES SUBMARINE VETERANS OF WORLD WAR II"
 identifier: "/us/usc/t36/stII/ptB/ch2207"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 2207—UNITED STATES SUBMARINE VETERANS OF WORLD WAR II
 
-## § 220701. Definition
+## § 220701. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
 
@@ -25,11 +25,11 @@ For purposes of this chapter, “State” includes the District of Columbia and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220701 | 36:1813. | Nov. 20, 1981, Pub. L. 97–83, § 14, 95 Stat. 1096. |
+| 220701 | 36:1813. | Nov. 20, 1981, Pub. L. 97–83, § 14, 95 Stat. 1096. |
 
 The words “the Commonwealth of Puerto Rico” are omitted as included in “the territories and possessions of the United States”.
 
-## § 220702. Organization
+## § 220702. Organization
 
 **(a) Federal Charter.—** United States Submarine Veterans of World War II (in this chapter, the “corporation”), a nonprofit corporation incorporated in New Jersey and Colorado, is a federally chartered corporation.
 
@@ -41,12 +41,12 @@ The words “the Commonwealth of Puerto Rico” are omitted as included in “th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220702(a) | 36:1801. | Nov. 20, 1981, Pub. L. 97–83, §§ 1, 15 (last sentence), 16, 95 Stat. 1094, 1096. |
+| 220702(a) | 36:1801. | Nov. 20, 1981, Pub. L. 97–83, §§ 1, 15 (last sentence), 16, 95 Stat. 1094, 1096. |
 | 220702(b) | 36:1814 (last sentence). 36:1815. |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary words.
 
-## § 220703. Purposes
+## § 220703. Purposes
 
 The purposes of the corporation are as provided in its articles of incorporation and include—
 
@@ -68,13 +68,13 @@ The purposes of the corporation are as provided in its articles of incorporation
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220703 | 36:1803. | Nov. 20, 1981, Pub. L. 97–83, § 3, 95 Stat. 1094. |
+| 220703 | 36:1803. | Nov. 20, 1981, Pub. L. 97–83, § 3, 95 Stat. 1094. |
 
 Before clause (1), the words “objects” is omitted as included in “purposes”.
 
 In clause (1), the words “preserving and promoting” are added for clarity.
 
-## § 220704. Membership
+## § 220704. Membership
 
 Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the constitution and bylaws of the corporation.
 
@@ -84,9 +84,9 @@ Except as provided in this chapter, eligibility for membership in the corporatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220704 | 36:1805. | Nov. 20, 1981, Pub. L. 97–83, § 5, 95 Stat. 1094. |
+| 220704 | 36:1805. | Nov. 20, 1981, Pub. L. 97–83, § 5, 95 Stat. 1094. |
 
-## § 220705. Governing body
+## § 220705. Governing body
 
 **(a) Board of Directors.—** The board of directors and the responsibilities of the board are as provided in the articles of incorporation.
 
@@ -98,12 +98,12 @@ Except as provided in this chapter, eligibility for membership in the corporatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220705(a) | 36:1806. | Nov. 20, 1981, Pub. L. 97–83, §§ 6, 7, 95 Stat. 1095. |
+| 220705(a) | 36:1806. | Nov. 20, 1981, Pub. L. 97–83, §§ 6, 7, 95 Stat. 1095. |
 | 220705(b) | 36:1807. |  |
 
 The words “and in conformity with the laws of the State or States in which it is incorporated” in 36:1806 and “and in conformity with the laws of the State or States wherein it is incorporated” in 36:1807 are omitted as unnecessary.
 
-## § 220706. Powers
+## § 220706. Powers
 
 The corporation has only the powers provided in its bylaws and articles of incorporation filed in each State in which it is incorporated.
 
@@ -113,11 +113,11 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220706 | 36:1802. | Nov. 20, 1981, Pub. L. 97–83, § 2, 95 Stat. 1094. |
+| 220706 | 36:1802. | Nov. 20, 1981, Pub. L. 97–83, § 2, 95 Stat. 1094. |
 
 The words “and subject to the laws of such State or States” are omitted as unnecessary.
 
-## § 220707. Restrictions
+## § 220707. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -135,7 +135,7 @@ The words “and subject to the laws of such State or States” are omitted as u
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220707(a) | 36:1808(d). | Nov. 20, 1981, Pub. L. 97–83, § 8, 95 Stat. 1095. |
+| 220707(a) | 36:1808(d). | Nov. 20, 1981, Pub. L. 97–83, § 8, 95 Stat. 1095. |
 | 220707(b) | 36:1808(c). |  |
 | 220707(c) | 36:1808(a). |  |
 | 220707(d) | 36:1808(b). |  |
@@ -145,9 +145,9 @@ In subsection (a), the words “any shares of” are omitted as unnecessary.
 
 In subsection (b), the words “as such” are substituted for “acting as such officer or director” for consistency in the revised title.
 
-In subsection (c), the words “may not” are substituted for “No part of . . . shall” for consistency in the revised title and to eliminate unnecessary words. The words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “This subsection does not” are substituted for “Nothing in this subsection shall be construed to” for consistency in the revised title and to eliminate unnecessary words.
+In subsection (c), the words “may not” are substituted for “No part of . . . shall” for consistency in the revised title and to eliminate unnecessary words. The words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “This subsection does not” are substituted for “Nothing in this subsection shall be construed to” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 220708. Duty to maintain tax-exempt status
+## § 220708. Duty to maintain tax-exempt status
 
 The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
@@ -157,9 +157,9 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220708 | 36:1814 (1st sentence). | Nov. 20, 1981, Pub. L. 97–83, § 15 (1st sentence), 95 Stat. 1096. |
+| 220708 | 36:1814 (1st sentence). | Nov. 20, 1981, Pub. L. 97–83, § 15 (1st sentence), 95 Stat. 1096. |
 
-## § 220709. Records and inspection
+## § 220709. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -177,11 +177,11 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220709 | 36:1810. | Nov. 20, 1981, Pub. L. 97–83, § 10, 95 Stat. 1095. |
+| 220709 | 36:1810. | Nov. 20, 1981, Pub. L. 97–83, § 10, 95 Stat. 1095. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code. The words “Nothing in this section shall be construed to contravene any applicable State law” are omitted as unnecessary.
 
-## § 220710. Service of process
+## § 220710. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
@@ -191,11 +191,11 @@ The corporation shall comply with the law on service of process of each State in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220710 | 36:1804. | Nov. 20, 1981, Pub. L. 97–83, § 4, 95 Stat. 1094. |
+| 220710 | 36:1804. | Nov. 20, 1981, Pub. L. 97–83, § 4, 95 Stat. 1094. |
 
 The words “in furtherance of its corporate purposes” are omitted as unnecessary.
 
-## § 220711. Liability for acts of officers and agents
+## § 220711. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -205,9 +205,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220711 | 36:1809. | Nov. 20, 1981, Pub. L. 97–83, § 9, 95 Stat. 1095. |
+| 220711 | 36:1809. | Nov. 20, 1981, Pub. L. 97–83, § 9, 95 Stat. 1095. |
 
-## § 220712. Annual report
+## § 220712. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year. The report shall be submitted at the same time as the report of the audit required by section 10101 of this title. The report may not be printed as a public document.
 
@@ -217,7 +217,7 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220712 | 36:1811. | Nov. 20, 1981, Pub. L. 97–83, § 12, 95 Stat. 1096. |
+| 220712 | 36:1811. | Nov. 20, 1981, Pub. L. 97–83, § 12, 95 Stat. 1096. |
 
 **Statutory Notes and Related Subsidiaries**
 

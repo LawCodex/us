@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1998—Pub. L. 105–370, § 2(b), Nov. 12, 1998, 112 Stat. 3375, added item 4014.
+1998—Pub. L. 105–370, § 2(b), Nov. 12, 1998, 112 Stat. 3375, added item 4014.
 
-1988—Pub. L. 100–690, title VII, § 7608(d)(2), Nov. 18, 1988, 102 Stat. 4517, added item 4013.
+1988—Pub. L. 100–690, title VII, § 7608(d)(2), Nov. 18, 1988, 102 Stat. 4517, added item 4013.
 
-1984—Pub. L. 98–473, title II, § 1109(e), Oct. 12, 1984, 98 Stat. 2148, added item 4012.
+1984—Pub. L. 98–473, title II, § 1109(e), Oct. 12, 1984, 98 Stat. 2148, added item 4012.
 
-1971—Pub. L. 92–128, § 1(c), Sept. 25, 1971, 85 Stat. 347, substituted “Limitation on detention; control of prisons” for “Control by Attorney General” in item 4001.
+1971—Pub. L. 92–128, § 1(c), Sept. 25, 1971, 85 Stat. 347, substituted “Limitation on detention; control of prisons” for “Control by Attorney General” in item 4001.
 
-1966—Pub. L. 89–554, § 3(e), Sept. 6, 1966, 80 Stat. 610, added items 4010 and 4011.
+1966—Pub. L. 89–554, § 3(e), Sept. 6, 1966, 80 Stat. 610, added items 4010 and 4011.
 
-## § 4001. Limitation on detention; control of prisons
+## § 4001. Limitation on detention; control of prisons
 
 **(a)** No citizen shall be imprisoned or otherwise detained by the United States except pursuant to an Act of Congress.
 
@@ -39,11 +39,11 @@ retrieved: 2026-10-11
 
 **(2)** The Attorney General may establish and conduct industries, farms, and other activities and classify the inmates; and provide for their proper government, discipline, treatment, care, rehabilitation, and reformation.
 
-(June 25, 1948, ch. 645, 62 Stat. 847; Pub. L. 92–128, § 1(a), (b), Sept. 25, 1971, 85 Stat. 347.)
+(June 25, 1948, ch. 645, 62 Stat. 847; Pub. L. 92–128, § 1(a), (b), Sept. 25, 1971, 85 Stat. 347.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1934 ed., §§ 741 and 753e (Mar. 3, 1891, ch. 529, §§ 1, 4, 26 Stat. 839; May 14, 1930, ch. 274, § 6, 46 Stat. 326).
+Based on title 18, U.S.C., 1934 ed., §§ 741 and 753e (Mar. 3, 1891, ch. 529, §§ 1, 4, 26 Stat. 839; May 14, 1930, ch. 274, § 6, 46 Stat. 326).
 
 This section consolidates said sections 741 and 753e with such changes of language as were necessary to effect consolidation.
 
@@ -53,29 +53,29 @@ This section consolidates said sections 741 and 753e with such changes of langua
 
 **References in Text**
 
-The Classification Act, as amended, referred to in subsec. (b)(1), originally was the Classification Act of 1923, Mar. 4, 1923, ch. 265, 42 Stat. 1488, which was repealed by section 1202 of the Classification Act of 1949, Oct. 28, 1949, ch. 782, 63 Stat. 972. Section 1106(a) of the 1949 Act provided that references in other laws to the Classification Act of 1923 shall be held and considered to mean the Classification Act of 1949. The Classification Act of 1949 was in turn repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5.
+The Classification Act, as amended, referred to in subsec. (b)(1), originally was the Classification Act of 1923, Mar. 4, 1923, ch. 265, 42 Stat. 1488, which was repealed by section 1202 of the Classification Act of 1949, Oct. 28, 1949, ch. 782, 63 Stat. 972. Section 1106(a) of the 1949 Act provided that references in other laws to the Classification Act of 1923 shall be held and considered to mean the Classification Act of 1949. The Classification Act of 1949 was in turn repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5.
 
 **Amendments**
 
-1971—Pub. L. 92–128, § 1(b), substituted “Limitation on detention; control of prisons” for “Control by Attorney General” in section catchline.
+1971—Pub. L. 92–128, § 1(b), substituted “Limitation on detention; control of prisons” for “Control by Attorney General” in section catchline.
 
-Subsec. (a). Pub. L. 92–128, § 1(a), added subsec. (a).
+Subsec. (a). Pub. L. 92–128, § 1(a), added subsec. (a).
 
-Subsec. (b). Pub. L. 92–128, § 1(a), designated existing first and second pars. as pars. (1) and (2) of subsec. (b).
+Subsec. (b). Pub. L. 92–128, § 1(a), designated existing first and second pars. as pars. (1) and (2) of subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–294, § 1, Oct. 12, 2000, 114 Stat. 1038, provided that: “This Act [enacting section 4048 of this title and amending section 4013 of this title] may be cited as the ‘Federal Prisoner Health Care Copayment Act of 2000’.”
+Pub. L. 106–294, § 1, Oct. 12, 2000, 114 Stat. 1038, provided that: “This Act [enacting section 4048 of this title and amending section 4013 of this title] may be cited as the ‘Federal Prisoner Health Care Copayment Act of 2000’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–370, § 1, Nov. 12, 1998, 112 Stat. 3374, provided that: “This Act [enacting section 4014 of this title and provisions set out as a note under section 4042 of this title] may be cited as the ‘Correction Officers Health and Safety Act of 1998’.”
+Pub. L. 105–370, § 1, Nov. 12, 1998, 112 Stat. 3374, provided that: “This Act [enacting section 4014 of this title and provisions set out as a note under section 4042 of this title] may be cited as the ‘Correction Officers Health and Safety Act of 1998’.”
 
 **Research and Report on Women in Federal Incarceration**
 
-Pub. L. 117–103, div. W, title X, § 1003, Mar. 15, 2022, 136 Stat. 917, provided that:
+Pub. L. 117–103, div. W, title X, § 1003, Mar. 15, 2022, 136 Stat. 917, provided that:
 
 > “Not later than 18 months after the date of enactment of this Act [Mar. 15, 2022], and thereafter, every other year, the National Institute of Justice, in consultation with the Bureau of Justice Statistics and the Bureau of Prisons (including the Women and Special Population Branch) shall prepare a report on the status of women in Federal incarceration. Depending on the topic to be addressed, and the facility, data shall be collected from Bureau of Prisons personnel and a sample that is representative of the population of incarcerated women. The report shall include—
 
@@ -109,7 +109,7 @@ Pub. L. 117–103, div. W, title X, § 1003, Mar. 15, 2022, 136 Stat. 917, pro
 
 **Federal Law Enforcement Death in Custody Reporting Requirement**
 
-Pub. L. 113–242, § 3, Dec. 18, 2014, 128 Stat. 2861, provided that:
+Pub. L. 113–242, § 3, Dec. 18, 2014, 128 Stat. 2861, provided that:
 
 > **“(a) In General.—** For each fiscal year (beginning after the date that is 120 days after the date of the enactment of this Act [Dec. 18, 2014]), the head of each Federal law enforcement agency shall submit to the Attorney General a report (in such form and manner specified by the Attorney General) that contains information regarding the death of any person who is—
 
@@ -129,11 +129,11 @@ Pub. L. 113–242, § 3, Dec. 18, 2014, 128 Stat. 2861, provided that:
 
 **Placement of Certain Persons in Privately Operated Prisons**
 
-Pub. L. 106–553, § 1(a)(2) [title I, § 114, formerly § 115], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; renumbered § 114, Pub. L. 106–554, § 1(a)(4) [div. A, § 213(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–179, provided that: “Beginning in fiscal year 2001 and thereafter, funds appropriated to the Federal Prison System may be used to place in privately operated prisons only such persons sentenced to incarceration under the District of Columbia Code as the Director, Bureau of Prisons, may determine to be appropriate for such placement consistent with Federal classification standards, after consideration of all relevant factors, including the threat of danger to public safety.”
+Pub. L. 106–553, § 1(a)(2) [title I, § 114, formerly § 115], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; renumbered § 114, Pub. L. 106–554, § 1(a)(4) [div. A, § 213(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–179, provided that: “Beginning in fiscal year 2001 and thereafter, funds appropriated to the Federal Prison System may be used to place in privately operated prisons only such persons sentenced to incarceration under the District of Columbia Code as the Director, Bureau of Prisons, may determine to be appropriate for such placement consistent with Federal classification standards, after consideration of all relevant factors, including the threat of danger to public safety.”
 
 **Fee To Recover Cost of Incarceration**
 
-Pub. L. 102–395, title I, § 111(a), Oct. 6, 1992, 106 Stat. 1842, provided that:
+Pub. L. 102–395, title I, § 111(a), Oct. 6, 1992, 106 Stat. 1842, provided that:
 
 > **“(1)** For fiscal year 1993 and thereafter the Attorney General shall establish and collect a fee to cover the costs of confinement from any person convicted in a United States District Court and committed to the Attorney General’s custody.
 
@@ -151,9 +151,9 @@ Pub. L. 102–395, title I, § 111(a), Oct. 6, 1992, 106 Stat. 1842, provided 
 
 **Use of Inactive Department of Defense Facilities as Prisons**
 
-Pub. L. 95–624, § 9, Nov. 9, 1978, 92 Stat. 3463, provided that: “The Attorney General shall consult with the Secretary of Defense in order to develop a plan to assure that such suitable facilities as the Department of Defense operates which are not in active use shall be made available for operation by the Department of Justice for the confinement of United States prisoners. Such plan shall provide for the return to the management of the Department of Defense of any such facility upon a finding by the Secretary of Defense that such return is necessary to the operation of the Department.”
+Pub. L. 95–624, § 9, Nov. 9, 1978, 92 Stat. 3463, provided that: “The Attorney General shall consult with the Secretary of Defense in order to develop a plan to assure that such suitable facilities as the Department of Defense operates which are not in active use shall be made available for operation by the Department of Justice for the confinement of United States prisoners. Such plan shall provide for the return to the management of the Department of Defense of any such facility upon a finding by the Secretary of Defense that such return is necessary to the operation of the Department.”
 
-## § 4002. Federal prisoners in State institutions; employment
+## § 4002. Federal prisoners in State institutions; employment
 
 For the purpose of providing suitable quarters for the safekeeping, care, and subsistence of all persons held under authority of any enactment of Congress, the Attorney General may contract, for a period not exceeding three years, with the proper authorities of any State, Territory, or political subdivision thereof, for the imprisonment, subsistence, care, and proper employment of such persons.
 
@@ -161,11 +161,11 @@ Such Federal prisoners shall be employed only in the manufacture of articles for
 
 The rates to be paid for the care and custody of said persons shall take into consideration the character of the quarters furnished, sanitary conditions, and quality of subsistence and may be such as will permit and encourage the proper authorities to provide reasonably decent, sanitary, and healthful quarters and subsistence for such persons.
 
-(June 25, 1948, ch. 645, 62 Stat. 847; Pub. L. 95–624, § 8, Nov. 9, 1978, 92 Stat. 3463.)
+(June 25, 1948, ch. 645, 62 Stat. 847; Pub. L. 95–624, § 8, Nov. 9, 1978, 92 Stat. 3463.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 753b, (May 14, 1930, ch. 274, § 3, 46 Stat. 325).
+Based on title 18, U.S.C., 1940 ed., § 753b, (May 14, 1930, ch. 274, § 3, 46 Stat. 325).
 
 Changes were made in phraseology. The first sentence was incorporated in section 4042 of this title.
 
@@ -175,7 +175,7 @@ Changes were made in phraseology. The first sentence was incorporated in section
 
 1978—Pub. L. 95–624 substituted “Attorney General” for “Director of the Bureau of Prisons”.
 
-## § 4003. Federal institutions in States without appropriate facilities
+## § 4003. Federal institutions in States without appropriate facilities
 
 If by reason of the refusal or inability of the authorities having control of any jail, workhouse, penal, correctional, or other suitable institution of any State or Territory, or political subdivision thereof, to enter into a contract for the imprisonment, subsistence, care, or proper employment of United States prisoners, or if there are no suitable or sufficient facilities available at reasonable cost, the Attorney General may select a site either within or convenient to the State, Territory, or judicial district concerned and cause to be erected thereon a house of detention, workhouse, jail, prison-industries project, or camp, or other place of confinement, which shall be used for the detention of persons held under authority of any Act of Congress, and of such other persons as in the opinion of the Attorney General are proper subjects for confinement in such institutions.
 
@@ -183,7 +183,7 @@ If by reason of the refusal or inability of the authorities having control of an
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 753c (May 14, 1930, ch. 274, § 4, 46 Stat. 326).
+Based on title 18, U.S.C., 1940 ed., § 753c (May 14, 1930, ch. 274, § 4, 46 Stat. 326).
 
 Words “with or without hard labor” were omitted as unnecessary in view of omission of “hard labor” as part of the punishment. (See reviser’s note under section 1 of this title.)
 
@@ -191,15 +191,15 @@ The phrase “held under authority of any Act of Congress,” was substituted fo
 
 Minor changes in arrangement and phraseology were made.
 
-## § 4004. Oaths and acknowledgments
+## § 4004. Oaths and acknowledgments
 
 The wardens and superintendents, associate wardens and superintendents, chief clerks, and record clerks, of Federal penal or correctional institutions, may administer oaths to and take acknowledgments of officers, employees, and inmates of such institutions, but shall not demand or accept any fee or compensation therefor.
 
-(June 25, 1948, ch. 645, 62 Stat. 848; July 7, 1955, ch. 282, 69 Stat. 282; Pub. L. 98–473, title II, § 223(*l*), Oct. 12, 1984, 98 Stat. 2029.)
+(June 25, 1948, ch. 645, 62 Stat. 848; July 7, 1955, ch. 282, 69 Stat. 282; Pub. L. 98–473, title II, § 223(*l*), Oct. 12, 1984, 98 Stat. 2029.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 754 (Feb. 11, 1938, ch. 24, §§ 1, 2, 52 Stat. 28).
+Based on title 18, U.S.C., 1940 ed., § 754 (Feb. 11, 1938, ch. 24, §§ 1, 2, 52 Stat. 28).
 
 Section was extended to include superintendents and associate superintendents.
 
@@ -219,23 +219,23 @@ Minor changes were made in phraseology. Words “the authority conferred by” w
 
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-## § 4005. Medical relief; expenses
+## § 4005. Medical relief; expenses
 
 **(a)** Upon request of the Attorney General and to the extent consistent with the Assisted Suicide Funding Restriction Act of 1997, the Federal Security Administrator shall detail regular and reserve commissioned officers of the Public Health Service, pharmacists, acting assistant surgeons, and other employees of the Public Health Service to the Department of Justice for the purpose of supervising and furnishing medical, psychiatric, and other technical and scientific services to the Federal penal and correctional institutions.
 
 **(b)** The compensation, allowances, and expenses of the personnel detailed under this section may be paid from applicable appropriations of the Public Health Service in accordance with the law and regulations governing the personnel of the Public Health Service, such appropriations to be reimbursed from applicable appropriations of the Department of Justice; or the Attorney General may make allotments of funds and transfer of credit to the Public Health Service in such amounts as are available and necessary, for payment of compensation, allowances, and expenses of personnel so detailed, in accordance with the law and regulations governing the personnel of the Public Health Service.
 
-(June 25, 1948, ch. 645, 62 Stat. 848; Pub. L. 105–12, § 9(k), Apr. 30, 1997, 111 Stat. 28.)
+(June 25, 1948, ch. 645, 62 Stat. 848; Pub. L. 105–12, § 9(k), Apr. 30, 1997, 111 Stat. 28.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 751, 752 (May 13, 1930, ch. 256, §§ 1, 2, 46 Stat. 273; Reorg. Plan No. I, §§ 201, 205, 4 F.R. 2728, 2729, 53 Stat. 1424, 1425).
+Based on title 18, U.S.C., 1940 ed., §§ 751, 752 (May 13, 1930, ch. 256, §§ 1, 2, 46 Stat. 273; Reorg. Plan No. I, §§ 201, 205, 4 F.R. 2728, 2729, 53 Stat. 1424, 1425).
 
 Section consolidates sections 751 and 752 of title 18, U.S.C., 1940 ed., as subsections (a) and (b), respectively.
 
 “Federal Security Administrator” was substituted for “Federal Security Agency.”
 
-Functions of the Secretary of the Treasury were transferred to the Federal Security Administrator by Reorg. Plan No. I, § 205, 4 F.R. 2729, 53 Stat. 1425. (See note under section 133t of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees.)
+Functions of the Secretary of the Treasury were transferred to the Federal Security Administrator by Reorg. Plan No. I, § 205, 4 F.R. 2729, 53 Stat. 1425. (See note under section 133t of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees.)
 
 The first part of said section 751, which read “Authorized medical relief under the Department of Justice in Federal penal and correctional institutions shall be supervised and furnished by personnel of the Public Health Service, and” was omitted as surplusage, considering the remainder of the text.
 
@@ -245,7 +245,7 @@ Minor changes of phraseology were made.
 
 **References in Text**
 
-The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§ 14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
+The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§ 14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
 
 **Amendments**
 
@@ -255,7 +255,7 @@ The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a)
 
 **Change of Name**
 
-Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
+Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
 
 **Effective Date of 1997 Amendment**
 
@@ -269,7 +269,7 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare (see Change of Name note above) by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5.
 
-## § 4006. Subsistence for prisoners
+## § 4006. Subsistence for prisoners
 
 **(a) In General.—** The Attorney General or the Secretary of Homeland Security, as applicable, shall allow and pay only the reasonable and actual cost of the subsistence of prisoners in the custody of any marshal of the United States, and shall prescribe such regulations for the government of the marshals as will enable him to determine the actual and reasonable expenses incurred.
 
@@ -279,13 +279,13 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 **(2) Full and final payment.—** Any payment for a health care item or service made pursuant to this subsection, shall be deemed to be full and final payment.
 
-(June 25, 1948, ch. 645, 62 Stat. 848; Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 114], Nov. 29, 1999, 113 Stat. 1535, 1501A–20; Pub. L. 106–553, § 1(a)(2) [title VI, § 626], Dec. 21, 2000, 114 Stat. 2762, 2762A–108; Pub. L. 109–162, title XI, § 1157, Jan. 5, 2006, 119 Stat. 3114.)
+(June 25, 1948, ch. 645, 62 Stat. 848; Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 114], Nov. 29, 1999, 113 Stat. 1535, 1501A–20; Pub. L. 106–553, § 1(a)(2) [title VI, § 626], Dec. 21, 2000, 114 Stat. 2762, 2762A–108; Pub. L. 109–162, title XI, § 1157, Jan. 5, 2006, 119 Stat. 3114.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 703 (R.S. § 5545; Mar. 2, 1911, ch. 192, 36 Stat. 1003).
+Based on title 18, U.S.C., 1940 ed., § 703 (R.S. § 5545; Mar. 2, 1911, ch. 192, 36 Stat. 1003).
 
-The provisions relating to the Washington Asylum and Jail are now included in the District of Columbia Code. (See D.C. Code, 1940 ed., § 24–421.)
+The provisions relating to the Washington Asylum and Jail are now included in the District of Columbia Code. (See D.C. Code, 1940 ed., § 24–421.)
 
 Changes of phraseology were made.
 
@@ -293,23 +293,23 @@ Changes of phraseology were made.
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–162, § 1157(1), inserted “or the Secretary of Homeland Security, as applicable,” after “The Attorney General”.
+2006—Subsec. (a). Pub. L. 109–162, § 1157(1), inserted “or the Secretary of Homeland Security, as applicable,” after “The Attorney General”.
 
-Subsec. (b)(1). Pub. L. 109–162, § 1157(2), substituted “the Department of Homeland Security” for “the Immigration and Naturalization Service”, “shall be the amount billed, not to exceed the amount” for “shall not exceed the lesser of the amount”, and “items and services under the Medicare program” for “items and services under—
+Subsec. (b)(1). Pub. L. 109–162, § 1157(2), substituted “the Department of Homeland Security” for “the Immigration and Naturalization Service”, “shall be the amount billed, not to exceed the amount” for “shall not exceed the lesser of the amount”, and “items and services under the Medicare program” for “items and services under—
 
 “(A) the Medicare program”
 
 and struck out subpar. (B) which read as follows: “the Medicaid program under title XIX of such Act of the State in which the services were provided.”
 
-2000—Subsec. (b)(1). Pub. L. 106–553 inserted “, the Federal Bureau of Investigation” after “United States Marshals Service”.
+2000—Subsec. (b)(1). Pub. L. 106–553 inserted “, the Federal Bureau of Investigation” after “United States Marshals Service”.
 
 1999—Pub. L. 106–113 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-## § 4007. Expenses of prisoners
+## § 4007. Expenses of prisoners
 
 The expenses attendant upon the confinement of persons arrested or committed under the laws of the United States, as well as upon the execution of any sentence of a court thereof respecting them, shall be paid out of the Treasury of the United States in the manner provided by law.
 
@@ -317,7 +317,7 @@ The expenses attendant upon the confinement of persons arrested or committed und
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 701 (R.S. § 5536).
+Based on title 18, U.S.C., 1940 ed., § 701 (R.S. § 5536).
 
 Provision authorizing expenses for transportation was omitted as covered by similar provision in section 4008 of this title.
 
@@ -327,9 +327,9 @@ Minor changes of phraseology were made.
 
 **Payment of Costs of Incarceration by Federal Prisoners**
 
-Pub. L. 100–690, title VII, § 7301, Nov. 18, 1988, 102 Stat. 4463, provided that not later than 1 year after Nov. 18, 1988, the United States Sentencing Commission would study the feasibility of requiring prisoners incarcerated in Federal correctional institutions to pay some or all of the costs incident to the prisoner’s confinement, including, but not limited to, the costs of food, housing, and shelter.
+Pub. L. 100–690, title VII, § 7301, Nov. 18, 1988, 102 Stat. 4463, provided that not later than 1 year after Nov. 18, 1988, the United States Sentencing Commission would study the feasibility of requiring prisoners incarcerated in Federal correctional institutions to pay some or all of the costs incident to the prisoner’s confinement, including, but not limited to, the costs of food, housing, and shelter.
 
-## § 4008. Transportation expenses
+## § 4008. Transportation expenses
 
 Prisoners shall be transported by agents designated by the Attorney General or his authorized representative.
 
@@ -337,13 +337,13 @@ The reasonable expense of transportation, necessary subsistence, and hire and tr
 
 Upon conviction by a consular court or court martial the prisoner shall be transported from the court to the place of confinement by agents of the Department of State, the Army, Navy, or Air Force, as the case may be, the expense to be paid out of the Treasury of the United States in the manner provided by law.
 
-(June 25, 1948, ch. 645, 62 Stat. 849; May 24, 1949, ch. 139, § 61, 63 Stat. 98.)
+(June 25, 1948, ch. 645, 62 Stat. 849; May 24, 1949, ch. 139, § 61, 63 Stat. 98.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., § 753g (May 14, 1930, ch. 274, § 8, 46 Stat. 327).
+Based on title 18, U.S.C., 1940 ed., § 753g (May 14, 1930, ch. 274, § 8, 46 Stat. 327).
 
 The second paragraph was originally a proviso.
 
@@ -351,7 +351,7 @@ Minor changes of phraseology were made.
 
 **1949 Act**
 
-This section [section 61] corrects the third paragraph of section 4008 of title 18, U.S.C., by redesignating the “War Department” as the “Department of the Army”, to conform to such redesignation by act of July 26, 1947 (ch. 343, title II, § 205(a), 61 Stat. 501), and by inserting a reference to the Department of the Air Force, in view of the creation of such Department by the same act.
+This section [section 61] corrects the third paragraph of section 4008 of title 18, U.S.C., by redesignating the “War Department” as the “Department of the Army”, to conform to such redesignation by act of July 26, 1947 (ch. 343, title II, § 205(a), 61 Stat. 501), and by inserting a reference to the Department of the Air Force, in view of the creation of such Department by the same act.
 
 **Editorial Notes**
 
@@ -359,7 +359,7 @@ This section [section 61] corrects the third paragraph of section 4008 of title 
 
 1949—Act May 24, 1949, substituted “the Army, Navy, or Air Force” for “War, or the Navy”.
 
-## § 4009. Appropriations for sites and buildings
+## § 4009. Appropriations for sites and buildings
 
 The Attorney General may authorize the use of a sum not to exceed $100,000 in each instance, payable from any unexpended balance of the appropriation “Support of United States prisoners” for the purpose of leasing or acquiring a site, preparation of plans, and erection of necessary buildings under section 4003 of this title.
 
@@ -371,44 +371,44 @@ Upon selection of an appropriate site the Attorney General shall submit to Congr
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 753d (May 14, 1930, ch. 274, § 5, 46 Stat. 326).
+Based on title 18, U.S.C., 1940 ed., § 753d (May 14, 1930, ch. 274, § 5, 46 Stat. 326).
 
 Minor changes of phraseology were made.
 
-## § 4010. Acquisition of additional land
+## § 4010. Acquisition of additional land
 
 The Attorney General may, when authorized by law, acquire land adjacent to or in the vicinity of a Federal penal or correctional institution if he considers the additional land essential to the protection of the health or safety of the inmates of the institution.
 
-(Added Pub. L. 89–554, § 3(f), Sept. 6, 1966, 80 Stat. 610.)
+(Added Pub. L. 89–554, § 3(f), Sept. 6, 1966, 80 Stat. 610.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 341f. | July 28, 1950, ch. 503, § 7, 64 Stat. 381. |
+|  | 5 U.S.C. 341f. | July 28, 1950, ch. 503, § 7, 64 Stat. 381. |
 |  |  | Sept. 16, 1959, Pub. L. 86–286, 73 Stat. 567. |
 
 The reference to an appropriation law is omitted as covered by the words “when authorized by law”.
 
-## § 4011. Disposition of cash collections for meals, laundry, etc.
+## § 4011. Disposition of cash collections for meals, laundry, etc.
 
 Collections in cash for meals, laundry, barber service, uniform equipment, and other items for which payment is made originally from appropriations for the maintenance and operation of Federal penal and correctional institutions, may be deposited in the Treasury to the credit of the appropriation currently available for those items when the collection is made.
 
-(Added Pub. L. 89–554, § 3(f), Sept. 6, 1966, 80 Stat. 610.)
+(Added Pub. L. 89–554, § 3(f), Sept. 6, 1966, 80 Stat. 610.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 341g. | July 28, 1950, ch. 503, § 8, 64 Stat. 381. |
+|  | 5 U.S.C. 341g. | July 28, 1950, ch. 503, § 8, 64 Stat. 381. |
 
-## § 4012. Summary seizure and forfeiture of prison contraband
+## § 4012. Summary seizure and forfeiture of prison contraband
 
 An officer or employee of the Bureau of Prisons may, pursuant to rules and regulations of the Director of the Bureau of Prisons, summarily seize any object introduced into a Federal penal or correctional facility or possessed by an inmate of such a facility in violation of a rule, regulation or order promulgated by the Director, and such object shall be forfeited to the United States.
 
-(Added Pub. L. 98–473, title II, § 1109(d), Oct. 12, 1984, 98 Stat. 2148.)
+(Added Pub. L. 98–473, title II, § 1109(d), Oct. 12, 1984, 98 Stat. 2148.)
 
-## § 4013. Support of United States prisoners in non-Federal institutions
+## § 4013. Support of United States prisoners in non-Federal institutions
 
 **(a)** The Attorney General, in support of United States prisoners in non-Federal institutions, is authorized to make payments from funds appropriated for Federal prisoner detention for—
 
@@ -486,53 +486,53 @@ An officer or employee of the Bureau of Prisons may, pursuant to rules and regul
 
 **(6) Comprehensive hiv/aids services required.—** Any State or local government assessing or collecting a fee under this subsection shall provide comprehensive coverage for services relating to human immunodeficiency virus (HIV) and acquired immune deficiency syndrome (AIDS) to each Federal prisoner in the custody of such State or local government when medically appropriate. The State or local government may not assess or collect a fee under this subsection for providing such coverage.
 
-(Added Pub. L. 100–690, title VII, § 7608(d)(1), Nov. 18, 1988, 102 Stat. 4516; amended Pub. L. 101–647, title XVII, § 1701, title XXXV, § 3599, Nov. 29, 1990, 104 Stat. 4843, 4931; Pub. L. 103–322, title XXXIII, § 330011(*o*), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 106–294, § 3, Oct. 12, 2000, 114 Stat. 1040; Pub. L. 107–273, div. A, title III, § 302(2), Nov. 2, 2002, 116 Stat. 1781.)
+(Added Pub. L. 100–690, title VII, § 7608(d)(1), Nov. 18, 1988, 102 Stat. 4516; amended Pub. L. 101–647, title XVII, § 1701, title XXXV, § 3599, Nov. 29, 1990, 104 Stat. 4843, 4931; Pub. L. 103–322, title XXXIII, § 330011(*o*), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 106–294, § 3, Oct. 12, 2000, 114 Stat. 1040; Pub. L. 107–273, div. A, title III, § 302(2), Nov. 2, 2002, 116 Stat. 1781.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–273, § 302(2)(A), in introductory provisions, substituted “Federal prisoner detention” for “the support of United States prisoners”, inserted “and” at end of par. (2), substituted period for “; and” at end of par. (3), and in introductory provisions of par. (4), inserted “The Attorney General, in support of Federal prisoner detainees in non-Federal institutions, is authorized to make payments, from funds appropriated for State and local law enforcement assistance, for” before “entering”.
+2002—Subsec. (a). Pub. L. 107–273, § 302(2)(A), in introductory provisions, substituted “Federal prisoner detention” for “the support of United States prisoners”, inserted “and” at end of par. (2), substituted period for “; and” at end of par. (3), and in introductory provisions of par. (4), inserted “The Attorney General, in support of Federal prisoner detainees in non-Federal institutions, is authorized to make payments, from funds appropriated for State and local law enforcement assistance, for” before “entering”.
 
-Subsecs. (a)(4), (b). Pub. L. 107–273, § 302(2)(B)(ii), redesignated par. (4) of subsec. (a) as subsec. (b) and subpars. (A) to (C) as pars. (1) to (3), respectively. Former subsec. (b) redesignated (c).
+Subsecs. (a)(4), (b). Pub. L. 107–273, § 302(2)(B)(ii), redesignated par. (4) of subsec. (a) as subsec. (b) and subpars. (A) to (C) as pars. (1) to (3), respectively. Former subsec. (b) redesignated (c).
 
-Subsecs. (c), (d). Pub. L. 107–273, § 302(2)(B)(i), redesignated subsecs. (b) and (c) as (c) and (d), respectively.
+Subsecs. (c), (d). Pub. L. 107–273, § 302(2)(B)(i), redesignated subsecs. (b) and (c) as (c) and (d), respectively.
 
 2000—Subsec. (c). Pub. L. 106–294 added subsec. (c).
 
-1994—Pub. L. 103–322, § 330011(*o*), repealed Pub. L. 101–647, § 3599. See 1990 Amendment note below.
+1994—Pub. L. 103–322, § 330011(*o*), repealed Pub. L. 101–647, § 3599. See 1990 Amendment note below.
 
-1990—Subsec. (a). Pub. L. 101–647, § 3599, which struck out “(a)” at beginning of text, was repealed by Pub. L. 103–322, § 330011(*o*).
+1990—Subsec. (a). Pub. L. 101–647, § 3599, which struck out “(a)” at beginning of text, was repealed by Pub. L. 103–322, § 330011(*o*).
 
-Subsec. (b). Pub. L. 101–647, § 1701, added subsec. (b).
+Subsec. (b). Pub. L. 101–647, § 1701, added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–322, title XXXIII, § 330011(*o*), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by section 330011(*o*) is effective Nov. 29, 1990.
+Pub. L. 103–322, title XXXIII, § 330011(*o*), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by section 330011(*o*) is effective Nov. 29, 1990.
 
 **Contracts for Space or Facilities**
 
-Pub. L. 106–553, § 1(a)(2) [title I, § 118, formerly § 119], Dec. 21, 2000, 114 Stat. 2762, 2762A–69; renumbered § 118, Pub. L. 106–554, § 1(a)(4) [div. A, § 213(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–179, provided that: “Notwithstanding any other provision of law, including section 4(d) of the Service Contract Act of 1965 ([former] 41 U.S.C. 353(d)) [now 41 U.S.C. 6707(d)], the Attorney General hereafter may enter into contracts and other agreements, of any reasonable duration, for detention or incarceration space or facilities, including related services, on any reasonable basis.”
+Pub. L. 106–553, § 1(a)(2) [title I, § 118, formerly § 119], Dec. 21, 2000, 114 Stat. 2762, 2762A–69; renumbered § 118, Pub. L. 106–554, § 1(a)(4) [div. A, § 213(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–179, provided that: “Notwithstanding any other provision of law, including section 4(d) of the Service Contract Act of 1965 ([former] 41 U.S.C. 353(d)) [now 41 U.S.C. 6707(d)], the Attorney General hereafter may enter into contracts and other agreements, of any reasonable duration, for detention or incarceration space or facilities, including related services, on any reasonable basis.”
 
 **Justice Prisoner and Alien Transportation System Fund, United States Marshals Service**
 
-Pub. L. 106–553, § 1(a)(2) [title I], Dec. 21, 2000, 114 Stat. 2762, 2762A–55, provided in part that: “Beginning in fiscal year 2000 and thereafter, payment shall be made from the Justice Prisoner and Alien Transportation System Fund for necessary expenses related to the scheduling and transportation of United States prisoners and illegal and criminal aliens in the custody of the United States Marshals Service, as authorized in 18 U.S.C. 4013, including, without limitation, salaries and expenses, operations, and the acquisition, lease, and maintenance of aircraft and support facilities: *Provided*, That the Fund shall be reimbursed or credited with advance payments from amounts available to the Department of Justice, other Federal agencies, and other sources at rates that will recover the expenses of Fund operations, including, without limitation, accrual of annual leave and depreciation of plant and equipment of the Fund: *Provided further*, That proceeds from the disposal of Fund aircraft shall be credited to the Fund: *Provided further*, That amounts in the Fund shall be available without fiscal year limitation, and may be used for operating equipment lease agreements that do not exceed 10 years.”
+Pub. L. 106–553, § 1(a)(2) [title I], Dec. 21, 2000, 114 Stat. 2762, 2762A–55, provided in part that: “Beginning in fiscal year 2000 and thereafter, payment shall be made from the Justice Prisoner and Alien Transportation System Fund for necessary expenses related to the scheduling and transportation of United States prisoners and illegal and criminal aliens in the custody of the United States Marshals Service, as authorized in 18 U.S.C. 4013, including, without limitation, salaries and expenses, operations, and the acquisition, lease, and maintenance of aircraft and support facilities: *Provided*, That the Fund shall be reimbursed or credited with advance payments from amounts available to the Department of Justice, other Federal agencies, and other sources at rates that will recover the expenses of Fund operations, including, without limitation, accrual of annual leave and depreciation of plant and equipment of the Fund: *Provided further*, That proceeds from the disposal of Fund aircraft shall be credited to the Fund: *Provided further*, That amounts in the Fund shall be available without fiscal year limitation, and may be used for operating equipment lease agreements that do not exceed 10 years.”
 
 Similar provisions were contained in the following prior appropriations act:
 
-Pub. L. 106–113, div. B, § 1000(a)(1) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–7.
+Pub. L. 106–113, div. B, § 1000(a)(1) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–7.
 
-Pub. L. 105–277, div. A, § 101(b) [title I], Oct. 21, 1998, 112 Stat. 2681–50, 2681–54, provided that: “There is hereby established a Justice Prisoner and Alien Transportation System Fund for the payment of necessary expenses related to the scheduling and transportation of United States prisoners and illegal and criminal aliens in the custody of the United States Marshals Service, as authorized in 18 U.S.C. 4013, including, without limitation, salaries and expenses, operations, and the acquisition, lease, and maintenance of aircraft and support facilities: *Provided*, That the Fund shall be reimbursed or credited with advance payments from amounts available to the Department of Justice, other Federal agencies, and other sources at rates that will recover the expenses of Fund operations, including, without limitation, accrual of annual leave and depreciation of plant and equipment of the Fund: *Provided further*, That proceeds from the disposal of Fund aircraft shall be credited to the Fund: *Provided further*, That amounts in the Fund shall be available without fiscal year limitation, and may be used for operating equipment lease agreements that do not exceed 5 years.”
+Pub. L. 105–277, div. A, § 101(b) [title I], Oct. 21, 1998, 112 Stat. 2681–50, 2681–54, provided that: “There is hereby established a Justice Prisoner and Alien Transportation System Fund for the payment of necessary expenses related to the scheduling and transportation of United States prisoners and illegal and criminal aliens in the custody of the United States Marshals Service, as authorized in 18 U.S.C. 4013, including, without limitation, salaries and expenses, operations, and the acquisition, lease, and maintenance of aircraft and support facilities: *Provided*, That the Fund shall be reimbursed or credited with advance payments from amounts available to the Department of Justice, other Federal agencies, and other sources at rates that will recover the expenses of Fund operations, including, without limitation, accrual of annual leave and depreciation of plant and equipment of the Fund: *Provided further*, That proceeds from the disposal of Fund aircraft shall be credited to the Fund: *Provided further*, That amounts in the Fund shall be available without fiscal year limitation, and may be used for operating equipment lease agreements that do not exceed 5 years.”
 
 **Executive Documents**
 
 **Executive Order No. 14006**
 
-Ex. Ord. No. 14006, Jan. 26, 2021, 86 F.R. 7483, reforming United States incarceration system to eliminate the use of privately operated criminal detention facilities, was revoked by Ex. Ord. No. 14148, § 2(q), Jan. 20, 2025, 90 F.R. 8238.
+Ex. Ord. No. 14006, Jan. 26, 2021, 86 F.R. 7483, reforming United States incarceration system to eliminate the use of privately operated criminal detention facilities, was revoked by Ex. Ord. No. 14148, § 2(q), Jan. 20, 2025, 90 F.R. 8238.
 
-## § 4014. Testing for human immunodeficiency virus
+## § 4014. Testing for human immunodeficiency virus
 
 **(a)** The Attorney General shall cause each individual convicted of a Federal offense who is sentenced to incarceration for a period of 6 months or more to be tested for the presence of the human immunodeficiency virus, as appropriate, after the commencement of that incarceration, if such individual is determined to be at risk for infection with such virus in accordance with the guidelines issued by the Bureau of Prisons relating to infectious disease management.
 
@@ -548,7 +548,7 @@ Ex. Ord. No. 14006, Jan. 26, 2021, 86 F.R. 7483, reforming United States incarce
 
 **(e)** Not later than 1 year after the date of the enactment of this section, the Attorney General shall issue rules to implement this section. Such rules shall require that the results of any test are communicated only to the person tested, and, if the results of the test indicate the presence of the virus, to correctional facility personnel consistent with guidelines issued by the Bureau of Prisons. Such rules shall also provide for procedures designed to protect the privacy of a person requesting that the test be performed and the privacy of the person tested.
 
-(Added Pub. L. 105–370, § 2(a), Nov. 12, 1998, 112 Stat. 3374.)
+(Added Pub. L. 105–370, § 2(a), Nov. 12, 1998, 112 Stat. 3374.)
 
 **Editorial Notes**
 

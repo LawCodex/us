@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 74—COMPETITIVENESS POLICY COUNCIL
 
-## § 4801. Findings and purpose
+## § 4801. Findings and purpose
 
 **(a) Findings** The Congress finds that—
 
@@ -71,19 +71,19 @@ retrieved: 2026-10-11
 
 **(D)** publish analysis in the form of periodic reports and recommendations concerning the United States business and trade policy.
 
-(Pub. L. 100–418, title V, § 5202, Aug. 23, 1988, 102 Stat. 1455.)
+(Pub. L. 100–418, title V, § 5202, Aug. 23, 1988, 102 Stat. 1455.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 100–418, title V, § 5201, Aug. 23, 1988, 102 Stat. 1454, provided that: “This subtitle [subtitle C (§§ 5201–5210) of title V of Pub. L. 100–418, enacting this chapter] may be cited as the ‘Competitiveness Policy Council Act’.”
+Pub. L. 100–418, title V, § 5201, Aug. 23, 1988, 102 Stat. 1454, provided that: “This subtitle [subtitle C (§§ 5201–5210) of title V of Pub. L. 100–418, enacting this chapter] may be cited as the ‘Competitiveness Policy Council Act’.”
 
-## § 4802. Council established
+## § 4802. Council established
 
 There is established the Competitiveness Policy Council (hereafter in this chapter referred to as the “Council”), an advisory committee under the provisions of chapter 10 of title 5.
 
-(Pub. L. 100–418, title V, § 5203, Aug. 23, 1988, 102 Stat. 1456; Pub. L. 117–286, § 4(a)(73), Dec. 27, 2022, 136 Stat. 4313.)
+(Pub. L. 100–418, title V, § 5203, Aug. 23, 1988, 102 Stat. 1456; Pub. L. 117–286, § 4(a)(73), Dec. 27, 2022, 136 Stat. 4313.)
 
 **Editorial Notes**
 
@@ -97,7 +97,7 @@ There is established the Competitiveness Policy Council (hereafter in this chapt
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-## § 4803. Duties of Council
+## § 4803. Duties of Council
 
 The Council shall—
 
@@ -137,7 +137,7 @@ The Council shall—
 
 **(12)** publish their analysis and recommendations in the form of an annual report to the President and the Congress which also comments on the overall competitiveness of the American economy.
 
-(Pub. L. 100–418, title V, § 5204, Aug. 23, 1988, 102 Stat. 1456.)
+(Pub. L. 100–418, title V, § 5204, Aug. 23, 1988, 102 Stat. 1456.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -145,7 +145,7 @@ The Council shall—
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under par. (12) of this section is listed on page 158), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
-## § 4804. Membership
+## § 4804. Membership
 
 **(a) Composition and representation**
 
@@ -239,7 +239,7 @@ Except as provided in subsection (g), no action establishing policy shall be tak
 
 **(2)** In the course of attending any such meeting, an alternate representative shall be considered a member of the Council for all purposes, except for voting.
 
-(Pub. L. 100–418, title V, § 5205, Aug. 23, 1988, 102 Stat. 1457; Pub. L. 101–382, title I, § 133(a), Aug. 20, 1990, 104 Stat. 648; Pub. L. 104–65, § 12(a), Dec. 19, 1995, 109 Stat. 701.)
+(Pub. L. 100–418, title V, § 5205, Aug. 23, 1988, 102 Stat. 1457; Pub. L. 101–382, title I, § 133(a), Aug. 20, 1990, 104 Stat. 648; Pub. L. 104–65, § 12(a), Dec. 19, 1995, 109 Stat. 701.)
 
 **Editorial Notes**
 
@@ -247,9 +247,9 @@ Except as provided in subsection (g), no action establishing policy shall be tak
 
 1995—Subsec. (e). Pub. L. 104–65, which directed amendment of section “5206(e) of the Competitiveness Policy Council Act (15 U.S.C. 4804(e))” by inserting “or a lobbyist for a foreign entity (as the terms ‘lobbyist’ and ‘foreign entity’ are defined under section 1602 of title 2)” after “an agent for a foreign principal”, was executed to section 5205(e) of such Act, which is subsec. (e) of this section, to reflect the probable intent of Congress.
 
-1990—Subsec. (b). Pub. L. 101–382, § 133(a)(1), substituted reference to Aug. 20, 1990, for reference to Jan. 21, 1989.
+1990—Subsec. (b). Pub. L. 101–382, § 133(a)(1), substituted reference to Aug. 20, 1990, for reference to Jan. 21, 1989.
 
-Subsec. (e). Pub. L. 101–382, § 133(a)(2), added subsec. (e) and struck out former subsec. (e) which read as follows:
+Subsec. (e). Pub. L. 101–382, § 133(a)(2), added subsec. (e) and struck out former subsec. (e) which read as follows:
 
 “(1) A member of the Council may not serve as an agent for a foreign principal.
 
@@ -257,7 +257,7 @@ Subsec. (e). Pub. L. 101–382, § 133(a)(2), added subsec. (e) and struck out
 
 “(3) Members of the Council shall be deemed to be special Government employees, as defined in section 202 of title 18, for purposes of sections 201, 202, 203, 205, and 208 of such title.”
 
-Subsec. (f). Pub. L. 101–382, § 133(a)(2), added subsec. (f) and struck out former subsec. (f) “Compensation” which read as follows:
+Subsec. (f). Pub. L. 101–382, § 133(a)(2), added subsec. (f) and struck out former subsec. (f) “Compensation” which read as follows:
 
 “(1) Each member of the Council who is not employed by the Federal Government or any State or local government—
 
@@ -267,9 +267,9 @@ Subsec. (f). Pub. L. 101–382, § 133(a)(2), added subsec. (f) and struck out
 
 “(2) Each member of the Council who is employed by the Federal Government or any State or local government shall serve on the Council without additional compensation, but while engaged in duties as a member of the Council shall be paid actual travel expenses, and per diem in lieu of subsistence expenses when away from the usual place of residence of such member, in accordance with subchapter I of chapter 57 of title 5.”
 
-Subsec. (*l*). Pub. L. 101–382, § 133(a)(3), struck out subsec. (*l*) which read as follows: “The Council may procure temporary and intermittent services under section 3109(b) of title 5, but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay for GS–16 of the General Schedule.”
+Subsec. (*l*). Pub. L. 101–382, § 133(a)(3), struck out subsec. (*l*) which read as follows: “The Council may procure temporary and intermittent services under section 3109(b) of title 5, but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay for GS–16 of the General Schedule.”
 
-Subsec. (m). Pub. L. 101–382, § 133(a)(3), struck out subsec. (m) which read as follows: “Upon request of the Council, the head of any other Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of such agency to the Council to assist the Council in carrying out its duties under this chapter.”
+Subsec. (m). Pub. L. 101–382, § 133(a)(3), struck out subsec. (m) which read as follows: “Upon request of the Council, the head of any other Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of such agency to the Council to assist the Council in carrying out its duties under this chapter.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -277,7 +277,7 @@ Subsec. (m). Pub. L. 101–382, § 133(a)(3), struck out subsec. (m) which rea
 
 Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provided, see section 24 of Pub. L. 104–65, set out as an Effective Date note under section 1601 of Title 2, The Congress.
 
-## § 4805. Executive Director and staff
+## § 4805. Executive Director and staff
 
 **(a) Executive Director**
 
@@ -289,9 +289,9 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 
 **(1)** Within the limitations of appropriations to the Council, the Executive Director may appoint a staff for the Council in accordance with the Federal civil service and classification laws.
 
-**(2)** The staff of the Council shall be deemed to be special government employees as defined in section 202 of title 18 for purposes of title II of the Ethics in Government Act of 1978 1
+**(2)** The staff of the Council shall be deemed to be special government employees as defined in section 202 of title 18 for purposes of title II of the Ethics in Government Act of 1978 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and sections 201, 202, 203, 205, 207, and 208 of title 18.
 
@@ -303,13 +303,13 @@ The Council may procure temporary and intermittent services under section 3109(b
 
 Upon request of the Council, the head of any other Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of such agency to the Council to assist the Council in carrying out its duties under this chapter.
 
-(Pub. L. 100–418, title V, § 5206, Aug. 23, 1988, 102 Stat. 1459; Pub. L. 101–382, title I, § 133(b), Aug. 20, 1990, 104 Stat. 648.)
+(Pub. L. 100–418, title V, § 5206, Aug. 23, 1988, 102 Stat. 1459; Pub. L. 101–382, title I, § 133(b), Aug. 20, 1990, 104 Stat. 648.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Ethics in Government Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Act was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, § 201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Act was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, § 201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
@@ -319,9 +319,9 @@ The Ethics in Government Act of 1978, referred to in subsec. (b)(2), is Pub. L. 
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 4806. Powers of Council
+## § 4806. Powers of Council
 
 **(a) Hearings**
 
@@ -381,19 +381,19 @@ The Administrator of General Services shall provide to the Council, on a reimbur
 
 The provisions of subsections (e) and (f) of section 1009 of title 5 shall not apply to the Council.
 
-(Pub. L. 100–418, title V, § 5207, Aug. 23, 1988, 102 Stat. 1459; Pub. L. 101–382, title I, § 133(c), Aug. 20, 1990, 104 Stat. 649; Pub. L. 117–286, § 4(a)(74), Dec. 27, 2022, 136 Stat. 4314.)
+(Pub. L. 100–418, title V, § 5207, Aug. 23, 1988, 102 Stat. 1459; Pub. L. 101–382, title I, § 133(c), Aug. 20, 1990, 104 Stat. 649; Pub. L. 117–286, § 4(a)(74), Dec. 27, 2022, 136 Stat. 4314.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (g)(6). Pub. L. 117–286, § 4(a)(74)(A), substituted “chapter 10 of title 5,” for “the Federal Advisory Committee Act,”.
+2022—Subsec. (g)(6). Pub. L. 117–286, § 4(a)(74)(A), substituted “chapter 10 of title 5,” for “the Federal Advisory Committee Act,”.
 
-Subsec. (h). Pub. L. 117–286, § 4(a)(74)(B), substituted “chapter 10 of title 5” for “Advisory Committee Act” in heading and “subsections (e) and (f) of section 1009 of title 5” for “subsections (e) and (f) of section 10, of the Federal Advisory Committee Act” in text.
+Subsec. (h). Pub. L. 117–286, § 4(a)(74)(B), substituted “chapter 10 of title 5” for “Advisory Committee Act” in heading and “subsections (e) and (f) of section 1009 of title 5” for “subsections (e) and (f) of section 10, of the Federal Advisory Committee Act” in text.
 
 1990—Subsec. (c). Pub. L. 101–382 redesignated subsec. (d) as (c), and substituted “120” for “60”.
 
-Subsecs. (d) to (i). Pub. L. 101–382, § 133(c)(1), redesignated subsecs. (e) to (i) as (d) to (h), respectively. Former subsec. (d) redesignated (c).
+Subsecs. (d) to (i). Pub. L. 101–382, § 133(c)(1), redesignated subsecs. (e) to (i) as (d) to (h), respectively. Former subsec. (d) redesignated (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -401,7 +401,7 @@ Subsecs. (d) to (i). Pub. L. 101–382, § 133(c)(1), redesignated subsecs. (e
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-## § 4807. Annual report
+## § 4807. Annual report
 
 **(a) Submission of report** The Council shall annually on March 1 submit to the President, the Senate Governmental Affairs Committee, and the appropriate Committees of the House of Representatives and the Senate a report setting forth—
 
@@ -431,7 +431,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 The Council shall consult with each committee to which a report is submitted under this section and after such consultation, each such committee shall submit to its respective House a report setting forth the views and recommendations of such committee with respect to the report of the Council.
 
-(Pub. L. 100–418, title V, § 5208, Aug. 23, 1988, 102 Stat. 1461; Pub. L. 101–382, title I, § 133(d), Aug. 20, 1990, 104 Stat. 649.)
+(Pub. L. 100–418, title V, § 5208, Aug. 23, 1988, 102 Stat. 1461; Pub. L. 101–382, title I, § 133(d), Aug. 20, 1990, 104 Stat. 649.)
 
 **Editorial Notes**
 
@@ -445,11 +445,11 @@ The Council shall consult with each committee to which a report is submitted und
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-## § 4808. Authorization of appropriations
+## § 4808. Authorization of appropriations
 
 There are authorized to be appropriated for each of the fiscal years 1991 and 1992 such sums as may be necessary not to exceed $5,000,000 to carry out the provisions of this chapter.
 
-(Pub. L. 100–418, title V, § 5209, Aug. 23, 1988, 102 Stat. 1461; Pub. L. 101–382, title I, § 133(e), Aug. 20, 1990, 104 Stat. 649.)
+(Pub. L. 100–418, title V, § 5209, Aug. 23, 1988, 102 Stat. 1461; Pub. L. 101–382, title I, § 133(e), Aug. 20, 1990, 104 Stat. 649.)
 
 **Editorial Notes**
 
@@ -457,7 +457,7 @@ There are authorized to be appropriated for each of the fiscal years 1991 and 19
 
 1990—Pub. L. 101–382 substituted “1991 and 1992” for “1989 and 1990”.
 
-## § 4809. Definitions
+## § 4809. Definitions
 
 For purposes of this chapter—
 
@@ -469,4 +469,4 @@ For purposes of this chapter—
 
 **(4)** the term “agent of a foreign principal” is defined as such term is defined under subsection (d) of section 611 of title 22 subject to the provisions of section 613 of title 22.
 
-(Pub. L. 100–418, title V, § 5210, Aug. 23, 1988, 102 Stat. 1461.)
+(Pub. L. 100–418, title V, § 5210, Aug. 23, 1988, 102 Stat. 1461.)

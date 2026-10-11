@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 44—PROTECTION OF HORSES
 
-## § 1821. Definitions
+## § 1821. Definitions
 
 As used in this chapter unless the context otherwise requires:
 
@@ -37,7 +37,7 @@ and, as a result of such application, infliction, injection, use, or practice, s
 
 **(4)** The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
-(Pub. L. 91–540, § 2, Dec. 9, 1970, 84 Stat. 1404; Pub. L. 94–360, § 3, July 13, 1976, 90 Stat. 915.)
+(Pub. L. 91–540, § 2, Dec. 9, 1970, 84 Stat. 1404; Pub. L. 94–360, § 3, July 13, 1976, 90 Stat. 915.)
 
 **Editorial Notes**
 
@@ -49,11 +49,11 @@ and, as a result of such application, infliction, injection, use, or practice, s
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–360, § 1(a), July 13, 1976, 90 Stat. 915, provided that: “This Act [amending this section and sections 1822 to 1825, 1827, 1830, and 1831 of this title and enacting provisions set out as notes under this section and section 1831 of this title] may be cited as the ‘Horse Protection Act Amendments of 1976’.”
+Pub. L. 94–360, § 1(a), July 13, 1976, 90 Stat. 915, provided that: “This Act [amending this section and sections 1822 to 1825, 1827, 1830, and 1831 of this title and enacting provisions set out as notes under this section and section 1831 of this title] may be cited as the ‘Horse Protection Act Amendments of 1976’.”
 
 **Short Title**
 
-Pub. L. 91–540, § 1, Dec. 9, 1970, 84 Stat. 1404, as amended by Pub. L. 94–360, § 2, July 13, 1976, 90 Stat. 915, provided: “That this Act [enacting this chapter] may be cited as the ‘Horse Protection Act’.”
+Pub. L. 91–540, § 1, Dec. 9, 1970, 84 Stat. 1404, as amended by Pub. L. 94–360, § 2, July 13, 1976, 90 Stat. 915, provided: “That this Act [enacting this chapter] may be cited as the ‘Horse Protection Act’.”
 
 **Executive Documents**
 
@@ -61,7 +61,7 @@ Pub. L. 91–540, § 1, Dec. 9, 1970, 84 Stat. 1404, as amended by Pub. L. 94�
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 1822. Congressional statement of findings
+## § 1822. Congressional statement of findings
 
 The Congress finds and declares that—
 
@@ -75,7 +75,7 @@ The Congress finds and declares that—
 
 **(5)** regulation under this chapter by the Secretary is appropriate to prevent and eliminate burdens upon commerce and to effectively regulate commerce.
 
-(Pub. L. 91–540, § 3, Dec. 9, 1970, 84 Stat. 1405; Pub. L. 94–360, § 4, July 13, 1976, 90 Stat. 915.)
+(Pub. L. 91–540, § 3, Dec. 9, 1970, 84 Stat. 1405; Pub. L. 94–360, § 4, July 13, 1976, 90 Stat. 915.)
 
 **Editorial Notes**
 
@@ -83,7 +83,7 @@ The Congress finds and declares that—
 
 1976—Pub. L. 94–360, among other changes, inserted findings stating that all horses subject to regulation under this chapter are either in interstate or foreign commerce or substantially affect interstate or foreign commerce, and that regulation by the Secretary is appropriate to eliminate burdens upon commerce.
 
-## § 1823. Horse shows and exhibitions
+## § 1823. Horse shows and exhibitions
 
 **(a) Disqualification of horses**
 
@@ -105,7 +105,7 @@ The management of a horse show, horse exhibition, or horse sale or auction shall
 
 For purposes of enforcement of this chapter (including any regulation promulgated under this chapter) the Secretary, or any representative of the Secretary duly designated by the Secretary, may inspect any horse show, horse exhibition, or horse sale or auction or any horse at any such show, exhibition, sale, or auction. Such an inspection may only be made upon presenting appropriate credentials. Each such inspection shall be commenced and completed with reasonable promptness and shall be conducted within reasonable limits and in a reasonable manner. An inspection under this subsection shall extend to all things (including rec­ords) bearing on whether the requirements of this chapter have been complied with.
 
-(Pub. L. 91–540, § 4, Dec. 9, 1970, 84 Stat. 1405; Pub. L. 94–360, § 5, July 13, 1976, 90 Stat. 916.)
+(Pub. L. 91–540, § 4, Dec. 9, 1970, 84 Stat. 1405; Pub. L. 94–360, § 5, July 13, 1976, 90 Stat. 916.)
 
 **Editorial Notes**
 
@@ -113,7 +113,7 @@ For purposes of enforcement of this chapter (including any regulation promulgate
 
 1976—Pub. L. 94–360 substituted provisions relating to the inspection and disqualification of horses participating in horse shows and exhibitions, the issuance of regulations by the Secretary, and the maintenance of records by horse show management, for provisions prohibiting as constituting unlawful acts the exhibition of sored horses, the transportation in commerce for purposes of exhibition of any horse that had been sored, and the conducting of any show or exhibition in which sored horses appear. Provisions now covering such unlawful acts are set out as section 1824 of this title.
 
-## § 1824. Unlawful acts
+## § 1824. Unlawful acts
 
 The following conduct is prohibited:
 
@@ -139,7 +139,7 @@ The following conduct is prohibited:
 
 **(11)** The failure or refusal to provide the Secretary with adequate space or facilities, as the Secretary may by regulation under section 1828 of this title prescribe, in which to conduct inspections or any other activity authorized to be performed by the Secretary under this chapter.
 
-(Pub. L. 91–540, § 5, Dec. 9, 1970, 84 Stat. 1405; Pub. L. 94–360, § 6, July 13, 1976, 90 Stat. 916.)
+(Pub. L. 91–540, § 5, Dec. 9, 1970, 84 Stat. 1405; Pub. L. 94–360, § 6, July 13, 1976, 90 Stat. 916.)
 
 **Editorial Notes**
 
@@ -147,7 +147,7 @@ The following conduct is prohibited:
 
 1976—Pub. L. 94–360 substituted provisions prohibiting the transportation, receipt, exhibition, sale, or auction of a sored horse, and the showing, sale or auction of a horse bearing any device or substance prohibited by regulation of the Secretary, and making the management of a horse show, exhibition, or sale, responsible for failure to disqualify such horses from participating, and for interfering with the conducting of inspections by the Secretary of horses in the show or of the management records, for provisions authorizing the inspection of horses, transported in commerce, and requiring the management of shows and exhibitions to maintain such records as the Secretary prescribes. Provisions now covering the maintenance of records and the inspection of horses are set out as section 1823 of this title.
 
-## § 1824a. Export of horses
+## § 1824a. Export of horses
 
 **(a) Restriction on export of horses**
 
@@ -167,7 +167,7 @@ Any person who knowingly violates this section or any regulation, order, or lice
 
 The Secretary of Commerce, after providing notice and an opportunity for an agency hearing on the record, may impose a civil penalty of not to exceed $10,000 for each violation of this section or any regulation, order, or license issued under this section, either in addition to or in lieu of any other liability or penalty which may be imposed.
 
-(Mar. 3, 1891, ch. 521, § 3, as added Pub. L. 99–64, title I, § 125, July 12, 1985, 99 Stat. 156.)
+(Mar. 3, 1891, ch. 521, § 3, as added Pub. L. 99–64, title I, § 125, July 12, 1985, 99 Stat. 156.)
 
 **Editorial Notes**
 
@@ -181,7 +181,7 @@ Section was classified to section 466c of the former Appendix to Title 46, prior
 
 Provisions similar to those in this section were contained in section 7(j) of Pub. L. 96–72, formerly classified to section 4606(j) of Title 50, War and National Defense, prior to the amendment of section 7(j) of that Act by Pub. L. 99–64, which enacted this section.
 
-## § 1825. Violations and penalties
+## § 1825. Violations and penalties
 
 **(a) Criminal acts and penalties**
 
@@ -229,7 +229,7 @@ In addition to any fine, imprisonment, or civil penalty authorized under this se
 
 **(2)** Any equipment, device, paraphernalia, or substance which was used in violation of any provision of this chapter or any regulation issued under this chapter or which contributed to the soring of any horse at or prior to any horse show, horse exhibition, or horse sale or auction, shall be liable to be proceeded against, by process of libel for the seizure and condemnation of such equipment, device, paraphernalia, or substance, in any United States district court within the jurisdiction of which such equipment, device, paraphernalia, or substance is found. Such proceedings shall conform as nearly as possible to proceedings in rem in admiralty.
 
-(Pub. L. 91–540, § 6, Dec. 9, 1970, 84 Stat. 1406; Pub. L. 94–360, § 7, July 13, 1976, 90 Stat. 918.)
+(Pub. L. 91–540, § 6, Dec. 9, 1970, 84 Stat. 1406; Pub. L. 94–360, § 7, July 13, 1976, 90 Stat. 918.)
 
 **Editorial Notes**
 
@@ -241,13 +241,13 @@ Subsec. (b). Pub. L. 94–360 substituted provisions relating to imposition of c
 
 Subsecs. (c) to (e). Pub. L. 94–360 added subsecs. (c) to (e).
 
-## § 1826. Notice of violations to Attorney General
+## § 1826. Notice of violations to Attorney General
 
 Whenever the Secretary believes that a willful violation of this chapter has occurred and that prosecution is needed to obtain compliance with this chapter, he shall inform the Attorney General and the Attorney General shall take such action with respect to such matter as he deems appropriate.
 
-(Pub. L. 91–540, § 7, Dec. 9, 1970, 84 Stat. 1406.)
+(Pub. L. 91–540, § 7, Dec. 9, 1970, 84 Stat. 1406.)
 
-## § 1827. Utilization of personnel of Department of Agriculture and officers and employees of consenting States; technical and other nonfinancial assistance to State
+## § 1827. Utilization of personnel of Department of Agriculture and officers and employees of consenting States; technical and other nonfinancial assistance to State
 
 **(a) Assistance from Department of Agriculture and States**
 
@@ -257,7 +257,7 @@ The Secretary, in carrying out the provisions of this chapter, shall utilize, to
 
 The Secretary may, upon request, provide technical and other nonfinancial assistance (including the lending of equipment on such terms and conditions as the Secretary determines is appropriate) to any State to assist it in administering and enforcing any law of such State designed to prohibit conduct described in section 1824 of this title.
 
-(Pub. L. 91–540, § 8, Dec. 9, 1970, 84 Stat. 1406; Pub. L. 94–360, § 8, July 13, 1976, 90 Stat. 920.)
+(Pub. L. 91–540, § 8, Dec. 9, 1970, 84 Stat. 1406; Pub. L. 94–360, § 8, July 13, 1976, 90 Stat. 920.)
 
 **Editorial Notes**
 
@@ -265,31 +265,31 @@ The Secretary may, upon request, provide technical and other nonfinancial assist
 
 1976—Pub. L. 94–360 designated existing provisions as subsec. (a) and added subsec. (b).
 
-## § 1828. Rules and regulations
+## § 1828. Rules and regulations
 
 The Secretary is authorized to issue such rules and regulations as he deems necessary to carry out the provisions of this chapter.
 
-(Pub. L. 91–540, § 9, Dec. 9, 1970, 84 Stat. 1406.)
+(Pub. L. 91–540, § 9, Dec. 9, 1970, 84 Stat. 1406.)
 
-## § 1829. Preemption of State laws; concurrent jurisdiction; prohibition on certain State action
+## § 1829. Preemption of State laws; concurrent jurisdiction; prohibition on certain State action
 
 No provision of this chapter shall be construed as indicating an intent on the part of the Congress to occupy the field in which such provision operates to the exclusion of the law of any State on the same subject matter, unless there is a direct and positive conflict between such provision and the law of the State so that the two cannot be reconciled or consistently stand together. Nor shall any provision of this chapter be construed to exclude the Federal Government from enforcing the provision of this chapter within any State, whether or not such State has enacted legislation on the same subject, it being the intent of the Congress to establish concurrent jurisdiction with the States over such subject matter. In no case shall any such State take any action pursuant to this section involving a violation of any such law of that State which would preclude the United States from enforcing the provisions of this chapter against any person.
 
-(Pub. L. 91–540, § 10, Dec. 9, 1970, 84 Stat. 1406.)
+(Pub. L. 91–540, § 10, Dec. 9, 1970, 84 Stat. 1406.)
 
-## § 1830. Omitted
+## § 1830. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 91–540, § 11, Dec. 9, 1970, 84 Stat. 1406; Pub. L. 94–360, § 9, July 13, 1976, 90 Stat. 920; Pub. L. 104–66, title I, § 1012(b), Dec. 21, 1995, 109 Stat. 711, which required the Secretary of Agriculture to include information on matters covered by this chapter, together with recommendations for legislative and other action, as part of the annual report submitted to Congress under section 2155 of title 7, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 44 of House Document No. 103–7.
+Section, Pub. L. 91–540, § 11, Dec. 9, 1970, 84 Stat. 1406; Pub. L. 94–360, § 9, July 13, 1976, 90 Stat. 920; Pub. L. 104–66, title I, § 1012(b), Dec. 21, 1995, 109 Stat. 711, which required the Secretary of Agriculture to include information on matters covered by this chapter, together with recommendations for legislative and other action, as part of the annual report submitted to Congress under section 2155 of title 7, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 44 of House Document No. 103–7.
 
-## § 1831. Authorization of appropriations
+## § 1831. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this chapter $125,000 for the period beginning July 1, 1976, and ending September 30, 1976; and for the fiscal year beginning October 1, 1976, and for each fiscal year thereafter there are authorized to be appropriated such sums, not to exceed $500,000, as may be necessary to carry out this chapter.
 
-(Pub. L. 91–540, § 12, Dec. 9, 1970, 84 Stat. 1407; Pub. L. 94–360, § 10, July 13, 1976, 90 Stat. 921.)
+(Pub. L. 91–540, § 12, Dec. 9, 1970, 84 Stat. 1407; Pub. L. 94–360, § 10, July 13, 1976, 90 Stat. 921.)
 
 **Editorial Notes**
 

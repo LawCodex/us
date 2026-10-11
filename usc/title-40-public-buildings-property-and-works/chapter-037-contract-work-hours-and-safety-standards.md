@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 37—CONTRACT WORK HOURS AND SAFETY STANDARDS
 
-## § 3701. Definition and application
+## § 3701. Definition and application
 
 **(a) Definition.—** In this chapter, the term “Federal Government” has the same meaning that the term “United States” had in the Contract Work Hours and Safety Standards Act (Public Law 87–581, 76 Stat. 357).
 
@@ -57,17 +57,17 @@ retrieved: 2026-10-11
 
 **(B) Section 3702.—** Section 3702 of this title does not apply to work where the assistance described in paragraph (1)(B)(iii) from the Government or an agency or instrumentality is only a loan guarantee or insurance.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1169; Pub. L. 109–284, § 6(14), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, § 5(*l*)(19), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1169; Pub. L. 109–284, § 6(14), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, § 5(*l*)(19), Jan. 4, 2011, 124 Stat. 3852.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 3701(a) | (no source). |  |
-| 3701(b)(1) | 40:329(a) (1st sentence less proviso). | Pub. L. 87–581, title I, § 103(a), (b), Aug. 13, 1962, 76 Stat. 358. |
+| 3701(b)(1) | 40:329(a) (1st sentence less proviso). | Pub. L. 87–581, title I, § 103(a), (b), Aug. 13, 1962, 76 Stat. 358. |
 | 3701(b)(2) | 40:329(a) (last sentence). |  |
 | 3701(b)(3) (A)(i), (ii) | 40:329(b). |  |
-| 3701(b)(3) (A)(iii) | 40:329(c). | Pub. L. 87–581, title I, § 103(c), as added Pub. L. 103–355, title IV, § 4104(c)(1), Oct. 13, 1994, 108 Stat. 3342. |
+| 3701(b)(3) (A)(iii) | 40:329(c). | Pub. L. 87–581, title I, § 103(c), as added Pub. L. 103–355, title IV, § 4104(c)(1), Oct. 13, 1994, 108 Stat. 3342. |
 | 3701(b)(3)(B) | 40:329(a) (1st sentence proviso). |  |
 
 Subsection (a) is added for clarity.
@@ -82,7 +82,7 @@ In subsection (b)(3)(A)(ii), the words “Walsh-Healey Act” are substituted fo
 
 **References in Text**
 
-The Contract Work Hours and Safety Standards Act, referred to in subsec. (a), is title I of Pub. L. 87–581, Aug. 13, 1962, 76 Stat. 357, which was classified generally to subchapter II (§ 327 et seq.) of chapter 5 of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as this chapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 101 of title I of Pub. L. 87–581 was classified to section 327 of former Title 40 and was repealed and not reenacted by Pub. L. 107–217. For complete classification of this Act to the Code, see Tables.
+The Contract Work Hours and Safety Standards Act, referred to in subsec. (a), is title I of Pub. L. 87–581, Aug. 13, 1962, 76 Stat. 357, which was classified generally to subchapter II (§ 327 et seq.) of chapter 5 of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as this chapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 101 of title I of Pub. L. 87–581 was classified to section 327 of former Title 40 and was repealed and not reenacted by Pub. L. 107–217. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
@@ -90,7 +90,7 @@ The Contract Work Hours and Safety Standards Act, referred to in subsec. (a), is
 
 2006—Subsec. (b)(3)(B). Pub. L. 109–284 substituted “3702” for “3902” in heading and text and “paragraph (1)(B)(iii)” for “subsection (a)(2)(C)” in text.
 
-## § 3702. Work hours
+## § 3702. Work hours
 
 **(a) Standard Workweek.—** The wages of every laborer and mechanic employed by any contractor or subcontractor in the performance of work on a contract described in section 3701 of this title shall be computed on the basis of a standard workweek of 40 hours. Work in excess of the standard workweek is permitted subject to this section. For each workweek in which the laborer or mechanic is so employed, wages include compensation, at a rate not less than one and one-half times the basic rate of pay, for all hours worked in excess of 40 hours in the workweek.
 
@@ -108,13 +108,13 @@ The Contract Work Hours and Safety Standards Act, referred to in subsec. (a), is
 
 **(d) Amounts Withheld To Satisfy Liabilities.—** Subject to section 3703 of this title, the governmental agency for which the contract work is done or which is providing financial assistance for the work may withhold, or have withheld, from money payable because of work performed by a contractor or subcontractor, amounts administratively determined to be necessary to satisfy the liabilities of the contractor or subcontractor for unpaid wages and liquidated damages as provided in this section.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1169; Pub. L. 109–284, § 6(15), Sept. 27, 2006, 120 Stat. 1213.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1169; Pub. L. 109–284, § 6(15), Sept. 27, 2006, 120 Stat. 1213.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3702(a) | 40:328(a). | Pub. L. 87–581, title I, § 102, Aug. 13, 1962, 76 Stat. 357; Pub. L. 99–145, title XII, § 1241(a), Nov. 8, 1985, 99 Stat. 734. |
+| 3702(a) | 40:328(a). | Pub. L. 87–581, title I, § 102, Aug. 13, 1962, 76 Stat. 357; Pub. L. 99–145, title XII, § 1241(a), Nov. 8, 1985, 99 Stat. 734. |
 | 3702(b) | 40:328(b) (words before (1)), (1), (2) (1st sentence). |  |
 | 3702(c) | 40:328(b)(2) (2d sentence). |  |
 | 3702(d) | 40:328(b)(2) (last sentence). |  |
@@ -127,7 +127,7 @@ In subsection (a). the words “Notwithstanding any other provision of law” ar
 
 2006—Subsec. (d). Pub. L. 109–284 substituted “To” for “to” in heading.
 
-## § 3703. Report of violations and withholding of amounts for unpaid wages and liquidated damages
+## § 3703. Report of violations and withholding of amounts for unpaid wages and liquidated damages
 
 **(a) Reports of Inspectors.—** An officer or individual designated as an inspector of the work to be performed under a contract described in section 3701 of this title, or to aid in the enforcement or fulfillment of the contract, on observation or after investigation immediately shall report to the proper officer of the Federal Government, a territory of the United States, or the District of Columbia all violations of this chapter occurring in the performance of the work, together with the name of each laborer or mechanic who was required or permitted to work in violation of this chapter and the day the violation occurred.
 
@@ -161,13 +161,13 @@ In subsection (a). the words “Notwithstanding any other provision of law” ar
 
 **(2) Section 3145.—** Section 3145 of this title applies to contractors and subcontractors referred to in section 3145 who are engaged in the performance of contracts subject to this chapter.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1170; Pub. L. 113–50, § 2(b), Nov. 21, 2013, 127 Stat. 578.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1170; Pub. L. 113–50, § 2(b), Nov. 21, 2013, 127 Stat. 578.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3703(a) | 40:330(a) (1st sentence). | Pub. L. 87–581, title I, § 104, Aug. 13, 1962, 76 Stat. 358; Pub. L. 97–164, title I, § 160(a)(13), Apr. 2, 1982, 96 Stat. 48. |
+| 3703(a) | 40:330(a) (1st sentence). | Pub. L. 87–581, title I, § 104, Aug. 13, 1962, 76 Stat. 358; Pub. L. 97–164, title I, § 160(a)(13), Apr. 2, 1982, 96 Stat. 48. |
 | 3703(b) | 40:330(a) (2d, last sentences). |  |
 | 3703(c) | 40:330(b). |  |
 | 3703(d) | 40:330(c). |  |
@@ -189,7 +189,7 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (e)(1), is Reorg
 
 2013—Subsec. (b)(3). Pub. L. 113–50 substituted “Secretary of Labor” for “Comptroller General” in two places.
 
-## § 3704. Health and safety standards in building trades and construction industry
+## § 3704. Health and safety standards in building trades and construction industry
 
 **(a) Condition of Contracts.—**
 
@@ -241,13 +241,13 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (e)(1), is Reorg
 
 **(6) Compensation and expenses.—** Committee members are entitled to receive compensation at rates the Secretary fixes, but not more than $100 a day, including traveltime, when performing Committee business, and expenses under section 5703 of title 5.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1172; Pub. L. 109–284, § 6(16), (17), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, § 5(*l*)(20), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1172; Pub. L. 109–284, § 6(16), (17), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, § 5(*l*)(20), Jan. 4, 2011, 124 Stat. 3852.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3704(a) | 40:333(a). | Pub. L. 87–581, title I, § 107(a)–(e), as added Pub. L. 91–54, § 1, Aug. 9, 1969, 83 Stat. 96; Pub. L. 103–355, title IV, § 4104(c)(2), Oct. 13, 1994, 108 Stat. 3342. |
+| 3704(a) | 40:333(a). | Pub. L. 87–581, title I, § 107(a)–(e), as added Pub. L. 91–54, § 1, Aug. 9, 1969, 83 Stat. 96; Pub. L. 103–355, title IV, § 4104(c)(2), Oct. 13, 1994, 108 Stat. 3342. |
 | 3704(b) | 40:333(b), (c). |  |
 | 3704(c) | 40:333(d). |  |
 | 3704(d) | 40:333(e). |  |
@@ -274,9 +274,9 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(1), is Reorg
 
 2011—Subsec. (b)(1). Pub. L. 111–350 substituted “sections 6506 and 6507 of title 41” for “sections 4 and 5 of the Walsh-Healey Act (41 U.S.C. 38, 39)”.
 
-2006—Subsec. (a)(1). Pub. L. 109–284, § 6(16), inserted “of title 5” after “authorized by section 553”.
+2006—Subsec. (a)(1). Pub. L. 109–284, § 6(16), inserted “of title 5” after “authorized by section 553”.
 
-Subsec. (a)(2). Pub. L. 109–284, § 6(17), struck out “of this section” after “subsection (d)”.
+Subsec. (a)(2). Pub. L. 109–284, § 6(17), struck out “of this section” after “subsection (d)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -284,7 +284,7 @@ Subsec. (a)(2). Pub. L. 109–284, § 6(17), struck out “of this section” 
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-## § 3705. Safety programs
+## § 3705. Safety programs
 
 The Secretary of Labor shall—
 
@@ -298,9 +298,9 @@ The Secretary of Labor shall—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3705 | 40:333(f). | Pub. L. 87–581, title I, § 107(f), as added Pub. L. 91–54, § 1, Aug. 9, 1969, 83 Stat. 98. |
+| 3705 | 40:333(f). | Pub. L. 87–581, title I, § 107(f), as added Pub. L. 91–54, § 1, Aug. 9, 1969, 83 Stat. 98. |
 
-## § 3706. Limitations, variations, tolerances, and exemptions
+## § 3706. Limitations, variations, tolerances, and exemptions
 
 The Secretary of Labor may provide reasonable limitations to, and may prescribe regulations allowing reasonable variations to, tolerances from, and exemptions from, this chapter that the Secretary may find necessary and proper in the public interest to prevent injustice or undue hardship or to avoid serious impairment of the conduct of Federal Government business.
 
@@ -310,19 +310,19 @@ The Secretary of Labor may provide reasonable limitations to, and may prescribe 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3706 | 40:331. | Pub. L. 87–581, title I, § 105, Aug. 13, 1962, 76 Stat. 359. |
+| 3706 | 40:331. | Pub. L. 87–581, title I, § 105, Aug. 13, 1962, 76 Stat. 359. |
 
-## § 3707. Contractor certification or contract clause in acquisition of commercial items not required
+## § 3707. Contractor certification or contract clause in acquisition of commercial items not required
 
 In a contract to acquire a commercial product (as defined in section 103 of title 41) or a commercial service (as defined in section 103a of title 41), a certification by a contractor or a contract clause may not be required to implement a prohibition or requirement in this chapter.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1174; Pub. L. 111–350, § 5(*l*)(21), Jan. 4, 2011, 124 Stat. 3852; Pub. L. 115–232, div. A, title VIII, § 836(g)(6), Aug. 13, 2018, 132 Stat. 1874.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1174; Pub. L. 111–350, § 5(*l*)(21), Jan. 4, 2011, 124 Stat. 3852; Pub. L. 115–232, div. A, title VIII, § 836(g)(6), Aug. 13, 2018, 132 Stat. 1874.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3707 | 40:334. | Pub. L. 87–581, title I, § 108, as added Pub. L. 103–355, title VIII, § 8301(b), Oct. 13, 1994, 108 Stat. 3396. |
+| 3707 | 40:334. | Pub. L. 87–581, title I, § 108, as added Pub. L. 103–355, title VIII, § 8301(b), Oct. 13, 1994, 108 Stat. 3396. |
 
 **Editorial Notes**
 
@@ -338,7 +338,7 @@ In a contract to acquire a commercial product (as defined in section 103 of titl
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 3708. Criminal penalties
+## § 3708. Criminal penalties
 
 A contractor or subcontractor having a duty to employ, direct, or control a laborer or mechanic employed in the performance of work contemplated by a contract to which this chapter applies that intentionally violates this chapter shall be fined under title 18, imprisoned for not more than six months, or both.
 
@@ -348,6 +348,6 @@ A contractor or subcontractor having a duty to employ, direct, or control a labo
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3708 | 40:332. | Pub. L. 87–581, title I, § 106, Aug. 13, 1962, 76 Stat. 359. |
+| 3708 | 40:332. | Pub. L. 87–581, title I, § 106, Aug. 13, 1962, 76 Stat. 359. |
 
 The words “shall be fined under title 18” are substituted for “shall be deemed guilty of a misdemeanor, and for each and every such offense shall, upon conviction, be punished by a fine of not to exceed $1,000” for consistency with chapter 227 of title 18. The words “in the discretion of the court having jurisdiction thereof” are omitted as unnecessary.

@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2020—Pub. L. 116–249, § 2(b), Dec. 22, 2020, 134 Stat. 1126, added item 2261B.
+2020—Pub. L. 116–249, § 2(b), Dec. 22, 2020, 134 Stat. 1126, added item 2261B.
 
-1996—Pub. L. 104–294, title VI, § 604(a)(1), Oct. 11, 1996, 110 Stat. 3506, amended analysis by inserting “Sec.” above section numbers.
+1996—Pub. L. 104–294, title VI, § 604(a)(1), Oct. 11, 1996, 110 Stat. 3506, amended analysis by inserting “Sec.” above section numbers.
 
-Pub. L. 104–201, div. A, title X, § 1069(b)(3), (c), Sept. 23, 1996, 110 Stat. 2656, inserted “AND STALKING” after “VIOLENCE” in chapter heading and added item 2261A.
+Pub. L. 104–201, div. A, title X, § 1069(b)(3), (c), Sept. 23, 1996, 110 Stat. 2656, inserted “AND STALKING” after “VIOLENCE” in chapter heading and added item 2261A.
 
-## § 2261. Interstate domestic violence
+## § 2261. Interstate domestic violence
 
 **(a) Offenses.—**
 
@@ -49,7 +49,7 @@ or both fined and imprisoned.
 
 **(6)** Whoever commits the crime of stalking in violation of a temporary or permanent civil or criminal injunction, restraining order, no-contact order, or other order described in section 2266 of title 18, United States Code, shall be punished by imprisonment for not less than 1 year.
 
-(Added Pub. L. 103–322, title IV, § 40221(a), Sept. 13, 1994, 108 Stat. 1926; amended Pub. L. 104–201, div. A, title X, § 1069(b)(1), (2), Sept. 23, 1996, 110 Stat. 2656; Pub. L. 106–386, div. B, title I, § 1107(a), Oct. 28, 2000, 114 Stat. 1497; Pub. L. 109–162, title I, §§ 114(b), 116(a), 117(a), Jan. 5, 2006, 119 Stat. 2988, 2989; Pub. L. 113–4, title I, § 107(a), Mar. 7, 2013, 127 Stat. 77.)
+(Added Pub. L. 103–322, title IV, § 40221(a), Sept. 13, 1994, 108 Stat. 1926; amended Pub. L. 104–201, div. A, title X, § 1069(b)(1), (2), Sept. 23, 1996, 110 Stat. 2656; Pub. L. 106–386, div. B, title I, § 1107(a), Oct. 28, 2000, 114 Stat. 1497; Pub. L. 109–162, title I, §§ 114(b), 116(a), 117(a), Jan. 5, 2006, 119 Stat. 2988, 2989; Pub. L. 113–4, title I, § 107(a), Mar. 7, 2013, 127 Stat. 77.)
 
 **Editorial Notes**
 
@@ -57,13 +57,13 @@ or both fined and imprisoned.
 
 2013—Subsec. (a)(1). Pub. L. 113–4 inserted “is present” after “Indian country or” and “or presence” after “as a result of such travel”.
 
-2006—Subsec. (a)(1). Pub. L. 109–162, § 117(a), inserted “or within the special maritime and territorial jurisdiction of the United States” after “Indian country”.
+2006—Subsec. (a)(1). Pub. L. 109–162, § 117(a), inserted “or within the special maritime and territorial jurisdiction of the United States” after “Indian country”.
 
-Pub. L. 109–162, § 116(a)(1), which directed substitution of “, intimate partner, or dating partner” for “or intimate partner”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+Pub. L. 109–162, § 116(a)(1), which directed substitution of “, intimate partner, or dating partner” for “or intimate partner”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
-Subsec. (a)(2). Pub. L. 109–162, § 116(a)(2), which directed substitution of “, intimate partner, or dating partner” for “or intimate partner”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 109–162, § 116(a)(2), which directed substitution of “, intimate partner, or dating partner” for “or intimate partner”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
-Subsec. (b)(6). Pub. L. 109–162, § 114(b), added par. (6).
+Subsec. (b)(6). Pub. L. 109–162, § 114(b), added par. (6).
 
 2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
 
@@ -77,9 +77,9 @@ Subsec. (b)(6). Pub. L. 109–162, § 114(b), added par. (6).
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–4, § 4, Mar. 7, 2013, 127 Stat. 64, provided that: “Except as otherwise specifically provided in this Act [see Tables for classification], the provisions of titles I, II, III, IV, VII, and sections 3, 602, 901, and 902 of this Act shall not take effect until the beginning of the fiscal year following the date of enactment of this Act [Mar. 7, 2013].”
+Pub. L. 113–4, § 4, Mar. 7, 2013, 127 Stat. 64, provided that: “Except as otherwise specifically provided in this Act [see Tables for classification], the provisions of titles I, II, III, IV, VII, and sections 3, 602, 901, and 902 of this Act shall not take effect until the beginning of the fiscal year following the date of enactment of this Act [Mar. 7, 2013].”
 
-## § 2261A. Stalking
+## § 2261A. Stalking
 
 Whoever—
 
@@ -105,7 +105,7 @@ Whoever—
 
 shall be punished as provided in section 2261(b) or section 2261B, as the case may be.
 
-(Added Pub. L. 104–201, div. A, title X, § 1069(a), Sept. 23, 1996, 110 Stat. 2655; amended Pub. L. 106–386, div. B, title I, § 1107(b)(1), Oct. 28, 2000, 114 Stat. 1498; Pub. L. 109–162, title I, § 114(a), Jan. 5, 2006, 119 Stat. 2987; Pub. L. 113–4, title I, § 107(b), Mar. 7, 2013, 127 Stat. 77; Pub. L. 115–334, title XII, § 12502(a)(1), Dec. 20, 2018, 132 Stat. 4982; Pub. L. 116–249, § 2(c), Dec. 22, 2020, 134 Stat. 1126.)
+(Added Pub. L. 104–201, div. A, title X, § 1069(a), Sept. 23, 1996, 110 Stat. 2655; amended Pub. L. 106–386, div. B, title I, § 1107(b)(1), Oct. 28, 2000, 114 Stat. 1498; Pub. L. 109–162, title I, § 114(a), Jan. 5, 2006, 119 Stat. 2987; Pub. L. 113–4, title I, § 107(b), Mar. 7, 2013, 127 Stat. 77; Pub. L. 115–334, title XII, § 12502(a)(1), Dec. 20, 2018, 132 Stat. 4982; Pub. L. 116–249, § 2(c), Dec. 22, 2020, 134 Stat. 1126.)
 
 **Editorial Notes**
 
@@ -113,9 +113,9 @@ shall be punished as provided in section 2261(b) or section 2261B, as the case m
 
 2020—Pub. L. 116–249 substituted “section 2261(b) or section 2261B, as the case may be” for “section 2261(b) of this title” in concluding provisions.
 
-2018—Par. (1)(A)(iv). Pub. L. 115–334, § 12502(a)(1)(A), added cl. (iv).
+2018—Par. (1)(A)(iv). Pub. L. 115–334, § 12502(a)(1)(A), added cl. (iv).
 
-Par. (2)(A). Pub. L. 115–334, § 12502(a)(1)(B), inserted “, a pet, a service animal, an emotional support animal, or a horse” after “to a person” and substituted “(iii), or (iv)” for “or (iii)”.
+Par. (2)(A). Pub. L. 115–334, § 12502(a)(1)(B), inserted “, a pet, a service animal, an emotional support animal, or a horse” after “to a person” and substituted “(iii), or (iv)” for “or (iii)”.
 
 2013—Pub. L. 113–4 amended section generally. Prior to amendment, section related to stalking.
 
@@ -129,7 +129,7 @@ Par. (2)(A). Pub. L. 115–334, § 12502(a)(1)(B), inserted “, a pet, a se
 
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of this title.
 
-## § 2261B. Enhanced penalty for stalkers of children
+## § 2261B. Enhanced penalty for stalkers of children
 
 **(a) In General.—** Except as provided in subsection (b), if the victim of an offense under section 2261A is under the age of 18 years, the maximum imprisonment for the offense is 5 years greater than the maximum term of imprisonment otherwise provided for that offense in section 2261.
 
@@ -143,9 +143,9 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 
 **(B)** the victim of the offense is not less than 15 nor more than 17 years of age and not more than 3 years younger than the person who committed the offense at the time the offense occurred.
 
-(Added Pub. L. 116–249, § 2(a), Dec. 22, 2020, 134 Stat. 1126.)
+(Added Pub. L. 116–249, § 2(a), Dec. 22, 2020, 134 Stat. 1126.)
 
-## § 2262. Interstate violation of protection order
+## § 2262. Interstate violation of protection order
 
 **(a) Offenses.—**
 
@@ -167,17 +167,17 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 
 or both fined and imprisoned.
 
-(Added Pub. L. 103–322, title IV, § 40221(a), Sept. 13, 1994, 108 Stat. 1927; amended Pub. L. 104–201, div. A, title X, § 1069(b)(2), Sept. 23, 1996, 110 Stat. 2656; Pub. L. 104–294, title VI, § 605(d), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 106–386, div. B, title I, § 1107(c), Oct. 28, 2000, 114 Stat. 1498; Pub. L. 109–162, title I, § 117(b), Jan. 5, 2006, 119 Stat. 2989; Pub. L. 113–4, title I, § 107(c), Mar. 7, 2013, 127 Stat. 78; Pub. L. 115–334, title XII, § 12502(a)(2), Dec. 20, 2018, 132 Stat. 4982.)
+(Added Pub. L. 103–322, title IV, § 40221(a), Sept. 13, 1994, 108 Stat. 1927; amended Pub. L. 104–201, div. A, title X, § 1069(b)(2), Sept. 23, 1996, 110 Stat. 2656; Pub. L. 104–294, title VI, § 605(d), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 106–386, div. B, title I, § 1107(c), Oct. 28, 2000, 114 Stat. 1498; Pub. L. 109–162, title I, § 117(b), Jan. 5, 2006, 119 Stat. 2989; Pub. L. 113–4, title I, § 107(c), Mar. 7, 2013, 127 Stat. 78; Pub. L. 115–334, title XII, § 12502(a)(2), Dec. 20, 2018, 132 Stat. 4982.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–334, § 12502(a)(2)(A)(i), inserted “or the pet, service animal, emotional support animal, or horse of that person” after “another person”.
+2018—Subsec. (a)(1). Pub. L. 115–334, § 12502(a)(2)(A)(i), inserted “or the pet, service animal, emotional support animal, or horse of that person” after “another person”.
 
-Subsec. (a)(2). Pub. L. 115–334, § 12502(a)(2)(A)(ii), inserted “or the pet, service animal, emotional support animal, or horse of that person” after “proximity to, another person”.
+Subsec. (a)(2). Pub. L. 115–334, § 12502(a)(2)(A)(ii), inserted “or the pet, service animal, emotional support animal, or horse of that person” after “proximity to, another person”.
 
-Subsec. (b)(5). Pub. L. 115–334, § 12502(a)(2)(B), inserted “including any case in which the offense is committed against a pet, service animal, emotional support animal, or horse,” after “in any other case,”.
+Subsec. (b)(5). Pub. L. 115–334, § 12502(a)(2)(B), inserted “including any case in which the offense is committed against a pet, service animal, emotional support animal, or horse,” after “in any other case,”.
 
 2013—Subsec. (a)(1). Pub. L. 113–4, which directed amendment of subsec. (a)(2) by inserting “is present” after “Indian country or”, was executed by making the insertion in subsec. (a)(1) to reflect the probable intent of Congress.
 
@@ -207,13 +207,13 @@ Subsec. (b)(1) to (3). Pub. L. 104–201 substituted “victim” for “offende
 
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of this title.
 
-## § 2263. Pretrial release of defendant
+## § 2263. Pretrial release of defendant
 
 In any proceeding pursuant to section 3142 for the purpose of determining whether a defendant charged under this chapter shall be released pending trial, or for the purpose of determining conditions of such release, the alleged victim shall be given an opportunity to be heard regarding the danger posed by the defendant.
 
-(Added Pub. L. 103–322, title IV, § 40221(a), Sept. 13, 1994, 108 Stat. 1928.)
+(Added Pub. L. 103–322, title IV, § 40221(a), Sept. 13, 1994, 108 Stat. 1928.)
 
-## § 2264. Restitution
+## § 2264. Restitution
 
 **(a) In General.—** Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
 
@@ -251,7 +251,7 @@ In any proceeding pursuant to section 3142 for the purpose of determining whethe
 
 **(c) Victim Defined.—** For purposes of this section, the term “victim” means the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim’s estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.
 
-(Added Pub. L. 103–322, title IV, § 40221(a), Sept. 13, 1994, 108 Stat. 1928; amended Pub. L. 104–132, title II, § 205(d), Apr. 24, 1996, 110 Stat. 1231; Pub. L. 115–334, title XII, § 12502(a)(3), Dec. 20, 2018, 132 Stat. 4983.)
+(Added Pub. L. 103–322, title IV, § 40221(a), Sept. 13, 1994, 108 Stat. 1928; amended Pub. L. 104–132, title II, § 205(d), Apr. 24, 1996, 110 Stat. 1231; Pub. L. 115–334, title XII, § 12502(a)(3), Dec. 20, 2018, 132 Stat. 4983.)
 
 **Editorial Notes**
 
@@ -259,23 +259,23 @@ In any proceeding pursuant to section 3142 for the purpose of determining whethe
 
 2018—Subsec. (b)(3)(F), (G). Pub. L. 115–334 added subpar. (F) and redesignated former subpar. (F) as (G).
 
-1996—Subsec. (a). Pub. L. 104–132, § 205(d)(1), inserted “or 3663A” after “3663”.
+1996—Subsec. (a). Pub. L. 104–132, § 205(d)(1), inserted “or 3663A” after “3663”.
 
-Subsec. (b)(1). Pub. L. 104–132, § 205(d)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The order of restitution under this section shall direct that—
+Subsec. (b)(1). Pub. L. 104–132, § 205(d)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The order of restitution under this section shall direct that—
 
 “(A) the defendant pay to the victim (through the appropriate court mechanism) the full amount of the victim’s losses as determined by the court, pursuant to paragraph (3); and
 
 “(B) the United States Attorney enforce the restitution order by all available and reasonable means.”
 
-Subsec. (b)(2). Pub. L. 104–132, § 205(d)(2)(B), struck out “by victim” after “Enforcement” in heading and amended text generally. Prior to amendment, text read as follows: “An order of restitution also may be enforced by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
+Subsec. (b)(2). Pub. L. 104–132, § 205(d)(2)(B), struck out “by victim” after “Enforcement” in heading and amended text generally. Prior to amendment, text read as follows: “An order of restitution also may be enforced by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
 
-Subsec. (b)(4)(C), (D). Pub. L. 104–132, § 205(d)(2)(C), struck out subpars. (C) and (D), which related to court’s consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court’s entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
+Subsec. (b)(4)(C), (D). Pub. L. 104–132, § 205(d)(2)(C), struck out subpars. (C) and (D), which related to court’s consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court’s entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
 
-Subsec. (b)(5) to (10). Pub. L. 104–132, § 205(d)(2)(D), struck out pars. (5) to (10), which related, respectively, to more than 1 offender, more than 1 victim, payment schedule, setoff, effect on other sources of compensation, and condition of probation or supervised release.
+Subsec. (b)(5) to (10). Pub. L. 104–132, § 205(d)(2)(D), struck out pars. (5) to (10), which related, respectively, to more than 1 offender, more than 1 victim, payment schedule, setoff, effect on other sources of compensation, and condition of probation or supervised release.
 
-Subsec. (c). Pub. L. 104–132, § 205(d)(3), (4), added subsec. (c) and struck out former subsec. (c) which read as follows: “Affidavit.—Within 60 days after conviction and, in any event, not later than 10 days before sentencing, the United States Attorney (or such Attorney’s delegate), after consulting with the victim, shall prepare and file an affidavit with the court listing the amounts subject to restitution under this section. The affidavit shall be signed by the United States Attorney (or the delegate) and the victim. Should the victim object to any of the information included in the affidavit, the United States Attorney (or the delegate) shall advise the victim that the victim may file a separate affidavit and assist the victim in the preparation of the affidavit.”
+Subsec. (c). Pub. L. 104–132, § 205(d)(3), (4), added subsec. (c) and struck out former subsec. (c) which read as follows: “Affidavit.—Within 60 days after conviction and, in any event, not later than 10 days before sentencing, the United States Attorney (or such Attorney’s delegate), after consulting with the victim, shall prepare and file an affidavit with the court listing the amounts subject to restitution under this section. The affidavit shall be signed by the United States Attorney (or the delegate) and the victim. Should the victim object to any of the information included in the affidavit, the United States Attorney (or the delegate) shall advise the victim that the victim may file a separate affidavit and assist the victim in the preparation of the affidavit.”
 
-Subsecs. (d) to (g). Pub. L. 104–132, § 205(d)(3), struck out subsecs. (d) to (g), which related, respectively, to objection, additional documentation and testimony, final determination of losses, and restitution in addition to punishment.
+Subsecs. (d) to (g). Pub. L. 104–132, § 205(d)(3), struck out subsecs. (d) to (g), which related, respectively, to objection, additional documentation and testimony, final determination of losses, and restitution in addition to punishment.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -283,11 +283,11 @@ Subsecs. (d) to (g). Pub. L. 104–132, § 205(d)(3), struck out subsecs. (d) 
 
 Amendment by Pub. L. 104–132 effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
 
-## § 2265. Full faith and credit given to protection orders
+## § 2265. Full faith and credit given to protection orders
 
-**(a) Full Faith and Credit.—** Any protection order issued that is consistent with subsection (b) of this section by the court of one State, Indian tribe, or territory (the issuing State, Indian tribe, or territory) shall be accorded full faith and credit by the court of another State, Indian tribe, or territory (the enforcing State, Indian tribe, or territory) and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory 1
+**(a) Full Faith and Credit.—** Any protection order issued that is consistent with subsection (b) of this section by the court of one State, Indian tribe, or territory (the issuing State, Indian tribe, or territory) shall be accorded full faith and credit by the court of another State, Indian tribe, or territory (the enforcing State, Indian tribe, or territory) and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 as if it were the order of the enforcing State or tribe.
 
@@ -313,7 +313,7 @@ as if it were the order of the enforcing State or tribe.
 
 **(e) Tribal Court Jurisdiction.—** For purposes of this section, a court of an Indian tribe shall have full civil jurisdiction to issue and enforce protection orders involving any person, including the authority to enforce any orders through civil contempt proceedings, to exclude violators from Indian land, and to use other appropriate mechanisms, in matters arising anywhere in the Indian country of the Indian tribe (as defined in section 1151) or otherwise within the authority of the Indian tribe.
 
-(Added Pub. L. 103–322, title IV, § 40221(a), Sept. 13, 1994, 108 Stat. 1930; amended Pub. L. 106–386, div. B, title I, § 1101(b)(4), Oct. 28, 2000, 114 Stat. 1493; Pub. L. 109–162, title I, § 106(a)–(c), Jan. 5, 2006, 119 Stat. 2981, 2982; Pub. L. 109–271, § 2(n), Aug. 12, 2006, 120 Stat. 754; Pub. L. 113–4, title IX, § 905, Mar. 7, 2013, 127 Stat. 124; Pub. L. 117–103, div. W, title I, § 106, Mar. 15, 2022, 136 Stat. 851.)
+(Added Pub. L. 103–322, title IV, § 40221(a), Sept. 13, 1994, 108 Stat. 1930; amended Pub. L. 106–386, div. B, title I, § 1101(b)(4), Oct. 28, 2000, 114 Stat. 1493; Pub. L. 109–162, title I, § 106(a)–(c), Jan. 5, 2006, 119 Stat. 2981, 2982; Pub. L. 109–271, § 2(n), Aug. 12, 2006, 120 Stat. 754; Pub. L. 113–4, title IX, § 905, Mar. 7, 2013, 127 Stat. 124; Pub. L. 117–103, div. W, title I, § 106, Mar. 15, 2022, 136 Stat. 851.)
 
 **Editorial Notes**
 
@@ -323,23 +323,23 @@ as if it were the order of the enforcing State or tribe.
 
 2013—Subsec. (e). Pub. L. 113–4 added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “For purposes of this section, a tribal court shall have full civil jurisdiction to enforce protection orders, including authority to enforce any orders through civil contempt proceedings, exclusion of violators from Indian lands, and other appropriate mechanisms, in matters arising within the authority of the tribe.”
 
-2006—Subsec. (a). Pub. L. 109–162, § 106(a)(1), (b), substituted “, Indian tribe, or territory” for “or Indian tribe” wherever appearing and “and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory as if it were” for “and enforced as if it were”.
+2006—Subsec. (a). Pub. L. 109–162, § 106(a)(1), (b), substituted “, Indian tribe, or territory” for “or Indian tribe” wherever appearing and “and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory as if it were” for “and enforced as if it were”.
 
-Subsec. (b). Pub. L. 109–162, § 106(a)(2), substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
+Subsec. (b). Pub. L. 109–162, § 106(a)(2), substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 109–162, § 106(a)(1), substituted “, Indian tribe, or territory” for “or Indian tribe”.
+Subsec. (b)(1). Pub. L. 109–162, § 106(a)(1), substituted “, Indian tribe, or territory” for “or Indian tribe”.
 
-Subsec. (b)(2). Pub. L. 109–162, § 106(a)(2), substituted “State, tribal, or territorial” for “State or tribal”.
+Subsec. (b)(2). Pub. L. 109–162, § 106(a)(2), substituted “State, tribal, or territorial” for “State or tribal”.
 
-Subsec. (c). Pub. L. 109–162, § 106(a)(2), substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
+Subsec. (c). Pub. L. 109–162, § 106(a)(2), substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 109–162, § 106(a), substituted “, Indian tribe, or territory” for “or Indian tribe” in two places and “State, tribal, or territorial” for “State or tribal”.
+Subsec. (d)(1). Pub. L. 109–162, § 106(a), substituted “, Indian tribe, or territory” for “or Indian tribe” in two places and “State, tribal, or territorial” for “State or tribal”.
 
-Subsec. (d)(2). Pub. L. 109–162, § 106(a)(2), substituted “State, tribal, or territorial” for “State or tribal”.
+Subsec. (d)(2). Pub. L. 109–162, § 106(a)(2), substituted “State, tribal, or territorial” for “State or tribal”.
 
 Subsec. (d)(3). Pub. L. 109–271, which directed amendment of section 106(c) of Pub. L. 109–162 by substituting “the registration, filing of a petition for, or issuance of a protection order, restraining order or injunction” for “the registration or filing of a protection order”, was executed by making the substitution in par. (3), which was added by section 106(c) of Pub. L. 109–162, to reflect the probable intent of Congress.
 
-Pub. L. 109–162, § 106(c), added par. (3).
+Pub. L. 109–162, § 106(c), added par. (3).
 
 2000—Subsecs. (d), (e). Pub. L. 106–386 added subsecs. (d) and (e).
 
@@ -347,9 +347,9 @@ Pub. L. 109–162, § 106(c), added par. (3).
 
 **Special Rule for the State of Alaska**
 
-Pub. L. 113–4, title IX, § 910, Mar. 7, 2013, 127 Stat. 126, which provided that, in the State of Alaska, the amendments made by sections 904 and 905 of Pub. L. 113–4, which related to tribal jurisdiction over crimes of domestic violence and over issuance of protection orders, applied only to the Indian country of the Metlakatla Indian Community, Annette Island Reserve, was repealed by Pub. L. 113–275, Dec. 18, 2014, 128 Stat. 2988.
+Pub. L. 113–4, title IX, § 910, Mar. 7, 2013, 127 Stat. 126, which provided that, in the State of Alaska, the amendments made by sections 904 and 905 of Pub. L. 113–4, which related to tribal jurisdiction over crimes of domestic violence and over issuance of protection orders, applied only to the Indian country of the Metlakatla Indian Community, Annette Island Reserve, was repealed by Pub. L. 113–275, Dec. 18, 2014, 128 Stat. 2988.
 
-## § 2265A. Repeat offenders
+## § 2265A. Repeat offenders
 
 **(a) Maximum Term of Imprisonment.—** The maximum term of imprisonment for a violation of this chapter after a prior domestic violence or stalking offense shall be twice the term otherwise provided under this chapter.
 
@@ -363,7 +363,7 @@ Pub. L. 113–4, title IX, § 910, Mar. 7, 2013, 127 Stat. 126, which provided
 
 **(2)** the term “State” means a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 109–162, title I, § 115, Jan. 5, 2006, 119 Stat. 2988; amended Pub. L. 113–4, title IX, § 906(c), Mar. 7, 2013, 127 Stat. 125.)
+(Added Pub. L. 109–162, title I, § 115, Jan. 5, 2006, 119 Stat. 2988; amended Pub. L. 113–4, title IX, § 906(c), Mar. 7, 2013, 127 Stat. 125.)
 
 **Editorial Notes**
 
@@ -371,7 +371,7 @@ Pub. L. 113–4, title IX, § 910, Mar. 7, 2013, 127 Stat. 126, which provided
 
 2013—Subsec. (b)(1)(B). Pub. L. 113–4 inserted “or tribal” after “State”.
 
-## § 2266. Definitions
+## § 2266. Definitions
 
 In this chapter:
 
@@ -407,7 +407,7 @@ In this chapter:
 
 **(II)** a person who is or has been in a social relationship of a romantic or intimate nature with the target of the stalking, as determined by the length of the relationship, the type of the relationship, and the frequency of interaction between the persons involved in the relationship.1
 
-<sup>1</sup>  So in original. The period probably should be “; and”.
+<sup>1</sup> So in original. The period probably should be “; and”.
 
 **(B)** any other person similarly situated to a spouse who is protected by the domestic or family violence laws of the State or tribal jurisdiction in which the injury occurred or where the victim resides.
 
@@ -429,7 +429,7 @@ In this chapter:
 
 **(13) Service animal.—** The term “service animal” has the meaning given the term in section 36.104 of title 28, Code of Federal Regulations (or a successor regulation).
 
-(Added Pub. L. 103–322, title IV, § 40221(a), Sept. 13, 1994, 108 Stat. 1931; amended Pub. L. 106–386, div. B, title I, § 1107(d), Oct. 28, 2000, 114 Stat. 1499; Pub. L. 109–162, title I, §§ 106(d), 116(b), Jan. 5, 2006, 119 Stat. 2982, 2988; Pub. L. 109–271, § 2(c), (i), Aug. 12, 2006, 120 Stat. 752; Pub. L. 115–334, title XII, § 12502(a)(4), Dec. 20, 2018, 132 Stat. 4983.)
+(Added Pub. L. 103–322, title IV, § 40221(a), Sept. 13, 1994, 108 Stat. 1931; amended Pub. L. 106–386, div. B, title I, § 1107(d), Oct. 28, 2000, 114 Stat. 1499; Pub. L. 109–162, title I, §§ 106(d), 116(b), Jan. 5, 2006, 119 Stat. 2982, 2988; Pub. L. 109–271, § 2(c), (i), Aug. 12, 2006, 120 Stat. 752; Pub. L. 115–334, title XII, § 12502(a)(4), Dec. 20, 2018, 132 Stat. 4983.)
 
 **Editorial Notes**
 
@@ -437,9 +437,9 @@ In this chapter:
 
 2018—Pars. (11) to (13). Pub. L. 115–334 added pars. (11) to (13).
 
-2006—Par. (5). Pub. L. 109–162, § 106(d)(1), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘protection order’ includes any injunction or other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil and criminal court (other than a support or child custody order issued pursuant to State divorce and child custody laws, except to the extent that such an order is entitled to full faith and credit under other Federal law) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.”
+2006—Par. (5). Pub. L. 109–162, § 106(d)(1), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘protection order’ includes any injunction or other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil and criminal court (other than a support or child custody order issued pursuant to State divorce and child custody laws, except to the extent that such an order is entitled to full faith and credit under other Federal law) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.”
 
-Par. (7)(A). Pub. L. 109–162, § 106(d)(2), which directed amendment of cls. (i) and (ii) by substituting “2261A—
+Par. (7)(A). Pub. L. 109–162, § 106(d)(2), which directed amendment of cls. (i) and (ii) by substituting “2261A—
 
 “(I) a spouse or former spouse of the abuser, a person who shares a child in common with the abuser, and a person who cohabits or has cohabited as a spouse with the abuser; or
 
@@ -447,10 +447,10 @@ Par. (7)(A). Pub. L. 109–162, § 106(d)(2), which directed amendment of cls.
 
 for “2261A, a spouse or former spouse of the abuser, a person who shares a child in common with the abuser, and a person who cohabits or has cohabited as a spouse with the abuser”, was executed only to cl. (i) to reflect the probable intent of Congress because the quoted language to be deleted does not appear in cl. (ii).
 
-Par. (7)(A)(ii). Pub. L. 109–271, § 2(c), added cl. (ii) and struck out former cl. (ii) which read as follows: “section 2261A, a spouse or former spouse of the target of the stalking, a person who shares a child in common with the target of the stalking, and a person who cohabits or has cohabited as a spouse with the target of the stalking; and”.
+Par. (7)(A)(ii). Pub. L. 109–271, § 2(c), added cl. (ii) and struck out former cl. (ii) which read as follows: “section 2261A, a spouse or former spouse of the target of the stalking, a person who shares a child in common with the target of the stalking, and a person who cohabits or has cohabited as a spouse with the target of the stalking; and”.
 
-Par. (10). Pub. L. 109–271, § 2(i), substituted “. The existence of such a relationship is” for “and the existence of such a relationship” in introductory provisions.
+Par. (10). Pub. L. 109–271, § 2(i), substituted “. The existence of such a relationship is” for “and the existence of such a relationship” in introductory provisions.
 
-Pub. L. 109–162, § 116(b), added par. (10).
+Pub. L. 109–162, § 116(b), added par. (10).
 
 2000—Pub. L. 106–386 reenacted section catchline without change and amended text generally. Prior to amendment, text defined “bodily injury”, “Indian country”, “protection order”, “spouse or intimate partner”, “State”, and “travel across State lines”.

@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1990—Pub. L. 101–510, div. A, title XIV, § 1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
+1990—Pub. L. 101–510, div. A, title XIV, § 1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
 
-## § 601. Applicability
+## § 601. Applicability
 
 This chapter applies to—
 
@@ -35,11 +35,11 @@ This chapter applies to—
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 601 | 37:351. | June 21, 1950, ch. 342, § 1, 64 Stat. 249. |
+| 601 | 37:351. | June 21, 1950, ch. 342, § 1, 64 Stat. 249. |
 
-The words “on active duty (other than for training)” are substituted for the words “on the active . . . list” to conform to longstanding administrative construction, and because there is no “active list” in the case of many of the uniformed services named, but only for certain regular component of those services, e.g., the “Regular Army” and the “Regular Air Force”. The words “a retired list of that service” are substituted for the words “retired list”, since there is more than one retired list for many of the services named. (See sections 1376, 3966, and 8966 of title 10, for example.) The words “members of the Reserve components of the respective services entitled to Federal pay either on the active or any retired list of said services” are omitted as covered by clause (1), since members of the reserve components are members of the uniformed services concerned. The word “transferred” is omitted as surplusage.
+The words “on active duty (other than for training)” are substituted for the words “on the active . . . list” to conform to longstanding administrative construction, and because there is no “active list” in the case of many of the uniformed services named, but only for certain regular component of those services, e.g., the “Regular Army” and the “Regular Air Force”. The words “a retired list of that service” are substituted for the words “retired list”, since there is more than one retired list for many of the services named. (See sections 1376, 3966, and 8966 of title 10, for example.) The words “members of the Reserve components of the respective services entitled to Federal pay either on the active or any retired list of said services” are omitted as covered by clause (1), since members of the reserve components are members of the uniformed services concerned. The word “transferred” is omitted as surplusage.
 
-## § 602. Payments: designation of person to receive amounts due
+## § 602. Payments: designation of person to receive amounts due
 
 **(a)** Active duty pay and allowances, amounts due for accrued or accumulated leave, or retired or retainer pay, that are otherwise payable to a member to whom this chapter applies and who is mentally incapable of managing his affairs, may be paid for that member’s use or benefit to—
 
@@ -69,13 +69,13 @@ If the hospitalization or medical care of the member is not provided by the Unit
 
 **(e)** A person who is designated under subsection (a)(3) to receive payments under this section shall furnish satisfactory assurance that the amounts received by him will be applied to the use and benefit of the incompetent member, and, where the payments may reasonably be expected to be more than $25,000, shall provide a suitable bond to be paid for out of amounts due the incompetent member.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 483; Pub. L. 96–513, title V, § 516(17), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 101–189, div. A, title XVI, § 1621(b)(1), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 114–328, div. A, title VI, § 645, Dec. 23, 2016, 130 Stat. 2167.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 483; Pub. L. 96–513, title V, § 516(17), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 101–189, div. A, title XVI, § 1621(b)(1), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 114–328, div. A, title VI, § 645, Dec. 23, 2016, 130 Stat. 2167.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 602(a)     602(b) | 37:352 (1st sentence, less 31 words before provisos and less provisos). 37:352 (last proviso of 1st sentence, 2d sentence, and last sentence). | June 21, 1950, ch. 342, §§ 2, 3 (less 1st 28 words), 64 Stat. 249; Aug. 7, 1959, Pub. L. 86–145, § 1, 73 Stat. 297. |
+| 602(a) 602(b) | 37:352 (1st sentence, less 31 words before provisos and less provisos). 37:352 (last proviso of 1st sentence, 2d sentence, and last sentence). | June 21, 1950, ch. 342, §§ 2, 3 (less 1st 28 words), 64 Stat. 249; Aug. 7, 1959, Pub. L. 86–145, § 1, 73 Stat. 297. |
 | 602(c) | 37:352 (31 words before provisos of 1st sentence). |  |
 | 602(d) | 37:352 (1st proviso of 1st sentence). |  |
 | 602(e) | 37:352 (2d proviso of 1st sentence). |  |
@@ -93,7 +93,7 @@ In subsection (e), the words “have been” and “including a requirement” a
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–328, § 645(1), struck out “, in the opinion of a board of medical officers or physicians,” after “and who” and substituted “use or benefit to—
+2016—Subsec. (a). Pub. L. 114–328, § 645(1), struck out “, in the opinion of a board of medical officers or physicians,” after “and who” and substituted “use or benefit to—
 
 “(1) a legal committee, guardian, or other representative that has been appointed by a court of competent jurisdiction;
 
@@ -103,13 +103,13 @@ In subsection (e), the words “have been” and “including a requirement” a
 
 for “use or benefit to any person designated”.
 
-Subsec. (b). Pub. L. 114–328, § 645(2), in introductory provisions, substituted “An individual may not be designated under subsection (a)(3) to receive payments unless a board consisting” for “The board shall consist” and inserted “determines that the member is mentally incapable of managing the member’s affairs. Any such board shall be” after “treatment of mental disorders,”.
+Subsec. (b). Pub. L. 114–328, § 645(2), in introductory provisions, substituted “An individual may not be designated under subsection (a)(3) to receive payments unless a board consisting” for “The board shall consist” and inserted “determines that the member is mentally incapable of managing the member’s affairs. Any such board shall be” after “treatment of mental disorders,”.
 
-Subsec. (c). Pub. L. 114–328, § 645(3), substituted “authorized to receive payments” for “designated”.
+Subsec. (c). Pub. L. 114–328, § 645(3), substituted “authorized to receive payments” for “designated”.
 
-Subsec. (d). Pub. L. 114–328, § 645(4), inserted “, unless a court of competent jurisdiction orders payment of such fee, commission, or other charge” before period at end.
+Subsec. (d). Pub. L. 114–328, § 645(4), inserted “, unless a court of competent jurisdiction orders payment of such fee, commission, or other charge” before period at end.
 
-Subsecs. (e), (f). Pub. L. 114–328, § 645(5)–(7), redesignated subsec. (f) as (e), inserted “under subsection (a)(3)” after “who is designated” and substituted “$25,000” for “$1,000”, and struck out former subsec. (e) which read as follows: “This section does not apply in any case in which a legal committee, guardian, or other representative has been appointed by a court of competent jurisdiction, except as to payments made before the paying agency of the department concerned receives notice of that appointment.”
+Subsecs. (e), (f). Pub. L. 114–328, § 645(5)–(7), redesignated subsec. (f) as (e), inserted “under subsection (a)(3)” after “who is designated” and substituted “$25,000” for “$1,000”, and struck out former subsec. (e) which read as follows: “This section does not apply in any case in which a legal committee, guardian, or other representative has been appointed by a court of competent jurisdiction, except as to payments made before the paying agency of the department concerned receives notice of that appointment.”
 
 1989—Subsec. (b)(5). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -121,17 +121,17 @@ Subsecs. (e), (f). Pub. L. 114–328, § 645(5)–(7), redesignated subsec. (f
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-## § 603. Regulations
+## § 603. Regulations
 
 The Secretary concerned and the Secretary of Veterans Affairs shall prescribe regulations necessary to carry out this chapter.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 484; Pub. L. 101–189, div. A, title XVI, § 1621(b)(2), Nov. 29, 1989, 103 Stat. 1604.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 484; Pub. L. 101–189, div. A, title XVI, § 1621(b)(2), Nov. 29, 1989, 103 Stat. 1604.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 603 | 37:353 (1st 28 words). | June 21, 1950, ch. 342, § 3 (1st 28 words), 64 Stat. 249; Aug. 7, 1959, Pub. L. 86–145, § 2, 73 Stat. 297. |
+| 603 | 37:353 (1st 28 words). | June 21, 1950, ch. 342, § 3 (1st 28 words), 64 Stat. 249; Aug. 7, 1959, Pub. L. 86–145, § 2, 73 Stat. 297. |
 
 The words “effectively” and “provisions of” are omitted as surplusage.
 
@@ -141,17 +141,17 @@ The words “effectively” and “provisions of” are omitted as surplusage.
 
 1989—Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-## § 604. Determination of Secretary final
+## § 604. Determination of Secretary final
 
 The determination as to the person authorized to receive a payment under section 602 of this title is final and is not subject to review by an official of the United States or a court.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 484; Pub. L. 89–718, § 66, Nov. 2, 1966, 80 Stat. 1123.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 484; Pub. L. 89–718, § 66, Nov. 2, 1966, 80 Stat. 1123.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 604 | 37:354. | June 21, 1950, ch. 342, § 4, 64 Stat. 250. |
+| 604 | 37:354. | June 21, 1950, ch. 342, § 4, 64 Stat. 250. |
 
 The words “or persons” are omitted for the reasons stated in the revision note for section 602(a) of this revised title. The words “made by the respective secretaries, or by their duly designated subordinates” and the words “and conclusive” are omitted as surplusage.
 

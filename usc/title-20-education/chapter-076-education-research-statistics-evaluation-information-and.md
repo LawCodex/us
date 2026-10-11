@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—EDUCATION SCIENCES REFORM
 
-### § 9501. Definitions
+### § 9501. Definitions
 
 In this subchapter:
 
@@ -171,13 +171,13 @@ The term “State” includes (except as provided in section 9548 of this title)
 
 **(C)** other assistance necessary to encourage the improvement of teaching and learning through the applications of techniques supported by scientifically valid research.
 
-(Pub. L. 107–279, title I, § 102, Nov. 5, 2002, 116 Stat. 1941; Pub. L. 114–95, title IX, § 9215(ff)(1), Dec. 10, 2015, 129 Stat. 2174.)
+(Pub. L. 107–279, title I, § 102, Nov. 5, 2002, 116 Stat. 1941; Pub. L. 114–95, title IX, § 9215(ff)(1), Dec. 10, 2015, 129 Stat. 2174.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Head Start Act, referred to in par. (17)(B), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Head Start Act, referred to in par. (17)(B), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 **Amendments**
 
@@ -191,19 +191,19 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 **Short Title**
 
-Pub. L. 107–279, title I, § 101, Nov. 5, 2002, 116 Stat. 1941, provided that: “This title [enacting this subchapter] may be cited as the ‘Education Sciences Reform Act of 2002’.”
+Pub. L. 107–279, title I, § 101, Nov. 5, 2002, 116 Stat. 1941, provided that: “This title [enacting this subchapter] may be cited as the ‘Education Sciences Reform Act of 2002’.”
 
-Pub. L. 107–279, title II, § 201, Nov. 5, 2002, 116 Stat. 1975, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Educational Technical Assistance Act of 2002’.”
+Pub. L. 107–279, title II, § 201, Nov. 5, 2002, 116 Stat. 1975, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Educational Technical Assistance Act of 2002’.”
 
-Pub. L. 107–279, title III, § 301, Nov. 5, 2002, 116 Stat. 1982, provided that: “This title [enacting subchapter III of this chapter] may be referred to as the ‘National Assessment of Educational Progress Authorization Act’.”
+Pub. L. 107–279, title III, § 301, Nov. 5, 2002, 116 Stat. 1982, provided that: “This title [enacting subchapter III of this chapter] may be referred to as the ‘National Assessment of Educational Progress Authorization Act’.”
 
 **Orderly Transition**
 
-Pub. L. 107–279, title IV, § 405, Nov. 5, 2002, 116 Stat. 1986, provided that: “The Secretary of Education shall take such steps as are necessary to provide for the orderly transition to, and implementation of, the offices, boards, committees, and centers (and their various functions and responsibilities) established or authorized by this Act [enacting this chapter and section 3419 of this title, amending sections 1232j, 3412, 3461, 6194, 6311, 6312, 7013, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 and former sections 6317, 6491, 6932, 7253c, 7283b, and 7283d of this title and section 5315 of Title 5, Government Organization and Employees, transferring sections 9010 and 9011 of this title to sections 9622 and 9621 of this title, respectively, repealing sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacting provisions set out as notes under this section and section 7703 of this title, and repealing provisions set out as notes under sections 1221e and 9001 of this title], and by the amendments made by this Act, from those established or authorized by the Educational Research, Development, Dissemination, and Improvement Act of 1994 (20 U.S.C. 6001 et seq.) and the National Education Statistics Act of 1994 (20 U.S.C. 9001 et seq.).”
+Pub. L. 107–279, title IV, § 405, Nov. 5, 2002, 116 Stat. 1986, provided that: “The Secretary of Education shall take such steps as are necessary to provide for the orderly transition to, and implementation of, the offices, boards, committees, and centers (and their various functions and responsibilities) established or authorized by this Act [enacting this chapter and section 3419 of this title, amending sections 1232j, 3412, 3461, 6194, 6311, 6312, 7013, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 and former sections 6317, 6491, 6932, 7253c, 7283b, and 7283d of this title and section 5315 of Title 5, Government Organization and Employees, transferring sections 9010 and 9011 of this title to sections 9622 and 9621 of this title, respectively, repealing sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacting provisions set out as notes under this section and section 7703 of this title, and repealing provisions set out as notes under sections 1221e and 9001 of this title], and by the amendments made by this Act, from those established or authorized by the Educational Research, Development, Dissemination, and Improvement Act of 1994 (20 U.S.C. 6001 et seq.) and the National Education Statistics Act of 1994 (20 U.S.C. 9001 et seq.).”
 
 ### Part A—The Institute of Education Sciences
 
-#### § 9511. Establishment
+#### § 9511. Establishment
 
 **(a) Establishment**
 
@@ -241,17 +241,17 @@ There shall be in the Department the Institute of Education Sciences, to be admi
 
 **(D)** the National Center for Special Education Research (as described in part E).
 
-(Pub. L. 107–279, title I, § 111, Nov. 5, 2002, 116 Stat. 1944; Pub. L. 108–446, title II, § 201(b)(2)(A), (B), Dec. 3, 2004, 118 Stat. 2802.)
+(Pub. L. 107–279, title I, § 111, Nov. 5, 2002, 116 Stat. 1944; Pub. L. 108–446, title II, § 201(b)(2)(A), (B), Dec. 3, 2004, 118 Stat. 2802.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–446, § 201(b)(2)(A), inserted “and special education” after “early childhood education”.
+2004—Subsec. (b)(1)(A). Pub. L. 108–446, § 201(b)(2)(A), inserted “and special education” after “early childhood education”.
 
-Subsec. (c)(3)(D). Pub. L. 108–446, § 201(b)(2)(B), added subpar. (D).
+Subsec. (c)(3)(D). Pub. L. 108–446, § 201(b)(2)(B), added subpar. (D).
 
-#### § 9512. Functions
+#### § 9512. Functions
 
 From funds appropriated under section 9584 of this title, the Institute, directly or through grants, contracts, or cooperative agreements, shall—
 
@@ -267,9 +267,9 @@ From funds appropriated under section 9584 of this title, the Institute, directl
 
 **(6)** promote the use and application of research and development to improve practice in the classroom.
 
-(Pub. L. 107–279, title I, § 112, Nov. 5, 2002, 116 Stat. 1945.)
+(Pub. L. 107–279, title I, § 112, Nov. 5, 2002, 116 Stat. 1945.)
 
-#### § 9513. Delegation
+#### § 9513. Delegation
 
 **(a) Delegation of authority** Notwithstanding section 3472 of this title, the Secretary shall delegate to the Director all functions for carrying out this subchapter (other than administrative and support functions), except that—
 
@@ -289,17 +289,17 @@ From funds appropriated under section 9584 of this title, the Institute, directl
 
 **(2)** the Institute’s mission, but only if those activities do not divert the Institute from its priorities.
 
-(Pub. L. 107–279, title I, § 113, Nov. 5, 2002, 116 Stat. 1945.)
+(Pub. L. 107–279, title I, § 113, Nov. 5, 2002, 116 Stat. 1945.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Education Statistics Act of 1994, referred to in subsec. (a)(1), is title IV of Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 4029, which was classified generally to chapter 71 (§ 9001 et seq.) of this title, prior to repeal by Pub. L. 107–279, title IV, § 403(1), Nov. 5, 2002, 116 Stat. 1985. Provisions relating to education statistics are now contained in part C (§ 9541 et seq.) of this subchapter.
+The National Education Statistics Act of 1994, referred to in subsec. (a)(1), is title IV of Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 4029, which was classified generally to chapter 71 (§ 9001 et seq.) of this title, prior to repeal by Pub. L. 107–279, title IV, § 403(1), Nov. 5, 2002, 116 Stat. 1985. Provisions relating to education statistics are now contained in part C (§ 9541 et seq.) of this subchapter.
 
 This Act, referred to in subsec. (a)(3), means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and section 3419 of this title, amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 7013, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 and former sections 6317, 6491, 6932, 7253c, 7283b, and 7283d of this title and section 5315 of Title 5, Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### § 9514. Office of the Director
+#### § 9514. Office of the Director
 
 **(a) Appointment**
 
@@ -367,7 +367,7 @@ The Director may establish technical and scientific peer-review groups and scien
 
 The Director may, when requested by other officers of the Department, and shall, when directed by the Secretary, review the products and publications of other offices of the Department to certify that evidence-based claims about those products and publications are scientifically valid.
 
-(Pub. L. 107–279, title I, § 114, Nov. 5, 2002, 116 Stat. 1946; Pub. L. 117–286, § 4(a)(153), Dec. 27, 2022, 136 Stat. 4322.)
+(Pub. L. 107–279, title I, § 114, Nov. 5, 2002, 116 Stat. 1946; Pub. L. 117–286, § 4(a)(153), Dec. 27, 2022, 136 Stat. 4322.)
 
 **Editorial Notes**
 
@@ -379,7 +379,7 @@ Level II of the Executive Schedule, referred to in subsec. (c), is set out in se
 
 2022—Subsec. (g). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-#### § 9515. Priorities
+#### § 9515. Priorities
 
 **(a) Proposal** The Director shall propose to the Board priorities for the Institute (taking into consideration long-term research and development on core issues conducted through the national research and development centers). The Director shall identify topics that may require long-term research and topics that are focused on understanding and solving particular education problems and issues, including those associated with the goals and requirements of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), and the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), such as—
 
@@ -411,23 +411,23 @@ Before submitting to the Board proposed priorities for the Institute, the Direct
 
 Upon approval of such priorities, the Director shall make the Institute’s plan for addressing such priorities available for public comment in the same manner as under paragraph (1).
 
-(Pub. L. 107–279, title I, § 115, Nov. 5, 2002, 116 Stat. 1948; Pub. L. 108–446, title II, § 201(b)(2)(C), Dec. 3, 2004, 118 Stat. 2802.)
+(Pub. L. 107–279, title I, § 115, Nov. 5, 2002, 116 Stat. 1948; Pub. L. 108–446, title II, § 201(b)(2)(C), Dec. 3, 2004, 118 Stat. 2802.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 **Amendments**
 
 2004—Subsec. (a). Pub. L. 108–446, in introductory provisions, substituted “including those associated with the goals and requirements of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), and the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), such as” for “including those associated with the goals and requirements established in the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) and the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), such as”.
 
-#### § 9516. National Board for Education Sciences
+#### § 9516. National Board for Education Sciences
 
 **(a) Establishment**
 
@@ -591,7 +591,7 @@ The Board shall submit to the Director, the Secretary, and the appropriate congr
 
 The Board shall submit to the Director, the Secretary, and the appropriate congressional committees a report that includes any recommendations regarding any actions that may be taken to enhance the ability of the Institute to carry out its priorities and mission. The Board shall submit an interim report not later than 3 years after November 5, 2002, and a final report not later than 5 years after such date.
 
-(Pub. L. 107–279, title I, § 116, Nov. 5, 2002, 116 Stat. 1948; Pub. L. 108–446, title II, §§ 201(b)(2)(D), 202, Dec. 3, 2004, 118 Stat. 2802; Pub. L. 110–154, § 1(d), Dec. 21, 2007, 121 Stat. 1828; Pub. L. 112–166, § 2(cc), Aug. 10, 2012, 126 Stat. 1290; Pub. L. 117–286, § 4(c)(28), Dec. 27, 2022, 136 Stat. 4357.)
+(Pub. L. 107–279, title I, § 116, Nov. 5, 2002, 116 Stat. 1948; Pub. L. 108–446, title II, §§ 201(b)(2)(D), 202, Dec. 3, 2004, 118 Stat. 2802; Pub. L. 110–154, § 1(d), Dec. 21, 2007, 121 Stat. 1828; Pub. L. 112–166, § 2(cc), Aug. 10, 2012, 126 Stat. 1290; Pub. L. 117–286, § 4(c)(28), Dec. 27, 2022, 136 Stat. 4357.)
 
 **Editorial Notes**
 
@@ -603,11 +603,11 @@ This Act, referred to in subsec. (c)(8)(C), means Pub. L. 107–279, Nov. 5, 200
 
 2022—Subsec. (c)(4)(D). Pub. L. 117–286 substituted “chapter 131 of title 5.” for “the Ethics in Government Act of 1978.”
 
-2012—Subsec. (c)(1). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
+2012—Subsec. (c)(1). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
 
-2004—Subsec. (c)(4)(A)(ii). Pub. L. 108–446, § 201(b)(2)(D), inserted “special education experts,” after “early childhood experts,”.
+2004—Subsec. (c)(4)(A)(ii). Pub. L. 108–446, § 201(b)(2)(D), inserted “special education experts,” after “early childhood experts,”.
 
-Subsec. (c)(9). Pub. L. 108–446, § 202, substituted “Meetings of the Board are subject to section 552b of title 5 (commonly referred to as the Government in the Sunshine Act).” for “Meetings of the Board shall be open to the public.”
+Subsec. (c)(9). Pub. L. 108–446, § 202, substituted “Meetings of the Board are subject to section 552b of title 5 (commonly referred to as the Government in the Sunshine Act).” for “Meetings of the Board shall be open to the public.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -619,7 +619,7 @@ Subsec. (c)(9). Pub. L. 108–446, § 202, substituted “Meetings of the Boar
 
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
-#### § 9517. Commissioners of the National Education Centers
+#### § 9517. Commissioners of the National Education Centers
 
 **(a) Appointment of Commissioners**
 
@@ -655,7 +655,7 @@ Each Commissioner of a National Education Center shall coordinate with each of t
 
 Each Commissioner, except the Commissioner for Education Statistics, shall carry out such Commissioner’s duties under this subchapter under the supervision and subject to the approval of the Director.
 
-(Pub. L. 107–279, title I, § 117, Nov. 5, 2002, 116 Stat. 1952; Pub. L. 112–166, § 2(d)(2), Aug. 10, 2012, 126 Stat. 1284.)
+(Pub. L. 107–279, title I, § 117, Nov. 5, 2002, 116 Stat. 1952; Pub. L. 112–166, § 2(d)(2), Aug. 10, 2012, 126 Stat. 1284.)
 
 **Editorial Notes**
 
@@ -665,7 +665,7 @@ Level IV of the Executive Schedule, referred to in subsecs. (a)(2)(A) and (b)(2)
 
 **Amendments**
 
-2012—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate,” after “President” in introductory provisions.
+2012—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate,” after “President” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -673,11 +673,11 @@ Level IV of the Executive Schedule, referred to in subsecs. (a)(2)(A) and (b)(2)
 
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
-#### § 9518. Agreements
+#### § 9518. Agreements
 
 The Institute may carry out research projects of common interest with entities such as the National Science Foundation and the Eunice Kennedy Shriver National Institute of Child Health and Human Development through agreements with such entities that are in accordance with section 1231 of this title.
 
-(Pub. L. 107–279, title I, § 118, Nov. 5, 2002, 116 Stat. 1953; Pub. L. 110–154, § 1(d), Dec. 21, 2007, 121 Stat. 1828.)
+(Pub. L. 107–279, title I, § 118, Nov. 5, 2002, 116 Stat. 1953; Pub. L. 110–154, § 1(d), Dec. 21, 2007, 121 Stat. 1828.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -685,7 +685,7 @@ The Institute may carry out research projects of common interest with entities s
 
 “Eunice Kennedy Shriver National Institute of Child Health and Human Development” substituted for “National Institute of Child Health and Human Development” in text, on authority of section 1(d) of Pub. L. 110–154, set out as a note under section 285g of Title 42, The Public Health and Welfare.
 
-#### § 9519. Biennial report
+#### § 9519. Biennial report
 
 The Director shall, on a biennial basis, transmit to the President, the Board, and the appropriate congressional committees, and make widely available to the public (including by means of the Internet), a report containing the following:
 
@@ -697,13 +697,13 @@ The Director shall, on a biennial basis, transmit to the President, the Board, a
 
 **(4)** Such additional comments, recommendations, and materials as the Director considers appropriate.
 
-(Pub. L. 107–279, title I, § 119, Nov. 5, 2002, 116 Stat. 1953.)
+(Pub. L. 107–279, title I, § 119, Nov. 5, 2002, 116 Stat. 1953.)
 
-#### § 9520. Competitive awards
+#### § 9520. Competitive awards
 
 Activities carried out under this Act through grants, contracts, or cooperative agreements, at a minimum, shall be awarded on a competitive basis and, when practicable, through a process of peer review.
 
-(Pub. L. 107–279, title I, § 120, Nov. 5, 2002, 116 Stat. 1953.)
+(Pub. L. 107–279, title I, § 120, Nov. 5, 2002, 116 Stat. 1953.)
 
 **Editorial Notes**
 
@@ -713,7 +713,7 @@ This Act, referred to in text, means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 
 
 ### Part B—National Center for Education Research
 
-#### § 9531. Establishment
+#### § 9531. Establishment
 
 **(a) Establishment**
 
@@ -737,15 +737,15 @@ There is established in the Institute a National Center for Education Research (
 
 **(4)** to promote scientifically valid research findings that can provide the basis for improving academic instruction and lifelong learning.
 
-(Pub. L. 107–279, title I, § 131, Nov. 5, 2002, 116 Stat. 1954.)
+(Pub. L. 107–279, title I, § 131, Nov. 5, 2002, 116 Stat. 1954.)
 
-#### § 9532. Commissioner for Education Research
+#### § 9532. Commissioner for Education Research
 
 The Research Center shall be headed by a Commissioner for Education Research (in this part referred to as the “Research Commissioner”) who shall have substantial knowledge of the activities of the Research Center, including a high level of expertise in the fields of research and research management.
 
-(Pub. L. 107–279, title I, § 132, Nov. 5, 2002, 116 Stat. 1954.)
+(Pub. L. 107–279, title I, § 132, Nov. 5, 2002, 116 Stat. 1954.)
 
-#### § 9533. Duties
+#### § 9533. Duties
 
 **(a) General duties** The Research Center shall—
 
@@ -785,9 +785,9 @@ The Research Center shall be headed by a Commissioner for Education Research (in
 
 **(C)** rigorous, peer-reviewed, large-scale, long-term, and broadly applicable empirical research that is designed to determine which approaches to the use of technology are most effective and cost-efficient in practice and under what conditions; and
 
-**(D)** field-based research on how teachers implement technology and Internet-based resources in the classroom, including an understanding 1
+**(D)** field-based research on how teachers implement technology and Internet-based resources in the classroom, including an understanding 1
 
-<sup>1</sup>  So in original. Probably should be “understanding of”.
+<sup>1</sup> So in original. Probably should be “understanding of”.
 
 how these resources are being accessed, put to use, and the effectiveness of such resources; and
 
@@ -849,15 +849,15 @@ The Director shall continue awards made to the national research and development
 
 To the extent feasible, research conducted under this subsection shall be disaggregated by age, race, gender, and socioeconomic background.
 
-(Pub. L. 107–279, title I, § 133, Nov. 5, 2002, 116 Stat. 1954.)
+(Pub. L. 107–279, title I, § 133, Nov. 5, 2002, 116 Stat. 1954.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(11), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(11), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-#### § 9534. Standards for conduct and evaluation of research
+#### § 9534. Standards for conduct and evaluation of research
 
 **(a) In general** In carrying out this part, the Research Commissioner shall—
 
@@ -885,7 +885,7 @@ The Director shall establish a peer review system, involving highly qualified in
 
 The Research Commissioner shall ensure that not less than 50 percent of the funds made available for research for each fiscal year shall be used to fund long-term research programs of not less than 5 years, which support the priorities and mission of the Institute and the mission of the Research Center.
 
-(Pub. L. 107–279, title I, § 134, Nov. 5, 2002, 116 Stat. 1957.)
+(Pub. L. 107–279, title I, § 134, Nov. 5, 2002, 116 Stat. 1957.)
 
 **Editorial Notes**
 
@@ -899,9 +899,9 @@ This Act, referred to in subsec. (b)(1), means Pub. L. 107–279, Nov. 5, 2002, 
 
 **Prior Provisions**
 
-Provisions similar to those in this part were contained in chapter 71 (§ 9001 et seq.) of this title prior to repeal by Pub. L. 107–279, title IV, § 403(1), Nov. 5, 2002, 116 Stat. 1985.
+Provisions similar to those in this part were contained in chapter 71 (§ 9001 et seq.) of this title prior to repeal by Pub. L. 107–279, title IV, § 403(1), Nov. 5, 2002, 116 Stat. 1985.
 
-#### § 9541. Establishment
+#### § 9541. Establishment
 
 **(a) Establishment**
 
@@ -919,15 +919,15 @@ There is established in the Institute a National Center for Education Statistics
 
 **(B)** is relevant and useful to practitioners, researchers, policymakers, and the public.
 
-(Pub. L. 107–279, title I, § 151, Nov. 5, 2002, 116 Stat. 1957.)
+(Pub. L. 107–279, title I, § 151, Nov. 5, 2002, 116 Stat. 1957.)
 
-#### § 9542. Commissioner for Education Statistics
+#### § 9542. Commissioner for Education Statistics
 
 The Statistics Center shall be headed by a Commissioner for Education Statistics (in this part referred to as the “Statistics Commissioner”) who shall be highly qualified and have substantial knowledge of statistical methodologies and activities undertaken by the Statistics Center.
 
-(Pub. L. 107–279, title I, § 152, Nov. 5, 2002, 116 Stat. 1958.)
+(Pub. L. 107–279, title I, § 152, Nov. 5, 2002, 116 Stat. 1958.)
 
-#### § 9543. Duties
+#### § 9543. Duties
 
 **(a) General duties** The Statistics Center shall collect, report, analyze, and disseminate statistical data related to education in the United States and in other nations, including—
 
@@ -949,7 +949,7 @@ The Statistics Center shall be headed by a Commissioner for Education Statistics
 
 **(ii)** the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title.1
 
-<sup>1</sup>  So in original. The period probably should not appear.
+<sup>1</sup> So in original. The period probably should not appear.
 
 in each State and, where feasible, in each local educational agency and school;
 
@@ -997,13 +997,13 @@ in each State and, where feasible, in each local educational agency and school;
 
 The Statistics Commissioner may establish a program to train employees of public and private educational agencies, organizations, and institutions in the use of standard statistical procedures and concepts, and may establish a fellowship program to appoint such employees as temporary fellows at the Statistics Center, in order to assist the Statistics Center in carrying out its duties.
 
-(Pub. L. 107–279, title I, § 153, Nov. 5, 2002, 116 Stat. 1958; Pub. L. 114–95, title IX, § 9214(b), Dec. 10, 2015, 129 Stat. 2161.)
+(Pub. L. 107–279, title I, § 153, Nov. 5, 2002, 116 Stat. 1958; Pub. L. 114–95, title IX, § 9214(b), Dec. 10, 2015, 129 Stat. 2161.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(5), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(5), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 **Amendments**
 
@@ -1017,15 +1017,15 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 **Study by National Center for Education Statistics Respecting Condition of Education for Hispanic Americans**
 
-Pub. L. 98–211, § 24(b), Dec. 8, 1983, 97 Stat. 1419, provided that: “The National Center for Education Statistics shall not terminate the study of the condition of education for Hispanic Americans unless specifically required or authorized to do so by law.”
+Pub. L. 98–211, § 24(b), Dec. 8, 1983, 97 Stat. 1419, provided that: “The National Center for Education Statistics shall not terminate the study of the condition of education for Hispanic Americans unless specifically required or authorized to do so by law.”
 
-#### § 9544. Performance of duties
+#### § 9544. Performance of duties
 
 **(a) Grants, contracts, and cooperative agreements**
 
 In carrying out the duties under this part, the Statistics Commissioner,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 may award grants, enter into contracts and cooperative agreements, and provide technical assistance.
 
@@ -1059,15 +1059,15 @@ The Statistics Commissioner may use the statistical method known as sampling (in
 
 Notwithstanding any other provision of law, the grants, contracts, and cooperative agreements under this section may be awarded, on a competitive basis, for a period of not more than 5 years, and may be renewed at the discretion of the Statistics Commissioner for an additional period of not more than 5 years.
 
-(Pub. L. 107–279, title I, § 154, Nov. 5, 2002, 116 Stat. 1960.)
+(Pub. L. 107–279, title I, § 154, Nov. 5, 2002, 116 Stat. 1960.)
 
-#### § 9545. Reports
+#### § 9545. Reports
 
 **(a) Procedures for issuance of reports**
 
 The Statistics Commissioner,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 shall establish procedures, in accordance with section 9576 of this title, to ensure that the reports issued under this section are relevant, of high quality, useful to customers, subject to rigorous peer review, produced in a timely fashion, and free from any partisan political influence.
 
@@ -1079,9 +1079,9 @@ Not later than June 1, 2003, and each June 1 thereafter, the Statistics Commissi
 
 The Statistics Commissioner shall issue regular and, as necessary, special statistical reports on education topics, particularly in the core academic areas of reading, mathematics, and science, consistent with the priorities and the mission of the Statistics Center.
 
-(Pub. L. 107–279, title I, § 155, Nov. 5, 2002, 116 Stat. 1960.)
+(Pub. L. 107–279, title I, § 155, Nov. 5, 2002, 116 Stat. 1960.)
 
-#### § 9546. Dissemination
+#### § 9546. Dissemination
 
 **(a) General requests**
 
@@ -1121,23 +1121,23 @@ The Statistics Center shall, consistent with section 9573 of this title, coopera
 
 The Statistics Center shall, in accordance with such terms and conditions as the Center may prescribe, provide all interested parties, including public and private agencies, parents, and other individuals, direct access, in the most appropriate form (including, where possible, electronically), to data collected by the Statistics Center for the purposes of research and acquiring statistical information.
 
-(Pub. L. 107–279, title I, § 156, Nov. 5, 2002, 116 Stat. 1961.)
+(Pub. L. 107–279, title I, § 156, Nov. 5, 2002, 116 Stat. 1961.)
 
-#### § 9547. Cooperative education statistics systems
+#### § 9547. Cooperative education statistics systems
 
 The Statistics Center may establish 1 or more national cooperative education statistics systems for the purpose of producing and maintaining, with the cooperation of the States, comparable and uniform information and data on early childhood education, elementary and secondary education, postsecondary education, adult education, and libraries, that are useful for policymaking at the Federal, State, and local levels.
 
-(Pub. L. 107–279, title I, § 157, Nov. 5, 2002, 116 Stat. 1962.)
+(Pub. L. 107–279, title I, § 157, Nov. 5, 2002, 116 Stat. 1962.)
 
-#### § 9548. State defined
+#### § 9548. State defined
 
 In this part, the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 107–279, title I, § 158, Nov. 5, 2002, 116 Stat. 1962.)
+(Pub. L. 107–279, title I, § 158, Nov. 5, 2002, 116 Stat. 1962.)
 
 ### Part D—National Center for Education Evaluation and Regional Assistance
 
-#### § 9561. Establishment
+#### § 9561. Establishment
 
 **(a) Establishment**
 
@@ -1157,9 +1157,9 @@ There is established in the Institute a National Center for Education Evaluation
 
 In carrying out the duties under this part, the Director may award grants, enter into contracts and cooperative agreements, and provide technical assistance.
 
-(Pub. L. 107–279, title I, § 171, Nov. 5, 2002, 116 Stat. 1962.)
+(Pub. L. 107–279, title I, § 171, Nov. 5, 2002, 116 Stat. 1962.)
 
-#### § 9562. Commissioner for Education Evaluation and Regional Assistance
+#### § 9562. Commissioner for Education Evaluation and Regional Assistance
 
 **(a) In general** The National Center for Education Evaluation and Regional Assistance shall be headed by a Commissioner for Education Evaluation and Regional Assistance (in this part referred to as the “Evaluation and Regional Assistance Commissioner”) who is highly qualified and has demonstrated a capacity to carry out the mission of the Center and shall—
 
@@ -1233,17 +1233,17 @@ The Director shall continue awards for the support of the Educational Resources 
 
 **(ii)** developed by the Department, other Federal agencies, or entities (including entities supported under subchapter II of this chapter and the Educational Resources Information Center Clearinghouses (established under section 941(f) of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (20 U.S.C. 6041(f)) (as such provision was in effect on the day before November 5, 2002))).1
 
-<sup>1</sup>  So in original. The third closing parenthesis probably should not appear.
+<sup>1</sup> So in original. The third closing parenthesis probably should not appear.
 
-(Pub. L. 107–279, title I, § 172, Nov. 5, 2002, 116 Stat. 1962.)
+(Pub. L. 107–279, title I, § 172, Nov. 5, 2002, 116 Stat. 1962.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (a)(1)(E), (b)(1), (c), and (d)(2)(B)(ii), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, which was classified principally to subchapter IX (§ 6001 et seq.) of chapter 68 of this title and was substantially repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985. Section 941 of the Act was classified to section 6041 of this title prior to repeal. For complete classification of this Act to the Code, see section 6001 of this title and Tables.
+The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (a)(1)(E), (b)(1), (c), and (d)(2)(B)(ii), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, which was classified principally to subchapter IX (§ 6001 et seq.) of chapter 68 of this title and was substantially repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985. Section 941 of the Act was classified to section 6041 of this title prior to repeal. For complete classification of this Act to the Code, see section 6001 of this title and Tables.
 
-#### § 9563. Evaluations
+#### § 9563. Evaluations
 
 **(a) In general**
 
@@ -1273,13 +1273,13 @@ The Educational Research, Development, Dissemination, and Improvement Act of 199
 
 The Evaluation and Regional Assistance Commissioner, consistent with the mission of the National Center for Education Evaluation and Regional Assistance under section 9561(b) of this title, shall administer all operations and contracts associated with evaluations authorized by section 8601 of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 7981] and administered by the Department as of November 5, 2002.
 
-(Pub. L. 107–279, title I, § 173, Nov. 5, 2002, 116 Stat. 1964; Pub. L. 114–95, title IX, § 9215(ff)(2), Dec. 10, 2015, 129 Stat. 2174.)
+(Pub. L. 107–279, title I, § 173, Nov. 5, 2002, 116 Stat. 1964; Pub. L. 114–95, title IX, § 9215(ff)(2), Dec. 10, 2015, 129 Stat. 2174.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 **Amendments**
 
@@ -1291,7 +1291,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-#### § 9564. Regional educational laboratories for research, development, dissemination, and technical assistance
+#### § 9564. Regional educational laboratories for research, development, dissemination, and technical assistance
 
 **(a) Regional educational laboratories**
 
@@ -1487,17 +1487,17 @@ In addition to activities authorized under this section, the Director is authori
 
 Nothing in this section shall be construed to require any modifications in a regional educational laboratory contract in effect on the day before November 5, 2002.
 
-(Pub. L. 107–279, title I, § 174, Nov. 5, 2002, 116 Stat. 1965.)
+(Pub. L. 107–279, title I, § 174, Nov. 5, 2002, 116 Stat. 1965.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (b) and (c), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, as amended, which was classified principally to subchapter IX (§ 6001 et seq.) of chapter 68 of this title and was substantially repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985. Section 941 of the Act was classified to section 6041 of this title prior to repeal. For complete classification of this Act to the Code, see section 6001 of this title and Tables.
+The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (b) and (c), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, as amended, which was classified principally to subchapter IX (§ 6001 et seq.) of chapter 68 of this title and was substantially repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985. Section 941 of the Act was classified to section 6041 of this title prior to repeal. For complete classification of this Act to the Code, see section 6001 of this title and Tables.
 
-Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (c), means title XIII of Pub. L. 89–10, as added by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3876, which was classified generally to subchapter XIII (§ 8601 et seq.) of chapter 70 of this title, prior to amendment by Pub. L. 107–110. Parts A to D of title XIII of Pub. L. 89–10, were classified to parts A (§ 8621 et seq.), B (§ 8651 et seq.), C (§ 8671 et seq.), and D (§ 8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of Pub. L. 103–227, by Pub. L. 107–110, title X, §§ 1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, 115 Stat. 1987, transferred to parts G (§ 6053 et seq.), H (§ 6054 et seq.), I (§ 6055 et seq.), and J (§ 6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
+Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (c), means title XIII of Pub. L. 89–10, as added by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3876, which was classified generally to subchapter XIII (§ 8601 et seq.) of chapter 70 of this title, prior to amendment by Pub. L. 107–110. Parts A to D of title XIII of Pub. L. 89–10, were classified to parts A (§ 8621 et seq.), B (§ 8651 et seq.), C (§ 8671 et seq.), and D (§ 8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of Pub. L. 103–227, by Pub. L. 107–110, title X, §§ 1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, 115 Stat. 1987, transferred to parts G (§ 6053 et seq.), H (§ 6054 et seq.), I (§ 6055 et seq.), and J (§ 6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 ### Part E—National Center for Special Education Research
 
@@ -1505,9 +1505,9 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1
 
 **Prior Provisions**
 
-A prior part E, consisting of sections 9571 to 9584, was redesignated part F of this subchapter by Pub. L. 108–446, title II, § 201(a)(1), Dec. 3, 2004, 118 Stat 2799.
+A prior part E, consisting of sections 9571 to 9584, was redesignated part F of this subchapter by Pub. L. 108–446, title II, § 201(a)(1), Dec. 3, 2004, 118 Stat 2799.
 
-#### § 9567. Establishment
+#### § 9567. Establishment
 
 **(a) Establishment**
 
@@ -1525,21 +1525,21 @@ There is established in the Institute a National Center for Special Education Re
 
 Parts A and F, and the standards for peer review of applications and for the conduct and evaluation of research under sections 9533(a) and 9534 of this title, respectively, shall apply to the Secretary, the Director, and the Commissioner in carrying out this part.
 
-(Pub. L. 107–279, title I, § 175, as added Pub. L. 108–446, title II, § 201(a)(2), Dec. 3, 2004, 118 Stat. 2799.)
+(Pub. L. 107–279, title I, § 175, as added Pub. L. 108–446, title II, § 201(a)(2), Dec. 3, 2004, 118 Stat. 2799.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(2), (3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(2), (3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-#### § 9567a. Commissioner for Special Education Research
+#### § 9567a. Commissioner for Special Education Research
 
 The Special Education Research Center shall be headed by a Commissioner for Special Education Research (in this part referred to as the “Special Education Research Commissioner”) who shall have substantial knowledge of the Special Education Research Center’s activities, including a high level of expertise in the fields of research, research management, and the education of children with disabilities.
 
-(Pub. L. 107–279, title I, § 176, as added Pub. L. 108–446, title II, § 201(a)(2), Dec. 3, 2004, 118 Stat. 2799.)
+(Pub. L. 107–279, title I, § 176, as added Pub. L. 108–446, title II, § 201(a)(2), Dec. 3, 2004, 118 Stat. 2799.)
 
-#### § 9567b. Duties
+#### § 9567b. Duties
 
 **(a) General duties** The Special Education Research Center shall carry out research activities under this part consistent with the mission described in section 9567(b) of this title, such as activities that—
 
@@ -1627,19 +1627,19 @@ An eligible applicant that wishes to receive a grant, or enter into a contract o
 
 There are authorized to be appropriated to carry out this part such sums as may be necessary for each of fiscal years 2005 through 2010.
 
-(Pub. L. 107–279, title I, § 177, as added Pub. L. 108–446, title II, § 201(a)(2), Dec. 3, 2004, 118 Stat. 2800.)
+(Pub. L. 107–279, title I, § 177, as added Pub. L. 108–446, title II, § 201(a)(2), Dec. 3, 2004, 118 Stat. 2800.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1) and (c)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1) and (c)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 108–446, title III, § 302(c), Dec. 3, 2004, 118 Stat. 2803, provided that:
+Pub. L. 108–446, title III, § 302(c), Dec. 3, 2004, 118 Stat. 2803, provided that:
 
 > **“(1) National center for special education research.—** Sections 175, 176, and 177 [20 U.S.C. 9567, 9567a, 9567b] (other than section 177(c) [20 U.S.C. 9567b(c)]) of the Education Sciences Reform Act of 2002, as enacted by section 201(a)(2) of this Act, shall take effect on the date of enactment of this Act [Dec. 3, 2004].
 
@@ -1651,15 +1651,15 @@ Pub. L. 108–446, title III, § 302(c), Dec. 3, 2004, 118 Stat. 2803, provide
 
 **Codification**
 
-Pub. L. 108–446, title II, § 201(a)(1), Dec. 3, 2004, 118 Stat. 2799, redesignated part E as F.
+Pub. L. 108–446, title II, § 201(a)(1), Dec. 3, 2004, 118 Stat. 2799, redesignated part E as F.
 
-#### § 9571. Interagency data sources and formats
+#### § 9571. Interagency data sources and formats
 
 The Secretary, in consultation with the Director, shall ensure that the Department and the Institute use common sources of data in standardized formats.
 
-(Pub. L. 107–279, title I, § 181, Nov. 5, 2002, 116 Stat. 1971.)
+(Pub. L. 107–279, title I, § 181, Nov. 5, 2002, 116 Stat. 1971.)
 
-#### § 9572. Prohibitions
+#### § 9572. Prohibitions
 
 **(a) National database**
 
@@ -1683,15 +1683,15 @@ Subject to paragraph (2), no funds provided under this subchapter to the Secreta
 
 Subsection (a) shall not apply to international comparative assessments developed under the authority of section 9543(a)(6) of this title or section 9003(a)(6) of this title (as such section was in effect on the day before November 5, 2002) and administered to only a representative sample of pupils in the United States and in foreign nations.
 
-(Pub. L. 107–279, title I, § 182, Nov. 5, 2002, 116 Stat. 1971.)
+(Pub. L. 107–279, title I, § 182, Nov. 5, 2002, 116 Stat. 1971.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 9003 of this title, referred to in subsec. (d)(2), was repealed by Pub. L. 107–279, title IV, § 403(1), Nov. 5, 2002, 116 Stat. 1985.
+Section 9003 of this title, referred to in subsec. (d)(2), was repealed by Pub. L. 107–279, title IV, § 403(1), Nov. 5, 2002, 116 Stat. 1985.
 
-#### § 9573. Confidentiality
+#### § 9573. Confidentiality
 
 **(a) In general**
 
@@ -1775,31 +1775,31 @@ Nothing in this section shall restrict the right of the Secretary, the Comptroll
 
 **(3) Protection**
 
-An officer or employee of the Department who, in good faith, produces information in accordance with an order issued under this subsection does not violate subsection (b)(2) 1
+An officer or employee of the Department who, in good faith, produces information in accordance with an order issued under this subsection does not violate subsection (b)(2) 1
 
-<sup>1</sup>  So in original. Probably means subsection (d)(2).
+<sup>1</sup> So in original. Probably means subsection (d)(2).
 
 and shall not be liable to any person for that production.
 
-(Pub. L. 107–279, title I, § 183, title IV, § 401(a)(6), Nov. 5, 2002, 116 Stat. 1972, 1983.)
+(Pub. L. 107–279, title I, § 183, title IV, § 401(a)(6), Nov. 5, 2002, 116 Stat. 1972, 1983.)
 
 **Editorial Notes**
 
 **Codification**
 
-Subsecs. (a) to (c) of section 9007 of this title, which were transferred to this section and redesignated subsecs. (c) to (e) by Pub. L. 107–279, § 401(a)(6), were based on Pub. L. 103–382, title IV, § 408(a) to (c), Oct. 20, 1994, 108 Stat. 4034; Pub. L. 107–56, title V, § 508, Oct. 26, 2001, 115 Stat. 368; Pub. L. 107–279, title IV, § 401(a)(1)–(5), Nov. 5, 2002, 116 Stat. 1983.
+Subsecs. (a) to (c) of section 9007 of this title, which were transferred to this section and redesignated subsecs. (c) to (e) by Pub. L. 107–279, § 401(a)(6), were based on Pub. L. 103–382, title IV, § 408(a) to (c), Oct. 20, 1994, 108 Stat. 4034; Pub. L. 107–56, title V, § 508, Oct. 26, 2001, 115 Stat. 368; Pub. L. 107–279, title IV, § 401(a)(1)–(5), Nov. 5, 2002, 116 Stat. 1983.
 
 **Amendments**
 
-2002—Subsecs. (c) to (e). Pub. L. 107–279, § 401(a)(6), transferred subsecs. (a) to (c) of section 9007 of this title to this section and redesignated them as subsecs. (c) to (e), respectively. See Codification note above.
+2002—Subsecs. (c) to (e). Pub. L. 107–279, § 401(a)(6), transferred subsecs. (a) to (c) of section 9007 of this title to this section and redesignated them as subsecs. (c) to (e), respectively. See Codification note above.
 
-#### § 9574. Availability of data
+#### § 9574. Availability of data
 
 Subject to section 9573 of this title, data collected by the Institute, including any office, board, committee, or center of the Institute, in carrying out the priorities and mission of the Institute, shall be made available to the public, including through use of the Internet.
 
-(Pub. L. 107–279, title I, § 184, Nov. 5, 2002, 116 Stat. 1972.)
+(Pub. L. 107–279, title I, § 184, Nov. 5, 2002, 116 Stat. 1972.)
 
-#### § 9575. Performance management
+#### § 9575. Performance management
 
 The Director shall ensure that all activities conducted or supported by the Institute or a National Education Center make customer service a priority. The Director shall ensure a high level of customer satisfaction through the following methods:
 
@@ -1815,9 +1815,9 @@ The Director shall ensure that all activities conducted or supported by the Inst
 
 **(6)** Making information available to the public in an expeditious fashion.
 
-(Pub. L. 107–279, title I, § 185, Nov. 5, 2002, 116 Stat. 1972.)
+(Pub. L. 107–279, title I, § 185, Nov. 5, 2002, 116 Stat. 1972.)
 
-#### § 9576. Authority to publish
+#### § 9576. Authority to publish
 
 **(a) Publication**
 
@@ -1831,9 +1831,9 @@ The Director shall provide the Secretary and other relevant offices with an adva
 
 All research, statistics, and evaluation reports conducted by, or supported through, the Institute shall be subjected to rigorous peer review before being published or otherwise made available to the public.
 
-**(d) Items not covered** Nothing in subsections 1
+**(d) Items not covered** Nothing in subsections 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (a), (b), or (c) shall be construed to apply to—
 
@@ -1843,15 +1843,15 @@ All research, statistics, and evaluation reports conducted by, or supported thro
 
 **(3)** review by officers of the United States in order to prevent the unauthorized disclosure of information described in paragraph (1) or (2).
 
-(Pub. L. 107–279, title I, § 186, Nov. 5, 2002, 116 Stat. 1973.)
+(Pub. L. 107–279, title I, § 186, Nov. 5, 2002, 116 Stat. 1973.)
 
-#### § 9577. Vacancies
+#### § 9577. Vacancies
 
 Any member appointed to fill a vacancy on the Board occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A vacancy in an office, board, committee, or center of the Institute shall be filled in the manner in which the original appointment was made. This section does not apply to employees appointed under section 9578 of this title.
 
-(Pub. L. 107–279, title I, § 187, Nov. 5, 2002, 116 Stat. 1973.)
+(Pub. L. 107–279, title I, § 187, Nov. 5, 2002, 116 Stat. 1973.)
 
-#### § 9578. Scientific or technical employees
+#### § 9578. Scientific or technical employees
 
 **(a) In general** The Director may appoint, for terms not to exceed 6 years (without regard to the provisions of title 5 governing appointment in the competitive service) and may compensate (without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates) such scientific or technical employees to carry out the functions of the Institute or the office, board, committee, or center, respectively, if—
 
@@ -1867,7 +1867,7 @@ Any member appointed to fill a vacancy on the Board occurring before the expirat
 
 All employees described in subsection (a) shall work on activities of the Institute or the office, board, committee, or center, and shall not be reassigned to other duties outside the Institute or the office, board, committee, or center during their term.
 
-(Pub. L. 107–279, title I, § 188, Nov. 5, 2002, 116 Stat. 1973.)
+(Pub. L. 107–279, title I, § 188, Nov. 5, 2002, 116 Stat. 1973.)
 
 **Editorial Notes**
 
@@ -1883,29 +1883,29 @@ Level III of the Executive Schedule, referred to in subsec. (a)(2), is set out i
 
 For reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of Title 5.
 
-#### § 9579. Fellowships
+#### § 9579. Fellowships
 
 In order to strengthen the national capacity to carry out high-quality research, evaluation, and statistics related to education, the Director shall establish and maintain research, evaluation, and statistics fellowships in institutions of higher education (which may include the establishment of such fellowships in historically Black colleges and universities and other institutions of higher education with large numbers of minority students) that support graduate and postdoctoral study onsite at the Institute or at the institution of higher education. In establishing the fellowships, the Director shall ensure that women and minorities are actively recruited for participation.
 
-(Pub. L. 107–279, title I, § 189, Nov. 5, 2002, 116 Stat. 1974.)
+(Pub. L. 107–279, title I, § 189, Nov. 5, 2002, 116 Stat. 1974.)
 
-#### § 9580. Voluntary service
+#### § 9580. Voluntary service
 
 The Director may accept voluntary and uncompensated services to carry out and support activities that are consistent with the priorities and mission of the Institute.
 
-(Pub. L. 107–279, title I, § 190, Nov. 5, 2002, 116 Stat. 1974.)
+(Pub. L. 107–279, title I, § 190, Nov. 5, 2002, 116 Stat. 1974.)
 
-#### § 9581. Rulemaking
+#### § 9581. Rulemaking
 
 Notwithstanding section 1232(d) of this title, the exemption for public property, loans, grants, and benefits in section 553(a)(2) of title 5 shall apply to the Institute.
 
-(Pub. L. 107–279, title I, § 191, Nov. 5, 2002, 116 Stat. 1974.)
+(Pub. L. 107–279, title I, § 191, Nov. 5, 2002, 116 Stat. 1974.)
 
-#### § 9582. Copyright
+#### § 9582. Copyright
 
 Nothing in this Act shall be construed to affect the rights, remedies, limitations, or defense under title 17.
 
-(Pub. L. 107–279, title I, § 192, Nov. 5, 2002, 116 Stat. 1974.)
+(Pub. L. 107–279, title I, § 192, Nov. 5, 2002, 116 Stat. 1974.)
 
 **Editorial Notes**
 
@@ -1913,7 +1913,7 @@ Nothing in this Act shall be construed to affect the rights, remedies, limitatio
 
 This Act, referred to in text, means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and section 3419 of this title, amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 7013, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 and former sections 6317, 6491, 6932, 7253c, 7283b, and 7283d of this title and section 5315 of Title 5, Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### § 9583. Removal
+#### § 9583. Removal
 
 **(a) Presidential**
 
@@ -1923,9 +1923,9 @@ The Director, each member of the Board, and the Commissioner for Education Stati
 
 Each Commissioner appointed by the Director pursuant to section 9517 of this title may be removed by the Director prior to the expiration of the term of each such Commissioner.
 
-(Pub. L. 107–279, title I, § 193, Nov. 5, 2002, 116 Stat. 1974.)
+(Pub. L. 107–279, title I, § 193, Nov. 5, 2002, 116 Stat. 1974.)
 
-#### § 9584. Authorization of appropriations
+#### § 9584. Authorization of appropriations
 
 **(a) In general** There are authorized to be appropriated to administer and carry out this subchapter (except section 9564 of this title) $400,000,000 for fiscal year 2003 and such sums as may be necessary for each of the 5 succeeding fiscal years, of which—
 
@@ -1941,11 +1941,11 @@ There are authorized to be appropriated to carry out section 9564 of this title 
 
 Amounts made available under this section shall remain available until expended.
 
-(Pub. L. 107–279, title I, § 194, Nov. 5, 2002, 116 Stat. 1975.)
+(Pub. L. 107–279, title I, § 194, Nov. 5, 2002, 116 Stat. 1975.)
 
 ## SUBCHAPTER II—EDUCATIONAL TECHNICAL ASSISTANCE
 
-### § 9601. Definitions
+### § 9601. Definitions
 
 In this subchapter:
 
@@ -1957,7 +1957,7 @@ The terms “local educational agency” and “State educational agency” have
 
 The term “Secretary” means the Secretary of Education.
 
-(Pub. L. 107–279, title II, § 202, Nov. 5, 2002, 116 Stat. 1975; Pub. L. 114–95, title IX, § 9215(gg)(1), Dec. 10, 2015, 129 Stat. 2174.)
+(Pub. L. 107–279, title II, § 202, Nov. 5, 2002, 116 Stat. 1975; Pub. L. 114–95, title IX, § 9215(gg)(1), Dec. 10, 2015, 129 Stat. 2174.)
 
 **Editorial Notes**
 
@@ -1975,7 +1975,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 This subchapter known as the “Educational Technical Assistance Act of 2002”, see Short Title note set out under section 9501 of this title.
 
-### § 9602. Comprehensive centers
+### § 9602. Comprehensive centers
 
 **(a) Authorization**
 
@@ -2043,11 +2043,11 @@ Each comprehensive center established under this section shall allocate such cen
 
 **(iii)** the facilitation of communication between education experts, school officials, teachers, parents, and librarians, as appropriate; and
 
-**(B)** disseminating and providing information, reports, and publications that are usable for improving academic achievement, closing achievement gaps,, 1
+**(B)** disseminating and providing information, reports, and publications that are usable for improving academic achievement, closing achievement gaps,, 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
-and particularly assisting those schools implementing comprehensive support and improvement and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 6311(d)],, 1 to schools, educators, parents, and policymakers within the region in which the center is located; and
+and particularly assisting those schools implementing comprehensive support and improvement and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 6311(d)],, 1 to schools, educators, parents, and policymakers within the region in which the center is located; and
 
 **(C)** developing teacher and school leader inservice and preservice training models that illustrate best practices in the use of technology in different content areas.
 
@@ -2101,25 +2101,25 @@ In the case of a State in which the chief executive officer has the primary resp
 
 **(2)** A listing of the States, local educational agencies, and schools the comprehensive center assisted during the preceding year.
 
-(Pub. L. 107–279, title II, § 203, Nov. 5, 2002, 116 Stat. 1975; Pub. L. 114–95, title IX, § 9215(gg)(2), Dec. 10, 2015, 129 Stat. 2174.)
+(Pub. L. 107–279, title II, § 203, Nov. 5, 2002, 116 Stat. 1975; Pub. L. 114–95, title IX, § 9215(gg)(2), Dec. 10, 2015, 129 Stat. 2174.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (a)(2)(A) and (b)(1), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, which was classified principally to subchapter IX (§ 6001 et seq.) of chapter 68 of this title and was substantially repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985. Section 941(h) of the Act was classified to section 6041(h) of this title prior to repeal. For complete classification of this Act to the Code, see section 6001 of this title and Tables.
+The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (a)(2)(A) and (b)(1), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, which was classified principally to subchapter IX (§ 6001 et seq.) of chapter 68 of this title and was substantially repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985. Section 941(h) of the Act was classified to section 6041(h) of this title prior to repeal. For complete classification of this Act to the Code, see section 6001 of this title and Tables.
 
-Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (b)(1), means title XIII of Pub. L. 89–10, as added by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3876, which was classified generally to subchapter XIII (§ 8601 et seq.) of chapter 70 of this title, prior to amendment by Pub. L. 107–110. Parts A to D of title XIII of Pub. L. 89–10, were classified to parts A (§ 8621 et seq.), B (§ 8651 et seq.), C (§ 8671 et seq.), and D (§ 8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of Pub. L. 103–227, by Pub. L. 107–110, title X, §§ 1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, 115 Stat. 1987, transferred to parts G (§ 6053 et seq.), H (§ 6054 et seq.), I (§ 6055 et seq.), and J (§ 6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
+Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (b)(1), means title XIII of Pub. L. 89–10, as added by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3876, which was classified generally to subchapter XIII (§ 8601 et seq.) of chapter 70 of this title, prior to amendment by Pub. L. 107–110. Parts A to D of title XIII of Pub. L. 89–10, were classified to parts A (§ 8621 et seq.), B (§ 8651 et seq.), C (§ 8671 et seq.), and D (§ 8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of Pub. L. 103–227, by Pub. L. 107–110, title X, §§ 1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, 115 Stat. 1987, transferred to parts G (§ 6053 et seq.), H (§ 6054 et seq.), I (§ 6055 et seq.), and J (§ 6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (e)(1) and (f)(1)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (e)(1) and (f)(1)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 **Amendments**
 
-2015—Subsec. (a)(2)(B). Pub. L. 114–95, § 9215(gg)(2)(A), substituted “the number of schools implementing comprehensive support and improvement activities and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965” for “the number of schools identified for school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b))”.
+2015—Subsec. (a)(2)(B). Pub. L. 114–95, § 9215(gg)(2)(A), substituted “the number of schools implementing comprehensive support and improvement activities and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965” for “the number of schools identified for school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b))”.
 
-Subsec. (e)(3). Pub. L. 114–95, § 9215(gg)(2)(B), substituted “schools in the region that are implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965” for “schools in the region that have been identified for school improvement under section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b))”.
+Subsec. (e)(3). Pub. L. 114–95, § 9215(gg)(2)(B), substituted “schools in the region that are implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965” for “schools in the region that have been identified for school improvement under section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b))”.
 
-Subsec. (f)(1)(B). Pub. L. 114–95, § 9215(gg)(2)(C), substituted “, and particularly assisting those schools implementing comprehensive support and improvement and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965,” for “and encouraging and sustaining school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b)))”.
+Subsec. (f)(1)(B). Pub. L. 114–95, § 9215(gg)(2)(C), substituted “, and particularly assisting those schools implementing comprehensive support and improvement and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965,” for “and encouraging and sustaining school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b)))”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2131,27 +2131,27 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-### § 9603. Evaluations
+### § 9603. Evaluations
 
 The Secretary shall provide for ongoing independent evaluations by the National Center for Education Evaluation and Regional Assistance of the comprehensive centers receiving assistance under this subchapter, the results of which shall be transmitted to the appropriate congressional committees and the Director of the Institute of Education Sciences. Such evaluations shall include an analysis of the services provided under this subchapter, the extent to which each of the comprehensive centers meets the objectives of its respective plan, and whether such services meet the educational needs of State educational agencies, local educational agencies, and schools in the region.
 
-(Pub. L. 107–279, title II, § 204, Nov. 5, 2002, 116 Stat. 1979.)
+(Pub. L. 107–279, title II, § 204, Nov. 5, 2002, 116 Stat. 1979.)
 
-### § 9604. Existing technical assistance providers
+### § 9604. Existing technical assistance providers
 
 The Secretary shall continue awards for the support of the Eisenhower Regional Mathematics and Science Education Consortia established under part M of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such part existed on the day before November 5, 2002), the Regional Technology in Education Consortia under section 3141 of the Elementary and Secondary Education Act of 1965 (as such section existed on the day before January 8, 2002), and the Comprehensive Regional Assistance Centers established under part K of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such part existed on the day before November 5, 2002), in accordance with the terms of such awards, until the comprehensive centers authorized under section 9602 of this title are established.
 
-(Pub. L. 107–279, title II, § 205, Nov. 5, 2002, 116 Stat. 1979.)
+(Pub. L. 107–279, title II, § 205, Nov. 5, 2002, 116 Stat. 1979.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Parts K and M of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such parts existed on the day before November 5, 2002), referred to in text, mean parts K and M of title IX of Pub. L. 103–227, which were classified to parts G (§ 6053 et seq.) and I (§ 6055 et seq.), respectively, of subchapter IX of chapter 68 of this title, prior to repeal by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
+Parts K and M of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such parts existed on the day before November 5, 2002), referred to in text, mean parts K and M of title IX of Pub. L. 103–227, which were classified to parts G (§ 6053 et seq.) and I (§ 6055 et seq.), respectively, of subchapter IX of chapter 68 of this title, prior to repeal by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
 
-Section 3141 of the Elementary and Secondary Education Act of 1965 (as such section existed on the day before January 8, 2002), referred to in text, is section 3141 of title III of Pub. L. 89–10, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3649, which was classified to section 6861 of this title prior to the general amendment of title III of Pub. L. 89–10 by Pub. L. 107–110, title III, § 301, Jan. 8, 2002, 115 Stat. 1689.
+Section 3141 of the Elementary and Secondary Education Act of 1965 (as such section existed on the day before January 8, 2002), referred to in text, is section 3141 of title III of Pub. L. 89–10, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3649, which was classified to section 6861 of this title prior to the general amendment of title III of Pub. L. 89–10 by Pub. L. 107–110, title III, § 301, Jan. 8, 2002, 115 Stat. 1689.
 
-### § 9605. Regional advisory committees
+### § 9605. Regional advisory committees
 
 **(a) Establishment**
 
@@ -2209,7 +2209,7 @@ Each regional advisory committee shall be dissolved by the Secretary after submi
 
 **(3)** submit the assessment to the Secretary and to the Director of the Institute of Education Sciences, at such time, in such manner, and containing such information as the Secretary may require.
 
-(Pub. L. 107–279, title II, § 206, Nov. 5, 2002, 116 Stat. 1979; Pub. L. 108–446, title II, § 203, Dec. 3, 2004, 118 Stat. 2803.)
+(Pub. L. 107–279, title II, § 206, Nov. 5, 2002, 116 Stat. 1979; Pub. L. 108–446, title II, § 203, Dec. 3, 2004, 118 Stat. 2803.)
 
 **Editorial Notes**
 
@@ -2223,13 +2223,13 @@ Each regional advisory committee shall be dissolved by the Secretary after submi
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 
-### § 9606. Priorities
+### § 9606. Priorities
 
 The Secretary shall establish priorities for the regional educational laboratories (established under section 9564 of this title) and comprehensive centers (established under section 9602 of this title) to address, taking onto account the regional assessments conducted under section 9605 of this title and other relevant regional surveys of educational needs, to the extent the Secretary deems appropriate.
 
-(Pub. L. 107–279, title II, § 207, Nov. 5, 2002, 116 Stat. 1981.)
+(Pub. L. 107–279, title II, § 207, Nov. 5, 2002, 116 Stat. 1981.)
 
-### § 9607. Grant program for statewide, longitudinal data systems
+### § 9607. Grant program for statewide, longitudinal data systems
 
 **(a) Grants authorized**
 
@@ -2263,23 +2263,23 @@ Funds made available under this section shall be used to supplement, and not sup
 
 **(3)** identifying best practices and areas for improvement.
 
-(Pub. L. 107–279, title II, § 208, Nov. 5, 2002, 116 Stat. 1981.)
+(Pub. L. 107–279, title II, § 208, Nov. 5, 2002, 116 Stat. 1981.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a), (c)(2)(A), and (e)(2), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a), (c)(2)(A), and (e)(2), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-### § 9608. Authorization of appropriations
+### § 9608. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this subchapter $80,000,000 for fiscal year 2003 and such sums as may be necessary for each of the 5 succeeding fiscal years.
 
-(Pub. L. 107–279, title II, § 209, Nov. 5, 2002, 116 Stat. 1982.)
+(Pub. L. 107–279, title II, § 209, Nov. 5, 2002, 116 Stat. 1982.)
 
 ## SUBCHAPTER III—NATIONAL ASSESSMENT OF EDUCATIONAL PROGRESS
 
-### § 9621. National Assessment Governing Board
+### § 9621. National Assessment Governing Board
 
 **(a) Establishment**
 
@@ -2435,7 +2435,7 @@ Such appointments may include, for terms not to exceed 3 years and without regar
 
 Chapter 10 of title 5 shall not apply with respect to the Assessment Board, other than sections 1009, 1010, and 1011 of title 5.
 
-(Pub. L. 107–279, title III, § 302, formerly Pub. L. 103–382, title IV, § 412, Oct. 20, 1994, 108 Stat. 4039; Pub. L. 106–554, § 1(a)(1) [title III, § 307], Dec. 21, 2000, 114 Stat. 2763, 2763A–44; Pub. L. 107–110, title VI, § 602(b), Jan. 8, 2002, 115 Stat. 1904; renumbered Pub. L. 107–279, title III, § 302, and amended Pub. L. 107–279, title IV, § 401(c), Nov. 5, 2002, 116 Stat. 1983; Pub. L. 117–286, § 4(a)(154), Dec. 27, 2022, 136 Stat. 4322.)
+(Pub. L. 107–279, title III, § 302, formerly Pub. L. 103–382, title IV, § 412, Oct. 20, 1994, 108 Stat. 4039; Pub. L. 106–554, § 1(a)(1) [title III, § 307], Dec. 21, 2000, 114 Stat. 2763, 2763A–44; Pub. L. 107–110, title VI, § 602(b), Jan. 8, 2002, 115 Stat. 1904; renumbered Pub. L. 107–279, title III, § 302, and amended Pub. L. 107–279, title IV, § 401(c), Nov. 5, 2002, 116 Stat. 1983; Pub. L. 117–286, § 4(a)(154), Dec. 27, 2022, 136 Stat. 4322.)
 
 **Editorial Notes**
 
@@ -2453,51 +2453,51 @@ A prior section 302 of Pub. L. 107–279 was renumbered section 304 and is class
 
 2002—Pub. L. 107–110 amended section generally, restating and expanding provisions and inserting headings.
 
-Subsec. (a). Pub. L. 107–279, § 401(c)(1), substituted “referred to as the ‘Assessment Board’ ” for “referred to as the ‘Board’ ” and inserted “(carried out under section 9622 of this title)” after “for the National Assessment”.
+Subsec. (a). Pub. L. 107–279, § 401(c)(1), substituted “referred to as the ‘Assessment Board’ ” for “referred to as the ‘Board’ ” and inserted “(carried out under section 9622 of this title)” after “for the National Assessment”.
 
-Subsec. (b)(1). Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board” in introductory provisions.
+Subsec. (b)(1). Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 107–279, § 401(c)(4), substituted “Director of the Institute of Education Sciences” for “Assistant Secretary for Educational Research” in heading and “Assistant Secretary for Educational Research and Improvement” in text.
+Subsec. (b)(2). Pub. L. 107–279, § 401(c)(4), substituted “Director of the Institute of Education Sciences” for “Assistant Secretary for Educational Research” in heading and “Assistant Secretary for Educational Research and Improvement” in text.
 
-Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board”.
+Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board”.
 
-Subsecs. (b)(3) to (d)(1). Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board” wherever appearing.
+Subsecs. (b)(3) to (d)(1). Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board” wherever appearing.
 
-Subsec. (e)(1). Pub. L. 107–279, § 401(c)(2), (5)(A)(vii), substituted “Assessment Board” for “Board” in introductory provisions and inserted concluding provisions.
+Subsec. (e)(1). Pub. L. 107–279, § 401(c)(2), (5)(A)(vii), substituted “Assessment Board” for “Board” in introductory provisions and inserted concluding provisions.
 
-Subsec. (e)(1)(A). Pub. L. 107–279, § 401(c)(5)(A)(i), substituted “section 9622(b)” for “section 9010(b)”.
+Subsec. (e)(1)(A). Pub. L. 107–279, § 401(c)(5)(A)(i), substituted “section 9622(b)” for “section 9010(b)”.
 
-Subsec. (e)(1)(B). Pub. L. 107–279, § 401(c)(5)(A)(ii), substituted “section 9622(e)” for “section 9010(e)”.
+Subsec. (e)(1)(B). Pub. L. 107–279, § 401(c)(5)(A)(ii), substituted “section 9622(e)” for “section 9010(e)”.
 
-Subsec. (e)(1)(E). Pub. L. 107–279, § 401(c)(5)(A)(iii), struck out “, including the Advisory Council established under section 9006 of this title” before semicolon at end.
+Subsec. (e)(1)(E). Pub. L. 107–279, § 401(c)(5)(A)(iii), struck out “, including the Advisory Council established under section 9006 of this title” before semicolon at end.
 
-Subsec. (e)(1)(F), (I). Pub. L. 107–279, § 401(c)(5)(A)(iv), substituted “section 9622” for “section 9010” wherever appearing.
+Subsec. (e)(1)(F), (I). Pub. L. 107–279, § 401(c)(5)(A)(iv), substituted “section 9622” for “section 9010” wherever appearing.
 
-Subsec. (e)(1)(J). Pub. L. 107–279, § 401(c)(5)(A)(v)–(vii), added subpar. (J).
+Subsec. (e)(1)(J). Pub. L. 107–279, § 401(c)(5)(A)(v)–(vii), added subpar. (J).
 
-Subsec. (e)(2) to (4). Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board”.
+Subsec. (e)(2) to (4). Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board”.
 
-Subsec. (e)(5). Pub. L. 107–279, § 401(c)(5)(B), struck out “and the Advisory Council on Education Statistics” before “and other experts.”
+Subsec. (e)(5). Pub. L. 107–279, § 401(c)(5)(B), struck out “and the Advisory Council on Education Statistics” before “and other experts.”
 
-Pub. L. 107–279, § 401(c)(3), substituted “Commissioner for Education Statistics” for “Commissioner”.
+Pub. L. 107–279, § 401(c)(3), substituted “Commissioner for Education Statistics” for “Commissioner”.
 
-Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board”.
+Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board”.
 
-Subsec. (e)(6). Pub. L. 107–279, § 401(c)(5)(C), substituted “section 9622(e)” for “section 9010(e)”.
+Subsec. (e)(6). Pub. L. 107–279, § 401(c)(5)(C), substituted “section 9622(e)” for “section 9010(e)”.
 
-Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board” in two places.
+Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board” in two places.
 
-Subsec. (f). Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board” wherever appearing.
+Subsec. (f). Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board” wherever appearing.
 
-Subsec. (g). Pub. L. 107–279, § 401(c)(3), substituted “Commissioner for Education Statistics” for “Commissioner” in two places.
+Subsec. (g). Pub. L. 107–279, § 401(c)(3), substituted “Commissioner for Education Statistics” for “Commissioner” in two places.
 
-Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board” wherever appearing.
+Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board” wherever appearing.
 
-Subsec. (h). Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board”.
+Subsec. (h). Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board” for “Board”.
 
-2000—Subsec. (c)(1). Pub. L. 106–554, § 1(a)(1) [title III, § 307(1)], substituted “4 years” for “3 years”.
+2000—Subsec. (c)(1). Pub. L. 106–554, § 1(a)(1) [title III, § 307(1)], substituted “4 years” for “3 years”.
 
-Subsec. (c)(4). Pub. L. 106–554, § 1(a)(1) [title III, § 307(2)], added par. (4).
+Subsec. (c)(4). Pub. L. 106–554, § 1(a)(1) [title III, § 307(2)], added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2509,7 +2509,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 This subchapter is known as the “National Assessment of Educational Progress Authorization Act”, see Short Title note set out under section 9501 of this title.
 
-### § 9622. National Assessment of Educational Progress
+### § 9622. National Assessment of Educational Progress
 
 **(a) Establishment**
 
@@ -2693,9 +2693,9 @@ The Assessment Board shall develop appropriate student achievement levels for ea
 
 **(A) In general** Such levels shall—
 
-**(i)**  1
+**(i)** 1
 
-<sup>1</sup>  So in original. No cl. (ii) has been enacted.
+<sup>1</sup> So in original. No cl. (ii) has been enacted.
 
 be determined by—
 
@@ -2739,9 +2739,9 @@ The Secretary shall provide for continuing review of any assessment authorized u
 
 **(i)** whether any authorized assessment is properly administered, produces high quality data that are valid and reliable, is consistent with relevant widely accepted professional assessment standards, and produces data on student achievement that are not otherwise available to the State (other than data comparing participating States to each other and the Nation);
 
-**(ii)** whether student achievement levels are reasonable, valid, reliable, and informative to the public;– 2
+**(ii)** whether student achievement levels are reasonable, valid, reliable, and informative to the public;– 2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 **(iii)** whether any authorized assessment is being administered as a random sample and is reporting the trends in academic achievement in a valid and reliable manner in the subject areas being assessed;
 
@@ -2767,7 +2767,7 @@ The Secretary and the Secretary of Defense may enter into an agreement, includin
 
 The Secretary and the Secretary of the Interior may enter into an agreement, including such terms as are mutually satisfactory, to include in the National Assessment schools for Indian children operated or supported by the Bureau of Indian Affairs.
 
-(Pub. L. 107–279, title III, § 303, formerly Pub. L. 103–382, title IV, § 411, Oct. 20, 1994, 108 Stat. 4036; Pub. L. 107–110, title VI, § 602(a), Jan. 8, 2002, 115 Stat. 1898; renumbered Pub. L. 107–279, title III, § 303, and amended Pub. L. 107–279, title IV, § 401(d), Nov. 5, 2002, 116 Stat. 1984.)
+(Pub. L. 107–279, title III, § 303, formerly Pub. L. 103–382, title IV, § 411, Oct. 20, 1994, 108 Stat. 4036; Pub. L. 107–110, title VI, § 602(a), Jan. 8, 2002, 115 Stat. 1898; renumbered Pub. L. 107–279, title III, § 303, and amended Pub. L. 107–279, title IV, § 401(d), Nov. 5, 2002, 116 Stat. 1984.)
 
 **Editorial Notes**
 
@@ -2783,57 +2783,57 @@ A prior section 303 of Pub. L. 107–279 was renumbered section 305 and is class
 
 2002—Pub. L. 107–110 amended section generally, restating and expanding provisions and inserting headings.
 
-Subsec. (a). Pub. L. 107–279, § 401(d)(3), substituted “section 9621” for “section 9011” and struck out “and with the technical assistance of the Advisory Council established under section 9006 of this title,” before “carry out”.
+Subsec. (a). Pub. L. 107–279, § 401(d)(3), substituted “section 9621” for “section 9011” and struck out “and with the technical assistance of the Advisory Council established under section 9006 of this title,” before “carry out”.
 
-Pub. L. 107–279, § 401(d)(2), substituted “Assessment Board” for “National Assessment Governing Board”.
+Pub. L. 107–279, § 401(d)(2), substituted “Assessment Board” for “National Assessment Governing Board”.
 
-Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner”.
+Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner”.
 
-Subsec. (b)(1). Pub. L. 107–279, § 401(d)(4)(A), inserted “of” after “academic achievement and reporting”.
+Subsec. (b)(1). Pub. L. 107–279, § 401(d)(4)(A), inserted “of” after “academic achievement and reporting”.
 
-Subsec. (b)(2), (3)(A). Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner” in introductory provisions.
+Subsec. (b)(2), (3)(A). Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner” in introductory provisions.
 
-Subsec. (b)(3)(A)(i). Pub. L. 107–279, § 401(d)(4)(B)(i), substituted “paragraphs (2)(B) and (2)(E)” for “paragraphs (1)(B) and (1)(E)”.
+Subsec. (b)(3)(A)(i). Pub. L. 107–279, § 401(d)(4)(B)(i), substituted “paragraphs (2)(B) and (2)(E)” for “paragraphs (1)(B) and (1)(E)”.
 
-Subsec. (b)(3)(A)(ii). Pub. L. 107–279, § 401(d)(4)(B)(ii), substituted “paragraph (2)(C)” for “paragraph (1)(C)”.
+Subsec. (b)(3)(A)(ii). Pub. L. 107–279, § 401(d)(4)(B)(ii), substituted “paragraph (2)(C)” for “paragraph (1)(C)”.
 
-Subsec. (b)(3)(A)(iii). Pub. L. 107–279, § 401(d)(4)(B)(iii), substituted “paragraph (2)(D)” for “paragraph (1)(D)”.
+Subsec. (b)(3)(A)(iii). Pub. L. 107–279, § 401(d)(4)(B)(iii), substituted “paragraph (2)(D)” for “paragraph (1)(D)”.
 
-Subsec. (b)(3)(A)(iv). Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner”.
+Subsec. (b)(3)(A)(iv). Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner”.
 
-Subsec. (b)(5). Pub. L. 107–279, § 401(d)(4)(C), substituted “subsection (c)(3)” for “subsection (c)(2)” in introductory provisions.
+Subsec. (b)(5). Pub. L. 107–279, § 401(d)(4)(C), substituted “subsection (c)(3)” for “subsection (c)(2)” in introductory provisions.
 
-Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner” in introductory provisions.
+Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner” in introductory provisions.
 
-Subsec. (b)(6). Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner”.
+Subsec. (b)(6). Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner”.
 
-Subsec. (c)(2). Pub. L. 107–279, § 401(d)(2), substituted “Assessment Board” for “National Assessment Governing Board” wherever appearing.
+Subsec. (c)(2). Pub. L. 107–279, § 401(d)(2), substituted “Assessment Board” for “National Assessment Governing Board” wherever appearing.
 
-Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner” wherever appearing.
+Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner” wherever appearing.
 
-Subsec. (c)(2)(D). Pub. L. 107–279, § 401(d)(5), substituted “subparagraph (C)” for “subparagraph (B)”.
+Subsec. (c)(2)(D). Pub. L. 107–279, § 401(d)(5), substituted “subparagraph (C)” for “subparagraph (B)”.
 
-Subsec. (c)(3). Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner” in subpars. (A) and (B).
+Subsec. (c)(3). Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner” in subpars. (A) and (B).
 
-Subsec. (c)(3)(B). Pub. L. 107–279, § 401(d)(2), substituted “Assessment Board” for “National Board”.
+Subsec. (c)(3)(B). Pub. L. 107–279, § 401(d)(2), substituted “Assessment Board” for “National Board”.
 
-Subsec. (e)(1). Pub. L. 107–279, § 401(d)(2), substituted “Assessment Board” for “National Assessment Governing Board”.
+Subsec. (e)(1). Pub. L. 107–279, § 401(d)(2), substituted “Assessment Board” for “National Assessment Governing Board”.
 
-Subsec. (e)(2). Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner” wherever appearing.
+Subsec. (e)(2). Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner” wherever appearing.
 
-Subsec. (e)(2)(E). Pub. L. 107–279, § 401(d)(2), substituted “Assessment Board” for “National Assessment Governing Board”.
+Subsec. (e)(2)(E). Pub. L. 107–279, § 401(d)(2), substituted “Assessment Board” for “National Assessment Governing Board”.
 
-Subsec. (e)(3). Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner”.
+Subsec. (e)(3). Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner”.
 
-Subsec. (e)(4). Pub. L. 107–279, § 401(d)(6), substituted “paragraph (2)(C) of such subsection” for “subparagraph (2)(C)”.
+Subsec. (e)(4). Pub. L. 107–279, § 401(d)(6), substituted “paragraph (2)(C) of such subsection” for “subparagraph (2)(C)”.
 
-Pub. L. 107–279, § 401(d)(2), substituted “Assessment Board” for “National Assessment Governing Board”.
+Pub. L. 107–279, § 401(d)(2), substituted “Assessment Board” for “National Assessment Governing Board”.
 
-Subsec. (f)(1)(B)(iv). Pub. L. 107–279, § 401(d)(7), substituted “section 9621(e)(4)” for “section 9011(e)(4)”.
+Subsec. (f)(1)(B)(iv). Pub. L. 107–279, § 401(d)(7), substituted “section 9621(e)(4)” for “section 9011(e)(4)”.
 
-Subsec. (f)(3). Pub. L. 107–279, § 401(d)(2), substituted “Assessment Board” for “National Assessment Governing Board”.
+Subsec. (f)(3). Pub. L. 107–279, § 401(d)(2), substituted “Assessment Board” for “National Assessment Governing Board”.
 
-Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner” in two places.
+Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2843,7 +2843,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 **Rescheduling of the NAEP Mandated Biennial 4th and 8th Grade Assessment and Alignment of the Mandated Quadrennial 12th Grade Assessment**
 
-Pub. L. 116–260, div. FF, title I, § 104, Dec. 27, 2020, 134 Stat. 3088, provided that:
+Pub. L. 116–260, div. FF, title I, § 104, Dec. 27, 2020, 134 Stat. 3088, provided that:
 
 > **“(a) Current Assessment Administration Rescheduling.—** Notwithstanding any other provision of law and due to the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) on January 31, 2020, with respect to COVID–19—
 
@@ -2853,7 +2853,7 @@ Pub. L. 116–260, div. FF, title I, § 104, Dec. 27, 2020, 134 Stat. 3088, pr
 
 > **“(b) Future Assessment Administration.—** In accordance with section 303(b)(2)(B) of the National Assessment of Educational Progress Authorization Act (20 U.S.C. 9622(b)(2)(B)), the next biennial assessments following the 2021–2022 administration, as authorized under subsection (a), shall occur in the 2023–2024 school year and, as practicable and subject to the discretion of the National Assessment Governing Board, the next Trial Urban District Assessment following the 2021–2022 administration, as authorized under subsection (a), shall occur in the 2023–2024 school year.”
 
-### § 9623. Definitions
+### § 9623. Definitions
 
 In this subchapter:
 
@@ -2861,9 +2861,9 @@ In this subchapter:
 
 **(2)** The term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 107–279, title III, § 304, formerly § 302, Nov. 5, 2002, 116 Stat. 1982; renumbered § 304, Pub. L. 107–279, title IV, § 401(b), Nov. 5, 2002, 116 Stat. 1983.)
+(Pub. L. 107–279, title III, § 304, formerly § 302, Nov. 5, 2002, 116 Stat. 1982; renumbered § 304, Pub. L. 107–279, title IV, § 401(b), Nov. 5, 2002, 116 Stat. 1983.)
 
-### § 9624. Authorization of appropriations
+### § 9624. Authorization of appropriations
 
 **(a) In general** There are authorized to be appropriated—
 
@@ -2879,11 +2879,11 @@ In this subchapter:
 
 Amounts made available under this section shall remain available until expended.
 
-(Pub. L. 107–279, title III, § 305, formerly § 303, Nov. 5, 2002, 116 Stat. 1982; renumbered § 305, Pub. L. 107–279, title IV, § 401(b), Nov. 5, 2002, 116 Stat. 1983.)
+(Pub. L. 107–279, title III, § 305, formerly § 303, Nov. 5, 2002, 116 Stat. 1982; renumbered § 305, Pub. L. 107–279, title IV, § 401(b), Nov. 5, 2002, 116 Stat. 1983.)
 
 ## SUBCHAPTER IV—NATIONAL CENTER FOR RESEARCH IN ADVANCED INFORMATION AND DIGITAL TECHNOLOGIES
 
-### § 9631. National Center for Research in Advanced Information and Digital Technologies
+### § 9631. National Center for Research in Advanced Information and Digital Technologies
 
 **(a) Establishment**
 
@@ -3045,7 +3045,7 @@ The term “Center” means the National Center for Research in Advanced Informa
 
 The term “Director” means the Director of the Center appointed under subsection (e)(1).
 
-(Pub. L. 110–315, title VIII, § 802, Aug. 14, 2008, 122 Stat. 3446; Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(vii), Jan. 2, 2013, 126 Stat. 1950.)
+(Pub. L. 110–315, title VIII, § 802, Aug. 14, 2008, 122 Stat. 3446; Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(vii), Jan. 2, 2013, 126 Stat. 1950.)
 
 **Editorial Notes**
 

@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 2203—UNITED STATES CAPITOL HISTORICAL SOCIETY"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 2203—UNITED STATES CAPITOL HISTORICAL SOCIETY"
 identifier: "/us/usc/t36/stII/ptB/ch2203"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 2203—UNITED STATES CAPITOL HISTORICAL SOCIETY
 
-## § 220301. Organization
+## § 220301. Organization
 
 **(a) Federal Charter.—** United States Capitol Historical Society (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -29,12 +29,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220301 | 36:1201. | Oct. 20, 1978, Pub. L. 95–493, §§ 1, 2, 92 Stat. 1643. |
+| 220301 | 36:1201. | Oct. 20, 1978, Pub. L. 95–493, §§ 1, 2, 92 Stat. 1643. |
 |  | 36:1202. |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and obsolete words.
 
-## § 220302. Purposes
+## § 220302. Purposes
 
 The purposes of the corporation are—
 
@@ -52,7 +52,7 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220302 | 36:1203. | Oct. 20, 1978, Pub. L. 95–493, § 3, 92 Stat. 1643. |
+| 220302 | 36:1203. | Oct. 20, 1978, Pub. L. 95–493, § 3, 92 Stat. 1643. |
 
 Before clause (1), the word “objects” is omitted as included in “purposes”.
 
@@ -60,7 +60,7 @@ In clause (3), the words “among the citizens” are substituted for “of the 
 
 In clause (4), the words “departments, agencies, and instrumentalities” are substituted for “departments and agencies” for consistency in the revised title and with other titles of the United States Code.
 
-## § 220303. Membership
+## § 220303. Membership
 
 Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the constitution and bylaws of the corporation.
 
@@ -70,9 +70,9 @@ Except as provided in this chapter, eligibility for membership in the corporatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220303 | 36:1206. | Oct. 20, 1978, Pub. L. 95–493, § 6, 92 Stat. 1645. |
+| 220303 | 36:1206. | Oct. 20, 1978, Pub. L. 95–493, § 6, 92 Stat. 1645. |
 
-## § 220304. Governing body
+## § 220304. Governing body
 
 **(a) Board of Trustees.—**
 
@@ -102,7 +102,7 @@ Except as provided in this chapter, eligibility for membership in the corporatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220304(a)(1) | 36:1207(a) (1st–21st words). | Oct. 20, 1978, Pub. L. 95–493, §§ 7, 8, 92 Stat. 1645. |
+| 220304(a)(1) | 36:1207(a) (1st–21st words). | Oct. 20, 1978, Pub. L. 95–493, §§ 7, 8, 92 Stat. 1645. |
 | 220304(a)(2) | 36:1207(a) (22d–last words), (b), (d). |  |
 | 220304(a)(3) | 36:1208(b) (1st sentence). |  |
 | 220304(a)(4) | 36:1207(c). |  |
@@ -124,7 +124,7 @@ In subsection (b)(4), the words “other remuneration” as [sic] are omitted as
 
 In subsection (c), the word “activities” is substituted for “programs and business” to eliminate unnecessary words.
 
-## § 220305. Powers
+## § 220305. Powers
 
 The corporation may—
 
@@ -156,7 +156,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220305 | 36:1204. | Oct. 20, 1978, Pub. L. 95–493, §§ 4, 16 (1st sentence), 92 Stat. 1644, 1647. |
+| 220305 | 36:1204. | Oct. 20, 1978, Pub. L. 95–493, §§ 4, 16 (1st sentence), 92 Stat. 1644, 1647. |
 |  | 36:1216 (1st sentence). |  |
 
 In this section, the text of 36:1216 (1st sentence) is omitted as executed and obsolete.
@@ -181,7 +181,7 @@ In clause (10), the words “complain, and defend in any court of competent juri
 
 In clause (11), the words “any other act” are substituted for “any and all acts” for consistency in the revised title.
 
-## § 220306. Exclusive right to name, seals, emblems, insignia, marks, and words
+## § 220306. Exclusive right to name, seals, emblems, insignia, marks, and words
 
 The corporation has the exclusive right to use the name “United States Capitol Historical Society” and seals, emblems, distinctive insignia, and descriptive or designating marks, words, or phrases required to carry out the duties and powers of the corporation. This section does not affect any vested rights.
 
@@ -191,11 +191,11 @@ The corporation has the exclusive right to use the name “United States Capitol
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220306 | 36:1215. | Oct. 20, 1978, Pub. L. 95–493, § 15, 92 Stat. 1647. |
+| 220306 | 36:1215. | Oct. 20, 1978, Pub. L. 95–493, § 15, 92 Stat. 1647. |
 
 The word “sole” is omitted as included in “exclusive”. The words “required to carry out the duties and powers of the corporation” are substituted for “as may be required in the furtherance of its functions” for consistency in the revised title and with other titles of the United States Code. The words “This section does not affect any vested rights” are substituted for “Nothing in this section shall be construed to interfere or conflict with established or vested rights” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 220307. Tax exemption
+## § 220307. Tax exemption
 
 Notwithstanding section 105 of title 4 of the United States Code or any provision of the District of Columbia Code, the corporation is not required to pay, collect, or account for any tax specified in those provisions in connection with activities conducted within, or on the grounds of, the United States Capitol Building.
 
@@ -205,11 +205,11 @@ Notwithstanding section 105 of title 4 of the United States Code or any provisio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220307 | 36:1219. | Oct. 20, 1978, Pub. L. 95–493, § 19, as added Jan. 12, 1983, Pub. L. 97–447, 96 Stat. 2364. |
+| 220307 | 36:1219. | Oct. 20, 1978, Pub. L. 95–493, § 19, as added Jan. 12, 1983, Pub. L. 97–447, 96 Stat. 2364. |
 
-The words “or title 47, chapter 26 of the District of Columbia Code (1973)” (subsequently covered in chapter 20 of title 47 of the District of Columbia Code (1981)) are omitted as unnecessary. The words “in connection with activities conducted” are substituted for “applicable to taxable events occurring” for clarity. The words “occurring . . . on or after January 1, 1964” are omitted as obsolete.
+The words “or title 47, chapter 26 of the District of Columbia Code (1973)” (subsequently covered in chapter 20 of title 47 of the District of Columbia Code (1981)) are omitted as unnecessary. The words “in connection with activities conducted” are substituted for “applicable to taxable events occurring” for clarity. The words “occurring . . . on or after January 1, 1964” are omitted as obsolete.
 
-## § 220308. Restrictions
+## § 220308. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -223,7 +223,7 @@ The words “or title 47, chapter 26 of the District of Columbia Code (1973)” 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220308(a) | 36:1211. | Oct. 20, 1978, Pub. L. 95–493, §§ 9, 11, 92 Stat. 1646. |
+| 220308(a) | 36:1211. | Oct. 20, 1978, Pub. L. 95–493, §§ 9, 11, 92 Stat. 1646. |
 | 220308(b) | 36:1209(a). |  |
 | 220308(c) | 36:1209(b). |  |
 
@@ -233,7 +233,7 @@ In subsection (b), the words “inure to the benefit of” are substituted for �
 
 In subsection (c), the words “or advance” are added the first time they appear for consistency in the subsection. The word “Trustees” is substituted for “Any director”, and the word “trustee” is substituted for “director”, for clarity and consistency in the revised chapter.
 
-## § 220309. Duty to maintain corporate status
+## § 220309. Duty to maintain corporate status
 
 The corporation shall maintain its status as a corporation incorporated under the laws of the District of Columbia or a State.
 
@@ -243,11 +243,11 @@ The corporation shall maintain its status as a corporation incorporated under th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220309 | 36:1216 (last sentence). | Oct. 20, 1978, Pub. L. 95–493, § 16 (last sentence), 92 Stat. 1647. |
+| 220309 | 36:1216 (last sentence). | Oct. 20, 1978, Pub. L. 95–493, § 16 (last sentence), 92 Stat. 1647. |
 
 The word “retain” is omitted as unnecessary.
 
-## § 220310. Principal office
+## § 220310. Principal office
 
 The principal office of the corporation shall be in the District of Columbia or another place decided by the board of trustees. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States.
 
@@ -257,11 +257,11 @@ The principal office of the corporation shall be in the District of Columbia or 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220310 | 36:1205(a). | Oct. 20, 1978, Pub. L. 95–493, § 5(a), 92 Stat. 1644. |
+| 220310 | 36:1205(a). | Oct. 20, 1978, Pub. L. 95–493, § 5(a), 92 Stat. 1644. |
 
 The words “board of trustees” are substituted for “board of directors” for clarity and consistency in the revised chapter. The words “States, territories, and possessions of the United States” are substituted for “various possessions of the United States” for consistency in the revised title.
 
-## § 220311. Records and inspection
+## § 220311. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -279,11 +279,11 @@ The words “board of trustees” are substituted for “board of directors” f
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220311 | 36:1212. | Oct. 20, 1978, Pub. L. 95–493, § 12, 92 Stat. 1646. |
+| 220311 | 36:1212. | Oct. 20, 1978, Pub. L. 95–493, § 12, 92 Stat. 1646. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 220312. Service of process
+## § 220312. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -293,11 +293,11 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220312 | 36:1205(b). | Oct. 20, 1978, Pub. L. 95–493, § 5(b) 92 Stat. 1644. |
+| 220312 | 36:1205(b). | Oct. 20, 1978, Pub. L. 95–493, § 5(b) 92 Stat. 1644. |
 
 The words “at all times” are omitted as unnecessary. The words “to receive” are substituted for “authorized to accept”, and the words “is notice to or service on” are substituted for “shall be deemed as service or notice upon”, for consistency in the revised title.
 
-## § 220313. Liability for acts of officers and agents
+## § 220313. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -307,23 +307,23 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220313 | 36:1210. | Oct. 20, 1978, Pub. L. 95–493, § 10, 92 Stat. 1646. |
+| 220313 | 36:1210. | Oct. 20, 1978, Pub. L. 95–493, § 10, 92 Stat. 1646. |
 
 The word “when” is omitted as unnecessary.
 
-## § 220314. Annual report and audit
+## § 220314. Annual report and audit
 
 **(a) Annual Report.—** The corporation shall submit an annual report to each House of Congress on the activities of the corporation during the prior fiscal year. The report shall be submitted as soon as practical after the end of each fiscal year.
 
 **(b) Audit.—** In addition to complying with the audit requirements of section 10101 of this title, the corporation shall comply with section 5108 of title 40.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1465; Pub. L. 107–217, § 3(i)(2), Aug. 21, 2002, 116 Stat. 1300.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1465; Pub. L. 107–217, § 3(i)(2), Aug. 21, 2002, 116 Stat. 1300.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220314(a) | 36:1217. | Oct. 20, 1978, Pub. L. 95–493, §§ 13(b), 17, 92 Stat. 1646, 1647. |
+| 220314(a) | 36:1217. | Oct. 20, 1978, Pub. L. 95–493, §§ 13(b), 17, 92 Stat. 1646, 1647. |
 | 220314(b) | 36:1213(b). |  |
 
 In subsection (b), the words “In addition to complying with the audit requirements of section 10101 of this title” are added for clarity.
@@ -340,7 +340,7 @@ In subsection (b), the words “In addition to complying with the audit requirem
 
 For termination, effective May 15, 2000, of reporting provisions in subsec. (a) of this section, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 207 of House Document No. 103–7.
 
-## § 220315. Distribution of assets on dissolution or final liquidation
+## § 220315. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed as provided by the board of trustees, but in compliance with the constitution and bylaws of the corporation.
 
@@ -350,6 +350,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220315 | 36:1214. | Oct. 20, 1978, Pub. L. 95–493, § 14, 92 Stat. 1646. |
+| 220315 | 36:1214. | Oct. 20, 1978, Pub. L. 95–493, § 14, 92 Stat. 1646. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The words “outstanding” and “and all Federal and State laws applicable thereto” are omitted as unnecessary.

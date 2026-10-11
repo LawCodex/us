@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 78—DISCOVERY OF LIABILITY AND ENFORCEMENT OF TITLE
 
-Pub. L. 94–455, title XIX, § 1906(b)(13), Oct. 4, 1976, 90 Stat. 1834, struck out subchapter C relating to supervision of operations of certain manufacturers.
+Pub. L. 94–455, title XIX, § 1906(b)(13), Oct. 4, 1976, 90 Stat. 1834, struck out subchapter C relating to supervision of operations of certain manufacturers.
 
 ## Subchapter A—Examination and Inspection
 
@@ -23,21 +23,21 @@ Pub. L. 94–455, title XIX, § 1906(b)(13), Oct. 4, 1976, 90 Stat. 1834, stru
 
 **Amendments**
 
-1998—Pub. L. 105–206, title III, § 3413(d), July 22, 1998, 112 Stat. 754, added items 7612 and 7613 and struck out former item 7612 “Cross references”.
+1998—Pub. L. 105–206, title III, § 3413(d), July 22, 1998, 112 Stat. 754, added items 7612 and 7613 and struck out former item 7612 “Cross references”.
 
-1984—Pub. L. 98–573, title II, § 213(b)(2), Oct. 30, 1984, 98 Stat. 2988, struck out item 7607 “Additional authority for Bureau of Customs”.
+1984—Pub. L. 98–573, title II, § 213(b)(2), Oct. 30, 1984, 98 Stat. 2988, struck out item 7607 “Additional authority for Bureau of Customs”.
 
-Pub. L. 98–369, div. A, title X, § 1033(c)(2), July 18, 1984, 98 Stat. 1039, added item 7611 and redesignated former item 7611 as 7612.
+Pub. L. 98–369, div. A, title X, § 1033(c)(2), July 18, 1984, 98 Stat. 1039, added item 7611 and redesignated former item 7611 as 7612.
 
-1976—Pub. L. 94–455, title XII, § 1205(b), Oct. 4, 1976, 90 Stat. 1702, substituted “Special procedures for third-party summonses” for “Cross references” in item 7609 and added items 7610 and 7611.
+1976—Pub. L. 94–455, title XII, § 1205(b), Oct. 4, 1976, 90 Stat. 1702, substituted “Special procedures for third-party summonses” for “Cross references” in item 7609 and added items 7610 and 7611.
 
-1970—Pub. L. 91–513, title III, § 1102(g)(2), Oct. 27, 1970, 84 Stat. 1293, struck out “Bureau of Narcotics and” before “Bureau of Customs” in item 7607.
+1970—Pub. L. 91–513, title III, § 1102(g)(2), Oct. 27, 1970, 84 Stat. 1293, struck out “Bureau of Narcotics and” before “Bureau of Customs” in item 7607.
 
-1958—Pub. L. 85–859, title II, § 204(16), Sept. 2, 1958, 72 Stat. 1430, added item 7608 and redesignated former item 7608 as 7609.
+1958—Pub. L. 85–859, title II, § 204(16), Sept. 2, 1958, 72 Stat. 1430, added item 7608 and redesignated former item 7608 as 7609.
 
-1956—Act July 18, 1956, ch. 629, § 104(b), 70 Stat. 570, added item 7607 and redesignated former item 7607 as 7608.
+1956—Act July 18, 1956, ch. 629, § 104(b), 70 Stat. 570, added item 7607 and redesignated former item 7607 as 7608.
 
-### § 7601. Canvass of districts for taxable persons and objects
+### § 7601. Canvass of districts for taxable persons and objects
 
 **(a) General rule**
 
@@ -47,7 +47,7 @@ The Secretary shall, to the extent he deems it practicable, cause officers or em
 
 For penalties applicable to forcible obstruction or hindrance of Treasury officers or employees in the performance of their duties, see section 7212.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 901; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 901; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -55,7 +55,7 @@ For penalties applicable to forcible obstruction or hindrance of Treasury office
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-### § 7602. Examination of books and witnesses
+### § 7602. Examination of books and witnesses
 
 **(a) Authority to summon, etc.** For the purpose of ascertaining the correctness of any return, making a return where none has been made, determining the liability of any person for any internal revenue tax or the liability at law or in equity of any transferee or fiduciary of any person in respect of any internal revenue tax, or collecting any such liability, the Secretary is authorized—
 
@@ -131,23 +131,23 @@ The Secretary shall not use financial status or economic reality examination tec
 
 The Secretary shall not, under the authority of section 6103(n), provide any books, papers, records, or other data obtained pursuant to this section to any person authorized under section 6103(n), except when such person requires such information for the sole purpose of providing expert evaluation and assistance to the Internal Revenue Service. No person other than an officer or employee of the Internal Revenue Service or the Office of Chief Counsel may, on behalf of the Secretary, question a witness under oath whose testimony was obtained pursuant to this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 901; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, § 333(a), Sept. 3, 1982, 96 Stat. 622; Pub. L. 105–206, title III, §§ 3412, 3417(a), July 22, 1998, 112 Stat. 751, 757; Pub. L. 116–25, title I, §§ 1206(a), 1208(a), July 1, 2019, 133 Stat. 990, 991.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 901; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, § 333(a), Sept. 3, 1982, 96 Stat. 622; Pub. L. 105–206, title III, §§ 3412, 3417(a), July 22, 1998, 112 Stat. 751, 757; Pub. L. 116–25, title I, §§ 1206(a), 1208(a), July 1, 2019, 133 Stat. 990, 991.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (c)(1). Pub. L. 116–25, § 1206(a), amended par. (1) generally. Prior to amendment, text read as follows: “An officer or employee of the Internal Revenue Service may not contact any person other than the taxpayer with respect to the determination or collection of the tax liability of such taxpayer without providing reasonable notice in advance to the taxpayer that contacts with persons other than the taxpayer may be made.”
+2019—Subsec. (c)(1). Pub. L. 116–25, § 1206(a), amended par. (1) generally. Prior to amendment, text read as follows: “An officer or employee of the Internal Revenue Service may not contact any person other than the taxpayer with respect to the determination or collection of the tax liability of such taxpayer without providing reasonable notice in advance to the taxpayer that contacts with persons other than the taxpayer may be made.”
 
-Subsec. (f). Pub. L. 116–25, § 1208(a), added subsec. (f).
+Subsec. (f). Pub. L. 116–25, § 1208(a), added subsec. (f).
 
-1998—Subsec. (c). Pub. L. 105–206, § 3417(a), added subsec. (c). Former subsec. (c) redesignated (d).
+1998—Subsec. (c). Pub. L. 105–206, § 3417(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 105–206, § 3417(a), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 105–206, § 3417(a), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 105–206, § 3412, added subsec. (d).
+Pub. L. 105–206, § 3412, added subsec. (d).
 
-Subsec. (e). Pub. L. 105–206, § 3417(a), redesignated subsec. (d) as (e).
+Subsec. (e). Pub. L. 105–206, § 3417(a), redesignated subsec. (d) as (e).
 
 1982—Pub. L. 97–248 redesignated existing provisions as subsec. (a), added subsec. (a) heading, and added subsecs. (b) and (c).
 
@@ -157,9 +157,9 @@ Subsec. (e). Pub. L. 105–206, § 3417(a), redesignated subsec. (d) as (e).
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–25, title I, § 1206(b), July 1, 2019, 133 Stat. 990, provided that: “The amendment made by this section [amending this section] shall apply to notices provided, and contacts of persons made, after the date which is 45 days after the date of the enactment of this Act [July 1, 2019].”
+Pub. L. 116–25, title I, § 1206(b), July 1, 2019, 133 Stat. 990, provided that: “The amendment made by this section [amending this section] shall apply to notices provided, and contacts of persons made, after the date which is 45 days after the date of the enactment of this Act [July 1, 2019].”
 
-Pub. L. 116–25, title I, § 1208(b), July 1, 2019, 133 Stat. 991, provided that:
+Pub. L. 116–25, title I, § 1208(b), July 1, 2019, 133 Stat. 991, provided that:
 
 > “The amendment made by this section [amending this section]—
 
@@ -169,13 +169,13 @@ Pub. L. 116–25, title I, § 1208(b), July 1, 2019, 133 Stat. 991, provided t
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–206, title III, § 3417(b), July 22, 1998, 112 Stat. 758, provided that: “The amendments made by subsection (a) [amending this section] shall apply to contacts made after the 180th day after the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title III, § 3417(b), July 22, 1998, 112 Stat. 758, provided that: “The amendments made by subsection (a) [amending this section] shall apply to contacts made after the 180th day after the date of the enactment of this Act [July 22, 1998].”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title III, § 333(b), Sept. 3, 1982, 96 Stat. 623, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the day after the date of the enactment of this Act [Sept. 3, 1982].”
+Pub. L. 97–248, title III, § 333(b), Sept. 3, 1982, 96 Stat. 623, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the day after the date of the enactment of this Act [Sept. 3, 1982].”
 
-### § 7603. Service of summons
+### § 7603. Service of summons
 
 **(a) In general**
 
@@ -211,7 +211,7 @@ A summons referred to in subsection (a) for the production of books, papers, rec
 
 Subparagraph (J) shall apply only with respect to a summons requiring the production of the source code referred to in subparagraph (J) or the program and data described in section 7612(b)(1)(A)(ii) to which such source code relates.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 902; Apr. 2, 1956, ch. 160, § 4(i), 70 Stat. 91; June 29, 1956, ch. 462, title II, § 208(d)(4), 70 Stat. 396; Pub. L. 89–44, title II, § 202(c)(4), June 21, 1965, 79 Stat. 139; Pub. L. 91–258, title II, § 207(d)(9), May 21, 1970, 84 Stat. 249; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 94–530, § 1(c)(6), Oct. 17, 1976, 90 Stat. 2488; Pub. L. 95–599, title V, § 505(c)(5), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 96–223, title II, § 232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, § 515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IX, § 911(d)(2)(G), July 18, 1984, 98 Stat. 1007; Pub. L. 99–514, title XVII, § 1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2778; Pub. L. 100–647, title I, § 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3576, 3577; Pub. L. 105–206, title III, §§ 3413(c), 3416(a), July 22, 1998, 112 Stat. 754, 756; Pub. L. 106–554, § 1(a)(7) [title III, § 319(26)], Dec. 21, 2000, 114 Stat. 2763, 2763A–648.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 902; Apr. 2, 1956, ch. 160, § 4(i), 70 Stat. 91; June 29, 1956, ch. 462, title II, § 208(d)(4), 70 Stat. 396; Pub. L. 89–44, title II, § 202(c)(4), June 21, 1965, 79 Stat. 139; Pub. L. 91–258, title II, § 207(d)(9), May 21, 1970, 84 Stat. 249; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 94–530, § 1(c)(6), Oct. 17, 1976, 90 Stat. 2488; Pub. L. 95–599, title V, § 505(c)(5), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 96–223, title II, § 232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, § 515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IX, § 911(d)(2)(G), July 18, 1984, 98 Stat. 1007; Pub. L. 99–514, title XVII, § 1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2778; Pub. L. 100–647, title I, § 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3576, 3577; Pub. L. 105–206, title III, §§ 3413(c), 3416(a), July 22, 1998, 112 Stat. 754, 756; Pub. L. 106–554, § 1(a)(7) [title III, § 319(26)], Dec. 21, 2000, 114 Stat. 2763, 2763A–648.)
 
 **Editorial Notes**
 
@@ -219,17 +219,17 @@ Subparagraph (J) shall apply only with respect to a summons requiring the produc
 
 2000—Subsec. (b)(2)(A) to (G). Pub. L. 106–554 substituted a comma for semicolon at end.
 
-1998—Subsec. (a). Pub. L. 105–206, § 3416(a), designated existing provisions as subsec. (a) and inserted heading.
+1998—Subsec. (a). Pub. L. 105–206, § 3416(a), designated existing provisions as subsec. (a) and inserted heading.
 
-Subsec. (b). Pub. L. 105–206, § 3416(a), added subsec. (b).
+Subsec. (b). Pub. L. 105–206, § 3416(a), added subsec. (b).
 
-Subsec. (b)(2). Pub. L. 105–206, § 3413(c), added subpar. (J) and concluding provisions.
+Subsec. (b)(2). Pub. L. 105–206, § 3413(c), added subpar. (J) and concluding provisions.
 
-1988—Pub. L. 100–647, § 1017(c)(12), made technical correction to language of Pub. L. 99–514, § 1703(e)(2)(G), see 1986 Amendment note below.
+1988—Pub. L. 100–647, § 1017(c)(12), made technical correction to language of Pub. L. 99–514, § 1703(e)(2)(G), see 1986 Amendment note below.
 
-Pub. L. 100–647, § 1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
+Pub. L. 100–647, § 1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
 
-1986—Pub. L. 99–514, as amended by Pub. L. 100–647, § 1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
+1986—Pub. L. 99–514, as amended by Pub. L. 100–647, § 1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
 
 1984—Pub. L. 98–369 substituted “6427(i)(2)” for “6427(h)(2)”.
 
@@ -257,7 +257,7 @@ Act Apr. 2, 1956, inserted reference to section 6420(e)(2).
 
 Amendment by section 3413(c) of Pub. L. 105–206 applicable to summonses issued, and software acquired, after July 22, 1998, see section 3413(e)(1) of Pub. L. 105–206, set out as an Effective Date note under section 7612 of this title.
 
-Pub. L. 105–206, title III, § 3416(b), July 22, 1998, 112 Stat. 757, provided that: “The amendment made by this section [amending this section] shall apply to summonses served after the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title III, § 3416(b), July 22, 1998, 112 Stat. 757, provided that: “The amendment made by this section [amending this section] shall apply to summonses served after the date of the enactment of this Act [July 22, 1998].”
 
 **Effective Date of 1988 Amendment**
 
@@ -299,7 +299,7 @@ Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 701(a)(1), (2),
 
 Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act June 29, 1956, set out as a note under section 4041 of this title.
 
-### § 7604. Enforcement of summons
+### § 7604. Enforcement of summons
 
 **(a) Jurisdiction of district court**
 
@@ -319,17 +319,17 @@ For authority of district courts generally to enforce the provisions of this tit
 
 For penalties applicable to violation of section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602, see section 7210.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 902; Apr. 2, 1956, ch. 160, § 4(i), 70 Stat. 91; June 29, 1956, ch. 462, title II, § 208(d)(4), 70 Stat. 396; Pub. L. 89–44, title II, § 202(c)(4), June 21, 1965, 79 Stat. 139; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 91–258, title II, § 207(d)(9), May 21, 1970, 84 Stat. 249; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 94–530, § 1(c)(6), Oct. 17, 1976, 90 Stat. 2488; Pub. L. 95–599, title V, § 505(c)(5), (6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 96–223, title II, § 232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, § 515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IX, § 911(d)(2)(G), July 18, 1984, 98 Stat. 1007; Pub. L. 99–514, title XVII, § 1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2778; Pub. L. 100–647, title I, § 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3576, 3577; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 902; Apr. 2, 1956, ch. 160, § 4(i), 70 Stat. 91; June 29, 1956, ch. 462, title II, § 208(d)(4), 70 Stat. 396; Pub. L. 89–44, title II, § 202(c)(4), June 21, 1965, 79 Stat. 139; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 91–258, title II, § 207(d)(9), May 21, 1970, 84 Stat. 249; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 94–530, § 1(c)(6), Oct. 17, 1976, 90 Stat. 2488; Pub. L. 95–599, title V, § 505(c)(5), (6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 96–223, title II, § 232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, § 515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IX, § 911(d)(2)(G), July 18, 1984, 98 Stat. 1007; Pub. L. 99–514, title XVII, § 1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2778; Pub. L. 100–647, title I, § 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3576, 3577; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsecs. (b), (c)(2). Pub. L. 100–647, § 1017(c)(12), made technical correction to language of Pub. L. 99–514, § 1703(e)(2)(G), see 1986 Amendment note below.
+1988—Subsecs. (b), (c)(2). Pub. L. 100–647, § 1017(c)(12), made technical correction to language of Pub. L. 99–514, § 1703(e)(2)(G), see 1986 Amendment note below.
 
-Pub. L. 100–647, § 1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
+Pub. L. 100–647, § 1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
 
-1986—Subsecs. (b), (c)(2). Pub. L. 99–514, as amended by Pub. L. 100–647, § 1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
+1986—Subsecs. (b), (c)(2). Pub. L. 99–514, as amended by Pub. L. 100–647, § 1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
 
 1984—Subsecs. (b), (c)(2). Pub. L. 98–369 substituted “6427(i)(2)” for “6427(h)(2)”.
 
@@ -337,9 +337,9 @@ Pub. L. 100–647, § 1017(c)(9), substituted “6421(g)(2)” for “6421(f)(
 
 1980—Subsecs. (b), (c)(2). Pub. L. 96–223 substituted “6427(h)(2)” for “6427(g)(2)”.
 
-1978—Subsec. (b). Pub. L. 95–599, § 505(c)(5), substituted “6427(g)(2)” for “6427(f)(2)”.
+1978—Subsec. (b). Pub. L. 95–599, § 505(c)(5), substituted “6427(g)(2)” for “6427(f)(2)”.
 
-Subsec. (c)(2). Pub. L. 95–599, § 505(c)(6), substituted “6427(g)(2)” for “6427(e)(2)”.
+Subsec. (c)(2). Pub. L. 95–599, § 505(c)(6), substituted “6427(g)(2)” for “6427(e)(2)”.
 
 1976—Subsec. (b). Pub. L. 94–530 substituted “6427(f)(2)” for “6427(e)(2)”.
 
@@ -357,7 +357,7 @@ Act June 29, 1956, inserted references to section 6421(f)(2).
 
 **Change of Name**
 
-“United States magistrate judge” and “magistrate judge” substituted for “United States magistrate” and “magistrate”, respectively, wherever appearing in subsec. (b) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” and “magistrate” substituted for “United States commissioner” and “commissioner”, respectively, pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+“United States magistrate judge” and “magistrate judge” substituted for “United States magistrate” and “magistrate”, respectively, wherever appearing in subsec. (b) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” and “magistrate” substituted for “United States commissioner” and “commissioner”, respectively, pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
 **Effective Date of 1988 Amendment**
 
@@ -399,7 +399,7 @@ Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 701(a)(1), (2),
 
 Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act June 29, 1956, set out as a note under section 4041 of this title.
 
-### § 7605. Time and place of examination
+### § 7605. Time and place of examination
 
 **(a) Time and place**
 
@@ -413,21 +413,21 @@ No taxpayer shall be subjected to unnecessary examination or investigations, and
 
 For provisions restricting church tax inquiries and examinations, see section 7611.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 902; Apr. 2, 1956, ch. 160, § 4(i), 70 Stat. 91; June 29, 1956, ch. 462, title II, § 208(d)(4), 70 Stat. 396; Pub. L. 89–44, title II, § 202(c)(4), June 21, 1965, 79 Stat. 139; Pub. L. 91–172, title I, § 121(f), Dec. 30, 1969, 83 Stat. 548; Pub. L. 91–258, title II, § 207(d)(9), May 21, 1970, 84 Stat. 249; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 94–530, § 1(c)(6), Oct. 17, 1976, 90 Stat. 2488; Pub. L. 95–599, title V, § 505(c)(5), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 96–223, title II, § 232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, § 515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IX, § 911(d)(2)(G), title X, § 1033(c)(1), July 18, 1984, 98 Stat. 1007, 1039; Pub. L. 99–514, title XVII, § 1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2778; Pub. L. 100–647, title I, § 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3576, 3577.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 902; Apr. 2, 1956, ch. 160, § 4(i), 70 Stat. 91; June 29, 1956, ch. 462, title II, § 208(d)(4), 70 Stat. 396; Pub. L. 89–44, title II, § 202(c)(4), June 21, 1965, 79 Stat. 139; Pub. L. 91–172, title I, § 121(f), Dec. 30, 1969, 83 Stat. 548; Pub. L. 91–258, title II, § 207(d)(9), May 21, 1970, 84 Stat. 249; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 94–530, § 1(c)(6), Oct. 17, 1976, 90 Stat. 2488; Pub. L. 95–599, title V, § 505(c)(5), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 96–223, title II, § 232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, § 515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IX, § 911(d)(2)(G), title X, § 1033(c)(1), July 18, 1984, 98 Stat. 1007, 1039; Pub. L. 99–514, title XVII, § 1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2778; Pub. L. 100–647, title I, § 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3576, 3577.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–647, § 1017(c)(12), made technical correction to language of Pub. L. 99–514, § 1703(e)(2)(G), see 1986 Amendment note below.
+1988—Subsec. (a). Pub. L. 100–647, § 1017(c)(12), made technical correction to language of Pub. L. 99–514, § 1703(e)(2)(G), see 1986 Amendment note below.
 
-Pub. L. 100–647, § 1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)” in two places.
+Pub. L. 100–647, § 1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)” in two places.
 
-1986—Subsec. (a). Pub. L. 99–514, as amended by Pub. L. 100–647, § 1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)” in two places.
+1986—Subsec. (a). Pub. L. 99–514, as amended by Pub. L. 100–647, § 1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)” in two places.
 
-1984—Subsec. (a). Pub. L. 98–369, § 911(d)(2)(G), substituted “6427(i)(2)” for “6427(h)(2)” in two places.
+1984—Subsec. (a). Pub. L. 98–369, § 911(d)(2)(G), substituted “6427(i)(2)” for “6427(h)(2)” in two places.
 
-Subsec. (c). Pub. L. 98–369, § 1033(c)(1), amended subsec. (c) generally, substituting a cross reference relating to church tax inquiries for provisions relating to church tax inquiries.
+Subsec. (c). Pub. L. 98–369, § 1033(c)(1), amended subsec. (c) generally, substituting a cross reference relating to church tax inquiries for provisions relating to church tax inquiries.
 
 1983—Subsec. (a). Pub. L. 97–424 struck out “6424(d)(2),” after “6421(f)(2),” wherever appearing.
 
@@ -501,9 +501,9 @@ Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act 
 
 **Regulations**
 
-Pub. L. 100–647, title VI, § 6228(b), Nov. 10, 1988, 102 Stat. 3732, provided that: “The Secretary of the Treasury or the Secretary’s delegate shall issue regulations to implement subsection (a) of section 7605 of the 1986 Code (relating to time and place of examination) within 1 year after the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title VI, § 6228(b), Nov. 10, 1988, 102 Stat. 3732, provided that: “The Secretary of the Treasury or the Secretary’s delegate shall issue regulations to implement subsection (a) of section 7605 of the 1986 Code (relating to time and place of examination) within 1 year after the date of the enactment of this Act [Nov. 10, 1988].”
 
-### § 7606. Entry of premises for examination of taxable objects
+### § 7606. Entry of premises for examination of taxable objects
 
 **(a) Entry during day**
 
@@ -517,7 +517,7 @@ When such premises are open at night, the Secretary may enter them while so open
 
 For penalty for refusal to permit entry or examination, see section 7342.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 903; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 903; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -525,9 +525,9 @@ For penalty for refusal to permit entry or examination, see section 7342.
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-### [§ 7607. Repealed. Pub. L. 98–473, title II, § 320(b), Oct. 12, 1984, 98 Stat. 2056, and Pub. L. 98–573, title II, § 213(b)(1), Oct. 30, 1984, 98 Stat. 2988]
+### [§ 7607. Repealed. Pub. L. 98–473, title II, § 320(b), Oct. 12, 1984, 98 Stat. 2056, and Pub. L. 98–573, title II, § 213(b)(1), Oct. 30, 1984, 98 Stat. 2988]
 
-Section, added July 18, 1956, ch. 629, title I, § 104(a), 70 Stat. 570; amended Oct. 27, 1970, Pub. L. 91–513, title III, § 1102(g)(1), 84 Stat. 1292, set forth additional authority for Bureau of Customs with respect to firearms, warrants, etc.
+Section, added July 18, 1956, ch. 629, title I, § 104(a), 70 Stat. 570; amended Oct. 27, 1970, Pub. L. 91–513, title III, § 1102(g)(1), 84 Stat. 1292, set forth additional authority for Bureau of Customs with respect to firearms, warrants, etc.
 
 Another section 7607 was renumbered section 7613 of this title.
 
@@ -537,7 +537,7 @@ Another section 7607 was renumbered section 7613 of this title.
 
 Repeal effective Oct. 15, 1984, see section 214(e) of Pub. L. 98–573, set out as an Effective Date of 1984 Amendment note under section 1304 of Title 19, Customs Duties.
 
-### § 7608. Authority of internal revenue enforcement officers
+### § 7608. Authority of internal revenue enforcement officers
 
 **(a) Enforcement of subtitle E and other laws pertaining to liquor, tobacco, and firearms** Any investigator, agent, or other internal revenue officer by whatever term designated, whom the Secretary charges with the duty of enforcing any of the criminal, seizure, or forfeiture provisions of subtitle E or of any other law of the United States pertaining to the commodities subject to tax under such subtitle for the enforcement of which the Secretary is responsible, may—
 
@@ -637,7 +637,7 @@ The term “employees” has the meaning given such term by section 2105 of titl
 
 The term “undercover investigative operation” means any undercover investigative operation of the Service; except that, for purposes of subparagraphs (A) and (C) of paragraph (4), such term only includes an operation which is exempt from section 3302 or 9102 of title 31, United States Code.
 
-(Added Pub. L. 85–859, title II, § 204(14), Sept. 2, 1958, 72 Stat. 1429; amended Pub. L. 87–863, § 6(a), Oct. 23, 1962, 76 Stat. 1143; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–690, title VII, § 7601(c)(1), (2), Nov. 18, 1988, 102 Stat. 4504; Pub. L. 101–508, title XI, § 11704(a)(32), (33), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title XII, § 1205(b)–(c)(2), July 30, 1996, 110 Stat. 1471, 1472; Pub. L. 104–316, title I, § 113, Oct. 19, 1996, 110 Stat. 3833; Pub. L. 105–206, title I, § 1103(e)(4), July 22, 1998, 112 Stat. 710; Pub. L. 106–554, § 1(a)(7) [title III, § 303], Dec. 21, 2000, 114 Stat. 2763, 2763A–632; Pub. L. 107–217, § 3(f), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 108–178, § 4(e), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–135, title III, § 304, Dec. 21, 2005, 119 Stat. 2609; Pub. L. 109–432, div. A, title I, § 121, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–343, div. C, title IV, § 401(a), Oct. 3, 2008, 122 Stat. 3875; Pub. L. 111–350, § 5(f), Jan. 4, 2011, 124 Stat. 3848.)
+(Added Pub. L. 85–859, title II, § 204(14), Sept. 2, 1958, 72 Stat. 1429; amended Pub. L. 87–863, § 6(a), Oct. 23, 1962, 76 Stat. 1143; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–690, title VII, § 7601(c)(1), (2), Nov. 18, 1988, 102 Stat. 4504; Pub. L. 101–508, title XI, § 11704(a)(32), (33), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title XII, § 1205(b)–(c)(2), July 30, 1996, 110 Stat. 1471, 1472; Pub. L. 104–316, title I, § 113, Oct. 19, 1996, 110 Stat. 3833; Pub. L. 105–206, title I, § 1103(e)(4), July 22, 1998, 112 Stat. 710; Pub. L. 106–554, § 1(a)(7) [title III, § 303], Dec. 21, 2000, 114 Stat. 2763, 2763A–632; Pub. L. 107–217, § 3(f), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 108–178, § 4(e), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–135, title III, § 304, Dec. 21, 2005, 119 Stat. 2609; Pub. L. 109–432, div. A, title I, § 121, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–343, div. C, title IV, § 401(a), Oct. 3, 2008, 122 Stat. 3875; Pub. L. 111–350, § 5(f), Jan. 4, 2011, 124 Stat. 3848.)
 
 **Editorial Notes**
 
@@ -647,11 +647,11 @@ A prior section 7608 was renumbered section 7613 of this title.
 
 **Amendments**
 
-2011—Subsec. (c)(1)(A)(i)(II). Pub. L. 111–350, § 5(f)(1), substituted “sections 6301(a) and (b)(1)–(3) and 6306” for “sections 11(a) and 22”.
+2011—Subsec. (c)(1)(A)(i)(II). Pub. L. 111–350, § 5(f)(1), substituted “sections 6301(a) and (b)(1)–(3) and 6306” for “sections 11(a) and 22”.
 
-Subsec. (c)(1)(A)(i)(III). Pub. L. 111–350, § 5(f)(2), substituted “chapter 45” for “section 255”.
+Subsec. (c)(1)(A)(i)(III). Pub. L. 111–350, § 5(f)(2), substituted “chapter 45” for “section 255”.
 
-Subsec. (c)(1)(A)(i)(V). Pub. L. 111–350, § 5(f)(3), substituted “section 3901” for “section 254(a) and (c)”.
+Subsec. (c)(1)(A)(i)(V). Pub. L. 111–350, § 5(f)(3), substituted “section 3901” for “section 254(a) and (c)”.
 
 2008—Subsec. (c)(6). Pub. L. 110–343 struck out par. (6). Text read as follows: “The provisions of this subsection—
 
@@ -675,11 +675,11 @@ All amounts expended pursuant to this subsection during the period described in 
 
 1996—Subsec. (c)(2). Pub. L. 104–316 struck out “and the Comptroller General of the United States” after “Secretary”.
 
-Subsec. (c)(4)(B)(ii). Pub. L. 104–168, § 1205(c)(1)(A), (B), struck out “preceding the period” after “in the 1-year period” and “and” at end.
+Subsec. (c)(4)(B)(ii). Pub. L. 104–168, § 1205(c)(1)(A), (B), struck out “preceding the period” after “in the 1-year period” and “and” at end.
 
-Subsec. (c)(4)(B)(iii), (iv). Pub. L. 104–168, § 1205(c)(1)(C), added cls. (iii) and (iv) and struck out former cl. (iii) which read as follows: “the number, by programs, of undercover investigative operations closed in the 1-year period preceding the period for which such report is submitted and, with respect to each such closed undercover operation, the results obtained and any civil claims made with respect thereto.”
+Subsec. (c)(4)(B)(iii), (iv). Pub. L. 104–168, § 1205(c)(1)(C), added cls. (iii) and (iv) and struck out former cl. (iii) which read as follows: “the number, by programs, of undercover investigative operations closed in the 1-year period preceding the period for which such report is submitted and, with respect to each such closed undercover operation, the results obtained and any civil claims made with respect thereto.”
 
-Subsec. (c)(5)(C). Pub. L. 104–168, § 1205(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The terms ‘undercover investigative operation’ and ‘undercover operation’ mean any undercover investigative operation of the Service—
+Subsec. (c)(5)(C). Pub. L. 104–168, § 1205(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The terms ‘undercover investigative operation’ and ‘undercover operation’ mean any undercover investigative operation of the Service—
 
 “(i) in which—
 
@@ -691,15 +691,15 @@ Subsec. (c)(5)(C). Pub. L. 104–168, § 1205(c)(2), reenacted heading without
 
 Clauses (i) and (ii) shall not apply with respect to the report required under subparagraph (B) of paragraph (4).”
 
-Subsec. (c)(6). Pub. L. 104–168, § 1205(b), added par. (6).
+Subsec. (c)(6). Pub. L. 104–168, § 1205(b), added par. (6).
 
-1990—Subsec. (c)(1)(B). Pub. L. 101–508, § 11704(a)(32), struck out comma after “operations”.
+1990—Subsec. (c)(1)(B). Pub. L. 101–508, § 11704(a)(32), struck out comma after “operations”.
 
-Subsec. (c)(5)(C). Pub. L. 101–508, § 11704(a)(33), substituted “interest” for “interested” in cl. (i)(I) and “title 31” for “title 3” in cl. (ii).
+Subsec. (c)(5)(C). Pub. L. 101–508, § 11704(a)(33), substituted “interest” for “interested” in cl. (i)(I) and “title 31” for “title 3” in cl. (ii).
 
-1988—Subsec. (b)(1). Pub. L. 100–690, § 7601(c)(1), substituted comma for “or” before “any other” and inserted “, or any other law for which the Secretary has delegated investigatory authority to the Internal Revenue Service,” after “responsible”.
+1988—Subsec. (b)(1). Pub. L. 100–690, § 7601(c)(1), substituted comma for “or” before “any other” and inserted “, or any other law for which the Secretary has delegated investigatory authority to the Internal Revenue Service,” after “responsible”.
 
-Subsec. (c). Pub. L. 100–690, § 7601(c)(2), added subsec. (c).
+Subsec. (c). Pub. L. 100–690, § 7601(c)(2), added subsec. (c).
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -709,7 +709,7 @@ Subsec. (c). Pub. L. 100–690, § 7601(c)(2), added subsec. (c).
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–343, div. C, title IV, § 401(b), Oct. 3, 2008, 122 Stat. 3875, provided that: “The amendment made by this section [amending this section] shall apply to operations conducted after the date of the enactment of this Act [Oct. 3, 2008].”
+Pub. L. 110–343, div. C, title IV, § 401(b), Oct. 3, 2008, 122 Stat. 3875, provided that: “The amendment made by this section [amending this section] shall apply to operations conducted after the date of the enactment of this Act [Oct. 3, 2008].”
 
 **Effective Date of 2003 Amendment**
 
@@ -717,21 +717,21 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–168, title XII, § 1205(c)(3), July 30, 1996, 110 Stat. 1472, provided that: “The amendments made by this subsection [amending this section] shall take effect on the date of the enactment of this Act [July 30, 1996].”
+Pub. L. 104–168, title XII, § 1205(c)(3), July 30, 1996, 110 Stat. 1472, provided that: “The amendments made by this subsection [amending this section] shall take effect on the date of the enactment of this Act [July 30, 1996].”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–690, title VII, § 7601(c)(3), Nov. 18, 1988, 102 Stat. 4507, as amended by Pub. L. 101–647, title XXXIII, § 3301(a), Nov. 29, 1990, 104 Stat. 4917; Pub. L. 104–168, title XII, § 1205(a), July 30, 1996, 110 Stat. 1471, provided that: “The amendments made by this subsection [amending this section] shall take effect on the date of the enactment of this Act [Nov. 18, 1988].”
+Pub. L. 100–690, title VII, § 7601(c)(3), Nov. 18, 1988, 102 Stat. 4507, as amended by Pub. L. 101–647, title XXXIII, § 3301(a), Nov. 29, 1990, 104 Stat. 4917; Pub. L. 104–168, title XII, § 1205(a), July 30, 1996, 110 Stat. 1471, provided that: “The amendments made by this subsection [amending this section] shall take effect on the date of the enactment of this Act [Nov. 18, 1988].”
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–863, § 6(b), Oct. 23, 1962, 76 Stat. 1143, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the day after the date of enactment of this Act [Oct. 23, 1962].”
+Pub. L. 87–863, § 6(b), Oct. 23, 1962, 76 Stat. 1143, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the day after the date of enactment of this Act [Oct. 23, 1962].”
 
 **Effective Date**
 
 Section effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-### § 7609. Special procedures for third-party summonses
+### § 7609. Special procedures for third-party summonses
 
 **(a) Notice**
 
@@ -865,7 +865,7 @@ In the case of a summons described in subsection (f) with respect to which any p
 
 Nothing in this section shall be construed to limit the Secretary’s ability to obtain information, other than by summons, through formal or informal procedures authorized by sections 7601 and 7602.
 
-(Added Pub. L. 94–455, title XII, § 1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, § 505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–600, title VII, § 703(*l*)(4), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–223, title II, § 232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–248, title III, §§ 311(b), 331(a)–(d), 332(a), Sept. 3, 1982, 96 Stat. 601, 620, 621; Pub. L. 97–424, title V, § 515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title VII, § 714(i), title IX, § 911(d)(2)(G), July 18, 1984, 98 Stat. 962, 1007; Pub. L. 98–620, title IV, § 402(28)(D), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–514, title VI, § 656(a), title XV, § 1561(a), (b), title XVII, § 1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2299, 2761, 2778; Pub. L. 100–647, title I, §§ 1015(*l*)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3571, 3572, 3576, 3577; Pub. L. 104–168, title X, § 1001(a), July 30, 1996, 110 Stat. 1467; Pub. L. 105–206, title III, § 3415(a)–(c), July 22, 1998, 112 Stat. 755; Pub. L. 109–135, title IV, § 408(a), Dec. 21, 2005, 119 Stat. 2635; Pub. L. 116–25, title I, § 1204(a), July 1, 2019, 133 Stat. 988.)
+(Added Pub. L. 94–455, title XII, § 1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, § 505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–600, title VII, § 703(*l*)(4), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–223, title II, § 232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–248, title III, §§ 311(b), 331(a)–(d), 332(a), Sept. 3, 1982, 96 Stat. 601, 620, 621; Pub. L. 97–424, title V, § 515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title VII, § 714(i), title IX, § 911(d)(2)(G), July 18, 1984, 98 Stat. 962, 1007; Pub. L. 98–620, title IV, § 402(28)(D), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–514, title VI, § 656(a), title XV, § 1561(a), (b), title XVII, § 1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2299, 2761, 2778; Pub. L. 100–647, title I, §§ 1015(*l*)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3571, 3572, 3576, 3577; Pub. L. 104–168, title X, § 1001(a), July 30, 1996, 110 Stat. 1467; Pub. L. 105–206, title III, § 3415(a)–(c), July 22, 1998, 112 Stat. 755; Pub. L. 109–135, title IV, § 408(a), Dec. 21, 2005, 119 Stat. 2635; Pub. L. 116–25, title I, § 1204(a), July 1, 2019, 133 Stat. 988.)
 
 **Editorial Notes**
 
@@ -877,11 +877,11 @@ A prior section 7609 was renumbered section 7613 of this title.
 
 2019—Subsec. (f). Pub. L. 116–25 inserted concluding provisions.
 
-2005—Subsec. (c)(2)(D) to (F). Pub. L. 109–135, § 408(a)(1), inserted “or” at end of subpar. (D), substituted period for “; or” at end of subpar. (E), and struck out subpar. (F) which read as follows: “described in subsection (f) or (g).”
+2005—Subsec. (c)(2)(D) to (F). Pub. L. 109–135, § 408(a)(1), inserted “or” at end of subpar. (D), substituted period for “; or” at end of subpar. (E), and struck out subpar. (F) which read as follows: “described in subsection (f) or (g).”
 
-Subsec. (c)(3), (4). Pub. L. 109–135, § 408(a)(2), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (c)(3), (4). Pub. L. 109–135, § 408(a)(2), added par. (3) and redesignated former par. (3) as (4).
 
-1998—Subsec. (a)(1). Pub. L. 105–206, § 3415(a), reenacted heading without change and in text substituted “If any summons to which this section applies requires the giving of testimony on or relating to, the production of any portion of records made or kept on or relating to, or the production of any computer software source code (as defined in 7612(d)(2)) with respect to, any person (other than the person summoned) who is identified in the summons, then” for “If—
+1998—Subsec. (a)(1). Pub. L. 105–206, § 3415(a), reenacted heading without change and in text substituted “If any summons to which this section applies requires the giving of testimony on or relating to, the production of any portion of records made or kept on or relating to, or the production of any computer software source code (as defined in 7612(d)(2)) with respect to, any person (other than the person summoned) who is identified in the summons, then” for “If—
 
 “(A) any summons described in subsection (c) is served on any person who is a third-party recordkeeper, and
 
@@ -889,7 +889,7 @@ Subsec. (c)(3), (4). Pub. L. 109–135, § 408(a)(2), added par. (3) and redes
 
 then”.
 
-Subsec. (a)(3). Pub. L. 105–206, § 3415(c)(1), redesignated par. (5) as (3), substituted “subsection (c)(2)(D)” for “subsection (c)(2)(B)”, and struck out heading and text of former par. (3). Text read as follows: “For purposes of this subsection, the term ‘third-party recordkeeper’ means—
+Subsec. (a)(3). Pub. L. 105–206, § 3415(c)(1), redesignated par. (5) as (3), substituted “subsection (c)(2)(D)” for “subsection (c)(2)(B)”, and struck out heading and text of former par. (3). Text read as follows: “For purposes of this subsection, the term ‘third-party recordkeeper’ means—
 
 “(A) any mutual savings bank, cooperative bank, domestic building and loan association, or other savings institution chartered and supervised as a savings and loan or similar association under Federal or State law, any bank (as defined in section 581), or any credit union (within the meaning of section 501(c)(14)(A));
 
@@ -909,7 +909,7 @@ Subsec. (a)(3). Pub. L. 105–206, § 3415(c)(1), redesignated par. (5) as (3)
 
 “(I) any enrolled agent.”
 
-Subsec. (a)(4). Pub. L. 105–206, § 3415(c)(1), struck out heading and text of par. (4). Text read as follows: “Paragraph (1) shall not apply to any summons—
+Subsec. (a)(4). Pub. L. 105–206, § 3415(c)(1), struck out heading and text of par. (4). Text read as follows: “Paragraph (1) shall not apply to any summons—
 
 “(A) served on the person with respect to whose liability the summons is issued, or any officer or employee of such person,
 
@@ -917,67 +917,67 @@ Subsec. (a)(4). Pub. L. 105–206, § 3415(c)(1), struck out heading and text 
 
 “(C) described in subsection (f).”
 
-Subsec. (a)(5). Pub. L. 105–206, § 3415(c)(1), redesignated par. (5) as (3).
+Subsec. (a)(5). Pub. L. 105–206, § 3415(c)(1), redesignated par. (5) as (3).
 
-Subsec. (c). Pub. L. 105–206, § 3415(c)(2), reenacted heading without change and amended text generally, substituting present provisions for provisions which had: in par. (1) declared a general rule of including within subsection summons issued under sections 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602(a)(2); in par. (2) set forth exceptions where summons was solely to determine identity of person having a numbered account, or was in aid of collection of liability of person against whom assessment or judgment had been made, or his transferee or fiduciary; and in par. (3) defined “records” and declared that summons requiring testimony about records would be treated as summons requiring production of such records.
+Subsec. (c). Pub. L. 105–206, § 3415(c)(2), reenacted heading without change and amended text generally, substituting present provisions for provisions which had: in par. (1) declared a general rule of including within subsection summons issued under sections 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602(a)(2); in par. (2) set forth exceptions where summons was solely to determine identity of person having a numbered account, or was in aid of collection of liability of person against whom assessment or judgment had been made, or his transferee or fiduciary; and in par. (3) defined “records” and declared that summons requiring testimony about records would be treated as summons requiring production of such records.
 
-Subsec. (e)(2). Pub. L. 105–206, § 3415(c)(3), substituted “summoned party’s response to the summons” for “third-party recordkeeper’s response to the summons described in subsection (c), or the summoned party’s response to a summons described in subsection (f)”.
+Subsec. (e)(2). Pub. L. 105–206, § 3415(c)(3), substituted “summoned party’s response to the summons” for “third-party recordkeeper’s response to the summons described in subsection (c), or the summoned party’s response to a summons described in subsection (f)”.
 
-Subsec. (f). Pub. L. 105–206, § 3415(c)(4)(A), substituted “subsection (c)(1)” for “subsection (c)” in introductory provisions.
+Subsec. (f). Pub. L. 105–206, § 3415(c)(4)(A), substituted “subsection (c)(1)” for “subsection (c)” in introductory provisions.
 
-Subsec. (f)(3). Pub. L. 105–206, § 3415(c)(4)(B), inserted “or testimony” after “records”.
+Subsec. (f)(3). Pub. L. 105–206, § 3415(c)(4)(B), inserted “or testimony” after “records”.
 
-Subsec. (g). Pub. L. 105–206, § 3415(c)(5), substituted “A summons is described in this subsection if” for “In the case of any summons described in subsection (c), the provisions of subsections (a)(1) and (b) shall not apply if”.
+Subsec. (g). Pub. L. 105–206, § 3415(c)(5), substituted “A summons is described in this subsection if” for “In the case of any summons described in subsection (c), the provisions of subsections (a)(1) and (b) shall not apply if”.
 
-Subsec. (i). Pub. L. 105–206, § 3415(c)(6)(A), struck out “third-party recordkeeper and” after “Duty of” in heading.
+Subsec. (i). Pub. L. 105–206, § 3415(c)(6)(A), struck out “third-party recordkeeper and” after “Duty of” in heading.
 
-Subsec. (i)(1). Pub. L. 105–206, § 3415(c)(6)(B), substituted “to which this section applies for the production of records, the summoned party” for “described in subsection (c), the third-party recordkeeper”.
+Subsec. (i)(1). Pub. L. 105–206, § 3415(c)(6)(B), substituted “to which this section applies for the production of records, the summoned party” for “described in subsection (c), the third-party recordkeeper”.
 
-Subsec. (i)(2). Pub. L. 105–206, § 3415(c)(6)(C), substituted “summoned party” for “recordkeeper” in heading and “the summoned party” for “the third-party recordkeeper” in text.
+Subsec. (i)(2). Pub. L. 105–206, § 3415(c)(6)(C), substituted “summoned party” for “recordkeeper” in heading and “the summoned party” for “the third-party recordkeeper” in text.
 
-Subsec. (i)(3). Pub. L. 105–206, § 3415(c)(6)(D), substituted “summoned party” for “recordkeeper” in heading and amended text of par. (3) generally. Prior to amendment, text read as follows: “Any third-party recordkeeper, or agent or employee thereof, making a disclosure of records pursuant to this section in good-faith reliance on the certificate of the Secrtetary or an order of a court requiring production of records shall not be liable to any customer or other person for such disclosure.”
+Subsec. (i)(3). Pub. L. 105–206, § 3415(c)(6)(D), substituted “summoned party” for “recordkeeper” in heading and amended text of par. (3) generally. Prior to amendment, text read as follows: “Any third-party recordkeeper, or agent or employee thereof, making a disclosure of records pursuant to this section in good-faith reliance on the certificate of the Secrtetary or an order of a court requiring production of records shall not be liable to any customer or other person for such disclosure.”
 
-Subsec. (j). Pub. L. 105–206, § 3415(b), added subsec. (j).
+Subsec. (j). Pub. L. 105–206, § 3415(b), added subsec. (j).
 
 1996—Subsec. (a)(3)(I). Pub. L. 104–168 added subpar. (I).
 
-1988—Subsec. (c)(1). Pub. L. 100–647, § 1017(c)(12), made technical correction to language of Pub. L. 99–514, § 1703(e)(2)(G), see 1986 Amendment note below.
+1988—Subsec. (c)(1). Pub. L. 100–647, § 1017(c)(12), made technical correction to language of Pub. L. 99–514, § 1703(e)(2)(G), see 1986 Amendment note below.
 
-Pub. L. 100–647, § 1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
+Pub. L. 100–647, § 1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
 
-Subsec. (e)(2). Pub. L. 100–647, § 1015(*l*)(1), inserted “or the summoned party’s response to a summons described in subsection (f),” after “the summons described in subsection (c),” and substituted “the summons is issued” for “the summons is issued other”.
+Subsec. (e)(2). Pub. L. 100–647, § 1015(*l*)(1), inserted “or the summoned party’s response to a summons described in subsection (f),” after “the summons described in subsection (c),” and substituted “the summons is issued” for “the summons is issued other”.
 
-Subsec. (i). Pub. L. 100–647, § 1015(*l*)(2)(B), inserted “and summoned party” after “recordkeeper” in heading.
+Subsec. (i). Pub. L. 100–647, § 1015(*l*)(2)(B), inserted “and summoned party” after “recordkeeper” in heading.
 
-Subsec. (i)(4). Pub. L. 100–647, § 1015(*l*)(2)(A), substituted “the summoned party” for “the third-party recordkeeper”.
+Subsec. (i)(4). Pub. L. 100–647, § 1015(*l*)(2)(A), substituted “the summoned party” for “the third-party recordkeeper”.
 
-1986—Subsec. (a)(3)(H). Pub. L. 99–514, § 656(a), added subpar. (H).
+1986—Subsec. (a)(3)(H). Pub. L. 99–514, § 656(a), added subpar. (H).
 
-Subsec. (c)(1). Pub. L. 99–514, § 1703(e)(2)(G), as amended by Pub. L. 100–647, § 1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
+Subsec. (c)(1). Pub. L. 99–514, § 1703(e)(2)(G), as amended by Pub. L. 100–647, § 1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
 
-Subsec. (e). Pub. L. 99–514, § 1561(a), amended subsec. (e) generally, designating existing provisions as par. (1), inserting heading, and adding par. (2).
+Subsec. (e). Pub. L. 99–514, § 1561(a), amended subsec. (e) generally, designating existing provisions as par. (1), inserting heading, and adding par. (2).
 
-Subsec. (i)(4). Pub. L. 99–514, § 1561(b), added par. (4).
+Subsec. (i)(4). Pub. L. 99–514, § 1561(b), added par. (4).
 
-1984—Subsec. (c)(1). Pub. L. 98–369, § 714(i), substituted “7602(a)” for “7602”.
+1984—Subsec. (c)(1). Pub. L. 98–369, § 714(i), substituted “7602(a)” for “7602”.
 
-Pub. L. 98–369, § 911(d)(2)(G), substituted “6427(i)(2)” for “6427(h)(2)”.
+Pub. L. 98–369, § 911(d)(2)(G), substituted “6427(i)(2)” for “6427(h)(2)”.
 
 Subsec. (h)(3). Pub. L. 98–620 struck out par. (3) which had provided that except as to cases the court considered to be of greater importance, proceedings brought for the enforcement of any summons, or proceedings under this section, and appeals, would take precedence on the docket over all other cases and would be assigned for hearing and decided at the earliest practicable date.
 
 1983—Subsec. (c)(1). Pub. L. 97–424 struck out “6424(d)(2),” after “6421(f)(2),”.
 
-1982—Subsec. (a)(1). Pub. L. 97–248, § 331(d)(1), substituted “the 23rd day” for “the 14th day”, and substituted “an explanation of the right under subsection (b)(2) to bring a proceeding to quash the summons” for “directions for staying compliance with the summons under subsection (b)(2)” at the end.
+1982—Subsec. (a)(1). Pub. L. 97–248, § 331(d)(1), substituted “the 23rd day” for “the 14th day”, and substituted “an explanation of the right under subsection (b)(2) to bring a proceeding to quash the summons” for “directions for staying compliance with the summons under subsection (b)(2)” at the end.
 
-Subsec. (a)(3)(G). Pub. L. 97–248, § 311(b), added subpar. (G).
+Subsec. (a)(3)(G). Pub. L. 97–248, § 311(b), added subpar. (G).
 
-Subsec. (b). Pub. L. 97–248, § 331(a), (d)(2), substituted “right to proceeding to quash” for “right to stay compliance” in heading, and in par. (2) substituted “Proceeding to quash” for “Right to stay compliance” as par. (2) heading, designated former undesignated matter as subpar. (A), in (A) as so designated substituted provisions giving persons entitled to notice 20 days to begin a proceeding to quash, for provisions giving persons entitled to notice the right to stay compliance if they complied with the provisions of former subpars. (A) and (B) within 14 days, and inserted provision that the Secretary may seek to compel compliance with the summons, struck out former subpar. (A) which provided that notice to the person summoned not to comply with the summons be given in writing, in subpar. (B) substituted provisions that copies of the petition in the proceeding to quash the summons be mailed within the 20-day period, for provisions that copies of the notice not to comply with the summons be mailed, and added subpar. (C).
+Subsec. (b). Pub. L. 97–248, § 331(a), (d)(2), substituted “right to proceeding to quash” for “right to stay compliance” in heading, and in par. (2) substituted “Proceeding to quash” for “Right to stay compliance” as par. (2) heading, designated former undesignated matter as subpar. (A), in (A) as so designated substituted provisions giving persons entitled to notice 20 days to begin a proceeding to quash, for provisions giving persons entitled to notice the right to stay compliance if they complied with the provisions of former subpars. (A) and (B) within 14 days, and inserted provision that the Secretary may seek to compel compliance with the summons, struck out former subpar. (A) which provided that notice to the person summoned not to comply with the summons be given in writing, in subpar. (B) substituted provisions that copies of the petition in the proceeding to quash the summons be mailed within the 20-day period, for provisions that copies of the notice not to comply with the summons be mailed, and added subpar. (C).
 
-Subsec. (d). Pub. L. 97–248, § 331(b), substituted in par. (1) provision that, no examination of records be made before the close of the 23rd day after the notice of summons, for provision that the examination may not be made before the end of the former 14-day period allowed for notice to be given to the person summoned not to comply, and in par. (2) substituted “where a proceeding under subsection (b)(2)(A) was begun within the 20-day period referred to in such subsection and the requirements of subsection (b)(2)(B) have been met,” for “when the requirements of subsection (b)(2) have been met,” and “of the court having jurisdiction of such proceeding or with the consent of the person beginning the proceeding to quash” for “issued by a court of competent jurisdiction authorizing examination of such records or with the consent of the person staying compliance”.
+Subsec. (d). Pub. L. 97–248, § 331(b), substituted in par. (1) provision that, no examination of records be made before the close of the 23rd day after the notice of summons, for provision that the examination may not be made before the end of the former 14-day period allowed for notice to be given to the person summoned not to comply, and in par. (2) substituted “where a proceeding under subsection (b)(2)(A) was begun within the 20-day period referred to in such subsection and the requirements of subsection (b)(2)(B) have been met,” for “when the requirements of subsection (b)(2) have been met,” and “of the court having jurisdiction of such proceeding or with the consent of the person beginning the proceeding to quash” for “issued by a court of competent jurisdiction authorizing examination of such records or with the consent of the person staying compliance”.
 
-Subsec. (h). Pub. L. 97–248, § 331(c), inserted “; etc.” after “court” in heading, in par. (1) added heading and substituted “any proceeding” for “proceedings” after “determine”, substituted “subsection (b)(2), (f), or (g)” for “subsections (f) or (g)”, designated former second sentence of par. (1) as par. (2) and added heading, redesignated former par. (2) as (3) and in par. (3) as so redesignated, added heading and substituted “all other cases” for “all cases”.
+Subsec. (h). Pub. L. 97–248, § 331(c), inserted “; etc.” after “court” in heading, in par. (1) added heading and substituted “any proceeding” for “proceedings” after “determine”, substituted “subsection (b)(2), (f), or (g)” for “subsections (f) or (g)”, designated former second sentence of par. (1) as par. (2) and added heading, redesignated former par. (2) as (3) and in par. (3) as so redesignated, added heading and substituted “all other cases” for “all cases”.
 
-Subsec. (i). Pub. L. 97–248, § 332(a), added subsec. (i).
+Subsec. (i). Pub. L. 97–248, § 332(a), added subsec. (i).
 
 1980—Subsec. (c)(1). Pub. L. 96–223 substituted “6427(h)(2)” for “6427(g)(2)”.
 
@@ -989,31 +989,31 @@ Pub. L. 95–599 substituted “6427(g)(2)” for “6427(e)(2)”.
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–25, title I, § 1204(b), July 1, 2019, 133 Stat. 989, provided that: “The amendments made by this section [amending this section] shall apply to summonses served after the date that is 45 days after the date of the enactment of this Act [July 1, 2019].”
+Pub. L. 116–25, title I, § 1204(b), July 1, 2019, 133 Stat. 989, provided that: “The amendments made by this section [amending this section] shall apply to summonses served after the date that is 45 days after the date of the enactment of this Act [July 1, 2019].”
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–135, title IV, § 408(b), Dec. 21, 2005, 119 Stat. 2635, provided that: “The amendments made by this section [amending this section] shall take effect as if included in section 3415 of the Internal Revenue Service Restructuring and Reform Act of 1998 [Pub. L. 105–206].”
+Pub. L. 109–135, title IV, § 408(b), Dec. 21, 2005, 119 Stat. 2635, provided that: “The amendments made by this section [amending this section] shall take effect as if included in section 3415 of the Internal Revenue Service Restructuring and Reform Act of 1998 [Pub. L. 105–206].”
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–206, title III, § 3415(d), July 22, 1998, 112 Stat. 756, provided that: “The amendments made by this section [amending this section] shall apply to summonses served after the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title III, § 3415(d), July 22, 1998, 112 Stat. 756, provided that: “The amendments made by this section [amending this section] shall apply to summonses served after the date of the enactment of this Act [July 22, 1998].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–168, title X, § 1001(b), July 30, 1996, 110 Stat. 1468, provided that: “The amendment made by subsection (a) [amending this section] shall apply to summonses issued after the date of the enactment of this Act [July 30, 1996].”
+Pub. L. 104–168, title X, § 1001(b), July 30, 1996, 110 Stat. 1468, provided that: “The amendment made by subsection (a) [amending this section] shall apply to summonses issued after the date of the enactment of this Act [July 30, 1996].”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1015(*l*)(3), Nov. 10, 1988, 102 Stat. 3572, provided that: “The amendments made by this subsection [amending this section] shall take effect on the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title I, § 1015(*l*)(3), Nov. 10, 1988, 102 Stat. 3572, provided that: “The amendments made by this subsection [amending this section] shall take effect on the date of the enactment of this Act [Nov. 10, 1988].”
 
 Amendment by section 1017(c)(9), (12) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title VI, § 656(b), Oct. 22, 1986, 100 Stat. 2299, provided that: “The amendment made by subsection (a) [amending this section] shall apply to summonses served after the date of the enactment of this Act [Oct. 22, 1986].”
+Pub. L. 99–514, title VI, § 656(b), Oct. 22, 1986, 100 Stat. 2299, provided that: “The amendment made by subsection (a) [amending this section] shall apply to summonses served after the date of the enactment of this Act [Oct. 22, 1986].”
 
-Pub. L. 99–514, title XV, § 1561(c), Oct. 22, 1986, 100 Stat. 2761, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Oct. 22, 1986].”
+Pub. L. 99–514, title XV, § 1561(c), Oct. 22, 1986, 100 Stat. 2761, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Oct. 22, 1986].”
 
 Amendment by section 1703(e)(2)(G) of Pub. L. 99–514 applicable to gasoline removed (as defined in section 4082 of this title, as amended by section 1703 of Pub. L. 99–514) after Dec. 31, 1987, see section 1703(h) of Pub. L. 99–514, set out as a note under section 4081 of this title.
 
@@ -1031,11 +1031,11 @@ Amendment by Pub. L. 97–424 applicable with respect to articles sold after Jan
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title III, § 311(c)(2), Sept. 3, 1982, 96 Stat. 601, provided that: “The amendments made by subsection (b) [amending this section] shall apply to summonses served after December 31, 1982.”
+Pub. L. 97–248, title III, § 311(c)(2), Sept. 3, 1982, 96 Stat. 601, provided that: “The amendments made by subsection (b) [amending this section] shall apply to summonses served after December 31, 1982.”
 
-Pub. L. 97–248, title III, § 331(e), Sept. 3, 1982, 96 Stat. 621, provided that: “The amendments made by this section [amending this section] shall apply to summonses served after December 31, 1982.”
+Pub. L. 97–248, title III, § 331(e), Sept. 3, 1982, 96 Stat. 621, provided that: “The amendments made by this section [amending this section] shall apply to summonses served after December 31, 1982.”
 
-Pub. L. 97–248, title III, § 332(b), Sept. 3, 1982, 96 Stat. 622, provided that: “The amendment made by subsection (a) [amending this section] shall apply to summonses served after December 31, 1982.”
+Pub. L. 97–248, title III, § 332(b), Sept. 3, 1982, 96 Stat. 622, provided that: “The amendment made by subsection (a) [amending this section] shall apply to summonses served after December 31, 1982.”
 
 **Effective Date of 1980 Amendment**
 
@@ -1049,9 +1049,9 @@ Amendment by Pub. L. 95–599 effective Jan. 1, 1979, see section 505(d) of Pub.
 
 **Effective Date**
 
-Pub. L. 94–455, title XII, § 1205(c), Oct. 4, 1976, 90 Stat. 1703, as amended by Pub. L. 94–528, § 2(b), Oct. 17, 1976, 90 Stat. 2483, provided that: “The amendments made by this section [enacting this section and section 7610 of this title] shall apply with respect to any summons issued after February 28, 1977.”
+Pub. L. 94–455, title XII, § 1205(c), Oct. 4, 1976, 90 Stat. 1703, as amended by Pub. L. 94–528, § 2(b), Oct. 17, 1976, 90 Stat. 2483, provided that: “The amendments made by this section [enacting this section and section 7610 of this title] shall apply with respect to any summons issued after February 28, 1977.”
 
-### § 7610. Fees and costs for witnesses
+### § 7610. Fees and costs for witnesses
 
 **(a) In general** The Secretary shall by regulations establish the rates and conditions under which payment may be made of—
 
@@ -1069,17 +1069,17 @@ Pub. L. 94–455, title XII, § 1205(c), Oct. 4, 1976, 90 Stat. 1703, as amend
 
 This section applies with respect to any summons authorized under section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602.
 
-(Added Pub. L. 94–455, title XII, § 1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, § 505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 96–223, title II, § 232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, § 515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IX, § 911(d)(2)(G), July 18, 1984, 98 Stat. 1007; Pub. L. 99–514, title XVII, § 1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2778; Pub. L. 100–647, title I, § 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3576, 3577.)
+(Added Pub. L. 94–455, title XII, § 1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, § 505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 96–223, title II, § 232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, § 515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IX, § 911(d)(2)(G), July 18, 1984, 98 Stat. 1007; Pub. L. 99–514, title XVII, § 1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2778; Pub. L. 100–647, title I, § 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3576, 3577.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (c). Pub. L. 100–647, § 1017(c)(12), made technical correction to language of Pub. L. 99–514, § 1703(e)(2)(G), see 1986 Amendment note below.
+1988—Subsec. (c). Pub. L. 100–647, § 1017(c)(12), made technical correction to language of Pub. L. 99–514, § 1703(e)(2)(G), see 1986 Amendment note below.
 
-Pub. L. 100–647, § 1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
+Pub. L. 100–647, § 1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
 
-1986—Subsec. (c). Pub. L. 99–514, as amended by Pub. L. 100–647, § 1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
+1986—Subsec. (c). Pub. L. 99–514, as amended by Pub. L. 100–647, § 1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
 
 1984—Subsec. (c). Pub. L. 98–369 substituted “6427(i)(2)” for “6427(h)(2)”.
 
@@ -1115,7 +1115,7 @@ Amendment by Pub. L. 96–223 effective Jan. 1, 1979, see section 232(h)(2) of P
 
 Amendment by Pub. L. 95–599 effective Jan. 1, 1979, see section 505(d) of Pub. L. 95–599, set out as a note under section 6427 of this title.
 
-### § 7611. Restrictions on church tax inquiries and examinations
+### § 7611. Restrictions on church tax inquiries and examinations
 
 **(a) Restrictions on inquiries**
 
@@ -1343,7 +1343,7 @@ The term “appropriate high-level Treasury official” means the Secretary of t
 
 **(5)** any knowing failure to file a return of tax imposed by this title.
 
-(Added Pub. L. 98–369, div. A, title X, § 1033(a), July 18, 1984, 98 Stat. 1034; amended Pub. L. 99–514, title XVIII, § 1899A(61), (62), Oct. 22, 1986, 100 Stat. 2962; Pub. L. 100–203, title X, § 10713(b)(2)(G), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–647, title I, § 1018(u)(49), Nov. 10, 1988, 102 Stat. 3593; Pub. L. 101–239, title VII, § 7822(d)(1), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 104–188, title I, § 1704(t)(59), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title I, § 1102(e)(3), July 22, 1998, 112 Stat. 705.)
+(Added Pub. L. 98–369, div. A, title X, § 1033(a), July 18, 1984, 98 Stat. 1034; amended Pub. L. 99–514, title XVIII, § 1899A(61), (62), Oct. 22, 1986, 100 Stat. 2962; Pub. L. 100–203, title X, § 10713(b)(2)(G), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–647, title I, § 1018(u)(49), Nov. 10, 1988, 102 Stat. 3593; Pub. L. 101–239, title VII, § 7822(d)(1), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 104–188, title I, § 1704(t)(59), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title I, § 1102(e)(3), July 22, 1998, 112 Stat. 705.)
 
 **Editorial Notes**
 
@@ -1361,11 +1361,11 @@ A prior section 7611 was renumbered section 7613 of this title.
 
 1988—Subsec. (i)(5). Pub. L. 100–647 substituted “this title” for “the title”.
 
-1987—Subsec. (i)(3). Pub. L. 100–203, as amended by Pub. L. 101–239, substituted “, section 6852 (relating to termination assessments in case of flagrant political expenditures of section 501(c)(3) organizations), or section 6861 (relating to jeopardy assessments of income taxes, etc.),” for “or section 6861 (relating to jeopardy assessments of income taxes, etc.),”.
+1987—Subsec. (i)(3). Pub. L. 100–203, as amended by Pub. L. 101–239, substituted “, section 6852 (relating to termination assessments in case of flagrant political expenditures of section 501(c)(3) organizations), or section 6861 (relating to jeopardy assessments of income taxes, etc.),” for “or section 6861 (relating to jeopardy assessments of income taxes, etc.),”.
 
-1986—Subsec. (a)(1)(B). Pub. L. 99–514, § 1899A(62), reenacted subpar. (B) without change.
+1986—Subsec. (a)(1)(B). Pub. L. 99–514, § 1899A(62), reenacted subpar. (B) without change.
 
-Subsec. (i). Pub. L. 99–514, § 1899A(61), redesignated pars. (A) to (E) as (1) to (5), in par. (3), substituted “etc.)” for “etc)”, and in par. (5), substituted “the title” for “the title”.
+Subsec. (i). Pub. L. 99–514, § 1899A(61), redesignated pars. (A) to (E) as (1) to (5), in par. (3), substituted “etc.)” for “etc)”, and in par. (5), substituted “the title” for “the title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1379,13 +1379,13 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 **Effective Date**
 
-Pub. L. 98–369, div. A, title X, § 1033(d), July 18, 1984, 98 Stat. 1039, provided that: “The amendments made by this section [enacting this section and amending sections 7428 and 7605 of this title] shall apply with respect to inquiries and examinations beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title X, § 1033(d), July 18, 1984, 98 Stat. 1039, provided that: “The amendments made by this section [enacting this section and amending sections 7428 and 7605 of this title] shall apply with respect to inquiries and examinations beginning after December 31, 1984.”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-### § 7612. Special procedures for summonses for computer software
+### § 7612. Special procedures for summonses for computer software
 
 **(a) General rule** For purposes of this title—
 
@@ -1495,7 +1495,7 @@ A person shall be treated as related to another person if such persons are relat
 
 The term “tax-related computer software source code” means the computer source code for any computer software program intended for accounting, tax return preparation or compliance, or tax planning.
 
-(Added Pub. L. 105–206, title III, § 3413(a), July 22, 1998, 112 Stat. 751; amended Pub. L. 116–25, title I, § 1001(b)(1)(J), July 1, 2019, 133 Stat. 985.)
+(Added Pub. L. 105–206, title III, § 3413(a), July 22, 1998, 112 Stat. 751; amended Pub. L. 116–25, title I, § 1001(b)(1)(J), July 1, 2019, 133 Stat. 985.)
 
 **Editorial Notes**
 
@@ -1511,13 +1511,13 @@ A prior section 7612 was renumbered section 7613 of this title.
 
 **Effective Date**
 
-Pub. L. 105–206, title III, § 3413(e), July 22, 1998, 112 Stat. 754, provided that:
+Pub. L. 105–206, title III, § 3413(e), July 22, 1998, 112 Stat. 754, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting this section, amending sections 7213 and 7603 of this title, and renumbering former section 7612 of this title as 7613] shall apply to summonses issued, and software acquired, after the date of the enactment of this Act [July 22, 1998].
 
 > **“(2) Software protection.—** In the case of any software acquired on or before such date of enactment, the requirements of section 7612(a)(2) of the Internal Revenue Code of 1986 (as added by such amendments) shall apply after the 90th day after such date. The preceding sentence shall not apply to the requirement under section 7612(c)(2)(G)(ii) of such Code (as so added).”
 
-### § 7613. Cross references
+### § 7613. Cross references
 
 **(a) Inspection of books, papers, records, or other data** For inspection of books, papers, records, or other data in the case of—
 
@@ -1533,21 +1533,21 @@ Pub. L. 105–206, title III, § 3413(e), July 22, 1998, 112 Stat. 754, provid
 
 **(3)** Search warrants with respect to property used in violation of the internal revenue laws, see section 7302.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 903, § 7607; renumbered § 7608, July 18, 1956, ch. 629, title I, § 104(a), 70 Stat. 570; renumbered § 7609 and amended Pub. L. 85–859, title II, § 204(14), (15), Sept. 2, 1958, 72 Stat. 1429, 1430; Pub. L. 91–513, title III, § 1102(h), Oct. 27, 1970, 84 Stat. 1293; renumbered § 7611 and amended Pub. L. 94–455, title XII, § 1205(a), title XIX, § 1904(b)(7)(D), (9)(E), Oct. 4, 1976, 90 Stat. 1699, 1815, 1816; renumbered § 7612, Pub. L. 98–369, div. A, title X, § 1033(a), July 18, 1984, 98 Stat. 1034; renumbered § 7613, Pub. L. 105–206, title III, § 3413(a), July 22, 1998, 112 Stat. 751.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 903, § 7607; renumbered § 7608, July 18, 1956, ch. 629, title I, § 104(a), 70 Stat. 570; renumbered § 7609 and amended Pub. L. 85–859, title II, § 204(14), (15), Sept. 2, 1958, 72 Stat. 1429, 1430; Pub. L. 91–513, title III, § 1102(h), Oct. 27, 1970, 84 Stat. 1293; renumbered § 7611 and amended Pub. L. 94–455, title XII, § 1205(a), title XIX, § 1904(b)(7)(D), (9)(E), Oct. 4, 1976, 90 Stat. 1699, 1815, 1816; renumbered § 7612, Pub. L. 98–369, div. A, title X, § 1033(a), July 18, 1984, 98 Stat. 1034; renumbered § 7613, Pub. L. 105–206, title III, § 3413(a), July 22, 1998, 112 Stat. 751.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Subsec. (a). Pub. L. 94–455, § 1904(b)(7)(D), (9)(E), struck out pars. (1) and (2) relating to cross references to wholesale dealers in oleomargarine and wholesale dealers in process or renovated butter or adulterated butter, respectively, and redesignated pars. (5) and (6) as (1) and (2), respectively.
+1976—Subsec. (a). Pub. L. 94–455, § 1904(b)(7)(D), (9)(E), struck out pars. (1) and (2) relating to cross references to wholesale dealers in oleomargarine and wholesale dealers in process or renovated butter or adulterated butter, respectively, and redesignated pars. (5) and (6) as (1) and (2), respectively.
 
 1970—Subsec. (a). Pub. L. 91–513 struck out pars. (3) and (4) which related to opium, opiates, and coca leaves and to marihuana, respectively, and which made reference to sections 4702(a), 4705, 4721, and 4773, and to sections 4742, 4753(b), and 4773, respectively.
 
-1958—Subsec. (a)(6). Pub. L. 85–859, § 204(15), added par. (6).
+1958—Subsec. (a)(6). Pub. L. 85–859, § 204(15), added par. (6).
 
-Subsec. (b)(2). Pub. L. 85–859, § 204(15), substituted “with respect to subtitle E, see section 5557” for “in connection with industrial alcohol, etc., see sections 5314 and 7302”.
+Subsec. (b)(2). Pub. L. 85–859, § 204(15), substituted “with respect to subtitle E, see section 5557” for “in connection with industrial alcohol, etc., see sections 5314 and 7302”.
 
-Subsec. (b)(3). Pub. L. 85–859, § 204(15), added par. (3).
+Subsec. (b)(3). Pub. L. 85–859, § 204(15), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1569,11 +1569,11 @@ Prosecutions for any violation of law occurring, and civil seizures or forfeitur
 
 **Amendments**
 
-1996—Pub. L. 104–168, title XII, § 1209(b), July 30, 1996, 110 Stat. 1474, substituted “Expenses of detection of underpayments and fraud, etc.” for “Expenses of detection and punishment of frauds.” in item 7623.
+1996—Pub. L. 104–168, title XII, § 1209(b), July 30, 1996, 110 Stat. 1474, substituted “Expenses of detection of underpayments and fraud, etc.” for “Expenses of detection and punishment of frauds.” in item 7623.
 
-1988—Pub. L. 100–690, title VII, § 7602(d)(1), Nov. 18, 1988, 102 Stat. 4508, added item 7624.
+1988—Pub. L. 100–690, title VII, § 7602(d)(1), Nov. 18, 1988, 102 Stat. 4508, added item 7624.
 
-### § 7621. Internal revenue districts
+### § 7621. Internal revenue districts
 
 **(a) Establishment and alteration**
 
@@ -1583,7 +1583,7 @@ The President shall establish convenient internal revenue districts for the purp
 
 For the purpose mentioned in subsection (a), the President may subdivide any State, or the District of Columbia, or may unite into one district two or more States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 904; Pub. L. 86–70, § 22(e), June 25, 1959, 73 Stat. 146; Pub. L. 94–455, title XIX, § 1906(a)(53), Oct. 4, 1976, 90 Stat. 1832.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 904; Pub. L. 86–70, § 22(e), June 25, 1959, 73 Stat. 146; Pub. L. 94–455, title XIX, § 1906(a)(53), Oct. 4, 1976, 90 Stat. 1832.)
 
 **Editorial Notes**
 
@@ -1605,7 +1605,7 @@ Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 22(i) of Pub. L
 
 For delegation to Secretary of the Treasury of authority vested in President by this section, see section 1(g) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended, set out as a note under section 301 of Title 3, The President.
 
-### § 7622. Authority to administer oaths and certify
+### § 7622. Authority to administer oaths and certify
 
 **(a) Internal revenue personnel**
 
@@ -1615,17 +1615,17 @@ Every officer or employee of the Treasury Department designated by the Secretary
 
 Any oath or affirmation required or authorized under any internal revenue law or under any regulations made thereunder may be administered by any person authorized to administer oaths for general purposes by the law of the United States, or of any State or possession of the United States, or of the District of Columbia, wherein such oath or affirmation is administered. This subsection shall not be construed as an exclusive enumeration of the persons who may administer such oaths or affirmations.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 904; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), (c)(2), Oct. 4, 1976, 90 Stat. 1834, 1835.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 904; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), (c)(2), Oct. 4, 1976, 90 Stat. 1834, 1835.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b). Pub. L. 94–455, § 1906(c)(2), struck out “Territory” after “any State”.
+Subsec. (b). Pub. L. 94–455, § 1906(c)(2), struck out “Territory” after “any State”.
 
-### § 7623. Expenses of detection of underpayments and fraud, etc.
+### § 7623. Expenses of detection of underpayments and fraud, etc.
 
 **(a) In general** The Secretary, under regulations prescribed by the Secretary, is authorized to pay such sums as he deems necessary for—
 
@@ -1757,7 +1757,7 @@ The rights and remedies provided for in this subsection may not be waived by any
 
 No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 904; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–168, title XII, § 1209(a), July 30, 1996, 110 Stat. 1473; Pub. L. 109–432, div. A, title IV, § 406(a)(1), Dec. 20, 2006, 120 Stat. 2958; Pub. L. 115–123, div. D, title II, § 41108(a)–(c), Feb. 9, 2018, 132 Stat. 158; Pub. L. 116–25, title I, § 1405(b), July 1, 2019, 133 Stat. 998.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 904; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–168, title XII, § 1209(a), July 30, 1996, 110 Stat. 1473; Pub. L. 109–432, div. A, title IV, § 406(a)(1), Dec. 20, 2006, 120 Stat. 2958; Pub. L. 115–123, div. D, title II, § 41108(a)–(c), Feb. 9, 2018, 132 Stat. 158; Pub. L. 116–25, title I, § 1405(b), July 1, 2019, 133 Stat. 998.)
 
 **Editorial Notes**
 
@@ -1765,11 +1765,11 @@ No predispute arbitration agreement shall be valid or enforceable, if the agreem
 
 2019—Subsec. (d). Pub. L. 116–25 added subsec. (d).
 
-2018—Subsec. (b)(1), (2)(A). Pub. L. 115–123, § 41108(a)(2), (b), substituted “proceeds collected as a result of the action” for “collected proceeds (including penalties, interest, additions to tax, and additional amounts) resulting from the action” and inserted “(determined without regard to whether such proceeds are available to the Secretary)” after “in response to such action”.
+2018—Subsec. (b)(1), (2)(A). Pub. L. 115–123, § 41108(a)(2), (b), substituted “proceeds collected as a result of the action” for “collected proceeds (including penalties, interest, additions to tax, and additional amounts) resulting from the action” and inserted “(determined without regard to whether such proceeds are available to the Secretary)” after “in response to such action”.
 
-Subsec. (b)(5)(B). Pub. L. 115–123, § 41108(c), substituted “proceeds” for “tax, penalties, interest, additions to tax, and additional amounts”.
+Subsec. (b)(5)(B). Pub. L. 115–123, § 41108(c), substituted “proceeds” for “tax, penalties, interest, additions to tax, and additional amounts”.
 
-Subsec. (c). Pub. L. 115–123, § 41108(a)(1), added subsec. (c).
+Subsec. (c). Pub. L. 115–123, § 41108(a)(1), added subsec. (c).
 
 2006—Pub. L. 109–432 designated existing provisions as subsec. (a), inserted heading, in par. (1), substituted “or” for “and” at end, in concluding provisions, struck out “(other than interest)” after “amounts”, and added subsec. (b).
 
@@ -1781,11 +1781,11 @@ Subsec. (c). Pub. L. 115–123, § 41108(a)(1), added subsec. (c).
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–25, title I, § 1405(c)(2), July 1, 2019, 133 Stat. 1000, provided that: “The amendment made by subsection (b) [amending this section] shall take effect on the date of the enactment of this Act [July 1, 2019].”
+Pub. L. 116–25, title I, § 1405(c)(2), July 1, 2019, 133 Stat. 1000, provided that: “The amendment made by subsection (b) [amending this section] shall take effect on the date of the enactment of this Act [July 1, 2019].”
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–123, div. D, title II, § 41108(d), Feb. 9, 2018, 132 Stat. 158, provided that: “The amendments made by this section [amending this section] shall apply to information provided before, on, or after the date of the enactment of this Act [Feb. 9, 2018] with respect to which a final determination for an award has not been made before such date of enactment.”
+Pub. L. 115–123, div. D, title II, § 41108(d), Feb. 9, 2018, 132 Stat. 158, provided that: “The amendments made by this section [amending this section] shall apply to information provided before, on, or after the date of the enactment of this Act [Feb. 9, 2018] with respect to which a final determination for an award has not been made before such date of enactment.”
 
 **Effective Date of 2006 Amendment**
 
@@ -1793,11 +1793,11 @@ Amendment by Pub. L. 109–432 applicable to information provided on or after De
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–168, title XII, § 1209(c), July 30, 1996, 110 Stat. 1474, provided that: “The amendments made by this section [amending this section] shall take effect on the date which is 6 months after the date of the enactment of this Act [July 30, 1996].”
+Pub. L. 104–168, title XII, § 1209(c), July 30, 1996, 110 Stat. 1474, provided that: “The amendments made by this section [amending this section] shall take effect on the date which is 6 months after the date of the enactment of this Act [July 30, 1996].”
 
 **Whistleblower Office**
 
-Pub. L. 109–432, div. A, title IV, § 406(b), Dec. 20, 2006, 120 Stat. 2959, provided that:
+Pub. L. 109–432, div. A, title IV, § 406(b), Dec. 20, 2006, 120 Stat. 2959, provided that:
 
 > **“(1) In general.—** Not later than the date which is 12 months after the date of the enactment of this Act [Dec. 20, 2006], the Secretary of the Treasury shall issue guidance for the operation of a whistleblower program to be administered in the Internal Revenue Service by an office to be known as the ‘Whistleblower Office’ which—
 
@@ -1811,7 +1811,7 @@ Pub. L. 109–432, div. A, title IV, § 406(b), Dec. 20, 2006, 120 Stat. 2959,
 
 **Report by Secretary**
 
-Pub. L. 109–432, div. A, title IV, § 406(c), Dec. 20, 2006, 120 Stat. 2960, provided that:
+Pub. L. 109–432, div. A, title IV, § 406(c), Dec. 20, 2006, 120 Stat. 2960, provided that:
 
 > “The Secretary of the Treasury shall each year conduct a study and report to Congress on the use of section 7623 of the Internal Revenue Code of 1986, including—
 
@@ -1821,13 +1821,13 @@ Pub. L. 109–432, div. A, title IV, § 406(c), Dec. 20, 2006, 120 Stat. 2960,
 
 **Study of Payments Made for Detection of Underpayments and Fraud**
 
-Pub. L. 105–206, title III, § 3804, July 22, 1998, 112 Stat. 783, provided that the Secretary of the Treasury, not later than 1 year after July 22, 1998, would conduct a study and report to Congress on the use of this section, including an analysis of the present use of this section and any legislative or administrative recommendations regarding the provisions of this section and its application.
+Pub. L. 105–206, title III, § 3804, July 22, 1998, 112 Stat. 783, provided that the Secretary of the Treasury, not later than 1 year after July 22, 1998, would conduct a study and report to Congress on the use of this section, including an analysis of the present use of this section and any legislative or administrative recommendations regarding the provisions of this section and its application.
 
 **Annual Report to Congress on Payments Made Under This Section and Resultant Collections**
 
-Pub. L. 104–168, title XII, § 1209(d), July 30, 1996, 110 Stat. 1474, provided that: “The Secretary of the Treasury or his delegate shall submit an annual report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the payments under section 7623 of the Internal Revenue Code of 1986 during the year and on the amounts collected for which such payments were made.”
+Pub. L. 104–168, title XII, § 1209(d), July 30, 1996, 110 Stat. 1474, provided that: “The Secretary of the Treasury or his delegate shall submit an annual report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the payments under section 7623 of the Internal Revenue Code of 1986 during the year and on the amounts collected for which such payments were made.”
 
-### § 7624. Reimbursement to State and local law enforcement agencies
+### § 7624. Reimbursement to State and local law enforcement agencies
 
 **(a) Authorization of reimbursement**
 
@@ -1841,7 +1841,7 @@ The Internal Revenue Service shall maintain records of the receipt of informatio
 
 No State or local agency may receive reimbursement under this section if reimbursement has been received by such agency under a Federal or State forfeiture program or under State revenue laws.
 
-(Added Pub. L. 100–690, title VII, § 7602(a), Nov. 18, 1988, 102 Stat. 4507.)
+(Added Pub. L. 100–690, title VII, § 7602(a), Nov. 18, 1988, 102 Stat. 4507.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1851,13 +1851,13 @@ Section applicable to information first provided more than 90 days after Nov. 18
 
 **Regulations**
 
-Pub. L. 100–690, title VII, § 7602(g), Nov. 18, 1988, 102 Stat. 4508, provided that: “The Secretary of the Treasury shall, not later than 90 days after the date of enactment of this Act [Nov. 18, 1988], prescribe such rules and regulations as shall be necessary and proper to carry out the provisions of this section [enacting section 7624 of this title, amending sections 6103 and 7809 of this title, and enacting provisions set out as notes under sections 6103 and 7809 of this title], including regulations relating to the definition of information which substantially contributes to the recovery of Federal taxes and the substantiation of expenses required in order to receive a reimbursement.”
+Pub. L. 100–690, title VII, § 7602(g), Nov. 18, 1988, 102 Stat. 4508, provided that: “The Secretary of the Treasury shall, not later than 90 days after the date of enactment of this Act [Nov. 18, 1988], prescribe such rules and regulations as shall be necessary and proper to carry out the provisions of this section [enacting section 7624 of this title, amending sections 6103 and 7809 of this title, and enacting provisions set out as notes under sections 6103 and 7809 of this title], including regulations relating to the definition of information which substantially contributes to the recovery of Federal taxes and the substantiation of expenses required in order to receive a reimbursement.”
 
 ## [Subchapter C—Repealed]
 
-### [§ 7641. Repealed. Pub. L. 94–455, title XIX, § 1906(a)(54), Oct. 4, 1976, 90 Stat. 1832]
+### [§ 7641. Repealed. Pub. L. 94–455, title XIX, § 1906(a)(54), Oct. 4, 1976, 90 Stat. 1832]
 
-Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 905; Oct. 27, 1970, Pub. L. 91–513, title III, § 1102(i), 84 Stat. 1293; Oct. 26, 1974, Pub. L. 93–490, § 3(b)(8), 88 Stat. 1467, related to supervision of operations of every manufacturer of oleomargarine, process or renovated butter or adulterated butter, or white phosphorous matches by the officers or employees of the Treasury Department.
+Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 905; Oct. 27, 1970, Pub. L. 91–513, title III, § 1102(i), 84 Stat. 1293; Oct. 26, 1974, Pub. L. 93–490, § 3(b)(8), 88 Stat. 1467, related to supervision of operations of every manufacturer of oleomargarine, process or renovated butter or adulterated butter, or white phosphorous matches by the officers or employees of the Treasury Department.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1871,11 +1871,11 @@ Repeal effective on first day of first month which begins more than 90 days afte
 
 **Amendments**
 
-1986—Pub. L. 99–514, title XII, § 1276(b), Oct. 22, 1986, 100 Stat. 2600, substituted “certain possession” for “Guam” in item 7654.
+1986—Pub. L. 99–514, title XII, § 1276(b), Oct. 22, 1986, 100 Stat. 2600, substituted “certain possession” for “Guam” in item 7654.
 
-1972—Pub. L. 92–606, § 1(f)(6), Oct. 31, 1972, 86 Stat. 1497, substituted “Coordination of United States and Guam individual income taxes” for “Payment to Guam and American Samoa of proceeds of tax on coconut and palm oil” in item 7654.
+1972—Pub. L. 92–606, § 1(f)(6), Oct. 31, 1972, 86 Stat. 1497, substituted “Coordination of United States and Guam individual income taxes” for “Payment to Guam and American Samoa of proceeds of tax on coconut and palm oil” in item 7654.
 
-### § 7651. Administration and collection of taxes in possessions
+### § 7651. Administration and collection of taxes in possessions
 
 Except as otherwise provided in this subchapter, and except as otherwise provided in section 28(a) of the Revised Organic Act of the Virgin Islands and section 30 of the Organic Act of Guam (relating to the covering of the proceeds of certain taxes into the treasuries of the Virgin Islands and Guam, respectively)—
 
@@ -1903,7 +1903,7 @@ This section shall apply notwithstanding any other provision of law relating to 
 
 **(B)** For purposes of this title, section 28(a) of the Revised Organic Act of the Virgin Islands shall be effective as if such section 28(a) had been enacted before the enactment of this title and such section 28(a) shall have no effect on the amount of income tax liability required to be paid by any person to the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 906; Pub. L. 91–513, title III, § 1102(j), Oct. 27, 1970, 84 Stat. 1293; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, § 130(c), title VIII, § 801(d)(9), July 18, 1984, 98 Stat. 661, 997; Pub. L. 99–514, title XII, § 1275(b), Oct. 22, 1986, 100 Stat. 2598; Pub. L. 110–172, § 11(a)(34)(B), Dec. 29, 2007, 121 Stat. 2487.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 906; Pub. L. 91–513, title III, § 1102(j), Oct. 27, 1970, 84 Stat. 1293; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, § 130(c), title VIII, § 801(d)(9), July 18, 1984, 98 Stat. 661, 997; Pub. L. 99–514, title XII, § 1275(b), Oct. 22, 1986, 100 Stat. 2598; Pub. L. 110–172, § 11(a)(34)(B), Dec. 29, 2007, 121 Stat. 2487.)
 
 **Editorial Notes**
 
@@ -1919,9 +1919,9 @@ Section 30 of the Organic Act of Guam, referred to in introductory provisions, i
 
 1986—Par. (5)(B). Pub. L. 99–514 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For purposes of this title (other than section 881(b)(1) or subpart C of part III of subchapter N of chapter 1), section 28(a) of the Revised Organic Act of the Virgin Islands shall be effective as if such section had been enacted subsequent to the enactment of this title.”
 
-1984—Par. (5)(B). Pub. L. 98–369, § 801(d)(9), inserted “or subpart C of part III of subchapter N of chapter 1”.
+1984—Par. (5)(B). Pub. L. 98–369, § 801(d)(9), inserted “or subpart C of part III of subchapter N of chapter 1”.
 
-Pub. L. 98–369, § 130(c), inserted “(other than section 881(b)(1))”.
+Pub. L. 98–369, § 130(c), inserted “(other than section 881(b)(1))”.
 
 1976—Par. (2)(A). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
@@ -1949,17 +1949,17 @@ Prosecutions for any violation of law occurring, and civil seizures or forfeitur
 
 **Compensation to Guam and Virgin Islands for Unexpected Revenue Losses Occasioned by Tax Reduction Act of 1975 and Tax Reform Act of 1976**
 
-Pub. L. 95–134, title IV, § 402, Oct. 15, 1977, 91 Stat. 1163, provided that: “In order to compensate the territories of Guam and the Virgin Islands for unexpected revenue losses occasioned by the Tax Reduction Act of 1975 [Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, see Tables] and the Tax Reform Act of 1976 [Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1525, see Tables] there is hereby authorized to be appropriated to the Secretary for grants to the government of Guam not to exceed $15,000,000 and after October 1, 1977, for grants to the government of the Virgin Islands not to exceed $14,000,000, such sums being in addition to those previously authorized for such purposes.”
+Pub. L. 95–134, title IV, § 402, Oct. 15, 1977, 91 Stat. 1163, provided that: “In order to compensate the territories of Guam and the Virgin Islands for unexpected revenue losses occasioned by the Tax Reduction Act of 1975 [Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, see Tables] and the Tax Reform Act of 1976 [Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1525, see Tables] there is hereby authorized to be appropriated to the Secretary for grants to the government of Guam not to exceed $15,000,000 and after October 1, 1977, for grants to the government of the Virgin Islands not to exceed $14,000,000, such sums being in addition to those previously authorized for such purposes.”
 
 **Payments to Government of American Samoa, Guam, and the Virgin Islands**
 
-Pub. L. 95–30, title IV, § 407, May 23, 1977, 91 Stat. 156, provided that:
+Pub. L. 95–30, title IV, § 407, May 23, 1977, 91 Stat. 156, provided that:
 
 > **“(a)** The Secretary of the Treasury is authorized to make separate payments to the government of American Samoa, the government of Guam, and the government of the Virgin Islands. The payment to the government of a particular possession shall be in an amount equal to the loss to that possession with respect to tax returns for the first taxable year beginning after December 31, 1976, by reason of sections 101 and 102 of this Act [amending sections 1, 3, 21, 42, 57, 63, 143, 161, 172, 211, 402, 441, 443, 511, 584, 613A, 641, 642, 667, 703, 861, 862, 873, 904, 911, 931, 1034, 1211, 1302, 6014, 6212, 6504, and 6654 of this title and repealing sections 36, 141, 142, 144 and 145 of this title]. Such amount shall be determined by the Secretary of the Treasury upon certification to the Secretary by the United States Government Comptrollers for Guam and the Virgin Islands.
 
 > **“(b)** There are hereby authorized to be appropriated, out of any funds in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this section.”
 
-### § 7652. Shipments to the United States
+### § 7652. Shipments to the United States
 
 **(a) Puerto Rico**
 
@@ -2069,7 +2069,7 @@ Paragraph (1) shall not apply with respect to any rum subject to tax under subse
 
 For purposes of subsections (a)(3), (b)(3), and (e)(1), refunds under section 5001(c)(4) shall not be taken into account as a refund, and the amount of taxes imposed by and collected under section 5001(a)(1) shall be determined without regard to section 5001(c).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 907; Pub. L. 85–859, title II, § 204(17), (18), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 89–44, title VIII, § 808(b)(3), June 21, 1965, 79 Stat. 164; Pub. L. 94–202, § 10(a), Jan. 2, 1976, 89 Stat. 1141; Pub. L. 94–455, title XIX, § 1906(a)(55), (b) (13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834; Pub. L. 98–67, title II, § 221(a), Aug. 5, 1983, 97 Stat. 395; Pub. L. 98–213, § 5(c), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–369, div. B, title VI, §§ 2681(a), 2682(a), July 18, 1984, 98 Stat. 1172, 1174; Pub. L. 99–514, title XVIII, § 1879(i)(1), Oct. 22, 1986, 100 Stat. 2907; Pub. L. 100–418, title I, § 1214(p)(1), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 103–66, title XIII, § 13227(e), Aug. 10, 1993, 107 Stat. 494; Pub. L. 103–465, title I, § 136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 106–170, title V, § 512(a), Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–200, title VI, § 602(b), (c), May 18, 2000, 114 Stat. 305, 306; Pub. L. 107–147, title VI, § 609(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, § 305(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–59, title XI, § 11125(b)(22), Aug. 10, 2005, 119 Stat. 1957; Pub. L. 109–432, div. A, title I, § 114(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, § 308(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, § 755(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, § 329(a), Jan. 2, 2013, 126 Stat. 2335; Pub. L. 113–295, div. A, title I, § 140(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, § 172(a), Dec. 18, 2015, 129 Stat. 3071; Pub. L. 115–97, title I, § 13807(b), Dec. 22, 2017, 131 Stat. 2176; Pub. L. 115–123, div. D, title II, § 41102(a)(1), (b)(1), Feb. 9, 2018, 132 Stat. 155; Pub. L. 116–260, div. EE, title I, § 107(a)(2), Dec. 27, 2020, 134 Stat. 3046; Pub. L. 119–21, title VII, § 70427(a), July 4, 2025, 139 Stat. 238.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 907; Pub. L. 85–859, title II, § 204(17), (18), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 89–44, title VIII, § 808(b)(3), June 21, 1965, 79 Stat. 164; Pub. L. 94–202, § 10(a), Jan. 2, 1976, 89 Stat. 1141; Pub. L. 94–455, title XIX, § 1906(a)(55), (b) (13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834; Pub. L. 98–67, title II, § 221(a), Aug. 5, 1983, 97 Stat. 395; Pub. L. 98–213, § 5(c), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–369, div. B, title VI, §§ 2681(a), 2682(a), July 18, 1984, 98 Stat. 1172, 1174; Pub. L. 99–514, title XVIII, § 1879(i)(1), Oct. 22, 1986, 100 Stat. 2907; Pub. L. 100–418, title I, § 1214(p)(1), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 103–66, title XIII, § 13227(e), Aug. 10, 1993, 107 Stat. 494; Pub. L. 103–465, title I, § 136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 106–170, title V, § 512(a), Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–200, title VI, § 602(b), (c), May 18, 2000, 114 Stat. 305, 306; Pub. L. 107–147, title VI, § 609(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, § 305(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–59, title XI, § 11125(b)(22), Aug. 10, 2005, 119 Stat. 1957; Pub. L. 109–432, div. A, title I, § 114(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, § 308(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, § 755(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, § 329(a), Jan. 2, 2013, 126 Stat. 2335; Pub. L. 113–295, div. A, title I, § 140(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, § 172(a), Dec. 18, 2015, 129 Stat. 3071; Pub. L. 115–97, title I, § 13807(b), Dec. 22, 2017, 131 Stat. 2176; Pub. L. 115–123, div. D, title II, § 41102(a)(1), (b)(1), Feb. 9, 2018, 132 Stat. 155; Pub. L. 116–260, div. EE, title I, § 107(a)(2), Dec. 27, 2020, 134 Stat. 3046; Pub. L. 119–21, title VII, § 70427(a), July 4, 2025, 139 Stat. 238.)
 
 **Editorial Notes**
 
@@ -2085,13 +2085,13 @@ The Harmonized Tariff Schedule of the United States (19 U.S.C. 1202), referred t
 
 2025—Subsec. (f)(1). Pub. L. 119–21 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “$10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2022), or”.
 
-2020—Subsec. (e)(5). Pub. L. 116–260, § 106(a)(2)(B), struck out par. (5). Text read as follows: “For purposes of this subsection, the amount of taxes collected under section 5001(a)(1) shall be determined without regard to section 5001(c).”
+2020—Subsec. (e)(5). Pub. L. 116–260, § 106(a)(2)(B), struck out par. (5). Text read as follows: “For purposes of this subsection, the amount of taxes collected under section 5001(a)(1) shall be determined without regard to section 5001(c).”
 
-Subsec. (i). Pub. L. 116–260, § 106(a)(2)(A), added subsec. (i).
+Subsec. (i). Pub. L. 116–260, § 106(a)(2)(A), added subsec. (i).
 
-2018—Subsec. (e)(5). Pub. L. 115–123, § 41102(b)(1), added par. (5).
+2018—Subsec. (e)(5). Pub. L. 115–123, § 41102(b)(1), added par. (5).
 
-Subsec. (f)(1). Pub. L. 115–123, § 41102(a)(1), substituted “January 1, 2022” for “January 1, 2017”.
+Subsec. (f)(1). Pub. L. 115–123, § 41102(a)(1), substituted “January 1, 2022” for “January 1, 2017”.
 
 2017—Subsec. (f)(2). Pub. L. 115–97 substituted “subsection (a)(1) of section 5001, determined as if subsection (c)(1) of such section did not apply” for “section 5001(a)(1)”.
 
@@ -2107,19 +2107,19 @@ Subsec. (f)(1). Pub. L. 115–123, § 41102(a)(1), substituted “January 1, 2
 
 2006—Subsec. (f)(1). Pub. L. 109–432 substituted “2008” for “2006”.
 
-2005—Subsec. (g)(1). Pub. L. 109–59, § 11125(b)(22)(A), substituted “subpart B” for “subpart F” in introductory provisions.
+2005—Subsec. (g)(1). Pub. L. 109–59, § 11125(b)(22)(A), substituted “subpart B” for “subpart F” in introductory provisions.
 
-Subsec. (g)(1)(A). Pub. L. 109–59, § 11125(b)(22)(B), substituted “section 5111” for “section 5131(a)”.
+Subsec. (g)(1)(A). Pub. L. 109–59, § 11125(b)(22)(B), substituted “section 5111” for “section 5131(a)”.
 
 2004—Subsec. (f)(1). Pub. L. 108–311 substituted “January 1, 2006” for “January 1, 2004”.
 
 2002—Subsec. (f)(1). Pub. L. 107–147 substituted “January 1, 2004” for “January 1, 2002”.
 
-2000—Subsec. (b)(3). Pub. L. 106–200, § 602(b), amended generally par. (3) heading and text of par. (3) introductory provisions and subpar. (A). Prior to amendment, text of par. (3) introductory provisions and subpar. (A) read as follows: “Beginning with the calendar quarter ending September 30, 1975, and quarterly thereafter, the Secretary shall determine the amount of all taxes imposed by, and collected during the quarter under, the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States. The amount so determined less 1 percent and less the estimated amount of refunds or credits shall be subject to disposition as follows:
+2000—Subsec. (b)(3). Pub. L. 106–200, § 602(b), amended generally par. (3) heading and text of par. (3) introductory provisions and subpar. (A). Prior to amendment, text of par. (3) introductory provisions and subpar. (A) read as follows: “Beginning with the calendar quarter ending September 30, 1975, and quarterly thereafter, the Secretary shall determine the amount of all taxes imposed by, and collected during the quarter under, the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States. The amount so determined less 1 percent and less the estimated amount of refunds or credits shall be subject to disposition as follows:
 
 “(A) There shall be transferred and paid over, as soon as practicable after the close of the quarter, to the Government of the Virgin Islands from the amounts so determined a sum equal to the total amount of the revenue collected by the Government of the Virgin Islands during the quarter, as certified by the Government Comptroller of the Virgin Islands. The moneys so transferred and paid over shall constitute a separate fund in the treasury of the Virgin Islands and may be expended as the legislature may determine.”
 
-Subsec. (h). Pub. L. 106–200, § 602(c), added subsec. (h).
+Subsec. (h). Pub. L. 106–200, § 602(c), added subsec. (h).
 
 1999—Subsec. (f)(1). Pub. L. 106–170 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “$10.50 ($11.30 in the case of distilled spirits brought into the United States during the 5-year period beginning on October 1, 1993), or.”
 
@@ -2131,39 +2131,39 @@ Subsec. (h). Pub. L. 106–200, § 602(c), added subsec. (h).
 
 1986—Subsec. (g). Pub. L. 99–514 added subsec. (g).
 
-1984—Subsecs. (c) to (e). Pub. L. 98–369, § 2681(a), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+1984—Subsecs. (c) to (e). Pub. L. 98–369, § 2681(a), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
-Subsec. (f). Pub. L. 98–369, § 2682(a), added subsec. (f).
+Subsec. (f). Pub. L. 98–369, § 2682(a), added subsec. (f).
 
-1983—Subsec. (b)(3). Pub. L. 98–213, § 5(c), amended language of Pub. L. 94–455, § 1906(a)(55). See 1976 Amendment note below.
+1983—Subsec. (b)(3). Pub. L. 98–213, § 5(c), amended language of Pub. L. 94–455, § 1906(a)(55). See 1976 Amendment note below.
 
 Subsec. (c). Pub. L. 98–67 added subsec. (c).
 
-1976—Subsec. (a)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b)(3). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” in provisions following subpar. (B).
+Subsec. (b)(3). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” in provisions following subpar. (B).
 
-Pub. L. 94–455, § 1906(a)(55)(B), as amended by Pub. L. 98–213, § 5(c)(1), substituted “emergency relief purposes and essential public projects” for “emergency relief purposes and essential public projects, with the prior approval of the President or his designated representative” in provisions following subpar. (B). Prior to amendment by Pub. L. 98–213, the latter phrase had been substituted for “approved emergency relief purposes and essential public projects as provided in subparagraph (B)”.
+Pub. L. 94–455, § 1906(a)(55)(B), as amended by Pub. L. 98–213, § 5(c)(1), substituted “emergency relief purposes and essential public projects” for “emergency relief purposes and essential public projects, with the prior approval of the President or his designated representative” in provisions following subpar. (B). Prior to amendment by Pub. L. 98–213, the latter phrase had been substituted for “approved emergency relief purposes and essential public projects as provided in subparagraph (B)”.
 
-Pub. L. 94–455, § 1906(a)(55)(C), struck out “including payments under subparagraph (B)” after “public projects only” in provisions following subpar. (B).
+Pub. L. 94–455, § 1906(a)(55)(C), struck out “including payments under subparagraph (B)” after “public projects only” in provisions following subpar. (B).
 
-Subsec. (b)(3)(A). Pub. L. 94–455, § 1906(a)(55)(D), as added by Pub. L. 98–213, § 5(c)(2), struck out proviso after “determine” requiring approval of the President or his designated representative before such moneys may be obligated or expended.
+Subsec. (b)(3)(A). Pub. L. 94–455, § 1906(a)(55)(D), as added by Pub. L. 98–213, § 5(c)(2), struck out proviso after “determine” requiring approval of the President or his designated representative before such moneys may be obligated or expended.
 
-Subsec. (b)(3)(B), (C). Pub. L. 94–455, § 1906(a)(55)(A), redesignated subpar. (C) as (B). Former subpar. (B) relating to disposition of internal revenue collections in Virgin Islands for fiscal years ending June 30, 1955 and 1956 was struck out.
+Subsec. (b)(3)(B), (C). Pub. L. 94–455, § 1906(a)(55)(A), redesignated subpar. (C) as (B). Former subpar. (B) relating to disposition of internal revenue collections in Virgin Islands for fiscal years ending June 30, 1955 and 1956 was struck out.
 
 Pub. L. 94–202 substituted “calendar quarter ending September 30, 1975, and quarterly” for “fiscal year ending June 30, 1954, and annually” and “quarter” for “fiscal year” in provisions preceding subpar. (A), substituted “paid over, as soon as practicable after the close of the quarter,” for “paid over” and “quarter” for “fiscal year” in subpar. (A), and substituted “with respect to the four calendar quarters immediately preceding the beginning” for “at the beginning” in provisions following subpar. (C).
 
 1965—Subsec. (a)(3). Pub. L. 89–44 inserted “(less the estimated amount necessary for payment of refunds and drawbacks)” after “transported to the United States”.
 
-1958—Subsec. (a)(1). Pub. L. 85–859, § 204(17), substituted “section 5314” for “section 5318”.
+1958—Subsec. (a)(1). Pub. L. 85–859, § 204(17), substituted “section 5314” for “section 5318”.
 
-Subsec. (b)(1). Pub. L. 85–859, § 204(18), substituted “section 5314” for “section 5318”.
+Subsec. (b)(1). Pub. L. 85–859, § 204(18), substituted “section 5314” for “section 5318”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–21, title VII, § 70427(b), July 4, 2025, 139 Stat. 238, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2025.”
+Pub. L. 119–21, title VII, § 70427(b), July 4, 2025, 139 Stat. 238, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2025.”
 
 **Effective Date of 2020 Amendment**
 
@@ -2171,9 +2171,9 @@ Amendment by Pub. L. 116–260 applicable to distilled spirits brought into the 
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–123, div. D, title II, § 41102(a)(2), Feb. 9, 2018, 132 Stat. 155, provided that: “The amendment made by this subsection [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2016.”
+Pub. L. 115–123, div. D, title II, § 41102(a)(2), Feb. 9, 2018, 132 Stat. 155, provided that: “The amendment made by this subsection [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2016.”
 
-Pub. L. 115–123, div. D, title II, § 41102(b)(2), Feb. 9, 2018, 132 Stat. 155, provided that: “The amendment made by this subsection [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2017.”
+Pub. L. 115–123, div. D, title II, § 41102(b)(2), Feb. 9, 2018, 132 Stat. 155, provided that: “The amendment made by this subsection [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2017.”
 
 **Effective Date of 2017 Amendment**
 
@@ -2181,27 +2181,27 @@ Amendment by Pub. L. 115–97 applicable to distilled spirits removed after Dec.
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title I, § 172(b), Dec. 18, 2015, 129 Stat. 3071, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2014.”
+Pub. L. 114–113, div. Q, title I, § 172(b), Dec. 18, 2015, 129 Stat. 3071, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2014.”
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–295, div. A, title I, § 140(b), Dec. 19, 2014, 128 Stat. 4020, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2013.”
+Pub. L. 113–295, div. A, title I, § 140(b), Dec. 19, 2014, 128 Stat. 4020, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2013.”
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–240, title III, § 329(b), Jan. 2, 2013, 126 Stat. 2335, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2011.”
+Pub. L. 112–240, title III, § 329(b), Jan. 2, 2013, 126 Stat. 2335, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2011.”
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–312, title VII, § 755(b), Dec. 17, 2010, 124 Stat. 3322, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2009.”
+Pub. L. 111–312, title VII, § 755(b), Dec. 17, 2010, 124 Stat. 3322, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2009.”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–343, div. C, title III, § 308(b), Oct. 3, 2008, 122 Stat. 3869, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2007.”
+Pub. L. 110–343, div. C, title III, § 308(b), Oct. 3, 2008, 122 Stat. 3869, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2007.”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–432, div. A, title I, § 114(b), Dec. 20, 2006, 120 Stat. 2940, provided that: “The amendment made by subsection (a) [amending this section] shall apply to articles brought into the United States after December 31, 2005.”
+Pub. L. 109–432, div. A, title I, § 114(b), Dec. 20, 2006, 120 Stat. 2940, provided that: “The amendment made by subsection (a) [amending this section] shall apply to articles brought into the United States after December 31, 2005.”
 
 **Effective Date of 2005 Amendment**
 
@@ -2209,19 +2209,19 @@ Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes 
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–311, title III, § 305(b), Oct. 4, 2004, 118 Stat. 1179, provided that:“The amendment made by this section [amending this section] shall apply to articles brought into the United States after December 31, 2003.”
+Pub. L. 108–311, title III, § 305(b), Oct. 4, 2004, 118 Stat. 1179, provided that:“The amendment made by this section [amending this section] shall apply to articles brought into the United States after December 31, 2003.”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–147, title VI, § 609(b), Mar. 9, 2002, 116 Stat. 60, provided that: “The amendment made by subsection (a) [amending this section] shall apply to articles brought into the United States after December 31, 2001.”
+Pub. L. 107–147, title VI, § 609(b), Mar. 9, 2002, 116 Stat. 60, provided that: “The amendment made by subsection (a) [amending this section] shall apply to articles brought into the United States after December 31, 2001.”
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–200, title VI, § 602(d), May 18, 2000, 114 Stat. 306, provided that: “The amendments made by this section [amending this section and provisions set out as a note under this section] shall apply with respect to transfers or payments made after the date of the enactment of this Act [May 18, 2000].”
+Pub. L. 106–200, title VI, § 602(d), May 18, 2000, 114 Stat. 306, provided that: “The amendments made by this section [amending this section and provisions set out as a note under this section] shall apply with respect to transfers or payments made after the date of the enactment of this Act [May 18, 2000].”
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–170, title V, § 512(c), Dec. 17, 1999, 113 Stat. 1925, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on July 1, 1999.”
+Pub. L. 106–170, title V, § 512(c), Dec. 17, 1999, 113 Stat. 1925, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on July 1, 1999.”
 
 **Effective Date of 1994 Amendment**
 
@@ -2237,11 +2237,11 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title XVIII, § 1879(i)(2), Oct. 22, 1986, 100 Stat. 2907, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to articles brought into the United States after the date of the enactment of this Act [Oct. 22, 1986].”
+Pub. L. 99–514, title XVIII, § 1879(i)(2), Oct. 22, 1986, 100 Stat. 2907, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to articles brought into the United States after the date of the enactment of this Act [Oct. 22, 1986].”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. B, title VI, § 2681(b), July 18, 1984, 98 Stat. 1173, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. B, title VI, § 2681(b), July 18, 1984, 98 Stat. 1173, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by subsection (a) [amending this section] shall apply with respect to articles brought into the United States on or after March 1, 1984.
 
@@ -2285,17 +2285,17 @@ Pub. L. 98–369, div. B, title VI, § 2681(b), July 18, 1984, 98 Stat. 1173, 
 
 > **“(ii) Transportation payments excluded.—** Such term shall not include any payment of a direct cost of transportation to or from Puerto Rico with respect to any article to which this paragraph applies.”
 
-Pub. L. 98–369, div. B, title VI, § 2682(b), July 18, 1984, 98 Stat. 1175, provided that “The amendment made by this section [amending this section] shall apply to articles containing distilled spirits brought into the United States after September 30, 1985.”
+Pub. L. 98–369, div. B, title VI, § 2682(b), July 18, 1984, 98 Stat. 1175, provided that “The amendment made by this section [amending this section] shall apply to articles containing distilled spirits brought into the United States after September 30, 1985.”
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–67, title II, § 221(b), Aug. 5, 1983, 97 Stat. 395, provided that: “The amendment made by subsection (a) [amending this section] shall apply to articles imported into the United States after June 30, 1983.”
+Pub. L. 98–67, title II, § 221(b), Aug. 5, 1983, 97 Stat. 395, provided that: “The amendment made by subsection (a) [amending this section] shall apply to articles imported into the United States after June 30, 1983.”
 
 **Effective Date of 1976 Amendments**
 
 Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
-Pub. L. 94–202, § 10(b), Jan. 2, 1976, 89 Stat. 1141, provided that: “The amendments made by paragraphs (1) and (2) of subsection (a) [amending this section] shall apply with respect to all taxes imposed by, and collected after June 30, 1975, under, the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States.”
+Pub. L. 94–202, § 10(b), Jan. 2, 1976, 89 Stat. 1141, provided that: “The amendments made by paragraphs (1) and (2) of subsection (a) [amending this section] shall apply with respect to all taxes imposed by, and collected after June 30, 1975, under, the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States.”
 
 **Effective Date of 1965 Amendment**
 
@@ -2307,7 +2307,7 @@ Amendment by Pub. L. 85–859 effective July 1, 1959, see section 210(a)(1) of P
 
 **Special Cover Over Transfer Rules**
 
-Pub. L. 106–170, title V, § 512(b), Dec. 17, 1999, 113 Stat. 1924, as amended by Pub. L. 106–200, § 602(a), May 18, 2000, 114 Stat. 305, provided that:
+Pub. L. 106–170, title V, § 512(b), Dec. 17, 1999, 113 Stat. 1924, as amended by Pub. L. 106–200, § 602(a), May 18, 2000, 114 Stat. 305, provided that:
 
 > “Notwithstanding section 7652 of the Internal Revenue Code of 1986, the following rules shall apply with respect to any transfer before the first day of the month within which the date of the enactment of the Trade and Development Act of 2000 [May 18, 2000] occurs, of amounts relating to the increase in the cover over of taxes by reason of the amendment made by subsection (a) [amending this section]:
 
@@ -2323,13 +2323,13 @@ Pub. L. 106–170, title V, § 512(b), Dec. 17, 1999, 113 Stat. 1924, as amend
 
 > **“(B)** the amount of the transfer described in paragraph (1).”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 **Payment to Puerto Rico or Virgin Islands of Amounts With Respect to Medicines, etc. Unfit for Beverage Purposes**
 
-Pub. L. 99–514, title XVIII, § 1879(i)(3), Oct. 22, 1986, 100 Stat. 2907, provided that:
+Pub. L. 99–514, title XVIII, § 1879(i)(3), Oct. 22, 1986, 100 Stat. 2907, provided that:
 
 > **“(A)** Section 7652 of the Internal Revenue Code of 1954 [now 1986] (other than subsection (f) thereof) shall not prevent the payment to Puerto Rico or the Virgin Islands of amounts with respect to medicines, medicinal preparations, food products, flavors, or flavoring extracts containing distilled spirits, which are unfit for beverage purposes and which are brought into the United States from Puerto Rico or the Virgin Islands on or before the date of the enactment of this Act [Oct. 22, 1986].
 
@@ -2345,7 +2345,7 @@ Dwight D. Eisenhower
 
 [Pub. L. 94–455 made various amendments to subsec. (b)(3) of this section, after which there was no longer the requirement for approval by the President or his designated representative of obligation and expenditure of specified moneys.]
 
-### § 7653. Shipments from the United States
+### § 7653. Shipments from the United States
 
 **(a) Tax imposed**
 
@@ -2369,19 +2369,19 @@ All provisions of law for the allowance of drawback of internal revenue tax on a
 
 For the disposition of the proceeds of all taxes collected under the internal revenue laws of the United States on articles produced in Guam and transported into the United States or its possessions, or consumed in Guam, see the Act of August 1, 1950 (48 U.S.C. 1421h).
 
-(Aug. 16, 1954, ch. 736 68A Stat. 908; Pub. L. 86–70, § 22(f), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, § 18(h), July 12, 1960, 74 Stat. 416; Pub. L. 94–455, title XIX, § 1906(a)(56), Oct. 4, 1976, 90 Stat. 1832.)
+(Aug. 16, 1954, ch. 736 68A Stat. 908; Pub. L. 86–70, § 22(f), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, § 18(h), July 12, 1960, 74 Stat. 416; Pub. L. 94–455, title XIX, § 1906(a)(56), Oct. 4, 1976, 90 Stat. 1832.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of August 1, 1950, referred to in subsec. (d), is act Aug. 1, 1950, ch. 512, 64 Stat. 384, known as the Organic Act of Guam, which is classified principally to chapter 8A (§ 1421 et seq.) of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 48 and Tables.
+Act of August 1, 1950, referred to in subsec. (d), is act Aug. 1, 1950, ch. 512, 64 Stat. 384, known as the Organic Act of Guam, which is classified principally to chapter 8A (§ 1421 et seq.) of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 48 and Tables.
 
 **Amendments**
 
 1976—Subsec. (d). Pub. L. 94–455 struck out “ch. 512, 64 Stat. 392, section 30” after “August 1, 1950”.
 
-1960—Subsec. (d). Pub. L. 86–624 substituted “or its possessions” for “, its possessions or the Territory of Hawaii”.
+1960—Subsec. (d). Pub. L. 86–624 substituted “or its possessions” for “, its possessions or the Territory of Hawaii”.
 
 1959—Subsec. (d). Pub. L. 86–70 substituted “its possessions or the Territory of Hawaii” for “its Territories or possessions”.
 
@@ -2395,7 +2395,7 @@ Amendment by Pub. L. 86–624 effective Aug. 21, 1959, see section 18(k) of Pub.
 
 Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 22(i) of Pub. L. 86–70, set out as a note under section 3121 of this title.
 
-### § 7654. Coordination of United States and certain possession individual income taxes
+### § 7654. Coordination of United States and certain possession individual income taxes
 
 **(a) General rule**
 
@@ -2425,13 +2425,13 @@ The transfers of funds between the United States and any specified possession re
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section and sections 931 and 932, including regulations prohibiting the rebate of taxes covered over which are allocable to United States source income and prescribing the information which the individuals to whom such sections may apply shall furnish to the Secretary.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 909; Pub. L. 92–606, § 1(b), Oct. 31, 1972, 86 Stat. 1495; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §§ 307(a)(16), 308(a), Sept. 3, 1982, 96 Stat. 590, 591; Pub. L. 98–67, title I, § 102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 99–514, title XII, § 1276(a), Oct. 22, 1986, 100 Stat. 2599; Pub. L. 100–647, title I, § 1012(y), Nov. 10, 1988, 102 Stat. 3530; Pub. L. 108–189, § 2(d), Dec. 19, 2003, 117 Stat. 2866; Pub. L. 115–141, div. U, title IV, § 401(a)(330), Mar. 23, 2018, 132 Stat. 1200.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 909; Pub. L. 92–606, § 1(b), Oct. 31, 1972, 86 Stat. 1495; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §§ 307(a)(16), 308(a), Sept. 3, 1982, 96 Stat. 590, 591; Pub. L. 98–67, title I, § 102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 99–514, title XII, § 1276(a), Oct. 22, 1986, 100 Stat. 2599; Pub. L. 100–647, title I, § 1012(y), Nov. 10, 1988, 102 Stat. 3530; Pub. L. 108–189, § 2(d), Dec. 19, 2003, 117 Stat. 2866; Pub. L. 115–141, div. U, title IV, § 401(a)(330), Mar. 23, 2018, 132 Stat. 1200.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Servicemembers Civil Relief Act, referred to in subsec. (d)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 3901 of Title 50 and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (d)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 3901 of Title 50 and Tables.
 
 **Amendments**
 
@@ -2445,7 +2445,7 @@ The Servicemembers Civil Relief Act, referred to in subsec. (d)(1), is act Oct. 
 
 1983—Subsec. (d). Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-1982—Subsec. (d). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (d) is amended by inserting “subchapter A of” before “chapter 24”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed sub­title A (§§ 301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+1982—Subsec. (d). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (d) is amended by inserting “subchapter A of” before “chapter 24”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed sub­title A (§§ 301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 1976—Subsecs. (d), (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -2465,7 +2465,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Amendment by Pub. L. 92–606 applicable with respect to taxable years beginning after Dec. 31, 1972, see section 2 of Pub. L. 92–606, set out in part as an Effective Date note under section 931 of this title.
 
-### § 7655. Cross references
+### § 7655. Cross references
 
 **(a) Imposition of tax in possessions** For provisions imposing tax in possessions, see—
 
@@ -2479,19 +2479,19 @@ Amendment by Pub. L. 92–606 applicable with respect to taxable years beginning
 
 **(2)** Section 933, relating to income tax on residents of Puerto Rico.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 909; Pub. L. 85–859, title II, § 204(19), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 91–513, title III, § 1102(k), Oct. 27, 1970, 84 Stat. 1293; Pub. L. 94–455, title XIX, § 1904(b)(6)(B), Oct. 4, 1976, 90 Stat. 1815; Pub. L. 99–514, title XII, § 1272(d)(11), Oct. 22, 1986, 100 Stat. 2594; Pub. L. 101–508, title XI, § 11801(c)(22)(E), Nov. 5, 1990, 104 Stat. 1388–528.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 909; Pub. L. 85–859, title II, § 204(19), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 91–513, title III, § 1102(k), Oct. 27, 1970, 84 Stat. 1293; Pub. L. 94–455, title XIX, § 1904(b)(6)(B), Oct. 4, 1976, 90 Stat. 1815; Pub. L. 99–514, title XII, § 1272(d)(11), Oct. 22, 1986, 100 Stat. 2594; Pub. L. 101–508, title XI, § 11801(c)(22)(E), Nov. 5, 1990, 104 Stat. 1388–528.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Insurance Contributions Act, referred to in subsec. (a)(2), is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, which is classified generally to chapter 21 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see section 3128 of this title and Tables.
+The Federal Insurance Contributions Act, referred to in subsec. (a)(2), is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, which is classified generally to chapter 21 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see section 3128 of this title and Tables.
 
 **Amendments**
 
-1990—Subsec. (a)(2), (3). Pub. L. 101–508, § 11801(c)(22)(E)(i), substituted period for semicolon at end of par. (2) and struck out par. (3) which cross-referenced former chapter 37 relating to tax on sugar.
+1990—Subsec. (a)(2), (3). Pub. L. 101–508, § 11801(c)(22)(E)(i), substituted period for semicolon at end of par. (2) and struck out par. (3) which cross-referenced former chapter 37 relating to tax on sugar.
 
-Subsec. (b)(2), (3). Pub. L. 101–508, § 11801(c)(22)(E)(ii), substituted period for semicolon at end of par. (2) and struck out par. (3) which cross-referenced former section 6418(b) relating to the exportation of sugar to Puerto Rico.
+Subsec. (b)(2), (3). Pub. L. 101–508, § 11801(c)(22)(E)(ii), substituted period for semicolon at end of par. (2) and struck out par. (3) which cross-referenced former section 6418(b) relating to the exportation of sugar to Puerto Rico.
 
 1986—Subsec. (b). Pub. L. 99–514 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 

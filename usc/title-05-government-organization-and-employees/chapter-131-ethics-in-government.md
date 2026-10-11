@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Effect of References to Title 5 on Application of Ethics Provisions**
 
-Pub. L. 117–286, § 6, Dec. 27, 2022, 136 Stat. 4360, provided that: “A Federal statute providing that title 5 of the United States Code as a whole is inapplicable, or providing that an appointment may be made without regard to the provisions of title 5 governing appointment in the competitive service, shall not affect the application of any provision of chapter 131 of title 5, United States Code.”
+Pub. L. 117–286, § 6, Dec. 27, 2022, 136 Stat. 4360, provided that: “A Federal statute providing that title 5 of the United States Code as a whole is inapplicable, or providing that an appointment may be made without regard to the provisions of title 5 governing appointment in the competitive service, shall not affect the application of any provision of chapter 131 of title 5, United States Code.”
 
 **Rule of Construction**
 
-Pub. L. 112–105, § 10, Apr. 4, 2012, 126 Stat. 298, provided that:
+Pub. L. 112–105, § 10, Apr. 4, 2012, 126 Stat. 298, provided that:
 
 > “Nothing in this Act [see Tables for classification], the amendments made by this Act, or the interpretive guidance to be issued pursuant to sections 3 and 9[(a)] of this Act [set out below], shall be construed to—
 
@@ -37,11 +37,11 @@ Pub. L. 112–105, § 10, Apr. 4, 2012, 126 Stat. 298, provided that:
 
 **Prohibition of the Use of Nonpublic Information for Private Profit**
 
-Pub. L. 112–105, § 3, Apr. 4, 2012, 126 Stat. 292, provided that: “The Select Committee on Ethics of the Senate and the Committee on Ethics of the House of Representatives shall issue interpretive guidance of the relevant rules of each chamber, including rules on conflicts of interest and gifts, clarifying that a Member of Congress and an employee of Congress may not use nonpublic information derived from such person’s position as a Member of Congress or employee of Congress or gained from the performance of such person’s official responsibilities as a means for making a private profit.”
+Pub. L. 112–105, § 3, Apr. 4, 2012, 126 Stat. 292, provided that: “The Select Committee on Ethics of the Senate and the Committee on Ethics of the House of Representatives shall issue interpretive guidance of the relevant rules of each chamber, including rules on conflicts of interest and gifts, clarifying that a Member of Congress and an employee of Congress may not use nonpublic information derived from such person’s position as a Member of Congress or employee of Congress or gained from the performance of such person’s official responsibilities as a means for making a private profit.”
 
 [For definitions of terms used in section 3 of Pub. L. 112–105, set out above, see section 2 of Pub. L. 112–105, set out as a note under section 13101 of this title.]
 
-Pub. L. 112–105, § 9(a), Apr. 4, 2012, 126 Stat. 297, provided that:
+Pub. L. 112–105, § 9(a), Apr. 4, 2012, 126 Stat. 297, provided that:
 
 > **“(1) Executive branch employees.—** The Office of Government Ethics shall issue such interpretive guidance of the relevant Federal ethics statutes and regulations, including the Standards of Ethical Conduct for executive branch employees, related to use of nonpublic information, as necessary to clarify that no executive branch employee may use nonpublic information derived from such person’s position as an executive branch employee or gained from the performance of such person’s official responsibilities as a means for making a private profit.
 
@@ -53,7 +53,7 @@ Pub. L. 112–105, § 9(a), Apr. 4, 2012, 126 Stat. 297, provided that:
 
 ## SUBCHAPTER I—FINANCIAL DISCLOSURE REQUIREMENTS OF FEDERAL PERSONNEL
 
-### § 13101. Definitions
+### § 13101. Definitions
 
 In this subchapter:
 
@@ -155,13 +155,13 @@ In this subchapter:
 
 **(19) Value.—** The term “value” means a good faith estimate of the dollar value if the exact value is neither known nor easily obtainable by the reporting individual.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4266.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4266.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13101 | 5 U.S.C. App. (EGA § 109) | Pub. L. 95–521, title I, § 109, Oct. 26, 1978, 92 Stat. 1836; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1741; Pub. L. 101–280, § 3(1), (8), May 4, 1990, 104 Stat. 152, 155; Pub. L. 102–378, § 4(a)(2), Oct. 2, 1992, 106 Stat. 1357; Pub. L. 102–572, title IX, § 902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–160, div. A, title XI, § 1182(d)(3), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–337, div. A, title IX, § 924(d)(3), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 104–186, title II, § 216(2), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 105–368, title V, § 512(b)(1)(D), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–323, § 7, Sept. 22, 2008, 122 Stat. 3547; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537. |
+| 13101 | 5 U.S.C. App. (EGA § 109) | Pub. L. 95–521, title I, § 109, Oct. 26, 1978, 92 Stat. 1836; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1741; Pub. L. 101–280, § 3(1), (8), May 4, 1990, 104 Stat. 152, 155; Pub. L. 102–378, § 4(a)(2), Oct. 2, 1992, 106 Stat. 1357; Pub. L. 102–572, title IX, § 902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–160, div. A, title XI, § 1182(d)(3), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–337, div. A, title IX, § 924(d)(3), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 104–186, title II, § 216(2), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 105–368, title V, § 512(b)(1)(D), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–323, § 7, Sept. 22, 2008, 122 Stat. 3547; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537. |
 
 In paragraphs (1) and (18)(B), the words “Committee on Ethics of the House of Representatives” are substituted for “Committee on Standards of Official Conduct of the House of Representatives” because of House Resolution No. 5, 112th Congress, Jan. 5, 2011.
 
@@ -177,43 +177,43 @@ The General Schedule, referred to in pars. (9) and (13), is set out under sectio
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–125, § 1, May 13, 2022, 136 Stat. 1205, provided that: “This Act [see Tables for classification] may be cited as the ‘Courthouse Ethics and Transparency Act’.”
+Pub. L. 117–125, § 1, May 13, 2022, 136 Stat. 1205, provided that: “This Act [see Tables for classification] may be cited as the ‘Courthouse Ethics and Transparency Act’.”
 
 **Short Title of 2012 Act**
 
-Pub. L. 112–105, § 1, Apr. 4, 2012, 126 Stat. 291, as amended by Pub. L. 115–277, § 1(a), Nov. 3, 2018, 132 Stat. 4167, provided that: “This Act [see Tables for classification] may be cited as the ‘Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act’ or the ‘STOCK Act’.”
+Pub. L. 112–105, § 1, Apr. 4, 2012, 126 Stat. 291, as amended by Pub. L. 115–277, § 1(a), Nov. 3, 2018, 132 Stat. 4167, provided that: “This Act [see Tables for classification] may be cited as the ‘Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act’ or the ‘STOCK Act’.”
 
 **Short Title of 2007 Act**
 
-Pub. L. 110–24, § 1, May 3, 2007, 121 Stat. 100, provided that: “This Act [see Tables for classification] may be cited as the ‘Judicial Disclosure Responsibility Act’.”
+Pub. L. 110–24, § 1, May 3, 2007, 121 Stat. 100, provided that: “This Act [see Tables for classification] may be cited as the ‘Judicial Disclosure Responsibility Act’.”
 
 **Short Title of 2002 Act**
 
-Pub. L. 107–119, § 1, Jan. 15, 2002, 115 Stat. 2382, provided that: “This Act [see Tables for classification] may be cited as the ‘Office of Government Ethics Authorization Act of 2001’.”
+Pub. L. 107–119, § 1, Jan. 15, 2002, 115 Stat. 2382, provided that: “This Act [see Tables for classification] may be cited as the ‘Office of Government Ethics Authorization Act of 2001’.”
 
 **Short Title of 1996 Act**
 
-Pub. L. 104–179, § 1, Aug. 6, 1996, 110 Stat. 1566, provided that: “This Act [see Tables for classification] may be cited as the ‘Office of Government Ethics Authorization Act of 1996’.”
+Pub. L. 104–179, § 1, Aug. 6, 1996, 110 Stat. 1566, provided that: “This Act [see Tables for classification] may be cited as the ‘Office of Government Ethics Authorization Act of 1996’.”
 
 **Short Title of 1992 Act**
 
-Pub. L. 102–506, § 1, Oct. 24, 1992, 106 Stat. 3280, provided that: “This Act [see Tables for classification] may be cited as the ‘Office of Government Ethics Amendment of 1992’.”
+Pub. L. 102–506, § 1, Oct. 24, 1992, 106 Stat. 3280, provided that: “This Act [see Tables for classification] may be cited as the ‘Office of Government Ethics Amendment of 1992’.”
 
 **Short Title of 1990 Act**
 
-Pub. L. 101–334, § 1, July 16, 1990, 104 Stat. 318, provided that: “This Act [see Tables for classification] may be cited as the ‘Ethics in Government Act Amendment of 1990’.”
+Pub. L. 101–334, § 1, July 16, 1990, 104 Stat. 318, provided that: “This Act [see Tables for classification] may be cited as the ‘Ethics in Government Act Amendment of 1990’.”
 
 **Short Title of 1989 Act**
 
-Pub. L. 101–194, § 1, Nov. 30, 1989, 103 Stat. 1716, provided that: “This Act [see Tables for classification] may be cited as the ‘Ethics Reform Act of 1989’.”
+Pub. L. 101–194, § 1, Nov. 30, 1989, 103 Stat. 1716, provided that: “This Act [see Tables for classification] may be cited as the ‘Ethics Reform Act of 1989’.”
 
 **Short Title of 1978 Act**
 
-Pub. L. 95–521, § 1, Oct. 26, 1978, 92 Stat. 1824, provided: “That this Act [see Tables for classification] may be cited as the ‘Ethics in Government Act of 1978’.”
+Pub. L. 95–521, § 1, Oct. 26, 1978, 92 Stat. 1824, provided: “That this Act [see Tables for classification] may be cited as the ‘Ethics in Government Act of 1978’.”
 
 **Rulemaking Power of Congress**
 
-Pub. L. 102–90, title III, § 314(f), Aug. 14, 1991, 105 Stat. 470, provided that:
+Pub. L. 102–90, title III, § 314(f), Aug. 14, 1991, 105 Stat. 470, provided that:
 
 > “The provisions of this section [see Tables for classification] that are applicable to Members, officers, or employees of the legislative branch are enacted by the Congress—
 
@@ -221,7 +221,7 @@ Pub. L. 102–90, title III, § 314(f), Aug. 14, 1991, 105 Stat. 470, provided
 
 > **“(2)** with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House.”
 
-Pub. L. 101–194, title X, § 1001, Nov. 30, 1989, 103 Stat. 1781, provided that:
+Pub. L. 101–194, title X, § 1001, Nov. 30, 1989, 103 Stat. 1781, provided that:
 
 > “The provisions of this Act [see Tables for classification] that are applicable to Members, officers, or employees of the legislative branch are enacted by the Congress—
 
@@ -231,7 +231,7 @@ Pub. L. 101–194, title X, § 1001, Nov. 30, 1989, 103 Stat. 1781, provided t
 
 **Definitions**
 
-Pub. L. 112–105, § 2, Apr. 4, 2012, 126 Stat. 291, as amended by Pub. L. 117–286, § 4(c)(11), Dec. 27, 2022, 136 Stat. 4354, provided that:
+Pub. L. 112–105, § 2, Apr. 4, 2012, 126 Stat. 291, as amended by Pub. L. 117–286, § 4(c)(11), Dec. 27, 2022, 136 Stat. 4354, provided that:
 
 > “In this Act [see Tables for classification]:
 
@@ -261,9 +261,9 @@ Pub. L. 112–105, § 2, Apr. 4, 2012, 126 Stat. 291, as amended by Pub. L. 11
 
 > **“(6) Supervising ethics office.—** The term ‘supervising ethics office’ has the meaning given that term in section 13101(18) of title 5, United States Code.”
 
-[Pub. L. 117–286, § 4(c)(11), which directed amendment of section 2 of the “Stop Trading on Congressional Knowledge Act of 2012 (Public Law 112–105, 126 Stat. 291, 5 U.S.C. App. 101 note)”, was executed to section 2 of Pub. L. 112–105, set out above, known as the “Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act” or the “STOCK Act”, to reflect the probable intent of Congress.]
+[Pub. L. 117–286, § 4(c)(11), which directed amendment of section 2 of the “Stop Trading on Congressional Knowledge Act of 2012 (Public Law 112–105, 126 Stat. 291, 5 U.S.C. App. 101 note)”, was executed to section 2 of Pub. L. 112–105, set out above, known as the “Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act” or the “STOCK Act”, to reflect the probable intent of Congress.]
 
-### § 13102. Administration of provisions
+### § 13102. Administration of provisions
 
 **(a) In General.—** The provisions of this subchapter shall be administered by—
 
@@ -275,13 +275,13 @@ Pub. L. 112–105, § 2, Apr. 4, 2012, 126 Stat. 291, as amended by Pub. L. 11
 
 **(b) Delegation by Judicial Conference.—** The Judicial Conference may delegate any authority it has under this subchapter to an ethics committee established by the Judicial Conference.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4270.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4270.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13102 | 5 U.S.C. App. (EGA § 111) | Pub. L. 95–521, title I, § 111, as added Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1744; amended Pub. L. 101–280, § 3(1), (9), May 4, 1990, 104 Stat. 152, 157. |
+| 13102 | 5 U.S.C. App. (EGA § 111) | Pub. L. 95–521, title I, § 111, as added Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1744; amended Pub. L. 101–280, § 3(1), (9), May 4, 1990, 104 Stat. 152, 157. |
 
 In subsection (a)(2), the words “Committee on Ethics of the House of Representatives” are substituted for “Committee on Standards of Official Conduct of the House of Representatives” because of House Resolution No. 5, 112th Congress, January 5, 2011.
 
@@ -289,7 +289,7 @@ In subsection (a)(2), the words “Committee on Ethics of the House of Represent
 
 **Transmittal of Financial Disclosure Reports**
 
-Pub. L. 101–194, title IX, § 902, Nov. 30, 1989, 103 Stat. 1780, as amended by Pub. L. 117–286, § 4(c)(17), Dec. 27, 2022, 136 Stat. 4356, provided that:
+Pub. L. 101–194, title IX, § 902, Nov. 30, 1989, 103 Stat. 1780, as amended by Pub. L. 117–286, § 4(c)(17), Dec. 27, 2022, 136 Stat. 4356, provided that:
 
 > **“(a)** The Select Committee on Ethics shall transmit a copy of each report filed with it under subchapter I of chapter 131 of title 5, United States Code, (other than a report filed by a Member of Congress) to the head of the employing office of the individual filing the report.
 
@@ -303,7 +303,7 @@ Pub. L. 101–194, title IX, § 902, Nov. 30, 1989, 103 Stat. 1780, as amended
 
 > **“(D)** in the case of any other employee of the legislative branch, the head of the office in which such individual serves.”
 
-### § 13103. Persons required to file
+### § 13103. Persons required to file
 
 **(a) Reports Filed Upon Entering a Filing Position.—** Within 30 days of assuming the position of an officer or employee described in subsection (f), an individual shall file a report containing the information described in section 13104(b) of this title unless the individual has left another position described in subsection (f) within 30 days prior to assuming such new position or has already filed a report under this subchapter with respect to nomination for the new position or as a candidate for the position.
 
@@ -383,13 +383,13 @@ it is unlikely that the individual’s outside employment or financial interests
 
 public financial disclosure by such individual is not necessary in the circumstances.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4270.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4270.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13103 | 5 U.S.C. App. (EGA § 101) | Pub. L. 95–521, title I, § 101, Oct. 26, 1978, 92 Stat. 1824; Pub. L. 96–19, §§ 2(a)(1), (b), (c)(1), 4(b)(1), (d)–(f), 5, June 13, 1979, 93 Stat. 37, 38, 40; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1725; Pub. L. 101–280, § 3(1), (2), May 4, 1990, 104 Stat. 152; Pub. L. 102–25, title VI, § 605(a), Apr. 6, 1991, 105 Stat. 110; Pub. L. 102–378, § 4(a)(1), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 109–435, title VI, § 604(c), Dec. 20, 2006, 120 Stat. 3241. |
+| 13103 | 5 U.S.C. App. (EGA § 101) | Pub. L. 95–521, title I, § 101, Oct. 26, 1978, 92 Stat. 1824; Pub. L. 96–19, §§ 2(a)(1), (b), (c)(1), 4(b)(1), (d)–(f), 5, June 13, 1979, 93 Stat. 37, 38, 40; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1725; Pub. L. 101–280, § 3(1), (2), May 4, 1990, 104 Stat. 152; Pub. L. 102–25, title VI, § 605(a), Apr. 6, 1991, 105 Stat. 110; Pub. L. 102–378, § 4(a)(1), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 109–435, title VI, § 604(c), Dec. 20, 2006, 120 Stat. 3241. |
 
 In subsection (c), the words “section 301 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101)” are substituted for “section 301 of the Federal Campaign Act of 1971” for clarity and to correct an error in the law.
 
@@ -405,17 +405,17 @@ The General Schedule, referred to in subsec. (f)(3), (6), is set out under secti
 
 **Post-Employment Negotiation Restrictions**
 
-Pub. L. 112–105, § 17, Apr. 4, 2012, 126 Stat. 303, as amended by Pub. L. 117–286, § 4(c)(12), Dec. 27, 2022, 136 Stat. 4354, provided that:
+Pub. L. 112–105, § 17, Apr. 4, 2012, 126 Stat. 303, as amended by Pub. L. 117–286, § 4(c)(12), Dec. 27, 2022, 136 Stat. 4354, provided that:
 
 > **“(a) Restriction Extended to Executive and Judicial Branches.—** Notwithstanding any other provision of law, an individual required to file a financial disclosure report under section 13103 of title 5, United States Code, may not directly negotiate or have any agreement of future employment or compensation unless such individual, within 3 business days after the commencement of such negotiation or agreement of future employment or compensation, files with the individual’s supervising ethics office a statement, signed by such individual, regarding such negotiations or agreement, including the name of the private entity or entities involved in such negotiations or agreement, and the date such negotiations or agreement commenced.
 
 > **“(b) Recusal.—** An individual filing a statement under subsection (a) shall recuse himself or herself whenever there is a conflict of interest, or appearance of a conflict of interest, for such individual with respect to the subject matter of the statement, and shall notify the individual’s supervising ethics office of such recusal. An individual making such recusal shall, upon such recusal, submit to the supervising ethics office the statement under subsection (a) with respect to which the recusal was made.”
 
-[Pub. L. 117–286, § 4(c)(12), which directed amendment of section 17(a) of the “Stop Trading on Congressional Knowledge Act of 2012 (Public Law 112–105, 126 Stat. 303, 5 U.S.C. App. 101 note)”, was executed to section 17(a) of Pub. L. 112–105, set out above, known as the “Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act” or the “STOCK Act”, to reflect the probable intent of Congress.]
+[Pub. L. 117–286, § 4(c)(12), which directed amendment of section 17(a) of the “Stop Trading on Congressional Knowledge Act of 2012 (Public Law 112–105, 126 Stat. 303, 5 U.S.C. App. 101 note)”, was executed to section 17(a) of Pub. L. 112–105, set out above, known as the “Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act” or the “STOCK Act”, to reflect the probable intent of Congress.]
 
 [For definition of “supervising ethics office” as used in section 17 of Pub. L. 112–105, set out above, see section 2 of Pub. L. 112–105, set out as a note under section 13101 of this title.]
 
-### § 13104. Contents of reports
+### § 13104. Contents of reports
 
 **(a) Annual and Termination Reports.—** Each report filed pursuant to section 13103(d) and (e) of this title shall include a full and complete statement with respect to the following:
 
@@ -653,9 +653,9 @@ but such individual shall report the category of the amount of income received b
 
 **(II)** none of the assets consist of securities of entities having substantial activities in the area of the reporting individual’s primary area of responsibility;
 
-**(III)** the trust instrument prohibits the trustee, notwithstanding the provisions of paragraphs 1
+**(III)** the trust instrument prohibits the trustee, notwithstanding the provisions of paragraphs 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph”.
+<sup>1</sup> So in original. Probably should be “paragraph”.
 
 (3)(C)(iii) and (iv) of this subsection, from making public or informing any interested party of the sale of any securities;
 
@@ -743,17 +743,17 @@ This subparagraph shall not apply with respect to a trust meeting the requiremen
 
 **(2)** benefits received under the Social Security Act (42 U.S.C. 301 et seq.).
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4273; Pub. L. 119–27, § 19, July 18, 2025, 139 Stat. 466.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4273; Pub. L. 119–27, § 19, July 18, 2025, 139 Stat. 466.)
 
 **Amendment of Subsection (a)(3)**
 
-Pub. L. 119–27, §§ 19, 20, July 18, 2025, 139 Stat. 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, subsection (a)(3) of this section is amended in the first sentence by striking “, or any deposits” and inserting “, any payment stablecoins issued by a permitted payment stablecoin issuer aggregating $5,000 or less held, or any deposits”. See 2025 Amendment note below.
+Pub. L. 119–27, §§ 19, 20, July 18, 2025, 139 Stat. 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, subsection (a)(3) of this section is amended in the first sentence by striking “, or any deposits” and inserting “, any payment stablecoins issued by a permitted payment stablecoin issuer aggregating $5,000 or less held, or any deposits”. See 2025 Amendment note below.
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13104 | 5 U.S.C. App. (EGA § 102) | Pub. L. 95–521, title I, § 102, Oct. 26, 1978, 92 Stat. 1825; Pub. L. 96–19, §§ 3(a)(1), (b), 6(a), 7(a)–(d)(1), (f), 9(b), (c)(1), (j), June 13, 1979, 93 Stat. 39–43; Pub. L. 97–51, § 130(b), Oct. 1, 1981, 95 Stat. 966; Pub. L. 98–150, § 10, Nov. 11, 1983, 97 Stat. 962; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1727; Pub. L. 101–280, § 3(3), May 4, 1990, 104 Stat. 152; Pub. L. 102–90, title III, § 314(a), Aug. 14, 1991, 105 Stat. 469; Pub. L. 104–65, §§ 20, 22(a), (b), Dec. 19, 1995, 109 Stat. 704, 705; Pub. L. 112–105, § 13(a), Apr. 4, 2012, 126 Stat. 300. |
+| 13104 | 5 U.S.C. App. (EGA § 102) | Pub. L. 95–521, title I, § 102, Oct. 26, 1978, 92 Stat. 1825; Pub. L. 96–19, §§ 3(a)(1), (b), 6(a), 7(a)–(d)(1), (f), 9(b), (c)(1), (j), June 13, 1979, 93 Stat. 39–43; Pub. L. 97–51, § 130(b), Oct. 1, 1981, 95 Stat. 966; Pub. L. 98–150, § 10, Nov. 11, 1983, 97 Stat. 962; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1727; Pub. L. 101–280, § 3(3), May 4, 1990, 104 Stat. 152; Pub. L. 102–90, title III, § 314(a), Aug. 14, 1991, 105 Stat. 469; Pub. L. 104–65, §§ 20, 22(a), (b), Dec. 19, 1995, 109 Stat. 704, 705; Pub. L. 112–105, § 13(a), Apr. 4, 2012, 126 Stat. 300. |
 
 In subsection (a)(4)(A), in clause (ii)(II) and clause (iii)(II), the words “special Government employee” are substituted for “special government employee” to correct errors in the law.
 
@@ -773,11 +773,11 @@ For the effective date of title II of the Ethics Reform Act of 1989, referred to
 
 The effective date of this Act, referred to in subsec. (f)(4)(B)(i)(V), probably means the effective date of title II of the Ethics Reform Act of 1989, which generally amended title I of Pub. L. 95–521, prior to repeal and restatement as this subchapter. See note above.
 
-The Social Security Act, referred to in subsec. (i)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (i)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-2025—Subsec. (a)(3). Pub. L. 119–27 substituted “, any payment stablecoins issued by a permitted payment stablecoin issuer aggregating $5,000 or less held, or any deposits” for “, or any deposits”.
+2025—Subsec. (a)(3). Pub. L. 119–27 substituted “, any payment stablecoins issued by a permitted payment stablecoin issuer aggregating $5,000 or less held, or any deposits” for “, or any deposits”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -787,13 +787,13 @@ Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 mo
 
 **Effective Date of 1995 Amendment**
 
-Pub. L. 104–65, § 22(c), Dec. 19, 1995, 109 Stat. 705, as amended by Pub. L. 117–286, § 4(c)(13), Dec. 27, 2022, 136 Stat. 4354, provided that the amendments made by section 22 of Pub. L. 104–65 (amending section 102 of Pub. L. 95–521, which was restated as this section) applied with respect to reports filed under this subchapter for calendar year 1996 and thereafter.
+Pub. L. 104–65, § 22(c), Dec. 19, 1995, 109 Stat. 705, as amended by Pub. L. 117–286, § 4(c)(13), Dec. 27, 2022, 136 Stat. 4354, provided that the amendments made by section 22 of Pub. L. 104–65 (amending section 102 of Pub. L. 95–521, which was restated as this section) applied with respect to reports filed under this subchapter for calendar year 1996 and thereafter.
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–194, title II, § 204, as added by Pub. L. 101–280, § 3(10)(B), May 4, 1990, 104 Stat. 157, provided that: “The amendments made by this title [see Tables for classification] and the repeal made by section 201 [repealing sections 201 to 212 of Pub. L. 95–521, formerly set out under the heading Executive Personnel Financial Disclosure Requirements in the Appendix to this title, and sections 301 to 309 of Pub. L. 95–521, formerly set out under the heading Judicial Personnel Financial Disclosure Requirements in the Appendix to Title 28, Judiciary and Judicial Procedure] shall take effect on January 1, 1991, except that the provisions of section 102(f)(4)(B) of the Ethics in Government Act of 1978 [section 102(f)(4)(B) of Pub. L. 95–521, restated as subsec. (f)(4)(B) of this section], as amended by this title, shall be effective as of January 1, 1990.”
+Pub. L. 101–194, title II, § 204, as added by Pub. L. 101–280, § 3(10)(B), May 4, 1990, 104 Stat. 157, provided that: “The amendments made by this title [see Tables for classification] and the repeal made by section 201 [repealing sections 201 to 212 of Pub. L. 95–521, formerly set out under the heading Executive Personnel Financial Disclosure Requirements in the Appendix to this title, and sections 301 to 309 of Pub. L. 95–521, formerly set out under the heading Judicial Personnel Financial Disclosure Requirements in the Appendix to Title 28, Judiciary and Judicial Procedure] shall take effect on January 1, 1991, except that the provisions of section 102(f)(4)(B) of the Ethics in Government Act of 1978 [section 102(f)(4)(B) of Pub. L. 95–521, restated as subsec. (f)(4)(B) of this section], as amended by this title, shall be effective as of January 1, 1990.”
 
-### § 13105. Filing of reports
+### § 13105. Filing of reports
 
 **(a) Reports Filed With Designated Agency Ethics Official.—** Except as otherwise provided in this section, the reports required under this subchapter shall be filed by the reporting individual with the designated agency ethics official at the agency by which the reporting individual is employed (or in the case of an individual described in section 13103(e) of this title, was employed) or in which the individual will serve. The date any report is received (and the date of receipt of any supplemental report) shall be noted on such report by the designated agency ethics official.
 
@@ -845,9 +845,9 @@ Pub. L. 101–194, title II, § 204, as added by Pub. L. 101–280, § 3(10)
 
 **(k) Assistance of Federal Election Commission.—** In carrying out their responsibilities under this subchapter with respect to candidates for office, the Clerk of the House of Representatives and the Secretary of the Senate shall avail themselves of the assistance of the Federal Election Commission. The Commission shall make available to the Clerk and the Secretary on a regular basis a complete list of names and addresses of all candidates registered with the Commission, and shall cooperate and coordinate its candidate information and notification program with the Clerk and the Secretary to the greatest extent possible.
 
-**(l) Periodic Transaction Reports.—** Not later than 30 days after receiving notification of any transaction required to be reported under section 13104(a)(5)(B 1
+**(l) Periodic Transaction Reports.—** Not later than 30 days after receiving notification of any transaction required to be reported under section 13104(a)(5)(B 1
 
-<sup>1</sup>  So in original. A closing parenthesis probably should follow “B”.
+<sup>1</sup> So in original. A closing parenthesis probably should follow “B”.
 
 of this title, but in no case later than 45 days after such transaction, the following persons, if required to file a report under any subsection of section 13103 of this title, subject to any waivers and exclusions, shall file a report of the transaction:
 
@@ -871,15 +871,15 @@ of this title, but in no case later than 45 days after such transaction, the fol
 
 **(10)** An officer or employee of the Congress, as defined under section 13101 of this title.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4285.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4285.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 103 of the Ethics in Government Act of 1978, Pub. L. 95–521, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 103 of Pub. L. 95–521 was amended by Pub. L. 117–125, § 2(a)(1), (c)(1), May 13, 2022, 136 Stat. 1205, 1206, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4285, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Subsection (l) of section 103 of Pub. L. 95–521 was amended as follows:
+This section was derived from section 103 of the Ethics in Government Act of 1978, Pub. L. 95–521, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 103 of Pub. L. 95–521 was amended by Pub. L. 117–125, § 2(a)(1), (c)(1), May 13, 2022, 136 Stat. 1205, 1206, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4285, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Subsection (l) of section 103 of Pub. L. 95–521 was amended as follows:
 
-(1) in paragraph (9), by striking “, as defined under section 109(12)”;
+(1) in paragraph (9), by striking “, as defined under section 109(12)”;
 
-(2) in paragraph (10), by striking “, as defined under section 109(13)”; and
+(2) in paragraph (10), by striking “, as defined under section 109(13)”; and
 
 (3) by adding at the end the following:
 
@@ -895,7 +895,7 @@ The references to sections “109(12)” and “109(13)” in the quoted text di
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13105 | 5 U.S.C. App. (EGA § 103) | Pub. L. 95–521, title I, § 103, Oct. 26, 1978, 92 Stat. 1831; Pub. L. 96–19, §§ 4(b)(2), 9(a), June 13, 1979, 93 Stat. 40, 42; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1736; Pub. L. 101–280, § 3(1), (4), May 4, 1990, 104 Stat. 152, 153; Pub. L. 102–90, title III, § 313(1), Aug. 14, 1991, 105 Stat. 469; Pub. L. 104–186, title II, § 216(1), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–55, title I, § 1003(a), Aug. 2, 2005, 119 Stat. 572; Pub. L. 112–105, §§ 6(a), 19(a), Apr. 4, 2012, 126 Stat. 293, 304; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–277, § 1(b), Nov. 3, 2018, 132 Stat. 4167. |
+| 13105 | 5 U.S.C. App. (EGA § 103) | Pub. L. 95–521, title I, § 103, Oct. 26, 1978, 92 Stat. 1831; Pub. L. 96–19, §§ 4(b)(2), 9(a), June 13, 1979, 93 Stat. 40, 42; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1736; Pub. L. 101–280, § 3(1), (4), May 4, 1990, 104 Stat. 152, 153; Pub. L. 102–90, title III, § 313(1), Aug. 14, 1991, 105 Stat. 469; Pub. L. 104–186, title II, § 216(1), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–55, title I, § 1003(a), Aug. 2, 2005, 119 Stat. 572; Pub. L. 112–105, §§ 6(a), 19(a), Apr. 4, 2012, 126 Stat. 293, 304; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–277, § 1(b), Nov. 3, 2018, 132 Stat. 4167. |
 
 In subsection (h)(1)(A)(ii), the date “November 30, 1989” is substituted for “the date of the enactment of the Ethics Reform Act of 1989” to reflect the date of enactment of the Ethics Reform Act of 1989 (Public Law 101–194, 103 Stat. 1716).
 
@@ -917,29 +917,29 @@ The General Schedule, referred to in subsec. (*l*)(3), (6), is set out under sec
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–125, § 2(a)(2), May 13, 2022, 136 Stat. 1205, provided that: “The amendment made by paragraph (1) [enacting subsec. (*l*)(11) to (13) of section 103 of Pub. L. 95–521, see Amendments Not Shown in Text note above] shall apply to applicable transactions occurring on or after the date that is 90 days after the date of enactment of this Act [May 13, 2022].”
+Pub. L. 117–125, § 2(a)(2), May 13, 2022, 136 Stat. 1205, provided that: “The amendment made by paragraph (1) [enacting subsec. (*l*)(11) to (13) of section 103 of Pub. L. 95–521, see Amendments Not Shown in Text note above] shall apply to applicable transactions occurring on or after the date that is 90 days after the date of enactment of this Act [May 13, 2022].”
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–55, title I, § 1003(b), Aug. 2, 2005, 119 Stat. 572, as amended by Pub. L. 117–286, § 4(c)(14), Dec. 27, 2022, 136 Stat. 4355, provided that the amendment made by subsection (a) (amending section 103 of Pub. L. 95–521, restated as this section) applied with respect to reports filed under this chapter for calendar year 2005 and each succeeding calendar year.
+Pub. L. 109–55, title I, § 1003(b), Aug. 2, 2005, 119 Stat. 572, as amended by Pub. L. 117–286, § 4(c)(14), Dec. 27, 2022, 136 Stat. 4355, provided that the amendment made by subsection (a) (amending section 103 of Pub. L. 95–521, restated as this section) applied with respect to reports filed under this chapter for calendar year 2005 and each succeeding calendar year.
 
 **Implementation of PTR Requirements Under STOCK Act**
 
-Pub. L. 112–173, § 2, Aug. 16, 2012, 126 Stat. 1310, as amended by Pub. L. 112–178, § 3(a), Sept. 28, 2012, 126 Stat. 1409, provided that: “Effective January 1, 2013, for purposes of implementing subsection (*l*) of [former] section 103 of the Ethics in Government Act of 1978 (as added by section 6 of the STOCK Act, Public Law 112–105) [see 5 U.S.C. 13105(*l*)], section 102(e) of such Act ([former] 5 U.S.C. App. 102(e)) [see 5 U.S.C. 13104(e)] shall apply as if the report under such subsection (*l*) were a report under section 101 of such Act ([former] 5 U.S.C. App. 101) [see 5 U.S.C. 13103] but only with respect to the transaction information required under such subsection (*l*).”
+Pub. L. 112–173, § 2, Aug. 16, 2012, 126 Stat. 1310, as amended by Pub. L. 112–178, § 3(a), Sept. 28, 2012, 126 Stat. 1409, provided that: “Effective January 1, 2013, for purposes of implementing subsection (*l*) of [former] section 103 of the Ethics in Government Act of 1978 (as added by section 6 of the STOCK Act, Public Law 112–105) [see 5 U.S.C. 13105(*l*)], section 102(e) of such Act ([former] 5 U.S.C. App. 102(e)) [see 5 U.S.C. 13104(e)] shall apply as if the report under such subsection (*l*) were a report under section 101 of such Act ([former] 5 U.S.C. App. 101) [see 5 U.S.C. 13103] but only with respect to the transaction information required under such subsection (*l*).”
 
-[Pub. L. 112–178, § 3(b), Sept. 28, 2012, 126 Stat. 1409, provided that:
+[Pub. L. 112–178, § 3(b), Sept. 28, 2012, 126 Stat. 1409, provided that:
 
 [“(1) Effective date.—The amendments made by subsection (a) [amending section 2 of Pub. L. 112–173, set out above] shall take effect on January 1, 2013.
 
 [“(2) Rule of construction.—Before January 1, 2013, the amendments made by subsection (a) shall not affect the applicability of section 2 of the Act entitled ‘An Act to prevent harm to the national security or endangering the military officers and civilian employees to whom internet publication of certain information applies, and for other purposes’, approved August 16, 2012 [Pub. L. 112–173] (5 U.S.C. App. 103 note) [now 5 U.S.C. 13105 note], as in effect on the day before the effective date under paragraph (1).”]
 
-[Pub. L. 112–178, § 3(c), Sept. 28, 2012, 126 Stat. 1410, provided that: “Nothing in the amendments made by subsection (a) [amending section 2 of Pub. L. 112–173, set out above] shall be construed as affecting any requirement with respect to the House of Representatives or the executive branch in effect before January 1, 2013, with respect to the inclusion of transaction information for a report under section 103(*l*) of the Ethics in Government Act of 1978 ([former] 5 U.S.C. App. 103(*l*)) [see 5 U.S.C. 13105(*l*)].” ]
+[Pub. L. 112–178, § 3(c), Sept. 28, 2012, 126 Stat. 1410, provided that: “Nothing in the amendments made by subsection (a) [amending section 2 of Pub. L. 112–173, set out above] shall be construed as affecting any requirement with respect to the House of Representatives or the executive branch in effect before January 1, 2013, with respect to the inclusion of transaction information for a report under section 103(*l*) of the Ethics in Government Act of 1978 ([former] 5 U.S.C. App. 103(*l*)) [see 5 U.S.C. 13105(*l*)].” ]
 
-[Pub. L. 112–178, § 3(d), Sept. 28, 2012, 126 Stat. 1410, provided that: “Nothing in this section [enacting and amending provisions set out as notes above] or the amendments made [by] this section shall be construed as affecting the requirement that took effect with respect to the Senate on July 3, 2012, which mandates the inclusion of transaction information for spouses and dependent children for a report under section 103(*l*) of the Ethics in Government Act of 1978 ([former] 5 U.S.C. App. 103(*l*)) [see 5 U.S.C. 13105(*l*)].” ]
+[Pub. L. 112–178, § 3(d), Sept. 28, 2012, 126 Stat. 1410, provided that: “Nothing in this section [enacting and amending provisions set out as notes above] or the amendments made [by] this section shall be construed as affecting the requirement that took effect with respect to the Senate on July 3, 2012, which mandates the inclusion of transaction information for spouses and dependent children for a report under section 103(*l*) of the Ethics in Government Act of 1978 ([former] 5 U.S.C. App. 103(*l*)) [see 5 U.S.C. 13105(*l*)].” ]
 
 **Transaction Reporting Requirements**
 
-Pub. L. 112–105, § 14, Apr. 4, 2012, 126 Stat. 300, provided that:
+Pub. L. 112–105, § 14, Apr. 4, 2012, 126 Stat. 300, provided that:
 
 > “The transaction reporting requirements established by [former] section 103(*l*) of the Ethics in Government Act of 1978 [see 5 U.S.C. 13105(*l*)], as added by section 6 of this Act, shall not be construed to apply to a widely held investment fund (whether such fund is a mutual fund, regulated investment company, pension or deferred compensation plan, or other investment fund), if—
 
@@ -951,7 +951,7 @@ Pub. L. 112–105, § 14, Apr. 4, 2012, 126 Stat. 300, provided that:
 
 > **“(2)** the reporting individual neither exercises control over nor has the ability to exercise control over the financial interests held by the fund.”
 
-### § 13106. Failure to file or filing false reports
+### § 13106. Failure to file or filing false reports
 
 **(a) Violation.—**
 
@@ -987,17 +987,17 @@ shall, at the direction of and pursuant to regulations issued by the supervising
 
 **(2) Waiver.—** The supervising ethics office may waive the filing fee under this subsection in extraordinary circumstances.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4288.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4288.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13106 | 5 U.S.C. App. (EGA § 104) | Pub. L. 95–521, title I, § 104, Oct. 26, 1978, 92 Stat. 1832; Pub. L. 96–19, § 8(a), June 13, 1979, 93 Stat. 41; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1737; Pub. L. 101–280, § 3(1), (5), May 4, 1990, 104 Stat. 152, 154; Pub. L. 101–650, title IV, § 405, Dec. 1, 1990, 104 Stat. 5124; Pub. L. 110–81, title VII, § 702, Sept. 14, 2007, 121 Stat. 775. |
+| 13106 | 5 U.S.C. App. (EGA § 104) | Pub. L. 95–521, title I, § 104, Oct. 26, 1978, 92 Stat. 1832; Pub. L. 96–19, § 8(a), June 13, 1979, 93 Stat. 41; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1737; Pub. L. 101–280, § 3(1), (5), May 4, 1990, 104 Stat. 152, 154; Pub. L. 101–650, title IV, § 405, Dec. 1, 1990, 104 Stat. 5124; Pub. L. 110–81, title VII, § 702, Sept. 14, 2007, 121 Stat. 775. |
 
 In subsection (d)(1) (matter after subparagraph (B)), the extra period at the end is removed to correct an error in the law. The extra period resulted from an amendment to the source law made by section 3(5)(B) of Public Law 101–280 (104 Stat. 154).
 
-### § 13107. Custody of and public access to reports
+### § 13107. Custody of and public access to reports
 
 **(a) Availability of Reports to Public.—** Each agency, each supervising ethics office in the executive or judicial branch, the Clerk of the House of Representatives, and the Secretary of the Senate shall make available to the public, in accordance with subsection (b), each report filed under this subchapter with such agency or office or with the Clerk or the Secretary of the Senate, except that—
 
@@ -1075,11 +1075,11 @@ Any such application shall be made available to the public throughout the period
 
 **(3) Destruction of reports.—** After the relevant time period identified under paragraph (2), the report shall be destroyed unless needed in an ongoing investigation, except that in the case of an individual who filed the report pursuant to section 13103(b) of this title and was not subsequently confirmed by the Senate, or who filed the report pursuant to section 13103(c) of this title and was not subsequently elected, such reports shall be destroyed 1 year after the individual either is no longer under consideration by the Senate or is no longer a candidate for nomination or election to the Office of President, Vice President, or as a Member of Congress, unless needed in an ongoing investigation or inquiry.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4289.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4289.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 105 of the Ethics in Government Act of 1978, Pub. L. 95–521, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 105 of Pub. L. 95–521 was amended by Pub. L. 117–125, § 2(b), (c)(2), May 13, 2022, 136 Stat. 1205, 1206, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4289, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 105 of Pub. L. 95–521 was amended as follows:
+This section was derived from section 105 of the Ethics in Government Act of 1978, Pub. L. 95–521, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 105 of Pub. L. 95–521 was amended by Pub. L. 117–125, § 2(b), (c)(2), May 13, 2022, 136 Stat. 1205, 1206, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4289, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Section 105 of Pub. L. 95–521 was amended as follows:
 
 (1) in subsection (a)(1), by striking “be revealing” and inserting “by revealing”;
 
@@ -1113,7 +1113,7 @@ The date of enactment of the Courthouse Ethics and Transparency Act, referred to
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13107 | 5 U.S.C. App. (EGA § 105) | Pub. L. 95–521, title I, § 105, Oct. 26, 1978, 92 Stat. 1833; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1737; Pub. L. 101–280, § 3(6), May 4, 1990, 104 Stat. 154; Pub. L. 102–90, title III, § 313(2), Aug. 14, 1991, 105 Stat. 469; Pub. L. 103–359, title V, § 501(m), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, § 1122(b)(2), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 105–318, § 7, Oct. 30, 1998, 112 Stat. 3011; Pub. L. 107–126, Jan. 16, 2002, 115 Stat. 2404; Pub. L. 108–458, title I, § 1079(c), Dec. 17, 2004, 118 Stat. 3696; Pub. L. 110–24, §§ 2, 3, May 3, 2007, 121 Stat. 100; Pub. L. 110–177, title I, § 104, Jan. 7, 2008, 121 Stat. 2535; Pub. L. 110–417, [div. A], title IX, § 931(b)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–84, § 1, Jan. 3, 2012, 125 Stat. 1870; Pub. L. 112–105, § 8(c), Apr. 4, 2012, 126 Stat. 296; Pub. L. 115–141, div. M, title VI, § 601, Mar. 23, 2018, 132 Stat. 1051. |
+| 13107 | 5 U.S.C. App. (EGA § 105) | Pub. L. 95–521, title I, § 105, Oct. 26, 1978, 92 Stat. 1833; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1737; Pub. L. 101–280, § 3(6), May 4, 1990, 104 Stat. 154; Pub. L. 102–90, title III, § 313(2), Aug. 14, 1991, 105 Stat. 469; Pub. L. 103–359, title V, § 501(m), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, § 1122(b)(2), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 105–318, § 7, Oct. 30, 1998, 112 Stat. 3011; Pub. L. 107–126, Jan. 16, 2002, 115 Stat. 2404; Pub. L. 108–458, title I, § 1079(c), Dec. 17, 2004, 118 Stat. 3696; Pub. L. 110–24, §§ 2, 3, May 3, 2007, 121 Stat. 100; Pub. L. 110–177, title I, § 104, Jan. 7, 2008, 121 Stat. 2535; Pub. L. 110–417, [div. A], title IX, § 931(b)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–84, § 1, Jan. 3, 2012, 125 Stat. 1870; Pub. L. 112–105, § 8(c), Apr. 4, 2012, 126 Stat. 296; Pub. L. 115–141, div. M, title VI, § 601, Mar. 23, 2018, 132 Stat. 1051. |
 
 In subsection (a)(1), the word “by” is substituted for “be” to correct an error in the law. The change appears in the phrase “public disclosure of such report would, by [be] revealing the identity of the individual or other sensitive information, compromise the national interest of the United States”.
 
@@ -1127,7 +1127,7 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 **Public, Online Disclosure of Financial Disclosure Forms**
 
-Pub. L. 113–7, § 1(a)(1), (2), Apr. 15, 2013, 127 Stat. 438, provided that:
+Pub. L. 113–7, § 1(a)(1), (2), Apr. 15, 2013, 127 Stat. 438, provided that:
 
 > **“(1) In general.—** Except with respect to financial disclosure forms filed by officers and employees referred to in paragraph (2), section 8(a) and section 11(a) of the STOCK Act [Pub. L. 112–105] (5 U.S.C. App. 105 note[s]) [now 5 U.S.C. 13107 notes, set out below] shall not be effective.
 
@@ -1145,7 +1145,7 @@ Pub. L. 113–7, § 1(a)(1), (2), Apr. 15, 2013, 127 Stat. 438, provided that:
 
 **Public Filing and Disclosure of Financial Disclosure Forms of Members of Congress and Congressional Staff**
 
-Pub. L. 112–105, § 8(a), (b), Apr. 4, 2012, 126 Stat. 295, as amended by Pub. L. 112–173, § 1(1), Aug. 16, 2012, 126 Stat. 1310; Pub. L. 113–7, § 1(b)(1), Apr. 15, 2013, 127 Stat. 438; Pub. L. 117–286, § 4(c)(15), Dec. 27, 2022, 136 Stat. 4355, provided that:
+Pub. L. 112–105, § 8(a), (b), Apr. 4, 2012, 126 Stat. 295, as amended by Pub. L. 112–173, § 1(1), Aug. 16, 2012, 126 Stat. 1310; Pub. L. 113–7, § 1(b)(1), Apr. 15, 2013, 127 Stat. 438; Pub. L. 117–286, § 4(c)(15), Dec. 27, 2022, 136 Stat. 4355, provided that:
 
 > **“(a) Public, Online Disclosure of Financial Disclosure Forms of Members of Congress and Congressional Staff.—**
 
@@ -1183,13 +1183,13 @@ Pub. L. 112–105, § 8(a), (b), Apr. 4, 2012, 126 Stat. 295, as amended by Pu
 
 > **“(6) Additional time.—** The requirements of this subsection may be implemented after the date provided in paragraph (1) if the Secretary of the Senate or the Clerk of the House of Representatives identifies in writing to relevant congressional committees the additional time needed for such implementation.”
 
-[Pub. L. 117–286, § 4(c)(15), which directed amendment of section 8 of the “Stop Trading on Congressional Knowledge Act of 2012 (Public Law 112–105, 126 Stat. 295, 5 U.S.C. App. 105 note)”, was executed to section 8 of Pub. L. 112–105, set out above, known as the “Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act” or the “STOCK Act”, to reflect the probable intent of Congress.]
+[Pub. L. 117–286, § 4(c)(15), which directed amendment of section 8 of the “Stop Trading on Congressional Knowledge Act of 2012 (Public Law 112–105, 126 Stat. 295, 5 U.S.C. App. 105 note)”, was executed to section 8 of Pub. L. 112–105, set out above, known as the “Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act” or the “STOCK Act”, to reflect the probable intent of Congress.]
 
 [For definitions of terms used in section 8 of Pub. L. 112–105, set out above, see section 2 of Pub. L. 112–105, set out as a note under section 13101 of this title.]
 
 **Executive Branch Reporting**
 
-Pub. L. 112–105, § 11, Apr. 4, 2012, 126 Stat. 298, as amended by Pub. L. 112–173, § 1(2), Aug. 16, 2012, 126 Stat. 1310; Pub. L. 113–7, § 1(b)(2), Apr. 15, 2013, 127 Stat. 439; Pub. L. 117–286, § 4(c)(16), Dec. 27, 2022, 136 Stat. 4355, provided that:
+Pub. L. 112–105, § 11, Apr. 4, 2012, 126 Stat. 298, as amended by Pub. L. 112–173, § 1(2), Aug. 16, 2012, 126 Stat. 1310; Pub. L. 113–7, § 1(b)(2), Apr. 15, 2013, 127 Stat. 439; Pub. L. 117–286, § 4(c)(16), Dec. 27, 2022, 136 Stat. 4355, provided that:
 
 > **“(a) Executive Branch Reporting.—**
 
@@ -1227,15 +1227,15 @@ Pub. L. 112–105, § 11, Apr. 4, 2012, 126 Stat. 298, as amended by Pub. L. 1
 
 > **“(6) Additional time.—** The requirements of this subsection may be implemented after the date provided in paragraph (1) if the Director of the Office of Government Ethics, after consultation with the Clerk of the House of Representatives and Secretary of the Senate, identifies in writing to relevant congressional committees the additional time needed for such implementation.”
 
-[Pub. L. 117–286, § 4(c)(16), which directed amendment of section 11 of the “Stop Trading on Congressional Knowledge Act of 2012 (Public Law 112–105, 126 Stat. 298, 5 U.S.C. App. 105 note)”, was executed to section 11 of Pub. L. 112–105, set out above, known as the “Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act” or the “STOCK Act”, to reflect the probable intent of Congress.]
+[Pub. L. 117–286, § 4(c)(16), which directed amendment of section 11 of the “Stop Trading on Congressional Knowledge Act of 2012 (Public Law 112–105, 126 Stat. 298, 5 U.S.C. App. 105 note)”, was executed to section 11 of Pub. L. 112–105, set out above, known as the “Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act” or the “STOCK Act”, to reflect the probable intent of Congress.]
 
 [For definitions of terms used in section 11 of Pub. L. 112–105, set out above, see section 2 of Pub. L. 112–105, set out as a Definitions note under section 13101 of this title.]
 
 **Public Availability of Reports Filed Under Pre-1991 Ethics in Government Act Provisions**
 
-Pub. L. 101–280, § 9, May 4, 1990, 104 Stat. 162, provided that: “Those reports filed under title I [former 2 U.S.C. 701 et seq.], II [formerly set out under the heading Executive Personnel Financial Disclosure Requirements in the Appendix to this title], or III [formerly set out under the heading Judicial Personnel Financial Disclosure Requirements in the Appendix to Title 28, Judiciary and Judicial Procedure] of the Ethics in Government Act of 1978 [Pub. L. 95–521], as in effect before January 1, 1991, shall be made available to the public on or after such date in accordance with [former] section 105 of that Act [see 5 U.S.C. 13107], as amended by the Ethics Reform Act of 1989 [Pub. L. 101–194], and the provisions of such section shall apply with respect to those reports.”
+Pub. L. 101–280, § 9, May 4, 1990, 104 Stat. 162, provided that: “Those reports filed under title I [former 2 U.S.C. 701 et seq.], II [formerly set out under the heading Executive Personnel Financial Disclosure Requirements in the Appendix to this title], or III [formerly set out under the heading Judicial Personnel Financial Disclosure Requirements in the Appendix to Title 28, Judiciary and Judicial Procedure] of the Ethics in Government Act of 1978 [Pub. L. 95–521], as in effect before January 1, 1991, shall be made available to the public on or after such date in accordance with [former] section 105 of that Act [see 5 U.S.C. 13107], as amended by the Ethics Reform Act of 1989 [Pub. L. 101–194], and the provisions of such section shall apply with respect to those reports.”
 
-### § 13108. Review of reports
+### § 13108. Review of reports
 
 **(a) Time for Review.—**
 
@@ -1275,15 +1275,15 @@ The use of any such steps shall be in accordance with such rules or regulations 
 
 **(7) Advisory opinions.—** Each supervising ethics office may render advisory opinions interpreting this subchapter within its respective jurisdiction. Notwithstanding any other provision of law, the individual to whom a public advisory opinion is rendered in accordance with this paragraph, and any other individual covered by this subchapter who is involved in a fact situation which is indistinguishable in all material aspects, and who acts in good faith in accordance with the provisions and findings of such advisory opinion shall not, as a result of such act, be subject to any penalty or sanction provided by this subchapter.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4292.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4292.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13108 | 5 U.S.C. App. (EGA § 106) | Pub. L. 95–521, title I, § 106, Oct. 26, 1978, 92 Stat. 1833; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1739; Pub. L. 101–280, § 3(1), (7), May 4, 1990, 104 Stat. 152, 155. |
+| 13108 | 5 U.S.C. App. (EGA § 106) | Pub. L. 95–521, title I, § 106, Oct. 26, 1978, 92 Stat. 1833; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1739; Pub. L. 101–280, § 3(1), (7), May 4, 1990, 104 Stat. 152, 155. |
 
-### § 13109. Confidential reports and other additional requirements
+### § 13109. Confidential reports and other additional requirements
 
 **(a) In General.—**
 
@@ -1297,49 +1297,49 @@ The use of any such steps shall be in accordance with such rules or regulations 
 
 **(c) No Authorization for Activity Otherwise Prohibited.—** Nothing in this chapter requiring reporting of information shall be deemed to authorize the receipt of income, gifts, or reimbursements; the holding of assets, liabilities, or positions; or the participation in transactions that are prohibited by law, Executive order, rule, or regulation.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4294.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4294.)
 
 **Amendments Not Shown in Text**
 
-This section was derived from section 107 of the Ethics in Government Act of 1978, Pub. L. 95–521, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 107 of Pub. L. 95–521 was amended by Pub. L. 117–125, § 2(c)(3), May 13, 2022, 136 Stat. 1207, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4294, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Subsection (a)(1) of section 107 of Pub. L. 95–521 was amended in the last sentence by striking “and (d)” and inserting “and (e)”. Such amendment was to conform with an amendment to section 105 of Pub. L. 95–521 redesignating subsection (d) as (e), see Amendments Not Shown in Text note set out under section 13107 of this title.
+This section was derived from section 107 of the Ethics in Government Act of 1978, Pub. L. 95–521, which was set out in the former Appendix to this title, and as it existed as of Oct. 19, 2021. Section 107 of Pub. L. 95–521 was amended by Pub. L. 117–125, § 2(c)(3), May 13, 2022, 136 Stat. 1207, prior to being repealed and reenacted as this section by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4294, 4361. For applicability of those amendments to this section, see section 5(b) of Pub. L. 117–286, set out in a Transitional and Savings Provisions note preceding section 101 of this title. Subsection (a)(1) of section 107 of Pub. L. 95–521 was amended in the last sentence by striking “and (d)” and inserting “and (e)”. Such amendment was to conform with an amendment to section 105 of Pub. L. 95–521 redesignating subsection (d) as (e), see Amendments Not Shown in Text note set out under section 13107 of this title.
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13109 | 5 U.S.C. App. (EGA § 107) | Pub. L. 95–521, title I, § 107, Oct. 26, 1978, 92 Stat. 1834; Pub. L. 96–19, § 9(d), (g), June 13, 1979, 93 Stat. 42, 43; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1740. |
+| 13109 | 5 U.S.C. App. (EGA § 107) | Pub. L. 95–521, title I, § 107, Oct. 26, 1978, 92 Stat. 1834; Pub. L. 96–19, § 9(d), (g), June 13, 1979, 93 Stat. 42, 43; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1740. |
 
-### § 13110. Authority of Comptroller General
+### § 13110. Authority of Comptroller General
 
 **(a) Access to Financial Disclosure Reports.—** The Comptroller General shall have access to financial disclosure reports filed under this subchapter for the purposes of carrying out the Comptroller General’s statutory responsibilities.
 
 **(b) Studies.—** Not later than December 31, 1992, and regularly thereafter, the Comptroller General shall conduct a study to determine whether the provisions of this subchapter are being carried out effectively.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4295.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4295.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13110 | 5 U.S.C. App. (EGA § 108) | Pub. L. 95–521, title I, § 108, Oct. 26, 1978, 92 Stat. 1835; Pub. L. 96–19, § 9(t), June 13, 1979, 93 Stat. 44; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1741. |
+| 13110 | 5 U.S.C. App. (EGA § 108) | Pub. L. 95–521, title I, § 108, Oct. 26, 1978, 92 Stat. 1835; Pub. L. 96–19, § 9(t), June 13, 1979, 93 Stat. 44; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1741. |
 
-### § 13111. Notice of actions taken to comply with ethics agreements
+### § 13111. Notice of actions taken to comply with ethics agreements
 
 **(a) In General.—** In any case in which an individual agrees with that individual’s designated agency ethics official, the Office of Government Ethics, a Senate confirmation committee, a congressional ethics committee, or the Judicial Conference, to take any action to comply with this chapter or any other law or regulation governing conflicts of interest of, or establishing standards of conduct applicable with respect to, officers or employees of the Government, that individual shall notify in writing the designated agency ethics official, the Office of Government Ethics, the appropriate committee of the Senate, the congressional ethics committee, or the Judicial Conference, as the case may be, of any action taken by the individual pursuant to that agreement. Such notification shall be made not later than the date specified in the agreement by which action by the individual must be taken, or not later than 3 months after the date of the agreement, if no date for action is so specified.
 
 **(b) Recusal.—** If an agreement described in subsection (a) requires that the individual recuse himself or herself from particular categories of agency or other official action, the individual shall reduce to writing those subjects regarding which the recusal agreement will apply and the process by which it will be determined whether the individual must recuse himself or herself in a specific instance. An individual shall be considered to have complied with the requirements of subsection (a) with respect to such recusal agreement if such individual files a copy of the document setting forth the information described in the preceding sentence with such individual’s designated agency ethics official or the appropriate supervising ethics office within the time prescribed in the last sentence of subsection (a).
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4295.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4295.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13111 | 5 U.S.C. App. (EGA § 110) | Pub. L. 95–521, title I, § 110, as added Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1744; amended Pub. L. 101–280, § 3(1), May 4, 1990, 104 Stat. 152. |
+| 13111 | 5 U.S.C. App. (EGA § 110) | Pub. L. 95–521, title I, § 110, as added Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1744; amended Pub. L. 101–280, § 3(1), May 4, 1990, 104 Stat. 152. |
 
 ## SUBCHAPTER II—OFFICE OF GOVERNMENT ETHICS
 
-### § 13121. Establishment; appointment of Director
+### § 13121. Establishment; appointment of Director
 
 **(a) Establishment.—** There is established an executive agency to be known as the Office of Government Ethics.
 
@@ -1353,15 +1353,15 @@ This section was derived from section 107 of the Ethics in Government Act of 197
 
 Contract authority under paragraph (2) shall be effective for any fiscal year only to the extent that appropriations are available for that purpose.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4296.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4296.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13121 | 5 U.S.C. App. (EGA § 401) | Pub. L. 95–521, title IV, § 401, Oct. 26, 1978, 92 Stat. 1862; Pub. L. 98–150, § 2, Nov. 11, 1983, 97 Stat. 959; Pub. L. 100–598, § 3, Nov. 3, 1988, 102 Stat. 3031; Pub. L. 104–179, § 4(b)(2)(A), Aug. 6, 1996, 110 Stat. 1567. |
+| 13121 | 5 U.S.C. App. (EGA § 401) | Pub. L. 95–521, title IV, § 401, Oct. 26, 1978, 92 Stat. 1862; Pub. L. 98–150, § 2, Nov. 11, 1983, 97 Stat. 959; Pub. L. 100–598, § 3, Nov. 3, 1988, 102 Stat. 3031; Pub. L. 104–179, § 4(b)(2)(A), Aug. 6, 1996, 110 Stat. 1567. |
 
-### § 13122. Authority and functions
+### § 13122. Authority and functions
 
 **(a) Overall Direction of Executive Branch Policies Relating to Prevention of Conflicts of Interest.—** The Director shall provide, in consultation with the Office of Personnel Management, overall direction of executive branch policies related to preventing conflicts of interest on the part of officers and employees of any executive agency, as defined in section 105 of this title.
 
@@ -1483,13 +1483,13 @@ Contract authority under paragraph (2) shall be effective for any fiscal year on
 
 **(6) Limitation on availability of records.—** Notwithstanding any other provision of law, no record developed pursuant to the authority of this section concerning an investigation of an individual for a violation of any rule, regulation, or Executive order relating to a conflict of interest shall be made available pursuant to section 552(a)(3) of this title, unless the request for such information identifies the individual to whom such records relate and the subject matter of any alleged violation to which such records relate, except that nothing in this subsection shall affect the application of the provisions of section 552(b) of this title to any record so identified.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4296.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4296.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13122 | 5 U.S.C. App. (EGA § 402) | Pub. L. 95–521, title IV, § 402, Oct. 26, 1978, 92 Stat. 1862; Pub. L. 96–19, § 9(e), (s), June 13, 1979, 93 Stat. 43, 44; Pub. L. 98–150, § 3(a), (b), Nov. 11, 1983, 97 Stat. 959; Pub. L. 100–598, §§ 5–7, Nov. 3, 1988, 102 Stat. 3032, 3033. |
+| 13122 | 5 U.S.C. App. (EGA § 402) | Pub. L. 95–521, title IV, § 402, Oct. 26, 1978, 92 Stat. 1862; Pub. L. 96–19, § 9(e), (s), June 13, 1979, 93 Stat. 43, 44; Pub. L. 98–150, § 3(a), (b), Nov. 11, 1983, 97 Stat. 959; Pub. L. 100–598, §§ 5–7, Nov. 3, 1988, 102 Stat. 3032, 3033. |
 
 In subsection (b)(1), the reference to “subchapter I” is substituted for “title II of this Act” for clarity and to update an obsolete reference in the law. The reference to “title II of this Act” means title II of the Ethics in Government Act of 1978, which was previously repealed. Section 201 of the Ethics Reform Act of 1989 (Public Law 101–194, 103 Stat. 1724) repealed title II of the Ethics in Government Act of 1978. Section 202 of the Ethics Reform Act of 1989 (Public Law 101–194, 103 Stat. 1724) enacted a general amendment of title I of the Ethics in Government Act of 1978, and, as amended, title I of the Ethics in Government Act of 1978 included provisions relating to the filing, review, and public availability of financial statements filed by officers and employees in the executive, legislative, and judicial branches of the Federal Government. Title I of the Ethics in Government Act of 1978 is restated as “subchapter I” (i.e., subchapter I of chapter 131 of title 5, United States Code).
 
@@ -1505,17 +1505,17 @@ In subsection (f)(3)(B), the words “the head of the officer’s” are substit
 
 **Statutory Notes and Related Subsidiaries**
 
-**Rules and Regulations in Effect Before October 1, 1983**
+**Rules and Regulations in Effect Before October 1, 1983**
 
-Pub. L. 98–150, § 3(d), Nov. 11, 1983, 97 Stat. 960, provided that:
+Pub. L. 98–150, § 3(d), Nov. 11, 1983, 97 Stat. 960, provided that:
 
 > **“(1)** Any rules or regulations issued under [former] section 402 of the Ethics in Government Act of 1978 [see 5 U.S.C. 13122] which are in effect immediately before the effective date of the amendments made by this Act [Oct. 1, 1983, see bracketed note below] shall remain in effect according to their terms until modified, superseded, set aside, or revoked on or after such effective date.
 
 > **“(2)** The responsibilities of the Director of the Office of Government Ethics under [former] paragraphs (6) and (12), respectively, of section 402(b) of the Ethics in Government Act of 1978 [see 5 U.S.C. 13122(b)(6), (12)], with respect to rules and regulations issued by the Office of Personnel Management before the effective date of the amendments made by this Act [Oct. 1, 1983] shall not be affected by this Act or any of the amendments made by this Act [see Tables for classification].”
 
-[Pub. L. 98–150, § 13, Nov. 11, 1983, 97 Stat. 963, provided that: “The amendments made by this Act [see Tables for classification] shall take effect on October 1, 1983.” ]
+[Pub. L. 98–150, § 13, Nov. 11, 1983, 97 Stat. 963, provided that: “The amendments made by this Act [see Tables for classification] shall take effect on October 1, 1983.” ]
 
-### § 13123. Administrative provisions
+### § 13123. Administrative provisions
 
 **(a) Assistance to Director.—** Upon the request of the Director, each executive agency is directed to—
 
@@ -1537,41 +1537,41 @@ The authority of the Director under this section includes the authority to reque
 
 **(3) Criteria for determining appropriateness of gift acceptance.—** The Director shall establish written rules setting forth the criteria to be used in determining whether the acceptance of contributions of money, services, use of facilities, or personal property under this subsection would reflect unfavorably upon the ability of the Office of Government Ethics, or any employee of such Office, to carry out its responsibilities or official duties in a fair and objective manner, or would compromise the integrity or the appearance of the integrity of its programs or any official involved in those programs.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4301.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4301.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13123 | 5 U.S.C. App. (EGA § 403) | Pub. L. 95–521, title IV, § 403, Oct. 26, 1978, 92 Stat. 1863; Pub. L. 98–150, § 5, Nov. 11, 1983, 97 Stat. 960; Pub. L. 100–598, § 9, Nov. 3, 1988, 102 Stat. 3035; Pub. L. 104–179, § 2, Aug. 6, 1996, 110 Stat. 1566. |
+| 13123 | 5 U.S.C. App. (EGA § 403) | Pub. L. 95–521, title IV, § 403, Oct. 26, 1978, 92 Stat. 1863; Pub. L. 98–150, § 5, Nov. 11, 1983, 97 Stat. 960; Pub. L. 100–598, § 9, Nov. 3, 1988, 102 Stat. 3035; Pub. L. 104–179, § 2, Aug. 6, 1996, 110 Stat. 1566. |
 
-### § 13124. Rules and regulations
+### § 13124. Rules and regulations
 
 In promulgating rules and regulations pertaining to financial disclosure, conflict of interest, and ethics in the executive branch, the Director shall issue rules and regulations in accordance with chapter 5 of this title. Any person may seek judicial review of any such rule or regulation.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4302.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4302.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13124 | 5 U.S.C. App. (EGA § 404) | Pub. L. 95–521, title IV, § 404, Oct. 26, 1978, 92 Stat. 1863; Pub. L. 98–150, § 3(c), Nov. 11, 1983, 97 Stat. 960. |
+| 13124 | 5 U.S.C. App. (EGA § 404) | Pub. L. 95–521, title IV, § 404, Oct. 26, 1978, 92 Stat. 1863; Pub. L. 98–150, § 3(c), Nov. 11, 1983, 97 Stat. 960. |
 
-### § 13125. Authorization of appropriations
+### § 13125. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this subchapter such sums as may be necessary for fiscal year 2007.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4302.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4302.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13125 | 5 U.S.C. App. (EGA § 405) | Pub. L. 95–521, title IV, § 405, Oct. 26, 1978, 92 Stat. 1863; Pub. L. 98–150, § 12, Nov. 11, 1983, 97 Stat. 963; Pub. L. 100–598, § 2, Nov. 3, 1988, 102 Stat. 3031; Pub. L. 101–334, § 2, July 16, 1990, 104 Stat. 318; Pub. L. 102–506, § 2, Oct. 24, 1992, 106 Stat. 3280; Pub. L. 104–179, § 3, Aug. 6, 1996, 110 Stat. 1566; Pub. L. 107–119, § 2, Jan. 15, 2002, 115 Stat. 2382; Pub. L. 109–289, div. B, title II, § 21069, as added Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 57. |
+| 13125 | 5 U.S.C. App. (EGA § 405) | Pub. L. 95–521, title IV, § 405, Oct. 26, 1978, 92 Stat. 1863; Pub. L. 98–150, § 12, Nov. 11, 1983, 97 Stat. 963; Pub. L. 100–598, § 2, Nov. 3, 1988, 102 Stat. 3031; Pub. L. 101–334, § 2, July 16, 1990, 104 Stat. 318; Pub. L. 102–506, § 2, Oct. 24, 1992, 106 Stat. 3280; Pub. L. 104–179, § 3, Aug. 6, 1996, 110 Stat. 1566; Pub. L. 107–119, § 2, Jan. 15, 2002, 115 Stat. 2382; Pub. L. 109–289, div. B, title II, § 21069, as added Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 57. |
 
 Although provisions authorizing the appropriation of “such sums as may be necessary” are generally considered unnecessary, and although this provision is obsolete because it explicitly applies only to fiscal year 2007, the provision is nevertheless intentionally restated in chapter 131 of title 5, United States Code.
 
-### § 13126. Reports to Congress
+### § 13126. Reports to Congress
 
 The Director shall, no later than April 30 of each year in which the second session of a Congress begins, submit to the Congress a report containing—
 
@@ -1579,17 +1579,17 @@ The Director shall, no later than April 30 of each year in which the second sess
 
 **(2)** such other information as the Director may consider appropriate.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4302.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4302.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13126 | 5 U.S.C. App. (EGA § 408) | Pub. L. 95–521, title IV, § 408, as added Pub. L. 100–598, § 4, Nov. 3, 1988, 102 Stat. 3031; amended Pub. L. 104–179, § 4(b)(2)(B), Aug. 6, 1996, 110 Stat. 1567. |
+| 13126 | 5 U.S.C. App. (EGA § 408) | Pub. L. 95–521, title IV, § 408, as added Pub. L. 100–598, § 4, Nov. 3, 1988, 102 Stat. 3031; amended Pub. L. 104–179, § 4(b)(2)(B), Aug. 6, 1996, 110 Stat. 1567. |
 
 ## SUBCHAPTER III—LIMITATIONS ON OUTSIDE EARNED INCOME AND EMPLOYMENT
 
-### § 13141. Definitions
+### § 13141. Definitions
 
 In this subchapter:
 
@@ -1603,15 +1603,15 @@ In this subchapter:
 
 **(5) Travel expenses.—** The term “travel expenses” means, with respect to a Member, officer or employee, or a relative of any such individual, the cost of transportation, and the cost of lodging and meals while away from his or her residence or principal place of employment.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4302.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4302.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13141 | 5 U.S.C. App. (EGA § 505) | Pub. L. 95–521, title V, § 505, as added Pub. L. 101–194, title VI, § 601(a), Nov. 30, 1989, 103 Stat. 1761; amended Pub. L. 102–90, title I, § 6(b)(2), (3), title III, § 314(b), Aug. 14, 1991, 105 Stat. 450, 469. |
+| 13141 | 5 U.S.C. App. (EGA § 505) | Pub. L. 95–521, title V, § 505, as added Pub. L. 101–194, title VI, § 601(a), Nov. 30, 1989, 103 Stat. 1761; amended Pub. L. 102–90, title I, § 6(b)(2), (3), title III, § 314(b), Aug. 14, 1991, 105 Stat. 450, 469. |
 
-### § 13142. Administration
+### § 13142. Administration
 
 This subchapter shall be subject to the rules and regulations of—
 
@@ -1625,17 +1625,17 @@ This subchapter shall be subject to the rules and regulations of—
 
 **(3)** and administered by the Judicial Conference of the United States (or such other agency as it may designate) with respect to officers and employees of the judicial branch.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4303.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4303.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13142 | 5 U.S.C. App. (EGA § 503) | Pub. L. 95–521, title V, § 503, as added Pub. L. 101–194, title VI, § 601(a), Nov. 30, 1989, 103 Stat. 1761; amended Pub. L. 101–280, § 7(c), May 4, 1990, 104 Stat. 161; Pub. L. 102–90, title I, § 6(b)(1), Aug. 14, 1991, 105 Stat. 450. |
+| 13142 | 5 U.S.C. App. (EGA § 503) | Pub. L. 95–521, title V, § 503, as added Pub. L. 101–194, title VI, § 601(a), Nov. 30, 1989, 103 Stat. 1761; amended Pub. L. 101–280, § 7(c), May 4, 1990, 104 Stat. 161; Pub. L. 102–90, title I, § 6(b)(1), Aug. 14, 1991, 105 Stat. 450. |
 
 In paragraph (1)(A), the words “Committee on Ethics of the House of Representatives” are substituted for “Committee on Standards of Official Conduct of the House of Representatives” because of House Resolution No. 5, 112th Congress, January 5, 2011.
 
-### § 13143. Outside earned income limitation
+### § 13143. Outside earned income limitation
 
 **(a) Outside Earned Income Limitation.—**
 
@@ -1647,13 +1647,13 @@ In paragraph (1)(A), the words “Committee on Ethics of the House of Representa
 
 **(c) Treatment of Charitable Contributions.—** Any honorarium which, except for subsection (b), might be paid to a Member, officer or employee, but which is paid instead on behalf of such Member, officer or employee to a charitable organization, shall be deemed not to be received by such Member, officer or employee. No such payment shall exceed $2,000 or be made to a charitable organization from which such individual or a parent, sibling, spouse, child, or dependent relative of such individual derives any financial benefit.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4303.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4303.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13143 | 5 U.S.C. App. (EGA § 501) | Pub. L. 95–521, title V, § 501, as added Pub. L. 101–194, title VI, § 601(a), Nov. 30, 1989, 103 Stat. 1760; amended Pub. L. 101–280, § 7(a), May 4, 1990, 104 Stat. 161; Pub. L. 102–378, § 4(b)(1), (2), Oct. 2, 1992, 106 Stat. 1357. |
+| 13143 | 5 U.S.C. App. (EGA § 501) | Pub. L. 95–521, title V, § 501, as added Pub. L. 101–194, title VI, § 601(a), Nov. 30, 1989, 103 Stat. 1760; amended Pub. L. 101–280, § 7(a), May 4, 1990, 104 Stat. 161; Pub. L. 102–378, § 4(b)(1), (2), Oct. 2, 1992, 106 Stat. 1357. |
 
 **Editorial Notes**
 
@@ -1661,7 +1661,7 @@ In paragraph (1)(A), the words “Committee on Ethics of the House of Representa
 
 GS–15, referred to in subsec. (a), is contained in the General Schedule, which is set out under section 5332 of this title.
 
-### § 13144. Limitations on outside employment
+### § 13144. Limitations on outside employment
 
 **(a) Limitations.—** A Member or an officer or employee who is a noncareer officer or employee and who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule shall not—
 
@@ -1685,15 +1685,15 @@ GS–15, referred to in subsec. (a), is contained in the General Schedule, which
 
 **(c) Limitation on Treatment as Fiduciary Relationship.—** For purposes of this section, the relationship between a Member who is a Representative in, or Delegate or Resident Commissioner to, the Congress and who is providing care directly to a patient in the form of medical services or dental services and the patient to whom such care is provided shall not be considered a fiduciary relationship.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4304; Pub. L. 119–37, div. C, title I, § 116(a), Nov. 12, 2025, 139 Stat. 571.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4304; Pub. L. 119–37, div. C, title I, § 116(a), Nov. 12, 2025, 139 Stat. 571.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13144 | 5 U.S.C. App. (EGA § 502) | Pub. L. 95–521, title V, § 502, as added Pub. L. 101–194, title VI, § 601(a), Nov. 30, 1989, 103 Stat. 1761; amended Pub. L. 101–280, § 7(a)(1), (b), May 4, 1990, 104 Stat. 161; Pub. L. 101–650, title III, § 319, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–198, § 6, Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–378, § 4(b)(3), Oct. 2, 1992, 106 Stat. 1357. |
+| 13144 | 5 U.S.C. App. (EGA § 502) | Pub. L. 95–521, title V, § 502, as added Pub. L. 101–194, title VI, § 601(a), Nov. 30, 1989, 103 Stat. 1761; amended Pub. L. 101–280, § 7(a)(1), (b), May 4, 1990, 104 Stat. 161; Pub. L. 101–650, title III, § 319, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–198, § 6, Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–378, § 4(b)(3), Oct. 2, 1992, 106 Stat. 1357. |
 
-In subsection (b)(2), the words “subsection (e) of section 371 of title 28” are substituted for “subsection (f) of section 371 of title 28” for clarity and to update an obsolete reference in the law. Subsection (f) of section 371 of title 28, United States Code, was redesignated as subsection (e) by section 654(a)(1)(B) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (Public Law 106–398, § 1 [div. A, title VI, § 654(a)(1)(B)], 114 Stat. 1654, 1654A–165).
+In subsection (b)(2), the words “subsection (e) of section 371 of title 28” are substituted for “subsection (f) of section 371 of title 28” for clarity and to update an obsolete reference in the law. Subsection (f) of section 371 of title 28, United States Code, was redesignated as subsection (e) by section 654(a)(1)(B) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (Public Law 106–398, § 1 [div. A, title VI, § 654(a)(1)(B)], 114 Stat. 1654, 1654A–165).
 
 **Editorial Notes**
 
@@ -1709,27 +1709,27 @@ GS–15, referred to in subsec. (a), is contained in the General Schedule, which
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–37, div. C, title I, § 116(b), Nov. 12, 2025, 139 Stat. 571, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to compensation received in fiscal year 2026 or any succeeding fiscal year.”
+Pub. L. 119–37, div. C, title I, § 116(b), Nov. 12, 2025, 139 Stat. 571, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to compensation received in fiscal year 2026 or any succeeding fiscal year.”
 
-### § 13145. Civil penalties
+### § 13145. Civil penalties
 
 **(a) Civil Action.—** The Attorney General may bring a civil action in any appropriate United States district court against any individual who violates any provision of section 13143 or 13144 of this title. The court in which such action is brought may assess against such individual a civil penalty of not more than $10,000 or the amount of compensation, if any, which the individual received for the prohibited conduct, whichever is greater.
 
 **(b) Advisory Opinions.—** Any entity described in section 13142 of this title may render advisory opinions interpreting this subchapter, in writing, to individuals covered by this subchapter. Any individual to whom such an advisory opinion is rendered and any other individual covered by this subchapter who is involved in a fact situation which is indistinguishable in all material aspects, and who, after the issuance of such advisory opinion, acts in good faith in accordance with its provisions and findings shall not, as a result of such actions, be subject to any sanction under subsection (a).
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4304.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4304.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 13145 | 5 U.S.C. App. (EGA § 504) | Pub. L. 95–521, title V, § 504, as added Pub. L. 101–194, title VI, § 601(a), Nov. 30, 1989, 103 Stat. 1761. |
+| 13145 | 5 U.S.C. App. (EGA § 504) | Pub. L. 95–521, title V, § 504, as added Pub. L. 101–194, title VI, § 601(a), Nov. 30, 1989, 103 Stat. 1761. |
 
-### § 13146. Conditional termination
+### § 13146. Conditional termination
 
 This subchapter shall cease to be effective if the provisions of section 703 of the Ethics Reform Act of 1989 (Public Law 101–194, 5 U.S.C. 5318 note) are repealed.
 
-(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4305.)
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4305.)
 
 **Historical and Revision Notes**
 

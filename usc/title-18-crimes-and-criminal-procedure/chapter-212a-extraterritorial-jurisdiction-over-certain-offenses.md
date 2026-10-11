@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2016—Pub. L. 114–316, § 2(a)(1), (b)(2), Dec. 16, 2016, 130 Stat. 1593, 1594, struck out “TRAFFICKING IN PERSONS” before “OFFENSES” in chapter heading and added item 3273.
+2016—Pub. L. 114–316, § 2(a)(1), (b)(2), Dec. 16, 2016, 130 Stat. 1593, 1594, struck out “TRAFFICKING IN PERSONS” before “OFFENSES” in chapter heading and added item 3273.
 
-## § 3271. Trafficking in persons offenses committed by persons employed by or accompanying the Federal Government outside the United States
+## § 3271. Trafficking in persons offenses committed by persons employed by or accompanying the Federal Government outside the United States
 
 **(a)** Whoever, while employed by or accompanying the Federal Government outside the United States, engages in conduct outside the United States that would constitute an offense under chapter 77 or 117 of this title if the conduct had been engaged in within the United States or within the special maritime and territorial jurisdiction of the United States shall be punished as provided for that offense.
 
 **(b)** No prosecution may be commenced against a person under this section if a foreign government, in accordance with jurisdiction recognized by the United States, has prosecuted or is prosecuting such person for the conduct constituting such offense, except upon the approval of the Attorney General or the Deputy Attorney General (or a person acting in either such capacity), which function of approval may not be delegated.
 
-(Added Pub. L. 109–164, title I, § 103(a)(1), Jan. 10, 2006, 119 Stat. 3562.)
+(Added Pub. L. 109–164, title I, § 103(a)(1), Jan. 10, 2006, 119 Stat. 3562.)
 
-## § 3272. Definitions
+## § 3272. Definitions
 
 As used in this chapter:
 
@@ -53,9 +53,9 @@ As used in this chapter:
 
 **(C)** not a national of or ordinarily resident in the host nation.
 
-(Added Pub. L. 109–164, title I, § 103(a)(1), Jan. 10, 2006, 119 Stat. 3562.)
+(Added Pub. L. 109–164, title I, § 103(a)(1), Jan. 10, 2006, 119 Stat. 3562.)
 
-## § 3273. Offenses committed by certain United States personnel stationed in Canada in furtherance of border security initiatives
+## § 3273. Offenses committed by certain United States personnel stationed in Canada in furtherance of border security initiatives
 
 **(a) In General.—** Whoever, while employed by the Department of Homeland Security or the Department of Justice and stationed or deployed in Canada pursuant to a treaty, executive agreement, or bilateral memorandum in furtherance of a border security initiative, engages in conduct (or conspires or attempts to engage in conduct) in Canada that would constitute an offense for which a person may be prosecuted in a court of the United States had the conduct been engaged in within the United States or within the special maritime and territorial jurisdiction of the United States shall be fined or imprisoned, or both, as provided for that offense.
 
@@ -67,10 +67,10 @@ As used in this chapter:
 
 **(3)** not being a national of or ordinarily resident in Canada.
 
-(Added Pub. L. 114–316, § 2(a)(2), Dec. 16, 2016, 130 Stat. 1593.)
+(Added Pub. L. 114–316, § 2(a)(2), Dec. 16, 2016, 130 Stat. 1593.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Rule of Construction**
 
-Pub. L. 114–316, § 2(c), Dec. 16, 2016, 130 Stat. 1594, provided that: “Nothing in this section [enacting this section] or the amendments made by this section shall be construed to infringe upon or otherwise affect the exercise of prosecutorial discretion by the Department of Justice in implementing this section and the amendments made by this section.”
+Pub. L. 114–316, § 2(c), Dec. 16, 2016, 130 Stat. 1594, provided that: “Nothing in this section [enacting this section] or the amendments made by this section shall be construed to infringe upon or otherwise affect the exercise of prosecutorial discretion by the Department of Justice in implementing this section and the amendments made by this section.”

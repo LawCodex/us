@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2010—Pub. L. 111–327, § 2(a)(50), Dec. 22, 2010, 124 Stat. 3562, substituted “and master netting agreements” for “or master netting agreements” in item 562.
+2010—Pub. L. 111–327, § 2(a)(50), Dec. 22, 2010, 124 Stat. 3562, substituted “and master netting agreements” for “or master netting agreements” in item 562.
 
-2005—Pub. L. 109–8, title II, §§ 227(b), 228(b), 229(b), title VII, § 704(b), title IX, §§ 907(k)(2), (p)(1), 910(a)(2), Apr. 20, 2005, 119 Stat. 69, 71, 72, 126, 181, 182, 184, added items 511, 526 to 528, 561 and 562 and substituted “Contractual right to liquidate, terminate, or accelerate a securities contract” for “Contractual right to liquidate a securities contract” in item 555, “Contractual right to liquidate, terminate, or accelerate a commodities contract or forward contract” for “Contractual right to liquidate a commodity contract or forward contract” in item 556, “Contractual right to liquidate, terminate, or accelerate a repurchase agreement” for “Contractual right to liquidate a repurchase agreement” in item 559, and “Contractual right to liquidate, terminate, or accelerate a swap agreement” for “Contractual right to terminate a swap agreement” in item 560.
+2005—Pub. L. 109–8, title II, §§ 227(b), 228(b), 229(b), title VII, § 704(b), title IX, §§ 907(k)(2), (p)(1), 910(a)(2), Apr. 20, 2005, 119 Stat. 69, 71, 72, 126, 181, 182, 184, added items 511, 526 to 528, 561 and 562 and substituted “Contractual right to liquidate, terminate, or accelerate a securities contract” for “Contractual right to liquidate a securities contract” in item 555, “Contractual right to liquidate, terminate, or accelerate a commodities contract or forward contract” for “Contractual right to liquidate a commodity contract or forward contract” in item 556, “Contractual right to liquidate, terminate, or accelerate a repurchase agreement” for “Contractual right to liquidate a repurchase agreement” in item 559, and “Contractual right to liquidate, terminate, or accelerate a swap agreement” for “Contractual right to terminate a swap agreement” in item 560.
 
-1990—Pub. L. 101–311, title I, § 106(b), June 25, 1990, 104 Stat. 268, added item 560.
+1990—Pub. L. 101–311, title I, § 106(b), June 25, 1990, 104 Stat. 268, added item 560.
 
-1986—Pub. L. 99–554, title II, § 283(q), Oct. 27, 1986, 100 Stat. 3118, amended items 557 to 559 generally, substituting “interests in, and abandonment or other disposition of grain assets” for “in and disposition of grain” in item 557.
+1986—Pub. L. 99–554, title II, § 283(q), Oct. 27, 1986, 100 Stat. 3118, amended items 557 to 559 generally, substituting “interests in, and abandonment or other disposition of grain assets” for “in and disposition of grain” in item 557.
 
-1984—Pub. L. 98–353, title III, §§ 352(b), 396(b), 470(b), July 10, 1984, 98 Stat. 361, 366, 380, added items 557, 558, and 559.
+1984—Pub. L. 98–353, title III, §§ 352(b), 396(b), 470(b), July 10, 1984, 98 Stat. 361, 366, 380, added items 557, 558, and 559.
 
-1982—Pub. L. 97–222, § 6(b), July 27, 1982, 96 Stat. 237, added items 555 and 556.
+1982—Pub. L. 97–222, § 6(b), July 27, 1982, 96 Stat. 237, added items 555 and 556.
 
 ## SUBCHAPTER I—CREDITORS AND CLAIMS
 
-### § 501. Filing of proofs of claims or interests
+### § 501. Filing of proofs of claims or interests
 
 **(a)** A creditor or an indenture trustee may file a proof of claim. An equity security holder may file a proof of interest.
 
@@ -45,7 +45,7 @@ retrieved: 2026-10-11
 
 **(e)** A claim arising from the liability of a debtor for fuel use tax assessed consistent with the requirements of section 31705 of title 49 may be filed by the base jurisdiction designated pursuant to the International Fuel Tax Agreement (as defined in section 31701 of title 49) and, if so filed, shall be allowed as a single claim.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2578; Pub. L. 98–353, title III, § 444, July 10, 1984, 98 Stat. 373; Pub. L. 109–8, title VII, § 702, Apr. 20, 2005, 119 Stat. 125; Pub. L. 116–260, div. FF, title X, § 1001(d)(1), (3)(A), Dec. 27, 2020, 134 Stat. 3217, 3218.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2578; Pub. L. 98–353, title III, § 444, July 10, 1984, 98 Stat. 373; Pub. L. 109–8, title VII, § 702, Apr. 20, 2005, 119 Stat. 125; Pub. L. 116–260, div. FF, title X, § 1001(d)(1), (3)(A), Dec. 27, 2020, 134 Stat. 3217, 3218.)
 
 **Historical and Revision Notes**
 
@@ -79,9 +79,9 @@ Subsection (e) gives governmental units (including tax authorities) at least six
 
 **Amendments**
 
-2020—Subsec. (f). Pub. L. 116–260, § 1001(d)(3)(A), struck out subsec. (f) which related to CARES forbearance claims.
+2020—Subsec. (f). Pub. L. 116–260, § 1001(d)(3)(A), struck out subsec. (f) which related to CARES forbearance claims.
 
-Pub. L. 116–260, § 1001(d)(1), added subsec. (f).
+Pub. L. 116–260, § 1001(d)(1), added subsec. (f).
 
 2005—Subsec. (e). Pub. L. 109–8 added subsec. (e).
 
@@ -91,7 +91,7 @@ Pub. L. 116–260, § 1001(d)(1), added subsec. (f).
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. FF, title X, § 1001(d)(3), Dec. 27, 2020, 134 Stat. 3218, provided that the amendment made by section 1001(d)(3)(A) is effective on the date that is 1 year after Dec. 27, 2020.
+Pub. L. 116–260, div. FF, title X, § 1001(d)(3), Dec. 27, 2020, 134 Stat. 3218, provided that the amendment made by section 1001(d)(3)(A) is effective on the date that is 1 year after Dec. 27, 2020.
 
 **Effective Date of 2005 Amendment**
 
@@ -103,9 +103,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **Child Support Creditors or Their Representatives; Appearance Before Court**
 
-Pub. L. 103–394, title III, § 304(g), Oct. 22, 1994, 108 Stat. 4134, provided that: “Child support creditors or their representatives shall be permitted to appear and intervene without charge, and without meeting any special local court rule requirement for attorney appearances, in any bankruptcy case or proceeding in any bankruptcy court or district court of the United States if such creditors or representatives file a form in such court that contains information detailing the child support debt, its status, and other characteristics.”
+Pub. L. 103–394, title III, § 304(g), Oct. 22, 1994, 108 Stat. 4134, provided that: “Child support creditors or their representatives shall be permitted to appear and intervene without charge, and without meeting any special local court rule requirement for attorney appearances, in any bankruptcy case or proceeding in any bankruptcy court or district court of the United States if such creditors or representatives file a form in such court that contains information detailing the child support debt, its status, and other characteristics.”
 
-### § 502. Allowance of claims or interests
+### § 502. Allowance of claims or interests
 
 **(a)** A claim or interest, proof of which is filed under section 501 of this title, is deemed allowed, unless a party in interest, including a creditor of a general partner in a partnership that is a debtor in a case under chapter 7 of this title, objects.
 
@@ -203,7 +203,7 @@ Pub. L. 103–394, title III, § 304(g), Oct. 22, 1994, 108 Stat. 4134, provid
 
 **(B)** the proposed alternative repayment schedule was made prior to expiration of the 60-day period specified in paragraph (1)(B)(i).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2579; Pub. L. 98–353, title III, § 445, July 10, 1984, 98 Stat. 373; Pub. L. 99–554, title II, §§ 257(j), 283(f), Oct. 27, 1986, 100 Stat. 3115, 3117; Pub. L. 103–394, title II, § 213(a), title III, § 304(h)(1), Oct. 22, 1994, 108 Stat. 4125, 4134; Pub. L. 109–8, title II, § 201(a), title VII, § 716(d), title IX, § 910(b), Apr. 20, 2005, 119 Stat. 42, 130, 184; Pub. L. 116–260, div. FF, title X, § 1001(d)(2), (3)(B), Dec. 27, 2020, 134 Stat. 3218.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2579; Pub. L. 98–353, title III, § 445, July 10, 1984, 98 Stat. 373; Pub. L. 99–554, title II, §§ 257(j), 283(f), Oct. 27, 1986, 100 Stat. 3115, 3117; Pub. L. 103–394, title II, § 213(a), title III, § 304(h)(1), Oct. 22, 1994, 108 Stat. 4125, 4134; Pub. L. 109–8, title II, § 201(a), title VII, § 716(d), title IX, § 910(b), Apr. 20, 2005, 119 Stat. 42, 130, 184; Pub. L. 116–260, div. FF, title X, § 1001(d)(2), (3)(B), Dec. 27, 2020, 134 Stat. 3218.)
 
 **Historical and Revision Notes**
 
@@ -249,7 +249,7 @@ Section 511 of the Senate amendment is deleted. Its substance is adopted in sect
 
 A proof of claim or interest is prima facie evidence of the claim or interest. Thus, it is allowed under subsection (a) unless a party in interest objects. The rules and case law will determine who is a party in interest for purposes of objection to allowance. The case law is well developed on this subject today. As a result of the change in the liability of a general partner’s estate for the debts of this partnership, see proposed 11 U.S.C. 723, the category of persons that are parties in interest in the partnership case will be expanded to include a creditor of a partner against whose estate the trustee of the partnership estate may proceed under proposed 11 U.S.C. 723(c).
 
-Subsection (b) prescribes the grounds on which a claim may be disallowed. The court will apply these standards if there is an objection to a proof of claim. The burden of proof on the issue of allowance is left to the Rules of Bankruptcy Procedure. Under the current chapter XIII rules, a creditor is required to prove that his claim is free from usury, rule 13–301. It is expected that the rules will make similar provision for both liquidation and individual repayment plan cases. See Bankruptcy Act § 656(b) [section 1056(b) of former title 11]; H.R. 31, 94th Cong., 1st sess., sec. 6–104(a) (1975).
+Subsection (b) prescribes the grounds on which a claim may be disallowed. The court will apply these standards if there is an objection to a proof of claim. The burden of proof on the issue of allowance is left to the Rules of Bankruptcy Procedure. Under the current chapter XIII rules, a creditor is required to prove that his claim is free from usury, rule 13–301. It is expected that the rules will make similar provision for both liquidation and individual repayment plan cases. See Bankruptcy Act § 656(b) [section 1056(b) of former title 11]; H.R. 31, 94th Cong., 1st sess., sec. 6–104(a) (1975).
 
 Paragraph (1) requires disallowance if the claim is unenforceable against the debtor for any reason (such as usury, unconscionability, or failure of consideration) other than because it is contingent or unmatured. All such contingent or unmatured claims are to be liquidated by the bankruptcy court in order to afford the debtor complete bankruptcy relief; these claims are generally not provable under present law.
 
@@ -307,67 +307,67 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(9), are se
 
 **Amendments**
 
-2020—Subsec. (b)(9). Pub. L. 116–260, § 1001(d)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of section 726(a) of this title or under the Federal Rules of Bankruptcy Procedure, except that a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide, and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required.”
+2020—Subsec. (b)(9). Pub. L. 116–260, § 1001(d)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of section 726(a) of this title or under the Federal Rules of Bankruptcy Procedure, except that a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide, and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required.”
 
-Subsec. (b)(9)(C). Pub. L. 116–260, § 1001(d)(3)(B), struck out subpar. (C) which read as follows: “a CARES forbearance claim (as defined in section 501(f)(1)) shall be timely filed if the claim is filed before the date that is 120 days after the expiration of the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act (15 U.S.C. 9056, 9057).”
+Subsec. (b)(9)(C). Pub. L. 116–260, § 1001(d)(3)(B), struck out subpar. (C) which read as follows: “a CARES forbearance claim (as defined in section 501(f)(1)) shall be timely filed if the claim is filed before the date that is 120 days after the expiration of the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act (15 U.S.C. 9056, 9057).”
 
-2005—Subsec. (b)(9). Pub. L. 109–8, § 716(d), inserted “, and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required” before period at end.
+2005—Subsec. (b)(9). Pub. L. 109–8, § 716(d), inserted “, and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required” before period at end.
 
-Subsec. (g). Pub. L. 109–8, § 910(b), designated existing provisions as par. (1) and added par. (2).
+Subsec. (g). Pub. L. 109–8, § 910(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (k). Pub. L. 109–8, § 201(a), added subsec. (k).
+Subsec. (k). Pub. L. 109–8, § 201(a), added subsec. (k).
 
-1994—Subsec. (b)(9). Pub. L. 103–394, § 213(a), added par. (9).
+1994—Subsec. (b)(9). Pub. L. 103–394, § 213(a), added par. (9).
 
-Subsec. (i). Pub. L. 103–394, § 304(h)(1), substituted “507(a)(8)” for “507(a)(7)”.
+Subsec. (i). Pub. L. 103–394, § 304(h)(1), substituted “507(a)(8)” for “507(a)(7)”.
 
-1986—Subsec. (b)(6)(A)(ii). Pub. L. 99–554, § 283(f)(1), substituted “repossessed” for “reposessed”.
+1986—Subsec. (b)(6)(A)(ii). Pub. L. 99–554, § 283(f)(1), substituted “repossessed” for “reposessed”.
 
-Subsec. (g). Pub. L. 99–554, § 257(j), inserted reference to chapter 12.
+Subsec. (g). Pub. L. 99–554, § 257(j), inserted reference to chapter 12.
 
-Subsec. (i). Pub. L. 99–554, § 283(f)(2), substituted “507(a)(7)” for “507(a)(6)”.
+Subsec. (i). Pub. L. 99–554, § 283(f)(2), substituted “507(a)(7)” for “507(a)(6)”.
 
-1984—Subsec. (a). Pub. L. 98–353, § 445(a), inserted “general” before “partner”.
+1984—Subsec. (a). Pub. L. 98–353, § 445(a), inserted “general” before “partner”.
 
-Subsec. (b). Pub. L. 98–353, § 445(b)(1), (2), in provisions preceding par. (1), inserted “(e)(2),” after “subsections” and “in lawful currency of the United States” after “claim”.
+Subsec. (b). Pub. L. 98–353, § 445(b)(1), (2), in provisions preceding par. (1), inserted “(e)(2),” after “subsections” and “in lawful currency of the United States” after “claim”.
 
-Subsec. (b)(1). Pub. L. 98–353, § 445(b)(3), substituted “and” for “, and unenforceable against”.
+Subsec. (b)(1). Pub. L. 98–353, § 445(b)(3), substituted “and” for “, and unenforceable against”.
 
-Subsec. (b)(3). Pub. L. 98–353, § 445(b)(5), inserted “the” after “exceeds”.
+Subsec. (b)(3). Pub. L. 98–353, § 445(b)(5), inserted “the” after “exceeds”.
 
-Pub. L. 98–353, § 445(b)(4), struck out par. (3) “such claim may be offset under section 553 of this title against a debt owing to the debtor;”, and redesignated par. (4) as (3).
+Pub. L. 98–353, § 445(b)(4), struck out par. (3) “such claim may be offset under section 553 of this title against a debt owing to the debtor;”, and redesignated par. (4) as (3).
 
-Subsec. (b)(4). Pub. L. 98–353, § 445(b)(4), redesignated par. (5) as (4). Former par. (4) redesignated (3).
+Subsec. (b)(4). Pub. L. 98–353, § 445(b)(4), redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
-Subsec. (b)(5). Pub. L. 98–353, § 445(b)(6), substituted “such claim” for “the claim” and struck out the comma after “petition”.
+Subsec. (b)(5). Pub. L. 98–353, § 445(b)(6), substituted “such claim” for “the claim” and struck out the comma after “petition”.
 
-Pub. L. 98–353, § 445(b)(4), redesignated par. (6) as (5). Former par. (5) redesignated (4).
+Pub. L. 98–353, § 445(b)(4), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
-Subsec. (b)(6). Pub. L. 98–353, § 445(b)(4), redesignated par. (7) as (6). Former par. (6) redesignated (5).
+Subsec. (b)(6). Pub. L. 98–353, § 445(b)(4), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
-Subsec. (b)(7). Pub. L. 98–353, § 445(b)(7)(A), inserted “the claim of an employee” before “for damages”.
+Subsec. (b)(7). Pub. L. 98–353, § 445(b)(7)(A), inserted “the claim of an employee” before “for damages”.
 
-Pub. L. 98–353, § 445(b)(4), redesignated par. (8) as (7). Former par. (7) redesignated (6).
+Pub. L. 98–353, § 445(b)(4), redesignated par. (8) as (7). Former par. (7) redesignated (6).
 
-Subsec. (b)(7)(A)(i). Pub. L. 98–353, § 445(b)(7)(B), substituted “or” for “and”.
+Subsec. (b)(7)(A)(i). Pub. L. 98–353, § 445(b)(7)(B), substituted “or” for “and”.
 
-Subsec. (b)(7)(B). Pub. L. 98–353, § 445(b)(7)(C), (D), substituted “any” for “the” and inserted a comma after “such contract”.
+Subsec. (b)(7)(B). Pub. L. 98–353, § 445(b)(7)(C), (D), substituted “any” for “the” and inserted a comma after “such contract”.
 
-Subsec. (b)(8), (9). Pub. L. 98–353, § 445(b)(4), redesignated par. (9) as (8). Former par. (8) redesignated (7).
+Subsec. (b)(8), (9). Pub. L. 98–353, § 445(b)(4), redesignated par. (9) as (8). Former par. (8) redesignated (7).
 
-Subsec. (c)(1). Pub. L. 98–353, § 445(c)(1), inserted “the” before “fixing” and substituted “administration” for “closing”.
+Subsec. (c)(1). Pub. L. 98–353, § 445(c)(1), inserted “the” before “fixing” and substituted “administration” for “closing”.
 
-Subsec. (c)(2). Pub. L. 98–353, § 445(c)(2), inserted “right to payment arising from a” after “any” and struck out “if such breach gives rise to a right to payment” after “breach of performance”.
+Subsec. (c)(2). Pub. L. 98–353, § 445(c)(2), inserted “right to payment arising from a” after “any” and struck out “if such breach gives rise to a right to payment” after “breach of performance”.
 
-Subsec. (e)(1). Pub. L. 98–353, § 445(d)(1), (2), in provisions preceding subpar. (A) substituted “, (b), and (c)” for “and (b)” and substituted “or has secured” for “, or has secured,”.
+Subsec. (e)(1). Pub. L. 98–353, § 445(d)(1), (2), in provisions preceding subpar. (A) substituted “, (b), and (c)” for “and (b)” and substituted “or has secured” for “, or has secured,”.
 
-Subsec. (e)(1)(B). Pub. L. 98–353, § 445(d)(3), inserted “or disallowance” after “allowance”.
+Subsec. (e)(1)(B). Pub. L. 98–353, § 445(d)(3), inserted “or disallowance” after “allowance”.
 
-Subsec. (e)(1)(C). Pub. L. 98–353, § 445(d)(4), substituted “asserts a right of subrogation to the rights of such creditor” for “requests subrogation” and struck out “to the rights of such creditor” after “of this title”.
+Subsec. (e)(1)(C). Pub. L. 98–353, § 445(d)(4), substituted “asserts a right of subrogation to the rights of such creditor” for “requests subrogation” and struck out “to the rights of such creditor” after “of this title”.
 
-Subsec. (h). Pub. L. 98–353, § 445(e), substituted “522” for “522(i)”.
+Subsec. (h). Pub. L. 98–353, § 445(e), substituted “522” for “522(i)”.
 
-Subsec. (j). Pub. L. 98–353, § 445(f), amended subsec. (j) generally, inserting provisions relating to reconsideration of a disallowed claim, and provisions relating to reconsideration of a claim under this subsection.
+Subsec. (j). Pub. L. 98–353, § 445(f), amended subsec. (j) generally, inserting provisions relating to reconsideration of a disallowed claim, and provisions relating to reconsideration of a claim under this subsection.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -393,7 +393,7 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 503. Allowance of administrative expenses
+### § 503. Allowance of administrative expenses
 
 **(a)** An entity may timely file a request for payment of an administrative expense, or may tardily file such request if permitted by the court for cause.
 
@@ -471,7 +471,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(3)** other transfers or obligations that are outside the ordinary course of business and not justified by the facts and circumstances of the case, including transfers made to, or obligations incurred for the benefit of, officers, managers, or consultants hired after the date of the filing of the petition.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2581; Pub. L. 98–353, title III, § 446, July 10, 1984, 98 Stat. 374; Pub. L. 99–554, title II, § 283(g), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title I, § 110, title II, § 213(c), title III, § 304(h)(2), Oct. 22, 1994, 108 Stat. 4113, 4126, 4134; Pub. L. 109–8, title III, §§ 329, 331, title IV, § 445, title VII, § 712(b), (c), title XI, § 1103, title XII, §§ 1208, 1227(b), Apr. 20, 2005, 119 Stat. 101, 102, 117, 128, 190, 194, 200; Pub. L. 116–260, div. N, title III, § 320(b), (f)(2)(A)(ii), Dec. 27, 2020, 134 Stat. 2015, 2016.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2581; Pub. L. 98–353, title III, § 446, July 10, 1984, 98 Stat. 374; Pub. L. 99–554, title II, § 283(g), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title I, § 110, title II, § 213(c), title III, § 304(h)(2), Oct. 22, 1994, 108 Stat. 4113, 4126, 4134; Pub. L. 109–8, title III, §§ 329, 331, title IV, § 445, title VII, § 712(b), (c), title XI, § 1103, title XII, §§ 1208, 1227(b), Apr. 20, 2005, 119 Stat. 101, 102, 117, 128, 190, 194, 200; Pub. L. 116–260, div. N, title III, § 320(b), (f)(2)(A)(ii), Dec. 27, 2020, 134 Stat. 2015, 2016.)
 
 **Historical and Revision Notes**
 
@@ -493,59 +493,59 @@ Taxes which the Internal Revenue Service may find due after giving the trustee a
 
 Postpetition payments to an individual debtor for services rendered to the estate are administrative expenses, and are not property of the estate when received by the debtor. This situation would most likely arise when the individual was a sole proprietor and was employed by the estate to run the business after the commencement of the case. An individual debtor in possession would be so employed, for example. See *Local Loan v. Hunt*, 292 U.S. 234, 243 (1943).
 
-Compensation and reimbursement awarded officers of the estate under section 330 are allowable as administrative expenses. Actual, necessary expenses, other than compensation of a professional person, incurred by a creditor that files an involuntary petition, by a creditor that recovers property for the benefit of the estate, by a creditor that acts in connection with the prosecution of a criminal offense relating to the case, by a creditor, indenture, trustee, equity security holder, or committee of creditors or equity security holders (other than official committees) that makes a substantial contribution to a reorganization or municipal debt adjustment case, or by a superseded custodian, are all allowable administrative expenses. The phrase “substantial contribution in the case” is derived from Bankruptcy Act §§ 242 and 243 [sections 642 and 643 of former title 11]. It does not require a contribution that leads to confirmation of a plan, for in many cases, it will be a substantial contribution if the person involved uncovers facts that would lead to a denial of confirmation, such as fraud in connection with the case.
+Compensation and reimbursement awarded officers of the estate under section 330 are allowable as administrative expenses. Actual, necessary expenses, other than compensation of a professional person, incurred by a creditor that files an involuntary petition, by a creditor that recovers property for the benefit of the estate, by a creditor that acts in connection with the prosecution of a criminal offense relating to the case, by a creditor, indenture, trustee, equity security holder, or committee of creditors or equity security holders (other than official committees) that makes a substantial contribution to a reorganization or municipal debt adjustment case, or by a superseded custodian, are all allowable administrative expenses. The phrase “substantial contribution in the case” is derived from Bankruptcy Act §§ 242 and 243 [sections 642 and 643 of former title 11]. It does not require a contribution that leads to confirmation of a plan, for in many cases, it will be a substantial contribution if the person involved uncovers facts that would lead to a denial of confirmation, such as fraud in connection with the case.
 
-Paragraph (4) permits reasonable compensation for professional services rendered by an attorney or an accountant of an equity whose expense is compensable under the previous paragraph. Paragraph (5) permits reasonable compensation for an indenture trustee in making a substantial contribution in a reorganization or municipal debt adjustment case. Finally, paragraph (6) permits witness fees and mileage as prescribed under chapter 119 [§ 2041 et seq.] of title 28.
+Paragraph (4) permits reasonable compensation for professional services rendered by an attorney or an accountant of an equity whose expense is compensable under the previous paragraph. Paragraph (5) permits reasonable compensation for an indenture trustee in making a substantial contribution in a reorganization or municipal debt adjustment case. Finally, paragraph (6) permits witness fees and mileage as prescribed under chapter 119 [§ 2041 et seq.] of title 28.
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (b). Pub. L. 116–260, § 320(f)(2)(A)(ii), contingent on its addition by Pub. L. 116–260, § 320(b), struck out par. (10) which read as follows: “any debt incurred under section 364(g)(1) of this title.”
+2020—Subsec. (b). Pub. L. 116–260, § 320(f)(2)(A)(ii), contingent on its addition by Pub. L. 116–260, § 320(b), struck out par. (10) which read as follows: “any debt incurred under section 364(g)(1) of this title.”
 
-Pub. L. 116–260, § 320(b), added par. (10).
+Pub. L. 116–260, § 320(b), added par. (10).
 
-2005—Subsec. (b)(1)(A). Pub. L. 109–8, § 329, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the actual, necessary costs and expenses of preserving the estate, including wages, salaries, or commissions for services rendered after the commencement of the case;”.
+2005—Subsec. (b)(1)(A). Pub. L. 109–8, § 329, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the actual, necessary costs and expenses of preserving the estate, including wages, salaries, or commissions for services rendered after the commencement of the case;”.
 
-Subsec. (b)(1)(B)(i). Pub. L. 109–8, § 712(b), inserted “whether secured or unsecured, including property taxes for which liability is in rem, in personam, or both,” before “except”.
+Subsec. (b)(1)(B)(i). Pub. L. 109–8, § 712(b), inserted “whether secured or unsecured, including property taxes for which liability is in rem, in personam, or both,” before “except”.
 
-Subsec. (b)(1)(D). Pub. L. 109–8, § 712(c), added subpar. (D).
+Subsec. (b)(1)(D). Pub. L. 109–8, § 712(c), added subpar. (D).
 
-Subsec. (b)(4). Pub. L. 109–8, § 1208, inserted “subparagraph (A), (B), (C), (D), or (E) of” before “paragraph (3)”.
+Subsec. (b)(4). Pub. L. 109–8, § 1208, inserted “subparagraph (A), (B), (C), (D), or (E) of” before “paragraph (3)”.
 
-Subsec. (b)(7). Pub. L. 109–8, § 445, added par. (7).
+Subsec. (b)(7). Pub. L. 109–8, § 445, added par. (7).
 
-Subsec. (b)(8). Pub. L. 109–8, § 1103, added par. (8).
+Subsec. (b)(8). Pub. L. 109–8, § 1103, added par. (8).
 
-Subsec. (b)(9). Pub. L. 109–8, § 1227(b), added par. (9).
+Subsec. (b)(9). Pub. L. 109–8, § 1227(b), added par. (9).
 
-Subsec. (c). Pub. L. 109–8, § 331, added subsec. (c).
+Subsec. (c). Pub. L. 109–8, § 331, added subsec. (c).
 
-1994—Subsec. (a). Pub. L. 103–394, § 213(c), inserted “timely” after “may” and “, or may tardily file such request if permitted by the court for cause” before period at end.
+1994—Subsec. (a). Pub. L. 103–394, § 213(c), inserted “timely” after “may” and “, or may tardily file such request if permitted by the court for cause” before period at end.
 
-Subsec. (b)(1)(B)(i). Pub. L. 103–394, § 304(h)(2), substituted “507(a)(8)” for “507(a)(7)”.
+Subsec. (b)(1)(B)(i). Pub. L. 103–394, § 304(h)(2), substituted “507(a)(8)” for “507(a)(7)”.
 
-Subsec. (b)(3)(F). Pub. L. 103–394, § 110, added subpar. (F).
+Subsec. (b)(3)(F). Pub. L. 103–394, § 110, added subpar. (F).
 
-1986—Subsec. (b)(1)(B)(i). Pub. L. 99–554, § 283(g)(1), substituted “507(a)(7)” for “507(a)(6)”.
+1986—Subsec. (b)(1)(B)(i). Pub. L. 99–554, § 283(g)(1), substituted “507(a)(7)” for “507(a)(6)”.
 
-Subsec. (b)(5). Pub. L. 99–554, § 283(g)(2), inserted “and” after “title;”.
+Subsec. (b)(5). Pub. L. 99–554, § 283(g)(2), inserted “and” after “title;”.
 
-Subsec. (b)(6). Pub. L. 99–554, § 283(g)(3), substituted a period for “; and”.
+Subsec. (b)(6). Pub. L. 99–554, § 283(g)(3), substituted a period for “; and”.
 
-1984—Subsec. (b). Pub. L. 98–353, § 446(1), struck out the comma after “be allowed” in provisions preceding par. (1).
+1984—Subsec. (b). Pub. L. 98–353, § 446(1), struck out the comma after “be allowed” in provisions preceding par. (1).
 
-Subsec. (b)(1)(C). Pub. L. 98–353, § 446(2), struck out the comma after “credit”.
+Subsec. (b)(1)(C). Pub. L. 98–353, § 446(2), struck out the comma after “credit”.
 
-Subsec. (b)(2). Pub. L. 98–353, § 446(3), inserted “(a)” after “330”.
+Subsec. (b)(2). Pub. L. 98–353, § 446(3), inserted “(a)” after “330”.
 
-Subsec. (b)(3). Pub. L. 98–353, § 446(4), inserted a comma after “paragraph (4) of this subsection”.
+Subsec. (b)(3). Pub. L. 98–353, § 446(4), inserted a comma after “paragraph (4) of this subsection”.
 
-Subsec. (b)(3)(C). Pub. L. 98–353, § 446(5), struck out the comma after “case”.
+Subsec. (b)(3)(C). Pub. L. 98–353, § 446(5), struck out the comma after “case”.
 
-Subsec. (b)(5). Pub. L. 98–353, § 446(6), struck out “and” after “title;”.
+Subsec. (b)(5). Pub. L. 98–353, § 446(6), struck out “and” after “title;”.
 
-Subsec. (b)(6). Pub. L. 98–353, § 446(7), substituted “; and” for period at end.
+Subsec. (b)(6). Pub. L. 98–353, § 446(7), substituted “; and” for period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -571,7 +571,7 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 504. Sharing of compensation
+### § 504. Sharing of compensation
 
 **(a)** Except as provided in subsection (b) of this section, a person receiving compensation or reimbursement under section 503(b)(2) or 503(b)(4) of this title may not share or agree to share—
 
@@ -587,7 +587,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(c)** This section shall not apply with respect to sharing, or agreeing to share, compensation with a bona fide public service attorney referral program that operates in accordance with non-Federal law regulating attorney referral services and with rules of professional responsibility applicable to attorney acceptance of referrals.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2582; Pub. L. 109–8, title III, § 326, Apr. 20, 2005, 119 Stat. 99.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2582; Pub. L. 109–8, title III, § 326, Apr. 20, 2005, 119 Stat. 99.)
 
 **Historical and Revision Notes**
 
@@ -607,7 +607,7 @@ Section 504 prohibits the sharing of compensation, or fee splitting, among attor
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
-### § 505. Determination of tax liability
+### § 505. Determination of tax liability
 
 **(a)**
 
@@ -651,7 +651,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 **(c)** Notwithstanding section 362 of this title, after determination by the court of a tax under this section, the governmental unit charged with responsibility for collection of such tax may assess such tax against the estate, the debtor, or a successor to the debtor, as the case may be, subject to any otherwise applicable law.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2582; Pub. L. 98–353, title III, § 447, July 10, 1984, 98 Stat. 374; Pub. L. 109–8, title VII, §§ 701(b), 703, 715, Apr. 20, 2005, 119 Stat. 124, 125, 129; Pub. L. 111–327, § 2(a)(14), Dec. 22, 2010, 124 Stat. 3559.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2582; Pub. L. 98–353, title III, § 447, July 10, 1984, 98 Stat. 374; Pub. L. 109–8, title VII, §§ 701(b), 703, 715, Apr. 20, 2005, 119 Stat. 124, 125, 129; Pub. L. 111–327, § 2(a)(14), Dec. 22, 2010, 124 Stat. 3559.)
 
 **Historical and Revision Notes**
 
@@ -709,7 +709,7 @@ Trustee’s authority to appeal tax cases: The equivalent provision in the House
 
 **senate report no. 95–989**
 
-Subsections (a) and (b) are derived, with only stylistic changes, from section 2a(2A) of the Bankruptcy Act [section 11(a)(2A) of former title 11]. They permit determination by the bankruptcy court of any unpaid tax liability of the debtor that has not been contested before or adjudicated by a judicial or administrative tribunal of competent jurisdiction before the bankruptcy case, and the prosecution by the trustee of an appeal from an order of such a body if the time for review or appeal has not expired before the commencement of the bankruptcy case. As under current Bankruptcy Act § 2a (2A), *Arkansas Corporation Commissioner v. Thompson*, 313 U.S. 132 (1941), remains good law to permit abstention where uniformity of assessment is of significant importance.
+Subsections (a) and (b) are derived, with only stylistic changes, from section 2a(2A) of the Bankruptcy Act [section 11(a)(2A) of former title 11]. They permit determination by the bankruptcy court of any unpaid tax liability of the debtor that has not been contested before or adjudicated by a judicial or administrative tribunal of competent jurisdiction before the bankruptcy case, and the prosecution by the trustee of an appeal from an order of such a body if the time for review or appeal has not expired before the commencement of the bankruptcy case. As under current Bankruptcy Act § 2a (2A), *Arkansas Corporation Commissioner v. Thompson*, 313 U.S. 132 (1941), remains good law to permit abstention where uniformity of assessment is of significant importance.
 
 Section (c) deals with procedures for obtaining a prompt audit of tax returns filed by the trustee in a liquidation or reorganization case. Under the bill as originally introduced, a trustee who is “in doubt” concerning tax liabilities of the estate incurred during a title 11 proceeding could obtain a discharge from personal liability for himself and the debtor (but not for the debtor or the debtor’s successor in a reorganization), provided that certain administrative procedures were followed. The trustee could request a prompt tax audit by the local, State, or Federal governmental unit. The taxing authority would have to notify the trustee and the court within sixty days whether it accepted the return or desired to audit the returns more fully. If an audit were conducted, the tax office would have to notify the trustee of any tax deficiency within 4 months (subject to an extension of time if the court approved). These procedures would apply only to tax years completed on or before the case was closed and for which the trustee had filed a tax return.
 
@@ -727,11 +727,11 @@ Subsection (c) is new. It codifies in part the referee’s decision in *In re St
 
 2010—Subsec. (a)(2)(C). Pub. L. 111–327 substituted “applicable nonbankruptcy law” for “any law (other than a bankruptcy law)”.
 
-2005—Subsec. (a)(2)(C). Pub. L. 109–8, § 701(b), added subpar. (C).
+2005—Subsec. (a)(2)(C). Pub. L. 109–8, § 701(b), added subpar. (C).
 
-Subsec. (b). Pub. L. 109–8, § 703, added par. (1), redesignated existing provisions of subsec. (b) as par. (2) and inserted “at the address and in the manner designated in paragraph (1)” after “determination of such tax” in introductory provisions, redesignated former pars. (1) to (3) of subsec. (b) as subpars. (A) to (C), respectively, of par. (2), and redesignated former subpars (A) and (B) of par. (1) as cls. (i) and (ii), respectively, of subpar. (A).
+Subsec. (b). Pub. L. 109–8, § 703, added par. (1), redesignated existing provisions of subsec. (b) as par. (2) and inserted “at the address and in the manner designated in paragraph (1)” after “determination of such tax” in introductory provisions, redesignated former pars. (1) to (3) of subsec. (b) as subpars. (A) to (C), respectively, of par. (2), and redesignated former subpars (A) and (B) of par. (1) as cls. (i) and (ii), respectively, of subpar. (A).
 
-Subsec. (b)(2). Pub. L. 109–8, § 715, inserted “the estate,” after “misrepresentation,” in introductory provisions.
+Subsec. (b)(2). Pub. L. 109–8, § 715, inserted “the estate,” after “misrepresentation,” in introductory provisions.
 
 1984—Subsec. (a)(2)(B)(i). Pub. L. 98–353 substituted “or” for “and”.
 
@@ -745,7 +745,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 506. Determination of secured status
+### § 506. Determination of secured status
 
 **(a)**
 
@@ -763,7 +763,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(2)** such claim is not an allowed secured claim due only to the failure of any entity to file a proof of such claim under section 501 of this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2583; Pub. L. 98–353, title III, § 448, July 10, 1984, 98 Stat. 374; Pub. L. 109–8, title III, § 327, title VII, § 712(d), Apr. 20, 2005, 119 Stat. 99, 128.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2583; Pub. L. 98–353, title III, § 448, July 10, 1984, 98 Stat. 374; Pub. L. 109–8, title III, § 327, title VII, § 712(d), Apr. 20, 2005, 119 Stat. 99, 128.)
 
 **Historical and Revision Notes**
 
@@ -797,17 +797,17 @@ Subsection (d) permits liens to pass through the bankruptcy case unaffected. How
 
 **Amendments**
 
-2005—Subsec. (a). Pub. L. 109–8, § 327, designated existing provisions as par. (1) and added par. (2).
+2005—Subsec. (a). Pub. L. 109–8, § 327, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 109–8, § 712(d)(1), inserted “or State statute” after “agreement”.
+Subsec. (b). Pub. L. 109–8, § 712(d)(1), inserted “or State statute” after “agreement”.
 
-Subsec. (c). Pub. L. 109–8, § 712(d)(2), inserted “, including the payment of all ad valorem property taxes with respect to the property” before period at end.
+Subsec. (c). Pub. L. 109–8, § 712(d)(2), inserted “, including the payment of all ad valorem property taxes with respect to the property” before period at end.
 
-1984—Subsec. (b). Pub. L. 98–353, § 448(a), inserted “for” after “provided”.
+1984—Subsec. (b). Pub. L. 98–353, § 448(a), inserted “for” after “provided”.
 
-Subsec. (d)(1). Pub. L. 98–353, § 448(b), substituted “such claim was disallowed only under section 502(b)(5) or 502(e) of this title” for “a party in interest has not requested that the court determine and allow or disallow such claim under section 502 of this title”.
+Subsec. (d)(1). Pub. L. 98–353, § 448(b), substituted “such claim was disallowed only under section 502(b)(5) or 502(e) of this title” for “a party in interest has not requested that the court determine and allow or disallow such claim under section 502 of this title”.
 
-Subsec. (d)(2). Pub. L. 98–353, § 448(b), substituted “such claim is not an allowed secured claim due only to the failure of any entity to file a proof of such claim under section 501 of this title” for “such claim was disallowed only under section 502(e) of this title”.
+Subsec. (d)(2). Pub. L. 98–353, § 448(b), substituted “such claim is not an allowed secured claim due only to the failure of any entity to file a proof of such claim under section 501 of this title” for “such claim was disallowed only under section 502(e) of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -819,7 +819,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 507. Priorities
+### § 507. Priorities
 
 **(a)** The following expenses and claims have priority in the following order:
 
@@ -833,15 +833,15 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(2)** Second, administrative expenses allowed under section 503(b) of this title, unsecured claims of any Federal reserve bank related to loans made through programs or facilities authorized under section 13(3) of the Federal Reserve Act (12 U.S.C. 343),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and any fees and charges assessed against the estate under chapter 123 of title 28.
 
 **(3)** Third, unsecured claims allowed under section 502(f) of this title.
 
-**(4)** Fourth, allowed unsecured claims, but only to the extent of $10,000 2
+**(4)** Fourth, allowed unsecured claims, but only to the extent of $10,000 2
 
-<sup>2</sup>  See Adjustment of Dollar Amounts notes below.
+<sup>2</sup> See Adjustment of Dollar Amounts notes below.
 
 for each individual or corporation, as the case may be, earned within 180 days before the date of the filing of the petition or the date of the cessation of the debtor’s business, whichever occurs first, for—
 
@@ -855,7 +855,7 @@ for each individual or corporation, as the case may be, earned within 180 days b
 
 **(B)** for each such plan, to the extent of—
 
-**(i)** the number of employees covered by each such plan multiplied by $10,000; <sup>2</sup> less
+**(i)** the number of employees covered by each such plan multiplied by $10,000; <sup>2</sup> less
 
 **(ii)** the aggregate amount paid to such employees under paragraph (4) of this subsection, plus the aggregate amount paid by the estate on behalf of such employees to any other employee benefit plan.
 
@@ -865,9 +865,9 @@ for each individual or corporation, as the case may be, earned within 180 days b
 
 **(B)** engaged as a United States fisherman against a debtor who has acquired fish or fish produce from a fisherman through a sale or conversion, and who is engaged in operating a fish produce storage or processing facility—
 
-but only to the extent of $4,000 <sup>2</sup> for each such individual.
+but only to the extent of $4,000 <sup>2</sup> for each such individual.
 
-**(7)** Seventh, allowed unsecured claims of individuals, to the extent of $1,800 <sup>2</sup> for each such individual, arising from the deposit, before the commencement of the case, of money in connection with the purchase, lease, or rental of property, or the purchase of services, for the personal, family, or household use of such individuals, that were not delivered or provided.
+**(7)** Seventh, allowed unsecured claims of individuals, to the extent of $1,800 <sup>2</sup> for each such individual, arising from the deposit, before the commencement of the case, of money in connection with the purchase, lease, or rental of property, or the purchase of services, for the personal, family, or household use of such individuals, that were not delivered or provided.
 
 **(8)** Eighth, allowed unsecured claims of governmental units, only to the extent that such claims are for—
 
@@ -917,11 +917,11 @@ An otherwise applicable time period specified in this paragraph shall be suspend
 
 **(d)** An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), (a)(8) excluding subparagraph (F), or (a)(9) of this section is not subrogated to the right of the holder of such claim to priority under such subsection.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2583; Pub. L. 98–353, title III, §§ 350, 449, July 10, 1984, 98 Stat. 358, 374; Pub. L. 101–647, title XXV, § 2522(d), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 103–394, title I, § 108(c), title II, § 207, title III, § 304(c), title V, § 501(b)(3), (d)(11), Oct. 22, 1994, 108 Stat. 4112, 4123, 4132, 4142, 4145; Pub. L. 109–8, title II, §§ 212, 223, title VII, §§ 705, 706, title XIV, § 1401, title XV, § 1502(a)(1), Apr. 20, 2005, 119 Stat. 51, 62, 126, 214, 216; Pub. L. 111–203, title XI, § 1101(b), July 21, 2010, 124 Stat. 2115; Pub. L. 111–327, § 2(a)(15), Dec. 22, 2010, 124 Stat. 3559; Pub. L. 116–260, div. FF, title X, § 1001(i), Dec. 27, 2020, 134 Stat. 3221; Pub. L. 118–42, div. C, title V, § 544(a), Mar. 9, 2024, 138 Stat. 178; Pub. L. 119–27, § 11(d), July 18, 2025, 139 Stat. 458.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2583; Pub. L. 98–353, title III, §§ 350, 449, July 10, 1984, 98 Stat. 358, 374; Pub. L. 101–647, title XXV, § 2522(d), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 103–394, title I, § 108(c), title II, § 207, title III, § 304(c), title V, § 501(b)(3), (d)(11), Oct. 22, 1994, 108 Stat. 4112, 4123, 4132, 4142, 4145; Pub. L. 109–8, title II, §§ 212, 223, title VII, §§ 705, 706, title XIV, § 1401, title XV, § 1502(a)(1), Apr. 20, 2005, 119 Stat. 51, 62, 126, 214, 216; Pub. L. 111–203, title XI, § 1101(b), July 21, 2010, 124 Stat. 2115; Pub. L. 111–327, § 2(a)(15), Dec. 22, 2010, 124 Stat. 3559; Pub. L. 116–260, div. FF, title X, § 1001(i), Dec. 27, 2020, 134 Stat. 3221; Pub. L. 118–42, div. C, title V, § 544(a), Mar. 9, 2024, 138 Stat. 178; Pub. L. 119–27, § 11(d), July 18, 2025, 139 Stat. 458.)
 
 **Amendment of Section**
 
-Pub. L. 119–27, §§ 11(d), 20, July 18, 2025, 139 Stat. 458, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, this section is amended as follows:
+Pub. L. 119–27, §§ 11(d), 20, July 18, 2025, 139 Stat. 458, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, this section is amended as follows:
 
 (1) in subsection (a), in the matter preceding paragraph (1), by striking “The following” and inserting “Subject to subsection (e), the following”; and
 
@@ -1003,7 +1003,7 @@ The House amendment also adopts the substance of the definition in section 346(a
 
 **senate report no. 95–989**
 
-Section 507 specifies the kinds of claims that are entitled to priority in distribution, and the order of their priority. Paragraph (1) grants first priority to allowed administrative expenses and to fees and charges assessed against the estate under chapter 123 [§ 1911 et seq.] of title 28. Taxes included as administrative expenses under section 503(b)(1) of the bill generally receive the first priority, but the bill makes certain qualifications: Examples of these specially treated claims are the estate’s liability for recapture of an investment tax credit claimed by the debtor before the title 11 case (this liability receives sixth priority) and the estate’s employment tax liabilities on wages earned before, but paid after, the petition was filed (this liability generally receives the same priority as the wages).
+Section 507 specifies the kinds of claims that are entitled to priority in distribution, and the order of their priority. Paragraph (1) grants first priority to allowed administrative expenses and to fees and charges assessed against the estate under chapter 123 [§ 1911 et seq.] of title 28. Taxes included as administrative expenses under section 503(b)(1) of the bill generally receive the first priority, but the bill makes certain qualifications: Examples of these specially treated claims are the estate’s liability for recapture of an investment tax credit claimed by the debtor before the title 11 case (this liability receives sixth priority) and the estate’s employment tax liabilities on wages earned before, but paid after, the petition was filed (this liability generally receives the same priority as the wages).
 
 “Involuntary gap” creditors, granted first priority under current law, are granted second priority by paragraph (2). This priority, covering claims arising in the ordinary course of the debtor’s business or financial affairs after a title 11 case has begun but before a trustee is appointed or before the order for relief, includes taxes incurred during the conduct of such activities.
 
@@ -1015,37 +1015,37 @@ Paragraph (4) overrules *United States v. Embassy Restaurant*, 359 U.S. 29 (1958
 
 Paragraph (5) is a new priority for consumer creditors—those who have deposited money in connection with the purchase, lease, or rental of property, or the purchase of services, for their personal, family, or household use, that were not delivered or provided. The priority amount is not to exceed $600. In order to reach only those persons most deserving of this special priority, it is limited to individuals whose adjustable gross income from all sources derived does not exceed $20,000. See Senate Hearings, testimony of Prof. Vern Countryman, at pp. 848–849. The income of the husband and wife should be aggregated for the purposes of the $20,000 limit if either or both spouses assert such a priority claim.
 
-The sixth priority is for certain taxes. Priority is given to income taxes for a taxable year that ended on or before the date of the filing of the petition, if the last due date of the return for such year occurred not more than 3 years immediately before the date on which the petition was filed (§ 507(a)(6)(A)(i)). For the purposes of this rule, the last due date of the return is the last date under any extension of time to file the return which the taxing authority may have granted the debtor.
+The sixth priority is for certain taxes. Priority is given to income taxes for a taxable year that ended on or before the date of the filing of the petition, if the last due date of the return for such year occurred not more than 3 years immediately before the date on which the petition was filed (§ 507(a)(6)(A)(i)). For the purposes of this rule, the last due date of the return is the last date under any extension of time to file the return which the taxing authority may have granted the debtor.
 
-Employment taxes and transfer taxes (including gift, estate, sales, use and other excise taxes) are also given sixth priority if the transaction or event which gave rise to the tax occurred before the petition date, provided that the required return or report of such tax liabilities was last due within 3 years before the petition was filed or was last due after the petition date (§ 507(a)(6)(A)(ii)). The employment taxes covered under this rule are the employer’s share of the social security and railroad retirement taxes and required employer payments toward unemployment insurance.
+Employment taxes and transfer taxes (including gift, estate, sales, use and other excise taxes) are also given sixth priority if the transaction or event which gave rise to the tax occurred before the petition date, provided that the required return or report of such tax liabilities was last due within 3 years before the petition was filed or was last due after the petition date (§ 507(a)(6)(A)(ii)). The employment taxes covered under this rule are the employer’s share of the social security and railroad retirement taxes and required employer payments toward unemployment insurance.
 
-Priority is given to income taxes and other taxes of a kind described in section 507(a)(6)(A)(i) and (ii) which the Federal, State, or local tax authority had assessed within 3 years after the last due date of the return, that is, including any extension of time to file the return, if the debtor filed in title 11 within 240 days after the assessment was made (§ 507(a)(6)(B)(i)). This rule may bring into the sixth priority the debtor’s tax liability for some taxable years which would not qualify for priority under the general three-year rule of section 507(a)(6)(A).
+Priority is given to income taxes and other taxes of a kind described in section 507(a)(6)(A)(i) and (ii) which the Federal, State, or local tax authority had assessed within 3 years after the last due date of the return, that is, including any extension of time to file the return, if the debtor filed in title 11 within 240 days after the assessment was made (§ 507(a)(6)(B)(i)). This rule may bring into the sixth priority the debtor’s tax liability for some taxable years which would not qualify for priority under the general three-year rule of section 507(a)(6)(A).
 
-The sixth priority category also includes taxes which the tax authority was barred by law from assessing or collecting at any time during the 300 days before the petition under title 11 was filed (§ 507(a)(6)(B)(ii)). In the case of certain Federal taxes, this preserves a priority for tax liabilities for years more than three years before the filing of the petition where the debtor and the Internal Revenue Service were negotiating over an audit of the debtor’s returns or were engaged in litigation in the Tax Court. In such situations, the tax law prohibits the service’s right to assess a tax deficiency until ninety days after the service sends the taxpayer a deficiency letter or, if the taxpayer files a petition in the Tax Court during that 90-day period, until the outcome of the litigation. A similar priority exists in present law, except that the taxing authority is allowed no time to assess and collect the taxes after the restrictions on assessment (discussed above) are lifted. Some taxpayers have exploited this loophole by filing in bankruptcy immediately after the end of the 90-day period or immediately after the close of Tax Court proceedings. The bill remedies this defect by preserving a priority for taxes the assessment of which was barred by law by giving the tax authority 300 days within which to make the assessment after the lifting of the bar and then to collect or file public notice of its tax lien. Thus, if a taxpayer files a title 11 petition at any time during that 300-day period, the tax deficiency will be entitled to priority. If the petition is filed more than 300 days after the restriction on assessment was lifted, the taxing authority will not have priority for the tax deficiency.
+The sixth priority category also includes taxes which the tax authority was barred by law from assessing or collecting at any time during the 300 days before the petition under title 11 was filed (§ 507(a)(6)(B)(ii)). In the case of certain Federal taxes, this preserves a priority for tax liabilities for years more than three years before the filing of the petition where the debtor and the Internal Revenue Service were negotiating over an audit of the debtor’s returns or were engaged in litigation in the Tax Court. In such situations, the tax law prohibits the service’s right to assess a tax deficiency until ninety days after the service sends the taxpayer a deficiency letter or, if the taxpayer files a petition in the Tax Court during that 90-day period, until the outcome of the litigation. A similar priority exists in present law, except that the taxing authority is allowed no time to assess and collect the taxes after the restrictions on assessment (discussed above) are lifted. Some taxpayers have exploited this loophole by filing in bankruptcy immediately after the end of the 90-day period or immediately after the close of Tax Court proceedings. The bill remedies this defect by preserving a priority for taxes the assessment of which was barred by law by giving the tax authority 300 days within which to make the assessment after the lifting of the bar and then to collect or file public notice of its tax lien. Thus, if a taxpayer files a title 11 petition at any time during that 300-day period, the tax deficiency will be entitled to priority. If the petition is filed more than 300 days after the restriction on assessment was lifted, the taxing authority will not have priority for the tax deficiency.
 
-Taxes for which an offer in compromise was withdrawn by the debtor, or rejected by a governmental unit, within 240 days before the petition date (§ 507(a)(6)(B)(iii)) will also receive sixth priority. This rule closes a loophole under present law under which, following an assessment of tax, some taxpayers have submitted a formal offer in compromise, dragged out negotiations with the taxing authority until the tax liability would lose priority under the three-year priority period of present law, and then filed in bankruptcy before the governmental unit could take collection steps.
+Taxes for which an offer in compromise was withdrawn by the debtor, or rejected by a governmental unit, within 240 days before the petition date (§ 507(a)(6)(B)(iii)) will also receive sixth priority. This rule closes a loophole under present law under which, following an assessment of tax, some taxpayers have submitted a formal offer in compromise, dragged out negotiations with the taxing authority until the tax liability would lose priority under the three-year priority period of present law, and then filed in bankruptcy before the governmental unit could take collection steps.
 
-Also included are certain taxes for which no return or report is required by law (§ 507(a)(6)(C)), if the taxable transaction occurred within three years before the petition was filed.
+Also included are certain taxes for which no return or report is required by law (§ 507(a)(6)(C)), if the taxable transaction occurred within three years before the petition was filed.
 
-Taxes (not covered by the third priority) which the debtor was required by law to withhold or collect from others and for which he is liable in any capacity, regardless of the age of the tax claims (§ 507(a)(6)(D)) are included. This category covers the so-called “trust fund” taxes, that is, income taxes which an employer is required to withhold from the pay of his employees, the employees’ shares of social security and railroad retirement taxes, and also Federal unemployment insurance. This category also includes excise taxes which a seller of goods or services is required to collect from a buyer and pay over to a taxing authority.
+Taxes (not covered by the third priority) which the debtor was required by law to withhold or collect from others and for which he is liable in any capacity, regardless of the age of the tax claims (§ 507(a)(6)(D)) are included. This category covers the so-called “trust fund” taxes, that is, income taxes which an employer is required to withhold from the pay of his employees, the employees’ shares of social security and railroad retirement taxes, and also Federal unemployment insurance. This category also includes excise taxes which a seller of goods or services is required to collect from a buyer and pay over to a taxing authority.
 
 This category also covers the liability of a responsible corporate officer under the Internal Revenue Code [title 26] for income taxes or for the employees’ share of employment taxes which, under the tax law, the employer was required to withhold from the wages of employees. This priority will operate where a person found to be a responsible officer has himself filed a petition under title 11, and the priority covers the debtor’s liability as an officer under the Internal Revenue Code, regardless of the age of the tax year to which the tax relates.
 
 The priority rules under the bill governing employment taxes can be summarized as follows: In the case of wages earned and actually paid before the petition under title 11 was filed, the liability for the employees’ share of the employment taxes, regardless of the prepetition year in which the wages were earned and paid. The employer’s share of the employment taxes on all wages earned and paid before the petition receive sixth priority; generally, these taxes will be those for which a return was due within three years before the petition. With respect to wages earned by employees before the petition but actually paid by the trustee after the title 11 case commenced, taxes required to be withheld receives the same priority as the wages themselves. Thus, the employees’ share of taxes on third priority wages also receives third priority. Taxes on the balance of such wages receive no priority and are collectible only as general claims because the wages themselves are payable only as general claims and liability for the taxes arises only to the extent the wages are actually paid. The employer’s share of employment taxes on third priority wages earned before the petition but paid after the petition was filed receives third priority, but only if the wages in this category have first been paid in full. Assuming there are sufficient funds to pay third priority wages and the related employer taxes in full, the employer’s share of taxes on the balance of wage payments becomes a general claim (because the wages themselves are payable as general claims). Both the employees’ and the employer’s share of employment taxes on wages earned and paid after the petition was filed receive first priority as administrative expenses.
 
-Also covered by this sixth priority are property taxes required to be assessed within 3 years before the filing of the petition (§ 507(a)(6)(E)).
+Also covered by this sixth priority are property taxes required to be assessed within 3 years before the filing of the petition (§ 507(a)(6)(E)).
 
-Taxes attributable to a tentative carryback adjustment received by the debtor before the petition was filed, such as a “quickie refund” received under section 6411 of the Internal Revenue Code [title 26] (§ 507(a)(6)(F)) are included. However, the tax claim against the debtor will rein a prepetition loss year for which the tax return was last due, including extensions, within 3 years before the petition was filed.
+Taxes attributable to a tentative carryback adjustment received by the debtor before the petition was filed, such as a “quickie refund” received under section 6411 of the Internal Revenue Code [title 26] (§ 507(a)(6)(F)) are included. However, the tax claim against the debtor will rein a prepetition loss year for which the tax return was last due, including extensions, within 3 years before the petition was filed.
 
-Taxes resulting from a recapture, occasioned by a transfer during bankruptcy, of a tax credit or deduction taken during an earlier tax year (§ 507(a)(6)(G)) are included. A typical example occurs when there is a sale by the trustee of depreciable property during the case and depreciation deductions taken in prepetition years are subject to recapture under section 1250 of the Code [title 26].
+Taxes resulting from a recapture, occasioned by a transfer during bankruptcy, of a tax credit or deduction taken during an earlier tax year (§ 507(a)(6)(G)) are included. A typical example occurs when there is a sale by the trustee of depreciable property during the case and depreciation deductions taken in prepetition years are subject to recapture under section 1250 of the Code [title 26].
 
-Taxes owed by the debtor as a transferee of assets from another person who is liable for a tax, if the tax claim against the transferor would have received priority in a chapter 11 case commenced by the transferor within 1 year before the date of the petition filed by the transferee (§ 507(a)(6)(H)), are included.
+Taxes owed by the debtor as a transferee of assets from another person who is liable for a tax, if the tax claim against the transferor would have received priority in a chapter 11 case commenced by the transferor within 1 year before the date of the petition filed by the transferee (§ 507(a)(6)(H)), are included.
 
-Also included are certain tax payments required to have been made during the 1 year immediately before the petition was filed, where the debtor had previously entered into a deferred payment agreement (including an offer in compromise) to pay an agreed liability in periodic installments but had become delinquent in one or more installments before the petition was filed (§ 507(a)(6)(I)). This priority covers all types of deferred or part payment agreements. The priority covers only installments which first became due during the 1 year before the petition but which remained unpaid at the date of the petition. The priority does not come into play, however, if before the case began or during the case, the debtor and the taxing authority agree to a further extension of time to pay the delinquent amounts.
+Also included are certain tax payments required to have been made during the 1 year immediately before the petition was filed, where the debtor had previously entered into a deferred payment agreement (including an offer in compromise) to pay an agreed liability in periodic installments but had become delinquent in one or more installments before the petition was filed (§ 507(a)(6)(I)). This priority covers all types of deferred or part payment agreements. The priority covers only installments which first became due during the 1 year before the petition but which remained unpaid at the date of the petition. The priority does not come into play, however, if before the case began or during the case, the debtor and the taxing authority agree to a further extension of time to pay the delinquent amounts.
 
-Certain tax-related liabilities which are not true taxes or which are not collected by regular assessment procedures (§ 507(a)(6)(J)) are included. One type of liability covered in this category is the liability under section 3505 of the Internal Revenue Code [title 26] of a lender who pays wages directly to employees of another employer or who supplies funds to an employer for the payment of wages. Another is the liability under section 6332 of the Internal Revenue Code [title 26], of a person who fails to turn over money or property of the taxpayer in response to a levy. Since the taxing authority must collect such a liability from the third party by suit rather than normal assessment procedures, an extra year is added to the normal 3-year priority periods. If a suit was commenced by the taxing authority within the four-year period and before the petition was filed, the priority is also preserved, provided that the suit had not terminated more than 1 year before the date of the filing of the petition.
+Certain tax-related liabilities which are not true taxes or which are not collected by regular assessment procedures (§ 507(a)(6)(J)) are included. One type of liability covered in this category is the liability under section 3505 of the Internal Revenue Code [title 26] of a lender who pays wages directly to employees of another employer or who supplies funds to an employer for the payment of wages. Another is the liability under section 6332 of the Internal Revenue Code [title 26], of a person who fails to turn over money or property of the taxpayer in response to a levy. Since the taxing authority must collect such a liability from the third party by suit rather than normal assessment procedures, an extra year is added to the normal 3-year priority periods. If a suit was commenced by the taxing authority within the four-year period and before the petition was filed, the priority is also preserved, provided that the suit had not terminated more than 1 year before the date of the filing of the petition.
 
-Also included are certain unpaid customs duties which have not grown unreasonably “stale” (§ 507(a)(6)(K)). These include duties on imports entered for consumption with 3 years before the filing of the petition if the duties are still unliquidated on the petition date. If an import entry has been liquidated (in general, liquidation is in an administrative determination of the value and tariff rate of the item) or reliquidated, within two years of the filing of the petition the customs liability is given priority. If the Secretary of the Treasury certifies that customs duties were not liquidated because of an investigation into possible assessment of antidumping or countervailing duties, or because of fraud penalties, duties not liquidated for this reason during the five years before the importer filed under title 11 also will receive priority.
+Also included are certain unpaid customs duties which have not grown unreasonably “stale” (§ 507(a)(6)(K)). These include duties on imports entered for consumption with 3 years before the filing of the petition if the duties are still unliquidated on the petition date. If an import entry has been liquidated (in general, liquidation is in an administrative determination of the value and tariff rate of the item) or reliquidated, within two years of the filing of the petition the customs liability is given priority. If the Secretary of the Treasury certifies that customs duties were not liquidated because of an investigation into possible assessment of antidumping or countervailing duties, or because of fraud penalties, duties not liquidated for this reason during the five years before the importer filed under title 11 also will receive priority.
 
 Subsection (a) of this section also provides specifically that interest on sixth priority tax claims accrued before the filing of the petition is also entitled to sixth priority.
 
@@ -1061,97 +1061,97 @@ Section 13(3) of the Federal Reserve Act, referred to in subsec. (a)(2), is clas
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–27, § 11(d)(1), substituted “Subject to subsection (e), the following” for “The following” in introductory provisions.
+2025—Subsec. (a). Pub. L. 119–27, § 11(d)(1), substituted “Subject to subsection (e), the following” for “The following” in introductory provisions.
 
-Subsec. (e). Pub. L. 119–27, § 11(d)(2), added subsec. (e).
+Subsec. (e). Pub. L. 119–27, § 11(d)(2), added subsec. (e).
 
 2024—Subsec. (d). Pub. L. 118–42 inserted “excluding subparagraph (F)” after “(a)(8)”.
 
-2020—Subsec. (d). Pub. L. 116–260, § 1001(i)(2), inserted “, (a)(8)” after “(a)(7)” and struck out “or subparagraphs (A) through (E) and (G) of subsection (a)(8)” after “(a)(9)” and “or subparagraph” after “such subsection”.
+2020—Subsec. (d). Pub. L. 116–260, § 1001(i)(2), inserted “, (a)(8)” after “(a)(7)” and struck out “or subparagraphs (A) through (E) and (G) of subsection (a)(8)” after “(a)(9)” and “or subparagraph” after “such subsection”.
 
-Pub. L. 116–260, § 1001(i)(1), struck out “, (a)(8)” after “(a)(7)” and inserted “or subparagraphs (A) through (E) and (G) of subsection (a)(8)” after “(a)(9)” and “or subparagraph” after “such subsection”.
+Pub. L. 116–260, § 1001(i)(1), struck out “, (a)(8)” after “(a)(7)” and inserted “or subparagraphs (A) through (E) and (G) of subsection (a)(8)” after “(a)(9)” and “or subparagraph” after “such subsection”.
 
 2010—Subsec. (a)(2). Pub. L. 111–203 inserted “unsecured claims of any Federal reserve bank related to loans made through programs or facilities authorized under section 13(3) of the Federal Reserve Act (12 U.S.C. 343),” after “this title,”.
 
-Subsec. (a)(8)(A)(ii)(II). Pub. L. 111–327 substituted “; or” for period at end.
+Subsec. (a)(8)(A)(ii)(II). Pub. L. 111–327 substituted “; or” for period at end.
 
-2005—Subsec. (a)(1). Pub. L. 109–8, § 212(9), added par. (1). Former par. (1) redesignated (2).
+2005—Subsec. (a)(1). Pub. L. 109–8, § 212(9), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (a)(2). Pub. L. 109–8, § 212(2), (3), redesignated par. (1) as (2) and substituted “Second” for “First”. Former par. (2) redesignated (3).
+Subsec. (a)(2). Pub. L. 109–8, § 212(2), (3), redesignated par. (1) as (2) and substituted “Second” for “First”. Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 109–8, § 212(2), (4), redesignated par. (2) as (3) and substituted “Third” for “Second”. Former par. (3) redesignated (4).
+Subsec. (a)(3). Pub. L. 109–8, § 212(2), (4), redesignated par. (2) as (3) and substituted “Third” for “Second”. Former par. (3) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 109–8, § 1401, which directed amendment of par. (4), “as amended by section 212”, by substituting “$10,000” for “$4,000” and “180” for “90” in introductory provisions, effective Apr. 20, 2005, was executed to this par., which was par. (3), to reflect the probable intent of Congress, notwithstanding that the redesignation of this par. as (4) by Pub. L. 109–8, § 212(2), was effective 180 days after Apr. 20, 2005. See Effective Date of 2005 Amendment notes below.
+Subsec. (a)(4). Pub. L. 109–8, § 1401, which directed amendment of par. (4), “as amended by section 212”, by substituting “$10,000” for “$4,000” and “180” for “90” in introductory provisions, effective Apr. 20, 2005, was executed to this par., which was par. (3), to reflect the probable intent of Congress, notwithstanding that the redesignation of this par. as (4) by Pub. L. 109–8, § 212(2), was effective 180 days after Apr. 20, 2005. See Effective Date of 2005 Amendment notes below.
 
-Pub. L. 109–8, § 212(2), (5), redesignated par. (3) as (4) and substituted “Fourth” for “Third” in introductory provisions and a period for semicolon at end. Former par. (4) redesignated (5).
+Pub. L. 109–8, § 212(2), (5), redesignated par. (3) as (4) and substituted “Fourth” for “Third” in introductory provisions and a period for semicolon at end. Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 109–8, § 212(2), (6), redesignated par. (4) as (5) and substituted “Fifth” for “Fourth” in introductory provisions. Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 109–8, § 212(2), (6), redesignated par. (4) as (5) and substituted “Fifth” for “Fourth” in introductory provisions. Former par. (5) redesignated (6).
 
-Subsec. (a)(5)(B)(i). Pub. L. 109–8, § 1401(2), which directed amendment of par. (5), “as amended by section 212”, by substituting “$10,000” for “$4,000”, effective Apr. 20, 2005, was executed to this par., which was par. (4), to reflect the probable intent of Congress, notwithstanding that the redesignation of this par. as (5) by Pub. L. 109–8, § 212(2), was effective 180 days after Apr. 20, 2005. See Effective Date of 2005 Amendment notes below.
+Subsec. (a)(5)(B)(i). Pub. L. 109–8, § 1401(2), which directed amendment of par. (5), “as amended by section 212”, by substituting “$10,000” for “$4,000”, effective Apr. 20, 2005, was executed to this par., which was par. (4), to reflect the probable intent of Congress, notwithstanding that the redesignation of this par. as (5) by Pub. L. 109–8, § 212(2), was effective 180 days after Apr. 20, 2005. See Effective Date of 2005 Amendment notes below.
 
-Subsec. (a)(5)(B)(ii). Pub. L. 109–8, § 1502(a)(1)(A)(i), substituted “paragraph (4)” for “paragraph (3)”.
+Subsec. (a)(5)(B)(ii). Pub. L. 109–8, § 1502(a)(1)(A)(i), substituted “paragraph (4)” for “paragraph (3)”.
 
-Subsec. (a)(6). Pub. L. 109–8, § 212(2), (7), redesignated par. (5) as (6) and substituted “Sixth” for “Fifth” in introductory provisions. Former par. (6) redesignated (7).
+Subsec. (a)(6). Pub. L. 109–8, § 212(2), (7), redesignated par. (5) as (6) and substituted “Sixth” for “Fifth” in introductory provisions. Former par. (6) redesignated (7).
 
-Subsec. (a)(7). Pub. L. 109–8, § 212(1), (2), (8), redesignated par. (6) as (7), substituted “Seventh” for “Sixth”, and struck out former par. (7) which read as follows: “Seventh, allowed claims for debts to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that such debt—
+Subsec. (a)(7). Pub. L. 109–8, § 212(1), (2), (8), redesignated par. (6) as (7), substituted “Seventh” for “Sixth”, and struck out former par. (7) which read as follows: “Seventh, allowed claims for debts to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that such debt—
 
 “(A) is assigned to another entity, voluntarily, by operation of law, or otherwise; or
 
 “(B) includes a liability designated as alimony, maintenance, or support, unless such liability is actually in the nature of alimony, maintenance or support.”
 
-Subsec. (a)(8). Pub. L. 109–8, § 705(2), inserted at end “An otherwise applicable time period specified in this paragraph shall be suspended for any period during which a governmental unit is prohibited under applicable nonbankruptcy law from collecting a tax as a result of a request by the debtor for a hearing and an appeal of any collection action taken or proposed against the debtor, plus 90 days; plus any time during which the stay of proceedings was in effect in a prior case under this title or during which collection was precluded by the existence of 1 or more confirmed plans under this title, plus 90 days.”
+Subsec. (a)(8). Pub. L. 109–8, § 705(2), inserted at end “An otherwise applicable time period specified in this paragraph shall be suspended for any period during which a governmental unit is prohibited under applicable nonbankruptcy law from collecting a tax as a result of a request by the debtor for a hearing and an appeal of any collection action taken or proposed against the debtor, plus 90 days; plus any time during which the stay of proceedings was in effect in a prior case under this title or during which collection was precluded by the existence of 1 or more confirmed plans under this title, plus 90 days.”
 
-Subsec. (a)(8)(A). Pub. L. 109–8, § 705(1)(A), inserted “for a taxable year ending on or before the date of the filing of the petition” after “gross receipts” in introductory provisions.
+Subsec. (a)(8)(A). Pub. L. 109–8, § 705(1)(A), inserted “for a taxable year ending on or before the date of the filing of the petition” after “gross receipts” in introductory provisions.
 
-Subsec. (a)(8)(A)(i). Pub. L. 109–8, § 705(1)(B), struck out “for a taxable year ending on or before the date of the filing of the petition” before “for which a return”.
+Subsec. (a)(8)(A)(i). Pub. L. 109–8, § 705(1)(B), struck out “for a taxable year ending on or before the date of the filing of the petition” before “for which a return”.
 
-Subsec. (a)(8)(A)(ii). Pub. L. 109–8, § 705(1)(C), added cl. (ii) and struck out former cl. (ii) which read as follows: “assessed within 240 days, plus any time plus 30 days during which an offer in compromise with respect to such tax that was made within 240 days after such assessment was pending, before the date of the filing of the petition; or”.
+Subsec. (a)(8)(A)(ii). Pub. L. 109–8, § 705(1)(C), added cl. (ii) and struck out former cl. (ii) which read as follows: “assessed within 240 days, plus any time plus 30 days during which an offer in compromise with respect to such tax that was made within 240 days after such assessment was pending, before the date of the filing of the petition; or”.
 
-Subsec. (a)(8)(B). Pub. L. 109–8, § 706, substituted “incurred” for “assessed”.
+Subsec. (a)(8)(B). Pub. L. 109–8, § 706, substituted “incurred” for “assessed”.
 
-Subsec. (a)(8)(D). Pub. L. 109–8, § 1502(a)(1)(A)(ii), substituted “paragraph (4)” for “paragraph (3)”.
+Subsec. (a)(8)(D). Pub. L. 109–8, § 1502(a)(1)(A)(ii), substituted “paragraph (4)” for “paragraph (3)”.
 
-Subsec. (a)(10). Pub. L. 109–8, § 223, added par. (10).
+Subsec. (a)(10). Pub. L. 109–8, § 223, added par. (10).
 
-Subsec. (b). Pub. L. 109–8, § 1502(a)(1)(B), substituted “subsection (a)(2)” for “subsection (a)(1)”.
+Subsec. (b). Pub. L. 109–8, § 1502(a)(1)(B), substituted “subsection (a)(2)” for “subsection (a)(1)”.
 
-Subsec. (d). Pub. L. 109–8, § 1502(a)(1)(C), substituted “subsection (a)(1)” for “subsection (a)(3)”.
+Subsec. (d). Pub. L. 109–8, § 1502(a)(1)(C), substituted “subsection (a)(1)” for “subsection (a)(3)”.
 
-1994—Subsec. (a)(3). Pub. L. 103–394, § 207, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Third, allowed unsecured claims for wages, salaries, or commissions, including vacation, severance, and sick leave pay—
+1994—Subsec. (a)(3). Pub. L. 103–394, § 207, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Third, allowed unsecured claims for wages, salaries, or commissions, including vacation, severance, and sick leave pay—
 
 “(A) earned by an individual within 90 days before the date of the filing of the petition or the date of the cessation of the debtor’s business, whichever occurs first; but only
 
 “(B) to the extent of $2,000 for each such individual.”
 
-Subsec. (a)(4)(B)(i). Pub. L. 103–394, § 108(c)(1), substituted “$4,000” for “$2,000”.
+Subsec. (a)(4)(B)(i). Pub. L. 103–394, § 108(c)(1), substituted “$4,000” for “$2,000”.
 
-Subsec. (a)(5). Pub. L. 103–394, §§ 108(c)(2), 501(b)(3), substituted “section 557(b)” for “section 557(b)(1)” after “grain, as defined in” and “section 557(b)” for “section 557(b)(2)” after “facility, as defined in” in subpar. (A) and “$4,000” for “$2,000” in concluding provisions.
+Subsec. (a)(5). Pub. L. 103–394, §§ 108(c)(2), 501(b)(3), substituted “section 557(b)” for “section 557(b)(1)” after “grain, as defined in” and “section 557(b)” for “section 557(b)(2)” after “facility, as defined in” in subpar. (A) and “$4,000” for “$2,000” in concluding provisions.
 
-Subsec. (a)(6). Pub. L. 103–394, § 108(c)(3), substituted “$1,800” for “$900”.
+Subsec. (a)(6). Pub. L. 103–394, § 108(c)(3), substituted “$1,800” for “$900”.
 
-Subsec. (a)(7). Pub. L. 103–394, § 304(c)(3), added par. (7). Former par. (7) redesignated (8).
+Subsec. (a)(7). Pub. L. 103–394, § 304(c)(3), added par. (7). Former par. (7) redesignated (8).
 
-Subsec. (a)(8). Pub. L. 103–394, § 304(c)(2), redesignated par. (7) as (8) and substituted “Eighth” for “Seventh”. Former par. (8) redesignated (9).
+Subsec. (a)(8). Pub. L. 103–394, § 304(c)(2), redesignated par. (7) as (8) and substituted “Eighth” for “Seventh”. Former par. (8) redesignated (9).
 
-Subsec. (a)(9). Pub. L. 103–394, §§ 304(c)(1), 501(d)(11)(A), redesignated par. (8) as (9) and substituted “Ninth” for “Eighth” and “a Federal depository institutions regulatory agency (or predecessor to such agency)” for “the Federal Deposit Insurance Corporation, the Resolution Trust Corporation, the Director of the Office of Thrift Supervision, the Comptroller of the Currency, or the Board of Governors of the Federal Reserve System, or their predecessors or successors,”.
+Subsec. (a)(9). Pub. L. 103–394, §§ 304(c)(1), 501(d)(11)(A), redesignated par. (8) as (9) and substituted “Ninth” for “Eighth” and “a Federal depository institutions regulatory agency (or predecessor to such agency)” for “the Federal Deposit Insurance Corporation, the Resolution Trust Corporation, the Director of the Office of Thrift Supervision, the Comptroller of the Currency, or the Board of Governors of the Federal Reserve System, or their predecessors or successors,”.
 
-Subsec. (d). Pub. L. 103–394, § 501(d)(11)(B), substituted “(a)(6), (a)(7), (a)(8), or (a)(9)” for “or (a)(6)”.
+Subsec. (d). Pub. L. 103–394, § 501(d)(11)(B), substituted “(a)(6), (a)(7), (a)(8), or (a)(9)” for “or (a)(6)”.
 
 1990—Subsec. (a)(8). Pub. L. 101–647 added par. (8).
 
-1984—Subsec. (a)(3). Pub. L. 98–353, § 449(a)(1), inserted a comma after “severance”.
+1984—Subsec. (a)(3). Pub. L. 98–353, § 449(a)(1), inserted a comma after “severance”.
 
-Subsec. (a)(4). Pub. L. 98–353, § 449(a)(2), substituted “an employee benefit plan” for “employee benefit plans” in provisions preceding subpar. (A).
+Subsec. (a)(4). Pub. L. 98–353, § 449(a)(2), substituted “an employee benefit plan” for “employee benefit plans” in provisions preceding subpar. (A).
 
-Subsec. (a)(4)(B)(i). Pub. L. 98–353, § 449(a)(3), inserted “each” after “covered by”.
+Subsec. (a)(4)(B)(i). Pub. L. 98–353, § 449(a)(3), inserted “each” after “covered by”.
 
-Subsec. (a)(5). Pub. L. 98–353, § 350(3), added par. (5). Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 98–353, § 350(3), added par. (5). Former par. (5) redesignated (6).
 
-Subsec. (a)(6). Pub. L. 98–353, § 350(1), redesignated former par. (5) as (6) and substituted “Sixth” for “Fifth”. Former par. (6) redesignated (7).
+Subsec. (a)(6). Pub. L. 98–353, § 350(1), redesignated former par. (5) as (6) and substituted “Sixth” for “Fifth”. Former par. (6) redesignated (7).
 
-Subsec. (a)(7). Pub. L. 98–353, §§ 350(2), 449(a)(4), redesignated former par. (6) as (7), substituted “Seventh” for “Sixth”, and inserted “only” after “units,”.
+Subsec. (a)(7). Pub. L. 98–353, §§ 350(2), 449(a)(4), redesignated former par. (6) as (7), substituted “Seventh” for “Sixth”, and inserted “only” after “units,”.
 
-Subsec. (c). Pub. L. 98–353, § 449(b), substituted “has the same priority” for “shall be treated the same”.
+Subsec. (c). Pub. L. 98–353, § 449(b), substituted “has the same priority” for “shall be treated the same”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1161,7 +1161,7 @@ Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 mo
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–42, div. C, title V, § 544(b), Mar. 9, 2024, 138 Stat. 178, provided that:
+Pub. L. 118–42, div. C, title V, § 544(b), Mar. 9, 2024, 138 Stat. 178, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Mar. 9, 2024].
 
@@ -1169,7 +1169,7 @@ Pub. L. 118–42, div. C, title V, § 544(b), Mar. 9, 2024, 138 Stat. 178, pro
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. FF, title X, § 1001(i)(2), Dec. 27, 2020, 134 Stat. 3221, provided that the amendment made by section 1001(i)(2) is effective on the date that is 1 year after Dec. 27, 2020.
+Pub. L. 116–260, div. FF, title X, § 1001(i)(2), Dec. 27, 2020, 134 Stat. 3221, provided that the amendment made by section 1001(i)(2) is effective on the date that is 1 year after Dec. 27, 2020.
 
 **Effective Date of 2010 Amendment**
 
@@ -1177,7 +1177,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–8, title XIV, § 1406, Apr. 20, 2005, 119 Stat. 215, as amended by Pub. L. 111–327, § 3, Dec. 22, 2010, 124 Stat. 3563, provided that:
+Pub. L. 109–8, title XIV, § 1406, Apr. 20, 2005, 119 Stat. 215, as amended by Pub. L. 111–327, § 3, Dec. 22, 2010, 124 Stat. 3563, provided that:
 
 > **“(a) Effective Date.—** Except as provided in subsection (b), this title [amending this section and sections 523, 548, 1104, and 1114 of this title and enacting provisions set out as a note under section 523 of this title] and the amendments made by this title shall take effect on the date of the enactment of this Act [Apr. 20, 2005].
 
@@ -1225,11 +1225,11 @@ By notice dated Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001, in subsec.
 
 By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (a)(3), dollar amount “4,000” was adjusted to “4,300”; in subsec. (a)(4)(B)(i), dollar amount “4,000” was adjusted to “4,300”; in subsec. (a)(5), dollar amount “4,000” was adjusted to “4,300”; and, in subsec. (a)(6), dollar amount “1,800” was adjusted to “1,950”.
 
-### § 508. Effect of distribution other than under this title
+### § 508. Effect of distribution other than under this title
 
 If a creditor of a partnership debtor receives, from a general partner that is not a debtor in a case under chapter 7 of this title, payment of, or a transfer of property on account of, a claim that is allowed under this title and that is not secured by a lien on property of such partner, such creditor may not receive any payment under this title on account of such claim until each of the other holders of claims on account of which such holders are entitled to share equally with such creditor under this title has received payment under this title equal in value to the consideration received by such creditor from such general partner.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2585; Pub. L. 109–8, title VIII, § 802(d)(7), Apr. 20, 2005, 119 Stat. 146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2585; Pub. L. 109–8, title VIII, § 802(d)(7), Apr. 20, 2005, 119 Stat. 146.)
 
 **Historical and Revision Notes**
 
@@ -1253,7 +1253,7 @@ This section prohibits a creditor from receiving any distribution in the bankrup
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
-### § 509. Claims of codebtors
+### § 509. Claims of codebtors
 
 **(a)** Except as provided in subsection (b) or (c) of this section, an entity that is liable with the debtor on, or that has secured, a claim of a creditor against the debtor, and that pays such claim, is subrogated to the rights of such creditor to the extent of such payment.
 
@@ -1271,7 +1271,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 **(c)** The court shall subordinate to the claim of a creditor and for the benefit of such creditor an allowed claim, by way of subrogation under this section, or for reimbursement or contribution, of an entity that is liable with the debtor on, or that has secured, such creditor’s claim, until such creditor’s claim is paid in full, either through payments under this title or otherwise.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2585; Pub. L. 98–353, title III, § 450, July 10, 1984, 98 Stat. 375.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2585; Pub. L. 98–353, title III, § 450, July 10, 1984, 98 Stat. 375.)
 
 **Historical and Revision Notes**
 
@@ -1291,11 +1291,11 @@ Subsection (b) permits a subrogated codebtor to receive payments in the bankrupt
 
 **Amendments**
 
-1984—Subsec. (a). Pub. L. 98–353, § 450(a), substituted “subsection (b) or” for “subsections (b) and”, and inserted “against the debtor” after “a creditor”.
+1984—Subsec. (a). Pub. L. 98–353, § 450(a), substituted “subsection (b) or” for “subsections (b) and”, and inserted “against the debtor” after “a creditor”.
 
-Subsec. (b)(1). Pub. L. 98–353, § 450(b), substituted “of such” for “of a” after “account”.
+Subsec. (b)(1). Pub. L. 98–353, § 450(b), substituted “of such” for “of a” after “account”.
 
-Subsec. (c). Pub. L. 98–353, § 450(c), substituted “this section” for “section 509 of this title”.
+Subsec. (c). Pub. L. 98–353, § 450(c), substituted “this section” for “section 509 of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1303,7 +1303,7 @@ Subsec. (c). Pub. L. 98–353, § 450(c), substituted “this section” for �
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 510. Subordination
+### § 510. Subordination
 
 **(a)** A subordination agreement is enforceable in a case under this title to the same extent that such agreement is enforceable under applicable nonbankruptcy law.
 
@@ -1315,7 +1315,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(2)** order that any lien securing such a subordinated claim be transferred to the estate.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, § 451, July 10, 1984, 98 Stat. 375.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, § 451, July 10, 1984, 98 Stat. 375.)
 
 **Historical and Revision Notes**
 
@@ -1345,13 +1345,13 @@ Subsection (b) authorizes the bankruptcy court, in ordering distribution of asse
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 511. Rate of interest on tax claims
+### § 511. Rate of interest on tax claims
 
 **(a)** If any provision of this title requires the payment of interest on a tax claim or on an administrative expense tax, or the payment of interest to enable a creditor to receive the present value of the allowed amount of a tax claim, the rate of interest shall be the rate determined under applicable nonbankruptcy law.
 
 **(b)** In the case of taxes paid under a confirmed plan under this title, the rate of interest shall be determined as of the calendar month in which the plan is confirmed.
 
-(Added Pub. L. 109–8, title VII, § 704(a), Apr. 20, 2005, 119 Stat. 125.)
+(Added Pub. L. 109–8, title VII, § 704(a), Apr. 20, 2005, 119 Stat. 125.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1361,7 +1361,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 ## SUBCHAPTER II—DEBTOR’S DUTIES AND BENEFITS
 
-### § 521. Debtor’s duties
+### § 521. Debtor’s duties
 
 **(a)** The debtor shall—
 
@@ -1419,7 +1419,7 @@ If the debtor fails to so act within the 45-day period referred to in paragraph 
 
 **(c)** In addition to meeting the requirements under subsection (a), a debtor shall file with the court a record of any interest that a debtor has in an education individual retirement account (as defined in section 530(b)(1) of the Internal Revenue Code of 1986), an interest in an account in a qualified ABLE program (as defined in section 529A(b) of such Code,1
 
-<sup>1</sup>  So in original. A closing parenthesis probably should precede the comma.
+<sup>1</sup> So in original. A closing parenthesis probably should precede the comma.
 
 or under a qualified State tuition program (as defined in section 529(b)(1) of such Code).
 
@@ -1497,7 +1497,7 @@ a statement, under penalty of perjury, of the income and expenditures of the deb
 
 **(2)** If the debtor does not file the required return or obtain the extension referred to in paragraph (1) within 90 days after a request is filed by the taxing authority under that paragraph, the court shall convert or dismiss the case, whichever is in the best interests of creditors and the estate.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§ 305, 452, July 10, 1984, 98 Stat. 352, 375; Pub. L. 99–554, title II, § 283(h), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 109–8, title I, § 106(d), title II, § 225(b), title III, §§ 304(1), 305(2), 315(b), 316, title IV, § 446(a), title VI, § 603(c), title VII, § 720, Apr. 20, 2005, 119 Stat. 38, 66, 78, 80, 89, 92, 118, 123, 133; Pub. L. 111–16, § 2(5), (6), May 7, 2009, 123 Stat. 1607; Pub. L. 111–327, § 2(a)(16), Dec. 22, 2010, 124 Stat. 3559; Pub. L. 113–295, div. B, title I, § 104(c), Dec. 19, 2014, 128 Stat. 4064.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§ 305, 452, July 10, 1984, 98 Stat. 352, 375; Pub. L. 99–554, title II, § 283(h), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 109–8, title I, § 106(d), title II, § 225(b), title III, §§ 304(1), 305(2), 315(b), 316, title IV, § 446(a), title VI, § 603(c), title VII, § 720, Apr. 20, 2005, 119 Stat. 38, 66, 78, 80, 89, 92, 118, 123, 133; Pub. L. 111–16, § 2(5), (6), May 7, 2009, 123 Stat. 1607; Pub. L. 111–327, § 2(a)(16), Dec. 22, 2010, 124 Stat. 3559; Pub. L. 113–295, div. B, title I, § 104(c), Dec. 19, 2014, 128 Stat. 4064.)
 
 **Historical and Revision Notes**
 
@@ -1507,9 +1507,9 @@ Section 521 of the House amendment modifies a comparable provision contained in 
 
 **senate report no. 95–989**
 
-This section lists three duties of the debtor in a bankruptcy case. The Rules of Bankruptcy Procedure will specify the means of carrying out these duties. The first duty is to file with the court a list of creditors and, unless the court orders otherwise, a schedule of assets and liabilities and a statement of his financial affairs. Second, the debtor is required to cooperate with the trustee as necessary to enable the trustee to perform the trustee’s duties. Finally, the debtor must surrender to the trustee all property of the estate, and any recorded information, including books, documents, records, and papers, relating to property of the estate. This phrase “recorded information, including books, documents, records, and papers,” has been used here and throughout the bill as a more general term, and includes such other forms of recorded information as  data  in  computer  storage  or  in  other  machine readable forms.
+This section lists three duties of the debtor in a bankruptcy case. The Rules of Bankruptcy Procedure will specify the means of carrying out these duties. The first duty is to file with the court a list of creditors and, unless the court orders otherwise, a schedule of assets and liabilities and a statement of his financial affairs. Second, the debtor is required to cooperate with the trustee as necessary to enable the trustee to perform the trustee’s duties. Finally, the debtor must surrender to the trustee all property of the estate, and any recorded information, including books, documents, records, and papers, relating to property of the estate. This phrase “recorded information, including books, documents, records, and papers,” has been used here and throughout the bill as a more general term, and includes such other forms of recorded information as data in computer storage or in other machine readable forms.
 
-The list in this section is not exhaustive of the debtor’s duties. Others are listed elsewhere in proposed title 11, such as in section 343, which requires the debtor to submit to examination, or in the Rules of Bankruptcy Procedure, as continued by § 404(a) of S. 2266, such as the duty to attend any hearing on discharge, Rule 402(2).
+The list in this section is not exhaustive of the debtor’s duties. Others are listed elsewhere in proposed title 11, such as in section 343, which requires the debtor to submit to examination, or in the Rules of Bankruptcy Procedure, as continued by § 404(a) of S. 2266, such as the duty to attend any hearing on discharge, Rule 402(2).
 
 **Editorial Notes**
 
@@ -1523,63 +1523,63 @@ Section 315(c) of the Bankruptcy Abuse Prevention and Consumer Protection Act of
 
 **Amendments**
 
-2014—Subsec. (c). Pub. L. 113–295 inserted “, an interest in an account in a qualified ABLE program (as defined in section 529A(b) of such Code,” after “Internal Revenue Code of 1986)”.
+2014—Subsec. (c). Pub. L. 113–295 inserted “, an interest in an account in a qualified ABLE program (as defined in section 529A(b) of such Code,” after “Internal Revenue Code of 1986)”.
 
-2010—Subsec. (a)(2). Pub. L. 111–327, § 2(a)(16)(A)(iii), in subpar. (C) substituted “except that” for subpar. (C) designation.
+2010—Subsec. (a)(2). Pub. L. 111–327, § 2(a)(16)(A)(iii), in subpar. (C) substituted “except that” for subpar. (C) designation.
 
-Subsec. (a)(2)(A). Pub. L. 111–327, § 2(a)(16)(A)(i), struck out “the debtor shall” after “period fixes,” and inserted “and” after semicolon at end.
+Subsec. (a)(2)(A). Pub. L. 111–327, § 2(a)(16)(A)(i), struck out “the debtor shall” after “period fixes,” and inserted “and” after semicolon at end.
 
-Subsec. (a)(2)(B). Pub. L. 111–327, § 2(a)(16)(A)(ii), struck out “the debtor shall” after “period fixes,” and “and” after semicolon at end.
+Subsec. (a)(2)(B). Pub. L. 111–327, § 2(a)(16)(A)(ii), struck out “the debtor shall” after “period fixes,” and “and” after semicolon at end.
 
-Subsec. (a)(3), (4). Pub. L. 111–327, § 2(a)(16)(B), inserted “is” after “auditor”.
+Subsec. (a)(3), (4). Pub. L. 111–327, § 2(a)(16)(B), inserted “is” after “auditor”.
 
-2009—Subsec. (e)(3)(B). Pub. L. 111–16, § 2(5), substituted “7 days” for “5 days”.
+2009—Subsec. (e)(3)(B). Pub. L. 111–16, § 2(5), substituted “7 days” for “5 days”.
 
-Subsec. (i)(2). Pub. L. 111–16, § 2(6), substituted “7 days” for “5 days”.
+Subsec. (i)(2). Pub. L. 111–16, § 2(6), substituted “7 days” for “5 days”.
 
-2005—Pub. L. 109–8, § 106(d)(1), designated existing provisions as subsec. (a).
+2005—Pub. L. 109–8, § 106(d)(1), designated existing provisions as subsec. (a).
 
-Subsec. (a). Pub. L. 109–8, § 304(1), added concluding provisions.
+Subsec. (a). Pub. L. 109–8, § 304(1), added concluding provisions.
 
-Subsec. (a)(1). Pub. L. 109–8, § 315(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “file a list of creditors, and unless the court orders otherwise, a schedule of assets and liabilities, a schedule of current income and current expenditures, and a statement of the debtor’s financial affairs;”.
+Subsec. (a)(1). Pub. L. 109–8, § 315(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “file a list of creditors, and unless the court orders otherwise, a schedule of assets and liabilities, a schedule of current income and current expenditures, and a statement of the debtor’s financial affairs;”.
 
-Subsec. (a)(2). Pub. L. 109–8, § 305(2)(A), struck out “consumer” before “debts” in introductory provisions.
+Subsec. (a)(2). Pub. L. 109–8, § 305(2)(A), struck out “consumer” before “debts” in introductory provisions.
 
-Subsec. (a)(2)(B). Pub. L. 109–8, § 305(2)(B), substituted “30 days after the first date set for the meeting of creditors under section 341(a)” for “forty-five days after the filing of a notice of intent under this section” and “30-day” for “forty-five day”.
+Subsec. (a)(2)(B). Pub. L. 109–8, § 305(2)(B), substituted “30 days after the first date set for the meeting of creditors under section 341(a)” for “forty-five days after the filing of a notice of intent under this section” and “30-day” for “forty-five day”.
 
-Subsec. (a)(2)(C). Pub. L. 109–8, § 305(2)(C), inserted “, except as provided in section 362(h)” before semicolon.
+Subsec. (a)(2)(C). Pub. L. 109–8, § 305(2)(C), inserted “, except as provided in section 362(h)” before semicolon.
 
-Subsec. (a)(3), (4). Pub. L. 109–8, § 603(c), inserted “or an auditor serving under section 586(f) of title 28” after “serving in the case”.
+Subsec. (a)(3), (4). Pub. L. 109–8, § 603(c), inserted “or an auditor serving under section 586(f) of title 28” after “serving in the case”.
 
-Subsec. (a)(6). Pub. L. 109–8, § 304(1), added par. (6).
+Subsec. (a)(6). Pub. L. 109–8, § 304(1), added par. (6).
 
-Subsec. (a)(7). Pub. L. 109–8, § 446(a), added par. (7).
+Subsec. (a)(7). Pub. L. 109–8, § 446(a), added par. (7).
 
-Subsec. (b). Pub. L. 109–8, § 106(d)(2), added subsec. (b).
+Subsec. (b). Pub. L. 109–8, § 106(d)(2), added subsec. (b).
 
-Subsec. (c). Pub. L. 109–8, § 225(b), added subsec. (c).
+Subsec. (c). Pub. L. 109–8, § 225(b), added subsec. (c).
 
-Subsec. (d). Pub. L. 109–8, § 305(2)(D), added subsec. (d).
+Subsec. (d). Pub. L. 109–8, § 305(2)(D), added subsec. (d).
 
-Subsecs. (e) to (h). Pub. L. 109–8, § 315(b)(2), added subsecs. (e) to (h).
+Subsecs. (e) to (h). Pub. L. 109–8, § 315(b)(2), added subsecs. (e) to (h).
 
-Subsec. (i). Pub. L. 109–8, § 316, added subsec. (i).
+Subsec. (i). Pub. L. 109–8, § 316, added subsec. (i).
 
-Subsec. (j). Pub. L. 109–8, § 720, added subsec. (j).
+Subsec. (j). Pub. L. 109–8, § 720, added subsec. (j).
 
-1986—Par. (4). Pub. L. 99–554 inserted “, whether or not immunity is granted under section 344 of this title” after second reference to “estate”.
+1986—Par. (4). Pub. L. 99–554 inserted “, whether or not immunity is granted under section 344 of this title” after second reference to “estate”.
 
-1984—Par. (1). Pub. L. 98–353, § 305(2), inserted “a schedule of current income and current expenditures,” after “liabilities,”.
+1984—Par. (1). Pub. L. 98–353, § 305(2), inserted “a schedule of current income and current expenditures,” after “liabilities,”.
 
-Pars. (2) to (5). Pub. L. 98–353, § 305(1), (3), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively.
+Pars. (2) to (5). Pub. L. 98–353, § 305(1), (3), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
-Pub. L. 98–353, § 452, which directed the insertion of “, whether or not immunity is granted under section 344 of this title” after second reference to “estate” in par. (3) as redesignated above, could not be executed because such reference appeared in par. (4) rather than in par. (3).
+Pub. L. 98–353, § 452, which directed the insertion of “, whether or not immunity is granted under section 344 of this title” after second reference to “estate” in par. (3) as redesignated above, could not be executed because such reference appeared in par. (4) rather than in par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–295, div. B, title I, § 104(d), Dec. 19, 2014, 128 Stat. 4064, provided that: “The amendments made by this section [amending this section and sections 541 and 707 of this title] shall apply with respect to cases commenced under title 11, United States Code, on or after the date of the enactment of this Act [Dec. 19, 2014].”
+Pub. L. 113–295, div. B, title I, § 104(d), Dec. 19, 2014, 128 Stat. 4064, provided that: “The amendments made by this section [amending this section and sections 541 and 707 of this title] shall apply with respect to cases commenced under title 11, United States Code, on or after the date of the enactment of this Act [Dec. 19, 2014].”
 
 **Effective Date of 2009 Amendment**
 
@@ -1587,7 +1587,7 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–8, title VI, § 603(e), Apr. 20, 2005, 119 Stat. 123, provided that: “The amendments made by this section [amending this section, section 727 of this title and section 586 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under section 586 of Title 28] shall take effect 18 months after the date of enactment of this Act [Apr. 20, 2005].”
+Pub. L. 109–8, title VI, § 603(e), Apr. 20, 2005, 119 Stat. 123, provided that: “The amendments made by this section [amending this section, section 727 of this title and section 586 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under section 586 of Title 28] shall take effect 18 months after the date of enactment of this Act [Apr. 20, 2005].”
 
 Amendment by sections 106(d), 225(b), 304(1), 305(2), 315(b), 316, 446(a), and 720 of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
@@ -1601,7 +1601,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **Confidentiality of Tax Information**
 
-Pub. L. 109–8, title III, § 315(c), Apr. 20, 2005, 119 Stat. 91, provided that:
+Pub. L. 109–8, title III, § 315(c), Apr. 20, 2005, 119 Stat. 91, provided that:
 
 > **“(1)** Not later than 180 days after the date of the enactment of this Act [Apr. 20, 2005], the Director of the Administrative Office of the United States Courts shall establish procedures for safeguarding the confidentiality of any tax information required to be provided under this section.
 
@@ -1619,7 +1619,7 @@ Pub. L. 109–8, title III, § 315(c), Apr. 20, 2005, 119 Stat. 91, provided t
 
 **Providing Requested Tax Documents to the Court**
 
-Pub. L. 109–8, title XII, § 1228, Apr. 20, 2005, 119 Stat. 200, provided that:
+Pub. L. 109–8, title XII, § 1228, Apr. 20, 2005, 119 Stat. 200, provided that:
 
 > **“(a) Chapter 7 Cases.—** The court shall not grant a discharge in the case of an individual who is a debtor in a case under chapter 7 of title 11, United States Code, unless requested tax documents have been provided to the court.
 
@@ -1627,7 +1627,7 @@ Pub. L. 109–8, title XII, § 1228, Apr. 20, 2005, 119 Stat. 200, provided th
 
 > **“(c) Document Retention.—** The court shall destroy documents submitted in support of a bankruptcy claim not sooner than 3 years after the date of the conclusion of a case filed by an individual under chapter 7, 11, or 13 of title 11, United States Code. In the event of a pending audit or enforcement action, the court may extend the time for destruction of such requested tax documents.”
 
-### § 522. Exemptions
+### § 522. Exemptions
 
 **(a)** In this section—
 
@@ -1697,25 +1697,25 @@ If the effect of the domiciliary requirement under subparagraph (A) is to render
 
 **(d)** The following property may be exempted under subsection (b)(2) of this section:
 
-**(1)** The debtor’s aggregate interest, not to exceed $15,000 1
+**(1)** The debtor’s aggregate interest, not to exceed $15,000 1
 
-<sup>1</sup>  See Adjustment of Dollar Amounts notes below.
+<sup>1</sup> See Adjustment of Dollar Amounts notes below.
 
 in value, in real property or personal property that the debtor or a dependent of the debtor uses as a residence, in a cooperative that owns property that the debtor or a dependent of the debtor uses as a residence, or in a burial plot for the debtor or a dependent of the debtor.
 
-**(2)** The debtor’s interest, not to exceed $2,400 <sup>1</sup> in value, in one motor vehicle.
+**(2)** The debtor’s interest, not to exceed $2,400 <sup>1</sup> in value, in one motor vehicle.
 
-**(3)** The debtor’s interest, not to exceed $400 <sup>1</sup> in value in any particular item or $8,000 <sup>1</sup> in aggregate value, in household furnishings, household goods, wearing apparel, appliances, books, animals, crops, or musical instruments, that are held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
+**(3)** The debtor’s interest, not to exceed $400 <sup>1</sup> in value in any particular item or $8,000 <sup>1</sup> in aggregate value, in household furnishings, household goods, wearing apparel, appliances, books, animals, crops, or musical instruments, that are held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
 
-**(4)** The debtor’s aggregate interest, not to exceed $1,000 <sup>1</sup> in value, in jewelry held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
+**(4)** The debtor’s aggregate interest, not to exceed $1,000 <sup>1</sup> in value, in jewelry held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
 
-**(5)** The debtor’s aggregate interest in any property, not to exceed in value $800 <sup>1</sup> plus up to $7,500 <sup>1</sup> of any unused amount of the exemption provided under paragraph (1) of this subsection.
+**(5)** The debtor’s aggregate interest in any property, not to exceed in value $800 <sup>1</sup> plus up to $7,500 <sup>1</sup> of any unused amount of the exemption provided under paragraph (1) of this subsection.
 
-**(6)** The debtor’s aggregate interest, not to exceed $1,500 <sup>1</sup> in value, in any implements, professional books, or tools, of the trade of the debtor or the trade of a dependent of the debtor.
+**(6)** The debtor’s aggregate interest, not to exceed $1,500 <sup>1</sup> in value, in any implements, professional books, or tools, of the trade of the debtor or the trade of a dependent of the debtor.
 
 **(7)** Any unmatured life insurance contract owned by the debtor, other than a credit life insurance contract.
 
-**(8)** The debtor’s aggregate interest, not to exceed in value $8,000 <sup>1</sup> less any amount of property of the estate transferred in the manner specified in section 542(d) of this title, in any accrued dividend or interest under, or loan value of, any unmatured life insurance contract owned by the debtor under which the insured is the debtor or an individual of whom the debtor is a dependent.
+**(8)** The debtor’s aggregate interest, not to exceed in value $8,000 <sup>1</sup> less any amount of property of the estate transferred in the manner specified in section 542(d) of this title, in any accrued dividend or interest under, or loan value of, any unmatured life insurance contract owned by the debtor under which the insured is the debtor or an individual of whom the debtor is a dependent.
 
 **(9)** Professionally prescribed health aids for the debtor or a dependent of the debtor.
 
@@ -1829,11 +1829,11 @@ the debtor may not avoid the fixing of a lien on an interest of the debtor or a 
 
 **(i)** works of art (unless by or of the debtor, or any relative of the debtor);
 
-**(ii)** electronic entertainment equipment with a fair market value of more than $500 <sup>1</sup> in the aggregate (except 1 television, 1 radio, and 1 VCR);
+**(ii)** electronic entertainment equipment with a fair market value of more than $500 <sup>1</sup> in the aggregate (except 1 television, 1 radio, and 1 VCR);
 
-**(iii)** items acquired as antiques with a fair market value of more than $500 <sup>1</sup> in the aggregate;
+**(iii)** items acquired as antiques with a fair market value of more than $500 <sup>1</sup> in the aggregate;
 
-**(iv)** jewelry with a fair market value of more than $500 <sup>1</sup> in the aggregate (except wedding rings); and
+**(iv)** jewelry with a fair market value of more than $500 <sup>1</sup> in the aggregate (except wedding rings); and
 
 **(v)** a computer (except as otherwise provided for in this section), motor vehicle (including a tractor or lawn tractor), boat, or a motorized recreational device, conveyance, vehicle, watercraft, or aircraft.
 
@@ -1871,7 +1871,7 @@ the debtor may not avoid the fixing of a lien on an interest of the debtor or a 
 
 **(m)** Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case.
 
-**(n)** For assets in individual retirement accounts described in section 408 or 408A of the Internal Revenue Code of 1986, other than a simplified employee pension under section 408(k) of such Code or a simple retirement account under section 408(p) of such Code, the aggregate value of such assets exempted under this section, without regard to amounts attributable to rollover contributions under section 402(c), 402(e)(6), 403(a)(4), 403(a)(5), and 403(b)(8) of the Internal Revenue Code of 1986, and earnings thereon, shall not exceed $1,000,000 <sup>1</sup> in a case filed by a debtor who is an individual, except that such amount may be increased if the interests of justice so require.
+**(n)** For assets in individual retirement accounts described in section 408 or 408A of the Internal Revenue Code of 1986, other than a simplified employee pension under section 408(k) of such Code or a simple retirement account under section 408(p) of such Code, the aggregate value of such assets exempted under this section, without regard to amounts attributable to rollover contributions under section 402(c), 402(e)(6), 403(a)(4), 403(a)(5), and 403(b)(8) of the Internal Revenue Code of 1986, and earnings thereon, shall not exceed $1,000,000 <sup>1</sup> in a case filed by a debtor who is an individual, except that such amount may be increased if the interests of justice so require.
 
 **(o)** For purposes of subsection (b)(3)(A), and notwithstanding subsection (a), the value of an interest in—
 
@@ -1887,7 +1887,7 @@ shall be reduced to the extent that such value is attributable to any portion of
 
 **(p)**
 
-**(1)** Except as provided in paragraph (2) of this subsection and sections 544 and 548, as a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of interest that was acquired by the debtor during the 1215-day period preceding the date of the filing of the petition that exceeds in the aggregate $125,000 <sup>1</sup> in value in—
+**(1)** Except as provided in paragraph (2) of this subsection and sections 544 and 548, as a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of interest that was acquired by the debtor during the 1215-day period preceding the date of the filing of the petition that exceeds in the aggregate $125,000 <sup>1</sup> in value in—
 
 **(A)** real or personal property that the debtor or a dependent of the debtor uses as a residence;
 
@@ -1905,7 +1905,7 @@ shall be reduced to the extent that such value is attributable to any portion of
 
 **(q)**
 
-**(1)** As a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of an interest in property described in subparagraphs (A), (B), (C), and (D) of subsection (p)(1) which exceeds in the aggregate $125,000 <sup>1</sup> if—
+**(1)** As a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of an interest in property described in subparagraphs (A), (B), (C), and (D) of subsection (p)(1) which exceeds in the aggregate $125,000 <sup>1</sup> if—
 
 **(A)** the court determines, after notice and a hearing, that the debtor has been convicted of a felony (as defined in section 3156 of title 18), which under the circumstances, demonstrates that the filing of the case was an abuse of the provisions of this title; or
 
@@ -1921,7 +1921,7 @@ shall be reduced to the extent that such value is attributable to any portion of
 
 **(2)** Paragraph (1) shall not apply to the extent the amount of an interest in property described in subparagraphs (A), (B), (C), and (D) of subsection (p)(1) is reasonably necessary for the support of the debtor and any dependent of the debtor.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§ 306, 453, July 10, 1984, 98 Stat. 353, 375; Pub. L. 99–554, title II, § 283(i), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 101–647, title XXV, § 2522(b), Nov. 29, 1990, 104 Stat. 4866; Pub. L. 103–394, title I, § 108(d), title III, §§ 303, 304(d), 310, title V, § 501(d)(12), Oct. 22, 1994, 108 Stat. 4112, 4132, 4133, 4137, 4145; Pub. L. 106–420, § 4, Nov. 1, 2000, 114 Stat. 1868; Pub. L. 109–8, title II, §§ 216, 224(a), (e)(1), title III, §§ 307, 308, 313(a), 322(a), Apr. 20, 2005, 119 Stat. 55, 62, 65, 81, 87, 96; Pub. L. 111–327, § 2(a)(17), Dec. 22, 2010, 124 Stat. 3559.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§ 306, 453, July 10, 1984, 98 Stat. 353, 375; Pub. L. 99–554, title II, § 283(i), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 101–647, title XXV, § 2522(b), Nov. 29, 1990, 104 Stat. 4866; Pub. L. 103–394, title I, § 108(d), title III, §§ 303, 304(d), 310, title V, § 501(d)(12), Oct. 22, 1994, 108 Stat. 4112, 4132, 4133, 4137, 4145; Pub. L. 106–420, § 4, Nov. 1, 2000, 114 Stat. 1868; Pub. L. 109–8, title II, §§ 216, 224(a), (e)(1), title III, §§ 307, 308, 313(a), 322(a), Apr. 20, 2005, 119 Stat. 55, 62, 65, 81, 87, 96; Pub. L. 111–327, § 2(a)(17), Dec. 22, 2010, 124 Stat. 3559.)
 
 **Historical and Revision Notes**
 
@@ -1941,35 +1941,35 @@ Subsection (a) of this section defines two terms: “dependent” includes the d
 
 Subsection (b) tracks current law. It permits a debtor the exemptions to which he is entitled under other Federal law and the law of the State of his dom­icile. Some of the items that may be exempted under Federal laws other than title 11 include:
 
-Foreign Service Retirement and Disability payments, 22 U.S.C. 1104; 1
+Foreign Service Retirement and Disability payments, 22 U.S.C. 1104; 1
 
-<sup>1</sup>  Replaced by 22 U.S.C. 4060(c).
+<sup>1</sup> Replaced by 22 U.S.C. 4060(c).
 
 Social security payments, 42 U.S.C. 407;
 
 Injury or death compensation payments from war risk hazards, 42 U.S.C. 1717;
 
-Wages of fishermen, seamen, and apprentices, 46 U.S.C. 601; 2
+Wages of fishermen, seamen, and apprentices, 46 U.S.C. 601; 2
 
-<sup>2</sup>  Replaced by 46 U.S.C. 11108, 11109.
+<sup>2</sup> Replaced by 46 U.S.C. 11108, 11109.
 
-Civil service retirement benefits, 5 U.S.C. 729, 2265; 3
+Civil service retirement benefits, 5 U.S.C. 729, 2265; 3
 
-<sup>3</sup>  Replaced by 5 U.S.C. 8346.
+<sup>3</sup> Replaced by 5 U.S.C. 8346.
 
 Longshoremen’s and Harbor Workers’ Compensation Act death and disability benefits, 33 U.S.C. 916;
 
-Railroad Retirement Act annuities and pensions, 45 U.S.C. 228(L); 4
+Railroad Retirement Act annuities and pensions, 45 U.S.C. 228(L); 4
 
-<sup>4</sup>  Replaced by 45 U.S.C. 231m.
+<sup>4</sup> Replaced by 45 U.S.C. 231m.
 
-Veterans benefits, 45 U.S.C. 352(E); 5
+Veterans benefits, 45 U.S.C. 352(E); 5
 
-<sup>5</sup>  Railroad unemployment benefits are covered by 45 U.S.C. 352(e).
+<sup>5</sup> Railroad unemployment benefits are covered by 45 U.S.C. 352(e).
 
-Special pensions paid to winners of the Congressional Medal of Honor, 38 U.S.C. 3101; 6
+Special pensions paid to winners of the Congressional Medal of Honor, 38 U.S.C. 3101; 6
 
-<sup>6</sup>  Veterans benefits generally are covered by 38 U.S.C. 3101 [now 5301].
+<sup>6</sup> Veterans benefits generally are covered by 38 U.S.C. 3101 [now 5301].
 
 and
 
@@ -2011,35 +2011,35 @@ Subsection (a) of this section defines two terms: “dependent” includes the d
 
 Subsection (b), the operative subsection of this section, is a significant departure from present law. It permits an individual debtor in a bankruptcy case a choice between exemption systems. The debtor may choose the Federal exemptions prescribed in subsection (d), or he may choose the exemptions to which he is entitled under other Federal law and the law of the State of his domicile. If the debtor chooses the latter, some of the items that may be exempted under other Federal laws include:
 
-—Foreign Service Retirement and Disability payments, 22 U.S.C. 1104; 7
+—Foreign Service Retirement and Disability payments, 22 U.S.C. 1104; 7
 
-<sup>7</sup>  Replaced by 22 U.S.C. 4060(c).
+<sup>7</sup> Replaced by 22 U.S.C. 4060(c).
 
 —Social security payments, 42 U.S.C. 407;
 
 —Injury or death compensation payments from war risk hazards, 42 U.S.C. 1717;
 
-—Wages of fishermen, seamen, and apprentices, 46 U.S.C. 601; 8
+—Wages of fishermen, seamen, and apprentices, 46 U.S.C. 601; 8
 
-<sup>8</sup>  Replaced by 46 U.S.C. 11108, 11109.
+<sup>8</sup> Replaced by 46 U.S.C. 11108, 11109.
 
-—Civil service retirement benefits, 5 U.S.C. 729, 2265; 9
+—Civil service retirement benefits, 5 U.S.C. 729, 2265; 9
 
-<sup>9</sup>  Replaced by 5 U.S.C. 8346.
+<sup>9</sup> Replaced by 5 U.S.C. 8346.
 
 —Longshoremen’s and Harbor Workers’ Compensation Act death and disability benefits, 33 U.S.C. 916;
 
-—Railroad Retirement Act annuities and pensions, 45 U.S.C. 228(*l*); 10
+—Railroad Retirement Act annuities and pensions, 45 U.S.C. 228(*l*); 10
 
-<sup>10</sup>  Replaced by 45 U.S.C. 231m.
+<sup>10</sup> Replaced by 45 U.S.C. 231m.
 
-—Veterans benefits, 45 U.S.C. 352(E); 11
+—Veterans benefits, 45 U.S.C. 352(E); 11
 
-<sup>11</sup>  Railroad unemployment benefits are covered by 45 U.S.C. 352(e).
+<sup>11</sup> Railroad unemployment benefits are covered by 45 U.S.C. 352(e).
 
-—Special pensions paid to winners of the Congressional Medal of Honor, 38 U.S.C. 3101; 12
+—Special pensions paid to winners of the Congressional Medal of Honor, 38 U.S.C. 3101; 12
 
-<sup>12</sup>  Veterans benefits generally are covered by 38 U.S.C. 3101 [now 5301].
+<sup>12</sup> Veterans benefits generally are covered by 38 U.S.C. 3101 [now 5301].
 
 and
 
@@ -2093,33 +2093,33 @@ Section 6 of the Securities Exchange Act of 1933, referred to in subsec. (q)(1)(
 
 **Amendments**
 
-2010—Subsec. (b)(3)(A). Pub. L. 111–327, § 2(a)(17)(A), substituted “petition to the place” for “petition at the place” and “located in a single State” for “located at a single State”.
+2010—Subsec. (b)(3)(A). Pub. L. 111–327, § 2(a)(17)(A), substituted “petition to the place” for “petition at the place” and “located in a single State” for “located at a single State”.
 
-Subsec. (c)(1). Pub. L. 111–327, § 2(a)(17)(B), substituted “such paragraph” for “section 523(a)(5)”.
+Subsec. (c)(1). Pub. L. 111–327, § 2(a)(17)(B), substituted “such paragraph” for “section 523(a)(5)”.
 
-2005—Subsec. (b). Pub. L. 109–8, § 224(a)(1)(B)–(F), designated introductory provisions of subsec. (b) as par. (1), substituted “paragraph (3)” for “paragraph (2)” in two places and “paragraph (2)” for “paragraph (1)” wherever appearing, struck out “Such property is—” after “case is filed.”, and struck out former par. (1) which read: “property that is specified under subsection (d) of this section, unless the State law that is applicable to the debtor under paragraph (2)(A) of this subsection specifically does not so authorize; or, in the alternative,”.
+2005—Subsec. (b). Pub. L. 109–8, § 224(a)(1)(B)–(F), designated introductory provisions of subsec. (b) as par. (1), substituted “paragraph (3)” for “paragraph (2)” in two places and “paragraph (2)” for “paragraph (1)” wherever appearing, struck out “Such property is—” after “case is filed.”, and struck out former par. (1) which read: “property that is specified under subsection (d) of this section, unless the State law that is applicable to the debtor under paragraph (2)(A) of this subsection specifically does not so authorize; or, in the alternative,”.
 
-Subsec. (b)(2). Pub. L. 109–8, § 224(a)(1)(B), added par. (2). Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 109–8, § 224(a)(1)(B), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (b)(2)(C). Pub. L. 109–8, § 224(a)(1)(A)(i)–(iii), added subpar. (C).
+Subsec. (b)(2)(C). Pub. L. 109–8, § 224(a)(1)(A)(i)–(iii), added subpar. (C).
 
-Subsec. (b)(3). Pub. L. 109–8, § 307(2), inserted “If the effect of the domiciliary requirement under subparagraph (A) is to render the debtor ineligible for any exemption, the debtor may elect to exempt property that is specified under subsection (d).” at end.
+Subsec. (b)(3). Pub. L. 109–8, § 307(2), inserted “If the effect of the domiciliary requirement under subparagraph (A) is to render the debtor ineligible for any exemption, the debtor may elect to exempt property that is specified under subsection (d).” at end.
 
-Pub. L. 109–8, § 224(a)(1)(A)(iv), redesignated par. (2) as (3) and inserted introductory provisions.
+Pub. L. 109–8, § 224(a)(1)(A)(iv), redesignated par. (2) as (3) and inserted introductory provisions.
 
-Subsec. (b)(3)(A). Pub. L. 109–8, § 308(1), inserted “subject to subsections (*o*) and (p),” before “any property”.
+Subsec. (b)(3)(A). Pub. L. 109–8, § 308(1), inserted “subject to subsections (*o*) and (p),” before “any property”.
 
-Pub. L. 109–8, § 307(1), substituted “730 days” for “180 days” and “or if the debtor’s domicile has not been located at a single State for such 730-day period, the place in which the debtor’s domicile was located for 180 days immediately preceding the 730-day period or for a longer portion of such 180-day period than in any other place” for “, or for a longer portion of such 180-day period than in any other place”.
+Pub. L. 109–8, § 307(1), substituted “730 days” for “180 days” and “or if the debtor’s domicile has not been located at a single State for such 730-day period, the place in which the debtor’s domicile was located for 180 days immediately preceding the 730-day period or for a longer portion of such 180-day period than in any other place” for “, or for a longer portion of such 180-day period than in any other place”.
 
-Subsec. (b)(4). Pub. L. 109–8, § 224(a)(1)(G), added par. (4).
+Subsec. (b)(4). Pub. L. 109–8, § 224(a)(1)(G), added par. (4).
 
-Subsec. (c)(1). Pub. L. 109–8, § 216(1), added par. (1) and struck out former par. (1) which read as follows: “a debt of a kind specified in section 523(a)(1) or 523(a)(5) of this title;”.
+Subsec. (c)(1). Pub. L. 109–8, § 216(1), added par. (1) and struck out former par. (1) which read as follows: “a debt of a kind specified in section 523(a)(1) or 523(a)(5) of this title;”.
 
-Subsec. (d). Pub. L. 109–8, § 224(a)(2)(A), substituted “subsection (b)(2)” for “subsection (b)(1)” in introductory provisions.
+Subsec. (d). Pub. L. 109–8, § 224(a)(2)(A), substituted “subsection (b)(2)” for “subsection (b)(1)” in introductory provisions.
 
-Subsec. (d)(12). Pub. L. 109–8, § 224(a)(2)(B), added par. (12).
+Subsec. (d)(12). Pub. L. 109–8, § 224(a)(2)(B), added par. (12).
 
-Subsec. (f)(1)(A). Pub. L. 109–8, § 216(2), substituted “a debt of a kind that is specified in section 523(a)(5); or” for “a debt—
+Subsec. (f)(1)(A). Pub. L. 109–8, § 216(2), substituted “a debt of a kind that is specified in section 523(a)(5); or” for “a debt—
 
 “(i) to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement; and
 
@@ -2129,31 +2129,31 @@ Subsec. (f)(1)(A). Pub. L. 109–8, § 216(2), substituted “a debt of a kind
 
 “(II) includes a liability designated as alimony, maintenance, or support, unless such liability is actually in the nature of alimony, maintenance or support.; or”.
 
-Subsec. (f)(4). Pub. L. 109–8, § 313(a), added par. (4).
+Subsec. (f)(4). Pub. L. 109–8, § 313(a), added par. (4).
 
-Subsec. (g)(2). Pub. L. 109–8, § 216(3), substituted “subsection (f)(1)(B)” for “subsection (f)(2)”.
+Subsec. (g)(2). Pub. L. 109–8, § 216(3), substituted “subsection (f)(1)(B)” for “subsection (f)(2)”.
 
-Subsec. (n). Pub. L. 109–8, § 224(e)(1), added subsec. (n).
+Subsec. (n). Pub. L. 109–8, § 224(e)(1), added subsec. (n).
 
-Subsec. (*o*). Pub. L. 109–8, § 308(2), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 109–8, § 308(2), added subsec. (*o*).
 
-Subsecs. (p), (q). Pub. L. 109–8, § 322(a), added subsecs. (p) and (q).
+Subsecs. (p), (q). Pub. L. 109–8, § 322(a), added subsecs. (p) and (q).
 
 2000—Subsec. (c)(4). Pub. L. 106–420 added par. (4).
 
-1994—Subsec. (b). Pub. L. 103–394, § 501(d)(12)(A), substituted “Federal Rules of Bankruptcy Procedure” for “Bankruptcy Rules”.
+1994—Subsec. (b). Pub. L. 103–394, § 501(d)(12)(A), substituted “Federal Rules of Bankruptcy Procedure” for “Bankruptcy Rules”.
 
-Subsec. (d)(1) to (6). Pub. L. 103–394, § 108(d)(1)–(6), substituted “$15,000” for “$7,500” in par. (1), “$2,400” for “$1,200” in par. (2), “$400” and “$8,000” for “$200” and “$4,000”, respectively, in par. (3), “$1,000” for “$500” in par. (4), “$800” and “$7,500” for “$400” and “$3,750”, respectively, in par. (5), and “$1,500” for “$750” in par. (6).
+Subsec. (d)(1) to (6). Pub. L. 103–394, § 108(d)(1)–(6), substituted “$15,000” for “$7,500” in par. (1), “$2,400” for “$1,200” in par. (2), “$400” and “$8,000” for “$200” and “$4,000”, respectively, in par. (3), “$1,000” for “$500” in par. (4), “$800” and “$7,500” for “$400” and “$3,750”, respectively, in par. (5), and “$1,500” for “$750” in par. (6).
 
-Subsec. (d)(8). Pub. L. 103–394, § 108(d)(7), substituted “$8,000” for “$4,000”.
+Subsec. (d)(8). Pub. L. 103–394, § 108(d)(7), substituted “$8,000” for “$4,000”.
 
-Subsec. (d)(10)(E)(iii). Pub. L. 103–394, § 501(d)(12)(B), substituted “or 408” for “408, or 409” and “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 (26 U.S.C. 401(a), 403(a), 403(b), 408, or 409)”.
+Subsec. (d)(10)(E)(iii). Pub. L. 103–394, § 501(d)(12)(B), substituted “or 408” for “408, or 409” and “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 (26 U.S.C. 401(a), 403(a), 403(b), 408, or 409)”.
 
-Subsec. (d)(11)(D). Pub. L. 103–394, § 108(d)(8), substituted “$15,000” for “$7,500”.
+Subsec. (d)(11)(D). Pub. L. 103–394, § 108(d)(8), substituted “$15,000” for “$7,500”.
 
-Subsec. (f)(1). Pub. L. 103–394, §§ 303(3), 310(1), designated existing provisions as par. (1) and inserted “but subject to paragraph (3)” after “waiver of exemptions” in introductory provisions. Former par. (1) redesignated subpar. (A) of par. (1).
+Subsec. (f)(1). Pub. L. 103–394, §§ 303(3), 310(1), designated existing provisions as par. (1) and inserted “but subject to paragraph (3)” after “waiver of exemptions” in introductory provisions. Former par. (1) redesignated subpar. (A) of par. (1).
 
-Subsec. (f)(1)(A). Pub. L. 103–394, §§ 303(2), 304(d), redesignated par. (1) as subpar. (A) of par. (1) and inserted “, other than a judicial lien that secures a debt—
+Subsec. (f)(1)(A). Pub. L. 103–394, §§ 303(2), 304(d), redesignated par. (1) as subpar. (A) of par. (1) and inserted “, other than a judicial lien that secures a debt—
 
 “(i) to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement; and
 
@@ -2163,23 +2163,23 @@ Subsec. (f)(1)(A). Pub. L. 103–394, §§ 303(2), 304(d), redesignated par. (
 
 “(II) includes a liability designated as alimony, maintenance, or support, unless such liability is actually in the nature of alimony, maintenance or support.”
 
-Subsec. (f)(1)(B). Pub. L. 103–394, § 303(1), redesignated par. (2) as subpar. (B) of par. (1) and subpars. (A) to (C) of par. (2) as cls. (i) to (iii), respectively, of subpar. (B) of par. (1).
+Subsec. (f)(1)(B). Pub. L. 103–394, § 303(1), redesignated par. (2) as subpar. (B) of par. (1) and subpars. (A) to (C) of par. (2) as cls. (i) to (iii), respectively, of subpar. (B) of par. (1).
 
-Subsec. (f)(2). Pub. L. 103–394, § 303(4), added par. (2). Former par. (2) redesignated subpar. (B) of par. (1).
+Subsec. (f)(2). Pub. L. 103–394, § 303(4), added par. (2). Former par. (2) redesignated subpar. (B) of par. (1).
 
-Subsec. (f)(3). Pub. L. 103–394, § 310(2), added par. (3).
+Subsec. (f)(3). Pub. L. 103–394, § 310(2), added par. (3).
 
 1990—Subsec. (c)(3). Pub. L. 101–647 added par. (3).
 
-1986—Subsec. (h)(1). Pub. L. 99–554, § 283(i)(1), substituted “553 of this title” for “553 of this tittle”.
+1986—Subsec. (h)(1). Pub. L. 99–554, § 283(i)(1), substituted “553 of this title” for “553 of this tittle”.
 
-Subsec. (i)(2). Pub. L. 99–554, § 283(i)(2), substituted “this” for “his” after “subsection (g) of”.
+Subsec. (i)(2). Pub. L. 99–554, § 283(i)(2), substituted “this” for “his” after “subsection (g) of”.
 
-1984—Subsec. (a)(2). Pub. L. 98–353, § 453(a), inserted “or, with respect to property that becomes property of an estate after such date, as of the date such property becomes property of the estate”.
+1984—Subsec. (a)(2). Pub. L. 98–353, § 453(a), inserted “or, with respect to property that becomes property of an estate after such date, as of the date such property becomes property of the estate”.
 
-Subsec. (b). Pub. L. 98–353, § 306(a), inserted provision that in joint cases filed under section 302 of this title and individual cases filed under section 301 or 303 of this title by or against debtors who are husband and wife, and whose estates are ordered to be jointly administered under Rule 1015(b) of the Bankruptcy Rules, one debtor may not elect to exempt property listed in paragraph (1) and the other debtor elect to exempt property listed in paragraph (2) of this subsection, but that if the parties cannot agree on the alternative to be elected, they shall be deemed to elect paragraph (1), where such election is permitted under the law of the jurisdiction where the case is filed.
+Subsec. (b). Pub. L. 98–353, § 306(a), inserted provision that in joint cases filed under section 302 of this title and individual cases filed under section 301 or 303 of this title by or against debtors who are husband and wife, and whose estates are ordered to be jointly administered under Rule 1015(b) of the Bankruptcy Rules, one debtor may not elect to exempt property listed in paragraph (1) and the other debtor elect to exempt property listed in paragraph (2) of this subsection, but that if the parties cannot agree on the alternative to be elected, they shall be deemed to elect paragraph (1), where such election is permitted under the law of the jurisdiction where the case is filed.
 
-Subsec. (c). Pub. L. 98–353, § 453(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Unless the case is dismissed, property exempted under this section is not liable during or after the case for any debt of the debtor that arose, or that is determined under section 502 of this title as if such claim had arisen before the commencement of the case, except—
+Subsec. (c). Pub. L. 98–353, § 453(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Unless the case is dismissed, property exempted under this section is not liable during or after the case for any debt of the debtor that arose, or that is determined under section 502 of this title as if such claim had arisen before the commencement of the case, except—
 
 “(1) a debt of a kind specified in section 523(a)(1) or section 523(a)(5) of this title; or
 
@@ -2193,13 +2193,13 @@ Subsec. (c). Pub. L. 98–353, § 453(b), amended subsec. (c) generally. Prior
 
 “(ii) avoided under section 545(2) of this title.”
 
-Subsec. (d)(3). Pub. L. 98–353, § 306(b), inserted “or $4,000 in aggregate value”.
+Subsec. (d)(3). Pub. L. 98–353, § 306(b), inserted “or $4,000 in aggregate value”.
 
-Subsec. (d)(5). Pub. L. 98–353, § 306(c), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The debtor’s aggregate interest, not to exceed in value $400 plus any unused amount of the exemption provided under paragraph (1) of this subsection, in any property.”
+Subsec. (d)(5). Pub. L. 98–353, § 306(c), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The debtor’s aggregate interest, not to exceed in value $400 plus any unused amount of the exemption provided under paragraph (1) of this subsection, in any property.”
 
-Subsec. (e). Pub. L. 98–353, § 453(c), substituted “an exemption” for “exemptions”.
+Subsec. (e). Pub. L. 98–353, § 453(c), substituted “an exemption” for “exemptions”.
 
-Subsec. (m). Pub. L. 98–353, § 306(d), substituted “Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case” for “This section shall apply separately with respect to each debtor in a joint case”.
+Subsec. (m). Pub. L. 98–353, § 306(d), substituted “Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case” for “This section shall apply separately with respect to each debtor in a joint case”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2245,11 +2245,11 @@ By notice dated Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001, in subsec.
 
 By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (d)(1), dollar amount “15,000” was adjusted to “16,150”; in subsec. (d)(2), dollar amount “2,400” was adjusted to “2,575”; in subsec. (d)(3), dollar amounts “400” and “8,000” were adjusted to “425” and “8,625”, respectively; in subsec. (d)(4), dollar amount “1,000” was adjusted to “1,075”; in subsec. (d)(5), dollar amounts “800” and “7,500” were adjusted to “850” and “8,075”, respectively; in subsec. (d)(6), dollar amount “1,500” was adjusted to “1,625”; in subsec. (d)(8), dollar amount “8,000” was adjusted to “8,625”; and, in subsec. (d)(11)(D), dollar amount “15,000” was adjusted to “16,150”.
 
-### § 523. Exceptions to discharge
+### § 523. Exceptions to discharge
 
-**(a)** A discharge under section 727, 1141, 1192 1
+**(a)** A discharge under section 727, 1141, 1192 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 1228(a), 1228(b), or 1328(b) of this title does not discharge an individual debtor from any debt—
 
@@ -2283,13 +2283,13 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
 
 **(i)** for purposes of subparagraph (A)—
 
-**(I)** consumer debts owed to a single creditor and aggregating more than $500 2
+**(I)** consumer debts owed to a single creditor and aggregating more than $500 2
 
-<sup>2</sup>  See Adjustment of Dollar Amounts notes below.
+<sup>2</sup> See Adjustment of Dollar Amounts notes below.
 
 for luxury goods or services incurred by an individual debtor on or within 90 days before the order for relief under this title are presumed to be nondischargeable; and
 
-**(II)** cash advances aggregating more than $750 <sup>2</sup> that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 70 days before the order for relief under this title, are presumed to be nondischargeable; and
+**(II)** cash advances aggregating more than $750 <sup>2</sup> that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 70 days before the order for relief under this title, are presumed to be nondischargeable; and
 
 **(ii)** for purposes of this subparagraph—
 
@@ -2375,11 +2375,11 @@ but nothing in this paragraph may be construed to provide that any loan made und
 
 For purposes of this subsection, the term “return” means a return that satisfies the requirements of applicable nonbankruptcy law (including applicable filing requirements). Such term includes a return prepared pursuant to section 6020(a) of the Internal Revenue Code of 1986, or similar State or local law, or a written stipulation to a judgment or a final order entered by a nonbankruptcy tribunal, but does not include a return made pursuant to section 6020(b) of the Internal Revenue Code of 1986, or a similar State or local law.
 
-**(b)** Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A 3
+**(b)** Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
-of the Higher Education Act of 1965, or under section 733(g) 3 of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
+of the Higher Education Act of 1965, or under section 733(g) 3 of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
 
 **(c)**
 
@@ -2391,7 +2391,7 @@ of the Higher Education Act of 1965, or under section 733(g) 3 of the Public H
 
 **(e)** Any institution-affiliated party of an insured depository institution shall be considered to be acting in a fiduciary capacity with respect to the purposes of subsection (a)(4) or (11).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, § 3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, § 2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§ 307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§ 257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, § 2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, § 2522(a), title XXXI, § 3102(a), title XXXVI, § 3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, § 320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, § 221, title III, §§ 304(e), (h)(3), 306, 309, title V, § 501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 804(b)], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, § 374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, § 971(a), Oct. 7, 1998, 112 Stat. 1837; Pub. L. 107–204, title VIII, § 803, July 30, 2002, 116 Stat. 801; Pub. L. 109–8, title II, §§ 215, 220, 224(c), title III, §§ 301, 310, 314(a), title IV, § 412, title VII, § 714, title XII, §§ 1209, 1235, title XIV, § 1404(a), title XV, § 1502(a)(2), Apr. 20, 2005, 119 Stat. 54, 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216; Pub. L. 111–327, § 2(a)(18), Dec. 22, 2010, 124 Stat. 3559; Pub. L. 116–54, § 4(a)(8), Aug. 23, 2019, 133 Stat. 1086; Pub. L. 117–347, title II, § 201, Jan. 5, 2023, 136 Stat. 6205.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, § 3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, § 2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§ 307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§ 257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, § 2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, § 2522(a), title XXXI, § 3102(a), title XXXVI, § 3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, § 320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, § 221, title III, §§ 304(e), (h)(3), 306, 309, title V, § 501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 804(b)], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, § 374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, § 971(a), Oct. 7, 1998, 112 Stat. 1837; Pub. L. 107–204, title VIII, § 803, July 30, 2002, 116 Stat. 801; Pub. L. 109–8, title II, §§ 215, 220, 224(c), title III, §§ 301, 310, 314(a), title IV, § 412, title VII, § 714, title XII, §§ 1209, 1235, title XIV, § 1404(a), title XV, § 1502(a)(2), Apr. 20, 2005, 119 Stat. 54, 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216; Pub. L. 111–327, § 2(a)(18), Dec. 22, 2010, 124 Stat. 3559; Pub. L. 116–54, § 4(a)(8), Aug. 23, 2019, 133 Stat. 1086; Pub. L. 117–347, title II, § 201, Jan. 5, 2023, 136 Stat. 6205.)
 
 **Historical and Revision Notes**
 
@@ -2429,19 +2429,19 @@ The House amendment also adopts the Senate amendment provision limiting the nond
 
 **senate report no. 95–989**
 
-This section specifies which of the debtor’s debts are not discharged in a bankruptcy case, and certain procedures for effectuating the section. The provision in Bankruptcy Act § 17c [section 35(c) of former title 11] granting the bankruptcy courts jurisdiction to determine dischargeability is deleted as unnecessary, in view of the comprehensive grant of jurisdiction prescribed in proposed 28 U.S.C. 1334(b), which is adequate to cover the full jurisdiction that the bankruptcy courts have today over dischargeability and related issues under Bankruptcy Act § 17c. The Rules of Bankruptcy Procedure will specify, as they do today, who may request determinations of dischargeability, subject, of course, to proposed 11 U.S.C. 523(c), and when such a request may be made. Proposed 11 U.S.C. 350, providing for reopening of cases, provides one possible procedure for a determination of dischargeability and related issues after a case is closed.
+This section specifies which of the debtor’s debts are not discharged in a bankruptcy case, and certain procedures for effectuating the section. The provision in Bankruptcy Act § 17c [section 35(c) of former title 11] granting the bankruptcy courts jurisdiction to determine dischargeability is deleted as unnecessary, in view of the comprehensive grant of jurisdiction prescribed in proposed 28 U.S.C. 1334(b), which is adequate to cover the full jurisdiction that the bankruptcy courts have today over dischargeability and related issues under Bankruptcy Act § 17c. The Rules of Bankruptcy Procedure will specify, as they do today, who may request determinations of dischargeability, subject, of course, to proposed 11 U.S.C. 523(c), and when such a request may be made. Proposed 11 U.S.C. 350, providing for reopening of cases, provides one possible procedure for a determination of dischargeability and related issues after a case is closed.
 
-Subsection (a) lists nine kinds of debts excepted from discharge. Taxes that are excepted from discharge are set forth in paragraph (1). These include claims against the debtor which receive priority in the second, third and sixth categories (§ 507(a)(3)(B) and (c) and (6)). These categories include taxes for which the tax authority failed to file a claim against the estate or filed its claim late. Whether or not the taxing authority’s claim is secured will also not affect the claim’s nondischargeability if the tax liability in question is otherwise entitled to priority.
+Subsection (a) lists nine kinds of debts excepted from discharge. Taxes that are excepted from discharge are set forth in paragraph (1). These include claims against the debtor which receive priority in the second, third and sixth categories (§ 507(a)(3)(B) and (c) and (6)). These categories include taxes for which the tax authority failed to file a claim against the estate or filed its claim late. Whether or not the taxing authority’s claim is secured will also not affect the claim’s nondischargeability if the tax liability in question is otherwise entitled to priority.
 
-Also included in the nondischargeable debts are taxes for which the debtor had not filed a required return as of the petition date, or for which a return had been filed beyond its last permitted due date (§ 523(a)(1)(B)). For this purpose, the date of the tax year to which the return relates is immaterial. The late return rule applies, however, only to the late returns filed within three years before the petition was filed, and to late returns filed after the petition in title 11 was filed. For this purpose, the taxable year in question need not be one or more of the three years immediately preceding the filing of the petition.
+Also included in the nondischargeable debts are taxes for which the debtor had not filed a required return as of the petition date, or for which a return had been filed beyond its last permitted due date (§ 523(a)(1)(B)). For this purpose, the date of the tax year to which the return relates is immaterial. The late return rule applies, however, only to the late returns filed within three years before the petition was filed, and to late returns filed after the petition in title 11 was filed. For this purpose, the taxable year in question need not be one or more of the three years immediately preceding the filing of the petition.
 
-Tax claims with respect to which the debtor filed a fraudulent return, entry or invoice, or fraudulently attempted to evade or defeat any tax (§ 523(a)(1)(C)) are included. The date of the taxable year with regard to which the fraud occurred is immaterial.
+Tax claims with respect to which the debtor filed a fraudulent return, entry or invoice, or fraudulently attempted to evade or defeat any tax (§ 523(a)(1)(C)) are included. The date of the taxable year with regard to which the fraud occurred is immaterial.
 
-Also included are tax payments due under an agreement for deferred payment of taxes, which a debtor had entered into with the Internal Revenue Service (or State or local tax authority) before the filing of the petition and which relate to a prepetition tax liability (§ 523(a)(1)(D)) are also nondischargeable. This classification applies only to tax claims which would have received priority under section 507(a) if the taxpayer had filed a title 11 petition on the date on which the deferred payment agreement was entered into. This rule also applies only to installment payments which become due during and after the commencement of the title 11 case. Payments which had become due within one year before the filing of the petition receive sixth priority, and will be nondischargeable under the general rule of section 523(a)(1)(A).
+Also included are tax payments due under an agreement for deferred payment of taxes, which a debtor had entered into with the Internal Revenue Service (or State or local tax authority) before the filing of the petition and which relate to a prepetition tax liability (§ 523(a)(1)(D)) are also nondischargeable. This classification applies only to tax claims which would have received priority under section 507(a) if the taxpayer had filed a title 11 petition on the date on which the deferred payment agreement was entered into. This rule also applies only to installment payments which become due during and after the commencement of the title 11 case. Payments which had become due within one year before the filing of the petition receive sixth priority, and will be nondischargeable under the general rule of section 523(a)(1)(A).
 
 The above categories of nondischargeability apply to customs duties as well as to taxes.
 
-Paragraph (2) provides that as under Bankruptcy Act § 17a(2) [section 35(a)(2) of former title 11], a debt for obtaining money, property, services, or a refinancing extension or renewal of credit by false pretenses, a false representation, or actual fraud, or by use of a statement in writing respecting the debtor’s financial condition that is materially false, on which the creditor reasonably relied, and which the debtor made or published with intent to deceive, is excepted from discharge. This provision is modified only slightly from current section 17a(2). First, “actual fraud” is added as a ground for exception from discharge. Second, the creditor must not only have relied on a false statement in writing, but the reliance must have been reasonable. This codifies case law construing present section 17a(2). Third, the phrase “in any manner whatsoever” that appears in current law after “made or published” is deleted as unnecessary, the word “published” is used in the same sense that it is used in defamation cases.
+Paragraph (2) provides that as under Bankruptcy Act § 17a(2) [section 35(a)(2) of former title 11], a debt for obtaining money, property, services, or a refinancing extension or renewal of credit by false pretenses, a false representation, or actual fraud, or by use of a statement in writing respecting the debtor’s financial condition that is materially false, on which the creditor reasonably relied, and which the debtor made or published with intent to deceive, is excepted from discharge. This provision is modified only slightly from current section 17a(2). First, “actual fraud” is added as a ground for exception from discharge. Second, the creditor must not only have relied on a false statement in writing, but the reliance must have been reasonable. This codifies case law construing present section 17a(2). Third, the phrase “in any manner whatsoever” that appears in current law after “made or published” is deleted as unnecessary, the word “published” is used in the same sense that it is used in defamation cases.
 
 Unscheduled debts are excepted from discharge under paragraph (3). The provision, derived from section 17a(3) [section 35(a)(3) of former title 11], follows current law, but clarifies some uncertainties generated by the case law construing 17a(3). The debt is excepted from discharge if it was not scheduled in time to permit timely action by the creditor to protect his rights, unless the creditor had notice or actual knowledge of the case.
 
@@ -2457,7 +2457,7 @@ Paragraph (8) follows generally current law and excerpts from discharge student 
 
 Paragraph (9) excepts from discharge debts that the debtor owed before a previous bankruptcy case concerning the debtor in which the debtor was denied a discharge other than on the basis of the six-year bar.
 
-Subsection (b) of this section permits discharge in a bankruptcy case of an unscheduled debt from a prior case. This provision is carried over from Bankruptcy Act § 17b [section 35(b) of former title 11]. The result dictated by the subsection would probably not be different if the subsection were not included. It is included nevertheless for clarity.
+Subsection (b) of this section permits discharge in a bankruptcy case of an unscheduled debt from a prior case. This provision is carried over from Bankruptcy Act § 17b [section 35(b) of former title 11]. The result dictated by the subsection would probably not be different if the subsection were not included. It is included nevertheless for clarity.
 
 Subsection (c) requires a creditor who is owed a debt that may be excepted from discharge under paragraph (2), (4), or (5), (false statements, defalcation or larceny misappropriation, or willful and malicious injury) to initiate proceedings in the bankruptcy court for an exception to discharge. If the creditor does not act, the debt is discharged. This provision does not change current law.
 
@@ -2469,11 +2469,11 @@ The purpose of the provision is to discourage creditors from initiating proceedi
 
 Subsection (a) lists eight kinds of debts excepted from discharge. Taxes that are entitled to priority are excepted from discharge under paragraph (1). In addition, taxes with respect to which the debtor made a fraudulent return or willfully attempted to evade or defeat, or with respect to which a return (if required) was not filed or was not filed after the due date and after one year before the bankruptcy case are excepted from discharge. If the taxing authority’s claim has been disallowed, then it would be barred by the more modern rules of collateral estoppel from reasserting that claim against the debtor after the case was closed. See Plumb, The Tax Recommendations of the Commission on the Bankruptcy Laws: Tax Procedures, 88 Harv.L.Rev. 1360, 1388 (1975).
 
-As under Bankruptcy Act § 17a(2) [section 35(a)(2) of former title 11], debt for obtaining money, property, services, or an extension or renewal of credit by false pretenses, a false representation, or actual fraud, or by use of a statement in writing respecting the debtor’s financial condition that is materially false, on which the creditor reasonably relied, and that the debtor made or published with intent to deceive, is excepted from discharge. This provision is modified only slightly from current section 17a(2). First, “actual fraud” is added as a grounds for exception from discharge. Second, the creditor must not only have relied on a false statement in writing, the reliance must have been reasonable. This codifies case law construing this provision. Third, the phrase “in any manner whatsoever” that appears in current law after “made or published” is deleted as unnecessary. The word “published” is used in the same sense that it is used in slander actions.
+As under Bankruptcy Act § 17a(2) [section 35(a)(2) of former title 11], debt for obtaining money, property, services, or an extension or renewal of credit by false pretenses, a false representation, or actual fraud, or by use of a statement in writing respecting the debtor’s financial condition that is materially false, on which the creditor reasonably relied, and that the debtor made or published with intent to deceive, is excepted from discharge. This provision is modified only slightly from current section 17a(2). First, “actual fraud” is added as a grounds for exception from discharge. Second, the creditor must not only have relied on a false statement in writing, the reliance must have been reasonable. This codifies case law construing this provision. Third, the phrase “in any manner whatsoever” that appears in current law after “made or published” is deleted as unnecessary. The word “published” is used in the same sense that it is used in slander actions.
 
 Unscheduled debts are excepted from discharge under paragraph (3). The provision, derived from section 17a(3) [section 35(a)(3) of former title 11], follows current law, but clarifies some uncertainties generated by the case law construing 17a(3). The debt is excepted from discharge if it was not scheduled in time to permit timely action by the creditor to protect his rights, unless the creditor had notice or actual knowledge of the case.
 
-Paragraph (4) excepts debts for embezzlement or larceny. The deletion of willful and malicious conversion from § 17a(2) of the Bankruptcy Act [section 35(a)(2) of former title 11] is not intended to effect a substantive change. The intent is to include in the category of non-dischargeable debts a conversion under which the debtor willfully and maliciously intends to borrow property for a short period of time with no intent to inflict injury but on which injury is in fact inflicted.
+Paragraph (4) excepts debts for embezzlement or larceny. The deletion of willful and malicious conversion from § 17a(2) of the Bankruptcy Act [section 35(a)(2) of former title 11] is not intended to effect a substantive change. The intent is to include in the category of non-dischargeable debts a conversion under which the debtor willfully and maliciously intends to borrow property for a short period of time with no intent to inflict injury but on which injury is in fact inflicted.
 
 Paragraph (5) excepts from discharge debts to a spouse, former spouse, or child of the debtor for alimony to, maintenance for, or support of, the spouse or child. This language, in combination with the repeal of section 456(b) of the Social Security Act (42 U.S.C. 656(b)) by section 327 of the bill, will apply to make nondischargeable only alimony, maintenance, or support owed directly to a spouse or dependent. See Hearings, pt. 2, at 942. What constitutes alimony, maintenance, or support, will be determined under the bankruptcy laws, not State law. Thus, cases such as *In re Waller*, 494 F.2d 447 (6th Cir. 1974); Hearings, pt. 3, at 1308–10, are overruled, and the result in cases such as *Fife v. Fife*, 1 Utah 2d 281, 265 P.2d 642 (1952) is followed. This provision will, however, make nondischargeable any debts resulting from an agreement by the debtor to hold the debtor’s spouse harmless on joint debts, to the extent that the agreement is in payment of alimony, maintenance, or support of the spouse, as determined under bankruptcy law considerations that are similar to considerations of whether a particular agreement to pay money to a spouse is actually alimony or a property settlement. See Hearings, pt. 3, at 1287–1290.
 
@@ -2499,9 +2499,9 @@ Section 408(b)(1) of the Employee Retirement Income Security Act of 1974, referr
 
 Section 3(a)(47) of the Securities Exchange Act of 1934, referred to in subsec. (a)(19)(A)(i), is classified to section 78c(a)(47) of Title 15, Commerce and Trade.
 
-Section 439A of the Higher Education Act of 1965, referred to in subsec. (b), was classified to section 1087–3 of Title 20, Education, and was repealed by Pub. L. 95–598, title III, § 317, Nov. 6, 1978, 92 Stat. 2678.
+Section 439A of the Higher Education Act of 1965, referred to in subsec. (b), was classified to section 1087–3 of Title 20, Education, and was repealed by Pub. L. 95–598, title III, § 317, Nov. 6, 1978, 92 Stat. 2678.
 
-Section 733(g) of the Public Health Service Act, referred to in subsec. (b), was repealed by Pub. L. 95–598, title III, § 327, Nov. 6, 1978, 92 Stat. 2679. A subsec. (g), containing similar provisions, was added to section 733 by Pub. L. 97–35, title XXVII, § 2730, Aug. 13, 1981, 95 Stat. 919. Section 733 was subsequently omitted in the general revision of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, by Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 1994. See section 292f(g) of Title 42.
+Section 733(g) of the Public Health Service Act, referred to in subsec. (b), was repealed by Pub. L. 95–598, title III, § 327, Nov. 6, 1978, 92 Stat. 2679. A subsec. (g), containing similar provisions, was added to section 733 by Pub. L. 97–35, title XXVII, § 2730, Aug. 13, 1981, 95 Stat. 919. Section 733 was subsequently omitted in the general revision of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, by Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 1994. See section 292f(g) of Title 42.
 
 **Amendments**
 
@@ -2509,143 +2509,143 @@ Section 733(g) of the Public Health Service Act, referred to in subsec. (b), was
 
 2019—Subsec. (a). Pub. L. 116–54 inserted “1192” after “1141,” in introductory provisions.
 
-2010—Subsec. (a)(2)(C)(ii)(II). Pub. L. 111–327, § 2(a)(18)(A), substituted semicolon for period at end.
+2010—Subsec. (a)(2)(C)(ii)(II). Pub. L. 111–327, § 2(a)(18)(A), substituted semicolon for period at end.
 
-Subsec. (a)(3). Pub. L. 111–327, § 2(a)(18)(B), substituted “521(a)(1)” for “521(1)” in introductory provisions.
+Subsec. (a)(3). Pub. L. 111–327, § 2(a)(18)(B), substituted “521(a)(1)” for “521(1)” in introductory provisions.
 
-2005—Pub. L. 109–8, § 1209(1), transferred par. (15) and inserted it after subsec. (a)(14A). See 1994 Amendments note below.
+2005—Pub. L. 109–8, § 1209(1), transferred par. (15) and inserted it after subsec. (a)(14A). See 1994 Amendments note below.
 
-Pub. L. 109–8, § 215(3), in par. (15), inserted “to a spouse, former spouse, or child of the debtor and” before “not of the kind” and “or” after “court of record,” and substituted a semicolon for “unless—
+Pub. L. 109–8, § 215(3), in par. (15), inserted “to a spouse, former spouse, or child of the debtor and” before “not of the kind” and “or” after “court of record,” and substituted a semicolon for “unless—
 
 “(A) the debtor does not have the ability to pay such debt from income or property of the debtor not reasonably necessary to be expended for the maintenance or support of the debtor or a dependent of the debtor and, if the debtor is engaged in a business, for the payment of expenditures necessary for the continuation, preservation, and operation of such business; or
 
 “(B) discharging such debt would result in a benefit to the debtor that outweighs the detrimental consequences to a spouse, former spouse, or child of the debtor;”.
 
-Subsec. (a). Pub. L. 109–8, § 714(2), inserted at end “For purposes of this subsection, the term ‘return’ means a return that satisfies the requirements of applicable nonbankruptcy law (including applicable filing requirements). Such term includes a return prepared pursuant to section 6020(a) of the Internal Revenue Code of 1986, or similar State or local law, or a written stipulation to a judgment or a final order entered by a nonbankruptcy tribunal, but does not include a return made pursuant to section 6020(b) of the Internal Revenue Code of 1986, or a similar State or local law.”
+Subsec. (a). Pub. L. 109–8, § 714(2), inserted at end “For purposes of this subsection, the term ‘return’ means a return that satisfies the requirements of applicable nonbankruptcy law (including applicable filing requirements). Such term includes a return prepared pursuant to section 6020(a) of the Internal Revenue Code of 1986, or similar State or local law, or a written stipulation to a judgment or a final order entered by a nonbankruptcy tribunal, but does not include a return made pursuant to section 6020(b) of the Internal Revenue Code of 1986, or a similar State or local law.”
 
-Subsec. (a)(1)(A). Pub. L. 109–8, § 1502(a)(2), substituted “507(a)(3)” for “507(a)(2)”.
+Subsec. (a)(1)(A). Pub. L. 109–8, § 1502(a)(2), substituted “507(a)(3)” for “507(a)(2)”.
 
-Subsec. (a)(1)(B). Pub. L. 109–8, § 714(1)(A), inserted “or equivalent report or notice,” after “a return,” in introductory provisions.
+Subsec. (a)(1)(B). Pub. L. 109–8, § 714(1)(A), inserted “or equivalent report or notice,” after “a return,” in introductory provisions.
 
-Subsec. (a)(1)(B)(i). Pub. L. 109–8, § 714(1)(B), inserted “or given” after “filed”.
+Subsec. (a)(1)(B)(i). Pub. L. 109–8, § 714(1)(B), inserted “or given” after “filed”.
 
-Subsec. (a)(1)(B)(ii). Pub. L. 109–8, § 714(1)(C), inserted “or given” after “filed” and “, report, or notice” after “return”.
+Subsec. (a)(1)(B)(ii). Pub. L. 109–8, § 714(1)(C), inserted “or given” after “filed” and “, report, or notice” after “return”.
 
-Subsec. (a)(2)(C). Pub. L. 109–8, § 310, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “for purposes of subparagraph (A) of this paragraph, consumer debts owed to a single creditor and aggregating more than $1,000 for ‘luxury goods or services’ incurred by an individual debtor on or within 60 days before the order for relief under this title, or cash advances aggregating more than $1,000 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 60 days before the order for relief under this title, are presumed to be nondischargeable; ‘luxury goods or services’ do not include goods or services reasonably acquired for the support or maintenance of the debtor or a dependent of the debtor; an extension of consumer credit under an open end credit plan is to be defined for purposes of this subparagraph as it is defined in the Consumer Credit Protection Act;”.
+Subsec. (a)(2)(C). Pub. L. 109–8, § 310, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “for purposes of subparagraph (A) of this paragraph, consumer debts owed to a single creditor and aggregating more than $1,000 for ‘luxury goods or services’ incurred by an individual debtor on or within 60 days before the order for relief under this title, or cash advances aggregating more than $1,000 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 60 days before the order for relief under this title, are presumed to be nondischargeable; ‘luxury goods or services’ do not include goods or services reasonably acquired for the support or maintenance of the debtor or a dependent of the debtor; an extension of consumer credit under an open end credit plan is to be defined for purposes of this subparagraph as it is defined in the Consumer Credit Protection Act;”.
 
-Subsec. (a)(5). Pub. L. 109–8, § 215(1)(A), added par. (5) and struck out former par. (5) which read as follows: “to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that—
+Subsec. (a)(5). Pub. L. 109–8, § 215(1)(A), added par. (5) and struck out former par. (5) which read as follows: “to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that—
 
 “(A) such debt is assigned to another entity, voluntarily, by operation of law, or otherwise (other than debts assigned pursuant to section 408(a)(3) of the Social Security Act, or any such debt which has been assigned to the Federal Government or to a State or any political subdivision of such State); or
 
 “(B) such debt includes a liability designated as alimony, maintenance, or support, unless such liability is actually in the nature of alimony, maintenance, or support;”
 
-Subsec. (a)(8). Pub. L. 109–8, § 220, added par. (8) and struck out former par. (8) which read as follows: “for an educational benefit overpayment or loan made, insured or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or nonprofit institution, or for an obligation to repay funds received as an educational benefit, scholarship or stipend, unless excepting such debt from discharge under this paragraph will impose an undue hardship on the debtor and the debtor’s dependents;”.
+Subsec. (a)(8). Pub. L. 109–8, § 220, added par. (8) and struck out former par. (8) which read as follows: “for an educational benefit overpayment or loan made, insured or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or nonprofit institution, or for an obligation to repay funds received as an educational benefit, scholarship or stipend, unless excepting such debt from discharge under this paragraph will impose an undue hardship on the debtor and the debtor’s dependents;”.
 
-Subsec. (a)(9). Pub. L. 109–8, § 1209(2), substituted “motor vehicle, vessel, or aircraft” for “motor vehicle”.
+Subsec. (a)(9). Pub. L. 109–8, § 1209(2), substituted “motor vehicle, vessel, or aircraft” for “motor vehicle”.
 
-Subsec. (a)(14A). Pub. L. 109–8, § 314(a), added par. (14A).
+Subsec. (a)(14A). Pub. L. 109–8, § 314(a), added par. (14A).
 
-Subsec. (a)(14B). Pub. L. 109–8, § 1235, added par. (14B).
+Subsec. (a)(14B). Pub. L. 109–8, § 1235, added par. (14B).
 
-Subsec. (a)(16). Pub. L. 109–8, § 412, struck out “dwelling” after “debtor’s interest in a” and “housing” after “share of a cooperative” and substituted “ownership,” for “ownership or” and “or a lot in a homeowners association, for as long as the debtor or the trustee has a legal, equitable, or possessory ownership interest in such unit, such corporation, or such lot,” for “but only if such fee or assessment is payable for a period during which—
+Subsec. (a)(16). Pub. L. 109–8, § 412, struck out “dwelling” after “debtor’s interest in a” and “housing” after “share of a cooperative” and substituted “ownership,” for “ownership or” and “or a lot in a homeowners association, for as long as the debtor or the trustee has a legal, equitable, or possessory ownership interest in such unit, such corporation, or such lot,” for “but only if such fee or assessment is payable for a period during which—
 
 “(A) the debtor physically occupied a dwelling unit in the condominium or cooperative project; or
 
 “(B) the debtor rented the dwelling unit to a tenant and received payments from the tenant for such period,”.
 
-Subsec. (a)(17). Pub. L. 109–8, § 301, substituted “on a prisoner by any court” for “by a court” and “subsection (b) or (f)(2) of section 1915” for “section 1915(b) or (f)” and inserted “(or a similar non-Federal law)” after “title 28” in two places.
+Subsec. (a)(17). Pub. L. 109–8, § 301, substituted “on a prisoner by any court” for “by a court” and “subsection (b) or (f)(2) of section 1915” for “section 1915(b) or (f)” and inserted “(or a similar non-Federal law)” after “title 28” in two places.
 
-Subsec. (a)(18). Pub. L. 109–8, § 224(c), added par. (18).
+Subsec. (a)(18). Pub. L. 109–8, § 224(c), added par. (18).
 
-Pub. L. 109–8, § 215(1)(B), struck out par. (18) which read as follows: “owed under State law to a State or municipality that is—
+Pub. L. 109–8, § 215(1)(B), struck out par. (18) which read as follows: “owed under State law to a State or municipality that is—
 
 “(A) in the nature of support, and
 
 “(B) enforceable under part D of title IV of the Social Security Act (42 U.S.C. 601 et seq.); or”.
 
-Subsec. (a)(19)(B). Pub. L. 109–8, § 1404(a), inserted “, before, on, or after the date on which the petition was filed,” after “results” in introductory provisions.
+Subsec. (a)(19)(B). Pub. L. 109–8, § 1404(a), inserted “, before, on, or after the date on which the petition was filed,” after “results” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 109–8, § 215(2), substituted “or (6)” for “(6), or (15)” in two places.
+Subsec. (c)(1). Pub. L. 109–8, § 215(2), substituted “or (6)” for “(6), or (15)” in two places.
 
-Subsec. (e). Pub. L. 109–8, § 1209(3), substituted “an insured” for “a insured”.
+Subsec. (e). Pub. L. 109–8, § 1209(3), substituted “an insured” for “a insured”.
 
 2002—Subsec. (a)(19). Pub. L. 107–204 added par. (19).
 
 1998—Subsec. (a)(8). Pub. L. 105–244 substituted “stipend, unless” for “stipend, unless—” and struck out “(B)” before “excepting such debt” and subpar. (A) which read as follows: “such loan, benefit, scholarship, or stipend overpayment first became due more than 7 years (exclusive of any applicable suspension of the repayment period) before the date of the filing of the petition; or”.
 
-1996—Subsec. (a)(5)(A). Pub. L. 104–193, § 374(a)(4), substituted “section 408(a)(3)” for “section 402(a)(26)”.
+1996—Subsec. (a)(5)(A). Pub. L. 104–193, § 374(a)(4), substituted “section 408(a)(3)” for “section 402(a)(26)”.
 
 Subsec. (a)(17). Pub. L. 104–134 added par. (17).
 
-Subsec. (a)(18). Pub. L. 104–193, § 374(a)(1)–(3), added par. (18).
+Subsec. (a)(18). Pub. L. 104–193, § 374(a)(1)–(3), added par. (18).
 
-1994—Par. (15). Pub. L. 103–394, § 304(e)[(1)], amended this section by adding par. (15) at the end. See 2005 Amendment note above.
+1994—Par. (15). Pub. L. 103–394, § 304(e)[(1)], amended this section by adding par. (15) at the end. See 2005 Amendment note above.
 
-Subsec. (a). Pub. L. 103–394, § 501(d)(13)(A)(i), substituted “1141,” for “1141,,” in introductory provisions.
+Subsec. (a). Pub. L. 103–394, § 501(d)(13)(A)(i), substituted “1141,” for “1141,,” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 103–394, § 304(h)(3), substituted “507(a)(8)” for “507(a)(7)”.
+Subsec. (a)(1)(A). Pub. L. 103–394, § 304(h)(3), substituted “507(a)(8)” for “507(a)(7)”.
 
-Subsec. (a)(2)(C). Pub. L. 103–394, §§ 306, 501(d)(13)(A)(ii), substituted “$1,000 for” for “$500 for”, “60” for “forty” after “incurred by an individual debtor on or within”, and “60” for “twenty” after “obtained by an individual debtor on or within”, and struck out “(15 U.S.C. 1601 et seq.)” after “Protection Act”.
+Subsec. (a)(2)(C). Pub. L. 103–394, §§ 306, 501(d)(13)(A)(ii), substituted “$1,000 for” for “$500 for”, “60” for “forty” after “incurred by an individual debtor on or within”, and “60” for “twenty” after “obtained by an individual debtor on or within”, and struck out “(15 U.S.C. 1601 et seq.)” after “Protection Act”.
 
-Subsec. (a)(11). Pub. L. 103–322, § 320934(1), struck out “or” after semicolon at end.
+Subsec. (a)(11). Pub. L. 103–322, § 320934(1), struck out “or” after semicolon at end.
 
-Subsec. (a)(12). Pub. L. 103–322, § 320934(2), which directed the substitution of “; or” for a period at end of par. (12), could not be executed because a period did not appear at end.
+Subsec. (a)(12). Pub. L. 103–322, § 320934(2), which directed the substitution of “; or” for a period at end of par. (12), could not be executed because a period did not appear at end.
 
-Subsec. (a)(13). Pub. L. 103–394, § 221(1), substituted semicolon for period at end.
+Subsec. (a)(13). Pub. L. 103–394, § 221(1), substituted semicolon for period at end.
 
-Pub. L. 103–322, § 320934(3), added par. (13).
+Pub. L. 103–322, § 320934(3), added par. (13).
 
-Subsec. (a)(14). Pub. L. 103–394, § 221(2), added par. (14).
+Subsec. (a)(14). Pub. L. 103–394, § 221(2), added par. (14).
 
-Subsec. (a)(16). Pub. L. 103–394, § 309, added par. (16).
+Subsec. (a)(16). Pub. L. 103–394, § 309, added par. (16).
 
-Subsec. (b). Pub. L. 103–394, § 501(d)(13)(B), struck out “(20 U.S.C. 1087–3)” after “Act of 1965” and “(42 U.S.C. 294f)” after “Service Act”.
+Subsec. (b). Pub. L. 103–394, § 501(d)(13)(B), struck out “(20 U.S.C. 1087–3)” after “Act of 1965” and “(42 U.S.C. 294f)” after “Service Act”.
 
-Subsec. (c)(1). Pub. L. 103–394, § 304(e)(2), substituted “(6), or (15)” for “or (6)” in two places.
+Subsec. (c)(1). Pub. L. 103–394, § 304(e)(2), substituted “(6), or (15)” for “or (6)” in two places.
 
-Subsec. (e). Pub. L. 103–394, § 501(d)(13)(C), substituted “insured depository institution” for “depository institution or insured credit union”.
+Subsec. (e). Pub. L. 103–394, § 501(d)(13)(C), substituted “insured depository institution” for “depository institution or insured credit union”.
 
-1990—Subsec. (a)(8). Pub. L. 101–647, § 3621, substituted “for an educational benefit overpayment or loan made, insured or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or nonprofit institution, or for an obligation to repay funds received as an educational benefit, scholarship or stipend, unless” for “for an educational loan made, insured, or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or a nonprofit institution, unless” in introductory provisions and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such loan first became due before five years (exclusive of any applicable suspension of the repayment period) before the date of the filing of the petition; or”.
+1990—Subsec. (a)(8). Pub. L. 101–647, § 3621, substituted “for an educational benefit overpayment or loan made, insured or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or nonprofit institution, or for an obligation to repay funds received as an educational benefit, scholarship or stipend, unless” for “for an educational loan made, insured, or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or a nonprofit institution, unless” in introductory provisions and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such loan first became due before five years (exclusive of any applicable suspension of the repayment period) before the date of the filing of the petition; or”.
 
-Subsec. (a)(9). Pub. L. 101–581 and Pub. L. 101–647, § 3102(a), identically amended par. (9) generally. Prior to amendment, par. (9) read as follows: “to any entity, to the extent that such debt arises from a judgment or consent decree entered in a court of record against the debtor wherein liability was incurred by such debtor as a result of the debtor’s operation of a motor vehicle while legally intoxicated under the laws or regulations of any jurisdiction within the United States or its territories wherein such motor vehicle was operated and within which such liability was incurred; or”.
+Subsec. (a)(9). Pub. L. 101–581 and Pub. L. 101–647, § 3102(a), identically amended par. (9) generally. Prior to amendment, par. (9) read as follows: “to any entity, to the extent that such debt arises from a judgment or consent decree entered in a court of record against the debtor wherein liability was incurred by such debtor as a result of the debtor’s operation of a motor vehicle while legally intoxicated under the laws or regulations of any jurisdiction within the United States or its territories wherein such motor vehicle was operated and within which such liability was incurred; or”.
 
-Subsec. (a)(11), (12). Pub. L. 101–647, § 2522(a)(1), added pars. (11) and (12).
+Subsec. (a)(11), (12). Pub. L. 101–647, § 2522(a)(1), added pars. (11) and (12).
 
-Subsec. (c). Pub. L. 101–647, § 2522(a)(3), designated existing provisions as par. (1) and added par. (2).
+Subsec. (c). Pub. L. 101–647, § 2522(a)(3), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (e). Pub. L. 101–647, § 2522(a)(2), added subsec. (e).
+Subsec. (e). Pub. L. 101–647, § 2522(a)(2), added subsec. (e).
 
-1986—Subsec. (a). Pub. L. 99–554, § 257(n), inserted reference to sections 1228(a) and 1228(b) of this title.
+1986—Subsec. (a). Pub. L. 99–554, § 257(n), inserted reference to sections 1228(a) and 1228(b) of this title.
 
-Subsec. (a)(1)(A). Pub. L. 99–554, § 283(j)(1)(A), substituted “507(a)(7)” for “507(a)(6)”.
+Subsec. (a)(1)(A). Pub. L. 99–554, § 283(j)(1)(A), substituted “507(a)(7)” for “507(a)(6)”.
 
-Subsec. (a)(5). Pub. L. 99–554, § 281, struck out the comma after “decree” and inserted “, determination made in accordance with State or territorial law by a governmental unit,” after “record”.
+Subsec. (a)(5). Pub. L. 99–554, § 281, struck out the comma after “decree” and inserted “, determination made in accordance with State or territorial law by a governmental unit,” after “record”.
 
-Subsec. (a)(9), (10). Pub. L. 99–554, § 283(j)(1)(B), redesignated par. (9) relating to debts incurred by persons driving while intoxicated, added by Pub. L. 98–353, as (10).
+Subsec. (a)(9), (10). Pub. L. 99–554, § 283(j)(1)(B), redesignated par. (9) relating to debts incurred by persons driving while intoxicated, added by Pub. L. 98–353, as (10).
 
-Subsec. (b). Pub. L. 99–554, § 283(j)(2), substituted “Service” for “Services”.
+Subsec. (b). Pub. L. 99–554, § 283(j)(2), substituted “Service” for “Services”.
 
-1984—Subsec. (a)(2). Pub. L. 98–353, § 454(a)(1), in provisions preceding subpar. (A), struck out “obtaining” after “for”, and substituted “refinancing of credit, to the extent obtained” for “refinance of credit,”.
+1984—Subsec. (a)(2). Pub. L. 98–353, § 454(a)(1), in provisions preceding subpar. (A), struck out “obtaining” after “for”, and substituted “refinancing of credit, to the extent obtained” for “refinance of credit,”.
 
-Subsec. (a)(2)(A). Pub. L. 98–353, § 307(a)(1), struck out “or” at end.
+Subsec. (a)(2)(A). Pub. L. 98–353, § 307(a)(1), struck out “or” at end.
 
-Subsec. (a)(2)(B). Pub. L. 98–353, § 307(a)(2), inserted “or” at end.
+Subsec. (a)(2)(B). Pub. L. 98–353, § 307(a)(2), inserted “or” at end.
 
-Subsec. (a)(2)(B)(iii). Pub. L. 98–353, § 454(a)(1)(A), struck out “obtaining” before “such”.
+Subsec. (a)(2)(B)(iii). Pub. L. 98–353, § 454(a)(1)(A), struck out “obtaining” before “such”.
 
-Subsec. (a)(2)(C). Pub. L. 98–353, § 307(a)(3), added subpar. (C).
+Subsec. (a)(2)(C). Pub. L. 98–353, § 307(a)(3), added subpar. (C).
 
-Subsec. (a)(5). Pub. L. 98–353, § 454(b)(1), inserted “or other order of a court of record” after “divorce decree,” in provisions preceding subpar. (A).
+Subsec. (a)(5). Pub. L. 98–353, § 454(b)(1), inserted “or other order of a court of record” after “divorce decree,” in provisions preceding subpar. (A).
 
-Subsec. (a)(5)(A). Pub. L. 98–353, § 454(b)(2), inserted “, or any such debt which has been assigned to the Federal Government or to a State or any political subdivision of such State”.
+Subsec. (a)(5)(A). Pub. L. 98–353, § 454(b)(2), inserted “, or any such debt which has been assigned to the Federal Government or to a State or any political subdivision of such State”.
 
-Subsec. (a)(8). Pub. L. 98–353, §§ 371(1), 454(a)(2), struck out “of higher education” after “a nonprofit institution of” and struck out “or” at end.
+Subsec. (a)(8). Pub. L. 98–353, §§ 371(1), 454(a)(2), struck out “of higher education” after “a nonprofit institution of” and struck out “or” at end.
 
-Subsec. (a)(9). Pub. L. 98–353, § 371(2), added the par. (9) relating to debts incurred by persons driving while intoxicated.
+Subsec. (a)(9). Pub. L. 98–353, § 371(2), added the par. (9) relating to debts incurred by persons driving while intoxicated.
 
-Subsec. (c). Pub. L. 98–353, § 454(c), inserted “of a kind” after “debt”.
+Subsec. (c). Pub. L. 98–353, § 454(c), inserted “of a kind” after “debt”.
 
-Subsec. (d). Pub. L. 98–353, § 307(b), substituted “the court shall grant judgment in favor of the debtor for the costs of, and a reasonable attorney’s fee for, the proceeding if the court finds that the position of the creditor was not substantially justified, except that the court shall not award such costs and fees if special circumstances would make the award unjust” for “the court shall grant judgment against such creditor and in favor of the debtor for the costs of, and a reasonable attorney’s fee for, the proceeding to determine dischargeability, unless such granting of judgment would be clearly inequitable”.
+Subsec. (d). Pub. L. 98–353, § 307(b), substituted “the court shall grant judgment in favor of the debtor for the costs of, and a reasonable attorney’s fee for, the proceeding if the court finds that the position of the creditor was not substantially justified, except that the court shall not award such costs and fees if special circumstances would make the award unjust” for “the court shall grant judgment against such creditor and in favor of the debtor for the costs of, and a reasonable attorney’s fee for, the proceeding to determine dischargeability, unless such granting of judgment would be clearly inequitable”.
 
 1981—Subsec. (a)(5)(A). Pub. L. 97–35 substituted “law, or otherwise (other than debts assigned pursuant to section 402(a)(26) of the Social Security Act);” for “law, or otherwise;”.
 
@@ -2659,17 +2659,17 @@ Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see sectio
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–8, title XIV, § 1404(b), Apr. 20, 2005, 119 Stat. 215, provided that: “The amendment made by subsection (a) [amending this section] is effective beginning July 30, 2002.”
+Pub. L. 109–8, title XIV, § 1404(b), Apr. 20, 2005, 119 Stat. 215, provided that: “The amendment made by subsection (a) [amending this section] is effective beginning July 30, 2002.”
 
 Amendment by sections 215, 220, 224(c), 301, 310, 314(a), 412, 714, 1209, 1235, and 1502(a)(2) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–244, title IX, § 971(b), Oct. 7, 1998, 112 Stat. 1837, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to cases commenced under title 11, United States Code, after the date of enactment of this Act [Oct. 7, 1998].”
+Pub. L. 105–244, title IX, § 971(b), Oct. 7, 1998, 112 Stat. 1837, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to cases commenced under title 11, United States Code, after the date of enactment of this Act [Oct. 7, 1998].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–193, title III, § 374(c), Aug. 22, 1996, 110 Stat. 2256, provided that: “The amendments made by this section [amending this section and section 656 of Title 42, The Public Health and Welfare] shall apply only with respect to cases commenced under title 11 of the United States Code after the date of the enactment of this Act [Aug. 22, 1996].”
+Pub. L. 104–193, title III, § 374(c), Aug. 22, 1996, 110 Stat. 2256, provided that: “The amendments made by this section [amending this section and section 656 of Title 42, The Public Health and Welfare] shall apply only with respect to cases commenced under title 11 of the United States Code after the date of the enactment of this Act [Aug. 22, 1996].”
 
 For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42, The Public Health and Welfare.
 
@@ -2679,7 +2679,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–647, title XXXI, § 3104, Nov. 29, 1990, 104 Stat. 4916, provided that:
+Pub. L. 101–647, title XXXI, § 3104, Nov. 29, 1990, 104 Stat. 4916, provided that:
 
 > **“(a) Effective Date.—** This title and the amendments made by this title [amending this section and section 1328 of this title and enacting provisions set out as a note under section 101 of this title] shall take effect on the date of the enactment of this Act [Nov. 29, 1990].
 
@@ -2687,7 +2687,7 @@ Pub. L. 101–647, title XXXI, § 3104, Nov. 29, 1990, 104 Stat. 4916, provide
 
 Amendment by section 3621 of Pub. L. 101–647 effective 180 days after Nov. 29, 1990, see section 3631 of Pub. L. 101–647, set out as an Effective Date note under section 3001 of Title 28, Judiciary and Judicial Procedure.
 
-Pub. L. 101–581, § 4, Nov. 15, 1990, 104 Stat. 2865, provided that:
+Pub. L. 101–581, § 4, Nov. 15, 1990, 104 Stat. 2865, provided that:
 
 > **“(a) Effective Date.—** This Act and the amendments made by this Act [amending this section and section 1328 of this title and enacting provisions set out as a note under section 101 of this title] shall take effect on the date of the enactment of this Act [Nov. 15, 1990].
 
@@ -2735,7 +2735,7 @@ By notice dated Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001, in subsec.
 
 By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (a)(2)(C), dollar amount “1,000” was adjusted to “1,075” each time it appeared.
 
-### § 524. Effect of discharge
+### § 524. Effect of discharge
 
 **(a)** A discharge in a case under this title—
 
@@ -3047,7 +3047,7 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
 
 “Description of any changes to the credit agreement made as part of this reaffirmation agreement:
 
-“Signature:              Date:
+“Signature: Date:
 
 “Borrower:
 
@@ -3065,7 +3065,7 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
 
 “I hereby certify that (1) this agreement represents a fully informed and voluntary agreement by the debtor; (2) this agreement does not impose an undue hardship on the debtor or any dependent of the debtor; and (3) I have fully advised the debtor of the legal effect and consequences of this agreement and any default under this agreement.
 
-“Signature of Debtor’s Attorney:      Date:”.
+“Signature of Debtor’s Attorney: Date:”.
 
 **(B)** If a presumption of undue hardship has been established with respect to such agreement, such certification shall state that, in the opinion of the attorney, the debtor is able to make the payment.
 
@@ -3113,7 +3113,7 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
 
 **(2)** This subsection does not apply to reaffirmation agreements where the creditor is a credit union, as defined in section 19(b)(1)(A)(iv) of the Federal Reserve Act.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2592; Pub. L. 98–353, title III, §§ 308, 455, July 10, 1984, 98 Stat. 354, 376; Pub. L. 99–554, title II, §§ 257(*o*), 282, 283(k), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 103–394, title I, §§ 103, 111(a), title V, § 501(d)(14), Oct. 22, 1994, 108 Stat. 4108, 4113, 4145; Pub. L. 109–8, title II, §§ 202, 203(a), title XII, § 1210, Apr. 20, 2005, 119 Stat. 43, 194; Pub. L. 111–327, § 2(a)(19), Dec. 22, 2010, 124 Stat. 3559; Pub. L. 116–54, § 4(a)(9), Aug. 23, 2019, 133 Stat. 1086.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2592; Pub. L. 98–353, title III, §§ 308, 455, July 10, 1984, 98 Stat. 354, 376; Pub. L. 99–554, title II, §§ 257(*o*), 282, 283(k), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 103–394, title I, §§ 103, 111(a), title V, § 501(d)(14), Oct. 22, 1994, 108 Stat. 4108, 4113, 4145; Pub. L. 109–8, title II, §§ 202, 203(a), title XII, § 1210, Apr. 20, 2005, 119 Stat. 43, 194; Pub. L. 111–327, § 2(a)(19), Dec. 22, 2010, 124 Stat. 3559; Pub. L. 116–54, § 4(a)(9), Aug. 23, 2019, 133 Stat. 1086.)
 
 **Historical and Revision Notes**
 
@@ -3125,7 +3125,7 @@ Sections 524(c) and (d) represent a compromise between the House bill and Senate
 
 **senate report no. 95–989**
 
-Subsection (a) specifies that a discharge in a bankruptcy case voids any judgment to the extent that it is a determination of the personal liability of the debtor with respect to a prepetition debt, and operates as an injunction against the commencement or continuation of an action, the employment of process, or any act, including telephone calls, letters, and personal contacts, to collect, recover, or offset any discharged debt as a personal liability of the debtor, or from property of the debtor, whether or not the debtor has waived discharge of the debt involved. The injunction is to give complete effect to the discharge and to eliminate any doubt concerning the effect of the discharge as a total prohibition on debt collection efforts. This paragraph has been expanded over a comparable provision in Bankruptcy Act § 14f [section 32(f) of former title 11] to cover any act to collect, such as dunning by telephone or letter, or indirectly through friends, relatives, or employers, harassment, threats of repossession, and the like. The change is consonant with the new policy forbidding binding reaffirmation agreements under proposed 11 U.S.C. 524(b), and is intended to insure that once a debt is discharged, the debtor will not be pressured in any way to repay it. In effect, the discharge extinguishes the debt, and creditors may not attempt to avoid that. The language “whether or not discharge of such debt is waived” is intended to prevent waiver of discharge of a particular debt from defeating the purposes of this section. It is directed at waiver of discharge of a particular debt, not waiver of discharge in toto as permitted under section 727(a)(9).
+Subsection (a) specifies that a discharge in a bankruptcy case voids any judgment to the extent that it is a determination of the personal liability of the debtor with respect to a prepetition debt, and operates as an injunction against the commencement or continuation of an action, the employment of process, or any act, including telephone calls, letters, and personal contacts, to collect, recover, or offset any discharged debt as a personal liability of the debtor, or from property of the debtor, whether or not the debtor has waived discharge of the debt involved. The injunction is to give complete effect to the discharge and to eliminate any doubt concerning the effect of the discharge as a total prohibition on debt collection efforts. This paragraph has been expanded over a comparable provision in Bankruptcy Act § 14f [section 32(f) of former title 11] to cover any act to collect, such as dunning by telephone or letter, or indirectly through friends, relatives, or employers, harassment, threats of repossession, and the like. The change is consonant with the new policy forbidding binding reaffirmation agreements under proposed 11 U.S.C. 524(b), and is intended to insure that once a debt is discharged, the debtor will not be pressured in any way to repay it. In effect, the discharge extinguishes the debt, and creditors may not attempt to avoid that. The language “whether or not discharge of such debt is waived” is intended to prevent waiver of discharge of a particular debt from defeating the purposes of this section. It is directed at waiver of discharge of a particular debt, not waiver of discharge in toto as permitted under section 727(a)(9).
 
 Subsection (a) also codifies the split discharge for debtors in community property states. If community property was in the estate and community claims were discharged, the discharge is effective against community creditors of the nondebtor spouse as well as of the debtor spouse.
 
@@ -3145,77 +3145,77 @@ The date of the enactment of this subsection, referred to in subsec. (g)(7), is 
 
 The date of the enactment of this Act, referred to in subsec. (h), probably means the date of enactment of Pub. L. 103–394, which enacted subsec. (h) and was approved Oct. 22, 1994.
 
-The Truth in Lending Act, referred to in subsec. (k), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. Sections 103, 127(b), and 128(a)(4) of the Act are classified to sections 1602, 1637(b), and 1638(a)(4), respectively, of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec. (k), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. Sections 103, 127(b), and 128(a)(4) of the Act are classified to sections 1602, 1637(b), and 1638(a)(4), respectively, of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 Section 19(b)(1)(A)(iv) of the Federal Reserve Act, referred to in subsecs. (k)(6)(B) and (m)(2), is classified to section 461(b)(1)(A)(iv) of Title 12, Banks and Banking.
 
 **Amendments**
 
-2019—Subsec. (a)(1). Pub. L. 116–54, § 4(a)(9)(A)(i), inserted “1192,” after “1141,”.
+2019—Subsec. (a)(1). Pub. L. 116–54, § 4(a)(9)(A)(i), inserted “1192,” after “1141,”.
 
-Subsec. (a)(3). Pub. L. 116–54, § 4(a)(9)(A)(ii), inserted “1192,” after “523,”.
+Subsec. (a)(3). Pub. L. 116–54, § 4(a)(9)(A)(ii), inserted “1192,” after “523,”.
 
-Subsec. (c)(1). Pub. L. 116–54, § 4(a)(9)(B), inserted “1192,” after “1141,”.
+Subsec. (c)(1). Pub. L. 116–54, § 4(a)(9)(B), inserted “1192,” after “1141,”.
 
-Subsec. (d). Pub. L. 116–54, § 4(a)(9)(C), inserted “1192,” after “1141,” in introductory provisions.
+Subsec. (d). Pub. L. 116–54, § 4(a)(9)(C), inserted “1192,” after “1141,” in introductory provisions.
 
-2010—Subsec. (k)(3)(J)(i). Pub. L. 111–327, § 2(a)(19)(A), in last undesignated par., substituted “property securing the lien” for “security property” and “amount of the allowed secured claim” for “current value of the security property” and inserted “must” before “make a single payment”.
+2010—Subsec. (k)(3)(J)(i). Pub. L. 111–327, § 2(a)(19)(A), in last undesignated par., substituted “property securing the lien” for “security property” and “amount of the allowed secured claim” for “current value of the security property” and inserted “must” before “make a single payment”.
 
-Subsec. (k)(5)(B). Pub. L. 111–327, § 2(a)(19)(B), substituted “that,” for “that”.
+Subsec. (k)(5)(B). Pub. L. 111–327, § 2(a)(19)(B), substituted “that,” for “that”.
 
-2005—Subsec. (a)(3). Pub. L. 109–8, § 1210, substituted “section 523, 1228(a)(1), or 1328(a)(1), or that” for “section 523, 1228(a)(1), or 1328(a)(1) of this title, or that”.
+2005—Subsec. (a)(3). Pub. L. 109–8, § 1210, substituted “section 523, 1228(a)(1), or 1328(a)(1), or that” for “section 523, 1228(a)(1), or 1328(a)(1) of this title, or that”.
 
-Subsec. (c)(2). Pub. L. 109–8, § 203(a)(1), added par. (2) and struck out former par. (2) which read as follows:
+Subsec. (c)(2). Pub. L. 109–8, § 203(a)(1), added par. (2) and struck out former par. (2) which read as follows:
 
 “(2)(A) such agreement contains a clear and conspicuous statement which advises the debtor that the agreement may be rescinded at any time prior to discharge or within sixty days after such agreement is filed with the court, whichever occurs later, by giving notice of rescission to the holder of such claim; and
 
 “(B) such agreement contains a clear and conspicuous statement which advises the debtor that such agreement is not required under this title, under nonbankruptcy law, or under any agreement not in accordance with the provisions of this subsection;”.
 
-Subsecs. (i), (j). Pub. L. 109–8, § 202, added subsecs. (i) and (j).
+Subsecs. (i), (j). Pub. L. 109–8, § 202, added subsecs. (i) and (j).
 
-Subsecs. (k) to (m). Pub. L. 109–8, § 203(a)(2), added subsecs. (k) to (m).
+Subsecs. (k) to (m). Pub. L. 109–8, § 203(a)(2), added subsecs. (k) to (m).
 
-1994—Subsec. (a)(3). Pub. L. 103–394, § 501(d)(14)(A), substituted “1328(a)(1)” for “1328(c)(1)”. See 1986 Amendment note below.
+1994—Subsec. (a)(3). Pub. L. 103–394, § 501(d)(14)(A), substituted “1328(a)(1)” for “1328(c)(1)”. See 1986 Amendment note below.
 
-Subsec. (c)(2). Pub. L. 103–394, § 103(a)(1), designated existing provisions as subpar. (A), inserted “and” at end, and added subpar. (B).
+Subsec. (c)(2). Pub. L. 103–394, § 103(a)(1), designated existing provisions as subpar. (A), inserted “and” at end, and added subpar. (B).
 
-Subsec. (c)(3). Pub. L. 103–394, § 103(a)(2), struck out “such agreement” after “which states that” in introductory provisions, struck out “and” at end of subpar. (A), inserted “such agreement” in subpars. (A) and (B), and added subpar. (C).
+Subsec. (c)(3). Pub. L. 103–394, § 103(a)(2), struck out “such agreement” after “which states that” in introductory provisions, struck out “and” at end of subpar. (A), inserted “such agreement” in subpars. (A) and (B), and added subpar. (C).
 
-Subsec. (c)(4). Pub. L. 103–394, § 501(d)(14)(B), substituted “rescission” for “recission”.
+Subsec. (c)(4). Pub. L. 103–394, § 501(d)(14)(B), substituted “rescission” for “recission”.
 
-Subsec. (d). Pub. L. 103–394, § 103(b), inserted “and was not represented by an attorney during the course of negotiating such agreement” after “this section” in introductory provisions.
+Subsec. (d). Pub. L. 103–394, § 103(b), inserted “and was not represented by an attorney during the course of negotiating such agreement” after “this section” in introductory provisions.
 
-Subsec. (d)(1)(B)(ii). Pub. L. 103–394, § 501(d)(14)(C), inserted “and” at end.
+Subsec. (d)(1)(B)(ii). Pub. L. 103–394, § 501(d)(14)(C), inserted “and” at end.
 
-Subsecs. (g), (h). Pub. L. 103–394, § 111(a), added subsecs. (g) and (h).
+Subsecs. (g), (h). Pub. L. 103–394, § 111(a), added subsecs. (g) and (h).
 
-1986—Subsec. (a)(1). Pub. L. 99–554, § 257(*o*)(1), inserted reference to section 1228 of this title.
+1986—Subsec. (a)(1). Pub. L. 99–554, § 257(*o*)(1), inserted reference to section 1228 of this title.
 
-Subsec. (a)(3). Pub. L. 99–554, § 257(*o*)(2), which directed the substitution of “, 1228(a)(1), or 1328(a)(1)” for “or 1328(a)(1)” was executed by making the substitution for “or 1328(c)(1)” to reflect the probable intent of Congress. See 1994 Amendment note above.
+Subsec. (a)(3). Pub. L. 99–554, § 257(*o*)(2), which directed the substitution of “, 1228(a)(1), or 1328(a)(1)” for “or 1328(a)(1)” was executed by making the substitution for “or 1328(c)(1)” to reflect the probable intent of Congress. See 1994 Amendment note above.
 
-Subsec. (c)(1). Pub. L. 99–554, § 257(*o*)(1), inserted reference to section 1228 of this title.
+Subsec. (c)(1). Pub. L. 99–554, § 257(*o*)(1), inserted reference to section 1228 of this title.
 
-Subsec. (d). Pub. L. 99–554, § 257(*o*)(1), inserted reference to section 1228 of this title.
+Subsec. (d). Pub. L. 99–554, § 257(*o*)(1), inserted reference to section 1228 of this title.
 
-Pub. L. 99–554, § 282, substituted “shall” for “may” before “hold” in first sentence, inserted “any” after “At” in second sentence, and inserted “the court shall hold a hearing at which the debtor shall appear in person and” after “then” in third sentence.
+Pub. L. 99–554, § 282, substituted “shall” for “may” before “hold” in first sentence, inserted “any” after “At” in second sentence, and inserted “the court shall hold a hearing at which the debtor shall appear in person and” after “then” in third sentence.
 
-Subsec. (d)(2). Pub. L. 99–554, § 283(k), substituted “section” for “subsection” after “subsection (c)(6) of this”.
+Subsec. (d)(2). Pub. L. 99–554, § 283(k), substituted “section” for “subsection” after “subsection (c)(6) of this”.
 
-1984—Subsec. (a)(2). Pub. L. 98–353, §§ 308(a), 455, struck out “or from property of the debtor,” before “whether or not discharge”, and substituted “an act” for “any act”.
+1984—Subsec. (a)(2). Pub. L. 98–353, §§ 308(a), 455, struck out “or from property of the debtor,” before “whether or not discharge”, and substituted “an act” for “any act”.
 
-Subsec. (a)(3). Pub. L. 98–353, § 455, substituted “an act” for “any act”.
+Subsec. (a)(3). Pub. L. 98–353, § 455, substituted “an act” for “any act”.
 
-Subsec. (c)(2). Pub. L. 98–353, § 308(b)(1), (3), added par. (2). Former par. (2), which related to situations where the debtor had not rescinded the agreement within 30 days after the agreement became enforceable, was struck out.
+Subsec. (c)(2). Pub. L. 98–353, § 308(b)(1), (3), added par. (2). Former par. (2), which related to situations where the debtor had not rescinded the agreement within 30 days after the agreement became enforceable, was struck out.
 
-Subsec. (c)(3), (4). Pub. L. 98–352, § 308(b)(3), added pars. (3) and (4). Former pars. (3) and (4) redesignated (5) and (6), respectively.
+Subsec. (c)(3), (4). Pub. L. 98–352, § 308(b)(3), added pars. (3) and (4). Former pars. (3) and (4) redesignated (5) and (6), respectively.
 
-Subsec. (c)(5). Pub. L. 98–353, § 308(b)(2), redesignated former par. (3) as (5).
+Subsec. (c)(5). Pub. L. 98–353, § 308(b)(2), redesignated former par. (3) as (5).
 
-Subsec. (c)(6). Pub. L. 98–353, § 308(b)(2), (4), redesignated former par. (4) as (6) and generally amended par. (6), as so redesignated, thereby striking out provisions relating to court approval of such agreements as are entered into in good faith and are in settlement of litigation under section 523 of this title or provide for redemption under section 722 of this title.
+Subsec. (c)(6). Pub. L. 98–353, § 308(b)(2), (4), redesignated former par. (4) as (6) and generally amended par. (6), as so redesignated, thereby striking out provisions relating to court approval of such agreements as are entered into in good faith and are in settlement of litigation under section 523 of this title or provide for redemption under section 722 of this title.
 
-Subsec. (d)(2). Pub. L. 98–353, § 308(c), substituted “subsection (c)(6)” for “subsection (c)(4)”.
+Subsec. (d)(2). Pub. L. 98–353, § 308(c), substituted “subsection (c)(6)” for “subsection (c)(4)”.
 
-Subsec. (f). Pub. L. 98–353, § 308(d), added subsec. (f).
+Subsec. (f). Pub. L. 98–353, § 308(d), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3243,9 +3243,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **Construction**
 
-Pub. L. 103–394, title I, § 111(b), Oct. 22, 1994, 108 Stat. 4117, provided that: “Nothing in subsection (a), or in the amendments made by subsection (a) [amending this section], shall be construed to modify, impair, or supersede any other authority the court has to issue injunctions in connection with an order confirming a plan of reorganization.”
+Pub. L. 103–394, title I, § 111(b), Oct. 22, 1994, 108 Stat. 4117, provided that: “Nothing in subsection (a), or in the amendments made by subsection (a) [amending this section], shall be construed to modify, impair, or supersede any other authority the court has to issue injunctions in connection with an order confirming a plan of reorganization.”
 
-### § 525. Protection against discriminatory treatment
+### § 525. Protection against discriminatory treatment
 
 **(a)** Except as provided in the Perishable Agricultural Commodities Act, 1930, the Packers and Stockyards Act, 1921, and section 1 of the Act entitled “An Act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1944, and for other purposes,” approved July 12, 1943, a governmental unit may not deny, revoke, suspend, or refuse to renew a license, permit, charter, franchise, or other similar grant to, condition such a grant to, discriminate with respect to such a grant against, deny employment to, terminate the employment of, or discriminate with respect to employment against, a person that is or has been a debtor under this title or a bankrupt or a debtor under the Bankruptcy Act, or another person with whom such bankrupt or debtor has been associated, solely because such bankrupt or debtor is or has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, has been insolvent before the commencement of the case under this title, or during the case but before the debtor is granted or denied a discharge, or has not paid a debt that is dischargeable in the case under this title or that was discharged under the Bankruptcy Act.
 
@@ -3263,7 +3263,7 @@ Pub. L. 103–394, title I, § 111(b), Oct. 22, 1994, 108 Stat. 4117, provided
 
 **(2)** In this section, “student loan program” means any program operated under title IV of the Higher Education Act of 1965 or a similar program operated under State or local law.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2593; Pub. L. 98–353, title III, § 309, July 10, 1984, 98 Stat. 354; Pub. L. 103–394, title III, § 313, title V, § 501(d)(15), Oct. 22, 1994, 108 Stat. 4140, 4145; Pub. L. 109–8, title XII, § 1211, Apr. 20, 2005, 119 Stat. 194; Pub. L. 116–260, div. FF, title X, § 1001(c), Dec. 27, 2020, 134 Stat. 3217.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2593; Pub. L. 98–353, title III, § 309, July 10, 1984, 98 Stat. 354; Pub. L. 103–394, title III, § 313, title V, § 501(d)(15), Oct. 22, 1994, 108 Stat. 4140, 4145; Pub. L. 109–8, title XII, § 1211, Apr. 20, 2005, 119 Stat. 194; Pub. L. 116–260, div. FF, title X, § 1001(c), Dec. 27, 2020, 134 Stat. 3217.)
 
 **Historical and Revision Notes**
 
@@ -3277,35 +3277,35 @@ In addition, the section is not exhaustive. The enumeration of various forms of 
 
 The effect of the section, and of further interpretations of the *Perez* rule, is to strengthen the anti-reaffirmation policy found in section 524(b). Discrimination based solely on nonpayment could encourage reaffirmations, contrary to the expressed policy.
 
-The section is not so broad as a comparable section proposed by the Bankruptcy Commission, S. 236, 94th Cong., 1st Sess. § 4–508 (1975), which would have extended the prohibition to any discrimination, even by private parties. Nevertheless, it is not limiting either, as noted. The courts will continue to mark the contours of the anti-discrimination provision in pursuit of sound bankruptcy policy.
+The section is not so broad as a comparable section proposed by the Bankruptcy Commission, S. 236, 94th Cong., 1st Sess. § 4–508 (1975), which would have extended the prohibition to any discrimination, even by private parties. Nevertheless, it is not limiting either, as noted. The courts will continue to mark the contours of the anti-discrimination provision in pursuit of sound bankruptcy policy.
 
 **Editorial Notes**
 
 **References in Text**
 
-The Perishable Agricultural Commodities Act, 1930, referred to in subsec. (a), is act June 10, 1930, ch. 436, 46 Stat. 531, which is classified generally to chapter 20A (§ 499a et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 499a(a) of Title 7 and Tables.
+The Perishable Agricultural Commodities Act, 1930, referred to in subsec. (a), is act June 10, 1930, ch. 436, 46 Stat. 531, which is classified generally to chapter 20A (§ 499a et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 499a(a) of Title 7 and Tables.
 
-The Packers and Stockyards Act, 1921, referred to in subsec. (a), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§ 181 et seq.) of Title 7. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
+The Packers and Stockyards Act, 1921, referred to in subsec. (a), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§ 181 et seq.) of Title 7. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
 Section 1 of the Act entitled “An Act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1944, and for other purposes,” approved July 12, 1943, referred to in subsec. (a), is classified to section 204 of Title 7.
 
 The Bankruptcy Act, referred to in text, is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11.
 
-The Higher Education Act of 1965, referred to in subsec. (c)(2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 **Amendments**
 
-2020—Subsec. (d). Pub. L. 116–260, § 1001(c)(2), struck out subsec. (d) which read as follows: “A person may not be denied relief under sections 4022 through 4024 of the CARES Act (15 U.S.C. 9056, 9057, 9058) because the person is or has been a debtor under this title.”
+2020—Subsec. (d). Pub. L. 116–260, § 1001(c)(2), struck out subsec. (d) which read as follows: “A person may not be denied relief under sections 4022 through 4024 of the CARES Act (15 U.S.C. 9056, 9057, 9058) because the person is or has been a debtor under this title.”
 
-Pub. L. 116–260, § 1001(c)(1), added subsec. (d).
+Pub. L. 116–260, § 1001(c)(1), added subsec. (d).
 
-2005—Subsec. (c)(1). Pub. L. 109–8, § 1211(1), inserted “student” before “grant, loan,”.
+2005—Subsec. (c)(1). Pub. L. 109–8, § 1211(1), inserted “student” before “grant, loan,”.
 
-Subsec. (c)(2). Pub. L. 109–8, § 1211(2), substituted “any program operated under” for “the program operated under part B, D, or E of”.
+Subsec. (c)(2). Pub. L. 109–8, § 1211(2), substituted “any program operated under” for “the program operated under part B, D, or E of”.
 
-1994—Subsec. (a). Pub. L. 103–394, § 501(d)(15), struck out “(7 U.S.C. 499a–499s)” after “Act, 1930”, “(7 U.S.C. 181–229)” after “Act, 1921”, and “(57 Stat. 422; 7 U.S.C. 204)” after “July 12, 1943”.
+1994—Subsec. (a). Pub. L. 103–394, § 501(d)(15), struck out “(7 U.S.C. 499a–499s)” after “Act, 1930”, “(7 U.S.C. 181–229)” after “Act, 1921”, and “(57 Stat. 422; 7 U.S.C. 204)” after “July 12, 1943”.
 
-Subsec. (c). Pub. L. 103–394, § 313, added subsec. (c).
+Subsec. (c). Pub. L. 103–394, § 313, added subsec. (c).
 
 1984—Pub. L. 98–353 designated existing provisions as subsec. (a), inserted “the” before “Perishable”, and added subsec. (b).
 
@@ -3313,7 +3313,7 @@ Subsec. (c). Pub. L. 103–394, § 313, added subsec. (c).
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. FF, title X, § 1001(c)(2), Dec. 27, 2020, 134 Stat. 3217, provided that the amendment made by section 1001(c)(2) is effective on the date that is 1 year after Dec. 27, 2020.
+Pub. L. 116–260, div. FF, title X, § 1001(c)(2), Dec. 27, 2020, 134 Stat. 3217, provided that the amendment made by section 1001(c)(2) is effective on the date that is 1 year after Dec. 27, 2020.
 
 **Effective Date of 2005 Amendment**
 
@@ -3327,7 +3327,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 526. Restrictions on debt relief agencies
+### § 526. Restrictions on debt relief agencies
 
 **(a)** A debt relief agency shall not—
 
@@ -3383,7 +3383,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(B)** of a Federal court to determine and enforce the qualifications for the practice of law before that court.
 
-(Added Pub. L. 109–8, title II, § 227(a), Apr. 20, 2005, 119 Stat. 67; amended Pub. L. 111–327, § 2(a)(20), Dec. 22, 2010, 124 Stat. 3560.)
+(Added Pub. L. 109–8, title II, § 227(a), Apr. 20, 2005, 119 Stat. 67; amended Pub. L. 111–327, § 2(a)(20), Dec. 22, 2010, 124 Stat. 3560.)
 
 **Editorial Notes**
 
@@ -3393,9 +3393,9 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (c)(2)(C), are
 
 **Amendments**
 
-2010—Subsec. (a)(2). Pub. L. 111–327, § 2(a)(20)(A), substituted “that is untrue or” for “that is untrue and”.
+2010—Subsec. (a)(2). Pub. L. 111–327, § 2(a)(20)(A), substituted “that is untrue or” for “that is untrue and”.
 
-Subsec. (a)(4). Pub. L. 111–327, § 2(a)(20)(B), inserted “a” after “preparer”.
+Subsec. (a)(4). Pub. L. 111–327, § 2(a)(20)(B), inserted “a” after “preparer”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3403,7 +3403,7 @@ Subsec. (a)(4). Pub. L. 111–327, § 2(a)(20)(B), inserted “a” after “p
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 527. Disclosures
+### § 527. Disclosures
 
 **(a)** A debt relief agency providing bankruptcy assistance to an assisted person shall provide—
 
@@ -3447,7 +3447,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **(d)** A debt relief agency shall maintain a copy of the notices required under subsection (a) of this section for 2 years after the date on which the notice is given the assisted person.
 
-(Added Pub. L. 109–8, title II, § 228(a), Apr. 20, 2005, 119 Stat. 69; amended Pub. L. 111–327, § 2(a)(21), Dec. 22, 2010, 124 Stat. 3560.)
+(Added Pub. L. 109–8, title II, § 228(a), Apr. 20, 2005, 119 Stat. 69; amended Pub. L. 111–327, § 2(a)(21), Dec. 22, 2010, 124 Stat. 3560.)
 
 **Editorial Notes**
 
@@ -3461,7 +3461,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 528. Requirements for debt relief agencies
+### § 528. Requirements for debt relief agencies
 
 **(a)** A debt relief agency shall—
 
@@ -3491,7 +3491,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **(B)** include the following statement: “We are a debt relief agency. We help people file for bankruptcy relief under the Bankruptcy Code.” or a substantially similar statement.
 
-(Added Pub. L. 109–8, title II, § 229(a), Apr. 20, 2005, 119 Stat. 71.)
+(Added Pub. L. 109–8, title II, § 229(a), Apr. 20, 2005, 119 Stat. 71.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3501,7 +3501,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 ## SUBCHAPTER III—THE ESTATE
 
-### § 541. Property of the estate
+### § 541. Property of the estate
 
 **(a)** The commencement of a case under section 301, 302, or 303 of this title creates an estate. Such estate is comprised of all the following property, wherever located and by whomever held:
 
@@ -3537,7 +3537,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **(3)** any eligibility of the debtor to participate in programs authorized under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.; 42 U.S.C. 2751 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or any accreditation status or State licensure of the debtor as an educational institution;
 
@@ -3565,9 +3565,9 @@ or any accreditation status or State licensure of the debtor as an educational i
 
 **(ii)** are not excess contributions (as described in section 4973(e) of the Internal Revenue Code of 1986); and
 
-**(C)** in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000; 2
+**(C)** in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000; 2
 
-<sup>2</sup>  See Adjustment of Dollar Amounts notes below.
+<sup>2</sup> See Adjustment of Dollar Amounts notes below.
 
 **(6)** funds used to purchase a tuition credit or certificate or contributed to an account in accordance with section 529(b)(1)(A) of the Internal Revenue Code of 1986 under a qualified State tuition program (as defined in section 529(b)(1) of such Code) not later than 365 days before the date of the filing of the petition in a case under this title, but—
 
@@ -3575,7 +3575,7 @@ or any accreditation status or State licensure of the debtor as an educational i
 
 **(B)** with respect to the aggregate amount paid or contributed to such program having the same designated beneficiary, only so much of such amount as does not exceed the total contributions permitted under section 529(b)(6) of such Code with respect to such beneficiary, as adjusted beginning on the date of the filing of the petition in a case under this title by the annual increase or decrease (rounded to the nearest tenth of 1 percent) in the education expenditure category of the Consumer Price Index prepared by the Department of Labor; and
 
-**(C)** in the case of funds paid or contributed to such program having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000; <sup>2</sup>
+**(C)** in the case of funds paid or contributed to such program having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000; <sup>2</sup>
 
 **(7)** any amount—
 
@@ -3653,11 +3653,11 @@ Paragraph (4) shall not be construed to exclude from the estate any consideratio
 
 **(f)** Notwithstanding any other provision of this title, property that is held by a debtor that is a corporation described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code may be transferred to an entity that is not such a corporation, but only under the same conditions as would apply if the debtor had not filed a case under this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2594; Pub. L. 98–353, title III, §§ 363(a), 456, July 10, 1984, 98 Stat. 363, 376; Pub. L. 101–508, title III, § 3007(a)(2), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–486, title XXX, § 3017(b), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title II, §§ 208(b), 223, Oct. 22, 1994, 108 Stat. 4124, 4129; Pub. L. 109–8, title II, § 225(a), title III, § 323, title XII, §§ 1212, 1221(c), 1230, Apr. 20, 2005, 119 Stat. 65, 97, 194, 196, 201; Pub. L. 111–327, § 2(a)(22), Dec. 22, 2010, 124 Stat. 3560; Pub. L. 113–295, div. B, title I, § 104(a), Dec. 19, 2014, 128 Stat. 4063; Pub. L. 116–260, div. FF, title X, § 1001(a), Dec. 27, 2020, 134 Stat. 3216; Pub. L. 119–27, § 11(e), July 18, 2025, 139 Stat. 458.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2594; Pub. L. 98–353, title III, §§ 363(a), 456, July 10, 1984, 98 Stat. 363, 376; Pub. L. 101–508, title III, § 3007(a)(2), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–486, title XXX, § 3017(b), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title II, §§ 208(b), 223, Oct. 22, 1994, 108 Stat. 4124, 4129; Pub. L. 109–8, title II, § 225(a), title III, § 323, title XII, §§ 1212, 1221(c), 1230, Apr. 20, 2005, 119 Stat. 65, 97, 194, 196, 201; Pub. L. 111–327, § 2(a)(22), Dec. 22, 2010, 124 Stat. 3560; Pub. L. 113–295, div. B, title I, § 104(a), Dec. 19, 2014, 128 Stat. 4063; Pub. L. 116–260, div. FF, title X, § 1001(a), Dec. 27, 2020, 134 Stat. 3216; Pub. L. 119–27, § 11(e), July 18, 2025, 139 Stat. 458.)
 
 **Amendment of Subsection (b)**
 
-Pub. L. 119–27, §§ 11(e), 20, July 18, 2025, 139 Stat. 458, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, subsection (b) of this section is amended in paragraph (9), in the matter following subparagraph (B), by striking “or” at the end; in paragraph (10)(C), by striking the period and inserting “; or”; and by inserting after paragraph (10) the following:
+Pub. L. 119–27, §§ 11(e), 20, July 18, 2025, 139 Stat. 458, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, subsection (b) of this section is amended in paragraph (9), in the matter following subparagraph (B), by striking “or” at the end; in paragraph (10)(C), by striking the period and inserting “; or”; and by inserting after paragraph (10) the following:
 
 *(11) required payment stablecoin reserves under section 4 of the GENIUS Act, provided that notwithstanding the exclusion of such reserves from the property of the estate, section 362 of this title shall apply to such reserves.*
 
@@ -3667,7 +3667,7 @@ See 2025 Amendment note below.
 
 **legislative statements**
 
-Section 541(a)(7) is new. The provision clarifies that any interest in property that the estate acquires after the commencement of the case is property of the estate; for example, if the estate enters into a contract, after the commencement of the case, such a contract would be property of the estate. The addition of this provision by the House amendment merely clarifies that section 541(a) is an all-embracing definition which includes charges on property, such as liens held by the debtor on property of a third party, or beneficial rights and interests that the debtor may have in property of another. However, only the debtor’s interest in such property becomes property of the estate. If the debtor holds bare legal title or holds property in trust for another, only those rights which the debtor would have otherwise had emanating from such interest pass to the estate under section 541. Neither this section nor section 545 will affect various statutory provisions that give a creditor a lien that is valid both inside and outside bankruptcy against a bona fide purchaser of property from the debtor, or that creates a trust fund for the benefit of creditors meeting similar criteria. See Packers and Stockyards Act § 206, 7 U.S.C. 196 (1976).
+Section 541(a)(7) is new. The provision clarifies that any interest in property that the estate acquires after the commencement of the case is property of the estate; for example, if the estate enters into a contract, after the commencement of the case, such a contract would be property of the estate. The addition of this provision by the House amendment merely clarifies that section 541(a) is an all-embracing definition which includes charges on property, such as liens held by the debtor on property of a third party, or beneficial rights and interests that the debtor may have in property of another. However, only the debtor’s interest in such property becomes property of the estate. If the debtor holds bare legal title or holds property in trust for another, only those rights which the debtor would have otherwise had emanating from such interest pass to the estate under section 541. Neither this section nor section 545 will affect various statutory provisions that give a creditor a lien that is valid both inside and outside bankruptcy against a bona fide purchaser of property from the debtor, or that creates a trust fund for the benefit of creditors meeting similar criteria. See Packers and Stockyards Act § 206, 7 U.S.C. 196 (1976).
 
 Section 541(c)(2) follows the position taken in the House bill and rejects the position taken in the Senate amendment with respect to income limitations on a spend-thrift trust.
 
@@ -3687,7 +3687,7 @@ Where it is not possible for the Internal Revenue Service to demonstrate that th
 
 **senate report no. 95–989**
 
-This section defines property of the estate, and specifies what property becomes property of the estate. The commencement of a bankruptcy case creates an estate. Under paragraph (1) of subsection (a), the estate is comprised of all legal or equitable interest of the debtor in property, wherever located, as of the commencement of the case. The scope of this paragraph is broad. It includes all kinds of property, including tangible or intangible property, causes of action (see Bankruptcy Act § 70a(6) [section 110(a)(6) of former title 11]), and all other forms of property currently specified in section 70a of the Bankruptcy Act § 70a [section 110(a) of former title 11], as well as property recovered by the trustee under section 542 of proposed title 11, if the property recovered was merely out of the possession of the debtor, yet remained “property of the debtor.” The debtor’s interest in property also includes “title” to property, which is an interest, just as are a possessory interest, or lease-hold interest, for example. The result of *Segal v. Rochelle*, 382 U.S. 375 (1966), is followed, and the right to a refund is property of the estate.
+This section defines property of the estate, and specifies what property becomes property of the estate. The commencement of a bankruptcy case creates an estate. Under paragraph (1) of subsection (a), the estate is comprised of all legal or equitable interest of the debtor in property, wherever located, as of the commencement of the case. The scope of this paragraph is broad. It includes all kinds of property, including tangible or intangible property, causes of action (see Bankruptcy Act § 70a(6) [section 110(a)(6) of former title 11]), and all other forms of property currently specified in section 70a of the Bankruptcy Act § 70a [section 110(a) of former title 11], as well as property recovered by the trustee under section 542 of proposed title 11, if the property recovered was merely out of the possession of the debtor, yet remained “property of the debtor.” The debtor’s interest in property also includes “title” to property, which is an interest, just as are a possessory interest, or lease-hold interest, for example. The result of *Segal v. Rochelle*, 382 U.S. 375 (1966), is followed, and the right to a refund is property of the estate.
 
 Though this paragraph will include choses in action and claims by the debtor against others, it is not intended to expand the debtor’s rights against others more than they exist at the commencement of the case. For example, if the debtor has a claim that is barred at the time of the commencement of the case by the statute of limitations, then the trustee would not be able to pursue that claim, because he too would be barred. He could take no greater rights than the debtor himself had. But see proposed 11 U.S.C. 108, which would permit the trustee a tolling of the statute of limitations if it had not run before the date of the filing of the petition.
 
@@ -3695,9 +3695,9 @@ Paragraph (1) has the effect of overruling *Lockwood v. Exchange Bank*, 190 U.S.
 
 Paragraph (1) also has the effect of overruling *Lines v. Frederick*, 400 U.S. 18 (1970).
 
-Situations occasionally arise where property ostensibly belonging to the debtor will actually not be property of the debtor, but will be held in trust for another. For example, if the debtor has incurred medical bills that were covered by insurance, and the insurance company had sent the payment of the bills to the debtor before the debtor had paid the bill for which the payment was reimbursement, the payment would actually be held in a constructive trust for the person to whom the bill was owed. This section and proposed 11 U.S.C. 545 also will not affect various statutory provisions that give a creditor of the debtor a lien that is valid outside as well as inside bankruptcy, or that creates a trust fund for the benefit of a creditor of the debtor. See Packers and Stockyards Act § 206, 7 U.S.C. 196.
+Situations occasionally arise where property ostensibly belonging to the debtor will actually not be property of the debtor, but will be held in trust for another. For example, if the debtor has incurred medical bills that were covered by insurance, and the insurance company had sent the payment of the bills to the debtor before the debtor had paid the bill for which the payment was reimbursement, the payment would actually be held in a constructive trust for the person to whom the bill was owed. This section and proposed 11 U.S.C. 545 also will not affect various statutory provisions that give a creditor of the debtor a lien that is valid outside as well as inside bankruptcy, or that creates a trust fund for the benefit of a creditor of the debtor. See Packers and Stockyards Act § 206, 7 U.S.C. 196.
 
-Bankruptcy Act § 8 [section 26 of former title 11] has been deleted as unnecessary. Once the estate is created, no interests in property of the estate remain in the debtor. Consequently, if the debtor dies during the case, only property exempted from property of the estate or acquired by the debtor after the commencement of the case and not included as property of the estate will be available to the representative of the debtor’s probate estate. The bankruptcy proceeding will continue in rem with respect to property of the state, and the discharge will apply in personam to relieve the debtor, and thus his probate representative, of liability for dischargeable debts.
+Bankruptcy Act § 8 [section 26 of former title 11] has been deleted as unnecessary. Once the estate is created, no interests in property of the estate remain in the debtor. Consequently, if the debtor dies during the case, only property exempted from property of the estate or acquired by the debtor after the commencement of the case and not included as property of the estate will be available to the representative of the debtor’s probate estate. The bankruptcy proceeding will continue in rem with respect to property of the state, and the discharge will apply in personam to relieve the debtor, and thus his probate representative, of liability for dischargeable debts.
 
 The estate also includes the interests of the debtor and the debtor’s spouse in community property, subject to certain limitations; property that the trustee recovers under the avoiding powers; property that the debtor acquires by bequest, devise, inheritance, a property settlement agreement with the debtor’s spouse, or as the beneficiary of a life insurance policy within 180 days after the petition; and proceeds, product, offspring, rents, and profits of or from property of the estate, except such as are earning from services performed by an individual debtor after the commencement of the case. Proceeds here is not used in a confining sense, as defined in the Uniform Commercial Code, but is intended to be a broad term to encompass all proceeds of property of the estate. The conversion in form of property of the estate does not change its character as property of the estate.
 
@@ -3713,67 +3713,67 @@ Section 541(e) [enacted as (d)] confirms the current status under the Bankruptcy
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsec. (b)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. Part C of title IV of the Act was formerly classified to part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, prior to transfer to part C (§ 1087–51 et seq.) of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. Part C of title IV of the Act was formerly classified to part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, prior to transfer to part C (§ 1087–51 et seq.) of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7), (10) and (f), is classified generally to Title 26, Internal Revenue Code.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(7)(A)(i)(I), (B)(i)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(7)(A)(i)(I), (B)(i)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 **Amendments**
 
 2025—Subsec. (b)(11). Pub. L. 119–27 added par. (11).
 
-2020—Subsec. (b)(11). Pub. L. 116–260, § 1001(a)(2), struck out par. (11) which read as follows: “recovery rebates made under section 6428 of the Internal Revenue Code of 1986.”
+2020—Subsec. (b)(11). Pub. L. 116–260, § 1001(a)(2), struck out par. (11) which read as follows: “recovery rebates made under section 6428 of the Internal Revenue Code of 1986.”
 
-Pub. L. 116–260, § 1001(a)(1), added par. (11).
+Pub. L. 116–260, § 1001(a)(1), added par. (11).
 
 2014—Subsec. (b)(10). Pub. L. 113–295 added par. (10).
 
 2010—Subsec. (b)(6)(B). Pub. L. 111–327 substituted “section 529(b)(6)” for “section 529(b)(7)”.
 
-2005—Subsec. (b)(4). Pub. L. 109–8, § 225(a)(1)(A), struck out “or” at end.
+2005—Subsec. (b)(4). Pub. L. 109–8, § 225(a)(1)(A), struck out “or” at end.
 
-Subsec. (b)(4)(B)(ii). Pub. L. 109–8, § 1212, inserted “365 or” before “542”.
+Subsec. (b)(4)(B)(ii). Pub. L. 109–8, § 1212, inserted “365 or” before “542”.
 
-Subsec. (b)(5), (6). Pub. L. 109–8, § 225(a)(1)(C), added pars. (5) and (6). Former par. (5) redesignated (9).
+Subsec. (b)(5), (6). Pub. L. 109–8, § 225(a)(1)(C), added pars. (5) and (6). Former par. (5) redesignated (9).
 
-Subsec. (b)(7). Pub. L. 109–8, § 323, added par. (7).
+Subsec. (b)(7). Pub. L. 109–8, § 323, added par. (7).
 
-Subsec. (b)(8). Pub. L. 109–8, § 1230, added par. (8).
+Subsec. (b)(8). Pub. L. 109–8, § 1230, added par. (8).
 
-Subsec. (b)(9). Pub. L. 109–8, § 225(a)(1)(B), redesignated par. (5) as (9).
+Subsec. (b)(9). Pub. L. 109–8, § 225(a)(1)(B), redesignated par. (5) as (9).
 
-Subsec. (e). Pub. L. 109–8, § 225(a)(2), added subsec. (e).
+Subsec. (e). Pub. L. 109–8, § 225(a)(2), added subsec. (e).
 
-Subsec. (f). Pub. L. 109–8, § 1221(c), added subsec. (f).
+Subsec. (f). Pub. L. 109–8, § 1221(c), added subsec. (f).
 
-1994—Subsec. (b)(4). Pub. L. 103–394, § 208(b), designated existing provisions of subpar. (A) as cl. (i) of subpar. (A), redesignated subpar. (B) as cl. (ii) of subpar. (A), substituted “the interest referred to in clause (i)” for “such interest”, substituted “; or” for period at end of cl. (ii), and added subpar. (B).
+1994—Subsec. (b)(4). Pub. L. 103–394, § 208(b), designated existing provisions of subpar. (A) as cl. (i) of subpar. (A), redesignated subpar. (B) as cl. (ii) of subpar. (A), substituted “the interest referred to in clause (i)” for “such interest”, substituted “; or” for period at end of cl. (ii), and added subpar. (B).
 
-Pub. L. 103–394, § 223(2), which directed the amendment of subsec. (b)(4) by striking out period at end and inserting “; or”, was executed by inserting “or” after semicolon at end of subsec. (b)(4)(B)(ii), as added by Pub. L. 103–394, § 208(b)(3), to reflect the probable intent of Congress.
+Pub. L. 103–394, § 223(2), which directed the amendment of subsec. (b)(4) by striking out period at end and inserting “; or”, was executed by inserting “or” after semicolon at end of subsec. (b)(4)(B)(ii), as added by Pub. L. 103–394, § 208(b)(3), to reflect the probable intent of Congress.
 
-Subsec. (b)(5). Pub. L. 103–394, § 223, added par. (5).
+Subsec. (b)(5). Pub. L. 103–394, § 223, added par. (5).
 
 1992—Subsec. (b). Pub. L. 102–486 added par. (4) and closing provisions.
 
 1990—Subsec. (b)(3). Pub. L. 101–508 added par. (3).
 
-1984—Subsec. (a). Pub. L. 98–353, § 456(a)(1), (2), struck out “under” after “under” and inserted “and by whomever held” after “located”.
+1984—Subsec. (a). Pub. L. 98–353, § 456(a)(1), (2), struck out “under” after “under” and inserted “and by whomever held” after “located”.
 
-Subsec. (a)(3). Pub. L. 98–353, § 456(a)(3), inserted “329(b), 363(n),”.
+Subsec. (a)(3). Pub. L. 98–353, § 456(a)(3), inserted “329(b), 363(n),”.
 
-Subsec. (a)(5). Pub. L. 98–353, § 456(a)(4), substituted “Any” for “An”.
+Subsec. (a)(5). Pub. L. 98–353, § 456(a)(4), substituted “Any” for “An”.
 
-Subsec. (a)(6). Pub. L. 98–353, § 456(a)(5), substituted “or profits” for “and profits”.
+Subsec. (a)(6). Pub. L. 98–353, § 456(a)(5), substituted “or profits” for “and profits”.
 
-Subsec. (b). Pub. L. 98–353, § 363(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Property of the estate does not include any power that the debtor may only exercise solely for the benefit of an entity other than the debtor.”
+Subsec. (b). Pub. L. 98–353, § 363(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Property of the estate does not include any power that the debtor may only exercise solely for the benefit of an entity other than the debtor.”
 
-Subsec. (c)(1). Pub. L. 98–353, § 456(b)(1), inserted “in an agreement, transfer, instrument, or applicable nonbankruptcy law”.
+Subsec. (c)(1). Pub. L. 98–353, § 456(b)(1), inserted “in an agreement, transfer, instrument, or applicable nonbankruptcy law”.
 
-Subsec. (c)(1)(B). Pub. L. 98–353, § 456(b)(2), substituted “taking” for “the taking”, and inserted “before such commencement” after “custodian”.
+Subsec. (c)(1)(B). Pub. L. 98–353, § 456(b)(2), substituted “taking” for “the taking”, and inserted “before such commencement” after “custodian”.
 
-Subsec. (d). Pub. L. 98–353, § 456(c), inserted “(1) or (2)” after “(a)”.
+Subsec. (d). Pub. L. 98–353, § 456(c), inserted “(1) or (2)” after “(a)”.
 
-Subsec. (e). Pub. L. 98–353, § 456(d), struck out subsec. (e) which read as follows: “The estate shall have the benefit of any defense available to the debtor as against an entity other than the estate, including statutes of limitation, statutes of frauds, usury, and other personal defenses. A waiver of any such defense by the debtor after the commencement of the case does not bind the estate.”
+Subsec. (e). Pub. L. 98–353, § 456(d), struck out subsec. (e) which read as follows: “The estate shall have the benefit of any defense available to the debtor as against an entity other than the estate, including statutes of limitation, statutes of frauds, usury, and other personal defenses. A waiver of any such defense by the debtor after the commencement of the case does not bind the estate.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3783,7 +3783,7 @@ Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 mo
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. FF, title X, § 1001(a)(2), Dec. 27, 2020, 134 Stat. 3216, provided that the amendment made by section 1001(a)(2) is effective on the date that is 1 year after Dec. 27, 2020.
+Pub. L. 116–260, div. FF, title X, § 1001(a)(2), Dec. 27, 2020, 134 Stat. 3216, provided that the amendment made by section 1001(a)(2) is effective on the date that is 1 year after Dec. 27, 2020.
 
 **Effective Date of 2014 Amendment**
 
@@ -3827,7 +3827,7 @@ By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. 
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (b)(5)(C), (6)(C), dollar amount “5,000” was adjusted to “5,475”.
 
-### § 542. Turnover of property to the estate
+### § 542. Turnover of property to the estate
 
 **(a)** Except as provided in subsection (c) or (d) of this section, an entity, other than a custodian, in possession, custody, or control, during the case, of property that the trustee may use, sell, or lease under section 363 of this title, or that the debtor may exempt under section 522 of this title, shall deliver to the trustee, and account for, such property or the value of such property, unless such property is of inconsequential value or benefit to the estate.
 
@@ -3839,7 +3839,7 @@ By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (
 
 **(e)** Subject to any applicable privilege, after notice and a hearing, the court may order an attorney, accountant, or other person that holds recorded information, including books, documents, records, and papers, relating to the debtor’s property or financial affairs, to turn over or disclose such recorded information to the trustee.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2595; Pub. L. 98–353, title III, § 457, July 10, 1984, 98 Stat. 376; Pub. L. 103–394, title V, § 501(d)(16), Oct. 22, 1994, 108 Stat. 4146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2595; Pub. L. 98–353, title III, § 457, July 10, 1984, 98 Stat. 376; Pub. L. 103–394, title V, § 501(d)(16), Oct. 22, 1994, 108 Stat. 4146.)
 
 **Historical and Revision Notes**
 
@@ -3881,7 +3881,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 543. Turnover of property by a custodian
+### § 543. Turnover of property by a custodian
 
 **(a)** A custodian with knowledge of the commencement of a case under this title concerning the debtor may not make any disbursement from, or take any action in the administration of, property of the debtor, proceeds, product, offspring, rents, or profits of such property, or property of the estate, in the possession, custody, or control of such custodian, except such action as is necessary to preserve such property.
 
@@ -3905,7 +3905,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(2)** shall excuse compliance with subsections (a) and (b)(1) of this section if the custodian is an assignee for the benefit of the debtor’s creditors that was appointed or took possession more than 120 days before the date of the filing of the petition, unless compliance with such subsections is necessary to prevent fraud or injustice.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2595; Pub. L. 98–353, title III, § 458, July 10, 1984, 98 Stat. 376; Pub. L. 103–394, title V, § 501(d)(17), Oct. 22, 1994, 108 Stat. 4146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2595; Pub. L. 98–353, title III, § 458, July 10, 1984, 98 Stat. 376; Pub. L. 103–394, title V, § 501(d)(17), Oct. 22, 1994, 108 Stat. 4146.)
 
 **Historical and Revision Notes**
 
@@ -3923,17 +3923,17 @@ This section requires a custodian appointed before the bankruptcy case to delive
 
 1994—Subsec. (d)(1). Pub. L. 103–394 struck out comma after “section”.
 
-1984—Subsec. (a). Pub. L. 98–353, § 458(a), inserted “, product, offspring, rents, or profits” after “proceeds”.
+1984—Subsec. (a). Pub. L. 98–353, § 458(a), inserted “, product, offspring, rents, or profits” after “proceeds”.
 
-Subsec. (b)(1). Pub. L. 98–353, § 458(b)(1), inserted “held by or” after “debtor”, and “, product, offspring, rents, or profits” after “proceeds”.
+Subsec. (b)(1). Pub. L. 98–353, § 458(b)(1), inserted “held by or” after “debtor”, and “, product, offspring, rents, or profits” after “proceeds”.
 
-Subsec. (b)(2). Pub. L. 98–353, § 458(b)(2), inserted “, product, offspring, rents, or profits” after “proceeds”.
+Subsec. (b)(2). Pub. L. 98–353, § 458(b)(2), inserted “, product, offspring, rents, or profits” after “proceeds”.
 
-Subsec. (c)(1). Pub. L. 98–353, § 458(c)(1), inserted “or proceeds, product, offspring, rents, or profits of such property” after “property”.
+Subsec. (c)(1). Pub. L. 98–353, § 458(c)(1), inserted “or proceeds, product, offspring, rents, or profits of such property” after “property”.
 
-Subsec. (c)(3). Pub. L. 98–353, § 458(c)(2), inserted “that has been” before “approved”.
+Subsec. (c)(3). Pub. L. 98–353, § 458(c)(2), inserted “that has been” before “approved”.
 
-Subsec. (d). Pub. L. 98–353, § 458(d), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 98–353, § 458(d), designated existing provisions as par. (1) and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3945,7 +3945,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 544. Trustee as lien creditor and as successor to certain creditors and purchasers
+### § 544. Trustee as lien creditor and as successor to certain creditors and purchasers
 
 **(a)** The trustee shall have, as of the commencement of the case, and without regard to any knowledge of the trustee or of any creditor, the rights and powers of, or may avoid any transfer of property of the debtor or any obligation incurred by the debtor that is voidable by—
 
@@ -3961,7 +3961,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(2)** Paragraph (1) shall not apply to a transfer of a charitable contribution (as that term is defined in section 548(d)(3)) that is not covered under section 548(a)(1)(B), by reason of section 548(a)(2). Any claim by any person to recover a transferred contribution described in the preceding sentence under Federal or State law in a Federal or State court shall be preempted by the commencement of the case.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2596; Pub. L. 98–353, title III, § 459, July 10, 1984, 98 Stat. 377; Pub. L. 105–183, § 3(b), June 19, 1998, 112 Stat. 518.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2596; Pub. L. 98–353, title III, § 459, July 10, 1984, 98 Stat. 377; Pub. L. 105–183, § 3(b), June 19, 1998, 112 Stat. 518.)
 
 **Historical and Revision Notes**
 
@@ -3973,7 +3973,7 @@ The House amendment deletes section 544(c) of the House bill.
 
 **senate report no. 95–989**
 
-Subsection (a) is the “strong arm clause” of current law, now found in Bankruptcy Act § 70c [section 110(c) of former title 11]. It gives the trustee the rights of a creditor on a simple contract with a judicial lien on the property of the debtor as of the date of the petition; of a creditor with a writ of execution against the property of the debtor unsatisfied as of the date of the petition; and a bona fide purchaser of the real property of the debtor as of the date of the petition. “Simple contract” as used here is derived from Bankruptcy Act § 60a(4) [section 96(a)(4) of former title 11]. The third status, that of a bona fide purchaser of real property, is new.
+Subsection (a) is the “strong arm clause” of current law, now found in Bankruptcy Act § 70c [section 110(c) of former title 11]. It gives the trustee the rights of a creditor on a simple contract with a judicial lien on the property of the debtor as of the date of the petition; of a creditor with a writ of execution against the property of the debtor unsatisfied as of the date of the petition; and a bona fide purchaser of the real property of the debtor as of the date of the petition. “Simple contract” as used here is derived from Bankruptcy Act § 60a(4) [section 96(a)(4) of former title 11]. The third status, that of a bona fide purchaser of real property, is new.
 
 Subsection (b) is derived from current section 70e [section 110(e) of former title 11]. It gives the trustee the rights of actual unsecured creditors under applicable law to void transfers. It follows *Moore v. Bay*, 284 U.S. 4 (1931), and overrules those cases that hold section 70e gives the trustee the rights of secured creditors.
 
@@ -3983,17 +3983,17 @@ Subsection (b) is derived from current section 70e [section 110(e) of former tit
 
 1998—Subsec. (b). Pub. L. 105–183 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the trustee” for “The trustee”, and added par. (2).
 
-1984—Subsec. (a)(1). Pub. L. 98–353, § 459(1), inserted “such” after “obtained”.
+1984—Subsec. (a)(1). Pub. L. 98–353, § 459(1), inserted “such” after “obtained”.
 
-Subsec. (a)(2). Pub. L. 98–353, § 459(2), substituted “; or” for “; and”.
+Subsec. (a)(2). Pub. L. 98–353, § 459(2), substituted “; or” for “; and”.
 
-Subsec. (a)(3). Pub. L. 98–353, § 459(3), inserted “, other than fixtures,” after “property”, and “and has perfected such transfer” after “purchaser” the second place it appeared.
+Subsec. (a)(3). Pub. L. 98–353, § 459(3), inserted “, other than fixtures,” after “property”, and “and has perfected such transfer” after “purchaser” the second place it appeared.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–183, § 5, June 19, 1998, 112 Stat. 518, provided that: “This Act [amending this section and sections 546, 548, 707, and 1325 of this title and enacting provisions set out as notes under this section and section 101 of this title] and the amendments made by this Act shall apply to any case brought under an applicable provision of title 11, United States Code, that is pending or commenced on or after the date of enactment of this Act [June 19, 1998].”
+Pub. L. 105–183, § 5, June 19, 1998, 112 Stat. 518, provided that: “This Act [amending this section and sections 546, 548, 707, and 1325 of this title and enacting provisions set out as notes under this section and section 101 of this title] and the amendments made by this Act shall apply to any case brought under an applicable provision of title 11, United States Code, that is pending or commenced on or after the date of enactment of this Act [June 19, 1998].”
 
 **Effective Date of 1984 Amendment**
 
@@ -4001,9 +4001,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **Construction of 1998 Amendment**
 
-Pub. L. 105–183, § 6, June 19, 1998, 112 Stat. 519, provided that: “Nothing in the amendments made by this Act [amending this section and sections 546, 548, 707, and 1325 of this title] is intended to limit the applicability of the Religious Freedom Restoration Act of 1993 (42 U.S.C. 2002bb [2000bb] et seq.).”
+Pub. L. 105–183, § 6, June 19, 1998, 112 Stat. 519, provided that: “Nothing in the amendments made by this Act [amending this section and sections 546, 548, 707, and 1325 of this title] is intended to limit the applicability of the Religious Freedom Restoration Act of 1993 (42 U.S.C. 2002bb [2000bb] et seq.).”
 
-### § 545. Statutory liens
+### § 545. Statutory liens
 
 The trustee may avoid the fixing of a statutory lien on property of the debtor to the extent that such lien—
 
@@ -4027,7 +4027,7 @@ The trustee may avoid the fixing of a statutory lien on property of the debtor t
 
 **(4)** is a lien of distress for rent.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 98–353, title III, § 460, July 10, 1984, 98 Stat. 377; Pub. L. 109–8, title VII, § 711, Apr. 20, 2005, 119 Stat. 127.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 98–353, title III, § 460, July 10, 1984, 98 Stat. 377; Pub. L. 109–8, title VII, § 711, Apr. 20, 2005, 119 Stat. 127.)
 
 **Historical and Revision Notes**
 
@@ -4039,9 +4039,9 @@ Statutory liens: The House amendment retains the provision of section 545(2) of 
 
 **senate report no. 95–989**
 
-This section permits the trustee to avoid the fixing of certain statutory liens. It is derived from subsections 67b and 67c of present law [section 107(b) and (c) of former title 11]. Liens that first become effective on the bankruptcy or insolvency of the debtor are voidable by the trustee. Liens that are not perfected or enforceable on the date of the petition against a bona fide purchaser are voidable. If a transferee is able to perfect under section 546(a) and that perfection relates back to an earlier date, then in spite of the filing of the bankruptcy petition, the trustee would not be able to defeat the lien, because the lien would be perfected and enforceable against a bona fide purchaser that purchased the property on the date of the filing of the petition. Finally, a lien for rent or of distress for rent is voidable, whether the lien is a statutory lien or a common law lien of distress for rent. See proposed 11 U.S.C. 101(37); Bankruptcy Act § 67(c)(1)(C). The trustee may avoid a lien under this section even if the lien has been enforced by sale before the commencement of the case. To that extent, Bankruptcy Act § 67c(5) is not followed.
+This section permits the trustee to avoid the fixing of certain statutory liens. It is derived from subsections 67b and 67c of present law [section 107(b) and (c) of former title 11]. Liens that first become effective on the bankruptcy or insolvency of the debtor are voidable by the trustee. Liens that are not perfected or enforceable on the date of the petition against a bona fide purchaser are voidable. If a transferee is able to perfect under section 546(a) and that perfection relates back to an earlier date, then in spite of the filing of the bankruptcy petition, the trustee would not be able to defeat the lien, because the lien would be perfected and enforceable against a bona fide purchaser that purchased the property on the date of the filing of the petition. Finally, a lien for rent or of distress for rent is voidable, whether the lien is a statutory lien or a common law lien of distress for rent. See proposed 11 U.S.C. 101(37); Bankruptcy Act § 67(c)(1)(C). The trustee may avoid a lien under this section even if the lien has been enforced by sale before the commencement of the case. To that extent, Bankruptcy Act § 67c(5) is not followed.
 
-Subsection (b) limits the trustee’s power to avoid tax liens under Federal, state, or local law. For example, under § 6323 of the Internal Revenue Code [Title 26]. Once public notice of a tax lien has been filed, the Government is generally entitled to priority over subsequent lienholders. However, certain purchasers who acquire an interest in certain specific kinds of personal property will take free of an existing filed tax lien attaching to such property. Among the specific kinds of personal property which a purchaser can acquire free of an existing tax lien (unless the buyer knows of the existence of the lien) are stocks and securities, motor vehicles, inventory, and certain household goods. Under the present Bankruptcy Act (§ 67(c)(1)) [section 107(c)(1) of former title 11], the trustee may be viewed as a bona fide purchaser, so that he can take over any such designated items free of tax liens even if the tax authority has perfected its lien. However, the reasons for enabling a bona fide purchaser to take these kinds of assets free of an unfiled tax lien, that is, to encourage free movement of these assets in general commerce, do not apply to a trustee in a title 11 case, who is not in the same position as an ordinary bona fide purchaser as to such property. The bill accordingly adds a new subsection (b) to sec. 545 providing, in effect, that a trustee in bankruptcy does not have the right under this section to take otherwise specially treated items of personal property free of a tax lien filed before the filing of the petition.
+Subsection (b) limits the trustee’s power to avoid tax liens under Federal, state, or local law. For example, under § 6323 of the Internal Revenue Code [Title 26]. Once public notice of a tax lien has been filed, the Government is generally entitled to priority over subsequent lienholders. However, certain purchasers who acquire an interest in certain specific kinds of personal property will take free of an existing filed tax lien attaching to such property. Among the specific kinds of personal property which a purchaser can acquire free of an existing tax lien (unless the buyer knows of the existence of the lien) are stocks and securities, motor vehicles, inventory, and certain household goods. Under the present Bankruptcy Act (§ 67(c)(1)) [section 107(c)(1) of former title 11], the trustee may be viewed as a bona fide purchaser, so that he can take over any such designated items free of tax liens even if the tax authority has perfected its lien. However, the reasons for enabling a bona fide purchaser to take these kinds of assets free of an unfiled tax lien, that is, to encourage free movement of these assets in general commerce, do not apply to a trustee in a title 11 case, who is not in the same position as an ordinary bona fide purchaser as to such property. The bill accordingly adds a new subsection (b) to sec. 545 providing, in effect, that a trustee in bankruptcy does not have the right under this section to take otherwise specially treated items of personal property free of a tax lien filed before the filing of the petition.
 
 **Editorial Notes**
 
@@ -4051,13 +4051,13 @@ Section 6323 of the Internal Revenue Code of 1986, referred to in par. (2), is c
 
 **Amendments**
 
-2005—Par. (2). Pub. L. 109–8 inserted before semicolon at end “, except in any case in which a purchaser is a purchaser described in section 6323 of the Internal Revenue Code of 1986, or in any other similar provision of State or local law”.
+2005—Par. (2). Pub. L. 109–8 inserted before semicolon at end “, except in any case in which a purchaser is a purchaser described in section 6323 of the Internal Revenue Code of 1986, or in any other similar provision of State or local law”.
 
-1984—Par. (1)(A). Pub. L. 98–353, § 460(1), struck out “is” after “is”.
+1984—Par. (1)(A). Pub. L. 98–353, § 460(1), struck out “is” after “is”.
 
-Par. (1)(C). Pub. L. 98–353, § 460(2), substituted “appointed or authorized to take” for “apponted”.
+Par. (1)(C). Pub. L. 98–353, § 460(2), substituted “appointed or authorized to take” for “apponted”.
 
-Par. (2). Pub. L. 98–353, § 460(3), substituted “at the time of the commencement of the case” for “on the date of the filing of the petition” in two places.
+Par. (2). Pub. L. 98–353, § 460(3), substituted “at the time of the commencement of the case” for “on the date of the filing of the petition” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4069,7 +4069,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 546. Limitations on avoiding powers
+### § 546. Limitations on avoiding powers
 
 **(a)** An action or proceeding under section 544, 545, 547, 548, or 553 of this title may not be commenced after the earlier of—
 
@@ -4129,7 +4129,7 @@ such interest in such property shall be perfected, or perfection of such interes
 
 **(j)** Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) the trustee may not avoid a transfer made by or to (or for the benefit of) a master netting agreement participant under or in connection with any master netting agreement or any individual contract covered thereby that is made before the commencement of the case, except under section 548(a)(1)(A) and except to the extent that the trustee could otherwise avoid such a transfer made under an individual contract covered by such master netting agreement.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 97–222, § 4, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§ 351, 393, 461, July 10, 1984, 98 Stat. 358, 365, 377; Pub. L. 99–554, title II, §§ 257(d), 283(*l*), Oct. 27, 1986, 100 Stat. 3114, 3117; Pub. L. 101–311, title I, § 103, title II, § 203, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title II, §§ 204(b), 209, 216, 222(a), title V, § 501(b)(4), Oct. 22, 1994, 108 Stat. 4122, 4125, 4126, 4129, 4142; Pub. L. 105–183, § 3(c), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title IV, § 406, title IX, § 907(e), (*o*)(2), (3), title XII, § 1227(a), Apr. 20, 2005, 119 Stat. 105, 177, 182, 199; Pub. L. 109–390, § 5(b), Dec. 12, 2006, 120 Stat. 2697.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 97–222, § 4, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§ 351, 393, 461, July 10, 1984, 98 Stat. 358, 365, 377; Pub. L. 99–554, title II, §§ 257(d), 283(*l*), Oct. 27, 1986, 100 Stat. 3114, 3117; Pub. L. 101–311, title I, § 103, title II, § 203, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title II, §§ 204(b), 209, 216, 222(a), title V, § 501(b)(4), Oct. 22, 1994, 108 Stat. 4122, 4125, 4126, 4129, 4142; Pub. L. 105–183, § 3(c), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title IV, § 406, title IX, § 907(e), (*o*)(2), (3), title XII, § 1227(a), Apr. 20, 2005, 119 Stat. 105, 177, 182, 199; Pub. L. 109–390, § 5(b), Dec. 12, 2006, 120 Stat. 2697.)
 
 **Historical and Revision Notes**
 
@@ -4141,7 +4141,7 @@ Section 546(a) of the House amendment is derived from section 546(c) of the Sena
 
 The trustee’s rights and powers under certain of the avoiding powers are limited by section 546. First, if an interest holder against whom the trustee would have rights still has, under applicable nonbankruptcy law, and as of the date of the petition, the opportunity to perfect his lien against an intervening interest holder, then he may perfect his interest against the trustee. If applicable law requires seizure for perfection, then perfection is by notice to the trustee instead. The rights granted to a creditor under this subsection prevail over the trustee only if the transferee has perfected the transfer in accordance with applicable law, and that perfection relates back to a date that is before the commencement of the case.
 
-The phrase “generally applicable law” relates to those provisions of applicable law that apply both in bankruptcy cases and outside of bankruptcy cases. For example, many State laws, under the Uniform Commercial Code, permit perfection of a purchase-money security interest to relate back to defeat an earlier levy by another creditor if the former was perfected within ten days of delivery of the property. U.C.C. § 9–301(2). Such perfection would then be able to defeat an intervening hypothetical judicial lien creditor on the date of the filing of the petition. The purpose of the subsection is to protect, in spite of the surprise intervention of a bankruptcy petition, those whom State law protects by allowing them to perfect their liens or interests as of an effective date that is earlier than the date of perfection. It is not designed to give the States an opportunity to enact disguised priorities in the form of liens that apply only in bankruptcy cases.
+The phrase “generally applicable law” relates to those provisions of applicable law that apply both in bankruptcy cases and outside of bankruptcy cases. For example, many State laws, under the Uniform Commercial Code, permit perfection of a purchase-money security interest to relate back to defeat an earlier levy by another creditor if the former was perfected within ten days of delivery of the property. U.C.C. § 9–301(2). Such perfection would then be able to defeat an intervening hypothetical judicial lien creditor on the date of the filing of the petition. The purpose of the subsection is to protect, in spite of the surprise intervention of a bankruptcy petition, those whom State law protects by allowing them to perfect their liens or interests as of an effective date that is earlier than the date of perfection. It is not designed to give the States an opportunity to enact disguised priorities in the form of liens that apply only in bankruptcy cases.
 
 Subsection (b) [enacted as (c)] specifies that the trustee’s rights and powers under the strong arm clause, the successor to creditors provision, the preference section, and the postpetition transaction section are all subject to any statutory or common-law right of a seller, in the ordinary course of business, of goods to the debtor to reclaim the goods if the debtor received the goods on credit while insolvent. The seller must demand reclamation within ten days after receipt of the goods by the debtor. As under nonbankruptcy law, the right is subject to any superior rights of secured creditors. The purpose of the provision is to recognize, in part, the validity of section 2–702 of the Uniform Commercial Code, which has generated much litigation, confusion, and divergent decisions in different circuits. The right is subject, however, to the power of the court to deny reclamation and protect the seller by granting him a priority as an administrative expense for his claim arising out of the sale of the goods.
 
@@ -4155,69 +4155,69 @@ The date of enactment of the Bankruptcy Abuse Prevention and Consumer Protection
 
 **Amendments**
 
-2006—Subsec. (e). Pub. L. 109–390, § 5(b)(1), inserted “(or for the benefit of)” before “a commodity broker” and “or that is a transfer made by or to (or for the benefit of) a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency, in connection with a securities contract, as defined in section 741(7), commodity contract, as defined in section 761(4), or forward contract,” after “securities clearing agency,”.
+2006—Subsec. (e). Pub. L. 109–390, § 5(b)(1), inserted “(or for the benefit of)” before “a commodity broker” and “or that is a transfer made by or to (or for the benefit of) a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency, in connection with a securities contract, as defined in section 741(7), commodity contract, as defined in section 761(4), or forward contract,” after “securities clearing agency,”.
 
-Subsec. (f). Pub. L. 109–390, § 5(b)(2), struck out “that is a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title,” after “avoid a transfer” and inserted “(or for the benefit of)” before “a repo participant”.
+Subsec. (f). Pub. L. 109–390, § 5(b)(2), struck out “that is a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title,” after “avoid a transfer” and inserted “(or for the benefit of)” before “a repo participant”.
 
-Subsec. (g). Pub. L. 109–390, § 5(b)(3), inserted “(or for the benefit of)” before “a swap participant”.
+Subsec. (g). Pub. L. 109–390, § 5(b)(3), inserted “(or for the benefit of)” before “a swap participant”.
 
-Subsec. (j). Pub. L. 109–390, § 5(b)(4), inserted “(or for the benefit of)” before “a master netting agreement participant”.
+Subsec. (j). Pub. L. 109–390, § 5(b)(4), inserted “(or for the benefit of)” before “a master netting agreement participant”.
 
-2005—Subsec. (c). Pub. L. 109–8, § 1227(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) consisted of pars. (1) and (2) relating to reclamation of goods sold to an insolvent debtor.
+2005—Subsec. (c). Pub. L. 109–8, § 1227(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) consisted of pars. (1) and (2) relating to reclamation of goods sold to an insolvent debtor.
 
-Subsec. (e). Pub. L. 109–8, § 907(*o*)(3), inserted “financial participant,” after “financial institution,”.
+Subsec. (e). Pub. L. 109–8, § 907(*o*)(3), inserted “financial participant,” after “financial institution,”.
 
-Subsec. (f). Pub. L. 109–8, § 907(*o*)(2), inserted “or financial participant” after “repo participant”.
+Subsec. (f). Pub. L. 109–8, § 907(*o*)(2), inserted “or financial participant” after “repo participant”.
 
-Subsec. (g). Pub. L. 109–8, § 907(e)(1), struck out “under a swap agreement” after “avoid a transfer”, substituted “under or in connection with any swap agreement” for “in connection with a swap agreement”, and inserted “or financial participant” after “swap participant”.
+Subsec. (g). Pub. L. 109–8, § 907(e)(1), struck out “under a swap agreement” after “avoid a transfer”, substituted “under or in connection with any swap agreement” for “in connection with a swap agreement”, and inserted “or financial participant” after “swap participant”.
 
-Pub. L. 109–8, § 406(1), redesignated subsec. (g) relating to return of goods as (h).
+Pub. L. 109–8, § 406(1), redesignated subsec. (g) relating to return of goods as (h).
 
-Subsec. (h). Pub. L. 109–8, § 406(2), inserted “and subject to the prior rights of holders of security interests in such goods or the proceeds of such goods” after “consent of a creditor”.
+Subsec. (h). Pub. L. 109–8, § 406(2), inserted “and subject to the prior rights of holders of security interests in such goods or the proceeds of such goods” after “consent of a creditor”.
 
-Pub. L. 109–8, § 406(1), redesignated subsec. (g) relating to return of goods as (h).
+Pub. L. 109–8, § 406(1), redesignated subsec. (g) relating to return of goods as (h).
 
-Subsec. (i). Pub. L. 109–8, § 406(3), added subsec. (i).
+Subsec. (i). Pub. L. 109–8, § 406(3), added subsec. (i).
 
-Subsec. (j). Pub. L. 109–8, § 907(e)(2), added subsec. (j).
+Subsec. (j). Pub. L. 109–8, § 907(e)(2), added subsec. (j).
 
 1998—Subsecs. (e) to (g). Pub. L. 105–183 substituted “548(a)(1)(B)” for “548(a)(2)” and “548(a)(1)(A)” for “548(a)(1)”.
 
-1994—Subsec. (a)(1). Pub. L. 103–394, § 216, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “two years after the appointment of a trustee under section 702, 1104, 1163, 1302, or 1202 of this title; or”.
+1994—Subsec. (a)(1). Pub. L. 103–394, § 216, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “two years after the appointment of a trustee under section 702, 1104, 1163, 1302, or 1202 of this title; or”.
 
-Subsec. (b). Pub. L. 103–394, § 204(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The rights and powers of a trustee under sections 544, 545, and 549 of this title are subject to any generally applicable law that permits perfection of an interest in property to be effective against an entity that acquires rights in such property before the date of such perfection. If such law requires seizure of such property or commencement of an action to accomplish such perfection, and such property has not been seized or such action has not been commenced before the date of the filing of the petition, such interest in such property shall be perfected by notice within the time fixed by such law for such seizure or commencement.”
+Subsec. (b). Pub. L. 103–394, § 204(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The rights and powers of a trustee under sections 544, 545, and 549 of this title are subject to any generally applicable law that permits perfection of an interest in property to be effective against an entity that acquires rights in such property before the date of such perfection. If such law requires seizure of such property or commencement of an action to accomplish such perfection, and such property has not been seized or such action has not been commenced before the date of the filing of the petition, such interest in such property shall be perfected by notice within the time fixed by such law for such seizure or commencement.”
 
-Subsec. (c)(1). Pub. L. 103–394, § 209, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “such a seller may not reclaim any such goods unless such seller demands in writing reclamation of such goods before ten days after receipt of such goods by the debtor; and”.
+Subsec. (c)(1). Pub. L. 103–394, § 209, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “such a seller may not reclaim any such goods unless such seller demands in writing reclamation of such goods before ten days after receipt of such goods by the debtor; and”.
 
-Subsec. (e). Pub. L. 103–394, § 501(b)(4)(A), substituted “section 101, 741, or 761” for “section 101(34), 741(5), or 761(15)” and “section 101 or 741” for “section 101(35) or 741(8)”.
+Subsec. (e). Pub. L. 103–394, § 501(b)(4)(A), substituted “section 101, 741, or 761” for “section 101(34), 741(5), or 761(15)” and “section 101 or 741” for “section 101(35) or 741(8)”.
 
-Subsec. (f). Pub. L. 103–394, § 501(b)(4)(B), substituted “section 741 or 761” for “section 741(5) or 761(15)” and “section 741” for “section 741(8)”.
+Subsec. (f). Pub. L. 103–394, § 501(b)(4)(B), substituted “section 741 or 761” for “section 741(5) or 761(15)” and “section 741” for “section 741(8)”.
 
-Subsec. (g). Pub. L. 103–394, § 222(a), added subsec. (g) relating to return of goods.
+Subsec. (g). Pub. L. 103–394, § 222(a), added subsec. (g) relating to return of goods.
 
-1990—Subsec. (e). Pub. L. 101–311, § 203, inserted reference to sections 101(34) and 101(35) of this title.
+1990—Subsec. (e). Pub. L. 101–311, § 203, inserted reference to sections 101(34) and 101(35) of this title.
 
-Subsec. (g). Pub. L. 101–311, § 103, added subsec. (g) relating to trustee’s authority to avoid transfer involving swap agreement.
+Subsec. (g). Pub. L. 101–311, § 103, added subsec. (g) relating to trustee’s authority to avoid transfer involving swap agreement.
 
-1986—Subsec. (a)(1). Pub. L. 99–554, § 257(d), inserted reference to section 1202 of this title.
+1986—Subsec. (a)(1). Pub. L. 99–554, § 257(d), inserted reference to section 1202 of this title.
 
-Subsec. (e). Pub. L. 99–554, § 283(*l*), inserted a comma after “stockbroker”.
+Subsec. (e). Pub. L. 99–554, § 283(*l*), inserted a comma after “stockbroker”.
 
-1984—Subsec. (a)(1). Pub. L. 98–353, § 461(a), substituted “; or” for “; and”.
+1984—Subsec. (a)(1). Pub. L. 98–353, § 461(a), substituted “; or” for “; and”.
 
-Subsec. (b). Pub. L. 98–353, § 461(b), substituted “a trustee under sections 544, 545, and” for “the trustee under sections 544, 545, or”.
+Subsec. (b). Pub. L. 98–353, § 461(b), substituted “a trustee under sections 544, 545, and” for “the trustee under sections 544, 545, or”.
 
-Subsec. (c). Pub. L. 98–353, §§ 351(1), 461(c)(1)–(4), substituted “Except as provided in subsection (d) of this section, the” for “The”, substituted “a trustee” for “the trustee”, struck out “right” before “or common-law”, inserted “of goods that has sold goods to the debtor” after “seller”, and struck out “of goods to the debtor” after “business,”.
+Subsec. (c). Pub. L. 98–353, §§ 351(1), 461(c)(1)–(4), substituted “Except as provided in subsection (d) of this section, the” for “The”, substituted “a trustee” for “the trustee”, struck out “right” before “or common-law”, inserted “of goods that has sold goods to the debtor” after “seller”, and struck out “of goods to the debtor” after “business,”.
 
-Subsec. (c)(2). Pub. L. 98–353, § 461(c)(5)(A), inserted “the” after “if” in provisions preceding subpar. (A).
+Subsec. (c)(2). Pub. L. 98–353, § 461(c)(5)(A), inserted “the” after “if” in provisions preceding subpar. (A).
 
-Subsec. (c)(2)(A). Pub. L. 98–353, § 461(c)(5)(B), substituted “a claim of a kind specified in section 503(b) of this title” for “an administrative expense”.
+Subsec. (c)(2)(A). Pub. L. 98–353, § 461(c)(5)(B), substituted “a claim of a kind specified in section 503(b) of this title” for “an administrative expense”.
 
-Subsec. (d). Pub. L. 98–353, § 351(3), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 98–353, § 351(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 98–353, §§ 351(2), 461(d), redesignated former subsec. (d) as (e) and inserted “financial institution” after “stockbroker”.
+Subsec. (e). Pub. L. 98–353, §§ 351(2), 461(d), redesignated former subsec. (d) as (e) and inserted “financial institution” after “stockbroker”.
 
-Subsec. (f). Pub. L. 98–353, § 393, added subsec. (f).
+Subsec. (f). Pub. L. 98–353, § 393, added subsec. (f).
 
 1982—Subsec. (d). Pub. L. 97–222 added subsec. (d).
 
@@ -4249,7 +4249,7 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 547. Preferences
+### § 547. Preferences
 
 **(a)** In this section—
 
@@ -4335,7 +4335,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(9)** if, in a case filed by a debtor whose debts are not primarily consumer debts, the aggregate value of all property that constitutes or is affected by such transfer is less than $5,000.1
 
-<sup>1</sup>  See Adjustment of Dollar Amounts notes below.
+<sup>1</sup> See Adjustment of Dollar Amounts notes below.
 
 **(d)** The trustee may avoid a transfer of an interest in property of the debtor transferred to or for the benefit of a surety to secure reimbursement of such a surety that furnished a bond or other obligation to dissolve a judicial lien that would have been avoidable by the trustee under subsection (b) of this section. The liability of such surety under such bond or obligation shall be discharged to the extent of the value of such property recovered by the trustee or the amount paid to the trustee.
 
@@ -4369,7 +4369,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(i)** If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for the benefit of a creditor that is an insider, such transfer shall be considered to be avoided under this section only with respect to the creditor that is an insider.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 98–353, title III, §§ 310, 462, July 10, 1984, 98 Stat. 355, 377; Pub. L. 99–554, title II, § 283(m), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title II, § 203, title III, § 304(f), Oct. 22, 1994, 108 Stat. 4121, 4133; Pub. L. 109–8, title II, §§ 201(b), 217, title IV, §§ 403, 409, title XII, §§ 1213(a), 1222, Apr. 20, 2005, 119 Stat. 42, 55, 104, 106, 194, 196; Pub. L. 116–54, § 3(a), Aug. 23, 2019, 133 Stat. 1085; Pub. L. 116–260, div. FF, title X, § 1001(g)(1), (2)(A), Dec. 27, 2020, 134 Stat. 3219, 3220.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 98–353, title III, §§ 310, 462, July 10, 1984, 98 Stat. 355, 377; Pub. L. 99–554, title II, § 283(m), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title II, § 203, title III, § 304(f), Oct. 22, 1994, 108 Stat. 4121, 4133; Pub. L. 109–8, title II, §§ 201(b), 217, title IV, §§ 403, 409, title XII, §§ 1213(a), 1222, Apr. 20, 2005, 119 Stat. 42, 55, 104, 106, 194, 196; Pub. L. 116–54, § 3(a), Aug. 23, 2019, 133 Stat. 1085; Pub. L. 116–260, div. FF, title X, § 1001(g)(1), (2)(A), Dec. 27, 2020, 134 Stat. 3219, 3220.)
 
 **Historical and Revision Notes**
 
@@ -4407,7 +4407,7 @@ Subsection (b)(2) of this section in effect exempts from the preference rules pa
 
 Subsection (c) contains exceptions to the trustee’s avoiding power. If a creditor can qualify under any one of the exceptions, then he is protected to that extent. If he can qualify under several, he is protected by each to the extent that he can qualify under each.
 
-The first exception is for a transfer that was intended by all parties to be a contemporaneous exchange for new value, and was in fact substantially contemporaneous. Normally, a check is a credit transaction. However, for the purposes of this paragraph, a transfer involving a check is considered to be “intended to be contemporaneous”, and if the check is presented for payment in the normal course of affairs, which the Uniform Commercial Code specifies as 30 days, U.C.C. § 3–503(2)(a), that will amount to a transfer that is “in fact substantially contemporaneous.”
+The first exception is for a transfer that was intended by all parties to be a contemporaneous exchange for new value, and was in fact substantially contemporaneous. Normally, a check is a credit transaction. However, for the purposes of this paragraph, a transfer involving a check is considered to be “intended to be contemporaneous”, and if the check is presented for payment in the normal course of affairs, which the Uniform Commercial Code specifies as 30 days, U.C.C. § 3–503(2)(a), that will amount to a transfer that is “in fact substantially contemporaneous.”
 
 The second exception protects transfers in the ordinary course of business (or of financial affairs, where a business is not involved) transfers. For the case of a consumer, the paragraph uses the phrase “financial affairs” to include such nonbusiness activities as payment of monthly utility bills. If the debt on account of which the transfer was made was incurred in the ordinary course of both the debtor and the transferee, if the transfer was made not later than 45 days after the debt was incurred, if the transfer itself was made in the ordinary course of both the debtor and the transferee, and if the transfer was made according to ordinary business terms, then the transfer is protected. The purpose of this exception is to leave undisturbed normal financial relations, because it does not detract from the general policy of the preference section to discourage unusual action by either the debtor or his creditors during the debtor’s slide into bankruptcy.
 
@@ -4421,7 +4421,7 @@ Paragraph (6) excepts statutory liens validated under section 545 from preferenc
 
 Subsection (d), derived from section 67a of the Bankruptcy Act [section 107(a) of former title 11], permits the trustee to avoid a transfer to reimburse a surety that posts a bond to dissolve a judicial lien that would have been avoidable under this section. The second sentence protects the surety from double liability.
 
-Subsection (e) determines when a transfer is made for the purposes of the preference section. Paragraph (1) defines when a transfer is perfected. For real property, a transfer is perfected when it is valid against a bona fide purchaser. For personal property and fixtures, a transfer is perfected when it is valid against a creditor on a simple contract that obtains a judicial lien after the transfer is perfected. “Simple contract” as used here is derived from Bankruptcy Act § 60a(4) [section 96(a)(4) of former title 11]. Paragraph (2) specifies that a transfer is made when it takes effect between the transferor and the transferee if it is perfected at or within 10 days after that time. Otherwise, it is made when the transfer is perfected. If it is not perfected before the commencement of the case, it is made immediately before the commencement of the case. Paragraph (3) specifies that a transfer is not made until the debtor has acquired rights in the property transferred. This provision, more than any other in the section, overrules *DuBay* and *Grain Merchants*, and in combination with subsection (b)(2), overrules *In re King-Porter Co*., 446 F.2d 722 (5th Cir. 1971).
+Subsection (e) determines when a transfer is made for the purposes of the preference section. Paragraph (1) defines when a transfer is perfected. For real property, a transfer is perfected when it is valid against a bona fide purchaser. For personal property and fixtures, a transfer is perfected when it is valid against a creditor on a simple contract that obtains a judicial lien after the transfer is perfected. “Simple contract” as used here is derived from Bankruptcy Act § 60a(4) [section 96(a)(4) of former title 11]. Paragraph (2) specifies that a transfer is made when it takes effect between the transferor and the transferee if it is perfected at or within 10 days after that time. Otherwise, it is made when the transfer is perfected. If it is not perfected before the commencement of the case, it is made immediately before the commencement of the case. Paragraph (3) specifies that a transfer is not made until the debtor has acquired rights in the property transferred. This provision, more than any other in the section, overrules *DuBay* and *Grain Merchants*, and in combination with subsection (b)(2), overrules *In re King-Porter Co*., 446 F.2d 722 (5th Cir. 1971).
 
 Subsection (e) is designed to reach the different results under the 1962 version of Article 9 of the U.C.C. and under the 1972 version because different actions are required under each version in order to make a security agreement effective between the parties.
 
@@ -4431,19 +4431,19 @@ Subsection (f) creates a presumption of insolvency for the 90 days preceding the
 
 **Amendments**
 
-2020—Subsec. (b). Pub. L. 116–260, § 1001(g)(2)(A)(i), substituted “and (i)” for “, (i), and (j)” in introductory provisions.
+2020—Subsec. (b). Pub. L. 116–260, § 1001(g)(2)(A)(i), substituted “and (i)” for “, (i), and (j)” in introductory provisions.
 
-Pub. L. 116–260, § 1001(g)(1)(A), substituted “, (i), and (j)” for “and (i)” in introductory provisions.
+Pub. L. 116–260, § 1001(g)(1)(A), substituted “, (i), and (j)” for “and (i)” in introductory provisions.
 
-Subsec. (j). Pub. L. 116–260, § 1001(g)(2)(A)(ii), struck out subsec. (j) which related to covered payments of rental and supplier arrearages.
+Subsec. (j). Pub. L. 116–260, § 1001(g)(2)(A)(ii), struck out subsec. (j) which related to covered payments of rental and supplier arrearages.
 
-Pub. L. 116–260, § 1001(g)(1)(B), added subsec. (j).
+Pub. L. 116–260, § 1001(g)(1)(B), added subsec. (j).
 
-2019—Subsec. (b). Pub. L. 116–54 inserted “, based on reasonable due diligence in the circumstances of the case and taking into account a party’s known or reasonably knowable affirmative defenses under subsection (c),” after “may” in introductory provisions.
+2019—Subsec. (b). Pub. L. 116–54 inserted “, based on reasonable due diligence in the circumstances of the case and taking into account a party’s known or reasonably knowable affirmative defenses under subsection (c),” after “may” in introductory provisions.
 
-2005—Subsec. (b). Pub. L. 109–8, § 1213(a)(1), substituted “subsections (c) and (i)” for “subsection (c)” in introductory provisions.
+2005—Subsec. (b). Pub. L. 109–8, § 1213(a)(1), substituted “subsections (c) and (i)” for “subsection (c)” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 109–8, § 409(1), added par. (2) and struck out former par. (2) which read as follows: “to the extent that such transfer was—
+Subsec. (c)(2). Pub. L. 109–8, § 409(1), added par. (2) and struck out former par. (2) which read as follows: “to the extent that such transfer was—
 
 “(A) in payment of a debt incurred by the debtor in the ordinary course of business or financial affairs of the debtor and the transferee;
 
@@ -4451,69 +4451,69 @@ Subsec. (c)(2). Pub. L. 109–8, § 409(1), added par. (2) and struck out form
 
 “(C) made according to ordinary business terms;”.
 
-Subsec. (c)(3)(B). Pub. L. 109–8, § 1222, substituted “30 days” for “20 days”.
+Subsec. (c)(3)(B). Pub. L. 109–8, § 1222, substituted “30 days” for “20 days”.
 
-Subsec. (c)(7). Pub. L. 109–8, § 217, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “to the extent such transfer was a bona fide payment of a debt to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that such debt—
+Subsec. (c)(7). Pub. L. 109–8, § 217, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “to the extent such transfer was a bona fide payment of a debt to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that such debt—
 
 “(A) is assigned to another entity, voluntarily, by operation of law, or otherwise; or
 
 “(B) includes a liability designated as alimony, maintenance, or support, unless such liability is actually in the nature of alimony, maintenance or support; or”.
 
-Subsec. (c)(9). Pub. L. 109–8, § 409(2), (3), added par. (9).
+Subsec. (c)(9). Pub. L. 109–8, § 409(2), (3), added par. (9).
 
-Subsec. (e)(2). Pub. L. 109–8, § 403, substituted “30” for “10” wherever appearing.
+Subsec. (e)(2). Pub. L. 109–8, § 403, substituted “30” for “10” wherever appearing.
 
-Subsec. (h). Pub. L. 109–8, § 201(b), added subsec. (h).
+Subsec. (h). Pub. L. 109–8, § 201(b), added subsec. (h).
 
-Subsec. (i). Pub. L. 109–8, § 1213(a)(2), added subsec. (i).
+Subsec. (i). Pub. L. 109–8, § 1213(a)(2), added subsec. (i).
 
-1994—Subsec. (c)(3)(B). Pub. L. 103–394, § 203(1), substituted “20” for “10”.
+1994—Subsec. (c)(3)(B). Pub. L. 103–394, § 203(1), substituted “20” for “10”.
 
-Subsec. (c)(7), (8). Pub. L. 103–394, § 304(f), added par. (7) and redesignated former par. (7) as (8).
+Subsec. (c)(7), (8). Pub. L. 103–394, § 304(f), added par. (7) and redesignated former par. (7) as (8).
 
-Subsec. (e)(2)(A). Pub. L. 103–394, § 203(2), inserted before semicolon at end “, except as provided in subsection (c)(3)(B)”.
+Subsec. (e)(2)(A). Pub. L. 103–394, § 203(2), inserted before semicolon at end “, except as provided in subsection (c)(3)(B)”.
 
 1986—Subsec. (b)(4)(B). Pub. L. 99–554 inserted “and” after the semicolon.
 
-1984—Subsec. (a)(2). Pub. L. 98–353, § 462(a)(1), inserted “including proceeds of such property,” after “law,”.
+1984—Subsec. (a)(2). Pub. L. 98–353, § 462(a)(1), inserted “including proceeds of such property,” after “law,”.
 
-Subsec. (a)(4). Pub. L. 98–353, § 462(a)(2), struck out “, without penalty” after “any extension”, and inserted “without penalty” after “payable”.
+Subsec. (a)(4). Pub. L. 98–353, § 462(a)(2), struck out “, without penalty” after “any extension”, and inserted “without penalty” after “payable”.
 
-Subsec. (b). Pub. L. 98–353, § 462(b)(1), substituted “of an interest of the debtor in property” for “of property of the debtor” in provisions preceding par. (1).
+Subsec. (b). Pub. L. 98–353, § 462(b)(1), substituted “of an interest of the debtor in property” for “of property of the debtor” in provisions preceding par. (1).
 
-Subsec. (b)(4)(B). Pub. L. 98–353, § 462(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “between 90 days and one year before the date of the filing of the petition, if such creditor, at the time of such transfer—
+Subsec. (b)(4)(B). Pub. L. 98–353, § 462(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “between 90 days and one year before the date of the filing of the petition, if such creditor, at the time of such transfer—
 
 “(i) was an insider; and
 
 “(ii) had reasonable cause to believe the debtor was insolvent at the time of such transfer; and”.
 
-Subsec. (c)(2)(A). Pub. L. 98–353, § 462(d)(1), inserted “by the debtor” after “incurred”.
+Subsec. (c)(2)(A). Pub. L. 98–353, § 462(d)(1), inserted “by the debtor” after “incurred”.
 
-Subsec. (c)(2)(B) to (D). Pub. L. 98–353, § 462(c), struck out subpar. (B) which read as follows: “made not later than 45 days after such debt was incurred;” and redesignated subpars. (C) and (D) as (B) and (C), respectively.
+Subsec. (c)(2)(B) to (D). Pub. L. 98–353, § 462(c), struck out subpar. (B) which read as follows: “made not later than 45 days after such debt was incurred;” and redesignated subpars. (C) and (D) as (B) and (C), respectively.
 
-Subsec. (c)(3). Pub. L. 98–353, § 462(d)(2), substituted “that creates” for “of”.
+Subsec. (c)(3). Pub. L. 98–353, § 462(d)(2), substituted “that creates” for “of”.
 
-Subsec. (c)(3)(B). Pub. L. 98–353, § 462(d)(3), inserted “on or” after “perfected”, and substituted “the debtor receives possession of such property” for “such security interest attaches”.
+Subsec. (c)(3)(B). Pub. L. 98–353, § 462(d)(3), inserted “on or” after “perfected”, and substituted “the debtor receives possession of such property” for “such security interest attaches”.
 
-Subsec. (c)(5). Pub. L. 98–353, § 462(d)(4), substituted “that creates” for “of”, and “all security interests” for “all security interest”.
+Subsec. (c)(5). Pub. L. 98–353, § 462(d)(4), substituted “that creates” for “of”, and “all security interests” for “all security interest”.
 
-Subsec. (c)(5)(A)(ii). Pub. L. 98–353, § 462(d)(5), substituted “or” for “and”.
+Subsec. (c)(5)(A)(ii). Pub. L. 98–353, § 462(d)(5), substituted “or” for “and”.
 
-Subsec. (c)(7). Pub. L. 98–353, § 310(3), added par. (7).
+Subsec. (c)(7). Pub. L. 98–353, § 310(3), added par. (7).
 
-Subsec. (d). Pub. L. 98–353, § 462(e), substituted “The” for “A” before “trustee may avoid”, inserted “an interest in” after “transfer of”, inserted “to or for the benefit of a surety” after “transferred”, and inserted “such” after “reimbursement of”.
+Subsec. (d). Pub. L. 98–353, § 462(e), substituted “The” for “A” before “trustee may avoid”, inserted “an interest in” after “transfer of”, inserted “to or for the benefit of a surety” after “transferred”, and inserted “such” after “reimbursement of”.
 
-Subsec. (e)(2)(C)(i). Pub. L. 98–353, § 462(f), substituted “or” for “and”.
+Subsec. (e)(2)(C)(i). Pub. L. 98–353, § 462(f), substituted “or” for “and”.
 
-Subsec. (g). Pub. L. 98–353, § 462(g), added subsec. (g).
+Subsec. (g). Pub. L. 98–353, § 462(g), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. FF, title X, § 1001(g)(2)(A), Dec. 27, 2020, 134 Stat. 3220, provided that the amendment made by section 1001(g)(2)(A) is effective on the date that is 2 years after Dec. 27, 2020.
+Pub. L. 116–260, div. FF, title X, § 1001(g)(2)(A), Dec. 27, 2020, 134 Stat. 3220, provided that the amendment made by section 1001(g)(2)(A) is effective on the date that is 2 years after Dec. 27, 2020.
 
-Pub. L. 116–260, div. FF, title X, § 1001(g)(2)(B), Dec. 27, 2020, 134 Stat. 3221, provided that: “Notwithstanding the amendments made by subparagraph (A) [amending this section], the amendments made by paragraph (1) [amending this section] shall apply in any case commenced under title 11, United States Code, before the date that is 2 years after the date of enactment of this Act [Dec. 27, 2020].”
+Pub. L. 116–260, div. FF, title X, § 1001(g)(2)(B), Dec. 27, 2020, 134 Stat. 3221, provided that: “Notwithstanding the amendments made by subparagraph (A) [amending this section], the amendments made by paragraph (1) [amending this section] shall apply in any case commenced under title 11, United States Code, before the date that is 2 years after the date of enactment of this Act [Dec. 27, 2020].”
 
 **Effective Date of 2019 Amendment**
 
@@ -4521,7 +4521,7 @@ Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see sectio
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–8, title XII, § 1213(b), Apr. 20, 2005, 119 Stat. 195, provided that: “The amendments made by this section [amending this section] shall apply to any case that is pending or commenced on or after the date of enactment of this Act [Apr. 20, 2005].”
+Pub. L. 109–8, title XII, § 1213(b), Apr. 20, 2005, 119 Stat. 195, provided that: “The amendments made by this section [amending this section] shall apply to any case that is pending or commenced on or after the date of enactment of this Act [Apr. 20, 2005].”
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
@@ -4557,7 +4557,7 @@ By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. 
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (c)(9), dollar amount “5,000” was adjusted to “5,475”.
 
-### § 548. Fraudulent transfers and obligations
+### § 548. Fraudulent transfers and obligations
 
 **(a)**
 
@@ -4639,7 +4639,7 @@ By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (
 
 **(B)** fraud, deceit, or manipulation in a fiduciary capacity or in connection with the purchase or sale of any security registered under section 12 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78*l* and 78*o*(d)) or under section 6 of the Securities Act of 1933 (15 U.S.C. 77f).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2600; Pub. L. 97–222, § 5, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§ 394, 463, July 10, 1984, 98 Stat. 365, 378; Pub. L. 99–554, title II, § 283(n), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 101–311, title I, § 104, title II, § 204, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title V, § 501(b)(5), Oct. 22, 1994, 108 Stat. 4142; Pub. L. 105–183, §§ 2, 3(a), June 19, 1998, 112 Stat. 517; Pub. L. 109–8, title IX, § 907(f), (*o*)(4)–(6), title XIV, § 1402, Apr. 20, 2005, 119 Stat. 177, 182, 214.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2600; Pub. L. 97–222, § 5, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§ 394, 463, July 10, 1984, 98 Stat. 365, 378; Pub. L. 99–554, title II, § 283(n), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 101–311, title I, § 104, title II, § 204, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title V, § 501(b)(5), Oct. 22, 1994, 108 Stat. 4142; Pub. L. 105–183, §§ 2, 3(a), June 19, 1998, 112 Stat. 517; Pub. L. 109–8, title IX, § 907(f), (*o*)(4)–(6), title XIV, § 1402, Apr. 20, 2005, 119 Stat. 177, 182, 214.)
 
 **Historical and Revision Notes**
 
@@ -4667,51 +4667,51 @@ Sections 170(c) and 731(c)(2)(C) of the Internal Revenue Code of 1986, referred 
 
 **Amendments**
 
-2005—Subsec. (a)(1). Pub. L. 109–8, § 1402(2), in introductory provisions, inserted “(including any transfer to or for the benefit of an insider under an employment contract)” after “avoid any transfer” and “(including any obligation to or for the benefit of an insider under an employment contract)” after “or any obligation”.
+2005—Subsec. (a)(1). Pub. L. 109–8, § 1402(2), in introductory provisions, inserted “(including any transfer to or for the benefit of an insider under an employment contract)” after “avoid any transfer” and “(including any obligation to or for the benefit of an insider under an employment contract)” after “or any obligation”.
 
-Pub. L. 109–8, § 1402(1), substituted “2 years” for “one year” in introductory provisions.
+Pub. L. 109–8, § 1402(1), substituted “2 years” for “one year” in introductory provisions.
 
-Subsec. (a)(1)(B)(ii)(IV). Pub. L. 109–8, § 1402(3), added subcl. (IV).
+Subsec. (a)(1)(B)(ii)(IV). Pub. L. 109–8, § 1402(3), added subcl. (IV).
 
-Subsec. (b). Pub. L. 109–8, § 1402(1), substituted “2 years” for “one year”.
+Subsec. (b). Pub. L. 109–8, § 1402(1), substituted “2 years” for “one year”.
 
-Subsec. (d)(2)(B). Pub. L. 109–8, § 907(*o*)(4), inserted “financial participant,” after “financial institution,”.
+Subsec. (d)(2)(B). Pub. L. 109–8, § 907(*o*)(4), inserted “financial participant,” after “financial institution,”.
 
-Subsec. (d)(2)(C). Pub. L. 109–8, § 907(*o*)(5), inserted “or financial participant” after “repo participant”.
+Subsec. (d)(2)(C). Pub. L. 109–8, § 907(*o*)(5), inserted “or financial participant” after “repo participant”.
 
-Subsec. (d)(2)(D). Pub. L. 109–8, § 907(*o*)(6), inserted “or financial participant” after “swap participant”.
+Subsec. (d)(2)(D). Pub. L. 109–8, § 907(*o*)(6), inserted “or financial participant” after “swap participant”.
 
-Subsec. (d)(2)(E). Pub. L. 109–8, § 907(f), added subpar. (E).
+Subsec. (d)(2)(E). Pub. L. 109–8, § 907(f), added subpar. (E).
 
-Subsec. (e). Pub. L. 109–8, § 1402(4), added subsec. (e).
+Subsec. (e). Pub. L. 109–8, § 1402(4), added subsec. (e).
 
-1998—Subsec. (a). Pub. L. 105–183, § 3(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as par. (1)(A) and (B), respectively, redesignated former par. (2)(A) and (B) as par. (1)(B)(i) and (ii), respectively, and redesignated former par. (2)(B)(i) to (iii) as par. (1)(B)(ii)(I) to (III), respectively, and added par. (2).
+1998—Subsec. (a). Pub. L. 105–183, § 3(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as par. (1)(A) and (B), respectively, redesignated former par. (2)(A) and (B) as par. (1)(B)(i) and (ii), respectively, and redesignated former par. (2)(B)(i) to (iii) as par. (1)(B)(ii)(I) to (III), respectively, and added par. (2).
 
-Subsec. (d)(3), (4). Pub. L. 105–183, § 2, added pars. (3) and (4).
+Subsec. (d)(3), (4). Pub. L. 105–183, § 2, added pars. (3) and (4).
 
-1994—Subsec. (d)(2)(B). Pub. L. 103–394, § 501(b)(5)(A), substituted “section 101, 741, or 761” for “section 101(34), 741(5) or 761(15)” and “section 101 or 741” for “section 101(35) or 741(8)”.
+1994—Subsec. (d)(2)(B). Pub. L. 103–394, § 501(b)(5)(A), substituted “section 101, 741, or 761” for “section 101(34), 741(5) or 761(15)” and “section 101 or 741” for “section 101(35) or 741(8)”.
 
-Subsec. (d)(2)(C). Pub. L. 103–394, § 501(b)(5)(B), substituted “section 741 or 761” for “section 741(5) or 761(15)” and “section 741” for “section 741(8)”.
+Subsec. (d)(2)(C). Pub. L. 103–394, § 501(b)(5)(B), substituted “section 741 or 761” for “section 741(5) or 761(15)” and “section 741” for “section 741(8)”.
 
-1990—Subsec. (d)(2)(B). Pub. L. 101–311, § 204, inserted reference to sections 101(34) and 101(35) of this title.
+1990—Subsec. (d)(2)(B). Pub. L. 101–311, § 204, inserted reference to sections 101(34) and 101(35) of this title.
 
-Subsec. (d)(2)(D). Pub. L. 101–311, § 104, added subpar. (D).
+Subsec. (d)(2)(D). Pub. L. 101–311, § 104, added subpar. (D).
 
-1986—Subsec. (d)(2)(B). Pub. L. 99–554 substituted “, financial institution” for “financial institution,”.
+1986—Subsec. (d)(2)(B). Pub. L. 99–554 substituted “, financial institution” for “financial institution,”.
 
-1984—Subsec. (a). Pub. L. 98–353, § 463(a)(1), substituted “if the debtor voluntarily or involuntarily” for “if the debtor” in provisions preceding par. (1).
+1984—Subsec. (a). Pub. L. 98–353, § 463(a)(1), substituted “if the debtor voluntarily or involuntarily” for “if the debtor” in provisions preceding par. (1).
 
-Subsec. (a)(1). Pub. L. 98–353, § 463(a)(2), substituted “was made” for “occurred”.
+Subsec. (a)(1). Pub. L. 98–353, § 463(a)(2), substituted “was made” for “occurred”.
 
-Subsec. (a)(2)(B)(ii). Pub. L. 98–353, § 463(a)(3), inserted “or a transaction” after “engaged in business”.
+Subsec. (a)(2)(B)(ii). Pub. L. 98–353, § 463(a)(3), inserted “or a transaction” after “engaged in business”.
 
-Subsec. (c). Pub. L. 98–353, § 463(b), inserted “or may retain” after “lien on” and struck out “, may retain any lien transferred,” before “or may enforce any obligation incurred”.
+Subsec. (c). Pub. L. 98–353, § 463(b), inserted “or may retain” after “lien on” and struck out “, may retain any lien transferred,” before “or may enforce any obligation incurred”.
 
-Subsec. (d)(1). Pub. L. 98–353, § 463(c)(1), substituted “is so” for “becomes so far”, “applicable law permits such transfer to be” for “such transfer could have been”, and “is made” for “occurs”.
+Subsec. (d)(1). Pub. L. 98–353, § 463(c)(1), substituted “is so” for “becomes so far”, “applicable law permits such transfer to be” for “such transfer could have been”, and “is made” for “occurs”.
 
-Subsec. (d)(2)(B). Pub. L. 98–353, § 463(c)(2), inserted “financial institution,” after “stockbroker”.
+Subsec. (d)(2)(B). Pub. L. 98–353, § 463(c)(2), inserted “financial institution,” after “stockbroker”.
 
-Subsec. (d)(2)(C). Pub. L. 98–353, § 394(2), added subpar. (C).
+Subsec. (d)(2)(C). Pub. L. 98–353, § 394(2), added subpar. (C).
 
 1982—Subsec. (d)(2)(B). Pub. L. 97–222 substituted “a commodity broker, forward contract merchant, stockbroker, or securities clearing agency that receives a margin payment, as defined in section 741(5) or 761(15) of this title, or settlement payment, as defined in section 741(8) of this title, takes for value to extent of such payment” for “a commodity broker or forward contract merchant that receives a margin payment, as defined in section 761(15) of this title, takes for value”.
 
@@ -4739,7 +4739,7 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 549. Postpetition transactions
+### § 549. Postpetition transactions
 
 **(a)** Except as provided in subsection (b) or (c) of this section, the trustee may avoid a transfer of property of the estate—
 
@@ -4761,7 +4761,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(2)** the time the case is closed or dismissed.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2601; Pub. L. 98–353, title III, § 464, July 10, 1984, 98 Stat. 379; Pub. L. 99–554, title II, § 283(*o*), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title V, § 501(d)(18), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 109–8, title XII, § 1214, Apr. 20, 2005, 119 Stat. 195.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2601; Pub. L. 98–353, title III, § 464, July 10, 1984, 98 Stat. 379; Pub. L. 99–554, title II, § 283(*o*), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title V, § 501(d)(18), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 109–8, title XII, § 1214, Apr. 20, 2005, 119 Stat. 195.)
 
 **Historical and Revision Notes**
 
@@ -4783,11 +4783,11 @@ This section modifies section 70d of current law [section 110(d) of former title
 
 1986—Subsec. (b). Pub. L. 99–554 substituted “made” for “that occurs”, and “to the extent” for “is valid against the trustee to the extent of”, and inserted “is” before “given”.
 
-1984—Subsec. (a). Pub. L. 98–353, § 464(a)(1), (2), substituted “(b) or (c)” for “(b) and (c)” in provisions preceding par. (1) and inserted “only” between “authorized” and “under” in par. (2)(A). In the original of Pub. L. 98–353, subsec. (a)(2) of section 464 thereof ended with a period but was followed by pars. (3), (4), and (5). Such pars. (3), (4), and (5) purported to amend subsec. (a) of this section in ways not susceptible of execution. In a predecessor bill [S. 445], these pars. (3), (4), and (5) formed a part of a subsec. (b) of section 361 thereof which amended subsec. (b) of this section. Such subsec. (b) of section 361 of S. 445 was not carried into Pub. L. 98–353, § 464.
+1984—Subsec. (a). Pub. L. 98–353, § 464(a)(1), (2), substituted “(b) or (c)” for “(b) and (c)” in provisions preceding par. (1) and inserted “only” between “authorized” and “under” in par. (2)(A). In the original of Pub. L. 98–353, subsec. (a)(2) of section 464 thereof ended with a period but was followed by pars. (3), (4), and (5). Such pars. (3), (4), and (5) purported to amend subsec. (a) of this section in ways not susceptible of execution. In a predecessor bill [S. 445], these pars. (3), (4), and (5) formed a part of a subsec. (b) of section 361 thereof which amended subsec. (b) of this section. Such subsec. (b) of section 361 of S. 445 was not carried into Pub. L. 98–353, § 464.
 
-Subsec. (c). Pub. L. 98–353, § 464(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The trustee may not avoid under subsection (a) of this section a transfer, to a good faith purchaser without knowledge of the commencement of the case and for present fair equivalent value or to a purchaser at a judicial sale, of real property located other than in the county in which the case is commenced, unless a copy of the petition was filed in the office where conveyances of real property in such county are recorded before such transfer was so far perfected that a bona fide purchaser of such property against whom applicable law permits such transfer to be perfected cannot acquire an interest that is superior to the interest of such good faith or judicial sale purchaser. A good faith purchaser, without knowledge of the commencement of the case and for less than present fair equivalent value, of real property located other than in the county in which the case is commenced, under a transfer that the trustee may avoid under this section, has a lien on the property transferred to the extent of any present value given, unless a copy of the petition was so filed before such transfer was so perfected.”
+Subsec. (c). Pub. L. 98–353, § 464(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The trustee may not avoid under subsection (a) of this section a transfer, to a good faith purchaser without knowledge of the commencement of the case and for present fair equivalent value or to a purchaser at a judicial sale, of real property located other than in the county in which the case is commenced, unless a copy of the petition was filed in the office where conveyances of real property in such county are recorded before such transfer was so far perfected that a bona fide purchaser of such property against whom applicable law permits such transfer to be perfected cannot acquire an interest that is superior to the interest of such good faith or judicial sale purchaser. A good faith purchaser, without knowledge of the commencement of the case and for less than present fair equivalent value, of real property located other than in the county in which the case is commenced, under a transfer that the trustee may avoid under this section, has a lien on the property transferred to the extent of any present value given, unless a copy of the petition was so filed before such transfer was so perfected.”
 
-Subsec. (d)(1). Pub. L. 98–353, § 464(d), substituted “or” for “and”.
+Subsec. (d)(1). Pub. L. 98–353, § 464(d), substituted “or” for “and”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4807,7 +4807,7 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 550. Liability of transferee of avoided transfer
+### § 550. Liability of transferee of avoided transfer
 
 **(a)** Except as otherwise provided in this section, to the extent that a transfer is avoided under section 544, 545, 547, 548, 549, 553(b), or 724(a) of this title, the trustee may recover, for the benefit of the estate, the property transferred, or, if the court so orders, the value of such property, from—
 
@@ -4815,9 +4815,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(2)** any immediate or mediate transferee of such initial transferee.
 
-**(b)** The trustee may not recover under section 1
+**(b)** The trustee may not recover under section 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (a)(2) of this section from—
 
@@ -4861,7 +4861,7 @@ the trustee may not recover under subsection (a) from a transferee that is not a
 
 **(2)** the time the case is closed or dismissed.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2601; Pub. L. 98–353, title III, § 465, July 10, 1984, 98 Stat. 379; Pub. L. 103–394, title II, § 202, Oct. 22, 1994, 108 Stat. 4121.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2601; Pub. L. 98–353, title III, § 465, July 10, 1984, 98 Stat. 379; Pub. L. 103–394, title II, § 202, Oct. 22, 1994, 108 Stat. 4121.)
 
 **Historical and Revision Notes**
 
@@ -4887,17 +4887,17 @@ Subsection (e) establishes a statute of limitations on avoidance by the Trustee.
 
 1994—Subsecs. (c) to (f). Pub. L. 103–394 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
-1984—Subsec. (a). Pub. L. 98–353, § 465(a), substituted “549, 553(b), or 724(a) of this title” for “549, or 724(a) of this title”.
+1984—Subsec. (a). Pub. L. 98–353, § 465(a), substituted “549, 553(b), or 724(a) of this title” for “549, or 724(a) of this title”.
 
-Subsec. (d)(1)(A). Pub. L. 98–353, § 465(b)(1), inserted “or accruing to” after “by”.
+Subsec. (d)(1)(A). Pub. L. 98–353, § 465(b)(1), inserted “or accruing to” after “by”.
 
-Subsec. (d)(1)(B). Pub. L. 98–353, § 465(b)(2), substituted “the value of such property” for “value”.
+Subsec. (d)(1)(B). Pub. L. 98–353, § 465(b)(2), substituted “the value of such property” for “value”.
 
-Subsec. (d)(2)(D). Pub. L. 98–353, § 465(b)(3), substituted “payment of any debt secured by a lien on such property that is superior or equal to the rights of the trustee; and” for “payment of any debt secured by a lien on such property.”
+Subsec. (d)(2)(D). Pub. L. 98–353, § 465(b)(3), substituted “payment of any debt secured by a lien on such property that is superior or equal to the rights of the trustee; and” for “payment of any debt secured by a lien on such property.”
 
-Subsec. (d)(2)(E), (F). Pub. L. 98–353, § 465(b)(3), (4), struck out subpar. (E) “discharge of any lien against such property that is superior or equal to the rights of the trustee; and” and redesignated subpar. (F) as (E).
+Subsec. (d)(2)(E), (F). Pub. L. 98–353, § 465(b)(3), (4), struck out subpar. (E) “discharge of any lien against such property that is superior or equal to the rights of the trustee; and” and redesignated subpar. (F) as (E).
 
-Subsec. (e)(1). Pub. L. 98–353, § 465(c), substituted “or” for “and”.
+Subsec. (e)(1). Pub. L. 98–353, § 465(c), substituted “or” for “and”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4909,7 +4909,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 551. Automatic preservation of avoided transfer
+### § 551. Automatic preservation of avoided transfer
 
 Any transfer avoided under section 522, 544, 545, 547, 548, 549, or 724(a) of this title, or any lien void under section 506(d) of this title, is preserved for the benefit of the estate but only with respect to property of the estate.
 
@@ -4925,7 +4925,7 @@ Section 551 is adopted from the House bill and the alternative in the Senate ame
 
 This section is a change from present law. It specifies that any avoided transfer is automatically preserved for the benefit of the estate. Under current law, the court must determine whether or not the transfer should be preserved. The operation of the section is automatic, unlike current law, even though preservation may not benefit the estate in every instance. A preserved lien may be abandoned by the trustee under proposed 11 U.S.C. 554 if the preservation does not benefit the estate. The section as a whole prevents junior lienors from improving their position at the expense of the estate when a senior lien is avoided.
 
-### § 552. Postpetition effect of security interest
+### § 552. Postpetition effect of security interest
 
 **(a)** Except as provided in subsection (b) of this section, property acquired by the estate or by the debtor after the commencement of the case is not subject to any lien resulting from any security agreement entered into by the debtor before the commencement of the case.
 
@@ -4935,7 +4935,7 @@ This section is a change from present law. It specifies that any avoided transfe
 
 **(2)** Except as provided in sections 363, 506(c), 522, 544, 545, 547, and 548 of this title, and notwithstanding section 546(b) of this title, if the debtor and an entity entered into a security agreement before the commencement of the case and if the security interest created by such security agreement extends to property of the debtor acquired before the commencement of the case and to amounts paid as rents of such property or the fees, charges, accounts, or other payments for the use or occupancy of rooms and other public facilities in hotels, motels, or other lodging properties, then such security interest extends to such rents and such fees, charges, accounts, or other payments acquired by the estate after the commencement of the case to the extent provided in such security agreement, except to any extent that the court, after notice and a hearing and based on the equities of the case, orders otherwise.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2602; Pub. L. 98–353, title III, § 466, July 10, 1984, 98 Stat. 380; Pub. L. 103–394, title II, § 214(a), Oct. 22, 1994, 108 Stat. 4126; Pub. L. 109–8, title XII, § 1204(2), Apr. 20, 2005, 119 Stat. 194.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2602; Pub. L. 98–353, title III, § 466, July 10, 1984, 98 Stat. 380; Pub. L. 103–394, title II, § 214(a), Oct. 22, 1994, 108 Stat. 4126; Pub. L. 109–8, title XII, § 1204(2), Apr. 20, 2005, 119 Stat. 194.)
 
 **Historical and Revision Notes**
 
@@ -4981,7 +4981,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 553. Setoff
+### § 553. Setoff
 
 **(a)** Except as otherwise provided in this section and in sections 362 and 363 of this title, this title does not affect any right of a creditor to offset a mutual debt owing by such creditor to the debtor that arose before the commencement of the case under this title against a claim of such creditor against the debtor that arose before the commencement of the case, except to the extent that—
 
@@ -5017,7 +5017,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(c)** For the purposes of this section, the debtor is presumed to have been insolvent on and during the 90 days immediately preceding the date of the filing of the petition.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2602; Pub. L. 98–353, title III, §§ 395, 467, July 10, 1984, 98 Stat. 365, 380; Pub. L. 101–311, title I, § 105, June 25, 1990, 104 Stat. 268; Pub. L. 103–394, title II, §§ 205(b), 222(b), title V, § 501(d)(19), Oct. 22, 1994, 108 Stat. 4123, 4129, 4146; Pub. L. 109–8, title IX, § 907(n), Apr. 20, 2005, 119 Stat. 181.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2602; Pub. L. 98–353, title III, §§ 395, 467, July 10, 1984, 98 Stat. 365, 380; Pub. L. 101–311, title I, § 105, June 25, 1990, 104 Stat. 268; Pub. L. 103–394, title II, §§ 205(b), 222(b), title V, § 501(d)(19), Oct. 22, 1994, 108 Stat. 4123, 4129, 4146; Pub. L. 109–8, title IX, § 907(n), Apr. 20, 2005, 119 Stat. 181.)
 
 **Historical and Revision Notes**
 
@@ -5037,23 +5037,23 @@ As under section 547(f), the debtor is presumed to have been insolvent during th
 
 **Amendments**
 
-2005—Subsec. (a)(2)(B)(ii). Pub. L. 109–8, § 907(n)(1), inserted “(except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561)” before semicolon.
+2005—Subsec. (a)(2)(B)(ii). Pub. L. 109–8, § 907(n)(1), inserted “(except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561)” before semicolon.
 
-Subsec. (a)(3)(C). Pub. L. 109–8, § 907(n)(2), inserted “(except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561)” before period.
+Subsec. (a)(3)(C). Pub. L. 109–8, § 907(n)(2), inserted “(except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561)” before period.
 
-Subsec. (b)(1). Pub. L. 109–8, § 907(n)(3), substituted “362(b)(17), 362(b)(27), 555, 556, 559, 560, 561,” for “362(b)(14),” in introductory provisions.
+Subsec. (b)(1). Pub. L. 109–8, § 907(n)(3), substituted “362(b)(17), 362(b)(27), 555, 556, 559, 560, 561,” for “362(b)(14),” in introductory provisions.
 
-1994—Subsec. (a)(1). Pub. L. 103–394, § 501(d)(19)(A), struck out before semicolon at end “other than under section 502(b)(3) of this title”.
+1994—Subsec. (a)(1). Pub. L. 103–394, § 501(d)(19)(A), struck out before semicolon at end “other than under section 502(b)(3) of this title”.
 
-Subsec. (b)(1). Pub. L. 103–394, § 501(d)(19)(B), substituted “section 362(b)(14),” for “section 362(b)(14),,”.
+Subsec. (b)(1). Pub. L. 103–394, § 501(d)(19)(B), substituted “section 362(b)(14),” for “section 362(b)(14),,”.
 
-Pub. L. 103–394, § 222(b), which directed the amendment of section 553(b)(1) by inserting “546(h),” after “365(h),” was executed by making the insertion in section 553(b)(1) of this title to reflect the probable intent of Congress.
+Pub. L. 103–394, § 222(b), which directed the amendment of section 553(b)(1) by inserting “546(h),” after “365(h),” was executed by making the insertion in section 553(b)(1) of this title to reflect the probable intent of Congress.
 
-Pub. L. 103–394, § 205(b), substituted “365(h)” for “365(h)(2)”.
+Pub. L. 103–394, § 205(b), substituted “365(h)” for “365(h)(2)”.
 
 1990—Subsec. (b)(1). Pub. L. 101–311 substituted “362(b)(7), 362(b)(14),” for “362(b)(7),”.
 
-1984—Subsec. (b)(1). Pub. L. 98–353 inserted “, 362(b)(7),” after “362(b)(6)”, and substituted “, 365(h)(2), or 365(i)(2)” for “or 365(h)(1)”.
+1984—Subsec. (b)(1). Pub. L. 98–353 inserted “, 362(b)(7),” after “362(b)(6)”, and substituted “, 365(h)(2), or 365(i)(2)” for “or 365(h)(1)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5069,7 +5069,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 554. Abandonment of property of the estate
+### § 554. Abandonment of property of the estate
 
 **(a)** After notice and a hearing, the trustee may abandon any property of the estate that is burdensome to the estate or that is of inconsequential value and benefit to the estate.
 
@@ -5079,7 +5079,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(d)** Unless the court orders otherwise, property of the estate that is not abandoned under this section and that is not administered in the case remains property of the estate.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2603; Pub. L. 98–353, title III, § 468, July 10, 1984, 98 Stat. 380; Pub. L. 99–554, title II, § 283(p), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 111–327, § 2(a)(23), Dec. 22, 2010, 124 Stat. 3560.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2603; Pub. L. 98–353, title III, § 468, July 10, 1984, 98 Stat. 380; Pub. L. 99–554, title II, § 283(p), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 111–327, § 2(a)(23), Dec. 22, 2010, 124 Stat. 3560.)
 
 **Historical and Revision Notes**
 
@@ -5099,11 +5099,11 @@ Under this section the court may authorize the trustee to abandon any property o
 
 1986—Subsec. (c). Pub. L. 99–554 substituted “521(1)” for “521(a)(1)”.
 
-1984—Subsecs. (a), (b). Pub. L. 98–353, § 468(a), inserted “and benefit” after “value”.
+1984—Subsecs. (a), (b). Pub. L. 98–353, § 468(a), inserted “and benefit” after “value”.
 
-Subsec. (c). Pub. L. 98–353, § 468(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Unless the court orders otherwise, any property that is scheduled under section 521(1) of this title and that is not administered before a case is closed under section 350 of this title is deemed abandoned.”
+Subsec. (c). Pub. L. 98–353, § 468(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Unless the court orders otherwise, any property that is scheduled under section 521(1) of this title and that is not administered before a case is closed under section 350 of this title is deemed abandoned.”
 
-Subsec. (d). Pub. L. 98–353, § 468(c), struck out “section (a) or (b) of” after “not abandoned under”.
+Subsec. (d). Pub. L. 98–353, § 468(c), struck out “section (a) or (b) of” after “not abandoned under”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5115,31 +5115,31 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 555. Contractual right to liquidate, terminate, or accelerate a securities contract
+### § 555. Contractual right to liquidate, terminate, or accelerate a securities contract
 
 The exercise of a contractual right of a stockbroker, financial institution, financial participant, or securities clearing agency to cause the liquidation, termination, or acceleration of a securities contract, as defined in section 741 of this title, because of a condition of the kind specified in section 365(e)(1) of this title shall not be stayed, avoided, or otherwise limited by operation of any provision of this title or by order of a court or administrative agency in any proceeding under this title unless such order is authorized under the provisions of the Securities Investor Protection Act of 1970 or any statute administered by the Securities and Exchange Commission. As used in this section, the term “contractual right” includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act), or in a resolution of the governing board thereof, and a right, whether or not in writing, arising under common law, under law merchant, or by reason of normal business practice.
 
-(Added Pub. L. 97–222, § 6(a), July 27, 1982, 96 Stat. 236; amended Pub. L. 98–353, title III, § 469, July 10, 1984, 98 Stat. 380; Pub. L. 103–394, title V, § 501(b)(6), (d)(20), Oct. 22, 1994, 108 Stat. 4143, 4146; Pub. L. 109–8, title IX, § 907(g), (*o*)(7), Apr. 20, 2005, 119 Stat. 177, 182.)
+(Added Pub. L. 97–222, § 6(a), July 27, 1982, 96 Stat. 236; amended Pub. L. 98–353, title III, § 469, July 10, 1984, 98 Stat. 380; Pub. L. 103–394, title V, § 501(b)(6), (d)(20), Oct. 22, 1994, 108 Stat. 4143, 4146; Pub. L. 109–8, title IX, § 907(g), (*o*)(7), Apr. 20, 2005, 119 Stat. 177, 182.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
-The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in text, is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 **Amendments**
 
-2005—Pub. L. 109–8, § 907(g)(1), substituted “Contractual right to liquidate, terminate, or accelerate a securities contract” for “Contractual right to liquidate a securities contract” in section catchline.
+2005—Pub. L. 109–8, § 907(g)(1), substituted “Contractual right to liquidate, terminate, or accelerate a securities contract” for “Contractual right to liquidate a securities contract” in section catchline.
 
-Pub. L. 109–8, § 907(g)(2), (*o*)(7), in first sentence, inserted “financial participant,” after “financial institution,” and substituted “liquidation, termination, or acceleration” for “liquidation”, and substituted second sentence for former second sentence which read as follows: “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw of a national securities exchange, a national securities association, or a securities clearing agency.”
+Pub. L. 109–8, § 907(g)(2), (*o*)(7), in first sentence, inserted “financial participant,” after “financial institution,” and substituted “liquidation, termination, or acceleration” for “liquidation”, and substituted second sentence for former second sentence which read as follows: “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw of a national securities exchange, a national securities association, or a securities clearing agency.”
 
 1994—Pub. L. 103–394 substituted “section 741 of this title” for “section 741(7)” and struck out “(15 U.S.C. 78aaa et seq.)” after “Act of 1970”.
 
-1984—Pub. L. 98–353 inserted “, financial institution,” after “stockbroker”.
+1984—Pub. L. 98–353 inserted “, financial institution,” after “stockbroker”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5155,25 +5155,25 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-### § 556. Contractual right to liquidate, terminate, or accelerate a commodities contract or forward contract
+### § 556. Contractual right to liquidate, terminate, or accelerate a commodities contract or forward contract
 
 The contractual right of a commodity broker, financial participant, or forward contract merchant to cause the liquidation, termination, or acceleration of a commodity contract, as defined in section 761 of this title, or forward contract because of a condition of the kind specified in section 365(e)(1) of this title, and the right to a variation or maintenance margin payment received from a trustee with respect to open commodity contracts or forward contracts, shall not be stayed, avoided, or otherwise limited by operation of any provision of this title or by the order of a court in any proceeding under this title. As used in this section, the term “contractual right” includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof and a right, whether or not evidenced in writing, arising under common law, under law merchant or by reason of normal business practice.
 
-(Added Pub. L. 97–222, § 6(a), July 27, 1982, 96 Stat. 236; amended Pub. L. 101–311, title II, § 205, June 25, 1990, 104 Stat. 270; Pub. L. 103–394, title V, § 501(b)(7), Oct. 22, 1994, 108 Stat. 4143; Pub. L. 109–8, title IX, §§ 907(h), (*o*)(8), Apr. 20, 2005, 119 Stat. 178, 182.)
+(Added Pub. L. 97–222, § 6(a), July 27, 1982, 96 Stat. 236; amended Pub. L. 101–311, title II, § 205, June 25, 1990, 104 Stat. 270; Pub. L. 103–394, title V, § 501(b)(7), Oct. 22, 1994, 108 Stat. 4143; Pub. L. 109–8, title IX, §§ 907(h), (*o*)(8), Apr. 20, 2005, 119 Stat. 178, 182.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in text, is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 **Amendments**
 
-2005—Pub. L. 109–8, § 907(*o*)(8), inserted “, financial participant,” after “commodity broker” in first sentence.
+2005—Pub. L. 109–8, § 907(*o*)(8), inserted “, financial participant,” after “commodity broker” in first sentence.
 
-Pub. L. 109–8, § 907(h), substituted “Contractual right to liquidate, terminate, or accelerate a commodities contract or forward contract” for “Contractual right to liquidate a commodities contract or forward contract” in section catchline, “liquidation, termination, or acceleration” for “liquidation” in first sentence, and “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof and a right,” for “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw of a clearing organization or contract market or in a resolution of the governing board thereof and a right,” in second sentence.
+Pub. L. 109–8, § 907(h), substituted “Contractual right to liquidate, terminate, or accelerate a commodities contract or forward contract” for “Contractual right to liquidate a commodities contract or forward contract” in section catchline, “liquidation, termination, or acceleration” for “liquidation” in first sentence, and “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof and a right,” for “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw of a clearing organization or contract market or in a resolution of the governing board thereof and a right,” in second sentence.
 
 1994—Pub. L. 103–394 substituted “section 761 of this title” for “section 761(4)”.
 
@@ -5189,7 +5189,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
-### § 557. Expedited determination of interests in, and abandonment or other disposition of grain assets
+### § 557. Expedited determination of interests in, and abandonment or other disposition of grain assets
 
 **(a)** This section applies only in a case concerning a debtor that owns or operates a grain storage facility and only with respect to grain and the proceeds of grain. This section does not affect the application of any other section of this title to property other than grain and proceeds of grain.
 
@@ -5289,7 +5289,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 **(i)** In all cases where the quantity of a specific type of grain held by a debtor operating a grain storage facility exceeds ten thousand bushels, such grain shall be sold by the trustee and the assets thereof distributed in accordance with the provisions of this section.
 
-(Added Pub. L. 98–353, title III, § 352(a), July 10, 1984, 98 Stat. 359; amended Pub. L. 99–554, title II, § 257(p), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 116–54, § 4(a)(10), Aug. 23, 2019, 133 Stat. 1086.)
+(Added Pub. L. 98–353, title III, § 352(a), July 10, 1984, 98 Stat. 359; amended Pub. L. 99–554, title II, § 257(p), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 116–54, § 4(a)(10), Aug. 23, 2019, 133 Stat. 1086.)
 
 **Editorial Notes**
 
@@ -5313,11 +5313,11 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not app
 
 Section effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as an Effective Date of 1984 Amendment note under section 101 of this title.
 
-### § 558. Defenses of the estate
+### § 558. Defenses of the estate
 
 The estate shall have the benefit of any defense available to the debtor as against any entity other than the estate, including statutes of limitation, statutes of frauds, usury, and other personal defenses. A waiver of any such defense by the debtor after the commencement of the case does not bind the estate.
 
-(Added Pub. L. 98–353, title III, § 470(a), July 10, 1984, 98 Stat. 380.)
+(Added Pub. L. 98–353, title III, § 470(a), July 10, 1984, 98 Stat. 380.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5325,27 +5325,27 @@ The estate shall have the benefit of any defense available to the debtor as agai
 
 Section effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as an Effective Date of 1984 Amendment note under section 101 of this title.
 
-### § 559. Contractual right to liquidate, terminate, or accelerate a repurchase agreement
+### § 559. Contractual right to liquidate, terminate, or accelerate a repurchase agreement
 
 The exercise of a contractual right of a repo participant or financial participant to cause the liquidation, termination, or acceleration of a repurchase agreement because of a condition of the kind specified in section 365(e)(1) of this title shall not be stayed, avoided, or otherwise limited by operation of any provision of this title or by order of a court or administrative agency in any proceeding under this title, unless, where the debtor is a stockbroker or securities clearing agency, such order is authorized under the provisions of the Securities Investor Protection Act of 1970 or any statute administered by the Securities and Exchange Commission. In the event that a repo participant or financial participant liquidates one or more repurchase agreements with a debtor and under the terms of one or more such agreements has agreed to deliver assets subject to repurchase agreements to the debtor, any excess of the market prices received on liquidation of such assets (or if any such assets are not disposed of on the date of liquidation of such repurchase agreements, at the prices available at the time of liquidation of such repurchase agreements from a generally recognized source or the most recent closing bid quotation from such a source) over the sum of the stated repurchase prices and all expenses in connection with the liquidation of such repurchase agreements shall be deemed property of the estate, subject to the available rights of setoff. As used in this section, the term “contractual right” includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof and a right, whether or not evidenced in writing, arising under common law, under law merchant or by reason of normal business practice.
 
-(Added Pub. L. 98–353, title III, § 396(a), July 10, 1984, 98 Stat. 366; amended Pub. L. 103–394, title V, § 501(d)(21), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 109–8, title IX, § 907(i), (*o*)(9), Apr. 20, 2005, 119 Stat. 178, 182.)
+(Added Pub. L. 98–353, title III, § 396(a), July 10, 1984, 98 Stat. 366; amended Pub. L. 103–394, title V, § 501(d)(21), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 109–8, title IX, § 907(i), (*o*)(9), Apr. 20, 2005, 119 Stat. 178, 182.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
-The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in text, is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 **Amendments**
 
-2005—Pub. L. 109–8, § 907(*o*)(9), inserted “or financial participant” after “repo participant” in two places.
+2005—Pub. L. 109–8, § 907(*o*)(9), inserted “or financial participant” after “repo participant” in two places.
 
-Pub. L. 109–8, § 907(i), substituted “Contractual right to liquidate, terminate, or accelerate a repurchase agreement” for “Contractual right to liquidate a repurchase agreement” in section catchline, “liquidation, termination, or acceleration” for “liquidation” in first sentence, and “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof and a right,” for “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw, applicable to each party to the repurchase agreement, of a national securities exchange, a national securities association, or a securities clearing agency, and a right,” in third sentence.
+Pub. L. 109–8, § 907(i), substituted “Contractual right to liquidate, terminate, or accelerate a repurchase agreement” for “Contractual right to liquidate a repurchase agreement” in section catchline, “liquidation, termination, or acceleration” for “liquidation” in first sentence, and “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof and a right,” for “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw, applicable to each party to the repurchase agreement, of a national securities exchange, a national securities association, or a securities clearing agency, and a right,” in third sentence.
 
 1994—Pub. L. 103–394 struck out “(15 U.S.C. 78aaa et seq.)” after “Act of 1970”.
 
@@ -5363,25 +5363,25 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Section effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as an Effective Date of 1984 Amendment note under section 101 of this title.
 
-### § 560. Contractual right to liquidate, terminate, or accelerate a swap agreement
+### § 560. Contractual right to liquidate, terminate, or accelerate a swap agreement
 
 The exercise of any contractual right of any swap participant or financial participant to cause the liquidation, termination, or acceleration of one or more swap agreements because of a condition of the kind specified in section 365(e)(1) of this title or to offset or net out any termination values or payment amounts arising under or in connection with the termination, liquidation, or acceleration of one or more swap agreements shall not be stayed, avoided, or otherwise limited by operation of any provision of this title or by order of a court or administrative agency in any proceeding under this title. As used in this section, the term “contractual right” includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof and a right, whether or not evidenced in writing, arising under common law, under law merchant, or by reason of normal business practice.
 
-(Added Pub. L. 101–311, title I, § 106(a), June 25, 1990, 104 Stat. 268; amended Pub. L. 109–8, title IX, § 907(j), (*o*)(10), Apr. 20, 2005, 119 Stat. 178, 182.)
+(Added Pub. L. 101–311, title I, § 106(a), June 25, 1990, 104 Stat. 268; amended Pub. L. 109–8, title IX, § 907(j), (*o*)(10), Apr. 20, 2005, 119 Stat. 178, 182.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in text, is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 **Amendments**
 
-2005—Pub. L. 109–8, § 907(*o*)(10), inserted “or financial participant” after “swap participant” in first sentence.
+2005—Pub. L. 109–8, § 907(*o*)(10), inserted “or financial participant” after “swap participant” in first sentence.
 
-Pub. L. 109–8, § 907(j)(1), in section catchline, substituted “Contractual right to liquidate, terminate, or accelerate a swap agreement” for “Contractual right to terminate a swap agreement”, in first sentence, substituted “liquidation, termination, or acceleration of one or more swap agreements” for “termination of a swap agreement” and “in connection with the termination, liquidation, or acceleration of one or more swap agreements” for “in connection with any swap agreement”, and in second sentence, substituted “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof and a right,” for “As used in this section, the term ‘contractual right’ includes a right,”.
+Pub. L. 109–8, § 907(j)(1), in section catchline, substituted “Contractual right to liquidate, terminate, or accelerate a swap agreement” for “Contractual right to terminate a swap agreement”, in first sentence, substituted “liquidation, termination, or acceleration of one or more swap agreements” for “termination of a swap agreement” and “in connection with the termination, liquidation, or acceleration of one or more swap agreements” for “in connection with any swap agreement”, and in second sentence, substituted “As used in this section, the term ‘contractual right’ includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof and a right,” for “As used in this section, the term ‘contractual right’ includes a right,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5389,7 +5389,7 @@ Pub. L. 109–8, § 907(j)(1), in section catchline, substituted “Contractua
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
-### § 561. Contractual right to terminate, liquidate, accelerate, or offset under a master netting agreement and across contracts; proceedings under chapter 15
+### § 561. Contractual right to terminate, liquidate, accelerate, or offset under a master netting agreement and across contracts; proceedings under chapter 15
 
 **(a)** Subject to subsection (b), the exercise of any contractual right, because of a condition of the kind specified in section 365(e)(1), to cause the termination, liquidation, or acceleration of or to offset or net termination values, payment amounts, or other transfer obligations arising under or in connection with one or more (or the termination, liquidation, or acceleration of one or more)—
 
@@ -5427,13 +5427,13 @@ shall not be stayed, avoided, or otherwise limited by operation of any provision
 
 **(d)** Any provisions of this title relating to securities contracts, commodity contracts, forward contracts, repurchase agreements, swap agreements, or master netting agreements shall apply in a case under chapter 15, so that enforcement of contractual provisions of such contracts and agreements in accordance with their terms will not be stayed or otherwise limited by operation of any provision of this title or by order of a court in any case under this title, and to limit avoidance powers to the same extent as in a proceeding under chapter 7 or 11 of this title (such enforcement not to be limited based on the presence or absence of assets of the debtor in the United States).
 
-(Added Pub. L. 109–8, title IX, § 907(k)(1), Apr. 20, 2005, 119 Stat. 179.)
+(Added Pub. L. 109–8, title IX, § 907(k)(1), Apr. 20, 2005, 119 Stat. 179.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Commodity Exchange Act, referred to in subsecs. (b)(2) and (c), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. Section 5c(c) of the Act is classified to section 7a–2(c) of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsecs. (b)(2) and (c), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. Section 5c(c) of the Act is classified to section 7a–2(c) of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (c), is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
@@ -5443,7 +5443,7 @@ The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to i
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 562. Timing of damage measurement in connection with swap agreements, securities contracts, forward contracts, commodity contracts, repurchase agreements, and master netting agreements
+### § 562. Timing of damage measurement in connection with swap agreements, securities contracts, forward contracts, commodity contracts, repurchase agreements, and master netting agreements
 
 **(a)** If the trustee rejects a swap agreement, securities contract (as defined in section 741), forward contract, commodity contract (as defined in section 761), repurchase agreement, or master netting agreement pursuant to section 365(a), or if a forward contract merchant, stockbroker, financial institution, securities clearing agency, repo participant, financial participant, master netting agreement participant, or swap participant liquidates, terminates, or accelerates such contract or agreement, damages shall be measured as of the earlier of—
 
@@ -5461,7 +5461,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 has the burden of proving that there were no commercially reasonable determinants of value as of such date or dates.
 
-(Added Pub. L. 109–8, title IX, § 910(a)(1), Apr. 20, 2005, 119 Stat. 184.)
+(Added Pub. L. 109–8, title IX, § 910(a)(1), Apr. 20, 2005, 119 Stat. 184.)
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## Subchapter A—Definitions of General Applicability
 
-### § 9701. Definitions of general applicability
+### § 9701. Definitions of general applicability
 
 **(a) Plans and funds** For purposes of this chapter—
 
@@ -139,7 +139,7 @@ For purposes of this paragraph, the term “eligible seller” means an assigned
 
 For purposes of this chapter, the term “enactment date” means the date of the enactment of this chapter.
 
-(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3037; amended Pub. L. 109–432, div. C, title II, § 211(d), Dec. 20, 2006, 120 Stat. 3023; Pub. L. 115–141, div. U, title IV, § 401(a)(343), Mar. 23, 2018, 132 Stat. 1200.)
+(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3037; amended Pub. L. 109–432, div. C, title II, § 211(d), Dec. 20, 2006, 120 Stat. 3023; Pub. L. 115–141, div. U, title IV, § 401(a)(343), Mar. 23, 2018, 132 Stat. 1200.)
 
 **Editorial Notes**
 
@@ -157,11 +157,11 @@ The date of the enactment of this chapter, referred to in subsec. (d), is the da
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–432, div. C, title II, § 211(e), Dec. 20, 2006, 120 Stat. 3023, provided that: “The amendments made by this section [amending this section and sections 9704, 9711, and 9712 of this title] shall take effect on the date of the enactment of this Act [Dec. 20, 2006], except that the amendment made by subsection (d) [amending this section] shall apply to transactions after the date of the enactment of this Act.”
+Pub. L. 109–432, div. C, title II, § 211(e), Dec. 20, 2006, 120 Stat. 3023, provided that: “The amendments made by this section [amending this section and sections 9704, 9711, and 9712 of this title] shall take effect on the date of the enactment of this Act [Dec. 20, 2006], except that the amendment made by subsection (d) [amending this section] shall apply to transactions after the date of the enactment of this Act.”
 
 **Findings and Declaration of Policy**
 
-Pub. L. 102–486, title XIX, § 19142, Oct. 24, 1992, 106 Stat. 3037, provided that:
+Pub. L. 102–486, title XIX, § 19142, Oct. 24, 1992, 106 Stat. 3037, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -169,7 +169,7 @@ Pub. L. 102–486, title XIX, § 19142, Oct. 24, 1992, 106 Stat. 3037, provide
 
 > **“(2)** in order to secure the stability of interstate commerce, it is necessary to modify the current private health care benefit plan structure for retirees in the coal industry to identify persons most responsible for plan liabilities in order to stabilize plan funding and allow for the provision of health care benefits to such retirees.
 
-> **“(b) Statement of Policy.—** It is the policy of this subtitle [subtitle C (§§ 19141–19143) of title XIX of Pub. L. 102–486, enacting this subtitle, amending sections 1231 and 1232 of Title 30, Mineral Lands and Mining, and enacting provisions set out as a note under section 1 of this title]—
+> **“(b) Statement of Policy.—** It is the policy of this subtitle [subtitle C (§§ 19141–19143) of title XIX of Pub. L. 102–486, enacting this subtitle, amending sections 1231 and 1232 of Title 30, Mineral Lands and Mining, and enacting provisions set out as a note under section 1 of this title]—
 
 > **“(1)** to remedy problems with the provision and funding of health care benefits with respect to the beneficiaries of multiemployer benefit plans that provide health care benefits to retirees in the coal industry;
 
@@ -181,7 +181,7 @@ Pub. L. 102–486, title XIX, § 19142, Oct. 24, 1992, 106 Stat. 3037, provide
 
 ### PART I—ESTABLISHMENT AND BENEFITS
 
-#### § 9702. Establishment of the United Mine Workers of America Combined Benefit Fund
+#### § 9702. Establishment of the United Mine Workers of America Combined Benefit Fund
 
 **(a) Establishment**
 
@@ -227,7 +227,7 @@ If the BCOA ceases to exist, any trustee or successor under paragraph (1)(A) sha
 
 The first plan year of the Combined Fund shall begin February 1, 1993, and end September 30, 1993. Each succeeding plan year shall begin on October 1 of each calendar year.
 
-(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3040; amended Pub. L. 109–432, div. C, title II, § 213(a), Dec. 20, 2006, 120 Stat. 3027.)
+(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3040; amended Pub. L. 109–432, div. C, title II, § 213(a), Dec. 20, 2006, 120 Stat. 3027.)
 
 **Editorial Notes**
 
@@ -235,7 +235,7 @@ The first plan year of the Combined Fund shall begin February 1, 1993, and end S
 
 2006—Subsec. (b). Pub. L. 109–432 reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text contained provisions which related to: in par. (1), appointment of one trustee by the BCOA, one by the three employers having the greatest number of eligible beneficiaries under section 9706, two by the United Mine Workers of America, and three by the persons otherwise appointed; in par. (2), successor trustees and removal of trustees; and in par. (3), special rules relating to designation of trustees or successor trustees if the BCOA should cease to exist and designation of the initial trustee.
 
-#### § 9703. Plan benefits
+#### § 9703. Plan benefits
 
 **(a) In general** Each eligible beneficiary of the Combined Fund shall receive—
 
@@ -307,17 +307,17 @@ The Combined Fund shall not enroll any individual who is not receiving benefits 
 
 **(2)** on such date was eligible to receive, and receiving, benefits in either such plan by reason of a relationship to such retiree.
 
-(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3041.)
+(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3041.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 ### PART II—FINANCING
 
-#### § 9704. Liability of assigned operators
+#### § 9704. Liability of assigned operators
 
 **(a) Annual premiums** Each assigned operator shall pay to the Combined Fund for each plan year beginning on or after February 1, 1993, an annual premium equal to the sum of the following three premiums—
 
@@ -427,9 +427,9 @@ Any premium required by this section shall be deductible without regard to any l
 
 **(h) Information**
 
-The trustees of the Combined Fund shall, not later than 60 days after the enactment date, furnish to the Commissioner of Social Security information as to the benefits and covered beneficiaries under the fund, and such other information as the Secretary 1
+The trustees of the Combined Fund shall, not later than 60 days after the enactment date, furnish to the Commissioner of Social Security information as to the benefits and covered beneficiaries under the fund, and such other information as the Secretary 1
 
-<sup>1</sup>  So in original. Probably should be “Commissioner”.
+<sup>1</sup> So in original. Probably should be “Commissioner”.
 
 may require to compute any premium under this section.
 
@@ -543,27 +543,27 @@ For purposes of this subsection, the term “controlled group of corporations”
 
 Upon termination of the obligations for the premium liability of any assigned operator or related person for which such account is maintained, all funds remaining in such account (and earnings thereon) shall be refunded to such person as may be designated by the common parent described in paragraph (1)(B).
 
-(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3042; amended Pub. L. 103–296, title I, § 108(h)(9)(A), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 109–432, div. C, title II, §§ 211(a), 212(a)(2), Dec. 20, 2006, 120 Stat. 3020, 3024; Pub. L. 115–141, div. U, title IV, § 401(a)(344), Mar. 23, 2018, 132 Stat. 1200.)
+(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3042; amended Pub. L. 103–296, title I, § 108(h)(9)(A), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 109–432, div. C, title II, §§ 211(a), 212(a)(2), Dec. 20, 2006, 120 Stat. 3020, 3024; Pub. L. 115–141, div. U, title IV, § 401(a)(344), Mar. 23, 2018, 132 Stat. 1200.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
 2018—Subsec. (d)(2)(B). Pub. L. 115–141 substituted “1232),” for “1232)),”.
 
-2006—Subsec. (d). Pub. L. 109–432, § 212(a)(2)(A), reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The unassigned beneficiaries premium for any plan year for any assigned operator shall be equal to the applicable percentage of the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries who are not assigned under section 9706 to any person for such plan year.”
+2006—Subsec. (d). Pub. L. 109–432, § 212(a)(2)(A), reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The unassigned beneficiaries premium for any plan year for any assigned operator shall be equal to the applicable percentage of the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries who are not assigned under section 9706 to any person for such plan year.”
 
-Subsec. (e)(1). Pub. L. 109–432, § 212(a)(2)(B)(i), inserted “and amounts transferred under section 9705(b)” after “premiums received”.
+Subsec. (e)(1). Pub. L. 109–432, § 212(a)(2)(B)(i), inserted “and amounts transferred under section 9705(b)” after “premiums received”.
 
-Subsec. (e)(3)(A). Pub. L. 109–432, § 212(a)(2)(B)(ii), inserted at end “Amounts credited to an account from amounts transferred under section 9705(b) shall not be taken into account in determining whether there is a surplus in the account for purposes of this paragraph.”
+Subsec. (e)(3)(A). Pub. L. 109–432, § 212(a)(2)(B)(ii), inserted at end “Amounts credited to an account from amounts transferred under section 9705(b) shall not be taken into account in determining whether there is a surplus in the account for purposes of this paragraph.”
 
-Subsec. (f)(2)(C). Pub. L. 109–432, § 212(a)(2)(C), added subpar. (C).
+Subsec. (f)(2)(C). Pub. L. 109–432, § 212(a)(2)(C), added subpar. (C).
 
-Subsec. (j). Pub. L. 109–432, § 211(a), added subsec. (j).
+Subsec. (j). Pub. L. 109–432, § 211(a), added subsec. (j).
 
 1994—Subsecs. (b)(2), (h). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
@@ -571,13 +571,13 @@ Subsec. (j). Pub. L. 109–432, § 211(a), added subsec. (j).
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–432, div. C, title II, § 212(a)(4), Dec. 20, 2006, 120 Stat. 3025, provided that: “The amendments made by this subsection [amending this section and sections 9705 and 9706 of this title] shall apply to plan years of the Combined Fund beginning after September 30, 2006.”
+Pub. L. 109–432, div. C, title II, § 212(a)(4), Dec. 20, 2006, 120 Stat. 3025, provided that: “The amendments made by this subsection [amending this section and sections 9705 and 9706 of this title] shall apply to plan years of the Combined Fund beginning after September 30, 2006.”
 
 **Effective Date of 1994 Amendment**
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
-#### § 9705. Transfers
+#### § 9705. Transfers
 
 **(a) Transfer of assets from 1950 UMWA Pension Plan**
 
@@ -627,21 +627,21 @@ The Combined Fund shall include any amount transferred to the Fund under subsect
 
 Any amount transferred under paragraph (1) for any fiscal year shall be used to pay benefits and administrative costs of beneficiaries of the Combined Fund or for such other purposes as are specifically provided in the Act described in paragraph (1).
 
-(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3046; amended Pub. L. 109–432, div. C, title II, § 212(a)(1), Dec. 20, 2006, 120 Stat. 3023; Pub. L. 115–141, div. U, title IV, § 401(a)(345), (346), Mar. 23, 2018, 132 Stat. 1200, 1201.)
+(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3046; amended Pub. L. 109–432, div. C, title II, § 212(a)(1), Dec. 20, 2006, 120 Stat. 3023; Pub. L. 115–141, div. U, title IV, § 401(a)(345), (346), Mar. 23, 2018, 132 Stat. 1200, 1201.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (b)(1). Pub. L. 115–141, § 401(a)(345), substituted “1232” for “1232(h)”.
+2018—Subsec. (b)(1). Pub. L. 115–141, § 401(a)(345), substituted “1232” for “1232(h)”.
 
-Subsec. (b)(2). Pub. L. 115–141, § 401(a)(346), substituted “Act” for “Acts”.
+Subsec. (b)(2). Pub. L. 115–141, § 401(a)(346), substituted “Act” for “Acts”.
 
-2006—Subsec. (b). Pub. L. 109–432, § 212(a)(1)(C), struck out “from abandoned mine reclamation fund” after “Transfers” in heading.
+2006—Subsec. (b). Pub. L. 109–432, § 212(a)(1)(C), struck out “from abandoned mine reclamation fund” after “Transfers” in heading.
 
-Subsec. (b)(1). Pub. L. 109–432, § 212(a)(1)(A), substituted “subsections (h) and (i) of section 402” for “section 402(h)”.
+Subsec. (b)(1). Pub. L. 109–432, § 212(a)(1)(A), substituted “subsections (h) and (i) of section 402” for “section 402(h)”.
 
-Subsec. (b)(2). Pub. L. 109–432, § 212(a)(1)(B), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “Any amount transferred under paragraph (1) for any fiscal year shall be used to proportionately reduce the unassigned beneficiary premium under section 9704(a)(3) of each assigned operator for the plan year in which transferred.”
+Subsec. (b)(2). Pub. L. 109–432, § 212(a)(1)(B), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “Any amount transferred under paragraph (1) for any fiscal year shall be used to proportionately reduce the unassigned beneficiary premium under section 9704(a)(3) of each assigned operator for the plan year in which transferred.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -649,7 +649,7 @@ Subsec. (b)(2). Pub. L. 109–432, § 212(a)(1)(B), reenacted heading without 
 
 Amendment by Pub. L. 109–432 applicable to plan years of the Combined Fund beginning after Sept. 30, 2006, see section 212(a)(4) of Pub. L. 109–432, set out as a note under section 9704 of this title.
 
-#### § 9706. Assignment of eligible beneficiaries
+#### § 9706. Assignment of eligible beneficiaries
 
 **(a) In general** For purposes of this chapter, the Commissioner of Social Security shall, before October 1, 1993, assign each coal industry retiree who is an eligible beneficiary to a signatory operator which (or any related person with respect to which) remains in business in the following order:
 
@@ -779,7 +779,7 @@ This subsection shall not be construed to prohibit the reassignment under subsec
 
 **(C)** For the fiscal year beginning on October 1, 2009, 15 percent.
 
-(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3047; amended Pub. L. 103–296, title I, § 108(h)(9)(B), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 109–432, div. C, title II, § 212(a)(3), Dec. 20, 2006, 120 Stat. 3025.)
+(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3047; amended Pub. L. 103–296, title I, § 108(h)(9)(B), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 109–432, div. C, title II, § 212(a)(3), Dec. 20, 2006, 120 Stat. 3025.)
 
 **Editorial Notes**
 
@@ -801,7 +801,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 ### PART III—ENFORCEMENT
 
-#### § 9707. Failure to pay premium
+#### § 9707. Failure to pay premium
 
 **(a) Failures to pay**
 
@@ -847,7 +847,7 @@ The person failing to meet the requirements of section 9704 shall be liable for 
 
 For purposes of this title, the penalty imposed by this section shall be treated in the same manner as the tax imposed by section 4980B.
 
-(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3050; amended Pub. L. 104–188, title I, § 1704(t)(65), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 109–432, div. C, title II, § 213(b)(1), Dec. 20, 2006, 120 Stat. 3027.)
+(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3050; amended Pub. L. 104–188, title I, § 1704(t)(65), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 109–432, div. C, title II, § 213(b)(1), Dec. 20, 2006, 120 Stat. 3027.)
 
 **Editorial Notes**
 
@@ -863,17 +863,17 @@ Section 402 of the Surface Mining Control and Reclamation Act of 1977, referred 
 
 ### PART IV—OTHER PROVISIONS
 
-#### § 9708. Effect on pending claims or obligations
+#### § 9708. Effect on pending claims or obligations
 
 All liability for contributions to the Combined Fund that arises on and after February 1, 1993, shall be determined exclusively under this chapter, including all liability for contributions to the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan for coal production on and after February 1, 1993. However, nothing in this chapter is intended to have any effect on any claims or obligations arising in connection with the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan as of February 1, 1993, including claims or obligations based on the “evergreen” clause found in the language of the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan. This chapter shall not be construed to affect any rights of subrogation of any 1988 agreement operator with respect to contributions due to the 1950 UMWA Benefit Plan or the 1974 UMWA Benefit Plan as of February 1, 1993.
 
-(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3051.)
+(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3051.)
 
 ## Subchapter C—Health Benefits of Certain Miners
 
 ### PART I—INDIVIDUAL EMPLOYER PLANS
 
-#### § 9711. Continued obligations of individual employer plans
+#### § 9711. Continued obligations of individual employer plans
 
 **(a) Coverage of current recipients**
 
@@ -949,7 +949,7 @@ The term “last signatory operator” shall include a successor in interest of 
 
 If a person becomes a successor of a last signatory operator after the enactment date, the last signatory operator may transfer any liability of such operator under this chapter with respect to an eligible beneficiary to such successor, and such successor shall be treated as the last signatory operator with respect to such eligible beneficiary for purposes of this chapter. Notwithstanding the preceding sentence, the last signatory operator transferring such assignment (and any related person) shall remain the guarantor of the benefits provided to the eligible beneficiary under this chapter. A last signatory operator shall notify the trustees of the 1992 UMWA Benefit Plan of any transfer described in this paragraph.
 
-(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3051; amended Pub. L. 109–432, div. C, title II, § 211(b), Dec. 20, 2006, 120 Stat. 3022; Pub. L. 115–141, div. U, title IV, § 401(a)(347), Mar. 23, 2018, 132 Stat. 1201.)
+(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3051; amended Pub. L. 109–432, div. C, title II, § 211(b), Dec. 20, 2006, 120 Stat. 3022; Pub. L. 115–141, div. U, title IV, § 401(a)(347), Mar. 23, 2018, 132 Stat. 1201.)
 
 **Editorial Notes**
 
@@ -961,7 +961,7 @@ If a person becomes a successor of a last signatory operator after the enactment
 
 ### PART II—1992 UMWA BENEFIT PLAN
 
-#### § 9712. Establishment and coverage of 1992 UMWA Benefit Plan
+#### § 9712. Establishment and coverage of 1992 UMWA Benefit Plan
 
 **(a) Creation of plan**
 
@@ -1081,37 +1081,37 @@ Any premium required by this section shall be deductible without regard to any l
 
 For purposes of this section, the term “1988 last signatory operator” means a last signatory operator which is a 1988 agreement operator.
 
-(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3053; amended Pub. L. 109–432, div. C, title II, §§ 211(c), 212(b)(1)–(2)(B), Dec. 20, 2006, 120 Stat. 3023, 3025, 3026; Pub. L. 115–141, div. U, title IV, § 401(a)(348), Mar. 23, 2018, 132 Stat. 1201.)
+(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3053; amended Pub. L. 109–432, div. C, title II, §§ 211(c), 212(b)(1)–(2)(B), Dec. 20, 2006, 120 Stat. 3023, 3025, 3026; Pub. L. 115–141, div. U, title IV, § 401(a)(348), Mar. 23, 2018, 132 Stat. 1201.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (c)(3)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
 2018—Subsec. (a)(4)(A). Pub. L. 115–141 inserted “section 402 of” after “subsections (h) and (i) of”.
 
-2006—Subsec. (a)(3), (4). Pub. L. 109–432, § 212(b)(1), added pars. (3) and (4).
+2006—Subsec. (a)(3), (4). Pub. L. 109–432, § 212(b)(1), added pars. (3) and (4).
 
-Subsec. (d)(1). Pub. L. 109–432, § 212(b)(2)(A), amended text of par. (1) generally. Prior to amendment, par. (1) provided that the contribution requirements of all 1988 last signatory operators include the payment of an annual prefunding premium for all eligible and potentially eligible beneficiaries, payment of a monthly per beneficiary premium, and provision of security.
+Subsec. (d)(1). Pub. L. 109–432, § 212(b)(2)(A), amended text of par. (1) generally. Prior to amendment, par. (1) provided that the contribution requirements of all 1988 last signatory operators include the payment of an annual prefunding premium for all eligible and potentially eligible beneficiaries, payment of a monthly per beneficiary premium, and provision of security.
 
-Subsec. (d)(2)(B). Pub. L. 109–432, § 212(b)(2)(B)(i), substituted “backstop” for “prefunding”.
+Subsec. (d)(2)(B). Pub. L. 109–432, § 212(b)(2)(B)(i), substituted “backstop” for “prefunding”.
 
-Subsec. (d)(3). Pub. L. 109–432, § 212(b)(2)(B)(ii), substituted “paragraph (1)(A)” for “paragraph (1)(B)”.
+Subsec. (d)(3). Pub. L. 109–432, § 212(b)(2)(B)(ii), substituted “paragraph (1)(A)” for “paragraph (1)(B)”.
 
-Subsec. (d)(4). Pub. L. 109–432, § 211(c), inserted at end “The provisions of section 9711(c)(2) shall apply to any last signatory operator described in such section (without regard to whether security is provided under such section, a payment is made under section 9704(j), or both) and if security meeting the requirements of section 9711(c)(3) is provided, the common parent described in section 9711(c)(2)(B) shall be exclusively responsible for any liability for premiums under this section which, but for this sentence, would be required to be paid by the last signatory operator or any related person.”
+Subsec. (d)(4). Pub. L. 109–432, § 211(c), inserted at end “The provisions of section 9711(c)(2) shall apply to any last signatory operator described in such section (without regard to whether security is provided under such section, a payment is made under section 9704(j), or both) and if security meeting the requirements of section 9711(c)(3) is provided, the common parent described in section 9711(c)(2)(B) shall be exclusively responsible for any liability for premiums under this section which, but for this sentence, would be required to be paid by the last signatory operator or any related person.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–432, div. C, title II, § 212(b)(2)(C), Dec. 20, 2006, 120 Stat. 3026, provided that: “The amendments made by this paragraph [amending this section] shall apply to fiscal years beginning on or after October 1, 2010.”
+Pub. L. 109–432, div. C, title II, § 212(b)(2)(C), Dec. 20, 2006, 120 Stat. 3026, provided that: “The amendments made by this paragraph [amending this section] shall apply to fiscal years beginning on or after October 1, 2010.”
 
 ## Subchapter D—Other Provisions
 
-### § 9721. Civil enforcement
+### § 9721. Civil enforcement
 
 The provisions of section 4301 of the Employee Retirement Income Security Act of 1974 shall apply, in the same manner as any claim arising out of an obligation to pay withdrawal liability under subtitle E of title IV of such Act, to any claim—
 
@@ -1119,20 +1119,20 @@ The provisions of section 4301 of the Employee Retirement Income Security Act of
 
 **(2)** arising out of an obligation to pay any amount required by section 402(h)(5)(B)(ii) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(h)(5)(B)(ii)).
 
-(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3055; amended Pub. L. 109–432, div. C, title II, § 213(b)(2), Dec. 20, 2006, 120 Stat. 3027.)
+(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3055; amended Pub. L. 109–432, div. C, title II, § 213(b)(2), Dec. 20, 2006, 120 Stat. 3027.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Subtitle E of title IV of the Act is classified generally to subtitle E (§ 1381 et seq.) of subchapter III of chapter 18 of Title 29, Labor. Section 4301 of the Act is classified to section 1451 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Subtitle E of title IV of the Act is classified generally to subtitle E (§ 1381 et seq.) of subchapter III of chapter 18 of Title 29, Labor. Section 4301 of the Act is classified to section 1451 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 **Amendments**
 
 2006—Pub. L. 109–432 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The provisions of section 4301 of the Employee Retirement Income Security Act of 1974 shall apply to any claim arising out of an obligation to pay any amount required to be paid by this chapter in the same manner as any claim arising out of an obligation to pay withdrawal liability under subtitle E of title IV of such Act. For purposes of the preceding sentence, a signatory operator and related persons shall be treated in the same manner as employers.”
 
-### § 9722. Sham transactions
+### § 9722. Sham transactions
 
 If a principal purpose of any transaction is to evade or avoid liability under this chapter, this chapter shall be applied (and such liability shall be imposed) without regard to such transaction.
 
-(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3056.)
+(Added Pub. L. 102–486, title XIX, § 19143(a), Oct. 24, 1992, 106 Stat. 3056.)

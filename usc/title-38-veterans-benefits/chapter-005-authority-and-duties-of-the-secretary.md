@@ -19,35 +19,35 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–263, div. E, title LI, § 5102(a), Dec. 23, 2022, 136 Stat. 3205, added item 548.
+2022—Pub. L. 117–263, div. E, title LI, § 5102(a), Dec. 23, 2022, 136 Stat. 3205, added item 548.
 
-Pub. L. 117–137, § 1(b), June 7, 2022, 136 Stat. 1255, added item 531 and struck out former item 531 “Requirement relating to naming of Department property”.
+Pub. L. 117–137, § 1(b), June 7, 2022, 136 Stat. 1255, added item 531 and struck out former item 531 “Requirement relating to naming of Department property”.
 
-2021—Pub. L. 116–315, title V, § 5303(b), title VII, § 7002(a)(2), Jan. 5, 2021, 134 Stat. 5041, 5057, added items 533 and 547.
+2021—Pub. L. 116–315, title V, § 5303(b), title VII, § 7002(a)(2), Jan. 5, 2021, 134 Stat. 5041, 5057, added items 533 and 547.
 
-2015—Pub. L. 114–58, title VI, § 601(2), Sept. 30, 2015, 129 Stat. 538, which directed amendment of this analysis by striking item “521A” and adding item 521A, was executed by striking item 512A “Adaptive sports programs for disabled veterans and members of the Armed Forces” and adding item 521A, to reflect the probable intent of Congress.
+2015—Pub. L. 114–58, title VI, § 601(2), Sept. 30, 2015, 129 Stat. 538, which directed amendment of this analysis by striking item “521A” and adding item 521A, was executed by striking item 512A “Adaptive sports programs for disabled veterans and members of the Armed Forces” and adding item 521A, to reflect the probable intent of Congress.
 
-2013—Pub. L. 113–59, § 5(h)(2), Dec. 20, 2013, 127 Stat. 662, which directed amendment of this analysis by striking item 521A and adding item “512A”, was executed by striking item 521A “Assistance for United States Olympic Committee” and adding item 512A in the position for item 521A, to reflect the probable intent of Congress.
+2013—Pub. L. 113–59, § 5(h)(2), Dec. 20, 2013, 127 Stat. 662, which directed amendment of this analysis by striking item 521A and adding item “512A”, was executed by striking item 521A “Assistance for United States Olympic Committee” and adding item 512A in the position for item 521A, to reflect the probable intent of Congress.
 
-Pub. L. 113–37, § 2(b)(3), Sept. 30, 2013, 127 Stat. 524, added item 521A and struck out former item 521A “Assistance for United States Paralympics, Inc.”
+Pub. L. 113–37, § 2(b)(3), Sept. 30, 2013, 127 Stat. 524, added item 521A and struck out former item 521A “Assistance for United States Paralympics, Inc.”
 
-2012—Pub. L. 112–154, title VII, §§ 707(b), 709(b)(2), Aug. 6, 2012, 126 Stat. 1207, 1208, added item 517 and substituted “Authority to advertise in national media; VetStar Award Program” for “Authority to advertise in national media” in item 532.
+2012—Pub. L. 112–154, title VII, §§ 707(b), 709(b)(2), Aug. 6, 2012, 126 Stat. 1207, 1208, added item 517 and substituted “Authority to advertise in national media; VetStar Award Program” for “Authority to advertise in national media” in item 532.
 
-2008—Pub. L. 110–389, title II, § 214(b), title VII, § 702(b), title VIII, § 809(b), Oct. 10, 2008, 122 Stat. 4154, 4183, 4190, added items 521A, 532, and 546.
+2008—Pub. L. 110–389, title II, § 214(b), title VII, § 702(b), title VIII, § 809(b), Oct. 10, 2008, 122 Stat. 4154, 4183, 4190, added items 521A, 532, and 546.
 
-1998—Pub. L. 105–368, title IX, § 906(b), title X, § 1001(a)(2), Nov. 11, 1998, 112 Stat. 3362, 3363, added items 530 and 531.
+1998—Pub. L. 105–368, title IX, § 906(b), title X, § 1001(a)(2), Nov. 11, 1998, 112 Stat. 3362, 3363, added items 530 and 531.
 
-1997—Pub. L. 105–114, title I, § 101(a)(2), Nov. 21, 1997, 111 Stat. 2279, added item 516.
+1997—Pub. L. 105–114, title I, § 101(a)(2), Nov. 21, 1997, 111 Stat. 2279, added item 516.
 
-1996—Pub. L. 104–262, title III, § 333(a)(2), Oct. 9, 1996, 110 Stat. 3200, added item 545.
+1996—Pub. L. 104–262, title III, § 333(a)(2), Oct. 9, 1996, 110 Stat. 3200, added item 545.
 
-1994—Pub. L. 103–446, title V, § 510(b), Nov. 2, 1994, 108 Stat. 4670, added item 544.
+1994—Pub. L. 103–446, title V, § 510(b), Nov. 2, 1994, 108 Stat. 4670, added item 544.
 
-1992—Pub. L. 102–405, title I, § 105(b)(2), Oct. 9, 1992, 106 Stat. 1976, added item 543.
+1992—Pub. L. 102–405, title I, § 105(b)(2), Oct. 9, 1992, 106 Stat. 1976, added item 543.
 
 ## SUBCHAPTER I—GENERAL AUTHORITIES
 
-### § 501. Rules and regulations
+### § 501. Rules and regulations
 
 **(a)** The Secretary has authority to prescribe all rules and regulations which are necessary or appropriate to carry out the laws administered by the Department and are consistent with those laws, including—
 
@@ -65,7 +65,7 @@ Pub. L. 113–37, § 2(b)(3), Sept. 30, 2013, 127 Stat. 524, added item 521A a
 
 **(d)** The provisions of section 553 of title 5 shall apply, without regard to subsection (a)(2) of that section, to matters relating to loans, grants, or benefits under a law administered by the Secretary.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 386.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 386.)
 
 **Editorial Notes**
 
@@ -73,13 +73,13 @@ Pub. L. 113–37, § 2(b)(3), Sept. 30, 2013, 127 Stat. 524, added item 521A a
 
 Prior section 501 was renumbered section 1501 of this title.
 
-Provisions similar to those in this section were contained in sections 210(c)(1) and 223(a), (b) of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in sections 210(c)(1) and 223(a), (b) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
-### § 502. Judicial review of rules and regulations
+### § 502. Judicial review of rules and regulations
 
 An action of the Secretary to which section 552(a)(1) or 553 of title 5 (or both) refers is subject to judicial review. Such review shall be in accordance with chapter 7 of title 5 and may be sought only in the United States Court of Appeals for the Federal Circuit. However, if such review is sought in connection with an appeal brought under the provisions of chapter 72 of this title, the provisions of that chapter shall apply rather than the provisions of chapter 7 of title 5.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 386; amended Pub. L. 110–389, title I, § 102, Oct. 10, 2008, 122 Stat. 4148.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 386; amended Pub. L. 110–389, title I, § 102, Oct. 10, 2008, 122 Stat. 4148.)
 
 **Editorial Notes**
 
@@ -87,13 +87,13 @@ An action of the Secretary to which section 552(a)(1) or 553 of title 5 (or both
 
 Prior section 502 was renumbered section 1502 of this title.
 
-Provisions similar to those in this section were contained in section 223(c) of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 223(c) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 **Amendments**
 
 2008—Pub. L. 110–389 struck out “(other than an action relating to the adoption or revision of the schedule of ratings for disabilities adopted under section 1155 of this title)” after “refers”.
 
-### § 503. Administrative error; equitable relief
+### § 503. Administrative error; equitable relief
 
 **(a)** If the Secretary determines that benefits administered by the Department have not been provided by reason of administrative error on the part of the Federal Government or any of its employees, the Secretary may provide such relief on account of such error as the Secretary determines equitable, including the payment of moneys to any person whom the Secretary determines is equitably entitled to such moneys.
 
@@ -101,7 +101,7 @@ Provisions similar to those in this section were contained in section 223(c) of 
 
 **(c)** Not later than April 1 of each year, the Secretary shall submit to Congress a report containing a statement as to the disposition of each case recommended to the Secretary for equitable relief under this section during the preceding calendar year. No report shall be required under this subsection after December 31, 2026.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 386; amended Pub. L. 106–419, title IV, § 403(c)(1), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 109–233, title IV, § 403, June 15, 2006, 120 Stat. 411; Pub. L. 111–275, title VIII, § 808, Oct. 13, 2010, 124 Stat. 2893; Pub. L. 113–175, title IV, § 403, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, § 404, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, § 404, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, § 404, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, § 164, Sept. 29, 2018, 132 Stat. 3171; Pub. L. 116–159, div. E, title IV, § 5402, Oct. 1, 2020, 134 Stat. 751; Pub. L. 117–180, div. E, title II, § 203, Sept. 30, 2022, 136 Stat. 2137; Pub. L. 118–83, div. B, title III, § 335, Sept. 26, 2024, 138 Stat. 1542; Pub. L. 119–37, div. G, title IV, § 7402, Nov. 12, 2025, 139 Stat. 654.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 386; amended Pub. L. 106–419, title IV, § 403(c)(1), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 109–233, title IV, § 403, June 15, 2006, 120 Stat. 411; Pub. L. 111–275, title VIII, § 808, Oct. 13, 2010, 124 Stat. 2893; Pub. L. 113–175, title IV, § 403, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, § 404, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, § 404, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, § 404, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, § 164, Sept. 29, 2018, 132 Stat. 3171; Pub. L. 116–159, div. E, title IV, § 5402, Oct. 1, 2020, 134 Stat. 751; Pub. L. 117–180, div. E, title II, § 203, Sept. 30, 2022, 136 Stat. 2137; Pub. L. 118–83, div. B, title III, § 335, Sept. 26, 2024, 138 Stat. 1542; Pub. L. 119–37, div. G, title IV, § 7402, Nov. 12, 2025, 139 Stat. 654.)
 
 **Editorial Notes**
 
@@ -109,7 +109,7 @@ Provisions similar to those in this section were contained in section 223(c) of 
 
 Prior sections 503 and 504 were renumbered sections 1503 and 1504 of this title, respectively.
 
-Provisions similar to those in this section were contained in section 210(c)(2), (3) of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 210(c)(2), (3) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 **Amendments**
 
@@ -143,11 +143,11 @@ Provisions similar to those in this section were contained in section 210(c)(2),
 
 Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under section 111A of this title.
 
-### § 505. Opinions of Attorney General
+### § 505. Opinions of Attorney General
 
 The Secretary may require the opinion of the Attorney General on any question of law arising in the administration of the Department.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 387.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 387.)
 
 **Editorial Notes**
 
@@ -155,9 +155,9 @@ The Secretary may require the opinion of the Attorney General on any question of
 
 Prior sections 505 to 508 were renumbered sections 1505 to 1508 of this title, respectively.
 
-Provisions similar to those in this section were contained in section 211(b) of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 211(b) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
-### § 510. Authority to reorganize offices
+### § 510. Authority to reorganize offices
 
 **(a)** Except to the extent inconsistent with law, the Secretary may—
 
@@ -201,15 +201,15 @@ Provisions similar to those in this section were contained in section 211(b) of 
 
 **(F)** Estimates of the costs of the reorganization and of the cost impact of the reorganization, together with analyses supporting those estimates.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 387; amended Pub. L. 104–262, title III, § 304, Oct. 9, 1996, 110 Stat. 3194.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 387; amended Pub. L. 104–262, title III, § 304, Oct. 9, 1996, 110 Stat. 3194.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 510, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, provided monthly pension for persons who served in military or naval forces of Confederate States of America, prior to repeal by Pub. L. 94–169, title I, § 101(2)(F), Dec. 23, 1975, 89 Stat. 1014, effective Jan. 1, 1976.
+Prior section 510, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, provided monthly pension for persons who served in military or naval forces of Confederate States of America, prior to repeal by Pub. L. 94–169, title I, § 101(2)(F), Dec. 23, 1975, 89 Stat. 1014, effective Jan. 1, 1976.
 
-Provisions similar to those in this section were contained in section 210(b)(1), (2) of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 210(b)(1), (2) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 **Amendments**
 
@@ -219,7 +219,7 @@ Provisions similar to those in this section were contained in section 210(b)(1),
 
 **Authority of Secretary of Veterans Affairs To Carry Out Specified Administrative Reorganization**
 
-Pub. L. 102–54, § 12, June 13, 1991, 105 Stat. 273, provided that:
+Pub. L. 102–54, § 12, June 13, 1991, 105 Stat. 273, provided that:
 
 > **“(a) Authority for Administrative Reorganization.—** The Secretary of Veterans Affairs may carry out the administrative reorganization described in subsection (b) without regard to section 210(b)(2) of title 38 [38 U.S.C. 510(b)–(f)], United States Code.
 
@@ -243,7 +243,7 @@ Section 15(b) of Pub. L. 100–527 provided that:
 
 > **“(2)** is initiated within 6 months after the effective date of this Act [Mar. 15, 1989].”
 
-### § 511. Decisions of the Secretary; finality
+### § 511. Decisions of the Secretary; finality
 
 **(a)** The Secretary shall decide all questions of law and fact necessary to a decision by the Secretary under a law that affects the provision of benefits by the Secretary to veterans or the dependents or survivors of veterans. Subject to subsection (b), the decision of the Secretary as to any such question shall be final and conclusive and may not be reviewed by any other official or by any court, whether by an action in the nature of mandamus or otherwise.
 
@@ -257,7 +257,7 @@ Section 15(b) of Pub. L. 100–527 provided that:
 
 **(4)** matters covered by chapter 72 of this title.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 388.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 388.)
 
 **Editorial Notes**
 
@@ -265,7 +265,7 @@ Section 15(b) of Pub. L. 100–527 provided that:
 
 Prior section 511 was renumbered section 1511 of this title.
 
-Provisions similar to those in this section were contained in section 211(a) of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 211(a) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 **Court Rules**
 
@@ -273,13 +273,13 @@ Provisions similar to those in this section were contained in section 211(a) of 
 
 Writ of mandamus abolished in United States district courts, but relief available by appropriate action or motion, see rule 81, Title 28, Appendix, Judiciary and Judicial Procedure.
 
-### § 512. Delegation of authority; assignment of functions and duties
+### § 512. Delegation of authority; assignment of functions and duties
 
 **(a)** Except as otherwise provided by law, the Secretary may assign functions and duties, and delegate, or authorize successive redelegation of, authority to act and to render decisions, with respect to all laws administered by the Department, to such officers and employees as the Secretary may find necessary. Within the limitations of such delegations, redelegations, or assignments, all official acts and decisions of such officers and employees shall have the same force and effect as though performed or rendered by the Secretary.
 
 **(b)** There shall be included on the technical and administrative staff of the Secretary such staff officers, experts, inspectors, and assistants (including legal assistants) as the Secretary may prescribe.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 389.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 389.)
 
 **Editorial Notes**
 
@@ -287,21 +287,21 @@ Writ of mandamus abolished in United States district courts, but relief availabl
 
 Prior section 512 was renumbered section 1512 of this title.
 
-Provisions similar to those in this section were contained in section 212 of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 212 of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
-### § 513. Contracts and personal services
+### § 513. Contracts and personal services
 
 The Secretary may, for purposes of all laws administered by the Department, accept uncompensated services, and enter into contracts or agreements with private or public agencies or persons (including contracts for services of translators without regard to any other law), for such necessary services (including personal services) as the Secretary may consider practicable. The Secretary may also enter into contracts or agreements with private concerns or public agencies for the hiring of passenger motor vehicles or aircraft for official travel whenever, in the Secretary’s judgment, such arrangements are in the interest of efficiency or economy.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 389.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 389.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 213 of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 213 of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
-### § 515. Administrative settlement of tort claims
+### § 515. Administrative settlement of tort claims
 
 **(a)**
 
@@ -311,19 +311,19 @@ Provisions similar to those in this section were contained in section 213 of thi
 
 **(b)** The Secretary may pay tort claims, in the manner authorized in the first paragraph of section 2672 of title 28, when such claims arise in foreign countries in connection with Department operations abroad. A claim may not be allowed under this subsection unless it is presented in writing to the Secretary within two years after the claim accrues.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 389.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 389.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 224 and 236 of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in sections 224 and 236 of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Department of Veterans Affairs Requirement To Provide Certain Notice to Persons Filing Claims for Damage, Injury, or Death on Standard Form 95**
 
-Pub. L. 116–315, title VII, § 7010, Jan. 5, 2021, 134 Stat. 5061, provided that:
+Pub. L. 116–315, title VII, § 7010, Jan. 5, 2021, 134 Stat. 5061, provided that:
 
 > “Not later than 90 days after the date on which a person submits to the Secretary of Veterans Affairs a claim for damage, injury, or death on Standard Form 95, or any successor form, the Secretary shall provide to such person notice of each of the following:
 
@@ -333,7 +333,7 @@ Pub. L. 116–315, title VII, § 7010, Jan. 5, 2021, 134 Stat. 5061, provided 
 
 > **“(3)** If the claim involves a contractor that entered into an agreement with the Secretary, the importance of obtaining legal advice as to the statute of limitations regarding the claim in the State in which the claim arose.”
 
-### § 516. Equal employment responsibilities
+### § 516. Equal employment responsibilities
 
 **(a)**
 
@@ -439,7 +439,7 @@ Pub. L. 116–315, title VII, § 7010, Jan. 5, 2021, 134 Stat. 5061, provided 
 
 **(i)** In accordance with subsection (b), not later than one year after the date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, the Secretary shall ensure that each Equal Employment Opportunity program manager of the Department at the facility level reports to the head of the Office of Resolution Management, or such successor office established pursuant to subsection (a), with respect to the equal employment functions of the program manager.
 
-(Added Pub. L. 105–114, title I, § 101(a)(1), Nov. 21, 1997, 111 Stat. 2278; amended Pub. L. 105–368, title IV, § 403(d)(2), Nov. 11, 1998, 112 Stat. 3339; Pub. L. 108–170, title IV, § 405(a), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 117–76, § 7(a), Dec. 21, 2021, 135 Stat. 1520; Pub. L. 117–328, div. U, title IV, §§ 402(a)–(d), 408(a)(1), Dec. 29, 2022, 136 Stat. 5484, 5485, 5495.)
+(Added Pub. L. 105–114, title I, § 101(a)(1), Nov. 21, 1997, 111 Stat. 2278; amended Pub. L. 105–368, title IV, § 403(d)(2), Nov. 11, 1998, 112 Stat. 3339; Pub. L. 108–170, title IV, § 405(a), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 117–76, § 7(a), Dec. 21, 2021, 135 Stat. 1520; Pub. L. 117–328, div. U, title IV, §§ 402(a)–(d), 408(a)(1), Dec. 29, 2022, 136 Stat. 5484, 5485, 5495.)
 
 **Editorial Notes**
 
@@ -449,19 +449,19 @@ The date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole M
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–328, § 402(c), designated existing provisions as par. (1) and added par. (2).
+2022—Subsec. (a). Pub. L. 117–328, § 402(c), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(1). Pub. L. 117–328, § 402(a)(2)(A), inserted “, in accordance with subsection (h)(2),” after “an Assistant Secretary or a Deputy Assistant Secretary”.
+Subsec. (b)(1). Pub. L. 117–328, § 402(a)(2)(A), inserted “, in accordance with subsection (h)(2),” after “an Assistant Secretary or a Deputy Assistant Secretary”.
 
-Subsec. (c). Pub. L. 117–328, § 402(d), designated existing provisions as par. (1) and added par. (2).
+Subsec. (c). Pub. L. 117–328, § 402(d), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (e)(1)(A). Pub. L. 117–328, § 402(a)(2)(B), substituted “the Secretary” for “the Assistant Secretary for Human Resources and Administration”.
+Subsec. (e)(1)(A). Pub. L. 117–328, § 402(a)(2)(B), substituted “the Secretary” for “the Assistant Secretary for Human Resources and Administration”.
 
-Subsec. (g). Pub. L. 117–328, § 408(a)(1)(B), added subsec. (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 117–328, § 408(a)(1)(B), added subsec. (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 117–328, §§ 402(a)(1), 408(a)(1)(A), redesignated subsec. (g) as (h), designated existing provisions as par. (1), and added par. (2).
+Subsec. (h). Pub. L. 117–328, §§ 402(a)(1), 408(a)(1)(A), redesignated subsec. (g) as (h), designated existing provisions as par. (1), and added par. (2).
 
-Subsec. (i). Pub. L. 117–328, § 402(b), added subsec. (i).
+Subsec. (i). Pub. L. 117–328, § 402(b), added subsec. (i).
 
 2021—Subsecs. (g), (h). Pub. L. 117–76 redesignated subsec. (h) as (g) and struck out former subsec. (g). Prior to amendment, text of subsec. (g) read as follows: “The number of employees of the Department whose duties include equal employment opportunity counseling functions as well as other, unrelated functions may not exceed 40 full-time equivalent employees. Any such employee may be assigned equal employment opportunity counseling functions only at Department facilities in remote geographic locations (as determined by the Secretary). The Secretary may waive the limitation in the preceding sentence in specific cases.”
 
@@ -473,11 +473,11 @@ Subsec. (i). Pub. L. 117–328, § 402(b), added subsec. (i).
 
 **Effective Date**
 
-Pub. L. 105–114, title I, § 101(c), Nov. 21, 1997, 111 Stat. 2280, provided that: “Section 516 of title 38, United States Code, as added by subsection (a), shall take effect 90 days after the date of enactment of this Act [Nov. 21, 1997]. Subsection (e) of that section shall take effect with respect to the first quarter of calendar year 1998.”
+Pub. L. 105–114, title I, § 101(c), Nov. 21, 1997, 111 Stat. 2280, provided that: “Section 516 of title 38, United States Code, as added by subsection (a), shall take effect 90 days after the date of enactment of this Act [Nov. 21, 1997]. Subsection (e) of that section shall take effect with respect to the first quarter of calendar year 1998.”
 
 **Harassment and Employment Discrimination Policies and Directives**
 
-Pub. L. 117–328, div. U, title IV, § 402(e), Dec. 29, 2022, 136 Stat. 5485, provided that:
+Pub. L. 117–328, div. U, title IV, § 402(e), Dec. 29, 2022, 136 Stat. 5485, provided that:
 
 > “The Secretary of Veterans Affairs shall—
 
@@ -487,11 +487,11 @@ Pub. L. 117–328, div. U, title IV, § 402(e), Dec. 29, 2022, 136 Stat. 5485,
 
 **Semiannual Reports**
 
-Pub. L. 117–328, div. U, title IV, § 402(f), Dec. 29, 2022, 136 Stat. 5485, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 29, 2022], and semiannually thereafter for one year, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the progress the Secretary has made in carrying out this section [amending this section and enacting provisions set out as a note above] and section 516 of title 38, United States Code, as amended by this section, including with respect to reporting sexual and other harassment and employment discrimination complaints pursuant to subsection (a)(2) of such section 516.”
+Pub. L. 117–328, div. U, title IV, § 402(f), Dec. 29, 2022, 136 Stat. 5485, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 29, 2022], and semiannually thereafter for one year, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the progress the Secretary has made in carrying out this section [amending this section and enacting provisions set out as a note above] and section 516 of title 38, United States Code, as amended by this section, including with respect to reporting sexual and other harassment and employment discrimination complaints pursuant to subsection (a)(2) of such section 516.”
 
 **Annual Reports**
 
-Pub. L. 117–328, div. U, title IV, § 408(c), Dec. 29, 2022, 136 Stat. 5497, provided that:
+Pub. L. 117–328, div. U, title IV, § 408(c), Dec. 29, 2022, 136 Stat. 5497, provided that:
 
 > “Not later than one year after the date of the enactment of this Act [Dec. 29, 2022] and once each year thereafter, the Secretary of Veterans Affairs shall make available to the public on an internet website of the Department an annual report that includes, for the year covered by the report, the following:
 
@@ -511,11 +511,11 @@ Pub. L. 117–328, div. U, title IV, § 408(c), Dec. 29, 2022, 136 Stat. 5497,
 
 **Reports on Implementation and Operation of Equal Employment Opportunity System**
 
-Pub. L. 105–114, title I, § 101(b), Nov. 21, 1997, 111 Stat. 2279, required the Secretary of Veterans Affairs to submit to Congress reports on the implementation and operation of the equal employment opportunity system within the Department of Veterans Affairs setting forth detailed information for each equal employment opportunity field office of the Department, with the first report due not later than Apr. 1, 1998, and subsequent reports due not later than Jan. 1, 1999, and Jan. 1, 2000.
+Pub. L. 105–114, title I, § 101(b), Nov. 21, 1997, 111 Stat. 2279, required the Secretary of Veterans Affairs to submit to Congress reports on the implementation and operation of the equal employment opportunity system within the Department of Veterans Affairs setting forth detailed information for each equal employment opportunity field office of the Department, with the first report due not later than Apr. 1, 1998, and subsequent reports due not later than Jan. 1, 1999, and Jan. 1, 2000.
 
 **Assessment and Review of Employment Discrimination Complaint Resolution System**
 
-Pub. L. 105–114, title I, § 103, Nov. 21, 1997, 111 Stat. 2281, provided that:
+Pub. L. 105–114, title I, § 103, Nov. 21, 1997, 111 Stat. 2281, provided that:
 
 > **“(a) Agreement for Assessment and Review.—**
 
@@ -551,7 +551,7 @@ Pub. L. 105–114, title I, § 103, Nov. 21, 1997, 111 Stat. 2281, provided th
 
 > **“(G)** Any disciplinary measures imposed by the Secretary on employees determined to have violated the equal employment opportunity laws in preventing or deterring violations of such laws by other employees of the Department.”
 
-### § 517. Quarterly reports to Congress on conferences sponsored by the Department
+### § 517. Quarterly reports to Congress on conferences sponsored by the Department
 
 **(a) Quarterly Reports Required.—** Not later than 30 days after the end of each fiscal quarter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on covered conferences.
 
@@ -585,17 +585,17 @@ Pub. L. 105–114, title I, § 103, Nov. 21, 1997, 111 Stat. 2281, provided th
 
 **(2)** estimated to cost the Department at least $20,000.
 
-(Added Pub. L. 112–154, title VII, § 707(a), Aug. 6, 2012, 126 Stat.1206.)
+(Added Pub. L. 112–154, title VII, § 707(a), Aug. 6, 2012, 126 Stat.1206.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 112–154, title VII, § 707(c), Aug. 6, 2012, 126 Stat. 1207, provided that: “Section 517 of title 38, United States Code, as added by subsection (a), shall take effect on October 1, 2012, and shall apply with respect to the first quarter of fiscal year 2013 and each quarter thereafter.”
+Pub. L. 112–154, title VII, § 707(c), Aug. 6, 2012, 126 Stat. 1207, provided that: “Section 517 of title 38, United States Code, as added by subsection (a), shall take effect on October 1, 2012, and shall apply with respect to the first quarter of fiscal year 2013 and each quarter thereafter.”
 
 ## SUBCHAPTER II—SPECIFIED FUNCTIONS
 
-### § 521. Assistance to certain rehabilitation activities
+### § 521. Assistance to certain rehabilitation activities
 
 **(a)** The Secretary may assist any organization named in or approved under section 5902 of this title in providing recreational activities which would further the rehabilitation of disabled veterans. Such assistance may be provided only if—
 
@@ -619,7 +619,7 @@ Pub. L. 112–154, title VII, § 707(c), Aug. 6, 2012, 126 Stat. 1207, provide
 
 **(B)** the advertisement contains a clear statement that no product, project, or commercial line of endeavor referred to in the advertisement is endorsed by the Department of Veterans Affairs.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 390.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 390.)
 
 **Editorial Notes**
 
@@ -627,9 +627,9 @@ Pub. L. 112–154, title VII, § 707(c), Aug. 6, 2012, 126 Stat. 1207, provide
 
 Prior section 521 was renumbered section 1521 of this title.
 
-Provisions similar to those in this section were contained in section 216 of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 216 of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
-### § 521A. Adaptive sports programs for disabled veterans and members of the Armed Forces
+### § 521A. Adaptive sports programs for disabled veterans and members of the Armed Forces
 
 **(a) Adaptive Sports Program.—**
 
@@ -729,21 +729,21 @@ Provisions similar to those in this section were contained in section 216 of thi
 
 **(l) Termination.—** The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2026.
 
-(Added Pub. L. 110–389, title VII, § 702(a), Oct. 10, 2008, 122 Stat. 4181; amended Pub. L. 113–37, § 2(b)(1), (2), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, § 5(a)–(e), (g), (h)(1), Dec. 20, 2013, 127 Stat. 659–662; Pub. L. 114–58, title IV, § 405, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, § 405, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, § 405, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, § 165, Sept. 29, 2018, 132 Stat. 3171; Pub. L. 116–159, div. E, title IV, § 5403, Oct. 1, 2020, 134 Stat. 751; Pub. L. 117–180, div. E, title IV, § 402, Sept. 30, 2022, 136 Stat. 2139.)
+(Added Pub. L. 110–389, title VII, § 702(a), Oct. 10, 2008, 122 Stat. 4181; amended Pub. L. 113–37, § 2(b)(1), (2), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, § 5(a)–(e), (g), (h)(1), Dec. 20, 2013, 127 Stat. 659–662; Pub. L. 114–58, title IV, § 405, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, § 405, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, § 405, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, § 165, Sept. 29, 2018, 132 Stat. 3171; Pub. L. 116–159, div. E, title IV, § 5403, Oct. 1, 2020, 134 Stat. 751; Pub. L. 117–180, div. E, title IV, § 402, Sept. 30, 2022, 136 Stat. 2139.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (g)(1)(A). Pub. L. 117–180, § 402(c), struck out “. for each of fiscal years 2010 through 2020” before period at end.
+2022—Subsec. (g)(1)(A). Pub. L. 117–180, § 402(c), struck out “. for each of fiscal years 2010 through 2020” before period at end.
 
-Subsec. (g)(1)(B). Pub. L. 117–180, § 402(a), substituted “through 2026” for “and 2022”.
+Subsec. (g)(1)(B). Pub. L. 117–180, § 402(a), substituted “through 2026” for “and 2022”.
 
-Subsec. (*l*). Pub. L. 117–180, § 402(b), substituted “2026” for “2022”.
+Subsec. (*l*). Pub. L. 117–180, § 402(b), substituted “2026” for “2022”.
 
-2020—Subsec. (g)(1). Pub. L. 116–159, § 5403(a), substituted “appropriated amounts as follows:” for “appropriated $8,000,000”, inserted “(A) $8,000,000 for each of fiscal years 2010 through 2020.” before “for each of fiscal years 2010 through 2020.”, and added subpar. (B).
+2020—Subsec. (g)(1). Pub. L. 116–159, § 5403(a), substituted “appropriated amounts as follows:” for “appropriated $8,000,000”, inserted “(A) $8,000,000 for each of fiscal years 2010 through 2020.” before “for each of fiscal years 2010 through 2020.”, and added subpar. (B).
 
-Subsec. (*l*). Pub. L. 116–159, § 5403(b), substituted “2022” for “2020”.
+Subsec. (*l*). Pub. L. 116–159, § 5403(b), substituted “2022” for “2020”.
 
 2018—Subsecs. (g)(1), (*l*). Pub. L. 115–251 substituted “2020” for “2019”.
 
@@ -753,47 +753,47 @@ Subsec. (*l*). Pub. L. 116–159, § 5403(b), substituted “2022” for “20
 
 2015—Subsec. (g)(1). Pub. L. 114–58 substituted “2016” for “2015”.
 
-2013—Pub. L. 113–59, § 5(h)(1), substituted “Adaptive sports programs for disabled veterans and members of the Armed Forces” for “Assistance for United States Paralympics, Inc.” in section catchline.
+2013—Pub. L. 113–59, § 5(h)(1), substituted “Adaptive sports programs for disabled veterans and members of the Armed Forces” for “Assistance for United States Paralympics, Inc.” in section catchline.
 
-Pub. L. 113–37, § 2(b)(2)(A), substituted “United States Olympic Committee” for “United States Paralympics, Inc.,” wherever appearing except in subsec. (d)(4).
+Pub. L. 113–37, § 2(b)(2)(A), substituted “United States Olympic Committee” for “United States Paralympics, Inc.,” wherever appearing except in subsec. (d)(4).
 
-Subsec. (a). Pub. L. 113–59, § 5(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may award grants to the United States Olympic Committee to plan, develop, manage, and implement an integrated adaptive sports program for disabled veterans and disabled members of the Armed Forces.”
+Subsec. (a). Pub. L. 113–59, § 5(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may award grants to the United States Olympic Committee to plan, develop, manage, and implement an integrated adaptive sports program for disabled veterans and disabled members of the Armed Forces.”
 
-Subsec. (b). Pub. L. 113–59, § 5(g)(1), substituted “an eligible entity” for “the United States Olympic Committee” and “An eligible entity that receives a grant under this section” for “The United States Olympic Committee”.
+Subsec. (b). Pub. L. 113–59, § 5(g)(1), substituted “an eligible entity” for “the United States Olympic Committee” and “An eligible entity that receives a grant under this section” for “The United States Olympic Committee”.
 
-Subsec. (c)(1). Pub. L. 113–59, § 5(g)(2)(A), substituted “to an eligible entity” for “to the United States Olympic Committee” and “the eligible entity shall submit” for “the United States Olympic Committee shall submit”.
+Subsec. (c)(1). Pub. L. 113–59, § 5(g)(2)(A), substituted “to an eligible entity” for “to the United States Olympic Committee” and “the eligible entity shall submit” for “the United States Olympic Committee shall submit”.
 
-Subsec. (c)(2)(A). Pub. L. 113–59, § 5(b), substituted “of—” for “of all partnerships referred to in paragraph (3) at the national and local levels that will be participating in such activities and the amount of grant funds that the United States Olympic Committee proposes to make available for each of such partnerships; and” and added cls. (i) to (v).
+Subsec. (c)(2)(A). Pub. L. 113–59, § 5(b), substituted “of—” for “of all partnerships referred to in paragraph (3) at the national and local levels that will be participating in such activities and the amount of grant funds that the United States Olympic Committee proposes to make available for each of such partnerships; and” and added cls. (i) to (v).
 
-Subsec. (c)(2)(B), (3). Pub. L. 113–59, § 5(g)(2)(B), substituted “the eligible entity” for “the United States Olympic Committee” wherever appearing.
+Subsec. (c)(2)(B), (3). Pub. L. 113–59, § 5(g)(2)(B), substituted “the eligible entity” for “the United States Olympic Committee” wherever appearing.
 
-Subsec. (d)(1). Pub. L. 113–59, § 5(g)(3)(A), substituted “An eligible entity that receives a grant under this section,” for “The United States Olympic Committee”, “shall use the grant” for “shall use a grant under this section”, and “the eligible entity” for “the United States Olympic Committee”.
+Subsec. (d)(1). Pub. L. 113–59, § 5(g)(3)(A), substituted “An eligible entity that receives a grant under this section,” for “The United States Olympic Committee”, “shall use the grant” for “shall use a grant under this section”, and “the eligible entity” for “the United States Olympic Committee”.
 
-Subsec. (d)(4). Pub. L. 113–59, § 5(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “A grant made under this section may include, at the discretion of the Secretary, an amount for the administrative expenses of the United States Olympic Committee, but not to exceed five percent of the amount of the grant.”
+Subsec. (d)(4). Pub. L. 113–59, § 5(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “A grant made under this section may include, at the discretion of the Secretary, an amount for the administrative expenses of the United States Olympic Committee, but not to exceed five percent of the amount of the grant.”
 
-Pub. L. 113–37, § 2(b)(2)(B), substituted “United States Olympic Committee” for “United States Paralympics, Inc.”
+Pub. L. 113–37, § 2(b)(2)(B), substituted “United States Olympic Committee” for “United States Paralympics, Inc.”
 
-Subsec. (d)(5). Pub. L. 113–59, § 5(g)(3)(B), substituted “an eligible entity that receives a grant under this section” for “the United States Olympic Committee”.
+Subsec. (d)(5). Pub. L. 113–59, § 5(g)(3)(B), substituted “an eligible entity that receives a grant under this section” for “the United States Olympic Committee”.
 
-Subsec. (e). Pub. L. 113–59, § 5(g)(4), substituted “an eligible entity” for “the United States Olympic Committee” and “the adapted sports opportunities funded by the grant” for “the integrated adaptive sports program”.
+Subsec. (e). Pub. L. 113–59, § 5(g)(4), substituted “an eligible entity” for “the United States Olympic Committee” and “the adapted sports opportunities funded by the grant” for “the integrated adaptive sports program”.
 
-Subsec. (f). Pub. L. 113–59, § 5(g)(5), substituted “adapted sports opportunities funded under this section” for “the integrated adaptive sports program”.
+Subsec. (f). Pub. L. 113–59, § 5(g)(5), substituted “adapted sports opportunities funded under this section” for “the integrated adaptive sports program”.
 
-Subsec. (g). Pub. L. 113–59, § 5(d), designated existing provisions as par. (1), substituted “through 2015.” for “through 2013 and $2,000,000 for the period beginning October 1, 2013, and ending December 31, 2013 to carry out this section. Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.”, and added par. (2).
+Subsec. (g). Pub. L. 113–59, § 5(d), designated existing provisions as par. (1), substituted “through 2015.” for “through 2013 and $2,000,000 for the period beginning October 1, 2013, and ending December 31, 2013 to carry out this section. Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.”, and added par. (2).
 
-Pub. L. 113–37, § 2(b)(1)(A), inserted “and $2,000,000 for the period beginning October 1, 2013, and ending December 31, 2013” after “2010 through 2013”.
+Pub. L. 113–37, § 2(b)(1)(A), inserted “and $2,000,000 for the period beginning October 1, 2013, and ending December 31, 2013” after “2010 through 2013”.
 
-Subsec. (j)(1). Pub. L. 113–59, § 5(g)(6)(A), substituted “an eligible entity shall agree” for “the United States Olympic Committee shall agree”, “the eligible entity shall submit” for “the United States Olympic Committee shall submit”, “in the adapted sports opportunities funded by the grant,” for “in the integrated adaptive sports program,”, and “of such opportunities and programs.” for “of the integrated adaptive sports program.”
+Subsec. (j)(1). Pub. L. 113–59, § 5(g)(6)(A), substituted “an eligible entity shall agree” for “the United States Olympic Committee shall agree”, “the eligible entity shall submit” for “the United States Olympic Committee shall submit”, “in the adapted sports opportunities funded by the grant,” for “in the integrated adaptive sports program,”, and “of such opportunities and programs.” for “of the integrated adaptive sports program.”
 
-Subsec. (j)(3). Pub. L. 113–59, § 5(g)(6)(B), added par. (3) and struck out former par. (3) which read as follows: “For any fiscal year after fiscal year 2010, the eligibility of the United States Olympic Committee to receive a grant under this section shall be contingent upon the submission of the report under paragraph (1) for the preceding fiscal year.”
+Subsec. (j)(3). Pub. L. 113–59, § 5(g)(6)(B), added par. (3) and struck out former par. (3) which read as follows: “For any fiscal year after fiscal year 2010, the eligibility of the United States Olympic Committee to receive a grant under this section shall be contingent upon the submission of the report under paragraph (1) for the preceding fiscal year.”
 
-Subsec. (*l*). Pub. L. 113–59, § 5(e), substituted “may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2016” for “may not provide assistance under this section after December 31, 2013”.
+Subsec. (*l*). Pub. L. 113–59, § 5(e), substituted “may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2016” for “may not provide assistance under this section after December 31, 2013”.
 
-Pub. L. 113–37, § 2(b)(1)(B), substituted “The Secretary may not provide assistance under this section after December 31, 2013.” for “The Secretary may only provide assistance under this section during fiscal years 2010 through 2013.”
+Pub. L. 113–37, § 2(b)(1)(B), substituted “The Secretary may not provide assistance under this section after December 31, 2013.” for “The Secretary may only provide assistance under this section during fiscal years 2010 through 2013.”
 
-Subsec. (m). Pub. L. 113–59, § 5(g)(7), struck out subsec. (m) which provided for applicability of this section and section 322 of this title to commonwealths and territories of the United States.
+Subsec. (m). Pub. L. 113–59, § 5(g)(7), struck out subsec. (m) which provided for applicability of this section and section 322 of this title to commonwealths and territories of the United States.
 
-Subsec. (m). Pub. L. 113–37, § 2(b)(2)(C), added subsec. (m).
+Subsec. (m). Pub. L. 113–37, § 2(b)(2)(C), added subsec. (m).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -803,15 +803,15 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 **Regulations**
 
-Pub. L. 113–59, § 5(i), Dec. 20, 2013, 127 Stat. 662, provided that: “To ensure the uninterrupted provision of adaptive sports for disabled veterans and disabled members of the Armed Forces, any regulations that the Secretary of Veterans Affairs determines are necessary to implement the amendments made by this section [amending this section] may be promulgated by interim final rules to ensure the award of grants under section 521A of title 38, United States Code, as amended by this section, before the end of fiscal year 2014.”
+Pub. L. 113–59, § 5(i), Dec. 20, 2013, 127 Stat. 662, provided that: “To ensure the uninterrupted provision of adaptive sports for disabled veterans and disabled members of the Armed Forces, any regulations that the Secretary of Veterans Affairs determines are necessary to implement the amendments made by this section [amending this section] may be promulgated by interim final rules to ensure the award of grants under section 521A of title 38, United States Code, as amended by this section, before the end of fiscal year 2014.”
 
 **Deadline for Memorandum of Understanding**
 
-Pub. L. 110–389, title VII, § 702(c), Oct. 10, 2008, 122 Stat. 4183, provided that: “The Secretary of Veterans Affairs may not award a grant under section 521A of title 38, United States Code, as added by subsection (a), until the United States Paralympics, Inc., and the Secretary have entered into a memorandum of understanding or cooperative agreement regarding implementation of the integrated adaptive sports program under that section. To the extent feasible, such memorandum or agreement shall be concluded not later than 240 days after the date of the enactment of this Act [Oct. 10, 2008].”
+Pub. L. 110–389, title VII, § 702(c), Oct. 10, 2008, 122 Stat. 4183, provided that: “The Secretary of Veterans Affairs may not award a grant under section 521A of title 38, United States Code, as added by subsection (a), until the United States Paralympics, Inc., and the Secretary have entered into a memorandum of understanding or cooperative agreement regarding implementation of the integrated adaptive sports program under that section. To the extent feasible, such memorandum or agreement shall be concluded not later than 240 days after the date of the enactment of this Act [Oct. 10, 2008].”
 
 **Assistance at Sporting Events**
 
-Pub. L. 110–389, title VII, § 703(c), Oct. 10, 2008, 122 Stat. 4185, provided that:
+Pub. L. 110–389, title VII, § 703(c), Oct. 10, 2008, 122 Stat. 4185, provided that:
 
 > “The Secretary of Veterans Affairs shall direct the Under Secretary for Health of the Department of Veterans Affairs—
 
@@ -819,13 +819,13 @@ Pub. L. 110–389, title VII, § 703(c), Oct. 10, 2008, 122 Stat. 4185, provid
 
 > **“(2)** to allow such personnel to provide support to the programs of the United States Paralympics, Inc., without requiring the use of personal leave.”
 
-### § 522. Studies of rehabilitation of disabled persons
+### § 522. Studies of rehabilitation of disabled persons
 
 **(a)** The Secretary may conduct studies and investigations, and prepare reports, relative to the rehabilitation of disabled persons, the relative abilities, aptitudes, and capacities of the several groups of the variously handicapped, and how their potentialities can best be developed and their services best used in gainful and suitable employment including the rehabilitation programs of foreign nations.
 
 **(b)** In carrying out this section, the Secretary (1) may cooperate with such public and private agencies as the Secretary considers advisable; and (2) may employ consultants who shall receive a reasonable per diem, as prescribed by the Secretary, for each day actually employed, plus necessary travel and other expenses.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 390.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 390.)
 
 **Editorial Notes**
 
@@ -833,9 +833,9 @@ Pub. L. 110–389, title VII, § 703(c), Oct. 10, 2008, 122 Stat. 4185, provid
 
 Prior section 522 was renumbered section 1522 of this title.
 
-Provisions similar to those in this section were contained in section 217 of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 217 of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
-### § 523. Coordination and promotion of other programs affecting veterans and their dependents
+### § 523. Coordination and promotion of other programs affecting veterans and their dependents
 
 **(a)** The Secretary shall seek to achieve (1) the maximum feasible effectiveness, coordination, and interrelationship of services among all programs and activities affecting veterans and their dependents carried out by and under all other departments, agencies, and instrumentalities of the executive branch, and (2) the maximum feasible coordination of such programs with programs carried out under this title. The Secretary shall actively promote the effective implementation, enforcement, and application of all provisions of law and regulations providing for special consideration, emphasis, or preference for veterans.
 
@@ -847,7 +847,7 @@ Provisions similar to those in this section were contained in section 217 of thi
 
 **(2)** dependents of veterans described in paragraph (1).
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 390; amended Pub. L. 119–60, div. A, title V, § 571(e), Dec. 18, 2025, 139 Stat. 885.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 390; amended Pub. L. 119–60, div. A, title V, § 571(e), Dec. 18, 2025, 139 Stat. 885.)
 
 **Editorial Notes**
 
@@ -855,7 +855,7 @@ Provisions similar to those in this section were contained in section 217 of thi
 
 Prior sections 523 and 524 were renumbered sections 1523 and 1524 of this title, respectively.
 
-Provisions similar to those in this section were contained in section 220 of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 220 of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 **Amendments**
 
@@ -865,7 +865,7 @@ Provisions similar to those in this section were contained in section 220 of thi
 
 **Pilot Program on Use of Community-Based Organizations and Local and State Government Entities To Ensure That Veterans Receive Care and Benefits for Which They Are Eligible**
 
-Pub. L. 111–163, title V, § 506, May 5, 2010, 124 Stat. 1160, as amended by Pub. L. 114–228, title I, § 108, Sept. 29, 2016, 130 Stat. 938, provided that:
+Pub. L. 111–163, title V, § 506, May 5, 2010, 124 Stat. 1160, as amended by Pub. L. 114–228, title I, § 108, Sept. 29, 2016, 130 Stat. 938, provided that:
 
 > **“(a) Pilot Program Required.—** The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of using community-based organizations and local and State government entities—
 
@@ -919,7 +919,7 @@ Pub. L. 111–163, title V, § 506, May 5, 2010, 124 Stat. 1160, as amended by
 
 > **“(C)** The recommendations of the Secretary as to the advisability of continuing the pilot program.”
 
-### § 525. Publication of laws relating to veterans
+### § 525. Publication of laws relating to veterans
 
 **(a)** The Secretary may compile and publish all Federal laws relating to veterans’ relief, including laws administered by the Department as well as by other agencies of the Government. Such compilation and publication shall be in such form as the Secretary considers advisable for the purpose of making currently available in convenient form for the use of the Department and full-time representatives of the several service organizations an annotated, indexed, and cross-referenced statement of the laws providing veterans’ relief.
 
@@ -927,7 +927,7 @@ Pub. L. 111–163, title V, § 506, May 5, 2010, 124 Stat. 1160, as amended by
 
 **(c)** The distribution of the compilation to the representatives of the several service organizations shall be as determined by the Secretary.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 391.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 391.)
 
 **Editorial Notes**
 
@@ -935,9 +935,9 @@ Pub. L. 111–163, title V, § 506, May 5, 2010, 124 Stat. 1160, as amended by
 
 Prior section 525 was renumbered section 1525 of this title.
 
-Provisions similar to those in this section were contained in section 215 of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 215 of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
-### § 527. Evaluation and data collection
+### § 527. Evaluation and data collection
 
 **(a)** The Secretary, pursuant to general standards which the Secretary shall prescribe in regulations, shall measure and evaluate on a continuing basis the effect of all programs authorized under this title, in order to determine their effectiveness in achieving stated goals in general, and in achieving such goals in relation to their cost, their effect on related programs, and their structure and mechanisms for delivery of services. Such information as the Secretary may consider necessary for purposes of such evaluations shall be made available to the Secretary, upon request, by all departments, agencies, and instrumentalities of the executive branch.
 
@@ -945,19 +945,19 @@ Provisions similar to those in this section were contained in section 215 of thi
 
 **(c)** The Secretary shall make available to the public, and on a regular basis provide to the appropriate committees of the Congress, copies of all completed evaluative research studies and summaries of evaluations of program impact and effectiveness carried out, and tabulations and analyses of all data collected, under this section.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 391.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 391.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 219 of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 219 of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Analysis and Report on Treatment of Veterans for Medical Conditions Related to Toxic Exposure**
 
-Pub. L. 117–168, title V, § 502, Aug. 10, 2022, 136 Stat. 1786, provided that:
+Pub. L. 117–168, title V, § 502, Aug. 10, 2022, 136 Stat. 1786, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall analyze, on a continuous basis, all clinical data that—
 
@@ -981,7 +981,7 @@ Pub. L. 117–168, title V, § 502, Aug. 10, 2022, 136 Stat. 1786, provided th
 
 **Department of Veterans Affairs Public Website for Toxic Exposure Research**
 
-Pub. L. 117–168, title V, § 509, Aug. 10, 2022, 136 Stat. 1791, provided that:
+Pub. L. 117–168, title V, § 509, Aug. 10, 2022, 136 Stat. 1791, provided that:
 
 > **“(a) Website.—** Not later than one year after the date of the enactment of this Act [Aug. 10, 2022], the Secretary of Veterans Affairs shall establish, and maintain thereafter, a publicly accessible internet website of the Department of Veterans Affairs that serves as a clearinghouse for the publication of all toxic exposure research carried out or funded by the executive branch of the Federal Government.
 
@@ -1001,7 +1001,7 @@ Pub. L. 117–168, title V, § 509, Aug. 10, 2022, 136 Stat. 1791, provided th
 
 **Burn Pit Transparency**
 
-Pub. L. 117–168, title VIII, § 808, Aug. 10, 2022, 136 Stat. 1806, provided that:
+Pub. L. 117–168, title VIII, § 808, Aug. 10, 2022, 136 Stat. 1806, provided that:
 
 > **“(a) Annual Report on Disability Claims.—**
 
@@ -1037,7 +1037,7 @@ Pub. L. 117–168, title VIII, § 808, Aug. 10, 2022, 136 Stat. 1806, provided
 
 **Requirement for Collection and Analysis of Data on Department of Veterans Affairs Benefits and Services and Disaggregation of Such Data by Gender, Race, and Ethnicity**
 
-Pub. L. 116–315, title V, § 5401, Jan. 5, 2021, 134 Stat. 5045, provided that:
+Pub. L. 116–315, title V, § 5401, Jan. 5, 2021, 134 Stat. 5045, provided that:
 
 > “The Secretary of Veterans Affairs shall—
 
@@ -1049,7 +1049,7 @@ Pub. L. 116–315, title V, § 5401, Jan. 5, 2021, 134 Stat. 5045, provided th
 
 **Addition of Burn Pit Registration and Other Information to Electronic Health Records of Members of the Armed Forces**
 
-Pub. L. 116–283, div. A, title VII, § 720, Jan. 1, 2021, 134 Stat. 3697, provided that:
+Pub. L. 116–283, div. A, title VII, § 720, Jan. 1, 2021, 134 Stat. 3697, provided that:
 
 > **“(a) Updates to Electronic Health Records.—** Beginning not later than one year after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall ensure that—
 
@@ -1061,7 +1061,7 @@ Pub. L. 116–283, div. A, title VII, § 720, Jan. 1, 2021, 134 Stat. 3697, pr
 
 **Health Assessments of Veterans Diagnosed With Pandemic Diseases To Determine Exposure to Open Burn Pits and Toxic Airborne Chemicals**
 
-Pub. L. 116–283, div. A, title VII, § 735, Jan. 1, 2021, 134 Stat. 3703, provided that:
+Pub. L. 116–283, div. A, title VII, § 735, Jan. 1, 2021, 134 Stat. 3703, provided that:
 
 > **“(a) Exposure to Open Burn Pits and Toxic Airborne Chemicals or Other Airborne Contaminants as Part of Health Assessments for Veterans During a Pandemic and Inclusion of Information in Registry.—**
 
@@ -1091,11 +1091,11 @@ Pub. L. 116–283, div. A, title VII, § 735, Jan. 1, 2021, 134 Stat. 3703, pr
 
 **Access of Veterans to Individual Longitudinal Exposure Record**
 
-Pub. L. 116–283, div. H, title XCI, § 9105, Jan. 1, 2021, 134 Stat. 4783, provided that: “The Secretary of Veterans Affairs shall provide to a veteran read-only access to the documents of the veteran contained in the Individual Longitudinal Exposure Record in a printable format through a portal accessible through an internet website of the Department of Veterans Affairs.”
+Pub. L. 116–283, div. H, title XCI, § 9105, Jan. 1, 2021, 134 Stat. 4783, provided that: “The Secretary of Veterans Affairs shall provide to a veteran read-only access to the documents of the veteran contained in the Individual Longitudinal Exposure Record in a printable format through a portal accessible through an internet website of the Department of Veterans Affairs.”
 
 **Access to Information in Burn Pit Registry**
 
-Pub. L. 116–92, div. A, title VII, § 705(c), Dec. 20, 2019, 133 Stat. 1440, provided that:
+Pub. L. 116–92, div. A, title VII, § 705(c), Dec. 20, 2019, 133 Stat. 1440, provided that:
 
 > **“(1) In general.—** The Secretary of Defense shall ensure that all medical personnel of the Department of Defense have access to the information contained in the burn pit registry.
 
@@ -1103,7 +1103,7 @@ Pub. L. 116–92, div. A, title VII, § 705(c), Dec. 20, 2019, 133 Stat. 1440,
 
 **Education Campaign for Airborne Hazards and Open Burn Pit Registry**
 
-Pub. L. 115–232, div. A, title X, § 1050, Aug. 13, 2018, 132 Stat. 1962, provided that:
+Pub. L. 115–232, div. A, title X, § 1050, Aug. 13, 2018, 132 Stat. 1962, provided that:
 
 > **“(a) Education Campaign.—** Beginning not later than one year after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall carry out an annual education campaign to inform individuals who may be eligible to enroll in the Airborne Hazards and Open Burn Pit Registry of such eligibility. Each such campaign shall include at least one electronic method and one physical mailing method to provide such information.
 
@@ -1111,11 +1111,11 @@ Pub. L. 115–232, div. A, title X, § 1050, Aug. 13, 2018, 132 Stat. 1962, pr
 
 **Coordination by Veterans Health Administration of Efforts To Understand Effects of Burn Pits**
 
-Pub. L. 115–91, div. A, title VII, § 738, Dec. 12, 2017, 131 Stat. 1446, provided that: “The Under Secretary for Health of the Department of Veterans Affairs, acting through the Office of Public Health of the Veterans Health Administration, shall coordinate efforts related to furthering understanding of burn pits, the effect of burn pits on veterans, and effective treatments relating to such effects, including with respect to research efforts and training of clinical staff on related matters.”
+Pub. L. 115–91, div. A, title VII, § 738, Dec. 12, 2017, 131 Stat. 1446, provided that: “The Under Secretary for Health of the Department of Veterans Affairs, acting through the Office of Public Health of the Veterans Health Administration, shall coordinate efforts related to furthering understanding of burn pits, the effect of burn pits on veterans, and effective treatments relating to such effects, including with respect to research efforts and training of clinical staff on related matters.”
 
 **Submittal of Information to Secretary of Veterans Affairs Relating to Exposure to Airborne Hazards and Open Burn Pits**
 
-Pub. L. 114–92, div. A, title VII, § 728, Nov. 25, 2015, 129 Stat. 873, provided that:
+Pub. L. 114–92, div. A, title VII, § 728, Nov. 25, 2015, 129 Stat. 873, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], and periodically thereafter, the Secretary of Defense shall submit to the Secretary of Veterans Affairs such information in the possession of the Secretary of Defense as the Secretary of Veterans Affairs considers necessary to supplement and support—
 
@@ -1127,7 +1127,7 @@ Pub. L. 114–92, div. A, title VII, § 728, Nov. 25, 2015, 129 Stat. 873, pro
 
 **Establishment of Open Burn Pit Registry**
 
-Pub. L. 112–260, title II, § 201, Jan. 10, 2013, 126 Stat. 2422, as amended by Pub. L. 116–315, title II, § 2010(g), Jan. 5, 2021, 134 Stat. 4979; Pub. L. 117–81, div. F, title LXVI, § 6602, Dec. 27, 2021, 135 Stat. 2438, provided that:
+Pub. L. 112–260, title II, § 201, Jan. 10, 2013, 126 Stat. 2422, as amended by Pub. L. 116–315, title II, § 2010(g), Jan. 5, 2021, 134 Stat. 4979; Pub. L. 117–81, div. F, title LXVI, § 6602, Dec. 27, 2021, 135 Stat. 2438, provided that:
 
 > **“(a) Establishment of Registry.—**
 
@@ -1183,7 +1183,7 @@ Pub. L. 112–260, title II, § 201, Jan. 10, 2013, 126 Stat. 2422, as amended
 
 **Persian Gulf War Veterans’ Health Status**
 
-Pub. L. 102–585, title VII, Nov. 4, 1992, 106 Stat. 4975, as amended by Pub. L. 103–446, title I, § 108, Nov. 2, 1994, 108 Stat. 4653; Pub. L. 105–368, title I, §§ 104, 106, Nov. 11, 1998, 112 Stat. 3323, 3325; Pub. L. 111–163, title V, § 502, May 5, 2010, 124 Stat. 1157, provided that:
+Pub. L. 102–585, title VII, Nov. 4, 1992, 106 Stat. 4975, as amended by Pub. L. 103–446, title I, § 108, Nov. 2, 1994, 108 Stat. 4653; Pub. L. 105–368, title I, §§ 104, 106, Nov. 11, 1998, 112 Stat. 3323, 3325; Pub. L. 111–163, title V, § 502, May 5, 2010, 124 Stat. 1157, provided that:
 
 > **“SEC. 701. SHORT TITLE.**
 
@@ -1361,9 +1361,9 @@ Pub. L. 102–585, title VII, Nov. 4, 1992, 106 Stat. 4975, as amended by Pub. L
 
 **Services for Homeless Veterans**
 
-Pub. L. 102–405, title I, § 107, Oct. 9, 1992, 106 Stat. 1976, as amended by Pub. L. 103–446, title X, § 1002, Nov. 2, 1994, 108 Stat. 4679, required Secretary of Veterans’ Affairs and directors of each medical center or benefits office to assess needs of homeless veterans and programs which have been developed to assist homeless veterans, and to replicate programs which have successfully rehabilitated homeless veterans, prior to repeal by Pub. L. 105–114, title II, § 202(c)(2), Nov. 21, 1997, 111 Stat. 2287.
+Pub. L. 102–405, title I, § 107, Oct. 9, 1992, 106 Stat. 1976, as amended by Pub. L. 103–446, title X, § 1002, Nov. 2, 1994, 108 Stat. 4679, required Secretary of Veterans’ Affairs and directors of each medical center or benefits office to assess needs of homeless veterans and programs which have been developed to assist homeless veterans, and to replicate programs which have successfully rehabilitated homeless veterans, prior to repeal by Pub. L. 105–114, title II, § 202(c)(2), Nov. 21, 1997, 111 Stat. 2287.
 
-### § 529. Annual report to Congress
+### § 529. Annual report to Congress
 
 The Secretary shall submit annually, at the close of each fiscal year, a report in writing to Congress. Each such report shall—
 
@@ -1373,19 +1373,19 @@ The Secretary shall submit annually, at the close of each fiscal year, a report 
 
 **(3)** state the activities of the Department for such fiscal year.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 391.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 391.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 214 of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 214 of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
-Prior section 531, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137; Pub. L. 90–77, title I, § 105, Aug. 31, 1967, 81 Stat. 179, provided for a monthly pension to widows of Mexican War veterans, prior to repeal by Pub. L. 94–169, title I, § 101(2)(F), Dec. 23, 1975, 89 Stat. 1014, effective Jan. 1, 1976.
+Prior section 531, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137; Pub. L. 90–77, title I, § 105, Aug. 31, 1967, 81 Stat. 179, provided for a monthly pension to widows of Mexican War veterans, prior to repeal by Pub. L. 94–169, title I, § 101(2)(F), Dec. 23, 1975, 89 Stat. 1014, effective Jan. 1, 1976.
 
 Prior sections 532 to 537 were renumbered sections 1532 to 1537 of this title, respectively.
 
-### § 530. Annual report on program and expenditures for domestic response to weapons of mass destruction
+### § 530. Annual report on program and expenditures for domestic response to weapons of mass destruction
 
 **(a)** The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an annual report, to be submitted each year at the time that the President submits the budget for the next fiscal year under section 1105 of title 31, on the activities of the Department relating to preparation for, and participation in, a domestic medical response to an attack involving weapons of mass destruction.
 
@@ -1399,9 +1399,9 @@ Prior sections 532 to 537 were renumbered sections 1532 to 1537 of this title, r
 
 **(c)** This section shall expire on January 1, 2009.
 
-(Added Pub. L. 105–368, title IX, § 906(a), Nov. 11, 1998, 112 Stat. 3361.)
+(Added Pub. L. 105–368, title IX, § 906(a), Nov. 11, 1998, 112 Stat. 3361.)
 
-### § 531. Requirements relating to naming of Department property
+### § 531. Requirements relating to naming of Department property
 
 **(a) Naming Limitation.—** Except as expressly provided by law or as authorized under subsection (b), a facility, structure, or real property of the Department, and a major portion (such as a wing or floor) of any such facility, structure, or real property, may be named only for the geographic area in which the facility, structure, or real property is located.
 
@@ -1423,23 +1423,23 @@ Prior sections 532 to 537 were renumbered sections 1532 to 1537 of this title, r
 
 **(3) Covered property.—** In this subsection, the term “covered property” means a facility, structure, or real property of the Department or a major portion (such as a wing or floor) of any such facility, structure, or real property.
 
-(Added Pub. L. 105–368, title X, § 1001(a)(1), Nov. 11, 1998, 112 Stat. 3363; amended Pub. L. 117–137, § 1(a), June 7, 2022, 136 Stat. 1254.)
+(Added Pub. L. 105–368, title X, § 1001(a)(1), Nov. 11, 1998, 112 Stat. 3363; amended Pub. L. 117–137, § 1(a), June 7, 2022, 136 Stat. 1254.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–137, § 1(a)(2), (3), designated existing provisions as subsec. (a), inserted heading, inserted “or as authorized under subsection (b)” after “Except as expressly provided by law”, and added subsec. (b).
+2022—Pub. L. 117–137, § 1(a)(2), (3), designated existing provisions as subsec. (a), inserted heading, inserted “or as authorized under subsection (b)” after “Except as expressly provided by law”, and added subsec. (b).
 
-Pub. L. 117–137, § 1(a)(1), substituted “Requirements” for “Requirement” in section catchline.
+Pub. L. 117–137, § 1(a)(1), substituted “Requirements” for “Requirement” in section catchline.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–368, title X, § 1001(b), Nov. 11, 1998, 112 Stat. 3363, provided that: “Section 531 of title 38, United States Code, as added by subsection (a)(1), shall apply with respect to the assignment or designation of the name of a facility, structure, or real property of the Department of Veterans Affairs (or of a major portion thereof) after the date of the enactment of this Act [Nov. 11, 1998].”
+Pub. L. 105–368, title X, § 1001(b), Nov. 11, 1998, 112 Stat. 3363, provided that: “Section 531 of title 38, United States Code, as added by subsection (a)(1), shall apply with respect to the assignment or designation of the name of a facility, structure, or real property of the Department of Veterans Affairs (or of a major portion thereof) after the date of the enactment of this Act [Nov. 11, 1998].”
 
-### § 532. Authority to advertise in national media; VetStar Award Program
+### § 532. Authority to advertise in national media; VetStar Award Program
 
 **(a) Advertising in National Media.—** The Secretary may purchase advertising in national media outlets for the purpose of promoting awareness of benefits under laws administered by the Secretary, including promoting awareness of assistance provided by the Secretary, including assistance for programs to assist homeless veterans, to promote veteran-owned small businesses, and to provide opportunities for employment in the Department of Veterans Affairs and for education, training, compensation, pension, vocational rehabilitation, and healthcare benefits, and mental healthcare (including the prevention of suicide among veterans).
 
@@ -1453,15 +1453,15 @@ Pub. L. 105–368, title X, § 1001(b), Nov. 11, 1998, 112 Stat. 3363, provide
 
 **(B)** objective measures to be used in selecting businesses to receive the award.
 
-(Added Pub. L. 110–389, title VIII, § 809(a), Oct. 10, 2008, 122 Stat. 4189; amended Pub. L. 112–154, title VII, § 709(a), (b)(1), Aug. 6, 2012, 126 Stat. 1207.)
+(Added Pub. L. 110–389, title VIII, § 809(a), Oct. 10, 2008, 122 Stat. 4189; amended Pub. L. 112–154, title VII, § 709(a), (b)(1), Aug. 6, 2012, 126 Stat. 1207.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2012—Pub. L. 112–154 inserted “; VetStar Award Program” after “national media” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+2012—Pub. L. 112–154 inserted “; VetStar Award Program” after “national media” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-### § 533. Anti-harassment and anti-sexual assault policy
+### § 533. Anti-harassment and anti-sexual assault policy
 
 **(a) Establishment.—**
 
@@ -1541,7 +1541,7 @@ Pub. L. 105–368, title X, § 1001(b), Nov. 11, 1998, 112 Stat. 3363, provide
 
 **(4)** The working group established under paragraph (1) shall not be subject to the requirements of the Federal Advisory Committee Act (5 U.S.C. App.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(f) Annual Reports.—**
 
@@ -1567,23 +1567,23 @@ Pub. L. 105–368, title X, § 1001(b), Nov. 11, 1998, 112 Stat. 3363, provide
 
 **(2)** The term “sexual harassment” means unsolicited verbal or physical contact of a sexual nature which is threatening in character.
 
-(Added Pub. L. 116–315, title V, § 5303(a), Jan. 5, 2021, 134 Stat. 5038.)
+(Added Pub. L. 116–315, title V, § 5303(a), Jan. 5, 2021, 134 Stat. 5038.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline**
 
-Pub. L. 116–315, title V, § 5303(d), Jan. 5, 2021, 134 Stat. 5041, provided that: “The Secretary shall commence carrying out section 533 of such title [title 38], as added by subsection (a), not later than 180 days after the date of enactment of this Act [Jan. 5, 2021].”
+Pub. L. 116–315, title V, § 5303(d), Jan. 5, 2021, 134 Stat. 5041, provided that: “The Secretary shall commence carrying out section 533 of such title [title 38], as added by subsection (a), not later than 180 days after the date of enactment of this Act [Jan. 5, 2021].”
 
 ## SUBCHAPTER III—ADVISORY COMMITTEES
 
-### § 541. Advisory Committee on Former Prisoners of War
+### § 541. Advisory Committee on Former Prisoners of War
 
 **(a)**
 
@@ -1621,7 +1621,7 @@ Pub. L. 116–315, title V, § 5303(d), Jan. 5, 2021, 134 Stat. 5041, provided
 
 **(4)** The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted to the Congress pursuant to that section.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 392; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–419, title IV, § 403(c)(2), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 108–454, title VIII, § 803, Dec. 10, 2004, 118 Stat. 3626.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 392; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–419, title IV, § 403(c)(2), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 108–454, title VIII, § 803, Dec. 10, 2004, 118 Stat. 3626.)
 
 **Editorial Notes**
 
@@ -1629,7 +1629,7 @@ Pub. L. 116–315, title V, § 5303(d), Jan. 5, 2021, 134 Stat. 5041, provided
 
 Prior section 541 was renumbered section 1541 of this title.
 
-Provisions similar to those in this section were contained in section 221 of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 221 of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 **Amendments**
 
@@ -1645,7 +1645,7 @@ Provisions similar to those in this section were contained in section 221 of thi
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-### § 542. Advisory Committee on Women Veterans
+### § 542. Advisory Committee on Women Veterans
 
 **(a)**
 
@@ -1695,7 +1695,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 **(4)** The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to such section.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 393; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–275, title V, § 501(e)(1), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–419, title IV, § 403(c)(3), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 109–444, § 5, Dec. 21, 2006, 120 Stat. 3308; Pub. L. 109–461, title II, § 208(b), title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3413, 3468; Pub. L. 110–387, title VIII, § 808, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 111–163, title II, § 204(a), May 5, 2010, 124 Stat. 1144; Pub. L. 116–315, title V, § 5302, Jan. 5, 2021, 134 Stat. 5038; Pub. L. 117–263, div. E, title LI, § 5101, Dec. 23, 2022, 136 Stat. 3205.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 393; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–275, title V, § 501(e)(1), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–419, title IV, § 403(c)(3), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 109–444, § 5, Dec. 21, 2006, 120 Stat. 3308; Pub. L. 109–461, title II, § 208(b), title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3413, 3468; Pub. L. 110–387, title VIII, § 808, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 111–163, title II, § 204(a), May 5, 2010, 124 Stat. 1144; Pub. L. 116–315, title V, § 5302, Jan. 5, 2021, 134 Stat. 5038; Pub. L. 117–263, div. E, title LI, § 5101, Dec. 23, 2022, 136 Stat. 3205.)
 
 **Editorial Notes**
 
@@ -1703,7 +1703,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 Prior section 542 was renumbered section 1542 of this title.
 
-Provisions similar to those in this section were contained in section 222 of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 222 of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 **Amendments**
 
@@ -1715,15 +1715,15 @@ Provisions similar to those in this section were contained in section 222 of thi
 
 2008—Subsec. (c)(1). Pub. L. 110–387 struck out “through 2008” after “year” in introductory provisions.
 
-2006—Subsec. (c)(1). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Subsec. (c)(1). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Pub. L. 109–461, § 208(b), substituted “2008” for “2004” in introductory provisions.
+Pub. L. 109–461, § 208(b), substituted “2008” for “2004” in introductory provisions.
 
-Pub. L. 109–444, which substituted “2008” for “2004” in introductory provisions, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, which substituted “2008” for “2004” in introductory provisions, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
 2000—Subsec. (c)(1). Pub. L. 106–419 inserted “through 2004” after “each even-numbered year” in introductory provisions.
 
-1996—Subsec. (b). Pub. L. 104–275 inserted “, including the Center for Women Veterans” before period at end.
+1996—Subsec. (b). Pub. L. 104–275 inserted “, including the Center for Women Veterans” before period at end.
 
 1992—Subsec. (a)(2)(B)(iii). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” and “Under Secretary for Benefits” for “Chief Benefits Director”.
 
@@ -1735,13 +1735,13 @@ Reference to Assistant Secretary of Labor for Veterans’ Employment in any law 
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–163, title II, § 204(c), May 5, 2010, 124 Stat. 1144, provided that: “The amendments made by this section [amending this section and section 544 of this title] shall apply to appointments made on or after the date of the enactment of this Act [May 5, 2010].”
+Pub. L. 111–163, title II, § 204(c), May 5, 2010, 124 Stat. 1144, provided that: “The amendments made by this section [amending this section and section 544 of this title] shall apply to appointments made on or after the date of the enactment of this Act [May 5, 2010].”
 
 **Termination of Advisory Committees**
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-### § 543. Advisory Committee on Prosthetics and Special-Disabilities Programs
+### § 543. Advisory Committee on Prosthetics and Special-Disabilities Programs
 
 **(a)** There is in the Department an advisory committee known as the Advisory Committee on Prosthetics and Special-Disabilities Programs (hereinafter in this section referred to as the “Committee”).
 
@@ -1771,7 +1771,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 **(5)** other veterans with serious incapacities in terms of daily life functions.
 
-(Added Pub. L. 102–405, title I, § 105(b)(1), Oct. 9, 1992, 106 Stat. 1975.)
+(Added Pub. L. 102–405, title I, § 105(b)(1), Oct. 9, 1992, 106 Stat. 1975.)
 
 **Editorial Notes**
 
@@ -1783,13 +1783,13 @@ Prior section 543 was renumbered section 1543 of this title.
 
 **Change of Name**
 
-Pub. L. 102–405, title I, § 105(a), Oct. 9, 1992, 106 Stat. 1975, provided that: “The Federal advisory committee established by the Secretary and known as the Prosthetics Service Advisory Committee shall after the date of the enactment of this Act [Oct. 9, 1992] be known as the Advisory Committee on Prosthetics and Special-Disabilities Programs and shall operate as though such committee had been established by law. Notwithstanding any other provision of law, the Committee may, upon the enactment of this Act, meet and act on any matter covered by subsection (b) of section 543 of title 38, United States Code, as added by subsection (b) of this section.”
+Pub. L. 102–405, title I, § 105(a), Oct. 9, 1992, 106 Stat. 1975, provided that: “The Federal advisory committee established by the Secretary and known as the Prosthetics Service Advisory Committee shall after the date of the enactment of this Act [Oct. 9, 1992] be known as the Advisory Committee on Prosthetics and Special-Disabilities Programs and shall operate as though such committee had been established by law. Notwithstanding any other provision of law, the Committee may, upon the enactment of this Act, meet and act on any matter covered by subsection (b) of section 543 of title 38, United States Code, as added by subsection (b) of this section.”
 
 **Termination of Advisory Committees**
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-### § 544. Advisory Committee on Minority Veterans
+### § 544. Advisory Committee on Minority Veterans
 
 **(a)**
 
@@ -1861,23 +1861,23 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 **(e)** The Committee shall cease to exist September 30, 2026.
 
-(Added Pub. L. 103–446, title V, § 510(a), Nov. 2, 1994, 108 Stat. 4668; amended Pub. L. 104–275, title V, § 501(e)(2), (f), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–117, title VIII, § 803, Nov. 30, 1999, 113 Stat. 1586; Pub. L. 108–183, title VII, § 703, Dec. 16, 2003, 117 Stat. 2671; Pub. L. 110–389, title VIII, § 808, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–163, title II, § 204(b), May 5, 2010, 124 Stat. 1144; Pub. L. 113–175, title IV, § 404, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, § 406, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, § 406, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, § 406, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, § 166, Sept. 29, 2018, 132 Stat. 3171; Pub. L. 117–180, div. E, title IV, § 403, Sept. 30, 2022, 136 Stat. 2139.)
+(Added Pub. L. 103–446, title V, § 510(a), Nov. 2, 1994, 108 Stat. 4668; amended Pub. L. 104–275, title V, § 501(e)(2), (f), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–117, title VIII, § 803, Nov. 30, 1999, 113 Stat. 1586; Pub. L. 108–183, title VII, § 703, Dec. 16, 2003, 117 Stat. 2671; Pub. L. 110–389, title VIII, § 808, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–163, title II, § 204(b), May 5, 2010, 124 Stat. 1144; Pub. L. 113–175, title IV, § 404, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, § 406, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, § 406, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, § 406, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, § 166, Sept. 29, 2018, 132 Stat. 3171; Pub. L. 117–180, div. E, title IV, § 403, Sept. 30, 2022, 136 Stat. 2139.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 544, added Pub. L. 90–77, title I, § 108(a), Aug. 31, 1967, 81 Stat. 180; amended Pub. L. 91–588, § 3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 93–527, § 5, Dec. 21, 1974, 88 Stat. 1704; Pub. L. 94–169, title I, § 105, Dec. 23, 1975, 89 Stat. 1017; Pub. L. 94–432, title II, § 205, Sept. 30, 1976, 90 Stat. 1371; Pub. L. 95–204, title I, § 104, Dec. 2, 1977, 91 Stat. 1457, authorized an increase by $79 of the monthly rate of pension payable to the surviving spouse if the surviving spouse was entitled to pension under subchapter III of chapter 15 of this title and was in need of regular aid and attendance, prior to repeal by Pub. L. 95–588, title I, § 112(a)(1), title IV, § 401, Nov. 4, 1978, 92 Stat. 2505, 2511, effective Jan. 1, 1979.
+Prior section 544, added Pub. L. 90–77, title I, § 108(a), Aug. 31, 1967, 81 Stat. 180; amended Pub. L. 91–588, § 3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 93–527, § 5, Dec. 21, 1974, 88 Stat. 1704; Pub. L. 94–169, title I, § 105, Dec. 23, 1975, 89 Stat. 1017; Pub. L. 94–432, title II, § 205, Sept. 30, 1976, 90 Stat. 1371; Pub. L. 95–204, title I, § 104, Dec. 2, 1977, 91 Stat. 1457, authorized an increase by $79 of the monthly rate of pension payable to the surviving spouse if the surviving spouse was entitled to pension under subchapter III of chapter 15 of this title and was in need of regular aid and attendance, prior to repeal by Pub. L. 95–588, title I, § 112(a)(1), title IV, § 401, Nov. 4, 1978, 92 Stat. 2505, 2511, effective Jan. 1, 1979.
 
-Another prior section 544, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, authorized the payment of a pension to children of World War II or Korean conflict veterans, prior to the general amendment of subchapter III of chapter 15 of this title by Pub. L. 86–211, § 4, Aug. 29, 1950, 73 Stat. 434. See sections 1542 and 1543 of this title.
+Another prior section 544, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, authorized the payment of a pension to children of World War II or Korean conflict veterans, prior to the general amendment of subchapter III of chapter 15 of this title by Pub. L. 86–211, § 4, Aug. 29, 1950, 73 Stat. 434. See sections 1542 and 1543 of this title.
 
 **Amendments**
 
 2022—Subsec. (e). Pub. L. 117–180 substituted “September 30, 2026” for “September 30, 2022”.
 
-2018—Subsec. (c)(1). Pub. L. 115–251, § 166(b), substituted “every other year” for “each year” in introductory provisions.
+2018—Subsec. (c)(1). Pub. L. 115–251, § 166(b), substituted “every other year” for “each year” in introductory provisions.
 
-Subsec. (e). Pub. L. 115–251, § 166(a), substituted “September 30, 2022” for “September 30, 2018”.
+Subsec. (e). Pub. L. 115–251, § 166(a), substituted “September 30, 2022” for “September 30, 2018”.
 
 2017—Subsec. (e). Pub. L. 115–62 substituted “September 30, 2018” for “December 31, 2017”.
 
@@ -1895,9 +1895,9 @@ Subsec. (e). Pub. L. 115–251, § 166(a), substituted “September 30, 2022�
 
 1999—Subsec. (e). Pub. L. 106–117 substituted “December 31, 2003” for “December 31, 1999”.
 
-1996—Subsec. (b). Pub. L. 104–275, § 501(e)(2), inserted “, including the Center for Minority Veterans” before period at end.
+1996—Subsec. (b). Pub. L. 104–275, § 501(e)(2), inserted “, including the Center for Minority Veterans” before period at end.
 
-Subsec. (e). Pub. L. 104–275, § 501(f), substituted “December 31, 1999” for “December 31, 1997”.
+Subsec. (e). Pub. L. 104–275, § 501(f), substituted “December 31, 1999” for “December 31, 1997”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1905,7 +1905,7 @@ Subsec. (e). Pub. L. 104–275, § 501(f), substituted “December 31, 1999”
 
 Amendment by Pub. L. 111–163 applicable to appointments made on or after May 5, 2010, see section 204(c) of Pub. L. 111–163, set out as a note under section 542 of this title.
 
-### § 545. Advisory Committee on the Readjustment of Veterans
+### § 545. Advisory Committee on the Readjustment of Veterans
 
 **(a)**
 
@@ -1961,19 +1961,19 @@ Amendment by Pub. L. 111–163 applicable to appointments made on or after May 5
 
 **(2)** Section 1013 of title 5 shall not apply to the Committee.
 
-(Added Pub. L. 104–262, title III, § 333(a)(1), Oct. 9, 1996, 110 Stat. 3199; amended Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 117–286, § 4(a)(217), Dec. 27, 2022, 136 Stat. 4330.)
+(Added Pub. L. 104–262, title III, § 333(a)(1), Oct. 9, 1996, 110 Stat. 3199; amended Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 117–286, § 4(a)(217), Dec. 27, 2022, 136 Stat. 4330.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 545 of this title, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, authorized the payment of a pension to children of World War II or Korean conflict veterans and prescribed income limitations, prior to the general amendment of subchapter III of chapter 15 of this title by Pub. L. 86–211, § 4, Aug. 29, 1959, 73 Stat. 434. See section 1543 of this title.
+Prior section 545 of this title, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, authorized the payment of a pension to children of World War II or Korean conflict veterans and prescribed income limitations, prior to the general amendment of subchapter III of chapter 15 of this title by Pub. L. 86–211, § 4, Aug. 29, 1959, 73 Stat. 434. See section 1543 of this title.
 
 **Amendments**
 
-2022—Subsec. (d)(1). Pub. L. 117–286, § 4(a)(217)(A), substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)”.
+2022—Subsec. (d)(1). Pub. L. 117–286, § 4(a)(217)(A), substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-Subsec. (d)(2). Pub. L. 117–286, § 4(a)(217)(B), substituted “Section 1013 of title 5” for “Section 14 of such Act”.
+Subsec. (d)(2). Pub. L. 117–286, § 4(a)(217)(B), substituted “Section 1013 of title 5” for “Section 14 of such Act”.
 
 2001—Subsec. (a)(1). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
@@ -1981,7 +1981,7 @@ Subsec. (d)(2). Pub. L. 117–286, § 4(a)(217)(B), substituted “Section 101
 
 **Commission on Servicemembers and Veterans Transition Assistance**
 
-Pub. L. 104–275, title VII, Oct. 9, 1996, 110 Stat. 3346, as amended by Pub. L. 105–368, title X, § 1005(c)(2), Nov. 11, 1998, 112 Stat. 3366, provided that:
+Pub. L. 104–275, title VII, Oct. 9, 1996, 110 Stat. 3346, as amended by Pub. L. 105–368, title X, § 1005(c)(2), Nov. 11, 1998, 112 Stat. 3366, provided that:
 
 > **“SEC. 701. ESTABLISHMENT OF COMMISSION.**
 
@@ -2177,13 +2177,13 @@ Pub. L. 104–275, title VII, Oct. 9, 1996, 110 Stat. 3346, as amended by Pub. L
 
 **Original Members of Advisory Committee**
 
-Pub. L. 104–262, title III, § 333(b), Oct. 9, 1996, 110 Stat. 3200, provided that:
+Pub. L. 104–262, title III, § 333(b), Oct. 9, 1996, 110 Stat. 3200, provided that:
 
 > **“(1)** Notwithstanding subsection (a)(2) of section 545 of title 38, United States Code (as added by subsection (a)), the members of the Advisory Committee on the Readjustment of Vietnam and Other War Veterans on the date of the enactment of this Act [Oct. 9, 1996] shall be the original members of the advisory committee recognized under such section.
 
 > **“(2)** The original members shall so serve until the Secretary of Veterans Affairs carries out appointments under such subsection (a)(2). The Secretary of Veterans Affairs shall carry out such appointments as soon after such date as is practicable. The Secretary may make such appointments from among such original members.”
 
-### § 546. Advisory Committee on Disability Compensation
+### § 546. Advisory Committee on Disability Compensation
 
 **(a) Establishment.—**
 
@@ -2247,7 +2247,7 @@ Pub. L. 104–262, title III, § 333(b), Oct. 9, 1996, 110 Stat. 3200, provide
 
 **(2)** Section 1013 of title 5 shall not apply to the Committee.
 
-(Added Pub. L. 110–389, title II, § 214(a), Oct. 10, 2008, 122 Stat. 4152; amended Pub. L. 117–286, § 4(a)(218), Dec. 27, 2022, 136 Stat. 4330.)
+(Added Pub. L. 110–389, title II, § 214(a), Oct. 10, 2008, 122 Stat. 4152; amended Pub. L. 117–286, § 4(a)(218), Dec. 27, 2022, 136 Stat. 4330.)
 
 **Editorial Notes**
 
@@ -2261,35 +2261,35 @@ Another prior section 613, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, relat
 
 Prior sections 614 to 620C were renumbered sections 1714 to 1720C of this title, respectively.
 
-Another prior section 620C, added Pub. L. 100–6, § 2(a), Feb. 12, 1987, 101 Stat. 92, related to community-based psychiatric residential treatment for chronically mentally ill veterans, prior to repeal by Pub. L. 100–322, title I, § 115(g)(1), May 20, 1988, 102 Stat. 502. See section 115(a)–(f) of Pub. L. 100–322, set out as a note under section 1712 of this title.
+Another prior section 620C, added Pub. L. 100–6, § 2(a), Feb. 12, 1987, 101 Stat. 92, related to community-based psychiatric residential treatment for chronically mentally ill veterans, prior to repeal by Pub. L. 100–322, title I, § 115(g)(1), May 20, 1988, 102 Stat. 502. See section 115(a)–(f) of Pub. L. 100–322, set out as a note under section 1712 of this title.
 
 Prior sections 621 to 624 were renumbered sections 1721 to 1724 of this title, respectively.
 
-Prior section 625, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144; Pub. L. 91–24, § 6(a), June 11, 1969, 83 Stat. 34, related to arrests for crimes in hospital and domiciliary reservations, prior to repeal by Pub. L. 93–43, §§ 4(b), 10(a), June 18, 1973, 87 Stat. 79, 88, effective June 18, 1973.
+Prior section 625, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144; Pub. L. 91–24, § 6(a), June 11, 1969, 83 Stat. 34, related to arrests for crimes in hospital and domiciliary reservations, prior to repeal by Pub. L. 93–43, §§ 4(b), 10(a), June 18, 1973, 87 Stat. 79, 88, effective June 18, 1973.
 
 Prior sections 626 to 631 were renumbered sections 1726 to 1731 of this title, respectively.
 
-Another prior section 631, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1145; Pub. L. 91–24, § 6(b), June 11, 1969, 83 Stat. 34, related to grants to the Republic of the Philippines, prior to repeal by section 107(a) of Pub. L. 93–82.
+Another prior section 631, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1145; Pub. L. 91–24, § 6(b), June 11, 1969, 83 Stat. 34, related to grants to the Republic of the Philippines, prior to repeal by section 107(a) of Pub. L. 93–82.
 
 Prior section 632 was renumbered section 1732 of this title.
 
-Another prior section 632, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146; Pub. L. 88–40, June 13, 1963, 77 Stat. 66; Pub. L. 89–612, § 2, Sept. 30, 1966, 80 Stat. 859; Pub. L. 91–24, § 6(c), June 11, 1969, 83 Stat. 34, related to modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948, prior to repeal by section 107(a) of Pub. L. 93–82.
+Another prior section 632, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146; Pub. L. 88–40, June 13, 1963, 77 Stat. 66; Pub. L. 89–612, § 2, Sept. 30, 1966, 80 Stat. 859; Pub. L. 91–24, § 6(c), June 11, 1969, 83 Stat. 34, related to modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948, prior to repeal by section 107(a) of Pub. L. 93–82.
 
 Prior sections 633 to 635 and 641 to 643 were renumbered sections 1733 to 1735 and 1741 to 1743 of this title, respectively.
 
-Prior section 644, added Pub. L. 91–178, § 2(a), Dec. 30, 1969, 83 Stat. 836; amended Pub. L. 93–82, title IV, § 403(b), Aug. 2, 1973, 87 Stat. 196, authorized appropriations to be used for making grants to States which had submitted and had approved applications for assistance in remodeling, modification, or alteration of existing hospital or domiciliary facilities in State homes providing care and treatment for veterans, prior to repeal by Pub. L. 95–62, §§ 2, 5, July 5, 1977, 91 Stat. 262, 263, effective Oct. 1, 1977, but with provision for the continuing force and effect of the terms and conditions of grants made prior to Oct. 1, 1977, under prior section 644 and with additional provision for the modification of the terms and conditions of both grants made under that section prior to Oct. 1, 1977, and of grants made under subchapter III of chapter 81 of this title prior to Oct. 1, 1977.
+Prior section 644, added Pub. L. 91–178, § 2(a), Dec. 30, 1969, 83 Stat. 836; amended Pub. L. 93–82, title IV, § 403(b), Aug. 2, 1973, 87 Stat. 196, authorized appropriations to be used for making grants to States which had submitted and had approved applications for assistance in remodeling, modification, or alteration of existing hospital or domiciliary facilities in State homes providing care and treatment for veterans, prior to repeal by Pub. L. 95–62, §§ 2, 5, July 5, 1977, 91 Stat. 262, 263, effective Oct. 1, 1977, but with provision for the continuing force and effect of the terms and conditions of grants made prior to Oct. 1, 1977, under prior section 644 and with additional provision for the modification of the terms and conditions of both grants made under that section prior to Oct. 1, 1977, and of grants made under subchapter III of chapter 81 of this title prior to Oct. 1, 1977.
 
 Prior sections 651 to 654 and 661 to 664 were renumbered sections 1751 to 1754 and 1761 to 1764 of this title, respectively.
 
 **Amendments**
 
-2022—Subsec. (f). Pub. L. 117–286, § 4(a)(218)(A), substituted “Chapter 10 of Title 5” for “Federal Advisory Committee Act” in heading.
+2022—Subsec. (f). Pub. L. 117–286, § 4(a)(218)(A), substituted “Chapter 10 of Title 5” for “Federal Advisory Committee Act” in heading.
 
-Subsec. (f)(1). Pub. L. 117–286, § 4(a)(218)(B), substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)”.
+Subsec. (f)(1). Pub. L. 117–286, § 4(a)(218)(B), substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-Subsec. (f)(2). Pub. L. 117–286, § 4(a)(218)(C), substituted “Section 1013 of title 5” for “Section 14 of such Act”.
+Subsec. (f)(2). Pub. L. 117–286, § 4(a)(218)(C), substituted “Section 1013 of title 5” for “Section 14 of such Act”.
 
-### § 547. Advisory Committee on Tribal and Indian Affairs
+### § 547. Advisory Committee on Tribal and Indian Affairs
 
 **(a) Establishment.—**
 
@@ -2391,9 +2391,9 @@ Subsec. (f)(2). Pub. L. 117–286, § 4(a)(218)(C), substituted “Section 101
 
 **(h) Committee Personnel Matters.—** A member of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5 while away from the home or regular place of business of the member in the performance of the duties of the Committee.
 
-**(i) Federal Advisory Committee Act Exemption.—** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 1
+**(i) Federal Advisory Committee Act Exemption.—** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall not apply to the Committee.
 
@@ -2425,7 +2425,7 @@ shall not apply to the Committee.
 
 **(7)** The term “urban Indian organization” has the meaning given such term in section 4 of the Indian Health Care Improvement Act (25 U.S.C. 1603).
 
-(Added Pub. L. 116–315, title VII, § 7002(a)(1), Jan. 5, 2021, 134 Stat. 5054.)
+(Added Pub. L. 116–315, title VII, § 7002(a)(1), Jan. 5, 2021, 134 Stat. 5054.)
 
 **Editorial Notes**
 
@@ -2433,13 +2433,13 @@ shall not apply to the Committee.
 
 Section 20003 of the Coronavirus Aid, Relief, and Economic Security Act, referred to in subsec. (d)(1)(B), is section 20003 of Pub. L. 116–136, div. B, title X, Mar. 27, 2020, 134 Stat. 585, which is set out as a Definition of “Public Health Emergency” note under section 303 of this title.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadlines for Establishment, Initial Appointments, and Initial Meeting**
 
-Pub. L. 116–315, title VII, § 7002(b)–(d), Jan. 5, 2021, 134 Stat. 5057, provided that:
+Pub. L. 116–315, title VII, § 7002(b)–(d), Jan. 5, 2021, 134 Stat. 5057, provided that:
 
 > **“(b) Deadline for Establishment.—** The Secretary of Veterans Affairs shall establish the advisory committee required by section 547 of title 38, United States Code, as added by subsection (a)(1), not later than 180 days after the date of the enactment of this Act [Jan. 5, 2021].
 
@@ -2447,7 +2447,7 @@ Pub. L. 116–315, title VII, § 7002(b)–(d), Jan. 5, 2021, 134 Stat. 5057, 
 
 > **“(d) Initial Meeting.—** Not later than 90 days after the date on which the Secretary establishes the advisory committee required by such section, such advisory committee shall hold its first meeting.”
 
-### § 548. Advisory Committee on United States Outlying Areas and Freely Associated States
+### § 548. Advisory Committee on United States Outlying Areas and Freely Associated States
 
 **(a) Establishment.—** The Secretary shall establish an advisory committee, to be known as the “Advisory Committee on United States Outlying Areas and Freely Associated States”, to provide advice and guidance to the Secretary on matters relating to covered veterans.
 
@@ -2587,13 +2587,13 @@ Pub. L. 116–315, title VII, § 7002(b)–(d), Jan. 5, 2021, 134 Stat. 5057, 
 
 **(C)** has demonstrated experience working with covered veterans.
 
-(Added Pub. L. 117–263, div. E, title LI, § 5102(a), Dec. 23, 2022, 136 Stat. 3205.)
+(Added Pub. L. 117–263, div. E, title LI, § 5102(a), Dec. 23, 2022, 136 Stat. 3205.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadlines for Establishment, Initial Appointments, and Initial Meeting**
 
-Pub. L. 117–263, div. E, title LI, § 5102(b)–(d), Dec. 23, 2022, 136 Stat. 3208, provided that:
+Pub. L. 117–263, div. E, title LI, § 5102(b)–(d), Dec. 23, 2022, 136 Stat. 3208, provided that:
 
 > **“(b) Deadline for Establishment.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Veterans Affairs shall establish the advisory committee required by section 548 of title 38, United States Code, as added by subsection (a) of this section.
 

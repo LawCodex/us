@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1984—Pub. L. 98–620 title IV, § 402(29)(G), Nov. 8, 1984, 98 Stat. 3359, struck out item 2647 “Precedence of cases”.
+1984—Pub. L. 98–620 title IV, § 402(29)(G), Nov. 8, 1984, 98 Stat. 3359, struck out item 2647 “Precedence of cases”.
 
-1980—Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1730, substituted “COURT OF INTERNATIONAL TRADE PROCEDURE” for “CUSTOMS COURT PROCEDURE” in chapter heading, “Persons entitled to commence a civil action” for “Time for commencement of action” in item 2631, “Commencement of a civil action” for “Customs Court procedures and fees” in item 2632, “Procedure and fees” for “Precedence of cases” in item 2633, “Filing of official documents” for “Burden of proof; evidence of value” in item 2635, “Time for commencement of action” for “Analysis of imported merchandise” in item 2636, “Exhaustion of administrative remedies” for “Witnesses; inspection of documents” in item 2637, “New grounds in support of a civil action” for “Decisions; findings of fact and conclusions of law; effect of opinions” in item 2638, “Burden of proof; evidence of value” for “Retrial or rehearing” in item 2639, and added items 2640 to 2647.
+1980—Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1730, substituted “COURT OF INTERNATIONAL TRADE PROCEDURE” for “CUSTOMS COURT PROCEDURE” in chapter heading, “Persons entitled to commence a civil action” for “Time for commencement of action” in item 2631, “Commencement of a civil action” for “Customs Court procedures and fees” in item 2632, “Procedure and fees” for “Precedence of cases” in item 2633, “Filing of official documents” for “Burden of proof; evidence of value” in item 2635, “Time for commencement of action” for “Analysis of imported merchandise” in item 2636, “Exhaustion of administrative remedies” for “Witnesses; inspection of documents” in item 2637, “New grounds in support of a civil action” for “Decisions; findings of fact and conclusions of law; effect of opinions” in item 2638, “Burden of proof; evidence of value” for “Retrial or rehearing” in item 2639, and added items 2640 to 2647.
 
-1979—Pub. L. 96–39, title X, § 1001(b)(4)(F), July 26, 1979, 93 Stat. 306, substituted “Precedence of cases” for “Precedence of American manufacturer, producer, or wholesaler cases” in item 2633.
+1979—Pub. L. 96–39, title X, § 1001(b)(4)(F), July 26, 1979, 93 Stat. 306, substituted “Precedence of cases” for “Precedence of American manufacturer, producer, or wholesaler cases” in item 2633.
 
-1970—Pub. L. 91–271, title I, § 123(e), June 2, 1970, 84 Stat. 282, substituted “Time for commencement of action” for “Appeal for reappraisement; assignment to single judge; hearing” in item 2631, “Customs Court procedures and fees” for “Notice” in item 2632, “Precedence of American manufacturer, producer, or wholesaler cases” for “Evidence of value, upon reappraisement; burden of proof” in item 2633, “Notice” for “Witnesses; inspection of documents” in item 2634, “Burden of proof; evidence of value” for “Decision of single judge in reappraisement appeal” in item 2635, “Analysis of imported merchandise” for “Review of single judge’s decision; disqualification of judges; remand; presumption” in item 2636, “Witnesses; inspection of documents” for “Review of decisions of divisions” in item 2637, “Decisions; findings of fact and conclusions of law; effect of opinions” for “Precedence of classification cases” in item 2638, and “Retrial or rehearing” for “Analysis of imported merchandise” in item 2639, and struck out item 2640 “Rehearing or retrial”, item 2641 “Frivolous protest or appeal”, and item 2642 “Amendment of protests, appeals, and pleadings”.
+1970—Pub. L. 91–271, title I, § 123(e), June 2, 1970, 84 Stat. 282, substituted “Time for commencement of action” for “Appeal for reappraisement; assignment to single judge; hearing” in item 2631, “Customs Court procedures and fees” for “Notice” in item 2632, “Precedence of American manufacturer, producer, or wholesaler cases” for “Evidence of value, upon reappraisement; burden of proof” in item 2633, “Notice” for “Witnesses; inspection of documents” in item 2634, “Burden of proof; evidence of value” for “Decision of single judge in reappraisement appeal” in item 2635, “Analysis of imported merchandise” for “Review of single judge’s decision; disqualification of judges; remand; presumption” in item 2636, “Witnesses; inspection of documents” for “Review of decisions of divisions” in item 2637, “Decisions; findings of fact and conclusions of law; effect of opinions” for “Precedence of classification cases” in item 2638, and “Retrial or rehearing” for “Analysis of imported merchandise” in item 2639, and struck out item 2640 “Rehearing or retrial”, item 2641 “Frivolous protest or appeal”, and item 2642 “Amendment of protests, appeals, and pleadings”.
 
-1949—Act May 24, 1949, ch. 139, § 121, 63 Stat. 106, substituted “Amendment of protests, appeals, and pleadings” for “Disqualification of judge” in item 2642.
+1949—Act May 24, 1949, ch. 139, § 121, 63 Stat. 106, substituted “Amendment of protests, appeals, and pleadings” for “Disqualification of judge” in item 2642.
 
-## § 2631. Persons entitled to commence a civil action
+## § 2631. Persons entitled to commence a civil action
 
 **(a)** A civil action contesting the denial of a protest, in whole or in part, under section 515 of the Tariff Act of 1930 may be commenced in the Court of International Trade by the person who filed the protest pursuant to section 514 of such Act, or by a surety on the transaction which is the subject of the protest.
 
@@ -87,13 +87,13 @@ retrieved: 2026-10-11
 
 **(D)** a trade or business association a majority of whose members manufacture, produce, or wholesale a like product in the United States,1
 
-<sup>1</sup>  So in original. The comma probably should be a semicolon.
+<sup>1</sup> So in original. The comma probably should be a semicolon.
 
 and
 
 **(E)** an association composed of members who represent parties-at-interest described in subparagraph (B), (C), or (D).
 
-(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1730; amended Pub. L. 98–573, title II, § 212(b)(3), title VI, § 612(b)(3), Oct. 30, 1984, 98 Stat. 2983, 3034; Pub. L. 103–182, title VI, § 684(a)(2), Dec. 8, 1993, 107 Stat. 2219.)
+(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1730; amended Pub. L. 98–573, title II, § 212(b)(3), title VI, § 612(b)(3), Oct. 30, 1984, 98 Stat. 2983, 3034; Pub. L. 103–182, title VI, § 684(a)(2), Dec. 8, 1993, 107 Stat. 2219.)
 
 **Editorial Notes**
 
@@ -107,7 +107,7 @@ Section 516 of the Tariff Act of 1930, referred to in subsecs. (b), (j)(1)(A), i
 
 Section 516A of the Tariff Act of 1930, referred to in subsecs. (c), (j)(1)(B), is classified to section 1516a of Title 19.
 
-The Trade Act of 1974, referred to in subsec. (d)(1) to (3), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of Title 19. Sections 223, 251, and 271 of the Trade Act of 1974 are classified to sections 2273, 2341, and 2371, respectively, of Title 19. Section 2371 of Title 19 was omitted from the Code as terminated Sept. 30, 1982. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (d)(1) to (3), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of Title 19. Sections 223, 251, and 271 of the Trade Act of 1974 are classified to sections 2273, 2341, and 2371, respectively, of Title 19. Section 2371 of Title 19 was omitted from the Code as terminated Sept. 30, 1982. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
 
 Section 305(b)(1) of the Trade Agreements Act of 1979, referred to in subsecs. (e), (k)(2)(A), is classified to section 2515(b)(1) of Title 19.
 
@@ -121,19 +121,19 @@ Section 771(9) of the Tariff Act of 1930, referred to in subsec. (k)(1), is clas
 
 **Prior Provisions**
 
-A prior section 2631, acts June 25, 1948, ch. 646, 62 Stat. 980; May 24, 1949, ch. 139, § 122, 63 Stat. 106; June 2, 1970, Pub. L. 91–271, title I, § 112, 84 Stat. 278; Jan. 3, 1975, Pub. L. 93–618, title III, § 321(f)(2), 88 Stat. 2048, related to time for commencement of action, prior to the general revision of this chapter by Pub. L. 96–417. See section 2636 of this title.
+A prior section 2631, acts June 25, 1948, ch. 646, 62 Stat. 980; May 24, 1949, ch. 139, § 122, 63 Stat. 106; June 2, 1970, Pub. L. 91–271, title I, § 112, 84 Stat. 278; Jan. 3, 1975, Pub. L. 93–618, title III, § 321(f)(2), 88 Stat. 2048, related to time for commencement of action, prior to the general revision of this chapter by Pub. L. 96–417. See section 2636 of this title.
 
 **Amendments**
 
 1993—Subsec. (g)(3). Pub. L. 103–182 added par. (3).
 
-1984—Subsec. (g). Pub. L. 98–573, § 212(b)(3), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows:
+1984—Subsec. (g). Pub. L. 98–573, § 212(b)(3), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows:
 
 “(1) A civil action to review any decision of the Secretary of the Treasury to deny or revoke a customhouse broker’s license under section 641(a) of the Tariff Act of 1930 may be commenced in the Court of International Trade by the person whose license was denied or revoked.
 
 “(2) A civil action to review any order of the Secretary of the Treasury to revoke or suspend a customhouse broker’s license under section 641(b) of the Tariff Act of 1930 may be commenced in the Court of International Trade by the person whose license was revoked or suspended.”
 
-Subsec. (k)(2)(E). Pub. L. 98–573, § 612(b)(3), added subpar. (E).
+Subsec. (k)(2)(E). Pub. L. 98–573, § 612(b)(3), added subpar. (E).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -157,7 +157,7 @@ For purposes of applying amendment by Pub. L. 103–182, any decision or order o
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 2632. Commencement of a civil action
+## § 2632. Commencement of a civil action
 
 **(a)** Except for civil actions specified in subsections (b) and (c) of this section, a civil action in the Court of International Trade shall be commenced by filing concurrently with the clerk of the court a summons and complaint, with the content and in the form, manner, and style prescribed by the rules of the court.
 
@@ -167,7 +167,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **(d)** The Court of International Trade may prescribe by rule that any summons, pleading, or other paper mailed by registered or certified mail properly addressed to the clerk of the court with the proper postage affixed and return receipt requested shall be deemed filed as of the date of mailing.
 
-(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1732.)
+(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1732.)
 
 **Editorial Notes**
 
@@ -179,7 +179,7 @@ Section 516A of the Tariff Act of 1930, referred to in subsec. (c), is classifie
 
 **Prior Provisions**
 
-A prior section 2632, acts June 25, 1948, ch. 646, 62 Stat. 980; June 2, 1970, Pub. L. 91–271, title I, § 113, 84 Stat. 279; Jan. 3, 1975, Pub. L. 93–618, title III, § 321(f)(3), 88 Stat. 2048; July 26, 1979, Pub. L. 96–39, title X, § 1001(b)(4)(C), 93 Stat. 306, related to Customs Court procedure and fees, prior to the general revision of this chapter by Pub. L. 96–417. See section 2633 of this title.
+A prior section 2632, acts June 25, 1948, ch. 646, 62 Stat. 980; June 2, 1970, Pub. L. 91–271, title I, § 113, 84 Stat. 279; Jan. 3, 1975, Pub. L. 93–618, title III, § 321(f)(3), 88 Stat. 2048; July 26, 1979, Pub. L. 96–39, title X, § 1001(b)(4)(C), 93 Stat. 306, related to Customs Court procedure and fees, prior to the general revision of this chapter by Pub. L. 96–417. See section 2633 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -187,7 +187,7 @@ A prior section 2632, acts June 25, 1948, ch. 646, 62 Stat. 980; June 2, 1970, P
 
 Subsec. (a) of this section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(B) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
 
-## § 2633. Procedure and fees
+## § 2633. Procedure and fees
 
 **(a)** A filing fee shall be payable to the clerk of the Court of International Trade upon the commencement of a civil action in such court. The amount of the fee shall be prescribed by the rules of the court, but shall be not less than $5 nor more than the filing fee for commencing a civil action in a district court of the United States. The court may fix all other fees to be charged by the clerk of the court.
 
@@ -195,27 +195,27 @@ Subsec. (a) of this section applicable with respect to civil actions commenced o
 
 **(c)** All summons, pleadings, and other papers filed in the Court of International Trade shall be served on all parties in accordance with rules prescribed by the court. When the United States, its agencies, or its officers are adverse parties, service of the summons shall be made upon the Attorney General and the head of the Government agency whose action is being contested. When injunctive relief is sought, the summons, pleadings, and other papers shall also be served upon the named officials sought to be enjoined.
 
-(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1732.)
+(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1732.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2633, acts June 25, 1948, ch. 646, 62 Stat. 980; June 2, 1970, Pub. L. 91–271, title I, § 114, 84 Stat. 279; July 26, 1979, Pub. L. 96–39, title X, § 1001(b)(4)(D), 93 Stat. 306, related to precedence of cases, prior to the general revision of this chapter by Pub. L. 96–417. See section 2647 of this title.
+A prior section 2633, acts June 25, 1948, ch. 646, 62 Stat. 980; June 2, 1970, Pub. L. 91–271, title I, § 114, 84 Stat. 279; July 26, 1979, Pub. L. 96–39, title X, § 1001(b)(4)(D), 93 Stat. 306, related to precedence of cases, prior to the general revision of this chapter by Pub. L. 96–417. See section 2647 of this title.
 
-## § 2634. Notice
+## § 2634. Notice
 
 Reasonable notice of the time and place of trial or hearing before the Court of International Trade shall be given to all parties to any civil action, as prescribed by the rules of the court.
 
-(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1733.)
+(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1733.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2634, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, Pub. L. 91–271, title I, § 115, 84 Stat. 280, related to notice, prior to the general revision of this chapter by Pub. L. 96–417. See section 2634 of this title.
+A prior section 2634, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, Pub. L. 91–271, title I, § 115, 84 Stat. 280, related to notice, prior to the general revision of this chapter by Pub. L. 96–417. See section 2634 of this title.
 
-## § 2635. Filing of official documents
+## § 2635. Filing of official documents
 
 **(a)** In any action commenced in the Court of International Trade contesting the denial of a protest under section 515 of the Tariff Act of 1930 or the denial of a petition under section 516 of such Act, the Customs Service, as prescribed by the rules of the court, shall file with the clerk of the court, as part of the official record, any document, paper, information or data relating to the entry of merchandise and the administrative determination that is the subject of the protest or petition.
 
@@ -247,17 +247,17 @@ A prior section 2634, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, P
 
 **(3)** The parties may stipulate that fewer documents, comments, or other information than those specified in paragraph (1) of this subsection shall be transmitted to the clerk of the court.
 
-(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1733; amended Pub. L. 103–182, title VI, § 684(d), Dec. 8, 1993, 107 Stat. 2219.)
+(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1733; amended Pub. L. 103–182, title VI, § 684(d), Dec. 8, 1993, 107 Stat. 2219.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Tariff Act of 1930, referred to in subsecs. (a), (b)(1), and (c), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Tariff Act of 1930 is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of Title 19, Customs Duties. Sections 515, 516, 516A, and 777 of the Tariff Act of 1930 are classified to sections 1515, 1516, 1516a, and 1677f, respectively, of Title 19. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, referred to in subsecs. (a), (b)(1), and (c), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Tariff Act of 1930 is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of Title 19, Customs Duties. Sections 515, 516, 516A, and 777 of the Tariff Act of 1930 are classified to sections 1515, 1516, 1516a, and 1677f, respectively, of Title 19. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 **Prior Provisions**
 
-A prior section 2635, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, Pub. L. 91–271, title I, § 116, 84 Stat. 280, related to burden of proof and evidence of value, prior to the general revision of this chapter by Pub. L. 96–417. See section 2639 of this title.
+A prior section 2635, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, Pub. L. 91–271, title I, § 116, 84 Stat. 280, related to burden of proof and evidence of value, prior to the general revision of this chapter by Pub. L. 96–417. See section 2639 of this title.
 
 **Amendments**
 
@@ -295,7 +295,7 @@ Section applicable with respect to civil actions commenced on or after Nov. 1, 1
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 2636. Time for commencement of action
+## § 2636. Time for commencement of action
 
 **(a)** A civil action contesting the denial, in whole or in part, of a protest under section 515 of the Tariff Act of 1930 is barred unless commenced in accordance with the rules of the Court of International Trade—
 
@@ -319,7 +319,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **(i)** A civil action of which the Court of International Trade has jurisdiction under section 1581 of this title, other than an action specified in subsections (a)–(h) of this section, is barred unless commenced in accordance with the rules of the court within two years after the cause of action first accrues.
 
-(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1734; amended Pub. L. 98–573, title II, § 212(b)(4), title VI, § 623(b)(1), Oct. 30, 1984, 98 Stat. 2984, 3041; Pub. L. 103–182, title VI, § 684(a)(3), Dec. 8, 1993, 107 Stat. 2219.)
+(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1734; amended Pub. L. 98–573, title II, § 212(b)(4), title VI, § 623(b)(1), Oct. 30, 1984, 98 Stat. 2984, 3041; Pub. L. 103–182, title VI, § 684(a)(3), Dec. 8, 1993, 107 Stat. 2219.)
 
 **Editorial Notes**
 
@@ -345,23 +345,23 @@ Section 499(b) of the Tariff Act of 1930, referred to in subsec. (h), is classif
 
 **Prior Provisions**
 
-A prior section 2636, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, Pub. L. 91–271, title I, § 117, 84 Stat. 280, related to analysis of imported merchandise, prior to the general revision of this chapter by Pub. L. 96–417. See section 2642 of this title.
+A prior section 2636, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, Pub. L. 91–271, title I, § 117, 84 Stat. 280, related to analysis of imported merchandise, prior to the general revision of this chapter by Pub. L. 96–417. See section 2642 of this title.
 
 **Amendments**
 
 1993—Subsecs. (h), (i). Pub. L. 103–182 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1984—Subsec. (c). Pub. L. 98–573, § 623(b)(1)(A), amended subsec. (c) generally, striking out “, other than a determination under section 703(b), 703(c), 733(b), or 733(c) of such Act,” and substituting “within the time specified in such section” for “within thirty days after the date of the publication of such determination in the Federal Register”.
+1984—Subsec. (c). Pub. L. 98–573, § 623(b)(1)(A), amended subsec. (c) generally, striking out “, other than a determination under section 703(b), 703(c), 733(b), or 733(c) of such Act,” and substituting “within the time specified in such section” for “within thirty days after the date of the publication of such determination in the Federal Register”.
 
-Subsec. (d). Pub. L. 98–573, § 623(b)(1)(B), redesignated subsec. (e) as (d). Former subsec. (d), which provided that civil actions contesting certain determinations by the administering authority under sections 703(b), (c), and 733(b), (c), of the Tariff Act of 1930 were barred unless commenced in accordance with the rules of the Court of International Trade within 10 days after publication of the determination in the Federal Register, was struck out.
+Subsec. (d). Pub. L. 98–573, § 623(b)(1)(B), redesignated subsec. (e) as (d). Former subsec. (d), which provided that civil actions contesting certain determinations by the administering authority under sections 703(b), (c), and 733(b), (c), of the Tariff Act of 1930 were barred unless commenced in accordance with the rules of the Court of International Trade within 10 days after publication of the determination in the Federal Register, was struck out.
 
-Subsecs. (e) to (g). Pub. L. 98–573, § 623(b)(1)(B), redesignated subsecs. (f) to (h) as (e) to (g), respectively. Former subsec. (e) redesignated (d).
+Subsecs. (e) to (g). Pub. L. 98–573, § 623(b)(1)(B), redesignated subsecs. (f) to (h) as (e) to (g), respectively. Former subsec. (e) redesignated (d).
 
-Subsec. (h). Pub. L. 98–573, § 623(b)(1)(B), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+Subsec. (h). Pub. L. 98–573, § 623(b)(1)(B), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-Pub. L. 98–573, § 212(b)(4), amended subsec. (h) generally, substituting “customs broker’s license or permit under subsection (b) or (c) of section 641 of the Tariff Act of 1930, or the revocation or suspension of such license or permit or the imposition of a monetary penalty in lieu thereof by such Secretary under section 641(d) of such Act,” for “customhouse broker’s license under section 641(a) of the Tariff Act of 1930 or the revocation or suspension by such Secretary of a customhouse broker’s license under section 641(b) of such Act”.
+Pub. L. 98–573, § 212(b)(4), amended subsec. (h) generally, substituting “customs broker’s license or permit under subsection (b) or (c) of section 641 of the Tariff Act of 1930, or the revocation or suspension of such license or permit or the imposition of a monetary penalty in lieu thereof by such Secretary under section 641(d) of such Act,” for “customhouse broker’s license under section 641(a) of the Tariff Act of 1930 or the revocation or suspension by such Secretary of a customhouse broker’s license under section 641(b) of such Act”.
 
-Subsec. (i). Pub. L. 98–573, § 623(b)(1)(B), redesignated subsec. (i) as (h).
+Subsec. (i). Pub. L. 98–573, § 623(b)(1)(B), redesignated subsec. (i) as (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -383,7 +383,7 @@ For purposes of applying amendment by Pub. L. 103–182, any decision or order o
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 2637. Exhaustion of administrative remedies
+## § 2637. Exhaustion of administrative remedies
 
 **(a)** A civil action contesting the denial of a protest under section 515 of the Tariff Act of 1930 may be commenced in the Court of International Trade only if all liquidated duties, charges, or exactions have been paid at the time the action is commenced, except that a surety’s obligation to pay such liquidated duties, charges, or exactions is limited to the sum of any bond related to each entry included in the denied protest.
 
@@ -393,7 +393,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **(d)** In any civil action not specified in this section, the Court of International Trade shall, where appropriate, require the exhaustion of administrative remedies.
 
-(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1735.)
+(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1735.)
 
 **Editorial Notes**
 
@@ -405,7 +405,7 @@ Section 516 of the Tariff Act of 1930, referred to in subsec. (b), is classified
 
 **Prior Provisions**
 
-A prior section 2637, acts June 25, 1948, ch. 646, 62 Stat. 982; June 2, 1970, Pub. L. 91–271, title I, § 118, 84 Stat. 280; July 26, 1979, Pub. L. 96–39, title X, § 1001(b)(4)(E), 93 Stat. 306, related to witnesses and inspection of documents, prior to the general revision of this chapter by Pub. L. 96–417. See section 2641 of this title.
+A prior section 2637, acts June 25, 1948, ch. 646, 62 Stat. 982; June 2, 1970, Pub. L. 91–271, title I, § 118, 84 Stat. 280; July 26, 1979, Pub. L. 96–39, title X, § 1001(b)(4)(E), 93 Stat. 306, related to witnesses and inspection of documents, prior to the general revision of this chapter by Pub. L. 96–417. See section 2641 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -413,7 +413,7 @@ A prior section 2637, acts June 25, 1948, ch. 646, 62 Stat. 982; June 2, 1970, P
 
 Subsec. (c) of this section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(B) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
 
-## § 2638. New grounds in support of a civil action
+## § 2638. New grounds in support of a civil action
 
 In any civil action under section 515 of the Tariff Act of 1930 in which the denial, in whole or in part, of a protest is a precondition to the commencement of a civil action in the Court of International Trade, the court, by rule, may consider any new ground in support of the civil action if such new ground—
 
@@ -421,7 +421,7 @@ In any civil action under section 515 of the Tariff Act of 1930 in which the den
 
 **(2)** is related to the same administrative decision listed in section 514 of the Tariff Act of 1930 that was contested in the protest.
 
-(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1736.)
+(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1736.)
 
 **Editorial Notes**
 
@@ -433,9 +433,9 @@ Section 514 of the Tariff Act of 1930, referred to in par. (2), is classified to
 
 **Prior Provisions**
 
-A prior section 2638, acts June 25, 1948, ch. 646, 62 Stat. 982; June 2, 1970, Pub. L. 91–271, title I, § 119, 84 Stat. 281, related to decisions, findings of fact and conclusions of law, and effect of opinions, prior to the general revision of this chapter by Pub. L. 96–417. See section 2645 (a) and (c) of this title.
+A prior section 2638, acts June 25, 1948, ch. 646, 62 Stat. 982; June 2, 1970, Pub. L. 91–271, title I, § 119, 84 Stat. 281, related to decisions, findings of fact and conclusions of law, and effect of opinions, prior to the general revision of this chapter by Pub. L. 96–417. See section 2645 (a) and (c) of this title.
 
-## § 2639. Burden of proof; evidence of value
+## § 2639. Burden of proof; evidence of value
 
 **(a)**
 
@@ -451,7 +451,7 @@ A prior section 2638, acts June 25, 1948, ch. 646, 62 Stat. 982; June 2, 1970, P
 
 **(2)** price lists and catalogs may be admitted in evidence when duly authenticated, relevant, and material.
 
-(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1736.)
+(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1736.)
 
 **Editorial Notes**
 
@@ -461,7 +461,7 @@ Sections 515, 516, and 516A of the Tariff Act of 1930, referred to in subsec. (a
 
 **Prior Provisions**
 
-A prior section 2639, acts June 25, 1948, ch. 646, 62 Stat. 982; June 2, 1970, Pub. L. 91–271, title I, § 120, 84 Stat. 281, provided for retrial or rehearing, prior to the general revision of this chapter by Pub. L. 96–417. See section 2646 of this title.
+A prior section 2639, acts June 25, 1948, ch. 646, 62 Stat. 982; June 2, 1970, Pub. L. 91–271, title I, § 120, 84 Stat. 281, provided for retrial or rehearing, prior to the general revision of this chapter by Pub. L. 96–417. See section 2646 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -471,7 +471,7 @@ Subsec. (a)(2) of this section applicable with respect to civil actions commence
 
 Subsec. (b) of this section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(B) of Pub. L. 96–417.
 
-## § 2640. Scope and standard of review
+## § 2640. Scope and standard of review
 
 **(a)** The Court of International Trade shall make its determinations upon the basis of the record made before the court in the following categories of civil actions:
 
@@ -495,7 +495,7 @@ Subsec. (b) of this section applicable with respect to civil actions commenced o
 
 **(e)** In any civil action not specified in this section, the Court of International Trade shall review the matter as provided in section 706 of title 5.
 
-(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1736; amended Pub. L. 98–573, title II, § 212(b)(5), Oct. 30, 1984, 98 Stat. 2984; Pub. L. 103–182, title VI, § 684(a)(4), Dec. 8, 1993, 107 Stat. 2219.)
+(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1736; amended Pub. L. 98–573, title II, § 212(b)(5), Oct. 30, 1984, 98 Stat. 2984; Pub. L. 103–182, title VI, § 684(a)(4), Dec. 8, 1993, 107 Stat. 2219.)
 
 **Editorial Notes**
 
@@ -519,7 +519,7 @@ Section 499(b) of the Tariff Act of 1930, referred to in subsec. (d), is classif
 
 **Prior Provisions**
 
-A prior section 2640, act June 25, 1948, ch. 646, 62 Stat. 982, authorized the division which had decided a case or the single judge who had decided an appeal for a reappraisement to grant a rehearing or retrial, prior to repeal by Pub. L. 91–271, title I, § 121, June 2, 1970, 84 Stat. 281. See section 2646 of this title.
+A prior section 2640, act June 25, 1948, ch. 646, 62 Stat. 982, authorized the division which had decided a case or the single judge who had decided an appeal for a reappraisement to grant a rehearing or retrial, prior to repeal by Pub. L. 91–271, title I, § 121, June 2, 1970, 84 Stat. 281. See section 2646 of this title.
 
 **Amendments**
 
@@ -547,13 +547,13 @@ For purposes of applying amendment by Pub. L. 103–182, any decision or order o
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 2641. Witnesses; inspection of documents
+## § 2641. Witnesses; inspection of documents
 
 **(a)** Except as otherwise provided by law, in any civil action in the Court of International Trade, each party and its counsel shall have an opportunity to introduce evidence, to hear and cross-examine the witnesses of the other party, and to inspect all samples and papers admitted or offered as evidence, as prescribed by the rules of the court. Except as provided in section 2639 of this title, subsection (b) of this section, or the rules of the court, the Federal Rules of Evidence shall apply to all civil actions in the Court of International Trade.
 
 **(b)** The Court of International Trade may order that trade secrets and commercial or financial information which is privileged and confidential, or any information provided to the United States by any foreign government or foreign person, may be disclosed to a party, its counsel, or any other person under such terms and conditions as the court may order.
 
-(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1737.)
+(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1737.)
 
 **Editorial Notes**
 
@@ -563,13 +563,13 @@ The Federal Rules of Evidence, referred to in subsec. (a), are set out in the Ap
 
 **Prior Provisions**
 
-A prior section 2641, act June 25, 1948, ch. 646, 62 Stat. 982, authorized the Customs Court to assess a penalty of not less than $5 nor more than $250 against any person filing a frivolous protest or appeal, prior to repeal by Pub. L. 91–271, title I, § 121, June 2, 1970, 84 Stat. 281.
+A prior section 2641, act June 25, 1948, ch. 646, 62 Stat. 982, authorized the Customs Court to assess a penalty of not less than $5 nor more than $250 against any person filing a frivolous protest or appeal, prior to repeal by Pub. L. 91–271, title I, § 121, June 2, 1970, 84 Stat. 281.
 
-## § 2642. Analysis of imported merchandise
+## § 2642. Analysis of imported merchandise
 
 The Court of International Trade may order an analysis of imported merchandise and reports thereon by laboratories or agencies of the United States or laboratories accredited by the Customs Service under section 499(b) of the Tariff Act of 1930.
 
-(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1737; amended Pub. L. 103–182, title VI, § 684(a)(5), Dec. 8, 1993, 107 Stat. 2219.)
+(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1737; amended Pub. L. 103–182, title VI, § 684(a)(5), Dec. 8, 1993, 107 Stat. 2219.)
 
 **Editorial Notes**
 
@@ -579,7 +579,7 @@ Section 499(b) of the Tariff Act of 1930, referred to in text, is classified to 
 
 **Prior Provisions**
 
-A prior section 2642, act May 24, 1949, ch. 139, § 123, 63 Stat. 106, authorized the Customs Court under its rules and in its discretion to permit the amendment of protests, appeals and pleadings, prior to repeal by Pub. L. 91–271, title I, § 121, June 2, 1970, 84 Stat. 281. See section 2633(b) of this title.
+A prior section 2642, act May 24, 1949, ch. 139, § 123, 63 Stat. 106, authorized the Customs Court under its rules and in its discretion to permit the amendment of protests, appeals and pleadings, prior to repeal by Pub. L. 91–271, title I, § 121, June 2, 1970, 84 Stat. 281. See section 2633(b) of this title.
 
 **Amendments**
 
@@ -595,7 +595,7 @@ For purposes of applying amendment by Pub. L. 103–182, any decision or order o
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 2643. Relief
+## § 2643. Relief
 
 **(a)** The Court of International Trade may enter a money judgment—
 
@@ -621,7 +621,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **(e)** In any proceeding involving assessment or collection of a monetary penalty under section 641(b)(6) or 641(d)(2)(A) of the Tariff Act of 1930, the court may not render judgment in an amount greater than that sought in the initial pleading of the United States, and may render judgment in such lesser amount as shall seem proper and just to the court.
 
-(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1737; amended Pub. L. 98–573, title II, § 212(b)(6), Oct. 30, 1984, 98 Stat. 2984; Pub. L. 100–449, title IV, § 402(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title IV, § 414(b), Dec. 8, 1993, 107 Stat. 2147; Pub. L. 116–113, title IV, § 423(b), Jan. 29, 2020, 134 Stat. 66.)
+(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1737; amended Pub. L. 98–573, title II, § 212(b)(6), Oct. 30, 1984, 98 Stat. 2984; Pub. L. 100–449, title IV, § 402(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title IV, § 414(b), Dec. 8, 1993, 107 Stat. 2147; Pub. L. 116–113, title IV, § 423(b), Jan. 29, 2020, 134 Stat. 66.)
 
 **Amendment of Section**
 
@@ -675,11 +675,11 @@ Subsecs. (a) and (c)(2), (4) of this section applicable with respect to civil ac
 
 For provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see section 4601 of Title 19, Customs Duties.
 
-## § 2644. Interest
+## § 2644. Interest
 
 If, in a civil action in the Court of International Trade under section 515 of the Tariff Act of 1930, the plaintiff obtains monetary relief by a judgment or under a stipulation agreement, interest shall be allowed at an annual rate established under section 6621 of the Internal Revenue Code of 1986. Such interest shall be calculated from the date of the filing of the summons in such action to the date of the refund.
 
-(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1738; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1738; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Editorial Notes**
 
@@ -699,7 +699,7 @@ Section 6621 of the Internal Revenue Code of 1986, referred to in text, is class
 
 Section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(B) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
 
-## § 2645. Decisions
+## § 2645. Decisions
 
 **(a)** A final decision of the Court of International Trade in a contested civil action or a decision granting or refusing a preliminary injunction shall be supported by—
 
@@ -711,7 +711,7 @@ Section applicable with respect to civil actions commenced on or after Nov. 1, 1
 
 **(c)** A decision of the Court of International Trade is final and conclusive, unless a retrial or rehearing is granted pursuant to section 2646 of this title or an appeal is taken to the Court of Appeals for the Federal Circuit by filing a notice of appeal with the clerk of the Court of International Trade within the time and in the manner prescribed for appeals to United States courts of appeals from the United States district courts.
 
-(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1738; amended Pub. L. 97–164, title I, § 141, Apr. 2, 1982, 96 Stat. 45.)
+(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1738; amended Pub. L. 97–164, title I, § 141, Apr. 2, 1982, 96 Stat. 45.)
 
 **Editorial Notes**
 
@@ -725,15 +725,15 @@ Section applicable with respect to civil actions commenced on or after Nov. 1, 1
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 2646. Retrial or rehearing
+## § 2646. Retrial or rehearing
 
 After the Court of International Trade has rendered a judgment or order, the court may, upon the motion of a party or upon its own motion, grant a retrial or rehearing, as the case may be. A motion of a party or the court shall be made not later than thirty days after the date of entry of the judgment or order.
 
-(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1739.)
+(Added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1739.)
 
-## [§ 2647. Repealed. Pub. L. 98–620, title IV, § 402(29)(G), Nov. 8, 1984, 98 Stat. 3359]
+## [§ 2647. Repealed. Pub. L. 98–620, title IV, § 402(29)(G), Nov. 8, 1984, 98 Stat. 3359]
 
-Section, added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1739; amended Pub. L. 98–573, title VI, § 623(b)(2), Oct. 30, 1984, 98 Stat. 3041, related to precedence of cases.
+Section, added Pub. L. 96–417, title III, § 301, Oct. 10, 1980, 94 Stat. 1739; amended Pub. L. 98–573, title VI, § 623(b)(2), Oct. 30, 1984, 98 Stat. 3041, related to precedence of cases.
 
 **Statutory Notes and Related Subsidiaries**
 

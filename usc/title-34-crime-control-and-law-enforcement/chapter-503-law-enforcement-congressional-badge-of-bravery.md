@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 503—LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY
 
-## § 50301. Definitions
+## § 50301. Definitions
 
 In this chapter:
 
@@ -83,7 +83,7 @@ The term “State or local agency head” means the head of any executive, legis
 
 **(ii)** the protection of Federal, State, local, or foreign government officials against threats to personal safety.
 
-(Pub. L. 110–298, § 2, July 31, 2008, 122 Stat. 2985.)
+(Pub. L. 110–298, § 2, July 31, 2008, 122 Stat. 2985.)
 
 **Editorial Notes**
 
@@ -99,11 +99,11 @@ For short title of Pub. L. 110–298, which is classified to this chapter, as th
 
 ## SUBCHAPTER I—FEDERAL LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY
 
-### § 50311. Authorization of a Badge
+### § 50311. Authorization of a Badge
 
 The Attorney General may award, and a Member of Congress or the Attorney General may present, in the name of Congress a Federal Law Enforcement Congressional Badge of Bravery to a Federal law enforcement officer who is cited by the Attorney General, upon the recommendation of the Federal Board, for performing an act of bravery while in the line of duty.
 
-(Pub. L. 110–298, title I, § 101, July 31, 2008, 122 Stat. 2986.)
+(Pub. L. 110–298, title I, § 101, July 31, 2008, 122 Stat. 2986.)
 
 **Editorial Notes**
 
@@ -111,7 +111,7 @@ The Attorney General may award, and a Member of Congress or the Attorney General
 
 Section was formerly classified to section 15241 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 50312. Nominations
+### § 50312. Nominations
 
 **(a) In general** A Federal agency head may nominate for a Federal Law Enforcement Badge an individual—
 
@@ -151,7 +151,7 @@ Section was formerly classified to section 15241 of Title 42, The Public Health 
 
 A Federal agency head shall submit each nomination under subsection (a) to the Office not later than February 15 of the year following the date on which the nominee performed the act of bravery described in subsection (a).
 
-(Pub. L. 110–298, title I, § 102, July 31, 2008, 122 Stat. 2986.)
+(Pub. L. 110–298, title I, § 102, July 31, 2008, 122 Stat. 2986.)
 
 **Editorial Notes**
 
@@ -159,7 +159,7 @@ A Federal agency head shall submit each nomination under subsection (a) to the O
 
 Section was formerly classified to section 15242 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 50313. Federal Law Enforcement Congressional Badge of Bravery Board
+### § 50313. Federal Law Enforcement Congressional Badge of Bravery Board
 
 **(a) Establishment**
 
@@ -265,7 +265,7 @@ Federal Board members who serve as officers or employees of the Federal Governme
 
 Each Federal Board member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
 
-(Pub. L. 110–298, title I, § 103, July 31, 2008, 122 Stat. 2987.)
+(Pub. L. 110–298, title I, § 103, July 31, 2008, 122 Stat. 2987.)
 
 **Editorial Notes**
 
@@ -273,7 +273,7 @@ Each Federal Board member shall receive travel expenses, including per diem in l
 
 Section was formerly classified to section 15243 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 50314. Presentation of Federal Law Enforcement Badges
+### § 50314. Presentation of Federal Law Enforcement Badges
 
 **(a) Presentation by Member of Congress**
 
@@ -287,7 +287,7 @@ If no Member of Congress chooses to present the Federal Law Enforcement Badge as
 
 The office of the Member of Congress presenting each Federal Law Enforcement Badge may make arrangements for the presentation of such Federal Law Enforcement Badge, and if a Senator and Representative choose to participate jointly as described in subsection (a), the Members shall make joint arrangements. The Federal Board shall facilitate any such presentation arrangements as requested by the congressional office presenting the Federal Law Enforcement Badge and shall make arrangements in cases not undertaken by Members of Congress.
 
-(Pub. L. 110–298, title I, § 104, July 31, 2008, 122 Stat. 2989.)
+(Pub. L. 110–298, title I, § 104, July 31, 2008, 122 Stat. 2989.)
 
 **Editorial Notes**
 
@@ -297,11 +297,11 @@ Section was formerly classified to section 15244 of Title 42, The Public Health 
 
 ## SUBCHAPTER II—STATE AND LOCAL LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY
 
-### § 50321. Authorization of a Badge
+### § 50321. Authorization of a Badge
 
 The Attorney General may award, and a Member of Congress or the Attorney General may present, in the name of Congress a State and Local Law Enforcement Congressional Badge of Bravery to a State or local law enforcement officer who is cited by the Attorney General, upon the recommendation of the State and Local Board, for performing an act of bravery while in the line of duty.
 
-(Pub. L. 110–298, title II, § 201, July 31, 2008, 122 Stat. 2990.)
+(Pub. L. 110–298, title II, § 201, July 31, 2008, 122 Stat. 2990.)
 
 **Editorial Notes**
 
@@ -309,7 +309,7 @@ The Attorney General may award, and a Member of Congress or the Attorney General
 
 Section was formerly classified to section 15251 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 50322. Nominations
+### § 50322. Nominations
 
 **(a) In general** A State or local agency head may nominate for a State and Local Law Enforcement Badge an individual—
 
@@ -349,7 +349,7 @@ Section was formerly classified to section 15251 of Title 42, The Public Health 
 
 A State or local agency head shall submit each nomination under subsection (a) to the Office not later than February 15 of the year following the date on which the nominee performed the act of bravery described in subsection (a).
 
-(Pub. L. 110–298, title II, § 202, July 31, 2008, 122 Stat. 2990.)
+(Pub. L. 110–298, title II, § 202, July 31, 2008, 122 Stat. 2990.)
 
 **Editorial Notes**
 
@@ -357,7 +357,7 @@ A State or local agency head shall submit each nomination under subsection (a) t
 
 Section was formerly classified to section 15252 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 50323. State and Local Law Enforcement Congressional Badge of Bravery Board
+### § 50323. State and Local Law Enforcement Congressional Badge of Bravery Board
 
 **(a) Establishment**
 
@@ -467,7 +467,7 @@ State and Local Board members who serve as officers or employees of the Federal 
 
 Each State and Local Board member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
 
-(Pub. L. 110–298, title II, § 203, July 31, 2008, 122 Stat. 2991.)
+(Pub. L. 110–298, title II, § 203, July 31, 2008, 122 Stat. 2991.)
 
 **Editorial Notes**
 
@@ -475,7 +475,7 @@ Each State and Local Board member shall receive travel expenses, including per d
 
 Section was formerly classified to section 15253 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 50324. Presentation of State and Local Law Enforcement Badges
+### § 50324. Presentation of State and Local Law Enforcement Badges
 
 **(a) Presentation by Member of Congress**
 
@@ -489,7 +489,7 @@ If no Member of Congress chooses to present the State and Local Law Enforcement 
 
 The office of the Member of Congress presenting each State and Local Law Enforcement Badge may make arrangements for the presentation of such State and Local Law Enforcement Badge, and if a Senator and Representative choose to participate jointly as described in subsection (a), the Members shall make joint arrangements. The State and Local Board shall facilitate any such presentation arrangements as requested by the congressional office presenting the State and Local Law Enforcement Badge and shall make arrangements in cases not undertaken by Members of Congress.
 
-(Pub. L. 110–298, title II, § 204, July 31, 2008, 122 Stat. 2993.)
+(Pub. L. 110–298, title II, § 204, July 31, 2008, 122 Stat. 2993.)
 
 **Editorial Notes**
 
@@ -499,7 +499,7 @@ Section was formerly classified to section 15254 of Title 42, The Public Health 
 
 ## SUBCHAPTER III—CONGRESSIONAL BADGE OF BRAVERY OFFICE
 
-### § 50331. Congressional Badge of Bravery Office
+### § 50331. Congressional Badge of Bravery Office
 
 **(a) Establishment**
 
@@ -513,7 +513,7 @@ There is established within the Department of Justice a Congressional Badge of B
 
 **(3)** provide staff support to the Federal Board and the State and Local Board to carry out the duties described in section 50313(b) and section 50323(b) of this title, respectively.
 
-(Pub. L. 110–298, title III, § 301, July 31, 2008, 122 Stat. 2994.)
+(Pub. L. 110–298, title III, § 301, July 31, 2008, 122 Stat. 2994.)
 
 **Editorial Notes**
 

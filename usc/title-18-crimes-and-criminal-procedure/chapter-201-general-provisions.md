@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2015—Pub. L. 114–22, title I, § 101(b), May 29, 2015, 129 Stat. 230, added item 3014.
+2015—Pub. L. 114–22, title I, § 101(b), May 29, 2015, 129 Stat. 230, added item 3014.
 
-1984—Pub. L. 98–473, title II, §§ 218(c), 1405(b), Oct. 12, 1984, 98 Stat. 2027, 2175, added item 3013 and substituted “Repealed” for “Orders respecting persons in custody” in item 3012.
+1984—Pub. L. 98–473, title II, §§ 218(c), 1405(b), Oct. 12, 1984, 98 Stat. 2027, 2175, added item 3013 and substituted “Repealed” for “Orders respecting persons in custody” in item 3012.
 
-1964—Pub. L. 88–455, § 4, Aug. 20, 1964, 78 Stat. 554, added item 3006A.
+1964—Pub. L. 88–455, § 4, Aug. 20, 1964, 78 Stat. 554, added item 3006A.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Video Teleconferencing for Criminal Proceedings**
 
-Pub. L. 116–136, div. B, title V, § 15002, Mar. 27, 2020, 134 Stat. 527, provided that:
+Pub. L. 116–136, div. B, title V, § 15002, Mar. 27, 2020, 134 Stat. 527, provided that:
 
 > **“(a) Definition.—** In this section, the term ‘covered emergency period’ means the period beginning on the date on which the President declared a national emergency under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to the Coronavirus Disease 2019 (COVID–19) [declaration issued Mar. 13, 2020, beginning Mar. 1, 2020, see 85 F.R. 15337] and ending on the date that is 30 days after the date on which the national emergency declaration terminates.
 
@@ -89,7 +89,7 @@ Pub. L. 116–136, div. B, title V, § 15002, Mar. 27, 2020, 134 Stat. 527, pr
 
 **Law Enforcement Assistance Act of 1965**
 
-Note regarding Pub. L. 89–197, §§ 1–11, Sept. 22, 1965, 79 Stat. 828, which was amended and subsequently repealed, has been editorially reclassified in a note preceding section 10101 of Title 34, Crime Control and Law Enforcement.
+Note regarding Pub. L. 89–197, §§ 1–11, Sept. 22, 1965, 79 Stat. 828, which was amended and subsequently repealed, has been editorially reclassified in a note preceding section 10101 of Title 34, Crime Control and Law Enforcement.
 
 **Executive Documents**
 
@@ -97,7 +97,7 @@ Note regarding Pub. L. 89–197, §§ 1–11, Sept. 22, 1965, 79 Stat. 828, wh
 
 Designation of Attorney General to coordinate Federal law enforcement and crime prevention programs, see Ex. Ord. No. 11396, Feb. 7, 1968, 33 F.R. 2689, set out as a note preceding section 10101 of Title 34, Crime Control and Law Enforcement.
 
-## § 3001. Procedure governed by rules; scope, purpose and effect; definition of terms; local rules; forms—(Rule)
+## § 3001. Procedure governed by rules; scope, purpose and effect; definition of terms; local rules; forms—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -119,7 +119,7 @@ Citation of rule, rule 60.
 
 (June 25, 1948, ch. 645, 62 Stat. 814.)
 
-## § 3002. Courts always open—(Rule)
+## § 3002. Courts always open—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -127,7 +127,7 @@ Business hours, rule 56.
 
 (June 25, 1948, ch. 645, 62 Stat. 814.)
 
-## § 3003. Calendars—(Rule)
+## § 3003. Calendars—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -135,7 +135,7 @@ Preference to criminal cases, rule 50.
 
 (June 25, 1948, ch. 645, 62 Stat. 814.)
 
-## § 3004. Decorum in court room—(Rule)
+## § 3004. Decorum in court room—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -143,15 +143,15 @@ Photographing or radio broadcasting prohibited, rule 53.
 
 (June 25, 1948, ch. 645, 62 Stat. 814.)
 
-## § 3005. Counsel and witnesses in capital cases
+## § 3005. Counsel and witnesses in capital cases
 
 Whoever is indicted for treason or other capital crime shall be allowed to make his full defense by counsel; and the court before which the defendant is to be tried, or a judge thereof, shall promptly, upon the defendant’s request, assign 2 such counsel, of whom at least 1 shall be learned in the law applicable to capital cases, and who shall have free access to the accused at all reasonable hours. In assigning counsel under this section, the court shall consider the recommendation of the Federal Public Defender organization, or, if no such organization exists in the district, of the Administrative Office of the United States Courts. The defendant shall be allowed, in his defense to make any proof that he can produce by lawful witnesses, and shall have the like process of the court to compel his witnesses to appear at his trial, as is usually granted to compel witnesses to appear on behalf of the prosecution.
 
-(June 25, 1948, ch. 645, 62 Stat. 814; Pub. L. 103–322, title VI, § 60026, Sept. 13, 1994, 108 Stat. 1982.)
+(June 25, 1948, ch. 645, 62 Stat. 814; Pub. L. 103–322, title VI, § 60026, Sept. 13, 1994, 108 Stat. 1982.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 563 (R.S. § 1034).
+Based on title 18, U.S.C., 1940 ed., § 563 (R.S. § 1034).
 
 Changes were made in phraseology.
 
@@ -159,9 +159,9 @@ Changes were made in phraseology.
 
 **Amendments**
 
-1994—Pub. L. 103–322 substituted “; and the court before which the defendant is to be tried, or a judge thereof, shall promptly, upon the defendant’s request, assign 2 such counsel, of whom at least 1 shall be learned in the law applicable to capital cases, and who shall have free access to the accused at all reasonable hours. In assigning counsel under this section, the court shall consider the recommendation of the Federal Public Defender organization, or, if no such organization exists in the district, of the Administrative Office of the United States Courts. The defendant shall” for “learned in the law; and the court before which he is tried, or some judge thereof, shall immediately, upon his request, assign to him such counsel, not exceeding two, as he may desire, who shall have free access to him at all reasonable hours. He shall”.
+1994—Pub. L. 103–322 substituted “; and the court before which the defendant is to be tried, or a judge thereof, shall promptly, upon the defendant’s request, assign 2 such counsel, of whom at least 1 shall be learned in the law applicable to capital cases, and who shall have free access to the accused at all reasonable hours. In assigning counsel under this section, the court shall consider the recommendation of the Federal Public Defender organization, or, if no such organization exists in the district, of the Administrative Office of the United States Courts. The defendant shall” for “learned in the law; and the court before which he is tried, or some judge thereof, shall immediately, upon his request, assign to him such counsel, not exceeding two, as he may desire, who shall have free access to him at all reasonable hours. He shall”.
 
-## § 3006. Assignment of counsel—(Rule)
+## § 3006. Assignment of counsel—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -171,7 +171,7 @@ Accused to be informed of right to counsel, rules 5 and 44.
 
 (June 25, 1948, ch. 645, 62 Stat. 814.)
 
-## § 3006A. Adequate representation of defendants
+## § 3006A. Adequate representation of defendants
 
 **(a) Choice of Plan.—** Each United States district court, with the approval of the judicial council of the circuit, shall place in operation throughout the district a plan for furnishing representation for any person financially unable to obtain adequate representation in accordance with this section. Representation under each plan shall include counsel and investigative, expert, and other services necessary for adequate representation. Each plan shall provide the following:
 
@@ -217,15 +217,15 @@ Prior to approving the plan for a district, the judicial council of the circuit 
 
 **(d) Payment for Representation.—**
 
-**(1) Hourly Rate.—** Any attorney appointed pursuant to this section, or the attorney’s law firm, or a bar association or legal aid agency or community defender organization which has provided the appointed attorney shall, at the conclusion of the representation or any segment thereof, be compensated at a rate not exceeding $60 per hour for time expended in court or before a United States magistrate judge and $40 per hour for time reasonably expended out of court, unless the Judicial Conference determines that a higher rate of not in excess of $75 per hour is justified for a circuit or for particular districts within a circuit, for time expended in court or before a United States magistrate judge and for time expended out of court. The Judicial Conference shall develop guidelines for determining the maximum hourly rates for each circuit in accordance with the preceding sentence, with variations by district, where appropriate, taking into account such factors as the minimum range of the prevailing hourly rates for qualified attorneys in the district in which the representation is provided and the recommendations of the judicial councils of the circuits. Not less than 3 years after the effective date of the Criminal Justice Act Revision of 1986, the Judicial Conference is authorized to raise the maximum hourly rates specified in this paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay under the General Schedule made pursuant to section 5305 1
+**(1) Hourly Rate.—** Any attorney appointed pursuant to this section, or the attorney’s law firm, or a bar association or legal aid agency or community defender organization which has provided the appointed attorney shall, at the conclusion of the representation or any segment thereof, be compensated at a rate not exceeding $60 per hour for time expended in court or before a United States magistrate judge and $40 per hour for time reasonably expended out of court, unless the Judicial Conference determines that a higher rate of not in excess of $75 per hour is justified for a circuit or for particular districts within a circuit, for time expended in court or before a United States magistrate judge and for time expended out of court. The Judicial Conference shall develop guidelines for determining the maximum hourly rates for each circuit in accordance with the preceding sentence, with variations by district, where appropriate, taking into account such factors as the minimum range of the prevailing hourly rates for qualified attorneys in the district in which the representation is provided and the recommendations of the judicial councils of the circuits. Not less than 3 years after the effective date of the Criminal Justice Act Revision of 1986, the Judicial Conference is authorized to raise the maximum hourly rates specified in this paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay under the General Schedule made pursuant to section 5305 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of title 5 on or after such effective date. After the rates are raised under the preceding sentence, such maximum hourly rates may be raised at intervals of not less than 1 year each, up to the aggregate of the overall average percentages of such adjustments made since the last raise was made under this paragraph. Attorneys may be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate 2
+of title 5 on or after such effective date. After the rates are raised under the preceding sentence, such maximum hourly rates may be raised at intervals of not less than 1 year each, up to the aggregate of the overall average percentages of such adjustments made since the last raise was made under this paragraph. Attorneys may be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate 2
 
-<sup>2</sup>  So in original. Probably should be “United States magistrate judge”.
+<sup>2</sup> So in original. Probably should be “United States magistrate judge”.
 
-or the court, and the costs of defending actions alleging malpractice of counsel in furnishing representational services under this section. No reimbursement for expenses in defending against malpractice claims shall be made if a judgment of malpractice is rendered against the counsel furnishing representational services under this section. The United States magistrate 2 or the court shall make determinations relating to reimbursement of expenses under this paragraph.
+or the court, and the costs of defending actions alleging malpractice of counsel in furnishing representational services under this section. No reimbursement for expenses in defending against malpractice claims shall be made if a judgment of malpractice is rendered against the counsel furnishing representational services under this section. The United States magistrate 2 or the court shall make determinations relating to reimbursement of expenses under this paragraph.
 
 **(2) Maximum Amounts.—** For representation of a defendant before the United States magistrate judge or the district court, or both, the compensation to be paid to an attorney, or the attorney’s law firm, or to a bar association or legal aid agency or community defender organization shall not exceed $7,000 for each attorney in a case in which one or more felonies are charged, and $2,000 for each attorney in a case in which only misdemeanors are charged. For representation of a defendant in an appellate court, the compensation to be paid to an attorney, or the attorney’s law firm, or to a bar association or legal aid agency or community defender organization shall not exceed $5,000 for each attorney in each court. For representation of a petitioner in a non-capital habeas corpus proceeding, the compensation for each attorney shall not exceed the amount applicable to a felony in this paragraph for representation of a defendant before a judicial officer of the district court. For representation of such petitioner in an appellate court, the compensation for each attorney shall not exceed the amount applicable for representation of a defendant in an appellate court. For representation of an offender before the United States Parole Commission in a proceeding under section 4106A of this title, the compensation shall not exceed $1,500 for each attorney in each proceeding; for representation of an offender in an appeal from a determination of such Commission under such section, the compensation shall not exceed $5,000 for each attorney in each court. For any other representation required or authorized by this section, the compensation shall not exceed $1,500 for each attorney in each proceeding. The compensation maximum amounts provided in this paragraph shall increase simultaneously by the same percentage, rounded to the nearest multiple of $100, as the aggregate percentage increases in the maximum hourly compensation rate paid pursuant to paragraph (1) for time expended since the case maximum amounts were last adjusted.
 
@@ -337,7 +337,7 @@ or the court, and the costs of defending actions alleging malpractice of counsel
 
 **(k) Applicability in the District of Columbia.—** The provisions of this section shall apply in the United States District Court for the District of Columbia and the United States Court of Appeals for the District of Columbia Circuit. The provisions of this section shall not apply to the Superior Court of the District of Columbia and the District of Columbia Court of Appeals.
 
-(Added Pub. L. 88–455, § 2, Aug. 20, 1964, 78 Stat. 552; amended Pub. L. 90–578, title III, § 301(a)(1), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 91–447, § 1, Oct. 14, 1970, 84 Stat. 916; Pub. L. 93–412, § 3, Sept. 3, 1974, 88 Stat. 1093; Pub. L. 97–164, title II, § 206(a), (b), Apr. 2, 1982, 96 Stat. 53; Pub. L. 98–473, title II, §§ 223(e), 405, 1901, Oct. 12, 1984, 98 Stat. 2028, 2067, 2185; Pub. L. 99–651, title I, §§ 102, 103, Nov. 14, 1986, 100 Stat. 3642, 3645; Pub. L. 100–182, § 19, Dec. 7, 1987, 101 Stat. 1270; Pub. L. 100–690, title VII, § 7101(f), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–132, title IX, § 903(a), Apr. 24, 1996, 110 Stat. 1318; Pub. L. 105–119, title III, § 308, Nov. 26, 1997, 111 Stat. 2493; Pub. L. 106–113, div. B, § 1000(a)(1) [title III, § 308(a)], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–518, title II, §§ 210, 211, Nov. 13, 2000, 114 Stat. 2415; Pub. L. 108–447, div. B, title III, § 304, Dec. 8, 2004, 118 Stat. 2894; Pub. L. 110–406, §§ 11–12(b), Oct. 13, 2008, 122 Stat. 4293, 4294; Pub. L. 111–174, § 7, May 27, 2010, 124 Stat. 1217; Pub. L. 118–47, div. B, title III, § 307, Mar. 23, 2024, 138 Stat. 542.)
+(Added Pub. L. 88–455, § 2, Aug. 20, 1964, 78 Stat. 552; amended Pub. L. 90–578, title III, § 301(a)(1), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 91–447, § 1, Oct. 14, 1970, 84 Stat. 916; Pub. L. 93–412, § 3, Sept. 3, 1974, 88 Stat. 1093; Pub. L. 97–164, title II, § 206(a), (b), Apr. 2, 1982, 96 Stat. 53; Pub. L. 98–473, title II, §§ 223(e), 405, 1901, Oct. 12, 1984, 98 Stat. 2028, 2067, 2185; Pub. L. 99–651, title I, §§ 102, 103, Nov. 14, 1986, 100 Stat. 3642, 3645; Pub. L. 100–182, § 19, Dec. 7, 1987, 101 Stat. 1270; Pub. L. 100–690, title VII, § 7101(f), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–132, title IX, § 903(a), Apr. 24, 1996, 110 Stat. 1318; Pub. L. 105–119, title III, § 308, Nov. 26, 1997, 111 Stat. 2493; Pub. L. 106–113, div. B, § 1000(a)(1) [title III, § 308(a)], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–518, title II, §§ 210, 211, Nov. 13, 2000, 114 Stat. 2415; Pub. L. 108–447, div. B, title III, § 304, Dec. 8, 2004, 118 Stat. 2894; Pub. L. 110–406, §§ 11–12(b), Oct. 13, 2008, 122 Stat. 4293, 4294; Pub. L. 111–174, § 7, May 27, 2010, 124 Stat. 1217; Pub. L. 118–47, div. B, title III, § 307, Mar. 23, 2024, 138 Stat. 542.)
 
 **Editorial Notes**
 
@@ -345,7 +345,7 @@ or the court, and the costs of defending actions alleging malpractice of counsel
 
 The effective date of the Criminal Justice Act Revision of 1986, referred to in subsec. (d)(1), is, with qualifications, 120 days after Nov. 14, 1986. See section 105 of Pub. L. 99–651, set out below as an Effective Date of 1986 Amendment note.
 
-Section 5305 of title 5, referred to in subsec. (d)(1), was amended generally by Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1436, and, as so amended, does not relate to adjustments in the rate of pay under the General Schedule. See section 5303 of Title 5, Government Organization and Employees.
+Section 5305 of title 5, referred to in subsec. (d)(1), was amended generally by Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1436, and, as so amended, does not relate to adjustments in the rate of pay under the General Schedule. See section 5303 of Title 5, Government Organization and Employees.
 
 The amendment made by paragraph (4), referred to in subsec. (d)(4)(F), probably means the amendment by section 308 of Pub. L. 105–119, which struck out former par. (4) of subsec. (d) and inserted the new par. (4).
 
@@ -353,125 +353,125 @@ Enactment of this Act, referred to in subsec. (d)(4)(F), probably means the date
 
 **Amendments**
 
-2024—Subsec. (d)(1). Pub. L. 118–47, § 307(1)(A), inserted “, or the attorney’s law firm,” after “appointed pursuant to this section”.
+2024—Subsec. (d)(1). Pub. L. 118–47, § 307(1)(A), inserted “, or the attorney’s law firm,” after “appointed pursuant to this section”.
 
-Subsec. (d)(2). Pub. L. 118–47, § 307(1)(B), inserted “, or the attorney’s law firm,” after “paid to an attorney” in two places.
+Subsec. (d)(2). Pub. L. 118–47, § 307(1)(B), inserted “, or the attorney’s law firm,” after “paid to an attorney” in two places.
 
-Subsec. (d)(5). Pub. L. 118–47, § 307(1)(C), inserted “, or the attorney’s law firm” after “paid to the attorney”.
+Subsec. (d)(5). Pub. L. 118–47, § 307(1)(C), inserted “, or the attorney’s law firm” after “paid to the attorney”.
 
-Subsec. (f). Pub. L. 118–47, § 307(2), inserted “, or the attorney’s law firm” after “paid to the appointed attorney”.
+Subsec. (f). Pub. L. 118–47, § 307(2), inserted “, or the attorney’s law firm” after “paid to the appointed attorney”.
 
-2010—Subsec. (e)(2). Pub. L. 111–174, § 7(1)(A), substituted “$800” for “$500” in subpars. (A) and (B).
+2010—Subsec. (e)(2). Pub. L. 111–174, § 7(1)(A), substituted “$800” for “$500” in subpars. (A) and (B).
 
-Subsec. (e)(3). Pub. L. 111–174, § 7(1)(B), substituted “$2,400” for “$1,600” in first sentence.
+Subsec. (e)(3). Pub. L. 111–174, § 7(1)(B), substituted “$2,400” for “$1,600” in first sentence.
 
-Subsec. (e)(5). Pub. L. 111–174, § 7(2), added par. (5).
+Subsec. (e)(5). Pub. L. 111–174, § 7(2), added par. (5).
 
-2008—Subsec. (d)(2). Pub. L. 110–406, § 11, inserted at end “The compensation maximum amounts provided in this paragraph shall increase simultaneously by the same percentage, rounded to the nearest multiple of $100, as the aggregate percentage increases in the maximum hourly compensation rate paid pursuant to paragraph (1) for time expended since the case maximum amounts were last adjusted.”
+2008—Subsec. (d)(2). Pub. L. 110–406, § 11, inserted at end “The compensation maximum amounts provided in this paragraph shall increase simultaneously by the same percentage, rounded to the nearest multiple of $100, as the aggregate percentage increases in the maximum hourly compensation rate paid pursuant to paragraph (1) for time expended since the case maximum amounts were last adjusted.”
 
-Subsecs. (d)(3), (e)(3). Pub. L. 110–406, § 12(a), (b), inserted “or senior” after “active” in second sentence.
+Subsecs. (d)(3), (e)(3). Pub. L. 110–406, § 12(a), (b), inserted “or senior” after “active” in second sentence.
 
-2004—Subsec. (d)(2). Pub. L. 108–447, § 304(a), substituted “$7,000” for “$5,200” and “$2,000” for “$1,500” in first sentence, “$5,000” for “$3,700” in second sentence, “$1,500” for “$1,200” and “$5,000” for “$3,900” in fifth sentence, and “$1,500” for “$1,200” in last sentence.
+2004—Subsec. (d)(2). Pub. L. 108–447, § 304(a), substituted “$7,000” for “$5,200” and “$2,000” for “$1,500” in first sentence, “$5,000” for “$3,700” in second sentence, “$1,500” for “$1,200” and “$5,000” for “$3,900” in fifth sentence, and “$1,500” for “$1,200” in last sentence.
 
-Subsec. (e)(2). Pub. L. 108–447, § 304(b)(1), substituted “$500” for “$300” in subpars. (A) and (B).
+Subsec. (e)(2). Pub. L. 108–447, § 304(b)(1), substituted “$500” for “$300” in subpars. (A) and (B).
 
-Subsec. (e)(3). Pub. L. 108–447, § 304(b)(2), substituted “$1,600” for “$1,000” in first sentence.
+Subsec. (e)(3). Pub. L. 108–447, § 304(b)(2), substituted “$1,600” for “$1,000” in first sentence.
 
-2000—Subsec. (d)(1). Pub. L. 106–518, § 211, substituted “Attorneys may be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate or the court, and the costs of defending actions alleging malpractice of counsel in furnishing representational services under this section. No reimbursement for expenses in defending against malpractice claims shall be made if a judgment of malpractice is rendered against the counsel furnishing representational services under this section. The United States magistrate or the court shall make determinations relating to reimbursement of expenses under this paragraph.” for “Attorneys shall be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate or the court.”
+2000—Subsec. (d)(1). Pub. L. 106–518, § 211, substituted “Attorneys may be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate or the court, and the costs of defending actions alleging malpractice of counsel in furnishing representational services under this section. No reimbursement for expenses in defending against malpractice claims shall be made if a judgment of malpractice is rendered against the counsel furnishing representational services under this section. The United States magistrate or the court shall make determinations relating to reimbursement of expenses under this paragraph.” for “Attorneys shall be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate or the court.”
 
-Subsec. (d)(2). Pub. L. 106–518, § 210(4), (5), inserted after second sentence “For representation of a petitioner in a non-capital habeas corpus proceeding, the compensation for each attorney shall not exceed the amount applicable to a felony in this paragraph for representation of a defendant before a judicial officer of the district court. For representation of such petitioner in an appellate court, the compensation for each attorney shall not exceed the amount applicable for representation of a defendant in an appellate court.” and substituted “$1,200” for “$750” in last sentence.
+Subsec. (d)(2). Pub. L. 106–518, § 210(4), (5), inserted after second sentence “For representation of a petitioner in a non-capital habeas corpus proceeding, the compensation for each attorney shall not exceed the amount applicable to a felony in this paragraph for representation of a defendant before a judicial officer of the district court. For representation of such petitioner in an appellate court, the compensation for each attorney shall not exceed the amount applicable for representation of a defendant in an appellate court.” and substituted “$1,200” for “$750” in last sentence.
 
-Pub. L. 106–518, § 210(1)–(3), in first sentence, substituted “$5,200” for “$3,500” and “$1,500” for “$1,000”, in second sentence, substituted “$3,700” for “$2,500”, and in third sentence, substituted “$1,200” for “$750” and “$3,900” for “$2,500”.
+Pub. L. 106–518, § 210(1)–(3), in first sentence, substituted “$5,200” for “$3,500” and “$1,500” for “$1,000”, in second sentence, substituted “$3,700” for “$2,500”, and in third sentence, substituted “$1,200” for “$750” and “$3,900” for “$2,500”.
 
-1999—Subsec. (d)(4)(D)(vi). Pub. L. 106–113 inserted “, except that the amount of the fees shall not be considered a reason justifying any limited disclosure under section 3006A(d)(4) of title 18, United States Code” after “require”.
+1999—Subsec. (d)(4)(D)(vi). Pub. L. 106–113 inserted “, except that the amount of the fees shall not be considered a reason justifying any limited disclosure under section 3006A(d)(4) of title 18, United States Code” after “require”.
 
 1997—Subsec. (d)(4). Pub. L. 105–119 reenacted par. heading without change and amended text generally. Prior to amendment, text read as follows: “The amounts paid under this subsection, for representation in any case, shall be made available to the public.”
 
-1996—Subsec. (d)(4) to (7). Pub. L. 104–132, § 903(a)(1), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
+1996—Subsec. (d)(4) to (7). Pub. L. 104–132, § 903(a)(1), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
-Subsec. (e)(4). Pub. L. 104–132, § 903(a)(2), added par. (4).
+Subsec. (e)(4). Pub. L. 104–132, § 903(a)(2), added par. (4).
 
-1988—Subsec. (a)(1)(J). Pub. L. 100–690, § 7101(f)(1), added subpar. (J).
+1988—Subsec. (a)(1)(J). Pub. L. 100–690, § 7101(f)(1), added subpar. (J).
 
-Subsec. (d)(2). Pub. L. 100–690, § 7101(f)(2), inserted provisions at end to representation of offender before United States Parole Commission, and in appeal from determination of such Commission.
+Subsec. (d)(2). Pub. L. 100–690, § 7101(f)(2), inserted provisions at end to representation of offender before United States Parole Commission, and in appeal from determination of such Commission.
 
 1987—Subsec. (a)(1)(E) to (I). Pub. L. 100–182 added subpar. (E) and redesignated former subpars. (E) to (H) as (F) to (I), respectively.
 
-1986—Subsec. (a). Pub. L. 99–651, § 103, made technical amendments to Pub. L. 98–473, § 223(e), see 1984 Amendment note below.
+1986—Subsec. (a). Pub. L. 99–651, § 103, made technical amendments to Pub. L. 98–473, § 223(e), see 1984 Amendment note below.
 
-Pub. L. 99–651, § 102(a)(1), substituted “in accordance with this section. Representation under each plan shall include counsel and investigative, expert, and other services necessary for adequate representation. Each plan shall provide the following:” and pars. (1) to (3) for prior provisions which read as follows: “(1) who is charged with a felony or misdemeanor (other than a petty offense as defined in section 1 of this title) or with juvenile delinquency by the commission of an act which, if committed by an adult, would be such a felony or misdemeanor or with a violation of probation, (2) who is under arrest, when such representation is required by law, (3) who is subject to revocation of parole, in custody as a material witness, or seeking collateral relief, as provided in subsection (g), (4) whose mental condition is the subject of a hearing pursuant to chapter 313 of this title, or (5) for whom the Sixth Amendment to the Constitution requires the appointment of counsel or for whom, in a case in which he faces loss of liberty, any Federal law requires the appointment of counsel. Representation under each plan shall include counsel and investigative, expert, and other services necessary for an adequate defense. Each plan shall include a provision for private attorneys. The plan may include, in addition to a provision for private attorneys in a substantial proportion of cases, either of the following or both:
+Pub. L. 99–651, § 102(a)(1), substituted “in accordance with this section. Representation under each plan shall include counsel and investigative, expert, and other services necessary for adequate representation. Each plan shall provide the following:” and pars. (1) to (3) for prior provisions which read as follows: “(1) who is charged with a felony or misdemeanor (other than a petty offense as defined in section 1 of this title) or with juvenile delinquency by the commission of an act which, if committed by an adult, would be such a felony or misdemeanor or with a violation of probation, (2) who is under arrest, when such representation is required by law, (3) who is subject to revocation of parole, in custody as a material witness, or seeking collateral relief, as provided in subsection (g), (4) whose mental condition is the subject of a hearing pursuant to chapter 313 of this title, or (5) for whom the Sixth Amendment to the Constitution requires the appointment of counsel or for whom, in a case in which he faces loss of liberty, any Federal law requires the appointment of counsel. Representation under each plan shall include counsel and investigative, expert, and other services necessary for an adequate defense. Each plan shall include a provision for private attorneys. The plan may include, in addition to a provision for private attorneys in a substantial proportion of cases, either of the following or both:
 
 “(1) attorneys furnished by a bar association or a legal aid agency; or
 
 “(2) attorneys furnished by a defender organization established in accordance with the provisions of subsection (h).”
 
-Subsec. (b). Pub. L. 99–651, § 102(a)(2), substituted “In every case in which a person entitled to representation under a plan approved under subsection (a)” for “In every criminal case in which the defendant is charged with a felony or a misdemeanor (other than a petty offense as defined in section 1 of this title) or with juvenile delinquency by the commission of an act which, if committed by an adult, would be such a felony or misdemeanor or with a violation of probation and” and substituted “person” for “defendant” and “persons” for “defendants” wherever appearing.
+Subsec. (b). Pub. L. 99–651, § 102(a)(2), substituted “In every case in which a person entitled to representation under a plan approved under subsection (a)” for “In every criminal case in which the defendant is charged with a felony or a misdemeanor (other than a petty offense as defined in section 1 of this title) or with juvenile delinquency by the commission of an act which, if committed by an adult, would be such a felony or misdemeanor or with a violation of probation and” and substituted “person” for “defendant” and “persons” for “defendants” wherever appearing.
 
-Subsec. (d)(1). Pub. L. 99–651, § 102(a)(3)(A), substituted “court, unless the Judicial Conference determines that a higher rate of not in excess of $75 per hour is justified for a circuit or for particular districts within a circuit, for time expended in court or before a United States magistrate and for time expended out of court. The Judicial Conference shall develop guidelines for determining the maximum hourly rates for each circuit in accordance with the preceding sentence, with variations by district, where appropriate, taking into account such factors as the minimum range of the prevailing hourly rates for qualified attorneys in the district in which the representation is provided and the recommendations of the judicial councils of the circuits. Not less than 3 years after the effective date of the Criminal Justice Act Revision of 1986, the Judicial Conference is authorized to raise the maximum hourly rates specified in this paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay under the General Schedule made pursuant to section 5305 of title 5 on or after such effective date. After the rates are raised under the preceding sentence, such maximum hourly rates may be raised at intervals of not less than 1 year each, up to the aggregate of the overall average percentages of such adjustments made since the last raise was made under this paragraph. Attorneys” for “court. Such attorney”.
+Subsec. (d)(1). Pub. L. 99–651, § 102(a)(3)(A), substituted “court, unless the Judicial Conference determines that a higher rate of not in excess of $75 per hour is justified for a circuit or for particular districts within a circuit, for time expended in court or before a United States magistrate and for time expended out of court. The Judicial Conference shall develop guidelines for determining the maximum hourly rates for each circuit in accordance with the preceding sentence, with variations by district, where appropriate, taking into account such factors as the minimum range of the prevailing hourly rates for qualified attorneys in the district in which the representation is provided and the recommendations of the judicial councils of the circuits. Not less than 3 years after the effective date of the Criminal Justice Act Revision of 1986, the Judicial Conference is authorized to raise the maximum hourly rates specified in this paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay under the General Schedule made pursuant to section 5305 of title 5 on or after such effective date. After the rates are raised under the preceding sentence, such maximum hourly rates may be raised at intervals of not less than 1 year each, up to the aggregate of the overall average percentages of such adjustments made since the last raise was made under this paragraph. Attorneys” for “court. Such attorney”.
 
-Subsec. (d)(2). Pub. L. 99–651, § 102(a)(3)(B), substituted “$3,500” for “$2,000”, “$1,000” for “$800”, “$2,500” for “$2,000”, and substituted provision that for any other representation required or authorized by this section, the compensation shall not exceed $750 for each attorney in each proceeding, for provision that for representation in connection with a post-trial motion made after the entry of judgment or in a probation revocation proceeding or for representation provided under subsection (g) the compensation could not exceed $500 for each attorney in each proceeding in each court.
+Subsec. (d)(2). Pub. L. 99–651, § 102(a)(3)(B), substituted “$3,500” for “$2,000”, “$1,000” for “$800”, “$2,500” for “$2,000”, and substituted provision that for any other representation required or authorized by this section, the compensation shall not exceed $750 for each attorney in each proceeding, for provision that for representation in connection with a post-trial motion made after the entry of judgment or in a probation revocation proceeding or for representation provided under subsection (g) the compensation could not exceed $500 for each attorney in each proceeding in each court.
 
-Subsec. (d)(3). Pub. L. 99–651, § 102(a)(3)(C), inserted provision that the chief judge of the circuit may delegate such approval authority to an active circuit judge.
+Subsec. (d)(3). Pub. L. 99–651, § 102(a)(3)(C), inserted provision that the chief judge of the circuit may delegate such approval authority to an active circuit judge.
 
-Subsec. (d)(4). Pub. L. 99–651, § 102(a)(3)(D), substituted “provided representation to the person involved” for “represented the defendant”.
+Subsec. (d)(4). Pub. L. 99–651, § 102(a)(3)(D), substituted “provided representation to the person involved” for “represented the defendant”.
 
-Subsec. (e)(1). Pub. L. 99–651, § 102(a)(4)(A), substituted “adequate representation” for “an adequate defense”.
+Subsec. (e)(1). Pub. L. 99–651, § 102(a)(4)(A), substituted “adequate representation” for “an adequate defense”.
 
-Subsec. (e)(2). Pub. L. 99–651, § 102(a)(4)(B), designated existing provisions as subpar. (A), and substituted reference to adequate representation for reference to an adequate defense, inserted exception relating to subpar. (B), increased the authorized amount for services from $150 to $300, and added subpar. (B).
+Subsec. (e)(2). Pub. L. 99–651, § 102(a)(4)(B), designated existing provisions as subpar. (A), and substituted reference to adequate representation for reference to an adequate defense, inserted exception relating to subpar. (B), increased the authorized amount for services from $150 to $300, and added subpar. (B).
 
-Subsec. (e)(3). Pub. L. 99–651, § 102(a)(4)(C), substituted “$1,000” for “$300” and inserted provision that the chief judge of the circuit may delegate such approval authority to an active circuit judge.
+Subsec. (e)(3). Pub. L. 99–651, § 102(a)(4)(C), substituted “$1,000” for “$300” and inserted provision that the chief judge of the circuit may delegate such approval authority to an active circuit judge.
 
-Subsec. (g). Pub. L. 99–651, § 102(b)(1), redesignated subsec. (h) as (g), and struck out former subsec. (g) which provided for discretionary appointments by the court or magistrate.
+Subsec. (g). Pub. L. 99–651, § 102(b)(1), redesignated subsec. (h) as (g), and struck out former subsec. (g) which provided for discretionary appointments by the court or magistrate.
 
-Subsec. (g)(2)(A), formerly (h)(2)(A). Pub. L. 99–651, § 102(a)(5)(A), substituted “in accordance with section 605 of title 28” for “similarly as under title 28, United States Code, section 605, and subject to the conditions of that section”, and after fourth sentence inserted provision authorizing the continuation in office, upon a majority vote of the judges of the court of appeals, of a Federal Public Defender whose term has expired until appointment of a successor or until one year after the expiration of such Defender’s term, whichever is earlier.
+Subsec. (g)(2)(A), formerly (h)(2)(A). Pub. L. 99–651, § 102(a)(5)(A), substituted “in accordance with section 605 of title 28” for “similarly as under title 28, United States Code, section 605, and subject to the conditions of that section”, and after fourth sentence inserted provision authorizing the continuation in office, upon a majority vote of the judges of the court of appeals, of a Federal Public Defender whose term has expired until appointment of a successor or until one year after the expiration of such Defender’s term, whichever is earlier.
 
-Subsec. (g)(2)(B), formerly (h)(2)(B). Pub. L. 99–651, § 102(a)(5)(B), substituted “for the next fiscal year” for “for the coming year” in introductory provisions.
+Subsec. (g)(2)(B), formerly (h)(2)(B). Pub. L. 99–651, § 102(a)(5)(B), substituted “for the next fiscal year” for “for the coming year” in introductory provisions.
 
-Subsec. (g)(3), formerly (h)(3). Pub. L. 99–651, § 102(a)(5)(C), added par. (3).
+Subsec. (g)(3), formerly (h)(3). Pub. L. 99–651, § 102(a)(5)(C), added par. (3).
 
-Subsec. (h). Pub. L. 99–651, § 102(b)(1), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+Subsec. (h). Pub. L. 99–651, § 102(b)(1), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-Subsec. (i). Pub. L. 99–651, § 102(a)(6), (b)(1), redesignated subsec. (j) as (i) and inserted provision for funding continuing education and training of persons providing representational services under this section. Former subsec. (i) redesignated (h).
+Subsec. (i). Pub. L. 99–651, § 102(a)(6), (b)(1), redesignated subsec. (j) as (i) and inserted provision for funding continuing education and training of persons providing representational services under this section. Former subsec. (i) redesignated (h).
 
-Subsec. (j). Pub. L. 99–651, § 102(b), redesignated subsec. (k) as (j), and amended subsec. (j) generally to include the District Court for the Northern Mariana Islands. Former subsec. (j) redesignated (i).
+Subsec. (j). Pub. L. 99–651, § 102(b), redesignated subsec. (k) as (j), and amended subsec. (j) generally to include the District Court for the Northern Mariana Islands. Former subsec. (j) redesignated (i).
 
-Subsecs. (k), (*l*). Pub. L. 99–651, § 102(a)(7), (b)(1), redesignated subsec. (*l*) as (k) and substituted “this section shall apply” for “this Act, other than subsection (h) of section 1, shall apply” and “this section shall not apply” for “this Act shall not apply”. Former subsec. (k) redesignated (j).
+Subsecs. (k), (*l*). Pub. L. 99–651, § 102(a)(7), (b)(1), redesignated subsec. (*l*) as (k) and substituted “this section shall apply” for “this Act, other than subsection (h) of section 1, shall apply” and “this section shall not apply” for “this Act shall not apply”. Former subsec. (k) redesignated (j).
 
-1984—Subsec. (a). Pub. L. 98–473, § 405(a), added cl. (4) and redesignated former cl. (4) as (5).
+1984—Subsec. (a). Pub. L. 98–473, § 405(a), added cl. (4) and redesignated former cl. (4) as (5).
 
-Subsec. (a)(1)(A). Pub. L. 98–473, § 223(e)(1), as amended by Pub. L. 99–651, § 103, substituted “Class A misdemeanor” for “misdemeanor (other than a petty offense as defined in section 1 of this title)”.
+Subsec. (a)(1)(A). Pub. L. 98–473, § 223(e)(1), as amended by Pub. L. 99–651, § 103, substituted “Class A misdemeanor” for “misdemeanor (other than a petty offense as defined in section 1 of this title)”.
 
-Subsec. (a)(1)(E) to (I). Pub. L. 98–473, § 223(e)(2), as amended by Pub. L. 99–651, § 103, redesignated subpars. (F) to (I) as (E) to (H), respectively, and struck out former subpar. (E) which required that representation be provided for any financially eligible person who was entitled to appointment of counsel in parole proceedings under chapter 311 of this title.
+Subsec. (a)(1)(E) to (I). Pub. L. 98–473, § 223(e)(2), as amended by Pub. L. 99–651, § 103, redesignated subpars. (F) to (I) as (E) to (H), respectively, and struck out former subpar. (E) which required that representation be provided for any financially eligible person who was entitled to appointment of counsel in parole proceedings under chapter 311 of this title.
 
-Subsec. (a)(2)(A). Pub. L. 98–473, § 223(e)(3), as amended by Pub. L. 99–651, § 103, substituted “Class B or C misdemeanor, or an infraction” for “petty offense”.
+Subsec. (a)(2)(A). Pub. L. 98–473, § 223(e)(3), as amended by Pub. L. 99–651, § 103, substituted “Class B or C misdemeanor, or an infraction” for “petty offense”.
 
-Subsec. (d)(1). Pub. L. 98–473, § 1901(1)–(3), substituted “$60” for “$30” and “$40” for “$20”, and struck out “, or such other hourly rate, fixed by the Judicial Council of the Circuit, not to exceed the minimum hourly scale established by a bar association for similar services rendered in the district” at end of first sentence.
+Subsec. (d)(1). Pub. L. 98–473, § 1901(1)–(3), substituted “$60” for “$30” and “$40” for “$20”, and struck out “, or such other hourly rate, fixed by the Judicial Council of the Circuit, not to exceed the minimum hourly scale established by a bar association for similar services rendered in the district” at end of first sentence.
 
-Subsec. (d)(2). Pub. L. 98–473, § 1901(4)–(6), substituted “$2,000” for “$1,000” in two places, “$800” for “$400”, and “$500” for “$250”.
+Subsec. (d)(2). Pub. L. 98–473, § 1901(4)–(6), substituted “$2,000” for “$1,000” in two places, “$800” for “$400”, and “$500” for “$250”.
 
-Subsec. (g). Pub. L. 98–473, § 405(b), struck out reference to section 4245 of title 18.
+Subsec. (g). Pub. L. 98–473, § 405(b), struck out reference to section 4245 of title 18.
 
-1982—Subsec. (h)(2)(A). Pub. L. 97–164, § 206(a), substituted “court of appeals” for “judicial council” wherever appearing and “court of appeals of the circuit” for “Judicial Council of the Circuit”.
+1982—Subsec. (h)(2)(A). Pub. L. 97–164, § 206(a), substituted “court of appeals” for “judicial council” wherever appearing and “court of appeals of the circuit” for “Judicial Council of the Circuit”.
 
-Subsec. (i). Pub. L. 97–164, § 206(b), substituted “court of appeals” for “judicial council”.
+Subsec. (i). Pub. L. 97–164, § 206(b), substituted “court of appeals” for “judicial council”.
 
 1974—Subsec. (*l*). Pub. L. 93–412 substituted “shall apply in the United States District Court for the District of Columbia and the United States Court of Appeals for the District of Columbia Circuit. The provisions of this Act shall not apply to the Superior Court of the District of Columbia and the District of Columbia Court of Appeals”, for “shall be applicable in the District of Columbia”, and struck out provisions that the plan of the District of Columbia shall be approved jointly by the Judicial Council of the District of Columbia Circuit and the District of Columbia Court of Appeals.
 
-1970—Subsec. (a). Pub. L. 91–447, § 1(a), expanded coverage of district court plan for furnishing representation to financially disabled persons to include defendants charged with violation of probation, any person under arrest when such representation is required by law, any person who is subject to revocation of parole, in custody as a material witness, or seeking collateral relief as provided in subsec. (g) of this section, and any person for whom the Sixth Amendment to the Constitution requires appointment of counsel or for whom, in a case in which he faces loss of liberty, any Federal law requires the appointment of counsel, and required each plan to include a provision for participation by private attorneys in a substantial proportion of cases, as well as permitting attorneys to be furnished by bar, legal aid, or defender organizations in accordance with subsec. (h) of this section.
+1970—Subsec. (a). Pub. L. 91–447, § 1(a), expanded coverage of district court plan for furnishing representation to financially disabled persons to include defendants charged with violation of probation, any person under arrest when such representation is required by law, any person who is subject to revocation of parole, in custody as a material witness, or seeking collateral relief as provided in subsec. (g) of this section, and any person for whom the Sixth Amendment to the Constitution requires appointment of counsel or for whom, in a case in which he faces loss of liberty, any Federal law requires the appointment of counsel, and required each plan to include a provision for participation by private attorneys in a substantial proportion of cases, as well as permitting attorneys to be furnished by bar, legal aid, or defender organizations in accordance with subsec. (h) of this section.
 
-Subsec. (b). Pub. L. 91–447, § 1(a), provided for appointment of counsel from a bar association, legal aid agency, or defender organization as well as from a panel of attorneys approved by the court, expanded advice to defendant of right to appointment of counsel where defendant is charged with juvenile delinquency by the commission of an act which, if committed by an adult, would be a felony or misdemeanor or with violation of probation, and provided for appointment of counsel to be retroactive so as to include any representation furnished pursuant to the plan prior to appointment.
+Subsec. (b). Pub. L. 91–447, § 1(a), provided for appointment of counsel from a bar association, legal aid agency, or defender organization as well as from a panel of attorneys approved by the court, expanded advice to defendant of right to appointment of counsel where defendant is charged with juvenile delinquency by the commission of an act which, if committed by an adult, would be a felony or misdemeanor or with violation of probation, and provided for appointment of counsel to be retroactive so as to include any representation furnished pursuant to the plan prior to appointment.
 
-Subsec. (c). Pub. L. 91–447, § 1(a), expanded the scope of representation by appointed counsel to include ancillary matters appropriate to the proceedings.
+Subsec. (c). Pub. L. 91–447, § 1(a), expanded the scope of representation by appointed counsel to include ancillary matters appropriate to the proceedings.
 
-Subsec. (d). Pub. L. 91–447, § 1(a), raised the rate of compensation not to exceed $30 per hour for time expended in court and $20 per hour for time reasonably expended out of court, increased the limit to $1,000 for each attorney in a case involving one or more alleged felonies and $400 for each attorney in a case in which one or more misdemeanors are charged, established a $1,000 maximum for each attorney in each court for cases on appeal and provided a $250 maximum for each attorney for representation in connection with a post-trial motion, probation revocation proceedings and matters covered by subsec. (g) such as parole revocation and collateral relief proceedings, provided for waiver of maximum amounts and payment in excess of those amounts for extended or complex representation upon approval of the chief judge of the circuit, provided for separate claims of compensation to be submitted to the appropriate court, thus a U.S. magistrate fixes compensation in cases before him, appellate court fixes compensation in cases before it and in all other instances claims are to be made to the district court, provided a court order granting a new trial is deemed to initiate a new case for the purpose of compensation, and facilitate appellate proceedings by allowing a defendant for whom counsel is appointed to appeal or petition for a writ of certiorari without prepayment of fees and cost of security therefore and without filing the affidavit required by section 1915(a).
+Subsec. (d). Pub. L. 91–447, § 1(a), raised the rate of compensation not to exceed $30 per hour for time expended in court and $20 per hour for time reasonably expended out of court, increased the limit to $1,000 for each attorney in a case involving one or more alleged felonies and $400 for each attorney in a case in which one or more misdemeanors are charged, established a $1,000 maximum for each attorney in each court for cases on appeal and provided a $250 maximum for each attorney for representation in connection with a post-trial motion, probation revocation proceedings and matters covered by subsec. (g) such as parole revocation and collateral relief proceedings, provided for waiver of maximum amounts and payment in excess of those amounts for extended or complex representation upon approval of the chief judge of the circuit, provided for separate claims of compensation to be submitted to the appropriate court, thus a U.S. magistrate fixes compensation in cases before him, appellate court fixes compensation in cases before it and in all other instances claims are to be made to the district court, provided a court order granting a new trial is deemed to initiate a new case for the purpose of compensation, and facilitate appellate proceedings by allowing a defendant for whom counsel is appointed to appeal or petition for a writ of certiorari without prepayment of fees and cost of security therefore and without filing the affidavit required by section 1915(a).
 
-Subsec. (e). Pub. L. 91–447, § 1(a), limited to $150, plus reasonable expenses, subject to later review and approval by the court, the cost of investigative, expert, or other services necessary for an adequate defense where these services are obtained without prior authorization because circumstances prevented counsel from securing prior court authorization, maintained existing limit on payment for authorized services at a $300 maximum but permitted waiver of that maximum if the court certifies that payment in excess of that limit is necessary to provide fair compensation, and provided that the amount of any excess payment must be approved by the chief judge of the circuit.
+Subsec. (e). Pub. L. 91–447, § 1(a), limited to $150, plus reasonable expenses, subject to later review and approval by the court, the cost of investigative, expert, or other services necessary for an adequate defense where these services are obtained without prior authorization because circumstances prevented counsel from securing prior court authorization, maintained existing limit on payment for authorized services at a $300 maximum but permitted waiver of that maximum if the court certifies that payment in excess of that limit is necessary to provide fair compensation, and provided that the amount of any excess payment must be approved by the chief judge of the circuit.
 
-Subsec. (f). Pub. L. 91–447, § 1(a), substantially reenacted subsec. (f).
+Subsec. (f). Pub. L. 91–447, § 1(a), substantially reenacted subsec. (f).
 
-Subsecs. (g) to (k). Pub. L. 91–447, § 1(b), added subsecs. (g) and (h) and redesignated existing subsecs. (g) to (i) as (i) to (k), respectively.
+Subsecs. (g) to (k). Pub. L. 91–447, § 1(b), added subsecs. (g) and (h) and redesignated existing subsecs. (g) to (i) as (i) to (k), respectively.
 
-Subsec. (*l*). Pub. L. 91–447, § 1(c), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 91–447, § 1(c), added subsec. (*l*).
 
 1968—Subsecs. (b) to (d). Pub. L. 90–578 substituted “United States magistrate” for “United States commissioner” wherever appearing.
 
@@ -483,11 +483,11 @@ Subsec. (*l*). Pub. L. 91–447, § 1(c), added subsec. (*l*).
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(1) [title III, § 308(b)], Nov. 29, 1999, 113 Stat. 1535, 1501A–37, provided that: “This section [amending this section] shall apply to all disclosures made under section 3006A(d) of title 18, United States Code, related to any criminal trial or appeal involving a sentence of death where the underlying alleged criminal conduct took place on or after April 19, 1995.”
+Pub. L. 106–113, div. B, § 1000(a)(1) [title III, § 308(b)], Nov. 29, 1999, 113 Stat. 1535, 1501A–37, provided that: “This section [amending this section] shall apply to all disclosures made under section 3006A(d) of title 18, United States Code, related to any criminal trial or appeal involving a sentence of death where the underlying alleged criminal conduct took place on or after April 19, 1995.”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–132, title IX, § 903(c), Apr. 24, 1996, 100 Stat. 1318, provided that:
+Pub. L. 104–132, title IX, § 903(c), Apr. 24, 1996, 100 Stat. 1318, provided that:
 
 > “The amendments made by this section [amending this section and section 848 of Title 21, Food and Drugs] apply to—
 
@@ -497,11 +497,11 @@ Pub. L. 104–132, title IX, § 903(c), Apr. 24, 1996, 100 Stat. 1318, provide
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–182, § 26, Dec. 7, 1987, 101 Stat. 1272, provided that: “The amendments made by this Act [amending this section, sections 3553, 3561, 3563, 3564, 3583, 3663, 3672, 3742, and 4106 of this title, section 994 of Title 28, Judiciary and Judicial Procedure, and sections 504 and 1111 of Title 29, Labor, enacting provisions set out as notes under sections 3551 and 3553 of this title, rule 35 of the Federal Rules of Criminal Procedure, set out in the Appendix to this title, and section 994 of Title 28, and amending provisions set out as a note under section 3551 of this title] shall apply with respect to offenses committed after the enactment of this Act [Dec. 7, 1987].”
+Pub. L. 100–182, § 26, Dec. 7, 1987, 101 Stat. 1272, provided that: “The amendments made by this Act [amending this section, sections 3553, 3561, 3563, 3564, 3583, 3663, 3672, 3742, and 4106 of this title, section 994 of Title 28, Judiciary and Judicial Procedure, and sections 504 and 1111 of Title 29, Labor, enacting provisions set out as notes under sections 3551 and 3553 of this title, rule 35 of the Federal Rules of Criminal Procedure, set out in the Appendix to this title, and section 994 of Title 28, and amending provisions set out as a note under section 3551 of this title] shall apply with respect to offenses committed after the enactment of this Act [Dec. 7, 1987].”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–651, title I, § 105, Nov. 14, 1986, 100 Stat. 3646, provided that: “This title and the amendments made by this title [amending this section and section 1825 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section] shall take effect one hundred and twenty days after the date of enactment of this Act [Nov. 14, 1986]. The maximum hourly rates provided in section 3006A(d)(1) of title 18, United States Code, as amended by section 102(a)(3)(A) of this Act, shall apply only to services performed on or after the effective date of this title. The maximum allowed for compensation for a case, as provided in section 3006A(d)(2) of title 18, United States Code, as amended by section 102(a)(3)(B) of this Act, shall apply only to compensation claims in which some portion of the claim is for services performed on or after the effective date of this title. The maximum compensation allowed pursuant to section 3006A(e) of title 18, United States Code, as amended by subparagraphs (B) and (C) of section 102(a)(4) of this Act, shall apply only to services obtained on or after the effective date of this title.”
+Pub. L. 99–651, title I, § 105, Nov. 14, 1986, 100 Stat. 3646, provided that: “This title and the amendments made by this title [amending this section and section 1825 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section] shall take effect one hundred and twenty days after the date of enactment of this Act [Nov. 14, 1986]. The maximum hourly rates provided in section 3006A(d)(1) of title 18, United States Code, as amended by section 102(a)(3)(A) of this Act, shall apply only to services performed on or after the effective date of this title. The maximum allowed for compensation for a case, as provided in section 3006A(d)(2) of title 18, United States Code, as amended by section 102(a)(3)(B) of this Act, shall apply only to compensation claims in which some portion of the claim is for services performed on or after the effective date of this title. The maximum compensation allowed pursuant to section 3006A(e) of title 18, United States Code, as amended by subparagraphs (B) and (C) of section 102(a)(4) of this Act, shall apply only to services obtained on or after the effective date of this title.”
 
 **Effective Date of 1984 Amendment**
 
@@ -513,11 +513,11 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–412, § 4, Sept. 3, 1974, 88 Stat. 1093, provided in part that the amendment of subsec. (*l*) of this section by Pub. L. 93–412 shall take effect on Sept. 3, 1974.
+Pub. L. 93–412, § 4, Sept. 3, 1974, 88 Stat. 1093, provided in part that the amendment of subsec. (*l*) of this section by Pub. L. 93–412 shall take effect on Sept. 3, 1974.
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–447, § 3, Oct. 14, 1970, 84 Stat. 920, provided that: “The amendments made by section 1 of this Act [amending this section] shall become effective one hundred and twenty days after the date of enactment [Oct. 14, 1970].”
+Pub. L. 91–447, § 3, Oct. 14, 1970, 84 Stat. 920, provided that: “The amendments made by section 1 of this Act [amending this section] shall become effective one hundred and twenty days after the date of enactment [Oct. 14, 1970].”
 
 **Effective Date of 1968 Amendment**
 
@@ -525,49 +525,49 @@ Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effec
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–651, title I, § 101, Nov. 14, 1986, 100 Stat. 3642, provided that: “This title [amending this section and section 1825 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section] may be referred to as the ‘Criminal Justice Act Revision of 1986’.”
+Pub. L. 99–651, title I, § 101, Nov. 14, 1986, 100 Stat. 3642, provided that: “This title [amending this section and section 1825 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section] may be referred to as the ‘Criminal Justice Act Revision of 1986’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–473, title II, Oct. 12, 1984, 98 Stat. 2185, provided in part that: “This chapter [chapter XIX (§ 1901) of title II of Pub. L. 98–473, amending this section] may be cited as the ‘Criminal Justice Act Revision of 1984’.”
+Pub. L. 98–473, title II, Oct. 12, 1984, 98 Stat. 2185, provided in part that: “This chapter [chapter XIX (§ 1901) of title II of Pub. L. 98–473, amending this section] may be cited as the ‘Criminal Justice Act Revision of 1984’.”
 
 **Short Title**
 
-Pub. L. 88–455, § 1, Aug. 20, 1964, 78 Stat. 552, provided: “That this Act [enacting this section and provisions set out as a note under this section] may be cited as the ‘Criminal Justice Act of 1964.’ ”
+Pub. L. 88–455, § 1, Aug. 20, 1964, 78 Stat. 552, provided: “That this Act [enacting this section and provisions set out as a note under this section] may be cited as the ‘Criminal Justice Act of 1964.’ ”
 
 **Savings Provision**
 
-Pub. L. 97–164, title II, § 206(c), Apr. 2, 1982, 96 Stat. 53, provided that: “The amendments made by subsection (a) of this section [amending subsec. (h)(2)(A) of this section] shall not affect the term of existing appointments.”
+Pub. L. 97–164, title II, § 206(c), Apr. 2, 1982, 96 Stat. 53, provided that: “The amendments made by subsection (a) of this section [amending subsec. (h)(2)(A) of this section] shall not affect the term of existing appointments.”
 
 **Award of Attorney’s Fees and Litigation Expenses to Defense**
 
-Pub. L. 105–119, title VI, § 617, Nov. 26, 1997, 111 Stat. 2519, provided that: “During fiscal year 1998 and in any fiscal year thereafter, the court, in any criminal case (other than a case in which the defendant is represented by assigned counsel paid for by the public) pending on or after the date of the enactment of this Act [Nov. 26, 1997], may award to a prevailing party, other than the United States, a reasonable attorney’s fee and other litigation expenses, where the court finds that the position of the United States was vexatious, frivolous, or in bad faith, unless the court finds that special circumstances make such an award unjust. Such awards shall be granted pursuant to the procedures and limitations (but not the burden of proof) provided for an award under section 2412 of title 28, United States Code. To determine whether or not to award fees and costs under this section, the court, for good cause shown, may receive evidence ex parte and in camera (which shall include the submission of classified evidence or evidence that reveals or might reveal the identity of an informant or undercover agent or matters occurring before a grand jury) and evidence or testimony so received shall be kept under seal. Fees and other expenses awarded under this provision to a party shall be paid by the agency over which the party prevails from any funds made available to the agency by appropriation. No new appropriations shall be made as a result of this provision.”
+Pub. L. 105–119, title VI, § 617, Nov. 26, 1997, 111 Stat. 2519, provided that: “During fiscal year 1998 and in any fiscal year thereafter, the court, in any criminal case (other than a case in which the defendant is represented by assigned counsel paid for by the public) pending on or after the date of the enactment of this Act [Nov. 26, 1997], may award to a prevailing party, other than the United States, a reasonable attorney’s fee and other litigation expenses, where the court finds that the position of the United States was vexatious, frivolous, or in bad faith, unless the court finds that special circumstances make such an award unjust. Such awards shall be granted pursuant to the procedures and limitations (but not the burden of proof) provided for an award under section 2412 of title 28, United States Code. To determine whether or not to award fees and costs under this section, the court, for good cause shown, may receive evidence ex parte and in camera (which shall include the submission of classified evidence or evidence that reveals or might reveal the identity of an informant or undercover agent or matters occurring before a grand jury) and evidence or testimony so received shall be kept under seal. Fees and other expenses awarded under this provision to a party shall be paid by the agency over which the party prevails from any funds made available to the agency by appropriation. No new appropriations shall be made as a result of this provision.”
 
 **Government Rates of Travel for Criminal Justice Act Attorneys and Experts**
 
-Pub. L. 102–572, title VII, § 702, Oct. 29, 1992, 106 Stat. 4515, provided that: “The Administrator of General Services, in entering into contracts providing for special rates to be charged by Federal Government sources of supply, including common carriers and hotels (or other commercial providers of lodging) for official travel and accommodation of Federal Government employees, shall provide for charging the same rates for attorneys, experts, and other persons traveling primarily in connection with carrying out responsibilities under section 3006A of title 18, United States Code, including community defender organizations established under subsection (g) of that section.”
+Pub. L. 102–572, title VII, § 702, Oct. 29, 1992, 106 Stat. 4515, provided that: “The Administrator of General Services, in entering into contracts providing for special rates to be charged by Federal Government sources of supply, including common carriers and hotels (or other commercial providers of lodging) for official travel and accommodation of Federal Government employees, shall provide for charging the same rates for attorneys, experts, and other persons traveling primarily in connection with carrying out responsibilities under section 3006A of title 18, United States Code, including community defender organizations established under subsection (g) of that section.”
 
 **Study of Federal Defender Program**
 
-Pub. L. 101–650, title III, § 318, Dec. 1, 1990, 104 Stat. 5116, as amended by Pub. L. 102–198, § 9, Dec. 9, 1991, 105 Stat. 1626, directed Judicial Conference of the United States to conduct a study of effectiveness of Federal defender program and to transmit a report on results of study to Committees on the Judiciary of Senate and House of Representatives no later than Mar. 31, 1993, with report to include recommendations for legislation, a proposed formula for compensation of Federal defender program counsel, and suggestions for procedural and operational changes by courts.
+Pub. L. 101–650, title III, § 318, Dec. 1, 1990, 104 Stat. 5116, as amended by Pub. L. 102–198, § 9, Dec. 9, 1991, 105 Stat. 1626, directed Judicial Conference of the United States to conduct a study of effectiveness of Federal defender program and to transmit a report on results of study to Committees on the Judiciary of Senate and House of Representatives no later than Mar. 31, 1993, with report to include recommendations for legislation, a proposed formula for compensation of Federal defender program counsel, and suggestions for procedural and operational changes by courts.
 
 **Funds for Payment of Compensation and Reimbursement**
 
-Pub. L. 101–45, title II, § 102, June 30, 1989, 103 Stat. 122, provided in part: “That compensation and reimbursement of attorneys and others as authorized under section 3006A of title 18, United States Code, and section 1875(d) of title 28, United States Code, may hereinafter be paid from funds appropriated for ‘Defender Services’ in the year in which payment is required.”
+Pub. L. 101–45, title II, § 102, June 30, 1989, 103 Stat. 122, provided in part: “That compensation and reimbursement of attorneys and others as authorized under section 3006A of title 18, United States Code, and section 1875(d) of title 28, United States Code, may hereinafter be paid from funds appropriated for ‘Defender Services’ in the year in which payment is required.”
 
 **Certification by Attorney General to Administrative Office of United States Courts of Payment of Obligated Expenses**
 
-Pub. L. 95–144, § 5(c), Oct. 28, 1977, 91 Stat. 1222, provided that: “The Attorney General shall certify to the Administrative Office of the United States Courts those expenses which it is obligated to pay on behalf of an indigent offender under section 3006A of title 18, United States Code, and similar statutes.”
+Pub. L. 95–144, § 5(c), Oct. 28, 1977, 91 Stat. 1222, provided that: “The Attorney General shall certify to the Administrative Office of the United States Courts those expenses which it is obligated to pay on behalf of an indigent offender under section 3006A of title 18, United States Code, and similar statutes.”
 
 **Power and Function of a United States Commissioner**
 
-Pub. L. 91–447, § 2, Oct. 14, 1970, 84 Stat. 920, provided that a United States commissioner for a district could exercise any power, function, or duty authorized to be performed by a United States magistrate under the amendments made by section 1 of Pub. L. 91–447, which amended this section, if such commissioner had authority to perform such power, function, or duty prior to the enactment of such amendments.
+Pub. L. 91–447, § 2, Oct. 14, 1970, 84 Stat. 920, provided that a United States commissioner for a district could exercise any power, function, or duty authorized to be performed by a United States magistrate under the amendments made by section 1 of Pub. L. 91–447, which amended this section, if such commissioner had authority to perform such power, function, or duty prior to the enactment of such amendments.
 
 **Submission of Plans**
 
-Pub. L. 88–455, § 3, Aug. 20, 1964, 78 Stat. 554, directed each district court to submit a plan in accord with section 3006A of this title and the rules of the Judicial Conference of the United States to the judicial council of the circuit within 6 months from Aug. 20, 1964, further directed each judicial council to approve and send to the Administrative Office of the United States courts a plan for each district in its circuit within 9 months from Aug. 20, 1964, and also directed each district court and court of appeals to place its approved plan in operation within 1 year from Aug. 20, 1964.
+Pub. L. 88–455, § 3, Aug. 20, 1964, 78 Stat. 554, directed each district court to submit a plan in accord with section 3006A of this title and the rules of the Judicial Conference of the United States to the judicial council of the circuit within 6 months from Aug. 20, 1964, further directed each judicial council to approve and send to the Administrative Office of the United States courts a plan for each district in its circuit within 9 months from Aug. 20, 1964, and also directed each district court and court of appeals to place its approved plan in operation within 1 year from Aug. 20, 1964.
 
-## § 3007. Motions—(Rule)
+## § 3007. Motions—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -577,7 +577,7 @@ Form and contents, rule 47.
 
 (June 25, 1948, ch. 645, 62 Stat. 814.)
 
-## § 3008. Service and filing of papers—(Rule)
+## § 3008. Service and filing of papers—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -585,13 +585,13 @@ Requirement and manner of service; notice of orders; filing papers, rule 49.
 
 (June 25, 1948, ch. 645, 62 Stat. 815.)
 
-## § 3009. Records—(Rule)
+## § 3009. Records—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
 Keeping of records by district court clerks and magistrate judges, rule 55.
 
-(June 25, 1948, ch. 645, 62 Stat. 815; Pub. L. 90–578, title III, § 301(a)(4), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 645, 62 Stat. 815; Pub. L. 90–578, title III, § 301(a)(4), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -605,7 +605,7 @@ Keeping of records by district court clerks and magistrate judges, rule 55.
 
 Words “magistrate judges” substituted for “magistrates” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-## § 3010. Exceptions unnecessary—(Rule)
+## § 3010. Exceptions unnecessary—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -613,7 +613,7 @@ Objections substituted for exceptions, rule 51.
 
 (June 25, 1948, ch. 645, 62 Stat. 815.)
 
-## § 3011. Computation of time—(Rule)
+## § 3011. Computation of time—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -621,7 +621,7 @@ Computation: enlargement; expiration of term; motions and affidavits; service by
 
 (June 25, 1948, ch. 645, 62 Stat. 815.)
 
-## [§ 3012. Repealed. Pub. L. 98–473, title II, § 218(a)(2), Oct. 12, 1984, 98 Stat. 2027]
+## [§ 3012. Repealed. Pub. L. 98–473, title II, § 218(a)(2), Oct. 12, 1984, 98 Stat. 2027]
 
 Section, act June 25, 1948, ch. 645, 62 Stat. 815, related to orders respecting prisoners or persons in custody.
 
@@ -631,7 +631,7 @@ Section, act June 25, 1948, ch. 645, 62 Stat. 815, related to orders respecting 
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-## § 3013. Special assessment on convicted persons
+## § 3013. Special assessment on convicted persons
 
 **(a)** The court shall assess on any person convicted of an offense against the United States—
 
@@ -665,7 +665,7 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 **(d)** For the purposes of this section, an offense under section 13 of this title is an offense against the United States.
 
-(Added Pub. L. 98–473, title II, § 1405(a), Oct. 12, 1984, 98 Stat. 2174; amended Pub. L. 100–185, § 3, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §§ 7082(b), 7085, Nov. 18, 1988, 102 Stat. 4407, 4408; Pub. L. 101–647, title XXXV, § 3569, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 104–132, title II, § 210, Apr. 24, 1996, 110 Stat. 1240; Pub. L. 104–294, title VI, § 601(r)(4), Oct. 11, 1996, 110 Stat. 3502.)
+(Added Pub. L. 98–473, title II, § 1405(a), Oct. 12, 1984, 98 Stat. 2174; amended Pub. L. 100–185, § 3, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §§ 7082(b), 7085, Nov. 18, 1988, 102 Stat. 4407, 4408; Pub. L. 101–647, title XXXV, § 3569, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 104–132, title II, § 210, Apr. 24, 1996, 110 Stat. 1240; Pub. L. 104–294, title VI, § 601(r)(4), Oct. 11, 1996, 110 Stat. 3502.)
 
 **Editorial Notes**
 
@@ -677,13 +677,13 @@ Pub. L. 104–132 substituted “not less than $100” for “$50” in subpar. 
 
 1990—Subsec. (a)(1)(B). Pub. L. 101–647 substituted “an infraction” for “a infraction” in cl. (i) and a semicolon for a period at end of cl. (iii).
 
-1988—Subsec. (a)(1). Pub. L. 100–690, § 7085, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “in the case of a misdemeanor—
+1988—Subsec. (a)(1). Pub. L. 100–690, § 7085, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “in the case of a misdemeanor—
 
 “(A) the amount of $25 if the defendant is an individual; and
 
 “(B) the amount of $100 if the defendant is a person other than an individual; and”.
 
-Subsec. (c). Pub. L. 100–690, § 7082(b), inserted at end “This subsection shall apply to all assessments irrespective of the date of imposition.”
+Subsec. (c). Pub. L. 100–690, § 7082(b), inserted at end “This subsection shall apply to all assessments irrespective of the date of imposition.”
 
 1987—Subsecs. (c), (d). Pub. L. 100–185 added subsecs. (c) and (d).
 
@@ -697,7 +697,7 @@ Amendment by Pub. L. 104–132 effective, to extent constitutionally permissible
 
 Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98–473, set out as a note under section 20101 of Title 34, Crime Control and Law Enforcement.
 
-## § 3014. Additional special assessment
+## § 3014. Additional special assessment
 
 **(a) In General.—** Beginning on the date of enactment of the Justice for Victims of Trafficking Act of 2015, in addition to the assessment imposed under section 3013, the court shall assess an amount of $5,000 on any non-indigent person or entity convicted of an offense under—
 
@@ -725,9 +725,9 @@ Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98
 
 **(B)** subsections (b)(2) and (f) of section 107 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105);
 
-**(C)** section 214(b) of the Victims of Child Abuse Act of 1990 (34 U.S.C. 20304); 1
+**(C)** section 214(b) of the Victims of Child Abuse Act of 1990 (34 U.S.C. 20304); 1
 
-<sup>1</sup>  So in original. Probably should be “(34 U.S.C. 20304(b));”.
+<sup>1</sup> So in original. Probably should be “(34 U.S.C. 20304(b));”.
 
 and
 
@@ -745,9 +745,9 @@ and
 
 **(2) Use of funds.—** The Attorney General, in coordination with the Secretary of Health and Human Services, shall use amounts transferred to the Fund under paragraph (1) to award grants that may be used for the provision of health care or medical items or services to victims of trafficking under—
 
-**(A)** sections 202, 203, and 204 of the Trafficking Victims Protection Reauthorization Act of 2005 (42 U.S.C. 14044a, 14044b, and 14044c); 2
+**(A)** sections 202, 203, and 204 of the Trafficking Victims Protection Reauthorization Act of 2005 (42 U.S.C. 14044a, 14044b, and 14044c); 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(B)** subsections (b)(2) and (f) of section 107 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105); and
 
@@ -757,7 +757,7 @@ and
 
 **(4) Application of provision.—** The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, section 3831 of the CARES Act, section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act, section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, section 301(d) of division BB of the Consolidated Appropriations Act, 2021, section 2321(d) of the Continuing Appropriations Act, 2024 and Other Extensions Act, section 201(d) of the Further Continuing Appropriations and Other Extensions Act, 2024, section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024, section 101(d) of division G of the Consolidated Appropriations Act, 2024, section 3101(d) of the Health Extensions and Other Matters Act, 2025, section 2101(d) of division B of the Full-Year Continuing Appropriations and Extensions Act, 2025, section 6101(d) of the Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026, and section 6401(d) of the Consolidated Appropriations Act, 2026 shall continue to apply to the amounts transferred pursuant to paragraph (1).
 
-(Added and amended Pub. L. 114–22, title I, § 101(a), title IX, § 905, May 29, 2015, 129 Stat. 228, 266; Pub. L. 115–96, div. C, title I, § 3101(e), Dec. 22, 2017, 131 Stat. 2049; Pub. L. 115–123, div. E, title IX, § 50901(f), Feb. 9, 2018, 132 Stat. 289; Pub. L. 115–392, § 2(b), Dec. 21, 2018, 132 Stat. 5250; Pub. L. 116–59, div. B, title I, § 1101(e), Sept. 27, 2019, 133 Stat. 1103; Pub. L. 116–69, div. B, title I, § 1101(e), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, § 401(e), Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, § 3831(e), Mar. 27, 2020, 134 Stat. 434; Pub. L. 116–159, div. C, title I, § 2101(e), Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, § 1201(e), Dec. 11, 2020, 134 Stat. 1044; Pub. L. 116–260, div. BB, title III, § 301(e), Dec. 27, 2020, 134 Stat. 2922; Pub. L. 117–43, div. D, title I, § 3103, Sept. 30, 2021, 135 Stat. 380; Pub. L. 117–70, div. C, title I, § 2102, Dec. 3, 2021, 135 Stat. 1504; Pub. L. 117–86, div. B, title I, § 1102, Feb. 18, 2022, 136 Stat. 17; Pub. L. 117–103, div. O, title IV, § 401, Mar. 15, 2022, 136 Stat. 788; Pub. L. 117–177, § 1, Sept. 16, 2022, 136 Stat. 2109; Pub. L. 117–180, div. C, title I, § 102, Sept. 30, 2022, 136 Stat. 2133; Pub. L. 117–229, div. B, title I, § 102, Dec. 16, 2022, 136 Stat. 2309; Pub. L. 117–328, div. X, § 101, Dec. 29, 2022, 136 Stat. 5523; Pub. L. 117–347, title I, § 105(c), Jan. 5, 2023, 136 Stat. 6204; Pub. L. 118–15, div. B, title III, § 2321(e), Sept. 30, 2023, 137 Stat. 95; Pub. L. 118–22, div. B, title II, § 201(e), Nov. 17, 2023, 137 Stat. 120; Pub. L. 118–35, div. B, title I, § 101(e), Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, § 101(e), Mar. 9, 2024, 138 Stat. 398; Pub. L. 118–158, div. C, title I, § 3101(e), div. E, § 5103, Dec. 21, 2024, 138 Stat. 1763, 1771; Pub. L. 119–4, div. B, title I, § 2101(e), div. C, § 3103, Mar. 15, 2025, 139 Stat. 41, 46; Pub. L. 119–37, div. F, title I, § 6101(e), Nov. 12, 2025, 139 Stat. 629; Pub. L. 119–75, div. I, § 5012, div. J, title IV, § 6401(e), Feb. 3, 2026, 140 Stat. 630, 687.)
+(Added and amended Pub. L. 114–22, title I, § 101(a), title IX, § 905, May 29, 2015, 129 Stat. 228, 266; Pub. L. 115–96, div. C, title I, § 3101(e), Dec. 22, 2017, 131 Stat. 2049; Pub. L. 115–123, div. E, title IX, § 50901(f), Feb. 9, 2018, 132 Stat. 289; Pub. L. 115–392, § 2(b), Dec. 21, 2018, 132 Stat. 5250; Pub. L. 116–59, div. B, title I, § 1101(e), Sept. 27, 2019, 133 Stat. 1103; Pub. L. 116–69, div. B, title I, § 1101(e), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, § 401(e), Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, § 3831(e), Mar. 27, 2020, 134 Stat. 434; Pub. L. 116–159, div. C, title I, § 2101(e), Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, § 1201(e), Dec. 11, 2020, 134 Stat. 1044; Pub. L. 116–260, div. BB, title III, § 301(e), Dec. 27, 2020, 134 Stat. 2922; Pub. L. 117–43, div. D, title I, § 3103, Sept. 30, 2021, 135 Stat. 380; Pub. L. 117–70, div. C, title I, § 2102, Dec. 3, 2021, 135 Stat. 1504; Pub. L. 117–86, div. B, title I, § 1102, Feb. 18, 2022, 136 Stat. 17; Pub. L. 117–103, div. O, title IV, § 401, Mar. 15, 2022, 136 Stat. 788; Pub. L. 117–177, § 1, Sept. 16, 2022, 136 Stat. 2109; Pub. L. 117–180, div. C, title I, § 102, Sept. 30, 2022, 136 Stat. 2133; Pub. L. 117–229, div. B, title I, § 102, Dec. 16, 2022, 136 Stat. 2309; Pub. L. 117–328, div. X, § 101, Dec. 29, 2022, 136 Stat. 5523; Pub. L. 117–347, title I, § 105(c), Jan. 5, 2023, 136 Stat. 6204; Pub. L. 118–15, div. B, title III, § 2321(e), Sept. 30, 2023, 137 Stat. 95; Pub. L. 118–22, div. B, title II, § 201(e), Nov. 17, 2023, 137 Stat. 120; Pub. L. 118–35, div. B, title I, § 101(e), Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, § 101(e), Mar. 9, 2024, 138 Stat. 398; Pub. L. 118–158, div. C, title I, § 3101(e), div. E, § 5103, Dec. 21, 2024, 138 Stat. 1763, 1771; Pub. L. 119–4, div. B, title I, § 2101(e), div. C, § 3103, Mar. 15, 2025, 139 Stat. 41, 46; Pub. L. 119–37, div. F, title I, § 6101(e), Nov. 12, 2025, 139 Stat. 629; Pub. L. 119–75, div. I, § 5012, div. J, title IV, § 6401(e), Feb. 3, 2026, 140 Stat. 630, 687.)
 
 **Editorial Notes**
 
@@ -799,35 +799,35 @@ Section 6401(d) of the Consolidated Appropriations Act, 2026, referred to in sub
 
 **Amendments**
 
-2026—Subsec. (a). Pub. L. 119–75, § 5012, struck out “and ending on September 30, 2025” before “, in addition to the assessment” in introductory provisions.
+2026—Subsec. (a). Pub. L. 119–75, § 5012, struck out “and ending on September 30, 2025” before “, in addition to the assessment” in introductory provisions.
 
-Subsec. (h)(4). Pub. L. 119–75, § 6401(e), substituted “section 6101(d) of the Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026, and section 6401(d) of the Consolidated Appropriations Act, 2026” for “section 6101(d) of the Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026”.
+Subsec. (h)(4). Pub. L. 119–75, § 6401(e), substituted “section 6101(d) of the Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026, and section 6401(d) of the Consolidated Appropriations Act, 2026” for “section 6101(d) of the Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026”.
 
-2025—Subsec. (a). Pub. L. 119–4, § 3103, substituted “September 30, 2025” for “March 14, 2025” in introductory provisions.
+2025—Subsec. (a). Pub. L. 119–4, § 3103, substituted “September 30, 2025” for “March 14, 2025” in introductory provisions.
 
 Subsec. (h)(4). Pub. L. 119–37 substituted “section 2101(d) of division B of the Full-Year Continuing Appropriations and Extensions Act, 2025, and section 6101(d) of the Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026” for “and section 2101(d) of division B of the Full-Year Continuing Appropriations and Extensions Act, 2025”.
 
-Pub. L. 119–4, § 2101(e), substituted “section 3101(d) of the Health Extensions and Other Matters Act, 2025, and section 2101(d) of division B of the Full-Year Continuing Appropriations and Extensions Act, 2025” for “and section 3101(d) of the Health Extensions and Other Matters Act, 2025”.
+Pub. L. 119–4, § 2101(e), substituted “section 3101(d) of the Health Extensions and Other Matters Act, 2025, and section 2101(d) of division B of the Full-Year Continuing Appropriations and Extensions Act, 2025” for “and section 3101(d) of the Health Extensions and Other Matters Act, 2025”.
 
-2024—Subsec. (a). Pub. L. 118–158, § 5103, substituted “March 14, 2025” for “December 23, 2024” in introductory provisions.
+2024—Subsec. (a). Pub. L. 118–158, § 5103, substituted “March 14, 2025” for “December 23, 2024” in introductory provisions.
 
-Subsec. (h)(1). Pub. L. 118–158, § 3101(e)(1), substituted “under section 10503(b)(1) of the Patient Protection and Affordable Care Act (42 U.S.C. 254b–2(b)(1)) for fiscal year 2015 and each subsequent fiscal year (or period thereof)” for “under subparagraphs (E) and (F) of section 10503(b)(1) of the Patient Protection and Affordable Care Act (42 U.S.C. 254b–2(b)(1))”.
+Subsec. (h)(1). Pub. L. 118–158, § 3101(e)(1), substituted “under section 10503(b)(1) of the Patient Protection and Affordable Care Act (42 U.S.C. 254b–2(b)(1)) for fiscal year 2015 and each subsequent fiscal year (or period thereof)” for “under subparagraphs (E) and (F) of section 10503(b)(1) of the Patient Protection and Affordable Care Act (42 U.S.C. 254b–2(b)(1))”.
 
-Subsec. (h)(4). Pub. L. 118–158, § 3101(e)(2), substituted “section 101(d) of division G of the Consolidated Appropriations Act, 2024, and section 3101(d) of the Health Extensions and Other Matters Act, 2025” for “and section 101(d) of the Consolidated Appropriations Act, 2024”.
+Subsec. (h)(4). Pub. L. 118–158, § 3101(e)(2), substituted “section 101(d) of division G of the Consolidated Appropriations Act, 2024, and section 3101(d) of the Health Extensions and Other Matters Act, 2025” for “and section 101(d) of the Consolidated Appropriations Act, 2024”.
 
-Pub. L. 118–42, § 101(e), substituted “section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024, and section 101(d) of the Consolidated Appropriations Act, 2024” for “and section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024”.
+Pub. L. 118–42, § 101(e), substituted “section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024, and section 101(d) of the Consolidated Appropriations Act, 2024” for “and section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024”.
 
 Pub. L. 118–35 substituted “section 201(d) of the Further Continuing Appropriations and Other Extensions Act, 2024, and section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024” for “and section 201(d) of the Further Continuing Appropriations and Other Extensions Act, 2024”.
 
-2023—Subsec. (a). Pub. L. 117–347, § 105(c)(1), which directed striking out “and ending on December 16, 2022” in introductory provisions, could not be executed because the words “and ending on December 16, 2022” did not appear in text after the intervening amendments by Pub. L. 117–229 and Pub. L. 117–328. See 2022 Amendment notes below.
+2023—Subsec. (a). Pub. L. 117–347, § 105(c)(1), which directed striking out “and ending on December 16, 2022” in introductory provisions, could not be executed because the words “and ending on December 16, 2022” did not appear in text after the intervening amendments by Pub. L. 117–229 and Pub. L. 117–328. See 2022 Amendment notes below.
 
-Subsec. (e)(1). Pub. L. 117–347, § 105(c)(2)(A), substituted “2027” for “2023” in introductory provisions.
+Subsec. (e)(1). Pub. L. 117–347, § 105(c)(2)(A), substituted “2027” for “2023” in introductory provisions.
 
-Subsec. (e)(1)(A). Pub. L. 117–347, § 105(c)(2)(B), substituted “(34 U.S.C. 20705)” for “(42 U.S.C. 14044c)”.
+Subsec. (e)(1)(A). Pub. L. 117–347, § 105(c)(2)(B), substituted “(34 U.S.C. 20705)” for “(42 U.S.C. 14044c)”.
 
-Subsec. (e)(1)(C). Pub. L. 117–347, § 105(c)(2)(C), substituted “(34 U.S.C. 20304)” for “(42 U.S.C. 13002(b))”.
+Subsec. (e)(1)(C). Pub. L. 117–347, § 105(c)(2)(C), substituted “(34 U.S.C. 20304)” for “(42 U.S.C. 13002(b))”.
 
-Subsec. (e)(1)(D). Pub. L. 117–347, § 105(c)(2)(D), substituted “(34 U.S.C. 21116)” for “(42 U.S.C. 17616)”.
+Subsec. (e)(1)(D). Pub. L. 117–347, § 105(c)(2)(D), substituted “(34 U.S.C. 21116)” for “(42 U.S.C. 17616)”.
 
 Subsec. (h)(4). Pub. L. 118–22 substituted “section 2321(d) of the Continuing Appropriations Act, 2024 and Other Extensions Act, and section 201(d) of the Further Continuing Appropriations and Other Extensions Act, 2024” for “and section 2321(d) of the Continuing Appropriations Act, 2024 and Other Extensions Act”.
 
@@ -849,32 +849,32 @@ Pub. L. 117–86 substituted “March 11, 2022” for “February 18, 2022” in
 
 Pub. L. 117–43 substituted “December 31, 2021” for “September 30, 2021” in introductory provisions.
 
-2020—Subsec. (h)(4). Pub. L. 116–260 substituted “, section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, and section 301(d) of division BB of the Consolidated Appropriations Act, 2021.” for “and section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act”.
+2020—Subsec. (h)(4). Pub. L. 116–260 substituted “, section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, and section 301(d) of division BB of the Consolidated Appropriations Act, 2021.” for “and section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act”.
 
 Pub. L. 116–215 substituted “Social Services Act,” for “Social Services Act,,” and “section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act, and section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act” for “and section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act”.
 
-Pub. L. 116–159 substituted “Social Services Act,” for “Social Services Act,,,” and “, section 3831 of the CARES Act, and section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act” for “and section 3831 of the CARES Act”.
+Pub. L. 116–159 substituted “Social Services Act,” for “Social Services Act,,,” and “, section 3831 of the CARES Act, and section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act” for “and section 3831 of the CARES Act”.
 
 Pub. L. 116–136 substituted “section 3831 of the CARES Act” for “section 401(d) of division N of the Further Consolidated Appropriations Act, 2020”.
 
-2019—Subsec. (h)(4). Pub. L. 116–94 substituted “, and section 401(d) of division N of the Further Consolidated Appropriations Act, 2020” for “section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019, and section 1101(d) of the Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of 2019”.
+2019—Subsec. (h)(4). Pub. L. 116–94 substituted “, and section 401(d) of division N of the Further Consolidated Appropriations Act, 2020” for “section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019, and section 1101(d) of the Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of 2019”.
 
-Pub. L. 116–69 substituted “, section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019, and section 1101(d) of the Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of 2019” for “and section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019”.
+Pub. L. 116–69 substituted “, section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019, and section 1101(d) of the Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of 2019” for “and section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019”.
 
-Pub. L. 116–59 substituted “, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, and section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019” for “and section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act”.
+Pub. L. 116–59 substituted “, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, and section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019” for “and section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act”.
 
-2018—Subsec. (a). Pub. L. 115–392, § 2(b)(1), substituted “September 30, 2021” for “September 30, 2019” in introductory provisions.
+2018—Subsec. (a). Pub. L. 115–392, § 2(b)(1), substituted “September 30, 2021” for “September 30, 2019” in introductory provisions.
 
-Subsec. (e)(1). Pub. L. 115–392, § 2(b)(2), substituted “2023” for “2019” in introductory provisions.
+Subsec. (e)(1). Pub. L. 115–392, § 2(b)(2), substituted “2023” for “2019” in introductory provisions.
 
-Subsec. (f). Pub. L. 115–392, § 2(b)(3), inserted “, including the mandatory imposition of civil remedies for satisfaction of an unpaid fine as authorized under section 3613, where appropriate” after “criminal cases”.
+Subsec. (f). Pub. L. 115–392, § 2(b)(3), inserted “, including the mandatory imposition of civil remedies for satisfaction of an unpaid fine as authorized under section 3613, where appropriate” after “criminal cases”.
 
-Subsec. (h)(3). Pub. L. 115–392, § 2(b)(4), inserted “and child victims of a severe form of trafficking (as defined in section 103 of the Victims of Trafficking and Violence Protection Act of 2000 (22 U.S.C. 7102))” after “child pornography victims”.
+Subsec. (h)(3). Pub. L. 115–392, § 2(b)(4), inserted “and child victims of a severe form of trafficking (as defined in section 103 of the Victims of Trafficking and Violence Protection Act of 2000 (22 U.S.C. 7102))” after “child pornography victims”.
 
 Subsec. (h)(4). Pub. L. 115–123 substituted “and section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act” for “and section 3101(d) of the CHIP and Public Health Funding Extension Act”.
 
-2017—Subsec. (h)(1). Pub. L. 115–96, § 3101(e)(1), substituted “subparagraphs (E) and (F) of section 10503(b)(1) of the Patient Protection and Affordable Care Act (42 U.S.C. 254b–2(b)(1))” for “section 10503(b)(1)(E) of the Patient Protection and Affordable Care Act (42 U.S.C. 254b–2(b)(1)(E)), as amended by section 221 of the Medicare Access and CHIP Reauthorization Act of 2015”.
+2017—Subsec. (h)(1). Pub. L. 115–96, § 3101(e)(1), substituted “subparagraphs (E) and (F) of section 10503(b)(1) of the Patient Protection and Affordable Care Act (42 U.S.C. 254b–2(b)(1))” for “section 10503(b)(1)(E) of the Patient Protection and Affordable Care Act (42 U.S.C. 254b–2(b)(1)(E)), as amended by section 221 of the Medicare Access and CHIP Reauthorization Act of 2015”.
 
-Subsec. (h)(4). Pub. L. 115–96, § 3101(e)(2), inserted “and section 3101(d) of the CHIP and Public Health Funding Extension Act” after “section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015”.
+Subsec. (h)(4). Pub. L. 115–96, § 3101(e)(2), inserted “and section 3101(d) of the CHIP and Public Health Funding Extension Act” after “section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015”.
 
-2015—Subsec. (e)(1)(D). Pub. L. 114–22, § 905, added subpar. (D).
+2015—Subsec. (e)(1)(D). Pub. L. 114–22, § 905, added subpar. (D).

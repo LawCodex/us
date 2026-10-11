@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 51—PANAMA CANAL
 
-## § 3601. Congressional statement of purpose
+## § 3601. Congressional statement of purpose
 
 It is the purpose of this chapter to provide legislation necessary or desirable for the implementation of the Panama Canal Treaty of 1977 between the United States of America and the Republic of Panama and of the related agreements accompanying that Treaty.
 
-(Pub. L. 96–70, § 2, Sept. 27, 1979, 93 Stat. 455.)
+(Pub. L. 96–70, § 2, Sept. 27, 1979, 93 Stat. 455.)
 
 **Editorial Notes**
 
@@ -31,37 +31,37 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Effective Date**
 
-Pub. L. 96–70, title III, § 3304, Sept. 27, 1979, 93 Stat. 500, provided that: “Except as provided in sections 1231 [enacting section 3671 of this title and amending sections 5595, 5724a, and 8102 of Title 5, Government Organization and Employees], 1232 [enacting section 3672 of this title and provisions set out as a note under section 3672 of this title], 1241 [amending section 8336 of Title 5 and enacting provisions set out as notes under section 8336 of Title 5], 1242 [amending section 8339 of Title 5 and enacting provisions set out as notes under section 8339 of Title 5], 1261 [enacting section 3691 of this title and provisions set out as a note under section 3691 of this title], 1605 [enacting section 3795 of this title and provisions set out as a note under section 3795 of this title], 2203 [enacting section 3843 of this title and provisions set out as a note under section 3843 of this title], 2402 [enacting section 3852 of this title and provisions set out as a note under section 3852 of this title], 3101 [enacting section 3861 of this title], and 3201 [amending sections 1101 and 1182 of Title 8, Aliens and Nationality, and enacting provisions set out as notes under sections 1101 and 1182 of Title 8] of this Act, the preceding provisions of this Act [see Short Title note below] shall take effect on the date on which the Panama Canal Treaty of 1977 enters into force [Oct. 1, 1979].”
+Pub. L. 96–70, title III, § 3304, Sept. 27, 1979, 93 Stat. 500, provided that: “Except as provided in sections 1231 [enacting section 3671 of this title and amending sections 5595, 5724a, and 8102 of Title 5, Government Organization and Employees], 1232 [enacting section 3672 of this title and provisions set out as a note under section 3672 of this title], 1241 [amending section 8336 of Title 5 and enacting provisions set out as notes under section 8336 of Title 5], 1242 [amending section 8339 of Title 5 and enacting provisions set out as notes under section 8339 of Title 5], 1261 [enacting section 3691 of this title and provisions set out as a note under section 3691 of this title], 1605 [enacting section 3795 of this title and provisions set out as a note under section 3795 of this title], 2203 [enacting section 3843 of this title and provisions set out as a note under section 3843 of this title], 2402 [enacting section 3852 of this title and provisions set out as a note under section 3852 of this title], 3101 [enacting section 3861 of this title], and 3201 [amending sections 1101 and 1182 of Title 8, Aliens and Nationality, and enacting provisions set out as notes under sections 1101 and 1182 of Title 8] of this Act, the preceding provisions of this Act [see Short Title note below] shall take effect on the date on which the Panama Canal Treaty of 1977 enters into force [Oct. 1, 1979].”
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–65, div. C, title XXXV, § 3501, Oct. 5, 1999, 113 Stat. 974, provided that: “This title [amending section 3714a of this title and enacting provisions set out as a note under section 3714a of this title] may be cited as the ‘Panama Canal Commission Authorization Act for Fiscal Year 2000’.”
+Pub. L. 106–65, div. C, title XXXV, § 3501, Oct. 5, 1999, 113 Stat. 974, provided that: “This title [amending section 3714a of this title and enacting provisions set out as a note under section 3714a of this title] may be cited as the ‘Panama Canal Commission Authorization Act for Fiscal Year 2000’.”
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–85, div. C, title XXXV, § 3511(a), Nov. 18, 1997, 111 Stat. 2062, provided that: “This subtitle [subtitle B (§§ 3511–3550) of title XXXV of div. C of Pub. L. 105–85, enacting sections 3673, 3861, and 3862 of this title, amending sections 3602, 3612a, 3612b, 3613, 3620, 3622, 3642, 3650, 3652, 3656, 3657, 3658, 3661, 3662, 3664, 3671, 3681, 3701, 3712, 3714b, 3715c, 3731, 3751, 3752, 3771, 3772, 3776, and 3792 of this title and sections 5315, 5724, and 5724a of Title 5, Government Organization and Employees, repealing sections 3655, 3659, and 3665 of this title, and enacting provisions set out as notes under section 3650 of this title and section 5724 of Title 5] may be cited as the ‘Panama Canal Transition Facilitation Act of 1997’.”
+Pub. L. 105–85, div. C, title XXXV, § 3511(a), Nov. 18, 1997, 111 Stat. 2062, provided that: “This subtitle [subtitle B (§§ 3511–3550) of title XXXV of div. C of Pub. L. 105–85, enacting sections 3673, 3861, and 3862 of this title, amending sections 3602, 3612a, 3612b, 3613, 3620, 3622, 3642, 3650, 3652, 3656, 3657, 3658, 3661, 3662, 3664, 3671, 3681, 3701, 3712, 3714b, 3715c, 3731, 3751, 3752, 3771, 3772, 3776, and 3792 of this title and sections 5315, 5724, and 5724a of Title 5, Government Organization and Employees, repealing sections 3655, 3659, and 3665 of this title, and enacting provisions set out as notes under section 3650 of this title and section 5724 of Title 5] may be cited as the ‘Panama Canal Transition Facilitation Act of 1997’.”
 
 **Short Title of 1996 Amendments**
 
-Pub. L. 104–201, div. C, title XXXV, § 3521(a), Sept. 23, 1996, 110 Stat. 2860, provided that: “This subtitle [subtitle B (§§ 3521–3549) of title XXXV of div. C of Pub. L. 104–201, enacting sections 3714b and 3873 of this title, amending sections 3602, 3613, 3614, 3623, 3642, 3649 to 3653, 3657, 3658, 3663, 3664, 3671, 3682, 3712, 3713, 3721, 3723, 3731, 3741, 3751, 3777, and 3811 of this title and sections 3401, 5102, 5342, 5343, 5348, 5373, 5537, 5541, 5924, 6322, and 7901 of Title 5, Government Organization and Employees, repealing sections 3654, 3683, 3711, 3795, 3801, 3802, 3831, 3841 to 3844, 3851, 3852, and 3861 of this title, enacting provisions set out as notes under sections 3613, 3614, and 3652 of this title, and repealing provisions set out as notes under sections 3795 and 3843 of this title] may be cited as the ‘Panama Canal Act Amendments of 1996’.”
+Pub. L. 104–201, div. C, title XXXV, § 3521(a), Sept. 23, 1996, 110 Stat. 2860, provided that: “This subtitle [subtitle B (§§ 3521–3549) of title XXXV of div. C of Pub. L. 104–201, enacting sections 3714b and 3873 of this title, amending sections 3602, 3613, 3614, 3623, 3642, 3649 to 3653, 3657, 3658, 3663, 3664, 3671, 3682, 3712, 3713, 3721, 3723, 3731, 3741, 3751, 3777, and 3811 of this title and sections 3401, 5102, 5342, 5343, 5348, 5373, 5537, 5541, 5924, 6322, and 7901 of Title 5, Government Organization and Employees, repealing sections 3654, 3683, 3711, 3795, 3801, 3802, 3831, 3841 to 3844, 3851, 3852, and 3861 of this title, enacting provisions set out as notes under sections 3613, 3614, and 3652 of this title, and repealing provisions set out as notes under sections 3795 and 3843 of this title] may be cited as the ‘Panama Canal Act Amendments of 1996’.”
 
-Pub. L. 104–106, div. C, title XXXV, § 3521, Feb. 10, 1996, 110 Stat. 638, provided that: “This subtitle [subtitle B (§§ 3521–3530) of title XXXV of div. C of Pub. L. 104–106, enacting sections 3612a and 3612b of this title and amending sections 3611, 3612, 3645, 3712, 3713, 3723, 3731, 3761, 3775, 3776, 3791, and 3794 of this title and section 9101 of Title 31, Money and Finance] may be cited as the ‘Panama Canal Amendments Act of 1995’.”
+Pub. L. 104–106, div. C, title XXXV, § 3521, Feb. 10, 1996, 110 Stat. 638, provided that: “This subtitle [subtitle B (§§ 3521–3530) of title XXXV of div. C of Pub. L. 104–106, enacting sections 3612a and 3612b of this title and amending sections 3611, 3612, 3645, 3712, 3713, 3723, 3731, 3761, 3775, 3776, 3791, and 3794 of this title and section 9101 of Title 31, Money and Finance] may be cited as the ‘Panama Canal Amendments Act of 1995’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–705, § 1, Nov. 19, 1988, 102 Stat. 4685, provided that: “This Act [enacting sections 3715 to 3715d of this title, amending sections 3612, 3712, and 3731 of this title, and enacting provisions set out as a note under section 3612 of this title] may be cited as the ‘Panama Canal Commission Compensation Fund Act of 1988’.”
+Pub. L. 100–705, § 1, Nov. 19, 1988, 102 Stat. 4685, provided that: “This Act [enacting sections 3715 to 3715d of this title, amending sections 3612, 3712, and 3731 of this title, and enacting provisions set out as a note under section 3612 of this title] may be cited as the ‘Panama Canal Commission Compensation Fund Act of 1988’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–203, title V, § 5421, Dec. 22, 1987, 101 Stat. 1330–271, provided that: “This part [part 2 of subtitle E (§§ 5421–5429) of title V of Pub. L. 100–203, enacting section 3714 of this title, amending sections 3683, 3711, 3712, 3713, 3751, 3753, 3754, 3792, and 3793 of this title and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3683 of this title] may be referred to as the ‘Panama Canal Revolving Fund Act’.”
+Pub. L. 100–203, title V, § 5421, Dec. 22, 1987, 101 Stat. 1330–271, provided that: “This part [part 2 of subtitle E (§§ 5421–5429) of title V of Pub. L. 100–203, enacting section 3714 of this title, amending sections 3683, 3711, 3712, 3713, 3751, 3753, 3754, 3792, and 3793 of this title and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3683 of this title] may be referred to as the ‘Panama Canal Revolving Fund Act’.”
 
 **Short Title of 1985 Amendment**
 
-Pub. L. 99–209, § 1, Dec. 23, 1985, 99 Stat. 1716, provided that: “This Act [enacting section 3779 of this title, amending sections 3771, 3772, and 3774 to 3776 of this title, and enacting provisions set out as a note under section 3771 of this title] may be cited as the ‘Panama Canal Amendments Act of 1985’.”
+Pub. L. 99–209, § 1, Dec. 23, 1985, 99 Stat. 1716, provided that: “This Act [enacting section 3779 of this title, amending sections 3771, 3772, and 3774 to 3776 of this title, and enacting provisions set out as a note under section 3771 of this title] may be cited as the ‘Panama Canal Amendments Act of 1985’.”
 
 **Short Title**
 
-Pub. L. 96–70, § 1, Sept. 27, 1979, 93 Stat. 452, provided that: “This Act [enacting this chapter, amending section 2778 of this title, sections 305, 5102, 5316, 5342, 5343, 5348, 5373, 5504, 5533, 5541, 5583, 5595, 5724a, 6301, 6322, 6323, 8102, 8146, 8335, 8336, 8339, 8348, 8701, and 8901 of Title 5, Government Organization and Employees, sections 1101 and 1182 of Title 8, Aliens and Nationality, section 213 of Title 29, Labor, sections 403, 3401, and 3682 of Title 39, Postal Service, and sections 191, 195, and 196 of Title 50, War and National Defense, repealing section 3402 of Title 39 and section 191b of Title 50, and enacting provisions set out as notes under sections 3601, 3602, 3672, 3691, 3795, 3843, and 3852 of this title, sections 8336 and 8339 of Title 5, and sections 1101 and 1182 of Title 8] may be cited as the ‘Panama Canal Act of 1979’.”
+Pub. L. 96–70, § 1, Sept. 27, 1979, 93 Stat. 452, provided that: “This Act [enacting this chapter, amending section 2778 of this title, sections 305, 5102, 5316, 5342, 5343, 5348, 5373, 5504, 5533, 5541, 5583, 5595, 5724a, 6301, 6322, 6323, 8102, 8146, 8335, 8336, 8339, 8348, 8701, and 8901 of Title 5, Government Organization and Employees, sections 1101 and 1182 of Title 8, Aliens and Nationality, section 213 of Title 29, Labor, sections 403, 3401, and 3682 of Title 39, Postal Service, and sections 191, 195, and 196 of Title 50, War and National Defense, repealing section 3402 of Title 39 and section 191b of Title 50, and enacting provisions set out as notes under sections 3601, 3602, 3672, 3691, 3795, 3843, and 3852 of this title, sections 8336 and 8339 of Title 5, and sections 1101 and 1182 of Title 8] may be cited as the ‘Panama Canal Act of 1979’.”
 
 **Executive Documents**
 
@@ -135,7 +135,7 @@ By the authority vested in me as President of the United States of America by th
 
 Jimmy Carter.
 
-## § 3602. Definitions
+## § 3602. Definitions
 
 **(a) References to Panama Canal Treaty of 1977 and related agreements** For purposes of this chapter—
 
@@ -165,7 +165,7 @@ Any reference set forth in subsection (b) of this section shall apply except as 
 
 **(2)** The term “Panama Canal Authority” means the entity created by the Republic of Panama to succeed the Panama Canal Commission as of the Canal Transfer Date.
 
-(Pub. L. 96–70, § 3, Sept. 27, 1979, 93 Stat. 455; Pub. L. 104–201, div. C, title XXXV, §§ 3522, 3548(c)(1), Sept. 23, 1996, 110 Stat. 2860, 2869; Pub. L. 105–85, div. C, title XXXV, §§ 3512, 3550(d)(1), (2)(A), Nov. 18, 1997, 111 Stat. 2063, 2074.)
+(Pub. L. 96–70, § 3, Sept. 27, 1979, 93 Stat. 455; Pub. L. 104–201, div. C, title XXXV, §§ 3522, 3548(c)(1), Sept. 23, 1996, 110 Stat. 2860, 2869; Pub. L. 105–85, div. C, title XXXV, §§ 3512, 3550(d)(1), (2)(A), Nov. 18, 1997, 111 Stat. 2063, 2074.)
 
 **Editorial Notes**
 
@@ -175,23 +175,23 @@ This chapter, referred to in subsecs. (a), (c), and (d), was in the original “
 
 **Amendments**
 
-1997—Subsec. (b). Pub. L. 105–85, § 3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
+1997—Subsec. (b). Pub. L. 105–85, § 3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
 
-Pub. L. 105–85, § 3550(d)(1), substituted “laws of the United States and regulations issued pursuant to such laws” for “the Canal Zone Code or other laws of the United States and regulations issued pursuant to such Code or other laws” in introductory provisions.
+Pub. L. 105–85, § 3550(d)(1), substituted “laws of the United States and regulations issued pursuant to such laws” for “the Canal Zone Code or other laws of the United States and regulations issued pursuant to such Code or other laws” in introductory provisions.
 
-Subsec. (c). Pub. L. 105–85, § 3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
+Subsec. (c). Pub. L. 105–85, § 3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
 
-Subsec. (d). Pub. L. 105–85, § 3512, added subsec. (d).
+Subsec. (d). Pub. L. 105–85, § 3512, added subsec. (d).
 
-1996—Pub. L. 104–201, § 3548(c)(1), struck out “and recommendation for legislation” after “Definitions” in section catchline.
+1996—Pub. L. 104–201, § 3548(c)(1), struck out “and recommendation for legislation” after “Definitions” in section catchline.
 
-Subsec. (b)(4) to (7). Pub. L. 104–201, § 3522(1), inserted “and” at end of par. (4), substituted a period for semicolon at end of par. (5), and struck out pars. (6) and (7) which read as follows:
+Subsec. (b)(4) to (7). Pub. L. 104–201, § 3522(1), inserted “and” at end of par. (4), substituted a period for semicolon at end of par. (5), and struck out pars. (6) and (7) which read as follows:
 
 “(6) in chapter 57 of title 5 of the Canal Zone Code, ‘hospitals’ and ‘Health Bureau’ shall be deemed to refer, respectively, to the hospitals operated by the United States in the Republic of Panama, and to the organizational unit operating such hospitals; and
 
 “(7) in chapter 57 of title 5 of the Canal Zone Code, in section 4784 of title 6 of such Code, and in section 2 of title 7 of such Code, ‘health director’ shall be deemed to refer to the senior official in charge of the hospitals operated by the United States in the Republic of Panama.”
 
-Subsec. (d). Pub. L. 104–201, § 3522(2), struck out subsec. (d) which read as follows: “The President shall, within two years after October 1, 1979, submit to the Congress a request for legislation which would—
+Subsec. (d). Pub. L. 104–201, § 3522(2), struck out subsec. (d) which read as follows: “The President shall, within two years after October 1, 1979, submit to the Congress a request for legislation which would—
 
 “(1) amend or repeal provisions of law which in their present form are applicable only during the transition period prescribed in Article XI of that Treaty,
 
@@ -203,19 +203,19 @@ Subsec. (d). Pub. L. 104–201, § 3522(2), struck out subsec. (d) which read 
 
 **References to Canal Zone Code Deemed References to Panama Canal Code**
 
-Pub. L. 96–70, title III, § 3303(b), Sept. 27, 1979, 93 Stat. 499, provided that: “Those provisions of the Canal Zone Code not repealed by this Act are redesignated as the ‘Panama Canal Code’. Any reference to the Canal Zone Code in those laws and regulations referred to in section 3(b) of this Act [subsec. (b) of this section] shall, subject to the provisions of such section, be deemed to refer to the [former] Panama Canal Code.”
+Pub. L. 96–70, title III, § 3303(b), Sept. 27, 1979, 93 Stat. 499, provided that: “Those provisions of the Canal Zone Code not repealed by this Act are redesignated as the ‘Panama Canal Code’. Any reference to the Canal Zone Code in those laws and regulations referred to in section 3(b) of this Act [subsec. (b) of this section] shall, subject to the provisions of such section, be deemed to refer to the [former] Panama Canal Code.”
 
 ## SUBCHAPTER I—ADMINISTRATION AND REGULATIONS
 
 ### Part 1—Panama Canal Commission
 
-#### § 3611. Establishment, purposes, offices, and residence of Commission
+#### § 3611. Establishment, purposes, offices, and residence of Commission
 
 **(a)** For the purposes of managing, operating, and maintaining the Panama Canal and its complementary works, installations and equipment, and of conducting operations incident thereto, in accordance with the Panama Canal Treaty of 1977 and related agreements, the Panama Canal Commission (hereinafter in this chapter referred to as the “Commission”) is established as a wholly owned government corporation (as that term is used in chapter 91 of title 31) within the executive branch of the Government of the United States. The authority of the President with respect to the Commission shall be exercised through the Secretary of Defense.
 
 **(b)** The principal office of the Commission shall be located in the Republic of Panama in one of the areas made available for use of the United States under the Panama Canal Treaty of 1977 and related agreements, but the Commission may establish branch offices in such other places as it considers necessary or appropriate for the conduct of its business. Within the meaning of the laws of the United States relating to venue in civil actions, the Commission is an inhabitant and resident of the District of Columbia and the eastern judicial district of Louisiana.
 
-(Pub. L. 96–70, title I, § 1101, Sept. 27, 1979, 93 Stat. 456; Pub. L. 104–106, div. C, title XXXV, § 3522(a), Feb. 10, 1996, 110 Stat. 638.)
+(Pub. L. 96–70, title I, § 1101, Sept. 27, 1979, 93 Stat. 456; Pub. L. 104–106, div. C, title XXXV, § 3522(a), Feb. 10, 1996, 110 Stat. 638.)
 
 **Editorial Notes**
 
@@ -231,7 +231,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 **Recommendations by President on Changes to Panama Canal Commission Structure**
 
-Pub. L. 102–484, div. C, title XXXV, § 3522, Oct. 23, 1992, 106 Stat. 2657, provided that:
+Pub. L. 102–484, div. C, title XXXV, § 3522, Oct. 23, 1992, 106 Stat. 2657, provided that:
 
 > **“(a) Report.—** The President shall conduct a study and, if warranted, develop a plan setting forth recommendations for such changes, if any, to the Panama Canal Commission for the operation of the Panama Canal during the period before the termination of the Panama Canal Treaty of 1977 as the President determines would facilitate and encourage the operation of the canal through an autonomous entity under the Government of Panama after the transfer of the canal on December 31, 1999, pursuant to the Panama Canal Treaty of 1977 and related agreements. The President shall submit the study and, if warranted, plan to Congress, together with a legislative proposal containing any changes to existing law required to implement the plan, not later than one year after the date of the enactment of this Act [Oct. 23, 1992].
 
@@ -253,7 +253,7 @@ Pub. L. 102–484, div. C, title XXXV, § 3522, Oct. 23, 1992, 106 Stat. 2657,
 
 **Report by Comptroller General on Changes to Panama Canal Commission Structure**
 
-Pub. L. 102–484, div. C, title XXXV, § 3523, Oct. 23, 1992, 106 Stat. 2658, provided that:
+Pub. L. 102–484, div. C, title XXXV, § 3523, Oct. 23, 1992, 106 Stat. 2658, provided that:
 
 > **“(a) Report.—** The Comptroller General shall submit to Congress a report analyzing the effectiveness of the fiscal, operational, and management structure of the Panama Canal Commission and setting forth recommendations for such changes to that structure as the Comptroller General determines would, if implemented, enable the Commission to operate more efficiently and, thereby, serve as a model for the Government of Panama for the operation of the Panama Canal after the transfer of the Panama Canal on December 31, 1999, pursuant to the Panama Canal Treaty of 1977 and related agreements. The Comptroller General shall submit the report to Congress not later than one year after the date of the enactment of this Act [Oct. 23, 1992].
 
@@ -273,13 +273,13 @@ Pub. L. 102–484, div. C, title XXXV, § 3523, Oct. 23, 1992, 106 Stat. 2658,
 
 > **“(c) Report To Be Consistent With Panama Canal Treaty.—** The recommendations in the report submitted by the Comptroller General pursuant to subsection (a) shall be consistent with the Panama Canal Treaty of 1977 and related agreements.”
 
-#### § 3612. Supervisory Board
+#### § 3612. Supervisory Board
 
 **(a) Composition of Board**
 
-The Commission shall be supervised by a Board composed of nine members, one of whom shall be an officer of the Department of Defense. The officer of the Department of Defense who shall serve on the Board shall be designated by the Secretary of Defense and may continue to serve on the Board only while continuing to serve as an officer of the Department of Defense. Not less than five members of the Board shall be nationals of the United States and the remaining members of the Board shall be nationals of the Republic of Panama. Three members of the Board who are nationals of the United States shall hold no other office in, and shall not be employed by, the Government of the United States, and shall be chosen for the independent perspective they can bring to the Commission’s affairs. Members of the Board who are nationals of the United States shall cast their votes as directed by the the 1
+The Commission shall be supervised by a Board composed of nine members, one of whom shall be an officer of the Department of Defense. The officer of the Department of Defense who shall serve on the Board shall be designated by the Secretary of Defense and may continue to serve on the Board only while continuing to serve as an officer of the Department of Defense. Not less than five members of the Board shall be nationals of the United States and the remaining members of the Board shall be nationals of the Republic of Panama. Three members of the Board who are nationals of the United States shall hold no other office in, and shall not be employed by, the Government of the United States, and shall be chosen for the independent perspective they can bring to the Commission’s affairs. Members of the Board who are nationals of the United States shall cast their votes as directed by the the 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 officer of the Department of Defense designated by the Secretary of Defense to be a member of the Board.
 
@@ -291,7 +291,7 @@ The President shall appoint the members of the Board. The members of the Board w
 
 The Board shall hold meetings as provided in regulations adopted by the Commission and approved by the Secretary of Defense. A quorum for the transaction of business shall consist of a majority of the Board members of which a majority of those present are nationals of the United States. The Secretary of Defense, or the officer of the Department of Defense designated by the Secretary under subsection (a) of this section, may act by proxy for any other member of the Board if that other member authorizes the proxy in writing and signs the proxy. The proxy may be counted to establish a quorum and may be used by the Secretary of Defense, or the officer of the Department of Defense designated by the Secretary under subsection (a) of this section, to cast the vote of the absent Board member and to act for that member with all the powers that member would possess if present.
 
-(Pub. L. 96–70, title I, § 1102, Sept. 27, 1979, 93 Stat. 456; Pub. L. 98–217, Feb. 14, 1984, 98 Stat. 9; Pub. L. 99–223, § 6, Dec. 28, 1985, 99 Stat. 1740; Pub. L. 100–203, title V, § 5416, Dec. 22, 1987, 101 Stat. 1330–270; Pub. L. 100–705, § 7, Nov. 19, 1988, 102 Stat. 4686; Pub. L. 101–510, div. C, title XXXV, § 3504, Nov. 5, 1990, 104 Stat. 1846; Pub. L. 104–106, div. C, title XXXV, § 3523, Feb. 10, 1996, 110 Stat. 638; Pub. L. 105–261, div. C, title XXXV, § 3511(a), Oct. 17, 1998, 112 Stat. 2270.)
+(Pub. L. 96–70, title I, § 1102, Sept. 27, 1979, 93 Stat. 456; Pub. L. 98–217, Feb. 14, 1984, 98 Stat. 9; Pub. L. 99–223, § 6, Dec. 28, 1985, 99 Stat. 1740; Pub. L. 100–203, title V, § 5416, Dec. 22, 1987, 101 Stat. 1330–270; Pub. L. 100–705, § 7, Nov. 19, 1988, 102 Stat. 4686; Pub. L. 101–510, div. C, title XXXV, § 3504, Nov. 5, 1990, 104 Stat. 1846; Pub. L. 104–106, div. C, title XXXV, § 3523, Feb. 10, 1996, 110 Stat. 638; Pub. L. 105–261, div. C, title XXXV, § 3511(a), Oct. 17, 1998, 112 Stat. 2270.)
 
 **Editorial Notes**
 
@@ -315,13 +315,13 @@ The Board shall hold meetings as provided in regulations adopted by the Commissi
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–705, § 10, Nov. 19, 1988, 102 Stat. 4687, provided that: “This Act [enacting sections 3715 to 3715d of this title, amending this section and sections 3712 and 3731 of this title, and enacting provisions set out as a note under section 3601 of this title] takes effect on October 1, 1988.”
+Pub. L. 100–705, § 10, Nov. 19, 1988, 102 Stat. 4687, provided that: “This Act [enacting sections 3715 to 3715d of this title, amending this section and sections 3712 and 3731 of this title, and enacting provisions set out as a note under section 3601 of this title] takes effect on October 1, 1988.”
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–223, § 8, Dec. 28, 1985, 99 Stat. 1740, provided that: “Section 5 and section 6 of the Act [enacting section 3650 of this title and amending this section and sections 3647 and 3731 of this title] shall be effective as of October 1, 1985.”
+Pub. L. 99–223, § 8, Dec. 28, 1985, 99 Stat. 1740, provided that: “Section 5 and section 6 of the Act [enacting section 3650 of this title and amending this section and sections 3647 and 3731 of this title] shall be effective as of October 1, 1985.”
 
-#### § 3612a. General powers of Commission
+#### § 3612a. General powers of Commission
 
 **(a) Corporate seal**
 
@@ -335,9 +335,9 @@ The Commission may by action of the Board of Directors adopt, amend, and repeal 
 
 **(1)** the amenability of the Commission to suit is limited by Article VIII of the Panama Canal Treaty of 1977, section 3761 of this title, and otherwise by law;
 
-**(2)** an attachment, garnishment, or similar process may not be issued against salaries or other moneys owed by the Commission to its employees except as provided by section 5520a of title 5 and sections 659, 661, and 662 1
+**(2)** an attachment, garnishment, or similar process may not be issued against salaries or other moneys owed by the Commission to its employees except as provided by section 5520a of title 5 and sections 659, 661, and 662 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 42, or as otherwise specifically authorized by the laws of the United States; and
 
@@ -369,23 +369,23 @@ The Commission shall have the priority of the Government of the United States in
 
 The authority of the Commission under this section and section 3612b of this title is subject to the Panama Canal Treaty of 1977 and related agreements, and to chapter 91 of title 31.
 
-(Pub. L. 96–70, title I, § 1102a, as added Pub. L. 104–106, div. C, title XXXV, § 3524(a), Feb. 10, 1996, 110 Stat. 639; amended Pub. L. 105–85, div. C, title XXXV, §§ 3546, 3550(d)(3), Nov. 18, 1997, 111 Stat. 2073, 2074.)
+(Pub. L. 96–70, title I, § 1102a, as added Pub. L. 104–106, div. C, title XXXV, § 3524(a), Feb. 10, 1996, 110 Stat. 639; amended Pub. L. 105–85, div. C, title XXXV, §§ 3546, 3550(d)(3), Nov. 18, 1997, 111 Stat. 2073, 2074.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 661 and 662 of title 42, referred to in subsec. (c)(2), were repealed by Pub. L. 104–193, title III, § 362(b)(1), Aug. 22, 1994, 110 Stat. 2246.
+Sections 661 and 662 of title 42, referred to in subsec. (c)(2), were repealed by Pub. L. 104–193, title III, § 362(b)(1), Aug. 22, 1994, 110 Stat. 2246.
 
 **Amendments**
 
-1997—Subsec. (g). Pub. L. 105–85, § 3546(2), added subsec. (g). Former subsec. (g) redesignated (h).
+1997—Subsec. (g). Pub. L. 105–85, § 3546(2), added subsec. (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 105–85, § 3550(d)(3), made technical amendment to reference in original act which appears in text as reference to section 3612b of this title.
+Subsec. (h). Pub. L. 105–85, § 3550(d)(3), made technical amendment to reference in original act which appears in text as reference to section 3612b of this title.
 
-Pub. L. 105–85, § 3546(1), redesignated subsec. (g) as (h).
+Pub. L. 105–85, § 3546(1), redesignated subsec. (g) as (h).
 
-#### § 3612b. Specific powers of Commission
+#### § 3612b. Specific powers of Commission
 
 **(a) Panama Canal management, operation, and maintenance**
 
@@ -427,7 +427,7 @@ The Commission may conduct and promote commercial activities related to the mana
 
 **(2)** The Commission shall establish written guidelines setting forth the criteria to be used in determining whether the acceptance of funds, property, or services authorized by paragraph (1) would reflect unfavorably upon the ability of the Commission (or any employee of the Commission) to carry out its responsibilities or official duties in a fair and objective manner or would compromise the integrity or the appearance of the integrity of its programs or of any official in those programs.
 
-(Pub. L. 96–70, title I, § 1102b, as added Pub. L. 104–106, div. C, title XXXV, § 3524(a), Feb. 10, 1996, 110 Stat. 639; amended Pub. L. 105–85, div. C, title XXXV, § 3547, Nov. 18, 1997, 111 Stat. 2073; Pub. L. 105–261, div. C, title XXXV, § 3505, Oct. 17, 1998, 112 Stat. 2268.)
+(Pub. L. 96–70, title I, § 1102b, as added Pub. L. 104–106, div. C, title XXXV, § 3524(a), Feb. 10, 1996, 110 Stat. 639; amended Pub. L. 105–85, div. C, title XXXV, § 3547, Nov. 18, 1997, 111 Stat. 2073; Pub. L. 105–261, div. C, title XXXV, § 3505, Oct. 17, 1998, 112 Stat. 2268.)
 
 **Editorial Notes**
 
@@ -441,7 +441,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 1997—Subsec. (e). Pub. L. 105–85 added subsec. (e).
 
-#### § 3613. Administrator
+#### § 3613. Administrator
 
 **(a) Appointment**
 
@@ -469,7 +469,7 @@ The Congress consents, for purposes of the 8th clause of article I, section 9 of
 
 **(2)** effective upon termination of the individual’s appointment as Administrator of the Panama Canal Commission at noon on the Canal Transfer Date, that individual is not subject to section 207 of title 18, with respect to acts done in carrying out official duties as Administrator of the Panama Canal Authority.
 
-(Pub. L. 96–70, title I, § 1103, Sept. 27, 1979, 93 Stat. 457; Pub. L. 104–201, div. C, title XXXV, § 3523(a), Sept. 23, 1996, 110 Stat. 2860; Pub. L. 105–85, div. C, title XXXV, § 3521, Nov. 18, 1997, 111 Stat. 2063; Pub. L. 117–286, § 4(c)(30), Dec. 27, 2022, 136 Stat. 4357.)
+(Pub. L. 96–70, title I, § 1103, Sept. 27, 1979, 93 Stat. 457; Pub. L. 104–201, div. C, title XXXV, § 3523(a), Sept. 23, 1996, 110 Stat. 2860; Pub. L. 105–85, div. C, title XXXV, § 3521, Nov. 18, 1997, 111 Stat. 2063; Pub. L. 117–286, § 4(c)(30), Dec. 27, 2022, 136 Stat. 4357.)
 
 **Editorial Notes**
 
@@ -477,7 +477,7 @@ The Congress consents, for purposes of the 8th clause of article I, section 9 of
 
 Level III of the Executive Schedule, referred to in subsec. (b), is set out in section 5314 of Title 5, Government Organization and Employees.
 
-The Foreign Agents Registration Act of 1938, referred to in subsec. (d)(1)(A), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 611 of this title and Tables.
+The Foreign Agents Registration Act of 1938, referred to in subsec. (d)(1)(A), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 611 of this title and Tables.
 
 **Amendments**
 
@@ -491,7 +491,7 @@ The Foreign Agents Registration Act of 1938, referred to in subsec. (d)(1)(A), i
 
 **Savings Provision**
 
-Pub. L. 104–201, div. C, title XXXV, § 3523(b), Sept. 23, 1996, 110 Stat. 2860, provided that:
+Pub. L. 104–201, div. C, title XXXV, § 3523(b), Sept. 23, 1996, 110 Stat. 2860, provided that:
 
 > “Nothing in this section [amending this section] (or section 3549(3) [section 3549 of Pub. L. 104–201 did not contain a par. (3) and is not classified to the Code]) shall be considered to affect—
 
@@ -499,7 +499,7 @@ Pub. L. 104–201, div. C, title XXXV, § 3523(b), Sept. 23, 1996, 110 Stat. 2
 
 > **“(2)** until modified under section 1103(b) of the Panama Canal Act of 1979 [subsec. (b) of this section], as amended by subsection (a), the compensation of the individual so serving.”
 
-#### § 3614. Deputy Administrator
+#### § 3614. Deputy Administrator
 
 **(a) Appointment and duties**
 
@@ -509,7 +509,7 @@ There shall be a Deputy Administrator of the Commission who shall be appointed b
 
 The Deputy Administrator shall be paid compensation at a rate of pay, established by the Board, which does not exceed the rate of basic pay in effect for level IV of the Executive Schedule, and, if eligible, shall be paid the overseas recruitment and retention differential provided for in section 3657 of this title.
 
-(Pub. L. 96–70, title I, § 1104, Sept. 27, 1979, 93 Stat. 457; Pub. L. 101–510, div. C, title XXXV, § 3505, Nov. 5, 1990, 104 Stat. 1846; Pub. L. 104–201, div. C, title XXXV, § 3524(a), Sept. 23, 1996, 110 Stat. 2860.)
+(Pub. L. 96–70, title I, § 1104, Sept. 27, 1979, 93 Stat. 457; Pub. L. 101–510, div. C, title XXXV, § 3505, Nov. 5, 1990, 104 Stat. 1846; Pub. L. 104–201, div. C, title XXXV, § 3524(a), Sept. 23, 1996, 110 Stat. 2860.)
 
 **Editorial Notes**
 
@@ -525,13 +525,13 @@ Level IV of the Executive Schedule, referred to in subsec. (b), is set out in se
 
 “(b) The Deputy Administrator and the Chief Engineer shall each be paid compensation at a rate of pay established by the President which does not exceed the rate of basic pay in effect for grade GS–18 of the General Schedule under section 5332 of title 5, and, if eligible, shall each be paid the overseas recruitment or retention differential provided for in section 3657 of this title.”
 
-1990—Subsec. (b). Pub. L. 101–510 inserted before period at end “, and, if eligible, shall each be paid the overseas recruitment or retention differential provided for in section 3657 of this title”.
+1990—Subsec. (b). Pub. L. 101–510 inserted before period at end “, and, if eligible, shall each be paid the overseas recruitment or retention differential provided for in section 3657 of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 104–201, div. C, title XXXV, § 3524(b), Sept. 23, 1996, 110 Stat. 2861, provided that:
+Pub. L. 104–201, div. C, title XXXV, § 3524(b), Sept. 23, 1996, 110 Stat. 2861, provided that:
 
 > “Nothing in this section [amending this section] shall be considered to affect—
 
@@ -545,7 +545,7 @@ Pub. L. 104–201, div. C, title XXXV, § 3524(b), Sept. 23, 1996, 110 Stat. 2
 
 Authority of President under this section to fix the compensation of and to define authorities and duties of Deputy Administrator delegated to Secretary of Defense, see section 1–302 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
 
-#### § 3615. Consultative Committee
+#### § 3615. Consultative Committee
 
 **(a) Designation and coordination**
 
@@ -555,9 +555,9 @@ The President shall designate, and the Secretary of State shall coordinate the p
 
 The Consultative Committee shall function as a diplomatic forum for the exchange of views between the United States and the Republic of Panama. The Committee shall advise the United States Government and the Government of the Republic of Panama on matters of policy affecting the operation of the Panama Canal. The Committee shall have no authority to direct the Commission or any other department or agency of the United States to initiate or withhold action.
 
-(Pub. L. 96–70, title I, § 1105, Sept. 27, 1979, 93 Stat. 457.)
+(Pub. L. 96–70, title I, § 1105, Sept. 27, 1979, 93 Stat. 457.)
 
-#### § 3616. Joint Commission on the Environment
+#### § 3616. Joint Commission on the Environment
 
 **(a) Establishment; composition**
 
@@ -579,21 +579,21 @@ The United States representatives on the Joint Commission may, to such extent or
 
 The United States representatives on the Joint Commission may, in cooperation with the representatives of the Republic of Panama on the Joint Commission, establish rules of procedure to be used by the Joint Commission in conducting its affairs, subject to the approval of such rules by the Governments of the United States and the Republic of Panama.
 
-(Pub. L. 96–70, title I, § 1106, Sept. 27, 1979, 93 Stat. 457.)
+(Pub. L. 96–70, title I, § 1106, Sept. 27, 1979, 93 Stat. 457.)
 
-#### § 3617. Travel expenses
+#### § 3617. Travel expenses
 
 While away from their homes, regular places of business, or official stations in performance of services under this part, members of the Board of the Commission and the representatives of the United States on the Consultative Committee referred to in section 3615 of this title and on the Joint Commission on the Environment referred to in section 3616 of this title shall be allowed travel or transportation expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in Government service are allowed expenses under section 5703 of title 5.
 
-(Pub. L. 96–70, title I, § 1107, Sept. 27, 1979, 93 Stat. 458.)
+(Pub. L. 96–70, title I, § 1107, Sept. 27, 1979, 93 Stat. 458.)
 
-#### § 3618. Defense of Panama Canal
+#### § 3618. Defense of Panama Canal
 
 In the event of an armed attack against the Panama Canal, or when, in the opinion of the President, conditions exist which threaten the security of the Canal, the Administrator of the Commission shall, upon the order of the President, comply with such directives as the United States military officer charged with the protection and defense of the Panama Canal may consider necessary in the exercise of his duties.
 
-(Pub. L. 96–70, title I, § 1108, Sept. 27, 1979, 93 Stat. 458.)
+(Pub. L. 96–70, title I, § 1108, Sept. 27, 1979, 93 Stat. 458.)
 
-#### § 3619. Joint sea level canal study
+#### § 3619. Joint sea level canal study
 
 **(a) Committee; appointment of representatives**
 
@@ -607,9 +607,9 @@ Upon the completion of any joint study between the United States and the Republi
 
 No construction of a sea level canal by the United States in the Republic of Panama shall be undertaken except with express congressional authorization after submission of the study by the President as provided in subsection (b) of this section.
 
-(Pub. L. 96–70, title I, § 1109, Sept. 27, 1979, 93 Stat. 459.)
+(Pub. L. 96–70, title I, § 1109, Sept. 27, 1979, 93 Stat. 459.)
 
-#### § 3620. Authority of Ambassador; independence of Commission regarding its Panama Canal responsibilities
+#### § 3620. Authority of Ambassador; independence of Commission regarding its Panama Canal responsibilities
 
 **(a) Authority of Ambassador**
 
@@ -631,7 +631,7 @@ The United States Ambassador to the Republic of Panama shall have full responsib
 
 **(B)** Compensation for work injuries covered by chapter 81 of title 5.
 
-(Pub. L. 96–70, title I, § 1110, Sept. 27, 1979, 93 Stat. 459; Pub. L. 105–85, div. C, title XXXV, § 3550(d)(4), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–261, div. C, title XXXV, § 3506, Oct. 17, 1998, 112 Stat. 2269.)
+(Pub. L. 96–70, title I, § 1110, Sept. 27, 1979, 93 Stat. 459; Pub. L. 105–85, div. C, title XXXV, § 3550(d)(4), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–261, div. C, title XXXV, § 3506, Oct. 17, 1998, 112 Stat. 2269.)
 
 **Editorial Notes**
 
@@ -645,11 +645,11 @@ This chapter, referred to in subsec. (b)(1), was in the original “this Act”,
 
 1997—Subsec. (b)(2). Pub. L. 105–85 substituted “section 3927” for “section 2680a”.
 
-#### § 3621. Security legislation
+#### § 3621. Security legislation
 
 It is the sense of the Congress that the best interests of the United States require that the President enter into negotiations with the Republic of Panama for the purpose of arranging for the stationing of United States military forces, after the termination of the Panama Canal Treaty of 1977, in the area comprising the Canal Zone before October 1, 1979, and for the maintenance of installations and facilities, after the termination of such Treaty, for the use of United States military forces stationed in such area. The President shall report to the Congress in a timely manner the status of negotiations conducted pursuant to this section.
 
-(Pub. L. 96–70, title I, § 1111, Sept. 27, 1979, 93 Stat. 459.)
+(Pub. L. 96–70, title I, § 1111, Sept. 27, 1979, 93 Stat. 459.)
 
 **Executive Documents**
 
@@ -657,7 +657,7 @@ It is the sense of the Congress that the best interests of the United States req
 
 Functions vested in President by this section delegated to Secretary of State who shall perform such functions in coordination with Secretary of Defense, see section 1–401 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
 
-#### § 3622. Code of conduct for Commission personnel
+#### § 3622. Code of conduct for Commission personnel
 
 **(a) Oath; compliance with laws of United States regarding duties and responsibilities of Federal employees**
 
@@ -701,29 +701,29 @@ The President shall negotiate suitable arrangements with the Republic of Panama 
 
 **(B)** Members of a reserve component of the armed forces.
 
-**(C)** Members of the Commissioned Reserve Corps 1
+**(C)** Members of the Commissioned Reserve Corps 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 of the Public Health Service.
 
 **(2)** The consent of the Congress under paragraph (1) is effective without regard to subsection (b) of section 908 of title 37 (relating to approval required for employment of Reserve and retired members by foreign governments).
 
-(Pub. L. 96–70, title I, § 1112, Sept. 27, 1979, 93 Stat. 459; Pub. L. 105–85, div. C, title XXXV, §§ 3522, 3550(d)(2)(A), Nov. 18, 1997, 111 Stat. 2064, 2074; Pub. L. 117–286, § 4(c)(31), Dec. 27, 2022, 136 Stat. 4358.)
+(Pub. L. 96–70, title I, § 1112, Sept. 27, 1979, 93 Stat. 459; Pub. L. 105–85, div. C, title XXXV, §§ 3522, 3550(d)(2)(A), Nov. 18, 1997, 111 Stat. 2064, 2074; Pub. L. 117–286, § 4(c)(31), Dec. 27, 2022, 136 Stat. 4358.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (b)(4), “sections 1343, 1344, and 1349(b) of title 31” substituted for “section 5 of the Act of July 16, 1914 (31 U.S.C. 638a), as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(4), “sections 1343, 1344, and 1349(b) of title 31” substituted for “section 5 of the Act of July 16, 1914 (31 U.S.C. 638a), as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
 2022—Subsec. (b)(5). Pub. L. 117–286 substituted “chapter 131 of title 5;” for “the Ethics in Government Act of 1978 (92 Stat. 1824), as amended;”.
 
-1997—Subsec. (b). Pub. L. 105–85, § 3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
+1997—Subsec. (b). Pub. L. 105–85, § 3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
 
-Subsecs. (e), (f). Pub. L. 105–85, § 3522, added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 105–85, § 3522, added subsecs. (e) and (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -737,7 +737,7 @@ Reference to Reserve Corps of the Public Health Service deemed to be a reference
 
 Functions vested in President by subsec. (d) of this section delegated to Secretary of State, see section 1–402 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
 
-#### § 3623. Office of Ombudsman
+#### § 3623. Office of Ombudsman
 
 **(a) Establishment; appointment of Ombudsman; functions**
 
@@ -755,7 +755,7 @@ The establishment of the Office of Ombudsman shall not affect any procedures for
 
 The Office of Ombudsman shall terminate upon the termination of the Panama Canal Treaty of 1977.
 
-(Pub. L. 96–70, title I, § 1113, Sept. 27, 1979, 93 Stat. 460; Pub. L. 104–201, div. C, title XXXV, § 3525, Sept. 23, 1996, 110 Stat. 2861.)
+(Pub. L. 96–70, title I, § 1113, Sept. 27, 1979, 93 Stat. 460; Pub. L. 104–201, div. C, title XXXV, § 3525, Sept. 23, 1996, 110 Stat. 2861.)
 
 **Editorial Notes**
 
@@ -771,7 +771,7 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 #### subpart i—panama canal commission personnel
 
-##### § 3641. Definitions
+##### § 3641. Definitions
 
 As used in this part—
 
@@ -783,19 +783,19 @@ As used in this part—
 
 **(4)** “United States”, when used in a geographic sense, means each of the several States and the District of Columbia.
 
-(Pub. L. 96–70, title I, § 1201, Sept. 27, 1979, 93 Stat. 461.)
+(Pub. L. 96–70, title I, § 1201, Sept. 27, 1979, 93 Stat. 461.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Employment of Commission Employees by Government of Panama**
 
-Pub. L. 103–160, div. C, title XXXV, § 3504, Nov. 30, 1993, 107 Stat. 1965, as amended by Pub. L. 117–286, § 4(c)(32), Dec. 27, 2022, 136 Stat. 4358, provided that:
+Pub. L. 103–160, div. C, title XXXV, § 3504, Nov. 30, 1993, 107 Stat. 1965, as amended by Pub. L. 117–286, § 4(c)(32), Dec. 27, 2022, 136 Stat. 4358, provided that:
 
 > **“(a) Consent of Congress.—** Subject to subsection (b), the Congress consents to employees of the Panama Canal Commission who are not citizens of the United States accepting civil employment with agencies and organizations affiliated with the Government of Panama (and compensation for that employment) for which the consent of Congress is required by the 8th clause of section 9 of article I of the Constitution of the United States, relating to acceptance of emolument, office, or title from a foreign State.
 
 > **“(b) Condition.—** Employees described in subsection (a) may accept employment described in such subsection (and compensation for that employment) only if the employment is approved by the designated agency ethics official of the Panama Canal Commission designated pursuant to chapter 131 of title 5, United States Code, and by the Administrator of the Panama Canal Commission.”
 
-##### § 3642. Appointment and compensation; duties
+##### § 3642. Appointment and compensation; duties
 
 **(a) Officers and employees**
 
@@ -813,15 +813,15 @@ Individuals serving in any Executive agency (other than the Commission) or the S
 
 **(3)** pursuant to a voluntary demotion.
 
-(Pub. L. 96–70, title I, § 1202, Sept. 27, 1979, 93 Stat. 461; Pub. L. 104–201, div. C, title XXXV, § 3526, Sept. 23, 1996, 110 Stat. 2861; Pub. L. 105–85, div. C, title XXXV, § 3523(b), Nov. 18, 1997, 111 Stat. 2065; Pub. L. 105–261, div. C, title XXXV, § 3512(a)(1), Oct. 17, 1998, 112 Stat. 2271.)
+(Pub. L. 96–70, title I, § 1202, Sept. 27, 1979, 93 Stat. 461; Pub. L. 104–201, div. C, title XXXV, § 3526, Sept. 23, 1996, 110 Stat. 2861; Pub. L. 105–85, div. C, title XXXV, § 3523(b), Nov. 18, 1997, 111 Stat. 2065; Pub. L. 105–261, div. C, title XXXV, § 3512(a)(1), Oct. 17, 1998, 112 Stat. 2271.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (c). Pub. L. 105–261, § 3512(a)(1)(C), which directed substitution of “that date” for “the day before the date of enactment”, was executed by making the substitution for “the day before that date of enactment” before “except” in introductory provisions to reflect the probable intent of Congress.
+1998—Subsec. (c). Pub. L. 105–261, § 3512(a)(1)(C), which directed substitution of “that date” for “the day before the date of enactment”, was executed by making the substitution for “the day before that date of enactment” before “except” in introductory provisions to reflect the probable intent of Congress.
 
-Pub. L. 105–261, § 3512(a)(1)(A), (B), in introductory provisions, substituted “November 17, 1997,” for “the day before the date of the enactment of the Panama Canal Transition Facilitation Act of 1997” and struck out “on or after that date” after “pay for that officer or employee”.
+Pub. L. 105–261, § 3512(a)(1)(A), (B), in introductory provisions, substituted “November 17, 1997,” for “the day before the date of the enactment of the Panama Canal Transition Facilitation Act of 1997” and struck out “on or after that date” after “pay for that officer or employee”.
 
 1997—Subsec. (c). Pub. L. 105–85 added subsec. (c).
 
@@ -831,7 +831,7 @@ Pub. L. 105–261, § 3512(a)(1)(A), (B), in introductory provisions, substitu
 
 “(b) Individuals serving in any Executive agency (other than the Commission) or the Smithsonian Institution, including individuals serving in the uniformed services, may, if appointed under this section or section 3613 or 3614 of this title, serve as officers or employees of the Commission.”
 
-##### § 3643. Transfer of Federal employees
+##### § 3643. Transfer of Federal employees
 
 **(a) Authority to enter into agreements; reemployment rights**
 
@@ -845,9 +845,9 @@ For purposes of this section, the term “agency” means an Executive agency, t
 
 The Office of Personnel Management shall prescribe regulations to carry out the purposes of this section.
 
-(Pub. L. 96–70, title I, § 1203, Sept. 27, 1979, 93 Stat. 461.)
+(Pub. L. 96–70, title I, § 1203, Sept. 27, 1979, 93 Stat. 461.)
 
-##### § 3644. Compensation of individuals in uniformed services
+##### § 3644. Compensation of individuals in uniformed services
 
 **(a) Individual serving in a position in Commission**
 
@@ -861,13 +861,13 @@ If the individual appointed as Administrator, Deputy Administrator, or Chief Eng
 
 The Commission shall annually pay to each uniformed service amounts sufficient to reimburse that uniformed service for any basic pay paid by that uniformed service to any member of that service during any period of service in the Commission by the member.
 
-(Pub. L. 96–70, title I, § 1204, Sept. 27, 1979, 93 Stat. 461.)
+(Pub. L. 96–70, title I, § 1204, Sept. 27, 1979, 93 Stat. 461.)
 
-##### § 3645. Deduction from basic pay of amounts due for supplies or services
+##### § 3645. Deduction from basic pay of amounts due for supplies or services
 
 The Commission may deduct from the basic pay otherwise payable by the Commission to any officer or employee of the Commission any amount due from the officer or employee to the Commission or to any contractor of the Commission for transportation, board, supplies, or any other service. Any amount so deducted may be paid by the Commission to any contractor to whom it is due or may be credited by the Commission to any fund from which the Commission has expended such amount.
 
-(Pub. L. 96–70, title I, § 1205, Sept. 27, 1979, 93 Stat. 462; Pub. L. 104–106, div. C, title XXXV, § 3529(1), Feb. 10, 1996, 110 Stat. 641.)
+(Pub. L. 96–70, title I, § 1205, Sept. 27, 1979, 93 Stat. 462; Pub. L. 104–106, div. C, title XXXV, § 3529(1), Feb. 10, 1996, 110 Stat. 641.)
 
 **Editorial Notes**
 
@@ -875,25 +875,25 @@ The Commission may deduct from the basic pay otherwise payable by the Commission
 
 1996—Pub. L. 104–106 substituted “fund” for “appropriation”.
 
-##### §§ 3646, 3647. Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269
+##### §§ 3646, 3647. Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269
 
-Section 3646, Pub. L. 96–70, title I, § 1206, Sept. 27, 1979, 93 Stat. 462, related to cost of living allowance.
+Section 3646, Pub. L. 96–70, title I, § 1206, Sept. 27, 1979, 93 Stat. 462, related to cost of living allowance.
 
-Section 3647, Pub. L. 96–70, title I, § 1207, Sept. 27, 1979, 93 Stat. 462; Pub. L. 99–223, § 5(a), Dec. 28, 1985, 99 Stat. 1739, related to educational travel benefits.
+Section 3647, Pub. L. 96–70, title I, § 1207, Sept. 27, 1979, 93 Stat. 462; Pub. L. 99–223, § 5(a), Dec. 28, 1985, 99 Stat. 1739, related to educational travel benefits.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the repeals made by section 3507(a) are effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, the repealed provisions is terminated.
+Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the repeals made by section 3507(a) are effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, the repealed provisions is terminated.
 
-##### § 3648. Privileges and immunities of certain employees
+##### § 3648. Privileges and immunities of certain employees
 
 The Secretary of Defense shall designate those officers and employees of the Commission and other individuals entitled to the privileges and immunities accorded under paragraph 3 of Article VIII of the Panama Canal Treaty of 1977. The Department of State shall furnish to the Republic of Panama a list of the names of such officers, employees, and other individuals and shall notify the Republic of Panama of any subsequent additions to or deletions from the list.
 
-(Pub. L. 96–70, title I, § 1208, Sept. 27, 1979, 93 Stat. 463.)
+(Pub. L. 96–70, title I, § 1208, Sept. 27, 1979, 93 Stat. 463.)
 
-##### § 3649. Applicability of certain benefits
+##### § 3649. Applicability of certain benefits
 
 Chapter 81 of title 5, relating to compensation for work injuries, chapters 83 and 84 of such title 5, relating to retirement, chapter 87 of such title 5, relating to life insurance, and chapter 89 of such title 5, relating to health insurance, are applicable to Commission employees, except any individual—
 
@@ -903,7 +903,7 @@ Chapter 81 of title 5, relating to compensation for work injuries, chapters 83 a
 
 **(3)** who is covered by the Social Security System of the Republic of Panama pursuant to any provision of the Panama Canal Treaty of 1977 and related agreements.
 
-(Pub. L. 96–70, title I, § 1209, Sept. 27, 1979, 93 Stat. 463; Pub. L. 104–201, div. C, title XXXV, § 3527, Sept. 23, 1996, 110 Stat. 2861.)
+(Pub. L. 96–70, title I, § 1209, Sept. 27, 1979, 93 Stat. 463; Pub. L. 104–201, div. C, title XXXV, § 3527, Sept. 23, 1996, 110 Stat. 2861.)
 
 **Editorial Notes**
 
@@ -919,33 +919,33 @@ Chapter 81 of title 5, relating to compensation for work injuries, chapters 83 a
 
 Prior to amendment, section 1209 also contained subsecs. (b) and (c) which amended sections 8701 and 8901 of Title 5, Government Organization and Employees.
 
-##### § 3650. Air transportation
+##### § 3650. Air transportation
 
 **(a)** Notwithstanding any other provision of law (except subsection (b)), the Commission may contract with Panamanian carriers registered under the laws of the Republic of Panama to provide air transportation to officials and employees of the Commission who are citizens of the Republic of Panama.
 
 **(b)** An official or employee of the Commission who is a citizen of the Republic of Panama may elect, for security or other reasons, to travel by an air carrier holding a certificate under section 41102 of title 49.
 
-(Pub. L. 96–70, title I, § 1210, as added Pub. L. 99–223, § 5(b)(1), Dec. 28, 1985, 99 Stat. 1739; amended Pub. L. 104–201, div. C, title XXXV, § 3528, Sept. 23, 1996, 110 Stat. 2861; Pub. L. 105–85, div. C, title XXXV, § 3524(a)(1), (b), Nov. 18, 1997, 111 Stat. 2065.)
+(Pub. L. 96–70, title I, § 1210, as added Pub. L. 99–223, § 5(b)(1), Dec. 28, 1985, 99 Stat. 1739; amended Pub. L. 104–201, div. C, title XXXV, § 3528, Sept. 23, 1996, 110 Stat. 2861; Pub. L. 105–85, div. C, title XXXV, § 3524(a)(1), (b), Nov. 18, 1997, 111 Stat. 2065.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Pub. L. 105–85, § 3524(b)(2), substituted “Air transportation” for “Travel and transportation” in section catchline.
+1997—Pub. L. 105–85, § 3524(b)(2), substituted “Air transportation” for “Travel and transportation” in section catchline.
 
-Subsec. (a). Pub. L. 105–85, § 3524(b)(1)(A), redesignated subsec. (d)(1) as subsec. (a) and substituted “subsection (b)” for “paragraph (2)”.
+Subsec. (a). Pub. L. 105–85, § 3524(b)(1)(A), redesignated subsec. (d)(1) as subsec. (a) and substituted “subsection (b)” for “paragraph (2)”.
 
-Pub. L. 105–85, § 3524(a)(1), struck out subsec. (a) which read as follows: “Subject to subsections (b) and (c) of this section, the Commission may pay travel and transportation expenses for employees in accordance with subchapter II of chapter 57 of title 5.”
+Pub. L. 105–85, § 3524(a)(1), struck out subsec. (a) which read as follows: “Subject to subsections (b) and (c) of this section, the Commission may pay travel and transportation expenses for employees in accordance with subchapter II of chapter 57 of title 5.”
 
-Subsec. (b). Pub. L. 105–85, § 3524(b)(1)(B), redesignated subsec. (d)(2) as subsec. (b) and substituted “An official” for “Notwithstanding paragraph (1), an official” and “who is a citizen of the Republic of Panama” for “referred to in paragraph (1)”.
+Subsec. (b). Pub. L. 105–85, § 3524(b)(1)(B), redesignated subsec. (d)(2) as subsec. (b) and substituted “An official” for “Notwithstanding paragraph (1), an official” and “who is a citizen of the Republic of Panama” for “referred to in paragraph (1)”.
 
-Pub. L. 105–85, § 3524(a)(1), struck out subsec. (b) which read as follows: “For an employee to whom section 3646 of this title applies, the Commission may pay travel and transportation expenses associated with vacation leave for the employee and the immediate family of the employee notwithstanding requirements regarding periods of service established by subchapter II of chapter 57 of title 5 or the regulations promulgated thereunder.”
+Pub. L. 105–85, § 3524(a)(1), struck out subsec. (b) which read as follows: “For an employee to whom section 3646 of this title applies, the Commission may pay travel and transportation expenses associated with vacation leave for the employee and the immediate family of the employee notwithstanding requirements regarding periods of service established by subchapter II of chapter 57 of title 5 or the regulations promulgated thereunder.”
 
-Subsec. (c). Pub. L. 105–85, § 3524(a)(1), struck out subsec. (c) which read as follows: “For an employee to whom section 3646 of this title does not apply, the Commission may pay travel and transportation expenses associated with vacation leave for the employee and the immediate family of the employee notwithstanding requirements regarding a written agreement concerning the duration of a continuing service obligation established by subchapter II of chapter 57 of title 5 or the regulations promulgated thereunder.”
+Subsec. (c). Pub. L. 105–85, § 3524(a)(1), struck out subsec. (c) which read as follows: “For an employee to whom section 3646 of this title does not apply, the Commission may pay travel and transportation expenses associated with vacation leave for the employee and the immediate family of the employee notwithstanding requirements regarding a written agreement concerning the duration of a continuing service obligation established by subchapter II of chapter 57 of title 5 or the regulations promulgated thereunder.”
 
-Subsec. (d)(1). Pub. L. 105–85, § 3524(b)(1)(A), redesignated subsec. (d)(1) as subsec. (a).
+Subsec. (d)(1). Pub. L. 105–85, § 3524(b)(1)(A), redesignated subsec. (d)(1) as subsec. (a).
 
-Subsec. (d)(2). Pub. L. 105–85, § 3524(b)(1)(B), redesignated subsec. (d)(2) as subsec. (b).
+Subsec. (d)(2). Pub. L. 105–85, § 3524(b)(1)(B), redesignated subsec. (d)(2) as subsec. (b).
 
 1996—Pub. L. 104–201 struck out “expenses” after “transportation” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Commission may pay the expenses of vacation leave travel for an employee of the Commission to whom section 3646 of this title applies and for transportation of employee’s family from the employee’s post of duty in Panama to the place of the employee’s actual residence at the time of appointment to the post of duty. The authorization of expenses under this section shall be in accordance with subchapter II of chapter 57 of title 5 and the regulations issued under that subchapter, except that the Commission may prescribe required periods of service notwithstanding section 5722 of title 5 and the regulations issued under subchapter II of chapter 57 of such title.”
 
@@ -953,7 +953,7 @@ Subsec. (d)(2). Pub. L. 105–85, § 3524(b)(1)(B), redesignated subsec. (d)(2
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–85, div. C, title XXXV, § 3524(c), Nov. 18, 1997, 111 Stat. 2065, provided that: “The amendments made by this section [amending this section and section 3664 of this title] shall take effect on January 1, 1999.”
+Pub. L. 105–85, div. C, title XXXV, § 3524(c), Nov. 18, 1997, 111 Stat. 2065, provided that: “The amendments made by this section [amending this section and section 3664 of this title] shall take effect on January 1, 1999.”
 
 **Effective Date**
 
@@ -961,7 +961,7 @@ Section effective Oct. 1, 1985, see section 8 of Pub. L. 99–223, set out as an
 
 #### subpart ii—wage and employment practices
 
-##### § 3651. Definitions
+##### § 3651. Definitions
 
 As used in this subpart—
 
@@ -975,17 +975,17 @@ As used in this subpart—
 
 **(3)** “employee” means an individual serving in a position.
 
-(Pub. L. 96–70, title I, § 1211, Sept. 27, 1979, 93 Stat. 463; Pub. L. 104–201, div. C, title XXXV, §§ 3529, 3548(b)(1), Sept. 23, 1996, 110 Stat. 2862, 2869.)
+(Pub. L. 96–70, title I, § 1211, Sept. 27, 1979, 93 Stat. 463; Pub. L. 104–201, div. C, title XXXV, §§ 3529, 3548(b)(1), Sept. 23, 1996, 110 Stat. 2862, 2869.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Par. (1)(B). Pub. L. 104–201, § 3548(b)(1), which directed substitution of “section 3652(b)” for “section 3652(B)(2)” could not be executed because the phrase “section 3652(B)(2)” did not appear after amendment by Pub. L. 104–201, § 3529. See below.
+1996—Par. (1)(B). Pub. L. 104–201, § 3548(b)(1), which directed substitution of “section 3652(b)” for “section 3652(B)(2)” could not be executed because the phrase “section 3652(B)(2)” did not appear after amendment by Pub. L. 104–201, § 3529. See below.
 
-Pub. L. 104–201, § 3529, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “an Executive agency or the Smithsonian Institution, to the extent of any election in effect under section 3652(b)(2) of this title;”.
+Pub. L. 104–201, § 3529, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “an Executive agency or the Smithsonian Institution, to the extent of any election in effect under section 3652(b)(2) of this title;”.
 
-##### § 3652. Panama Canal Employment System; merit and other employment requirements
+##### § 3652. Panama Canal Employment System; merit and other employment requirements
 
 **(a) Establishment; merit and other employment requirements** The Commission shall establish a Panama Canal Employment System and prescribe the regulations necessary for its administration. The Panama Canal Employment System shall—
 
@@ -1005,9 +1005,9 @@ Pub. L. 104–201, § 3529, amended subpar. (B) generally. Prior to amendment,
 
 **(2)** Any Executive agency (other than the Commission) and the Smithsonian Institution, to the extent of any election under paragraph (1), shall conduct its employment and pay practices relating to employees in accordance with the Panama Canal Employment System.
 
-**(3)** Notwithstanding any other provision of this chapter, the Panama Canal Act Amendments of 1996 (subtitle B of title XXXV of Public Law 104–201; 110 Stat. 2860), or the Panama Canal Transition Facilitation Act of 1997 (subtitle B of title XXXV of Public Law 105–85; 110 1
+**(3)** Notwithstanding any other provision of this chapter, the Panama Canal Act Amendments of 1996 (subtitle B of title XXXV of Public Law 104–201; 110 Stat. 2860), or the Panama Canal Transition Facilitation Act of 1997 (subtitle B of title XXXV of Public Law 105–85; 110 1
 
-<sup>1</sup>  So in original. Probably should be “111”.
+<sup>1</sup> So in original. Probably should be “111”.
 
 Stat. 2062), or the Panama Canal Commission Authorization Act for Fiscal Year 1999, this subpart, as in effect on September 22, 1996, shall continue to apply to an Executive agency or the Smithsonian Institution to the extent of an election under paragraph (1) by the head of the agency or the Institution, respectively.
 
@@ -1015,7 +1015,7 @@ Stat. 2062), or the Panama Canal Commission Authorization Act for Fiscal Year 19
 
 The Commission may exclude any employee or position from coverage under any provision of this subpart, other than the interchange rights extended under subsection (a)(4).
 
-(Pub. L. 96–70, title I, § 1212, Sept. 27, 1979, 93 Stat. 464; Pub. L. 104–201, div. C, title XXXV, § 3530(a), Sept. 23, 1996, 110 Stat. 2862; Pub. L. 105–85, div. C, title XXXV, §§ 3523(d), 3550(d)(5), Nov. 18, 1997, 111 Stat. 2065, 2074; Pub. L. 105–261, div. A, title XXXV, §§ 3507(c), 3512(a)(2), Oct. 17, 1998, 112 Stat. 2269, 2271.)
+(Pub. L. 96–70, title I, § 1212, Sept. 27, 1979, 93 Stat. 464; Pub. L. 104–201, div. C, title XXXV, § 3530(a), Sept. 23, 1996, 110 Stat. 2862; Pub. L. 105–85, div. C, title XXXV, §§ 3523(d), 3550(d)(5), Nov. 18, 1997, 111 Stat. 2065, 2074; Pub. L. 105–261, div. A, title XXXV, §§ 3507(c), 3512(a)(2), Oct. 17, 1998, 112 Stat. 2269, 2271.)
 
 **Editorial Notes**
 
@@ -1031,13 +1031,13 @@ The Panama Canal Commission Authorization Act for Fiscal Year 1999, referred to 
 
 **Amendments**
 
-1998—Subsec. (b)(3). Pub. L. 105–261, § 3512(a)(2), inserted “the” after “by the head of”.
+1998—Subsec. (b)(3). Pub. L. 105–261, § 3512(a)(2), inserted “the” after “by the head of”.
 
-Pub. L. 105–261, § 3507(c), substituted “the Panama Canal Transition Facilitation Act of 1997 (subtitle B of title XXXV of Public Law 105–85; 110 Stat. 2062), or the Panama Canal Commission Authorization Act for Fiscal Year 1999” for “the Panama Canal Transition Facilitation Act of 1997”.
+Pub. L. 105–261, § 3507(c), substituted “the Panama Canal Transition Facilitation Act of 1997 (subtitle B of title XXXV of Public Law 105–85; 110 Stat. 2062), or the Panama Canal Commission Authorization Act for Fiscal Year 1999” for “the Panama Canal Transition Facilitation Act of 1997”.
 
-1997—Subsec. (b)(3). Pub. L. 105–85, § 3550(d)(5), substituted “as in effect on September 22, 1996” for “as last in effect before September 23, 1996”.
+1997—Subsec. (b)(3). Pub. L. 105–85, § 3550(d)(5), substituted “as in effect on September 22, 1996” for “as last in effect before September 23, 1996”.
 
-Pub. L. 105–85, § 3523(d), substituted “, the Panama Canal Act Amendments of 1996 (subtitle B of title XXXV of Public Law 104–201; 110 Stat. 2860), or the Panama Canal Transition Facilitation Act of 1997” for “or the Panama Canal Act Amendments of 1996”.
+Pub. L. 105–85, § 3523(d), substituted “, the Panama Canal Act Amendments of 1996 (subtitle B of title XXXV of Public Law 104–201; 110 Stat. 2860), or the Panama Canal Transition Facilitation Act of 1997” for “or the Panama Canal Act Amendments of 1996”.
 
 1996—Pub. L. 104–201 amended section generally, substituting subsecs. (a) to (c) requiring the Commission to establish a Panama Canal Employment System for former subsecs. (a) to (d) requiring the President to establish such a System.
 
@@ -1045,7 +1045,7 @@ Pub. L. 105–85, § 3523(d), substituted “, the Panama Canal Act Amendmen
 
 **Savings Provision**
 
-Pub. L. 104–201, div. C, title XXXV, § 3530(b), Sept. 23, 1996, 110 Stat. 2863, provided that: “The Panama Canal Employment System and all elections, rules, regulations, and orders relating thereto, as last in effect before the amendment made by subsection (a) [amending this section] takes effect, shall continue in effect, according to their terms, until modified, terminated, or superseded under section 1212 of the Panama Canal Act of 1979 [this section], as amended by subsection (a).”
+Pub. L. 104–201, div. C, title XXXV, § 3530(b), Sept. 23, 1996, 110 Stat. 2863, provided that: “The Panama Canal Employment System and all elections, rules, regulations, and orders relating thereto, as last in effect before the amendment made by subsection (a) [amending this section] takes effect, shall continue in effect, according to their terms, until modified, terminated, or superseded under section 1212 of the Panama Canal Act of 1979 [this section], as amended by subsection (a).”
 
 **Executive Documents**
 
@@ -1053,7 +1053,7 @@ Pub. L. 104–201, div. C, title XXXV, § 3530(b), Sept. 23, 1996, 110 Stat. 2
 
 For provisions requiring consultations with the Secretary of Defense for agencies under this subpart with respect to the establishment of rates of pay and other matters deemed appropriate by the Secretary in order to develop compatible or unified systems of basic pay and employment practices, see section 1–201 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043, set out as a note under section 3601 of this title.
 
-##### § 3653. Employment standards
+##### § 3653. Employment standards
 
 The Commission shall establish written standards for—
 
@@ -1063,7 +1063,7 @@ The Commission shall establish written standards for—
 
 The standards shall conform to the provisions of this subpart, any regulations prescribed thereunder, and the Panama Canal Employment System.
 
-(Pub. L. 96–70, title I, § 1213, Sept. 27, 1979, 93 Stat. 464; Pub. L. 104–201, div. C, title XXXV, § 3531, Sept. 23, 1996, 110 Stat. 2863.)
+(Pub. L. 96–70, title I, § 1213, Sept. 27, 1979, 93 Stat. 464; Pub. L. 104–201, div. C, title XXXV, § 3531, Sept. 23, 1996, 110 Stat. 2863.)
 
 **Editorial Notes**
 
@@ -1077,19 +1077,19 @@ The standards shall conform to the provisions of this subpart, any regulations p
 
 For provisions requiring consultations with the Secretary of Defense for agencies under this subpart with respect to the establishment of rates of pay and other matters deemed appropriate by the Secretary in order to develop compatible or unified systems of basic pay and employment practices, see section 1–201 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043, set out as a note under section 3601 of this title.
 
-##### § 3654. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3532, Sept. 23, 1996, 110 Stat. 2863
+##### § 3654. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3532, Sept. 23, 1996, 110 Stat. 2863
 
-Section, Pub. L. 96–70, title I, § 1214, Sept. 27, 1979, 93 Stat. 465, related to an interim, continuing application of Canal Zone Merit System, as in effect on Sept. 30, 1979, until Panama Canal Employment System was established and in effect.
+Section, Pub. L. 96–70, title I, § 1214, Sept. 27, 1979, 93 Stat. 465, related to an interim, continuing application of Canal Zone Merit System, as in effect on Sept. 30, 1979, until Panama Canal Employment System was established and in effect.
 
-##### § 3655. Repealed. Pub. L. 105–85, div. C, title XXXV, § 3523(a)(1), Nov. 18, 1997, 111 Stat. 2064
+##### § 3655. Repealed. Pub. L. 105–85, div. C, title XXXV, § 3523(a)(1), Nov. 18, 1997, 111 Stat. 2064
 
-Section, Pub. L. 96–70, title I, § 1215, Sept. 27, 1979, 93 Stat. 465, related to establishment and revision of basic pay.
+Section, Pub. L. 96–70, title I, § 1215, Sept. 27, 1979, 93 Stat. 465, related to establishment and revision of basic pay.
 
-##### § 3656. Uniform application of standards and rates
+##### § 3656. Uniform application of standards and rates
 
 The standards established pursuant to section 3653 of this title and the rates of basic pay established pursuant to section 3642 of this title shall be applied without regard to whether the employee or individual concerned is a citizen of the United States or a citizen of the Republic of Panama.
 
-(Pub. L. 96–70, title I, § 1216, Sept. 27, 1979, 93 Stat. 465; Pub. L. 105–85, div. C, title XXXV, § 3523(c)(1), Nov. 18, 1997, 111 Stat. 2065.)
+(Pub. L. 96–70, title I, § 1216, Sept. 27, 1979, 93 Stat. 465; Pub. L. 105–85, div. C, title XXXV, § 3523(c)(1), Nov. 18, 1997, 111 Stat. 2065.)
 
 **Editorial Notes**
 
@@ -1097,9 +1097,9 @@ The standards established pursuant to section 3653 of this title and the rates o
 
 1997—Pub. L. 105–85 substituted “section 3642” for “section 3655”.
 
-##### § 3657. Recruitment and retention remuneration
+##### § 3657. Recruitment and retention remuneration
 
-**(a) Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269**
+**(a) Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269**
 
 **(b) Restriction**
 
@@ -1135,7 +1135,7 @@ Any employee described in more than one paragraph of subsection (a) of this sect
 
 Additional compensation provided under this section may not exceed 25 percent of the rate of basic pay of the individual to whom the compensation is paid.
 
-(Pub. L. 96–70, title I, § 1217, Sept. 27, 1979, 93 Stat. 465; Pub. L. 104–201, div. C, title XXXV, § 3533, Sept. 23, 1996, 110 Stat. 2863; Pub. L. 105–85, div. C, title XXXV, § 3525(a), Nov. 18, 1997, 111 Stat. 2066; Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269; Pub. L. 115–73, title I, § 107(a)(2)(D), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, § 1097(b)(3)(D), Dec. 12, 2017, 131 Stat. 1618.)
+(Pub. L. 96–70, title I, § 1217, Sept. 27, 1979, 93 Stat. 465; Pub. L. 104–201, div. C, title XXXV, § 3533, Sept. 23, 1996, 110 Stat. 2863; Pub. L. 105–85, div. C, title XXXV, § 3525(a), Nov. 18, 1997, 111 Stat. 2066; Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269; Pub. L. 115–73, title I, § 107(a)(2)(D), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, § 1097(b)(3)(D), Dec. 12, 2017, 131 Stat. 1618.)
 
 **Editorial Notes**
 
@@ -1155,9 +1155,9 @@ Pub. L. 115–73 substituted “section 2302(c)” for “section 2302(d)”.
 
 if, in the judgment of the head of the agency concerned, the recruitment or retention of the individual is essential.”
 
-1997—Subsecs. (c), (d). Pub. L. 105–85, § 3525(a)(3), added subsecs. (c) and (d). Former subsec. (c) redesignated (e).
+1997—Subsecs. (c), (d). Pub. L. 105–85, § 3525(a)(3), added subsecs. (c) and (d). Former subsec. (c) redesignated (e).
 
-Subsec. (e). Pub. L. 105–85, § 3525(a)(1), (2), redesignated subsec. (c) as (e) and substituted “of the individual to whom the compensation is paid” for “for the same or similar work performed in the United States by individuals employed by the Government of the United States”.
+Subsec. (e). Pub. L. 105–85, § 3525(a)(1), (2), redesignated subsec. (c) as (e) and substituted “of the individual to whom the compensation is paid” for “for the same or similar work performed in the United States by individuals employed by the Government of the United States”.
 
 1996—Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which read as follows: “Subchapter III of chapter 59 of title 5, relating to overseas differentials and allowances, shall not apply with respect to any employee whose permanent duty station is in the Republic of Panama and who is employed by an agency.”
 
@@ -1165,11 +1165,11 @@ Subsec. (e). Pub. L. 105–85, § 3525(a)(1), (2), redesignated subsec. (c) as
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out subsec. (a) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a) of this section is terminated.
+Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out subsec. (a) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a) of this section is terminated.
 
 **Savings Provision for Basic Pay**
 
-Pub. L. 105–261, div. C, title XXXV, § 3507(b), Oct. 17, 1998, 112 Stat. 2269, provided that: “Notwithstanding subsection (a) [amending this section and sections 3664, 3671, and 3731 of this title and repealing sections 3646 and 3647 of this title], benefits based on basic pay, as listed in paragraphs (1), (2), (3), (5), and (6) of section 1218 of the Panama Canal Act of 1979 [22 U.S.C. 3658(1), (2), (3), (5), (6)], shall be paid as if sections 1217(a) and 1231(a)(2)(A) and (B) of that Act [22 U.S.C. 3657(a), 3671(a)(2)(A), (B)] had been repealed effective 12:00 noon, December 31, 1999. The exception under the preceding sentence shall not apply to any pay for hours of work performed on December 31, 1999.”
+Pub. L. 105–261, div. C, title XXXV, § 3507(b), Oct. 17, 1998, 112 Stat. 2269, provided that: “Notwithstanding subsection (a) [amending this section and sections 3664, 3671, and 3731 of this title and repealing sections 3646 and 3647 of this title], benefits based on basic pay, as listed in paragraphs (1), (2), (3), (5), and (6) of section 1218 of the Panama Canal Act of 1979 [22 U.S.C. 3658(1), (2), (3), (5), (6)], shall be paid as if sections 1217(a) and 1231(a)(2)(A) and (B) of that Act [22 U.S.C. 3657(a), 3671(a)(2)(A), (B)] had been repealed effective 12:00 noon, December 31, 1999. The exception under the preceding sentence shall not apply to any pay for hours of work performed on December 31, 1999.”
 
 **Executive Documents**
 
@@ -1177,7 +1177,7 @@ Pub. L. 105–261, div. C, title XXXV, § 3507(b), Oct. 17, 1998, 112 Stat. 22
 
 For provisions requiring consultations with the Secretary of Defense for agencies under this subpart with respect to the establishment of rates of pay and other matters deemed appropriate by the Secretary in order to develop compatible or unified systems of basic pay and employment practices, see section 1–201 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043, set out as a note under section 3601 of this title.
 
-##### § 3657a. Quarters allowances
+##### § 3657a. Quarters allowances
 
 **(a) “Position” and “employee” defined** Notwithstanding paragraphs (2) and (3) of section 3651 of this title, as used in this section—
 
@@ -1209,7 +1209,7 @@ exceeds
 
 The provisions of this section shall apply without regard to whether any election by the Department of Defense under section 3652(b) of this title is then in effect.
 
-(Pub. L. 96–70, title I, § 1217a, as added Pub. L. 98–600, § 1(a), Oct. 30, 1984, 98 Stat. 3145.)
+(Pub. L. 96–70, title I, § 1217a, as added Pub. L. 98–600, § 1(a), Oct. 30, 1984, 98 Stat. 3145.)
 
 **Editorial Notes**
 
@@ -1221,7 +1221,7 @@ For effective date of this section, referred to in subsec. (b)(2), see section 2
 
 **Effective Date**
 
-Pub. L. 98–600, § 2, Oct. 30, 1984, 98 Stat. 3146, provided that: “The amendments made by this Act [enacting this section] shall take effect on October 1, 1984, and shall apply with respect to utility costs incurred, and rent payable for any period beginning, on or after that date.”
+Pub. L. 98–600, § 2, Oct. 30, 1984, 98 Stat. 3146, provided that: “The amendments made by this Act [enacting this section] shall take effect on October 1, 1984, and shall apply with respect to utility costs incurred, and rent payable for any period beginning, on or after that date.”
 
 **Executive Documents**
 
@@ -1237,7 +1237,7 @@ Sec. 2. The regulations prescribed under Section 1 shall be consistent with Arti
 
 Ronald Reagan.
 
-##### § 3658. Benefits based on basic pay
+##### § 3658. Benefits based on basic pay
 
 For the purpose of determining—
 
@@ -1253,19 +1253,19 @@ For the purpose of determining—
 
 **(6)** any other benefits related to basic pay;
 
-the basic pay of each employee shall include the rate of basic pay established for his position under section 3642 of this title plus the amount of any additional compensation provided under section 3657(a) 1
+the basic pay of each employee shall include the rate of basic pay established for his position under section 3642 of this title plus the amount of any additional compensation provided under section 3657(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-(Pub. L. 96–70, title I, § 1218, Sept. 27, 1979, 93 Stat. 466; Pub. L. 104–201, div. C, title XXXV, § 3534, Sept. 23, 1996, 110 Stat. 2863; Pub. L. 105–85, div. C, title XXXV, § 3523(c)(2), Nov. 18, 1997, 111 Stat. 2065.)
+(Pub. L. 96–70, title I, § 1218, Sept. 27, 1979, 93 Stat. 466; Pub. L. 104–201, div. C, title XXXV, § 3534, Sept. 23, 1996, 110 Stat. 2863; Pub. L. 105–85, div. C, title XXXV, § 3523(c)(2), Nov. 18, 1997, 111 Stat. 2065.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3657(a) of this title, referred to in text, was repealed by Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269.
+Section 3657(a) of this title, referred to in text, was repealed by Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269.
 
 **Amendments**
 
@@ -1279,11 +1279,11 @@ Section 3657(a) of this title, referred to in text, was repealed by Pub. L. 105�
 
 For provisions requiring consultations with the Secretary of Defense for agencies under this subpart with respect to the establishment of rates of pay and other matters deemed appropriate by the Secretary in order to develop compatible or unified systems of basic pay and employment practices, see section 1–201 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043, set out as a note under section 3601 of this title.
 
-##### § 3659. Repealed. Pub. L. 105–85, div. C, title XXXV, § 3523(a)(2), Nov. 18, 1997, 111 Stat. 2064
+##### § 3659. Repealed. Pub. L. 105–85, div. C, title XXXV, § 3523(a)(2), Nov. 18, 1997, 111 Stat. 2064
 
-Section, Pub. L. 96–70, title I, § 1219, Sept. 27, 1979, 93 Stat. 466, related to salary protection upon conversion of pay rate.
+Section, Pub. L. 96–70, title I, § 1219, Sept. 27, 1979, 93 Stat. 466, related to salary protection upon conversion of pay rate.
 
-##### § 3660. Review and adjustment of classifications, grades, and pay level
+##### § 3660. Review and adjustment of classifications, grades, and pay level
 
 An employee may request at any time that the employee’s agency—
 
@@ -1293,15 +1293,15 @@ An employee may request at any time that the employee’s agency—
 
 The request for review and revision or adjustment shall be submitted and adjudicated in accordance with the regularly established appeals procedures of the agency.
 
-(Pub. L. 96–70, title I, § 1220, Sept. 27, 1979, 93 Stat. 466.)
+(Pub. L. 96–70, title I, § 1220, Sept. 27, 1979, 93 Stat. 466.)
 
-##### § 3661. Panama Canal Board of Appeals; duties
+##### § 3661. Panama Canal Board of Appeals; duties
 
 **(a)** Subject to the provisions of this part, the Commission shall prescribe regulations establishing a Panama Canal Board of Appeals. The regulations shall provide for the number of members of the Board and their appointment, compensation, and terms of office, the selection of a Chairman of the Board, the appointment and compensation of the Board’s employees, and other appropriate matters relating to the Board.
 
 **(b)** The Board shall review and determine the appeals of employees in accordance with section 3662 of this title. The decisions of the Board shall conform to the provisions of this subpart.
 
-(Pub. L. 96–70, title I, § 1221, Sept. 27, 1979, 93 Stat. 466; Pub. L. 105–85, div. C, title XXXV, § 3548, Nov. 18, 1997, 111 Stat. 2073.)
+(Pub. L. 96–70, title I, § 1221, Sept. 27, 1979, 93 Stat. 466; Pub. L. 105–85, div. C, title XXXV, § 3548, Nov. 18, 1997, 111 Stat. 2073.)
 
 **Editorial Notes**
 
@@ -1309,7 +1309,7 @@ The request for review and revision or adjustment shall be submitted and adjudic
 
 1997—Subsec. (a). Pub. L. 105–85 substituted “Commission” for “President”.
 
-##### § 3662. Appeals to Board; procedures
+##### § 3662. Appeals to Board; procedures
 
 **(a) Persons entitled to appeal; form; time**
 
@@ -1331,7 +1331,7 @@ The Board may authorize, in connection with an appeal pursuant to subsection (a)
 
 The decision of the Board on any question or other matter relating to an appeal is final and conclusive. The agency concerned shall take action in accordance with the decision of the Board.
 
-(Pub. L. 96–70, title I, § 1222, Sept. 27, 1979, 93 Stat. 467; Pub. L. 105–85, div. C, title XXXV, § 3548, Nov. 18, 1997, 111 Stat. 2073.)
+(Pub. L. 96–70, title I, § 1222, Sept. 27, 1979, 93 Stat. 467; Pub. L. 105–85, div. C, title XXXV, § 3548, Nov. 18, 1997, 111 Stat. 2073.)
 
 **Editorial Notes**
 
@@ -1339,11 +1339,11 @@ The decision of the Board on any question or other matter relating to an appeal 
 
 1997—Subsec. (a). Pub. L. 105–85 substituted “Commission” for “President”.
 
-##### § 3663. Repealed. Pub. L. 105–261, div. C, title XXXV, § 3508(a), Oct. 17, 1998, 112 Stat. 2269
+##### § 3663. Repealed. Pub. L. 105–261, div. C, title XXXV, § 3508(a), Oct. 17, 1998, 112 Stat. 2269
 
-Section, Pub. L. 96–70, title I, § 1223, Sept. 27, 1979, 93 Stat. 467; Pub. L. 104–201, div. C, title XXXV, § 3535, Sept. 23, 1996, 110 Stat. 2863, related to the Central Examining Office.
+Section, Pub. L. 96–70, title I, § 1223, Sept. 27, 1979, 93 Stat. 467; Pub. L. 104–201, div. C, title XXXV, § 3535, Sept. 23, 1996, 110 Stat. 2863, related to the Central Examining Office.
 
-##### § 3664. Applicability of title 5
+##### § 3664. Applicability of title 5
 
 The following provisions of title 5 apply to the Panama Canal Commission:
 
@@ -1367,7 +1367,7 @@ The following provisions of title 5 apply to the Panama Canal Commission:
 
 **(10)** Chapter 59 (relating to allowances).
 
-**(11)** Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269.
+**(11)** Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269.
 
 **(12)** Section 6323 (relating to military leave; Reserves and National Guardsmen).
 
@@ -1385,7 +1385,7 @@ The following provisions of title 5 apply to the Panama Canal Commission:
 
 **(19)** Chapter 89 (relating to health insurance).
 
-(Pub. L. 96–70, title I, § 1224, Sept. 27, 1979, 93 Stat. 467; Pub. L. 104–201, div. C, title XXXV, § 3536, Sept. 23, 1996, 110 Stat. 2864; Pub. L. 105–85, div. C, title XXXV, § 3524(a)(2), Nov. 18, 1997, 111 Stat. 2065; Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269.)
+(Pub. L. 96–70, title I, § 1224, Sept. 27, 1979, 93 Stat. 467; Pub. L. 104–201, div. C, title XXXV, § 3536, Sept. 23, 1996, 110 Stat. 2864; Pub. L. 105–85, div. C, title XXXV, § 3524(a)(2), Nov. 18, 1997, 111 Stat. 2065; Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269.)
 
 **Editorial Notes**
 
@@ -1407,19 +1407,19 @@ The following provisions of title 5 apply to the Panama Canal Commission:
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out par. (11) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, par. (11) of this section is terminated.
+Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out par. (11) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, par. (11) of this section is terminated.
 
 **Effective Date of 1997 Amendment**
 
 Amendment by Pub. L. 105–85 effective Jan. 1, 1999, see section 3524(c) of Pub. L. 105–85, set out as a note under section 3650 of this title.
 
-##### § 3665. Repealed. Pub. L. 105–85, div. C, title XXXV, § 3523(a)(3), Nov. 18, 1997, 111 Stat. 2065
+##### § 3665. Repealed. Pub. L. 105–85, div. C, title XXXV, § 3523(a)(3), Nov. 18, 1997, 111 Stat. 2065
 
-Section, Pub. L. 96–70, title I, § 1225(b), Sept. 27, 1979, 93 Stat. 468, related to minimum pay level and minimum annual increases.
+Section, Pub. L. 96–70, title I, § 1225(b), Sept. 27, 1979, 93 Stat. 468, related to minimum pay level and minimum annual increases.
 
 #### subpart iii—conditions of employment and placement
 
-##### § 3671. Transferred or reemployed employees
+##### § 3671. Transferred or reemployed employees
 
 **(a) Terms and conditions of employment**
 
@@ -1437,7 +1437,7 @@ the terms and conditions of employment set forth in paragraph (2) of this subsec
 
 **(2)** The terms and conditions of employment referred to in paragraph (1) of this subsection are the following:
 
-**(A)** , (B) Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269.
+**(A)** , (B) Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269.
 
 **(C)** premium pay and night differential;
 
@@ -1445,7 +1445,7 @@ the terms and conditions of employment set forth in paragraph (2) of this subsec
 
 **(E)** injury and death compensation benefits;
 
-**(F)** to (H) Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269.
+**(F)** to (H) Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269.
 
 **(I)** reduction-in-force rights;
 
@@ -1487,7 +1487,7 @@ Any individual described in subsection (a)(1)(B) of this section who would have 
 
 **(ii)** Each agreement required under clause (i) of this subparagraph shall provide that in the event the teacher fails to carry out the agreement (except for good and sufficient reason as determined by the head of the department or agency that granted the sabbatical) the teacher shall be liable to the United States for payment of all expenses (including salary) of the sabbatical. The amount shall be treated as a debt due the United States.
 
-(Pub. L. 96–70, title I, § 1231(a)–(c), Sept. 27, 1979, 93 Stat. 468, 469; Pub. L. 104–201, div. C, title XXXV, § 3537, Sept. 23, 1996, 110 Stat. 2864; Pub. L. 105–85, div. C, title XXXV, § 3550(d)(2)(C), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269.)
+(Pub. L. 96–70, title I, § 1231(a)–(c), Sept. 27, 1979, 93 Stat. 468, 469; Pub. L. 104–201, div. C, title XXXV, § 3537, Sept. 23, 1996, 110 Stat. 2864; Pub. L. 105–85, div. C, title XXXV, § 3550(d)(2)(C), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269.)
 
 **Editorial Notes**
 
@@ -1529,9 +1529,9 @@ Subsec. (a)(2)(F) to (H). Pub. L. 105–261 struck out subpars. (F) to (H) which
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out subsec. (a)(2)(A), (B), and (F) to (H) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a)(2)(A), (B), and (F) to (H) of this section is terminated.
+Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out subsec. (a)(2)(A), (B), and (F) to (H) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a)(2)(A), (B), and (F) to (H) of this section is terminated.
 
-##### § 3672. Placement
+##### § 3672. Placement
 
 **(a) Citizens separated from employment with Panama Canal Company or Canal Zone Government** Any citizen of the United States—
 
@@ -1561,9 +1561,9 @@ The Office of Personnel Management shall establish and administer a Government-w
 
 The provisions of this section shall take effect on September 27, 1979.
 
-(Pub. L. 96–70, title I, § 1232, Sept. 27, 1979, 93 Stat. 470.)
+(Pub. L. 96–70, title I, § 1232, Sept. 27, 1979, 93 Stat. 470.)
 
-##### § 3673. Transition separation incentive payments
+##### § 3673. Transition separation incentive payments
 
 **(a)** In applying to the Commission and employees of the Commission the provisions of section 663 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 (as contained in section 101(f) of division A of Public Law 104–208; 110 Stat. 3009–383), relating to voluntary separation incentives for employees of certain Federal agencies (in this section referred to as “section 663”)—
 
@@ -1599,7 +1599,7 @@ The provisions of this section shall take effect on September 27, 1979.
 
 **(b)** A decision by the Commission to exercise or to not exercise the authority to pay a transition separation incentive under this section shall not be subject to review under any statutory procedure or any agency or negotiated grievance procedure except under any of the laws referred to in section 2302(d) of title 5.
 
-(Pub. L. 96–70, title I, § 1233, as added Pub. L. 105–85, div. C, title XXXV, § 3526, Nov. 18, 1997, 111 Stat. 2067; amended Pub. L. 115–73, title I, § 107(a)(2)(E), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, § 1097(b)(3)(E), Dec. 12, 2017, 131 Stat. 1618.)
+(Pub. L. 96–70, title I, § 1233, as added Pub. L. 105–85, div. C, title XXXV, § 3526, Nov. 18, 1997, 111 Stat. 2067; amended Pub. L. 115–73, title I, § 107(a)(2)(E), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, § 1097(b)(3)(E), Dec. 12, 2017, 131 Stat. 1618.)
 
 **Editorial Notes**
 
@@ -1615,7 +1615,7 @@ Pub. L. 115–73 substituted “section 2302(c)” for “section 2302(d)”.
 
 #### subpart iv—retirement
 
-##### § 3681. Retirement under special treaty provisions
+##### § 3681. Retirement under special treaty provisions
 
 **(a) Purchase of retirement equity; individuals entitled to participate**
 
@@ -1659,7 +1659,7 @@ The amount paid to the Social Security System of the Republic of Panama with res
 
 **(2)** The retirement annuity referred to in paragraph (1) of this subsection with respect to any employee will cover retroactively, from October 1, 1979, all periods of service, described in subparagraph (D) of that paragraph, by that employee at any permanent duty station in the Republic of Panama (including the area known before that date as the Canal Zone) in agencies and instrumentalities of the Government of the United States during which that employee was not covered by the United States Civil Service Retirement System or any other Federal retirement system providing benefits similar to those retirement benefits provided by the Social Security System of the Republic of Panama.
 
-(Pub. L. 96–70, title I, § 1243, Sept. 27, 1979, 93 Stat. 473; Pub. L. 105–85, div. C, title XXXV, § 3550(d)(6), Nov. 18, 1997, 111 Stat. 2074.)
+(Pub. L. 96–70, title I, § 1243, Sept. 27, 1979, 93 Stat. 473; Pub. L. 105–85, div. C, title XXXV, § 3550(d)(6), Nov. 18, 1997, 111 Stat. 2074.)
 
 **Editorial Notes**
 
@@ -1673,7 +1673,7 @@ The amount paid to the Social Security System of the Republic of Panama with res
 
 Functions vested in President by subsec. (a)(1) delegated to Director of Office of Personnel Management and function vested in President by subsec. (c)(1) of this section delegated to Secretary of Defense, see sections 1–105 and 1–403 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043, 36045, set out as a note under section 3601 of this title.
 
-##### § 3682. Administration of certain disability benefits
+##### § 3682. Administration of certain disability benefits
 
 **(a) Continuation of cash relief payments to employees under Act of July 8, 1937**
 
@@ -1703,37 +1703,37 @@ Cash relief granted to such a widow shall not at any time exceed 50 percent of t
 
 Subchapter III of chapter 83 of title 5 applies with respect to those individuals who were in the service of the Canal Zone Government or the Panama Canal Company on October 5, 1958, and who, except for the operation of section 13(a)(1) of the Act entitled “An Act to implement item 1 of a Memorandum of Understanding attached to the treaty of January 25, 1955, entered into by the Government of the United States of America and the Government of the Republic of Panama with respect to wage and employment practices of the Government of the United States of America in the Canal Zone”, approved July 25, 1958 (72 Stat. 405), would have been within the classes of individuals subject to the Act of July 8, 1937, referred to in subsection (a) of this section.
 
-(Pub. L. 96–70, title I, § 1245, Sept. 27, 1979, 93 Stat. 475; Pub. L. 104–201, div. C, title XXXV, §§ 3538, 3548(c)(2), Sept. 23, 1996, 110 Stat. 2864, 2869.)
+(Pub. L. 96–70, title I, § 1245, Sept. 27, 1979, 93 Stat. 475; Pub. L. 104–201, div. C, title XXXV, §§ 3538, 3548(c)(2), Sept. 23, 1996, 110 Stat. 2864, 2869.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The reference to the Act of July 8, 1937, in subsecs. (a)(1), (d), and (e), is act July 8, 1937, ch. 443, 50 Stat. 478, which was classified to section 1372 of Title 48, Territories and Insular Possessions, prior to repeal by Pub. L. 87–845, § 26(b), Oct. 18, 1962, 76A Stat. 701.
+The reference to the Act of July 8, 1937, in subsecs. (a)(1), (d), and (e), is act July 8, 1937, ch. 443, 50 Stat. 478, which was classified to section 1372 of Title 48, Territories and Insular Possessions, prior to repeal by Pub. L. 87–845, § 26(b), Oct. 18, 1962, 76A Stat. 701.
 
-The Canal Zone Code, referred to in subsec. (a)(2), was enacted by Pub. L. 87–845, § 1, Oct. 18, 1962, 76A Stat. 1, redesignated the Panama Canal Code by Pub. L. 96–70, title III, § 3303(b), Sept. 27, 1979, 93 Stat. 499, and repealed by Pub. L. 104–201, div. C, title XXXV, § 3549, Sept. 23, 1996, 110 Stat. 2870.
+The Canal Zone Code, referred to in subsec. (a)(2), was enacted by Pub. L. 87–845, § 1, Oct. 18, 1962, 76A Stat. 1, redesignated the Panama Canal Code by Pub. L. 96–70, title III, § 3303(b), Sept. 27, 1979, 93 Stat. 499, and repealed by Pub. L. 104–201, div. C, title XXXV, § 3549, Sept. 23, 1996, 110 Stat. 2870.
 
 Section 13(a)(1) of Act July 25, 1958, referred to in subsec. (e), probably means section 13(a) of Pub. L. 85–550, July 25, 1958, 72 Stat. 405, which is set out as a note under section 8331 of Title 5, Government Organization and Employees.
 
 **Amendments**
 
-1996—Pub. L. 104–201, §§ 3538, 3548(c)(2), amended section catchline to read “Administration of certain disability benefits”.
+1996—Pub. L. 104–201, §§ 3538, 3548(c)(2), amended section catchline to read “Administration of certain disability benefits”.
 
-Subsec. (a). Pub. L. 104–201, § 3538, added subsec. (a) and struck out former subsec. (a) which read as follows: “The Commission, under the regulations prescribed by the President pursuant to the Act entitled ‘An Act authorizing cash relief for certain employees of the Panama Canal not coming within the provisions of the Canal Zone Retirement Act’, approved July 8, 1937, as amended (50 Stat. 478; 68 Stat. 17), may continue the payments of cash relief to those individual former employees of the Canal Zone Government or Panama Canal Company or their predecessor agencies not coming within the scope of the former Canal Zone Retirement Act whose services were terminated prior to October 5, 1958, because of unfitness for further useful service by reason of mental or physical disability resulting from age or disease. Subject to subsection (b) of this section, that cash relief may not exceed $1.50 per month for each year of service of the employees so furnished relief, with a maximum of $45 per month, plus the amount of any cost-of-living increases in such cash relief granted before October 1, 1979, pursuant to section 181 of title 2 of the Canal Zone Code (as in effect on September 30, 1979), nor be paid to any employee who, at the time of termination for disability prior to October 5, 1958, had less than 10 years’ service with the Canal Zone Government, the Panama Canal Company, or their predecessor agencies on the Isthmus of Panama.”
+Subsec. (a). Pub. L. 104–201, § 3538, added subsec. (a) and struck out former subsec. (a) which read as follows: “The Commission, under the regulations prescribed by the President pursuant to the Act entitled ‘An Act authorizing cash relief for certain employees of the Panama Canal not coming within the provisions of the Canal Zone Retirement Act’, approved July 8, 1937, as amended (50 Stat. 478; 68 Stat. 17), may continue the payments of cash relief to those individual former employees of the Canal Zone Government or Panama Canal Company or their predecessor agencies not coming within the scope of the former Canal Zone Retirement Act whose services were terminated prior to October 5, 1958, because of unfitness for further useful service by reason of mental or physical disability resulting from age or disease. Subject to subsection (b) of this section, that cash relief may not exceed $1.50 per month for each year of service of the employees so furnished relief, with a maximum of $45 per month, plus the amount of any cost-of-living increases in such cash relief granted before October 1, 1979, pursuant to section 181 of title 2 of the Canal Zone Code (as in effect on September 30, 1979), nor be paid to any employee who, at the time of termination for disability prior to October 5, 1958, had less than 10 years’ service with the Canal Zone Government, the Panama Canal Company, or their predecessor agencies on the Isthmus of Panama.”
 
-##### § 3683. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(6), Sept. 23, 1996, 110 Stat. 2868
+##### § 3683. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(6), Sept. 23, 1996, 110 Stat. 2868
 
-Section, Pub. L. 96–70, title I, § 1246, Sept. 27, 1979, 93 Stat. 476; Pub. L. 100–203, title V, § 5428(a), Dec. 22, 1987, 101 Stat. 1330–274, authorized Commission to purchase artificial limbs or other appliances for persons who were injured in service of Isthmian Canal Commission or of Panama Canal before Sept. 7, 1916.
+Section, Pub. L. 96–70, title I, § 1246, Sept. 27, 1979, 93 Stat. 476; Pub. L. 100–203, title V, § 5428(a), Dec. 22, 1987, 101 Stat. 1330–274, authorized Commission to purchase artificial limbs or other appliances for persons who were injured in service of Isthmian Canal Commission or of Panama Canal before Sept. 7, 1916.
 
 #### subpart v—application to related personnel
 
-##### § 3691. Individuals considered employees
+##### § 3691. Individuals considered employees
 
 **(a) Individuals considered employees for purposes of certain sections**
 
 For the purposes of sections 3646,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 3671, and 3672 of this title, including any amendment made by sections 1231, 1241, and 1242 of this Act, the United States Attorney for the District of the Canal Zone and the Assistant United States Attorneys and their clerical assistants, and the United States Marshal for the District of the Canal Zone and his deputies and clerical assistants shall be considered employees of the Commission.
 
@@ -1741,13 +1741,13 @@ For the purposes of sections 3646,1
 
 For the purposes of this Act, including any amendment made by this Act, the Executive Director of the Canal Zone Civilian Personnel Policy Coordinating Board, the Manager, Central Examining Office, and their staffs shall be considered to have been employees of the Panama Canal Company with respect to service in those positions before October 1, 1979, and as employees of the Commission with respect to service in those positions on or after that date.
 
-(Pub. L. 96–70, title I, § 1261(a), (b), Sept. 27, 1979, 93 Stat. 476.)
+(Pub. L. 96–70, title I, § 1261(a), (b), Sept. 27, 1979, 93 Stat. 476.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3646 of this title, referred to in subsec. (a), was repealed by Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269.
+Section 3646 of this title, referred to in subsec. (a), was repealed by Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269.
 
 Section 1231 of this Act, referred to in subsec. (a), amended sections 5595, 5724a, and 8102 of Title 5, Government Organization and Employees.
 
@@ -1761,11 +1761,11 @@ This Act, referred to in subsec. (b), is Pub. L. 96–70, Sept. 27, 1979, 93 Sta
 
 **Effective Date**
 
-Pub. L. 96–70, title I, § 1261(c), Sept. 27, 1979, 93 Stat. 476, provided that: “The provisions of this section [enacting this section] shall take effect on the date of the enactment of this Act [Sept. 27, 1979].”
+Pub. L. 96–70, title I, § 1261(c), Sept. 27, 1979, 93 Stat. 476, provided that: “The provisions of this section [enacting this section] shall take effect on the date of the enactment of this Act [Sept. 27, 1979].”
 
 #### subpart vi—labor-management relations
 
-##### § 3701. Labor-management relations
+##### § 3701. Labor-management relations
 
 **(a) Applicability of chapter 71 of title 5** Nothing in this chapter shall be construed to affect the applicability of chapter 71 of title 5, relating to labor-management and employee relations, with respect to the Commission or the operations of any other Executive agency conducted in that area of the Republic of Panama which, on September 30, 1979, was the Canal Zone, except that in applying those provisions—
 
@@ -1801,7 +1801,7 @@ Labor-management and employee relations of the Commission, other Executive agenc
 
 **(4)** In the case of a notice of agreement described in paragraph (2)(A) that is transmitted to the Congress as described in the second sentence of that paragraph after July 1, 1998, the impasse resolution procedures covered by that notice shall apply to any impasse between the Commission and the other party to the agreement that is unresolved on the date on which that notice is transmitted to the Congress.
 
-(Pub. L. 96–70, title I, § 1271, Sept. 27, 1979, 93 Stat. 476; Pub. L. 103–160, div. C, title XXXV, § 3505, Nov. 30, 1993, 107 Stat. 1966; Pub. L. 105–85, div. C, title XXXV, § 3527, Nov. 18, 1997, 111 Stat. 2068.)
+(Pub. L. 96–70, title I, § 1271, Sept. 27, 1979, 93 Stat. 476; Pub. L. 103–160, div. C, title XXXV, § 3505, Nov. 30, 1993, 107 Stat. 1966; Pub. L. 105–85, div. C, title XXXV, § 3527, Nov. 18, 1997, 111 Stat. 2068.)
 
 **Editorial Notes**
 
@@ -1819,7 +1819,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–160, div. C, title XXXV, § 3506, Nov. 30, 1993, 107 Stat. 1966, provided that:
+Pub. L. 103–160, div. C, title XXXV, § 3506, Nov. 30, 1993, 107 Stat. 1966, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), this title [amending this section and enacting provisions set out as a note under section 3641 of this title] shall take effect as of October 1, 1993.
 
@@ -1829,11 +1829,11 @@ Pub. L. 103–160, div. C, title XXXV, § 3506, Nov. 30, 1993, 107 Stat. 1966,
 
 #### subpart i—funds
 
-##### § 3711. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(8), Sept. 23, 1996, 110 Stat. 2868
+##### § 3711. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(8), Sept. 23, 1996, 110 Stat. 2868
 
-Section, Pub. L. 96–70, title I, § 1301, Sept. 27, 1979, 93 Stat. 477; Pub. L. 100–203, title V, § 5428(e), Dec. 22, 1987, 101 Stat. 1330–274, directed that, on Oct. 1, 1979, unexpended balances of Canal Zone Government appropriations accounts be covered into general fund of Treasury, repealed any appropriations to which expenditures under such accounts had been chargeable before Oct. 1, 1979, and authorized Commission to pay claims or make payments chargeable to such accounts.
+Section, Pub. L. 96–70, title I, § 1301, Sept. 27, 1979, 93 Stat. 477; Pub. L. 100–203, title V, § 5428(e), Dec. 22, 1987, 101 Stat. 1330–274, directed that, on Oct. 1, 1979, unexpended balances of Canal Zone Government appropriations accounts be covered into general fund of Treasury, repealed any appropriations to which expenditures under such accounts had been chargeable before Oct. 1, 1979, and authorized Commission to pay claims or make payments chargeable to such accounts.
 
-##### § 3712. Panama Canal Revolving Fund
+##### § 3712. Panama Canal Revolving Fund
 
 **(a) Establishment** There is established in the Treasury of the United States a revolving fund to be known as “Panama Canal Revolving Fund”. The Panama Canal Revolving Fund shall, subject to subsection (b), be available to the Commission to carry out the purposes, functions, and powers authorized by this chapter, including for the following purposes:
 
@@ -1887,7 +1887,7 @@ With the approval of the Secretary of the Treasury, the Commission may deposit a
 
 **(2)** Upon termination pursuant to paragraph (1), the Panama Canal Revolving Fund shall be transferred to the General Services Administration (GSA). GSA shall use the amounts in the Fund to make payments of any outstanding liabilities of the Commission, as well as any expenses associated with the termination of the Office of Transition Administration and the Commission. The fund shall be the exclusive source available for payment of any outstanding liabilities of the Commission.
 
-(Pub. L. 96–70, title I, § 1302, Sept. 27, 1979, 93 Stat. 477; Pub. L. 99–195, § 1(a), Dec. 23, 1985, 99 Stat. 1349; Pub. L. 100–203, title V, § 5422(a), (b)(1), Dec. 22, 1987, 101 Stat. 1330–271, 1330–272; Pub. L. 100–705, § 9, Nov. 19, 1988, 102 Stat. 4687; Pub. L. 102–484, div. C, title XXXV, § 3521(b)(1), Oct. 23, 1992, 106 Stat. 2657; Pub. L. 104–106, div. C, title XXXV, § 3525, Feb. 10, 1996, 110 Stat. 640; Pub. L. 104–201, div. C, title XXXV, § 3539, Sept. 23, 1996, 110 Stat. 2865; Pub. L. 105–85, div. C, title XXXV, § 3528, Nov. 18, 1997, 111 Stat. 2069; Pub. L. 108–309, § 121, Sept. 30, 2004, 118 Stat. 1140.)
+(Pub. L. 96–70, title I, § 1302, Sept. 27, 1979, 93 Stat. 477; Pub. L. 99–195, § 1(a), Dec. 23, 1985, 99 Stat. 1349; Pub. L. 100–203, title V, § 5422(a), (b)(1), Dec. 22, 1987, 101 Stat. 1330–271, 1330–272; Pub. L. 100–705, § 9, Nov. 19, 1988, 102 Stat. 4687; Pub. L. 102–484, div. C, title XXXV, § 3521(b)(1), Oct. 23, 1992, 106 Stat. 2657; Pub. L. 104–106, div. C, title XXXV, § 3525, Feb. 10, 1996, 110 Stat. 640; Pub. L. 104–201, div. C, title XXXV, § 3539, Sept. 23, 1996, 110 Stat. 2865; Pub. L. 105–85, div. C, title XXXV, § 3528, Nov. 18, 1997, 111 Stat. 2069; Pub. L. 108–309, § 121, Sept. 30, 2004, 118 Stat. 1140.)
 
 **Editorial Notes**
 
@@ -1901,35 +1901,35 @@ Section 3504 of Public Law 106–65, referred to in subsec. (e)(1), is section 3
 
 2004—Subsec. (e). Pub. L. 108–309 added subsec. (e).
 
-1997—Subsec. (a). Pub. L. 105–85, § 3528(b)(1), substituted “for the following purposes:” for “for—” in introductory provisions.
+1997—Subsec. (a). Pub. L. 105–85, § 3528(b)(1), substituted “for the following purposes:” for “for—” in introductory provisions.
 
-Subsec. (a)(1) to (7). Pub. L. 105–85, § 3528(b)(2), (3), capitalized initial letter of first word and substituted a period for the semicolon at end.
+Subsec. (a)(1) to (7). Pub. L. 105–85, § 3528(b)(2), (3), capitalized initial letter of first word and substituted a period for the semicolon at end.
 
-Subsec. (a)(8). Pub. L. 105–85, § 3528(b)(2), (4), capitalized initial letter of first word and substituted “industry.” for “industry; and”.
+Subsec. (a)(8). Pub. L. 105–85, § 3528(b)(2), (4), capitalized initial letter of first word and substituted “industry.” for “industry; and”.
 
-Subsec. (a)(9). Pub. L. 105–85, § 3528(b)(2), capitalized initial letter of first word.
+Subsec. (a)(9). Pub. L. 105–85, § 3528(b)(2), capitalized initial letter of first word.
 
-Subsec. (a)(10). Pub. L. 105–85, § 3528(a), added par. (10).
+Subsec. (a)(10). Pub. L. 105–85, § 3528(a), added par. (10).
 
 1996—Pub. L. 104–201 amended section generally, reenacting section catchline without change, revising and restating former subsecs. (a)(1), (c), (d), and (f) as subsecs. (a) to (d), and striking out provisions of former subsecs. (a)(2), (b), and (e), which related to termination of the Fund, transfer of funds, and congressional review of Commission budgets.
 
-Subsec. (c)(1). Pub. L. 104–106, § 3525(1)(A), struck out “and subject to paragraph (2)” after “section 3713 of this title”.
+Subsec. (c)(1). Pub. L. 104–106, § 3525(1)(A), struck out “and subject to paragraph (2)” after “section 3713 of this title”.
 
-Subsec. (c)(2), (3). Pub. L. 104–106, § 3525(1)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “No funds may be obligated or expended by the Commission in any fiscal year for administrative expenses except to the extent or in such amounts as are provided in appropriations Acts.”
+Subsec. (c)(2), (3). Pub. L. 104–106, § 3525(1)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “No funds may be obligated or expended by the Commission in any fiscal year for administrative expenses except to the extent or in such amounts as are provided in appropriations Acts.”
 
-Subsec. (e). Pub. L. 104–106, § 3525(2), added subsec. (e) and struck out former subsec. (e) which read as follows: “The Committee on Appropriations of each House of Congress shall review the annual budget of the Commission, including operations and capital expenditures.”
+Subsec. (e). Pub. L. 104–106, § 3525(2), added subsec. (e) and struck out former subsec. (e) which read as follows: “The Committee on Appropriations of each House of Congress shall review the annual budget of the Commission, including operations and capital expenditures.”
 
-1992—Subsec. (c)(1). Pub. L. 102–484, § 3521(b)(1)(A), inserted “(other than amounts of toll receipts deposited into the Panama Canal Commission Dissolution Fund under section 3714a of this title)” after “toll receipts”.
+1992—Subsec. (c)(1). Pub. L. 102–484, § 3521(b)(1)(A), inserted “(other than amounts of toll receipts deposited into the Panama Canal Commission Dissolution Fund under section 3714a of this title)” after “toll receipts”.
 
-Subsec. (c)(3)(A). Pub. L. 102–484, § 3521(b)(1)(B), inserted “and the Panama Canal Dissolution Fund” after “Panama Canal Revolving Fund”.
+Subsec. (c)(3)(A). Pub. L. 102–484, § 3521(b)(1)(B), inserted “and the Panama Canal Dissolution Fund” after “Panama Canal Revolving Fund”.
 
 1988—Subsecs. (e), (f). Pub. L. 100–705 redesignated subsec. (e), relating to costs of implementation, as (f).
 
-1987—Pub. L. 100–203, § 5422(b)(1), substituted “Panama Canal Revolving Fund” for “Panama Canal Commission Fund” in section catchline.
+1987—Pub. L. 100–203, § 5422(b)(1), substituted “Panama Canal Revolving Fund” for “Panama Canal Commission Fund” in section catchline.
 
-Subsecs. (a) to (d). Pub. L. 100–203, § 5422(a), added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to termination of Panama Canal Company Fund on Oct. 1, 1979, subsequent deposit of tolls and other receipts into Panama Canal Commission Fund, restriction on use of funds, and authority of the Commission to enter into contracts, respectively.
+Subsecs. (a) to (d). Pub. L. 100–203, § 5422(a), added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to termination of Panama Canal Company Fund on Oct. 1, 1979, subsequent deposit of tolls and other receipts into Panama Canal Commission Fund, restriction on use of funds, and authority of the Commission to enter into contracts, respectively.
 
-Subsec. (e). Pub. L. 100–203, § 5422(a), added subsec. (e), directing Appropriations Committee of each House to review annual budget of the Commission.
+Subsec. (e). Pub. L. 100–203, § 5422(a), added subsec. (e), directing Appropriations Committee of each House to review annual budget of the Commission.
 
 1985—Subsec. (b). Pub. L. 99–195 provided for deposit of interest receipts as miscellaneous receipts.
 
@@ -1941,41 +1941,41 @@ Amendment by Pub. L. 100–705 effective Oct. 1, 1988, see section 10 of Pub. L.
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title V, § 5429, Dec. 22, 1987, 101 Stat. 1330–275, provided that: “This part and the amendments made by this part [part 2 (§§ 5421–5429) of subtitle E of title V of Pub. L. 100–203, enacting section 3714 of this title, amending this section, sections 3683, 3711, 3713, 3751, 3753, 3754, 3792, and 3793 of this title, and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3601 of this title] take effect on January 1, 1988.”
+Pub. L. 100–203, title V, § 5429, Dec. 22, 1987, 101 Stat. 1330–275, provided that: “This part and the amendments made by this part [part 2 (§§ 5421–5429) of subtitle E of title V of Pub. L. 100–203, enacting section 3714 of this title, amending this section, sections 3683, 3711, 3713, 3751, 3753, 3754, 3792, and 3793 of this title, and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3601 of this title] take effect on January 1, 1988.”
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–195, § 2, Dec. 23, 1985, 99 Stat. 1349, provided that: “The amendments made by this Act [amending this section and section 3793 of this title] shall apply only to tolls and other receipts of the Commission deposited in the Treasury on or after the date of the enactment of this Act [Dec. 23, 1985].”
+Pub. L. 99–195, § 2, Dec. 23, 1985, 99 Stat. 1349, provided that: “The amendments made by this Act [amending this section and section 3793 of this title] shall apply only to tolls and other receipts of the Commission deposited in the Treasury on or after the date of the enactment of this Act [Dec. 23, 1985].”
 
 **Termination of Reporting Requirements**
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (b) of this section is listed on page 142), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
-##### § 3712a. Authority to lease office space
+##### § 3712a. Authority to lease office space
 
 Notwithstanding section 210 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Commission is authorized to negotiate directly and enter into contracts for the lease of, and for improvements to, real property in the United States for use by the Commission as office space, on such terms as the Commission considers to be in the interest of the United States, and to make direct payments therefor.
 
-(Pub. L. 100–203, title V, § 5415, Dec. 22, 1987, 101 Stat. 1330–270.)
+(Pub. L. 100–203, title V, § 5415, Dec. 22, 1987, 101 Stat. 1330–270.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 210 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490), referred to in text, was section 210 of act June 30, 1949, ch. 288, which was classified to section 490 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 581 to 584, 588 and 589 and parts of sections 585 to 587 and 592 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For disposition of section 490 of former Title 40, see Table at beginning of Title 40.
+Section 210 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490), referred to in text, was section 210 of act June 30, 1949, ch. 288, which was classified to section 490 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 581 to 584, 588 and 589 and parts of sections 585 to 587 and 592 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For disposition of section 490 of former Title 40, see Table at beginning of Title 40.
 
 **Codification**
 
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1987, and not as part of the Panama Canal Act of 1979 which comprises this chapter.
 
-##### § 3713. Panama Canal emergency authority
+##### § 3713. Panama Canal emergency authority
 
 If authorizing legislation described in section 3712(b)(1) of this title has not been enacted for a fiscal year, then the Commission may withdraw funds from the Panama Canal Revolving Fund in order to defray emergency expenses and to ensure the continuous, efficient, and safe operation of the Panama Canal, including expenses for capital projects. The authority of this section may be exercised only until authorizing legislation described in section 3712(b)(1) of this title is enacted, or for a period of 24 months after the end of the fiscal year for which such authorizing legislation was last enacted, whichever occurs first. Within 60 days after the end of any calendar quarter in which expenditures are made under this section, the Commission shall report such expenditures to the appropriate committees of the Congress.
 
-(Pub. L. 96–70, title I, § 1303, Sept. 27, 1979, 93 Stat. 478; Pub. L. 100–203, title V, § 5423(a), (b)(1), Dec. 22, 1987, 101 Stat. 1330–273; Pub. L. 104–106, div. C, title XXXV, § 3529(2), Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–201, div. C, title XXXV, § 3548(b)(2), Sept. 23, 1996, 110 Stat. 2869.)
+(Pub. L. 96–70, title I, § 1303, Sept. 27, 1979, 93 Stat. 478; Pub. L. 100–203, title V, § 5423(a), (b)(1), Dec. 22, 1987, 101 Stat. 1330–273; Pub. L. 104–106, div. C, title XXXV, § 3529(2), Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–201, div. C, title XXXV, § 3548(b)(2), Sept. 23, 1996, 110 Stat. 2869.)
 
 **Editorial Notes**
 
@@ -1997,7 +1997,7 @@ Pub. L. 104–106 struck out “The authority of this section may not be used fo
 
 Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out as a note under section 3712 of this title.
 
-##### § 3714. Borrowing authority
+##### § 3714. Borrowing authority
 
 **(a) Limitation on amount; issuance of notes and other obligations** The Panama Canal Commission may borrow from the Treasury, for any of the purposes of the Commission, not more than $100,000,000 outstanding at any time. For this purpose, the Commission may issue to the Secretary of the Treasury its notes or other obligations—
 
@@ -2017,7 +2017,7 @@ Amounts borrowed under this section shall increase the investment of the United 
 
 The Commission shall report to the Congress and to the Office of Management and Budget on each exercise of borrowing authority under this section.
 
-(Pub. L. 96–70, title I, § 1304, as added Pub. L. 100–203, title V, § 5424(a), Dec. 22, 1987, 101 Stat. 1330–273.)
+(Pub. L. 96–70, title I, § 1304, as added Pub. L. 100–203, title V, § 5424(a), Dec. 22, 1987, 101 Stat. 1330–273.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2025,7 +2025,7 @@ The Commission shall report to the Congress and to the Office of Management and 
 
 Section effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 3712 of this title.
 
-##### § 3714a. Dissolution of Commission
+##### § 3714a. Dissolution of Commission
 
 **(a) Study and report**
 
@@ -2077,7 +2077,7 @@ The Commission shall during fiscal year 1998 establish an office to close out th
 
 **(6)** The Fund shall terminate on October 1, 2004. Amounts in the Fund on that date shall be deposited in the general fund of the Treasury of the United States.
 
-(Pub. L. 96–70, title I, § 1305, as added Pub. L. 102–484, div. C, title XXXV, § 3521(a), Oct. 23, 1992, 106 Stat. 2656; amended Pub. L. 106–65, div. C, title XXXV, § 3504(a), Oct. 5, 1999, 113 Stat. 975.)
+(Pub. L. 96–70, title I, § 1305, as added Pub. L. 102–484, div. C, title XXXV, § 3521(a), Oct. 23, 1992, 106 Stat. 2656; amended Pub. L. 106–65, div. C, title XXXV, § 3504(a), Oct. 5, 1999, 113 Stat. 975.)
 
 **Editorial Notes**
 
@@ -2089,7 +2089,7 @@ The Commission shall during fiscal year 1998 establish an office to close out th
 
 **Operation of Office of Transition Administration and Oversight of Close-Out Activities**
 
-Pub. L. 106–65, div. C, title XXXV, § 3504(b), (c), Oct. 5, 1999, 113 Stat. 975, provided that:
+Pub. L. 106–65, div. C, title XXXV, § 3504(b), (c), Oct. 5, 1999, 113 Stat. 975, provided that:
 
 > **“(b) Operation of the Office of Transition Administration.—**
 
@@ -2105,13 +2105,13 @@ Pub. L. 106–65, div. C, title XXXV, § 3504(b), (c), Oct. 5, 1999, 113 Stat.
 
 > **“(c) Oversight of Close-Out Activities.—** The Panama Canal Commission shall enter into an agreement with the head of a department or agency of the Federal Government to supervise the close out of the affairs of the Commission under section 1305 of the Panama Canal Act of 1979 and to certify the completion of that function.”
 
-##### § 3714b. Printing
+##### § 3714b. Printing
 
 **(a)** Sections 501 through 517 and 1101 through 1123 of title 44 shall not apply to direct purchase by the Commission for its use of printing, binding, and blank-book work in the Republic of Panama when the Commission determines that such direct purchase is in the best interest of the Government.
 
 **(b)** This section shall not affect the Commission’s authority, under chapter 5 of title 44, to operate a field printing plant.
 
-(Pub. L. 96–70, title I, § 1306, as added Pub. L. 104–201, div. C, title XXXV, § 3540, Sept. 23, 1996, 110 Stat. 2866; amended Pub. L. 105–85, div. C, title XXXV, § 3549, Nov. 18, 1997, 111 Stat. 2073.)
+(Pub. L. 96–70, title I, § 1306, as added Pub. L. 104–201, div. C, title XXXV, § 3540, Sept. 23, 1996, 110 Stat. 2866; amended Pub. L. 105–85, div. C, title XXXV, § 3549, Nov. 18, 1997, 111 Stat. 2073.)
 
 **Editorial Notes**
 
@@ -2119,11 +2119,11 @@ Pub. L. 106–65, div. C, title XXXV, § 3504(b), (c), Oct. 5, 1999, 113 Stat.
 
 1997—Subsec. (a). Pub. L. 105–85 substituted “Sections 501 through 517 and 1101 through 1123” for “Section 501”.
 
-##### § 3715. Establishment of Compensation Fund
+##### § 3715. Establishment of Compensation Fund
 
 There is established in the Treasury of the United States the Panama Canal Commission Compensation Fund (hereafter in this Act referred to as the “Fund”).
 
-(Pub. L. 100–705, § 2, Nov. 19, 1988, 102 Stat. 4685.)
+(Pub. L. 100–705, § 2, Nov. 19, 1988, 102 Stat. 4685.)
 
 **Editorial Notes**
 
@@ -2141,7 +2141,7 @@ Section was enacted as part of the Panama Canal Commission Compensation Fund Act
 
 Section effective Oct. 1, 1988, see section 10 of Pub. L. 100–705, set out as an Effective Date of 1988 Amendment note under section 3612 of this title.
 
-##### § 3715a. Operation of Fund
+##### § 3715a. Operation of Fund
 
 **(a) Deposits to Fund**
 
@@ -2155,7 +2155,7 @@ The amounts deposited under subsection (a) shall be based upon periodic actuaria
 
 The Secretary of the Treasury, upon the request of the Secretary of Labor, shall invest moneys in the Fund in public debt securities which shall bear interest at rates determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturity. Such interest shall be credited to and form a part of the Fund.
 
-(Pub. L. 100–705, § 3, Nov. 19, 1988, 102 Stat. 4685.)
+(Pub. L. 100–705, § 3, Nov. 19, 1988, 102 Stat. 4685.)
 
 **Editorial Notes**
 
@@ -2169,11 +2169,11 @@ Section was enacted as part of the Panama Canal Commission Compensation Fund Act
 
 Section effective Oct. 1, 1988, see section 10 of Pub. L. 100–705, set out as an Effective Date of 1988 Amendment note under section 3612 of this title.
 
-##### § 3715b. Transfers from Fund for compensation benefits
+##### § 3715b. Transfers from Fund for compensation benefits
 
 The Secretary of the Treasury shall, upon request of the Secretary of Labor, transfer funds from the Fund to the Employees’ Compensation Fund to reimburse the Employees’ Compensation Fund for the total cost of workers’ compensation benefits and other payments described in section 3715a(a) of this title that are provided on or after October 1, 1988.
 
-(Pub. L. 100–705, § 4, Nov. 19, 1988, 102 Stat. 4685.)
+(Pub. L. 100–705, § 4, Nov. 19, 1988, 102 Stat. 4685.)
 
 **Editorial Notes**
 
@@ -2187,7 +2187,7 @@ Section was enacted as part of the Panama Canal Commission Compensation Fund Act
 
 Section effective Oct. 1, 1988, see section 10 of Pub. L. 100–705, set out as an Effective Date of 1988 Amendment note under section 3612 of this title.
 
-##### § 3715c. Final evaluation of Fund; deficiency or surplus in Fund
+##### § 3715c. Final evaluation of Fund; deficiency or surplus in Fund
 
 **(a) Final evaluation of Fund**
 
@@ -2203,7 +2203,7 @@ If amounts in the Fund are not sufficient to meet expenditures as determined by 
 
 **(2)** At such time as the Secretary of Labor certifies that no further liability exists for workers compensation benefits or other payments described in section 3715a(a) of this title, the Secretary of the Treasury may discontinue the Fund in the manner provided by law.
 
-(Pub. L. 100–705, § 5, Nov. 19, 1988, 102 Stat. 4686; Pub. L. 101–510, div. C, title XXXV, § 3507, Nov. 5, 1990, 104 Stat. 1847; Pub. L. 105–85, div. C, title XXXV, § 3545, Nov. 18, 1997, 111 Stat. 2072.)
+(Pub. L. 100–705, § 5, Nov. 19, 1988, 102 Stat. 4686; Pub. L. 101–510, div. C, title XXXV, § 3507, Nov. 5, 1990, 104 Stat. 1847; Pub. L. 105–85, div. C, title XXXV, § 3545, Nov. 18, 1997, 111 Stat. 2072.)
 
 **Editorial Notes**
 
@@ -2215,13 +2215,13 @@ Section was enacted as part of the Panama Canal Commission Compensation Fund Act
 
 1997—Subsec. (a). Pub. L. 105–85 substituted “By March 31, 1998” for “Upon the termination of the Panama Canal Commission”.
 
-1990—Pub. L. 101–510, § 3507(1), struck out “Upon the termination of the Panama Canal Commission:” before subsec. (a).
+1990—Pub. L. 101–510, § 3507(1), struck out “Upon the termination of the Panama Canal Commission:” before subsec. (a).
 
-Subsec. (a). Pub. L. 101–510, § 3507(2), substituted “Upon the termination of the Panama Canal Commission, the Secretary of Labor” for “The Secretary of Labor” and struck out at end “The Secretary of the Treasury shall, in accordance with such final determination, transfer from the Fund to the Employee Compensation Fund amounts sufficient to meet expenditures for workers compensation benefits and other payments described in section 3715a(a) of this title.”
+Subsec. (a). Pub. L. 101–510, § 3507(2), substituted “Upon the termination of the Panama Canal Commission, the Secretary of Labor” for “The Secretary of Labor” and struck out at end “The Secretary of the Treasury shall, in accordance with such final determination, transfer from the Fund to the Employee Compensation Fund amounts sufficient to meet expenditures for workers compensation benefits and other payments described in section 3715a(a) of this title.”
 
-Subsec. (b). Pub. L. 101–510, § 3507(3), inserted “under subsection (a)” after “Secretary of Labor” and struck out “Employees Compensation” before “Fund to make up”.
+Subsec. (b). Pub. L. 101–510, § 3507(3), inserted “under subsection (a)” after “Secretary of Labor” and struck out “Employees Compensation” before “Fund to make up”.
 
-Subsec. (c). Pub. L. 101–510, § 3507(4), added subsec. (c).
+Subsec. (c). Pub. L. 101–510, § 3507(4), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2229,11 +2229,11 @@ Subsec. (c). Pub. L. 101–510, § 3507(4), added subsec. (c).
 
 Section effective Oct. 1, 1988, see section 10 of Pub. L. 100–705, set out as an Effective Date of 1988 Amendment note under section 3612 of this title.
 
-##### § 3715d. Continuation of benefits
+##### § 3715d. Continuation of benefits
 
 The provisions of chapter 81 of title 5 shall, on or after October 1, 1988, continue to be the exclusive remedy, in accordance with section 8116 of such title, for the disability or death of any employee of the Panama Canal Commission, or any of its predecessor agencies, who is covered under such chapter, resulting from injuries sustained while in the performance of the employee’s duty. The rights of any such employee for workers’ compensation benefits shall be based only on the provisions of that chapter.
 
-(Pub. L. 100–705, § 6, Nov. 19, 1988, 102 Stat. 4686.)
+(Pub. L. 100–705, § 6, Nov. 19, 1988, 102 Stat. 4686.)
 
 **Editorial Notes**
 
@@ -2249,7 +2249,7 @@ Section effective Oct. 1, 1988, see section 10 of Pub. L. 100–705, set out as 
 
 #### subpart ii—accounting policies and audits
 
-##### § 3721. Accounting policies
+##### § 3721. Accounting policies
 
 **(a) Establishment and maintenance of accounts; specifications**
 
@@ -2259,7 +2259,7 @@ The Commission shall establish and maintain its accounts pursuant to chapter 91 
 
 The Commission may issue regulations establishing the basis of accounting for the assets which are made available for the use of the Commission. Such regulations may provide for depreciation of the net replacement value of the assets which will ultimately require replacement to maintain the service capacity of the Panama Canal. Such regulations may also provide that depreciation of such assets be recorded ratably over their service lives.
 
-(Pub. L. 96–70, title I, § 1311, Sept. 27, 1979, 93 Stat. 479; Pub. L. 104–201, div. C, title XXXV, § 3541(a), Sept. 23, 1996, 110 Stat. 2866.)
+(Pub. L. 96–70, title I, § 1311, Sept. 27, 1979, 93 Stat. 479; Pub. L. 104–201, div. C, title XXXV, § 3541(a), Sept. 23, 1996, 110 Stat. 2866.)
 
 **Editorial Notes**
 
@@ -2267,11 +2267,11 @@ The Commission may issue regulations establishing the basis of accounting for th
 
 1996—Subsec. (a). Pub. L. 104–201 substituted “chapter 91 of title 31” for “the Accounting and Auditing Act of 1950 (31 U.S.C. 65 et seq.)”.
 
-##### § 3722. Repealed. Pub. L. 104–66, title II, § 2201(a), Dec. 21, 1995, 109 Stat. 732
+##### § 3722. Repealed. Pub. L. 104–66, title II, § 2201(a), Dec. 21, 1995, 109 Stat. 732
 
-Section, Pub. L. 96–70, title I, § 1312, Sept. 27, 1979, 93 Stat. 479, related to annual reports to President and Congress.
+Section, Pub. L. 96–70, title I, § 1312, Sept. 27, 1979, 93 Stat. 479, related to annual reports to President and Congress.
 
-##### § 3723. Audits
+##### § 3723. Audits
 
 **(a) Financial transactions of Commission; access to books, accounts, etc.**
 
@@ -2287,7 +2287,7 @@ At the discretion of the Board provided for in section 3612 of this title, the C
 
 In addition to auditing the financial statements of the Commission, the Comptroller General (or the independent auditor if one is employed pursuant to subsection (c)) shall, in accordance with standards for an examination of a financial forecast established by the American Institute of Certified Public Accountants, examine and report on the Commission’s financial forecast that it will be in a position to meet its financial liabilities on December 31, 1999.
 
-(Pub. L. 96–70, title I, § 1313, Sept. 27, 1979, 93 Stat. 479; Pub. L. 104–106, div. C, title XXXV, § 3526(a), Feb. 10, 1996, 110 Stat. 640; Pub. L. 104–201, div. C, title XXXV, §§ 3541(b), 3546(a)(9), (b), Sept. 23, 1996, 110 Stat. 2867, 2868; Pub. L. 105–261, div. C, title XXXV, § 3512(a)(3), Oct. 17, 1998, 112 Stat. 2271.)
+(Pub. L. 96–70, title I, § 1313, Sept. 27, 1979, 93 Stat. 479; Pub. L. 104–106, div. C, title XXXV, § 3526(a), Feb. 10, 1996, 110 Stat. 640; Pub. L. 104–201, div. C, title XXXV, §§ 3541(b), 3546(a)(9), (b), Sept. 23, 1996, 110 Stat. 2867, 2868; Pub. L. 105–261, div. C, title XXXV, § 3512(a)(3), Oct. 17, 1998, 112 Stat. 2271.)
 
 **Editorial Notes**
 
@@ -2303,31 +2303,31 @@ Subsec. (b) of this section, which required the Comptroller General, not later t
 
 1998—Subsecs. (a), (b), (d). Pub. L. 105–261 substituted “subsection (c)” for “subsection (d)”.
 
-1996—Pub. L. 104–106, § 3526(a)(1), substituted “Audits” for “Audit by the Comptroller General of the United States” as section catchline.
+1996—Pub. L. 104–106, § 3526(a)(1), substituted “Audits” for “Audit by the Comptroller General of the United States” as section catchline.
 
-Subsec. (a). Pub. L. 104–201, § 3541(b), which directed substitution of “chapter 91 of title 31” for “the Accounting and Auditing Act of 1950 (31 U.S.C. 65 et seq.)”, could not be executed because that phrase did not appear subsequent to amendment by Pub. L. 104–106, § 3526(a)(2)(B). See below.
+Subsec. (a). Pub. L. 104–201, § 3541(b), which directed substitution of “chapter 91 of title 31” for “the Accounting and Auditing Act of 1950 (31 U.S.C. 65 et seq.)”, could not be executed because that phrase did not appear subsequent to amendment by Pub. L. 104–106, § 3526(a)(2)(B). See below.
 
-Pub. L. 104–106, § 3526(a)(2), substituted “Notwithstanding any other provision of law, and subject to subsection (d), financial transactions” for “Financial transactions”, struck out “pursuant to the Accounting and Auditing Act of 1950 (31 U.S.C. 65 et seq.)” after “as the ‘Comptroller General’)”, substituted “conducting any such audit” for “conducting any audit pursuant to such Act” and “Any such audit shall first” for “An audit pursuant to such Act shall first”, and inserted at end “An audit performed under this section is subject to the requirements of paragraphs (2), (3), and (5) of section 9105(a) of title 31.”
+Pub. L. 104–106, § 3526(a)(2), substituted “Notwithstanding any other provision of law, and subject to subsection (d), financial transactions” for “Financial transactions”, struck out “pursuant to the Accounting and Auditing Act of 1950 (31 U.S.C. 65 et seq.)” after “as the ‘Comptroller General’)”, substituted “conducting any such audit” for “conducting any audit pursuant to such Act” and “Any such audit shall first” for “An audit pursuant to such Act shall first”, and inserted at end “An audit performed under this section is subject to the requirements of paragraphs (2), (3), and (5) of section 9105(a) of title 31.”
 
-Subsec. (b). Pub. L. 104–106, § 3526(a)(3), substituted “Subject to subsection (d) of this section, the Comptroller General” for “The Comptroller General” in introductory provisions.
+Subsec. (b). Pub. L. 104–106, § 3526(a)(3), substituted “Subject to subsection (d) of this section, the Comptroller General” for “The Comptroller General” in introductory provisions.
 
-Subsec. (c). Pub. L. 104–201, § 3546(b), redesignated subsec. (d) as (c).
+Subsec. (c). Pub. L. 104–201, § 3546(b), redesignated subsec. (d) as (c).
 
-Pub. L. 104–201, § 3546(a)(9), struck out subsec. (c) which read as follows: “In conducting the audits and preparing the reports provided for in this section and in carrying out his other responsibilities pursuant to law, the Comptroller General shall, with respect to fiscal year 1980, take into account the problems inherent in converting the existing accounting system of the Panama Canal Company to conform to the requirements established in section 3721 of this title. Accordingly, the Comptroller General shall take no adverse action with respect to the Commission, nor shall any violation of sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31 be considered to have taken place, so long as the Commission is in substantial compliance with the requirements of this chapter. The Comptroller General shall make such recommendations to the Commission and to the Congress as he may consider appropriate to insure that full compliance with the financial controls provided for in chapter 91 of title 31 is achieved promptly.”
+Pub. L. 104–201, § 3546(a)(9), struck out subsec. (c) which read as follows: “In conducting the audits and preparing the reports provided for in this section and in carrying out his other responsibilities pursuant to law, the Comptroller General shall, with respect to fiscal year 1980, take into account the problems inherent in converting the existing accounting system of the Panama Canal Company to conform to the requirements established in section 3721 of this title. Accordingly, the Comptroller General shall take no adverse action with respect to the Commission, nor shall any violation of sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31 be considered to have taken place, so long as the Commission is in substantial compliance with the requirements of this chapter. The Comptroller General shall make such recommendations to the Commission and to the Congress as he may consider appropriate to insure that full compliance with the financial controls provided for in chapter 91 of title 31 is achieved promptly.”
 
-Pub. L. 104–201, § 3541(b), substituted “chapter 91 of title 31” for “the Accounting and Auditing Act of 1950 (31 U.S.C. 65 et seq.)”.
+Pub. L. 104–201, § 3541(b), substituted “chapter 91 of title 31” for “the Accounting and Auditing Act of 1950 (31 U.S.C. 65 et seq.)”.
 
-Subsec. (d). Pub. L. 104–201, § 3546(b), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 104–201, § 3546(b), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Pub. L. 104–106, § 3526(a)(4), added subsec. (d).
+Pub. L. 104–106, § 3526(a)(4), added subsec. (d).
 
-Subsec. (e). Pub. L. 104–201, § 3546(b), redesignated subsec. (e) as (d).
+Subsec. (e). Pub. L. 104–201, § 3546(b), redesignated subsec. (e) as (d).
 
-Pub. L. 104–106, § 3526(a)(4), added subsec. (e).
+Pub. L. 104–106, § 3526(a)(4), added subsec. (e).
 
 #### subpart iii—interagency accounts
 
-##### § 3731. Reimbursements
+##### § 3731. Reimbursements
 
 **(a) Reimbursement of the Employees’ Compensation Fund, Bureau of Employees’ Compensation, Department of Labor, and other Government departments and agencies by Commission**
 
@@ -2353,7 +2353,7 @@ Notwithstanding any other provision of law, the Department of Defense, or any de
 
 The appropriations or funds of any other department or agency of the United States conducting operations in the Republic of Panama, including the Smithsonian Institution, shall be available for reimbursements on behalf of employees of such department or agency and their dependents.
 
-**(e) Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269**
+**(e) Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269**
 
 **(f) Reimbursement of United States by Republic of Panama for salaries and other employment costs**
 
@@ -2367,7 +2367,7 @@ Notwithstanding any other provision of law, the President, through the appropria
 
 Except as expressly provided in this chapter, funds available to the Panama Canal Commission may not be made available to any other agency as that term is defined in section 551 of title 5, nor may funds be authorized or appropriated for any function other than Panama Canal Commission activities.
 
-(Pub. L. 96–70, title I, § 1321, Sept. 27, 1979, 93 Stat. 480; Pub. L. 99–223, § 5(c), Dec. 28, 1985, 99 Stat. 1739; Pub. L. 100–705, § 8, Nov. 19, 1988, 102 Stat. 4686; Pub. L. 102–484, div. C, title XXXV, § 3512, Oct. 23, 1992, 106 Stat. 2655; Pub. L. 103–337, div. C, title XXXVI, § 3604, Oct. 5, 1994, 108 Stat. 3112; Pub. L. 104–106, div. C, title XXXV, § 3529(3), Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–201, div. C, title XXXV, § 3542, Sept. 23, 1996, 110 Stat. 2867; Pub. L. 105–85, div. C, title XXXV, §§ 3525(b), 3550(d)(2)(A), (B), Nov. 18, 1997, 111 Stat. 2066, 2074; Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269.)
+(Pub. L. 96–70, title I, § 1321, Sept. 27, 1979, 93 Stat. 480; Pub. L. 99–223, § 5(c), Dec. 28, 1985, 99 Stat. 1739; Pub. L. 100–705, § 8, Nov. 19, 1988, 102 Stat. 4686; Pub. L. 102–484, div. C, title XXXV, § 3512, Oct. 23, 1992, 106 Stat. 2655; Pub. L. 103–337, div. C, title XXXVI, § 3604, Oct. 5, 1994, 108 Stat. 3112; Pub. L. 104–106, div. C, title XXXV, § 3529(3), Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–201, div. C, title XXXV, § 3542, Sept. 23, 1996, 110 Stat. 2867; Pub. L. 105–85, div. C, title XXXV, §§ 3525(b), 3550(d)(2)(A), (B), Nov. 18, 1997, 111 Stat. 2066, 2074; Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269.)
 
 **Editorial Notes**
 
@@ -2379,11 +2379,11 @@ This chapter, referred to in subsec. (h), was in the original “this Act”, me
 
 1998—Subsec. (e). Pub. L. 105–261 struck out subsec. (e) which provided that appropriations or funds of the Commission or of any other department or agency of the United States conducting operations in the Republic of Panama were available to defray the cost of certain health care services and educational services.
 
-1997—Subsec. (c)(1). Pub. L. 105–85, § 3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
+1997—Subsec. (c)(1). Pub. L. 105–85, § 3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
 
-Subsec. (c)(2). Pub. L. 105–85, § 3550(d)(2)(B), substituted “October 1, 1979” for “such effective date”.
+Subsec. (c)(2). Pub. L. 105–85, § 3550(d)(2)(B), substituted “October 1, 1979” for “such effective date”.
 
-Subsec. (e)(2). Pub. L. 105–85, § 3525(b), substituted “, to other Commission employees when determined by the Commission to be necessary for their recruitment or retention, and to other persons” for “and persons”.
+Subsec. (e)(2). Pub. L. 105–85, § 3525(b), substituted “, to other Commission employees when determined by the Commission to be necessary for their recruitment or retention, and to other persons” for “and persons”.
 
 1996—Subsec. (d). Pub. L. 104–106 struck out “appropriations or” before “funds of the Commission” in introductory provisions.
 
@@ -2395,13 +2395,13 @@ Subsec. (e). Pub. L. 104–201 inserted concluding provisions “Notwithstanding
 
 1988—Subsec. (h). Pub. L. 100–705 added subsec. (h).
 
-1985—Subsec. (e). Pub. L. 99–223 amended subsec. (e) generally, striking out “, in accordance with subsection (d) of this section,” after “shall be available” in provisions preceding par. (1) and inserting “employees of the Commission who are citizens of the United States and” in par. (2).
+1985—Subsec. (e). Pub. L. 99–223 amended subsec. (e) generally, striking out “, in accordance with subsection (d) of this section,” after “shall be available” in provisions preceding par. (1) and inserting “employees of the Commission who are citizens of the United States and” in par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out subsec. (e) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (e) of this section is terminated.
+Pub. L. 105–261, div. C, title XXXV, § 3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out subsec. (e) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (e) of this section is terminated.
 
 **Effective Date of 1988 Amendment**
 
@@ -2413,7 +2413,7 @@ Amendment by Pub. L. 99–223 effective Oct. 1, 1985, see section 8 of Pub. L. 9
 
 #### subpart iv—postal matters
 
-##### § 3741. Postal service
+##### § 3741. Postal service
 
 **(a) Possession or administration of funds by Commission**
 
@@ -2427,7 +2427,7 @@ Effective December 1, 1999, neither the Commission nor the United States Governm
 
 Mail addressed to the Canal Zone from or through the continental United States may be routed by the United States Postal Service to the military post offices of the United States Armed Forces in the Republic of Panama. Such military post offices shall provide the required directory services and shall accept such mail to the extent permitted under the Panama Canal Treaty of 1977 and related agreements. The Commission shall furnish personnel, records, and other services to such military post offices to assure wherever appropriate the distribution, rerouting, or return of such mail.
 
-(Pub. L. 96–70, title I, § 1331, Sept. 27, 1979, 93 Stat. 481, 482; Pub. L. 104–201, div. C, title XXXV, § 3543, Sept. 23, 1996, 110 Stat. 2867.)
+(Pub. L. 96–70, title I, § 1331, Sept. 27, 1979, 93 Stat. 481, 482; Pub. L. 104–201, div. C, title XXXV, § 3543, Sept. 23, 1996, 110 Stat. 2867.)
 
 **Editorial Notes**
 
@@ -2437,7 +2437,7 @@ Mail addressed to the Canal Zone from or through the continental United States m
 
 #### subpart v—accounts with republic of panama
 
-##### § 3751. Payments to Republic of Panama
+##### § 3751. Payments to Republic of Panama
 
 **(a) Payments required under Panama Canal Treaty; annual audit**
 
@@ -2467,13 +2467,13 @@ The prohibitions contained in this section and in sections 3712(b) and 3783 of t
 
 Notwithstanding any other provision of law, no reduction under any order issued pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985 shall apply to the Commission if the implementation of such an order would result in a payment to the Republic of Panama under paragraph 4(c) of article XIII of the Panama Canal Treaty of 1977 and this section.
 
-(Pub. L. 96–70, title I, § 1341, Sept. 27, 1979, 93 Stat. 482; Pub. L. 99–368, § 6, Aug. 1, 1986, 100 Stat. 776; Pub. L. 100–203, title V, § 5426, Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 104–201, div. C, title XXXV, § 3548(b)(3), Sept. 23, 1996, 110 Stat. 2869; Pub. L. 105–85, div. C, title XXXV, § 3550(d)(7), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–261, div. C, title XXXV, § 3512(b), Oct. 17, 1998, 112 Stat. 2271.)
+(Pub. L. 96–70, title I, § 1341, Sept. 27, 1979, 93 Stat. 482; Pub. L. 99–368, § 6, Aug. 1, 1986, 100 Stat. 776; Pub. L. 100–203, title V, § 5426, Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 104–201, div. C, title XXXV, § 3548(b)(3), Sept. 23, 1996, 110 Stat. 2869; Pub. L. 105–85, div. C, title XXXV, § 3550(d)(7), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–261, div. C, title XXXV, § 3512(b), Oct. 17, 1998, 112 Stat. 2271.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (g), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (g), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 **Amendments**
 
@@ -2491,7 +2491,7 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. C, title XXXV, § 3512(b), Oct. 17, 1998, 112 Stat. 2271, provided that the amendment made by section 3512(b) is effective as of Sept. 23, 1996, and as if included in section 3548(b)(3) of the Panama Canal Act Amendments of 1996, Pub. L. 104–201, as enacted.
+Pub. L. 105–261, div. C, title XXXV, § 3512(b), Oct. 17, 1998, 112 Stat. 2271, provided that the amendment made by section 3512(b) is effective as of Sept. 23, 1996, and as if included in section 3548(b)(3) of the Panama Canal Act Amendments of 1996, Pub. L. 104–201, as enacted.
 
 **Effective Date of 1987 Amendment**
 
@@ -2499,9 +2499,9 @@ Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. 
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–368, § 7, Aug. 1, 1986, 100 Stat. 777, provided that: “The amendment made by section 6 [amending this section] shall take effect with respect to fiscal year 1986 and subsequent fiscal years.”
+Pub. L. 99–368, § 7, Aug. 1, 1986, 100 Stat. 777, provided that: “The amendment made by section 6 [amending this section] shall take effect with respect to fiscal year 1986 and subsequent fiscal years.”
 
-##### § 3752. Transactions with Republic of Panama
+##### § 3752. Transactions with Republic of Panama
 
 **(a) Commission assistance on reimbursable basis**
 
@@ -2515,7 +2515,7 @@ The Commission may provide office space, equipment, supplies, personnel, and oth
 
 Any executive department or agency of the United States may, on a reimbursable basis, provide to the Panama Canal Authority materials, supplies, equipment, work, or services requested by the Panama Canal Authority, at such rates as may be agreed upon by that department or agency and the Panama Canal Authority.
 
-(Pub. L. 96–70, title I, § 1342, Sept. 27, 1979, 93 Stat. 483; Pub. L. 105–85, div. C, title XXXV, § 3542, Nov. 18, 1997, 111 Stat. 2072.)
+(Pub. L. 96–70, title I, § 1342, Sept. 27, 1979, 93 Stat. 483; Pub. L. 105–85, div. C, title XXXV, § 3542, Nov. 18, 1997, 111 Stat. 2072.)
 
 **Editorial Notes**
 
@@ -2523,11 +2523,11 @@ Any executive department or agency of the United States may, on a reimbursable b
 
 1997—Pub. L. 105–85 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-##### § 3753. Disaster relief
+##### § 3753. Disaster relief
 
 If an emergency arises because of disaster or calamity by flood, hurricane, earthquake, fire, pestilence, or like cause, not foreseen or otherwise provided for, and occurring in the Republic of Panama in such circumstances as to constitute an actual or potential hazard to health, safety, security, or property in the areas and installations made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, the Commission may expend funds available to the Commission for such purpose, and utilize or furnish materials, supplies, equipment, and services for relief, assistance, and protection.
 
-(Pub. L. 96–70, title I, § 1343, Sept. 27, 1979, 93 Stat. 483; Pub. L. 100–203, title V, § 5428(b), Dec. 22, 1987, 101 Stat. 1330–274.)
+(Pub. L. 96–70, title I, § 1343, Sept. 27, 1979, 93 Stat. 483; Pub. L. 100–203, title V, § 5428(b), Dec. 22, 1987, 101 Stat. 1330–274.)
 
 **Editorial Notes**
 
@@ -2541,7 +2541,7 @@ If an emergency arises because of disaster or calamity by flood, hurricane, eart
 
 Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out as a note under section 3712 of this title.
 
-##### § 3754. Congressional restraints on property transfers and tax expenditures; formal apprisal of Panama
+##### § 3754. Congressional restraints on property transfers and tax expenditures; formal apprisal of Panama
 
 **(a)** The Congress enacts this section in the exercise of its authority under Article IV, section 3, clause 2 of the Constitution of the United States to dispose of and make necessary rules and regulations with respect to property of the United States.
 
@@ -2557,7 +2557,7 @@ Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. 
 
 **(5)** the foregoing paragraphs of this subsection do not apply to expenditures made by the United States in fulfilling United States obligations to transfer the remains of our honored dead from Mount Hope Cemetery in the former Canal Zone to an appropriate and dignified resting place in accordance with Reservation 3 to the Treaty Concerning the Permanent Neutrality and Operation of the Panama Canal.
 
-(Pub. L. 96–70, title I, § 1344, Sept. 27, 1979, 93 Stat. 484; Pub. L. 100–203, title V, § 5428(c), Dec. 22, 1987, 101 Stat. 1330–274.)
+(Pub. L. 96–70, title I, § 1344, Sept. 27, 1979, 93 Stat. 484; Pub. L. 100–203, title V, § 5428(c), Dec. 22, 1987, 101 Stat. 1330–274.)
 
 **Editorial Notes**
 
@@ -2581,7 +2581,7 @@ Functions vested in President by subsec. (b) delegated to Secretary of State, se
 
 #### subpart i—general provisions
 
-##### § 3761. Settlement of claims generally
+##### § 3761. Settlement of claims generally
 
 **(a) Claims for injury to, or loss of, property or personal injury or death arising from operation of Panama Canal**
 
@@ -2603,7 +2603,7 @@ Except as provided in section 3776 of this title, no action for damages on claim
 
 The provisions of section 1346(b) of title 28 and the provisions of chapter 171 of such title shall not apply to claims cognizable under this part.
 
-(Pub. L. 96–70, title I, § 1401, Sept. 27, 1979, 93 Stat. 484; Pub. L. 100–203, title V, § 5417(a), Dec. 22, 1987, 101 Stat. 1330–271; Pub. L. 104–106, div. C, title XXXV, § 3529(4), Feb. 10, 1996, 110 Stat. 642.)
+(Pub. L. 96–70, title I, § 1401, Sept. 27, 1979, 93 Stat. 484; Pub. L. 100–203, title V, § 5417(a), Dec. 22, 1987, 101 Stat. 1330–271; Pub. L. 104–106, div. C, title XXXV, § 3529(4), Feb. 10, 1996, 110 Stat. 642.)
 
 **Editorial Notes**
 
@@ -2615,7 +2615,7 @@ The provisions of section 1346(b) of title 28 and the provisions of chapter 171 
 
 #### subpart ii—vessel damage
 
-##### § 3771. Injuries in locks of canal; adjustment and payment of claims
+##### § 3771. Injuries in locks of canal; adjustment and payment of claims
 
 **(a)** Subject to section 3779(b) of this title and to subsection (b) of this section, the Commission shall promptly adjust and pay damages for injuries to vessels, or to the cargo, crew, or passengers of vessels, which may arise by reason of their passage through the locks of the Panama Canal when the injury was proximately caused by negligence or fault on the part of an officer or employee of the United States acting within the scope of his employment and in the line of his duties in connection with the operation of the Canal. If the negligence or fault of the vessel, master, crew, or passengers proximately contributed to the injury, the award of damages shall be diminished in proportion to the negligence or fault attributable to the vessel, master, crew, or passengers. Damages may not be allowed and paid for injuries to any protrusion beyond any portion of the hull of a vessel, whether it is permanent or temporary in character. A vessel is considered to be passing through the locks of the Canal, under the control of officers or employees of the United States, from the time the first towing line is made fast on board before entrance into the locks and until the towing lines are cast off upon, or immediately prior to, departure from the lock chamber. No payment for damages on a claim may be made under this section unless the claim is filed with the Commission within one year after the date of the injury or by November 18, 1998, whichever is later.
 
@@ -2625,7 +2625,7 @@ The provisions of section 1346(b) of title 28 and the provisions of chapter 171 
 
 **(2)** The provisions of subsections (c) through (e) of section 3761 of this title shall apply to any claim described in paragraph (1).
 
-(Pub. L. 96–70, title I, § 1411, Sept. 27, 1979, 93 Stat. 485; Pub. L. 99–209, § 2(a), (b), Dec. 23, 1985, 99 Stat. 1716; Pub. L. 100–203, title V, § 5417(b), Dec. 22, 1987, 101 Stat. 1330–271; Pub. L. 105–85, div. C, title XXXV, § 3543(a), Nov. 18, 1997, 111 Stat. 2072; Pub. L. 105–261, div. C, title XXXV, §§ 3509(a)(1), 3512(a)(4), Oct. 17, 1998, 112 Stat. 2269, 2271.)
+(Pub. L. 96–70, title I, § 1411, Sept. 27, 1979, 93 Stat. 485; Pub. L. 99–209, § 2(a), (b), Dec. 23, 1985, 99 Stat. 1716; Pub. L. 100–203, title V, § 5417(b), Dec. 22, 1987, 101 Stat. 1330–271; Pub. L. 105–85, div. C, title XXXV, § 3543(a), Nov. 18, 1997, 111 Stat. 2072; Pub. L. 105–261, div. C, title XXXV, §§ 3509(a)(1), 3512(a)(4), Oct. 17, 1998, 112 Stat. 2269, 2271.)
 
 **Editorial Notes**
 
@@ -2637,15 +2637,15 @@ The provisions of section 1346(b) of title 28 and the provisions of chapter 171 
 
 1987—Subsec. (b)(1). Pub. L. 100–203 substituted “pay not more than $50,000 on the claim” for “adjust and pay the claim only if the amount of the claim does not exceed $50,000”.
 
-1985—Subsec. (a). Pub. L. 99–209, § 2(a), designated existing provisions as subsec. (a), substituted “Subject to subsection (b) of this section, the” for “The”, substituted “the Panama Canal when the injury was proximately caused by negligence or fault on the part of an officer or employee of the United States acting within the scope of his employment and in the line of his duties in connection with the operation of the Canal” for “The Panama Canal under the control of officers or employees of the United States”, struck out provision that damages could not be paid where the injury was proximately caused by the negligence or fault of the vessel, master, crew, or passengers, and inserted provision that no payment for damages on a claim may be made under this section unless the claim is filed with the Commission within 2 years after the date of the injury, or within 1 year after Dec. 23, 1985, whichever is later.
+1985—Subsec. (a). Pub. L. 99–209, § 2(a), designated existing provisions as subsec. (a), substituted “Subject to subsection (b) of this section, the” for “The”, substituted “the Panama Canal when the injury was proximately caused by negligence or fault on the part of an officer or employee of the United States acting within the scope of his employment and in the line of his duties in connection with the operation of the Canal” for “The Panama Canal under the control of officers or employees of the United States”, struck out provision that damages could not be paid where the injury was proximately caused by the negligence or fault of the vessel, master, crew, or passengers, and inserted provision that no payment for damages on a claim may be made under this section unless the claim is filed with the Commission within 2 years after the date of the injury, or within 1 year after Dec. 23, 1985, whichever is later.
 
-Subsec. (b). Pub. L. 99–209, § 2(b), added subsec. (b).
+Subsec. (b). Pub. L. 99–209, § 2(b), added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–209, § 7, Dec. 23, 1985, 99 Stat. 1718, provided that:
+Pub. L. 99–209, § 7, Dec. 23, 1985, 99 Stat. 1718, provided that:
 
 > **“(a) Retroactive Applicability.—** The amendments made by subsections (a) and (c) of section 2 [amending this section and section 3772 of this title], and the amendments made by sections 4 and 5 of this Act [amending sections 3775 and 3776 of this title], shall apply to any claim arising on or after October 1, 1979.
 
@@ -2655,11 +2655,11 @@ Pub. L. 99–209, § 7, Dec. 23, 1985, 99 Stat. 1718, provided that:
 
 > **“(2) Section 2(b).—** The amendment made by subsection (b) of section 2 [amending this section] shall apply to any claim arising from an incident occurring on or after the date of the enactment of this Act [Dec. 23, 1985].”
 
-##### § 3772. Injuries outside locks
+##### § 3772. Injuries outside locks
 
 Subject to section 3779(b) of this title, the Commission shall promptly adjust and pay damages for injuries to vessels, or to the cargo, crew, or passengers of vessels which may arise by reason of their presence in the Panama Canal, or waters adjacent thereto, other than the locks, when the injury was proximately caused by negligence or fault on the part of an officer or employee of the United States acting within the scope of his employment and in the line of his duties in connection with the operation of the Canal. If the negligence or fault of the vessel, master, crew, or passengers proximately contributed to the injury, the award of damages shall be diminished in proportion to the negligence or fault attributable to the vessel, master, crew, or passengers. In the case of a vessel which is required by or pursuant to regulations prescribed pursuant to section 3811 of this title to have a Panama Canal pilot on duty aboard, damages may not be adjusted and paid for injuries to the vessel, or its cargo, crew, or passengers, incurred while the vessel was underway and in motion, unless at the time the injuries were incurred the navigation or movement of the vessel was under the control of a Panama Canal pilot. No payment for damages on a claim may be made under this section unless the claim is filed with the Commission within one year after the date of the injury or by November 18, 1998, whichever is later.
 
-(Pub. L. 96–70, title I, § 1412, Sept. 27, 1979, 93 Stat. 485; Pub. L. 99–209, § 2(c), Dec. 23, 1985, 99 Stat. 1716; Pub. L. 105–85, div. C, title XXXV, § 3543(a), Nov. 18, 1997, 111 Stat. 2072; Pub. L. 105–261, div. C, title XXXV, §§ 3509(a)(2), 3512(a)(4), Oct. 17, 1998, 112 Stat. 2270, 2271.)
+(Pub. L. 96–70, title I, § 1412, Sept. 27, 1979, 93 Stat. 485; Pub. L. 99–209, § 2(c), Dec. 23, 1985, 99 Stat. 1716; Pub. L. 105–85, div. C, title XXXV, § 3543(a), Nov. 18, 1997, 111 Stat. 2072; Pub. L. 105–261, div. C, title XXXV, §§ 3509(a)(2), 3512(a)(4), Oct. 17, 1998, 112 Stat. 2270, 2271.)
 
 **Editorial Notes**
 
@@ -2677,7 +2677,7 @@ Subject to section 3779(b) of this title, the Commission shall promptly adjust a
 
 Amendment by Pub. L. 99–209 applicable to any claim arising on or after Oct. 1, 1979, see section 7(a) of Pub. L. 99–209, set out as a note under section 3771 of this title.
 
-##### § 3773. Measure of damages generally
+##### § 3773. Measure of damages generally
 
 In determining the amount of the award of damages for injuries to a vessel for which the Commission is determined to be liable, there may be included—
 
@@ -2691,9 +2691,9 @@ In determining the amount of the award of damages for injuries to a vessel for w
 
 Agent’s fees, or commissions, or other incidental expenses of similar character, or any items which are indefinite, indeterminable, speculative, or conjectural may not be allowed. The Commission shall be furnished such vouchers, receipts, or other evidence as may be necessary in support of any item of a claim. If a vessel is not operated under charter but by the owner directly, evidence shall be secured if available as to the sum for which vessels of the same size and class can be chartered in the market. If the charter value cannot be determined, the value of the vessel to its owners in the business in which it was engaged at the time of the injuries shall be used as a basis for estimating the damages for the vessel’s detention; and the books of the owners showing the vessel’s earnings about the time of the accident or injuries shall be considered as evidence of probable earnings during the time of detention. If the books are unavailable, such other evidence shall be furnished as may be necessary.
 
-(Pub. L. 96–70, title I, § 1413, Sept. 27, 1979, 93 Stat. 486.)
+(Pub. L. 96–70, title I, § 1413, Sept. 27, 1979, 93 Stat. 486.)
 
-##### § 3774. Delays for which no responsibility is assumed
+##### § 3774. Delays for which no responsibility is assumed
 
 The Commission is not responsible, and may not consider any claim, for demurrage or delays caused by—
 
@@ -2711,7 +2711,7 @@ The Commission is not responsible, and may not consider any claim, for demurrage
 
 **(7)** except as specially set forth in this subpart, any other cause.
 
-(Pub. L. 96–70, title I, § 1414, Sept. 27, 1979, 93 Stat. 486; Pub. L. 99–209, § 3, Dec. 23, 1985, 99 Stat. 1717.)
+(Pub. L. 96–70, title I, § 1414, Sept. 27, 1979, 93 Stat. 486; Pub. L. 99–209, § 3, Dec. 23, 1985, 99 Stat. 1717.)
 
 **Editorial Notes**
 
@@ -2725,11 +2725,11 @@ The Commission is not responsible, and may not consider any claim, for demurrage
 
 Amendment by Pub. L. 99–209 applicable to any claim arising on or after Dec. 23, 1985, see section 7(b)(1) of Pub. L. 99–209, set out as a note under section 3771 of this title.
 
-##### § 3775. Settlement of claims
+##### § 3775. Settlement of claims
 
 The Commission, by mutual agreement, compromise, or otherwise, may adjust and determine the amounts of the respective awards of damages pursuant to this subpart. Such amounts may be paid only out of money allotted for the maintenance and operation of the Panama Canal. Acceptance by a claimant of the amount awarded to him shall be deemed to be in full settlement of such claim against the Government of the United States.
 
-(Pub. L. 96–70, title I, § 1415, Sept. 27, 1979, 93 Stat. 486; Pub. L. 99–209, § 4, Dec. 23, 1985, 99 Stat. 1717; Pub. L. 104–106, div. C, title XXXV, § 3529(5), Feb. 10, 1996, 110 Stat. 642.)
+(Pub. L. 96–70, title I, § 1415, Sept. 27, 1979, 93 Stat. 486; Pub. L. 99–209, § 4, Dec. 23, 1985, 99 Stat. 1717; Pub. L. 104–106, div. C, title XXXV, § 3529(5), Feb. 10, 1996, 110 Stat. 642.)
 
 **Editorial Notes**
 
@@ -2745,11 +2745,11 @@ The Commission, by mutual agreement, compromise, or otherwise, may adjust and de
 
 Amendment by Pub. L. 99–209 applicable to any claim arising on or after Oct. 1, 1979, see section 7(a) of Pub. L. 99–209, set out as a note under section 3771 of this title.
 
-##### § 3776. Actions on claims
+##### § 3776. Actions on claims
 
 Subject to section 3779(b) of this title, a claimant for damages pursuant to section 3771(a) or 3772 of this title who considers himself aggrieved by the findings, determination, or award of the Commission in reference to his claim may bring an action on the claim against the Commission in the United States District Court for the Eastern District of Louisiana. Subject to the provisions of this part and of applicable regulations issued pursuant to section 3811 of this title relative to navigation of the Panama Canal and adjacent waters, such actions shall proceed and be heard by the court without a jury according to the principles of law and rules of practice obtaining generally in like cases between a private party and a department or agency of the United States. Any judgment obtained against the Commission in an action under this subpart may be paid only out of money allotted for the maintenance and operation of the Panama Canal. An action for damages cognizable under this section shall not otherwise lie against the United States or the Commission, nor in any other court, than as provided in this section; nor may it lie against any officer or employee of the United States or of the Commission. Any action on a claim under this section shall be barred unless the action is brought within 180 days after the date on which the Commission mails to the claimant written notification of the Commission’s final determination with respect to the claim or by May 17, 1998, whichever is later. Attorneys appointed by the Commission shall represent the Commission in any action arising under this subpart.
 
-(Pub. L. 96–70, title I, § 1416, Sept. 27, 1979, 93 Stat. 487; Pub. L. 99–209, § 5, Dec. 23, 1985, 99 Stat. 1717; Pub. L. 104–106, div. C, title XXXV, § 3529(6), Feb. 10, 1996, 110 Stat. 642; Pub. L. 105–85, div. C, title XXXV, § 3543(b), Nov. 18, 1997, 111 Stat. 2072; Pub. L. 105–261, div. C, title XXXV, §§ 3509(a)(3), 3512(a)(5), Oct. 17, 1998, 112 Stat. 2270, 2271.)
+(Pub. L. 96–70, title I, § 1416, Sept. 27, 1979, 93 Stat. 487; Pub. L. 99–209, § 5, Dec. 23, 1985, 99 Stat. 1717; Pub. L. 104–106, div. C, title XXXV, § 3529(6), Feb. 10, 1996, 110 Stat. 642; Pub. L. 105–85, div. C, title XXXV, § 3543(b), Nov. 18, 1997, 111 Stat. 2072; Pub. L. 105–261, div. C, title XXXV, §§ 3509(a)(3), 3512(a)(5), Oct. 17, 1998, 112 Stat. 2270, 2271.)
 
 **Editorial Notes**
 
@@ -2769,7 +2769,7 @@ Subject to section 3779(b) of this title, a claimant for damages pursuant to sec
 
 Amendment by Pub. L. 99–209 applicable to any claim arising on or after Oct. 1, 1979, see section 7(a) of Pub. L. 99–209, set out as a note under section 3771 of this title.
 
-##### § 3777. Investigation of accident or injury giving rise to claim
+##### § 3777. Investigation of accident or injury giving rise to claim
 
 Notwithstanding any other provision of law, a claim may not be considered under this subpart, or an action for damages lie thereon, unless, prior to the departure from the Panama Canal of the vessel involved—
 
@@ -2777,7 +2777,7 @@ Notwithstanding any other provision of law, a claim may not be considered under 
 
 **(2)** the basis for the claim has been laid before the Commission.
 
-(Pub. L. 96–70, title I, § 1417, Sept. 27, 1979, 93 Stat. 487; Pub. L. 104–201, div. C, title XXXV, § 3544, Sept. 23, 1996, 110 Stat. 2867.)
+(Pub. L. 96–70, title I, § 1417, Sept. 27, 1979, 93 Stat. 487; Pub. L. 104–201, div. C, title XXXV, § 3544, Sept. 23, 1996, 110 Stat. 2867.)
 
 **Editorial Notes**
 
@@ -2785,7 +2785,7 @@ Notwithstanding any other provision of law, a claim may not be considered under 
 
 1996—Par. (1). Pub. L. 104–201 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “an investigation by the competent authorities of the accident or injury giving rise to the claim has been completed; and”.
 
-##### § 3778. Board of local inspectors
+##### § 3778. Board of local inspectors
 
 **(a)** The President shall provide for the establishment of a Board of Local Inspectors of the Panama Canal Commission which shall perform, in accordance with regulations prescribed by the President—
 
@@ -2795,7 +2795,7 @@ Notwithstanding any other provision of law, a claim may not be considered under 
 
 **(b)** In conducting any investigation pursuant to subsection (a) of this section, the Board of Local Inspectors established pursuant to such subsection may summon witnesses, administer oaths, and require the production of books and papers necessary for such investigation.
 
-(Pub. L. 96–70, title I, § 1418, Sept. 27, 1979, 93 Stat. 487.)
+(Pub. L. 96–70, title I, § 1418, Sept. 27, 1979, 93 Stat. 487.)
 
 **Executive Documents**
 
@@ -2803,7 +2803,7 @@ Notwithstanding any other provision of law, a claim may not be considered under 
 
 Functions vested in President by this section delegated to Secretary of Defense, see section 1–303 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
 
-##### § 3779. Insurance
+##### § 3779. Insurance
 
 **(a)** The Commission is authorized to purchase insurance to protect the Commission against major and unpredictable revenue losses or expenses arising from catastrophic marine accidents or other unpredictable events.
 
@@ -2815,7 +2815,7 @@ Functions vested in President by this section delegated to Secretary of Defense,
 
 **(3)** In regulations under this subsection, the Commission may prohibit consideration or payment by it of claims presented by or on behalf of an insurer or subrogee of a claimant in a case for which the Commission has required insurance under this subsection.
 
-(Pub. L. 96–70, title I, § 1419, as added Pub. L. 99–209, § 6(a), Dec. 23, 1985, 99 Stat. 1717; amended Pub. L. 100–203, title V, § 5414, Dec. 22, 1987, 101 Stat. 1330–270; Pub. L. 105–261, div. C, title XXXV, § 3509(b), Oct. 17, 1998, 112 Stat. 2270.)
+(Pub. L. 96–70, title I, § 1419, as added Pub. L. 99–209, § 6(a), Dec. 23, 1985, 99 Stat. 1717; amended Pub. L. 100–203, title V, § 5414, Dec. 22, 1987, 101 Stat. 1330–270; Pub. L. 105–261, div. C, title XXXV, § 3509(b), Oct. 17, 1998, 112 Stat. 2270.)
 
 **Editorial Notes**
 
@@ -2833,13 +2833,13 @@ Section applicable to any claim arising on or after Dec. 23, 1985, see section 7
 
 ### Part 5—Public Property
 
-#### § 3781. Assets and liabilities of Panama Canal Company
+#### § 3781. Assets and liabilities of Panama Canal Company
 
 All property and other assets of the Panama Canal Company shall revert to the United States on October 1, 1979, and, except as otherwise provided by law, the United States shall assume the liabilities, including contractual obligations, of the Panama Canal Company then outstanding. The Commission may use such property, facilities, and records of the Panama Canal Company as are necessary to carry out its functions.
 
-(Pub. L. 96–70, title I, § 1501, Sept. 27, 1979, 93 Stat. 487.)
+(Pub. L. 96–70, title I, § 1501, Sept. 27, 1979, 93 Stat. 487.)
 
-#### § 3782. Transfers and cross-servicing between agencies
+#### § 3782. Transfers and cross-servicing between agencies
 
 **(a) Transfers of facilities, buildings, structures, improvements, stocks and equipment located in the Republic of Panama**
 
@@ -2857,7 +2857,7 @@ The Commission, any department or agency of the United States, or any United Sta
 
 The provisions of this section shall apply to the Smithsonian Institution.
 
-(Pub. L. 96–70, title I, § 1502, Sept. 27, 1979, 93 Stat. 488.)
+(Pub. L. 96–70, title I, § 1502, Sept. 27, 1979, 93 Stat. 488.)
 
 **Executive Documents**
 
@@ -2865,13 +2865,13 @@ The provisions of this section shall apply to the Smithsonian Institution.
 
 Functions vested in President by subsec. (a) of this section delegated to Secretary of Defense, see section 1–106 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043, set out as a note under section 3601 of this title.
 
-#### § 3783. Disposition of property of United States
+#### § 3783. Disposition of property of United States
 
 No property of the United States located in the Republic of Panama may be disposed of except pursuant to law enacted by the Congress.
 
-(Pub. L. 96–70, title I, § 1503, Sept. 27, 1979, 93 Stat. 488.)
+(Pub. L. 96–70, title I, § 1503, Sept. 27, 1979, 93 Stat. 488.)
 
-#### § 3784. Transfer of property to Republic of Panama
+#### § 3784. Transfer of property to Republic of Panama
 
 **(a) Conveyance of Panama Railroad**
 
@@ -2891,7 +2891,7 @@ No property of the United States located in the Republic of Panama may be dispos
 
 The Panama Canal, and such other property referred to in paragraph 2(d) of Article XIII of the Panama Canal Treaty of 1977 that has not been previously transferred in accordance with paragraphs 2(a), 2(b), and 2(c) of such Article, shall not be transferred to the Republic of Panama prior to December 31, 1999.
 
-(Pub. L. 96–70, title I, § 1504, Sept. 27, 1979, 93 Stat. 488; Pub. L. 99–223, § 7, Dec. 28, 1985, 99 Stat. 1740.)
+(Pub. L. 96–70, title I, § 1504, Sept. 27, 1979, 93 Stat. 488; Pub. L. 99–223, § 7, Dec. 28, 1985, 99 Stat. 1740.)
 
 **Editorial Notes**
 
@@ -2907,7 +2907,7 @@ Functions vested in President by subsec. (b) delegated to Secretary of State, se
 
 ### Part 6—Tolls for Use of Panama Canal
 
-#### § 3791. Prescription of measurement rules and rates of tolls
+#### § 3791. Prescription of measurement rules and rates of tolls
 
 The Commission may, subject to the provisions of this chapter, prescribe and from time to time change—
 
@@ -2915,7 +2915,7 @@ The Commission may, subject to the provisions of this chapter, prescribe and fro
 
 **(2)** the tolls that shall be levied for use of the Panama Canal.
 
-(Pub. L. 96–70, title I, § 1601, Sept. 27, 1979, 93 Stat. 489; Pub. L. 104–106, div. C, title XXXV, § 3527, Feb. 10, 1996, 110 Stat. 641.)
+(Pub. L. 96–70, title I, § 1601, Sept. 27, 1979, 93 Stat. 489; Pub. L. 104–106, div. C, title XXXV, § 3527, Feb. 10, 1996, 110 Stat. 641.)
 
 **Editorial Notes**
 
@@ -2935,7 +2935,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 “(b) Such rules of measurement and tolls prevailing on October 1, 1979, shall continue in effect until changed as provided in this part.”
 
-#### § 3792. Bases of tolls
+#### § 3792. Bases of tolls
 
 **(a) Tolls based on net vessel tons and on displacement tonnage**
 
@@ -2953,7 +2953,7 @@ Vessels operated by the United States, including vessels of war and auxiliary ve
 
 The levy of tolls is subject to the provisions of section 1 of Article III of the treaty between the United States of America and Great Britain signed November 18, 1901, of Article I of the treaty between the United States of America and the Republic of Colombia signed April 6, 1914, and of Articles II, III, and VI of the Treaty Concerning Permanent Neutrality and Operation of the Panama Canal, between the United States of America and the Republic of Panama, signed September 7, 1977.
 
-(Pub. L. 96–70, title I, § 1602, Sept. 27, 1979, 93 Stat. 489; Pub. L. 100–203, title V, § 5427, Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 102–484, div. C, title XXXV, §§ 3513, 3521(b)(2), Oct. 23, 1992, 106 Stat. 2655, 2657; Pub. L. 105–85, div. C, title XXXV, § 3544, Nov. 18, 1997, 111 Stat. 2072.)
+(Pub. L. 96–70, title I, § 1602, Sept. 27, 1979, 93 Stat. 489; Pub. L. 100–203, title V, § 5427, Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 102–484, div. C, title XXXV, §§ 3513, 3521(b)(2), Oct. 23, 1992, 106 Stat. 2655, 2657; Pub. L. 105–85, div. C, title XXXV, § 3544, Nov. 18, 1997, 111 Stat. 2072.)
 
 **Editorial Notes**
 
@@ -2961,9 +2961,9 @@ The levy of tolls is subject to the provisions of section 1 of Article III of th
 
 1997—Subsec. (a). Pub. L. 105–85 substituted “and supply ships” for “supply ships, and yachts” and inserted at end “Tolls for small vessels (including yachts), as defined by the Commission, may be set at rates determined by the Commission without regard to the preceding provisions of this subsection.”
 
-1992—Subsec. (a). Pub. L. 102–484, § 3513, inserted “, or its equivalent,” after “earning capacity”.
+1992—Subsec. (a). Pub. L. 102–484, § 3513, inserted “, or its equivalent,” after “earning capacity”.
 
-Subsec. (b). Pub. L. 102–484, § 3521(b)(2), substituted “Panama Canal (including costs authorized to be paid from the Panama Canal Dissolution Fund under section 3714a(c) of this title)” for “Panama Canal”.
+Subsec. (b). Pub. L. 102–484, § 3521(b)(2), substituted “Panama Canal (including costs authorized to be paid from the Panama Canal Dissolution Fund under section 3714a(c) of this title)” for “Panama Canal”.
 
 1987—Subsec. (b). Pub. L. 100–203 inserted “working capital,” after “depreciation,”.
 
@@ -2973,7 +2973,7 @@ Subsec. (b). Pub. L. 102–484, § 3521(b)(2), substituted “Panama Canal (in
 
 Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out as a note under section 3712 of this title.
 
-#### § 3793. Interest on investments
+#### § 3793. Interest on investments
 
 **(a) Calculation of interest**
 
@@ -2985,7 +2985,7 @@ For purposes of sections 3721 and 3792 of this title, interest shall be computed
 
 **(A)** the amount of expenditures from the Panama Canal Revolving Fund,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 and
 
@@ -3007,7 +3007,7 @@ The value of property transferred to the Commission by any other department or a
 
 The Panama Canal Commission shall pay to the Treasury of the United States interest on the investment of the United States, as determined under this section. Such interest shall be deposited in the general fund of the Treasury.
 
-(Pub. L. 96–70, title I, § 1603, Sept. 27, 1979, 93 Stat. 490; Pub. L. 99–195, § 1(b), Dec. 23, 1985, 99 Stat. 1349; Pub. L. 100–203, title V, § 5425(a), Dec. 22, 1987, 101 Stat. 1330–274.)
+(Pub. L. 96–70, title I, § 1603, Sept. 27, 1979, 93 Stat. 490; Pub. L. 99–195, § 1(b), Dec. 23, 1985, 99 Stat. 1349; Pub. L. 100–203, title V, § 5425(a), Dec. 22, 1987, 101 Stat. 1330–274.)
 
 **Editorial Notes**
 
@@ -3017,11 +3017,11 @@ This chapter, referred to in subsec. (b)(2)(B), was in the original “this Act�
 
 **Amendments**
 
-1987—Subsec. (b)(1)(A). Pub. L. 100–203, § 5425(a)(1), substituted “the Panama Canal Revolving Fund,” for “appropriations to the Commission made on or after October 1, 1979”.
+1987—Subsec. (b)(1)(A). Pub. L. 100–203, § 5425(a)(1), substituted “the Panama Canal Revolving Fund,” for “appropriations to the Commission made on or after October 1, 1979”.
 
-Subsec. (b)(2)(A). Pub. L. 100–203, § 5425(a)(2), substituted “deposited in the Panama Canal Revolving Fund” for “covered into the Panama Canal Commission Fund pursuant to section 3712 of this title”.
+Subsec. (b)(2)(A). Pub. L. 100–203, § 5425(a)(2), substituted “deposited in the Panama Canal Revolving Fund” for “covered into the Panama Canal Commission Fund pursuant to section 3712 of this title”.
 
-Subsec. (d). Pub. L. 100–203, § 5425(a)(3), added subsec. (d).
+Subsec. (d). Pub. L. 100–203, § 5425(a)(3), added subsec. (d).
 
 1985—Subsec. (b)(2)(A). Pub. L. 99–195 substituted “Panama Canal Commission Fund” for “Treasury”.
 
@@ -3035,7 +3035,7 @@ Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. 
 
 Amendment by Pub. L. 99–195 applicable only to tolls and other receipts of the Commission deposited in the Treasury on or after Dec. 23, 1985, see section 2 of Pub. L. 99–195, set out as a note under section 3712 of this title.
 
-#### § 3794. Procedures
+#### § 3794. Procedures
 
 **(a) Publication of notice of proposed changes in rules of measurement and rates of tolls in Federal Register; participation by interested parties; availability of analysis** The Commission shall publish in the Federal Register notice of any proposed change in the rules of measurement or rates of tolls referred to in section 3791 of this title. The Commission shall give interested parties an opportunity to participate in the proceedings through submission of written data, views, or arguments, and participation in a public hearing to be held not less than 30 days after the date of publication of the notice. The notice shall include the substance of the proposed change and a statement of the time, place, and nature of the proceedings. At the time of publication of such notice, the Commission shall make available to the public an analysis showing the basis and justification for the proposed change, which, in the case of a change in rates of tolls, shall indicate the conformity of the existing and proposed rates of tolls with the requirements of section 3792 of this title, and the Commission’s adherence to the requirement for full consideration of the following factors set forth in Understanding (1) incorporated in the Resolution of Ratification of the Treaty Concerning the Permanent Neutrality and Operation of the Panama Canal (adopted by the United States Senate on March 16, 1978):
 
@@ -3061,45 +3061,45 @@ After the proceedings have been conducted pursuant to subsections (a) and (b), t
 
 Action to change the rules of measurement for the Panama Canal or the rates of tolls for the use of the Canal pursuant to this part shall be subject to judicial review in accordance with chapter 7 of title 5.
 
-(Pub. L. 96–70, title I, § 1604, Sept. 27, 1979, 93 Stat. 490; Pub. L. 104–106, div. C, title XXXV, § 3528, Feb. 10, 1996, 110 Stat. 641.)
+(Pub. L. 96–70, title I, § 1604, Sept. 27, 1979, 93 Stat. 490; Pub. L. 104–106, div. C, title XXXV, § 3528, Feb. 10, 1996, 110 Stat. 641.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–106, § 3528(1), substituted “3791” for “3791(a)”.
+1996—Subsec. (a). Pub. L. 104–106, § 3528(1), substituted “3791” for “3791(a)”.
 
-Subsec. (c). Pub. L. 104–106, § 3528(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “After the proceedings have been conducted pursuant to subsections (a) and (b) of this section, the Commission shall publish in the Federal Register a notice of the changes in the rules of measurement or rates of tolls, as the case may be, to be recommended to the President.”
+Subsec. (c). Pub. L. 104–106, § 3528(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “After the proceedings have been conducted pursuant to subsections (a) and (b) of this section, the Commission shall publish in the Federal Register a notice of the changes in the rules of measurement or rates of tolls, as the case may be, to be recommended to the President.”
 
-Subsec. (d). Pub. L. 104–106, § 3528(3), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: “Upon publication of the notice pursuant to subsection (c) of this section, the Commission shall forward a complete record of the proceedings, with the recommendation of the Commission, to the President for his consideration. The President may approve, disapprove, or modify any or all of the changes in the rules of measurement or rates of tolls recommended by the Commission.”
+Subsec. (d). Pub. L. 104–106, § 3528(3), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: “Upon publication of the notice pursuant to subsection (c) of this section, the Commission shall forward a complete record of the proceedings, with the recommendation of the Commission, to the President for his consideration. The President may approve, disapprove, or modify any or all of the changes in the rules of measurement or rates of tolls recommended by the Commission.”
 
-Subsec. (e). Pub. L. 104–106, § 3528(3), struck out subsec. (e) which read as follows: “Rules of measurement or rates of tolls prescribed by the President pursuant to this part shall take effect on a date prescribed by the President which is not less than 30 days after the President publishes such rules or rates in the Federal Register.”
+Subsec. (e). Pub. L. 104–106, § 3528(3), struck out subsec. (e) which read as follows: “Rules of measurement or rates of tolls prescribed by the President pursuant to this part shall take effect on a date prescribed by the President which is not less than 30 days after the President publishes such rules or rates in the Federal Register.”
 
-Subsec. (f). Pub. L. 104–106, § 3528(3), redesignated subsec. (f) as (d).
+Subsec. (f). Pub. L. 104–106, § 3528(3), redesignated subsec. (f) as (d).
 
-#### § 3795. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(1), Sept. 23, 1996, 110 Stat. 2867
+#### § 3795. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(1), Sept. 23, 1996, 110 Stat. 2867
 
-Section, Pub. L. 96–70, title I, § 1605(a), Sept. 27, 1979, 93 Stat. 491, related to change in tolls for fiscal year beginning Oct. 1, 1979.
+Section, Pub. L. 96–70, title I, § 1605(a), Sept. 27, 1979, 93 Stat. 491, related to change in tolls for fiscal year beginning Oct. 1, 1979.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 96–70, title I, § 1605(b), Sept. 27, 1979, 93 Stat. 492, provided that this section was to take effect on Sept. 27, 1979, prior to repeal by Pub. L. 104–201, div. C, title XXXV, § 3546(a)(1), Sept. 23, 1996, 110 Stat. 2867.
+Pub. L. 96–70, title I, § 1605(b), Sept. 27, 1979, 93 Stat. 492, provided that this section was to take effect on Sept. 27, 1979, prior to repeal by Pub. L. 104–201, div. C, title XXXV, § 3546(a)(1), Sept. 23, 1996, 110 Stat. 2867.
 
 ### Part 7—General Regulations
 
-#### §§ 3801, 3802. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(2), (3), Sept. 23, 1996, 110 Stat. 2867
+#### §§ 3801, 3802. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(2), (3), Sept. 23, 1996, 110 Stat. 2867
 
-Section 3801, Pub. L. 96–70, title I, § 1701, Sept. 27, 1979, 93 Stat. 492, related to authority of President to prescribe regulations applicable within areas and installations made available for operation and protection of Panama Canal.
+Section 3801, Pub. L. 96–70, title I, § 1701, Sept. 27, 1979, 93 Stat. 492, related to authority of President to prescribe regulations applicable within areas and installations made available for operation and protection of Panama Canal.
 
-Section 3802, Pub. L. 96–70, title I, § 1702, Sept. 27, 1979, 93 Stat. 492, related to authority of Commission to prescribe regulations applicable within areas and installations made available for operation and protection of Panama Canal.
+Section 3802, Pub. L. 96–70, title I, § 1702, Sept. 27, 1979, 93 Stat. 492, related to authority of Commission to prescribe regulations applicable within areas and installations made available for operation and protection of Panama Canal.
 
 ### Part 8—Shipping and Navigation
 
 #### subpart i—operation of canal
 
-##### § 3811. Operating regulations
+##### § 3811. Operating regulations
 
 The Commission may prescribe, and from time to time amend, regulations governing—
 
@@ -3113,7 +3113,7 @@ The Commission may prescribe, and from time to time amend, regulations governing
 
 **(5)** the licensing of officers or other operators of vessels navigating the waters of the Panama Canal and areas adjacent thereto, including the ports of Balboa and Cristobal.
 
-(Pub. L. 96–70, title I, § 1801, Sept. 27, 1979, 93 Stat. 492; Pub. L. 104–201, div. C, title XXXV, § 3545, Sept. 23, 1996, 110 Stat. 2867.)
+(Pub. L. 96–70, title I, § 1801, Sept. 27, 1979, 93 Stat. 492; Pub. L. 104–201, div. C, title XXXV, § 3545, Sept. 23, 1996, 110 Stat. 2867.)
 
 **Editorial Notes**
 
@@ -3123,23 +3123,23 @@ The Commission may prescribe, and from time to time amend, regulations governing
 
 #### subpart ii—inspection of vessels
 
-##### § 3821. Vessels subject to inspection
+##### § 3821. Vessels subject to inspection
 
 With the exception of private vessels merely transiting the Panama Canal, and of public vessels of all nations, vessels navigating the waters of the Panama Canal shall be subject to an annual inspection of hulls, boilers, machinery, equipment, and passenger accommodations.
 
-(Pub. L. 96–70, title I, § 1811, Sept. 27, 1979, 93 Stat. 492.)
+(Pub. L. 96–70, title I, § 1811, Sept. 27, 1979, 93 Stat. 492.)
 
-##### § 3822. Foreign vessels
+##### § 3822. Foreign vessels
 
 With respect to a foreign vessel of a country which has inspection laws approximating those of the United States, any such vessel having an unexpired certificate of inspection duly issued by the authorities of such country shall not be subject to an inspection other than that necessary to determine whether the vessel, its boilers, and its lifesaving equipment are as stated in the certificate of inspection. A certificate of inspection may not be accepted as evidence of lawful inspection under this section unless similar privileges are granted to vessels of the United States under the laws of the country to which the vessel belongs.
 
-(Pub. L. 96–70, title I, § 1812, Sept. 27, 1979, 93 Stat. 493.)
+(Pub. L. 96–70, title I, § 1812, Sept. 27, 1979, 93 Stat. 493.)
 
-##### § 3823. Regulations governing inspection
+##### § 3823. Regulations governing inspection
 
 The Commission shall prescribe, and from time to time may amend, regulations concerning the inspection of vessels conforming as nearly as practicable to the laws and regulations governing marine inspection by the United States Coast Guard.
 
-(Pub. L. 96–70, title I, § 1813, Sept. 27, 1979, 93 Stat. 493.)
+(Pub. L. 96–70, title I, § 1813, Sept. 27, 1979, 93 Stat. 493.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3151,35 +3151,35 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 ### Part 1—Laws Continued in Force
 
-#### § 3831. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(4), Sept. 23, 1996, 110 Stat. 2868
+#### § 3831. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(4), Sept. 23, 1996, 110 Stat. 2868
 
-Section, Pub. L. 96–70, title II, § 2101, Sept. 27, 1979, 93 Stat. 493, related to continuation in force of Canal Zone Code and other laws, regulations, and administrative authority of the United States for purpose of exercise of law enforcement and judicial jurisdiction during transition period.
+Section, Pub. L. 96–70, title II, § 2101, Sept. 27, 1979, 93 Stat. 493, related to continuation in force of Canal Zone Code and other laws, regulations, and administrative authority of the United States for purpose of exercise of law enforcement and judicial jurisdiction during transition period.
 
 ### Part 2—Courts
 
-#### §§ 3841 to 3844. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(4), Sept. 23, 1996, 110 Stat. 2868
+#### §§ 3841 to 3844. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(4), Sept. 23, 1996, 110 Stat. 2868
 
-Section 3841, Pub. L. 96–70, title II, § 2201, Sept. 27, 1979, 93 Stat. 493, related to continuing jurisdiction during transition period of United States District Court for the District of the Canal Zone and magistrates’ courts under the Canal Zone Code.
+Section 3841, Pub. L. 96–70, title II, § 2201, Sept. 27, 1979, 93 Stat. 493, related to continuing jurisdiction during transition period of United States District Court for the District of the Canal Zone and magistrates’ courts under the Canal Zone Code.
 
-Section 3842, Pub. L. 96–70, title II, § 2202, Sept. 27, 1979, 93 Stat. 494, related to division and terms of United States District Court for the District of the Canal Zone.
+Section 3842, Pub. L. 96–70, title II, § 2202, Sept. 27, 1979, 93 Stat. 494, related to division and terms of United States District Court for the District of the Canal Zone.
 
-Section 3843, Pub. L. 96–70, title II, § 2203(a), Sept. 27, 1979, 93 Stat. 494, related to extension of terms of office of district judge, magistrate, United States attorney, and United States marshal.
+Section 3843, Pub. L. 96–70, title II, § 2203(a), Sept. 27, 1979, 93 Stat. 494, related to extension of terms of office of district judge, magistrate, United States attorney, and United States marshal.
 
-Section 3844, Pub. L. 96–70, title II, § 2206, Sept. 27, 1979, 93 Stat. 494, related to continuing operation during transition period of two magistrates’ courts established under Canal Zone Code.
+Section 3844, Pub. L. 96–70, title II, § 2206, Sept. 27, 1979, 93 Stat. 494, related to continuing operation during transition period of two magistrates’ courts established under Canal Zone Code.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 96–70, title II, § 2203(b), Sept. 27, 1979, 93 Stat. 494, provided that section 3843 of this title was to take effect on Sept. 27, 1979, prior to repeal by Pub. L. 104–201, div. C, title XXXV, § 3546(a)(4), Sept. 23, 1996, 110 Stat. 2868.
+Pub. L. 96–70, title II, § 2203(b), Sept. 27, 1979, 93 Stat. 494, provided that section 3843 of this title was to take effect on Sept. 27, 1979, prior to repeal by Pub. L. 104–201, div. C, title XXXV, § 3546(a)(4), Sept. 23, 1996, 110 Stat. 2868.
 
 ### Part 3—Transition Authority
 
-#### §§ 3851, 3852. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(4), Sept. 23, 1996, 110 Stat. 2868
+#### §§ 3851, 3852. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(4), Sept. 23, 1996, 110 Stat. 2868
 
-Section 3851, Pub. L. 96–70, title II, § 2401, Sept. 27, 1979, 93 Stat. 495, related to vesting of authority in the President during transition period.
+Section 3851, Pub. L. 96–70, title II, § 2401, Sept. 27, 1979, 93 Stat. 495, related to vesting of authority in the President during transition period.
 
-Section 3852, Pub. L. 96–70, title II, § 2402, Sept. 27, 1979, 93 Stat. 495, related to commitment of prisoners to custody of Attorney General or Commission.
+Section 3852, Pub. L. 96–70, title II, § 2402, Sept. 27, 1979, 93 Stat. 495, related to commitment of prisoners to custody of Attorney General or Commission.
 
 ## SUBCHAPTER III—GENERAL PROVISIONS
 
@@ -3189,9 +3189,9 @@ Section 3852, Pub. L. 96–70, title II, § 2402, Sept. 27, 1979, 93 Stat. 495
 
 **Prior Provisions**
 
-A prior part 1, consisting of section 3861, related to cemeteries, prior to repeal by Pub. L. 104–201, div. C, title XXXV, § 3546(a)(5), Sept. 23, 1996, 110 Stat. 2868.
+A prior part 1, consisting of section 3861, related to cemeteries, prior to repeal by Pub. L. 104–201, div. C, title XXXV, § 3546(a)(5), Sept. 23, 1996, 110 Stat. 2868.
 
-#### § 3861. Procurement system
+#### § 3861. Procurement system
 
 **(a) Panama Canal Acquisition Regulation**
 
@@ -3229,21 +3229,21 @@ In establishing the Regulation and developing the Supplement, the Commission sha
 
 The Regulation and the Supplement shall take effect on the date of publication in the Federal Register, or January 1, 1999, whichever is earlier.
 
-(Pub. L. 96–70, title III, § 3101, as added Pub. L. 105–85, div. C, title XXXV, § 3541, Nov. 18, 1997, 111 Stat. 2070.)
+(Pub. L. 96–70, title III, § 3101, as added Pub. L. 105–85, div. C, title XXXV, § 3541, Nov. 18, 1997, 111 Stat. 2070.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (c)(2)(A), “chapter 21 of title 41” substituted for “section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(2)(A), “chapter 21 of title 41” substituted for “section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(2)(B), “chapter 71 of title 41, other than section 7104(b) of title 41” substituted for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.), other than section 10(a) of such Act (41 U.S.C. 609(a))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(2)(B), “chapter 71 of title 41, other than section 7104(b) of title 41” substituted for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.), other than section 10(a) of such Act (41 U.S.C. 609(a))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Prior Provisions**
 
-A prior section 3861, Pub. L. 96–70, title III, § 3101, Sept. 27, 1979, 93 Stat. 496, related to disinterment, transportation, and reinterment of remains, prior to repeal by Pub. L. 104–201, div. C, title XXXV, § 3546(a)(5), Sept. 23, 1996, 110 Stat. 2868.
+A prior section 3861, Pub. L. 96–70, title III, § 3101, Sept. 27, 1979, 93 Stat. 496, related to disinterment, transportation, and reinterment of remains, prior to repeal by Pub. L. 104–201, div. C, title XXXV, § 3546(a)(5), Sept. 23, 1996, 110 Stat. 2868.
 
-#### § 3862. Panama Canal Board of Contract Appeals
+#### § 3862. Panama Canal Board of Contract Appeals
 
 **(a) Establishment**
 
@@ -3257,9 +3257,9 @@ A prior section 3861, Pub. L. 96–70, title III, § 3101, Sept. 27, 1979, 93 
 
 Notwithstanding section 7104(b)(1) of title 41 or any other provision of law, the Board shall have exclusive jurisdiction to decide an appeal from a decision of a contracting officer under section 7105(e) of title 41.
 
-**(c) Exclusive jurisdiction to decide protests** The Board shall decide protests submitted to it under this subsection by interested parties in accordance with subchapter V 1
+**(c) Exclusive jurisdiction to decide protests** The Board shall decide protests submitted to it under this subsection by interested parties in accordance with subchapter V 1
 
-<sup>1</sup>  So in original. Probably should be “subchapter V of chapter 35”.
+<sup>1</sup> So in original. Probably should be “subchapter V of chapter 35”.
 
 of title 31. Notwithstanding section 3556 of that title, section 1491(b) of title 28, and any other provision of law, the Board shall have exclusive jurisdiction to decide such protests. For purposes of this subsection—
 
@@ -3289,27 +3289,27 @@ The Board shall have jurisdiction under subsections (b) and (c) over any appeals
 
 The Board may perform functions similar to those described in this section for such other matters or activities of the Commission as the Commission may determine and in accordance with regulations prescribed by the Commission.
 
-(Pub. L. 96–70, title III, § 3102, as added Pub. L. 105–85, div. C, title XXXV, § 3541, Nov. 18, 1997, 111 Stat. 2071; amended Pub. L. 105–261, div. C, title XXXV, § 3510, Oct. 17, 1998, 112 Stat. 2270.)
+(Pub. L. 96–70, title III, § 3102, as added Pub. L. 105–85, div. C, title XXXV, § 3541, Nov. 18, 1997, 111 Stat. 2071; amended Pub. L. 105–261, div. C, title XXXV, § 3510, Oct. 17, 1998, 112 Stat. 2270.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a)(1), “sections 7105(a), (c) to (e), (g), 7106(a), and 7107(a) of title 41” substituted for “section 8 of the Contract Disputes Act of 1978 (41 U.S.C. 607)”, “chapter 71 of title 41” substituted for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)”, and “that chapter” substituted for “that Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(1), “sections 7105(a), (c) to (e), (g), 7106(a), and 7107(a) of title 41” substituted for “section 8 of the Contract Disputes Act of 1978 (41 U.S.C. 607)”, “chapter 71 of title 41” substituted for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)”, and “that chapter” substituted for “that Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b), “section 7104(b)(1) of title 41” substituted for “section 10(a)(1) of the Contract Disputes Act of 1978 (41 U.S.C. 609(a)(1))” and “section 7105(e) of title 41” substituted for “section 8(d) of such Act (41 U.S.C. 607(d))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b), “section 7104(b)(1) of title 41” substituted for “section 10(a)(1) of the Contract Disputes Act of 1978 (41 U.S.C. 609(a)(1))” and “section 7105(e) of title 41” substituted for “section 8(d) of such Act (41 U.S.C. 607(d))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–261, § 3510(a)(1), substituted “may” for “shall” in first sentence.
+1998—Subsec. (a). Pub. L. 105–261, § 3510(a)(1), substituted “may” for “shall” in first sentence.
 
-Subsec. (a)(3). Pub. L. 105–261, § 3510(a)(2), added par. (3).
+Subsec. (a)(3). Pub. L. 105–261, § 3510(a)(2), added par. (3).
 
-Subsec. (e). Pub. L. 105–261, § 3510(b), struck out “, but not later than January 1, 1999” before period at end.
+Subsec. (e). Pub. L. 105–261, § 3510(b), struck out “, but not later than January 1, 1999” before period at end.
 
 ### Part 2—Administration
 
-#### § 3871. Annual report
+#### § 3871. Annual report
 
 Until the termination of the Panama Canal Treaty of 1977, the President shall report annually on the status of the exercise of the rights and responsibilities of the United States under that Treaty. Such report shall include a discussion of the following:
 
@@ -3319,13 +3319,13 @@ Until the termination of the Panama Canal Treaty of 1977, the President shall re
 
 **(3)** The condition of former employees (and their dependents) of the Panama Canal Company and the Canal Zone Government who reside in the Republic of Panama on or after October 1, 1979.
 
-(Pub. L. 96–70, title III, § 3301, Sept. 27, 1979, 93 Stat. 497.)
+(Pub. L. 96–70, title III, § 3301, Sept. 27, 1979, 93 Stat. 497.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Report to Congress on Condition of Panama Canal and Canal Operations**
 
-Pub. L. 100–203, title V, § 5418, Dec. 22, 1987, 101 Stat. 1330–271, provided that out of the funds authorized to be appropriated by part 1 (§§ 5411 to 5418) of subtitle E of title V of Pub. L. 100–203, the Panama Canal Commission was to prepare and submit to Congress a report on the condition of the Panama Canal and potential adverse effects on United States shipping and commerce and report on the effect on canal operations of certain Panamanian Government and military actions.
+Pub. L. 100–203, title V, § 5418, Dec. 22, 1987, 101 Stat. 1330–271, provided that out of the funds authorized to be appropriated by part 1 (§§ 5411 to 5418) of subtitle E of title V of Pub. L. 100–203, the Panama Canal Commission was to prepare and submit to Congress a report on the condition of the Panama Canal and potential adverse effects on United States shipping and commerce and report on the effect on canal operations of certain Panamanian Government and military actions.
 
 **Executive Documents**
 
@@ -3333,7 +3333,7 @@ Pub. L. 100–203, title V, § 5418, Dec. 22, 1987, 101 Stat. 1330–271, prov
 
 Functions vested in President by this section delegated to Secretary of State who shall perform such function in coordination with Secretary of Defense pursuant to section 1–401 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
 
-#### § 3872. Notification requirements
+#### § 3872. Notification requirements
 
 The Panama Canal Commission shall provide written advance notification to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Armed Services of the Senate regarding—
 
@@ -3343,7 +3343,7 @@ The Panama Canal Commission shall provide written advance notification to the Co
 
 **(3)** the initiation of any major capital acquisition or construction project exceeding $10,000,000 unless the proposed acquisition or project was included in the budget estimates submitted to Congress for the fiscal year in which the acquisition or project is to be undertaken.
 
-(Pub. L. 101–189, div. C, title XXXV, § 3503, Nov. 29, 1989, 103 Stat. 1689.)
+(Pub. L. 101–189, div. C, title XXXV, § 3503, Nov. 29, 1989, 103 Stat. 1689.)
 
 **Editorial Notes**
 
@@ -3357,18 +3357,18 @@ Section enacted as part of the Panama Canal Commission Authorization Act, Fiscal
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on National Security of House of Representatives [now Committee on Armed Services of House of Representatives] in case of provisions relating to interoceanic canals, Merchant Marine Academy and State Maritime Academies, or national security aspects of merchant marine by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-#### § 3873. Exemption from Metric Conversion Act of 1975
+#### § 3873. Exemption from Metric Conversion Act of 1975
 
 The Commission is exempt from the provisions of the Metric Conversion Act of 1975 (15 U.S.C. 205a et seq.).
 
-(Pub. L. 96–70, title III, § 3302, as added Pub. L. 104–201, div. C, title XXXV, § 3547, Sept. 23, 1996, 110 Stat. 2868.)
+(Pub. L. 96–70, title III, § 3302, as added Pub. L. 104–201, div. C, title XXXV, § 3547, Sept. 23, 1996, 110 Stat. 2868.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Metric Conversion Act of 1975, referred to in section catchline and text, is Pub. L. 94–168, Dec. 23, 1975, 89 Stat. 1007, which is classified generally to subchapter II (§ 205a et seq.) of chapter 6 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 205a of Title 15 and Tables.
+The Metric Conversion Act of 1975, referred to in section catchline and text, is Pub. L. 94–168, Dec. 23, 1975, 89 Stat. 1007, which is classified generally to subchapter II (§ 205a et seq.) of chapter 6 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 205a of Title 15 and Tables.
 
 **Prior Provisions**
 
-A prior section 3302 of Pub. L. 96–70, title III, Sept. 27, 1979, 93 Stat. 498, amended sections 305, 5102, 5316, 5342, 5343, 5348, 5373, 5504, 5533, 5541, 5583, 6301, 6323, 8146, and 8335 of Title 5, Government Organization and Employees, and sections 191, 195, and 196 of Title 50, War and National Defense, prior to general amendment by Pub. L. 104–201, div. C, title XXXV, § 3547, Sept. 23, 1996, 110 Stat. 2868.
+A prior section 3302 of Pub. L. 96–70, title III, Sept. 27, 1979, 93 Stat. 498, amended sections 305, 5102, 5316, 5342, 5343, 5348, 5373, 5504, 5533, 5541, 5583, 6301, 6323, 8146, and 8335 of Title 5, Government Organization and Employees, and sections 191, 195, and 196 of Title 50, War and National Defense, prior to general amendment by Pub. L. 104–201, div. C, title XXXV, § 3547, Sept. 23, 1996, 110 Stat. 2868.

@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1501—NATIONAL ACADEMY OF PUBLIC ADMINISTRATION"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1501—NATIONAL ACADEMY OF PUBLIC ADMINISTRATION"
 identifier: "/us/usc/t36/stII/ptB/ch1501"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1501—NATIONAL ACADEMY OF PUBLIC ADMINISTRATION
 
-## § 150101. Definition
+## § 150101. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
 
@@ -25,11 +25,11 @@ For purposes of this chapter, “State” includes the District of Columbia and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150101 | 36:2313. | Apr. 10, 1984, Pub. L. 98–257, § 14, 98 Stat. 129. |
+| 150101 | 36:2313. | Apr. 10, 1984, Pub. L. 98–257, § 14, 98 Stat. 129. |
 
 The words “the Commonwealth of Puerto Rico” are omitted as included in “the territories and possessions of the United States”.
 
-## § 150102. Organization
+## § 150102. Organization
 
 **(a) Federal Charter.—** National Academy of Public Administration (in this chapter, the “corporation”), incorporated in the District of Columbia, is a federally chartered corporation.
 
@@ -41,12 +41,12 @@ The words “the Commonwealth of Puerto Rico” are omitted as included in “th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150102(a) | 36:2301. | Apr. 10, 1984, Pub. L. 98–257, §§ 1, 15 (last sentence), 16, 98 Stat. 127, 129. |
+| 150102(a) | 36:2301. | Apr. 10, 1984, Pub. L. 98–257, §§ 1, 15 (last sentence), 16, 98 Stat. 127, 129. |
 | 150102(b) | 36:2314 (last sentence). 36:2315. |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary words.
 
-## § 150103. Purposes
+## § 150103. Purposes
 
 The purposes of the corporation are as provided in the articles of incorporation and include—
 
@@ -66,9 +66,9 @@ The purposes of the corporation are as provided in the articles of incorporation
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150103 | 36:2303. | Apr. 10, 1984, Pub. L. 98–257, § 3, 98 Stat. 127. |
+| 150103 | 36:2303. | Apr. 10, 1984, Pub. L. 98–257, § 3, 98 Stat. 127. |
 
-## § 150104. Services to United States Government
+## § 150104. Services to United States Government
 
 On request of the United States Government, the corporation shall investigate, examine, experiment, and report on any subject of government. The actual expense of the investigation, examination, experimentation, and report shall be paid by the Government from appropriations available for that purpose.
 
@@ -78,11 +78,11 @@ On request of the United States Government, the corporation shall investigate, e
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150104 | 36:2316. | Apr. 10, 1984, Pub. L. 98–257, § 17, 98 Stat. 129. |
+| 150104 | 36:2316. | Apr. 10, 1984, Pub. L. 98–257, § 17, 98 Stat. 129. |
 
 The words “Congress, or” are omitted as included in “United States Government”. The word “experimentation” is added for consistency in the section.
 
-## § 150105. Membership
+## § 150105. Membership
 
 Eligibility for membership in the corporation and the rights and privileges of members are as provided in the bylaws.
 
@@ -92,9 +92,9 @@ Eligibility for membership in the corporation and the rights and privileges of m
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150105 | 36:2305. | Apr. 10, 1984, Pub. L. 98–257, § 5, 98 Stat. 127. |
+| 150105 | 36:2305. | Apr. 10, 1984, Pub. L. 98–257, § 5, 98 Stat. 127. |
 
-## § 150106. Governing body
+## § 150106. Governing body
 
 **(a) Board of Directors.—** The board of directors and the responsibilities of the board are as provided in the articles of incorporation.
 
@@ -106,12 +106,12 @@ Eligibility for membership in the corporation and the rights and privileges of m
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150106(a) | 36:2306. | Apr. 10, 1984, Pub. L. 98–257, §§ 6, 7, 98 Stat. 128. |
+| 150106(a) | 36:2306. | Apr. 10, 1984, Pub. L. 98–257, §§ 6, 7, 98 Stat. 128. |
 | 150106(b) | 36:2307. |  |
 
 The words “and in conformity with the laws of the State or States in which it is incorporated” in 36:2306 and “and in conformity with the laws of the State or States wherein it is incorporated” in 36:2307 are omitted as unnecessary.
 
-## § 150107. Powers
+## § 150107. Powers
 
 The corporation has only the powers provided in its bylaws and articles of incorporation filed in each State in which it is incorporated.
 
@@ -121,11 +121,11 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150107 | 36:2302. | Apr. 10, 1984, Pub. L. 98–257, § 2, 98 Stat. 127. |
+| 150107 | 36:2302. | Apr. 10, 1984, Pub. L. 98–257, § 2, 98 Stat. 127. |
 
 The words “and subject to the laws of such State or States” are omitted as unnecessary.
 
-## § 150108. Restrictions
+## § 150108. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -143,7 +143,7 @@ The words “and subject to the laws of such State or States” are omitted as u
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150108(a) | 36:2308(d). | Apr. 10, 1984, Pub. L. 98–257, § 8(a)–(e), 98 Stat. 128. |
+| 150108(a) | 36:2308(d). | Apr. 10, 1984, Pub. L. 98–257, § 8(a)–(e), 98 Stat. 128. |
 | 150108(b) | 36:2308(c). |  |
 | 150108(c) | 36:2308(a). |  |
 | 150108(d) | 36:2308(b). |  |
@@ -157,7 +157,7 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 In subsection (e), the word “mutual” is omitted as unnecessary.
 
-## § 150109. Duty to maintain corporate and tax-exempt status
+## § 150109. Duty to maintain corporate and tax-exempt status
 
 **(a) Corporate Status.—** The corporation shall maintain its status as a corporation incorporated under the laws of the District of Columbia.
 
@@ -169,10 +169,10 @@ In subsection (e), the word “mutual” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150109(a) | 36:2308(f). | Apr. 10, 1984, Pub. L. 98–257, §§ 8(f), 15 (1st sentence), 98 Stat. 128, 129. |
+| 150109(a) | 36:2308(f). | Apr. 10, 1984, Pub. L. 98–257, §§ 8(f), 15 (1st sentence), 98 Stat. 128, 129. |
 | 150109(b) | 36:2314 (1st sentence). |  |
 
-## § 150110. Records and inspection
+## § 150110. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -190,11 +190,11 @@ In subsection (e), the word “mutual” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150110 | 36:2310. | Apr. 10, 1984, Pub. L. 98–257, § 10, 98 Stat. 128. |
+| 150110 | 36:2310. | Apr. 10, 1984, Pub. L. 98–257, § 10, 98 Stat. 128. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code. The words “Nothing in this section shall be construed to contravene any applicable State law” are omitted as unnecessary.
 
-## § 150111. Service of process
+## § 150111. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
@@ -204,11 +204,11 @@ The corporation shall comply with the law on service of process of each State in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150111 | 36:2304. | Apr. 10, 1984, Pub. L. 98–257, § 4, 98 Stat. 127. |
+| 150111 | 36:2304. | Apr. 10, 1984, Pub. L. 98–257, § 4, 98 Stat. 127. |
 
 The words “in furtherance of its corporate purposes” are omitted as unnecessary.
 
-## § 150112. Liability for acts of officers and agents
+## § 150112. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -218,9 +218,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150112 | 36:2309. | Apr. 10, 1984, Pub. L. 98–257, § 9, 98 Stat. 128. |
+| 150112 | 36:2309. | Apr. 10, 1984, Pub. L. 98–257, § 9, 98 Stat. 128. |
 
-## § 150113. Annual report
+## § 150113. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year. The report shall be submitted at the same time as the report of the audit required by section 10101 of this title. The report may not be printed as a public document.
 
@@ -230,7 +230,7 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150113 | 36:2311. | Apr. 10, 1984, Pub. L. 98–257, § 12, 98 Stat. 129. |
+| 150113 | 36:2311. | Apr. 10, 1984, Pub. L. 98–257, § 12, 98 Stat. 129. |
 
 **Statutory Notes and Related Subsidiaries**
 

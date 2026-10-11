@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 29A—INTER-AMERICAN CULTURAL AND TRADE CENTER
 
-## § 2081. United States participation in Inter-American Cultural and Trade Center; purposes of Interama
+## § 2081. United States participation in Inter-American Cultural and Trade Center; purposes of Interama
 
 The President is authorized, through such department or agency in the executive branch of the Government as he may designate, to provide for United States participation in the Inter-American Cultural and Trade Center (hereinafter in this chapter referred to as “Interama”). In providing for United States participation, the President shall cooperate with the Inter-American Center Authority (an agency of the State of Florida). The purposes of Interama are—
 
@@ -25,21 +25,21 @@ The President is authorized, through such department or agency in the executive 
 
 **(3)** by other appropriate means, to promote mutual understanding between the peoples of the Western Hemisphere and to strengthen the ties which unite the United States with other nations of the free world.
 
-(Pub. L. 89–355, § 1, Feb. 19, 1966, 80 Stat. 5.)
+(Pub. L. 89–355, § 1, Feb. 19, 1966, 80 Stat. 5.)
 
-## § 2082. Participation in Interama by States and foreign countries
+## § 2082. Participation in Interama by States and foreign countries
 
 The President is authorized, by proclamation or in such other manner as he may deem proper, to invite the several States of the United States and foreign countries to take part in Interama, except that no Communist de facto government holding any people in subjugation shall be invited to participate.
 
-(Pub. L. 89–355, § 2(a), Feb. 19, 1966, 80 Stat. 6.)
+(Pub. L. 89–355, § 2(a), Feb. 19, 1966, 80 Stat. 6.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Report to Congress by May 15, 1966**
 
-Pub. L. 89–355, § 2(b), Feb. 19, 1966, 80 Stat. 6, provided that the department or agency, designated by the President pursuant to section 2081 of this title, submit a report to the Senate Committees on Foreign Relations and Appropriations and the Speaker of the House, on the proposed nature, extent and cost of United States participation in Interama and of the extent of participation of foreign countries and private industries.
+Pub. L. 89–355, § 2(b), Feb. 19, 1966, 80 Stat. 6, provided that the department or agency, designated by the President pursuant to section 2081 of this title, submit a report to the Senate Committees on Foreign Relations and Appropriations and the Speaker of the House, on the proposed nature, extent and cost of United States participation in Interama and of the extent of participation of foreign countries and private industries.
 
-## § 2083. Commissioner for Interama; procurement and appointment of personnel; powers and duties
+## § 2083. Commissioner for Interama; procurement and appointment of personnel; powers and duties
 
 **(a)** There shall be in the designated department or agency a Commissioner for Interama who shall be appointed by the President. Subject to the direction of the head of the designated department or agency, the Commissioner for Interama shall perform such duties as the President may prescribe to carry out this chapter.
 
@@ -57,19 +57,19 @@ Pub. L. 89–355, § 2(b), Feb. 19, 1966, 80 Stat. 6, provided that the depart
 
 **(6)** to accept donations of money, property, and services and the loan of property.
 
-(Pub. L. 89–355, § 3, Feb. 19, 1966, 80 Stat. 6; Pub. L. 90–83, § 10(b), Sept. 11, 1967, 81 Stat. 224.)
+(Pub. L. 89–355, § 3, Feb. 19, 1966, 80 Stat. 6; Pub. L. 90–83, § 10(b), Sept. 11, 1967, 81 Stat. 224.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (b)(1), (2), “chapter 51 and subchapter III of chapter 53 of title 5” and “section 3109 of title 5” substituted for “the Classification Act of 1949” and “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (b)(1), (2), “chapter 51 and subchapter III of chapter 53 of title 5” and “section 3109 of title 5” substituted for “the Classification Act of 1949” and “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
 1967—Subsec. (a). Pub. L. 90–83 struck out provision that Commissioner of Interama receive compensation at a rate prescribed for level IV of the Federal Executive Salary Schedule.
 
-## § 2084. Cooperation of other Federal departments, agencies, and instrumentalities
+## § 2084. Cooperation of other Federal departments, agencies, and instrumentalities
 
 The head of each department, agency, or instrumentality of the Federal Government is authorized—
 
@@ -77,15 +77,15 @@ The head of each department, agency, or instrumentality of the Federal Governmen
 
 **(2)** to make available to the head of the designated department or agency, on a reimbursable basis, such personnel as may be necessary to assist him in carrying out his functions under this chapter.
 
-(Pub. L. 89–355, § 4, Feb. 19, 1966, 80 Stat. 6.)
+(Pub. L. 89–355, § 4, Feb. 19, 1966, 80 Stat. 6.)
 
-## § 2085. Authorization of appropriations
+## § 2085. Authorization of appropriations
 
 **(a)** There is authorized to be appropriated not to exceed $7,500,000 to provide for United States participation in Interama under this chapter, of which not to exceed $250,000 shall be available for expenditure in connection with the preparation of the report required to be submitted to the Congress under section 2(b) of this Act. Sums appropriated under this subsection shall remain available until expended.
 
 **(b)** In addition to the amount authorized in subsection (a), there is authorized to be appropriated not to exceed $1,000,000 annually for each of the fiscal years 1968 and 1969 for the maintenance of United States installations and activities at Interama.
 
-(Pub. L. 89–355, § 5, Feb. 19, 1966, 80 Stat. 7.)
+(Pub. L. 89–355, § 5, Feb. 19, 1966, 80 Stat. 7.)
 
 **Editorial Notes**
 

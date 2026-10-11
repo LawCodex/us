@@ -17,11 +17,11 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL
 
-### § 5101. Employment of administrative assistants for Speaker and House Majority and Minority Leaders; compensation; appropriations
+### § 5101. Employment of administrative assistants for Speaker and House Majority and Minority Leaders; compensation; appropriations
 
 The Speaker, the majority leader, and the minority leader of the House of Representatives are each authorized to employ an administrative assistant, who shall receive basic compensation at a rate not to exceed $8,000 a year. There is authorized to be appropriated such sums as may be necessary for the payment of such compensation.
 
-(Aug. 2, 1946, ch. 753, title II, § 201(c), 60 Stat. 834.)
+(Aug. 2, 1946, ch. 753, title II, § 201(c), 60 Stat. 834.)
 
 **Editorial Notes**
 
@@ -37,11 +37,11 @@ Section effective Aug. 2, 1946, see section 245 of act Aug. 2, 1946, set out as 
 
 **Basic Compensation of Administrative Assistants**
 
-Pub. L. 85–462, § 4(n), June 20, 1958, 72 Stat. 209, provided that: “The basic compensation of the Administrative Assistants to the Speaker, Majority Leader, Minority Leader, Majority Whip, and Minority Whip, shall be at the rate of $8,880 per annum.”
+Pub. L. 85–462, § 4(n), June 20, 1958, 72 Stat. 209, provided that: “The basic compensation of the Administrative Assistants to the Speaker, Majority Leader, Minority Leader, Majority Whip, and Minority Whip, shall be at the rate of $8,880 per annum.”
 
-House Resolution No. 127, Eighty-ninth Congress, Jan. 19, 1965, which was enacted into permanent law by Pub. L. 89–90, § 103, July 27, 1965, 79 Stat. 281, provided: “That effective January 3, 1965, there shall be payable from the contingent fund of the House, until otherwise provided by law, for any Member of the House who has served as majority leader and as minority leader of the House, an additional $8,880 basic per annum for an administrative assistant.”
+House Resolution No. 127, Eighty-ninth Congress, Jan. 19, 1965, which was enacted into permanent law by Pub. L. 89–90, § 103, July 27, 1965, 79 Stat. 281, provided: “That effective January 3, 1965, there shall be payable from the contingent fund of the House, until otherwise provided by law, for any Member of the House who has served as majority leader and as minority leader of the House, an additional $8,880 basic per annum for an administrative assistant.”
 
-House Resolution No. 258, Eighty-ninth Congress, Mar. 9, 1965, which was enacted into permanent law by Pub. L. 89–90, § 103, July 27, 1965, 79 Stat. 281, provided:
+House Resolution No. 258, Eighty-ninth Congress, Mar. 9, 1965, which was enacted into permanent law by Pub. L. 89–90, § 103, July 27, 1965, 79 Stat. 281, provided:
 
 > “That, effective March 1, 1965, there shall be payable from the contingent fund of the House of Representatives, until otherwise provided by law, an amount which will permit the payment of basic compensation per annum, at a rate not in excess of the highest amount which, together with additional compensation authorized by law, will not exceed the maximum rate authorized by the Classification Act of 1949, as amended [act Oct. 28, 1949, ch. 782], to the administrative assistant of each of the following:
 
@@ -65,13 +65,13 @@ Section 207(c) of House Resolution 988, Ninety-third Congress, Oct. 8, 1974, pro
 
 Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 4531 and 4532 of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
 
-### § 5102. Appointment of consultants by Speaker, Majority Leader, and Minority Leader of House; compensation
+### § 5102. Appointment of consultants by Speaker, Majority Leader, and Minority Leader of House; compensation
 
 **(a)** The Speaker, Majority Leader, and Minority Leader of the House of Representatives are each authorized to appoint and fix the compensation of one consultant, on a temporary or intermittent basis, at a daily rate of compensation not in excess of the per diem equivalent of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the House.
 
 **(b)** This section shall apply with respect to fiscal year 1999 and each succeeding fiscal year.
 
-(Pub. L. 105–275, title I, § 107, Oct. 21, 1998, 112 Stat. 2439.)
+(Pub. L. 105–275, title I, § 107, Oct. 21, 1998, 112 Stat. 2439.)
 
 **Editorial Notes**
 
@@ -81,7 +81,7 @@ Section was formerly classified to section 74a–9 of this title prior to editor
 
 Section is from the Congressional Operations Appropriations Act, 1999, which is title I of the Legislative Branch Appropriations Act, 1999.
 
-### § 5103. Single per annum gross rates of allowances for personal services in offices of Speaker, Leaders, and Whips
+### § 5103. Single per annum gross rates of allowances for personal services in offices of Speaker, Leaders, and Whips
 
 The allowance for additional office personnel in the office of each of the following officials of the House of Representatives shall be at a single per annum gross rate, as follows:
 
@@ -95,7 +95,7 @@ The allowance for additional office personnel in the office of each of the follo
 
 **(5)** the Minority Whip, $55,000.
 
-(Pub. L. 91–510, title IV, § 473, Oct. 26, 1970, 84 Stat. 1194.)
+(Pub. L. 91–510, title IV, § 473, Oct. 26, 1970, 84 Stat. 1194.)
 
 **Editorial Notes**
 
@@ -113,7 +113,7 @@ Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) 
 
 Funds provided under this section limited to use for compensation of additional personnel and other necessary official expenses, see section 112 of Pub. L. 98–51, set out as a note under section 5142 of this title.
 
-### § 5104. Authority of Speaker and Minority Leader to allocate funds among certain House leadership offices
+### § 5104. Authority of Speaker and Minority Leader to allocate funds among certain House leadership offices
 
 **(a) Authority of Speaker**
 
@@ -159,7 +159,7 @@ Notwithstanding any other provision of law (including any provision of law that 
 
 This section shall apply with respect to any months occurring during the One Hundred Twelfth Congress that begin after December 23, 2011, and to any succeeding Congress.
 
-(Pub. L. 112–74, div. G, title I, § 103, Dec. 23, 2011, 125 Stat. 1121.)
+(Pub. L. 112–74, div. G, title I, § 103, Dec. 23, 2011, 125 Stat. 1121.)
 
 **Editorial Notes**
 
@@ -173,7 +173,7 @@ Section was formerly classified to section 74a–11a of this title prior to edit
 
 Section is from the Legislative Branch Appropriations Act, 2012, which is div. G of the Consolidated Appropriations Act, 2012.
 
-### § 5105. Transfer of appropriations by House Leadership Offices
+### § 5105. Transfer of appropriations by House Leadership Offices
 
 **(a) In general**
 
@@ -187,7 +187,7 @@ Subsection (a) shall not apply with respect to any amounts appropriated for offi
 
 This section shall apply with respect to fiscal year 1999 and each succeeding fiscal year.
 
-(Pub. L. 106–31, title III, § 3009, May 21, 1999, 113 Stat. 93.)
+(Pub. L. 106–31, title III, § 3009, May 21, 1999, 113 Stat. 93.)
 
 **Editorial Notes**
 
@@ -197,7 +197,7 @@ Section was formerly classified to section 74a–11 of this title prior to edito
 
 Section is from the 1999 Emergency Supplemental Appropriations Act.
 
-### § 5106. Allowance for compensation of interns in House leadership offices
+### § 5106. Allowance for compensation of interns in House leadership offices
 
 **(a) Establishment**
 
@@ -223,7 +223,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 This section and the amendments made by this section shall apply with respect to fiscal year 2020 and each succeeding fiscal year.
 
-(Pub. L. 116–94, div. E, title I, § 113, Dec. 20, 2019, 133 Stat. 2759.)
+(Pub. L. 116–94, div. E, title I, § 113, Dec. 20, 2019, 133 Stat. 2759.)
 
 **Editorial Notes**
 
@@ -233,11 +233,11 @@ Section is comprised of section 113 of Pub. L. 116–94. Subsec. (e) of section 
 
 ## SUBCHAPTER II—THE SPEAKER
 
-### § 5121. Expense allowance of Speaker of House of Representatives
+### § 5121. Expense allowance of Speaker of House of Representatives
 
 There shall be paid to the Speaker of the House of Representatives in equal monthly installments an expense allowance of $10,000 per annum to assist in defraying expenses relating to or resulting from the discharge of his official duties, for which no accounting, other than for income tax purposes, shall be made by him.
 
-(Jan. 19, 1949, ch. 2, § 1(e), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, § 619(c), 65 Stat. 570; Pub. L. 104–186, title II, § 203(1), Aug. 20, 1996, 110 Stat. 1725.)
+(Jan. 19, 1949, ch. 2, § 1(e), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, § 619(c), 65 Stat. 570; Pub. L. 104–186, title II, § 203(1), Aug. 20, 1996, 110 Stat. 1725.)
 
 **Editorial Notes**
 
@@ -261,11 +261,11 @@ Amendment by act Oct. 20, 1951, effective at noon, Jan. 3, 1953, see section 619
 
 Section effective at noon, Jan. 20, 1949, see section 3 of act Jan. 19, 1949.
 
-### § 5122. Personal services in office of Speaker; payments
+### § 5122. Personal services in office of Speaker; payments
 
 There shall be paid from the applicable accounts of the House of Representatives until otherwise provided by law, for personal services in the office of the Speaker of the House, an additional basic sum of $10,000 per annum.
 
-(Pub. L. 87–730, § 103, Oct. 2, 1962, 76 Stat. 693; Pub. L. 104–186, title II, § 204(14), Aug. 20, 1996, 110 Stat. 1732.)
+(Pub. L. 87–730, § 103, Oct. 2, 1962, 76 Stat. 693; Pub. L. 104–186, title II, § 204(14), Aug. 20, 1996, 110 Stat. 1732.)
 
 **Editorial Notes**
 
@@ -279,11 +279,11 @@ Section is based on House Resolution No. 487, Eighty-seventh Congress, Jan. 10, 
 
 1996—Pub. L. 104–186 substituted “applicable accounts of the House of Representatives” for “contingent fund of the House”.
 
-### § 5123. Speaker’s Office for Legislative Floor Activities
+### § 5123. Speaker’s Office for Legislative Floor Activities
 
 There is established in the House of Representatives an office to be known as the Speaker’s Office for Legislative Floor Activities. The Speaker shall appoint and set the annual rate of pay for employees of the Office. The Office shall have the responsibility of assisting the Speaker in the management of legislative floor activity.
 
-(Pub. L. 104–53, title I, § 103, Nov. 19, 1995, 109 Stat. 520.)
+(Pub. L. 104–53, title I, § 103, Nov. 19, 1995, 109 Stat. 520.)
 
 **Editorial Notes**
 
@@ -297,7 +297,7 @@ Section is based on section 223(b) of House Resolution No. 6, One Hundred Fourth
 
 **Transfer of Majority and Minority Positions**
 
-Pub. L. 107–68, title I, § 113, Nov. 12, 2001, 115 Stat. 572, provided that:
+Pub. L. 107–68, title I, § 113, Nov. 12, 2001, 115 Stat. 572, provided that:
 
 > **“(a)** Effective October 1, 2001, the following four majority positions shall be transferred from the Clerk to the Speaker:
 
@@ -317,13 +317,13 @@ Pub. L. 107–68, title I, § 113, Nov. 12, 2001, 115 Stat. 572, provided that
 
 > **“(c)** Notwithstanding any other provision of law, in the case of an individual who is an incumbent of a position transferred under subsection (a) or subsection (b) at the time of the transfer, the total number of days of annual leave and the total number of days of sick leave which were provided by the Clerk to the individual and which remain unused as of the date of the transfer shall remain available for the individual to use after the transfer.”
 
-### § 5124. Lump sum allowance for Speaker
+### § 5124. Lump sum allowance for Speaker
 
 **(a)** The aggregate amount otherwise authorized to be appropriated for a fiscal year for the lump-sum allowance for the Office of the Speaker of the House of Representatives shall be increased by $40,000.
 
 **(b)** This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
-(Pub. L. 107–68, title I, § 117, Nov. 12, 2001, 115 Stat. 573.)
+(Pub. L. 107–68, title I, § 117, Nov. 12, 2001, 115 Stat. 573.)
 
 **Editorial Notes**
 
@@ -333,25 +333,25 @@ Section was formerly classified to section 74a–12 of this title prior to edito
 
 Section is from the Congressional Operations Appropriations Act, 2002, which is title I of the Legislative Branch Appropriations Act, 2002.
 
-### § 5125. Repealed. Pub. L. 115–244, div. B, title I, § 118(a), (b), Sept. 21, 2018, 132 Stat. 2930
+### § 5125. Repealed. Pub. L. 115–244, div. B, title I, § 118(a), (b), Sept. 21, 2018, 132 Stat. 2930
 
-Section, Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989; Pub. L. 93–532, § 1, Dec. 22, 1974, 88 Stat. 1723; Pub. L. 99–225, Dec. 28, 1985, 99 Stat. 1743, related to the right of every former Speaker to retain an office furnished and maintained by the Government in an appropriate condition.
+Section, Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989; Pub. L. 93–532, § 1, Dec. 22, 1974, 88 Stat. 1723; Pub. L. 99–225, Dec. 28, 1985, 99 Stat. 1743, related to the right of every former Speaker to retain an office furnished and maintained by the Government in an appropriate condition.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 115–244, div. B, title I, § 118(c), Sept. 21, 2018, 132 Stat. 2930, provided that: “The amendments made by this section [repealing this section and sections 5126 to 5129 of this title] shall apply with respect to any individual who serves as a Representative in Congress during the One Hundred Fifteenth Congress or any succeeding Congress.”
+Pub. L. 115–244, div. B, title I, § 118(c), Sept. 21, 2018, 132 Stat. 2930, provided that: “The amendments made by this section [repealing this section and sections 5126 to 5129 of this title] shall apply with respect to any individual who serves as a Representative in Congress during the One Hundred Fifteenth Congress or any succeeding Congress.”
 
-### §§ 5126 to 5129. Repealed. Pub. L. 115–244, div. B, title I, § 118(a), Sept. 21, 2018, 132 Stat. 2930
+### §§ 5126 to 5129. Repealed. Pub. L. 115–244, div. B, title I, § 118(a), Sept. 21, 2018, 132 Stat. 2930
 
-Section 5126, Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989; Pub. L. 93–532, § 1(a), Dec. 22, 1974, 88 Stat. 1723; Pub. L. 99–151, title I, § 102(b), Nov. 13, 1985, 99 Stat. 797; Pub. L. 104–186, title II, § 203(2), Aug. 20, 1996, 110 Stat. 1725, provided for an allowance for former Speaker for payment of office and other administrative expenses.
+Section 5126, Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989; Pub. L. 93–532, § 1(a), Dec. 22, 1974, 88 Stat. 1723; Pub. L. 99–151, title I, § 102(b), Nov. 13, 1985, 99 Stat. 797; Pub. L. 104–186, title II, § 203(2), Aug. 20, 1996, 110 Stat. 1725, provided for an allowance for former Speaker for payment of office and other administrative expenses.
 
-Section 5127, Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989; Pub. L. 93–532, § 1(a), Dec. 22, 1974, 88 Stat. 1723, related to franked mail and printing privileges of former Speaker.
+Section 5127, Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989; Pub. L. 93–532, § 1(a), Dec. 22, 1974, 88 Stat. 1723, related to franked mail and printing privileges of former Speaker.
 
-Section 5128, Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989; Pub. L. 93–532, § 1(a), Dec. 22, 1974, 88 Stat. 1723; Pub. L. 95–94, title I, § 115, Aug. 5, 1977, 91 Stat. 668; Pub. L. 99–151, title I, § 102(a), Nov. 13, 1985, 99 Stat. 797; Pub. L. 104–186, title II, § 203(3), Aug. 20, 1996, 110 Stat. 1725; Pub. L. 108–447, div. G, title I, § 110, Dec. 8, 2004, 118 Stat. 3177; Pub. L. 110–161, div. H, title I, § 105, Dec. 26, 2007, 121 Stat. 2225, provided for Staff assistance to a former Speaker for administration and compensation and status of staff.
+Section 5128, Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989; Pub. L. 93–532, § 1(a), Dec. 22, 1974, 88 Stat. 1723; Pub. L. 95–94, title I, § 115, Aug. 5, 1977, 91 Stat. 668; Pub. L. 99–151, title I, § 102(a), Nov. 13, 1985, 99 Stat. 797; Pub. L. 104–186, title II, § 203(3), Aug. 20, 1996, 110 Stat. 1725; Pub. L. 108–447, div. G, title I, § 110, Dec. 8, 2004, 118 Stat. 3177; Pub. L. 110–161, div. H, title I, § 105, Dec. 26, 2007, 121 Stat. 2225, provided for Staff assistance to a former Speaker for administration and compensation and status of staff.
 
-Section 5129, Pub. L. 103–69, title I, § 101A(a), Aug. 11, 1993, 107 Stat. 699, provided that the entitlements of a former Speaker of the House of Representatives under sections 5125 to 5129 of this title would be available for 5 years.
+Section 5129, Pub. L. 103–69, title I, § 101A(a), Aug. 11, 1993, 107 Stat. 699, provided that the entitlements of a former Speaker of the House of Representatives under sections 5125 to 5129 of this title would be available for 5 years.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -361,13 +361,13 @@ Repeal applicable with respect to any individual who serves as a Representative 
 
 ## SUBCHAPTER III—MAJORITY AND MINORITY LEADERS AND WHIPS
 
-### § 5141. Additional employees in offices of House Minority Leader, Majority Whip, and Chief Deputy Majority Whip; authorization; compensation
+### § 5141. Additional employees in offices of House Minority Leader, Majority Whip, and Chief Deputy Majority Whip; authorization; compensation
 
 **(a)** Subject to the provisions of subsection (b), effective March 1, 1977, there shall be two additional employees in the office of the minority leader, and one additional employee each in the offices of the majority whip and the chief deputy majority whip.
 
 **(b)** The maximum annual rate of compensation for any individual employed under subsection (a) shall not exceed the greater of $173,900 or the applicable rate of pay in effect under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title, and until otherwise provided by law such compensation as may be necessary shall be paid from the applicable accounts of the House of Representatives.
 
-(Pub. L. 95–94, title I, § 115, Aug. 5, 1977, 91 Stat. 668; Pub. L. 104–53, title I, § 103, Nov. 19, 1995, 109 Stat. 520; Pub. L. 104–186, title II, § 204(15)(A), Aug. 20, 1996, 110 Stat. 1732; Pub. L. 116–94, div. E, title II, § 212(b)(3)(E), Dec. 20, 2019, 133 Stat. 2778.)
+(Pub. L. 95–94, title I, § 115, Aug. 5, 1977, 91 Stat. 668; Pub. L. 104–53, title I, § 103, Nov. 19, 1995, 109 Stat. 520; Pub. L. 104–186, title II, § 204(15)(A), Aug. 20, 1996, 110 Stat. 1732; Pub. L. 116–94, div. E, title II, § 212(b)(3)(E), Dec. 20, 2019, 133 Stat. 2778.)
 
 **Editorial Notes**
 
@@ -395,13 +395,13 @@ Amendment by Pub. L. 116–94 effective on the later of the first day of the fir
 
 **Effective Date of 1995 Amendment**
 
-Section 3(a) of House Resolution No. 113, One Hundred Fourth Congress, Mar. 10, 1995, as enacted into permanent law by Pub. L. 104–53, title I, § 103, Nov. 19, 1995, 109 Stat. 520, provided that: “Upon the enactment of this section into permanent law, the amendment made by subsection (b) [amending this section] shall take effect.”
+Section 3(a) of House Resolution No. 113, One Hundred Fourth Congress, Mar. 10, 1995, as enacted into permanent law by Pub. L. 104–53, title I, § 103, Nov. 19, 1995, 109 Stat. 520, provided that: “Upon the enactment of this section into permanent law, the amendment made by subsection (b) [amending this section] shall take effect.”
 
 **Increases in Compensation**
 
 Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 4531 and 4532 of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
 
-### § 5142. Additional amounts for personnel and equipment for House Majority and Minority Leaders and Majority and Minority Whips
+### § 5142. Additional amounts for personnel and equipment for House Majority and Minority Leaders and Majority and Minority Whips
 
 Effective March 1, 1977, and until otherwise provided by law, there shall be paid out of the applicable accounts of the House of Representatives such additional amounts as may be necessary for office personnel, and rental or lease of necessary equipment, of each of the following officials of the House the following per annum amounts:
 
@@ -413,7 +413,7 @@ Effective March 1, 1977, and until otherwise provided by law, there shall be pai
 
 **(4)** The minority whip, $15,000.
 
-(Pub. L. 95–94, title I, § 115, Aug. 5, 1977, 91 Stat. 668; Pub. L. 104–186, title II, § 204(15)(B), Aug. 20, 1996, 110 Stat. 1732.)
+(Pub. L. 95–94, title I, § 115, Aug. 5, 1977, 91 Stat. 668; Pub. L. 104–186, title II, § 204(15)(B), Aug. 20, 1996, 110 Stat. 1732.)
 
 **Editorial Notes**
 
@@ -431,13 +431,13 @@ Section is based on section 2 of House Resolution No. 393, Ninety-fifth Congress
 
 **Limits on Uses of Funds**
 
-Pub. L. 98–51, title I, § 112, July 14, 1983, 97 Stat. 270, as amended by Pub. L. 104–186, title II, § 204(16), Aug. 20, 1996, 110 Stat. 1732, provided that: “The funds provided under the provisions of section 2 of House Resolution 393, Ninety-fifth Congress, agreed to March 31, 1977, as enacted into permanent law by section 115 of the Congressional Operations Appropriation Act, 1978 [2 U.S.C. 5142], and section 473 of the Legislative Reorganization Act of 1970 [2 U.S.C. 5103], shall be limited to use for the compensation of additional personnel and other necessary official expenses.”
+Pub. L. 98–51, title I, § 112, July 14, 1983, 97 Stat. 270, as amended by Pub. L. 104–186, title II, § 204(16), Aug. 20, 1996, 110 Stat. 1732, provided that: “The funds provided under the provisions of section 2 of House Resolution 393, Ninety-fifth Congress, agreed to March 31, 1977, as enacted into permanent law by section 115 of the Congressional Operations Appropriation Act, 1978 [2 U.S.C. 5142], and section 473 of the Legislative Reorganization Act of 1970 [2 U.S.C. 5103], shall be limited to use for the compensation of additional personnel and other necessary official expenses.”
 
-### § 5143. Compensation of certain House minority employees
+### § 5143. Compensation of certain House minority employees
 
 Effective January 3, 1977, and until otherwise provided by law, the rate of pay for each of the six positions of minority employee authorized by the Legislative Pay Act of 1929 and referred to in House Resolution 441 of the Ninety-first Congress shall be a per annum gross rate equal to the annual rate of basic pay of level IV of the Executive Schedule of section 5315 of title 5, unless a lower rate is established by the Minority Leader.
 
-(Pub. L. 95–94, title I, § 115, Aug. 5, 1977, 91 Stat. 668.)
+(Pub. L. 95–94, title I, § 115, Aug. 5, 1977, 91 Stat. 668.)
 
 **Editorial Notes**
 
@@ -455,7 +455,7 @@ Section is based on section 1 of House Resolution 119, Ninety-fifth Congress, Ja
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in House Resolution 441, Ninety-first Congress, June 17, 1969, as enacted into permanent law by Pub. L. 91–145, § 103, Dec. 12, 1969, 83 Stat. 359, which provided:
+Provisions similar to those in this section were contained in House Resolution 441, Ninety-first Congress, June 17, 1969, as enacted into permanent law by Pub. L. 91–145, § 103, Dec. 12, 1969, 83 Stat. 359, which provided:
 
 > “That, until otherwise provided by law—
 
@@ -499,15 +499,15 @@ Provisions similar to those in this section were contained in House Resolution 4
 
 **Designation and Compensation of Three Further Minority Employees**
 
-House Resolution No. 7, One Hundred Fourth Congress, Jan. 4, 1995, which was enacted into permanent law by Pub. L. 104–53, title I, § 103, Nov. 19, 1995, 109 Stat. 520, provided that: “In addition, the minority leader may appoint and set the annual rate of pay for up to three further minority employees.”
+House Resolution No. 7, One Hundred Fourth Congress, Jan. 4, 1995, which was enacted into permanent law by Pub. L. 104–53, title I, § 103, Nov. 19, 1995, 109 Stat. 520, provided that: “In addition, the minority leader may appoint and set the annual rate of pay for up to three further minority employees.”
 
-### § 5144. Lump-sum allowances for House Minority Leader and Majority Whip
+### § 5144. Lump-sum allowances for House Minority Leader and Majority Whip
 
 **(a)** The aggregate amount otherwise authorized to be appropriated for a fiscal year for the lump-sum allowance for the Office of the Minority Leader of the House of Representatives and the aggregate amount otherwise authorized to be appropriated for a fiscal year for the lump-sum allowance for the Office of the Majority Whip of the House of Representatives shall each be increased by $333,000.
 
 **(b)** This section shall apply with respect to fiscal year 2000 and each succeeding fiscal year.
 
-(Pub. L. 106–31, title III, § 3008, May 21, 1999, 113 Stat. 93.)
+(Pub. L. 106–31, title III, § 3008, May 21, 1999, 113 Stat. 93.)
 
 **Editorial Notes**
 
@@ -517,7 +517,7 @@ Section was formerly classified to section 74a–10 of this title prior to edito
 
 Section is from the 1999 Emergency Supplemental Appropriations Act.
 
-### § 5145. Lump-sum allowances for House Majority Floor Leader, Minority Floor Leader, Majority Whip, and Minority Whip
+### § 5145. Lump-sum allowances for House Majority Floor Leader, Minority Floor Leader, Majority Whip, and Minority Whip
 
 **(a)** Effective with respect to fiscal year 2008 and each succeeding fiscal year, the aggregate amount otherwise authorized to be appropriated for a fiscal year for the lump-sum allowance for each of the following offices is increased as follows:
 
@@ -531,7 +531,7 @@ Section is from the 1999 Emergency Supplemental Appropriations Act.
 
 **(2)** The allowance for the office of the Minority Whip is increased by $72,000.
 
-(Pub. L. 111–8, div. G, title I, § 104, Mar. 11, 2009, 123 Stat. 818.)
+(Pub. L. 111–8, div. G, title I, § 104, Mar. 11, 2009, 123 Stat. 818.)
 
 **Editorial Notes**
 
@@ -541,7 +541,7 @@ Section was formerly classified to section 74a–10a of this title prior to edit
 
 Section is from the Legislative Branch Appropriations Act, 2009, which is div. G of the Omnibus Appropriations Act, 2009.
 
-### § 5146. Lump-sum allowances for House Majority Whip and Minority Whip
+### § 5146. Lump-sum allowances for House Majority Whip and Minority Whip
 
 Effective with respect to fiscal year 2010 and each succeeding fiscal year, the aggregate amount otherwise authorized to be appropriated for a fiscal year for the lump-sum allowance for each of the following offices is increased as follows:
 
@@ -549,7 +549,7 @@ Effective with respect to fiscal year 2010 and each succeeding fiscal year, the 
 
 **(2)** The allowance for the office of the Minority Whip is increased by $96,000.
 
-(Pub. L. 111–68, div. A, title I, § 102, Oct. 1, 2009, 123 Stat. 2029.)
+(Pub. L. 111–68, div. A, title I, § 102, Oct. 1, 2009, 123 Stat. 2029.)
 
 **Editorial Notes**
 
@@ -561,7 +561,7 @@ Section is from the Legislative Branch Appropriations Act, 2010, which is div. A
 
 ## SUBCHAPTER IV—POLICY COMMITTEES AND CONFERENCES
 
-### § 5161. Training and program development activities of Republican Conference and Democratic Steering and Policy Committee
+### § 5161. Training and program development activities of Republican Conference and Democratic Steering and Policy Committee
 
 **(a) In general**
 
@@ -577,7 +577,7 @@ There is hereby established an account in the House of Representatives for purpo
 
 There are authorized to be appropriated to the account under this section for fiscal year 1999 and each succeeding fiscal year such sums as may be necessary for training and program development activities of the Republican Conference and the Democratic Steering and Policy Committee during the fiscal year.
 
-(Pub. L. 105–275, title I, § 103, Oct. 21, 1998, 112 Stat. 2438; Pub. L. 112–74, div. G, title I, § 104(a), (b), Dec. 23, 2011, 125 Stat. 1122.)
+(Pub. L. 105–275, title I, § 103, Oct. 21, 1998, 112 Stat. 2438; Pub. L. 112–74, div. G, title I, § 104(a), (b), Dec. 23, 2011, 125 Stat. 1122.)
 
 **Editorial Notes**
 
@@ -589,13 +589,13 @@ Section is from the Congressional Operations Appropriations Act, 1999, which is 
 
 **Amendments**
 
-2011—Subsec. (b). Pub. L. 112–74, § 104(a)(1), substituted “Funds” for “Subject to the allocation described in subsection (c) of this section, funds” in introductory provisions.
+2011—Subsec. (b). Pub. L. 112–74, § 104(a)(1), substituted “Funds” for “Subject to the allocation described in subsection (c) of this section, funds” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 112–74, § 104(a)(2), substituted “direct (or, if the Speaker is not a member of the Republican Party, under such terms and conditions as the Minority Leader of the House of Representatives may direct);” for “direct;”.
+Subsec. (b)(1). Pub. L. 112–74, § 104(a)(2), substituted “direct (or, if the Speaker is not a member of the Republican Party, under such terms and conditions as the Minority Leader of the House of Representatives may direct);” for “direct;”.
 
-Subsec. (b)(2). Pub. L. 112–74, § 104(a)(3), substituted “direct (or, if the Speaker is a member of the Democratic Party, under such terms and conditions as the Speaker may direct).” for “direct.”
+Subsec. (b)(2). Pub. L. 112–74, § 104(a)(3), substituted “direct (or, if the Speaker is a member of the Democratic Party, under such terms and conditions as the Speaker may direct).” for “direct.”
 
-Subsecs. (c), (d). Pub. L. 112–74, § 104(b), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “Of the total amount in the account established under subsection (a) of this section—
+Subsecs. (c), (d). Pub. L. 112–74, § 104(b), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “Of the total amount in the account established under subsection (a) of this section—
 
 “(1) 50 percent shall be allocated to the Speaker for payments for activities of the Republican Conference; and
 
@@ -605,9 +605,9 @@ Subsecs. (c), (d). Pub. L. 112–74, § 104(b), redesignated subsec. (d) as (c
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–74, div. G, title I, § 104(c), Dec. 23, 2011, 125 Stat. 1123, provided that: “The amendments made by this section [amending this section] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 1999 [Pub. L. 105–275].”
+Pub. L. 112–74, div. G, title I, § 104(c), Dec. 23, 2011, 125 Stat. 1123, provided that: “The amendments made by this section [amending this section] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 1999 [Pub. L. 105–275].”
 
-### § 5162. Republican Policy Committee
+### § 5162. Republican Policy Committee
 
 **(a) In general**
 
@@ -621,7 +621,7 @@ There shall be a lump sum allowance for the salaries and expenses of the Republi
 
 This section shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
 
-(Pub. L. 108–447, div. G, title I, § 109, Dec. 8, 2004, 118 Stat. 3177; Pub. L. 112–74, div. G, title I, § 102(a), (b), Dec. 23, 2011, 125 Stat. 1121.)
+(Pub. L. 108–447, div. G, title I, § 109, Dec. 8, 2004, 118 Stat. 3177; Pub. L. 112–74, div. G, title I, § 102(a), (b), Dec. 23, 2011, 125 Stat. 1121.)
 
 **Editorial Notes**
 
@@ -633,12 +633,12 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 **Amendments**
 
-2011—Subsec. (a). Pub. L. 112–74, § 102(a), substituted “the Speaker of the House of Representatives (or, if the Speaker is not a member of the Republican Party, the Minority Leader of the House of Representatives)” for “the chair of the Republican Conference”.
+2011—Subsec. (a). Pub. L. 112–74, § 102(a), substituted “the Speaker of the House of Representatives (or, if the Speaker is not a member of the Republican Party, the Minority Leader of the House of Representatives)” for “the chair of the Republican Conference”.
 
-Subsec. (b). Pub. L. 112–74, § 102(b), inserted “, and which shall be obligated and expended as directed by the Speaker (or, if the Speaker is not a member of the Republican party, the Minority Leader)” before period at end.
+Subsec. (b). Pub. L. 112–74, § 102(b), inserted “, and which shall be obligated and expended as directed by the Speaker (or, if the Speaker is not a member of the Republican party, the Minority Leader)” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–74, div. G, title I, § 102(c), Dec. 23, 2011, 125 Stat. 1121, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2012 and each succeeding fiscal year.”
+Pub. L. 112–74, div. G, title I, § 102(c), Dec. 23, 2011, 125 Stat. 1121, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2012 and each succeeding fiscal year.”

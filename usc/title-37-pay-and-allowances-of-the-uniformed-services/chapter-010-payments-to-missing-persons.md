@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2013—Pub. L. 112–239, div. A, title X, § 1076(a)(8), Jan. 2, 2013, 126 Stat. 1948, made technical amendment to directory language of Pub. L. 112–81, § 631(f)(3)(B). See 2011 Amendment note below.
+2013—Pub. L. 112–239, div. A, title X, § 1076(a)(8), Jan. 2, 2013, 126 Stat. 1948, made technical amendment to directory language of Pub. L. 112–81, § 631(f)(3)(B). See 2011 Amendment note below.
 
-2011—Pub. L. 112–81, div. A, title VI, § 631(f)(3)(B), Dec. 31, 2011, 125 Stat. 1465, as amended by Pub. L. 112–239, div. A, title X, § 1076(a)(8), Jan. 2, 2013, 126 Stat. 1948, struck out item 554 “Travel and transportation; dependents; household and personal effects; trailers; additional movements; motor vehicles; sale of bulky items; claims for proceeds; appropriation chargeable”.
+2011—Pub. L. 112–81, div. A, title VI, § 631(f)(3)(B), Dec. 31, 2011, 125 Stat. 1465, as amended by Pub. L. 112–239, div. A, title X, § 1076(a)(8), Jan. 2, 2013, 126 Stat. 1948, struck out item 554 “Travel and transportation; dependents; household and personal effects; trailers; additional movements; motor vehicles; sale of bulky items; claims for proceeds; appropriation chargeable”.
 
-1990—Pub. L. 101–510, div. A, title XIV, § 1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
+1990—Pub. L. 101–510, div. A, title XIV, § 1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
 
-1986—Pub. L. 99–399, title VIII, § 806(a)(2), Aug. 27, 1986, 100 Stat. 885, added item 559.
+1986—Pub. L. 99–399, title VIII, § 806(a)(2), Aug. 27, 1986, 100 Stat. 885, added item 559.
 
-1972—Pub. L. 92–477, § 1(1), Oct. 9, 1972, 86 Stat. 793, inserted “trailers; additional movements;” after “household and personal effects;” in item 554.
+1972—Pub. L. 92–477, § 1(1), Oct. 9, 1972, 86 Stat. 793, inserted “trailers; additional movements;” after “household and personal effects;” in item 554.
 
-1966—Pub. L. 89–554, § 5(b), Sept. 6, 1966, 80 Stat. 625, added chapter 10 and items 551 to 558.
+1966—Pub. L. 89–554, § 5(b), Sept. 6, 1966, 80 Stat. 625, added chapter 10 and items 551 to 558.
 
-## § 551. Definitions
+## § 551. Definitions
 
 In this chapter:
 
@@ -73,14 +73,14 @@ In this chapter:
 
 **(F)** station per diem allowances for not more than 90 days.
 
-(Added Pub. L. 89–554, § 5(b), Sept. 6, 1966, 80 Stat. 625; amended Pub. L. 99–145, title XIII, § 1301(g), Nov. 8, 1985, 99 Stat. 737; Pub. L. 100–26, § 8(e)(10), Apr. 21, 1987, 101 Stat. 287; Pub. L. 105–85, div. A, title VI, § 603(d)(1)(D), Nov. 18, 1997, 111 Stat. 1782.)
+(Added Pub. L. 89–554, § 5(b), Sept. 6, 1966, 80 Stat. 625; amended Pub. L. 99–145, title XIII, § 1301(g), Nov. 8, 1985, 99 Stat. 737; Pub. L. 100–26, § 8(e)(10), Apr. 21, 1987, 101 Stat. 287; Pub. L. 105–85, div. A, title VI, § 603(d)(1)(D), Nov. 18, 1997, 111 Stat. 1782.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 551(1) | 50 App. 1001. | Mar. 7, 1942, ch. 166, § 1, 56 Stat. 143; July 1, 1944, ch. 371, § 1, 58 Stat. 679; Aug. 14, 1964, Pub. L. 88–428, § 1(1), (2), 78 Stat. 437. |
-| 551(2)       551(3) | 50 App. 1002(a) (22d through 66th words of 1st sentence, for definition purposes). 50 App. 1002(a) (96th through 120th words of 1st sentence, for definition purposes). | Mar. 7, 1942, ch. 166, § 2(a) (22d through 66th and 96th through 120th words of 1st sentence, for definition purposes); added July 1, 1944, ch. 371, § 2, 58 Stat. 679; Apr. 4, 1953, ch. 17, § 1(a), 67 Stat. 21; Aug. 29, 1957, Pub. L. 85–217, § 1(b) (1st par.), 71 Stat. 491; Aug. 14, 1964, Pub. L. 88–428, § 1(3)(A), 78 Stat. 437. |
+| 551(1) | 50 App. 1001. | Mar. 7, 1942, ch. 166, § 1, 56 Stat. 143; July 1, 1944, ch. 371, § 1, 58 Stat. 679; Aug. 14, 1964, Pub. L. 88–428, § 1(1), (2), 78 Stat. 437. |
+| 551(2) 551(3) | 50 App. 1002(a) (22d through 66th words of 1st sentence, for definition purposes). 50 App. 1002(a) (96th through 120th words of 1st sentence, for definition purposes). | Mar. 7, 1942, ch. 166, § 2(a) (22d through 66th and 96th through 120th words of 1st sentence, for definition purposes); added July 1, 1944, ch. 371, § 2, 58 Stat. 679; Apr. 4, 1953, ch. 17, § 1(a), 67 Stat. 21; Aug. 29, 1957, Pub. L. 85–217, § 1(b) (1st par.), 71 Stat. 491; Aug. 14, 1964, Pub. L. 88–428, § 1(3)(A), 78 Stat. 437. |
 
 Only that portion of the source law which is applicable to members of the uniformed services and their dependents is codified in this section.
 
@@ -96,7 +96,7 @@ The definitions in clauses (2) and (3), which do not appear in, but are based on
 
 1997—Par. (3)(D). Pub. L. 105–85 substituted “housing” for “quarters”.
 
-1987—Pub. L. 100–26 substituted “In this chapter:” for “In this chapter—”, inserted “The term” at beginning of pars. (1) to (3), and substituted period for semicolon at end of par. (1) and period for “; and” at end of par. (2).
+1987—Pub. L. 100–26 substituted “In this chapter:” for “In this chapter—”, inserted “The term” at beginning of pars. (1) to (3), and substituted period for semicolon at end of par. (1) and period for “; and” at end of par. (2).
 
 1985—Par. (1)(A). Pub. L. 99–145 substituted “spouse” for “wife”.
 
@@ -106,7 +106,7 @@ The definitions in clauses (2) and (3), which do not appear in, but are based on
 
 Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
 
-## § 552. Pay and allowances; continuance while in a missing status; limitations
+## § 552. Pay and allowances; continuance while in a missing status; limitations
 
 **(a)** A member of a uniformed service who is on active duty or performing inactive-duty training, and who is in a missing status, is—
 
@@ -128,19 +128,19 @@ However, a member who is performing full-time training duty or other full-time d
 
 **(e)** A member in a missing status who is continued in that status under section 555 of this title or under chapter 76 of title 10 is entitled to be credited with pay and allowances under subsection (a).
 
-(Added Pub. L. 89–554, § 5(b), Sept. 6, 1966, 80 Stat. 625; amended Pub. L. 92–169, § 1, Nov. 24, 1971, 85 Stat. 489; Pub. L. 92–482, Oct. 12, 1972, 86 Stat. 796; Pub. L. 93–26, § 1, Apr. 27, 1973, 87 Stat. 26; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, § 569(c)(2), Feb. 10, 1996, 110 Stat. 351; Pub. L. 115–91, div. A, title VI, § 618(g), Dec. 12, 2017, 131 Stat. 1427.)
+(Added Pub. L. 89–554, § 5(b), Sept. 6, 1966, 80 Stat. 625; amended Pub. L. 92–169, § 1, Nov. 24, 1971, 85 Stat. 489; Pub. L. 92–482, Oct. 12, 1972, 86 Stat. 796; Pub. L. 93–26, § 1, Apr. 27, 1973, 87 Stat. 26; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, § 569(c)(2), Feb. 10, 1996, 110 Stat. 351; Pub. L. 115–91, div. A, title VI, § 618(g), Dec. 12, 2017, 131 Stat. 1427.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 552(a) | 50 App. 1002(a) (1st sentence, less last 46 words). | Mar. 7, 1942, ch. 166, § 2(a); added July 1, 1944, ch. 371, § 2, 58 Stat. 679; Apr. 4, 1953, ch. 17, § 1(a), 67 Stat. 21; Aug. 29, 1957, Pub. L. 85–217, § 1(b) (1st par.), 71 Stat. 491; Aug. 14, 1964, Pub. L. 88–428, § 1(3), 78 Stat. 437. |
-|  | 50 App. 1014 (as applicable to § 1002(a) (1st sentence)). | Mar. 7, 1942, ch. 166, § 14 (as applicable to § 2(a) (1st and last sentences)), 56 Stat. 147; Apr. 4, 1953, ch. 17, § 1(e), 67 Stat. 21. |
+| 552(a) | 50 App. 1002(a) (1st sentence, less last 46 words). | Mar. 7, 1942, ch. 166, § 2(a); added July 1, 1944, ch. 371, § 2, 58 Stat. 679; Apr. 4, 1953, ch. 17, § 1(a), 67 Stat. 21; Aug. 29, 1957, Pub. L. 85–217, § 1(b) (1st par.), 71 Stat. 491; Aug. 14, 1964, Pub. L. 88–428, § 1(3), 78 Stat. 437. |
+|  | 50 App. 1014 (as applicable to § 1002(a) (1st sentence)). | Mar. 7, 1942, ch. 166, § 14 (as applicable to § 2(a) (1st and last sentences)), 56 Stat. 147; Apr. 4, 1953, ch. 17, § 1(e), 67 Stat. 21. |
 | 552(b) | 50 App. 1002(a) (last 46 words of 1st sentence, and 2d sentence). |  |
 | 552(c) | 50 App. 1002(a) (3d sentence). |  |
 | 552(d) | 50 App. 1002(a) (last sentence). |  |
-|  | 50 App. 1014 (as applicable to § 1002(a) (last sentence)). |  |
-| 552(e) | 50 App. 1006 (2d sentence as applicable to pay and allowances). | Mar. 7, 1942, ch. 166, § 6 (2d sentence, as applicable to pay and allowances); added Dec. 24, 1942, ch. 828, § 1 (4th par.), 56 Stat. 1093; Aug. 14, 1964, Pub. L. 88–428, § 1(5)(B), 78 Stat. 437. |
+|  | 50 App. 1014 (as applicable to § 1002(a) (last sentence)). |  |
+| 552(e) | 50 App. 1006 (2d sentence as applicable to pay and allowances). | Mar. 7, 1942, ch. 166, § 6 (2d sentence, as applicable to pay and allowances); added Dec. 24, 1942, ch. 828, § 1 (4th par.), 56 Stat. 1093; Aug. 14, 1964, Pub. L. 88–428, § 1(5)(B), 78 Stat. 437. |
 
 Only that portion of the source law which is applicable to members of the uniformed services and their dependents is codified in this section.
 
@@ -150,7 +150,7 @@ In subsection (b), the first sentence is substituted for 50 App. U.S.C. 1002(a) 
 
 In subsection (c), the words “A member” are substituted for “such person”. The words “under subsection (a) of this section” are inserted for clarity. The words “United States” are substituted for “Government” to conform to the style of title 37.
 
-In subsection (d), the words “A member . . . he . . . in a missing status” are substituted for “Persons”, “such persons”, and the enumerated absent stata to conform to the definitions in 37 U.S.C. 101(23) and revised section 551(2) of this chapter.
+In subsection (d), the words “A member . . . he . . . in a missing status” are substituted for “Persons”, “such persons”, and the enumerated absent stata to conform to the definitions in 37 U.S.C. 101(23) and revised section 551(2) of this chapter.
 
 In subsection (e), the words “A member in a missing status” are substituted for “a person missing under the conditions specified in section 2 of this Act” to conform to the definition in revised section 551(2) of this chapter. The words “under subsection (a) of this section” are substituted for “as provided in section 2 of this Act”.
 
@@ -160,11 +160,11 @@ In subsection (e), the words “A member in a missing status” are substituted 
 
 2017—Subsec. (a)(2). Pub. L. 115–91 inserted “or section 351(a)(2)” after “section 301”.
 
-1996—Subsec. (a). Pub. L. 104–106, § 569(c)(2)(A), substituted “for all purposes” for “for all purposes, even though the Secretary concerned determines under section 556(b) of this title that the member died before the promotion was made”.
+1996—Subsec. (a). Pub. L. 104–106, § 569(c)(2)(A), substituted “for all purposes” for “for all purposes, even though the Secretary concerned determines under section 556(b) of this title that the member died before the promotion was made”.
 
-Subsec. (b)(2). Pub. L. 104–106, § 569(c)(2)(B), inserted “or under chapter 76 of title 10” before period at end.
+Subsec. (b)(2). Pub. L. 104–106, § 569(c)(2)(B), inserted “or under chapter 76 of title 10” before period at end.
 
-Subsec. (e). Pub. L. 104–106, § 569(c)(2)(C), inserted “or under chapter 76 of title 10” after “section 555 of this title”.
+Subsec. (e). Pub. L. 104–106, § 569(c)(2)(C), inserted “or under chapter 76 of title 10” after “section 555 of this title”.
 
 1991—Subsecs. (b), (c), (e). Pub. L. 102–25 struck out “of this section” after “subsection (a)” wherever appearing.
 
@@ -178,13 +178,13 @@ Subsec. (e). Pub. L. 104–106, § 569(c)(2)(C), inserted “or under chapter 
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–26, § 2, Apr. 27, 1973, 87 Stat. 26, provided that: “For the purposes of chapter 13 [§ 1301 et seq.] of title 38, United States Code, this Act [amending this section] becomes effective as of November 24, 1971. For all other purposes this Act becomes effective as of February 28, 1961.”
+Pub. L. 93–26, § 2, Apr. 27, 1973, 87 Stat. 26, provided that: “For the purposes of chapter 13 [§ 1301 et seq.] of title 38, United States Code, this Act [amending this section] becomes effective as of November 24, 1971. For all other purposes this Act becomes effective as of February 28, 1961.”
 
 **Effective Date of 1971 Amendment**
 
-Amendment by Pub. L. 92–169 effective for the purposes of chapter 13 (§ 1301 et seq.) of Title 38, Veterans’ Benefits, on Nov. 24, 1971, and for all other purposes effective as of Feb. 28, 1961, see section 3 of Pub. L. 92–169, set out as a note under section 1302 of Title 38.
+Amendment by Pub. L. 92–169 effective for the purposes of chapter 13 (§ 1301 et seq.) of Title 38, Veterans’ Benefits, on Nov. 24, 1971, and for all other purposes effective as of Feb. 28, 1961, see section 3 of Pub. L. 92–169, set out as a note under section 1302 of Title 38.
 
-## § 553. Allotments; continuance, suspension, initiation, resumption, or increase while in a missing status; limitations
+## § 553. Allotments; continuance, suspension, initiation, resumption, or increase while in a missing status; limitations
 
 **(a)** Notwithstanding the end of the period for which it was made, an allotment, including one for the purchase of United States savings bonds, made by a member of a uniformed service before he was in a missing status may be continued for the period he is entitled to pay and allowances under section 552 of this title.
 
@@ -208,23 +208,23 @@ Amendment by Pub. L. 92–169 effective for the purposes of chapter 13 (§ 130
 
 **(3)** continue payment of an allotment of the member which has expired.
 
-(Added Pub. L. 89–554, § 5(b), Sept. 6, 1966, 80 Stat. 626; amended Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, § 569(c)(3), Feb. 10, 1996, 110 Stat. 351.)
+(Added Pub. L. 89–554, § 5(b), Sept. 6, 1966, 80 Stat. 626; amended Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, § 569(c)(3), Feb. 10, 1996, 110 Stat. 351.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 553(a)   553(b)   553(c) | 50 App. 1003 (1st sentence). 50 App. 1003 (2d sentence, less provisos). 50 App. 1003 (1st proviso of 2d sentence). | Mar. 7, 1942, ch. 166, § 3, 56 Stat. 144; Dec. 24, 1942, ch. 828, § 1 (1st par.), Stat. 1092; July 1, 1944, ch. 371, § 3, 58 Stat. 680. |
+| 553(a) 553(b) 553(c) | 50 App. 1003 (1st sentence). 50 App. 1003 (2d sentence, less provisos). 50 App. 1003 (1st proviso of 2d sentence). | Mar. 7, 1942, ch. 166, § 3, 56 Stat. 144; Dec. 24, 1942, ch. 828, § 1 (1st par.), Stat. 1092; July 1, 1944, ch. 371, § 3, 58 Stat. 680. |
 | 553(d) | 50 App. 1003 (2d proviso of 2d sentence) |  |
-| 553(e) | 50 App. 1004. | Mar. 7, 1942, ch. 166, § 4, 56 Stat. 144; Dec. 24, 1942, ch. 828, § 1 (2d par.), 56 Stat. 1093; July 1, 1944, ch. 371, § 4, 58 Stat. 680. |
-| 553(f)         553(g) | 50 App. 1006 (1st sentence). 50 App. 1014 (as applicable to § 1006 (1st sentence)). 50 App. 1006 (2d sentence, as applicable to allotments). | Mar. 7, 1942, ch. 166, § 6 (1st sentence and 2d sentence, as applicable to allotments); added Dec. 24, 1942, ch. 828, § 1 (4th par.), 56 Stat. 1093; Apr. 4, 1953, ch. 17, § 1(b), 67 Stat. 21; Aug. 14, 1964, Pub. L. 88–428, § 1(5), 78 Stat. 437. |
-| 553(h) | 50 App. 1007. | Mar. 7, 1942, ch. 166, § 7, 56 Stat. 145; Aug. 14, 1964, Pub. L. 88–428, § 1(6), 78 Stat. 437. Mar. 7, 1942, ch. 166, § 14 (as applicable to § 6 (1st sentence)), 56 Stat. 147; Apr. 4, 1953, ch. 17, § 1(e), 67 Stat. 21. |
+| 553(e) | 50 App. 1004. | Mar. 7, 1942, ch. 166, § 4, 56 Stat. 144; Dec. 24, 1942, ch. 828, § 1 (2d par.), 56 Stat. 1093; July 1, 1944, ch. 371, § 4, 58 Stat. 680. |
+| 553(f) 553(g) | 50 App. 1006 (1st sentence). 50 App. 1014 (as applicable to § 1006 (1st sentence)). 50 App. 1006 (2d sentence, as applicable to allotments). | Mar. 7, 1942, ch. 166, § 6 (1st sentence and 2d sentence, as applicable to allotments); added Dec. 24, 1942, ch. 828, § 1 (4th par.), 56 Stat. 1093; Apr. 4, 1953, ch. 17, § 1(b), 67 Stat. 21; Aug. 14, 1964, Pub. L. 88–428, § 1(5), 78 Stat. 437. |
+| 553(h) | 50 App. 1007. | Mar. 7, 1942, ch. 166, § 7, 56 Stat. 145; Aug. 14, 1964, Pub. L. 88–428, § 1(6), 78 Stat. 437. Mar. 7, 1942, ch. 166, § 14 (as applicable to § 6 (1st sentence)), 56 Stat. 147; Apr. 4, 1953, ch. 17, § 1(e), 67 Stat. 21. |
 
 Only that portion of the source law which is applicable to members of the uniformed services and their dependents is codified in this section.
 
-In subsection (a), the words “a member of a uniformed service . . . in a missing status . . . he . . . under section 552 of this title” are substituted for “any person . . . under section 2 of this Act . . . his absence”, for clarity and to conform to the definition in revised section 551(2) of this chapter. The words “except as otherwise herein provided” are omitted as unnecessary.
+In subsection (a), the words “a member of a uniformed service . . . in a missing status . . . he . . . under section 552 of this title” are substituted for “any person . . . under section 2 of this Act . . . his absence”, for clarity and to conform to the definition in revised section 551(2) of this chapter. The words “except as otherwise herein provided” are omitted as unnecessary.
 
-In subsection (b), the words “Secretary concerned, he, or his designee,” are substituted for “head of the department concerned . . . head of the department concerned, or such subordinate as he may designate” to conform to the definition in 37 U.S.C. 101(5). The word “member” is substituted for “person” to conform to the definition in 37 U.S.C. 101(23).
+In subsection (b), the words “Secretary concerned, he, or his designee,” are substituted for “head of the department concerned . . . head of the department concerned, or such subordinate as he may designate” to conform to the definition in 37 U.S.C. 101(5). The word “member” is substituted for “person” to conform to the definition in 37 U.S.C. 101(23).
 
 In subsection (c), the words “in effect” are omitted as unnecessary. The words “member in a missing status” are substituted for “absent person” to conform to the definition in revised section 551(2) of this chapter.
 
@@ -232,7 +232,7 @@ In subsection (d), the words “United States” are substituted for “Governme
 
 In subsection (e), the words “Secretary concerned, or his designee,” are substituted for “head of the department concerned, or such subordinates as he may designate,” to conform to the definition in 37 U.S.C. 101(5). The words “United States” are substituted for “Government” to conform to the style of title 37. The words “when he considers it” are substituted for “When circumstances are deemed to justify such action”. The word “member” is substituted for “person”.
 
-In subsection (f), the words “When the Secretary concerned officially reports that a member in a missing status” are substituted for “When it is officially reported by the head of the department concerned that a person missing under the conditions specified in section 2 of this Act”. The words “the payments of allotments authorized by subsections (a)–(d) of this section may, subject to section 552 of this title . . . until the date the Secretary concerned” are substituted for “the payments authorized by section 3 of this Act are, subject to the provisions of section 2 of this Act, authorized to be made for a period not to extend beyond the date of the receipt by the head of the department concerned”. The words “the member” are substituted for “the missing person”.
+In subsection (f), the words “When the Secretary concerned officially reports that a member in a missing status” are substituted for “When it is officially reported by the head of the department concerned that a person missing under the conditions specified in section 2 of this Act”. The words “the payments of allotments authorized by subsections (a)–(d) of this section may, subject to section 552 of this title . . . until the date the Secretary concerned” are substituted for “the payments authorized by section 3 of this Act are, subject to the provisions of section 2 of this Act, authorized to be made for a period not to extend beyond the date of the receipt by the head of the department concerned”. The words “the member” are substituted for “the missing person”.
 
 In subsection (g), the words “A member in a missing status” are substituted for “a person missing under the conditions specified in section 2 of this Act”.
 
@@ -242,15 +242,15 @@ In subsection (h), the words “Secretary concerned” are substituted for “he
 
 **Amendments**
 
-1996—Subsec. (f). Pub. L. 104–106, § 569(c)(3)(A), substituted “the date on which, in a case covered by section 555 of this title, the Secretary concerned receives evidence, or, in a case covered by chapter 76 of title 10, the Secretary concerned determines pursuant to that chapter, that” for “the date the Secretary concerned receives evidence that”.
+1996—Subsec. (f). Pub. L. 104–106, § 569(c)(3)(A), substituted “the date on which, in a case covered by section 555 of this title, the Secretary concerned receives evidence, or, in a case covered by chapter 76 of title 10, the Secretary concerned determines pursuant to that chapter, that” for “the date the Secretary concerned receives evidence that”.
 
-Subsec. (g). Pub. L. 104–106, § 569(c)(3)(B), inserted “or under chapter 76 of title 10” after “section 555 of this title”.
+Subsec. (g). Pub. L. 104–106, § 569(c)(3)(B), inserted “or under chapter 76 of title 10” after “section 555 of this title”.
 
 1991—Subsecs. (e) to (g). Pub. L. 102–25 struck out “of this section” after “subsections (f) and (g)” in subsec. (e) and after “subsections (a)–(d)” in subsecs. (f) and (g).
 
-## [§ 554. Renumbered § 484]
+## [§ 554. Renumbered § 484]
 
-## § 555. Secretarial review
+## § 555. Secretarial review
 
 **(a)** Except as provided in subsection (d), when a member of a uniformed service entitled to pay and allowances under section 552 of this title has been in a missing status, and the official report of his death or of the circumstances of his absence has not been received by the Secretary concerned, he shall, before the end of a 12-month period in that status, have the case fully reviewed. After that review and the end of the 12-month period in a missing status, or after a later review which shall be made when warranted by information received or other circumstances, the Secretary concerned, or his designee, may—
 
@@ -276,16 +276,16 @@ That date is—
 
 **(d)** This section does not apply in a case to which section 1502 of title 10 applies.
 
-(Added Pub. L. 89–554, § 5(b), Sept. 6, 1966, 80 Stat. 628; amended Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, § 569(c)(1), Feb. 10, 1996, 110 Stat. 351.)
+(Added Pub. L. 89–554, § 5(b), Sept. 6, 1966, 80 Stat. 628; amended Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, § 569(c)(1), Feb. 10, 1996, 110 Stat. 351.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 555(a) | 50 App. 1005 (1st and 2d sentences). | Mar. 7, 1942, ch. 166, § 5, 56 Stat. 145; Dec. 24, 1942, ch. 828, § 1 (3d par.), 56 Stat. 1093; Aug. 14, 1964, Pub. L. 88–428, § 1(4), 78 Stat. 437. |
-|  | 50 App. 1014 (as applicable to § 1005 (1st sentence)). | Mar. 7, 1942, ch. 166, § 14 (as applicable to § 5 (1st sentence)), 56 Stat. 147; Apr. 4, 1953, ch. 17, § 1(e), 67 Stat. 21. |
+| 555(a) | 50 App. 1005 (1st and 2d sentences). | Mar. 7, 1942, ch. 166, § 5, 56 Stat. 145; Dec. 24, 1942, ch. 828, § 1 (3d par.), 56 Stat. 1093; Aug. 14, 1964, Pub. L. 88–428, § 1(4), 78 Stat. 437. |
+|  | 50 App. 1014 (as applicable to § 1005 (1st sentence)). | Mar. 7, 1942, ch. 166, § 14 (as applicable to § 5 (1st sentence)), 56 Stat. 147; Apr. 4, 1953, ch. 17, § 1(e), 67 Stat. 21. |
 | 555(b) | 50 App. 1005 (less 1st and 2d sentences). |  |
-| 555(c) | 50 App. 1009(b) (as applicable to § 1005). | Mar. 7, 1942, ch. 166, § 9(b) (as applicable to § 5); added Aug. 29, 1957, Pub. L. 85–217, § 1(c), 71 Stat. 492. |
+| 555(c) | 50 App. 1009(b) (as applicable to § 1005). | Mar. 7, 1942, ch. 166, § 9(b) (as applicable to § 5); added Aug. 29, 1957, Pub. L. 85–217, § 1(c), 71 Stat. 492. |
 
 Only that portion of the source law which is applicable to members of the uniformed services and their dependents is codified in this section.
 
@@ -293,19 +293,19 @@ In subsection (a), the words “member of a uniformed service” are substituted
 
 In subsection (b), the words “under subsection (a) of this section” are inserted for clarity. In clause (A), the words “day on which the 12-month period in a missing status ends” are substituted for “day of expiration of an absence of twelve months”. In clause (B), the words “under subsection (a) of this section” are substituted for “as hereinbefore authorized”. The words “Secretary concerned” are substituted for “head of the department concerned.” The words “or his designee” are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter.
 
-In subsection (c), the first sentence is substituted for 50 App. U.S.C. 1009(b) (1st 31 words, as applicable to § 1005). The words “Secretary concerned” are substituted for “head of the department concerned”. The words “or his designee” are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter. The words “departments and agencies of the United States” are substituted for “departments of the Government” in view of the definition of “department” in 50 App. U.S.C. 1001(d). The words “This subsection does not entitle” are substituted for “*Provided*, That nothing in this section shall be construed as conferring . . . any right”.
+In subsection (c), the first sentence is substituted for 50 App. U.S.C. 1009(b) (1st 31 words, as applicable to § 1005). The words “Secretary concerned” are substituted for “head of the department concerned”. The words “or his designee” are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter. The words “departments and agencies of the United States” are substituted for “departments of the Government” in view of the definition of “department” in 50 App. U.S.C. 1001(d). The words “This subsection does not entitle” are substituted for “*Provided*, That nothing in this section shall be construed as conferring . . . any right”.
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–106, § 569(c)(1)(A), substituted “Except as provided in subsection (d), when” for “When”.
+1996—Subsec. (a). Pub. L. 104–106, § 569(c)(1)(A), substituted “Except as provided in subsection (d), when” for “When”.
 
-Subsec. (d). Pub. L. 104–106, § 569(c)(1)(B), added subsec. (d).
+Subsec. (d). Pub. L. 104–106, § 569(c)(1)(B), added subsec. (d).
 
 1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)” in two places.
 
-## § 556. Secretarial determinations
+## § 556. Secretarial determinations
 
 **(a)** The Secretary concerned, or his designee, may make any determination necessary to administer this chapter and, when so made, it is conclusive as to—
 
@@ -339,52 +339,52 @@ Paragraphs (1), (5), (6), and (7) only apply with respect to a case to which sec
 
 **(h)** For the sole purpose of determining pay under this section, a dependent of a member of a uniformed service on active duty is treated as if he were a member. Any determination made by the Secretary concerned, or his designee, under this section in a case to which section 555 of this title applies is conclusive on all other departments and agencies of the United States. This subsection does not entitle a dependent to pay, allowances, or other compensation to which he is not otherwise entitled.
 
-(Added Pub. L. 89–554, § 5(b), Sept. 6, 1966, 80 Stat. 629; amended Pub. L. 104–106, div. A, title V, § 569(c)(4), Feb. 10, 1996, 110 Stat. 351.)
+(Added Pub. L. 89–554, § 5(b), Sept. 6, 1966, 80 Stat. 629; amended Pub. L. 104–106, div. A, title V, § 569(c)(4), Feb. 10, 1996, 110 Stat. 351.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 556(a) | 50 App. 1009(a) (1st and 2d sentences). | Mar. 7, 1942, ch. 166, § 9(a) (less 5th and last sentences); added July 1, 1944, ch. 371, § 5, 58 Stat. 680; Apr. 4, 1953, ch. 17, § 1(c), 67 Stat. 21; Aug. 29, 1957, Pub. L. 85–217, § 1(c), 71 Stat. 492. |
-|  | 50 App. 1010. | Mar. 7, 1942, ch. 166, § 10, 56 Stat. 145; July 1, 1944, ch. 371, § 6, 58 Stat. 681; Aug. 14, 1964, Pub. L. 88–428, § 1(7), 78 Stat. 437. |
+| 556(a) | 50 App. 1009(a) (1st and 2d sentences). | Mar. 7, 1942, ch. 166, § 9(a) (less 5th and last sentences); added July 1, 1944, ch. 371, § 5, 58 Stat. 680; Apr. 4, 1953, ch. 17, § 1(c), 67 Stat. 21; Aug. 29, 1957, Pub. L. 85–217, § 1(c), 71 Stat. 492. |
+|  | 50 App. 1010. | Mar. 7, 1942, ch. 166, § 10, 56 Stat. 145; July 1, 1944, ch. 371, § 6, 58 Stat. 681; Aug. 14, 1964, Pub. L. 88–428, § 1(7), 78 Stat. 437. |
 | 556(b) | 50 App. 1009(a) (3d and 4th sentences). |  |
 | 556(c) | 50 App. 1009(a) (6th sentence, less last proviso). |  |
-|  | 50 App. 1014 (as applicable to § 1009(a) (1st proviso of 6th sentence)). | Mar. 7, 1942, ch. 166, § 14 (as applicable to § 9(a) (1st proviso of 6th sentence)), 56 Stat. 147; Apr. 4, 1953, ch. 17, § 1(e), 67 Stat. 21. |
+|  | 50 App. 1014 (as applicable to § 1009(a) (1st proviso of 6th sentence)). | Mar. 7, 1942, ch. 166, § 14 (as applicable to § 9(a) (1st proviso of 6th sentence)), 56 Stat. 147; Apr. 4, 1953, ch. 17, § 1(e), 67 Stat. 21. |
 | 556(d) | 50 App. 1009(a) (7th sentence). |  |
 | 556(e) | 50 App. 1009(a) (last proviso of 6th sentence). |  |
 | 556(f) | 50 App. 1009(a) (8th sentence). |  |
 | 556(g) | 50 App. 1009(a) (9th sentence). |  |
-| 556(h) | 50 App. 1009(b) (as applicable to § 1009). | Mar. 7, 1942, ch. 166, § 9(b) (as applicable to § 9); added Aug. 29, 1957, Pub. L. 85–217, § 1(c), 71 Stat. 492. |
+| 556(h) | 50 App. 1009(b) (as applicable to § 1009). | Mar. 7, 1942, ch. 166, § 9(b) (as applicable to § 9); added Aug. 29, 1957, Pub. L. 85–217, § 1(c), 71 Stat. 492. |
 
 Only that portion of the source law which is applicable to members of the uniformed services and their dependents is codified in this section.
 
 In subsection (a), the words “Secretary concerned, or his designee,” are substituted for “head of the department concerned, or such subordinate as he may designate,”. The words “for the purposes of this Act” are omitted as unnecessary. The words “final and” in 50 App. U.S.C. 1010 are omitted as unnecessary and for consistency with 50 App. U.S.C. 1009(a) (1st sentence). In clause (2), the words “under this chapter” are substituted for “under the provisions of this Act”. In clause (4), the words “enlisted members of the armed forces” are substituted for “enlisted personnel in the Army, Navy, Air Force, Marine Corps, and Coast Guard of the United States” to conform to the definition in 37 U.S.C. 101(4). In clause (5), the words “covered by this chapter” are substituted for “dealt with by this Act”. In clause (6), the words “by the Secretary concerned” are substituted for “in such department or by the head thereof”. In clause (7), the word “member” is substituted for “person”.
 
-In subsection (b), the words “Secretary concerned . . . a member of a uniformed service, he shall . . . the member, act on it” are substituted for “any person . . . department concerned, action shall be taken thereon . . . such person”. In the second sentence, the words “After the end of the 12-month period in a missing status” are substituted for “If the twelve months’ absence . . . has expired”. The words “the Secretary concerned, or his designee” are inserted for clarity. The words “a member” are substituted for “any person”. The words “missing status” are substituted for “missing or other status” in view of the definition in revised section 551(2) of this chapter. The words “is dead” are substituted for “is no longer alive” for consistency with references in this section to “death”.
+In subsection (b), the words “Secretary concerned . . . a member of a uniformed service, he shall . . . the member, act on it” are substituted for “any person . . . department concerned, action shall be taken thereon . . . such person”. In the second sentence, the words “After the end of the 12-month period in a missing status” are substituted for “If the twelve months’ absence . . . has expired”. The words “the Secretary concerned, or his designee” are inserted for clarity. The words “a member” are substituted for “any person”. The words “missing status” are substituted for “missing or other status” in view of the definition in revised section 551(2) of this chapter. The words “is dead” are substituted for “is no longer alive” for consistency with references in this section to “death”.
 
-In subsection (c), the words “Secretary concerned, or his designee . . . may . . . a member . . . under this chapter” are substituted for “head of the department concerned, or by such subordinate as he may designate . . . are authorized to . . . any person . . . under provisions of this Act”. The words “a member” are substituted for “any person”. The words “captured, beleaguered, or besieged by a hostile force” are substituted for “in the hands of a hostile force” on authority of 50 App. U.S.C. 1014.
+In subsection (c), the words “Secretary concerned, or his designee . . . may . . . a member . . . under this chapter” are substituted for “head of the department concerned, or by such subordinate as he may designate . . . are authorized to . . . any person . . . under provisions of this Act”. The words “a member” are substituted for “any person”. The words “captured, beleaguered, or besieged by a hostile force” are substituted for “in the hands of a hostile force” on authority of 50 App. U.S.C. 1014.
 
 In subsection (d), the words “Secretary concerned, or his designee” are substituted for “head of the department concerned, or such subordinate as he may designate”. The words “under this chapter” are substituted for “authorized to be made by this Act”.
 
-In subsection (e), the words “a member . . . allotment paid under this chapter” are substituted for “any person . . . allotments paid pursuant to this Act”. The words “the member if the Secretary concerned, or his designee . . . the payment . . . the member” are substituted for “such person’s . . . in any case in which . . . the head of the department concerned, or such subordinate as he may designate . . . such person”.
+In subsection (e), the words “a member . . . allotment paid under this chapter” are substituted for “any person . . . allotments paid pursuant to this Act”. The words “the member if the Secretary concerned, or his designee . . . the payment . . . the member” are substituted for “such person’s . . . in any case in which . . . the head of the department concerned, or such subordinate as he may designate . . . such person”.
 
 In subsection (f), the words “may not be collected” are substituted for “shall not be subject to collection” in two places. The word “member” is substituted for “person”.
 
 In subsection (g), the words “Secretary concerned, or his designee,” are substituted for “head of the department concerned, or such subordinate as he may designated,”.
 
-In subsection (h), the first sentence is substituted for 50 App. U.S.C. 1009(b) (1st 33 words, as applicable to § 1009). The words “Secretary concerned” are substituted for “head of the department concerned.” The words “or his designee” are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter. The words “departments and agencies of the United States” are substituted for “departments of the Government” in view of the definition of “department” in 50 App. U.S.C. 1001(b). The words “This subsection does not entitle” are substituted for “*Provided*, That nothing in this section shall be construed as conferring . . . any right”.
+In subsection (h), the first sentence is substituted for 50 App. U.S.C. 1009(b) (1st 33 words, as applicable to § 1009). The words “Secretary concerned” are substituted for “head of the department concerned.” The words “or his designee” are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter. The words “departments and agencies of the United States” are substituted for “departments of the Government” in view of the definition of “department” in 50 App. U.S.C. 1001(b). The words “This subsection does not entitle” are substituted for “*Provided*, That nothing in this section shall be construed as conferring . . . any right”.
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–106, § 569(c)(4)(A), inserted concluding provisions.
+1996—Subsec. (a). Pub. L. 104–106, § 569(c)(4)(A), inserted concluding provisions.
 
-Subsec. (b). Pub. L. 104–106, § 569(c)(4)(B), inserted “, in a case to which section 555 of this title applies,” after “When the Secretary concerned”.
+Subsec. (b). Pub. L. 104–106, § 569(c)(4)(B), inserted “, in a case to which section 555 of this title applies,” after “When the Secretary concerned”.
 
-Subsec. (h). Pub. L. 104–106, § 569(c)(4)(C), substituted “determining pay” for “determining status” and inserted “in a case to which section 555 of this title applies” after “designee, under this section”.
+Subsec. (h). Pub. L. 104–106, § 569(c)(4)(C), substituted “determining pay” for “determining status” and inserted “in a case to which section 555 of this title applies” after “designee, under this section”.
 
-## § 557. Settlement of accounts
+## § 557. Settlement of accounts
 
 **(a)** The Secretary concerned, or his designee, may settle the account of—
 
@@ -398,14 +398,14 @@ That settlement is conclusive on the accounting officers of the United States in
 
 **(c)** In the settlement of his accounts, a disbursing officer is entitled, if there is no fraud or criminality by him, to credit for an erroneous payment or overpayment he made in carrying out this chapter, except section 558 of this title. Unless there is fraud or criminality by him, recovery may not be made from a civilian officer or employee or a member of a uniformed service who authorizes a payment under this chapter, except section 558 of this title.
 
-(Added Pub. L. 89–554, § 5(b), Sept. 6, 1966, 80 Stat. 630; amended Pub. L. 99–145, title XIII, § 1303(b)(11), Nov. 8, 1985, 99 Stat. 741.)
+(Added Pub. L. 89–554, § 5(b), Sept. 6, 1966, 80 Stat. 630; amended Pub. L. 99–145, title XIII, § 1303(b)(11), Nov. 8, 1985, 99 Stat. 741.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 557(a) | 50 App. 1011. | Mar. 7, 1942, ch. 166, § 11, 56 Stat. 146. |
-| 557(b)   557(c) | 50 App. 1009(a) (5th sentence). 50 App. 1009(a) (last sentence). | Mar. 7, 1942, ch. 166, § 9(a) (5th and last sentences); added July 1, 1944, ch. 371, § 5, 58 Stat. 680; Aug. 29, 1957, Pub. L. 85–217, § 1(c), 71 Stat. 492. |
+| 557(a) | 50 App. 1011. | Mar. 7, 1942, ch. 166, § 11, 56 Stat. 146. |
+| 557(b) 557(c) | 50 App. 1009(a) (5th sentence). 50 App. 1009(a) (last sentence). | Mar. 7, 1942, ch. 166, § 9(a) (5th and last sentences); added July 1, 1944, ch. 371, § 5, 58 Stat. 680; Aug. 29, 1957, Pub. L. 85–217, § 1(c), 71 Stat. 492. |
 
 Only that portion of the source law which is applicable to members of the uniformed services and their dependents is codified in this section.
 
@@ -419,7 +419,7 @@ In subsection (c), the words “in carrying out this chapter, except section 558
 
 1985—Subsec. (c). Pub. L. 99–145 inserted “of this title” after “558” in two places.
 
-## § 558. Income tax deferment
+## § 558. Income tax deferment
 
 Notwithstanding any other provision of law, a Federal income tax return of, or the payment of a Federal income tax by, a member of a uniformed service who, at the time the return or payment would otherwise become due, is in a missing status, does not become due until the earlier of the following dates—
 
@@ -429,13 +429,13 @@ Notwithstanding any other provision of law, a Federal income tax return of, or t
 
 That due date is prescribed subject to the power of the Secretary of the Treasury or his delegate to extend the time for filing the return or paying the tax, as in other cases, and to assess and collect the tax as provided by sections 6851, 6861, and 6871 of the Internal Revenue Code of 1986 in cases in which the assessment or collection is jeopardized and in cases of bankruptcy or receivership.
 
-(Added Pub. L. 89–554, § 5(b), Sept. 6, 1966, 80 Stat. 631; amended Pub. L. 96–513, title V, § 516(16), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 100–26, § 8(c), Apr. 21, 1987, 101 Stat. 285.)
+(Added Pub. L. 89–554, § 5(b), Sept. 6, 1966, 80 Stat. 631; amended Pub. L. 96–513, title V, § 516(16), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 100–26, § 8(c), Apr. 21, 1987, 101 Stat. 285.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 558 | 50 App. 1013. | Mar. 7, 1942, ch. 166, § 13, 56 Stat. 146; Aug. 8, 1947, ch. 515, § 6, 61 Stat. 918; Aug. 14, 1964, Pub. L. 88–428, § 1(9), 78 Stat. 437. |
+| 558 | 50 App. 1013. | Mar. 7, 1942, ch. 166, § 13, 56 Stat. 146; Aug. 8, 1947, ch. 515, § 6, 61 Stat. 918; Aug. 14, 1964, Pub. L. 88–428, § 1(9), 78 Stat. 437. |
 
 Only that portion of the source law which is applicable to members of the uniformed services and their dependents is codified in this section.
 
@@ -461,7 +461,7 @@ Sections 6851, 6861, and 6871 of the Internal Revenue Code of 1986, referred to 
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-## § 559. Benefits for members held as captives
+## § 559. Benefits for members held as captives
 
 **(a)** In this section:
 
@@ -517,7 +517,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **(d)** A determination by the President under subsection (a)(1) or (c) is final and is not subject to judicial review.
 
-(Added Pub. L. 99–399, title VIII, § 806(a)(1), Aug. 27, 1986, 100 Stat. 884; amended Pub. L. 100–26, § 8(e)(11), Apr. 21, 1987, 101 Stat. 287; Pub. L. 101–510, div. A, title XIV, § 1484(d)(4), (e)(2), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 102–25, title VII, § 702(b)(1)–(4), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, § 1054(a)(6), (c)(2), Oct. 23, 1992, 106 Stat. 2502.)
+(Added Pub. L. 99–399, title VIII, § 806(a)(1), Aug. 27, 1986, 100 Stat. 884; amended Pub. L. 100–26, § 8(e)(11), Apr. 21, 1987, 101 Stat. 287; Pub. L. 101–510, div. A, title XIV, § 1484(d)(4), (e)(2), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 102–25, title VII, § 702(b)(1)–(4), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, § 1054(a)(6), (c)(2), Oct. 23, 1992, 106 Stat. 2502.)
 
 **Editorial Notes**
 
@@ -527,31 +527,31 @@ Section 802 of the Victims of Terrorism Compensation Act, referred to in subsec.
 
 **Amendments**
 
-1992—Subsec. (c)(3)(A)(i). Pub. L. 102–484, § 1054(c)(2), made technical correction to directory language of Pub. L. 102–25, § 702(b)(4). See 1991 Amendment note below.
+1992—Subsec. (c)(3)(A)(i). Pub. L. 102–484, § 1054(c)(2), made technical correction to directory language of Pub. L. 102–25, § 702(b)(4). See 1991 Amendment note below.
 
-Pub. L. 102–484, § 1054(a)(6), made amendment identical to amendment by Pub. L. 102–25, § 702(b)(4). See 1991 Amendment note below.
+Pub. L. 102–484, § 1054(a)(6), made amendment identical to amendment by Pub. L. 102–25, § 702(b)(4). See 1991 Amendment note below.
 
-1991—Subsec. (c)(1). Pub. L. 102–25, § 702(b)(2), struck out “of this subsection” after “paragraph (3)”.
+1991—Subsec. (c)(1). Pub. L. 102–25, § 702(b)(2), struck out “of this subsection” after “paragraph (3)”.
 
-Subsec. (c)(3)(A)(i). Pub. L. 102–25, § 702(b)(4), as amended by Pub. L. 102–484, § 1054(c)(2), struck out “of this subparagraph” after “clause (ii)”.
+Subsec. (c)(3)(A)(i). Pub. L. 102–25, § 702(b)(4), as amended by Pub. L. 102–484, § 1054(c)(2), struck out “of this subparagraph” after “clause (ii)”.
 
-Subsec. (c)(3)(B). Pub. L. 102–25, § 702(b)(3), struck out “of this paragraph” after “subparagraph (A)”.
+Subsec. (c)(3)(B). Pub. L. 102–25, § 702(b)(3), struck out “of this paragraph” after “subparagraph (A)”.
 
-Subsec. (c)(6). Pub. L. 102–25, § 702(b)(2), struck out “of this subsection” after “paragraph (1)” and after “paragraph (3)(A)(ii)”.
+Subsec. (c)(6). Pub. L. 102–25, § 702(b)(2), struck out “of this subsection” after “paragraph (1)” and after “paragraph (3)(A)(ii)”.
 
-Subsec. (d). Pub. L. 102–25, § 702(b)(1), struck out “of this section” after “(c)”.
+Subsec. (d). Pub. L. 102–25, § 702(b)(1), struck out “of this section” after “(c)”.
 
-1990—Subsec. (a)(1). Pub. L. 101–510, § 1484(d)(4), substituted “August 27, 1986” for “the date of the enactment of the Victims of Terrorism Compensation Act”.
+1990—Subsec. (a)(1). Pub. L. 101–510, § 1484(d)(4), substituted “August 27, 1986” for “the date of the enactment of the Victims of Terrorism Compensation Act”.
 
-Subsec. (c)(2). Pub. L. 101–510, § 1484(e)(2), inserted “(5 U.S.C. 5569 note)” after “Terrorism Compensation Act”.
+Subsec. (c)(2). Pub. L. 101–510, § 1484(e)(2), inserted “(5 U.S.C. 5569 note)” after “Terrorism Compensation Act”.
 
-1987—Subsec. (a). Pub. L. 100–26 substituted “In this section:” for “In this section—”, inserted “The term” at beginning of pars. (1) and (2), and substituted period for “; and” at end of par. (1).
+1987—Subsec. (a). Pub. L. 100–26 substituted “In this section:” for “In this section—”, inserted “The term” at beginning of pars. (1) and (2), and substituted period for “; and” at end of par. (1).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date; Payments; Interest**
 
-Pub. L. 99–399, title VIII, § 806(a)(3), Aug. 27, 1986, 100 Stat. 885, provided that:
+Pub. L. 99–399, title VIII, § 806(a)(3), Aug. 27, 1986, 100 Stat. 885, provided that:
 
 > **“(A)**
 
@@ -569,17 +569,17 @@ Pub. L. 99–399, title VIII, § 806(a)(3), Aug. 27, 1986, 100 Stat. 885, prov
 
 **Recalculation of Previous Payments**
 
-Pub. L. 110–181, div. A, title VI, § 675(b), Jan. 28, 2008, 122 Stat. 187, provided that:
+Pub. L. 110–181, div. A, title VI, § 675(b), Jan. 28, 2008, 122 Stat. 187, provided that:
 
-> “In the case of any payment of back pay made to or for a person under section 667 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 [Pub. L. 106–398, § 1 [[div. A], title VI, § 667], set out below] before the date of the enactment of this Act [Jan. 28, 2008], the Secretary of the Navy shall—
+> “In the case of any payment of back pay made to or for a person under section 667 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 [Pub. L. 106–398, § 1 [[div. A], title VI, § 667], set out below] before the date of the enactment of this Act [Jan. 28, 2008], the Secretary of the Navy shall—
 
-> **“(1)** recalculate the amount of back pay to which the person is entitled by reason of the amendment made by subsection (a) [amending Pub. L. 106–398, § 1 [[div. A], title VI, § 667], set out below]; and
+> **“(1)** recalculate the amount of back pay to which the person is entitled by reason of the amendment made by subsection (a) [amending Pub. L. 106–398, § 1 [[div. A], title VI, § 667], set out below]; and
 
 > **“(2)** if the amount of back pay, as so recalculated, exceeds the amount of back pay so paid, pay the person, or the surviving spouse of the person, an amount equal to the excess.”
 
 **Back Pay for Members of the Navy and Marine Corps Selected for Promotion While Interned as Prisoners of War During World War II**
 
-Pub. L. 106–398, § 1 [[div. A], title VI, § 667], Oct. 30, 2000, 114 Stat. 1654, 1654A–169, as amended by Pub. L. 110–181, div. A, title VI, § 675(a), Jan. 28, 2008, 122 Stat. 186, provided that:
+Pub. L. 106–398, § 1 [[div. A], title VI, § 667], Oct. 30, 2000, 114 Stat. 1654, 1654A–169, as amended by Pub. L. 110–181, div. A, title VI, § 675(a), Jan. 28, 2008, 122 Stat. 186, provided that:
 
 > **“(a) Entitlement of Former Prisoners of War.—** Upon receipt of a claim made in accordance with this section, the Secretary of the Navy shall pay, from any appropriation currently available to the Secretary, back pay to any person who, by reason of being interned as a prisoner of war while serving as a member of the Navy or the Marine Corps during World War II, was not available to accept a promotion for which the person had been selected.
 

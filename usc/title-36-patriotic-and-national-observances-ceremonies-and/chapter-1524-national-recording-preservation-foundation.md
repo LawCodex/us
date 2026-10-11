@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1524—NATIONAL RECORDING PRESERVATION FOUNDATION"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1524—NATIONAL RECORDING PRESERVATION FOUNDATION"
 identifier: "/us/usc/t36/stII/ptB/ch1524"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1524—NATIONAL RECORDING PRESERVATION FOUNDATION
 
-## § 152401. Organization
+## § 152401. Organization
 
 **(a) Federal Charter.—** The National Recording Preservation Foundation (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -23,9 +23,9 @@ retrieved: 2026-10-11
 
 **(c) Perpetual Existence.—** Except as otherwise provided, the corporation has perpetual existence.
 
-(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2091.)
+(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2091.)
 
-## § 152402. Purposes
+## § 152402. Purposes
 
 The purposes of the corporation are to—
 
@@ -33,15 +33,15 @@ The purposes of the corporation are to—
 
 **(2)** further the goals of the Library of Congress and the National Recording Preservation Board in connection with their activities under the National Recording Preservation Act of 2000.
 
-(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2092.)
+(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2092.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Recording Preservation Act of 2000, referred to in par. (2), is Pub. L. 106–474, Nov. 9, 2000, 114 Stat. 2085, which enacted this chapter and chapter 27 (§ 1701 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 2 and Tables.
+The National Recording Preservation Act of 2000, referred to in par. (2), is Pub. L. 106–474, Nov. 9, 2000, 114 Stat. 2085, which enacted this chapter and chapter 27 (§ 1701 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 2 and Tables.
 
-## § 152403. Board of directors
+## § 152403. Board of directors
 
 **(a) General.—** The board of directors is the governing body of the corporation.
 
@@ -73,7 +73,7 @@ The National Recording Preservation Act of 2000, referred to in par. (2), is Pub
 
 **(g) Liability of Directors.—** Directors are not personally liable, except for gross negligence.
 
-(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2092; amended Pub. L. 110–336, § 2(b)(2), Oct. 2, 2008, 122 Stat. 3727; Pub. L. 114–217, § 2(b)(2), July 29, 2016, 130 Stat. 840.)
+(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2092; amended Pub. L. 110–336, § 2(b)(2), Oct. 2, 2008, 122 Stat. 3727; Pub. L. 114–217, § 2(b)(2), July 29, 2016, 130 Stat. 840.)
 
 **Editorial Notes**
 
@@ -83,13 +83,13 @@ The date of the enactment of this chapter, referred to in subsec. (b), is the da
 
 **Amendments**
 
-2016—Subsec. (b)(2)(A). Pub. L. 114–217, § 2(b)(2)(A), substituted “12 directors” for “nine directors”.
+2016—Subsec. (b)(2)(A). Pub. L. 114–217, § 2(b)(2)(A), substituted “12 directors” for “nine directors”.
 
-Subsec. (b)(2)(C). Pub. L. 114–217, § 2(b)(2)(B), substituted “8 directors” for “six directors” in two places.
+Subsec. (b)(2)(C). Pub. L. 114–217, § 2(b)(2)(B), substituted “8 directors” for “six directors” in two places.
 
 2008—Subsec. (b)(4). Pub. L. 110–336 struck out at end “An individual may not serve more than two consecutive terms.”
 
-## § 152404. Officers and employees
+## § 152404. Officers and employees
 
 **(a) Secretary of the Board.—**
 
@@ -115,7 +115,7 @@ Subsec. (b)(2)(C). Pub. L. 114–217, § 2(b)(2)(B), substituted “8 director
 
 **(3)** may be paid without regard to chapter 51 and subchapter III of chapter 53 of title 5, except that an employee may not be paid more than the annual rate of basic pay for level 15 of the General Schedule under section 5107 of title 5.
 
-(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2093.)
+(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2093.)
 
 **Editorial Notes**
 
@@ -123,7 +123,7 @@ Subsec. (b)(2)(C). Pub. L. 114–217, § 2(b)(2)(B), substituted “8 director
 
 The General Schedule, referred to in subsec. (d)(3), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-## § 152405. Powers
+## § 152405. Powers
 
 **(a) General.—** The corporation may—
 
@@ -151,7 +151,7 @@ The General Schedule, referred to in subsec. (d)(3), is set out under section 53
 
 **(c) Encumbered or Restricted Gifts.—** A gift, devise, or bequest may be accepted by the corporation even though it is encumbered, restricted, or subject to beneficial interests of private persons, if any current or future interest is for the benefit of the corporation.
 
-(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2093; amended Pub. L. 110–336, § 2(b)(3)(B), Oct. 2, 2008, 122 Stat. 3727.)
+(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2093; amended Pub. L. 110–336, § 2(b)(3)(B), Oct. 2, 2008, 122 Stat. 3727.)
 
 **Editorial Notes**
 
@@ -159,11 +159,11 @@ The General Schedule, referred to in subsec. (d)(3), is set out under section 53
 
 2008—Subsec. (b). Pub. L. 110–336 substituted “jurisdiction in which the principal office of the corporation is located,” for “District of Columbia,” in introductory provisions.
 
-## § 152406. Principal office
+## § 152406. Principal office
 
 The principal office of the corporation shall be in the District of Columbia or another place as determined by the Board of Directors. However, the corporation may conduct business throughout the States, territories, and possessions of the United States.
 
-(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2094; amended Pub. L. 110–336, § 2(b)(3)(A), Oct. 2, 2008, 122 Stat. 3727.)
+(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2094; amended Pub. L. 110–336, § 2(b)(3)(A), Oct. 2, 2008, 122 Stat. 3727.)
 
 **Editorial Notes**
 
@@ -171,7 +171,7 @@ The principal office of the corporation shall be in the District of Columbia or 
 
 2008—Pub. L. 110–336 substituted “District of Columbia or another place as determined by the Board of Directors” for “District of Columbia”.
 
-## § 152407. Provision and acceptance of support by Librarian of Congress
+## § 152407. Provision and acceptance of support by Librarian of Congress
 
 **(a) Provision by Librarian.—**
 
@@ -181,15 +181,15 @@ The principal office of the corporation shall be in the District of Columbia or 
 
 **(b) Acceptance by Librarian.—** The Librarian may accept, without regard to chapters 33 and 51 and subchapter III of chapter 53 of title 5 and related regulations, the services of the corporation and its directors, officers, and employees as volunteers in performing functions authorized under this chapter, without compensation from the Library of Congress.
 
-(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2094.)
+(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2094.)
 
-## § 152408. Service of process
+## § 152408. Service of process
 
 The corporation shall have a designated agent to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
-(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2094.)
+(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2094.)
 
-## § 152409. Civil action by Attorney General for equitable relief
+## § 152409. Civil action by Attorney General for equitable relief
 
 The Attorney General may bring a civil action in the United States District Court for the District of Columbia for appropriate equitable relief if the corporation—
 
@@ -197,21 +197,21 @@ The Attorney General may bring a civil action in the United States District Cour
 
 **(2)** refuses, fails, or neglects to carry out its obligations under this chapter or threatens to do so.
 
-(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2094.)
+(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2094.)
 
-## § 152410. Immunity of United States Government
+## § 152410. Immunity of United States Government
 
 The United States Government is not liable for any debts, defaults, acts, or omissions of the corporation. The full faith and credit of the Government does not extend to any obligation of the corporation.
 
-(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2094.)
+(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2094.)
 
-## § 152411. Authorization of appropriations
+## § 152411. Authorization of appropriations
 
 **(a) Authorization.—** There are authorized to be appropriated to the corporation for the first fiscal year beginning on or after the date of the enactment of this chapter and each succeeding fiscal year through fiscal year 2026 an amount not to exceed the lesser of $1,000,000 or the amount of private contributions (whether in currency, services, or property) made to the corporation by private persons and State and local governments.
 
 **(b) Limitation Related to Administrative Expenses.—** Amounts authorized under this section may not be used by the corporation for management and general or fundraising expenses as reported to the Internal Revenue Service as part of an annual information return required under the Internal Revenue Code of 1986.
 
-(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2094; amended Pub. L. 110–336, § 2(b)(1)(A), (4), Oct. 2, 2008, 122 Stat. 3726, 3727; Pub. L. 114–217, § 2(b)(1), July 29, 2016, 130 Stat. 840.)
+(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2094; amended Pub. L. 110–336, § 2(b)(1)(A), (4), Oct. 2, 2008, 122 Stat. 3726, 3727; Pub. L. 114–217, § 2(b)(1), July 29, 2016, 130 Stat. 840.)
 
 **Editorial Notes**
 
@@ -225,18 +225,18 @@ The Internal Revenue Code of 1986, referred to in subsec. (b), is classified gen
 
 2016—Subsec. (a). Pub. L. 114–217 substituted “through fiscal year 2026 an amount not to exceed the lesser of $1,000,000 or” for “through fiscal year 2016 an amount not to exceed”.
 
-2008—Subsec. (a). Pub. L. 110–336, § 2(b)(1)(A), substituted “for the first fiscal year beginning on or after the date of the enactment of this chapter and each succeeding fiscal year through fiscal year 2016” for “for each of the first 7 fiscal years beginning on or after the date of the enactment of this chapter”.
+2008—Subsec. (a). Pub. L. 110–336, § 2(b)(1)(A), substituted “for the first fiscal year beginning on or after the date of the enactment of this chapter and each succeeding fiscal year through fiscal year 2016” for “for each of the first 7 fiscal years beginning on or after the date of the enactment of this chapter”.
 
-Subsec. (b). Pub. L. 110–336, § 2(b)(4), amended subsec. (b) generally. Prior to amendment, text read as follows: “Except as permitted under section 152407, amounts authorized under this section may not be used by the corporation for administrative expenses of the corporation, including salaries, travel, transportation, and overhead expenses.”
+Subsec. (b). Pub. L. 110–336, § 2(b)(4), amended subsec. (b) generally. Prior to amendment, text read as follows: “Except as permitted under section 152407, amounts authorized under this section may not be used by the corporation for administrative expenses of the corporation, including salaries, travel, transportation, and overhead expenses.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–336, § 2(b)(1)(B), Oct. 2, 2008, 122 Stat. 3726, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the enactment of the National Recording Preservation Act of 2000 [Pub. L. 106–474].”
+Pub. L. 110–336, § 2(b)(1)(B), Oct. 2, 2008, 122 Stat. 3726, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the enactment of the National Recording Preservation Act of 2000 [Pub. L. 106–474].”
 
-## § 152412. Annual report
+## § 152412. Annual report
 
 As soon as practicable after the end of each fiscal year, the corporation shall submit a report to the Librarian for transmission to Congress on the activities of the corporation during the prior fiscal year, including a complete statement of its receipts, expenditures, and investments.
 
-(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2095.)
+(Added Pub. L. 106–474, title II, § 201(a), Nov. 9, 2000, 114 Stat. 2095.)

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 55—COASTAL BARRIER RESOURCES
 
-## § 3501. Congressional statement of findings and purpose
+## § 3501. Congressional statement of findings and purpose
 
 **(a)** The Congress finds that—
 
@@ -35,13 +35,13 @@ retrieved: 2026-10-11
 
 **(b)** The Congress declares that it is the purpose of this chapter to minimize the loss of human life, wasteful expenditure of Federal revenues, and the damage to fish, wildlife, and other natural resources associated with the coastal barriers along the Atlantic and Gulf coasts and along the shore areas of the Great Lakes by restricting future Federal expenditures and financial assistance which have the effect of encouraging development of coastal barriers, by establishing the John H. Chafee Coastal Barrier Resources System, and by considering the means and measures by which the long-term conservation of these fish, wildlife, and other natural resources may be achieved.
 
-(Pub. L. 97–348, § 2, Oct. 18, 1982, 96 Stat. 1653; Pub. L. 100–707, title II, § 204(c)(1), Nov. 23, 1988, 102 Stat. 4714; Pub. L. 106–167, § 3(c)(1), Dec. 9, 1999, 113 Stat. 1804.)
+(Pub. L. 97–348, § 2, Oct. 18, 1982, 96 Stat. 1653; Pub. L. 100–707, title II, § 204(c)(1), Nov. 23, 1988, 102 Stat. 4714; Pub. L. 106–167, § 3(c)(1), Dec. 9, 1999, 113 Stat. 1804.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 97–348, Oct. 18, 1982, 96 Stat. 1653, known as the Coastal Barrier Resources Act, which is classified generally to this chapter (§ 3501 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 97–348, Oct. 18, 1982, 96 Stat. 1653, known as the Coastal Barrier Resources Act, which is classified generally to this chapter (§ 3501 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 **Amendments**
 
@@ -53,37 +53,37 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–117, § 1, Nov. 25, 2024, 138 Stat. 1608, provided that: “This Act [amending sections 3502 to 3506 and 3510 of this title and enacting provisions set out as a note under section 3504 of this title and listed in a table of Revision of Maps for Units of System set out under section 3503 of this title] may be cited as the ‘Bolstering Ecosystems Against Coastal Harm Act’ or the ‘BEACH Act’.”
+Pub. L. 118–117, § 1, Nov. 25, 2024, 138 Stat. 1608, provided that: “This Act [amending sections 3502 to 3506 and 3510 of this title and enacting provisions set out as a note under section 3504 of this title and listed in a table of Revision of Maps for Units of System set out under section 3503 of this title] may be cited as the ‘Bolstering Ecosystems Against Coastal Harm Act’ or the ‘BEACH Act’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–358, § 1, Dec. 21, 2018, 132 Stat. 5078, provided that: “This Act [amending section 3503 of this title and enacting and amending provisions set out as notes under section 3503 of this title] may be cited as the ‘Strengthening Coastal Communities Act of 2018’.”
+Pub. L. 115–358, § 1, Dec. 21, 2018, 132 Stat. 5078, provided that: “This Act [amending section 3503 of this title and enacting and amending provisions set out as notes under section 3503 of this title] may be cited as the ‘Strengthening Coastal Communities Act of 2018’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–514, § 1, Nov. 13, 2000, 114 Stat. 2394, provided that: “This Act [amending sections 3502, 3503, and 3510 of this title, repealing section 3509 of this title, enacting provisions set out as notes under this section and section 3503 of this title, and amending and repealing provisions set out as notes under section 3503 of this title] may be cited as the ‘Coastal Barrier Resources Reauthorization Act of 2000’.”
+Pub. L. 106–514, § 1, Nov. 13, 2000, 114 Stat. 2394, provided that: “This Act [amending sections 3502, 3503, and 3510 of this title, repealing section 3509 of this title, enacting provisions set out as notes under this section and section 3503 of this title, and amending and repealing provisions set out as notes under section 3503 of this title] may be cited as the ‘Coastal Barrier Resources Reauthorization Act of 2000’.”
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–167, § 1, Dec. 9, 1999, 113 Stat. 1803, provided that: “This Act [amending this section and sections 3502, 3503, and 3509 of this title, section 1441a–3 of Title 12, Banks and Banking, and section 4028 of Title 42, The Public Health and Welfare, and enacting and amending provisions set out as notes under section 3503 of this title] may be cited as the ‘John H. Chafee Coastal Barrier Resources System Act’.”
+Pub. L. 106–167, § 1, Dec. 9, 1999, 113 Stat. 1803, provided that: “This Act [amending this section and sections 3502, 3503, and 3509 of this title, section 1441a–3 of Title 12, Banks and Banking, and section 4028 of Title 42, The Public Health and Welfare, and enacting and amending provisions set out as notes under section 3503 of this title] may be cited as the ‘John H. Chafee Coastal Barrier Resources System Act’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–591, § 1, Nov. 16, 1990, 104 Stat. 2931, provided that: “This Act [enacting section 1441a–3 of Title 12, Banks and Banking, amending sections 3502 to 3506 and 3510 of this title and section 4028 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 3503 of this title, and repealing provisions set out as a note under section 3505 of this title] may be cited as the ‘Coastal Barrier Improvement Act of 1990’.”
+Pub. L. 101–591, § 1, Nov. 16, 1990, 104 Stat. 2931, provided that: “This Act [enacting section 1441a–3 of Title 12, Banks and Banking, amending sections 3502 to 3506 and 3510 of this title and section 4028 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 3503 of this title, and repealing provisions set out as a note under section 3505 of this title] may be cited as the ‘Coastal Barrier Improvement Act of 1990’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–707, title II, § 204(a), Nov. 23, 1988, 102 Stat. 4713, provided that: “This section [amending this section and sections 3502 and 3503 of this title and enacting provisions set out as a note under section 3505 of this title] may be cited as the ‘Great Lakes Coastal Barrier Act of 1988’.”
+Pub. L. 100–707, title II, § 204(a), Nov. 23, 1988, 102 Stat. 4713, provided that: “This section [amending this section and sections 3502 and 3503 of this title and enacting provisions set out as a note under section 3505 of this title] may be cited as the ‘Great Lakes Coastal Barrier Act of 1988’.”
 
 **Short Title**
 
-Pub. L. 97–348, § 1, Oct. 18, 1982, 96 Stat. 1653, provided that: “This Act [enacting this chapter, amending section 4028 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 4028 of Title 42] may be cited as the ‘Coastal Barrier Resources Act’.”
+Pub. L. 97–348, § 1, Oct. 18, 1982, 96 Stat. 1653, provided that: “This Act [enacting this chapter, amending section 4028 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 4028 of Title 42] may be cited as the ‘Coastal Barrier Resources Act’.”
 
 **Economic Assessment of John H. Chafee Coastal Barrier Resources System**
 
-Pub. L. 106–514, § 7, Nov. 13, 2000, 114 Stat. 2397, required the Secretary of the Interior to submit to Congress, no later than 1 year after Nov. 13, 2000, an economic assessment of the John H. Chafee Coastal Barrier Resources System that would consider the impact on Federal expenditures of the Coastal Barrier Resources Act (16 U.S.C. 3501 et seq.).
+Pub. L. 106–514, § 7, Nov. 13, 2000, 114 Stat. 2397, required the Secretary of the Interior to submit to Congress, no later than 1 year after Nov. 13, 2000, an economic assessment of the John H. Chafee Coastal Barrier Resources System that would consider the impact on Federal expenditures of the Coastal Barrier Resources Act (16 U.S.C. 3501 et seq.).
 
-## § 3502. Definitions
+## § 3502. Definitions
 
 **(a) In general** For purposes of this chapter:
 
@@ -151,7 +151,7 @@ The term “undeveloped coastal barrier” means a coastal barrier the features 
 
 Nothing in this section supersedes the official maps described in section 3503(a) of this title.
 
-(Pub. L. 97–348, § 3, Oct. 18, 1982, 96 Stat. 1653; Pub. L. 99–272, title XIV, § 14001(b)(5), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–707, title II, § 204(c)(2), Nov. 23, 1988, 102 Stat. 4714; Pub. L. 101–591, § 2(a), (b)(1), (c), Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, § 3(c)(2), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, § 4(a)(1), (2), Nov. 13, 2000, 114 Stat. 2396; Pub. L. 118–117, title I, § 101, Nov. 25, 2024, 138 Stat. 1608.)
+(Pub. L. 97–348, § 3, Oct. 18, 1982, 96 Stat. 1653; Pub. L. 99–272, title XIV, § 14001(b)(5), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–707, title II, § 204(c)(2), Nov. 23, 1988, 102 Stat. 4714; Pub. L. 101–591, § 2(a), (b)(1), (c), Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, § 3(c)(2), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, § 4(a)(1), (2), Nov. 13, 2000, 114 Stat. 2396; Pub. L. 118–117, title I, § 101, Nov. 25, 2024, 138 Stat. 1608.)
 
 **Editorial Notes**
 
@@ -159,17 +159,17 @@ Nothing in this section supersedes the official maps described in section 3503(a
 
 2024—Pub. L. 118–117 amended section generally. Prior to amendment, section defined terms for this chapter.
 
-2000—Par. (2). Pub. L. 106–514, § 4(a)(1), substituted “means the Committee on Resources” for “refers to the Committee on Merchant Marine and Fisheries”.
+2000—Par. (2). Pub. L. 106–514, § 4(a)(1), substituted “means the Committee on Resources” for “refers to the Committee on Merchant Marine and Fisheries”.
 
-Par. (3). Pub. L. 106–514, § 4(a)(2), substituted “Such” for “Effective October 1, 1983, such” in concluding provisions.
+Par. (3). Pub. L. 106–514, § 4(a)(2), substituted “Such” for “Effective October 1, 1983, such” in concluding provisions.
 
 1999—Pars. (6), (7). Pub. L. 106–167 substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System”.
 
-1990—Par. (1). Pub. L. 101–591, § 2(c), in concluding provisions, struck out cl. (i) designation, inserted a period after “processes”, and struck out at end “, and (ii) are not included within the boundaries of an area established under Federal, State, or local law, or held by a qualified organization as defined in section 170(h)(3) of title 26, primarily for wildlife refuge, sanctuary, recreational, or natural resource conservation purposes.”
+1990—Par. (1). Pub. L. 101–591, § 2(c), in concluding provisions, struck out cl. (i) designation, inserted a period after “processes”, and struck out at end “, and (ii) are not included within the boundaries of an area established under Federal, State, or local law, or held by a qualified organization as defined in section 170(h)(3) of title 26, primarily for wildlife refuge, sanctuary, recreational, or natural resource conservation purposes.”
 
-Par. (1)(A). Pub. L. 101–591, § 2(a), redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: “consists of unconsolidated sedimentary materials,”.
+Par. (1)(A). Pub. L. 101–591, § 2(a), redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: “consists of unconsolidated sedimentary materials,”.
 
-Par. (6). Pub. L. 101–591, § 2(b)(1), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘system maps’ means—
+Par. (6). Pub. L. 101–591, § 2(b)(1), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘system maps’ means—
 
 “(A) the maps that are entitled ‘Coastal Barrier Resources System’, numbered A01 through T12 (but excluding maps T02 and T03) and dated September 30, 1982, and the maps numbered T02A and T03A and dated December 8, 1982; and
 
@@ -191,7 +191,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 Amendment by Pub. L. 99–272, effective Oct. 18, 1986, see section 14001(e) of Pub. L. 99–272.
 
-## § 3503. Establishment of John H. Chafee Coastal Barrier Resources System
+## § 3503. Establishment of John H. Chafee Coastal Barrier Resources System
 
 **(a) Establishment** There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted as System units or Otherwise Protected Areas—
 
@@ -289,7 +289,7 @@ An area to be added to the System under this subsection shall be part of the Sys
 
 Nothing in this subsection supersedes the official maps referred to in subsection (a).
 
-(Pub. L. 97–348, § 4, Oct. 18, 1982, 96 Stat. 1654; Pub. L. 97–396, § 8, Dec. 31, 1982, 96 Stat. 2007; Pub. L. 100–707, title II, § 204(b), Nov. 23, 1988, 102 Stat. 4713; Pub. L. 101–591, § 3, Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, § 3(c)(3), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, §§ 2–3(b)(1), (c), (d), Nov. 13, 2000, 114 Stat. 2394, 2395; Pub. L. 115–358, §§ 2(d), 3, Dec. 21, 2018, 132 Stat. 5080; Pub. L. 118–117, title I, § 102, Nov. 25, 2024, 138 Stat. 1610.)
+(Pub. L. 97–348, § 4, Oct. 18, 1982, 96 Stat. 1654; Pub. L. 97–396, § 8, Dec. 31, 1982, 96 Stat. 2007; Pub. L. 100–707, title II, § 204(b), Nov. 23, 1988, 102 Stat. 4713; Pub. L. 101–591, § 3, Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, § 3(c)(3), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, §§ 2–3(b)(1), (c), (d), Nov. 13, 2000, 114 Stat. 2394, 2395; Pub. L. 115–358, §§ 2(d), 3, Dec. 21, 2018, 132 Stat. 5080; Pub. L. 118–117, title I, § 102, Nov. 25, 2024, 138 Stat. 1610.)
 
 **Editorial Notes**
 
@@ -301,13 +301,13 @@ Section 4 of the Coastal Barrier Improvement Act of 1990, referred to in subsec.
 
 **Codification**
 
-The text of section 4(d) of Pub. L. 101–591, which was transferred and redesignated so as to appear as subsec. (e) of this section and amended by Pub. L. 106–514, was based on Pub. L. 101–591, § 4(d), Nov. 16, 1990, 104 Stat. 2933, formerly included in a note set out under this section.
+The text of section 4(d) of Pub. L. 101–591, which was transferred and redesignated so as to appear as subsec. (e) of this section and amended by Pub. L. 106–514, was based on Pub. L. 101–591, § 4(d), Nov. 16, 1990, 104 Stat. 2933, formerly included in a note set out under this section.
 
-In subsec. (e)(1), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (e)(1), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–117, § 102(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as those maps may be replaced, modified, revised, or corrected under—
+2024—Subsec. (a). Pub. L. 118–117, § 102(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as those maps may be replaced, modified, revised, or corrected under—
 
 “(1) subsection (f)(3);
 
@@ -315,31 +315,31 @@ In subsec. (e)(1), “chapters 1 to 11 of title 40 and division C (except sectio
 
 “(3) any other provision of law enacted on or after November 16, 1990, that specifically replaces such a map or authorizes the modification, revision, or correction.”
 
-Subsec. (e)(1). Pub. L. 118–117, § 102(2)(A), in introductory provisions, substituted “a coastal barrier” for “an undeveloped coastal barrier” in two places.
+Subsec. (e)(1). Pub. L. 118–117, § 102(2)(A), in introductory provisions, substituted “a coastal barrier” for “an undeveloped coastal barrier” in two places.
 
-Subsec. (e)(1)(A). Pub. L. 118–117, § 102(2)(B), struck out “undeveloped” before “coastal barrier”.
+Subsec. (e)(1)(A). Pub. L. 118–117, § 102(2)(B), struck out “undeveloped” before “coastal barrier”.
 
-Subsec. (f)(2). Pub. L. 118–117, § 102(3), substituted “notification of the availability of the map” for “copy of the map” in introductory provisions.
+Subsec. (f)(2). Pub. L. 118–117, § 102(3), substituted “notification of the availability of the map” for “copy of the map” in introductory provisions.
 
-2018—Subsec. (a). Pub. L. 115–358, § 2(d)(1), inserted “replaced,” after “may be” in introductory provisions.
+2018—Subsec. (a). Pub. L. 115–358, § 2(d)(1), inserted “replaced,” after “may be” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 115–358, § 2(d)(2), inserted “replaces such a map or” after “that specifically”.
+Subsec. (a)(3). Pub. L. 115–358, § 2(d)(2), inserted “replaces such a map or” after “that specifically”.
 
-Subsec. (b). Pub. L. 115–358, § 3, designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (b). Pub. L. 115–358, § 3, designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-2000—Subsec. (a). Pub. L. 106–514, § 3(d), substituted “which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as those maps may be modified, revised, or corrected under—” and pars. (1) to (3) for “which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as such maps may be revised by the Secretary under section 4 of the Coastal Barrier Improvement Act of 1990.”
+2000—Subsec. (a). Pub. L. 106–514, § 3(d), substituted “which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as those maps may be modified, revised, or corrected under—” and pars. (1) to (3) for “which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as such maps may be revised by the Secretary under section 4 of the Coastal Barrier Improvement Act of 1990.”
 
-Subsec. (d). Pub. L. 106–514, § 3(a), added subsec. (d).
+Subsec. (d). Pub. L. 106–514, § 3(a), added subsec. (d).
 
-Subsec. (e). Pub. L. 106–514, § 3(b)(1), transferred and redesignated the text of section 4(d) of Pub. L. 101–591 so as to appear as subsec. (e) of this section, in par. (1), substituted “180” for “one hundred and eighty” in introductory provisions and struck out “shall” before “publish” in subpar. (B), in par. (2), substituted “paragraph (1)(B)” for “subsection (d)(1)(B)”, and struck out par. (3), which required revision of maps as soon as practicable after a unit was added to the System. See Codification note above.
+Subsec. (e). Pub. L. 106–514, § 3(b)(1), transferred and redesignated the text of section 4(d) of Pub. L. 101–591 so as to appear as subsec. (e) of this section, in par. (1), substituted “180” for “one hundred and eighty” in introductory provisions and struck out “shall” before “publish” in subpar. (B), in par. (2), substituted “paragraph (1)(B)” for “subsection (d)(1)(B)”, and struck out par. (3), which required revision of maps as soon as practicable after a unit was added to the System. See Codification note above.
 
-Subsec. (f). Pub. L. 106–514, § 3(c), added subsec. (f).
+Subsec. (f). Pub. L. 106–514, § 3(c), added subsec. (f).
 
-Subsec. (g). Pub. L. 106–514, § 2, added subsec. (g).
+Subsec. (g). Pub. L. 106–514, § 2, added subsec. (g).
 
-1999—Pub. L. 106–167, § 3(c)(3)(A), substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System” in section catchline.
+1999—Pub. L. 106–167, § 3(c)(3)(A), substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System” in section catchline.
 
-Subsec. (a). Pub. L. 106–167, § 3(c)(3)(B), substituted “the John H. Chafee Coastal Barrier Resources System” for “the Coastal Barrier Resources System”.
+Subsec. (a). Pub. L. 106–167, § 3(c)(3)(B), substituted “the John H. Chafee Coastal Barrier Resources System” for “the Coastal Barrier Resources System”.
 
 1990—Pub. L. 101–591 amended section generally, substituting provisions relating to establishment of Coastal Barrier Resources System consisting of undeveloped coastal barriers and other areas on United States coasts identified on maps entitled “Coastal Barrier Resources System” dated Oct. 24, 1990, as maintained and revised by the Secretary, for provisions which related to Coastal Barrier Resources System consisting of undeveloped coastal barriers on the Atlantic and Gulf Coasts of the United States and included within the System on Apr. 19, 1983, and undeveloped coastal barriers along Great Lakes shore areas to be recommended by the Secretary and so designated by Congress, with maps to be revised by the Secretary and maintained by Office of Director of United States Fish and Wildlife Service.
 
@@ -357,7 +357,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **Coastal Barrier Resources Reauthorization**
 
-Pub. L. 109–226, May 25, 2006, 120 Stat. 381, as amended by Pub. L. 115–358, § 4, Dec. 21, 2018, 132 Stat. 5081, provided that:
+Pub. L. 109–226, May 25, 2006, 120 Stat. 381, as amended by Pub. L. 115–358, § 4, Dec. 21, 2018, 132 Stat. 5081, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -377,7 +377,7 @@ Pub. L. 109–226, May 25, 2006, 120 Stat. 381, as amended by Pub. L. 115–358,
 
 > **“[SEC. 3.**
 
-> Repealed. Pub. L. 115–358, § 4, Dec. 21, 2018, 132 Stat. 5081.]
+> Repealed. Pub. L. 115–358, § 4, Dec. 21, 2018, 132 Stat. 5081.]
 
 > **“SEC. 4. DIGITAL MAPPING PROJECT FOR THE REMAINING JOHN H. CHAFEE COASTAL BARRIER RESOURCES SYSTEM UNITS AND OTHERWISE PROTECTED AREAS.**
 
@@ -439,7 +439,7 @@ Pub. L. 109–226, May 25, 2006, 120 Stat. 381, as amended by Pub. L. 115–358,
 
 **Digital Mapping Pilot Project**
 
-Pub. L. 106–514, § 6, Nov. 13, 2000, 114 Stat. 2396, provided that:
+Pub. L. 106–514, § 6, Nov. 13, 2000, 114 Stat. 2396, provided that:
 
 > **“(a) In General.—**
 
@@ -483,7 +483,7 @@ Pub. L. 106–514, § 6, Nov. 13, 2000, 114 Stat. 2396, provided that:
 
 **Findings**
 
-Pub. L. 106–167, § 2, Dec. 9, 1999, 113 Stat. 1803, provided that:
+Pub. L. 106–167, § 2, Dec. 9, 1999, 113 Stat. 1803, provided that:
 
 > “Congress finds that—
 
@@ -501,7 +501,7 @@ Pub. L. 106–167, § 2, Dec. 9, 1999, 113 Stat. 1803, provided that:
 
 **Redesignation of Coastal Barrier Resources System**
 
-Pub. L. 106–167, § 3(a), (b), Dec. 9, 1999, 113 Stat. 1804, provided that:
+Pub. L. 106–167, § 3(a), (b), Dec. 9, 1999, 113 Stat. 1804, provided that:
 
 > **“(a) In General.—** The Coastal Barrier Resources System established by section 4(a) of the Coastal Barrier Resources Act (16 U.S.C. 3503(a)) is redesignated as the ‘John H. Chafee Coastal Barrier Resources System’.
 
@@ -511,53 +511,53 @@ Pub. L. 106–167, § 3(a), (b), Dec. 9, 1999, 113 Stat. 1804, provided that:
 
 The following acts directed the Secretary of the Interior to make technical revisions to, corrections to, and replacement of maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
 
-Pub. L. 118–117, title II, § 201, Nov. 25, 2024, 138 Stat. 1613.
+Pub. L. 118–117, title II, § 201, Nov. 25, 2024, 138 Stat. 1613.
 
-Pub. L. 115–358, § 2(a)–(c), Dec. 21, 2018, 132 Stat. 5078–5080, as amended by Pub. L. 116–9, title II, § 2402A(a), Mar. 12, 2019, 133 Stat. 747.
+Pub. L. 115–358, § 2(a)–(c), Dec. 21, 2018, 132 Stat. 5078–5080, as amended by Pub. L. 116–9, title II, § 2402A(a), Mar. 12, 2019, 133 Stat. 747.
 
-Pub. L. 114–314, § 1, Dec. 16, 2016, 130 Stat. 1535.
+Pub. L. 114–314, § 1, Dec. 16, 2016, 130 Stat. 1535.
 
-Pub. L. 114–128, § 1, Feb. 29, 2016, 130 Stat. 287.
+Pub. L. 114–128, § 1, Feb. 29, 2016, 130 Stat. 287.
 
 Pub. L. 113–253, Dec. 18, 2014, 128 Stat. 2895.
 
-Pub. L. 110–419, § 1, Oct. 15, 2008, 122 Stat. 4773.
+Pub. L. 110–419, § 1, Oct. 15, 2008, 122 Stat. 4773.
 
-Pub. L. 109–355, § 1, Oct. 16, 2006, 120 Stat. 2018.
+Pub. L. 109–355, § 1, Oct. 16, 2006, 120 Stat. 2018.
 
-Pub. L. 109–354, § 1, Oct. 16, 2006, 120 Stat. 2017.
+Pub. L. 109–354, § 1, Oct. 16, 2006, 120 Stat. 2017.
 
-Pub. L. 108–380, § 1, Oct. 30, 2004, 118 Stat. 2210.
+Pub. L. 108–380, § 1, Oct. 30, 2004, 118 Stat. 2210.
 
-Pub. L. 108–339, § 1, Oct. 18, 2004, 118 Stat. 1361.
+Pub. L. 108–339, § 1, Oct. 18, 2004, 118 Stat. 1361.
 
-Pub. L. 108–138, § 1, Dec. 1, 2003, 117 Stat. 1869.
+Pub. L. 108–138, § 1, Dec. 1, 2003, 117 Stat. 1869.
 
-Pub. L. 108–7, div. F, title I, § 155, Feb. 20, 2003, 117 Stat. 246.
+Pub. L. 108–7, div. F, title I, § 155, Feb. 20, 2003, 117 Stat. 246.
 
-Pub. L. 106–360, § 1, Oct. 27, 2000, 114 Stat. 1399.
+Pub. L. 106–360, § 1, Oct. 27, 2000, 114 Stat. 1399.
 
 Pub. L. 106–332, Oct. 19, 2000, 114 Stat. 1306.
 
-Pub. L. 106–128, § 1, Dec. 6, 1999, 113 Stat. 1652.
+Pub. L. 106–128, § 1, Dec. 6, 1999, 113 Stat. 1652.
 
-Pub. L. 106–116, § 1, Nov. 29, 1999, 113 Stat. 1544.
+Pub. L. 106–116, § 1, Nov. 29, 1999, 113 Stat. 1544.
 
-Pub. L. 105–277, div. A, § 101(e) [title I, title I, § 134, title III, § 335], Oct. 21, 1998, 112 Stat. 2681–231, 2681–238, 2681–264, 2681–295.
+Pub. L. 105–277, div. A, § 101(e) [title I, title I, § 134, title III, § 335], Oct. 21, 1998, 112 Stat. 2681–231, 2681–238, 2681–264, 2681–295.
 
-Pub. L. 104–333, div. I, title II, § 220, Nov. 12, 1996, 110 Stat. 4115.
+Pub. L. 104–333, div. I, title II, § 220, Nov. 12, 1996, 110 Stat. 4115.
 
-Pub. L. 104–265, title II, § 201, Oct. 9, 1996, 110 Stat. 3289.
+Pub. L. 104–265, title II, § 201, Oct. 9, 1996, 110 Stat. 3289.
 
-Pub. L. 104–148, § 2, May 24, 1996, 110 Stat. 1378.
+Pub. L. 104–148, § 2, May 24, 1996, 110 Stat. 1378.
 
-Pub. L. 103–461, § 1(a), (b), Nov. 2, 1994, 108 Stat. 4804.
+Pub. L. 103–461, § 1(a), (b), Nov. 2, 1994, 108 Stat. 4804.
 
-Pub. L. 102–440, title III, § 303, Oct. 23, 1992, 106 Stat. 2234.
+Pub. L. 102–440, title III, § 303, Oct. 23, 1992, 106 Stat. 2234.
 
 **Correction of Errors in Maps; Modification of Boundaries; Additions to System**
 
-Pub. L. 101–591, § 4, Nov. 16, 1990, 104 Stat. 2932, as amended by Pub. L. 106–514, § 3(b)(1)(A), (2), Nov. 13, 2000, 114 Stat. 2395, provided that:
+Pub. L. 101–591, § 4, Nov. 16, 1990, 104 Stat. 2932, as amended by Pub. L. 106–514, § 3(b)(1)(A), (2), Nov. 13, 2000, 114 Stat. 2395, provided that:
 
 > **“(a) Technical Revision of Maps and Provision to State and Local Government.—** Not later than 180 days after the date of the enactment of this Act [Nov. 16, 1990], the Secretary shall—
 
@@ -635,11 +635,11 @@ Section 6 of Pub. L. 101–591 directed Secretary of the Interior, not later tha
 
 **Report Regarding Coastal Barrier Management**
 
-Pub. L. 101–591, § 8, Nov. 16, 1990, 104 Stat. 2937, which established the Coastal Barriers Task Force, provided for its membership, required the Task Force to submit a report to Congress regarding the Coastal Barrier Resources System not later than the expiration of the 2-year period beginning on Nov. 16, 1990, and required the Task Force to terminate 90 days after submission of the report, was repealed by Pub. L. 106–514, § 4(b), Nov. 13, 2000, 114 Stat. 2396.
+Pub. L. 101–591, § 8, Nov. 16, 1990, 104 Stat. 2937, which established the Coastal Barriers Task Force, provided for its membership, required the Task Force to submit a report to Congress regarding the Coastal Barrier Resources System not later than the expiration of the 2-year period beginning on Nov. 16, 1990, and required the Task Force to terminate 90 days after submission of the report, was repealed by Pub. L. 106–514, § 4(b), Nov. 13, 2000, 114 Stat. 2396.
 
 **Definitions**
 
-Pub. L. 101–591, § 12, Nov. 16, 1990, 104 Stat. 2940, as amended by Pub. L. 106–167, § 3(c)(6), Dec. 9, 1999, 113 Stat. 1804, provided that:
+Pub. L. 101–591, § 12, Nov. 16, 1990, 104 Stat. 2940, as amended by Pub. L. 106–167, § 3(c)(6), Dec. 9, 1999, 113 Stat. 1804, provided that:
 
 > “For purposes of this Act [see Short Title of 1990 Amendment note set out under section 3501 of this title]—
 
@@ -663,7 +663,7 @@ Pub. L. 101–591, § 12, Nov. 16, 1990, 104 Stat. 2940, as amended by Pub. L.
 
 > **“(5)** the term ‘System’ means the John H. Chafee Coastal Barrier Resources System established by the Coastal Barrier Resources Act (16 U.S.C. 3501 et seq.), as amended by this Act.”
 
-## § 3504. Limitations on Federal expenditures affecting the System
+## § 3504. Limitations on Federal expenditures affecting the System
 
 **(a) Construction or purchase of structure, facility, road, airport, etc.; projects to prevent erosion; exceptions** Except as provided in section 3505 of this title, no new expenditures or new financial assistance may be made available under authority of any Federal law for any purpose within the System, including, but not limited to—
 
@@ -683,7 +683,7 @@ Pub. L. 101–591, § 12, Nov. 16, 1990, 104 Stat. 2940, as amended by Pub. L.
 
 Not later than 2 years after November 25, 2024, the Secretary, in consultation with the Secretary of Housing and Urban Development, shall issue regulations requiring the owner or lessor of real property located in a community affected by this chapter, as determined by the Director of the United States Fish and Wildlife Service, to disclose to a prospective buyer or lessee such location of such real property.
 
-(Pub. L. 97–348, § 5, Oct. 18, 1982, 96 Stat. 1656; Pub. L. 101–591, §§ 2(b)(2), 5(c), Nov. 16, 1990, 104 Stat. 2931, 2936; Pub. L. 118–117, title I, § 103, Nov. 25, 2024, 138 Stat. 1610.)
+(Pub. L. 97–348, § 5, Oct. 18, 1982, 96 Stat. 1656; Pub. L. 101–591, §§ 2(b)(2), 5(c), Nov. 16, 1990, 104 Stat. 2931, 2936; Pub. L. 118–117, title I, § 103, Nov. 25, 2024, 138 Stat. 1610.)
 
 **Editorial Notes**
 
@@ -695,21 +695,21 @@ The Coastal Barrier Improvement Act of 1990, referred to in subsec. (b)(1), is P
 
 2024—Subsec. (c). Pub. L. 118–117 added subsec. (c).
 
-1990—Subsec. (a). Pub. L. 101–591, § 2(b)(2)(A), in introductory provisions substituted “the System” for “the Coastal Barrier Resources System”.
+1990—Subsec. (a). Pub. L. 101–591, § 2(b)(2)(A), in introductory provisions substituted “the System” for “the Coastal Barrier Resources System”.
 
-Subsec. (a)(3). Pub. L. 101–591, § 5(c), substituted “through S08 and LA07” for “through S08”.
+Subsec. (a)(3). Pub. L. 101–591, § 5(c), substituted “through S08 and LA07” for “through S08”.
 
-Subsec. (b)(1). Pub. L. 101–591, § 2(b)(2)(B), substituted “on which the relevant System unit or portion of the System unit was included within the System under this chapter or the Coastal Barrier Improvement Act of 1990” for “of the enactment of this Act”.
+Subsec. (b)(1). Pub. L. 101–591, § 2(b)(2)(B), substituted “on which the relevant System unit or portion of the System unit was included within the System under this chapter or the Coastal Barrier Improvement Act of 1990” for “of the enactment of this Act”.
 
-Subsec. (b)(2). Pub. L. 101–591, § 2(b)(2)(C), struck out “of enactment” after “before such date”.
+Subsec. (b)(2). Pub. L. 101–591, § 2(b)(2)(C), struck out “of enactment” after “before such date”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Guidance for Expenditure of Federal Funds in Emergency Situations**
 
-Pub. L. 118–117, title I, § 105(b), Nov. 25, 2024, 138 Stat. 1612, provided that: “Not later than 1 year after the date of the enactment of this Act [Nov. 25, 2024], the Secretary of the Interior, in consultation with the Chief of Engineers of the Army Corps of Engineers, shall develop and finalize guidance relating to the expenditure of Federal funds pursuant to the exception described in section 5(a)(3) of the Coastal Barrier Resources Act (16 U.S.C. 3504(a)(3)) for emergency situations that threaten life, land, and property immediately adjacent to a System unit (as defined in subsection (a) of section 3 of that Act (16 U.S.C. 3502)).”
+Pub. L. 118–117, title I, § 105(b), Nov. 25, 2024, 138 Stat. 1612, provided that: “Not later than 1 year after the date of the enactment of this Act [Nov. 25, 2024], the Secretary of the Interior, in consultation with the Chief of Engineers of the Army Corps of Engineers, shall develop and finalize guidance relating to the expenditure of Federal funds pursuant to the exception described in section 5(a)(3) of the Coastal Barrier Resources Act (16 U.S.C. 3504(a)(3)) for emergency situations that threaten life, land, and property immediately adjacent to a System unit (as defined in subsection (a) of section 3 of that Act (16 U.S.C. 3502)).”
 
-## § 3505. Exceptions to limitations on expenditures
+## § 3505. Exceptions to limitations on expenditures
 
 **(a) In general** Notwithstanding section 3504 of this title, the appropriate Federal officer, after consultation with the Secretary, may make Federal expenditures and may make financial assistance available within the System for the following:
 
@@ -805,25 +805,25 @@ The prohibitions on new Federal expenditures and financial assistance described 
 
 **(ii)** in existence before the expiration of the applicable 1-year period described in paragraph (1).
 
-(Pub. L. 97–348, § 6, Oct. 18, 1982, 96 Stat. 1656; Pub. L. 100–707, title I, § 109(h), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–591, § 5(a), Nov. 16, 1990, 104 Stat. 2934; Pub. L. 113–287, § 5(d)(34), Dec. 19, 2014, 128 Stat. 3267; Pub. L. 118–117, title I, § 104, Nov. 25, 2024, 138 Stat. 1610.)
+(Pub. L. 97–348, § 6, Oct. 18, 1982, 96 Stat. 1656; Pub. L. 100–707, title I, § 109(h), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–591, § 5(a), Nov. 16, 1990, 104 Stat. 2934; Pub. L. 113–287, § 5(d)(34), Dec. 19, 2014, 128 Stat. 3267; Pub. L. 118–117, title I, § 104, Nov. 25, 2024, 138 Stat. 1610.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (a)(6)(C), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (a)(6)(C), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
 
-The National Flood Insurance Act of 1968, referred to in subsec. (d)(2), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
+The National Flood Insurance Act of 1968, referred to in subsec. (d)(2), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
 
 **Amendments**
 
-2024—Subsec. (a)(6)(E). Pub. L. 118–117, § 104(1)(A)(i), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “Assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 5170a, 5170b, and 5192 of title 42 and section 1362 of the National Flood Insurance Act of 1968 (42 U.S.C. 4103) and are limited to actions that are necessary to alleviate the emergency.”
+2024—Subsec. (a)(6)(E). Pub. L. 118–117, § 104(1)(A)(i), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “Assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 5170a, 5170b, and 5192 of title 42 and section 1362 of the National Flood Insurance Act of 1968 (42 U.S.C. 4103) and are limited to actions that are necessary to alleviate the emergency.”
 
-Subsec. (a)(6)(H). Pub. L. 118–117, § 104(1)(A)(ii), added subpar. (H).
+Subsec. (a)(6)(H). Pub. L. 118–117, § 104(1)(A)(ii), added subpar. (H).
 
-Subsec. (a)(7). Pub. L. 118–117, § 104(1)(B), added par. (7).
+Subsec. (a)(7). Pub. L. 118–117, § 104(1)(B), added par. (7).
 
-Subsecs. (e), (f). Pub. L. 118–117, § 104(2), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 118–117, § 104(2), added subsecs. (e) and (f).
 
 2014—Subsec. (a)(6)(C). Pub. L. 113–287, which directed the substitution of “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460*l*–4 through 11)” in section 6(a)(6)(C) of the Coastal Barrier Act of 1968, was executed by making the substitution for “the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–4 through 11)” in this section, which is section 6 of the Coastal Barrier Resources Act, to reflect the probable intent of Congress.
 
@@ -839,9 +839,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Expansion of Highways in Michigan**
 
-Pub. L. 100–707, title II, § 204(d), Nov. 23, 1988, 102 Stat. 4715, exempted existing highways in Michigan from limitations on the use of Federal expenditures or financial assistance within the Coastal Barrier Resources System under 16 U.S.C. 3505(a)(3) if the Congress added new units to the Coastal Barrier Resources System under 16 U.S.C. 3503, and those units included portions of United States or State highways in the State of Michigan, prior to repeal by Pub. L. 101–591, § 5(b), Nov. 16, 1990, 104 Stat. 2936. See section 3505(c) of this title.
+Pub. L. 100–707, title II, § 204(d), Nov. 23, 1988, 102 Stat. 4715, exempted existing highways in Michigan from limitations on the use of Federal expenditures or financial assistance within the Coastal Barrier Resources System under 16 U.S.C. 3505(a)(3) if the Congress added new units to the Coastal Barrier Resources System under 16 U.S.C. 3503, and those units included portions of United States or State highways in the State of Michigan, prior to repeal by Pub. L. 101–591, § 5(b), Nov. 16, 1990, 104 Stat. 2936. See section 3505(c) of this title.
 
-## § 3506. Certification of compliance
+## § 3506. Certification of compliance
 
 **(a) Regulations**
 
@@ -851,7 +851,7 @@ Not later than 1 year after November 25, 2024, the head of each Federal agency a
 
 The head of each Federal agency affected by this chapter shall report and certify that each such agency is in compliance with the provisions of this chapter. Such reports and certifications shall be submitted annually to the Committees and the Secretary.
 
-(Pub. L. 97–348, § 7, Oct. 18, 1982, 96 Stat. 1657; Pub. L. 101–591, § 14, Nov. 16, 1990, 104 Stat. 2941; Pub. L. 118–117, title I, § 105(a), Nov. 25, 2024, 138 Stat. 1612.)
+(Pub. L. 97–348, § 7, Oct. 18, 1982, 96 Stat. 1657; Pub. L. 101–591, § 14, Nov. 16, 1990, 104 Stat. 2941; Pub. L. 118–117, title I, § 105(a), Nov. 25, 2024, 138 Stat. 1612.)
 
 **Editorial Notes**
 
@@ -867,23 +867,23 @@ The head of each Federal agency affected by this chapter shall report and certif
 
 For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to annually submitting reports and certifications to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 42 of House Document No. 103–7.
 
-## § 3507. Priority of laws
+## § 3507. Priority of laws
 
 Nothing contained in this chapter shall be construed as indicating an intent on the part of the Congress to change the existing relationship of other Federal laws to the law of a State, or a political subdivision of a State, or to relieve any person of any obligation imposed by any law of any State, or political subdivision of a State. No provision of this chapter shall be construed to invalidate any provision of State or local law unless there is a direct conflict between such provision and the law of the State, or political subdivision of the State, so that the two cannot be reconciled or consistently stand together. This chapter shall in no way be interpreted to interfere with a State’s right to protect, rehabilitate, preserve, and restore lands within its established boundary.
 
-(Pub. L. 97–348, § 8, Oct. 18, 1982, 96 Stat. 1658.)
+(Pub. L. 97–348, § 8, Oct. 18, 1982, 96 Stat. 1658.)
 
-## § 3508. Separability
+## § 3508. Separability
 
 If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of the chapter and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected thereby.
 
-(Pub. L. 97–348, § 9, Oct. 18, 1982, 96 Stat. 1658.)
+(Pub. L. 97–348, § 9, Oct. 18, 1982, 96 Stat. 1658.)
 
-## § 3509. Repealed. Pub. L. 106–514, § 4(a)(3), Nov. 13, 2000, 114 Stat. 2396
+## § 3509. Repealed. Pub. L. 106–514, § 4(a)(3), Nov. 13, 2000, 114 Stat. 2396
 
-Section, Pub. L. 97–348, § 10, Oct. 18, 1982, 96 Stat. 1658; Pub. L. 106–167, § 3(c)(4), Dec. 9, 1999, 113 Stat. 1804, required report to Congress before the close of the 3-year period beginning on Oct. 18, 1982.
+Section, Pub. L. 97–348, § 10, Oct. 18, 1982, 96 Stat. 1658; Pub. L. 106–167, § 3(c)(4), Dec. 9, 1999, 113 Stat. 1804, required report to Congress before the close of the 3-year period beginning on Oct. 18, 1982.
 
-## § 3510. Authorization of appropriations
+## § 3510. Authorization of appropriations
 
 There is authorized to be appropriated to the Secretary to carry out this chapter—
 
@@ -891,7 +891,7 @@ There is authorized to be appropriated to the Secretary to carry out this chapte
 
 **(2)** $1,962,000 for each of fiscal years 2025 through 2031.
 
-(Pub. L. 97–348, § 10, formerly § 12, Oct. 18, 1982, 96 Stat. 1659; Pub. L. 101–591, § 13(a), Nov. 16, 1990, 104 Stat. 2941; Pub. L. 103–461, § 1(c), Nov. 2, 1994, 108 Stat. 4804; renumbered § 10 and amended Pub. L. 106–514, § 5, Nov. 13, 2000, 114 Stat. 2396; Pub. L. 109–226, § 5, May 25, 2006, 120 Stat. 384; Pub. L. 118–117, title I, § 107, Nov. 25, 2024, 138 Stat. 1613.)
+(Pub. L. 97–348, § 10, formerly § 12, Oct. 18, 1982, 96 Stat. 1659; Pub. L. 101–591, § 13(a), Nov. 16, 1990, 104 Stat. 2941; Pub. L. 103–461, § 1(c), Nov. 2, 1994, 108 Stat. 4804; renumbered § 10 and amended Pub. L. 106–514, § 5, Nov. 13, 2000, 114 Stat. 2396; Pub. L. 109–226, § 5, May 25, 2006, 120 Stat. 384; Pub. L. 118–117, title I, § 107, Nov. 25, 2024, 138 Stat. 1613.)
 
 **Editorial Notes**
 

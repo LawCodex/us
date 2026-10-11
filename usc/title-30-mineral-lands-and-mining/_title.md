@@ -13,7 +13,7 @@ retrieved: 2026-10-11
 
 # Title 30—MINERAL LANDS AND MINING
 
-Current through 119-102not101
+Current through 119-102not101
 
 - [CHAPTER 1—UNITED STATES BUREAU OF MINES](chapter-001-united-states-bureau-of-mines.md)
 

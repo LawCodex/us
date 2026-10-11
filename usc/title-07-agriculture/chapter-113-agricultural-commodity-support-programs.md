@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 113—AGRICULTURAL COMMODITY SUPPORT PROGRAMS
 
-## § 8701. Definition of Secretary
+## § 8701. Definition of Secretary
 
 In this Act, the term “Secretary” means the Secretary of Agriculture.
 
-(Pub. L. 110–234, § 2, May 22, 2008, 122 Stat. 936; Pub. L. 110–246, §§ 2, 4(a), June 18, 2008, 122 Stat. 1664.)
+(Pub. L. 110–234, § 2, May 22, 2008, 122 Stat. 936; Pub. L. 110–246, §§ 2, 4(a), June 18, 2008, 122 Stat. 1664.)
 
 **Editorial Notes**
 
@@ -37,7 +37,7 @@ Section was not enacted as part of title I of Pub. L. 110–246 which in part co
 
 **Effective Date**
 
-Pub. L. 110–246, § 4, June 18, 2008, 122 Stat. 1664, provided that:
+Pub. L. 110–246, § 4, June 18, 2008, 122 Stat. 1664, provided that:
 
 > **“(a) In General.—** The Act entitled ‘An Act to provide for the continuation of agricultural programs through fiscal year 2012, and for other purposes’ (H.R. 2419 of the 110th Congress) [Pub. L. 110–234, see Tables for classification], and the amendments made by that Act, are repealed, effective on the date of enactment of that Act [May 22, 2008].
 
@@ -49,13 +49,13 @@ Pub. L. 110–246, § 4, June 18, 2008, 122 Stat. 1664, provided that:
 
 **Short Title**
 
-Pub. L. 110–234, § 1(a), May 22, 2008, 122 Stat. 923, and Pub. L. 110–246, §§ 1(a), 4(a), June 18, 2008, 122 Stat. 1651, 1664, provided that: “This Act [see Tables for classification] may be cited as the ‘Food, Conservation, and Energy Act of 2008’.”
+Pub. L. 110–234, § 1(a), May 22, 2008, 122 Stat. 923, and Pub. L. 110–246, §§ 1(a), 4(a), June 18, 2008, 122 Stat. 1651, 1664, provided that: “This Act [see Tables for classification] may be cited as the ‘Food, Conservation, and Energy Act of 2008’.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note above.]
 
 **1-Year Extension of Agricultural Programs**
 
-Pub. L. 112–240, title VII, § 701, Jan. 2, 2013, 126 Stat. 2362, provided that:
+Pub. L. 112–240, title VII, § 701, Jan. 2, 2013, 126 Stat. 2362, provided that:
 
 > **“(a) Extension.—** Except as otherwise provided in this section and amendments made by this section and notwithstanding any other provision of law, the authorities provided by each provision of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 1651) [see Tables for classification] and each amendment made by that Act (and for mandatory programs at such funding levels), as in effect on September 30, 2012, shall continue, and the Secretary of Agriculture shall carry out the authorities, until the later of—
 
@@ -227,17 +227,17 @@ Pub. L. 112–240, title VII, § 701, Jan. 2, 2013, 126 Stat. 2362, provided t
 
 **Applicability of Explanatory Statement in House Report 110–627 to Pub. L. 110–246**
 
-Pub. L. 110–246, § 3, June 18, 2008, 122 Stat. 1664, provided that: “The Joint Explanatory Statement submitted by the Committee of Conference for the conference report to accompany H.R. 2419 of the 110th Congress (House Report 110–627) shall be deemed to be part of the legislative history of this Act [Pub. L. 110–246, see Tables for classification] and shall have the same effect with respect to the implementation of this Act as it would have had with respect to the implementation of H.R. 2419 [enacted as Pub. L. 110–234].”
+Pub. L. 110–246, § 3, June 18, 2008, 122 Stat. 1664, provided that: “The Joint Explanatory Statement submitted by the Committee of Conference for the conference report to accompany H.R. 2419 of the 110th Congress (House Report 110–627) shall be deemed to be part of the legislative history of this Act [Pub. L. 110–246, see Tables for classification] and shall have the same effect with respect to the implementation of this Act as it would have had with respect to the implementation of H.R. 2419 [enacted as Pub. L. 110–234].”
 
-## § 8702. Definitions
+## § 8702. Definitions
 
 In this chapter (other than subchapter III):
 
 **(1) Average crop revenue election payment**
 
-The term “average crop revenue election payment” means a payment made to producers on a farm under section 8715 1
+The term “average crop revenue election payment” means a payment made to producers on a farm under section 8715 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -253,7 +253,7 @@ The term “base acres for peanuts” has the meaning given the term in section 
 
 **(3) Counter-cyclical payment**
 
-The term “counter-cyclical payment” means a payment made to producers on a farm under section 8714 <sup>1</sup> of this title.
+The term “counter-cyclical payment” means a payment made to producers on a farm under section 8714 <sup>1</sup> of this title.
 
 **(4) Covered commodity**
 
@@ -261,11 +261,11 @@ The term “covered commodity” means wheat, corn, grain sorghum, barley, oats,
 
 **(5) Direct payment**
 
-The term “direct payment” means a payment made to producers on a farm under section 8713 <sup>1</sup> of this title.
+The term “direct payment” means a payment made to producers on a farm under section 8713 <sup>1</sup> of this title.
 
 **(6) Effective price**
 
-The term “effective price”, with respect to a covered commodity for a crop year, means the price calculated by the Secretary under section 8714 <sup>1</sup> of this title to determine whether counter-cyclical payments are required to be made for that crop year.
+The term “effective price”, with respect to a covered commodity for a crop year, means the price calculated by the Secretary under section 8714 <sup>1</sup> of this title to determine whether counter-cyclical payments are required to be made for that crop year.
 
 **(7) Extra long staple cotton** The term “extra long staple cotton” means cotton that—
 
@@ -333,7 +333,7 @@ The term “United States”, when used in a geographical sense, means all of th
 
 The term “United States Premium Factor” means the percentage by which the difference in the United States loan schedule premiums for Strict Middling (SM) 1⅛-inch upland cotton and for Middling (M) 1<sup>3</sup>⁄<sub>32</sub>-inch upland cotton exceeds the difference in the applicable premiums for comparable international qualities.
 
-(Pub. L. 110–234, title I, § 1001, May 22, 2008, 122 Stat. 936; Pub. L. 110–246, § 4(a), title I, § 1001, June 18, 2008, 122 Stat. 1664.)
+(Pub. L. 110–234, title I, § 1001, May 22, 2008, 122 Stat. 936; Pub. L. 110–246, § 4(a), title I, § 1001, June 18, 2008, 122 Stat. 1664.)
 
 **Editorial Notes**
 
@@ -341,11 +341,11 @@ The term “United States Premium Factor” means the percentage by which the di
 
 This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
-Section 8715 of this title, referred to in par. (1), was repealed by Pub. L. 113–79, title I, § 1103(a), Feb. 7, 2014, 128 Stat. 658.
+Section 8715 of this title, referred to in par. (1), was repealed by Pub. L. 113–79, title I, § 1103(a), Feb. 7, 2014, 128 Stat. 658.
 
-Section 8714 of this title, referred to in pars. (3) and (6), was repealed by Pub. L. 113–79, title I, § 1102(a), Feb. 7, 2014, 128 Stat. 658.
+Section 8714 of this title, referred to in pars. (3) and (6), was repealed by Pub. L. 113–79, title I, § 1102(a), Feb. 7, 2014, 128 Stat. 658.
 
-Section 8713 of this title, referred to in par. (5), was repealed by Pub. L. 113–79, title I, § 1101, Feb. 7, 2014, 128 Stat. 658.
+Section 8713 of this title, referred to in par. (5), was repealed by Pub. L. 113–79, title I, § 1101, Feb. 7, 2014, 128 Stat. 658.
 
 **Codification**
 
@@ -359,7 +359,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ## SUBCHAPTER I—DIRECT PAYMENTS AND COUNTER-CYCLICAL PAYMENTS
 
-### § 8711. Base acres
+### § 8711. Base acres
 
 **(a) Adjustment of base acres**
 
@@ -443,9 +443,9 @@ Except as provided in paragraph (2) and notwithstanding any other provision of t
 
 **(2) Exceptions** Paragraph (1) shall not apply to a farm owned by—
 
-**(A)** a socially disadvantaged farmer or rancher (as defined in section 2003(e) of this title; 1
+**(A)** a socially disadvantaged farmer or rancher (as defined in section 2003(e) of this title; 1
 
-<sup>1</sup>  So in original. A closing parenthesis probably should precede the semicolon.
+<sup>1</sup> So in original. A closing parenthesis probably should precede the semicolon.
 
 or
 
@@ -461,7 +461,7 @@ or
 
 Paragraphs (1) through (3) shall not apply during the 2008 crop year.
 
-(Pub. L. 110–234, title I, § 1101, May 22, 2008, 122 Stat. 938; Pub. L. 110–246, § 4(a), title I, § 1101, June 18, 2008, 122 Stat. 1664, 1666; Pub. L. 110–398, § 1(a)(1), Oct. 13, 2008, 122 Stat. 4213.)
+(Pub. L. 110–234, title I, § 1101, May 22, 2008, 122 Stat. 938; Pub. L. 110–246, § 4(a), title I, § 1101, June 18, 2008, 122 Stat. 1664, 1666; Pub. L. 110–398, § 1(a)(1), Oct. 13, 2008, 122 Stat. 4213.)
 
 **Editorial Notes**
 
@@ -469,7 +469,7 @@ Paragraphs (1) through (3) shall not apply during the 2008 crop year.
 
 The date of enactment of this Act, referred to in subsec. (a)(1)(A), (B), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Food Security Act of 1985, referred to in subsec. (b)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§ 3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§ 3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 This chapter, referred to in subsec. (d)(1), was in the original “this title”, meaning title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
@@ -487,7 +487,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8712. Payment yields
+### § 8712. Payment yields
 
 **(a) Establishment and purpose**
 
@@ -519,7 +519,7 @@ If the yield per planted acre for a crop of a designated oilseed or pulse crop f
 
 In the case of establishing yields for designated oilseeds and eligible pulse crops, if historic yield data is not available, the Secretary shall use the ratio for dry peas calculated under paragraph (2)(A)(ii) in determining the yields for designated oilseeds and eligible pulse crops, as determined to be fair and equitable by the Secretary.
 
-(Pub. L. 110–234, title I, § 1102, May 22, 2008, 122 Stat. 940; Pub. L. 110–246, § 4(a), title I, § 1102, June 18, 2008, 122 Stat. 1664, 1669.)
+(Pub. L. 110–234, title I, § 1102, May 22, 2008, 122 Stat. 940; Pub. L. 110–246, § 4(a), title I, § 1102, June 18, 2008, 122 Stat. 1664, 1669.)
 
 **Editorial Notes**
 
@@ -533,31 +533,31 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8713. Repealed. Pub. L. 113–79, title I, § 1101, Feb. 7, 2014, 128 Stat. 658
+### § 8713. Repealed. Pub. L. 113–79, title I, § 1101, Feb. 7, 2014, 128 Stat. 658
 
-Section, Pub. L. 110–234, title I, § 1103, May 22, 2008, 122 Stat. 941; Pub. L. 110–246, § 4(a), title I, § 1103, June 18, 2008, 122 Stat. 1664, 1669, related to availability of direct payments for 2008 through 2012 crop years.
+Section, Pub. L. 110–234, title I, § 1103, May 22, 2008, 122 Stat. 941; Pub. L. 110–246, § 4(a), title I, § 1103, June 18, 2008, 122 Stat. 1664, 1669, related to availability of direct payments for 2008 through 2012 crop years.
 
-### § 8714. Repealed. Pub. L. 113–79, title I, § 1102(a), Feb. 7, 2014, 128 Stat. 658
+### § 8714. Repealed. Pub. L. 113–79, title I, § 1102(a), Feb. 7, 2014, 128 Stat. 658
 
-Section, Pub. L. 110–234, title I, § 1104, May 22, 2008, 122 Stat. 942; Pub. L. 110–246, § 4(a), title I, § 1104, June 18, 2008, 122 Stat. 1664, 1671, related to availability of counter-cyclical payments for 2008 through 2012 crop years.
-
-**Statutory Notes and Related Subsidiaries**
-
-**Continued Application for 2013 Crop Year**
-
-Pub. L. 113–79, title I, § 1102(b), Feb. 7, 2014, 128 Stat. 658, provided that: “Sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8714, 8754), as in effect on the day before the date of enactment of this Act [Feb. 7, 2014], shall continue to apply through the 2013 crop year with respect to all covered commodities (as defined in section 1001 of that Act (7 U.S.C. 8702)) and peanuts on a farm.”
-
-### § 8715. Repealed. Pub. L. 113–79, title I, § 1103(a), Feb. 7, 2014, 128 Stat. 658
-
-Section, Pub. L. 110–234, title I, § 1105, May 22, 2008, 122 Stat. 945; Pub. L. 110–246, § 4(a), title I, § 1105, June 18, 2008, 122 Stat. 1664, 1673, related to the average crop revenue election program available during each of the 2009, 2010, 2011, and 2012 crop years.
+Section, Pub. L. 110–234, title I, § 1104, May 22, 2008, 122 Stat. 942; Pub. L. 110–246, § 4(a), title I, § 1104, June 18, 2008, 122 Stat. 1664, 1671, related to availability of counter-cyclical payments for 2008 through 2012 crop years.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Continued Application for 2013 Crop Year**
 
-Pub. L. 113–79, title I, § 1103(b), Feb. 7, 2014, 128 Stat. 658, provided that: “Section 1105 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8715), as in effect on the day before the date of enactment of this Act [Feb. 7, 2014], shall continue to apply through the 2013 crop year with respect to all covered commodities (as defined in section 1001 of that Act (7 U.S.C. 8702)) and peanuts on a farm for which the irrevocable election under section 1105 of that Act was made before the date of enactment of this Act.”
+Pub. L. 113–79, title I, § 1102(b), Feb. 7, 2014, 128 Stat. 658, provided that: “Sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8714, 8754), as in effect on the day before the date of enactment of this Act [Feb. 7, 2014], shall continue to apply through the 2013 crop year with respect to all covered commodities (as defined in section 1001 of that Act (7 U.S.C. 8702)) and peanuts on a farm.”
 
-### § 8716. Producer agreement required as condition of provision of payments
+### § 8715. Repealed. Pub. L. 113–79, title I, § 1103(a), Feb. 7, 2014, 128 Stat. 658
+
+Section, Pub. L. 110–234, title I, § 1105, May 22, 2008, 122 Stat. 945; Pub. L. 110–246, § 4(a), title I, § 1105, June 18, 2008, 122 Stat. 1664, 1673, related to the average crop revenue election program available during each of the 2009, 2010, 2011, and 2012 crop years.
+
+**Statutory Notes and Related Subsidiaries**
+
+**Continued Application for 2013 Crop Year**
+
+Pub. L. 113–79, title I, § 1103(b), Feb. 7, 2014, 128 Stat. 658, provided that: “Section 1105 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8715), as in effect on the day before the date of enactment of this Act [Feb. 7, 2014], shall continue to apply through the 2013 crop year with respect to all covered commodities (as defined in section 1001 of that Act (7 U.S.C. 8702)) and peanuts on a farm for which the irrevocable election under section 1105 of that Act was made before the date of enactment of this Act.”
+
+### § 8716. Producer agreement required as condition of provision of payments
 
 **(a) Compliance with certain requirements**
 
@@ -605,9 +605,9 @@ As a condition on the receipt of any benefits under this subchapter or subchapte
 
 **(2) Production reports**
 
-As a condition on the receipt of any benefits under this subchapter or subchapter II, the Secretary shall require producers on a farm that receive payments under section 8715 1
+As a condition on the receipt of any benefits under this subchapter or subchapter II, the Secretary shall require producers on a farm that receive payments under section 8715 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title to submit to the Secretary annual production reports with respect to all covered commodities and peanuts produced on the farm.
 
@@ -635,15 +635,15 @@ The Secretary shall provide for the sharing of direct payments, counter-cyclical
 
 The Secretary shall ensure that no penalty with respect to benefits under this subchapter or subchapter II is assessed against producers on a farm described in paragraph (1) for failure to submit reports under this section or timely comply with other program requirements as a result of compliance with the extended signup deadline under that paragraph.
 
-(Pub. L. 110–234, title I, § 1106, May 22, 2008, 122 Stat. 949; Pub. L. 110–246, § 4(a), title I, § 1106, June 18, 2008, 122 Stat. 1664, 1677; Pub. L. 110–398, § 1(b)(1), Oct. 13, 2008, 122 Stat. 4213.)
+(Pub. L. 110–234, title I, § 1106, May 22, 2008, 122 Stat. 949; Pub. L. 110–246, § 4(a), title I, § 1106, June 18, 2008, 122 Stat. 1664, 1677; Pub. L. 110–398, § 1(b)(1), Oct. 13, 2008, 122 Stat. 4213.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
-Section 8715 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 113–79, title I, § 1103(a), Feb. 7, 2014, 128 Stat. 658.
+Section 8715 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 113–79, title I, § 1103(a), Feb. 7, 2014, 128 Stat. 658.
 
 **Codification**
 
@@ -659,7 +659,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8717. Planting flexibility
+### § 8717. Planting flexibility
 
 **(a) Permitted crops**
 
@@ -761,7 +761,7 @@ Nothing in this paragraph provides authority for the Secretary to recalculate ba
 
 As soon as practicable after conducting an evaluation under subparagraph (A), the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation.
 
-(Pub. L. 110–234, title I, § 1107, May 22, 2008, 122 Stat. 950; Pub. L. 110–246, § 4(a), title I, § 1107, June 18, 2008, 122 Stat. 1664, 1679.)
+(Pub. L. 110–234, title I, § 1107, May 22, 2008, 122 Stat. 950; Pub. L. 110–246, § 4(a), title I, § 1107, June 18, 2008, 122 Stat. 1664, 1679.)
 
 **Editorial Notes**
 
@@ -775,13 +775,13 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8718. Special rule for long grain and medium grain rice
+### § 8718. Special rule for long grain and medium grain rice
 
 **(a) Calculation method**
 
-Subject to subsections (b) and (c), for the purposes of determining the amount of the counter-cyclical payments to be paid to the producers on a farm for long grain rice and medium grain rice under section 8714 1
+Subject to subsections (b) and (c), for the purposes of determining the amount of the counter-cyclical payments to be paid to the producers on a farm for long grain rice and medium grain rice under section 8714 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the base acres of rice on the farm shall be apportioned using the 4-year average of the percentages of acreage planted in the applicable State to long grain rice and medium grain rice during the 2003 through 2006 crop years, as determined by the Secretary.
 
@@ -797,13 +797,13 @@ of this title, the base acres of rice on the farm shall be apportioned using the
 
 In carrying out this section, the Secretary shall use the same total base acres, payment acres, and payment yields established with respect to rice under sections 7911 and 7912 of this title, as in effect on September 30, 2007, subject to any adjustment under section 8711 of this title.
 
-(Pub. L. 110–234, title I, § 1108, May 22, 2008, 122 Stat. 952; Pub. L. 110–246, § 4(a), title I, § 1108, June 18, 2008, 122 Stat. 1664, 1681.)
+(Pub. L. 110–234, title I, § 1108, May 22, 2008, 122 Stat. 952; Pub. L. 110–246, § 4(a), title I, § 1108, June 18, 2008, 122 Stat. 1664, 1681.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 8714 of this title, referred to in subsec. (a), was repealed by Pub. L. 113–79, title I, § 1102(a), Feb. 7, 2014, 128 Stat. 658.
+Section 8714 of this title, referred to in subsec. (a), was repealed by Pub. L. 113–79, title I, § 1102(a), Feb. 7, 2014, 128 Stat. 658.
 
 **Codification**
 
@@ -815,11 +815,11 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8719. Period of effectiveness
+### § 8719. Period of effectiveness
 
 This subchapter shall be effective beginning with the 2008 crop year of each covered commodity through the 2012 crop year.
 
-(Pub. L. 110–234, title I, § 1109, May 22, 2008, 122 Stat. 953; Pub. L. 110–246, § 4(a), title I, § 1109, June 18, 2008, 122 Stat. 1664, 1681.)
+(Pub. L. 110–234, title I, § 1109, May 22, 2008, 122 Stat. 953; Pub. L. 110–246, § 4(a), title I, § 1109, June 18, 2008, 122 Stat. 1664, 1681.)
 
 **Editorial Notes**
 
@@ -835,7 +835,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ## SUBCHAPTER II—MARKETING ASSISTANCE LOANS AND LOAN DEFICIENCY PAYMENTS
 
-### § 8731. Availability of nonrecourse marketing assistance loans for loan commodities
+### § 8731. Availability of nonrecourse marketing assistance loans for loan commodities
 
 **(a) Nonrecourse loans available**
 
@@ -855,13 +855,13 @@ The producers on a farm shall be eligible for a marketing assistance loan under 
 
 As a condition of the receipt of a marketing assistance loan under subsection (a), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.) and applicable wetland protection requirements under subtitle C of title XII of that Act (16 U.S.C. 3821 et seq.) during the term of the loan.
 
-(Pub. L. 110–234, title I, § 1201, May 22, 2008, 122 Stat. 953; Pub. L. 110–246, § 4(a), title I, § 1201, June 18, 2008, 122 Stat. 1664, 1681.)
+(Pub. L. 110–234, title I, § 1201, May 22, 2008, 122 Stat. 953; Pub. L. 110–246, § 4(a), title I, § 1201, June 18, 2008, 122 Stat. 1664, 1681.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food Security Act of 1985, referred to in subsec. (c), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (c), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 **Codification**
 
@@ -873,7 +873,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8732. Loan rates for nonrecourse marketing assistance loans
+### § 8732. Loan rates for nonrecourse marketing assistance loans
 
 **(a) 2008 crop year** For purposes of the 2008 crop year, the loan rate for a marketing assistance loan under section 8731 of this title for a loan commodity shall be equal to the following:
 
@@ -931,9 +931,9 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(18)** In the case of honey, $0.60 per pound.
 
-**(b) 2009 crop year** Except as provided in section 8715 1
+**(b) 2009 crop year** Except as provided in section 8715 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, for purposes of the 2009 crop year, the loan rate for a marketing assistance loan under section 8731 of this title for a loan commodity shall be equal to the following:
 
@@ -993,7 +993,7 @@ of this title, for purposes of the 2009 crop year, the loan rate for a marketing
 
 **(19)** In the case of honey, $0.60 per pound.
 
-**(c) 2010 through 2012 crop years** Except as provided in section 8715 <sup>1</sup> of this title, for purposes of each of the 2010 through 2012 crop years, the loan rate for a marketing assistance loan under section 8731 of this title for a loan commodity shall be equal to the following:
+**(c) 2010 through 2012 crop years** Except as provided in section 8715 <sup>1</sup> of this title, for purposes of each of the 2010 through 2012 crop years, the loan rate for a marketing assistance loan under section 8731 of this title for a loan commodity shall be equal to the following:
 
 **(1)** In the case of wheat, $2.94 per bushel.
 
@@ -1055,13 +1055,13 @@ of this title, for purposes of the 2009 crop year, the loan rate for a marketing
 
 The Secretary shall establish a single loan rate in each county for each kind of other oilseeds described in subsections (a)(11), (b)(11), and (c)(11).
 
-(Pub. L. 110–234, title I, § 1202, May 22, 2008, 122 Stat. 954; Pub. L. 110–246, § 4(a), title I, § 1202, June 18, 2008, 122 Stat. 1664, 1682.)
+(Pub. L. 110–234, title I, § 1202, May 22, 2008, 122 Stat. 954; Pub. L. 110–246, § 4(a), title I, § 1202, June 18, 2008, 122 Stat. 1664, 1682.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 8715 of this title, referred to in subsecs. (b) and (c), was repealed by Pub. L. 113–79, title I, § 1103(a), Feb. 7, 2014, 128 Stat. 658.
+Section 8715 of this title, referred to in subsecs. (b) and (c), was repealed by Pub. L. 113–79, title I, § 1103(a), Feb. 7, 2014, 128 Stat. 658.
 
 **Codification**
 
@@ -1073,7 +1073,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8733. Term of loans
+### § 8733. Term of loans
 
 **(a) Term of loan**
 
@@ -1083,7 +1083,7 @@ In the case of each loan commodity, a marketing assistance loan under section 87
 
 The Secretary may not extend the term of a marketing assistance loan for any loan commodity.
 
-(Pub. L. 110–234, title I, § 1203, May 22, 2008, 122 Stat. 956; Pub. L. 110–246, § 4(a), title I, § 1203, June 18, 2008, 122 Stat. 1664, 1684.)
+(Pub. L. 110–234, title I, § 1203, May 22, 2008, 122 Stat. 956; Pub. L. 110–246, § 4(a), title I, § 1203, June 18, 2008, 122 Stat. 1664, 1684.)
 
 **Editorial Notes**
 
@@ -1097,7 +1097,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8734. Repayment of loans
+### § 8734. Repayment of loans
 
 **(a) General rule** The Secretary shall permit the producers on a farm to repay a marketing assistance loan under section 8731 of this title for a loan commodity (other than upland cotton, long grain rice, medium grain rice, extra long staple cotton, and confectionery and each other kind of sunflower seed (other than oil sunflower seed)) at a rate that is the lesser of—
 
@@ -1195,7 +1195,7 @@ In the event of a severe disruption to marketing, transportation, or related inf
 
 Any adjustment made under paragraph (1) in the repayment rate for marketing assistance loans for a loan commodity shall be in effect on a short-term and temporary basis, as determined by the Secretary.
 
-(Pub. L. 110–234, title I, § 1204, May 22, 2008, 122 Stat. 956; Pub. L. 110–246, § 4(a), title I, § 1204, June 18, 2008, 122 Stat. 1664, 1684.)
+(Pub. L. 110–234, title I, § 1204, May 22, 2008, 122 Stat. 956; Pub. L. 110–246, § 4(a), title I, § 1204, June 18, 2008, 122 Stat. 1664, 1684.)
 
 **Editorial Notes**
 
@@ -1213,7 +1213,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8735. Loan deficiency payments
+### § 8735. Loan deficiency payments
 
 **(a) Availability of loan deficiency payments**
 
@@ -1265,7 +1265,7 @@ This section shall not apply with respect to extra long staple cotton.
 
 The Secretary shall determine the amount of the loan deficiency payment to be made under this section to the producers on a farm with respect to a quantity of a loan commodity or commodity referred to in subsection (a)(2) using the payment rate in effect under subsection (c) as of the date the producers request the payment.
 
-(Pub. L. 110–234, title I, § 1205, May 22, 2008, 122 Stat. 958; Pub. L. 110–246, § 4(a), title I, § 1205, June 18, 2008, 122 Stat. 1664, 1686.)
+(Pub. L. 110–234, title I, § 1205, May 22, 2008, 122 Stat. 958; Pub. L. 110–246, § 4(a), title I, § 1205, June 18, 2008, 122 Stat. 1664, 1686.)
 
 **Editorial Notes**
 
@@ -1279,7 +1279,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8736. Payments in lieu of loan deficiency payments for grazed acreage
+### § 8736. Payments in lieu of loan deficiency payments for grazed acreage
 
 **(a) Eligible producers**
 
@@ -1333,13 +1333,13 @@ In the case of wheat, barley, and oats, the availability period shall be consist
 
 A 2008 through 2012 crop of wheat, barley, oats, or triticale planted on acreage that a producer elects, in the agreement required by subsection (a), to use for the grazing of livestock in lieu of any other harvesting of the crop shall not be eligible for an indemnity under a policy or plan of insurance authorized under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or noninsured crop assistance under section 7333 of this title.
 
-(Pub. L. 110–234, title I, § 1206, May 22, 2008, 122 Stat. 959; Pub. L. 110–246, § 4(a), title I, § 1206, June 18, 2008, 122 Stat. 1664, 1687.)
+(Pub. L. 110–234, title I, § 1206, May 22, 2008, 122 Stat. 959; Pub. L. 110–246, § 4(a), title I, § 1206, June 18, 2008, 122 Stat. 1664, 1687.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Crop Insurance Act, referred to in subsec. (d), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (d), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 
 **Codification**
 
@@ -1351,7 +1351,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8737. Special marketing loan provisions for upland cotton
+### § 8737. Special marketing loan provisions for upland cotton
 
 **(a) Special import quota**
 
@@ -1449,7 +1449,7 @@ When a quota is established under this subsection, cotton may be entered under t
 
 Notwithstanding paragraph (2), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (a).
 
-(Pub. L. 110–234, title I, § 1207, May 22, 2008, 122 Stat. 960; Pub. L. 110–246, § 4(a), title I, § 1207, June 18, 2008, 122 Stat. 1664, 1689; Pub. L. 115–334, title I, § 1203(a), Dec. 20, 2018, 132 Stat. 4510.)
+(Pub. L. 110–234, title I, § 1207, May 22, 2008, 122 Stat. 960; Pub. L. 110–246, § 4(a), title I, § 1207, June 18, 2008, 122 Stat. 1664, 1689; Pub. L. 115–334, title I, § 1203(a), Dec. 20, 2018, 132 Stat. 4510.)
 
 **Editorial Notes**
 
@@ -1473,7 +1473,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8738. Special competitive provisions for extra long staple cotton
+### § 8738. Special competitive provisions for extra long staple cotton
 
 **(a) Competitiveness program** Notwithstanding any other provision of law, during the period beginning on the date of enactment of this Act through July 31, 2013, the Secretary shall carry out a program—
 
@@ -1497,7 +1497,7 @@ The Secretary shall make payments available under this section to domestic users
 
 Payments under this section shall be based on the amount of the difference in the prices referred to in subsection (b)(1) during the fourth week of the consecutive 4-week period multiplied by the amount of documented purchases by domestic users and sales for export by exporters made in the week following such a consecutive 4-week period.
 
-(Pub. L. 110–234, title I, § 1208, May 22, 2008, 122 Stat. 963; Pub. L. 110–246, § 4(a), title I, § 1208, June 18, 2008, 122 Stat. 1664, 1692.)
+(Pub. L. 110–234, title I, § 1208, May 22, 2008, 122 Stat. 963; Pub. L. 110–246, § 4(a), title I, § 1208, June 18, 2008, 122 Stat. 1664, 1692.)
 
 **Editorial Notes**
 
@@ -1515,7 +1515,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8739. Availability of recourse loans for high moisture feed grains and seed cotton
+### § 8739. Availability of recourse loans for high moisture feed grains and seed cotton
 
 **(a) High moisture feed grains**
 
@@ -1551,7 +1551,7 @@ For each of the 2008 through 2012 crops of upland cotton and extra long staple c
 
 Repayment of a recourse loan made under this section shall be at the loan rate established for the commodity by the Secretary, plus interest (determined in accordance with section 7283 of this title).
 
-(Pub. L. 110–234, title I, § 1209, May 22, 2008, 122 Stat. 964; Pub. L. 110–246, § 4(a), title I, § 1209, June 18, 2008, 122 Stat. 1664, 1692.)
+(Pub. L. 110–234, title I, § 1209, May 22, 2008, 122 Stat. 964; Pub. L. 110–246, § 4(a), title I, § 1209, June 18, 2008, 122 Stat. 1664, 1692.)
 
 **Editorial Notes**
 
@@ -1565,7 +1565,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8740. Adjustments of loans
+### § 8740. Adjustments of loans
 
 **(a) Adjustment authority**
 
@@ -1575,7 +1575,7 @@ Subject to subsection (e), the Secretary may make appropriate adjustments in the
 
 The adjustments under subsection (a) shall, to the maximum extent practicable, be made in such a manner that the average loan level for the commodity will, on the basis of the anticipated incidence of the factors, be equal to the level of support determined in accordance with this subtitle and subtitles B through E.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(c) Adjustment on county basis**
 
@@ -1637,13 +1637,13 @@ Chapter 10 of title 5 shall not apply to consultations under this subsection.
 
 The Secretary shall not make adjustments in the loan rates for long grain rice and medium grain rice, except for differences in grade and quality (including milling yields).
 
-(Pub. L. 110–234, title I, § 1210, May 22, 2008, 122 Stat. 965; Pub. L. 110–246, § 4(a), title I, § 1210, June 18, 2008, 122 Stat. 1664, 1693; Pub. L. 117–286, § 4(a)(42), Dec. 27, 2022, 136 Stat. 4310.)
+(Pub. L. 110–234, title I, § 1210, May 22, 2008, 122 Stat. 965; Pub. L. 110–246, § 4(a), title I, § 1210, June 18, 2008, 122 Stat. 1664, 1693; Pub. L. 117–286, § 4(a)(42), Dec. 27, 2022, 136 Stat. 4310.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle and subtitles B through E, referred to in subsec. (b), probably means subtitle B (§ 1201 et seq.) and subtitles C (§ 1301 et seq.), D (§ 1401 et seq.), and E (§ 1501 et seq.) of title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1681. Subtitles B and C are classified generally to this subchapter and subchapter III (§ 8751 et seq.), respectively, of this chapter. Subtitle D enacted sections 1359kk, 1359*ll*, and 7287 of this title, amended sections 1359aa to 1359gg, 1359ii, 7272, and 7971 of this title, repealed former section 1359kk of this title, and enacted provisions set out as notes under sections 3602 and 7272 of this title. Subtitle E enacted subchapter IV (§ 8771 et seq.) of this chapter and amended sections 608c, 1637b, 4502, 4504, 4531, and 4553 of this title and section 713a–14 of Title 15, Commerce and Trade. For complete classification of subtitles B to E to the Code, see Tables.
+This subtitle and subtitles B through E, referred to in subsec. (b), probably means subtitle B (§ 1201 et seq.) and subtitles C (§ 1301 et seq.), D (§ 1401 et seq.), and E (§ 1501 et seq.) of title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1681. Subtitles B and C are classified generally to this subchapter and subchapter III (§ 8751 et seq.), respectively, of this chapter. Subtitle D enacted sections 1359kk, 1359*ll*, and 7287 of this title, amended sections 1359aa to 1359gg, 1359ii, 7272, and 7971 of this title, repealed former section 1359kk of this title, and enacted provisions set out as notes under sections 3602 and 7272 of this title. Subtitle E enacted subchapter IV (§ 8771 et seq.) of this chapter and amended sections 608c, 1637b, 4502, 4504, 4531, and 4553 of this title and section 713a–14 of Title 15, Commerce and Trade. For complete classification of subtitles B to E to the Code, see Tables.
 
 The date of enactment of this Act, referred to in subsec. (d)(2)(A), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -1663,7 +1663,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ## SUBCHAPTER III—PEANUTS
 
-### § 8751. Definitions
+### § 8751. Definitions
 
 In this subchapter:
 
@@ -1679,19 +1679,19 @@ The term “base acres”, with respect to a covered commodity, has the meaning 
 
 **(2) Counter-cyclical payment**
 
-The term “counter-cyclical payment” means a payment made to producers on a farm under section 8754 1
+The term “counter-cyclical payment” means a payment made to producers on a farm under section 8754 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
 **(3) Direct payment**
 
-The term “direct payment” means a direct payment made to producers on a farm under section 8753 <sup>1</sup> of this title.
+The term “direct payment” means a direct payment made to producers on a farm under section 8753 <sup>1</sup> of this title.
 
 **(4) Effective price**
 
-The term “effective price” means the price calculated by the Secretary under section 8754 <sup>1</sup> of this title for peanuts to determine whether counter-cyclical payments are required to be made under that section for a crop year.
+The term “effective price” means the price calculated by the Secretary under section 8754 <sup>1</sup> of this title for peanuts to determine whether counter-cyclical payments are required to be made under that section for a crop year.
 
 **(5) Payment acres** The term “payment acres” means, in the case of direct payments and counter-cyclical payments—
 
@@ -1733,15 +1733,15 @@ The term “target price” means the price per ton of peanuts used to determine
 
 The term “United States”, when used in a geographical sense, means all of the States.
 
-(Pub. L. 110–234, title I, § 1301, May 22, 2008, 122 Stat. 966; Pub. L. 110–246, § 4(a), title I, § 1301, June 18, 2008, 122 Stat. 1664, 1695.)
+(Pub. L. 110–234, title I, § 1301, May 22, 2008, 122 Stat. 966; Pub. L. 110–246, § 4(a), title I, § 1301, June 18, 2008, 122 Stat. 1664, 1695.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 8754 of this title, referred to in pars. (2) and (4), was repealed by Pub. L. 113–79, title I, § 1102(a), Feb. 7, 2014, 128 Stat. 658.
+Section 8754 of this title, referred to in pars. (2) and (4), was repealed by Pub. L. 113–79, title I, § 1102(a), Feb. 7, 2014, 128 Stat. 658.
 
-Section 8753 of this title, referred to in par. (3), was repealed by Pub. L. 113–79, title I, § 1101, Feb. 7, 2014, 128 Stat. 658.
+Section 8753 of this title, referred to in par. (3), was repealed by Pub. L. 113–79, title I, § 1101, Feb. 7, 2014, 128 Stat. 658.
 
 **Codification**
 
@@ -1753,7 +1753,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8752. Base acres for peanuts for a farm
+### § 8752. Base acres for peanuts for a farm
 
 **(a) Adjustment of base acreage for peanuts**
 
@@ -1837,9 +1837,9 @@ Except as provided in paragraph (2) and notwithstanding any other provision of t
 
 **(2) Exceptions** Paragraph (1) shall not apply to a farm owned by—
 
-**(A)** a socially disadvantaged farmer or rancher (as defined in section 2003(e) of this title; 1
+**(A)** a socially disadvantaged farmer or rancher (as defined in section 2003(e) of this title; 1
 
-<sup>1</sup>  So in original. There probably should be a closing parenthesis after “title”.
+<sup>1</sup> So in original. There probably should be a closing parenthesis after “title”.
 
 or
 
@@ -1849,7 +1849,7 @@ or
 
 Paragraphs (1) and (2) shall not apply during the 2008 crop year.
 
-(Pub. L. 110–234, title I, § 1302, May 22, 2008, 122 Stat. 968; Pub. L. 110–246, § 4(a), title I, § 1302, June 18, 2008, 122 Stat. 1664, 1696; Pub. L. 110–398, § 1(a)(2), Oct. 13, 2008, 122 Stat. 4213; Pub. L. 113–188, title I, § 101(a), Nov. 26, 2014, 128 Stat. 2017.)
+(Pub. L. 110–234, title I, § 1302, May 22, 2008, 122 Stat. 968; Pub. L. 110–246, § 4(a), title I, § 1302, June 18, 2008, 122 Stat. 1664, 1696; Pub. L. 110–398, § 1(a)(2), Oct. 13, 2008, 122 Stat. 4213; Pub. L. 113–188, title I, § 101(a), Nov. 26, 2014, 128 Stat. 2017.)
 
 **Editorial Notes**
 
@@ -1857,7 +1857,7 @@ Paragraphs (1) and (2) shall not apply during the 2008 crop year.
 
 The date of enactment of this Act, referred to in subsec. (a)(1)(A), (B), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Food Security Act of 1985, referred to in subsec. (b)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§ 3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§ 3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 This chapter, referred to in subsec. (d)(1), was in the original “this title”, meaning title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
@@ -1867,9 +1867,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-2014—Subsec. (d)(3). Pub. L. 113–188, § 101(a)(1), (3), redesignated par. (4) as (3) and struck out former par. (3) which related to required data collection and publication.
+2014—Subsec. (d)(3). Pub. L. 113–188, § 101(a)(1), (3), redesignated par. (4) as (3) and struck out former par. (3) which related to required data collection and publication.
 
-Subsec. (d)(4). Pub. L. 113–188, § 101(a)(2), (3), substituted “Paragraphs (1) and (2)” for “Paragraphs (1) through (3)” and redesignated par. (4) as (3).
+Subsec. (d)(4). Pub. L. 113–188, § 101(a)(2), (3), substituted “Paragraphs (1) and (2)” for “Paragraphs (1) through (3)” and redesignated par. (4) as (3).
 
 2008—Subsec. (d)(4). Pub. L. 110–398 added par. (4).
 
@@ -1879,13 +1879,13 @@ Subsec. (d)(4). Pub. L. 113–188, § 101(a)(2), (3), substituted “Paragraph
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8753. Repealed. Pub. L. 113–79, title I, § 1101, Feb. 7, 2014, 128 Stat. 658
+### § 8753. Repealed. Pub. L. 113–79, title I, § 1101, Feb. 7, 2014, 128 Stat. 658
 
-Section, Pub. L. 110–234, title I, § 1303, May 22, 2008, 122 Stat. 970; Pub. L. 110–246, § 4(a), title I, § 1303, June 18, 2008, 122 Stat. 1664, 1698, related to availability of direct payments for peanuts for 2008 through 2012 crop years.
+Section, Pub. L. 110–234, title I, § 1303, May 22, 2008, 122 Stat. 970; Pub. L. 110–246, § 4(a), title I, § 1303, June 18, 2008, 122 Stat. 1664, 1698, related to availability of direct payments for peanuts for 2008 through 2012 crop years.
 
-### § 8754. Repealed. Pub. L. 113–79, title I, § 1102(a), Feb. 7, 2014, 128 Stat. 658
+### § 8754. Repealed. Pub. L. 113–79, title I, § 1102(a), Feb. 7, 2014, 128 Stat. 658
 
-Section, Pub. L. 110–234, title I, § 1304, May 22, 2008, 122 Stat. 971; Pub. L. 110–246, § 4(a), title I, § 1304, June 18, 2008, 122 Stat. 1664, 1699, related to availability of counter-cyclical payments for peanuts for 2008 through 2012 crop years.
+Section, Pub. L. 110–234, title I, § 1304, May 22, 2008, 122 Stat. 971; Pub. L. 110–246, § 4(a), title I, § 1304, June 18, 2008, 122 Stat. 1664, 1699, related to availability of counter-cyclical payments for peanuts for 2008 through 2012 crop years.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1893,13 +1893,13 @@ Section, Pub. L. 110–234, title I, § 1304, May 22, 2008, 122 Stat. 971; Pub
 
 For continued application of this section, as in effect on the day before Feb. 7, 2014, through the 2013 crop year, see section 1102(b) of Pub. L. 113–79, set out as a note under section 8714 of this title.
 
-### § 8755. Producer agreement required as condition on provision of payments
+### § 8755. Producer agreement required as condition on provision of payments
 
 **(a) Compliance with certain requirements**
 
-**(1) Requirements** Before the producers on a farm may receive direct payments or counter-cyclical payments under this subchapter, or average crop revenue election payments under section 8715 1
+**(1) Requirements** Before the producers on a farm may receive direct payments or counter-cyclical payments under this subchapter, or average crop revenue election payments under section 8715 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, with respect to the farm, the producers shall agree, during the crop year for which the payments are made and in exchange for the payments—
 
@@ -1953,7 +1953,7 @@ In carrying out this subchapter, the Secretary shall provide adequate safeguards
 
 **(e) Sharing of payments**
 
-The Secretary shall provide for the sharing of direct payments, counter-cyclical payments, or average crop revenue election payments under section 8715 <sup>1</sup> of this title among the producers on a farm on a fair and equitable basis.
+The Secretary shall provide for the sharing of direct payments, counter-cyclical payments, or average crop revenue election payments under section 8715 <sup>1</sup> of this title among the producers on a farm on a fair and equitable basis.
 
 **(f) Extension of 2008 signup**
 
@@ -1967,15 +1967,15 @@ The Secretary shall provide for the sharing of direct payments, counter-cyclical
 
 The Secretary shall ensure that no penalty with respect to benefits under this subchapter is assessed against producers on a farm described in paragraph (1) for failure to submit reports under this section or timely comply with other program requirements as a result of compliance with the extended signup deadline under that paragraph.
 
-(Pub. L. 110–234, title I, § 1305, May 22, 2008, 122 Stat. 972; Pub. L. 110–246, § 4(a), title I, § 1305, June 18, 2008, 122 Stat. 1664, 1701; Pub. L. 110–398, § 1(b)(2), Oct. 13, 2008, 122 Stat. 4213.)
+(Pub. L. 110–234, title I, § 1305, May 22, 2008, 122 Stat. 972; Pub. L. 110–246, § 4(a), title I, § 1305, June 18, 2008, 122 Stat. 1664, 1701; Pub. L. 110–398, § 1(b)(2), Oct. 13, 2008, 122 Stat. 4213.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 8715 of this title, referred to in subsecs. (a)(1) and (e), was repealed by Pub. L. 113–79, title I, § 1103(a), Feb. 7, 2014, 128 Stat. 658.
+Section 8715 of this title, referred to in subsecs. (a)(1) and (e), was repealed by Pub. L. 113–79, title I, § 1103(a), Feb. 7, 2014, 128 Stat. 658.
 
-The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 **Codification**
 
@@ -1991,7 +1991,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8756. Planting flexibility
+### § 8756. Planting flexibility
 
 **(a) Permitted crops**
 
@@ -2027,7 +2027,7 @@ The planting of an agricultural commodity specified in paragraph (3) that is pro
 
 **(B)** direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such agricultural commodity.
 
-(Pub. L. 110–234, title I, § 1306, May 22, 2008, 122 Stat. 973; Pub. L. 110–246, § 4(a), title I, § 1306, June 18, 2008, 122 Stat. 1664, 1702.)
+(Pub. L. 110–234, title I, § 1306, May 22, 2008, 122 Stat. 973; Pub. L. 110–246, § 4(a), title I, § 1306, June 18, 2008, 122 Stat. 1664, 1702.)
 
 **Editorial Notes**
 
@@ -2041,7 +2041,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8757. Marketing assistance loans and loan deficiency payments for peanuts
+### § 8757. Marketing assistance loans and loan deficiency payments for peanuts
 
 **(a) Nonrecourse loans available**
 
@@ -2087,9 +2087,9 @@ A marketing association or cooperative may market peanuts for which a loan is ma
 
 **(b) Loan rate**
 
-Except as provided in section 8715 1
+Except as provided in section 8715 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the loan rate for a marketing assistance loan for peanuts under subsection (a) shall be equal to $355 per ton.
 
@@ -2159,15 +2159,15 @@ As a condition of the receipt of a marketing assistance loan under subsection (a
 
 The Secretary may implement any reimbursable agreements or provide for the payment of administrative expenses under this subchapter only in a manner that is consistent with such activities in regard to other commodities.
 
-(Pub. L. 110–234, title I, § 1307, May 22, 2008, 122 Stat. 974; Pub. L. 110–246, § 4(a), title I, § 1307, June 18, 2008, 122 Stat. 1664, 1703.)
+(Pub. L. 110–234, title I, § 1307, May 22, 2008, 122 Stat. 974; Pub. L. 110–246, § 4(a), title I, § 1307, June 18, 2008, 122 Stat. 1664, 1703.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 8715 of this title, referred to in subsec. (b), was repealed by Pub. L. 113–79, title I, § 1103(a), Feb. 7, 2014, 128 Stat. 658.
+Section 8715 of this title, referred to in subsec. (b), was repealed by Pub. L. 113–79, title I, § 1103(a), Feb. 7, 2014, 128 Stat. 658.
 
-The Food Security Act of 1985, referred to in subsec. (f), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (f), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 **Codification**
 
@@ -2179,7 +2179,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8758. Adjustments of loans
+### § 8758. Adjustments of loans
 
 **(a) Adjustment authority**
 
@@ -2199,13 +2199,13 @@ Subject to paragraph (2), the Secretary may establish loan rates for a crop of p
 
 Adjustments under this subsection shall not result in an increase in the national average loan rate for any year.
 
-(Pub. L. 110–234, title I, § 1308, May 22, 2008, 122 Stat. 977; Pub. L. 110–246, § 4(a), title I, § 1308, June 18, 2008, 122 Stat. 1664, 1705.)
+(Pub. L. 110–234, title I, § 1308, May 22, 2008, 122 Stat. 977; Pub. L. 110–246, § 4(a), title I, § 1308, June 18, 2008, 122 Stat. 1664, 1705.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subtitles B, D, and E, referred to in subsec. (b), are subtitles B (§ 1201 et seq.), D (§ 1401 et seq.), and E (§ 1501 et seq.), respectively, of title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1681. Subtitle B is classified generally to subchapter II (§ 8731 et seq.) of this chapter. Subtitle D enacted sections 1359kk, 1359*ll*, and 7287 of this title, amended sections 1359aa to 1359gg, 1359ii, 7272, and 7971 of this title, repealed former section 1359kk of this title, and enacted provisions set out as notes under sections 3602 and 7272 of this title. Subtitle E enacted subchapter IV (§ 8771 et seq.) of this chapter and amended sections 608c, 1637b, 4502, 4504, 4531, and 4553 of this title and section 713a–14 of Title 15, Commerce and Trade. For complete classification of subtitles B, D, and E to the Code, see Tables.
+Subtitles B, D, and E, referred to in subsec. (b), are subtitles B (§ 1201 et seq.), D (§ 1401 et seq.), and E (§ 1501 et seq.), respectively, of title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1681. Subtitle B is classified generally to subchapter II (§ 8731 et seq.) of this chapter. Subtitle D enacted sections 1359kk, 1359*ll*, and 7287 of this title, amended sections 1359aa to 1359gg, 1359ii, 7272, and 7971 of this title, repealed former section 1359kk of this title, and enacted provisions set out as notes under sections 3602 and 7272 of this title. Subtitle E enacted subchapter IV (§ 8771 et seq.) of this chapter and amended sections 608c, 1637b, 4502, 4504, 4531, and 4553 of this title and section 713a–14 of Title 15, Commerce and Trade. For complete classification of subtitles B, D, and E to the Code, see Tables.
 
 **Codification**
 
@@ -2219,11 +2219,11 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ## SUBCHAPTER IV—DAIRY
 
-### § 8771. Repealed. Pub. L. 113–79, title I, § 1421, Feb. 7, 2014, 128 Stat. 694
+### § 8771. Repealed. Pub. L. 113–79, title I, § 1421, Feb. 7, 2014, 128 Stat. 694
 
-Section, Pub. L. 110–234, title I, § 1501, May 22, 2008, 122 Stat. 990; Pub. L. 110–246, § 4(a), title I, § 1501, June 18, 2008, 122 Stat. 1664, 1718, related to the dairy product price support program.
+Section, Pub. L. 110–234, title I, § 1501, May 22, 2008, 122 Stat. 990; Pub. L. 110–246, § 4(a), title I, § 1501, June 18, 2008, 122 Stat. 1664, 1718, related to the dairy product price support program.
 
-### § 8772. Dairy forward pricing program
+### § 8772. Dairy forward pricing program
 
 **(a) Program required**
 
@@ -2255,9 +2255,9 @@ A milk handler may not require participation in a forward pricing contract as a 
 
 **(2) Pricing**
 
-A producer or cooperative association described in paragraph (1) may continue to have their 1
+A producer or cooperative association described in paragraph (1) may continue to have their 1
 
-<sup>1</sup>  So in original. Probably should be “its”.
+<sup>1</sup> So in original. Probably should be “its”.
 
 milk priced in accordance with the minimum payment provisions of the Federal milk marketing order.
 
@@ -2281,7 +2281,7 @@ No forward price contract may be entered into under the program established unde
 
 No forward contract entered into under the program may extend beyond September 30, 2029.
 
-(Pub. L. 110–234, title I, § 1502, May 22, 2008, 122 Stat. 991; Pub. L. 110–246, § 4(a), title I, § 1502, June 18, 2008, 122 Stat. 1664, 1720; Pub. L. 113–79, title I, § 1424, Feb. 7, 2014, 128 Stat. 695; Pub. L. 115–334, title I, § 1402(a), Dec. 20, 2018, 132 Stat. 4518; Pub. L. 118–22, div. B, title I, § 102(c)(2)(C), Nov. 17, 2023, 137 Stat. 116; Pub. L. 118–158, div. D, § 4101(c)(4)(B), Dec. 21, 2024, 138 Stat. 1769; Pub. L. 119–37, div. E, § 5002(c)(1), Nov. 12, 2025, 139 Stat. 627.)
+(Pub. L. 110–234, title I, § 1502, May 22, 2008, 122 Stat. 991; Pub. L. 110–246, § 4(a), title I, § 1502, June 18, 2008, 122 Stat. 1664, 1720; Pub. L. 113–79, title I, § 1424, Feb. 7, 2014, 128 Stat. 695; Pub. L. 115–334, title I, § 1402(a), Dec. 20, 2018, 132 Stat. 4518; Pub. L. 118–22, div. B, title I, § 102(c)(2)(C), Nov. 17, 2023, 137 Stat. 116; Pub. L. 118–158, div. D, § 4101(c)(4)(B), Dec. 21, 2024, 138 Stat. 1769; Pub. L. 119–37, div. E, § 5002(c)(1), Nov. 12, 2025, 139 Stat. 627.)
 
 **Editorial Notes**
 
@@ -2299,13 +2299,13 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 2023—Subsec. (e)(2). Pub. L. 118–22 substituted “2027” for “2026”.
 
-2018—Subsec. (e)(1). Pub. L. 115–334, § 1402(a)(1), substituted “2023” for “2018”.
+2018—Subsec. (e)(1). Pub. L. 115–334, § 1402(a)(1), substituted “2023” for “2018”.
 
-Subsec. (e)(2). Pub. L. 115–334, § 1402(a)(2), substituted “2026” for “2021”.
+Subsec. (e)(2). Pub. L. 115–334, § 1402(a)(2), substituted “2026” for “2021”.
 
-2014—Subsec. (e)(1). Pub. L. 113–79, § 1424(1), substituted “2018” for “2012”.
+2014—Subsec. (e)(1). Pub. L. 113–79, § 1424(1), substituted “2018” for “2012”.
 
-Subsec. (e)(2). Pub. L. 113–79, § 1424(2), substituted “2021” for “2015”.
+Subsec. (e)(2). Pub. L. 113–79, § 1424(2), substituted “2021” for “2015”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2325,15 +2325,15 @@ Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Se
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8773. Repealed. Pub. L. 113–79, title I, § 1422(b)(1), Feb. 7, 2014, 128 Stat. 695
+### § 8773. Repealed. Pub. L. 113–79, title I, § 1422(b)(1), Feb. 7, 2014, 128 Stat. 695
 
-Pub. L. 110–234, title I, § 1506, May 22, 2008, 122 Stat. 994; Pub. L. 110–246, § 4(a), title I, § 1506, June 18, 2008, 122 Stat. 1664, 1723; Pub. L. 112–240, title VII, § 701(b)(2)(B), Jan. 2, 2013, 126 Stat. 2363; Pub. L. 113–79, title I, § 1422(a), Feb. 7, 2014, 128 Stat. 694, related to the milk income loss contract program.
+Pub. L. 110–234, title I, § 1506, May 22, 2008, 122 Stat. 994; Pub. L. 110–246, § 4(a), title I, § 1506, June 18, 2008, 122 Stat. 1664, 1723; Pub. L. 112–240, title VII, § 701(b)(2)(B), Jan. 2, 2013, 126 Stat. 2363; Pub. L. 113–79, title I, § 1422(a), Feb. 7, 2014, 128 Stat. 694, related to the milk income loss contract program.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 113–79, title I, § 1422(b), Feb. 7, 2014, 128 Stat. 695, provided that:
+Pub. L. 113–79, title I, § 1422(b), Feb. 7, 2014, 128 Stat. 695, provided that:
 
 > **“(1) Repeal.—** Effective on the termination date, section 1506 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8773) is repealed.
 
@@ -2345,7 +2345,7 @@ Pub. L. 113–79, title I, § 1422(b), Feb. 7, 2014, 128 Stat. 695, provided t
 
 ## SUBCHAPTER V—ADMINISTRATION
 
-### § 8781. Administration generally
+### § 8781. Administration generally
 
 **(a) Use of Commodity Credit Corporation**
 
@@ -2387,7 +2387,7 @@ If the Secretary determines that expenditures under this chapter that are subjec
 
 Before making any adjustment under paragraph (1), the Secretary shall submit to the Committee on Agriculture of the House of Representatives or the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the determination made under that paragraph and the extent of the adjustment to be made.
 
-(Pub. L. 110–234, title I, § 1601, May 22, 2008, 122 Stat. 1000; Pub. L. 110–246, § 4(a), title I, § 1601, June 18, 2008, 122 Stat. 1664, 1728.)
+(Pub. L. 110–234, title I, § 1601, May 22, 2008, 122 Stat. 1000; Pub. L. 110–246, § 4(a), title I, § 1601, June 18, 2008, 122 Stat. 1664, 1728.)
 
 **Editorial Notes**
 
@@ -2411,7 +2411,7 @@ Section is comprised of section 1601 of Pub. L. 110–246. Subsec. (e) of sectio
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8782. Suspension of permanent price support authority
+### § 8782. Suspension of permanent price support authority
 
 **(a) Agricultural Adjustment Act of 1938** The following provisions of the Agricultural Adjustment Act of 1938 [7 U.S.C. 1281 et seq.] shall not be applicable to the 2008 through 2012 crops of covered commodities, peanuts, and sugar and shall not be applicable to milk during the period beginning on the date of enactment of this Act through December 31, 2012:
 
@@ -2453,17 +2453,17 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 The joint resolution entitled “A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended”, approved May 26, 1941 (7 U.S.C. 1330 and 1340), shall not be applicable to the crops of wheat planted for harvest in the calendar years 2008 through 2012.
 
-(Pub. L. 110–234, title I, § 1602, May 22, 2008, 122 Stat. 1001; Pub. L. 110–246, § 4(a), title I, § 1602, June 18, 2008, 122 Stat. 1664, 1729.)
+(Pub. L. 110–234, title I, § 1602, May 22, 2008, 122 Stat. 1001; Pub. L. 110–246, § 4(a), title I, § 1602, June 18, 2008, 122 Stat. 1664, 1729.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Adjustment Act of 1938, referred to in subsec. (a), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. Parts II through V of subtitle B of title III of the Act are classified generally to subparts II (§ 1321 et seq.), III (§ 1331 et seq.), IV (§ 1341 et seq.), and V (§ 1351, which was omitted from the Code), respectively, of part B of subchapter II of chapter 35 of this title. Subtitle D of title III of the Act is classified generally to part D (§ 1379a et seq.) of subchapter II of chapter 35 of this title. Title IV of the Act was classified generally to subchapter III (§ 1401 et seq.) of chapter 35 of this title, and was omitted from the Code. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (a), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. Parts II through V of subtitle B of title III of the Act are classified generally to subparts II (§ 1321 et seq.), III (§ 1331 et seq.), IV (§ 1341 et seq.), and V (§ 1351, which was omitted from the Code), respectively, of part B of subchapter II of chapter 35 of this title. Subtitle D of title III of the Act is classified generally to part D (§ 1379a et seq.) of subchapter II of chapter 35 of this title. Title IV of the Act was classified generally to subchapter III (§ 1401 et seq.) of chapter 35 of this title, and was omitted from the Code. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 The date of enactment of this Act, referred to in subsecs. (a) and (b), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Agricultural Act of 1949, referred to in subsec. (b), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title III of the Act is classified generally to sections 1447 to 1449 of this title. Title IV of the Act is classified principally to subchapter I (§ 1421 et seq.) of chapter 35A of this title. Title V of the Act, which was classified generally to subchapter IV (§ 1461 et seq.) of chapter 35A of this title, was omitted from the Code. Title VI of the Act is classified generally to subchapter V (§ 1471 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (b), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title III of the Act is classified generally to sections 1447 to 1449 of this title. Title IV of the Act is classified principally to subchapter I (§ 1421 et seq.) of chapter 35A of this title. Title V of the Act, which was classified generally to subchapter IV (§ 1461 et seq.) of chapter 35A of this title, was omitted from the Code. Title VI of the Act is classified generally to subchapter V (§ 1471 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 The joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, referred to in subsec. (c), is act May 26, 1941, ch. 133, 55 Stat. 203, which enacted sections 1330 and 1340 of this title. Section 1330 was subsequently omitted from the Code.
 
@@ -2477,7 +2477,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8783. Availability of quality incentive payments for covered oilseed producers
+### § 8783. Availability of quality incentive payments for covered oilseed producers
 
 **(a) Incentive payments required**
 
@@ -2575,7 +2575,7 @@ In addition to payments required under paragraph (2), the Secretary may impose p
 
 There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2012.
 
-(Pub. L. 110–234, title I, § 1605, May 22, 2008, 122 Stat. 1016; Pub. L. 110–246, § 4(a), title I, § 1605, June 18, 2008, 122 Stat. 1664, 1744.)
+(Pub. L. 110–234, title I, § 1605, May 22, 2008, 122 Stat. 1016; Pub. L. 110–246, § 4(a), title I, § 1605, June 18, 2008, 122 Stat. 1664, 1744.)
 
 **Editorial Notes**
 
@@ -2589,7 +2589,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8784. Assignment of payments
+### § 8784. Assignment of payments
 
 **(a) In general**
 
@@ -2599,7 +2599,7 @@ The provisions of section 590h(g) of title 16, relating to assignment of payment
 
 The producer making the assignment, or the assignee, shall provide the Secretary with notice, in such manner as the Secretary may require, of any assignment made under this section.
 
-(Pub. L. 110–234, title I, § 1608, May 22, 2008, 122 Stat. 1018; Pub. L. 110–246, § 4(a), title I, § 1608, June 18, 2008, 122 Stat. 1664, 1746.)
+(Pub. L. 110–234, title I, § 1608, May 22, 2008, 122 Stat. 1018; Pub. L. 110–246, § 4(a), title I, § 1608, June 18, 2008, 122 Stat. 1664, 1746.)
 
 **Editorial Notes**
 
@@ -2617,11 +2617,11 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8785. Tracking of benefits
+### § 8785. Tracking of benefits
 
 As soon as practicable after the date of enactment of this Act, the Secretary may track the benefits provided, directly or indirectly, to individuals and entities under titles I and II and the amendments made by those titles.
 
-(Pub. L. 110–234, title I, § 1609, May 22, 2008, 122 Stat. 1018; Pub. L. 110–246, § 4(a), title I, § 1609, June 18, 2008, 122 Stat. 1664, 1746.)
+(Pub. L. 110–234, title I, § 1609, May 22, 2008, 122 Stat. 1018; Pub. L. 110–246, § 4(a), title I, § 1609, June 18, 2008, 122 Stat. 1664, 1746.)
 
 **Editorial Notes**
 
@@ -2641,7 +2641,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8786. Prevention of deceased individuals receiving payments under farm commodity programs
+### § 8786. Prevention of deceased individuals receiving payments under farm commodity programs
 
 **(a) Regulations** Not later than 180 days after the date of enactment of this Act, the Secretary shall promulgate regulations that—
 
@@ -2653,7 +2653,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 At least twice each year, the Secretary shall reconcile the social security numbers of all individuals who receive payments under this chapter, whether directly or indirectly, with the Social Security Administration to determine if the individuals are alive.
 
-(Pub. L. 110–234, title I, § 1611, May 22, 2008, 122 Stat. 1018; Pub. L. 110–246, § 4(a), title I, § 1611, June 18, 2008, 122 Stat. 1664, 1746.)
+(Pub. L. 110–234, title I, § 1611, May 22, 2008, 122 Stat. 1018; Pub. L. 110–246, § 4(a), title I, § 1611, June 18, 2008, 122 Stat. 1664, 1746.)
 
 **Editorial Notes**
 
@@ -2673,7 +2673,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8787. Hard white wheat development program
+### § 8787. Hard white wheat development program
 
 **(a) Definitions** In this section:
 
@@ -2721,7 +2721,7 @@ The Secretary shall carry out subparagraph (A) subject to a regional limitation 
 
 There are authorized to be appropriated to carry out this section $35,000,000 for the period of fiscal years 2009 through 2012.
 
-(Pub. L. 110–234, title I, § 1612, May 22, 2008, 122 Stat. 1019; Pub. L. 110–246, § 4(a), title I, § 1612, June 18, 2008, 122 Stat. 1664, 1747.)
+(Pub. L. 110–234, title I, § 1612, May 22, 2008, 122 Stat. 1019; Pub. L. 110–246, § 4(a), title I, § 1612, June 18, 2008, 122 Stat. 1664, 1747.)
 
 **Editorial Notes**
 
@@ -2735,7 +2735,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8788. Durum wheat quality program
+### § 8788. Durum wheat quality program
 
 **(a) In general**
 
@@ -2749,7 +2749,7 @@ If the total amount of funds appropriated for a fiscal year under subsection (c)
 
 There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2009 through 2012.
 
-(Pub. L. 110–234, title I, § 1613, May 22, 2008, 122 Stat. 1019; Pub. L. 110–246, § 4(a), title I, § 1613, June 18, 2008, 122 Stat. 1664, 1748.)
+(Pub. L. 110–234, title I, § 1613, May 22, 2008, 122 Stat. 1019; Pub. L. 110–246, § 4(a), title I, § 1613, June 18, 2008, 122 Stat. 1664, 1748.)
 
 **Editorial Notes**
 
@@ -2763,7 +2763,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8789. Storage facility loans
+### § 8789. Storage facility loans
 
 **(a) In general**
 
@@ -2809,7 +2809,7 @@ The Secretary shall provide for 1 partial disbursement of loan principal and 1 f
 
 **(B)** not subject to any other liens or mortgages that are superior to the lien interest of the Commodity Credit Corporation.
 
-(Pub. L. 110–234, title I, § 1614, May 22, 2008, 122 Stat. 1020; Pub. L. 110–246, § 4(a), title I, § 1614, June 18, 2008, 122 Stat. 1664, 1748.)
+(Pub. L. 110–234, title I, § 1614, May 22, 2008, 122 Stat. 1020; Pub. L. 110–246, § 4(a), title I, § 1614, June 18, 2008, 122 Stat. 1664, 1748.)
 
 **Editorial Notes**
 
@@ -2827,7 +2827,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8790. Signature authority
+### § 8790. Signature authority
 
 **(a) In general**
 
@@ -2843,11 +2843,11 @@ Nothing in this section prohibits the Secretary from asking a proper party to af
 
 **(A)** relied on the prior approval by the Secretary of the documents in good faith; and
 
-**(B)** substantively complied with all program requirements 1
+**(B)** substantively complied with all program requirements 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
-(Pub. L. 110–234, title I, § 1617, May 22, 2008, 122 Stat. 1021; Pub. L. 110–246, § 4(a), title I, § 1617, June 18, 2008, 122 Stat. 1664, 1750.)
+(Pub. L. 110–234, title I, § 1617, May 22, 2008, 122 Stat. 1021; Pub. L. 110–246, § 4(a), title I, § 1617, June 18, 2008, 122 Stat. 1664, 1750.)
 
 **Editorial Notes**
 
@@ -2865,7 +2865,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8791. Information gathering
+### § 8791. Information gathering
 
 **(a) Geospatial systems**
 
@@ -2911,7 +2911,7 @@ The participation of the agricultural producer or owner of agricultural land in,
 
 The disclosure of information under paragraph (2) shall not constitute a waiver of any applicable privilege or protection under Federal law, including trade secret protection.
 
-(Pub. L. 110–234, title I, § 1619, May 22, 2008, 122 Stat. 1022; Pub. L. 110–246, § 4(a), title I, § 1619, June 18, 2008, 122 Stat. 1664, 1750.)
+(Pub. L. 110–234, title I, § 1619, May 22, 2008, 122 Stat. 1022; Pub. L. 110–246, § 4(a), title I, § 1619, June 18, 2008, 122 Stat. 1664, 1750.)
 
 **Editorial Notes**
 
@@ -2925,7 +2925,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8792. Geographically disadvantaged farmers and ranchers
+### § 8792. Geographically disadvantaged farmers and ranchers
 
 **(a) Definitions** In this section:
 
@@ -2971,7 +2971,7 @@ The total amount of direct reimbursement payments provided by the Secretary unde
 
 There are authorized to be appropriated such sums as are necessary to carry out this section for fiscal year 2009 and each succeeding fiscal year.
 
-(Pub. L. 110–234, title I, § 1621, May 22, 2008, 122 Stat. 1024; Pub. L. 110–246, § 4(a), title I, § 1621, June 18, 2008, 122 Stat. 1664, 1752; Pub. L. 113–79, title I, § 1606, Feb. 7, 2014, 128 Stat. 708.)
+(Pub. L. 110–234, title I, § 1621, May 22, 2008, 122 Stat. 1024; Pub. L. 110–246, § 4(a), title I, § 1621, June 18, 2008, 122 Stat. 1664, 1752; Pub. L. 113–79, title I, § 1606, Feb. 7, 2014, 128 Stat. 708.)
 
 **Editorial Notes**
 
@@ -2989,11 +2989,11 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 8793. Implementation
+### § 8793. Implementation
 
 The Secretary shall make available to the Farm Service Agency to carry out this chapter $50,000,000.
 
-(Pub. L. 110–234, title I, § 1622, May 22, 2008, 122 Stat. 1025; Pub. L. 110–246, § 4(a), title I, § 1622, June 18, 2008, 122 Stat. 1664, 1753.)
+(Pub. L. 110–234, title I, § 1622, May 22, 2008, 122 Stat. 1025; Pub. L. 110–246, § 4(a), title I, § 1622, June 18, 2008, 122 Stat. 1664, 1753.)
 
 **Editorial Notes**
 

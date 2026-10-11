@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2001—Pub. L. 107–67, title VI, § 641(c), Nov. 12, 2001, 115 Stat. 555, added item 4507a.
+2001—Pub. L. 107–67, title VI, § 641(c), Nov. 12, 2001, 115 Stat. 555, added item 4507a.
 
-1994—Pub. L. 103–425, § 2(b), Oct. 31, 1994, 108 Stat. 4370, added items 4508 and 4509.
+1994—Pub. L. 103–425, § 2(b), Oct. 31, 1994, 108 Stat. 4370, added items 4508 and 4509.
 
-1992—Pub. L. 102–487, § 1(b), Oct. 24, 1992, 106 Stat. 3134, struck out item 4514 “Expiration of authority”.
+1992—Pub. L. 102–487, § 1(b), Oct. 24, 1992, 106 Stat. 3134, struck out item 4514 “Expiration of authority”.
 
-1990—Pub. L. 101–509, title V, § 529 [title II, § 207(b), title IV, § 408(b)], Nov. 5, 1990, 104 Stat. 1427, 1458, 1468, added item 4505a and heading for subchapter III and items 4521 to 4523.
+1990—Pub. L. 101–509, title V, § 529 [title II, § 207(b), title IV, § 408(b)], Nov. 5, 1990, 104 Stat. 1427, 1458, 1468, added item 4505a and heading for subchapter III and items 4521 to 4523.
 
-1988—Pub. L. 100–611, § 1(b), Nov. 5, 1988, 102 Stat. 3179, struck out “; reporting requirement” after “authority” in item 4514.
+1988—Pub. L. 100–611, § 1(b), Nov. 5, 1988, 102 Stat. 3179, struck out “; reporting requirement” after “authority” in item 4514.
 
-1985—Pub. L. 99–145, title XII, § 1225(b)(1)(B), Nov. 8, 1985, 99 Stat. 730, inserted “; reporting requirement” in item 4514.
+1985—Pub. L. 99–145, title XII, § 1225(b)(1)(B), Nov. 8, 1985, 99 Stat. 730, inserted “; reporting requirement” in item 4514.
 
-1981—Pub. L. 97–35, title XVII, § 1703(b)(3), Aug. 13, 1981, 95 Stat. 756, added heading for subchapter I and subchapter II and items 4511 to 4514.
+1981—Pub. L. 97–35, title XVII, § 1703(b)(3), Aug. 13, 1981, 95 Stat. 756, added heading for subchapter I and subchapter II and items 4511 to 4514.
 
-1978—Pub. L. 95–454, title IV, § 406(b), Oct. 13, 1978, 92 Stat. 1171, added item 4507.
+1978—Pub. L. 95–454, title IV, § 406(b), Oct. 13, 1978, 92 Stat. 1171, added item 4507.
 
 ## SUBCHAPTER I—AWARDS FOR SUPERIOR ACCOMPLISHMENTS
 
@@ -41,9 +41,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1981—Pub. L. 97–35, title XVII, § 1703(b)(1), Aug. 13, 1981, 95 Stat. 756, added heading for subchapter I.
+1981—Pub. L. 97–35, title XVII, § 1703(b)(1), Aug. 13, 1981, 95 Stat. 756, added heading for subchapter I.
 
-### § 4501. Definitions
+### § 4501. Definitions
 
 For the purpose of this subchapter—
 
@@ -77,13 +77,13 @@ but does not include—
 
 **(3)** “Government” means the Government of the United States and the government of the District of Columbia.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 442; Pub. L. 95–454, title V, § 503(a), Oct. 13, 1978, 92 Stat. 1183; Pub. L. 97–35, title XVII, § 1703(b)(2), Aug. 13, 1981, 95 Stat. 756; Pub. L. 98–615, title II, § 204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–690, title VII, § 7106(a), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–474, § 5(f), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 103–89, § 3(b)(1)(C), Sept. 30, 1993, 107 Stat. 981; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 442; Pub. L. 95–454, title V, § 503(a), Oct. 13, 1978, 92 Stat. 1183; Pub. L. 97–35, title XVII, § 1703(b)(2), Aug. 13, 1981, 95 Stat. 756; Pub. L. 98–615, title II, § 204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–690, title VII, § 7106(a), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–474, § 5(f), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 103–89, § 3(b)(1)(C), Sept. 30, 1993, 107 Stat. 981; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2122. | Sept. 1, 1954, ch. 1208, § 303, 68 Stat. 1113. Aug. 18, 1959, Pub. L. 86–168, § 202(d), 73 Stat. 389. |
+|  | 5 U.S.C. 2122. | Sept. 1, 1954, ch. 1208, § 303, 68 Stat. 1113. Aug. 18, 1959, Pub. L. 86–168, § 202(d), 73 Stat. 389. |
 
 In paragraph (1), the term “Executive agency” is coextensive with and substituted for “executive department or independent agency in the executive branch of the Government including a Government-owned or controlled corporation” in view of the definition of “Executive agency” in section 105. Application to the General Accounting Office (included in the term “Executive agency”) is based on former section 933a.
 
@@ -125,11 +125,11 @@ Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was 
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title XVII, § 1703(c), Aug. 13, 1981, 95 Stat. 756, provided that: “The amendments made by this section [enacting subchapter II of this chapter, designating this section and sections 4502 to 4507 of this title as subchapter I, and amending this section and sections 4502, 4505, and 4506 of this title] shall take effect on October 1, 1981.”
+Pub. L. 97–35, title XVII, § 1703(c), Aug. 13, 1981, 95 Stat. 756, provided that: “The amendments made by this section [enacting subchapter II of this chapter, designating this section and sections 4502 to 4507 of this title as subchapter I, and amending this section and sections 4502, 4505, and 4506 of this title] shall take effect on October 1, 1981.”
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 **Executive Documents**
 
@@ -179,7 +179,7 @@ Sec. 8. This order is intended only to improve the internal management of the ex
 
 William J. Clinton.
 
-### § 4502. General provisions
+### § 4502. General provisions
 
 **(a)** Except as provided by subsection (b) of this section, a cash award under this subchapter may not exceed $10,000.
 
@@ -193,13 +193,13 @@ William J. Clinton.
 
 **(f)** The Secretary of Defense may grant a cash award under subsection (b) of this section without regard to the requirements for certification and approval provided in that subsection.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 442; Pub. L. 95–454, title V, § 503(b), (c), Oct. 13, 1978, 92 Stat. 1183; Pub. L. 97–35, title XVII, § 1703(b)(2), Aug. 13, 1981, 95 Stat. 756; Pub. L. 101–509, title V, § 529 [title II, § 201], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 103–89, § 3(b)(1)(D), Sept. 30, 1993, 107 Stat. 981; Pub. L. 106–398, § 1 [[div. A], title XI, § 1132], Oct. 30, 2000, 114 Stat. 1654, 1654A–318.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 442; Pub. L. 95–454, title V, § 503(b), (c), Oct. 13, 1978, 92 Stat. 1183; Pub. L. 97–35, title XVII, § 1703(b)(2), Aug. 13, 1981, 95 Stat. 756; Pub. L. 101–509, title V, § 529 [title II, § 201], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 103–89, § 3(b)(1)(D), Sept. 30, 1993, 107 Stat. 981; Pub. L. 106–398, § 1 [[div. A], title XI, § 1132], Oct. 30, 2000, 114 Stat. 1654, 1654A–318.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2123(d), (e), (g). | Sept. 1, 1954, ch. 1208, § 304(d), (e), (g), 68 Stat. 1113. |
+|  | 5 U.S.C. 2123(d), (e), (g). | Sept. 1, 1954, ch. 1208, § 304(d), (e), (g), 68 Stat. 1113. |
 
 In subsections (a) and (b), the words “cash award” are substituted for “monetary award” and “such award” to conform to the remainder of the chapter.
 
@@ -219,9 +219,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1981—Subsecs. (a), (c). Pub. L. 97–35 substituted “subchapter” for “chapter”.
 
-1978—Subsec. (a). Pub. L. 95–454, § 503(b), substituted “$10,000” for “$5,000”.
+1978—Subsec. (a). Pub. L. 95–454, § 503(b), substituted “$10,000” for “$5,000”.
 
-Subsec. (b). Pub. L. 95–454, § 503(c), substituted “Office of Personnel Management” for “Civil Service Commission”, “$10,000” for “$5,000”, and “Office” for “Commission”.
+Subsec. (b). Pub. L. 95–454, § 503(c), substituted “Office of Personnel Management” for “Civil Service Commission”, “$10,000” for “$5,000”, and “Office” for “Commission”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -231,7 +231,7 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective Date of 1981 Amendment**
 
@@ -239,7 +239,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1703(c) of Pub.
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 **Executive Documents**
 
@@ -247,7 +247,7 @@ Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided t
 
 Functions of President under former section 2123(e) [now subsec. (d)] of this section delegated to Director of Office of Personnel Management, see section 2 of Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739, set out as a note under section 301 of Title 3, The President.
 
-### § 4503. Agency awards
+### § 4503. Agency awards
 
 The head of an agency may pay a cash award to, and incur necessary expense for the honorary recognition of, an employee who—
 
@@ -255,13 +255,13 @@ The head of an agency may pay a cash award to, and incur necessary expense for t
 
 **(2)** performs a special act or service in the public interest in connection with or related to his official employment.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 443; Pub. L. 95–454, title V, § 502(a), Oct. 13, 1978, 92 Stat. 1183.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 443; Pub. L. 95–454, title V, § 502(a), Oct. 13, 1978, 92 Stat. 1183.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2123(a). | Sept. 1, 1954, ch. 1208, § 304(a), 68 Stat. 1113. |
+|  | 5 U.S.C. 2123(a). | Sept. 1, 1954, ch. 1208, § 304(a), 68 Stat. 1113. |
 
 The word “employee” is substituted for “civilian officers and employees of the Government” in view of the definition of “employee” in section 4501.
 
@@ -277,9 +277,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
-### § 4504. Presidential awards
+### § 4504. Presidential awards
 
 The President may pay a cash award to, and incur necessary expense for the honorary recognition of, an employee who—
 
@@ -289,13 +289,13 @@ The President may pay a cash award to, and incur necessary expense for the honor
 
 A Presidential award may be in addition to an agency award under section 4503 of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 443; Pub. L. 95–454, title V, § 502(b), Oct. 13, 1978, 92 Stat. 1183.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 443; Pub. L. 95–454, title V, § 502(b), Oct. 13, 1978, 92 Stat. 1183.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2123(b). | Sept. 1, 1954, ch. 1208, § 304(b), 68 Stat. 1113. |
+|  | 5 U.S.C. 2123(b). | Sept. 1, 1954, ch. 1208, § 304(b), 68 Stat. 1113. |
 
 The words “In instances determined by the President to warrant such action” are omitted as surplusage. The word “employee” is substituted for “civilian officers and employees of the Government” in view of the definition of “employee” in section 4501.
 
@@ -311,7 +311,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 **Executive Documents**
 
@@ -377,17 +377,17 @@ Sec. 4. The form and procedures for making nominations for this award shall be p
 
 (c) Persons appointed by the President are not eligible for this award unless, in the opinion of the Office, they are currently serving in a career position.
 
-### § 4505. Awards to former employees
+### § 4505. Awards to former employees
 
 An agency may pay or grant an award under this subchapter notwithstanding the death or separation from the service of the employee concerned, if the suggestion, invention, superior accomplishment, other personal effort, or special act or service in the public interest for which the award is proposed was made or performed while the employee was in the employ of the Government.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 443; Pub. L. 97–35, title XVII, § 1703(b)(2), Aug. 13, 1981, 95 Stat. 756.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 443; Pub. L. 97–35, title XVII, § 1703(b)(2), Aug. 13, 1981, 95 Stat. 756.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2123(c). | Sept. 1, 1954, ch. 1208 § 304(c), 68 Stat. 1113. |
+|  | 5 U.S.C. 2123(c). | Sept. 1, 1954, ch. 1208 § 304(c), 68 Stat. 1113. |
 
 The words “or grant” are added for clarity.
 
@@ -405,7 +405,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1703(c) of Pub. L. 97–35, set as a note under section 4501 of this title.
 
-### § 4505a. Performance-based cash awards
+### § 4505a. Performance-based cash awards
 
 **(a)**
 
@@ -425,7 +425,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1703(c) of Pub.
 
 **(e)** At the request of the head of an Executive agency, the President may authorize the application of subsections (a) through (c) with respect to any category of employees within such agency who would not otherwise be covered by this section.
 
-(Added Pub. L. 101–509, title V, § 529 [title II, § 207(a)], Nov. 5, 1990, 104 Stat. 1427, 1457; amended Pub. L. 102–378, § 2(19), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 108–411, title III, § 301(c), Oct. 30, 2004, 118 Stat. 2317; Pub. L. 115–73, title I, § 107(a)(2)(A), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, § 1097(b)(3)(A), Dec. 12, 2017, 131 Stat. 1617.)
+(Added Pub. L. 101–509, title V, § 529 [title II, § 207(a)], Nov. 5, 1990, 104 Stat. 1427, 1457; amended Pub. L. 102–378, § 2(19), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 108–411, title III, § 301(c), Oct. 30, 2004, 118 Stat. 2317; Pub. L. 115–73, title I, § 107(a)(2)(A), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, § 1097(b)(3)(A), Dec. 12, 2017, 131 Stat. 1617.)
 
 **Editorial Notes**
 
@@ -437,11 +437,11 @@ Pub. L. 115–73 substituted “section 2302(c)” for “section 2302(d)”.
 
 2004—Subsec. (a)(2). Pub. L. 108–411 struck out subpar. (A) designation before “A cash award under” and struck out subpar. (B) which read as follows: “For purposes of computing a percentage of a rate of basic pay under subparagraph (A), the rate of basic pay used shall be determined without taking into account any comparability payment under section 5304.”
 
-1992—Subsec. (b)(2). Pub. L. 102–378, § 2(19)(A), inserted reference to chapter 71.
+1992—Subsec. (b)(2). Pub. L. 102–378, § 2(19)(A), inserted reference to chapter 71.
 
-Subsec. (c). Pub. L. 102–378, § 2(19)(B), inserted “of Personnel Management” after “Office”.
+Subsec. (c). Pub. L. 102–378, § 2(19)(B), inserted “of Personnel Management” after “Office”.
 
-Subsecs. (d), (e). Pub. L. 102–378, § 2(19)(C), added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “At the request of the head of an Executive agency, the President may authorize the application of the preceding provisions of this section with respect to 1 or more categories of employees within such agency who would not otherwise be covered by this section (including authority under subsection (c) to prescribe any necessary regulations).”
+Subsecs. (d), (e). Pub. L. 102–378, § 2(19)(C), added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “At the request of the head of an Executive agency, the President may authorize the application of the preceding provisions of this section with respect to 1 or more categories of employees within such agency who would not otherwise be covered by this section (including authority under subsection (c) to prescribe any necessary regulations).”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -455,13 +455,13 @@ Amendment by Pub. L. 102–378 effective May 4, 1991, see section 9(b)(4) of Pub
 
 **Effective Date**
 
-Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 
 **Executive Documents**
 
 **Delegation of Functions**
 
-Authority of President under subsec. (e) of this section delegated to Director of Office of Personnel Management by Ex. Ord. No. 12828, § 1(2), Jan. 5, 1993, 58 F.R. 2965, set out as a note under section 3502 of this title.
+Authority of President under subsec. (e) of this section delegated to Director of Office of Personnel Management by Ex. Ord. No. 12828, § 1(2), Jan. 5, 1993, 58 F.R. 2965, set out as a note under section 3502 of this title.
 
 **Ex. Ord. No. 13415. Assignment of Certain Pay-Related Functions**
 
@@ -479,17 +479,17 @@ Sec. 3. *General Provision*. This order is not intended to, and does not, create
 
 George W. Bush.
 
-### § 4506. Regulations
+### § 4506. Regulations
 
 The Office of Personnel Management shall prescribe regulations and instructions under which the awards programs set forth by this subchapter shall be carried out.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 443; Pub. L. 95–454, title V, § 503(d), Oct. 13, 1978, 92 Stat. 1184; Pub. L. 97–35, title XVII, § 1703(b)(2), Aug. 13, 1981, 95 Stat. 756; Pub. L. 107–67, title VI, § 641(b), Nov. 12, 2001, 115 Stat. 555.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 443; Pub. L. 95–454, title V, § 503(d), Oct. 13, 1978, 92 Stat. 1184; Pub. L. 97–35, title XVII, § 1703(b)(2), Aug. 13, 1981, 95 Stat. 756; Pub. L. 107–67, title VI, § 641(b), Nov. 12, 2001, 115 Stat. 555.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2121 (1st 29 words). | Sept. 1, 1954, ch. 1208, § 302 (1st 29 words), 68 Stat. 1112. |
+|  | 5 U.S.C. 2121 (1st 29 words). | Sept. 1, 1954, ch. 1208, § 302 (1st 29 words), 68 Stat. 1112. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -507,7 +507,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–67, title VI, § 641(d), Nov. 12, 2001, 115 Stat. 555, provided that: “The amendments made by this section [enacting section 4507a of this title and amending this section] shall take effect for awards granted in 2003.”
+Pub. L. 107–67, title VI, § 641(d), Nov. 12, 2001, 115 Stat. 555, provided that: “The amendments made by this section [enacting section 4507a of this title and amending this section] shall take effect for awards granted in 2003.”
 
 **Effective Date of 1981 Amendment**
 
@@ -515,9 +515,9 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1703(c) of Pub.
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Pub. L. 95–454, title V, § 504(a), Oct. 13, 1978, 92 Stat. 1184, provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
-### § 4507. Awarding of ranks in the Senior Executive Service
+### § 4507. Awarding of ranks in the Senior Executive Service
 
 **(a)** For the purpose of this section, “agency”, “senior executive”, and “career appointee” have the meanings set forth in section 3132(a) of this title.
 
@@ -543,27 +543,27 @@ A career appointee awarded a rank under paragraph (1) or (2) of this subsection 
 
 **(2)** Receipt by a career appointee of the rank of Distinguished Executive entitles the individual to a lump-sum payment of an amount equal to 35 percent of annual basic pay, which shall be in addition to the basic pay paid under section 5382 of this title or any award paid under section 5384 of this title.
 
-(Added Pub. L. 95–454, title IV, § 406(a), Oct. 13, 1978, 92 Stat. 1170; amended Pub. L. 105–277, div. A, § 101(h) [title VI, § 631(a), (b)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523.)
+(Added Pub. L. 95–454, title IV, § 406(a), Oct. 13, 1978, 92 Stat. 1170; amended Pub. L. 105–277, div. A, § 101(h) [title VI, § 631(a), (b)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (e)(1). Pub. L. 105–277, § 101(h) [title VI, § 631(a)], substituted “an amount equal to 20 percent of annual basic pay” for “$10,000”.
+1998—Subsec. (e)(1). Pub. L. 105–277, § 101(h) [title VI, § 631(a)], substituted “an amount equal to 20 percent of annual basic pay” for “$10,000”.
 
-Subsec. (e)(2). Pub. L. 105–277, § 101(h) [title VI, § 631(b)], substituted “an amount equal to 35 percent of annual basic pay” for “$20,000”.
+Subsec. (e)(2). Pub. L. 105–277, § 101(h) [title VI, § 631(b)], substituted “an amount equal to 35 percent of annual basic pay” for “$20,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–277, div. A, § 101(h) [title VI, § 631(c)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1998, or the date of enactment of this Act [Oct. 21, 1998], whichever is later.”
+Pub. L. 105–277, div. A, § 101(h) [title VI, § 631(c)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1998, or the date of enactment of this Act [Oct. 21, 1998], whichever is later.”
 
 **Effective Date**
 
 Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under section 3131 of this title.
 
-### § 4507a. Awarding of ranks to other senior career employees
+### § 4507a. Awarding of ranks to other senior career employees
 
 **(a)** For the purpose of this section, the term “senior career employee” means an individual appointed to a position classified above GS–15 and paid under section 5376 who is not serving—
 
@@ -575,7 +575,7 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 **(c)** The recommendations shall be made, reviewed, and awarded under the same terms and conditions (to the extent determined by the Office of Personnel Management) that apply to rank awards for members of the Senior Executive Service under section 4507.
 
-(Added Pub. L. 107–67, title VI, § 641(a), Nov. 12, 2001, 115 Stat. 554.)
+(Added Pub. L. 107–67, title VI, § 641(a), Nov. 12, 2001, 115 Stat. 554.)
 
 **Editorial Notes**
 
@@ -589,7 +589,7 @@ GS–15, referred to in subsec. (a), is contained in the General Schedule, which
 
 Section effective for awards granted in 2003, see section 641(d) of Pub. L. 107–67, set out as an Effective Date of 2001 Amendment note under section 4506 of this title.
 
-### § 4508. Limitation of awards during a Presidential election year
+### § 4508. Limitation of awards during a Presidential election year
 
 **(a)** For purposes of this section, the term—
 
@@ -603,9 +603,9 @@ Section effective for awards granted in 2003, see section 641(d) of Pub. L. 107�
 
 **(b)** No senior politically appointed officer may receive an award under the provisions of this subchapter during a Presidential election period.
 
-(Added Pub. L. 103–425, § 2(a), Oct. 31, 1994, 108 Stat. 4369.)
+(Added Pub. L. 103–425, § 2(a), Oct. 31, 1994, 108 Stat. 4369.)
 
-### § 4509. Prohibition of cash award to Executive Schedule officers
+### § 4509. Prohibition of cash award to Executive Schedule officers
 
 No officer may receive a cash award under the provisions of this subchapter, if such officer—
 
@@ -617,7 +617,7 @@ No officer may receive a cash award under the provisions of this subchapter, if 
 
 **(2)** was appointed to such position by the President, by and with the advice and consent of the Senate.
 
-(Added Pub. L. 103–425, § 2(a), Oct. 31, 1994, 108 Stat. 4370.)
+(Added Pub. L. 103–425, § 2(a), Oct. 31, 1994, 108 Stat. 4370.)
 
 ## SUBCHAPTER II—AWARDS FOR COST SAVINGS DISCLOSURES
 
@@ -625,15 +625,15 @@ No officer may receive a cash award under the provisions of this subchapter, if 
 
 **Amendments**
 
-1981—Pub. L. 97–35, title XVII, § 1703(a), Aug. 13, 1981, 95 Stat. 755, added subchapter II.
+1981—Pub. L. 97–35, title XVII, § 1703(a), Aug. 13, 1981, 95 Stat. 755, added subchapter II.
 
-### § 4511. Definition and general provisions
+### § 4511. Definition and general provisions
 
 **(a)** For purposes of this subchapter, the term “agency” means any Executive agency.
 
 **(b)** A cash award under this subchapter is in addition to the regular pay of the recipient. Acceptance of a cash award under this subchapter constitutes an agreement that the use by the Government of an idea, method, or device for which the award is made does not form the basis of a further claim of any nature against the Government by the employee, his heirs, or assigns.
 
-(Added Pub. L. 97–35, title XVII, § 1703(a), Aug. 13, 1981, 95 Stat. 755.)
+(Added Pub. L. 97–35, title XVII, § 1703(a), Aug. 13, 1981, 95 Stat. 755.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -643,9 +643,9 @@ Section effective Oct. 1, 1981, see section 1703(c) of Pub. L. 97–35, set out 
 
 **Authority To Make Awards**
 
-Pub. L. 102–487, § 1(c), Oct. 24, 1992, 106 Stat. 3134, provided that: “Awards may be made under subchapter II of chapter 45 of title 5, United States Code, on and after the date of the enactment of this Act [Oct. 24, 1992].”
+Pub. L. 102–487, § 1(c), Oct. 24, 1992, 106 Stat. 3134, provided that: “Awards may be made under subchapter II of chapter 45 of title 5, United States Code, on and after the date of the enactment of this Act [Oct. 24, 1992].”
 
-### § 4512. Agency awards for cost savings disclosures
+### § 4512. Agency awards for cost savings disclosures
 
 **(a)** The Inspector General of an agency, or any other agency employee designated under subsection (b), may pay a cash award to any employee of such agency whose disclosure of fraud, waste, or mismanagement to the Inspector General of the agency, or to such other designated agency employee, has resulted in cost savings for the agency. The amount of an award under this section may not exceed the lesser of—
 
@@ -657,7 +657,7 @@ For purposes of paragraph (2), the Inspector General or other designated employe
 
 **(b)** In the case of an agency for which there is no Inspector General, the head of the agency shall designate an agency employee who shall have the authority to make the determinations and grant the awards permitted under this section.
 
-(Added Pub. L. 97–35, title XVII, § 1703(a), Aug. 13, 1981, 95 Stat. 755; amended Pub. L. 99–145, title XII, § 1225(b)(2), Nov. 8, 1985, 99 Stat. 730.)
+(Added Pub. L. 97–35, title XVII, § 1703(a), Aug. 13, 1981, 95 Stat. 755; amended Pub. L. 99–145, title XII, § 1225(b)(2), Nov. 8, 1985, 99 Stat. 730.)
 
 **Editorial Notes**
 
@@ -671,11 +671,11 @@ For purposes of paragraph (2), the Inspector General or other designated employe
 
 Section effective Oct. 1, 1981, see section 1703(c) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 4501 of this title.
 
-### § 4513. Presidential awards for cost savings disclosures
+### § 4513. Presidential awards for cost savings disclosures
 
 The President may pay a cash award in the amount of $20,000 to any employee whose disclosure of fraud, waste, or mismanagement has resulted in substantial cost savings for the Government. In evaluating the significance of a cost savings disclosure made by an employee for purposes of determining whether to make an award to such employee under this section, the President may take into account cost savings projected for subsequent fiscal years which will be attributable to the disclosure. During any fiscal year, the President may not make more than 50 awards under this section.
 
-(Added Pub. L. 97–35, title XVII, § 1703(a), Aug. 13, 1981, 95 Stat. 755.)
+(Added Pub. L. 97–35, title XVII, § 1703(a), Aug. 13, 1981, 95 Stat. 755.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -683,9 +683,9 @@ The President may pay a cash award in the amount of $20,000 to any employee whos
 
 Section effective Oct. 1, 1981, see section 1703(c) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 4501 of this title.
 
-### [§ 4514. Repealed. Pub. L. 102–487, § 1(a), Oct. 24, 1992, 106 Stat. 3134]
+### [§ 4514. Repealed. Pub. L. 102–487, § 1(a), Oct. 24, 1992, 106 Stat. 3134]
 
-Section, added Pub. L. 97–35, title XVII, § 1703(a), Aug. 13, 1981, 95 Stat. 756; amended Pub. L. 99–145, title XII, § 1225(b)(1)(A), Nov. 8, 1985, 99 Stat. 730; Pub. L. 100–611, § 1(a), Nov. 5, 1988, 102 Stat. 3179, provided that no award could be made under this subchapter after Sept. 30, 1990.
+Section, added Pub. L. 97–35, title XVII, § 1703(a), Aug. 13, 1981, 95 Stat. 756; amended Pub. L. 99–145, title XII, § 1225(b)(1)(A), Nov. 8, 1985, 99 Stat. 730; Pub. L. 100–611, § 1(a), Nov. 5, 1988, 102 Stat. 3179, provided that no award could be made under this subchapter after Sept. 30, 1990.
 
 ## SUBCHAPTER III—AWARD TO LAW ENFORCEMENT OFFICERS FOR FOREIGN LANGUAGE CAPABILITIES
 
@@ -693,9 +693,9 @@ Section, added Pub. L. 97–35, title XVII, § 1703(a), Aug. 13, 1981, 95 Stat
 
 **Amendments**
 
-1992—Pub. L. 102–378, § 2(20), Oct. 2, 1992, 106 Stat. 1348, substituted “OFFICERS” for “OFFICER”.
+1992—Pub. L. 102–378, § 2(20), Oct. 2, 1992, 106 Stat. 1348, substituted “OFFICERS” for “OFFICER”.
 
-### § 4521. Definition
+### § 4521. Definition
 
 For the purpose of this subchapter, the term “law enforcement officer” means—
 
@@ -711,7 +711,7 @@ For the purpose of this subchapter, the term “law enforcement officer” means
 
 **(6)** a pretrial services officer (referred to in section 3153 of title 18).
 
-(Added Pub. L. 101–509, title V, § 529 [title IV, § 408(a)], Nov. 5, 1990, 104 Stat. 1427, 1467; amended Pub. L. 102–141, title VI, § 627, Oct. 28, 1991, 105 Stat. 874; Pub. L. 102–378, § 2(21), Oct. 2, 1992, 106 Stat. 1348.)
+(Added Pub. L. 101–509, title V, § 529 [title IV, § 408(a)], Nov. 5, 1990, 104 Stat. 1427, 1467; amended Pub. L. 102–141, title VI, § 627, Oct. 28, 1991, 105 Stat. 874; Pub. L. 102–378, § 2(21), Oct. 2, 1992, 106 Stat. 1348.)
 
 **Editorial Notes**
 
@@ -725,31 +725,31 @@ For the purpose of this subchapter, the term “law enforcement officer” means
 
 **Effective Date**
 
-Pub. L. 101–509, title V, § 529 [title IV, § 408(d)], Nov. 5, 1990, 104 Stat. 1427, 1468, provided that: “The amendments made by this section [enacting this subchapter and amending provisions set out as a note under section 5541 of this title] shall be effective on January 1, 1992.”
+Pub. L. 101–509, title V, § 529 [title IV, § 408(d)], Nov. 5, 1990, 104 Stat. 1427, 1468, provided that: “The amendments made by this section [enacting this subchapter and amending provisions set out as a note under section 5541 of this title] shall be effective on January 1, 1992.”
 
 **Transfer of Functions**
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 4522. General provision
+### § 4522. General provision
 
 An award under this subchapter is in addition to the basic pay of the recipient.
 
-(Added Pub. L. 101–509, title V, § 529 [title IV, § 408(a)], Nov. 5, 1990, 104 Stat. 1427, 1467.)
+(Added Pub. L. 101–509, title V, § 529 [title IV, § 408(a)], Nov. 5, 1990, 104 Stat. 1427, 1467.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Section effective Jan. 1, 1992, see section 529 [title IV, § 408(d)] of Pub. L. 101–509, set out as a note under section 4521 of this title.
+Section effective Jan. 1, 1992, see section 529 [title IV, § 408(d)] of Pub. L. 101–509, set out as a note under section 4521 of this title.
 
-### § 4523. Award authority
+### § 4523. Award authority
 
 **(a)** An agency may pay a cash award, up to 5 percent of basic pay, to any law enforcement officer employed in or under such agency who possesses and makes substantial use of 1 or more foreign languages in the performance of official duties.
 
-**(b)** Awards under this section shall be paid under regulations prescribed by the head of the agency involved (or designee thereof). Regulations prescribed by an agency head (or designee) under this subsecton 1
+**(b)** Awards under this section shall be paid under regulations prescribed by the head of the agency involved (or designee thereof). Regulations prescribed by an agency head (or designee) under this subsecton 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 shall include—
 
@@ -759,10 +759,10 @@ shall include—
 
 **(3)** any other provisions which may be necessary to carry out the purposes of this subchapter.
 
-(Added Pub. L. 101–509, title V, § 529 [title IV, § 408(a)], Nov. 5, 1990, 104 Stat. 1427, 1467.)
+(Added Pub. L. 101–509, title V, § 529 [title IV, § 408(a)], Nov. 5, 1990, 104 Stat. 1427, 1467.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Section effective Jan. 1, 1992, see section 529 [title IV, § 408(d)] of Pub. L. 101–509, set out as a note under section 4521 of this title.
+Section effective Jan. 1, 1992, see section 529 [title IV, § 408(d)] of Pub. L. 101–509, set out as a note under section 4521 of this title.

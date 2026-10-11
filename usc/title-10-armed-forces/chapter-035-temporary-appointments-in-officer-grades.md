@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. A, title V, § 504(b), Dec. 22, 2023, 137 Stat. 241, added item 602.
+2023—Pub. L. 118–31, div. A, title V, § 504(b), Dec. 22, 2023, 137 Stat. 241, added item 602.
 
-2018—Pub. L. 115–232, div. A, title V, § 503(a)(2), Aug. 13, 2018, 132 Stat. 1742, added item 605.
+2018—Pub. L. 115–232, div. A, title V, § 503(a)(2), Aug. 13, 2018, 132 Stat. 1742, added item 605.
 
-1994—Pub. L. 103–337, div. A, title IV, § 405(c)(2), Oct. 5, 1994, 108 Stat. 2745, added item 604.
+1994—Pub. L. 103–337, div. A, title IV, § 405(c)(2), Oct. 5, 1994, 108 Stat. 2745, added item 604.
 
-1991—Pub. L. 102–190, div. A, title XI, § 1113(d)(1)(B), Dec. 5, 1991, 105 Stat. 1502, struck out item 602 “Warrant officers: temporary promotions” and substituted “Appointments in time of war or national emergency” for “Commissioned officer grades: time of war or national emergency” in item 603.
+1991—Pub. L. 102–190, div. A, title XI, § 1113(d)(1)(B), Dec. 5, 1991, 105 Stat. 1502, struck out item 602 “Warrant officers: temporary promotions” and substituted “Appointments in time of war or national emergency” for “Commissioned officer grades: time of war or national emergency” in item 603.
 
-## § 601. Positions of importance and responsibility: generals and lieutenant generals; admirals and vice admirals
+## § 601. Positions of importance and responsibility: generals and lieutenant generals; admirals and vice admirals
 
 **(a)** The President may designate positions of importance and responsibility to carry the grade of general or admiral or lieutenant general or vice admiral. The President may assign to any such position an officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is serving on active duty in any grade above colonel or, in the case of an officer of the Navy, any grade above captain. An officer assigned to any such position has the grade specified for that position if he is appointed to that grade by the President, by and with the advice and consent of the Senate. Except as provided in subsection (b), the appointment of an officer to a grade under this section for service in a position of importance and responsibility ends on the date of the termination of the assignment of the officer to that position.
 
@@ -61,7 +61,7 @@ retrieved: 2026-10-11
 
 **(e)** Prior to making a recommendation to the Secretary of Defense for the nomination of an officer for appointment to a position of importance and responsibility under this section, which appointment would result in the initial appointment of the officer concerned in the grade of lieutenant general or general in the Army, Air Force, Marine Corps, or Space Force or vice admiral or admiral in the Navy, the Secretary concerned shall consider all officers determined to be among the best qualified for such position.
 
-(Added Pub. L. 96–513, title I, § 105, Dec. 12, 1980, 94 Stat. 2849; amended Pub. L. 97–86, title IV, § 405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, § 523, Oct. 19, 1984, 98 Stat. 2523; Pub. L. 99–145, title V, § 514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, § 403, Oct. 1, 1986, 100 Stat. 1031; Pub. L. 102–190, div. A, title V, § 502(a), Dec. 5, 1991, 105 Stat. 1354; Pub. L. 104–106, div. A, title IV, § 403(c), Feb. 10, 1996, 110 Stat. 287; Pub. L. 110–181, div. A, title V, § 501(a), Jan. 28, 2008, 122 Stat. 94; Pub. L. 116–283, div. A, title V, § 551(b)(1), title IX, § 924(b)(3)(C), Jan. 1, 2021, 134 Stat. 3630, 3821; Pub. L. 117–263, div. A, title V, § 505, Dec. 23, 2022, 136 Stat. 2558; Pub. L. 118–31, div. A, title XVII, § 1741(a)(4), Dec. 22, 2023, 137 Stat. 679.)
+(Added Pub. L. 96–513, title I, § 105, Dec. 12, 1980, 94 Stat. 2849; amended Pub. L. 97–86, title IV, § 405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, § 523, Oct. 19, 1984, 98 Stat. 2523; Pub. L. 99–145, title V, § 514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, § 403, Oct. 1, 1986, 100 Stat. 1031; Pub. L. 102–190, div. A, title V, § 502(a), Dec. 5, 1991, 105 Stat. 1354; Pub. L. 104–106, div. A, title IV, § 403(c), Feb. 10, 1996, 110 Stat. 287; Pub. L. 110–181, div. A, title V, § 501(a), Jan. 28, 2008, 122 Stat. 94; Pub. L. 116–283, div. A, title V, § 551(b)(1), title IX, § 924(b)(3)(C), Jan. 1, 2021, 134 Stat. 3630, 3821; Pub. L. 117–263, div. A, title V, § 505, Dec. 23, 2022, 136 Stat. 2558; Pub. L. 118–31, div. A, title XVII, § 1741(a)(4), Dec. 22, 2023, 137 Stat. 679.)
 
 **Editorial Notes**
 
@@ -75,19 +75,19 @@ Section 112 of the Internal Revenue Code of 1986, referred to in subsec. (b)(5)(
 
 2022—Subsec. (b)(5). Pub. L. 117–263 substituted “retirement, but—” and subpars. (A) and (B) for “retirement, but not for more than 60 days.”
 
-2021—Subsec. (a). Pub. L. 116–283, § 924(b)(3)(C), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+2021—Subsec. (a). Pub. L. 116–283, § 924(b)(3)(C), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
-Subsec. (e). Pub. L. 116–283, § 551(b)(1), added subsec. (e).
+Subsec. (e). Pub. L. 116–283, § 551(b)(1), added subsec. (e).
 
 2008—Subsec. (b)(4), (5). Pub. L. 110–181 added par. (4) and redesignated former par. (4) as (5).
 
-1996—Subsec. (b). Pub. L. 104–106, § 403(c)(1), in introductory provisions substituted “designated under subsection (a) or by law” for “of importance and responsibility designated”.
+1996—Subsec. (b). Pub. L. 104–106, § 403(c)(1), in introductory provisions substituted “designated under subsection (a) or by law” for “of importance and responsibility designated”.
 
-Subsec. (b)(1). Pub. L. 104–106, § 403(c)(2), struck out “of importance and responsibility” after “position”.
+Subsec. (b)(1). Pub. L. 104–106, § 403(c)(2), struck out “of importance and responsibility” after “position”.
 
-Subsec. (b)(2). Pub. L. 104–106, § 403(c)(3), substituted “designated under subsection (a) or by law” for “designating”.
+Subsec. (b)(2). Pub. L. 104–106, § 403(c)(3), substituted “designated under subsection (a) or by law” for “designating”.
 
-Subsec. (b)(4). Pub. L. 104–106, § 403(c)(4), inserted “under subsection (a) or by law” after “designated”.
+Subsec. (b)(4). Pub. L. 104–106, § 403(c)(4), inserted “under subsection (a) or by law” after “designated”.
 
 1991—Subsec. (b)(4). Pub. L. 102–190 substituted “60 days” for “90 days”.
 
@@ -103,7 +103,7 @@ Subsec. (b)(4). Pub. L. 104–106, § 403(c)(4), inserted “under subsection 
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–190, div. A, title V, § 502(b), Dec. 5, 1991, 105 Stat. 1355, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the first day of the first month that begins more than 90 days after the date of the enactment of this Act [Dec. 5, 1991].”
+Pub. L. 102–190, div. A, title V, § 502(b), Dec. 5, 1991, 105 Stat. 1355, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the first day of the first month that begins more than 90 days after the date of the enactment of this Act [Dec. 5, 1991].”
 
 **Effective Date of 1981 Amendment**
 
@@ -117,19 +117,19 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 For provisions relating to temporary appointments of officers serving in grades above major general or rear admiral, see section 623 of Pub. L. 96–513, set out as a note under section 611 of this title.
 
-## § 602. Flexibility in determining terms of appointment for certain senior officer positions
+## § 602. Flexibility in determining terms of appointment for certain senior officer positions
 
 The Secretary of Defense may extend or reduce the duration of an appointment made under section 152, 154, 7033, 8033, 8043, 9033, or 9082 of this title by up to six months if the Secretary determines that such an extension or reduction is necessary either in the interests of national defense, or to ensure an appropriate staggering of terms of senior military leadership.
 
-(Added Pub. L. 118–31, div. A, title V, § 504(a), Dec. 22, 2023, 137 Stat. 241.)
+(Added Pub. L. 118–31, div. A, title V, § 504(a), Dec. 22, 2023, 137 Stat. 241.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 602, Pub. L. 96–513, title I, § 105, Dec. 12, 1980, 94 Stat. 2849, related to temporary promotions of warrant officers, prior to repeal by Pub. L. 102–190, div. A, title XI, § 1113(a), Dec. 5, 1991, 105 Stat. 1502.
+A prior section 602, Pub. L. 96–513, title I, § 105, Dec. 12, 1980, 94 Stat. 2849, related to temporary promotions of warrant officers, prior to repeal by Pub. L. 102–190, div. A, title XI, § 1113(a), Dec. 5, 1991, 105 Stat. 1502.
 
-## § 603. Appointments in time of war or national emergency
+## § 603. Appointments in time of war or national emergency
 
 **(a)** In time of war, or of national emergency declared by the Congress or the President after November 30, 1980, the President may appoint any qualified person (whether or not already a member of the armed forces) to any officer grade in the Army, Navy, Air Force, Marine Corps, or Space Force, except that appointments under this section may not be made in grades above major general or rear admiral. Appointments under this section shall be made by the President alone, except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned.
 
@@ -157,7 +157,7 @@ A prior section 602, Pub. L. 96–513, title I, § 105, Dec. 12, 1980, 94 Stat
 
 **(3)** The date the person appointed is released from active duty.
 
-(Added Pub. L. 96–513, title I, § 105, Dec. 12, 1980, 94 Stat. 2850; amended Pub. L. 101–189, div. A, title VI, § 653(a)(2), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–190, div. A, title XI, § 1113(b), (d)(1)(A), Dec. 5, 1991, 105 Stat. 1502; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(D), Jan. 1, 2021, 134 Stat. 3821.)
+(Added Pub. L. 96–513, title I, § 105, Dec. 12, 1980, 94 Stat. 2850; amended Pub. L. 101–189, div. A, title VI, § 653(a)(2), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–190, div. A, title XI, § 1113(b), (d)(1)(A), Dec. 5, 1991, 105 Stat. 1502; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(D), Jan. 1, 2021, 134 Stat. 3821.)
 
 **Editorial Notes**
 
@@ -165,9 +165,9 @@ A prior section 602, Pub. L. 96–513, title I, § 105, Dec. 12, 1980, 94 Stat
 
 2021—Subsec. (a). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
-1991—Pub. L. 102–190, § 1113(d)(1)(A), substituted “Appointments in time of war or national emergency” for “Commissioned officer grades: time of war or national emergency” in section catchline.
+1991—Pub. L. 102–190, § 1113(d)(1)(A), substituted “Appointments in time of war or national emergency” for “Commissioned officer grades: time of war or national emergency” in section catchline.
 
-Subsec. (a). Pub. L. 102–190, § 1113(b), struck out “commissioned” before “officer grade in the Army” and “in warrant officer grades or” before “in grades above major general” and inserted before period at end “, except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned”.
+Subsec. (a). Pub. L. 102–190, § 1113(b), struck out “commissioned” before “officer grade in the Army” and “in warrant officer grades or” before “in grades above major general” and inserted before period at end “, except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned”.
 
 1989—Subsec. (f). Pub. L. 101–189 substituted “terminates on the earliest of the following:” for “terminates—” in introductory provisions, and made numerous amendments to style and punctuation. Prior to amendment, subsec. (f) read as follows: “Unless sooner terminated, an appointment under this section terminates—
 
@@ -193,7 +193,7 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 **Delegation of Functions**
 
-Functions of President under subsecs. (a) and (b) to make or vacate certain temporary commissioned appointments delegated to Secretary of Defense to perform during a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, exercise of any such authority be specifically directed by President in accordance with section 1631 of Title 50, War and National Defense, and that Secretary ensure any authority so delegated be accounted for as required by section 1641 of Title 50, see Ex. Ord. No. 12396, §§ 2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsecs. (a) and (b) to make or vacate certain temporary commissioned appointments delegated to Secretary of Defense to perform during a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, exercise of any such authority be specifically directed by President in accordance with section 1631 of Title 50, War and National Defense, and that Secretary ensure any authority so delegated be accounted for as required by section 1641 of Title 50, see Ex. Ord. No. 12396, §§ 2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
 
 **Ex. Ord. No. 13321. Appointments During National Emergency**
 
@@ -209,7 +209,7 @@ Sec. 3. *Administration*. This order shall be transmitted to the Congress and pu
 
 George W. Bush.
 
-## § 604. Senior joint officer positions: recommendations to the Secretary of Defense
+## § 604. Senior joint officer positions: recommendations to the Secretary of Defense
 
 **(a) Joint 4-Star Officer Positions.—**
 
@@ -227,7 +227,7 @@ George W. Bush.
 
 **(2)** Commander, United States Forces, Korea.
 
-(Added Pub. L. 103–337, div. A, title IV, § 405(c)(1), Oct. 5, 1994, 108 Stat. 2745; amended Pub. L. 104–201, div. A, title IV, § 404(a), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 106–65, div. A, title V, § 509(a), Oct. 5, 1999, 113 Stat. 592; Pub. L. 107–314, div. A, title IV, § 405(a), Dec. 2, 2002, 116 Stat. 2526; Pub. L. 108–136, div. A, title V, § 504(a), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 114–328, div. A, title V, § 502(e), Dec. 23, 2016, 130 Stat. 2102; Pub. L. 116–283, div. A, title IX, § 924(b)(15), Jan. 1, 2021, 134 Stat. 3823.)
+(Added Pub. L. 103–337, div. A, title IV, § 405(c)(1), Oct. 5, 1994, 108 Stat. 2745; amended Pub. L. 104–201, div. A, title IV, § 404(a), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 106–65, div. A, title V, § 509(a), Oct. 5, 1999, 113 Stat. 592; Pub. L. 107–314, div. A, title IV, § 405(a), Dec. 2, 2002, 116 Stat. 2526; Pub. L. 108–136, div. A, title V, § 504(a), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 114–328, div. A, title V, § 502(e), Dec. 23, 2016, 130 Stat. 2102; Pub. L. 116–283, div. A, title IX, § 924(b)(15), Jan. 1, 2021, 134 Stat. 3823.)
 
 **Editorial Notes**
 
@@ -245,7 +245,7 @@ George W. Bush.
 
 1996—Subsec. (c). Pub. L. 104–201 substituted “September 30, 2000” for “September 30, 1997”.
 
-## § 605. Promotion to certain grades for officers with critical skills: colonel, lieutenant colonel, major, captain; captain, commander, lieutenant commander, lieutenant
+## § 605. Promotion to certain grades for officers with critical skills: colonel, lieutenant colonel, major, captain; captain, commander, lieutenant commander, lieutenant
 
 **(a) In General.—** An officer in the grade of first lieutenant, captain, major, or lieutenant colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant (junior grade), lieutenant, lieutenant commander, or commander in the Navy, who is described in subsection (b) may be temporarily promoted to the grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant, lieutenant commander, commander, or captain in the Navy, as applicable, under regulations prescribed by the Secretary of the military department concerned. Appointments under this section shall be made by the President, by and with the advice and consent of the Senate.
 
@@ -323,15 +323,15 @@ George W. Bush.
 
 **(D)** as captain, 80.
 
-(Added Pub. L. 115–232, div. A, title V, § 503(a)(1), Aug. 13, 2018, 132 Stat. 1740; amended Pub. L. 118–31, div. A, title V, § 505, title XVII, § 1716(d), Dec. 22, 2023, 137 Stat. 241, 653.)
+(Added Pub. L. 115–232, div. A, title V, § 503(a)(1), Aug. 13, 2018, 132 Stat. 1740; amended Pub. L. 118–31, div. A, title V, § 505, title XVII, § 1716(d), Dec. 22, 2023, 137 Stat. 241, 653.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Pub. L. 118–31, § 1716(d)(1), substituted “Marine Corps, or Space Force,” for “or Marine Corps,” wherever appearing.
+2023—Pub. L. 118–31, § 1716(d)(1), substituted “Marine Corps, or Space Force,” for “or Marine Corps,” wherever appearing.
 
-Subsec. (g)(2) to (4). Pub. L. 118–31, § 1716(d)(2), added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: “In the case of the Air Force—
+Subsec. (g)(2) to (4). Pub. L. 118–31, § 1716(d)(2), added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: “In the case of the Air Force—
 
 “(A) as captain, 100;
 
@@ -343,6 +343,6 @@ Subsec. (g)(2) to (4). Pub. L. 118–31, § 1716(d)(2), added pars. (2) and (3
 
 Former par. (4) redesignated (5).
 
-Subsec. (g)(4)(B). Pub. L. 118–31, § 505, substituted “425” for “325”.
+Subsec. (g)(4)(B). Pub. L. 118–31, § 505, substituted “425” for “325”.
 
-Subsec. (g)(5). Pub. L. 118–31, § 1716(d)(2), redesignated par. (4) as (5).
+Subsec. (g)(5). Pub. L. 118–31, § 1716(d)(2), redesignated par. (4) as (5).

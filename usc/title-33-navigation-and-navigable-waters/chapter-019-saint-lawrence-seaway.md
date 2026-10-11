@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 19—SAINT LAWRENCE SEAWAY
 
-## § 981. Creation of Corporation
+## § 981. Creation of Corporation
 
 There is hereby created, subject to the direction and supervision of the Secretary of Transportation, a body corporate to be known as the Great Lakes St. Lawrence Seaway Development Corporation (hereinafter referred to as the “Corporation”).
 
-(May 13, 1954, ch. 201, § 1, 68 Stat. 93; Pub. L. 89–670, § 8(g)(1), Oct. 15, 1966, 80 Stat. 943; Pub. L. 116–260, div. AA, title V, § 512(a)(1), Dec. 27, 2020, 134 Stat. 2756.)
+(May 13, 1954, ch. 201, § 1, 68 Stat. 93; Pub. L. 89–670, § 8(g)(1), Oct. 15, 1966, 80 Stat. 943; Pub. L. 116–260, div. AA, title V, § 512(a)(1), Dec. 27, 2020, 134 Stat. 2756.)
 
 **Editorial Notes**
 
@@ -33,7 +33,7 @@ There is hereby created, subject to the direction and supervision of the Secreta
 
 **Effective Date of 1966 Amendment**
 
-Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
+Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
 **Separability**
 
@@ -41,11 +41,11 @@ Section 11 of act May 13, 1954, provided: “If any provision of this Act [enact
 
 **References to Saint Lawrence Seaway Development Corporation**
 
-Pub. L. 116–260, div. AA, title V, § 512(b), Dec. 27, 2020, 134 Stat. 2756, provided that: “Any reference to the Saint Lawrence Seaway Development Corporation in any law, regulation, document, record, Executive order, or other paper of the United States shall be deemed to be a reference to the Great Lakes St. Lawrence Seaway Development Corporation.”
+Pub. L. 116–260, div. AA, title V, § 512(b), Dec. 27, 2020, 134 Stat. 2756, provided that: “Any reference to the Saint Lawrence Seaway Development Corporation in any law, regulation, document, record, Executive order, or other paper of the United States shall be deemed to be a reference to the Great Lakes St. Lawrence Seaway Development Corporation.”
 
 **Administrator To Report Directly to Secretary of Transportation**
 
-Pub. L. 89–670, § 8(g)(2), which provided that the Administrator of the St. Lawrence Seaway Development Corporation report directly to the Secretary notwithstanding any other provision of the Department of Transportation Act (Pub. L. 89–670), was repealed by Pub. L. 97–449, § 7(b), Jan. 12, 1983, 96 Stat. 2444, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 12, 1983.
+Pub. L. 89–670, § 8(g)(2), which provided that the Administrator of the St. Lawrence Seaway Development Corporation report directly to the Secretary notwithstanding any other provision of the Department of Transportation Act (Pub. L. 89–670), was repealed by Pub. L. 97–449, § 7(b), Jan. 12, 1983, 96 Stat. 2444, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 12, 1983.
 
 **Executive Documents**
 
@@ -53,13 +53,13 @@ Pub. L. 89–670, § 8(g)(2), which provided that the Administrator of the St.
 
 Ex. Ord. No. 10534, June 9, 1954, 19 F.R. 3413, as amended by Ex. Ord. No. 10771, June 23, 1958, 23 F.R. 4525, which related to the direction and supervision of the St. Lawrence Seaway Development Corporation, was revoked by section 16 of Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247.
 
-## § 982. Management of Corporation; appointment of Administrator; terms; vacancy; Advisory Board; establishment; membership; meetings; duties; compensation and expenses
+## § 982. Management of Corporation; appointment of Administrator; terms; vacancy; Advisory Board; establishment; membership; meetings; duties; compensation and expenses
 
 **(a)** The management of the corporation shall be vested in an Administrator who shall be appointed by the President. Any Administrator appointed to fill a vacancy in that position prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.
 
 **(b)** There is established the Advisory Board of the Great Lakes St. Lawrence Seaway Development Corporation which shall be composed of five members appointed by the President, by and with the advice and consent of the Senate, not more than three of whom shall belong to the same political party. The Advisory Board shall meet at the call of the Administrator, who shall require it to meet not less often than once each ninety days; shall review the general policies of the Corporation, including its policies in connection with design and construction of facilities and the establishment of rules of measurement for vessels and cargo and rates of charges or tolls; and shall advise the Administrator with respect thereto. Members of the Advisory Board shall receive for their services as members compensation of not to exceed $50 per diem when actually engaged in the performance of their duties, together with their necessary traveling expenses while going to and coming from meetings.
 
-(May 13, 1954, ch. 201, § 2, 68 Stat. 93; Pub. L. 93–615, § 1, Jan. 2, 1975, 88 Stat. 1977; Pub. L. 112–166, § 2(x), Aug. 10, 2012, 126 Stat. 1289; Pub. L. 116–260, div. AA, title V, § 512(a)(2), Dec. 27, 2020, 134 Stat. 2756.)
+(May 13, 1954, ch. 201, § 2, 68 Stat. 93; Pub. L. 93–615, § 1, Jan. 2, 1975, 88 Stat. 1977; Pub. L. 112–166, § 2(x), Aug. 10, 2012, 126 Stat. 1289; Pub. L. 116–260, div. AA, title V, § 512(a)(2), Dec. 27, 2020, 134 Stat. 2756.)
 
 **Editorial Notes**
 
@@ -67,11 +67,11 @@ Ex. Ord. No. 10534, June 9, 1954, 19 F.R. 3413, as amended by Ex. Ord. No. 10771
 
 2020—Subsec. (b). Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
 
-2012—Subsec. (a). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate, for a term of seven years” before period at end of first sentence.
+2012—Subsec. (a). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate, for a term of seven years” before period at end of first sentence.
 
-1975—Subsec. (a). Pub. L. 93–615, § 1(a), amended subsec. (a) generally, inserting provisions relating to a term of seven years and the length of the term of any Administrator appointed to fill a vacancy in the position of the Administrator prior to the expiration of the term for which his predecessor was appointed.
+1975—Subsec. (a). Pub. L. 93–615, § 1(a), amended subsec. (a) generally, inserting provisions relating to a term of seven years and the length of the term of any Administrator appointed to fill a vacancy in the position of the Administrator prior to the expiration of the term for which his predecessor was appointed.
 
-Subsecs. (b), (c). Pub. L. 93–615, § 1(b), redesignated subsec. (c) as (b). Former subsec. (b), relating to the appointment and duties of a Deputy Administrator, was repealed.
+Subsecs. (b), (c). Pub. L. 93–615, § 1(b), redesignated subsec. (c) as (b). Former subsec. (b), relating to the appointment and duties of a Deputy Administrator, was repealed.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -81,13 +81,13 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 93–615, § 2, Jan. 2, 1975, 88 Stat. 1977, provided that: “The amendments made to section 2 of the Act of May 13, 1954, by the first section of this Act [amending this section] shall (1) take effect upon the first appointment of an Administrator of the Saint Lawrence Seaway Development Corporation which is made after the date of enactment of this Act [Jan. 2, 1975], and (2) be applicable to such first appointment and to each subsequent appointment to such position.”
+Pub. L. 93–615, § 2, Jan. 2, 1975, 88 Stat. 1977, provided that: “The amendments made to section 2 of the Act of May 13, 1954, by the first section of this Act [amending this section] shall (1) take effect upon the first appointment of an Administrator of the Saint Lawrence Seaway Development Corporation which is made after the date of enactment of this Act [Jan. 2, 1975], and (2) be applicable to such first appointment and to each subsequent appointment to such position.”
 
 **Termination of Advisory Boards**
 
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-## § 983. Functions of Corporation
+## § 983. Functions of Corporation
 
 **(a) Construction of deep-water navigation works in Saint Lawrence River; conditions precedent** The Corporation is authorized and directed to construct, in United States territory, deep-water navigation works substantially in accordance with the “Controlled single stage project, 238–242” (with a controlling depth of twenty-seven feet in channels and canals and locks at least eight hundred feet long, eighty feet wide, and thirty feet over the sills), designated as “works solely for navigation” in the joint report dated January 3, 1941, of the Canadian Temporary Great Lakes-Saint Lawrence Basin Committee and the United States Saint Lawrence Advisory Committee, in the International Rapids section of the Saint Lawrence River together with necessary dredging in the Thousand Islands section; and to operate and maintain such works in coordination with the Saint Lawrence Seaway Authority of Canada, created by chapter 24 of the acts of the fifth session of the Twenty-first Parliament of Canada 15–16, George VI (assented to December 21, 1951): *Provided*, That the Corporation shall not proceed with the aforesaid construction unless and until—
 
@@ -99,15 +99,15 @@ Advisory boards in existence on Jan. 5, 1973, to terminate not later than the ex
 
 The Corporation shall make necessary arrangements to assure the coordination of its activities with those of the Saint Lawrence Seaway Authority of Canada and the entity designated by the State of New York, or other licensee of the Federal Energy Regulatory Commission, authorized to construct and operate the dams and power works authorized by the International Joint Commission in its order of October 29, 1952 (docket 68) or any amendment or modification thereof.
 
-(May 13, 1954, ch. 201, § 3, 68 Stat. 93; Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583.)
+(May 13, 1954, ch. 201, § 3, 68 Stat. 93; Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsecs. (a)(2) and (b), on authority of Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
+“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsecs. (a)(2) and (b), on authority of Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
 
-## § 984. General powers of Corporation
+## § 984. General powers of Corporation
 
 **(a)** For the purpose of carrying out its functions under this chapter the Corporation—
 
@@ -131,33 +131,33 @@ The Corporation shall make necessary arrangements to assure the coordination of 
 
 **(10)** may retain toll revenues for purposes of eventual reinvestment in the Seaway.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(11)** may provide services and facilities necessary in the maintenance and operation of the seaway, including but not limited to providing, at reasonable prices, services to vessels using the seaway and to visitors to the seaway, but not to include overnight housing accommodations for visitors;
 
 **(12)** may participate with the Saint Lawrence Seaway Authority of Canada, or its designee, in the ownership and operation of a toll bridge company: *Provided*, That the United States’ portion of the revenue from the tolls charged to the users of any toll bridge operated under this section shall be applied solely to the cost of the bridge and approaches, including maintenance and operation, amortization of principal and interest, as established by the Secretary of the Treasury; and
 
-**(13)**  2
+**(13)** 2
 
-<sup>2</sup>  So in original. There are two pars. designated (13).
+<sup>2</sup> So in original. There are two pars. designated (13).
 
-shall be credited with amounts received from any of the activities authorized by clauses (10) and (11) 3
+shall be credited with amounts received from any of the activities authorized by clauses (10) and (11) 3
 
-<sup>3</sup>  Clauses (10), (11), and (12) redesignated (11), (12), and (13) by Pub. L. 97–369.
+<sup>3</sup> Clauses (10), (11), and (12) redesignated (11), (12), and (13) by Pub. L. 97–369.
 
 of this subsection.
 
-**(13)**  <sup>2</sup> shall accept such amounts as may be transferred to the Corporation under section 9505(c)(1) of title 26, except that such amounts shall be available only for the purpose of operating and maintaining those works which the Corporation is obligated to operate and maintain under subsection (a) of section 983 of this title.
+**(13)** <sup>2</sup> shall accept such amounts as may be transferred to the Corporation under section 9505(c)(1) of title 26, except that such amounts shall be available only for the purpose of operating and maintaining those works which the Corporation is obligated to operate and maintain under subsection (a) of section 983 of this title.
 
-**(b)** Amounts credited under subsection (a)(12) <sup>3</sup> are available to pay any obligation or expense of the Corporation under this chapter, except as specifically provided in subsection (a)(11).<sup>3</sup>
+**(b)** Amounts credited under subsection (a)(12) <sup>3</sup> are available to pay any obligation or expense of the Corporation under this chapter, except as specifically provided in subsection (a)(11).<sup>3</sup>
 
-(May 13, 1954, ch. 201, § 4, 68 Stat. 94; Pub. L. 85–108, § 1(1)–(3), July 17, 1957, 71 Stat. 307; Pub. L. 92–310, title II, § 232, June 6, 1972, 86 Stat. 214; Pub. L. 97–369, title III, § 311, Dec. 18, 1982, 96 Stat. 1783; Pub. L. 99–662, title XIV, § 805(a)(1)–(3), Nov. 17, 1986, 100 Stat. 4272.)
+(May 13, 1954, ch. 201, § 4, 68 Stat. 94; Pub. L. 85–108, § 1(1)–(3), July 17, 1957, 71 Stat. 307; Pub. L. 92–310, title II, § 232, June 6, 1972, 86 Stat. 214; Pub. L. 97–369, title III, § 311, Dec. 18, 1982, 96 Stat. 1783; Pub. L. 99–662, title XIV, § 805(a)(1)–(3), Nov. 17, 1986, 100 Stat. 4272.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a)(7), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (a)(7), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -173,39 +173,39 @@ In subsec. (a)(7), “chapter 51 and subchapter III of chapter 53 of title 5” 
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–662, title XIV, § 805(b), Nov. 17, 1986, 100 Stat. 4272, provided that: “The amendments made by this section [enacting section 988a of this title and amending this section] shall take effect on April 1, 1987.”
+Pub. L. 99–662, title XIV, § 805(b), Nov. 17, 1986, 100 Stat. 4272, provided that: “The amendments made by this section [enacting section 988a of this title and amending this section] shall take effect on April 1, 1987.”
 
-## § 984a. Repealed. June 28, 1955, ch. 189, § 12(c)(11), 69 Stat. 181
+## § 984a. Repealed. June 28, 1955, ch. 189, § 12(c)(11), 69 Stat. 181
 
-Section, act Aug. 26, 1954, ch. 935, ch. VIII, § 801, 68 Stat. 818, authorized Administrator to place not more than four positions in grades 16, 17, or 18 of General Schedule established by Classification Act of 1949.
+Section, act Aug. 26, 1954, ch. 935, ch. VIII, § 801, 68 Stat. 818, authorized Administrator to place not more than four positions in grades 16, 17, or 18 of General Schedule established by Classification Act of 1949.
 
-## § 985. Bonds; issuance; maturity; redemption; interest; purchase of obligations by Secretary of the Treasury
+## § 985. Bonds; issuance; maturity; redemption; interest; purchase of obligations by Secretary of the Treasury
 
 **(a)** To finance its activities, the Corporation may issue revenue bonds payable from corporate revenue to the Secretary of the Treasury. The total face value of all bonds so issued shall not be greater than $140,000,000. Not more than fifty per centum of the bonds may be issued during any one year. Such obligations shall have maturities agreed upon by the Corporation and the Secretary of the Treasury, not in excess of fifty years. Such obligations may be redeemable at the option of the Corporation before maturity in such manner as may be stipulated in such obligations, but the obligations thus redeemed shall not be refinanced by the Corporation. The Secretary of the Treasury is authorized and directed to purchase any obligations of the Corporation to be issued hereunder and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include any purchases of the Corporation’s obligations hereunder.
 
 **(b)** Effective as of October 21, 1970, the obligations of the Corporation incurred under subsection (a) of this section shall bear no interest, and the obligation of the Corporation to pay the unpaid interest which has accrued on such obligations is terminated.
 
-(May 13, 1954, ch. 201, § 5, 68 Stat. 94; Pub. L. 85–108, § 1(4), July 17, 1957, 71 Stat. 307; Pub. L. 91–469, § 43(a), Oct. 21, 1970, 84 Stat. 1038.)
+(May 13, 1954, ch. 201, § 5, 68 Stat. 94; Pub. L. 85–108, § 1(4), July 17, 1957, 71 Stat. 307; Pub. L. 91–469, § 43(a), Oct. 21, 1970, 84 Stat. 1038.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
-1970—Subsec. (a). Pub. L. 91–469, § 43(a)(1), designated existing provisions as subsec. (a) and struck out fourth, fifth, and eighth sentences which provided for deferral, with approval of Secretary of the Treasury, of interest payments on bonds but required interest payments so deferred to bear interest after June 30, 1960; prohibited charging of deferred interest against debt limitation of $140,000,000; and prescribed for each obligation a rate of interest determined by the Secretary, taking into consideration the current average rate on current marketable obligations of the United States of comparable maturities as of the last day of the month preceding the issuance of the obligation of the Corporation.
+1970—Subsec. (a). Pub. L. 91–469, § 43(a)(1), designated existing provisions as subsec. (a) and struck out fourth, fifth, and eighth sentences which provided for deferral, with approval of Secretary of the Treasury, of interest payments on bonds but required interest payments so deferred to bear interest after June 30, 1960; prohibited charging of deferred interest against debt limitation of $140,000,000; and prescribed for each obligation a rate of interest determined by the Secretary, taking into consideration the current average rate on current marketable obligations of the United States of comparable maturities as of the last day of the month preceding the issuance of the obligation of the Corporation.
 
-Subsec. (b). Pub. L. 91–469, § 43(a)(2), added subsec. (b).
+Subsec. (b). Pub. L. 91–469, § 43(a)(2), added subsec. (b).
 
 1957—Pub. L. 85–108 increased Corporation’s borrowing authority from $105,000,000 to $140,000,000; omitted first year bond issue limitation, and raised limits of bond issues for any year from 40 to 50 per centum of total borrowing power; and authorized deferment of interest payments on borrowings, excluding such deferred interest charges from the debt limitation of $140,000,000.
 
-## § 985a. Cancellation of bonds issued under section 985
+## § 985a. Cancellation of bonds issued under section 985
 
 Notwithstanding any other provision of law, any bond issued under section 985 of this title, is hereby canceled together with the obligation to pay such bond.
 
-(Pub. L. 97–369, title III, § 311, Dec. 18, 1982, 96 Stat. 1782.)
+(Pub. L. 97–369, title III, § 311, Dec. 18, 1982, 96 Stat. 1782.)
 
 **Editorial Notes**
 
@@ -215,13 +215,13 @@ Section was enacted as part of the Department of Transportation and Related Agen
 
 Section consists of a part of section 311 of Pub. L. 97–369. The remainder of section 311 of Pub. L. 97–369 amended sections 984 and 988 of this title.
 
-## § 986. Payments to States and local governments in lieu of taxes; tax exemption of Corporation
+## § 986. Payments to States and local governments in lieu of taxes; tax exemption of Corporation
 
 The Corporation is authorized to make payments to State and local governments in lieu of property taxes upon property which was subject to State and local taxation before acquisition by the Corporation. Such payments may be in the amounts, at the times, and upon the terms the Corporation deems appropriate, but the Corporation shall be guided by the policy of making payments not in excess of the taxes which would have been payable for such property in the condition in which it was acquired, except in cases where special burdens are placed upon the State or local government by the activities of the Corporation or its agents. The Corporation, its property, franchises, and income are expressly exempted from taxation in any manner or form by any State, county, municipality, or any subdivision thereof, but such exemption shall not extend to contractors for the Corporation.
 
-(May 13, 1954, ch. 201, § 7, 68 Stat. 95.)
+(May 13, 1954, ch. 201, § 7, 68 Stat. 95.)
 
-## § 987. Services and facilities of other agencies
+## § 987. Services and facilities of other agencies
 
 **(a) Utilization of personnel, services, facilities, and information**
 
@@ -231,15 +231,15 @@ The Corporation may, with the consent of the agency concerned, accept and utiliz
 
 The Corporation shall contribute to the civil-service retirement and disability fund, on the basis of annual billings as determined by the Director of the Office of Personnel Management, for the Government’s share of the cost of the civil-service retirement system applicable to the Corporation’s employees and their beneficiaries. The Corporation shall also contribute to the employee’s compensation fund, on the basis of annual billings as determined by the Secretary of Labor, for the benefit payments made from such fund on account of the Corporation’s employees. The annual billings shall also include a statement of the fair portion of the cost of the administration of the respective funds, which shall be paid by the Corporation into the Treasury as miscellaneous receipts.
 
-(May 13, 1954, ch. 201, § 8, 68 Stat. 95; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
+(May 13, 1954, ch. 201, § 8, 68 Stat. 95; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” and “Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” and “Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
-## § 988. Rates of charges or tolls
+## § 988. Rates of charges or tolls
 
 **(a) Negotiation with Canadian authorities; revenue sharing formula; consideration of American financing costs, including interest and debt principal; rules of measurement; hearings and rehearings; approval by President; court review**
 
@@ -255,7 +255,7 @@ The Corporation is further authorized and directed to negotiate with the Saint L
 
 **(4)** That the rates prescribed shall be calculated to cover, as nearly as practicable, all costs of operating and maintaining the works under the administration of the Corporation, including depreciation and payments in lieu of taxes.
 
-(May 13, 1954, ch. 201, § 12, 68 Stat. 96; Pub. L. 91–469, § 43(b), Oct. 21, 1970, 84 Stat. 1038; Pub. L. 95–91, title IV, § 402(a)(1)(B), Aug. 4, 1977, 91 Stat. 583; Pub. L. 97–369, title III, § 311, Dec. 18, 1982, 96 Stat. 1782; Pub. L. 100–352, § 6(h), June 27, 1988, 102 Stat. 664.)
+(May 13, 1954, ch. 201, § 12, 68 Stat. 96; Pub. L. 91–469, § 43(b), Oct. 21, 1970, 84 Stat. 1038; Pub. L. 95–91, title IV, § 402(a)(1)(B), Aug. 4, 1977, 91 Stat. 583; Pub. L. 97–369, title III, § 311, Dec. 18, 1982, 96 Stat. 1782; Pub. L. 100–352, § 6(h), June 27, 1988, 102 Stat. 664.)
 
 **Editorial Notes**
 
@@ -265,9 +265,9 @@ The Corporation is further authorized and directed to negotiate with the Saint L
 
 1982—Subsec. (b)(5). Pub. L. 97–369 struck out par. (5) which directed that the rates provide for revenues sufficient to amortize the principal of the debts and obligations of the Corporation over a period of not to exceed 50 years.
 
-1970—Subsec. (a). Pub. L. 91–469, § 43(b)(1), inserted requirement that any formula for a division of revenues which takes into consideration annual debt charges shall include the total cost, including both interest and debt principal, incurred by the United States in financing activities authorized by this chapter, whether or not reimbursable by the Corporation.
+1970—Subsec. (a). Pub. L. 91–469, § 43(b)(1), inserted requirement that any formula for a division of revenues which takes into consideration annual debt charges shall include the total cost, including both interest and debt principal, incurred by the United States in financing activities authorized by this chapter, whether or not reimbursable by the Corporation.
 
-Subsec. (b)(4). Pub. L. 91–469, § 43(b)(2), struck out “, payment of interest on the obligations of the Corporation,” after “depreciation”.
+Subsec. (b)(4). Pub. L. 91–469, § 43(b)(2), struck out “, payment of interest on the obligations of the Corporation,” after “depreciation”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -277,13 +277,13 @@ Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except
 
 **Transfer of Functions**
 
-“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (a) on authority of Pub. L. 95–91, title IV, § 402(a)(1)(B), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(B) of Title 42, The Public Health and Welfare.
+“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (a) on authority of Pub. L. 95–91, title IV, § 402(a)(1)(B), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(B) of Title 42, The Public Health and Welfare.
 
 **Great Lakes and Saint Lawrence Seaway**
 
 Pub. L. 101–101, title I, Sept. 29, 1989, 103 Stat. 642, provided: “That within available funds, the Secretary of the Army, acting through the Chief of Engineers, is directed to initiate and complete a reconnaissance study for the Saint Lawrence Seaway and Great Lakes-Financing Navigational Improvements Study, as authorized in section 47(d) of Public Law 100–676 [set out below], in accordance with the cost sharing provisions of Public Law 99–662 [Nov. 17, 1986, 100 Stat. 4082].”
 
-Pub. L. 100–676, § 47(d), Nov. 17, 1988, 102 Stat. 4042, provided that:
+Pub. L. 100–676, § 47(d), Nov. 17, 1988, 102 Stat. 4042, provided that:
 
 > **“(1) Study of financing navigational improvements.—** The Secretary, in cooperation with other Federal agencies and private persons, is authorized and directed to contract with an independent party to conduct a study of cost recovery options and alternative methods of financing navigational improvements on the Great Lakes connecting channels and Saint Lawrence Seaway, including modernization of the Eisenhower and Snell Locks of the Saint Lawrence Seaway.
 
@@ -293,15 +293,15 @@ Pub. L. 100–676, § 47(d), Nov. 17, 1988, 102 Stat. 4042, provided that:
 
 **Report on Reduction or Elimination of Tolls on Great Lakes and Saint Lawrence Seaway**
 
-Pub. L. 99–662, title XIV, § 1406, Nov. 17, 1986, 100 Stat. 4272, provided that: “Not later than 2 years after the date of enactment of this Act [Nov. 17, 1986], the Secretary of State, in consultation with the Secretary of Transportation, shall initiate discussions with the Government of Canada with the objective of reducing or eliminating all tolls on the international Great Lakes and the Saint Lawrence Seaway, and the Secretary of Transportation shall report to the Congress on the progress of such discussions and on the economic effects upon waterborne commerce in the United States of any proposed reduction or elimination in tolls.”
+Pub. L. 99–662, title XIV, § 1406, Nov. 17, 1986, 100 Stat. 4272, provided that: “Not later than 2 years after the date of enactment of this Act [Nov. 17, 1986], the Secretary of State, in consultation with the Secretary of Transportation, shall initiate discussions with the Government of Canada with the objective of reducing or eliminating all tolls on the international Great Lakes and the Saint Lawrence Seaway, and the Secretary of Transportation shall report to the Congress on the progress of such discussions and on the economic effects upon waterborne commerce in the United States of any proposed reduction or elimination in tolls.”
 
-## § 988a. Waiver of collection of charges or tolls
+## § 988a. Waiver of collection of charges or tolls
 
 **(a)** Notwithstanding section 988 of this title or any other provision of law, the Corporation shall not collect any charge or toll established pursuant to section 988 of this title with respect to a commercial vessel (as defined in section 4462(a)(4) of title 26).
 
 **(b)** The Corporation will maintain a record of the annual amount of each charge or toll that would have been collected with respect to each such commercial vessel if it were not for paragraph (a) of this section.
 
-(May 13, 1954, ch. 201, § 13, as added Pub. L. 99–662, title XIV, § 805(a)(4), Nov. 17, 1986, 100 Stat. 4272; amended Pub. L. 103–331, title III, § 339, Sept. 30, 1994, 108 Stat. 2496.)
+(May 13, 1954, ch. 201, § 13, as added Pub. L. 99–662, title XIV, § 805(a)(4), Nov. 17, 1986, 100 Stat. 4272; amended Pub. L. 103–331, title III, § 339, Sept. 30, 1994, 108 Stat. 2496.)
 
 **Editorial Notes**
 
@@ -325,13 +325,13 @@ Pub. L. 99–662, title XIV, § 1406, Nov. 17, 1986, 100 Stat. 4272, provided 
 
 Section effective April 1, 1987, see section 805(b) of Pub. L. 99–662, set out as an Effective Date of 1986 Amendment note under section 984 of this title.
 
-## § 989. Special reports
+## § 989. Special reports
 
-**(a)** Repealed. Pub. L. 104–66, title I, § 1121(j), Dec. 21, 1995, 109 Stat. 724.
+**(a)** Repealed. Pub. L. 104–66, title I, § 1121(j), Dec. 21, 1995, 109 Stat. 724.
 
 **(b)** The Corporation, after July 17, 1957, shall submit special reports to the Congress whenever there is proposed a new feature, design, or phase of the seaway project, not heretofore included in estimates, or whenever there is proposed an abandonment of any feature, design, or phase, heretofore included in estimates, involving an estimated value exceeding one million dollars, and such special reports shall include justification for the modifications.
 
-(May 13, 1954, ch. 201, § 10, 68 Stat. 96; Pub. L. 85–108, § 1(5), July 17, 1957, 71 Stat. 308; Pub. L. 104–66, title I, § 1121(j), Dec. 21, 1995, 109 Stat. 724.)
+(May 13, 1954, ch. 201, § 10, 68 Stat. 96; Pub. L. 85–108, § 1(5), July 17, 1957, 71 Stat. 308; Pub. L. 104–66, title I, § 1121(j), Dec. 21, 1995, 109 Stat. 724.)
 
 **Editorial Notes**
 
@@ -341,7 +341,7 @@ Section effective April 1, 1987, see section 805(b) of Pub. L. 99–662, set out
 
 1957—Pub. L. 85–108 designated existing provisions as subsec. (a) and added subsec. (b).
 
-## § 990. Offenses and penalties
+## § 990. Offenses and penalties
 
 **(a) Application of penal statutes**
 
@@ -355,4 +355,4 @@ Any person who, with intent to defraud the Corporation, or to deceive any direct
 
 Any person who shall receive any compensation, rebate, or reward, or shall enter into any conspiracy, collusion, or agreement, express or implied, with intent to defraud the Corporation or wrongfully and unlawfully to defeat its purposes, shall, on conviction thereof, be fined not more than $5,000 or imprisoned not more than five years, or both.
 
-(May 13, 1954, ch. 201, § 9, 68 Stat. 96.)
+(May 13, 1954, ch. 201, § 9, 68 Stat. 96.)

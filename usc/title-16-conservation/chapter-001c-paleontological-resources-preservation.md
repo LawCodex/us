@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 1C—PALEONTOLOGICAL RESOURCES PRESERVATION
 
-## § 470aaa. Definitions
+## § 470aaa. Definitions
 
 In this chapter:
 
@@ -35,9 +35,9 @@ The term “Indian Land” means land of Indian tribes, or Indian individuals, w
 
 **(4) Paleontological resource** The term “paleontological resource” means any fossilized remains, traces, or imprints of organisms, preserved in or on the earth’s crust, that are of paleontological interest and that provide information about the history of life on earth, except that the term does not include—
 
-**(A)** any materials associated with an archaeological resource (as defined in section 470bb(1) of this title; 1
+**(A)** any materials associated with an archaeological resource (as defined in section 470bb(1) of this title; 1
 
-<sup>1</sup>  So in original. A closing parenthesis probably should precede the semicolon.
+<sup>1</sup> So in original. A closing parenthesis probably should precede the semicolon.
 
 or
 
@@ -51,9 +51,9 @@ The term “Secretary” means the Secretary of the Interior with respect to lan
 
 The term “State” means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
 
-(Pub. L. 111–11, title VI, § 6301, Mar. 30, 2009, 123 Stat. 1172.)
+(Pub. L. 111–11, title VI, § 6301, Mar. 30, 2009, 123 Stat. 1172.)
 
-## § 470aaa–1. Management
+## § 470aaa–1. Management
 
 **(a) In general**
 
@@ -63,15 +63,15 @@ The Secretary shall manage and protect paleontological resources on Federal land
 
 To the extent possible, the Secretary of the Interior and the Secretary of Agriculture shall coordinate in the implementation of this chapter.
 
-(Pub. L. 111–11, title VI, § 6302, Mar. 30, 2009, 123 Stat. 1173.)
+(Pub. L. 111–11, title VI, § 6302, Mar. 30, 2009, 123 Stat. 1173.)
 
-## § 470aaa–2. Public awareness and education program
+## § 470aaa–2. Public awareness and education program
 
 The Secretary shall establish a program to increase public awareness about the significance of paleontological resources.
 
-(Pub. L. 111–11, title VI, § 6303, Mar. 30, 2009, 123 Stat. 1173.)
+(Pub. L. 111–11, title VI, § 6303, Mar. 30, 2009, 123 Stat. 1173.)
 
-## § 470aaa–3. Collection of paleontological resources
+## § 470aaa–3. Collection of paleontological resources
 
 **(a) Permit requirement**
 
@@ -81,9 +81,9 @@ Except as provided in this chapter, a paleontological resource may not be collec
 
 **(2) Casual collecting exception**
 
-The Secretary shall allow casual collecting without a permit on Federal land controlled or administered by the Bureau of Land Management, the Bureau of Reclamation, and the Forest Service, where such collection is consistent with the laws governing the management of those Federal land 1
+The Secretary shall allow casual collecting without a permit on Federal land controlled or administered by the Bureau of Land Management, the Bureau of Reclamation, and the Forest Service, where such collection is consistent with the laws governing the management of those Federal land 1
 
-<sup>1</sup>  So in original. Probably should be “lands”.
+<sup>1</sup> So in original. Probably should be “lands”.
 
 and this chapter.
 
@@ -123,15 +123,15 @@ Nothing in this section shall affect a valid permit issued prior to March 30, 20
 
 In order to protect paleontological or other resources or to provide for public safety, the Secretary may restrict access to or close areas under the Secretary’s jurisdiction to the collection of paleontological resources.
 
-(Pub. L. 111–11, title VI, § 6304, Mar. 30, 2009, 123 Stat. 1173.)
+(Pub. L. 111–11, title VI, § 6304, Mar. 30, 2009, 123 Stat. 1173.)
 
-## § 470aaa–4. Curation of resources
+## § 470aaa–4. Curation of resources
 
 Any paleontological resource, and any data and records associated with the resource, collected under a permit, shall be deposited in an approved repository. The Secretary may enter into agreements with non-Federal repositories regarding the curation of these resources, data, and records.
 
-(Pub. L. 111–11, title VI, § 6305, Mar. 30, 2009, 123 Stat. 1174.)
+(Pub. L. 111–11, title VI, § 6305, Mar. 30, 2009, 123 Stat. 1174.)
 
-## § 470aaa–5. Prohibited acts; criminal penalties
+## § 470aaa–5. Prohibited acts; criminal penalties
 
 **(a) In general** A person may not—
 
@@ -157,9 +157,9 @@ In the case of a second or subsequent violation by the same person, the amount o
 
 Nothing in subsection (a) shall apply to any person with respect to any paleontological resource which was in the lawful possession of such person prior to March 30, 2009.
 
-(Pub. L. 111–11, title VI, § 6306, Mar. 30, 2009, 123 Stat. 1174.)
+(Pub. L. 111–11, title VI, § 6306, Mar. 30, 2009, 123 Stat. 1174.)
 
-## § 470aaa–6. Civil penalties
+## § 470aaa–6. Civil penalties
 
 **(a) In general**
 
@@ -195,11 +195,11 @@ Any person against whom an order is issued assessing a penalty under subsection 
 
 **(B)** after a court in an action brought in paragraph (1) has entered a final judgment upholding the assessment of the penalty,1
 
-<sup>1</sup>  So in original. Following provisions probably should be set flush with par. (2).
+<sup>1</sup> So in original. Following provisions probably should be set flush with par. (2).
 
-the Secretary may request the Attorney General to institute a civil action in a district court of the United States for any district in which the person if 2
+the Secretary may request the Attorney General to institute a civil action in a district court of the United States for any district in which the person if 2
 
-<sup>2</sup>  So in original. Probably should be “is”.
+<sup>2</sup> So in original. Probably should be “is”.
 
 found, resides, or transacts business, to collect the penalty (plus interest at currently prevailing rates from the date of the final order or the date of the final judgment, as the case may be). The district court shall have jurisdiction to hear and decide any such action. In such action, the validity, amount, and appropriateness of such penalty shall not be subject to review. Any person who fails to pay on a timely basis the amount of an assessment of a civil penalty as described in the first sentence of this paragraph shall be required to pay, in addition to such amount and interest, attorneys fees and costs for collection proceedings.
 
@@ -215,9 +215,9 @@ Hearings held during proceedings instituted under subsection (a) shall be conduc
 
 **(3)** To provide for the payment of rewards as provided in section 470aaa–7 of this title.
 
-(Pub. L. 111–11, title VI, § 6307, Mar. 30, 2009, 123 Stat. 1175.)
+(Pub. L. 111–11, title VI, § 6307, Mar. 30, 2009, 123 Stat. 1175.)
 
-## § 470aaa–7. Rewards and forfeiture
+## § 470aaa–7. Rewards and forfeiture
 
 **(a) Rewards** The Secretary may pay from penalties collected under section 470aaa–5 or 470aaa–6 of this title or from appropriated funds—
 
@@ -233,9 +233,9 @@ All paleontological resources with respect to which a violation under section 47
 
 The Secretary may transfer administration of seized paleontological resources to Federal or non-Federal educational institutions to be used for scientific or educational purposes.
 
-(Pub. L. 111–11, title VI, § 6308, Mar. 30, 2009, 123 Stat. 1176.)
+(Pub. L. 111–11, title VI, § 6308, Mar. 30, 2009, 123 Stat. 1176.)
 
-## § 470aaa–8. Confidentiality
+## § 470aaa–8. Confidentiality
 
 Information concerning the nature and specific location of a paleontological resource shall be exempt from disclosure under section 552 of title 5 and any other law unless the Secretary determines that disclosure would—
 
@@ -245,25 +245,25 @@ Information concerning the nature and specific location of a paleontological res
 
 **(3)** be in accordance with other applicable laws.
 
-(Pub. L. 111–11, title VI, § 6309, Mar. 30, 2009, 123 Stat. 1176.)
+(Pub. L. 111–11, title VI, § 6309, Mar. 30, 2009, 123 Stat. 1176.)
 
-## § 470aaa–9. Regulations
+## § 470aaa–9. Regulations
 
 As soon as practical after March 30, 2009, the Secretary shall issue such regulations as are appropriate to carry out this chapter, providing opportunities for public notice and comment.
 
-(Pub. L. 111–11, title VI, § 6310, Mar. 30, 2009, 123 Stat. 1177.)
+(Pub. L. 111–11, title VI, § 6310, Mar. 30, 2009, 123 Stat. 1177.)
 
-## § 470aaa–10. Savings provisions
+## § 470aaa–10. Savings provisions
 
 Nothing in this chapter shall be construed to—
 
 **(1)** invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under the general mining laws, the mineral or geothermal leasing laws, laws providing for minerals materials disposal, or laws providing for the management or regulation of the activities authorized by the aforementioned laws including but not limited to the Federal Land Policy Management Act (43 U.S.C. 1701–1784),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-subchapter 3 2
+subchapter 3 2
 
-<sup>2</sup>  So in original. Probably should be “subchapter III”.
+<sup>2</sup> So in original. Probably should be “subchapter III”.
 
 of chapter 1007 of title 54, the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1201–1358) [30 U.S.C. 1201 et seq.], and the Organic Administration Act (16 U.S.C. 478, 482, 551);
 
@@ -277,15 +277,15 @@ of chapter 1007 of title 54, the Surface Mining Control and Reclamation Act of 1
 
 **(6)** create any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in that capacity. No person who is not an officer or employee of the United States acting in that capacity shall have standing to file any civil action in a court of the United States to enforce any provision or amendment made by this chapter.
 
-(Pub. L. 111–11, title VI, § 6311, Mar. 30, 2009, 123 Stat. 1177; Pub. L. 113–287, § 5(d)(9), Dec. 19, 2014, 128 Stat. 3265.)
+(Pub. L. 111–11, title VI, § 6311, Mar. 30, 2009, 123 Stat. 1177; Pub. L. 113–287, § 5(d)(9), Dec. 19, 2014, 128 Stat. 3265.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Land Policy Management Act (43 U.S.C. 1701–1784), referred to in par. (1), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy Management Act (43 U.S.C. 1701–1784), referred to in par. (1), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-The Surface Mining Control and Reclamation Act of 1977, referred to in par. (1), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to chapter 25 (§ 1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
+The Surface Mining Control and Reclamation Act of 1977, referred to in par. (1), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to chapter 25 (§ 1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
 The Organic Administration Act, referred to in par. (1), is the popular name for certain provisions of act June 4, 1897, ch. 2, 30 Stat. 34, under the headings “under the department of the interior.” and “surveying the public lands.”, which are classified to sections 473 to 475, 477, 478, 479 to 482, and 551 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 473 of this title and Tables.
 
@@ -293,8 +293,8 @@ The Organic Administration Act, referred to in par. (1), is the popular name for
 
 2014—Par. (1). Pub. L. 113–287, which directed amendment of par. (1) by substituting “subchapter 3 of chapter 1007 of title 54” for “Public Law 94–429 (commonly known as the ‘Mining in the Parks Act’ (16 U.S.C. 1901 et seq.)”, was executed by making the substitution for “Public Law 94–429 (commonly known as the ‘Mining in the Parks Act’) (16 U.S.C. 1901 et seq.)”, to reflect the probable intent of Congress.
 
-## § 470aaa–11. Authorization of appropriations
+## § 470aaa–11. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out this chapter.
 
-(Pub. L. 111–11, title VI, § 6312, Mar. 30, 2009, 123 Stat. 1177.)
+(Pub. L. 111–11, title VI, § 6312, Mar. 30, 2009, 123 Stat. 1177.)

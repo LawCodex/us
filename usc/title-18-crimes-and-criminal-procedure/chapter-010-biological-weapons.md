@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2004—Pub. L. 108–458, title VI, § 6911(b), Dec. 17, 2004, 118 Stat. 3775, added item 175c.
+2004—Pub. L. 108–458, title VI, § 6911(b), Dec. 17, 2004, 118 Stat. 3775, added item 175c.
 
-2002—Pub. L. 107–188, title II, § 231(b)(2), June 12, 2002, 116 Stat. 661, substituted “Select agents; certain other agents” for “Possession by restricted persons” in item 175b.
+2002—Pub. L. 107–188, title II, § 231(b)(2), June 12, 2002, 116 Stat. 661, substituted “Select agents; certain other agents” for “Possession by restricted persons” in item 175b.
 
-2001—Pub. L. 107–56, title VIII, § 817(3), Oct. 26, 2001, 115 Stat. 386, added item 175b.
+2001—Pub. L. 107–56, title VIII, § 817(3), Oct. 26, 2001, 115 Stat. 386, added item 175b.
 
-1996—Pub. L. 104–201, div. A, title XIV, § 1416(c)(1)(B), Sept. 23, 1996, 110 Stat. 2723, added item 175a.
+1996—Pub. L. 104–201, div. A, title XIV, § 1416(c)(1)(B), Sept. 23, 1996, 110 Stat. 2723, added item 175a.
 
-## § 175. Prohibitions with respect to biological weapons
+## § 175. Prohibitions with respect to biological weapons
 
 **(a) In General.—** Whoever knowingly develops, produces, stockpiles, transfers, acquires, retains, or possesses any biological agent, toxin, or delivery system for use as a weapon, or knowingly assists a foreign state or any organization to do so, or attempts, threatens, or conspires to do the same, shall be fined under this title or imprisoned for life or any term of years, or both. There is extraterritorial Federal jurisdiction over an offense under this section committed by or against a national of the United States.
 
@@ -35,7 +35,7 @@ retrieved: 2026-10-11
 
 **(c) Definition.—** For purposes of this section, the term “for use as a weapon” includes the development, production, transfer, acquisition, retention, or possession of any biological agent, toxin, or delivery system for other than prophylactic, protective, bona fide research, or other peaceful purposes.
 
-(Added Pub. L. 101–298, § 3(a), May 22, 1990, 104 Stat. 201; amended Pub. L. 104–132, title V, § 511(b)(1), Apr. 24, 1996, 110 Stat. 1284; Pub. L. 107–56, title VIII, § 817(1), Oct. 26, 2001, 115 Stat. 385; Pub. L. 107–188, title II, § 231(c)(1), June 12, 2002, 116 Stat. 661.)
+(Added Pub. L. 101–298, § 3(a), May 22, 1990, 104 Stat. 201; amended Pub. L. 104–132, title V, § 511(b)(1), Apr. 24, 1996, 110 Stat. 1284; Pub. L. 107–56, title VIII, § 817(1), Oct. 26, 2001, 115 Stat. 385; Pub. L. 107–188, title II, § 231(c)(1), June 12, 2002, 116 Stat. 661.)
 
 **Editorial Notes**
 
@@ -43,11 +43,11 @@ retrieved: 2026-10-11
 
 2002—Subsec. (c). Pub. L. 107–188 substituted “protective, bona fide research, or other peaceful purposes” for “protective bona fide research, or other peaceful purposes”.
 
-2001—Subsec. (b). Pub. L. 107–56, § 817(1)(C), added subsec. (b). Former subsec. (b) redesignated (c).
+2001—Subsec. (b). Pub. L. 107–56, § 817(1)(C), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Pub. L. 107–56, § 817(1)(A), substituted “includes” for “does not include” and inserted “other than” after “delivery system for” and “bona fide research” after “protective”.
+Pub. L. 107–56, § 817(1)(A), substituted “includes” for “does not include” and inserted “other than” after “delivery system for” and “bona fide research” after “protective”.
 
-Subsec. (c). Pub. L. 107–56, § 817(1)(B), redesignated subsec. (b) as (c).
+Subsec. (c). Pub. L. 107–56, § 817(1)(B), redesignated subsec. (b) as (c).
 
 1996—Subsec. (a). Pub. L. 104–132 inserted “or attempts, threatens, or conspires to do the same,” before “shall be fined under this title”.
 
@@ -55,11 +55,11 @@ Subsec. (c). Pub. L. 107–56, § 817(1)(B), redesignated subsec. (b) as (c).
 
 **Short Title**
 
-Pub. L. 101–298, § 1, May 22, 1990, 104 Stat. 201, provided that: “This Act [enacting this chapter and amending section 2516 of this title] may be cited as the ‘Biological Weapons Anti-Terrorism Act of 1989’.”
+Pub. L. 101–298, § 1, May 22, 1990, 104 Stat. 201, provided that: “This Act [enacting this chapter and amending section 2516 of this title] may be cited as the ‘Biological Weapons Anti-Terrorism Act of 1989’.”
 
 **Purpose and Intent**
 
-Pub. L. 101–298, § 2, May 22, 1990, 104 Stat. 201, provided that:
+Pub. L. 101–298, § 2, May 22, 1990, 104 Stat. 201, provided that:
 
 > **“(a) Purpose.—** The purpose of this Act [see Short Title note above] is to—
 
@@ -69,23 +69,23 @@ Pub. L. 101–298, § 2, May 22, 1990, 104 Stat. 201, provided that:
 
 > **“(b) Intent of Act.—** Nothing in this Act is intended to restrain or restrict peaceful scientific research or development.”
 
-## § 175a. Requests for military assistance to enforce prohibition in certain emergencies
+## § 175a. Requests for military assistance to enforce prohibition in certain emergencies
 
-The Attorney General may request the Secretary of Defense to provide assistance under section 382 of title 10 1
+The Attorney General may request the Secretary of Defense to provide assistance under section 382 of title 10 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 in support of Department of Justice activities relating to the enforcement of section 175 of this title in an emergency situation involving a biological weapon of mass destruction. The authority to make such a request may be exercised by another official of the Department of Justice in accordance with section 382(f)(2) of title 10.1
 
-(Added Pub. L. 104–201, div. A, title XIV, § 1416(c)(1)(A), Sept. 23, 1996, 110 Stat. 2723.)
+(Added Pub. L. 104–201, div. A, title XIV, § 1416(c)(1)(A), Sept. 23, 1996, 110 Stat. 2723.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 382 of title 10, referred to in text, was renumbered section 282 of title 10, Armed Forces, by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Section 382 of title 10, referred to in text, was renumbered section 282 of title 10, Armed Forces, by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
-## § 175b. Possession by restricted persons
+## § 175b. Possession by restricted persons
 
 **(a) Offense.—**
 
@@ -135,9 +135,9 @@ Section 382 of title 10, referred to in text, was renumbered section 282 of titl
 
 **(G)**
 
-**(i)** is an alien (other than an alien lawfully admitted for permanent residence) who is a national of a country as to which the Secretary of State, pursuant to section 6(j) 1
+**(i)** is an alien (other than an alien lawfully admitted for permanent residence) who is a national of a country as to which the Secretary of State, pursuant to section 6(j) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A of chapter 1 of part M of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), or section 40(d) of chapter 3 of the Arms Export Control Act (22 U.S.C. 2780(d)), has made a determination (that remains in effect) that such country has repeatedly provided support for acts of international terrorism, or (ii) acts for or on behalf of, or operates subject to the direction or control of, a government or official of a country described in this subparagraph;
 
@@ -149,7 +149,7 @@ of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A 
 
 **(4)** The term “lawfully admitted for permanent residence” has the same meaning as in section 101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20)).
 
-(Added Pub. L. 107–56, title VIII, § 817(2), Oct. 26, 2001, 115 Stat. 385; amended Pub. L. 107–188, title II, § 231(a), (b)(1), (c)(2), June 12, 2002, 116 Stat. 660, 661; Pub. L. 107–273, div. B, title IV, § 4005(g), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, § 6802(c), (d)(1), Dec. 17, 2004, 118 Stat. 3767; Pub. L. 116–31, § 2, July 25, 2019, 133 Stat. 1034.)
+(Added Pub. L. 107–56, title VIII, § 817(2), Oct. 26, 2001, 115 Stat. 385; amended Pub. L. 107–188, title II, § 231(a), (b)(1), (c)(2), June 12, 2002, 116 Stat. 660, 661; Pub. L. 107–273, div. B, title IV, § 4005(g), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, § 6802(c), (d)(1), Dec. 17, 2004, 118 Stat. 3767; Pub. L. 116–31, § 2, July 25, 2019, 133 Stat. 1034.)
 
 **Editorial Notes**
 
@@ -159,47 +159,47 @@ Section 351A of the Public Health Service Act, referred to in subsecs. (b)(1) an
 
 Section 212 of the Agricultural Bioterrorism Protection Act of 2002, referred to in subsecs. (b)(2) and (c)(2), is classified to section 8401 of Title 7, Agriculture.
 
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(2)(G)(i), was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4605(j) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of Title 50, see section 4813(c) of Title 50, as enacted by Pub. L. 115–232.
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(2)(G)(i), was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4605(j) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of Title 50, see section 4813(c) of Title 50, as enacted by Pub. L. 115–232.
 
 **Amendments**
 
-2019—Subsec. (a). Pub. L. 116–31, § 2(1), inserted subsec. heading; added pars. (1) and (2); redesignated former par. (2) as (3), inserted par. heading and realigned margin; and struck out former par. (1) which prohibited the shipment, transportation, or possession of certain biological agents or toxins.
+2019—Subsec. (a). Pub. L. 116–31, § 2(1), inserted subsec. heading; added pars. (1) and (2); redesignated former par. (2) as (3), inserted par. heading and realigned margin; and struck out former par. (1) which prohibited the shipment, transportation, or possession of certain biological agents or toxins.
 
-Subsec. (d). Pub. L. 116–31, § 2(2), inserted heading.
+Subsec. (d). Pub. L. 116–31, § 2(2), inserted heading.
 
-2004—Subsec. (a)(1). Pub. L. 108–458, § 6802(d)(1), substituted “as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations” for “as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations”.
+2004—Subsec. (a)(1). Pub. L. 108–458, § 6802(d)(1), substituted “as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations” for “as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations”.
 
-Subsec. (d)(2)(G). Pub. L. 108–458, § 6802(c)(1), designated existing provisions as cl. (i), added cl. (ii), and struck out “or” at end.
+Subsec. (d)(2)(G). Pub. L. 108–458, § 6802(c)(1), designated existing provisions as cl. (i), added cl. (ii), and struck out “or” at end.
 
-Subsec. (d)(2)(H). Pub. L. 108–458, § 6802(c)(2), substituted “; or” for period at end.
+Subsec. (d)(2)(H). Pub. L. 108–458, § 6802(c)(2), substituted “; or” for period at end.
 
-Subsec. (d)(2)(I). Pub. L. 108–458, § 6802(c)(3), added subpar. (I).
+Subsec. (d)(2)(I). Pub. L. 108–458, § 6802(c)(3), added subpar. (I).
 
 2002—Pub. L. 107–273 substituted “Possession by restricted persons” for “Select agents; certain other agents” in section catchline.
 
-Pub. L. 107–188, § 231(b)(1)(B), substituted “Select agents; certain other agents” for “Possession by restricted persons” in section catchline.
+Pub. L. 107–188, § 231(b)(1)(B), substituted “Select agents; certain other agents” for “Possession by restricted persons” in section catchline.
 
-Subsec. (a)(1). Pub. L. 107–188, § 231(a)(1), (c)(2)(A), designated existing provisions of subsec. (a) as par. (1) and substituted “shall ship or transport in or affecting interstate or foreign commerce, or possess in or affecting interstate or foreign commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations” for “described in subsection (b) shall ship or transport interstate or foreign commerce, or possess in or affecting commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in subsection (j) of section 72.6 of title 42, Code of Federal Regulations, pursuant to section 511(d)(l) of the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132), and is not exempted under subsection (h) of such section 72.6, or appendix A of part 72 of the Code of Regulations”.
+Subsec. (a)(1). Pub. L. 107–188, § 231(a)(1), (c)(2)(A), designated existing provisions of subsec. (a) as par. (1) and substituted “shall ship or transport in or affecting interstate or foreign commerce, or possess in or affecting interstate or foreign commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations” for “described in subsection (b) shall ship or transport interstate or foreign commerce, or possess in or affecting commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in subsection (j) of section 72.6 of title 42, Code of Federal Regulations, pursuant to section 511(d)(l) of the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132), and is not exempted under subsection (h) of such section 72.6, or appendix A of part 72 of the Code of Regulations”.
 
-Subsec. (a)(2). Pub. L. 107–188, § 231(a)(2), (3), redesignated and transferred subsec. (c) as par. (2) of subsec. (a).
+Subsec. (a)(2). Pub. L. 107–188, § 231(a)(2), (3), redesignated and transferred subsec. (c) as par. (2) of subsec. (a).
 
-Subsec. (b). Pub. L. 107–188, § 231(a)(5), added subsec. (b). Former subsec. (b) redesignated (d).
+Subsec. (b). Pub. L. 107–188, § 231(a)(5), added subsec. (b). Former subsec. (b) redesignated (d).
 
-Subsec. (c). Pub. L. 107–188, § 231(a)(5), added subsec. (c). Former subsec. (c) redesignated (a)(2).
+Subsec. (c). Pub. L. 107–188, § 231(a)(5), added subsec. (c). Former subsec. (c) redesignated (a)(2).
 
-Subsec. (d). Pub. L. 107–188, § 231(a)(4), redesignated subsec. (b) as (d).
+Subsec. (d). Pub. L. 107–188, § 231(a)(4), redesignated subsec. (b) as (d).
 
-Subsec. (d)(1). Pub. L. 107–188, § 231(b)(1)(A), substituted “The term ‘select agent’ means a biological agent or toxin to which subsection (a) applies. Such term (including for purposes of subsection (a)) does not include” for “The term ‘select agent’ does not include”.
+Subsec. (d)(1). Pub. L. 107–188, § 231(b)(1)(A), substituted “The term ‘select agent’ means a biological agent or toxin to which subsection (a) applies. Such term (including for purposes of subsection (a)) does not include” for “The term ‘select agent’ does not include”.
 
-Subsec. (d)(3). Pub. L. 107–188, § 231(c)(2)(B), substituted “section 101(a)(3)” for “section 1010(a)(3)”.
+Subsec. (d)(3). Pub. L. 107–188, § 231(c)(2)(B), substituted “section 101(a)(3)” for “section 1010(a)(3)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–458, title VI, § 6802(d)(2), Dec. 17, 2004, 118 Stat. 3767, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect at the same time that sections 73.4, 73.5, and 73.6 of title 42, Code of Federal Regulations, become effective [probably means the effective date of the final rule revising sections 73.4, 73.5, and 73.6 of title 42, C.F.R., which was Apr. 18, 2005, see 70 F.R. 13294].”
+Pub. L. 108–458, title VI, § 6802(d)(2), Dec. 17, 2004, 118 Stat. 3767, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect at the same time that sections 73.4, 73.5, and 73.6 of title 42, Code of Federal Regulations, become effective [probably means the effective date of the final rule revising sections 73.4, 73.5, and 73.6 of title 42, C.F.R., which was Apr. 18, 2005, see 70 F.R. 13294].”
 
-## § 175c. Variola virus
+## § 175c. Variola virus
 
 **(a) Unlawful Conduct.—**
 
@@ -229,13 +229,13 @@ Pub. L. 108–458, title VI, § 6802(d)(2), Dec. 17, 2004, 118 Stat. 3767, pro
 
 **(d) Definition.—** As used in this section, the term “variola virus” means a virus that can cause human smallpox or any derivative of the variola major virus that contains more than 85 percent of the gene sequence of the variola major virus or the variola minor virus.
 
-(Added Pub. L. 108–458, title VI, § 6906, Dec. 17, 2004, 118 Stat. 3773.)
+(Added Pub. L. 108–458, title VI, § 6906, Dec. 17, 2004, 118 Stat. 3773.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Findings and Purpose**
 
-Pub. L. 108–458, title VI, § 6902, Dec. 17, 2004, 118 Stat. 3769, provided that:
+Pub. L. 108–458, title VI, § 6902, Dec. 17, 2004, 118 Stat. 3769, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -249,9 +249,9 @@ Pub. L. 108–458, title VI, § 6902, Dec. 17, 2004, 118 Stat. 3769, provided 
 
 > **“(5)** There is no legitimate reason for a private individual or company, absent explicit government authorization, to produce, construct, otherwise acquire, transfer, receive, possess, import, export, or use MANPADS, atomic or radiological weapons, or the variola virus.
 
-> **“(b) Purpose.—** The purpose of this subtitle [subtitle J (§§ 6901–6911) of title VI of Pub. L. 108–458, see Short Title of 2004 Amendment note set out under section 1 of this title] is to combat the potential use of weapons that have the ability to cause widespread harm to United States persons and the United States economy (and that have no legitimate private use) and to threaten or harm the national security or foreign relations of the United States.”
+> **“(b) Purpose.—** The purpose of this subtitle [subtitle J (§§ 6901–6911) of title VI of Pub. L. 108–458, see Short Title of 2004 Amendment note set out under section 1 of this title] is to combat the potential use of weapons that have the ability to cause widespread harm to United States persons and the United States economy (and that have no legitimate private use) and to threaten or harm the national security or foreign relations of the United States.”
 
-## § 176. Seizure, forfeiture, and destruction
+## § 176. Seizure, forfeiture, and destruction
 
 **(a) In General.—**
 
@@ -271,7 +271,7 @@ Pub. L. 108–458, title VI, § 6902, Dec. 17, 2004, 118 Stat. 3769, provided 
 
 **(2)** such biological agent, toxin, or delivery system, is of a type and quantity reasonable for that purpose.
 
-(Added Pub. L. 101–298, § 3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 103–322, title XXXIII, § 330010(16), Sept. 13, 1994, 108 Stat. 2144; Pub. L. 107–188, title II, § 231(c)(3), June 12, 2002, 116 Stat. 661.)
+(Added Pub. L. 101–298, § 3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 103–322, title XXXIII, § 330010(16), Sept. 13, 1994, 108 Stat. 2144; Pub. L. 107–188, title II, § 231(c)(3), June 12, 2002, 116 Stat. 661.)
 
 **Editorial Notes**
 
@@ -281,7 +281,7 @@ Pub. L. 108–458, title VI, § 6902, Dec. 17, 2004, 118 Stat. 3769, provided 
 
 1994—Subsec. (b). Pub. L. 103–322 substituted “the Government” for “the government”.
 
-## § 177. Injunctions
+## § 177. Injunctions
 
 **(a) In General.—** The United States may obtain in a civil action an injunction against—
 
@@ -297,7 +297,7 @@ Pub. L. 108–458, title VI, § 6902, Dec. 17, 2004, 118 Stat. 3769, provided 
 
 **(2)** such biological agent, toxin, or delivery system is of a type and quantity reasonable for that purpose.
 
-(Added Pub. L. 101–298, § 3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 104–132, title V, § 511(b)(2), Apr. 24, 1996, 110 Stat. 1284.)
+(Added Pub. L. 101–298, § 3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 104–132, title V, § 511(b)(2), Apr. 24, 1996, 110 Stat. 1284.)
 
 **Editorial Notes**
 
@@ -305,7 +305,7 @@ Pub. L. 108–458, title VI, § 6902, Dec. 17, 2004, 118 Stat. 3769, provided 
 
 1996—Subsec. (a)(2). Pub. L. 104–132 inserted “threat,” after “attempt,”.
 
-## § 178. Definitions
+## § 178. Definitions
 
 As used in this chapter—
 
@@ -333,26 +333,26 @@ As used in this chapter—
 
 **(5)** the term “national of the United States” has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
-(Added Pub. L. 101–298, § 3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 104–132, title V, § 511(b)(3), title VII, § 721(h), Apr. 24, 1996, 110 Stat. 1284, 1299; Pub. L. 107–188, title II, § 231(c)(4), June 12, 2002, 116 Stat. 661.)
+(Added Pub. L. 101–298, § 3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 104–132, title V, § 511(b)(3), title VII, § 721(h), Apr. 24, 1996, 110 Stat. 1284, 1299; Pub. L. 107–188, title II, § 231(c)(4), June 12, 2002, 116 Stat. 661.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Par. (1). Pub. L. 107–188, § 231(c)(4)(A), in introductory provisions substituted “means any microorganism (including, but not limited to, bacteria, viruses, fungi, rickettsiae or protozoa), or infectious substance, or any naturally occurring, bioengineered or synthesized component of any such microorganism or infectious substance, capable of” for “means any micro-organism, virus, infectious substance, or biological product that may be engineered as a result of biotechnology, or any naturally occurring or bioengineered component of any such microorganism, virus, infectious substance, or biological product, capable of”.
+2002—Par. (1). Pub. L. 107–188, § 231(c)(4)(A), in introductory provisions substituted “means any microorganism (including, but not limited to, bacteria, viruses, fungi, rickettsiae or protozoa), or infectious substance, or any naturally occurring, bioengineered or synthesized component of any such microorganism or infectious substance, capable of” for “means any micro-organism, virus, infectious substance, or biological product that may be engineered as a result of biotechnology, or any naturally occurring or bioengineered component of any such microorganism, virus, infectious substance, or biological product, capable of”.
 
-Par. (2). Pub. L. 107–188, § 231(c)(4)(B), in introductory provisions substituted “means the toxic material or product of plants, animals, microorganisms (including, but not limited to, bacteria, viruses, fungi, rickettsiae or protozoa), or infectious substances, or a recombinant or synthesized molecule, whatever their origin and method of production, and includes—” for “means the toxic material of plants, animals, microorganisms, viruses, fungi, or infectious substances, or a recombinant molecule, whatever its origin or method of production, including—”.
+Par. (2). Pub. L. 107–188, § 231(c)(4)(B), in introductory provisions substituted “means the toxic material or product of plants, animals, microorganisms (including, but not limited to, bacteria, viruses, fungi, rickettsiae or protozoa), or infectious substances, or a recombinant or synthesized molecule, whatever their origin and method of production, and includes—” for “means the toxic material of plants, animals, microorganisms, viruses, fungi, or infectious substances, or a recombinant molecule, whatever its origin or method of production, including—”.
 
-Par. (4). Pub. L. 107–188, § 231(c)(4)(C), substituted “recombinant or synthesized molecule,” for “recombinant molecule, or biological product that may be engineered as a result of biotechnology,”.
+Par. (4). Pub. L. 107–188, § 231(c)(4)(C), substituted “recombinant or synthesized molecule,” for “recombinant molecule, or biological product that may be engineered as a result of biotechnology,”.
 
-1996—Par. (1). Pub. L. 104–132, § 511(b)(3)(A), substituted “infectious substance, or biological product that may be engineered as a result of biotechnology, or any naturally occurring or bioengineered component of any such microorganism, virus, infectious substance, or biological product” for “or infectious substance” in introductory provisions.
+1996—Par. (1). Pub. L. 104–132, § 511(b)(3)(A), substituted “infectious substance, or biological product that may be engineered as a result of biotechnology, or any naturally occurring or bioengineered component of any such microorganism, virus, infectious substance, or biological product” for “or infectious substance” in introductory provisions.
 
-Par. (2). Pub. L. 104–132, § 511(b)(3)(B)(i), (ii), in introductory provisions, inserted “the toxic material of plants, animals, microorganisms, viruses, fungi, or infectious substances, or a recombinant molecule” after “means” and substituted “production, including—” for “production—”.
+Par. (2). Pub. L. 104–132, § 511(b)(3)(B)(i), (ii), in introductory provisions, inserted “the toxic material of plants, animals, microorganisms, viruses, fungi, or infectious substances, or a recombinant molecule” after “means” and substituted “production, including—” for “production—”.
 
-Par. (2)(A). Pub. L. 104–132, § 511(b)(3)(B)(iii), inserted “or biological product that may be engineered as a result of biotechnology” after “poisonous substance”.
+Par. (2)(A). Pub. L. 104–132, § 511(b)(3)(B)(iii), inserted “or biological product that may be engineered as a result of biotechnology” after “poisonous substance”.
 
-Par. (2)(B). Pub. L. 104–132, § 511(b)(3)(B)(iv), inserted “or biological product” after “isomer”.
+Par. (2)(B). Pub. L. 104–132, § 511(b)(3)(B)(iv), inserted “or biological product” after “isomer”.
 
-Par. (4). Pub. L. 104–132, § 511(b)(3)(C), inserted “, or molecule, including a recombinant molecule, or biological product that may be engineered as a result of biotechnology,” after “organism”.
+Par. (4). Pub. L. 104–132, § 511(b)(3)(C), inserted “, or molecule, including a recombinant molecule, or biological product that may be engineered as a result of biotechnology,” after “organism”.
 
-Par. (5). Pub. L. 104–132, § 721(h), added par. (5).
+Par. (5). Pub. L. 104–132, § 721(h), added par. (5).

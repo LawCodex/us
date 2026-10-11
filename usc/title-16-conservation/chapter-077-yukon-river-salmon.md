@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—IMPLEMENTATION OF INTERIM AGREEMENT
 
-### § 5701. Purposes
+### § 5701. Purposes
 
 It is the purpose of this subchapter—
 
@@ -27,21 +27,21 @@ It is the purpose of this subchapter—
 
 **(3)** to authorize to be appropriated sums necessary to carry out the responsibilities of the United States under such agreement.
 
-(Pub. L. 104–43, title VII, § 702, Nov. 3, 1995, 109 Stat. 392.)
+(Pub. L. 104–43, title VII, § 702, Nov. 3, 1995, 109 Stat. 392.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–219, title III, § 301, Apr. 13, 2004, 118 Stat. 616, provided that: “This title [amending section 5727 of this title and section 1977 of Title 22, Foreign Relations and Intercourse] may be cited as the ‘International Fisheries Reauthorization Act of 2004’.”
+Pub. L. 108–219, title III, § 301, Apr. 13, 2004, 118 Stat. 616, provided that: “This title [amending section 5727 of this title and section 1977 of Title 22, Foreign Relations and Intercourse] may be cited as the ‘International Fisheries Reauthorization Act of 2004’.”
 
 **Short Title**
 
-Pub. L. 104–43, title VII, § 701, Nov. 3, 1995, 109 Stat. 392, provided that: “This title [enacting this subchapter] may be cited as the ‘Yukon River Salmon Act of 1995’.”
+Pub. L. 104–43, title VII, § 701, Nov. 3, 1995, 109 Stat. 392, provided that: “This title [enacting this subchapter] may be cited as the ‘Yukon River Salmon Act of 1995’.”
 
-Pub. L. 106–450, title II, § 201, Nov. 7, 2000, 114 Stat. 1941, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Yukon River Salmon Act of 2000’.”
+Pub. L. 106–450, title II, § 201, Nov. 7, 2000, 114 Stat. 1941, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Yukon River Salmon Act of 2000’.”
 
-### § 5702. Definitions
+### § 5702. Definitions
 
 As used in this subchapter—
 
@@ -51,9 +51,9 @@ As used in this subchapter—
 
 **(3)** The term “Yukon River Joint Technical Committee” means the technical committee established by paragraph C.2 of the Memorandum of Understanding concerning the Pacific Salmon Treaty between the Government of the United States and the Government of Canada recorded January 28, 1985.
 
-(Pub. L. 104–43, title VII, § 703, Nov. 3, 1995, 109 Stat. 393.)
+(Pub. L. 104–43, title VII, § 703, Nov. 3, 1995, 109 Stat. 393.)
 
-### § 5703. Panel
+### § 5703. Panel
 
 **(a) Representation** The United States shall be represented on the Panel by six individuals, of whom—
 
@@ -73,9 +73,9 @@ As used in this subchapter—
 
 **(c) Alternates**
 
-The Secretary of State may designate an alternate Panel member for each Panel member the Secretary appoints under subsections 1
+The Secretary of State may designate an alternate Panel member for each Panel member the Secretary appoints under subsections 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (b)(1) and (3), who meets the same qualifications, to serve in the absence of the Panel member. The Governor of the State of Alaska may designate an alternative Panel member for the Panel member appointed under subsection (b)(2), who meets the same qualifications, to serve in the absence of that Panel member.
 
@@ -95,9 +95,9 @@ Decisions by the United States section of the Panel shall be made by the consens
 
 In carrying out their functions under the Agreement, Panel members may consult with such other interested parties as they consider appropriate.
 
-(Pub. L. 104–43, title VII, § 704, Nov. 3, 1995, 109 Stat. 393.)
+(Pub. L. 104–43, title VII, § 704, Nov. 3, 1995, 109 Stat. 393.)
 
-### § 5704. Advisory Committee
+### § 5704. Advisory Committee
 
 **(a) Appointments**
 
@@ -115,13 +115,13 @@ Advisory Committee members shall serve two-year terms. Any individual appointed 
 
 Advisory Committee members shall be eligible for reappointment.
 
-(Pub. L. 104–43, title VII, § 705, Nov. 3, 1995, 109 Stat. 394.)
+(Pub. L. 104–43, title VII, § 705, Nov. 3, 1995, 109 Stat. 394.)
 
-### § 5705. Exemption
+### § 5705. Exemption
 
 Chapter 10 of title 5 shall not apply to the Panel, the Yukon River Joint Technical Committee, or the Advisory Committee created under section 5704 of this title.
 
-(Pub. L. 104–43, title VII, § 706, Nov. 3, 1995, 109 Stat. 394; Pub. L. 117–286, § 4(a)(126), Dec. 27, 2022, 136 Stat. 4319.)
+(Pub. L. 104–43, title VII, § 706, Nov. 3, 1995, 109 Stat. 394; Pub. L. 117–286, § 4(a)(126), Dec. 27, 2022, 136 Stat. 4319.)
 
 **Editorial Notes**
 
@@ -129,7 +129,7 @@ Chapter 10 of title 5 shall not apply to the Panel, the Yukon River Joint Techni
 
 2022—Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-### § 5706. Authority and responsibility
+### § 5706. Authority and responsibility
 
 **(a) Responsible management entity**
 
@@ -143,15 +143,15 @@ The designation under subsection (a) shall not be considered to expand, diminish
 
 In addition to recommendations made by the Panel to the responsible management entities in accordance with the Agreement, the Panel may make recommendations concerning the conservation and management of salmon originating in the Yukon River to the Department of the Interior, Department of Commerce, Department of State, North Pacific Fishery Management Council, and other Federal or State entities as appropriate. Recommendations by the Panel shall be advisory in nature.
 
-(Pub. L. 104–43, title VII, § 707, Nov. 3, 1995, 109 Stat. 394.)
+(Pub. L. 104–43, title VII, § 707, Nov. 3, 1995, 109 Stat. 394.)
 
-### § 5707. Continuation of Agreement
+### § 5707. Continuation of Agreement
 
 In the event that the Treaty between Canada and the United States of America concerning Pacific Salmon, signed at Ottawa, January 28, 1985, terminates prior to the termination of the Agreement, and the functions of the Panel are assumed by the “Yukon River Salmon Commission” referenced in the Agreement, the provisions of this subchapter which apply to the Panel shall thereafter apply to the Yukon River Salmon Commission, and the other provisions of this subchapter shall remain in effect.
 
-(Pub. L. 104–43, title VII, § 708, Nov. 3, 1995, 109 Stat. 394.)
+(Pub. L. 104–43, title VII, § 708, Nov. 3, 1995, 109 Stat. 394.)
 
-### § 5708. Administrative matters
+### § 5708. Administrative matters
 
 **(a) Compensation of Panel members**
 
@@ -163,13 +163,13 @@ Travel and other necessary expenses shall be paid for all Panel members, alterna
 
 **(c) Status as Federal employees**
 
-Except for officials of the United States Government, individuals described in subsection (b) shall not be considered to be Federal employees while engaged in the actual performance of duties, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 71 1
+Except for officials of the United States Government, individuals described in subsection (b) shall not be considered to be Federal employees while engaged in the actual performance of duties, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 71 1
 
-<sup>1</sup>  So in original. Probably should be chapter “171”.
+<sup>1</sup> So in original. Probably should be chapter “171”.
 
 of title 28.
 
-(Pub. L. 104–43, title VII, § 709, Nov. 3, 1995, 109 Stat. 395.)
+(Pub. L. 104–43, title VII, § 709, Nov. 3, 1995, 109 Stat. 395.)
 
 **Editorial Notes**
 
@@ -177,15 +177,15 @@ of title 28.
 
 The General Schedule, referred to in subsec. (a), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-### § 5709. Authorization of appropriations
+### § 5709. Authorization of appropriations
 
 There are authorized to be appropriated $4,000,000 for each fiscal year for carrying out the purposes and provisions of the Agreement and this subchapter including—
 
 **(1)** necessary travel expenses of Panel members, alternate Panel members, United States members of the Joint Technical Committee, and members of the Advisory Committee in accordance with Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5;
 
-**(2)** the United States share of the joint expenses of the Panel and the Joint Technical Committee: *Provided*, That Panel members and alternate Panel members shall not, with respect to commitments concerning the United States share of the joint expenses, be subject to section 262(b) 1
+**(2)** the United States share of the joint expenses of the Panel and the Joint Technical Committee: *Provided*, That Panel members and alternate Panel members shall not, with respect to commitments concerning the United States share of the joint expenses, be subject to section 262(b) 1
 
-<sup>1</sup>  So in original. Probably should be section “262b”.
+<sup>1</sup> So in original. Probably should be section “262b”.
 
 of title 22, insofar as it limits the authority of United States representatives to international organizations with respect to such commitments;
 
@@ -193,11 +193,11 @@ of title 22, insofar as it limits the authority of United States representatives
 
 **(4)** $400,000 in each of fiscal years 1996, 1997, 1998, and 1999 to be contributed to the Yukon River Restoration and Enhancement Fund and used in accordance with the Agreement.
 
-(Pub. L. 104–43, title VII, § 710, Nov. 3, 1995, 109 Stat. 395.)
+(Pub. L. 104–43, title VII, § 710, Nov. 3, 1995, 109 Stat. 395.)
 
 ## SUBCHAPTER II—CONSERVATION AND MANAGEMENT
 
-### § 5721. Yukon River Salmon Panel
+### § 5721. Yukon River Salmon Panel
 
 **(a) Establishment**
 
@@ -213,7 +213,7 @@ There shall be a Yukon River Salmon Panel (in this subchapter referred to as the
 
 **(C)** perform other functions relating to conservation and management of such salmon stocks as authorized by this subchapter or any other title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(3) Designation as United States representatives on bilateral body**
 
@@ -265,7 +265,7 @@ Decisions of the Panel shall be made by the consensus of the Panel members appoi
 
 In carrying out their functions, Panel members may consult with such other interested parties as they consider appropriate.
 
-(Pub. L. 106–450, title II, § 202, Nov. 7, 2000, 114 Stat. 1941.)
+(Pub. L. 106–450, title II, § 202, Nov. 7, 2000, 114 Stat. 1941.)
 
 **Editorial Notes**
 
@@ -279,7 +279,7 @@ This subchapter or any other title, referred to in subsec. (a)(2)(C), was in the
 
 For short title of this subchapter as the “Yukon River Salmon Act of 2000”, see section 201 of Pub. L. 106–450, set out as a note under section 5701 of this title.
 
-### § 5722. Advisory committee
+### § 5722. Advisory committee
 
 **(a) Appointments**
 
@@ -297,13 +297,13 @@ Members of such advisory committee shall serve 2-year terms. Any individual appo
 
 Members of such advisory committee shall be eligible for reappointment.
 
-(Pub. L. 106–450, title II, § 203, Nov. 7, 2000, 114 Stat. 1943.)
+(Pub. L. 106–450, title II, § 203, Nov. 7, 2000, 114 Stat. 1943.)
 
-### § 5723. Exemption
+### § 5723. Exemption
 
 Chapter 10 of title 5 shall not apply to the Panel or to an advisory committee established under section 5722 of this title.
 
-(Pub. L. 106–450, title II, § 204, Nov. 7, 2000, 114 Stat. 1943; Pub. L. 117–286, § 4(a)(127), Dec. 27, 2022, 136 Stat. 4319.)
+(Pub. L. 106–450, title II, § 204, Nov. 7, 2000, 114 Stat. 1943; Pub. L. 117–286, § 4(a)(127), Dec. 27, 2022, 136 Stat. 4319.)
 
 **Editorial Notes**
 
@@ -311,7 +311,7 @@ Chapter 10 of title 5 shall not apply to the Panel or to an advisory committee e
 
 2022—Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-### § 5724. Authority and responsibility
+### § 5724. Authority and responsibility
 
 **(a) Responsible management entity**
 
@@ -325,9 +325,9 @@ The designation under subsection (a) shall not be considered to expand, diminish
 
 In addition to recommendations made by the Panel to the responsible management entities in accordance with any agreement with Canada regarding management of salmon stocks originating from the Yukon River in Canada, the Panel may make recommendations concerning the conservation and management of salmon originating in the Yukon River to the Department of the Interior, the Department of Commerce, the Department of State, the North Pacific Fishery Management Council, and other Federal or State entities as appropriate. Recommendations by the Panel shall be advisory in nature.
 
-(Pub. L. 106–450, title II, § 205, Nov. 7, 2000, 114 Stat. 1943.)
+(Pub. L. 106–450, title II, § 205, Nov. 7, 2000, 114 Stat. 1943.)
 
-### § 5725. Administrative matters
+### § 5725. Administrative matters
 
 **(a) Compensation**
 
@@ -339,13 +339,13 @@ Travel and other necessary expenses shall be paid by the Secretary of the Interi
 
 **(c) Treatment as Federal employees**
 
-Except for officials of the United States Government, all Panel members, alternate Panel members, and members of any advisory committee established under section 5722 of this title shall not be considered to be Federal employees while engaged in the actual performance of duties, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 71 1
+Except for officials of the United States Government, all Panel members, alternate Panel members, and members of any advisory committee established under section 5722 of this title shall not be considered to be Federal employees while engaged in the actual performance of duties, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 71 1
 
-<sup>1</sup>  So in original. Probably should be “171”.
+<sup>1</sup> So in original. Probably should be “171”.
 
 of title 28.
 
-(Pub. L. 106–450, title II, § 206, Nov. 7, 2000, 114 Stat. 1943.)
+(Pub. L. 106–450, title II, § 206, Nov. 7, 2000, 114 Stat. 1943.)
 
 **Editorial Notes**
 
@@ -353,7 +353,7 @@ of title 28.
 
 GS–15 of the General Schedule, referred to in subsec. (a), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-### § 5726. Yukon River salmon stock restoration and enhancement projects
+### § 5726. Yukon River salmon stock restoration and enhancement projects
 
 **(a) In general**
 
@@ -369,9 +369,9 @@ The Secretary of the Interior, in consultation with the Secretary of Commerce, m
 
 **(B)** may be deposited in any joint account established by the agreement to fund such projects.
 
-(Pub. L. 106–450, title II, § 207, Nov. 7, 2000, 114 Stat. 1944.)
+(Pub. L. 106–450, title II, § 207, Nov. 7, 2000, 114 Stat. 1944.)
 
-### § 5727. Authorization of appropriations
+### § 5727. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary of the Interior to carry out this subchapter $4,000,000 for each of fiscal years 2007 through 2011 of which—
 
@@ -383,7 +383,7 @@ There are authorized to be appropriated to the Secretary of the Interior to carr
 
 **(4)** $600,000 shall be available each fiscal year for cooperative salmon research and management projects in the portion of the Yukon River drainage located in the United States that are recommended by the Panel.
 
-(Pub. L. 106–450, title II, § 208, Nov. 7, 2000, 114 Stat. 1944; Pub. L. 108–219, title III, § 303, Apr. 13, 2004, 118 Stat. 616; Pub. L. 109–479, title III, § 302(b), Jan. 12, 2007, 120 Stat. 3623.)
+(Pub. L. 106–450, title II, § 208, Nov. 7, 2000, 114 Stat. 1944; Pub. L. 108–219, title III, § 303, Apr. 13, 2004, 118 Stat. 616; Pub. L. 109–479, title III, § 302(b), Jan. 12, 2007, 120 Stat. 3623.)
 
 **Editorial Notes**
 

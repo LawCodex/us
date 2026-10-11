@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1978—Pub. L. 95–454, title VII, § 703(a)(2), Oct. 13, 1978, 92 Stat. 1217, struck out heading “SUBCHAPTER II—ANTIDISCRIMINATION IN EMPLOYMENT” and substituted therefor a chapter heading “CHAPTER 72—ANTIDISCRIMINATION; RIGHT TO PETITION CONGRESS” together with the analysis of chapter 72 containing subchapters I, consisting of items 7201 to 7204, and subchapter II, consisting of item 7211.
+1978—Pub. L. 95–454, title VII, § 703(a)(2), Oct. 13, 1978, 92 Stat. 1217, struck out heading “SUBCHAPTER II—ANTIDISCRIMINATION IN EMPLOYMENT” and substituted therefor a chapter heading “CHAPTER 72—ANTIDISCRIMINATION; RIGHT TO PETITION CONGRESS” together with the analysis of chapter 72 containing subchapters I, consisting of items 7201 to 7204, and subchapter II, consisting of item 7211.
 
 ## SUBCHAPTER I—ANTIDISCRIMINATION IN EMPLOYMENT
 
@@ -27,9 +27,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1979—Pub. L. 96–54, § 2(a)(43), Aug. 14, 1979, 93 Stat. 383, added heading for subchapter I.
+1979—Pub. L. 96–54, § 2(a)(43), Aug. 14, 1979, 93 Stat. 383, added heading for subchapter I.
 
-### § 7201. Antidiscrimination policy; minority recruitment program
+### § 7201. Antidiscrimination policy; minority recruitment program
 
 **(a)** For the purpose of this section—
 
@@ -65,13 +65,13 @@ retrieved: 2026-10-11
 
 **(e)** Not later than January 31 of each year, the Office shall prepare and transmit to each House of the Congress a report on the activities of the Office and of Executive agencies under subsection (c) of this section, including the affirmative action plans submitted under section 717 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16), the personnel data file maintained by the Office of Personnel Management, and any other data necessary to evaluate the effectiveness of the program for each category of civil service employment and for each minority group designation, for the preceding fiscal year, together with recommendations for administrative or legislative action the Office considers appropriate.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, § 7151; renumbered § 7201 and amended Pub. L. 95–454, title III, § 310, title VII, § 703(a)(1), Oct. 13, 1978, 92 Stat. 1152, 1216.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, § 7151; renumbered § 7201 and amended Pub. L. 95–454, title III, § 310, title VII, § 703(a)(1), Oct. 13, 1978, 92 Stat. 1152, 1216.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 42 U.S.C. 2000e(b) (2d proviso). | July 2, 1964, Pub. L. 88–352, § 701(b) (2d proviso), 78 Stat. 254. |
+|  | 42 U.S.C. 2000e(b) (2d proviso). | July 2, 1964, Pub. L. 88–352, § 701(b) (2d proviso), 78 Stat. 254. |
 
 The word “Federal” is omitted as unnecessary in view of the definition of “employee” in section 2105.
 
@@ -87,11 +87,11 @@ The date of the enactment of the Civil Service Reform Act of 1978, referred to i
 
 **Amendments**
 
-1978—Pub. L. 95–454, § 703(a)(1), renumbered section 7151 of this title as this section.
+1978—Pub. L. 95–454, § 703(a)(1), renumbered section 7151 of this title as this section.
 
-Pub. L. 95–454, § 310(1), substituted “Antidiscrimination policy; minority recruitment program” for “Policy” in section catchline.
+Pub. L. 95–454, § 310(1), substituted “Antidiscrimination policy; minority recruitment program” for “Policy” in section catchline.
 
-Subsecs. (a) to (e). Pub. L. 95–454, § 310(2)–(4), added subsec. (a), designated existing provisions as subsec. (b), and added subsecs. (c) to (e).
+Subsecs. (a) to (e). Pub. L. 95–454, § 310(2)–(4), added subsec. (a), designated existing provisions as subsec. (b), and added subsecs. (c) to (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -105,13 +105,13 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (e) 
 
 **Workplace Policies Prohibiting Discrimination and Sexual Harassment**
 
-Pub. L. 110–161, div. D, title VII, § 716, Dec. 26, 2007, 121 Stat. 2023, provided that: “Hereafter, no department, agency, or instrumentality of the United States receiving appropriated funds under this or any other Act shall obligate or expend any such funds, unless such department, agency, or instrumentality has in place, and will continue to administer in good faith, a written policy designed to ensure that all of its workplaces are free from discrimination and sexual harassment and that all of its workplaces are not in violation of title VII of the Civil Rights Act of 1964 (Public Law 88–352, 78 Stat. 241) [42 U.S.C. 2000e et seq.], the Age Discrimination in Employment Act of 1967 (Public Law 90–202, 81 Stat. 602) [29 U.S.C. 621 et seq.], and the Rehabilitation Act of 1973 (Public Law 93–112, 87 Stat. 355) [29 U.S.C. 701 et seq.].”
+Pub. L. 110–161, div. D, title VII, § 716, Dec. 26, 2007, 121 Stat. 2023, provided that: “Hereafter, no department, agency, or instrumentality of the United States receiving appropriated funds under this or any other Act shall obligate or expend any such funds, unless such department, agency, or instrumentality has in place, and will continue to administer in good faith, a written policy designed to ensure that all of its workplaces are free from discrimination and sexual harassment and that all of its workplaces are not in violation of title VII of the Civil Rights Act of 1964 (Public Law 88–352, 78 Stat. 241) [42 U.S.C. 2000e et seq.], the Age Discrimination in Employment Act of 1967 (Public Law 90–202, 81 Stat. 602) [29 U.S.C. 621 et seq.], and the Rehabilitation Act of 1973 (Public Law 93–112, 87 Stat. 355) [29 U.S.C. 701 et seq.].”
 
 **Discrimination Prohibited in Employment of Civilian Personnel at Facilities Operated by the Department of Defense in Foreign Countries**
 
-Pub. L. 92–129, title I, § 106, Sept. 28, 1971, 85 Stat. 355, provided that: “Unless prohibited by treaty, no person shall be discriminated against by the Department of Defense or by any officer or employee thereof, in the employment of civilian personnel at any facility or installation operated by the Department of Defense in any foreign country because such person is a citizen of the United States or is a dependent of a member of the Armed Forces of the United States. As used in this section, the term ‘facility or installation operated by the Department of Defense’ shall include, but shall not be limited to, any officer’s club, non-commissioned officers’ club, post exchange, or commissary store.”
+Pub. L. 92–129, title I, § 106, Sept. 28, 1971, 85 Stat. 355, provided that: “Unless prohibited by treaty, no person shall be discriminated against by the Department of Defense or by any officer or employee thereof, in the employment of civilian personnel at any facility or installation operated by the Department of Defense in any foreign country because such person is a citizen of the United States or is a dependent of a member of the Armed Forces of the United States. As used in this section, the term ‘facility or installation operated by the Department of Defense’ shall include, but shall not be limited to, any officer’s club, non-commissioned officers’ club, post exchange, or commissary store.”
 
-### § 7202. Marital status
+### § 7202. Marital status
 
 **(a)** The President may prescribe rules which shall prohibit, as nearly as conditions of good administration warrant, discrimination because of marital status in an Executive agency or in the competitive service.
 
@@ -119,7 +119,7 @@ Pub. L. 92–129, title I, § 106, Sept. 28, 1971, 85 Stat. 355, provided that
 
 **(c)** Notwithstanding any other provision of law, any provision of law providing a benefit to a male Federal employee or to his spouse or family shall be deemed to provide the same benefit to a female Federal employee or to her spouse or family.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, § 7152; Pub. L. 92–187, § 3, Dec. 15, 1971, 85 Stat. 644; renumbered § 7202, Pub. L. 95–454, title VII, § 703(a)(1), Oct. 13, 1978, 92 Stat. 1216.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, § 7152; Pub. L. 92–187, § 3, Dec. 15, 1971, 85 Stat. 644; renumbered § 7202, Pub. L. 95–454, title VII, § 703(a)(1), Oct. 13, 1978, 92 Stat. 1216.)
 
 **Historical and Revision Notes**
 
@@ -139,11 +139,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1971—Pub. L. 92–187 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-### § 7203. Handicapping condition
+### § 7203. Handicapping condition
 
 The President may prescribe rules which shall prohibit, as nearly as conditions of good administration warrant, discrimination because of handicapping condition in an Executive agency or in the competitive service with respect to a position the duties of which, in the opinion of the Office of Personnel Management, can be performed efficiently by an individual with a handicapping condition, except that the employment may not endanger the health or safety of the individual or others.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, § 7153; renumbered § 7203 and amended Pub. L. 95–454, title I, § 101(b)(2), title VII, § 703(a)(1), title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1118, 1216, 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, § 7153; renumbered § 7203 and amended Pub. L. 95–454, title I, § 101(b)(2), title VII, § 703(a)(1), title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1118, 1216, 1224.)
 
 **Historical and Revision Notes**
 
@@ -159,9 +159,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-1978—Pub. L. 95–454, § 703(a)(1), renumbered section 7153 of this title as this section.
+1978—Pub. L. 95–454, § 703(a)(1), renumbered section 7153 of this title as this section.
 
-Pub. L. 95–454, §§ 101(b)(2), 906(a)(2), substituted “Handicapping condition” for “Physical handicap” in section catchline, “handicapping condition” for “physical handicap” wherever appearing in text, and “Office of Personnel Management” for “Civil Service Commission”.
+Pub. L. 95–454, §§ 101(b)(2), 906(a)(2), substituted “Handicapping condition” for “Physical handicap” in section catchline, “handicapping condition” for “physical handicap” wherever appearing in text, and “Office of Personnel Management” for “Civil Service Commission”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -169,15 +169,15 @@ Pub. L. 95–454, §§ 101(b)(2), 906(a)(2), substituted “Handicapping condi
 
 Amendment by sections 101(b)(2) and 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-### § 7204. Other prohibitions
+### § 7204. Other prohibitions
 
-**[(a)** Repealed. Pub. L. 90–83, § 1(44), Sept. 11, 1967, 81 Stat. 208.]
+**[(a)** Repealed. Pub. L. 90–83, § 1(44), Sept. 11, 1967, 81 Stat. 208.]
 
 **(b)** In the administration of chapter 51, subchapters III and IV of chapter 53, and sections 305 and 3324 of this title, discrimination because of race, color, creed, sex, or marital status is prohibited with respect to an individual or a position held by an individual.
 
 **(c)** The Office of Personnel Management may prescribe regulations necessary for the administration of subsection (b) of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, § 7154; Pub. L. 90–83, § 1(44), Sept. 11, 1967, 81 Stat. 208; Pub. L. 92–392, § 8, Aug. 19, 1972, 86 Stat. 573; renumbered § 7204 and amended Pub. L. 95–454, title VII, § 703(a)(1), title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1216, 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, § 7154; Pub. L. 90–83, § 1(44), Sept. 11, 1967, 81 Stat. 208; Pub. L. 92–392, § 8, Aug. 19, 1972, 86 Stat. 573; renumbered § 7204 and amended Pub. L. 95–454, title VII, § 703(a)(1), title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1216, 1224.)
 
 **Historical and Revision Notes**
 
@@ -185,12 +185,12 @@ Amendment by sections 101(b)(2) and 906(a)(2) of Pub. L. 95–454 effective 90 d
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 33. | R.S. § 165. |
-| (b) | 5 U.S.C. 1074. | Oct. 28, 1949, ch. 782, § 1103, 63 Stat. 972. |
+| (a) | 5 U.S.C. 33. | R.S. § 165. |
+| (b) | 5 U.S.C. 1074. | Oct. 28, 1949, ch. 782, § 1103, 63 Stat. 972. |
 
 In subsection (a), the words “Executive department” are substituted for “department” as the definition of “department” applicable to this section is coextensive with the definition of “Executive department” in section 101. The words “or military department” are inserted to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this subsection, which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser’s note for section 301. The words “in the discretion of” are omitted as unnecessary in view of the permissive grant of authority. The words “positions in the department” are substituted for “any of the clerkships therein authorized by law”. The words “upon the same requisites and conditions” are omitted as unnecessary. The words “legal pay of the position to which appointed” are substituted for “same compensations, as are prescribed for men”.
 
-This subsection was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title, but is not repealed.
+This subsection was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title, but is not repealed.
 
 Subsection (c) is added on authority of former sections 1072 and 1072a, which are codified in section 5115.
 
@@ -204,9 +204,9 @@ This section deletes subsection (a) of 5 U.S.C. 7154 to reflect the repeal of th
 
 **Amendments**
 
-1978—Pub. L. 95–454, § 703(a)(1), renumbered section 7154 of this title as this section.
+1978—Pub. L. 95–454, § 703(a)(1), renumbered section 7154 of this title as this section.
 
-Subsec. (c). Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+Subsec. (c). Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 1972—Subsec. (b). Pub. L. 92–392 inserted reference to subchapter IV of chapter 53 of this title.
 
@@ -222,17 +222,17 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 
 ## SUBCHAPTER II—EMPLOYEES’ RIGHT TO PETITION CONGRESS
 
-### § 7211. Employees’ right to petition Congress
+### § 7211. Employees’ right to petition Congress
 
 The right of employees, individually or collectively, to petition Congress or a Member of Congress, or to furnish information to either House of Congress, or to a committee or Member thereof, may not be interfered with or denied.
 
-(Added Pub. L. 95–454, title VII, § 703(a)(3), Oct. 13, 1978, 92 Stat. 1217.)
+(Added Pub. L. 95–454, title VII, § 703(a)(3), Oct. 13, 1978, 92 Stat. 1217.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions of this section were contained in section 7102 of this title prior to the general amendment of chapter 71 of this title by Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1191.
+Provisions of this section were contained in section 7102 of this title prior to the general amendment of chapter 71 of this title by Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1191.
 
 **Statutory Notes and Related Subsidiaries**
 

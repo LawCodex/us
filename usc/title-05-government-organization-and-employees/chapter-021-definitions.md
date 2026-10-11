@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–56, title II, § 235(a)(2)(B), Nov. 21, 2011, 125 Stat. 723, added item 2108a.
+2011—Pub. L. 112–56, title II, § 235(a)(2)(B), Nov. 21, 2011, 125 Stat. 723, added item 2108a.
 
-1980—Pub. L. 96–347, § 1(d), Sept. 12, 1980, 94 Stat. 1150, substituted “controller; Secretary” for “controller” in item 2109.
+1980—Pub. L. 96–347, § 1(d), Sept. 12, 1980, 94 Stat. 1150, substituted “controller; Secretary” for “controller” in item 2109.
 
-1978—Pub. L. 95–454, title IV, § 401(e), Oct. 13, 1978, 92 Stat. 1154, added item 2101a.
+1978—Pub. L. 95–454, title IV, § 401(e), Oct. 13, 1978, 92 Stat. 1154, added item 2101a.
 
-1972—Pub. L. 92–297, § 1(b), May 16, 1972, 86 Stat. 141, added item 2109.
+1972—Pub. L. 92–297, § 1(b), May 16, 1972, 86 Stat. 141, added item 2109.
 
-## § 2101. Civil service; armed forces; uniformed services
+## § 2101. Civil service; armed forces; uniformed services
 
 For the purpose of this title—
 
@@ -37,7 +37,7 @@ For the purpose of this title—
 
 **(3)** “uniformed services” means the armed forces, the commissioned corps of the Public Health Service, and the commissioned corps of the National Oceanic and Atmospheric Administration.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 408; Pub. L. 90–83, § 1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 96–54, § 2(a)(4), Aug. 14, 1979, 93 Stat. 381; Pub. L. 116–283, div. A, title IX, § 927(a), Jan. 1, 2021, 134 Stat. 3831.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 408; Pub. L. 90–83, § 1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 96–54, § 2(a)(4), Aug. 14, 1979, 93 Stat. 381; Pub. L. 116–283, div. A, title IX, § 927(a), Jan. 1, 2021, 134 Stat. 3831.)
 
 **Historical and Revision Notes**
 
@@ -47,7 +47,7 @@ The section is supplied to establish basis of reference to employees in this tit
 
 **1967 Act**
 
-This section amends various sections [§§ 2101, 4102, 4109, 5541, 8101] of title 5, United States Code, to reflect 1965 Reorganization Plan No. 2 (79 Stat. 1318), effective July 13, 1965, which consolidated the Coast and Geodetic Survey and the Weather Bureau to form a new agency in the Department of Commerce to be known as the Environmental Science Services Administration.
+This section amends various sections [§§ 2101, 4102, 4109, 5541, 8101] of title 5, United States Code, to reflect 1965 Reorganization Plan No. 2 (79 Stat. 1318), effective July 13, 1965, which consolidated the Coast and Geodetic Survey and the Weather Bureau to form a new agency in the Department of Commerce to be known as the Environmental Science Services Administration.
 
 **Editorial Notes**
 
@@ -65,15 +65,15 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–339, § 1, Oct. 31, 1998, 112 Stat. 3182, provided that: “This Act [enacting sections 3330a to 3330c of this title, section 1316a of Title 2, The Congress, section 115 of Title 3, The President, and section 1354 of Title 31, Money and Finance, amending sections 2108, 2302, and 3304 of this title and section 4212 of Title 38, Veterans’ Benefits, repealing section 1599c of Title 10, Armed Forces, enacting provisions set out as notes under section 2302 of this title and section 601 of Title 28, Judiciary and Judicial Procedure, and amending provisions set out as a note under section 106 of Title 49, Transportation] may be cited as the ‘Veterans Employment Opportunities Act of 1998’.”
+Pub. L. 105–339, § 1, Oct. 31, 1998, 112 Stat. 3182, provided that: “This Act [enacting sections 3330a to 3330c of this title, section 1316a of Title 2, The Congress, section 115 of Title 3, The President, and section 1354 of Title 31, Money and Finance, amending sections 2108, 2302, and 3304 of this title and section 4212 of Title 38, Veterans’ Benefits, repealing section 1599c of Title 10, Armed Forces, enacting provisions set out as notes under section 2302 of this title and section 601 of Title 28, Judiciary and Judicial Procedure, and amending provisions set out as a note under section 106 of Title 49, Transportation] may be cited as the ‘Veterans Employment Opportunities Act of 1998’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–226, § 1, Mar. 30, 1994, 108 Stat. 111, provided that: “This Act [amending sections 3381, 4101, 4103, 4105, 4107, 4108, 4113, 4118, 5597, 8351, 8433 to 8435, 8437, 8440a to 8440d of this title and section 1206 of Title 45, Railroads, repealing sections 4106 and 4114 of this title, enacting provisions set out as notes under sections 3101, 3381, 5597, 8331, and 8351 of this title, and amending provisions set out as a note under section 403–4 of Title 50, War and National Defense] may be cited as the ‘Federal Workforce Restructuring Act of 1994’.”
+Pub. L. 103–226, § 1, Mar. 30, 1994, 108 Stat. 111, provided that: “This Act [amending sections 3381, 4101, 4103, 4105, 4107, 4108, 4113, 4118, 5597, 8351, 8433 to 8435, 8437, 8440a to 8440d of this title and section 1206 of Title 45, Railroads, repealing sections 4106 and 4114 of this title, enacting provisions set out as notes under sections 3101, 3381, 5597, 8331, and 8351 of this title, and amending provisions set out as a note under section 403–4 of Title 50, War and National Defense] may be cited as the ‘Federal Workforce Restructuring Act of 1994’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–508, title VII, § 7202(a), Nov. 5, 1990, 104 Stat. 1388–335, provided that: “This section [amending sections 2105, 3502, 5334, 5335, 5365, 5551, 6308, 6312, 8331, 8347, 8401, 8461, and 8901 of this title and enacting provisions set out as notes under section 2105 of this title] may be cited as the ‘Portability of Benefits for Nonappropriated Fund Employees Act of 1990’.”
+Pub. L. 101–508, title VII, § 7202(a), Nov. 5, 1990, 104 Stat. 1388–335, provided that: “This section [amending sections 2105, 3502, 5334, 5335, 5365, 5551, 6308, 6312, 8331, 8347, 8401, 8461, and 8901 of this title and enacting provisions set out as notes under section 2105 of this title] may be cited as the ‘Portability of Benefits for Nonappropriated Fund Employees Act of 1990’.”
 
 **Transfer of Functions**
 
@@ -81,13 +81,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Coordination of Title VII of Pub. L. 101–508 With Section 909 of Title 2**
 
-Pub. L. 101–508, title VII, § 7301, Nov. 5, 1990, 104 Stat. 1388–341, provided that: “For purposes of section 202 of the Balanced Budget and Emergency Deficit Reaffirmation Act of 1987 [probably means section 202 of the Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987, Pub. L. 100–119, which was formerly classified to section 909 of Title 2, The Congress], this title and the amendments made by this title [amending sections 552a, 2105, 3502, 5334, 5335, 5365, 5551, 6308, 6312, 8331, 8334, 8339, 8342, 8343a, 8347, 8348, 8401, 8420a, 8461, 8901, 8902, 8904, 8906, 8909, and 8910 of this title, enacting provisions set out as notes under this section and sections 552a, 2105, 8334, 8343a, 8348, 8902, 8904, and 8906 of this title, amending provisions set out as notes under sections 8343a and 8906 of this title, and repealing provisions set out as notes under sections 8343a and 8348 of this title] shall be considered an exception under subsection (b) of such section.”
+Pub. L. 101–508, title VII, § 7301, Nov. 5, 1990, 104 Stat. 1388–341, provided that: “For purposes of section 202 of the Balanced Budget and Emergency Deficit Reaffirmation Act of 1987 [probably means section 202 of the Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987, Pub. L. 100–119, which was formerly classified to section 909 of Title 2, The Congress], this title and the amendments made by this title [amending sections 552a, 2105, 3502, 5334, 5335, 5365, 5551, 6308, 6312, 8331, 8334, 8339, 8342, 8343a, 8347, 8348, 8401, 8420a, 8461, 8901, 8902, 8904, 8906, 8909, and 8910 of this title, enacting provisions set out as notes under this section and sections 552a, 2105, 8334, 8343a, 8348, 8902, 8904, and 8906 of this title, amending provisions set out as notes under sections 8343a and 8906 of this title, and repealing provisions set out as notes under sections 8343a and 8348 of this title] shall be considered an exception under subsection (b) of such section.”
 
-## § 2101a. The Senior Executive Service
+## § 2101a. The Senior Executive Service
 
 The “Senior Executive Service” consists of Senior Executive Service positions (as defined in section 3132(a)(2) of this title).
 
-(Added Pub. L. 95–454, title IV, § 401(a), Oct. 13, 1978, 92 Stat. 1154.)
+(Added Pub. L. 95–454, title IV, § 401(a), Oct. 13, 1978, 92 Stat. 1154.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -95,7 +95,7 @@ The “Senior Executive Service” consists of Senior Executive Service position
 
 Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as a note under section 3131 of this title.
 
-## § 2102. The competitive service
+## § 2102. The competitive service
 
 **(a)** The “competitive service” consists of—
 
@@ -115,13 +115,13 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 **(c)** As used in other Acts of Congress, “classified civil service” or “classified service” means the “competitive service”.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 408; Pub. L. 95–454, title IV, § 401(b), Oct. 13, 1978, 92 Stat. 1154.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 408; Pub. L. 95–454, title IV, § 401(b), Oct. 13, 1978, 92 Stat. 1154.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 638 (less applicability to appointment and promotion). | Jan. 16, 1883, ch. 27, § 7 (less applicability to appointment and promotion), 22 Stat. 406. |
+| (a) | 5 U.S.C. 638 (less applicability to appointment and promotion). | Jan. 16, 1883, ch. 27, § 7 (less applicability to appointment and promotion), 22 Stat. 406. |
 
 Subsection (a) is restated in the form of a definition.
 
@@ -129,7 +129,7 @@ Subsection (a)(1) is based on former section 638, which placed positions in the 
 
 In subsection (a)(1)(B), the words “or to pass an examination” are omitted as covered by the exclusion from the “competitive service”.
 
-Subsection (a)(2) preserves the exception stated in former section 638 modified to recognize the several statutory exceptions to this exception that have been enacted. The language of former section 638 relative to examination is codified in sections 3304(b) and 3361. The reference to veterans’ preference is omitted because the statute referred to, R.S. § 1754, was superseded by sections 3 and 21 of the Act of June 18, 1929, ch. 28, 46 Stat. 21. Section 3 of the Act of June 18, 1929, was superseded by the Act of June 27, 1944, ch. 287, 58 Stat. 387, as amended, which is carried into this title. Rights preserved by section 18 of the Act of June 27, 1944, are further preserved by technical section 8. The exception for laborers and workmen was superseded by the Act of Nov. 26, 1940.
+Subsection (a)(2) preserves the exception stated in former section 638 modified to recognize the several statutory exceptions to this exception that have been enacted. The language of former section 638 relative to examination is codified in sections 3304(b) and 3361. The reference to veterans’ preference is omitted because the statute referred to, R.S. § 1754, was superseded by sections 3 and 21 of the Act of June 18, 1929, ch. 28, 46 Stat. 21. Section 3 of the Act of June 18, 1929, was superseded by the Act of June 27, 1944, ch. 287, 58 Stat. 387, as amended, which is carried into this title. Rights preserved by section 18 of the Act of June 27, 1944, are further preserved by technical section 8. The exception for laborers and workmen was superseded by the Act of Nov. 26, 1940.
 
 Subsection (b) is added because of the provisions in section 3311 of title 39.
 
@@ -149,13 +149,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
-## § 2103. The excepted service
+## § 2103. The excepted service
 
 **(a)** For the purpose of this title, the “excepted service” consists of those civil service positions which are not in the competitive service or the Senior Executive Service.
 
 **(b)** As used in other Acts of Congress, “unclassified civil service” or “unclassified service” means the “excepted service”.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 408; Pub. L. 95–454, title IV, § 401(c), Oct. 13, 1978, 92 Stat. 1154.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 408; Pub. L. 95–454, title IV, § 401(c), Oct. 13, 1978, 92 Stat. 1154.)
 
 **Historical and Revision Notes**
 
@@ -173,7 +173,7 @@ The section is supplied for convenience. The “excepted service” has come to 
 
 Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
-## § 2104. Officer
+## § 2104. Officer
 
 **(a)** For the purpose of this title, “officer”, except as otherwise provided by this section or when specifically modified, means a justice or judge of the United States and an individual who is—
 
@@ -193,7 +193,7 @@ Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congre
 
 **(b)** Except as otherwise provided by law, an officer of the United States Postal Service or of the Postal Regulatory Commission is deemed not an officer for purposes of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 408; Pub. L. 91–375, § 6(c)(3), Aug. 12, 1970, 84 Stat. 775; Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 408; Pub. L. 91–375, § 6(c)(3), Aug. 12, 1970, 84 Stat. 775; Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241.)
 
 **Historical and Revision Notes**
 
@@ -205,9 +205,9 @@ The section is supplied for convenience.
 
 2006—Subsec. (b). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-1970—Subsec. (a). Pub. L. 91–375, § 6(c)(3)(A), (B), designated existing provisions as subsec. (a) and inserted in introductory text “as otherwise provided by this section or” after “except”.
+1970—Subsec. (a). Pub. L. 91–375, § 6(c)(3)(A), (B), designated existing provisions as subsec. (a) and inserted in introductory text “as otherwise provided by this section or” after “except”.
 
-Subsec. (b). Pub. L. 91–375, § 6(c)(3)(C), added subsec. (b).
+Subsec. (b). Pub. L. 91–375, § 6(c)(3)(C), added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -215,7 +215,7 @@ Subsec. (b). Pub. L. 91–375, § 6(c)(3)(C), added subsec. (b).
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 2105. Employee
+## § 2105. Employee
 
 **(a)** For the purpose of this title, “employee”, except as otherwise provided by this section or when specifically modified, means an officer and an individual who is—
 
@@ -263,19 +263,19 @@ This subsection does not affect the status of these nonappropriated fund activit
 
 **(f)** For purposes of sections 1212, 1213, 1214, 1215, 1216, 1221, 1222, 2302, and 7701, employees appointed under chapter 73 or 74 of title 38 shall be employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–486, § 4, Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–375, § 6(c)(4), Aug. 12, 1970, 84 Stat. 775; Pub. L. 92–392, § 2, Aug. 19, 1972, 86 Stat. 573; Pub. L. 95–454, title VII, § 703(c)(2), title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1217, 1224; Pub. L. 96–54, § 2(a)(5), (6), Aug. 14, 1979, 93 Stat. 381; Pub. L. 99–335, title II, § 207(a), June 6, 1986, 100 Stat. 594; Pub. L. 99–638, § 2(b)(1), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 101–508, title VII, § 7202(b), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–3, title II, § 201(b), Feb. 5, 1993, 107 Stat. 23; Pub. L. 103–424, § 7, Oct. 29, 1994, 108 Stat. 4364; Pub. L. 104–201, div. A, title III, § 370(b), Sept. 23, 1996, 110 Stat. 2499; Pub. L. 105–85, div. B, title XXVIII, § 2871(c)(2), Nov. 18, 1997, 111 Stat. 2015; Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 113–66, div. A, title VI, § 642, Dec. 26, 2013, 127 Stat. 787.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–486, § 4, Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–375, § 6(c)(4), Aug. 12, 1970, 84 Stat. 775; Pub. L. 92–392, § 2, Aug. 19, 1972, 86 Stat. 573; Pub. L. 95–454, title VII, § 703(c)(2), title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1217, 1224; Pub. L. 96–54, § 2(a)(5), (6), Aug. 14, 1979, 93 Stat. 381; Pub. L. 99–335, title II, § 207(a), June 6, 1986, 100 Stat. 594; Pub. L. 99–638, § 2(b)(1), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 101–508, title VII, § 7202(b), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–3, title II, § 201(b), Feb. 5, 1993, 107 Stat. 23; Pub. L. 103–424, § 7, Oct. 29, 1994, 108 Stat. 4364; Pub. L. 104–201, div. A, title III, § 370(b), Sept. 23, 1996, 110 Stat. 2499; Pub. L. 105–85, div. B, title XXVIII, § 2871(c)(2), Nov. 18, 1997, 111 Stat. 2015; Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 113–66, div. A, title VI, § 642, Dec. 26, 2013, 127 Stat. 787.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (b) | [Uncodified]. | Aug. 5, 1939, ch. 448, § 2, 53 Stat. 1210. |
-|  | [Uncodified]. | Dec. 3, 1945, ch. 510, § 2, 59 Stat. 590. |
-|  | [Uncodified]. | Dec. 28, 1945, ch. 593, § 2, 59 Stat. 660. |
-|  | [Uncodified]. | Dec. 28, 1945, ch. 594, § 2, 59 Stat. 660. |
-|  | [Uncodified]. | July 26, 1946, ch. 675, § 2 (last proviso), 60 Stat. 704. |
-| (c) | 5 U.S.C. 150k. | June 19, 1952, ch. 444, § 1, 66 Stat. 138. |
-| (d) | 5 U.S.C. 30r(d). | Aug. 10, 1956, ch. 1041, § 29(d), 70A Stat. 632. |
+| (b) | [Uncodified]. | Aug. 5, 1939, ch. 448, § 2, 53 Stat. 1210. |
+|  | [Uncodified]. | Dec. 3, 1945, ch. 510, § 2, 59 Stat. 590. |
+|  | [Uncodified]. | Dec. 28, 1945, ch. 593, § 2, 59 Stat. 660. |
+|  | [Uncodified]. | Dec. 28, 1945, ch. 594, § 2, 59 Stat. 660. |
+|  | [Uncodified]. | July 26, 1946, ch. 675, § 2 (last proviso), 60 Stat. 704. |
+| (c) | 5 U.S.C. 150k. | June 19, 1952, ch. 444, § 1, 66 Stat. 138. |
+| (d) | 5 U.S.C. 30r(d). | Aug. 10, 1956, ch. 1041, § 29(d), 70A Stat. 632. |
 
 Subsection (a) is supplied to avoid the necessity of defining “employee” each time it appears in this title. The subsection is based on a definition worked out independently by the Civil Service Commission and the Department of Labor and in use by both for more than a decade.
 
@@ -289,7 +289,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **References in Text**
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 **Amendments**
 
@@ -305,19 +305,19 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act J
 
 1993—Subsec. (c)(1)(E). Pub. L. 103–3 added subpar. (E).
 
-1990—Subsec. (c)(1). Pub. L. 101–508, § 7202(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “laws (other than subchapter IV of chapter 53 of this title, subchapter III of chapter 83 of this title to the extent provided in section 8332(b)(16) of this title, and sections 5550 and 7204 of this title) administered by the Office of Personnel Management; or”.
+1990—Subsec. (c)(1). Pub. L. 101–508, § 7202(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “laws (other than subchapter IV of chapter 53 of this title, subchapter III of chapter 83 of this title to the extent provided in section 8332(b)(16) of this title, and sections 5550 and 7204 of this title) administered by the Office of Personnel Management; or”.
 
-Subsec. (c)(2). Pub. L. 101–508, § 7202(b)(2), inserted “(except to the extent specifically provided therein)” after “chapter 84”.
+Subsec. (c)(2). Pub. L. 101–508, § 7202(b)(2), inserted “(except to the extent specifically provided therein)” after “chapter 84”.
 
 1986—Subsec. (c)(1). Pub. L. 99–638 inserted “of this title, subchapter III of chapter 83 of this title to the extent provided in section 8332(b)(16) of this title,”.
 
 Subsec. (c)(2). Pub. L. 99–335 substituted “chapter 81, chapter 84,” for “chapter 81”.
 
-1979—Subsec. (a)(1)(F). Pub. L. 96–54, § 2(a)(5), substituted “an adjutant” for “the adjutants” and struck out “, United States Code” after “32”.
+1979—Subsec. (a)(1)(F). Pub. L. 96–54, § 2(a)(5), substituted “an adjutant” for “the adjutants” and struck out “, United States Code” after “32”.
 
-Subsec. (c)(1). Pub. L. 96–54, § 2(a)(6), amended subsec. (c)(1) in same manner as amendment by section 703(c)(2) of Pub. L. 95–454. See 1978 Amendment note set out below.
+Subsec. (c)(1). Pub. L. 96–54, § 2(a)(6), amended subsec. (c)(1) in same manner as amendment by section 703(c)(2) of Pub. L. 95–454. See 1978 Amendment note set out below.
 
-1978—Subsec. (c)(1). Pub. L. 95–454 substituted “7204” for “7154”, and “Office of Personnel Management” for “Civil Service Commission”. Amendments by section 703(c)(1) and (c)(2) of Pub. L. 95–454 appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of this section, and subsec. (c)(2) purported to amend section 3302(2) of this title. However, the amendments specified by Pub. L. 95–454, § 703(c)(1) and (2), were impossible to execute literally. Thus, the amendment by Pub. L. 95–454, § 703(c)(2) was executed to this section, and the amendment by section 703(c)(1) was executed to section 3302(2) of this title as the probable intent of Congress.
+1978—Subsec. (c)(1). Pub. L. 95–454 substituted “7204” for “7154”, and “Office of Personnel Management” for “Civil Service Commission”. Amendments by section 703(c)(1) and (c)(2) of Pub. L. 95–454 appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of this section, and subsec. (c)(2) purported to amend section 3302(2) of this title. However, the amendments specified by Pub. L. 95–454, § 703(c)(1) and (2), were impossible to execute literally. Thus, the amendment by Pub. L. 95–454, § 703(c)(2) was executed to this section, and the amendment by section 703(c)(1) was executed to section 3302(2) of this title as the probable intent of Congress.
 
 1972—Subsec. (c)(1). Pub. L. 92–392 substituted “laws (other than subchapter IV of chapter 53 and sections 5550 and 7154 of this title)” for “laws”.
 
@@ -329,7 +329,7 @@ Subsec. (c)(1). Pub. L. 96–54, § 2(a)(6), amended subsec. (c)(1) in same ma
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–201, div. A, title III, § 370(e), Sept. 23, 1996, 110 Stat. 2499, provided that: “The amendments made by this section [amending this section and section 6971 of Title 10, Armed Forces, and repealing section 6970 of Title 10] shall take effect on October 1, 1996.”
+Pub. L. 104–201, div. A, title III, § 370(e), Sept. 23, 1996, 110 Stat. 2499, provided that: “The amendments made by this section [amending this section and section 6971 of Title 10, Armed Forces, and repealing section 6970 of Title 10] shall take effect on October 1, 1996.”
 
 **Effective Date of 1993 Amendment**
 
@@ -337,7 +337,7 @@ Amendment by Pub. L. 103–3 effective 6 months after Feb. 5, 1993, see section 
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title VII, § 7202(m), Nov. 5, 1990, 104 Stat. 1388–339, provided that:
+Pub. L. 101–508, title VII, § 7202(m), Nov. 5, 1990, 104 Stat. 1388–339, provided that:
 
 > **“(1)** The amendments made by this section [amending this section and sections 3502, 5334, 5335, 5365, 5551, 6308, 6312, 8331, 8347, 8401, 8461, and 8901 of this title] shall apply with respect to any individual who, on or after January 1, 1987—
 
@@ -377,7 +377,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Treatment of Individuals Electing To Remain Subject to Their Former Retirement System**
 
-Pub. L. 101–508, title VII, § 7202(n), Nov. 5, 1990, 104 Stat. 1388–340, as amended by Pub. L. 102–378, § 5(a)(2), Oct. 2, 1992, 106 Stat. 1358, provided that:
+Pub. L. 101–508, title VII, § 7202(n), Nov. 5, 1990, 104 Stat. 1388–340, as amended by Pub. L. 102–378, § 5(a)(2), Oct. 2, 1992, 106 Stat. 1358, provided that:
 
 > **“(1)** For the purpose of this section [amending this section and sections 3502, 5334, 5335, 5365, 5551, 6308, 6312, 8331, 8347, 8401, 8461, and 8901 of this title and enacting provisions set out as notes under this section and section 2101 of this title], the term ‘nonappropriated fund instrumentality’ means a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, described in section 2105(c) of title 5, United States Code.
 
@@ -401,11 +401,11 @@ Pub. L. 101–508, title VII, § 7202(n), Nov. 5, 1990, 104 Stat. 1388–340, 
 
 Amendments by Pub. L. 92–392 not to decrease basic pay rate of subsec. (c) employees in service before effective date of the amendments as to such employees, see section 9(a)(2) of Pub. L. 92–392, set out as a note under section 5343 of this title.
 
-## § 2106. Member of Congress
+## § 2106. Member of Congress
 
 For the purpose of this title, “Member of Congress” means the Vice President, a member of the Senate or the House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 91–405, title II, § 204(b), Sept. 22, 1970, 84 Stat. 852; Pub. L. 96–54, § 2(a)(7), Aug. 14, 1979, 93 Stat. 381.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 91–405, title II, § 204(b), Sept. 22, 1970, 84 Stat. 852; Pub. L. 96–54, § 2(a)(7), Aug. 14, 1979, 93 Stat. 381.)
 
 **Historical and Revision Notes**
 
@@ -429,7 +429,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 Amendment by Pub. L. 91–405 effective Sept. 22, 1970, see section 206(b) of Pub. L. 91–405, set out as an Effective Date note under section 25a of Title 2, The Congress.
 
-## § 2107. Congressional employee
+## § 2107. Congressional employee
 
 For the purpose of this title, “Congressional employee” means—
 
@@ -443,7 +443,7 @@ For the purpose of this title, “Congressional employee” means—
 
 **(5)** an employee of a Member of Congress if the pay of the employee is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives;
 
-**[(6)** Repealed. Pub. L. 90–83, § 1(5)(A), Sept. 11, 1967, 81 Stat. 196.]
+**[(6)** Repealed. Pub. L. 90–83, § 1(5)(A), Sept. 11, 1967, 81 Stat. 196.]
 
 **(7)** the Architect of the Capitol and an employee of the Architect of the Capitol;
 
@@ -451,7 +451,7 @@ For the purpose of this title, “Congressional employee” means—
 
 **(9)** an employee of the Office of Congressional Accessibility Services.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–83, § 1(5), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–510, title IV, § 442(a), Oct. 26, 1970, 84 Stat. 1191; Pub. L. 104–186, title II, § 215(1), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 110–437, title IV, § 422(c), Oct. 20, 2008, 122 Stat. 4997; Pub. L. 111–145, § 7(a), Mar. 4, 2010, 124 Stat. 55.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–83, § 1(5), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–510, title IV, § 442(a), Oct. 26, 1970, 84 Stat. 1191; Pub. L. 104–186, title II, § 215(1), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 110–437, title IV, § 422(c), Oct. 20, 2008, 122 Stat. 4997; Pub. L. 111–145, § 7(a), Mar. 4, 2010, 124 Stat. 55.)
 
 **Historical and Revision Notes**
 
@@ -463,8 +463,8 @@ The section is supplied to avoid the necessity of defining “Congressional empl
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2107(6) | 2:126–1. | July 27, 1965, Pub. L. 89–90, § 101 (proviso on p. 265), 79 Stat. 265. |
-| 2107(8) | 5 App.: 2251(c). | Sept. 26, 1966, Pub. L. 89–604, § 1(a), 80 Stat. 846. |
+| 2107(6) | 2:126–1. | July 27, 1965, Pub. L. 89–90, § 101 (proviso on p. 265), 79 Stat. 265. |
+| 2107(8) | 5 App.: 2251(c). | Sept. 26, 1966, Pub. L. 89–604, § 1(a), 80 Stat. 846. |
 
 Paragraph (6), relating to Official Reporters of Debates of the Senate and their employees, is eliminated as unnecessary on authority of the act of July 27, 1965 (2 U.S.C. 126–1). Pursuant to that act, the Official Reporters and their employees became employees of the Senate; accordingly, they are now included within the definition of “Congressional employee” under paragraph (1).
 
@@ -486,7 +486,7 @@ In paragraph (8), based on the act of September 26, 1966 (5 App. U.S.C. 2251(c))
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–145, § 7(d), Mar. 4, 2010, 124 Stat. 56, provided that: “The amendments made by this section [amending this section and sections 5515, 5531, 5533, and 5537 of this title] shall take effect as though enacted as part of section 1018 of the Legislative Branch Appropriations Act, 2003 (2 U.S.C. 1907).”
+Pub. L. 111–145, § 7(d), Mar. 4, 2010, 124 Stat. 56, provided that: “The amendments made by this section [amending this section and sections 5515, 5531, 5533, and 5537 of this title] shall take effect as though enacted as part of section 1018 of the Legislative Branch Appropriations Act, 2003 (2 U.S.C. 1907).”
 
 **Effective Date of 2008 Amendment**
 
@@ -496,7 +496,7 @@ Amendment by Pub. L. 110–437 effective first day of first pay period (applicab
 
 Amendment by Pub. L. 91–510 effective immediately prior to noon on June. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under section 4301 of Title 2, The Congress.
 
-## § 2108. Veteran; disabled veteran; preference eligible
+## § 2108. Veteran; disabled veteran; preference eligible
 
 For the purpose of this title—
 
@@ -550,7 +550,7 @@ but does not include applicants for, or members of, the Senior Executive Service
 
 **(5)** “retired member of the armed forces” means a member or former member of the armed forces who is entitled, under statute, to retired, retirement, or retainer pay on account of service as a member.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 410; Pub. L. 90–83, § 1(6), Sept. 11, 1967, 81 Stat. 196; Pub. L. 90–623, § 1(2), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 92–187, § 1, Dec. 15, 1971, 85 Stat. 644; Pub. L. 94–502, title VII, § 702, Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–454, title III, § 307(a), title IV, § 401(d), Oct. 13, 1978, 92 Stat. 1147, 1154; Pub. L. 96–54, § 2(a)(8), (9)(A), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–191, § 8(a), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–89, title VIII, § 801, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, § 2(a), May 30, 1988, 102 Stat. 581; Pub. L. 102–54, § 13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 105–85, div. A, title XI, § 1102(a), (c), Nov. 18, 1997, 111 Stat. 1922; Pub. L. 105–339, § 4(a), Oct. 31, 1998, 112 Stat. 3185; Pub. L. 109–163, div. A, title V, § 515(f)(1), title XI, §§ 1111, 1112(a), Jan. 6, 2006, 119 Stat. 3236, 3451; Pub. L. 110–317, § 8, Aug. 29, 2008, 122 Stat. 3529; Pub. L. 112–56, title II, § 235(a)(2)(A), Nov. 21, 2011, 125 Stat. 723; Pub. L. 114–62, § 2, Oct. 7, 2015, 129 Stat. 547.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 410; Pub. L. 90–83, § 1(6), Sept. 11, 1967, 81 Stat. 196; Pub. L. 90–623, § 1(2), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 92–187, § 1, Dec. 15, 1971, 85 Stat. 644; Pub. L. 94–502, title VII, § 702, Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–454, title III, § 307(a), title IV, § 401(d), Oct. 13, 1978, 92 Stat. 1147, 1154; Pub. L. 96–54, § 2(a)(8), (9)(A), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–191, § 8(a), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–89, title VIII, § 801, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, § 2(a), May 30, 1988, 102 Stat. 581; Pub. L. 102–54, § 13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 105–85, div. A, title XI, § 1102(a), (c), Nov. 18, 1997, 111 Stat. 1922; Pub. L. 105–339, § 4(a), Oct. 31, 1998, 112 Stat. 3185; Pub. L. 109–163, div. A, title V, § 515(f)(1), title XI, §§ 1111, 1112(a), Jan. 6, 2006, 119 Stat. 3236, 3451; Pub. L. 110–317, § 8, Aug. 29, 2008, 122 Stat. 3529; Pub. L. 112–56, title II, § 235(a)(2)(A), Nov. 21, 2011, 125 Stat. 723; Pub. L. 114–62, § 2, Oct. 7, 2015, 129 Stat. 547.)
 
 **Historical and Revision Notes**
 
@@ -558,14 +558,14 @@ but does not include applicants for, or members of, the Senior Executive Service
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 851 (less 1st 76 words). | June 27, 1944, ch. 287, § 2 (less 1st 76 words), 58 Stat. 387. |
-|  |  | Jan. 19, 1948, ch. 1, § 1, 62 Stat. 3. |
+|  | 5 U.S.C. 851 (less 1st 76 words). | June 27, 1944, ch. 287, § 2 (less 1st 76 words), 58 Stat. 387. |
+|  |  | Jan. 19, 1948, ch. 1, § 1, 62 Stat. 3. |
 |  |  | July 2, 1948, ch. 816, 62 Stat. 1233. |
 |  |  | Aug. 26, 1949, ch. 513, 63 Stat. 666. |
-|  |  | Dec. 27, 1950, ch. 1151, § 1, 64 Stat. 1117. |
-|  |  | July 14, 1952, ch. 728, § 1, 66 Stat. 626. |
+|  |  | Dec. 27, 1950, ch. 1151, § 1, 64 Stat. 1117. |
+|  |  | July 14, 1952, ch. 728, § 1, 66 Stat. 626. |
 
-In paragraph (2), the words “a military department” are substituted for “the War Department or Navy Department” (appearing in section 2 of the Act of June 27, 1944) because of the definition of “military department” in section 102. The Department of War was designated the Department of the Army by the Act of July 26, 1947, ch. 343, § 205, 61 Stat. 501. “Department of the Air Force” is included on authority of the Act of July 26, 1947, ch. 343, § 207 (a), (f), 61 Stat. 502.
+In paragraph (2), the words “a military department” are substituted for “the War Department or Navy Department” (appearing in section 2 of the Act of June 27, 1944) because of the definition of “military department” in section 102. The Department of War was designated the Department of the Army by the Act of July 26, 1947, ch. 343, § 205, 61 Stat. 501. “Department of the Air Force” is included on authority of the Act of July 26, 1947, ch. 343, § 207 (a), (f), 61 Stat. 502.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -573,7 +573,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2108 | 5 App.: 851. | Mar. 3, 1966, Pub. L. 89–358, § 11, 80 Stat. 28. |
+| 2108 | 5 App.: 851. | Mar. 3, 1966, Pub. L. 89–358, § 11, 80 Stat. 28. |
 
 **Editorial Notes**
 
@@ -581,29 +581,29 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 2015—Par. (3)(F), (G). Pub. L. 114–62 added subpars. (F) and (G) and struck out former subpars. (F) and (G) which included in the definition of “preference eligible” certain mothers of individuals who lost their lives under honorable conditions in the armed forces and certain mothers of service-connected permanently and totally disabled veterans.
 
-2011—Par. (1). Pub. L. 112–56, § 235(a)(2)(A)(i), in concluding provisions, inserted “, except as provided under section 2108a,” before “who has been”.
+2011—Par. (1). Pub. L. 112–56, § 235(a)(2)(A)(i), in concluding provisions, inserted “, except as provided under section 2108a,” before “who has been”.
 
-Par. (2). Pub. L. 112–56, § 235(a)(2)(A)(ii), inserted “(except as provided under section 2108a)” before “has been separated”.
+Par. (2). Pub. L. 112–56, § 235(a)(2)(A)(ii), inserted “(except as provided under section 2108a)” before “has been separated”.
 
-Par. (3). Pub. L. 112–56, § 235(a)(2)(A)(iii), in introductory provisions, inserted “or section 2108a(c)” after “paragraph (4) of this section”.
+Par. (3). Pub. L. 112–56, § 235(a)(2)(A)(iii), in introductory provisions, inserted “or section 2108a(c)” after “paragraph (4) of this section”.
 
 2008—Par. (3)(H). Pub. L. 110–317 added subpar. (H).
 
-2006—Par. (1). Pub. L. 109–163, § 1112(a), in concluding provisions, substituted “discharged or released from active duty in” for “separated from”.
+2006—Par. (1). Pub. L. 109–163, § 1112(a), in concluding provisions, substituted “discharged or released from active duty in” for “separated from”.
 
-Par. (1)(B). Pub. L. 109–163, § 515(f)(1), substituted “Navy Reserve” for “Naval Reserve”.
+Par. (1)(B). Pub. L. 109–163, § 515(f)(1), substituted “Navy Reserve” for “Naval Reserve”.
 
-Par. (1)(D). Pub. L. 109–163, § 1111(a), added subpar. (D).
+Par. (1)(D). Pub. L. 109–163, § 1111(a), added subpar. (D).
 
-Par. (3)(B). Pub. L. 109–163, § 1111(b), substituted “paragraph (1)(B), (C), or (D)” for “paragraph (1)(B) or (C)”.
+Par. (3)(B). Pub. L. 109–163, § 1111(b), substituted “paragraph (1)(B), (C), or (D)” for “paragraph (1)(B) or (C)”.
 
 1998—Par. (3). Pub. L. 105–339, in concluding provisions, substituted “or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service;” for “the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or the General Accounting Office;”.
 
-1997—Par. (1)(B). Pub. L. 105–85, § 1102(c), substituted “October 15, 1976,” for “the date of enactment of the Veterans’ Education and Employment Assistance Act of 1976,” and “12103(d) of title 10” for “511(d) of title 10”.
+1997—Par. (1)(B). Pub. L. 105–85, § 1102(c), substituted “October 15, 1976,” for “the date of enactment of the Veterans’ Education and Employment Assistance Act of 1976,” and “12103(d) of title 10” for “511(d) of title 10”.
 
-Par. (1)(C). Pub. L. 105–85, § 1102(a)(1), added subpar. (C).
+Par. (1)(C). Pub. L. 105–85, § 1102(a)(1), added subpar. (C).
 
-Par. (3)(B). Pub. L. 105–85, § 1102(a)(2), inserted “or (C)” after “paragraph (1)(B)”.
+Par. (3)(B). Pub. L. 105–85, § 1102(a)(2), inserted “or (C)” after “paragraph (1)(B)”.
 
 1991—Par. (2). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -613,17 +613,17 @@ Par. (3)(B). Pub. L. 105–85, § 1102(a)(2), inserted “or (C)” after “p
 
 1980—Par. (3). Pub. L. 96–191 inserted reference to General Accounting Office in concluding provisions.
 
-1979—Par. (3). Pub. L. 96–54, § 2(a)(8), inserted provision excepting applicants for, or members of, Senior Executive Service.
+1979—Par. (3). Pub. L. 96–54, § 2(a)(8), inserted provision excepting applicants for, or members of, Senior Executive Service.
 
-Par. (5). Pub. L. 96–54, § 2(a)(9)(A), struck out provision excepting applicants for, or members of, Senior Executive Service.
+Par. (5). Pub. L. 96–54, § 2(a)(9)(A), struck out provision excepting applicants for, or members of, Senior Executive Service.
 
-1978—Par. (2). Pub. L. 95–454, § 307(a)(1), struck out “and” at end.
+1978—Par. (2). Pub. L. 95–454, § 307(a)(1), struck out “and” at end.
 
-Par. (3). Pub. L. 95–454, § 307(a)(2), (3), inserted “, except as provided in paragraph (4) of this section” after “means”, and substituted a semicolon for the period at end.
+Par. (3). Pub. L. 95–454, § 307(a)(2), (3), inserted “, except as provided in paragraph (4) of this section” after “means”, and substituted a semicolon for the period at end.
 
-Pars. (4), (5). Pub. L. 95–454, § 307(a)(4), added pars. (4) and (5) relating to retired members of the armed forces.
+Pars. (4), (5). Pub. L. 95–454, § 307(a)(4), added pars. (4) and (5) relating to retired members of the armed forces.
 
-Par. (5). Pub. L. 95–454, § 401(d), inserted “; but does not include applicants for, or members of, the Senior Executive Service” before the period at end.
+Par. (5). Pub. L. 95–454, § 401(d), inserted “; but does not include applicants for, or members of, the Senior Executive Service” before the period at end.
 
 1976—Par. (1)(B). Pub. L. 94–502 substituted “any part of which occurred after January 31, 1955, and before the date of enactment of the Veterans’ Education and Employment Assistance Act of 1976,” for “after January 31, 1955,”.
 
@@ -637,11 +637,11 @@ Par. (3)(E). Pub. L. 92–187 inserted “or husband” after “the wife”.
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–62, § 3, Oct. 7, 2015, 129 Stat. 548, provided that: “The amendment made by this Act [amending this section] shall take effect 90 days after the date of enactment of this Act [Oct. 7, 2015].”
+Pub. L. 114–62, § 3, Oct. 7, 2015, 129 Stat. 548, provided that: “The amendment made by this Act [amending this section] shall take effect 90 days after the date of enactment of this Act [Oct. 7, 2015].”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–317, § 10, Aug. 29, 2008, 122 Stat. 3530, provided that:
+Pub. L. 110–317, § 10, Aug. 29, 2008, 122 Stat. 3530, provided that:
 
 > **“(a) Retroactive Effective Date.—** Except as provided in subsection (b) and section 9 [amending section 685 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 685 of Title 26], this Act [amending this section, section 8521 of this title, sections 1145, 1146, and 1174 of Title 10, Armed Forces, section 685 of Title 26, section 303a of Title 37, Pay and Allowances of the Uniformed Services, and sections 3011, 3012, 3702, and 4211 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under section 101 of Title 10 and section 685 of Title 26] and the amendments made by this Act shall apply with respect to any sole survivorship discharge granted after September 11, 2001.
 
@@ -669,11 +669,11 @@ Amendment by Pub. L. 96–191 effective Oct. 1, 1980, see section 10(a) of Pub. 
 
 Amendment by section 2(a)(8) of Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
 
-Pub. L. 96–54, § 2(a)(9)(B), Aug. 14, 1979, 93 Stat. 381, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect October 1, 1980”.
+Pub. L. 96–54, § 2(a)(9)(B), Aug. 14, 1979, 93 Stat. 381, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect October 1, 1980”.
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–454, title III, § 307(a), Oct. 13, 1978, 92 Stat. 1147, provided that the amendment made by that section is effective Oct. 1, 1980.
+Pub. L. 95–454, title III, § 307(a), Oct. 13, 1978, 92 Stat. 1147, provided that the amendment made by that section is effective Oct. 1, 1980.
 
 Amendment by section 401(d) of Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
@@ -683,19 +683,19 @@ Amendment by Pub. L. 90–623 effective Sept. 11, 1967, for all purposes, see se
 
 **Savings Provision**
 
-Pub. L. 109–163, div. A, title XI, § 1112(b), Jan. 6, 2006, 119 Stat. 3451, provided that: “Nothing in the amendment made by subsection (a) [amending this section] may be construed to affect a determination made before the date of enactment of this Act [Jan. 6, 2006] that an individual is a preference eligible (as defined in section 2108(3) of title 5, United States Code).”
+Pub. L. 109–163, div. A, title XI, § 1112(b), Jan. 6, 2006, 119 Stat. 3451, provided that: “Nothing in the amendment made by subsection (a) [amending this section] may be construed to affect a determination made before the date of enactment of this Act [Jan. 6, 2006] that an individual is a preference eligible (as defined in section 2108(3) of title 5, United States Code).”
 
 **Transfer of Functions**
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 2108a. Treatment of certain individuals as veterans, disabled veterans, and preference eligibles
+## § 2108a. Treatment of certain individuals as veterans, disabled veterans, and preference eligibles
 
 **(a) Veteran.—**
 
 **(1) In general.—** Except as provided under paragraph (3),1
 
-<sup>1</sup>  So in original. Subsec. does not contain a par. (3).
+<sup>1</sup> So in original. Subsec. does not contain a par. (3).
 
 an individual shall be treated as a veteran defined under section 2108(1) for purposes of making an appointment in the competitive service, if the individual—
 
@@ -717,9 +717,9 @@ an individual shall be treated as a veteran defined under section 2108(1) for pu
 
 **(c) Preference Eligible.—** Subsections (a) and (b) shall apply with respect to determining whether an individual is a preference eligible under section 2108(3) for purposes of making an appointment in the competitive service.
 
-(Added Pub. L. 112–56, title II, § 235(a)(1), Nov. 21, 2011, 125 Stat. 722.)
+(Added Pub. L. 112–56, title II, § 235(a)(1), Nov. 21, 2011, 125 Stat. 722.)
 
-## § 2109. Air traffic controller; Secretary
+## § 2109. Air traffic controller; Secretary
 
 For the purpose of this title—
 
@@ -735,7 +735,7 @@ For the purpose of this title—
 
 **(2)** “Secretary”, when used in connection with “air traffic controller” or “controller”, means the Secretary of Transportation with respect to controllers in the Department of Transportation, and the Secretary of Defense with respect to controllers in the Department of Defense.
 
-(Added Pub. L. 92–297, § 1(a), May 16, 1972, 86 Stat. 141; amended Pub. L. 96–347, § 1(a), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 99–335, title II, § 207(b), June 6, 1986, 100 Stat. 594.)
+(Added Pub. L. 92–297, § 1(a), May 16, 1972, 86 Stat. 141; amended Pub. L. 96–347, § 1(a), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 99–335, title II, § 207(b), June 6, 1986, 100 Stat. 594.)
 
 **Editorial Notes**
 
@@ -753,7 +753,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–347, § 3, Sept. 12, 1980, 94 Stat. 1151, provided that:
+Pub. L. 96–347, § 3, Sept. 12, 1980, 94 Stat. 1151, provided that:
 
 > “This Act [amending this section and sections 3307, 3381 to 3385, and 8335 of this title and enacting provisions set out as a note under section 8335 of this title] shall take effect on the later of—
 

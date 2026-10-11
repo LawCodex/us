@@ -19,29 +19,29 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. A, title III, § 332, Dec. 22, 2023, 137 Stat. 222, added item 2716. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title III, § 332, Dec. 22, 2023, 137 Stat. 222, added item 2716. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title III, § 341(b), Dec. 27, 2021, 135 Stat. 1642, added items 2714 and 2715.
+2021—Pub. L. 117–81, div. A, title III, § 341(b), Dec. 27, 2021, 135 Stat. 1642, added items 2714 and 2715.
 
-Pub. L. 116–283, div. A, title III, §§ 318(b), 319(b), Jan. 1, 2021, 134 Stat. 3519, 3521, added items 2712 and 2713.
+Pub. L. 116–283, div. A, title III, §§ 318(b), 319(b), Jan. 1, 2021, 134 Stat. 3519, 3521, added items 2712 and 2713.
 
-2011—Pub. L. 112–81, div. A, title III, § 317(b), title X, § 1061(22)(B), Dec. 31, 2011, 125 Stat. 1360, 1584, struck out item 2706 “Annual reports to Congress” and added item 2711.
+2011—Pub. L. 112–81, div. A, title III, § 317(b), title X, § 1061(22)(B), Dec. 31, 2011, 125 Stat. 1360, 1584, struck out item 2706 “Annual reports to Congress” and added item 2711.
 
-2002—Pub. L. 107–314, div. A, title III, § 313(d)(1), Dec. 2, 2002, 116 Stat. 2508, added items 2700 and 2707 and struck out former item 2707 “Definitions”.
+2002—Pub. L. 107–314, div. A, title III, § 313(d)(1), Dec. 2, 2002, 116 Stat. 2508, added items 2700 and 2707 and struck out former item 2707 “Definitions”.
 
-2001—Pub. L. 107–107, div. A, title III, § 311(a)(2), Dec. 28, 2001, 115 Stat. 1051, added item 2710.
+2001—Pub. L. 107–107, div. A, title III, § 311(a)(2), Dec. 28, 2001, 115 Stat. 1051, added item 2710.
 
-1999—Pub. L. 106–65, div. A, title III, § 323(b)(2), Oct. 5, 1999, 113 Stat. 563, added item 2709.
+1999—Pub. L. 106–65, div. A, title III, § 323(b)(2), Oct. 5, 1999, 113 Stat. 563, added item 2709.
 
-1996—Pub. L. 104–201, div. A, title III, § 322(a)(2), Sept. 23, 1996, 110 Stat. 2478, substituted “accounts” for “transfer account” in item 2703.
+1996—Pub. L. 104–201, div. A, title III, § 322(a)(2), Sept. 23, 1996, 110 Stat. 2478, substituted “accounts” for “transfer account” in item 2703.
 
-1991—Pub. L. 102–190, div. A, title III, § 331(a)(2), Dec. 5, 1991, 105 Stat. 1340, added item 2708.
+1991—Pub. L. 102–190, div. A, title III, § 331(a)(2), Dec. 5, 1991, 105 Stat. 1340, added item 2708.
 
-Pub. L. 102–25, title VII, § 701(e)(6), Apr. 6, 1991, 105 Stat. 114, substituted “Annual reports to Congress” for “Annual report to Congress” in item 2706.
+Pub. L. 102–25, title VII, § 701(e)(6), Apr. 6, 1991, 105 Stat. 114, substituted “Annual reports to Congress” for “Annual report to Congress” in item 2706.
 
-1989—Pub. L. 101–189, div. A, title III, § 357(a)(2)(B), Nov. 29, 1989, 103 Stat. 1427, which directed amendment of the item relating to section 2706 in the table of sections at the beginning of chapter 106 to read “Annual reports to Congress”, could not be executed because item 2706 is in this chapter and not in chapter 106.
+1989—Pub. L. 101–189, div. A, title III, § 357(a)(2)(B), Nov. 29, 1989, 103 Stat. 1427, which directed amendment of the item relating to section 2706 in the table of sections at the beginning of chapter 106 to read “Annual reports to Congress”, could not be executed because item 2706 is in this chapter and not in chapter 106.
 
-## § 2700. Definitions
+## § 2700. Definitions
 
 In this chapter:
 
@@ -57,39 +57,39 @@ In this chapter:
 
 **(B)** whether the facility is under the jurisdiction of the Department of Defense or a military department.
 
-(Added Pub. L. 99–499, title II, § 211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1725, § 2707; renumbered § 2700 and amended Pub. L. 107–314, div. A, title III, § 313(a)(1), (c)(1), Dec. 2, 2002, 116 Stat. 2507; Pub. L. 111–383, div. A, title X, § 1075(b)(46)(A), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 116–92, div. A, title III, § 316(b), Dec. 20, 2019, 133 Stat. 1304; Pub. L. 116–283, div. A, title III, § 314(b), Jan. 1, 2021, 134 Stat. 3514; Pub. L. 117–263, div. A, title III, § 313(a), Dec. 23, 2022, 136 Stat. 2502; Pub. L. 118–31, div. A, title III, § 312(a), title XVIII, § 1801(a)(22), Dec. 22, 2023, 137 Stat. 215, 684.)
+(Added Pub. L. 99–499, title II, § 211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1725, § 2707; renumbered § 2700 and amended Pub. L. 107–314, div. A, title III, § 313(a)(1), (c)(1), Dec. 2, 2002, 116 Stat. 2507; Pub. L. 111–383, div. A, title X, § 1075(b)(46)(A), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 116–92, div. A, title III, § 316(b), Dec. 20, 2019, 133 Stat. 1304; Pub. L. 116–283, div. A, title III, § 314(b), Jan. 1, 2021, 134 Stat. 3514; Pub. L. 117–263, div. A, title III, § 313(a), Dec. 23, 2022, 136 Stat. 2502; Pub. L. 118–31, div. A, title III, § 312(a), title XVIII, § 1801(a)(22), Dec. 22, 2023, 137 Stat. 215, 684.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in par. (1), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in par. (1), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 **Amendments**
 
-2023—Par. (2). Pub. L. 118–31, § 1801(a)(22), substituted “The terms” for “The term”.
+2023—Par. (2). Pub. L. 118–31, § 1801(a)(22), substituted “The terms” for “The term”.
 
-Par. (4). Pub. L. 118–31, § 312(a), struck out “State-owned” before “National Guard facility” and “owned and operated by a State when such land is” before “used for training” and substituted “without regard to—” and subpars. (A) and (B) for “even though such land is not under the jurisdiction of the Department of Defense.”
+Par. (4). Pub. L. 118–31, § 312(a), struck out “State-owned” before “National Guard facility” and “owned and operated by a State when such land is” before “used for training” and substituted “without regard to—” and subpars. (A) and (B) for “even though such land is not under the jurisdiction of the Department of Defense.”
 
 2022—Par. (4). Pub. L. 117–263 added par. (4).
 
-2021—Par. (2). Pub. L. 116–283, § 314(b), which directed amendment of par. (1) by substituting “The term” for “(A) The terms” and striking subpar. (B), was executed by making the amendment in par. (2) to reflect the probable intent of Congress. Prior to amendment, subpar. (B) of par. (2) read as follows: “The term ‘facility’ includes real property that is owned by, leased to, or otherwise possessed by the United States at locations at which military activities are conducted under this title or title 32 (including real property owned or leased by the Federal Government that is licensed to and operated by a State for training for the National Guard).”
+2021—Par. (2). Pub. L. 116–283, § 314(b), which directed amendment of par. (1) by substituting “The term” for “(A) The terms” and striking subpar. (B), was executed by making the amendment in par. (2) to reflect the probable intent of Congress. Prior to amendment, subpar. (B) of par. (2) read as follows: “The term ‘facility’ includes real property that is owned by, leased to, or otherwise possessed by the United States at locations at which military activities are conducted under this title or title 32 (including real property owned or leased by the Federal Government that is licensed to and operated by a State for training for the National Guard).”
 
 2019—Par. (2). Pub. L. 116–92 designated existing provisions as subpar. (A) and added subpar. (B).
 
-2011—Par. (2). Pub. L. 111–383 inserted “ ‘pollutant or contaminant’,” after “ ‘person’,”.
+2011—Par. (2). Pub. L. 111–383 inserted “ ‘pollutant or contaminant’,” after “ ‘person’,”.
 
-2002—Pub. L. 107–314, § 313(c)(1), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+2002—Pub. L. 107–314, § 313(c)(1), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-Pub. L. 107–314, § 313(a)(1), renumbered section 2707 of this title as this section.
+Pub. L. 107–314, § 313(a)(1), renumbered section 2707 of this title as this section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Clause**
 
-Pub. L. 116–92, div. A, title III, § 316(d), Dec. 20, 2019, 133 Stat. 1304, provided that: “Nothing in this section [amending this section and sections 2701 and 2707 of this title], or the amendments made by this section, shall affect any requirement or authority under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).”
+Pub. L. 116–92, div. A, title III, § 316(d), Dec. 20, 2019, 133 Stat. 1304, provided that: “Nothing in this section [amending this section and sections 2701 and 2707 of this title], or the amendments made by this section, shall affect any requirement or authority under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).”
 
-## § 2701. Environmental restoration program
+## § 2701. Environmental restoration program
 
 **(a) Environmental Restoration Program.—**
 
@@ -169,9 +169,9 @@ Pub. L. 116–92, div. A, title III, § 316(d), Dec. 20, 2019, 133 Stat. 1304,
 
 **(k) UXO Program Manager.—**
 
-**(1)** The Secretary of Defense shall designate a program manager who shall serve as the single point of contact in the Department of Defense for policy and budgeting issues involving the characterization, research, remediation, and management of explosive and related risks with respect to unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (as such terms are defined in section 2710 1
+**(1)** The Secretary of Defense shall designate a program manager who shall serve as the single point of contact in the Department of Defense for policy and budgeting issues involving the characterization, research, remediation, and management of explosive and related risks with respect to unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (as such terms are defined in section 2710 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) that pose a threat to human health or safety.
 
@@ -183,9 +183,9 @@ of this title) that pose a threat to human health or safety.
 
 **(3)** The program manager shall report to the Assistant Secretary of Defense for Energy, Installations, and Environment.
 
-**(4)** The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 <sup>1</sup> of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
+**(4)** The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 <sup>1</sup> of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
 
-(Added Pub. L. 99–499, title II, § 211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, § 1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, § 336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, § 331(b), title X, § 1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, § 201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§ 322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, § 321(a)(1), title XV, § 1504(a)(1), div. D, title XLIII, § 4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, § 329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, § 314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, § 3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§ 311, 312, 313(c)(2), div. B, title XXVIII, § 2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, § 1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, § 312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, § 2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§ 311, 312, Oct. 17, 2006, 120 Stat. 2137; Pub. L. 111–84, div. A, title X, § 1073(a)(28), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, § 1075(b)(46)(B), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(A), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 113–291, div. A, title IX, § 901(n)(2), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 116–92, div. A, title III, § 316(c), Dec. 20, 2019, 133 Stat. 1304; Pub. L. 117–263, div. A, title III, § 313(b), (c), Dec. 23, 2022, 136 Stat. 2503; Pub. L. 118–31, div. A, title III, § 312(b)–(d), Dec. 22, 2023, 137 Stat. 215.)
+(Added Pub. L. 99–499, title II, § 211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, § 1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, § 336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, § 331(b), title X, § 1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, § 201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§ 322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, § 321(a)(1), title XV, § 1504(a)(1), div. D, title XLIII, § 4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, § 329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, § 314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, § 3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§ 311, 312, 313(c)(2), div. B, title XXVIII, § 2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, § 1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, § 312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, § 2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§ 311, 312, Oct. 17, 2006, 120 Stat. 2137; Pub. L. 111–84, div. A, title X, § 1073(a)(28), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, § 1075(b)(46)(B), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(A), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 113–291, div. A, title IX, § 901(n)(2), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 116–92, div. A, title III, § 316(c), Dec. 20, 2019, 133 Stat. 1304; Pub. L. 117–263, div. A, title III, § 313(b), (c), Dec. 23, 2022, 136 Stat. 2503; Pub. L. 118–31, div. A, title III, § 312(b)–(d), Dec. 22, 2023, 137 Stat. 215.)
 
 **Editorial Notes**
 
@@ -195,21 +195,21 @@ Section 2710 of this title, referred to in subsec. (k), was subsequently amended
 
 **Prior Provisions**
 
-Provisions similar to those in subsecs. (f) and (g) of this section were contained in Pub. L. 101–165, title IX, § 9038, Nov. 21, 1989, 103 Stat. 1137, which was set out below, prior to repeal by Pub. L. 101–510, § 1481(i)(2).
+Provisions similar to those in subsecs. (f) and (g) of this section were contained in Pub. L. 101–165, title IX, § 9038, Nov. 21, 1989, 103 Stat. 1137, which was set out below, prior to repeal by Pub. L. 101–510, § 1481(i)(2).
 
 A prior section 2701 was renumbered section 2721 of this title.
 
 **Amendments**
 
-2023—Subsec. (a)(1). Pub. L. 118–31, § 312(b), struck out “State-owned” before “National Guard”.
+2023—Subsec. (a)(1). Pub. L. 118–31, § 312(b), struck out “State-owned” before “National Guard”.
 
-Subsec. (c)(1)(D). Pub. L. 118–31, § 312(c), struck out “State-owned” before “National Guard”.
+Subsec. (c)(1)(D). Pub. L. 118–31, § 312(c), struck out “State-owned” before “National Guard”.
 
-Subsec. (d)(1). Pub. L. 118–31, § 312(d), inserted “or at a National Guard facility” after “the Secretary’s jurisdiction”.
+Subsec. (d)(1). Pub. L. 118–31, § 312(d), inserted “or at a National Guard facility” after “the Secretary’s jurisdiction”.
 
-2022—Subsec. (a)(1). Pub. L. 117–263, § 313(b), inserted “and at State-owned National Guard facilities” after “jurisdiction of the Secretary”.
+2022—Subsec. (a)(1). Pub. L. 117–263, § 313(b), inserted “and at State-owned National Guard facilities” after “jurisdiction of the Secretary”.
 
-Subsec. (c)(1)(D). Pub. L. 117–263, § 313(c), added subpar. (D).
+Subsec. (c)(1)(D). Pub. L. 117–263, § 313(c), added subpar. (D).
 
 2019—Subsec. (c). Pub. L. 116–92 inserted “or pollutants or contaminants” after “hazardous substances” wherever appearing.
 
@@ -219,73 +219,73 @@ Subsec. (c)(1)(D). Pub. L. 117–263, § 313(c), added subpar. (D).
 
 2009—Subsec. (d)(5). Pub. L. 111–84 substituted “9620)” for “6920)”.
 
-2006—Subsec. (d)(1). Pub. L. 109–163, § 312(a)(1), inserted “any owner of covenant property,” after “any Indian tribe,” and “owner,” after “, Indian tribe,”.
+2006—Subsec. (d)(1). Pub. L. 109–163, § 312(a)(1), inserted “any owner of covenant property,” after “any Indian tribe,” and “owner,” after “, Indian tribe,”.
 
-Subsec. (d)(2). Pub. L. 109–364, § 312, inserted at end “This two-year limitation does not apply to an agreement funded using amounts in the Department of Defense Base Closure Account 1990 or the Department of Defense Base Closure Account 2005 established under sections 2906 and 2906A of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).”
+Subsec. (d)(2). Pub. L. 109–364, § 312, inserted at end “This two-year limitation does not apply to an agreement funded using amounts in the Department of Defense Base Closure Account 1990 or the Department of Defense Base Closure Account 2005 established under sections 2906 and 2906A of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).”
 
-Subsec. (d)(3). Pub. L. 109–163, § 312(a)(2), inserted “An agreement under such paragraph with respect to a site also may not change the cleanup standards selected for the site pursuant to law.” at end.
+Subsec. (d)(3). Pub. L. 109–163, § 312(a)(2), inserted “An agreement under such paragraph with respect to a site also may not change the cleanup standards selected for the site pursuant to law.” at end.
 
-Subsec. (d)(4)(C). Pub. L. 109–163, § 312(a)(3), added subpar. (C).
+Subsec. (d)(4)(C). Pub. L. 109–163, § 312(a)(3), added subpar. (C).
 
-Subsec. (d)(5). Pub. L. 109–163, § 312(a)(4), added par. (5).
+Subsec. (d)(5). Pub. L. 109–163, § 312(a)(4), added par. (5).
 
 Subsec. (i)(1). Pub. L. 109–284 substituted “sections 3131 and 3133 of title 40” for “miller act” in heading.
 
-Subsec. (k)(1). Pub. L. 109–364, § 311(1), substituted “designate” for “establish” and inserted “research,” after “characterization,”.
+Subsec. (k)(1). Pub. L. 109–364, § 311(1), substituted “designate” for “establish” and inserted “research,” after “characterization,”.
 
-Subsec. (k)(2) to (4). Pub. L. 109–364, § 311(2), (3), added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: “The authority to establish the program manager may be delegated to the Secretary of a military department, who may delegate the authority to the Under Secretary of that military department. The authority may not be further delegated.”.
+Subsec. (k)(2) to (4). Pub. L. 109–364, § 311(2), (3), added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: “The authority to establish the program manager may be delegated to the Secretary of a military department, who may delegate the authority to the Under Secretary of that military department. The authority may not be further delegated.”.
 
-2004—Subsec. (a)(2). Pub. L. 108–375, § 1084(d)(24)(A), inserted “(42 U.S.C. 9620)” before period at end.
+2004—Subsec. (a)(2). Pub. L. 108–375, § 1084(d)(24)(A), inserted “(42 U.S.C. 9620)” before period at end.
 
-Subsec. (c)(2). Pub. L. 108–375, § 1084(d)(24)(B), substituted “(relating to settlements) of CERCLA (42 U.S.C. 9622)” for “of CERCLA (relating to settlements)”.
+Subsec. (c)(2). Pub. L. 108–375, § 1084(d)(24)(B), substituted “(relating to settlements) of CERCLA (42 U.S.C. 9622)” for “of CERCLA (relating to settlements)”.
 
-Subsec. (e). Pub. L. 108–375, § 1084(d)(24)(C), inserted “(42 U.S.C. 9619)” after “CERCLA”.
+Subsec. (e). Pub. L. 108–375, § 1084(d)(24)(C), inserted “(42 U.S.C. 9619)” after “CERCLA”.
 
-Subsec. (j)(2). Pub. L. 108–375, § 1084(d)(24)(D), substituted “CERCLA” for “the Comprehensive Environmental Response, Compensation, and Liability Act of 1980”.
+Subsec. (j)(2). Pub. L. 108–375, § 1084(d)(24)(D), substituted “CERCLA” for “the Comprehensive Environmental Response, Compensation, and Liability Act of 1980”.
 
-2002—Subsec. (a)(2). Pub. L. 107–314, § 313(c)(2), substituted “CERCLA” for “the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (hereinafter in this chapter referred to as ‘CERCLA’) (42 U.S.C. 9601 et seq.)”.
+2002—Subsec. (a)(2). Pub. L. 107–314, § 313(c)(2), substituted “CERCLA” for “the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (hereinafter in this chapter referred to as ‘CERCLA’) (42 U.S.C. 9601 et seq.)”.
 
-Subsec. (d). Pub. L. 107–314, § 2812(c)(1), substituted “Entities” for “Agencies” in heading.
+Subsec. (d). Pub. L. 107–314, § 2812(c)(1), substituted “Entities” for “Agencies” in heading.
 
-Subsec. (d)(1). Pub. L. 107–314, §§ 311(1), 2812(c)(2), substituted “paragraph (3)” for “paragraph (2)”, “any State or local government agency, any Indian tribe, or any nonprofit conservation organization” for “with any State or local government agency, or with any Indian tribe,”, and “the agency, Indian tribe, or organization” for “the agency”.
+Subsec. (d)(1). Pub. L. 107–314, §§ 311(1), 2812(c)(2), substituted “paragraph (3)” for “paragraph (2)”, “any State or local government agency, any Indian tribe, or any nonprofit conservation organization” for “with any State or local government agency, or with any Indian tribe,”, and “the agency, Indian tribe, or organization” for “the agency”.
 
-Subsec. (d)(2), (3). Pub. L. 107–314, § 311(2), (3), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
+Subsec. (d)(2), (3). Pub. L. 107–314, § 311(2), (3), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (d)(4). Pub. L. 107–314, § 2812(c)(3), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “In this subsection, the term ‘Indian tribe’ has the meaning given such term in section 101(36) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(36)).”
+Subsec. (d)(4). Pub. L. 107–314, § 2812(c)(3), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “In this subsection, the term ‘Indian tribe’ has the meaning given such term in section 101(36) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(36)).”
 
-Pub. L. 107–314, § 311(2), redesignated par. (3) as (4).
+Pub. L. 107–314, § 311(2), redesignated par. (3) as (4).
 
 Subsec. (i)(1). Pub. L. 107–217 substituted “sections 3131 and 3133 of title 40” for “the Miller Act (40 U.S.C. 270a et seq.)”, “section 3134 of title 40” for “the Act of April 29, 1941 (40 U.S.C. 270e–270f)”, and “sections 3131 and 3133” for “the Miller Act”.
 
-Subsec. (k). Pub. L. 107–314, § 312, added subsec. (k).
+Subsec. (k). Pub. L. 107–314, § 312, added subsec. (k).
 
-2001—Subsec. (j)(1). Pub. L. 107–107 struck out “, or after December 31, 1999” before period at end.
+2001—Subsec. (j)(1). Pub. L. 107–107 struck out “, or after December 31, 1999” before period at end.
 
-1996—Subsec. (d). Pub. L. 104–201 substituted “, with any State or local government agency, or with any Indian tribe,” for “, or with any State or local government agency,” in par. (1) and added par. (3).
+1996—Subsec. (d). Pub. L. 104–201 substituted “, with any State or local government agency, or with any Indian tribe,” for “, or with any State or local government agency,” in par. (1) and added par. (3).
 
-Pub. L. 104–106, § 1504(a)(1), made technical correction to directory language of Pub. L. 103–337, § 322(1). See 1994 Amendment note below.
+Pub. L. 104–106, § 1504(a)(1), made technical correction to directory language of Pub. L. 103–337, § 322(1). See 1994 Amendment note below.
 
-Pub. L. 104–106, § 321(a)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Services of Other Agencies.—
+Pub. L. 104–106, § 321(a)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Services of Other Agencies.—
 
 “(1) In general.—The Secretary may enter into agreements on a reimbursable basis with any other Federal agency, and on a reimbursable or other basis with any State or local government agency or any Indian tribe, to obtain the services of that agency to assist the Secretary in carrying out any of the Secretary’s responsibilities under this section. Services which may be obtained under this subsection include the identification, investigation, and cleanup of any off-site contamination possibly resulting from the release of a hazardous substance or waste at a facility under the Secretary’s jurisdiction.
 
 “(2) Definition.—In this subsection, the term ‘Indian tribe’ has the meaning given such term in section 101(36) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(36)).”
 
-Subsec. (i)(1). Pub. L. 104–106, § 4321(b)(22), substituted “Miller Act (40 U.S.C. 270a et seq.)” for “Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the ‘Miller Act’,” and “the Miller Act” for “such Act of August 24, 1935”.
+Subsec. (i)(1). Pub. L. 104–106, § 4321(b)(22), substituted “Miller Act (40 U.S.C. 270a et seq.)” for “Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the ‘Miller Act’,” and “the Miller Act” for “such Act of August 24, 1935”.
 
-1994—Subsec. (d). Pub. L. 103–337, § 322(1), as amended by Pub. L. 104–106, § 1504(a)(1), designated existing provisions as par. (1) and inserted par. (1) heading.
+1994—Subsec. (d). Pub. L. 103–337, § 322(1), as amended by Pub. L. 104–106, § 1504(a)(1), designated existing provisions as par. (1) and inserted par. (1) heading.
 
-Subsec. (d)(1). Pub. L. 103–337, § 322(2), inserted “or any Indian tribe” after “any State or local government agency”.
+Subsec. (d)(1). Pub. L. 103–337, § 322(2), inserted “or any Indian tribe” after “any State or local government agency”.
 
-Subsec. (d)(2). Pub. L. 103–337, § 322(3), added par. (2).
+Subsec. (d)(2). Pub. L. 103–337, § 322(3), added par. (2).
 
-Subsec. (j)(1). Pub. L. 103–337, § 323, substituted “December 31, 1999” for “December 31, 1995”.
+Subsec. (j)(1). Pub. L. 103–337, § 323, substituted “December 31, 1999” for “December 31, 1995”.
 
 1993—Subsec. (j)(2). Pub. L. 103–35 substituted “(42 U.S.C. 9619(g)) applies” for “applies (42 U.S.C. 9619(g))”.
 
-1992—Subsec. (j). Pub. L. 102–484, § 1052(35), substituted “December 5, 1991,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1992 and 1993” in par. (1).
+1992—Subsec. (j). Pub. L. 102–484, § 1052(35), substituted “December 5, 1991,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1992 and 1993” in par. (1).
 
-Pub. L. 102–484, § 331(b), substituted “December 31, 1995” for “December 31, 1992”, designated existing provisions as par. (1), and added par. (2).
+Pub. L. 102–484, § 331(b), substituted “December 31, 1995” for “December 31, 1992”, designated existing provisions as par. (1), and added par. (2).
 
 1991—Subsecs. (h) to (j). Pub. L. 102–190 added subsecs. (h) to (j).
 
@@ -299,7 +299,7 @@ Pub. L. 102–484, § 331(b), substituted “December 31, 1995” for “Decem
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. B, title XXVII, § 2711(d), Jan. 2, 2013, 126 Stat. 2144, provided that:
+Pub. L. 112–239, div. B, title XXVII, § 2711(d), Jan. 2, 2013, 126 Stat. 2144, provided that:
 
 > “This section and the amendments made by this section [amending this section and sections 2703, 2705, and 2883 of this title and enacting and amending provisions set out as notes under section 2687 of this title] shall take effect on the later of—
 
@@ -309,7 +309,7 @@ Pub. L. 112–239, div. B, title XXVII, § 2711(d), Jan. 2, 2013, 126 Stat. 21
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XV, § 1504(a), Feb. 10, 1996, 110 Stat. 513, provided that the amendment made by that section is effective as of Oct. 5, 1994, and as if included in Pub. L. 103–337 as enacted.
+Pub. L. 104–106, div. A, title XV, § 1504(a), Feb. 10, 1996, 110 Stat. 513, provided that the amendment made by that section is effective as of Oct. 5, 1994, and as if included in Pub. L. 103–337 as enacted.
 
 For effective date and applicability of amendment by section 4321(b)(22) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2220 of this title.
 
@@ -319,7 +319,7 @@ Nothing in amendments by section 316 of Pub. L. 116–92 to affect any requireme
 
 **Provision of Alternative Drinking Water to Households Whose Private Drinking Water is Contaminated With Perfluorooctanesulfonic Acid and Perfluorooctanoic Acid Substances From Department of Defense Activities**
 
-Pub. L. 119–60, div. A, title III, § 317, Dec. 18, 2025, 139 Stat. 806, provided that:
+Pub. L. 119–60, div. A, title III, § 317, Dec. 18, 2025, 139 Stat. 806, provided that:
 
 > **“(a) In General.—** Subject to subsections (b) and (c), on and after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall offer alternative drinking water to a household if—
 
@@ -357,7 +357,7 @@ Pub. L. 119–60, div. A, title III, § 317, Dec. 18, 2025, 139 Stat. 806, pro
 
 **Strategy To Accelerate Remediation of Contamination From Perfluoroalkyl Substances and Polyfluoroalkyl Substances**
 
-Pub. L. 119–60, div. A, title III, § 322, Dec. 18, 2025, 139 Stat. 814, provided that:
+Pub. L. 119–60, div. A, title III, § 322, Dec. 18, 2025, 139 Stat. 814, provided that:
 
 > **“(a) Strategy.—** Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a strategy to accelerate the response efforts of the Department of Defense with respect to releases of perfluoroalkyl substances or polyfluoroalkyl substances from the activities of the Department. Consistent with CERCLA, the strategy shall include—
 
@@ -391,7 +391,7 @@ Pub. L. 119–60, div. A, title III, § 322, Dec. 18, 2025, 139 Stat. 814, pro
 
 **Authority To Use Certain Technologies To Destroy or Dispose of Perfluoroalkyl or Polyfluoroalkyl Substances**
 
-Pub. L. 119–60, div. A, title III, § 324, Dec. 18, 2025, 139 Stat. 815, provided that:
+Pub. L. 119–60, div. A, title III, § 324, Dec. 18, 2025, 139 Stat. 815, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense may use technologies for the destruction or disposal of a perfluoroalkyl or polyfluoroalkyl substance that—
 
@@ -407,7 +407,7 @@ Pub. L. 119–60, div. A, title III, § 324, Dec. 18, 2025, 139 Stat. 815, pro
 
 **Use of Expeditionary Solid Waste Disposal Systems by Department of Defense**
 
-Pub. L. 119–60, div. A, title III, § 380, Dec. 18, 2025, 139 Stat. 844, provided that:
+Pub. L. 119–60, div. A, title III, § 380, Dec. 18, 2025, 139 Stat. 844, provided that:
 
 > **“(a) Expeditionary Solid Waste Disposal Systems.—**
 
@@ -429,7 +429,7 @@ Pub. L. 119–60, div. A, title III, § 380, Dec. 18, 2025, 139 Stat. 844, pro
 
 **Guidance and Target Goal Relating to Formerly Used Defense Sites Programs**
 
-Pub. L. 117–263, div. A, title III, § 326, Dec. 23, 2022, 136 Stat. 2518, provided that:
+Pub. L. 117–263, div. A, title III, § 326, Dec. 23, 2022, 136 Stat. 2518, provided that:
 
 > **“(a) Guidance Relating to Site Prioritization.—** The Assistant Secretary of Defense for Energy, Installations, and Environment shall issue guidance setting forth how, in prioritizing sites for activities funded under the ‘Environmental Restoration Account, Formerly Used Defense Sites’ account established under section 2703(a)(5) of title 10, United States Code, the Assistant Secretary shall weigh the relative risk or other factors between Installation Restoration Program sites and Military Munitions Response Program sites.
 
@@ -437,7 +437,7 @@ Pub. L. 117–263, div. A, title III, § 326, Dec. 23, 2022, 136 Stat. 2518, p
 
 **Annual Briefings on Department of Defense Procurement of Covered Items Containing PFOS or PFOA**
 
-Pub. L. 117–263, div. A, title III, § 347(b), (c), Dec. 23, 2022, 136 Stat. 2532, provided that:
+Pub. L. 117–263, div. A, title III, § 347(b), (c), Dec. 23, 2022, 136 Stat. 2532, provided that:
 
 > **“(b) Annual Briefings.—** Not later than 270 days after the date of the enactment of this Act [Dec. 23, 2022], and annually thereafter, the Secretary of Defense shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing that includes a description of each of the following:
 
@@ -457,7 +457,7 @@ Pub. L. 117–263, div. A, title III, § 347(b), (c), Dec. 23, 2022, 136 Stat.
 
 **Temporary Moratorium on Incineration by Department of Defense of Perfluoroalkyl Substances, Polyfluoroalkyl Substances, and Aqueous Film Forming Foam**
 
-Pub. L. 117–81, div. A, title III, § 343, Dec. 27, 2021, 135 Stat. 1643, as amended by Pub. L. 118–31, div. A, title III, § 335, Dec. 22, 2023, 137 Stat. 222, provided that:
+Pub. L. 117–81, div. A, title III, § 343, Dec. 27, 2021, 135 Stat. 1643, as amended by Pub. L. 118–31, div. A, title III, § 335, Dec. 22, 2023, 137 Stat. 222, provided that:
 
 > **“(a) Temporary Moratorium.—** Except as provided in subsection (c), beginning not later than 120 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall prohibit the incineration of covered materials until the earlier of the following:
 
@@ -503,7 +503,7 @@ Pub. L. 117–81, div. A, title III, § 343, Dec. 27, 2021, 135 Stat. 1643, as
 
 **Review and Guidance Relating to Prevention and Mitigation of Spills of Aqueous Film-Forming Foam**
 
-Pub. L. 117–81, div. A, title III, § 344, Dec. 27, 2021, 135 Stat. 1644, provided that:
+Pub. L. 117–81, div. A, title III, § 344, Dec. 27, 2021, 135 Stat. 1644, provided that:
 
 > **“(a) Review Required.—** Not later than 180 days of after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall complete a review of the efforts of the Department of Defense to prevent or mitigate spills of aqueous film-forming foam (in this section referred to as ‘AFFF’). Such review shall assess the following:
 
@@ -525,7 +525,7 @@ Pub. L. 117–81, div. A, title III, § 344, Dec. 27, 2021, 135 Stat. 1644, pr
 
 **Notification to Agricultural Operations Located in Areas Exposed to Department of Defense PFAS Use**
 
-Pub. L. 116–283, div. A, title III, § 335, Jan. 1, 2021, 134 Stat. 3532, provided that:
+Pub. L. 116–283, div. A, title III, § 335, Jan. 1, 2021, 134 Stat. 3532, provided that:
 
 > **“(a) Notification Required.—** Not later than 60 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense, in consultation with the Secretary of Agriculture, shall provide a notification described in subsection (b) to any agricultural operation located within one mile down gradient of a military installation or National Guard facility where covered PFAS—
 
@@ -569,9 +569,9 @@ Pub. L. 116–283, div. A, title III, § 335, Jan. 1, 2021, 134 Stat. 3532, pr
 
 **Contamination by Perfluoroalkyl or Polyfluoroalkyl Substances**
 
-Pub. L. 118–31, div. A, title III, § 321(b), Dec. 22, 2023, 137 Stat. 221, provided that: “Beginning not later than one year after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall publish on the publicly available website established under section 331(b) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 2701 note) timely and regularly updated information on the status of cleanup at sites for which the Secretary has obligated funds for environmental restoration activities.”
+Pub. L. 118–31, div. A, title III, § 321(b), Dec. 22, 2023, 137 Stat. 221, provided that: “Beginning not later than one year after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall publish on the publicly available website established under section 331(b) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 2701 note) timely and regularly updated information on the status of cleanup at sites for which the Secretary has obligated funds for environmental restoration activities.”
 
-Pub. L. 117–263, div. A, title III, § 341(a), Dec. 23, 2022, 136 Stat. 2528, provided that:
+Pub. L. 117–263, div. A, title III, § 341(a), Dec. 23, 2022, 136 Stat. 2528, provided that:
 
 > **“(1) In general.—** Beginning not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], [the] Secretary of Defense shall publish on the publicly available website established under section 331(b) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 2701 note) timely and regularly updated information on the research efforts of the Department of Defense relating to perfluoroalkyl substances or polyfluoroalkyl substances, which shall include the following:
 
@@ -597,7 +597,7 @@ Pub. L. 117–263, div. A, title III, § 341(a), Dec. 23, 2022, 136 Stat. 2528
 
 > **“(C)** The term ‘polyfluoroalkyl substance’ means a man-made chemical containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.”
 
-Pub. L. 116–92, div. A, title III, §§ 329–332, Dec. 20, 2019, 133 Stat. 1312, 1313, provided that:
+Pub. L. 116–92, div. A, title III, §§ 329–332, Dec. 20, 2019, 133 Stat. 1312, 1313, provided that:
 
 > **“SEC. 329. PROHIBITION ON PERFLUOROALKYL SUBSTANCES AND POLYFLUOROALKYL SUBSTANCES IN MEALS READY-TO-EAT FOOD PACKAGING.**
 
@@ -749,7 +749,7 @@ Pub. L. 116–92, div. A, title III, subtitle C, Dec. 20, 2019, 133 Stat. 1317, 
 
 **Plan, Funding Documents, and Management Review Relating to Explosive Ordnance Disposal**
 
-Pub. L. 114–328, div. A, title III, § 343, Dec. 23, 2016, 130 Stat. 2082, provided that:
+Pub. L. 114–328, div. A, title III, § 343, Dec. 23, 2016, 130 Stat. 2082, provided that:
 
 > **“(a) Plan Required.—**
 
@@ -839,7 +839,7 @@ Pub. L. 114–328, div. A, title III, § 343, Dec. 23, 2016, 130 Stat. 2082, p
 
 **Prohibition on Disposing of Waste in Open-Air Burn Pits**
 
-Pub. L. 111–84, div. A, title III, § 317, Oct. 28, 2009, 123 Stat. 2249, as amended by Pub. L. 112–81, div. A, title III, § 316, Dec. 31, 2011, 125 Stat. 1358; Pub. L. 113–66, div. A, title III, § 314, Dec. 26, 2013, 127 Stat. 729; Pub. L. 113–291, div. A, title X, § 1071(g)(1), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 117–81, div. A, title III, § 316, Dec. 27, 2021, 135 Stat. 1630, provided that:
+Pub. L. 111–84, div. A, title III, § 317, Oct. 28, 2009, 123 Stat. 2249, as amended by Pub. L. 112–81, div. A, title III, § 316, Dec. 31, 2011, 125 Stat. 1358; Pub. L. 113–66, div. A, title III, § 314, Dec. 26, 2013, 127 Stat. 729; Pub. L. 113–291, div. A, title X, § 1071(g)(1), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 117–81, div. A, title III, § 316, Dec. 27, 2021, 135 Stat. 1630, provided that:
 
 > **“(a) Regulations.—**
 
@@ -939,11 +939,11 @@ Pub. L. 111–84, div. A, title III, § 317, Oct. 28, 2009, 123 Stat. 2249, as
 
 **Purpose of Pub. L. 109–284**
 
-Pub. L. 109–284, § 1, Sept. 27, 2006, 120 Stat. 1211, provided that: “The purpose of this Act [amending this section, sections 107 and 210 of Title 23, Highways, section 1499 of Title 28, Judiciary and Judicial Procedure, sections 2301, 20908, 40103, 70912, 150511, 151303, 153513, 220104, 220501, 220505, 220506, 220509, 220511, 220512, and 220521 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and sections 522, 552, 554, 581, 593, 611, 3131, 3133, 3141, 3142, 3701, 3702, 3704, 6111, 8104, 8105, 8501, 8502, 8711, 8712, 8722, 9302, 14308, and 17504 of Title 40, Public Buildings, Property, and Works] is to make technical corrections to the United States Code relating to cross references, typographical errors, and stylistic matters.”
+Pub. L. 109–284, § 1, Sept. 27, 2006, 120 Stat. 1211, provided that: “The purpose of this Act [amending this section, sections 107 and 210 of Title 23, Highways, section 1499 of Title 28, Judiciary and Judicial Procedure, sections 2301, 20908, 40103, 70912, 150511, 151303, 153513, 220104, 220501, 220505, 220506, 220509, 220511, 220512, and 220521 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and sections 522, 552, 554, 581, 593, 611, 3131, 3133, 3141, 3142, 3701, 3702, 3704, 6111, 8104, 8105, 8501, 8502, 8711, 8712, 8722, 9302, 14308, and 17504 of Title 40, Public Buildings, Property, and Works] is to make technical corrections to the United States Code relating to cross references, typographical errors, and stylistic matters.”
 
 **Formerly Utilized Sites Remedial Action Program**
 
-Pub. L. 106–398, § 1 [div. C, title XXXI, § 3138], Oct. 30, 2000, 114 Stat. 1654, 1654A–461, provided that:
+Pub. L. 106–398, § 1 [div. C, title XXXI, § 3138], Oct. 30, 2000, 114 Stat. 1654, 1654A–461, provided that:
 
 > **“(a) Contingent Limitation on Availability of Funds for Certain Travel Expenses.—** Effective November 1, 2001, but subject to subsection (b), no funds authorized to be appropriated or otherwise made available by this or any other Act for the Department of Energy or the Department of the Army may be obligated or expended for travel by—
 
@@ -959,9 +959,9 @@ Pub. L. 106–398, § 1 [div. C, title XXXI, § 3138], Oct. 30, 2000, 114 St
 
 > **“(c) Termination.—** If the limitation in subsection (a) takes effect, the limitation shall cease to be in effect when both certifications referred to in subsection (b) have been submitted to the congressional defense committees.”
 
-Pub. L. 106–65, div. C, title XXXI, § 3131, Oct. 5, 1999, 113 Stat. 925, provided that: “Notwithstanding any other provision of law, no funds authorized to be appropriated or otherwise made available by this Act [see Tables for classification], or by any Act authorizing appropriations for the military activities of the Department of Defense or the defense activities of the Department of Energy for a fiscal year after fiscal year 2000, may be obligated or expended to conduct treatment, storage, or disposal activities at any site designated as a site under the Formerly Utilized Site Remedial Action Program as of the date of the enactment of this Act [Oct. 5, 1999].”
+Pub. L. 106–65, div. C, title XXXI, § 3131, Oct. 5, 1999, 113 Stat. 925, provided that: “Notwithstanding any other provision of law, no funds authorized to be appropriated or otherwise made available by this Act [see Tables for classification], or by any Act authorizing appropriations for the military activities of the Department of Defense or the defense activities of the Department of Energy for a fiscal year after fiscal year 2000, may be obligated or expended to conduct treatment, storage, or disposal activities at any site designated as a site under the Formerly Utilized Site Remedial Action Program as of the date of the enactment of this Act [Oct. 5, 1999].”
 
-Pub. L. 106–60, title VI, § 611, Sept. 29, 1999, 113 Stat. 502, provided that:
+Pub. L. 106–60, title VI, § 611, Sept. 29, 1999, 113 Stat. 502, provided that:
 
 > **“(a)** The Secretary of the Army, acting through the Chief of Engineers, in carrying out the program known as the Formerly Utilized Sites Remedial Action Program, shall undertake the following functions and activities to be performed at eligible sites where remediation has not been completed:
 
@@ -989,7 +989,7 @@ Pub. L. 106–60, title VI, § 611, Sept. 29, 1999, 113 Stat. 502, provided th
 
 **Settlement of Claims of Foreign Governments for Environmental Cleanup of Overseas Sites Formerly Used by Department of Defense**
 
-Pub. L. 105–261, div. A, title III, § 321, Oct. 17, 1998, 112 Stat. 1962, provided that:
+Pub. L. 105–261, div. A, title III, § 321, Oct. 17, 1998, 112 Stat. 1962, provided that:
 
 > **“(a) Notice of Negotiations.—** The President shall notify Congress before entering into any negotiations for the ex-gratia settlement of the claims of a government of another country against the United States for environmental cleanup of sites in that country that were formerly used by the Department of Defense.
 
@@ -997,7 +997,7 @@ Pub. L. 105–261, div. A, title III, § 321, Oct. 17, 1998, 112 Stat. 1962, p
 
 **Recovery and Sharing of Costs of Environmental Restoration at Department of Defense Sites**
 
-Pub. L. 105–85, div. A, title III, § 348, Nov. 18, 1997, 111 Stat. 1689, provided that:
+Pub. L. 105–85, div. A, title III, § 348, Nov. 18, 1997, 111 Stat. 1689, provided that:
 
 > **“(a) Regulations.—** Not later than March 1, 1998, the Secretary of Defense shall prescribe regulations containing the guidelines and requirements described in subsections (b) and (c).
 
@@ -1021,13 +1021,13 @@ Pub. L. 105–85, div. A, title III, § 348, Nov. 18, 1997, 111 Stat. 1689, pr
 
 **Pilot Program for Sale of Air Pollution Emission Reduction Incentives**
 
-Pub. L. 107–107, div. A, title III, § 316(b), Dec. 28, 2001, 115 Stat. 1053, directed the Secretary of Defense to prepare a report concerning the operation of the pilot program for the sale of economic incentives for the reduction of emission of air pollutants attributable to military facilities, as authorized by section 351 of Pub. L. 105–85, formerly set out below, and to submit the report to the Congress not later than Mar. 1, 2003.
+Pub. L. 107–107, div. A, title III, § 316(b), Dec. 28, 2001, 115 Stat. 1053, directed the Secretary of Defense to prepare a report concerning the operation of the pilot program for the sale of economic incentives for the reduction of emission of air pollutants attributable to military facilities, as authorized by section 351 of Pub. L. 105–85, formerly set out below, and to submit the report to the Congress not later than Mar. 1, 2003.
 
-Pub. L. 105–85, div. A, title III, § 351, Nov. 18, 1997, 111 Stat. 1692, as amended by Pub. L. 106–65, div. A, title III, § 325, Oct. 5, 1999, 113 Stat. 563; Pub. L. 107–107, div. A, title III, § 316(a), Dec. 28, 2001, 115 Stat. 1053, authorized the Secretary of Defense, until Sept. 30, 2003, to carry out a pilot program to assess the feasibility and advisability of the sale of economic incentives for the reduction of emission of air pollutants attributable to a facility of a military department.
+Pub. L. 105–85, div. A, title III, § 351, Nov. 18, 1997, 111 Stat. 1692, as amended by Pub. L. 106–65, div. A, title III, § 325, Oct. 5, 1999, 113 Stat. 563; Pub. L. 107–107, div. A, title III, § 316(a), Dec. 28, 2001, 115 Stat. 1053, authorized the Secretary of Defense, until Sept. 30, 2003, to carry out a pilot program to assess the feasibility and advisability of the sale of economic incentives for the reduction of emission of air pollutants attributable to a facility of a military department.
 
 **Authority To Develop and Implement Land Use Plans for Defense Environmental Restoration Program**
 
-Pub. L. 104–201, div. A, title III, § 325, Sept. 23, 1996, 110 Stat. 2481, provided that:
+Pub. L. 104–201, div. A, title III, § 325, Sept. 23, 1996, 110 Stat. 2481, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense may, to the extent possible and practical, develop and implement, as part of the Defense Environmental Restoration Program provided for in chapter 160 of title 10, United States Code, a land use plan for any defense site selected by the Secretary under subsection (b).
 
@@ -1053,7 +1053,7 @@ Pub. L. 104–201, div. A, title III, § 325, Sept. 23, 1996, 110 Stat. 2481, 
 
 **Fiscal Year 1996 Restrictions on Reimbursements Under Agreements for Services of Other Agencies**
 
-Pub. L. 104–106, div. A, title III, § 321(a)(2), Feb. 10, 1996, 110 Stat. 251, as amended by Pub. L. 105–85, div. A, title X, § 1073(d)(1)(A), Nov. 18, 1997, 111 Stat. 1905, provided that:
+Pub. L. 104–106, div. A, title III, § 321(a)(2), Feb. 10, 1996, 110 Stat. 251, as amended by Pub. L. 105–85, div. A, title X, § 1073(d)(1)(A), Nov. 18, 1997, 111 Stat. 1905, provided that:
 
 > **“(A)** Except as provided in subparagraph (B), the total amount of funds available for reimbursements under agreements entered into under section 2701(d) of title 10, United States Code, as amended by paragraph (1), in fiscal year 1996 may not exceed $10,000,000.
 
@@ -1065,7 +1065,7 @@ Pub. L. 104–106, div. A, title III, § 321(a)(2), Feb. 10, 1996, 110 Stat. 2
 
 **Environmental Education and Training Program for Defense Personnel**
 
-Pub. L. 103–337, div. A, title III, § 328, Oct. 5, 1994, 108 Stat. 2714, provided that:
+Pub. L. 103–337, div. A, title III, § 328, Oct. 5, 1994, 108 Stat. 2714, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense shall establish and conduct an education and training program for members of the Armed Forces and civilian employees of the Department of Defense whose responsibilities include planning or executing the environmental mission of the Department. The Secretary shall conduct the program to ensure that such members and employees obtain and maintain the knowledge and skill required to comply with existing environmental laws and regulations.
 
@@ -1073,7 +1073,7 @@ Pub. L. 103–337, div. A, title III, § 328, Oct. 5, 1994, 108 Stat. 2714, pr
 
 **Grants to Institutions of Higher Education To Provide Education and Training in Environmental Restoration to Dislocated Defense Workers and Young Adults**
 
-Pub. L. 103–160, div. A, title XIII, § 1333, Nov. 30, 1993, 107 Stat. 1798, as amended by Pub. L. 103–337, div. A, title X, § 1070(b)(11), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–244, title I, § 102(a)(2)(D), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(8), (f)(7)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430; Pub. L. 109–163, div. A, title X, § 1056(a)(2), Jan. 6, 2006, 119 Stat. 3438, provided that:
+Pub. L. 103–160, div. A, title XIII, § 1333, Nov. 30, 1993, 107 Stat. 1798, as amended by Pub. L. 103–337, div. A, title X, § 1070(b)(11), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–244, title I, § 102(a)(2)(D), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(8), (f)(7)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430; Pub. L. 109–163, div. A, title X, § 1056(a)(2), Jan. 6, 2006, 119 Stat. 3438, provided that:
 
 > **“(a) Grant Program Authorized.—**
 
@@ -1175,7 +1175,7 @@ Pub. L. 103–160, div. A, title XIII, § 1333, Nov. 30, 1993, 107 Stat. 1798,
 
 **Environmental Education Opportunities Program**
 
-Pub. L. 103–160, div. A, title XIII, § 1334, Nov. 30, 1993, 107 Stat. 1801, as amended by Pub. L. 105–244, title I, § 102(a)(2)(E), Oct. 7, 1998, 112 Stat. 1617, provided that:
+Pub. L. 103–160, div. A, title XIII, § 1334, Nov. 30, 1993, 107 Stat. 1801, as amended by Pub. L. 105–244, title I, § 102(a)(2)(E), Oct. 7, 1998, 112 Stat. 1617, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, may establish a scholarship program in order to enable eligible individuals described in subsection (d) to undertake the educational training or activities relating to environmental engineering, environmental sciences, or environmental project management in fields related to hazardous waste management and cleanup described in subsection (b) at the institutions of higher education described in subsection (c).
 
@@ -1307,7 +1307,7 @@ Pub. L. 103–160, div. A, title XIII, § 1334, Nov. 30, 1993, 107 Stat. 1801,
 
 **Training and Employment of Department of Defense Employees To Carry Out Environmental Restoration at Military Installations To Be Closed**
 
-Pub. L. 103–160, div. A, title XIII, § 1335, Nov. 30, 1993, 107 Stat. 1804, provided that:
+Pub. L. 103–160, div. A, title XIII, § 1335, Nov. 30, 1993, 107 Stat. 1804, provided that:
 
 > **“(a) Training Program.—** The Secretary of Defense may establish a program to provide such training to eligible civilian employees of the Department of Defense as the Secretary considers to be necessary to qualify such employees to carry out environmental assessment, remediation, and restoration activities (including asbestos abatement) at military installations closed or to be closed.
 
@@ -1329,7 +1329,7 @@ Pub. L. 103–139, title II, Nov. 11, 1993, 107 Stat. 1422, provided in part: �
 
 **Pilot Program for Expedited Environmental Response Actions**
 
-Pub. L. 102–484, div. A, title III, § 323, Oct. 23, 1992, 106 Stat. 2365, provided that:
+Pub. L. 102–484, div. A, title III, § 323, Oct. 23, 1992, 106 Stat. 2365, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense shall establish a pilot program to expedite the performance of on-site environmental restoration at—
 
@@ -1385,13 +1385,13 @@ Pub. L. 102–484, div. A, title III, § 323, Oct. 23, 1992, 106 Stat. 2365, p
 
 **Overseas Environmental Restoration**
 
-Pub. L. 102–484, div. A, title III, § 324, Oct. 23, 1992, 106 Stat. 2367, as amended by Pub. L. 108–136, div. A, title X, § 1031(d)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
+Pub. L. 102–484, div. A, title III, § 324, Oct. 23, 1992, 106 Stat. 2367, as amended by Pub. L. 108–136, div. A, title X, § 1031(d)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 > “It is the sense of the Congress that in carrying out environmental restoration activities at military installations outside the United States, the President should seek to obtain an equitable division of the costs of environmental restoration with the nation in which the installation is located.”
 
 **Environmental Scholarship and Fellowship Programs for Department of Defense**
 
-Pub. L. 102–484, div. D, title XLIV, § 4451, Oct. 23, 1992, 106 Stat. 2735, as amended by Pub. L. 105–244, title I, § 102(a)(2)(F), Oct. 7, 1998, 112 Stat. 1617, provided that:
+Pub. L. 102–484, div. D, title XLIV, § 4451, Oct. 23, 1992, 106 Stat. 2735, as amended by Pub. L. 105–244, title I, § 102(a)(2)(F), Oct. 7, 1998, 112 Stat. 1617, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense (hereinafter in this section referred to as the ‘Secretary’) may conduct scholarship and fellowship programs for the purpose of enabling individuals to qualify for employment in the field of environmental restoration or other environmental programs in the Department of Defense.
 
@@ -1467,11 +1467,11 @@ Pub. L. 102–484, div. D, title XLIV, § 4451, Oct. 23, 1992, 106 Stat. 2735,
 
 **Grants to Institutions of Higher Education To Provide Training in Environmental Restoration and Hazardous Waste Management**
 
-Pub. L. 102–484, div. D, title XLIV, § 4452, Oct. 23, 1992, 106 Stat. 2738, authorized the Secretary of Defense to establish a program to assist institutions of higher education, as defined in former section 1141(a) of Title 20, Education, to provide education and training in environmental restoration and hazardous waste management and to award grants to such institutions, prior to repeal by Pub. L. 103–160, div. A, title XIII, § 1333(j), Nov. 30, 1993, 107 Stat. 1800. See section 1333 of Pub. L. 103–160, set out above.
+Pub. L. 102–484, div. D, title XLIV, § 4452, Oct. 23, 1992, 106 Stat. 2738, authorized the Secretary of Defense to establish a program to assist institutions of higher education, as defined in former section 1141(a) of Title 20, Education, to provide education and training in environmental restoration and hazardous waste management and to award grants to such institutions, prior to repeal by Pub. L. 103–160, div. A, title XIII, § 1333(j), Nov. 30, 1993, 107 Stat. 1800. See section 1333 of Pub. L. 103–160, set out above.
 
 **Policies and Report on Overseas Environmental Compliance**
 
-Pub. L. 101–510, div. A, title III, § 342(b), Nov. 5, 1990, 104 Stat. 1537, provided that:
+Pub. L. 101–510, div. A, title III, § 342(b), Nov. 5, 1990, 104 Stat. 1537, provided that:
 
 > **“(1)** The Secretary of Defense shall develop a policy for determining applicable environmental requirements for military installations located outside the United States. In developing the policy, the Secretary shall ensure that the policy gives consideration to adequately protecting the health and safety of military and civilian personnel assigned to such installations.
 
@@ -1485,13 +1485,13 @@ Pub. L. 101–510, div. A, title III, § 342(b), Nov. 5, 1990, 104 Stat. 1537,
 
 **Environmental Education Program for Department of Defense Personnel**
 
-Pub. L. 101–510, div. A, title III, § 344, Nov. 5, 1990, 104 Stat. 1538, directed Secretary of Defense to establish a program for the purpose of educating Department of Defense personnel in environmental management and, not later than date on which President submits budget for FY 1992 to Congress pursuant to 31 U.S.C. 1105(a), to submit to Congress recommendations regarding whether program should be continued after Sept. 30, 1991.
+Pub. L. 101–510, div. A, title III, § 344, Nov. 5, 1990, 104 Stat. 1538, directed Secretary of Defense to establish a program for the purpose of educating Department of Defense personnel in environmental management and, not later than date on which President submits budget for FY 1992 to Congress pursuant to 31 U.S.C. 1105(a), to submit to Congress recommendations regarding whether program should be continued after Sept. 30, 1991.
 
 **Use of Ozone Depleting Substances Within Department of Defense**
 
-Pub. L. 102–484, div. A, title III, § 325, Oct. 23, 1992, 106 Stat. 2367, required the Director of the Defense Logistics Agency to evaluate the use of class I and class II substances, listed under 42 U.S.C. 7671a, by the military departments and Defense Agencies for the years 1992 to 1995 and to submit to the congressional defense committees a report on the status of the evaluation in 1993.
+Pub. L. 102–484, div. A, title III, § 325, Oct. 23, 1992, 106 Stat. 2367, required the Director of the Defense Logistics Agency to evaluate the use of class I and class II substances, listed under 42 U.S.C. 7671a, by the military departments and Defense Agencies for the years 1992 to 1995 and to submit to the congressional defense committees a report on the status of the evaluation in 1993.
 
-Pub. L. 101–510, div. A, title III, § 345, Nov. 5, 1990, 104 Stat. 1538, provided that:
+Pub. L. 101–510, div. A, title III, § 345, Nov. 5, 1990, 104 Stat. 1538, provided that:
 
 > **“(a) DOD Requirements for Ozone Depleting Chemicals Other Than CFCs.—**
 
@@ -1509,7 +1509,7 @@ Pub. L. 101–510, div. A, title III, § 345, Nov. 5, 1990, 104 Stat. 1538, pr
 
 **Requirement for Development of Environmental Data Base**
 
-Pub. L. 101–189, div. A, title III, § 352, Nov. 29, 1989, 103 Stat. 1423, provided that:
+Pub. L. 101–189, div. A, title III, § 352, Nov. 29, 1989, 103 Stat. 1423, provided that:
 
 > **“(a) Environmental Data Base.—** The Secretary of Defense shall develop and maintain a comprehensive data base on environmental activities carried out by the Department of Defense pursuant to, and environmental compliance obligations to which the Department is subject under, chapter 160 of title 10, United States Code, and all other applicable Federal and State environmental laws. At a minimum, the information in the data base shall include all the fines and penalties assessed against the Department of Defense pursuant to environmental laws and paid by the Department, all notices of violations of environmental laws received by the Department, and all obligations of the Department for compliance with environmental laws. The Secretary may include any other information he considers appropriate.
 
@@ -1517,11 +1517,11 @@ Pub. L. 101–189, div. A, title III, § 352, Nov. 29, 1989, 103 Stat. 1423, p
 
 **Funding for Waste Minimization Programs for Certain Industrial-Type Activities of Department of Defense**
 
-Pub. L. 101–189, div. A, title III, § 354, Nov. 29, 1989, 103 Stat. 1424, as amended by Pub. L. 102–190, div. A, title III, § 332, Dec. 5, 1991, 105 Stat. 1340, directed the Secretary of Defense to require the Secretary of each military department to establish a program for fiscal years 1992, 1993, and 1994 to reduce the volume of solid and hazardous wastes disposed of, and hazardous materials used by, each industrial-type activity within the department that was a depot maintenance installation and for which a working-capital fund had been established under section 2208 of this title, and to submit to Congress, not later than 90 days after Nov. 29, 1989, the name of each industrial-type or commercial-type activity of each military department which was not covered by the waste minimization program because the activity did not carry out depot maintenance installation functions.
+Pub. L. 101–189, div. A, title III, § 354, Nov. 29, 1989, 103 Stat. 1424, as amended by Pub. L. 102–190, div. A, title III, § 332, Dec. 5, 1991, 105 Stat. 1340, directed the Secretary of Defense to require the Secretary of each military department to establish a program for fiscal years 1992, 1993, and 1994 to reduce the volume of solid and hazardous wastes disposed of, and hazardous materials used by, each industrial-type activity within the department that was a depot maintenance installation and for which a working-capital fund had been established under section 2208 of this title, and to submit to Congress, not later than 90 days after Nov. 29, 1989, the name of each industrial-type or commercial-type activity of each military department which was not covered by the waste minimization program because the activity did not carry out depot maintenance installation functions.
 
 **Use of Chlorofluorocarbons and Halons in Department of Defense**
 
-Pub. L. 101–189, div. A, title III, § 356, Nov. 29, 1989, 103 Stat. 1425, as amended by Pub. L. 103–160, div. A, title IX, § 904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that:
+Pub. L. 101–189, div. A, title III, § 356, Nov. 29, 1989, 103 Stat. 1425, as amended by Pub. L. 103–160, div. A, title IX, § 904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that:
 
 > **“(a) Chlorofluorocarbons Emission Reduction.—** The Secretary of Defense shall formulate and carry out, through the Under Secretary of Defense for Acquisition, Technology, and Logistics a program to reduce the unnecessary release of chlorofluorocarbons (hereinafter in this section referred to as ‘CFCs’) and halons into the atmosphere in connection with maintenance operations and training and testing practices of the Department of Defense.
 
@@ -1559,17 +1559,17 @@ Pub. L. 101–189, div. A, title III, § 356, Nov. 29, 1989, 103 Stat. 1425, a
 
 **Report on Environmental Requirements and Priorities**
 
-Pub. L. 101–189, div. A, title III, § 358, Nov. 29, 1989, 103 Stat. 1427, directed Secretary of Defense, not later than two years after Nov. 29, 1989, to submit to Congress a comprehensive report on the long-range environmental challenges and goals of the Department of Defense.
+Pub. L. 101–189, div. A, title III, § 358, Nov. 29, 1989, 103 Stat. 1427, directed Secretary of Defense, not later than two years after Nov. 29, 1989, to submit to Congress a comprehensive report on the long-range environmental challenges and goals of the Department of Defense.
 
 **Study of Waste Recycling**
 
-Pub. L. 101–189, div. A, title III, § 361, Nov. 29, 1989, 103 Stat. 1429, as amended by Pub. L. 101–510, div. A, title III, § 343, Nov. 5, 1990, 104 Stat. 1538, required the Secretary of Defense to conduct a study of current practices and future plans for managing postconsumer waste at facilities of the Department of Defense at which such waste was generated and the feasibility of such Department of Defense facilities participating in programs at military installations or in local communities to recycle the postconsumer waste generated at the facilities, and to submit to Congress a report describing the findings and conclusions of the Secretary resulting from the study not later than Mar. 1, 1991.
+Pub. L. 101–189, div. A, title III, § 361, Nov. 29, 1989, 103 Stat. 1429, as amended by Pub. L. 101–510, div. A, title III, § 343, Nov. 5, 1990, 104 Stat. 1538, required the Secretary of Defense to conduct a study of current practices and future plans for managing postconsumer waste at facilities of the Department of Defense at which such waste was generated and the feasibility of such Department of Defense facilities participating in programs at military installations or in local communities to recycle the postconsumer waste generated at the facilities, and to submit to Congress a report describing the findings and conclusions of the Secretary resulting from the study not later than Mar. 1, 1991.
 
 **Use of Department of Defense Appropriations for Removal of Unsafe Buildings or Debris**
 
-Pub. L. 101–165, title IX, § 9038, Nov. 21, 1989, 103 Stat. 1137, which authorized appropriations available to the Department of Defense to be used at sites formerly used by the Department for removal of unsafe buildings or debris of the Department and required that removal be completed before the property is released from Federal Government control, was repealed and restated in subsecs. (f) and (g) of this section by Pub. L. 101–510, div. A, title XIV, § 1481(i), Nov. 5, 1990, 104 Stat. 1708.
+Pub. L. 101–165, title IX, § 9038, Nov. 21, 1989, 103 Stat. 1137, which authorized appropriations available to the Department of Defense to be used at sites formerly used by the Department for removal of unsafe buildings or debris of the Department and required that removal be completed before the property is released from Federal Government control, was repealed and restated in subsecs. (f) and (g) of this section by Pub. L. 101–510, div. A, title XIV, § 1481(i), Nov. 5, 1990, 104 Stat. 1708.
 
-## § 2702. Research, development, and demonstration program
+## § 2702. Research, development, and demonstration program
 
 **(a) Program.—** As part of the Defense Environmental Restoration Program, the Secretary of Defense shall carry out a program of research, development, and demonstration with respect to hazardous wastes. The program shall be carried out in consultation and cooperation with the Administrator and the advisory council established under section 311(a)(5) of CERCLA (42 U.S.C. 9660(a)(5)). The program shall include research, development, and demonstration with respect to each of the following:
 
@@ -1593,7 +1593,7 @@ Pub. L. 101–165, title IX, § 9038, Nov. 21, 1989, 103 Stat. 1137, which aut
 
 **(2) Role of epa.—** The functions of the Secretary under paragraph (1) shall be carried out in cooperation and consultation with the Administrator. To the extent appropriate and agreed upon by the Administrator and the Secretary, the Administrator shall evaluate and disseminate such information through the office of technology demonstration of the Environmental Protection Agency.
 
-(Added Pub. L. 99–499, title II, § 211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1721; amended Pub. L. 108–375, div. A, title X, § 1084(d)(25), Oct. 28, 2004, 118 Stat. 2063.)
+(Added Pub. L. 99–499, title II, § 211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1721; amended Pub. L. 108–375, div. A, title X, § 1084(d)(25), Oct. 28, 2004, 118 Stat. 2063.)
 
 **Editorial Notes**
 
@@ -1605,15 +1605,15 @@ Pub. L. 101–165, title IX, § 9038, Nov. 21, 1989, 103 Stat. 1137, which aut
 
 **Partnerships for Investment in Innovative Environmental Technologies**
 
-Pub. L. 105–85, div. A, title III, § 349, Nov. 18, 1997, 111 Stat. 1690, as amended by Pub. L. 106–65, div. A, title X, § 1067(4), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–81, div. A, title X, § 1062(k)(1), Dec. 31, 2011, 125 Stat. 1586, authorized the Secretary of Defense, until three years after Nov. 18, 1997, to enter into a partnership with one or more private entities to demonstrate and validate innovative environmental technologies, and to provide funds to the partner or partners from appropriations available to the Department of Defense for environmental activities for a period of up to five years.
+Pub. L. 105–85, div. A, title III, § 349, Nov. 18, 1997, 111 Stat. 1690, as amended by Pub. L. 106–65, div. A, title X, § 1067(4), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–81, div. A, title X, § 1062(k)(1), Dec. 31, 2011, 125 Stat. 1586, authorized the Secretary of Defense, until three years after Nov. 18, 1997, to enter into a partnership with one or more private entities to demonstrate and validate innovative environmental technologies, and to provide funds to the partner or partners from appropriations available to the Department of Defense for environmental activities for a period of up to five years.
 
 **Agreements for Services of Other Agencies in Support of Environmental Technology Certification**
 
-Pub. L. 105–85, div. A, title III, § 342(d), Nov. 18, 1997, 111 Stat. 1686, provided that not later than 90 days after Nov. 18, 1997, the Secretary of Defense was to submit to Congress a report setting forth the guidelines established by the Secretary for reimbursement of State and local governments, and for cost-sharing between the Department of Defense, such governments, and vendors, under cooperative agreements entered into under section 327 of Pub. L. 104–201, formerly set out below.
+Pub. L. 105–85, div. A, title III, § 342(d), Nov. 18, 1997, 111 Stat. 1686, provided that not later than 90 days after Nov. 18, 1997, the Secretary of Defense was to submit to Congress a report setting forth the guidelines established by the Secretary for reimbursement of State and local governments, and for cost-sharing between the Department of Defense, such governments, and vendors, under cooperative agreements entered into under section 327 of Pub. L. 104–201, formerly set out below.
 
-Pub. L. 104–201, div. A, title III, § 327, Sept. 23, 1996, 110 Stat. 2483, as amended by Pub. L. 105–85, div. A, title III, § 342(a)–(c), Nov. 18, 1997, 111 Stat. 1686, authorized the Secretary of Defense, until five years after Sept. 23, 1996, to enter into a cooperative agreement with an agency of a State or local government, or with an Indian tribe, to obtain assistance in certifying environmental technologies.
+Pub. L. 104–201, div. A, title III, § 327, Sept. 23, 1996, 110 Stat. 2483, as amended by Pub. L. 105–85, div. A, title III, § 342(a)–(c), Nov. 18, 1997, 111 Stat. 1686, authorized the Secretary of Defense, until five years after Sept. 23, 1996, to enter into a cooperative agreement with an agency of a State or local government, or with an Indian tribe, to obtain assistance in certifying environmental technologies.
 
-## § 2703. Environmental restoration accounts
+## § 2703. Environmental restoration accounts
 
 **(a) Establishment of Accounts.—** There are hereby established in the Department of Defense the following accounts:
 
@@ -1653,29 +1653,29 @@ Pub. L. 104–201, div. A, title III, § 327, Sept. 23, 1996, 110 Stat. 2483, 
 
 **(h) Sole Source of Funds for Environmental Remediation at Certain Base Realignment and Closure Sites.—** In the case of property disposed of pursuant to a base closure law and subject to a covenant that was required to be provided by paragraphs (3) and (4) of section 120(h) of CERCLA (42 U.S.C. 9620(h)), the sole source of funds for services procured under section 2701(d)(1) of this title shall be the Department of Defense Base Closure Account established under section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note). The limitation in this subsection shall expire upon the closure of such base closure account.
 
-(Added Pub. L. 99–499, title II, § 211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, § 321, Oct. 5, 1994, 108 Stat. 2710; Pub. L. 104–106, div. A, title III, § 322, Feb. 10, 1996, 110 Stat. 252; Pub. L. 104–201, div. A, title III, § 322(a)(1), Sept. 23, 1996, 110 Stat. 2477; Pub. L. 106–65, div. A, title III, § 321, title X, § 1066(a)(27), Oct. 5, 1999, 113 Stat. 560, 772; Pub. L. 106–398, § 1 [[div. A], title III, §§ 311, 312], Oct. 30, 2000, 114 Stat. 1654, 1654A–53, 1654A–54; Pub. L. 107–107, div. A, title III, § 312, Dec. 28, 2001, 115 Stat. 1051; Pub. L. 108–136, div. A, title III, § 313(a), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 108–375, div. A, title X, § 1084(d)(26), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–163, div. A, title III, § 312(b), title X, § 1056(c)(7), Jan. 6, 2006, 119 Stat. 3191, 3439; Pub. L. 109–364, div. A, title X, § 1071(a)(23), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(B), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 113–291, div. A, title III, § 311, Dec. 19, 2014, 128 Stat. 3336; Pub. L. 118–31, div. A, title III, § 312(e), Dec. 22, 2023, 137 Stat. 215.)
+(Added Pub. L. 99–499, title II, § 211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, § 321, Oct. 5, 1994, 108 Stat. 2710; Pub. L. 104–106, div. A, title III, § 322, Feb. 10, 1996, 110 Stat. 252; Pub. L. 104–201, div. A, title III, § 322(a)(1), Sept. 23, 1996, 110 Stat. 2477; Pub. L. 106–65, div. A, title III, § 321, title X, § 1066(a)(27), Oct. 5, 1999, 113 Stat. 560, 772; Pub. L. 106–398, § 1 [[div. A], title III, §§ 311, 312], Oct. 30, 2000, 114 Stat. 1654, 1654A–53, 1654A–54; Pub. L. 107–107, div. A, title III, § 312, Dec. 28, 2001, 115 Stat. 1051; Pub. L. 108–136, div. A, title III, § 313(a), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 108–375, div. A, title X, § 1084(d)(26), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–163, div. A, title III, § 312(b), title X, § 1056(c)(7), Jan. 6, 2006, 119 Stat. 3191, 3439; Pub. L. 109–364, div. A, title X, § 1071(a)(23), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(B), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 113–291, div. A, title III, § 311, Dec. 19, 2014, 128 Stat. 3336; Pub. L. 118–31, div. A, title III, § 312(e), Dec. 22, 2023, 137 Stat. 215.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (g)(1). Pub. L. 118–31 inserted “, a National Guard facility,” after “Department of Defense”.
+2023—Subsec. (g)(1). Pub. L. 118–31 inserted “, a National Guard facility,” after “Department of Defense”.
 
-2014—Subsec. (f). Pub. L. 113–291 struck out “for fiscal years 1995 through 2010,” before “or to any environmental” and “for fiscal years 1997 through 2010” before “, may be used”.
+2014—Subsec. (f). Pub. L. 113–291 struck out “for fiscal years 1995 through 2010,” before “or to any environmental” and “for fiscal years 1997 through 2010” before “, may be used”.
 
 2013—Subsec. (h). Pub. L. 112–239 substituted “the Department of Defense Base Closure Account established under section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note)” for “the applicable Department of Defense base closure account” and “such base closure account” for “the applicable base closure account”.
 
-2006—Subsec. (b). Pub. L. 109–163, § 1056(c)(7), substituted “In this subsection, the terms ‘discarded military munitions’ and” for “For purposes of the preceding sentence, the terms ‘unexploded ordnance’, ‘discarded military munitions’, and”.
+2006—Subsec. (b). Pub. L. 109–163, § 1056(c)(7), substituted “In this subsection, the terms ‘discarded military munitions’ and” for “For purposes of the preceding sentence, the terms ‘unexploded ordnance’, ‘discarded military munitions’, and”.
 
-Subsec. (g)(1). Pub. L. 109–163, § 312(b)(1), substituted “Except as provided in subsection (h), the sole source” for “The sole source”.
+Subsec. (g)(1). Pub. L. 109–163, § 312(b)(1), substituted “Except as provided in subsection (h), the sole source” for “The sole source”.
 
 Subsec. (h). Pub. L. 109–364 substituted “section 2701(d)(1)” for “subsection 2701(d)(1)”.
 
-Pub. L. 109–163, § 312(b)(2), added subsec. (h).
+Pub. L. 109–163, § 312(b)(2), added subsec. (h).
 
 2004—Subsec. (b). Pub. L. 108–375 substituted “For purposes of the preceding sentence, the terms” for “The terms”.
 
-2003—Subsec. (c)(1). Pub. L. 108–136, § 313(a)(1), substituted “only to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law.” for “only—
+2003—Subsec. (c)(1). Pub. L. 108–136, § 313(a)(1), substituted “only to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law.” for “only—
 
 “(A) to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law; and
 
@@ -1685,9 +1685,9 @@ Pub. L. 109–163, § 312(b)(2), added subsec. (h).
 
 “(ii) real property on which the facility is located and that was under the jurisdiction of the Secretary of Defense or the Secretary of a military department at the time of the actions leading to the release or threatened release.”
 
-Subsec. (c)(2). Pub. L. 108–136, § 313(a)(3), redesignated par. (4) as (2) and struck out second sentence which read as follows: “Not more than 5 percent of the funds deposited in an account under subsection (a) for a fiscal year may be used to pay relocation costs under paragraph (1)(B).”
+Subsec. (c)(2). Pub. L. 108–136, § 313(a)(3), redesignated par. (4) as (2) and struck out second sentence which read as follows: “Not more than 5 percent of the funds deposited in an account under subsection (a) for a fiscal year may be used to pay relocation costs under paragraph (1)(B).”
 
-Pub. L. 108–136, § 313(a)(2), struck out par. (2) which read as follows: “The authority provided by paragraph (1)(B) expires September 30, 2003. The Secretary of Defense or the Secretary of a military department may not pay the costs of permanently relocating a facility under such paragraph unless the Secretary—
+Pub. L. 108–136, § 313(a)(2), struck out par. (2) which read as follows: “The authority provided by paragraph (1)(B) expires September 30, 2003. The Secretary of Defense or the Secretary of a military department may not pay the costs of permanently relocating a facility under such paragraph unless the Secretary—
 
 “(A) determines that permanent relocation—
 
@@ -1699,21 +1699,21 @@ Pub. L. 108–136, § 313(a)(2), struck out par. (2) which read as follows: �
 
 “(B) submits to Congress written notice of the determination before undertaking the permanent relocation of the facility, including a description of the response action taken or to be taken in connection with the permanent relocation and a statement of the costs incurred or to be incurred in connection with the permanent relocation.”
 
-Subsec. (c)(3). Pub. L. 108–136, § 313(a)(2), struck out par. (3) which read as follows: “If relocation costs are to be paid under paragraph (1)(B) with respect to a facility located on real property described in clause (ii) of such paragraph, the Secretary of Defense or the Secretary of the military department concerned may use only fund transfer mechanisms otherwise available to the Secretary.”
+Subsec. (c)(3). Pub. L. 108–136, § 313(a)(2), struck out par. (3) which read as follows: “If relocation costs are to be paid under paragraph (1)(B) with respect to a facility located on real property described in clause (ii) of such paragraph, the Secretary of Defense or the Secretary of the military department concerned may use only fund transfer mechanisms otherwise available to the Secretary.”
 
-Subsec. (c)(4). Pub. L. 108–136, § 313(a)(3), redesignated par. (4) as (2).
+Subsec. (c)(4). Pub. L. 108–136, § 313(a)(3), redesignated par. (4) as (2).
 
 2001—Subsecs. (b) to (g). Pub. L. 107–107 added subsec. (b) and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
 
-2000—Subsec. (a)(5). Pub. L. 106–398, § 1 [[div. A], title III, § 311(a)], added par. (5).
+2000—Subsec. (a)(5). Pub. L. 106–398, § 1 [[div. A], title III, § 311(a)], added par. (5).
 
-Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title III, § 312], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account only in order to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law. Funds so authorized shall remain available until expended.”
+Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title III, § 312], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account only in order to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law. Funds so authorized shall remain available until expended.”
 
-Subsec. (f). Pub. L. 106–398, § 1 [[div. A], title III, § 311(b)], added subsec. (f).
+Subsec. (f). Pub. L. 106–398, § 1 [[div. A], title III, § 311(b)], added subsec. (f).
 
-1999—Subsec. (c). Pub. L. 106–65, § 1066(a)(27), struck out “United States Code,” after “title 31,”.
+1999—Subsec. (c). Pub. L. 106–65, § 1066(a)(27), struck out “United States Code,” after “title 31,”.
 
-Subsec. (e). Pub. L. 106–65, § 321, substituted “through 2010,” for “through 1999,” in two places.
+Subsec. (e). Pub. L. 106–65, § 321, substituted “through 2010,” for “through 1999,” in two places.
 
 1996—Pub. L. 104–201 substituted “accounts” for “transfer account” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (f) establishing the Defense Environmental Restoration Account and providing for deposits into and withdrawals from the Account.
 
@@ -1737,11 +1737,11 @@ Amendment by Pub. L. 112–239 effective on the later of Oct. 1, 2013, or the da
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–136, div. A, title III, § 313(a), Nov. 24, 2003, 117 Stat. 1430, provided that the amendment made by that section is effective Oct. 1, 2003.
+Pub. L. 108–136, div. A, title III, § 313(a), Nov. 24, 2003, 117 Stat. 1430, provided that the amendment made by that section is effective Oct. 1, 2003.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–201, div. A, title III, § 322(e), Sept. 23, 1996, 110 Stat. 2479, provided that:
+Pub. L. 104–201, div. A, title III, § 322(e), Sept. 23, 1996, 110 Stat. 2479, provided that:
 
 > “The amendments made by this section [amending this section and section 2705 of this title] shall take effect on the later of—
 
@@ -1751,21 +1751,21 @@ Pub. L. 104–201, div. A, title III, § 322(e), Sept. 23, 1996, 110 Stat. 247
 
 **Effective Date**
 
-Pub. L. 99–499, title II, § 211(c), Oct. 17, 1986, 100 Stat. 1726, provided that: “Section 2703(a)(2) of title 10, United States Code, as added by subsection (a), shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1986.”
+Pub. L. 99–499, title II, § 211(c), Oct. 17, 1986, 100 Stat. 1726, provided that: “Section 2703(a)(2) of title 10, United States Code, as added by subsection (a), shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1986.”
 
 **Effect of Amendment by Pub. L. 108–136 on Existing Agreements**
 
-Pub. L. 108–136, div. A, title III, § 313(b), Nov. 24, 2003, 117 Stat. 1430, provided that: “An agreement in effect on September 30, 2003, under section 2703(c)(1)(B) of title 10, United States Code, as in effect on that date, to pay for the costs of permanently relocating a facility because of a release or threatened release of hazardous substances, pollutants, or contaminants shall remain in effect after that date, subject to the terms of the agreement, and costs may be paid in accordance with the terms of the agreement, notwithstanding the amendments made by subsection (a) [amending this section].”
+Pub. L. 108–136, div. A, title III, § 313(b), Nov. 24, 2003, 117 Stat. 1430, provided that: “An agreement in effect on September 30, 2003, under section 2703(c)(1)(B) of title 10, United States Code, as in effect on that date, to pay for the costs of permanently relocating a facility because of a release or threatened release of hazardous substances, pollutants, or contaminants shall remain in effect after that date, subject to the terms of the agreement, and costs may be paid in accordance with the terms of the agreement, notwithstanding the amendments made by subsection (a) [amending this section].”
 
 **References to Defense Environmental Restoration Account**
 
-Pub. L. 104–201, div. A, title III, § 322(b), Sept. 23, 1996, 110 Stat. 2478, provided that: “Any reference to the Defense Environmental Restoration Account in any Federal law, Executive Order, regulation, delegation of authority, or document shall be deemed to refer to the appropriate environmental restoration account established under section 2703(a)(1) of title 10, United States Code (as amended by subsection (a)(1)).”
+Pub. L. 104–201, div. A, title III, § 322(b), Sept. 23, 1996, 110 Stat. 2478, provided that: “Any reference to the Defense Environmental Restoration Account in any Federal law, Executive Order, regulation, delegation of authority, or document shall be deemed to refer to the appropriate environmental restoration account established under section 2703(a)(1) of title 10, United States Code (as amended by subsection (a)(1)).”
 
 **Unobligated Balances in Defense Environmental Restoration Account**
 
-Pub. L. 104–201, div. A, title III, § 322(d), Sept. 23, 1996, 110 Stat. 2479, provided that unobligated balances remaining in the Defense Environmental Restoration Account under this section as of Oct. 1, 1996, would be transferred on such date to the Environmental Restoration Account, Defense, established under this section.
+Pub. L. 104–201, div. A, title III, § 322(d), Sept. 23, 1996, 110 Stat. 2479, provided that unobligated balances remaining in the Defense Environmental Restoration Account under this section as of Oct. 1, 1996, would be transferred on such date to the Environmental Restoration Account, Defense, established under this section.
 
-## § 2704. Commonly found unregulated hazardous substances
+## § 2704. Commonly found unregulated hazardous substances
 
 **(a) Notice to HHS.—**
 
@@ -1805,19 +1805,19 @@ Pub. L. 104–201, div. A, title III, § 322(d), Sept. 23, 1996, 110 Stat. 247
 
 **(f) Functions of HHS To Be Carried Out Through ATSDR.—** The functions of the Secretary of Health and Human Services under this section shall be carried out through the Administrator of the Agency for Toxic Substances and Disease Registry of the Department of Health and Human Services established under section 104(i) of CERCLA (42 U.S.C. 9604(i)).
 
-(Added Pub. L. 99–499, title II, § 211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 102–25, title VII, § 701(j)(10), Apr. 6, 1991, 105 Stat. 116; Pub. L. 108–375, div. A, title X, § 1084(d)(27), Oct. 28, 2004, 118 Stat. 2063.)
+(Added Pub. L. 99–499, title II, § 211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 102–25, title VII, § 701(j)(10), Apr. 6, 1991, 105 Stat. 116; Pub. L. 108–375, div. A, title X, § 1084(d)(27), Oct. 28, 2004, 118 Stat. 2063.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Toxic Substances Control Act, referred to in subsec. (a)(2)(A), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
+The Toxic Substances Control Act, referred to in subsec. (a)(2)(A), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (a)(2)(A), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Safe Drinking Water Act, referred to in subsec. (a)(2)(A), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Clean Air Act, referred to in subsec. (a)(2)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 15B (§ 1857 et seq.) of Title 42. On enactment of Pub. L. 95–95, the Act was reclassified to chapter 85 (§ 7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (a)(2)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 15B (§ 1857 et seq.) of Title 42. On enactment of Pub. L. 95–95, the Act was reclassified to chapter 85 (§ 7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The Clean Water Act, referred to in subsec. (a)(2), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Clean Water Act, referred to in subsec. (a)(2), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 **Amendments**
 
@@ -1825,7 +1825,7 @@ The Clean Water Act, referred to in subsec. (a)(2), is act June 30, 1948, ch. 75
 
 1991—Subsec. (f). Pub. L. 102–25 substituted “Agency for Toxic Substances” for “Agency of Toxic Substances”.
 
-## § 2705. Notice of environmental restoration activities
+## § 2705. Notice of environmental restoration activities
 
 **(a) Expedited Notice.—** The Secretary of Defense shall take such actions as necessary to ensure that the regional offices of the Environmental Protection Agency and appropriate State and local authorities for the State in which a facility under the Secretary’s jurisdiction is located receive prompt notice of each of the following:
 
@@ -1919,15 +1919,15 @@ The Clean Water Act, referred to in subsec. (a)(2), is act June 30, 1948, ch. 75
 
 **(2)** In the case of an installation approved for closure pursuant to such a law, the Department of Defense Base Closure Account established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
-(Added Pub. L. 99–499, title II, § 211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 103–337, div. A, title III, § 326(a)–(c), Oct. 5, 1994, 108 Stat. 2712, 2713; Pub. L. 104–106, div. A, title III, § 324(a)–(d)(1), (e), Feb. 10, 1996, 110 Stat. 252–254; Pub. L. 104–201, div. A, title III, § 322(c), Sept. 23, 1996, 110 Stat. 2479; Pub. L. 108–136, div. A, title III, § 317(b), title X, § 1043(c)(5), Nov. 24, 2003, 117 Stat. 1432, 1612; Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(C), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 117–286, § 4(a)(53), Dec. 27, 2022, 136 Stat. 4311; Pub. L. 118–31, div. A, title III, § 313, Dec. 22, 2023, 137 Stat. 215.)
+(Added Pub. L. 99–499, title II, § 211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 103–337, div. A, title III, § 326(a)–(c), Oct. 5, 1994, 108 Stat. 2712, 2713; Pub. L. 104–106, div. A, title III, § 324(a)–(d)(1), (e), Feb. 10, 1996, 110 Stat. 252–254; Pub. L. 104–201, div. A, title III, § 322(c), Sept. 23, 1996, 110 Stat. 2479; Pub. L. 108–136, div. A, title III, § 317(b), title X, § 1043(c)(5), Nov. 24, 2003, 117 Stat. 1432, 1612; Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(C), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 117–286, § 4(a)(53), Dec. 27, 2022, 136 Stat. 4311; Pub. L. 118–31, div. A, title III, § 313, Dec. 22, 2023, 137 Stat. 215.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (e)(1). Pub. L. 118–31, § 313(1), substituted “upon the request of the technical review committee for an installation, restoration advisory board for an installation, community concerned with respect to an installation, or individual member of such community” for “upon the request of the technical review committee or restoration advisory board for an installation” and “to obtain from covered sources technical assistance for the committee, advisory board, community, or individual (as the case may be) to interpret” for “to obtain for the committee or advisory board, as the case may be, from private sector sources technical assistance for interpreting”.
+2023—Subsec. (e)(1). Pub. L. 118–31, § 313(1), substituted “upon the request of the technical review committee for an installation, restoration advisory board for an installation, community concerned with respect to an installation, or individual member of such community” for “upon the request of the technical review committee or restoration advisory board for an installation” and “to obtain from covered sources technical assistance for the committee, advisory board, community, or individual (as the case may be) to interpret” for “to obtain for the committee or advisory board, as the case may be, from private sector sources technical assistance for interpreting”.
 
-Subsec. (e)(2). Pub. L. 118–31, § 313(2), substituted “technical review committee, restoration advisory board, community, or individual only if the technical assistance—” and subpars. (A) and (B) for “technical review committee or restoration advisory board only if—
+Subsec. (e)(2). Pub. L. 118–31, § 313(2), substituted “technical review committee, restoration advisory board, community, or individual only if the technical assistance—” and subpars. (A) and (B) for “technical review committee or restoration advisory board only if—
 
 “(A) the technical review committee or restoration advisory board demonstrates that the Federal, State, and local agencies responsible for overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technical expertise necessary for achieving the objective for which the technical assistance is to be obtained; or
 
@@ -1937,15 +1937,15 @@ Subsec. (e)(2). Pub. L. 118–31, § 313(2), substituted “technical review c
 
 “(ii) is likely to contribute to community acceptance of environmental restoration activities at the installation.”
 
-Subsec. (e)(3), (4). Pub. L. 118–31, § 313(3), added pars. (3) and (4).
+Subsec. (e)(3), (4). Pub. L. 118–31, § 313(3), added pars. (3) and (4).
 
 2022—Subsec. (d)(2)(C). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
 2013—Subsec. (g)(2). Pub. L. 112–239 substituted “Closure Account” for “Closure Account 1990”.
 
-2003—Subsec. (d)(2)(C). Pub. L. 108–136, § 317(b), added subpar. (C).
+2003—Subsec. (d)(2)(C). Pub. L. 108–136, § 317(b), added subpar. (C).
 
-Subsec. (h). Pub. L. 108–136, § 1043(c)(5), struck out heading and text of subsec. (h). Text read as follows: “In this section, the term ‘base closure law’ means the following:
+Subsec. (h). Pub. L. 108–136, § 1043(c)(5), struck out heading and text of subsec. (h). Text read as follows: “In this section, the term ‘base closure law’ means the following:
 
 “(1) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
 
@@ -1953,17 +1953,17 @@ Subsec. (h). Pub. L. 108–136, § 1043(c)(5), struck out heading and text of 
 
 “(3) Section 2687 of this title.”
 
-1996—Subsec. (d)(2). Pub. L. 104–106, § 324(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall prescribe regulations regarding the characteristics, composition, funding, and establishment of restoration advisory boards pursuant to this subsection. However, the issuance of regulations shall not be a precondition to the establishment of a restoration advisory board or affect the existence or operation of a restoration advisory board established before the date of the enactment of this section.”
+1996—Subsec. (d)(2). Pub. L. 104–106, § 324(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall prescribe regulations regarding the characteristics, composition, funding, and establishment of restoration advisory boards pursuant to this subsection. However, the issuance of regulations shall not be a precondition to the establishment of a restoration advisory board or affect the existence or operation of a restoration advisory board established before the date of the enactment of this section.”
 
-Subsec. (d)(3). Pub. L. 104–106, § 324(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary may provide for the payment of routine administrative expenses of a restoration advisory board from funds available for the operation and maintenance of the installation (or installations) for which the board is established or from the funds available under subsection (e)(3).”
+Subsec. (d)(3). Pub. L. 104–106, § 324(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary may provide for the payment of routine administrative expenses of a restoration advisory board from funds available for the operation and maintenance of the installation (or installations) for which the board is established or from the funds available under subsection (e)(3).”
 
-Subsec. (e). Pub. L. 104–106, § 324(c), added subsec. (e) and struck out former subsec. (e) which authorized Secretary to make technical assistance grants under section 9617(e) of title 42 in connection with installations containing facilities listed on the National Priorities List and to make funds available to facilitate participation on technical review committees and restoration advisory boards relating to environmental restoration activities at other installations.
+Subsec. (e). Pub. L. 104–106, § 324(c), added subsec. (e) and struck out former subsec. (e) which authorized Secretary to make technical assistance grants under section 9617(e) of title 42 in connection with installations containing facilities listed on the National Priorities List and to make funds available to facilitate participation on technical review committees and restoration advisory boards relating to environmental restoration activities at other installations.
 
-Subsec. (g). Pub. L. 104–106, § 324(d)(1), added subsec. (g).
+Subsec. (g). Pub. L. 104–106, § 324(d)(1), added subsec. (g).
 
 Subsec. (g)(1). Pub. L. 104–201 substituted “the environmental restoration account concerned” for “the Defense Environmental Restoration Account established”.
 
-Subsec. (h). Pub. L. 104–106, § 324(e), added subsec. (h).
+Subsec. (h). Pub. L. 104–106, § 324(e), added subsec. (h).
 
 1994—Subsecs. (d) to (f). Pub. L. 103–337 added subsecs. (d) to (f).
 
@@ -1979,7 +1979,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 322(e) of Pub
 
 **Requirements for Restoration Advisory Boards and Exemption From Federal Advisory Committee Act**
 
-Pub. L. 108–136, div. A, title III, § 317(a), Nov. 24, 2003, 117 Stat. 1432, provided that:
+Pub. L. 108–136, div. A, title III, § 317(a), Nov. 24, 2003, 117 Stat. 1432, provided that:
 
 > “The Secretary of Defense shall amend the regulations required by section 2705(d)(2) of title 10, United States Code, relating to the establishment, characteristics, composition, and funding of restoration advisory boards to ensure that each restoration advisory board complies with the following requirements:
 
@@ -2001,7 +2001,7 @@ Pub. L. 108–136, div. A, title III, § 317(a), Nov. 24, 2003, 117 Stat. 1432
 
 **Implementation Requirements for Restoration Advisory Boards**
 
-Pub. L. 103–337, div. A, title III, § 326(d), Oct. 5, 1994, 108 Stat. 2713, provided that:
+Pub. L. 103–337, div. A, title III, § 326(d), Oct. 5, 1994, 108 Stat. 2713, provided that:
 
 > “Not later than 180 days after the date on which the Secretary of Defense announces a decision to establish restoration advisory boards, the Secretary shall—
 
@@ -2011,11 +2011,11 @@ Pub. L. 103–337, div. A, title III, § 326(d), Oct. 5, 1994, 108 Stat. 2713,
 
 **Report on Restoration Advisory Boards and Assistance for Citizen Participation on Committees and Boards**
 
-Pub. L. 103–337, div. A, title III, § 326(e), Oct. 5, 1994, 108 Stat. 2713, directed Secretary of Defense to submit, not later than May 1, 1996, report regarding establishment of restoration advisory boards under subsections (d) and (e) of this section and the expenditure of funds for assistance for citizen participation on technical review committees under subsection (e) of this section.
+Pub. L. 103–337, div. A, title III, § 326(e), Oct. 5, 1994, 108 Stat. 2713, directed Secretary of Defense to submit, not later than May 1, 1996, report regarding establishment of restoration advisory boards under subsections (d) and (e) of this section and the expenditure of funds for assistance for citizen participation on technical review committees under subsection (e) of this section.
 
 **Restrictions on Administrative and Technical Assistance Funding**
 
-Pub. L. 104–106, div. A, title III, § 324(d)(2), Feb. 10, 1996, 110 Stat. 254, provided that:
+Pub. L. 104–106, div. A, title III, § 324(d)(2), Feb. 10, 1996, 110 Stat. 254, provided that:
 
 > **“(2)**
 
@@ -2023,11 +2023,11 @@ Pub. L. 104–106, div. A, title III, § 324(d)(2), Feb. 10, 1996, 110 Stat. 2
 
 > **“(B)** Amounts may not be made available under subsection (g) of such section 2705 after September 15, 1996, unless the Secretary of Defense publishes proposed final or interim final regulations required under subsection (d) of such section, as amended by subsection (a).”
 
-## [§ 2706. Repealed. Pub. L. 112–81, div. A, title X, § 1061(22)(A), Dec. 31, 2011, 125 Stat. 1584]
+## [§ 2706. Repealed. Pub. L. 112–81, div. A, title X, § 1061(22)(A), Dec. 31, 2011, 125 Stat. 1584]
 
-Section, added Pub. L. 99–499, title II, § 211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 101–189, div. A, title III, § 357(a)(1), (2)(A), Nov. 29, 1989, 103 Stat. 1426, 1427; Pub. L. 101–510, div. A, title III, §§ 341, 342(a), Nov. 5, 1990, 104 Stat. 1536, 1537; Pub. L. 103–160, div. A, title X, § 1001(a)–(d), Nov. 30, 1993, 107 Stat. 1742–1744; Pub. L. 103–337, div. A, title X, § 1070(b)(9), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 104–106, div. A, title III, § 324(f), Feb. 10, 1996, 110 Stat. 254; Pub. L. 104–201, div. A, title III, § 321, Sept. 23, 1996, 110 Stat. 2477; Pub. L. 105–85, div. A, title III, §§ 344(a), 345, Nov. 18, 1997, 111 Stat. 1688; Pub. L. 105–261, div. A, title III, § 325, Oct. 17, 1998, 112 Stat. 1965; Pub. L. 106–65, div. A, title III, §§ 322, 323(c)(1), Oct. 5, 1999, 113 Stat. 560, 563; Pub. L. 107–107, div. A, title III, § 315, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 109–163, div. A, title III, § 311, Jan. 6, 2006, 119 Stat. 3190, related to annual reports by the Secretary of Defense to Congress regarding environmental restoration activities, environmental quality programs and other environmental activities, and the Department of Defense’s environmental technology program.
+Section, added Pub. L. 99–499, title II, § 211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 101–189, div. A, title III, § 357(a)(1), (2)(A), Nov. 29, 1989, 103 Stat. 1426, 1427; Pub. L. 101–510, div. A, title III, §§ 341, 342(a), Nov. 5, 1990, 104 Stat. 1536, 1537; Pub. L. 103–160, div. A, title X, § 1001(a)–(d), Nov. 30, 1993, 107 Stat. 1742–1744; Pub. L. 103–337, div. A, title X, § 1070(b)(9), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 104–106, div. A, title III, § 324(f), Feb. 10, 1996, 110 Stat. 254; Pub. L. 104–201, div. A, title III, § 321, Sept. 23, 1996, 110 Stat. 2477; Pub. L. 105–85, div. A, title III, §§ 344(a), 345, Nov. 18, 1997, 111 Stat. 1688; Pub. L. 105–261, div. A, title III, § 325, Oct. 17, 1998, 112 Stat. 1965; Pub. L. 106–65, div. A, title III, §§ 322, 323(c)(1), Oct. 5, 1999, 113 Stat. 560, 563; Pub. L. 107–107, div. A, title III, § 315, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 109–163, div. A, title III, § 311, Jan. 6, 2006, 119 Stat. 3190, related to annual reports by the Secretary of Defense to Congress regarding environmental restoration activities, environmental quality programs and other environmental activities, and the Department of Defense’s environmental technology program.
 
-## § 2707. Environmental restoration projects for environmental responses
+## § 2707. Environmental restoration projects for environmental responses
 
 **(a) Environmental Restoration Projects Authorized.—** The Secretary of Defense or the Secretary of a military department may carry out an environmental restoration project if that Secretary determines that the project is necessary to carry out a response under this chapter or CERCLA.
 
@@ -2037,7 +2037,7 @@ Section, added Pub. L. 99–499, title II, § 211(a)(1)(B), Oct. 17, 1986, 100
 
 **(d) Environmental Restoration Project Defined.—** In this section, the term “environmental restoration project” includes any construction, development, conversion, or extension of a structure, or installation of equipment, in direct support of a response.
 
-(Added Pub. L. 107–314, div. A, title III, § 313(a)(2), Dec. 2, 2002, 116 Stat. 2507; amended Pub. L. 116–92, div. A, title III, § 316(a), Dec. 20, 2019, 133 Stat. 1304; Pub. L. 116–283, div. A, title III, § 314(a), Jan. 1, 2021, 134 Stat. 3514; Pub. L. 118–31, div. A, title III, § 312(f)(1), Dec. 22, 2023, 137 Stat. 215.)
+(Added Pub. L. 107–314, div. A, title III, § 313(a)(2), Dec. 2, 2002, 116 Stat. 2507; amended Pub. L. 116–92, div. A, title III, § 316(a), Dec. 20, 2019, 133 Stat. 1304; Pub. L. 116–283, div. A, title III, § 314(a), Jan. 1, 2021, 134 Stat. 3514; Pub. L. 118–31, div. A, title III, § 312(f)(1), Dec. 22, 2023, 137 Stat. 215.)
 
 **Editorial Notes**
 
@@ -2063,7 +2063,7 @@ A prior section 2707 was renumbered section 2700 of this title.
 
 Nothing in amendment by section 316 of Pub. L. 116–92 to affect any requirement or authority under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.), see section 316(d) of Pub. L. 116–92, set out as a note under section 2700 of this title.
 
-## § 2708. Contracts for handling hazardous waste from defense facilities
+## § 2708. Contracts for handling hazardous waste from defense facilities
 
 **(a) Reimbursement Requirement.—**
 
@@ -2107,31 +2107,31 @@ then the contract may be awarded without including the reimbursement provision r
 
 **(e) Effect on Liability.—** Nothing in this section shall affect the liability of the Federal Government under any Federal or State law or under common law.
 
-(Added Pub. L. 102–190, div. A, title III, § 331(a)(1), Dec. 5, 1991, 105 Stat. 1339; amended Pub. L. 102–484, div. A, title III, § 321, title X, § 1052(36), Oct. 23, 1992, 106 Stat. 2365, 2501; Pub. L. 103–160, div. A, title X, § 1004, Nov. 30, 1993, 107 Stat. 1748.)
+(Added Pub. L. 102–190, div. A, title III, § 331(a)(1), Dec. 5, 1991, 105 Stat. 1339; amended Pub. L. 102–484, div. A, title III, § 321, title X, § 1052(36), Oct. 23, 1992, 106 Stat. 2365, 2501; Pub. L. 103–160, div. A, title X, § 1004, Nov. 30, 1993, 107 Stat. 1748.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Solid Waste Disposal Act, referred to in subsec. (c)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (c)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 **Amendments**
 
 1993—Subsec. (b)(1). Pub. L. 103–160 substituted “fiscal years 1992 through 1996” for “fiscal years 1992 and 1993”.
 
-1992—Subsec. (b)(1). Pub. L. 102–484, § 1052(36)(A), substituted “each contract” for “all contracts” and “any subcontract under any such contract” for “all subcontracts under such contracts”.
+1992—Subsec. (b)(1). Pub. L. 102–484, § 1052(36)(A), substituted “each contract” for “all contracts” and “any subcontract under any such contract” for “all subcontracts under such contracts”.
 
-Pub. L. 102–484, § 321, substituted “fiscal years 1992 and 1993” for “fiscal year 1992”.
+Pub. L. 102–484, § 321, substituted “fiscal years 1992 and 1993” for “fiscal year 1992”.
 
-Subsec. (d). Pub. L. 102–484, § 1052(36)(B), substituted “In” for “For purposes of” in introductory provisions.
+Subsec. (d). Pub. L. 102–484, § 1052(36)(B), substituted “In” for “For purposes of” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 102–190, div. A, title III, § 331(b), Dec. 5, 1991, 105 Stat. 1340, provided that: “Section 2708 of title 10, United States Code, shall apply with respect to contracts entered into after the expiration of the 60-day period beginning on the date of the enactment of this Act [Dec. 5, 1991].”
+Pub. L. 102–190, div. A, title III, § 331(b), Dec. 5, 1991, 105 Stat. 1340, provided that: “Section 2708 of title 10, United States Code, shall apply with respect to contracts entered into after the expiration of the 60-day period beginning on the date of the enactment of this Act [Dec. 5, 1991].”
 
-## § 2709. Investment control process for environmental technologies
+## § 2709. Investment control process for environmental technologies
 
 **(a) Investment Control Process.—** The Secretary of Defense shall ensure that the technology planning process developed to implement section 4811 of this title and section 270(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2469) provides for an investment control process for the selection, prioritization, management, and evaluation of environmental technologies by the Department of Defense, the military departments, and the Defense Agencies.
 
@@ -2143,13 +2143,13 @@ Pub. L. 102–190, div. A, title III, § 331(b), Dec. 5, 1991, 105 Stat. 1340,
 
 **(3)** Annual performance reviews to determine whether the goals and objectives have been achieved and to take appropriate action in the event that they are not achieved.
 
-(Added Pub. L. 106–65, div. A, title III, § 323(b)(1), Oct. 5, 1999, 113 Stat. 562; amended Pub. L. 116–283, div. A, title XVIII, § 1867(e)(2), Jan. 1, 2021, 134 Stat. 4282.)
+(Added Pub. L. 106–65, div. A, title III, § 323(b)(1), Oct. 5, 1999, 113 Stat. 562; amended Pub. L. 116–283, div. A, title XVIII, § 1867(e)(2), Jan. 1, 2021, 134 Stat. 4282.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 270(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2469), referred to in subsec. (a), was formerly set out as a note under section 2501 of this title, prior to repeal by Pub. L. 111–84, div. A, title II, § 241, Oct 28, 2009, 123 Stat. 2237.
+Section 270(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2469), referred to in subsec. (a), was formerly set out as a note under section 2501 of this title, prior to repeal by Pub. L. 111–84, div. A, title II, § 241, Oct 28, 2009, 123 Stat. 2237.
 
 **Amendments**
 
@@ -2163,7 +2163,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Purposes of Section 323 of Pub. L. 106–65**
 
-Pub. L. 106–65, div. A, title III, § 323(a), Oct. 5, 1999, 113 Stat. 562, provided that:
+Pub. L. 106–65, div. A, title III, § 323(a), Oct. 5, 1999, 113 Stat. 562, provided that:
 
 > “The purposes of this section [enacting this section, amending section 2706 of this title, and enacting provisions set out as a note under section 2706 of this title] are—
 
@@ -2175,7 +2175,7 @@ Pub. L. 106–65, div. A, title III, § 323(a), Oct. 5, 1999, 113 Stat. 562, p
 
 > **“(4)** to promote improvement in the performance of environmental technologies by establishing objectives for environmental technology programs, measuring performance against such objectives, and making public reports on the progress made in such performance.”
 
-## § 2710. Inventory of unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (other than operational ranges)
+## § 2710. Inventory of unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (other than operational ranges)
 
 **(a) Inventory Required.—**
 
@@ -2247,13 +2247,13 @@ Pub. L. 106–65, div. A, title III, § 323(a), Oct. 5, 1999, 113 Stat. 562, p
 
 **(7)** The term “United States”, in a geographic sense, means the States, territories, and possessions and associated navigable waters, contiguous zones, and ocean waters of which the natural resources are under the exclusive management authority of the United States.
 
-(Added Pub. L. 107–107, div. A, title III, § 311(a)(1), Dec. 28, 2001, 115 Stat. 1048; amended Pub. L. 108–136, div. A, title X, § 1042(b), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 111–84, div. A, title III, § 318(a), Oct. 28, 2009, 123 Stat. 2250.)
+(Added Pub. L. 107–107, div. A, title III, § 311(a)(1), Dec. 28, 2001, 115 Stat. 1048; amended Pub. L. 108–136, div. A, title X, § 1042(b), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 111–84, div. A, title III, § 318(a), Oct. 28, 2009, 123 Stat. 2250.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2009—Subsec. (a)(2)(B). Pub. L. 111–84 inserted “, including the county, where applicable,” after “political subdivisions of the State”.
+2009—Subsec. (a)(2)(B). Pub. L. 111–84 inserted “, including the county, where applicable,” after “political subdivisions of the State”.
 
 2003—Subsec. (e). Pub. L. 108–136 redesignated pars. (4), (6), (7), (8), and (10) as (3) to (7), respectively, and struck out former pars. (3), (5), and (9) which defined terms “military munitions”, “operational range”, and “unexploded ordnance”, respectively.
 
@@ -2265,7 +2265,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Expedited Use of Appropriate Technology Related to Unexploded Ordnance Detection**
 
-Pub. L. 110–417, [div. A], title III, § 314, Oct. 14, 2008, 122 Stat. 4410, as amended by Pub. L. 111–84, div. A, title X, § 1073(c)(1), Oct. 28, 2009, 123 Stat. 2474, provided that:
+Pub. L. 110–417, [div. A], title III, § 314, Oct. 14, 2008, 122 Stat. 4410, as amended by Pub. L. 111–84, div. A, title X, § 1073(c)(1), Oct. 28, 2009, 123 Stat. 2474, provided that:
 
 > **“(a) Expedited Use of Appropriate Technologies.—** The Secretary of Defense shall expedite the use of appropriate unexploded ordnance detection instrument technology developed through research funded by the Department of Defense or developed by entities other than the Department of Defense.
 
@@ -2285,11 +2285,11 @@ Pub. L. 110–417, [div. A], title III, § 314, Oct. 14, 2008, 122 Stat. 4410,
 
 > **“(c) Unexploded Ordnance Defined.—** In this section, the term ‘unexploded ordnance’ has the meaning given such term in section 101(e)(5) of title 10, United States Code [now 10 U.S.C. 101(f)(5)].”
 
-[Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(1) to section 314 of Pub. L. 110–417, set out above, is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 therein as enacted.]
+[Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(1) to section 314 of Pub. L. 110–417, set out above, is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 therein as enacted.]
 
 **Response Plan for Remediation of Unexploded Ordnance, Discarded Military Munitions, and Munitions Constituents**
 
-Pub. L. 109–364, div. A, title III, § 313(a)–(d), Oct. 17, 2006, 120 Stat. 2138, 2139, provided that:
+Pub. L. 109–364, div. A, title III, § 313(a)–(d), Oct. 17, 2006, 120 Stat. 2138, 2139, provided that:
 
 > **“(a) Performance Goals for Remediation.—** The Secretary of Defense shall set the following remediation goals with regard to unexploded ordnance, discarded military munitions, and munitions constituents:
 
@@ -2329,7 +2329,7 @@ Pub. L. 109–364, div. A, title III, § 313(a)–(d), Oct. 17, 2006, 120 Stat
 
 **Research on Effects of Ocean Disposal of Munitions**
 
-Pub. L. 109–364, div. A, title III, § 314, Oct. 17, 2006, 120 Stat. 2139, provided that:
+Pub. L. 109–364, div. A, title III, § 314, Oct. 17, 2006, 120 Stat. 2139, provided that:
 
 > **“(a) Identification of Disposal Sites.—**
 
@@ -2383,7 +2383,7 @@ Pub. L. 109–364, div. A, title III, § 314, Oct. 17, 2006, 120 Stat. 2139, p
 
 **Initial Inventory**
 
-Pub. L. 107–107, div. A, title III, § 311(b), Dec. 28, 2001, 115 Stat. 1051, provided that:
+Pub. L. 107–107, div. A, title III, § 311(b), Dec. 28, 2001, 115 Stat. 1051, provided that:
 
 > “The requirements of section 2710 of title 10, United States Code, as added by subsection (a), shall be implemented as follows:
 
@@ -2391,7 +2391,7 @@ Pub. L. 107–107, div. A, title III, § 311(b), Dec. 28, 2001, 115 Stat. 1051
 
 > **“(2)** The proposed prioritization protocol required by subsection (b) of such section shall be available for public comment not later than November 30, 2002.”
 
-## § 2711. Annual report on defense environmental programs
+## § 2711. Annual report on defense environmental programs
 
 **(a) Report Required.—** Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report on progress made by environmental programs of the Department of Defense during the preceding fiscal year.
 
@@ -2439,15 +2439,15 @@ Pub. L. 107–107, div. A, title III, § 311(b), Dec. 28, 2001, 115 Stat. 1051
 
 **(C)** advances in technologies for the treatment and disposal such contamination that could reduce or increase long-term costs.
 
-(Added Pub. L. 112–81, div. A, title III, § 317(a), Dec. 31, 2011, 125 Stat. 1359; amended Pub. L. 117–263, div. A, title III, § 314(a), Dec. 23, 2022, 136 Stat. 2503; Pub. L. 119–60, div. A, title III, § 311, Dec. 18, 2025, 139 Stat. 803.)
+(Added Pub. L. 112–81, div. A, title III, § 317(a), Dec. 31, 2011, 125 Stat. 1359; amended Pub. L. 117–263, div. A, title III, § 314(a), Dec. 23, 2022, 136 Stat. 2503; Pub. L. 119–60, div. A, title III, § 311, Dec. 18, 2025, 139 Stat. 803.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (b)(1)(C). Pub. L. 119–60, § 311(1), substituted “sites, including information on the costs associated with investigating and remediating releases of per- and polyfluoroalkyl substances, including—” for “sites; and” and added cls. (i) and (ii).
+2025—Subsec. (b)(1)(C). Pub. L. 119–60, § 311(1), substituted “sites, including information on the costs associated with investigating and remediating releases of per- and polyfluoroalkyl substances, including—” for “sites; and” and added cls. (i) and (ii).
 
-Subsec. (d). Pub. L. 119–60, § 311(2), added subsec. (d).
+Subsec. (d). Pub. L. 119–60, § 311(2), added subsec. (d).
 
 2022—Pub. L. 117–263 added subsecs. (a) to (c) and struck out former subsecs. (a) and (b) which related to report required and definitions, respectively.
 
@@ -2455,7 +2455,7 @@ Subsec. (d). Pub. L. 119–60, § 311(2), added subsec. (d).
 
 **Reporting on Lead Service Lines and Lead Plumbing**
 
-Pub. L. 117–263, div. B, title XXVIII, § 2853, Dec. 23, 2022, 136 Stat. 3009, provided that:
+Pub. L. 117–263, div. B, title XXVIII, § 2853, Dec. 23, 2022, 136 Stat. 3009, provided that:
 
 > **“(a) Initial Report.—** Not later than January 1, 2025, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that includes—
 
@@ -2471,7 +2471,7 @@ Pub. L. 117–263, div. B, title XXVIII, § 2853, Dec. 23, 2022, 136 Stat. 300
 
 > **“(b) Inclusion of Information in Annual Report.—** If, after reviewing the initial report required under subsection (a), the Secretary of Defense finds that any military installation or privatized family housing project is not in compliance with the Lead and Copper Rule, the Secretary shall include in the annual report on defense environmental programs required under section 2711 of title 10, United States Code, for each year after the year in which the initial report is submitted, an update on the efforts of the Secretary, including negotiations with privatized military family housing providers, to fully comply with the Lead and Copper Rule.”
 
-## § 2712. Reporting on usage and spills of aqueous film-forming foam
+## § 2712. Reporting on usage and spills of aqueous film-forming foam
 
 **(a) In General.—** Not later than 48 hours after the Deputy Assistant Secretary of Defense for Environment receives notice of the usage or spill of aqueous film forming foam, either as concentrate or mixed foam, at any military installation, the Deputy Assistant Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives notice of a usage or spill of greater than 10 gallons of concentrate, or greater than 300 gallons of mixed foam. Each such notice shall include each of the following information:
 
@@ -2491,9 +2491,9 @@ Pub. L. 117–263, div. B, title XXVIII, § 2853, Dec. 23, 2022, 136 Stat. 300
 
 **(2)** A description of any coordination with relevant local and State environmental protection agencies.
 
-(Added Pub. L. 116–283, div. A, title III, § 318(a), Jan. 1, 2021, 134 Stat. 3519.)
+(Added Pub. L. 116–283, div. A, title III, § 318(a), Jan. 1, 2021, 134 Stat. 3519.)
 
-## § 2713. Native American lands environmental mitigation program
+## § 2713. Native American lands environmental mitigation program
 
 **(a) Establishment.—** The Secretary of Defense may establish and carry out a program to mitigate the environmental effects of actions by the Department of Defense on Indian lands and on other locations where the Department, an Indian tribe, and the current land owner agree that such mitigation is appropriate.
 
@@ -2535,19 +2535,19 @@ Pub. L. 117–263, div. B, title XXVIII, § 2853, Dec. 23, 2022, 136 Stat. 300
 
 **(e) Limitation.—** Nothing in this section shall be interpreted to require, compel, or otherwise authorize access to any lands without the landowner’s consent.
 
-(Added Pub. L. 116–283, div. A, title III, § 319(a), Jan. 1, 2021, 134 Stat. 3520; amended Pub. L. 118–159, div. A, title III, § 312, Dec. 23, 2024, 138 Stat. 1851.)
+(Added Pub. L. 116–283, div. A, title III, § 319(a), Jan. 1, 2021, 134 Stat. 3520; amended Pub. L. 118–159, div. A, title III, § 312, Dec. 23, 2024, 138 Stat. 1851.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (d)(2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (d)(2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Amendments**
 
 2024—Subsec. (c)(3). Pub. L. 118–159 substituted “five calendar years” for “two calendar years”.
 
-## § 2714. Perfluoroalkyl Substances and Polyfluoroalkyl Substances Task Force
+## § 2714. Perfluoroalkyl Substances and Polyfluoroalkyl Substances Task Force
 
 **(a) In General.—** The Secretary of Defense shall establish a task force to address the effects of the release of perfluoroalkyl substances and polyfluoroalkyl substances from activities of the Department of Defense (in this section referred to as the “PFAS Task Force”).
 
@@ -2589,7 +2589,7 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (d)(2), is Pub. 
 
 **(2)** The term “polyfluoroalkyl substance” means a man-made chemical containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.
 
-(Added Pub. L. 117–81, div. A, title III, § 341(a), Dec. 27, 2021, 135 Stat. 1641; amended Pub. L. 117–263, div. A, title III, § 341(b), Dec. 23, 2022, 136 Stat. 2529; Pub. L. 118–31, div. A, title III, § 331, Dec. 22, 2023, 137 Stat. 221.)
+(Added Pub. L. 117–81, div. A, title III, § 341(a), Dec. 27, 2021, 135 Stat. 1641; amended Pub. L. 117–263, div. A, title III, § 341(b), Dec. 23, 2022, 136 Stat. 2529; Pub. L. 118–31, div. A, title III, § 331, Dec. 22, 2023, 137 Stat. 221.)
 
 **Editorial Notes**
 
@@ -2603,7 +2603,7 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 2022—Subsec. (e)(5), (6). Pub. L. 117–263 added pars. (5) and (6).
 
-## § 2715. Testing for perfluoroalkyl substances and polyfluoroalkyl substances at military installations and facilities of the National Guard
+## § 2715. Testing for perfluoroalkyl substances and polyfluoroalkyl substances at military installations and facilities of the National Guard
 
 **(a) In General.—** Not later than two years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, the Secretary of Defense shall complete preliminary assessment and site inspection testing for perfluoroalkyl substances and polyfluoroalkyl substances at all military installations and facilities of the National Guard located in the United States that are identified as of March 31, 2021, as having a release of perfluoroalkyl substances or polyfluoroalkyl substances.
 
@@ -2623,7 +2623,7 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **(2)** The terms “perfluoroalkyl substance” and “polyfluoroalkyl substance” have the meanings given such terms in section 2714 of this title.
 
-(Added Pub. L. 117–81, div. A, title III, § 341(a), Dec. 27, 2021, 135 Stat. 1642.)
+(Added Pub. L. 117–81, div. A, title III, § 341(a), Dec. 27, 2021, 135 Stat. 1642.)
 
 **Editorial Notes**
 
@@ -2635,7 +2635,7 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Public Disclosure of Results of Department of Defense Testing of Water for Perfluoroalkyl or Polyfluoroalkyl Substances**
 
-Pub. L. 117–81, div. A, title III, § 345, Dec. 27, 2021, 135 Stat. 1645, as amended by Pub. L. 117–263, div. A, title III, § 344, Dec. 23, 2022, 136 Stat. 2530; Pub. L. 118–31, div. A, title III, § 312(f)(2), Dec. 22, 2023, 137 Stat. 215, provided that:
+Pub. L. 117–81, div. A, title III, § 345, Dec. 27, 2021, 135 Stat. 1645, as amended by Pub. L. 117–263, div. A, title III, § 344, Dec. 23, 2022, 136 Stat. 2530; Pub. L. 118–31, div. A, title III, § 312(f)(2), Dec. 22, 2023, 137 Stat. 215, provided that:
 
 > **“(a) Public Disclosure of Results.—**
 
@@ -2685,7 +2685,7 @@ Pub. L. 117–81, div. A, title III, § 345, Dec. 27, 2021, 135 Stat. 1645, as
 
 > **“(6)** The term ‘restoration advisory board’ means a restoration advisory board established pursuant to section 2705(d) of title 10, United States Code.”
 
-## § 2716. Budget justification document for funding relating to perfluoroalkyl substances and polyfluoroalkyl substances
+## § 2716. Budget justification document for funding relating to perfluoroalkyl substances and polyfluoroalkyl substances
 
 The Secretary of Defense shall submit to Congress, concurrent with the submission to Congress of the budget of the President for each fiscal year pursuant to section 1105(a) of title 31, a separate budget justification document that consolidates all information pertaining to activities of the Department of Defense relating to perfluoroalkyl substances or polyfluoroalkyl substances, including funding for and descriptions of—
 
@@ -2699,4 +2699,4 @@ The Secretary of Defense shall submit to Congress, concurrent with the submissio
 
 **(5)** community outreach.
 
-(Added Pub. L. 118–31, div. A, title III, § 332, Dec. 22, 2023, 137 Stat. 222.)
+(Added Pub. L. 118–31, div. A, title III, § 332, Dec. 22, 2023, 137 Stat. 222.)

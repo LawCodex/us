@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 2305—VIETNAM VETERANS OF AMERICA, INC."
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 2305—VIETNAM VETERANS OF AMERICA, INC."
 identifier: "/us/usc/t36/stII/ptB/ch2305"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 2305—VIETNAM VETERANS OF AMERICA, INC.
 
-## § 230501. Definition
+## § 230501. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
 
@@ -25,11 +25,11 @@ For purposes of this chapter, “State” includes the District of Columbia and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230501 | 36:3814. | May 23, 1986, Pub. L. 99–318, § 15, 100 Stat. 476. |
+| 230501 | 36:3814. | May 23, 1986, Pub. L. 99–318, § 15, 100 Stat. 476. |
 
 The words “the Commonwealth of Puerto Rico” are omitted as included in “the territories and possessions of the United States”.
 
-## § 230502. Organization
+## § 230502. Organization
 
 **(a) Federal Charter.—** Vietnam Veterans of America, Inc. (in this chapter, the “corporation”), a nonprofit corporation incorporated in New York, is a federally chartered corporation.
 
@@ -41,14 +41,14 @@ The words “the Commonwealth of Puerto Rico” are omitted as included in “th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230502(a) | 36:3801. | May 23, 1986, Pub. L. 99–318, §§ 1, 18, 100 Stat. 474, 477. |
+| 230502(a) | 36:3801. | May 23, 1986, Pub. L. 99–318, §§ 1, 18, 100 Stat. 474, 477. |
 | 230502(b) | 36:3817. |  |
 
 In subsection (a), the words “incorporated in New York” are substituted for “organized under the laws of the State of New York”, and the words “is a federally chartered corporation” are substituted for “is hereby recognized as such and is granted a charter”, for consistency in the revised title.
 
 In subsection (b), the word “restrictions” is omitted as included in “any provision of this chapter”.
 
-## § 230503. Purposes
+## § 230503. Purposes
 
 The purposes of the corporation are as provided in its articles of incorporation, constitution, and bylaws and include a commitment—
 
@@ -80,11 +80,11 @@ The purposes of the corporation are as provided in its articles of incorporation
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230503 | 36:3803. | May 23, 1986, Pub. L. 99–318, § 3, 100 Stat. 474. |
+| 230503 | 36:3803. | May 23, 1986, Pub. L. 99–318, § 3, 100 Stat. 474. |
 
 Before clause (1), the word “objects” is omitted as included in “purposes”.
 
-## § 230504. Membership
+## § 230504. Membership
 
 **(a) Eligibility.—** Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the constitution and bylaws of the corporation.
 
@@ -96,14 +96,14 @@ Before clause (1), the word “objects” is omitted as included in “purposes�
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230504(a) | 36:3805. | May 23, 1986, Pub. L. 99–318, §§ 5, 8 (related to membership), 100 Stat. 475. |
+| 230504(a) | 36:3805. | May 23, 1986, Pub. L. 99–318, §§ 5, 8 (related to membership), 100 Stat. 475. |
 | 230504(b) | 36:3808 (related to membership). |  |
 
 In subsection (a), the words “Except as provided in this chapter” are substituted for “Except as provided in section 3808 of this title” for consistency in the revised title.
 
 In subsection (b), the words “The terms of membership” are substituted for “In establishing the conditions of membership in the corporation” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 230505. Governing body
+## § 230505. Governing body
 
 **(a) Board of Directors.—** The board of directors and the responsibilities of the board are as provided in the constitution and bylaws of the corporation.
 
@@ -117,13 +117,13 @@ In subsection (b), the words “The terms of membership” are substituted for �
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230505(a) | 36:3806. | May 23, 1986, Pub. L. 99–318, §§ 6, 7, 8 (related to directors and officers), 100 Stat. 475. |
+| 230505(a) | 36:3806. | May 23, 1986, Pub. L. 99–318, §§ 6, 7, 8 (related to directors and officers), 100 Stat. 475. |
 | 230505(b) | 36:3807. |  |
 | 230505(c) | 36:3808 (related to directors and officers). |  |
 
 In subsections (a) and (b), the words “Except as provided in section 3808 of this title” are omitted because the prohibition on discrimination is restated in this section. The words “and in conformity with the laws of the State in which it is incorporated” are omitted as unnecessary.
 
-## § 230506. Powers
+## § 230506. Powers
 
 The corporation has only the powers provided in its articles of incorporation filed in the State of incorporation and in its constitution and bylaws.
 
@@ -133,11 +133,11 @@ The corporation has only the powers provided in its articles of incorporation fi
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230506 | 36:3802. | May 23, 1986, Pub. L. 99–318, § 2, 100 Stat. 474. |
+| 230506 | 36:3802. | May 23, 1986, Pub. L. 99–318, § 2, 100 Stat. 474. |
 
 The words “and subject to the laws of such State” are omitted as unnecessary.
 
-## § 230507. Exclusive right to name, seals, emblems, and badges
+## § 230507. Exclusive right to name, seals, emblems, and badges
 
 The corporation has the exclusive right to use the names “The Vietnam Veterans of America, Inc.”, “Vietnam Veterans of America, Inc.”, and “Vietnam Veterans of America”, and seals, emblems, and badges the corporation adopts. This section does not affect any vested rights.
 
@@ -147,11 +147,11 @@ The corporation has the exclusive right to use the names “The Vietnam Veterans
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230507 | 36:3816. | May 23, 1986, Pub. L. 99–318, § 17, 100 Stat. 476. |
+| 230507 | 36:3816. | May 23, 1986, Pub. L. 99–318, § 17, 100 Stat. 476. |
 
 The word “sole” is omitted as included in “exclusive”. The words “the corporation adopts” are substituted for “as the corporation may lawfully adopt” for consistency in the revised title and to eliminate unnecessary words. The words “This section does not affect any” are substituted for “Nothing in this section shall be construed to interfere or conflict with” for consistency in the revised title. The words “established or” are omitted as included in “vested”.
 
-## § 230508. Restrictions
+## § 230508. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -167,7 +167,7 @@ The word “sole” is omitted as included in “exclusive”. The words “the 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230508(a) | 36:3809(c). | May 23, 1986, Pub. L. 99–318, § 9, 100 Stat. 475. |
+| 230508(a) | 36:3809(c). | May 23, 1986, Pub. L. 99–318, § 9, 100 Stat. 475. |
 | 230508(b) | 36:3809(a). |  |
 | 230508(c) | 36:3809(b). |  |
 | 230508(d) | 36:3809(d). |  |
@@ -178,7 +178,7 @@ In subsection (b), the words “No part of” are omitted as unnecessary. The wo
 
 In subsection (d), the words “by virtue of this chapter” are omitted as unnecessary.
 
-## § 230509. Duty to maintain tax-exempt status
+## § 230509. Duty to maintain tax-exempt status
 
 The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
@@ -188,9 +188,9 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230509 | 36:3815. | May 23, 1986, Pub. L. 99–318, § 16, 100 Stat. 476. |
+| 230509 | 36:3815. | May 23, 1986, Pub. L. 99–318, § 16, 100 Stat. 476. |
 
-## § 230510. Records and inspection
+## § 230510. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -208,11 +208,11 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230510 | 36:3811. | May 23, 1986, Pub. L. 99–318, § 11, 100 Stat. 475. |
+| 230510 | 36:3811. | May 23, 1986, Pub. L. 99–318, § 11, 100 Stat. 475. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code. The words “Nothing in this section shall be construed to contravene any applicable State law” are omitted as unnecessary.
 
-## § 230511. Service of process
+## § 230511. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
@@ -222,11 +222,11 @@ The corporation shall comply with the law on service of process of each State in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230511 | 36:3804. | May 23, 1986, Pub. L. 99–318, § 4, 100 Stat. 475. |
+| 230511 | 36:3804. | May 23, 1986, Pub. L. 99–318, § 4, 100 Stat. 475. |
 
 The words “in furtherance of its corporate purposes” are omitted as unnecessary.
 
-## § 230512. Liability for acts of officers and agents
+## § 230512. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -236,9 +236,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230512 | 36:3810. | May 23, 1986, Pub. L. 99–318, § 10, 100 Stat. 475. |
+| 230512 | 36:3810. | May 23, 1986, Pub. L. 99–318, § 10, 100 Stat. 475. |
 
-## § 230513. Annual report
+## § 230513. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year. The report shall be submitted at the same time as the report of the audit required by section 10101 of this title. The report may not be printed as a public document.
 
@@ -248,7 +248,7 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230513 | 36:3812. | May 23, 1986, Pub. L. 99–318, § 13, 100 Stat. 476. |
+| 230513 | 36:3812. | May 23, 1986, Pub. L. 99–318, § 13, 100 Stat. 476. |
 
 The words “submit an annual report” are substituted for “report annually” for consistency in the revised title.
 

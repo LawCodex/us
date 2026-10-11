@@ -23,33 +23,33 @@ A prior chapter 15, consisting of sections 331 to 335, was renumbered chapter 13
 
 **Amendments**
 
-2016—Pub. L. 114–328, div. A, title X, § 1011(a)(2), title XII, § 1241(a)(1), (*o*)(2), Dec. 23, 2016, 130 Stat. 2385, 2497, 2512, added item 384, renumbered chapter 18 of this title “MILITARY SUPPORT FOR CIVILIAN LAW ENFORCEMENT AGENCIES” as chapter 15, redesignated item 371 “Use of information collected during military operations” as item 271, redesignated item 372 “Use of military equipment and facilities” as item 272, redesignated item 373 “Training and advising civilian law enforcement officials” as item 273, redesignated item 374 “Maintenance and operation of equipment” as item 274, redesignated item 375 “Restriction on direct participation by military personnel” as item 275, redesignated item 376 “Support not to affect adversely military preparedness” as item 276, redesignated item 377 “Reimbursement” as item 277, redesignated item 378 “Nonpreemption of other law” as item 278, redesignated item 379 “Assignment of Coast Guard personnel to naval vessels for law enforcement purposes” as item 279, redesignated item 380 “Enhancement of cooperation with civilian law enforcement officials” as item 280, redesignated item 381 “Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities” as item 281, redesignated item 382 “Emergency situations involving weapons of mass destruction” as item 282, redesignated item 383 “Situations involving bombings of places of public use, Government facilities, public transportation systems, and infrastructure facilities” as item 283, and redesignated item 384 “Support for counterdrug activities and activities to counter transnational organized crime” as item 284.
+2016—Pub. L. 114–328, div. A, title X, § 1011(a)(2), title XII, § 1241(a)(1), (*o*)(2), Dec. 23, 2016, 130 Stat. 2385, 2497, 2512, added item 384, renumbered chapter 18 of this title “MILITARY SUPPORT FOR CIVILIAN LAW ENFORCEMENT AGENCIES” as chapter 15, redesignated item 371 “Use of information collected during military operations” as item 271, redesignated item 372 “Use of military equipment and facilities” as item 272, redesignated item 373 “Training and advising civilian law enforcement officials” as item 273, redesignated item 374 “Maintenance and operation of equipment” as item 274, redesignated item 375 “Restriction on direct participation by military personnel” as item 275, redesignated item 376 “Support not to affect adversely military preparedness” as item 276, redesignated item 377 “Reimbursement” as item 277, redesignated item 378 “Nonpreemption of other law” as item 278, redesignated item 379 “Assignment of Coast Guard personnel to naval vessels for law enforcement purposes” as item 279, redesignated item 380 “Enhancement of cooperation with civilian law enforcement officials” as item 280, redesignated item 381 “Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities” as item 281, redesignated item 382 “Emergency situations involving weapons of mass destruction” as item 282, redesignated item 383 “Situations involving bombings of places of public use, Government facilities, public transportation systems, and infrastructure facilities” as item 283, and redesignated item 384 “Support for counterdrug activities and activities to counter transnational organized crime” as item 284.
 
-2015—Pub. L. 114–92, div. A, title X, § 1082(b), Nov. 25, 2015, 129 Stat. 1003, added item 383.
+2015—Pub. L. 114–92, div. A, title X, § 1082(b), Nov. 25, 2015, 129 Stat. 1003, added item 383.
 
-2011—Pub. L. 111–383, div. A, title X, § 1075(b)(10)(C), Jan. 7, 2011, 124 Stat. 4369, added item 382 and struck out former item 382 “Emergency situations involving chemical or biological weapons of mass destruction”.
+2011—Pub. L. 111–383, div. A, title X, § 1075(b)(10)(C), Jan. 7, 2011, 124 Stat. 4369, added item 382 and struck out former item 382 “Emergency situations involving chemical or biological weapons of mass destruction”.
 
-2008—Pub. L. 110–417, [div. A], title VIII, § 885(b)(2), Oct. 14, 2008, 122 Stat. 4561, added item 381 and struck out former item 381 “Procurement by State and local governments of law enforcement equipment suitable for counter-drug activities through the Department of Defense”.
+2008—Pub. L. 110–417, [div. A], title VIII, § 885(b)(2), Oct. 14, 2008, 122 Stat. 4561, added item 381 and struck out former item 381 “Procurement by State and local governments of law enforcement equipment suitable for counter-drug activities through the Department of Defense”.
 
-1996—Pub. L. 104–201, div. A, title XIV, § 1416(a)(2), Sept. 23, 1996, 110 Stat. 2723, added item 382.
+1996—Pub. L. 104–201, div. A, title XIV, § 1416(a)(2), Sept. 23, 1996, 110 Stat. 2723, added item 382.
 
-1993—Pub. L. 103–160, div. A, title XI, § 1122(a)(2), Nov. 30, 1993, 107 Stat. 1755, added item 381.
+1993—Pub. L. 103–160, div. A, title XI, § 1122(a)(2), Nov. 30, 1993, 107 Stat. 1755, added item 381.
 
-1989—Pub. L. 101–189, div. A, title XII, § 1216(a), Nov. 29, 1989, 103 Stat. 1569, in chapter heading substituted “18” for “8”.
+1989—Pub. L. 101–189, div. A, title XII, § 1216(a), Nov. 29, 1989, 103 Stat. 1569, in chapter heading substituted “18” for “8”.
 
-1988—Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2043, amended chapter analysis generally substituting, in chapter heading “CHAPTER 8—MILITARY SUPPORT FOR CIVILIAN LAW ENFORCEMENT AGENCIES” for “CHAPTER 18—MILITARY COOPERATION WITH CIVILIAN LAW ENFORCEMENT OFFICIALS”, in item 374 “Maintenance and operation of equipment” for “Assistance by Department of Defense personnel”, in item 376 “Support not to affect adversely military preparedness” for “Assistance not to affect adversely military preparedness” and in item 380 “Enhancement of cooperation with civilian law enforcement officials” for “Department of Defense drug law enforcement assistance: annual plan”.
+1988—Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2043, amended chapter analysis generally substituting, in chapter heading “CHAPTER 8—MILITARY SUPPORT FOR CIVILIAN LAW ENFORCEMENT AGENCIES” for “CHAPTER 18—MILITARY COOPERATION WITH CIVILIAN LAW ENFORCEMENT OFFICIALS”, in item 374 “Maintenance and operation of equipment” for “Assistance by Department of Defense personnel”, in item 376 “Support not to affect adversely military preparedness” for “Assistance not to affect adversely military preparedness” and in item 380 “Enhancement of cooperation with civilian law enforcement officials” for “Department of Defense drug law enforcement assistance: annual plan”.
 
-1987—Pub. L. 100–180, div. A, title XII, § 1243(b), Dec. 4, 1987, 101 Stat. 1164, added item 380.
+1987—Pub. L. 100–180, div. A, title XII, § 1243(b), Dec. 4, 1987, 101 Stat. 1164, added item 380.
 
-1986—Pub. L. 99–570, title III, § 3053(b)(2), Oct. 27, 1986, 100 Stat. 3207–76, added item 379.
+1986—Pub. L. 99–570, title III, § 3053(b)(2), Oct. 27, 1986, 100 Stat. 3207–76, added item 379.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Department of Defense Authority To Provide Assistance To Secure the Southern Land Border of the United States**
 
-Pub. L. 114–92, div. A, title X, § 1059, Nov. 25, 2015, 129 Stat. 986, as amended by Pub. L. 116–283, div. A, title X, § 1056(a), (b), Jan. 1, 2021, 134 Stat. 3855, which authorized Department of Defense to provide assistance to secure the southern land border of the United States, was transferred by Pub. L. 116–283, div. A, title X, § 1056(c), Jan. 1, 2021, 134 Stat. 3856, and is set out as a note under section 284 of this title.
+Pub. L. 114–92, div. A, title X, § 1059, Nov. 25, 2015, 129 Stat. 986, as amended by Pub. L. 116–283, div. A, title X, § 1056(a), (b), Jan. 1, 2021, 134 Stat. 3855, which authorized Department of Defense to provide assistance to secure the southern land border of the United States, was transferred by Pub. L. 116–283, div. A, title X, § 1056(c), Jan. 1, 2021, 134 Stat. 3856, and is set out as a note under section 284 of this title.
 
-## § 271. Use of information collected during military operations
+## § 271. Use of information collected during military operations
 
 **(a)** The Secretary of Defense may, in accordance with other applicable law, provide to Federal, State, or local civilian law enforcement officials any information collected during the normal course of military training or operations that may be relevant to a violation of any Federal or State law within the jurisdiction of such officials.
 
@@ -57,13 +57,13 @@ Pub. L. 114–92, div. A, title X, § 1059, Nov. 25, 2015, 129 Stat. 986, as a
 
 **(c)** The Secretary of Defense shall ensure, to the extent consistent with national security, that intelligence information held by the Department of Defense and relevant to drug interdiction or other civilian law enforcement matters is provided promptly to appropriate civilian law enforcement officials.
 
-(Added Pub. L. 97–86, title IX, § 905(a)(1), Dec. 1, 1981, 95 Stat. 1115, § 371; amended Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2043; renumbered § 271, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 97–86, title IX, § 905(a)(1), Dec. 1, 1981, 95 Stat. 1115, § 371; amended Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2043; renumbered § 271, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 271, added Pub. L. 85–861, § 1(5)(A), Sept. 2, 1958, 72 Stat. 1438; amended Pub. L. 95–485, title IV, § 405(b), Oct. 20, 1978, 92 Stat. 1615, related to system of continuous screening of units and members of Ready Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10149 of this title.
+A prior section 271, added Pub. L. 85–861, § 1(5)(A), Sept. 2, 1958, 72 Stat. 1438; amended Pub. L. 95–485, title IV, § 405(b), Oct. 20, 1978, 92 Stat. 1615, related to system of continuous screening of units and members of Ready Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10149 of this title.
 
 **Amendments**
 
@@ -75,11 +75,11 @@ A prior section 271, added Pub. L. 85–861, § 1(5)(A), Sept. 2, 1958, 72 Sta
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–570, title III, § 3051, Oct. 27, 1986, 100 Stat. 3207–74, provided that: “This subtitle [subtitle A (§§ 3051–3059) of title III of Pub. L. 99–570, enacting section 379 of this title, amending sections 374 and 911 of this title, enacting provisions set out as notes under sections 374, 525, and 9441 of this title, and repealing provisions set out as a note under section 89 of Title 14, Coast Guard] may be cited as the ‘Defense Drug Interdiction Assistance Act’.”
+Pub. L. 99–570, title III, § 3051, Oct. 27, 1986, 100 Stat. 3207–74, provided that: “This subtitle [subtitle A (§§ 3051–3059) of title III of Pub. L. 99–570, enacting section 379 of this title, amending sections 374 and 911 of this title, enacting provisions set out as notes under sections 374, 525, and 9441 of this title, and repealing provisions set out as a note under section 89 of Title 14, Coast Guard] may be cited as the ‘Defense Drug Interdiction Assistance Act’.”
 
 **Enhancement of Information Sharing and Coordination of Military Training Between Department of Homeland Security and Department of Defense**
 
-Pub. L. 114–328, div. A, title X, § 1014, Dec. 23, 2016, 130 Stat. 2386, as amended by Pub. L. 116–92, div. A, title X, § 1053, Dec. 20, 2019, 133 Stat. 1591; Pub. L. 117–81, div. A, title X, § 1063, Dec. 27, 2021, 135 Stat. 1909; Pub. L. 117–263, div. A, title X, § 1058, Dec. 23, 2022, 136 Stat. 2780; Pub. L. 118–31, div. A, title X, § 1062, Dec. 22, 2023, 137 Stat. 400, provided that:
+Pub. L. 114–328, div. A, title X, § 1014, Dec. 23, 2016, 130 Stat. 2386, as amended by Pub. L. 116–92, div. A, title X, § 1053, Dec. 20, 2019, 133 Stat. 1591; Pub. L. 117–81, div. A, title X, § 1063, Dec. 27, 2021, 135 Stat. 1909; Pub. L. 117–263, div. A, title X, § 1058, Dec. 23, 2022, 136 Stat. 2780; Pub. L. 118–31, div. A, title X, § 1062, Dec. 22, 2023, 137 Stat. 400, provided that:
 
 > **“(a) In General.—** The Secretary of Homeland Security shall ensure that the information needs of the Department of Homeland Security relating to civilian law enforcement activities in proximity to the international borders of the United States are identified and communicated to the Secretary of Defense for the purposes of the planning and executing of military training by the Department of Defense.
 
@@ -151,7 +151,7 @@ Pub. L. 114–328, div. A, title X, § 1014, Dec. 23, 2016, 130 Stat. 2386, as
 
 **Authority for Joint Task Forces to Provide Support to Law Enforcement Agencies Conducting Counter-Terrorism Activities**
 
-Pub. L. 108–136, div. A, title X, § 1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, § 1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, § 1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, [div. A], title X, § 1022, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 111–84, div. A, title X, § 1012, Oct. 28, 2009, 123 Stat. 2441; Pub. L. 111–383, div. A, title X, § 1012(a)–(b)(2), Jan. 7, 2011, 124 Stat. 4346, 4347; Pub. L. 112–81, div. A, title X, § 1004(a), Dec. 31, 2011, 125 Stat. 1556; Pub. L. 112–239, div. A, title X, § 1011, Jan. 2, 2013, 126 Stat. 1907; Pub. L. 113–66, div. A, title X, § 1012, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, § 1014, Dec. 19, 2014, 128 Stat. 3484; Pub. L. 115–91, div. A, title X, § 1081(i), Dec. 12, 2017, 131 Stat. 1601; Pub. L. 116–92, div. A, title X, § 1022, Dec. 20, 2019, 133 Stat. 1578; Pub. L. 117–81, div. A, title X, § 1008, Dec. 27, 2021, 135 Stat. 1889; Pub. L. 119–60, div. A, title X, § 1031, Dec. 18, 2025, 139 Stat. 1034, provided that:
+Pub. L. 108–136, div. A, title X, § 1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, § 1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, § 1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, [div. A], title X, § 1022, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 111–84, div. A, title X, § 1012, Oct. 28, 2009, 123 Stat. 2441; Pub. L. 111–383, div. A, title X, § 1012(a)–(b)(2), Jan. 7, 2011, 124 Stat. 4346, 4347; Pub. L. 112–81, div. A, title X, § 1004(a), Dec. 31, 2011, 125 Stat. 1556; Pub. L. 112–239, div. A, title X, § 1011, Jan. 2, 2013, 126 Stat. 1907; Pub. L. 113–66, div. A, title X, § 1012, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, § 1014, Dec. 19, 2014, 128 Stat. 3484; Pub. L. 115–91, div. A, title X, § 1081(i), Dec. 12, 2017, 131 Stat. 1601; Pub. L. 116–92, div. A, title X, § 1022, Dec. 20, 2019, 133 Stat. 1578; Pub. L. 117–81, div. A, title X, § 1008, Dec. 27, 2021, 135 Stat. 1889; Pub. L. 119–60, div. A, title X, § 1031, Dec. 18, 2025, 139 Stat. 1034, provided that:
 
 > **“(a) Authority.—** A joint task force of the Department of Defense that provides support to law enforcement agencies conducting counter-drug activities may also provide, subject to all applicable laws and regulations, support to law enforcement agencies conducting counter-terrorism activities or counter-transnational organized crime activities.
 
@@ -179,19 +179,19 @@ Pub. L. 108–136, div. A, title X, § 1022, Nov. 24, 2003, 117 Stat. 1594, as
 
 > **“(2)** For purposes of applying the definition of transnational organized crime under paragraph (1) to this section, the term ‘illegal means’, as it appears in such definition, includes the trafficking of money, human trafficking, illicit financial flows, illegal trade in natural resources and wildlife, trade in illegal drugs and weapons, and other forms of illegal means determined by the Secretary of Defense.”
 
-[Pub. L. 112–81, div. A, title X, § 1004(b), Dec. 31, 2011, 125 Stat. 1556, provided that: “The authority in section 1022 of the National Defense Authorization Act for Fiscal Year 2004 [Pub. L. 108–136, set out above], as amended by subsection (a), may not be exercised unless the Secretary of Defense certifies to Congress, in writing, that the Department of Defense is in compliance with the provisions of paragraph (2) of subsection (d) of such section, as added by section 1012(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4346).” ]
+[Pub. L. 112–81, div. A, title X, § 1004(b), Dec. 31, 2011, 125 Stat. 1556, provided that: “The authority in section 1022 of the National Defense Authorization Act for Fiscal Year 2004 [Pub. L. 108–136, set out above], as amended by subsection (a), may not be exercised unless the Secretary of Defense certifies to Congress, in writing, that the Department of Defense is in compliance with the provisions of paragraph (2) of subsection (d) of such section, as added by section 1012(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4346).” ]
 
-## § 272. Use of military equipment and facilities
+## § 272. Use of military equipment and facilities
 
 The Secretary of Defense may, in accordance with other applicable law, make available any equipment (including associated supplies or spare parts), base facility, or research facility of the Department of Defense to any Federal, State, or local civilian law enforcement official for law enforcement purposes.
 
-(Added Pub. L. 97–86, title IX, § 905(a)(1), Dec. 1, 1981, 95 Stat. 1115, § 372; amended Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 104–106, div. A, title III, § 378, Feb. 10, 1996, 110 Stat. 284; Pub. L. 104–201, div. A, title XIV, § 1416(b), Sept. 23, 1996, 110 Stat. 2723; Pub. L. 112–239, div. A, title III, § 351, Jan. 2, 2013, 126 Stat. 1701; renumbered § 272, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 97–86, title IX, § 905(a)(1), Dec. 1, 1981, 95 Stat. 1115, § 372; amended Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 104–106, div. A, title III, § 378, Feb. 10, 1996, 110 Stat. 284; Pub. L. 104–201, div. A, title XIV, § 1416(b), Sept. 23, 1996, 110 Stat. 2723; Pub. L. 112–239, div. A, title III, § 351, Jan. 2, 2013, 126 Stat. 1701; renumbered § 272, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 272, added Pub. L. 85–861, § 1(5)(A), Sept. 2, 1958, 72 Stat. 1438; amended Pub. L. 96–513, title V, § 511(8), Dec. 12, 1980, 94 Stat. 2920, related to transfers back from Standby Reserve to Ready Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10150 of this title.
+A prior section 272, added Pub. L. 85–861, § 1(5)(A), Sept. 2, 1958, 72 Stat. 1438; amended Pub. L. 96–513, title V, § 511(8), Dec. 12, 1980, 94 Stat. 2920, related to transfers back from Standby Reserve to Ready Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10150 of this title.
 
 **Amendments**
 
@@ -209,7 +209,7 @@ Subsec. (b)(1). Pub. L. 104–201 inserted at end “The requirement for a deter
 
 **Congressional Notification of Support for Immigration Enforcement Operations**
 
-Pub. L. 119–60, div. A, title X, § 1053(a), Dec. 18, 2025, 139 Stat. 1043, provided that:
+Pub. L. 119–60, div. A, title X, § 1053(a), Dec. 18, 2025, 139 Stat. 1043, provided that:
 
 > “Not later than seven calendar days after Department of Defense aircraft are used in support of alien removal operations by the Department of Homeland Security, the Secretary of Defense shall provide written notification to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the following:
 
@@ -237,7 +237,7 @@ Pub. L. 119–60, div. A, title X, § 1053(a), Dec. 18, 2025, 139 Stat. 1043, 
 
 **Notification of Aliens Held at Installations of Department of Defense**
 
-Pub. L. 119–60, div. A, title X, § 1053(b), Dec. 18, 2025, 139 Stat. 1044, provided that:
+Pub. L. 119–60, div. A, title X, § 1053(b), Dec. 18, 2025, 139 Stat. 1044, provided that:
 
 > **“(1) In general.—** Not later than 30 days after the date of the enactment of this Act [Dec. 18, 2025], and not less frequently every 90 days thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives written notice of the following:
 
@@ -249,7 +249,7 @@ Pub. L. 119–60, div. A, title X, § 1053(b), Dec. 18, 2025, 139 Stat. 1044, 
 
 **Support for Non-Federal Development and Testing of Material for Chemical Agent Defense**
 
-Pub. L. 110–181, div. A, title X, § 1034, Jan. 28, 2008, 122 Stat. 308, as amended by Pub. L. 114–328, div. A, title X, § 1043, Dec. 23, 2016, 130 Stat. 2393; Pub. L. 115–232, div. A, title VIII, § 813(b)(2), Aug. 13, 2018, 132 Stat. 1851, provided that:
+Pub. L. 110–181, div. A, title X, § 1034, Jan. 28, 2008, 122 Stat. 308, as amended by Pub. L. 114–328, div. A, title X, § 1043, Dec. 23, 2016, 130 Stat. 2393; Pub. L. 115–232, div. A, title VIII, § 813(b)(2), Aug. 13, 2018, 132 Stat. 1851, provided that:
 
 > **“(a) Authority to Provide Toxic Chemicals or Precursors.—**
 
@@ -279,29 +279,29 @@ Pub. L. 110–181, div. A, title X, § 1034, Jan. 28, 2008, 122 Stat. 308, as 
 
 > **“(C)** Section 73.3 or section 73.4 of title 42, Code of Federal Regulations.”
 
-## § 273. Training and advising civilian law enforcement officials
+## § 273. Training and advising civilian law enforcement officials
 
 The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available—
 
-**(1)** to train Federal, State, and local civilian law enforcement officials in the operation and maintenance of equipment, including equipment made available under section 372 1
+**(1)** to train Federal, State, and local civilian law enforcement officials in the operation and maintenance of equipment, including equipment made available under section 372 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and
 
 **(2)** to provide such law enforcement officials with expert advice relevant to the purposes of this chapter.
 
-(Added Pub. L. 97–86, title IX, § 905(a)(1), Dec. 1, 1981, 95 Stat. 1115, § 373; amended Pub. L. 99–145, title XIV, § 1423(a), Nov. 8, 1985, 99 Stat. 752; Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2043; renumbered § 273, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 97–86, title IX, § 905(a)(1), Dec. 1, 1981, 95 Stat. 1115, § 373; amended Pub. L. 99–145, title XIV, § 1423(a), Nov. 8, 1985, 99 Stat. 752; Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2043; renumbered § 273, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 372 of this title, referred to in par. (1), was renumbered section 272 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Section 372 of this title, referred to in par. (1), was renumbered section 272 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 **Prior Provisions**
 
-A prior section 273, act Aug. 10, 1956, ch. 1041, 70A Stat. 13, related to composition of Standby Reserve and maintenance of inactive status list in Standby Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See sections 10151 to 10153 of this title.
+A prior section 273, act Aug. 10, 1956, ch. 1041, 70A Stat. 13, related to composition of Standby Reserve and maintenance of inactive status list in Standby Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See sections 10151 to 10153 of this title.
 
 **Amendments**
 
@@ -315,19 +315,19 @@ A prior section 273, act Aug. 10, 1956, ch. 1041, 70A Stat. 13, related to compo
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–145, title XIV, § 1423(b), Nov. 8, 1985, 99 Stat. 752, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 1986.”
+Pub. L. 99–145, title XIV, § 1423(b), Nov. 8, 1985, 99 Stat. 752, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 1986.”
 
-## § 274. Maintenance and operation of equipment
+## § 274. Maintenance and operation of equipment
 
-**(a)** The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available for the maintenance of equipment for Federal, State, and local civilian law enforcement officials, including equipment made available under section 372 1
+**(a)** The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available for the maintenance of equipment for Federal, State, and local civilian law enforcement officials, including equipment made available under section 372 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
 **(b)**
 
-**(1)** Subject to paragraph (2) and in accordance with other applicable law, the Secretary of Defense may, upon request from the head of a Federal law enforcement agency, make Department of Defense personnel available to operate equipment (including equipment made available under section 372 <sup>1</sup> of this title) with respect to—
+**(1)** Subject to paragraph (2) and in accordance with other applicable law, the Secretary of Defense may, upon request from the head of a Federal law enforcement agency, make Department of Defense personnel available to operate equipment (including equipment made available under section 372 <sup>1</sup> of this title) with respect to—
 
 **(A)** a criminal violation of a provision of law specified in paragraph (4)(A);
 
@@ -377,23 +377,23 @@ of this title.
 
 **(c)** The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available to any Federal, State, or local civilian law enforcement agency to operate equipment for purposes other than described in subsection (b)(2) only to the extent that such support does not involve direct participation by such personnel in a civilian law enforcement operation unless such direct participation is otherwise authorized by law.
 
-(Added Pub. L. 97–86, title IX, § 905(a)(1), Dec. 1, 1981, 95 Stat. 1115, § 374; amended Pub. L. 98–525, title XIV, § 1405(9), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–570, title III, § 3056, Oct. 27, 1986, 100 Stat. 3207–77; Pub. L. 99–661, div. A, title XIII, § 1373(c), Nov. 14, 1986, 100 Stat. 4007; Pub. L. 100–418, title I, § 1214(a)(1), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 101–189, div. A, title XII, §§ 1210, 1216(b), (c), Nov. 29, 1989, 103 Stat. 1566, 1569; Pub. L. 102–484, div. A, title X, § 1042, Oct. 23, 1992, 106 Stat. 2492; Pub. L. 105–277, div. B, title II, § 201, Oct. 21, 1998, 112 Stat. 2681–567; Pub. L. 106–65, div. A, title X, § 1066(a)(4), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–304, § 17(a)(1), Oct. 6, 2006, 120 Stat. 1706; renumbered § 274, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 97–86, title IX, § 905(a)(1), Dec. 1, 1981, 95 Stat. 1115, § 374; amended Pub. L. 98–525, title XIV, § 1405(9), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–570, title III, § 3056, Oct. 27, 1986, 100 Stat. 3207–77; Pub. L. 99–661, div. A, title XIII, § 1373(c), Nov. 14, 1986, 100 Stat. 4007; Pub. L. 100–418, title I, § 1214(a)(1), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 101–189, div. A, title XII, §§ 1210, 1216(b), (c), Nov. 29, 1989, 103 Stat. 1566, 1569; Pub. L. 102–484, div. A, title X, § 1042, Oct. 23, 1992, 106 Stat. 2492; Pub. L. 105–277, div. B, title II, § 201, Oct. 21, 1998, 112 Stat. 2681–567; Pub. L. 106–65, div. A, title X, § 1066(a)(4), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–304, § 17(a)(1), Oct. 6, 2006, 120 Stat. 1706; renumbered § 274, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 372 of this title, referred to in subsecs. (a) and (b)(1), was renumbered section 272 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Section 372 of this title, referred to in subsecs. (a) and (b)(1), was renumbered section 272 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
-The Controlled Substances Act, referred to in subsec. (b)(4)(A)(i), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (b)(4)(A)(i), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsec. (b)(4)(A)(i), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of the Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
+The Controlled Substances Import and Export Act, referred to in subsec. (b)(4)(A)(i), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of the Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(4)(A)(iii), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 **Prior Provisions**
 
-A prior section 274, acts Aug. 10, 1956, ch. 1041, 70A Stat. 13; June 30, 1960, Pub. L. 86–559, § 1(2)(B), 74 Stat. 264; Dec. 12, 1980, Pub. L. 96–513, title V, § 511(9), 94 Stat. 2920, related to composition of Retired Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10154 of this title.
+A prior section 274, acts Aug. 10, 1956, ch. 1041, 70A Stat. 13; June 30, 1960, Pub. L. 86–559, § 1(2)(B), 74 Stat. 264; Dec. 12, 1980, Pub. L. 96–513, title V, § 511(9), 94 Stat. 2920, related to composition of Retired Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10154 of this title.
 
 **Amendments**
 
@@ -401,39 +401,39 @@ A prior section 274, acts Aug. 10, 1956, ch. 1041, 70A Stat. 13; June 30, 1960, 
 
 2006—Subsec. (b)(4)(A)(iv). Pub. L. 109–304 substituted “Chapter 705 of title 46” for “The Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
 
-1999—Subsec. (b)(1)(C), (D). Pub. L. 106–65, § 1066(a)(4)(A), realigned margins.
+1999—Subsec. (b)(1)(C), (D). Pub. L. 106–65, § 1066(a)(4)(A), realigned margins.
 
-Subsec. (b)(2)(F)(i). Pub. L. 106–65, § 1066(a)(4)(B), struck out semicolon after “law enforcement personnel;”.
+Subsec. (b)(2)(F)(i). Pub. L. 106–65, § 1066(a)(4)(B), struck out semicolon after “law enforcement personnel;”.
 
-1998—Subsec. (b)(1)(C), (D). Pub. L. 105–277, § 201(1), (2), added subpars. (C) and (D).
+1998—Subsec. (b)(1)(C), (D). Pub. L. 105–277, § 201(1), (2), added subpars. (C) and (D).
 
-Subsec. (b)(2)(F)(i). Pub. L. 105–277, § 201(3), inserted “along with any other civilian or military personnel who are supporting, or conducting, a joint operation with civilian law enforcement personnel;” after “transportation of civilian law enforcement personnel” and struck out “and” at end.
+Subsec. (b)(2)(F)(i). Pub. L. 105–277, § 201(3), inserted “along with any other civilian or military personnel who are supporting, or conducting, a joint operation with civilian law enforcement personnel;” after “transportation of civilian law enforcement personnel” and struck out “and” at end.
 
-Subsec. (b)(2)(F)(ii). Pub. L. 105–277, § 201(4)(A), inserted “and supporting” before “personnel”.
+Subsec. (b)(2)(F)(ii). Pub. L. 105–277, § 201(4)(A), inserted “and supporting” before “personnel”.
 
-Subsec. (b)(2)(F)(iii). Pub. L. 105–277, § 201(4)(B), (C), added cl. (iii).
+Subsec. (b)(2)(F)(iii). Pub. L. 105–277, § 201(4)(B), (C), added cl. (iii).
 
-Subsec. (b)(4)(A). Pub. L. 105–277, § 201(5), substituted “a Federal agency” for “an agency” in introductory provisions.
+Subsec. (b)(4)(A). Pub. L. 105–277, § 201(5), substituted “a Federal agency” for “an agency” in introductory provisions.
 
-Subsec. (b)(4)(A)(v). Pub. L. 105–277, § 201(6), added cl. (v).
+Subsec. (b)(4)(A)(v). Pub. L. 105–277, § 201(6), added cl. (v).
 
-1992—Subsec. (b)(2)(B) to (F). Pub. L. 102–484, § 1042(1), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
+1992—Subsec. (b)(2)(B) to (F). Pub. L. 102–484, § 1042(1), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
 
-Subsec. (b)(3). Pub. L. 102–484, § 1042(2), substituted “paragraph (2)(D)” for “paragraph (2)(C)”.
+Subsec. (b)(3). Pub. L. 102–484, § 1042(2), substituted “paragraph (2)(D)” for “paragraph (2)(C)”.
 
-1989—Subsec. (b)(2)(E). Pub. L. 101–189, § 1210, substituted “and the Attorney General (and the Secretary of State in the case of a law enforcement operation outside of the land area of the United States)” for “, the Attorney General, and the Secretary of State, in connection with a law enforcement operation outside the land area of the United States” in introductory provisions.
+1989—Subsec. (b)(2)(E). Pub. L. 101–189, § 1210, substituted “and the Attorney General (and the Secretary of State in the case of a law enforcement operation outside of the land area of the United States)” for “, the Attorney General, and the Secretary of State, in connection with a law enforcement operation outside the land area of the United States” in introductory provisions.
 
-Subsec. (b)(4)(A)(iii). Pub. L. 101–189, § 1216(b), substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 of the Tariff Schedules of the United States”.
+Subsec. (b)(4)(A)(iii). Pub. L. 101–189, § 1216(b), substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 of the Tariff Schedules of the United States”.
 
-Subsec. (c). Pub. L. 101–189, § 1216(c), substituted “subsection (b)(2)” for “paragraph (2)”.
+Subsec. (c). Pub. L. 101–189, § 1216(c), substituted “subsection (b)(2)” for “paragraph (2)”.
 
 1988—Pub. L. 100–456 substituted “Maintenance and operation of equipment” for “Assistance by Department of Defense personnel” in section catchline, and amended text generally, revising and restating former subsecs. (a) to (d) as subsecs. (a) to (c).
 
 Subsec. (a)(3). Pub. L. 100–418, which directed substitution of “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 of the Tariff Schedules of the United States”, could not be executed because of intervening general amendment by Pub. L. 100–456.
 
-1986—Subsec. (a). Pub. L. 99–570, § 3056(a), inserted provision at end relating to assistance that such agency is authorized to furnish to any foreign government which is involved in the enforcement of similar laws.
+1986—Subsec. (a). Pub. L. 99–570, § 3056(a), inserted provision at end relating to assistance that such agency is authorized to furnish to any foreign government which is involved in the enforcement of similar laws.
 
-Subsec. (c). Pub. L. 99–570, § 3056(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+Subsec. (c). Pub. L. 99–570, § 3056(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
 “(1) In an emergency circumstance, equipment operated by or with the assistance of personnel assigned under subsection (a) may be used outside the land area of the United States (or any territory or possession of the United States) as a base of operations by Federal law enforcement officials to facilitate the enforcement of a law listed in subsection (a) and to transport such law enforcement officials in connection with such operations, if—
 
@@ -459,35 +459,35 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 **Funds for Young Marines Program**
 
-Pub. L. 110–116, div. A, title VIII, § 8030, Nov. 13, 2007, 121 Stat. 1321, provided that: “Notwithstanding any other provision of law, funds available during the current fiscal year and hereafter for ‘Drug Interdiction and Counter-Drug Activities, Defense’ may be obligated for the Young Marines program.”
+Pub. L. 110–116, div. A, title VIII, § 8030, Nov. 13, 2007, 121 Stat. 1321, provided that: “Notwithstanding any other provision of law, funds available during the current fiscal year and hereafter for ‘Drug Interdiction and Counter-Drug Activities, Defense’ may be obligated for the Young Marines program.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 109–289, div. A, title VIII, § 8028, Sept. 29, 2006, 120 Stat. 1279.
+Pub. L. 109–289, div. A, title VIII, § 8028, Sept. 29, 2006, 120 Stat. 1279.
 
-Pub. L. 109–148, div. A, title VIII, § 8033, Dec. 30, 2005, 119 Stat. 2705.
+Pub. L. 109–148, div. A, title VIII, § 8033, Dec. 30, 2005, 119 Stat. 2705.
 
-Pub. L. 108–287, title VIII, § 8037, Aug. 5, 2004, 118 Stat. 978.
+Pub. L. 108–287, title VIII, § 8037, Aug. 5, 2004, 118 Stat. 978.
 
-Pub. L. 108–87, title VIII, § 8037, Sept. 30, 2003, 117 Stat. 1080.
+Pub. L. 108–87, title VIII, § 8037, Sept. 30, 2003, 117 Stat. 1080.
 
-Pub. L. 107–248, title VIII, § 8037, Oct. 23, 2002, 116 Stat. 1544.
+Pub. L. 107–248, title VIII, § 8037, Oct. 23, 2002, 116 Stat. 1544.
 
-Pub. L. 107–117, div. A, title VIII, § 8040, Jan. 10, 2002, 115 Stat. 2256.
+Pub. L. 107–117, div. A, title VIII, § 8040, Jan. 10, 2002, 115 Stat. 2256.
 
-Pub. L. 106–259, title VIII, § 8040, Aug. 9, 2000, 114 Stat. 683.
+Pub. L. 106–259, title VIII, § 8040, Aug. 9, 2000, 114 Stat. 683.
 
-Pub. L. 106–79, title VIII, § 8043, Oct. 25, 1999, 113 Stat. 1240.
+Pub. L. 106–79, title VIII, § 8043, Oct. 25, 1999, 113 Stat. 1240.
 
-Pub. L. 105–262, title VIII, § 8043, Oct. 17, 1998, 112 Stat. 2307.
+Pub. L. 105–262, title VIII, § 8043, Oct. 17, 1998, 112 Stat. 2307.
 
-Pub. L. 105–56, title VIII, § 8047, Oct. 8, 1997, 111 Stat. 1231.
+Pub. L. 105–56, title VIII, § 8047, Oct. 8, 1997, 111 Stat. 1231.
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8048], Sept. 30, 1996, 110 Stat. 3009–71, 3009–99.
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8048], Sept. 30, 1996, 110 Stat. 3009–71, 3009–99.
 
 **Counter-Drug Activities: Conditions on Transfers of Funds and Detailing Personnel; Relationship to Other Law**
 
-Pub. L. 103–337, div. A, title X, § 1011(b)–(d), Oct. 5, 1994, 108 Stat. 2836, provided that:
+Pub. L. 103–337, div. A, title X, § 1011(b)–(d), Oct. 5, 1994, 108 Stat. 2836, provided that:
 
 > **“(b) Condition on Transfer of Funds.—** Funds appropriated for the Department of Defense may not be transferred to a National Drug Control Program agency account except to the extent provided in a law that specifically states—
 
@@ -507,97 +507,97 @@ Pub. L. 103–337, div. A, title X, § 1011(b)–(d), Oct. 5, 1994, 108 Stat. 
 
 **Restriction on Transfer of Funds Available to Department of Defense for Drug Interdiction and Counter-Drug Activities**
 
-Pub. L. 119–75, div. A, title VIII, § 8049(a), Feb. 3, 2026, 140 Stat. 211, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 119–75, div. A, title VIII, § 8049(a), Feb. 3, 2026, 140 Stat. 211, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 118–47, div. A, title VIII, § 8050(a), Mar. 23, 2024, 138 Stat. 496.
+Pub. L. 118–47, div. A, title VIII, § 8050(a), Mar. 23, 2024, 138 Stat. 496.
 
-Pub. L. 117–328, div. C, title VIII, § 8051(a), Dec. 29, 2022, 136 Stat. 4599.
+Pub. L. 117–328, div. C, title VIII, § 8051(a), Dec. 29, 2022, 136 Stat. 4599.
 
-Pub. L. 117–103, div. C, title VIII, § 8052(a), Mar. 15, 2022, 136 Stat. 188.
+Pub. L. 117–103, div. C, title VIII, § 8052(a), Mar. 15, 2022, 136 Stat. 188.
 
-Pub. L. 116–260, div. C, title VIII, § 8047(a), Dec. 27, 2020, 134 Stat. 1316.
+Pub. L. 116–260, div. C, title VIII, § 8047(a), Dec. 27, 2020, 134 Stat. 1316.
 
-Pub. L. 116–93, div. A, title VIII, § 8047(a), Dec. 20, 2019, 133 Stat. 2348.
+Pub. L. 116–93, div. A, title VIII, § 8047(a), Dec. 20, 2019, 133 Stat. 2348.
 
-Pub. L. 115–245, div. A, title VIII, § 8045(a), Sept. 28, 2018, 132 Stat. 3012.
+Pub. L. 115–245, div. A, title VIII, § 8045(a), Sept. 28, 2018, 132 Stat. 3012.
 
-Pub. L. 115–141, div. C, title VIII, § 8045(a), Mar. 23, 2018, 132 Stat. 475.
+Pub. L. 115–141, div. C, title VIII, § 8045(a), Mar. 23, 2018, 132 Stat. 475.
 
-Pub. L. 115–31, div. C, title VIII, § 8047(a), May 5, 2017, 131 Stat. 258.
+Pub. L. 115–31, div. C, title VIII, § 8047(a), May 5, 2017, 131 Stat. 258.
 
-Pub. L. 114–113, div. C, title VIII, § 8046(a), Dec. 18, 2015, 129 Stat. 2362.
+Pub. L. 114–113, div. C, title VIII, § 8046(a), Dec. 18, 2015, 129 Stat. 2362.
 
-Pub. L. 113–235, div. C, title VIII, § 8045(a), Dec. 16, 2014, 128 Stat. 2264.
+Pub. L. 113–235, div. C, title VIII, § 8045(a), Dec. 16, 2014, 128 Stat. 2264.
 
-Pub. L. 113–76, div. C, title VIII, § 8045(a), Jan. 17, 2014, 128 Stat. 115.
+Pub. L. 113–76, div. C, title VIII, § 8045(a), Jan. 17, 2014, 128 Stat. 115.
 
-Pub. L. 113–6, div. C, title VIII, § 8045(a), Mar. 26, 2013, 127 Stat. 308.
+Pub. L. 113–6, div. C, title VIII, § 8045(a), Mar. 26, 2013, 127 Stat. 308.
 
-Pub. L. 112–74, div. A, title VIII, § 8045(a), Dec. 23, 2011, 125 Stat. 817.
+Pub. L. 112–74, div. A, title VIII, § 8045(a), Dec. 23, 2011, 125 Stat. 817.
 
-Pub. L. 112–10, div. A, title VIII, § 8045(a), Apr. 15, 2011, 125 Stat. 67.
+Pub. L. 112–10, div. A, title VIII, § 8045(a), Apr. 15, 2011, 125 Stat. 67.
 
-Pub. L. 111–118, div. A, title VIII, § 8047(a), Dec. 19, 2009, 123 Stat. 3439.
+Pub. L. 111–118, div. A, title VIII, § 8047(a), Dec. 19, 2009, 123 Stat. 3439.
 
-Pub. L. 110–329, div. C, title VIII, § 8047(a), Sept. 30, 2008, 122 Stat. 3631.
+Pub. L. 110–329, div. C, title VIII, § 8047(a), Sept. 30, 2008, 122 Stat. 3631.
 
-Pub. L. 110–116, div. A, title VIII, § 8048(a), Nov. 13, 2007, 121 Stat. 1325.
+Pub. L. 110–116, div. A, title VIII, § 8048(a), Nov. 13, 2007, 121 Stat. 1325.
 
-Pub. L. 109–289, div. A, title VIII, § 8045(a), Sept. 29, 2006, 120 Stat. 1283.
+Pub. L. 109–289, div. A, title VIII, § 8045(a), Sept. 29, 2006, 120 Stat. 1283.
 
-Pub. L. 109–148, div. A, title VIII, § 8052(a), Dec. 30, 2005, 119 Stat. 2709.
+Pub. L. 109–148, div. A, title VIII, § 8052(a), Dec. 30, 2005, 119 Stat. 2709.
 
-Pub. L. 108–287, title VIII, § 8057(a), Aug. 5, 2004, 118 Stat. 983.
+Pub. L. 108–287, title VIII, § 8057(a), Aug. 5, 2004, 118 Stat. 983.
 
-Pub. L. 108–87, title VIII, § 8057(a), Sept. 30, 2003, 117 Stat. 1085.
+Pub. L. 108–87, title VIII, § 8057(a), Sept. 30, 2003, 117 Stat. 1085.
 
-Pub. L. 107–248, title VIII, § 8058(a), Oct. 23, 2002, 116 Stat. 1549.
+Pub. L. 107–248, title VIII, § 8058(a), Oct. 23, 2002, 116 Stat. 1549.
 
-Pub. L. 107–117, div. A, title VIII, § 8063(a), Jan. 10, 2002, 115 Stat. 2261.
+Pub. L. 107–117, div. A, title VIII, § 8063(a), Jan. 10, 2002, 115 Stat. 2261.
 
-Pub. L. 106–259, title VIII, § 8062(a), Aug. 9, 2000, 114 Stat. 688.
+Pub. L. 106–259, title VIII, § 8062(a), Aug. 9, 2000, 114 Stat. 688.
 
-Pub. L. 106–79, title VIII, § 8065(a), Oct. 25, 1999, 113 Stat. 1244.
+Pub. L. 106–79, title VIII, § 8065(a), Oct. 25, 1999, 113 Stat. 1244.
 
-Pub. L. 105–262, title VIII, § 8065(a), Oct. 17, 1998, 112 Stat. 2311.
+Pub. L. 105–262, title VIII, § 8065(a), Oct. 17, 1998, 112 Stat. 2311.
 
-Pub. L. 105–56, title VIII, § 8071(a), Oct. 8, 1997, 111 Stat. 1235.
+Pub. L. 105–56, title VIII, § 8071(a), Oct. 8, 1997, 111 Stat. 1235.
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8080(a)], Sept. 30, 1996, 110 Stat. 3009–71, 3009–104.
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8080(a)], Sept. 30, 1996, 110 Stat. 3009–71, 3009–104.
 
-Pub. L. 104–61, title VIII, § 8096(a), Dec. 1, 1995, 109 Stat. 671.
+Pub. L. 104–61, title VIII, § 8096(a), Dec. 1, 1995, 109 Stat. 671.
 
-Pub. L. 103–335, title VIII, § 8154(a), Sept. 30, 1994, 108 Stat. 2658.
+Pub. L. 103–335, title VIII, § 8154(a), Sept. 30, 1994, 108 Stat. 2658.
 
 **Additional Support for Counter-Drug Activities and Activities To Counter Transnational Organized Crime**
 
-Pub. L. 101–510, div. A, title X, § 1004, Nov. 5, 1990, 104 Stat. 1629, as amended by Pub. L. 102–190, div. A, title X, § 1088(a), Dec. 5, 1991, 105 Stat. 1484; Pub. L. 102–484, div. A, title X, § 1041(a)–(d)(1), Oct. 23, 1992, 106 Stat. 2491; Pub. L. 103–160, div. A, title XI, § 1121(a), (b), Nov. 30, 1993, 107 Stat. 1753; Pub. L. 103–337, div. A, title X, § 1011(a), Oct. 5, 1994, 108 Stat. 2836; Pub. L. 105–261, div. A, title X, § 1021, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 107–107, div. A, title X, § 1021, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 109–364, div. A, title X, § 1021, Oct. 17, 2006, 120 Stat. 2382; Pub. L. 111–383, div. A, title X, § 1015(a), Jan. 7, 2011, 124 Stat. 4347; Pub. L. 112–81, div. A, title X, § 1005, Dec. 31, 2011, 125 Stat. 1556; Pub. L. 113–291, div. A, title X, § 1012, Dec. 19, 2014, 128 Stat. 3483, which authorized the Secretary of Defense, during fiscal years 2012 through 2017, to provide support for the counter-drug activities or activities to counter transnational organized crime of any other department or agency of the Federal Government or of any State, local, tribal, or foreign law enforcement agency, was repealed by Pub. L. 114–328, div. A, title X, § 1011(b), Dec. 23, 2016, 130 Stat. 2385. See section 284 of this title.
+Pub. L. 101–510, div. A, title X, § 1004, Nov. 5, 1990, 104 Stat. 1629, as amended by Pub. L. 102–190, div. A, title X, § 1088(a), Dec. 5, 1991, 105 Stat. 1484; Pub. L. 102–484, div. A, title X, § 1041(a)–(d)(1), Oct. 23, 1992, 106 Stat. 2491; Pub. L. 103–160, div. A, title XI, § 1121(a), (b), Nov. 30, 1993, 107 Stat. 1753; Pub. L. 103–337, div. A, title X, § 1011(a), Oct. 5, 1994, 108 Stat. 2836; Pub. L. 105–261, div. A, title X, § 1021, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 107–107, div. A, title X, § 1021, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 109–364, div. A, title X, § 1021, Oct. 17, 2006, 120 Stat. 2382; Pub. L. 111–383, div. A, title X, § 1015(a), Jan. 7, 2011, 124 Stat. 4347; Pub. L. 112–81, div. A, title X, § 1005, Dec. 31, 2011, 125 Stat. 1556; Pub. L. 113–291, div. A, title X, § 1012, Dec. 19, 2014, 128 Stat. 3483, which authorized the Secretary of Defense, during fiscal years 2012 through 2017, to provide support for the counter-drug activities or activities to counter transnational organized crime of any other department or agency of the Federal Government or of any State, local, tribal, or foreign law enforcement agency, was repealed by Pub. L. 114–328, div. A, title X, § 1011(b), Dec. 23, 2016, 130 Stat. 2385. See section 284 of this title.
 
 **Communications Network**
 
-Pub. L. 100–456, div. A, title XI, § 1103, Sept. 29, 1988, 102 Stat. 2042, related to integration of United States assets dedicated to interdiction of illegal drugs into an effective communications network, prior to repeal by Pub. L. 101–189, div. A, title XII, § 1204(b), Nov. 29, 1989, 103 Stat. 1564. See section 1204(a) of Pub. L. 101–189 set out as a note under section 124 of this title.
+Pub. L. 100–456, div. A, title XI, § 1103, Sept. 29, 1988, 102 Stat. 2042, related to integration of United States assets dedicated to interdiction of illegal drugs into an effective communications network, prior to repeal by Pub. L. 101–189, div. A, title XII, § 1204(b), Nov. 29, 1989, 103 Stat. 1564. See section 1204(a) of Pub. L. 101–189 set out as a note under section 124 of this title.
 
 **Enhanced Drug Interdiction and Enforcement Role for National Guard**
 
-Pub. L. 100–456, div. A, title XI, § 1105, Sept. 29, 1988, 102 Stat. 2047, related to funding and training of National Guard for purpose of drug interdiction and enforcement operations and for operation and maintenance of equipment and facilities for such purpose, prior to repeal by Pub. L. 101–189, div. A, title XII, § 1207(b), Nov. 29, 1989, 103 Stat. 1566. See section 112 of Title 32, National Guard.
+Pub. L. 100–456, div. A, title XI, § 1105, Sept. 29, 1988, 102 Stat. 2047, related to funding and training of National Guard for purpose of drug interdiction and enforcement operations and for operation and maintenance of equipment and facilities for such purpose, prior to repeal by Pub. L. 101–189, div. A, title XII, § 1207(b), Nov. 29, 1989, 103 Stat. 1566. See section 112 of Title 32, National Guard.
 
 **Additional Department of Defense Drug Law Enforcement Assistance**
 
-Pub. L. 99–570, title III, § 3057, Oct. 27, 1986, 100 Stat. 3207–77, provided that the Secretary of Defense was to submit to Congress, within 90 days after Oct. 27, 1986, a list of all forms of assistance that were to be made available by the Department of Defense to civilian drug law enforcement and drug interdiction agencies and a plan for promptly lending equipment and rendering drug interdiction-related assistance included on the list, provided for congressional approval of the list and plan, required the Secretary to convene a conference of the heads of Government agencies with jurisdiction over drug law enforcement to determine the appropriate distribution of the assets or other assistance to be made available by the Department to such agencies, and provided for monitoring of the Department’s performance by the General Accounting Office.
+Pub. L. 99–570, title III, § 3057, Oct. 27, 1986, 100 Stat. 3207–77, provided that the Secretary of Defense was to submit to Congress, within 90 days after Oct. 27, 1986, a list of all forms of assistance that were to be made available by the Department of Defense to civilian drug law enforcement and drug interdiction agencies and a plan for promptly lending equipment and rendering drug interdiction-related assistance included on the list, provided for congressional approval of the list and plan, required the Secretary to convene a conference of the heads of Government agencies with jurisdiction over drug law enforcement to determine the appropriate distribution of the assets or other assistance to be made available by the Department to such agencies, and provided for monitoring of the Department’s performance by the General Accounting Office.
 
-## § 275. Restriction on direct participation by military personnel
+## § 275. Restriction on direct participation by military personnel
 
 The Secretary of Defense shall prescribe such regulations as may be necessary to ensure that any activity (including the provision of any equipment or facility or the assignment or detail of any personnel) under this chapter does not include or permit direct participation by a member of the Army, Navy, Air Force, or Marine Corps in a search, seizure, arrest, or other similar activity unless participation in such activity by such member is otherwise authorized by law.
 
-(Added Pub. L. 97–86, title IX § 905(a)(1), Dec. 1, 1981, 95 Stat. 1116, § 375; amended Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2045; Pub. L. 101–189, div. A, title XII, § 1211, Nov. 29, 1989, 103 Stat. 1567; renumbered § 275, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 97–86, title IX § 905(a)(1), Dec. 1, 1981, 95 Stat. 1116, § 375; amended Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2045; Pub. L. 101–189, div. A, title XII, § 1211, Nov. 29, 1989, 103 Stat. 1567; renumbered § 275, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 275, acts Aug. 10, 1956, ch. 1041, 70A Stat. 13; Sept. 2, 1958, Pub. L. 85–861, § 1(5)(B), 72 Stat. 1439, related to maintenance of personnel records of members of reserve components, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10204 of this title.
+A prior section 275, acts Aug. 10, 1956, ch. 1041, 70A Stat. 13; Sept. 2, 1958, Pub. L. 85–861, § 1(5)(B), 72 Stat. 1439, related to maintenance of personnel records of members of reserve components, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10204 of this title.
 
 **Amendments**
 
@@ -607,17 +607,17 @@ A prior section 275, acts Aug. 10, 1956, ch. 1041, 70A Stat. 13; Sept. 2, 1958, 
 
 1988—Pub. L. 100–456 amended section generally. Prior to amendment, section read as follows: “The Secretary of Defense shall issue such regulations as may be necessary to insure that the provision of any assistance (including the provision of any equipment or facility or the assignment of any personnel) to any civilian law enforcement official under this chapter does not include or permit direct participation by a member of the Army, Navy, Air Force, or Marine Corps in an interdiction of a vessel or aircraft, a search and seizure, arrest, or other similar activity unless participation in such activity by such member is otherwise authorized by law.”
 
-## § 276. Support not to affect adversely military preparedness
+## § 276. Support not to affect adversely military preparedness
 
 Support (including the provision of any equipment or facility or the assignment or detail of any personnel) may not be provided to any civilian law enforcement official under this chapter if the provision of such support will adversely affect the military preparedness of the United States. The Secretary of Defense shall prescribe such regulations as may be necessary to ensure that the provision of any such support does not adversely affect the military preparedness of the United States.
 
-(Added Pub. L. 97–86, title, IX, § 905(a)(1), Dec. 1, 1981, 95 Stat. 1116, § 376; amended Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2045; renumbered § 276, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 97–86, title, IX, § 905(a)(1), Dec. 1, 1981, 95 Stat. 1116, § 376; amended Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2045; renumbered § 276, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 276, acts Aug. 10, 1956, ch. 1041, 70A Stat. 13; Apr. 21, 1987, Pub. L. 100–26, § 7(k)(4), 101 Stat. 284, related to maintenance of mobilization forces, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10207 of this title.
+A prior section 276, acts Aug. 10, 1956, ch. 1041, 70A Stat. 13; Apr. 21, 1987, Pub. L. 100–26, § 7(k)(4), 101 Stat. 284, related to maintenance of mobilization forces, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10207 of this title.
 
 **Amendments**
 
@@ -625,7 +625,7 @@ A prior section 276, acts Aug. 10, 1956, ch. 1041, 70A Stat. 13; Apr. 21, 1987, 
 
 1988—Pub. L. 100–456 substituted “Support” for “Assistance” in section catchline and amended text generally. Prior to amendment, text read as follows: “Assistance (including the provision of any equipment or facility or the assignment of any personnel) may not be provided to any civilian law enforcement official under this chapter if the provision of such assistance will adversely affect the military preparedness of the United States. The Secretary of Defense shall issue such regulations as may be necessary to insure that the provision of any such assistance does not adversely affect the military preparedness of the United States.”
 
-## § 277. Reimbursement
+## § 277. Reimbursement
 
 **(a)** Subject to subsection (c), to the extent otherwise required by section 1535 of title 31 (popularly known as the “Economy Act”) or other applicable law, the Secretary of Defense shall require a civilian law enforcement agency to which support is provided under this chapter to reimburse the Department of Defense for that support.
 
@@ -645,21 +645,21 @@ A prior section 276, acts Aug. 10, 1956, ch. 1041, 70A Stat. 13; Apr. 21, 1987, 
 
 **(2)** results in a benefit to the element of the Department of Defense or personnel of the National Guard providing the support that is substantially equivalent to that which would otherwise be obtained from military operations or training.
 
-(Added Pub. L. 97–86, title IX, § 905(a)(1), Dec. 1, 1981, 95 Stat. 1116, § 377; amended Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2045; Pub. L. 110–181, div. A, title X, § 1061, Jan. 28, 2008, 122 Stat. 319; renumbered § 277, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 97–86, title IX, § 905(a)(1), Dec. 1, 1981, 95 Stat. 1116, § 377; amended Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2045; Pub. L. 110–181, div. A, title X, § 1061, Jan. 28, 2008, 122 Stat. 319; renumbered § 277, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 277, act Aug. 10, 1956, ch. 1041, 70A Stat. 14, prohibited discrimination in administering laws applicable to both Regulars and Reserves, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10209 of this title.
+A prior section 277, act Aug. 10, 1956, ch. 1041, 70A Stat. 14, prohibited discrimination in administering laws applicable to both Regulars and Reserves, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10209 of this title.
 
 **Amendments**
 
 2016—Pub. L. 114–328 renumbered section 377 of this title as this section.
 
-2008—Subsec. (a). Pub. L. 110–181, § 1061(1), substituted “Subject to subsection (c), to the extent” for “To the extent”.
+2008—Subsec. (a). Pub. L. 110–181, § 1061(1), substituted “Subject to subsection (c), to the extent” for “To the extent”.
 
-Subsecs. (b), (c). Pub. L. 110–181, § 1061(2), added subsecs. (b) and (c) and struck out former subsec. (b) which read as follows: “An agency to which support is provided under this chapter is not required to reimburse the Department of Defense for such support if such support—
+Subsecs. (b), (c). Pub. L. 110–181, § 1061(2), added subsecs. (b) and (c) and struck out former subsec. (b) which read as follows: “An agency to which support is provided under this chapter is not required to reimburse the Department of Defense for such support if such support—
 
 “(1) is provided in the normal course of military training or operations; or
 
@@ -667,17 +667,17 @@ Subsecs. (b), (c). Pub. L. 110–181, § 1061(2), added subsecs. (b) and (c) a
 
 1988—Pub. L. 100–456 amended section generally. Prior to amendment, section read as follows: “The Secretary of Defense shall issue regulations providing that reimbursement may be a condition of assistance to a civilian law enforcement official under this chapter.”
 
-## § 278. Nonpreemption of other law
+## § 278. Nonpreemption of other law
 
 Nothing in this chapter shall be construed to limit the authority of the executive branch in the use of military personnel or equipment for civilian law enforcement purposes beyond that provided by law before December 1, 1981.
 
-(Added Pub. L. 97–86, title IX, § 905(a)(1), Dec. 1, 1981, 95 Stat. 1116, § 378; amended Pub. L. 98–525, title XIV, § 1405(10), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2045; renumbered § 278, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 97–86, title IX, § 905(a)(1), Dec. 1, 1981, 95 Stat. 1116, § 378; amended Pub. L. 98–525, title XIV, § 1405(10), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2045; renumbered § 278, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 278, act Aug. 10, 1956, ch. 1041, 70A Stat. 14, related to dissemination of information of interest to reserve components, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10210 of this title.
+A prior section 278, act Aug. 10, 1956, ch. 1041, 70A Stat. 14, related to dissemination of information of interest to reserve components, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10210 of this title.
 
 **Amendments**
 
@@ -687,7 +687,7 @@ A prior section 278, act Aug. 10, 1956, ch. 1041, 70A Stat. 14, related to disse
 
 1984—Pub. L. 98–525 substituted “before December 1, 1981” for “prior to the enactment of this chapter”.
 
-## § 279. Assignment of Coast Guard personnel to naval vessels for law enforcement purposes
+## § 279. Assignment of Coast Guard personnel to naval vessels for law enforcement purposes
 
 **(a)** The Secretary of Defense and the Secretary of Homeland Security shall provide that there be assigned on board every appropriate surface naval vessel at sea in a drug-interdiction area members of the Coast Guard who are trained in law enforcement and have powers of the Coast Guard under title 14, including the power to make arrests and to carry out searches and seizures.
 
@@ -697,27 +697,27 @@ A prior section 278, act Aug. 10, 1956, ch. 1041, 70A Stat. 14, related to disse
 
 **(2)** as are otherwise within the jurisdiction of the Coast Guard.
 
-**(c)** No fewer than 500 active duty personnel of the Coast Guard shall be assigned each fiscal year to duty under this section. However, if at any time the Secretary of Homeland Security, after consultation with the Secretary of Defense, determines that there are insufficient naval vessels available for purposes of this section, such personnel may be assigned other duty involving enforcement of laws listed in section 374(b)(4)(A) 1
+**(c)** No fewer than 500 active duty personnel of the Coast Guard shall be assigned each fiscal year to duty under this section. However, if at any time the Secretary of Homeland Security, after consultation with the Secretary of Defense, determines that there are insufficient naval vessels available for purposes of this section, such personnel may be assigned other duty involving enforcement of laws listed in section 374(b)(4)(A) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-**(d)** In this section, the term “drug-interdiction area” means an area outside the land area of the United States (as defined in section 374(b)(4)(B) <sup>1</sup> of this title) in which the Secretary of Defense (in consultation with the Attorney General) determines that activities involving smuggling of drugs into the United States are ongoing.
+**(d)** In this section, the term “drug-interdiction area” means an area outside the land area of the United States (as defined in section 374(b)(4)(B) <sup>1</sup> of this title) in which the Secretary of Defense (in consultation with the Attorney General) determines that activities involving smuggling of drugs into the United States are ongoing.
 
-(Added Pub. L. 99–570, title III, § 3053(b)(1), Oct. 27, 1986, 100 Stat. 3207–75, § 379; amended Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2045; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; renumbered § 279, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 99–570, title III, § 3053(b)(1), Oct. 27, 1986, 100 Stat. 3207–75, § 379; amended Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2045; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; renumbered § 279, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 374 of this title, referred to in subsecs. (c) and (d), was renumbered section 274 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Section 374 of this title, referred to in subsecs. (c) and (d), was renumbered section 274 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 **Prior Provisions**
 
-A prior section 279, added Pub. L. 103–160, div. A, title VIII, § 822(d)(1), Nov. 30, 1993, 107 Stat. 1707, authorized acceptance of gratuitous services of officers of reserve components, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10212 of this title.
+A prior section 279, added Pub. L. 103–160, div. A, title VIII, § 822(d)(1), Nov. 30, 1993, 107 Stat. 1707, authorized acceptance of gratuitous services of officers of reserve components, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10212 of this title.
 
-Another prior section 279, added Pub. L. 85–861, § 1(5)(C), Sept. 2, 1958, 72 Stat. 1439; amended Pub. L. 94–273, § 11(2), Apr. 21, 1976, 90 Stat. 378, directed Secretary of Defense to report to President and Congress, in January of each year, on the status of training of each reserve component and the progress made in strengthening the reserve components during the preceding fiscal year, prior to repeal by Pub. L. 95–485, § 406(b)(1).
+Another prior section 279, added Pub. L. 85–861, § 1(5)(C), Sept. 2, 1958, 72 Stat. 1439; amended Pub. L. 94–273, § 11(2), Apr. 21, 1976, 90 Stat. 378, directed Secretary of Defense to report to President and Congress, in January of each year, on the status of training of each reserve component and the progress made in strengthening the reserve components during the preceding fiscal year, prior to repeal by Pub. L. 95–485, § 406(b)(1).
 
 **Amendments**
 
@@ -733,7 +733,7 @@ Another prior section 279, added Pub. L. 85–861, § 1(5)(C), Sept. 2, 1958, 
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-## § 280. Enhancement of cooperation with civilian law enforcement officials
+## § 280. Enhancement of cooperation with civilian law enforcement officials
 
 **(a)** The Secretary of Defense, in cooperation with the Attorney General, shall conduct an annual briefing of law enforcement personnel of each State (including law enforcement personnel of the political subdivisions of each State) regarding information, training, technical support, and equipment and facilities available to civilian law enforcement personnel from the Department of Defense.
 
@@ -755,13 +755,13 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(2)** make available to civilian law enforcement personnel nationwide, tollfree telephone communication with such office or offices.
 
-(Added Pub. L. 100–180, div. A, title XII, § 1243(a), Dec. 4, 1987, 101 Stat. 1163, § 380; amended Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2046; renumbered § 280, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 100–180, div. A, title XII, § 1243(a), Dec. 4, 1987, 101 Stat. 1163, § 380; amended Pub. L. 100–456, div. A, title XI, § 1104(a), Sept. 29, 1988, 102 Stat. 2046; renumbered § 280, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 280, acts Aug. 10, 1956, ch. 1041, 70A Stat. 14; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(2), 72 Stat. 1564; Sept. 7, 1962, Pub. L. 87–651, title I, § 101, 76 Stat. 506; Sept. 11, 1967, Pub. L. 90–83, § 3(1), 81 Stat. 220; Aug. 17, 1977, Pub. L. 95–105, title V, § 509(d)(3), 91 Stat. 860; Dec. 12, 1980, Pub. L. 96–513, title V, §§ 501(5), 511(10), 94 Stat. 2907, 2920; Oct. 19, 1984, Pub. L. 98–525, title XIV, § 1405(8), 98 Stat. 2622; Dec. 5, 1991, Pub. L. 102–190, div. A, title X, § 1061(a)(3), 105 Stat. 1472, authorized Secretary of each military department and Secretary of Transportation to prescribe regulations, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10202 of this title.
+A prior section 280, acts Aug. 10, 1956, ch. 1041, 70A Stat. 14; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(2), 72 Stat. 1564; Sept. 7, 1962, Pub. L. 87–651, title I, § 101, 76 Stat. 506; Sept. 11, 1967, Pub. L. 90–83, § 3(1), 81 Stat. 220; Aug. 17, 1977, Pub. L. 95–105, title V, § 509(d)(3), 91 Stat. 860; Dec. 12, 1980, Pub. L. 96–513, title V, §§ 501(5), 511(10), 94 Stat. 2907, 2920; Oct. 19, 1984, Pub. L. 98–525, title XIV, § 1405(8), 98 Stat. 2622; Dec. 5, 1991, Pub. L. 102–190, div. A, title X, § 1061(a)(3), 105 Stat. 1472, authorized Secretary of each military department and Secretary of Transportation to prescribe regulations, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10202 of this title.
 
 **Amendments**
 
@@ -769,7 +769,7 @@ A prior section 280, acts Aug. 10, 1956, ch. 1041, 70A Stat. 14; Sept. 2, 1958, 
 
 1988—Pub. L. 100–456 amended section generally, substituting provisions relating to annual briefing of law enforcement personnel of each State by Secretary of Defense and Attorney General and establishment of offices and telephone communication with those offices regarding surplus military equipment for provisions requiring the Secretary to report to Congress on the availability of assistance, etc., to civilian law enforcement and drug interdiction agencies and to convene a conference and requiring the Comptroller General to monitor and report on the Secretary’s compliance with those requirements.
 
-## § 281. Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities
+## § 281. Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities
 
 **(a) Procedures.—**
 
@@ -801,31 +801,31 @@ A prior section 280, acts Aug. 10, 1956, ch. 1041, 70A Stat. 14; Sept. 2, 1958, 
 
 **(3)** The term “equipment suitable for counter-drug, homeland security, and emergency response activities” has the meaning given such term in regulations prescribed by the Secretary of Defense. In prescribing the meaning of the term, the Secretary may not include any equipment that the Department of Defense does not procure for its own purposes and, in the case of equipment for homeland security activities, may not include any equipment that is not found on the Authorized Equipment List published by the Department of Homeland Security.
 
-(Added Pub. L. 103–160, div. A, title XI, § 1122(a)(1), Nov. 30, 1993, 107 Stat. 1754, § 381; amended Pub. L. 110–417, [div. A], title VIII, § 885(a), (b)(1), Oct. 14, 2008, 122 Stat. 4560, 4561; renumbered § 281, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 103–160, div. A, title XI, § 1122(a)(1), Nov. 30, 1993, 107 Stat. 1754, § 381; amended Pub. L. 110–417, [div. A], title VIII, § 885(a), (b)(1), Oct. 14, 2008, 122 Stat. 4560, 4561; renumbered § 281, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 281, added Pub. L. 86–559, § 1(2)(C), June 30, 1960, 74 Stat. 264; amended Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, provided that certain references in this title to the adjutant general or assistant adjutant general of the National Guard of a jurisdiction be applied to another officer of the National Guard performing the duties of that office, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10214 of this title.
+A prior section 281, added Pub. L. 86–559, § 1(2)(C), June 30, 1960, 74 Stat. 264; amended Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, provided that certain references in this title to the adjutant general or assistant adjutant general of the National Guard of a jurisdiction be applied to another officer of the National Guard performing the duties of that office, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10214 of this title.
 
 **Amendments**
 
 2016—Pub. L. 114–328 renumbered section 381 of this title as this section.
 
-2008—Pub. L. 110–417, § 885(b)(1), substituted “Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities” for “Procurement by State and local governments of law enforcement equipment suitable for counter-drug activities through the Department of Defense” in section catchline.
+2008—Pub. L. 110–417, § 885(b)(1), substituted “Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities” for “Procurement by State and local governments of law enforcement equipment suitable for counter-drug activities through the Department of Defense” in section catchline.
 
-Subsec. (a)(1). Pub. L. 110–417, § 885(a)(1), in introductory provisions, struck out “law enforcement” before “equipment” and inserted “, homeland security, and emergency response” after “counter-drug”, in subpar. (A), inserted “, homeland security, or emergency response” after “counter-drug” in introductory provisions and struck out “law enforcement” before “equipment” in cl. (i), in subpar. (C) struck out “law enforcement” before “equipment” wherever appearing, and in subpar. (D) struck out “law enforcement” before “equipment shall”.
+Subsec. (a)(1). Pub. L. 110–417, § 885(a)(1), in introductory provisions, struck out “law enforcement” before “equipment” and inserted “, homeland security, and emergency response” after “counter-drug”, in subpar. (A), inserted “, homeland security, or emergency response” after “counter-drug” in introductory provisions and struck out “law enforcement” before “equipment” in cl. (i), in subpar. (C) struck out “law enforcement” before “equipment” wherever appearing, and in subpar. (D) struck out “law enforcement” before “equipment shall”.
 
-Subsec. (c). Pub. L. 110–417, § 885(a)(2), struck out “law enforcement” before “equipment” and inserted “, homeland security, and emergency response” after “counter-drug”.
+Subsec. (c). Pub. L. 110–417, § 885(a)(2), struck out “law enforcement” before “equipment” and inserted “, homeland security, and emergency response” after “counter-drug”.
 
-Subsec. (d)(2), (3). Pub. L. 110–417, § 885(a)(3), in par. (2) inserted “or emergency response” after “law enforcement” in two places and in par. (3) struck out “law enforcement” before “equipment suitable” and inserted “, homeland security, and emergency response” after “counter-drug” and “and, in the case of equipment for homeland security activities, may not include any equipment that is not found on the Authorized Equipment List published by the Department of Homeland Security” before period at end.
+Subsec. (d)(2), (3). Pub. L. 110–417, § 885(a)(3), in par. (2) inserted “or emergency response” after “law enforcement” in two places and in par. (3) struck out “law enforcement” before “equipment suitable” and inserted “, homeland security, and emergency response” after “counter-drug” and “and, in the case of equipment for homeland security activities, may not include any equipment that is not found on the Authorized Equipment List published by the Department of Homeland Security” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline for Establishing Procedures**
 
-Pub. L. 103–160, div. A, title XI, § 1122(b), Nov. 30, 1993, 107 Stat. 1755, directed the Secretary of Defense to establish procedures under subsec. (a) of this section not later than six months after Nov. 30, 1993.
+Pub. L. 103–160, div. A, title XI, § 1122(b), Nov. 30, 1993, 107 Stat. 1755, directed the Secretary of Defense to establish procedures under subsec. (a) of this section not later than six months after Nov. 30, 1993.
 
 **Executive Documents**
 
@@ -833,7 +833,7 @@ Pub. L. 103–160, div. A, title XI, § 1122(b), Nov. 30, 1993, 107 Stat. 1755
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 282. Emergency situations involving weapons of mass destruction
+## § 282. Emergency situations involving weapons of mass destruction
 
 **(a) In General.—** The Secretary of Defense, upon the request of the Attorney General, may provide assistance in support of Department of Justice activities relating to the enforcement of section 175, 229, or 2332a of title 18 during an emergency situation involving a weapon of mass destruction. Department of Defense resources, including personnel of the Department of Defense, may be used to provide such assistance if—
 
@@ -853,9 +853,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(C)** enforcement of section 175, 229, or 2332a of title 18 would be seriously impaired if the Department of Defense assistance were not provided.
 
-**(c) Forms of Assistance.—** The assistance referred to in subsection (a) includes the operation of equipment (including equipment made available under section 372 1
+**(c) Forms of Assistance.—** The assistance referred to in subsection (a) includes the operation of equipment (including equipment made available under section 372 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) to monitor, contain, disable, or dispose of the weapon involved or elements of the weapon.
 
@@ -879,7 +879,7 @@ of this title) to monitor, contain, disable, or dispose of the weapon involved o
 
 **(ii)** The action is otherwise authorized under subsection (c) or under otherwise applicable law.
 
-**(e) Reimbursements.—** The Secretary of Defense shall require reimbursement as a condition for providing assistance under this section to the extent required under section 377 <sup>1</sup> of this title.
+**(e) Reimbursements.—** The Secretary of Defense shall require reimbursement as a condition for providing assistance under this section to the extent required under section 377 <sup>1</sup> of this title.
 
 **(f) Delegations of Authority.—**
 
@@ -889,29 +889,29 @@ of this title) to monitor, contain, disable, or dispose of the weapon involved o
 
 **(g) Relationship to Other Authority.—** Nothing in this section shall be construed to restrict any executive branch authority regarding use of members of the armed forces or equipment of the Department of Defense that was in effect before September 23, 1996.
 
-(Added Pub. L. 104–201, div. A, title XIV, § 1416(a)(1), Sept. 23, 1996, 110 Stat. 2721, § 382; amended Pub. L. 105–85, div. A, title X, § 1073(a)(6), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 111–383, div. A, title X, § 1075(b)(10)(A), (B), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–81, div. A, title X, § 1089, Dec. 31, 2011, 125 Stat. 1603; renumbered § 282, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 104–201, div. A, title XIV, § 1416(a)(1), Sept. 23, 1996, 110 Stat. 2721, § 382; amended Pub. L. 105–85, div. A, title X, § 1073(a)(6), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 111–383, div. A, title X, § 1075(b)(10)(A), (B), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–81, div. A, title X, § 1089, Dec. 31, 2011, 125 Stat. 1603; renumbered § 282, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 372 of this title, referred to in subsec. (c), was renumbered section 272 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Section 372 of this title, referred to in subsec. (c), was renumbered section 272 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
-Section 377 of this title, referred to in subsec. (e), was renumbered section 277 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Section 377 of this title, referred to in subsec. (e), was renumbered section 277 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 **Amendments**
 
 2016—Pub. L. 114–328 renumbered section 382 of this title as this section.
 
-2011—Pub. L. 111–383, § 1075(b)(10)(B), struck out “chemical or biological” before “weapons” in section catchline.
+2011—Pub. L. 111–383, § 1075(b)(10)(B), struck out “chemical or biological” before “weapons” in section catchline.
 
 Subsec. (a). Pub. L. 112–81 struck out “biological or chemical” before “weapon of mass destruction” in introductory provisions.
 
-Pub. L. 111–383, § 1075(b)(10)(A), substituted “section 175, 229, or 2332a” for “section 175 or 2332c”.
+Pub. L. 111–383, § 1075(b)(10)(A), substituted “section 175, 229, or 2332a” for “section 175 or 2332c”.
 
 Subsec. (b). Pub. L. 112–81 struck out “biological or chemical” before “weapon of mass destruction” in two places in introductory provisions.
 
-Subsecs. (b)(2)(C), (d)(2)(A)(ii). Pub. L. 111–383, § 1075(b)(10)(A), substituted “section 175, 229, or 2332a” for “section 175 or 2332c”.
+Subsecs. (b)(2)(C), (d)(2)(A)(ii). Pub. L. 111–383, § 1075(b)(10)(A), substituted “section 175, 229, or 2332a” for “section 175 or 2332c”.
 
 1997—Subsec. (g). Pub. L. 105–85 substituted “September 23, 1996” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997”.
 
@@ -919,15 +919,15 @@ Subsecs. (b)(2)(C), (d)(2)(A)(ii). Pub. L. 111–383, § 1075(b)(10)(A), subst
 
 **Military Assistance to Civil Authorities To Respond to Act or Threat of Terrorism**
 
-Pub. L. 106–65, div. A, title X, § 1023, Oct. 5, 1999, 113 Stat. 747, authorized the Secretary of Defense, upon the request of the Attorney General, to provide assistance to civil authorities in responding to an act of terrorism or threat of an act of terrorism within the United States, if the Secretary determined that certain conditions were met, subject to reimbursement and limitations on funding and personnel, and provided that this authority applied between Oct. 1, 1999, and Sept. 30, 2004.
+Pub. L. 106–65, div. A, title X, § 1023, Oct. 5, 1999, 113 Stat. 747, authorized the Secretary of Defense, upon the request of the Attorney General, to provide assistance to civil authorities in responding to an act of terrorism or threat of an act of terrorism within the United States, if the Secretary determined that certain conditions were met, subject to reimbursement and limitations on funding and personnel, and provided that this authority applied between Oct. 1, 1999, and Sept. 30, 2004.
 
-## § 283. Situations involving bombings of places of public use, Government facilities, public transportation systems, and infrastructure facilities
+## § 283. Situations involving bombings of places of public use, Government facilities, public transportation systems, and infrastructure facilities
 
 **(a) In General.—** Upon the request of the Attorney General, the Secretary of Defense may provide assistance in support of Department of Justice activities related to the enforcement of section 2332f of title 18 during situations involving bombings of places of public use, Government facilities, public transportation systems, and infrastructure facilities.
 
-**(b) Rendering-safe Support.—** Military explosive ordnance disposal units providing rendering-safe support to Department of Justice activities relating to the enforcement of section 175, 229, or 2332a of title 18 in emergency situations involving weapons of mass destruction shall provide such support in a manner consistent with the provisions of section 382 1
+**(b) Rendering-safe Support.—** Military explosive ordnance disposal units providing rendering-safe support to Department of Justice activities relating to the enforcement of section 175, 229, or 2332a of title 18 in emergency situations involving weapons of mass destruction shall provide such support in a manner consistent with the provisions of section 382 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -979,19 +979,19 @@ of this title.
 
 **(2)** includes all munitions containing explosives, propellants, nuclear fission or fusion materials, and biological and chemical agents.
 
-(Added Pub. L. 114–92, div. A, title X, § 1082(a), Nov. 25, 2015, 129 Stat. 1002, § 383; renumbered § 283, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 114–92, div. A, title X, § 1082(a), Nov. 25, 2015, 129 Stat. 1002, § 383; renumbered § 283, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 382 of this title, referred to in subsec. (b), was renumbered section 282 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Section 382 of this title, referred to in subsec. (b), was renumbered section 282 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 **Amendments**
 
 2016—Pub. L. 114–328 renumbered section 383 of this title as this section.
 
-## § 284. Support for counterdrug activities and activities to counter transnational organized crime
+## § 284. Support for counterdrug activities and activities to counter transnational organized crime
 
 **(a) Support to Other Agencies.—** The Secretary of Defense may provide support for the counterdrug activities or activities to counter transnational organized crime of any other department or agency of the Federal Government or of any State, local, tribal, or foreign law enforcement agency for any of the purposes set forth in subsection (b) or (c), as applicable, if—
 
@@ -1155,49 +1155,49 @@ Section 382 of this title, referred to in subsec. (b), was renumbered section 28
 
 **(6)** The term “transnational organized crime” means self-perpetuating associations of individuals who operate transnationally for the purpose of obtaining power, influence, monetary, or commercial gains, wholly or in part by illegal means, while protecting their activities through a pattern of corruption or violence or through a transnational organization structure and the exploitation of transnational commerce or communication mechanisms.
 
-(Added § 384 and renumbered § 284, Pub. L. 114–328, div. A, title X, § 1011(a)(1), title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2381, 2497; amended Pub. L. 116–92, div. A, title XVII, § 1731(a)(14), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 116–283, div. A, title X, § 1011, Jan. 1, 2021, 134 Stat. 3839; Pub. L. 118–31, div. A, title X, §§ 1010, 1011, Dec. 22, 2023, 137 Stat. 380; Pub. L. 119–60, div. A, title X, § 1010, Dec. 18, 2025, 139 Stat. 1030.)
+(Added § 384 and renumbered § 284, Pub. L. 114–328, div. A, title X, § 1011(a)(1), title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2381, 2497; amended Pub. L. 116–92, div. A, title XVII, § 1731(a)(14), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 116–283, div. A, title X, § 1011, Jan. 1, 2021, 134 Stat. 3839; Pub. L. 118–31, div. A, title X, §§ 1010, 1011, Dec. 22, 2023, 137 Stat. 380; Pub. L. 119–60, div. A, title X, § 1010, Dec. 18, 2025, 139 Stat. 1030.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 376 of this title, referred to in subsecs. (e) and (g)(2), was renumbered section 276 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Section 376 of this title, referred to in subsecs. (e) and (g)(2), was renumbered section 276 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 Section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to subsec. (f), is section 1206(a) of Pub. L. 101–189, which is set out as a note under section 124 of this title.
 
-Section 375, referred to in subsec. (g)(2), was renumbered section 275 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Section 375, referred to in subsec. (g)(2), was renumbered section 275 of this title by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 Section 1033 of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (h)(1)(A)(vi)(VI), (3)(A)(vi)(II), is section 1033 of Pub. L. 105–85, div. A, title X, Nov. 18, 1997, 111 Stat. 1881, which is not classified to the Code.
 
 **Amendments**
 
-2025—Subsec. (h)(3)(A)(iv) to (vi). Pub. L. 119–60, § 1010(1), added cls. (iv) to (vi).
+2025—Subsec. (h)(3)(A)(iv) to (vi). Pub. L. 119–60, § 1010(1), added cls. (iv) to (vi).
 
-Subsec. (h)(3)(B)(i). Pub. L. 119–60, § 1010(2), substituted “the congressional defense committees” for “the Committees on Armed Services of the Senate and House of Representatives”.
+Subsec. (h)(3)(B)(i). Pub. L. 119–60, § 1010(2), substituted “the congressional defense committees” for “the Committees on Armed Services of the Senate and House of Representatives”.
 
-2023—Subsec. (b)(9). Pub. L. 118–31, § 1010, substituted “linguist, intelligence analysis, and planning” for “linguist and intelligence analysis”.
+2023—Subsec. (b)(9). Pub. L. 118–31, § 1010, substituted “linguist, intelligence analysis, and planning” for “linguist and intelligence analysis”.
 
-Subsec. (i)(3). Pub. L. 118–31, § 1011, substituted “$1,000,000” for “$750,000”.
+Subsec. (i)(3). Pub. L. 118–31, § 1011, substituted “$1,000,000” for “$750,000”.
 
 2021—Subsec. (h)(3). Pub. L. 116–283 added par. (3).
 
-2019—Subsec. (e). Pub. L. 116–92, § 1731(a)(14)(A), substituted “section 276” for “section 376”.
+2019—Subsec. (e). Pub. L. 116–92, § 1731(a)(14)(A), substituted “section 276” for “section 376”.
 
-Subsec. (f). Pub. L. 116–92, § 1731(a)(14)(B), inserted second closing parenthesis after “103 Stat. 1564)”.
+Subsec. (f). Pub. L. 116–92, § 1731(a)(14)(B), inserted second closing parenthesis after “103 Stat. 1564)”.
 
-Subsec. (g)(2). Pub. L. 116–92, § 1731(a)(14)(C), substituted “section 275” for “section 375”.
+Subsec. (g)(2). Pub. L. 116–92, § 1731(a)(14)(C), substituted “section 275” for “section 375”.
 
-Pub. L. 116–92, § 1731(a)(14)(A), substituted “section 276” for “section 376”.
+Pub. L. 116–92, § 1731(a)(14)(A), substituted “section 276” for “section 376”.
 
-Subsec. (h)(1)(A)(vi)(VI). Pub. L. 116–92, § 1731(a)(14)(D), struck out “section 1004 of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 374 note) and” after “authorized by”.
+Subsec. (h)(1)(A)(vi)(VI). Pub. L. 116–92, § 1731(a)(14)(D), struck out “section 1004 of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 374 note) and” after “authorized by”.
 
-2016—Pub. L. 114–328, § 1241(a)(2), renumbered section 384 of this title as this section.
+2016—Pub. L. 114–328, § 1241(a)(2), renumbered section 384 of this title as this section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Semiannual Report on Department of Defense Operations at the Southern Land Border**
 
-Pub. L. 119–60, div. A, title X, § 1070, Dec. 18, 2025, 139 Stat. 1050, provided that:
+Pub. L. 119–60, div. A, title X, § 1070, Dec. 18, 2025, 139 Stat. 1050, provided that:
 
 > **“(a) Report.—**
 
@@ -1233,11 +1233,11 @@ Pub. L. 119–60, div. A, title X, § 1070, Dec. 18, 2025, 139 Stat. 1050, pro
 
 **Cooperation With Mexico**
 
-Pub. L. 118–31, div. A, title X, § 1013(b), Dec. 22, 2023, 137 Stat. 381, provided that: “The Secretary of Defense shall seek to enhance cooperation with defense officials of the Government of Mexico to target, disrupt, and degrade transnational criminal organizations within Mexico that traffic fentanyl.”
+Pub. L. 118–31, div. A, title X, § 1013(b), Dec. 22, 2023, 137 Stat. 381, provided that: “The Secretary of Defense shall seek to enhance cooperation with defense officials of the Government of Mexico to target, disrupt, and degrade transnational criminal organizations within Mexico that traffic fentanyl.”
 
 **Department of Defense Authority To Provide Assistance To Secure the Southern Land Border of the United States**
 
-Pub. L. 114–92, div. A, title X, § 1059, Nov. 25, 2015, 129 Stat. 986, as amended by Pub. L. 116–283, div. A, title X, § 1056(a), (b), Jan. 1, 2021, 134 Stat. 3855; Pub. L. 119–60, div. A, title X, § 1044, Dec. 18, 2025, 139 Stat. 1038, provided that:
+Pub. L. 114–92, div. A, title X, § 1059, Nov. 25, 2015, 129 Stat. 986, as amended by Pub. L. 116–283, div. A, title X, § 1056(a), (b), Jan. 1, 2021, 134 Stat. 3855; Pub. L. 119–60, div. A, title X, § 1044, Dec. 18, 2025, 139 Stat. 1038, provided that:
 
 > **“(a) Authority.—**
 
@@ -1311,7 +1311,7 @@ Pub. L. 114–92, div. A, title X, § 1059, Nov. 25, 2015, 129 Stat. 986, as a
 
 > **“(2) Form of report.—** Each report submitted under this subsection shall be submitted in unclassified form, but may include a classified annex.”
 
-[Pub. L. 116–283, div. A, title X, § 1056(c), Jan. 1, 2021, 134 Stat. 3856, provided that: “The Law Revision Counsel is directed to move section 1059 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 986; 10 U.S.C. 271 note prec.), as amended by this section, to a note following section 284 of title 10, United States Code.” ]
+[Pub. L. 116–283, div. A, title X, § 1056(c), Jan. 1, 2021, 134 Stat. 3856, provided that: “The Law Revision Counsel is directed to move section 1059 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 986; 10 U.S.C. 271 note prec.), as amended by this section, to a note following section 284 of title 10, United States Code.” ]
 
 **Executive Documents**
 

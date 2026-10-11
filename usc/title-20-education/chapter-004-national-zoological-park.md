@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 4—NATIONAL ZOOLOGICAL PARK
 
-## § 81. Administration by Regents of Smithsonian Institution
+## § 81. Administration by Regents of Smithsonian Institution
 
 The National Zoological Park is placed under the direction of the Regents of the Smithsonian Institution, who are authorized to transfer to it any living specimens, whether of animals or plants, in their charge, to accept gifts for the park at their discretion, in the name of the United States, to make exchanges of specimens, and to administer and improve the said Zoological Park for the advancement of science and the instruction and recreation of the people.
 
-(Apr. 30, 1890, ch. 173, § 2, 26 Stat. 78; Pub. L. 87–360, Oct. 4, 1961, 75 Stat. 779.)
+(Apr. 30, 1890, ch. 173, § 2, 26 Stat. 78; Pub. L. 87–360, Oct. 4, 1961, 75 Stat. 779.)
 
 **Editorial Notes**
 
@@ -47,7 +47,7 @@ Pub. L. 115–178, June 1, 2018, 132 Stat. 1379, provided that:
 
 **Establishment of Parks**
 
-The National Zoological Park was established under provisions of the District of Columbia Appropriation Act for the Fiscal Year 1890, act Mar. 2, 1889, ch. 370, § 4, 25 Stat. 808, which constituted a commission to select from a certain district along Rock Creek a tract of land, including a section of the creek, suitable for a zoological park, and to purchase the land so selected, or take proceedings for the condemnation thereof, the United States to have title to the land on payment therefor to the owners.
+The National Zoological Park was established under provisions of the District of Columbia Appropriation Act for the Fiscal Year 1890, act Mar. 2, 1889, ch. 370, § 4, 25 Stat. 808, which constituted a commission to select from a certain district along Rock Creek a tract of land, including a section of the creek, suitable for a zoological park, and to purchase the land so selected, or take proceedings for the condemnation thereof, the United States to have title to the land on payment therefor to the owners.
 
 The Rock Creek Park was established by act Sept. 27, 1890, ch. 1001, 26 Stat. 492.
 
@@ -55,31 +55,31 @@ The Potomac Park was established by act Mar. 3, 1897, ch. 375, 29 Stat. 624.
 
 **Addition of Lands**
 
-Certain parcels of land were added to the National Zoological Park by acts June 5, 1920, ch. 235, § 1, 41 Stat. 892; Mar. 4, 1921, ch. 161, § 1, 41 Stat. 1384.
+Certain parcels of land were added to the National Zoological Park by acts June 5, 1920, ch. 235, § 1, 41 Stat. 892; Mar. 4, 1921, ch. 161, § 1, 41 Stat. 1384.
 
 **Connecting Parkway**
 
-Provisions for a parkway connecting Potomac Park with Zoological Park and Rock Creek Park were made by act Mar. 4, 1913, ch. 147, § 27, 37 Stat. 885.
+Provisions for a parkway connecting Potomac Park with Zoological Park and Rock Creek Park were made by act Mar. 4, 1913, ch. 147, § 27, 37 Stat. 885.
 
-## § 82. Aid in acquisition of collections
+## § 82. Aid in acquisition of collections
 
 The heads of executive departments of the Government are authorized and directed to cause to be rendered all necessary and practicable aid to the said Regents in the acquisition of collections for the Zoological Park.
 
-(Apr. 30, 1890, ch. 173, § 3, 26 Stat. 78.)
+(Apr. 30, 1890, ch. 173, § 3, 26 Stat. 78.)
 
-## § 83. Omitted
+## § 83. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Aug. 18, 1894, ch. 301, § 1, 28 Stat. 384, which required that a detailed report of expenses on account of the National Zoological Park be made to Congress at the beginning of each regular session, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 192 of House Document No. 103–7.
+Section, act Aug. 18, 1894, ch. 301, § 1, 28 Stat. 384, which required that a detailed report of expenses on account of the National Zoological Park be made to Congress at the beginning of each regular session, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 192 of House Document No. 103–7.
 
-## § 84. Plans for buildings and bridges
+## § 84. Plans for buildings and bridges
 
 All plans and specifications for the construction of buildings and bridges in the National Zoological Park shall be prepared under the supervision of the Smithsonian Institution.
 
-(Aug. 24, 1912, ch. 355, § 1, 37 Stat. 437; 1966 Reorg. Plan No. 4, eff. Aug. 23, 1966, 31 FR 11137, 80 Stat. 1611.)
+(Aug. 24, 1912, ch. 355, § 1, 37 Stat. 437; 1966 Reorg. Plan No. 4, eff. Aug. 23, 1966, 31 FR 11137, 80 Stat. 1611.)
 
 **Executive Documents**
 
@@ -90,7 +90,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 **NATIONAL ZOOLOGICAL PARK BUILDINGS AND BRIDGES**
 
-All those functions of the Board of Commissioners of the District of Columbia which were vested in the municipal architect of the District of Columbia by the provisions of the Act of August 24, 1912, c. 355, 37 Stat. 437 (20 U.S.C. 84; D.C. Code [former] § 8–134), in respect of buildings of the National Zoological Park, and all functions of that Board which were vested in the engineer of bridges of the District of Columbia by those provisions in respect of bridges of the National Zoological Park, are hereby transferred to the Smithsonian Institution.
+All those functions of the Board of Commissioners of the District of Columbia which were vested in the municipal architect of the District of Columbia by the provisions of the Act of August 24, 1912, c. 355, 37 Stat. 437 (20 U.S.C. 84; D.C. Code [former] § 8–134), in respect of buildings of the National Zoological Park, and all functions of that Board which were vested in the engineer of bridges of the District of Columbia by those provisions in respect of bridges of the National Zoological Park, are hereby transferred to the Smithsonian Institution.
 
 **Message of the President**
 
@@ -114,7 +114,7 @@ Lyndon B. Johnson.
 
 The White House, June 13, 1966.
 
-## § 85. Concessions
+## § 85. Concessions
 
 **(a) Authorization; use of proceeds for research and educational work**
 

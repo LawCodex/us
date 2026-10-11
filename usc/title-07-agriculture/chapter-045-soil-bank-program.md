@@ -17,87 +17,87 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### §§ 1801 to 1816. Repealed. Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206
+### §§ 1801 to 1816. Repealed. Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206
 
-Section 1801, act May 28, 1956, ch. 327, title I, § 102, 70 Stat. 188, set out Congressional declaration of policy underlying Soil Bank Program set out in subchapters I to III of this chapter.
+Section 1801, act May 28, 1956, ch. 327, title I, § 102, 70 Stat. 188, set out Congressional declaration of policy underlying Soil Bank Program set out in subchapters I to III of this chapter.
 
-Section 1802, acts May 28, 1956, ch. 327, title I, § 114, 70 Stat. 196; Aug. 28, 1957, Pub. L. 85–203, § 3, 71 Stat. 478; Apr. 7, 1958, Pub. L. 85–369, 72 Stat. 81, placed an ineligibility sanction upon failure to comply with acreage allotments.
+Section 1802, acts May 28, 1956, ch. 327, title I, § 114, 70 Stat. 196; Aug. 28, 1957, Pub. L. 85–203, § 3, 71 Stat. 478; Apr. 7, 1958, Pub. L. 85–369, 72 Stat. 81, placed an ineligibility sanction upon failure to comply with acreage allotments.
 
-Section 1803, act May 28, 1956, ch. 327, title I, § 115, 70 Stat. 196, prohibited reapportionment or allotment to any other farm of acreage diverted from production as a result of participation in acreage reserve or conservation reserve programs.
+Section 1803, act May 28, 1956, ch. 327, title I, § 115, 70 Stat. 196, prohibited reapportionment or allotment to any other farm of acreage diverted from production as a result of participation in acreage reserve or conservation reserve programs.
 
-Section 1804, act May 28, 1956, ch. 327, title I, § 116, 70 Stat. 196, provided for filing of certificate of claimants for payment or compensation in form prescribed by Secretary attesting to claimant’s compliance with all requirements.
+Section 1804, act May 28, 1956, ch. 327, title I, § 116, 70 Stat. 196, provided for filing of certificate of claimants for payment or compensation in form prescribed by Secretary attesting to claimant’s compliance with all requirements.
 
-Section 1805, act May 28, 1956, ch. 327, title I, § 117, 70 Stat. 196, directed Secretary to utilize services of local, county, and State soil conservation committees.
+Section 1805, act May 28, 1956, ch. 327, title I, § 117, 70 Stat. 196, directed Secretary to utilize services of local, county, and State soil conservation committees.
 
-Section 1806, act May 28, 1956, ch. 327, title I, § 118, 70 Stat. 196, directed Secretary to consult with conservation, forestry, and agricultural agencies in formation of State and local programs and to utilize Federal agencies to coordinate programs and to provide technical background.
+Section 1806, act May 28, 1956, ch. 327, title I, § 118, 70 Stat. 196, directed Secretary to consult with conservation, forestry, and agricultural agencies in formation of State and local programs and to utilize Federal agencies to coordinate programs and to provide technical background.
 
-Section 1807, act May 28, 1956, ch. 327, title I, § 119, 70 Stat. 196, directed Secretary to utilize existing land use capability data including Soil Conservation Service’s capability surveys and to carry forward to completion the nation’s basic land inventory.
+Section 1807, act May 28, 1956, ch. 327, title I, § 119, 70 Stat. 196, directed Secretary to utilize existing land use capability data including Soil Conservation Service’s capability surveys and to carry forward to completion the nation’s basic land inventory.
 
-Section 1808, act May 28, 1956, ch. 327, title I, § 120, 70 Stat. 197, authorized Secretary to utilize Commodity Credit Corporation in carrying out Soil Bank Program and allowed transfer to Federal and State agencies of funds available for carrying out purposes of program.
+Section 1808, act May 28, 1956, ch. 327, title I, § 120, 70 Stat. 197, authorized Secretary to utilize Commodity Credit Corporation in carrying out Soil Bank Program and allowed transfer to Federal and State agencies of funds available for carrying out purposes of program.
 
-Section 1809, act May 28, 1956, ch. 327, title I, § 121, 70 Stat. 197, provided for finality of determinations forming basis of payment or compensation by Secretary and authorized him to make payment in any fair or reasonable manner reflected in appropriate regulations in case of death, incompetence, or disappearance of producers entitled to payment.
+Section 1809, act May 28, 1956, ch. 327, title I, § 121, 70 Stat. 197, provided for finality of determinations forming basis of payment or compensation by Secretary and authorized him to make payment in any fair or reasonable manner reflected in appropriate regulations in case of death, incompetence, or disappearance of producers entitled to payment.
 
-Section 1810, act May 28, 1956, ch. 327, title I, § 122, 70 Stat. 197, required Secretary to provide adequate safeguards for tenants and sharecroppers.
+Section 1810, act May 28, 1956, ch. 327, title I, § 122, 70 Stat. 197, required Secretary to provide adequate safeguards for tenants and sharecroppers.
 
-Section 1811, act May 28, 1956, ch. 327, title I, § 123, 70 Stat. 198, set penalty for grazing or harvesting any crop on acreage in violation of a Soil Bank contract and provided for recovery of penalties by means of civil suits.
+Section 1811, act May 28, 1956, ch. 327, title I, § 123, 70 Stat. 198, set penalty for grazing or harvesting any crop on acreage in violation of a Soil Bank contract and provided for recovery of penalties by means of civil suits.
 
-Section 1812, act May 28, 1956, ch. 327, title I, § 124, 70 Stat. 198, authorized Secretary to promulgate rules and regulations to carry out Soil Bank Program.
+Section 1812, act May 28, 1956, ch. 327, title I, § 124, 70 Stat. 198, authorized Secretary to promulgate rules and regulations to carry out Soil Bank Program.
 
-Section 1813, acts May 28, 1956, ch. 327, title I, § 125, 70 Stat. 198; Apr. 9, 1960, Pub. L. 86–423, § 2, 74 Stat. 42, restricted leasing of government owned land for production of price supported crops in surplus supply.
+Section 1813, acts May 28, 1956, ch. 327, title I, § 125, 70 Stat. 198; Apr. 9, 1960, Pub. L. 86–423, § 2, 74 Stat. 42, restricted leasing of government owned land for production of price supported crops in surplus supply.
 
-Section 1814, act May 28, 1956, ch. 327, title I, § 126, 70 Stat. 198, authorized Secretary to permit farmers to pool their rights to participate jointly in conservation reserve program on property other than their home farms.
+Section 1814, act May 28, 1956, ch. 327, title I, § 126, 70 Stat. 198, authorized Secretary to permit farmers to pool their rights to participate jointly in conservation reserve program on property other than their home farms.
 
-Section 1815, act May 28, 1956, ch. 327, title I, § 127, as added May 16, 1958, Pub. L. 85–413, 72 Stat. 118, authorized Secretary to provide fair and equitable treatment for producers who entered into acreage reserve or conservation reserve contracts based upon incorrect information furnished under 1956 program through compensation for losses.
+Section 1815, act May 28, 1956, ch. 327, title I, § 127, as added May 16, 1958, Pub. L. 85–413, 72 Stat. 118, authorized Secretary to provide fair and equitable treatment for producers who entered into acreage reserve or conservation reserve contracts based upon incorrect information furnished under 1956 program through compensation for losses.
 
-Section 1816, act May 28, 1956, ch. 327, title I, § 128, as added Sept. 14, 1959, Pub. L. 86–265, 73 Stat. 552, authorized Secretary to pay compensation to a producer in order to provide fair and equitable treatment when producer has suffered losses because of inaccurate information forming the basis for contract if producer relied in good faith upon inaccurate information.
+Section 1816, act May 28, 1956, ch. 327, title I, § 128, as added Sept. 14, 1959, Pub. L. 86–265, 73 Stat. 552, authorized Secretary to pay compensation to a producer in order to provide fair and equitable treatment when producer has suffered losses because of inaccurate information forming the basis for contract if producer relied in good faith upon inaccurate information.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206, provided that the Soil Bank Act of 1956 [former subchapters I to III of this chapter] shall remain in effect with respect to contracts entered into thereunder prior to its repeal by section 601 of Pub. L. 89–321.
+Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206, provided that the Soil Bank Act of 1956 [former subchapters I to III of this chapter] shall remain in effect with respect to contracts entered into thereunder prior to its repeal by section 601 of Pub. L. 89–321.
 
 ## SUBCHAPTER II—ACREAGE RESERVE PROGRAM
 
-### §§ 1821 to 1824. Repealed. Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206
+### §§ 1821 to 1824. Repealed. Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206
 
-Section 1821, act May 28, 1956, ch. 327, title I, § 103, 70 Stat. 189, authorized Secretary to carry out acreage reserve program and spelled out terms of eligibility, provisions of contract, and acreage reduction compensation.
+Section 1821, act May 28, 1956, ch. 327, title I, § 103, 70 Stat. 189, authorized Secretary to carry out acreage reserve program and spelled out terms of eligibility, provisions of contract, and acreage reduction compensation.
 
-Section 1822, act May 28, 1956, ch. 327, title I, § 104, 70 Stat. 190, required Secretary to establish a national reserve acreage goal and to set limits to be placed upon individual participation in program.
+Section 1822, act May 28, 1956, ch. 327, title I, § 104, 70 Stat. 190, required Secretary to establish a national reserve acreage goal and to set limits to be placed upon individual participation in program.
 
-Section 1823, act May 28, 1956, ch. 327, title I, § 105, 70 Stat. 190, established method of compensating producers for participating in program through issuance of negotiable certificates redeemable by Commodity Credit Corporation, provided for setting of rates of compensation, and set limits upon total compensation to be paid for wheat, cotton, corn, peanuts, rice, and tobacco.
+Section 1823, act May 28, 1956, ch. 327, title I, § 105, 70 Stat. 190, established method of compensating producers for participating in program through issuance of negotiable certificates redeemable by Commodity Credit Corporation, provided for setting of rates of compensation, and set limits upon total compensation to be paid for wheat, cotton, corn, peanuts, rice, and tobacco.
 
-Section 1824, act May 28, 1956, ch. 327, title I, § 106, 70 Stat. 191, required crediting of reserve acreages as though such acreages had actually been devoted to production of commodity when establishing farm acreage allotments under Agricultural Adjustment Act of 1938, as amended.
+Section 1824, act May 28, 1956, ch. 327, title I, § 106, 70 Stat. 191, required crediting of reserve acreages as though such acreages had actually been devoted to production of commodity when establishing farm acreage allotments under Agricultural Adjustment Act of 1938, as amended.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206, provided that the Soil Bank Act of 1956 [former subchapters I to III of this chapter] shall remain in effect with respect to contracts entered into thereunder prior to its repeal by section 601 of Pub. L. 89–321.
+Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206, provided that the Soil Bank Act of 1956 [former subchapters I to III of this chapter] shall remain in effect with respect to contracts entered into thereunder prior to its repeal by section 601 of Pub. L. 89–321.
 
 ## SUBCHAPTER III—CONSERVATION RESERVE PROGRAM
 
-### § 1831. Repealed. Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206
+### § 1831. Repealed. Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206
 
-Section, acts May 28, 1956, ch. 327, title I, § 107, 70 Stat. 191; June 11, 1960, Pub. L. 86–507, § 1(8), 74 Stat. 200; June 29, 1961, Pub. L. 87–62, § 1(a), 75 Stat. 129; July 3, 1962, Pub. L. 87–521, 76 Stat. 135, set out terms to be included in producers’ contracts under conservation reserve program and made provisions for use of advertising and bid procedures, termination of contracts, and notice, hearing, and judicial review of Secretary’s action in terminating a contract.
+Section, acts May 28, 1956, ch. 327, title I, § 107, 70 Stat. 191; June 11, 1960, Pub. L. 86–507, § 1(8), 74 Stat. 200; June 29, 1961, Pub. L. 87–62, § 1(a), 75 Stat. 129; July 3, 1962, Pub. L. 87–521, 76 Stat. 135, set out terms to be included in producers’ contracts under conservation reserve program and made provisions for use of advertising and bid procedures, termination of contracts, and notice, hearing, and judicial review of Secretary’s action in terminating a contract.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206, provided that the Soil Bank Act of 1956 [former subchapters I to III of this chapter] shall remain in effect with respect to contracts entered into thereunder prior to its repeal by section 601 of Pub. L. 89–321.
+Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206, provided that the Soil Bank Act of 1956 [former subchapters I to III of this chapter] shall remain in effect with respect to contracts entered into thereunder prior to its repeal by section 601 of Pub. L. 89–321.
 
-### § 1831a. Contract restrictions
+### § 1831a. Contract restrictions
 
 On and after June 13, 1958 no conservation reserve contract shall be entered into which provides for (1) payments for conservation practices in excess of the average rate for comparable practices under the environmental quality incentives program established under subchapter A of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [16 U.S.C. 3839aa et seq.], or (2) annual rental payments in excess of 20 per cent of the value of the land placed under contract, such value to be determined without regard to physical improvements thereon or geographic location thereof. In determining the value of the land for this purpose, the county committee shall take into consideration the estimate of the landowner or operator as to the value of such land as well as his certificate as to the production history and productivity of such land.
 
-(Pub. L. 85–459, title I, § 101, June 13, 1958, 72 Stat. 195; Pub. L. 104–127, title III, § 336(a)(2)(A), Apr. 4, 1996, 110 Stat. 1005; Pub. L. 115–334, title II, § 2301(d)(2)(C), Dec. 20, 2018, 132 Stat. 4554.)
+(Pub. L. 85–459, title I, § 101, June 13, 1958, 72 Stat. 195; Pub. L. 104–127, title III, § 336(a)(2)(A), Apr. 4, 1996, 110 Stat. 1005; Pub. L. 115–334, title II, § 2301(d)(2)(C), Dec. 20, 2018, 132 Stat. 4554.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food Security Act of 1985, referred to in text, is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§ 3839aa et seq.) of part IV of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in text, is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§ 3839aa et seq.) of part IV of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 **Codification**
 
@@ -109,29 +109,29 @@ Section was not enacted as part of the Soil Bank Act which comprised this chapte
 
 1996—Pub. L. 104–127 substituted “environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985” for “Agricultural Conservation Program”.
 
-### §§ 1832 to 1837. Repealed. Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206
+### §§ 1832 to 1837. Repealed. Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206
 
-Section 1832, act May 28, 1956, ch. 327, title I, § 108, 70 Stat. 194, required Secretary to make and announce determination of a national conservation reserve goal, set out considerations to be used in distributing goal among States and major crop production regions, and provided for a report to Congress.
+Section 1832, act May 28, 1956, ch. 327, title I, § 108, 70 Stat. 194, required Secretary to make and announce determination of a national conservation reserve goal, set out considerations to be used in distributing goal among States and major crop production regions, and provided for a report to Congress.
 
-Section 1833, act May 28, 1956, ch. 327, title I, § 109, 70 Stat. 194, authorized Secretary to enter into conservation reserve program contracts, set term for such contracts, and placed a limit of $450,000,000 annually upon payments made to producers.
+Section 1833, act May 28, 1956, ch. 327, title I, § 109, 70 Stat. 194, authorized Secretary to enter into conservation reserve program contracts, set term for such contracts, and placed a limit of $450,000,000 annually upon payments made to producers.
 
-Section 1834, act May 28, 1956, ch. 327, title I, § 110, 70 Stat. 194, authorized Secretary to terminate or modify contracts by mutual agreement with producers.
+Section 1834, act May 28, 1956, ch. 327, title I, § 110, 70 Stat. 194, authorized Secretary to terminate or modify contracts by mutual agreement with producers.
 
-Section 1835, act May 28, 1956, ch. 327, title I, § 111, 70 Stat. 195, authorized Secretary to purchase or produce conservation materials and services and make them available to producers under conservation reserve program.
+Section 1835, act May 28, 1956, ch. 327, title I, § 111, 70 Stat. 195, authorized Secretary to purchase or produce conservation materials and services and make them available to producers under conservation reserve program.
 
-Section 1836, acts May 28, 1956, ch. 327, title I, § 112, 70 Stat. 195; Sept. 14, 1960, Pub. L. 86–793, § 2, 74 Stat. 1030, prohibited reduction of cropland acreage by reason of any action taken in carrying out a conservation reserve program contract and required inclusion of acreage changed from cultivated cropland to permanent vegetation as acreage devoted to commodity for purpose of determining future acreage allotments.
+Section 1836, acts May 28, 1956, ch. 327, title I, § 112, 70 Stat. 195; Sept. 14, 1960, Pub. L. 86–793, § 2, 74 Stat. 1030, prohibited reduction of cropland acreage by reason of any action taken in carrying out a conservation reserve program contract and required inclusion of acreage changed from cultivated cropland to permanent vegetation as acreage devoted to commodity for purpose of determining future acreage allotments.
 
-Section 1837, acts May 28, 1956, ch. 327, title I, § 113, 70 Stat. 195; June 25, 1959, Pub. L. 86–70, § 5, 73 Stat. 142; July 12, 1960, Pub. L. 86–624, § 3, 74 Stat. 411, authorized Secretary to apply Soil Bank Program to Puerto Rico and Virgin Islands in addition to several States if such application would be in national interest.
+Section 1837, acts May 28, 1956, ch. 327, title I, § 113, 70 Stat. 195; June 25, 1959, Pub. L. 86–70, § 5, 73 Stat. 142; July 12, 1960, Pub. L. 86–624, § 3, 74 Stat. 411, authorized Secretary to apply Soil Bank Program to Puerto Rico and Virgin Islands in addition to several States if such application would be in national interest.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206, provided that the Soil Bank Act of 1956 [former subchapters I to III of this chapter] shall remain in effect with respect to contracts entered into thereunder prior to its repeal by section 601 of Pub. L. 89–321.
+Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206, provided that the Soil Bank Act of 1956 [former subchapters I to III of this chapter] shall remain in effect with respect to contracts entered into thereunder prior to its repeal by section 601 of Pub. L. 89–321.
 
 ## SUBCHAPTER IV—CROPLAND ADJUSTMENTS
 
-### § 1838. Conversion of cropland into vegetative cover, water storage, wildlife and conservation uses; contracts with farmers
+### § 1838. Conversion of cropland into vegetative cover, water storage, wildlife and conservation uses; contracts with farmers
 
 **(a) Authority for calendar years 1965 through 1970; term of agreements**
 
@@ -201,7 +201,7 @@ The Secretary may, without regard to the civil service laws, appoint an Advisory
 
 The Secretary shall prescribe such regulations as he determines necessary to carry out the provisions of this subchapter.
 
-(Pub. L. 89–321, title VI, § 602, Nov. 3, 1965, 79 Stat. 1206; Pub. L. 90–210, Dec. 18, 1967, 81 Stat. 657; Pub. L. 90–559, § 1(1), (7), Oct. 11, 1968, 82 Stat. 996.)
+(Pub. L. 89–321, title VI, § 602, Nov. 3, 1965, 79 Stat. 1206; Pub. L. 90–210, Dec. 18, 1967, 81 Stat. 657; Pub. L. 90–559, § 1(1), (7), Oct. 11, 1968, 82 Stat. 996.)
 
 **Editorial Notes**
 
@@ -211,9 +211,9 @@ The last sentence of section 602(g) of Pub. L. 89–321 repealed section 590p(b)
 
 **Amendments**
 
-1968—Subsec. (a). Pub. L. 90–559, § 1(1), provided for a one year extension through 1970.
+1968—Subsec. (a). Pub. L. 90–559, § 1(1), provided for a one year extension through 1970.
 
-Subsec. (k). Pub. L. 90–559, § 1(7), substituted “June 30, 1969” for “June 30, 1968” in two places and “December 31, 1970” for “December 31, 1969”.
+Subsec. (k). Pub. L. 90–559, § 1(7), substituted “June 30, 1969” for “June 30, 1968” in two places and “December 31, 1970” for “December 31, 1969”.
 
 1967—Subsec. (a). Pub. L. 90–210 permitted a farm to be placed in the cropland adjustment program without regard to the length of past ownership if that farm was acquired in replacement of an eligible farm which was taken by any Federal, State, or other agency by means of eminent domain proceedings.
 

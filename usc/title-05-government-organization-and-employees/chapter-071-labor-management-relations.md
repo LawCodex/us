@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1978—Pub. L. 95–454, title VII, §§ 701, 703(a)(2), Oct. 13, 1978, 92 Stat. 1191, 1217, in heading for Subpart F inserted “Labor-Management and” before “Employee”, in heading for chapter 71 substituted “LABOR-MANAGEMENT RELATIONS” for “POLICIES”, in heading for subchapter I substituted “GENERAL PROVISIONS” for “EMPLOYEE ORGANIZATIONS”, in item 7101 substituted “Findings and purpose” for “Right to organize; postal employees”, in item 7102 substituted “Employees’ rights” for “Right to petition Congress; employees”, added items 7103 to 7106, and added subchapter II and items 7111 to 7120, subchapter III and items 7121 to 7123, and subchapter IV and items 7131 to 7135. Former subchapter II heading “ANTIDISCRIMINATION IN EMPLOYMENT” and items 7151 to 7154, “Policy”, “Marital status”, “Physical handicap”, and “Other prohibitions”, respectively, were transferred to subchapter I of chapter 72 and renumbered and amended.
+1978—Pub. L. 95–454, title VII, §§ 701, 703(a)(2), Oct. 13, 1978, 92 Stat. 1191, 1217, in heading for Subpart F inserted “Labor-Management and” before “Employee”, in heading for chapter 71 substituted “LABOR-MANAGEMENT RELATIONS” for “POLICIES”, in heading for subchapter I substituted “GENERAL PROVISIONS” for “EMPLOYEE ORGANIZATIONS”, in item 7101 substituted “Findings and purpose” for “Right to organize; postal employees”, in item 7102 substituted “Employees’ rights” for “Right to petition Congress; employees”, added items 7103 to 7106, and added subchapter II and items 7111 to 7120, subchapter III and items 7121 to 7123, and subchapter IV and items 7131 to 7135. Former subchapter II heading “ANTIDISCRIMINATION IN EMPLOYMENT” and items 7151 to 7154, “Policy”, “Marital status”, “Physical handicap”, and “Other prohibitions”, respectively, were transferred to subchapter I of chapter 72 and renumbered and amended.
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 7101. Findings and purpose
+### § 7101. Findings and purpose
 
 **(a)** The Congress finds that—
 
@@ -41,13 +41,13 @@ Therefore, labor organizations and collective bargaining in the civil service ar
 
 **(b)** It is the purpose of this chapter to prescribe certain rights and obligations of the employees of the Federal Government and to establish procedures which are designed to meet the special requirements and needs of the Government. The provisions of this chapter should be interpreted in a manner consistent with the requirement of an effective and efficient Government.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1192.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1192.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7101, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523; Pub. L. 91–375, § 6(c)(19), Aug. 12, 1970, 84 Stat. 776, related to right of postal employees to organize, prior to the general amendment of this chapter by Pub. L. 94–454.
+A prior section 7101, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523; Pub. L. 91–375, § 6(c)(19), Aug. 12, 1970, 84 Stat. 776, related to right of postal employees to organize, prior to the general amendment of this chapter by Pub. L. 94–454.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -61,7 +61,7 @@ This chapter is popularly known as the “Federal Service Labor-Management Relat
 
 **Employee Surveys**
 
-Pub. L. 108–136, div. A, title XI, § 1128, Nov. 24, 2003, 117 Stat. 1641, provided that:
+Pub. L. 108–136, div. A, title XI, § 1128, Nov. 24, 2003, 117 Stat. 1641, provided that:
 
 > **“(a) In General.—** Each agency shall conduct an annual survey of its employees (including survey questions unique to the agency and questions prescribed under subsection (b)) to assess—
 
@@ -437,11 +437,11 @@ Sec. 26. *Effective date*. This Order is effective on January 1, 1970, except se
 
 **Executive Order No. 12871**
 
-Ex. Ord. No. 12871, Oct. 1, 1993, 58 F.R. 52201, as amended by Ex. Ord. No. 12983, Dec. 21, 1995, 60 F.R. 66855; Ex. Ord. No. 13156, § 1, May 17, 2000, 65 F.R. 31785, which established the National Partnership Council and required the head of certain Government agencies to implement labor-management partnerships to help reform Government, was revoked by Ex. Ord. No. 13203, Feb. 17, 2001, 66 F.R. 11227.
+Ex. Ord. No. 12871, Oct. 1, 1993, 58 F.R. 52201, as amended by Ex. Ord. No. 12983, Dec. 21, 1995, 60 F.R. 66855; Ex. Ord. No. 13156, § 1, May 17, 2000, 65 F.R. 31785, which established the National Partnership Council and required the head of certain Government agencies to implement labor-management partnerships to help reform Government, was revoked by Ex. Ord. No. 13203, Feb. 17, 2001, 66 F.R. 11227.
 
 **Executive Order No. 13522**
 
-Ex. Ord. No. 13522, Dec. 9, 2009, 74 F.R. 66203, which related to the establishment of the National Council on Federal Labor-Management Relations and implementation of labor-management forums, was revoked by Ex. Ord. No. 13812, Sept. 29, 2017, 82 F.R. 46367. Ex. Ord. No. 13812 was revoked, and Ex. Ord. No. 13522 was superseded, by Ex. Ord. No. 14119, §§ 6(a), 7(a), Mar. 6, 2024, 89 F.R. 17268, 17269, set out in a note under section 50 of Title 29, Labor.
+Ex. Ord. No. 13522, Dec. 9, 2009, 74 F.R. 66203, which related to the establishment of the National Council on Federal Labor-Management Relations and implementation of labor-management forums, was revoked by Ex. Ord. No. 13812, Sept. 29, 2017, 82 F.R. 46367. Ex. Ord. No. 13812 was revoked, and Ex. Ord. No. 13522 was superseded, by Ex. Ord. No. 14119, §§ 6(a), 7(a), Mar. 6, 2024, 89 F.R. 17268, 17269, set out in a note under section 50 of Title 29, Labor.
 
 **Extension of Term of National Council on Federal Labor-Management Relations**
 
@@ -459,11 +459,11 @@ Term of U.S. General Services Administration Labor-Management Relations Council 
 
 **Executive Order No. 13836**
 
-Ex. Ord. No. 13836, May 25, 2018, 83 F.R. 25329, which related to Federal sector collective bargaining, was revoked by Ex. Ord. No. 14003, § 3(a), Jan. 22, 2021, 86 F.R. 7231, set out in a note under section 3301 of this title.
+Ex. Ord. No. 13836, May 25, 2018, 83 F.R. 25329, which related to Federal sector collective bargaining, was revoked by Ex. Ord. No. 14003, § 3(a), Jan. 22, 2021, 86 F.R. 7231, set out in a note under section 3301 of this title.
 
 **Executive Orders 13836, 13837, and 13839**
 
-Memorandum of President of the United States, Oct. 11, 2019, 84 F.R. 56095, which related to adherence to certain collective bargaining agreements, was revoked by Ex. Ord. No. 14003, § 3(d), Jan. 22, 2021, 86 F.R. 7231, set out in a note under section 3301 of this title.
+Memorandum of President of the United States, Oct. 11, 2019, 84 F.R. 56095, which related to adherence to certain collective bargaining agreements, was revoked by Ex. Ord. No. 14003, § 3(d), Jan. 22, 2021, 86 F.R. 7231, set out in a note under section 3301 of this title.
 
 **Reciprocal Trade and Tariffs**
 
@@ -515,7 +515,7 @@ Sec. 5. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 
 Donald J. Trump.
 
-### § 7102. Employees’ rights
+### § 7102. Employees’ rights
 
 Each employee shall have the right to form, join, or assist any labor organization, or to refrain from any such activity, freely and without fear of penalty or reprisal, and each employee shall be protected in the exercise of such right. Except as otherwise provided under this chapter, such right includes the right—
 
@@ -523,7 +523,7 @@ Each employee shall have the right to form, join, or assist any labor organizati
 
 **(2)** to engage in collective bargaining with respect to conditions of employment through representatives chosen by employees under this chapter.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1192.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1192.)
 
 **Editorial Notes**
 
@@ -541,7 +541,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 Par. (2) of this section suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(b) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under section 7103 of this title.
 
-### § 7103. Definitions; application
+### § 7103. Definitions; application
 
 **(a)** For the purpose of this chapter—
 
@@ -565,9 +565,9 @@ but does not include—
 
 **(v)** any person who participates in a strike in violation of section 7311 of this title;
 
-**(3)** “agency” means an Executive agency (including a nonappropriated fund instrumentality described in section 2105(c) of this title and the Veterans’ Canteen Service, Department of Veterans Affairs), the Library of Congress, the Government Publishing Office, and the Smithsonian Institution 1
+**(3)** “agency” means an Executive agency (including a nonappropriated fund instrumentality described in section 2105(c) of this title and the Veterans’ Canteen Service, Department of Veterans Affairs), the Library of Congress, the Government Publishing Office, and the Smithsonian Institution 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 but does not include—
 
@@ -673,7 +673,7 @@ and continues to be so recognized in accordance with the provisions of this chap
 
 **(2)** The President may issue an order suspending any provision of this chapter with respect to any agency, installation, or activity located outside the 50 States and the District of Columbia, if the President determines that the suspension is necessary in the interest of national security.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, § 2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, § 13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, § 501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, § 1634(a), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, § 341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 139], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, § 2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, § 13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, § 501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, § 1634(a), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, § 341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 139], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
@@ -687,7 +687,7 @@ and continues to be so recognized in accordance with the provisions of this chap
 
 Subsec. (a)(3). Pub. L. 105–220, in introductory provisions, struck out “and” after “Library of Congress,” and inserted “and the Smithsonian Institution” after “Government Printing Office,”.
 
-1996—Subsec. (a)(3)(F) to (H). Pub. L. 104–201 inserted “or” at end of subpar. (F), substituted a period for “; or” at end of subpar. (G), and struck out subpar. (H) which read as follows: “the Central Imagery Office;”.
+1996—Subsec. (a)(3)(F) to (H). Pub. L. 104–201 inserted “or” at end of subpar. (F), substituted a period for “; or” at end of subpar. (G), and struck out subpar. (H) which read as follows: “the Central Imagery Office;”.
 
 1994—Subsec. (a)(3)(H). Pub. L. 103–359 added subpar. (H).
 
@@ -731,9 +731,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **Ex. Ord. No. 12171. Exclusions From Coverage of Program**
 
-Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, § 5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, § 3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§ 2–6, Nov. 26, 2008, 73 F.R. 73991, 73992; Ex. Ord. No. 13741, § 3, Sept. 29, 2016, 81 F.R. 68291; Ex. Ord. No. 13760, § 2, Jan. 12, 2017, 82 F.R. 5325; Ex. Ord. No. 13869, § 3(b), Apr. 24, 2019, 84 F.R. 18130; Ex. Ord. No. 14251, §§ 2, 3, Mar. 27, 2025, 90 F.R. 14553, 13555; Ex. Ord. No. 14343, § 2, Aug. 28, 2025, 90 F.R. 42683, provided:
+Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, § 5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, § 3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§ 2–6, Nov. 26, 2008, 73 F.R. 73991, 73992; Ex. Ord. No. 13741, § 3, Sept. 29, 2016, 81 F.R. 68291; Ex. Ord. No. 13760, § 2, Jan. 12, 2017, 82 F.R. 5325; Ex. Ord. No. 13869, § 3(b), Apr. 24, 2019, 84 F.R. 18130; Ex. Ord. No. 14251, §§ 2, 3, Mar. 27, 2025, 90 F.R. 14553, 13555; Ex. Ord. No. 14343, § 2, Aug. 28, 2025, 90 F.R. 42683, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 and Section 4103(b) of Title 22 [section 1003 of Pub. L. 96–465], of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program and Subchapter X of Chapter 52 of Title 22 [chapter 10 (§ 1001 et seq.) of title I of Pub. L. 96–465; 22 U.S.C. 4103 et seq.], it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 and Section 4103(b) of Title 22 [section 1003 of Pub. L. 96–465], of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program and Subchapter X of Chapter 52 of Title 22 [chapter 10 (§ 1001 et seq.) of title I of Pub. L. 96–465; 22 U.S.C. 4103 et seq.], it is hereby ordered as follows:
 
 **1–1. Determinations**
 
@@ -1275,7 +1275,7 @@ Sec. 1–215. National Geospatial-Intelligence Agency (NGA), Department of Defen
 
 (d) Each subdivision reporting to the Deputy Administrator for Management and Resources.
 
-[Ex. Ord. No. 13741, § 3, which directed amendment of section 1–216 of Ex. Ord. No. 12171, set out above, by substituting “Agencies or subdivisions of the Office of Personnel Management:” and subsections (a) to (d) for “The Federal Investigative Services Division”, was executed by making the substitution for “The Federal Investigative Services Division., Office of Personnel Management.”]
+[Ex. Ord. No. 13741, § 3, which directed amendment of section 1–216 of Ex. Ord. No. 12171, set out above, by substituting “Agencies or subdivisions of the Office of Personnel Management:” and subsections (a) to (d) for “The Federal Investigative Services Division”, was executed by making the substitution for “The Federal Investigative Services Division., Office of Personnel Management.”]
 
 **Ex. Ord. No. 12391. Partial Suspension of Federal Service Labor-Management Relations**
 
@@ -1623,7 +1623,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. *Determinations*. (a) The agencies and agency subdivisions set forth in section 2 of this order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of title 5, United States Code, cannot be applied to these agencies and agency subdivisions in a manner consistent with national security requirements and considerations.
 
-(b) The agency subdivisions set forth in section 3 of this order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Subchapter X of Chapter 52 of title 22, United States Code, [§ 4101 et seq.; chapter 10 (§ 1001 et seq.) of title I of Pub. L. 96–465] cannot be applied to these subdivisions in a manner consistent with national security requirements and considerations.
+(b) The agency subdivisions set forth in section 3 of this order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Subchapter X of Chapter 52 of title 22, United States Code, [§ 4101 et seq.; chapter 10 (§ 1001 et seq.) of title I of Pub. L. 96–465] cannot be applied to these subdivisions in a manner consistent with national security requirements and considerations.
 
 Sec. 2. *Additional National Security Exclusions*. [Amended Ex. Ord. No. 12171, set out above.]
 
@@ -1717,9 +1717,9 @@ Donald J. Trump.
 
 **Delegation of Certain Authority Under the Federal Service Labor-Management Relations Statute**
 
-Memorandum of President of the United States, Jan. 29, 2020, 85 F.R. 10033, which delegated to the Secretary of Defense authority under subsec. (b)(1) and (2) of this section to issue orders excluding Department of Defense agencies or subdivisions thereof from Federal Service Labor-Management Relations Act coverage, was revoked by Ex. Ord. No. 14018, § 1, Feb. 24, 2021, 86 F.R. 11855.
+Memorandum of President of the United States, Jan. 29, 2020, 85 F.R. 10033, which delegated to the Secretary of Defense authority under subsec. (b)(1) and (2) of this section to issue orders excluding Department of Defense agencies or subdivisions thereof from Federal Service Labor-Management Relations Act coverage, was revoked by Ex. Ord. No. 14018, § 1, Feb. 24, 2021, 86 F.R. 11855.
 
-### § 7104. Federal Labor Relations Authority
+### § 7104. Federal Labor Relations Authority
 
 **(a)** The Federal Labor Relations Authority is composed of three members, not more than 2 of whom may be adherents of the same political party. No member shall engage in any other business or employment or hold another office or position in the Government of the United States except as otherwise provided by law.
 
@@ -1749,15 +1749,15 @@ Memorandum of President of the United States, Jan. 29, 2020, 85 F.R. 10033, whic
 
 **(3)** The General Counsel shall have direct authority over, and responsibility for, all employees in the office of General Counsel, including employees of the General Counsel in the regional offices of the Authority.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1196; amended Pub. L. 98–224, § 3, Mar. 2, 1984, 98 Stat. 47.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1196; amended Pub. L. 98–224, § 3, Mar. 2, 1984, 98 Stat. 47.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (b). Pub. L. 98–224, § 3(a), inserted provision directing that Chairman be chief executive and administrative officer.
+1984—Subsec. (b). Pub. L. 98–224, § 3(a), inserted provision directing that Chairman be chief executive and administrative officer.
 
-Subsec. (c). Pub. L. 98–224, § 3(b), substituted provision that a member of Authority be appointed for a term of 5 years and an individual chosen to fill a vacancy be appointed for unexpired term of member replaced for provision that one original member of Authority be appointed for a term of 1 year, one for a term of 3 years, and Chairman for a term of 5 years, and thereafter each member be appointed for a term of 5 years.
+Subsec. (c). Pub. L. 98–224, § 3(b), substituted provision that a member of Authority be appointed for a term of 5 years and an individual chosen to fill a vacancy be appointed for unexpired term of member replaced for provision that one original member of Authority be appointed for a term of 1 year, one for a term of 3 years, and Chairman for a term of 5 years, and thereafter each member be appointed for a term of 5 years.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1783,7 +1783,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George W. Bush.
 
-### § 7105. Powers and duties of the Authority
+### § 7105. Powers and duties of the Authority
 
 **(a)**
 
@@ -1849,7 +1849,7 @@ the action shall become the action of the Authority at the end of such 60-day pe
 
 **(i)** In the exercise of the functions of the Authority under this title, the Authority may request from the Director of the Office of Personnel Management an advisory opinion concerning the proper interpretation of rules, regulations, or policy directives issued by the Office of Personnel Management in connection with any matter before the Authority.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1196.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1196.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1861,7 +1861,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 Subsec. (a)(2)(D), (E), (G), and (H) of this section suspended with respect to any matter which substantially impairs the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(a) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under section 7103 of this title.
 
-### § 7106. Management rights
+### § 7106. Management rights
 
 **(a)** Subject to subsection (b) of this section, nothing in this chapter shall affect the authority of any management official of any agency—
 
@@ -1889,7 +1889,7 @@ Subsec. (a)(2)(D), (E), (G), and (H) of this section suspended with respect to a
 
 **(3)** appropriate arrangements for employees adversely affected by the exercise of any authority under this section by such management officials.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1198.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1198.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1899,7 +1899,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 ## SUBCHAPTER II—RIGHTS AND DUTIES OF AGENCIES AND LABOR ORGANIZATIONS
 
-### § 7111. Exclusive recognition of labor organizations
+### § 7111. Exclusive recognition of labor organizations
 
 **(a)** An agency shall accord exclusive recognition to a labor organization if the organization has been selected as the representative, in a secret ballot election, by a majority of the employees in an appropriate unit who cast valid ballots in the election.
 
@@ -1951,7 +1951,7 @@ In any election in which no choice on the ballot receives a majority of the vote
 
 **(g)** Nothing in this section shall be construed to prohibit the waiving of hearings by stipulation for the purpose of a consent election in conformity with regulations and rules or decisions of the Authority.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1199.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1199.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1959,7 +1959,7 @@ In any election in which no choice on the ballot receives a majority of the vote
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### § 7112. Determination of appropriate units for labor organization representation
+### § 7112. Determination of appropriate units for labor organization representation
 
 **(a)** The Authority shall determine the appropriateness of any unit. The Authority shall determine in each case whether, in order to ensure employees the fullest freedom in exercising the rights guaranteed under this chapter, the appropriate unit should be established on an agency, plant, installation, functional, or other basis and shall determine any unit to be an appropriate unit only if the determination will ensure a clear and identifiable community of interest among the employees in the unit and will promote effective dealings with, and efficiency of the operations of the agency involved.
 
@@ -1987,7 +1987,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **(d)** Two or more units which are in an agency and for which a labor organization is the exclusive representative may, upon petition by the agency or labor organization, be consolidated with or without an election into a single larger unit if the Authority considers the larger unit to be appropriate. The Authority shall certify the labor organization as the exclusive representative of the new larger unit.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1200; amended Pub. L. 102–378, § 2(54), Oct. 2, 1992, 106 Stat. 1354.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1200; amended Pub. L. 102–378, § 2(54), Oct. 2, 1992, 106 Stat. 1354.)
 
 **Editorial Notes**
 
@@ -2001,7 +2001,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### § 7113. National consultation rights
+### § 7113. National consultation rights
 
 **(a)** If, in connection with any agency, no labor organization has been accorded exclusive recognition on an agency basis, a labor organization which is the exclusive representative of a substantial number of the employees of the agency, as determined in accordance with criteria prescribed by the Authority, shall be granted national consultation rights by the agency. National consultation rights shall terminate when the labor organization no longer meets the criteria prescribed by the Authority. Any issue relating to any labor organization’s eligibility for, or continuation of, national consultation rights shall be subject to determination by the Authority.
 
@@ -2021,7 +2021,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **(c)** Nothing in this section shall be construed to limit the right of any agency or exclusive representative to engage in collective bargaining.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1201; amended Pub. L. 102–378, § 2(55), Oct. 2, 1992, 106 Stat. 1354.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1201; amended Pub. L. 102–378, § 2(55), Oct. 2, 1992, 106 Stat. 1354.)
 
 **Editorial Notes**
 
@@ -2035,7 +2035,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### § 7114. Representation rights and duties
+### § 7114. Representation rights and duties
 
 **(a)**
 
@@ -2091,7 +2091,7 @@ except in the case of grievance or appeal procedures negotiated under this chapt
 
 **(4)** A local agreement subject to a national or other controlling agreement at a higher level shall be approved under the procedures of the controlling agreement or, if none, under regulations prescribed by the agency.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1202.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1202.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2103,7 +2103,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 Subsec. (a)(1) and (4) of this section suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(b) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under section 7103 of this title.
 
-### § 7115. Allotments to representatives
+### § 7115. Allotments to representatives
 
 **(a)** If an agency has received from an employee in an appropriate unit a written assignment which authorizes the agency to deduct from the pay of the employee amounts for the payment of regular and periodic dues of the exclusive representative of the unit, the agency shall honor the assignment and make an appropriate allotment pursuant to the assignment. Any such allotment shall be made at no cost to the exclusive representative or the employee. Except as provided under subsection (b) of this section, any such assignment may not be revoked for a period of 1 year.
 
@@ -2123,7 +2123,7 @@ Subsec. (a)(1) and (4) of this section suspended with respect to any matter prop
 
 **(B)** Any agreement under paragraph (1) of this subsection between a labor organization and an agency with respect to an appropriate unit shall be null and void upon the certification of an exclusive representative of the unit.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1203.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1203.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2131,7 +2131,7 @@ Subsec. (a)(1) and (4) of this section suspended with respect to any matter prop
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### § 7116. Unfair labor practices
+### § 7116. Unfair labor practices
 
 **(a)** For the purpose of this chapter, it shall be an unfair labor practice for an agency—
 
@@ -2195,7 +2195,7 @@ This subsection does not preclude any labor organization from enforcing discipli
 
 shall not, if the expression contains no threat of reprisal or force or promise of benefit or was not made under coercive conditions, (A) constitute an unfair labor practice under any provision of this chapter, or (B) constitute grounds for the setting aside of any election conducted under any provisions of this chapter.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1204.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1204.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2207,7 +2207,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 Subsec. (a)(5) of this section suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces, and subsec. (a)(7) of this section suspended with regard to any regulation governing the implementation by the United States Forces, of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(b), (c) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under section 7103 of this title.
 
-### § 7117. Duty to bargain in good faith; compelling need; duty to consult
+### § 7117. Duty to bargain in good faith; compelling need; duty to consult
 
 **(a)**
 
@@ -2273,7 +2273,7 @@ Subsec. (a)(5) of this section suspended with respect to any matter proposed for
 
 **(B)** the agency shall provide the labor organization a written statement of the reasons for taking the final action.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1205.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1205.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2285,7 +2285,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 Subsec. (b) of this section suspended with regard to any regulation governing the implementation by the United States Forces, and subsec. (c) of this section suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces, of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(b), (c) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under section 7103 of this title.
 
-### § 7118. Prevention of unfair labor practices
+### § 7118. Prevention of unfair labor practices
 
 **(a)**
 
@@ -2333,7 +2333,7 @@ If any such order requires reinstatement of an employee with backpay, backpay ma
 
 **(b)** In connection with any matter before the Authority in any proceeding under this section, the Authority may request, in accordance with the provisions of section 7105(i) of this title, from the Director of the Office of Personnel Management an advisory opinion concerning the proper interpretation of rules, regulations, or other policy directives issued by the Office of Personnel Management.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1207.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1207.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2341,7 +2341,7 @@ If any such order requires reinstatement of an employee with backpay, backpay ma
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### § 7119. Negotiation impasses; Federal Service Impasses Panel
+### § 7119. Negotiation impasses; Federal Service Impasses Panel
 
 **(a)** The Federal Mediation and Conciliation Service shall provide services and assistance to agencies and exclusive representatives in the resolution of negotiation impasses. The Service shall determine under what circumstances and in what manner it shall provide services and assistance.
 
@@ -2379,7 +2379,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **(C)** Notice of any final action of the Panel under this section shall be promptly served upon the parties, and the action shall be binding on such parties during the term of the agreement, unless the parties agree otherwise.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1208.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1208.)
 
 **Editorial Notes**
 
@@ -2425,7 +2425,7 @@ Sec. 2. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 
 Donald J. Trump.
 
-### § 7120. Standards of conduct for labor organizations
+### § 7120. Standards of conduct for labor organizations
 
 **(a)** An agency shall only accord recognition to a labor organization that is free from corrupt influences and influences opposed to basic democratic principles. Except as provided in subsection (b) of this section, an organization is not required to prove that it is free from such influences if it is subject to governing requirements adopted by the organization or by a national or international labor organization or federation of labor organizations with which it is affiliated, or in which it participates, containing explicit and detailed provisions to which it subscribes calling for—
 
@@ -2455,7 +2455,7 @@ Donald J. Trump.
 
 **(2)** take any other appropriate disciplinary action.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1210.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1210.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2469,9 +2469,9 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **Amendments**
 
-1979—Pub. L. 96–54, § 2(a)(42), Aug. 14, 1979, 93 Stat. 383, inserted “, APPEALS, AND REVIEW” after “GRIEVANCES”.
+1979—Pub. L. 96–54, § 2(a)(42), Aug. 14, 1979, 93 Stat. 383, inserted “, APPEALS, AND REVIEW” after “GRIEVANCES”.
 
-### § 7121. Grievance procedures
+### § 7121. Grievance procedures
 
 **(a)**
 
@@ -2551,7 +2551,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **(h)** Settlements and awards under this chapter shall be subject to the limitations in section 5596(b)(4) of this title.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1211; amended Pub. L. 103–424, § 9, Oct. 29, 1994, 108 Stat. 4365; Pub. L. 105–261, div. A, title XI, § 1104(b), Oct. 17, 1998, 112 Stat. 2142.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1211; amended Pub. L. 103–424, § 9, Oct. 29, 1994, 108 Stat. 4365; Pub. L. 105–261, div. A, title XI, § 1104(b), Oct. 17, 1998, 112 Stat. 2142.)
 
 **Editorial Notes**
 
@@ -2559,11 +2559,11 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 1998—Subsec. (h). Pub. L. 105–261 added subsec. (h).
 
-1994—Subsec. (a)(1). Pub. L. 103–424, § 9(c), substituted “(d), (e), and (g)” for “(d) and (e)” and inserted “administrative” after “exclusive”.
+1994—Subsec. (a)(1). Pub. L. 103–424, § 9(c), substituted “(d), (e), and (g)” for “(d) and (e)” and inserted “administrative” after “exclusive”.
 
-Subsec. (b). Pub. L. 103–424, § 9(a), designated existing provisions as par. (1) and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and subpars. (A) to (C) of former par. (3) as cls. (i) to (iii) of subpar. (a)(1)(C), respectively, and added par. (2).
+Subsec. (b). Pub. L. 103–424, § 9(a), designated existing provisions as par. (1) and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and subpars. (A) to (C) of former par. (3) as cls. (i) to (iii) of subpar. (a)(1)(C), respectively, and added par. (2).
 
-Subsec. (g). Pub. L. 103–424, § 9(b), added subsec. (g).
+Subsec. (g). Pub. L. 103–424, § 9(b), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2575,7 +2575,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 Subsec. (b)(3)(C) of this section suspended with respect to any grievance involving the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(d) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under section 7103 of this title.
 
-### § 7122. Exceptions to arbitral awards
+### § 7122. Exceptions to arbitral awards
 
 **(a)** Either party to arbitration under this chapter may file with the Authority an exception to any arbitrator’s award pursuant to the arbitration (other than an award relating to a matter described in section 7121(f) of this title). If upon review the Authority finds that the award is deficient—
 
@@ -2587,7 +2587,7 @@ the Authority may take such action and make such recommendations concerning the 
 
 **(b)** If no exception to an arbitrator’s award is filed under subsection (a) of this section during the 30-day period beginning on the date the award is served on the party, the award shall be final and binding. An agency shall take the actions required by an arbitrator’s final award. The award may include the payment of backpay (as provided in section 5596 of this title).
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1212; amended Pub. L. 98–224, § 4, Mar. 2, 1984, 98 Stat. 48.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1212; amended Pub. L. 98–224, § 4, Mar. 2, 1984, 98 Stat. 48.)
 
 **Editorial Notes**
 
@@ -2601,7 +2601,7 @@ the Authority may take such action and make such recommendations concerning the 
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### § 7123. Judicial review; enforcement
+### § 7123. Judicial review; enforcement
 
 **(a)** Any person aggrieved by any final order of the Authority other than an order under—
 
@@ -2617,7 +2617,7 @@ may, during the 60-day period beginning on the date on which the order was issue
 
 **(d)** The Authority may, upon issuance of a complaint as provided in section 7118 of this title charging that any person has engaged in or is engaging in an unfair labor practice, petition any United States district court within any district in which the unfair labor practice in question is alleged to have occurred or in which such person resides or transacts business for appropriate temporary relief (including a restraining order). Upon the filing of the petition, the court shall cause notice thereof to be served upon the person, and thereupon shall have jurisdiction to grant any temporary relief (including a temporary restraining order) it considers just and proper. A court shall not grant any temporary relief under this section if it would interfere with the ability of the agency to carry out its essential functions or if the Authority fails to establish probable cause that an unfair labor practice is being committed.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1213.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1213.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2631,7 +2631,7 @@ Subsec. (b) of this section suspended with respect to any matter which substanti
 
 ## SUBCHAPTER IV—ADMINISTRATIVE AND OTHER PROVISIONS
 
-### § 7131. Official time
+### § 7131. Official time
 
 **(a)** Any employee representing an exclusive representative in the negotiation of a collective bargaining agreement under this chapter shall be authorized official time for such purposes, including attendance at impasse proceeding, during the time the employee otherwise would be in a duty status. The number of employees for whom official time is authorized under this subsection shall not exceed the number of individuals designated as representing the agency for such purposes.
 
@@ -2647,7 +2647,7 @@ Subsec. (b) of this section suspended with respect to any matter which substanti
 
 shall be granted official time in any amount the agency and the exclusive representative involved agree to be reasonable, necessary, and in the public interest.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1214.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1214.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2659,11 +2659,11 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **Executive Order No. 13837**
 
-Ex. Ord. No. 13837, May 25, 2018, 83 F.R. 25335, which limited the use of taxpayer-funded union time by Federal employees in representing labor organizations and performing other non-agency business, was revoked by Ex. Ord. No. 14003, § 3(b), Jan. 22, 2021, 86 F.R. 7231, set out in a note under section 3301 of this title.
+Ex. Ord. No. 13837, May 25, 2018, 83 F.R. 25335, which limited the use of taxpayer-funded union time by Federal employees in representing labor organizations and performing other non-agency business, was revoked by Ex. Ord. No. 14003, § 3(b), Jan. 22, 2021, 86 F.R. 7231, set out in a note under section 3301 of this title.
 
 [Ex. Ord. No. 13837, formerly set out above, construed to be amended to the extent necessary, by Memorandum of President of the United States, Oct. 11, 2019, 84 F.R. 56095, set out as a note under section 7101 of this title.]
 
-### § 7132. Subpenas
+### § 7132. Subpenas
 
 **(a)** Any member of the Authority, the General Counsel, or the Panel, any administrative law judge appointed by the Authority under section 3105 of this title, and any employee of the Authority designated by the Authority may—
 
@@ -2677,7 +2677,7 @@ No subpena shall be issued under this section which requires the disclosure of i
 
 **(c)** Witnesses (whether appearing voluntarily or under subpena) shall be paid the same fee and mileage allowances which are paid subpenaed witnesses in the courts of the United States.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1214.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1214.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2685,13 +2685,13 @@ No subpena shall be issued under this section which requires the disclosure of i
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### § 7133. Compilation and publication of data
+### § 7133. Compilation and publication of data
 
 **(a)** The Authority shall maintain a file of its proceedings and copies of all available agreements and arbitration decisions, and shall publish the texts of its decisions and the actions taken by the Panel under section 7119 of this title.
 
 **(b)** All files maintained under subsection (a) of this section shall be open to inspection and reproduction in accordance with the provisions of sections 552 and 552a of this title.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1215.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1215.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2699,11 +2699,11 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### § 7134. Regulations
+### § 7134. Regulations
 
 The Authority, the General Counsel, the Federal Mediation and Conciliation Service, the Assistant Secretary of Labor for Labor Management Relations, and the Panel shall each prescribe rules and regulations to carry out the provisions of this chapter applicable to each of them, respectively. Provisions of subchapter II of chapter 5 of this title shall be applicable to the issuance, revision, or repeal of any such rule or regulation.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1215.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1215.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2711,7 +2711,7 @@ The Authority, the General Counsel, the Federal Mediation and Conciliation Servi
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### § 7135. Continuation of existing laws, recognitions, agreements, and procedures
+### § 7135. Continuation of existing laws, recognitions, agreements, and procedures
 
 **(a)** Nothing contained in this chapter shall preclude—
 
@@ -2721,7 +2721,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **(b)** Policies, regulations, and procedures established under and decisions issued under Executive Orders 11491, 11616, 11636, 11787, and 11838, or under any other Executive order, as in effect on the effective date of this chapter, shall remain in full force and effect until revised or revoked by the President, or unless superseded by specific provisions of this chapter or by regulations or decisions issued pursuant to this chapter.
 
-(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1215.)
+(Added Pub. L. 95–454, title VII, § 701, Oct. 13, 1978, 92 Stat. 1215.)
 
 **Editorial Notes**
 
@@ -2739,16 +2739,16 @@ Executive Order 11787, referred to in subsec. (b), which was set out as a note u
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### [§§ 7151 to 7154. Transferred]
+### [§§ 7151 to 7154. Transferred]
 
 **Editorial Notes**
 
 **Codification**
 
-Section 7151, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, which related to antidiscrimination policy of United States with respect to employment, was renumbered section 7201 of this title by Pub. L. 95–454, title VII, § 703(a)(1), Oct. 13, 1978, 92 Stat. 1216.
+Section 7151, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, which related to antidiscrimination policy of United States with respect to employment, was renumbered section 7201 of this title by Pub. L. 95–454, title VII, § 703(a)(1), Oct. 13, 1978, 92 Stat. 1216.
 
-Section 7152, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523; Pub. L. 92–187, § 3, Dec. 15, 1971, 85 Stat. 644, which related to prohibition respecting employment discrimination because of marital status, was renumbered section 7202 of this title by Pub. L. 95–454, title VII, § 703(a)(1), Oct. 13, 1978, 92 Stat. 1216.
+Section 7152, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523; Pub. L. 92–187, § 3, Dec. 15, 1971, 85 Stat. 644, which related to prohibition respecting employment discrimination because of marital status, was renumbered section 7202 of this title by Pub. L. 95–454, title VII, § 703(a)(1), Oct. 13, 1978, 92 Stat. 1216.
 
 Section 7153, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, which related to prohibition respecting employment discrimination because of physical handicap, was renumbered section 7203 of this title by Pub. L. 95–454, title VII, 703(a)(1), Oct. 13, 1978, 92 Stat. 1216.
 
-Section 7154, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523; Pub. L. 90–83, § 1(44), Sept. 11, 1967, 81 Stat. 208; Pub. L. 92–392, § 8, Aug. 19, 1972, 86 Stat. 573, which related to prohibition respecting discrimination because of race, color, creed, sex, or marital status in administration of chapter 51, subchapter III and IV of chapter 53, and sections 305 and 3324 of this title, was renumbered section 7204 of this title by Pub. L. 95–454, title VII, § 703(a)(1), Oct. 13, 1978, 92 Stat. 1216.
+Section 7154, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523; Pub. L. 90–83, § 1(44), Sept. 11, 1967, 81 Stat. 208; Pub. L. 92–392, § 8, Aug. 19, 1972, 86 Stat. 573, which related to prohibition respecting discrimination because of race, color, creed, sex, or marital status in administration of chapter 51, subchapter III and IV of chapter 53, and sections 305 and 3324 of this title, was renumbered section 7204 of this title by Pub. L. 95–454, title VII, § 703(a)(1), Oct. 13, 1978, 92 Stat. 1216.

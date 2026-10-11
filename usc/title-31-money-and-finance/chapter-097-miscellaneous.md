@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2015—Pub. L. 114–22, title I, § 105(c)(2)(B), May 29, 2015, 129 Stat. 238, amended analysis generally, substituting items 9701 to 9705 for former items 9701 to 9704, which included two items 9703.
+2015—Pub. L. 114–22, title I, § 105(c)(2)(B), May 29, 2015, 129 Stat. 238, amended analysis generally, substituting items 9701 to 9705 for former items 9701 to 9704, which included two items 9703.
 
-1993—Pub. L. 103–62, § 11(b)(2), Aug. 3, 1993, 107 Stat. 295, added item 9703 relating to managerial accountability and flexibility and item 9704.
+1993—Pub. L. 103–62, § 11(b)(2), Aug. 3, 1993, 107 Stat. 295, added item 9703 relating to managerial accountability and flexibility and item 9704.
 
-1992—Pub. L. 102–393, title VI, § 638(b)(2), Oct. 6, 1992, 106 Stat. 1788, added item 9703.
+1992—Pub. L. 102–393, title VI, § 638(b)(2), Oct. 6, 1992, 106 Stat. 1788, added item 9703.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -149,7 +149,7 @@ Pub. L. 116–283, div. H, title XCVII, subtitle A, Jan. 1, 2021, 134 Stat. 4834
 
 > **“(8) Stolen assets.—** The term ‘stolen assets’ means financial assets within the jurisdiction of the United States, constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from foreign government corruption.”
 
-## § 9701. Fees and charges for Government services and things of value
+## § 9701. Fees and charges for Government services and things of value
 
 **(a)** It is the sense of Congress that each service or thing of value provided by an agency (except a mixed-ownership Government corporation) to a person (except a person on official business of the United States Government) is to be self-sustaining to the extent possible.
 
@@ -179,13 +179,13 @@ Pub. L. 116–283, div. H, title XCVII, subtitle A, Jan. 1, 2021, 134 Stat. 4834
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9701 | 31:483a. | Aug. 31, 1951, ch. 376, § 501, 65 Stat. 290. |
+| 9701 | 31:483a. | Aug. 31, 1951, ch. 376, § 501, 65 Stat. 290. |
 
 In the section, the words “agency (except a mixed-ownership Government corporation)” are substituted for “Federal agency (including wholly owned Government corporations as defined in the Government Corporation Control Act of 1945 [31 U.S.C. 841 et seq.]” because of section 101 of the revised title and for consistency.
 
 In subsection (a), the words “each service or thing of value provided” are substituted for “any work, service, publication, report, document, benefit, privilege, authority, use, franchise, license, permit, certificate, registration or similar thing of value or utility performed, furnished, provided, granted, prepared, or issued” for consistency and to eliminate unnecessary words. The words “(including groups, associations, organizations, partnerships, corporations, or businesses)” are omitted as being included in “person” under 1:1.
 
-In subsection (b), before clause (1), the words “may prescribe regulations establishing the charge for a service or thing of value provided by the agency” are substituted for “is authorized by regulation . . . to prescribe therefor such fee, charge, or price, if any, as he shall determine, in case none exists, or redetermine, in case of any existing one” for consistency, to eliminate unnecessary words, and because of the restatement. In clause (1), the words “and equitable” are omitted as being included in “fair”. In clause (2)(A), the words “direct and indirect” are omitted as surplus. In clause (2)(B), the words “of the service or thing” are added for clarity. In clause (2)(D), the words “and any amount so determined or redetermined shall be collected and paid into the Treasury as miscellaneous receipts” are omitted as unnecessary because of section 3302(a) of this title.
+In subsection (b), before clause (1), the words “may prescribe regulations establishing the charge for a service or thing of value provided by the agency” are substituted for “is authorized by regulation . . . to prescribe therefor such fee, charge, or price, if any, as he shall determine, in case none exists, or redetermine, in case of any existing one” for consistency, to eliminate unnecessary words, and because of the restatement. In clause (1), the words “and equitable” are omitted as being included in “fair”. In clause (2)(A), the words “direct and indirect” are omitted as surplus. In clause (2)(B), the words “of the service or thing” are added for clarity. In clause (2)(D), the words “and any amount so determined or redetermined shall be collected and paid into the Treasury as miscellaneous receipts” are omitted as unnecessary because of section 3302(a) of this title.
 
 Subsection (c) is substituted for 31:483a(provisos) for clarity and to eliminate unnecessary words.
 
@@ -193,9 +193,9 @@ Subsection (c) is substituted for 31:483a(provisos) for clarity and to eliminate
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–393, title VI, § 638(a), Oct. 6, 1992, 106 Stat. 1779, provided that: “This section [enacting section 9703 of this title and amending sections 981 and 982 of Title 18, Crimes and Criminal Procedure, section 1509 of Title 21, Food and Drugs, section 524 of Title 28, Judiciary and Judicial Procedure, and section 2003 of Title 39, Postal Service] may be cited as the ‘Treasury Forfeiture Fund Act of 1992’.”
+Pub. L. 102–393, title VI, § 638(a), Oct. 6, 1992, 106 Stat. 1779, provided that: “This section [enacting section 9703 of this title and amending sections 981 and 982 of Title 18, Crimes and Criminal Procedure, section 1509 of Title 21, Food and Drugs, section 524 of Title 28, Judiciary and Judicial Procedure, and section 2003 of Title 39, Postal Service] may be cited as the ‘Treasury Forfeiture Fund Act of 1992’.”
 
-## § 9702. Investment of trust funds
+## § 9702. Investment of trust funds
 
 Except as required by a treaty of the United States, amounts held in trust by the United States Government (including annual interest earned on the amounts)—
 
@@ -209,15 +209,15 @@ Except as required by a treaty of the United States, amounts held in trust by th
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9702 | 31:547a. | R.S. § 3659. |
+| 9702 | 31:547a. | R.S. § 3659. |
 
 The section is substituted for 31:547a for clarity and consistency in the revised title.
 
-## § 9703. Managerial accountability and flexibility
+## § 9703. Managerial accountability and flexibility
 
 **(a)** Beginning with fiscal year 1999, the performance plans required under section 1115 may include proposals to waive administrative procedural requirements and controls, including specification of personnel staffing levels, limitations on compensation or remuneration, and prohibitions or restrictions on funding transfers among budget object classification 20 and subclassifications 11, 12, 31, and 32 of each annual budget submitted under section 1105, in return for specific individual or organization accountability to achieve a performance goal. In preparing and submitting the performance plan under section 1105(a)(29),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Director of the Office of Management and Budget shall review and may approve any proposed waivers. A waiver shall take effect at the beginning of the fiscal year for which the waiver is approved.
 
@@ -229,17 +229,17 @@ the Director of the Office of Management and Budget shall review and may approve
 
 **(e)** A waiver shall be in effect for one or two years as specified by the Director of the Office of Management and Budget in approving the waiver. A waiver may be renewed for a subsequent year. After a waiver has been in effect for three consecutive years, the performance plan prepared under section 1115 may propose that a waiver, other than a waiver of limitations on compensation or remuneration, be made permanent.
 
-**(f)** For purposes of this section, the definitions under section 1115(f) <sup>1</sup> shall apply.
+**(f)** For purposes of this section, the definitions under section 1115(f) <sup>1</sup> shall apply.
 
-(Added Pub. L. 103–62, § 5(a), Aug. 3, 1993, 107 Stat. 289.)
+(Added Pub. L. 103–62, § 5(a), Aug. 3, 1993, 107 Stat. 289.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1105(a)(29), referred to in subsec. (a), was redesignated section 1105(a)(28) of this title by Pub. L. 104–287, § 4(1), Oct. 11, 1996, 110 Stat. 3388.
+Section 1105(a)(29), referred to in subsec. (a), was redesignated section 1105(a)(28) of this title by Pub. L. 104–287, § 4(1), Oct. 11, 1996, 110 Stat. 3388.
 
-Section 1115, referred to in subsec. (f), was repealed, and a new section 1115 enacted, by Pub. L. 111–352, § 3, Jan. 4, 2011, 124 Stat. 3867. As reenacted, definitions in former section 1115(f) are now contained in section 1115(h) of this title.
+Section 1115, referred to in subsec. (f), was repealed, and a new section 1115 enacted, by Pub. L. 111–352, § 3, Jan. 4, 2011, 124 Stat. 3867. As reenacted, definitions in former section 1115(f) are now contained in section 1115(h) of this title.
 
 **Codification**
 
@@ -251,25 +251,25 @@ Another section 9703 was renumbered section 9705 of this title.
 
 No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under section 1101 of this title.
 
-## § 9704. Pilot projects for managerial accountability and flexibility
+## § 9704. Pilot projects for managerial accountability and flexibility
 
 **(a)** The Director of the Office of Management and Budget shall designate not less than five agencies as pilot projects in managerial accountability and flexibility for fiscal years 1995 and 1996. Such agencies shall be selected from those designated as pilot projects under section 1118 and shall reflect a representative range of Government functions and capabilities in measuring and reporting program performance.
 
 **(b)** Pilot projects in the designated agencies shall include proposed waivers in accordance with section 9703 for one or more of the major functions and operations of the agency.
 
-**(c)** For purposes of this section the definitions under section 1115(f) 1
+**(c)** For purposes of this section the definitions under section 1115(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall apply.
 
-(Added Pub. L. 103–62, § 6(b), Aug. 3, 1993, 107 Stat. 290; amended Pub. L. 118–190, § 6(b), Dec. 23, 2024, 138 Stat. 2656.)
+(Added Pub. L. 103–62, § 6(b), Aug. 3, 1993, 107 Stat. 290; amended Pub. L. 118–190, § 6(b), Dec. 23, 2024, 138 Stat. 2656.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1115, referred to in subsec. (c), was repealed, and a new section 1115 enacted, by Pub. L. 111–352, § 3, Jan. 4, 2011, 124 Stat. 3867. As reenacted, definitions in former section 1115(f) are now contained in section 1115(h) of this title.
+Section 1115, referred to in subsec. (c), was repealed, and a new section 1115 enacted, by Pub. L. 111–352, § 3, Jan. 4, 2011, 124 Stat. 3867. As reenacted, definitions in former section 1115(f) are now contained in section 1115(h) of this title.
 
 **Amendments**
 
@@ -285,7 +285,7 @@ Section 1115, referred to in subsec. (c), was repealed, and a new section 1115 e
 
 No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under section 1101 of this title.
 
-## § 9705. Department of the Treasury Forfeiture Fund
+## § 9705. Department of the Treasury Forfeiture Fund
 
 **(a) In General.—** There is established in the Treasury of the United States a fund to be known as the “Department of the Treasury Forfeiture Fund” (referred to in this section as the “Fund”). The Fund shall be available to the Secretary, without fiscal year limitation, with respect to seizures and forfeitures made pursuant to any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by a Department of the Treasury law enforcement organization for the following law enforcement purposes:
 
@@ -453,9 +453,9 @@ The Fund shall be subject to annual financial audits as authorized in the Chief 
 
 **(1)** There are hereby appropriated from the Fund such sums as may be necessary to carry out the purposes described in subsection (a)(1).
 
-**(2)** There are authorized to be appropriated from the Fund to carry out the purposes set forth in subsections (a)(2) 1
+**(2)** There are authorized to be appropriated from the Fund to carry out the purposes set forth in subsections (a)(2) 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 not to exceed—
 
@@ -467,13 +467,13 @@ not to exceed—
 
 **(A)** Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(B)** Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
 
-**(C)** The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year 3
+**(C)** The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year 3
 
-<sup>3</sup>  So in original. Probably should be “years”.
+<sup>3</sup> So in original. Probably should be “years”.
 
 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to paragraph (4)(B) shall also be carried forward.
 
@@ -549,7 +549,7 @@ not to exceed—
 
 **(2) Secretary.—** The term “Secretary” means the Secretary of the Treasury.
 
-(Added Pub. L. 102–393, title VI, § 638(b)(1), Oct. 6, 1992, 106 Stat. 1779, § 9703; amended Pub. L. 103–182, title VI, § 685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, § 90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, § 112, Sept. 30, 1994, 108 Stat. 2391; Pub. L. 104–208, div. A, title I, § 101(f) [title I, § 116], Sept. 30, 1996, 110 Stat. 3009–314, 3009–325; Pub. L. 105–61, title I, § 122(b), (c), Oct. 10, 1997, 111 Stat. 1289; Pub. L. 107–296, title XI, § 1112(n), Nov. 25, 2002, 116 Stat. 2278; Pub. L. 111–350, § 5(h)(10), Jan. 4, 2011, 124 Stat. 3849; renumbered § 9705 and amended Pub. L. 114–22, title I, § 105(c)(1), May 29, 2015, 129 Stat. 237; Pub. L. 115–392, § 4(b), Dec. 21, 2018, 132 Stat. 5251; Pub. L. 119–60, div. G, title LXXII, § 7207(a)–(c), Dec. 18, 2025, 139 Stat. 1692, 1693.)
+(Added Pub. L. 102–393, title VI, § 638(b)(1), Oct. 6, 1992, 106 Stat. 1779, § 9703; amended Pub. L. 103–182, title VI, § 685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, § 90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, § 112, Sept. 30, 1994, 108 Stat. 2391; Pub. L. 104–208, div. A, title I, § 101(f) [title I, § 116], Sept. 30, 1996, 110 Stat. 3009–314, 3009–325; Pub. L. 105–61, title I, § 122(b), (c), Oct. 10, 1997, 111 Stat. 1289; Pub. L. 107–296, title XI, § 1112(n), Nov. 25, 2002, 116 Stat. 2278; Pub. L. 111–350, § 5(h)(10), Jan. 4, 2011, 124 Stat. 3849; renumbered § 9705 and amended Pub. L. 114–22, title I, § 105(c)(1), May 29, 2015, 129 Stat. 237; Pub. L. 115–392, § 4(b), Dec. 21, 2018, 132 Stat. 5251; Pub. L. 119–60, div. G, title LXXII, § 7207(a)–(c), Dec. 18, 2025, 139 Stat. 1692, 1693.)
 
 **Editorial Notes**
 
@@ -557,99 +557,99 @@ not to exceed—
 
 Sections 7301 and 7302 of the Internal Revenue Code of 1986, referred to in subsecs. (a), (c)(2)(A), (g)(1), and (i)(1), are classified to sections 7301 and 7302, respectively, of Title 26, Internal Revenue Code. .
 
-The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21 (§ 1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
+The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21 (§ 1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
 
 Section 630 of the Tariff Act of 1930, referred to in subsec. (a)(2)(E), is classified to section 1630 of Title 19, Customs Duties.
 
 The Chief Financial Officers Act of 1990, referred to in subsec. (e), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of this title and Tables.
 
-Section 6073 of the Anti-Drug Abuse Act of 1988, referred to in subsec. (f)(3)(A), was classified to section 1509 of Title 21, Food and Drugs, prior to repeal by Pub. L. 109–469, title XI, § 1101(b), Dec. 29, 2006, 120 Stat. 3539.
+Section 6073 of the Anti-Drug Abuse Act of 1988, referred to in subsec. (f)(3)(A), was classified to section 1509 of Title 21, Food and Drugs, prior to repeal by Pub. L. 109–469, title XI, § 1101(b), Dec. 29, 2006, 120 Stat. 3539.
 
 The date of the enactment of this section, referred to in subsec. (f)(3)(C), is the date of the enactment of Pub. L. 102–393, which was approved Oct. 6, 1992.
 
-Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (g)(2)(C), was classified to section 2291(h) of Title 22, Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, § 6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
+Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (g)(2)(C), was classified to section 2291(h) of Title 22, Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, § 6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
 
 The effective date of the Treasury Forfeiture Act of 1992, referred to in subsec. (i)(2), probably means the date of enactment of the Treasury Forfeiture Fund Act of 1992, section 638 of Pub. L. 102–393, which was approved Oct. 6, 1992.
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 7207(a)(1), substituted “a Department of the Treasury law enforcement organization” for “the Department of the Treasury or the United States Coast Guard” in introductory provisions.
+2025—Subsec. (a). Pub. L. 119–60, § 7207(a)(1), substituted “a Department of the Treasury law enforcement organization” for “the Department of the Treasury or the United States Coast Guard” in introductory provisions.
 
-Subsec. (a)(1)(G). Pub. L. 119–60, § 7207(b)(6), substituted “subsection (g)” for “subsection (h).”
+Subsec. (a)(1)(G). Pub. L. 119–60, § 7207(b)(6), substituted “subsection (g)” for “subsection (h).”
 
-Subsec. (a)(2)(B)(vi). Pub. L. 119–60, § 7207(a)(2), added cl. (vi).
+Subsec. (a)(2)(B)(vi). Pub. L. 119–60, § 7207(a)(2), added cl. (vi).
 
-Subsec. (a)(2)(H). Pub. L. 119–60, § 7207(a)(3), substituted “a Department of the Treasury law enforcement organization” for “the Department of the Treasury”.
+Subsec. (a)(2)(H). Pub. L. 119–60, § 7207(a)(3), substituted “a Department of the Treasury law enforcement organization” for “the Department of the Treasury”.
 
-Subsec. (b)(4). Pub. L. 119–60, § 7207(b)(6), substituted “subsection (g)” for “subsection (h)” in introductory provisions.
+Subsec. (b)(4). Pub. L. 119–60, § 7207(b)(6), substituted “subsection (g)” for “subsection (h)” in introductory provisions.
 
-Subsec. (b)(5). Pub. L. 119–60, § 7207(b)(4), substituted “subsection (c)” for “subsection (d).”
+Subsec. (b)(5). Pub. L. 119–60, § 7207(b)(4), substituted “subsection (c)” for “subsection (d).”
 
-Subsecs. (c), (d). Pub. L. 119–60, § 7207(b)(1), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which made funds available to the United States Coast Guard.
+Subsecs. (c), (d). Pub. L. 119–60, § 7207(b)(1), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which made funds available to the United States Coast Guard.
 
-Subsec. (d)(1)(B). Pub. L. 119–60, § 7207(b)(5), substituted “subsection (d)” for “subsection (e).”
+Subsec. (d)(1)(B). Pub. L. 119–60, § 7207(b)(5), substituted “subsection (d)” for “subsection (e).”
 
-Subsec. (d)(2). Pub. L. 119–60, § 7207(a)(4), struck out “or the United States Coast Guard” after “enforcement organization” in subpars. (A) and (C).
+Subsec. (d)(2). Pub. L. 119–60, § 7207(a)(4), struck out “or the United States Coast Guard” after “enforcement organization” in subpars. (A) and (C).
 
-Subsec. (d)(2)(B). Pub. L. 119–60, § 7207(b)(5), substituted “subsection (d)” for “subsection (e).”
+Subsec. (d)(2)(B). Pub. L. 119–60, § 7207(b)(5), substituted “subsection (d)” for “subsection (e).”
 
-Subsecs. (e), (f). Pub. L. 119–60, § 7207(b)(3), redesignated subsecs. (f) and (g) as (e) and (f), respectively. Former subsec. (e) redesignated (d).
+Subsecs. (e), (f). Pub. L. 119–60, § 7207(b)(3), redesignated subsecs. (f) and (g) as (e) and (f), respectively. Former subsec. (e) redesignated (d).
 
-Subsec. (f)(1)(A)(ii). Pub. L. 119–60, § 7207(a)(5), struck out “or the United States Coast Guard” after “enforcement organizations”.
+Subsec. (f)(1)(A)(ii). Pub. L. 119–60, § 7207(a)(5), struck out “or the United States Coast Guard” after “enforcement organizations”.
 
-Subsec. (f)(2)(E). Pub. L. 119–60, § 7207(b)(4), substituted “subsection (c)” for “subsection (d)”
+Subsec. (f)(2)(E). Pub. L. 119–60, § 7207(b)(4), substituted “subsection (c)” for “subsection (d)”
 
-Subsec. (f)(3)(C). Pub. L. 119–60, § 7207(c)(1), substituted “paragraph (4)(B)” for “section 4(B) of 9703(g)”.
+Subsec. (f)(3)(C). Pub. L. 119–60, § 7207(c)(1), substituted “paragraph (4)(B)” for “section 4(B) of 9703(g)”.
 
-Subsec. (f)(4)(B). Pub. L. 119–60, § 7207(c)(2), struck out “for transfers pursuant to subparagraph (A)(ii)” after “fiscal year limitation,”.
+Subsec. (f)(4)(B). Pub. L. 119–60, § 7207(c)(2), struck out “for transfers pursuant to subparagraph (A)(ii)” after “fiscal year limitation,”.
 
-Subsec. (g). Pub. L. 119–60, § 7207(b)(3), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 119–60, § 7207(b)(3), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-Subsec. (g)(2). Pub. L. 119–60, § 7207(c)(3), substituted “seizure or forfeiture” for “seizure of forfeiture”.
+Subsec. (g)(2). Pub. L. 119–60, § 7207(c)(3), substituted “seizure or forfeiture” for “seizure of forfeiture”.
 
-Pub. L. 119–60, § 7207(b)(2), struck out “and (c)” after “subsections (a)(2)”.
+Pub. L. 119–60, § 7207(b)(2), struck out “and (c)” after “subsections (a)(2)”.
 
-Subsec. (h). Pub. L. 119–60, § 7207(b)(3), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+Subsec. (h). Pub. L. 119–60, § 7207(b)(3), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-Subsec. (h)(1). Pub. L. 119–60, § 7207(a)(6), substituted “a Department of the Treasury law enforcement organization” for “Department of the Treasury” in introductory provisions.
+Subsec. (h)(1). Pub. L. 119–60, § 7207(a)(6), substituted “a Department of the Treasury law enforcement organization” for “Department of the Treasury” in introductory provisions.
 
-Subsecs. (i), (j). Pub. L. 119–60, § 7207(b)(3), redesignated subsecs. (j) and (k) as (i) and (j), respectively. Former subsec. (i) redesignated (h).
+Subsecs. (i), (j). Pub. L. 119–60, § 7207(b)(3), redesignated subsecs. (j) and (k) as (i) and (j), respectively. Former subsec. (i) redesignated (h).
 
-Subsec. (j)(1). Pub. L. 119–60, § 7207(a)(7), substituted “a Department of the Treasury law enforcement organization” for “the Department of the Treasury or the United States Coast Guard” in introductory provisions.
+Subsec. (j)(1). Pub. L. 119–60, § 7207(a)(7), substituted “a Department of the Treasury law enforcement organization” for “the Department of the Treasury or the United States Coast Guard” in introductory provisions.
 
-Subsec. (k). Pub. L. 119–60, § 7207(b)(3), redesignated subsec. (*l*) as (k). Former subsec. (k) redesignated (j).
+Subsec. (k). Pub. L. 119–60, § 7207(b)(3), redesignated subsec. (*l*) as (k). Former subsec. (k) redesignated (j).
 
-Subsec. (*l*). Pub. L. 119–60, § 7207(c)(4), substituted “section 524(c)” for “section 524(c)(11)” in introductory provisions.
+Subsec. (*l*). Pub. L. 119–60, § 7207(c)(4), substituted “section 524(c)” for “section 524(c)(11)” in introductory provisions.
 
-Pub. L. 119–60, § 7207(b)(3), redesignated subsec. (m) as (*l*). Former subsec. (*l*) redesignated (k).
+Pub. L. 119–60, § 7207(b)(3), redesignated subsec. (m) as (*l*). Former subsec. (*l*) redesignated (k).
 
-Pub. L. 119–60, § 7207(a)(8), substituted “a Department of the Treasury law enforcement organization” for “the Department of the Treasury”.
+Pub. L. 119–60, § 7207(a)(8), substituted “a Department of the Treasury law enforcement organization” for “the Department of the Treasury”.
 
-Subsecs. (m), (n). Pub. L. 119–60, § 7207(b)(3), redesignated subsecs. (n) and (*o*) as (m) and (n), respectively. Former subsec. (m) redesignated (*l*).
+Subsecs. (m), (n). Pub. L. 119–60, § 7207(b)(3), redesignated subsecs. (n) and (*o*) as (m) and (n), respectively. Former subsec. (m) redesignated (*l*).
 
-Subsec. (*o*). Pub. L. 119–60, § 7207(b)(3), redesignated subsec. (*o*) as (n).
+Subsec. (*o*). Pub. L. 119–60, § 7207(b)(3), redesignated subsec. (*o*) as (n).
 
-Subsec. (*o*)(1). Pub. L. 119–60, § 7207(a)(9), inserted “the United States Coast Guard,” before “the United States Customs Service,”.
+Subsec. (*o*)(1). Pub. L. 119–60, § 7207(a)(9), inserted “the United States Coast Guard,” before “the United States Customs Service,”.
 
-2018—Subsec. (a)(2)(B)(v). Pub. L. 115–392 inserted “, chapter 109A of title 18 (relating to sexual abuse), chapter 110 of title 18 (relating to child sexual exploitation), or chapter 117 of title 18 (relating to transportation for illegal sexual activity and related crimes)” after “(relating to human trafficking)”.
+2018—Subsec. (a)(2)(B)(v). Pub. L. 115–392 inserted “, chapter 109A of title 18 (relating to sexual abuse), chapter 110 of title 18 (relating to child sexual exploitation), or chapter 117 of title 18 (relating to transportation for illegal sexual activity and related crimes)” after “(relating to human trafficking)”.
 
-2015—Pub. L. 114–22, § 105(c)(1)(A), renumbered section 9703 of this title, relating to Department of the Treasury Forfeiture Fund, as this section.
+2015—Pub. L. 114–22, § 105(c)(1)(A), renumbered section 9703 of this title, relating to Department of the Treasury Forfeiture Fund, as this section.
 
-Subsec. (a)(1)(I). Pub. L. 114–22, § 105(c)(1)(B)(i)(I), substituted “Payment” for “payment” and period for semicolon at end.
+Subsec. (a)(1)(I). Pub. L. 114–22, § 105(c)(1)(B)(i)(I), substituted “Payment” for “payment” and period for semicolon at end.
 
-Subsec. (a)(1)(J). Pub. L. 114–22, § 105(c)(1)(B)(i)(II), which directed substitution of “Payment” for “payment”, was executed by making the substitution the first place appearing, to reflect the probable intent of Congress.
+Subsec. (a)(1)(J). Pub. L. 114–22, § 105(c)(1)(B)(i)(II), which directed substitution of “Payment” for “payment”, was executed by making the substitution the first place appearing, to reflect the probable intent of Congress.
 
-Subsec. (a)(2)(B)(iii)(I). Pub. L. 114–22, § 105(c)(1)(B)(ii)(I)(aa)(AA), substituted “of title 18” for “or title 18”.
+Subsec. (a)(2)(B)(iii)(I). Pub. L. 114–22, § 105(c)(1)(B)(ii)(I)(aa)(AA), substituted “of title 18” for “or title 18”.
 
-Subsec. (a)(2)(B)(v). Pub. L. 114–22, § 105(c)(1)(B)(ii)(I)(aa)(BB)–(cc), added cl. (v).
+Subsec. (a)(2)(B)(v). Pub. L. 114–22, § 105(c)(1)(B)(ii)(I)(aa)(BB)–(cc), added cl. (v).
 
-Subsec. (a)(2)(G). Pub. L. 114–22, § 105(c)(1)(B)(ii)(II), inserted “and” at end.
+Subsec. (a)(2)(G). Pub. L. 114–22, § 105(c)(1)(B)(ii)(II), inserted “and” at end.
 
-Subsec. (a)(2)(H). Pub. L. 114–22, § 105(c)(1)(B)(ii)(III), substituted period for “; and” at end.
+Subsec. (a)(2)(H). Pub. L. 114–22, § 105(c)(1)(B)(ii)(III), substituted period for “; and” at end.
 
 2011—Subsec. (b)(3). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5), title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
-2002—Subsec. (a)(2)(B). Pub. L. 107–296, § 1112(n)(1), in cl. (iii)(III), inserted “and” at end, in cl. (iv), substituted a period for “; and” at end, and struck out cl. (v) which read as follows: “the Bureau of Alcohol, Tobacco and Firearms with respect to a violation of—
+2002—Subsec. (a)(2)(B). Pub. L. 107–296, § 1112(n)(1), in cl. (iii)(III), inserted “and” at end, in cl. (iv), substituted a period for “; and” at end, and struck out cl. (v) which read as follows: “the Bureau of Alcohol, Tobacco and Firearms with respect to a violation of—
 
 “(I) section 842(h) of title 18;
 
@@ -657,29 +657,29 @@ Subsec. (a)(2)(H). Pub. L. 114–22, § 105(c)(1)(B)(ii)(III), substituted per
 
 “(III) section 924(c) of title 18;”.
 
-Subsec. (*o*). Pub. L. 107–296, § 1112(n)(2), (3), redesignated subsec. (p) as (*o*) and struck out former subsec. (*o*) which provided that provisions of law relating to the seizure, summary and judicial forfeiture, and condemnation of property for violation of Customs laws, the remission or mitigation of such forfeiture, and the compromise of claims, would apply to seizures and forfeitures incurred, or alleged to have been incurred, under any applicable law enforced or administered by the Bureau of Alcohol, Tobacco and Firearms, and that duties that were imposed upon a Customs officer or any other person with respect to the seizure and forfeiture of property under the Customs laws would be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or any other person as had been authorized or designated for that purpose by the Secretary.
+Subsec. (*o*). Pub. L. 107–296, § 1112(n)(2), (3), redesignated subsec. (p) as (*o*) and struck out former subsec. (*o*) which provided that provisions of law relating to the seizure, summary and judicial forfeiture, and condemnation of property for violation of Customs laws, the remission or mitigation of such forfeiture, and the compromise of claims, would apply to seizures and forfeitures incurred, or alleged to have been incurred, under any applicable law enforced or administered by the Bureau of Alcohol, Tobacco and Firearms, and that duties that were imposed upon a Customs officer or any other person with respect to the seizure and forfeiture of property under the Customs laws would be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or any other person as had been authorized or designated for that purpose by the Secretary.
 
-Subsec. (*o*)(1). Pub. L. 107–296, § 1112(n)(4), substituted “Tax and Trade Bureau” for “Bureau of Alcohol, Tobacco and Firearms”.
+Subsec. (*o*)(1). Pub. L. 107–296, § 1112(n)(4), substituted “Tax and Trade Bureau” for “Bureau of Alcohol, Tobacco and Firearms”.
 
-Subsec. (p). Pub. L. 107–296, § 1112(n)(3), redesignated subsec. (p) as (*o*).
+Subsec. (p). Pub. L. 107–296, § 1112(n)(3), redesignated subsec. (p) as (*o*).
 
-1997—Subsec. (g)(3)(C). Pub. L. 105–61, § 122(b), inserted at end “Unobligated balances remaining pursuant to section 4(B) of 9703(g) shall also be carried forward.”
+1997—Subsec. (g)(3)(C). Pub. L. 105–61, § 122(b), inserted at end “Unobligated balances remaining pursuant to section 4(B) of 9703(g) shall also be carried forward.”
 
-Subsec. (g)(4)(B). Pub. L. 105–61, § 122(c), struck out “, subject to subparagraph (C),” after “shall”.
+Subsec. (g)(4)(B). Pub. L. 105–61, § 122(c), struck out “, subject to subparagraph (C),” after “shall”.
 
 1996—Subsec. (g)(3)(C). Pub. L. 104–208 substituted “1994, 1995, and 1996” for “and at the end of each fiscal year thereafter” and inserted at end “At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a).”
 
 1994—Subsec. (a). Pub. L. 103–329 redesignated subpars. (G) and (J) of par. (2) as (I) and (J) of par. (1), respectively, and subpars. (H) and (I) of par. (2) as (G) and (H) of par. (2), respectively.
 
-Subsec. (g)(3)(A). Pub. L. 103–322, § 90205(c)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Subject to subparagraphs (B) and (C), in each of fiscal years 1994 and 1995, the Secretary shall transfer from the Fund not more than $10,000,000 to the Special Forfeiture Fund, established by section 6073 of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1509), for activities authorized under the Drug-Free Schools and Communities Act of 1986 (20 U.S.C. 3171 et seq.).”
+Subsec. (g)(3)(A). Pub. L. 103–322, § 90205(c)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Subject to subparagraphs (B) and (C), in each of fiscal years 1994 and 1995, the Secretary shall transfer from the Fund not more than $10,000,000 to the Special Forfeiture Fund, established by section 6073 of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1509), for activities authorized under the Drug-Free Schools and Communities Act of 1986 (20 U.S.C. 3171 et seq.).”
 
-Subsec. (g)(3)(B). Pub. L. 103–322, § 90205(c)(1)(B), inserted at end “Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.”
+Subsec. (g)(3)(B). Pub. L. 103–322, § 90205(c)(1)(B), inserted at end “Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.”
 
-Subsec. (g)(4)(A). Pub. L. 103–322, § 90205(c)(2), struck out “(i)” after “(A)” and struck out cl. (ii) which read as follows: “Beginning in fiscal year 1994, and each fiscal year thereafter, the Secretary shall transfer to the Attorney General an amount agreed upon by the Secretary and the Attorney General (taking into account any amount transferred by the Secretary pursuant to paragraph (3)(A)). The amount transferred under this clause shall reflect the Department of the Treasury’s pro rata share of the amount required to be transferred by the Attorney General pursuant to section 524(c)(9)(B) of title 28.”
+Subsec. (g)(4)(A). Pub. L. 103–322, § 90205(c)(2), struck out “(i)” after “(A)” and struck out cl. (ii) which read as follows: “Beginning in fiscal year 1994, and each fiscal year thereafter, the Secretary shall transfer to the Attorney General an amount agreed upon by the Secretary and the Attorney General (taking into account any amount transferred by the Secretary pursuant to paragraph (3)(A)). The amount transferred under this clause shall reflect the Department of the Treasury’s pro rata share of the amount required to be transferred by the Attorney General pursuant to section 524(c)(9)(B) of title 28.”
 
-1993—Subsec. (a)(2)(E) to (J). Pub. L. 103–182, § 685(1), (2), added subpar. (E) and redesignated former subpars. (E) to (I) as (F) to (J), respectively.
+1993—Subsec. (a)(2)(E) to (J). Pub. L. 103–182, § 685(1), (2), added subpar. (E) and redesignated former subpars. (E) to (I) as (F) to (J), respectively.
 
-Subsec. (e). Pub. L. 103–182, § 685(3), substituted “may” for “shall” before “be kept on deposit”.
+Subsec. (e). Pub. L. 103–182, § 685(3), substituted “may” for “shall” before “be kept on deposit”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -699,4 +699,4 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Law
 
 **Unavailable Collections**
 
-Pub. L. 105–61, title I, § 122(a), Oct. 10, 1997, 111 Stat. 1289, provided that: “The Secretary of the Treasury is authorized to receive all unavailable collections transferred from the Special Forfeiture Fund established by section 26073 [6073] of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1509) by the Director of the Office of Drug Control Policy as a deposit into the Treasury Forfeiture Fund (31 U.S.C. 9703(a)), to become available for obligation on October 1, 1998, as revenue available for purposes identified under 31 U.S.C. 9703(g)(4)(B).”
+Pub. L. 105–61, title I, § 122(a), Oct. 10, 1997, 111 Stat. 1289, provided that: “The Secretary of the Treasury is authorized to receive all unavailable collections transferred from the Special Forfeiture Fund established by section 26073 [6073] of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1509) by the Director of the Office of Drug Control Policy as a deposit into the Treasury Forfeiture Fund (31 U.S.C. 9703(a)), to become available for obligation on October 1, 1998, as revenue available for purposes identified under 31 U.S.C. 9703(g)(4)(B).”

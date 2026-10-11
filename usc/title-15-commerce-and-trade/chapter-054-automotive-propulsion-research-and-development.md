@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 54—AUTOMOTIVE PROPULSION RESEARCH AND DEVELOPMENT
 
-## § 2701. Congressional findings and purpose
+## § 2701. Congressional findings and purpose
 
 **(a)** The Congress finds that—
 
@@ -39,15 +39,15 @@ retrieved: 2026-10-11
 
 **(3)** supplement, but neither supplant nor duplicate, the automotive propulsion system research and development efforts of private industry.
 
-(Pub. L. 95–238, title III, § 302, Feb. 25, 1978, 92 Stat. 78.)
+(Pub. L. 95–238, title III, § 302, Feb. 25, 1978, 92 Stat. 78.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 95–238, title III, § 301, Feb. 25, 1978, 92 Stat. 78, provided that: “This title [enacting this chapter and amending section 2451 of Title 42, The Public Health and Welfare] may be cited as the ‘Automotive Propulsion Research and Development Act of 1978’.”
+Pub. L. 95–238, title III, § 301, Feb. 25, 1978, 92 Stat. 78, provided that: “This title [enacting this chapter and amending section 2451 of Title 42, The Public Health and Welfare] may be cited as the ‘Automotive Propulsion Research and Development Act of 1978’.”
 
-## § 2702. Definitions
+## § 2702. Definitions
 
 As used in this chapter, the term—
 
@@ -67,15 +67,15 @@ As used in this chapter, the term—
 
 **(8)** “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, or any other territory or possession of the United States.
 
-(Pub. L. 95–238, title III, § 303, Feb. 25, 1978, 92 Stat. 79.)
+(Pub. L. 95–238, title III, § 303, Feb. 25, 1978, 92 Stat. 79.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 7525 of title 42, referred to in par. (4), was in the original “section 206 of the Clean Air Act (42 U.S.C. 1857f–5)”, meaning act July 14, 1955, ch. 360, § 206, as added Dec. 31, 1970, Pub. L. 91–604, § 8(a), 84 Stat. 1694, which was formerly classified to section 1857f–5 of Title 42, The Public Health and Welfare, and which is classified to section 7525 of Title 42 pursuant to the general revision of the Clean Air Act by Pub. L. 95–95, Aug. 7, 1977, 91 Stat. 685.
+Section 7525 of title 42, referred to in par. (4), was in the original “section 206 of the Clean Air Act (42 U.S.C. 1857f–5)”, meaning act July 14, 1955, ch. 360, § 206, as added Dec. 31, 1970, Pub. L. 91–604, § 8(a), 84 Stat. 1694, which was formerly classified to section 1857f–5 of Title 42, The Public Health and Welfare, and which is classified to section 7525 of Title 42 pursuant to the general revision of the Clean Air Act by Pub. L. 95–95, Aug. 7, 1977, 91 Stat. 685.
 
-## § 2703. Advanced systems program implementation by Secretary of Energy
+## § 2703. Advanced systems program implementation by Secretary of Energy
 
 **(a) Establishment and conduct of program** The Secretary of Energy shall establish, within the Department of Energy, a program to insure the development of advanced automobile propulsion systems within 5 years after February 25, 1978, or within the shortest practicable time, consistent with appropriate research and development technique. In conducting such program, the Secretary of Energy shall—
 
@@ -121,7 +121,7 @@ The Department of Energy shall intensify research in key basic science areas in 
 
 **(6)** The provisions and requirements of this subsection shall not apply with respect to any contract, grant, or project which was entered into, made, or formally approved and initiated prior to February 25, 1978, or with respect to any renewal or extension thereof.
 
-(Pub. L. 95–238, title III, § 304, Feb. 25, 1978, 92 Stat. 79; Pub. L. 103–437, § 5(b)(4), Nov. 2, 1994, 108 Stat. 4582.)
+(Pub. L. 95–238, title III, § 304, Feb. 25, 1978, 92 Stat. 79; Pub. L. 103–437, § 5(b)(4), Nov. 2, 1994, 108 Stat. 4582.)
 
 **Editorial Notes**
 
@@ -133,11 +133,11 @@ This Act, referred to in subsec. (f), is Pub. L. 95–238, Feb. 25, 1978, 92 Sta
 
 1994—Subsec. (f)(3). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
 
-## § 2704. Evaluation by Secretary of Transportation on utilization of advanced technology by automobile industry
+## § 2704. Evaluation by Secretary of Transportation on utilization of advanced technology by automobile industry
 
 The Secretary of Transportation, in furtherance of the purposes of this chapter, shall evaluate the extent to which the automobile industry utilizes advanced automotive technology which is or could be made available to it.
 
-(Pub. L. 95–238, title III, § 305, Feb. 25, 1978, 92 Stat. 81; Pub. L. 104–66, title I, § 1121(i), Dec. 21, 1995, 109 Stat. 724.)
+(Pub. L. 95–238, title III, § 305, Feb. 25, 1978, 92 Stat. 81; Pub. L. 104–66, title I, § 1121(i), Dec. 21, 1995, 109 Stat. 724.)
 
 **Editorial Notes**
 
@@ -145,7 +145,7 @@ The Secretary of Transportation, in furtherance of the purposes of this chapter,
 
 1995—Pub. L. 104–66 struck out at end “The Secretary of Transportation shall submit a report to the Congress each year on the results of such evaluation including any appropriate recommendations which may encourage the utilization of advanced automobile technology by the automobile industry.”
 
-## § 2705. Coordinating and consulting requirements and authorities of Secretary of Energy
+## § 2705. Coordinating and consulting requirements and authorities of Secretary of Energy
 
 **(a) Conduct of overall management responsibilities** The Secretary of Energy shall have overall management responsibility for carrying out the program under section 2703 of this title. In carrying out such program, the Secretary of Energy, consistent with such overall management responsibility—
 
@@ -169,17 +169,17 @@ The Secretary of Energy shall consult with the Administrator of the Environmenta
 
 Nothing contained in this chapter shall be construed to reduce in any way the responsibilities of the Secretary of Energy for automotive research, development, and demonstration under the Energy Reorganization Act of 1974 (42 U.S.C. 5801 et seq.) and the Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901 et seq.).
 
-(Pub. L. 95–238, title III, § 306, Feb. 25, 1978, 92 Stat. 81.)
+(Pub. L. 95–238, title III, § 306, Feb. 25, 1978, 92 Stat. 81.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Energy Reorganization Act of 1974 (42 U.S.C. 5801 et seq.), referred to in subsec. (e), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which is classified principally to chapter 73 (§ 5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
+The Energy Reorganization Act of 1974 (42 U.S.C. 5801 et seq.), referred to in subsec. (e), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which is classified principally to chapter 73 (§ 5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
 
-The Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901 et seq.), referred to in subsec. (e), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901 et seq.), referred to in subsec. (e), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 
-## § 2706. Informational and testing functions of Secretary of Energy
+## § 2706. Informational and testing functions of Secretary of Energy
 
 **(a) Evaluations of new or improved technologies pursuant to written submissions**
 
@@ -193,33 +193,33 @@ The Administrator of the Environmental Protection Agency shall test, or cause to
 
 The Secretary of Energy shall collect, analyze, and disseminate to developers information, data, and materials that may be relevant to the development of advanced automobile propulsion system technology.
 
-(Pub. L. 95–238, title III, § 307, Feb. 25, 1978, 92 Stat. 82.)
+(Pub. L. 95–238, title III, § 307, Feb. 25, 1978, 92 Stat. 82.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Clean Air Act, referred to in subsec. (b), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (b), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The Noise Control Act of 1972 (42 U.S.C. 4901 et seq.), referred to in subsec. (b), is Pub. L. 92–574, Oct. 27, 1972, 86 Stat. 1234, which is classified principally to chapter 65 (§ 4901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4901 of Title 42 and Tables.
+The Noise Control Act of 1972 (42 U.S.C. 4901 et seq.), referred to in subsec. (b), is Pub. L. 92–574, Oct. 27, 1972, 86 Stat. 1234, which is classified principally to chapter 65 (§ 4901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4901 of Title 42 and Tables.
 
-## § 2707. Patents and inventions; statutory provisions applicable; contracts or grants covered
+## § 2707. Patents and inventions; statutory provisions applicable; contracts or grants covered
 
 Section 5908 of title 42 shall apply to any contract (including any assignment, substitution of parties, or subcontract thereunder) or grant, entered into, made, or issued by the Secretary of Energy under this chapter.
 
-(Pub. L. 95–238, title III, § 308, Feb. 25, 1978, 92 Stat. 82.)
+(Pub. L. 95–238, title III, § 308, Feb. 25, 1978, 92 Stat. 82.)
 
-## § 2708. Comptroller General audit and examination of books, etc.; statutory provisions applicable; contracts or grants covered
+## § 2708. Comptroller General audit and examination of books, etc.; statutory provisions applicable; contracts or grants covered
 
 Section 5876 of title 42 shall apply with respect to the authority of the Comptroller General to have access to and rights of examination of books, documents, papers, and records of recipients of financial assistance under this chapter; except that for the purposes of this chapter, the term “contract” (as used in section 2206 of title 42, insofar as it relates to such section 5876 of title 42) means “contract or grant”.
 
-(Pub. L. 95–238, title III, § 309, Feb. 25, 1978, 92 Stat. 82.)
+(Pub. L. 95–238, title III, § 309, Feb. 25, 1978, 92 Stat. 82.)
 
-## § 2709. Reports to Congress by Secretary of Energy
+## § 2709. Reports to Congress by Secretary of Energy
 
-**(a) Comprehensive program, etc.** As a separate part of the annual report submitted under section 5914(a) 1
+**(a) Comprehensive program, etc.** As a separate part of the annual report submitted under section 5914(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 42 with respect to the comprehensive plan and program then in effect under section 5905(a) and (b) of title 42, the Secretary of Energy shall submit to Congress an annual report of activities under this chapter. Such report shall include—
 
@@ -237,7 +237,7 @@ of title 42 with respect to the comprehensive plan and program then in effect un
 
 The Secretary of Energy shall conduct a survey of developers, lending institutions, and other appropriate persons or institutions and shall otherwise make a study for the purpose of determining whether, and under what conditions, research, development, demonstration, and commercial availability of advanced automobile propulsion system technology may be aided by the guarantee of financial obligations by the Federal Government. The Secretary of Energy shall report the results of such survey and study to the Congress within 1 year after February 25, 1978. Such report shall include an examination of those stages of advanced automobile propulsion system technology research, development, demonstration, and commercialization for which financial obligation guarantees may be useful or appropriate and shall contain such legislative recommendations as may be necessary.
 
-(Pub. L. 95–238, title III, § 310, Feb. 25, 1978, 92 Stat. 83.)
+(Pub. L. 95–238, title III, § 310, Feb. 25, 1978, 92 Stat. 83.)
 
 **Editorial Notes**
 
@@ -245,14 +245,14 @@ The Secretary of Energy shall conduct a survey of developers, lending institutio
 
 Section 5914 of title 42, referred to in subsec. (a), was omitted from the Code.
 
-## § 2710. Authorization of appropriations
+## § 2710. Authorization of appropriations
 
 There is authorized to be appropriated to carry out the purposes of this chapter, in addition to any amounts made available for such purposes pursuant to title I of this Act, the sum of $12,500,000 for the fiscal year ending September 30, 1978.
 
-(Pub. L. 95–238, title III, § 312, Feb. 25, 1978, 92 Stat. 83.)
+(Pub. L. 95–238, title III, § 312, Feb. 25, 1978, 92 Stat. 83.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title I of this Act, referred to in text, is title I (§§ 101–107) of Pub. L. 95–238, Feb. 25, 1978, 92 Stat. 47. For complete classification of this title to the Code, see Tables.
+Title I of this Act, referred to in text, is title I (§§ 101–107) of Pub. L. 95–238, Feb. 25, 1978, 92 Stat. 47. For complete classification of this title to the Code, see Tables.

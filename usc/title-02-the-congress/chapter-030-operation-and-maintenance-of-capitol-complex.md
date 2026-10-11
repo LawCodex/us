@@ -17,17 +17,17 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—HOUSE OF REPRESENTATIVES
 
-### § 2001. House Office Building; control, supervision, and care
+### § 2001. House Office Building; control, supervision, and care
 
 The House of Representatives Office Building, which shall hereafter be designated as the House Office Building and the employment of all service, other than the United States Capitol Police, that may be appropriated for by Congress, necessary for its protection, care, and occupancy, shall be under the control and supervision of the Architect of the Capitol, subject to the approval and direction of a commission consisting of the Speaker of the House of Representatives and two Representatives in Congress, to be appointed by the Speaker. Vacancies occurring by resignation, termination of service as Representatives in Congress, or otherwise in the membership of said commission shall be filled by the Speaker, and any two members of said commission shall constitute a quorum to do business. The Architect of the Capitol shall submit annually to Congress estimates in detail for all services, other than the United States Capitol Police, and for all other expenses in connection with said office building and necessary for its protection, care, and occupancy; and said commission herein referred to shall from time to time prescribe rules and regulations to govern said architect in making all such employments, together with rules and regulations governing the use and occupancy of all rooms and space in said building.
 
-(Mar. 4, 1907, ch. 2918, 34 Stat. 1365; May 28, 1908, No. 30, 35 Stat. 578; Mar. 3, 1921, ch. 124, 41 Stat. 1291; Pub. L. 111–145, § 6(c)(1), Mar. 4, 2010, 124 Stat. 54.)
+(Mar. 4, 1907, ch. 2918, 34 Stat. 1365; May 28, 1908, No. 30, 35 Stat. 578; Mar. 3, 1921, ch. 124, 41 Stat. 1291; Pub. L. 111–145, § 6(c)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 175 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 175 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on act Mar. 4, 1907, popularly known as the “Sundry Civil Appropriation Act, fiscal year 1908” appropriating for the maintenance of such Building.
 
@@ -43,7 +43,7 @@ Change of name of Architect of the Capitol, functions abolished, transferred, et
 
 **Short Title of 2012 Amendment**
 
-Pub. L. 112–234, § 1, Dec. 28, 2012, 126 Stat. 1624, provided that: “This Act [amending sections 2084 and 2108 of this title, section 2703a of Title 19, Customs Duties, section 1708a of Title 21, Food and Drugs, section 376 of Title 28, Judiciary and Judicial Procedure, and section 2103 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, amending provisions set out as notes under section 4301 of Title 38, Veterans’ Benefits, and section 416 of Title 39, Postal Service, and repealing provisions set out as a note under section 416 of Title 39] may be cited as the ‘GAO Mandates Revision Act of 2012’.”
+Pub. L. 112–234, § 1, Dec. 28, 2012, 126 Stat. 1624, provided that: “This Act [amending sections 2084 and 2108 of this title, section 2703a of Title 19, Customs Duties, section 1708a of Title 21, Food and Drugs, section 376 of Title 28, Judiciary and Judicial Procedure, and section 2103 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, amending provisions set out as notes under section 4301 of Title 38, Veterans’ Benefits, and section 416 of Title 39, Postal Service, and repealing provisions set out as a note under section 416 of Title 39] may be cited as the ‘GAO Mandates Revision Act of 2012’.”
 
 **Acquisition of Site**
 
@@ -53,7 +53,7 @@ Joint Resolution May 28, 1908, provided that it should be designated the House O
 
 **House Public Address Sound System Activities; Transfer of Employees and Funding**
 
-Pub. L. 104–197, title III, § 307, Sept. 16, 1996, 110 Stat. 2413, provided that:
+Pub. L. 104–197, title III, § 307, Sept. 16, 1996, 110 Stat. 2413, provided that:
 
 > **“(a)** Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee on House Oversight [now Committee on House Administration], positions in connection with House public address sound system activities and related funding shall be transferred from the appropriation for the Architect of the Capitol for Capitol buildings and grounds under the heading ‘capitol buildings’ to the appropriation for salaries and expenses of the House of Representatives for the Office of the Clerk under the heading ‘salaries, officers and employees’.
 
@@ -63,7 +63,7 @@ Pub. L. 104–197, title III, § 307, Sept. 16, 1996, 110 Stat. 2413, provided
 
 **Transfer of O’Neill Building to House of Representatives**
 
-Pub. L. 114–223, div. C, § 176, as added by Pub. L. 114–254, div. A, § 101(3), Dec. 10, 2016, 130 Stat. 1012, provided that:
+Pub. L. 114–223, div. C, § 176, as added by Pub. L. 114–254, div. A, § 101(3), Dec. 10, 2016, 130 Stat. 1012, provided that:
 
 > **“(a) Transfer.—** Effective upon the expiration of the 180-day period that begins on the date of the enactment of this section [Dec. 10, 2016]—
 
@@ -113,13 +113,13 @@ Pub. L. 114–223, div. C, § 176, as added by Pub. L. 114–254, div. A, §�
 
 **501 First Street SE., District of Columbia; Disposal of Real Property**
 
-Pub. L. 113–76, div. I, title I, § 1302, Jan. 17, 2014, 128 Stat. 429, provided that:
+Pub. L. 113–76, div. I, title I, § 1302, Jan. 17, 2014, 128 Stat. 429, provided that:
 
 > **“(a) Use of Building.—** In exercising its authority under the item ‘Architect of the Capitol, Capitol Buildings and Grounds, House Office Buildings’ in the Legislative Branch Appropriations Act, 1985 (Public Law 98–367; 2 U.S.C. 2001 note), to use the building referred to in such item for the purposes of providing office and accommodations for the House of Representatives, the House Office Building Commission is authorized to enter into such agreements regarding the use of the building by the House or by other persons as the Commission considers appropriate.
 
 > **“(b) Effective Date.—** This section shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
 
-Pub. L. 104–99, title I, § 121, Jan. 26, 1996, 110 Stat. 30, as amended by Pub. L. 105–275, title I, § 110, Oct. 21, 1998, 112 Stat. 2440, provided that:
+Pub. L. 104–99, title I, § 121, Jan. 26, 1996, 110 Stat. 30, as amended by Pub. L. 105–275, title I, § 110, Oct. 21, 1998, 112 Stat. 2440, provided that:
 
 > **“(a) Disposal of Real Property.—**
 
@@ -169,13 +169,13 @@ Pub. L. 104–99, title I, § 121, Jan. 26, 1996, 110 Stat. 30, as amended by 
 
 > **“(3) Proceeds.—** All proceeds from the sale of steam and chilled water under paragraph (1) shall be deposited into the general fund of the Treasury of the United States and credited as miscellaneous receipts.”
 
-[Pub. L. 104–134, title II, § 21103, Apr. 26, 1996, 110 Stat. 1321–335, provided that: “Notwithstanding section 106 of Public Law 104–99 [110 Stat. 27], sections 118 [110 Stat. 30], 121 [set out as a note above], and 129 [amending section 1611 of this title and enacting provisions set out as a note under section 1611 of this title] of Public Law 104–99 shall remain in effect as if enacted as part of this Act.” ]
+[Pub. L. 104–134, title II, § 21103, Apr. 26, 1996, 110 Stat. 1321–335, provided that: “Notwithstanding section 106 of Public Law 104–99 [110 Stat. 27], sections 118 [110 Stat. 30], 121 [set out as a note above], and 129 [amending section 1611 of this title and enacting provisions set out as a note under section 1611 of this title] of Public Law 104–99 shall remain in effect as if enacted as part of this Act.” ]
 
 Pub. L. 98–367, title I, July 17, 1984, 98 Stat. 483, provided in part: “That notwithstanding any other provision of law, the House Office Building Commission is authorized to use, to such extent as it may deem necessary, for the purposes of providing office and other accommodations for the House of Representatives, the building located at 501 First Street, S.E., on a portion of Reservation 17 in the District of Columbia when such building is acquired by the Architect of the Capitol at the direction of the House Office Building Commission under authority of the Additional House Office Building Act of 1955 [act Apr. 22, 1955, ch. 26, Ch. XIIA, 69 Stat. 41, see note below], and to incur any expenditures under this appropriation required for alterations, maintenance, and occupancy thereof: *Provided further*, That any space in such building used for office and other accommodations for the House of Representatives shall be deemed to be a part of the ‘House Office Buildings’ and, as such, shall be subject to the laws, rules, and regulations applicable to those buildings.”
 
 **House Parking Activities; Transfer of Employees and Funding**
 
-Pub. L. 104–53, title III, § 306, Nov. 19, 1995, 109 Stat. 536, provided that:
+Pub. L. 104–53, title III, § 306, Nov. 19, 1995, 109 Stat. 536, provided that:
 
 > **“(a)** Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee on House Oversight [now Committee on House Administration], positions in connection with House parking activities and related funding shall be transferred from the appropriation ‘Architect of the Capitol, Capitol buildings and grounds, House office buildings’ to the appropriation ‘House of Representatives, salaries, officers and employees, Office of the Sergeant at Arms’: *Provided*, That the position of Superintendent of Garages shall be subject to authorization in annual appropriations Acts.
 
@@ -213,7 +213,7 @@ Act Apr. 22, 1955, ch. 26, Ch. XIIA, 69 Stat. 41, known as the Additional House 
 
 **Use of Congressional Hotel as House Office Building; Lease of Unused Space**
 
-Pub. L. 92–313, § 8, June 16, 1972, 86 Stat. 222, provided that:
+Pub. L. 92–313, § 8, June 16, 1972, 86 Stat. 222, provided that:
 
 > **“(a)** Notwithstanding any other provision of law, the House Office Building Commission is authorized (1) to use, to such extent as it may deem necessary, for the purpose of providing office and other accommodations for the House of Representatives, the building, known as the Congressional Hotel, acquired by the Government in 1957 as part of Lot 20 in Square 692 in the District of Columbia under authority of the Additional House Office Building Act of 1955 [act Apr. 22, 1955, ch. 26, Ch. XIIA, 69 Stat. 41, see note above] and (2) to direct the Architect of the Capitol to lease, at fair market value, for such other use and under such terms and conditions and to such parties as such Commission may authorize, any space in such building not required for the aforesaid purpose.
 
@@ -221,7 +221,7 @@ Pub. L. 92–313, § 8, June 16, 1972, 86 Stat. 222, provided that:
 
 **Additional Parking Space for House Employees**
 
-House Resolution No. 208, Ninety-fourth Congress, Feb. 24, 1975, as enacted into permanent law by Pub. L. 94–59, title II, § 201, July 25, 1975, 89 Stat. 282, and amended by Pub. L. 104–186, title II, § 221(4)(B), Aug. 20, 1996, 110 Stat. 1749, provided:
+House Resolution No. 208, Ninety-fourth Congress, Feb. 24, 1975, as enacted into permanent law by Pub. L. 94–59, title II, § 201, July 25, 1975, 89 Stat. 282, and amended by Pub. L. 104–186, title II, § 221(4)(B), Aug. 20, 1996, 110 Stat. 1749, provided:
 
 > “That the chairman, Committee on House Oversight [now Committee on House Administration] of the House of Representatives is authorized:
 
@@ -241,13 +241,13 @@ For inclusion of additional areas and buildings as part of the United States Cap
 
 **Compensation of Superintendent of Garages of House Office Buildings**
 
-Pub. L. 100–458, title I, Oct. 1, 1988, 102 Stat. 2170, as amended by Pub. L. 102–90, title I, § 105, Aug. 14, 1991, 105 Stat. 460; Pub. L. 104–186, title II, § 221(4)(A), Aug. 20, 1996, 110 Stat. 1748, provided: “That upon enactment of this Act [Oct. 1, 1988], the pay for the position of Superintendent of Garages shall be equivalent to the pay payable for positions at step 1 of level 12 of the House Employees Schedule, subject to the further increases authorized under section 5306(a)(1)(B) of title 5, United States Code, relating to the implementation of salary comparability policy, and subject to any increase which may be allowed by the Committee on House Oversight [now Committee on House Administration] based on performance exceeding an acceptable level of competence over a 52-week period (except that no such performance-based increase shall affect the waiting period or effective date of any longevity step-increase or increase under such section 5306(a)(1)(B)).”
+Pub. L. 100–458, title I, Oct. 1, 1988, 102 Stat. 2170, as amended by Pub. L. 102–90, title I, § 105, Aug. 14, 1991, 105 Stat. 460; Pub. L. 104–186, title II, § 221(4)(A), Aug. 20, 1996, 110 Stat. 1748, provided: “That upon enactment of this Act [Oct. 1, 1988], the pay for the position of Superintendent of Garages shall be equivalent to the pay payable for positions at step 1 of level 12 of the House Employees Schedule, subject to the further increases authorized under section 5306(a)(1)(B) of title 5, United States Code, relating to the implementation of salary comparability policy, and subject to any increase which may be allowed by the Committee on House Oversight [now Committee on House Administration] based on performance exceeding an acceptable level of competence over a 52-week period (except that no such performance-based increase shall affect the waiting period or effective date of any longevity step-increase or increase under such section 5306(a)(1)(B)).”
 
 **Compensation of Personnel Assigned to House Garages in Connection With Parking Activities**
 
 Pub. L. 93–245, ch. VI, Jan. 3, 1974, 87 Stat. 1079, provided that: “Effective on the first day of the first applicable pay period which begins on or after the date of enactment of this Act [Jan. 3, 1974], the compensation of personnel assigned to the House garages in connection with parking activities and paid from the appropriation ‘House Office Building’ under the Architect of the Capitol, shall be fixed by the Architect of the Capitol without regard to chapter 51 and subchapters III and IV of chapter 53 of title 5, United States Code, and shall thereafter be adjusted in accordance with 5 U.S.C. 5307.”
 
-### § 2002. Acquisition of buildings and facilities for use in emergency situation
+### § 2002. Acquisition of buildings and facilities for use in emergency situation
 
 **(a) Acquisition of buildings and facilities**
 
@@ -275,7 +275,7 @@ Subject to the approval of the Committee on Appropriations of the House of Repre
 
 This section and the amendments made by this section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
-(Pub. L. 107–117, div. B, § 903, Jan. 10, 2002, 115 Stat. 2317; Pub. L. 107–206, title I, § 903(a)(1), Aug. 2, 2002, 116 Stat. 876.)
+(Pub. L. 107–117, div. B, § 903, Jan. 10, 2002, 115 Stat. 2317; Pub. L. 107–206, title I, § 903(a)(1), Aug. 2, 2002, 116 Stat. 876.)
 
 **Editorial Notes**
 
@@ -285,7 +285,7 @@ For the amendments made by this section, referred to in subsec. (e), see Codific
 
 **Codification**
 
-Section was classified to section 175a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 175a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is comprised of section 903 of Pub. L. 107–117. Subsec. (c)(2) of section 903 of Pub. L. 107–117 amended section 1961 of this title.
 
@@ -297,9 +297,9 @@ Section is comprised of section 903 of Pub. L. 107–117. Subsec. (c)(2) of sect
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–206, title I, § 903(c), Aug. 2, 2002, 116 Stat. 876, provided that: “The amendment made by this section [amending this section and section 1961 of this title] shall take effect as if included in the enactment of the Emergency Supplemental Act, 2002 [Pub. L. 107–117, div. B].”
+Pub. L. 107–206, title I, § 903(c), Aug. 2, 2002, 116 Stat. 876, provided that: “The amendment made by this section [amending this section and section 1961 of this title] shall take effect as if included in the enactment of the Emergency Supplemental Act, 2002 [Pub. L. 107–117, div. B].”
 
-### § 2003. Speaker as member of House Office Building commission
+### § 2003. Speaker as member of House Office Building commission
 
 The Speaker shall continue a member of the commission in control of said building until his successor as Speaker is elected or his term as a Representative in Congress shall have expired.
 
@@ -309,11 +309,11 @@ The Speaker shall continue a member of the commission in control of said buildin
 
 **Codification**
 
-Section was classified to section 176 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 176 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on act Mar. 4, 1911, popularly known as the “Deficiency Appropriation Act, fiscal year 1911”.
 
-### § 2004. Assignment of rooms in House Office Building
+### § 2004. Assignment of rooms in House Office Building
 
 The assignment of rooms in the House Office Building, made prior to May 28, 1908, by resolution or order of the House of Representatives, shall continue in force until modified or changed in accordance with the provisions of sections 2004 to 2011 of this title, and the room so assigned to any Representative shall continue to be held by such Representative as his individual office room so long as he shall remain a Member or Member-elect of the House of Representatives, or until he shall relinquish the same, subject, however, to the provisions of said sections, and no Representative shall allow his office room to be used for any other purpose.
 
@@ -323,9 +323,9 @@ The assignment of rooms in the House Office Building, made prior to May 28, 1908
 
 **Codification**
 
-Section was classified to section 177 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 177 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 2005. Vacant rooms; assignment to Representatives
+### § 2005. Vacant rooms; assignment to Representatives
 
 Any Member or Member-elect of the House of Representatives may file with the Architect of the Capitol a request in writing that any individual office room be assigned to him whenever it shall become vacant. If only one such request has been made for any room which shall at any time have become vacant, the room shall be assigned as requested. If two or more requests are made for the same vacant room, preference shall be given to the Representative making the request who has been longest in continuous service as a Member and Member-elect of the House of Representatives. If two or more Representatives with equal length of continuous service, or two or more Representatives-elect make request for the same room, preference shall be given to the one first preferring his request.
 
@@ -335,7 +335,7 @@ Any Member or Member-elect of the House of Representatives may file with the Arc
 
 **Codification**
 
-Section was classified to section 178 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 178 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -343,7 +343,7 @@ Section was classified to section 178 of former Title 40, prior to the enactment
 
 Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former section 1801 of this title.
 
-### § 2006. Withdrawal by Representative of request for vacant rooms
+### § 2006. Withdrawal by Representative of request for vacant rooms
 
 A Representative or Representative-elect making request for the assignment of a vacant room may withdraw the same at any time and no one shall have pending at the same time more than one such request. The assignment of a new room to a Representative, upon his request, or the appointment of any Representative having an individual office room as chairman of a committee having a committee room, shall act as a relinquishment by him of the room previously assigned to him.
 
@@ -353,9 +353,9 @@ A Representative or Representative-elect making request for the assignment of a 
 
 **Codification**
 
-Section was classified to section 179 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 179 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 2007. Exchange of rooms
+### § 2007. Exchange of rooms
 
 Representatives having rooms assigned to them in the foregoing manner may exchange rooms one with another, but such exchange shall be valid only so long as both Members making the exchange shall remain continuously Members or Members-elect of the House of Representatives.
 
@@ -365,9 +365,9 @@ Representatives having rooms assigned to them in the foregoing manner may exchan
 
 **Codification**
 
-Section was classified to section 180 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 180 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 2008. Record of assignment of rooms
+### § 2008. Record of assignment of rooms
 
 The Architect of the Capitol shall keep a record of the assignment of rooms made, exchanges which may be made, requests for vacant rooms which may be filed, and the assignment thereof, which record shall be open for the inspection of Representatives or Representatives-elect of the House.
 
@@ -377,7 +377,7 @@ The Architect of the Capitol shall keep a record of the assignment of rooms made
 
 **Codification**
 
-Section was classified to section 181 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 181 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -385,7 +385,7 @@ Section was classified to section 181 of former Title 40, prior to the enactment
 
 Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former section 1801 of this title.
 
-### § 2009. Assignment of rooms to Commissioner from Puerto Rico
+### § 2009. Assignment of rooms to Commissioner from Puerto Rico
 
 In the matter of the assignment of rooms under sections 2004 to 2011 of this title, Delegates in Congress and the Commissioner from Puerto Rico shall be treated the same as Representatives.
 
@@ -395,9 +395,9 @@ In the matter of the assignment of rooms under sections 2004 to 2011 of this tit
 
 **Codification**
 
-Section was classified to section 182 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 182 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-Words “and the Philippine Islands” after “Puerto Rico” were omitted pursuant to 1946 Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352, which granted independence to the Philippine Islands on July 4, 1946, under the authority of act Mar. 24, 1934, ch. 84, § 10, 48 Stat. 463, as amended, which is classified to section 1394 of Title 22, Foreign Relations and Intercourse.
+Words “and the Philippine Islands” after “Puerto Rico” were omitted pursuant to 1946 Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352, which granted independence to the Philippine Islands on July 4, 1946, under the authority of act Mar. 24, 1934, ch. 84, § 10, 48 Stat. 463, as amended, which is classified to section 1394 of Title 22, Foreign Relations and Intercourse.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -409,7 +409,7 @@ Words “and the Philippine Islands” after “Puerto Rico” were omitted purs
 
 Section 2106 of Title 5, Government Organization and Employees, provides that the term “Members of Congress” shall include the “Resident Commissioner from Puerto Rico.”
 
-### § 2010. Assignment of rooms; control of by House
+### § 2010. Assignment of rooms; control of by House
 
 The assignment and reassignment of the rooms and other space in the House Office Building shall be subject to the control of the House of Representatives by rule, resolution, order, or otherwise. Nothing in sections 2004 to 2011 of this title shall be construed to affect or repeal the provisions of section 2001 of this title, placing said House Office Building under the control of the Architect of the Capitol, subject to the approval and direction of the commission provided therein.
 
@@ -419,7 +419,7 @@ The assignment and reassignment of the rooms and other space in the House Office
 
 **Codification**
 
-Section was classified to section 183 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 183 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -427,7 +427,7 @@ Section was classified to section 183 of former Title 40, prior to the enactment
 
 Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former section 1801 of this title.
 
-### § 2011. Assignment of unoccupied space
+### § 2011. Assignment of unoccupied space
 
 Unoccupied space in said building shall be assigned by the Architect of the Capitol under the direction of the commission and subject to the control of the House of Representatives.
 
@@ -437,7 +437,7 @@ Unoccupied space in said building shall be assigned by the Architect of the Capi
 
 **Codification**
 
-Section was classified to section 184 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 184 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -445,17 +445,17 @@ Section was classified to section 184 of former Title 40, prior to the enactment
 
 Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former section 1801 of this title.
 
-### § 2012. Furniture for House of Representatives
+### § 2012. Furniture for House of Representatives
 
 The Chief Administrative Officer of the House of Representatives shall supervise and direct the care and repair of all furniture in the Hall, cloakrooms, lobby, committee rooms, and offices of the House, and all furniture required for the House of Representatives or for any of its committee rooms or offices shall be procured on designs and specifications made or approved by the Chief Administrative Officer.
 
-(Apr. 28, 1902, ch. 594, 32 Stat. 125; Pub. L. 111–248, § 3(a), Sept. 30, 2010, 124 Stat. 2626.)
+(Apr. 28, 1902, ch. 594, 32 Stat. 125; Pub. L. 111–248, § 3(a), Sept. 30, 2010, 124 Stat. 2626.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 169 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 169 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on par. from act Apr. 28, 1902, popularly known as the “Legislative, Executive, and Judicial Appropriation Act, fiscal year 1903”.
 
@@ -463,11 +463,11 @@ Section is based on par. from act Apr. 28, 1902, popularly known as the “Legis
 
 2010—Pub. L. 111–248 amended section generally. Prior to amendment, text read as follows: “The Architect of the Capitol shall supervise and direct the care and repair of all furniture in the Hall, cloakrooms, lobby, committee rooms, and offices of the House, and all furniture required for the House of Representatives or for any of its committee rooms or offices shall be procured on designs and specifications made or approved by the said Architect.”
 
-### § 2013. Revolving fund for House gymnasium; deposit of receipts; availability for expenditure
+### § 2013. Revolving fund for House gymnasium; deposit of receipts; availability for expenditure
 
 There is established in the Treasury a revolving fund for the House of Representatives gymnasium. The Architect of the Capitol shall deposit in the fund such amounts as the Architect may receive as gymnasium dues or assessments from Members of the House of Representatives and other authorized users of the gymnasium. The amounts so deposited shall be available for obligation by the Architect for expenses of the gymnasium.
 
-(Pub. L. 102–392, title I, § 106, Oct. 6, 1992, 106 Stat. 1715.)
+(Pub. L. 102–392, title I, § 106, Oct. 6, 1992, 106 Stat. 1715.)
 
 **Editorial Notes**
 
@@ -479,7 +479,7 @@ Section is from the Congressional Operations Appropriations Act, 1993, which is 
 
 ## SUBCHAPTER II—SENATE
 
-### § 2021. Additional Senate office building
+### § 2021. Additional Senate office building
 
 Upon completion of the additional office building for the United States Senate, the building and the grounds and sidewalks surrounding the same shall be subject to the provisions of sections 1922, 1961, 1966, 1967, 1969, 2023, and 2024 of this title and sections 5101 to 5107 and 5109 of title 40, in the same manner and to the same extent as the present Senate Office Building and the grounds and sidewalks surrounding the same.
 
@@ -489,19 +489,19 @@ Upon completion of the additional office building for the United States Senate, 
 
 **References in Text**
 
-Sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40, referred to in text, was in the original a reference to the Act of July 31, 1946, ch. 707, 60 Stat. 718. Sections 9, 9A, 9B, 9C, and 14 of the Act are classified, respectively, to sections 1961, 1966, 1967, 1922, and 1969 of this title, and section 16(b) of the Act is set out as a note under section 1961 of this title. Sections 1 to 8, 10 to 13, and 16(a) of the Act, which were classified to sections 193a to 193m of former Title 40, Public Buildings, Property, and Works, were repealed and reenacted as sections 5101 to 5107 and 5109 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1312, the first section of which enacted Title 40. Section 5(c) of Pub. L. 107–217, set out as a note preceding section 101 of Title 40, provides that a reference to a law replaced by section 1 of Pub. L. 107–217 is deemed to refer to the corresponding provision enacted by Pub. L. 107–217. For complete classification of the act of July 31, 1946, to the Code, see Tables. For disposition of sections of former Title 40, see table at the beginning of Title 40.
+Sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40, referred to in text, was in the original a reference to the Act of July 31, 1946, ch. 707, 60 Stat. 718. Sections 9, 9A, 9B, 9C, and 14 of the Act are classified, respectively, to sections 1961, 1966, 1967, 1922, and 1969 of this title, and section 16(b) of the Act is set out as a note under section 1961 of this title. Sections 1 to 8, 10 to 13, and 16(a) of the Act, which were classified to sections 193a to 193m of former Title 40, Public Buildings, Property, and Works, were repealed and reenacted as sections 5101 to 5107 and 5109 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1312, the first section of which enacted Title 40. Section 5(c) of Pub. L. 107–217, set out as a note preceding section 101 of Title 40, provides that a reference to a law replaced by section 1 of Pub. L. 107–217 is deemed to refer to the corresponding provision enacted by Pub. L. 107–217. For complete classification of the act of July 31, 1946, to the Code, see Tables. For disposition of sections of former Title 40, see table at the beginning of Title 40.
 
 Sections 2023 and 2024 of this title, referred to in text, was in the original a reference to “the Act of June 8, 1942 (U.S.C., title 40, sec. 174(c) and (d))”, which, to reflect the probable intent of Congress, was translated as meaning the provisions of the act of June 8, 1942, ch. 396, 56 Stat. 330, which were classified to sections 174c and 174d of former Title 40, Public Buildings, Property, and Works. Sections 174c and 174d of former Title 40 have been transferred to sections 2023 and 2024, respectively, of this title.
 
 **Codification**
 
-Section was classified to section 174b–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174b–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Acquisition of Property for Use as Residential Facility for United States Senate Pages**
 
-Pub. L. 102–330, § 1, Aug. 3, 1992, 106 Stat. 849, as amended by Pub. L. 103–50, ch. XII, § 1202, July 2, 1993, 107 Stat. 267, provided that:
+Pub. L. 102–330, § 1, Aug. 3, 1992, 106 Stat. 849, as amended by Pub. L. 103–50, ch. XII, § 1202, July 2, 1993, 107 Stat. 267, provided that:
 
 > **“(a) Acquisition of Property.—**
 
@@ -521,13 +521,13 @@ Pub. L. 102–330, § 1, Aug. 3, 1992, 106 Stat. 849, as amended by Pub. L. 10
 
 **Authorization of Architect of Capitol To Lease City Post Office Building for Use by Senate and for Other Purposes**
 
-Pub. L. 111–310, § 1, Dec. 15, 2010, 124 Stat. 3293, provided that:
+Pub. L. 111–310, § 1, Dec. 15, 2010, 124 Stat. 3293, provided that:
 
 > **“(a) Designation.—** The facility of the United States Postal Service located at 2 Massachusetts Avenue, NE, in Washington, D.C., shall be known and designated as the ‘Dorothy I. Height Post Office’.
 
 > **“(b) References.—** Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the ‘Dorothy I. Height Post Office’.”
 
-Pub. L. 101–520, title I, § 107, Nov. 5, 1990, 104 Stat. 2267, provided that:
+Pub. L. 101–520, title I, § 107, Nov. 5, 1990, 104 Stat. 2267, provided that:
 
 > **“(a)** Notwithstanding any other provision of law, the Architect of the Capitol, subject to the approval of the Committee on Rules and Administration, is authorized to lease, for use by the United States Senate, and for such other purposes as such committee may approve, 150,000 square feet of space, more or less, in the property located at 2 Massachusetts Avenue, N.E., Washington, District of Columbia, known as the City Post Office Building: *Provided*, That rental payments shall be paid from the account ‘Architect of the Capitol, Senate Office Buildings’ upon vouchers approved by the Architect of the Capitol: *Provided further*, That nothing in this section shall be construed so as to obligate the Senate or any of its Members, officers, or employees to enter into any such lease or to imply any obligation to enter into any such lease.
 
@@ -541,7 +541,7 @@ Pub. L. 101–520, title I, § 107, Nov. 5, 1990, 104 Stat. 2267, provided tha
 
 **North Capitol Plaza Building; Continuation of Authority for Lease and Sublease of Property; Leased Property As Part of Senate Office Buildings; Rent Limitations; Necessity of Senate Resolution; Term of Lease; Purchase Option**
 
-Pub. L. 94–157, title I, § 112, Dec. 18, 1975, 89 Stat. 832, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that:
+Pub. L. 94–157, title I, § 112, Dec. 18, 1975, 89 Stat. 832, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 > **“(a)** Notwithstanding any other provision of law, the Sergeant at Arms of the Senate, subject to the approval of the Committee on Rules and Administration, and the Committee on Appropriations, is authorized to lease, for use by the United States Senate, and for such other purposes as such committees may approve, all or any part of the property located at 400 North Capitol Street, Washington, District of Columbia, known as the ‘North Capitol Plaza Building’: *Provided*, That rental payments under such lease for the entire property shall not exceed $3,375,000 per annum, exclusive of amounts for reimbursement for taxes paid and utilities furnished by the lessor: *Provided further*, That a lease shall not become effective until approved by Senate Resolution. Prior to such approval process the Government Accountability Office shall examine the terms of the proposed lease and shall report to the Senate on its reasonableness, taking into account such factors as rental rates for similar space, advantages of proximity, and possible alternative arrangements. Such payments shall be paid from the Contingent Fund of the Senate upon vouchers approved by the Sergeant at Arms: *Provided further*, That such lease may be for a term not in excess of five years, and shall contain an option to purchase such property, and shall include such other terms and conditions as such committees may determine to be in the best interests of the Government: *Provided further*, That nothing in this section shall be construed so as to obligate the Senate or any of its Members, officers, or employees to enter into any such lease or to imply any obligation to enter into any such lease.
 
@@ -559,13 +559,13 @@ Pub. L. 92–607, ch. V, Oct. 31, 1972, 86 Stat. 1510, appropriated funds for th
 
 **Acquisition of Property as Site for Parking Facilities for Senate**
 
-Pub. L. 92–607, ch. V, Oct. 31, 1972, 86 Stat. 1510, as amended by Pub. L. 93–305, title I, ch. VIII, § 801, June 8, 1974, 88 Stat. 206, authorized the Architect of the Capitol to acquire certain real property as a site for parking facilities for the Senate, with such property to become a part of the United States Capitol Grounds upon acquisition.
+Pub. L. 92–607, ch. V, Oct. 31, 1972, 86 Stat. 1510, as amended by Pub. L. 93–305, title I, ch. VIII, § 801, June 8, 1974, 88 Stat. 206, authorized the Architect of the Capitol to acquire certain real property as a site for parking facilities for the Senate, with such property to become a part of the United States Capitol Grounds upon acquisition.
 
 **Acquisition of Property To Extend Additional Senate Office Building Site**
 
 Pub. L. 85–429, May 29, 1958, 72 Stat. 148; Pub. L. 85–591, Aug. 6, 1958, 72 Stat. 495; Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 352; Pub. L. 91–382, Aug. 18, 1970, 84 Stat. 819; Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 637, in part authorized the Architect of the Capitol to acquire certain real property for purposes of extension of Additional Senate Office Building Site and provided that such property become a part of the United States Capitol Grounds or that it be subject to the act of July 31, 1946 (2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101 to 5107, 5109).
 
-### § 2022. Acquisition of buildings and facilities for use in emergency situation
+### § 2022. Acquisition of buildings and facilities for use in emergency situation
 
 **(a) Acquisition of buildings and facilities**
 
@@ -593,7 +593,7 @@ Subject to the approval of the Committee on Appropriations of the Senate, the Ar
 
 This section and the amendments made by this section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
-(Pub. L. 107–117, div. B, § 901, Jan. 10, 2002, 115 Stat. 2315; Pub. L. 107–206, title I, § 902(a)(1), Aug. 2, 2002, 116 Stat. 876.)
+(Pub. L. 107–117, div. B, § 901, Jan. 10, 2002, 115 Stat. 2315; Pub. L. 107–206, title I, § 902(a)(1), Aug. 2, 2002, 116 Stat. 876.)
 
 **Editorial Notes**
 
@@ -603,7 +603,7 @@ For the amendments made by this section, referred to in subsec. (e), see Codific
 
 **Codification**
 
-Section was classified to section 174b–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174b–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is comprised of section 901 of Pub. L. 107–117. Subsec. (c)(2) of section 901 of Pub. L. 107–117 amended section 1961 of this title.
 
@@ -615,19 +615,19 @@ Section is comprised of section 901 of Pub. L. 107–117. Subsec. (c)(2) of sect
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–206, title I, § 902(c), Aug. 2, 2002, 116 Stat. 876, provided that: “The amendment made by this section [amending this section and section 1961 of this title] shall take effect as if included in the enactment of the Emergency Supplemental Act, 2002 [Pub. L. 107–117, div. B].”
+Pub. L. 107–206, title I, § 902(c), Aug. 2, 2002, 116 Stat. 876, provided that: “The amendment made by this section [amending this section and section 1961 of this title] shall take effect as if included in the enactment of the Emergency Supplemental Act, 2002 [Pub. L. 107–117, div. B].”
 
-### § 2023. Control, care, and supervision of Senate Office Building
+### § 2023. Control, care, and supervision of Senate Office Building
 
 On and after June 8, 1942, the Senate Office Building, and the employment of all services (other than for the United States Capitol Police) necessary for its protection, care, and occupancy, together with all other items that may be appropriated for by the Congress for such purposes, shall be under the control and supervision of the Architect of the Capitol, subject to the approval of the Senate Committee on Rules and Administration as to matters of general policy; and the Architect of the Capitol shall submit annually to the Congress estimates in detail for all services (other than for the United States Capitol Police) and for all other expenses in connection with said office building and necessary for its protection, care, and occupancy.
 
-(June 8, 1942, ch. 396, 56 Stat. 343; Aug. 2, 1946, ch. 753, title I, § 102, title II, § 224, 60 Stat. 814, 838; Pub. L. 111–145, § 6(c)(2), Mar. 4, 2010, 124 Stat. 54.)
+(June 8, 1942, ch. 396, 56 Stat. 343; Aug. 2, 1946, ch. 753, title I, § 102, title II, § 224, 60 Stat. 814, 838; Pub. L. 111–145, § 6(c)(2), Mar. 4, 2010, 124 Stat. 54.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 174c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
@@ -639,19 +639,19 @@ Section was classified to section 174c of former Title 40, prior to the enactmen
 
 **Effective Date of 1946 Amendment**
 
-Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of title II of that act, 60 Stat. 839, provided that section 224 thereof shall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.
+Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of title II of that act, 60 Stat. 839, provided that section 224 thereof shall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.
 
-### § 2024. Assignment of space in Senate Office Building
+### § 2024. Assignment of space in Senate Office Building
 
 On and after June 8, 1942, the assignment of rooms and other space in the Senate Office Building shall be under the direction and control of the Senate Committee on Rules and Administration and shall not be a part of the duties of the Architect of the Capitol.
 
-(June 8, 1942, ch. 396, 56 Stat. 343; Aug. 2, 1946, ch. 753, title I, § 102, title II, § 224, 60 Stat. 814, 838.)
+(June 8, 1942, ch. 396, 56 Stat. 343; Aug. 2, 1946, ch. 753, title I, § 102, title II, § 224, 60 Stat. 814, 838.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 174d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
@@ -661,27 +661,27 @@ Section was classified to section 174d of former Title 40, prior to the enactmen
 
 **Effective Date of 1946 Amendment**
 
-Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of title II of that act, 60 Stat. 839, provided that section 224 thereof shall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.
+Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of title II of that act, 60 Stat. 839, provided that section 224 thereof shall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.
 
-### § 2025. Senate Garage
+### § 2025. Senate Garage
 
 **(a)** The employees of the Senate garage engaged by the Architect of the Capitol for the primary purpose of servicing official motor vehicles, together with the functions performed by such employees, shall, on October 1, 1980, be transferred to the jurisdiction of the Sergeant at Arms and Doorkeeper of the Senate: *Provided further*, That, effective July 1, 1965, the underground space in the north extension of the Capitol Grounds, known as the Legislative Garage shall hereafter be known as the Senate Garage and shall be under the jurisdiction and control of the Architect of the Capitol, subject to such regulations respecting the use thereof as may be promulgated by the Senate Committee on Rules and Administration: *Provided further*, That, such regulations shall provide for the continued assignment of space and the continued furnishing of service in such garage for official motor vehicles of the House and the Senate and the Architect of the Capitol and Capitol Grounds maintenance equipment.
 
 **(b)** As used in subsection (a), the term “servicing” includes, with respect to an official motor vehicle, the washing and fueling of such vehicle, the checking of its tires and battery, and checking and adding oil.
 
-(June 30, 1932, ch. 314, 47 Stat. 391; Pub. L. 88–454, Aug. 20, 1964, 78 Stat. 545; Pub. L. 96–444, § 1(a)(1), (b), Oct. 13, 1980, 94 Stat. 1889.)
+(June 30, 1932, ch. 314, 47 Stat. 391; Pub. L. 88–454, Aug. 20, 1964, 78 Stat. 545; Pub. L. 96–444, § 1(a)(1), (b), Oct. 13, 1980, 94 Stat. 1889.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 185a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 185a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
-1980—Subsec. (a). Pub. L. 96–444, § 1(a)(1), designated existing provision as subsec. (a) and substituted provision transferring, on October 1, 1980, employees of the Senate garage engaged by the Architect of the Capitol for the primary purpose of servicing official motor vehicles, together with the functions performed by such employees, to the jurisdiction of the Sergeant at Arms and Doorkeeper of the Senate for provision transferring, on July 1, 1932, employees engaged in the care and maintenance of the Senate garage to the jurisdiction of the Architect of the Capitol, without any reduction in compensation to these employees as the result of such transfer.
+1980—Subsec. (a). Pub. L. 96–444, § 1(a)(1), designated existing provision as subsec. (a) and substituted provision transferring, on October 1, 1980, employees of the Senate garage engaged by the Architect of the Capitol for the primary purpose of servicing official motor vehicles, together with the functions performed by such employees, to the jurisdiction of the Sergeant at Arms and Doorkeeper of the Senate for provision transferring, on July 1, 1932, employees engaged in the care and maintenance of the Senate garage to the jurisdiction of the Architect of the Capitol, without any reduction in compensation to these employees as the result of such transfer.
 
-Subsec. (b). Pub. L. 96–444, § 1(b), added subsec. (b).
+Subsec. (b). Pub. L. 96–444, § 1(b), added subsec. (b).
 
 1964—Pub. L. 88–454 redesignated the Legislative Garage as the Senate Garage, transferred the authority to promulgate rules from the Vice President and the Speaker of the House to the Senate Committee on Rules and Administration, and directed that the regulations provide for the continued assignment of space and the continued furnishing of service for official motor vehicles of the House and the Senate and the Architect of the Capitol and Capitol Grounds maintenance equipment.
 
@@ -689,11 +689,11 @@ Subsec. (b). Pub. L. 96–444, § 1(b), added subsec. (b).
 
 **Availability of Appropriations for Expenses of Senate Garage**
 
-Title I of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 1982, and incorporated by reference in Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189, to be effective as if enacted into law, provided in part: “That appropriations under this head [senate office buildings] shall hereafter be available for maintenance, alternations [alterations], personal and other services, and for all other necessary expenses of the Senate Garage as authorized by the paragraph beginning ‘Capitol Garages’ under the general heading ‘ARCHITECT OF THE CAPITOL’ in the first section of the Act entitled ‘An Act making appropriations for the Legislative Branch of the Government for the fiscal year ending June 30, 1933, and for other purposes’, approved June 30, 1933 [1932] (40 U.S.C. 185a) [now this section] and Public Law 96–444 [amending this section and enacting provisions set out as notes under this section and section 185a of former Title 40, Public Buildings, Property, and Works].”
+Title I of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 1982, and incorporated by reference in Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189, to be effective as if enacted into law, provided in part: “That appropriations under this head [senate office buildings] shall hereafter be available for maintenance, alternations [alterations], personal and other services, and for all other necessary expenses of the Senate Garage as authorized by the paragraph beginning ‘Capitol Garages’ under the general heading ‘ARCHITECT OF THE CAPITOL’ in the first section of the Act entitled ‘An Act making appropriations for the Legislative Branch of the Government for the fiscal year ending June 30, 1933, and for other purposes’, approved June 30, 1933 [1932] (40 U.S.C. 185a) [now this section] and Public Law 96–444 [amending this section and enacting provisions set out as notes under this section and section 185a of former Title 40, Public Buildings, Property, and Works].”
 
 **Appointment of Garage Attendants; Compensation; Longevity Compensation**
 
-Pub. L. 96–444, § 2, Oct. 13, 1980, 94 Stat. 1889, provided that:
+Pub. L. 96–444, § 2, Oct. 13, 1980, 94 Stat. 1889, provided that:
 
 > **“(a)** Effective October 1, 1980, the Sergeant at Arms and Doorkeeper of the Senate is authorized to appoint and fix the compensation of four garage attendants at not to exceed $14,100 per annum each.
 
@@ -709,7 +709,7 @@ Pub. L. 96–444, § 2, Oct. 13, 1980, 94 Stat. 1889, provided that:
 
 > **“(c)** During any period with respect to which subsection (b) is applicable to a position occupied by an individual described in such subsection, such individual shall be credited, for purposes of longevity compensation, as authorized by section 106(a), (b), and (d) of the Legislative Branch Appropriation Act, 1963 (2 U.S.C. 60j) [now 2 U.S.C. 4507], for service performed by such individual in the position of garage attendant, as an employee of the Architect of the Capitol, as certified to the Secretary of the Senate by the Architect of the Capitol.”
 
-### § 2026. Senate Staff Health and Fitness Facility Revolving Fund
+### § 2026. Senate Staff Health and Fitness Facility Revolving Fund
 
 **(a) Establishment**
 
@@ -733,7 +733,7 @@ The Architect of the Capitol shall withdraw from the revolving fund and deposit 
 
 The Committee on Rules and Administration of the Senate shall promulgate regulations pertaining to the operation and use of the Senate Staff Health and Fitness Facility.
 
-(Pub. L. 106–554, § 1(a)(2) [title I, § 4], Dec. 21, 2000, 114 Stat. 2763, 2763A–96; Pub. L. 108–7, div. H, title I, § 1207, Feb. 20, 2003, 117 Stat. 375.)
+(Pub. L. 106–554, § 1(a)(2) [title I, § 4], Dec. 21, 2000, 114 Stat. 2763, 2763A–96; Pub. L. 108–7, div. H, title I, § 1207, Feb. 20, 2003, 117 Stat. 375.)
 
 **Editorial Notes**
 
@@ -745,17 +745,17 @@ Section is from the Congressional Operations Appropriations Act, 2001, which is 
 
 **Amendments**
 
-2003—Subsecs. (a), (b)(1). Pub. L. 108–7, § 1207(1), (2), inserted “Staff” after “Senate”.
+2003—Subsecs. (a), (b)(1). Pub. L. 108–7, § 1207(1), (2), inserted “Staff” after “Senate”.
 
-Subsec. (c). Pub. L. 108–7, § 1207(3), inserted “Staff” after “costs of the Senate”.
+Subsec. (c). Pub. L. 108–7, § 1207(3), inserted “Staff” after “costs of the Senate”.
 
-Subsec. (d). Pub. L. 108–7, § 1207(4), inserted “Staff” after “Senate”.
+Subsec. (d). Pub. L. 108–7, § 1207(4), inserted “Staff” after “Senate”.
 
-Subsec. (e). Pub. L. 108–7, § 1207(5), added subsec. (e) and struck out former subsec. (e) which read as follows: “Subject to the approval of the Committee on Rules and Administration of the Senate, the Architect of the Capitol may issue such regulations as may be necessary to carry out the provisions of this section.”
+Subsec. (e). Pub. L. 108–7, § 1207(5), added subsec. (e) and struck out former subsec. (e) which read as follows: “Subject to the approval of the Committee on Rules and Administration of the Senate, the Architect of the Capitol may issue such regulations as may be necessary to carry out the provisions of this section.”
 
 ## SUBCHAPTER III—RESTAURANTS
 
-### § 2041. House of Representatives restaurant, cafeteria, and food services
+### § 2041. House of Representatives restaurant, cafeteria, and food services
 
 **(a) Management and duties**
 
@@ -773,19 +773,19 @@ All authority, responsibility, and functions vested in or imposed upon the Archi
 
 The provisions of this section shall become effective on the first day of the first calendar month beginning after the date of adoption of this resolution, until otherwise provided by law.
 
-(Pub. L. 92–51, July 9, 1971, 85 Stat. 133; Pub. L. 104–186, title II, § 221(3)(A), Aug. 20, 1996, 110 Stat. 1748.)
+(Pub. L. 92–51, July 9, 1971, 85 Stat. 133; Pub. L. 104–186, title II, § 221(3)(A), Aug. 20, 1996, 110 Stat. 1748.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in subsecs. (a) and (c), means section 208 of act Oct. 9, 1940, ch. 780, title II, 54 Stat. 1056, which was classified to section 174k of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 104–186, title II, § 221(3)(B), Aug. 20, 1996, 110 Stat. 1748.
+Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in subsecs. (a) and (c), means section 208 of act Oct. 9, 1940, ch. 780, title II, 54 Stat. 1056, which was classified to section 174k of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 104–186, title II, § 221(3)(B), Aug. 20, 1996, 110 Stat. 1748.
 
 The date of adoption of this resolution, referred to in subsec. (d), is Mar. 25, 1971. See Codification note below.
 
 **Codification**
 
-Section was classified to section 174k of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174k of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on section 2 of House Resolution No. 317, Ninety-second Congress, Mar. 25, 1971, which was enacted into permanent law by Pub. L. 92–51.
 
@@ -801,17 +801,17 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **Special Deposit Account From Vending Operations**
 
-Pub. L. 104–53, title I, § 107A, Nov. 19, 1995, 109 Stat. 522, as amended by Pub. L. 104–197, title I, § 101(a), Sept. 16, 1996, 110 Stat. 2400, provided that:
+Pub. L. 104–53, title I, § 107A, Nov. 19, 1995, 109 Stat. 522, as amended by Pub. L. 104–197, title I, § 101(a), Sept. 16, 1996, 110 Stat. 2400, provided that:
 
 > **“(a)** Subject to the direction of the Committee on House Oversight of the House of Representatives, the amounts deposited in the account specified in subsection (b) from vending operations of the House of Representatives Restaurant System shall be available to pay the cost of goods sold for such operations.
 
 > **“(b)** The account referred to in subsection (a) is the special deposit account established for the House of Representatives Restaurant by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 (40 U.S.C. 174k note) [former 40 U.S.C. 174k].”
 
-[Pub. L. 104–197, title I, § 101(b), Sept. 16, 1996, 110 Stat. 2401, provided that: “The amendments made by subsection (a) [amending section 107A of Pub. L. 104–53, set out above] shall apply with respect to fiscal years beginning after September 30, 1996.” ]
+[Pub. L. 104–197, title I, § 101(b), Sept. 16, 1996, 110 Stat. 2401, provided that: “The amendments made by subsection (a) [amending section 107A of Pub. L. 104–53, set out above] shall apply with respect to fiscal years beginning after September 30, 1996.” ]
 
 **Transfer of Food Service Operations; Election by Certain Affected Employees; Disability and Retirement Benefits; Promulgation of Regulations**
 
-Pub. L. 99–500, § 111, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99–591, § 111, Oct. 30, 1986, 100 Stat. 3341–348, provided that:
+Pub. L. 99–500, § 111, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99–591, § 111, Oct. 30, 1986, 100 Stat. 3341–348, provided that:
 
 > **“(a)** Any individual who—
 
@@ -845,29 +845,29 @@ Pub. L. 99–500, § 111, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99�
 
 > **“(2)** At the earliest practicable opportunity, the Executive Director of the Federal Retirement Thrift Investment Board shall, in consultation with the Architect of the Capitol, prescribe regulations to carry out this section with respect to matters within the jurisdiction of the Board.”
 
-### § 2042. Senate Restaurants; management by Architect of the Capitol
+### § 2042. Senate Restaurants; management by Architect of the Capitol
 
 Effective August 1, 1961, the management of the Senate Restaurants and all matters connected therewith, heretofore under the direction of the Senate Committee on Rules and Administration, shall be under the direction of the Architect of the Capitol under such rules and regulations as the Architect may prescribe for the operation and the employment of necessary assistance for the conduct of said restaurants by such business methods as may produce the best results consistent with economical and modern management, subject to the approval of the Senate Committee on Rules and Administration as to matters of general policy: *Provided*, That the management of the Senate Restaurants by the Architect of the Capitol shall cease and the restaurants revert from the jurisdiction of the Architect of the Capitol to the jurisdiction of the Senate Committee on Rules and Administration upon adoption by that committee of a resolution ordering such transfer of jurisdiction at any time hereafter. The provisions of section 5104(c) of title 40, except for the provisions relating to solicitation, shall not apply to any activity carried out pursuant to this section, subject to the approval of such activities by the Committee on Rules and Administration.
 
-(Pub. L. 87–82, § 1, July 6, 1961, 75 Stat. 199; Pub. L. 106–57, title I, § 5, Sept. 29, 1999, 113 Stat. 412.)
+(Pub. L. 87–82, § 1, July 6, 1961, 75 Stat. 199; Pub. L. 106–57, title I, § 5, Sept. 29, 1999, 113 Stat. 412.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 5104(c) of title 40” substituted in text for “section 4 of the Act of July 31, 1946 (40 U.S.C. 193d)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Section 5104(c) of title 40” substituted in text for “section 4 of the Act of July 31, 1946 (40 U.S.C. 193d)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-Section was classified to section 174j–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174j–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
 1999—Pub. L. 106–57 inserted at end: “The provisions of section 193d of this title, except for the provisions relating to solicitation, shall not apply to any activity carried out pursuant to this section, subject to the approval of such activities by the Committee on Rules and Administration.”
 
-### § 2043. Authorization and direction to effectuate purposes of sections 2042 to 2047 of this title
+### § 2043. Authorization and direction to effectuate purposes of sections 2042 to 2047 of this title
 
 The Architect of the Capitol is authorized and directed to carry into effect for the United States Senate the provisions of sections 2042 to 2047 of this title and to exercise the authorities contained herein, and any resolution of the Senate amendatory hereof or supplementary hereto hereafter adopted. Such authority and direction shall continue until the United States Senate shall by resolution otherwise order, or until the Senate Committee on Rules and Administration shall by resolution order the restaurants to be returned to the committee’s jurisdiction.
 
-(Pub. L. 87–82, § 3, July 6, 1961, 75 Stat. 199.)
+(Pub. L. 87–82, § 3, July 6, 1961, 75 Stat. 199.)
 
 **Editorial Notes**
 
@@ -877,19 +877,19 @@ Herein, referred to in text, means Pub. L. 87–82, July 6, 1961, 75 Stat. 199, 
 
 **Codification**
 
-Section was classified to section 174j–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174j–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 2044. Special deposit account
+### § 2044. Special deposit account
 
 There is established with the Treasurer of the United States a special deposit account in the name of the Architect of the Capitol for the United States Senate Restaurants, into which shall be deposited all sums received pursuant to sections 2042 to 2047 of this title or any amendatory or supplementary resolutions hereafter adopted and from the operations thereunder and from which shall be disbursed the sums necessary in connection with the exercise of the duties required under sections 2042 to 2047 of this title or any amendatory or supplementary resolutions and the operations thereunder. Any amounts appropriated for fiscal year 1973 and thereafter from the Treasury of the United States, which shall be part of a “Contingent Expenses of the Senate” item for the particular fiscal year involved, shall be paid to the Architect of the Capitol by the Secretary of the Senate at such times and in such sums as the Senate Committee on Rules and Administration may approve. Any such payment shall be deposited by the Architect in full under such special deposit account.
 
-(Pub. L. 87–82, § 4, July 6, 1961, 75 Stat. 199; Pub. L. 92–51, July 9, 1971, 85 Stat. 129; Pub. L. 92–342, § 101, July 10, 1972, 86 Stat. 435.)
+(Pub. L. 87–82, § 4, July 6, 1961, 75 Stat. 199; Pub. L. 92–51, July 9, 1971, 85 Stat. 129; Pub. L. 92–342, § 101, July 10, 1972, 86 Stat. 435.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 174j–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174j–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
@@ -897,55 +897,55 @@ Section was classified to section 174j–4 of former Title 40, prior to the enac
 
 1971—Pub. L. 92–51 substituted “amounts appropriated for fiscal year 1972 and thereafter” for Senate Restaurants for “amounts hereafter appropriated” for such Restaurants, provision that amounts appropriated specifically for such Restaurants as a Contingent Expense of the Senate item for fiscal year involved shall be paid to Architect of the Capitol, for prior provision declaring amounts appropriated for such Restaurants shall be a part of such Restaurants as a Contingent Expense of Senate for fiscal year involved and for payment of such part to Architect of the Capitol, and provision for approval of payments by Senate Committee on Rules and Administration, including times for payments, for prior provision for payments as appropriations shall specify.
 
-### § 2045. Deposits and disbursements under special deposit account
+### § 2045. Deposits and disbursements under special deposit account
 
 Deposits and disbursements under such special deposit account (1) shall be made by the Architect, or, when directed by him, by such employees of the Architect as he may designate, and (2) shall be subject to audit by the Government Accountability Office at such times and in such manner as the Comptroller General may direct: *Provided*, That payments made by or under the direction of the Architect of the Capitol from such special deposit account shall be conclusive upon all officers of the Government.
 
-(Pub. L. 87–82, § 5, July 6, 1961, 75 Stat. 200; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 87–82, § 5, July 6, 1961, 75 Stat. 200; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 174j–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174j–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
 2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-### § 2046. Bond of Architect, Assistant Architect, and other employees
+### § 2046. Bond of Architect, Assistant Architect, and other employees
 
 The Architect, Assistant Architect, and any employees of the Architect designated by the Architect under section 2045 of this title shall each give bond in the sum of $5,000 with such surety as the Secretary of the Treasury may approve for the handling of the financial transactions under such special deposit account.
 
-(Pub. L. 87–82, § 6, July 6, 1961, 75 Stat. 200.)
+(Pub. L. 87–82, § 6, July 6, 1961, 75 Stat. 200.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 174j–6 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174j–6 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 2047. Supersedure of prior provisions for maintenance and operation of Senate Restaurants
+### § 2047. Supersedure of prior provisions for maintenance and operation of Senate Restaurants
 
 Sections 2042 to 2047 of this title shall supersede any other Acts or resolutions heretofore approved for the maintenance and operation of the Senate Restaurants: *Provided, however*, That any Acts or resolutions now in effect shall again become effective, should the restaurants at any future time revert to the jurisdiction of the Senate Committee on Rules and Administration.
 
-(Pub. L. 87–82, § 7, July 6, 1961, 75 Stat. 200.)
+(Pub. L. 87–82, § 7, July 6, 1961, 75 Stat. 200.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 174j–7 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174j–7 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 2048. Repealed. Pub. L. 110–279, § 1(c)(4)(C), July 17, 2008, 122 Stat. 2606
+### § 2048. Repealed. Pub. L. 110–279, § 1(c)(4)(C), July 17, 2008, 122 Stat. 2606
 
-Section, Pub. L. 92–51, July 9, 1971, 85 Stat. 138; Pub. L. 94–59, title V, July 25, 1975, 89 Stat. 289; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(5)], Nov. 5, 1990, 104 Stat. 1427, 1440, related to appropriations for certain miscellaneous restaurant expenses, appropriations for employment of management personnel of Senate restaurant facilities, and compensation and annual and sick leave of such personnel.
+Section, Pub. L. 92–51, July 9, 1971, 85 Stat. 138; Pub. L. 94–59, title V, July 25, 1975, 89 Stat. 289; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(5)], Nov. 5, 1990, 104 Stat. 1427, 1440, related to appropriations for certain miscellaneous restaurant expenses, appropriations for employment of management personnel of Senate restaurant facilities, and compensation and annual and sick leave of such personnel.
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 174j–8 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174j–8 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -953,13 +953,13 @@ Section was classified to section 174j–8 of former Title 40, prior to the enac
 
 Repeal effective July 17, 2008, and applicable to remainder of fiscal year in which enacted and each fiscal year thereafter, see section 2051(i) of this title.
 
-### § 2049. Loans for Senate Restaurants
+### § 2049. Loans for Senate Restaurants
 
 **(a) Borrowing authority**
 
 Subject to the approval of the Senate Committee on Rules and Administration, the Architect of the Capitol shall have authority to borrow (and be accountable for), from time to time, from the appropriation account, within the contingent fund of the Senate, for “Miscellaneous Items”, such amount as he may determine necessary to carry out the provisions of the joint resolution entitled “Joint Resolution transferring the management of the Senate Restaurants to the Architect of the Capitol, and for other purposes”, approved July 6, 1961, as amended (40 U.S.C. 174j–1 through 174j–8) [2 U.S.C. 2042 et seq.],1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and resolutions of the Senate amendatory thereof or supplementary thereto.
 
@@ -977,13 +977,13 @@ All proceeds from the repayment of any such loan shall be deposited in the appro
 
 **References in Text**
 
-The Joint Resolution entitled “Joint Resolution transferring the management of the Senate Restaurants to the Architect of the Capitol, and for other purposes”, approved July 6, 1961, referred to in subsec. (a), is Pub. L. 87–82, July 6, 1961, 75 Stat. 199, which enacted sections 174j–1 to 174j–7 of former Title 40, Public Buildings, Property, and Works. Sections 174j–1 and 174j–3 to 174j–7 of former Title 40 were transferred to sections 2042 and 2043 to 2047 of this title, respectively. Section 174j–2 of former Title 40 was repealed by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. Section 174j–8 of former Title 40, which was not enacted by Pub. L. 87–82, was transferred to section 2048 of this title and subsequently repealed. For complete classification of this Act to the Code, see Tables.
+The Joint Resolution entitled “Joint Resolution transferring the management of the Senate Restaurants to the Architect of the Capitol, and for other purposes”, approved July 6, 1961, referred to in subsec. (a), is Pub. L. 87–82, July 6, 1961, 75 Stat. 199, which enacted sections 174j–1 to 174j–7 of former Title 40, Public Buildings, Property, and Works. Sections 174j–1 and 174j–3 to 174j–7 of former Title 40 were transferred to sections 2042 and 2043 to 2047 of this title, respectively. Section 174j–2 of former Title 40 was repealed by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. Section 174j–8 of former Title 40, which was not enacted by Pub. L. 87–82, was transferred to section 2048 of this title and subsequently repealed. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
-Section was classified to section 174j–9 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174j–9 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 2050. Transfer of appropriations for management personnel and miscellaneous restaurant expenses to special deposit account
+### § 2050. Transfer of appropriations for management personnel and miscellaneous restaurant expenses to special deposit account
 
 Appropriations under this heading for management personnel and miscellaneous restaurant expenses on and after October 7, 1997, shall be transferred at the beginning of each fiscal year to the special deposit account in the United States Treasury established under section 2044 of this title, and effective October 1, 1997, all management personnel of the Senate Restaurant facilities shall be paid from the special deposit account. Management personnel transferred hereunder shall be paid at the same rates of pay applicable immediately prior to the date of transfer, and annual and sick leave balances shall be credited to leave accounts of such personnel in the Senate Restaurants.
 
@@ -997,11 +997,11 @@ Appropriations under this heading, referred to in text, probably means appropria
 
 **Codification**
 
-Section was classified to section 174j–10 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174j–10 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is from the Congressional Operations Appropriations Act, 1998, which is title I of the Legislative Branch Appropriations Act, 1998.
 
-### § 2051. Continued benefits for certain Senate Restaurants employees
+### § 2051. Continued benefits for certain Senate Restaurants employees
 
 **(a) Definitions** In this section:
 
@@ -1017,9 +1017,9 @@ The term “contractor” means the private business concern that enters into a 
 
 **(ii)** a temporary, full-time or part-time employee; and
 
-**(iii)** an employee in a position described under section 2048 1
+**(iii)** an employee in a position described under section 2048 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title;
 
@@ -1243,19 +1243,19 @@ Any funds deposited under paragraph (1) shall be available for expenditure in th
 
 This section shall take effect on July 17, 2008, and apply to the remainder of the fiscal year in which enacted and each fiscal year thereafter.
 
-(Pub. L. 110–279, § 1, July 17, 2008, 122 Stat. 2604; Pub. L. 116–21, § 1(a), June 12, 2019, 133 Stat. 903.)
+(Pub. L. 110–279, § 1, July 17, 2008, 122 Stat. 2604; Pub. L. 116–21, § 1(a), June 12, 2019, 133 Stat. 903.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2048 of this title, referred to in subsec. (a)(2)(A)(iii), was repealed by Pub. L. 110–279, § 1(c)(4)(C), July 17, 2008, 122 Stat. 2606.
+Section 2048 of this title, referred to in subsec. (a)(2)(A)(iii), was repealed by Pub. L. 110–279, § 1(c)(4)(C), July 17, 2008, 122 Stat. 2606.
 
-The Social Security Act, referred to in subsec. (c)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Appropriations made available to the Architect of the Capitol under the heading “Senate Office Buildings” under the heading “ARCHITECT OF THE CAPITOL”, referred to in subsec. (c)(6)(B), probably means appropriations under the heading “Senate Office Buildings” under the heading “ARCHITECT OF THE CAPITOL” in the annual Legislative Branch Appropriations Act.
 
-The Congressional Accountability Act of 1995, referred to in subsec. (g)(3), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to chapter 24 (§ 1301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+The Congressional Accountability Act of 1995, referred to in subsec. (g)(3), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to chapter 24 (§ 1301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 **Codification**
 
@@ -1263,17 +1263,17 @@ Section is comprised of section 1 of Pub. L. 110–279. Subsec. (c)(4)(C) of sec
 
 **Amendments**
 
-2019—Subsec. (c)(2)(A). Pub. L. 116–21, § 1(a)(1), struck out introductory provisions which read as follows: “For purposes of chapters 83, 84, and 87 of title 5—”.
+2019—Subsec. (c)(2)(A). Pub. L. 116–21, § 1(a)(1), struck out introductory provisions which read as follows: “For purposes of chapters 83, 84, and 87 of title 5—”.
 
-Subsec. (c)(2)(A)(i). Pub. L. 116–21, § 1(a)(1), (2), inserted heading, inserted “For purposes of chapters 83, 84, and 87 of title 5,” before “any period”, and substituted period for “; and” at end.
+Subsec. (c)(2)(A)(i). Pub. L. 116–21, § 1(a)(1), (2), inserted heading, inserted “For purposes of chapters 83, 84, and 87 of title 5,” before “any period”, and substituted period for “; and” at end.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 116–21, § 1(a)(3), inserted heading, inserted “For purposes of chapter 87 of title 5,” before “the rate of basic pay”, and substituted “a covered” for “the covered”.
+Subsec. (c)(2)(A)(ii). Pub. L. 116–21, § 1(a)(3), inserted heading, inserted “For purposes of chapter 87 of title 5,” before “the rate of basic pay”, and substituted “a covered” for “the covered”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–21, § 1(c), June 12, 2019, 133 Stat. 903, provided that:
+Pub. L. 116–21, § 1(c), June 12, 2019, 133 Stat. 903, provided that:
 
 > **“(1) Definitions.—** In this subsection, the terms ‘contractor’, ‘covered individual’, and ‘food services contract’ have the meanings given those terms in section 1(a) of Public Law 110–279 (2 U.S.C. 2051(a)).
 
@@ -1285,17 +1285,17 @@ Pub. L. 116–21, § 1(c), June 12, 2019, 133 Stat. 903, provided that:
 
 **Regulations**
 
-Pub. L. 116–21, § 1(b), June 12, 2019, 133 Stat. 903, provided that:
+Pub. L. 116–21, § 1(b), June 12, 2019, 133 Stat. 903, provided that:
 
 > **“(1) In general.—** The Director of the Office of Personnel Management shall promulgate regulations to carry out this section [amending this section and enacting provisions set out as a note under this section].
 
 > **“(2) Effective date.—** The regulations promulgated under paragraph (1) shall take effect not later than 180 days after the date of enactment of this Act [June 12, 2019].”
 
-### § 2052. Senate restaurant deficit fund; deposit of proceeds from surcharge on orders
+### § 2052. Senate restaurant deficit fund; deposit of proceeds from surcharge on orders
 
 The Committee on Rules and Administration of the United States Senate is authorized and directed hereafter to add a minimum of 10 per centum to each order in excess of 10 cents served in the Senate restaurants and 20 per centum to all orders served outside of said restaurants, and the proceeds accruing therefrom shall be placed in a fund to be used in the payment of any deficit incurred in the management of such kitchens and restaurants.
 
-(May 18, 1937, ch. 223, § 1, 50 Stat. 173; Aug. 2, 1946, ch. 753, title I, § 102, 60 Stat. 814.)
+(May 18, 1937, ch. 223, § 1, 50 Stat. 173; Aug. 2, 1946, ch. 753, title I, § 102, 60 Stat. 814.)
 
 **Editorial Notes**
 
@@ -1311,11 +1311,11 @@ Section was formerly classified to section 121 of this title prior to editorial 
 
 **Effective Date of 1946 Amendment**
 
-Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that the amendment made by that act is effective Jan. 2, 1947.
+Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that the amendment made by that act is effective Jan. 2, 1947.
 
 ## SUBCHAPTER IV—CHILD CARE
 
-### § 2061. Designation of play areas on Capitol grounds for children attending day care center
+### § 2061. Designation of play areas on Capitol grounds for children attending day care center
 
 **(a) Authority of Capitol Police Board**
 
@@ -1337,7 +1337,7 @@ Nothing in this or any other Act shall be construed as prohibiting any day care 
 
 The day care center referred to in S. Res. 269, Ninety-eighth Congress, first session, is a day care center for which space may be designated under subsection (a) for use as a play area.
 
-(Pub. L. 98–392, § 3, Aug. 21, 1984, 98 Stat. 1362; Pub. L. 104–186, title II, § 221(14), Aug. 20, 1996, 110 Stat. 1750.)
+(Pub. L. 98–392, § 3, Aug. 21, 1984, 98 Stat. 1362; Pub. L. 104–186, title II, § 221(14), Aug. 20, 1996, 110 Stat. 1750.)
 
 **Editorial Notes**
 
@@ -1351,7 +1351,7 @@ S. Res. 269, Ninety-eighth Congress, first session, referred to in subsec. (d), 
 
 **Codification**
 
-Section was classified to section 214b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 214b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
@@ -1363,7 +1363,7 @@ Section was classified to section 214b of former Title 40, prior to the enactmen
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-### § 2062. House of Representatives Child Care Center
+### § 2062. House of Representatives Child Care Center
 
 **(a) Maintenance and operation; admission of children**
 
@@ -1437,57 +1437,57 @@ The Fund shall be treated as a category of allowances and expenses for purposes 
 
 **(3)** the term “support personnel” means, with respect to the House of Representatives, any employee of a credit union or of the Architect of the Capitol, whose principal duties are to support the functions of the House of Representatives.
 
-(Pub. L. 102–90, title III, § 312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, § 319(a), Oct. 6, 1992, 106 Stat. 1725; Pub. L. 104–186, title II, § 221(5), (6), Aug. 20, 1996, 110 Stat. 1749; Pub. L. 106–100, § 1(a), Nov. 12, 1999, 113 Stat. 1332; Pub. L. 108–7, div. H, title I, § 108(a), Feb. 20, 2003, 117 Stat. 355; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–8, div. G, title I, § 106, Mar. 11, 2009, 123 Stat. 818; Pub. L. 111–248, § 2(a)(1), (b), Sept. 30, 2010, 124 Stat. 2625; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 116–94, div. E, title I, § 117(a), (b), Dec. 20, 2019, 133 Stat. 2761; Pub. L. 116–136, div. B, title IX, § 19002(a), Mar. 27, 2020, 134 Stat. 577; Pub. L. 117–328, div. I, title I, § 116(a), Dec. 29, 2022, 136 Stat. 4923; Pub. L. 119–37, div. C, title I, § 114(a), (b), Nov. 12, 2025, 139 Stat. 570.)
+(Pub. L. 102–90, title III, § 312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, § 319(a), Oct. 6, 1992, 106 Stat. 1725; Pub. L. 104–186, title II, § 221(5), (6), Aug. 20, 1996, 110 Stat. 1749; Pub. L. 106–100, § 1(a), Nov. 12, 1999, 113 Stat. 1332; Pub. L. 108–7, div. H, title I, § 108(a), Feb. 20, 2003, 117 Stat. 355; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–8, div. G, title I, § 106, Mar. 11, 2009, 123 Stat. 818; Pub. L. 111–248, § 2(a)(1), (b), Sept. 30, 2010, 124 Stat. 2625; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 116–94, div. E, title I, § 117(a), (b), Dec. 20, 2019, 133 Stat. 2761; Pub. L. 116–136, div. B, title IX, § 19002(a), Mar. 27, 2020, 134 Stat. 577; Pub. L. 117–328, div. I, title I, § 116(a), Dec. 29, 2022, 136 Stat. 4923; Pub. L. 119–37, div. C, title I, § 114(a), (b), Nov. 12, 2025, 139 Stat. 570.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 184g of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 184g of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is comprised of section 312 of Pub. L. 102–90. Another subsec. (f) of section 312 of Pub. L. 102–90 repealed sections 184b to 184f of former Title 40, Public Buildings, Property, and Works.
 
 **Amendments**
 
-2025—Subsec. (d)(3)(A). Pub. L. 119–37, § 114(b), inserted “and assistant directors” after “director”.
+2025—Subsec. (d)(3)(A). Pub. L. 119–37, § 114(b), inserted “and assistant directors” after “director”.
 
-Subsec. (d)(3)(C), (D). Pub. L. 119–37, § 114(a), added subpar. (C) and redesignated former subpar. (C) as (D).
+Subsec. (d)(3)(C), (D). Pub. L. 119–37, § 114(a), added subpar. (C) and redesignated former subpar. (C) as (D).
 
 2022—Subsec. (d)(3)(B). Pub. L. 117–328 substituted “The cost of training classes and conferences for individuals employed by the center” for “The reimbursement of individuals employed by the center for the cost of training classes and conferences”.
 
-2020—Subsec. (d)(3)(A). Pub. L. 116–136, § 19002(a)(1), substituted “, and, at the option of the Chief Administrative Officer during an emergency situation, the payment of the salary of other employees of the Center.” for period at end.
+2020—Subsec. (d)(3)(A). Pub. L. 116–136, § 19002(a)(1), substituted “, and, at the option of the Chief Administrative Officer during an emergency situation, the payment of the salary of other employees of the Center.” for period at end.
 
-Subsec. (d)(3)(C). Pub. L. 116–136, § 19002(a)(2), which directed that subpar. (C) be added “at the end” of subsec. (d)(3)(A), was executed by adding subpar. (C) at the end of subsec. (d)(3), to reflect the probable intent of Congress.
+Subsec. (d)(3)(C). Pub. L. 116–136, § 19002(a)(2), which directed that subpar. (C) be added “at the end” of subsec. (d)(3)(A), was executed by adding subpar. (C) at the end of subsec. (d)(3), to reflect the probable intent of Congress.
 
-2019—Subsec. (d)(2). Pub. L. 116–94, § 117(b), inserted “(including the subsidies provided on behalf of employees of the center as a result of reductions in the amount of tuition otherwise charged with respect to children of such employees under paragraph (4))” after “similar benefits and programs”.
+2019—Subsec. (d)(2). Pub. L. 116–94, § 117(b), inserted “(including the subsidies provided on behalf of employees of the center as a result of reductions in the amount of tuition otherwise charged with respect to children of such employees under paragraph (4))” after “similar benefits and programs”.
 
-Subsec. (d)(4). Pub. L. 116–94, § 117(a), added par. (4).
+Subsec. (d)(4). Pub. L. 116–94, § 117(a), added par. (4).
 
-2010—Subsec. (d)(1). Pub. L. 111–248, § 2(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There is established an account which, subject to appropriation, and except as provided in paragraphs (2) and (3), shall be the exclusive source for all salaries and expenses for activities carried out under this section. The Chief Administrative Officer shall deposit in the account any amounts received under subsection (c) of this section.”
+2010—Subsec. (d)(1). Pub. L. 111–248, § 2(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There is established an account which, subject to appropriation, and except as provided in paragraphs (2) and (3), shall be the exclusive source for all salaries and expenses for activities carried out under this section. The Chief Administrative Officer shall deposit in the account any amounts received under subsection (c) of this section.”
 
-Subsecs. (e), (f). Pub. L. 111–248, § 2(b), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 111–248, § 2(b), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 2009—Subsec. (a)(1). Pub. L. 111–8 substituted “pre-school child care and (subject to the approval of regulations by the Committee on House Administration) child care for school age children other than during the course of the ordinary school day” for “pre-school child care” in introductory provisions.
 
 2004—Subsec. (e)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-2003—Subsec. (d)(1). Pub. L. 108–7, § 108(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+2003—Subsec. (d)(1). Pub. L. 108–7, § 108(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-Subsec. (d)(3). Pub. L. 108–7, § 108(a)(2), added par. (3).
+Subsec. (d)(3). Pub. L. 108–7, § 108(a)(2), added par. (3).
 
 1999—Subsec. (a)(1)(C). Pub. L. 106–100 added subpar. (C).
 
-1996—Pub. L. 104–186, § 221(5)(A), substituted “Chief Administrative Officer” for “Clerk” wherever appearing.
+1996—Pub. L. 104–186, § 221(5)(A), substituted “Chief Administrative Officer” for “Clerk” wherever appearing.
 
-Subsec. (a)(1)(A). Pub. L. 104–186, § 221(5)(B), struck out “or the Sergeant at Arms of the House of Representatives” before “and children”.
+Subsec. (a)(1)(A). Pub. L. 104–186, § 221(5)(B), struck out “or the Sergeant at Arms of the House of Representatives” before “and children”.
 
-Subsec. (b)(1)(A). Pub. L. 104–186, § 221(6)(A), substituted “minority leader” for “Minority Leader”.
+Subsec. (b)(1)(A). Pub. L. 104–186, § 221(6)(A), substituted “minority leader” for “Minority Leader”.
 
-Subsec. (c)(2). Pub. L. 104–186, § 221(6)(B), substituted “House Oversight” for “House Administration”.
+Subsec. (c)(2). Pub. L. 104–186, § 221(6)(B), substituted “House Oversight” for “House Administration”.
 
-Subsec. (d)(1). Pub. L. 104–186, § 221(6)(C), struck out “in the contingent fund of the House of Representatives” after “established”.
+Subsec. (d)(1). Pub. L. 104–186, § 221(6)(C), struck out “in the contingent fund of the House of Representatives” after “established”.
 
-Subsec. (d)(2). Pub. L. 104–186, § 221(5)(C), substituted “With respect” for “with respect”.
+Subsec. (d)(2). Pub. L. 104–186, § 221(5)(C), substituted “With respect” for “with respect”.
 
 1992—Subsec. (d)(2). Pub. L. 102–392 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “During fiscal year 1992, of the funds provided in this Act for the ‘HOUSE OF REPRESENTATIVES’ under ‘Salaries and Expenses’, not more than $45,000 may be expended to carry out this section, subject to approval of the Committee on Appropriations of the House of Representatives. Any amount under this paragraph shall be in addition to any amount made available under paragraph (1).”
 
@@ -1501,43 +1501,43 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–37, div. C, title I, § 114(c), Nov. 12, 2025, 139 Stat. 570, provided that: “The amendments made by this section [aeending this section] shall apply with respect to fiscal year 2026 and each succeeding fiscal year.”
+Pub. L. 119–37, div. C, title I, § 114(c), Nov. 12, 2025, 139 Stat. 570, provided that: “The amendments made by this section [aeending this section] shall apply with respect to fiscal year 2026 and each succeeding fiscal year.”
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–328, div. I, title I, § 116(b), Dec. 29, 2022, 136 Stat. 4924, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2023 and each succeeding fiscal year.”
+Pub. L. 117–328, div. I, title I, § 116(b), Dec. 29, 2022, 136 Stat. 4924, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2023 and each succeeding fiscal year.”
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–136, div. B, title IX, § 19002(b), Mar. 27, 2020, 134 Stat. 577, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2020 and each succeeding fiscal year.”
+Pub. L. 116–136, div. B, title IX, § 19002(b), Mar. 27, 2020, 134 Stat. 577, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2020 and each succeeding fiscal year.”
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–94, div. E, title I, § 117(c), Dec. 20, 2019, 133 Stat. 2761, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2020 and each succeeding fiscal year.”
+Pub. L. 116–94, div. E, title I, § 117(c), Dec. 20, 2019, 133 Stat. 2761, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2020 and each succeeding fiscal year.”
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–248, § 2(c), Sept. 30, 2010, 124 Stat. 2626, provided that: “This section [amending this section and enacting provisions set out as a note under this section] and the amendments made by this section shall take effect October 1, 2010, and shall apply with respect to fiscal year 2011 and each succeeding fiscal year.”
+Pub. L. 111–248, § 2(c), Sept. 30, 2010, 124 Stat. 2626, provided that: “This section [amending this section and enacting provisions set out as a note under this section] and the amendments made by this section shall take effect October 1, 2010, and shall apply with respect to fiscal year 2011 and each succeeding fiscal year.”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–7, div. H, title I, § 108(b), Feb. 20, 2003, 117 Stat. 355, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2003 and each succeeding fiscal year.”
+Pub. L. 108–7, div. H, title I, § 108(b), Feb. 20, 2003, 117 Stat. 355, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2003 and each succeeding fiscal year.”
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–100, § 1(b), Nov. 12, 1999, 113 Stat. 1332, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to children admitted to the House of Representatives Child Care Center on or after the date of the enactment of this Act [Nov. 12, 1999].”
+Pub. L. 106–100, § 1(b), Nov. 12, 1999, 113 Stat. 1332, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to children admitted to the House of Representatives Child Care Center on or after the date of the enactment of this Act [Nov. 12, 1999].”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–392, title III, § 319(b), Oct. 6, 1992, 106 Stat. 1725, provided that: “The amendment made by subsection (a) [amending this section] shall apply to fiscal years beginning after September 30, 1992.”
+Pub. L. 102–392, title III, § 319(b), Oct. 6, 1992, 106 Stat. 1725, provided that: “The amendment made by subsection (a) [amending this section] shall apply to fiscal years beginning after September 30, 1992.”
 
 **Transfer of Existing Account**
 
-Pub. L. 111–248, § 2(a)(2), Sept. 30, 2010, 124 Stat. 2625, provided that: “Any amounts in the account established by section 312(d)(1) of such Act [2 U.S.C. 2062(d)(1)] as of the day before the effective date of this section [see Effective Date of 2010 Amendment note above], together with any amounts in the House Services Revolving Fund as of the effective date of this section which, at the time of deposit into the House Services Revolving Fund, were designated for purposes of the House Child Care Center, shall be transferred to the House Child Care Center Revolving Fund established by such section, as amended by paragraph (1).”
+Pub. L. 111–248, § 2(a)(2), Sept. 30, 2010, 124 Stat. 2625, provided that: “Any amounts in the account established by section 312(d)(1) of such Act [2 U.S.C. 2062(d)(1)] as of the day before the effective date of this section [see Effective Date of 2010 Amendment note above], together with any amounts in the House Services Revolving Fund as of the effective date of this section which, at the time of deposit into the House Services Revolving Fund, were designated for purposes of the House Child Care Center, shall be transferred to the House Child Care Center Revolving Fund established by such section, as amended by paragraph (1).”
 
 **Retirement Credit for Certain Prior Service With House Child Care Center**
 
-Pub. L. 103–69, title III, § 309, Aug. 11, 1993, 107 Stat. 711, provided that:
+Pub. L. 103–69, title III, § 309, Aug. 11, 1993, 107 Stat. 711, provided that:
 
 > **“(a) Definitions.—** For the purpose of this section—
 
@@ -1579,9 +1579,9 @@ Pub. L. 103–69, title III, § 309, Aug. 11, 1993, 107 Stat. 711, provided th
 
 **Availability of Amounts Deposited in Account for Salaries and Expenses**
 
-Pub. L. 102–392, title III, § 307, Oct. 6, 1992, 106 Stat. 1722, provided that: “The amounts deposited in the account established by section 312(d)(1) of the Legislative Branch Appropriations Act, 1992 (40 U.S.C. 184g(d)(1)) [now 2 U.S.C. 2062(d)(1)] shall be available for salaries and expenses of the House of Representatives Child Care Center without fiscal year limitation, subject to the approval of the Committee on Appropriations of the House of Representatives.”
+Pub. L. 102–392, title III, § 307, Oct. 6, 1992, 106 Stat. 1722, provided that: “The amounts deposited in the account established by section 312(d)(1) of the Legislative Branch Appropriations Act, 1992 (40 U.S.C. 184g(d)(1)) [now 2 U.S.C. 2062(d)(1)] shall be available for salaries and expenses of the House of Representatives Child Care Center without fiscal year limitation, subject to the approval of the Committee on Appropriations of the House of Representatives.”
 
-### § 2063. Senate Employee Child Care Center
+### § 2063. Senate Employee Child Care Center
 
 **(a) Applicability of provisions**
 
@@ -1613,7 +1613,7 @@ Government contributions for individuals receiving benefits under this section, 
 
 The Office of Personnel Management may prescribe regulations to carry out the provisions of this section.
 
-(Pub. L. 102–90, title III, § 311, Aug. 14, 1991, 105 Stat. 467.)
+(Pub. L. 102–90, title III, § 311, Aug. 14, 1991, 105 Stat. 467.)
 
 **Editorial Notes**
 
@@ -1623,13 +1623,13 @@ For Senate Resolution 269, referred to in subsec. (a), see References in Text no
 
 **Codification**
 
-Section was classified to section 214c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 214c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Source of Funds Used for Payment of Salaries and Expenses of Senate Employee Child Care Center**
 
-Pub. L. 116–136, div. B, title IX, § 19001, Mar. 27, 2020, 134 Stat. 577, as amended by Pub. L. 116–260, div. O, title XI, § 1101(a), Dec. 27, 2020, 134 Stat. 2156, provided that:
+Pub. L. 116–136, div. B, title IX, § 19001, Mar. 27, 2020, 134 Stat. 577, as amended by Pub. L. 116–260, div. O, title XI, § 1101(a), Dec. 27, 2020, 134 Stat. 2156, provided that:
 
 > **“(a) Reimbursements.—** During the period beginning on July 1, 2020 and ending on the termination date of the public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) resulting from the COVID–19 pandemic, the Secretary of the Senate shall reimburse the Senate Employee Child Care Center for expenses, due to measures taken in the Capitol complex to combat coronavirus, as calculated under subsection (b) and from amounts in the appropriations account ‘Miscellaneous Items’ within the contingent fund of the Senate.
 
@@ -1645,7 +1645,7 @@ Pub. L. 116–136, div. B, title IX, § 19001, Mar. 27, 2020, 134 Stat. 577, a
 
 [For definition of “coronavirus” as used in section 19001 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under section 162b of this title.]
 
-### § 2064. Senate Employee Child Care Center employee benefits
+### § 2064. Senate Employee Child Care Center employee benefits
 
 **(a) Election for coverage** The provisions of this section shall apply to any individual who—
 
@@ -1661,7 +1661,7 @@ Pub. L. 116–136, div. B, title IX, § 19001, Mar. 27, 2020, 134 Stat. 577, a
 
 **(1)** Any individual described under subsection (a) may be credited,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 under section 8411 of title 5 for service as an employee of the Senate day care center before January 1, 1993, if such employee makes a payment of the deposit under section 8411(f)(2) of such title without application of the provisions of section 8411(b)(3) of such title.
 
@@ -1683,7 +1683,7 @@ An individual described under subsection (a) shall be deemed an employee under s
 
 Government contributions for individuals receiving benefits under this section, as computed under sections 8423, 8432, and 8708,2
 
-<sup>2</sup>  So in original. The words “of title 5” probably should precede the comma.
+<sup>2</sup> So in original. The words “of title 5” probably should precede the comma.
 
 shall be made by the Secretary of the Senate from the appropriations account, within the contingent fund of the Senate, “Miscellaneous Items”.
 
@@ -1711,7 +1711,7 @@ The Office of Personnel Management shall accept the certification of the Secreta
 
 The Office of Personnel Management may prescribe regulations to carry out the provisions of this section.
 
-(Pub. L. 102–392, title III, § 320, Oct. 6, 1992, 106 Stat. 1725; Pub. L. 103–50, ch. XII, § 1203(a)(1), (b)(1), July 2, 1993, 107 Stat. 268.)
+(Pub. L. 102–392, title III, § 320, Oct. 6, 1992, 106 Stat. 1725; Pub. L. 103–50, ch. XII, § 1203(a)(1), (b)(1), July 2, 1993, 107 Stat. 268.)
 
 **Editorial Notes**
 
@@ -1721,23 +1721,23 @@ For Senate Resolution 269, referred to in subsec. (a)(1)(A), see References in T
 
 **Codification**
 
-Section was classified to section 214d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 214d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
-1993—Subsec. (b)(1). Pub. L. 103–50, § 1203(b)(1), substituted “January 1, 1993” for “October 6, 1992”.
+1993—Subsec. (b)(1). Pub. L. 103–50, § 1203(b)(1), substituted “January 1, 1993” for “October 6, 1992”.
 
-Subsecs. (h) to (j). Pub. L. 103–50, § 1203(a)(1), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
+Subsecs. (h) to (j). Pub. L. 103–50, § 1203(a)(1), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–50, ch. XII, § 1203(a)(2), July 2, 1993, 107 Stat. 268, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act [July 2, 1993].”
+Pub. L. 103–50, ch. XII, § 1203(a)(2), July 2, 1993, 107 Stat. 268, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act [July 2, 1993].”
 
-Pub. L. 103–50, ch. XII, § 1203(b)(2), July 2, 1993, 107 Stat. 268, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [July 2, 1993].”
+Pub. L. 103–50, ch. XII, § 1203(b)(2), July 2, 1993, 107 Stat. 268, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [July 2, 1993].”
 
-### § 2065. Reimbursement of Senate day care center employees
+### § 2065. Reimbursement of Senate day care center employees
 
 **(a) Cost of training classes, conferences, and related expenses**
 
@@ -1755,19 +1755,19 @@ Reimbursements under this section shall be subject to the regulations and limita
 
 This section shall be effective on and after October 1, 1996.
 
-(Pub. L. 104–197, title I, § 6, Sept. 16, 1996, 110 Stat. 2397.)
+(Pub. L. 104–197, title I, § 6, Sept. 16, 1996, 110 Stat. 2397.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 214e of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 214e of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 ## SUBCHAPTER V—HISTORICAL PRESERVATION AND FINE ARTS
 
 ### Part A—United States Capitol Preservation Commission
 
-#### § 2081. United States Capitol Preservation Commission
+#### § 2081. United States Capitol Preservation Commission
 
 **(a) Establishment and purposes** There is established in the Congress the United States Capitol Preservation Commission (hereinafter in this part referred to as the “Commission”) for the purposes of—
 
@@ -1807,13 +1807,13 @@ In addition to the members under subsection (b), the Architect of the Capitol sh
 
 The Senate Commission on Art, the House of Representatives Fine Arts Board, and the Architect of the Capitol shall provide to the Commission such staff support and assistance as the Commission may request.
 
-(Pub. L. 100–696, title VIII, § 801, Nov. 18, 1988, 102 Stat. 4608; Pub. L. 104–186, title II, § 221(7), Aug. 20, 1996, 110 Stat. 1749.)
+(Pub. L. 100–696, title VIII, § 801, Nov. 18, 1988, 102 Stat. 4608; Pub. L. 104–186, title II, § 221(7), Aug. 20, 1996, 110 Stat. 1749.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 188a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
@@ -1825,7 +1825,7 @@ Section was classified to section 188a of former Title 40, prior to the enactmen
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-#### § 2082. Authority of Commission to accept gifts and conduct other transactions relating to works of fine art and other property
+#### § 2082. Authority of Commission to accept gifts and conduct other transactions relating to works of fine art and other property
 
 **(a) In general** In carrying out the purposes referred to in section 2081(a) of this title the Commission is authorized—
 
@@ -1849,19 +1849,19 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **(3)** assure that each transaction is directly related to the purposes referred to in section 2081(a) of this title.
 
-(Pub. L. 100–696, title VIII, § 802, Nov. 18, 1988, 102 Stat. 4609; Pub. L. 101–302, title III, § 312(a), May 25, 1990, 104 Stat. 245.)
+(Pub. L. 100–696, title VIII, § 802, Nov. 18, 1988, 102 Stat. 4609; Pub. L. 101–302, title III, § 312(a), May 25, 1990, 104 Stat. 245.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 188a–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188a–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
 1990—Subsec. (b)(1). Pub. L. 101–302 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “upon agreement with the Joint Committee on the Library, the Senate Commission on Art, or the House of Representatives Fine Arts Board, as the case may be, transfer such property to the entity with which the agreement is made;”.
 
-#### § 2083. Capitol Preservation Fund
+#### § 2083. Capitol Preservation Fund
 
 **(a) In general**
 
@@ -1891,7 +1891,7 @@ The Commission shall deposit in the fund gifts of money and proceeds of transact
 
 The Secretary of the Treasury shall invest any portion of the fund that, as determined by the Commission, is not required to meet current withdrawals. Each investment shall be made in an interest bearing obligation of the United States or an obligation guaranteed as to principal and interest by the United States that, as determined by the Commission has a maturity suitable for the fund. In carrying out this subsection, the Secretary may make such purchases, sales, and redemptions of obligations as may be approved by the Commission.
 
-(Pub. L. 100–696, title VIII, § 803, Nov. 18, 1988, 102 Stat. 4609; Pub. L. 101–302, title III, § 312(b), May 25, 1990, 104 Stat. 245.)
+(Pub. L. 100–696, title VIII, § 803, Nov. 18, 1988, 102 Stat. 4609; Pub. L. 101–302, title III, § 312(b), May 25, 1990, 104 Stat. 245.)
 
 **Editorial Notes**
 
@@ -1901,19 +1901,19 @@ The Bicentennial of the United States Congress Commemorative Coin Act, referred 
 
 **Codification**
 
-Section was classified to section 188a–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188a–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
-1990—Subsec. (b). Pub. L. 101–302, § 312(b)(1), struck out “subject to the approval, except for the purchase of fine art and antiques, of the Committees on Appropriations of the House of Representatives and Senate, respectively” after “The fund shall be available to the Commission”.
+1990—Subsec. (b). Pub. L. 101–302, § 312(b)(1), struck out “subject to the approval, except for the purchase of fine art and antiques, of the Committees on Appropriations of the House of Representatives and Senate, respectively” after “The fund shall be available to the Commission”.
 
-Subsec. (b)(2). Pub. L. 101–302, § 312(b)(2), inserted “subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate,” before “For improvement”.
+Subsec. (b)(2). Pub. L. 101–302, § 312(b)(2), inserted “subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate,” before “For improvement”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Capitol Visitor Center Funding**
 
-Pub. L. 107–117, div. B, § 913, Jan. 10, 2002, 115 Stat. 2324, provided that:
+Pub. L. 107–117, div. B, § 913, Jan. 10, 2002, 115 Stat. 2324, provided that:
 
 > **“(a)** Notwithstanding any other provision of law, the United States Capitol Preservation Commission established under section 801 of the Arizona-Idaho Conservation Act of 1988 (40 U.S.C. 188a) [now 2 U.S.C. 2081] may transfer to the Architect of the Capitol amounts in the Capitol Preservation Fund established under section 803 of such Act (40 U.S.C. 188a–2) [now 2 U.S.C. 2083] if the amounts are to be used by the Architect for the planning, engineering, design, or construction of the Capitol Visitor Center.
 
@@ -1921,49 +1921,49 @@ Pub. L. 107–117, div. B, § 913, Jan. 10, 2002, 115 Stat. 2324, provided tha
 
 > **“(c)** This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.”
 
-#### § 2084. Audits by the Comptroller General
+#### § 2084. Audits by the Comptroller General
 
 The Comptroller General shall conduct periodic audits of the transactions of the Commission, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Committee on House Administration of the House of Representatives, the Secretary of the Senate, or the Clerk of the House of Representatives requests that an audit be conducted at an earlier date, and shall report the results of each audit to the Congress.
 
-(Pub. L. 100–696, title VIII, § 804, Nov. 18, 1988, 102 Stat. 4610; Pub. L. 112–234, § 2(a), Dec. 28, 2012, 126 Stat. 1624.)
+(Pub. L. 100–696, title VIII, § 804, Nov. 18, 1988, 102 Stat. 4610; Pub. L. 112–234, § 2(a), Dec. 28, 2012, 126 Stat. 1624.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 188a–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188a–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
 2012—Pub. L. 112–234 substituted “periodic audits of the transactions of the Commission, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Committee on House Administration of the House of Representatives, the Secretary of the Senate, or the Clerk of the House of Representatives requests that an audit be conducted at an earlier date,” for “annual audits of the transactions of the Commission”.
 
-#### § 2085. Advisory boards
+#### § 2085. Advisory boards
 
 The Commission may establish appropriate boards to provide advice and assistance to the Commission and to further the purposes of the Commission. The boards shall be composed of members (including chairmen) who shall be appointed by the Commission from public and private life and shall serve at the pleasure of the Commission and each co-chairman of the Commission may appoint one member to any such board. The members of boards under this section may be reimbursed for actual and necessary expenses incurred in the performance of the duties of the boards, at the discretion of the Commission.
 
-(Pub. L. 100–696, title VIII, § 805, Nov. 18, 1988, 102 Stat. 4610.)
+(Pub. L. 100–696, title VIII, § 805, Nov. 18, 1988, 102 Stat. 4610.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 188a–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188a–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-#### § 2086. Definition
+#### § 2086. Definition
 
 As used in this part, the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
 
-(Pub. L. 100–696, title VIII, § 806, Nov. 18, 1988, 102 Stat. 4610.)
+(Pub. L. 100–696, title VIII, § 806, Nov. 18, 1988, 102 Stat. 4610.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 188a–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188a–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 ### Part B—Senate Commission on Art
 
-#### § 2101. Senate Commission on Art
+#### § 2101. Senate Commission on Art
 
 **(a) Establishment**
 
@@ -1971,9 +1971,9 @@ There is hereby established a Senate Commission on Art (hereinafter referred to 
 
 **(b) Chairman and Vice Chairman; quorum; Executive Secretary**
 
-The Majority Leader and Minority Leader of the Senate shall be the chairman and vice chairman, respectively, of the Commission. Three members of the Commission shall constitute a quorum for the transaction of business, except that the Commission may fix a lesser number which shall constitute a quorum for the taking of testimony. The Secretary of the Senate shall be the Executive Secretary of the Commission 1
+The Majority Leader and Minority Leader of the Senate shall be the chairman and vice chairman, respectively, of the Commission. Three members of the Commission shall constitute a quorum for the transaction of business, except that the Commission may fix a lesser number which shall constitute a quorum for the taking of testimony. The Secretary of the Senate shall be the Executive Secretary of the Commission 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(c) Appointment of Senate Curator; assignment of assistants**
 
@@ -1983,31 +1983,31 @@ The Secretary of the Senate shall appoint a Senate Curator approved by the Senat
 
 The Commission shall be empowered to hold hearings, summon witnesses, administer oaths, employ reporters, request the production of papers and records, take such testimony, and adopt such rules for the conduct of its hearings and meetings, as it deems necessary.
 
-(Pub. L. 100–696, title IX, § 901(a), (b)(1), (3), Nov. 18, 1988, 102 Stat. 4610, 4611; Pub. L. 108–83, title I, § 3(d)(1), Sept. 30, 2003, 117 Stat. 1012.)
+(Pub. L. 100–696, title IX, § 901(a), (b)(1), (3), Nov. 18, 1988, 102 Stat. 4610, 4611; Pub. L. 108–83, title I, § 3(d)(1), Sept. 30, 2003, 117 Stat. 1012.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 188b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on section 1 of Senate Resolution No. 382, Ninetieth Congress, Oct. 1, 1968, which was enacted into permanent law and amended by Pub. L. 100–696.
 
 **Amendments**
 
-2003—Subsec. (b). Pub. L. 108–83, § 3(d)(1)(A), substituted “The Majority Leader and Minority Leader of the Senate shall be the chairman and vice chairman, respectively, of the Commission.” for “The Commission shall elect a Chairman and a Vice Chairman at the beginning of each Congress.”
+2003—Subsec. (b). Pub. L. 108–83, § 3(d)(1)(A), substituted “The Majority Leader and Minority Leader of the Senate shall be the chairman and vice chairman, respectively, of the Commission.” for “The Commission shall elect a Chairman and a Vice Chairman at the beginning of each Congress.”
 
-Subsec. (c). Pub. L. 108–83, § 3(d)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Commission shall select a Curator of Art and Antiquities of the Senate who shall be appointed by and be an employee of the Secretary of the Senate. The Curator shall serve at the pleasure of the Commission, shall perform such duties as it may prescribe, and shall receive compensation at a gross rate, not to exceed $22,089 per annum to be fixed by the Commission. At the request of the Commission the Secretary of the Senate shall detail to the Commission such additional professional, clerical, and other assistants as, from time to time, it deems necessary.”
+Subsec. (c). Pub. L. 108–83, § 3(d)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Commission shall select a Curator of Art and Antiquities of the Senate who shall be appointed by and be an employee of the Secretary of the Senate. The Curator shall serve at the pleasure of the Commission, shall perform such duties as it may prescribe, and shall receive compensation at a gross rate, not to exceed $22,089 per annum to be fixed by the Commission. At the request of the Commission the Secretary of the Senate shall detail to the Commission such additional professional, clerical, and other assistants as, from time to time, it deems necessary.”
 
-1988—Subsec. (a). Pub. L. 100–696, § 901(b)(3), substituted “Senate Commission on Art” for “Commission on Art and Antiquities of the United States Senate”.
+1988—Subsec. (a). Pub. L. 100–696, § 901(b)(3), substituted “Senate Commission on Art” for “Commission on Art and Antiquities of the United States Senate”.
 
-Subsec. (b). Pub. L. 100–696, § 901(b)(1), inserted “The Secretary of the Senate shall be the Executive Secretary of the Commission”.
+Subsec. (b). Pub. L. 100–696, § 901(b)(1), inserted “The Secretary of the Senate shall be the Executive Secretary of the Commission”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Senate Rulemaking Power**
 
-Pub. L. 100–696, title IX, § 901(d), Nov. 18, 1988, 102 Stat. 4611, provided that:
+Pub. L. 100–696, title IX, § 901(d), Nov. 18, 1988, 102 Stat. 4611, provided that:
 
 > “The provisions of this section [enacting sections 2101 to 2106 of this title and amending sections 2101, 2102, and 2106 of this title] are enacted by the Congress—
 
@@ -2019,7 +2019,7 @@ Pub. L. 100–696, title IX, § 901(d), Nov. 18, 1988, 102 Stat. 4611, provide
 
 Increases in compensation for officers and employees of the Senate under authority of the Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of the President pro tempore of the Senate, set out as notes under section 4571 of this title.
 
-#### § 2102. Duties of Commission
+#### § 2102. Duties of Commission
 
 **(a) In general**
 
@@ -2037,31 +2037,31 @@ Regulations authorized by the provisions of section 2183 of this title to be iss
 
 The Committee on Rules and Administration of the Senate in consultation with the Architect of the Capitol and consistent with regulations prescribed by the Commission under subsection (b) of this section, shall have responsibility for the supervision, protection, and placement of all works of art, historical objects, and exhibits which shall have been accepted on behalf of the Senate by the Commission or acknowledged as United States property by inventory of the Commission, and which may be lodged in the Senate wing of the Capitol or the Senate Office Buildings by the Commission.
 
-(Pub. L. 100–696, title IX, § 901(a), (b)(2), Nov. 18, 1988, 102 Stat. 4610, 4611.)
+(Pub. L. 100–696, title IX, § 901(a), (b)(2), Nov. 18, 1988, 102 Stat. 4610, 4611.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 188b–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188b–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on section 2 of Senate Resolution No. 382, Ninetieth Congress, Oct. 1, 1968, which was enacted into permanent law and amended by Pub. L. 100–696.
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–696, § 901(b)(2), substituted “protect, and make known” for “and protect” and “Senate wing of the United States Capitol, any Senate Office Buildings” for “Senate wing of the Capitol”.
+1988—Subsec. (a). Pub. L. 100–696, § 901(b)(2), substituted “protect, and make known” for “and protect” and “Senate wing of the United States Capitol, any Senate Office Buildings” for “Senate wing of the Capitol”.
 
-#### § 2103. Supervision and maintenance of Old Senate Chamber
+#### § 2103. Supervision and maintenance of Old Senate Chamber
 
 The Commission shall have responsibility for the supervision and maintenance of the Old Senate Chamber on the principal floor of the Senate wing of the Capitol and of the Old Supreme Court Chamber insofar as each is to be preserved as a patriotic shrine in the Capitol for the benefit of the people of the United States.
 
-(Pub. L. 100–696, title IX, § 901(a), Nov. 18, 1988, 102 Stat. 4610; Pub. L. 107–68, title I, § 108(a), Nov. 12, 2001, 115 Stat. 569.)
+(Pub. L. 100–696, title IX, § 901(a), Nov. 18, 1988, 102 Stat. 4610; Pub. L. 107–68, title I, § 108(a), Nov. 12, 2001, 115 Stat. 569.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 188b–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188b–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on section 3 of Senate Resolution No. 382, Ninetieth Congress, Oct. 1, 1968, which was enacted into permanent law by Pub. L. 100–696.
 
@@ -2073,33 +2073,33 @@ Section is based on section 3 of Senate Resolution No. 382, Ninetieth Congress, 
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–68, title I, § 108(c), Nov. 12, 2001, 115 Stat. 569, provided that: “The amendments made by this section [amending this section and section 2105 of this title] shall apply to fiscal year 2002 and all succeeding fiscal years.”
+Pub. L. 107–68, title I, § 108(c), Nov. 12, 2001, 115 Stat. 569, provided that: “The amendments made by this section [amending this section and section 2105 of this title] shall apply to fiscal year 2002 and all succeeding fiscal years.”
 
-#### § 2104. Publication of list of works of art, historical objects, and exhibits
+#### § 2104. Publication of list of works of art, historical objects, and exhibits
 
 The Commission shall, from time to time, but at least once every ten years, publish as a Senate document a list of all works of art, historical objects, and exhibits currently within the Senate wing of the Capitol and the Senate Office Buildings, together with their description, location, and with such notes as may be pertinent to their history.
 
-(Pub. L. 100–696, title IX, § 901(a), Nov. 18, 1988, 102 Stat. 4610.)
+(Pub. L. 100–696, title IX, § 901(a), Nov. 18, 1988, 102 Stat. 4610.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 188b–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188b–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on section 4 of Senate Resolution No. 382, Ninetieth Congress, Oct. 1, 1968, which was enacted into permanent law by Pub. L. 100–696.
 
-#### § 2105. Authorization of appropriations
+#### § 2105. Authorization of appropriations
 
 There is hereby authorized to be appropriated out of the contingent fund of the Senate for the expenses of the Commission such amount as may be necessary each fiscal year, to be disbursed by the Secretary of the Senate on vouchers signed by the Executive Secretary of the Commission and approved by the Committee on Rules and Administration of the Senate: *Provided*, That no payment shall be made from such appropriation as salary.
 
-(Pub. L. 100–696, title IX, § 901(a), Nov. 18, 1988, 102 Stat. 4610; Pub. L. 107–68, title I, § 108(b), Nov. 12, 2001, 115 Stat. 569.)
+(Pub. L. 100–696, title IX, § 901(a), Nov. 18, 1988, 102 Stat. 4610; Pub. L. 107–68, title I, § 108(b), Nov. 12, 2001, 115 Stat. 569.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 188b–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188b–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on section 5 of Senate Resolution No. 382, Ninetieth Congress, Oct. 1, 1968, which was enacted into permanent law by Pub. L. 100–696.
 
@@ -2113,13 +2113,13 @@ Section is based on section 5 of Senate Resolution No. 382, Ninetieth Congress, 
 
 Amendment by Pub. L. 107–68 applicable to fiscal year 2002 and all succeeding fiscal years, see section 108(c) of Pub. L. 107–68, set out as a note under section 2103 of this title.
 
-#### § 2106. Repealed. Pub. L. 108–83, title I, § 3(a)(3), Sept. 30, 2003, 117 Stat. 1010
+#### § 2106. Repealed. Pub. L. 108–83, title I, § 3(a)(3), Sept. 30, 2003, 117 Stat. 1010
 
-Section, based on S. Res. No. 95, Ninety-second Congress, Apr. 1, 1971, enacted into permanent law and amended by Pub. L. 100–696, title IX, § 901(a), (c), Nov. 18, 1988, 102 Stat. 4610, 4611, related to additional authority of the Senate Commission on Art to acquire works of art, historical objects, documents, or exhibits.
+Section, based on S. Res. No. 95, Ninety-second Congress, Apr. 1, 1971, enacted into permanent law and amended by Pub. L. 100–696, title IX, § 901(a), (c), Nov. 18, 1988, 102 Stat. 4610, 4611, related to additional authority of the Senate Commission on Art to acquire works of art, historical objects, documents, or exhibits.
 
-Section was classified to section 188b–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188b–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-#### § 2107. Conservation, restoration, replication, or replacement of items in United States Senate Collection
+#### § 2107. Conservation, restoration, replication, or replacement of items in United States Senate Collection
 
 **(a) Use of moneys in Senate contingent fund**
 
@@ -2133,13 +2133,13 @@ All such works, objects, documents, or materials referred to in subsection (a) m
 
 Disbursements for expenses incurred for the purposes in subsection (a) shall be made upon vouchers approved by the Chairman of the Senate Commission on Art or the Executive Secretary of the Senate Commission on Art.
 
-(Pub. L. 101–302, title III, § 316, May 25, 1990, 104 Stat. 246; Pub. L. 101–520, title III, § 323, Nov. 5, 1990, 104 Stat. 2285; Pub. L. 102–90, title III, § 310, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, § 312, Oct. 6, 1992, 106 Stat. 1723; Pub. L. 103–69, title III, § 314, Aug. 11, 1993, 107 Stat. 713; Pub. L. 103–283, title III, § 309, July 22, 1994, 108 Stat. 1442; Pub. L. 104–53, title III, § 311, Nov. 19, 1995, 109 Stat. 538; Pub. L. 104–197, title III, § 313, Sept. 16, 1996, 110 Stat. 2415; Pub. L. 105–55, title III, § 309, Oct. 7, 1997, 111 Stat. 1198; Pub. L. 105–275, title III, § 311, Oct. 21, 1998, 112 Stat. 2457; Pub. L. 106–57, title III, § 309, Sept. 29, 1999, 113 Stat. 427; Pub. L. 106–554, § 1(a)(2) [title I, § 8, title III, § 309], Dec. 21, 2000, 114 Stat. 2763, 2763A–98, 2763A–119; Pub. L. 107–68, title III, § 308, Nov. 12, 2001, 115 Stat. 592; Pub. L. 108–7, div. H, title II, § 207, Feb. 20, 2003, 117 Stat. 383; Pub. L. 108–83, title I, §§ 3(d)(2), 7, Sept. 30, 2003, 117 Stat. 1013; Pub. L. 108–447, div. G, title I, § 3, Dec. 8, 2004, 118 Stat. 3169; Pub. L. 109–55, title I, § 3, Aug. 2, 2005, 119 Stat. 568.)
+(Pub. L. 101–302, title III, § 316, May 25, 1990, 104 Stat. 246; Pub. L. 101–520, title III, § 323, Nov. 5, 1990, 104 Stat. 2285; Pub. L. 102–90, title III, § 310, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, § 312, Oct. 6, 1992, 106 Stat. 1723; Pub. L. 103–69, title III, § 314, Aug. 11, 1993, 107 Stat. 713; Pub. L. 103–283, title III, § 309, July 22, 1994, 108 Stat. 1442; Pub. L. 104–53, title III, § 311, Nov. 19, 1995, 109 Stat. 538; Pub. L. 104–197, title III, § 313, Sept. 16, 1996, 110 Stat. 2415; Pub. L. 105–55, title III, § 309, Oct. 7, 1997, 111 Stat. 1198; Pub. L. 105–275, title III, § 311, Oct. 21, 1998, 112 Stat. 2457; Pub. L. 106–57, title III, § 309, Sept. 29, 1999, 113 Stat. 427; Pub. L. 106–554, § 1(a)(2) [title I, § 8, title III, § 309], Dec. 21, 2000, 114 Stat. 2763, 2763A–98, 2763A–119; Pub. L. 107–68, title III, § 308, Nov. 12, 2001, 115 Stat. 592; Pub. L. 108–7, div. H, title II, § 207, Feb. 20, 2003, 117 Stat. 383; Pub. L. 108–83, title I, §§ 3(d)(2), 7, Sept. 30, 2003, 117 Stat. 1013; Pub. L. 108–447, div. G, title I, § 3, Dec. 8, 2004, 118 Stat. 3169; Pub. L. 109–55, title I, § 3, Aug. 2, 2005, 119 Stat. 568.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 188b–6 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188b–6 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
@@ -2153,11 +2153,11 @@ Pub. L. 108–7 substituted “2003” for “2002” in first sentence.
 
 2001—Subsec. (a). Pub. L. 107–68 substituted “2002” for “2001” in first sentence.
 
-2000—Subsec. (a). Pub. L. 106–554, § 1(a)(2) [title III, § 309], substituted “2001” for “2000” in first sentence.
+2000—Subsec. (a). Pub. L. 106–554, § 1(a)(2) [title III, § 309], substituted “2001” for “2000” in first sentence.
 
-Pub. L. 106–554, § 1(a)(2) [title I, § 8(1), (2)], in first sentence, substituted “works of art, historical objects, documents, or material relating to historical matters for placement or exhibition” for “items of art, fine art, and historical items” and, in second sentence, substituted “such works, objects, documents, or material” for “such items” in two places and “a work, object, document, or material” for “an item”.
+Pub. L. 106–554, § 1(a)(2) [title I, § 8(1), (2)], in first sentence, substituted “works of art, historical objects, documents, or material relating to historical matters for placement or exhibition” for “items of art, fine art, and historical items” and, in second sentence, substituted “such works, objects, documents, or material” for “such items” in two places and “a work, object, document, or material” for “an item”.
 
-Subsec. (b). Pub. L. 106–554, § 1(a)(2) [title I, § 8(3)], substituted “such works, objects, documents, or materials” for “such items of art” and “may” for “shall”.
+Subsec. (b). Pub. L. 106–554, § 1(a)(2) [title I, § 8(3)], substituted “such works, objects, documents, or materials” for “such items of art” and “may” for “shall”.
 
 1999—Subsec. (a). Pub. L. 106–57 substituted “2000” for “1999”.
 
@@ -2179,7 +2179,7 @@ Subsec. (b). Pub. L. 106–554, § 1(a)(2) [title I, § 8(3)], substituted �
 
 1990—Subsec. (a). Pub. L. 101–520 substituted “1991” for “1990”.
 
-#### § 2108. Provisions relating to Senate Commission on Art
+#### § 2108. Provisions relating to Senate Commission on Art
 
 **(a) Authority to acquire and dispose**
 
@@ -2303,9 +2303,9 @@ The Commission may require the return of amounts transferred to the Architect of
 
 **(vii) Disbursement and audit responsibility**
 
-Once amounts are transferred pursuant to clause (i), disbursements from transferred funds shall be made by the Architect of the Capitol upon review of vouchers by the Architect of the Capitol and not subject to the audit provisions of clause 1
+Once amounts are transferred pursuant to clause (i), disbursements from transferred funds shall be made by the Architect of the Capitol upon review of vouchers by the Architect of the Capitol and not subject to the audit provisions of clause 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (c)(6) of this section. Such disbursements shall be limited to purposes for which funds may be disbursed pursuant to this section.
 
@@ -2335,7 +2335,7 @@ The Library of Congress shall provide financial management and disbursing servic
 
 The Comptroller General of the United States shall conduct periodic audits of the Senate Preservation Fund, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Secretary of the Senate requests that an audit be conducted at an earlier date, and shall report the results of each audit to the Commission.
 
-(Pub. L. 108–83, title I, § 3, Sept. 30, 2003, 117 Stat. 1010; Pub. L. 109–55, title I, § 4, Aug. 2, 2005, 119 Stat. 568; Pub. L. 112–234, § 2(h), Dec. 28, 2012, 126 Stat. 1625; Pub. L. 115–31, div. I, title I, § 2, May 5, 2017, 131 Stat. 571.)
+(Pub. L. 108–83, title I, § 3, Sept. 30, 2003, 117 Stat. 1010; Pub. L. 109–55, title I, § 4, Aug. 2, 2005, 119 Stat. 568; Pub. L. 112–234, § 2(h), Dec. 28, 2012, 126 Stat. 1625; Pub. L. 115–31, div. I, title I, § 2, May 5, 2017, 131 Stat. 571.)
 
 **Editorial Notes**
 
@@ -2347,9 +2347,9 @@ Section is from the Legislative Branch Appropriations Act, 2004.
 
 **Amendments**
 
-2017—Subsec. (c)(3). Pub. L. 115–31, § 2(1), substituted “disbursements, and transfers” for “and disbursements” in heading.
+2017—Subsec. (c)(3). Pub. L. 115–31, § 2(1), substituted “disbursements, and transfers” for “and disbursements” in heading.
 
-Subsec. (c)(3)(D). Pub. L. 115–31, § 2(2), added subpar. (D).
+Subsec. (c)(3)(D). Pub. L. 115–31, § 2(2), added subpar. (D).
 
 2012—Subsec. (c)(6). Pub. L. 112–234 substituted “periodic audits of the Senate Preservation Fund, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Secretary of the Senate requests that an audit be conducted at an earlier date,” for “annual audits of the Senate Preservation Fund”.
 
@@ -2357,7 +2357,7 @@ Subsec. (c)(3)(D). Pub. L. 115–31, § 2(2), added subpar. (D).
 
 ### Part C—House of Representatives Fine Arts Board
 
-#### § 2121. House of Representatives Fine Arts Board
+#### § 2121. House of Representatives Fine Arts Board
 
 **(a) Establishment and authority**
 
@@ -2371,13 +2371,13 @@ Under the supervision and direction of the Board, the Clerk of the House of Repr
 
 The Architect of the Capitol shall provide assistance to the Board and to the Clerk of the House of Representatives in the carrying out of their responsibilities under sections 2121 and 2122 of this title.
 
-(Pub. L. 100–696, title X, § 1001, Nov. 18, 1988, 102 Stat. 4611; Pub. L. 104–186, title II, § 221(8), Aug. 20, 1996, 110 Stat. 1749.)
+(Pub. L. 100–696, title X, § 1001, Nov. 18, 1988, 102 Stat. 4611; Pub. L. 104–186, title II, § 221(8), Aug. 20, 1996, 110 Stat. 1749.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 188c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
@@ -2393,17 +2393,17 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
-#### § 2122. Acceptance of gifts on behalf of the House of Representatives
+#### § 2122. Acceptance of gifts on behalf of the House of Representatives
 
 The Board is authorized to accept, on behalf of the House of Representatives, gifts of works of fine art, historical objects, and similar property, including transfers from the United States Capitol Preservation Commission under section 2082 of this title, for display or other use in the House of Representatives wing of the Capitol, the House of Representatives Office Buildings, or any other location under the control of the House of Representatives.
 
-(Pub. L. 100–696, title X, § 1002, Nov. 18, 1988, 102 Stat. 4612.)
+(Pub. L. 100–696, title X, § 1002, Nov. 18, 1988, 102 Stat. 4612.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 188c–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188c–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 ### Part D—Miscellaneous
 
@@ -2411,7 +2411,7 @@ Section was classified to section 188c–1 of former Title 40, prior to the enac
 
 **Plaque To Honor Members of Law Enforcement Who Responded on January 6, 2021**
 
-Pub. L. 117–103, div. I, title II, § 214, Mar. 15, 2022, 136 Stat. 527, provided that:
+Pub. L. 117–103, div. I, title II, § 214, Mar. 15, 2022, 136 Stat. 527, provided that:
 
 > **“(a) Sense of Congress.—** It is the sense of Congress that the United States owes its deepest gratitude to those officers of the United States Capitol Police and the Metropolitan Police Department of the District of Columbia, as well as officers from other Federal, State, and local law enforcement agencies and protective entities, who valiantly protected the United States Capitol, Members of Congress, and staff on January 6, 2021.
 
@@ -2423,19 +2423,19 @@ Pub. L. 117–103, div. I, title II, § 214, Mar. 15, 2022, 136 Stat. 527, pro
 
 > **“(2) Inclusion of names of specific officers.—** In compiling the list under paragraph (1), the Chairs and Ranking Members of the Committees and Subcommittees described in such paragraph shall include the names of the specific individuals described in paragraph (2) of section 215(c) of H. R. 4346, One Hundred Seventeenth Congress, as passed by the House of Representatives on July 28, 2021.”
 
-#### § 2131. National Statuary Hall
+#### § 2131. National Statuary Hall
 
 Suitable structures and railings shall be erected in the old hall of Representatives for the reception and protection of statuary, and the same shall be under the supervision and direction of the Architect of the Capitol. And the President is authorized to invite all the States to provide and furnish statues, in marble or bronze, not exceeding two in number for each State, of deceased persons who have been citizens thereof, and illustrious for their historic renown or for distinguished civic or military services, such as each State may deem to be worthy of this national commemoration; and when so furnished, the same shall be placed in the old hall of the House of Representatives, in the Capitol of the United States, which is set apart, or so much thereof as may be necessary, as a national statuary hall for the purpose herein indicated.
 
-(R.S. § 1814; Aug. 15, 1876, ch. 287, 19 Stat. 147.)
+(R.S. § 1814; Aug. 15, 1876, ch. 287, 19 Stat. 147.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 187 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 187 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-R.S. § 1814 derived from act July 2, 1864, ch. 210, § 2, 13 Stat. 347.
+R.S. § 1814 derived from act July 2, 1864, ch. 210, § 2, 13 Stat. 347.
 
 Section 2 of act July 2, 1864, gave the supervision and direction of the National Statuary Hall to the Commissioner of Public Buildings.
 
@@ -2445,7 +2445,7 @@ Section 2 of act July 2, 1864, gave the supervision and direction of the Nationa
 
 Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former section 1801 of this title.
 
-#### § 2131a. Eligibility for placement of statues in National Statuary Hall
+#### § 2131a. Eligibility for placement of statues in National Statuary Hall
 
 **(a) Eligibility**
 
@@ -2457,7 +2457,7 @@ No statue of any individual may be placed in National Statuary Hall until after 
 
 **(2)** any statue provided and furnished by a State under section 2131 of this title or any replacement statue provided by a State under section 2132 of this title.
 
-(Pub. L. 109–116, § 2, Dec. 1, 2005, 119 Stat. 2524.)
+(Pub. L. 109–116, § 2, Dec. 1, 2005, 119 Stat. 2524.)
 
 **Editorial Notes**
 
@@ -2469,15 +2469,15 @@ This Act, referred to in subsec. (b)(1), is Pub. L. 109–116, Dec. 1, 2005, 119
 
 **Placement of Statue of Rosa Parks in National Statuary Hall**
 
-Pub. L. 109–116, § 1, Dec. 1, 2005, 119 Stat. 2524, as amended by Pub. L. 110–120, § 1(a), Nov. 19, 2007, 121 Stat. 1348, provided that:
+Pub. L. 109–116, § 1, Dec. 1, 2005, 119 Stat. 2524, as amended by Pub. L. 110–120, § 1(a), Nov. 19, 2007, 121 Stat. 1348, provided that:
 
 > **“(a) Obtaining Statue.—** Not later than 4 years after the date of the enactment of this Act [Dec. 1, 2005], the Joint Committee on the Library shall enter into an agreement to obtain a statue of Rosa Parks, under such terms and conditions as the Joint Committee considers appropriate consistent with applicable law. The Joint Committee may authorize the Architect of the Capitol to enter into the agreement and related contracts required under this subsection on its behalf, under such terms and conditions as the Joint Committee may require.
 
 > **“(b) Placement.—** The Joint Committee shall place the statue obtained under subsection (a) in the United States Capitol in a suitable permanent location in National Statuary Hall.”
 
-[Pub. L. 110–120, § 1(b), Nov. 19, 2007, 121 Stat. 1348, provided that: “The amendments made by subsection (a) [amending section 1 of Pub. L. 109–116, set out above] shall take effect as if included in the enactment of Public Law 109–116.” ]
+[Pub. L. 110–120, § 1(b), Nov. 19, 2007, 121 Stat. 1348, provided that: “The amendments made by subsection (a) [amending section 1 of Pub. L. 109–116, set out above] shall take effect as if included in the enactment of Public Law 109–116.” ]
 
-#### § 2132. Replacement of statue in Statuary Hall
+#### § 2132. Replacement of statue in Statuary Hall
 
 **(a) Request by State**
 
@@ -2509,13 +2509,13 @@ Nothing in this section shall be interpreted to permit a State to have more than
 
 The Architect of the Capitol, upon the approval of the Joint Committee on the Library and with the advice of the Commission of Fine Arts as requested, is authorized and directed to relocate within the United States Capitol any of the statues received from the States under section 2131 of this title prior to December 21, 2000, and to provide for the reception, location, and relocation of the statues received on and after December 21, 2000, from the States under such section.
 
-(Pub. L. 106–554, § 1(a)(2) [title III, § 311], Dec. 21, 2000, 114 Stat. 2763, 2763A–119.)
+(Pub. L. 106–554, § 1(a)(2) [title III, § 311], Dec. 21, 2000, 114 Stat. 2763, 2763A–119.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 187a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 187a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2523,19 +2523,19 @@ Section was classified to section 187a of former Title 40, prior to the enactmen
 
 House Concurrent Resolution 47, passed Feb. 24, 1933, 47 Stat. Part 2, 1784, provided: “That the Architect of the Capitol, upon the approval of the Joint Committee on the Library, with the advice of the Commission of Fine Arts, is hereby authorized and directed to relocate within the Capitol any of the statues already received and placed in Statuary Hall, and to provide for the reception and location of the statues received hereafter from the States.”
 
-#### § 2133. Acceptance and supervision of works of fine arts
+#### § 2133. Acceptance and supervision of works of fine arts
 
 The Joint Committee on the Library, whenever, in their judgment, it is expedient, are authorized to accept any work of the fine arts, on behalf of Congress, which may be offered, and to assign the same such place in the Capitol as they may deem suitable, and shall have the supervision of all works of art that may be placed in the Capitol.
 
-(R.S. § 1831.)
+(R.S. § 1831.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 188 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-R.S. § 1831 derived from act June 10, 1872, ch. 415, § 1, 17 Stat. 362.
+R.S. § 1831 derived from act June 10, 1872, ch. 415, § 1, 17 Stat. 362.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2551,27 +2551,27 @@ Pub. L. 112–174, Sept. 20, 2012, 126 Stat. 1311.—Statue of Frederick Douglas
 
 Pub. L. 109–427, Dec. 20, 2006, 120 Stat. 2912.—Bust of Sojourner Truth.
 
-#### § 2134. Art exhibits
+#### § 2134. Art exhibits
 
 No work of art or manufacture other than the property of the United States shall be exhibited in the National Statuary Hall, the Rotunda, Emancipation Hall of the Capitol Visitor Center, or the corridors of the Capitol.
 
-(R.S. § 1815; Mar. 3, 1875, ch. 130, 18 Stat. 376; Mar. 3, 1879, ch. 182, 20 Stat. 391; Pub. L. 110–437, title I, § 101(f)(2), Oct. 20, 2008, 122 Stat. 4985.)
+(R.S. § 1815; Mar. 3, 1875, ch. 130, 18 Stat. 376; Mar. 3, 1879, ch. 182, 20 Stat. 391; Pub. L. 110–437, title I, § 101(f)(2), Oct. 20, 2008, 122 Stat. 4985.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 189 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 189 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on act Mar. 3, 1879, popularly known as the “Sundry Civil Appropriation Act, fiscal year 1879”.
 
-R.S. § 1815 derived from act July 20, 1868, ch. 176, § 6, 15 Stat. 110.
+R.S. § 1815 derived from act July 20, 1868, ch. 176, § 6, 15 Stat. 110.
 
 **Amendments**
 
 2008—Pub. L. 110–437 inserted “Emancipation Hall of the Capitol Visitor Center,” after “Rotunda,”.
 
-#### § 2135. Private studios and works of art
+#### § 2135. Private studios and works of art
 
 No room in the Capitol shall be used for private studios or works of art, without permission from the Joint Committee on the Library, given in writing; and it shall be the duty of the Architect of the Capitol to carry this provision into effect.
 
@@ -2581,39 +2581,39 @@ No room in the Capitol shall be used for private studios or works of art, withou
 
 **Codification**
 
-Section was classified to section 190 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 190 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 ## SUBCHAPTER VI—BOTANIC GARDEN AND NATIONAL GARDEN
 
-### § 2141. Supervision of Botanic Garden
+### § 2141. Supervision of Botanic Garden
 
 The supervision of the Capitol police shall extend over the Botanical Garden.
 
-(R.S. § 1826.)
+(R.S. § 1826.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 215 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 215 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-R.S. § 1826 derived from Res. July 15, 1870, No. 131, 16 Stat. 391.
+R.S. § 1826 derived from Res. July 15, 1870, No. 131, 16 Stat. 391.
 
-### § 2142. Superintendent of Botanic Garden and greenhouses
+### § 2142. Superintendent of Botanic Garden and greenhouses
 
 There shall be a superintendent and assistants in the Botanical Garden and greenhouses, who shall be under the direction of the Joint Committee on the Library.
 
-(R.S. § 1827.)
+(R.S. § 1827.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 216 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 216 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-R.S. § 1827 derived from act Mar. 3, 1873, ch. 226, § 1, 17 Stat. 491.
+R.S. § 1827 derived from act Mar. 3, 1873, ch. 226, § 1, 17 Stat. 491.
 
-### § 2143. Utilization of personnel by Architect of the Capitol for maintenance and operation of Botanic Garden
+### § 2143. Utilization of personnel by Architect of the Capitol for maintenance and operation of Botanic Garden
 
 On and after December 27, 1974, with the approval of the Joint Committee on the Library, the Architect of the Capitol may utilize personnel paid from appropriations under his control for performance of administrative and clerical duties in connection with the maintenance and operation of the United States Botanic Garden, to such extent as he may deem feasible.
 
@@ -2623,9 +2623,9 @@ On and after December 27, 1974, with the approval of the Joint Committee on the 
 
 **Codification**
 
-Section was classified to section 216b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 216b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 2144. Disbursement of appropriations for Botanic Garden
+### § 2144. Disbursement of appropriations for Botanic Garden
 
 On and after November 5, 1990, all appropriations made on account of the Botanic Garden shall be disbursed for that purpose in the same manner as other appropriations under the control of the Architect of the Capitol.
 
@@ -2635,9 +2635,9 @@ On and after November 5, 1990, all appropriations made on account of the Botanic
 
 **Codification**
 
-Section was classified to section 216d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 216d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 2145. Restriction on use of appropriation for Botanic Garden
+### § 2145. Restriction on use of appropriation for Botanic Garden
 
 On and after July 31, 1958, no part of any appropriation for the Botanic Garden shall be used for the distribution, by congressional allotment, of trees, plants, shrubs, or other nursery stock.
 
@@ -2647,9 +2647,9 @@ On and after July 31, 1958, no part of any appropriation for the Botanic Garden 
 
 **Codification**
 
-Section was classified to section 216a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 216a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 2146. National Garden
+### § 2146. National Garden
 
 **(a) Establishment; gifts** The Architect of the Capitol, subject to the direction of the Joint Committee on the Library, is authorized to—
 
@@ -2679,15 +2679,15 @@ Section was classified to section 216a of former Title 40, prior to the enactmen
 
 Any gift accepted by the Architect of the Capitol under this section shall be considered a gift to the United States for purposes of income, estate, and gift tax laws of the United States.
 
-(Pub. L. 100–458, title III, § 307E, Oct. 1, 1988, 102 Stat. 2183; Pub. L. 102–229, title II, § 209(a), Dec. 12, 1991, 105 Stat. 1716; Pub. L. 104–53, title II, § 201(b), Nov. 19, 1995, 109 Stat. 529; Pub. L. 105–275, title II, § 201, Oct. 21, 1998, 112 Stat. 2445.)
+(Pub. L. 100–458, title III, § 307E, Oct. 1, 1988, 102 Stat. 2183; Pub. L. 102–229, title II, § 209(a), Dec. 12, 1991, 105 Stat. 1716; Pub. L. 104–53, title II, § 201(b), Nov. 19, 1995, 109 Stat. 529; Pub. L. 105–275, title II, § 201, Oct. 21, 1998, 112 Stat. 2445.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (b)(3), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(3), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-Section was classified to section 216c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 216c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
@@ -2705,7 +2705,7 @@ Section was classified to section 216c of former Title 40, prior to the enactmen
 
 **Funds Available for Constructing, Equipping, and Maintaining National Garden**
 
-Pub. L. 102–392, title II, § 201, Oct. 6, 1992, 106 Stat. 1716, as amended by Pub. L. 104–53, title II, § 201(a), Nov. 19, 1995, 109 Stat. 529; Pub. L. 106–554, § 1(a)(2) [title III, § 312], Dec. 21, 2000, 114 Stat. 2763, 2763A–120; Pub. L. 107–68, title I, § 135, Nov. 12, 2001, 115 Stat. 583, provided that:
+Pub. L. 102–392, title II, § 201, Oct. 6, 1992, 106 Stat. 1716, as amended by Pub. L. 104–53, title II, § 201(a), Nov. 19, 1995, 109 Stat. 529; Pub. L. 106–554, § 1(a)(2) [title III, § 312], Dec. 21, 2000, 114 Stat. 2763, 2763A–120; Pub. L. 107–68, title I, § 135, Nov. 12, 2001, 115 Stat. 583, provided that:
 
 > **“(a)** Pursuant to section 307E of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c) [now 2 U.S.C. 2146], not more than $16,500,000 shall be accepted and not more than $16,500,000 of the amounts accepted shall be available for obligation by the Architect of the Capitol for constructing, equipping, and maintaining the National Garden.
 
@@ -2713,9 +2713,9 @@ Pub. L. 102–392, title II, § 201, Oct. 6, 1992, 106 Stat. 1716, as amended 
 
 **Renovation of Conservatory of Botanic Garden**
 
-Pub. L. 102–229, title II, § 209(b), Dec. 12, 1991, 105 Stat. 1717, provided that under section 2146 of this title, not more than $2,000,000 could be accepted or available for obligation by the Architect for certain preparations for renovation of the Conservatory of the Botanic Garden.
+Pub. L. 102–229, title II, § 209(b), Dec. 12, 1991, 105 Stat. 1717, provided that under section 2146 of this title, not more than $2,000,000 could be accepted or available for obligation by the Architect for certain preparations for renovation of the Conservatory of the Botanic Garden.
 
-### § 2147. Plant material exchanges
+### § 2147. Plant material exchanges
 
 On and after July 8, 1935, plant material exchanges may be made with botanic gardens, institutions, municipal parks, and gardens.
 
@@ -2725,11 +2725,11 @@ On and after July 8, 1935, plant material exchanges may be made with botanic gar
 
 **Codification**
 
-Section was classified to section 217a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 217a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on par. under heading “BOTANIC GARDEN” in act of July 8, 1935, known as the “Legislative Branch Appropriation Act, 1936”.
 
-### § 2148. Administration of educational outreach and services
+### § 2148. Administration of educational outreach and services
 
 **(a) Cooperative agreements**
 
@@ -2761,11 +2761,11 @@ Any authority under subsection (a) or (b) shall not apply to any agreement provi
 
 This section shall apply with respect to fiscal year 2015 and each succeeding fiscal year.
 
-(Pub. L. 113–235, div. H, title I, § 1102, Dec. 16, 2014, 128 Stat. 2532.)
+(Pub. L. 113–235, div. H, title I, § 1102, Dec. 16, 2014, 128 Stat. 2532.)
 
 ## SUBCHAPTER VII—OTHER ENTITIES AND SERVICES
 
-### § 2161. Transferred
+### § 2161. Transferred
 
 **Editorial Notes**
 
@@ -2773,7 +2773,7 @@ This section shall apply with respect to fiscal year 2015 and each succeeding fi
 
 Section 2161 was editorially reclassified as section 4902 of this title.
 
-### § 2162. Capitol Power Plant
+### § 2162. Capitol Power Plant
 
 **(a) Designation**
 
@@ -2821,7 +2821,7 @@ A demonstration project funded under this section shall be subject to such terms
 
 There is authorized to be appropriated to carry out the feasibility study and demonstration project $3,000,000. Such sums shall remain available until expended.
 
-(Mar. 4, 1911, ch. 285, 36 Stat. 1414; Mar. 3, 1921, ch. 124, 41 Stat. 1291; Pub. L. 110–140, title V, § 505(2), Dec. 19, 2007, 121 Stat. 1657.)
+(Mar. 4, 1911, ch. 285, 36 Stat. 1414; Mar. 3, 1921, ch. 124, 41 Stat. 1291; Pub. L. 110–140, title V, § 505(2), Dec. 19, 2007, 121 Stat. 1657.)
 
 **Editorial Notes**
 
@@ -2831,7 +2831,7 @@ Act approved April 28, 1904, referred to in subsec. (a), is act Apr. 28, 1904, c
 
 **Codification**
 
-Section was classified to section 185 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 185 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on act Mar. 4, 1911, popularly known as the “Sundry Civil Appropriation Act, fiscal year 1912”. It followed an appropriation for the Capitol power plant.
 
@@ -2851,7 +2851,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **Management and Operation of the Capitol Power Plant**
 
-Pub. L. 108–447, div. G, title I, § 1101, Dec. 8, 2004, 118 Stat. 3185, provided that:
+Pub. L. 108–447, div. G, title I, § 1101, Dec. 8, 2004, 118 Stat. 3185, provided that:
 
 > **“(a) Definition.—** In this section, the term ‘appropriate congressional committees’ means—
 
@@ -2881,7 +2881,7 @@ Pub. L. 108–447, div. G, title I, § 1101, Dec. 8, 2004, 118 Stat. 3185, pro
 
 Pub. L. 100–458, title I, Oct. 1, 1988, 102 Stat. 2170, provided: “That appropriations under this head [“Capitol Power Plant”] shall hereafter be available for maintenance, alterations, personal and other services, and for all other necessary expenses of the Government owned property, buildings and facilities located in Lot 803, Square 695, formerly known as the General Services Administration Coal Yard at 42 I Street, S.E., in the District of Columbia.”
 
-### § 2162a. Promoting maximum efficiency in operation of Capitol Power Plant
+### § 2162a. Promoting maximum efficiency in operation of Capitol Power Plant
 
 **(a) Steam boilers**
 
@@ -2911,7 +2911,7 @@ Not later than 90 days after December 19, 2007, the Architect of the Capitol sha
 
 Not later than 180 days after December 19, 2007, the Architect of the Capitol shall complete the implementation of the requirements of this section and submit a report describing the actions taken and the energy efficiencies achieved to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate.
 
-(Pub. L. 110–140, title V, § 504, Dec. 19, 2007, 121 Stat. 1656.)
+(Pub. L. 110–140, title V, § 504, Dec. 19, 2007, 121 Stat. 1656.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2919,17 +2919,17 @@ Not later than 180 days after December 19, 2007, the Architect of the Capitol sh
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of this title.
 
-### § 2163. Capitol Grounds shuttle service
+### § 2163. Capitol Grounds shuttle service
 
 Funds appropriated for any available account of the Architect of the Capitol after October 1, 1976, shall be available for the purchase or rental, maintenance and operation of passenger motor vehicles to provide shuttle service for Members and employees of Congress to and from the buildings in the Legislative group.
 
-(Pub. L. 94–440, title VI, Oct. 1, 1976, 90 Stat. 1453; Pub. L. 115–31, div. I, title I, § 1206(a), May 5, 2017, 131 Stat. 582.)
+(Pub. L. 94–440, title VI, Oct. 1, 1976, 90 Stat. 1453; Pub. L. 115–31, div. I, title I, § 1206(a), May 5, 2017, 131 Stat. 582.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 223 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 223 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
@@ -2939,9 +2939,9 @@ Section was classified to section 223 of former Title 40, prior to the enactment
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–31, div. I, title I, § 1206(b), May 5, 2017, 131 Stat. 582, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2017 and each succeeding fiscal year.”
+Pub. L. 115–31, div. I, title I, § 1206(b), May 5, 2017, 131 Stat. 582, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2017 and each succeeding fiscal year.”
 
-### § 2164. Transportation of House Pages by Capitol Grounds shuttle service
+### § 2164. Transportation of House Pages by Capitol Grounds shuttle service
 
 The passenger motor vehicles authorized by section 2163 of this title to provide a shuttle service for Members and employees of Congress may be used for the transportation of House Pages to and from special events associated with their education when approved by the House of Representatives Page Board: *Provided further*, That the use of the said passenger motor vehicles for transportation of House Pages shall not interfere with the shuttle service for Members and employees of the Congress.
 
@@ -2951,27 +2951,27 @@ The passenger motor vehicles authorized by section 2163 of this title to provide
 
 **Codification**
 
-Section was classified to section 224 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 224 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 2165. Repealed. Pub. L. 110–437, title I, § 101(e), Oct. 20, 2008, 122 Stat. 4985
+### § 2165. Repealed. Pub. L. 110–437, title I, § 101(e), Oct. 20, 2008, 122 Stat. 4985
 
-Section, Pub. L. 90–264, title III, § 301, Mar. 12, 1968, 82 Stat. 46; Pub. L. 104–186, title II, § 221(16), Aug. 20, 1996, 110 Stat. 1750, related to Capitol educational and informational center and information and distribution stations and operation agreements.
-
-**Editorial Notes**
-
-**Codification**
-
-Section was classified to section 831 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
-
-### § 2166. Repealed. Pub. L. 110–437, title IV, § 422(a), Oct. 20, 2008, 122 Stat. 4996
-
-Section, Pub. L. 91–510, title IV, § 441, Oct. 26, 1970, 84 Stat. 1190; Pub. L. 95–94, title I, Aug. 5, 1977, 91 Stat. 671; Pub. L. 104–186, title II, § 221(17), Aug. 20, 1996, 110 Stat. 1750; Pub. L. 104–279, Oct. 9, 1996, 110 Stat. 3358, related to Capitol Guide Service. See section 2241 of this title.
+Section, Pub. L. 90–264, title III, § 301, Mar. 12, 1968, 82 Stat. 46; Pub. L. 104–186, title II, § 221(16), Aug. 20, 1996, 110 Stat. 1750, related to Capitol educational and informational center and information and distribution stations and operation agreements.
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 851 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 831 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+
+### § 2166. Repealed. Pub. L. 110–437, title IV, § 422(a), Oct. 20, 2008, 122 Stat. 4996
+
+Section, Pub. L. 91–510, title IV, § 441, Oct. 26, 1970, 84 Stat. 1190; Pub. L. 95–94, title I, Aug. 5, 1977, 91 Stat. 671; Pub. L. 104–186, title II, § 221(17), Aug. 20, 1996, 110 Stat. 1750; Pub. L. 104–279, Oct. 9, 1996, 110 Stat. 3358, related to Capitol Guide Service. See section 2241 of this title.
+
+**Editorial Notes**
+
+**Codification**
+
+Section was classified to section 851 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2979,7 +2979,7 @@ Section was classified to section 851 of former Title 40, prior to the enactment
 
 Repeal effective first day of first pay period (applicable to employees transferred under section 2241 of this title) on or after 30 days after Oct. 20, 2008, see section 422(d) of Pub. L. 110–437, set out as a note under section 1301 of this title.
 
-### § 2167. Congressional Award Youth Park
+### § 2167. Congressional Award Youth Park
 
 **(a) Designation**
 
@@ -3043,7 +3043,7 @@ The United States Capitol Preservation Commission shall select and approve the f
 
 Funds otherwise made available to the Architect of the Capitol under this Act shall be available to carry out this section.
 
-(Pub. L. 107–68, title I, § 134, Nov. 12, 2001, 115 Stat. 582.)
+(Pub. L. 107–68, title I, § 134, Nov. 12, 2001, 115 Stat. 582.)
 
 **Editorial Notes**
 
@@ -3053,9 +3053,9 @@ This Act, referred to in subsec. (d), is Pub. L. 107–68, Nov. 12, 2001, 115 St
 
 **Codification**
 
-Section was classified to section 217c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 217c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 2168. Memorandum of understanding for provision of services of the United States Capitol telephone exchange for the House
+### § 2168. Memorandum of understanding for provision of services of the United States Capitol telephone exchange for the House
 
 **(a) In general**
 
@@ -3097,7 +3097,7 @@ The Chief Administrative Officer of the House of Representatives and the Sergean
 
 This section and the amendment made by this section shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
 
-(Pub. L. 108–447, div. G, title II, § 215, Dec. 8, 2004, 118 Stat. 3197.)
+(Pub. L. 108–447, div. G, title II, § 215, Dec. 8, 2004, 118 Stat. 3197.)
 
 **Editorial Notes**
 
@@ -3107,7 +3107,7 @@ Section is comprised of section 215 of div. G of Pub. L. 108–447. Subsec. (d) 
 
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
 
-### § 2169. Capitol complex E–85 refueling station
+### § 2169. Capitol complex E–85 refueling station
 
 **(a) Construction**
 
@@ -3121,7 +3121,7 @@ The E–85 fuel tank and pumping system shall be available for use by all legisl
 
 There is authorized to be appropriated to carry out this section $640,000 for fiscal year 2008.
 
-(Pub. L. 110–140, title V, § 502, Dec. 19, 2007, 121 Stat. 1655.)
+(Pub. L. 110–140, title V, § 502, Dec. 19, 2007, 121 Stat. 1655.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3129,7 +3129,7 @@ There is authorized to be appropriated to carry out this section $640,000 for fi
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of this title.
 
-### § 2170. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the Senate at no net cost to the Federal Government
+### § 2170. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the Senate at no net cost to the Federal Government
 
 **(a) Definition** In this section, the term “covered employee” means—
 
@@ -3195,9 +3195,9 @@ If a determination is made under subparagraph (A) that a subsidy is being receiv
 
 This section shall apply with respect to fiscal year 2011 and each fiscal year thereafter.
 
-(Pub. L. 112–167, § 1, Aug. 10, 2012, 126 Stat. 1296.)
+(Pub. L. 112–167, § 1, Aug. 10, 2012, 126 Stat. 1296.)
 
-### § 2171. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the House of Representatives at no net cost to the Federal Government
+### § 2171. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the House of Representatives at no net cost to the Federal Government
 
 **(a) Definition** In this section, the term “covered employee” means—
 
@@ -3263,9 +3263,9 @@ If a determination is made under subparagraph (A) that a subsidy is being receiv
 
 This section shall apply with respect to fiscal year 2011 and each fiscal year thereafter.
 
-(Pub. L. 112–170, § 1, Aug. 16, 2012, 126 Stat. 1303.)
+(Pub. L. 112–170, § 1, Aug. 16, 2012, 126 Stat. 1303.)
 
-### § 2171a. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the Librarian of Congress at no net cost to the Federal Government
+### § 2171a. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the Librarian of Congress at no net cost to the Federal Government
 
 **(a) Definition** In this section, the term “covered employee” means—
 
@@ -3327,9 +3327,9 @@ If a determination is made under subparagraph (A) that a subsidy is being receiv
 
 This section shall apply with respect to fiscal year 2016 and each fiscal year thereafter.
 
-(Pub. L. 114–113, div. I, title II, § 209, Dec. 18, 2015, 129 Stat. 2673.)
+(Pub. L. 114–113, div. I, title II, § 209, Dec. 18, 2015, 129 Stat. 2673.)
 
-### § 2172. Office of Congressional Accessibility Services
+### § 2172. Office of Congressional Accessibility Services
 
 **(a) Establishment of Office of Congressional Accessibility Services**
 
@@ -3399,7 +3399,7 @@ Subject to the approval of the Committee on Rules and Administration of the Sena
 
 The Director of Accessibility Services shall submit a report to the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives not later than 45 days following the close of each semiannual period ending on March 31 or September 30 of each year on the financial and operational status during the period of each function under the jurisdiction of the Director. Each such report shall include financial statements and a description or explanation of current operations, the implementation of new policies and procedures, and future plans for each function.
 
-(Pub. L. 101–163, title III, § 310, Nov. 21, 1989, 103 Stat. 1065; Pub. L. 104–53, title I, § 112, Nov. 19, 1995, 109 Stat. 525; Pub. L. 110–437, title IV, § 411(a), Oct. 20, 2008, 122 Stat. 4993.)
+(Pub. L. 101–163, title III, § 310, Nov. 21, 1989, 103 Stat. 1065; Pub. L. 104–53, title I, § 112, Nov. 19, 1995, 109 Stat. 525; Pub. L. 110–437, title IV, § 411(a), Oct. 20, 2008, 122 Stat. 4993.)
 
 **Editorial Notes**
 
@@ -3423,17 +3423,17 @@ For transfer of contracts, liabilities, records, property, appropriations, other
 
 ## SUBCHAPTER VIII—MISCELLANEOUS
 
-### § 2181. Assignment of space for meetings of joint committees, conference committees, etc.
+### § 2181. Assignment of space for meetings of joint committees, conference committees, etc.
 
 The President pro tempore of the Senate and the Speaker of the House of Representatives shall cause a survey to be made of available space within the Capitol which could be utilized for joint committee meetings, meetings of conference committees, and other meetings, requiring the attendance of both Senators and Members of the House of Representatives; and shall recommend the reassignment of such space to accommodate such meetings.
 
-(Aug. 2, 1946, ch. 753, title II, § 242, 60 Stat. 839.)
+(Aug. 2, 1946, ch. 753, title II, § 242, 60 Stat. 839.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 174d–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174d–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3441,7 +3441,7 @@ Section was classified to section 174d–1 of former Title 40, prior to the enac
 
 Section effective Aug. 2, 1946, see section 245 of act Aug. 2, 1946, set out as a note under section 4301 of this title.
 
-### § 2182. Use of space formerly occupied by Library of Congress
+### § 2182. Use of space formerly occupied by Library of Congress
 
 The rooms and space recently occupied by the Library of Congress in the Capitol building shall be divided into three stories, the third story of which shall be fitted up and used for a reference library for the Senate and House of Representatives, and that portion of the other two stories north of a line drawn east and west through the center of the Rotunda shall be used for such purpose as may be designated by the Senate of the United States, and that portion of the first and second stories south of said line shall be used for such purpose as may be designated by the House of Representatives.
 
@@ -3451,37 +3451,37 @@ The rooms and space recently occupied by the Library of Congress in the Capitol 
 
 **Codification**
 
-Section was classified to section 190b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 190b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 2183. Protection of buildings and property
+### § 2183. Protection of buildings and property
 
 The Sergeants at Arms of the Senate and of the House of Representatives are authorized to make such regulations as they may deem necessary for preserving the peace and securing the Capitol from defacement, and for the protection of the public property therein, and they shall have power to arrest and detain any person violating such regulations, until such person can be brought before the proper authorities for trial.
 
-(R.S. § 1820.)
+(R.S. § 1820.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 193 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 193 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-R.S. § 1820 derived from acts Mar. 30, 1867, ch. 20, § 2, 15 Stat. 12; Apr. 29, 1876, ch. 86, 19 Stat. 41.
+R.S. § 1820 derived from acts Mar. 30, 1867, ch. 20, § 2, 15 Stat. 12; Apr. 29, 1876, ch. 86, 19 Stat. 41.
 
-### § 2184. Purchase of furniture or carpets for House or Senate
+### § 2184. Purchase of furniture or carpets for House or Senate
 
 No furniture or carpets for either House shall be purchased without the written order of the chairman of the Committee on Rules and Administration, for the Senate, or without the written order of the chairman of the Committee on House Oversight of the House of Representatives, for the House of Representatives.
 
-(R.S. § 1816; Aug. 2, 1946, ch. 753, title I, § 102, title II, § 224, 60 Stat. 814, 838; Pub. L. 104–186, title II, § 221(2), Aug. 20, 1996, 110 Stat. 1748.)
+(R.S. § 1816; Aug. 2, 1946, ch. 753, title I, § 102, title II, § 224, 60 Stat. 814, 838; Pub. L. 104–186, title II, § 221(2), Aug. 20, 1996, 110 Stat. 1748.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 170 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 170 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-R.S. § 1816 derived from Res. Apr. 16, 1862, No. 28, 12 Stat. 617; acts Mar. 30, 1867, ch. 24, § 2, 15 Stat. 13; July 20, 1868, ch. 177, § 1, 15 Stat. 115; Mar. 3, 1869, ch. 121, § 1, 15 Stat. 283, 284; Mar. 3, 1871, ch. 114, § 1, 16 Stat. 500; Aug. 15, 1876, ch. 287, 19 Stat. 147.
+R.S. § 1816 derived from Res. Apr. 16, 1862, No. 28, 12 Stat. 617; acts Mar. 30, 1867, ch. 24, § 2, 15 Stat. 13; July 20, 1868, ch. 177, § 1, 15 Stat. 115; Mar. 3, 1869, ch. 121, § 1, 15 Stat. 283, 284; Mar. 3, 1871, ch. 114, § 1, 16 Stat. 500; Aug. 15, 1876, ch. 287, 19 Stat. 147.
 
-Provision of R.S. § 1816 relating to repairs of Capitol is classified to section 1814 of this title.
+Provision of R.S. § 1816 relating to repairs of Capitol is classified to section 1814 of this title.
 
 **Amendments**
 
@@ -3497,9 +3497,9 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **Effective Date of 1946 Amendment**
 
-Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of title II of that act, 60 Stat. 839, provided that section 224 thereof shall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.
+Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of title II of that act, 60 Stat. 839, provided that section 224 thereof shall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.
 
-### § 2185. Estimates for improvements in grounds
+### § 2185. Estimates for improvements in grounds
 
 All changes and improvements in the Capitol grounds, including approaches to the Capitol, shall be estimated for in detail, showing what modifications are proposed and the estimate cost of the same.
 
@@ -3509,7 +3509,7 @@ All changes and improvements in the Capitol grounds, including approaches to the
 
 **Codification**
 
-Section was classified to section 173 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 173 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on act Mar. 3, 1883, popularly known as the “Sundry Civil Appropriation Act, fiscal year 1884”.
 
@@ -3525,11 +3525,11 @@ Mar. 4, 1911, ch. 285, 36 Stat. 1414.
 
 June 25, 1910, ch. 384, 36 Stat. 738.
 
-### § 2186. Square 580 landscape maintenance
+### § 2186. Square 580 landscape maintenance
 
 For fiscal year 2016 and each fiscal year thereafter, the Architect of the Capitol, in consultation with the District of Columbia, is authorized to maintain and improve the landscape features, excluding streets, in Square 580 up to the beginning of I–395.
 
-(Pub. L. 114–113, div. I, title II, § 206, Dec. 18, 2015, 129 Stat. 2672.)
+(Pub. L. 114–113, div. I, title II, § 206, Dec. 18, 2015, 129 Stat. 2672.)
 
 **Editorial Notes**
 
@@ -3537,4 +3537,4 @@ For fiscal year 2016 and each fiscal year thereafter, the Architect of the Capit
 
 Provisions similar to those in this section were contained in the following prior appropriation act:
 
-Pub. L. 113–235, div. H, title II, § 206, Dec. 16, 2014, 128 Stat. 2542.
+Pub. L. 113–235, div. H, title II, § 206, Dec. 16, 2014, 128 Stat. 2542.

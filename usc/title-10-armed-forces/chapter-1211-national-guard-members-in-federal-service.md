@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(18)(A), Feb. 10, 1996, 110 Stat. 497, inserted “the” after “Army and Air National Guard of” in items 12401, 12402, 12403, and 12404.
+1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(18)(A), Feb. 10, 1996, 110 Stat. 497, inserted “the” after “Army and Air National Guard of” in items 12401, 12402, 12403, and 12404.
 
-## § 12401. Army and Air National Guard of the United States: status
+## § 12401. Army and Air National Guard of the United States: status
 
 Members of the Army National Guard of the United States and the Air National Guard of the United States are not in active Federal service except when ordered thereto under law.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(f)(1), Oct. 5, 1994, 108 Stat. 2993.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(f)(1), Oct. 5, 1994, 108 Stat. 2993.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3495 and 8495 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
+Provisions similar to those in this section were contained in sections 3495 and 8495 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -39,7 +39,7 @@ Provisions similar to those in this section were contained in sections 3495 and 
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12402. Army and Air National Guard of the United States: commissioned officers; duty in National Guard Bureau
+## § 12402. Army and Air National Guard of the United States: commissioned officers; duty in National Guard Bureau
 
 **(a)** The President may, with their consent, order commissioned officers of the Army National Guard of the United States and the Air National Guard of the United States to active duty in the National Guard Bureau.
 
@@ -49,13 +49,13 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(2)** The number of officers of the Air National Guard of the United States in grades below brigadier general who are ordered to active duty in the National Guard Bureau may not be more than 40 percent of the number of officers of the Air Force authorized for duty in that Bureau and, to the extent practicable, shall not exceed 40 percent of the number of officers of the Air Force serving in that Bureau in any grade below brigadier general.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(f)(1), Oct. 5, 1994, 108 Stat. 2993; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(18)(B), Feb. 10, 1996, 110 Stat. 497.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(f)(1), Oct. 5, 1994, 108 Stat. 2993; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(18)(B), Feb. 10, 1996, 110 Stat. 497.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3496 and 8496 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
+Provisions similar to those in this section were contained in sections 3496 and 8496 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
 
 **Amendments**
 
@@ -71,17 +71,17 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12403. Army and Air National Guard of the United States: members; status in which ordered into Federal service
+## § 12403. Army and Air National Guard of the United States: members; status in which ordered into Federal service
 
 Members of the Army National Guard of the United States ordered to active duty shall be ordered to duty as Reserves of the Army. Members of the Air National Guard of the United States ordered to active duty shall be ordered to duty as Reserves of the Air Force.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(f)(1), Oct. 5, 1994, 108 Stat. 2993; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(18)(B), Feb. 10, 1996, 110 Stat. 497.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(f)(1), Oct. 5, 1994, 108 Stat. 2993; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(18)(B), Feb. 10, 1996, 110 Stat. 497.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3497 and 8497 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
+Provisions similar to those in this section were contained in sections 3497 and 8497 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
 
 **Amendments**
 
@@ -97,17 +97,17 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12404. Army and Air National Guard of the United States: mobilization; maintenance of organization
+## § 12404. Army and Air National Guard of the United States: mobilization; maintenance of organization
 
 During an initial mobilization, the organization of a unit of the Army National Guard of the United States or of the Air National Guard of the United States ordered into active Federal service shall, so far as practicable, be maintained as it existed on the date of the order to duty.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(f)(1), Oct. 5, 1994, 108 Stat. 2993; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(18)(B), Feb. 10, 1996, 110 Stat. 497.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(f)(1), Oct. 5, 1994, 108 Stat. 2993; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(18)(B), Feb. 10, 1996, 110 Stat. 497.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3498 and 8498 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
+Provisions similar to those in this section were contained in sections 3498 and 8498 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
 
 **Amendments**
 
@@ -123,17 +123,17 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12405. National Guard in Federal service: status
+## § 12405. National Guard in Federal service: status
 
 Members of the National Guard called into Federal service are, from the time when they are required to respond to the call, subject to the laws and regulations governing the Army or the Air Force, as the case may be, except those applicable only to members of the Regular Army or Regular Air Force, as the case may be.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(f)(1), Oct. 5, 1994, 108 Stat. 2993.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(f)(1), Oct. 5, 1994, 108 Stat. 2993.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3499 and 8499 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
+Provisions similar to those in this section were contained in sections 3499 and 8499 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -141,7 +141,7 @@ Provisions similar to those in this section were contained in sections 3499 and 
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12406. National Guard in Federal service: call
+## § 12406. National Guard in Federal service: call
 
 Whenever—
 
@@ -153,13 +153,13 @@ Whenever—
 
 the President may call into Federal service members and units of the National Guard of any State in such numbers as he considers necessary to repel the invasion, suppress the rebellion, or execute those laws. Orders for these purposes shall be issued through the governors of the States or, in the case of the District of Columbia, through the commanding general of the National Guard of the District of Columbia.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(f)(1), Oct. 5, 1994, 108 Stat. 2994; amended Pub. L. 109–163, div. A, title X, § 1057(a)(5), Jan. 6, 2006, 119 Stat. 3440.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(f)(1), Oct. 5, 1994, 108 Stat. 2994; amended Pub. L. 109–163, div. A, title X, § 1057(a)(5), Jan. 6, 2006, 119 Stat. 3440.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3500 and 8500 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
+Provisions similar to those in this section were contained in sections 3500 and 8500 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
 
 **Amendments**
 
@@ -171,19 +171,19 @@ Provisions similar to those in this section were contained in sections 3500 and 
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12407. National Guard in Federal service: period of service; apportionment
+## § 12407. National Guard in Federal service: period of service; apportionment
 
 **(a)** Whenever the President calls the National Guard of a State into Federal service, he may specify in the call the period of the service. Members and units called shall serve inside or outside the territory of the United States during the term specified, unless sooner relieved by the President. However, no member of the National Guard may be kept in Federal service beyond the term of his commission or enlistment.
 
 **(b)** When the National Guard of a State is called into Federal service with the National Guard of another State, the President may apportion the total number called from the Army National Guard or from the Air National Guard, as the case may be, on the basis of the populations of the States affected by the call.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(f)(1), Oct. 5, 1994, 108 Stat. 2994; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(19), Feb. 10, 1996, 110 Stat. 497.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(f)(1), Oct. 5, 1994, 108 Stat. 2994; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(19), Feb. 10, 1996, 110 Stat. 497.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3501 and 8501 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
+Provisions similar to those in this section were contained in sections 3501 and 8501 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
 
 **Amendments**
 
@@ -199,19 +199,19 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12408. National Guard in Federal service: physical examination
+## § 12408. National Guard in Federal service: physical examination
 
 **(a)** Under regulations prescribed by the President, each member of the National Guard called into Federal service under section 12301(a), 12302, or 12304 of this title shall be examined as to physical fitness, without further commission or enlistment.
 
 **(b)** Immediately before such a member is mustered out of Federal service, he shall be examined as to physical fitness. The record of this examination shall be retained by the United States.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(f)(1), Oct. 5, 1994, 108 Stat. 2994; amended Pub. L. 104–201, div. A, title V, § 523, Sept. 23, 1996, 110 Stat. 2517.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(f)(1), Oct. 5, 1994, 108 Stat. 2994; amended Pub. L. 104–201, div. A, title V, § 523, Sept. 23, 1996, 110 Stat. 2517.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3502 and 8502 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
+Provisions similar to those in this section were contained in sections 3502 and 8502 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
 
 **Amendments**
 

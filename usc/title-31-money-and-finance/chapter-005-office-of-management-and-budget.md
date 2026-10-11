@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2002—Pub. L. 107–347, title I, § 102(c)(2), Dec. 17, 2002, 116 Stat. 2910, added item 507.
+2002—Pub. L. 107–347, title I, § 102(c)(2), Dec. 17, 2002, 116 Stat. 2910, added item 507.
 
-1990—Pub. L. 101–576, title II, § 203(c), Nov. 15, 1990, 104 Stat. 2841, added items 503 and 504 and redesignated former items 503 and 504 as 505 and 506, respectively.
+1990—Pub. L. 101–576, title II, § 203(c), Nov. 15, 1990, 104 Stat. 2841, added items 503 and 504 and redesignated former items 503 and 504 as 505 and 506, respectively.
 
-1983—Pub. L. 97–452, § 1(1)(B), Jan. 12, 1983, 96 Stat. 2467, added item 504.
+1983—Pub. L. 97–452, § 1(1)(B), Jan. 12, 1983, 96 Stat. 2467, added item 504.
 
 ## SUBCHAPTER I—ORGANIZATION
 
-### § 501. Office of Management and Budget
+### § 501. Office of Management and Budget
 
 The Office of Management and Budget is an office in the Executive Office of the President.
 
@@ -37,21 +37,21 @@ The Office of Management and Budget is an office in the Executive Office of the 
 
 | *Revised Section* | *Source (U.S. Code* | *Source (Statutes at Large)* |
 |---|---|---|
-| 501 | 31:16(1st sentence). | June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085; restated Mar. 2, 1974, Pub. L. 93–250, § 1, 88 Stat. 11. |
+| 501 | 31:16(1st sentence). | June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085; restated Mar. 2, 1974, Pub. L. 93–250, § 1, 88 Stat. 11. |
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–264, § 1, Dec. 14, 2016, 130 Stat. 1371, provided that: “This Act [enacting section 1126 of this title, amending section 503 of this title, and enacting provisions set out as notes under sections 503 and 1126 of this title] may be cited as the ‘Program Management Improvement Accountability Act’.”
+Pub. L. 114–264, § 1, Dec. 14, 2016, 130 Stat. 1371, provided that: “This Act [enacting section 1126 of this title, amending section 503 of this title, and enacting provisions set out as notes under sections 503 and 1126 of this title] may be cited as the ‘Program Management Improvement Accountability Act’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–576, title I, § 101, Nov. 15, 1990, 104 Stat. 2838, provided that: “This Act [enacting sections 503, 504, 901 to 903, and 3515 of this title, amending sections 502, 1105, 3512, 3521, 9105, and 9106 of this title, sections 5313 to 5315 of Title 5, Government Organization and Employees, and section 3533 of Title 42, The Public Health and Welfare, renumbering sections 503 and 504 of this title as 505 and 506 of this title, respectively, enacting provisions set out as notes under this section and sections 901, 3511, 3515, and 3521 of this title, and amending provisions set out as a note under section 301 of Title 38, Veterans’ Benefits] may be cited as the ‘Chief Financial Officers Act of 1990’.”
+Pub. L. 101–576, title I, § 101, Nov. 15, 1990, 104 Stat. 2838, provided that: “This Act [enacting sections 503, 504, 901 to 903, and 3515 of this title, amending sections 502, 1105, 3512, 3521, 9105, and 9106 of this title, sections 5313 to 5315 of Title 5, Government Organization and Employees, and section 3533 of Title 42, The Public Health and Welfare, renumbering sections 503 and 504 of this title as 505 and 506 of this title, respectively, enacting provisions set out as notes under this section and sections 901, 3511, 3515, and 3521 of this title, and amending provisions set out as a note under section 301 of Title 38, Veterans’ Benefits] may be cited as the ‘Chief Financial Officers Act of 1990’.”
 
 **Transfer of Functions**
 
-Pub. L. 104–53, title II, § 211, Nov. 19, 1995, 109 Stat. 535, as amended by Pub. L. 104–316, title II, § 203, Oct. 19, 1996, 110 Stat. 3845, provided that: “Personnel transferred pursuant to this section, as in effect immediately before the effective date of section 303 [203] of the General Accounting Office Act of 1996 [Pub. L. 104–316, Oct. 19, 1996], shall not be separated or reduced in classification or compensation for one year after any such transfer, except for cause.”
+Pub. L. 104–53, title II, § 211, Nov. 19, 1995, 109 Stat. 535, as amended by Pub. L. 104–316, title II, § 203, Oct. 19, 1996, 110 Stat. 3845, provided that: “Personnel transferred pursuant to this section, as in effect immediately before the effective date of section 303 [203] of the General Accounting Office Act of 1996 [Pub. L. 104–316, Oct. 19, 1996], shall not be separated or reduced in classification or compensation for one year after any such transfer, except for cause.”
 
 **Disaster Resiliency Planning**
 
@@ -101,7 +101,7 @@ Pub. L. 117–221, Dec. 5, 2022, 136 Stat. 2277, provided that:
 
 **Disaster Relief Funding Guidance**
 
-Pub. L. 115–123, div. B, title XII, § 21206(c), Feb. 9, 2018, 132 Stat. 108, provided that:
+Pub. L. 115–123, div. B, title XII, § 21206(c), Feb. 9, 2018, 132 Stat. 108, provided that:
 
 > “In order to proactively prepare for oversight of future disaster relief funding, not later than one year after the date of enactment of this Act [Feb. 9, 2018], the Director of the Office of Management and Budget shall issue standard guidance for Federal agencies to use in designing internal control plans for disaster relief funding. This guidance shall leverage existing internal control review processes and shall include, at a minimum, the following elements:
 
@@ -111,11 +111,11 @@ Pub. L. 115–123, div. B, title XII, § 21206(c), Feb. 9, 2018, 132 Stat. 108
 
 **Publication of Certain Documents**
 
-Pub. L. 112–239, div. A, title XVI, § 1655, Jan. 2, 2013, 126 Stat. 2083, provided that: “Not later than 270 days after the date of the enactment of this part [Jan. 2, 2013], the Director of the Office of Management and Budget shall publish procedures and methodologies to be used by Federal agencies with respect to decisions to convert a function being performed by a small business concern to performance by a Federal employee, including procedures and methodologies for determining which contracts will be studied for potential conversion; procedures and methodologies by which a contract is evaluated as inherently governmental or as a critical agency function; and procedures and methodologies for estimating and comparing costs. Should a Federal agency develop any agency-specific methodologies for identifying critical agency functions or supplemental implementation guidance, such methodologies and guidance shall be published upon implementation.”
+Pub. L. 112–239, div. A, title XVI, § 1655, Jan. 2, 2013, 126 Stat. 2083, provided that: “Not later than 270 days after the date of the enactment of this part [Jan. 2, 2013], the Director of the Office of Management and Budget shall publish procedures and methodologies to be used by Federal agencies with respect to decisions to convert a function being performed by a small business concern to performance by a Federal employee, including procedures and methodologies for determining which contracts will be studied for potential conversion; procedures and methodologies by which a contract is evaluated as inherently governmental or as a critical agency function; and procedures and methodologies for estimating and comparing costs. Should a Federal agency develop any agency-specific methodologies for identifying critical agency functions or supplemental implementation guidance, such methodologies and guidance shall be published upon implementation.”
 
 **Service Contract Inventory**
 
-Pub. L. 111–117, div. C, title VII, § 743, Dec. 16, 2009, 123 Stat. 3216, as amended by Pub. L. 112–74, div. C, title VII, § 740, Dec. 23, 2011, 125 Stat. 939, provided that:
+Pub. L. 111–117, div. C, title VII, § 743, Dec. 16, 2009, 123 Stat. 3216, as amended by Pub. L. 112–74, div. C, title VII, § 740, Dec. 23, 2011, 125 Stat. 939, provided that:
 
 > **“(a) Service Contract Inventory Requirement.—**
 
@@ -199,11 +199,11 @@ Pub. L. 111–117, div. C, title VII, § 743, Dec. 16, 2009, 123 Stat. 3216, a
 
 **Requirement for Debriefings Related To Conversion of Functions From Performance by Federal Employees to Performance by a Contractor**
 
-Pub. L. 111–84, div. A, title III, § 326, Oct. 28, 2009, 123 Stat. 2254, provided that: “The Administrator for Federal Procurement Policy shall revise the Federal Acquisition Regulation to allow for debriefings of Federal employee representatives designated pursuant to 3551(2)(B) of title 31, United States Code, to the same extent and under the same circumstances as any offeror, in the case of a conversion of any function from performance by Federal employees to performance by a contractor. Such debriefings will conform to the requirements of section 2305(b)(6)(A) of title 10, United States Code [now 10 U.S.C. 3305(a), (b)], section 303B(f) of the Federal Property and Administrative Services Act of 1949 ([former] 41 U.S.C. 253b(f)) [now 41 U.S.C. 3705], and subparts 15.505 and 15.506 (as in effect on the date of the enactment of this Act [Oct. 28, 2009]) of the Federal Acquisition Regulation.”
+Pub. L. 111–84, div. A, title III, § 326, Oct. 28, 2009, 123 Stat. 2254, provided that: “The Administrator for Federal Procurement Policy shall revise the Federal Acquisition Regulation to allow for debriefings of Federal employee representatives designated pursuant to 3551(2)(B) of title 31, United States Code, to the same extent and under the same circumstances as any offeror, in the case of a conversion of any function from performance by Federal employees to performance by a contractor. Such debriefings will conform to the requirements of section 2305(b)(6)(A) of title 10, United States Code [now 10 U.S.C. 3305(a), (b)], section 303B(f) of the Federal Property and Administrative Services Act of 1949 ([former] 41 U.S.C. 253b(f)) [now 41 U.S.C. 3705], and subparts 15.505 and 15.506 (as in effect on the date of the enactment of this Act [Oct. 28, 2009]) of the Federal Acquisition Regulation.”
 
 **Comprehensive Analysis and Development of Single Government-Wide Definition of Inherently Governmental Function and Criteria for Critical Functions**
 
-Pub. L. 110–417, [div. A], title III, § 321, Oct. 14, 2008, 122 Stat. 4411, provided that:
+Pub. L. 110–417, [div. A], title III, § 321, Oct. 14, 2008, 122 Stat. 4411, provided that:
 
 > **“(a) Development and Implementation.—** The Director of the Office of Management and Budget, in consultation with appropriate representatives of the Chief Acquisition Officers Council under section 16A of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 414b) [now 41 U.S.C. 1311 et seq.] and the Chief Human Capital Officers Council under section 1401 of title 5, United States Code, shall—
 
@@ -267,7 +267,7 @@ Pub. L. 110–417, [div. A], title III, § 321, Oct. 14, 2008, 122 Stat. 4411,
 
 **Public-Private Competition**
 
-Pub. L. 110–161, div. D, title VII, § 739, Dec. 26, 2007, 121 Stat. 2029, as amended by Pub. L. 111–8, div. D, title VII, §§ 735, 736, Mar. 11, 2009, 123 Stat. 689, provided that:
+Pub. L. 110–161, div. D, title VII, § 739, Dec. 26, 2007, 121 Stat. 2029, as amended by Pub. L. 111–8, div. D, title VII, §§ 735, 736, Mar. 11, 2009, 123 Stat. 689, provided that:
 
 > **“(a) Requirement for Public-Private Competition.—**
 
@@ -383,7 +383,7 @@ Pub. L. 110–161, div. D, title VII, § 739, Dec. 26, 2007, 121 Stat. 2029, a
 
 **Competitive Sourcing Activities**
 
-Pub. L. 108–199, div. F, title VI, § 647(b), (d), (f), Jan. 23, 2004, 118 Stat. 361, 362, provided that:
+Pub. L. 108–199, div. F, title VI, § 647(b), (d), (f), Jan. 23, 2004, 118 Stat. 361, 362, provided that:
 
 > **“(b)** Not later than 120 days following the enactment of this Act [Jan. 23, 2004] and not later than December 31 of each year thereafter, the head of each executive agency shall submit to Congress a report on the competitive sourcing activities on the list required under the Federal Activities Inventory Reform Act of 1998 (Public Law 105–270; 31 U.S.C. 501 note) that were performed for such executive agency during the previous fiscal year by Federal Government sources. The report shall include—
 
@@ -409,7 +409,7 @@ Pub. L. 108–199, div. F, title VI, § 647(b), (d), (f), Jan. 23, 2004, 118 S
 
 > **“(f)** In this section, the term ‘executive agency’ has the meaning given such term in section 4 of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 403) [see 41 U.S.C. 133].”
 
-Pub. L. 108–108, title III, § 340(a), (b), (f), Nov. 10, 2003, 117 Stat. 1315, 1317, as amended by Pub. L. 108–447, div. E, title III, § 332(c), Dec. 8, 2004, 118 Stat. 3100, provided that:
+Pub. L. 108–108, title III, § 340(a), (b), (f), Nov. 10, 2003, 117 Stat. 1315, 1317, as amended by Pub. L. 108–447, div. E, title III, § 332(c), Dec. 8, 2004, 118 Stat. 3100, provided that:
 
 > **“(a) Justification of Competitive Sourcing Activities.—**
 
@@ -423,17 +423,17 @@ Pub. L. 108–108, title III, § 340(a), (b), (f), Nov. 10, 2003, 117 Stat. 13
 
 > **“(C)** of the Department of Energy for which funds are appropriated by this Act.
 
-[(b) Repealed. Pub. L. 108–447, div. E, title III, § 332(c), Dec. 8, 2004, 118 Stat. 3100.]
+[(b) Repealed. Pub. L. 108–447, div. E, title III, § 332(c), Dec. 8, 2004, 118 Stat. 3100.]
 
 “(f) Competitive Sourcing Study Defined.—In this subsection [probably means “this section”], the term ‘competitive sourcing study’ means a study on subjecting work performed by Federal Government employees or private contractors to public-private competition or on converting the Federal Government employees or the work performed by such employees to private contractor performance under the Office of Management and Budget Circular A–76 or any other administrative regulation, directive, or policy.”
 
 **Study of Policies and Procedures for Transfer of Commercial Activities**
 
-Pub. L. 106–398, § 1 [[div. A], title VIII, § 832], Oct. 30, 2000, 114 Stat. 1654, 1654A–221, provided that the Comptroller General was to convene a panel of experts to study the policies and procedures governing the transfer of commercial activities for the Federal Government from Government personnel to Federal contractors and to appoint highly qualified and knowledgeable persons, from appropriate governmental agencies and private industry, to serve on the panel, whose chairman would be the Comptroller General or a designated individual within the GAO, and provided that interested parties would be allowed to participate, that the panel would have access to necessary information from Federal agencies, and that the Comptroller General was to submit a report of the panel on the results of the study to Congress no later than May 1, 2002.
+Pub. L. 106–398, § 1 [[div. A], title VIII, § 832], Oct. 30, 2000, 114 Stat. 1654, 1654A–221, provided that the Comptroller General was to convene a panel of experts to study the policies and procedures governing the transfer of commercial activities for the Federal Government from Government personnel to Federal contractors and to appoint highly qualified and knowledgeable persons, from appropriate governmental agencies and private industry, to serve on the panel, whose chairman would be the Comptroller General or a designated individual within the GAO, and provided that interested parties would be allowed to participate, that the panel would have access to necessary information from Federal agencies, and that the Comptroller General was to submit a report of the panel on the results of the study to Congress no later than May 1, 2002.
 
 **Use of Private Enterprises**
 
-Pub. L. 106–53, title II, § 227, Aug. 17, 1999, 113 Stat. 298, provided that:
+Pub. L. 106–53, title II, § 227, Aug. 17, 1999, 113 Stat. 298, provided that:
 
 > **“(a) In General.—** The Secretary [of the Army] shall comply with the requirements of the Federal Activities Inventory Reform Act of 1998 (31 U.S.C. 501 note; Public Law 105–270).
 
@@ -445,11 +445,11 @@ Pub. L. 106–53, title II, § 227, Aug. 17, 1999, 113 Stat. 298, provided tha
 
 **Federal Activities Inventory Reform**
 
-Pub. L. 110–28, title VI, § 6201, May 25, 2007, 121 Stat. 171, provided that: “Hereafter, Federal employees at the National Energy Technology Laboratory shall be classified as inherently governmental for the purpose of the Federal Activities Inventory Reform Act of 1998 [Pub. L. 105–270] (31 U.S.C. 501 note).”
+Pub. L. 110–28, title VI, § 6201, May 25, 2007, 121 Stat. 171, provided that: “Hereafter, Federal employees at the National Energy Technology Laboratory shall be classified as inherently governmental for the purpose of the Federal Activities Inventory Reform Act of 1998 [Pub. L. 105–270] (31 U.S.C. 501 note).”
 
-Pub. L. 110–28, title VI, § 6602(b), May 25, 2007, 121 Stat. 178, provided that: “Hereafter, Federal employees at the Mine Safety and Health Administration shall be classified as inherently governmental for the purpose of the Federal Activities Inventory Reform Act of 1998 [Pub. L. 105–270] (31 U.S.C. 501 note).”
+Pub. L. 110–28, title VI, § 6602(b), May 25, 2007, 121 Stat. 178, provided that: “Hereafter, Federal employees at the Mine Safety and Health Administration shall be classified as inherently governmental for the purpose of the Federal Activities Inventory Reform Act of 1998 [Pub. L. 105–270] (31 U.S.C. 501 note).”
 
-Pub. L. 105–270, Oct. 19, 1998, 112 Stat. 2382, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–115, div. A, title VIII, § 840, Nov. 30, 2005, 119 Stat. 2505, provided that:
+Pub. L. 105–270, Oct. 19, 1998, 112 Stat. 2382, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–115, div. A, title VIII, § 840, Nov. 30, 2005, 119 Stat. 2505, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -573,65 +573,65 @@ Pub. L. 105–270, Oct. 19, 1998, 112 Stat. 2382, as amended by Pub. L. 108–27
 
 **Purpose of Amendments by Pub. L. 104–316**
 
-Pub. L. 104–316, title II, § 201, Oct. 19, 1996, 110 Stat. 3842, provided that: “The purpose of this title [see Tables for classification] is to amend provisions of law to reflect, update, and enact transfers and subsequent delegations of functions made under section 211 of the Legislative Branch Appropriations Act, 1996 (Public Law 104–53, 109 Stat. 535) [see Transfer of Functions note above], as in effect immediately before this title takes effect [Oct. 19, 1996].”
+Pub. L. 104–316, title II, § 201, Oct. 19, 1996, 110 Stat. 3842, provided that: “The purpose of this title [see Tables for classification] is to amend provisions of law to reflect, update, and enact transfers and subsequent delegations of functions made under section 211 of the Legislative Branch Appropriations Act, 1996 (Public Law 104–53, 109 Stat. 535) [see Transfer of Functions note above], as in effect immediately before this title takes effect [Oct. 19, 1996].”
 
 **Department of Commerce Franchise Fund Pilot**
 
-Pub. L. 108–199, div. B, title II, § 206, Jan. 23, 2004, 118 Stat. 73, provided that: “Hereafter, the Secretary of Commerce may use the Commerce franchise fund for expenses and equipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services, pursuant to section 403 of Public Law 103–356 [set out below]: *Provided*, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital shall be used to capitalize such fund: *Provided further*, That such fund shall be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: *Provided further*, That such fund shall provide services on a competitive basis: *Provided further*, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 2004 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of department financial management, automated data processing, and other support systems: *Provided further*, That such amounts retained in the fund for fiscal year 2004 and each fiscal year thereafter shall be available for obligation and expenditure only in accordance with section 605 of this Act [118 Stat. 93]: *Provided further*, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury.”
+Pub. L. 108–199, div. B, title II, § 206, Jan. 23, 2004, 118 Stat. 73, provided that: “Hereafter, the Secretary of Commerce may use the Commerce franchise fund for expenses and equipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services, pursuant to section 403 of Public Law 103–356 [set out below]: *Provided*, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital shall be used to capitalize such fund: *Provided further*, That such fund shall be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: *Provided further*, That such fund shall provide services on a competitive basis: *Provided further*, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 2004 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of department financial management, automated data processing, and other support systems: *Provided further*, That such amounts retained in the fund for fiscal year 2004 and each fiscal year thereafter shall be available for obligation and expenditure only in accordance with section 605 of this Act [118 Stat. 93]: *Provided further*, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 108–7, div. B, title II, § 207, Feb. 20, 2003, 117 Stat. 77.
+Pub. L. 108–7, div. B, title II, § 207, Feb. 20, 2003, 117 Stat. 77.
 
-Pub. L. 107–77, title II, § 207, Nov. 28, 2001, 115 Stat. 778.
+Pub. L. 107–77, title II, § 207, Nov. 28, 2001, 115 Stat. 778.
 
-Pub. L. 106–553, § 1(a)(2) [title II, § 208], Dec. 21, 2000, 114 Stat. 2762, 2762A–79.
+Pub. L. 106–553, § 1(a)(2) [title II, § 208], Dec. 21, 2000, 114 Stat. 2762, 2762A–79.
 
-Pub. L. 106–113, div. B, § 1000(a)(1) [title II, § 209], Nov. 29, 1999, 113 Stat. 1535, 1501A–33.
+Pub. L. 106–113, div. B, § 1000(a)(1) [title II, § 209], Nov. 29, 1999, 113 Stat. 1535, 1501A–33.
 
-Pub. L. 105–277, div. A, § 101(b) [title II, § 209], Oct. 21, 1998, 112 Stat. 2681–50, 2681–87.
+Pub. L. 105–277, div. A, § 101(b) [title II, § 209], Oct. 21, 1998, 112 Stat. 2681–50, 2681–87.
 
 **Department of the Interior Franchise Fund Pilot**
 
-Pub. L. 104–208, div. A, title I, § 101(d) [title I, § 113], Sept. 30, 1996, 110 Stat. 3009–181, 3009–200, as amended by Pub. L. 108–7, div. F, title I, § 149, Feb. 20, 2003, 117 Stat. 245, provided that: “There is hereby established in the Treasury a franchise fund pilot, as authorized by section 403 of Public Law 103–356 [set out below], to be available as provided in such section for costs of capitalizing and operating administrative services as the Secretary determines may be performed more advantageously as central services: *Provided*, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made prior to the current year for the purpose of providing capital shall be used to capitalize such fund: *Provided further*, That such fund may be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automatic data processing (ADP) software and systems (either acquired or donated) and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: *Provided further*, That such fund shall provide services on a competitive basis: *Provided further*, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of Department financial management, ADP, and other support systems: *Provided further*, That no later than thirty days after the end of each fiscal year amounts in excess of this reserve limitation shall be transferred to the Treasury: *Provided further*, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356.”
+Pub. L. 104–208, div. A, title I, § 101(d) [title I, § 113], Sept. 30, 1996, 110 Stat. 3009–181, 3009–200, as amended by Pub. L. 108–7, div. F, title I, § 149, Feb. 20, 2003, 117 Stat. 245, provided that: “There is hereby established in the Treasury a franchise fund pilot, as authorized by section 403 of Public Law 103–356 [set out below], to be available as provided in such section for costs of capitalizing and operating administrative services as the Secretary determines may be performed more advantageously as central services: *Provided*, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made prior to the current year for the purpose of providing capital shall be used to capitalize such fund: *Provided further*, That such fund may be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automatic data processing (ADP) software and systems (either acquired or donated) and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: *Provided further*, That such fund shall provide services on a competitive basis: *Provided further*, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of Department financial management, ADP, and other support systems: *Provided further*, That no later than thirty days after the end of each fiscal year amounts in excess of this reserve limitation shall be transferred to the Treasury: *Provided further*, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356.”
 
 **Department of Veterans Affairs Franchise Fund Pilot**
 
-Pub. L. 108–447, div. I, title I, § 108, Dec. 8, 2004, 118 Stat. 3292, provided that: “Notwithstanding any other provision of law, the Department of Veterans Affairs shall continue the Franchise Fund pilot program authorized to be established by section 403 of Public Law 103–356 [set out below] until October 1, 2005: *Provided*, That the Franchise Fund, established by title I of Public Law 104–204 [set out as a note under section 301 of Title 38, Veterans’ Benefits] to finance the operations of the Franchise Fund pilot program, shall continue until October 1, 2005.”
+Pub. L. 108–447, div. I, title I, § 108, Dec. 8, 2004, 118 Stat. 3292, provided that: “Notwithstanding any other provision of law, the Department of Veterans Affairs shall continue the Franchise Fund pilot program authorized to be established by section 403 of Public Law 103–356 [set out below] until October 1, 2005: *Provided*, That the Franchise Fund, established by title I of Public Law 104–204 [set out as a note under section 301 of Title 38, Veterans’ Benefits] to finance the operations of the Franchise Fund pilot program, shall continue until October 1, 2005.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 108–199, div. G, title I, § 108, Jan. 23, 2004, 118 Stat. 369.
+Pub. L. 108–199, div. G, title I, § 108, Jan. 23, 2004, 118 Stat. 369.
 
-Pub. L. 108–7, div. K, title I, § 108, Feb. 20, 2003, 117 Stat. 481.
+Pub. L. 108–7, div. K, title I, § 108, Feb. 20, 2003, 117 Stat. 481.
 
-Pub. L. 107–73, title I, § 108, Nov. 26, 2001, 115 Stat. 658.
+Pub. L. 107–73, title I, § 108, Nov. 26, 2001, 115 Stat. 658.
 
 **Department of Homeland Security Working Capital Fund**
 
-Pub. L. 115–31, div. F, title V, § 504, May 5, 2017, 131 Stat. 425, provided that: “The Department of Homeland Security Working Capital Fund, established pursuant to section 403 of Public Law 103–356 (31 U.S.C. 501 note), shall continue operations as a permanent working capital fund for fiscal year 2017: *Provided*, That none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to make payments to the Working Capital Fund, except for the activities and amounts allowed in the President’s fiscal year 2017 budget: *Provided further*, That funds provided to the Working Capital Fund shall be available for obligation until expended to carry out the purposes of the Working Capital Fund: *Provided further*, That all departmental components shall be charged only for direct usage of each Working Capital Fund service: *Provided further*, That funds provided to the Working Capital Fund shall be used only for purposes consistent with the contributing component: *Provided further*, That the Working Capital Fund shall be paid in advance or reimbursed at rates which will return the full cost of each service: *Provided further*, That the Committees on Appropriations of the Senate and the House of Representatives shall be notified of any activity added to or removed from the fund: *Provided further*, That for any activity added to the fund, the notification shall identify sources of funds by program, project, and activity: *Provided further*, That the Chief Financial Officer of the Department of Homeland Security shall submit a quarterly execution report with activity-level detail, not later than 30 days after the end of each quarter.”
+Pub. L. 115–31, div. F, title V, § 504, May 5, 2017, 131 Stat. 425, provided that: “The Department of Homeland Security Working Capital Fund, established pursuant to section 403 of Public Law 103–356 (31 U.S.C. 501 note), shall continue operations as a permanent working capital fund for fiscal year 2017: *Provided*, That none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to make payments to the Working Capital Fund, except for the activities and amounts allowed in the President’s fiscal year 2017 budget: *Provided further*, That funds provided to the Working Capital Fund shall be available for obligation until expended to carry out the purposes of the Working Capital Fund: *Provided further*, That all departmental components shall be charged only for direct usage of each Working Capital Fund service: *Provided further*, That funds provided to the Working Capital Fund shall be used only for purposes consistent with the contributing component: *Provided further*, That the Working Capital Fund shall be paid in advance or reimbursed at rates which will return the full cost of each service: *Provided further*, That the Committees on Appropriations of the Senate and the House of Representatives shall be notified of any activity added to or removed from the fund: *Provided further*, That for any activity added to the fund, the notification shall identify sources of funds by program, project, and activity: *Provided further*, That the Chief Financial Officer of the Department of Homeland Security shall submit a quarterly execution report with activity-level detail, not later than 30 days after the end of each quarter.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 114–113, div. F, title V, § 504, Dec. 18, 2015, 129 Stat. 2512.
+Pub. L. 114–113, div. F, title V, § 504, Dec. 18, 2015, 129 Stat. 2512.
 
-Pub. L. 114–4, title V, § 504, Mar. 4, 2015, 129 Stat. 62.
+Pub. L. 114–4, title V, § 504, Mar. 4, 2015, 129 Stat. 62.
 
-Pub. L. 113–76, div. F, title V, § 504, Jan. 17, 2014, 128 Stat. 270.
+Pub. L. 113–76, div. F, title V, § 504, Jan. 17, 2014, 128 Stat. 270.
 
-Pub. L. 113–6, div. D, title V, § 504, Mar. 26, 2013, 127 Stat. 367.
+Pub. L. 113–6, div. D, title V, § 504, Mar. 26, 2013, 127 Stat. 367.
 
-Pub. L. 112–74, div. D, title V, § 504, Dec. 23, 2011, 125 Stat. 969.
+Pub. L. 112–74, div. D, title V, § 504, Dec. 23, 2011, 125 Stat. 969.
 
-Pub. L. 111–83, title V, § 504, Oct. 28, 2009, 123 Stat. 2169.
+Pub. L. 111–83, title V, § 504, Oct. 28, 2009, 123 Stat. 2169.
 
-Pub. L. 110–329, div. D, title V, § 504, Sept. 30, 2008, 122 Stat. 3680.
+Pub. L. 110–329, div. D, title V, § 504, Sept. 30, 2008, 122 Stat. 3680.
 
-Pub. L. 110–161, div. E, title V, § 524, Dec. 26, 2007, 121 Stat. 2074.
+Pub. L. 110–161, div. E, title V, § 524, Dec. 26, 2007, 121 Stat. 2074.
 
-Pub. L. 109–295, title V, § 526, Oct. 4, 2006, 120 Stat. 1382.
+Pub. L. 109–295, title V, § 526, Oct. 4, 2006, 120 Stat. 1382.
 
-Pub. L. 119–86, div. A, title V, § 504, Apr. 30, 2026, 140 Stat. 797, provided that:
+Pub. L. 119–86, div. A, title V, § 504, Apr. 30, 2026, 140 Stat. 797, provided that:
 
 > **“(a)** Section 504 of the Department of Homeland Security Appropriations Act, 2017 (division F of Public Law 115–31) [set out above], related to the operations of a working capital fund, shall apply with respect to funds made available in this Act [div. A of Pub. L. 119–86, see Tables for classification] in the same manner as such section applied to funds made available in that Act.
 
@@ -639,25 +639,25 @@ Pub. L. 119–86, div. A, title V, § 504, Apr. 30, 2026, 140 Stat. 797, provi
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 118–47, div. C, title V, § 504, Mar. 23, 2024, 138 Stat. 615.
+Pub. L. 118–47, div. C, title V, § 504, Mar. 23, 2024, 138 Stat. 615.
 
-Pub. L. 117–328, div. F, title V, § 504, Dec. 29, 2022, 136 Stat. 4749.
+Pub. L. 117–328, div. F, title V, § 504, Dec. 29, 2022, 136 Stat. 4749.
 
-Pub. L. 117–103, div. F, title V, § 504, Mar. 15, 2022, 136 Stat. 335.
+Pub. L. 117–103, div. F, title V, § 504, Mar. 15, 2022, 136 Stat. 335.
 
-Pub. L. 116–260, div. F, title V, § 504, Dec. 27, 2020, 134 Stat. 1469.
+Pub. L. 116–260, div. F, title V, § 504, Dec. 27, 2020, 134 Stat. 1469.
 
-Pub. L. 116–93, div. D, title V, § 504, Dec. 20, 2019, 133 Stat. 2526.
+Pub. L. 116–93, div. D, title V, § 504, Dec. 20, 2019, 133 Stat. 2526.
 
-Pub. L. 116–6, div. A, title V, § 504, Feb. 15, 2019, 133 Stat. 38.
+Pub. L. 116–6, div. A, title V, § 504, Feb. 15, 2019, 133 Stat. 38.
 
-Pub. L. 115–141, div. F, title V, § 504, Mar. 23, 2018, 132 Stat. 626.
+Pub. L. 115–141, div. F, title V, § 504, Mar. 23, 2018, 132 Stat. 626.
 
-Pub. L. 109–13, div. A, title VI, § 6025, May 11, 2005, 119 Stat. 287, provided that: “The Department of Homeland Security shall henceforth provide an appropriations justification for the ‘Department of Homeland Security Working Capital Fund’ to the Committees on Appropriations of the Senate and House of Representatives: *Provided*, That an annual appropriations justification shall be submitted to the Congress as a part of the President’s budget as submitted under section 1105(a) of Title 31, United States Code, and shall contain the same level of detail as the Department’s Congressional appropriations justification in support of the President’s budget: *Provided further*, That the ‘Department of Homeland Security Working Capital Fund’ Congressional appropriations justification for fiscal year 2006 shall be submitted within 15 days of enactment of this Act [May 11, 2005]: *Provided further*, That the Chief Financial Officer shall ensure that all planned activities and amounts to be funded by the ‘Department of Homeland Security Working Capital Fund’, all reimbursable agreements, and all uses of the Economy Act [31 U.S.C. 1535] are explicitly identified in each Congressional appropriations justification in support of the President’s budget provided for each agency and component of the Department.”
+Pub. L. 109–13, div. A, title VI, § 6025, May 11, 2005, 119 Stat. 287, provided that: “The Department of Homeland Security shall henceforth provide an appropriations justification for the ‘Department of Homeland Security Working Capital Fund’ to the Committees on Appropriations of the Senate and House of Representatives: *Provided*, That an annual appropriations justification shall be submitted to the Congress as a part of the President’s budget as submitted under section 1105(a) of Title 31, United States Code, and shall contain the same level of detail as the Department’s Congressional appropriations justification in support of the President’s budget: *Provided further*, That the ‘Department of Homeland Security Working Capital Fund’ Congressional appropriations justification for fiscal year 2006 shall be submitted within 15 days of enactment of this Act [May 11, 2005]: *Provided further*, That the Chief Financial Officer shall ensure that all planned activities and amounts to be funded by the ‘Department of Homeland Security Working Capital Fund’, all reimbursable agreements, and all uses of the Economy Act [31 U.S.C. 1535] are explicitly identified in each Congressional appropriations justification in support of the President’s budget provided for each agency and component of the Department.”
 
-Pub. L. 108–90, title V, § 506, Oct. 1, 2003, 117 Stat. 1153, provided in part: “That such fund [Federal Emergency Management Agency Working Capital Fund] shall hereafter be known as the ‘Department of Homeland Security Working Capital Fund’.”
+Pub. L. 108–90, title V, § 506, Oct. 1, 2003, 117 Stat. 1153, provided in part: “That such fund [Federal Emergency Management Agency Working Capital Fund] shall hereafter be known as the ‘Department of Homeland Security Working Capital Fund’.”
 
-Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915, as amended by Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410, provided in part: “For the establishment of a working capital fund for the Federal Emergency Management Agency, to be available without fiscal year limitation, for expenses and equipment necessary for maintenance and operations of such administrative services as the Administrator determines may be performed more advantageously as central services: *Provided*, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize such fund: *Provided further*, That such fund shall be reimbursed or credited with advance payments from applicable appropriations and funds of the Federal Emergency Management Agency, other Federal agencies, and other sources authorized by law for which such centralized services are performed, including supplies, materials, and services, at rates that will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve as determined by the Administrator: *Provided further*, That income of such fund may be retained, to remain available until expended, for purposes of the fund: *Provided further*, That fees for services shall be established by the Administrator at a level to cover the total estimated costs of providing such services, such fees to be deposited in the fund shall remain available until expended for purposes of the fund: *Provided further*, That such fund shall terminate in a manner consistent with section 403(f) of Public Law 103–356 [set out below].”
+Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915, as amended by Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410, provided in part: “For the establishment of a working capital fund for the Federal Emergency Management Agency, to be available without fiscal year limitation, for expenses and equipment necessary for maintenance and operations of such administrative services as the Administrator determines may be performed more advantageously as central services: *Provided*, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize such fund: *Provided further*, That such fund shall be reimbursed or credited with advance payments from applicable appropriations and funds of the Federal Emergency Management Agency, other Federal agencies, and other sources authorized by law for which such centralized services are performed, including supplies, materials, and services, at rates that will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve as determined by the Administrator: *Provided further*, That income of such fund may be retained, to remain available until expended, for purposes of the fund: *Provided further*, That fees for services shall be established by the Administrator at a level to cover the total estimated costs of providing such services, such fees to be deposited in the fund shall remain available until expended for purposes of the fund: *Provided further*, That such fund shall terminate in a manner consistent with section 403(f) of Public Law 103–356 [set out below].”
 
 [For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.]
 
@@ -665,7 +665,7 @@ Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915, as amended by Pub.
 
 **Franchise Fund Pilot Programs**
 
-Pub. L. 103–356, title IV, § 403, Oct. 13, 1994, 108 Stat. 3413, as amended by Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 627], Sept. 30, 1996, 110 Stat. 3009–314, 3009–360; Pub. L. 107–67, title VI, § 634, Nov. 12, 2001, 115 Stat. 553; Pub. L. 108–7, div. J, title VI, § 633, Feb. 20, 2003, 117 Stat. 471; Pub. L. 108–136, div. A, title XIV, § 1426, Nov. 24, 2003, 117 Stat. 1670; Pub. L. 108–199, div. F, title VI, § 632, Jan. 23, 2004, 118 Stat. 357; Pub. L. 108–447, div. H, title VI, § 632, Dec. 8, 2004, 118 Stat. 3280; Pub. L. 109–90, title V, § 539, Oct. 18, 2005, 119 Stat. 2088; Pub. L. 109–115, div. A, title VIII, § 831, Nov. 30, 2005, 119 Stat. 2503; Pub. L. 110–161, div. D, title VII, § 730, Dec. 26, 2007, 121 Stat. 2026, provided that:
+Pub. L. 103–356, title IV, § 403, Oct. 13, 1994, 108 Stat. 3413, as amended by Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 627], Sept. 30, 1996, 110 Stat. 3009–314, 3009–360; Pub. L. 107–67, title VI, § 634, Nov. 12, 2001, 115 Stat. 553; Pub. L. 108–7, div. J, title VI, § 633, Feb. 20, 2003, 117 Stat. 471; Pub. L. 108–136, div. A, title XIV, § 1426, Nov. 24, 2003, 117 Stat. 1670; Pub. L. 108–199, div. F, title VI, § 632, Jan. 23, 2004, 118 Stat. 357; Pub. L. 108–447, div. H, title VI, § 632, Dec. 8, 2004, 118 Stat. 3280; Pub. L. 109–90, title V, § 539, Oct. 18, 2005, 119 Stat. 2088; Pub. L. 109–115, div. A, title VIII, § 831, Nov. 30, 2005, 119 Stat. 2503; Pub. L. 110–161, div. D, title VII, § 730, Dec. 26, 2007, 121 Stat. 2026, provided that:
 
 > **“(a) Establishment.—** There is authorized to be established on a pilot program basis in each of six executive agencies a franchise fund. The Director of the Office of Management and Budget, after consultation with the chairman and ranking members of the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Operations [now Committee on Oversight and Accountability] of the House of Representatives, shall designate the agencies.
 
@@ -693,17 +693,17 @@ Pub. L. 103–356, title IV, § 403, Oct. 13, 1994, 108 Stat. 3413, as amended
 
 > **“(f) Termination of Certain Authority.—** The authority of the Secretary of Homeland Security to carry out a pilot program under this section shall terminate on October 1, 2008.”
 
-[Pub. L. 109–289, div. B, title II, § 21068, as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 57, provided that: “Section 403(f) of Public Law 103–356 (31 U.S.C. 501 note) shall be applied by substituting the date specified in section 106 of this division [Sept. 30, 2007] for ‘October 1, 2006’.” ]
+[Pub. L. 109–289, div. B, title II, § 21068, as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 57, provided that: “Section 403(f) of Public Law 103–356 (31 U.S.C. 501 note) shall be applied by substituting the date specified in section 106 of this division [Sept. 30, 2007] for ‘October 1, 2006’.” ]
 
-[Pub. L. 109–115, div. A, title VIII, § 831, Nov. 30, 2005, 119 Stat. 2503, provided in part: “That this provision [amending section 403(f) of Pub. L. 103–356, set out above, by substituting “October 1, 2006” for “October 1, 2005”] shall not apply to the Department of Homeland Security.” ]
+[Pub. L. 109–115, div. A, title VIII, § 831, Nov. 30, 2005, 119 Stat. 2503, provided in part: “That this provision [amending section 403(f) of Pub. L. 103–356, set out above, by substituting “October 1, 2006” for “October 1, 2005”] shall not apply to the Department of Homeland Security.” ]
 
-[Pub. L. 109–90, title V, § 539, Oct. 18, 2005, 119 Stat. 2088, amended section 403(f) of Pub. L. 103–356, set out above, by substituting “October 1, 2006” for “October 1, 2005”, for activities related to the Department of Homeland Security Working Capital Fund.]
+[Pub. L. 109–90, title V, § 539, Oct. 18, 2005, 119 Stat. 2088, amended section 403(f) of Pub. L. 103–356, set out above, by substituting “October 1, 2006” for “October 1, 2005”, for activities related to the Department of Homeland Security Working Capital Fund.]
 
-[Pub. L. 108–199, div. F, title VI, § 632, Jan. 23, 2004, 118 Stat. 357, which directed the amendment of subsec. (f) of section 403 of Pub. L. 103–356, set out above, by substituting “October 1, 2004” for “October 1, 2003”, was executed by making the substitution for “December 31, 2004” to reflect the probable intent of Congress.]
+[Pub. L. 108–199, div. F, title VI, § 632, Jan. 23, 2004, 118 Stat. 357, which directed the amendment of subsec. (f) of section 403 of Pub. L. 103–356, set out above, by substituting “October 1, 2004” for “October 1, 2003”, was executed by making the substitution for “December 31, 2004” to reflect the probable intent of Congress.]
 
 **Simplification of Management Reporting Process**
 
-Pub. L. 103–356, title IV, § 404, Oct. 13, 1994, 108 Stat. 3414, as amended by Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 646], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366; Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 241], Nov. 29, 1999, 113 Stat. 1536, 1501A–303, provided that:
+Pub. L. 103–356, title IV, § 404, Oct. 13, 1994, 108 Stat. 3414, as amended by Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 646], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366; Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 241], Nov. 29, 1999, 113 Stat. 1536, 1501A–303, provided that:
 
 > **“(a) In General.—** To improve the efficiency of executive branch performance in implementing statutory requirements for financial management reporting to the Congress and its committees, the Director of the Office of Management and Budget may adjust the frequency and due dates of or consolidate any statutorily required reports of agencies to the Office of Management and Budget or the President and of agencies or the Office of Management and Budget to the Congress under any laws for which the Office of Management and Budget has financial management responsibility, including—
 
@@ -721,7 +721,7 @@ Pub. L. 103–356, title IV, § 404, Oct. 13, 1994, 108 Stat. 3414, as amended
 
 **Findings and Purposes of Chief Financial Officers Act of 1990**
 
-Pub. L. 101–576, title I, § 102, Nov. 15, 1990, 104 Stat. 2838, provided that:
+Pub. L. 101–576, title I, § 102, Nov. 15, 1990, 104 Stat. 2838, provided that:
 
 > **“(a) Findings.—** The Congress finds the following:
 
@@ -747,7 +747,7 @@ Pub. L. 101–576, title I, § 102, Nov. 15, 1990, 104 Stat. 2838, provided th
 
 **Duties and Functions of Department of the Treasury**
 
-Pub. L. 101–576, title II, § 204, Nov. 15, 1990, 104 Stat. 2842, provided that: “Nothing in this Act [see Short Title of 1990 Amendment note above] shall be construed to interfere with the exercise of the functions, duties, and responsibilities of the Department of the Treasury, as in effect immediately before the enactment of this Act [Nov. 15, 1990].”
+Pub. L. 101–576, title II, § 204, Nov. 15, 1990, 104 Stat. 2842, provided that: “Nothing in this Act [see Short Title of 1990 Amendment note above] shall be construed to interfere with the exercise of the functions, duties, and responsibilities of the Department of the Treasury, as in effect immediately before the enactment of this Act [Nov. 15, 1990].”
 
 **Executive Documents**
 
@@ -757,7 +757,7 @@ For assignment of certain emergency preparedness functions to Director of the Of
 
 **REORGANIZATION PLAN NO. 2 OF 1970**
 
-**Eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, as amended Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1085**
+**Eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, as amended Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1085**
 
 Prepared by the President and Transmitted to the Senate and the House of Representatives in Congress Assembled March 12, 1970, Pursuant to the Provisions of Chapter 9 of Title 5 of the United States Code.
 
@@ -770,11 +770,11 @@ There are hereby transferred to the President of the United States all functions
 
 **Sec. 102. Office of Management and Budget**
 
-[Repealed. Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1085. Section designated the Bureau of the Budget as the Office of Management and Budget, provided for the officers and their duties, and provided for performance of the duties of the Director in the event of absence or disability or a vacancy in the office of Director.]
+[Repealed. Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1085. Section designated the Bureau of the Budget as the Office of Management and Budget, provided for the officers and their duties, and provided for performance of the duties of the Director in the event of absence or disability or a vacancy in the office of Director.]
 
 **Sec. 103. Records, Property, Personnel, and Funds**
 
-[Repealed. Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1085. Section provided that the records, property, personnel, and unexpended balances etc., of the Bureau of the Budget shall become those of the Office of Management and Budget.]
+[Repealed. Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1085. Section provided that the records, property, personnel, and unexpended balances etc., of the Bureau of the Budget shall become those of the Office of Management and Budget.]
 
 **PART II. DOMESTIC COUNCIL**
 
@@ -940,7 +940,7 @@ The White House, March 12, 1970.
 
 **Abolition of Domestic Council**
 
-Domestic Council, established by Reorg. Plan No. 2 of 1970, § 201, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2086, set out above, abolished by Reorg. Plan No. 1 of 1977, § 3, 42 F.R. 56101, 91 Stat. 1633, set out in the Appendix to Title 5, Government Organization and Employees, effective on or before Apr. 1, 1978, at such time as specified by President. Section 5D of Reorg. Plan No. 1 of 1977 transferred all functions vested in Domestic Council to President with power to delegate performance of such transferred functions within Executive Office of President.
+Domestic Council, established by Reorg. Plan No. 2 of 1970, § 201, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2086, set out above, abolished by Reorg. Plan No. 1 of 1977, § 3, 42 F.R. 56101, 91 Stat. 1633, set out in the Appendix to Title 5, Government Organization and Employees, effective on or before Apr. 1, 1978, at such time as specified by President. Section 5D of Reorg. Plan No. 1 of 1977 transferred all functions vested in Domestic Council to President with power to delegate performance of such transferred functions within Executive Office of President.
 
 **Ex. Ord. No. 11541. Prescribing Duties of Office of Management and Budget and Domestic Council**
 
@@ -1070,7 +1070,7 @@ Ex. Ord. No. 12149, July 20, 1979, 44 F.R. 43247, which established Federal Regi
 
 **Executive Order No. 12301**
 
-Executive Order No. 12301, Mar. 26, 1981, 46 F.R. 19211, as amended by Ex. Ord. No. 13118, § 10(5), Mar. 31, 1999, 64 F.R. 16598, which established the President’s Council on Integrity and Efficiency in Federal programs, was revoked by Ex. Ord. No. 12625, Jan. 27, 1988, 53 F.R. 2812, formerly set out below.
+Executive Order No. 12301, Mar. 26, 1981, 46 F.R. 19211, as amended by Ex. Ord. No. 13118, § 10(5), Mar. 31, 1999, 64 F.R. 16598, which established the President’s Council on Integrity and Efficiency in Federal programs, was revoked by Ex. Ord. No. 12625, Jan. 27, 1988, 53 F.R. 2812, formerly set out below.
 
 **Executive Order No. 12314**
 
@@ -1126,7 +1126,7 @@ Ex. Ord. No. 12479, May 24, 1984, 49 F.R. 22243, which established President’s
 
 **Executive Order No. 12552**
 
-Ex. Ord. No. 12552, Feb. 25, 1986, 51 F.R. 7041, which provided for establishment of a comprehensive program for improvement of productivity throughout all Executive departments and agencies, was superseded by Ex. Ord. No. 12637, Apr. 27, 1988, 53 F.R. 15349, formerly set out below, and was revoked by Ex. Ord. No. 13048, § 5, June 10, 1997, 62 F.R. 32469, set out below.
+Ex. Ord. No. 12552, Feb. 25, 1986, 51 F.R. 7041, which provided for establishment of a comprehensive program for improvement of productivity throughout all Executive departments and agencies, was superseded by Ex. Ord. No. 12637, Apr. 27, 1988, 53 F.R. 15349, formerly set out below, and was revoked by Ex. Ord. No. 13048, § 5, June 10, 1997, 62 F.R. 32469, set out below.
 
 **Ex. Ord. No. 12615. Performance of Commercial Activities**
 
@@ -1174,7 +1174,7 @@ Ex. Ord. No. 12625, Jan. 27, 1988, 53 F.R. 2812, which established President’s
 
 **Executive Order No. 12637**
 
-Ex. Ord. No. 12637, Apr. 27, 1988, 53 F.R. 15349, which established a productivity improvement program for the Federal Government, was revoked by Ex. Ord. No. 13048, § 5, June 10, 1997, 62 F.R. 32469, set out below.
+Ex. Ord. No. 12637, Apr. 27, 1988, 53 F.R. 15349, which established a productivity improvement program for the Federal Government, was revoked by Ex. Ord. No. 13048, § 5, June 10, 1997, 62 F.R. 32469, set out below.
 
 **Ex. Ord. No. 12803. Infrastructure Privatization**
 
@@ -1224,11 +1224,11 @@ George Bush.
 
 **Executive Order No. 12805**
 
-Ex. Ord. No. 12805, May 11, 1992, 57 F.R. 20627, which related to integrity and efficiency in Federal programs, was omitted from the Code pursuant to Pub. L. 110–409, § 7(c)(2), Oct. 14, 2008, 122 Stat. 4313, formerly set out as a note under section 11 of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees, which provided that Ex. Ord. No. 12805, as in effect before Oct. 14, 2008, was to have no force or effect on and after the earlier of either the date on which the Council of the Inspectors General on Integrity and Efficiency becomes effective and operational or the last day of the 180-day period beginning on Oct. 14, 2008.
+Ex. Ord. No. 12805, May 11, 1992, 57 F.R. 20627, which related to integrity and efficiency in Federal programs, was omitted from the Code pursuant to Pub. L. 110–409, § 7(c)(2), Oct. 14, 2008, 122 Stat. 4313, formerly set out as a note under section 11 of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees, which provided that Ex. Ord. No. 12805, as in effect before Oct. 14, 2008, was to have no force or effect on and after the earlier of either the date on which the Council of the Inspectors General on Integrity and Efficiency becomes effective and operational or the last day of the 180-day period beginning on Oct. 14, 2008.
 
 **Executive Order No. 12816**
 
-Ex. Ord. No. 12816, Oct. 14, 1992, 57 F.R. 47562, which established the President’s Council on Management Improvement and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 13048, § 5, June 10, 1997, 62 F.R. 32469, set out below.
+Ex. Ord. No. 12816, Oct. 14, 1992, 57 F.R. 47562, which established the President’s Council on Management Improvement and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 13048, § 5, June 10, 1997, 62 F.R. 32469, set out below.
 
 **Ex. Ord. No. 12837. Deficit Control and Productivity Improvement in the Administration of the Federal Government**
 
@@ -1344,7 +1344,7 @@ William J. Clinton.
 
 **Ex. Ord. No. 13048. Improving Administrative Management in the Executive Branch**
 
-Ex. Ord. No. 13048, June 10, 1997, 62 F.R. 32467, as amended by Ex. Ord. No. 13284, § 7, Jan. 23, 2003, 68 F.R. 4075, provided:
+Ex. Ord. No. 13048, June 10, 1997, 62 F.R. 32467, as amended by Ex. Ord. No. 13284, § 7, Jan. 23, 2003, 68 F.R. 4075, provided:
 
 Improvement of Government operations is a continuing process that benefits from interagency activities. One group dedicated to such activities is the President’s Council on Management Improvement (PCMI), established by Executive Order 12479 in 1984, reestablished by Executive Order 12816 in 1992. In the intervening years, some activities of the PCMI have been assumed by the President’s Management Council, the Chief Financial Officers Council, and the Chief Information Officers Council. These organizations are also focussed on improving agencies’ use of quality management principles. Other functions have been assigned to individual agencies. Nonetheless, remaining administrative management matters deserve attention across agency lines.
 
@@ -1740,11 +1740,11 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 Throughout the campaign and in my Budget, I have called for “active, but limited” Government: one that empowers States, cities, and citizens to make decisions; ensures results through accountability; and promotes innovation through competition. Thus, if reform is to help the Federal Government adapt to a rapidly changing world, its primary objectives must be a Government that is:
 
-• Citizen-centered—not bureaucracy centered;
+• Citizen-centered—not bureaucracy centered;
 
-• Results-oriented—not process-oriented; and
+• Results-oriented—not process-oriented; and
 
-• Market-based—actively promoting, not stifling, innovation and competition.
+• Market-based—actively promoting, not stifling, innovation and competition.
 
 In order to establish and implement Government reform throughout the executive branch, I hereby direct the following:
 
@@ -1898,7 +1898,7 @@ Accordingly, I direct the following:
 
 Barack Obama.
 
-### § 502. Officers
+### § 502. Officers
 
 **(a)** The head of the Office of Management and Budget is the Director of the Office of Management and Budget. The Director is appointed by the President, by and with the advice and consent of the Senate. Under the direction of the President, the Director shall administer the Office.
 
@@ -1916,17 +1916,17 @@ Barack Obama.
 
 **(f)** When the Director and Deputy Director are absent or unable to serve or when the offices of Director and Deputy Director are vacant, the President may designate an officer of the Office to act as Director.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 886; Pub. L. 101–576, title II, § 201, Nov. 15, 1990, 104 Stat. 2839.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 886; Pub. L. 101–576, title II, § 201, Nov. 15, 1990, 104 Stat. 2839.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 502(a) | 31:16(2d sentence related to Director). | June 10, 1921, ch. 18, § 207(2d, 3d sentences), 42 Stat. 22; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; July 31, 1953, ch. 302, § 101(1st proviso in par. under heading “Bureau of the Budget”), 67 Stat. 299; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), (b), (d), (e), (f)(less words between parentheses), 84 Stat. 2085; Mar. 2, 1974, Pub. L. 93–250, § 1, 88 Stat. 11. |
+| 502(a) | 31:16(2d sentence related to Director). | June 10, 1921, ch. 18, § 207(2d, 3d sentences), 42 Stat. 22; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; July 31, 1953, ch. 302, § 101(1st proviso in par. under heading “Bureau of the Budget”), 67 Stat. 299; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), (b), (d), (e), (f)(less words between parentheses), 84 Stat. 2085; Mar. 2, 1974, Pub. L. 93–250, § 1, 88 Stat. 11. |
 | 502(b) | 31:16(2d sentence related to Deputy Director, 3d sentence). |  |
-| 502(c) | 31:16a. | Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; July 31, 1953, ch. 302, § 101(last proviso in par. under heading “Bureau of the Budget”), 67 Stat. 299; Sept. 6, 1966, Pub. L. 89–554, § 8(a), 80 Stat. 657; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(b), (e), 84 Stat. 2085. |
-|  | 31:16c. | Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Aug. 1, 1956, ch. 838, 70 Stat. 887; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(b), (e), 84 Stat. 2085. |
-| 502(d), (e) | 31:16(note). | Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(c)(words before last comma), (e), (f)(words between parentheses), 84 Stat. 2085. |
+| 502(c) | 31:16a. | Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; July 31, 1953, ch. 302, § 101(last proviso in par. under heading “Bureau of the Budget”), 67 Stat. 299; Sept. 6, 1966, Pub. L. 89–554, § 8(a), 80 Stat. 657; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(b), (e), 84 Stat. 2085. |
+|  | 31:16c. | Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Aug. 1, 1956, ch. 838, 70 Stat. 887; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(b), (e), 84 Stat. 2085. |
+| 502(d), (e) | 31:16(note). | Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(c)(words before last comma), (e), (f)(words between parentheses), 84 Stat. 2085. |
 
 In subsections (a) and (b), the words related to salaries in section 207 of the Budget and Accounting Act, 1921 (ch. 18, 42 Stat. 22), are omitted as covered by 5:5313(11) and 5314(34).
 
@@ -1946,7 +1946,7 @@ In subsection (e), the words “When the Director and Deputy Director are absent
 
 1990—Subsecs. (c) to (f). Pub. L. 101–576 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
-### § 503. Functions of Deputy Director for Management
+### § 503. Functions of Deputy Director for Management
 
 **(a)** Subject to the direction and approval of the Director, the Deputy Director for Management shall establish governmentwide financial management policies for executive agencies and shall perform the following financial management functions:
 
@@ -2046,7 +2046,7 @@ In subsection (e), the words “When the Director and Deputy Director are absent
 
 **(B)** policy, guidance, or instruction of the Department related to program management.
 
-(Added Pub. L. 101–576, title II, § 202(b), Nov. 15, 1990, 104 Stat. 2839; amended Pub. L. 103–272, § 4(f)(1)(B), July 5, 1994, 108 Stat. 1361; Pub. L. 106–58, title VI, § 638(g), Sept. 29, 1999, 113 Stat. 476; Pub. L. 107–347, title I, § 102(b), Dec. 17, 2002, 116 Stat. 2910; Pub. L. 114–264, § 2(a)(1), Dec. 14, 2016, 130 Stat. 1371; Pub. L. 114–328, div. A, title VIII, § 861(a)(1), Dec. 23, 2016, 130 Stat. 2298; Pub. L. 115–91, div. A, title VIII, § 810(a), Dec. 12, 2017, 131 Stat. 1458.)
+(Added Pub. L. 101–576, title II, § 202(b), Nov. 15, 1990, 104 Stat. 2839; amended Pub. L. 103–272, § 4(f)(1)(B), July 5, 1994, 108 Stat. 1361; Pub. L. 106–58, title VI, § 638(g), Sept. 29, 1999, 113 Stat. 476; Pub. L. 107–347, title I, § 102(b), Dec. 17, 2002, 116 Stat. 2910; Pub. L. 114–264, § 2(a)(1), Dec. 14, 2016, 130 Stat. 1371; Pub. L. 114–328, div. A, title VIII, § 861(a)(1), Dec. 23, 2016, 130 Stat. 2298; Pub. L. 115–91, div. A, title VIII, § 810(a), Dec. 12, 2017, 131 Stat. 1458.)
 
 **Editorial Notes**
 
@@ -2068,9 +2068,9 @@ Pub. L. 114–264 added subsec. (c).
 
 2002—Subsec. (b)(5) to (10). Pub. L. 107–347 added par. (5) and redesignated former pars. (5) to (9) as (6) to (10), respectively.
 
-1999—Subsec. (a)(7). Pub. L. 106–58, § 638(g)(1), substituted “respectively (excluding any officer designated or appointed under section 901(c)).” for “respectively.”
+1999—Subsec. (a)(7). Pub. L. 106–58, § 638(g)(1), substituted “respectively (excluding any officer designated or appointed under section 901(c)).” for “respectively.”
 
-Subsec. (a)(8). Pub. L. 106–58, § 638(g)(2), substituted “Officers (excluding any officer designated or appointed under section 901(c)).” for “Officers.”
+Subsec. (a)(8). Pub. L. 106–58, § 638(g)(2), substituted “Officers (excluding any officer designated or appointed under section 901(c)).” for “Officers.”
 
 1994—Subsec. (b)(9). Pub. L. 103–272 substituted “Perform” for “perform”.
 
@@ -2082,19 +2082,19 @@ Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see secti
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–58, title VI, § 638(h), Sept. 29, 1999, 113 Stat. 476, provided that: “This section [amending this section and sections 901 and 1105 of this title and enacting provisions set out as a note under section 901 of this title] shall take effect at noon on January 20, 2001.”
+Pub. L. 106–58, title VI, § 638(h), Sept. 29, 1999, 113 Stat. 476, provided that: “This section [amending this section and sections 901 and 1105 of this title and enacting provisions set out as a note under section 901 of this title] shall take effect at noon on January 20, 2001.”
 
 **Issuance of Standards, Policies, and Guidelines for Program and Project Management; Regulations**
 
-Pub. L. 114–264, § 2(a)(2), (3), Dec. 14, 2016, 130 Stat. 1372, provided that:
+Pub. L. 114–264, § 2(a)(2), (3), Dec. 14, 2016, 130 Stat. 1372, provided that:
 
 > **“(2) Deadline for standards, policies, and guidelines.—** Not later than 1 year after the date of enactment of this Act [Dec. 14, 2016], the Deputy Director for Management of the Office of Management and Budget shall issue the standards, policies, and guidelines required under section 503(c) of title 31, United States Code, as added by paragraph (1).
 
 > **“(3) Regulations.—** Not later than 90 days after the date on which the standards, policies, and guidelines are issued under paragraph (2), the Deputy Director for Management of the Office of Management and Budget, in consultation with the Program Management Policy Council established under section 1126(b) of title 31, United States Code, as added by subsection (b)(1), and the Director of the Office of Management and Budget, shall issue any regulations as are necessary to implement the requirements of section 503(c) of title 31, United States Code, as added by paragraph (1).”
 
-Similar provisions were contained in Pub. L. 114–328, div. A, title VIII, § 861(a)(2), (3), Dec. 23, 2016, 130 Stat. 2299, prior to repeal by Pub. L. 115–91, div. A, title VIII, § 810(c), Dec. 12, 2017, 131 Stat. 1458.
+Similar provisions were contained in Pub. L. 114–328, div. A, title VIII, § 861(a)(2), (3), Dec. 23, 2016, 130 Stat. 2299, prior to repeal by Pub. L. 115–91, div. A, title VIII, § 810(c), Dec. 12, 2017, 131 Stat. 1458.
 
-### § 504. Office of Federal Financial Management
+### § 504. Office of Federal Financial Management
 
 **(a)** There is established in the Office of Management and Budget an office to be known as the “Office of Federal Financial Management”. The Office of Federal Financial Management, under the direction and control of the Deputy Director for Management of the Office of Management and Budget, shall carry out the financial management functions listed in section 503(a) of this title.
 
@@ -2106,7 +2106,7 @@ Similar provisions were contained in Pub. L. 114–328, div. A, title VIII, §�
 
 **(c)** The Controller of the Office of Federal Financial Management shall be the deputy and principal advisor to the Deputy Director for Management in the performance by the Deputy Director for Management of functions described in section 503(a).
 
-(Added Pub. L. 101–576, title II, § 203(a), Nov. 15, 1990, 104 Stat. 2841.)
+(Added Pub. L. 101–576, title II, § 203(a), Nov. 15, 1990, 104 Stat. 2841.)
 
 **Editorial Notes**
 
@@ -2114,11 +2114,11 @@ Similar provisions were contained in Pub. L. 114–328, div. A, title VIII, §�
 
 A prior section 504 was renumbered section 506 of this title.
 
-### § 505. Office of Information and Regulatory Affairs
+### § 505. Office of Information and Regulatory Affairs
 
 The Office of Information and Regulatory Affairs, established under section 3503 of title 44, is an office in the Office of Management and Budget.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 886, § 503; renumbered § 505, Pub. L. 101–576, title II, § 202(a), Nov. 15, 1990, 104 Stat. 2839.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 886, § 503; renumbered § 505, Pub. L. 101–576, title II, § 202(a), Nov. 15, 1990, 104 Stat. 2839.)
 
 **Historical and Revision Notes**
 
@@ -2134,11 +2134,11 @@ The section is included to provide in subchapter I of chapter 5 of the revised t
 
 1990—Pub. L. 101–576 renumbered section 503 of this title as this section.
 
-### § 506. Office of Federal Procurement Policy
+### § 506. Office of Federal Procurement Policy
 
 The Office of Federal Procurement Policy, established under section 1101(a) of title 41, is an office in the Office of Management and Budget.
 
-(Added Pub. L. 97–452, § 1(1)(A), Jan. 12, 1983, 96 Stat. 2467, § 504; renumbered § 506, Pub. L. 101–576, title II, § 202(a), Nov. 15, 1990, 104 Stat. 2839; amended Pub. L. 111–350, § 5(h)(1), Jan. 4, 2011, 124 Stat. 3848.)
+(Added Pub. L. 97–452, § 1(1)(A), Jan. 12, 1983, 96 Stat. 2467, § 504; renumbered § 506, Pub. L. 101–576, title II, § 202(a), Nov. 15, 1990, 104 Stat. 2839; amended Pub. L. 111–350, § 5(h)(1), Jan. 4, 2011, 124 Stat. 3848.)
 
 **Historical and Revision Notes**
 
@@ -2156,11 +2156,11 @@ The section is included to provide in subchapter I of chapter 5 of title 31 a co
 
 1990—Pub. L. 101–576 renumbered section 504 of this title as this section.
 
-### § 507. Office of Electronic Government
+### § 507. Office of Electronic Government
 
 The Office of Electronic Government, established under section 3602 of title 44, is an office in the Office of Management and Budget.
 
-(Added Pub. L. 107–347, title I, § 102(c)(1), Dec. 17, 2002, 116 Stat. 2910.)
+(Added Pub. L. 107–347, title I, § 102(c)(1), Dec. 17, 2002, 116 Stat. 2910.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2170,7 +2170,7 @@ Section effective 120 days after Dec. 17, 2002, see section 402(a)(1) of Pub. L.
 
 ## SUBCHAPTER II—ADMINISTRATIVE
 
-### § 521. Employees
+### § 521. Employees
 
 The Director of the Office of Management and Budget shall appoint and fix the pay of employees of the Office under regulations prescribed by the President.
 
@@ -2180,11 +2180,11 @@ The Director of the Office of Management and Budget shall appoint and fix the pa
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 521 | 31:17(a)(related to employees). | June 10, 1921, ch. 18, § 208(a)(related to employees), 42 Stat. 22; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+| 521 | 31:17(a)(related to employees). | June 10, 1921, ch. 18, § 208(a)(related to employees), 42 Stat. 22; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
 
 The words “attorneys and other” are omitted as being included in “employees”.
 
-### § 522. Necessary expenditures
+### § 522. Necessary expenditures
 
 The Director of the Office of Management and Budget may make necessary expenditures for the Office under regulations prescribed by the President.
 
@@ -2194,6 +2194,6 @@ The Director of the Office of Management and Budget may make necessary expenditu
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 522 | 31:17(a)(related to expenses). | June 10, 1921, ch. 18, § 208(a)(related to expenses), 42 Stat. 22; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+| 522 | 31:17(a)(related to expenses). | June 10, 1921, ch. 18, § 208(a)(related to expenses), 42 Stat. 22; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
 
 The words “for rent in the District of Columbia, printing, binding, telegrams, telephone service, law books, books of reference, periodicals, stationery, furniture, office equipment, other supplies, and” are omitted as covered by titles 5, 40, and 44, and as being included in “necessary expenditures”. The words “within the appropriations made therefor” are omitted as unnecessary.

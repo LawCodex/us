@@ -15,17 +15,17 @@ retrieved: 2026-10-11
 
 # CHAPTER 5—LIBRARY OF CONGRESS
 
-## § 131. Collections composing Library; location
+## § 131. Collections composing Library; location
 
 The Library of Congress, composed of the books, maps, and other publications which on December 1, 1873, remained in existence, from the collections theretofore united under authority of law and those added from time to time by purchase, exchange, donation, reservation from publications ordered by Congress, acquisition of material under the copyright law, and otherwise, shall be preserved in the Library Building.
 
-(R.S. § 80; Feb. 19, 1897, ch. 265, § 1, 29 Stat. 545, 546; Pub. L. 94–553, title I, § 105(g), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 100–202, § 101(i) [title III, § 310], Dec. 22, 1987, 101 Stat. 1329–290, 1329–310.)
+(R.S. § 80; Feb. 19, 1897, ch. 265, § 1, 29 Stat. 545, 546; Pub. L. 94–553, title I, § 105(g), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 100–202, § 101(i) [title III, § 310], Dec. 22, 1987, 101 Stat. 1329–290, 1329–310.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 80 derived from act Jan. 26, 1802, ch. 2, 2 Stat. 128; Res. Oct. 21, 1814, No. 3, 3 Stat. 246; act Jan. 30, 1815, ch. 27, 3 Stat. 195; act June 25, 1864, ch. 147, § 1, 13 Stat. 148; Res. July 25, 1866, No. 77, 14 Stat. 365; and act Mar. 2, 1867, ch. 167, § 1, 14 Stat. 464.
+R.S. § 80 derived from act Jan. 26, 1802, ch. 2, 2 Stat. 128; Res. Oct. 21, 1814, No. 3, 3 Stat. 246; act Jan. 30, 1815, ch. 27, 3 Stat. 195; act June 25, 1864, ch. 147, § 1, 13 Stat. 148; Res. July 25, 1866, No. 77, 14 Stat. 365; and act Mar. 2, 1867, ch. 167, § 1, 14 Stat. 464.
 
 **Amendments**
 
@@ -41,9 +41,9 @@ Amendment by Pub. L. 94–553 effective Jan. 1, 1978, see section 102 of Pub. L.
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–94, div. P, title XIV, § 1401, Dec. 20, 2019, 133 Stat. 3206, provided that: “This title [amending sections 135a, 136a–2, and 166 of this title, sections 701, 802, and 803 of Title 17, Copyrights, and section 2103 of Title 20, Education, repealing section 135a–1 of this title and enacting provisions set out as a note under section 802 of Title 17] may be cited as the ‘Library of Congress Technical Corrections Act of 2019’.”
+Pub. L. 116–94, div. P, title XIV, § 1401, Dec. 20, 2019, 133 Stat. 3206, provided that: “This title [amending sections 135a, 136a–2, and 166 of this title, sections 701, 802, and 803 of Title 17, Copyrights, and section 2103 of Title 20, Education, repealing section 135a–1 of this title and enacting provisions set out as a note under section 802 of Title 17] may be cited as the ‘Library of Congress Technical Corrections Act of 2019’.”
 
-Pub. L. 116–94, div. P, title XVI, § 1601, Dec. 20, 2019, 133 Stat. 3209, provided that: “This title [amending sections 185 and 1808 of this title and sections 3902 and 3903 of Title 44, Public Printing and Documents] may be cited as the ‘Legislative Branch Inspectors General Independence Act of 2019’.”
+Pub. L. 116–94, div. P, title XVI, § 1601, Dec. 20, 2019, 133 Stat. 3209, provided that: “This title [amending sections 185 and 1808 of this title and sections 3902 and 3903 of Title 44, Public Printing and Documents] may be cited as the ‘Legislative Branch Inspectors General Independence Act of 2019’.”
 
 **Transfer to Library Building**
 
@@ -59,29 +59,29 @@ Pub. L. 85–147, Aug. 16, 1957, 71 Stat. 368, as amended by Pub. L. 87–263, S
 
 > There are authorized to be appropriated such amounts as may be necessary to carry out the provisions of this Act.”
 
-## § 132. Departments of Library
+## § 132. Departments of Library
 
 The Library of Congress shall be arranged in two departments, a general library and a law library.
 
-(R.S. § 81.)
+(R.S. § 81.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 81 derived from act July 14, 1832, ch. 221, § 1, 4 Stat. 579.
+R.S. § 81 derived from act July 14, 1832, ch. 221, § 1, 4 Stat. 579.
 
-## § 132a. Appropriations for increase of general library
+## § 132a. Appropriations for increase of general library
 
 The unexpended balance of any sums appropriated by Congress for the increase of the general library, together with such sums as may hereafter be appropriated to the same purpose, shall be laid out under the direction of the Joint Committee of Congress on the Library.
 
-(R.S. § 82; Feb. 7, 1902, No. 5, 32 Stat. 735; Aug. 2, 1946, ch. 753, title II, § 223, 60 Stat. 838.)
+(R.S. § 82; Feb. 7, 1902, No. 5, 32 Stat. 735; Aug. 2, 1946, ch. 753, title II, § 223, 60 Stat. 838.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 82 derived from acts Apr. 24, 1800, ch. 37, § 5, 2 Stat. 56, and Jan. 26, 1802, ch. 2, § 6, 2 Stat. 129.
+R.S. § 82 derived from acts Apr. 24, 1800, ch. 37, § 5, 2 Stat. 56, and Jan. 26, 1802, ch. 2, § 6, 2 Stat. 129.
 
 **Amendments**
 
@@ -93,13 +93,13 @@ R.S. § 82 derived from acts Apr. 24, 1800, ch. 37, § 5, 2 Stat. 56, and Ja
 
 Amendment by act Aug. 2, 1946, effective Jan. 3, 1947, see section 245 of that act, set out as a note under section 4301 of this title.
 
-## § 132a–1. Obligations for reimbursable and revolving fund activities; limitation
+## § 132a–1. Obligations for reimbursable and revolving fund activities; limitation
 
 Effective for fiscal years beginning with fiscal year 1995, obligations for any reimbursable and revolving fund activities performed by the Library of Congress are limited to the total amounts provided (1) in the annual regular appropriations Act making appropriations for the legislative branch, or (2) in a supplemental appropriations Act that makes appropriations for the legislative branch.
 
-(Pub. L. 103–69, title II, § 206, Aug. 11, 1993, 107 Stat. 706.)
+(Pub. L. 103–69, title II, § 206, Aug. 11, 1993, 107 Stat. 706.)
 
-## § 132a–2. Furniture, furnishings, and office and library equipment; transfer of funds
+## § 132a–2. Furniture, furnishings, and office and library equipment; transfer of funds
 
 **(a) Transfer of funds**
 
@@ -113,7 +113,7 @@ Any amounts transferred pursuant to subsection (a) shall be merged with and be a
 
 The Librarian may transfer amounts pursuant to subsection (a) only with the approval of the Committees on Appropriations of the House of Representatives and Senate.
 
-(Pub. L. 106–554, § 1(a)(2) [title II, § 209], Dec. 21, 2000, 114 Stat. 2763, 2763A–114.)
+(Pub. L. 106–554, § 1(a)(2) [title II, § 209], Dec. 21, 2000, 114 Stat. 2763, 2763A–114.)
 
 **Editorial Notes**
 
@@ -121,7 +121,7 @@ The Librarian may transfer amounts pursuant to subsection (a) only with the appr
 
 Section is from the Legislative Branch Appropriations Act, 2001.
 
-## § 132a–3. Authority to transfer amounts between categories of appropriations
+## § 132a–3. Authority to transfer amounts between categories of appropriations
 
 **(a) In general**
 
@@ -131,13 +131,13 @@ During fiscal year 2014 and any succeeding fiscal year, the Librarian of Congres
 
 Not more than 10 percent of the total amount of funds appropriated to the account under any category of appropriations for the Library of Congress for a fiscal year may be transferred from that account by all transfers made under subsection (a).
 
-(Pub. L. 113–76, div. I, title I, § 1402, Jan. 17, 2014, 128 Stat. 431.)
+(Pub. L. 113–76, div. I, title I, § 1402, Jan. 17, 2014, 128 Stat. 431.)
 
-## § 132b. Joint Committee on the Library
+## § 132b. Joint Committee on the Library
 
 The Joint Committee of Congress on the Library shall, on and after January 3, 1947, consist of the chairman and four members of the Committee on Rules and Administration of the Senate and the chairman and four members of the Committee on House Oversight of the House of Representatives.
 
-(Aug. 2, 1946, ch. 753, title II, § 223, 60 Stat. 838; Pub. L. 104–186, title II, § 205, Aug. 20, 1996, 110 Stat. 1742.)
+(Aug. 2, 1946, ch. 753, title II, § 223, 60 Stat. 838; Pub. L. 104–186, title II, § 205, Aug. 20, 1996, 110 Stat. 1742.)
 
 **Editorial Notes**
 
@@ -157,13 +157,13 @@ Section effective Jan. 3, 1947, see section 245 of act Aug. 2, 1946, set out as 
 
 **Member of Committee With Respect to Financial Management and Budget and Program Development**
 
-Pub. L. 106–554, § 1(a)(4) [div. A], Dec. 21, 2000, 114 Stat. 2763, 2763A–195, as amended by Pub. L. 109–13, div. A, title III, § 3402(a), May 11, 2005, 119 Stat. 272; Pub. L. 109–289, div. B, title II, § 20703(d)(6), as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 39, provided: “That notwithstanding any other provision of law, effective with the One Hundred Seventh Congress and each succeeding Congress the chair of the Subcommittee on the Legislative Branch of the Committee on Appropriations of the House of Representatives shall serve as a member of the Joint Committee on the Library with respect to the Library’s financial management, organization, budget development and implementation, and program development and administration, as well as any other element of the mission of the Library of Congress which is subject to the requirements of Federal law.”
+Pub. L. 106–554, § 1(a)(4) [div. A], Dec. 21, 2000, 114 Stat. 2763, 2763A–195, as amended by Pub. L. 109–13, div. A, title III, § 3402(a), May 11, 2005, 119 Stat. 272; Pub. L. 109–289, div. B, title II, § 20703(d)(6), as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 39, provided: “That notwithstanding any other provision of law, effective with the One Hundred Seventh Congress and each succeeding Congress the chair of the Subcommittee on the Legislative Branch of the Committee on Appropriations of the House of Representatives shall serve as a member of the Joint Committee on the Library with respect to the Library’s financial management, organization, budget development and implementation, and program development and administration, as well as any other element of the mission of the Library of Congress which is subject to the requirements of Federal law.”
 
-## § 133. Joint Committee during recess of Congress
+## § 133. Joint Committee during recess of Congress
 
 The portion of the Joint Committee of Congress on the Library on the part of the Senate remaining in office as Senators shall during the recess of Congress exercise the powers and discharge the duties conferred by law upon the Joint Committee of Congress on the Library.
 
-(Mar. 3, 1883, ch. 141, § 2, 22 Stat. 592; Aug. 2, 1946, ch. 753, title II, § 223, 60 Stat. 838.)
+(Mar. 3, 1883, ch. 141, § 2, 22 Stat. 592; Aug. 2, 1946, ch. 753, title II, § 223, 60 Stat. 838.)
 
 **Editorial Notes**
 
@@ -177,31 +177,31 @@ The portion of the Joint Committee of Congress on the Library on the part of the
 
 Amendment by act Aug. 2, 1946, effective Jan. 3, 1947, see section 245 of that act, set out as a note under section 4301 of this title.
 
-## § 134. Incidental expenses of law library
+## § 134. Incidental expenses of law library
 
 The incidental expenses of the law library shall be paid out of the appropriations for the Library of Congress.
 
-(R.S. § 83.)
+(R.S. § 83.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 83 derived from act July 14, 1832, ch. 221, § 3, 4 Stat. 579.
+R.S. § 83 derived from act July 14, 1832, ch. 221, § 3, 4 Stat. 579.
 
-## § 135. Purchase of books for law library
+## § 135. Purchase of books for law library
 
 The Librarian shall make the purchases of books for the law library, under the direction of and pursuant to the catalogue furnished him by the Chief Justice of the Supreme Court.
 
-(R.S. § 84.)
+(R.S. § 84.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 84 derived from act July 14, 1832, ch. 221, § 4, 4 Stat. 579.
+R.S. § 84 derived from act July 14, 1832, ch. 221, § 4, 4 Stat. 579.
 
-## § 135a. National library service for the blind and print disabled
+## § 135a. National library service for the blind and print disabled
 
 **(a) Accessible materials and reproducers**
 
@@ -249,7 +249,7 @@ The Librarian of Congress shall prescribe regulations for services under this se
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
-(Mar. 3, 1931, ch. 400, § 1, 46 Stat. 1487; Mar. 4, 1933, ch. 279, 47 Stat. 1570; June 14, 1935, ch. 242, § 1, 49 Stat. 374; Apr. 23, 1937, ch. 125, § 1, 50 Stat. 72; June 7, 1939, ch. 191, 53 Stat. 812; June 6, 1940, ch. 255, 54 Stat. 245; Oct. 1, 1942, ch. 575, § 1, 56 Stat. 764; June 13, 1944, ch. 246, § 1, 58 Stat. 276; Aug. 8, 1946, ch. 868, § 1, 60 Stat. 908; July 3, 1952, ch. 566, 66 Stat. 326; Pub. L. 85–308, § 1, Sept. 7, 1957, 71 Stat. 630; Pub. L. 89–522, § 1, July 30, 1966, 80 Stat. 330; Pub. L. 114–219, § 1, July 29, 2016, 130 Stat. 845; Pub. L. 116–94, div. P, title XIV, § 1403(a), Dec. 20, 2019, 133 Stat. 3206.)
+(Mar. 3, 1931, ch. 400, § 1, 46 Stat. 1487; Mar. 4, 1933, ch. 279, 47 Stat. 1570; June 14, 1935, ch. 242, § 1, 49 Stat. 374; Apr. 23, 1937, ch. 125, § 1, 50 Stat. 72; June 7, 1939, ch. 191, 53 Stat. 812; June 6, 1940, ch. 255, 54 Stat. 245; Oct. 1, 1942, ch. 575, § 1, 56 Stat. 764; June 13, 1944, ch. 246, § 1, 58 Stat. 276; Aug. 8, 1946, ch. 868, § 1, 60 Stat. 908; July 3, 1952, ch. 566, 66 Stat. 326; Pub. L. 85–308, § 1, Sept. 7, 1957, 71 Stat. 630; Pub. L. 89–522, § 1, July 30, 1966, 80 Stat. 330; Pub. L. 114–219, § 1, July 29, 2016, 130 Stat. 845; Pub. L. 116–94, div. P, title XIV, § 1403(a), Dec. 20, 2019, 133 Stat. 3206.)
 
 **Editorial Notes**
 
@@ -285,61 +285,61 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 **Effective Date of 1957 Amendment**
 
-Pub. L. 85–308, § 2, Sept. 7, 1957, 71 Stat. 630, provided that: “This Act [amending this section] shall be applicable with respect to the fiscal year ending June 30, 1958, and for each fiscal year thereafter.”
+Pub. L. 85–308, § 2, Sept. 7, 1957, 71 Stat. 630, provided that: “This Act [amending this section] shall be applicable with respect to the fiscal year ending June 30, 1958, and for each fiscal year thereafter.”
 
 **Effective Date of 1946 Amendment**
 
-Act Aug. 8, 1946, ch. 868, § 2, 60 Stat. 908, provided: “This Act [amending this section] shall be applicable with respect to the fiscal year ending June 30, 1947, and for each fiscal year thereafter.”
+Act Aug. 8, 1946, ch. 868, § 2, 60 Stat. 908, provided: “This Act [amending this section] shall be applicable with respect to the fiscal year ending June 30, 1947, and for each fiscal year thereafter.”
 
 **Effective Date of 1944 Amendment**
 
-Act June 13, 1944, ch. 246, § 2, 58 Stat. 276, provided: “This Act [amending this section] shall be applicable with respect to the fiscal year ending June 30, 1945, and for each fiscal year thereafter.”
+Act June 13, 1944, ch. 246, § 2, 58 Stat. 276, provided: “This Act [amending this section] shall be applicable with respect to the fiscal year ending June 30, 1945, and for each fiscal year thereafter.”
 
 **Effective Date of 1942 Amendment**
 
-Act Oct. 1, 1942, ch. 575, § 2, 56 Stat. 764, provided: “This Act [amending this section] shall be applicable with respect to the fiscal year ending June 30, 1943, and for each fiscal year thereafter.”
+Act Oct. 1, 1942, ch. 575, § 2, 56 Stat. 764, provided: “This Act [amending this section] shall be applicable with respect to the fiscal year ending June 30, 1943, and for each fiscal year thereafter.”
 
 **Effective Date of 1937 Amendment**
 
-Act Apr. 23, 1937, ch. 125, § 2, 50 Stat. 72, provided that: “This Act [amending this section] shall be applicable with respect to the fiscal year ending June 30, 1938, and for each fiscal year thereafter.”
+Act Apr. 23, 1937, ch. 125, § 2, 50 Stat. 72, provided that: “This Act [amending this section] shall be applicable with respect to the fiscal year ending June 30, 1938, and for each fiscal year thereafter.”
 
-## § 135a–1. Repealed. Pub. L. 116–94, div. P, title XIV, § 1403(b), Dec. 20, 2019, 133 Stat. 3207
+## § 135a–1. Repealed. Pub. L. 116–94, div. P, title XIV, § 1403(b), Dec. 20, 2019, 133 Stat. 3207
 
-Section, Pub. L. 87–765, Oct. 9, 1962, 76 Stat. 763; Pub. L. 89–522, § 2, July 30, 1966, 80 Stat. 331, related to library of musical scores, instructional texts, and other specialized materials for use of blind persons or other physically disabled residents. See section 135a of this title.
+Section, Pub. L. 87–765, Oct. 9, 1962, 76 Stat. 763; Pub. L. 89–522, § 2, July 30, 1966, 80 Stat. 331, related to library of musical scores, instructional texts, and other specialized materials for use of blind persons or other physically disabled residents. See section 135a of this title.
 
-## § 135b. Local and regional centers; preference to blind and other physically handicapped veterans; rules and regulations; authorization of appropriations
+## § 135b. Local and regional centers; preference to blind and other physically handicapped veterans; rules and regulations; authorization of appropriations
 
-**(a)** The Librarian of Congress may contract or otherwise arrange with such public or other nonprofit libraries, agencies, or organizations as he may deem appropriate to serve as local or regional centers for the circulation of (1) books, recordings, and reproducers referred to in section 135a of this title, and (2) musical scores, instructional texts, and other specialized materials referred to in section 135a–1 1
+**(a)** The Librarian of Congress may contract or otherwise arrange with such public or other nonprofit libraries, agencies, or organizations as he may deem appropriate to serve as local or regional centers for the circulation of (1) books, recordings, and reproducers referred to in section 135a of this title, and (2) musical scores, instructional texts, and other specialized materials referred to in section 135a–1 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, under such conditions and regulations as he may prescribe. In the lending of such books, recordings, reproducers, musical scores, instructional texts, and other specialized materials, preference shall at all times be given to the needs of the blind and of the other physically handicapped persons who have been honorably discharged from the Armed Forces of the United States.
 
 **(b)** There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
 
-(Mar. 3, 1931, ch. 400, § 2, 46 Stat. 1487; Pub. L. 89–522, § 1, July 30, 1966, 80 Stat. 330.)
+(Mar. 3, 1931, ch. 400, § 2, 46 Stat. 1487; Pub. L. 89–522, § 1, July 30, 1966, 80 Stat. 330.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 135a–1 of this title, referred to in subsec. (a), was repealed by Pub. L. 116–94, div. P, title XIV, § 1403(b), Dec. 20, 2019, 133 Stat. 3207. See section 135a of this title.
+Section 135a–1 of this title, referred to in subsec. (a), was repealed by Pub. L. 116–94, div. P, title XIV, § 1403(b), Dec. 20, 2019, 133 Stat. 3207. See section 135a of this title.
 
 **Amendments**
 
 1966—Pub. L. 89–522 extended Librarian’s authority to arrange for local and regional centers by authorizing him to contract with public or other nonprofit libraries, agencies, or organizations, extended field to include recordings, reproducers, musical scores, instructional texts, and other materials, substituted “Armed Forces of the United States” for “United States military or naval service”, and extended veteran preference to include other physically handicapped individuals in addition to blind persons.
 
-## § 136. Librarian of Congress; rules and regulations
+## § 136. Librarian of Congress; rules and regulations
 
 The Librarian of Congress shall make rules and regulations for the government of the Library.
 
-(Feb. 19, 1897, ch. 265, § 1, 29 Stat. 544, 546; Pub. L. 92–310, title II, § 220(f), June 6, 1972, 86 Stat. 204; Pub. L. 114–86, § 3, Nov. 5, 2015, 129 Stat. 675.)
+(Feb. 19, 1897, ch. 265, § 1, 29 Stat. 544, 546; Pub. L. 92–310, title II, § 220(f), June 6, 1972, 86 Stat. 204; Pub. L. 114–86, § 3, Nov. 5, 2015, 129 Stat. 675.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-R.S. §§ 88, 89, 4950, which were repealed by acts Feb. 28, 1933, ch. 131, § 1, 47 Stat. 1349; Mar. 3, 1933, ch. 202, § 1, 47 Stat. 1428, 1431.
+R.S. §§ 88, 89, 4950, which were repealed by acts Feb. 28, 1933, ch. 131, § 1, 47 Stat. 1349; Mar. 3, 1933, ch. 202, § 1, 47 Stat. 1428, 1431.
 
 **Amendments**
 
@@ -351,9 +351,9 @@ R.S. §§ 88, 89, 4950, which were repealed by acts Feb. 28, 1933, ch. 131, §
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–86, § 1, Nov. 5, 2015, 129 Stat. 675, provided that: “This Act [enacting section 136–1 of this title and amending this section] may be cited as the ‘Librarian of Congress Succession Modernization Act of 2015’.”
+Pub. L. 114–86, § 1, Nov. 5, 2015, 129 Stat. 675, provided that: “This Act [enacting section 136–1 of this title and amending this section] may be cited as the ‘Librarian of Congress Succession Modernization Act of 2015’.”
 
-## § 136–1. Appointment and term of service of Librarian of Congress
+## § 136–1. Appointment and term of service of Librarian of Congress
 
 **(a) In general**
 
@@ -371,9 +371,9 @@ An individual appointed to the position of Librarian of Congress, by and with th
 
 This section shall apply with respect to appointments made on or after November 5, 2015.
 
-(Pub. L. 114–86, § 2, Nov. 5, 2015, 129 Stat. 675.)
+(Pub. L. 114–86, § 2, Nov. 5, 2015, 129 Stat. 675.)
 
-## §§ 136a, 136a–1. Omitted
+## §§ 136a, 136a–1. Omitted
 
 **Editorial Notes**
 
@@ -381,13 +381,13 @@ This section shall apply with respect to appointments made on or after November 
 
 Sections were superseded by section 136a–2 of this title.
 
-Section 136a, Pub. L. 88–426, title II, § 203(c), Aug. 14, 1964, 78 Stat. 415; Pub. L. 90–206, title II, §§ 219(2), 225(h), Dec. 16, 1967, 81 Stat. 639, 644; Pub. L. 94–82, title II, § 204(b), Aug. 9, 1975, 89 Stat. 421, set compensation of Librarian of Congress at an annual rate equal to rate for positions at level IV of Executive Schedule.
+Section 136a, Pub. L. 88–426, title II, § 203(c), Aug. 14, 1964, 78 Stat. 415; Pub. L. 90–206, title II, §§ 219(2), 225(h), Dec. 16, 1967, 81 Stat. 639, 644; Pub. L. 94–82, title II, § 204(b), Aug. 9, 1975, 89 Stat. 421, set compensation of Librarian of Congress at an annual rate equal to rate for positions at level IV of Executive Schedule.
 
-A prior section 136a, acts Mar. 6, 1928, ch. 134, 45 Stat. 197; Oct. 15, 1949, ch. 695, § 5(a), 63 Stat. 890, which contained similar provisions, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 647, 655.
+A prior section 136a, acts Mar. 6, 1928, ch. 134, 45 Stat. 197; Oct. 15, 1949, ch. 695, § 5(a), 63 Stat. 890, which contained similar provisions, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 647, 655.
 
-Section 136a–1, Pub. L. 88–426, title II, § 203(d), Aug. 14, 1964, 78 Stat. 415; Pub. L. 90–206, title II §§ 219(3), 225(h), Dec. 16, 1967, 81 Stat. 639, 644; Pub. L. 94–82, title II, § 204(b), Aug. 9, 1975, 89 Stat. 421, set compensation of Deputy Librarian of Congress at an annual rate equal to rate for positions at level V of Executive Schedule.
+Section 136a–1, Pub. L. 88–426, title II, § 203(d), Aug. 14, 1964, 78 Stat. 415; Pub. L. 90–206, title II §§ 219(3), 225(h), Dec. 16, 1967, 81 Stat. 639, 644; Pub. L. 94–82, title II, § 204(b), Aug. 9, 1975, 89 Stat. 421, set compensation of Deputy Librarian of Congress at an annual rate equal to rate for positions at level V of Executive Schedule.
 
-## § 136a–2. Librarian of Congress and Deputy Librarian of Congress; compensation
+## § 136a–2. Librarian of Congress and Deputy Librarian of Congress; compensation
 
 Notwithstanding any other provision of law—
 
@@ -395,7 +395,7 @@ Notwithstanding any other provision of law—
 
 **(2)** the Deputy Librarian of Congress shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5 or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title.
 
-(Pub. L. 98–63, title I, § 904, July 30, 1983, 97 Stat. 336; Pub. L. 106–57, title II, § 209(a), Sept. 29, 1999, 113 Stat. 424; Pub. L. 116–94, div. P, title XIV, § 1404(a)(1), Dec. 20, 2019, 133 Stat. 3207.)
+(Pub. L. 98–63, title I, § 904, July 30, 1983, 97 Stat. 336; Pub. L. 106–57, title II, § 209(a), Sept. 29, 1999, 113 Stat. 424; Pub. L. 116–94, div. P, title XIV, § 1404(a)(1), Dec. 20, 2019, 133 Stat. 3207.)
 
 **Editorial Notes**
 
@@ -417,11 +417,11 @@ Notwithstanding any other provision of law—
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–57, title II, § 209(c), Sept. 29, 1999, 113 Stat. 424, provided that: “The amendments made by this section [amending this section and section 166 of this title] shall apply with respect to the first pay period which begins on or after the date of the enactment of this Act [Sept. 29, 1999] and each subsequent pay period.”
+Pub. L. 106–57, title II, § 209(c), Sept. 29, 1999, 113 Stat. 424, provided that: “The amendments made by this section [amending this section and section 166 of this title] shall apply with respect to the first pay period which begins on or after the date of the enactment of this Act [Sept. 29, 1999] and each subsequent pay period.”
 
 **Effective Date**
 
-Pub. L. 98–63, title I, § 904(c), July 30, 1983, 97 Stat. 337, provided that subsec. (a) of this section was to take effect on the first day of the first applicable pay period commencing on or after July 30, 1983, prior to being omitted in the general amendment of section 904 of Pub. L. 98–63 by section 209(a) of Pub. L. 106–57.
+Pub. L. 98–63, title I, § 904(c), July 30, 1983, 97 Stat. 337, provided that subsec. (a) of this section was to take effect on the first day of the first applicable pay period commencing on or after July 30, 1983, prior to being omitted in the general amendment of section 904 of Pub. L. 98–63 by section 209(a) of Pub. L. 106–57.
 
 **Salary Increases**
 
@@ -431,7 +431,7 @@ Pub. L. 98–63, title I, § 904(c), July 30, 1983, 97 Stat. 337, provided tha
 
 1969—Salaries of Librarian and Deputy Librarian increased respectively to $38,000 and $36,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of this title.
 
-## § 136b. Omitted
+## § 136b. Omitted
 
 **Editorial Notes**
 
@@ -439,11 +439,11 @@ Pub. L. 98–63, title I, § 904(c), July 30, 1983, 97 Stat. 337, provided tha
 
 Section, act July 17, 1947, ch. 262, 61 Stat. 372, related to maximum salary for any position in the Library. See section 162a of this title.
 
-## § 136c. Authorized additional expenses and services for which Library of Congress salary appropriations are available
+## § 136c. Authorized additional expenses and services for which Library of Congress salary appropriations are available
 
 From and after October 1, 1983, appropriations in this Act available to the Library of Congress for salaries shall be available for expenses of personnel security and suitability investigations of Library employees; special and temporary services (including employees engaged by day or hour or in piecework); and services as authorized by section 3109 of title 5.
 
-(Pub. L. 98–51, title II, § 201, July 14, 1983, 97 Stat. 276.)
+(Pub. L. 98–51, title II, § 201, July 14, 1983, 97 Stat. 276.)
 
 **Editorial Notes**
 
@@ -451,25 +451,25 @@ From and after October 1, 1983, appropriations in this Act available to the Libr
 
 This Act, referred to in text, is Pub. L. 98–51, July 14, 1983, 97 Stat. 263, known as the Legislative Branch Appropriations Act, 1984. See page 36 of Senate Report 98–161, 98th Congress, 1st Session, to accompany H.R. 3135, which became Pub. L. 98–51. For complete classification of this Act to the Code, see Tables.
 
-## § 137. Use and regulation of law library
+## § 137. Use and regulation of law library
 
 The justices of the Supreme Court shall have free access to the law library; and they are authorized to make regulations, not inconsistent with law, for the use of the same during the sittings of the court. But such regulations shall not restrict any person authorized to take books from the Library from having access to the law library, or using the books therein in the same manner as he may be entitled to use the books of the general Library.
 
-(R.S. § 95.)
+(R.S. § 95.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 95 derived from act July 14, 1832, ch. 221, § 2, 4 Stat. 579.
+R.S. § 95 derived from act July 14, 1832, ch. 221, § 2, 4 Stat. 579.
 
-## §§ 137a, 137b. Omitted
+## §§ 137a, 137b. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 137a, R.S. § 94, related to persons specially privileged to use library. See last sentence of section 136 of this title, which gives Librarian of Congress power to make rules and regulations for government of library.
+Section 137a, R.S. § 94, related to persons specially privileged to use library. See last sentence of section 136 of this title, which gives Librarian of Congress power to make rules and regulations for government of library.
 
 Section 137b, act Aug. 28, 1890, No. 41, 26 Stat. 678, which related to Interstate Commerce Commission and Chief of Army Engineering Corps, was omitted from the Code as superseded by the last sentence of section 136 of this title.
 
@@ -481,11 +481,11 @@ With reference to former section 137a of this title, the Joint Committee on the 
 
 “Heretofore the Joint Committee on the Library has had authority to approve such rules and regulations as have been made by the Librarian of Congress, but the provision of law under which the Joint Committee has hitherto passed upon said rules and regulations would appear to be repealed by the more recent act (section 136 of this title) which places this power in the hands of the Librarian of Congress.”
 
-## § 137c. Withdrawal of books from Library of Congress
+## § 137c. Withdrawal of books from Library of Congress
 
 The chief judge and associate judges of the United States Court of Appeals for the District of Columbia and the chief judge and associate judges of the United States District Court for the District of Columbia are authorized to use and take books from the Library of Congress in the same manner and subject to the same regulations as justices of the Supreme Court of the United States.
 
-(Joint Res. No. 9, Jan. 27, 1894, 28 Stat. 577; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(a), (b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107.)
+(Joint Res. No. 9, Jan. 27, 1894, 28 Stat. 577; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(a), (b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -497,33 +497,33 @@ Act June 25, 1936, substituted “District Court of the United States for the sa
 
 Act June 7, 1934, substituted “United States Court of Appeals for the District of Columbia” for “Court of Appeals of the District of Columbia”.
 
-## § 138. Law library; hours kept open
+## § 138. Law library; hours kept open
 
 The law library shall be kept open every day so long as either House of Congress is in session.
 
-(July 11, 1888, ch. 615, § 1, 25 Stat. 262.)
+(July 11, 1888, ch. 615, § 1, 25 Stat. 262.)
 
-## § 139. Omitted
+## § 139. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, acts Feb. 19, 1897, ch. 265, § 1, 29 Stat. 546; Pub. L. 94–273, § 30, Apr. 21, 1976, 90 Stat. 380, which required the Librarian of Congress to make an annual report to Congress on the affairs of the Library, including copyright business and a detailed statement of receipts and expenditures, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 10 of House Document No. 103–7.
+Section, acts Feb. 19, 1897, ch. 265, § 1, 29 Stat. 546; Pub. L. 94–273, § 30, Apr. 21, 1976, 90 Stat. 380, which required the Librarian of Congress to make an annual report to Congress on the affairs of the Library, including copyright business and a detailed statement of receipts and expenditures, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 10 of House Document No. 103–7.
 
-## § 140. Employees; fitness
+## § 140. Employees; fitness
 
 All persons employed in and about said Library of Congress under the Librarian shall be appointed solely with reference to their fitness for their particular duties.
 
-(Feb. 19, 1897, ch. 265, § 1, 29 Stat. 545; June 29, 1922, ch. 251, § 1, 42 Stat. 715.)
+(Feb. 19, 1897, ch. 265, § 1, 29 Stat. 545; June 29, 1922, ch. 251, § 1, 42 Stat. 715.)
 
 **Editorial Notes**
 
 **Codification**
 
-Act June 29, 1922, § 1, cited as a credit to this section, which transferred duties of the Superintendent of the Library Building and Grounds to the Architect of the Capitol and the Librarian of Congress and provided for appointment of employees, was amended generally by Pub. L. 108–7, div. H, title I, § 1208(a), Feb. 20, 2003, 117 Stat. 375, and no longer relates to this subject matter.
+Act June 29, 1922, § 1, cited as a credit to this section, which transferred duties of the Superintendent of the Library Building and Grounds to the Architect of the Capitol and the Librarian of Congress and provided for appointment of employees, was amended generally by Pub. L. 108–7, div. H, title I, § 1208(a), Feb. 20, 2003, 117 Stat. 375, and no longer relates to this subject matter.
 
-## § 141. Allocation of responsibilities for Library buildings and grounds
+## § 141. Allocation of responsibilities for Library buildings and grounds
 
 **(a) Architect of the Capitol**
 
@@ -535,9 +535,9 @@ Act June 29, 1922, § 1, cited as a credit to this section, which transferred 
 
 **(C)** the architectural features of the buildings;
 
-**(D)** compliance with building and fire codes, laws, and regulations with respect to the specific responsibilities set for 1
+**(D)** compliance with building and fire codes, laws, and regulations with respect to the specific responsibilities set for 1
 
-<sup>1</sup>  So in original. Probably should be “forth”.
+<sup>1</sup> So in original. Probably should be “forth”.
 
 under this paragraph;
 
@@ -557,7 +557,7 @@ The Librarian of Congress shall have charge of all work (other than work under s
 
 The Architect of the Capitol and the Librarian of Congress may enter into agreements with each other to perform work under this section, and, subject to the approval of the Committees on Appropriations of the House of Representatives and the Senate and the Joint Committee on the Library, may transfer between themselves appropriations or other available funds to pay the costs therefor.
 
-(June 29, 1922, ch. 251, § 1, 42 Stat. 715; Pub. L. 91–280, June 12, 1970, 84 Stat. 309; Pub. L. 101–520, title II, § 205(b), Nov. 5, 1990, 104 Stat. 2272; Pub. L. 101–562, § 2(a), Nov. 15, 1990, 104 Stat. 2780; Pub. L. 108–7, div. H, title I, § 1208(a), Feb. 20, 2003, 117 Stat. 375.)
+(June 29, 1922, ch. 251, § 1, 42 Stat. 715; Pub. L. 91–280, June 12, 1970, 84 Stat. 309; Pub. L. 101–520, title II, § 205(b), Nov. 5, 1990, 104 Stat. 2272; Pub. L. 101–562, § 2(a), Nov. 15, 1990, 104 Stat. 2780; Pub. L. 108–7, div. H, title I, § 1208(a), Feb. 20, 2003, 117 Stat. 375.)
 
 **Editorial Notes**
 
@@ -573,15 +573,15 @@ The Architect of the Capitol and the Librarian of Congress may enter into agreem
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–7, div. H, title I, § 1208(b), Feb. 20, 2003, 117 Stat. 376, provided that: “The amendments made by this section [amending this section and section 142 of this title] shall apply to fiscal year 2003 and each fiscal year thereafter.”
+Pub. L. 108–7, div. H, title I, § 1208(b), Feb. 20, 2003, 117 Stat. 376, provided that: “The amendments made by this section [amending this section and section 142 of this title] shall apply to fiscal year 2003 and each fiscal year thereafter.”
 
 **Effective Date of 1990 Amendments**
 
-Amendment by Pub. L. 101–520 and 101–562 effective on date [Nov. 6, 1991] Architect of the Capitol acquires the property and improvements described in Pub. L. 101–520, § 205(a), and Pub. L. 101–562, § 1, see section 205(e) of Pub. L. 101–520 and former section 2(d) of Pub. L. 101–562, set out as a Special Facilities Center; Acquisition note below.
+Amendment by Pub. L. 101–520 and 101–562 effective on date [Nov. 6, 1991] Architect of the Capitol acquires the property and improvements described in Pub. L. 101–520, § 205(a), and Pub. L. 101–562, § 1, see section 205(e) of Pub. L. 101–520 and former section 2(d) of Pub. L. 101–562, set out as a Special Facilities Center; Acquisition note below.
 
 **Acquisition of Real Property for Library of Congress**
 
-Pub. L. 105–144, Dec. 15, 1997, 111 Stat. 2667, as amended by Pub. L. 106–554, § 1(a)(2) [title II, § 207], Dec. 21, 2000, 114 Stat. 2763, 2763A–114; Pub. L. 108–83, title I, § 1203(a), Sept. 30, 2003, 117 Stat. 1031, provided that:
+Pub. L. 105–144, Dec. 15, 1997, 111 Stat. 2667, as amended by Pub. L. 106–554, § 1(a)(2) [title II, § 207], Dec. 21, 2000, 114 Stat. 2763, 2763A–114; Pub. L. 108–83, title I, § 1203(a), Sept. 30, 2003, 117 Stat. 1031, provided that:
 
 > **“SECTION 1. ACQUISITION OF FACILITY IN CULPEPER, VIRGINIA.**
 
@@ -615,7 +615,7 @@ Pub. L. 105–144, Dec. 15, 1997, 111 Stat. 2667, as amended by Pub. L. 106–55
 
 **Transfer of Property by Secretary of Army To Provide Facilities To Accommodate Long-Term Storage and Service Needs**
 
-Pub. L. 103–110, § 122, Oct. 21, 1993, 107 Stat. 1043, provided that:
+Pub. L. 103–110, § 122, Oct. 21, 1993, 107 Stat. 1043, provided that:
 
 > **“(a)** Notwithstanding any other provision of law, the Secretary of the Army shall transfer, no later than September 30, 1994, without reimbursement or transfer of funds, to the Architect of the Capitol, a portion of the real property, including improvements thereon, consisting of not more than 100 acres located at Fort George G. Meade in Anne Arundel County, Maryland, as determined under subsection (c).
 
@@ -631,11 +631,11 @@ Pub. L. 103–110, § 122, Oct. 21, 1993, 107 Stat. 1043, provided that:
 
 **Special Facilities Center; Temporary Restriction on Evening Use**
 
-Pub. L. 102–451, § 4, Oct. 23, 1992, 106 Stat. 2253, provided that: “No evening meetings may be held at the Library of Congress Special Facilities Center until an on-site parking plan for the property is approved by the Joint Committee on the Library.”
+Pub. L. 102–451, § 4, Oct. 23, 1992, 106 Stat. 2253, provided that: “No evening meetings may be held at the Library of Congress Special Facilities Center until an on-site parking plan for the property is approved by the Joint Committee on the Library.”
 
 **Special Facilities Center; Acquisition**
 
-Pub. L. 101–520, title II, § 205, Nov. 5, 1990, 104 Stat. 2272, as amended by Pub. L. 102–451, §§ 1–3, Oct. 23, 1992, 106 Stat. 2253, provided that:
+Pub. L. 101–520, title II, § 205, Nov. 5, 1990, 104 Stat. 2272, as amended by Pub. L. 102–451, §§ 1–3, Oct. 23, 1992, 106 Stat. 2253, provided that:
 
 > **“(a)** The Architect of the Capitol may acquire on behalf of the United States Government by purchase, condemnation, transfer, or otherwise (1) all publicly or privately owned real property in lot 51 in square 869 in the District of Columbia, as that lot appears on the records in the office of the Surveyor of the District of Columbia on August 1, 1990, extending to the outer face of the curbs of the square in which it is located and including all alleys or parts of alleys and streets within the lot lines and curb lines surrounding such real property, and (2) improvements to such real property. The property acquired under this section shall be known as the ‘Library of Congress Special Facilities Center’ (hereinafter in this section referred to as the ‘Center’).
 
@@ -679,7 +679,7 @@ Pub. L. 101–520, title II, § 205, Nov. 5, 1990, 104 Stat. 2272, as amended 
 
 > **“(B)** subject to audit by the Comptroller General at the discretion of the Comptroller General.”
 
-Similar provisions were contained in Pub. L. 101–562, §§ 1, 2, 4, Nov. 15, 1990, 104 Stat. 2780, 2781, which was repealed by Pub. L. 102–451, § 5, Oct. 23, 1992, 106 Stat. 2254, eff. Nov. 15, 1990.
+Similar provisions were contained in Pub. L. 101–562, §§ 1, 2, 4, Nov. 15, 1990, 104 Stat. 2780, 2781, which was repealed by Pub. L. 102–451, § 5, Oct. 23, 1992, 106 Stat. 2254, eff. Nov. 15, 1990.
 
 **Additional Building for Library of Congress**
 
@@ -687,21 +687,21 @@ Pub. L. 86–469, May 14, 1960, 74 Stat. 132, authorized Architect of the Capito
 
 **Library of Congress Thomas Jefferson Building**
 
-Pub. L. 104–208, div. A, title V, § 5402, Sept. 30, 1996, 110 Stat. 3009–511, provided that: “The Founders Hall instructional area in the House of Representatives Page School, located in the Thomas Jefferson Building of the Library of Congress, shall be known and designated as ‘Bill Emerson Hall’.”
+Pub. L. 104–208, div. A, title V, § 5402, Sept. 30, 1996, 110 Stat. 3009–511, provided that: “The Founders Hall instructional area in the House of Representatives Page School, located in the Thomas Jefferson Building of the Library of Congress, shall be known and designated as ‘Bill Emerson Hall’.”
 
-Pub. L. 96–269, § 1, June 13, 1980, 94 Stat. 486, provided: “That the building in the block bounded by East Capitol Street, Second Street Southeast, Independence Avenue Southeast, and First Street Southeast, in the District of Columbia (commonly known as the Library of Congress Building or the Library of Congress Main Building), shall hereafter be known and designated as the ‘Library of Congress Thomas Jefferson Building’. Any reference in any law, map, regulation, document, record, or other paper of the United States to such building shall be held to be a reference to the Library of Congress Thomas Jefferson Building.”
+Pub. L. 96–269, § 1, June 13, 1980, 94 Stat. 486, provided: “That the building in the block bounded by East Capitol Street, Second Street Southeast, Independence Avenue Southeast, and First Street Southeast, in the District of Columbia (commonly known as the Library of Congress Building or the Library of Congress Main Building), shall hereafter be known and designated as the ‘Library of Congress Thomas Jefferson Building’. Any reference in any law, map, regulation, document, record, or other paper of the United States to such building shall be held to be a reference to the Library of Congress Thomas Jefferson Building.”
 
-Pub. L. 94–264, Apr. 13, 1976, 90 Stat. 329, which had designated the Library of Congress Annex as the Library of Congress Thomas Jefferson Building, was repealed by Pub. L. 96–269, § 3, June 13, 1980, 94 Stat. 486, as part of the redesignation of that building as the Library of Congress John Adams Building and the designation of the main building of the Library of Congress as the Library of Congress Thomas Jefferson Building.
+Pub. L. 94–264, Apr. 13, 1976, 90 Stat. 329, which had designated the Library of Congress Annex as the Library of Congress Thomas Jefferson Building, was repealed by Pub. L. 96–269, § 3, June 13, 1980, 94 Stat. 486, as part of the redesignation of that building as the Library of Congress John Adams Building and the designation of the main building of the Library of Congress as the Library of Congress Thomas Jefferson Building.
 
 **Library of Congress John Adams Building**
 
-Pub. L. 96–269, § 2, June 13, 1980, 94 Stat. 486, provided that: “The building in the block bounded by East Capitol Street, Second Street Southeast, Third Street Southeast, and Pennsylvania Avenue Southeast, in the District of Columbia (commonly known as the Library of Congress Thomas Jefferson Building or the Library of Congress Annex Building), shall hereafter be known and designated as the ‘Library of Congress John Adams Building’. Any reference in any law, map, regulation, document, record, or other paper of the United States to such building shall be held to be a reference to the Library of Congress John Adams Building.”
+Pub. L. 96–269, § 2, June 13, 1980, 94 Stat. 486, provided that: “The building in the block bounded by East Capitol Street, Second Street Southeast, Third Street Southeast, and Pennsylvania Avenue Southeast, in the District of Columbia (commonly known as the Library of Congress Thomas Jefferson Building or the Library of Congress Annex Building), shall hereafter be known and designated as the ‘Library of Congress John Adams Building’. Any reference in any law, map, regulation, document, record, or other paper of the United States to such building shall be held to be a reference to the Library of Congress John Adams Building.”
 
 **Library of Congress James Madison Memorial Building**
 
-Pub. L. 91–214, § 2, Mar. 16, 1970, 84 Stat. 69, provided that: “Nothing contained in the Act of October 19, 1965 (79 Stat. 986) [set out as a note under this section], shall be construed to authorize the use of the third Library of Congress building authorized by such Act for general office building purposes.”
+Pub. L. 91–214, § 2, Mar. 16, 1970, 84 Stat. 69, provided that: “Nothing contained in the Act of October 19, 1965 (79 Stat. 986) [set out as a note under this section], shall be construed to authorize the use of the third Library of Congress building authorized by such Act for general office building purposes.”
 
-Pub. L. 89–260, Oct. 19, 1965, 79 Stat. 987, as amended by Pub. L. 91–214, § 1, Mar. 16, 1970, 84 Stat. 69; Pub. L. 94–219, Feb. 27, 1976, 90 Stat. 194; Pub. L. 95–548, Oct. 30, 1978, 92 Stat. 2064, provided:
+Pub. L. 89–260, Oct. 19, 1965, 79 Stat. 987, as amended by Pub. L. 91–214, § 1, Mar. 16, 1970, 84 Stat. 69; Pub. L. 94–219, Feb. 27, 1976, 90 Stat. 194; Pub. L. 95–548, Oct. 30, 1978, 92 Stat. 2064, provided:
 
 > “That
 
@@ -719,7 +719,7 @@ Pub. L. 89–260, Oct. 19, 1965, 79 Stat. 987, as amended by Pub. L. 91–214, �
 
 > “There is also authorized to be appropriated not exceeding $10,000 to pay the expenses of the James Madison Memorial Commission.”
 
-## § 141a. Design, installation, and maintenance of security systems; transfer of responsibility
+## § 141a. Design, installation, and maintenance of security systems; transfer of responsibility
 
 The responsibility for design, installation, and maintenance of security systems to protect the physical security of the buildings and grounds of the Library of Congress is transferred from the Architect of the Capitol to the Capitol Police Board. Such design, installation, and maintenance shall be carried out under the direction of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate, and without regard to section 6101 of title 41. Any alteration to a structural, mechanical, or architectural feature of the buildings and grounds of the Library of Congress that is required for a security system under the preceding sentence may be carried out only with the approval of the Architect of the Capitol.
 
@@ -729,7 +729,7 @@ The responsibility for design, installation, and maintenance of security systems
 
 **Codification**
 
-In text, “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In text, “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section is from the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999.
 
@@ -739,7 +739,7 @@ Section is from the Omnibus Consolidated and Emergency Supplemental Appropriatio
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-## § 141b. Collections, physical security, control, and preservation of order and decorum within the library
+## § 141b. Collections, physical security, control, and preservation of order and decorum within the library
 
 **(a) Establishment of regulations**
 
@@ -767,7 +767,7 @@ Not later than October 1, 2008, the Chief of the Capitol Police, in coordination
 
 **(D)** Section 1965 of this title.
 
-(Pub. L. 110–161, div. H, title I, § 1004(e), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, § 5, Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
+(Pub. L. 110–161, div. H, title I, § 1004(e), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, § 5, Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 **Editorial Notes**
 
@@ -777,7 +777,7 @@ This Act, referred to in subsec. (b)(1), is Pub. L. 110–178, Jan. 7, 2008, 121
 
 **Codification**
 
-Pub. L. 110–161, div. H, title I, § 1004(e), and Pub. L. 110–178, § 5, enacted substantially identical provisions. This section is based on text of section 5 of Pub. L. 110–178. Pub. L. 110–161, § 1004, was repealed by Pub. L. 111–145.
+Pub. L. 110–161, div. H, title I, § 1004(e), and Pub. L. 110–178, § 5, enacted substantially identical provisions. This section is based on text of section 5 of Pub. L. 110–178. Pub. L. 110–161, § 1004, was repealed by Pub. L. 111–145.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -785,19 +785,19 @@ Pub. L. 110–161, div. H, title I, § 1004(e), and Pub. L. 110–178, § 5,
 
 Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if included in the enactment of Pub. L. 110–161 and to have no effect on the enactment or implementation of any provision of Pub. L. 110–178, see section 6(d) of Pub. L. 111–145, set out as a note under section 1901 of this title.
 
-## § 142. Omitted
+## § 142. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, acts June 29, 1922, ch. 251, § 1, 42 Stat. 715; Nov. 5, 1990, Pub. L. 101–520, title III, § 307, 104 Stat. 2277; Pub. L. 108–7, div. H, title I, § 1208(a), Feb. 20, 2003, 117 Stat. 375, established office of administrative assistant and disbursing officer of Library of Congress which was abolished by section 142a of this title. As amended generally by Pub. L. 108–7, section no longer relates to office of administrative assistant and disbursing officer. See section 141 of this title.
+Section, acts June 29, 1922, ch. 251, § 1, 42 Stat. 715; Nov. 5, 1990, Pub. L. 101–520, title III, § 307, 104 Stat. 2277; Pub. L. 108–7, div. H, title I, § 1208(a), Feb. 20, 2003, 117 Stat. 375, established office of administrative assistant and disbursing officer of Library of Congress which was abolished by section 142a of this title. As amended generally by Pub. L. 108–7, section no longer relates to office of administrative assistant and disbursing officer. See section 141 of this title.
 
-## § 142a. Office of administrative assistant and disbursing officer in Library of Congress abolished; transfer of duties to appointee of Librarian
+## § 142a. Office of administrative assistant and disbursing officer in Library of Congress abolished; transfer of duties to appointee of Librarian
 
 From and after June 10, 1928, the office of administrative assistant and disbursing officer of the Library of Congress, created by section 142 of this title, is abolished and thereafter the duties required to be performed by the administrative assistant and disbursing officer shall be performed, under the direction of the Librarian of Congress, by such persons as the Librarian may appoint for those purposes.
 
-(May 11, 1928, ch. 521, 45 Stat. 497; Pub. L. 92–310, title II, § 220(h), June 6, 1972, 86 Stat. 205.)
+(May 11, 1928, ch. 521, 45 Stat. 497; Pub. L. 92–310, title II, § 220(h), June 6, 1972, 86 Stat. 205.)
 
 **Editorial Notes**
 
@@ -813,39 +813,39 @@ Section 142 of this title, referred to in text, was omitted from the Code.
 
 **Transfer of Functions**
 
-Disbursement functions of all Government agencies, except Departments of the Army, Navy, and Air Force and Panama Canal transferred to Division of Disbursements, Treasury Department, by Ex. Ord. No. 6166, § 4, June 10, 1933, and Ex. Ord. No. 6728, May 29, 1934.
+Disbursement functions of all Government agencies, except Departments of the Army, Navy, and Air Force and Panama Canal transferred to Division of Disbursements, Treasury Department, by Ex. Ord. No. 6166, § 4, June 10, 1933, and Ex. Ord. No. 6728, May 29, 1934.
 
-Division subsequently consolidated with other agencies into Fiscal Service in Treasury Department by Reorg. Plan No. III of 1940, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231. See section 306 of Title 31, Money and Finance.
+Division subsequently consolidated with other agencies into Fiscal Service in Treasury Department by Reorg. Plan No. III of 1940, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231. See section 306 of Title 31, Money and Finance.
 
-## § 142b. Certifying officers of the Library of Congress; accountability; relief by Comptroller General
+## § 142b. Certifying officers of the Library of Congress; accountability; relief by Comptroller General
 
 On and after June 13, 1957, each officer and employee of the Library of Congress, including the Copyright Office, who has been duly authorized in writing by the Librarian of Congress to certify vouchers for payment from appropriations and funds, shall (1) be held responsible for the existence and correctness of the facts recited in the certificate or otherwise stated on the voucher or its supporting papers and for the legality of the proposed payment under the appropriation or fund involved; (2) [Repealed]; (3) be held responsible and accountable for the correctness of the computations of certified vouchers; and (4) be held accountable for and required to make good to the United States the amount of any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate made by him, as well as for any payment prohibited by law or which did not represent a legal obligation under the appropriation or fund involved: *Provided*, That the Comptroller General of the United States may, at his discretion, relieve such certifying officer or employee of liability for any payment otherwise proper whenever he finds (1) that the certification was based on official records and that such certifying officer or employee did not know, and by reasonable diligence and inquiry could not have ascertained, the actual facts, or (2) that the obligation was incurred in good faith, that the payment was not contrary to any statutory provision specifically prohibiting payments of the character involved, and the United States has received value for such payment: *Provided further*, That the Comptroller General shall relieve such certifying officer or employee of liability for an overpayment for transportation services made to any common carrier covered by section 3726 of title 31, whenever he finds that the overpayment occurred solely because the administrative examination made prior to payment of the transportation bill did not include a verification of transportation rates, freight classifications, or land grant deductions.
 
-(Pub. L. 85–53, § 1, June 13, 1957, 71 Stat. 81; Pub. L. 92–310, title II, § 220(k), June 6, 1972, 86 Stat. 205.)
+(Pub. L. 85–53, § 1, June 13, 1957, 71 Stat. 81; Pub. L. 92–310, title II, § 220(k), June 6, 1972, 86 Stat. 205.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 3726 of title 31” substituted in text for “title III, part II, section 322, of the Transportation Act of 1940, approved September 18, 1940 [31 U.S.C. 244]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Section 3726 of title 31” substituted in text for “title III, part II, section 322, of the Transportation Act of 1940, approved September 18, 1940 [31 U.S.C. 244]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
 1972—Pub. L. 92–310 struck out provisions which required officers and employees of Library who are authorized to certify vouchers for payment to give a bond.
 
-## § 142c. Enforcement of liability of certifying officers of Library of Congress
+## § 142c. Enforcement of liability of certifying officers of Library of Congress
 
 The liability of these certifying officers or employees shall be enforced in the same manner and to the same extent as now provided by law with respect to enforcement of the liability of disbursing and other accountable officers; and they shall have the right to apply for and obtain a decision by the Comptroller General on any question of law involved in a payment on any vouchers presented to them for certification.
 
-(Pub. L. 85–53, § 2, June 13, 1957, 71 Stat. 81.)
+(Pub. L. 85–53, § 2, June 13, 1957, 71 Stat. 81.)
 
-## § 142d. Disbursing officer of the Library of Congress; disbursements in accordance with voucher; examination of vouchers; liability
+## § 142d. Disbursing officer of the Library of Congress; disbursements in accordance with voucher; examination of vouchers; liability
 
 The disbursing officer of the Library of Congress shall (1) disburse moneys of the Library of Congress only upon, and in strict accordance with, vouchers duly certified by the Librarian of Congress or by an officer or employee of the Library of Congress duly authorized in writing by the Librarian to certify such vouchers; (2) make such examination of vouchers as may be necessary to ascertain whether they are in proper form, and duly certified and approved; and (3) be held accountable accordingly: *Provided*, That the disbursing officer shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate, the responsibility for which, under section 142b of this title, is imposed upon a certifying officer or employee of the Library of Congress.
 
-(Pub. L. 85–53, § 3, June 13, 1957, 71 Stat. 81.)
+(Pub. L. 85–53, § 3, June 13, 1957, 71 Stat. 81.)
 
-## § 142e. Disbursing Officer of the Library of Congress; disbursements for Congressional Budget Office, accountability; financial management support to Congressional Budget Office under agreement of Librarian of Congress and Director of Congressional Budget Office; Congressional Budget Office certifying officers: voucher certifications, accountability, relief by Comptroller General
+## § 142e. Disbursing Officer of the Library of Congress; disbursements for Congressional Budget Office, accountability; financial management support to Congressional Budget Office under agreement of Librarian of Congress and Director of Congressional Budget Office; Congressional Budget Office certifying officers: voucher certifications, accountability, relief by Comptroller General
 
 From and after January 1, 1976, the Disbursing Officer of the Library of Congress is authorized to disburse funds appropriated for the Congressional Budget Office, and the Library of Congress shall provide financial management support to the Congressional Budget Office as may be required and mutually agreed to by the Librarian of Congress and the Director of the Congressional Budget Office. The Library of Congress is further authorized to compute and disburse the basic pay of all personnel of the Congressional Budget Office pursuant to the provisions of section 5504 of title 5, except the Director, who as head of an agency, shall have pay computed and disbursed pursuant to the provisions of section 5505 of title 5.
 
@@ -853,13 +853,13 @@ All vouchers certified for payment by duly authorized certifying officers of the
 
 The Disbursing Officer of the Library of Congress shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate, the responsibility for which is imposed upon a certifying officer or employee of the Congressional Budget Office.
 
-(Pub. L. 96–536, § 101(c), Dec. 16, 1980, 94 Stat. 3167.)
+(Pub. L. 96–536, § 101(c), Dec. 16, 1980, 94 Stat. 3167.)
 
 **Editorial Notes**
 
 **Codification**
 
-In the second par., “section 3726 of title 31” substituted for “section 244 of title 31” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In the second par., “section 3726 of title 31” substituted for “section 244 of title 31” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section is based on section 207 of title II of H.R. 7593, as passed the House of Representatives on July 21, 1980, and incorporated by reference in section 101(c) of Pub. L. 96–536, to be effective as if enacted into law.
 
@@ -867,43 +867,43 @@ Section is based on section 207 of title II of H.R. 7593, as passed the House of
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 96–86, § 101(c) [H.R. 4390, title II, § 207], Oct. 12, 1979, 93 Stat. 657.
+Pub. L. 96–86, § 101(c) [H.R. 4390, title II, § 207], Oct. 12, 1979, 93 Stat. 657.
 
-Pub. L. 95–391, title II, § 207, Sept. 30, 1978, 92 Stat. 786.
+Pub. L. 95–391, title II, § 207, Sept. 30, 1978, 92 Stat. 786.
 
-Pub. L. 95–94, title II, § 207, Aug. 5, 1977, 91 Stat. 678.
+Pub. L. 95–94, title II, § 207, Aug. 5, 1977, 91 Stat. 678.
 
-Pub. L. 94–440, title VIII, § 808, Oct. 1, 1976, 90 Stat. 1458.
+Pub. L. 94–440, title VIII, § 808, Oct. 1, 1976, 90 Stat. 1458.
 
 Pub. L. 94–157, title I, ch. IV, Dec. 18, 1975, 89 Stat. 835.
 
-## § 142f. Office of Technology Assessment; disbursement of funds, computation and disbursement of basic pay, and provision of financial management support by Library of Congress
+## § 142f. Office of Technology Assessment; disbursement of funds, computation and disbursement of basic pay, and provision of financial management support by Library of Congress
 
 From and after October 1, 1981, the Disbursing Officer of the Library of Congress is authorized to disburse funds appropriated for the Office of Technology Assessment, and the Library of Congress shall provide financial management support to the Office of Technology Assessment as may be required and mutually agreed to by the Librarian of Congress and the Director of the Office of Technology Assessment. The Library of Congress is further authorized to compute and disburse the basic pay of all personnel of the Office of Technology Assessment pursuant to the provisions of section 5504 of title 5.
 
-All vouchers certified for payment by duly authorized certifying officers of the Library of Congress shall be supported with a certification by an officer or employee of the Office of Technology Assessment duly authorized in writing by the Director of the Office of Technology Assessment to certify payments from appropriations of the Office of Technology Assessment. The Office of Technology Assessment certifying officers shall (1) be held responsible for the existence and correctness of the facts recited in the certificate or otherwise stated on the voucher or its supporting paper and the legality of the proposed payment under the appropriation or fund involved, (2) be held responsible and accountable for the correctness of the computations of certifications made, and (3) be held accountable for and required to make good to the United States the amount of any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate made by him, as well as for any payment prohibited by law which did not represent a legal obligation under the appropriation or fund involved: *Provided*, That the Comptroller General of the United States may, at his discretion, relieve such certifying officer or employee of liability for any payment otherwise proper whenever he finds (1) that the certification was based on official records and that such certifying officer or employee did not know, and by reasonable diligence and inquiry could not have ascertained the actual facts, or (2) that the obligation was incurred in good faith, that the payment was not contrary to any statutory provision specifically prohibiting payments of the character involved, and the United States has received value for such payment: *Provided further*, That the Comptroller General shall relieve such certifying officer or employee of liability for an overpayment for transportation services made to any common carrier covered by section 3726 of title 31, whenever he finds that the overpayment occurred solely because of 1
+All vouchers certified for payment by duly authorized certifying officers of the Library of Congress shall be supported with a certification by an officer or employee of the Office of Technology Assessment duly authorized in writing by the Director of the Office of Technology Assessment to certify payments from appropriations of the Office of Technology Assessment. The Office of Technology Assessment certifying officers shall (1) be held responsible for the existence and correctness of the facts recited in the certificate or otherwise stated on the voucher or its supporting paper and the legality of the proposed payment under the appropriation or fund involved, (2) be held responsible and accountable for the correctness of the computations of certifications made, and (3) be held accountable for and required to make good to the United States the amount of any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate made by him, as well as for any payment prohibited by law which did not represent a legal obligation under the appropriation or fund involved: *Provided*, That the Comptroller General of the United States may, at his discretion, relieve such certifying officer or employee of liability for any payment otherwise proper whenever he finds (1) that the certification was based on official records and that such certifying officer or employee did not know, and by reasonable diligence and inquiry could not have ascertained the actual facts, or (2) that the obligation was incurred in good faith, that the payment was not contrary to any statutory provision specifically prohibiting payments of the character involved, and the United States has received value for such payment: *Provided further*, That the Comptroller General shall relieve such certifying officer or employee of liability for an overpayment for transportation services made to any common carrier covered by section 3726 of title 31, whenever he finds that the overpayment occurred solely because of 1
 
-<sup>1</sup>  So in original. The word “of” probably should not appear.
+<sup>1</sup> So in original. The word “of” probably should not appear.
 
 the administrative examination made prior to payment of the transportation bill did not include a verification of transportation rates, freight classifications, or land grant deductions.
 
 The Disbursing Officer of the Library of Congress shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate, the responsibility for which is imposed upon a certifying officer or employee of the Office of Technology Assessment.
 
-(Pub. L. 97–51, § 101(c), Oct. 1, 1981, 95 Stat. 959.)
+(Pub. L. 97–51, § 101(c), Oct. 1, 1981, 95 Stat. 959.)
 
 **Editorial Notes**
 
 **Codification**
 
-In the second par., “section 3726 of title 31” substituted for “section 244 of title 31” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In the second par., “section 3726 of title 31” substituted for “section 244 of title 31” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section is based on section 205 of title II of H.R. 4120, as reported July 9, 1981, and incorporated by reference in section 101(c) of Pub. L. 97–51, to be effective as if enacted into law.
 
-## § 142g. Copyright Royalty Tribunal; computation and disbursement of pay of Tribunal personnel by Library of Congress
+## § 142g. Copyright Royalty Tribunal; computation and disbursement of pay of Tribunal personnel by Library of Congress
 
 From and after October 1, 1983, the Library of Congress is authorized to compute and disburse basic pay of all personnel of the Copyright Royalty Tribunal pursuant to the provisions of section 5504 of title 5.
 
-(Pub. L. 98–51, title II, § 204, July 14, 1983, 97 Stat. 277.)
+(Pub. L. 98–51, title II, § 204, July 14, 1983, 97 Stat. 277.)
 
 **Editorial Notes**
 
@@ -911,19 +911,19 @@ From and after October 1, 1983, the Library of Congress is authorized to compute
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 97–276, § 101(e) [S. 2939, title II, § 204], Oct. 2, 1982, 96 Stat. 1189.
+Pub. L. 97–276, § 101(e) [S. 2939, title II, § 204], Oct. 2, 1982, 96 Stat. 1189.
 
-Pub. L. 97–51, § 101(c) [H.R. 4120, title II, § 204], Oct. 1, 1981, 95 Stat. 959.
+Pub. L. 97–51, § 101(c) [H.R. 4120, title II, § 204], Oct. 1, 1981, 95 Stat. 959.
 
-Pub. L. 96–536, § 101(c) [H.R. 7593, title II, § 208], Dec. 16, 1980, 94 Stat. 3167.
+Pub. L. 96–536, § 101(c) [H.R. 7593, title II, § 208], Dec. 16, 1980, 94 Stat. 3167.
 
-Pub. L. 96–86, § 101(c) [H.R. 4390, title II, § 208], Oct. 12, 1979, 93 Stat. 657.
+Pub. L. 96–86, § 101(c) [H.R. 4390, title II, § 208], Oct. 12, 1979, 93 Stat. 657.
 
-Pub. L. 95–391, title II, § 208, Sept. 30, 1978, 92 Stat. 786.
+Pub. L. 95–391, title II, § 208, Sept. 30, 1978, 92 Stat. 786.
 
-Pub. L. 95–94, title II, § 208, Aug. 5, 1977, 91 Stat. 678.
+Pub. L. 95–94, title II, § 208, Aug. 5, 1977, 91 Stat. 678.
 
-## § 142h. Biomedical Ethics Board; disbursement of funds, computation and disbursement of basic pay, and provision of financial management services and support by Library of Congress
+## § 142h. Biomedical Ethics Board; disbursement of funds, computation and disbursement of basic pay, and provision of financial management services and support by Library of Congress
 
 Effective October 1, 1988, and to continue thereafter, the Disbursing Officer of the Library of Congress is authorized to—
 
@@ -945,13 +945,13 @@ Provisions similar to those in this section were contained in the following prio
 
 Pub. L. 100–458, title I, Oct. 1, 1988, 102 Stat. 2168.
 
-## § 142i. United States Capitol Preservation Commission; provision of financial management services and support by Library of Congress
+## § 142i. United States Capitol Preservation Commission; provision of financial management services and support by Library of Congress
 
 Effective June 15, 1989, the Library of Congress shall provide financial management services and support to the United States Capitol Preservation Commission as may be required and mutually agreed to by the Librarian of Congress and the Cochairmen of the United States Capitol Preservation Commission.
 
 (Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 107.)
 
-## § 142j. John C. Stennis Center for Public Service Training and Development; disbursement of funds, computation and disbursement of basic pay, and provision of financial management services and support by Library of Congress; payment for services
+## § 142j. John C. Stennis Center for Public Service Training and Development; disbursement of funds, computation and disbursement of basic pay, and provision of financial management services and support by Library of Congress; payment for services
 
 From and after October 1, 1988, the Library of Congress is authorized to—
 
@@ -963,27 +963,27 @@ From and after October 1, 1988, the Library of Congress is authorized to—
 
 **(4)** collect from the funds appropriated for the John C. Stennis Center for Public Service Training and Development the full costs of providing the services specified in (1), (2), and (3) above, as provided under an agreement for services ordered under 31 U.S.C. 1535 and 1536.
 
-(Pub. L. 101–163, title II, § 205, Nov. 21, 1989, 103 Stat. 1060.)
+(Pub. L. 101–163, title II, § 205, Nov. 21, 1989, 103 Stat. 1060.)
 
-## § 142k. Library of Congress disbursing office; payroll processing functions
+## § 142k. Library of Congress disbursing office; payroll processing functions
 
 From and after October 1, 1989, the Librarian of Congress shall take appropriate action to assure that no legislative branch employee whose salary is disbursed by the Library of Congress disbursing office is adversely affected by alternative ways of performing the personnel/payroll processing function.
 
-(Pub. L. 101–163, title II, § 206, Nov. 21, 1989, 103 Stat. 1060.)
+(Pub. L. 101–163, title II, § 206, Nov. 21, 1989, 103 Stat. 1060.)
 
-## § 142l. Disbursing Officer of Library of Congress; disbursements for Office of Congressional Workplace Rights; voucher certifications, accountability and relief by Comptroller General
+## § 142l. Disbursing Officer of Library of Congress; disbursements for Office of Congressional Workplace Rights; voucher certifications, accountability and relief by Comptroller General
 
 From and after October 1, 1996, the Disbursing Officer of the Library of Congress is authorized to disburse funds appropriated for the Office of Compliance,1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
-and the Library of Congress shall provide financial management support to the Office of Compliance 1 as may be required and mutually agreed to by the Librarian of Congress and the Executive Director of the Office of Compliance.1 The Library of Congress is further authorized to compute and disburse the basic pay of all personnel of the Office of Compliance 1 pursuant to the provisions of section 5504 of title 5.
+and the Library of Congress shall provide financial management support to the Office of Compliance 1 as may be required and mutually agreed to by the Librarian of Congress and the Executive Director of the Office of Compliance.1 The Library of Congress is further authorized to compute and disburse the basic pay of all personnel of the Office of Compliance 1 pursuant to the provisions of section 5504 of title 5.
 
-All vouchers certified for payment by duly authorized certifying officers of the Library of Congress shall be supported with a certification by an officer or employee of the Office of Compliance <sup>1</sup> duly authorized in writing by the Executive Director of the Office of Compliance <sup>1</sup> to certify payments from appropriations of the Office of Compliance.<sup>1</sup> The Office of Compliance <sup>1</sup> certifying officers shall (1) be held responsible for the existence and correctness of the facts recited in the certificate or otherwise stated on the voucher or its supporting paper and the legality of the proposed payment under the appropriation or fund involved, (2) be held responsible and accountable for the correctness of the computations of certifications made, and (3) be held accountable for and required to make good to the United States the amount of any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate made by them, as well as for any payment prohibited by law which did not represent a legal obligation under the appropriation or fund involved: *Provided*, That the Comptroller General of the United States may, at his discretion, relieve such certifying officer or employee of liability for any payment otherwise proper whenever he finds (1) that the certification was based on official records and that such certifying officer or employee did not know, and by reasonable diligence and inquiry could not have ascertained the actual facts, or (2) that the obligation was incurred in good faith, that the payment was not contrary to any statutory provision specifically prohibiting payments of the character involved, and the United States has received value for such payment: *Provided further*, That the Comptroller General shall relieve such certifying officer or employee of liability for an overpayment for transportation services made to any common carrier covered by section 3726 of title 31, whenever he finds that the overpayment occurred solely because the administrative examination made prior to payment of the transportation bill did not include a verification of transportation rates, freight classifications, or land grant deductions.
+All vouchers certified for payment by duly authorized certifying officers of the Library of Congress shall be supported with a certification by an officer or employee of the Office of Compliance <sup>1</sup> duly authorized in writing by the Executive Director of the Office of Compliance <sup>1</sup> to certify payments from appropriations of the Office of Compliance.<sup>1</sup> The Office of Compliance <sup>1</sup> certifying officers shall (1) be held responsible for the existence and correctness of the facts recited in the certificate or otherwise stated on the voucher or its supporting paper and the legality of the proposed payment under the appropriation or fund involved, (2) be held responsible and accountable for the correctness of the computations of certifications made, and (3) be held accountable for and required to make good to the United States the amount of any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate made by them, as well as for any payment prohibited by law which did not represent a legal obligation under the appropriation or fund involved: *Provided*, That the Comptroller General of the United States may, at his discretion, relieve such certifying officer or employee of liability for any payment otherwise proper whenever he finds (1) that the certification was based on official records and that such certifying officer or employee did not know, and by reasonable diligence and inquiry could not have ascertained the actual facts, or (2) that the obligation was incurred in good faith, that the payment was not contrary to any statutory provision specifically prohibiting payments of the character involved, and the United States has received value for such payment: *Provided further*, That the Comptroller General shall relieve such certifying officer or employee of liability for an overpayment for transportation services made to any common carrier covered by section 3726 of title 31, whenever he finds that the overpayment occurred solely because the administrative examination made prior to payment of the transportation bill did not include a verification of transportation rates, freight classifications, or land grant deductions.
 
 The Disbursing Officer of the Library of Congress shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate, the responsibility for which is imposed upon a certifying officer or employee of the Office of Compliance.<sup>1</sup>
 
-(Pub. L. 104–197, title II, § 208, Sept. 16, 1996, 110 Stat. 2409.)
+(Pub. L. 104–197, title II, § 208, Sept. 16, 1996, 110 Stat. 2409.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -991,31 +991,31 @@ The Disbursing Officer of the Library of Congress shall not be held accountable 
 
 Office of Compliance changed, as of Dec. 21, 2018, and considered to refer and apply, to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as an Effective Date of 2018 Amendment note under section 1381 of this title.
 
-## § 143. Appropriations for Library Building and Grounds
+## § 143. Appropriations for Library Building and Grounds
 
 All appropriations made to the Architect of the Capitol on account of the Library Building and Grounds shall be disbursed for that purpose in the same manner as other appropriations under his control.
 
-(June 29, 1922, ch. 251, § 3, 42 Stat. 715.)
+(June 29, 1922, ch. 251, § 3, 42 Stat. 715.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Disbursement functions of all Government agencies except Departments of the Army, Navy, and Air Force and Panama Canal transferred to Division of Disbursements, Treasury Department, by Ex. Ord. No. 6166, § 4, June 10, 1933, and Ex. Ord. No. 6728, May 29, 1934.
+Disbursement functions of all Government agencies except Departments of the Army, Navy, and Air Force and Panama Canal transferred to Division of Disbursements, Treasury Department, by Ex. Ord. No. 6166, § 4, June 10, 1933, and Ex. Ord. No. 6728, May 29, 1934.
 
-Division subsequently consolidated with other agencies into Fiscal Service in Treasury Department by Reorg. Plan No. III of 1940, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231. See section 306 of Title 31, Money and Finance.
+Division subsequently consolidated with other agencies into Fiscal Service in Treasury Department by Reorg. Plan No. III of 1940, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231. See section 306 of Title 31, Money and Finance.
 
-## § 143a. Disbursement of funds
+## § 143a. Disbursement of funds
 
 From and after October 1, 1978, funds available to the Library of Congress may be expended to reimburse the Department of State for medical services rendered to employees of the Library of Congress stationed abroad and for contracting on behalf of and hiring alien employees for the Library of Congress under compensation plans comparable to those authorized by section 444 of the Foreign Service Act of 1946, as amended (22 U.S.C. 889(a)), for purchase or hire of passenger motor vehicles; for payment of travel, storage and transportation of household goods, and transportation and per diem expenses for families enroute (not to exceed twenty-four); for benefits comparable to those payable under sections 911(9), 911(11), and 941 of the Foreign Service Act of 1946, as amended (22 U.S.C. 1136(9), 1136(11), and 1156, respectively); and travel benefits comparable with those which are now or hereafter may be granted single employees of the Agency for International Development, including single Foreign Service personnel assigned to A.I.D. projects, by the Administrator of the Agency for International Development—or his designee—under the authority of section 2396(b) of title 22; subject to such rules and regulations as may be issued by the Librarian of Congress.
 
-(Pub. L. 96–536, § 101(c), Dec. 16, 1980, 94 Stat. 3167.)
+(Pub. L. 96–536, § 101(c), Dec. 16, 1980, 94 Stat. 3167.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 444, 911(9), 911(11), and 941 of the Foreign Service Act of 1946, referred to in text, were repealed by section 2205(1) of the Foreign Service Act of 1980, Pub. L. 96–465, title II, Oct. 17, 1980, 94 Stat. 2159. The Foreign Service Act of 1980 is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. Section 2401(c) of the 1980 Act (22 U.S.C. 4172(c)) provides in part that references in law to provisions of the Foreign Service Act of 1946 shall be deemed to include reference to the corresponding provisions of the 1980 Act. For provisions corresponding to the above cited sections of the 1946 Act, see sections 408, 901(6), 901(8), and 904 of the 1980 Act (22 U.S.C. 3968, 4081(6), 4081(8), 4084).
+Sections 444, 911(9), 911(11), and 941 of the Foreign Service Act of 1946, referred to in text, were repealed by section 2205(1) of the Foreign Service Act of 1980, Pub. L. 96–465, title II, Oct. 17, 1980, 94 Stat. 2159. The Foreign Service Act of 1980 is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. Section 2401(c) of the 1980 Act (22 U.S.C. 4172(c)) provides in part that references in law to provisions of the Foreign Service Act of 1946 shall be deemed to include reference to the corresponding provisions of the 1980 Act. For provisions corresponding to the above cited sections of the 1946 Act, see sections 408, 901(6), 901(8), and 904 of the 1980 Act (22 U.S.C. 3968, 4081(6), 4081(8), 4084).
 
 **Codification**
 
@@ -1025,15 +1025,15 @@ Section is based on section 203 of title II of H.R. 7593, as passed the House of
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 96–86, § 101(c) [H.R. 4390, title II, § 203], Oct. 12, 1979, 93 Stat. 657.
+Pub. L. 96–86, § 101(c) [H.R. 4390, title II, § 203], Oct. 12, 1979, 93 Stat. 657.
 
-Pub. L. 95–391, title II, § 203, Sept. 30, 1978, 92 Stat. 785.
+Pub. L. 95–391, title II, § 203, Sept. 30, 1978, 92 Stat. 785.
 
-Pub. L. 95–94, title II, § 203, Aug. 5, 1977, 91 Stat. 677.
+Pub. L. 95–94, title II, § 203, Aug. 5, 1977, 91 Stat. 677.
 
-Pub. L. 94–440, title VIII, § 803, Oct. 1, 1976, 90 Stat. 1457.
+Pub. L. 94–440, title VIII, § 803, Oct. 1, 1976, 90 Stat. 1457.
 
-Pub. L. 94–59, title VII, § 703, July 25, 1975, 89 Stat. 295.
+Pub. L. 94–59, title VII, § 703, July 25, 1975, 89 Stat. 295.
 
 Pub. L. 93–371, Aug. 13, 1974, 88 Stat. 441.
 
@@ -1053,11 +1053,11 @@ Pub. L. 90–57, July 28, 1967, 81 Stat. 140.
 
 Pub. L. 89–545, Aug. 27, 1966, 80 Stat. 368.
 
-## § 143b. Payments in advance for subscriptions or other charges
+## § 143b. Payments in advance for subscriptions or other charges
 
 From and after October 1, 1980, payments in advance for subscriptions or other charges for bibliographical data, publications, materials in any other form, and services may be made by the Librarian of Congress whenever he determines it to be more prompt, efficient, or economical to do so in the interest of carrying out required Library programs.
 
-(Pub. L. 96–536, § 101(c), Dec. 16, 1980, 94 Stat. 3167.)
+(Pub. L. 96–536, § 101(c), Dec. 16, 1980, 94 Stat. 3167.)
 
 **Editorial Notes**
 
@@ -1069,15 +1069,15 @@ Section is based on section 204 of title II of H.R. 7593, as passed the House of
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 96–86, § 101(c) [H.R. 4390, title II, § 204], Oct. 12, 1979, 93 Stat. 657.
+Pub. L. 96–86, § 101(c) [H.R. 4390, title II, § 204], Oct. 12, 1979, 93 Stat. 657.
 
-Pub. L. 95–391, title II, § 204, Sept. 30, 1978, 92 Stat. 786.
+Pub. L. 95–391, title II, § 204, Sept. 30, 1978, 92 Stat. 786.
 
-Pub. L. 95–94, title II, § 204, Aug. 5, 1977, 91 Stat. 677.
+Pub. L. 95–94, title II, § 204, Aug. 5, 1977, 91 Stat. 677.
 
-Pub. L. 94–440, title VIII, § 804, Oct. 1, 1976, 90 Stat. 1457.
+Pub. L. 94–440, title VIII, § 804, Oct. 1, 1976, 90 Stat. 1457.
 
-Pub. L. 94–59, title VII, § 704, July 25, 1975, 89 Stat. 295.
+Pub. L. 94–59, title VII, § 704, July 25, 1975, 89 Stat. 295.
 
 Pub. L. 93–371, Aug. 13, 1974, 88 Stat. 441.
 
@@ -1095,17 +1095,17 @@ Pub. L. 90–417, July 23, 1968, 82 Stat. 411.
 
 Pub. L. 90–57, July 28, 1967, 81 Stat. 140.
 
-## § 143c. Use of other library funds to make payments
+## § 143c. Use of other library funds to make payments
 
 In addition to amounts transferred pursuant to section 182b(e)(2) of this title, the Librarian of Congress may transfer amounts made available for salaries and expenses of the Library of Congress during a fiscal year to the applicable appropriations accounts of the United States Capitol Police in order to reimburse the Capitol Police for services provided in connection with a special event or program described in section 182b(a)(4) of this title.
 
-(Pub. L. 110–161, div. H, title I, § 1004(f)(2), Dec. 26, 2007, 121 Stat. 2236; Pub. L. 110–178, § 6(b), Jan. 7, 2008, 121 Stat. 2554; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
+(Pub. L. 110–161, div. H, title I, § 1004(f)(2), Dec. 26, 2007, 121 Stat. 2236; Pub. L. 110–178, § 6(b), Jan. 7, 2008, 121 Stat. 2554; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 110–161, div. H, title I, § 1004(f)(2), and Pub. L. 110–178, § 6(b), enacted substantially identical provisions. This section is based on text of section 6(b) of Pub. L. 110–178. Pub. L. 110–161, § 1004, was repealed by Pub. L. 111–145.
+Pub. L. 110–161, div. H, title I, § 1004(f)(2), and Pub. L. 110–178, § 6(b), enacted substantially identical provisions. This section is based on text of section 6(b) of Pub. L. 110–178. Pub. L. 110–161, § 1004, was repealed by Pub. L. 111–145.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1113,7 +1113,7 @@ Pub. L. 110–161, div. H, title I, § 1004(f)(2), and Pub. L. 110–178, §�
 
 Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if included in the enactment of Pub. L. 110–161 and to have no effect on the enactment or implementation of any provision of Pub. L. 110–178, see section 6(d) of Pub. L. 111–145, set out as a note under section 1901 of this title.
 
-## § 143d. Funds available for workers compensation payments
+## § 143d. Funds available for workers compensation payments
 
 **(a) In general**
 
@@ -1123,7 +1123,7 @@ Available balances of expired Library of Congress appropriations shall be availa
 
 This section shall apply with respect to appropriations for fiscal year 2012 and each fiscal year thereafter.
 
-(Pub. L. 112–74, div. G, title I, § 1303, Dec. 23, 2011, 125 Stat. 1131.)
+(Pub. L. 112–74, div. G, title I, § 1303, Dec. 23, 2011, 125 Stat. 1131.)
 
 **Editorial Notes**
 
@@ -1131,35 +1131,35 @@ This section shall apply with respect to appropriations for fiscal year 2012 and
 
 Section is from the Legislative Branch Appropriations Act, 2012, which is div. G of the Consolidated Appropriations Act, 2012.
 
-## § 144. Copies of Statutes at Large
+## § 144. Copies of Statutes at Large
 
 Ten of the copies of the Statutes at Large, published by Little, Brown & Co., which were deposited in the Library prior to February 5, 1859, shall be retained by the Librarian for the use of the justices of the Supreme Court, during the terms of court.
 
-(R.S. § 96.)
+(R.S. § 96.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 96 derived from act Feb. 5, 1859, ch. 22, § 11, 11 Stat. 381.
+R.S. § 96 derived from act Feb. 5, 1859, ch. 22, § 11, 11 Stat. 381.
 
-## § 145. Copies of journals and documents
+## § 145. Copies of journals and documents
 
 Two copies of the journals and documents, and of each book printed by either House of Congress, well bound in calf, shall be deposited in the Library, and must not be taken therefrom.
 
-(R.S. § 97.)
+(R.S. § 97.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 97 derived from Res. Jan. 2, 1857, No. 5, § 5, 11 Stat. 253.
+R.S. § 97 derived from Res. Jan. 2, 1857, No. 5, § 5, 11 Stat. 253.
 
-## § 145a. Periodical binding of printed hearings of committee testimony
+## § 145a. Periodical binding of printed hearings of committee testimony
 
 The Librarian of the Library of Congress is authorized and directed to have bound at the end of each session of Congress the printed hearings of testimony taken by each committee of the Congress at the preceding session.
 
-(Aug. 2, 1946, ch. 753, title I, § 141, 60 Stat. 834.)
+(Aug. 2, 1946, ch. 753, title I, § 141, 60 Stat. 834.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1167,31 +1167,31 @@ The Librarian of the Library of Congress is authorized and directed to have boun
 
 Section effective Aug. 2, 1946, see section 142 of act Aug. 2, 1946, ch. 753, title I, 60 Stat. 834.
 
-## § 146. Deposit of Journals of Senate and House
+## § 146. Deposit of Journals of Senate and House
 
 Twenty-five copies of the public Journals of the Senate, and of the House of Representatives, shall be deposited in the Library of the United States, at the seat of government, to be delivered to Members of Congress during any session, and to all other persons authorized by law to use the books in the Library, upon their application to the Librarian, and giving their responsible receipts for the same, in like manner as for other books.
 
-(R.S. § 98.)
+(R.S. § 98.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 98 derived from Res. Dec. 27, 1813, No. 1, 3 Stat. 140; Res. July 20, 1840, No. 5, 5 Stat. 409.
+R.S. § 98 derived from Res. Dec. 27, 1813, No. 1, 3 Stat. 140; Res. July 20, 1840, No. 5, 5 Stat. 409.
 
-## § 147. Repealed. Oct. 25, 1951, ch. 562, § 1(l), 65 Stat. 638
+## § 147. Repealed. Oct. 25, 1951, ch. 562, § 1(l), 65 Stat. 638
 
-Section, act June 6, 1900, ch. 791, § 1, 31 Stat. 642, related to bound volumes from files of House of Representatives. See sections 2103 and 2114 of Title 44, Public Printing and Documents.
+Section, act June 6, 1900, ch. 791, § 1, 31 Stat. 642, related to bound volumes from files of House of Representatives. See sections 2103 and 2114 of Title 44, Public Printing and Documents.
 
-## § 148. Repealed. Oct. 31, 1951, ch. 654, § 1(l), 65 Stat. 701
+## § 148. Repealed. Oct. 31, 1951, ch. 654, § 1(l), 65 Stat. 701
 
-Section, act Feb. 25, 1903, ch. 755, § 1, 32 Stat. 865, related to transfer of books from executive departments to Library.
+Section, act Feb. 25, 1903, ch. 755, § 1, 32 Stat. 865, related to transfer of books from executive departments to Library.
 
-## § 149. Transfer of books to other libraries
+## § 149. Transfer of books to other libraries
 
 The Librarian of Congress may from time to time transfer to other governmental libraries within the District of Columbia, including the Public Library, books and material in the possession of the Library of Congress in his judgment no longer necessary to its uses, but in the judgment of the custodians of such other collections likely to be useful to them, and may dispose of or destroy such material as has become useless: *Provided*, That no records of the Federal Government shall be transferred, disposed of, or destroyed under the authority granted in this section.
 
-(Mar. 4, 1909, ch. 297, § 1, 35 Stat. 858; Oct. 25, 1951, ch. 562, § 4(1), 65 Stat. 640.)
+(Mar. 4, 1909, ch. 297, § 1, 35 Stat. 858; Oct. 25, 1951, ch. 562, § 4(1), 65 Stat. 640.)
 
 **Editorial Notes**
 
@@ -1199,7 +1199,7 @@ The Librarian of Congress may from time to time transfer to other governmental l
 
 1951—Act Oct. 25, 1951, inserted proviso.
 
-## § 149a. Permitting use of proceeds from disposition of surplus or obsolete personal property
+## § 149a. Permitting use of proceeds from disposition of surplus or obsolete personal property
 
 **(a) Disposition of property**
 
@@ -1213,7 +1213,7 @@ Any amounts received by the Librarian of Congress from the disposition of proper
 
 This section shall apply with respect to fiscal year 2012 and each succeeding fiscal year.
 
-(Pub. L. 112–74, div. G, title I, § 1304, Dec. 23, 2011, 125 Stat. 1132.)
+(Pub. L. 112–74, div. G, title I, § 1304, Dec. 23, 2011, 125 Stat. 1132.)
 
 **Editorial Notes**
 
@@ -1221,11 +1221,11 @@ This section shall apply with respect to fiscal year 2012 and each succeeding fi
 
 Section is from the Legislative Branch Appropriations Act, 2012, which is div. G of the Consolidated Appropriations Act, 2012.
 
-## § 150. Sale of copies of card indexes and other publications
+## § 150. Sale of copies of card indexes and other publications
 
 The Librarian of Congress is authorized to furnish to such institutions or individuals as may desire to buy them, such copies of the card indexes and other publications of the Library as may not be required for its ordinary transactions, and charge for the same a price which will cover their cost and ten per centum added, and all moneys received by him shall be deposited in the Treasury and shall be credited to the appropriation for necessary expenses for the preparation and distribution of catalog cards and other publications of the Library.
 
-(June 28, 1902, ch. 1301, § 1, 32 Stat. 480; Pub. L. 95–94, title IV, § 405(a), Aug. 5, 1977, 91 Stat. 682.)
+(June 28, 1902, ch. 1301, § 1, 32 Stat. 480; Pub. L. 95–94, title IV, § 405(a), Aug. 5, 1977, 91 Stat. 682.)
 
 **Editorial Notes**
 
@@ -1237,13 +1237,13 @@ The Librarian of Congress is authorized to furnish to such institutions or indiv
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–94, title IV, § 405(b), Aug. 5, 1977, 91 Stat. 682, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1977.”
+Pub. L. 95–94, title IV, § 405(b), Aug. 5, 1977, 91 Stat. 682, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1977.”
 
-## § 151. Smithsonian Library
+## § 151. Smithsonian Library
 
 The library collected by the Smithsonian Institution under the provisions of the Act of August 10, 1846, chapter 25, and removed from the building of that institution, with the consent of the Regents thereof, to the Library of Congress, shall, while there deposited, be subject to the same regulations as the Library of Congress, except as hereinafter provided.
 
-(R.S. § 99.)
+(R.S. § 99.)
 
 **Editorial Notes**
 
@@ -1253,31 +1253,31 @@ Act of August 10, 1846, chapter 25, referred to in text, probably should be act 
 
 **Codification**
 
-R.S. § 99 derived from act Apr. 5, 1866, ch. 25, § 1, 14 Stat. 13.
+R.S. § 99 derived from act Apr. 5, 1866, ch. 25, § 1, 14 Stat. 13.
 
-## § 152. Care and use of Smithsonian Library
+## § 152. Care and use of Smithsonian Library
 
 The Smithsonian Institution shall have the use of the library referred to in section 151 of this title in like manner as before its removal. All the books, maps, and charts of the Smithsonian Library shall be properly cared for and preserved in like manner as are those of the Congressional Library; from which the Smithsonian Library shall not be removed except on reimbursement by the Smithsonian Institution to the Treasury of the United States of expenses incurred in binding and in taking care of the same, or upon such terms and conditions as shall be mutually agreed upon by Congress and the Regents of the Institution.
 
-(R.S. § 100.)
+(R.S. § 100.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 100 derived from act Apr. 5, 1866, ch. 25, § 2, 14 Stat. 13.
+R.S. § 100 derived from act Apr. 5, 1866, ch. 25, § 2, 14 Stat. 13.
 
-## § 153. Control of library of House of Representatives
+## § 153. Control of library of House of Representatives
 
 The library of the House of Representatives shall be under the control and direction of the Librarian of Congress, who shall provide all needful books of reference therefor. The librarian, two assistant librarians, and assistant in the library, shall be appointed by the Clerk of the House, with the approval of the Speaker of the House of Representatives. No removals shall be made from the said positions except for cause reported to and approved by the Committee on Rules.
 
-(Mar. 3, 1901, ch. 830, § 1, 31 Stat. 964.)
+(Mar. 3, 1901, ch. 830, § 1, 31 Stat. 964.)
 
-## § 154. Library of Congress Trust Fund Board; members; quorum; seal; rules and regulations
+## § 154. Library of Congress Trust Fund Board; members; quorum; seal; rules and regulations
 
 A board is created and established, to be known as the “Library of Congress Trust Fund Board” (hereinafter referred to as the board), which shall consist of the Secretary of the Treasury (or an Assistant Secretary designated in writing by the Secretary of the Treasury), the chairman and the vice chair of the Joint Committee on the Library, the Librarian of Congress, two persons appointed by the President for a term of five years each (the first appointments being for three and five years, respectively), four persons appointed by the Speaker of the House of Representatives (in consultation with the minority leader of the House of Representatives) for a term of five years each (the first appointments being for two, three, four, and five years, respectively), and four persons appointed by the majority leader of the Senate (in consultation with the minority leader of the Senate) for a term of five years each (the first appointments being for two, three, four, and five years, respectively). Upon request of the chair of the Board, any member whose term has expired may continue to serve on the Trust Fund Board until the earlier of the date on which such member’s successor is appointed or the expiration of the 1-year period which begins on the date such member’s term expires. Seven members of the board shall constitute a quorum for the transaction of business, and the board shall have an official seal, which shall be judicially noticed. The board may adopt rules and regulations in regard to its procedure and the conduct of its business.
 
-(Mar. 3, 1925, ch. 423, § 1, 43 Stat. 1107; Pub. L. 95–277, May 12, 1978, 92 Stat. 236; Pub. L. 102–246, §§ 1, 2, Feb. 18, 1992, 106 Stat. 31; Pub. L. 106–481, title II, § 201, Nov. 9, 2000, 114 Stat. 2190.)
+(Mar. 3, 1925, ch. 423, § 1, 43 Stat. 1107; Pub. L. 95–277, May 12, 1978, 92 Stat. 236; Pub. L. 102–246, §§ 1, 2, Feb. 18, 1992, 106 Stat. 31; Pub. L. 106–481, title II, § 201, Nov. 9, 2000, 114 Stat. 2190.)
 
 **Editorial Notes**
 
@@ -1289,7 +1289,7 @@ Section is comprised of first par. of section 1 of act Mar. 3, 1925. Second par.
 
 2000—Pub. L. 106–481 inserted “and the vice chair” after “the chairman” and “Upon request of the chair of the Board, any member whose term has expired may continue to serve on the Trust Fund Board until the earlier of the date on which such member’s successor is appointed or the expiration of the 1-year period which begins on the date such member’s term expires.” after first sentence and substituted “Seven members of the board” for “Nine members of the board”.
 
-1992—Pub. L. 102–246 struck out “and” after “Librarian of Congress,” inserted “, four persons appointed by the Speaker of the House of Representatives (in consultation with the minority leader of the House of Representatives) for a term of five years each (the first appointments being for two, three, four, and five years, respectively), and four persons appointed by the majority leader of the Senate (in consultation with the minority leader of the Senate) for a term of five years each (the first appointments being for two, three, four, and five years, respectively)” after “respectively)”, and substituted “Nine” for “Three”.
+1992—Pub. L. 102–246 struck out “and” after “Librarian of Congress,” inserted “, four persons appointed by the Speaker of the House of Representatives (in consultation with the minority leader of the House of Representatives) for a term of five years each (the first appointments being for two, three, four, and five years, respectively), and four persons appointed by the majority leader of the Senate (in consultation with the minority leader of the Senate) for a term of five years each (the first appointments being for two, three, four, and five years, respectively)” after “respectively)”, and substituted “Nine” for “Three”.
 
 1978—Pub. L. 95–277 inserted “(or an Assistant Secretary designated in writing by the Secretary of the Treasury)”.
 
@@ -1297,17 +1297,17 @@ Section is comprised of first par. of section 1 of act Mar. 3, 1925. Second par.
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–481, title II, § 202, Nov. 9, 2000, 114 Stat. 2191, provided that: “The amendments made by this title [amending this section] shall take effect on the date of the enactment of this Act [Nov. 9, 2000].”
+Pub. L. 106–481, title II, § 202, Nov. 9, 2000, 114 Stat. 2191, provided that: “The amendments made by this title [amending this section] shall take effect on the date of the enactment of this Act [Nov. 9, 2000].”
 
 **Short Title**
 
 Act Mar. 3, 1925, enacting sections 154 to 162 and 163 of this title, is popularly known as the “Library of Congress Trust Fund Board Act”.
 
-## § 155. Compensation and expenses of Library of Congress Trust Fund Board
+## § 155. Compensation and expenses of Library of Congress Trust Fund Board
 
 No compensation shall be paid to the members of the board for their services as such members, but they shall be reimbursed for the expenses necessarily incurred by them, out of the income from the fund or funds in connection with which such expenses are incurred. The voucher of the chairman of the board shall be sufficient evidence that the expenses are properly allowable. Any expenses of the board, including the cost of its seal, not properly chargeable to the income of any trust fund held by it, shall be estimated for in the annual estimates of the librarian for the maintenance of the Library of Congress.
 
-(Mar. 3, 1925, ch. 423, § 1, 43 Stat. 1107.)
+(Mar. 3, 1925, ch. 423, § 1, 43 Stat. 1107.)
 
 **Editorial Notes**
 
@@ -1315,11 +1315,11 @@ No compensation shall be paid to the members of the board for their services as 
 
 Section is comprised of second par. of section 1 of act Mar. 3, 1925. First par. of section 1 is classified to section 154 of this title.
 
-## § 156. Gifts, etc., to Library of Congress Trust Fund Board
+## § 156. Gifts, etc., to Library of Congress Trust Fund Board
 
 The Board is authorized to accept, receive, hold, and administer such gifts, bequests, or devises of property for the benefit of, or in connection with, the Library, its collections, or its service, as may be approved by the Board and by the Joint Committee on the Library.
 
-(Mar. 3, 1925, ch. 423, § 2, formerly § 1, 43 Stat. 1107, renumbered Apr. 13, 1936, ch. 213, 49 Stat. 1205.)
+(Mar. 3, 1925, ch. 423, § 2, formerly § 1, 43 Stat. 1107, renumbered Apr. 13, 1936, ch. 213, 49 Stat. 1205.)
 
 **Editorial Notes**
 
@@ -1327,11 +1327,11 @@ The Board is authorized to accept, receive, hold, and administer such gifts, beq
 
 Section is comprised of first par. of section 2 of act Mar. 3, 1925. Second, third, and fourth pars. of section 2 are classified to sections 157, 158, and 158a of this title, respectively.
 
-## § 157. Funds of Library of Congress Trust Fund Board; management of
+## § 157. Funds of Library of Congress Trust Fund Board; management of
 
 The moneys or securities composing the trust funds given or bequeathed to the board shall be receipted for by the Secretary of the Treasury, who shall invest, reinvest, or retain investments as the board may from time to time determine. The income as and when collected shall be deposited with the Treasurer of the United States, who shall enter it in a special account to the credit of the Library of Congress and subject to disbursement by the librarian for the purposes in each case specified; and the Treas­urer of the United States is authorized to honor the requisitions of the librarian made in such manner and in accordance with such regulations as the Treasurer may from time to time prescribe: *Provided, however*, That the board is not authorized to engage in any business nor to exercise any voting privilege which may be incidental to securities in its hands, nor shall the board make any investments that could not lawfully be made by a trust company in the District of Columbia, except that it may make any investments directly authorized by the instrument of gift, and may retain any investments accepted by it.
 
-(Mar. 3, 1925, ch. 423, § 2, formerly § 1, 43 Stat. 1107, renumbered Apr. 13, 1936, ch. 213, 49 Stat. 1205.)
+(Mar. 3, 1925, ch. 423, § 2, formerly § 1, 43 Stat. 1107, renumbered Apr. 13, 1936, ch. 213, 49 Stat. 1205.)
 
 **Editorial Notes**
 
@@ -1339,11 +1339,11 @@ The moneys or securities composing the trust funds given or bequeathed to the bo
 
 Section is comprised of second par. of section 2 of act Mar. 3, 1925. First, third, and fourth pars. of section 2 are classified to sections 156, 158, and 158a of this title, respectively.
 
-## § 158. Deposits by Library of Congress Trust Fund Board with Treasurer of United States
+## § 158. Deposits by Library of Congress Trust Fund Board with Treasurer of United States
 
 In the absence of any specification to the contrary, the board may deposit the principal sum, in cash, with the Treasurer of the United States as a permanent loan to the United States Treasury, and the Treasurer shall thereafter credit such deposit with interest at a rate which is the higher of the rate of 4 per centum per annum or a rate which is 0.25 percentage points less than a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding long-term marketable obligations of the United States, adjusted to the nearest one-eighth of 1 per centum, payable semi-annually, such interest, as income, being subject to disbursement by the Librarian of Congress for the purposes specified: *Provided, however*, That the total of such principal sums at any time so held by the Treasurer under this authorization shall not exceed the sum of $10,000,000.
 
-(Mar. 3, 1925, ch. 423, § 2, formerly § 1, 43 Stat. 1107; renumbered § 2, Apr. 13, 1936, ch. 213, 49 Stat. 1205; amended June 23, 1936, ch. 734, 49 Stat. 1894; Pub. L. 87–522, July 3, 1962, 76 Stat. 135; Pub. L. 94–289, May 22, 1976, 90 Stat. 521.)
+(Mar. 3, 1925, ch. 423, § 2, formerly § 1, 43 Stat. 1107; renumbered § 2, Apr. 13, 1936, ch. 213, 49 Stat. 1205; amended June 23, 1936, ch. 734, 49 Stat. 1894; Pub. L. 87–522, July 3, 1962, 76 Stat. 135; Pub. L. 94–289, May 22, 1976, 90 Stat. 521.)
 
 **Editorial Notes**
 
@@ -1359,7 +1359,7 @@ Section is comprised of third par. of section 2 of act Mar. 3, 1925. First, seco
 
 1936—Act June 23, 1936, substituted “in the absence of any specification to the contrary” for “Should any gift or bequest so provide”.
 
-## § 158a. Temporary possession of gifts of money or securities to Library of Congress; investment
+## § 158a. Temporary possession of gifts of money or securities to Library of Congress; investment
 
 In the case of a gift of money or securities offered to the Library of Congress, if, because of conditions attached by the donor or similar considerations, expedited action is necessary, the Librarian of Congress may take temporary possession of the gift, subject to approval under section 156 of this title. The gift shall be receipted for and invested, reinvested, or retained as provided in section 157 of this title, except that—
 
@@ -1369,7 +1369,7 @@ In the case of a gift of money or securities offered to the Library of Congress,
 
 If the gift is not so approved within the 12-month period after the Librarian so takes possession, the principal of the gift shall be returned to the donor and any income earned during that period shall be available for use with respect to the Library of Congress as provided by law.
 
-(Mar. 3, 1925, ch. 423, § 2 (par.), as added Pub. L. 102–246, § 3, Feb. 18, 1992, 106 Stat. 31.)
+(Mar. 3, 1925, ch. 423, § 2 (par.), as added Pub. L. 102–246, § 3, Feb. 18, 1992, 106 Stat. 31.)
 
 **Editorial Notes**
 
@@ -1377,11 +1377,11 @@ If the gift is not so approved within the 12-month period after the Librarian so
 
 Section is comprised of fourth par. of section 2 of act Mar. 3, 1925, as added by Pub. L. 102–246. First, second, and third pars. of section 2 are classified to sections 156, 157, and 158 of this title, respectively.
 
-## § 159. Perpetual succession and suits by or against Library of Congress Trust Fund Board
+## § 159. Perpetual succession and suits by or against Library of Congress Trust Fund Board
 
 The board shall have perpetual succession, with all the usual powers and obligations of a trustee, including the power to sell, except as herein limited, in respect of all property, moneys, or securities which shall be conveyed, transferred, assigned, bequeathed, delivered, or paid over to it for the purposes above specified. The board may be sued in the United States District Court for the District of Columbia, which is given jurisdiction of such suits, for the purpose of enforcing the provisions of any trust accepted by it.
 
-(Mar. 3, 1925, ch. 423, § 3, 43 Stat. 1108; Jan. 27, 1926, ch. 6, § 1, 44 Stat. 2; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107.)
+(Mar. 3, 1925, ch. 423, § 3, 43 Stat. 1108; Jan. 27, 1926, ch. 6, § 1, 44 Stat. 2; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107.)
 
 **Editorial Notes**
 
@@ -1397,17 +1397,17 @@ Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substitut
 
 Act June 25, 1936, provided that the Supreme Court of the District of Columbia is to be known as the District Court of the United States for the District of Columbia.
 
-## § 160. Disbursement of gifts, etc., to Library
+## § 160. Disbursement of gifts, etc., to Library
 
-Nothing in sections 154 to 162 and 163 1
+Nothing in sections 154 to 162 and 163 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title shall be construed as prohibiting or restricting the Librarian of Congress from accepting in the name of the United States gifts or bequests in the interest of the Library, its collections, or its service, of the following: (1) nonpersonal services; (2) voluntary and uncompensated personal services not to exceed $10,000 per person, per year in value; (3) gifts or bequests of money for immediate disbursement; and (4) gifts or bequests of securities or other personal property. Such gifts or bequests of money, after acceptance by the librarian, shall be paid by the donor or his representative to the Treasurer of the United States, whose receipts shall be their acquittance. In the case of a gift of securities, the Librarian shall sell the gift and provide the donor with such acknowledgment as needed for the donor to substantiate the gift. The Treasurer of the United States shall enter the gift, bequest, or proceeds in a special account to the credit of the Library of Congress and subject to disbursement by the librarian for the purposes in each case specified. The Librarian shall make an annual public report regarding gifts accepted under this section.
 
 Upon agreement by the Librarian of Congress and the Board, a gift or bequest accepted by the Librarian under the first paragraph of this section may be invested or reinvested in the same manner as provided for trust funds under section 157 of this title.
 
-(Mar. 3, 1925, ch. 423, § 4, 43 Stat. 1108; Pub. L. 105–55, title II, § 208, Oct. 7, 1997, 111 Stat. 1194; Pub. L. 115–141, div. I, title I, § 152, Mar. 23, 2018, 132 Stat. 784; Pub. L. 117–103, div. I, title I, § 141(a), Mar. 15, 2022, 136 Stat. 518.)
+(Mar. 3, 1925, ch. 423, § 4, 43 Stat. 1108; Pub. L. 105–55, title II, § 208, Oct. 7, 1997, 111 Stat. 1194; Pub. L. 115–141, div. I, title I, § 152, Mar. 23, 2018, 132 Stat. 784; Pub. L. 117–103, div. I, title I, § 141(a), Mar. 15, 2022, 136 Stat. 518.)
 
 **Editorial Notes**
 
@@ -1417,9 +1417,9 @@ Section 163 of this title, referred to in text, was omitted from the Code.
 
 **Amendments**
 
-2022—Pub. L. 117–103, in first paragraph, struck out “and” before “(3) gifts or bequests of money for immediate disbursement”, substituted “; and (4) gifts or bequests of securities or other personal property.” for period at end of first sentence, inserted “of money” after “Such gifts or bequests” in second sentence, inserted “In the case of a gift of securities, the Librarian shall sell the gift and provide the donor with such acknowledgment as needed for the donor to substantiate the gift.” after second sentence, and substituted “The Treasurer of the United States shall enter the gift, bequest, or proceeds” for “The Treasurer of the United States shall enter them” in penultimate sentence.
+2022—Pub. L. 117–103, in first paragraph, struck out “and” before “(3) gifts or bequests of money for immediate disbursement”, substituted “; and (4) gifts or bequests of securities or other personal property.” for period at end of first sentence, inserted “of money” after “Such gifts or bequests” in second sentence, inserted “In the case of a gift of securities, the Librarian shall sell the gift and provide the donor with such acknowledgment as needed for the donor to substantiate the gift.” after second sentence, and substituted “The Treasurer of the United States shall enter the gift, bequest, or proceeds” for “The Treasurer of the United States shall enter them” in penultimate sentence.
 
-2018—Pub. L. 115–141, in first paragraph, struck out “of money for immediate disbursement” after “gifts or bequests”, substituted “, of the following: (1) nonpersonal services; (2) voluntary and uncompensated personal services not to exceed $10,000 per person, per year in value; and (3) gifts or bequests of money for immediate disbursement.” for period at end of first sentence, and inserted at end “The Librarian shall make an annual public report regarding gifts accepted under this section.”
+2018—Pub. L. 115–141, in first paragraph, struck out “of money for immediate disbursement” after “gifts or bequests”, substituted “, of the following: (1) nonpersonal services; (2) voluntary and uncompensated personal services not to exceed $10,000 per person, per year in value; and (3) gifts or bequests of money for immediate disbursement.” for period at end of first sentence, and inserted at end “The Librarian shall make an annual public report regarding gifts accepted under this section.”
 
 1997—Pub. L. 105–55 added second par.
 
@@ -1427,13 +1427,13 @@ Section 163 of this title, referred to in text, was omitted from the Code.
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–103, div. I, title I, § 141(b), Mar. 15, 2022, 136 Stat. 519, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2022 and each succeeding fiscal year.”
+Pub. L. 117–103, div. I, title I, § 141(b), Mar. 15, 2022, 136 Stat. 519, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2022 and each succeeding fiscal year.”
 
-## § 161. Tax exemption of gifts, etc., to Library of Congress
+## § 161. Tax exemption of gifts, etc., to Library of Congress
 
 Gifts or bequests or devises to or for the benefit of the Library of Congress, including those to the board, and the income therefrom, shall be exempt from all Federal taxes, including all taxes levied by the District of Columbia.
 
-(Mar. 3, 1925, ch. 423, § 5, 43 Stat. 1108; Oct. 2, 1942, ch. 576, 56 Stat. 765.)
+(Mar. 3, 1925, ch. 423, § 5, 43 Stat. 1108; Oct. 2, 1942, ch. 576, 56 Stat. 765.)
 
 **Editorial Notes**
 
@@ -1441,11 +1441,11 @@ Gifts or bequests or devises to or for the benefit of the Library of Congress, i
 
 1942—Act Oct. 2, 1942, included devises in the exemptions, and exempted gifts, bequests and devises, and the income therefrom, from taxes levied by the District of Columbia.
 
-## § 162. Compensation of Library of Congress employees
+## § 162. Compensation of Library of Congress employees
 
 Employees of the Library of Congress who perform special functions for the performance of which funds have been entrusted to the board or the librarian, or in connection with cooperative undertakings in which the Library of Congress is engaged, shall not be subject to section 209 of title 18; and section 5533 of title 5 shall not apply to any additional compensation so paid to such employees.
 
-(Mar. 3, 1925, ch. 423, § 6, 43 Stat. 1108; Jan. 27, 1926, ch. 6, § 2, 44 Stat. 2; Pub. L. 88–448, title IV, § 401(j), Aug. 19, 1964, 78 Stat. 491.)
+(Mar. 3, 1925, ch. 423, § 6, 43 Stat. 1108; Jan. 27, 1926, ch. 6, § 2, 44 Stat. 2; Pub. L. 88–448, title IV, § 401(j), Aug. 19, 1964, 78 Stat. 491.)
 
 **Editorial Notes**
 
@@ -1469,11 +1469,11 @@ Section was formerly classified to sections 60 and 65 of Title 5 prior to the ge
 
 Amendment by Pub. L. 88–448 effective on first day of first month which begins later than the ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448, title IV, Aug. 19, 1964, 78 Stat. 496.
 
-## § 162a. Gross salary of Library of Congress employees
+## § 162a. Gross salary of Library of Congress employees
 
 Hereafter the gross salary of any position in the Library which is augmented by payment of an honorarium from other than appropriated funds under terms of section 162 of this title shall not exceed an amount, which when combined with such honorarium, will exceed the maximum salary provided in chapter 51 and subchapter III of chapter 53 of title 5.
 
-(June 22, 1949, ch. 235, § 101, 63 Stat. 226; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972.)
+(June 22, 1949, ch. 235, § 101, 63 Stat. 226; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972.)
 
 **Editorial Notes**
 
@@ -1489,9 +1489,9 @@ Hereafter the gross salary of any position in the Library which is augmented by 
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
-## § 162b. Little Scholars Child Development Center; employee compensation and personnel matters
+## § 162b. Little Scholars Child Development Center; employee compensation and personnel matters
 
 **(a) Election of coverage; creditable service; qualification for survivor annuities and disability benefits; contributions to thrift savings plan; certification concerning creditable service**
 
@@ -1515,7 +1515,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 **(4)** An individual described under paragraph (1) shall be deemed an employee for purposes of chapter 84 of title 5, including subchapter III of such title,1
 
-<sup>1</sup>  So in original. Probably should be “chapter,”.
+<sup>1</sup> So in original. Probably should be “chapter,”.
 
 and may make contributions under section 8432 of such title effective for the first applicable pay period beginning on or after the date such individual elects coverage under this section.
 
@@ -1531,9 +1531,9 @@ An individual who is employed by the Center shall be deemed an employee under se
 
 **(d) Government contributions by Librarian from available appropriations**
 
-Government contributions for individuals receiving benefits under this section, as computed under sections 8423, 8432, 8708, and 8906 2
+Government contributions for individuals receiving benefits under this section, as computed under sections 8423, 8432, 8708, and 8906 2
 
-<sup>2</sup>  So in original. Probably should be followed by “of title 5”.
+<sup>2</sup> So in original. Probably should be followed by “of title 5”.
 
 shall be made by the Librarian of Congress from any appropriations available to the Library of Congress.
 
@@ -1565,7 +1565,7 @@ Notwithstanding paragraph (1) of subsection (f), in the case of expenses describ
 
 The Librarian of Congress may prescribe regulations to carry out this section.
 
-(Pub. L. 106–554, § 1(a)(2) [title II, § 210], Dec. 21, 2000, 114 Stat. 2763, 2763A–114; Pub. L. 117–328, div. I, title I, § 141(a), Dec. 29, 2022, 136 Stat. 4932.)
+(Pub. L. 106–554, § 1(a)(2) [title II, § 210], Dec. 21, 2000, 114 Stat. 2763, 2763A–114; Pub. L. 117–328, div. I, title I, § 141(a), Dec. 29, 2022, 136 Stat. 4932.)
 
 **Editorial Notes**
 
@@ -1575,19 +1575,19 @@ Section 205(g)(1) of the Legislative Branch Appropriations Act, 1991, referred t
 
 **Amendments**
 
-2022—Subsec. (f)(1). Pub. L. 117–328, § 141(a)(1), substituted “except as provided in subsection (g), pay to the Library of Congress” for “pay to the Library of Congress”.
+2022—Subsec. (f)(1). Pub. L. 117–328, § 141(a)(1), substituted “except as provided in subsection (g), pay to the Library of Congress” for “pay to the Library of Congress”.
 
-Subsecs. (g), (h). Pub. L. 117–328, § 141(a)(2), (3), added subsec. (g) and redesignated former subsec. (g) as (h).
+Subsecs. (g), (h). Pub. L. 117–328, § 141(a)(2), (3), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–328, div. I, title I, § 141(b), Dec. 29, 2022, 136 Stat. 4932, provided that: “The amendment made by this section [amending this section] shall apply with respect to fiscal year 2023 and each succeeding fiscal year.”
+Pub. L. 117–328, div. I, title I, § 141(b), Dec. 29, 2022, 136 Stat. 4932, provided that: “The amendment made by this section [amending this section] shall apply with respect to fiscal year 2023 and each succeeding fiscal year.”
 
 **Funding for Little Scholars Child Development Center and Tiny Findings Child Development Center**
 
-Pub. L. 116–159, div. A, § 159, Oct. 1, 2020, 134 Stat. 721, provided that:
+Pub. L. 116–159, div. A, § 159, Oct. 1, 2020, 134 Stat. 721, provided that:
 
 > “Notwithstanding any other provision of this Act [div. A of Pub. L. 116–159, see Tables for classification]—
 
@@ -1599,7 +1599,7 @@ Pub. L. 116–159, div. A, § 159, Oct. 1, 2020, 134 Stat. 721, provided that:
 
 **Source of Funds Used for Payment of Salaries and Expenses of Little Scholars Child Development Center**
 
-Pub. L. 116–136, div. B, title IX, § 19004, Mar. 27, 2020, 134 Stat. 578, as amended by Pub. L. 116–260, div. O, title XI, § 1101(b)(1), (2), Dec. 27, 2020, 134 Stat. 2156, 2157, provided that:
+Pub. L. 116–136, div. B, title IX, § 19004, Mar. 27, 2020, 134 Stat. 578, as amended by Pub. L. 116–260, div. O, title XI, § 1101(b)(1), (2), Dec. 27, 2020, 134 Stat. 2156, 2157, provided that:
 
 > **“(a) Reimbursements.—** During the period beginning on the date of enactment of the Consolidated Appropriations Act, 2021 [Dec. 27, 2020] and ending on the termination date of the public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) resulting from the COVID–19 pandemic, the Library of Congress shall reimburse the Little Scholars Child Development Center for expenses, due to measures taken in the Capitol complex to combat coronavirus, as calculated under subsection (b) and from amounts in the appropriations account ‘Library of Congress—Salaries and Expenses’.
 
@@ -1617,21 +1617,21 @@ Pub. L. 116–136, div. B, title IX, § 19004, Mar. 27, 2020, 134 Stat. 578, a
 
 **Definition**
 
-Pub. L. 116–136, div. B, title XIII, § 23005, Mar. 27, 2020, 134 Stat. 614, provided that: “In this Act [div. B of Pub. L. 116–136, see Tables for classification], the term ‘coronavirus’ means SARS–CoV–2 or another coronavirus with pandemic potential.”
+Pub. L. 116–136, div. B, title XIII, § 23005, Mar. 27, 2020, 134 Stat. 614, provided that: “In this Act [div. B of Pub. L. 116–136, see Tables for classification], the term ‘coronavirus’ means SARS–CoV–2 or another coronavirus with pandemic potential.”
 
-## § 163. Omitted
+## § 163. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Mar. 3, 1925, ch. 423, § 7, 43 Stat. 1108, which required the Library of Congress Trust Fund Board to submit an annual report to Congress on moneys or securities received and held and operations, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 10 of House Document No. 103–7.
+Section, act Mar. 3, 1925, ch. 423, § 7, 43 Stat. 1108, which required the Library of Congress Trust Fund Board to submit an annual report to Congress on moneys or securities received and held and operations, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 10 of House Document No. 103–7.
 
-## § 164. Index and digest of State legislation; preparation
+## § 164. Index and digest of State legislation; preparation
 
 The Librarian of Congress is authorized and directed to prepare biennially an index to the legislation of the States of the United States enacted during the biennium, together with a supplemental digest of the more important legislation of the period.
 
-(Feb. 10, 1927, ch. 99, § 1, 44 Stat. 1066; Feb. 28, 1929, ch. 367, § 1, 45 Stat. 1398.)
+(Feb. 10, 1927, ch. 99, § 1, 44 Stat. 1066; Feb. 28, 1929, ch. 367, § 1, 45 Stat. 1398.)
 
 **Editorial Notes**
 
@@ -1639,19 +1639,19 @@ The Librarian of Congress is authorized and directed to prepare biennially an in
 
 1929—Act Feb. 28, 1929, repealed provision that the Librarian of Congress report biennially to Congress an index and digest of State legislation.
 
-## § 164a. Official distribution of State legislation index and digest
+## § 164a. Official distribution of State legislation index and digest
 
 The Librarian of Congress is directed to have the indexes and digests authorized by section 164 of this title printed and bound for official distribution only.
 
-(Feb. 28, 1929, ch. 367, § 1, 45 Stat. 1398.)
+(Feb. 28, 1929, ch. 367, § 1, 45 Stat. 1398.)
 
-## § 165. Authorization for appropriation for biennial index
+## § 165. Authorization for appropriation for biennial index
 
 There is authorized to be appropriated annually for carrying out the provisions of section 164 of this title the sum of $30,000, to remain available until expended.
 
-(Feb. 10, 1927, ch. 99, § 2, 44 Stat. 1066.)
+(Feb. 10, 1927, ch. 99, § 2, 44 Stat. 1066.)
 
-## § 166. Congressional Research Service
+## § 166. Congressional Research Service
 
 **(a) Redesignation of Legislative Reference Service**
 
@@ -1709,9 +1709,9 @@ and, by providing such other research and analytical services as the committee c
 
 **(8)** to develop and maintain an information and research capability, to include Senior Specialists, Specialists, other employees, and consultants, as necessary, to perform the functions provided for in this subsection; and
 
-**(9)** to comply with the requirements of, and provide information and technological assistance consistent with, section 124 1
+**(9)** to comply with the requirements of, and provide information and technological assistance consistent with, section 124 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Legislative Branch Appropriations Act, 2018.
 
@@ -1795,13 +1795,13 @@ The Director of the Congressional Research Service will submit to the Librarian 
 
 **(i) Special report to Joint Committee on the Library**
 
-The Director of the Congressional Research Service shall prepare and file with the Joint Committee on the Library at the beginning of each regular session of Congress a separate and special report covering, in summary and in detail, all phases of activity of the Congressional Research Service for the immediately preceding fiscal year, and shall include in the report a description of the efforts made by the Director to make additional Congressional Research Service products that are not confidential products or services available to the Librarian of Congress for publication on the website established and maintained under section 124 <sup>1</sup> of the Legislative Branch Appropriations Act, 2018.
+The Director of the Congressional Research Service shall prepare and file with the Joint Committee on the Library at the beginning of each regular session of Congress a separate and special report covering, in summary and in detail, all phases of activity of the Congressional Research Service for the immediately preceding fiscal year, and shall include in the report a description of the efforts made by the Director to make additional Congressional Research Service products that are not confidential products or services available to the Librarian of Congress for publication on the website established and maintained under section 124 <sup>1</sup> of the Legislative Branch Appropriations Act, 2018.
 
 **(j) Authorization of appropriations**
 
 There are hereby authorized to be appropriated to the Congressional Research Service each fiscal year such sums as may be necessary to carry on the work of the Service.
 
-(Aug. 2, 1946, ch. 753, title II, § 203, 60 Stat. 836; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Pub. L. 91–510, title III, § 321(a), Oct. 26, 1970, 84 Stat. 1181; Pub. L. 99–190, § 133, Dec. 19, 1985, 99 Stat. 1322; Pub. L. 106–57, title II, § 209(b), Sept. 29, 1999, 113 Stat. 424; Pub. L. 115–141, div. I, title I, § 154(b)(7), (d), Mar. 23, 2018, 132 Stat. 789, 790; Pub. L. 116–94, div. P, title XIV, § 1404(a)(2), (b)(1), Dec. 20, 2019, 133 Stat. 3208.)
+(Aug. 2, 1946, ch. 753, title II, § 203, 60 Stat. 836; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Pub. L. 91–510, title III, § 321(a), Oct. 26, 1970, 84 Stat. 1181; Pub. L. 99–190, § 133, Dec. 19, 1985, 99 Stat. 1322; Pub. L. 106–57, title II, § 209(b), Sept. 29, 1999, 113 Stat. 424; Pub. L. 115–141, div. I, title I, § 154(b)(7), (d), Mar. 23, 2018, 132 Stat. 789, 790; Pub. L. 116–94, div. P, title XIV, § 1404(a)(2), (b)(1), Dec. 20, 2019, 133 Stat. 3208.)
 
 **Editorial Notes**
 
@@ -1811,15 +1811,15 @@ Section 124 of the Legislative Branch Appropriations Act, 2018, referred to in s
 
 **Amendments**
 
-2019—Subsec. (c)(1). Pub. L. 116–94, § 1404(a)(2), substituted “The Director shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5 or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title.” for “The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level III of the Executive Schedule under section 5314 of title 5.”
+2019—Subsec. (c)(1). Pub. L. 116–94, § 1404(a)(2), substituted “The Director shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5 or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title.” for “The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level III of the Executive Schedule under section 5314 of title 5.”
 
-Subsec. (c)(2). Pub. L. 116–94, § 1404(b)(1)(A), substituted “section 5376 of title 5.” for “subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, but without regard to section 5108(a) of such title.” in introductory provisions.
+Subsec. (c)(2). Pub. L. 116–94, § 1404(b)(1)(A), substituted “section 5376 of title 5.” for “subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, but without regard to section 5108(a) of such title.” in introductory provisions.
 
-Subsec. (c)(2)(B). Pub. L. 116–94, § 1404(b)(1)(B), substituted “may be classified above GS–15 in accordance with section 5108(c) of title 5, and the rate of basic pay for such positions may be fixed in accordance with section 5376 of such title, subject to the prior approval of the Joint Committee on the Library.” for “may be placed in GS–16, 17, and 18 of the General Schedule of section 5332 of title 5, without regard to section 5108(a) of such title, subject to the prior approval of the Joint Committee on the Library, of the placement of each such position in any of such grades.”
+Subsec. (c)(2)(B). Pub. L. 116–94, § 1404(b)(1)(B), substituted “may be classified above GS–15 in accordance with section 5108(c) of title 5, and the rate of basic pay for such positions may be fixed in accordance with section 5376 of such title, subject to the prior approval of the Joint Committee on the Library.” for “may be placed in GS–16, 17, and 18 of the General Schedule of section 5332 of title 5, without regard to section 5108(a) of such title, subject to the prior approval of the Joint Committee on the Library, of the placement of each such position in any of such grades.”
 
-2018—Subsec. (d)(9). Pub. L. 115–141, § 154(d), added par. (9).
+2018—Subsec. (d)(9). Pub. L. 115–141, § 154(d), added par. (9).
 
-Subsec. (i). Pub. L. 115–141, § 154(b)(7), substituted “, and shall include in the report a description of the efforts made by the Director to make additional Congressional Research Service products that are not confidential products or services available to the Librarian of Congress for publication on the website established and maintained under section 124 of the Legislative Branch Appropriations Act, 2018.” for period at end.
+Subsec. (i). Pub. L. 115–141, § 154(b)(7), substituted “, and shall include in the report a description of the efforts made by the Director to make additional Congressional Research Service products that are not confidential products or services available to the Librarian of Congress for publication on the website established and maintained under section 124 of the Legislative Branch Appropriations Act, 2018.” for period at end.
 
 1999—Subsec. (c)(1). Pub. L. 106–57 substituted second sentence for former second sentence which read as follows: “The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level V of the Executive Schedule contained in section 5316 of title 5.”
 
@@ -1861,11 +1861,11 @@ Section effective Aug. 2, 1946, see section 245 of act Aug. 2, 1946, set out as 
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Compensation of Director of Congressional Research Service**
 
@@ -1891,15 +1891,15 @@ Pub. L. 101–163, title I, Nov. 21, 1989, 103 Stat. 1057.
 
 Pub. L. 100–458, title I, Oct. 1, 1988, 102 Stat. 2171.
 
-Pub. L. 100–202, § 101(i) [title I], Dec. 22, 1987, 101 Stat. 1329–290, 1329–303.
+Pub. L. 100–202, § 101(i) [title I], Dec. 22, 1987, 101 Stat. 1329–290, 1329–303.
 
-Pub. L. 99–500, § 101(j) [H.R. 5203, title I], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(j), Oct. 30, 1986, 100 Stat. 3341–287.
+Pub. L. 99–500, § 101(j) [H.R. 5203, title I], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(j), Oct. 30, 1986, 100 Stat. 3341–287.
 
 Pub. L. 99–151, title I, Nov. 13, 1985, 99 Stat. 802.
 
 Pub. L. 98–367, title I, July 17, 1984, 98 Stat. 484.
 
-## § 166a. Equal access to Congressional Research Service Reports
+## § 166a. Equal access to Congressional Research Service Reports
 
 **(a) Definitions**
 
@@ -1931,9 +1931,9 @@ In this section, the term “CRS product” means any final written work product
 
 **(C)** the term “CRS Director” means the Director of CRS;
 
-**(D)** the term “Librarian of Congress” means the Librarian of Congress appointed pursuant to 2 U.S.C. 136–1; 1
+**(D)** the term “Librarian of Congress” means the Librarian of Congress appointed pursuant to 2 U.S.C. 136–1; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(E)** the term “Member of Congress” includes a Delegate or Resident Commissioner to Congress; and
 
@@ -2057,7 +2057,7 @@ Upon provision of the information described in subparagraph (A), the Librarian o
 
 In the event of technical difficulties encountered in planning or implementing the requirements of this section and the amendments made by this section, upon providing a detailed report submitted by the Librarian of Congress or the CRS Director to the Committees on Appropriations of the House and the Senate detailing the nature of the technical difficulties and the timeline for resolving such technical difficulties, the effective date established by subsection (f)(1) shall be extended for up to 90 additional days.
 
-(Pub. L. 115–141, div. I, title I, § 154, Mar. 23, 2018, 132 Stat. 787.)
+(Pub. L. 115–141, div. I, title I, § 154, Mar. 23, 2018, 132 Stat. 787.)
 
 **Editorial Notes**
 
@@ -2073,31 +2073,31 @@ For the amendments made by this section, referred to in subsec. (f)(1), (2)(C), 
 
 Section is comprised of section 154 of Pub. L. 115–141. Subsecs. (b)(7) and (d) of section 154 of Pub. L. 115–141 amended section 166 of this title.
 
-## §§ 167 to 167h. Repealed. Pub. L. 110–161, div. H, title I, § 1004(d)(1)(B), (2)(B), Dec. 26, 2007, 121 Stat. 2233, 2234, and Pub. L. 110–178, § 4(a)(2), (b)(2), Jan. 7, 2008, 121 Stat. 2551, 2552; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54
+## §§ 167 to 167h. Repealed. Pub. L. 110–161, div. H, title I, § 1004(d)(1)(B), (2)(B), Dec. 26, 2007, 121 Stat. 2233, 2234, and Pub. L. 110–178, § 4(a)(2), (b)(2), Jan. 7, 2008, 121 Stat. 2551, 2552; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54
 
-Section 167, act Aug. 4, 1950, ch. 561, § 1, 64 Stat. 411; Pub. L. 90–610, § 1, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 93–175, § 1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 100–135, § 1(a), Oct. 16, 1987, 101 Stat. 811, authorized the Librarian of Congress to designate Library employees as police for duty with respect to the Library of Congress buildings and adjacent streets.
+Section 167, act Aug. 4, 1950, ch. 561, § 1, 64 Stat. 411; Pub. L. 90–610, § 1, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 93–175, § 1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 100–135, § 1(a), Oct. 16, 1987, 101 Stat. 811, authorized the Librarian of Congress to designate Library employees as police for duty with respect to the Library of Congress buildings and adjacent streets.
 
-Section 167a, act Aug. 4, 1950, ch. 561, § 2, 64 Stat. 411, related to public use of Library of Congress grounds.
+Section 167a, act Aug. 4, 1950, ch. 561, § 2, 64 Stat. 411, related to public use of Library of Congress grounds.
 
-Section 167b, act Aug. 4, 1950, ch. 561, § 3, 64 Stat. 411, related to sales, advertisements, and solicitations in Library buildings and grounds.
+Section 167b, act Aug. 4, 1950, ch. 561, § 3, 64 Stat. 411, related to sales, advertisements, and solicitations in Library buildings and grounds.
 
-Section 167c, act Aug. 4, 1950, ch. 561, § 4, 64 Stat. 411, related to injuries to Library property.
+Section 167c, act Aug. 4, 1950, ch. 561, § 4, 64 Stat. 411, related to injuries to Library property.
 
-Section 167d, act Aug. 4, 1950, ch. 561, § 5, 64 Stat. 411, related to the discharge of firearms or fireworks, making haranguing or threatening speeches, and the use of objectionable language in Library buildings and grounds.
+Section 167d, act Aug. 4, 1950, ch. 561, § 5, 64 Stat. 411, related to the discharge of firearms or fireworks, making haranguing or threatening speeches, and the use of objectionable language in Library buildings and grounds.
 
-Section 167e, act Aug. 4, 1950, ch. 561, § 6, 64 Stat. 411, related to parades, assemblages or display of flags in Library buildings and grounds.
+Section 167e, act Aug. 4, 1950, ch. 561, § 6, 64 Stat. 411, related to parades, assemblages or display of flags in Library buildings and grounds.
 
-Section 167f, act Aug. 4, 1950, ch. 561, § 7, 64 Stat. 411, related to regulations for Library buildings and grounds and their publication and effective date.
+Section 167f, act Aug. 4, 1950, ch. 561, § 7, 64 Stat. 411, related to regulations for Library buildings and grounds and their publication and effective date.
 
-Section 167g, act Aug. 4, 1950, ch. 561, § 8, 64 Stat. 412; Pub. L. 88–60, § 1, July 8, 1963, 77 Stat. 77; Pub. L. 91–358, § 111, July 29, 1970, 84 Stat. 473; Pub. L. 101–562, § 3, Nov. 15, 1990, 104 Stat. 2781, related to prosecution and punishment of offenses in Library buildings and grounds.
+Section 167g, act Aug. 4, 1950, ch. 561, § 8, 64 Stat. 412; Pub. L. 88–60, § 1, July 8, 1963, 77 Stat. 77; Pub. L. 91–358, § 111, July 29, 1970, 84 Stat. 473; Pub. L. 101–562, § 3, Nov. 15, 1990, 104 Stat. 2781, related to prosecution and punishment of offenses in Library buildings and grounds.
 
-Section 167h, act Aug. 4, 1950, ch. 561, § 9, 64 Stat. 412; Pub. L. 93–198, title VII, § 739(g)(9), Dec. 24, 1973, 87 Stat. 829; Pub. L. 100–135, § 1(b)(1), Oct. 16, 1987, 101 Stat. 811, related to jurisdiction of police within Library buildings, grounds, and adjacent streets.
+Section 167h, act Aug. 4, 1950, ch. 561, § 9, 64 Stat. 412; Pub. L. 93–198, title VII, § 739(g)(9), Dec. 24, 1973, 87 Stat. 829; Pub. L. 100–135, § 1(b)(1), Oct. 16, 1987, 101 Stat. 811, related to jurisdiction of police within Library buildings, grounds, and adjacent streets.
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 110–161, div. H, title I, § 1004(d)(1)(B), (2)(B), and Pub. L. 110–178, § 4(a)(2), (b)(2), identically repealed sections 167 to 167h of this title. Pub. L. 110–161, § 1004, was repealed by Pub. L. 111–145.
+Pub. L. 110–161, div. H, title I, § 1004(d)(1)(B), (2)(B), and Pub. L. 110–178, § 4(a)(2), (b)(2), identically repealed sections 167 to 167h of this title. Pub. L. 110–161, § 1004, was repealed by Pub. L. 111–145.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2105,27 +2105,27 @@ Pub. L. 110–161, div. H, title I, § 1004(d)(1)(B), (2)(B), and Pub. L. 110�
 
 Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if included in the enactment of Pub. L. 110–161 and to have no effect on the enactment or implementation of any provision of Pub. L. 110–178, see section 6(d) of Pub. L. 111–145, set out as an Effective Date of 2010 Amendment note under section 1901 of this title.
 
-Pub. L. 110–178, § 4(d), Jan. 7, 2008, 121 Stat. 2552, provided that: “The amendments made by this section [amending sections 167i, 167j, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, and repealing sections 167 to 167h of this title] shall take effect October 1, 2009.”
+Pub. L. 110–178, § 4(d), Jan. 7, 2008, 121 Stat. 2552, provided that: “The amendments made by this section [amending sections 167i, 167j, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, and repealing sections 167 to 167h of this title] shall take effect October 1, 2009.”
 
-Pub. L. 110–161, div. H, title I, § 1004(d)(1)(B), Dec. 26, 2007, 121 Stat. 2233, and Pub. L. 110–178, § 4(a)(2), Jan. 7, 2008, 121 Stat. 2551, provided that section 167 of this title was repealed on Oct. 1, 2009. Pub. L. 110–161, § 1004, was repealed by Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.
+Pub. L. 110–161, div. H, title I, § 1004(d)(1)(B), Dec. 26, 2007, 121 Stat. 2233, and Pub. L. 110–178, § 4(a)(2), Jan. 7, 2008, 121 Stat. 2551, provided that section 167 of this title was repealed on Oct. 1, 2009. Pub. L. 110–161, § 1004, was repealed by Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.
 
-Pub. L. 110–161, div. H, title I, § 1004(d)(4), Dec. 26, 2007, 121 Stat. 2234, which provided that the amendments made by section 1004(d) of Pub. L. 110–161 (amending sections 167i, 167j, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, and repealing sections 167 to 167h of this title) would take effect Oct. 1, 2009, was repealed by Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.
+Pub. L. 110–161, div. H, title I, § 1004(d)(4), Dec. 26, 2007, 121 Stat. 2234, which provided that the amendments made by section 1004(d) of Pub. L. 110–161 (amending sections 167i, 167j, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, and repealing sections 167 to 167h of this title) would take effect Oct. 1, 2009, was repealed by Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.
 
-## § 167i. Suspension of prohibitions against use of Library buildings and grounds
+## § 167i. Suspension of prohibitions against use of Library buildings and grounds
 
 In order to permit the observance of authorized ceremonies within the Library of Congress buildings and grounds, the Librarian of Congress may suspend for such occasions so much of the prohibitions contained in sections 5103 and 5104 of title 40 as may be necessary for the occasion, but only if responsible officers shall have been appointed, and arrangements determined which are adequate, in the judgment of the Librarian, for the maintenance of suitable order and decorum in the proceedings, and for the protection of the Library buildings and grounds and of persons and property therein.
 
-(Aug. 4, 1950, ch. 561, § 10, 64 Stat. 412; Pub. L. 110–161, div. H, title I, § 1004(d)(2)(C), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, § 4(b)(3), Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
+(Aug. 4, 1950, ch. 561, § 10, 64 Stat. 412; Pub. L. 110–161, div. H, title I, § 1004(d)(2)(C), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, § 4(b)(3), Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(2)(C). See 2007 Amendment note below.
+2010—Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(2)(C). See 2007 Amendment note below.
 
 2008—Pub. L. 110–178 substituted “5103 and 5104 of title 40” for “167a to 167e of this title”.
 
-2007—Pub. L. 110–161, § 1004(d)(2)(C), which made amendment identical to that of Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+2007—Pub. L. 110–161, § 1004(d)(2)(C), which made amendment identical to that of Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2137,7 +2137,7 @@ Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if
 
 Amendment by Pub. L. 110–178 effective Oct. 1, 2009, see section 4(d) of Pub. L. 110–178, set out as an Effective Date of Repeal note under former section 167 of this title.
 
-## § 167j. Area comprising Library of Congress grounds; “buildings and grounds” defined
+## § 167j. Area comprising Library of Congress grounds; “buildings and grounds” defined
 
 **(a)** The Library of Congress grounds shall be held to extend to the line of the face of the east curb of First Street Southeast, between B Street Southeast and East Capitol Street; to the line of the face of the south curb of East Capitol Street, between First Street Southeast and Second Street Southeast; to the line of the face of the west curb of Second Street Southeast, between East Capitol Street and B Street Southeast; to the line of the face of the north curb of B Street Southeast, between First Street Southeast and Second Street Southeast; and to the line of the face of the east curb of Second Street Southeast, between Pennsylvania Avenue Southeast and the north side of the alley separating the Library Annex Building and the Folger Shakespeare Library; to the line of the north side of the same alley, between Second Street Southeast and Third Street Southeast; to the line of the face of the west curb of Third Street Southeast, between the north side of the same alley and B Street Southeast; to the line of the face of the north curb of B Street Southeast, between Third Street Southeast and Pennsylvania Avenue Southeast; to the line of the face of the northeast curb of Pennsylvania Avenue Southeast, between B Street Southeast and Second Street Southeast.
 
@@ -2151,21 +2151,21 @@ Amendment by Pub. L. 110–178 effective Oct. 1, 2009, see section 4(d) of Pub. 
 
 **(2)** Improvements to such real property.
 
-(Aug. 4, 1950, ch. 561, § 11, 64 Stat. 412; Pub. L. 91–281, June 17, 1970, 84 Stat. 309; Pub. L. 101–520, title II, § 205(d), Nov. 5, 1990, 104 Stat. 2272; Pub. L. 101–562, § 2(c), Nov. 15, 1990, 104 Stat. 2780; Pub. L. 105–144, § 2, Dec. 15, 1997, 111 Stat. 2667; Pub. L. 108–83, title I, § 1203(b), Sept. 30, 2003, 117 Stat. 1031; Pub. L. 110–161, div. H, title I, § 1004(d)(2)(D), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, § 4(b)(4), Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
+(Aug. 4, 1950, ch. 561, § 11, 64 Stat. 412; Pub. L. 91–281, June 17, 1970, 84 Stat. 309; Pub. L. 101–520, title II, § 205(d), Nov. 5, 1990, 104 Stat. 2272; Pub. L. 101–562, § 2(c), Nov. 15, 1990, 104 Stat. 2780; Pub. L. 105–144, § 2, Dec. 15, 1997, 111 Stat. 2667; Pub. L. 108–83, title I, § 1203(b), Sept. 30, 2003, 117 Stat. 1031; Pub. L. 110–161, div. H, title I, § 1004(d)(2)(D), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, § 4(b)(4), Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(2)(D). See 2007 Amendment notes below.
+2010—Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(2)(D). See 2007 Amendment notes below.
 
-2008—Subsec. (a). Pub. L. 110–178, § 4(b)(4)(A), substituted “The” for “For the purposes of sections 167 to 167j of this title the”.
+2008—Subsec. (a). Pub. L. 110–178, § 4(b)(4)(A), substituted “The” for “For the purposes of sections 167 to 167j of this title the”.
 
-Subsecs. (b) to (d). Pub. L. 110–178, § 4(b)(4)(B)–(D), substituted “The” for “For the purposes of sections 167 to 167j of this title, the”.
+Subsecs. (b) to (d). Pub. L. 110–178, § 4(b)(4)(B)–(D), substituted “The” for “For the purposes of sections 167 to 167j of this title, the”.
 
-2007—Subsec. (a). Pub. L. 110–161, § 1004(d)(2)(D)(i), which made amendment identical to that made by Pub. L. 110–178, § 4(b)(4)(A), was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+2007—Subsec. (a). Pub. L. 110–161, § 1004(d)(2)(D)(i), which made amendment identical to that made by Pub. L. 110–178, § 4(b)(4)(A), was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
-Subsecs. (b) to (d). Pub. L. 110–161, § 1004(d)(2)(D)(ii)–(iv), which directed substitution of “The” for “For the purposes of sections 167 to 167j of this title the”, but could not be executed because “For the purposes of sections 167 to 167j of this title the” did not appear in text, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+Subsecs. (b) to (d). Pub. L. 110–161, § 1004(d)(2)(D)(ii)–(iv), which directed substitution of “The” for “For the purposes of sections 167 to 167j of this title the”, but could not be executed because “For the purposes of sections 167 to 167j of this title the” did not appear in text, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
 2003—Subsec. (d)(1). Pub. L. 108–83 added par. (1) and struck out former par. (1) which read as follows: “Three parcels totaling approximately 41 acres, more or less, located in Culpeper County, Virginia, and identified as Culpeper County Tax Parcel Numbers 51–80B, 51–80C, and 51–80D, further described as real estate (consisting of 15.949 acres) conveyed to Federal Reserve Bank of Richmond by deed from Russell H. Inskeep and Jean H. Inskeep, his wife, dated October 1, 1964, and recorded October 7, 1964, in the Clerk’s Office, Circuit Court of Culpeper County, Virginia, in Deed Book 177, page 431; and real estate (consisting of 20.498 acres and consisting of 4.502 acres) conveyed to Federal Reserve Bank of Richmond by deed from Russell H. Inskeep and Jean H. Inskeep, his wife, dated November 11, 1974, and recorded November 12, 1974, in the Clerk’s Office, Circuit Court of Culpeper County, Virginia, in Deed Book 247, page 246.”
 
@@ -2191,9 +2191,9 @@ Amendment by Pub. L. 105–144 effective upon acquisition by Architect of the Ca
 
 **Effective Date of 1990 Amendments**
 
-Amendment by Pub. L. 101–520 and Pub. L. 101–562 effective on date [Nov. 6, 1991] Architect of the Capitol acquires the property and improvements described in Pub. L. 101–520, § 205(a), and Pub. L. 101–562, § 1, see section 205(e) of Pub. L. 101–520 and former section 2(d) of Pub. L. 101–562, set out as a Special Facilities Center; Acquisition note under section 141 of this title.
+Amendment by Pub. L. 101–520 and Pub. L. 101–562 effective on date [Nov. 6, 1991] Architect of the Capitol acquires the property and improvements described in Pub. L. 101–520, § 205(a), and Pub. L. 101–562, § 1, see section 205(e) of Pub. L. 101–520 and former section 2(d) of Pub. L. 101–562, set out as a Special Facilities Center; Acquisition note under section 141 of this title.
 
-## § 168. Constitution of the United States; preparation and publication of revised edition; annotations; supplements; decennial editions and supplements
+## § 168. Constitution of the United States; preparation and publication of revised edition; annotations; supplements; decennial editions and supplements
 
 The Librarian of Congress shall have prepared—
 
@@ -2205,37 +2205,37 @@ The Librarian of Congress shall have prepared—
 
 **(4)** upon the completion of the October 1983 term of the Supreme Court, and upon the completion of each subsequent October term of the Supreme Court beginning in an odd-numbered year (the final digit of which is not a 1), a cumulative pocket-part supplement to the most recent hardbound decennial revised edition of the Constitution Annotated, which shall contain cumulative annotations of all such decisions rendered by the Supreme Court which were not included in that hardbound decennial revised edition of the Constitution Annotated.
 
-(Pub. L. 91–589, § 1, Dec. 24, 1970, 84 Stat. 1586.)
+(Pub. L. 91–589, § 1, Dec. 24, 1970, 84 Stat. 1586.)
 
-## § 168a. Printing of Constitution Annotated as Senate documents
+## § 168a. Printing of Constitution Annotated as Senate documents
 
 All hardbound revised editions and all cumulative pocket-part supplements shall be printed as Senate documents.
 
-(Pub. L. 91–589, § 2, Dec. 24, 1970, 84 Stat. 1586.)
+(Pub. L. 91–589, § 2, Dec. 24, 1970, 84 Stat. 1586.)
 
-## § 168b. Printing and distribution of additional copies of Constitution Annotated
+## § 168b. Printing and distribution of additional copies of Constitution Annotated
 
 There shall be printed four thousand eight hundred and seventy additional copies of the hardbound revised editions prepared pursuant to clause (1) of section 168 of this title and of all cumulative pocket-part supplements thereto, of which two thousand six hundred and thirty-four copies shall be for the use of the House of Representatives, one thousand two hundred and thirty-six copies shall be for the use of the Senate, and one thousand copies shall be for the use of the Joint Committee on Printing. All Members of the Congress, Vice Presidents of the United States, and Delegates and Resident Commissioners, newly elected subsequent to the issuance of the hardbound revised edition prepared pursuant to such clause and prior to the first hardbound decennial revised edition, who did not receive a copy of the edition prepared pursuant to such clause, shall, upon timely request, receive one copy of such edition and the then current cumulative pocket-part supplement and any further supplements thereto. All Members of the Congress, Vice Presidents of the United States, and Delegates and Resident Commissioners, no longer serving after the issuance of the hardbound revised edition prepared pursuant to such clause and who received such edition, may receive one copy of each cumulative pocket-part supplement thereto upon timely request.
 
-(Pub. L. 91–589, § 3, Dec. 24, 1970, 84 Stat. 1586.)
+(Pub. L. 91–589, § 3, Dec. 24, 1970, 84 Stat. 1586.)
 
-## § 168c. Printing and distribution of decennial editions and supplements to Constitution Annotated
+## § 168c. Printing and distribution of decennial editions and supplements to Constitution Annotated
 
 Additional copies of each hardbound decennial revised edition and of the cumulative pocket-part supplements thereto shall be printed and distributed in accordance with the provisions of any concurrent resolution hereafter adopted with respect thereto.
 
-(Pub. L. 91–589, § 4, Dec. 24, 1970, 84 Stat. 1587.)
+(Pub. L. 91–589, § 4, Dec. 24, 1970, 84 Stat. 1587.)
 
-## § 168d. Authorization of appropriations for Constitution Annotated
+## § 168d. Authorization of appropriations for Constitution Annotated
 
 There are authorized to be appropriated such sums, to remain available until expended, as may be necessary to carry out the provisions of sections 168 to 168d of this title.
 
-(Pub. L. 91–589, § 5, Dec. 24, 1970, 84 Stat. 1587.)
+(Pub. L. 91–589, § 5, Dec. 24, 1970, 84 Stat. 1587.)
 
-## § 169. Positions in Library of Congress exempt from citizenship requirement
+## § 169. Positions in Library of Congress exempt from citizenship requirement
 
 From and after October 1, 1983, not to exceed fifteen positions in the Library of Congress may be exempt from the provisions of appropriation Acts concerning the employment of aliens during the current fiscal year, but the Librarian shall not make any appointment to any such position until he has ascertained that he cannot secure for such appointments a person in any of the categories specified in such provisions who possesses the special qualifications for the particular position and also otherwise meets the general requirements for employment in the Library of Congress.
 
-(Pub. L. 98–51, title II, § 202, July 14, 1983, 97 Stat. 276.)
+(Pub. L. 98–51, title II, § 202, July 14, 1983, 97 Stat. 276.)
 
 **Editorial Notes**
 
@@ -2243,21 +2243,21 @@ From and after October 1, 1983, not to exceed fifteen positions in the Library o
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Oct. 2, 1982, Pub. L. 97–276, § 101(e) [S. 2939, title II, § 202], 96 Stat. 1189.
+Oct. 2, 1982, Pub. L. 97–276, § 101(e) [S. 2939, title II, § 202], 96 Stat. 1189.
 
-Oct. 1, 1981, Pub. L. 97–51, § 101(c) [H.R. 4120, title II, § 202], 95 Stat. 959.
+Oct. 1, 1981, Pub. L. 97–51, § 101(c) [H.R. 4120, title II, § 202], 95 Stat. 959.
 
-Dec. 16, 1980, Pub. L. 96–536, § 101(c) [H.R. 7593, title II, § 202], 94 Stat. 3167.
+Dec. 16, 1980, Pub. L. 96–536, § 101(c) [H.R. 7593, title II, § 202], 94 Stat. 3167.
 
-Oct. 12, 1979, Pub. L. 96–86, § 101(c) [H.R. 4390, title II, § 202], 93 Stat. 657.
+Oct. 12, 1979, Pub. L. 96–86, § 101(c) [H.R. 4390, title II, § 202], 93 Stat. 657.
 
-Sept. 30, 1978, Pub. L. 95–391, title II, § 202, 92 Stat. 785.
+Sept. 30, 1978, Pub. L. 95–391, title II, § 202, 92 Stat. 785.
 
-Aug. 5, 1977, Pub. L. 95–94, title II, § 202, 91 Stat. 677.
+Aug. 5, 1977, Pub. L. 95–94, title II, § 202, 91 Stat. 677.
 
-Oct. 1, 1976, Pub. L. 94–440, title VIII, § 802, 90 Stat. 1457.
+Oct. 1, 1976, Pub. L. 94–440, title VIII, § 802, 90 Stat. 1457.
 
-July 25, 1975, Pub. L. 94–59, title VII, § 702, 89 Stat. 294.
+July 25, 1975, Pub. L. 94–59, title VII, § 702, 89 Stat. 294.
 
 Aug. 13, 1974, Pub. L. 93–371, 88 Stat. 441.
 
@@ -2323,7 +2323,7 @@ June 26, 1944, ch. 277, 58 Stat. 351.
 
 June 28, 1943, ch. 173, 57 Stat. 236.
 
-## § 170. American Television and Radio Archives
+## § 170. American Television and Radio Archives
 
 **(a) Establishment and maintenance in Library of Congress; purpose; determination of composition, cataloging, indexing and availability by Librarian** The Librarian of Congress (hereinafter referred to as the “Librarian”) shall establish and maintain in the Library of Congress a library to be known as the American Television and Radio Archives (hereinafter referred to as the “Archives”). The purpose of the Archives shall be to preserve a permanent record of the television and radio programs which are the heritage of the people of the United States and to provide access to such programs to historians and scholars without encouraging or causing copyright infringement.
 
@@ -2361,7 +2361,7 @@ The Librarian or any employee of the Library who is acting under the authority o
 
 This section may be cited as the “American Television and Radio Archives Act”.
 
-(Pub. L. 94–553, title I, § 113, Oct. 19, 1976, 90 Stat. 2601.)
+(Pub. L. 94–553, title I, § 113, Oct. 19, 1976, 90 Stat. 2601.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2369,7 +2369,7 @@ This section may be cited as the “American Television and Radio Archives Act�
 
 Section effective Jan. 1, 1978, see section 102 of Pub. L. 94–553, set out as a note preceding section 101 of Title 17, Copyrights.
 
-## § 171. Congressional declaration of findings and purpose as to Center for the Book
+## § 171. Congressional declaration of findings and purpose as to Center for the Book
 
 The Congress hereby finds and declares—
 
@@ -2389,9 +2389,9 @@ The Congress hereby finds and declares—
 
 It is therefore the purpose of sections 171 to 175 of this title to establish a Center for the Book in the Library of Congress to provide a program for the investigation of the transmission of human knowledge and to heighten public interest in the role of books and printing in the diffusion of this knowledge.
 
-(Pub. L. 95–129, § 1, Oct. 13, 1977, 91 Stat. 1151.)
+(Pub. L. 95–129, § 1, Oct. 13, 1977, 91 Stat. 1151.)
 
-## § 172. Definitions
+## § 172. Definitions
 
 As used in sections 171 to 175 of this title—
 
@@ -2399,23 +2399,23 @@ As used in sections 171 to 175 of this title—
 
 **(2)** the term Librarian means the Librarian of Congress.
 
-(Pub. L. 95–129, § 2, Oct. 13, 1977, 91 Stat. 1151.)
+(Pub. L. 95–129, § 2, Oct. 13, 1977, 91 Stat. 1151.)
 
-## § 173. Establishment of Center for the Book
+## § 173. Establishment of Center for the Book
 
 There is hereby established in the Library of Congress a Center for the Book.
 
 The Center shall be under the direction of the Librarian of Congress.
 
-(Pub. L. 95–129, § 3, Oct. 13, 1977, 91 Stat. 1151.)
+(Pub. L. 95–129, § 3, Oct. 13, 1977, 91 Stat. 1151.)
 
-## § 174. Function of Center for the Book
+## § 174. Function of Center for the Book
 
 The Librarian through the Center shall stimulate public interest and research in the role of the book in the diffusion of knowledge through such activities as a visiting scholar program accompanied by lectures, exhibits, publications, and any other related activities.
 
-(Pub. L. 95–129, § 4, Oct. 13, 1977, 91 Stat. 1152.)
+(Pub. L. 95–129, § 4, Oct. 13, 1977, 91 Stat. 1152.)
 
-## § 175. Administrative provisions
+## § 175. Administrative provisions
 
 The Librarian of Congress, in carrying out the Center’s functions, is authorized to—
 
@@ -2425,25 +2425,25 @@ The Librarian of Congress, in carrying out the Center’s functions, is authoriz
 
 **(3)** accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5.
 
-(Pub. L. 95–129, § 5, Oct. 13, 1977, 91 Stat. 1152.)
+(Pub. L. 95–129, § 5, Oct. 13, 1977, 91 Stat. 1152.)
 
-## § 176. Mass Book Deacidification Facility; operation by Librarian of Congress
+## § 176. Mass Book Deacidification Facility; operation by Librarian of Congress
 
 Notwithstanding any other provision of law, the Librarian of Congress shall equip, furnish, operate, and maintain the Library of Congress Mass Book Deacidification Facility.
 
-(Pub. L. 98–427, § 2, Sept. 28, 1984, 98 Stat. 1656.)
+(Pub. L. 98–427, § 2, Sept. 28, 1984, 98 Stat. 1656.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Authorization To Construct Facility**
 
-Pub. L. 98–427, § 1, Sept. 28, 1984, 98 Stat. 1656, provided: “That the Librarian of Congress is authorized and directed, subject to the supervision and construction authority of a Federal civilian or military agency, to construct the Library of Congress Mass Book Deacidification Facility in accordance with the general design developed by the Library of Congress and reviewed by the Architect of the Capitol, as set forth in the document entitled ‘Library of Congress Mass Book Deacidification Facility, Engineering, Design, and Cost Estimate and Drawings’, dated December 1983. Such facility shall be constructed on Federal property within seventy-five miles of the United States Capitol Building.”
+Pub. L. 98–427, § 1, Sept. 28, 1984, 98 Stat. 1656, provided: “That the Librarian of Congress is authorized and directed, subject to the supervision and construction authority of a Federal civilian or military agency, to construct the Library of Congress Mass Book Deacidification Facility in accordance with the general design developed by the Library of Congress and reviewed by the Architect of the Capitol, as set forth in the document entitled ‘Library of Congress Mass Book Deacidification Facility, Engineering, Design, and Cost Estimate and Drawings’, dated December 1983. Such facility shall be constructed on Federal property within seventy-five miles of the United States Capitol Building.”
 
 **Authorization of Appropriation**
 
-Pub. L. 98–427, § 3, Sept. 28, 1984, 98 Stat. 1656, provided that: “There are authorized to be appropriated for fiscal years beginning after September 30, 1983, sums not to exceed $11,500,000 to carry out the provisions of this Act [enacting this section and a provision set out as a note under this section].”
+Pub. L. 98–427, § 3, Sept. 28, 1984, 98 Stat. 1656, provided that: “There are authorized to be appropriated for fiscal years beginning after September 30, 1983, sums not to exceed $11,500,000 to carry out the provisions of this Act [enacting this section and a provision set out as a note under this section].”
 
-## § 177. Poet Laureate Consultant in Poetry
+## § 177. Poet Laureate Consultant in Poetry
 
 **(a) Recognition**
 
@@ -2461,69 +2461,35 @@ The Congress recognizes that the Consultant in Poetry to the Library of Congress
 
 **(2)** There are authorized to be appropriated to the National Endowment for the Arts $10,000 for the fiscal year 1987 and for each succeeding fiscal year ending prior to October 1, 1990, for the purpose of carrying out this subsection.
 
-(Pub. L. 99–194, title VI, § 601, Dec. 20, 1985, 99 Stat. 1347.)
+(Pub. L. 99–194, title VI, § 601, Dec. 20, 1985, 99 Stat. 1347.)
 
-## §§ 178 to 178l. Repealed. Pub. L. 102–307, title II, § 214, June 26, 1992, 106 Stat. 272
+## §§ 178 to 178l. Repealed. Pub. L. 102–307, title II, § 214, June 26, 1992, 106 Stat. 272
 
-Section 178, Pub. L. 100–446, title I, § 1, Sept. 27, 1988, 102 Stat. 1782, related to Congressional findings on national film preservation.
+Section 178, Pub. L. 100–446, title I, § 1, Sept. 27, 1988, 102 Stat. 1782, related to Congressional findings on national film preservation.
 
-Section 178a, Pub. L. 100–446, title I, § 2, Sept. 27, 1988, 102 Stat. 1782, related to establishment of a National Film Registry.
+Section 178a, Pub. L. 100–446, title I, § 2, Sept. 27, 1988, 102 Stat. 1782, related to establishment of a National Film Registry.
 
-Section 178b, Pub. L. 100–446, title I, § 3, Sept. 27, 1988, 102 Stat. 1782, related to the duties of Librarian of Congress with respect to the National Film Registry.
+Section 178b, Pub. L. 100–446, title I, § 3, Sept. 27, 1988, 102 Stat. 1782, related to the duties of Librarian of Congress with respect to the National Film Registry.
 
-Section 178c, Pub. L. 100–446, title I, § 4, Sept. 27, 1988, 102 Stat. 1784, related to film labeling requirements.
+Section 178c, Pub. L. 100–446, title I, § 4, Sept. 27, 1988, 102 Stat. 1784, related to film labeling requirements.
 
-Section 178d, Pub. L. 100–446, title I, § 5, Sept. 27, 1988, 102 Stat. 1785, related to misuse of National Film Registry seal.
+Section 178d, Pub. L. 100–446, title I, § 5, Sept. 27, 1988, 102 Stat. 1785, related to misuse of National Film Registry seal.
 
-Section 178e, Pub. L. 100–446, title I, § 6, Sept. 27, 1988, 102 Stat. 1785, related to remedies for film labeling violations or for misusing the National Film Registry seal.
+Section 178e, Pub. L. 100–446, title I, § 6, Sept. 27, 1988, 102 Stat. 1785, related to remedies for film labeling violations or for misusing the National Film Registry seal.
 
-Section 178f, Pub. L. 100–446, title I, § 7, Sept. 27, 1988, 102 Stat. 1785, related to exclusivity of remedies provided in former section 178e of this title.
+Section 178f, Pub. L. 100–446, title I, § 7, Sept. 27, 1988, 102 Stat. 1785, related to exclusivity of remedies provided in former section 178e of this title.
 
-Section 178g, Pub. L. 100–446, title I, § 8, Sept. 27, 1988, 102 Stat. 1785; Pub. L. 102–378, § 5(c), Oct. 2, 1992, 106 Stat. 1358, related to establishment of National Film Preservation Board.
+Section 178g, Pub. L. 100–446, title I, § 8, Sept. 27, 1988, 102 Stat. 1785; Pub. L. 102–378, § 5(c), Oct. 2, 1992, 106 Stat. 1358, related to establishment of National Film Preservation Board.
 
-Section 178h, Pub. L. 100–446, title I, § 9, Sept. 27, 1988, 102 Stat. 1787, related to staff of National Film Registry Board and authority of Board to procure services of experts and consultants.
+Section 178h, Pub. L. 100–446, title I, § 9, Sept. 27, 1988, 102 Stat. 1787, related to staff of National Film Registry Board and authority of Board to procure services of experts and consultants.
 
-Section 178i, Pub. L. 100–446, title I, § 10, Sept. 27, 1988, 102 Stat. 1787, related to powers of National Film Registry Board.
+Section 178i, Pub. L. 100–446, title I, § 10, Sept. 27, 1988, 102 Stat. 1787, related to powers of National Film Registry Board.
 
-Section 178j, Pub. L. 100–446, title I, § 11, Sept. 27, 1988, 102 Stat. 1787, contained definitions.
+Section 178j, Pub. L. 100–446, title I, § 11, Sept. 27, 1988, 102 Stat. 1787, contained definitions.
 
-Section 178k, Pub. L. 100–446, title I, § 12, Sept. 27, 1988, 102 Stat. 1788, authorized appropriations.
+Section 178k, Pub. L. 100–446, title I, § 12, Sept. 27, 1988, 102 Stat. 1788, authorized appropriations.
 
-Section 178*l*, Pub. L. 100–446, title I, § 13, Sept. 27, 1988, 102 Stat. 1788, provided effective date, sunset, and savings provisions for former sections 178 to 178*l* of this title.
-
-For similar provisions, see section 179*l* et seq. of this title.
-
-**Statutory Notes and Related Subsidiaries**
-
-**Short Title**
-
-Pub. L. 100–446, title I, § 1, Sept. 27, 1988, 102 Stat. 1782, which provided that sections 178 to 178*l* of this title were to be cited as the “National Film Preservation Act of 1988” was repealed by Pub. L. 102–307, title III, § 214, June 26, 1992, 106 Stat. 272.
-
-## §§ 179 to 179k. Repealed. Pub. L. 104–285, title I, § 114, Oct. 11, 1996, 110 Stat. 3382
-
-Section 179, Pub. L. 102–307, title II, § 202, June 26, 1992, 106 Stat. 267, required Librarian of Congress to establish National Film Registry for purpose of maintaining and preserving culturally, historically, or aesthetically significant films.
-
-Section 179a, Pub. L. 102–307, title II, § 203, June 26, 1992, 106 Stat. 267, required Librarian of Congress to conduct study of film preservation, to establish film preservation program and guidelines and procedures for inclusion of films in National Film Registry, and to report to Congress on films selected and activities undertaken.
-
-Section 179b, Pub. L. 102–307, title II, § 204, June 26, 1992, 106 Stat. 268, related to establishment of National Film Preservation Board and provided for number and appointment of members, chairperson, term of office, quorum, basic pay, meetings, and conflict of interest.
-
-Section 179c, Pub. L. 102–307, title II, § 205, June 26, 1992, 106 Stat. 270, related to responsibilities and powers of Board, including consultation with Librarian with respect to inclusion of films in Registry, consideration of films nominated for inclusion in Registry, and general powers.
-
-Section 179d, Pub. L. 102–307, title II, § 206, June 26, 1992, 106 Stat. 270, related to National Film Registry Collection of Library of Congress, including provisions relating to acquisition of archival quality copies and additional materials, ownership of copies and additional materials by United States, and maintenance of and access to Collection.
-
-Section 179e, Pub. L. 102–307, title II, § 207, June 26, 1992, 106 Stat. 271, related to seal of National Film Registry.
-
-Section 179f, Pub. L. 102–307, title II, § 208, June 26, 1992, 106 Stat. 271, provided that district courts of United States were to have jurisdiction to prevent and restrain unlawful use of seal.
-
-Section 179g, Pub. L. 102–307, title II, § 209, June 26, 1992, 106 Stat. 271, provided that remedies provided in section 179f were to be exclusive.
-
-Section 179h, Pub. L. 102–307, title II, § 210, June 26, 1992, 106 Stat. 271, authorized Librarian to appoint and fix pay of staff and to procure services of experts and consultants.
-
-Section 179i, Pub. L. 102–307, title II, § 211, June 26, 1992, 106 Stat. 271, defined terms for purpose of sections 179 to 179k of this title.
-
-Section 179j, Pub. L. 102–307, title II, § 212, June 26, 1992, 106 Stat. 272, authorized to be appropriated to Librarian necessary sums to carry out sections 179 to 179k of this title.
-
-Section 179k, Pub. L. 102–307, title II, § 213, June 26, 1992, 106 Stat. 272, provided that sections 179 to 179k of this title were effective for 4 years beginning June 26, 1992, and applicable to any copy of any film, including copies of films selected for inclusion in National Film Registry under National Film Preservation Act of 1988.
+Section 178*l*, Pub. L. 100–446, title I, § 13, Sept. 27, 1988, 102 Stat. 1788, provided effective date, sunset, and savings provisions for former sections 178 to 178*l* of this title.
 
 For similar provisions, see section 179*l* et seq. of this title.
 
@@ -2531,13 +2497,47 @@ For similar provisions, see section 179*l* et seq. of this title.
 
 **Short Title**
 
-Pub. L. 102–307, title II, § 201, June 26, 1992, 106 Stat. 267, which provided that title II of Pub. L. 102–307, which enacted sections 179 to 179k of this title and repealed sections 178 to 178*l* of this title and provisions set out as a note under section 178 of this title, was to be cited as the “National Film Preservation Act of 1992”, was repealed by Pub. L. 104–285, title I, § 114, Oct. 11, 1996, 110 Stat. 3382.
+Pub. L. 100–446, title I, § 1, Sept. 27, 1988, 102 Stat. 1782, which provided that sections 178 to 178*l* of this title were to be cited as the “National Film Preservation Act of 1988” was repealed by Pub. L. 102–307, title III, § 214, June 26, 1992, 106 Stat. 272.
 
-## § 179l. National Film Registry of Library of Congress
+## §§ 179 to 179k. Repealed. Pub. L. 104–285, title I, § 114, Oct. 11, 1996, 110 Stat. 3382
+
+Section 179, Pub. L. 102–307, title II, § 202, June 26, 1992, 106 Stat. 267, required Librarian of Congress to establish National Film Registry for purpose of maintaining and preserving culturally, historically, or aesthetically significant films.
+
+Section 179a, Pub. L. 102–307, title II, § 203, June 26, 1992, 106 Stat. 267, required Librarian of Congress to conduct study of film preservation, to establish film preservation program and guidelines and procedures for inclusion of films in National Film Registry, and to report to Congress on films selected and activities undertaken.
+
+Section 179b, Pub. L. 102–307, title II, § 204, June 26, 1992, 106 Stat. 268, related to establishment of National Film Preservation Board and provided for number and appointment of members, chairperson, term of office, quorum, basic pay, meetings, and conflict of interest.
+
+Section 179c, Pub. L. 102–307, title II, § 205, June 26, 1992, 106 Stat. 270, related to responsibilities and powers of Board, including consultation with Librarian with respect to inclusion of films in Registry, consideration of films nominated for inclusion in Registry, and general powers.
+
+Section 179d, Pub. L. 102–307, title II, § 206, June 26, 1992, 106 Stat. 270, related to National Film Registry Collection of Library of Congress, including provisions relating to acquisition of archival quality copies and additional materials, ownership of copies and additional materials by United States, and maintenance of and access to Collection.
+
+Section 179e, Pub. L. 102–307, title II, § 207, June 26, 1992, 106 Stat. 271, related to seal of National Film Registry.
+
+Section 179f, Pub. L. 102–307, title II, § 208, June 26, 1992, 106 Stat. 271, provided that district courts of United States were to have jurisdiction to prevent and restrain unlawful use of seal.
+
+Section 179g, Pub. L. 102–307, title II, § 209, June 26, 1992, 106 Stat. 271, provided that remedies provided in section 179f were to be exclusive.
+
+Section 179h, Pub. L. 102–307, title II, § 210, June 26, 1992, 106 Stat. 271, authorized Librarian to appoint and fix pay of staff and to procure services of experts and consultants.
+
+Section 179i, Pub. L. 102–307, title II, § 211, June 26, 1992, 106 Stat. 271, defined terms for purpose of sections 179 to 179k of this title.
+
+Section 179j, Pub. L. 102–307, title II, § 212, June 26, 1992, 106 Stat. 272, authorized to be appropriated to Librarian necessary sums to carry out sections 179 to 179k of this title.
+
+Section 179k, Pub. L. 102–307, title II, § 213, June 26, 1992, 106 Stat. 272, provided that sections 179 to 179k of this title were effective for 4 years beginning June 26, 1992, and applicable to any copy of any film, including copies of films selected for inclusion in National Film Registry under National Film Preservation Act of 1988.
+
+For similar provisions, see section 179*l* et seq. of this title.
+
+**Statutory Notes and Related Subsidiaries**
+
+**Short Title**
+
+Pub. L. 102–307, title II, § 201, June 26, 1992, 106 Stat. 267, which provided that title II of Pub. L. 102–307, which enacted sections 179 to 179k of this title and repealed sections 178 to 178*l* of this title and provisions set out as a note under section 178 of this title, was to be cited as the “National Film Preservation Act of 1992”, was repealed by Pub. L. 104–285, title I, § 114, Oct. 11, 1996, 110 Stat. 3382.
+
+## § 179l. National Film Registry of Library of Congress
 
 The Librarian of Congress (hereafter in sections 179*l* to 179w of this title referred to as the “Librarian”) shall continue the National Film Registry established and maintained under the National Film Preservation Act of 1988 (Public Law 100–446), and the National Film Preservation Act of 1992 (Public Law 102–307) pursuant to the provisions of sections 179*l* to 179w of this title, for the purpose of maintaining and preserving films that are culturally, historically, or aesthetically significant.
 
-(Pub. L. 104–285, title I, § 102, Oct. 11, 1996, 110 Stat. 3377.)
+(Pub. L. 104–285, title I, § 102, Oct. 11, 1996, 110 Stat. 3377.)
 
 **Editorial Notes**
 
@@ -2545,9 +2545,9 @@ The Librarian of Congress (hereafter in sections 179*l* to 179w of this title re
 
 Sections 179*l* to 179w of the title, referred to in text, was in the original “this Act” the first place appearing and “this title” the second place appearing, both of which were translated as meaning title I of Pub. L. 104–285, Oct. 11, 1996, 110 Stat. 3377, which is classified principally to sections 179*l* to 179w of this title. For complete classification of title I to the Code, see Short Title note below and Tables.
 
-The National Film Preservation Act of 1988, referred to in text, is Pub. L. 100–446, title I, §§ 1–13, Sept. 27, 1988, 102 Stat. 1782–1788, which was classified to sections 178 to 178*l* of this title and was repealed by Pub. L. 102–307, title II, § 214, June 26, 1992, 106 Stat. 272.
+The National Film Preservation Act of 1988, referred to in text, is Pub. L. 100–446, title I, §§ 1–13, Sept. 27, 1988, 102 Stat. 1782–1788, which was classified to sections 178 to 178*l* of this title and was repealed by Pub. L. 102–307, title II, § 214, June 26, 1992, 106 Stat. 272.
 
-The National Film Preservation Act of 1992, referred to in text, is title II of Pub. L. 102–307, June 26, 1992, 106 Stat. 267, which was classified principally to sections 179 to 179k of this title and was repealed by Pub. L. 104–285, title I, § 114, Oct. 11, 1996, 110 Stat. 3382.
+The National Film Preservation Act of 1992, referred to in text, is title II of Pub. L. 102–307, June 26, 1992, 106 Stat. 267, which was classified principally to sections 179 to 179k of this title and was repealed by Pub. L. 104–285, title I, § 114, Oct. 11, 1996, 110 Stat. 3382.
 
 **Prior Provisions**
 
@@ -2557,21 +2557,21 @@ Prior provisions similar to sections 179*l* to 179w of this title were contained
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–217, § 1, July 29, 2016, 130 Stat. 840, provided that: “This Act [amending sections 179v and 1743 of this title and sections 151711, 152403, and 152411 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations] may be cited as the ‘Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2016’.”
+Pub. L. 114–217, § 1, July 29, 2016, 130 Stat. 840, provided that: “This Act [amending sections 179v and 1743 of this title and sections 151711, 152403, and 152411 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations] may be cited as the ‘Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2016’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–336, § 1, Oct. 2, 2008, 122 Stat. 3726, provided that: “This Act [amending sections 179m, 179n, 179v, 179w, 1722, and 1743 of this title and sections 151702, 151703, 151711, 152403, 152405, 152406, and 152411 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and enacting provisions set out as notes under sections 179v and 1743 of this title and section 152411 of Title 36] may be cited as the ‘Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2008’.”
+Pub. L. 110–336, § 1, Oct. 2, 2008, 122 Stat. 3726, provided that: “This Act [amending sections 179m, 179n, 179v, 179w, 1722, and 1743 of this title and sections 151702, 151703, 151711, 152403, 152405, 152406, and 152411 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and enacting provisions set out as notes under sections 179v and 1743 of this title and section 152411 of Title 36] may be cited as the ‘Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2008’.”
 
 **Short Title of 2005 Amendment**
 
-Pub. L. 109–9, title III, § 301, Apr. 27, 2005, 119 Stat. 224, provided that: “This subtitle [subtitle A (§§ 301, 302) of title III of Pub. L. 109–9, amending sections 179m, 179n, 179p, 179q, and 179w of this title] may be cited as the ‘National Film Preservation Act of 2005’.”
+Pub. L. 109–9, title III, § 301, Apr. 27, 2005, 119 Stat. 224, provided that: “This subtitle [subtitle A (§§ 301, 302) of title III of Pub. L. 109–9, amending sections 179m, 179n, 179p, 179q, and 179w of this title] may be cited as the ‘National Film Preservation Act of 2005’.”
 
 **Short Title**
 
-Pub. L. 104–285, title I, § 101, Oct. 11, 1996, 110 Stat. 3377, provided that: “This title [enacting this section and sections 179m to 179w of this title and repealing sections 179 to 179k of this title and provisions set out as a note under section 179 of this title] may be cited as the ‘National Film Preservation Act of 1996’.”
+Pub. L. 104–285, title I, § 101, Oct. 11, 1996, 110 Stat. 3377, provided that: “This title [enacting this section and sections 179m to 179w of this title and repealing sections 179 to 179k of this title and provisions set out as a note under section 179 of this title] may be cited as the ‘National Film Preservation Act of 1996’.”
 
-## § 179m. Duties of Librarian of Congress
+## § 179m. Duties of Librarian of Congress
 
 **(a) Powers**
 
@@ -2613,29 +2613,29 @@ The seal provided under subsection (a)(3) may only be used on film or other appr
 
 **(3)** wherever possible, undertake expanded initiatives to ensure the preservation of the moving image heritage of the United States, including film, videotape, television, and born digital moving image formats, by supporting the work of the National Audio-Visual Conservation Center of the Library of Congress, and other appropriate nonprofit archival and preservation organizations.
 
-(Pub. L. 104–285, title I, § 103, Oct. 11, 1996, 110 Stat. 3377; Pub. L. 109–9, title III, § 302(a), Apr. 27, 2005, 119 Stat. 224; Pub. L. 110–336, § 3(a)(2), Oct. 2, 2008, 122 Stat. 3727.)
+(Pub. L. 104–285, title I, § 103, Oct. 11, 1996, 110 Stat. 3377; Pub. L. 109–9, title III, § 302(a), Apr. 27, 2005, 119 Stat. 224; Pub. L. 110–336, § 3(a)(2), Oct. 2, 2008, 122 Stat. 3727.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Film Preservation Act of 1992, referred to in subsecs. (a)(1)(A) and (c), is title II of Pub. L. 102–307, June 26, 1992, 106 Stat. 267, which was classified principally to sections 179 to 179k of this title and was repealed by Pub. L. 104–285, title I, § 114, Oct. 11, 1996, 110 Stat. 3382.
+The National Film Preservation Act of 1992, referred to in subsecs. (a)(1)(A) and (c), is title II of Pub. L. 102–307, June 26, 1992, 106 Stat. 267, which was classified principally to sections 179 to 179k of this title and was repealed by Pub. L. 104–285, title I, § 114, Oct. 11, 1996, 110 Stat. 3382.
 
 **Amendments**
 
 2008—Subsec. (b). Pub. L. 110–336 inserted at end “The Librarian may authorize the use of the seal by the Library or by others for other limited purposes in order to promote in the National Film Registry when exhibiting, showing, or otherwise disseminating films in the Registry.”
 
-2005—Subsec. (b). Pub. L. 109–9, § 302(a)(1), substituted “film or other approved copies” for “film copies” and “copyrighted, mass distributed, broadcast, or published” for “copyrighted” and substituted “film or other approved copy” for “film copy” wherever appearing.
+2005—Subsec. (b). Pub. L. 109–9, § 302(a)(1), substituted “film or other approved copies” for “film copies” and “copyrighted, mass distributed, broadcast, or published” for “copyrighted” and substituted “film or other approved copy” for “film copy” wherever appearing.
 
-Subsec. (c). Pub. L. 109–9, § 302(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 109–9, § 302(a)(2), added subsec. (c).
 
-## § 179n. National Film Preservation Board
+## § 179n. National Film Preservation Board
 
 **(a) Number and appointment**
 
-**(1) Members** The Librarian shall establish in the Library of Congress a National Film Preservation Board to be comprised of 22 members, who shall be selected by the Librarian in accordance with this section. Subject to subparagraphs (C) and (N), the Librarian shall request each organization listed in subparagraphs (A) through (Q) to submit a list of three candidates qualified to serve as a member of the Board. Except for the members-at-large appointed under subparagraph 1
+**(1) Members** The Librarian shall establish in the Library of Congress a National Film Preservation Board to be comprised of 22 members, who shall be selected by the Librarian in accordance with this section. Subject to subparagraphs (C) and (N), the Librarian shall request each organization listed in subparagraphs (A) through (Q) to submit a list of three candidates qualified to serve as a member of the Board. Except for the members-at-large appointed under subparagraph 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph”.
+<sup>1</sup> So in original. Probably should be “paragraph”.
 
 (2), the Librarian shall appoint one member from each such list submitted by such organizations, and shall designate from that list an alternate who may attend at Board expense those meetings to which the individual appointed to the Board cannot attend. The organizations are the following:
 
@@ -2675,11 +2675,11 @@ Subsec. (c). Pub. L. 109–9, § 302(a)(2), added subsec. (c).
 
 **(2) Members-at-large**
 
-In addition to the members appointed under paragraph (1), the Librarian shall appoint up to 5 members-at-large. The Librarian shall also select an alternate for each member 2
+In addition to the members appointed under paragraph (1), the Librarian shall appoint up to 5 members-at-large. The Librarian shall also select an alternate for each member 2
 
-<sup>2</sup>  So in original. Probably should be followed by a hyphen.
+<sup>2</sup> So in original. Probably should be followed by a hyphen.
 
-at-large, who may attend at Board expense those meetings which the member 2 at-large cannot attend.
+at-large, who may attend at Board expense those meetings which the member 2 at-large cannot attend.
 
 **(b) Chair**
 
@@ -2715,29 +2715,29 @@ The Board shall meet at least once each fiscal year. Meetings shall be at the ca
 
 The Librarian shall establish rules and procedures to address any potential conflict of interest between a member of the Board and responsibilities of the Board.
 
-(Pub. L. 104–285, title I, § 104, Oct. 11, 1996, 110 Stat. 3378; Pub. L. 109–9, title III, § 302(b), Apr. 27, 2005, 119 Stat. 225; Pub. L. 110–336, § 3(a)(3), Oct. 2, 2008, 122 Stat. 3727.)
+(Pub. L. 104–285, title I, § 104, Oct. 11, 1996, 110 Stat. 3378; Pub. L. 109–9, title III, § 302(b), Apr. 27, 2005, 119 Stat. 225; Pub. L. 110–336, § 3(a)(3), Oct. 2, 2008, 122 Stat. 3727.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a)(1)(E). Pub. L. 110–336, § 3(a)(3)(A), substituted “Cinema and Media” for “Cinema”.
+2008—Subsec. (a)(1)(E). Pub. L. 110–336, § 3(a)(3)(A), substituted “Cinema and Media” for “Cinema”.
 
-Subsec. (a)(1)(G). Pub. L. 110–336, § 3(a)(3)(B), substituted “Department of Film, Television, and Digital Media” for “Department of Film and Television”.
+Subsec. (a)(1)(G). Pub. L. 110–336, § 3(a)(3)(B), substituted “Department of Film, Television, and Digital Media” for “Department of Film and Television”.
 
-Subsec. (a)(1)(H). Pub. L. 110–336, § 3(a)(3)(C), substituted “Cinema Studies” for “Film and Television”.
+Subsec. (a)(1)(H). Pub. L. 110–336, § 3(a)(3)(C), substituted “Cinema Studies” for “Film and Television”.
 
-Subsec. (a)(1)(L). Pub. L. 110–336, § 3(a)(3)(D), amended subpar. (L) generally. Prior to amendment, subpar. (L) read as follows: “The Screen Actors Guild of America.”
+Subsec. (a)(1)(L). Pub. L. 110–336, § 3(a)(3)(D), amended subpar. (L) generally. Prior to amendment, subpar. (L) read as follows: “The Screen Actors Guild of America.”
 
-2005—Subsec. (a)(1). Pub. L. 109–9, § 302(b)(1), substituted “22” for “20” in introductory provisions.
+2005—Subsec. (a)(1). Pub. L. 109–9, § 302(b)(1), substituted “22” for “20” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 109–9, § 302(b)(2), substituted “5” for “three”.
+Subsec. (a)(2). Pub. L. 109–9, § 302(b)(2), substituted “5” for “three”.
 
-Subsec. (d). Pub. L. 109–9, § 302(b)(3), substituted “12” for “11”.
+Subsec. (d). Pub. L. 109–9, § 302(b)(3), substituted “12” for “11”.
 
-Subsec. (e). Pub. L. 109–9, § 302(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Board.”
+Subsec. (e). Pub. L. 109–9, § 302(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Board.”
 
-## § 179o. Responsibilities and powers of Board
+## § 179o. Responsibilities and powers of Board
 
 **(a) In general**
 
@@ -2757,15 +2757,15 @@ The Board may, for the purpose of carrying out its duties, hold such hearings, s
 
 Two sitting members of the Board shall be appointed by the Librarian, and shall serve, as Board members of the National Film Preservation Foundation, in accordance with section 151703 of title 36.
 
-(Pub. L. 104–285, title I, § 105, Oct. 11, 1996, 110 Stat. 3380.)
+(Pub. L. 104–285, title I, § 105, Oct. 11, 1996, 110 Stat. 3380.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 151703 of title 36” substituted in subsec. (c)(2) for “section 203”, meaning section 203 of the National Film Preservation Act of 1996, on authority of Pub. L. 105–225, § 5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+“Section 151703 of title 36” substituted in subsec. (c)(2) for “section 203”, meaning section 203 of the National Film Preservation Act of 1996, on authority of Pub. L. 105–225, § 5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
-## § 179p. National Film Registry Collection of Library of Congress
+## § 179p. National Film Registry Collection of Library of Congress
 
 **(a) Acquisition of archival quality copies**
 
@@ -2789,19 +2789,19 @@ All copies of films on the National Film Registry that are received by the Libra
 
 **(2)** the terms of any agreements between the Librarian and persons who hold copyrights to such audiovisual works.
 
-(Pub. L. 104–285, title I, § 106, Oct. 11, 1996, 110 Stat. 3380; Pub. L. 109–9, title III, § 302(c), Apr. 27, 2005, 119 Stat. 225.)
+(Pub. L. 104–285, title I, § 106, Oct. 11, 1996, 110 Stat. 3380; Pub. L. 109–9, title III, § 302(c), Apr. 27, 2005, 119 Stat. 225.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (a), is Pub. L. 104–285, Oct. 11, 1996, 110 Stat. 3377, which enacted this section and sections 179*l* to 179*o* and 179q to 179w of this title and sections 5701 to 5708 of former Title 36, Patriotic Societies and Observances, repealed sections 179 to 179k of this title, enacted provisions set out as a note under section 179*l* of this title, and repealed provisions set out as a note under section 179 of this title. Sections 5701 to 5708 of former Title 36 were repealed and reenacted as chapter 1517 (§ 151701 et seq.) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, by Pub. L. 105–225, § 5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a), is Pub. L. 104–285, Oct. 11, 1996, 110 Stat. 3377, which enacted this section and sections 179*l* to 179*o* and 179q to 179w of this title and sections 5701 to 5708 of former Title 36, Patriotic Societies and Observances, repealed sections 179 to 179k of this title, enacted provisions set out as a note under section 179*l* of this title, and repealed provisions set out as a note under section 179 of this title. Sections 5701 to 5708 of former Title 36 were repealed and reenacted as chapter 1517 (§ 151701 et seq.) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, by Pub. L. 105–225, § 5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
 2005—Subsec. (e). Pub. L. 109–9 added subsec. (e).
 
-## § 179q. Seal of National Film Registry
+## § 179q. Seal of National Film Registry
 
 **(a) Use of seal**
 
@@ -2819,17 +2819,17 @@ No person shall knowingly use the seal described in section 179m(a)(3) of this t
 
 The use of the seal described in section 179m(a)(3) of this title shall be effective for each film after the Librarian publishes in the Federal Register, in accordance with section 179m(a)(2) of this title, the name of that film as selected for inclusion in the National Film Registry.
 
-(Pub. L. 104–285, title I, § 107, Oct. 11, 1996, 110 Stat. 3381; Pub. L. 109–9, title III, § 302(d), Apr. 27, 2005, 119 Stat. 225.)
+(Pub. L. 104–285, title I, § 107, Oct. 11, 1996, 110 Stat. 3381; Pub. L. 109–9, title III, § 302(d), Apr. 27, 2005, 119 Stat. 225.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2005—Subsec. (a)(1). Pub. L. 109–9, § 302(d)(1), inserted “in any format” after “or any copy” in introductory provisions.
+2005—Subsec. (a)(1). Pub. L. 109–9, § 302(d)(1), inserted “in any format” after “or any copy” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 109–9, § 302(d)(2), substituted “in any format” for “or film copy”.
+Subsec. (a)(2). Pub. L. 109–9, § 302(d)(2), substituted “in any format” for “or film copy”.
 
-## § 179r. Remedies
+## § 179r. Remedies
 
 **(a) Jurisdiction**
 
@@ -2845,15 +2845,15 @@ Except as provided in paragraph (2), relief for violation of section 179q(a) of 
 
 In the case of a pattern or practice of the willful violation of section 179q(a) of this title, the United States district courts may order a civil fine of not more than $10,000 and appropriate injunctive relief.
 
-(Pub. L. 104–285, title I, § 108, Oct. 11, 1996, 110 Stat. 3381.)
+(Pub. L. 104–285, title I, § 108, Oct. 11, 1996, 110 Stat. 3381.)
 
-## § 179s. Limitations of remedies
+## § 179s. Limitations of remedies
 
 The remedies provided in section 179r of this title shall be the exclusive remedies under sections 179*l* to 179w of this title, or any other Federal or State law, regarding the use of the seal described in section 179m(a)(3) of this title.
 
-(Pub. L. 104–285, title I, § 109, Oct. 11, 1996, 110 Stat. 3381.)
+(Pub. L. 104–285, title I, § 109, Oct. 11, 1996, 110 Stat. 3381.)
 
-## § 179t. Staff of Board; experts and consultants
+## § 179t. Staff of Board; experts and consultants
 
 **(a) Staff**
 
@@ -2863,7 +2863,7 @@ The Librarian may appoint and fix the pay of such personnel as the Librarian con
 
 The Librarian may, in carrying out sections 179*l* to 179w of this title, procure temporary and intermittent services under section 3109(b) of title 5, but at rates for individuals not to exceed the daily equivalent of the maximum rate of basic pay payable for GS–15 of the General Schedule. In no case may a member of the Board or an alternate be paid as an expert or consultant under this section.
 
-(Pub. L. 104–285, title I, § 110, Oct. 11, 1996, 110 Stat. 3381.)
+(Pub. L. 104–285, title I, § 110, Oct. 11, 1996, 110 Stat. 3381.)
 
 **Editorial Notes**
 
@@ -2871,7 +2871,7 @@ The Librarian may, in carrying out sections 179*l* to 179w of this title, procur
 
 The General Schedule, referred to in subsec. (b), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-## § 179u. Definitions
+## § 179u. Definitions
 
 As used in sections 179*l* to 179w of this title—
 
@@ -2885,13 +2885,13 @@ As used in sections 179*l* to 179w of this title—
 
 **(5)** the term “Registry version” means, with respect to a film, the version of a film first published, or as complete a version as bona fide preservation and restoration activities by the Librarian, an archivist other than the Librarian, or the copyright owner can compile in those cases where the original material has been irretrievably lost.
 
-(Pub. L. 104–285, title I, § 111, Oct. 11, 1996, 110 Stat. 3382.)
+(Pub. L. 104–285, title I, § 111, Oct. 11, 1996, 110 Stat. 3382.)
 
-## § 179v. Authorization of appropriations
+## § 179v. Authorization of appropriations
 
 There are authorized to be appropriated to the Librarian for the first fiscal year beginning on or after October 11, 1996, and each succeeding fiscal year through fiscal year 2026 such sums as may be necessary to carry out the purposes of sections 179*l* to 179w of this title, but in no fiscal year shall such sum exceed $250,000.
 
-(Pub. L. 104–285, title I, § 112, Oct. 11, 1996, 110 Stat. 3382; Pub. L. 110–336, § 3(a)(1)(A), Oct. 2, 2008, 122 Stat. 3727; Pub. L. 114–217, § 3(a), July 29, 2016, 130 Stat. 840.)
+(Pub. L. 104–285, title I, § 112, Oct. 11, 1996, 110 Stat. 3382; Pub. L. 110–336, § 3(a)(1)(A), Oct. 2, 2008, 122 Stat. 3727; Pub. L. 114–217, § 3(a), July 29, 2016, 130 Stat. 840.)
 
 **Editorial Notes**
 
@@ -2905,21 +2905,21 @@ There are authorized to be appropriated to the Librarian for the first fiscal ye
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–336, § 3(a)(1)(C), Oct. 2, 2008, 122 Stat. 3727, provided that: “The amendments made by this paragraph [amending this section and section 179w of this title] shall take effect as if included in the enactment of the National Film Preservation Act of 1996 [Pub. L. 104–285, title I].”
+Pub. L. 110–336, § 3(a)(1)(C), Oct. 2, 2008, 122 Stat. 3727, provided that: “The amendments made by this paragraph [amending this section and section 179w of this title] shall take effect as if included in the enactment of the National Film Preservation Act of 1996 [Pub. L. 104–285, title I].”
 
-## § 179w. Effective date
+## § 179w. Effective date
 
 The provisions of sections 179*l* to 179w of this title shall apply to any copy of any film, including those copies of films selected for inclusion in the National Film Registry under the National Film Preservation Act of 1988 and the National Film Preservation Act of 1992, except that any film so selected under either Act shall be deemed to have been selected for the National Film Registry under sections 179*l* to 179w of this title.
 
-(Pub. L. 104–285, title I, § 113, Oct. 11, 1996, 110 Stat. 3382; Pub. L. 109–9, title III, § 302(e), Apr. 27, 2005, 119 Stat. 226; Pub. L. 110–336, § 3(a)(1)(B), Oct. 2, 2008, 122 Stat. 3727.)
+(Pub. L. 104–285, title I, § 113, Oct. 11, 1996, 110 Stat. 3382; Pub. L. 109–9, title III, § 302(e), Apr. 27, 2005, 119 Stat. 226; Pub. L. 110–336, § 3(a)(1)(B), Oct. 2, 2008, 122 Stat. 3727.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Film Preservation Act of 1988, referred to in text, is Pub. L. 100–446, title I, §§ 1–13, Sept. 27, 1988, 102 Stat. 1782–1788, which was classified to sections 178 to 178*l* of this title and was repealed by Pub. L. 102–307, title II, § 214, June 26, 1992, 106 Stat. 272.
+The National Film Preservation Act of 1988, referred to in text, is Pub. L. 100–446, title I, §§ 1–13, Sept. 27, 1988, 102 Stat. 1782–1788, which was classified to sections 178 to 178*l* of this title and was repealed by Pub. L. 102–307, title II, § 214, June 26, 1992, 106 Stat. 272.
 
-The National Film Preservation Act of 1992, referred to in text, is title II of Pub. L. 102–307, June 26, 1992, 106 Stat. 267, which was classified principally to sections 179 to 179k of this title and was repealed by Pub. L. 104–285, title I, § 114, Oct. 11, 1996, 110 Stat. 3382.
+The National Film Preservation Act of 1992, referred to in text, is title II of Pub. L. 102–307, June 26, 1992, 106 Stat. 267, which was classified principally to sections 179 to 179k of this title and was repealed by Pub. L. 104–285, title I, § 114, Oct. 11, 1996, 110 Stat. 3382.
 
 **Amendments**
 
@@ -2935,9 +2935,9 @@ Amendment by Pub. L. 110–336 effective as if included in the enactment of the 
 
 **Effective Date Extension**
 
-Pub. L. 108–447, div. G, title I, § 1205(a), Dec. 8, 2004, 118 Stat. 3189, provided that title I of Pub. L. 104–285, which enacted sections 179*l* to 179w of this title and repealed sections 179 to 179k of this title and provisions set out as a note under section 179 of this title, was to be effective through fiscal year 2005, notwithstanding former provision of this section which provided that title I was effective for only 7 years beginning on Oct. 11, 1996.
+Pub. L. 108–447, div. G, title I, § 1205(a), Dec. 8, 2004, 118 Stat. 3189, provided that title I of Pub. L. 104–285, which enacted sections 179*l* to 179w of this title and repealed sections 179 to 179k of this title and provisions set out as a note under section 179 of this title, was to be effective through fiscal year 2005, notwithstanding former provision of this section which provided that title I was effective for only 7 years beginning on Oct. 11, 1996.
 
-## § 180. Legislative information retrieval system
+## § 180. Legislative information retrieval system
 
 **(a) Purpose**
 
@@ -2959,7 +2959,7 @@ The Library shall develop a plan for creation of this system, taking into consid
 
 In formulating its plan, the Library shall examine issues regarding efficient ways to make this information available to the public. This analysis shall be submitted to the Committees on Appropriations of the Senate and the House of Representatives as well as the Committee on Rules and Administration of the Senate, and the Committee on House Oversight of the House of Representatives for their consideration and possible action.
 
-(Pub. L. 104–53, title II, § 209, Nov. 19, 1995, 109 Stat. 532.)
+(Pub. L. 104–53, title II, § 209, Nov. 19, 1995, 109 Stat. 532.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2967,7 +2967,7 @@ In formulating its plan, the Library shall examine issues regarding efficient wa
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-## § 181. Program for exchange of information among legislative branch agencies
+## § 181. Program for exchange of information among legislative branch agencies
 
 **(a)** On September 16, 1996, there shall be established a program for providing the widest possible exchange of information among legislative branch agencies with the long-range goal of improving information technology planning and evaluation. The Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate are requested to determine the structure and operation of this program and to provide appropriate oversight. All of the appropriate offices and agencies of the legislative branch as defined below shall participate in this program for information exchange, and shall report annually on the extent and nature of their participation in their budget submissions to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate.
 
@@ -2977,7 +2977,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **(2)** the term “technology” refers to any form of computer hardware and software; computer-based systems, services, and support for the creation, processing, exchange, and delivery of information; and telecommunications systems, and the associated hardware and software, that provide for voice, data, or image communication.
 
-(Pub. L. 104–197, title III, § 314, Sept. 16, 1996, 110 Stat. 2415; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 104–197, title III, § 314, Sept. 16, 1996, 110 Stat. 2415; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
@@ -2993,7 +2993,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 “Government Publishing Office” substituted for “Government Printing Office” in subsec. (b)(1) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
-## § 182. Cooperative Acquisitions Program Revolving Fund
+## § 182. Cooperative Acquisitions Program Revolving Fund
 
 **(a) Establishment**
 
@@ -3019,7 +3019,7 @@ Any unobligated and unexpended balances in the revolving fund that the Librarian
 
 The revolving fund shall be subject to audit by the Comptroller General at the Comptroller General’s discretion.
 
-(Pub. L. 105–55, title II, § 207, Oct. 7, 1997, 111 Stat. 1193; Pub. L. 110–161, div. H, title I, § 1403, Dec. 26, 2007, 121 Stat. 2247.)
+(Pub. L. 105–55, title II, § 207, Oct. 7, 1997, 111 Stat. 1193; Pub. L. 110–161, div. H, title I, § 1403, Dec. 26, 2007, 121 Stat. 2247.)
 
 **Editorial Notes**
 
@@ -3027,7 +3027,7 @@ The revolving fund shall be subject to audit by the Comptroller General at the C
 
 2007—Subsec. (e). Pub. L. 110–161 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “Not later than March 31 of each year, the Librarian of Congress shall prepare and submit to Congress an audited financial statement for the revolving fund for the preceding fiscal year. The audit shall be conducted in accordance with Government Auditing Standards for financial audits issued by the Comptroller General of the United States.”
 
-## § 182a. Revolving fund for duplication services associated with audiovisual conservation center
+## § 182a. Revolving fund for duplication services associated with audiovisual conservation center
 
 **(a) Establishment**
 
@@ -3063,7 +3063,7 @@ The Librarian may charge a fee for providing services described in subsection (a
 
 Amounts in the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the services described in subsection (a).
 
-(Pub. L. 106–481, title I, § 101, Nov. 9, 2000, 114 Stat. 2187; Pub. L. 107–68, title II, § 207, Nov. 12, 2001, 115 Stat. 587.)
+(Pub. L. 106–481, title I, § 101, Nov. 9, 2000, 114 Stat. 2187; Pub. L. 107–68, title II, § 207, Nov. 12, 2001, 115 Stat. 587.)
 
 **Editorial Notes**
 
@@ -3079,13 +3079,13 @@ Sections 182a to 182d of this title, referred to in subsec. (a), was in the orig
 
 **Effective Date**
 
-Pub. L. 106–481, title I, § 105, Nov. 9, 2000, 114 Stat. 2190, provided that: “The provisions of this title [enacting this section and sections 182b to 182d of this title and provisions set out as a note under this section] shall apply with respect to fiscal year 2002 and each succeeding fiscal year.”
+Pub. L. 106–481, title I, § 105, Nov. 9, 2000, 114 Stat. 2190, provided that: “The provisions of this title [enacting this section and sections 182b to 182d of this title and provisions set out as a note under this section] shall apply with respect to fiscal year 2002 and each succeeding fiscal year.”
 
 **Short Title**
 
-Pub. L. 106–481, § 1, Nov. 9, 2000, 114 Stat. 2187, provided that: “This Act [enacting this section and sections 182b to 182d of this title, amending section 154 of this title, and enacting provisions set out as notes under this section and section 154 of this title] may be cited as the ‘Library of Congress Fiscal Operations Improvement Act of 2000’.”
+Pub. L. 106–481, § 1, Nov. 9, 2000, 114 Stat. 2187, provided that: “This Act [enacting this section and sections 182b to 182d of this title, amending section 154 of this title, and enacting provisions set out as notes under this section and section 154 of this title] may be cited as the ‘Library of Congress Fiscal Operations Improvement Act of 2000’.”
 
-## § 182b. Revolving fund for sales shop and other services
+## § 182b. Revolving fund for sales shop and other services
 
 **(a) Establishment** There is hereby established in the Treasury a revolving fund for the following programs and activities of the Librarian:
 
@@ -3139,21 +3139,21 @@ Except as provided in paragraph (2), amounts in the accounts of the revolving fu
 
 In the case of any amount in the revolving fund consisting of a payment received for services of the United States Capitol Police in connection with a special event or program described in subsection (a)(4), the Librarian shall transfer such amount upon receipt to the Capitol Police for deposit into the applicable appropriations accounts of the Capitol Police.
 
-(Pub. L. 106–481, title I, § 102, Nov. 9, 2000, 114 Stat. 2188; Pub. L. 107–68, title II, § 208(a), Nov. 12, 2001, 115 Stat. 587; Pub. L. 110–161, div. H, title I, § 1004(f)(1), Dec. 26, 2007, 121 Stat. 2235; Pub. L. 110–178, § 6(a), Jan. 7, 2008, 121 Stat. 2553; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54; Pub. L. 115–141, div. I, title I, § 151(1), Mar. 23, 2018, 132 Stat. 784.)
+(Pub. L. 106–481, title I, § 102, Nov. 9, 2000, 114 Stat. 2188; Pub. L. 107–68, title II, § 208(a), Nov. 12, 2001, 115 Stat. 587; Pub. L. 110–161, div. H, title I, § 1004(f)(1), Dec. 26, 2007, 121 Stat. 2235; Pub. L. 110–178, § 6(a), Jan. 7, 2008, 121 Stat. 2553; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54; Pub. L. 115–141, div. I, title I, § 151(1), Mar. 23, 2018, 132 Stat. 784.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–141, § 151(1)(A), substituted “Revolving fund for sales shop and other services” for “Revolving fund for gift shop, decimal classification, photo duplication, and related services” in section catchline.
+2018—Pub. L. 115–141, § 151(1)(A), substituted “Revolving fund for sales shop and other services” for “Revolving fund for gift shop, decimal classification, photo duplication, and related services” in section catchline.
 
-Subsec. (a)(5). Pub. L. 115–141, § 151(1)(B), added par. (5).
+Subsec. (a)(5). Pub. L. 115–141, § 151(1)(B), added par. (5).
 
-2010—Subsec. (e). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(f)(1). See 2007 Amendment note below.
+2010—Subsec. (e). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(f)(1). See 2007 Amendment note below.
 
 2008—Subsec. (e). Pub. L. 110–178 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Amounts in the accounts of the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the programs and activities covered by such accounts.”
 
-2007—Subsec. (e). Pub. L. 110–161, § 1004(f)(1), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+2007—Subsec. (e). Pub. L. 110–161, § 1004(f)(1), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
 2001—Subsec. (a)(4). Pub. L. 107–68 added par. (4).
 
@@ -3165,21 +3165,21 @@ Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–178, § 6(c), Jan. 7, 2008, 121 Stat. 2554, provided that: “The amendments made by this section [amending this section] shall apply with respect to services provided by the United States Capitol Police on or after the date of the enactment of this Act [Jan. 7, 2008].”
+Pub. L. 110–178, § 6(c), Jan. 7, 2008, 121 Stat. 2554, provided that: “The amendments made by this section [amending this section] shall apply with respect to services provided by the United States Capitol Police on or after the date of the enactment of this Act [Jan. 7, 2008].”
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–161, div. H, title I, § 1004(f)(3), Dec. 26, 2007, 121 Stat. 2236, which provided that the amendments made by section 1004(f) (amending this section) would apply with respect to services provided by the United States Capitol Police on or after Dec. 26, 2007, was repealed by Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.
+Pub. L. 110–161, div. H, title I, § 1004(f)(3), Dec. 26, 2007, 121 Stat. 2236, which provided that the amendments made by section 1004(f) (amending this section) would apply with respect to services provided by the United States Capitol Police on or after Dec. 26, 2007, was repealed by Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–68, title II, § 208(b), Nov. 12, 2001, 115 Stat. 587, provided that: “The amendment made by subsection (a) [amending this section] shall take effect upon the date on which the Committees on Appropriations of the House of Representatives and Senate approve a report submitted to the Committees by the Librarian of Congress which describes the guidelines and policies applicable to the hosting of special events and programs by the Librarian which are covered under section 102(a)(4) of the Library of Congress Fiscal Operations Improvement Act of 2000 [2 U.S.C. 182b(a)(4)] (as added by subsection (a)).”
+Pub. L. 107–68, title II, § 208(b), Nov. 12, 2001, 115 Stat. 587, provided that: “The amendment made by subsection (a) [amending this section] shall take effect upon the date on which the Committees on Appropriations of the House of Representatives and Senate approve a report submitted to the Committees by the Librarian of Congress which describes the guidelines and policies applicable to the hosting of special events and programs by the Librarian which are covered under section 102(a)(4) of the Library of Congress Fiscal Operations Improvement Act of 2000 [2 U.S.C. 182b(a)(4)] (as added by subsection (a)).”
 
 **Effective Date**
 
 Section applicable with respect to fiscal year 2002 and each succeeding fiscal year, see section 105 of Pub. L. 106–481, set out as a note under section 182a of this title.
 
-## § 182c. Revolving fund for FEDLINK program and Federal Research program
+## § 182c. Revolving fund for FEDLINK program and Federal Research program
 
 **(a) Establishment**
 
@@ -3197,9 +3197,9 @@ The Librarian may charge a fee for services under the FEDLINK program and the Fe
 
 **(2) Advances of funds** Participants in the FEDLINK program and the Federal Research program shall pay for products and services of the program by advance of funds—
 
-**(A)** if the Librarian determines that amounts in the Revolving Fund 1
+**(A)** if the Librarian determines that amounts in the Revolving Fund 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 are otherwise insufficient to cover the costs of providing such products and services; or
 
@@ -3245,7 +3245,7 @@ Amounts in the accounts of the revolving fund under this section shall be availa
 
 In this section, the “Federal Research program” is the program of the Library of Congress under which the Librarian provides research reports, translations, and analytical studies for entities of the Federal Government and the District of Columbia (other than any program of the Congressional Research Service).
 
-(Pub. L. 106–481, title I, § 103, Nov. 9, 2000, 114 Stat. 2189; Pub. L. 115–141, div. I, title I, § 151(2), Mar. 23, 2018, 132 Stat. 784.)
+(Pub. L. 106–481, title I, § 103, Nov. 9, 2000, 114 Stat. 2189; Pub. L. 115–141, div. I, title I, § 151(2), Mar. 23, 2018, 132 Stat. 784.)
 
 **Editorial Notes**
 
@@ -3263,11 +3263,11 @@ Sections 182a to 182d of this title, referred to in subsec. (a), was in the orig
 
 Section applicable with respect to fiscal year 2002 and each succeeding fiscal year, see section 105 of Pub. L. 106–481, set out as a note under section 182a of this title.
 
-## § 182d. Audits by Comptroller General
+## § 182d. Audits by Comptroller General
 
 Each of the revolving funds established under sections 182a to 182d of this title shall be subject to audit by the Comptroller General at the Comptroller General’s discretion.
 
-(Pub. L. 106–481, title I, § 104, Nov. 9, 2000, 114 Stat. 2190.)
+(Pub. L. 106–481, title I, § 104, Nov. 9, 2000, 114 Stat. 2190.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3275,7 +3275,7 @@ Each of the revolving funds established under sections 182a to 182d of this titl
 
 Section applicable with respect to fiscal year 2002 and each succeeding fiscal year, see section 105 of Pub. L. 106–481, set out as a note under section 182a of this title.
 
-## § 182e. Library of Congress National Collection Stewardship Fund
+## § 182e. Library of Congress National Collection Stewardship Fund
 
 **(a) Establishment**
 
@@ -3283,9 +3283,9 @@ There is hereby established in the Treasury of the United States, as an account 
 
 **(b) Contents of Fund** The Fund shall consist of the following amounts:
 
-**(1)**  1
+**(1)** 1
 
-<sup>1</sup>  So in original. No par. (2) has been enacted.
+<sup>1</sup> So in original. No par. (2) has been enacted.
 
 Such amounts as may be transferred by the Librarian from available amounts appropriated for any fiscal year for the Library of Congress under the heading “Salaries and Expenses”.
 
@@ -3315,9 +3315,9 @@ Prior to any transfer into the Fund, the Librarian shall notify the Joint Commit
 
 This section shall apply with respect to fiscal year 2017 and each succeeding fiscal year.
 
-(Pub. L. 115–31, div. I, title I, § 1302, May 5, 2017, 131 Stat. 584.)
+(Pub. L. 115–31, div. I, title I, § 1302, May 5, 2017, 131 Stat. 584.)
 
-## § 183. Written history of the House of Representatives
+## § 183. Written history of the House of Representatives
 
 **(a) In general**
 
@@ -3361,7 +3361,7 @@ The Librarian of Congress shall make the history available for sale to the publi
 
 The Librarian of Congress shall solicit and accept funding for the preparation, publication, marketing, and public distribution of the history from private individuals, organizations, or entities.
 
-(Pub. L. 106–99, § 2, Nov. 12, 1999, 113 Stat. 1330; Pub. L. 108–7, div. H, title I, § 1305, Feb. 20, 2003, 117 Stat. 379; Pub. L. 113–235, div. H, title I, § 1301(b), (d), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 106–99, § 2, Nov. 12, 1999, 113 Stat. 1330; Pub. L. 108–7, div. H, title I, § 1305, Feb. 20, 2003, 117 Stat. 379; Pub. L. 113–235, div. H, title I, § 1301(b), (d), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
@@ -3383,9 +3383,9 @@ This section and section 183a of this title, referred to in subsec. (a), was in 
 
 **Short Title**
 
-Pub. L. 106–99, § 1, Nov. 12, 1999, 113 Stat. 1330, provided that: “This Act [enacting this section and section 183a of this title] may be cited as the ‘History of the House Awareness and Preservation Act’.”
+Pub. L. 106–99, § 1, Nov. 12, 1999, 113 Stat. 1330, provided that: “This Act [enacting this section and section 183a of this title] may be cited as the ‘History of the House Awareness and Preservation Act’.”
 
-## § 183a. Oral history of the House of Representatives
+## § 183a. Oral history of the House of Representatives
 
 **(a) In general**
 
@@ -3403,9 +3403,9 @@ The Librarian of Congress shall accept for deposit, preserve, maintain, and make
 
 **(5)** Such other form or means as may be suitable for the recording and preservation of such information.
 
-(Pub. L. 106–99, § 3, Nov. 12, 1999, 113 Stat. 1331.)
+(Pub. L. 106–99, § 3, Nov. 12, 1999, 113 Stat. 1331.)
 
-## § 184. Incorporation of digital collections into educational curricula
+## § 184. Incorporation of digital collections into educational curricula
 
 **(a) Short title**
 
@@ -3425,7 +3425,7 @@ The Librarian of Congress shall administer a program to teach educators and libr
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section for fiscal year 2006 and each fiscal year thereafter.
 
-(Pub. L. 109–55, title I, § 1306, Aug. 2, 2005, 119 Stat. 583.)
+(Pub. L. 109–55, title I, § 1306, Aug. 2, 2005, 119 Stat. 583.)
 
 **Editorial Notes**
 
@@ -3433,7 +3433,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 Section is from the Legislative Branch Appropriations Act, 2006.
 
-## § 185. Inspector General of the Library of Congress
+## § 185. Inspector General of the Library of Congress
 
 **(a) Short title**
 
@@ -3503,7 +3503,7 @@ The Inspector General shall, in accordance with applicable laws and regulations 
 
 **(1) In general** Sections 404, 405 (other than subsection (b)(13)), 406(a) (other than paragraphs (7) and (8) thereof),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and 407 of title 5 shall apply to the Inspector General of the Library of Congress and the Office of such Inspector General and such sections shall be applied to the Library of Congress and the Librarian of Congress by substituting—
 
@@ -3615,15 +3615,15 @@ References in any other Federal law, Executive order, rule, regulation, or deleg
 
 This section shall be effective on August 2, 2005.
 
-(Pub. L. 109–55, title I, § 1307, Aug. 2, 2005, 119 Stat. 583; Pub. L. 110–161, div. H, title I, § 1004(d)(3), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, § 4(c), Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54; Pub. L. 116–94, div. P, title XVI, §§ 1602(a), 1603(a), 1604(a)(1), 1605(a), Dec. 20, 2019, 133 Stat. 3209, 3212, 3218, 3219; Pub. L. 117–286, § 4(b)(1), Dec. 27, 2022, 136 Stat. 4342.)
+(Pub. L. 109–55, title I, § 1307, Aug. 2, 2005, 119 Stat. 583; Pub. L. 110–161, div. H, title I, § 1004(d)(3), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, § 4(c), Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54; Pub. L. 116–94, div. P, title XVI, §§ 1602(a), 1603(a), 1604(a)(1), 1605(a), Dec. 20, 2019, 133 Stat. 3209, 3212, 3218, 3219; Pub. L. 117–286, § 4(b)(1), Dec. 27, 2022, 136 Stat. 4342.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 406(a) (other than paragraphs (7) and (8) thereof) of title 5, referred to in subsec. (d)(1), probably should be a reference to section “406 (other than subsection (a)(7))” of title 5. Pub. L. 116–94, § 1602(a)(2), had amended subsec. (d)(1) by substituting a reference to section “6 (other than subsection (a)(7))” of the Inspector General Act of 1978 for a reference to section “6(a) (other than paragraphs (7) and (8) thereof)” of that Act. The reference was subsequently amended by Pub. L. 117–286 to reflect the repeal of section 6 of the Act and its restatement as section 406 of title 5, but that amendment was based on the text as it existed prior to the amendment by Pub. L. 116–94. See 2019 and 2022 Amendment notes below.
+Section 406(a) (other than paragraphs (7) and (8) thereof) of title 5, referred to in subsec. (d)(1), probably should be a reference to section “406 (other than subsection (a)(7))” of title 5. Pub. L. 116–94, § 1602(a)(2), had amended subsec. (d)(1) by substituting a reference to section “6 (other than subsection (a)(7))” of the Inspector General Act of 1978 for a reference to section “6(a) (other than paragraphs (7) and (8) thereof)” of that Act. The reference was subsequently amended by Pub. L. 117–286 to reflect the repeal of section 6 of the Act and its restatement as section 406 of title 5, but that amendment was based on the text as it existed prior to the amendment by Pub. L. 116–94. See 2019 and 2022 Amendment notes below.
 
-Sections 5 and 6(a)(8) of the Inspector General Act of 1978, referred to in subsec. (d)(2)(C), (3)(C)(i), are sections 5 and 6(a)(8) of Pub. L. 95–452, which were set out in the Appendix to Title 5, Government Organization and Employees, and were repealed and restated as sections 405 and 406(a)(8), respectively, of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4212, 4219, 4361.
+Sections 5 and 6(a)(8) of the Inspector General Act of 1978, referred to in subsec. (d)(2)(C), (3)(C)(i), are sections 5 and 6(a)(8) of Pub. L. 95–452, which were set out in the Appendix to Title 5, Government Organization and Employees, and were repealed and restated as sections 405 and 406(a)(8), respectively, of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4212, 4219, 4361.
 
 **Codification**
 
@@ -3631,27 +3631,27 @@ Section is from the Legislative Branch Appropriations Act, 2006.
 
 **Amendments**
 
-2022—Subsec. (d)(1). Pub. L. 117–286, which directed the substitution of “Sections 404, 405 (other than subsection (b)(13)), 406(a) (other than paragraphs (7) and (8) thereof), and 407 of title 5” for “Sections 4, 5 (other than subsections (a)(13)), 6(a) (other than paragraphs (7) and (8) thereof), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.)”, was executed by making the substitution for “Sections 4, 5 (other than subsection (a)(13)), 6 (other than subsection (a)(7)), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.)” to reflect the probable intent of Congress and the prior amendment by Pub. L. 116–94, § 1602(a)(2). See 2019 Amendment note below.
+2022—Subsec. (d)(1). Pub. L. 117–286, which directed the substitution of “Sections 404, 405 (other than subsection (b)(13)), 406(a) (other than paragraphs (7) and (8) thereof), and 407 of title 5” for “Sections 4, 5 (other than subsections (a)(13)), 6(a) (other than paragraphs (7) and (8) thereof), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.)”, was executed by making the substitution for “Sections 4, 5 (other than subsection (a)(13)), 6 (other than subsection (a)(7)), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.)” to reflect the probable intent of Congress and the prior amendment by Pub. L. 116–94, § 1602(a)(2). See 2019 Amendment note below.
 
-2019—Subsec. (c). Pub. L. 116–94, § 1602(a)(1)(A), inserted “; pay; limits on bonuses; counsel” after “removal” in heading.
+2019—Subsec. (c). Pub. L. 116–94, § 1602(a)(1)(A), inserted “; pay; limits on bonuses; counsel” after “removal” in heading.
 
-Subsec. (c)(2). Pub. L. 116–94, § 1602(a)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Inspector General may be removed from office by the Librarian of Congress. The Librarian of Congress shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of the Congress.”
+Subsec. (c)(2). Pub. L. 116–94, § 1602(a)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Inspector General may be removed from office by the Librarian of Congress. The Librarian of Congress shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of the Congress.”
 
-Subsec. (c)(3) to (5). Pub. L. 116–94, § 1602(a)(1)(C), added pars. (3) to (5).
+Subsec. (c)(3) to (5). Pub. L. 116–94, § 1602(a)(1)(C), added pars. (3) to (5).
 
-Subsec. (d)(1). Pub. L. 116–94, § 1602(a)(2), substituted “Sections 4, 5 (other than subsection (a)(13)), 6 (other than subsection (a)(7)), and 7” for “Sections 4, 5 (other than subsections (a)(13)), 6(a) (other than paragraphs (7) and (8) thereof), and 7”.
+Subsec. (d)(1). Pub. L. 116–94, § 1602(a)(2), substituted “Sections 4, 5 (other than subsection (a)(13)), 6 (other than subsection (a)(7)), and 7” for “Sections 4, 5 (other than subsections (a)(13)), 6(a) (other than paragraphs (7) and (8) thereof), and 7”.
 
-Subsec. (d)(2). Pub. L. 116–94, § 1605(a), designated existing provisions as subpar. (A), inserted subpar. heading and “, without the supervision or approval of any other employee, office, or other entity within the Library of Congress,” after “is authorized”, and added subpars. (B) and (C).
+Subsec. (d)(2). Pub. L. 116–94, § 1605(a), designated existing provisions as subpar. (A), inserted subpar. heading and “, without the supervision or approval of any other employee, office, or other entity within the Library of Congress,” after “is authorized”, and added subpars. (B) and (C).
 
-Subsec. (d)(3). Pub. L. 116–94, § 1603(a), added par. (3).
+Subsec. (d)(3). Pub. L. 116–94, § 1603(a), added par. (3).
 
-Subsec. (d)(4). Pub. L. 116–94, § 1604(a)(1), added par. (4).
+Subsec. (d)(4). Pub. L. 116–94, § 1604(a)(1), added par. (4).
 
-2010—Subsec. (b)(1). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(3). See 2007 Amendment note below.
+2010—Subsec. (b)(1). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(3). See 2007 Amendment note below.
 
-2008—Subsec. (b)(1). Pub. L. 110–178 inserted “, except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police” before semicolon at end.
+2008—Subsec. (b)(1). Pub. L. 110–178 inserted “, except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police” before semicolon at end.
 
-2007—Subsec. (b)(1). Pub. L. 110–161, § 1004(d)(3), which made amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+2007—Subsec. (b)(1). Pub. L. 110–161, § 1004(d)(3), which made amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3663,7 +3663,7 @@ Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if
 
 Amendment by Pub. L. 110–178 effective Oct. 1, 2009, see section 4(d) of Pub. L. 110–178, set out as an Effective Date of Repeal note under former section 167 of this title.
 
-## § 186. Library of Congress orders under task and delivery order contracts
+## § 186. Library of Congress orders under task and delivery order contracts
 
 **(a) Contract modifications**
 
@@ -3687,7 +3687,7 @@ Notwithstanding section 3556 of title 31, the Comptroller General shall have exc
 
 This section and the amendment made by this section shall apply with respect to fiscal year 2022 and each succeeding fiscal year.
 
-(Pub. L. 117–103, div. I, title I, § 142, Mar. 15, 2022, 136 Stat. 519.)
+(Pub. L. 117–103, div. I, title I, § 142, Mar. 15, 2022, 136 Stat. 519.)
 
 **Editorial Notes**
 

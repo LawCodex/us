@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 22—URUGUAY ROUND TRADE AGREEMENTS
 
-## § 3501. Definitions
+## § 3501. Definitions
 
 For purposes of this Act:
 
@@ -65,7 +65,7 @@ The term “WTO Agreement” means the Agreement Establishing the World Trade Or
 
 The terms “WTO member” and “WTO member country” mean a state, or separate customs territory (within the meaning of Article XII of the WTO Agreement), with respect to which the United States applies the WTO Agreement.
 
-(Pub. L. 103–465, § 2, Dec. 8, 1994, 108 Stat. 4813.)
+(Pub. L. 103–465, § 2, Dec. 8, 1994, 108 Stat. 4813.)
 
 **Editorial Notes**
 
@@ -79,7 +79,7 @@ The Harmonized Tariff Schedule of the United States, referred to in par. (2), is
 
 **Short Title**
 
-Pub. L. 103–465, § 1(a), Dec. 8, 1994, 108 Stat. 4809, provided that: “This Act [see Tables for classification] may be cited as the ‘Uruguay Round Agreements Act’.”
+Pub. L. 103–465, § 1(a), Dec. 8, 1994, 108 Stat. 4809, provided that: “This Act [see Tables for classification] may be cited as the ‘Uruguay Round Agreements Act’.”
 
 **Executive Documents**
 
@@ -91,7 +91,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 ### Part A—Approval of Agreements and Related Provisions
 
-#### § 3511. Approval and entry into force of Uruguay Round Agreements
+#### § 3511. Approval and entry into force of Uruguay Round Agreements
 
 **(a) Approval of agreements and statement of administrative action** Pursuant to section 2903 of this title and section 2191 of this title, the Congress approves—
 
@@ -145,7 +145,7 @@ There are authorized to be appropriated annually such sums as may be necessary f
 
 **(18)** The International Bovine Meat Agreement.
 
-(Pub. L. 103–465, title I, § 101, Dec. 8, 1994, 108 Stat. 4814.)
+(Pub. L. 103–465, title I, § 101, Dec. 8, 1994, 108 Stat. 4814.)
 
 **Editorial Notes**
 
@@ -333,7 +333,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 William J. Clinton.
 
-#### § 3512. Relationship of agreements to United States law and State law
+#### § 3512. Relationship of agreements to United States law and State law
 
 **(a) Relationship of agreements to United States law**
 
@@ -447,7 +447,7 @@ Following the submission of the report, and before the action is brought, the Tr
 
 The statement of administrative action approved by the Congress under section 3511(a) of this title shall be regarded as an authoritative expression by the United States concerning the interpretation and application of the Uruguay Round Agreements and this Act in any judicial proceeding in which a question arises concerning such interpretation or application.
 
-(Pub. L. 103–465, title I, § 102, Dec. 8, 1994, 108 Stat. 4815; Pub. L. 117–286, § 4(a)(142), Dec. 27, 2022, 136 Stat. 4321.)
+(Pub. L. 103–465, title I, § 102, Dec. 8, 1994, 108 Stat. 4815; Pub. L. 117–286, § 4(a)(142), Dec. 27, 2022, 136 Stat. 4321.)
 
 **Editorial Notes**
 
@@ -459,7 +459,7 @@ This Act, referred to in subsecs. (a)(2) and (d), is Pub. L. 103–465, Dec. 8, 
 
 2022—Subsec. (b)(1)(B). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in concluding provisions.
 
-#### § 3513. Implementing actions in anticipation of entry into force; regulations
+#### § 3513. Implementing actions in anticipation of entry into force; regulations
 
 **(a) Implementing actions** After December 8, 1994—
 
@@ -473,7 +473,7 @@ as may be necessary to ensure that any provision of this Act, or amendment made 
 
 Any interim regulation necessary or appropriate to carry out any action proposed in the statement of administrative action approved under section 3511(a) of this title to implement an agreement described in section 3511(d)(7), (12), or (13) of this title shall be issued not later than 1 year after the date on which the agreement enters into force with respect to the United States.
 
-(Pub. L. 103–465, title I, § 103, Dec. 8, 1994, 108 Stat. 4819.)
+(Pub. L. 103–465, title I, § 103, Dec. 8, 1994, 108 Stat. 4819.)
 
 **Editorial Notes**
 
@@ -489,7 +489,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 ### Part B—Tariff Modifications
 
-#### § 3521. Tariff modifications
+#### § 3521. Tariff modifications
 
 **(a) In general** In addition to the authority provided by section 2902 of this title, the President shall have the authority to proclaim—
 
@@ -545,7 +545,7 @@ At such time as the President proclaims any modification to the HTS to implement
 
 <table>
 <tr><th>Column A</th><th>Column B</th></tr>
-<tr><th>Schedule XX   subheading:</th><th>Rate of duty for column 2 of the   HTS:</th></tr>
+<tr><th>Schedule XX subheading:</th><th>Rate of duty for column 2 of the HTS:</th></tr>
 <tr><td>0201.10.50</td><td>31.1%</td></tr>
 <tr><td>0201.20.80</td><td>31.1%</td></tr>
 <tr><td>0201.30.80</td><td>31.1%</td></tr>
@@ -802,15 +802,15 @@ At such time as the President proclaims any modification to the HTS to implement
 
 **(B)** after December 8, 1994, as a result of a staged reduction in such column 1 rates of duty.
 
-(Pub. L. 103–465, title I, § 111, Dec. 8, 1994, 108 Stat. 4819.)
+(Pub. L. 103–465, title I, § 111, Dec. 8, 1994, 108 Stat. 4819.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 103–465, title I, § 116, Dec. 8, 1994, 108 Stat. 4828, provided that:
+Pub. L. 103–465, title I, § 116, Dec. 8, 1994, 108 Stat. 4828, provided that:
 
-> **“(a) In General.—** Except as provided in section 114(a) [108 Stat. 4827] and subsection (b) of this section, this subtitle [subtitle B (§§ 111–116) of title I of Pub. L. 103–465, enacting this part and amending section 1466 of this title and provisions set out as a note under section 1466 of this title] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].
+> **“(a) In General.—** Except as provided in section 114(a) [108 Stat. 4827] and subsection (b) of this section, this subtitle [subtitle B (§§ 111–116) of title I of Pub. L. 103–465, enacting this part and amending section 1466 of this title and provisions set out as a note under section 1466 of this title] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].
 
 > **“(b) Section 115.—** Section 115 [enacting section 3524 of this title] takes effect on the date of the enactment of this Act [Dec. 8, 1994].”
 
@@ -820,7 +820,7 @@ Pub. L. 103–465, title I, § 116, Dec. 8, 1994, 108 Stat. 4828, provided tha
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
-#### § 3522. Liquidation or reliquidation and refund of duty paid on certain entries
+#### § 3522. Liquidation or reliquidation and refund of duty paid on certain entries
 
 **(a) Liquidation or reliquidation**
 
@@ -848,7 +848,7 @@ shall be liquidated or reliquidated as if the wording of that subheading were �
 
 **(B)** The Secretary of the Treasury shall refund any duties paid with respect to entries described in subparagraph (A).
 
-(Pub. L. 103–465, title I, § 113, Dec. 8, 1994, 108 Stat. 4826.)
+(Pub. L. 103–465, title I, § 113, Dec. 8, 1994, 108 Stat. 4826.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -866,7 +866,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
-#### § 3523. Duty free treatment for octadecyl isocyanate and 5-Chloro-2-(2,4-dichloro-phenoxy)phenol
+#### § 3523. Duty free treatment for octadecyl isocyanate and 5-Chloro-2-(2,4-dichloro-phenoxy)phenol
 
 The President—
 
@@ -874,7 +874,7 @@ The President—
 
 **(2)** shall take such actions as are necessary to reflect such tariff treatment in Schedule XX.
 
-(Pub. L. 103–465, title I, § 114(b), Dec. 8, 1994, 108 Stat. 4827.)
+(Pub. L. 103–465, title I, § 114(b), Dec. 8, 1994, 108 Stat. 4827.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -882,7 +882,7 @@ The President—
 
 Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 116(a) of Pub. L. 103–465, set out as a note under section 3521 of this title.
 
-#### § 3524. Consultation and layover requirements for, and effective date of, proclaimed actions
+#### § 3524. Consultation and layover requirements for, and effective date of, proclaimed actions
 
 If a provision of this Act provides that the implementation of an action by the President by proclamation is subject to the consultation and layover requirements of this section, such action may be proclaimed only if—
 
@@ -902,7 +902,7 @@ If a provision of this Act provides that the implementation of an action by the 
 
 **(4)** the President has consulted with such committees regarding the proposed action during the period referred to in paragraph (3).
 
-(Pub. L. 103–465, title I, § 115, Dec. 8, 1994, 108 Stat. 4828.)
+(Pub. L. 103–465, title I, § 115, Dec. 8, 1994, 108 Stat. 4828.)
 
 **Editorial Notes**
 
@@ -920,7 +920,7 @@ Authority of President to perform certain functions in order to fulfill consulta
 
 ### Part C—Uruguay Round Implementation and Dispute Settlement
 
-#### § 3531. Definitions
+#### § 3531. Definitions
 
 For purposes of this part:
 
@@ -966,21 +966,21 @@ The term “Ministerial Conference” means the Ministerial Conference establish
 
 The terms “Antidumping Agreement”, “Agreement on Subsidies and Countervailing Measures”, and “Safeguards Agreement” mean the agreements referred to in section 3511(d)(7), (12), and (13) of this title, respectively.
 
-(Pub. L. 103–465, title I, § 121, Dec. 8, 1994, 108 Stat. 4828.)
+(Pub. L. 103–465, title I, § 121, Dec. 8, 1994, 108 Stat. 4828.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This part, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§ 121 to 130) of title I of Pub. L. 103–465, which enacted this part, amended sections 1516a, 2155, and 2254 of this title, and enacted provisions set out below. For complete classification of subtitle C to the Code, see Tables.
+This part, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§ 121 to 130) of title I of Pub. L. 103–465, which enacted this part, amended sections 1516a, 2155, and 2254 of this title, and enacted provisions set out below. For complete classification of subtitle C to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 103–465, title I, § 130, Dec. 8, 1994, 108 Stat. 4839, provided that: “This subtitle [subtitle C (§§ 121–130) of title I of Pub. L. 103–465, enacting this part and amending sections 1516a, 2155, and 2254 of this title] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995).”
+Pub. L. 103–465, title I, § 130, Dec. 8, 1994, 108 Stat. 4839, provided that: “This subtitle [subtitle C (§§ 121–130) of title I of Pub. L. 103–465, enacting this part and amending sections 1516a, 2155, and 2254 of this title] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995).”
 
-#### § 3532. Implementation of Uruguay Round Agreements
+#### § 3532. Implementation of Uruguay Round Agreements
 
 **(a) Decisionmaking**
 
@@ -1030,7 +1030,7 @@ In the case of a decision on accession described in subsection (b)(5), the repor
 
 Promptly after the submission of a report under subsection (c), the Trade Representative shall consult with the appropriate congressional committees with respect to the report.
 
-(Pub. L. 103–465, title I, § 122, Dec. 8, 1994, 108 Stat. 4829.)
+(Pub. L. 103–465, title I, § 122, Dec. 8, 1994, 108 Stat. 4829.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1038,7 +1038,7 @@ Promptly after the submission of a report under subsection (c), the Trade Repres
 
 Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
 
-#### § 3533. Dispute settlement panels and procedures
+#### § 3533. Dispute settlement panels and procedures
 
 **(a) Review by President**
 
@@ -1108,7 +1108,7 @@ This subsection does not apply to any regulation or practice of the Internationa
 
 Before the review is conducted of the dispute settlement rules and procedures of the WTO that is provided for in the Decision on the Application of the Understanding on Rules and Procedures Governing the Settlement of Disputes, as such decision is set forth in the Ministerial Declarations and Decisions adopted on April 15, 1994, together with the Uruguay Round Agreements, the Trade Representative shall consult with the congressional committees regarding the policy of the United States concerning the review.
 
-(Pub. L. 103–465, title I, § 123, Dec. 8, 1994, 108 Stat. 4830.)
+(Pub. L. 103–465, title I, § 123, Dec. 8, 1994, 108 Stat. 4830.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1116,7 +1116,7 @@ Before the review is conducted of the dispute settlement rules and procedures of
 
 Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
 
-#### § 3534. Annual report on WTO
+#### § 3534. Annual report on WTO
 
 Not later than March 1 of each year beginning in 1996, the Trade Representative shall submit to the Congress a report describing, for the preceding fiscal year of the WTO—
 
@@ -1136,7 +1136,7 @@ Not later than March 1 of each year beginning in 1996, the Trade Representative 
 
 **(8)** any progress achieved in increasing the transparency of proceedings of the Ministerial Conference and the General Council, and of dispute settlement proceedings conducted pursuant to the Dispute Settlement Understanding.
 
-(Pub. L. 103–465, title I, § 124, Dec. 8, 1994, 108 Stat. 4832.)
+(Pub. L. 103–465, title I, § 124, Dec. 8, 1994, 108 Stat. 4832.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1144,7 +1144,7 @@ Not later than March 1 of each year beginning in 1996, the Trade Representative 
 
 Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
 
-#### § 3535. Review of participation in WTO
+#### § 3535. Review of participation in WTO
 
 **(a) Report on operation of WTO** The first annual report submitted to the Congress under section 3534 of this title—
 
@@ -1202,7 +1202,7 @@ It shall not be in order in either the House of Representatives or the Senate to
 
 **(2)** with the full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner, and to the same extent as any other rule of that House.
 
-(Pub. L. 103–465, title I, § 125, Dec. 8, 1994, 108 Stat. 4833.)
+(Pub. L. 103–465, title I, § 125, Dec. 8, 1994, 108 Stat. 4833.)
 
 **Editorial Notes**
 
@@ -1222,11 +1222,11 @@ Section effective on the date on which the WTO Agreement enters into force with 
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
-#### § 3536. Increased transparency
+#### § 3536. Increased transparency
 
 The Trade Representative shall seek the adoption by the Ministerial Conference and General Council of procedures that will ensure broader application of the principle of transparency and clarification of the costs and benefits of trade policy actions, through the observance of open and equitable procedures in trade matters by the Ministerial Conference and the General Council, and by the dispute settlement panels and the Appellate Body under the Dispute Settlement Understanding.
 
-(Pub. L. 103–465, title I, § 126, Dec. 8, 1994, 108 Stat. 4834.)
+(Pub. L. 103–465, title I, § 126, Dec. 8, 1994, 108 Stat. 4834.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1234,7 +1234,7 @@ The Trade Representative shall seek the adoption by the Ministerial Conference a
 
 Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
 
-#### § 3537. Access to WTO dispute settlement process
+#### § 3537. Access to WTO dispute settlement process
 
 **(a) In general**
 
@@ -1270,7 +1270,7 @@ In any dispute settlement proceeding conducted pursuant to the Dispute Settlemen
 
 The Trade Representative shall maintain a file accessible to the public on each dispute settlement proceeding to which the United States is a party that is conducted pursuant to the Dispute Settlement Understanding. The file shall include all United States submissions in the proceeding and a listing of any submissions to the Trade Representative from the public with respect to the proceeding, as well as the report of the dispute settlement panel and the report of the Appellate Body.
 
-(Pub. L. 103–465, title I, § 127, Dec. 8, 1994, 108 Stat. 4835.)
+(Pub. L. 103–465, title I, § 127, Dec. 8, 1994, 108 Stat. 4835.)
 
 **Editorial Notes**
 
@@ -1284,7 +1284,7 @@ Section is comprised of section 127 of Pub. L. 103–465. Subsec. (f) of section
 
 Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
 
-#### § 3538. Administrative action following WTO panel reports
+#### § 3538. Administrative action following WTO panel reports
 
 **(a) Action by United States International Trade Commission**
 
@@ -1350,15 +1350,15 @@ The Trade Representative may, after consulting with the administering authority 
 
 Prior to issuing a determination under this section, the administering authority or the Commission, as the case may be, shall provide interested parties with an opportunity to submit written comments and, in appropriate cases, may hold a hearing, with respect to the determination.
 
-(Pub. L. 103–465, title I, § 129, Dec. 8, 1994, 108 Stat. 4836.)
+(Pub. L. 103–465, title I, § 129, Dec. 8, 1994, 108 Stat. 4836.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Tariff Act of 1930, referred to in subsecs. (a)(1), (4), (6), (b)(1), (2), and (c)(1), (2)(A), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of this title. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+The Tariff Act of 1930, referred to in subsecs. (a)(1), (4), (6), (b)(1), (2), and (c)(1), (2)(A), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of this title. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
-The Trade Act of 1974, referred to in subsecs. (a)(1), (4) and (c)(2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title II of the Act is classified generally to subchapter II (§ 2251 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsecs. (a)(1), (4) and (c)(2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title II of the Act is classified generally to subchapter II (§ 2251 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 **Codification**
 
@@ -1370,7 +1370,7 @@ Section is comprised of section 129 of Pub. L. 103–465. Subsecs. (a)(7) and (e
 
 Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
 
-#### § 3539. Fund for WTO dispute settlements
+#### § 3539. Fund for WTO dispute settlements
 
 **(a) Establishment of fund**
 
@@ -1394,7 +1394,7 @@ Amounts appropriated to the fund are authorized to remain available until expend
 
 Sections 9601 and 9602(b) of title 26 shall apply to the fund established under subsection (a) to the same extent as such provisions apply to trust funds established under subchapter A of chapter 98 of such title.
 
-(Pub. L. 107–210, div. E, title L, § 5201, Aug. 6, 2002, 116 Stat. 1047.)
+(Pub. L. 107–210, div. E, title L, § 5201, Aug. 6, 2002, 116 Stat. 1047.)
 
 **Editorial Notes**
 
@@ -1404,7 +1404,7 @@ Section was enacted as part of the Trade Act of 2002, and not as part of the Uru
 
 ### Part D—Related Provisions
 
-#### § 3551. Working party on worker rights
+#### § 3551. Working party on worker rights
 
 **(a) In general**
 
@@ -1424,7 +1424,7 @@ The President shall seek the establishment in the GATT 1947, and, upon entry int
 
 The President shall report to the Congress, not later than 1 year after December 8, 1994, on the progress made in establishing the working party under this section, and on United States objectives with respect to the working party’s work program.
 
-(Pub. L. 103–465, title I, § 131, Dec. 8, 1994, 108 Stat. 4839; Pub. L. 104–188, title I, § 1954(a)(6), Aug. 20, 1996, 110 Stat. 1928.)
+(Pub. L. 103–465, title I, § 131, Dec. 8, 1994, 108 Stat. 4839; Pub. L. 104–188, title I, § 1954(a)(6), Aug. 20, 1996, 110 Stat. 1928.)
 
 **Editorial Notes**
 
@@ -1440,9 +1440,9 @@ Amendment by Pub. L. 104–188 applicable to articles entered on or after Oct. 1
 
 **Effective Date**
 
-Pub. L. 103–465, title I, § 138, Dec. 8, 1994, 108 Stat. 4842, provided that:
+Pub. L. 103–465, title I, § 138, Dec. 8, 1994, 108 Stat. 4842, provided that:
 
-> **“(a) In General.—** Except as provided in section 136(d) [enacting provisions set out as a note under section 5001 of Title 26, Internal Revenue Code] and subsection (b) of this section, this subtitle [subtitle D (§§ 131–138) of title I of Pub. L. 103–465, enacting this part, amending sections 5001, 5002, 5005, 5007, 5061, 5131, 5132, 5134, and 7652 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 5001 of Title 26] and the amendments made by this subtitle take effect on the date of the enactment of this Act [Dec. 8, 1994].
+> **“(a) In General.—** Except as provided in section 136(d) [enacting provisions set out as a note under section 5001 of Title 26, Internal Revenue Code] and subsection (b) of this section, this subtitle [subtitle D (§§ 131–138) of title I of Pub. L. 103–465, enacting this part, amending sections 5001, 5002, 5005, 5007, 5061, 5131, 5132, 5134, and 7652 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 5001 of Title 26] and the amendments made by this subtitle take effect on the date of the enactment of this Act [Dec. 8, 1994].
 
 > **“(b) Sections 132 and 135.—** Sections 132 and 135 [enacting sections 3552 and 3555 of this title] take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].”
 
@@ -1452,11 +1452,11 @@ Pub. L. 103–465, title I, § 138, Dec. 8, 1994, 108 Stat. 4842, provided tha
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
-#### § 3552. Implementation of Rules of Origin work program
+#### § 3552. Implementation of Rules of Origin work program
 
 If the President enters into an agreement developed under the work program described in Article 9 of the Agreement on Rules of Origin referred to in section 3511(d)(10) of this title, the President may implement United States obligations under such an agreement under United States law only pursuant to authority granted to the President for that purpose by law enacted after the effective date of this section.
 
-(Pub. L. 103–465, title I, § 132, Dec. 8, 1994, 108 Stat. 4839; Pub. L. 104–295, § 20(a)(2), Oct. 11, 1996, 110 Stat. 3527.)
+(Pub. L. 103–465, title I, § 132, Dec. 8, 1994, 108 Stat. 4839; Pub. L. 104–295, § 20(a)(2), Oct. 11, 1996, 110 Stat. 3527.)
 
 **Editorial Notes**
 
@@ -1474,19 +1474,19 @@ For effective date of this section, referred to in text, see Effective Date note
 
 Section effective on date on which WTO Agreement enters into force with respect to United States (Jan. 1, 1995), see section 138(b) of Pub. L. 103–465, set out as a note under section 3551 of this title.
 
-#### § 3553. Membership in WTO of boycotting countries
+#### § 3553. Membership in WTO of boycotting countries
 
 It is the sense of the Congress that the Trade Representative should vigorously oppose the admission into the World Trade Organization of any country which, through its laws, regulations, official policies, or governmental practices, fosters, imposes, complies with, furthers, or supports any boycott described in section 4607(a) of title 50 (as in effect on August 20, 1994), including requiring or encouraging entities within that country to refuse to do business with persons who do not comply with requests to take any action prohibited under that section.
 
-(Pub. L. 103–465, title I, § 133, Dec. 8, 1994, 108 Stat. 4839.)
+(Pub. L. 103–465, title I, § 133, Dec. 8, 1994, 108 Stat. 4839.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4607(a) of title 50 (as in effect on August 20, 1994), referred to in text, means section 4607(a) of Title 50, War and National Defense, prior to its repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4607(a) of title 50 (as in effect on August 20, 1994), referred to in text, means section 4607(a) of Title 50, War and National Defense, prior to its repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
-#### § 3554. Africa trade and development policy
+#### § 3554. Africa trade and development policy
 
 **(a) Development of policy**
 
@@ -1496,9 +1496,9 @@ The President should develop and implement a comprehensive trade and development
 
 The President shall, not later than 12 months after December 8, 1994, and annually thereafter for a period of 4 years, submit to the Committee on Ways and Means and the Committee on Foreign Affairs of the House of Representatives, the Committee on Finance and the Committee on Foreign Relations of the Senate, and other appropriate committees of the Congress, a report on the steps taken to carry out subsection (a).
 
-(Pub. L. 103–465, title I, § 134, Dec. 8, 1994, 108 Stat. 4840.)
+(Pub. L. 103–465, title I, § 134, Dec. 8, 1994, 108 Stat. 4840.)
 
-#### § 3555. Objectives for extended negotiations
+#### § 3555. Objectives for extended negotiations
 
 **(a) Trade in financial services** The principal negotiating objective of the United States in the extended negotiations on financial services to be conducted under the auspices of the WTO is to seek to secure commitments, from a wide range of commercially important developed and developing countries, to reduce or eliminate barriers to the supply of financial services, including barriers that deny national treatment or market access by restricting the establishment or operation of financial services providers, as the condition for the United States—
 
@@ -1536,7 +1536,7 @@ The principal negotiating objective of the United States in the extended negotia
 
 **(E)** the term “US–EC bilateral agreement” means the Agreement Concerning the Application of the GATT Agreement on Trade in Civil Aircraft Between the European Economic Community and the Government of the United States of America on trade in large civil aircraft, entered into on July 17, 1992.
 
-(Pub. L. 103–465, title I, § 135, Dec. 8, 1994, 108 Stat. 4840; Pub. L. 105–206, title V, § 5003(b)(5), July 22, 1998, 112 Stat. 790.)
+(Pub. L. 103–465, title I, § 135, Dec. 8, 1994, 108 Stat. 4840; Pub. L. 105–206, title V, § 5003(b)(5), July 22, 1998, 112 Stat. 790.)
 
 **Editorial Notes**
 
@@ -1550,7 +1550,7 @@ The principal negotiating objective of the United States in the extended negotia
 
 Section effective on date on which WTO Agreement enters into force with respect to United States (Jan. 1, 1995), see section 138(b) of Pub. L. 103–465, set out as a note under section 3551 of this title.
 
-#### § 3556. Certain nonrubber footwear
+#### § 3556. Certain nonrubber footwear
 
 In the case of nonrubber footwear imported from Brazil—
 
@@ -1562,11 +1562,11 @@ In the case of nonrubber footwear imported from Brazil—
 
 countervailing duties shall be assessed at rates equal to the amount of the cash deposit of the estimated countervailing duties required on such footwear at the time of entry or withdrawal from warehouse for consumption. Interest on underpayments of amounts required to be deposited as countervailing duties shall be paid in accordance with section 1677g of this title.
 
-(Pub. L. 103–465, title I, § 137, Dec. 8, 1994, 108 Stat. 4842.)
+(Pub. L. 103–465, title I, § 137, Dec. 8, 1994, 108 Stat. 4842.)
 
 ## SUBCHAPTER II—ENFORCEMENT OF UNITED STATES RIGHTS UNDER SUBSIDIES AGREEMENT
 
-### § 3571. Subsidies enforcement
+### § 3571. Subsidies enforcement
 
 **(a) Assistance regarding multilateral subsidy remedies** The administering authority shall provide information to the public upon request, and, to the extent feasible, assistance and advice to interested parties concerning—
 
@@ -1732,19 +1732,19 @@ The term “violation of Article 8” means the failure of a notified subsidy pr
 
 Notwithstanding any other provision of law, the administering authority may provide the Trade Representative with a copy of proprietary information submitted to, or obtained by, the administering authority that the Trade Representative considers relevant in carrying out its responsibilities under this subchapter. The Trade Representative shall protect from public disclosure proprietary information obtained from the administering authority under this subchapter.
 
-(Pub. L. 103–465, title II, § 281, Dec. 8, 1994, 108 Stat. 4922; Pub. L. 104–295, § 20(b)(13), Oct. 11, 1996, 110 Stat. 3527.)
+(Pub. L. 103–465, title II, § 281, Dec. 8, 1994, 108 Stat. 4922; Pub. L. 104–295, § 20(b)(13), Oct. 11, 1996, 110 Stat. 3527.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Tariff Act of 1930, referred to in subsecs. (b)(1), (c)(1), and (e)(2)(B), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. Subtitles A and C of title VII of the Act are classified generally to parts I (§ 1671 et seq.) and III (§ 1675 et seq.), respectively, of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+The Tariff Act of 1930, referred to in subsecs. (b)(1), (c)(1), and (e)(2)(B), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. Subtitles A and C of title VII of the Act are classified generally to parts I (§ 1671 et seq.) and III (§ 1675 et seq.), respectively, of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
-The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title III of the Act is classified principally to subchapter III (§ 2411 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title III of the Act is classified principally to subchapter III (§ 2411 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 This Act, referred to in subsec. (e)(1)(C)(ii), is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay Round Agreements Act. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of this title and Tables.
 
-This subchapter, referred to in subsec. (i), was in the original “this part”, meaning part 4 (§§ 281 to 283) of subtitle B of title II of Pub. L. 103–465, which enacted this subchapter and amended sections 1671b, 1675, 1677d, and 2191 of this title. For complete classification of this part to the Code, see Tables.
+This subchapter, referred to in subsec. (i), was in the original “this part”, meaning part 4 (§§ 281 to 283) of subtitle B of title II of Pub. L. 103–465, which enacted this subchapter and amended sections 1671b, 1675, 1677d, and 2191 of this title. For complete classification of this part to the Code, see Tables.
 
 **Amendments**
 
@@ -1754,9 +1754,9 @@ This subchapter, referred to in subsec. (i), was in the original “this part”
 
 **Effective Date**
 
-Subchapter effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of subtitle IV (§ 1671 et seq.) of chapter 4 of this title after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1671 of this title.
+Subchapter effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of subtitle IV (§ 1671 et seq.) of chapter 4 of this title after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1671 of this title.
 
-### § 3572. Review of Subsidies Agreement
+### § 3572. Review of Subsidies Agreement
 
 **(a) General objectives** The general objectives of the United States under this subchapter are—
 
@@ -1778,7 +1778,7 @@ The specific objective of the United States under this subchapter shall be to cr
 
 **(C)** an implementing bill is submitted and enacted into law in accordance with paragraphs (3) and (4).1
 
-<sup>1</sup>  See Codification note below.
+<sup>1</sup> See Codification note below.
 
 **(2) Consultation with Congress before Subsidies Committee agrees to extend**
 
@@ -1834,7 +1834,7 @@ Not later than the date referred to in section 1677(5B)(G)(i) of this title, the
 
 Not later than 4 years and 6 months after December 8, 1994, the Secretary of Commerce shall submit to the Congress a report on the review required under this subsection.
 
-(Pub. L. 103–465, title II, § 282, Dec. 8, 1994, 108 Stat. 4927; Pub. L. 104–295, § 20(b)(16), Oct. 11, 1996, 110 Stat. 3527.)
+(Pub. L. 103–465, title II, § 282, Dec. 8, 1994, 108 Stat. 4927; Pub. L. 104–295, § 20(b)(16), Oct. 11, 1996, 110 Stat. 3527.)
 
 **Editorial Notes**
 
@@ -1856,7 +1856,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 ### Part A—Foreign Trade Barriers and Unfair Trade Practices
 
-#### § 3581. Objectives in intellectual property
+#### § 3581. Objectives in intellectual property
 
 It is the objective of the United States—
 
@@ -1874,37 +1874,37 @@ It is the objective of the United States—
 
 **(5)** to take an active role in the World Intellectual Property Organization (WIPO) to develop a cooperative and mutually supportive relationship between the World Trade Organization and WIPO.
 
-(Pub. L. 103–465, title III, § 315, Dec. 8, 1994, 108 Stat. 4942.)
+(Pub. L. 103–465, title III, § 315, Dec. 8, 1994, 108 Stat. 4942.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 103–465, title III, § 316, Dec. 8, 1994, 108 Stat. 4943, provided that:
+Pub. L. 103–465, title III, § 316, Dec. 8, 1994, 108 Stat. 4943, provided that:
 
-> **“(a) In General.—** Except as provided in subsection (b), this subtitle [subtitle B (§§ 311–316) of title III of Pub. L. 103–465, enacting this section and amending sections 2241, 2242, 2411, 2414, 2416, and 2420 of this title] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].
+> **“(a) In General.—** Except as provided in subsection (b), this subtitle [subtitle B (§§ 311–316) of title III of Pub. L. 103–465, enacting this section and amending sections 2241, 2242, 2411, 2414, 2416, and 2420 of this title] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].
 
 > **“(b) Section 314(f).—** The amendment made by section 314(f) [amending section 2420 of this title] takes effect on the date of the enactment of this Act [Dec. 8, 1994].”
 
 ### Part B—Textiles
 
-#### § 3591. Textile product integration
+#### § 3591. Textile product integration
 
 Not later than 120 days after the date that the WTO Agreement enters into force with respect to the United States, the Secretary of Commerce shall publish in the Federal Register a notice containing the list of products to be integrated in each stage set out in Article 2(8) of the Agreement on Textiles and Clothing referred to in section 3511(d)(4) of this title. After publication of such list, the list may not be changed unless otherwise required by statute or the international obligations of the United States, to correct technical errors, or to reflect reclassifications. Within 30 days after the publication of such list, the Trade Representative shall notify the list to the Textiles Monitoring Body established under Article 8 of the Agreement on Textiles and Clothing.
 
-(Pub. L. 103–465, title III, § 331, Dec. 8, 1994, 108 Stat. 4947; Pub. L. 104–295, § 20(c)(7), Oct. 11, 1996, 110 Stat. 3528.)
+(Pub. L. 103–465, title III, § 331, Dec. 8, 1994, 108 Stat. 4947; Pub. L. 104–295, § 20(c)(7), Oct. 11, 1996, 110 Stat. 3528.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Pub. L. 104–295 struck out “, as defined in section 3501(9) of this title,” after “WTO Agreement”.
+1996—Pub. L. 104–295 struck out “, as defined in section 3501(9) of this title,” after “WTO Agreement”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 103–465, title III, § 335, Dec. 8, 1994, 108 Stat. 4951, provided that: “Except as provided in section 334 [enacting section 3592 of this title], this subtitle [subtitle D (§§ 331–335) of title III of Pub. L. 103–465, enacting this part and section 1592a of this title, and amending section 1854 of Title 7, Agriculture] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].”
+Pub. L. 103–465, title III, § 335, Dec. 8, 1994, 108 Stat. 4951, provided that: “Except as provided in section 334 [enacting section 3592 of this title], this subtitle [subtitle D (§§ 331–335) of title III of Pub. L. 103–465, enacting this part and section 1592a of this title, and amending section 1854 of Title 7, Agriculture] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].”
 
 **Executive Documents**
 
@@ -1912,7 +1912,7 @@ Pub. L. 103–465, title III, § 335, Dec. 8, 1994, 108 Stat. 4951, provided t
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
-#### § 3592. Rules of origin for textile and apparel products
+#### § 3592. Rules of origin for textile and apparel products
 
 **(a) Regulatory authority**
 
@@ -1984,7 +1984,7 @@ This section shall not affect, for purposes of the customs laws and administrati
 
 The origin of goods to which this section does not apply shall be determined in accordance with the applicable rules in effect on July 20, 1994.
 
-(Pub. L. 103–465, title III, § 334, Dec. 8, 1994, 108 Stat. 4949; Pub. L. 104–295, § 20(c)(9), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 106–200, title IV, § 405(a), May 18, 2000, 114 Stat. 292.)
+(Pub. L. 103–465, title III, § 334, Dec. 8, 1994, 108 Stat. 4949; Pub. L. 104–295, § 20(c)(9), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 106–200, title IV, § 405(a), May 18, 2000, 114 Stat. 292.)
 
 **Editorial Notes**
 
@@ -1998,7 +1998,7 @@ The origin of goods to which this section does not apply shall be determined in 
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–200, title IV, § 405(b), May 18, 2000, 114 Stat. 293, provided that: “The amendments made by this section [amending this section] apply to goods entered, or withdrawn from warehouse for consumption, on or after the date of the enactment of this Act [May 18, 2000].”
+Pub. L. 106–200, title IV, § 405(b), May 18, 2000, 114 Stat. 293, provided that: “The amendments made by this section [amending this section] apply to goods entered, or withdrawn from warehouse for consumption, on or after the date of the enactment of this Act [May 18, 2000].”
 
 **Transfer of Functions**
 
@@ -2008,7 +2008,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 ### Part A—Market Access
 
-#### § 3601. Administration of tariff-rate quotas
+#### § 3601. Administration of tariff-rate quotas
 
 **(a) Orderly marketing**
 
@@ -2052,7 +2052,7 @@ The President may allocate the in-quota quantity of a tariff-rate quota for any 
 
 The President is authorized to proclaim additional United States note 3 to chapter 17 of the HTS, and to proclaim the modifications to the note, as determined appropriate by the President to reflect Schedule XX.
 
-(Pub. L. 103–465, title IV, § 404, Dec. 8, 1994, 108 Stat. 4959.)
+(Pub. L. 103–465, title IV, § 404, Dec. 8, 1994, 108 Stat. 4959.)
 
 **Editorial Notes**
 
@@ -2064,7 +2064,7 @@ Section is comprised of section 404 of Pub. L. 103–465. Subsec. (e) of section
 
 **Effective Date**
 
-Pub. L. 103–465, title IV, § 451, Dec. 8, 1994, 108 Stat. 4973, provided that: “Except as otherwise provided in this title, this title [enacting this subchapter, sections 2578 to 2578b of this title, and section 1585 of Title 7, Agriculture, amending sections 1306, 1313, 2463, 2544, 2703, and 3203 of this title, sections 149, 150bb, 150cc, 154, 156, 281, 624, 1314i, 1359a, 1444–2, 1445, 1581, 1582, 1586, 1852, 2803, 5623, and 5651 of Title 7, section 713a–14 of Title 15, Commerce and Trade, and sections 104, 105, 135, 466, and 620 of Title 21, Food and Drugs, repealing sections 1585 and 1853 of Title 7, enacting provisions set out as notes under section 2135 of this title and sections 624, 1314i, 1445, and 5601 of Title 7, amending provisions set out as a note under section 1313 of this title and section 1731 of Title 7, and repealing provisions set out as a note under section 2253 of this title], and the amendments made by this title, shall take effect on the date of entry into force of the WTO Agreement with respect to the United States [Jan. 1, 1995].”
+Pub. L. 103–465, title IV, § 451, Dec. 8, 1994, 108 Stat. 4973, provided that: “Except as otherwise provided in this title, this title [enacting this subchapter, sections 2578 to 2578b of this title, and section 1585 of Title 7, Agriculture, amending sections 1306, 1313, 2463, 2544, 2703, and 3203 of this title, sections 149, 150bb, 150cc, 154, 156, 281, 624, 1314i, 1359a, 1444–2, 1445, 1581, 1582, 1586, 1852, 2803, 5623, and 5651 of Title 7, section 713a–14 of Title 15, Commerce and Trade, and sections 104, 105, 135, 466, and 620 of Title 21, Food and Drugs, repealing sections 1585 and 1853 of Title 7, enacting provisions set out as notes under section 2135 of this title and sections 624, 1314i, 1445, and 5601 of Title 7, amending provisions set out as a note under section 1313 of this title and section 1731 of Title 7, and repealing provisions set out as a note under section 2253 of this title], and the amendments made by this title, shall take effect on the date of entry into force of the WTO Agreement with respect to the United States [Jan. 1, 1995].”
 
 **Executive Documents**
 
@@ -2094,7 +2094,7 @@ IN WITNESS WHEREOF, I have hereunto set my hand this seventh day of October, in 
 
 William J. Clinton.
 
-#### § 3602. Special agricultural safeguard authority
+#### § 3602. Special agricultural safeguard authority
 
 **(a) Determination of trigger levels** Consistent with Article 5 as determined by the President, the President shall cause to be published in the Federal Register—
 
@@ -2150,7 +2150,7 @@ This section shall cease to be effective on the date, as determined by the Presi
 
 **(3)** the term “special safeguard agricultural good” means an agricultural good on which an additional duty may be imposed pursuant to the special safeguard provisions of Article 5.
 
-(Pub. L. 103–465, title IV, § 405, Dec. 8, 1994, 108 Stat. 4961; Pub. L. 104–295, § 11, Oct. 11, 1996, 110 Stat. 3520; Pub. L. 116–113, title II, § 201(a), Jan. 29, 2020, 134 Stat. 19.)
+(Pub. L. 103–465, title IV, § 405, Dec. 8, 1994, 108 Stat. 4961; Pub. L. 104–295, § 11, Oct. 11, 1996, 110 Stat. 3520; Pub. L. 116–113, title II, § 201(a), Jan. 29, 2020, 134 Stat. 19.)
 
 **Editorial Notes**
 
@@ -2158,15 +2158,15 @@ This section shall cease to be effective on the date, as determined by the Presi
 
 2020—Subsec. (e). Pub. L. 116–113 amended subsec. (e) generally. Prior to amendment, text read as follows: “The President may exempt from any duty imposed under this section any good originating in a NAFTA country (as determined in accordance with section 3332 of this title).”
 
-1996—Subsec. (b)(1). Pub. L. 104–295, § 11(1), substituted “1(b)” for “1(a)”.
+1996—Subsec. (b)(1). Pub. L. 104–295, § 11(1), substituted “1(b)” for “1(a)”.
 
-Subsec. (b)(2). Pub. L. 104–295, § 11(2), substituted “1(a)” for “1(b)”.
+Subsec. (b)(2). Pub. L. 104–295, § 11(2), substituted “1(a)” for “1(b)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–113, title II, § 201(b), Jan. 29, 2020, 134 Stat. 19, provided that:
+Pub. L. 116–113, title II, § 201(b), Jan. 29, 2020, 134 Stat. 19, provided that:
 
 > **“(1) In general.—** The amendment made by subsection (a) [amending this section] shall—
 
@@ -2198,13 +2198,13 @@ Authority of President under subsec. (a) of this section delegated to Secretary 
 
 ### Part B—Exports
 
-#### § 3611. Repealed. Pub. L. 104–127, title II, § 201(b), Apr. 4, 1996, 110 Stat. 951
+#### § 3611. Repealed. Pub. L. 104–127, title II, § 201(b), Apr. 4, 1996, 110 Stat. 951
 
-Section, Pub. L. 103–465, title IV, § 411(e), Dec. 8, 1994, 108 Stat. 4963, reaffirmed commitment of United States to provide food aid to developing countries.
+Section, Pub. L. 103–465, title IV, § 411(e), Dec. 8, 1994, 108 Stat. 4963, reaffirmed commitment of United States to provide food aid to developing countries.
 
 ### Part C—Other Provisions
 
-#### § 3621. Tobacco proclamation authority
+#### § 3621. Tobacco proclamation authority
 
 **(a) In general**
 
@@ -2214,7 +2214,7 @@ The President, after consultation with the Committee on Ways and Means of the Ho
 
 This section shall take effect on December 8, 1994.
 
-(Pub. L. 103–465, title IV, § 423, Dec. 8, 1994, 108 Stat. 4965.)
+(Pub. L. 103–465, title IV, § 423, Dec. 8, 1994, 108 Stat. 4965.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2222,15 +2222,15 @@ This section shall take effect on December 8, 1994.
 
 Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under section 3601 of this title.
 
-#### § 3622. Repealed. Pub. L. 105–362, title XIV, § 1401(c), Nov. 10, 1998, 112 Stat. 3294
+#### § 3622. Repealed. Pub. L. 105–362, title XIV, § 1401(c), Nov. 10, 1998, 112 Stat. 3294
 
-Section, Pub. L. 103–465, title IV, § 424, Dec. 8, 1994, 108 Stat. 4965, related to the President’s report to Congress on access to Canadian dairy and poultry markets.
+Section, Pub. L. 103–465, title IV, § 424, Dec. 8, 1994, 108 Stat. 4965, related to the President’s report to Congress on access to Canadian dairy and poultry markets.
 
-#### § 3623. Study of milk marketing order system
+#### § 3623. Study of milk marketing order system
 
 The Secretary of Agriculture shall conduct a study to determine the effects of the Uruguay Round Agreements on the Federal milk marketing order system. Not later than 6 months after the date of entry into force of the WTO Agreement with respect to the United States, the Secretary of Agriculture shall report to the Congress on the results of the study.
 
-(Pub. L. 103–465, title IV, § 425, Dec. 8, 1994, 108 Stat. 4965.)
+(Pub. L. 103–465, title IV, § 425, Dec. 8, 1994, 108 Stat. 4965.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2244,7 +2244,7 @@ Section effective on the date of entry into force of the WTO Agreement with resp
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
-#### § 3624. Additional program funding
+#### § 3624. Additional program funding
 
 **(a) Use of additional funds**
 
@@ -2262,7 +2262,7 @@ under section 902 of title 2, resulting from the enactment of the Federal Crop I
 
 This section shall take effect on December 8, 1994.
 
-(Pub. L. 103–465, title IV, § 426, Dec. 8, 1994, 108 Stat. 4966.)
+(Pub. L. 103–465, title IV, § 426, Dec. 8, 1994, 108 Stat. 4966.)
 
 **Editorial Notes**
 

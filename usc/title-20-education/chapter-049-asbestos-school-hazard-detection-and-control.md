@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 49—ASBESTOS SCHOOL HAZARD DETECTION AND CONTROL
 
-## § 3601. Congressional statement of findings and purposes
+## § 3601. Congressional statement of findings and purposes
 
 **(a)** The Congress finds that—
 
@@ -43,9 +43,9 @@ retrieved: 2026-10-11
 
 **(1)** direct the Secretary of Education to establish a task force to assist States and local educational agencies to ascertain the extent of the danger to the health of school children and employees from asbestos materials in schools;
 
-**(2)** require States receiving administrative funds for any applicable program (as defined under section 1221(c)(1)(A) 1
+**(2)** require States receiving administrative funds for any applicable program (as defined under section 1221(c)(1)(A) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) to prepare a plan describing the manner in which information relating to programs established under this chapter shall be distributed to local educational agencies;
 
@@ -55,21 +55,21 @@ of this title) to prepare a plan describing the manner in which information rela
 
 **(5)** assure that no employee of any local educational agency suffers any disciplinary action as a result of calling attention to potential asbestos hazards which may exist in schools.
 
-(Pub. L. 96–270, § 2, June 14, 1980, 94 Stat. 487.)
+(Pub. L. 96–270, § 2, June 14, 1980, 94 Stat. 487.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1221 of this title, referred to in subsec. (b)(2), was amended generally by Pub. L. 103–382, title II, § 211, Oct. 20, 1994, 108 Stat. 3912, and, as so amended, no longer contains a subsec. (c)(1)(A). However, the term “applicable program” is defined in subsec. (c)(1) of that section.
+Section 1221 of this title, referred to in subsec. (b)(2), was amended generally by Pub. L. 103–382, title II, § 211, Oct. 20, 1994, 108 Stat. 3912, and, as so amended, no longer contains a subsec. (c)(1)(A). However, the term “applicable program” is defined in subsec. (c)(1) of that section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 96–270, § 1, June 14, 1980, 94 Stat. 487, provided that: “This Act [enacting this chapter and amending section 1411 of this title] may be cited as the ‘Asbestos School Hazard Detection and Control Act of 1980’.”
+Pub. L. 96–270, § 1, June 14, 1980, 94 Stat. 487, provided that: “This Act [enacting this chapter and amending section 1411 of this title] may be cited as the ‘Asbestos School Hazard Detection and Control Act of 1980’.”
 
-## § 3602. Asbestos Hazards School Safety Task Force
+## § 3602. Asbestos Hazards School Safety Task Force
 
 **(a) Establishment; composition; membership; chairman; appointment; vacancies**
 
@@ -139,19 +139,19 @@ In carrying out its duties under this subsection, the Task Force shall avoid, to
 
 The Task Force shall cease to exist at the end of the 180-day period beginning on the date that the authority of the Secretary to make loans under section 3605 of this title has expired.
 
-(Pub. L. 96–270, § 3, June 14, 1980, 94 Stat. 488.)
+(Pub. L. 96–270, § 3, June 14, 1980, 94 Stat. 488.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 3603. State plan
+## § 3603. State plan
 
-**(a) Submission by State educational agency receiving administrative funds for programs; contents** Not later than six months after June 14, 1980, the State educational agency of any State which receives administrative funds for any applicable program (as defined under section 1221(c)(1)(A) 1
+**(a) Submission by State educational agency receiving administrative funds for programs; contents** Not later than six months after June 14, 1980, the State educational agency of any State which receives administrative funds for any applicable program (as defined under section 1221(c)(1)(A) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) shall submit to the Secretary a plan which—
 
@@ -179,15 +179,15 @@ of this title) shall submit to the Secretary a plan which—
 
 Not later than six months after the submission of the plan described in subsection (a), and each six months thereafter during the two-year period beginning on June 14, 1980, the State agency or unit designated under paragraph (4) of subsection (a) shall submit to the Secretary a report which describes the actions taken by the State in accordance with its plan under such subsection.
 
-(Pub. L. 96–270, § 4, June 14, 1980, 94 Stat. 490.)
+(Pub. L. 96–270, § 4, June 14, 1980, 94 Stat. 490.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1221 of this title, referred to in subsec. (a), was amended generally by Pub. L. 103–382, title II, § 211, Oct. 20, 1994, 108 Stat. 3912, and, as so amended, no longer contains a subsec. (c)(1)(A). However, the term “applicable program” is defined in subsec. (c)(1) of that section.
+Section 1221 of this title, referred to in subsec. (a), was amended generally by Pub. L. 103–382, title II, § 211, Oct. 20, 1994, 108 Stat. 3912, and, as so amended, no longer contains a subsec. (c)(1)(A). However, the term “applicable program” is defined in subsec. (c)(1) of that section.
 
-## § 3604. Asbestos hazards detection program
+## § 3604. Asbestos hazards detection program
 
 **(a) Grants to local and State educational agencies for Federal share; duration of granting authority; amount of Federal share**
 
@@ -245,9 +245,9 @@ Local and State educational agencies receiving grants under this section shall f
 
 During the period in which grants may be made under this section, not more than 20 percent of the funds appropriated to carry out this section may be made available by the Secretary to the Task Force to conduct education and technical assistance programs related to the detection of asbestos hazards in school buildings and the implementation of appropriate actions to mitigate such hazards.
 
-(Pub. L. 96–270, § 5, June 14, 1980, 94 Stat. 491.)
+(Pub. L. 96–270, § 5, June 14, 1980, 94 Stat. 491.)
 
-## § 3605. Asbestos Hazards Control Loan Program
+## § 3605. Asbestos Hazards Control Loan Program
 
 **(a) Establishment; administration; loans to local educational agencies for share of project costs; proj­ect criteria; increase in amount of loans**
 
@@ -317,9 +317,9 @@ No loan may be awarded under this section for any project described in subsectio
 
 **(5)** specify the number of loan applications which were disapproved during the preceding calendar year and describe the reasons for such disapprovals.
 
-(Pub. L. 96–270, § 6, June 14, 1980, 94 Stat. 492.)
+(Pub. L. 96–270, § 6, June 14, 1980, 94 Stat. 492.)
 
-## § 3606. Standards and safety procedures
+## § 3606. Standards and safety procedures
 
 **(a) Establishment and distribution to designated State agency or unit; establishment of criteria for loan program eligibility**
 
@@ -349,9 +349,9 @@ No loan may be awarded under this section for any project described in subsectio
 
 In carrying out his duties under this section, the Secretary shall avoid, to the maximum extent practicable, duplicating similar activities undertaken by the Environmental Protection Agency.
 
-(Pub. L. 96–270, § 7, June 14, 1980, 94 Stat. 494.)
+(Pub. L. 96–270, § 7, June 14, 1980, 94 Stat. 494.)
 
-## § 3607. Recovery of costs by United States
+## § 3607. Recovery of costs by United States
 
 **(a) Suit by United States on behalf of grant or loan recipient for recovery of costs of activities of recipient; proceeds of judgment**
 
@@ -373,15 +373,15 @@ The Attorney General shall conduct an investigation to determine whether, by usi
 
 If the Attorney General determines in the report under subsection (b) that the United States should seek to recover the amounts expended by the United States to carry out this chapter, the Attorney General shall proceed in an expeditious manner to recover such amounts from the persons referred to in subsection (b).
 
-(Pub. L. 96–270, § 8, June 14, 1980, 94 Stat. 495.)
+(Pub. L. 96–270, § 8, June 14, 1980, 94 Stat. 495.)
 
-## § 3608. Employee protection
+## § 3608. Employee protection
 
 No State or local educational agency receiving assistance under this chapter may discharge any employee or otherwise discriminate against any employee with respect to the employee’s compensation, terms, conditions, or privileges of employment because the employee has brought to the attention of the public information concerning any asbestos problem in the school buildings within the jurisdiction of such agency.
 
-(Pub. L. 96–270, § 9, June 14, 1980, 94 Stat. 496.)
+(Pub. L. 96–270, § 9, June 14, 1980, 94 Stat. 496.)
 
-## § 3609. Retained rights
+## § 3609. Retained rights
 
 Except as otherwise provided in section 3607 of this title, nothing in this chapter shall—
 
@@ -389,9 +389,9 @@ Except as otherwise provided in section 3607 of this title, nothing in this chap
 
 **(2)** affect the rights of any party under any other law.
 
-(Pub. L. 96–270, § 10, June 14, 1980, 94 Stat. 496.)
+(Pub. L. 96–270, § 10, June 14, 1980, 94 Stat. 496.)
 
-## § 3610. Definitions
+## § 3610. Definitions
 
 For purposes of this chapter—
 
@@ -407,9 +407,9 @@ For purposes of this chapter—
 
 **(4)** the term “local educational agency” means—
 
-**(A)** any local educational agency as defined in section 198(a)(10) 1
+**(A)** any local educational agency as defined in section 198(a)(10) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Elementary and Secondary Education Act of 1965;
 
@@ -417,7 +417,7 @@ of the Elementary and Secondary Education Act of 1965;
 
 **(5)** the term “nonprofit elementary or secondary school” means—
 
-**(A)** any elementary or secondary school (as defined in section 198(a)(7) <sup>1</sup> of the Elementary and Secondary Education Act of 1965) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual, and
+**(A)** any elementary or secondary school (as defined in section 198(a)(7) <sup>1</sup> of the Elementary and Secondary Education Act of 1965) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual, and
 
 **(B)** any school of any agency of the United States;
 
@@ -435,15 +435,15 @@ of the Elementary and Secondary Education Act of 1965;
 
 **(8)** the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, the Bureau of Indian Affairs, and the Office of Overseas Schools of the Department of Defense; and
 
-**(9)** the term “State educational agency” has the same meaning given such term by section 198(a)(17) <sup>1</sup> of the Elementary and Secondary Education Act of 1965.
+**(9)** the term “State educational agency” has the same meaning given such term by section 198(a)(17) <sup>1</sup> of the Elementary and Secondary Education Act of 1965.
 
-(Pub. L. 96–270, § 11, June 14, 1980, 94 Stat. 496.)
+(Pub. L. 96–270, § 11, June 14, 1980, 94 Stat. 496.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 198 of the Elementary and Secondary Education Act of 1965, referred to in pars. (4)(A), (5)(A), and (9), is section 198 of Pub. L. 89–10, title I, as added by Pub. L. 95–561, title I, § 101(a), Nov. 1, 1978, 92 Stat. 2198, which was classified to section 2854 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140. For definitions, see section 7801 of this title.
+Section 198 of the Elementary and Secondary Education Act of 1965, referred to in pars. (4)(A), (5)(A), and (9), is section 198 of Pub. L. 89–10, title I, as added by Pub. L. 95–561, title I, § 101(a), Nov. 1, 1978, 92 Stat. 2198, which was classified to section 2854 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140. For definitions, see section 7801 of this title.
 
 **Executive Documents**
 
@@ -451,7 +451,7 @@ Section 198 of the Elementary and Secondary Education Act of 1965, referred to i
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 3611. Authorization of appropriations
+## § 3611. Authorization of appropriations
 
 **(a) Sums available during obligation period for asbestos detection and asbestos hazards control loan programs**
 
@@ -465,9 +465,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(b) Programs automatically eligible for contingent extension**
 
-Programs under this chapter shall be considered automatically eligible for the one-year contingent extension under section 1226a 1
+Programs under this chapter shall be considered automatically eligible for the one-year contingent extension under section 1226a 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -479,10 +479,10 @@ If funds appropriated to carry out this chapter are insufficient to pay the tota
 
 Notwithstanding any other provision of this chapter, the authority of the Secretary to enter into agreements, or to make payments, under this chapter shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriation Acts.
 
-(Pub. L. 96–270, § 12, June 14, 1980, 94 Stat. 497.)
+(Pub. L. 96–270, § 12, June 14, 1980, 94 Stat. 497.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1226a of this title, referred to in subsec. (b), was in the original a reference to section 414 of the General Education Provisions Act. Section 414 of that Act was renumbered as section 422 by Pub. L. 103–382, title II, § 212(b)(1), Oct. 20, 1994, 108 Stat. 3913, and is classified to section 1226a of this title.
+Section 1226a of this title, referred to in subsec. (b), was in the original a reference to section 414 of the General Education Provisions Act. Section 414 of that Act was renumbered as section 422 by Pub. L. 103–382, title II, § 212(b)(1), Oct. 20, 1994, 108 Stat. 3913, and is classified to section 1226a of this title.

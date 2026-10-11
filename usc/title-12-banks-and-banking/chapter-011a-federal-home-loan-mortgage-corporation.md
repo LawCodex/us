@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 11A—FEDERAL HOME LOAN MORTGAGE CORPORATION
 
-## § 1451. Definitions
+## § 1451. Definitions
 
 As used in this chapter—
 
@@ -33,9 +33,9 @@ As used in this chapter—
 
 **(g)** The term “property” includes any property, whether real, personal, mixed, or otherwise, including without limitation on the generality of the foregoing choses in action and mortgages, and includes any interest in any of the foregoing.
 
-**(h)** The term “residential mortgage” means a mortgage which (1) is a mortgage on real estate, in fee simple or under a leasehold having such term as may be prescribed by the Corporation, upon which there is located a structure or structures designed in whole or in part for residential use, or which comprises or includes one or more condominium units or dwelling units (as defined by the Corporation) and (2) has such characteristics and meets such requirements as to amount, term, repayment provisions, number of families, status as a lien on such real estate, and otherwise, as may be prescribed by the Corporation. The term “residential mortgage” also includes a loan or advance of credit insured under title I of the National Housing Act [12 U.S.C. 1702 et seq.] whose original proceeds are applied for in order to finance energy conserving improvements, or the addition of a solar energy system, to residential real estate. The term “residential mortgage” also includes a loan or advance of credit for such purposes, or purchased from any public utility carrying out activities in accordance with the requirements of title II of the National Energy Conservation Policy Act [42 U.S.C. 8211 et seq.] if the residential mortgage to be purchased is a loan or advance of credit the original proceeds of which are applied for in order to finance the purchase and installation of residential energy conservation measures (as defined in section 210(11) 1
+**(h)** The term “residential mortgage” means a mortgage which (1) is a mortgage on real estate, in fee simple or under a leasehold having such term as may be prescribed by the Corporation, upon which there is located a structure or structures designed in whole or in part for residential use, or which comprises or includes one or more condominium units or dwelling units (as defined by the Corporation) and (2) has such characteristics and meets such requirements as to amount, term, repayment provisions, number of families, status as a lien on such real estate, and otherwise, as may be prescribed by the Corporation. The term “residential mortgage” also includes a loan or advance of credit insured under title I of the National Housing Act [12 U.S.C. 1702 et seq.] whose original proceeds are applied for in order to finance energy conserving improvements, or the addition of a solar energy system, to residential real estate. The term “residential mortgage” also includes a loan or advance of credit for such purposes, or purchased from any public utility carrying out activities in accordance with the requirements of title II of the National Energy Conservation Policy Act [42 U.S.C. 8211 et seq.] if the residential mortgage to be purchased is a loan or advance of credit the original proceeds of which are applied for in order to finance the purchase and installation of residential energy conservation measures (as defined in section 210(11) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the National Energy Conservation Policy Act) in residential real estate, not having the benefit of such insurance and includes loans made where the lender relies for purposes of repayment primarily on the borrower’s general credit standing and forecast of income, with or without other security. The term “residential mortgage” is also deemed to include a secured loan or advance of credit the proceeds of which are intended to finance the rehabilitation, renovation, modernization, refurbishment, or improvement of properties as to which the Corporation may purchase a “residential mortgage” as defined under the first sentence of this subsection. Such term shall also include other secured loans that are secured by a subordinate lien against a property as to which the Corporation may purchase a residential mortgage as defined under the first sentence of this subsection. A “secured loan or advance of credit” is one in which a security interest is taken in the rehabilitated, renovated, modernized, refurbished, or improved property. Such term shall also include a mortgage, lien, or other security interest on the stock or membership certificate issued to a tenant-stockholder or resident-member by a cooperative housing corporation, as defined in section 216 of title 26, and on the proprietary lease, occupancy agreement, or right of tenancy in the dwelling unit of the tenant-stockholder or resident-member in such cooperative housing corporation. The term “residential mortgage” also includes a loan or advance of credit secured by a mortgage or other lien on a manufactured home that is the principal residence of the borrower, without regard to whether the security property is real, personal, or mixed.
 
@@ -47,15 +47,15 @@ of the National Energy Conservation Policy Act) in residential real estate, not 
 
 **(l)** The term “mortgage insurance program” includes, in the case of a residential mortgage secured by a manufactured home, any manufactured home lending program under title I of the National Housing Act [12 U.S.C. 1702 et seq.].
 
-(Pub. L. 91–351, title III, § 302, July 24, 1970, 84 Stat. 451; Pub. L. 95–619, title II, § 245, Nov. 9, 1978, 92 Stat. 3233; Pub. L. 95–630, title XVII, § 1702, Nov. 10, 1978, 92 Stat. 3718; Pub. L. 96–153, title III, § 316(c), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 96–294, title V, § 534(a)(2), June 30, 1980, 94 Stat. 741; Pub. L. 98–440, title II, §§ 202, 203(b)(1), 204, Oct. 3, 1984, 98 Stat. 1693–1695; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–550, title XIII, § 1382(b), Oct. 28, 1992, 106 Stat. 4002.)
+(Pub. L. 91–351, title III, § 302, July 24, 1970, 84 Stat. 451; Pub. L. 95–619, title II, § 245, Nov. 9, 1978, 92 Stat. 3233; Pub. L. 95–630, title XVII, § 1702, Nov. 10, 1978, 92 Stat. 3718; Pub. L. 96–153, title III, § 316(c), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 96–294, title V, § 534(a)(2), June 30, 1980, 94 Stat. 741; Pub. L. 98–440, title II, §§ 202, 203(b)(1), 204, Oct. 3, 1984, 98 Stat. 1693–1695; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–550, title XIII, § 1382(b), Oct. 28, 1992, 106 Stat. 4002.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Housing Act, referred to in subsecs. (h) and (*l*), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title I of the National Housing Act is classified generally to subchapter I (§ 1702 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsecs. (h) and (*l*), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title I of the National Housing Act is classified generally to subchapter I (§ 1702 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-The National Energy Conservation Policy Act, referred to in subsec. (h), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3208. Title II of the Act is classified principally to subchapter II (§ 8211 et seq.) of chapter 91 of Title 42, The Public Health and Welfare. Section 210 of the Act (42 U.S.C. 8211) was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that section June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
+The National Energy Conservation Policy Act, referred to in subsec. (h), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3208. Title II of the Act is classified principally to subchapter II (§ 8211 et seq.) of chapter 91 of Title 42, The Public Health and Welfare. Section 210 of the Act (42 U.S.C. 8211) was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that section June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
 
 **Amendments**
 
@@ -63,15 +63,15 @@ The National Energy Conservation Policy Act, referred to in subsec. (h), is Pub.
 
 1986—Subsec. (h). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1984—Subsec. (d). Pub. L. 98–440, § 202(a), inserted reference to a manufactured home that is personal property under the laws of the State in which the manufactured home is located.
+1984—Subsec. (d). Pub. L. 98–440, § 202(a), inserted reference to a manufactured home that is personal property under the laws of the State in which the manufactured home is located.
 
-Subsec. (h). Pub. L. 98–440, § 203(b)(1), substituted “status as a lien” for “status as a first lien” and “Such term shall also include other secured loans that are secured by a subordinate lien against a property as to which the Corporation may purchase a residential mortgage as defined under the first sentence of this subsection” for “The maximum principal obligation of loans purchased by virtue of the preceding sentence shall not exceed the dollar limits prescribed by the Federal Home Loan Bank Board with respect to similar types of loans made by Federal savings and loan associations”.
+Subsec. (h). Pub. L. 98–440, § 203(b)(1), substituted “status as a lien” for “status as a first lien” and “Such term shall also include other secured loans that are secured by a subordinate lien against a property as to which the Corporation may purchase a residential mortgage as defined under the first sentence of this subsection” for “The maximum principal obligation of loans purchased by virtue of the preceding sentence shall not exceed the dollar limits prescribed by the Federal Home Loan Bank Board with respect to similar types of loans made by Federal savings and loan associations”.
 
-Pub. L. 98–440, § 202(b), inserted provision that term “residential mortgage” also includes a loan or advance of credit secured by a mortgage or other lien on a manufactured home that is the principal residence of the borrower, without regard to whether the security property is real, personal, or mixed.
+Pub. L. 98–440, § 202(b), inserted provision that term “residential mortgage” also includes a loan or advance of credit secured by a mortgage or other lien on a manufactured home that is the principal residence of the borrower, without regard to whether the security property is real, personal, or mixed.
 
-Subsec. (i). Pub. L. 98–440, § 204, substituted “any of its agencies or instrumentalities” for “a State or an agency or instrumentality of either”.
+Subsec. (i). Pub. L. 98–440, § 204, substituted “any of its agencies or instrumentalities” for “a State or an agency or instrumentality of either”.
 
-Subsec. (*l*). Pub. L. 98–440, § 202(c), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 98–440, § 202(c), added subsec. (*l*).
 
 1980—Subsec. (h). Pub. L. 96–294 inserted provision relating to loans or advances of credit made by a public utility and purchased by the Corporation pursuant to section 1454(a)(1) of this title.
 
@@ -85,15 +85,15 @@ Pub. L. 95–619 inserted provisions relating to loans or advances of credit ins
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–630, title XVII, § 1703, Nov. 10, 1978, 92 Stat. 3719, provided that: “This title [amending sections 1451 and 1464 of this title] shall take effect upon enactment [Nov. 10, 1978].”
+Pub. L. 95–630, title XVII, § 1703, Nov. 10, 1978, 92 Stat. 3719, provided that: “This title [amending sections 1451 and 1464 of this title] shall take effect upon enactment [Nov. 10, 1978].”
 
 **Short Title of 1981 Amendment**
 
-Pub. L. 97–110, title II, § 201, Dec. 26, 1981, 95 Stat. 1514, provided that: “This title [amending sections 1454 and 1717 of this title and enacting provisions set out as a note under section 1454 of this title] may be cited as the ‘Mortgage Purchase Amendments of 1981’.”
+Pub. L. 97–110, title II, § 201, Dec. 26, 1981, 95 Stat. 1514, provided that: “This title [amending sections 1454 and 1717 of this title and enacting provisions set out as a note under section 1454 of this title] may be cited as the ‘Mortgage Purchase Amendments of 1981’.”
 
 **Short Title and Statement of Purpose**
 
-Pub. L. 91–351, title III, § 301, July 24, 1970, 84 Stat. 451, as amended by Pub. L. 101–73, title VII, § 731(a), Aug. 9, 1989, 103 Stat. 429; Pub. L. 102–550, title XIII, § 1382(a), Oct. 28, 1992, 106 Stat. 4002, provided that:
+Pub. L. 91–351, title III, § 301, July 24, 1970, 84 Stat. 451, as amended by Pub. L. 101–73, title VII, § 731(a), Aug. 9, 1989, 103 Stat. 429; Pub. L. 102–550, title XIII, § 1382(a), Oct. 28, 1992, 106 Stat. 4002, provided that:
 
 > **“(a)** This title [enacting this chapter] may be cited as the ‘Federal Home Loan Mortgage Corporation Act’.
 
@@ -109,9 +109,9 @@ Pub. L. 91–351, title III, § 301, July 24, 1970, 84 Stat. 451, as amended b
 
 **Regulations**
 
-Pub. L. 102–550, title XIII, § 1383, Oct. 28, 1992, 106 Stat. 4008, directed the Secretary of Housing and Urban Development and the Director to issue final regulations to implement amendments by subtitle D (§§ 1381–1383) of title XIII of Pub. L. 102–550 not later than the expiration of the 18-month period beginning on Oct. 28, 1992, prior to repeal by Pub. L. 110–289, div. A, title I, § 1161(a)(4), July 30, 2008, 122 Stat. 2779.
+Pub. L. 102–550, title XIII, § 1383, Oct. 28, 1992, 106 Stat. 4008, directed the Secretary of Housing and Urban Development and the Director to issue final regulations to implement amendments by subtitle D (§§ 1381–1383) of title XIII of Pub. L. 102–550 not later than the expiration of the 18-month period beginning on Oct. 28, 1992, prior to repeal by Pub. L. 110–289, div. A, title I, § 1161(a)(4), July 30, 2008, 122 Stat. 2779.
 
-## § 1452. Federal Home Loan Mortgage Corporation
+## § 1452. Federal Home Loan Mortgage Corporation
 
 **(a) Creation; Board of Directors; policies; principal office; membership; term; vacancies**
 
@@ -163,39 +163,39 @@ All mortgages, obligations, or other securities which are or have been sold by t
 
 **(4)** Notwithstanding any other provision of this section, the Corporation shall not transfer, disburse, or pay compensation to any executive officer, or enter into an agreement with such executive officer, without the approval of the Director, for matters being reviewed under section 4518 of this title.
 
-(Pub. L. 91–351, title III, § 303, July 24, 1970, 84 Stat. 452; Pub. L. 96–153, title III, § 316(b), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 98–369, div. A, title I, § 177(a), July 18, 1984, 98 Stat. 709; Pub. L. 101–73, title VII, § 731(b)(1), (c), Aug. 9, 1989, 103 Stat. 429, 431; Pub. L. 102–550, title XIII, § 1382(c)(1), (d)–(h), Oct. 28, 1992, 106 Stat. 4002–4004; Pub. L. 110–289, div. A, title I, §§ 1113(b)(2), 1153(b)(3), 1161(c)(1), 1162(b)(1), July 30, 2008, 122 Stat. 2678, 2775, 2780, 2781.)
+(Pub. L. 91–351, title III, § 303, July 24, 1970, 84 Stat. 452; Pub. L. 96–153, title III, § 316(b), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 98–369, div. A, title I, § 177(a), July 18, 1984, 98 Stat. 709; Pub. L. 101–73, title VII, § 731(b)(1), (c), Aug. 9, 1989, 103 Stat. 429, 431; Pub. L. 102–550, title XIII, § 1382(c)(1), (d)–(h), Oct. 28, 1992, 106 Stat. 4002–4004; Pub. L. 110–289, div. A, title I, §§ 1113(b)(2), 1153(b)(3), 1161(c)(1), 1162(b)(1), July 30, 2008, 122 Stat. 2678, 2775, 2780, 2781.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a)(2)(A). Pub. L. 110–289, § 1162(b)(1)(A), substituted “13 persons, or such other number as the Director determines appropriate, who” for “18 persons, 5 of whom shall be appointed annually by the President of the United States and the remainder of whom” in first sentence and struck out “appointed by the President of the United States” after “as members” in second sentence.
+2008—Subsec. (a)(2)(A). Pub. L. 110–289, § 1162(b)(1)(A), substituted “13 persons, or such other number as the Director determines appropriate, who” for “18 persons, 5 of whom shall be appointed annually by the President of the United States and the remainder of whom” in first sentence and struck out “appointed by the President of the United States” after “as members” in second sentence.
 
-Pub. L. 110–289, § 1153(b)(3), substituted “Except to the extent action under section 4636a of this title temporarily results in a lesser number, the” for “The” in second sentence.
+Pub. L. 110–289, § 1153(b)(3), substituted “Except to the extent action under section 4636a of this title temporarily results in a lesser number, the” for “The” in second sentence.
 
-Subsec. (a)(2)(B). Pub. L. 110–289, § 1162(b)(1)(B), struck out “such or” before “elected” and “, except that any appointed member may be removed from office by the President for good cause” before period at end.
+Subsec. (a)(2)(B). Pub. L. 110–289, § 1162(b)(1)(B), struck out “such or” before “elected” and “, except that any appointed member may be removed from office by the President for good cause” before period at end.
 
-Subsec. (a)(2)(C). Pub. L. 110–289, § 1162(b)(1)(C), struck out “elective” after “Any” in second sentence and struck out first sentence which read as follows: “Any appointive seat on the Board of Directors that becomes vacant shall be filled by appointment by the President of the United States, but only for the unexpired portion of the term.”
+Subsec. (a)(2)(C). Pub. L. 110–289, § 1162(b)(1)(C), struck out “elective” after “Any” in second sentence and struck out first sentence which read as follows: “Any appointive seat on the Board of Directors that becomes vacant shall be filled by appointment by the President of the United States, but only for the unexpired portion of the term.”
 
-Subsecs. (b)(2), (h)(2). Pub. L. 110–289, § 1161(c)(1), substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
+Subsecs. (b)(2), (h)(2). Pub. L. 110–289, § 1161(c)(1), substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
 
-Subsec. (h)(4). Pub. L. 110–289, § 1113(b)(2), added par. (4).
+Subsec. (h)(4). Pub. L. 110–289, § 1113(b)(2), added par. (4).
 
-1992—Subsec. (a)(2)(A). Pub. L. 102–550, § 1382(c)(1), in second sentence, struck out “and” after “mortgage lending industry,” and inserted before period “, and at least 1 person from an organization that has represented consumer or community interests for not less than 2 years or 1 person who has demonstrated a career commitment to the provision of housing for low-income households”.
+1992—Subsec. (a)(2)(A). Pub. L. 102–550, § 1382(c)(1), in second sentence, struck out “and” after “mortgage lending industry,” and inserted before period “, and at least 1 person from an organization that has represented consumer or community interests for not less than 2 years or 1 person who has demonstrated a career commitment to the provision of housing for low-income households”.
 
-Subsec. (a)(2)(B). Pub. L. 102–550, § 1382(d), inserted before period at end “, except that any appointed member may be removed from office by the President for good cause”.
+Subsec. (a)(2)(B). Pub. L. 102–550, § 1382(d), inserted before period at end “, except that any appointed member may be removed from office by the President for good cause”.
 
-Subsec. (b). Pub. L. 102–550, § 1382(e), amended subsec. (b) generally, substituting present provisions for provisions which outlined general regulatory authority of the Secretary of Housing and Urban Development over Corporation in such areas as mortgage purchases, dividends, examinations and audits, outstanding obligations, conversion of stock and debt obligations, residential mortgage transactions, and approval or disapproval of requests.
+Subsec. (b). Pub. L. 102–550, § 1382(e), amended subsec. (b) generally, substituting present provisions for provisions which outlined general regulatory authority of the Secretary of Housing and Urban Development over Corporation in such areas as mortgage purchases, dividends, examinations and audits, outstanding obligations, conversion of stock and debt obligations, residential mortgage transactions, and approval or disapproval of requests.
 
-Subsec. (c). Pub. L. 102–550, § 1382(f)(1), (g), in cl. (9) of first sentence, inserted “as the Board of Directors determines reasonable and comparable with compensation for employment in other similar businesses (including publicly held financial institutions or other major financial services companies) involving similar duties and responsibilities, except that a significant portion of potential compensation of all executive officers (as such term is defined in subsection (h)(3)) of the Corporation shall be based on the performance of the Corporation” and struck out after first sentence “Nothing in this chapter or any other law shall be construed to prevent the appointment, employment, and provision for compensation and benefits, as an officer, employee, attorney, or agent of the Corporation, of any officer, employee, attorney, or agent of any department, establishment, or corporate or other instrumentality of the Government, including any Federal home loan bank or member thereof.”
+Subsec. (c). Pub. L. 102–550, § 1382(f)(1), (g), in cl. (9) of first sentence, inserted “as the Board of Directors determines reasonable and comparable with compensation for employment in other similar businesses (including publicly held financial institutions or other major financial services companies) involving similar duties and responsibilities, except that a significant portion of potential compensation of all executive officers (as such term is defined in subsection (h)(3)) of the Corporation shall be based on the performance of the Corporation” and struck out after first sentence “Nothing in this chapter or any other law shall be construed to prevent the appointment, employment, and provision for compensation and benefits, as an officer, employee, attorney, or agent of the Corporation, of any officer, employee, attorney, or agent of any department, establishment, or corporate or other instrumentality of the Government, including any Federal home loan bank or member thereof.”
 
-Subsec. (f). Pub. L. 102–550, § 1382(h), struck out at end “No attachment or execution shall be issued against the Corporation or any of its property before final judgment in any State, Federal, or other court.”
+Subsec. (f). Pub. L. 102–550, § 1382(h), struck out at end “No attachment or execution shall be issued against the Corporation or any of its property before final judgment in any State, Federal, or other court.”
 
-Subsec. (h). Pub. L. 102–550, § 1382(f)(2), added subsec. (h).
+Subsec. (h). Pub. L. 102–550, § 1382(f)(2), added subsec. (h).
 
-1989—Subsec. (a). Pub. L. 101–73, § 731(b)(1), amended subsec. (a) generally, reorganizing provisions into pars. (1) and (2), and substituting provisions setting forth general policies as governing Board, membership requirements and vacancies, for provisions setting forth status of members, liabilities, and conditions and limitations.
+1989—Subsec. (a). Pub. L. 101–73, § 731(b)(1), amended subsec. (a) generally, reorganizing provisions into pars. (1) and (2), and substituting provisions setting forth general policies as governing Board, membership requirements and vacancies, for provisions setting forth status of members, liabilities, and conditions and limitations.
 
-Subsecs. (b) to (g). Pub. L. 101–73, § 731(c), added subsec. (b) and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
+Subsecs. (b) to (g). Pub. L. 101–73, § 731(c), added subsec. (b) and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
 
 1984—Subsec. (d). Pub. L. 98–369 struck out “by the United States,” before “by any territory”, substituted “possession of the United States” for “possession thereof,” and struck out “The provisions of this subsection shall be applicable without regard to any other law, including without limitation on the generality of the foregoing section 3301 of title 26, except laws hereafter enacted by Congress expressly in limitation of this subsection.”
 
@@ -209,7 +209,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–550, title XIII, § 1382(c)(2), Oct. 28, 1992, 106 Stat. 4002, provided that: “The amendments made by paragraph (1) [amending this section] shall apply to the first annual appointment by the President of members to the Board of Directors of the Federal Home Loan Mortgage Corporation that occurs after the date of the enactment of this Act [Oct. 28, 1992].”
+Pub. L. 102–550, title XIII, § 1382(c)(2), Oct. 28, 1992, 106 Stat. 4002, provided that: “The amendments made by paragraph (1) [amending this section] shall apply to the first annual appointment by the President of members to the Board of Directors of the Federal Home Loan Mortgage Corporation that occurs after the date of the enactment of this Act [Oct. 28, 1992].”
 
 **Effective Date of 1984 Amendment**
 
@@ -217,9 +217,9 @@ Amendment by Pub. L. 98–369, effective Jan. 1, 1985, see section 177(d) of Pub
 
 **Transitional Provisions**
 
-Pub. L. 110–289, div. A, title I, § 1162(b)(2), July 30, 2008, 122 Stat. 2782, provided that: “The amendments made by paragraph (1) [amending this section] shall not apply to any appointed position of the board of directors of the Federal Home Loan Mortgage Corporation until the expiration of the annual term for such position during which the effective date under section 1163 [set out as an Effective Date of 2008 Amendment note under section 3132 of Title 5, Government Organization and Employees] occurs.”
+Pub. L. 110–289, div. A, title I, § 1162(b)(2), July 30, 2008, 122 Stat. 2782, provided that: “The amendments made by paragraph (1) [amending this section] shall not apply to any appointed position of the board of directors of the Federal Home Loan Mortgage Corporation until the expiration of the annual term for such position during which the effective date under section 1163 [set out as an Effective Date of 2008 Amendment note under section 3132 of Title 5, Government Organization and Employees] occurs.”
 
-Pub. L. 101–73, title VII, § 731(b)(2), Aug. 9, 1989, 103 Stat. 430, provided that:
+Pub. L. 101–73, title VII, § 731(b)(2), Aug. 9, 1989, 103 Stat. 430, provided that:
 
 > **“(A) Interim board.—**
 
@@ -235,7 +235,7 @@ Pub. L. 101–73, title VII, § 731(b)(2), Aug. 9, 1989, 103 Stat. 430, provid
 
 > **“(B) Election of permanent directors.—** The first meeting of the voting common shareholders of the Federal Home Loan Mortgage Corporation for election of directors shall occur, under procedures established by the Corporation, within 6 months after the date of the enactment of this Act.”
 
-## § 1453. Capitalization of Federal Home Loan Mortgage Corporation
+## § 1453. Capitalization of Federal Home Loan Mortgage Corporation
 
 **(a) Common stock; issuance**
 
@@ -245,35 +245,35 @@ The common stock of the Corporation shall consist of voting common stock, which 
 
 The voting common stock shall have such par value and other characteristics as the Corporation provides. The voting common stock shall be vested with all voting rights, each share being entitled to 1 vote. The free transferability of the voting common stock at all times to any person, firm, corporation or other entity shall not be restricted except that, as to the Corporation, it shall be transferable only on the books of the Corporation.
 
-(Pub. L. 91–351, title III, § 304, July 24, 1970, 84 Stat. 454; Pub. L. 101–73, title VII, § 731(d)(1), (3), Aug. 9, 1989, 103 Stat. 432; Pub. L. 102–550, title XIII, § 1382(i), Oct. 28, 1992, 106 Stat. 4004.)
+(Pub. L. 91–351, title III, § 304, July 24, 1970, 84 Stat. 454; Pub. L. 101–73, title VII, § 731(d)(1), (3), Aug. 9, 1989, 103 Stat. 432; Pub. L. 102–550, title XIII, § 1382(i), Oct. 28, 1992, 106 Stat. 4004.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (a). Pub. L. 102–550, § 1382(i)(2), (3)(C), redesignated par. (1) as subsec. (a), struck out provisions of par. (1)(A) which related to common stock of Corporation consisting in part of nonvoting common stock issued only to Federal home loan banks, restate provisions of par. (1)(B) as text of subsec. (a), and redesignated par. (2) as subsec. (b).
+1992—Subsec. (a). Pub. L. 102–550, § 1382(i)(2), (3)(C), redesignated par. (1) as subsec. (a), struck out provisions of par. (1)(A) which related to common stock of Corporation consisting in part of nonvoting common stock issued only to Federal home loan banks, restate provisions of par. (1)(B) as text of subsec. (a), and redesignated par. (2) as subsec. (b).
 
-Subsec. (b). Pub. L. 102–550, § 1382(i)(1), (3), redesignated subsec. (a)(2) as (b), struck out “nonvoting common stock and the” before “voting common stock shall have such”, struck out at end “Nonvoting common stock of the Corporation shall be evidenced in the manner and shall be transferable only to the extent, to the transferees, and in the manner, provided by the Corporation.”, and struck out former subsec. (b) which read as follows: “The Federal home loan banks shall from time to time subscribe, at such price not less than par as the Corporation shall from time to time fix, for such amounts of nonvoting common stock as the Corporation prescribes, and such banks shall pay therefor at such time or times and in such amount or amounts as may from time to time be fixed by call of the Corporation. The amount of the payments for which such banks may be obligated under such subscriptions shall not exceed a cumulative total of $100,000,000.”
+Subsec. (b). Pub. L. 102–550, § 1382(i)(1), (3), redesignated subsec. (a)(2) as (b), struck out “nonvoting common stock and the” before “voting common stock shall have such”, struck out at end “Nonvoting common stock of the Corporation shall be evidenced in the manner and shall be transferable only to the extent, to the transferees, and in the manner, provided by the Corporation.”, and struck out former subsec. (b) which read as follows: “The Federal home loan banks shall from time to time subscribe, at such price not less than par as the Corporation shall from time to time fix, for such amounts of nonvoting common stock as the Corporation prescribes, and such banks shall pay therefor at such time or times and in such amount or amounts as may from time to time be fixed by call of the Corporation. The amount of the payments for which such banks may be obligated under such subscriptions shall not exceed a cumulative total of $100,000,000.”
 
-Subsec. (c). Pub. L. 102–550, § 1382(i)(1), struck out subsec. (c) which read as follows: “Subscriptions of the respective Federal home loan banks to nonvoting common stock shall be allocated by the Corporation.”
+Subsec. (c). Pub. L. 102–550, § 1382(i)(1), struck out subsec. (c) which read as follows: “Subscriptions of the respective Federal home loan banks to nonvoting common stock shall be allocated by the Corporation.”
 
-Subsec. (d). Pub. L. 102–550, § 1382(i)(1), struck out subsec. (d) which read as follows: “The Corporation may retire at any time all or any part of the nonvoting common stock of the Corporation, or may call for retirement all or any part of the nonvoting common stock of the Corporation by (1) publishing a notice of the call in the Federal Register or providing such notice in such other manner as the Corporation may determine to be appropriate, and (2) depositing with the Treasurer of the United States, for the purpose of such retirement, funds sufficient to effect such retirement. No call for the retirement of any nonvoting common stock shall be made, and no nonvoting common stock shall be retired without call, if immediately after such action, the total of the nonvoting common stock not called for retirement and of the reserves and surplus of the Corporation would be less than $100,000,000. The retirement of nonvoting common stock shall be at the par value thereof, or at the price at which such nonvoting common stock was issued if such price is greater than par value. No declaration of any dividend on nonvoting common stock of the Corporation shall be effective with respect to nonvoting common stock which at the time of such declaration is the subject of an outstanding retirement call the effective date of which has arrived.”
+Subsec. (d). Pub. L. 102–550, § 1382(i)(1), struck out subsec. (d) which read as follows: “The Corporation may retire at any time all or any part of the nonvoting common stock of the Corporation, or may call for retirement all or any part of the nonvoting common stock of the Corporation by (1) publishing a notice of the call in the Federal Register or providing such notice in such other manner as the Corporation may determine to be appropriate, and (2) depositing with the Treasurer of the United States, for the purpose of such retirement, funds sufficient to effect such retirement. No call for the retirement of any nonvoting common stock shall be made, and no nonvoting common stock shall be retired without call, if immediately after such action, the total of the nonvoting common stock not called for retirement and of the reserves and surplus of the Corporation would be less than $100,000,000. The retirement of nonvoting common stock shall be at the par value thereof, or at the price at which such nonvoting common stock was issued if such price is greater than par value. No declaration of any dividend on nonvoting common stock of the Corporation shall be effective with respect to nonvoting common stock which at the time of such declaration is the subject of an outstanding retirement call the effective date of which has arrived.”
 
-1989—Subsec. (a). Pub. L. 101–73, § 731(d)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The capital stock of the Corporation shall consist of nonvoting common stock which shall be issued only to Federal home loan banks and shall have such par value and such other characteristics as the Corporation prescribes. Stock of the Corporation shall be evidenced in such manner and shall be transferable only to such extent, to such transferees, and in such manner as the Corporation prescribes.”
+1989—Subsec. (a). Pub. L. 101–73, § 731(d)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The capital stock of the Corporation shall consist of nonvoting common stock which shall be issued only to Federal home loan banks and shall have such par value and such other characteristics as the Corporation prescribes. Stock of the Corporation shall be evidenced in such manner and shall be transferable only to such extent, to such transferees, and in such manner as the Corporation prescribes.”
 
-Subsec. (b). Pub. L. 101–73, § 731(d)(3)(A), substituted “nonvoting common stock” for “common stock”.
+Subsec. (b). Pub. L. 101–73, § 731(d)(3)(A), substituted “nonvoting common stock” for “common stock”.
 
-Subsec. (c). Pub. L. 101–73, § 731(d)(3)(B), substituted “nonvoting common stock” for “such stock”.
+Subsec. (c). Pub. L. 101–73, § 731(d)(3)(B), substituted “nonvoting common stock” for “such stock”.
 
-Subsec. (d). Pub. L. 101–73, § 731(d)(3)(C), inserted “nonvoting common” before “stock” wherever appearing.
+Subsec. (d). Pub. L. 101–73, § 731(d)(3)(C), inserted “nonvoting common” before “stock” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Conversion of Stock**
 
-Pub. L. 101–73, title VII, § 731(d)(2), Aug. 9, 1989, 103 Stat. 432, provided that: “On the date of the enactment of this Act [Aug. 9, 1989], each share of outstanding senior participating preferred stock of the Federal Home Loan Mortgage Corporation, with a par value of $2.50 per share, shall be changed into and shall become 1 share of voting common stock of the Corporation. Such voting common stock shall, with respect to the nonvoting common stock of the Corporation, retain all of the rights, priorities and privileges of the senior participating preferred stock. The transformation of the senior participating preferred stock into voting common stock under this paragraph shall be deemed to satisfy the obligation of the Corporation to redeem senior participating preferred stock for non-callable common stock.”
+Pub. L. 101–73, title VII, § 731(d)(2), Aug. 9, 1989, 103 Stat. 432, provided that: “On the date of the enactment of this Act [Aug. 9, 1989], each share of outstanding senior participating preferred stock of the Federal Home Loan Mortgage Corporation, with a par value of $2.50 per share, shall be changed into and shall become 1 share of voting common stock of the Corporation. Such voting common stock shall, with respect to the nonvoting common stock of the Corporation, retain all of the rights, priorities and privileges of the senior participating preferred stock. The transformation of the senior participating preferred stock into voting common stock under this paragraph shall be deemed to satisfy the obligation of the Corporation to redeem senior participating preferred stock for non-callable common stock.”
 
-## § 1454. Purchase and sale of mortgages; residential mortgages; conventional mortgages; terms and conditions of sale or other disposition; authority to enter into, perform, and carry out transactions
+## § 1454. Purchase and sale of mortgages; residential mortgages; conventional mortgages; terms and conditions of sale or other disposition; authority to enter into, perform, and carry out transactions
 
 **(a) Authority for purchase and sale; residential mortgages; conventional mortgages; terms and conditions of sale or other disposition; lending activities**
 
@@ -299,9 +299,9 @@ Notwithstanding any other law, authority to enter into and to perform and carry 
 
 **(c) Prior approval of Secretary for new programs**
 
-The Corporation may not implement any new program (as such term is defined in section 4502 of this title) before obtaining the approval of the Secretary under section 4542 1
+The Corporation may not implement any new program (as such term is defined in section 4502 of this title) before obtaining the approval of the Secretary under section 4542 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -371,19 +371,19 @@ If the Corporation elects to use a credit score under this subsection, the Direc
 
 **(B)** the date that is 2 years after the effective date of this subsection.
 
-(Pub. L. 91–351, title III, § 305, July 24, 1970, 84 Stat. 454; Pub. L. 93–383, title VIII, § 805(a), (b), Aug. 22, 1974, 88 Stat. 726; Pub. L. 93–495, title I, § 113, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 95–128, title IV, § 408(b), Oct. 12, 1977, 91 Stat. 1138; Pub. L. 95–557, title III, § 321(a), (b), Oct. 31, 1978, 92 Stat. 2101; Pub. L. 96–294, title V, § 534(a)(1), June 30, 1980, 94 Stat. 740; Pub. L. 96–399, title III, § 313(b), Oct. 8, 1980, 94 Stat. 1644; Pub. L. 97–110, title II, §§ 202(a), (b)(1), 203, Dec. 26, 1981, 95 Stat. 1514, 1515; Pub. L. 98–440, title II, §§ 201(b), 203(b)(2), 205(b), 206(b), Oct. 3, 1984, 98 Stat. 1693–1696; Pub. L. 100–122, § 2(b)(2), Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title IV, §§ 443(b), 445, Feb. 5, 1988, 101 Stat. 1922; Pub. L. 100–628, title X, § 1068(b), Nov. 7, 1988, 102 Stat. 3726; Pub. L. 101–73, title VII, § 731(e), (f)(2), Aug. 9, 1989, 103 Stat. 433; Pub. L. 102–550, title XIII, § 1382(j)–(m), Oct. 28, 1992, 106 Stat. 4004; Pub. L. 105–276, title II, § 202(a), title V, § 582(a)(14), Oct. 21, 1998, 112 Stat. 2483, 2644; Pub. L. 105–277, div. A, § 122, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 110–289, div. A, title I, § 1124(b)(1), (2), July 30, 2008, 122 Stat. 2692; Pub. L. 115–174, title III, § 310(b), May 24, 2018, 132 Stat. 1353.)
+(Pub. L. 91–351, title III, § 305, July 24, 1970, 84 Stat. 454; Pub. L. 93–383, title VIII, § 805(a), (b), Aug. 22, 1974, 88 Stat. 726; Pub. L. 93–495, title I, § 113, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 95–128, title IV, § 408(b), Oct. 12, 1977, 91 Stat. 1138; Pub. L. 95–557, title III, § 321(a), (b), Oct. 31, 1978, 92 Stat. 2101; Pub. L. 96–294, title V, § 534(a)(1), June 30, 1980, 94 Stat. 740; Pub. L. 96–399, title III, § 313(b), Oct. 8, 1980, 94 Stat. 1644; Pub. L. 97–110, title II, §§ 202(a), (b)(1), 203, Dec. 26, 1981, 95 Stat. 1514, 1515; Pub. L. 98–440, title II, §§ 201(b), 203(b)(2), 205(b), 206(b), Oct. 3, 1984, 98 Stat. 1693–1696; Pub. L. 100–122, § 2(b)(2), Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title IV, §§ 443(b), 445, Feb. 5, 1988, 101 Stat. 1922; Pub. L. 100–628, title X, § 1068(b), Nov. 7, 1988, 102 Stat. 3726; Pub. L. 101–73, title VII, § 731(e), (f)(2), Aug. 9, 1989, 103 Stat. 433; Pub. L. 102–550, title XIII, § 1382(j)–(m), Oct. 28, 1992, 106 Stat. 4004; Pub. L. 105–276, title II, § 202(a), title V, § 582(a)(14), Oct. 21, 1998, 112 Stat. 2483, 2644; Pub. L. 105–277, div. A, § 122, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 110–289, div. A, title I, § 1124(b)(1), (2), July 30, 2008, 122 Stat. 2692; Pub. L. 115–174, title III, § 310(b), May 24, 2018, 132 Stat. 1353.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Housing Act, referred to in subsec. (a)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsec. (a)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 This chapter, referred to in subsec. (a)(1), was in the original “this Act” and has been translated as reading “this title”, meaning title III of Pub. L. 91–351, to reflect the probable intent of Congress.
 
 The effective date of the Federal Housing Finance Regulatory Reform Act of 2008, referred to in subsec. (a)(2), probably means the date of enactment of div. A of Pub. L. 110–289, which was approved July 30, 2008.
 
-Section 4542 of this title, referred to in subsec. (c), was repealed and a new section 4542 was added by Pub. L. 110–289, div. A, title I, §§ 1121(2), 1124(d), July 30, 2008, 122 Stat. 2689, 2693. The new section 4542 does not relate to obtaining the approval of the Secretary.
+Section 4542 of this title, referred to in subsec. (c), was repealed and a new section 4542 was added by Pub. L. 110–289, div. A, title I, §§ 1121(2), 1124(d), July 30, 2008, 122 Stat. 2689, 2693. The new section 4542 does not relate to obtaining the approval of the Secretary.
 
 The effective date of this subsection, referred to in subsec. (d)(6), (9), is 180 days after May 24, 2018, see section 310(d) of Pub. L. 115–174, set out as an Effective Date of 2018 Amendment note below.
 
@@ -393,29 +393,29 @@ The effective date of this subsection, referred to in subsec. (d)(6), (9), is 18
 
 2008—Subsec. (a)(2). Pub. L. 110–289 substituted “Such limitations shall not exceed $417,000 for a mortgage secured by a single-family residence, $533,850 for a mortgage secured by a 2-family residence, $645,300 for a mortgage secured by a 3-family residence, and $801,950 for a mortgage secured by a 4-family residence, except that such maximum limitations shall be adjusted effective January 1 of each year beginning after the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, subject to the limitations in this paragraph. Each adjustment shall be made by adding to each such amount (as it may have been previously adjusted) a percentage thereof equal to the percentage increase, during the most recent 12-month or 4-quarter period ending before the time of determining such annual adjustment, in the housing price index maintained by the Director of the Federal Housing Finance Agency (pursuant to section 4542 of this title). If the change in such house price index during the most recent 12-month or 4-quarter period ending before the time of determining such annual adjustment is a decrease, then no adjustment shall be made for the next year, and the next adjustment shall take into account prior declines in the house price index, so that any adjustment shall reflect the net change in the house price index since the last adjustment. Declines in the house price index shall be accumulated and then reduce increases until subsequent increases exceed prior declines.” for “Such limitations shall not exceed $93,750 for a mortgage secured by a single-family residence, $120,000 for a mortgage secured by a two-family residence, $145,000 for a mortgage secured by a three-family residence, and $180,000 for a mortgage secured by a four-family residence, except that such maximum limitations shall be adjusted effective January 1 of each year beginning with 1981. Each such adjustment shall be made by adding to each such amount (as it may have been previously adjusted) a percentage thereof equal to the percentage increase during the twelve-month period ending with the previous October in the national average one-family house price in the monthly survey of all major lenders conducted by the Federal Housing Finance Board.” and inserted last sentence.
 
-1998—Subsec. (a)(2). Pub. L. 105–276, § 582(a)(14), struck out penultimate sentence which read as follows: “With respect to mortgages secured by property comprising five or more family dwelling units, such limitations shall not exceed 125 per centum of the dollar amounts set forth in section 207(c)(3) of the National Housing Act, except that such limitations may be increased by the Corporation (taking into account construction costs) to not to exceed 240 per centum of such dollar amounts in any geographical area for which the Secretary of Housing and Urban Development determines under such section that cost levels require any increase in the dollar amount limitations under such section.”
+1998—Subsec. (a)(2). Pub. L. 105–276, § 582(a)(14), struck out penultimate sentence which read as follows: “With respect to mortgages secured by property comprising five or more family dwelling units, such limitations shall not exceed 125 per centum of the dollar amounts set forth in section 207(c)(3) of the National Housing Act, except that such limitations may be increased by the Corporation (taking into account construction costs) to not to exceed 240 per centum of such dollar amounts in any geographical area for which the Secretary of Housing and Urban Development determines under such section that cost levels require any increase in the dollar amount limitations under such section.”
 
-Pub. L. 105–276, § 202(a), which directed the amendment of the first sentence of par. (2) by striking out “or” at end of cl. (B) and substituting “; or (D) the mortgage is subject to default loss protection that the Corporation determines is financially equal or superior, on an individual or pooled basis, to the protection provided by clause (C) of this sentence: *Provided*, That if the Director of the Office of Federal Housing Enterprise Oversight subsequently finds that such default loss protection determined by the Corporation does not provide such equal or superior protection, the Corporation shall provide such additional default loss protection for such mortgage, as approved by the Director of the Office of Federal Housing Enterprise Oversight, necessary to provide such equal or superior protection.” for the period at end, was repealed by Pub. L. 105–277, effective upon enactment of Pub. L. 105–276.
+Pub. L. 105–276, § 202(a), which directed the amendment of the first sentence of par. (2) by striking out “or” at end of cl. (B) and substituting “; or (D) the mortgage is subject to default loss protection that the Corporation determines is financially equal or superior, on an individual or pooled basis, to the protection provided by clause (C) of this sentence: *Provided*, That if the Director of the Office of Federal Housing Enterprise Oversight subsequently finds that such default loss protection determined by the Corporation does not provide such equal or superior protection, the Corporation shall provide such additional default loss protection for such mortgage, as approved by the Director of the Office of Federal Housing Enterprise Oversight, necessary to provide such equal or superior protection.” for the period at end, was repealed by Pub. L. 105–277, effective upon enactment of Pub. L. 105–276.
 
-1992—Subsec. (a)(1). Pub. L. 102–550, § 1382(j), in first sentence, substituted a period for “from any Federal home loan bank, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, the National Credit Union Administration, any member of a Federal home loan bank, or any other financial institution the deposits or accounts of which are insured by an agency of the United States, or from any financial institution the deposits or accounts of which are insured under the laws of any State if the total amount of time and savings deposits held in all such institutions in that State is more than 20 per centum of the total amount of such deposits in all banks, building and loan, savings and loan, and homestead associations (including cooperative banks) in that State or from any mortgagee approved by the Secretary of Housing and Urban Development for participation in any mortgage insurance program under the National Housing Act or from any public utility carrying out activities in accordance with the requirements of title II of the National Energy Conservation Policy Act if the residential mortgage to be purchased is a loan or advance of credit the original proceeds of which are applied for in order to finance the purchase and installation of residential energy conservation measures (as defined in section 210(11) of the National Energy Conservation Policy Act) in residential real estate.” and in second sentence, substituted a period for “, and the servicing on any such mortgage may be performed by the seller or by a financial institution qualified as a seller under the provisions of the preceding sentence, or by a mortgagee approved by the Secretary of Housing and Urban Development for participation in any mortgage insurance program under the National Housing Act, with which institution or mortgagee the seller may contract.”
+1992—Subsec. (a)(1). Pub. L. 102–550, § 1382(j), in first sentence, substituted a period for “from any Federal home loan bank, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, the National Credit Union Administration, any member of a Federal home loan bank, or any other financial institution the deposits or accounts of which are insured by an agency of the United States, or from any financial institution the deposits or accounts of which are insured under the laws of any State if the total amount of time and savings deposits held in all such institutions in that State is more than 20 per centum of the total amount of such deposits in all banks, building and loan, savings and loan, and homestead associations (including cooperative banks) in that State or from any mortgagee approved by the Secretary of Housing and Urban Development for participation in any mortgage insurance program under the National Housing Act or from any public utility carrying out activities in accordance with the requirements of title II of the National Energy Conservation Policy Act if the residential mortgage to be purchased is a loan or advance of credit the original proceeds of which are applied for in order to finance the purchase and installation of residential energy conservation measures (as defined in section 210(11) of the National Energy Conservation Policy Act) in residential real estate.” and in second sentence, substituted a period for “, and the servicing on any such mortgage may be performed by the seller or by a financial institution qualified as a seller under the provisions of the preceding sentence, or by a mortgagee approved by the Secretary of Housing and Urban Development for participation in any mortgage insurance program under the National Housing Act, with which institution or mortgagee the seller may contract.”
 
-Subsec. (a)(2). Pub. L. 102–550, § 1382(k), substituted “Hawaii, and the Virgin Islands” for “and Hawaii” in last sentence.
+Subsec. (a)(2). Pub. L. 102–550, § 1382(k), substituted “Hawaii, and the Virgin Islands” for “and Hawaii” in last sentence.
 
-Subsec. (c). Pub. L. 102–550, § 1382(*l*), (m), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Board of Directors may not impose any annual limitation on the maximum aggregate principal amount of mortgages purchased by the Corporation.”
+Subsec. (c). Pub. L. 102–550, § 1382(*l*), (m), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Board of Directors may not impose any annual limitation on the maximum aggregate principal amount of mortgages purchased by the Corporation.”
 
-1989—Subsec. (a)(1). Pub. L. 101–73, § 731(e)(1), (f)(2)(A), substituted “Resolution Trust Corporation” for “Federal Savings and Loan Insurance Corporation” and inserted at end “Nothing in this section authorizes the Corporation to impose any charge or fee upon any mortgagee approved by the Secretary of Housing and Urban Development for participation in any mortgage insurance program under the National Housing Act solely because of such status.”
+1989—Subsec. (a)(1). Pub. L. 101–73, § 731(e)(1), (f)(2)(A), substituted “Resolution Trust Corporation” for “Federal Savings and Loan Insurance Corporation” and inserted at end “Nothing in this section authorizes the Corporation to impose any charge or fee upon any mortgagee approved by the Secretary of Housing and Urban Development for participation in any mortgage insurance program under the National Housing Act solely because of such status.”
 
-Subsec. (a)(2). Pub. L. 101–73, § 731(f)(2), substituted “Resolution Trust Corporation” for “Federal Savings and Loan Insurance Corporation” and “Federal Housing Finance Board” for “Federal Home Loan Bank Board”.
+Subsec. (a)(2). Pub. L. 101–73, § 731(f)(2), substituted “Resolution Trust Corporation” for “Federal Savings and Loan Insurance Corporation” and “Federal Housing Finance Board” for “Federal Home Loan Bank Board”.
 
-Subsec. (a)(5). Pub. L. 101–73, § 731(e)(2), added par. (5).
+Subsec. (a)(5). Pub. L. 101–73, § 731(e)(2), added par. (5).
 
-Subsec. (b). Pub. L. 101–73, § 731(f)(2)(A), substituted “Resolution Trust Corporation” for “Federal Savings and Loan Insurance Corporation”.
+Subsec. (b). Pub. L. 101–73, § 731(f)(2)(A), substituted “Resolution Trust Corporation” for “Federal Savings and Loan Insurance Corporation”.
 
-1988—Subsec. (a)(4)(A)(i). Pub. L. 100–242, § 443(b), struck out “through March 15, 1988,” before “residential mortgages”.
+1988—Subsec. (a)(4)(A)(i). Pub. L. 100–242, § 443(b), struck out “through March 15, 1988,” before “residential mortgages”.
 
 Subsec. (a)(4)(A)(ii). Pub. L. 100–628 struck out “until October 1, 1985,” before “residential mortgages”.
 
-Subsec. (c). Pub. L. 100–242, § 445, added subsec. (c).
+Subsec. (c). Pub. L. 100–242, § 445, added subsec. (c).
 
 1987—Subsec. (a)(4)(A)(i). Pub. L. 100–200 substituted “March 15, 1988” for “December 16, 1987”.
 
@@ -427,21 +427,21 @@ Pub. L. 100–154 substituted “November 15, 1987” for “October 31, 1987”
 
 Pub. L. 100–122 substituted “through October 31, 1987” for “until October 1, 1987”.
 
-1984—Subsec. (a)(2). Pub. L. 98–440, § 205(b), which directed insertion of “secured by a property comprising one- to four-family dwelling units” after “mortgages” where first appearing in first sentence was executed by inserting that phrase after “No conventional mortgage” as the probable intent of Congress.
+1984—Subsec. (a)(2). Pub. L. 98–440, § 205(b), which directed insertion of “secured by a property comprising one- to four-family dwelling units” after “mortgages” where first appearing in first sentence was executed by inserting that phrase after “No conventional mortgage” as the probable intent of Congress.
 
-Pub. L. 98–440, § 201(b), substituted “The Corporation shall establish limitations governing the maximum original principal obligation of conventional mortgages that are purchased by it; in any case in which the Corporation purchases a participation interest in such a mortgage, the limitation shall be calculated with respect to the total original principal obligation of the mortgage and not merely with respect to the interest purchased by the Corporation” for “The Corporation shall establish limitations governing the maximum principal obligation of conventional mortgages purchased by it”.
+Pub. L. 98–440, § 201(b), substituted “The Corporation shall establish limitations governing the maximum original principal obligation of conventional mortgages that are purchased by it; in any case in which the Corporation purchases a participation interest in such a mortgage, the limitation shall be calculated with respect to the total original principal obligation of the mortgage and not merely with respect to the interest purchased by the Corporation” for “The Corporation shall establish limitations governing the maximum principal obligation of conventional mortgages purchased by it”.
 
-Pub. L. 98–440, § 206(b), inserted provision that the limitations set forth in section 1713(c)(3) of this title may be increased by the Corporation (taking into account construction costs) to not to exceed 240 per centum of such dollar amounts in any geographical area for which the Secretary of Housing and Urban Development determines under such section that cost levels required any increase in the dollar amount limitations under such section.
+Pub. L. 98–440, § 206(b), inserted provision that the limitations set forth in section 1713(c)(3) of this title may be increased by the Corporation (taking into account construction costs) to not to exceed 240 per centum of such dollar amounts in any geographical area for which the Secretary of Housing and Urban Development determines under such section that cost levels required any increase in the dollar amount limitations under such section.
 
-Subsec. (a)(4). Pub. L. 98–440, § 203(b)(2), added par. (4).
+Subsec. (a)(4). Pub. L. 98–440, § 203(b)(2), added par. (4).
 
-1981—Subsec. (a)(1). Pub. L. 97–110, § 203, added the Federal Deposit Insurance Corporation and the National Credit Union Administration to the enumeration of agencies from which the Federal Home Loan Mortgage Corporation is authorized to purchase residential mortgages.
+1981—Subsec. (a)(1). Pub. L. 97–110, § 203, added the Federal Deposit Insurance Corporation and the National Credit Union Administration to the enumeration of agencies from which the Federal Home Loan Mortgage Corporation is authorized to purchase residential mortgages.
 
-Subsec. (a)(2). Pub. L. 97–110, § 202(a), substituted provisions authorizing the Corporation to purchase a conventional mortgage which was originated more than one year prior to the purchase date only if the seller is the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, the National Credit Union Administration, or any other seller currently engaged in mortgage lending or investing activities for provisions which had authorized the Corporation to purchase a conventional mortgage which was originated more than one year prior to the purchase date only if the seller was currently engaged in mortgage lending or investing activities and if, as a result thereof, the cumulative aggregate of the principal balances of all conventional mortgages purchased by the Corporation which were originated more than one year prior to the date of purchases did not exceed 20 per centum of the cumulative aggregate of the principal balances of all conventional mortgages purchased by the Corporation.
+Subsec. (a)(2). Pub. L. 97–110, § 202(a), substituted provisions authorizing the Corporation to purchase a conventional mortgage which was originated more than one year prior to the purchase date only if the seller is the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, the National Credit Union Administration, or any other seller currently engaged in mortgage lending or investing activities for provisions which had authorized the Corporation to purchase a conventional mortgage which was originated more than one year prior to the purchase date only if the seller was currently engaged in mortgage lending or investing activities and if, as a result thereof, the cumulative aggregate of the principal balances of all conventional mortgages purchased by the Corporation which were originated more than one year prior to the date of purchases did not exceed 20 per centum of the cumulative aggregate of the principal balances of all conventional mortgages purchased by the Corporation.
 
-Pub. L. 97–110, § 202(b)(1), inserted provision that, with respect to any transaction in which a seller contemporaneously sells mortgages originated more than one year old prior to the date of sale to the Corporation and receives in payment for such mortgages securities representing undivided interests only in those mortgages, the Corporation shall not impose any fee or charge upon an eligible seller which is not a member of a Federal Home Loan Bank which differs from that imposed upon an eligible seller which is such a member.
+Pub. L. 97–110, § 202(b)(1), inserted provision that, with respect to any transaction in which a seller contemporaneously sells mortgages originated more than one year old prior to the date of sale to the Corporation and receives in payment for such mortgages securities representing undivided interests only in those mortgages, the Corporation shall not impose any fee or charge upon an eligible seller which is not a member of a Federal Home Loan Bank which differs from that imposed upon an eligible seller which is such a member.
 
-Subsec. (b). Pub. L. 97–110, § 203, added the Federal Deposit Insurance Corporation and the National Credit Union Administration to the enumeration of agencies having the authority to enter into and to perform and carry out transactions and matters referred to in this section.
+Subsec. (b). Pub. L. 97–110, § 203, added the Federal Deposit Insurance Corporation and the National Credit Union Administration to the enumeration of agencies having the authority to enter into and to perform and carry out transactions and matters referred to in this section.
 
 1980—Subsec. (a)(1). Pub. L. 96–294 inserted provisions relating to public utilities carrying out activities in accordance with the requirements of title II of the National Energy Conservation Policy Act.
 
@@ -453,39 +453,39 @@ Subsec. (a)(2). Pub. L. 96–399 inserted provisions setting forth limitations r
 
 1974—Subsec. (a)(1). Pub. L. 93–495 inserted provisions relating to State insurance of deposits or accounts in financial institutions.
 
-Pub. L. 93–383, § 805(a), substituted “. The Corporation may hold” for “, and to hold” and inserted provisions relating to the servicing of any such mortgage by the seller or qualified financial institution.
+Pub. L. 93–383, § 805(a), substituted “. The Corporation may hold” for “, and to hold” and inserted provisions relating to the servicing of any such mortgage by the seller or qualified financial institution.
 
-Subsec. (a)(2). Pub. L. 93–383, § 805(b), substituted “80” for “75” in two places and “not exceed 20” for “not exceed 10”, struck out “private” before “insurer” in cl. (C), and substituted provisions relating to limitations contained in first proviso of first sentence of section 1464(c) of this title, for provisions relating to limitations applicable if the mortgage were insured by the Secretary under section 1709(b) or 1713 of this title.
+Subsec. (a)(2). Pub. L. 93–383, § 805(b), substituted “80” for “75” in two places and “not exceed 20” for “not exceed 10”, struck out “private” before “insurer” in cl. (C), and substituted provisions relating to limitations contained in first proviso of first sentence of section 1464(c) of this title, for provisions relating to limitations applicable if the mortgage were insured by the Secretary under section 1709(b) or 1713 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–174, title III, § 310(d), May 24, 2018, 132 Stat. 1355, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1717 of this title] shall take effect on the date that is 180 days after the date of enactment of this Act [May 24, 2018].”
+Pub. L. 115–174, title III, § 310(d), May 24, 2018, 132 Stat. 1355, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1717 of this title] shall take effect on the date that is 180 days after the date of enactment of this Act [May 24, 2018].”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–289, div. A, title I, § 1124(b)(3), July 30, 2008, 122 Stat. 2693, provided that: “The amendments made by paragraphs (1) and (2) of this subsection [amending this section] shall take effect upon the expiration of the date described in section 201(a) of the Economic Stimulus Act of 2008 (Public Law 110–185) [122 Stat. 619; probably means Dec. 31, 2008].”
+Pub. L. 110–289, div. A, title I, § 1124(b)(3), July 30, 2008, 122 Stat. 2693, provided that: “The amendments made by paragraphs (1) and (2) of this subsection [amending this section] shall take effect upon the expiration of the date described in section 201(a) of the Economic Stimulus Act of 2008 (Public Law 110–185) [122 Stat. 619; probably means Dec. 31, 2008].”
 
 **Effective Date of 1998 Amendments**
 
-Pub. L. 105–277, div. A, § 122, Oct. 21, 1998, 112 Stat. 2681–546, provided that the amendment made by section 122 is effective upon enactment of Pub. L. 105–276 (Oct. 21, 1998).
+Pub. L. 105–277, div. A, § 122, Oct. 21, 1998, 112 Stat. 2681–546, provided that the amendment made by section 122 is effective upon enactment of Pub. L. 105–276 (Oct. 21, 1998).
 
 Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of Title 42, The Public Health and Welfare.
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–110, title II, § 202(b)(2), Dec. 26, 1981, 95 Stat. 1514, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on January 1, 1982, and shall apply to commitments entered into on or after such date.”
+Pub. L. 97–110, title II, § 202(b)(2), Dec. 26, 1981, 95 Stat. 1514, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on January 1, 1982, and shall apply to commitments entered into on or after such date.”
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–557, title III, § 321(c), Oct. 31, 1978, 92 Stat. 2102, provided: “The amendments made by this section [amending this section] shall become effective at the end of the two hundred and ten calendar days after enactment of this Act [Oct. 31, 1978], but not before January 31, 1979, or on such earlier date as the Federal Home Loan Mortgage Corporation may prescribe.”
+Pub. L. 95–557, title III, § 321(c), Oct. 31, 1978, 92 Stat. 2102, provided: “The amendments made by this section [amending this section] shall become effective at the end of the two hundred and ten calendar days after enactment of this Act [Oct. 31, 1978], but not before January 31, 1979, or on such earlier date as the Federal Home Loan Mortgage Corporation may prescribe.”
 
 **Savings Provision**
 
-Pub. L. 105–276, title V, § 582(b), Oct. 21, 1998, 112 Stat. 2644, provided that: “Except to the extent otherwise provided in this Act [see Tables for classification], the repeals made by subsection (a) [amending this section and section 1717 of this title, repealing sections 1437a–1, 1437j–1, 1438, and 11903a of Title 42, The Public Health and Welfare, amending provisions set out as a note under section 1437f of Title 42, and repealing provisions set out as notes under section 1701z–6 of this title and sections 1437f, 1437g, and 1437t of Title 42] shall not affect any legally binding obligations entered into before the effective date under section 503(a) of this Act [set out as a note under section 1437 of Title 42].”
+Pub. L. 105–276, title V, § 582(b), Oct. 21, 1998, 112 Stat. 2644, provided that: “Except to the extent otherwise provided in this Act [see Tables for classification], the repeals made by subsection (a) [amending this section and section 1717 of this title, repealing sections 1437a–1, 1437j–1, 1438, and 11903a of Title 42, The Public Health and Welfare, amending provisions set out as a note under section 1437f of Title 42, and repealing provisions set out as notes under section 1701z–6 of this title and sections 1437f, 1437g, and 1437t of Title 42] shall not affect any legally binding obligations entered into before the effective date under section 503(a) of this Act [set out as a note under section 1437 of Title 42].”
 
-## § 1455. Obligations and securities of the Corporation
+## § 1455. Obligations and securities of the Corporation
 
 **(a) Authority to issue; terms and conditions; validity**
 
@@ -535,9 +535,9 @@ All securities issued or guaranteed by the Corporation (other than securities gu
 
 **(i) Prohibition on assessment or collection of fee or charge by United States**
 
-Except for fees paid pursuant to sections 1452(c) 1
+Except for fees paid pursuant to sections 1452(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and 1455(c) of this title and assessments pursuant to section 4516 of this title, no fee or charge may be assessed or collected by the United States (including any executive department, agency, or independent establishment of the United States) on or with regard to the purchase, acquisition, sale, pledge, issuance, guarantee, or redemption of any mortgage, asset, obligation, or other security by the Corporation. No provision of this subsection shall affect the purchase of any obligation by any Federal home loan bank pursuant to section 1452(a) of this title.
 
@@ -621,13 +621,13 @@ The authority under this subsection (*l*), with the exception of paragraphs (2) 
 
 The Director shall have the power to approve, disapprove, or modify the executive compensation of the Corporation, as defined under Regulation S-K, 17 C.F.R. 229.
 
-(Pub. L. 91–351, title III, § 306, July 24, 1970, 84 Stat. 455; Pub. L. 96–153, title III, § 316(a), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 97–289, § 6, Oct. 6, 1982, 96 Stat. 1232; Pub. L. 98–35, § 5, May 26, 1983, 97 Stat. 198; Pub. L. 98–440, title II, §§ 210, 211, Oct. 3, 1984, 98 Stat. 1697; Pub. L. 100–242, title IV, § 441(b), Feb. 5, 1988, 101 Stat. 1921; Pub. L. 101–73, title VII, § 731(g)–(i), Aug. 9, 1989, 103 Stat. 434; Pub. L. 102–550, title XIII, § 1382(n), Oct. 28, 1992, 106 Stat. 4005; Pub. L. 110–289, div. A, title I, §§ 1117(b), 1161(c)(2), July 30, 2008, 122 Stat. 2684, 2780; Pub. L. 111–203, title XIII, § 1304(b), July 21, 2010, 124 Stat. 2134.)
+(Pub. L. 91–351, title III, § 306, July 24, 1970, 84 Stat. 455; Pub. L. 96–153, title III, § 316(a), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 97–289, § 6, Oct. 6, 1982, 96 Stat. 1232; Pub. L. 98–35, § 5, May 26, 1983, 97 Stat. 198; Pub. L. 98–440, title II, §§ 210, 211, Oct. 3, 1984, 98 Stat. 1697; Pub. L. 100–242, title IV, § 441(b), Feb. 5, 1988, 101 Stat. 1921; Pub. L. 101–73, title VII, § 731(g)–(i), Aug. 9, 1989, 103 Stat. 434; Pub. L. 102–550, title XIII, § 1382(n), Oct. 28, 1992, 106 Stat. 4005; Pub. L. 110–289, div. A, title I, §§ 1117(b), 1161(c)(2), July 30, 2008, 122 Stat. 2684, 2780; Pub. L. 111–203, title XIII, § 1304(b), July 21, 2010, 124 Stat. 2134.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1452(c) of this title, referred to in subsec. (i), was redesignated section 1452(d) of this title by Pub. L. 101–73, title VII, § 731(c)(1), Aug. 9, 1989, 103 Stat. 431.
+Section 1452(c) of this title, referred to in subsec. (i), was redesignated section 1452(d) of this title by Pub. L. 101–73, title VII, § 731(c)(1), Aug. 9, 1989, 103 Stat. 431.
 
 This chapter, referred to in subsec. (*l*)(1)(A), was in the original “this Act” and has been translated as reading “this title”, meaning title III of Pub. L. 91–351, to reflect the probable intent of Congress.
 
@@ -635,31 +635,31 @@ This chapter, referred to in subsec. (*l*)(1)(A), was in the original “this Ac
 
 2010—Subsec. (*l*)(2)(C), (D). Pub. L. 111–203 added subpar. (C) and redesignated former subpar. (C) as (D).
 
-2008—Subsec. (c)(2). Pub. L. 110–289, § 1161(c)(2)(A), inserted “the” after “Secretary of”.
+2008—Subsec. (c)(2). Pub. L. 110–289, § 1161(c)(2)(A), inserted “the” after “Secretary of”.
 
-Subsec. (i). Pub. L. 110–289, § 1161(c)(2)(B)(ii), made technical amendment to reference in original act which appears in text as reference to section 4516 of this title.
+Subsec. (i). Pub. L. 110–289, § 1161(c)(2)(B)(ii), made technical amendment to reference in original act which appears in text as reference to section 4516 of this title.
 
-Pub. L. 110–289, § 1161(c)(2)(B)(i), made technical amendment to reference in original act which appears in text as reference to section 1455(c) of this title. Amendment was given effect, notwithstanding error in directory language which directed substitution of “section 306(c)” for “section 1316(c)” in the original.
+Pub. L. 110–289, § 1161(c)(2)(B)(i), made technical amendment to reference in original act which appears in text as reference to section 1455(c) of this title. Amendment was given effect, notwithstanding error in directory language which directed substitution of “section 306(c)” for “section 1316(c)” in the original.
 
-Subsec. (j)(2). Pub. L. 110–289, § 1161(c)(2)(C), substituted “or substantially” for “of substantially”.
+Subsec. (j)(2). Pub. L. 110–289, § 1161(c)(2)(C), substituted “or substantially” for “of substantially”.
 
-Subsec. (*l*). Pub. L. 110–289, § 1117(b), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 110–289, § 1117(b), added subsec. (*l*).
 
-1992—Subsec. (h). Pub. L. 102–550, § 1382(n)(1), designated existing provisions as par. (1) and added par. (2).
+1992—Subsec. (h). Pub. L. 102–550, § 1382(n)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (i). Pub. L. 102–550, § 1382(n)(2), substituted “sections 1452(c) and 1455(c) of this title and assessments pursuant to section 4516 of this title” for “section 1452(c) or 1455(c) of this title”.
+Subsec. (i). Pub. L. 102–550, § 1382(n)(2), substituted “sections 1452(c) and 1455(c) of this title and assessments pursuant to section 4516 of this title” for “section 1452(c) or 1455(c) of this title”.
 
-1989—Subsec. (c). Pub. L. 101–73, § 731(g), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Federal home loan banks shall, to such extent as the Board of Directors may prescribe, guarantee the faithful and timely performance by the Corporation of any obligation or undertaking of the Corporation on or with respect to any security (which term as used in this sentence shall not include the capital stock referred to in section 1453 of this title).”
+1989—Subsec. (c). Pub. L. 101–73, § 731(g), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Federal home loan banks shall, to such extent as the Board of Directors may prescribe, guarantee the faithful and timely performance by the Corporation of any obligation or undertaking of the Corporation on or with respect to any security (which term as used in this sentence shall not include the capital stock referred to in section 1453 of this title).”
 
-Subsec. (f). Pub. L. 101–73, § 731(h), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Corporation may have preferred stock on such terms and conditions as the Board of Directors shall prescribe. Any preferred stock shall not affect the status of the capital stock issued under section 1453 of this title as nonvoting common stock, and shall not be entitled to vote with respect to the election of any member of the Board of Directors. Such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except that this sentence does not apply to any preferred stock, or class thereof, the initial sale of which is made directly or indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.”
+Subsec. (f). Pub. L. 101–73, § 731(h), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Corporation may have preferred stock on such terms and conditions as the Board of Directors shall prescribe. Any preferred stock shall not affect the status of the capital stock issued under section 1453 of this title as nonvoting common stock, and shall not be entitled to vote with respect to the election of any member of the Board of Directors. Such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except that this sentence does not apply to any preferred stock, or class thereof, the initial sale of which is made directly or indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.”
 
-Subsecs. (j), (k). Pub. L. 101–73, § 731(i), added subsecs. (j) and (k).
+Subsecs. (j), (k). Pub. L. 101–73, § 731(i), added subsecs. (j) and (k).
 
 1988—Subsec. (i). Pub. L. 100–242 added subsec. (i).
 
-1984—Subsec. (f). Pub. L. 98–440, § 211, inserted provisions that preferred stock shall not be entitled to vote with respect to the election of any member of the Board of Directors and that such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except for any preferred stock, or class thereof, the initial sale of which is made directly or indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.
+1984—Subsec. (f). Pub. L. 98–440, § 211, inserted provisions that preferred stock shall not be entitled to vote with respect to the election of any member of the Board of Directors and that such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except for any preferred stock, or class thereof, the initial sale of which is made directly or indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.
 
-Subsec. (h). Pub. L. 98–440, § 210, added subsec. (h).
+Subsec. (h). Pub. L. 98–440, § 210, added subsec. (h).
 
 1983—Subsec. (g). Pub. L. 98–35 added subsec. (g).
 
@@ -675,7 +675,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Repayment of Fees**
 
-Pub. L. 111–203, title XIII, § 1304(d), July 21, 2010, 124 Stat. 2134, provided that:
+Pub. L. 111–203, title XIII, § 1304(d), July 21, 2010, 124 Stat. 2134, provided that:
 
 > “Any periodic commitment fee or any other fee or assessment paid by the Federal National Mortgage Association or Federal Home Loan Mortgage Corporation to the Secretary of the Treasury as a result of any preferred stock purchase agreement, mortgage-backed security purchase program, or any other program or activity authorized or carried out pursuant to the authorities granted to the Secretary of the Treasury under section 1117 of the Housing and Economic Recovery Act of 2008 (Public Law 110–289; 122 Stat. 2683) [amending this section and sections 1431 and 1719 of this title], including any fee agreed to by contract between the Secretary and the Association or Corporation, shall be deposited in the General Fund of the Treasury where such amounts shall be—
 
@@ -685,7 +685,7 @@ Pub. L. 111–203, title XIII, § 1304(d), July 21, 2010, 124 Stat. 2134, prov
 
 [For definitions of terms used in section 1304(d) of Pub. L. 111–203, set out above, see section 5301 of this title.]
 
-## § 1456. Immunity of Corporation; audits and reporting requirements; data collection; Housing Advisory Council
+## § 1456. Immunity of Corporation; audits and reporting requirements; data collection; Housing Advisory Council
 
 **(a) Rights and remedies of Corporation; State qualifications or similar statutes**
 
@@ -803,31 +803,31 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 **(2)** The Affordable Housing Advisory Council shall consist of 15 individuals, who shall include representatives of community-based and other nonprofit and for-profit organizations and State and local government agencies actively engaged in the promotion, development, or financing of housing for low- and moderate-income families.
 
-(Pub. L. 91–351, title III, § 307, July 24, 1970, 84 Stat. 456; Pub. L. 101–73, title VII, § 731(j)(1), Aug. 9, 1989, 103 Stat. 435; Pub. L. 102–550, title XIII, § 1382(*o*)–(t), Oct. 28, 1992, 106 Stat. 4005–4008; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, § 1161(c)(1), (3), July 30, 2008, 122 Stat. 2780.)
+(Pub. L. 91–351, title III, § 307, July 24, 1970, 84 Stat. 456; Pub. L. 101–73, title VII, § 731(j)(1), Aug. 9, 1989, 103 Stat. 435; Pub. L. 102–550, title XIII, § 1382(*o*)–(t), Oct. 28, 1992, 106 Stat. 4005–4008; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, § 1161(c)(1), (3), July 30, 2008, 122 Stat. 2780.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (f)(1), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941. Subpart B of part 2 of subtitle A of the Act is classified generally to subpart 2 (§ 4561 et seq.) of part B of subchapter I of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
+The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (f)(1), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941. Subpart B of part 2 of subtitle A of the Act is classified generally to subpart 2 (§ 4561 et seq.) of part B of subchapter I of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
 
 **Amendments**
 
-2008—Subsec. (c)(1). Pub. L. 110–289, § 1161(c)(1), substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
+2008—Subsec. (c)(1). Pub. L. 110–289, § 1161(c)(1), substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
 
-Subsec. (e)(1), (2). Pub. L. 110–289, § 1161(c)(3)(A), substituted “to the Director of the Federal Housing Finance Agency, in a form determined by the Director” for “to the Secretary, in a form determined by the Secretary” in introductory provisions.
+Subsec. (e)(1), (2). Pub. L. 110–289, § 1161(c)(3)(A), substituted “to the Director of the Federal Housing Finance Agency, in a form determined by the Director” for “to the Secretary, in a form determined by the Secretary” in introductory provisions.
 
-Subsec. (f)(1). Pub. L. 110–289, § 1161(c)(3)(B)(i), substituted “and the Director of the Federal Housing Finance Agency” for “and the Secretary”.
+Subsec. (f)(1). Pub. L. 110–289, § 1161(c)(3)(B)(i), substituted “and the Director of the Federal Housing Finance Agency” for “and the Secretary”.
 
-Subsec. (f)(2)(E), (L). Pub. L. 110–289, § 1161(c)(3)(B)(ii), substituted “the Director of the Federal Housing Finance Agency” for “the Secretary”.
+Subsec. (f)(2)(E), (L). Pub. L. 110–289, § 1161(c)(3)(B)(ii), substituted “the Director of the Federal Housing Finance Agency” for “the Secretary”.
 
-Subsec. (f)(3)(B). Pub. L. 110–289, § 1161(c)(3)(B)(iii), substituted “Director of the Federal Housing Finance Agency” for “Secretary”.
+Subsec. (f)(3)(B). Pub. L. 110–289, § 1161(c)(3)(B)(iii), substituted “Director of the Federal Housing Finance Agency” for “Secretary”.
 
 2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 
-1992—Subsec. (b). Pub. L. 102–550, § 1382(*o*), designated existing provisions as par. (1), substituted “The programs, activities, receipts, expenditures, and financial transactions of the Corporation shall be subject to audit by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General.” for “The financial transactions of the Corporation shall be subject to audit by the General Accounting Office in accordance with the principles and procedures applicable to commercial corporate transactions under such rules and regulations as may be prescribed by the Comptroller General of the United States.”, and added par. (2).
+1992—Subsec. (b). Pub. L. 102–550, § 1382(*o*), designated existing provisions as par. (1), substituted “The programs, activities, receipts, expenditures, and financial transactions of the Corporation shall be subject to audit by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General.” for “The financial transactions of the Corporation shall be subject to audit by the General Accounting Office in accordance with the principles and procedures applicable to commercial corporate transactions under such rules and regulations as may be prescribed by the Comptroller General of the United States.”, and added par. (2).
 
-Subsecs. (c) to (g). Pub. L. 102–550, § 1382(p)–(t), added subsecs. (c) to (g).
+Subsecs. (c) to (g). Pub. L. 102–550, § 1382(p)–(t), added subsecs. (c) to (g).
 
 1989—Subsec. (a). Pub. L. 101–73 substituted “The Corporation is authorized to conduct its business without regard to any qualification or similar statute in any State.” for “The Corporation shall be entitled to all immunities and priorities, including without limitation on the generality of the foregoing all immunities and priorities under any such law or action, to which it would be entitled if it were the United States or if it were an unincorporated agency of the United States.”
 
@@ -839,17 +839,17 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–73, title VII, § 731(j)(2), Aug. 9, 1989, 103 Stat. 435, provided that: “The amendment made by this subsection [amending this section] shall not apply to any assertion of priority by the Federal Home Loan Mortgage Corporation with respect to any cause of action or claim filed before the date of the enactment of this Act [Aug. 9, 1989].”
+Pub. L. 101–73, title VII, § 731(j)(2), Aug. 9, 1989, 103 Stat. 435, provided that: “The amendment made by this subsection [amending this section] shall not apply to any assertion of priority by the Federal Home Loan Mortgage Corporation with respect to any cause of action or claim filed before the date of the enactment of this Act [Aug. 9, 1989].”
 
 **Termination of Advisory Councils**
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-## § 1457. Prohibited activities; penalties for violations by organizations, officers and members of organizations, and individuals
+## § 1457. Prohibited activities; penalties for violations by organizations, officers and members of organizations, and individuals
 
 Except as expressly authorized by statute of the United States, no individual or organization (except the Corporation) shall use the term “Federal Home Loan Mortgage Corporation”, or any combination of words including the words “Federal”, and “Home Loan”, and “Mortgage”, as a name or part thereof under which any individual or organization does any business, but this sentence shall not make unlawful the use of any name under which business is being done on July 24, 1970. No individual or organization shall use or display (1) any sign, device, or insigne prescribed or approved by the Corporation for use or display by the Corporation or by members of the Federal home loan banks, (2) any copy, reproduction, or colorable imitation of any such sign, device, or insigne, or (3) any sign, device, or insigne reasonably calculated to convey the impression that it is a sign, device, or insigne used by the Corporation or prescribed or approved by the Corporation, contrary to regulations of the Corporation prohibiting, or limiting or restricting, such use or display by such individual or organization. An organization violating this subsection shall for each violation be punished by a fine of not more than $10,000. An officer or member of an organization participating or knowingly acquiescing in any violation of this subsection shall be punished by a fine of not more than $5,000 or imprisonment for not more than one year, or both. An individual violating this subsection shall for each violation be punished as set forth in the sentence next preceding this sentence.
 
-(Pub. L. 91–351, title III, § 308, July 24, 1970, 84 Stat. 456; Pub. L. 98–479, title II, § 204(h), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 101–73, title VII, § 731(k), Aug. 9, 1989, 103 Stat. 435.)
+(Pub. L. 91–351, title III, § 308, July 24, 1970, 84 Stat. 456; Pub. L. 98–479, title II, § 204(h), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 101–73, title VII, § 731(k), Aug. 9, 1989, 103 Stat. 435.)
 
 **Editorial Notes**
 
@@ -857,19 +857,19 @@ Except as expressly authorized by statute of the United States, no individual or
 
 1989—Pub. L. 101–73 struck out subsection (a) designation before “Except as expressly”, and struck out subsecs. (b) to (f) relating to applicability of criminal provisions of title 18, and defining terms construing such applicability.
 
-1984—Subsec. (f). Pub. L. 98–479 substituted “United States” for “United States Code” before “, except in a territorial sense”.
+1984—Subsec. (f). Pub. L. 98–479 substituted “United States” for “United States Code” before “, except in a territorial sense”.
 
-## § 1458. Territorial applicability
+## § 1458. Territorial applicability
 
 Notwithstanding any other law, this chapter shall be applicable to the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 
-(Pub. L. 91–351, title III, § 309, July 24, 1970, 84 Stat. 457.)
+(Pub. L. 91–351, title III, § 309, July 24, 1970, 84 Stat. 457.)
 
-## § 1459. Separability
+## § 1459. Separability
 
 Notwithstanding any other evidences of the intention of Congress, it is hereby declared to be the controlling intent of Congress that if any provision of this chapter, or the application thereof to any person or circumstances, is held invalid, the remainder of this chapter, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-(Pub. L. 91–351, title III, § 310, July 24, 1970, 84 Stat. 457; Pub. L. 101–73, title VII, § 731(*l*), Aug. 9, 1989, 103 Stat. 435.)
+(Pub. L. 91–351, title III, § 310, July 24, 1970, 84 Stat. 457; Pub. L. 101–73, title VII, § 731(*l*), Aug. 9, 1989, 103 Stat. 435.)
 
 **Editorial Notes**
 

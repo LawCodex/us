@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 15—ENHANCED BORDER SECURITY AND VISA ENTRY REFORM
 
-## § 1701. Definitions
+## § 1701. Definitions
 
 In this chapter:
 
@@ -71,7 +71,7 @@ The term “President” means the President of the United States, acting throug
 
 The term “USA PATRIOT Act” means the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (Public Law 107–56).
 
-(Pub. L. 107–173, § 2, May 14, 2002, 116 Stat. 544; Pub. L. 107–296, title XI, § 1112(c), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 108–293, title VI, § 619, Aug. 9, 2004, 118 Stat. 1062; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(Pub. L. 107–173, § 2, May 14, 2002, 116 Stat. 544; Pub. L. 107–296, title XI, § 1112(c), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 108–293, title VI, § 619, Aug. 9, 2004, 118 Stat. 1062; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 **Editorial Notes**
 
@@ -79,7 +79,7 @@ The term “USA PATRIOT Act” means the Uniting and Strengthening America by Pr
 
 This chapter, referred to in introductory provisions, was in the original “this Act”, meaning Pub. L. 107–173, May 14, 2002, 116 Stat. 543, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, referred to in par. (7), was Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272. Pub. L. 107–56 was renamed the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act by Pub. L. 109–177, title I, § 101(b), Mar. 9, 2006, 120 Stat. 194. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
+The Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, referred to in par. (7), was Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272. Pub. L. 107–56 was renamed the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act by Pub. L. 109–177, title I, § 101(b), Mar. 9, 2006, 120 Stat. 194. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 **Amendments**
 
@@ -103,7 +103,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 **Short Title**
 
-Pub. L. 107–173, § 1(a), May 14, 2002, 116 Stat. 543, provided that: “This Act [enacting this chapter, amending sections 1187, 1201, 1221, 1356, 1372, and 1379 of this title, enacting provisions set out as notes under section 1221 of this title, and amending provisions set out as notes under sections 1101, 1351, and 1365a of this title] may be cited as the ‘Enhanced Border Security and Visa Entry Reform Act of 2002’.”
+Pub. L. 107–173, § 1(a), May 14, 2002, 116 Stat. 543, provided that: “This Act [enacting this chapter, amending sections 1187, 1201, 1221, 1356, 1372, and 1379 of this title, enacting provisions set out as notes under section 1221 of this title, and amending provisions set out as notes under sections 1101, 1351, and 1365a of this title] may be cited as the ‘Enhanced Border Security and Visa Entry Reform Act of 2002’.”
 
 **Transfer of Functions**
 
@@ -117,7 +117,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **Achieving Operational Control on the Border**
 
-Pub. L. 109–367, § 2, Oct. 26, 2006, 120 Stat. 2638, provided that:
+Pub. L. 109–367, § 2, Oct. 26, 2006, 120 Stat. 2638, provided that:
 
 > **“(a) In General.—** Not later than 18 months after the date of the enactment of this Act [Oct. 26, 2006], the Secretary of Homeland Security shall take all actions the Secretary determines necessary and appropriate to achieve and maintain operational control over the entire international land and maritime borders of the United States, to include the following—
 
@@ -131,7 +131,7 @@ Pub. L. 109–367, § 2, Oct. 26, 2006, 120 Stat. 2638, provided that:
 
 **Border Surveillance**
 
-Pub. L. 108–458, title V, § 5201, Dec. 17, 2004, 118 Stat. 3733, provided that:
+Pub. L. 108–458, title V, § 5201, Dec. 17, 2004, 118 Stat. 3733, provided that:
 
 > **“(a) In General.—** Not later than 6 months after the date of enactment of this Act [Dec. 17, 2004], the Secretary of Homeland Security shall submit to the President and the appropriate committees of Congress a comprehensive plan for the systematic surveillance of the southwest border of the United States by remotely piloted aircraft.
 
@@ -167,7 +167,7 @@ Pub. L. 108–458, title V, § 5201, Dec. 17, 2004, 118 Stat. 3733, provided t
 
 ## SUBCHAPTER I—FUNDING
 
-### § 1711. Authorization of appropriations for hiring and training Government personnel
+### § 1711. Authorization of appropriations for hiring and training Government personnel
 
 **(a) Additional personnel**
 
@@ -185,7 +185,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 **(b) Authorization of appropriations for INS staffing**
 
-**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] In general** There are authorized to be appropriated for the Department of Justice such sums as may be necessary to provide an increase in the annual rate of basic pay effective October 1, 2002—
+**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] In general** There are authorized to be appropriated for the Department of Justice such sums as may be necessary to provide an increase in the annual rate of basic pay effective October 1, 2002—
 
 **(A)** for all journeyman Border Patrol agents and inspectors who have completed at least one year’s service and are receiving an annual rate of basic pay for positions at GS–9 of the General Schedule under section 5332 of title 5 from the annual rate of basic pay payable for positions at GS–9 of the General Schedule under such section 5332, to an annual rate of basic pay payable for positions at GS–11 of the General Schedule under such section 5332;
 
@@ -207,7 +207,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 **(4)** to expand the Carrier Consultant Program described in section 1225a(b) of this title.2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(d) Authorization of appropriations for consular functions**
 
@@ -223,7 +223,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 There are authorized to be appropriated for the Department of State such sums as may be necessary to carry out paragraph (1).
 
-(Pub. L. 107–173, title I, § 101, May 14, 2002, 116 Stat. 545.)
+(Pub. L. 107–173, title I, § 101, May 14, 2002, 116 Stat. 545.)
 
 **Editorial Notes**
 
@@ -239,7 +239,7 @@ Section 1225a(b) of this title, referred to in subsec. (c)(4), was in the origin
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1712. Authorization of appropriations for improvements in technology and infrastructure
+### § 1712. Authorization of appropriations for improvements in technology and infrastructure
 
 **(a) Funding of technology**
 
@@ -263,7 +263,7 @@ The Attorney General may, to the extent reasonable, increase land border fees fo
 
 There are authorized to be appropriated to the Immigration and Naturalization Service and the Department of State such sums as may be necessary to improve and expand facilities for use by the personnel of those agencies.
 
-(Pub. L. 107–173, title I, § 102, May 14, 2002, 116 Stat. 546.)
+(Pub. L. 107–173, title I, § 102, May 14, 2002, 116 Stat. 546.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -273,7 +273,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **Use of Ground Surveillance Technologies for Border Security**
 
-Pub. L. 109–13, div. B, title III, § 302, May 11, 2005, 119 Stat. 316, provided that:
+Pub. L. 109–13, div. B, title III, § 302, May 11, 2005, 119 Stat. 316, provided that:
 
 > **“(a) Pilot Program.—** Not later than 180 days after the date of the enactment of this division [May 11, 2005], the Under Secretary of Homeland Security for Science and Technology, in consultation with the Under Secretary of Homeland Security for Border and Transportation Security, the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection, and the Secretary of Defense, shall develop a pilot program to utilize, or increase the utilization of, ground surveillance technologies to enhance the border security of the United States. In developing the program, the Under Secretary shall—
 
@@ -359,7 +359,7 @@ Pub. L. 108–458, title V, subtitle A, Dec. 17, 2004, 118 Stat. 3732, provided 
 
 > “There is authorized to be appropriated such sums as may be necessary to carry out the pilot program under this subtitle.”
 
-### § 1713. Machine-readable visa fees
+### § 1713. Machine-readable visa fees
 
 **(a) Omitted**
 
@@ -375,7 +375,7 @@ The Department of State is authorized to charge a surcharge of $10, in addition 
 
 Notwithstanding any other provision of law, amounts collected as fees described in this section shall be deposited in the Consular and Border Security Programs account to recover costs of providing consular services. Amounts so credited shall be available, until expended, for the same purposes as the appropriation to which credited.
 
-(Pub. L. 107–173, title I, § 103, May 14, 2002, 116 Stat. 547; Pub. L. 115–31, div. J, title VII, § 7081(b), May 5, 2017, 131 Stat. 716.)
+(Pub. L. 107–173, title I, § 103, May 14, 2002, 116 Stat. 547; Pub. L. 115–31, div. J, title VII, § 7081(b), May 5, 2017, 131 Stat. 716.)
 
 **Editorial Notes**
 
@@ -387,11 +387,11 @@ Section is comprised of section 103 of Pub. L. 107–173. Subsec. (a) of section
 
 2017—Subsec. (d). Pub. L. 115–31 substituted “deposited in the Consular and Border Security Programs account” for “credited as an offsetting collection to any appropriation for the Department of State”.
 
-### § 1714. Surcharges related to consular services
+### § 1714. Surcharges related to consular services
 
 Beginning in fiscal year 2005 and thereafter, the Secretary of State is authorized to charge surcharges related to consular services in support of enhanced border security that are in addition to the passport and immigrant visa fees in effect on January 1, 2004: *Provided*, That funds collected pursuant to this authority shall be deposited in the Consular and Border Security Programs account, and shall be available until expended for the purposes of such account: *Provided further*, That such surcharges shall be $12 on passport fees, and $45 on immigrant visa fees.
 
-(Pub. L. 108–447, div. B, title IV, Dec. 8, 2004, 118 Stat. 2896; Pub. L. 115–31, div. J, title VII, § 7081(c), May 5, 2017, 131 Stat. 716.)
+(Pub. L. 108–447, div. B, title IV, Dec. 8, 2004, 118 Stat. 2896; Pub. L. 115–31, div. J, title VII, § 7081(c), May 5, 2017, 131 Stat. 716.)
 
 **Editorial Notes**
 
@@ -407,7 +407,7 @@ Section appears under the headings “Administration of Foreign Affairs” and �
 
 **Authority to Administratively Amend Surcharges**
 
-Pub. L. 109–472, § 6, Jan. 11, 2007, 120 Stat. 3555, provided that:
+Pub. L. 109–472, § 6, Jan. 11, 2007, 120 Stat. 3555, provided that:
 
 > **“(a) In General.—** Beginning in fiscal year 2007 and thereafter, the Secretary of State is authorized to amend administratively the amounts of the surcharges related to consular services in support of enhanced border security (provided for in the last paragraph under the heading ‘diplomatic and consular programs’ under title IV of division B of the Consolidated Appropriations Act, 2005 (Public Law 108–447) [this section]) that are in addition to the passport and immigrant visa fees in effect on January 1, 2004.
 
@@ -421,7 +421,7 @@ Pub. L. 109–472, § 6, Jan. 11, 2007, 120 Stat. 3555, provided that:
 
 > **“(4)** A surcharge shall be available for obligation and expenditure only to pay the costs related to consular services in support of enhanced border security incurred in providing services in connection with the activity or item for which the surcharge is charged.”
 
-### § 1715. Consular and Border Security Programs
+### § 1715. Consular and Border Security Programs
 
 **(a) Separate fund**
 
@@ -441,7 +441,7 @@ There is established in the Treasury a separate fund to be known as the “Consu
 
 The amendments made by this section shall take effect no later than October 1, 2018, and shall be implemented in a manner that ensures the fees collected, transferred, and used in fiscal year 2019 can be readily tracked.
 
-(Pub. L. 115–31, div. J, title VII, § 7081, May 5, 2017, 131 Stat. 716.)
+(Pub. L. 115–31, div. J, title VII, § 7081, May 5, 2017, 131 Stat. 716.)
 
 **Editorial Notes**
 
@@ -455,23 +455,23 @@ Section is comprised of section 7081 of title VII of div. J of Pub. L. 115–31.
 
 **Transfer of Balances**
 
-Pub. L. 119–75, div. F, title VII, § 7034(i)(2), Feb. 3, 2026, 140 Stat. 570, provided that: “Section 7081(h) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017 (division J of Public Law 115–31) [8 U.S.C. 1715(h)] shall continue in effect during fiscal year 2026.”
+Pub. L. 119–75, div. F, title VII, § 7034(i)(2), Feb. 3, 2026, 140 Stat. 570, provided that: “Section 7081(h) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017 (division J of Public Law 115–31) [8 U.S.C. 1715(h)] shall continue in effect during fiscal year 2026.”
 
 Similar provisions were contained in the following prior acts:
 
-Pub. L. 118–47, div. F, title VII, § 7034(k)(4), Mar. 23, 2024, 138 Stat. 791.
+Pub. L. 118–47, div. F, title VII, § 7034(k)(4), Mar. 23, 2024, 138 Stat. 791.
 
-Pub. L. 117–328, div. K, title VII, § 7034(*l*)(4), Dec. 29, 2022, 136 Stat. 5033.
+Pub. L. 117–328, div. K, title VII, § 7034(*l*)(4), Dec. 29, 2022, 136 Stat. 5033.
 
-Pub. L. 117–103, div. K, title VII, § 7034(*l*)(9), Mar. 15, 2022, 136 Stat. 624.
+Pub. L. 117–103, div. K, title VII, § 7034(*l*)(9), Mar. 15, 2022, 136 Stat. 624.
 
-Pub. L. 116–260, div. K, title VII, § 7034(*l*)(9), Dec. 27, 2020, 134 Stat. 1750.
+Pub. L. 116–260, div. K, title VII, § 7034(*l*)(9), Dec. 27, 2020, 134 Stat. 1750.
 
-Pub. L. 116–94, div. G, title VII, § 7034(*l*)(9), Dec. 20, 2019, 133 Stat. 2873.
+Pub. L. 116–94, div. G, title VII, § 7034(*l*)(9), Dec. 20, 2019, 133 Stat. 2873.
 
-Pub. L. 116–6, div. F, title VII, § 7034(m)(9), Feb. 15, 2019, 133 Stat. 327.
+Pub. L. 116–6, div. F, title VII, § 7034(m)(9), Feb. 15, 2019, 133 Stat. 327.
 
-### § 1716. State Border Security Reinforcement Fund
+### § 1716. State Border Security Reinforcement Fund
 
 **(1) Establishment**
 
@@ -503,15 +503,15 @@ Each State desiring to apply for a grant under this subsection shall submit an a
 
 Nothing in this subsection shall authorize any State or local government to exercise immigration or border security authorities reserved exclusively to the Federal Government under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) or the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.). The Federal Emergency Management Agency may use not more than 1 percent of the funds made available under this subsection for the purpose of administering grants provided for in this section.
 
-(Pub. L. 119–21, title IX, § 90005(b), July 4, 2025, 139 Stat. 360.)
+(Pub. L. 119–21, title IX, § 90005(b), July 4, 2025, 139 Stat. 360.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in par. (6), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in par. (6), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-The Homeland Security Act of 2002, referred to in par. (6), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
+The Homeland Security Act of 2002, referred to in par. (6), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
 
 **Codification**
 
@@ -521,7 +521,7 @@ Section was enacted as part of Pub. L. 119–21, July 4, 2025, 139 Stat. 72, pop
 
 ## SUBCHAPTER II—INTERAGENCY INFORMATION SHARING
 
-### § 1721. Interim measures for access to and coordination of law enforcement and other information
+### § 1721. Interim measures for access to and coordination of law enforcement and other information
 
 **(a) Interim directive**
 
@@ -559,21 +559,21 @@ In the preparation and implementation of the plan under this subsection, the Pre
 
 **(F)** in a manner that protects the sources and methods used to acquire intelligence information as required by section 403–3(c)(7) of title 50.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(4) Criminal penalties for misuse of information**
 
 Any person who obtains information under this subsection without authorization or exceeding authorized access (as defined in section 1030(e) of title 18), and who uses such information in the manner described in any of the paragraphs (1) through (7) of section 1030(a) of such title, or attempts to use such information in such manner, shall be subject to the same penalties as are applicable under section 1030(c) of such title for violation of that paragraph.
 
-(Pub. L. 107–173, title II, § 201, May 14, 2002, 116 Stat. 547; Pub. L. 108–177, title III, § 377(f), Dec. 13, 2003, 117 Stat. 2631.)
+(Pub. L. 107–173, title II, § 201, May 14, 2002, 116 Stat. 547; Pub. L. 108–177, title III, § 377(f), Dec. 13, 2003, 117 Stat. 2631.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-Section 403–3 of title 50, referred to in subsec. (c)(3)(F), was repealed and a new section 403–3 was enacted by Pub. L. 108–458, title I, § 1011(a), Dec. 17, 2004, 118 Stat. 3643, 3655, and subsequently editorially reclassified to section 3025 of Title 50, War and National Defense; as so enacted, subsec. (c)(7) no longer contains provisions relating to the protection of sources and methods used to acquire intelligence information. See section 3024 of Title 50.
+Section 403–3 of title 50, referred to in subsec. (c)(3)(F), was repealed and a new section 403–3 was enacted by Pub. L. 108–458, title I, § 1011(a), Dec. 17, 2004, 118 Stat. 3643, 3655, and subsequently editorially reclassified to section 3025 of Title 50, War and National Defense; as so enacted, subsec. (c)(7) no longer contains provisions relating to the protection of sources and methods used to acquire intelligence information. See section 3024 of Title 50.
 
 **Codification**
 
@@ -591,7 +591,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **Enhancement of Communications Integration and Information Sharing on Border Security**
 
-Pub. L. 109–13, div. B, title III, § 303, May 11, 2005, 119 Stat. 317, provided that:
+Pub. L. 109–13, div. B, title III, § 303, May 11, 2005, 119 Stat. 317, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this division [May 11, 2005], the Secretary of Homeland Security, acting through the Under Secretary of Homeland Security for Border and Transportation Security, in consultation with the Under Secretary of Homeland Security for Science and Technology, the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection, the Assistant Secretary of Commerce for Communications and Information, and other appropriate Federal, State, local, and tribal agencies, shall develop and implement a plan—
 
@@ -601,7 +601,7 @@ Pub. L. 109–13, div. B, title III, § 303, May 11, 2005, 119 Stat. 317, prov
 
 > **“(b) Report.—** Not later than 1 year after implementing the plan under subsection (a), the Secretary shall submit a copy of the plan and a report on the plan, including any recommendations the Secretary finds appropriate, to the Senate Committee on Commerce, Science, and Transportation, the House of Representatives Committee on Science [now Committee on Science, Space, and Technology], the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on the Judiciary.”
 
-### § 1722. Interoperable law enforcement and intelligence data system with name-matching capacity and training
+### § 1722. Interoperable law enforcement and intelligence data system with name-matching capacity and training
 
 **(a) Interoperable law enforcement and intelligence electronic data system**
 
@@ -685,7 +685,7 @@ Six months after May 14, 2002, the President shall submit a report to the approp
 
 Not later than 60 days after May 14, 2002, the Director of Central Intelligence shall complete the survey and issue the report previously required by section 309(a) of the Intelligence Authorization Act for Fiscal Year 1998 (50 U.S.C. 403–3 note).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(B) Guidelines**
 
@@ -695,7 +695,7 @@ Not later than 120 days after May 14, 2002, the Director of Central Intelligence
 
 There are authorized to be appropriated such sums as are necessary to carry out the provisions of this subsection.
 
-(Pub. L. 107–173, title II, § 202, May 14, 2002, 116 Stat. 548.)
+(Pub. L. 107–173, title II, § 202, May 14, 2002, 116 Stat. 548.)
 
 **Editorial Notes**
 
@@ -717,7 +717,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1723. Commission on Interoperable Data Sharing
+### § 1723. Commission on Interoperable Data Sharing
 
 **(a) Establishment** Not later than one year after October 26, 2001, the President shall establish a Commission on Interoperable Data Sharing (in this section referred to as the “Commission”). The purposes of the Commission shall be to—
 
@@ -747,9 +747,9 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 There are authorized to be appropriated to the Commission such sums as may be necessary to carry out this section.
 
-(Pub. L. 107–173, title II, § 203, May 14, 2002, 116 Stat. 551.)
+(Pub. L. 107–173, title II, § 203, May 14, 2002, 116 Stat. 551.)
 
-### § 1724. Personnel management authorities for positions involved in the development and implementation of the interoperable electronic data system (“Chimera system”)
+### § 1724. Personnel management authorities for positions involved in the development and implementation of the interoperable electronic data system (“Chimera system”)
 
 **(a) In general**
 
@@ -773,7 +773,7 @@ Total payments to employees under any system established under this section shal
 
 The authority of this section shall terminate upon the implementation of the Chimera system.
 
-(Pub. L. 107–173, title II, § 204, May 14, 2002, 116 Stat. 551.)
+(Pub. L. 107–173, title II, § 204, May 14, 2002, 116 Stat. 551.)
 
 **Editorial Notes**
 
@@ -789,7 +789,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 ## SUBCHAPTER III—VISA ISSUANCE
 
-### § 1731. Implementation of an integrated entry and exit data system
+### § 1731. Implementation of an integrated entry and exit data system
 
 **(a) Development of system** In developing the integrated entry and exit data system for the ports of entry, as required by the Immigration and Naturalization Service Data Management Improvement Act of 2000 (Public Law 106–215), the Attorney General and the Secretary of State shall—
 
@@ -805,7 +805,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 **(2)** consider implementing the North American National Security Program described in section 1751 of this title.
 
-(Pub. L. 107–173, title III, § 302, May 14, 2002, 116 Stat. 552.)
+(Pub. L. 107–173, title III, § 302, May 14, 2002, 116 Stat. 552.)
 
 **Editorial Notes**
 
@@ -819,7 +819,7 @@ The Immigration and Naturalization Service Data Management Improvement Act of 20
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1732. Machine-readable, tamper-resistant entry and exit documents
+### § 1732. Machine-readable, tamper-resistant entry and exit documents
 
 **(a) Report**
 
@@ -857,13 +857,13 @@ Not later than October 26, 2005, the Attorney General, in consultation with the 
 
 The systems employed to implement paragraphs (1) and (2) shall utilize the technology standard established pursuant to section 1379 of this title.
 
-**(c) Repealed. Pub. L. 114–113, div. O, title II, § 202(c), Dec. 18, 2015, 129 Stat. 2989**
+**(c) Repealed. Pub. L. 114–113, div. O, title II, § 202(c), Dec. 18, 2015, 129 Stat. 2989**
 
 **(d) Authorization of appropriations**
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section, including reimbursement to international and domestic standards organizations.
 
-(Pub. L. 107–173, title III, § 303, May 14, 2002, 116 Stat. 553; Pub. L. 108–299, § 1, Aug. 9, 2004, 118 Stat. 1100; Pub. L. 114–113, div. O, title II, § 202(c), Dec. 18, 2015, 129 Stat. 2989.)
+(Pub. L. 107–173, title III, § 303, May 14, 2002, 116 Stat. 553; Pub. L. 108–299, § 1, Aug. 9, 2004, 118 Stat. 1100; Pub. L. 114–113, div. O, title II, § 202(c), Dec. 18, 2015, 129 Stat. 2989.)
 
 **Editorial Notes**
 
@@ -879,7 +879,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1733. Terrorist lookout committees
+### § 1733. Terrorist lookout committees
 
 **(a) Establishment**
 
@@ -905,13 +905,13 @@ Each committee established under subsection (a) shall meet at least monthly to s
 
 Each committee established under subsection (a) shall submit monthly reports to the Secretary of State describing the committee’s activities, whether or not information on known or suspected terrorists was developed during the month.
 
-**(f) Repealed. Pub. L. 113–235, div. J, title VII, § 7034(i), Dec. 16, 2014, 128 Stat. 2624**
+**(f) Repealed. Pub. L. 113–235, div. J, title VII, § 7034(i), Dec. 16, 2014, 128 Stat. 2624**
 
 **(g) Authorization of appropriations**
 
 There are authorized to be appropriated such sums as may be necessary to implement this section.
 
-(Pub. L. 107–173, title III, § 304, May 14, 2002, 116 Stat. 554; Pub. L. 113–235, div. J, title VII, § 7034(i), Dec. 16, 2014, 128 Stat. 2624.)
+(Pub. L. 107–173, title III, § 304, May 14, 2002, 116 Stat. 554; Pub. L. 113–235, div. J, title VII, § 7034(i), Dec. 16, 2014, 128 Stat. 2624.)
 
 **Editorial Notes**
 
@@ -919,7 +919,7 @@ There are authorized to be appropriated such sums as may be necessary to impleme
 
 2014—Subsec. (f). Pub. L. 113–235 struck out subsec. (f). Text read as follows: “The Secretary of State shall submit a report on a quarterly basis to the appropriate committees of Congress on the status of the committees established under subsection (a) of this section.”
 
-### § 1734. Improved training for consular officers
+### § 1734. Improved training for consular officers
 
 **(a) Training**
 
@@ -933,7 +933,7 @@ As an ongoing component of the training required in subsection (a), the Secretar
 
 There are authorized to be appropriated such sums as may be necessary to implement this section.
 
-(Pub. L. 107–173, title III, § 305, May 14, 2002, 116 Stat. 555; Pub. L. 108–458, title VII, § 7203(c), Dec. 17, 2004, 118 Stat. 3814.)
+(Pub. L. 107–173, title III, § 305, May 14, 2002, 116 Stat. 555; Pub. L. 108–458, title VII, § 7203(c), Dec. 17, 2004, 118 Stat. 3814.)
 
 **Editorial Notes**
 
@@ -941,7 +941,7 @@ There are authorized to be appropriated such sums as may be necessary to impleme
 
 2004—Subsec. (a). Pub. L. 108–458 inserted at end “In accordance with section 1776 of this title, and as part of the consular training provided to such officers by the Secretary of State, such officers shall also receive training in detecting fraudulent documents and general document forensics and shall be required as part of such training to work with immigration officers conducting inspections of applicants for admission into the United States at ports of entry.”
 
-### § 1735. Restriction on issuance of visas to nonimmigrants from countries that are state sponsors of international terrorism
+### § 1735. Restriction on issuance of visas to nonimmigrants from countries that are state sponsors of international terrorism
 
 **(a) In general**
 
@@ -957,19 +957,19 @@ In this section, the term “state sponsor of international terrorism” means a
 
 **(A)** Section 4605(j)(1)(A) of title 50 (or successor statute).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(B)** Section 2780(d) of title 22.
 
 **(C)** Section 2371(a) of title 22.
 
-(Pub. L. 107–173, title III, § 306, May 14, 2002, 116 Stat. 555.)
+(Pub. L. 107–173, title III, § 306, May 14, 2002, 116 Stat. 555.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4605(j)(1)(A) of title 50, referred to in subsec. (b)(2)(A), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former section 4605(j)(1)(A) of title 50 can be found in section 4813(c)(1)(A)(i) of title 50, as enacted by Pub. L. 115–232.
+Section 4605(j)(1)(A) of title 50, referred to in subsec. (b)(2)(A), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former section 4605(j)(1)(A) of title 50 can be found in section 4813(c)(1)(A)(i) of title 50, as enacted by Pub. L. 115–232.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -977,11 +977,11 @@ Section 4605(j)(1)(A) of title 50, referred to in subsec. (b)(2)(A), was repeale
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1736. Check of lookout databases
+### § 1736. Check of lookout databases
 
 Prior to the admission of an alien under the visa waiver program established under section 1187 of this title, the Immigration and Naturalization Service shall determine that the applicant for admission does not appear in any of the appropriate lookout databases available to immigration inspectors at the time the alien seeks admission to the United States.
 
-(Pub. L. 107–173, title III, § 307(b), May 14, 2002, 116 Stat. 556.)
+(Pub. L. 107–173, title III, § 307(b), May 14, 2002, 116 Stat. 556.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -989,7 +989,7 @@ Prior to the admission of an alien under the visa waiver program established und
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1737. Tracking system for stolen passports
+### § 1737. Tracking system for stolen passports
 
 **(a) Entering stolen passport identification numbers in the interoperable data system**
 
@@ -1005,7 +1005,7 @@ To the extent practicable, the Attorney General, in consultation with the Secret
 
 Until such time as the law enforcement and intelligence data system described in section 1722 of this title is fully implemented, the Attorney General shall enter the data described in subsection (a) into an existing data system being used to determine the admissibility or deportability of aliens.
 
-(Pub. L. 107–173, title III, § 308, May 14, 2002, 116 Stat. 556.)
+(Pub. L. 107–173, title III, § 308, May 14, 2002, 116 Stat. 556.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1013,11 +1013,11 @@ Until such time as the law enforcement and intelligence data system described in
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1738. Identification documents for certain newly admitted aliens
+### § 1738. Identification documents for certain newly admitted aliens
 
 Not later than 180 days after May 14, 2002, the Attorney General shall ensure that, immediately upon the arrival in the United States of an individual admitted under section 1157 of this title, or immediately upon an alien being granted asylum under section 1158 of this title, the alien will be issued an employment authorization document. Such document shall, at a minimum, contain the fingerprint and photograph of such alien.
 
-(Pub. L. 107–173, title III, § 309, May 14, 2002, 116 Stat. 556.)
+(Pub. L. 107–173, title III, § 309, May 14, 2002, 116 Stat. 556.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1027,7 +1027,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 ## SUBCHAPTER IV—INSPECTION AND ADMISSION OF ALIENS
 
-### § 1751. Study of the feasibility of a North American National Security Program
+### § 1751. Study of the feasibility of a North American National Security Program
 
 **(a) In general**
 
@@ -1055,7 +1055,7 @@ Not later than 1 year after May 14, 2002, the President shall submit to the appr
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 107–173, title IV, § 401, May 14, 2002, 116 Stat. 557.)
+(Pub. L. 107–173, title IV, § 401, May 14, 2002, 116 Stat. 557.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1063,11 +1063,11 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1752. Staffing levels at ports of entry
+### § 1752. Staffing levels at ports of entry
 
 The Immigration and Naturalization Service shall staff ports of entry at such levels that would be adequate to meet traffic flow and inspection time objectives efficiently without compromising the safety and security of the United States. Estimated staffing levels under workforce models for the Immigration and Naturalization Service shall be based on the goal of providing immigration services described in section 1356(g) of this title within 45 minutes of a passenger’s presentation for inspection.
 
-(Pub. L. 107–173, title IV, § 403(b), May 14, 2002, 116 Stat. 559.)
+(Pub. L. 107–173, title IV, § 403(b), May 14, 2002, 116 Stat. 559.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1075,7 +1075,7 @@ The Immigration and Naturalization Service shall staff ports of entry at such le
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1752a. Model ports-of-entry
+### § 1752a. Model ports-of-entry
 
 **(a) In general** The Secretary of Homeland Security shall—
 
@@ -1095,7 +1095,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Subject to the availability of appropriations, not later than the end of fiscal year 2008 the Secretary of Homeland Security shall employ not fewer than an additional 200 Customs and Border Protection officers over the number of such positions for which funds were appropriated for the proceeding fiscal year to address staff shortages at the 20 United States international airports that have the highest number of foreign visitors arriving annually as of August 3, 2007.
 
-(Pub. L. 110–53, title VII, § 725, Aug. 3, 2007, 121 Stat. 350.)
+(Pub. L. 110–53, title VII, § 725, Aug. 3, 2007, 121 Stat. 350.)
 
 **Editorial Notes**
 
@@ -1103,7 +1103,7 @@ Subject to the availability of appropriations, not later than the end of fiscal 
 
 Section was enacted as part of the Implementing Recommendations of the 9/11 Commission Act of 2007 and not as part of the Enhanced Border Security and Visa Entry Reform Act of 2002 which comprises this chapter.
 
-### § 1753. Joint United States-Canada projects for alternative inspections services
+### § 1753. Joint United States-Canada projects for alternative inspections services
 
 **(a) In general**
 
@@ -1117,7 +1117,7 @@ The Attorney General and the Secretary of the Treasury shall prepare and submit 
 
 Subchapter II of chapter 5 of title 5 (commonly referred to as the “Administrative Procedure Act”) and chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act”) shall not apply to fee setting for services and other administrative requirements relating to projects described in subsection (a), except that fees and forms established for such projects shall be published as a notice in the Federal Register.
 
-(Pub. L. 107–173, title IV, § 404, May 14, 2002, 116 Stat. 560.)
+(Pub. L. 107–173, title IV, § 404, May 14, 2002, 116 Stat. 560.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1127,7 +1127,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 ## SUBCHAPTER V—FOREIGN STUDENTS AND EXCHANGE VISITORS
 
-### § 1761. Foreign student monitoring program
+### § 1761. Foreign student monitoring program
 
 **(a) Omitted**
 
@@ -1171,7 +1171,7 @@ Not later than 30 days after May 14, 2002, the Attorney General shall provide th
 
 There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
 
-(Pub. L. 107–173, title V, § 501, May 14, 2002, 116 Stat. 560.)
+(Pub. L. 107–173, title V, § 501, May 14, 2002, 116 Stat. 560.)
 
 **Editorial Notes**
 
@@ -1185,7 +1185,7 @@ Section is comprised of section 501 of Pub. L. 107–173. Subsec. (a) of section
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1762. Review of institutions and other entities authorized to enroll or sponsor certain nonimmigrants
+### § 1762. Review of institutions and other entities authorized to enroll or sponsor certain nonimmigrants
 
 **(a) Periodic review of compliance** Not later than two years after May 14, 2002, and every two years thereafter, the Commissioner of Immigration and Naturalization, in consultation with the Secretary of Education, shall conduct a review of the institutions certified to receive nonimmigrants under section 1101(a)(15)(F), (M), or (J) of this title. Each review shall determine whether the institutions are in compliance with—
 
@@ -1209,7 +1209,7 @@ Not later than two years after May 14, 2002, and every two years thereafter, the
 
 Material failure of an institution or other entity to comply with the recordkeeping and reporting requirements to receive nonimmigrant students or exchange visitor program participants under section 1101(a)(15)(F), (M), or (J) of this title, or section 1372 of this title, shall result in the suspension for at least one year or termination, at the election of the Commissioner of Immigration and Naturalization, of the institution’s approval to receive such students, or result in the suspension for at least one year or termination, at the election of the Secretary of State, of the other entity’s designation to sponsor exchange visitor program participants, as the case may be.
 
-(Pub. L. 107–173, title V, § 502, May 14, 2002, 116 Stat. 563.)
+(Pub. L. 107–173, title V, § 502, May 14, 2002, 116 Stat. 563.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1219,7 +1219,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 ## SUBCHAPTER VI—MISCELLANEOUS PROVISIONS
 
-### § 1771. General Accounting Office study
+### § 1771. General Accounting Office study
 
 **(a) Requirement for study**
 
@@ -1235,7 +1235,7 @@ In paragraph (1), the term “nonimmigrant alien” means an alien described in 
 
 Not later than 1 year after May 14, 2002, the Comptroller General shall submit to Congress a report on the results of the study under subsection (a). The report shall include the Comptroller General’s findings, together with any recommendations that the Comptroller General considers appropriate.
 
-(Pub. L. 107–173, title VI, § 602, May 14, 2002, 116 Stat. 564.)
+(Pub. L. 107–173, title VI, § 602, May 14, 2002, 116 Stat. 564.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1247,7 +1247,7 @@ General Accounting Office redesignated Government Accountability Office by secti
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1772. International cooperation
+### § 1772. International cooperation
 
 **(a) International electronic data system** The Secretary of State and the Commissioner of Immigration and Naturalization, in consultation with the Assistant to the President for Homeland Security, shall jointly conduct a study of the alternative approaches (including the costs of, and procedures necessary for, each alternative approach) for encouraging or requiring Canada, Mexico, and countries treated as visa waiver program countries under section 217 of the Immigration and Nationality Act [8 U.S.C. 1187] to develop an intergovernmental network of interoperable electronic data systems that—
 
@@ -1261,13 +1261,13 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Not later than 1 year after May 14, 2002, the Secretary of State and the Attorney General shall submit to the appropriate committees of Congress a report setting forth the findings of the study conducted under subsection (a).
 
-(Pub. L. 107–173, title VI, § 603, May 14, 2002, 116 Stat. 564.)
+(Pub. L. 107–173, title VI, § 603, May 14, 2002, 116 Stat. 564.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in subsec. (a)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsec. (a)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1275,11 +1275,11 @@ The Immigration and Nationality Act, referred to in subsec. (a)(1), is act June 
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1773. Statutory construction
+### § 1773. Statutory construction
 
 Nothing in this chapter shall be construed to impose requirements that are inconsistent with the USMCA (as defined in section 4502 of title 19) or to require additional documents for aliens for whom documentary requirements are waived under section 1182(d)(4)(B) of this title.
 
-(Pub. L. 107–173, title VI, § 604, May 14, 2002, 116 Stat. 565; Pub. L. 116–113, title V, § 503(d)(2), Jan. 29, 2020, 134 Stat. 72.)
+(Pub. L. 107–173, title VI, § 604, May 14, 2002, 116 Stat. 565; Pub. L. 116–113, title V, § 503(d)(2), Jan. 29, 2020, 134 Stat. 72.)
 
 **Editorial Notes**
 
@@ -1297,7 +1297,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Amendment by Pub. L. 116–113 effective on the date the USMCA enters into force (July 1, 2020) and applicable to visas issued on or after that date, see section 503(f) of Pub. L. 116–113, set out as a note under section 1184 of this title.
 
-### § 1774. Annual report on aliens who fail to appear after release on own recognizance
+### § 1774. Annual report on aliens who fail to appear after release on own recognizance
 
 **(a) Requirement for report**
 
@@ -1307,7 +1307,7 @@ Not later than January 15 of each year, the Attorney General shall submit to the
 
 Notwithstanding the time for submission of the annual report provided in subsection (a), the report for 2001 shall be submitted not later than 6 months after May 14, 2002.
 
-(Pub. L. 107–173, title VI, § 605, May 14, 2002, 116 Stat. 565.)
+(Pub. L. 107–173, title VI, § 605, May 14, 2002, 116 Stat. 565.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1315,19 +1315,19 @@ Notwithstanding the time for submission of the annual report provided in subsect
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1775. Retention of nonimmigrant visa applications by the Department of State
+### § 1775. Retention of nonimmigrant visa applications by the Department of State
 
 The Department of State shall retain, for a period of seven years from the date of application, every application for a nonimmigrant visa under section 101(a)(15) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)) in a form that will be admissible in the courts of the United States or in administrative proceedings, including removal proceedings under such Act [8 U.S.C. 1101 et seq.], without regard to whether the application was approved or denied.
 
-(Pub. L. 107–173, title VI, § 606, May 14, 2002, 116 Stat. 565.)
+(Pub. L. 107–173, title VI, § 606, May 14, 2002, 116 Stat. 565.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-### § 1776. Training program
+### § 1776. Training program
 
 **(1) Review, evaluation, and revision of existing training programs** The Secretary of Homeland Security shall—
 
@@ -1395,7 +1395,7 @@ The Secretary of Homeland Security may assist States, Indian tribes, local gover
 
 There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2005 through 2009 to carry out the provisions of this section.
 
-(Pub. L. 108–458, title VII, § 7201(d), Dec. 17, 2004, 118 Stat. 3811.)
+(Pub. L. 108–458, title VII, § 7201(d), Dec. 17, 2004, 118 Stat. 3811.)
 
 **Editorial Notes**
 
@@ -1407,7 +1407,7 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 **Findings**
 
-Pub. L. 108–458, title VII, § 7201(a), Dec. 17, 2004, 118 Stat. 3808, provided that:
+Pub. L. 108–458, title VII, § 7201(a), Dec. 17, 2004, 118 Stat. 3808, provided that:
 
 > “Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
@@ -1427,7 +1427,7 @@ Pub. L. 108–458, title VII, § 7201(a), Dec. 17, 2004, 118 Stat. 3808, provi
 
 > **“(8)** The small classified terrorist travel intelligence collection and analysis program currently in place has produced useful results and should be expanded.”
 
-### § 1777. Establishment of Human Smuggling and Trafficking Center
+### § 1777. Establishment of Human Smuggling and Trafficking Center
 
 **(a) Establishment**
 
@@ -1521,7 +1521,7 @@ The Secretary of Homeland Security, and the heads of other relevant agencies, sh
 
 Incentives under clause (i) may include financial incentives, bonuses, and such other awards and incentives as the Secretary and the heads of other relevant agencies,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 consider appropriate.
 
@@ -1571,13 +1571,13 @@ As part of its mission to combat terrorist travel, the Center shall work to supp
 
 The Office of Intelligence and Analysis, in coordination with the Center, shall submit to relevant State, local, and tribal law enforcement agencies periodic reports regarding terrorist threats related to human smuggling, human trafficking, and terrorist travel.
 
-(Pub. L. 108–458, title VII, § 7202, Dec. 17, 2004, 118 Stat. 3813; Pub. L. 110–53, title VII, § 721(a)–(c), Aug. 3, 2007, 121 Stat. 346–348.)
+(Pub. L. 108–458, title VII, § 7202, Dec. 17, 2004, 118 Stat. 3813; Pub. L. 110–53, title VII, § 721(a)–(c), Aug. 3, 2007, 121 Stat. 346–348.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Service Act of 1980, referred to in subsec. (e)(3)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (e)(3)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 **Codification**
 
@@ -1585,17 +1585,17 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 **Amendments**
 
-2007—Subsec. (c)(1). Pub. L. 110–53, § 721(a)(1), substituted “integrate and disseminate intelligence and information related to” for “address”.
+2007—Subsec. (c)(1). Pub. L. 110–53, § 721(a)(1), substituted “integrate and disseminate intelligence and information related to” for “address”.
 
-Subsecs. (d) to (f). Pub. L. 110–53, § 721(a)(3), added subsecs. (d) to (f). Former subsecs. (d) and (e) redesignated (g) and (h), respectively.
+Subsecs. (d) to (f). Pub. L. 110–53, § 721(a)(3), added subsecs. (d) to (f). Former subsecs. (d) and (e) redesignated (g) and (h), respectively.
 
-Subsec. (g). Pub. L. 110–53, § 721(b), reenacted heading without change and amended text of subsec. (g) generally. Prior to amendment, text read as follows: “Not later than 180 days after December 17, 2004, the President shall transmit to Congress a report regarding the implementation of this section, including a description of the staffing and resource needs of the Center.”
+Subsec. (g). Pub. L. 110–53, § 721(b), reenacted heading without change and amended text of subsec. (g) generally. Prior to amendment, text read as follows: “Not later than 180 days after December 17, 2004, the President shall transmit to Congress a report regarding the implementation of this section, including a description of the staffing and resource needs of the Center.”
 
-Pub. L. 110–53, § 721(a)(2), redesignated subsec. (d) as (g).
+Pub. L. 110–53, § 721(a)(2), redesignated subsec. (d) as (g).
 
-Subsec. (h). Pub. L. 110–53, § 721(a)(2), redesignated subsec. (e) as (h).
+Subsec. (h). Pub. L. 110–53, § 721(a)(2), redesignated subsec. (e) as (h).
 
-Subsec. (i). Pub. L. 110–53, § 721(c), added subsec. (i).
+Subsec. (i). Pub. L. 110–53, § 721(c), added subsec. (i).
 
 **Executive Documents**
 
@@ -1603,7 +1603,7 @@ Subsec. (i). Pub. L. 110–53, § 721(c), added subsec. (i).
 
 For assignment of functions of President under subsec. (g) of this section, see section 1 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of Title 3, The President.
 
-### § 1778. Vulnerability and threat assessment
+### § 1778. Vulnerability and threat assessment
 
 **(a) Study**
 
@@ -1617,7 +1617,7 @@ The Under Secretary shall submit a report to Congress on the Under Secretary’s
 
 There are authorized to be appropriated to the Department of Homeland Security Directorate of Border and Transportation Security such sums as may be necessary for fiscal years 2006 through 2011 to carry out any such recommendations from the first study conducted under subsection (a).
 
-(Pub. L. 109–13, div. B, title III, § 301, May 11, 2005, 119 Stat. 316.)
+(Pub. L. 109–13, div. B, title III, § 301, May 11, 2005, 119 Stat. 316.)
 
 **Editorial Notes**
 

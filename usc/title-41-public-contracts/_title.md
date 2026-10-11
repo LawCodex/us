@@ -13,15 +13,15 @@ retrieved: 2026-10-11
 
 # Title 41—PUBLIC CONTRACTS
 
-This title was enacted by Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3677
+This title was enacted by Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3677
 
-Current through 119-102not101
+Current through 119-102not101
 
 **Disposition Table**
 
 **(Showing Disposition of Former Sections of Title 41)**
 
-| *Title 41* *Former Sections* | *Title 41* *New Sections* |
+| *Title 41* *Former Sections* | *Title 41* *New Sections* |
 |---|---|
 | 1 to 4a | (Previously repealed) |
 | 5, 5a | 6101 |
@@ -37,16 +37,16 @@ Current through 119-102not101
 | 6a(*o*) | (Omitted) |
 | 6a(p) | (Previously repealed) |
 | 6a–1 | 6102 |
-| 6a–2 | T. 2 § 1816b |
+| 6a–2 | T. 2 § 1816b |
 | 6a–3, 6a–4 | 6102 |
 | 6b(a), (b) | Rep. |
-| 6b(c) | T. 25 § 903g |
+| 6b(c) | T. 25 § 903g |
 | 6b(d) | 6102 |
 | 6b(e) | Rep. |
 | 6c to 6jj | (Previously repealed) |
 | 6kk | Rep. |
 | 6*ll* | (Previously repealed) |
-| 6mm | (Previously transferred to T. 41 § 6b(d) prior to repeal) |
+| 6mm | (Previously transferred to T. 41 § 6b(d) prior to repeal) |
 | 7 to 7d | (Previously repealed) |
 | 8 | 6103 |
 | 9 | (Previously repealed) |
@@ -107,20 +107,20 @@ Current through 119-102not101
 | 118(b) | (Previously repealed) |
 | 118(c) to 125 | Rep. |
 | 151 to 162 | (Previously repealed) |
-| 201 to 205 | (Previously transferred to T. 40 §§ 471 to 475 prior to repeal) |
-| 211 to 213 | (Previously transferred to T. 40 §§ 751 to 753 prior to repeal) |
-| 214 | (Previously transferred to T. 44 § 391 prior to repeal) |
-| 215 | (Previously transferred to T. 5 § 630c prior to repeal) |
-| 216 | (Previously transferred to T. 5 § 630d and T. 40 § 754 prior to repeal) |
-| 217 | (Previously transferred to T. 5 § 630e and T. 40 § 755 prior to repeal) |
-| 218 | (Previously transferred to T. 5 § 630f prior to repeal) |
-| 219 | (Previously transferred to T. 5 § 630g and T. 40 § 756 prior to repeal) |
-| 231 to 237 | (Previously transferred to T. 40 §§ 481 to 488 prior to repeal) |
-| 238 | (Previously transferred to T. 5 § 630h and T. 40 § 758 prior to repeal) |
-| 239 to 240 | (Previously transferred to T. 40 §§ 489 to 492 prior to repeal) |
+| 201 to 205 | (Previously transferred to T. 40 §§ 471 to 475 prior to repeal) |
+| 211 to 213 | (Previously transferred to T. 40 §§ 751 to 753 prior to repeal) |
+| 214 | (Previously transferred to T. 44 § 391 prior to repeal) |
+| 215 | (Previously transferred to T. 5 § 630c prior to repeal) |
+| 216 | (Previously transferred to T. 5 § 630d and T. 40 § 754 prior to repeal) |
+| 217 | (Previously transferred to T. 5 § 630e and T. 40 § 755 prior to repeal) |
+| 218 | (Previously transferred to T. 5 § 630f prior to repeal) |
+| 219 | (Previously transferred to T. 5 § 630g and T. 40 § 756 prior to repeal) |
+| 231 to 237 | (Previously transferred to T. 40 §§ 481 to 488 prior to repeal) |
+| 238 | (Previously transferred to T. 5 § 630h and T. 40 § 758 prior to repeal) |
+| 239 to 240 | (Previously transferred to T. 40 §§ 489 to 492 prior to repeal) |
 | 251 | Rep. |
-| 251 note (Pub. L. 110–252, §§ 6102, 6103) | 3509 |
-| 251 note (Pub. L. 110–417, § 867) | 4711 |
+| 251 note (Pub. L. 110–252, §§ 6102, 6103) | 3509 |
+| 251 note (Pub. L. 110–417, § 867) | 4711 |
 | 252(a) | 3101 |
 | 252(b) | 3104 |
 | 252(c)(1) | 3106 |
@@ -135,7 +135,7 @@ Current through 119-102not101
 | 253(i) | 3105 |
 | 253(j) | 3304 |
 | 253a | 3306 |
-| 253a note (Pub. L. 108–136, § 1428) | 3306 |
+| 253a note (Pub. L. 108–136, § 1428) | 3306 |
 | 253b(a), (b) | 3701 |
 | 253b(c) to (f) | 3702 to 3705 |
 | 253b(g) (related to 41:253b(e)) | 3704 |
@@ -151,9 +151,9 @@ Current through 119-102not101
 | 253f | 3310 |
 | 253g | 4704 |
 | 253h | 4103 |
-| 253h note (Pub. L. 103–355, § 1054(b)) | 4102 |
-| 253h note (Pub. L. 106–65, § 804) | 4104 |
-| 253h note (Pub. L. 110–417, § 863(a)–(e)) | 3302 |
+| 253h note (Pub. L. 103–355, § 1054(b)) | 4102 |
+| 253h note (Pub. L. 106–65, § 804) | 4104 |
+| 253h note (Pub. L. 110–417, § 863(a)–(e)) | 3302 |
 | 253i | 4105 |
 | 253j | 4106 |
 | 253k | 4101 |
@@ -162,12 +162,12 @@ Current through 119-102not101
 | 253m | 3309 |
 | 254(a) | 3901 |
 | 254(b) | 3905 |
-| 254 note (Pub. L. 110–417, § 864(a), (b), (d), (e), (f)(2), (g)) | 3906 |
+| 254 note (Pub. L. 110–417, § 864(a), (b), (d), (e), (f)(2), (g)) | 3906 |
 | 254a | 4708 |
 | 254b(a) to (g) | 3502 to 3508 |
 | 254b(h) | 3501 |
-| 254b note (Pub. L. 110–417, § 866) | 4710 |
-| 254b note (Pub. L. 110–417, § 868) | 3501 |
+| 254b note (Pub. L. 110–417, § 866) | 4710 |
+| 254b note (Pub. L. 110–417, § 868) | 3501 |
 | 254c | 3903 |
 | 254d | 4706 |
 | 255(a) | 4501 |
@@ -203,7 +203,7 @@ Current through 119-102not101
 | 262 | 4701 |
 | 263 | 3103 |
 | 264 | 3307 |
-| 264 note (Pub. L. 103–355, § 8002) | 3307 |
+| 264 note (Pub. L. 103–355, § 8002) | 3307 |
 | 264a (“commercial item”) | 103 |
 | 264a (“nondevelopmental item”) | 110 |
 | 264a (“component”) | 105 |
@@ -212,8 +212,8 @@ Current through 119-102not101
 | 265 | 4705 |
 | 266 | 3105 |
 | 266a | 3901 note prec. |
-| 271 to 274 | (Previously transferred to T. 40 §§ 511 to 514 prior to repeal) |
-| 281 to 291 | (Previously transferred to T. 44 §§ 392 to 402 prior to repeal) |
+| 271 to 274 | (Previously transferred to T. 40 §§ 511 to 514 prior to repeal) |
+| 281 to 291 | (Previously transferred to T. 44 §§ 392 to 402 prior to repeal) |
 | 321 to 322 | Rep. |
 | 351(a) (words before par. (1) related to applicability) | 6702 |
 | 351(a) (words before par. (1) related to required contract terms), (1) to (5) | 6703 |
@@ -256,8 +256,8 @@ Current through 119-102not101
 | 405(i) | 1125 |
 | 405(j) | 1126 |
 | 405(k) | 1131 |
-| 405 note (Pub. L. 108–136, § 1431(b)) | 1129 |
-| 405 note (Pub. L. 110–417, § 874(a)) | 2311 |
+| 405 note (Pub. L. 108–136, § 1431(b)) | 1129 |
+| 405 note (Pub. L. 110–417, § 874(a)) | 2311 |
 | 405a (1st sentence) | 1121 |
 | 405a (last sentence) | 1123 |
 | 405b | 2304 |
@@ -306,19 +306,19 @@ Current through 119-102not101
 | 427 | 1901 |
 | 428 | 1902 |
 | 428a | 1903 |
-| 428a note (Pub. L. 108–136, § 1441) | 1904 |
+| 428a note (Pub. L. 108–136, § 1441) | 1904 |
 | 429 | 1905 |
 | 430 | 1906 |
 | 431(a), (b) | 1907 |
 | 431(c) | 104 |
 | 431a | 1908 |
-| 431a note (Pub. L. 108–375, § 807(c)) | 1908 |
+| 431a note (Pub. L. 108–375, § 807(c)) | 1908 |
 | 432 | 1711 |
 | 433 | 1703 |
-| 433 notes (Pub. L. 108–136, §§ 1412(a), 1413) | 1703 |
-| 433 note (Pub. L. 108–136, § 1414) | 1128 |
+| 433 notes (Pub. L. 108–136, §§ 1412(a), 1413) | 1703 |
+| 433 note (Pub. L. 108–136, § 1414) | 1128 |
 | 433a | 1704 |
-| 433a note (Pub. L. 110–417, § 869) | 1704 |
+| 433a note (Pub. L. 110–417, § 869) | 1704 |
 | 434 | 2308 |
 | 435 | 1127 |
 | 436 | 2309 |
@@ -338,7 +338,7 @@ Current through 119-102not101
 | 609(a) | 7104 |
 | 609(b) to (f) | 7107 |
 | 610 | 7105 |
-| 611, 611 note (Pub. L. 102–572, § 907(a)(3)) | 7109 |
+| 611, 611 note (Pub. L. 102–572, § 907(a)(3)) | 7109 |
 | 612 | 7108 |
 | 613 | Rep. |
 | 701 to 705 | 8102 to 8106 |
@@ -348,11 +348,11 @@ Current through 119-102not101
 
 **Enactment of Title 41, United States Code**
 
-Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3677, provided that: “Certain general and permanent laws of the United States, related to public contracts, are revised, codified, and enacted as title 41, United States Code, ‘Public Contracts’, as follows:”
+Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3677, provided that: “Certain general and permanent laws of the United States, related to public contracts, are revised, codified, and enacted as title 41, United States Code, ‘Public Contracts’, as follows:”
 
 **Purpose; Conformity With Original Intent**
 
-Pub. L. 111–350, § 2, Jan. 4, 2011, 124 Stat. 3677, provided that:
+Pub. L. 111–350, § 2, Jan. 4, 2011, 124 Stat. 3677, provided that:
 
 > **“(a) Purpose.—** The purpose of this Act [see Tables for classification] is to enact certain laws relating to public contracts as title 41, United States Code, ‘Public Contracts’.
 
@@ -360,7 +360,7 @@ Pub. L. 111–350, § 2, Jan. 4, 2011, 124 Stat. 3677, provided that:
 
 **Transitional and Savings Provisions**
 
-Pub. L. 111–350, § 6(a)–(e), Jan. 4, 2011, 124 Stat. 3854, provided that:
+Pub. L. 111–350, § 6(a)–(e), Jan. 4, 2011, 124 Stat. 3854, provided that:
 
 > **“(a) Cutoff Date.—** This Act [see Tables for classification] replaces certain provisions of law enacted on or before December 31, 2008. If a law enacted after that date amends or repeals a provision replaced by this Act, that law is deemed to amend or repeal, as the case may be, the corresponding provision enacted by this Act. If a law enacted after that date is otherwise inconsistent with this Act, it supersedes this Act to the extent of the inconsistency.
 
@@ -374,13 +374,13 @@ Pub. L. 111–350, § 6(a)–(e), Jan. 4, 2011, 124 Stat. 3854, provided that:
 
 **Repeals**
 
-Pub. L. 111–350, § 7(b), Jan. 4, 2011, 124 Stat. 3855, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 4, 2011.
+Pub. L. 111–350, § 7(b), Jan. 4, 2011, 124 Stat. 3855, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 4, 2011.
 
-Pub. L. 111–350, § 7(a), Jan. 4, 2011, 124 Stat. 3855, provided that: “The repeal of a law by this Act [see Tables for classification] may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 111–350, § 7(a), Jan. 4, 2011, 124 Stat. 3855, provided that: “The repeal of a law by this Act [see Tables for classification] may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
 ## Subtitle I—Federal Procurement Policy
 
-2011—Pub. L. 112–81, div. A, title VIII, § 864(b)(2), Dec. 31, 2011, 125 Stat. 1524, added item for chapter 12.
+2011—Pub. L. 112–81, div. A, title VIII, § 864(b)(2), Dec. 31, 2011, 125 Stat. 1524, added item for chapter 12.
 
 ### Division A—General
 

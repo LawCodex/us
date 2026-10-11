@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 249 “MULTIYEAR CONTRACTS”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1827, and consisting of reserved section 3501, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1822(a), Jan. 1, 2021, 134 Stat. 4196.
+A prior chapter 249 “MULTIYEAR CONTRACTS”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1827, and consisting of reserved section 3501, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1822(a), Jan. 1, 2021, 134 Stat. 4196.
 
 ## SUBCHAPTER I—MULTIYEAR CONTRACTS FOR ACQUISITION OF PROPERTY
 
@@ -27,9 +27,9 @@ A prior chapter 249 “MULTIYEAR CONTRACTS”, as added by Pub. L. 115–232, di
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(k)(1)(A), Dec. 27, 2021, 135 Stat. 2143, amended Pub. L. 116–283, div. A, title XVIII, § 1822(a), Jan. 1, 2021, 134 Stat. 4196, which added this analysis, by adding item 3501 and striking out what would have been items 3501 to 3511.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(k)(1)(A), Dec. 27, 2021, 135 Stat. 2143, amended Pub. L. 116–283, div. A, title XVIII, § 1822(a), Jan. 1, 2021, 134 Stat. 4196, which added this analysis, by adding item 3501 and striking out what would have been items 3501 to 3511.
 
-### § 3501. Multiyear contracts: acquisition of property
+### § 3501. Multiyear contracts: acquisition of property
 
 **(a) In General.—** To the extent that funds are otherwise available for obligation, the head of an agency may enter into multiyear contracts for the purchase of property whenever the head of that agency finds each of the following:
 
@@ -91,7 +91,7 @@ A prior chapter 249 “MULTIYEAR CONTRACTS”, as added by Pub. L. 115–232, di
 
 **(2)** In the case of a contract described in subsection (a) with a cancellation ceiling described in paragraph (1), if the budget for the contract does not include proposed funding for the costs of contract cancellation up to the cancellation ceiling established in the contract, the head of the agency concerned shall, as part of the certification required by subsection (i)(1)(A),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 give written notification to the congressional defense committees of—
 
@@ -203,51 +203,51 @@ give written notification to the congressional defense committees of—
 
 **(m) Increased Funding and Reprogramming Requests.—** Any request for increased funding for the procurement of a major system under a multiyear contract authorized under this section shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary under subsection (i).
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §§ 1822(a), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4197, 4294; Pub. L. 116–283, div. A, title XVIII, § 1822(b), as added Pub. L. 117–81, div. A, title XVII, § 1701(k)(2)(B), Dec. 27, 2021, 135 Stat. 2143; Pub. L. 117–81, div. A, title XVII, § 1701(k)(1)(B), (2)(A), Dec. 27, 2021, 135 Stat. 2143; Pub. L. 117–263, div. A, title VIII, § 815, Dec. 23, 2022, 136 Stat. 2707; Pub. L. 118–31, div. A, title VIII, § 820, Dec. 22, 2023, 137 Stat. 326; Pub. L. 119–60, div. A, title VIII, § 804(c), Dec. 18, 2025, 139 Stat. 944.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §§ 1822(a), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4197, 4294; Pub. L. 116–283, div. A, title XVIII, § 1822(b), as added Pub. L. 117–81, div. A, title XVII, § 1701(k)(2)(B), Dec. 27, 2021, 135 Stat. 2143; Pub. L. 117–81, div. A, title XVII, § 1701(k)(1)(B), (2)(A), Dec. 27, 2021, 135 Stat. 2143; Pub. L. 117–263, div. A, title VIII, § 815, Dec. 23, 2022, 136 Stat. 2707; Pub. L. 118–31, div. A, title VIII, § 820, Dec. 22, 2023, 137 Stat. 326; Pub. L. 119–60, div. A, title VIII, § 804(c), Dec. 18, 2025, 139 Stat. 944.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsection (i)(1)(A), referred to in subsec. (g)(2), related to certification of full funding of support costs in multiyear contracts, prior to the general amendment of subsec. (i) by Pub. L. 113–291, div. A, title VIII, § 816(a), Dec. 19, 2014, 128 Stat. 3430. As amended, subsec. (i) no longer contains a par. (1)(A).
+Subsection (i)(1)(A), referred to in subsec. (g)(2), related to certification of full funding of support costs in multiyear contracts, prior to the general amendment of subsec. (i) by Pub. L. 113–291, div. A, title VIII, § 816(a), Dec. 19, 2014, 128 Stat. 3430. As amended, subsec. (i) no longer contains a par. (1)(A).
 
 **Codification**
 
-Pub. L. 116–283, § 1822(b)–(*l*), which had initially directed the transfers of various subsections of section 2306b of this title to sections 3501 to 3511, was amended by Pub. L. 117–81, § 1701(k)(2), by striking out subsecs. (b) to (*l*) and adding a new subsec. (b). After that amendment, such transfers were no longer directed. Instead, Pub. L. 116–283, § 1822(b), as added by Pub. L. 117–81, directed the transfer of section 2306b of this title in its entirety to this section, thereby omitting what would have been sections 3502 to 3511 of this title. The transfer of section 2306b to this section was executed by transferring the text only of section 2306b, as the section designation and catchline had already been enacted by Pub. L. 116–283, § 1822(a), as amended by Pub. L. 117–81, § 1701(k)(1)(B).
+Pub. L. 116–283, § 1822(b)–(*l*), which had initially directed the transfers of various subsections of section 2306b of this title to sections 3501 to 3511, was amended by Pub. L. 117–81, § 1701(k)(2), by striking out subsecs. (b) to (*l*) and adding a new subsec. (b). After that amendment, such transfers were no longer directed. Instead, Pub. L. 116–283, § 1822(b), as added by Pub. L. 117–81, directed the transfer of section 2306b of this title in its entirety to this section, thereby omitting what would have been sections 3502 to 3511 of this title. The transfer of section 2306b to this section was executed by transferring the text only of section 2306b, as the section designation and catchline had already been enacted by Pub. L. 116–283, § 1822(a), as amended by Pub. L. 117–81, § 1701(k)(1)(B).
 
-The text of section 2306b of this title, which was transferred to this section by Pub. L. 116–283, § 1822(b), as amended by Pub. L. 117–81, § 1701(k)(2)(B), was based on Pub. L. 103–355, title I, § 1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; Pub. L. 104–106, div. A, title XV, § 1502(a)(10), div. E, title LVI, § 5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, § 806(a)(1), (b)(1), (c), title X, § 1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, § 809, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, § 1 [[div. A], title VIII, §§ 802(c), 806], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, § 820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, § 1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, § 814(a), title X, § 1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060; Pub. L. 110–181, div. A, title VIII, § 811(a), Jan. 28, 2008, 122 Stat. 217; Pub. L. 111–23, title I, § 101(d)(2), May 22, 2009, 123 Stat. 1709; Pub. L. 113–291, div. A, title VIII, § 816(a), (b), Dec. 19, 2014, 128 Stat. 3430, 3432; Pub. L. 114–92, div. A, title VIII, § 811, Nov. 25, 2015, 129 Stat. 891; Pub. L. 115–91, div. A, title X, § 1051(a)(14), Dec. 12, 2017, 131 Stat. 1561; Pub. L. 115–232, div. A, title VIII, § 817, Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–92, div. A, title IX, § 902(48), Dec. 20, 2019, 133 Stat. 1548.
+The text of section 2306b of this title, which was transferred to this section by Pub. L. 116–283, § 1822(b), as amended by Pub. L. 117–81, § 1701(k)(2)(B), was based on Pub. L. 103–355, title I, § 1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; Pub. L. 104–106, div. A, title XV, § 1502(a)(10), div. E, title LVI, § 5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, § 806(a)(1), (b)(1), (c), title X, § 1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, § 809, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, § 1 [[div. A], title VIII, §§ 802(c), 806], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, § 820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, § 1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, § 814(a), title X, § 1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060; Pub. L. 110–181, div. A, title VIII, § 811(a), Jan. 28, 2008, 122 Stat. 217; Pub. L. 111–23, title I, § 101(d)(2), May 22, 2009, 123 Stat. 1709; Pub. L. 113–291, div. A, title VIII, § 816(a), (b), Dec. 19, 2014, 128 Stat. 3430, 3432; Pub. L. 114–92, div. A, title VIII, § 811, Nov. 25, 2015, 129 Stat. 891; Pub. L. 115–91, div. A, title X, § 1051(a)(14), Dec. 12, 2017, 131 Stat. 1561; Pub. L. 115–232, div. A, title VIII, § 817, Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–92, div. A, title IX, § 902(48), Dec. 20, 2019, 133 Stat. 1548.
 
 **Prior Provisions**
 
-Prior sections 3501 and 3502 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1662(f)(2), 1691, Oct. 5, 1994, 108 Stat. 2994, 3026, effective Dec. 1, 1994.
+Prior sections 3501 and 3502 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1662(f)(2), 1691, Oct. 5, 1994, 108 Stat. 2994, 3026, effective Dec. 1, 1994.
 
-Section 3501, acts Aug. 10, 1956, ch. 1041, 70A Stat. 199; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, § 1234(a)(1), 102 Stat. 2059, related to period of service and apportionment of members and units of Army National Guard called into Federal service. See section 12407 of this title.
+Section 3501, acts Aug. 10, 1956, ch. 1041, 70A Stat. 199; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, § 1234(a)(1), 102 Stat. 2059, related to period of service and apportionment of members and units of Army National Guard called into Federal service. See section 12407 of this title.
 
 Section 3502, act Aug. 10, 1956, ch. 1041, 70A Stat. 200, related to physical examinations of members of Army National Guard called into Federal service. See section 12408 of this title.
 
 A prior section 3503 was renumbered section 7203 of this title.
 
-Prior sections 3504, 3531, and 3532 were repealed by Pub. L. 96–513, title II, §§ 210, 233(a), 234, title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2887, 2955, effective Sept. 15, 1981.
+Prior sections 3504, 3531, and 3532 were repealed by Pub. L. 96–513, title II, §§ 210, 233(a), 234, title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2887, 2955, effective Sept. 15, 1981.
 
-Section 3504, acts Aug. 10, 1956, ch. 1041, 70A Stat. 200; Sept. 2, 1958, Pub. L. 85–861, § 1(83), 72 Stat. 1481, authorized the President to order any retired member of the Regular Army to active duty.
+Section 3504, acts Aug. 10, 1956, ch. 1041, 70A Stat. 200; Sept. 2, 1958, Pub. L. 85–861, § 1(83), 72 Stat. 1481, authorized the President to order any retired member of the Regular Army to active duty.
 
 **Amendments**
 
 2025—Subsec. (a)(1)(A). Pub. L. 119–60 struck out “significant” before “savings”.
 
-2023—Subsec. (a)(1). Pub. L. 118–31 inserted dash after “will result in” and subpar. (A) designation before “significant savings”, substituted “; or” for period at end, and added subpar. (B).
+2023—Subsec. (a)(1). Pub. L. 118–31 inserted dash after “will result in” and subpar. (A) designation before “significant savings”, substituted “; or” for period at end, and added subpar. (B).
 
 2022—Subsec. (i)(2). Pub. L. 117–263 substituted “shall include in the request a report” for “shall include in the request the following:
 
 “(A) A report” and struck out subpar. (B) which read as follows: “Confirmation that the preliminary findings of the agency head under subparagraph (A) were supported by a preliminary cost analysis performed by the Director of Cost Assessment and Program Evaluation.”
 
-2021—Pub. L. 117–81, § 1701(k)(1)(B), amended Pub. L. 116–283, § 1822(a), which enacted this section, by substituting “Multiyear contracts: acquisition of property” for “Multiyear contracts for acquisition of property: authority; definitions” in section catchline.
+2021—Pub. L. 117–81, § 1701(k)(1)(B), amended Pub. L. 116–283, § 1822(a), which enacted this section, by substituting “Multiyear contracts: acquisition of property” for “Multiyear contracts for acquisition of property: authority; definitions” in section catchline.
 
-Pub. L. 116–283, § 1822(b), as added by Pub. L. 117–81, § 1701(k)(2)(B), transferred text of section 2306b of this title to this section. See Codification note above.
+Pub. L. 116–283, § 1822(b), as added by Pub. L. 117–81, § 1701(k)(2)(B), transferred text of section 2306b of this title to this section. See Codification note above.
 
-Subsec. (i)(3)(B). Pub. L. 116–283, § 1883(b)(2), substituted “section 3226(b)” for “section 2334(e)(2)”.
+Subsec. (i)(3)(B). Pub. L. 116–283, § 1883(b)(2), substituted “section 3226(b)” for “section 2334(e)(2)”.
 
-Subsec. (i)(3)(C). Pub. L. 116–283, § 1883(b)(2), substituted “section 4374” for “section 2433(d)”.
+Subsec. (i)(3)(C). Pub. L. 116–283, § 1883(b)(2), substituted “section 4374” for “section 2433(d)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -261,7 +261,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **Multiyear Procurement Authority for Covered Systems and Certain Munitions**
 
-Pub. L. 119–60, div. A, title VIII, § 804(a), (b), Dec. 18, 2025, 139 Stat. 942, provided that:
+Pub. L. 119–60, div. A, title VIII, § 804(a), (b), Dec. 18, 2025, 139 Stat. 942, provided that:
 
 > **“(a) Multiyear Procurement for Covered Systems.—**
 
@@ -333,7 +333,7 @@ Pub. L. 119–60, div. A, title VIII, § 804(a), (b), Dec. 18, 2025, 139 Stat.
 
 **Multiple Program Multiyear Contract Pilot Demonstration Program**
 
-Pub. L. 114–328, div. A, title VIII, § 853, Dec. 23, 2016, 130 Stat. 2296, provided that:
+Pub. L. 114–328, div. A, title VIII, § 853, Dec. 23, 2016, 130 Stat. 2296, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense may conduct a multiyear contract, over a period of up to four years, for the purchase of units for multiple defense programs that are produced at common facilities at a high rate, and which maximize commonality, efficiencies, and quality, in order to provide maximum benefit to the Department of Defense. Contracts awarded under this section should allow for significant savings, as determined consistent with the authority under section 2306b of title 10, United States Code [see 10 U.S.C. 3501], to be achieved as compared to using separate annual contracts under individual programs to purchase such units, and may include flexible delivery across the overall period of performance.
 
@@ -351,7 +351,7 @@ Pub. L. 114–328, div. A, title VIII, § 853, Dec. 23, 2016, 130 Stat. 2296, 
 
 **Multiyear Procurement Contracts**
 
-Pub. L. 105–56, title VIII, § 8008, Oct. 8, 1997, 111 Stat. 1221, provided that:
+Pub. L. 105–56, title VIII, § 8008, Oct. 8, 1997, 111 Stat. 1221, provided that:
 
 > **“(a)** None of the funds provided in this Act [see Tables for classification] shall be available to initiate: (1) a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year of the contract or that includes an unfunded contingent liability in excess of $20,000,000; or (2) a contract for advance procurement leading to a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year, unless the congressional defense committees [Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate] have been notified at least 30 days in advance of the proposed contract award: *Provided*, That no part of any appropriation contained in this Act shall be available to initiate a multiyear contract for which the economic order quantity advance procurement is not funded at least to the limits of the Government’s liability: *Provided further*, That no part of any appropriation contained in this Act shall be available to initiate multiyear procurement contracts for any systems or component thereof if the value of the multiyear contract would exceed $500,000,000 unless specifically provided in this Act: *Provided further*, That no multiyear procurement contract can be terminated without 10-day prior notification to the congressional defense committees: *Provided further*, That the execution of multiyear authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.
 
@@ -373,77 +373,77 @@ Pub. L. 105–56, title VIII, § 8008, Oct. 8, 1997, 111 Stat. 1221, provided 
 
 Similar provisions were contained in the following appropriation acts:
 
-Pub. L. 119–75, div. A, title VIII, § 8010, Feb. 3, 2026, 140 Stat. 198.
+Pub. L. 119–75, div. A, title VIII, § 8010, Feb. 3, 2026, 140 Stat. 198.
 
-Pub. L. 118–47, div. A, title VIII, § 8010, Mar. 23, 2024, 138 Stat. 483.
+Pub. L. 118–47, div. A, title VIII, § 8010, Mar. 23, 2024, 138 Stat. 483.
 
-Pub. L. 117–328, div. C, title VIII, § 8010, Dec. 29, 2022, 136 Stat. 4587.
+Pub. L. 117–328, div. C, title VIII, § 8010, Dec. 29, 2022, 136 Stat. 4587.
 
-Pub. L. 117–103, div. C, title VIII, § 8010, Mar. 15, 2022, 136 Stat. 175.
+Pub. L. 117–103, div. C, title VIII, § 8010, Mar. 15, 2022, 136 Stat. 175.
 
-Pub. L. 116–260, div. C, title VIII, § 8010, Dec. 27, 2020, 134 Stat. 1304.
+Pub. L. 116–260, div. C, title VIII, § 8010, Dec. 27, 2020, 134 Stat. 1304.
 
-Pub. L. 116–93, div. A, title VIII, § 8010, Dec. 20, 2019, 133 Stat. 2337.
+Pub. L. 116–93, div. A, title VIII, § 8010, Dec. 20, 2019, 133 Stat. 2337.
 
-Pub. L. 115–245, div. A, title VIII, § 8010, Sept. 28, 2018, 132 Stat. 3000.
+Pub. L. 115–245, div. A, title VIII, § 8010, Sept. 28, 2018, 132 Stat. 3000.
 
-Pub. L. 115–141, div. C, title VIII, § 8010, Mar. 23, 2018, 132 Stat. 464.
+Pub. L. 115–141, div. C, title VIII, § 8010, Mar. 23, 2018, 132 Stat. 464.
 
-Pub. L. 115–31, div. C, title VIII, § 8010, May 5, 2017, 131 Stat. 247.
+Pub. L. 115–31, div. C, title VIII, § 8010, May 5, 2017, 131 Stat. 247.
 
-Pub. L. 114–113, div. C, title VIII, § 8010, Dec. 18, 2015, 129 Stat. 2352.
+Pub. L. 114–113, div. C, title VIII, § 8010, Dec. 18, 2015, 129 Stat. 2352.
 
-Pub. L. 113–235, div. C, title VIII, § 8010, Dec. 16, 2014, 128 Stat. 2253.
+Pub. L. 113–235, div. C, title VIII, § 8010, Dec. 16, 2014, 128 Stat. 2253.
 
-Pub. L. 113–76, div. C, title VIII, § 8010, Jan. 17, 2014, 128 Stat. 105.
+Pub. L. 113–76, div. C, title VIII, § 8010, Jan. 17, 2014, 128 Stat. 105.
 
-Pub. L. 113–6, div. C, title VIII, § 8010, Mar. 26, 2013, 127 Stat. 297.
+Pub. L. 113–6, div. C, title VIII, § 8010, Mar. 26, 2013, 127 Stat. 297.
 
-Pub. L. 112–74, div. A, title VIII, § 8010, Dec. 23, 2011, 125 Stat. 806.
+Pub. L. 112–74, div. A, title VIII, § 8010, Dec. 23, 2011, 125 Stat. 806.
 
-Pub. L. 112–10, div. A, title VIII, § 8010, Apr. 15, 2011, 125 Stat. 57.
+Pub. L. 112–10, div. A, title VIII, § 8010, Apr. 15, 2011, 125 Stat. 57.
 
-Pub. L. 111–118, div. A, title VIII, § 8011, Dec. 19, 2009, 123 Stat. 3428, as amended by Pub. L. 111–212, title I, § 305, July 29, 2010, 124 Stat. 2311.
+Pub. L. 111–118, div. A, title VIII, § 8011, Dec. 19, 2009, 123 Stat. 3428, as amended by Pub. L. 111–212, title I, § 305, July 29, 2010, 124 Stat. 2311.
 
-Pub. L. 110–329, div. C, title VIII, § 8011, Sept. 30, 2008, 122 Stat. 3621.
+Pub. L. 110–329, div. C, title VIII, § 8011, Sept. 30, 2008, 122 Stat. 3621.
 
-Pub. L. 110–116, div. A, title VIII, § 8010, Nov. 13, 2007, 121 Stat. 1315.
+Pub. L. 110–116, div. A, title VIII, § 8010, Nov. 13, 2007, 121 Stat. 1315.
 
-Pub. L. 109–289, div. A, title VIII, § 8008, Sept. 29, 2006, 120 Stat. 1273.
+Pub. L. 109–289, div. A, title VIII, § 8008, Sept. 29, 2006, 120 Stat. 1273.
 
-Pub. L. 109–148, div. A, title VIII, § 8008, Dec. 30, 2005, 119 Stat. 2698.
+Pub. L. 109–148, div. A, title VIII, § 8008, Dec. 30, 2005, 119 Stat. 2698.
 
-Pub. L. 108–287, title VIII, § 8008, Aug. 5, 2004, 118 Stat. 970.
+Pub. L. 108–287, title VIII, § 8008, Aug. 5, 2004, 118 Stat. 970.
 
-Pub. L. 108–87, title VIII, § 8008, Sept. 30, 2003, 117 Stat. 1072.
+Pub. L. 108–87, title VIII, § 8008, Sept. 30, 2003, 117 Stat. 1072.
 
-Pub. L. 107–248, title VIII, § 8008, Oct. 23, 2002, 116 Stat. 1537.
+Pub. L. 107–248, title VIII, § 8008, Oct. 23, 2002, 116 Stat. 1537.
 
-Pub. L. 107–117, div. A, title VIII, § 8008, Jan. 10, 2002, 115 Stat. 2248.
+Pub. L. 107–117, div. A, title VIII, § 8008, Jan. 10, 2002, 115 Stat. 2248.
 
-Pub. L. 106–259, title VIII, § 8008, Aug. 9, 2000, 114 Stat. 675.
+Pub. L. 106–259, title VIII, § 8008, Aug. 9, 2000, 114 Stat. 675.
 
-Pub. L. 106–79, title VIII, § 8008, Oct. 25, 1999, 113 Stat. 1232.
+Pub. L. 106–79, title VIII, § 8008, Oct. 25, 1999, 113 Stat. 1232.
 
-Pub. L. 105–262, title VIII, § 8008, Oct. 17, 1998, 112 Stat. 2298.
+Pub. L. 105–262, title VIII, § 8008, Oct. 17, 1998, 112 Stat. 2298.
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8009], Sept. 30, 1996, 110 Stat. 3009–71, 3009–89.
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8009], Sept. 30, 1996, 110 Stat. 3009–71, 3009–89.
 
-Pub. L. 104–61, title VIII, § 8010, Dec. 1, 1995, 109 Stat. 653.
+Pub. L. 104–61, title VIII, § 8010, Dec. 1, 1995, 109 Stat. 653.
 
-Pub. L. 103–335, title VIII, § 8010, Sept. 30, 1994, 108 Stat. 2618.
+Pub. L. 103–335, title VIII, § 8010, Sept. 30, 1994, 108 Stat. 2618.
 
-Pub. L. 103–139, title VIII, § 8011, Nov. 11, 1993, 107 Stat. 1439.
+Pub. L. 103–139, title VIII, § 8011, Nov. 11, 1993, 107 Stat. 1439.
 
-Pub. L. 102–396, title IX, § 9013, Oct. 6, 1992, 106 Stat. 1903.
+Pub. L. 102–396, title IX, § 9013, Oct. 6, 1992, 106 Stat. 1903.
 
-Pub. L. 102–172, title VIII, § 8013, Nov. 26, 1991, 105 Stat. 1173.
+Pub. L. 102–172, title VIII, § 8013, Nov. 26, 1991, 105 Stat. 1173.
 
-Pub. L. 101–511, title VIII, § 8014, Nov. 5, 1990, 104 Stat. 1877.
+Pub. L. 101–511, title VIII, § 8014, Nov. 5, 1990, 104 Stat. 1877.
 
-Pub. L. 101–165, title IX, § 9021, Nov. 21, 1989, 103 Stat. 1133.
+Pub. L. 101–165, title IX, § 9021, Nov. 21, 1989, 103 Stat. 1133.
 
-### [§§ 3502 to 3511. Omitted]
+### [§§ 3502 to 3511. Omitted]
 
 **Editorial Notes**
 
@@ -457,9 +457,9 @@ See Codification note set out under section 3501 of this title.
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(k)(3)(A)(i), (B), Dec. 27, 2021, 135 Stat. 2143, amended Pub. L. 116–283, div. A, title XVIII, § 1822(c), formerly § 1822(m), Jan. 1, 2021, 134 Stat. 4203, which added this analysis, by making the redesignation of section 1822(m) as 1822(c) and by adding item 3531 and striking out what would have been items 3531 to 3535.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(k)(3)(A)(i), (B), Dec. 27, 2021, 135 Stat. 2143, amended Pub. L. 116–283, div. A, title XVIII, § 1822(c), formerly § 1822(m), Jan. 1, 2021, 134 Stat. 4203, which added this analysis, by making the redesignation of section 1822(m) as 1822(c) and by adding item 3531 and striking out what would have been items 3531 to 3535.
 
-### § 3531. Multiyear contracts: acquisition of services
+### § 3531. Multiyear contracts: acquisition of services
 
 **(a) Authority.—** Subject to subsections (d) and (e), the head of an agency may enter into contracts for periods of not more than five years for services described in subsection (b), and for items of supply related to such services, for which funds would otherwise be available for obligation only within the fiscal year for which appropriated whenever the head of the agency finds that—
 
@@ -523,23 +523,23 @@ See Codification note set out under section 3501 of this title.
 
 **(f) Multiyear Contract Defined.—** For the purposes of this section, a multiyear contract is a contract for the purchase of services for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
 
-**[(g)** Repealed. Pub. L. 108–136, div. A, title VIII, § 843(a), Nov. 24, 2003, 117 Stat. 1553.]
+**[(g)** Repealed. Pub. L. 108–136, div. A, title VIII, § 843(a), Nov. 24, 2003, 117 Stat. 1553.]
 
 **(h) Military Installation Defined.—** In this section, the term “military installation” has the meaning given such term in section 2801(c)(4) of this title.
 
-(Added Pub. L. 116–283, div. A, title XVIII, § 1822(c), formerly § 1822(m), Jan. 1, 2021, 134 Stat. 4203, as renumbered and amended Pub. L. 117–81, div. A, title XVII, § 1701(k)(3)(A)(ii), (B), Dec. 27, 2021, 135 Stat. 2143; amended Pub. L. 116–283, div. A, title XVIII, § 1822(d), as added Pub. L. 117–81, div. A, title XVII, § 1701(k)(3)(D), Dec. 27, 2021, 135 Stat. 2143; Pub. L. 117–81, div. A, title XVII, § 1701(k)(3)(C), Dec. 27, 2021, 135 Stat. 2143.)
+(Added Pub. L. 116–283, div. A, title XVIII, § 1822(c), formerly § 1822(m), Jan. 1, 2021, 134 Stat. 4203, as renumbered and amended Pub. L. 117–81, div. A, title XVII, § 1701(k)(3)(A)(ii), (B), Dec. 27, 2021, 135 Stat. 2143; amended Pub. L. 116–283, div. A, title XVIII, § 1822(d), as added Pub. L. 117–81, div. A, title XVII, § 1701(k)(3)(D), Dec. 27, 2021, 135 Stat. 2143; Pub. L. 117–81, div. A, title XVII, § 1701(k)(3)(C), Dec. 27, 2021, 135 Stat. 2143.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 116–283, § 1822(n)–(s), which had initially directed the transfers of various subsections of section 2306c of this title to sections 3531 to 3535, was struck out by Pub. L. 117–81, § 1701(k)(3)(C). Instead, Pub. L. 116–283, § 1822(d), as added by Pub. L. 117–81, § 1701(k)(3)(D), directed the transfer of section 2306c of this title in its entirety to this section, thereby omitting what would have been sections 3532 to 3535 of this title. The transfer of section 2306c to this section was executed by transferring the text only of section 2306c, as the section designation and catchline had already been enacted by Pub. L. 116–283, § 1822(c), formerly § 1822(m), as renumbered and amended by Pub. L. 117–81, § 1701(k)(3)(A)(ii), (B).
+Pub. L. 116–283, § 1822(n)–(s), which had initially directed the transfers of various subsections of section 2306c of this title to sections 3531 to 3535, was struck out by Pub. L. 117–81, § 1701(k)(3)(C). Instead, Pub. L. 116–283, § 1822(d), as added by Pub. L. 117–81, § 1701(k)(3)(D), directed the transfer of section 2306c of this title in its entirety to this section, thereby omitting what would have been sections 3532 to 3535 of this title. The transfer of section 2306c to this section was executed by transferring the text only of section 2306c, as the section designation and catchline had already been enacted by Pub. L. 116–283, § 1822(c), formerly § 1822(m), as renumbered and amended by Pub. L. 117–81, § 1701(k)(3)(A)(ii), (B).
 
-The text of section 2306c of this title, which was transferred to this section by Pub. L. 116–283, § 1822(d), as added by Pub. L. 117–81, § 1701(k)(3)(D), was based on Pub. L. 106–398, § 1 [[div. A], title VIII, § 802(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–203; Pub. L. 107–314, div. A, title VIII, §§ 811(a), 827, Dec. 2, 2002, 116 Stat. 2608, 2617; Pub. L. 108–136, div. A, title VIII, § 843(a), title X, § 1043(c)(1), Nov. 24, 2003, 117 Stat. 1553, 1611; Pub. L. 108–375, div. A, title VIII, § 814(b), Oct. 28, 2004, 118 Stat. 2014; Pub. L. 111–84, div. A, title X, § 1073(a)(22), Oct. 28, 2009, 123 Stat. 2473.
+The text of section 2306c of this title, which was transferred to this section by Pub. L. 116–283, § 1822(d), as added by Pub. L. 117–81, § 1701(k)(3)(D), was based on Pub. L. 106–398, § 1 [[div. A], title VIII, § 802(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–203; Pub. L. 107–314, div. A, title VIII, §§ 811(a), 827, Dec. 2, 2002, 116 Stat. 2608, 2617; Pub. L. 108–136, div. A, title VIII, § 843(a), title X, § 1043(c)(1), Nov. 24, 2003, 117 Stat. 1553, 1611; Pub. L. 108–375, div. A, title VIII, § 814(b), Oct. 28, 2004, 118 Stat. 2014; Pub. L. 111–84, div. A, title X, § 1073(a)(22), Oct. 28, 2009, 123 Stat. 2473.
 
 **Prior Provisions**
 
-Prior sections 3531 and 3532 were repealed by Pub. L. 96–513, title II, §§ 210, 233(a), 234, title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2887, 2955, effective Sept. 15, 1981.
+Prior sections 3531 and 3532 were repealed by Pub. L. 96–513, title II, §§ 210, 233(a), 234, title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2887, 2955, effective Sept. 15, 1981.
 
 Section 3531, act Aug. 10, 1956, ch. 1041, 70A Stat. 201, related to appointment of a general officer of the Army as the Chief of Staff to the President.
 
@@ -547,43 +547,43 @@ Section 3532, act Aug. 10, 1956, ch. 1041, 70A Stat. 201, provided that a colone
 
 Prior sections 3533 and 3534 were renumbered sections 7213 and 7214 of this title, respectively.
 
-A prior section 3535, act Aug. 10, 1956, ch. 1041, 70A Stat. 201, provided that an officer assigned as Assistant to the Chief of Engineers in charge of civil works, including river and harbor and flood control improvements, be entitled to the rank, pay, and allowances of a brigadier general while so serving, prior to repeal by Pub. L. 96–513, title II, § 235, title VII, § 701, Dec. 12, 1980, 94 Stat. 2887, 2955, effective Sept. 15, 1981.
+A prior section 3535, act Aug. 10, 1956, ch. 1041, 70A Stat. 201, provided that an officer assigned as Assistant to the Chief of Engineers in charge of civil works, including river and harbor and flood control improvements, be entitled to the rank, pay, and allowances of a brigadier general while so serving, prior to repeal by Pub. L. 96–513, title II, § 235, title VII, § 701, Dec. 12, 1980, 94 Stat. 2887, 2955, effective Sept. 15, 1981.
 
 A prior section 3536 was renumbered section 7216 of this title.
 
-Prior sections 3538 and 3539 were repealed by Pub. L. 90–235, § 4(a)(2), (b)(1), Jan. 2, 1968, 81 Stat. 759, 760.
+Prior sections 3538 and 3539 were repealed by Pub. L. 90–235, § 4(a)(2), (b)(1), Jan. 2, 1968, 81 Stat. 759, 760.
 
 Section 3538, act Aug. 10, 1956, ch. 1041, 70A Stat. 202, provided for detail of officers of Ordinance Corps of the Army to serve with the Geological Survey.
 
 Section 3539, act Aug. 10, 1956, ch. 1041, 70A Stat. 202, provided for detail of officers of Army Medical Service for duty with the Service to Armed Forces Division of American National Red Cross and for detail of an officer of Medical Corps of the Army to be in charge of first-aid department of American National Red Cross. See section 711a of this title.
 
-A prior section 3540, act Aug. 10, 1956, ch. 1041, 70A Stat. 202, related to detail of members of regular or reserve components as professors and instructors in military science and tactics to educational institutions, prior to repeal by Pub. L. 88–647, title III, § 301(7), Oct. 13, 1964, 78 Stat. 1071. See section 2111 of this title.
+A prior section 3540, act Aug. 10, 1956, ch. 1041, 70A Stat. 202, related to detail of members of regular or reserve components as professors and instructors in military science and tactics to educational institutions, prior to repeal by Pub. L. 88–647, title III, § 301(7), Oct. 13, 1964, 78 Stat. 1071. See section 2111 of this title.
 
-Prior sections 3541 and 3542 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1661(c)(2), 1662(g)(2), 1691, Oct. 5, 1994, 108 Stat. 2982, 2996, 3026, effective Dec. 1, 1994.
+Prior sections 3541 and 3542 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1661(c)(2), 1662(g)(2), 1691, Oct. 5, 1994, 108 Stat. 2982, 2996, 3026, effective Dec. 1, 1994.
 
 Section 3541, act Aug. 10, 1956, ch. 1041, 70A Stat. 202, authorized President to assign regular and reserve Army officers to National Guard Bureau. See section 10507 of this title.
 
 Section 3542, act Aug. 10, 1956, ch. 1041, 70A Stat. 202, authorized President to detail certain officers as chief and assistant chief of staff of divisions of Army National Guard in Federal service. See section 12502(a) of this title.
 
-A prior section 3543, act Aug. 10, 1956, ch. 1041, 70A Stat. 202, related to number of authorized aides, prior to repeal by Pub. L. 114–328, div. A, title V, § 502(s)(1), Dec. 23, 2016, 130 Stat. 2104.
+A prior section 3543, act Aug. 10, 1956, ch. 1041, 70A Stat. 202, related to number of authorized aides, prior to repeal by Pub. L. 114–328, div. A, title V, § 502(s)(1), Dec. 23, 2016, 130 Stat. 2104.
 
-Prior sections 3544 and 3545 were repealed by Pub. L. 90–235, § 4(a)(6), (b)(1), Jan. 2, 1968, 81 Stat. 759, 760.
+Prior sections 3544 and 3545 were repealed by Pub. L. 90–235, § 4(a)(6), (b)(1), Jan. 2, 1968, 81 Stat. 759, 760.
 
 Section 3544, act Aug. 10, 1956, ch. 1041, 70A Stat. 203, restricted performance of civil functions by commissioned officers of Regular Army. See section 973 of this title.
 
 Section 3545, act Aug. 10, 1956, ch. 1041, 70A Stat. 203, provided that cooking for enlisted members of Army should be superintended by officers of organizations to which members belonged.
 
-A prior section 3546, act Aug. 10, 1956, ch. 1041, 70A Stat. 203, required officers of the Medical Corps and contract surgeons to attend families of members of the Army, prior to repeal by Pub. L. 85–861, § 36B(7), Sept. 2, 1958, 72 Stat. 1570.
+A prior section 3546, act Aug. 10, 1956, ch. 1041, 70A Stat. 203, required officers of the Medical Corps and contract surgeons to attend families of members of the Army, prior to repeal by Pub. L. 85–861, § 36B(7), Sept. 2, 1958, 72 Stat. 1570.
 
 Prior sections 3547 and 3548 were renumbered sections 7217 and 7218 of this title, respectively.
 
 **Amendments**
 
-2021—Pub. L. 117–81, § 1701(k)(3)(A)(ii), (B), amended Pub. L. 116–283, § 1822(c), formerly § 1822(m), which enacted this section, by renumbering such section 1822(m) as 1822(c) and by substituting “Multiyear contracts: acquisition of services” for “Multiyear contracts for acquisition of services: authority; definitions” in section catchline.
+2021—Pub. L. 117–81, § 1701(k)(3)(A)(ii), (B), amended Pub. L. 116–283, § 1822(c), formerly § 1822(m), which enacted this section, by renumbering such section 1822(m) as 1822(c) and by substituting “Multiyear contracts: acquisition of services” for “Multiyear contracts for acquisition of services: authority; definitions” in section catchline.
 
-Pub. L. 116–283, § 1822(n), which had originally transferred subsecs. (a), (b), (f), and (h) of section 2306c of this title to this section, was repealed by Pub. L. 117–81, § 1701(k)(3)(C).
+Pub. L. 116–283, § 1822(n), which had originally transferred subsecs. (a), (b), (f), and (h) of section 2306c of this title to this section, was repealed by Pub. L. 117–81, § 1701(k)(3)(C).
 
-Pub. L. 116–283, § 1822(d), as added by Pub. L. 117–81, § 1701(k)(3)(D), transferred text of section 2306c of this title to this section. See Codification note above.
+Pub. L. 116–283, § 1822(d), as added by Pub. L. 117–81, § 1701(k)(3)(D), transferred text of section 2306c of this title to this section. See Codification note above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -597,7 +597,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **Pilot Program for Longer Term Multiyear Service Contracts**
 
-Pub. L. 115–91, div. A, title VIII, § 854, Dec. 12, 2017, 131 Stat. 1492, provided that:
+Pub. L. 115–91, div. A, title VIII, § 854, Dec. 12, 2017, 131 Stat. 1492, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense shall carry out a pilot program under which the Secretary may use the authority under subsection (a) of section 2306c of title 10, United States Code [see 10 U.S.C. 3531], to enter into up to five contracts for periods of not more than 10 years for services described in subsection (b) of such section. Each contract entered into pursuant to this subsection may be extended for up to five additional one-year terms.
 
@@ -609,7 +609,7 @@ Pub. L. 115–91, div. A, title VIII, § 854, Dec. 12, 2017, 131 Stat. 1492, p
 
 > **“(c) Comptroller General Report.—** Not later than five years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the congressional defense committees a report on the pilot program carried out under this section.”
 
-### [§§ 3532 to 3535. Omitted]
+### [§§ 3532 to 3535. Omitted]
 
 **Editorial Notes**
 
@@ -623,15 +623,15 @@ See Codification note set out under section 3531 of this title.
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(k)(4), Dec. 27, 2021, 135 Stat. 2144, amended Pub. L. 116–283, div. A, title XVIII, § 1822(e)(1), formerly § 1822(t)(1), Jan. 1, 2021, 134 Stat. 4204, which added this analysis, by renumbering such section 1822(t)(1) as 1822(e)(1).
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(k)(4), Dec. 27, 2021, 135 Stat. 2144, amended Pub. L. 116–283, div. A, title XVIII, § 1822(e)(1), formerly § 1822(t)(1), Jan. 1, 2021, 134 Stat. 4204, which added this analysis, by renumbering such section 1822(t)(1) as 1822(e)(1).
 
-### § 3551. Multiyear procurement authority: purchase of dinitrogen tetroxide, hydrazine, and hydrazine-related products
+### § 3551. Multiyear procurement authority: purchase of dinitrogen tetroxide, hydrazine, and hydrazine-related products
 
 **(a) Ten-Year Contract Period.—** The Secretary of Defense may enter into a contract for a period of up to 10 years for the purchase of dinitrogen tetroxide, hydrazine, and hydrazine-related products for the support of a United States national security program or a United States space program.
 
 **(b) Extensions.—** A contract entered into for more than one year under the authority of subsection (a) may be extended for a total of not more than 10 years pursuant to any option or options set forth in the contract.
 
-(Added Pub. L. 107–314, div. A, title VIII, § 826(a), Dec. 2, 2002, 116 Stat. 2617, § 2410*o*; renumbered § 3551, Pub. L. 116–283, div. A, title XVIII, § 1822(e)(2), formerly § 1822(t)(2), Jan. 1, 2021, 134 Stat. 4205, renumbered Pub. L. 117–81, div. A, title XVII, § 1701(k)(4), Dec. 27, 2021, 135 Stat. 2144.)
+(Added Pub. L. 107–314, div. A, title VIII, § 826(a), Dec. 2, 2002, 116 Stat. 2617, § 2410*o*; renumbered § 3551, Pub. L. 116–283, div. A, title XVIII, § 1822(e)(2), formerly § 1822(t)(2), Jan. 1, 2021, 134 Stat. 4205, renumbered Pub. L. 117–81, div. A, title XVII, § 1701(k)(4), Dec. 27, 2021, 135 Stat. 2144.)
 
 **Editorial Notes**
 

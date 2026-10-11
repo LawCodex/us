@@ -13,7 +13,7 @@ retrieved: 2026-10-11
 
 # Title 34—CRIME CONTROL AND LAW ENFORCEMENT
 
-Current through 119-102not101
+Current through 119-102not101
 
 **Editorial Notes**
 
@@ -28,122 +28,122 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | *Former Classification* | *New Classification or Disposition* |
 |---|---|
 | 18:1 note prec (Ex. Ord. No. 11396, Feb. 7, 1968, 33 F.R. 2689) | 34:10101 note prec |
-| 18:1 note (Pub. L. 111–84, div. E, § 4701, Oct. 28, 2009, 123 Stat. 2835) | 34:10101 note |
-| 18:249 note (Pub. L. 111–84, div. E, § 4702, Oct. 28, 2009, 123 Stat. 2835) | 34:30501 |
-| 18:249 note (Pub. L. 111–84, div. E, § 4709, Oct. 28, 2009, 123 Stat. 2841) | 34:30505 |
-| 18:249 note (Pub. L. 111–84, div. E, § 4710, Oct. 28, 2009, 123 Stat. 2841) | 34:30506 |
+| 18:1 note (Pub. L. 111–84, div. E, § 4701, Oct. 28, 2009, 123 Stat. 2835) | 34:10101 note |
+| 18:249 note (Pub. L. 111–84, div. E, § 4702, Oct. 28, 2009, 123 Stat. 2835) | 34:30501 |
+| 18:249 note (Pub. L. 111–84, div. E, § 4709, Oct. 28, 2009, 123 Stat. 2841) | 34:30505 |
+| 18:249 note (Pub. L. 111–84, div. E, § 4710, Oct. 28, 2009, 123 Stat. 2841) | 34:30506 |
 | 18:921 note prec (Memorandum of President of the United States, Jan. 16, 2013, 78 F.R. 4301) | 34:40901 note |
 | 18:921 note prec (Memorandum of President of the United States, Jan. 4, 2016, 81 F.R. 719) | 34:40901 note |
-| 18:922 note (Pub. L. 103–159, title I, § 106(b), Nov. 30, 1993, 107 Stat. 1544) | 34:40302 |
-| 18:922 note (Pub. L. 104–294, title VI, § 603(i)(2), Oct. 11, 1996, 110 Stat. 3504) | 34:40302 note |
-| 18:922 note (Pub. L. 103–159, title I, § 103, Nov. 30, 1993, 107 Stat. 1541) | 34:40901 |
-| 18:922 note (Pub. L. 100–690, title VI, § 6213, Nov. 18, 1988, 102 Stat. 4360) | 34:40901 note |
-| 18:922 note (Pub. L. 110–180, § 1, Jan. 8, 2008, 121 Stat. 2559) | 34:10101 note |
-| 18:922 note (Pub. L. 105–277, div. A, § 101(h) [title VI, § 655], Oct. 21, 1998, 112 Stat. 2681–480, 2681–530) | 34:40901 note |
-| 18:922 note (Pub. L. 106–58, title VI, § 634, Sept. 29, 1999, 113 Stat. 473) | 34:40901 note |
-| 18:922 note (Pub. L. 112–55, div. B, title V, § 511, Nov. 18, 2011, 125 Stat. 632) | 34:40901 note |
-| 18:922 note (Pub. L. 110–180, § 2, Jan. 8, 2008, 121 Stat. 2559) | 34:40902 |
-| 18:922 note (Pub. L. 110–180, § 3, Jan. 8, 2008, 121 Stat. 2560) | 34:40903 |
-| 18:922 note (Pub. L. 110–180, title I, § 101, Jan. 8, 2008, 121 Stat. 2561) | 34:40911 |
+| 18:922 note (Pub. L. 103–159, title I, § 106(b), Nov. 30, 1993, 107 Stat. 1544) | 34:40302 |
+| 18:922 note (Pub. L. 104–294, title VI, § 603(i)(2), Oct. 11, 1996, 110 Stat. 3504) | 34:40302 note |
+| 18:922 note (Pub. L. 103–159, title I, § 103, Nov. 30, 1993, 107 Stat. 1541) | 34:40901 |
+| 18:922 note (Pub. L. 100–690, title VI, § 6213, Nov. 18, 1988, 102 Stat. 4360) | 34:40901 note |
+| 18:922 note (Pub. L. 110–180, § 1, Jan. 8, 2008, 121 Stat. 2559) | 34:10101 note |
+| 18:922 note (Pub. L. 105–277, div. A, § 101(h) [title VI, § 655], Oct. 21, 1998, 112 Stat. 2681–480, 2681–530) | 34:40901 note |
+| 18:922 note (Pub. L. 106–58, title VI, § 634, Sept. 29, 1999, 113 Stat. 473) | 34:40901 note |
+| 18:922 note (Pub. L. 112–55, div. B, title V, § 511, Nov. 18, 2011, 125 Stat. 632) | 34:40901 note |
+| 18:922 note (Pub. L. 110–180, § 2, Jan. 8, 2008, 121 Stat. 2559) | 34:40902 |
+| 18:922 note (Pub. L. 110–180, § 3, Jan. 8, 2008, 121 Stat. 2560) | 34:40903 |
+| 18:922 note (Pub. L. 110–180, title I, § 101, Jan. 8, 2008, 121 Stat. 2561) | 34:40911 |
 | 18:922 note (Memorandum of President of the United States, Jan. 16, 2013, 78 F.R. 4297) | 34:40911 note |
-| 18:922 note (Pub. L. 110–180, title I, § 102, Jan. 8, 2008, 121 Stat. 2564) | 34:40912 |
-| 18:922 note (Pub. L. 110–180, title I, § 103, Jan. 8, 2008, 121 Stat. 2567) | 34:40913 |
-| 18:922 note (Pub. L. 110–180, title I, § 104, Jan. 8, 2008, 121 Stat. 2568) | 34:40914 |
-| 18:922 note (Pub. L. 110–180, title I, § 105, Jan. 8, 2008, 121 Stat. 2569) | 34:40915 |
-| 18:922 note (Pub. L. 110–180, title I, § 106, Jan. 8, 2008, 121 Stat. 2570) | 34:40916 |
-| 18:922 note (Pub. L. 110–180, title I, § 201, Jan. 8, 2008, 121 Stat. 2570) | 34:40931 |
-| 18:922 note (Pub. L. 110–180, title I, § 301, Jan. 8, 2008, 121 Stat. 2571) | 34:40941 |
-| 18:922 note (Pub. L. 110–180, title IV, § 401, Jan. 8, 2008, 121 Stat. 2571) | omitted |
-| 18:1832 note (Pub. L. 114–153, § 4, May 11, 2016, 130 Stat. 382) | 34:41310 |
-| 18:3001 note prec (Pub. L. 89–197, §§ 1–11, Sept. 22, 1965, 79 Stat. 828) | 34:10101 note prec |
-| 18:4042 note (Pub. L. 105–370, § 2(c), Nov. 12, 1998, 112 Stat. 3375) | 34:60101 note |
-| 18:4352 note (Pub. L. 100–690, title VI, § 6292, Nov. 18, 1988, 102 Stat. 4369) | 34:10426 |
-| 28:509 note (Pub. L. 107–56, title VIII, § 816, Oct. 26, 2001, 115 Stat. 385) | 34:30102 |
+| 18:922 note (Pub. L. 110–180, title I, § 102, Jan. 8, 2008, 121 Stat. 2564) | 34:40912 |
+| 18:922 note (Pub. L. 110–180, title I, § 103, Jan. 8, 2008, 121 Stat. 2567) | 34:40913 |
+| 18:922 note (Pub. L. 110–180, title I, § 104, Jan. 8, 2008, 121 Stat. 2568) | 34:40914 |
+| 18:922 note (Pub. L. 110–180, title I, § 105, Jan. 8, 2008, 121 Stat. 2569) | 34:40915 |
+| 18:922 note (Pub. L. 110–180, title I, § 106, Jan. 8, 2008, 121 Stat. 2570) | 34:40916 |
+| 18:922 note (Pub. L. 110–180, title I, § 201, Jan. 8, 2008, 121 Stat. 2570) | 34:40931 |
+| 18:922 note (Pub. L. 110–180, title I, § 301, Jan. 8, 2008, 121 Stat. 2571) | 34:40941 |
+| 18:922 note (Pub. L. 110–180, title IV, § 401, Jan. 8, 2008, 121 Stat. 2571) | omitted |
+| 18:1832 note (Pub. L. 114–153, § 4, May 11, 2016, 130 Stat. 382) | 34:41310 |
+| 18:3001 note prec (Pub. L. 89–197, §§ 1–11, Sept. 22, 1965, 79 Stat. 828) | 34:10101 note prec |
+| 18:4042 note (Pub. L. 105–370, § 2(c), Nov. 12, 1998, 112 Stat. 3375) | 34:60101 note |
+| 18:4352 note (Pub. L. 100–690, title VI, § 6292, Nov. 18, 1988, 102 Stat. 4369) | 34:10426 |
+| 28:509 note (Pub. L. 107–56, title VIII, § 816, Oct. 26, 2001, 115 Stat. 385) | 34:30102 |
 | 28:509 note (Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 995) | 34:41103 |
-| 28:509 note (Pub. L. 101–647, title XXV, § 2539, Nov. 29, 1990, 104 Stat. 4884) | 34:41501 |
-| 28:509 note (Pub. L. 107–273, div. A, title I, § 104, Nov. 2, 2002, 116 Stat. 1766) | 34:41504 |
-| 28:509 note (Pub. L. 109–162, title XI, § 1105, Jan. 5, 2006, 119 Stat. 3092) | 34:41505 |
-| 28:509 note (Pub. L. 109–162, title XI, § 1106, Jan. 5, 2006, 119 Stat. 3093) | 34:41506 |
+| 28:509 note (Pub. L. 101–647, title XXV, § 2539, Nov. 29, 1990, 104 Stat. 4884) | 34:41501 |
+| 28:509 note (Pub. L. 107–273, div. A, title I, § 104, Nov. 2, 2002, 116 Stat. 1766) | 34:41504 |
+| 28:509 note (Pub. L. 109–162, title XI, § 1105, Jan. 5, 2006, 119 Stat. 3092) | 34:41505 |
+| 28:509 note (Pub. L. 109–162, title XI, § 1106, Jan. 5, 2006, 119 Stat. 3093) | 34:41506 |
 | 28:509 note (Ex. Ord. No. 13774, Feb. 9, 2017, 82 F.R. 10695) | 34:50101 note prec |
 | 28:509 note (Ex. Ord. No. 13776, Feb. 9, 2017, 82 F.R. 10699) | 34:60101 note prec |
-| 28:522 note (Pub. L. 98–292, § 9, May 21, 1984, 98 Stat. 206) | 34:41301 |
-| 28:522 note (Pub. L. 101–647, title XXV, § 2546, Nov. 29, 1990, 104 Stat. 4885) | 34:41306 |
-| 28:531 note (Pub. L. 108–405, title II, § 203(f), Oct. 30, 2004, 118 Stat. 2271) | 34:40721 |
-| 28:531 note (Pub. L. 105–314, title VII, § 703(a)–(f), Oct. 30, 1998, 112 Stat. 2987–2989) | 34:41502 |
-| 28:534 note (Pub. L. 100–413, § 1, Aug. 22, 1988, 102 Stat. 1101) | 34:10101 note |
-| 28:534 note (Pub. L. 109–162, title IX, § 905(b), Jan. 5, 2006, 119 Stat. 3080) | 34:20903 |
+| 28:522 note (Pub. L. 98–292, § 9, May 21, 1984, 98 Stat. 206) | 34:41301 |
+| 28:522 note (Pub. L. 101–647, title XXV, § 2546, Nov. 29, 1990, 104 Stat. 4885) | 34:41306 |
+| 28:531 note (Pub. L. 108–405, title II, § 203(f), Oct. 30, 2004, 118 Stat. 2271) | 34:40721 |
+| 28:531 note (Pub. L. 105–314, title VII, § 703(a)–(f), Oct. 30, 1998, 112 Stat. 2987–2989) | 34:41502 |
+| 28:534 note (Pub. L. 100–413, § 1, Aug. 22, 1988, 102 Stat. 1101) | 34:10101 note |
+| 28:534 note (Pub. L. 109–162, title IX, § 905(b), Jan. 5, 2006, 119 Stat. 3080) | 34:20903 |
 | 28:534 note (Pub. L. 92–544, title II, Oct. 25, 1972, 86 Stat. 1115) | 34:41101 |
-| 28:534 note (Pub. L. 100–413, § 2, Aug. 22, 1988, 102 Stat. 1101) | 34:41102 |
-| 28:534 note (Pub. L. 100–413, § 3, Aug. 22, 1988, 102 Stat. 1101) | 34:41102 note |
+| 28:534 note (Pub. L. 100–413, § 2, Aug. 22, 1988, 102 Stat. 1101) | 34:41102 |
+| 28:534 note (Pub. L. 100–413, § 3, Aug. 22, 1988, 102 Stat. 1101) | 34:41102 note |
 | 28:534 note (Pub. L. 101–515, title II, Nov. 5, 1990, 104 Stat. 2112) | 34:41104 |
-| 28:534 note (Pub. L. 105–277, div. A, § 101(b) [title I, § 124], Oct. 21, 1998, 112 Stat. 2681–50, 2681–73) | 34:41105 |
-| 28:534 note (Pub. L. 108–458, title VI, § 6402, Dec. 17, 2004, 118 Stat. 3755) | 34:41106 |
-| 28:534 note (Pub. L. 111–211, title II, § 233(b), July 29, 2010, 124 Stat. 2279) | 34:41107 |
-| 28:534 note (Pub. L. 100–690, title VII, § 7332, Nov. 18, 1988, 102 Stat. 4468) | 34:41303 |
-| 28:534 note (Pub. L. 100–690, title VII, § 7609, Nov. 18, 1988, 102 Stat. 4517) | 34:41304 |
-| 28:534 note (Pub. L. 101–275, § 1, Apr. 23, 1990, 104 Stat. 140) | 34:41305 |
-| 28:534 note (Pub. L. 101–275, § 2, Apr. 23, 1990, 104 Stat. 140) | 34:41305 note |
-| 28:534 note (Pub. L. 110–457, title II, § 237(a), (b), Dec. 23, 2008, 122 Stat. 5083) | 34:41309 |
-| 28:534 note (Pub. L. 114–255, div. B, title XIV, § 14015, Dec. 13, 2016, 130 Stat. 1306) | 34:41311 |
-| 28:534 note (Pub. L. 109–162, title XI, § 1107, Jan. 5, 2006, 119 Stat. 3093) | 34:41507 |
-| 28:566 note (Pub. L. 106–544, § 6, Dec. 19, 2000, 114 Stat. 2718) | 34:41503 |
+| 28:534 note (Pub. L. 105–277, div. A, § 101(b) [title I, § 124], Oct. 21, 1998, 112 Stat. 2681–50, 2681–73) | 34:41105 |
+| 28:534 note (Pub. L. 108–458, title VI, § 6402, Dec. 17, 2004, 118 Stat. 3755) | 34:41106 |
+| 28:534 note (Pub. L. 111–211, title II, § 233(b), July 29, 2010, 124 Stat. 2279) | 34:41107 |
+| 28:534 note (Pub. L. 100–690, title VII, § 7332, Nov. 18, 1988, 102 Stat. 4468) | 34:41303 |
+| 28:534 note (Pub. L. 100–690, title VII, § 7609, Nov. 18, 1988, 102 Stat. 4517) | 34:41304 |
+| 28:534 note (Pub. L. 101–275, § 1, Apr. 23, 1990, 104 Stat. 140) | 34:41305 |
+| 28:534 note (Pub. L. 101–275, § 2, Apr. 23, 1990, 104 Stat. 140) | 34:41305 note |
+| 28:534 note (Pub. L. 110–457, title II, § 237(a), (b), Dec. 23, 2008, 122 Stat. 5083) | 34:41309 |
+| 28:534 note (Pub. L. 114–255, div. B, title XIV, § 14015, Dec. 13, 2016, 130 Stat. 1306) | 34:41311 |
+| 28:534 note (Pub. L. 109–162, title XI, § 1107, Jan. 5, 2006, 119 Stat. 3093) | 34:41507 |
+| 28:566 note (Pub. L. 106–544, § 6, Dec. 19, 2000, 114 Stat. 2718) | 34:41503 |
 | 42:3702 | 34:10262 |
 | 42:3711 | 34:10101 |
-| 42:3711 note (Pub. L. 90–351, § 1, June 19, 1968, 82 Stat. 197) | 34:10101 note |
-| 42:3711 note (Pub. L. 90–351, title XI, § 1601, June 19, 1968, 82 Stat. 239) | 34:10101 note |
-| 42:3711 note (Pub. L. 91–644, § 1, Jan. 2, 1971, 84 Stat. 1880) | 34:10101 note |
-| 42:3711 note (Pub. L. 93–83, § 1, Aug. 6, 1973, 87 Stat. 197) | 34:10101 note |
-| 42:3711 note (Pub. L. 94–430, § 1, Sept. 29, 1976, 90 Stat. 1346) | 34:10101 note |
-| 42:3711 note (Pub. L. 94–503, § 1, Oct. 15, 1976, 90 Stat. 2407) | 34:10101 note |
-| 42:3711 note (Pub. L. 96–157, § 1, Dec. 27, 1979, 93 Stat. 1167) | 34:10101 note |
-| 42:3711 note (Pub. L. 98–473, title II, § 601, Oct. 12, 1984, 98 Stat. 2077) | 34:10101 note |
-| 42:3711 note (Pub. L. 98–473, title II, § 609I, Oct. 12, 1984, 98 Stat. 2102) | 34:10101 note |
-| 42:3711 note (Pub. L. 98–473, title II, § 609AA, Oct. 12, 1984, 98 Stat. 2107) | 34:10101 note |
-| 42:3711 note (Pub. L. 99–570, title I, § 1551, Oct. 27, 1986, 100 Stat. 3207–41) | 34:10101 note |
-| 42:3711 note (Pub. L. 103–322, title I, § 10001, Sept. 13, 1994, 108 Stat. 1807) | 34:10101 note |
-| 42:3711 note (Pub. L. 104–238, § 1, Oct. 3, 1996, 110 Stat. 3114) | 34:10101 note |
-| 42:3711 note (Pub. L. 105–180, § 1, June 16, 1998, 112 Stat. 511) | 34:10101 note |
-| 42:3711 note (Pub. L. 105–181, § 1, June 16, 1998, 112 Stat. 512) | 34:10101 note |
-| 42:3711 note (Pub. L. 105–390, § 1, Nov. 13, 1998, 112 Stat. 3495) | 34:10101 note |
-| 42:3711 note (Pub. L. 106–177, title I, § 101, Mar. 10, 2000, 114 Stat. 35) | 34:10101 note |
-| 42:3711 note (Pub. L. 106–515, § 1, Nov. 13, 2000, 114 Stat. 2399) | 34:10101 note |
-| 42:3711 note (Pub. L. 106–517, § 1, Nov. 13, 2000, 114 Stat. 2407) | 34:10101 note |
-| 42:3711 note (Pub. L. 106–561, § 1, Dec. 21, 2000, 114 Stat. 2787) | 34:10101 note |
-| 42:3711 note (Pub. L. 106–572, § 1, Dec. 28, 2000, 114 Stat. 3058) | 34:10101 note |
-| 42:3711 note (Pub. L. 107–196, § 1, June 24, 2002, 116 Stat. 719) | 34:10101 note |
-| 42:3711 note (Pub. L. 107–273, div. A, title IV, § 401, Nov. 2, 2002, 116 Stat. 1789) | 34:10101 note |
-| 42:3711 note (Pub. L. 107–273, div. B, title II, § 2001, Nov. 2, 2002, 116 Stat. 1792) | 34:10101 note |
-| 42:3711 note (Pub. L. 107–273, div. C, title I, § 11027(a), Nov. 2, 2002, 116 Stat. 1834) | 34:10101 note |
-| 42:3711 note (Pub. L. 107–273, div. C, title II, § 12101, Nov. 2, 2002, 116 Stat. 1859) | 34:10101 note |
-| 42:3711 note (Pub. L. 108–182, § 1, Dec. 15, 2003, 117 Stat. 2649) | 34:10101 note |
-| 42:3711 note (Pub. L. 108–414, § 1, Oct. 30, 2004, 118 Stat. 2327) | 34:10101 note |
-| 42:3711 note (Pub. L. 110–315, title IX, § 951, Aug. 14, 2008, 122 Stat. 3470) | 34:10101 note |
-| 42:3711 note (Pub. L. 110–345, § 1, Oct. 7, 2008, 122 Stat. 3938) | 34:10101 note |
-| 42:3711 note (Pub. L. 110–416, § 1(a), Oct. 14, 2008, 122 Stat. 4352) | 34:10101 note |
-| 42:3711 note (Pub. L. 110–421, § 1, Oct. 15, 2008, 122 Stat. 4778) | 34:10101 note |
-| 42:3711 note (Pub. L. 112–189, § 1, Oct. 5, 2012, 126 Stat. 1435) | 34:10101 note |
-| 42:3711 note (Pub. L. 112–239, div. A, title X, § 1086(a), Jan. 2, 2013, 126 Stat. 1964) | 34:10101 note |
-| 42:3711 note (Pub. L. 114–22, title X, § 1001, May 29, 2015, 129 Stat. 266) | 34:10101 note |
-| 42:3711 note (Pub. L. 114–155, § 1, May 16, 2016, 130 Stat. 389) | 34:10101 note |
-| 42:3711 note (Pub. L. 114–199, § 1, July 22, 2016, 130 Stat. 780) | 34:10101 note |
-| 42:3711 note (Pub. L. 114–324, § 14(a), Dec. 16, 2016, 130 Stat. 1958) | 34:10101 note |
-| 42:3711 note (Pub. L. 115–36, § 1, June 2, 2017, 131 Stat. 849) | 34:10101 note |
-| 42:3711 note (Pub. L. 115–37, § 1, June 2, 2017, 131 Stat. 854) | 34:10101 note |
-| 42:3711 note (Pub. L. 103–322, title XXXII, § 320701, Sept. 13, 1994, 108 Stat. 2121) | omitted |
+| 42:3711 note (Pub. L. 90–351, § 1, June 19, 1968, 82 Stat. 197) | 34:10101 note |
+| 42:3711 note (Pub. L. 90–351, title XI, § 1601, June 19, 1968, 82 Stat. 239) | 34:10101 note |
+| 42:3711 note (Pub. L. 91–644, § 1, Jan. 2, 1971, 84 Stat. 1880) | 34:10101 note |
+| 42:3711 note (Pub. L. 93–83, § 1, Aug. 6, 1973, 87 Stat. 197) | 34:10101 note |
+| 42:3711 note (Pub. L. 94–430, § 1, Sept. 29, 1976, 90 Stat. 1346) | 34:10101 note |
+| 42:3711 note (Pub. L. 94–503, § 1, Oct. 15, 1976, 90 Stat. 2407) | 34:10101 note |
+| 42:3711 note (Pub. L. 96–157, § 1, Dec. 27, 1979, 93 Stat. 1167) | 34:10101 note |
+| 42:3711 note (Pub. L. 98–473, title II, § 601, Oct. 12, 1984, 98 Stat. 2077) | 34:10101 note |
+| 42:3711 note (Pub. L. 98–473, title II, § 609I, Oct. 12, 1984, 98 Stat. 2102) | 34:10101 note |
+| 42:3711 note (Pub. L. 98–473, title II, § 609AA, Oct. 12, 1984, 98 Stat. 2107) | 34:10101 note |
+| 42:3711 note (Pub. L. 99–570, title I, § 1551, Oct. 27, 1986, 100 Stat. 3207–41) | 34:10101 note |
+| 42:3711 note (Pub. L. 103–322, title I, § 10001, Sept. 13, 1994, 108 Stat. 1807) | 34:10101 note |
+| 42:3711 note (Pub. L. 104–238, § 1, Oct. 3, 1996, 110 Stat. 3114) | 34:10101 note |
+| 42:3711 note (Pub. L. 105–180, § 1, June 16, 1998, 112 Stat. 511) | 34:10101 note |
+| 42:3711 note (Pub. L. 105–181, § 1, June 16, 1998, 112 Stat. 512) | 34:10101 note |
+| 42:3711 note (Pub. L. 105–390, § 1, Nov. 13, 1998, 112 Stat. 3495) | 34:10101 note |
+| 42:3711 note (Pub. L. 106–177, title I, § 101, Mar. 10, 2000, 114 Stat. 35) | 34:10101 note |
+| 42:3711 note (Pub. L. 106–515, § 1, Nov. 13, 2000, 114 Stat. 2399) | 34:10101 note |
+| 42:3711 note (Pub. L. 106–517, § 1, Nov. 13, 2000, 114 Stat. 2407) | 34:10101 note |
+| 42:3711 note (Pub. L. 106–561, § 1, Dec. 21, 2000, 114 Stat. 2787) | 34:10101 note |
+| 42:3711 note (Pub. L. 106–572, § 1, Dec. 28, 2000, 114 Stat. 3058) | 34:10101 note |
+| 42:3711 note (Pub. L. 107–196, § 1, June 24, 2002, 116 Stat. 719) | 34:10101 note |
+| 42:3711 note (Pub. L. 107–273, div. A, title IV, § 401, Nov. 2, 2002, 116 Stat. 1789) | 34:10101 note |
+| 42:3711 note (Pub. L. 107–273, div. B, title II, § 2001, Nov. 2, 2002, 116 Stat. 1792) | 34:10101 note |
+| 42:3711 note (Pub. L. 107–273, div. C, title I, § 11027(a), Nov. 2, 2002, 116 Stat. 1834) | 34:10101 note |
+| 42:3711 note (Pub. L. 107–273, div. C, title II, § 12101, Nov. 2, 2002, 116 Stat. 1859) | 34:10101 note |
+| 42:3711 note (Pub. L. 108–182, § 1, Dec. 15, 2003, 117 Stat. 2649) | 34:10101 note |
+| 42:3711 note (Pub. L. 108–414, § 1, Oct. 30, 2004, 118 Stat. 2327) | 34:10101 note |
+| 42:3711 note (Pub. L. 110–315, title IX, § 951, Aug. 14, 2008, 122 Stat. 3470) | 34:10101 note |
+| 42:3711 note (Pub. L. 110–345, § 1, Oct. 7, 2008, 122 Stat. 3938) | 34:10101 note |
+| 42:3711 note (Pub. L. 110–416, § 1(a), Oct. 14, 2008, 122 Stat. 4352) | 34:10101 note |
+| 42:3711 note (Pub. L. 110–421, § 1, Oct. 15, 2008, 122 Stat. 4778) | 34:10101 note |
+| 42:3711 note (Pub. L. 112–189, § 1, Oct. 5, 2012, 126 Stat. 1435) | 34:10101 note |
+| 42:3711 note (Pub. L. 112–239, div. A, title X, § 1086(a), Jan. 2, 2013, 126 Stat. 1964) | 34:10101 note |
+| 42:3711 note (Pub. L. 114–22, title X, § 1001, May 29, 2015, 129 Stat. 266) | 34:10101 note |
+| 42:3711 note (Pub. L. 114–155, § 1, May 16, 2016, 130 Stat. 389) | 34:10101 note |
+| 42:3711 note (Pub. L. 114–199, § 1, July 22, 2016, 130 Stat. 780) | 34:10101 note |
+| 42:3711 note (Pub. L. 114–324, § 14(a), Dec. 16, 2016, 130 Stat. 1958) | 34:10101 note |
+| 42:3711 note (Pub. L. 115–36, § 1, June 2, 2017, 131 Stat. 849) | 34:10101 note |
+| 42:3711 note (Pub. L. 115–37, § 1, June 2, 2017, 131 Stat. 854) | 34:10101 note |
+| 42:3711 note (Pub. L. 103–322, title XXXII, § 320701, Sept. 13, 1994, 108 Stat. 2121) | omitted |
 | 42:3712 | 34:10102 |
 | 42:3712a | 34:10103 |
-| 42:3712a note (Pub. L. 109–162, title XI, § 1121(b), Jan. 5, 2006, 119 Stat. 3107) | 34:10103 note |
-| 42:3712a note (Pub. L. 109–162, title XI, § 1121(c), Jan. 5, 2006, 119 Stat. 3107) | 34:10103 note |
+| 42:3712a note (Pub. L. 109–162, title XI, § 1121(b), Jan. 5, 2006, 119 Stat. 3107) | 34:10103 note |
+| 42:3712a note (Pub. L. 109–162, title XI, § 1121(c), Jan. 5, 2006, 119 Stat. 3107) | 34:10103 note |
 | 42:3712b | 34:10104 |
 | 42:3712c | 34:10105 |
 | 42:3712e | 34:10106 |
-| 42:3712e note (Pub. L. 109–162, title XI, § 1159(b), Jan. 5, 2006, 119 Stat. 3117) | 34:10106 note |
+| 42:3712e note (Pub. L. 109–162, title XI, § 1159(b), Jan. 5, 2006, 119 Stat. 3117) | 34:10106 note |
 | 42:3712f | 34:10107 |
-| 42:3712f note (Pub. L. 109–162, title XI, § 1160(b), Jan. 5, 2006, 119 Stat. 3117) | 34:10107 note |
+| 42:3712f note (Pub. L. 109–162, title XI, § 1160(b), Jan. 5, 2006, 119 Stat. 3117) | 34:10107 note |
 | 42:3712g | 34:10108 |
-| 42:3712g note (Pub. L. 109–162, title XI, § 1161(b), Jan. 5, 2006, 119 Stat. 3118) | 34:10108 note |
+| 42:3712g note (Pub. L. 109–162, title XI, § 1161(b), Jan. 5, 2006, 119 Stat. 3118) | 34:10108 note |
 | 42:3712h | 34:10109 |
-| 42:3712h note (Pub. L. 109–162, title XI, § 1158(b), Jan. 5, 2006, 119 Stat. 3116) | 34:10109 note |
+| 42:3712h note (Pub. L. 109–162, title XI, § 1158(b), Jan. 5, 2006, 119 Stat. 3116) | 34:10109 note |
 | 42:3713 | 34:30101 |
 | 42:3713a | 34:30103 |
 | 42:3713b | 34:30104 |
@@ -152,39 +152,39 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:3714 | 6:603 note |
 | 42:3714a | 34:41508 |
 | 42:3715 | 34:10110 |
-| 42:3715 note (Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 108(a)], Nov. 29, 1999, 113 Stat. 1535, 1501A–20) | 34:10110 note |
-| 42:3715 note (Pub. L. 106–553, § 1(a)(2) [title I, § 108], Dec. 21, 2000, 114 Stat. 2762, 2762A–67) | 34:10110 note |
+| 42:3715 note (Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 108(a)], Nov. 29, 1999, 113 Stat. 1535, 1501A–20) | 34:10110 note |
+| 42:3715 note (Pub. L. 106–553, § 1(a)(2) [title I, § 108], Dec. 21, 2000, 114 Stat. 2762, 2762A–67) | 34:10110 note |
 | 42:3715a | 34:10111 |
 | 42:3716 | 34:30503 |
-| 42:3716 note (Pub. L. 111–84, div. E, § 4703(b), Oct. 28, 2009, 123 Stat. 2836) | 34:30502 |
+| 42:3716 note (Pub. L. 111–84, div. E, § 4703(b), Oct. 28, 2009, 123 Stat. 2836) | 34:30502 |
 | 42:3716a | 34:30504 |
 | 42:3721 | 34:10121 |
 | 42:3721 note (Pub. L. 110–424, Oct. 15, 2008, 122 Stat. 4819) | 34:10121 note |
-| 42:3721 note (Pub. L. 101–515, title II, § 211(B), Nov. 5, 1990, 104 Stat. 2122) | omitted |
+| 42:3721 note (Pub. L. 101–515, title II, § 211(B), Nov. 5, 1990, 104 Stat. 2122) | omitted |
 | 42:3721 note (Pub. L. 101–647, title XXXIV, Nov. 29, 1990, 104 Stat. 4918) | omitted |
-| 42:3721 note (Pub. L. 104–132, title VIII, § 809, Apr. 24, 1996, 110 Stat. 1311) | omitted |
+| 42:3721 note (Pub. L. 104–132, title VIII, § 809, Apr. 24, 1996, 110 Stat. 1311) | omitted |
 | 42:3722 | 34:10122 |
-| 42:3722 note (Pub. L. 107–273, div. B, title II, § 2201, Nov. 2, 2002, 116 Stat. 1793) | omitted |
+| 42:3722 note (Pub. L. 107–273, div. B, title II, § 2201, Nov. 2, 2002, 116 Stat. 1793) | omitted |
 | 42:3723 | 34:10123 |
 | 42:3731 | 34:10131 |
 | 42:3732 | 34:10132 |
 | 42:3732 note (Pub. L. 105–301, Oct. 27, 1998, 112 Stat. 2838) | 34:10132 note |
-| 42:3732 note (Pub. L. 106–534, § 5, Nov. 22, 2000, 114 Stat. 2557) | 34:10132 note |
-| 42:3732 note (Pub. L. 106–534, § 6, Nov. 22, 2000, 114 Stat. 2557) | 34:10132 note |
-| 42:3732 note (Pub. L. 111–211, title II, § 251(c), July 29, 2010, 124 Stat. 2298) | 34:10132 note |
+| 42:3732 note (Pub. L. 106–534, § 5, Nov. 22, 2000, 114 Stat. 2557) | 34:10132 note |
+| 42:3732 note (Pub. L. 106–534, § 6, Nov. 22, 2000, 114 Stat. 2557) | 34:10132 note |
+| 42:3732 note (Pub. L. 111–211, title II, § 251(c), July 29, 2010, 124 Stat. 2298) | 34:10132 note |
 | 42:3732 note (Pub. L. 113–235, div. B, title II, Dec. 16, 2014, 128 Stat. 2191) | 34:10132 note |
 | 42:3733 | 34:10133 |
 | 42:3735 | 34:10134 |
 | 42:3741 | 34:10141 |
-| 42:3741 note (Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 108(b)], Nov. 29, 1999, 113 Stat. 1535 , 1501A–20) | 34:10141 note |
+| 42:3741 note (Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 108(b)], Nov. 29, 1999, 113 Stat. 1535 , 1501A–20) | 34:10141 note |
 | 42:3742 | 34:10142 |
 | 42:3743 | 34:20143 |
 | 42:3750 | 34:10151 |
-| 42:3750 note (Pub. L. 109–162, title XI, § 1111(d), Jan. 5, 2006, 119 Stat. 3102) | 34:10151 note |
+| 42:3750 note (Pub. L. 109–162, title XI, § 1111(d), Jan. 5, 2006, 119 Stat. 3102) | 34:10151 note |
 | 42:3751 | 34:10152 |
 | 42:3752 | 34:10153 |
-| 42:3752 note (Pub. L. 114–255, div. B, title XIV, § 14011, Dec. 13, 2016, 130 Stat. 1297) | 34:10153 note |
-| 42:3752 note (Pub. L. 114–324, § 14(c), Dec. 16, 2016, 130 Stat. 1959) | 34:10153 note |
+| 42:3752 note (Pub. L. 114–255, div. B, title XIV, § 14011, Dec. 13, 2016, 130 Stat. 1297) | 34:10153 note |
+| 42:3752 note (Pub. L. 114–324, § 14(c), Dec. 16, 2016, 130 Stat. 1959) | 34:10153 note |
 | 42:3753 | 34:10154 |
 | 42:3754 | 34:10155 |
 | 42:3755 | 34:10156 |
@@ -200,9 +200,9 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:3766a | 34:10202 |
 | 42:3766b | 34:10203 |
 | 42:3771 | 34:10211 |
-| 42:3771 note (Pub. L. 99–500, § 101(b) [title II], Oct. 18, 1986, 100 Stat. 1783–39 , 1783–48, and Pub. L. 99–591, § 101(b) [title II], Oct. 30, 1986, 100 Stat. 3341–39, 3341–48) | 34:10211 note |
-| 42:3771 note (Pub. L. 99–500, § 101(b) [title II, § 210], Oct. 18, 1986, 100 Stat. 1783–39 , 1783–56, and Pub. L. 99–591, § 101(b) [title II, § 210], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56) | 34:10211 note |
-| 42:3771 note (Pub. L. 107–206, title I, § 1202, Aug. 2, 2002, 116 Stat. 887) | 34:10211 note |
+| 42:3771 note (Pub. L. 99–500, § 101(b) [title II], Oct. 18, 1986, 100 Stat. 1783–39 , 1783–48, and Pub. L. 99–591, § 101(b) [title II], Oct. 30, 1986, 100 Stat. 3341–39, 3341–48) | 34:10211 note |
+| 42:3771 note (Pub. L. 99–500, § 101(b) [title II, § 210], Oct. 18, 1986, 100 Stat. 1783–39 , 1783–56, and Pub. L. 99–591, § 101(b) [title II, § 210], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56) | 34:10211 note |
+| 42:3771 note (Pub. L. 107–206, title I, § 1202, Aug. 2, 2002, 116 Stat. 887) | 34:10211 note |
 | 42:3782 | 34:10221 |
 | 42:3783 | 34:10222 |
 | 42:3784 | 34:10223 |
@@ -222,28 +222,28 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:3789n | 34:10237 |
 | 42:3789p | 34:10238 |
 | 42:3791 | 34:10251 |
-| 42:3791 note (Pub. L. 112–239, div. A, title X, § 1086(d), Jan. 2, 2013, 126 Stat. 1969) | 34:10251 note |
-| 42:3791 note (Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876) | 34:10251 note |
-| 42:3791 note (Pub. L. 114–326, § 2(c), Dec. 16, 2016, 130 Stat. 1973) | 34:10251 note |
+| 42:3791 note (Pub. L. 112–239, div. A, title X, § 1086(d), Jan. 2, 2013, 126 Stat. 1969) | 34:10251 note |
+| 42:3791 note (Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876) | 34:10251 note |
+| 42:3791 note (Pub. L. 114–326, § 2(c), Dec. 16, 2016, 130 Stat. 1973) | 34:10251 note |
 | 42:3793 | 34:10261 |
-| 42:3793 note (Pub. L. 96–132, § 20(a), Nov. 30, 1979, 93 Stat. 1049) | 34:10261 note |
-| 42:3793 note (Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(B)(ii)], Apr. 26, 1996, 110 Stat. 1321, 1321–21) | 34:10261 note |
-| 42:3793 note (Pub. L. 109–162, § 4, as added by Pub. L. 109–271, § 1(b), Aug. 12, 2006, 120 Stat. 750) | 34:10261 note |
-| 42:3793 note (Pub. L. 106–386, div. B, title III, § 1302(d), Oct. 28, 2000, 114 Stat. 1511) | 34:20324 note |
+| 42:3793 note (Pub. L. 96–132, § 20(a), Nov. 30, 1979, 93 Stat. 1049) | 34:10261 note |
+| 42:3793 note (Pub. L. 104–134, title I, § 101[(a)] [title I, § 114(b)(1)(B)(ii)], Apr. 26, 1996, 110 Stat. 1321, 1321–21) | 34:10261 note |
+| 42:3793 note (Pub. L. 109–162, § 4, as added by Pub. L. 109–271, § 1(b), Aug. 12, 2006, 120 Stat. 750) | 34:10261 note |
+| 42:3793 note (Pub. L. 106–386, div. B, title III, § 1302(d), Oct. 28, 2000, 114 Stat. 1511) | 34:20324 note |
 | 42:3793c | 34:10263 |
 | 42:3795 | 34:10271 |
 | 42:3795a | 34:10272 |
 | 42:3795b | 34:10273 |
 | 42:3796 | 34:10281 |
-| 42:3796 note (Pub. L. 100–690, title VI, § 6105(e), Nov. 18, 1988, 102 Stat. 4341) | 34:10281 note |
-| 42:3796 note (Pub. L. 101–647, title XIII, § 1303, Nov. 29, 1990, 104 Stat. 4835) | 34:10281 note |
-| 42:3796 note (Pub. L. 102–520, § 2, Oct. 25, 1992, 106 Stat. 3402) | 34:10281 note |
-| 42:3796 note (Pub. L. 107–56, title VI, § 613(b), Oct. 26, 2001, 115 Stat. 370) | 34:10281 note |
-| 42:3796 note (Pub. L. 107–196, § 2(c), June 24, 2002, 116 Stat. 720) | 34:10281 note |
+| 42:3796 note (Pub. L. 100–690, title VI, § 6105(e), Nov. 18, 1988, 102 Stat. 4341) | 34:10281 note |
+| 42:3796 note (Pub. L. 101–647, title XIII, § 1303, Nov. 29, 1990, 104 Stat. 4835) | 34:10281 note |
+| 42:3796 note (Pub. L. 102–520, § 2, Oct. 25, 1992, 106 Stat. 3402) | 34:10281 note |
+| 42:3796 note (Pub. L. 107–56, title VI, § 613(b), Oct. 26, 2001, 115 Stat. 370) | 34:10281 note |
+| 42:3796 note (Pub. L. 107–196, § 2(c), June 24, 2002, 116 Stat. 720) | 34:10281 note |
 | 42:3796a | 34:10282 |
 | 42:3796a–1 | 34:10283 |
 | 42:3796b | 34:10284 |
-| 42:3796b note (Pub. L. 106–390, title III, § 305(b), Oct. 30, 2000, 114 Stat. 1574) | 34:10284 note |
+| 42:3796b note (Pub. L. 106–390, title III, § 305(b), Oct. 30, 2000, 114 Stat. 1574) | 34:10284 note |
 | 42:3796c | 34:10285 |
 | 42:3796c–1 | 34:10286 |
 | 42:3796c–2 | 34:10287 |
@@ -254,11 +254,11 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:3796d–3 | 34:10304 |
 | 42:3796d–4 | 34:10305 |
 | 42:3796d–5 | 34:10306 |
-| 42:3796d–5 note (Pub. L. 106–276, § 1(b), Oct. 2, 2000, 114 Stat. 812) | 34:10306 note |
+| 42:3796d–5 note (Pub. L. 106–276, § 1(b), Oct. 2, 2000, 114 Stat. 812) | 34:10306 note |
 | 42:3796d–6 | 34:10307 |
 | 42:3796d–7 | 34:10308 |
 | 42:3796h | 34:10321 |
-| 42:3796h note (Pub. L. 111–211, title II, § 252(b), July 29, 2010, 124 Stat. 2299) | 34:10321 note |
+| 42:3796h note (Pub. L. 111–211, title II, § 252(b), July 29, 2010, 124 Stat. 2299) | 34:10321 note |
 | 42:3796aa | 34:10331 |
 | 42:3796aa–1 | 34:10332 |
 | 42:3796aa–2 | 34:10333 |
@@ -276,8 +276,8 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:3796cc–5 | 34:10366 |
 | 42:3796cc–6 | 34:10367 |
 | 42:3796dd | 34:10381 |
-| 42:3796dd note (Pub. L. 103–322, title I, § 10002, Sept. 13, 1994, 108 Stat. 1807) | 34:10381 note |
-| 42:3796dd note (Pub. L. 111–211, title II, § 247(a)–(d), July 29, 2010, 124 Stat. 2296 , 2297) | 34:10381 note |
+| 42:3796dd note (Pub. L. 103–322, title I, § 10002, Sept. 13, 1994, 108 Stat. 1807) | 34:10381 note |
+| 42:3796dd note (Pub. L. 111–211, title II, § 247(a)–(d), July 29, 2010, 124 Stat. 2296 , 2297) | 34:10381 note |
 | 42:3796dd–1 | 34:10382 |
 | 42:3796dd–2 | 34:10383 |
 | 42:3796dd–3 | 34:10384 |
@@ -287,10 +287,10 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:3796dd–7 | 34:10388 |
 | 42:3796dd–8 | 34:10389 |
 | 42:3796ee | 34:10401 |
-| 42:3796ee note (Pub. L. 107–273, div. C, title II, § 12102(b), Nov. 2, 2002, 116 Stat. 1869) | 34:10401 note |
+| 42:3796ee note (Pub. L. 107–273, div. C, title II, § 12102(b), Nov. 2, 2002, 116 Stat. 1869) | 34:10401 note |
 | 42:3796ee–1 | 34:10402 |
 | 42:3796ee–2 | 34:10403 |
-| 42:3796ee–2 note (Pub. L. 109–162, title XI, § 1168(b), as added by Pub. L. 109–271, § 8(n)(5)(B), Aug. 12, 2006, 120 Stat. 768) | 34:10403 note |
+| 42:3796ee–2 note (Pub. L. 109–162, title XI, § 1168(b), as added by Pub. L. 109–271, § 8(n)(5)(B), Aug. 12, 2006, 120 Stat. 768) | 34:10403 note |
 | 42:3796ee–3 | 34:10404 |
 | 42:3796ee–4 | 34:10405 |
 | 42:3796ee–5 | 34:10406 |
@@ -301,22 +301,22 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:3796ee–10 | omitted |
 | 42:3796ff | 34:10421 |
 | 42:3796ff–1 | 34:10422 |
-| 42:3796ff–1 note (Pub. L. 109–162, title XI, § 1147, as added by Pub. L. 109–271, § 8(n)(2)(A), Aug. 12, 2006, 120 Stat. 767) | 34:10422 note |
+| 42:3796ff–1 note (Pub. L. 109–162, title XI, § 1147, as added by Pub. L. 109–271, § 8(n)(2)(A), Aug. 12, 2006, 120 Stat. 767) | 34:10422 note |
 | 42:3796ff–2 | 34:10423 |
 | 42:3796ff–3 | 34:10424 |
 | 42:3796ff–4 | 34:10425 |
 | 42:3796gg | 34:10441 |
-| 42:3796gg note (Pub. L. 106–386, div. B, title IV, § 1405, Oct. 28, 2000, 114 Stat. 1515) | 34:10441 note |
+| 42:3796gg note (Pub. L. 106–386, div. B, title IV, § 1405, Oct. 28, 2000, 114 Stat. 1515) | 34:10441 note |
 | 42:3796gg–0 | 34:10442 |
-| 42:3796gg–0 note (Pub. L. 107–273, div. A, title IV, § 403, Nov. 2, 2002, 116 Stat. 1791) | 34:10442 note |
+| 42:3796gg–0 note (Pub. L. 107–273, div. A, title IV, § 403, Nov. 2, 2002, 116 Stat. 1791) | 34:10442 note |
 | 42:3796gg–0a | 34:10443 |
 | 42:3796gg–0b | 34:10444 |
 | 42:3796gg–0c | 34:10445 |
 | 42:3796gg–0d | omitted |
 | 42:3796gg–1 | 34:10446 |
-| 42:3796gg–1 note (Pub. L. 108–405, title III, § 310(b), Oct. 30, 2004, 118 Stat. 2276) | 34:10446 note |
+| 42:3796gg–1 note (Pub. L. 108–405, title III, § 310(b), Oct. 30, 2004, 118 Stat. 2276) | 34:10446 note |
 | 42:3796gg–2 | 34:10447 |
-| 42:3796gg–2 note (Pub. L. 106–386, div. B, § 1002, Oct. 28, 2000, 114 Stat. 1491) | 34:10447 note |
+| 42:3796gg–2 note (Pub. L. 106–386, div. B, § 1002, Oct. 28, 2000, 114 Stat. 1491) | 34:10447 note |
 | 42:3796gg–3 | 34:10448 |
 | 42:3796gg–4 | 34:10449 |
 | 42:3796gg–5 | 34:10450 |
@@ -324,8 +324,8 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:3796gg–7 | 34:20122 |
 | 42:3796gg–8 | 34:10451 |
 | 42:3796gg–10 | 34:10452 |
-| 42:3796gg–10 note (Pub. L. 109–162, title IX, §§ 901, 902, Jan. 5, 2006, 119 Stat. 3077 , 3078) | 34:10452 note |
-| 42:3796gg–10 note (Pub. L. 109–162, title IX, § 904(a), Jan. 5, 2006, 119 Stat. 3078) | 34:10452 note |
+| 42:3796gg–10 note (Pub. L. 109–162, title IX, §§ 901, 902, Jan. 5, 2006, 119 Stat. 3077 , 3078) | 34:10452 note |
+| 42:3796gg–10 note (Pub. L. 109–162, title IX, § 904(a), Jan. 5, 2006, 119 Stat. 3078) | 34:10452 note |
 | 42:3796gg–11 | 34:10453 |
 | 42:3796hh | 34:10461 |
 | 42:3796hh–1 | 34:10462 |
@@ -333,9 +333,9 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:3796hh–3 | 34:10464 |
 | 42:3796hh–4 | 34:10465 |
 | 42:3796ii | 34:10471 |
-| 42:3796ii note (Pub. L. 106–515, § 2, Nov. 13, 2000, 114 Stat. 2399) | 34:10471 note |
-| 42:3796ii note (Pub. L. 114–255, div. B, title XIV, § 14003, Dec. 13, 2016, 130 Stat. 1289) | 34:10471 note |
-| 42:3796ii note (Pub. L. 107–273, div. C, title I, § 11011, Nov. 2, 2002, 116 Stat. 1823) | omitted |
+| 42:3796ii note (Pub. L. 106–515, § 2, Nov. 13, 2000, 114 Stat. 2399) | 34:10471 note |
+| 42:3796ii note (Pub. L. 114–255, div. B, title XIV, § 14003, Dec. 13, 2016, 130 Stat. 1289) | 34:10471 note |
+| 42:3796ii note (Pub. L. 107–273, div. C, title I, § 11011, Nov. 2, 2002, 116 Stat. 1823) | omitted |
 | 42:3796ii–1 | 34:10472 |
 | 42:3796ii–2 | 34:10473 |
 | 42:3796ii–3 | 34:10474 |
@@ -353,7 +353,7 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:3796jj–6 | 34:10497 |
 | 42:3796jj–7 | 34:10498 |
 | 42:3796kk | 34:10511 |
-| 42:3796kk note (Pub. L. 103–322, title XXI, § 210302(c)(4), Sept. 13, 1994, 108 Stat. 2068) | 34:10511 note |
+| 42:3796kk note (Pub. L. 103–322, title XXI, § 210302(c)(4), Sept. 13, 1994, 108 Stat. 2068) | 34:10511 note |
 | 42:3796kk–1 | 34:10512 |
 | 42:3796kk–2 | 34:10513 |
 | 42:3796kk–3 | 34:10514 |
@@ -361,11 +361,11 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:3796kk–5 | 34:10516 |
 | 42:3796kk–6 | 34:10517 |
 | 42:3796ll | 34:10531 |
-| 42:3796ll note (Pub. L. 105–181, § 2, June 16, 1998, 112 Stat. 512) | 34:10531 note |
-| 42:3796ll note (Pub. L. 106–517, § 2, Nov. 13, 2000, 114 Stat. 2407) | 34:10531 note |
+| 42:3796ll note (Pub. L. 105–181, § 2, June 16, 1998, 112 Stat. 512) | 34:10531 note |
+| 42:3796ll note (Pub. L. 106–517, § 2, Nov. 13, 2000, 114 Stat. 2407) | 34:10531 note |
 | 42:3796ll–1 | 34:10532 |
 | 42:3796ll–2 | 34:10533 |
-| 42:3796ll–2 note (Pub. L. 106–517, § 3(e), Nov. 13, 2000, 114 Stat. 2408) | 34:10533 note |
+| 42:3796ll–2 note (Pub. L. 106–517, § 3(e), Nov. 13, 2000, 114 Stat. 2408) | 34:10533 note |
 | 42:3796ll–3 | 34:10534 |
 | 42:3797 | 34:10541 |
 | 42:3797a | 34:10551 |
@@ -388,11 +388,11 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:3797s–5 | omitted |
 | 42:3797s–6 | 34:10596 |
 | 42:3797u | 34:10611 |
-| 42:3797u note (Pub. L. 107–273, div. B, title II, § 2303, Nov. 2, 2002, 116 Stat. 1799) | omitted |
+| 42:3797u note (Pub. L. 107–273, div. B, title II, § 2303, Nov. 2, 2002, 116 Stat. 1799) | omitted |
 | 42:3797u–1 | 34:10612 |
-| 42:3797u–1 note (Pub. L. 110–199, title I, § 103(c), Apr. 9, 2008, 122 Stat. 668) | 34:10612 note |
+| 42:3797u–1 note (Pub. L. 110–199, title I, § 103(c), Apr. 9, 2008, 122 Stat. 668) | 34:10612 note |
 | 42:3797u–2 | 34:10613 |
-| 42:3797u–2 note (Pub. L. 110–199, title I, § 103(b), Apr. 9, 2008, 122 Stat. 668) | 34:10613 note |
+| 42:3797u–2 note (Pub. L. 110–199, title I, § 103(b), Apr. 9, 2008, 122 Stat. 668) | 34:10613 note |
 | 42:3797u–3 | 34:10614 |
 | 42:3797u–4 | 34:10615 |
 | 42:3797u–5 | 34:10616 |
@@ -408,12 +408,12 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:3797y–3 | 34:10644 |
 | 42:3797y–4 | omitted |
 | 42:3797aa | 34:10651 |
-| 42:3797aa note (Pub. L. 108–414, § 2, Oct. 30, 2004, 118 Stat. 2327) | 34:10651 note |
-| 42:3797aa note (Pub. L. 108–414, § 3, Oct. 30, 2004, 118 Stat. 2328) | 34:10651 note |
-| 42:3797aa note (Pub. L. 110–416, § 2, Oct. 14, 2008, 122 Stat. 4352) | 34:10651 note |
+| 42:3797aa note (Pub. L. 108–414, § 2, Oct. 30, 2004, 118 Stat. 2327) | 34:10651 note |
+| 42:3797aa note (Pub. L. 108–414, § 3, Oct. 30, 2004, 118 Stat. 2328) | 34:10651 note |
+| 42:3797aa note (Pub. L. 110–416, § 2, Oct. 14, 2008, 122 Stat. 4352) | 34:10651 note |
 | 42:3797aa–1 | 34:10652 |
-| 42:3797aa–1 note (Pub. L. 114–255, div. B, title XIV, § 14008, Dec. 13, 2016, 130 Stat. 1296) | 34:10652 note |
-| 42:3797aa–1 note (Pub. L. 114–255, div. B, title XIV, § 14025, Dec. 13, 2016, 130 Stat. 1310) | 34:10652 note |
+| 42:3797aa–1 note (Pub. L. 114–255, div. B, title XIV, § 14008, Dec. 13, 2016, 130 Stat. 1296) | 34:10652 note |
+| 42:3797aa–1 note (Pub. L. 114–255, div. B, title XIV, § 14025, Dec. 13, 2016, 130 Stat. 1310) | 34:10652 note |
 | 42:3797cc | 34:10661 |
 | 42:3797cc–1 | 34:10662 |
 | 42:3797cc–2 | 34:10663 |
@@ -430,43 +430,43 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:3797ff–4 | 34:10705 |
 | 42:3797ff–5 | 34:10706 |
 | 42:3797ff–6 | 34:10707 |
-| 42:5101 note (Pub. L. 103–209, § 1, Dec. 20, 1993, 107 Stat. 2490) | 34:10101 note |
-| 42:5101 note (Pub. L. 105–251, title II, § 221, Oct. 9, 1998, 112 Stat. 1885) | 34:10101 note |
-| 42:5101 note (Pub. L. 110–296, § 1, July 30, 2008, 122 Stat. 2974, and Pub. L. 110–408, § 1, Oct. 13, 2008, 122 Stat. 4301) | 34:10101 note |
-| 42:5101 note (Pub. L. 111–143, § 1, Mar. 1, 2010, 124 Stat. 41) | 34:10101 note |
-| 42:5101 note (Pub. L. 111–341, § 1, Dec. 22, 2010, 124 Stat. 3606) | 34:10101 note |
-| 42:5101 note (Pub. L. 99–401, title I, § 105, Aug. 27, 1986, 100 Stat. 906) | 34:41302 |
+| 42:5101 note (Pub. L. 103–209, § 1, Dec. 20, 1993, 107 Stat. 2490) | 34:10101 note |
+| 42:5101 note (Pub. L. 105–251, title II, § 221, Oct. 9, 1998, 112 Stat. 1885) | 34:10101 note |
+| 42:5101 note (Pub. L. 110–296, § 1, July 30, 2008, 122 Stat. 2974, and Pub. L. 110–408, § 1, Oct. 13, 2008, 122 Stat. 4301) | 34:10101 note |
+| 42:5101 note (Pub. L. 111–143, § 1, Mar. 1, 2010, 124 Stat. 41) | 34:10101 note |
+| 42:5101 note (Pub. L. 111–341, § 1, Dec. 22, 2010, 124 Stat. 3606) | 34:10101 note |
+| 42:5101 note (Pub. L. 99–401, title I, § 105, Aug. 27, 1986, 100 Stat. 906) | 34:41302 |
 | 42:5119 | 34:40101 |
-| 42:5119 note (Pub. L. 103–322, title XXXII, § 320928(g), Sept. 13, 1994, 108 Stat. 2132) | 34:40101 note |
+| 42:5119 note (Pub. L. 103–322, title XXXII, § 320928(g), Sept. 13, 1994, 108 Stat. 2132) | 34:40101 note |
 | 42:5119a | 34:40102 |
-| 42:5119a note (Pub. L. 108–21, title I, § 108, Apr. 30, 2003, 117 Stat. 655) | 34:40102 note |
+| 42:5119a note (Pub. L. 108–21, title I, § 108, Apr. 30, 2003, 117 Stat. 655) | 34:40102 note |
 | 42:5119b | 34:40103 |
 | 42:5119c | 34:40104 |
 | 42:5601 | 34:11101 |
-| 42:5601 note (Pub. L. 93–415, § 1, Sept. 7, 1974, 88 Stat. 1109) | 34:10101 note |
-| 42:5601 note (Pub. L. 93–415, title III, § 301, Sept. 7, 1974, 88 Stat. 1129) | 34:10101 note |
-| 42:5601 note (Pub. L. 93–415, title IV, § 401, as added by Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2125) | 34:10101 note |
-| 42:5601 note (Pub. L. 93–415, title V, § 501, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894) | 34:10101 note |
-| 42:5601 note (Pub. L. 95–115, § 1, Oct. 3, 1977, 91 Stat. 1048) | 34:10101 note |
-| 42:5601 note (Pub. L. 96–509, § 1, Dec. 8, 1980, 94 Stat. 2750) | 34:10101 note |
-| 42:5601 note (Pub. L. 98–473, title II, § 610, Oct. 12, 1984, 98 Stat. 2107) | 34:10101 note |
-| 42:5601 note (Pub. L. 100–690, title VII, § 7250(a), Nov. 18, 1988, 102 Stat. 4434) | 34:10101 note |
-| 42:5601 note (Pub. L. 106–71, § 1, Oct. 12, 1999, 113 Stat. 1032) | 34:10101 note |
-| 42:5601 note (Pub. L. 107–273, div. C, title II, § 12201, Nov. 2, 2002, 116 Stat. 1869) | 34:10101 note |
-| 42:5601 note (Pub. L. 108–96, § 1, Oct. 10, 2003, 117 Stat. 1167) | 34:10101 note |
-| 42:5601 note (Pub. L. 110–240, § 1, June 3, 2008, 122 Stat. 1560) | 34:10101 note |
-| 42:5601 note (Pub. L. 110–378, § 1, Oct. 8, 2008, 122 Stat. 4068) | 34:10101 note |
-| 42:5601 note (Pub. L. 113–38, § 1, Sept. 30, 2013, 127 Stat. 527) | 34:10101 note |
-| 42:5601 note (Pub. L. 114–22, title I, § 116(a), May 29, 2015, 129 Stat. 244) | 34:10101 note |
-| 42:5601 note (Pub. L. 98–473, title II, § 670, Oct. 12, 1984, 98 Stat. 2129) | 34:11101 note |
-| 42:5601 note (Pub. L. 100–690, title VII, § 7296, Nov. 18, 1988, 102 Stat. 4463) | 34:11101 note |
-| 42:5601 note (Pub. L. 107–273, div. C, title II, § 12223, Nov. 2, 2002, 116 Stat. 1896) | 34:11101 note |
-| 42:5601 note (Pub. L. 108–21, title III, § 361, Apr. 30, 2003, 117 Stat. 665) | 40:3101 note |
+| 42:5601 note (Pub. L. 93–415, § 1, Sept. 7, 1974, 88 Stat. 1109) | 34:10101 note |
+| 42:5601 note (Pub. L. 93–415, title III, § 301, Sept. 7, 1974, 88 Stat. 1129) | 34:10101 note |
+| 42:5601 note (Pub. L. 93–415, title IV, § 401, as added by Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2125) | 34:10101 note |
+| 42:5601 note (Pub. L. 93–415, title V, § 501, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894) | 34:10101 note |
+| 42:5601 note (Pub. L. 95–115, § 1, Oct. 3, 1977, 91 Stat. 1048) | 34:10101 note |
+| 42:5601 note (Pub. L. 96–509, § 1, Dec. 8, 1980, 94 Stat. 2750) | 34:10101 note |
+| 42:5601 note (Pub. L. 98–473, title II, § 610, Oct. 12, 1984, 98 Stat. 2107) | 34:10101 note |
+| 42:5601 note (Pub. L. 100–690, title VII, § 7250(a), Nov. 18, 1988, 102 Stat. 4434) | 34:10101 note |
+| 42:5601 note (Pub. L. 106–71, § 1, Oct. 12, 1999, 113 Stat. 1032) | 34:10101 note |
+| 42:5601 note (Pub. L. 107–273, div. C, title II, § 12201, Nov. 2, 2002, 116 Stat. 1869) | 34:10101 note |
+| 42:5601 note (Pub. L. 108–96, § 1, Oct. 10, 2003, 117 Stat. 1167) | 34:10101 note |
+| 42:5601 note (Pub. L. 110–240, § 1, June 3, 2008, 122 Stat. 1560) | 34:10101 note |
+| 42:5601 note (Pub. L. 110–378, § 1, Oct. 8, 2008, 122 Stat. 4068) | 34:10101 note |
+| 42:5601 note (Pub. L. 113–38, § 1, Sept. 30, 2013, 127 Stat. 527) | 34:10101 note |
+| 42:5601 note (Pub. L. 114–22, title I, § 116(a), May 29, 2015, 129 Stat. 244) | 34:10101 note |
+| 42:5601 note (Pub. L. 98–473, title II, § 670, Oct. 12, 1984, 98 Stat. 2129) | 34:11101 note |
+| 42:5601 note (Pub. L. 100–690, title VII, § 7296, Nov. 18, 1988, 102 Stat. 4463) | 34:11101 note |
+| 42:5601 note (Pub. L. 107–273, div. C, title II, § 12223, Nov. 2, 2002, 116 Stat. 1896) | 34:11101 note |
+| 42:5601 note (Pub. L. 108–21, title III, § 361, Apr. 30, 2003, 117 Stat. 665) | 40:3101 note |
 | 42:5602 | 34:11102 |
 | 42:5603 | 34:11103 |
 | 42:5611 | 34:11111 |
 | 42:5611 note (Pub. L. 109–248, title VI, subtitle A, July 27, 2006, 120 Stat. 631 , 632) | 34:11111 note |
-| 42:5611 note (Pub. L. 114–22, title I, § 119, May 29, 2015, 129 Stat. 247) | 34:20710 |
+| 42:5611 note (Pub. L. 114–22, title I, § 119, May 29, 2015, 129 Stat. 247) | 34:20710 |
 | 42:5612 | 34:11112 |
 | 42:5613 | 34:11113 |
 | 42:5614 | 34:11114 |
@@ -475,12 +475,12 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:5617 | 34:11117 |
 | 42:5631 | 34:11131 |
 | 42:5632 | 34:11132 |
-| 42:5632 note (Pub. L. 95–115, § 4(b)(2)(D), Oct. 3, 1977, 91 Stat. 1051) | 34:11132 note |
-| 42:5632 note (Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051) | 34:11132 note |
+| 42:5632 note (Pub. L. 95–115, § 4(b)(2)(D), Oct. 3, 1977, 91 Stat. 1051) | 34:11132 note |
+| 42:5632 note (Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051) | 34:11132 note |
 | 42:5633 | 34:11133 |
-| 42:5633 note (Pub. L. 95–115, § 4(c)(3)(B), Oct. 3, 1977, 91 Stat. 1052) | 34:11133 note |
-| 42:5633 note (Pub. L. 95–115, § 4(c)(6)(B), Oct. 3, 1977, 91 Stat. 1053) | 34:11133 note |
-| 42:5633 note (Pub. L. 102–586, § 2(f)(3)(B), Nov. 4, 1992, 106 Stat. 4994) | 34:11133 note |
+| 42:5633 note (Pub. L. 95–115, § 4(c)(3)(B), Oct. 3, 1977, 91 Stat. 1052) | 34:11133 note |
+| 42:5633 note (Pub. L. 95–115, § 4(c)(6)(B), Oct. 3, 1977, 91 Stat. 1053) | 34:11133 note |
+| 42:5633 note (Pub. L. 102–586, § 2(f)(3)(B), Nov. 4, 1992, 106 Stat. 4994) | 34:11133 note |
 | 42:5651 | 34:11141 |
 | 42:5652 | 34:11142 |
 | 42:5653 | 34:11143 |
@@ -505,14 +505,14 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:5680 | 34:11190 |
 | 42:5681 | 34:11191 |
 | 42:5701 | 34:11201 |
-| 42:5701 note (Pub. L. 108–96, title I, § 118, Oct. 10, 2003, 117 Stat. 1170) | omitted |
+| 42:5701 note (Pub. L. 108–96, title I, § 118, Oct. 10, 2003, 117 Stat. 1170) | omitted |
 | 42:5702 | 34:11202 |
 | 42:5711 | 34:11211 |
 | 42:5712 | 34:11212 |
 | 42:5713 | 34:11213 |
 | 42:5714 | 34:11214 |
 | 42:5714–1 | 34:11221 |
-| 42:5714–1 note (Pub. L. 108–96, title I, § 119, Oct. 10, 2003, 117 Stat. 1170) | omitted |
+| 42:5714–1 note (Pub. L. 108–96, title I, § 119, Oct. 10, 2003, 117 Stat. 1170) | omitted |
 | 42:5714–2 | 34:11222 |
 | 42:5714–11 | 34:11231 |
 | 42:5714–21 | 34:11241 |
@@ -543,8 +543,8 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:5780 | 34:41308 |
 | 42:5780a | 34:11298 |
 | 42:5781 | 34:11311 |
-| 42:5781 note (Pub. L. 102–586, § 5(b), Nov. 4, 1992, 106 Stat. 5029) | 34:11311 note |
-| 42:5781 note (Pub. L. 107–273, div. C, title II, § 12222(b), Nov. 2, 2002, 116 Stat. 1896) | 34:11311 note |
+| 42:5781 note (Pub. L. 102–586, § 5(b), Nov. 4, 1992, 106 Stat. 5029) | 34:11311 note |
+| 42:5781 note (Pub. L. 107–273, div. C, title II, § 12222(b), Nov. 2, 2002, 116 Stat. 1896) | 34:11311 note |
 | 42:5782 | 34:11312 |
 | 42:5783 | 34:11313 |
 | 42:5784 | omitted |
@@ -569,52 +569,52 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:10512 | 34:50111 |
 | 42:10513 | 34:50112 |
 | 42:10601 | 34:20101 |
-| 42:10601 note (Pub. L. 98–473, title II, § 1401, Oct. 12, 1984, 98 Stat. 2170) | 34:10101 note |
-| 42:10601 note (Pub. L. 101–647, title V, § 501, Nov. 29, 1990, 104 Stat. 4820) | 34:10101 note |
-| 42:10601 note (Pub. L. 104–132, title II, § 231, Apr. 24, 1996, 110 Stat. 1243) | 34:10101 note |
-| 42:10601 note (Pub. L. 98–473, title II, § 1409, Oct. 12, 1984, 98 Stat. 2178) | 34:20101 note |
-| 42:10601 note (Pub. L. 100–690, title VII, § 7129, Nov. 18, 1988, 102 Stat. 4423) | 34:20101 note |
-| 42:10601 note (Pub. L. 100–690, title VII, § 7130, Nov. 18, 1988, 102 Stat. 4423) | 34:20101 note |
-| 42:10601 note (Pub. L. 105–119, title I, § 109(b), Nov. 26, 1997, 111 Stat. 2457) | 34:20101 note |
-| 42:10601 note (Pub. L. 106–113, div. B, § 1000(a)(1) [title VI, § 620], Nov. 29, 1999, 113 Stat. 1535, 1501A–55) | 34:20101 note |
-| 42:10601 note (Pub. L. 106–177, title I, § 104(b), Mar. 10, 2000, 114 Stat. 36) | 34:20101 note |
-| 42:10601 note (Pub. L. 106–553, § 1(a)(2) [title VI, § 619], Dec. 21, 2000, 114 Stat. 2762, 2762A–107) | 34:20101 note |
-| 42:10601 note (Pub. L. 107–56, title VI, § 621(e), Oct. 26, 2001, 115 Stat. 371) | 34:20101 note |
-| 42:10601 note (Pub. L. 107–77, title VI, § 619, Nov. 28, 2001, 115 Stat. 802) | 34:20101 note |
-| 42:10601 note (Pub. L. 108–7, div. B, title VI, § 617, Feb. 20, 2003, 117 Stat. 102) | 34:20101 note |
-| 42:10601 note (Pub. L. 108–199, div. B, title VI, § 618, Jan. 23, 2004, 118 Stat. 95) | 34:20101 note |
-| 42:10601 note (Pub. L. 108–447, div. B, title VI, § 616, Dec. 8, 2004, 118 Stat. 2915) | 34:20101 note |
-| 42:10601 note (Pub. L. 109–108, title VI, § 612, Nov. 22, 2005, 119 Stat. 2336) | 34:20101 note |
-| 42:10601 note (Pub. L. 110–161, div. B, title V, § 513, Dec. 26, 2007, 121 Stat. 1926) | 34:20101 note |
-| 42:10601 note (Pub. L. 111–8, div. B, title V, § 512, Mar. 11, 2009, 123 Stat. 596) | 34:20101 note |
-| 42:10601 note (Pub. L. 111–117, div. B, title V, § 512, Dec. 16, 2009, 123 Stat. 3151) | 34:20101 note |
-| 42:10601 note (Pub. L. 112–55, div. B, title V, § 512, Nov. 18, 2011, 125 Stat. 632) | 34:20101 note |
-| 42:10601 note (Pub. L. 113–6, div. B, title V, § 510, Mar. 26, 2013, 127 Stat. 271) | 34:20101 note |
-| 42:10601 note (Pub. L. 113–76, div. B, title V, § 510, Jan. 17, 2014, 128 Stat. 79) | 34:20101 note |
-| 42:10601 note (Pub. L. 113–235, div. B, title V, § 510, Dec. 16, 2014, 128 Stat. 2210) | 34:20101 note |
-| 42:10601 note (Pub. L. 114–113, div. B, title V, § 510, Dec. 18, 2015, 129 Stat. 2324) | 34:20101 note |
-| 42:10601 note (Pub. L. 115–31, div. B, title III, § 510, May 5, 2017, 131 Stat. 221) | 34:20101 note |
+| 42:10601 note (Pub. L. 98–473, title II, § 1401, Oct. 12, 1984, 98 Stat. 2170) | 34:10101 note |
+| 42:10601 note (Pub. L. 101–647, title V, § 501, Nov. 29, 1990, 104 Stat. 4820) | 34:10101 note |
+| 42:10601 note (Pub. L. 104–132, title II, § 231, Apr. 24, 1996, 110 Stat. 1243) | 34:10101 note |
+| 42:10601 note (Pub. L. 98–473, title II, § 1409, Oct. 12, 1984, 98 Stat. 2178) | 34:20101 note |
+| 42:10601 note (Pub. L. 100–690, title VII, § 7129, Nov. 18, 1988, 102 Stat. 4423) | 34:20101 note |
+| 42:10601 note (Pub. L. 100–690, title VII, § 7130, Nov. 18, 1988, 102 Stat. 4423) | 34:20101 note |
+| 42:10601 note (Pub. L. 105–119, title I, § 109(b), Nov. 26, 1997, 111 Stat. 2457) | 34:20101 note |
+| 42:10601 note (Pub. L. 106–113, div. B, § 1000(a)(1) [title VI, § 620], Nov. 29, 1999, 113 Stat. 1535, 1501A–55) | 34:20101 note |
+| 42:10601 note (Pub. L. 106–177, title I, § 104(b), Mar. 10, 2000, 114 Stat. 36) | 34:20101 note |
+| 42:10601 note (Pub. L. 106–553, § 1(a)(2) [title VI, § 619], Dec. 21, 2000, 114 Stat. 2762, 2762A–107) | 34:20101 note |
+| 42:10601 note (Pub. L. 107–56, title VI, § 621(e), Oct. 26, 2001, 115 Stat. 371) | 34:20101 note |
+| 42:10601 note (Pub. L. 107–77, title VI, § 619, Nov. 28, 2001, 115 Stat. 802) | 34:20101 note |
+| 42:10601 note (Pub. L. 108–7, div. B, title VI, § 617, Feb. 20, 2003, 117 Stat. 102) | 34:20101 note |
+| 42:10601 note (Pub. L. 108–199, div. B, title VI, § 618, Jan. 23, 2004, 118 Stat. 95) | 34:20101 note |
+| 42:10601 note (Pub. L. 108–447, div. B, title VI, § 616, Dec. 8, 2004, 118 Stat. 2915) | 34:20101 note |
+| 42:10601 note (Pub. L. 109–108, title VI, § 612, Nov. 22, 2005, 119 Stat. 2336) | 34:20101 note |
+| 42:10601 note (Pub. L. 110–161, div. B, title V, § 513, Dec. 26, 2007, 121 Stat. 1926) | 34:20101 note |
+| 42:10601 note (Pub. L. 111–8, div. B, title V, § 512, Mar. 11, 2009, 123 Stat. 596) | 34:20101 note |
+| 42:10601 note (Pub. L. 111–117, div. B, title V, § 512, Dec. 16, 2009, 123 Stat. 3151) | 34:20101 note |
+| 42:10601 note (Pub. L. 112–55, div. B, title V, § 512, Nov. 18, 2011, 125 Stat. 632) | 34:20101 note |
+| 42:10601 note (Pub. L. 113–6, div. B, title V, § 510, Mar. 26, 2013, 127 Stat. 271) | 34:20101 note |
+| 42:10601 note (Pub. L. 113–76, div. B, title V, § 510, Jan. 17, 2014, 128 Stat. 79) | 34:20101 note |
+| 42:10601 note (Pub. L. 113–235, div. B, title V, § 510, Dec. 16, 2014, 128 Stat. 2210) | 34:20101 note |
+| 42:10601 note (Pub. L. 114–113, div. B, title V, § 510, Dec. 18, 2015, 129 Stat. 2324) | 34:20101 note |
+| 42:10601 note (Pub. L. 115–31, div. B, title III, § 510, May 5, 2017, 131 Stat. 221) | 34:20101 note |
 | 42:10602 | 34:20102 |
-| 42:10602 note (Pub. L. 104–132, title II, § 233(d), Apr. 24, 1996, 110 Stat. 1245) | 34:20102 note |
-| 42:10602 note (Pub. L. 104–132, title II, § 234(a)(2), Apr. 24, 1996, 110 Stat. 1245) | 34:20102 note |
+| 42:10602 note (Pub. L. 104–132, title II, § 233(d), Apr. 24, 1996, 110 Stat. 1245) | 34:20102 note |
+| 42:10602 note (Pub. L. 104–132, title II, § 234(a)(2), Apr. 24, 1996, 110 Stat. 1245) | 34:20102 note |
 | 42:10603 | 34:20103 |
 | 42:10603a | 34:20104 |
 | 42:10603b | 34:20105 |
-| 42:10603b note (Pub. L. 106–386, div. C, § 2003(a)(2), Oct. 28, 2000, 114 Stat. 1544) | 34:20105 note |
-| 42:10603b note (Pub. L. 106–386, div. C, § 2003(a)(3), Oct. 28, 2000, 114 Stat. 1544) | 34:20105 note |
+| 42:10603b note (Pub. L. 106–386, div. C, § 2003(a)(2), Oct. 28, 2000, 114 Stat. 1544) | 34:20105 note |
+| 42:10603b note (Pub. L. 106–386, div. C, § 2003(a)(3), Oct. 28, 2000, 114 Stat. 1544) | 34:20105 note |
 | 42:10603c | 34:20106 |
 | 42:10603d | 34:20107 |
 | 42:10603e | 34:20108 |
 | 42:10603f | 34:20109 |
 | 42:10604 | 34:20110 |
-| 42:10604 note (Pub. L. 104–294, title I, § 101(c), Oct. 11, 1996, 110 Stat. 3491) | omitted |
+| 42:10604 note (Pub. L. 104–294, title I, § 101(c), Oct. 11, 1996, 110 Stat. 3491) | omitted |
 | 42:10605 | 34:20111 |
 | 42:10607 | 34:20141 |
 | 42:10608 | 34:20142 |
 | 42:10609 | 34:20144 |
 | 42:13001 | 34:20301 |
-| 42:13001 note (Pub. L. 101–647, title II, § 201, Nov. 29, 1990, 104 Stat. 4792) | 34:10101 note |
-| 42:13001 note (Pub. L. 113–163, § 1, Aug. 8, 2014, 128 Stat. 1864) | 34:10101 note |
+| 42:13001 note (Pub. L. 101–647, title II, § 201, Nov. 29, 1990, 104 Stat. 4792) | 34:10101 note |
+| 42:13001 note (Pub. L. 113–163, § 1, Aug. 8, 2014, 128 Stat. 1864) | 34:10101 note |
 | 42:13001a | 34:20302 |
 | 42:13001b | 34:20303 |
 | 42:13002 | 34:20304 |
@@ -633,40 +633,40 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:13031 | 34:20341 |
 | 42:13041 | 34:20351 |
 | 42:13701 | 34:12101 |
-| 42:13701 note (Pub. L. 103–322, § 1, Sept. 13, 1994, 108 Stat. 1796) | 34:10101 note |
-| 42:13701 note (Pub. L. 103–322, title III, § 31101, Sept. 13, 1994, 108 Stat. 1882) | 34:10101 note |
-| 42:13701 note (Pub. L. 103–322, title III, § 31901, Sept. 13, 1994, 108 Stat. 1892) | 34:10101 note |
-| 42:13701 note (Pub. L. 103–322, title IV, § 40001, Sept. 13, 1994, 108 Stat. 1902) | 34:10101 note |
-| 42:13701 note (Pub. L. 103–322, title IV, § 40101, Sept. 13, 1994, 108 Stat. 1903) | 34:10101 note |
-| 42:13701 note (Pub. L. 103–322, title IV, § 40201, Sept. 13, 1994, 108 Stat. 1925) | 34:10101 note |
-| 42:13701 note (Pub. L. 103–322, title IV, § 40301, Sept. 13, 1994, 108 Stat. 1941) | 34:10101 note |
-| 42:13701 note (Pub. L. 103–322, title IV, § 40401, Sept. 13, 1994, 108 Stat. 1942) | 34:10101 note |
-| 42:13701 note (Pub. L. 103–322, title XX, § 200101, Sept. 13, 1994, 108 Stat. 2049) | 34:10101 note |
-| 42:13701 note (Pub. L. 103–322, title XX, § 200201, Sept. 13, 1994, 108 Stat. 2057) | 34:10101 note |
-| 42:13701 note (Pub. L. 103–322, title XXI, § 210301, Sept. 13, 1994, 108 Stat. 2065) | 34:10101 note |
-| 42:13701 note (Pub. L. 103–322, title XXII, § 220001, Sept. 13, 1994, 108 Stat. 2074) | 34:10101 note |
-| 42:13701 note (Pub. L. 106–297, § 1, Oct. 13, 2000, 114 Stat. 1045) | 34:10101 note |
-| 42:13701 note (Pub. L. 106–386, div. B, § 1001, Oct. 28, 2000, 114 Stat. 1491) | 34:10101 note |
-| 42:13701 note (Pub. L. 106–546, § 1, Dec. 19, 2000, 114 Stat. 2726) | 34:10101 note |
-| 42:13701 note (Pub. L. 106–560, § 1, Dec. 21, 2000, 114 Stat. 2784) | 34:10101 note |
-| 42:13701 note (Pub. L. 108–405, § 1(a), Oct. 30, 2004, 118 Stat. 2260) | 34:10101 note |
-| 42:13701 note (Pub. L. 108–405, title II, § 201, Oct. 30, 2004, 118 Stat. 2266) | 34:10101 note |
-| 42:13701 note (Pub. L. 108–405, title III, § 301, Oct. 30, 2004, 118 Stat. 2272) | 34:10101 note |
-| 42:13701 note (Pub. L. 109–162, § 1, Jan. 5, 2006, 119 Stat. 2960) | 34:10101 note |
-| 42:13701 note (Pub. L. 109–162, title X, § 1001, Jan. 5, 2006, 119 Stat. 3084) | 34:10101 note |
-| 42:13701 note (Pub. L. 109–248, title VI, § 611, July 27, 2006, 120 Stat. 632) | 34:10101 note |
-| 42:13701 note (Pub. L. 110–360, § 1, Oct. 8, 2008, 122 Stat. 4008) | 34:10101 note |
-| 42:13701 note (Pub. L. 112–253, § 1, Jan. 10, 2013, 126 Stat. 2407) | 34:10101 note |
-| 42:13701 note (Pub. L. 113–4, § 1, Mar. 7, 2013, 127 Stat. 54) | 34:10101 note |
-| 42:13701 note (Pub. L. 113–4, title X, § 1001, Mar. 7, 2013, 127 Stat. 127) | 34:10101 note |
-| 42:13701 note (Pub. L. 113–182, § 1, Sept. 29, 2014, 128 Stat. 1918) | 34:10101 note |
-| 42:13701 note (Pub. L. 113–242, § 1, Dec. 18, 2014, 128 Stat. 2860) | 34:10101 note |
-| 42:13701 note (Pub. L. 114–12, § 1, May 19, 2015, 129 Stat. 192) | 34:10101 note |
-| 42:13701 note (Pub. L. 114–22, title IV, § 401, May 29, 2015, 129 Stat. 256) | 34:10101 note |
-| 42:13701 note (Pub. L. 114–324, § 1, Dec. 16, 2016, 130 Stat. 1948) | 34:10101 note |
+| 42:13701 note (Pub. L. 103–322, § 1, Sept. 13, 1994, 108 Stat. 1796) | 34:10101 note |
+| 42:13701 note (Pub. L. 103–322, title III, § 31101, Sept. 13, 1994, 108 Stat. 1882) | 34:10101 note |
+| 42:13701 note (Pub. L. 103–322, title III, § 31901, Sept. 13, 1994, 108 Stat. 1892) | 34:10101 note |
+| 42:13701 note (Pub. L. 103–322, title IV, § 40001, Sept. 13, 1994, 108 Stat. 1902) | 34:10101 note |
+| 42:13701 note (Pub. L. 103–322, title IV, § 40101, Sept. 13, 1994, 108 Stat. 1903) | 34:10101 note |
+| 42:13701 note (Pub. L. 103–322, title IV, § 40201, Sept. 13, 1994, 108 Stat. 1925) | 34:10101 note |
+| 42:13701 note (Pub. L. 103–322, title IV, § 40301, Sept. 13, 1994, 108 Stat. 1941) | 34:10101 note |
+| 42:13701 note (Pub. L. 103–322, title IV, § 40401, Sept. 13, 1994, 108 Stat. 1942) | 34:10101 note |
+| 42:13701 note (Pub. L. 103–322, title XX, § 200101, Sept. 13, 1994, 108 Stat. 2049) | 34:10101 note |
+| 42:13701 note (Pub. L. 103–322, title XX, § 200201, Sept. 13, 1994, 108 Stat. 2057) | 34:10101 note |
+| 42:13701 note (Pub. L. 103–322, title XXI, § 210301, Sept. 13, 1994, 108 Stat. 2065) | 34:10101 note |
+| 42:13701 note (Pub. L. 103–322, title XXII, § 220001, Sept. 13, 1994, 108 Stat. 2074) | 34:10101 note |
+| 42:13701 note (Pub. L. 106–297, § 1, Oct. 13, 2000, 114 Stat. 1045) | 34:10101 note |
+| 42:13701 note (Pub. L. 106–386, div. B, § 1001, Oct. 28, 2000, 114 Stat. 1491) | 34:10101 note |
+| 42:13701 note (Pub. L. 106–546, § 1, Dec. 19, 2000, 114 Stat. 2726) | 34:10101 note |
+| 42:13701 note (Pub. L. 106–560, § 1, Dec. 21, 2000, 114 Stat. 2784) | 34:10101 note |
+| 42:13701 note (Pub. L. 108–405, § 1(a), Oct. 30, 2004, 118 Stat. 2260) | 34:10101 note |
+| 42:13701 note (Pub. L. 108–405, title II, § 201, Oct. 30, 2004, 118 Stat. 2266) | 34:10101 note |
+| 42:13701 note (Pub. L. 108–405, title III, § 301, Oct. 30, 2004, 118 Stat. 2272) | 34:10101 note |
+| 42:13701 note (Pub. L. 109–162, § 1, Jan. 5, 2006, 119 Stat. 2960) | 34:10101 note |
+| 42:13701 note (Pub. L. 109–162, title X, § 1001, Jan. 5, 2006, 119 Stat. 3084) | 34:10101 note |
+| 42:13701 note (Pub. L. 109–248, title VI, § 611, July 27, 2006, 120 Stat. 632) | 34:10101 note |
+| 42:13701 note (Pub. L. 110–360, § 1, Oct. 8, 2008, 122 Stat. 4008) | 34:10101 note |
+| 42:13701 note (Pub. L. 112–253, § 1, Jan. 10, 2013, 126 Stat. 2407) | 34:10101 note |
+| 42:13701 note (Pub. L. 113–4, § 1, Mar. 7, 2013, 127 Stat. 54) | 34:10101 note |
+| 42:13701 note (Pub. L. 113–4, title X, § 1001, Mar. 7, 2013, 127 Stat. 127) | 34:10101 note |
+| 42:13701 note (Pub. L. 113–182, § 1, Sept. 29, 2014, 128 Stat. 1918) | 34:10101 note |
+| 42:13701 note (Pub. L. 113–242, § 1, Dec. 18, 2014, 128 Stat. 2860) | 34:10101 note |
+| 42:13701 note (Pub. L. 114–12, § 1, May 19, 2015, 129 Stat. 192) | 34:10101 note |
+| 42:13701 note (Pub. L. 114–22, title IV, § 401, May 29, 2015, 129 Stat. 256) | 34:10101 note |
+| 42:13701 note (Pub. L. 114–324, § 1, Dec. 16, 2016, 130 Stat. 1948) | 34:10101 note |
 | 42:13702 | 34:12102 |
 | 42:13703 | 34:12103 |
-| 42:13703 note (Pub. L. 104–208, div. A, title I, § 101(a) [title I], Sept. 30, 1996, 110 Stat. 3009, 3009–14) | 34:12103 note |
+| 42:13703 note (Pub. L. 104–208, div. A, title I, § 101(a) [title I], Sept. 30, 1996, 110 Stat. 3009, 3009–14) | 34:12103 note |
 | 42:13704 | 34:12104 |
 | 42:13705 | 34:12105 |
 | 42:13706 | 34:12106 |
@@ -692,10 +692,10 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:13742 | 34:12132 |
 | 42:13743 | 34:12133 |
 | 42:13744 | omitted |
-| 42:13751 note (Pub. L. 104–294, title IV, § 401, Oct. 11, 1996, 110 Stat. 3496) | omitted |
-| 42:13751 note (Pub. L. 106–313, title I, § 112, Oct. 17, 2000, 114 Stat. 1260) | 34:11313 note |
+| 42:13751 note (Pub. L. 104–294, title IV, § 401, Oct. 11, 1996, 110 Stat. 3496) | omitted |
+| 42:13751 note (Pub. L. 106–313, title I, § 112, Oct. 17, 2000, 114 Stat. 1260) | 34:11313 note |
 | 42:13751 note (Pub. L. 106–367, Oct. 27, 2000, 114 Stat. 1412) | 34:11313 note |
-| 42:13751 note (Pub. L. 109–162, title XI, § 1199, Jan. 5, 2006, 119 Stat. 3132) | 34:11313 note |
+| 42:13751 note (Pub. L. 109–162, title XI, § 1199, Jan. 5, 2006, 119 Stat. 3132) | 34:11313 note |
 | 42:13771 | 34:12141 |
 | 42:13772 | 34:12142 |
 | 42:13773 | 34:12143 |
@@ -737,15 +737,15 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:13911 | 34:12271 |
 | 42:13921 | 34:12281 |
 | 42:13925 | 34:12291 |
-| 42:13925 note (Pub. L. 109–162, title II, § 201, Jan. 5, 2006, 119 Stat. 2993) | 34:12291 note |
-| 42:13925 note (Pub. L. 109–162, title III, § 301, Jan. 5, 2006, 119 Stat. 3003) | 34:12291 note |
+| 42:13925 note (Pub. L. 109–162, title II, § 201, Jan. 5, 2006, 119 Stat. 2993) | 34:12291 note |
+| 42:13925 note (Pub. L. 109–162, title III, § 301, Jan. 5, 2006, 119 Stat. 3003) | 34:12291 note |
 | 42:13931 | 34:12301 |
 | 42:13941 | 34:12311 |
 | 42:13942 | 34:12312 |
 | 42:13943 | 34:12313 |
 | 42:13951 | 34:12321 |
 | 42:13961 | 34:12331 |
-| 42:13961 note (Pub. L. 106–386, div. B, title IV, § 1404, Oct. 28, 2000, 114 Stat. 1514) | omitted |
+| 42:13961 note (Pub. L. 106–386, div. B, title IV, § 1404, Oct. 28, 2000, 114 Stat. 1514) | omitted |
 | 42:13962 | 34:12332 |
 | 42:13963 | 34:12333 |
 | 42:13971 | 34:12341 |
@@ -772,7 +772,7 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:14037 | 34:12407 |
 | 42:14038 | 34:12408 |
 | 42:14039 | 34:12409 |
-| 42:14039 note (Pub. L. 105–119, title I, § 115(b)(2), Nov. 26, 1997, 111 Stat. 2467) | 34:12409 note |
+| 42:14039 note (Pub. L. 105–119, title I, § 115(b)(2), Nov. 26, 1997, 111 Stat. 2467) | 34:12409 note |
 | 42:14040 | 34:12410 |
 | 42:14041 | 34:12421 |
 | 42:14042 | 34:12431 |
@@ -803,9 +803,9 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:14043h–6 | 34:21307 |
 | 42:14043h–7 | 34:21308 |
 | 42:14044 | 34:20701 |
-| 42:14044 note (Pub. L. 111–211, title II, § 264, July 29, 2010, 124 Stat. 2300) | 34:20701 note |
+| 42:14044 note (Pub. L. 111–211, title II, § 264, July 29, 2010, 124 Stat. 2300) | 34:20701 note |
 | 42:14044a | 34:20702 |
-| 42:14044a note (Pub. L. 113–4, title XII, § 1241(b), Mar. 7, 2013, 127 Stat. 153) | 34:20702 note |
+| 42:14044a note (Pub. L. 113–4, title XII, § 1241(b), Mar. 7, 2013, 127 Stat. 153) | 34:20702 note |
 | 42:14044b | 34:20703 |
 | 42:14044b–1 | 34:20704 |
 | 42:14044c | 34:20705 |
@@ -813,7 +813,7 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:14044e | 34:20707 |
 | 42:14044f | 34:20708 |
 | 42:14044g | 34:20709 |
-| 42:14044g note (Pub. L. 114–22, title I, § 110, May 29, 2015, 129 Stat. 239) | 34:20709 note |
+| 42:14044g note (Pub. L. 114–22, title I, § 110, May 29, 2015, 129 Stat. 239) | 34:20709 note |
 | 42:14044h | 34:20711 |
 | 42:14045 | 34:20123 |
 | 42:14045a | 34:20124 |
@@ -852,18 +852,18 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:14133 | 34:12593 |
 | 42:14134 | omitted |
 | 42:14135 | 34:40701 |
-| 42:14135 note (Pub. L. 106–546, § 11, Dec. 19, 2000, 114 Stat. 2735) | 34:40701 note |
-| 42:14135 note (Pub. L. 106–561, § 4, Dec. 21, 2000, 114 Stat. 2791) | 34:40701 note |
-| 42:14135 note (Pub. L. 113–4, title X, § 1003, Mar. 7, 2013, 127 Stat. 131) | 34:40701 note |
-| 42:14135 note (Pub. L. 113–4, title X, § 1005, Mar. 7, 2013, 127 Stat. 132) | 34:40701 note |
-| 42:14135 note (Pub. L. 113–4, title X, § 1006, Mar. 7, 2013, 127 Stat. 134) | 34:40701 note |
+| 42:14135 note (Pub. L. 106–546, § 11, Dec. 19, 2000, 114 Stat. 2735) | 34:40701 note |
+| 42:14135 note (Pub. L. 106–561, § 4, Dec. 21, 2000, 114 Stat. 2791) | 34:40701 note |
+| 42:14135 note (Pub. L. 113–4, title X, § 1003, Mar. 7, 2013, 127 Stat. 131) | 34:40701 note |
+| 42:14135 note (Pub. L. 113–4, title X, § 1005, Mar. 7, 2013, 127 Stat. 132) | 34:40701 note |
+| 42:14135 note (Pub. L. 113–4, title X, § 1006, Mar. 7, 2013, 127 Stat. 134) | 34:40701 note |
 | 42:14135a | 34:40702 |
 | 42:14135b | 34:40703 |
 | 42:14135c | 34:40704 |
 | 42:14135d | 34:40705 |
 | 42:14135e | 34:40706 |
 | 42:14136 | 34:40722 |
-| 42:14136 note (Pub. L. 108–405, title IV, § 413, Oct. 30, 2004, 118 Stat. 2285) | 34:40722 note |
+| 42:14136 note (Pub. L. 108–405, title IV, § 413, Oct. 30, 2004, 118 Stat. 2285) | 34:40722 note |
 | 42:14136a | 34:40723 |
 | 42:14136b | 34:40724 |
 | 42:14136c | 34:40725 |
@@ -903,9 +903,9 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:14222 | 34:12642 |
 | 42:14223 | 34:12643 |
 | 42:14601 | 34:40301 |
-| 42:14601 note (Pub. L. 105–251, title I, § 101, Oct. 9, 1998, 112 Stat. 1871) | 34:10101 note |
-| 42:14601 note (Pub. L. 105–251, title II, § 201, Oct. 9, 1998, 112 Stat. 1874) | 34:10101 note |
-| 42:14601 note (Pub. L. 105–251, title II, § 211, Oct. 9, 1998, 112 Stat. 1874) | 34:10101 note |
+| 42:14601 note (Pub. L. 105–251, title I, § 101, Oct. 9, 1998, 112 Stat. 1871) | 34:10101 note |
+| 42:14601 note (Pub. L. 105–251, title II, § 201, Oct. 9, 1998, 112 Stat. 1874) | 34:10101 note |
+| 42:14601 note (Pub. L. 105–251, title II, § 211, Oct. 9, 1998, 112 Stat. 1874) | 34:10101 note |
 | 42:14611 | 34:40311 |
 | 42:14612 | 34:40312 |
 | 42:14613 | 34:40313 |
@@ -913,15 +913,15 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:14615 | 34:40315 |
 | 42:14616 | 34:40316 |
 | 42:14661 | 34:40501 |
-| 42:14661 note (Pub. L. 106–177, title II, § 201, Mar. 10, 2000, 114 Stat. 36) | 34:10101 note |
-| 42:14661 note (Pub. L. 106–468, § 1, Nov. 9, 2000, 114 Stat. 2027) | 34:10101 note |
+| 42:14661 note (Pub. L. 106–177, title II, § 201, Mar. 10, 2000, 114 Stat. 36) | 34:10101 note |
+| 42:14661 note (Pub. L. 106–468, § 1, Nov. 9, 2000, 114 Stat. 2027) | 34:10101 note |
 | 42:14662 | 34:40502 |
 | 42:14663 | 34:40503 |
 | 42:14664 | omitted |
 | 42:14665 | 34:40504 |
-| 42:14665 note (Pub. L. 106–468, § 3, Nov. 9, 2000, 114 Stat. 2028) | 34:40504 note |
+| 42:14665 note (Pub. L. 106–468, § 3, Nov. 9, 2000, 114 Stat. 2028) | 34:40504 note |
 | 42:15231 | 34:50301 |
-| 42:15231 note (Pub. L. 110–298, § 1, July 31, 2008, 122 Stat. 2985) | 34:10101 note |
+| 42:15231 note (Pub. L. 110–298, § 1, July 31, 2008, 122 Stat. 2985) | 34:10101 note |
 | 42:15241 | 34:50311 |
 | 42:15242 | 34:50312 |
 | 42:15243 | 34:50313 |
@@ -932,7 +932,7 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:15254 | 34:50324 |
 | 42:15261 | 34:50331 |
 | 42:15601 | 34:30301 |
-| 42:15601 note (Pub. L. 108–79, § 1(a), Sept. 4, 2003, 117 Stat. 972) | 34:10101 note |
+| 42:15601 note (Pub. L. 108–79, § 1(a), Sept. 4, 2003, 117 Stat. 972) | 34:10101 note |
 | 42:15601 note (Memorandum of President of the United States, May 17, 2012, 77 F.R. 30873) | 34:30301 note |
 | 42:15602 | 34:30302 |
 | 42:15603 | 34:30303 |
@@ -943,11 +943,11 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:15608 | 34:30308 |
 | 42:15609 | 34:30309 |
 | 42:16901 | 34:20901 |
-| 42:16901 note (Pub. L. 109–248, § 1(a), July 27, 2006, 120 Stat. 587) | 34:10101 note |
-| 42:16901 note (Pub. L. 109–248, title I, § 101, July 27, 2006, 120 Stat. 590) | 34:10101 note |
-| 42:16901 note (Pub. L. 110–400, § 1, Oct. 13, 2008, 122 Stat. 4224) | 34:10101 note |
-| 42:16901 note (Pub. L. 114–22, title V, § 501, May 29, 2015, 129 Stat. 258) | 34:10101 note |
-| 42:16901 note (Pub. L. 114–119, § 1(a), Feb. 8, 2016, 130 Stat. 15) | 34:10101 note |
+| 42:16901 note (Pub. L. 109–248, § 1(a), July 27, 2006, 120 Stat. 587) | 34:10101 note |
+| 42:16901 note (Pub. L. 109–248, title I, § 101, July 27, 2006, 120 Stat. 590) | 34:10101 note |
+| 42:16901 note (Pub. L. 110–400, § 1, Oct. 13, 2008, 122 Stat. 4224) | 34:10101 note |
+| 42:16901 note (Pub. L. 114–22, title V, § 501, May 29, 2015, 129 Stat. 258) | 34:10101 note |
+| 42:16901 note (Pub. L. 114–119, § 1(a), Feb. 8, 2016, 130 Stat. 15) | 34:10101 note |
 | 42:16902 | 34:20902 |
 | 42:16911 | 34:20911 |
 | 42:16912 | 34:20912 |
@@ -990,7 +990,7 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:16962 | 34:20962 |
 | 42:16971 | 34:20971 |
 | 42:16981 | 34:20981 |
-| 42:16981 note (Pub. L. 110–400, § 4(b), Oct. 13, 2008, 122 Stat. 4228) | 34:20981 note |
+| 42:16981 note (Pub. L. 110–400, § 4(b), Oct. 13, 2008, 122 Stat. 4228) | 34:20981 note |
 | 42:16982 | 34:20982 |
 | 42:16983 | 34:20983 |
 | 42:16984 | 34:20984 |
@@ -1002,7 +1002,7 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:16990 | 34:20990 |
 | 42:16991 | 34:20991 |
 | 42:17501 | 34:60501 |
-| 42:17501 note (Pub. L. 110–199, § 1, Apr. 9, 2008, 122 Stat. 657) | 34:10101 note |
+| 42:17501 note (Pub. L. 110–199, § 1, Apr. 9, 2008, 122 Stat. 657) | 34:10101 note |
 | 42:17501 note (Memorandum of President of the United States, Apr. 29, 2016, 81 F.R. 26993) | 34:60501 note |
 | 42:17502 | 34:60502 |
 | 42:17503 | 34:60503 |
@@ -1020,7 +1020,7 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 | 42:17554 | 34:60554 |
 | 42:17555 | omitted |
 | 42:17601 | 34:21101 |
-| 42:17601 note (Pub. L. 110–401, § 1(a), Oct. 13, 2008, 122 Stat. 4229) | 34:10101 note |
+| 42:17601 note (Pub. L. 110–401, § 1(a), Oct. 13, 2008, 122 Stat. 4229) | 34:10101 note |
 | 42:17611 | 34:21111 |
 | 42:17612 | 34:21112 |
 | 42:17613 | 34:21113 |
@@ -1092,11 +1092,11 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 
 **Support for Mental Health Providers**
 
-Pub. L. 115–113, § 3, Jan. 10, 2018, 131 Stat. 2276, provided that: “The Attorney General, in coordination with the Secretary of Health and Human Services, shall develop resources to educate mental health providers about the culture of Federal, State, tribal, and local law enforcement agencies and evidence-based therapies for mental health issues common to Federal, State, local, and tribal law enforcement officers.”
+Pub. L. 115–113, § 3, Jan. 10, 2018, 131 Stat. 2276, provided that: “The Attorney General, in coordination with the Secretary of Health and Human Services, shall develop resources to educate mental health providers about the culture of Federal, State, tribal, and local law enforcement agencies and evidence-based therapies for mental health issues common to Federal, State, local, and tribal law enforcement officers.”
 
 **Support for Officers**
 
-Pub. L. 115–113, § 4, Jan. 10, 2018, 131 Stat. 2277, provided that:
+Pub. L. 115–113, § 4, Jan. 10, 2018, 131 Stat. 2277, provided that:
 
 > “The Attorney General shall—
 
@@ -1160,7 +1160,7 @@ Donald J. Trump.
 
 **Executive Order No. 13929**
 
-Ex. Ord. No. 13929, June 16, 2020, 85 F.R. 37325, which related to law enforcement agency independent credentialing bodies, a Federal database concerning instances of excessive use of force related to law enforcement matters, policing of individuals who suffer from impaired mental health, homelessness, or addiction, and legislation to improve law enforcement practices and build community engagement, was revoked by Ex. Ord. No. 14074, § 22(b), May 25, 2022, 87 F.R. 32962, set out in a note preceding section 10101 of this title.
+Ex. Ord. No. 13929, June 16, 2020, 85 F.R. 37325, which related to law enforcement agency independent credentialing bodies, a Federal database concerning instances of excessive use of force related to law enforcement matters, policing of individuals who suffer from impaired mental health, homelessness, or addiction, and legislation to improve law enforcement practices and build community engagement, was revoked by Ex. Ord. No. 14074, § 22(b), May 25, 2022, 87 F.R. 32962, set out in a note preceding section 10101 of this title.
 
 **Ex. Ord. No. 14288. Strengthening and Unleashing America’s Law Enforcement To Pursue Criminals and Protect Innocent Citizens**
 
@@ -1278,7 +1278,7 @@ Donald J. Trump.
 
 **Ex. Ord. No. 13933. Protecting American Monuments, Memorials, and Statues and Combating Recent Criminal Violence**
 
-Ex. Ord. No. 13933, June 26, 2020, 85 F.R. 40081, revoked by Ex. Ord. No. 14029, § 1, May 14, 2021, 86 F.R. 27025, reinstated by Ex. Ord. No. 14189, § 4, Jan. 29, 2025, 90 F.R. 8850, provided:
+Ex. Ord. No. 13933, June 26, 2020, 85 F.R. 40081, revoked by Ex. Ord. No. 14029, § 1, May 14, 2021, 86 F.R. 27025, reinstated by Ex. Ord. No. 14189, § 4, Jan. 29, 2025, 90 F.R. 8850, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 

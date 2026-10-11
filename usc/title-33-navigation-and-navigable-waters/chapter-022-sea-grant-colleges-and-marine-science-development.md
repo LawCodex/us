@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—MARINE RESOURCES AND ENGINEERING DEVELOPMENT
 
-### § 1101. Congressional declaration of policy and objectives
+### § 1101. Congressional declaration of policy and objectives
 
 **(a)** It is hereby declared to be the policy of the United States to develop, encourage, and maintain a coordinated, comprehensive, and long-range national program in marine science for the benefit of mankind to assist in protection of health and property, enhancement of commerce, transportation, and national security, rehabilitation of our commercial fisheries, and increased utilization of these and other resources.
 
@@ -39,27 +39,27 @@ retrieved: 2026-10-11
 
 **(8)** The cooperation by the United States with other nations and groups of nations and international organizations in marine science activities when such cooperation is in the national interest.
 
-(Pub. L. 89–454, title I, § 2, June 17, 1966, 80 Stat. 203.)
+(Pub. L. 89–454, title I, § 2, June 17, 1966, 80 Stat. 203.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 116–289, § 1, Jan. 5, 2021, 134 Stat. 4886, provided that: “This Act [enacting subchapter III of this chapter] may be cited as the ‘Young Fishermen’s Development Act’.”
+Pub. L. 116–289, § 1, Jan. 5, 2021, 134 Stat. 4886, provided that: “This Act [enacting subchapter III of this chapter] may be cited as the ‘Young Fishermen’s Development Act’.”
 
 **Short Title**
 
-Section 1 of title I of Pub. L. 89–454, as renumbered and amended by Pub. L. 89–688, § 2(a), Oct. 15, 1966, 80 Stat. 1001, provided that: “This title [enacting this subchapter] may be cited as the ‘Marine Resources and Engineering Development Act of 1966’.”
+Section 1 of title I of Pub. L. 89–454, as renumbered and amended by Pub. L. 89–688, § 2(a), Oct. 15, 1966, 80 Stat. 1001, provided that: “This title [enacting this subchapter] may be cited as the ‘Marine Resources and Engineering Development Act of 1966’.”
 
-### § 1102. Omitted
+### § 1102. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 89–454, title I, § 3, June 17, 1966, 80 Stat. 204; Pub. L. 89–670, § 8(j), Oct. 15, 1966, 80 Stat. 943; Pub. L. 90–242, § 2, Jan. 2, 1968, 81 Stat. 780; Pub. L. 91–15, § 1, May 23, 1969, 83 Stat. 10; Pub. L. 91–414, Sept. 25, 1970, 84 Stat. 865, established the National Council on Marine Resources and Engineering Development. The provisions of this chapter with respect to the Council expired on June 30, 1971, and the Council terminated on Apr. 30, 1971, for lack of funds.
+Section, Pub. L. 89–454, title I, § 3, June 17, 1966, 80 Stat. 204; Pub. L. 89–670, § 8(j), Oct. 15, 1966, 80 Stat. 943; Pub. L. 90–242, § 2, Jan. 2, 1968, 81 Stat. 780; Pub. L. 91–15, § 1, May 23, 1969, 83 Stat. 10; Pub. L. 91–414, Sept. 25, 1970, 84 Stat. 865, established the National Council on Marine Resources and Engineering Development. The provisions of this chapter with respect to the Council expired on June 30, 1971, and the Council terminated on Apr. 30, 1971, for lack of funds.
 
-### § 1103. Executive responsibilities; utilization of staff, interagency, and non-Government advisory arrangements; consultation with agencies; solicitation of views of non-Federal agencies
+### § 1103. Executive responsibilities; utilization of staff, interagency, and non-Government advisory arrangements; consultation with agencies; solicitation of views of non-Federal agencies
 
 **(a)** In conformity with the provisions of section 1101 of this title, it shall be the duty of the President with the advice and assistance of the Council to—
 
@@ -79,13 +79,13 @@ Section, Pub. L. 89–454, title I, § 3, June 17, 1966, 80 Stat. 204; Pub. L.
 
 **(b)** In the planning and conduct of a coordinated Federal program the President and the Council shall utilize such staff, interagency, and non-Government advisory arrangements as they may find necessary and appropriate and shall consult with departments and agencies concerned with marine science activities and solicit the views of non-Federal organizations and individuals with capabilities in marine sciences.
 
-(Pub. L. 89–454, title I, § 4, June 17, 1966, 80 Stat. 205; Pub. L. 89–688, § 2(b), Oct. 15, 1966, 80 Stat. 1001.)
+(Pub. L. 89–454, title I, § 4, June 17, 1966, 80 Stat. 205; Pub. L. 89–688, § 2(b), Oct. 15, 1966, 80 Stat. 1001.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (a)(7), is Pub. L. 89–454, June 17, 1966, 80 Stat. 203, which, at the time this section was enacted, consisted only of sections 1 to 9, which are classified generally to this subchapter. Pub. L. 89–688, § 2, Oct. 15, 1966, 80 Stat. 1001, redesignated the Act as title I and made conforming amendments, substituting references to title I for previous references to the Act as a whole, but not in subsec. (a)(7) of this section. Pub. L. 89–454 was amended by Pub. L. 89–688 by adding title II, which is classified generally to subchapter II of this chapter, and later by Pub. L. 92–583 by adding title III, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a)(7), is Pub. L. 89–454, June 17, 1966, 80 Stat. 203, which, at the time this section was enacted, consisted only of sections 1 to 9, which are classified generally to this subchapter. Pub. L. 89–688, § 2, Oct. 15, 1966, 80 Stat. 1001, redesignated the Act as title I and made conforming amendments, substituting references to title I for previous references to the Act as a whole, but not in subsec. (a)(7) of this section. Pub. L. 89–454 was amended by Pub. L. 89–688 by adding title II, which is classified generally to subchapter II of this chapter, and later by Pub. L. 92–583 by adding title III, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
@@ -97,39 +97,39 @@ This Act, referred to in subsec. (a)(7), is Pub. L. 89–454, June 17, 1966, 80 
 
 National Council on Marine Resources and Engineering, established under section 1102 of this title, terminated Apr. 30, 1971, for lack of funds. See Codification note set out under section 1102 of this title.
 
-### §§ 1104, 1105. Omitted
+### §§ 1104, 1105. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1104, Pub. L. 89–454, title I, § 5, June 17, 1966, 80 Stat. 205; Pub. L. 89–688, § 2(b), Oct. 15, 1966, 80 Stat. 1001; Pub. L. 90–242, § 1, Jan. 2, 1968, 81 Stat. 780, established the Commission on Marine Science, Engineering, and Resources. For expiration of the Commission, see Codification note set out under section 1102 of this title.
+Section 1104, Pub. L. 89–454, title I, § 5, June 17, 1966, 80 Stat. 205; Pub. L. 89–688, § 2(b), Oct. 15, 1966, 80 Stat. 1001; Pub. L. 90–242, § 1, Jan. 2, 1968, 81 Stat. 780, established the Commission on Marine Science, Engineering, and Resources. For expiration of the Commission, see Codification note set out under section 1102 of this title.
 
-Section 1105, Pub. L. 89–454, title I, § 6, June 17, 1966, 80 Stat. 207, provided for the National Council on Marine Resources and Engineering Development to coordinate a program of international cooperation with respect to work done pursuant to this chapter. For expiration of the Council, see Codification note set out under section 1102 of this title.
+Section 1105, Pub. L. 89–454, title I, § 6, June 17, 1966, 80 Stat. 207, provided for the National Council on Marine Resources and Engineering Development to coordinate a program of international cooperation with respect to work done pursuant to this chapter. For expiration of the Council, see Codification note set out under section 1102 of this title.
 
-### § 1106. Reports to Congress
+### § 1106. Reports to Congress
 
 **(a)** The President shall transmit to the Congress biennially in January a report, which shall include (1) a comprehensive description of the activities and the accomplishments of all agencies and departments of the United States in the field of marine science during the preceding fiscal year, and (2) an evaluation of such activities and accomplishments in terms of the objectives set forth pursuant to this Act.
 
 **(b)** Reports made under this section shall contain such recommendations for legislation as the President may consider necessary or desirable for the attainment of the objectives of this Act, and shall contain an estimate of funding requirements of each agency and department of the United States for marine science activities during the succeeding fiscal year.
 
-(Pub. L. 89–454, title I, § 7, June 17, 1966, 80 Stat. 207; Pub. L. 99–386, title II, § 203(a), Aug. 22, 1986, 100 Stat. 823.)
+(Pub. L. 89–454, title I, § 7, June 17, 1966, 80 Stat. 207; Pub. L. 99–386, title II, § 203(a), Aug. 22, 1986, 100 Stat. 823.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is Pub. L. 89–454, June 17, 1966, 80 Stat. 203, which, at the time this section was enacted, consisted only of sections 1 to 9, which are classified generally to this subchapter. Pub. L. 89–688, § 2, Oct. 15, 1966, 80 Stat. 1001, redesignated the Act as title I and made conforming amendments, substituting references to title I for previous references to the Act as a whole, but not in this section. Pub. L. 89–454 was amended by Pub. L. 89–688 by adding title II, which is classified generally to subchapter II of this chapter, and later by Pub. L. 92–583 by adding title III, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 89–454, June 17, 1966, 80 Stat. 203, which, at the time this section was enacted, consisted only of sections 1 to 9, which are classified generally to this subchapter. Pub. L. 89–688, § 2, Oct. 15, 1966, 80 Stat. 1001, redesignated the Act as title I and made conforming amendments, substituting references to title I for previous references to the Act as a whole, but not in this section. Pub. L. 89–454 was amended by Pub. L. 89–688 by adding title II, which is classified generally to subchapter II of this chapter, and later by Pub. L. 92–583 by adding title III, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
 1986—Subsec. (a). Pub. L. 99–386 substituted “biennially in January” for “in January of each year”.
 
-### § 1107. Definitions
+### § 1107. Definitions
 
 For the purposes of this subchapter, the term “marine science” shall be deemed to apply to oceanographic and scientific endeavors and disciplines, and engineering and technology in and with relation to the marine environment; and the term “marine environment” shall be deemed to include (a) the oceans, (b) the Continental Shelf of the United States, (c) the Great Lakes, (d) seabed and subsoil of the submarine areas adjacent to the coasts of the United States to the depth of two hundred meters, or beyond that limit, to where the depths of the superjacent waters admit of the exploitation of the natural resources of such areas, (e) the seabed and subsoil of similar submarine areas adjacent to the coasts of islands which comprise United States territory, and (f) the resources thereof.
 
-(Pub. L. 89–454, title I, § 8, June 17, 1966, 80 Stat. 208; Pub. L. 89–688, § 2(b), Oct. 15, 1966, 80 Stat. 1001.)
+(Pub. L. 89–454, title I, § 8, June 17, 1966, 80 Stat. 208; Pub. L. 89–688, § 2(b), Oct. 15, 1966, 80 Stat. 1001.)
 
 **Editorial Notes**
 
@@ -137,11 +137,11 @@ For the purposes of this subchapter, the term “marine science” shall be deem
 
 1966—Pub. L. 89–688 substituted “this title” for “this Act”, which, for purposes of codification, has been changed to “this subchapter”.
 
-### § 1108. Authorization of appropriations
+### § 1108. Authorization of appropriations
 
 There are hereby authorized to be appropriated such sums as may be necessary to carry out this subchapter, but sums appropriated for any one fiscal year shall not exceed $1,200,000.
 
-(Pub. L. 89–454, title I, § 9, June 17, 1966, 80 Stat. 208; Pub. L. 89–688, § 2(b), Oct. 15, 1966, 80 Stat. 1001; Pub. L. 91–15, § 2, May 23, 1969, 83 Stat. 10.)
+(Pub. L. 89–454, title I, § 9, June 17, 1966, 80 Stat. 208; Pub. L. 89–688, § 2(b), Oct. 15, 1966, 80 Stat. 1001; Pub. L. 91–15, § 2, May 23, 1969, 83 Stat. 10.)
 
 **Editorial Notes**
 
@@ -153,7 +153,7 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 ## SUBCHAPTER II—NATIONAL SEA GRANT COLLEGE PROGRAM
 
-### § 1121. Congressional declaration of policy
+### § 1121. Congressional declaration of policy
 
 **(a) Findings** The Congress finds and declares the following:
 
@@ -181,7 +181,7 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 **(6)** The National Oceanic and Atmospheric Administration, through the national sea grant college program, offers the most suitable locus and means for such commitment and engagement through the promotion of activities that will result in greater such understanding, assessment, development, management, management,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 utilization, and conservation of ocean, coastal, and Great Lakes resources. The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, management, and operation of programs and projects by sea grant colleges, sea grant institutes, and other institutions, including strong collaborations between Administration scientists and research and outreach personnel at academic institutions.
 
@@ -193,39 +193,39 @@ The objective of this subchapter is to increase the understanding, assessment, d
 
 It is the purpose of the Congress to achieve the objective of this subchapter by extending and strengthening the national sea grant program, initially established in 1966, to promote integrated research, education, training, and extension services and activities in fields related to ocean, coastal, and Great Lakes resources.
 
-(Pub. L. 89–454, title II, § 202, as added Pub. L. 89–688, § 1, Oct. 15, 1966, 80 Stat. 998; amended Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1961; Pub. L. 95–428, § 2(b), Oct. 7, 1978, 92 Stat. 999; Pub. L. 100–220, title III, §§ 3103, 3104(b)(1)(A), (B), Dec. 29, 1987, 101 Stat. 1469, 1470; Pub. L. 105–160, § 3, Mar. 6, 1998, 112 Stat. 21; Pub. L. 107–299, § 2, Nov. 26, 2002, 116 Stat. 2345; Pub. L. 110–394, § 3, Oct. 13, 2008, 122 Stat. 4205.)
+(Pub. L. 89–454, title II, § 202, as added Pub. L. 89–688, § 1, Oct. 15, 1966, 80 Stat. 998; amended Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1961; Pub. L. 95–428, § 2(b), Oct. 7, 1978, 92 Stat. 999; Pub. L. 100–220, title III, §§ 3103, 3104(b)(1)(A), (B), Dec. 29, 1987, 101 Stat. 1469, 1470; Pub. L. 105–160, § 3, Mar. 6, 1998, 112 Stat. 21; Pub. L. 107–299, § 2, Nov. 26, 2002, 116 Stat. 2345; Pub. L. 110–394, § 3, Oct. 13, 2008, 122 Stat. 4205.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–394, § 3(c), inserted “management,” after “development,” wherever appearing.
+2008—Subsec. (a). Pub. L. 110–394, § 3(c), inserted “management,” after “development,” wherever appearing.
 
-Subsec. (a)(1)(D), (E). Pub. L. 110–394, § 3(a)(1), added subpars. (D) and (E) and struck out former subpars. (D) and (E) which read as follows:
+Subsec. (a)(1)(D), (E). Pub. L. 110–394, § 3(a)(1), added subpars. (D) and (E) and struck out former subpars. (D) and (E) which read as follows:
 
 “(D) encourage the development of forecast and analysis systems for coastal hazards;
 
 “(E) understand global environmental processes; and”.
 
-Subsec. (a)(2). Pub. L. 110–394, § 3(a)(2), substituted “program of integrated research, education, extension,” for “program of research, education,”.
+Subsec. (a)(2). Pub. L. 110–394, § 3(a)(2), substituted “program of integrated research, education, extension,” for “program of research, education,”.
 
-Subsec. (a)(6). Pub. L. 110–394, § 3(a)(3), added par. (6) and struck out former par. (6) which read as follows: “The National Oceanic and Atmospheric Administration, through the national sea grant college program, offers the most suitable locus and means for such commitment and involvement through the promotion of activities that will result in greater such understanding, assessment, development, utilization, and conservation. The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant institutes, and other institutions, including strong collaborations between Administration scientists and scientists at academic institutions.”
+Subsec. (a)(6). Pub. L. 110–394, § 3(a)(3), added par. (6) and struck out former par. (6) which read as follows: “The National Oceanic and Atmospheric Administration, through the national sea grant college program, offers the most suitable locus and means for such commitment and involvement through the promotion of activities that will result in greater such understanding, assessment, development, utilization, and conservation. The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant institutes, and other institutions, including strong collaborations between Administration scientists and scientists at academic institutions.”
 
-Subsec. (b). Pub. L. 110–394, § 3(c), inserted “management,” after “development,”.
+Subsec. (b). Pub. L. 110–394, § 3(c), inserted “management,” after “development,”.
 
-Subsec. (c). Pub. L. 110–394, § 3(b), substituted “to promote integrated research, education, training, and extension services and activities” for “to promote research, education, training, and advisory service activities”.
+Subsec. (c). Pub. L. 110–394, § 3(b), substituted “to promote integrated research, education, training, and extension services and activities” for “to promote research, education, training, and advisory service activities”.
 
-2002—Subsec. (a)(6). Pub. L. 107–299 inserted “, including strong collaborations between Administration scientists and scientists at academic institutions” before period at end.
+2002—Subsec. (a)(6). Pub. L. 107–299 inserted “, including strong collaborations between Administration scientists and scientists at academic institutions” before period at end.
 
-1998—Subsec. (a)(1)(D) to (F). Pub. L. 105–160, § 3(a), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+1998—Subsec. (a)(1)(D) to (F). Pub. L. 105–160, § 3(a), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-Subsec. (a)(6). Pub. L. 105–160, § 3(b), substituted “The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant institutes, and other institutions.” for “Continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant regional consortia, institutions of higher education, institutes, laboratories, and other appropriate public and private entities is the most cost-effective way to promote such activities.”
+Subsec. (a)(6). Pub. L. 105–160, § 3(b), substituted “The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant institutes, and other institutions.” for “Continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant regional consortia, institutions of higher education, institutes, laboratories, and other appropriate public and private entities is the most cost-effective way to promote such activities.”
 
-1987—Subsec. (a). Pub. L. 100–220, §§ 3103(1), 3104(b)(1)(A), added pars. (1) to (3), redesignated former pars. (1) to (3) as (4) to (6), respectively, and substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in pars. (4) and (5).
+1987—Subsec. (a). Pub. L. 100–220, §§ 3103(1), 3104(b)(1)(A), added pars. (1) to (3), redesignated former pars. (1) to (3) as (4) to (6), respectively, and substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in pars. (4) and (5).
 
-Subsec. (b). Pub. L. 100–220, § 3103(2), substituted “ocean, coastal, and Great Lakes resources by providing assistance to promote a strong educational base, responsive research and training activities, broad and prompt dissemination of knowledge and techniques, and multidisciplinary approaches to environmental problems.” for “ocean and coastal resources by providing assistance to promote a strong educational base, responsive research and training activities, and broad and prompt dissemination of knowledge and techniques.”
+Subsec. (b). Pub. L. 100–220, § 3103(2), substituted “ocean, coastal, and Great Lakes resources by providing assistance to promote a strong educational base, responsive research and training activities, broad and prompt dissemination of knowledge and techniques, and multidisciplinary approaches to environmental problems.” for “ocean and coastal resources by providing assistance to promote a strong educational base, responsive research and training activities, and broad and prompt dissemination of knowledge and techniques.”
 
-Subsec. (c). Pub. L. 100–220, § 3104(b)(1)(B), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
+Subsec. (c). Pub. L. 100–220, § 3104(b)(1)(B), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
 
 1978—Subsec. (a)(3). Pub. L. 95–428 substituted “national sea grant college program” for “national sea grant program”.
 
@@ -235,53 +235,53 @@ Subsec. (c). Pub. L. 100–220, § 3104(b)(1)(B), substituted “ocean, coasta
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–221, § 1, Dec. 18, 2020, 134 Stat. 1057, provided that: “This Act [amending sections 1123, 1126, 1127, 1128, and 1131 of this title, repealing section 857–20 of this title, and enacting provisions set out as notes under sections 1123 and 1127 of this title] may be cited as the ‘National Sea Grant College Program Amendments Act of 2020’.”
+Pub. L. 116–221, § 1, Dec. 18, 2020, 134 Stat. 1057, provided that: “This Act [amending sections 1123, 1126, 1127, 1128, and 1131 of this title, repealing section 857–20 of this title, and enacting provisions set out as notes under sections 1123 and 1127 of this title] may be cited as the ‘National Sea Grant College Program Amendments Act of 2020’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–394, § 1, Oct. 13, 2008, 122 Stat. 4205, provided that: “This Act [amending this section and sections 1122 to 1124, 1126 to 1128, and 1131 of this title and enacting provisions set out as a note under section 1128 of this title] may be cited as the ‘National Sea Grant College Program Amendments Act of 2008’.”
+Pub. L. 110–394, § 1, Oct. 13, 2008, 122 Stat. 4205, provided that: “This Act [amending this section and sections 1122 to 1124, 1126 to 1128, and 1131 of this title and enacting provisions set out as a note under section 1128 of this title] may be cited as the ‘National Sea Grant College Program Amendments Act of 2008’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–299, § 1, Nov. 26, 2002, 116 Stat. 2345, provided that: “This Act [enacting section 857–20 of this title, amending this section and sections 1123, 1124, 1126 to 1128, and 1131 of this title, and enacting provisions set out as a note under section 1123 of this title] may be cited as the ‘National Sea Grant College Program Act Amendments of 2002’.”
+Pub. L. 107–299, § 1, Nov. 26, 2002, 116 Stat. 2345, provided that: “This Act [enacting section 857–20 of this title, amending this section and sections 1123, 1124, 1126 to 1128, and 1131 of this title, and enacting provisions set out as a note under section 1123 of this title] may be cited as the ‘National Sea Grant College Program Act Amendments of 2002’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–160, § 1, Mar. 6, 1998, 112 Stat. 21, provided that: “This Act [enacting section 1541 of Title 15, Commerce and Trade, amending this section and sections 1122, 1123, 1126 to 1128, and 1131 of this title, repealing section 1124a of this title, and enacting provisions set out as notes under sections 1123 and 1131 of this title] may be cited as the ‘National Sea Grant College Program Reauthorization Act of 1998’.”
+Pub. L. 105–160, § 1, Mar. 6, 1998, 112 Stat. 21, provided that: “This Act [enacting section 1541 of Title 15, Commerce and Trade, amending this section and sections 1122, 1123, 1126 to 1128, and 1131 of this title, repealing section 1124a of this title, and enacting provisions set out as notes under sections 1123 and 1131 of this title] may be cited as the ‘National Sea Grant College Program Reauthorization Act of 1998’.”
 
 **Short Title of 1991 Amendment**
 
-Pub. L. 102–186, § 1, Dec. 4, 1991, 105 Stat. 1282, provided that: “This Act [amending sections 1122 to 1124, 1127, 1128, and 1131 of this title and section 4741 of Title 16, Conservation, and repealing sections 1125 and 1130 of this title] may be cited as the ‘National Sea Grant College Program Authorization Act of 1991’.”
+Pub. L. 102–186, § 1, Dec. 4, 1991, 105 Stat. 1282, provided that: “This Act [amending sections 1122 to 1124, 1127, 1128, and 1131 of this title and section 4741 of Title 16, Conservation, and repealing sections 1125 and 1130 of this title] may be cited as the ‘National Sea Grant College Program Authorization Act of 1991’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–220, title III, § 3001, Dec. 29, 1987, 101 Stat. 1469, provided that: “This title [amending this section and sections 1122 to 1131 of this title and enacting provisions set out as notes under this section and sections 883a and 1125 of this title] may be cited as the ‘Marine Science, Technology, and Policy Development Act of 1987’.”
+Pub. L. 100–220, title III, § 3001, Dec. 29, 1987, 101 Stat. 1469, provided that: “This title [amending this section and sections 1122 to 1131 of this title and enacting provisions set out as notes under this section and sections 883a and 1125 of this title] may be cited as the ‘Marine Science, Technology, and Policy Development Act of 1987’.”
 
-Section 3101 of subtitle A (§§ 3101–3111) of title III of Pub. L. 100–220 provided that: “This subtitle [amending this section and sections 1122 to 1131 of this title and enacting provisions set out as a note under section 1125 of this title] may be cited as the ‘National Sea Grant College Program Authorization Act of 1987’.”
+Section 3101 of subtitle A (§§ 3101–3111) of title III of Pub. L. 100–220 provided that: “This subtitle [amending this section and sections 1122 to 1131 of this title and enacting provisions set out as a note under section 1125 of this title] may be cited as the ‘National Sea Grant College Program Authorization Act of 1987’.”
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–461, § 1, Oct. 8, 1976, 90 Stat. 1961, provided: “That this Act [enacting sections 1124a, 1125, 1126, 1127, 1128, 1129, 1130, and 1131 of this title and amending this section, sections 1122, 1123, and 1124 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, and provisions set out as notes under this section, section 1511 of Title 15, Commerce and Trade, and in the Appendix to Title 5, Government Organization and Employees] may be cited as the ‘Sea Grant Program Improvement Act of 1976’.”
+Pub. L. 94–461, § 1, Oct. 8, 1976, 90 Stat. 1961, provided: “That this Act [enacting sections 1124a, 1125, 1126, 1127, 1128, 1129, 1130, and 1131 of this title and amending this section, sections 1122, 1123, and 1124 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, and provisions set out as notes under this section, section 1511 of Title 15, Commerce and Trade, and in the Appendix to Title 5, Government Organization and Employees] may be cited as the ‘Sea Grant Program Improvement Act of 1976’.”
 
 **Short Title**
 
-Pub. L. 89–454, title II, § 201, as added by Pub. L. 89–688, § 1, Oct. 15, 1966, 80 Stat. 998, and amended by Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1961; Pub. L. 95–428, § 2(a), Oct. 7, 1978, 92 Stat. 999, provided that: “This title [enacting this subchapter] may be cited as the ‘National Sea Grant College Program Act’.”
+Pub. L. 89–454, title II, § 201, as added by Pub. L. 89–688, § 1, Oct. 15, 1966, 80 Stat. 998, and amended by Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1961; Pub. L. 95–428, § 2(a), Oct. 7, 1978, 92 Stat. 999, provided that: “This title [enacting this subchapter] may be cited as the ‘National Sea Grant College Program Act’.”
 
-### § 1122. Definitions
+### § 1122. Definitions
 
 As used in this subchapter—
 
 **(1)** The term “Administration” means the National Oceanic and Atmospheric Administration.
 
-**(2)** The term “Director” means the Director of the national sea grant college program, appointed pursuant to section 1123(b) 1
+**(2)** The term “Director” means the Director of the national sea grant college program, appointed pursuant to section 1123(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-**(3)** the 2
+**(3)** the 2
 
-<sup>2</sup>  So in original. Probably should be capitalized.
+<sup>2</sup> So in original. Probably should be capitalized.
 
 term “director of a sea grant college” means a person designated by his or her institution to direct a sea grant college or sea grant institute.
 
@@ -333,71 +333,71 @@ term “director of a sea grant college” means a person designated by his or h
 
 **(16)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Mariana Islands, or any other territory or possession of the United States.
 
-(Pub. L. 89–454, title II, § 203, as added Pub. L. 89–688, § 1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, § 1(1), Aug. 11, 1968, 82 Stat. 704; Pub. L. 91–349, July 23, 1970, 84 Stat. 448; Pub. L. 93–73, § 1(1), (5), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1962; Pub. L. 95–428, § 2(b), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, § 1(1), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, § 3104(a), (b)(1)(C), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 102–186, § 5(b)(1), Dec. 4, 1991, 105 Stat. 1284; Pub. L. 102–251, title III, § 307(a), Mar. 9, 1992, 106 Stat. 66; Pub. L. 105–160, § 4(a), Mar. 6, 1998, 112 Stat. 21; Pub. L. 105–174, title III, § 10003, May 1, 1998, 112 Stat. 99; Pub. L. 110–394, §§ 4, 9(a)(4)(B), Oct. 13, 2008, 122 Stat. 4206, 4208.)
+(Pub. L. 89–454, title II, § 203, as added Pub. L. 89–688, § 1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, § 1(1), Aug. 11, 1968, 82 Stat. 704; Pub. L. 91–349, July 23, 1970, 84 Stat. 448; Pub. L. 93–73, § 1(1), (5), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1962; Pub. L. 95–428, § 2(b), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, § 1(1), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, § 3104(a), (b)(1)(C), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 102–186, § 5(b)(1), Dec. 4, 1991, 105 Stat. 1284; Pub. L. 102–251, title III, § 307(a), Mar. 9, 1992, 106 Stat. 66; Pub. L. 105–160, § 4(a), Mar. 6, 1998, 112 Stat. 21; Pub. L. 105–174, title III, § 10003, May 1, 1998, 112 Stat. 99; Pub. L. 110–394, §§ 4, 9(a)(4)(B), Oct. 13, 2008, 122 Stat. 4206, 4208.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1123 of this title, referred to in par. (2), was amended generally by Pub. L. 105–160, § 5, Mar. 6, 1998, 112 Stat. 22, and, as so amended, provisions relating to appointment of the Director of the National Sea Grant College Program, which formerly appeared in subsec. (b), are contained in subsec. (d).
+Section 1123 of this title, referred to in par. (2), was amended generally by Pub. L. 105–160, § 5, Mar. 6, 1998, 112 Stat. 22, and, as so amended, provisions relating to appointment of the Director of the National Sea Grant College Program, which formerly appeared in subsec. (b), are contained in subsec. (d).
 
 **Amendments**
 
-2008—Par. (4). Pub. L. 110–394, § 4(a)(1), inserted “management,” after “development,”.
+2008—Par. (4). Pub. L. 110–394, § 4(a)(1), inserted “management,” after “development,”.
 
-Par. (6)(F), (G). Pub. L. 110–394, § 4(b), repealed section 307(a) of Pub. L. 102–251. See 1992 Amendment note below.
+Par. (6)(F), (G). Pub. L. 110–394, § 4(b), repealed section 307(a) of Pub. L. 102–251. See 1992 Amendment note below.
 
-Par. (9). Pub. L. 110–394, § 9(a)(4)(B), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘panel’ means the sea grant review panel established under section 1128 of this title.”
+Par. (9). Pub. L. 110–394, § 9(a)(4)(B), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘panel’ means the sea grant review panel established under section 1128 of this title.”
 
-Par. (11). Pub. L. 110–394, § 4(a)(2), substituted “extension services” for “advisory services”.
+Par. (11). Pub. L. 110–394, § 4(a)(2), substituted “extension services” for “advisory services”.
 
-Pars. (12), (13). Pub. L. 110–394, § 4(a)(3), made technical amendment to reference in original act which appears in text as reference to “section 1126 of this title”, requiring no change in text.
+Pars. (12), (13). Pub. L. 110–394, § 4(a)(3), made technical amendment to reference in original act which appears in text as reference to “section 1126 of this title”, requiring no change in text.
 
-1998—Par. (3). Pub. L. 105–160, § 4(a)(1), substituted “his or her” for “their university or” and “college or sea grant institute” for “college, programs, or regional consortium”.
+1998—Par. (3). Pub. L. 105–160, § 4(a)(1), substituted “his or her” for “their university or” and “college or sea grant institute” for “college, programs, or regional consortium”.
 
-Par. (4). Pub. L. 105–160, § 4(a)(2), added par. (4) and struck out former par. (4) which read as follows: “The term ‘field related to ocean, coastal, and Great Lakes resources’ means any discipline or field (including marine science (and the physical, natural, and biological sciences, and engineering, included therein), marine technology, education, marine affairs and resource management, economics, sociology, communications, planning, law, international affairs, and public administration) which is concerned with or likely to improve the understanding, assessment, development, utilization, or conservation of ocean, coastal, and Great Lakes resources.”
+Par. (4). Pub. L. 105–160, § 4(a)(2), added par. (4) and struck out former par. (4) which read as follows: “The term ‘field related to ocean, coastal, and Great Lakes resources’ means any discipline or field (including marine science (and the physical, natural, and biological sciences, and engineering, included therein), marine technology, education, marine affairs and resource management, economics, sociology, communications, planning, law, international affairs, and public administration) which is concerned with or likely to improve the understanding, assessment, development, utilization, or conservation of ocean, coastal, and Great Lakes resources.”
 
-Par. (5). Pub. L. 105–174, § 10003(1), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “The term ‘Great Lakes’ includes Lake Champlain.”
+Par. (5). Pub. L. 105–174, § 10003(1), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “The term ‘Great Lakes’ includes Lake Champlain.”
 
-Pub. L. 105–160, § 4(a)(3), added par. (5). Former par. (5) redesignated (7).
+Pub. L. 105–160, § 4(a)(3), added par. (5). Former par. (5) redesignated (7).
 
-Par. (6). Pub. L. 105–174, § 10003(1), redesignated par. (7) as (6). Former par. (6) redesignated (5).
+Par. (6). Pub. L. 105–174, § 10003(1), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
-Pub. L. 105–160, § 4(a)(3), added par. (6). Former par. (6) redesignated (8).
+Pub. L. 105–160, § 4(a)(3), added par. (6). Former par. (6) redesignated (8).
 
-Par. (7). Pub. L. 105–174, § 10003, redesignated par. (8) as (7), added subpar. (C), and redesignated former subpars. (C) to (F) as (D) to (G), respectively. Former par. (7) redesignated (6).
+Par. (7). Pub. L. 105–174, § 10003, redesignated par. (8) as (7), added subpar. (C), and redesignated former subpars. (C) to (F) as (D) to (G), respectively. Former par. (7) redesignated (6).
 
-Pub. L. 105–160, § 4(a)(3), redesignated par. (5) as (7). Former par. (7) redesignated (9).
+Pub. L. 105–160, § 4(a)(3), redesignated par. (5) as (7). Former par. (7) redesignated (9).
 
-Pars. (8) to (10). Pub. L. 105–174, § 10003(1), redesignated pars. (9) to (11) as (8) to (10), respectively. Former par. (8) redesignated (7).
+Pars. (8) to (10). Pub. L. 105–174, § 10003(1), redesignated pars. (9) to (11) as (8) to (10), respectively. Former par. (8) redesignated (7).
 
-Pub. L. 105–160, § 4(a)(3), redesignated pars. (6) to (8) as (8) to (10), respectively. Former pars. (9) and (10) redesignated (11) and (12), respectively.
+Pub. L. 105–160, § 4(a)(3), redesignated pars. (6) to (8) as (8) to (10), respectively. Former pars. (9) and (10) redesignated (11) and (12), respectively.
 
-Par. (11). Pub. L. 105–174, § 10003(1), redesignated par. (12) as (11). Former par. (11) redesignated (10).
+Par. (11). Pub. L. 105–174, § 10003(1), redesignated par. (12) as (11). Former par. (11) redesignated (10).
 
-Pub. L. 105–160, § 4(a)(3), (4), redesignated par. (9) as (11) and substituted “institute or other institution” for “regional consortium, institution of higher education, institute, or laboratory”. Former par. (11) redesignated (13).
+Pub. L. 105–160, § 4(a)(3), (4), redesignated par. (9) as (11) and substituted “institute or other institution” for “regional consortium, institution of higher education, institute, or laboratory”. Former par. (11) redesignated (13).
 
-Pars. (12) to (17). Pub. L. 105–174, § 10003(1), redesignated pars. (13) to (17) as (12) to (16), respectively. Former par. (12) redesignated (11).
+Pars. (12) to (17). Pub. L. 105–174, § 10003(1), redesignated pars. (13) to (17) as (12) to (16), respectively. Former par. (12) redesignated (11).
 
-Pub. L. 105–160, § 4(a)(5), added pars. (12) to (17) and struck out former pars. (12) to (17) which defined “sea grant college”, “sea grant program”, “sea grant regional consortium”, “Secretary”, “State”, and “Under Secretary”, respectively.
+Pub. L. 105–160, § 4(a)(5), added pars. (12) to (17) and struck out former pars. (12) to (17) which defined “sea grant college”, “sea grant program”, “sea grant regional consortium”, “Secretary”, “State”, and “Under Secretary”, respectively.
 
-Pub. L. 105–160, § 4(a)(3), redesignated pars. (10) to (15) as (12) to (17), respectively.
+Pub. L. 105–160, § 4(a)(3), redesignated pars. (10) to (15) as (12) to (17), respectively.
 
-1992—Par. (6)(F), (G). Pub. L. 102–251, § 307(a), which directed addition of subpar. (F) and redesignation of former subpar. (F) as (G), was repealed by section 4(b) of Pub. L. 110–394. See Effective Date of 1992 Amendment note below.
+1992—Par. (6)(F), (G). Pub. L. 102–251, § 307(a), which directed addition of subpar. (F) and redesignation of former subpar. (F) as (G), was repealed by section 4(b) of Pub. L. 110–394. See Effective Date of 1992 Amendment note below.
 
 1991—Par. (4). Pub. L. 102–186 inserted “marine affairs and resource management,” after “education,”.
 
-1987—Pars. (2), (3). Pub. L. 100–220, § 3104(a)(1), (2), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2) which read as follows: “The term ‘Administrator’ means the Administrator of the National Oceanic and Atmospheric Administration.”
+1987—Pars. (2), (3). Pub. L. 100–220, § 3104(a)(1), (2), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2) which read as follows: “The term ‘Administrator’ means the Administrator of the National Oceanic and Atmospheric Administration.”
 
-Par. (4). Pub. L. 100–220, § 3104(b)(1)(C), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in two places.
+Par. (4). Pub. L. 100–220, § 3104(b)(1)(C), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in two places.
 
-Par. (6). Pub. L. 100–220, § 3104(a)(3), added par. (6) and struck out former par. (6) which read as follows: “The term ‘marine environment’ means the coastal zone, as defined in section 1453(1) of title 16; the seabed, subsoil, and waters of the Great Lakes and the territorial sea of the United States; the waters of any zone over which the United States asserts exclusive fishery management authority; the waters of the high seas; and the seabed and subsoil of and beyond the outer Continental Shelf.”
+Par. (6). Pub. L. 100–220, § 3104(a)(3), added par. (6) and struck out former par. (6) which read as follows: “The term ‘marine environment’ means the coastal zone, as defined in section 1453(1) of title 16; the seabed, subsoil, and waters of the Great Lakes and the territorial sea of the United States; the waters of any zone over which the United States asserts exclusive fishery management authority; the waters of the high seas; and the seabed and subsoil of and beyond the outer Continental Shelf.”
 
-Par. (7). Pub. L. 100–220, § 3104(a)(3), added par. (7) and struck out former par. (7) which read as follows: “The term ‘ocean and coastal resource’ means any resource (whether living, nonliving, manmade, tangible, intangible, actual, or potential) which is located in, derived from, or traceable to, the marine environment. Such term includes the habitat of any such living resource, the coastal space, the ecosystems, the nutrient-rich areas, and the other components of the marine environment which contribute to or provide (or which are capable of contributing to or providing) recreational, scenic, esthetic, biological, habitational, commercial, economic, or conservation values. Living resources include natural and cultured plant life, fish, shellfish, marine mammals, and wildlife. Nonliving resources include energy sources, minerals, and chemical substances.”
+Par. (7). Pub. L. 100–220, § 3104(a)(3), added par. (7) and struck out former par. (7) which read as follows: “The term ‘ocean and coastal resource’ means any resource (whether living, nonliving, manmade, tangible, intangible, actual, or potential) which is located in, derived from, or traceable to, the marine environment. Such term includes the habitat of any such living resource, the coastal space, the ecosystems, the nutrient-rich areas, and the other components of the marine environment which contribute to or provide (or which are capable of contributing to or providing) recreational, scenic, esthetic, biological, habitational, commercial, economic, or conservation values. Living resources include natural and cultured plant life, fish, shellfish, marine mammals, and wildlife. Nonliving resources include energy sources, minerals, and chemical substances.”
 
-Par. (11). Pub. L. 100–220, § 3104(b)(1)(C), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
+Par. (11). Pub. L. 100–220, § 3104(b)(1)(C), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
 
-Par. (15). Pub. L. 100–220, § 3104(a)(4), added par. (15).
+Par. (15). Pub. L. 100–220, § 3104(a)(4), added par. (15).
 
 1980—Par. (6). Pub. L. 96–289 extended term “marine environment” to include waters of Great Lakes.
 
@@ -405,9 +405,9 @@ Par. (15). Pub. L. 100–220, § 3104(a)(4), added par. (15).
 
 1976—Pub. L. 94–461 substituted provisions defining terms used in this subchapter for provisions designating Secretary of Commerce as administering authority for national sea grant program and authorizing appropriations through fiscal 1976.
 
-1973—Subsec. (a). Pub. L. 93–73, § 1(5), substituted “Secretary of Commerce” and “Secretary” for “National Science Foundation” and “Foundation”, respectively.
+1973—Subsec. (a). Pub. L. 93–73, § 1(5), substituted “Secretary of Commerce” and “Secretary” for “National Science Foundation” and “Foundation”, respectively.
 
-Subsec. (b)(1). Pub. L. 93–73, § 1(1), (5), authorized appropriations of $30,000,000; $40,000,000; and $50,000,000 for fiscal years ending June 30, 1974, 1975, and 1976, and substituted “Secretary” for “Foundation”.
+Subsec. (b)(1). Pub. L. 93–73, § 1(1), (5), authorized appropriations of $30,000,000; $40,000,000; and $50,000,000 for fiscal years ending June 30, 1974, 1975, and 1976, and substituted “Secretary” for “Foundation”.
 
 1970—Subsec. (b)(1). Pub. L. 91–349 authorized appropriations for fiscal year ending June 30, 1971, not to exceed the sum of $20,000,000, for fiscal year ending June 30, 1972, not to exceed the sum of $25,000,000, and for fiscal year ending June 30, 1973, not to exceed the sum of $30,000,000.
 
@@ -425,7 +425,7 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between the 
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-### § 1123. National sea grant college program
+### § 1123. National sea grant college program
 
 **(a) Program maintenance**
 
@@ -499,7 +499,7 @@ The Secretary shall maintain within the Administration a program to be known as 
 
 **(C)** ensure compliance with the guidelines for merit review under subsection (c)(2).
 
-(Pub. L. 89–454, title II, § 204, as added Pub. L. 89–688, § 1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, § 1(2), Aug. 11, 1968, 82 Stat. 704; Pub. L. 93–73, § 1(2)–(7), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1963; Pub. L. 95–428, §§ 2(b), 3(1), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, § 1(2), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §§ 3104(b)(1)(D), (2), (c), 3105(b), Dec. 29, 1987, 101 Stat. 1470, 1471; Pub. L. 102–186, §§ 2, 4(b)(1)(A), Dec. 4, 1991, 105 Stat. 1282, 1283; Pub. L. 105–160, § 5, Mar. 6, 1998, 112 Stat. 22; Pub. L. 107–299, § 3(a), (b)(1), (c), Nov. 26, 2002, 116 Stat. 2345, 2346; Pub. L. 110–394, §§ 5, 9(a)(4)(C)(i), Oct. 13, 2008, 122 Stat. 4206, 4208; Pub. L. 116–221, §§ 4(a), 6, 9(c)(1), 11(1), Dec. 18, 2020, 134 Stat. 1058, 1059, 1061.)
+(Pub. L. 89–454, title II, § 204, as added Pub. L. 89–688, § 1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, § 1(2), Aug. 11, 1968, 82 Stat. 704; Pub. L. 93–73, § 1(2)–(7), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1963; Pub. L. 95–428, §§ 2(b), 3(1), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, § 1(2), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §§ 3104(b)(1)(D), (2), (c), 3105(b), Dec. 29, 1987, 101 Stat. 1470, 1471; Pub. L. 102–186, §§ 2, 4(b)(1)(A), Dec. 4, 1991, 105 Stat. 1282, 1283; Pub. L. 105–160, § 5, Mar. 6, 1998, 112 Stat. 22; Pub. L. 107–299, § 3(a), (b)(1), (c), Nov. 26, 2002, 116 Stat. 2345, 2346; Pub. L. 110–394, §§ 5, 9(a)(4)(C)(i), Oct. 13, 2008, 122 Stat. 4206, 4208; Pub. L. 116–221, §§ 4(a), 6, 9(c)(1), 11(1), Dec. 18, 2020, 134 Stat. 1058, 1059, 1061.)
 
 **Editorial Notes**
 
@@ -511,95 +511,95 @@ This subchapter, referred to in subsec. (d)(3)(B)(iv), was in the original “th
 
 **Codification**
 
-In subsec. (c)(4)(D), “section 6101 of title 41” substituted for “section 5 of title 41, United States Code” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(4)(D), “section 6101 of title 41” substituted for “section 5 of title 41, United States Code” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
-2020—Subsec. (b). Pub. L. 116–221, § 6, inserted “for research, education, extension, training, technology transfer, and public service” after “financial assistance” in introductory provisions.
+2020—Subsec. (b). Pub. L. 116–221, § 6, inserted “for research, education, extension, training, technology transfer, and public service” after “financial assistance” in introductory provisions.
 
-Subsec. (c)(4)(E). Pub. L. 116–221, § 4(a), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “notwithstanding section 1342 of title 31, accept donations and voluntary and uncompensated services;”.
+Subsec. (c)(4)(E). Pub. L. 116–221, § 4(a), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “notwithstanding section 1342 of title 31, accept donations and voluntary and uncompensated services;”.
 
-Subsec. (d)(3). Pub. L. 116–221, § 9(c)(1)(A), substituted “With respect to sea grant colleges, sea grant institutes, sea grant programs, and sea grant projects” for “With respect to sea grant colleges and sea grant institutes” in introductory provisions.
+Subsec. (d)(3). Pub. L. 116–221, § 9(c)(1)(A), substituted “With respect to sea grant colleges, sea grant institutes, sea grant programs, and sea grant projects” for “With respect to sea grant colleges and sea grant institutes” in introductory provisions.
 
-Subsec. (d)(3)(B). Pub. L. 116–221, § 9(c)(1)(B), substituted “funding among sea grant colleges, sea grant institutes, sea grant programs, and sea grant projects” for “funding among sea grant colleges and sea grant institutes” in introductory provisions.
+Subsec. (d)(3)(B). Pub. L. 116–221, § 9(c)(1)(B), substituted “funding among sea grant colleges, sea grant institutes, sea grant programs, and sea grant projects” for “funding among sea grant colleges and sea grant institutes” in introductory provisions.
 
-Subsec. (d)(3)(B)(vi). Pub. L. 116–221, § 11(1), realigned margin.
+Subsec. (d)(3)(B)(vi). Pub. L. 116–221, § 11(1), realigned margin.
 
-2008—Subsec. (b)(1). Pub. L. 110–394, § 5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “sea grant programs which comprise a national sea grant college program network, including international projects conducted within such programs;”.
+2008—Subsec. (b)(1). Pub. L. 110–394, § 5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “sea grant programs which comprise a national sea grant college program network, including international projects conducted within such programs;”.
 
-Subsec. (b)(2). Pub. L. 110–394, § 5(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “administration of the national sea grant college program and this subchapter by the national sea grant office, the Administration, and the panel;”.
+Subsec. (b)(2). Pub. L. 110–394, § 5(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “administration of the national sea grant college program and this subchapter by the national sea grant office, the Administration, and the panel;”.
 
-Subsec. (b)(4). Pub. L. 110–394, § 5(a)(3), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “any national strategic investments in fields relating to ocean, coastal, and Great Lakes resources developed with the approval of the panel, the sea grant colleges, and the sea grant institutes.”
+Subsec. (b)(4). Pub. L. 110–394, § 5(a)(3), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “any national strategic investments in fields relating to ocean, coastal, and Great Lakes resources developed with the approval of the panel, the sea grant colleges, and the sea grant institutes.”
 
-Subsec. (c)(1). Pub. L. 110–394, § 9(a)(4)(C)(i), substituted “Board” for “panel”.
+Subsec. (c)(1). Pub. L. 110–394, § 9(a)(4)(C)(i), substituted “Board” for “panel”.
 
-Subsec. (c)(2). Pub. L. 110–394, §§ 5(b), 9(a)(4)(C)(i), substituted “The” for “Within 6 months of March 6, 1998, the” and “Board” for “panel”.
+Subsec. (c)(2). Pub. L. 110–394, §§ 5(b), 9(a)(4)(C)(i), substituted “The” for “Within 6 months of March 6, 1998, the” and “Board” for “panel”.
 
-Subsec. (d)(2)(A). Pub. L. 110–394, § 5(c)(1), which directed the striking out of “long range”, was executed by striking out “long-range” before “strategic plan” to reflect the probable intent of Congress.
+Subsec. (d)(2)(A). Pub. L. 110–394, § 5(c)(1), which directed the striking out of “long range”, was executed by striking out “long-range” before “strategic plan” to reflect the probable intent of Congress.
 
-Subsec. (d)(3)(A). Pub. L. 110–394, § 5(c)(2), substituted “evaluate and assess” for “evaluate” and “activities;” for “activities; and”, struck out cl. (i) designation before “evaluate”, and struck out cl. (ii) which read as follows: “rate the programs according to their relative performance (as determined under clause (i)) into no less than 5 categories, with each of the 2 best-performing categories containing no more than 25 percent of the programs;”.
+Subsec. (d)(3)(A). Pub. L. 110–394, § 5(c)(2), substituted “evaluate and assess” for “evaluate” and “activities;” for “activities; and”, struck out cl. (i) designation before “evaluate”, and struck out cl. (ii) which read as follows: “rate the programs according to their relative performance (as determined under clause (i)) into no less than 5 categories, with each of the 2 best-performing categories containing no more than 25 percent of the programs;”.
 
-Subsec. (d)(3)(B)(ii). Pub. L. 110–394, § 5(c)(3)(A), added cl. (ii). Former cl. (ii) redesignated (iii).
+Subsec. (d)(3)(B)(ii). Pub. L. 110–394, § 5(c)(3)(A), added cl. (ii). Former cl. (ii) redesignated (iii).
 
-Subsec. (d)(3)(B)(iii). Pub. L. 110–394, § 5(c)(3)(A), (B), redesignated cl. (ii) as (iii) and substituted “ensure” for “encourage”. Former cl. (iii) redesignated (iv).
+Subsec. (d)(3)(B)(iii). Pub. L. 110–394, § 5(c)(3)(A), (B), redesignated cl. (ii) as (iii) and substituted “ensure” for “encourage”. Former cl. (iii) redesignated (iv).
 
-Subsec. (d)(3)(B)(iv), (v). Pub. L. 110–394, § 5(c)(3)(A), redesignated cls. (iii) and (iv) as (iv) and (v), respectively.
+Subsec. (d)(3)(B)(iv), (v). Pub. L. 110–394, § 5(c)(3)(A), redesignated cls. (iii) and (iv) as (iv) and (v), respectively.
 
-Subsec. (d)(3)(B)(vi). Pub. L. 110–394, § 5(c)(3)(C), (D), added cl. (vi).
+Subsec. (d)(3)(B)(vi). Pub. L. 110–394, § 5(c)(3)(C), (D), added cl. (vi).
 
-2002—Subsec. (c)(1). Pub. L. 107–299, § 3(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall develop a long-range strategic plan which establishes priorities for the national sea grant college program and which provides an appropriately balanced response to local, regional, and national needs.”
+2002—Subsec. (c)(1). Pub. L. 107–299, § 3(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall develop a long-range strategic plan which establishes priorities for the national sea grant college program and which provides an appropriately balanced response to local, regional, and national needs.”
 
-Subsec. (d)(3)(A). Pub. L. 107–299, § 3(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “evaluate the programs of sea grant colleges and sea grant institutes, using the priorities, guidelines, and qualifications established by the Secretary;”.
+Subsec. (d)(3)(A). Pub. L. 107–299, § 3(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “evaluate the programs of sea grant colleges and sea grant institutes, using the priorities, guidelines, and qualifications established by the Secretary;”.
 
-Subsec. (d)(3)(B)(iv). Pub. L. 107–299, § 3(c), added cl. (iv).
+Subsec. (d)(3)(B)(iv). Pub. L. 107–299, § 3(c), added cl. (iv).
 
 1998—Pub. L. 105–160 amended section catchline and text generally. Prior to amendment text consisted of subsecs. (a) to (d) relating to maintenance within the Administration of the National Sea Grant College Program, appointment and compensation of a Director of the program, duties of the Director, and powers of the Secretary to carry out the provisions of this subchapter.
 
-1991—Subsec. (a). Pub. L. 102–186, § 2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall maintain, within the Administration, a program to be known as the national sea grant college program. The national sea grant college program shall consist of the financial assistance and other activities provided for in this subchapter. The Secretary shall establish long-range planning guidelines and priorities for, and adequately evaluate, this program.”
+1991—Subsec. (a). Pub. L. 102–186, § 2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall maintain, within the Administration, a program to be known as the national sea grant college program. The national sea grant college program shall consist of the financial assistance and other activities provided for in this subchapter. The Secretary shall establish long-range planning guidelines and priorities for, and adequately evaluate, this program.”
 
-Subsec. (c)(3). Pub. L. 102–186, § 4(b)(1)(A), substituted “section 1124” for “sections 1124 and 1125”.
+Subsec. (c)(3). Pub. L. 102–186, § 4(b)(1)(A), substituted “section 1124” for “sections 1124 and 1125”.
 
-Subsec. (c)(8). Pub. L. 102–186, § 2(b), added par. (8).
+Subsec. (c)(8). Pub. L. 102–186, § 2(b), added par. (8).
 
-Subsec. (d)(6). Pub. L. 102–186, § 2(c), inserted “and add” after “to pay for”.
+Subsec. (d)(6). Pub. L. 102–186, § 2(c), inserted “and add” after “to pay for”.
 
-1987—Subsec. (b)(1)(A). Pub. L. 100–220, § 3104(b)(1)(D), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
+1987—Subsec. (b)(1)(A). Pub. L. 100–220, § 3104(b)(1)(D), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
 
-Subsec. (c). Pub. L. 100–220, § 3104(c), substituted “Under Secretary” for “Administrator” wherever appearing in introductory provisions and par. (2).
+Subsec. (c). Pub. L. 100–220, § 3104(c), substituted “Under Secretary” for “Administrator” wherever appearing in introductory provisions and par. (2).
 
-Subsec. (c)(5). Pub. L. 100–220, § 3104(b)(2), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resource”.
+Subsec. (c)(5). Pub. L. 100–220, § 3104(b)(2), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resource”.
 
-Subsec. (d)(3). Pub. L. 100–220, § 3104(b)(1)(D), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in two places.
+Subsec. (d)(3). Pub. L. 100–220, § 3104(b)(1)(D), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in two places.
 
-Subsec. (d)(6). Pub. L. 100–220, § 3105(b), struck out “under section 1124(a) of this title” after “Secretary”.
+Subsec. (d)(6). Pub. L. 100–220, § 3105(b), struck out “under section 1124(a) of this title” after “Secretary”.
 
 1980—Subsec. (c)(5) to (7). Pub. L. 96–289 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
-1978—Subsecs. (a) to (c). Pub. L. 95–428, § 2(b), substituted “national sea grant college program” for “national sea grant program” wherever appearing.
+1978—Subsecs. (a) to (c). Pub. L. 95–428, § 2(b), substituted “national sea grant college program” for “national sea grant program” wherever appearing.
 
-Subsec. (d)(6), (7). Pub. L. 95–428, § 3(1)(B), (C), added par. (6) and redesignated former par. (6) as (7).
+Subsec. (d)(6), (7). Pub. L. 95–428, § 3(1)(B), (C), added par. (6) and redesignated former par. (6) as (7).
 
 1976—Pub. L. 94–461 substituted provisions covering the establishment and administration of the national sea grant program for provisions covering the marine resource development programs.
 
-1973—Subsec. (a). Pub. L. 93–73, § 1(2), (5), deleted item (1) designation for provision respecting consultation with experts and Federal agencies, deleted item (2) provision for seeking advice and counsel from the National Council on Marine Resources and Engineering Development, and substituted “Secretary” for “Foundation”.
+1973—Subsec. (a). Pub. L. 93–73, § 1(2), (5), deleted item (1) designation for provision respecting consultation with experts and Federal agencies, deleted item (2) provision for seeking advice and counsel from the National Council on Marine Resources and Engineering Development, and substituted “Secretary” for “Foundation”.
 
-Subsec. (b). Pub. L. 93–73, § 1(5), substituted “Secretary” for “Foundation” and “his authority” for “its authority”.
+Subsec. (b). Pub. L. 93–73, § 1(5), substituted “Secretary” for “Foundation” and “his authority” for “its authority”.
 
-Subsec. (d)(1). Pub. L. 93–73, § 1(3), (5), authorized Federal contributions exceeding percentage limitation to programs limited to one percent of appropriations for the fiscal year when reducing or eliminating matching payments by a participant when Secretary determines it would be inequitable relevant to the benefits derived by the participant from the program to require the participant to make a one-third payment of the cost, and substituted “Secretary” for “Foundation” in last sentence.
+Subsec. (d)(1). Pub. L. 93–73, § 1(3), (5), authorized Federal contributions exceeding percentage limitation to programs limited to one percent of appropriations for the fiscal year when reducing or eliminating matching payments by a participant when Secretary determines it would be inequitable relevant to the benefits derived by the participant from the program to require the participant to make a one-third payment of the cost, and substituted “Secretary” for “Foundation” in last sentence.
 
-Subsec. (d)(2). Pub. L. 93–73, § 1(4), (5), made prohibitions of paragraph inapplicable to non-self-propelled habitats, buoys, platforms, or other similar devices or structures, used principally for research purposes and substituted “Secretary” for “foundation”.
+Subsec. (d)(2). Pub. L. 93–73, § 1(4), (5), made prohibitions of paragraph inapplicable to non-self-propelled habitats, buoys, platforms, or other similar devices or structures, used principally for research purposes and substituted “Secretary” for “foundation”.
 
-Subsecs. (d)(3), (e). Pub. L. 93–73, § 1(5), substituted “Secretary” for “Foundation”.
+Subsecs. (d)(3), (e). Pub. L. 93–73, § 1(5), substituted “Secretary” for “Foundation”.
 
-Subsec. (f). Pub. L. 93–73, § 1(5), substituted “Secretary” for “Foundation” and “his functions” for “its functions”.
+Subsec. (f). Pub. L. 93–73, § 1(5), substituted “Secretary” for “Foundation” and “his functions” for “its functions”.
 
-Subsec. (g). Pub. L. 93–73, § 1(6), substituted provisions for exercise of powers and authority under this subchapter by the Secretary rather than the Foundation under the powers and authority of the National Science Foundation Act of 1950, as amended.
+Subsec. (g). Pub. L. 93–73, § 1(6), substituted provisions for exercise of powers and authority under this subchapter by the Secretary rather than the Foundation under the powers and authority of the National Science Foundation Act of 1950, as amended.
 
-Subsec. (h). Pub. L. 93–73, § 1(5), substituted “Secretary” for “Foundation” and “his functions” for “its functions”.
+Subsec. (h). Pub. L. 93–73, § 1(5), substituted “Secretary” for “Foundation” and “his functions” for “its functions”.
 
-Subsec. (i)(3). Pub. L. 93–73, § 1(7), inserted “and which is so designated by the Secretary” after “marine resources”.
+Subsec. (i)(3). Pub. L. 93–73, § 1(7), inserted “and which is so designated by the Secretary” after “marine resources”.
 
-Subsec. (i)(4)(A) to (C). Pub. L. 93–73, § 1(5), substituted “Secretary” for “Foundation”.
+Subsec. (i)(4)(A) to (C). Pub. L. 93–73, § 1(5), substituted “Secretary” for “Foundation”.
 
 1968—Subsec. (d)(1). Pub. L. 90–477 struck out “in any fiscal year” after “The total amount of payments” and “by any participants”.
 
@@ -607,7 +607,7 @@ Subsec. (i)(4)(A) to (C). Pub. L. 93–73, § 1(5), substituted “Secretary�
 
 **Construction**
 
-Pub. L. 116–221, § 4(d), Dec. 18, 2020, 134 Stat. 1058, provided that:
+Pub. L. 116–221, § 4(d), Dec. 18, 2020, 134 Stat. 1058, provided that:
 
 > “Nothing in this section [amending this section and enacting provisions set out as a note below] shall be construed to limit or otherwise affect any other amounts available for marine policy fellowships under section 208(b) of the National Sea Grant College Program Act (33 U.S.C. 1127(b)), including amounts—
 
@@ -617,17 +617,17 @@ Pub. L. 116–221, § 4(d), Dec. 18, 2020, 134 Stat. 1058, provided that:
 
 **Priorities**
 
-Pub. L. 116–221, § 4(b), Dec. 18, 2020, 134 Stat. 1058, provided that: “The Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, shall establish priorities for the use of donations accepted under section 204(c)(4)(E) of the National Sea Grant College Program Act (33 U.S.C. 1123(c)(4)(E)), and shall consider among those priorities the possibility of expanding the Dean John A. Knauss Marine Policy Fellowship’s placement of additional fellows in relevant legislative offices under section 208(b) of that Act (33 U.S.C. 1127(b)), in accordance with the recommendations under subsection (c) of this section [134 Stat. 1058].”
+Pub. L. 116–221, § 4(b), Dec. 18, 2020, 134 Stat. 1058, provided that: “The Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, shall establish priorities for the use of donations accepted under section 204(c)(4)(E) of the National Sea Grant College Program Act (33 U.S.C. 1123(c)(4)(E)), and shall consider among those priorities the possibility of expanding the Dean John A. Knauss Marine Policy Fellowship’s placement of additional fellows in relevant legislative offices under section 208(b) of that Act (33 U.S.C. 1127(b)), in accordance with the recommendations under subsection (c) of this section [134 Stat. 1058].”
 
 **Review of Evaluation and Rating Process**
 
-Pub. L. 107–299, § 3(b)(2), Nov. 26, 2002, 116 Stat. 2346, provided that after 3 years after Nov. 26, 2002, the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, was to contract with the National Academy of Sciences to review the effectiveness of the evaluation and rating system under this section in determining the relative performance of programs of sea grant colleges and sea grant institutes and provided that the National Academy of Sciences would submit a report to the Congress on the findings and recommendations of the panel not later than 4 years after Nov. 26, 2002.
+Pub. L. 107–299, § 3(b)(2), Nov. 26, 2002, 116 Stat. 2346, provided that after 3 years after Nov. 26, 2002, the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, was to contract with the National Academy of Sciences to review the effectiveness of the evaluation and rating system under this section in determining the relative performance of programs of sea grant colleges and sea grant institutes and provided that the National Academy of Sciences would submit a report to the Congress on the findings and recommendations of the panel not later than 4 years after Nov. 26, 2002.
 
 **Notice of Reorganization**
 
-Pub. L. 105–160, § 9(d), Mar. 6, 1998, 112 Stat. 27, provided that: “The Secretary of Commerce shall provide notice to the Committees on Science [now Science, Space, and Technology], Resources [now Natural Resources], and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 45 days before any major reorganization of any program, project, or activity of the National Sea Grant College Program.”
+Pub. L. 105–160, § 9(d), Mar. 6, 1998, 112 Stat. 27, provided that: “The Secretary of Commerce shall provide notice to the Committees on Science [now Science, Space, and Technology], Resources [now Natural Resources], and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 45 days before any major reorganization of any program, project, or activity of the National Sea Grant College Program.”
 
-### § 1124. Program or project grants and contracts
+### § 1124. Program or project grants and contracts
 
 **(a) Authorization; purposes; limitation on amount** The Secretary may make grants and enter into contracts under this subsection to assist any sea grant program or project if the Secretary finds that such program or project will—
 
@@ -667,15 +667,15 @@ except that payment under any such grant or contract may be applied to the short
 
 **(4)** Any person who receives or utilizes any proceeds of any grant or contract under this section shall keep such records as the Secretary shall by regulation prescribe as being necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition by such recipient of such proceeds, the total cost of the program or project in connection with which such proceeds were used, and the amount, if any, of such cost which was provided through other sources. Such records shall be maintained for 3 years after the completion of such a program or project. The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit and evaluation, to any books, documents, papers, and records of receipts which, in the opinion of the Secretary or of the Comptroller General, may be related or pertinent to such grants and contracts.
 
-(Pub. L. 89–454, title II, § 205, as added Pub. L. 89–688, § 1, Oct. 15, 1966, 80 Stat. 1001; amended Pub. L. 93–73, § 1(8), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1964; Pub. L. 95–428, § 3(2), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, § 1(3), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, § 3105(a), Dec. 29, 1987, 101 Stat. 1471; Pub. L. 102–186, § 4(b)(1)(B), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 107–299, § 4, Nov. 26, 2002, 116 Stat. 2346; Pub. L. 110–394, § 6, Oct. 13, 2008, 122 Stat. 4207.)
+(Pub. L. 89–454, title II, § 205, as added Pub. L. 89–688, § 1, Oct. 15, 1966, 80 Stat. 1001; amended Pub. L. 93–73, § 1(8), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1964; Pub. L. 95–428, § 3(2), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, § 1(3), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, § 3105(a), Dec. 29, 1987, 101 Stat. 1471; Pub. L. 102–186, § 4(b)(1)(B), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 107–299, § 4, Nov. 26, 2002, 116 Stat. 2346; Pub. L. 110–394, § 6, Oct. 13, 2008, 122 Stat. 4207.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–394, § 6(1), substituted “1123(c)(4)(F) of this title or that are appropriated under section 1127(b) of this title.” for “1123(c)(4)(F) of this title.”
+2008—Subsec. (a). Pub. L. 110–394, § 6(1), substituted “1123(c)(4)(F) of this title or that are appropriated under section 1127(b) of this title.” for “1123(c)(4)(F) of this title.”
 
-Subsec. (b). Pub. L. 110–394, § 6(2), inserted concluding provisions and struck out former concluding provisions which read as follows: “The total amount which may be provided for grants under this subsection during any fiscal year shall not exceed an amount equal to 1 percent of the total funds appropriated for such year pursuant to section 1131 of this title.”
+Subsec. (b). Pub. L. 110–394, § 6(2), inserted concluding provisions and struck out former concluding provisions which read as follows: “The total amount which may be provided for grants under this subsection during any fiscal year shall not exceed an amount equal to 1 percent of the total funds appropriated for such year pursuant to section 1131 of this title.”
 
 2002—Subsec. (a). Pub. L. 107–299 substituted “section 1123(c)(4)(F)” for “section 1123(d)(6)” in concluding provisions.
 
@@ -691,15 +691,15 @@ Subsec. (b). Pub. L. 110–394, § 6(2), inserted concluding provisions and st
 
 1973—Pub. L. 93–73 substituted provisions for study of international marine technology transfer for prior provisions respecting advisory functions of National Council on Marine Resources and Development.
 
-### § 1124a. Repealed. Pub. L. 105–160, § 6, Mar. 6, 1998, 112 Stat. 24
+### § 1124a. Repealed. Pub. L. 105–160, § 6, Mar. 6, 1998, 112 Stat. 24
 
-Section, Pub. L. 94–461, § 3, Oct. 8, 1976, 90 Stat. 1969; Pub. L. 95–58, § 2, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, § 4(2), (3), Oct. 7, 1978, 92 Stat. 1000; Pub. L. 96–289, §§ 2, 3, June 28, 1980, 94 Stat. 605; Pub. L. 98–623, title V, § 501(b), Nov. 8, 1984, 98 Stat. 3410; Pub. L. 100–220, title III, § 3111, Dec. 29, 1987, 101 Stat. 1474; Pub. L. 102–251, title III, § 307(b), Mar. 9, 1992, 106 Stat. 66, related to sea grant international program.
+Section, Pub. L. 94–461, § 3, Oct. 8, 1976, 90 Stat. 1969; Pub. L. 95–58, § 2, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, § 4(2), (3), Oct. 7, 1978, 92 Stat. 1000; Pub. L. 96–289, §§ 2, 3, June 28, 1980, 94 Stat. 605; Pub. L. 98–623, title V, § 501(b), Nov. 8, 1984, 98 Stat. 3410; Pub. L. 100–220, title III, § 3111, Dec. 29, 1987, 101 Stat. 1474; Pub. L. 102–251, title III, § 307(b), Mar. 9, 1992, 106 Stat. 66, related to sea grant international program.
 
-### § 1125. Repealed. Pub. L. 102–186, § 4(a), Dec. 4, 1991, 105 Stat. 1283
+### § 1125. Repealed. Pub. L. 102–186, § 4(a), Dec. 4, 1991, 105 Stat. 1283
 
-Section, Pub. L. 89–454, title II, § 206, as added Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1965; amended Pub. L. 95–58, § 1, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, § 3(3), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, § 1(4), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, § 3106(a), Dec. 29, 1987, 101 Stat. 1471, required development of a sea grant strategic research plan and authorized grants and contracts to carry out the program.
+Section, Pub. L. 89–454, title II, § 206, as added Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1965; amended Pub. L. 95–58, § 1, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, § 3(3), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, § 1(4), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, § 3106(a), Dec. 29, 1987, 101 Stat. 1471, required development of a sea grant strategic research plan and authorized grants and contracts to carry out the program.
 
-### § 1126. Sea grant colleges and sea grant institutes
+### § 1126. Sea grant colleges and sea grant institutes
 
 **(a) Designation**
 
@@ -755,23 +755,23 @@ The Secretary may, for cause and after an opportunity for hearing, suspend or te
 
 **(2)** to conduct a merit review of all proposals for grants and contracts to be awarded under section 1124 of this title.
 
-(Pub. L. 89–454, title II, § 207, as added Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–220, title III, § 3104(b)(1)(E), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 105–160, § 7, Mar. 6, 1998, 112 Stat. 24; Pub. L. 107–299, § 8, Nov. 26, 2002, 116 Stat. 2348; Pub. L. 110–394, §§ 7, 9(a)(4)(C)(ii), Oct. 13, 2008, 122 Stat. 4207, 4208; Pub. L. 113–188, title II, § 201(a), Nov. 26, 2014, 128 Stat. 2018; Pub. L. 116–221, § 7, Dec. 18, 2020, 134 Stat. 1059.)
+(Pub. L. 89–454, title II, § 207, as added Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–220, title III, § 3104(b)(1)(E), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 105–160, § 7, Mar. 6, 1998, 112 Stat. 24; Pub. L. 107–299, § 8, Nov. 26, 2002, 116 Stat. 2348; Pub. L. 110–394, §§ 7, 9(a)(4)(C)(ii), Oct. 13, 2008, 122 Stat. 4207, 4208; Pub. L. 113–188, title II, § 201(a), Nov. 26, 2014, 128 Stat. 2018; Pub. L. 116–221, § 7, Dec. 18, 2020, 134 Stat. 1059.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (b). Pub. L. 116–221, § 7(2), added par. (1), designated existing provisions as par. (2), and inserted par. (2) heading.
+2020—Subsec. (b). Pub. L. 116–221, § 7(2), added par. (1), designated existing provisions as par. (2), and inserted par. (2) heading.
 
-Pub. L. 116–221, § 7(1), substituted “Additional designations” for “Existing designees” in heading.
+Pub. L. 116–221, § 7(1), substituted “Additional designations” for “Existing designees” in heading.
 
 2014—Subsec. (e). Pub. L. 113–188, which directed amendment of section 207 of the National Sea Grant Program Act by striking subsec. (e), was executed to this section, which is section 207 of the National Sea Grant College Program Act, to reflect the probable intent of Congress. Prior to amendment, subsec. (e) related to annual reports on progress made by colleges, universities, institutions, associations, and alliances to become designated under this section as sea grant colleges or sea grant institutes.
 
-2008—Subsec. (a)(1)(F). Pub. L. 110–394, § 9(a)(4)(C)(ii), substituted “Board” for “panel”.
+2008—Subsec. (a)(1)(F). Pub. L. 110–394, § 9(a)(4)(C)(ii), substituted “Board” for “panel”.
 
-Subsec. (a)(2)(B), (3)(B). Pub. L. 110–394, § 7, substituted “extension services” for “advisory services”.
+Subsec. (a)(2)(B), (3)(B). Pub. L. 110–394, § 7, substituted “extension services” for “advisory services”.
 
-Subsec. (d)(1). Pub. L. 110–394, § 9(a)(4)(C)(ii), substituted “Board” for “panel”.
+Subsec. (d)(1). Pub. L. 110–394, § 9(a)(4)(C)(ii), substituted “Board” for “panel”.
 
 2002—Subsec. (e). Pub. L. 107–299 added subsec. (e).
 
@@ -779,7 +779,7 @@ Subsec. (d)(1). Pub. L. 110–394, § 9(a)(4)(C)(ii), substituted “Board” 
 
 1987—Subsec. (a)(2)(A), (3)(A), (B). Pub. L. 100–220 substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
 
-### § 1127. Fellowships
+### § 1127. Fellowships
 
 **(a) In general**
 
@@ -811,7 +811,7 @@ A fellowship awarded under this subsection shall be for a period of not more tha
 
 Amounts available for fellowships under this section, including amounts accepted under section 1123(c)(4)(F) of this title or appropriated under section 1131 of this title to implement this section, shall be used only for award of such fellowships and administrative costs of implementing this section.
 
-(Pub. L. 89–454, title II, § 208, as added Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–66, § 3, July 10, 1987, 101 Stat. 384; Pub. L. 100–220, title III, § 3107, Dec. 29, 1987, 101 Stat. 1472; Pub. L. 102–186, § 4(b)(1)(C), (D), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 105–160, § 4(b)(2), Mar. 6, 1998, 112 Stat. 22; Pub. L. 107–299, § 5, Nov. 26, 2002, 116 Stat. 2346; Pub. L. 110–394, § 8, Oct. 13, 2008, 122 Stat. 4207; Pub. L. 113–188, title II, § 201(c), Nov. 26, 2014, 128 Stat. 2018; Pub. L. 116–221, § 3(a), (b), Dec. 18, 2020, 134 Stat. 1057.)
+(Pub. L. 89–454, title II, § 208, as added Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–66, § 3, July 10, 1987, 101 Stat. 384; Pub. L. 100–220, title III, § 3107, Dec. 29, 1987, 101 Stat. 1472; Pub. L. 102–186, § 4(b)(1)(C), (D), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 105–160, § 4(b)(2), Mar. 6, 1998, 112 Stat. 22; Pub. L. 107–299, § 5, Nov. 26, 2002, 116 Stat. 2346; Pub. L. 110–394, § 8, Oct. 13, 2008, 122 Stat. 4207; Pub. L. 113–188, title II, § 201(c), Nov. 26, 2014, 128 Stat. 2018; Pub. L. 116–221, § 3(a), (b), Dec. 18, 2020, 134 Stat. 1057.)
 
 **Editorial Notes**
 
@@ -825,13 +825,13 @@ This subchapter, referred to in subsec. (a), was in the original “this Act” 
 
 2014—Subsec. (a). Pub. L. 113–188, which directed amendment of section 208(a) of the National Sea Grant Program Act by striking the fourth sentence, was executed to this section, which is section 208(a) of the National Sea Grant College Program Act, to reflect the probable intent of Congress. Prior to amendment, fourth sentence read as follows: “Every 2 years, the Secretary shall submit a report to the Congress describing the efforts by the Secretary to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection, and the results of such efforts.”
 
-2008—Subsec. (a). Pub. L. 110–394, § 8(1), substituted “Every 2 years,” for “Not later than 1 year after November 26, 2002, and every 2 years thereafter,”.
+2008—Subsec. (a). Pub. L. 110–394, § 8(1), substituted “Every 2 years,” for “Not later than 1 year after November 26, 2002, and every 2 years thereafter,”.
 
-Subsec. (c). Pub. L. 110–394, § 8(2), added subsec. (c).
+Subsec. (c). Pub. L. 110–394, § 8(2), added subsec. (c).
 
-2002—Subsec. (a). Pub. L. 107–299, § 5(a), inserted at end “The Secretary shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection. Not later than 1 year after November 26, 2002, and every 2 years thereafter, the Secretary shall submit a report to the Congress describing the efforts by the Secretary to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection, and the results of such efforts.”
+2002—Subsec. (a). Pub. L. 107–299, § 5(a), inserted at end “The Secretary shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection. Not later than 1 year after November 26, 2002, and every 2 years thereafter, the Secretary shall submit a report to the Congress describing the efforts by the Secretary to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection, and the results of such efforts.”
 
-Subsec. (c). Pub. L. 107–299, § 5(b), struck out heading and text of subsec. (c). Text read as follows: “The Secretary shall establish and administer a program of postdoctoral fellowships to accelerate research in critical subject areas. The fellowship awards—
+Subsec. (c). Pub. L. 107–299, § 5(b), struck out heading and text of subsec. (c). Text read as follows: “The Secretary shall establish and administer a program of postdoctoral fellowships to accelerate research in critical subject areas. The fellowship awards—
 
 “(1) shall be for 2 years;
 
@@ -851,7 +851,7 @@ Subsec. (c). Pub. L. 107–299, § 5(b), struck out heading and text of subsec
 
 1987—Subsec. (a). Pub. L. 100–220 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall support a sea grant fellowship program to provide educational and training assistance to qualified individuals at the undergraduate and graduate levels of education in fields related to ocean and coastal resources. Such fellowships shall be awarded pursuant to guidelines established by the Secretary. Except as provided in subsection (b) of this section, sea grant fellowships may only be awarded by sea grant colleges, sea grant regional consortia, institutions of higher education, and professional associations and institutes.”
 
-Pub. L. 100–66, § 3(1), substituted “Except as provided in subsection (b) of this section, sea” for “Sea”.
+Pub. L. 100–66, § 3(1), substituted “Except as provided in subsection (b) of this section, sea” for “Sea”.
 
 Subsec. (b). Pub. L. 100–220 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
@@ -859,25 +859,25 @@ Subsec. (b). Pub. L. 100–220 amended subsec. (b) generally. Prior to amendment
 
 “(2) For purposes of this subsection, the term ‘qualified individual’ means an individual at the graduate level of education in fields related to ocean and coastal resources.”
 
-Pub. L. 100–66, § 3(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+Pub. L. 100–66, § 3(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 Subsec. (c). Pub. L. 100–220 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The total amount which may be provided for grants under the sea grant fellowship program during any fiscal year shall not exceed an amount equal to 5 percent of the total funds appropriated for such year pursuant to section 1131 of this title.”
 
-Pub. L. 100–66, § 3(2), redesignated former subsec. (b) as (c).
+Pub. L. 100–66, § 3(2), redesignated former subsec. (b) as (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–221, § 3(c), Dec. 18, 2020, 134 Stat. 1058, provided that: “The amendments made by this section [amending this section] shall apply with respect to the first calendar year beginning after the date of the enactment of this Act [Dec. 18, 2020].”
+Pub. L. 116–221, § 3(c), Dec. 18, 2020, 134 Stat. 1058, provided that: “The amendments made by this section [amending this section] shall apply with respect to the first calendar year beginning after the date of the enactment of this Act [Dec. 18, 2020].”
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–66, § 4, July 10, 1987, 101 Stat. 385, provided that: “The amendment made by section 3 [amending this section] shall take effect January 1, 1978.”
+Pub. L. 100–66, § 4, July 10, 1987, 101 Stat. 385, provided that: “The amendment made by section 3 [amending this section] shall take effect January 1, 1978.”
 
 **Direct Hire Authority; Dean John A. Knauss Marine Policy Fellowship**
 
-Pub. L. 116–221, § 8, Dec. 18, 2020, 134 Stat. 1059, provided that:
+Pub. L. 116–221, § 8, Dec. 18, 2020, 134 Stat. 1059, provided that:
 
 > **“(a) In General.—** During fiscal year 2021 and any fiscal year thereafter, the head of any Federal agency may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of that title, a qualified candidate described in subsection (b) directly to a position with the Federal agency for which the candidate meets Office of Personnel Management qualification standards.
 
@@ -889,7 +889,7 @@ Pub. L. 116–221, § 8, Dec. 18, 2020, 134 Stat. 1059, provided that:
 
 > **“(c) Limitation.—** The direct hire authority under this section shall be exercised with respect to a specific qualified candidate not later than 2 years after the date that the candidate completed the fellowship described in subsection (b).”
 
-### § 1128. National Sea Grant Advisory Board
+### § 1128. National Sea Grant Advisory Board
 
 **(a) Establishment**
 
@@ -935,55 +935,55 @@ The Secretary shall make available to the Board such information, personnel, and
 
 **(8)** The Board may establish such subcommittees as are reasonably necessary to carry out its duties under subsection (b). Such subcommittees may include individuals who are not Board members.
 
-(Pub. L. 89–454, title II, § 209, as added Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1967; amended Pub. L. 96–289, § 1(5), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §§ 3104(b)(1)(F), 3108, Dec. 29, 1987, 101 Stat. 1471, 1473; Pub. L. 102–186, §§ 4(b)(1)(E), (F), 5(b)(2), Dec. 4, 1991, 105 Stat. 1283, 1284; Pub. L. 105–160, §§ 4(b)(1), 8, Mar. 6, 1998, 112 Stat. 22, 25; Pub. L. 107–299, § 6, Nov. 26, 2002, 116 Stat. 2346; Pub. L. 110–394, § 9(a)(4)(A), (C)(iii)–(e), Oct. 13, 2008, 122 Stat. 4208; Pub. L. 116–221, §§ 5, 11(2), Dec. 18, 2020, 134 Stat. 1058, 1061.)
+(Pub. L. 89–454, title II, § 209, as added Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1967; amended Pub. L. 96–289, § 1(5), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §§ 3104(b)(1)(F), 3108, Dec. 29, 1987, 101 Stat. 1471, 1473; Pub. L. 102–186, §§ 4(b)(1)(E), (F), 5(b)(2), Dec. 4, 1991, 105 Stat. 1283, 1284; Pub. L. 105–160, §§ 4(b)(1), 8, Mar. 6, 1998, 112 Stat. 22, 25; Pub. L. 107–299, § 6, Nov. 26, 2002, 116 Stat. 2346; Pub. L. 110–394, § 9(a)(4)(A), (C)(iii)–(e), Oct. 13, 2008, 122 Stat. 4208; Pub. L. 116–221, §§ 5, 11(2), Dec. 18, 2020, 134 Stat. 1058, 1061.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (b)(2). Pub. L. 116–221, § 5, substituted “Periodic” for “Biennial” in heading, substituted “The Board shall report to Congress at least once every four years on the state of the national sea grant college program and shall notify Congress of any significant changes to the state of the program not later than two years after the submission of such a report.” for “The Board shall report to the Congress every two years on the state of the national sea grant college program.” in first sentence, and inserted “and provide a summary of research conducted under the program” after “section 1123(c) of this title” in second sentence. Former third sentence redesignated subsec. (b)(3).
+2020—Subsec. (b)(2). Pub. L. 116–221, § 5, substituted “Periodic” for “Biennial” in heading, substituted “The Board shall report to Congress at least once every four years on the state of the national sea grant college program and shall notify Congress of any significant changes to the state of the program not later than two years after the submission of such a report.” for “The Board shall report to the Congress every two years on the state of the national sea grant college program.” in first sentence, and inserted “and provide a summary of research conducted under the program” after “section 1123(c) of this title” in second sentence. Former third sentence redesignated subsec. (b)(3).
 
-Subsec. (b)(3). Pub. L. 116–221, § 11(2), designated third sentence of subsec. (b)(2) as par. (3) and inserted heading.
+Subsec. (b)(3). Pub. L. 116–221, § 11(2), designated third sentence of subsec. (b)(2) as par. (3) and inserted heading.
 
-2008—Pub. L. 110–394, § 9(a)(4)(A), substituted “National Sea Grant Advisory Board” for “Sea grant review panel” in section catchline.
+2008—Pub. L. 110–394, § 9(a)(4)(A), substituted “National Sea Grant Advisory Board” for “Sea grant review panel” in section catchline.
 
-Subsec. (a). Pub. L. 110–394, § 9(a)(4)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There shall be established an independent committee to be known as the sea grant review panel.”
+Subsec. (a). Pub. L. 110–394, § 9(a)(4)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There shall be established an independent committee to be known as the sea grant review panel.”
 
-Subsec. (b). Pub. L. 110–394, § 9(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to duties of sea grant review panel.
+Subsec. (b). Pub. L. 110–394, § 9(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to duties of sea grant review panel.
 
-Subsec. (c). Pub. L. 110–394, § 9(a)(4)(C)(iii), substituted “Board” for “panel” wherever appearing.
+Subsec. (c). Pub. L. 110–394, § 9(a)(4)(C)(iii), substituted “Board” for “panel” wherever appearing.
 
-Subsec. (c)(1). Pub. L. 110–394, § 9(c), inserted “coastal management,” after “resource management,” and “management,” after “development,”.
+Subsec. (c)(1). Pub. L. 110–394, § 9(c), inserted “coastal management,” after “resource management,” and “management,” after “development,”.
 
-Subsec. (c)(3). Pub. L. 110–394, § 9(d), substituted “The Director may extend the term of office of a voting member of the Board once by up to 1 year.” for “A voting member may serve after the date of the expiration of the term of office for which appointed until his or her successor has taken office.”
+Subsec. (c)(3). Pub. L. 110–394, § 9(d), substituted “The Director may extend the term of office of a voting member of the Board once by up to 1 year.” for “A voting member may serve after the date of the expiration of the term of office for which appointed until his or her successor has taken office.”
 
-Subsec. (c)(8). Pub. L. 110–394, § 9(e), added par. (8).
+Subsec. (c)(8). Pub. L. 110–394, § 9(e), added par. (8).
 
 2002—Subsec. (c)(2). Pub. L. 107–299 inserted first and second sentences and struck out former first sentence which read as follows: “The term of office of a voting member of the panel shall be 3 years, except that of the original appointees, five shall be appointed for a term of 1 year, five shall be appointed for a term of 2 years, and five shall be appointed for a term of 3 years.”
 
-1998—Subsec. (a). Pub. L. 105–160, § 8(a), struck out at end “The panel shall, on the 60th day after October 8, 1976, supersede the sea grant advisory panel in existence before October 8, 1976.”
+1998—Subsec. (a). Pub. L. 105–160, § 8(a), struck out at end “The panel shall, on the 60th day after October 8, 1976, supersede the sea grant advisory panel in existence before October 8, 1976.”
 
-Subsec. (b). Pub. L. 105–160, §§ 4(b)(1), 8(b)(1), inserted heading and in introductory provisions substituted “The panel” for “The Panel” and struck out “, the Under Secretary,” after “the Secretary”.
+Subsec. (b). Pub. L. 105–160, §§ 4(b)(1), 8(b)(1), inserted heading and in introductory provisions substituted “The panel” for “The Panel” and struck out “, the Under Secretary,” after “the Secretary”.
 
-Subsec. (b)(1). Pub. L. 105–160, § 8(b)(2), struck out “and section 1124a of this title” before semicolon at end.
+Subsec. (b)(1). Pub. L. 105–160, § 8(b)(2), struck out “and section 1124a of this title” before semicolon at end.
 
-Subsec. (b)(3). Pub. L. 105–160, § 8(b)(3), substituted “institutes” for “regional consortia”.
+Subsec. (b)(3). Pub. L. 105–160, § 8(b)(3), substituted “institutes” for “regional consortia”.
 
-Subsec. (c)(1)(A). Pub. L. 105–160, § 8(c)(1), substituted “college or sea grant institute” for “college, sea grant regional consortium, or sea grant program”.
+Subsec. (c)(1)(A). Pub. L. 105–160, § 8(c)(1), substituted “college or sea grant institute” for “college, sea grant regional consortium, or sea grant program”.
 
-Subsec. (c)(5)(A). Pub. L. 105–160, § 8(c)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “receive compensation at the daily rate for GS–18 of the General Schedule under section 5332 of title 5 when actually engaged in the performance of duties for such panel; and”.
+Subsec. (c)(5)(A). Pub. L. 105–160, § 8(c)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “receive compensation at the daily rate for GS–18 of the General Schedule under section 5332 of title 5 when actually engaged in the performance of duties for such panel; and”.
 
-1991—Subsec. (b)(1). Pub. L. 102–186, § 4(b)(1)(E), substituted “section 1124” for “sections 1124 and 1125”.
+1991—Subsec. (b)(1). Pub. L. 102–186, § 4(b)(1)(E), substituted “section 1124” for “sections 1124 and 1125”.
 
-Subsec. (c)(1). Pub. L. 102–186, §§ 4(b)(1)(F), 5(b)(2), inserted “marine affairs and resource management,” after “education,” in fourth sentence and struck out “or 1125” after “1124” in last sentence.
+Subsec. (c)(1). Pub. L. 102–186, §§ 4(b)(1)(F), 5(b)(2), inserted “marine affairs and resource management,” after “education,” in fourth sentence and struck out “or 1125” after “1124” in last sentence.
 
-1987—Subsec. (b). Pub. L. 100–220, § 3108(1), in introductory provisions, substituted “The Panel shall advise the Secretary, the Under Secretary, and the Director concerning—” for “The panel shall take such steps as may be necessary to review, and shall advise the Secretary, the Administrator, and the Director with respect to—”, and in par. (1), inserted “and section 1124a of this title”.
+1987—Subsec. (b). Pub. L. 100–220, § 3108(1), in introductory provisions, substituted “The Panel shall advise the Secretary, the Under Secretary, and the Director concerning—” for “The panel shall take such steps as may be necessary to review, and shall advise the Secretary, the Administrator, and the Director with respect to—”, and in par. (1), inserted “and section 1124a of this title”.
 
-Subsec. (c)(1). Pub. L. 100–220, §§ 3104(b)(1)(F), 3108(2)(A), (B), amended second sentence generally, substituted “8” for “five” in third sentence, and substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in fourth sentence. Prior to amendment, second sentence read as follows: “The Director shall serve as a nonvoting member of the panel.”
+Subsec. (c)(1). Pub. L. 100–220, §§ 3104(b)(1)(F), 3108(2)(A), (B), amended second sentence generally, substituted “8” for “five” in third sentence, and substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in fourth sentence. Prior to amendment, second sentence read as follows: “The Director shall serve as a nonvoting member of the panel.”
 
-Subsec. (c)(2). Pub. L. 100–220, § 3108(2)(C), inserted at end “At least once each year, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the panel.”
+Subsec. (c)(2). Pub. L. 100–220, § 3108(2)(C), inserted at end “At least once each year, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the panel.”
 
-Subsec. (c)(3). Pub. L. 100–220, § 3108(2)(D), struck out “, or until 90 days after such date, whichever is earlier” after “office” at end of second sentence.
+Subsec. (c)(3). Pub. L. 100–220, § 3108(2)(D), struck out “, or until 90 days after such date, whichever is earlier” after “office” at end of second sentence.
 
 1980—Subsec. (c)(3). Pub. L. 96–289 substituted authorization for reappointment for one additional full term of an appointee to a partial or full term for prior authorization for filling vacancies for remainder of appointee’s term and prohibition against status as a voting member after service of one full term as such voting member.
 
@@ -991,7 +991,7 @@ Subsec. (c)(3). Pub. L. 100–220, § 3108(2)(D), struck out “, or until 9
 
 **Change of Name**
 
-Pub. L. 110–394, § 9(a)(1)–(3), Oct. 13, 2008, 122 Stat. 4207, provided that:
+Pub. L. 110–394, § 9(a)(1)–(3), Oct. 13, 2008, 122 Stat. 4207, provided that:
 
 > **“(1) Redesignation.—** The sea grant review panel established by section 209 of the National Sea Grant College Program Act (33 U.S.C. 1128), as in effect before the date of the enactment of this Act [Oct. 13, 2008], is redesignated as the National Sea Grant Advisory Board.
 
@@ -999,7 +999,7 @@ Pub. L. 110–394, § 9(a)(1)–(3), Oct. 13, 2008, 122 Stat. 4207, provided t
 
 > **“(3) References.—** Any reference in a law, map, regulation, document, paper, or other record of the United States to such sea grant review panel is deemed to be a reference to the National Sea Grant Advisory Board.”
 
-### § 1129. Interagency cooperation
+### § 1129. Interagency cooperation
 
 Each department, agency, or other instrumentality of the Federal Government which is engaged in or concerned with, or which has authority over, matters relating to ocean, coastal, and Great Lakes resources—
 
@@ -1009,7 +1009,7 @@ Each department, agency, or other instrumentality of the Federal Government whic
 
 **(3)** shall cooperate with the Administration and duly authorized officials thereof.
 
-(Pub. L. 89–454, title II, § 210, as added Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 100–220, title III, § 3104(b)(1)(G), Dec. 29, 1987, 101 Stat. 1471.)
+(Pub. L. 89–454, title II, § 210, as added Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 100–220, title III, § 3104(b)(1)(G), Dec. 29, 1987, 101 Stat. 1471.)
 
 **Editorial Notes**
 
@@ -1017,11 +1017,11 @@ Each department, agency, or other instrumentality of the Federal Government whic
 
 1987—Pub. L. 100–220 substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in introductory provisions.
 
-### § 1130. Repealed. Pub. L. 102–186, § 5(a), Dec. 4, 1991, 105 Stat. 1283
+### § 1130. Repealed. Pub. L. 102–186, § 5(a), Dec. 4, 1991, 105 Stat. 1283
 
-Section, Pub. L. 89–454, title II, § 211, as added Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 95–428, §§ 2(b), 3(4), Oct. 7, 1978, 92 Stat. 999; Pub. L. 100–220, title III, § 3109, Dec. 29, 1987, 101 Stat. 1473, authorized grants for graduate programs in marine affairs and resource management during fiscal years 1988 through 1990.
+Section, Pub. L. 89–454, title II, § 211, as added Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 95–428, §§ 2(b), 3(4), Oct. 7, 1978, 92 Stat. 999; Pub. L. 100–220, title III, § 3109, Dec. 29, 1987, 101 Stat. 1473, authorized grants for graduate programs in marine affairs and resource management during fiscal years 1988 through 1990.
 
-### § 1131. Authorization of appropriations
+### § 1131. Authorization of appropriations
 
 **(a) Authorization**
 
@@ -1083,7 +1083,7 @@ Sums appropriated pursuant to this section shall remain available until expended
 
 The amount of any grant, or portion of a grant, made to a person under any section of this subchapter that is not obligated by that person during the first fiscal year for which it was authorized to be obligated or during the next fiscal year thereafter shall revert to the Secretary. The Secretary shall add that reverted amount to the funds available for grants under the section for which the reverted amount was originally made available.
 
-(Pub. L. 89–454, title II, § 212, as added Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 95–58, § 1, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, § 3(5), Oct. 7, 1978, 92 Stat. 1000; Pub. L. 96–289, § 1(6), June 28, 1980, 94 Stat. 605; Pub. L. 98–623, title V, § 501(a), Nov. 8, 1984, 98 Stat. 3410; Pub. L. 100–220, title III, § 3110, Dec. 29, 1987, 101 Stat. 1474; Pub. L. 102–186, § 3, Dec. 4, 1991, 105 Stat. 1282; Pub. L. 105–160, § 9(a), (b), Mar. 6, 1998, 112 Stat. 26; Pub. L. 107–299, § 7, Nov. 26, 2002, 116 Stat. 2347; Pub. L. 110–394, § 10, Oct. 13, 2008, 122 Stat. 4209; Pub. L. 116–221, § 9(a), (b), (c)(2), Dec. 18, 2020, 134 Stat. 1060, 1061.)
+(Pub. L. 89–454, title II, § 212, as added Pub. L. 94–461, § 2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 95–58, § 1, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, § 3(5), Oct. 7, 1978, 92 Stat. 1000; Pub. L. 96–289, § 1(6), June 28, 1980, 94 Stat. 605; Pub. L. 98–623, title V, § 501(a), Nov. 8, 1984, 98 Stat. 3410; Pub. L. 100–220, title III, § 3110, Dec. 29, 1987, 101 Stat. 1474; Pub. L. 102–186, § 3, Dec. 4, 1991, 105 Stat. 1282; Pub. L. 105–160, § 9(a), (b), Mar. 6, 1998, 112 Stat. 26; Pub. L. 107–299, § 7, Nov. 26, 2002, 116 Stat. 2347; Pub. L. 110–394, § 10, Oct. 13, 2008, 122 Stat. 4209; Pub. L. 116–221, § 9(a), (b), (c)(2), Dec. 18, 2020, 134 Stat. 1060, 1061.)
 
 **Editorial Notes**
 
@@ -1093,29 +1093,29 @@ This subchapter, referred to in subsec. (e), was in the original “this Act” 
 
 **Amendments**
 
-2020—Subsec. (a)(1). Pub. L. 116–221, § 9(a)(1), amended par. (1) generally. Prior to amendment, par. (1) authorized appropriations for fiscal years 2009 through 2014.
+2020—Subsec. (a)(1). Pub. L. 116–221, § 9(a)(1), amended par. (1) generally. Prior to amendment, par. (1) authorized appropriations for fiscal years 2009 through 2014.
 
-Subsec. (a)(2). Pub. L. 116–221, § 9(a)(2), amended par. (2) generally. Prior to amendment, par. (2) related to priority activities for fiscal years 2009 through 2014.
+Subsec. (a)(2). Pub. L. 116–221, § 9(a)(2), amended par. (2) generally. Prior to amendment, par. (2) related to priority activities for fiscal years 2009 through 2014.
 
-Subsec. (b)(1). Pub. L. 116–221, § 9(b), amended par. (1) generally. Prior to amendment, par. (1) related to limitations on amounts for administration of programs.
+Subsec. (b)(1). Pub. L. 116–221, § 9(b), amended par. (1) generally. Prior to amendment, par. (1) related to limitations on amounts for administration of programs.
 
-Subsecs. (c) to (e). Pub. L. 116–221, § 9(c)(2), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which related to distribution of excess funds.
+Subsecs. (c) to (e). Pub. L. 116–221, § 9(c)(2), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which related to distribution of excess funds.
 
-2008—Subsec. (a)(1). Pub. L. 110–394, § 10(1), added par. (1) and struck out former par. (1) which authorized appropriations for fiscal years 2003 through 2008.
+2008—Subsec. (a)(1). Pub. L. 110–394, § 10(1), added par. (1) and struck out former par. (1) which authorized appropriations for fiscal years 2003 through 2008.
 
-Subsec. (a)(2). Pub. L. 110–394, § 10(2)(A), substituted “fiscal years 2009 through 2014—” for “fiscal years 2003 through 2008—” in introductory provisions.
+Subsec. (a)(2). Pub. L. 110–394, § 10(2)(A), substituted “fiscal years 2009 through 2014—” for “fiscal years 2003 through 2008—” in introductory provisions.
 
-Subsec. (a)(2)(A). Pub. L. 110–394, § 10(2)(B), substituted “biology, prevention, and control of aquatic” for “biology and control of zebra mussels and other important aquatic”.
+Subsec. (a)(2)(A). Pub. L. 110–394, § 10(2)(B), substituted “biology, prevention, and control of aquatic” for “biology and control of zebra mussels and other important aquatic”.
 
-Subsec. (a)(2)(C). Pub. L. 110–394, § 10(2)(C), substituted “blooms; and” for “blooms, including Pfiesteria piscicida; and”.
+Subsec. (a)(2)(C). Pub. L. 110–394, § 10(2)(C), substituted “blooms; and” for “blooms, including Pfiesteria piscicida; and”.
 
-Subsec. (c)(1). Pub. L. 110–394, § 10(3), substituted “performance assessments” for “rating under section 1123(d)(3)(A) of this title”.
+Subsec. (c)(1). Pub. L. 110–394, § 10(3), substituted “performance assessments” for “rating under section 1123(d)(3)(A) of this title”.
 
-Subsec. (c)(2). Pub. L. 110–394, § 10(4), added par. (2) and struck out former par. (2) which read as follows: “national strategic investments authorized under section 1123(b)(4) of this title;”.
+Subsec. (c)(2). Pub. L. 110–394, § 10(4), added par. (2) and struck out former par. (2) which read as follows: “national strategic investments authorized under section 1123(b)(4) of this title;”.
 
 2002—Subsecs. (a) to (c). Pub. L. 107–299 amended subsecs. (a) to (c) generally, substituting provisions relating to authorization, limitations, and distribution of funds for provisions relating to authorization, program elements, and priority oyster disease research.
 
-1998—Subsec. (a). Pub. L. 105–160, § 9(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out the provisions of sections 1124 and 1127 of this title, and section 1124a of this title, an amount—
+1998—Subsec. (a). Pub. L. 105–160, § 9(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out the provisions of sections 1124 and 1127 of this title, and section 1124a of this title, an amount—
 
 “(1) for fiscal year 1991, not to exceed $44,398,000;
 
@@ -1127,7 +1127,7 @@ Subsec. (c)(2). Pub. L. 110–394, § 10(4), added par. (2) and struck out for
 
 “(5) for fiscal year 1995, not to exceed $51,261,000.”
 
-Subsec. (b). Pub. L. 105–160, § 9(b), inserted subsec. heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There is authorized to be appropriated for administration of this subchapter, including section 1128 of this title, by the National Sea Grant Office and the Administration, an amount—
+Subsec. (b). Pub. L. 105–160, § 9(b), inserted subsec. heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There is authorized to be appropriated for administration of this subchapter, including section 1128 of this title, by the National Sea Grant Office and the Administration, an amount—
 
 “(A) for fiscal year 1991, not to exceed $2,500,000;
 
@@ -1179,7 +1179,7 @@ Subsec. (b). Pub. L. 105–160, § 9(b), inserted subsec. heading and amended 
 
 **Notice of Reprogramming**
 
-Pub. L. 105–160, § 9(c), Mar. 6, 1998, 112 Stat. 26, provided that: “If any funds authorized by this section are subject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committees on Science [now Science, Space, and Technology] and Resources [now Natural Resources] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
+Pub. L. 105–160, § 9(c), Mar. 6, 1998, 112 Stat. 26, provided that: “If any funds authorized by this section are subject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committees on Science [now Science, Space, and Technology] and Resources [now Natural Resources] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
 
 ## SUBCHAPTER III—YOUNG FISHERMEN’S DEVELOPMENT
 
@@ -1189,7 +1189,7 @@ Pub. L. 105–160, § 9(c), Mar. 6, 1998, 112 Stat. 26, provided that: “If a
 
 This subchapter was enacted as part of the Young Fishermen’s Development Act, and not as part of titles I and II of Pub. L. 89–454 which comprise this chapter.
 
-### § 1141. Definitions
+### § 1141. Definitions
 
 In this subchapter:
 
@@ -1209,7 +1209,7 @@ The term “Tribal organization” has the meaning given the term “tribal orga
 
 **(C)** is a beginning commercial fisherman.
 
-(Pub. L. 116–289, § 2, Jan. 5, 2021, 134 Stat. 4886.)
+(Pub. L. 116–289, § 2, Jan. 5, 2021, 134 Stat. 4886.)
 
 **Editorial Notes**
 
@@ -1217,15 +1217,15 @@ The term “Tribal organization” has the meaning given the term “tribal orga
 
 Section was enacted as part of the Young Fishermen’s Development Act, and not as part of titles I and II of Pub. L. 89–454 which comprise this chapter.
 
-### § 1142. Establishment of program
+### § 1142. Establishment of program
 
-The Secretary of Commerce, acting through the National Sea Grant Office, shall establish a program to provide training, education, outreach, and technical assistance initiatives for young fishermen, to be known as the ‘Young Fishermen’s Development Grant Program’ (referred to in this section 1
+The Secretary of Commerce, acting through the National Sea Grant Office, shall establish a program to provide training, education, outreach, and technical assistance initiatives for young fishermen, to be known as the ‘Young Fishermen’s Development Grant Program’ (referred to in this section 1
 
-<sup>1</sup>  So in original. Probably should refer to this subchapter.
+<sup>1</sup> So in original. Probably should refer to this subchapter.
 
 as the ‘Program’).
 
-(Pub. L. 116–289, § 3, Jan. 5, 2021, 134 Stat. 4886.)
+(Pub. L. 116–289, § 3, Jan. 5, 2021, 134 Stat. 4886.)
 
 **Editorial Notes**
 
@@ -1233,7 +1233,7 @@ as the ‘Program’).
 
 Section was enacted as part of the Young Fishermen’s Development Act, and not as part of titles I and II of Pub. L. 89–454 which comprise this chapter.
 
-### § 1143. Grants
+### § 1143. Grants
 
 **(a) In general** In carrying out the Program, the Secretary shall make competitive grants to support new and established local and regional training, education, outreach, and technical assistance initiatives for young fishermen, including programs, workshops, and services relating to—
 
@@ -1305,9 +1305,9 @@ In making grants under this section, the Secretary shall, to the maximum extent 
 
 **(2)** community-based nongovernmental fishing organizations;
 
-**(3)** Federal and State agencies, including Regional Fishery Management Councils established under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851 et seq.); 1
+**(3)** Federal and State agencies, including Regional Fishery Management Councils established under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851 et seq.); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(4)** institutions of higher education with fisheries expertise and programs; and
 
@@ -1317,19 +1317,19 @@ In making grants under this section, the Secretary shall, to the maximum extent 
 
 A grant under this section may not be used to purchase any fishing license, permit, quota, or other harvesting right.
 
-(Pub. L. 116–289, § 4, Jan. 5, 2021, 134 Stat. 4886.)
+(Pub. L. 116–289, § 4, Jan. 5, 2021, 134 Stat. 4886.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f)(3), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. Title III of the Act is classified generally to subchapter IV (§ 1851 et seq.) of chapter 38 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f)(3), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. Title III of the Act is classified generally to subchapter IV (§ 1851 et seq.) of chapter 38 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 **Codification**
 
 Section was enacted as part of the Young Fishermen’s Development Act, and not as part of titles I and II of Pub. L. 89–454 which comprise this chapter.
 
-### § 1144. Funding
+### § 1144. Funding
 
 **(a) Authorizations**
 
@@ -1339,7 +1339,7 @@ There are authorized to be appropriated to carry out this subchapter $2,000,000 
 
 Funds to carry out the activities under this subchapter shall be derived from amounts authorized to be appropriated pursuant to the preceding subsection that are enacted after January 5, 2021.
 
-(Pub. L. 116–289, § 5, Jan. 5, 2021, 134 Stat. 4888.)
+(Pub. L. 116–289, § 5, Jan. 5, 2021, 134 Stat. 4888.)
 
 **Editorial Notes**
 

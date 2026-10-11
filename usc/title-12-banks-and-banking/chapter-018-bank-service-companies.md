@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 18—BANK SERVICE COMPANIES
 
-## § 1861. Short title and definitions
+## § 1861. Short title and definitions
 
 **(a) Short title**
 
@@ -53,37 +53,37 @@ This chapter may be cited as the “Bank Service Company Act”.
 
 **(9)** the terms “State depository institution”, “Federal depository institution”, “State savings association” and “Federal savings association” have the same meanings as in section 1813 of this title.
 
-(Pub. L. 87–856, § 1, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, § 709, Oct. 15, 1982, 96 Stat. 1540; Pub. L. 97–457, § 32(a), Jan. 12, 1983, 96 Stat. 2511; Pub. L. 104–208, div. A, title II, § 2613(a), (b), Sept. 30, 1996, 110 Stat. 3009–476; Pub. L. 109–351, title VI, § 602(b)(1), Oct. 13, 2006, 120 Stat. 1979; Pub. L. 111–203, title III, § 357(1), (2), July 21, 2010, 124 Stat. 1547, 1548.)
+(Pub. L. 87–856, § 1, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, § 709, Oct. 15, 1982, 96 Stat. 1540; Pub. L. 97–457, § 32(a), Jan. 12, 1983, 96 Stat. 2511; Pub. L. 104–208, div. A, title II, § 2613(a), (b), Sept. 30, 1996, 110 Stat. 3009–476; Pub. L. 109–351, title VI, § 602(b)(1), Oct. 13, 2006, 120 Stat. 1979; Pub. L. 111–203, title III, § 357(1), (2), July 21, 2010, 124 Stat. 1547, 1548.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (b)(4). Pub. L. 111–203, § 357(1), inserted “a savings association,” after “an insured bank,”, substituted “appropriate Federal banking agency” for “Director of the Office of Thrift Supervision”, and struck out “, the Federal Savings and Loan Insurance Corporation,” after “Federal Deposit Insurance Corporation”.
+2010—Subsec. (b)(4). Pub. L. 111–203, § 357(1), inserted “a savings association,” after “an insured bank,”, substituted “appropriate Federal banking agency” for “Director of the Office of Thrift Supervision”, and struck out “, the Federal Savings and Loan Insurance Corporation,” after “Federal Deposit Insurance Corporation”.
 
-Subsec. (b)(5). Pub. L. 111–203, § 357(2), substituted “terms ‘depository institution’ and ‘savings association’ have the same meanings as in section 1813” for “term ‘insured depository institution’ has the same meaning as in section 1813(c)”.
+Subsec. (b)(5). Pub. L. 111–203, § 357(2), substituted “terms ‘depository institution’ and ‘savings association’ have the same meanings as in section 1813” for “term ‘insured depository institution’ has the same meaning as in section 1813(c)”.
 
-2006—Subsec. (b)(2)(A)(ii), (B)(ii). Pub. L. 109–351, § 602(b)(1)(F), substituted “insured depository institutions” for “insured banks”.
+2006—Subsec. (b)(2)(A)(ii), (B)(ii). Pub. L. 109–351, § 602(b)(1)(F), substituted “insured depository institutions” for “insured banks”.
 
-Subsec. (b)(4). Pub. L. 109–351, § 602(b)(1)(A), inserted “, except when such term appears in connection with the term ‘insured depository institution’,” after “means” and substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
+Subsec. (b)(4). Pub. L. 109–351, § 602(b)(1)(A), inserted “, except when such term appears in connection with the term ‘insured depository institution’,” after “means” and substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
 
-Subsec. (b)(5). Pub. L. 109–351, § 602(b)(1)(B), added par. (5) and struck out former par. (5) which defined “insured bank”.
+Subsec. (b)(5). Pub. L. 109–351, § 602(b)(1)(B), added par. (5) and struck out former par. (5) which defined “insured bank”.
 
-Subsec. (b)(8). Pub. L. 109–351, § 602(b)(1)(G), substituted “means the insured depository institution” for “means the insured bank”, “insured depository institutions” for “insured banks” in two places, and “the depository institution’s appropriate” for “the bank’s appropriate”.
+Subsec. (b)(8). Pub. L. 109–351, § 602(b)(1)(G), substituted “means the insured depository institution” for “means the insured bank”, “insured depository institutions” for “insured banks” in two places, and “the depository institution’s appropriate” for “the bank’s appropriate”.
 
-Subsec. (b)(9). Pub. L. 109–351, § 602(b)(1)(C)–(E), added par. (9).
+Subsec. (b)(9). Pub. L. 109–351, § 602(b)(1)(C)–(E), added par. (9).
 
-1996—Subsec. (a). Pub. L. 104–208, § 2613(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “This chapter may be cited as the ‘Bank Service Corporation Act’.”
+1996—Subsec. (a). Pub. L. 104–208, § 2613(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “This chapter may be cited as the ‘Bank Service Corporation Act’.”
 
-Subsec. (b)(2). Pub. L. 104–208, § 2613(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘bank service corporation’ means a corporation organized to perform services authorized by this chapter, all of the capital stock of which is owned by one or more insured banks;”.
+Subsec. (b)(2). Pub. L. 104–208, § 2613(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘bank service corporation’ means a corporation organized to perform services authorized by this chapter, all of the capital stock of which is owned by one or more insured banks;”.
 
-Subsec. (b)(6). Pub. L. 104–208, § 2613(b)(2), substituted “company” for “corporation” and struck out “and” after semicolon at end.
+Subsec. (b)(6). Pub. L. 104–208, § 2613(b)(2), substituted “company” for “corporation” and struck out “and” after semicolon at end.
 
-Subsec. (b)(7). Pub. L. 104–208, § 2613(b)(3), added par. (7). Former par. (7) redesignated (8).
+Subsec. (b)(7). Pub. L. 104–208, § 2613(b)(3), added par. (7). Former par. (7) redesignated (8).
 
-Subsec. (b)(8). Pub. L. 104–208, § 2613(b)(4), substituted “company” for “corporation” wherever appearing and “equity” for “capital stock”.
+Subsec. (b)(8). Pub. L. 104–208, § 2613(b)(4), substituted “company” for “corporation” wherever appearing and “equity” for “capital stock”.
 
-Pub. L. 104–208, § 2613(b)(3), redesignated par. (7) as (8).
+Pub. L. 104–208, § 2613(b)(3), redesignated par. (7) as (8).
 
 1983—Subsec. (b)(4). Pub. L. 97–457 substituted “a” for “or another” after “insured bank,” and inserted reference to a financial institution insured by State law and eligible to be insured by certain Federal agencies.
 
@@ -101,11 +101,11 @@ Subsec. (d). Pub. L. 97–320 redesignated provisions of subsec. (d) as (b)(6).
 
 Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
-## § 1862. Amount of investment in bank service company
+## § 1862. Amount of investment in bank service company
 
 Notwithstanding any limitation or prohibition otherwise imposed by any provision of law exclusively relating to banks or savings associations, other than the limitation on the amount of investment by a Federal savings association contained in section 1464(c)(4)(B) of this title, an insured depository institution may invest not more than 10 per centum of paid-in and unimpaired capital and unimpaired surplus in a bank service company. No insured depository institution shall invest more than 5 per centum of its total assets in bank service companies.
 
-(Pub. L. 87–856, § 2, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, § 709, Oct. 15, 1982, 96 Stat. 1541; Pub. L. 104–208, div. A, title II, § 2613(c), Sept. 30, 1996, 110 Stat. 3009–477; Pub. L. 109–351, title VI, § 602(a), (b)(2), Oct. 13, 2006, 120 Stat. 1978, 1979.)
+(Pub. L. 87–856, § 2, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, § 709, Oct. 15, 1982, 96 Stat. 1541; Pub. L. 104–208, div. A, title II, § 2613(c), Sept. 30, 1996, 110 Stat. 3009–477; Pub. L. 109–351, title VI, § 602(a), (b)(2), Oct. 13, 2006, 120 Stat. 1978, 1979.)
 
 **Editorial Notes**
 
@@ -121,11 +121,11 @@ Notwithstanding any limitation or prohibition otherwise imposed by any provision
 
 “(b) If stock in a bank service corporation has been held by two banks, and one of such banks ceases to utilize the services of the corporation and ceases to hold stock in it, and leaves the other as the sole stockholding bank, the corporation may nevertheless continue to function as such and the other bank may continue to hold stock in it.”
 
-## § 1863. Permissible bank service company activities for depository institutions
+## § 1863. Permissible bank service company activities for depository institutions
 
 Without regard to the provisions of sections 1864 and 1865 of this title, an insured depository institution may invest in a bank service company that performs, and a bank service company may perform, the following services only for depository institutions: check and deposit sorting and posting, computation and posting of interest and other credits and charges, preparation and mailing of checks, statements, notices, and similar items, or any other clerical, bookkeeping, accounting, statistical, or similar functions performed for a depository institution.
 
-(Pub. L. 87–856, § 3, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, § 709, Oct. 15, 1982, 96 Stat. 1541; Pub. L. 104–208, div. A, title II, § 2613(d), Sept. 30, 1996, 110 Stat. 3009–477; Pub. L. 109–351, title VI, § 602(a), Oct. 13, 2006, 120 Stat. 1978.)
+(Pub. L. 87–856, § 3, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, § 709, Oct. 15, 1982, 96 Stat. 1541; Pub. L. 104–208, div. A, title II, § 2613(d), Sept. 30, 1996, 110 Stat. 3009–477; Pub. L. 109–351, title VI, § 602(a), Oct. 13, 2006, 120 Stat. 1978.)
 
 **Editorial Notes**
 
@@ -137,7 +137,7 @@ Without regard to the provisions of sections 1864 and 1865 of this title, an ins
 
 1982—Pub. L. 97–320 substituted provisions relating to permissible bank service corporation activities for depository institutions for provisions that a bank service corporation must provide bank services to a bank that applied for them if the applying bank competed with a bank which held stock in the corporation unless comparable services were available elsewhere at competitive cost or furnishing the services would be beyond the practical capacity of the corporation.
 
-## § 1864. Permissible bank service company activities for other persons
+## § 1864. Permissible bank service company activities for other persons
 
 **(a) Services permissible other than taking deposits**
 
@@ -167,35 +167,35 @@ A bank service company in which a national bank or Federal savings association i
 
 Notwithstanding the other provisions of this section or any other provision of law, other than the provisions of Federal and State branching law regulating the geographic location of banks or savings associations to the extent that those laws are applicable to an activity authorized by this subsection, a bank service company may perform at any geographic location any service, other than deposit taking, that the Board has determined, by regulation, to be permissible for a bank holding company under section 1843(c)(8) of this title as of the day before November 12, 1999.
 
-(Pub. L. 87–856, § 4, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, § 709, Oct. 15, 1982, 96 Stat. 1542; Pub. L. 97–457, § 32(b)(2), Jan. 12, 1983, 96 Stat. 2511; Pub. L. 104–208, div. A, title II, § 2613(e), Sept. 30, 1996, 110 Stat. 3009–477; Pub. L. 106–102, title I, § 102(b)(2), Nov. 12, 1999, 113 Stat. 1342; Pub. L. 109–351, title VI, § 602(b)(3), Oct. 13, 2006, 120 Stat. 1979.)
+(Pub. L. 87–856, § 4, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, § 709, Oct. 15, 1982, 96 Stat. 1542; Pub. L. 97–457, § 32(b)(2), Jan. 12, 1983, 96 Stat. 2511; Pub. L. 104–208, div. A, title II, § 2613(e), Sept. 30, 1996, 110 Stat. 3009–477; Pub. L. 106–102, title I, § 102(b)(2), Nov. 12, 1999, 113 Stat. 1342; Pub. L. 109–351, title VI, § 602(b)(3), Oct. 13, 2006, 120 Stat. 1979.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (b). Pub. L. 109–351, § 602(b)(3)(A), inserted “as permissible under subsection (c), (d), or (e) or” after “Except” in introductory provisions.
+2006—Subsec. (b). Pub. L. 109–351, § 602(b)(3)(A), inserted “as permissible under subsection (c), (d), or (e) or” after “Except” in introductory provisions.
 
-Subsec. (c). Pub. L. 109–351, § 602(b)(3)(B), inserted “or State savings association” after “State bank” wherever appearing.
+Subsec. (c). Pub. L. 109–351, § 602(b)(3)(B), inserted “or State savings association” after “State bank” wherever appearing.
 
-Subsec. (d). Pub. L. 109–351, § 602(b)(3)(C), inserted “or Federal savings association” after “national bank” wherever appearing.
+Subsec. (d). Pub. L. 109–351, § 602(b)(3)(C), inserted “or Federal savings association” after “national bank” wherever appearing.
 
-Subsec. (e). Pub. L. 109–351, § 602(b)(3)(D), inserted heading and amended text generally. Prior to amendment, text read as follows: “A bank service company that has both national bank and State bank shareholders or members shall perform only those services that may lawfully be performed by both any shareholder or member of the company which is a national bank under the law of the United States and any shareholder or member of the company which is a State bank under the law of the State in which any such State bank operate and shall perform such services only at locations in the State at which both its State bank and national bank shareholders or members could be authorized to perform such services.”
+Subsec. (e). Pub. L. 109–351, § 602(b)(3)(D), inserted heading and amended text generally. Prior to amendment, text read as follows: “A bank service company that has both national bank and State bank shareholders or members shall perform only those services that may lawfully be performed by both any shareholder or member of the company which is a national bank under the law of the United States and any shareholder or member of the company which is a State bank under the law of the State in which any such State bank operate and shall perform such services only at locations in the State at which both its State bank and national bank shareholders or members could be authorized to perform such services.”
 
-Subsec. (f). Pub. L. 109–351, § 602(b)(3)(E), inserted “or savings associations” after “location of banks”.
+Subsec. (f). Pub. L. 109–351, § 602(b)(3)(E), inserted “or savings associations” after “location of banks”.
 
 1999—Subsec. (f). Pub. L. 106–102 inserted before period at end “as of the day before November 12, 1999”.
 
-1996—Pub. L. 104–208, § 2613(e)(5), substituted “company” for “corporation” in section catchline.
+1996—Pub. L. 104–208, § 2613(e)(5), substituted “company” for “corporation” in section catchline.
 
-Subsec. (a). Pub. L. 104–208, § 2613(e)(1), substituted “company” for “corporation” in two places.
+Subsec. (a). Pub. L. 104–208, § 2613(e)(1), substituted “company” for “corporation” in two places.
 
-Subsec. (b). Pub. L. 104–208, § 2613(e)(1), (2), inserted “or members” after “shareholders” wherever appearing in text and substituted “company” for “corporation” in two places.
+Subsec. (b). Pub. L. 104–208, § 2613(e)(1), (2), inserted “or members” after “shareholders” wherever appearing in text and substituted “company” for “corporation” in two places.
 
-Subsecs. (c), (d). Pub. L. 104–208, § 2613(e)(1), (3), inserted “or member” after “shareholder” wherever appearing and substituted “company” for “corporation”.
+Subsecs. (c), (d). Pub. L. 104–208, § 2613(e)(1), (3), inserted “or member” after “shareholder” wherever appearing and substituted “company” for “corporation”.
 
-Subsec. (e). Pub. L. 104–208, § 2613(e)(1), (4), substituted “company” for “corporation”, “any shareholder or member of the company which is a national bank” for “its national bank shareholder or shareholders”, “any shareholder or member of the company which is a State bank” for “its State bank shareholder or shareholders”, and “any such State bank” for “such State bank or banks”, and inserted “or members” after “national bank and State bank shareholders” and after “State bank and national bank shareholders”.
+Subsec. (e). Pub. L. 104–208, § 2613(e)(1), (4), substituted “company” for “corporation”, “any shareholder or member of the company which is a national bank” for “its national bank shareholder or shareholders”, “any shareholder or member of the company which is a State bank” for “its State bank shareholder or shareholders”, and “any such State bank” for “such State bank or banks”, and inserted “or members” after “national bank and State bank shareholders” and after “State bank and national bank shareholders”.
 
-Subsec. (f). Pub. L. 104–208, § 2613(e)(1), substituted “company” for “corporation”.
+Subsec. (f). Pub. L. 104–208, § 2613(e)(1), substituted “company” for “corporation”.
 
 1983—Subsecs. (d), (e). Pub. L. 97–457 substituted “under the law of the United States” for “under this chapter”.
 
@@ -207,7 +207,7 @@ Subsec. (f). Pub. L. 104–208, § 2613(e)(1), substituted “company” for �
 
 Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as a note under section 24 of this title.
 
-## § 1865. Prior approval for investments in bank service companies
+## § 1865. Prior approval for investments in bank service companies
 
 **(a) Approval of Federal banking agency**
 
@@ -225,23 +225,23 @@ In determining whether to approve or deny any application for prior approval or 
 
 In the event the Board or the appropriate Federal banking agency, as the case may be, fails to act on any application under this section within ninety days of the submission of a complete application to the agency, the application shall be deemed approved.
 
-(Pub. L. 87–856, § 5, Oct. 23, 1962, 76 Stat. 1133; Pub. L. 95–630, title III, § 308, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title VII, § 709, Oct. 15, 1982, 96 Stat. 1542; Pub. L. 103–325, title III, § 323, Sept. 23, 1994, 108 Stat. 2227; Pub. L. 104–208, div. A, title II, § 2613(f), Sept. 30, 1996, 110 Stat. 3009–478; Pub. L. 109–351, title VI, § 602(b)(4), Oct. 13, 2006, 120 Stat. 1980.)
+(Pub. L. 87–856, § 5, Oct. 23, 1962, 76 Stat. 1133; Pub. L. 95–630, title III, § 308, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title VII, § 709, Oct. 15, 1982, 96 Stat. 1542; Pub. L. 103–325, title III, § 323, Sept. 23, 1994, 108 Stat. 2227; Pub. L. 104–208, div. A, title II, § 2613(f), Sept. 30, 1996, 110 Stat. 3009–478; Pub. L. 109–351, title VI, § 602(b)(4), Oct. 13, 2006, 120 Stat. 1980.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–351, § 602(b)(4)(A), substituted “insured depository institution” for “insured bank”, struck out “bank’s” before “appropriate Federal banking agency”, and inserted “for the insured depository institution” before period at end.
+2006—Subsec. (a). Pub. L. 109–351, § 602(b)(4)(A), substituted “insured depository institution” for “insured bank”, struck out “bank’s” before “appropriate Federal banking agency”, and inserted “for the insured depository institution” before period at end.
 
-Subsec. (b). Pub. L. 109–351, § 602(b)(4)(B), substituted “insured depository institution” for “insured bank” and inserted “authorized only” after “performs any service” and “perform any activity”.
+Subsec. (b). Pub. L. 109–351, § 602(b)(4)(B), substituted “insured depository institution” for “insured bank” and inserted “authorized only” after “performs any service” and “perform any activity”.
 
-Subsec. (c). Pub. L. 109–351, § 602(b)(4)(C), substituted “any insured depository institution” for “the bank or banks” and “capability of the insured depository institution” for “capability of the bank”.
+Subsec. (c). Pub. L. 109–351, § 602(b)(4)(C), substituted “any insured depository institution” for “the bank or banks” and “capability of the insured depository institution” for “capability of the bank”.
 
 1996—Pub. L. 104–208 substituted “companies” for “corporations” in section catchline and “company” for “corporation” wherever appearing in text.
 
-1994—Subsec. (a). Pub. L. 103–325, § 323(1), substituted “prior notice, as determined by” for “the prior approval of”.
+1994—Subsec. (a). Pub. L. 103–325, § 323(1), substituted “prior notice, as determined by” for “the prior approval of”.
 
-Subsec. (c). Pub. L. 103–325, § 323(2), inserted “or whether to approve or disapprove any notice” after “approval”.
+Subsec. (c). Pub. L. 103–325, § 323(2), inserted “or whether to approve or disapprove any notice” after “approval”.
 
 1982—Pub. L. 97–320 substituted provisions relating to prior approval for investments in bank service corporations for provisions relating to regulation and examination of bank services for a regularly examined bank or its subsidiary or affiliate whether performed on or off its premises. See section 1867(c) of this title.
 
@@ -253,7 +253,7 @@ Subsec. (c). Pub. L. 103–325, § 323(2), inserted “or whether to approve o
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
 
-## § 1866. Services to nonstockholders or nonmembers
+## § 1866. Services to nonstockholders or nonmembers
 
 No bank service company shall unreasonably discriminate in the provision of any services authorized under this chapter to any depository institution that does not own stock in or is not a member of the service company on the basis of the fact that such depository institution is in competition with an institution that owns stock in or is a member of the bank service company, except that—
 
@@ -261,17 +261,17 @@ No bank service company shall unreasonably discriminate in the provision of any 
 
 **(2)** a bank service company may refuse to provide services to a nonstockholding or nonmember institution if comparable services are available from another source at competitive overall costs, or if the providing of services would be beyond the practical capacity of the service company.
 
-(Pub. L. 87–856, § 6, Oct. 23, 1962, as added Pub. L. 97–320, title VII, § 709, Oct. 15, 1982, 96 Stat. 1543; amended Pub. L. 104–208, div. A, title II, § 2613(g), Sept. 30, 1996, 110 Stat. 3009–478.)
+(Pub. L. 87–856, § 6, Oct. 23, 1962, as added Pub. L. 97–320, title VII, § 709, Oct. 15, 1982, 96 Stat. 1543; amended Pub. L. 104–208, div. A, title II, § 2613(g), Sept. 30, 1996, 110 Stat. 3009–478.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Pub. L. 104–208, § 2613(g)(1)–(4), (6), in section catchline, inserted “or nonmembers” after “nonstockholders”, and in introductory provisions of text, substituted “company” for “corporation” wherever appearing and “such depository institution” for “the nonstockholding institution” and inserted “or is not a member of” after “does not own stock in” and “or is a member of” after “that owns stock in”.
+1996—Pub. L. 104–208, § 2613(g)(1)–(4), (6), in section catchline, inserted “or nonmembers” after “nonstockholders”, and in introductory provisions of text, substituted “company” for “corporation” wherever appearing and “such depository institution” for “the nonstockholding institution” and inserted “or is not a member of” after “does not own stock in” and “or is a member of” after “that owns stock in”.
 
-Pars. (1), (2). Pub. L. 104–208, § 2613(g)(1), (5), substituted “company” for “corporation” wherever appearing and inserted “or nonmember” after “nonstockholding”.
+Pars. (1), (2). Pub. L. 104–208, § 2613(g)(1), (5), substituted “company” for “corporation” wherever appearing and inserted “or nonmember” after “nonstockholding”.
 
-## § 1867. Regulation and examination of bank service companies
+## § 1867. Regulation and examination of bank service companies
 
 **(a) Principal investor**
 
@@ -291,7 +291,7 @@ A bank service company shall be subject to the provisions of section 1818 of thi
 
 The Board and the appropriate Federal banking agencies are authorized to issue such regulations and orders as may be necessary to enable them to administer and to carry out the purposes of this chapter and to prevent evasions thereof.
 
-(Pub. L. 87–856, § 7, Oct. 23, 1962, as added Pub. L. 97–320, title VII, § 709, Oct. 15, 1982, 96 Stat. 1543; amended Pub. L. 97–457, § 32(b)(1), Jan. 12, 1983, 96 Stat. 2511; Pub. L. 104–208, div. A, title II, § 2613(h), Sept. 30, 1996, 110 Stat. 3009–478; Pub. L. 109–351, title VI, § 602(b)(5), Oct. 13, 2006, 120 Stat. 1980; Pub. L. 111–203, title III, § 357(3), July 21, 2010, 124 Stat. 1548.)
+(Pub. L. 87–856, § 7, Oct. 23, 1962, as added Pub. L. 97–320, title VII, § 709, Oct. 15, 1982, 96 Stat. 1543; amended Pub. L. 97–457, § 32(b)(1), Jan. 12, 1983, 96 Stat. 2511; Pub. L. 104–208, div. A, title II, § 2613(h), Sept. 30, 1996, 110 Stat. 3009–478; Pub. L. 109–351, title VI, § 602(b)(5), Oct. 13, 2006, 120 Stat. 1980; Pub. L. 111–203, title III, § 357(3), July 21, 2010, 124 Stat. 1548.)
 
 **Editorial Notes**
 
@@ -299,15 +299,15 @@ The Board and the appropriate Federal banking agencies are authorized to issue s
 
 2010—Subsec. (c)(2). Pub. L. 111–203 inserted “each” after “notify”.
 
-2006—Subsec. (b). Pub. L. 109–351, § 602(b)(5)(A), substituted “insured depository institution” for “insured bank”.
+2006—Subsec. (b). Pub. L. 109–351, § 602(b)(5)(A), substituted “insured depository institution” for “insured bank”.
 
-Subsec. (c). Pub. L. 109–351, § 602(b)(5)(B), substituted “a depository institution” for “a bank” in two places in introductory provisions and “the depository institution” for “the bank” in pars. (1) and (2).
+Subsec. (c). Pub. L. 109–351, § 602(b)(5)(B), substituted “a depository institution” for “a bank” in two places in introductory provisions and “the depository institution” for “the bank” in pars. (1) and (2).
 
-1996—Pub. L. 104–208, § 2613(h)(3), substituted “companies” for “corporations” in section catchline.
+1996—Pub. L. 104–208, § 2613(h)(3), substituted “companies” for “corporations” in section catchline.
 
-Subsec. (a). Pub. L. 104–208, § 2613(h)(1), (2), substituted “company” for “corporation” wherever appearing and inserted “or principal member” after “principal shareholder” and “or member” after “other shareholder”.
+Subsec. (a). Pub. L. 104–208, § 2613(h)(1), (2), substituted “company” for “corporation” wherever appearing and inserted “or principal member” after “principal shareholder” and “or member” after “other shareholder”.
 
-Subsec. (b). Pub. L. 104–208, § 2613(h)(1), substituted “company” for “corporation” wherever appearing.
+Subsec. (b). Pub. L. 104–208, § 2613(h)(1), substituted “company” for “corporation” wherever appearing.
 
 1983—Subsec. (b). Pub. L. 97–457 substituted reference to section 1818 of this title for reference to the Financial Institutions Supervisory Act of 1966 (12 U.S.C. 1818(b) et seq.).
 

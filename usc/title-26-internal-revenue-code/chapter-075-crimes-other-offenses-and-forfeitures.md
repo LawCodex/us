@@ -23,23 +23,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1998—Pub. L. 105–206, title I, § 1105(b), July 22, 1998, 112 Stat. 711, added item 7217.
+1998—Pub. L. 105–206, title I, § 1105(b), July 22, 1998, 112 Stat. 711, added item 7217.
 
-1997—Pub. L. 105–35, § 2(b)(2), Aug. 5, 1997, 111 Stat. 1105, added item 7213A.
+1997—Pub. L. 105–35, § 2(b)(2), Aug. 5, 1997, 111 Stat. 1105, added item 7213A.
 
-1982—Pub. L. 97–248, title III, § 357(b)(2), Sept. 3, 1982, 96 Stat. 646, struck out item 7217 “Civil damages for unauthorized disclosure of returns and return information”.
+1982—Pub. L. 97–248, title III, § 357(b)(2), Sept. 3, 1982, 96 Stat. 646, struck out item 7217 “Civil damages for unauthorized disclosure of returns and return information”.
 
-1976—Pub. L. 94–455, title XII, § 1202(e)(2), Oct. 4, 1976, 90 Stat. 1687, added item 7217.
+1976—Pub. L. 94–455, title XII, § 1202(e)(2), Oct. 4, 1976, 90 Stat. 1687, added item 7217.
 
-1971—Pub. L. 92–178, title III, § 316(b), Dec. 10, 1971, 85 Stat. 529, added item 7216.
+1971—Pub. L. 92–178, title III, § 316(b), Dec. 10, 1971, 85 Stat. 529, added item 7216.
 
-1958—Pub. L. 85–321, § 3(b), Feb. 11, 1958, 72 Stat. 6, added item 7215.
+1958—Pub. L. 85–321, § 3(b), Feb. 11, 1958, 72 Stat. 6, added item 7215.
 
-#### § 7201. Attempt to evade or defeat tax
+#### § 7201. Attempt to evade or defeat tax
 
 Any person who willfully attempts in any manner to evade or defeat any tax imposed by this title or the payment thereof shall, in addition to other penalties provided by law, be guilty of a felony and, upon conviction thereof, shall be fined not more than $100,000 ($500,000 in the case of a corporation), or imprisoned not more than 5 years, or both, together with the costs of prosecution.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 851; Pub. L. 97–248, title III, § 329(a), Sept. 3, 1982, 96 Stat. 618.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 851; Pub. L. 97–248, title III, § 329(a), Sept. 3, 1982, 96 Stat. 618.)
 
 **Editorial Notes**
 
@@ -51,19 +51,19 @@ Any person who willfully attempts in any manner to evade or defeat any tax impos
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title III, § 329(e), Sept. 3, 1982, 96 Stat. 619, provided that: “The amendments made by this section [amending this section and sections 7203, 7206, and 7207 of this title] shall apply to offenses committed after the date of the enactment of this Act [Sept. 3, 1982].”
+Pub. L. 97–248, title III, § 329(e), Sept. 3, 1982, 96 Stat. 619, provided that: “The amendments made by this section [amending this section and sections 7203, 7206, and 7207 of this title] shall apply to offenses committed after the date of the enactment of this Act [Sept. 3, 1982].”
 
-#### § 7202. Willful failure to collect or pay over tax
+#### § 7202. Willful failure to collect or pay over tax
 
 Any person required under this title to collect, account for, and pay over any tax imposed by this title who willfully fails to collect or truthfully account for and pay over such tax shall, in addition to other penalties provided by law, be guilty of a felony and, upon conviction thereof, shall be fined not more than $10,000, or imprisoned not more than 5 years, or both, together with the costs of prosecution.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 851.)
 
-#### § 7203. Willful failure to file return, supply information, or pay tax
+#### § 7203. Willful failure to file return, supply information, or pay tax
 
 Any person required under this title to pay any estimated tax or tax, or required by this title or by regulations made under authority thereof to make a return, keep any records, or supply any information, who willfully fails to pay such estimated tax or tax, make such return, keep such records, or supply such information, at the time or times required by law or regulations, shall, in addition to other penalties provided by law, be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $25,000 ($100,000 in the case of a corporation), or imprisoned not more than 1 year, or both, together with the costs of prosecution. In the case of any person with respect to whom there is a failure to pay any estimated tax, this section shall not apply to such person with respect to such failure if there is no addition to tax under section 6654 or 6655 with respect to such failure. In the case of a willful violation of any provision of section 6050I, the first sentence of this section shall be applied by substituting “felony” for “misdemeanor” and “5 years” for “1 year”.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 851; Pub. L. 90–364, title I, § 103(e)(5), June 28, 1968, 82 Stat. 264; Pub. L. 97–248, title III, §§ 327, 329(b), Sept. 3, 1982, 96 Stat. 617, 618; Pub. L. 98–369, div. A, title IV, § 412(b)(9), July 18, 1984, 98 Stat. 792; Pub. L. 100–690, title VII, § 7601(a)(2)(B), Nov. 18, 1988, 102 Stat. 4504; Pub. L. 101–647, title XXXIII, § 3303(a), Nov. 29, 1990, 104 Stat. 4918.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 851; Pub. L. 90–364, title I, § 103(e)(5), June 28, 1968, 82 Stat. 264; Pub. L. 97–248, title III, §§ 327, 329(b), Sept. 3, 1982, 96 Stat. 617, 618; Pub. L. 98–369, div. A, title IV, § 412(b)(9), July 18, 1984, 98 Stat. 792; Pub. L. 100–690, title VII, § 7601(a)(2)(B), Nov. 18, 1988, 102 Stat. 4504; Pub. L. 101–647, title XXXIII, § 3303(a), Nov. 29, 1990, 104 Stat. 4918.)
 
 **Editorial Notes**
 
@@ -75,9 +75,9 @@ Any person required under this title to pay any estimated tax or tax, or require
 
 1984—Pub. L. 98–369 struck out “(other than a return required under the authority of section 6015)” after “to make a return”.
 
-1982—Pub. L. 97–248, § 329(b), substituted “$25,000 ($100,000 in the case of a corporation)” for “$10,000”.
+1982—Pub. L. 97–248, § 329(b), substituted “$25,000 ($100,000 in the case of a corporation)” for “$10,000”.
 
-Pub. L. 97–248, § 327, inserted last sentence providing that, in the case of any person with respect to whom there is a failure to pay any estimated tax, this section shall not apply to such person with respect to such failure if there is no addition to tax under section 6654 or 6655 with respect to such failure.
+Pub. L. 97–248, § 327, inserted last sentence providing that, in the case of any person with respect to whom there is a failure to pay any estimated tax, this section shall not apply to such person with respect to such failure if there is no addition to tax under section 6654 or 6655 with respect to such failure.
 
 1968—Pub. L. 90–364 struck out reference to section 6016.
 
@@ -85,7 +85,7 @@ Pub. L. 97–248, § 327, inserted last sentence providing that, in the case o
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–647, title XXXIII, § 3303(c), Nov. 29, 1990, 104 Stat. 4918, provided that: “The amendment made by subsection (a) [amending this section] shall apply to actions, and failures to act, occurring after the date of the enactment of this Act [Nov. 29, 1990].”
+Pub. L. 101–647, title XXXIII, § 3303(c), Nov. 29, 1990, 104 Stat. 4918, provided that: “The amendment made by subsection (a) [amending this section] shall apply to actions, and failures to act, occurring after the date of the enactment of this Act [Nov. 29, 1990].”
 
 **Effective Date of 1988 Amendment**
 
@@ -103,13 +103,13 @@ Amendment by section 329(b) of Pub. L. 97–248 applicable to offenses committed
 
 Amendment by Pub. L. 90–364 applicable with respect to taxable years beginning after Dec. 31, 1967, except as provided by section 104 of Pub. L. 90–364, see section 103(f) of Pub. L. 90–364, set out as a note under section 243 of this title.
 
-#### § 7204. Fraudulent statement or failure to make statement to employees
+#### § 7204. Fraudulent statement or failure to make statement to employees
 
 In lieu of any other penalty provided by law (except the penalty provided by section 6674) any person required under the provisions of section 6051 to furnish a statement who willfully furnishes a false or fraudulent statement or who willfully fails to furnish a statement in the manner, at the time, and showing the information required under section 6051, or regulations prescribed thereunder, shall, for each such offense, upon conviction thereof, be fined not more than $1,000, or imprisoned not more than 1 year, or both.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 852.)
 
-#### § 7205. Fraudulent withholding exemption certificate or failure to supply information
+#### § 7205. Fraudulent withholding exemption certificate or failure to supply information
 
 **(a) Withholding on wages**
 
@@ -119,7 +119,7 @@ Any individual required to supply information to his employer under section 3402
 
 If any individual willfully makes a false certification under paragraph (1) or (2)(C) of section 3406(d), then such individual shall, in addition to any other penalty provided by law, upon conviction thereof, be fined not more than $1,000, or imprisoned not more than 1 year, or both.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 852; Pub. L. 89–368, title I, § 101(e)(5), Mar. 15, 1966, 80 Stat. 62; Pub. L. 97–34, title VII, § 721(b), Aug. 13, 1981, 95 Stat. 341; Pub. L. 97–248, title III, §§ 306(b), 308(a), Sept. 3, 1982, 96 Stat. 588, 591; Pub. L. 98–67, title I, §§ 102(a), 107(b), Aug. 5, 1983, 97 Stat. 369, 382; Pub. L. 98–369, div. A, title I, § 159(a), July 18, 1984, 98 Stat. 696; Pub. L. 101–239, title VII, § 7711(b)(2), Dec. 19, 1989, 103 Stat. 2393.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 852; Pub. L. 89–368, title I, § 101(e)(5), Mar. 15, 1966, 80 Stat. 62; Pub. L. 97–34, title VII, § 721(b), Aug. 13, 1981, 95 Stat. 341; Pub. L. 97–248, title III, §§ 306(b), 308(a), Sept. 3, 1982, 96 Stat. 588, 591; Pub. L. 98–67, title I, §§ 102(a), 107(b), Aug. 5, 1983, 97 Stat. 369, 382; Pub. L. 98–369, div. A, title I, § 159(a), July 18, 1984, 98 Stat. 696; Pub. L. 101–239, title VII, § 7711(b)(2), Dec. 19, 1989, 103 Stat. 2393.)
 
 **Editorial Notes**
 
@@ -137,7 +137,7 @@ then such individual shall, in addition to any other penalty provided by law, up
 
 1983—Pub. L. 98–67 designated existing provisions as subsec. (a), added subsec. (b), and repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-1982—Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, this section is amended by designating the existing provisions as subsec. (a) with a heading of “Withholding on wages”, and by adding a new subsec. (b). Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§ 301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted. Subsec. (b), referred to above, read as follows:
+1982—Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, this section is amended by designating the existing provisions as subsec. (a) with a heading of “Withholding on wages”, and by adding a new subsec. (b). Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§ 301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted. Subsec. (b), referred to above, read as follows:
 
 **“(b) Withholding of interest and dividends**
 
@@ -161,7 +161,7 @@ Amendment by Pub. L. 101–239 applicable to returns and statements the due date
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 159(b), July 18, 1984, 98 Stat. 696, provided that: “The amendments made by this section [amending this section] shall apply to actions and failures to act occurring after the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title I, § 159(b), July 18, 1984, 98 Stat. 696, provided that: “The amendments made by this section [amending this section] shall apply to actions and failures to act occurring after the date of the enactment of this Act [July 18, 1984].”
 
 **Effective Date of 1983 Amendment**
 
@@ -171,7 +171,7 @@ Amendment by section 107(b) of Pub. L. 98–67 effective Aug. 5, 1983, see secti
 
 Amendment by Pub. L. 97–34 applicable to acts and failures to act after Dec. 31, 1981, see section 721(d) of Pub. L. 97–34, set out as a note under section 6682 of this title.
 
-#### § 7206. Fraud and false statements
+#### § 7206. Fraud and false statements
 
 Any person who—
 
@@ -203,7 +203,7 @@ Receives, withholds, destroys, mutilates, or falsifies any book, document, or re
 
 shall be guilty of a felony and, upon conviction thereof, shall be fined not more than $100,000 ($500,000 in the case of a corporation), or imprisoned not more than 3 years, or both, together with the costs of prosecution.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 852; Pub. L. 97–248, title III, § 329(c), Sept. 3, 1982, 96 Stat. 618.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 852; Pub. L. 97–248, title III, § 329(c), Sept. 3, 1982, 96 Stat. 618.)
 
 **Editorial Notes**
 
@@ -217,11 +217,11 @@ shall be guilty of a felony and, upon conviction thereof, shall be fined not mor
 
 Amendment by Pub. L. 97–248 applicable to offenses committed after Sept. 3, 1982, see section 329(e) of Pub. L. 97–248, set out as a note under section 7201 of this title.
 
-#### § 7207. Fraudulent returns, statements, or other documents
+#### § 7207. Fraudulent returns, statements, or other documents
 
 Any person who willfully delivers or discloses to the Secretary any list, return, account, statement, or other document, known by him to be fraudulent or to be false as to any material matter, shall be fined not more than $10,000 ($50,000 in the case of a corporation), or imprisoned not more than 1 year, or both. Any person required pursuant to section 6047(b), section 6104(d), or subsection (i) or (j) of section 527 to furnish any information to the Secretary or any other person who willfully furnishes to the Secretary or such other person any information known by him to be fraudulent or to be false as to any material matter shall be fined not more than $10,000 ($50,000 in the case of a corporation), or imprisoned not more than 1 year, or both.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 853; Pub. L. 87–792, § 7(m)(3), Oct. 10, 1962, 76 Stat. 831; Pub. L. 91–172, title I, § 101(e)(5), Dec. 30, 1969, 83 Stat. 524; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–603, § 1(d)(5), Dec. 28, 1980, 94 Stat. 3505; Pub. L. 97–248, title III, § 329(d), Sept. 3, 1982, 96 Stat. 619; Pub. L. 98–369, div. A, title IV, § 491(d)(51), July 18, 1984, 98 Stat. 852; Pub. L. 100–203, title X, § 10704(c), Dec. 22, 1987, 101 Stat. 1330–463; Pub. L. 105–277, div. J, title I, § 1004(b)(2)(E), Oct. 21, 1998, 112 Stat. 2681–890; Pub. L. 107–276, § 6(d), Nov. 2, 2002, 116 Stat. 1933.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 853; Pub. L. 87–792, § 7(m)(3), Oct. 10, 1962, 76 Stat. 831; Pub. L. 91–172, title I, § 101(e)(5), Dec. 30, 1969, 83 Stat. 524; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–603, § 1(d)(5), Dec. 28, 1980, 94 Stat. 3505; Pub. L. 97–248, title III, § 329(d), Sept. 3, 1982, 96 Stat. 619; Pub. L. 98–369, div. A, title IV, § 491(d)(51), July 18, 1984, 98 Stat. 852; Pub. L. 100–203, title X, § 10704(c), Dec. 22, 1987, 101 Stat. 1330–463; Pub. L. 105–277, div. J, title I, § 1004(b)(2)(E), Oct. 21, 1998, 112 Stat. 2681–890; Pub. L. 107–276, § 6(d), Nov. 2, 2002, 116 Stat. 1933.)
 
 **Editorial Notes**
 
@@ -249,7 +249,7 @@ Any person who willfully delivers or discloses to the Secretary any list, return
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–276, § 6(h)(3), Nov. 2, 2002, 116 Stat. 1934, provided that: “The amendment made by subsection (d) [amending this section] shall apply to reports and notices required to be filed on or after the date of the enactment of this Act [Nov. 2, 2002].”
+Pub. L. 107–276, § 6(h)(3), Nov. 2, 2002, 116 Stat. 1934, provided that: “The amendment made by subsection (d) [amending this section] shall apply to reports and notices required to be filed on or after the date of the enactment of this Act [Nov. 2, 2002].”
 
 **Effective Date of 1998 Amendment**
 
@@ -281,9 +281,9 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 **Annual Reports**
 
-Pub. L. 110–428, § 2(e), Oct. 15, 2008, 122 Stat. 4840, provided that: “The Secretary of the Treasury shall annually submit to Congress and make publicly available a report on the filing of false and fraudulent returns by individuals incarcerated in Federal and State prisons. Such report shall include statistics on the number of false and fraudulent returns associated with each Federal and State prison.”
+Pub. L. 110–428, § 2(e), Oct. 15, 2008, 122 Stat. 4840, provided that: “The Secretary of the Treasury shall annually submit to Congress and make publicly available a report on the filing of false and fraudulent returns by individuals incarcerated in Federal and State prisons. Such report shall include statistics on the number of false and fraudulent returns associated with each Federal and State prison.”
 
-#### § 7208. Offenses relating to stamps
+#### § 7208. Offenses relating to stamps
 
 Any person who—
 
@@ -325,11 +325,11 @@ shall be guilty of a felony and, upon conviction thereof, shall be fined not mor
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 853.)
 
-#### § 7209. Unauthorized use or sale of stamps
+#### § 7209. Unauthorized use or sale of stamps
 
 Any person who buys, sells, offers for sale, uses, transfers, takes or gives in exchange, or pledges or gives in pledge, except as authorized in this title or in regulations made pursuant thereto, any stamp, coupon, ticket, book, or other device prescribed by the Secretary under this title for the collection or payment of any tax imposed by this title, shall, upon conviction thereof, be fined not more than $1,000, or imprisoned not more than 6 months, or both.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 854; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 854; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -337,21 +337,21 @@ Any person who buys, sells, offers for sale, uses, transfers, takes or gives in 
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### § 7210. Failure to obey summons
+#### § 7210. Failure to obey summons
 
 Any person who, being duly summoned to appear to testify, or to appear and produce books, accounts, records, memoranda, or other papers, as required under sections 6420(e)(2), 6421(g)(2), 6427(j)(2), 7602, 7603, and 7604(b), neglects to appear or to produce such books, accounts, records, memoranda, or other papers, shall, upon conviction thereof, be fined not more than $1,000, or imprisoned not more than 1 year, or both, together with costs of prosecution.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 854; Apr. 2, 1956, ch. 160, § 4(h), 70 Stat. 91; June 29, 1956, ch. 462, title II, § 208(d)(3), 70 Stat. 396; Pub. L. 89–44, title II, § 202(c)(4), June 21, 1965, 79 Stat. 139; Pub. L. 91–258, title II, § 207(d)(9), May 21, 1970, 84 Stat. 249; Pub. L. 94–530, § 1(c)(6), Oct. 17, 1976, 90 Stat. 2488; Pub. L. 95–599, title V, § 505(c)(5), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 96–223, title II, § 232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, § 515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IX, § 911(d)(2)(G), July 18, 1984, 98 Stat. 1007; Pub. L. 99–514, title XVII, § 1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2778; Pub. L. 100–647, title I, § 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3576, 3577.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 854; Apr. 2, 1956, ch. 160, § 4(h), 70 Stat. 91; June 29, 1956, ch. 462, title II, § 208(d)(3), 70 Stat. 396; Pub. L. 89–44, title II, § 202(c)(4), June 21, 1965, 79 Stat. 139; Pub. L. 91–258, title II, § 207(d)(9), May 21, 1970, 84 Stat. 249; Pub. L. 94–530, § 1(c)(6), Oct. 17, 1976, 90 Stat. 2488; Pub. L. 95–599, title V, § 505(c)(5), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 96–223, title II, § 232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, § 515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IX, § 911(d)(2)(G), July 18, 1984, 98 Stat. 1007; Pub. L. 99–514, title XVII, § 1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2778; Pub. L. 100–647, title I, § 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3576, 3577.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Pub. L. 100–647, § 1017(c)(12), made technical correction to language of Pub. L. 99–514, § 1703(e)(2)(G), see 1986 Amendment note below.
+1988—Pub. L. 100–647, § 1017(c)(12), made technical correction to language of Pub. L. 99–514, § 1703(e)(2)(G), see 1986 Amendment note below.
 
-Pub. L. 100–647, § 1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
+Pub. L. 100–647, § 1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
 
-1986—Pub. L. 99–514, as amended by Pub. L. 100–647, § 1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
+1986—Pub. L. 99–514, as amended by Pub. L. 100–647, § 1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
 
 1984—Pub. L. 98–369 substituted “6427(i)(2)” for “6427(h)(2)”.
 
@@ -413,7 +413,7 @@ Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 701(a)(1), (2),
 
 Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act June 29, 1956, set out as a note under section 4041 of this title.
 
-#### § 7211. False statements to purchasers or lessees relating to tax
+#### § 7211. False statements to purchasers or lessees relating to tax
 
 Whoever in connection with the sale or lease, or offer for sale or lease, of any article, or for the purpose of making such sale or lease, makes any statement, written or oral—
 
@@ -425,7 +425,7 @@ knowing that such statement is false or that the tax is not so great as the port
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 854.)
 
-#### § 7212. Attempts to interfere with administration of internal revenue laws
+#### § 7212. Attempts to interfere with administration of internal revenue laws
 
 **(a) Corrupt or forcible interference**
 
@@ -437,7 +437,7 @@ Any person who forcibly rescues or causes to be rescued any property after it sh
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 855.)
 
-#### § 7213. Unauthorized disclosure of information
+#### § 7213. Unauthorized disclosure of information
 
 **(a) Returns and return information**
 
@@ -483,17 +483,17 @@ For penalty for disclosure or use of information by preparers of returns, see se
 
 For penalties for disclosure of confidential information by any officer or employee of the United States or any department or agency thereof, see 18 U.S.C. 1905.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 855; Pub. L. 85–866, title I, § 90(c), Sept. 2, 1958, 72 Stat. 1666; Pub. L. 86–778, title I, § 103(s), Sept. 13, 1960, 74 Stat. 940; Pub. L. 94–455, title XII, § 1202(d), (h)(3), Oct. 4, 1976, 90 Stat. 1686, 1688; Pub. L. 95–600, title VII, § 701(bb)(1)(C), (6), Nov. 6, 1978, 92 Stat. 2922, 2923; Pub. L. 96–249, title I, § 127(a)(2)(D), May 26, 1980, 94 Stat. 366; Pub. L. 96–265, title IV, § 408(a)(2)(D), June 9, 1980, 94 Stat. 468, as amended Pub. L. 96–611, § 11(a)(2)(B)(iv), Dec. 28, 1980, 94 Stat. 3574; Pub. L. 96–499, title III, § 302(b), Dec. 5, 1980, 94 Stat. 2604; Pub. L. 96–611, § 11(a)(4)(A), Dec. 28, 1980, 94 Stat. 3574; Pub. L. 97–248, title III, § 356(b)(2), Sept. 3, 1982, 96 Stat. 645; Pub. L. 97–365, § 8(c)(2), Oct. 25, 1982, 96 Stat. 1754; Pub. L. 98–369, div. A, title IV, § 453(b)(4), div. B, title VI, § 2653(b)(4), July 18, 1984, 98 Stat. 820, 1156; Pub. L. 98–378, § 21(f)(5), Aug. 16, 1984, 98 Stat. 1326; Pub. L. 100–485, title VII, § 701(b)(2)(C), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title VIII, § 8008(c)(2)(B), Nov. 10, 1988, 102 Stat. 3787; Pub. L. 101–239, title VI, § 6202(a)(1)(C), Dec. 19, 1989, 103 Stat. 2228; Pub. L. 101–508, title V, § 5111(b)(3), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 104–168, title XII, § 1206(b)(5), July 30, 1996, 110 Stat. 1473; Pub. L. 105–33, title XI, § 11024(b)(8), Aug. 5, 1997, 111 Stat. 722; Pub. L. 105–35, § 2(b)(1), Aug. 5, 1997, 111 Stat. 1104; Pub. L. 105–206, title III, § 3413(b), July 22, 1998, 112 Stat. 754; Pub. L. 107–134, title II, § 201(c)(10), Jan. 23, 2002, 115 Stat. 2444; Pub. L. 108–173, title I, § 105(e)(4), title VIII, § 811(c)(2)(C), Dec. 8, 2003, 117 Stat. 2167, 2369; Pub. L. 109–280, title XII, § 1224(b)(5), Aug. 17, 2006, 120 Stat. 1093; Pub. L. 111–148, title I, § 1414(d), Mar. 23, 2010, 124 Stat. 237; Pub. L. 112–240, title II, § 209(b)(3), Jan. 2, 2013, 126 Stat. 2326; Pub. L. 114–184, § 2(b)(2)(C), June 30, 2016, 130 Stat. 537; Pub. L. 116–25, title I, § 1405(a)(2)(B), title II, § 2003(c)(2)(B), July 1, 2019, 133 Stat. 998, 1003; Pub. L. 116–260, div. N, title II, § 283(b)(2)(C), div. FF, title I, § 102(b)(2)(C), Dec. 27, 2020, 134 Stat. 1985, 3084.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 855; Pub. L. 85–866, title I, § 90(c), Sept. 2, 1958, 72 Stat. 1666; Pub. L. 86–778, title I, § 103(s), Sept. 13, 1960, 74 Stat. 940; Pub. L. 94–455, title XII, § 1202(d), (h)(3), Oct. 4, 1976, 90 Stat. 1686, 1688; Pub. L. 95–600, title VII, § 701(bb)(1)(C), (6), Nov. 6, 1978, 92 Stat. 2922, 2923; Pub. L. 96–249, title I, § 127(a)(2)(D), May 26, 1980, 94 Stat. 366; Pub. L. 96–265, title IV, § 408(a)(2)(D), June 9, 1980, 94 Stat. 468, as amended Pub. L. 96–611, § 11(a)(2)(B)(iv), Dec. 28, 1980, 94 Stat. 3574; Pub. L. 96–499, title III, § 302(b), Dec. 5, 1980, 94 Stat. 2604; Pub. L. 96–611, § 11(a)(4)(A), Dec. 28, 1980, 94 Stat. 3574; Pub. L. 97–248, title III, § 356(b)(2), Sept. 3, 1982, 96 Stat. 645; Pub. L. 97–365, § 8(c)(2), Oct. 25, 1982, 96 Stat. 1754; Pub. L. 98–369, div. A, title IV, § 453(b)(4), div. B, title VI, § 2653(b)(4), July 18, 1984, 98 Stat. 820, 1156; Pub. L. 98–378, § 21(f)(5), Aug. 16, 1984, 98 Stat. 1326; Pub. L. 100–485, title VII, § 701(b)(2)(C), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title VIII, § 8008(c)(2)(B), Nov. 10, 1988, 102 Stat. 3787; Pub. L. 101–239, title VI, § 6202(a)(1)(C), Dec. 19, 1989, 103 Stat. 2228; Pub. L. 101–508, title V, § 5111(b)(3), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 104–168, title XII, § 1206(b)(5), July 30, 1996, 110 Stat. 1473; Pub. L. 105–33, title XI, § 11024(b)(8), Aug. 5, 1997, 111 Stat. 722; Pub. L. 105–35, § 2(b)(1), Aug. 5, 1997, 111 Stat. 1104; Pub. L. 105–206, title III, § 3413(b), July 22, 1998, 112 Stat. 754; Pub. L. 107–134, title II, § 201(c)(10), Jan. 23, 2002, 115 Stat. 2444; Pub. L. 108–173, title I, § 105(e)(4), title VIII, § 811(c)(2)(C), Dec. 8, 2003, 117 Stat. 2167, 2369; Pub. L. 109–280, title XII, § 1224(b)(5), Aug. 17, 2006, 120 Stat. 1093; Pub. L. 111–148, title I, § 1414(d), Mar. 23, 2010, 124 Stat. 237; Pub. L. 112–240, title II, § 209(b)(3), Jan. 2, 2013, 126 Stat. 2326; Pub. L. 114–184, § 2(b)(2)(C), June 30, 2016, 130 Stat. 537; Pub. L. 116–25, title I, § 1405(a)(2)(B), title II, § 2003(c)(2)(B), July 1, 2019, 133 Stat. 998, 1003; Pub. L. 116–260, div. N, title II, § 283(b)(2)(C), div. FF, title I, § 102(b)(2)(C), Dec. 27, 2020, 134 Stat. 1985, 3084.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (a)(2). Pub. L. 116–260, div. N, § 283(b)(2)(C), and div. FF, § 102(b)(2)(C), amended par. (2) identically, substituting “(k)(10), (13), (14), or (15)” for “(k)(10), (13), or (14)”.
+2020—Subsec. (a)(2). Pub. L. 116–260, div. N, § 283(b)(2)(C), and div. FF, § 102(b)(2)(C), amended par. (2) identically, substituting “(k)(10), (13), (14), or (15)” for “(k)(10), (13), or (14)”.
 
-2019—Subsec. (a)(2). Pub. L. 116–25, § 2003(c)(2)(B), substituted “, (13), or (14)” for “or (13)”.
+2019—Subsec. (a)(2). Pub. L. 116–25, § 2003(c)(2)(B), substituted “, (13), or (14)” for “or (13)”.
 
-Pub. L. 116–25, § 1405(a)(2)(B), substituted “(k)(10) or (13)” for “(k)(10)”.
+Pub. L. 116–25, § 1405(a)(2)(B), substituted “(k)(10) or (13)” for “(k)(10)”.
 
 2016—Subsec. (a)(2). Pub. L. 114–184 substituted “(i)(1)(C), (3)(B)(i),” for “(i)(3)(B)(i)”.
 
@@ -503,9 +503,9 @@ Pub. L. 116–25, § 1405(a)(2)(B), substituted “(k)(10) or (13)” for “(
 
 2006—Subsec. (a)(2). Pub. L. 109–280, which directed insertion of “or under section 6104(c)” after “6103” in subsec. (a)(2) of section 7213, without specifying the act to be amended, was executed by making the insertion in subsec. (a)(2) of this section, which is section 7213 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-2003—Subsec. (a)(2). Pub. L. 108–173, § 811(c)(2)(C), substituted “(19), or (20)” for “or (19)”.
+2003—Subsec. (a)(2). Pub. L. 108–173, § 811(c)(2)(C), substituted “(19), or (20)” for “or (19)”.
 
-Pub. L. 108–173, § 105(e)(4), substituted “(16), or (19)” for “or (16)”.
+Pub. L. 108–173, § 105(e)(4), substituted “(16), or (19)” for “or (16)”.
 
 2002—Subsec. (a)(2). Pub. L. 107–134 substituted “(i)(3)(B)(i) or (7)(A)(ii),” for “(i)(3)(B)(i),”.
 
@@ -527,37 +527,37 @@ Pub. L. 100–485 substituted “(9), or (10)” for “(9), (10), or (11)”.
 
 1984—Subsec. (a)(2). Pub. L. 98–378 substituted “(10), or (11)” for “or (10)”.
 
-Pub. L. 98–369, § 2653(b)(4), substituted “(9), or (10)” for “or (9)”.
+Pub. L. 98–369, § 2653(b)(4), substituted “(9), or (10)” for “or (9)”.
 
-Pub. L. 98–369, § 453(b)(4), substituted “(7), (8), or (9)” for “(7), or (8)”.
+Pub. L. 98–369, § 453(b)(4), substituted “(7), (8), or (9)” for “(7), or (8)”.
 
 1982—Subsec. (a)(2). Pub. L. 97–365 substituted “(m)(2) or (4)” for “(m)(4)”.
 
 Pub. L. 97–248 inserted “(i)(3)(B)(i),” after “under subsection (d),”.
 
-1980—Subsec. (a)(2). Pub. L. 96–611, § 11(a)(4)(A), substituted “(*l*)(6), (7), or (8)” for “(*l*)(6) or (7)”.
+1980—Subsec. (a)(2). Pub. L. 96–611, § 11(a)(4)(A), substituted “(*l*)(6), (7), or (8)” for “(*l*)(6) or (7)”.
 
 Pub. L. 96–499 substituted “person (not described in paragraph (1))” for “officer, employee, or agent, or former officer, employee, or agent, of any State (as defined in section 6103(b)(5)), any local child support enforcement agency, any educational institution, or any State food stamp agency (as defined in section 6103(*l*)(7)(C)” and “(m)(4) of section 6103” for “(m)(4)(B) of section 6103”.
 
-Pub. L. 96–265, § 408(a)(2)(D), as amended by Pub. L. 96–611, § 11(a)(2)(B)(iv), substituted “subsection (d), (*l*)(6), (7), or (8), or (m)(4)(B)” for “subsection (d), (*l*)(6) or (7), or (m)(4)(B)”.
+Pub. L. 96–265, § 408(a)(2)(D), as amended by Pub. L. 96–611, § 11(a)(2)(B)(iv), substituted “subsection (d), (*l*)(6), (7), or (8), or (m)(4)(B)” for “subsection (d), (*l*)(6) or (7), or (m)(4)(B)”.
 
 Pub. L. 96–249 substituted “any educational institution, or any State food stamp agency (as defined in section 6103(*l*)(7)(C))” for “or any educational institution” and “subsection (d), (*l*)(6) or (7), or (m)(4)(B)” for “subsection (d), (*l*)(6), or (m)(4)(B)”.
 
-1978—Subsec. (a)(1). Pub. L. 95–600, § 701(bb)(6)(A), inserted “willfully” before “to disclose”.
+1978—Subsec. (a)(1). Pub. L. 95–600, § 701(bb)(6)(A), inserted “willfully” before “to disclose”.
 
-Subsec. (a)(2). Pub. L. 95–600, § 701(bb)(1)(C), (6)(A), inserted provision relating to educational institutions, inserted “willfully” before “to disclose”, and substituted “subsection (d), (*l*)(6), or (m)(4)(B) of section 6103” for “section 6103(d) or (*l*)(6)”.
+Subsec. (a)(2). Pub. L. 95–600, § 701(bb)(1)(C), (6)(A), inserted provision relating to educational institutions, inserted “willfully” before “to disclose”, and substituted “subsection (d), (*l*)(6), or (m)(4)(B) of section 6103” for “section 6103(d) or (*l*)(6)”.
 
-Subsec. (a)(3). Pub. L. 95–600, § 701(bb)(6)(B), substituted “thereafter willfully to” for “to thereafter”.
+Subsec. (a)(3). Pub. L. 95–600, § 701(bb)(6)(B), substituted “thereafter willfully to” for “to thereafter”.
 
-Subsec. (a)(4). Pub. L. 95–600, § 701(bb)(6)(C), inserted “willfully” before “to offer”.
+Subsec. (a)(4). Pub. L. 95–600, § 701(bb)(6)(C), inserted “willfully” before “to offer”.
 
-Subsec. (a)(5). Pub. L. 95–600, § 701(bb)(6)(A), inserted “willfully” before “to disclose”.
+Subsec. (a)(5). Pub. L. 95–600, § 701(bb)(6)(A), inserted “willfully” before “to disclose”.
 
-1976—Subsec. (a). Pub. L. 94–455, § 1202(d), added pars. (3) and (4), redesignated former par. (3) as (5), and in pars. (1), (2), and (5) raised from a misdemeanor to a felony any criminal violation of the disclosure rules, increased from $1,000 to $5,000 and from one year imprisonment to five years imprisonment the maximum criminal penalties for an unauthorized disclosure of a return or return information, extended the criminal penalties to apply to unauthorized disclosures of any return or return information and not merely income returns and other financial information appearing on income returns, and extended the criminal penalties to apply to former Federal and State officers and to officers and employees of contractors having access to returns and return information in connection with the processing, storage, transmission, and reproduction of such returns and return information, and the programming, maintenance, etc., of equipment.
+1976—Subsec. (a). Pub. L. 94–455, § 1202(d), added pars. (3) and (4), redesignated former par. (3) as (5), and in pars. (1), (2), and (5) raised from a misdemeanor to a felony any criminal violation of the disclosure rules, increased from $1,000 to $5,000 and from one year imprisonment to five years imprisonment the maximum criminal penalties for an unauthorized disclosure of a return or return information, extended the criminal penalties to apply to unauthorized disclosures of any return or return information and not merely income returns and other financial information appearing on income returns, and extended the criminal penalties to apply to former Federal and State officers and to officers and employees of contractors having access to returns and return information in connection with the processing, storage, transmission, and reproduction of such returns and return information, and the programming, maintenance, etc., of equipment.
 
-Subsec. (c). Pub. L. 94–455, § 1202(d), redesignated subsec. (d) as (c). Former subsec. (c), covering offenses relating to the reproduction of documents, was struck out.
+Subsec. (c). Pub. L. 94–455, § 1202(d), redesignated subsec. (d) as (c). Former subsec. (c), covering offenses relating to the reproduction of documents, was struck out.
 
-Subsecs. (d), (e). Pub. L. 94–455, § 1202(d), (h)(3), redesignated subsec. (e) as (d) and, in par. (1) of subsec. (d) as so redesignated, substituted a cross reference to section 7216 as covering penalties for disclosure or use of information by preparers of returns for a cross reference to section 6106 as covering special provisions applicable to returns of tax under chapter 23 (relating to Federal Unemployment Tax). Former subsec. (d) redesignated (c).
+Subsecs. (d), (e). Pub. L. 94–455, § 1202(d), (h)(3), redesignated subsec. (e) as (d) and, in par. (1) of subsec. (d) as so redesignated, substituted a cross reference to section 7216 as covering penalties for disclosure or use of information by preparers of returns for a cross reference to section 6106 as covering special provisions applicable to returns of tax under chapter 23 (relating to Federal Unemployment Tax). Former subsec. (d) redesignated (c).
 
 1960—Subsecs. (d), (e). Pub. L. 86–778 added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -591,7 +591,7 @@ Amendment by Pub. L. 105–206 applicable to summonses issued, and software acqu
 
 **Effective Date of 1997 Amendments**
 
-Pub. L. 105–35, § 2(c), Aug. 5, 1997, 111 Stat. 1105, provided that: “The amendments made by this section [enacting section 7213A of this title and amending this section] shall apply to violations occurring on and after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–35, § 2(c), Aug. 5, 1997, 111 Stat. 1105, provided that: “The amendments made by this section [enacting section 7213A of this title and amending this section] shall apply to violations occurring on and after the date of the enactment of this Act [Aug. 5, 1997].”
 
 Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
 
@@ -611,7 +611,7 @@ Amendment by Pub. L. 97–248 effective on the day after Sept. 3, 1982, see sect
 
 **Effective Date of 1980 Amendments**
 
-Pub. L. 96–611, § 11(a)(4)(B), Dec. 28, 1980, 94 Stat. 3574, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect on December 5, 1980.”
+Pub. L. 96–611, § 11(a)(4)(B), Dec. 28, 1980, 94 Stat. 3574, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect on December 5, 1980.”
 
 Amendment by Pub. L. 96–499 effective Dec. 5, 1980, see section 302(c) of Pub. L. 96–499, set out as a note under section 6103 of this title.
 
@@ -639,7 +639,7 @@ Amendment by Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pu
 
 For provisions that nothing in amendments by section 2653 of Pub. L. 98–369 be construed as exempting debts of corporations or any other category of persons from application of such amendments, with such amendments to extend to all Federal agencies (as defined in such amendments), see section 9402(b) of Pub. L. 98–369, set out as a note under section 6402 of this title.
 
-#### § 7213A. Unauthorized inspection of returns or return information
+#### § 7213A. Unauthorized inspection of returns or return information
 
 **(a) Prohibitions**
 
@@ -669,7 +669,7 @@ An officer or employee of the United States who is convicted of any violation of
 
 For purposes of this section, the terms “inspect”, “return”, and “return information” have the respective meanings given such terms by section 6103(b).
 
-(Added Pub. L. 105–35, § 2(a), Aug. 5, 1997, 111 Stat. 1104; amended Pub. L. 107–210, div. A, title II, § 202(b)(3), Aug. 6, 2002, 116 Stat. 961; Pub. L. 109–280, title XII, § 1224(b)(6), Aug. 17, 2006, 120 Stat. 1093.)
+(Added Pub. L. 105–35, § 2(a), Aug. 5, 1997, 111 Stat. 1104; amended Pub. L. 107–210, div. A, title II, § 202(b)(3), Aug. 6, 2002, 116 Stat. 961; Pub. L. 109–280, title XII, § 1224(b)(6), Aug. 17, 2006, 120 Stat. 1093.)
 
 **Editorial Notes**
 
@@ -693,7 +693,7 @@ Section applicable to violations occurring on and after Aug. 5, 1997, see sectio
 
 Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction note under section 35 of this title.
 
-#### § 7214. Offenses by officers and employees of the United States
+#### § 7214. Offenses by officers and employees of the United States
 
 **(a) Unlawful acts of revenue officers or agents** Any officer or employee of the United States acting in connection with any revenue law of the United States—
 
@@ -725,7 +725,7 @@ Any internal revenue officer or employee interested, directly or indirectly, in 
 
 For penalty on collecting or disbursing officers trading in public funds or debts or property, see 18 U.S.C. 1901.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 856; Pub. L. 85–859, title II, § 204(5), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 856; Pub. L. 85–859, title II, § 204(5), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -741,7 +741,7 @@ For penalty on collecting or disbursing officers trading in public funds or debt
 
 Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as Effective Date note under section 5001 of this title.
 
-#### § 7215. Offenses with respect to collected taxes
+#### § 7215. Offenses with respect to collected taxes
 
 **(a) Penalty**
 
@@ -755,7 +755,7 @@ Any person who fails to comply with any provision of section 7512(b) shall, in a
 
 For purposes of paragraph (2), a lack of funds existing immediately after the payment of wages (whether or not created by the payment of such wages) shall not be considered to be circumstances beyond the control of a person.
 
-(Added Pub. L. 85–321, § 2, Feb. 11, 1958, 72 Stat. 6; amended Pub. L. 97–248, title III, §§ 307(a)(15), 308(a), Sept. 3, 1982, 96 Stat. 590, 591; Pub. L. 98–67, title I, § 102(a), Aug. 5, 1983, 97 Stat. 369.)
+(Added Pub. L. 85–321, § 2, Feb. 11, 1958, 72 Stat. 6; amended Pub. L. 97–248, title III, §§ 307(a)(15), 308(a), Sept. 3, 1982, 96 Stat. 590, 591; Pub. L. 98–67, title I, § 102(a), Aug. 5, 1983, 97 Stat. 369.)
 
 **Editorial Notes**
 
@@ -763,9 +763,9 @@ For purposes of paragraph (2), a lack of funds existing immediately after the pa
 
 1983—Subsec. (b). Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-1982—Subsec. (b). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, last sentence of subsec. (b) is amended to read as follows: “For purposes of paragraph (2), a lack of funds existing immediately after the payment of wages or amounts subject to withholding under subchapter B of chapter 24 (whether or not created by the payment of such wages or amounts) shall not be considered to be circumstances beyond the control of a person.” Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§ 301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+1982—Subsec. (b). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, last sentence of subsec. (b) is amended to read as follows: “For purposes of paragraph (2), a lack of funds existing immediately after the payment of wages or amounts subject to withholding under subchapter B of chapter 24 (whether or not created by the payment of such wages or amounts) shall not be considered to be circumstances beyond the control of a person.” Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§ 301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
-#### § 7216. Disclosure or use of information by preparers of returns
+#### § 7216. Disclosure or use of information by preparers of returns
 
 **(a) General rule** Any person who is engaged in the business of preparing, or providing services in connection with the preparation of, returns of the tax imposed by chapter 1, or any person who for compensation prepares any such return for any other person, and who knowingly or recklessly—
 
@@ -791,7 +791,7 @@ Subsection (a) shall not apply to the use of information in the preparation of, 
 
 Subsection (a) shall not apply to a disclosure or use of information which is permitted by regulations prescribed by the Secretary under this section. Such regulations shall permit (subject to such conditions as such regulations shall provide) the disclosure or use of information for quality or peer reviews.
 
-(Added Pub. L. 92–178, title III, § 316(a), Dec. 10, 1971, 85 Stat. 529; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, § 412(b)(10), July 18, 1984, 98 Stat. 792; Pub. L. 100–647, title VI, § 6242(b), Nov. 10, 1988, 102 Stat. 3749; Pub. L. 101–239, title VII, § 7739(a), Dec. 19, 1989, 103 Stat. 2404; Pub. L. 116–25, title II, § 2009(b), July 1, 2019, 133 Stat. 1007.)
+(Added Pub. L. 92–178, title III, § 316(a), Dec. 10, 1971, 85 Stat. 529; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, § 412(b)(10), July 18, 1984, 98 Stat. 792; Pub. L. 100–647, title VI, § 6242(b), Nov. 10, 1988, 102 Stat. 3749; Pub. L. 101–239, title VII, § 7739(a), Dec. 19, 1989, 103 Stat. 2404; Pub. L. 116–25, title II, § 2009(b), July 1, 2019, 133 Stat. 1007.)
 
 **Editorial Notes**
 
@@ -811,7 +811,7 @@ Subsection (a) shall not apply to a disclosure or use of information which is pe
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–239, title VII, § 7739(b), Dec. 19, 1989, 103 Stat. 2404, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 19, 1989].”
+Pub. L. 101–239, title VII, § 7739(b), Dec. 19, 1989, 103 Stat. 2404, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 19, 1989].”
 
 **Effective Date of 1988 Amendment**
 
@@ -823,9 +823,9 @@ Amendment by Pub. L. 98–369 applicable with respect to taxable years beginning
 
 **Effective Date**
 
-Pub. L. 92–178, title III, § 316(c), Dec. 10, 1971, 85 Stat. 530, provided that: “The amendments made by this section [enacting this section] shall take effect on the first day of the first month which begins after the date of the enactment of this Act [Dec. 10, 1971].”
+Pub. L. 92–178, title III, § 316(c), Dec. 10, 1971, 85 Stat. 530, provided that: “The amendments made by this section [enacting this section] shall take effect on the first day of the first month which begins after the date of the enactment of this Act [Dec. 10, 1971].”
 
-#### § 7217. Prohibition on executive branch influence over taxpayer audits and other investigations
+#### § 7217. Prohibition on executive branch influence over taxpayer audits and other investigations
 
 **(a) Prohibition**
 
@@ -853,19 +853,19 @@ Any person who willfully violates subsection (a) or fails to report under subsec
 
 **(2)** any individual (other than the Attorney General of the United States) serving in a position specified in section 5312 of title 5, United States Code.
 
-(Added Pub. L. 105–206, title I, § 1105(a), July 22, 1998, 112 Stat. 711.)
+(Added Pub. L. 105–206, title I, § 1105(a), July 22, 1998, 112 Stat. 711.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7217, added Pub. L. 94–455, title XII, § 1202(e)(1), Oct. 4, 1976, 90 Stat. 1687; amended Pub. L. 95–600, title VII, § 701(bb)(7), Nov. 6, 1978, 92 Stat. 2923, related to civil damages for unauthorized disclosure of returns and return information, prior to repeal by Pub. L. 97–248, title III, § 357(b)(1), (c), Sept. 3, 1982, 96 Stat. 646, applicable with respect to disclosures made after Sept. 3, 1982.
+A prior section 7217, added Pub. L. 94–455, title XII, § 1202(e)(1), Oct. 4, 1976, 90 Stat. 1687; amended Pub. L. 95–600, title VII, § 701(bb)(7), Nov. 6, 1978, 92 Stat. 2923, related to civil damages for unauthorized disclosure of returns and return information, prior to repeal by Pub. L. 97–248, title III, § 357(b)(1), (c), Sept. 3, 1982, 96 Stat. 646, applicable with respect to disclosures made after Sept. 3, 1982.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–206, title I, § 1105(c), July 22, 1998, 112 Stat. 711, provided that: “The amendments made by this section [enacting this section] shall apply to requests made after the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title I, § 1105(c), July 22, 1998, 112 Stat. 711, provided that: “The amendments made by this section [enacting this section] shall apply to requests made after the date of the enactment of this Act [July 22, 1998].”
 
 ### PART II—PENALTIES APPLICABLE TO CERTAIN TAXES
 
@@ -873,41 +873,41 @@ Pub. L. 105–206, title I, § 1105(c), July 22, 1998, 112 Stat. 711, provided
 
 **Amendments**
 
-2005—Pub. L. 109–59, title XI, § 11164(b)(4), Aug. 10, 2005, 119 Stat. 1976, inserted “or reregister” after “register” in item 7232.
+2005—Pub. L. 109–59, title XI, § 11164(b)(4), Aug. 10, 2005, 119 Stat. 1976, inserted “or reregister” after “register” in item 7232.
 
-1997—Pub. L. 105–34, title X, § 1032(e)(12)(C), Aug. 5, 1997, 111 Stat. 935, added item 7232 and struck out former item 7232 “Failure to register, or false statement by manufacturer or producer of gasoline, diesel fuel, or aviation fuel”.
+1997—Pub. L. 105–34, title X, § 1032(e)(12)(C), Aug. 5, 1997, 111 Stat. 935, added item 7232 and struck out former item 7232 “Failure to register, or false statement by manufacturer or producer of gasoline, diesel fuel, or aviation fuel”.
 
-1996—Pub. L. 104–188, title I, § 1704(t)(20)(B), Aug. 20, 1996, 110 Stat. 1888, struck out “lubricating oil,” after “gasoline,” in item 7232.
+1996—Pub. L. 104–188, title I, § 1704(t)(20)(B), Aug. 20, 1996, 110 Stat. 1888, struck out “lubricating oil,” after “gasoline,” in item 7232.
 
-1990—Pub. L. 101–508, title XI, § 11801(c)(22)(D)(ii), Nov. 5, 1990, 104 Stat. 1388–528, struck out item 7240 “Officials investing or speculating in sugar”.
+1990—Pub. L. 101–508, title XI, § 11801(c)(22)(D)(ii), Nov. 5, 1990, 104 Stat. 1388–528, struck out item 7240 “Officials investing or speculating in sugar”.
 
-1988—Pub. L. 100–647, title III, § 3001(b)(3)(C), Nov. 10, 1988, 102 Stat. 3615, substituted “, lubricating oil, diesel fuel, or aviation fuel” for “or lubricating oil” in item 7232.
+1988—Pub. L. 100–647, title III, § 3001(b)(3)(C), Nov. 10, 1988, 102 Stat. 3615, substituted “, lubricating oil, diesel fuel, or aviation fuel” for “or lubricating oil” in item 7232.
 
-Pub. L. 100–418, title I, § 1941(b)(3)(F), Aug. 23, 1988, 102 Stat. 1324, struck out item 7241 “Willful failure to furnish certain information regarding windfall profit tax on domestic crude oil”.
+Pub. L. 100–418, title I, § 1941(b)(3)(F), Aug. 23, 1988, 102 Stat. 1324, struck out item 7241 “Willful failure to furnish certain information regarding windfall profit tax on domestic crude oil”.
 
-1980—Pub. L. 96–223, title I, § 101(e)(2), Apr. 2, 1980, 94 Stat. 252, added item 7241.
+1980—Pub. L. 96–223, title I, § 101(e)(2), Apr. 2, 1980, 94 Stat. 252, added item 7241.
 
-1976—Pub. L. 94–455, title XIX, §§ 1904(b)(7)(B)(ii), (8)(D)(ii), (9)(B)(ii), (10)(F)(ii), 1952(n)(2)(B), Oct. 4, 1976, 90 Stat. 1815, 1816, 1818, 1846, struck out items 7233 “Failure to pay, or attempt to evade payment of, tax on cotton futures, and other violations”, 7234 “Violation of laws relating to oleomargarine or adulterated butter operations”, 7235 “Violation of laws relating to adulterated butter and process or renovated butter”, 7239 “Violations of laws relating to white phosphorus matches”, and 7241 “Penalty for fraudulent equalization tax certificates”.
+1976—Pub. L. 94–455, title XIX, §§ 1904(b)(7)(B)(ii), (8)(D)(ii), (9)(B)(ii), (10)(F)(ii), 1952(n)(2)(B), Oct. 4, 1976, 90 Stat. 1815, 1816, 1818, 1846, struck out items 7233 “Failure to pay, or attempt to evade payment of, tax on cotton futures, and other violations”, 7234 “Violation of laws relating to oleomargarine or adulterated butter operations”, 7235 “Violation of laws relating to adulterated butter and process or renovated butter”, 7239 “Violations of laws relating to white phosphorus matches”, and 7241 “Penalty for fraudulent equalization tax certificates”.
 
-1974—Pub. L. 93–490, § 3(b)(2), Oct. 26, 1974, 88 Stat. 1467, struck out item 7236 “Violation of laws relating to filled cheese”.
+1974—Pub. L. 93–490, § 3(b)(2), Oct. 26, 1974, 88 Stat. 1467, struck out item 7236 “Violation of laws relating to filled cheese”.
 
-1970—Pub. L. 91–513, title III, § 1101(b)(4)(B), Oct. 27, 1970, 84 Stat. 1292, struck out items 7237 “Violation of laws relating to narcotic drugs and to marihuana” and 7238 “Violation of laws relating to opium for smoking”.
+1970—Pub. L. 91–513, title III, § 1101(b)(4)(B), Oct. 27, 1970, 84 Stat. 1292, struck out items 7237 “Violation of laws relating to narcotic drugs and to marihuana” and 7238 “Violation of laws relating to opium for smoking”.
 
-1965—Pub. L. 89–44, title VIII, § 802(b)(6), June 21, 1965, 79 Stat. 159, struck out “or give bond” after “Failure to register” in item 7232.
+1965—Pub. L. 89–44, title VIII, § 802(b)(6), June 21, 1965, 79 Stat. 159, struck out “or give bond” after “Failure to register” in item 7232.
 
-1964—Pub. L. 88–563, § 6(c)(2), Sept. 2, 1964, 78 Stat. 847, inserted item 7241.
+1964—Pub. L. 88–563, § 6(c)(2), Sept. 2, 1964, 78 Stat. 847, inserted item 7241.
 
-#### § 7231. Failure to obtain license for collection of foreign items
+#### § 7231. Failure to obtain license for collection of foreign items
 
 Any person required by section 7001 (relating to collection of certain foreign items) to obtain a license who knowingly undertakes to collect the payments described in section 7001 without having obtained a license therefor, or without complying with regulations prescribed under section 7001, shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $5,000, or imprisoned not more than 1 year, or both.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 857.)
 
-#### § 7232. Failure to register or reregister under section 4101, false representations of registration status, etc.
+#### § 7232. Failure to register or reregister under section 4101, false representations of registration status, etc.
 
 Every person who fails to register or reregister as required by section 4101, or who in connection with any purchase of any taxable fuel (as defined in section 4083) or aviation fuel falsely represents himself to be registered as provided by section 4101, or who willfully makes any false statement in an application for registration or reregistration under section 4101, shall, upon conviction thereof, be fined not more than $10,000, or imprisoned not more than 5 years, or both, together with the costs of prosecution.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 858; Pub. L. 89–44, title VIII, § 802(b)(4), June 21, 1965, 79 Stat. 159; Pub. L. 100–647, title III, § 3001(b)(3)(A), (B), Nov. 10, 1988, 102 Stat. 3614; Pub. L. 104–188, title I, § 1704(t)(20)(A), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, § 1032(e)(12)(A), (B), Aug. 5, 1997, 111 Stat. 935; Pub. L. 105–206, title VI, § 6010(h)(2), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title VIII, § 863(b), Oct. 22, 2004, 118 Stat. 1620; Pub. L. 109–59, title XI, § 11164(b)(2), Aug. 10, 2005, 119 Stat. 1975.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 858; Pub. L. 89–44, title VIII, § 802(b)(4), June 21, 1965, 79 Stat. 159; Pub. L. 100–647, title III, § 3001(b)(3)(A), (B), Nov. 10, 1988, 102 Stat. 3614; Pub. L. 104–188, title I, § 1704(t)(20)(A), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, § 1032(e)(12)(A), (B), Aug. 5, 1997, 111 Stat. 935; Pub. L. 105–206, title VI, § 6010(h)(2), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title VIII, § 863(b), Oct. 22, 2004, 118 Stat. 1620; Pub. L. 109–59, title XI, § 11164(b)(2), Aug. 10, 2005, 119 Stat. 1975.)
 
 **Editorial Notes**
 
@@ -919,13 +919,13 @@ Every person who fails to register or reregister as required by section 4101, or
 
 1998—Pub. L. 105–206 provided that amendment made by section 1032(e)(12)(A) of Pub. L. 105–34 shall be applied as if “gasoline, diesel fuel,” were the material proposed to be stricken. See 1997 Amendment note below.
 
-1997—Pub. L. 105–34, § 1032(e)(12)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Failure to register, or false statement by manufacturer or producer of gasoline, diesel fuel, or aviation fuel”.
+1997—Pub. L. 105–34, § 1032(e)(12)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Failure to register, or false statement by manufacturer or producer of gasoline, diesel fuel, or aviation fuel”.
 
-Pub. L. 105–34, § 1032(e)(12)(A), which directed the substitution of “any taxable fuel (as defined in section 4083)” for “gasoline, lubricating oil, diesel fuel”, was executed by making the substitution for “gasoline, diesel fuel,” to reflect the probable intent of Congress. See 1998 Amendment note above.
+Pub. L. 105–34, § 1032(e)(12)(A), which directed the substitution of “any taxable fuel (as defined in section 4083)” for “gasoline, lubricating oil, diesel fuel”, was executed by making the substitution for “gasoline, diesel fuel,” to reflect the probable intent of Congress. See 1998 Amendment note above.
 
 1996—Pub. L. 104–188 struck out “lubricating oil,” after “gasoline,” in section catchline and text.
 
-1988—Pub. L. 100–647 substituted “, lubricating oil, diesel fuel, or aviation fuel” for “or lubricating oil” in section catchline and in text.
+1988—Pub. L. 100–647 substituted “, lubricating oil, diesel fuel, or aviation fuel” for “or lubricating oil” in section catchline and in text.
 
 1965—Pub. L. 89–44 struck out “or give bond” after “Failure to register” in section catchline and “or give bond” after “register” and “and bonded” after “registered” in text.
 
@@ -955,7 +955,7 @@ Amendment by Pub. L. 100–647 effective Jan. 1, 1989, see section 3001(c) of Pu
 
 Amendment by Pub. L. 89–44 applicable with respect to articles sold on or after July 1, 1965, see section 802(d)(1) of Pub. L. 89–44, set out as a note under section 4082 of this title.
 
-#### [§ 7233. Repealed. Pub. L. 94–455, title XIX, § 1952(n)(2)(A), Oct. 4, 1976, 90 Stat. 1846]
+#### [§ 7233. Repealed. Pub. L. 94–455, title XIX, § 1952(n)(2)(A), Oct. 4, 1976, 90 Stat. 1846]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 858, related to failure to pay, or attempt to evade payment of, tax on cotton futures, and other violations.
 
@@ -965,7 +965,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 858, related to failure to pay, o
 
 Repeal effective on 90th day after Oct. 4, 1976, see section 1952(*o*) of Pub. L. 94–455, set out as an Effective Date note under section 15b of Title 7, Agriculture.
 
-#### [§ 7234. Repealed. Pub. L. 94–455, title XIX, § 1904(b)(7)(B)(i), Oct. 4, 1976, 90 Stat. 1815]
+#### [§ 7234. Repealed. Pub. L. 94–455, title XIX, § 1904(b)(7)(B)(i), Oct. 4, 1976, 90 Stat. 1815]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 858, related to false branding, selling, or packing of oleomargarine, removal or defacement of stamps, marks, or brands on packages of oleomargarine or adulterated butter, failure of wholesale dealers to keep or permit inspection of books, or to render returns, and offenses involving imported oleomargarine or adulterated butter.
 
@@ -975,7 +975,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 858, related to false branding, s
 
 Repeal effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 4041 of this title.
 
-#### [§ 7235. Repealed. Pub. L. 94–455, title XIX, § 1904(b)(9)(B)(i), Oct. 4, 1976, 90 Stat. 1816]
+#### [§ 7235. Repealed. Pub. L. 94–455, title XIX, § 1904(b)(9)(B)(i), Oct. 4, 1976, 90 Stat. 1816]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 859, related to the false branding, sale, packing, or stamping of adulterated butter, the failure of wholesale dealers to keep or permit inspection of books or to render returns, the failure to comply with provisions relating to the manufacture, storage, and marking of process or renovated butter, fraud by manufacturers, and the failure to pay the special tax on dealers in adulterated butter.
 
@@ -985,7 +985,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 859, related to the false brandin
 
 Repeal effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 4041 of this title.
 
-#### [§ 7236. Repealed. Pub. L. 93–490, § 3(b)(1), Oct. 26, 1974, 88 Stat. 1466]
+#### [§ 7236. Repealed. Pub. L. 93–490, § 3(b)(1), Oct. 26, 1974, 88 Stat. 1466]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 860, set out acts and penalties for violations of laws relating to filled cheese.
 
@@ -995,9 +995,9 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 860, set out acts and penalties f
 
 Repeal applicable to filled cheese manufactured, imported, or sold after Oct. 26, 1974, see section 3(c) of Pub. L. 93–490, set out as a note under sections 4831 to 4834 of this title.
 
-#### [§§ 7237, 7238. Repealed. Pub. L. 91–513, title III, § 1101(b)(4)(A), Oct. 27, 1970, 84 Stat. 1292]
+#### [§§ 7237, 7238. Repealed. Pub. L. 91–513, title III, § 1101(b)(4)(A), Oct. 27, 1970, 84 Stat. 1292]
 
-Section 7237, acts Aug. 16, 1954, ch. 736, 68A Stat. 860; Jan. 20, 1955, ch. 1, 69 Stat. 3; July 18, 1956, ch. 629, title I, § 103, 70 Stat. 568; Nov. 8, 1966, Pub. L. 89–793, title V, § 501, 80 Stat. 1449, set out acts constituting violations relating to narcotic drugs and marihuana. See section 801 et seq. of Title 21, Food and Drugs.
+Section 7237, acts Aug. 16, 1954, ch. 736, 68A Stat. 860; Jan. 20, 1955, ch. 1, 69 Stat. 3; July 18, 1956, ch. 629, title I, § 103, 70 Stat. 568; Nov. 8, 1966, Pub. L. 89–793, title V, § 501, 80 Stat. 1449, set out acts constituting violations relating to narcotic drugs and marihuana. See section 801 et seq. of Title 21, Food and Drugs.
 
 Section 7238, act Aug. 16, 1954, ch. 736, 68A Stat. 861, set the penalty for the violation of provisions of this title relating to opium for smoking.
 
@@ -1011,7 +1011,7 @@ Repeal effective on first day of seventh calendar month that begins after Oct. 2
 
 Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of repeal of these sections by section 1101 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under section 171 of Title 21, Food and Drugs.
 
-#### [§ 7239. Repealed. Pub. L. 94–455, title XIX, § 1904(b)(8)(D)(i), Oct. 4, 1976, 90 Stat. 1816]
+#### [§ 7239. Repealed. Pub. L. 94–455, title XIX, § 1904(b)(8)(D)(i), Oct. 4, 1976, 90 Stat. 1816]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 861, related to violations regarding the selling of unstamped white phosphorus matches and the use of insufficient stamps.
 
@@ -1021,9 +1021,9 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 861, related to violations regard
 
 Repeal effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 4041 of this title.
 
-#### [§ 7240. Repealed. Pub. L. 101–508, title XI, § 11801(c)(22)(D)(i), Nov. 5, 1990, 104 Stat. 1388–528]
+#### [§ 7240. Repealed. Pub. L. 101–508, title XI, § 11801(c)(22)(D)(i), Nov. 5, 1990, 104 Stat. 1388–528]
 
-Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 861; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1904(b)(6)(A), 90 Stat. 1815, set forth penalties for persons who invested or speculated in sugar while acting in any official capacity in the administration of former chapter 37 of this title.
+Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 861; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1904(b)(6)(A), 90 Stat. 1815, set forth penalties for persons who invested or speculated in sugar while acting in any official capacity in the administration of former chapter 37 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1031,11 +1031,11 @@ Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 861; Oct. 4, 1976, Pub. L. 94–
 
 For provisions that nothing in repeal by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-#### [§ 7241. Repealed. Pub. L. 100–418, title I, § 1941(b)(1), Aug. 23, 1988, 102 Stat. 1323]
+#### [§ 7241. Repealed. Pub. L. 100–418, title I, § 1941(b)(1), Aug. 23, 1988, 102 Stat. 1323]
 
-Section, added Pub. L. 96–223, title I, § 101(e)(1), Apr. 2, 1980, 94 Stat. 252, prescribed penalty for willful failure to furnish certain information regarding windfall profit tax on domestic crude oil.
+Section, added Pub. L. 96–223, title I, § 101(e)(1), Apr. 2, 1980, 94 Stat. 252, prescribed penalty for willful failure to furnish certain information regarding windfall profit tax on domestic crude oil.
 
-A prior section 7241, Pub. L. 88–563, § 6(b), Sept. 2, 1964, 78 Stat. 847, which related to penalty for fraudulent equalization tax certificates, was repealed by Pub. L. 94–455, title XIX, § 1904(b)(10)(F)(i), (iii), Oct. 4, 1976, 90 Stat. 1818, effective with respect to statements and certificates executed after June 30, 1974.
+A prior section 7241, Pub. L. 88–563, § 6(b), Sept. 2, 1964, 78 Stat. 847, which related to penalty for fraudulent equalization tax certificates, was repealed by Pub. L. 94–455, title XIX, § 1904(b)(10)(F)(i), (iii), Oct. 4, 1976, 90 Stat. 1818, effective with respect to statements and certificates executed after June 30, 1974.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1049,29 +1049,29 @@ Repeal applicable to crude oil removed from the premises on or after Aug. 23, 19
 
 **Amendments**
 
-2005—Pub. L. 109–59, title XI, § 11164(b)(4), Aug. 10, 2005, 119 Stat. 1976, inserted “or reregister” after “register” in item 7272.
+2005—Pub. L. 109–59, title XI, § 11164(b)(4), Aug. 10, 2005, 119 Stat. 1976, inserted “or reregister” after “register” in item 7272.
 
-1976—Pub. L. 94–455, title XIX, §§ 1904(b)(7)(C)(ii), (8)(E)(ii), (9)(C)(ii), 1952(n)(3)(B), Oct. 4, 1976, 90 Stat. 1815, 1816, 1846, struck out items 7263 “Penalties relating to cotton futures”, 7264 “Offenses relating to renovated or adulterated butter”, 7265 “Other offenses relating to oleomargarine or adulterated butter operations”, 7267 “Offenses relating to white phosphorus matches”, and 7274 “Penalty for offenses relating to white phosphorus matches”.
+1976—Pub. L. 94–455, title XIX, §§ 1904(b)(7)(C)(ii), (8)(E)(ii), (9)(C)(ii), 1952(n)(3)(B), Oct. 4, 1976, 90 Stat. 1815, 1816, 1846, struck out items 7263 “Penalties relating to cotton futures”, 7264 “Offenses relating to renovated or adulterated butter”, 7265 “Other offenses relating to oleomargarine or adulterated butter operations”, 7267 “Offenses relating to white phosphorus matches”, and 7274 “Penalty for offenses relating to white phosphorus matches”.
 
-1974—Pub. L. 93–490, § 3(b)(4), Oct. 26, 1974, 88 Stat. 1467, struck out item 7266 “Offenses relating to filled cheese”.
+1974—Pub. L. 93–490, § 3(b)(4), Oct. 26, 1974, 88 Stat. 1467, struck out item 7266 “Offenses relating to filled cheese”.
 
-1970—Pub. L. 91–258, title II, § 203(c)(2), May 21, 1970, 84 Stat. 239, added item 7275.
+1970—Pub. L. 91–258, title II, § 203(c)(2), May 21, 1970, 84 Stat. 239, added item 7275.
 
-1965—Pub. L. 89–44, title VI, § 601(i), June 21, 1965, 79 Stat. 155, struck out item 7275 “Failure to print correct price on tickets”.
+1965—Pub. L. 89–44, title VI, § 601(i), June 21, 1965, 79 Stat. 155, struck out item 7275 “Failure to print correct price on tickets”.
 
-### § 7261. Representation that retailers’ excise tax is excluded from price of article
+### § 7261. Representation that retailers’ excise tax is excluded from price of article
 
 Whoever, in connection with the sale or lease, or offer for sale or lease, of any article taxable under chapter 31, makes any statement, written or oral, in advertisement or otherwise, intended or calculated to lead any person to believe that the price of the article does not include the tax imposed by chapter 31, shall on conviction thereof be fined not more than $1,000.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 862.)
 
-### § 7262. Violation of occupational tax laws relating to wagering—failure to pay special tax
+### § 7262. Violation of occupational tax laws relating to wagering—failure to pay special tax
 
 Any person who does any act which makes him liable for special tax under subchapter B of chapter 35 without having paid such tax, shall, besides being liable to the payment of the tax, be fined not less than $1,000 and not more than $5,000.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 862.)
 
-### [§ 7263. Repealed. Pub. L. 94–455, title XIX, § 1952(n)(3)(A), Oct. 4, 1976, 90 Stat. 1846]
+### [§ 7263. Repealed. Pub. L. 94–455, title XIX, § 1952(n)(3)(A), Oct. 4, 1976, 90 Stat. 1846]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 862, provided penalties for violations related to cotton futures.
 
@@ -1081,7 +1081,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 862, provided penalties for viola
 
 Repeal effective on 90th day after Oct. 4, 1976, see section 1952(o) of Pub. L. 94–455, set out as an Effective Date note under section 15b of Title 7, Agriculture.
 
-### [§ 7264. Repealed. Pub. L. 94–455, title XIX, § 1904(b)(9)(C)(i), Oct. 4, 1976, 90 Stat. 1816]
+### [§ 7264. Repealed. Pub. L. 94–455, title XIX, § 1904(b)(9)(C)(i), Oct. 4, 1976, 90 Stat. 1816]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 863, provided the penalty for offenses relating to renovated or adulterated butter.
 
@@ -1091,7 +1091,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 863, provided the penalty for off
 
 Repeal effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 4041 of this title.
 
-### [§ 7265. Repealed. Pub. L. 94–455, title XIX, § 1904(b)(7)(C)(i), Oct. 4, 1976, 90 Stat. 1815]
+### [§ 7265. Repealed. Pub. L. 94–455, title XIX, § 1904(b)(7)(C)(i), Oct. 4, 1976, 90 Stat. 1815]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 863, provided penalties for offenses relating to oleomargarine or adulterated butter operations.
 
@@ -1101,7 +1101,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 863, provided penalties for offen
 
 Repeal effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 4041 of this title.
 
-### [§ 7266. Repealed. Pub. L. 93–490, § 3(b)(3), Oct. 26, 1974, 88 Stat. 1467]
+### [§ 7266. Repealed. Pub. L. 93–490, § 3(b)(3), Oct. 26, 1974, 88 Stat. 1467]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 863, set out offenses and penalties relating to filled cheese.
 
@@ -1111,7 +1111,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 863, set out offenses and penalti
 
 Repeal applicable to filled cheese manufactured, imported, or sold after Oct. 26, 1974, see section 3(c) of Pub. L. 93–490, set out as a note under sections 4831 to 4834 of this title.
 
-### [§ 7267. Repealed. Pub. L. 94–455, title XIX, § 1904(b)(8)(E)(i), Oct. 4, 1976, 90 Stat. 1816]
+### [§ 7267. Repealed. Pub. L. 94–455, title XIX, § 1904(b)(8)(E)(i), Oct. 4, 1976, 90 Stat. 1816]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 864, provided penalties for offenses relating to white phosphorus matches.
 
@@ -1121,17 +1121,17 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 864, provided penalties for offen
 
 Repeal effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 4041 of this title.
 
-### § 7268. Possession with intent to sell in fraud of law or to evade tax
+### § 7268. Possession with intent to sell in fraud of law or to evade tax
 
 Every person who shall have in his custody or possession any goods, wares, merchandise, articles, or objects on which taxes are imposed by law, for the purpose of selling the same in fraud of the internal revenue laws, or with design to avoid payment of the taxes imposed thereon, shall be liable to a penalty of $500 or not less than double the amount of taxes fraudulently attempted to be evaded.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 865.)
 
-### § 7269. Failure to produce records
+### § 7269. Failure to produce records
 
 Whoever fails to comply with any duty imposed upon him by section 6018, 6036 (in the case of an executor), or 6075(a), or, having in his possession or control any record, file, or paper, containing or supposed to contain any information concerning the estate of the decedent, or, having in his possession or control any property comprised in the gross estate of the decedent, fails to exhibit the same upon request to the Secretary who desires to examine the same in the performance of his duties under chapter 11 (relating to estate taxes), shall be liable to a penalty of not exceeding $500, to be recovered, with costs of suit, in a civil action in the name of the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 865; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 865; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -1139,11 +1139,11 @@ Whoever fails to comply with any duty imposed upon him by section 6018, 6036 (in
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-### § 7270. Insurance policies
+### § 7270. Insurance policies
 
 Any person who fails to comply with the requirements of section 4374 (relating to liability for tax on policies issued by foreign insurers), with intent to evade the tax shall, in addition to other penalties provided therefor, pay a fine of double the amount of the tax.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 865; Pub. L. 94–455, title XIX, § 1904(b)(5)(A), Oct. 4, 1976, 90 Stat. 1815.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 865; Pub. L. 94–455, title XIX, § 1904(b)(5)(A), Oct. 4, 1976, 90 Stat. 1815.)
 
 **Editorial Notes**
 
@@ -1157,7 +1157,7 @@ Any person who fails to comply with the requirements of section 4374 (relating t
 
 Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
-### § 7271. Penalties for offenses relating to stamps
+### § 7271. Penalties for offenses relating to stamps
 
 Any person who with respect to any tax payable by stamps—
 
@@ -1177,7 +1177,7 @@ Makes, signs, issues, or accepts, or causes to be made, signed, issued, or accep
 
 shall be liable for each such offense to a penalty of $50.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 865; Pub. L. 94–455, title XIX, § 1906(a)(41), Oct. 4, 1976, 90 Stat. 1830.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 865; Pub. L. 94–455, title XIX, § 1906(a)(41), Oct. 4, 1976, 90 Stat. 1830.)
 
 **Editorial Notes**
 
@@ -1191,7 +1191,7 @@ shall be liable for each such offense to a penalty of $50.
 
 Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
-### § 7272. Penalty for failure to register or reregister
+### § 7272. Penalty for failure to register or reregister
 
 **(a) In general**
 
@@ -1201,27 +1201,27 @@ Any person (other than persons required to register under subtitle E, or persons
 
 For provisions relating to persons required by this title to register, see sections 4101, 4412, and 7011.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 866; Pub. L. 85–475, § 4(b)(8), June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title II, § 204(6), (7), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 89–44, title VI, § 601(h), June 21, 1965, 79 Stat. 155; Pub. L. 94–455, title XIX, §§ 1904(b)(8)(F), 1906(a)(42), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1816, 1830, 1834; Pub. L. 108–357, title VIII, § 863(a), Oct. 22, 2004, 118 Stat. 1619; Pub. L. 109–59, title XI, § 11164(b)(3), Aug. 10, 2005, 119 Stat. 1975.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 866; Pub. L. 85–475, § 4(b)(8), June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title II, § 204(6), (7), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 89–44, title VI, § 601(h), June 21, 1965, 79 Stat. 155; Pub. L. 94–455, title XIX, §§ 1904(b)(8)(F), 1906(a)(42), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1816, 1830, 1834; Pub. L. 108–357, title VIII, § 863(a), Oct. 22, 2004, 118 Stat. 1619; Pub. L. 109–59, title XI, § 11164(b)(3), Aug. 10, 2005, 119 Stat. 1975.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2005—Pub. L. 109–59, § 11164(b)(3)(B), inserted “or reregister” after “register” in section catchline.
+2005—Pub. L. 109–59, § 11164(b)(3)(B), inserted “or reregister” after “register” in section catchline.
 
-Subsec. (a). Pub. L. 109–59, § 11164(b)(3)(A), inserted “or reregister” after “failure to register”.
+Subsec. (a). Pub. L. 109–59, § 11164(b)(3)(A), inserted “or reregister” after “failure to register”.
 
 2004—Subsec. (a). Pub. L. 108–357 inserted “($10,000 in the case of a failure to register under section 4101)” after “$50”.
 
-1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b). Pub. L. 94–455, §§ 1904(b)(8)(F), 1906(a)(42), struck out “4722, 4753, 4804(d),” after “4412,”.
+Subsec. (b). Pub. L. 94–455, §§ 1904(b)(8)(F), 1906(a)(42), struck out “4722, 4753, 4804(d),” after “4412,”.
 
 1965—Subsec. (b). Pub. L. 89–44 struck out “4455,” after “4412,”.
 
-1958—Subsec. (a). Pub. L. 85–859, § 204(6), excluded persons required to register under subtitle E and persons engaging in a trade or business on which a special tax is imposed by such subtitle.
+1958—Subsec. (a). Pub. L. 85–859, § 204(6), excluded persons required to register under subtitle E and persons engaging in a trade or business on which a special tax is imposed by such subtitle.
 
-Subsec. (b). Pub. L. 85–859, § 204(7), struck out references to sections 5802 and 5841 of this title.
+Subsec. (b). Pub. L. 85–859, § 204(7), struck out references to sections 5802 and 5841 of this title.
 
 Subsec. (b). Pub. L. 85–475 struck out reference to section 4273.
 
@@ -1251,11 +1251,11 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 For effective date of amendment by Pub. L. 85–475, see section 4(c) of Pub. L. 85–475, set out as a note under section 6415 of this title.
 
-### § 7273. Penalties for offenses relating to special taxes
+### § 7273. Penalties for offenses relating to special taxes
 
 Any person who shall fail to place and keep stamps denoting the payment of the special tax as provided in section 6806 shall be liable to a penalty (not less than $10) equal to the special tax for which his business rendered him liable, unless such failure is shown to be due to reasonable cause. If such failure to comply with section 6806 is through willful neglect or refusal, then the penalty shall be double the amount above prescribed.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 866; Pub. L. 90–618, title II, § 205, Oct. 22, 1968, 82 Stat. 1235.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 866; Pub. L. 90–618, title II, § 205, Oct. 22, 1968, 82 Stat. 1235.)
 
 **Editorial Notes**
 
@@ -1269,7 +1269,7 @@ Any person who shall fail to place and keep stamps denoting the payment of the s
 
 Amendment by Pub. L. 90–618 effective Oct. 22, 1968, see section 207 of Pub. L. 90–618, set out as an Effective Date note under section 5801 of this title.
 
-### [§ 7274. Repealed. Pub. L. 94–455, title XIX, § 1904(b)(8)(E)(i), Oct. 4, 1976, 90 Stat. 1816]
+### [§ 7274. Repealed. Pub. L. 94–455, title XIX, § 1904(b)(8)(E)(i), Oct. 4, 1976, 90 Stat. 1816]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 866, provided penalties for offenses relating to white phosphorus matches.
 
@@ -1279,7 +1279,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 866, provided penalties for offen
 
 Repeal effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 4041 of this title.
 
-### § 7275. Penalty for offenses relating to certain airline tickets and advertising
+### § 7275. Penalty for offenses relating to certain airline tickets and advertising
 
 **(a) Tickets** In the case of transportation by air all of which is taxable transportation (as defined in section 4262), the ticket for such transportation shall show the total of—
 
@@ -1307,13 +1307,13 @@ Nothing in this subsection shall prohibit the inclusion of amounts not attributa
 
 Any person who violates any provision of subsection (a), (b), or (c) is, for each violation, guilty of a misdemeanor, and upon conviction thereof shall be fined not more than $100.
 
-(Added Pub. L. 91–258, title II, § 203(c)(1), May 21, 1970, 84 Stat. 239; amended Pub. L. 91–680, § 3, Jan. 12, 1971, 84 Stat. 2064; Pub. L. 97–248, title II, § 281A(b)(1), Sept. 3, 1982, 96 Stat. 567; Pub. L. 112–95, title XI, § 1104(a), Feb. 14, 2012, 126 Stat. 151; Pub. L. 115–141, div. U, title IV, § 401(a)(323), Mar. 23, 2018, 132 Stat. 1199.)
+(Added Pub. L. 91–258, title II, § 203(c)(1), May 21, 1970, 84 Stat. 239; amended Pub. L. 91–680, § 3, Jan. 12, 1971, 84 Stat. 2064; Pub. L. 97–248, title II, § 281A(b)(1), Sept. 3, 1982, 96 Stat. 567; Pub. L. 112–95, title XI, § 1104(a), Feb. 14, 2012, 126 Stat. 151; Pub. L. 115–141, div. U, title IV, § 401(a)(323), Mar. 23, 2018, 132 Stat. 1199.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7275, act Aug. 16, 1954, ch. 736, 68 Stat. 866, related to cross references, prior to repeal by Pub. L. 89–44, title VI, § 601(i), June 21, 1965, 79 Stat. 155.
+A prior section 7275, act Aug. 16, 1954, ch. 736, 68 Stat. 866, related to cross references, prior to repeal by Pub. L. 89–44, title VI, § 601(i), June 21, 1965, 79 Stat. 155.
 
 **Amendments**
 
@@ -1323,27 +1323,27 @@ A prior section 7275, act Aug. 16, 1954, ch. 736, 68 Stat. 866, related to cross
 
 1982—Subsec. (a). Pub. L. 97–248 redesignated former par. (1) as pars. (1) and (2) and struck out former par. (2) which provided that a ticket for transportation, if it showed amounts paid with respect to any segment of such transportation, had to comply with former par. (1) with respect to such segments as well as with respect to the sum of the segments.
 
-1971—Subsec. (a)(1). Pub. L. 91–680, § 3(a)(1), inserted “and” after “and (b),”.
+1971—Subsec. (a)(1). Pub. L. 91–680, § 3(a)(1), inserted “and” after “and (b),”.
 
-Subsec. (a)(2), (3). Pub. L. 91–680, § 3(a)(2), (3), redesignated par. (3) as (2), and struck out reference to par. (2). Former par. (2), which prohibited airline tickets from separately stating the amount paid for the air transportation and the amount paid for taxes, was struck out.
+Subsec. (a)(2), (3). Pub. L. 91–680, § 3(a)(2), (3), redesignated par. (3) as (2), and struck out reference to par. (2). Former par. (2), which prohibited airline tickets from separately stating the amount paid for the air transportation and the amount paid for taxes, was struck out.
 
-Subsec. (b)(1). Pub. L. 91–680, § 3(b), struck out “only” after “state such cost”.
+Subsec. (b)(1). Pub. L. 91–680, § 3(b), struck out “only” after “state such cost”.
 
-Subsec. (b)(2). Pub. L. 91–680, § 3(b), substituted provisions authorizing advertising to separately state in the prescribed manner the amount paid for the air transportation and the amount paid for taxes, for provisions prohibiting advertising from separately stating the amount paid for the air transportation and the amount paid for taxes.
+Subsec. (b)(2). Pub. L. 91–680, § 3(b), substituted provisions authorizing advertising to separately state in the prescribed manner the amount paid for the air transportation and the amount paid for taxes, for provisions prohibiting advertising from separately stating the amount paid for the air transportation and the amount paid for taxes.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–95, title XI, § 1104(b), Feb. 14, 2012, 126 Stat. 151, provided that: “The amendments made by this section [amending this section] shall apply to taxable transportation provided after March 31, 2012.”
+Pub. L. 112–95, title XI, § 1104(b), Feb. 14, 2012, 126 Stat. 151, provided that: “The amendments made by this section [amending this section] shall apply to taxable transportation provided after March 31, 2012.”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title II, § 281A(b)(2), Sept. 3, 1982, 96 Stat. 568, as amended by Pub. L. 98–369, div. A, title VII, § 714(b), July 18, 1984, 98 Stat. 961, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to transportation beginning after the date of the enactment of this Act [Sept. 3, 1982].”
+Pub. L. 97–248, title II, § 281A(b)(2), Sept. 3, 1982, 96 Stat. 568, as amended by Pub. L. 98–369, div. A, title VII, § 714(b), July 18, 1984, 98 Stat. 961, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to transportation beginning after the date of the enactment of this Act [Sept. 3, 1982].”
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 91–680, § 4, Jan. 12, 1971, 84 Stat. 2065, provided that: “The amendments made by the third section of this Act [amending this section] shall apply to transportation beginning after June 30, 1970.”
+Pub. L. 91–680, § 4, Jan. 12, 1971, 84 Stat. 2065, provided that: “The amendments made by the third section of this Act [amending this section] shall apply to transportation beginning after June 30, 1970.”
 
 **Effective Date**
 
@@ -1353,7 +1353,7 @@ Section applicable to transportation beginning after June 30, 1970, see section 
 
 ### PART I—PROPERTY SUBJECT TO FORFEITURE
 
-#### § 7301. Property subject to tax
+#### § 7301. Property subject to tax
 
 **(a) Taxable articles**
 
@@ -1375,7 +1375,7 @@ All property used as a container for, or which shall have contained, property de
 
 Any property (including aircraft, vehicles, vessels, or draft animals) used to transport or for the deposit or concealment of property described in subsection (a) or (b), or any property used to transport or for the deposit or concealment of property which is intended to be used in the making or packaging of property described in subsection (a), may also be seized, and shall be forfeited to the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 867; Pub. L. 85–859, title II, § 204(8), Sept. 2, 1958, 72 Stat. 1429.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 867; Pub. L. 85–859, title II, § 204(8), Sept. 2, 1958, 72 Stat. 1429.)
 
 **Editorial Notes**
 
@@ -1389,7 +1389,7 @@ Any property (including aircraft, vehicles, vessels, or draft animals) used to t
 
 Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note under section 5001 of this title.
 
-#### § 7302. Property used in violation of internal revenue laws
+#### § 7302. Property used in violation of internal revenue laws
 
 It shall be unlawful to have or possess any property intended for use in violating the provisions of the internal revenue laws, or regulations prescribed under such laws, or which has been so used, and no property rights shall exist in any such property. A search warrant may issue as provided in chapter 205 of title 18 of the United States Code and the Federal Rules of Criminal Procedure for the seizure of such property. Nothing in this section shall in any manner limit or affect any criminal or forfeiture provision of the internal revenue laws, or of any other law. The seizure and forfeiture of any property under the provisions of this section and the disposition of such property subsequent to seizure and forfeiture, or the disposition of the proceeds from the sale of such property, shall be in accordance with existing laws or those hereafter in existence relating to seizures, forfeitures, and disposition of property or proceeds, for violation of the internal revenue laws.
 
@@ -1405,7 +1405,7 @@ The Federal Rules of Criminal Procedure, referred to in text, are set out in the
 
 For information regarding the constitutionality of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
-#### § 7303. Other property subject to forfeiture
+#### § 7303. Other property subject to forfeiture
 
 There may be seized and forfeited to the United States the following:
 
@@ -1421,23 +1421,23 @@ Any container involved in the offense described in section 7271 (relating to dis
 
 All property to which any false or fraudulent instrument involved in the offense described in section 7207 relates.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 868; Pub. L. 85–881, § 1(c), Sept. 2, 1958, 72 Stat. 1704; Pub. L. 93–490, § 3(b)(5), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIX, § 1904(b)(8)(G), (9)(D), Oct. 4, 1976, 90 Stat. 1816.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 868; Pub. L. 85–881, § 1(c), Sept. 2, 1958, 72 Stat. 1704; Pub. L. 93–490, § 3(b)(5), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIX, § 1904(b)(8)(G), (9)(D), Oct. 4, 1976, 90 Stat. 1816.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Par. (2). Pub. L. 94–455, § 1904(b)(9)(D), redesignated par. (7) as (2). Former par. (2), which related to oleomargarine or filled cheese adjudged to contain deleterious ingredients, was repealed. See 1958 Amendment note below.
+1976—Par. (2). Pub. L. 94–455, § 1904(b)(9)(D), redesignated par. (7) as (2). Former par. (2), which related to oleomargarine or filled cheese adjudged to contain deleterious ingredients, was repealed. See 1958 Amendment note below.
 
-Par. (3). Pub. L. 94–455, § 1904(b)(9)(D), redesignated par. (8) as (3). Former par. (3), relating to offenses by manufacturers or importers of or wholesale dealers in oleomargarine or adulterated butter, was struck out.
+Par. (3). Pub. L. 94–455, § 1904(b)(9)(D), redesignated par. (8) as (3). Former par. (3), relating to offenses by manufacturers or importers of or wholesale dealers in oleomargarine or adulterated butter, was struck out.
 
-Par. (4). Pub. L. 94–455, § 1904(b)(9)(D), struck out par. (4) which related to the purchase or receipt of adulterated butter.
+Par. (4). Pub. L. 94–455, § 1904(b)(9)(D), struck out par. (4) which related to the purchase or receipt of adulterated butter.
 
-Par. (5). Pub. L. 94–455, § 1904(b)(9)(D), struck out par. (5) which related to packages of oleomargarine found without required stamps or marks.
+Par. (5). Pub. L. 94–455, § 1904(b)(9)(D), struck out par. (5) which related to packages of oleomargarine found without required stamps or marks.
 
-Par. (6). Pub. L. 94–455, § 1904(b)(8)(G), struck out par. (6) which related to white phosphorus matches.
+Par. (6). Pub. L. 94–455, § 1904(b)(8)(G), struck out par. (6) which related to white phosphorus matches.
 
-Pars. (7), (8). Pub. L. 94–455, § 1904(b)(9)(D), redesignated pars. (7) and (8) as (2) and (3), respectively.
+Pars. (7), (8). Pub. L. 94–455, § 1904(b)(9)(D), redesignated pars. (7) and (8) as (2) and (3), respectively.
 
 1974—Par. (4). Pub. L. 93–490 substituted provisions relating to purchase or receipt of adulterated butter and payment of tax under section 4821 of this title for provisions relating to purchase or receipt of filled cheese or adulterated butter and payment of tax under section 4821 or 4841 of this title.
 
@@ -1455,11 +1455,11 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 Amendment by Pub. L. 93–490 applicable to filled cheese manufactured, imported, or sold after Oct. 26, 1974, see section 3(c) of Pub. L. 93–490, set out as an Effective Date of Repeal note under sections 4831 to 4834 of this title.
 
-#### § 7304. Penalty for fraudulently claiming drawback
+#### § 7304. Penalty for fraudulently claiming drawback
 
 Whenever any person fraudulently claims or seeks to obtain an allowance of drawback on goods, wares, or merchandise on which no internal tax shall have been paid, or fraudulently claims any greater allowance of drawback than the tax actually paid, he shall forfeit triple the amount wrongfully or fraudulently claimed or sought to be obtained, or the sum of $500, at the election of the Secretary.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 869; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 869; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -1473,19 +1473,19 @@ Whenever any person fraudulently claims or seeks to obtain an allowance of drawb
 
 **Amendments**
 
-2018—Pub. L. 115–141, div. U, title IV, § 401(b)(50), Mar. 23, 2018, 132 Stat. 1205, struck out item 7326 “Disposal of forfeited or abandoned property in special cases”.
+2018—Pub. L. 115–141, div. U, title IV, § 401(b)(50), Mar. 23, 2018, 132 Stat. 1205, struck out item 7326 “Disposal of forfeited or abandoned property in special cases”.
 
-1986—Pub. L. 99–514, title XV, § 1566(d), Oct. 22, 1986, 100 Stat. 2763, substituted “$100,000” for “$2,500” in item 7325.
+1986—Pub. L. 99–514, title XV, § 1566(d), Oct. 22, 1986, 100 Stat. 2763, substituted “$100,000” for “$2,500” in item 7325.
 
-1976—Pub. L. 94–455, title XIX, § 1904(b)(8)(H)(ii), Oct. 4, 1976, 90 Stat. 1816, struck out item 7328 “Confiscation of matches exported” and redesignated item 7329 as 7328.
+1976—Pub. L. 94–455, title XIX, § 1904(b)(8)(H)(ii), Oct. 4, 1976, 90 Stat. 1816, struck out item 7328 “Confiscation of matches exported” and redesignated item 7329 as 7328.
 
-1958—Pub. L. 85–859, title II, § 204(11), Sept. 2, 1958, 72 Stat. 1429, substituted “$2,500” for “$1,000” in item 7325.
+1958—Pub. L. 85–859, title II, § 204(11), Sept. 2, 1958, 72 Stat. 1429, substituted “$2,500” for “$1,000” in item 7325.
 
-#### § 7321. Authority to seize property subject to forfeiture
+#### § 7321. Authority to seize property subject to forfeiture
 
 Any property subject to forfeiture to the United States under any provision of this title may be seized by the Secretary.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 869; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 869; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -1493,11 +1493,11 @@ Any property subject to forfeiture to the United States under any provision of t
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### § 7322. Delivery of seized personal property to United States marshal
+#### § 7322. Delivery of seized personal property to United States marshal
 
 Any forfeitable property which may be seized under the provisions of this title may, at the option of the Secretary, be delivered to the United States marshal of the district, and remain in the care and custody and under the control of such marshal, pending disposal thereof as provided by law.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 869; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 869; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -1505,7 +1505,7 @@ Any forfeitable property which may be seized under the provisions of this title 
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### § 7323. Judicial action to enforce forfeiture
+#### § 7323. Judicial action to enforce forfeiture
 
 **(a) Nature and venue**
 
@@ -1521,7 +1521,7 @@ The cost of seizure made before process issues shall be taxable by the court.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 869.)
 
-#### § 7324. Special disposition of perishable goods
+#### § 7324. Special disposition of perishable goods
 
 When any property which is seized under the provisions of section 7301 or section 7302 is liable to perish or become greatly reduced in price or value by keeping, or when it cannot be kept without great expense—
 
@@ -1555,7 +1555,7 @@ The proceeds of the sale, after deducting the reasonable costs of the seizure an
 
 For provisions relating to form and sureties on bonds, see section 7101.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 870; Pub. L. 85–859, title II, § 204(9), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 85–866, title I, § 78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 870; Pub. L. 85–859, title II, § 204(9), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 85–866, title I, § 78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -1575,7 +1575,7 @@ Amendment by Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pu
 
 Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note under section 5001 of this title.
 
-#### § 7325. Personal property valued at $100,000 or less
+#### § 7325. Personal property valued at $100,000 or less
 
 In all cases of seizure of any goods, wares, or merchandise as being subject to forfeiture under any provision of this title which, in the opinion of the Secretary, are of the appraised value of $100,000 or less, the Secretary shall, except in cases otherwise provided, proceed as follows:
 
@@ -1595,7 +1595,7 @@ Any person claiming the goods, wares, or merchandise so seized, within the time 
 
 If no claim is interposed and no bond is given within the time above specified, the Secretary shall give reasonable notice of the sale of the goods, wares, or merchandise by publication, and, at the time and place specified in the notice, shall, unless otherwise provided by law, sell the articles so seized at public auction, or upon competitive bids, in accordance with such regulations as may be prescribed by the Secretary.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 870; Pub. L. 85–859, title II, § 204(10), (12), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 85–866, title I, § 78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, § 1566(a), (b), Oct. 22, 1986, 100 Stat. 2763.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 870; Pub. L. 85–859, title II, § 204(10), (12), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 85–866, title I, § 78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, § 1566(a), (b), Oct. 22, 1986, 100 Stat. 2763.)
 
 **Editorial Notes**
 
@@ -1607,13 +1607,13 @@ If no claim is interposed and no bond is given within the time above specified, 
 
 1958—Pub. L. 85–866 struck out “district” before “attorney” in par. (3).
 
-Pub. L. 85–859 substituted “$2,500” for “$1,000” in section catchline, opening par., and par. (2), and inserted “, unless otherwise provided by law,” before “sell the articles” in par. (4).
+Pub. L. 85–859 substituted “$2,500” for “$1,000” in section catchline, opening par., and par. (2), and inserted “, unless otherwise provided by law,” before “sell the articles” in par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title XV, § 1566(e), Oct. 22, 1986, 100 Stat. 2763, provided that: “The amendments made by this section [amending this section and section 7103 of this title] shall take effect on the date of the enactment of this Act [Oct. 22, 1986].”
+Pub. L. 99–514, title XV, § 1566(e), Oct. 22, 1986, 100 Stat. 2763, provided that: “The amendments made by this section [amending this section and section 7103 of this title] shall take effect on the date of the enactment of this Act [Oct. 22, 1986].”
 
 **Effective Date of 1958 Amendments**
 
@@ -1621,9 +1621,9 @@ Amendment by Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pu
 
 Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note under section 5001 of this title.
 
-#### [§ 7326. Repealed. Pub. L. 115–141, div. U, title IV, § 401(b)(50), Mar. 23, 2018, 132 Stat. 1205]
+#### [§ 7326. Repealed. Pub. L. 115–141, div. U, title IV, § 401(b)(50), Mar. 23, 2018, 132 Stat. 1205]
 
-Section, act Aug. 16, 1954, ch. 736, 68A Stat. 871; Pub. L. 85–859, title II, § 204(13), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 89–44, title VI, § 601(j), June 21, 1965, 79 Stat. 155; Pub. L. 91–513, title III, § 1102(f), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 94–455, title XIX, §§ 1906(a)(43), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1830, 1834, related to disposal of certain forfeited property.
+Section, act Aug. 16, 1954, ch. 736, 68A Stat. 871; Pub. L. 85–859, title II, § 204(13), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 89–44, title VI, § 601(j), June 21, 1965, 79 Stat. 155; Pub. L. 91–513, title III, § 1102(f), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 94–455, title XIX, §§ 1906(a)(43), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1830, 1834, related to disposal of certain forfeited property.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1631,11 +1631,11 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 871; Pub. L. 85–859, title II, 
 
 For provisions that nothing in repeal by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
-#### § 7327. Customs laws applicable
+#### § 7327. Customs laws applicable
 
 The provisions of law applicable to the remission or mitigation by the Secretary of forfeitures under the customs laws shall apply to forfeitures incurred or alleged to have been incurred under the internal revenue laws.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 871; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 871; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -1643,7 +1643,7 @@ The provisions of law applicable to the remission or mitigation by the Secretary
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### § 7328. Cross references
+#### § 7328. Cross references
 
 **(1)** For the issuance of certificates of probable cause relieving officers making seizures of responsibility for damages, see 28 U. S. C. 2465.
 
@@ -1653,13 +1653,13 @@ The provisions of law applicable to the remission or mitigation by the Secretary
 
 **(4)** For provisions relating to forfeitures generally in connection with taxes on certain firearms, see chapter 53.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 871, § 7329; renumbered § 7328, Pub. L. 94–455, title XIX, § 1904(b)(8)(H)(i), Oct. 4, 1976, 90 Stat. 1816.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 871, § 7329; renumbered § 7328, Pub. L. 94–455, title XIX, § 1904(b)(8)(H)(i), Oct. 4, 1976, 90 Stat. 1816.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7328, act Aug. 16, 1954, ch. 736, 68A Stat. 871, provided for confiscation of white phosphorus matches exported or attempted to be exported, prior to repeal by Pub. L. 94–455, § 1904(b)(8)(H)(i).
+A prior section 7328, act Aug. 16, 1954, ch. 736, 68A Stat. 871, provided for confiscation of white phosphorus matches exported or attempted to be exported, prior to repeal by Pub. L. 94–455, § 1904(b)(8)(H)(i).
 
 A prior section 7329 was renumbered section 7328 of this title.
 
@@ -1669,9 +1669,9 @@ A prior section 7329 was renumbered section 7328 of this title.
 
 **Amendments**
 
-2015—Pub. L. 114–94, div. C, title XXXII, § 32101(h), Dec. 4, 2015, 129 Stat. 1733, added item 7345.
+2015—Pub. L. 114–94, div. C, title XXXII, § 32101(h), Dec. 4, 2015, 129 Stat. 1733, added item 7345.
 
-### § 7341. Penalty for sales to evade tax
+### § 7341. Penalty for sales to evade tax
 
 **(a) Nonenforceability of contract**
 
@@ -1687,25 +1687,25 @@ Any person who shall sue for the sum so paid (in an action of debt) shall recove
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 872.)
 
-### § 7342. Penalty for refusal to permit entry or examination
+### § 7342. Penalty for refusal to permit entry or examination
 
 Any owner of any building or place, or person having the agency or superintendence of the same, who refuses to admit any officer or employee of the Treasury Department acting under the authority of section 7606 (relating to entry of premises for examination of taxable articles) or refuses to permit him to examine such article or articles, shall, for every such refusal, forfeit $500.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 872.)
 
-### § 7343. Definition of term “person”
+### § 7343. Definition of term “person”
 
 The term “person” as used in this chapter includes an officer or employee of a corporation, or a member or employee of a partnership, who as such officer, employee, or member is under a duty to perform the act in respect of which the violation occurs.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 872.)
 
-### § 7344. Extended application of penalties relating to officers of the Treasury Department
+### § 7344. Extended application of penalties relating to officers of the Treasury Department
 
 All provisions of law imposing fines, penalties, or other punishment for offenses committed by an internal revenue officer or other officer of the Department of the Treasury, or under any agency or office thereof, shall apply to all persons whomsoever, employed, appointed, or acting under the authority of any internal revenue law, or any revenue provision of any law of the United States, when such persons are designated or acting as officers or employees in connection with such law, or are persons having the custody or disposition of any public money.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 872.)
 
-### § 7345. Revocation or denial of passport in case of certain tax delinquencies
+### § 7345. Revocation or denial of passport in case of certain tax delinquencies
 
 **(a) In general**
 
@@ -1785,7 +1785,7 @@ If any amount as adjusted under the preceding sentence is not a multiple of $1,0
 
 A certification under subsection (a) or reversal of certification under subsection (c) may only be delegated by the Commissioner of Internal Revenue to the Deputy Commissioner for Services and Enforcement, or the Commissioner of an operating division, of the Internal Revenue Service.
 
-(Added Pub. L. 114–94, div. C, title XXXII, § 32101(a), Dec. 4, 2015, 129 Stat. 1729; amended Pub. L. 115–97, title I, § 11002(d)(1)(RR), Dec. 22, 2017, 131 Stat. 2061; Pub. L. 115–141, div. U, title I, § 103(a), Mar. 23, 2018, 132 Stat. 1169.)
+(Added Pub. L. 114–94, div. C, title XXXII, § 32101(a), Dec. 4, 2015, 129 Stat. 1729; amended Pub. L. 115–97, title I, § 11002(d)(1)(RR), Dec. 22, 2017, 131 Stat. 2061; Pub. L. 115–141, div. U, title I, § 103(a), Mar. 23, 2018, 132 Stat. 1169.)
 
 **Inflation Adjusted Items for Certain Years**
 
@@ -1799,9 +1799,9 @@ Section 32101 of the FAST Act, referred to in subsec. (a), is section 32101 of P
 
 **Amendments**
 
-2018—Subsec. (e)(1). Pub. L. 115–141, § 103(a)(1), substituted “, or against the Commissioner in the Tax Court,” for “or the Tax Court” and inserted at end “For purposes of the preceding sentence, the court first acquiring jurisdiction over such an action shall have sole jurisdiction.”
+2018—Subsec. (e)(1). Pub. L. 115–141, § 103(a)(1), substituted “, or against the Commissioner in the Tax Court,” for “or the Tax Court” and inserted at end “For purposes of the preceding sentence, the court first acquiring jurisdiction over such an action shall have sole jurisdiction.”
 
-Subsec. (f). Pub. L. 115–141, § 103(a)(2), substituted “subsection (b)(1)(B)” for “subsection (a)” in introductory provisions.
+Subsec. (f). Pub. L. 115–141, § 103(a)(2), substituted “subsection (b)(1)(B)” for “subsection (a)” in introductory provisions.
 
 2017—Subsec. (f)(2). Pub. L. 115–97 substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
 
@@ -1809,7 +1809,7 @@ Subsec. (f). Pub. L. 115–141, § 103(a)(2), substituted “subsection (b)(1)
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–141, div. U, title I, § 103(b), Mar. 23, 2018, 132 Stat. 1170, provided that: “The amendments made by this section [amending this section] shall take effect as if included in section 32101 of the Fixing America’s Surface Transportation Act [Pub. L. 114–94].”
+Pub. L. 115–141, div. U, title I, § 103(b), Mar. 23, 2018, 132 Stat. 1170, provided that: “The amendments made by this section [amending this section] shall take effect as if included in section 32101 of the Fixing America’s Surface Transportation Act [Pub. L. 114–94].”
 
 **Effective Date of 2017 Amendment**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 7—FOREIGN EXCESS PROPERTY
 
-## § 701. Administrative
+## § 701. Administrative
 
 **(a) Policies Prescribed by the President.—** The President may prescribe policies that the President considers necessary to carry out this chapter. The policies must be consistent with this chapter.
 
@@ -59,8 +59,8 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 701(a) | 40:514(a) (words before last comma). | June 30, 1949, ch. 288, title IV, § 404, 63 Stat. 398; Pub. L. 86–624, § 27(c), July 12, 1960, 74 Stat. 418; Pub. L. 96–470, title I, § 101(a), Oct. 19, 1980, 94 Stat. 2237. |
-| 701(b)(1) | 40:511 (words before proviso). | June 30, 1949, ch. 288, title IV, § 401, 63 Stat. 397. |
+| 701(a) | 40:514(a) (words before last comma). | June 30, 1949, ch. 288, title IV, § 404, 63 Stat. 398; Pub. L. 86–624, § 27(c), July 12, 1960, 74 Stat. 418; Pub. L. 96–470, title I, § 101(a), Oct. 19, 1980, 94 Stat. 2237. |
+| 701(b)(1) | 40:511 (words before proviso). | June 30, 1949, ch. 288, title IV, § 401, 63 Stat. 397. |
 |  | 40:514(d). |  |
 | 701(b)(2)(A) | 40:514(a) (words after last comma). |  |
 | 701(b)(2)(B) | 40:511 (proviso cl. (a)). |  |
@@ -81,11 +81,11 @@ In subsection (c)(2), the words “Secretary of State” are substituted for “
 
 **References in Text**
 
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (c)(1)(A), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of Title 22 and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (c)(1)(A), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of Title 22 and Tables.
 
-The Foreign Service Buildings Act, 1926, referred to in subsec. (c)(1)(B), is act May 7, 1926, ch. 250, 44 Stat. 403, as which is classified generally to chapter 8 (§ 292 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see section 299 of Title 22 and Tables.
+The Foreign Service Buildings Act, 1926, referred to in subsec. (c)(1)(B), is act May 7, 1926, ch. 250, 44 Stat. 403, as which is classified generally to chapter 8 (§ 292 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see section 299 of Title 22 and Tables.
 
-## § 702. Return of foreign excess property to United States
+## § 702. Return of foreign excess property to United States
 
 **(a) In General.—** Under regulations prescribed pursuant to subsection (b), foreign excess property may be returned to the United States for handling as excess or surplus property under subchapter II of chapter 5 of this title or section 549 or 551 of this title when the head of the executive agency concerned, or the Administrator of General Services after consultation with the agency head, determines that return of the property to the United States for such handling is in the interest of the United States.
 
@@ -97,9 +97,9 @@ The Foreign Service Buildings Act, 1926, referred to in subsec. (c)(1)(B), is ac
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 702 | 40:512(c). | June 30, 1949, ch. 288, title IV, § 402(c), as added Pub. L. 91–426, § 2(d), Sept. 26, 1970, 84 Stat. 883; Pub. L. 94–519, § 4, Oct. 17, 1976, 90 Stat. 2455. |
+| 702 | 40:512(c). | June 30, 1949, ch. 288, title IV, § 402(c), as added Pub. L. 91–426, § 2(d), Sept. 26, 1970, 84 Stat. 883; Pub. L. 94–519, § 4, Oct. 17, 1976, 90 Stat. 2455. |
 
-## § 703. Donation of medical supplies for use in foreign country
+## § 703. Donation of medical supplies for use in foreign country
 
 **(a) Application.—** This section applies to medical materials or supplies that are in a foreign country but that would, if situated within the United States, be available for donation under subchapter III of chapter 5 of this title.
 
@@ -119,9 +119,9 @@ The Foreign Service Buildings Act, 1926, referred to in subsec. (c)(1)(B), is ac
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 703 | 40:512(b). | June 30, 1949, ch. 288, title IV, § 402(b), as added Pub. L. 91–426, § 2(d), Sept. 26, 1970, 84 Stat. 883. |
+| 703 | 40:512(b). | June 30, 1949, ch. 288, title IV, § 402(b), as added Pub. L. 91–426, § 2(d), Sept. 26, 1970, 84 Stat. 883. |
 
-## § 704. Other methods of disposal
+## § 704. Other methods of disposal
 
 **(a) In General.—** Foreign excess property not disposed of under section 702 or 703 of this title may be disposed of as provided in this section.
 
@@ -147,9 +147,9 @@ The Foreign Service Buildings Act, 1926, referred to in subsec. (c)(1)(B), is ac
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 704 | 40:512(a). | June 30, 1949, ch. 288, title IV, § 402(a), 63 Stat. 398; Pub. L. 91–426, § 2(a)–(c), Sept. 26, 1970, 84 Stat. 883; Pub. L. 99–627, § 3(a), Nov. 7, 1986, 100 Stat. 3509. |
+| 704 | 40:512(a). | June 30, 1949, ch. 288, title IV, § 402(a), 63 Stat. 398; Pub. L. 91–426, § 2(a)–(c), Sept. 26, 1970, 84 Stat. 883; Pub. L. 99–627, § 3(a), Nov. 7, 1986, 100 Stat. 3509. |
 
-## § 705. Handling of proceeds from disposal
+## § 705. Handling of proceeds from disposal
 
 **(a) In General.—** This section applies to proceeds from the sale, lease, or other disposition of foreign excess property under this chapter.
 
@@ -177,6 +177,6 @@ The Foreign Service Buildings Act, 1926, referred to in subsec. (c)(1)(B), is ac
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 705 | 40:513. | June 30, 1949, ch. 288, title IV, § 403, 63 Stat. 398. |
+| 705 | 40:513. | June 30, 1949, ch. 288, title IV, § 403, 63 Stat. 398. |
 
 In subsection (d)(1), the words “in the Treasury” are substituted for “with the Treasurer of the United States” because of section 1 of Reorganization Plan No. 26 of 1950 (eff. July 31, 1950, 64 Stat. 1280), restated as section 321 of title 31.

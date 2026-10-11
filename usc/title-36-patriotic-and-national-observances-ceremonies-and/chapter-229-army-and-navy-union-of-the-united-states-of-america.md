@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 229—ARMY AND NAVY UNION OF THE UNITED STATES OF AMERICA"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 229—ARMY AND NAVY UNION OF THE UNITED STATES OF AMERICA"
 identifier: "/us/usc/t36/stII/ptB/ch229"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 229—ARMY AND NAVY UNION OF THE UNITED STATES OF AMERICA
 
-## § 22901. Definition
+## § 22901. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
 
@@ -25,11 +25,11 @@ For purposes of this chapter, “State” includes the District of Columbia and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22901 | 36:3913. | Nov. 6, 1986, Pub. L. 99–604, § 14, 100 Stat. 3448. |
+| 22901 | 36:3913. | Nov. 6, 1986, Pub. L. 99–604, § 14, 100 Stat. 3448. |
 
 The words “the Commonwealth of Puerto Rico” are omitted as included in “the territories and possessions of the United States”.
 
-## § 22902. Organization
+## § 22902. Organization
 
 **(a) Federal Charter.—** Army and Navy Union of the United States of America (in this chapter, the “corporation”), incorporated in Ohio, is a federally chartered corporation.
 
@@ -41,12 +41,12 @@ The words “the Commonwealth of Puerto Rico” are omitted as included in “th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22902(a) | 36:3901. | Nov. 6, 1986, Pub. L. 99–604, §§ 1, 15 (last sentence), 16, 100 Stat. 3446, 3448. |
+| 22902(a) | 36:3901. | Nov. 6, 1986, Pub. L. 99–604, §§ 1, 15 (last sentence), 16, 100 Stat. 3446, 3448. |
 | 22902(b) | 36:3914 (last sentence). 36:3915. |  |
 
 Subsection (a) is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
-## § 22903. Purposes
+## § 22903. Purposes
 
 The purposes of the corporation are as provided in its articles of incorporation and include—
 
@@ -70,11 +70,11 @@ The purposes of the corporation are as provided in its articles of incorporation
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22903 | 36:3903. | Nov. 6, 1986, Pub. L. 99–604, § 3, 100 Stat. 3446. |
+| 22903 | 36:3903. | Nov. 6, 1986, Pub. L. 99–604, § 3, 100 Stat. 3446. |
 
 Before clause (1), the word “objects” is omitted as included in “purposes”.
 
-## § 22904. Membership
+## § 22904. Membership
 
 Eligibility for membership in the corporation and the rights and privileges of members are as provided in the bylaws.
 
@@ -84,9 +84,9 @@ Eligibility for membership in the corporation and the rights and privileges of m
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22904 | 36:3905. | Nov. 6, 1986, Pub. L. 99–604, § 5, 100 Stat. 3447. |
+| 22904 | 36:3905. | Nov. 6, 1986, Pub. L. 99–604, § 5, 100 Stat. 3447. |
 
-## § 22905. Governing body
+## § 22905. Governing body
 
 **(a) Board of Directors.—** The board of directors and the responsibilities of the board are as provided in the articles of incorporation.
 
@@ -98,12 +98,12 @@ Eligibility for membership in the corporation and the rights and privileges of m
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22905(a) | 36:3906. | Nov. 6, 1986, Pub. L. 99–604, §§ 6, 7, 100 Stat. 3447. |
+| 22905(a) | 36:3906. | Nov. 6, 1986, Pub. L. 99–604, §§ 6, 7, 100 Stat. 3447. |
 | 22905(b) | 36:3907. |  |
 
 The words “and in conformity with the laws of the State or States in which it is incorporated” in 36:3906 and “and in conformity with the laws of the State or States wherein it is incorporated” in 36:3907 are omitted as unnecessary.
 
-## § 22906. Powers
+## § 22906. Powers
 
 The corporation has only the powers provided in its bylaws and articles of incorporation filed in each State in which it is incorporated.
 
@@ -113,11 +113,11 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22906 | 36:3902. | Nov. 6, 1986, Pub. L. 99–604, § 2, 100 Stat. 3446. |
+| 22906 | 36:3902. | Nov. 6, 1986, Pub. L. 99–604, § 2, 100 Stat. 3446. |
 
 The words “each State” are substituted for “State or States” for consistency in the revised title. The words “and subject to the laws of such State or States” are omitted as unnecessary.
 
-## § 22907. Restrictions
+## § 22907. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -135,7 +135,7 @@ The words “each State” are substituted for “State or States” for consist
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22907(a) | 36:3908(d). | Nov. 6, 1986, Pub. L. 99–604, § 8(a)–(e), 100 Stat. 3447. |
+| 22907(a) | 36:3908(d). | Nov. 6, 1986, Pub. L. 99–604, § 8(a)–(e), 100 Stat. 3447. |
 | 22907(b) | 36:3908(c). |  |
 | 22907(c) | 36:3908(a). |  |
 | 22907(d) | 36:3908(b). |  |
@@ -147,7 +147,7 @@ In subsection (b), the words “as such” are substituted for “acting as such
 
 In subsection (c), the words “inure to the benefit of” are substituted for “shall insure [sic] to”, and the words “charter granted by this chapter” are substituted for “this charter”, for clarity and consistency in the revised title.
 
-## § 22908. Duty to maintain corporate and tax-exempt status
+## § 22908. Duty to maintain corporate and tax-exempt status
 
 **(a) Corporate Status.—** The corporation shall maintain its status as a corporation incorporated under the laws of Ohio.
 
@@ -159,12 +159,12 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22908(a) | 36:3908(f). | Nov. 6, 1986, Pub. L. 99–604, §§ 8(f), 15 (1st sentence), 100 Stat. 3447, 3448. |
+| 22908(a) | 36:3908(f). | Nov. 6, 1986, Pub. L. 99–604, §§ 8(f), 15 (1st sentence), 100 Stat. 3447, 3448. |
 | 22908(b) | 36:3914 (1st sentence). |  |
 
 In subsection (a), the words “retain and”, “organized and”, and “the State of” are omitted as unnecessary.
 
-## § 22909. Records and inspection
+## § 22909. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -182,11 +182,11 @@ In subsection (a), the words “retain and”, “organized and”, and “the S
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22909 | 36:3910. | Nov. 6, 1986, Pub. L. 99–604, § 10, 100 Stat. 3447. |
+| 22909 | 36:3910. | Nov. 6, 1986, Pub. L. 99–604, § 10, 100 Stat. 3447. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code. The words “Nothing in this section shall be construed to contravene any applicable State law” are omitted as unnecessary.
 
-## § 22910. Service of process
+## § 22910. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
@@ -196,11 +196,11 @@ The corporation shall comply with the law on service of process of each State in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22910 | 36:3904. | Nov. 6, 1986, Pub. L. 99–604, § 4, 100 Stat. 3446. |
+| 22910 | 36:3904. | Nov. 6, 1986, Pub. L. 99–604, § 4, 100 Stat. 3446. |
 
 The words “in furtherance of its corporate purposes” are omitted as unnecessary.
 
-## § 22911. Liability for acts of officers and agents
+## § 22911. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -210,9 +210,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22911 | 36:3909. | Nov. 6, 1986, Pub. L. 99–604, § 9, 100 Stat. 3447. |
+| 22911 | 36:3909. | Nov. 6, 1986, Pub. L. 99–604, § 9, 100 Stat. 3447. |
 
-## § 22912. Annual report
+## § 22912. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year. The report shall be submitted at the same time as the report of the audit required by section 10101 of this title. The report may not be printed as a public document.
 
@@ -222,7 +222,7 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22912 | 36:3911. | Nov. 6, 1986, Pub. L. 99–604, § 12, 100 Stat. 3448. |
+| 22912 | 36:3911. | Nov. 6, 1986, Pub. L. 99–604, § 12, 100 Stat. 3448. |
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 32—FOREIGN BANK PARTICIPATION IN DOMESTIC MARKETS
 
-## § 3101. Definitions
+## § 3101. Definitions
 
 For the purposes of this chapter—
 
@@ -43,9 +43,9 @@ For the purposes of this chapter—
 
 **(12)** “State branch” means a branch of a foreign bank established and operating under the laws of any State;
 
-**(13)** the terms “affiliate,” 1
+**(13)** the terms “affiliate,” 1
 
-<sup>1</sup>  So in original. The comma probably should follow the quotation marks.
+<sup>1</sup> So in original. The comma probably should follow the quotation marks.
 
 “bank”, “bank holding company”, “company”, “control”, and “subsidiary” have the same meanings assigned to those terms in the Bank Holding Company Act of 1956 [12 U.S.C. 1841 et seq.], and the terms “controlled” and “controlling” shall be construed consistently with the term “control” as defined in section 2 of the Bank Holding Company Act of 1956 [12 U.S.C. 1841];
 
@@ -57,7 +57,7 @@ For the purposes of this chapter—
 
 **(17)** the term “State bank supervisor” has the meaning given to such term in section 1813 of this title.
 
-(Pub. L. 95–369, § 1(b), Sept. 17, 1978, 92 Stat. 607; Pub. L. 102–242, title II, § 202(e), Dec. 19, 1991, 105 Stat. 2290; Pub. L. 106–102, title I, § 142(a), Nov. 12, 1999, 113 Stat. 1384.)
+(Pub. L. 95–369, § 1(b), Sept. 17, 1978, 92 Stat. 607; Pub. L. 102–242, title II, § 202(e), Dec. 19, 1991, 105 Stat. 2290; Pub. L. 106–102, title I, § 142(a), Nov. 12, 1999, 113 Stat. 1384.)
 
 **Editorial Notes**
 
@@ -65,15 +65,15 @@ For the purposes of this chapter—
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, known as the International Banking Act of 1978, which enacted this chapter and sections 347d and 611a of this title, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820 to 1823, 1828, 1829b, 1831b, and 1841 of this title, and enacted provisions set out as notes under this section and sections 36, 247, 601, and 611a of this title and formerly set out as notes under sections 36, 247, and 601 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Bank Holding Company Act of 1956, referred to in par. (13), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in par. (13), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
 **Amendments**
 
 1999—Par. (15). Pub. L. 106–102 substituted “or State agency;” for “State agency, or subsidiary of a foreign bank;”.
 
-1991—Par. (13). Pub. L. 102–242, § 202(e)(1), inserted reference to affiliate after first reference to “the terms”.
+1991—Par. (13). Pub. L. 102–242, § 202(e)(1), inserted reference to affiliate after first reference to “the terms”.
 
-Pars. (15) to (17). Pub. L. 102–242, § 202(e)(2), added pars. (15) to (17).
+Pars. (15) to (17). Pub. L. 102–242, § 202(e)(2), added pars. (15) to (17).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -83,15 +83,15 @@ Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see secti
 
 **Short Title of 1991 Amendment**
 
-Pub. L. 102–242, title II, § 201, Dec. 19, 1991, 105 Stat. 2286, provided that: “This subtitle [subtitle A (§§ 201–215) of title II of Pub. L. 102–242, enacting sections 3109 to 3111 of this title, amending this section and sections 1467a, 1817, 1820, 1842, 2803, 2804, 3102, 3104 to 3108, and 4009 of this title and sections 44, 57a, 1607, 1681s, 1691c, 1692*l*, and 1693*o* of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 3102 of this title] may be cited as the ‘Foreign Bank Supervision Enhancement Act of 1991’.”
+Pub. L. 102–242, title II, § 201, Dec. 19, 1991, 105 Stat. 2286, provided that: “This subtitle [subtitle A (§§ 201–215) of title II of Pub. L. 102–242, enacting sections 3109 to 3111 of this title, amending this section and sections 1467a, 1817, 1820, 1842, 2803, 2804, 3102, 3104 to 3108, and 4009 of this title and sections 44, 57a, 1607, 1681s, 1691c, 1692*l*, and 1693*o* of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 3102 of this title] may be cited as the ‘Foreign Bank Supervision Enhancement Act of 1991’.”
 
 **Short Title**
 
-Pub. L. 95–369, § 1(a), Sept. 17, 1978, 92 Stat. 607, provided that: “This Act [enacting this chapter and sections 347d and 611a of this title, amending sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820 to 1823, 1828, 1829b, 1831b and 1841 of this title, and enacting provisions set out as notes under sections 36, 247, 601, and 611a of this title] may be cited as the ‘International Banking Act of 1978’.”
+Pub. L. 95–369, § 1(a), Sept. 17, 1978, 92 Stat. 607, provided that: “This Act [enacting this chapter and sections 347d and 611a of this title, amending sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820 to 1823, 1828, 1829b, 1831b and 1841 of this title, and enacting provisions set out as notes under sections 36, 247, 601, and 611a of this title] may be cited as the ‘International Banking Act of 1978’.”
 
 **Foreign Control of United States Financial Institutions**
 
-Pub. L. 96–221, title IX, §§ 901, 902, Mar. 31, 1980, 94 Stat. 192, 193, provided that:
+Pub. L. 96–221, title IX, §§ 901, 902, Mar. 31, 1980, 94 Stat. 192, 193, provided that:
 
 > **“Sec. 901.**
 
@@ -119,7 +119,7 @@ Pub. L. 96–221, title IX, §§ 901, 902, Mar. 31, 1980, 94 Stat. 192, 193, p
 
 > **“(6)** the application relates to the takeover of a domestic financial institution which is a subsidiary of a bank holding company under an order to divest by December 31, 1980.”
 
-## § 3102. Establishment of Federal branches and agencies by foreign bank
+## § 3102. Establishment of Federal branches and agencies by foreign bank
 
 **(a) Establishment and operation of Federal branches and agencies**
 
@@ -181,7 +181,7 @@ Authority to operate a Federal branch or agency shall terminate when the parent 
 
 **(2)** In any receivership proceeding ordered pursuant to this subsection (j), whenever there has been paid to each and every depositor and creditor of such foreign bank whose claim or claims shall have been proved or allowed, the full amount of such claims arising out of transactions had by them with any branch or agency of such foreign bank located in any State of the United States, except (A) claims that would not represent an enforceable legal obligation against such branch or agency if such branch or agency were a separate legal entity, and (B) amounts due and other liabilities to other offices or branches or agencies of, and wholly owned (except for a nominal number of directors’ shares) subsidiaries of, such foreign bank, and all expenses of the receivership, the Comptroller or the Federal Deposit Insurance Corporation, where that Corporation has been appointed receiver of the foreign bank, shall turn over the remainder, if any, of the assets and proceeds of such foreign bank to the head office of such foreign bank, or to the duly appointed domiciliary liquidator or receiver of such foreign bank.
 
-(Pub. L. 95–369, § 4, Sept. 17, 1978, 92 Stat. 610; Pub. L. 102–242, title II, §§ 202(b), (c), 203(b), Dec. 19, 1991, 105 Stat. 2290, 2291; Pub. L. 106–569, title XII, § 1234, Dec. 27, 2000, 114 Stat. 3037.)
+(Pub. L. 95–369, § 4, Sept. 17, 1978, 92 Stat. 610; Pub. L. 102–242, title II, §§ 202(b), (c), 203(b), Dec. 19, 1991, 105 Stat. 2290, 2291; Pub. L. 106–569, title XII, § 1234, Dec. 27, 2000, 114 Stat. 3037.)
 
 **Editorial Notes**
 
@@ -189,7 +189,7 @@ Authority to operate a Federal branch or agency shall terminate when the parent 
 
 For definition of “this chapter”, referred to in subsec. (b), see References in Text note set out under section 3101 of this title.
 
-The National Bank Act, referred to in subsec. (b), is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
+The National Bank Act, referred to in subsec. (b), is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
 
 Section 3104 of this title, referred to in subsec. (g)(1), was in the original a reference to section 6 of Pub. L. 95–369, which enacted section 3104 of this title and amended sections 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, and 1831b of this title.
 
@@ -197,19 +197,19 @@ Section 3104 of this title, referred to in subsec. (g)(1), was in the original a
 
 2000—Subsec. (b). Pub. L. 106–569 redesignated cls. (2) to (4) as (1) to (3), respectively, and struck out former cl. (1) which read as follows: “the requirements of section 481 of this title shall be met with respect to a Federal branch or agency if it is examined at least once in each calendar year;”.
 
-1991—Subsec. (a). Pub. L. 102–242, § 202(b), inserted heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
+1991—Subsec. (a). Pub. L. 102–242, § 202(b), inserted heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
 
-Subsec. (b). Pub. L. 102–242, § 203(b), inserted at end: “The Comptroller of the Currency shall coordinate examinations of Federal branches and agencies of foreign banks with examinations conducted by the Board under section 3105(c)(1) of this title and, to the extent possible, shall participate in any simultaneous examinations of the United States operations of a foreign bank requested by the Board under such section.”
+Subsec. (b). Pub. L. 102–242, § 203(b), inserted at end: “The Comptroller of the Currency shall coordinate examinations of Federal branches and agencies of foreign banks with examinations conducted by the Board under section 3105(c)(1) of this title and, to the extent possible, shall participate in any simultaneous examinations of the United States operations of a foreign bank requested by the Board under such section.”
 
-Subsec. (h). Pub. L. 102–242, § 202(c), amended heading, designated existing provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+Subsec. (h). Pub. L. 102–242, § 202(c), amended heading, designated existing provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Study and Report on Subsidiary Requirements for Foreign Banks**
 
-Pub. L. 102–242, title II, § 215, Dec. 19, 1991, 105 Stat. 2304, as amended by Pub. L. 102–550, title XVI, § 1604(a)(14), Oct. 28, 1992, 106 Stat. 4083, directed Secretary of the Treasury, jointly with Board of Governors of the Federal Reserve System and in consultation with Comptroller of the Currency, Federal Deposit Insurance Corporation, and Attorney General, to conduct a study of whether foreign banks should be required to conduct banking operations in United States through subsidiaries rather than branches and, not later than 1 year after Dec. 19, 1991, to transmit to Congress a report on the results of the study.
+Pub. L. 102–242, title II, § 215, Dec. 19, 1991, 105 Stat. 2304, as amended by Pub. L. 102–550, title XVI, § 1604(a)(14), Oct. 28, 1992, 106 Stat. 4083, directed Secretary of the Treasury, jointly with Board of Governors of the Federal Reserve System and in consultation with Comptroller of the Currency, Federal Deposit Insurance Corporation, and Attorney General, to conduct a study of whether foreign banks should be required to conduct banking operations in United States through subsidiaries rather than branches and, not later than 1 year after Dec. 19, 1991, to transmit to Congress a report on the results of the study.
 
-## § 3103. Interstate banking by foreign banks
+## § 3103. Interstate banking by foreign banks
 
 **(a) Interstate branching and agency operations**
 
@@ -295,7 +295,7 @@ Unless its authority to do so is lawfully revoked otherwise than pursuant to thi
 
 **(2)** the fact that the domestic bank is controlled by a foreign bank which has Federal or State branches or agencies in States other than the home State of such domestic bank shall not affect the authority of the domestic bank to establish branches outside the home State of the domestic bank to the extent permitted under section 36(g) of this title or section 1828(d)(4) or 1831u of this title, as the case may be.
 
-(Pub. L. 95–369, § 5, Sept. 17, 1978, 92 Stat. 613; Pub. L. 103–328, title I, §§ 104, 107(f), Sept. 29, 1994, 108 Stat. 2354, 2361; Pub. L. 106–102, title VII, § 732, Nov. 12, 1999, 113 Stat. 1478.)
+(Pub. L. 95–369, § 5, Sept. 17, 1978, 92 Stat. 613; Pub. L. 103–328, title I, §§ 104, 107(f), Sept. 29, 1994, 108 Stat. 2354, 2361; Pub. L. 106–102, title VII, § 732, Nov. 12, 1999, 113 Stat. 1478.)
 
 **Editorial Notes**
 
@@ -303,9 +303,9 @@ Unless its authority to do so is lawfully revoked otherwise than pursuant to thi
 
 For definition of “this chapter”, referred to in subsec. (a)(1), (2), see References in Text note set out under section 3101 of this title.
 
-The Community Reinvestment Act of 1977, referred to in subsec. (a)(8)(A), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+The Community Reinvestment Act of 1977, referred to in subsec. (a)(8)(A), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
-Section 25A of the Federal Reserve Act, referred to in subsec. (a)(7)(A)(ii), (8)(B), popularly known as the Edge Act, is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 611 of this title and Tables.
+Section 25A of the Federal Reserve Act, referred to in subsec. (a)(7)(A)(ii), (8)(B), popularly known as the Edge Act, is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 611 of this title and Tables.
 
 **Amendments**
 
@@ -315,15 +315,15 @@ Section 25A of the Federal Reserve Act, referred to in subsec. (a)(7)(A)(ii), (8
 
 “(B) in the case of a Federal or State branch, the branch receives only such deposits as would be permissible for a corporation organized under section 25A of the Federal Reserve Act.”
 
-1994—Subsec. (a). Pub. L. 103–328, §§ 104(a), 107(f), inserted heading and substituted provisions consisting of pars. (1) to (9) for former provisions relating to limitations on interstate banking by foreign banks.
+1994—Subsec. (a). Pub. L. 103–328, §§ 104(a), 107(f), inserted heading and substituted provisions consisting of pars. (1) to (9) for former provisions relating to limitations on interstate banking by foreign banks.
 
-Subsec. (b). Pub. L. 103–328, § 104(b), inserted at end “Notwithstanding subsection (a), a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, or subsidiary continues, after September 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.”
+Subsec. (b). Pub. L. 103–328, § 104(b), inserted at end “Notwithstanding subsection (a), a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, or subsidiary continues, after September 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.”
 
-Subsec. (c). Pub. L. 103–328, § 104(d), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section, the home State of a foreign bank that has branches, agencies, subsidiary commercial lending companies, or subsidiary banks, or any combination thereof, in more than one State, is whichever of such States is so determined by election of the foreign bank, or, in default of such election, by the Board.”
+Subsec. (c). Pub. L. 103–328, § 104(d), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section, the home State of a foreign bank that has branches, agencies, subsidiary commercial lending companies, or subsidiary banks, or any combination thereof, in more than one State, is whichever of such States is so determined by election of the foreign bank, or, in default of such election, by the Board.”
 
-Subsec. (d). Pub. L. 103–328, § 104(c), added subsec. (d).
+Subsec. (d). Pub. L. 103–328, § 104(c), added subsec. (d).
 
-## § 3104. Insurance of deposits
+## § 3104. Insurance of deposits
 
 **(a) Objective**
 
@@ -359,7 +359,7 @@ For purposes of this subsection, the term “foreign bank” does not include an
 
 For purposes of this section, the term “standard maximum deposit insurance amount” means the amount of the maximum amount of deposit insurance as determined under section 11(a)(1) of the Federal Deposit Insurance Act [12 U.S.C. 1821(a)(1)].
 
-(Pub. L. 95–369, § 6, Sept. 17, 1978, 92 Stat. 614; Pub. L. 96–64, Sept. 14, 1979, 93 Stat. 412; Pub. L. 102–242, title II, § 214(a), Dec. 19, 1991, 105 Stat. 2303; Pub. L. 102–550, title XVI, § 1604(a)(10), (11), Oct. 28, 1992, 106 Stat. 4082, 4083; Pub. L. 102–558, title III, §§ 302(a), 305, Oct. 28, 1992, 106 Stat. 4224, 4226; Pub. L. 103–328, title I, § 107(a), (d), Sept. 29, 1994, 108 Stat. 2358, 2360; Pub. L. 109–173, § 2(c)(4), Feb. 15, 2006, 119 Stat. 3602.)
+(Pub. L. 95–369, § 6, Sept. 17, 1978, 92 Stat. 614; Pub. L. 96–64, Sept. 14, 1979, 93 Stat. 412; Pub. L. 102–242, title II, § 214(a), Dec. 19, 1991, 105 Stat. 2303; Pub. L. 102–550, title XVI, § 1604(a)(10), (11), Oct. 28, 1992, 106 Stat. 4082, 4083; Pub. L. 102–558, title III, §§ 302(a), 305, Oct. 28, 1992, 106 Stat. 4224, 4226; Pub. L. 103–328, title I, § 107(a), (d), Sept. 29, 1994, 108 Stat. 2358, 2360; Pub. L. 109–173, § 2(c)(4), Feb. 15, 2006, 119 Stat. 3602.)
 
 **Editorial Notes**
 
@@ -367,27 +367,27 @@ For purposes of this section, the term “standard maximum deposit insurance amo
 
 For definition of “this chapter”, referred to in subsec. (d)(1), see References in Text note set out under section 3101 of this title.
 
-The Federal Deposit Insurance Act, referred to in subsec. (d)(1), (3), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (d)(1), (3), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 **Amendments**
 
-2006—Subsecs. (b), (c)(1), (d)(1), (2). Pub. L. 109–173, § 2(c)(4)(A), substituted “an amount equal to the standard maximum deposit insurance amount” for “$100,000”.
+2006—Subsecs. (b), (c)(1), (d)(1), (2). Pub. L. 109–173, § 2(c)(4)(A), substituted “an amount equal to the standard maximum deposit insurance amount” for “$100,000”.
 
-Subsec. (e). Pub. L. 109–173, § 2(c)(4)(B), added subsec. (e).
+Subsec. (e). Pub. L. 109–173, § 2(c)(4)(B), added subsec. (e).
 
-1994—Subsecs. (a) to (d). Pub. L. 103–328, § 107(a), added subsec. (a) and redesignated former subsecs. (a) to (c) as (b) to (d), respectively.
+1994—Subsecs. (a) to (d). Pub. L. 103–328, § 107(a), added subsec. (a) and redesignated former subsecs. (a) to (c) as (b) to (d), respectively.
 
-Subsec. (d)(3). Pub. L. 103–328, § 107(d), added par. (3).
+Subsec. (d)(3). Pub. L. 103–328, § 107(d), added par. (3).
 
-1992—Subsec. (c). Pub. L. 102–550, § 1604(a)(10), struck out the subsec. (c) which was in effect before the subsec. (c) added by Pub. L. 102–242, § 214(a)(3), and which amended various other sections of this title.
+1992—Subsec. (c). Pub. L. 102–550, § 1604(a)(10), struck out the subsec. (c) which was in effect before the subsec. (c) added by Pub. L. 102–242, § 214(a)(3), and which amended various other sections of this title.
 
-Subsec. (c)(1). Pub. L. 102–558, § 302(a)(1), inserted “domestic retail” before “deposit accounts” and “and requiring deposit insurance protection,” after “$100,000,” in introductory provisions. Pub. L. 102–550, § 1604(a)(11)(A), which made an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, § 305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+Subsec. (c)(1). Pub. L. 102–558, § 302(a)(1), inserted “domestic retail” before “deposit accounts” and “and requiring deposit insurance protection,” after “$100,000,” in introductory provisions. Pub. L. 102–550, § 1604(a)(11)(A), which made an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, § 305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
-Subsec. (c)(2). Pub. L. 102–558, § 302(a)(2), substituted “Domestic retail deposit” for “Deposit” and inserted “that require deposit insurance protection” after “$100,000”. Pub. L. 102–550, § 1604(a)(11)(B), which made an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, § 305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+Subsec. (c)(2). Pub. L. 102–558, § 302(a)(2), substituted “Domestic retail deposit” for “Deposit” and inserted “that require deposit insurance protection” after “$100,000”. Pub. L. 102–550, § 1604(a)(11)(B), which made an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, § 305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
-1991—Subsec. (b). Pub. L. 102–242, § 214(a)(1), (2), redesignated subsec. (b) as (b)(1) and designated last undesignated par. as par. (2).
+1991—Subsec. (b). Pub. L. 102–242, § 214(a)(1), (2), redesignated subsec. (b) as (b)(1) and designated last undesignated par. as par. (2).
 
-Subsec. (c). Pub. L. 102–242, § 214(a)(3), added subsec. (c).
+Subsec. (c). Pub. L. 102–242, § 214(a)(3), added subsec. (c).
 
 1979—Subsec. (b). Pub. L. 96–64 inserted second par. which extended time for foreign banks to obtain required deposit insurance with respect to domestic existing branches.
 
@@ -399,13 +399,13 @@ Amendment by Pub. L. 109–173 effective Apr. 1, 2006, see section 2(e) of Pub. 
 
 **Effective Date of 1992 Amendments**
 
-Pub. L. 102–558, title III, § 302(b), Oct. 28, 1992, 106 Stat. 4224, provided that: “This section, and the amendments made by this section [amending this section], shall have the same effective date as the Federal Deposit Insurance Corporation Improvement Act of 1991 [Pub. L. 102–242].”
+Pub. L. 102–558, title III, § 302(b), Oct. 28, 1992, 106 Stat. 4224, provided that: “This section, and the amendments made by this section [amending this section], shall have the same effective date as the Federal Deposit Insurance Corporation Improvement Act of 1991 [Pub. L. 102–242].”
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 
 **Regulations**
 
-Pub. L. 103–328, title I, § 107(b), Sept. 29, 1994, 108 Stat. 2359, provided that:
+Pub. L. 103–328, title I, § 107(b), Sept. 29, 1994, 108 Stat. 2359, provided that:
 
 > **“(1) In general.—** Each Federal banking agency, after consultation with the other Federal banking agencies to assure uniformity, shall revise the regulations adopted by such agency under section 6 of the International Banking Act of 1978 [12 U.S.C. 3104] to ensure that the regulations are consistent with the objective set forth in section 6(a) of the International Banking Act of 1978.
 
@@ -455,7 +455,7 @@ Pub. L. 103–328, title I, § 107(b), Sept. 29, 1994, 108 Stat. 2359, provide
 
 > **“(B)** the term ‘uninsured branch’ means a branch of a foreign bank that is not an insured branch, as defined in section 3(s)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)(3)).”
 
-## § 3105. Authority of Federal Reserve System
+## § 3105. Authority of Federal Reserve System
 
 **(a) Bank reserves**
 
@@ -463,7 +463,7 @@ Pub. L. 103–328, title I, § 107(b), Sept. 29, 1994, 108 Stat. 2359, provide
 
 **(A)** Except as provided in paragraph (2) of this subsection, sections 371a,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 371b, 371b–1,1 374, 374a, 461, 464, and 465 of this title shall apply to every Federal branch and Federal agency of a foreign bank in the same manner and to the same extent as if the Federal branch or Federal agency were a member bank as that term is defined in section 221 of this title; but the Board either by general or specific regulation or ruling may waive the minimum and maximum reserve ratios prescribed under sections 461, 463, 464, 465, and 466 of this title and may prescribe any ratio, not more than 22 per centum, for any obligation of any such Federal branch or Federal agency that the Board may deem reasonable and appropriate, taking into consideration the character of business conducted by such institutions and the need to maintain vigorous and fair competition between and among such institutions and member banks. The Board may impose reserve requirements on Federal branches and Federal agencies in such graduated manner as it deems reasonable and appropriate.
 
@@ -707,23 +707,23 @@ A branch or agency of a foreign bank shall not manage, through an office of the 
 
 **(B)** shall be uniform, to the extent practicable.
 
-(Pub. L. 95–369, § 7, Sept. 17, 1978, 92 Stat. 620; Pub. L. 102–242, title II, §§ 202(a), 203(a), 214(b), Dec. 19, 1991, 105 Stat. 2286, 2291, 2304; Pub. L. 102–550, title XV, § 1507, title XVI, § 1604(a)(1), (2), (12), (13), Oct. 28, 1992, 106 Stat. 4056, 4081–4083; Pub. L. 103–328, title I, § 107(e)(1), Sept. 29, 1994, 108 Stat. 2360; Pub. L. 104–208, div. A, title II, § 2214, Sept. 30, 1996, 110 Stat. 3009–411; Pub. L. 111–203, title I, § 173(a), (b), July 21, 2010, 124 Stat. 1440.)
+(Pub. L. 95–369, § 7, Sept. 17, 1978, 92 Stat. 620; Pub. L. 102–242, title II, §§ 202(a), 203(a), 214(b), Dec. 19, 1991, 105 Stat. 2286, 2291, 2304; Pub. L. 102–550, title XV, § 1507, title XVI, § 1604(a)(1), (2), (12), (13), Oct. 28, 1992, 106 Stat. 4056, 4081–4083; Pub. L. 103–328, title I, § 107(e)(1), Sept. 29, 1994, 108 Stat. 2360; Pub. L. 104–208, div. A, title II, § 2214, Sept. 30, 1996, 110 Stat. 3009–411; Pub. L. 111–203, title I, § 173(a), (b), July 21, 2010, 124 Stat. 1440.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 371a of this title, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 111–203, title VI, § 627(a)(1), July 21, 2010, 124 Stat. 1640.
+Section 371a of this title, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 111–203, title VI, § 627(a)(1), July 21, 2010, 124 Stat. 1640.
 
-Section 371b–1 of this title, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, subject to a savings provision.
+Section 371b–1 of this title, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, subject to a savings provision.
 
 Sections 461, 463, 464, 465, and 466 of this title, referred to in subsec. (a)(1)(A), was in the original “section 19 of the Federal Reserve Act.” Provisions of section 19 relating to minimum and maximum reserve ratios are classified to the cited sections. For complete classification of section 19 to the Code, see References in Text note set out under section 461 of this title.
 
 For definition of “this chapter”, referred to in subsecs. (d)(3)(C), (4) and (e)(1), see References in Text note set out under section 3101 of this title.
 
-The Bank Holding Company Act of 1956, referred to in subsecs. (d)(3)(C) and (e)(1)(B)(ii), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in subsecs. (d)(3)(C) and (e)(1)(B)(ii), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
-The Federal Deposit Insurance Act, referred to in subsec. (e)(1)(B)(ii), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (e)(1)(B)(ii), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 **Codification**
 
@@ -731,29 +731,29 @@ Section is comprised of section 7 of Pub. L. 95–369. Subsec. (b) of section 7 
 
 **Amendments**
 
-2010—Subsec. (d)(3)(E). Pub. L. 111–203, § 173(a), added subpar. (E).
+2010—Subsec. (d)(3)(E). Pub. L. 111–203, § 173(a), added subpar. (E).
 
-Subsec. (e)(1)(C). Pub. L. 111–203, § 173(b), added subpar. (C).
+Subsec. (e)(1)(C). Pub. L. 111–203, § 173(b), added subpar. (C).
 
-1996—Subsec. (c). Pub. L. 104–208, § 2214(a)(1), inserted heading.
+1996—Subsec. (c). Pub. L. 104–208, § 2214(a)(1), inserted heading.
 
-Subsec. (c)(1)(B)(iii). Pub. L. 104–208, § 2214(a)(2), added cl. (iii).
+Subsec. (c)(1)(B)(iii). Pub. L. 104–208, § 2214(a)(2), added cl. (iii).
 
-Subsec. (c)(1)(C). Pub. L. 104–208, § 2214(a)(3), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows: “Each branch or agency of a foreign bank shall be examined at least once during each 12-month period (beginning on the date the most recent examination of such branch or agency ended) in an on-site examination.”
+Subsec. (c)(1)(C). Pub. L. 104–208, § 2214(a)(3), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows: “Each branch or agency of a foreign bank shall be examined at least once during each 12-month period (beginning on the date the most recent examination of such branch or agency ended) in an on-site examination.”
 
-Subsec. (c)(1)(D). Pub. L. 104–208, § 2214(a)(4), inserted “, only to the same extent that fees are collected by the Board for examination of any State member bank” before period at end.
+Subsec. (c)(1)(D). Pub. L. 104–208, § 2214(a)(4), inserted “, only to the same extent that fees are collected by the Board for examination of any State member bank” before period at end.
 
-Subsec. (d)(2). Pub. L. 104–208, § 2214(b)(1), substituted “Except as provided in paragraph (6), the Board” for “The Board”.
+Subsec. (d)(2). Pub. L. 104–208, § 2214(b)(1), substituted “Except as provided in paragraph (6), the Board” for “The Board”.
 
-Subsec. (d)(5). Pub. L. 104–208, § 2214(b)(2), substituted “The Board” for “Consistent with the standards for approval in paragraph (2), the Board”.
+Subsec. (d)(5). Pub. L. 104–208, § 2214(b)(2), substituted “The Board” for “Consistent with the standards for approval in paragraph (2), the Board”.
 
-Subsec. (d)(6), (7). Pub. L. 104–208, § 2214(b)(3), added pars. (6) and (7).
+Subsec. (d)(6), (7). Pub. L. 104–208, § 2214(b)(3), added pars. (6) and (7).
 
-Subsec. (e)(1)(A). Pub. L. 104–208, § 2214(c), designated existing provisions as cl. (i), substituted “and” for “or” at end, and added cl. (ii).
+Subsec. (e)(1)(A). Pub. L. 104–208, § 2214(c), designated existing provisions as cl. (i), substituted “and” for “or” at end, and added cl. (ii).
 
 1994—Subsec. (k). Pub. L. 103–328 added subsec. (k).
 
-1992—Subsec. (e)(6)(A). Pub. L. 102–550, § 1604(a)(1)(A), substituted “against which—
+1992—Subsec. (e)(6)(A). Pub. L. 102–550, § 1604(a)(1)(A), substituted “against which—
 
 “(i) the Board has issued an order under paragraph (1); or
 
@@ -761,21 +761,21 @@ Subsec. (e)(1)(A). Pub. L. 104–208, § 2214(c), designated existing provisio
 
 or a refusal by such office or subsidiary” for “against which the Board or, in the case of an order issued under section 3102(i) of this title, the Comptroller of the Currency has issued an order under paragraph (1) or a refusal by such office or subsidiary”.
 
-Subsec. (e)(6)(B). Pub. L. 102–550, § 1604(a)(1)(B), substituted “order referred to in subparagraph (A)” for “order issued under paragraph (1)”.
+Subsec. (e)(6)(B). Pub. L. 102–550, § 1604(a)(1)(B), substituted “order referred to in subparagraph (A)” for “order issued under paragraph (1)”.
 
-Subsec. (e)(7). Pub. L. 102–550, § 1604(a)(2), substituted “public” for “publc”.
+Subsec. (e)(7). Pub. L. 102–550, § 1604(a)(2), substituted “public” for “publc”.
 
-Subsec. (i). Pub. L. 102–550, § 1507, added subsec. (i).
+Subsec. (i). Pub. L. 102–550, § 1507, added subsec. (i).
 
-Subsec. (j). Pub. L. 102–550, § 1604(a)(12), made technical amendment to directory language of Pub. L. 102–242, § 214(b). See 1991 Amendment note below.
+Subsec. (j). Pub. L. 102–550, § 1604(a)(12), made technical amendment to directory language of Pub. L. 102–242, § 214(b). See 1991 Amendment note below.
 
-Subsec. (j)(1). Pub. L. 102–550, § 1604(a)(13), substituted “Supervisory Committee” for “Supervisory committee”.
+Subsec. (j)(1). Pub. L. 102–550, § 1604(a)(13), substituted “Supervisory Committee” for “Supervisory committee”.
 
-1991—Subsec. (c). Pub. L. 102–242, § 203(a), added par. (1), inserted heading for par. (2), and struck out former par. (1) which read as follows: “The Board may make examinations of each branch or agency of a foreign bank, and of each commercial lending company or bank controlled by one or more foreign banks or by one or more foreign companies that control a foreign bank, the cost of which shall be assessed against and paid by such foreign bank or company, as the case may be. The Board shall, insofar as possible, use the reports of examinations made by the Comptroller, the Federal Deposit Insurance Corporation, or the appropriate State bank supervisory authority for the purposes of this subsection.”
+1991—Subsec. (c). Pub. L. 102–242, § 203(a), added par. (1), inserted heading for par. (2), and struck out former par. (1) which read as follows: “The Board may make examinations of each branch or agency of a foreign bank, and of each commercial lending company or bank controlled by one or more foreign banks or by one or more foreign companies that control a foreign bank, the cost of which shall be assessed against and paid by such foreign bank or company, as the case may be. The Board shall, insofar as possible, use the reports of examinations made by the Comptroller, the Federal Deposit Insurance Corporation, or the appropriate State bank supervisory authority for the purposes of this subsection.”
 
-Subsecs. (d) to (h). Pub. L. 102–242, § 202(a), added subsecs. (d) to (h) and struck out former subsec. (d) which read as follows: “On or before two years after September 17, 1978, the Board after consultation with the appropriate State bank supervisory authorities shall report to the Committee on Banking, Finance and Urban Affairs of the United States House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the United States Senate its recommendations with respect to the implementation of this chapter, including any recommended requirements such as limitations on loans to affiliates or capital adequacy requirements which should be imposed on foreign banks to carry out the purposes of this chapter. Not later than one hundred and eighty days after September 17, 1978, the Board shall report to such Committees the steps which have been taken to consult and cooperate with State bank supervisory authorities as required by subsection (a)(1)(B) of this section.”
+Subsecs. (d) to (h). Pub. L. 102–242, § 202(a), added subsecs. (d) to (h) and struck out former subsec. (d) which read as follows: “On or before two years after September 17, 1978, the Board after consultation with the appropriate State bank supervisory authorities shall report to the Committee on Banking, Finance and Urban Affairs of the United States House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the United States Senate its recommendations with respect to the implementation of this chapter, including any recommended requirements such as limitations on loans to affiliates or capital adequacy requirements which should be imposed on foreign banks to carry out the purposes of this chapter. Not later than one hundred and eighty days after September 17, 1978, the Board shall report to such Committees the steps which have been taken to consult and cooperate with State bank supervisory authorities as required by subsection (a)(1)(B) of this section.”
 
-Subsec. (j). Pub. L. 102–242, § 214(b), as amended by Pub. L. 102–550, § 1604(a)(12), added subsec. (j).
+Subsec. (j). Pub. L. 102–242, § 214(b), as amended by Pub. L. 102–550, § 1604(a)(12), added subsec. (j).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -789,7 +789,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–328, title I, § 107(e)(2), Sept. 29, 1994, 108 Stat. 2361, provided that: “The amendment made by paragraph (1) [amending this section] shall become effective at the end of the 180-day period beginning on the date of enactment of this Act [Sept. 29, 1994].”
+Pub. L. 103–328, title I, § 107(e)(2), Sept. 29, 1994, 108 Stat. 2361, provided that: “The amendment made by paragraph (1) [amending this section] shall become effective at the end of the 180-day period beginning on the date of enactment of this Act [Sept. 29, 1994].”
 
 **Effective Date of 1992 Amendment**
 
@@ -797,9 +797,9 @@ Amendment by section 1604(a)(1), (2), (12), (13) of Pub. L. 102–550 effective 
 
 **Moratorium on Examination Fees Under This Chapter**
 
-Pub. L. 103–328, title I, § 115(a), Sept. 29, 1994, 108 Stat. 2368, provided that: “Section 7(c)(1)(D) of the International Banking Act of 1978 [12 U.S.C. 3105(c)(1)(D)] shall not apply with respect to any examination under section 7(c)(1)(A) of such Act which begins before or during the 3-year period beginning on July 25, 1994.”
+Pub. L. 103–328, title I, § 115(a), Sept. 29, 1994, 108 Stat. 2368, provided that: “Section 7(c)(1)(D) of the International Banking Act of 1978 [12 U.S.C. 3105(c)(1)(D)] shall not apply with respect to any examination under section 7(c)(1)(A) of such Act which begins before or during the 3-year period beginning on July 25, 1994.”
 
-## § 3106. Nonbanking activities of foreign banks
+## § 3106. Nonbanking activities of foreign banks
 
 **(a) Applicability of Bank Holding Company Acts**
 
@@ -817,9 +817,9 @@ Until December 31, 1985, a foreign bank or other company to which subsection (a)
 
 **(3) Termination of grandfathered rights.—**
 
-**(A) In general.—** If any foreign bank or foreign company files a declaration under section 4(*l*)(1)(C) 1
+**(A) In general.—** If any foreign bank or foreign company files a declaration under section 4(*l*)(1)(C) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Bank Holding Company Act of 1956 [12 U.S.C. 1843(*l*)(1)(C)], any authority conferred by this subsection on any foreign bank or company to engage in any activity that the Board has determined to be permissible for financial holding companies under section 4(k) of such Act [12 U.S.C. 1843(k)] shall terminate immediately.
 
@@ -829,13 +829,13 @@ of the Bank Holding Company Act of 1956 [12 U.S.C. 1843(*l*)(1)(C)], any authori
 
 Nothing in this section shall be construed to define a branch or agency of a foreign bank or a commercial lending company controlled by a foreign bank or foreign company that controls a foreign bank as a “bank” for the purposes of any provisions of the Bank Holding Company Act of 1956 [12 U.S.C. 1841 et seq.], or section 1850 of this title, except that any such branch, agency or commercial lending company subsidiary shall be deemed a “bank” or “banking subsidiary”, as the case may be, for the purposes of applying the prohibitions of chapter 22 of this title and the exemptions provided in sections 4(c)(1), 4(c)(2), 4(c)(3), and 4(c)(4) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(c)(1), (2), (3), and (4)) to any foreign bank or other company to which subsection (a) applies.
 
-(Pub. L. 95–369, § 8(a)–(d), Sept. 17, 1978, 92 Stat. 622, 623; Pub. L. 97–320, title VII, §§ 704, 705, Oct. 15, 1982, 96 Stat. 1539; Pub. L. 100–86, title II, § 204, Aug. 10, 1987, 101 Stat. 584; Pub. L. 102–242, title II, § 207, Dec. 19, 1991, 105 Stat. 2295; Pub. L. 106–102, title I, § 141, Nov. 12, 1999, 113 Stat. 1383.)
+(Pub. L. 95–369, § 8(a)–(d), Sept. 17, 1978, 92 Stat. 622, 623; Pub. L. 97–320, title VII, §§ 704, 705, Oct. 15, 1982, 96 Stat. 1539; Pub. L. 100–86, title II, § 204, Aug. 10, 1987, 101 Stat. 584; Pub. L. 102–242, title II, § 207, Dec. 19, 1991, 105 Stat. 2295; Pub. L. 106–102, title I, § 141, Nov. 12, 1999, 113 Stat. 1383.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Bank Holding Company Act of 1956, referred to in subsecs. (a), (c), and (d), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. Section 4(*l*)(1)(C) of the Act was redesignated section 4(*l*)(1)(D) by Pub. L. 111–203, title VI, § 606(a)(2), July 21, 2010, 124 Stat. 1607, and is classified to section 1843(*l*)(1)(D) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in subsecs. (a), (c), and (d), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. Section 4(*l*)(1)(C) of the Act was redesignated section 4(*l*)(1)(D) by Pub. L. 111–203, title VI, § 606(a)(2), July 21, 2010, 124 Stat. 1607, and is classified to section 1843(*l*)(1)(D) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
 For definition of “this chapter”, referred to in subsec. (c), see References in Text note set out under section 3101 of this title.
 
@@ -847,11 +847,11 @@ For definition of “this chapter”, referred to in subsec. (c), see References
 
 1987—Subsec. (c). Pub. L. 100–86 designated existing provisions as par. (1) and added par. (2).
 
-1982—Subsec. (c). Pub. L. 97–320, § 704, inserted “or on the date of the establishment of a branch in a State an application for which was filed on or before July 26, 1978” after “September 17, 1978,”.
+1982—Subsec. (c). Pub. L. 97–320, § 704, inserted “or on the date of the establishment of a branch in a State an application for which was filed on or before July 26, 1978” after “September 17, 1978,”.
 
-Pub. L. 97–320, § 705(a), substituted provision that the term “domestically-controlled affiliate covered in 1978” shall mean an affiliate organized under the laws of the United States or any State thereof if no foreign bank or group of foreign banks acting in concert owns or controls, directly or indirectly, 45 per centum or more of its voting shares, and no more than 20 per centum of the number of directors as established from time to time to constitute the whole board of directors and 20 per centum of the executive officers of such affiliate are persons affiliated with any such foreign bank, for provision that it meant any affiliate the majority of whose voting shares was owned by a company or group of companies organized under the laws of the United States or any State thereof, if it had been under continuous domestic majority-controlling ownership since July 26, 1978, and if a foreign bank or group of foreign banks did not own or control, directly or indirectly, 25 per centum or more of its voting shares, and defined “persons affiliated with any such foreign bank”.
+Pub. L. 97–320, § 705(a), substituted provision that the term “domestically-controlled affiliate covered in 1978” shall mean an affiliate organized under the laws of the United States or any State thereof if no foreign bank or group of foreign banks acting in concert owns or controls, directly or indirectly, 45 per centum or more of its voting shares, and no more than 20 per centum of the number of directors as established from time to time to constitute the whole board of directors and 20 per centum of the executive officers of such affiliate are persons affiliated with any such foreign bank, for provision that it meant any affiliate the majority of whose voting shares was owned by a company or group of companies organized under the laws of the United States or any State thereof, if it had been under continuous domestic majority-controlling ownership since July 26, 1978, and if a foreign bank or group of foreign banks did not own or control, directly or indirectly, 25 per centum or more of its voting shares, and defined “persons affiliated with any such foreign bank”.
 
-Pub. L. 97–320, § 705(b), substituted “since July 26, 1978, has engaged” for “engages” before “in the business of underwriting”, and inserted “, notwithstanding that such affiliate acquired after July 26, 1978, an interest in, or any or all of the assets of, a going concern, or commences to engage in any new activity or activities” after “and other securities in the United States”.
+Pub. L. 97–320, § 705(b), substituted “since July 26, 1978, has engaged” for “engages” before “in the business of underwriting”, and inserted “, notwithstanding that such affiliate acquired after July 26, 1978, an interest in, or any or all of the assets of, a going concern, or commences to engage in any new activity or activities” after “and other securities in the United States”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -859,7 +859,7 @@ Pub. L. 97–320, § 705(b), substituted “since July 26, 1978, has engaged�
 
 Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as a note under section 24 of this title.
 
-## § 3106a. Compliance with State and Federal laws
+## § 3106a. Compliance with State and Federal laws
 
 **(1)** Every branch or agency of a foreign bank and every commercial lending company controlled by one or more foreign banks or by one or more foreign companies that control a foreign bank shall conduct its operations in the United States in full compliance with provisions of any law of the United States or any State thereof which—
 
@@ -877,15 +877,15 @@ Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see secti
 
 **(C)** apply to national banks or State-chartered banks doing business in the State in which the entity to be established is to do business.
 
-(Pub. L. 95–369, § 9(b), as added Pub. L. 95–630, title III, § 311, Nov. 10, 1978, 92 Stat. 3678; amended Pub. L. 103–328, title I, § 107(c), Sept. 29, 1994, 108 Stat. 2360.)
+(Pub. L. 95–369, § 9(b), as added Pub. L. 95–630, title III, § 311, Nov. 10, 1978, 92 Stat. 3678; amended Pub. L. 103–328, title I, § 107(c), Sept. 29, 1994, 108 Stat. 2360.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Par. (1). Pub. L. 103–328, § 107(c)(1), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+1994—Par. (1). Pub. L. 103–328, § 107(c)(1), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
-Par. (2). Pub. L. 103–328, § 107(c)(2), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+Par. (2). Pub. L. 103–328, § 107(c)(2), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -893,7 +893,7 @@ Par. (2). Pub. L. 103–328, § 107(c)(2), added subpar. (A) and redesignated 
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
 
-## § 3107. Representative offices
+## § 3107. Representative offices
 
 **(a) Prior approval to establish representative offices**
 
@@ -917,7 +917,7 @@ The Board may make examinations of each representative office of a foreign bank,
 
 This chapter does not authorize the establishment of a representative office in any State in contravention of State law.
 
-(Pub. L. 95–369, § 10, Sept. 17, 1978, 92 Stat. 624; Pub. L. 102–242, title II, § 204, Dec. 19, 1991, 105 Stat. 2292; Pub. L. 102–550, title XVI, § 1604(a)(4), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 106–102, title I, § 142(b), Nov. 12, 1999, 113 Stat. 1384.)
+(Pub. L. 95–369, § 10, Sept. 17, 1978, 92 Stat. 624; Pub. L. 102–242, title II, § 204, Dec. 19, 1991, 105 Stat. 2292; Pub. L. 102–550, title XVI, § 1604(a)(4), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 106–102, title I, § 142(b), Nov. 12, 1999, 113 Stat. 1384.)
 
 **Editorial Notes**
 
@@ -925,7 +925,7 @@ This chapter does not authorize the establishment of a representative office in 
 
 For definition of “this chapter”, referred to in subsecs. (a)(2), (c), and (d), see References in Text note set out under section 3101 of this title.
 
-The Bank Holding Company Act of 1956, referred to in subsec. (c), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in subsec. (c), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
 **Amendments**
 
@@ -951,9 +951,9 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 **Moratorium on Examination Fees Under This Chapter**
 
-Pub. L. 103–328, title I, § 115(b), Sept. 29, 1994, 108 Stat. 2368, provided that: “The provision of section 10(c) of the International Banking Act of 1978 [12 U.S.C. 3107(c)] relating to the cost of examinations under such section shall not apply with respect to any examination under such section which begins before or during the 3-year period beginning on July 25, 1994.”
+Pub. L. 103–328, title I, § 115(b), Sept. 29, 1994, 108 Stat. 2368, provided that: “The provision of section 10(c) of the International Banking Act of 1978 [12 U.S.C. 3107(c)] relating to the cost of examinations under such section shall not apply with respect to any examination under such section which begins before or during the 3-year period beginning on July 25, 1994.”
 
-## § 3108. Regulation and enforcement
+## § 3108. Regulation and enforcement
 
 **(a) Rules, regulations and orders**
 
@@ -1009,7 +1009,7 @@ Any person who willfully fails or refuses to attend and testify or to answer any
 
 In the case of any provision of the Federal Reserve Act [12 U.S.C. 221 et seq.] to which a foreign bank or branch thereof is subject under this chapter, and which is made applicable to nonmember insured banks by the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.], whether by cross-reference to the Federal Reserve Act or by a provision in substantially the same terms in the Federal Deposit Insurance Act, the administration, interpretation, and enforcement of such provision, insofar as it relates to any foreign bank or branch thereof as to which the Board is an appropriate Federal banking agency, are vested in the Board, but where the making of any report to the Board or a Federal Reserve bank is required under any such provision, the Federal Deposit Insurance Corporation may require that a duplicate of any such report be sent directly to it. This subsection shall not be construed to impair any power of the Federal Deposit Insurance Corporation to make regular or special examinations or to require special reports.
 
-(Pub. L. 95–369, § 13, Sept. 17, 1978, 92 Stat. 624; Pub. L. 102–242, title II, § 209, Dec. 19, 1991, 105 Stat. 2297.)
+(Pub. L. 95–369, § 13, Sept. 17, 1978, 92 Stat. 624; Pub. L. 102–242, title II, § 209, Dec. 19, 1991, 105 Stat. 2297.)
 
 **Editorial Notes**
 
@@ -1017,15 +1017,15 @@ In the case of any provision of the Federal Reserve Act [12 U.S.C. 221 et seq.] 
 
 For definition of “this chapter”, referred to in text, see References in Text note set out under section 3101 of this title.
 
-The Federal Deposit Insurance Act, referred to in subsecs. (b)(1) and (c), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsecs. (b)(1) and (c), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
-The Federal Reserve Act, referred to in subsec. (c), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+The Federal Reserve Act, referred to in subsec. (c), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 **Amendments**
 
 1991—Subsec. (b). Pub. L. 102–242 inserted heading, designated existing provisions as par. (1) and inserted par. heading, and added pars. (2) to (6).
 
-## § 3109. Cooperation with foreign supervisors
+## § 3109. Cooperation with foreign supervisors
 
 **(a) Disclosure of supervisory information to foreign supervisors**
 
@@ -1061,7 +1061,7 @@ For purposes of section 552 of title 5, this subsection shall be treated as a st
 
 For purposes of this subsection, the term “Federal banking agency” means the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Director of the Office of Thrift Supervision.
 
-(Pub. L. 95–369, § 15, as added Pub. L. 102–242, title II, § 206, Dec. 19, 1991, 105 Stat. 2294; amended Pub. L. 109–351, title VII, § 709, Oct. 13, 2006, 120 Stat. 1990.)
+(Pub. L. 95–369, § 15, as added Pub. L. 102–242, title II, § 206, Dec. 19, 1991, 105 Stat. 2294; amended Pub. L. 109–351, title VII, § 709, Oct. 13, 2006, 120 Stat. 1990.)
 
 **Editorial Notes**
 
@@ -1069,7 +1069,7 @@ For purposes of this subsection, the term “Federal banking agency” means the
 
 2006—Subsec. (c). Pub. L. 109–351 added subsec. (c).
 
-## § 3110. Penalties
+## § 3110. Penalties
 
 **(a) Civil money penalty**
 
@@ -1135,7 +1135,7 @@ Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and colle
 
 Section 1818(h) of this title shall apply to any proceeding under this subsection.
 
-(Pub. L. 95–369, § 16, as added Pub. L. 102–242, title II, § 208, Dec. 19, 1991, 105 Stat. 2295.)
+(Pub. L. 95–369, § 16, as added Pub. L. 102–242, title II, § 208, Dec. 19, 1991, 105 Stat. 2295.)
 
 **Editorial Notes**
 
@@ -1143,11 +1143,11 @@ Section 1818(h) of this title shall apply to any proceeding under this subsectio
 
 For definition of “this chapter”, referred to in subsecs. (a)(1) and (c)(1)(A)(i), (2)(A), see References in Text note set out under section 3101 of this title.
 
-## § 3111. Criminal penalty
+## § 3111. Criminal penalty
 
 Whoever, with the intent to deceive, to gain financially, or to cause financial gain or loss to any person, knowingly violates any provision of this chapter or any regulation or order issued by the appropriate Federal banking agency under this chapter shall be imprisoned not more than 5 years or fined not more than $1,000,000 for each day during which a violation continues, or both.
 
-(Pub. L. 95–369, § 17, as added Pub. L. 102–242, title II, § 213, Dec. 19, 1991, 105 Stat. 2303.)
+(Pub. L. 95–369, § 17, as added Pub. L. 102–242, title II, § 213, Dec. 19, 1991, 105 Stat. 2303.)
 
 **Editorial Notes**
 

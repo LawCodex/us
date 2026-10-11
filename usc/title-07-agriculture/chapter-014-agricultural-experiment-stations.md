@@ -17,21 +17,21 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 361. Repealed. Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674
+### § 361. Repealed. Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674
 
-Section, acts Mar. 16, 1906, ch. 951, § 4, 34 Stat. 64; Feb. 24, 1925, ch. 308, § 4, 43 Stat. 971, provided for the administration of the agricultural experiment station program. See section 361g of this title.
+Section, acts Mar. 16, 1906, ch. 951, § 4, 34 Stat. 64; Feb. 24, 1925, ch. 308, § 4, 43 Stat. 971, provided for the administration of the agricultural experiment station program. See section 361g of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Existing Rights and Liabilities**
 
-Act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674, which repealed sections 361, 364, 366, 369, 369a, 371 to 376, 380, 382, 383, 386 to 386f, 427a to 427h, and 427j of this title, provided in part that any rights or liabilities existing under such repealed sections or parts of sections should not be affected by their repeal.
+Act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674, which repealed sections 361, 364, 366, 369, 369a, 371 to 376, 380, 382, 383, 386 to 386f, 427a to 427h, and 427j of this title, provided in part that any rights or liabilities existing under such repealed sections or parts of sections should not be affected by their repeal.
 
-### § 361a. Congressional declaration of purpose; definitions
+### § 361a. Congressional declaration of purpose; definitions
 
 It is the policy of Congress to continue the agricultural research at State agricultural experiment stations which has been encouraged and supported by the Hatch Act of 1887 [7 U.S.C. 361a et seq.], the Adams Act of 1906, the Purnell Act of 1925, the Bankhead-Jones Act of 1935, and title I, section 9, of that Act as added by the Act of August 14, 1946, and Acts amendatory and supplementary thereto, and to promote the efficiency of such research by a codification and simplification of such laws. As used in this Act [7 U.S.C. 361a et seq.], the terms “State” or “States” are defined to include the several States (including the District of Columbia), Puerto Rico, Guam and the Virgin Islands. As used in this Act [7 U.S.C. 361a et seq.], the term “State agricultural experiment station” means a department which shall have been established, under direction of the college or university or agricultural departments of the college or university in each State in accordance with an Act approved July 2, 1862, (12 Stat. 503), entitled “An Act donating public lands to the several States and Territo­ries which may provide colleges for the benefit of agriculture and the mechanic arts” [7 U.S.C. 301 et seq.]; or such other substantially equivalent arrangements as any State shall determine.
 
-(Mar. 2, 1887, ch. 314, § 1, 24 Stat. 440; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 671; Pub. L. 92–318, title V, § 506(k), June 23, 1972, 86 Stat. 351; Pub. L. 93–471, title II, § 208(e), Oct. 26, 1974, 88 Stat. 1429; Pub. L. 105–185, title II, § 203(c)(1), June 23, 1998, 112 Stat. 534.)
+(Mar. 2, 1887, ch. 314, § 1, 24 Stat. 440; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 671; Pub. L. 92–318, title V, § 506(k), June 23, 1972, 86 Stat. 351; Pub. L. 93–471, title II, § 208(e), Oct. 26, 1974, 88 Stat. 1429; Pub. L. 105–185, title II, § 203(c)(1), June 23, 1998, 112 Stat. 534.)
 
 **Editorial Notes**
 
@@ -39,19 +39,19 @@ It is the policy of Congress to continue the agricultural research at State agri
 
 The Hatch Act of 1887, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, which is classified generally to sections 361a to 361i of this title. For complete classification of this act to the Code, see Short Title note set out below, and Tables.
 
-The Adams Act of 1906, referred to in text, is act Mar. 16, 1906, ch. 951, 34 Stat. 63, which was classified to sections 361, 366, 369, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
+The Adams Act of 1906, referred to in text, is act Mar. 16, 1906, ch. 951, 34 Stat. 63, which was classified to sections 361, 366, 369, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
 
-The Purnell Act of 1925, referred to in text, is act Feb. 24, 1925, ch. 308, 43 Stat. 970, which was classified to sections 361, 366, 370, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
+The Purnell Act of 1925, referred to in text, is act Feb. 24, 1925, ch. 308, 43 Stat. 970, which was classified to sections 361, 366, 370, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
 
 The Bankhead-Jones Act, referred to in text, is act June 29, 1935, ch. 338, 49 Stat. 436, also popularly known as the Agricultural Research Act. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note under section 3101 of this title and Tables.
 
 Title I, section 9, of that Act, referred to in text, was classified to section 427h of this title prior to repeal.
 
-The Act approved July 2, 1862 (12 Stat. 503), referred to in text, is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+The Act approved July 2, 1862 (12 Stat. 503), referred to in text, is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 **Codification**
 
-Section 208 of Pub. L. 93–471, cited as a credit to this section, was renumbered section “209” by D.C. Law 1–36, § 4, Nov. 1, 1975, 22 DCR 2911.
+Section 208 of Pub. L. 93–471, cited as a credit to this section, was renumbered section “209” by D.C. Law 1–36, § 4, Nov. 1, 1975, 22 DCR 2911.
 
 Section was formerly classified to section 362 of this title.
 
@@ -77,7 +77,7 @@ Amendment by Pub. L. 92–318 effective after June 30, 1970, see section 506(n) 
 
 **Short Title**
 
-Act Mar. 2, 1887, ch. 314, § 10, as added by Pub. L. 105–185, § 3(b), June 23, 1998, 112 Stat. 526, provided that: “This Act [enacting sections 361a to 361i of this title] may be cited as the ‘Hatch Act of 1887’.”
+Act Mar. 2, 1887, ch. 314, § 10, as added by Pub. L. 105–185, § 3(b), June 23, 1998, 112 Stat. 526, provided that: “This Act [enacting sections 361a to 361i of this title] may be cited as the ‘Hatch Act of 1887’.”
 
 **Arlington Estate**
 
@@ -89,11 +89,11 @@ Besides the provisions establishing agricultural experiment stations, contained 
 
 Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
 
-### § 361b. Congressional statement of policy; researches, investigations and experiments
+### § 361b. Congressional statement of policy; researches, investigations and experiments
 
 It is further the policy of the Congress to promote the efficient production, marketing, distribution, and utilization of products of the farm as essential to the health and welfare of our peoples and to promote a sound and prosperous agriculture and rural life as indispensable to the maintenance of maximum employment and national prosperity and security. It is also the intent of Congress to assure agriculture a position in research equal to that of industry, which will aid in maintaining an equitable balance between agriculture and other segments of our economy. It shall be the object and duty of the State agricultural experiment stations through the expenditure of the appropriations hereinafter authorized to conduct original and other researches, investigations, and experiments bearing directly on and contributing to the establishment and maintenance of a permanent and effective agricultural industry of the United States, including researches basic to the problems of agriculture in its broadest aspects, and such investigations as have for their purpose the development and improvement of the rural home and rural life and the maximum contribution by agriculture to the welfare of the consumer, as may be deemed advisable, having due regard to the varying conditions and needs of the respective States.
 
-(Mar. 2, 1887, ch. 314, § 2, 24 Stat. 440; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 671.)
+(Mar. 2, 1887, ch. 314, § 2, 24 Stat. 440; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 671.)
 
 **Editorial Notes**
 
@@ -105,7 +105,7 @@ Section was formerly classified to section 363 of this title.
 
 1955—Act Aug. 11, 1955, amended section generally to restate the policy of Congress.
 
-### § 361c. Authorization of appropriations and allotments of grants
+### § 361c. Authorization of appropriations and allotments of grants
 
 **(a) Authorization**
 
@@ -209,65 +209,65 @@ The Secretary of Agriculture may reduce the minimum percentage required to be ex
 
 Federal formula funds described in paragraph (1) that are used by a State for a fiscal year for integrated activities in accordance with paragraph (2)(B) may also be used to satisfy the multistate activities requirements of subsection (c)(3) of this section and section 343(h) of this title for the same fiscal year.
 
-(Mar. 2, 1887, ch. 314, § 3, 24 Stat. 441; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 671; Pub. L. 92–318, title V, § 506(*l*), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, § 1466, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, § 1442(a), Dec. 22, 1981, 95 Stat. 1321; Pub. L. 101–624, title XVI, § 1618(a), Nov. 28, 1990, 104 Stat. 3733; Pub. L. 104–127, title VIII, § 869, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title I, § 104, title II, §§ 203(a), 204(a), June 23, 1998, 112 Stat. 529, 533, 535; Pub. L. 105–277, div. A, § 101(a) [title VII, § 753(d)], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, § 7213(a), May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, § 7404(a), May 22, 2008, 122 Stat. 1246; Pub. L. 110–246, § 4(a), title VII, § 7404(a), June 18, 2008, 122 Stat. 1664, 2008; Pub. L. 115–334, title VII, § 7612(b)(1), Dec. 20, 2018, 132 Stat. 4832.)
+(Mar. 2, 1887, ch. 314, § 3, 24 Stat. 441; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 671; Pub. L. 92–318, title V, § 506(*l*), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, § 1466, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, § 1442(a), Dec. 22, 1981, 95 Stat. 1321; Pub. L. 101–624, title XVI, § 1618(a), Nov. 28, 1990, 104 Stat. 3733; Pub. L. 104–127, title VIII, § 869, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title I, § 104, title II, §§ 203(a), 204(a), June 23, 1998, 112 Stat. 529, 533, 535; Pub. L. 105–277, div. A, § 101(a) [title VII, § 753(d)], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, § 7213(a), May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, § 7404(a), May 22, 2008, 122 Stat. 1246; Pub. L. 110–246, § 4(a), title VII, § 7404(a), June 18, 2008, 122 Stat. 1664, 2008; Pub. L. 115–334, title VII, § 7612(b)(1), Dec. 20, 2018, 132 Stat. 4832.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of July 2, 1862, referred to in subsec. (i)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (i)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 **Codification**
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
-Prior to being amended generally by act Aug. 11, 1955, ch. 790, § 1, 69 Stat. 671, section 3 of act Mar. 2, 1887, which comprises this section, consisted of two sentences. The first sentence was classified to former section 368 of this title. The second sentence was superseded by act Feb. 24, 1925, ch. 308, § 3, 43 Stat. 971, which was classified to former section 366 of this title and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674.
+Prior to being amended generally by act Aug. 11, 1955, ch. 790, § 1, 69 Stat. 671, section 3 of act Mar. 2, 1887, which comprises this section, consisted of two sentences. The first sentence was classified to former section 368 of this title. The second sentence was superseded by act Feb. 24, 1925, ch. 308, § 3, 43 Stat. 971, which was classified to former section 366 of this title and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674.
 
 **Amendments**
 
-2018—Subsec. (h). Pub. L. 115–334, § 7612(b)(1)(A), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to peer review and plan of work.
+2018—Subsec. (h). Pub. L. 115–334, § 7612(b)(1)(A), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to peer review and plan of work.
 
-Subsec. (i)(2)(D). Pub. L. 115–334, § 7612(b)(1)(B), struck out subpar. (D). Prior to amendment, text read as follows: “The State shall include in the plan of work of the State required under section 361g of this title or section 344 of this title, as applicable, a description of the manner in which the State will meet the requirements of this paragraph.”
+Subsec. (i)(2)(D). Pub. L. 115–334, § 7612(b)(1)(B), struck out subpar. (D). Prior to amendment, text read as follows: “The State shall include in the plan of work of the State required under section 361g of this title or section 344 of this title, as applicable, a description of the manner in which the State will meet the requirements of this paragraph.”
 
-2008—Subsec. (d)(4). Pub. L. 110–246, § 7404(a)(1), inserted “and the District of Columbia” after “areas” in heading.
+2008—Subsec. (d)(4). Pub. L. 110–246, § 7404(a)(1), inserted “and the District of Columbia” after “areas” in heading.
 
-Subsec. (d)(4)(A). Pub. L. 110–246, § 7404(a)(2), inserted “and the District of Columbia” after “United States” and after “respectively,”.
+Subsec. (d)(4)(A). Pub. L. 110–246, § 7404(a)(2), inserted “and the District of Columbia” after “United States” and after “respectively,”.
 
-Subsec. (d)(4)(B). Pub. L. 110–246, § 7404(a)(3), inserted “or the District of Columbia” after “area”.
+Subsec. (d)(4)(B). Pub. L. 110–246, § 7404(a)(3), inserted “or the District of Columbia” after “area”.
 
 2002—Subsec. (d)(4). Pub. L. 107–171 added par. (4) and struck out heading and text of former par. (4). Text read as follows: “In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under section 3222d of this title.”
 
-1998—Subsec. (b)(1). Pub. L. 105–185, § 104(b)(1), made technical amendment to reference in original act which appears in text as reference to subsection (c)(3) of this section.
+1998—Subsec. (b)(1). Pub. L. 105–185, § 104(b)(1), made technical amendment to reference in original act which appears in text as reference to subsection (c)(3) of this section.
 
-Subsec. (c)(1), (2). Pub. L. 105–185, § 104(a)(1)(A), redesignated pars. 1 and 2 as (1) and (2), respectively.
+Subsec. (c)(1), (2). Pub. L. 105–185, § 104(a)(1)(A), redesignated pars. 1 and 2 as (1) and (2), respectively.
 
-Subsec. (c)(3). Pub. L. 105–185, § 104(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “Not more than 25 per centum shall be allotted to the States for cooperative research in which two or more State agricultural experiment stations are cooperating to solve problems that concern the agriculture of more than one State. The funds available for such purposes, together with funds available pursuant to subsection (b) of this section for like purpose shall be designated as the ‘Regional research fund, State agricultural experiment stations’;”.
+Subsec. (c)(3). Pub. L. 105–185, § 104(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “Not more than 25 per centum shall be allotted to the States for cooperative research in which two or more State agricultural experiment stations are cooperating to solve problems that concern the agriculture of more than one State. The funds available for such purposes, together with funds available pursuant to subsection (b) of this section for like purpose shall be designated as the ‘Regional research fund, State agricultural experiment stations’;”.
 
-Pub. L. 105–185, § 104(a)(1)(A), redesignated par. 3 as (3).
+Pub. L. 105–185, § 104(a)(1)(A), redesignated par. 3 as (3).
 
-Subsec. (c)(4), (5). Pub. L. 105–185, § 104(a)(1)(A), redesignated par. 5 as (4).
+Subsec. (c)(4), (5). Pub. L. 105–185, § 104(a)(1)(A), redesignated par. 5 as (4).
 
-Subsec. (d). Pub. L. 105–185, § 203(a), added subsec. (d) and struck out former subsec. (d) which read as follows: “Of any amount in excess of $90,000 available under sections 361a to 361i of this title for allotment to any State, exclusive of the regional research fund, State agricultural experiment stations, no allotment and no payments thereof shall be made in excess of the amount which the State makes available out of its own funds for research and for the establishment and maintenance of facilities necessary for the prosecution of such research: *And provided further*, That if any State fails to make available for such research purposes for any fiscal year a sum equal to the amount in excess of $90,000 to which it may be entitled for such year, the remainder of such amount shall be withheld by the Secretary of Agriculture and reapportioned among the States.”
+Subsec. (d). Pub. L. 105–185, § 203(a), added subsec. (d) and struck out former subsec. (d) which read as follows: “Of any amount in excess of $90,000 available under sections 361a to 361i of this title for allotment to any State, exclusive of the regional research fund, State agricultural experiment stations, no allotment and no payments thereof shall be made in excess of the amount which the State makes available out of its own funds for research and for the establishment and maintenance of facilities necessary for the prosecution of such research: *And provided further*, That if any State fails to make available for such research purposes for any fiscal year a sum equal to the amount in excess of $90,000 to which it may be entitled for such year, the remainder of such amount shall be withheld by the Secretary of Agriculture and reapportioned among the States.”
 
-Subsec. (d)(1). Pub. L. 105–277, § 101(a) [title VII, § 753(d)(1)], substituted “Except as provided in paragraph (4), no” for “No”.
+Subsec. (d)(1). Pub. L. 105–277, § 101(a) [title VII, § 753(d)(1)], substituted “Except as provided in paragraph (4), no” for “No”.
 
-Subsec. (d)(4). Pub. L. 105–277, § 101(a) [title VII, § 753(d)(2)], added par. (4).
+Subsec. (d)(4). Pub. L. 105–277, § 101(a) [title VII, § 753(d)(2)], added par. (4).
 
-Subsec. (e). Pub. L. 105–185, § 104(b)(2), substituted “subsection (c)(3)” for “subsection (c)3”.
+Subsec. (e). Pub. L. 105–185, § 104(b)(2), substituted “subsection (c)(3)” for “subsection (c)3”.
 
-Subsec. (h). Pub. L. 105–185, § 104(a)(2), added subsec. (h).
+Subsec. (h). Pub. L. 105–185, § 104(a)(2), added subsec. (h).
 
-Subsec. (i). Pub. L. 105–185, § 204(a), added subsec. (i).
+Subsec. (i). Pub. L. 105–185, § 204(a), added subsec. (i).
 
-1996—Subsec. (c)(3). Pub. L. 104–127 struck out “, and shall be used only for such cooperative regional projects as are recommended by a committee of nine persons elected by and representing the directors of the State agricultural experiment stations, and approved by the Secretary of Agriculture. The necessary travel expenses of the committee of nine persons in performance of their duties may be paid from the fund established by this paragraph” before semicolon at end.
+1996—Subsec. (c)(3). Pub. L. 104–127 struck out “, and shall be used only for such cooperative regional projects as are recommended by a committee of nine persons elected by and representing the directors of the State agricultural experiment stations, and approved by the Secretary of Agriculture. The necessary travel expenses of the committee of nine persons in performance of their duties may be paid from the fund established by this paragraph” before semicolon at end.
 
 1990—Subsec. (d). Pub. L. 101–624 inserted before period at end “and reapportioned among the States”.
 
 1981—Subsec. (g). Pub. L. 97–98 added subsec. (g).
 
-1977—Subsec. (c)(4). Pub. L. 95–113, § 1466(a), struck out par. (4) which provided that not less than 20 per centum of any sums appropriated pursuant to subsec. (c) for distribution to States be used for conducting marketing research projects approved by the Department of Agriculture.
+1977—Subsec. (c)(4). Pub. L. 95–113, § 1466(a), struck out par. (4) which provided that not less than 20 per centum of any sums appropriated pursuant to subsec. (c) for distribution to States be used for conducting marketing research projects approved by the Department of Agriculture.
 
-Subsec. (c)(5). Pub. L. 95–113, § 1466(b), inserted provision authorizing the use of administrative funds for the transportation of scientists who are not officers or employees of the United States to research meetings convened for the purpose of assessing research opportunities or research planning.
+Subsec. (c)(5). Pub. L. 95–113, § 1466(b), inserted provision authorizing the use of administrative funds for the transportation of scientists who are not officers or employees of the United States to research meetings convened for the purpose of assessing research opportunities or research planning.
 
 1972—Subsec. (b). Pub. L. 92–318 designated existing provisions as par. (1) and added par. (2).
 
@@ -281,7 +281,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 1998 Amendment**
 
-Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) [title VII, § 753(f)] of Pub. L. 105–277, set out as a note under section 343 of this title.
+Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) [title VII, § 753(f)] of Pub. L. 105–277, set out as a note under section 343 of this title.
 
 **Effective Date of 1981 Amendment**
 
@@ -295,11 +295,11 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 Amendment by Pub. L. 92–318 effective after June 30, 1970, see section 506(n) of Pub. L. 92–318, set out as an Effective Date note under section 326a of this title.
 
-### § 361d. Use of funds
+### § 361d. Use of funds
 
 Moneys appropriated pursuant to sections 361a to 361i of this title shall also be available, in addition to meeting expenses for research and investigations conducted under authority of section 361b of this title, for printing and disseminating the results of such research, retirement of employees subject to the provisions of section 331 of this title, administrative planning and direction, and for the purchase and rental of land and the construction, acquisition, alteration, or repair of buildings necessary for conducting research. The State agricultural experiment stations are authorized to plan and conduct any research authorized under section 361b of this title in cooperation with each other and such other agencies and individuals as may contribute to the solution of the agricultural problems involved, and moneys appropriated pursuant to sections 361a to 361i of this title shall be available for paying the necessary expenses of planning, coordinating, and conducting such cooperative research.
 
-(Mar. 2, 1887, ch. 314, § 4, 24 Stat. 441; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 672.)
+(Mar. 2, 1887, ch. 314, § 4, 24 Stat. 441; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 672.)
 
 **Editorial Notes**
 
@@ -311,11 +311,11 @@ Section was formerly classified to section 365 of this title.
 
 1955—Act Aug. 11, 1955, amended section generally to provide for printing and disseminating the results of research, retirement of employees, administrative planning and direction, purchase and rental of land, and the construction, acquisition, alteration, or repair of buildings necessary for conducting research. Former provisions which related to issuance and free mailing of publications are now contained in section 361f of this title.
 
-### § 361e. Payment of allotments to State agricultural experiment stations; directors and treasurers or other officers; accounting; reports to Secretary; replacement by States of diminished, lost or misapplied allotments; subsequent allotments or payments contingent on such replacement
+### § 361e. Payment of allotments to State agricultural experiment stations; directors and treasurers or other officers; accounting; reports to Secretary; replacement by States of diminished, lost or misapplied allotments; subsequent allotments or payments contingent on such replacement
 
 Sums available for allotment to the States under the terms of sections 361a to 361i of this title, excluding the Multistate Research Fund, State Agricultural Experiment Stations, shall be paid to each State agricultural experiment station in equal quarterly payments beginning on the first day of October of each fiscal year upon vouchers approved by the Secretary of Agriculture. Each such station authorized to receive allotted funds shall have a chief administrative officer known as a director, and a treasurer or other officer appointed by the governing board of the station. Such treasurer or other officer shall receive and account for all funds allotted to the State under the provisions of sections 361a to 361i of this title and shall report, with the approval of the director, to the Secretary of Agriculture on or before the first day of December of each year a detailed statement of the amount received under provisions of said sections during the preceding fiscal year, and of its disbursement on schedules prescribed by the Secretary of Agriculture. If any portion of the allotted moneys received by the authorized receiving officer of any State agricultural experiment station shall by any action or contingency be diminished, lost, or misapplied, it shall be replaced by the State concerned and until so replaced no subsequent appropriation shall be allotted or paid to such State.
 
-(Mar. 2, 1887, ch. 314, § 5, 24 Stat. 441; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 673; Pub. L. 94–273, § 9(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 105–185, title II, § 203(c)(3), June 23, 1998, 112 Stat. 535.)
+(Mar. 2, 1887, ch. 314, § 5, 24 Stat. 441; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 673; Pub. L. 94–273, § 9(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 105–185, title II, § 203(c)(3), June 23, 1998, 112 Stat. 535.)
 
 **Editorial Notes**
 
@@ -325,17 +325,17 @@ Section was formerly classified to section 368a of this title. See sections 361c
 
 **Amendments**
 
-1998—Pub. L. 105–185, § 203(c)(3), substituted “Multistate Research Fund, State Agricultural Experiment Stations” for “regional research fund authorized by section 361c(c)(3) of this title” in first sentence.
+1998—Pub. L. 105–185, § 203(c)(3), substituted “Multistate Research Fund, State Agricultural Experiment Stations” for “regional research fund authorized by section 361c(c)(3) of this title” in first sentence.
 
 1976—Pub. L. 94–273 substituted “October” for “July” and “December” for “September”.
 
 1955—Act Aug. 11, 1955, amended section generally to provide for quarterly payment of allotments, to require annual report of allotments and disbursements, and to provide for replacement of funds diminished, lost, or misapplied. For provisions which authorized appropriations for investigations and experiments, see sections 361c and 361d of this title.
 
-### § 361f. Publications of experiment stations; free mailing
+### § 361f. Publications of experiment stations; free mailing
 
 Bulletins, reports, periodicals, reprints of articles, and other publications necessary for the dissemination of results of the researches and experiments, including lists of publications available for distribution by the experiment stations, shall be transmitted in the mails of the United States. Such publications may be mailed from the principal place of business of the station or from an established subunit of said station.
 
-(Mar. 2, 1887, ch. 314, § 6, 24 Stat. 441; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 673; Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773; Pub. L. 110–234, title VII, § 7404(b)(1), May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, § 4(a), title VII, § 7404(b)(1), June 18, 2008, 122 Stat. 1664, 2008.)
+(Mar. 2, 1887, ch. 314, § 6, 24 Stat. 441; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 673; Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773; Pub. L. 110–234, title VII, § 7404(b)(1), May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, § 4(a), title VII, § 7404(b)(1), June 18, 2008, 122 Stat. 1664, 2008.)
 
 **Editorial Notes**
 
@@ -347,7 +347,7 @@ Section was formerly classified to section 377 of this title. See section 361g o
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 7404(b)(1), in first sentence, struck out before period at end “under penalty indicia: *Provided, however*, That each publication shall bear such indicia as are prescribed by the United States Postal Service and shall be mailed under such regulations as the United States Postal Service may from time to time prescribe”.
+2008—Pub. L. 110–246, § 7404(b)(1), in first sentence, struck out before period at end “under penalty indicia: *Provided, however*, That each publication shall bear such indicia as are prescribed by the United States Postal Service and shall be mailed under such regulations as the United States Postal Service may from time to time prescribe”.
 
 1955—Act Aug. 11, 1955, amended section generally to authorize free mailing of publications by the agricultural experiment stations. For provisions which related to the unexpended balance of annual appropriation, see section 361g of this title.
 
@@ -359,9 +359,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Transfer of Functions**
 
-“United States Postal Service” substituted in text for “Postmaster General” pursuant to Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
+“United States Postal Service” substituted in text for “Postmaster General” pursuant to Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
 
-### § 361g. Duties of Secretary; ascertainment of entitlement of State to funds; plans of work
+### § 361g. Duties of Secretary; ascertainment of entitlement of State to funds; plans of work
 
 **(a) Duties of Secretary**
 
@@ -413,7 +413,7 @@ The Secretary of Agriculture shall develop the protocols in consultation with th
 
 To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (d) to satisfy other appropriate Federal reporting requirements.
 
-(Mar. 2, 1887, ch. 314, § 7, 24 Stat. 441; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 673; Pub. L. 86–533, § 1(22), June 29, 1960, 74 Stat. 249; Pub. L. 94–273, § 3(2), Apr. 21, 1976, 90 Stat. 376; Pub. L. 105–185, title I, § 103(f)(2), title II, § 202(b), June 23, 1998, 112 Stat. 528, 532; Pub. L. 107–171, title VII, § 7202, May 13, 2002, 116 Stat. 437; Pub. L. 115–334, title VII, § 7612(b)(2), Dec. 20, 2018, 132 Stat. 4832.)
+(Mar. 2, 1887, ch. 314, § 7, 24 Stat. 441; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 673; Pub. L. 86–533, § 1(22), June 29, 1960, 74 Stat. 249; Pub. L. 94–273, § 3(2), Apr. 21, 1976, 90 Stat. 376; Pub. L. 105–185, title I, § 103(f)(2), title II, § 202(b), June 23, 1998, 112 Stat. 528, 532; Pub. L. 107–171, title VII, § 7202, May 13, 2002, 116 Stat. 437; Pub. L. 115–334, title VII, § 7612(b)(2), Dec. 20, 2018, 132 Stat. 4832.)
 
 **Editorial Notes**
 
@@ -435,9 +435,9 @@ Section was formerly classified to section 379 of this title. See section 361h o
 
 2002—Subsec. (c). Pub. L. 107–171 added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Whenever it shall appear to the Secretary of Agriculture from the annual statement of receipts and expenditures of funds by any State agricultural experiment station that any portion of the preceding annual appropriation allotted to that station under sections 361a to 361i of this title remains unexpended, such amount shall be deducted from the next succeeding annual allotment to the State concerned.”
 
-1998—Pub. L. 105–185, § 202(b), inserted section catchline, designated existing provisions as subsecs. (a) to (c), inserted subsec. headings, and added subsecs. (d) to (g).
+1998—Pub. L. 105–185, § 202(b), inserted section catchline, designated existing provisions as subsecs. (a) to (c), inserted subsec. headings, and added subsecs. (d) to (g).
 
-Pub. L. 105–185, § 103(f)(2), struck out at end “If the Secretary of Agriculture shall withhold from any State any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress shall not direct such sum to be paid, it shall be carried to surplus.”
+Pub. L. 105–185, § 103(f)(2), struck out at end “If the Secretary of Agriculture shall withhold from any State any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress shall not direct such sum to be paid, it shall be carried to surplus.”
 
 1976—Pub. L. 94–273 substituted “October” for “July” in second par.
 
@@ -455,13 +455,13 @@ Amendment by section 202(b) of Pub. L. 105–185 effective Oct. 1, 1999, see sec
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-### § 361h. Relation of college or university to State unaffected; division of appropriations
+### § 361h. Relation of college or university to State unaffected; division of appropriations
 
 Nothing in sections 361a to 361i of this title shall be construed to impair or modify the legal relation existing between any of the colleges or universities under whose direction State agricultural experiment stations have been established and the government of the States in which they are respectively located. States having agricultural experiment stations separate from such colleges or universities and established by law, shall be authorized to apply such benefits to research at stations so established by such States: *Provided*, That in any State in which more than one such college, university, or agricultural experiment station has been established the appropriations made pursuant to sections 361a to 361i of this title for such State shall be divided between such institutions as the legislature of such State shall direct.
 
-(Mar. 2, 1887, ch. 314, § 8, 24 Stat. 441; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 674.)
+(Mar. 2, 1887, ch. 314, § 8, 24 Stat. 441; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 674.)
 
 **Editorial Notes**
 
@@ -473,11 +473,11 @@ Section was formerly classified to section 378 of this title.
 
 1955—Act Aug. 11, 1955, amended section generally to provide that the relation between the college and the State is to be unaffected, and to require division of appropriations.
 
-### § 361i. Power to amend, repeal, etc., reserved
+### § 361i. Power to amend, repeal, etc., reserved
 
 The Congress may at any time, amend, suspend, or repeal any or all of the provisions of sections 361a to 361i of this title.
 
-(Mar. 2, 1887, ch. 314, § 9, 24 Stat. 442; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 674.)
+(Mar. 2, 1887, ch. 314, § 9, 24 Stat. 442; Aug. 11, 1955, ch. 790, § 1, 69 Stat. 674.)
 
 **Editorial Notes**
 
@@ -489,15 +489,15 @@ Section was formerly classified to section 368b of this title. The provisions of
 
 1955—Act Aug. 11, 1955, amended section generally to reserve the right to Congress to amend, suspend, or repeal any or all of the provisions of sections 361a to 361i of this title, and to strike out provisions which subjected grants of moneys to the legislative assent of the several States and Territories.
 
-### §§ 362, 363. Transferred
+### §§ 362, 363. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Sections, act Mar. 2, 1887, ch. 314, §§ 1, 2, 24 Stat. 440, as amended, were transferred to sections 361a and 361b, respectively, of this title.
+Sections, act Mar. 2, 1887, ch. 314, §§ 1, 2, 24 Stat. 440, as amended, were transferred to sections 361a and 361b, respectively, of this title.
 
-### § 364. Repealed. Aug. 11, 1955, ch. 790, § 2, 69 Stat. 675
+### § 364. Repealed. Aug. 11, 1955, ch. 790, § 2, 69 Stat. 675
 
 Section, act Mar. 2, 1889, ch. 373, 25 Stat. 840, required all agricultural experiment stations to devote a portion of their work to the examination and classification of the soils of their respective States and Territories.
 
@@ -507,17 +507,17 @@ Section, act Mar. 2, 1889, ch. 373, 25 Stat. 840, required all agricultural expe
 
 Any rights or liabilities existing under this section as unaffected by repeal, see section 2 of act Aug. 11, 1955, set out as a note under former section 361 of this title.
 
-### § 365. Transferred
+### § 365. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Mar. 2, 1887, ch. 314, § 4, 24 Stat. 441, as amended, was transferred to section 361d of this title. For provisions of section 365 of this title which related to issuance and free mailing by stations of bulletins or reports, see section 361f of this title.
+Section, act Mar. 2, 1887, ch. 314, § 4, 24 Stat. 441, as amended, was transferred to section 361d of this title. For provisions of section 365 of this title which related to issuance and free mailing by stations of bulletins or reports, see section 361f of this title.
 
-### § 366. Repealed. Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674
+### § 366. Repealed. Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674
 
-Section, acts Mar. 16, 1906, ch. 951, § 3, 34 Stat. 63; Feb. 24, 1925, ch. 308, § 3, 43 Stat. 971, provided for annual reports by agricultural experiment stations to governors.
+Section, acts Mar. 16, 1906, ch. 951, § 3, 34 Stat. 63; Feb. 24, 1925, ch. 308, § 3, 43 Stat. 971, provided for annual reports by agricultural experiment stations to governors.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -525,7 +525,7 @@ Section, acts Mar. 16, 1906, ch. 951, § 3, 34 Stat. 63; Feb. 24, 1925, ch. 30
 
 Any rights or liabilities existing under this section as unaffected by repeal, see section 2 of act Aug. 11, 1955, set out as a note under section 361 of this title.
 
-### § 367. Omitted
+### § 367. Omitted
 
 **Editorial Notes**
 
@@ -589,45 +589,45 @@ May 11, 1926, ch. 286, 44 Stat. 502.
 
 Feb. 10, 1925, ch. 200, 43 Stat. 824.
 
-### §§ 368 to 368b. Transferred
+### §§ 368 to 368b. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section 368, act Mar. 2, 1887, ch. 314, § 3, 24 Stat. 441, as amended, was transferred to section 361c of this title. For provisions of section 368 which provided for assistance and advice by the Secretary of Agriculture, see section 361g of this title.
+Section 368, act Mar. 2, 1887, ch. 314, § 3, 24 Stat. 441, as amended, was transferred to section 361c of this title. For provisions of section 368 which provided for assistance and advice by the Secretary of Agriculture, see section 361g of this title.
 
-Section 368a, act Mar. 2, 1887, ch. 314, § 5, 24 Stat. 441, as amended, was transferred to section 361e of this title. For provisions of section 368a which authorized appropriations for investigations and experiments, see sections 361c and 361d of this title.
+Section 368a, act Mar. 2, 1887, ch. 314, § 5, 24 Stat. 441, as amended, was transferred to section 361e of this title. For provisions of section 368a which authorized appropriations for investigations and experiments, see sections 361c and 361d of this title.
 
-Section 368b, act Mar. 8, 1887, ch. 314, § 9, 24 Stat, 442, as amended, was transferred to section 361i of this title. Former provisions of section 368b making grants of money authorized by section 368a of this title subject to the legislative assent of the States and Territories were eliminated from section 361i.
+Section 368b, act Mar. 8, 1887, ch. 314, § 9, 24 Stat, 442, as amended, was transferred to section 361i of this title. Former provisions of section 368b making grants of money authorized by section 368a of this title subject to the legislative assent of the States and Territories were eliminated from section 361i.
 
-### § 368c. Omitted
+### § 368c. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Mar. 2, 1887, ch. 314, § 10, 24 Stat. 442, which was not reenacted by act Aug. 11, 1955, ch. 790, 69 Stat. 671, reserved the right to Congress to amend, suspend, or repeal any or all of the provisions of act Mar. 2, 1887. See section 361i of this title.
+Section, act Mar. 2, 1887, ch. 314, § 10, 24 Stat. 442, which was not reenacted by act Aug. 11, 1955, ch. 790, 69 Stat. 671, reserved the right to Congress to amend, suspend, or repeal any or all of the provisions of act Mar. 2, 1887. See section 361i of this title.
 
-### §§ 369 to 376. Repealed. Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674
+### §§ 369 to 376. Repealed. Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674
 
-Section 369, act Mar. 16, 1906, ch. 951, § 1, 34 Stat. 63, authorized annual appropriations for agricultural experiment stations. See section 361c of this title.
+Section 369, act Mar. 16, 1906, ch. 951, § 1, 34 Stat. 63, authorized annual appropriations for agricultural experiment stations. See section 361c of this title.
 
-Section 369a, acts June 20, 1936, ch. 631, §§ 1, 2, 49 Stat. 1553, 1554; Aug. 29, 1950, ch. 820, 64 Stat. 563, extended provisions of former sections 343a, 343b, 361, 366, 369, 370, 371, 373 to 376, 380, and 382 of this title to Alaska. See section 361a of this title.
+Section 369a, acts June 20, 1936, ch. 631, §§ 1, 2, 49 Stat. 1553, 1554; Aug. 29, 1950, ch. 820, 64 Stat. 563, extended provisions of former sections 343a, 343b, 361, 366, 369, 370, 371, 373 to 376, 380, and 382 of this title to Alaska. See section 361a of this title.
 
-Section 370, act Feb. 24, 1925, ch. 308, § 1, 43 Stat. 970, authorized an additional appropriation of $60,000 for each fiscal year. See section 361c of this title.
+Section 370, act Feb. 24, 1925, ch. 308, § 1, 43 Stat. 970, authorized an additional appropriation of $60,000 for each fiscal year. See section 361c of this title.
 
-Section 371, acts Mar. 16, 1906, ch. 951, § 2, 34 Stat. 63; Feb. 24, 1925, ch. 308, § 2, 43 Stat. 971, made grants of money authorized for agricultural experiment stations subject to the legislative assent of the several States and Territories.
+Section 371, acts Mar. 16, 1906, ch. 951, § 2, 34 Stat. 63; Feb. 24, 1925, ch. 308, § 2, 43 Stat. 971, made grants of money authorized for agricultural experiment stations subject to the legislative assent of the several States and Territories.
 
 Section 372, act June 7, 1888, ch. 373, 25 Stat. 176, provided for assent to installments of appropriations when the legislature is not in session.
 
-Section 373, acts Mar. 16, 1906, ch. 951, § 2, 34 Stat. 63; Feb. 24, 1925, ch. 308, § 2, 43 Stat. 971, prescribed the time and manner of payments to agricultural experiment stations and required a report of expenditures to the Secretary of Agriculture. See sections 361c and 361e of this title.
+Section 373, acts Mar. 16, 1906, ch. 951, § 2, 34 Stat. 63; Feb. 24, 1925, ch. 308, § 2, 43 Stat. 971, prescribed the time and manner of payments to agricultural experiment stations and required a report of expenditures to the Secretary of Agriculture. See sections 361c and 361e of this title.
 
-Section 374, acts Mar. 16, 1906, ch. 951, § 3, 34 Stat. 63; Feb. 24, 1925, ch. 308, § 3, 43 Stat. 971, required the State to replace moneys misapplied. See section 361e of this title.
+Section 374, acts Mar. 16, 1906, ch. 951, § 3, 34 Stat. 63; Feb. 24, 1925, ch. 308, § 3, 43 Stat. 971, required the State to replace moneys misapplied. See section 361e of this title.
 
-Section 375, acts Mar. 16, 1906, ch. 951, § 3, 34 Stat. 63; Feb. 24, 1925, ch. 308, § 3, 43 Stat. 971, permitted use of funds for purchase, repairs, etc., of buildings, or for purchase or rental of lands. See section 361d of this title.
+Section 375, acts Mar. 16, 1906, ch. 951, § 3, 34 Stat. 63; Feb. 24, 1925, ch. 308, § 3, 43 Stat. 971, permitted use of funds for purchase, repairs, etc., of buildings, or for purchase or rental of lands. See section 361d of this title.
 
-Section 376, acts Mar. 16, 1906, ch. 951, § 4, 34 Stat. 64; Feb. 24, 1925, ch. 308, § 4, 43 Stat. 971, provided for certification of amounts due States for agricultural experiment stations, for withholding certificate, and for redress by Congress. See section 361g of this title.
+Section 376, acts Mar. 16, 1906, ch. 951, § 4, 34 Stat. 64; Feb. 24, 1925, ch. 308, § 4, 43 Stat. 971, provided for certification of amounts due States for agricultural experiment stations, for withholding certificate, and for redress by Congress. See section 361g of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -635,21 +635,21 @@ Section 376, acts Mar. 16, 1906, ch. 951, § 4, 34 Stat. 64; Feb. 24, 1925, ch
 
 Any rights or liabilities existing under sections 369 to 376 as unaffected by repeal, see section 2 of act Aug. 11, 1955, set out as a note under former section 361 of this title.
 
-### §§ 377 to 379. Transferred
+### §§ 377 to 379. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section 377, act Mar. 2, 1887, ch. 314, § 6, 24 Stat. 441, as amended, was transferred to section 361f of this title. For provisions of section 377 which related to unexpended part of annual appropriations, see section 361g of this title.
+Section 377, act Mar. 2, 1887, ch. 314, § 6, 24 Stat. 441, as amended, was transferred to section 361f of this title. For provisions of section 377 which related to unexpended part of annual appropriations, see section 361g of this title.
 
-Section 378, act Mar. 2, 1887, ch. 314, § 8, 24 Stat. 441, as amended, was transferred to section 361h of this title.
+Section 378, act Mar. 2, 1887, ch. 314, § 8, 24 Stat. 441, as amended, was transferred to section 361h of this title.
 
-Section 379, act Mar. 2, 1887, ch. 314, § 7, 24 Stat. 441, as amended, was transferred to section 361g of this title. For provisions of section 379 which provided that the relation of the college to the State was unaffected, see section 361h of this title.
+Section 379, act Mar. 2, 1887, ch. 314, § 7, 24 Stat. 441, as amended, was transferred to section 361g of this title. For provisions of section 379 which provided that the relation of the college to the State was unaffected, see section 361h of this title.
 
-### § 380. Repealed. Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674
+### § 380. Repealed. Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674
 
-Section, acts Mar. 16, 1906, ch. 951, § 5, 34 Stat. 64; Feb. 24, 1925, ch. 308, § 5, 43 Stat. 972, provided for an annual report to Congress. See section 361g of this title.
+Section, acts Mar. 16, 1906, ch. 951, § 5, 34 Stat. 64; Feb. 24, 1925, ch. 308, § 5, 43 Stat. 972, provided for an annual report to Congress. See section 361g of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -657,7 +657,7 @@ Section, acts Mar. 16, 1906, ch. 951, § 5, 34 Stat. 64; Feb. 24, 1925, ch. 30
 
 Any rights or liabilities existing under this section as unaffected by repeal, see section 2 of act Aug. 11, 1955, set out as a note under former section 361 of this title.
 
-### § 381. Omitted
+### § 381. Omitted
 
 **Editorial Notes**
 
@@ -665,9 +665,9 @@ Any rights or liabilities existing under this section as unaffected by repeal, s
 
 Section was from act Mar. 2, 1901, ch. 805, 31 Stat. 935, the Agricultural Appropriation Act, 1902, and authorized the Secretary of Agriculture to employ personnel and to incur administrative expenses in carrying out the objects of the agricultural experiment station program. See section 361g of this title. Similar provisions were contained in several prior appropriation acts.
 
-### §§ 382, 383. Repealed. Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674, 675
+### §§ 382, 383. Repealed. Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674, 675
 
-Section 382, acts Mar. 16, 1906, ch. 951, § 6, 34 Stat. 64; Feb. 24, 1925, ch. 308, § 6, 43 Stat. 972, reserved the right to Congress to amend, suspend or repeal any and all of the provisions of act Mar. 16, 1906. See section 361i of this title.
+Section 382, acts Mar. 16, 1906, ch. 951, § 6, 34 Stat. 64; Feb. 24, 1925, ch. 308, § 6, 43 Stat. 972, reserved the right to Congress to amend, suspend or repeal any and all of the provisions of act Mar. 16, 1906. See section 361i of this title.
 
 Section 383, act Oct. 1, 1918, ch. 178, 40 Stat. 998, authorized appropriations for the Georgia Experiment Station. See section 361c of this title.
 
@@ -677,7 +677,7 @@ Section 383, act Oct. 1, 1918, ch. 178, 40 Stat. 998, authorized appropriations 
 
 Any rights or liabilities existing under these sections as unaffected by repeal, see section 2 of act Aug. 11, 1955, set out as a note under former section 361 of this title.
 
-### § 384. Card index of agricultural literature; copies to be furnished by Secretary
+### § 384. Card index of agricultural literature; copies to be furnished by Secretary
 
 The Secretary of Agriculture may furnish to such institutions or individuals as may care to buy them copies of the card index of agricultural literature prepared by the Department of Agriculture in connection with its administration of the Act of March second, eighteen hundred and eighty-seven [7 U.S.C. 361a et seq.], and the Act of March sixteenth, nineteen hundred and six, and the Acts amendatory of and supplementary thereto, and charge for the same a price covering the additional expenses involved in the preparation of these copies, the money received from such sales to be deposited in the Treasury of the United States as miscellaneous receipts.
 
@@ -689,33 +689,33 @@ The Secretary of Agriculture may furnish to such institutions or individuals as 
 
 The Act of March second, eighteen hundred and eighty-seven, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
-The Act of March sixteenth, nineteen hundred and six, referred to in text, means act Mar. 16, 1906, ch. 951, 34 Stat. 63, known as the Adams Act of 1906, which was classified to sections 361, 366, 369, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
+The Act of March sixteenth, nineteen hundred and six, referred to in text, means act Mar. 16, 1906, ch. 951, 34 Stat. 63, known as the Adams Act of 1906, which was classified to sections 361, 366, 369, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-### § 385. South Carolina Experiment Station; cooperation by Secretary of Agriculture; lump sum appropriation
+### § 385. South Carolina Experiment Station; cooperation by Secretary of Agriculture; lump sum appropriation
 
 There is authorized to be appropriated the sum of $50,000 to enable the Secretary of Agriculture to cooperate with the South Carolina Agricultural Experiment Station and/or other agencies in making investigations and experiments in dairying and livestock industries and of the problems pertaining to the establishment and development of such industries, including cropping systems, soil improvement, and farm organization studies of such industries, and for demonstration, assistance, and service in developing the agriculture of the Sand Hill region of the Southeast.
 
-(Mar. 3, 1927, ch. 367, § 1, 44 Stat. 1397.)
+(Mar. 3, 1927, ch. 367, § 1, 44 Stat. 1397.)
 
-### § 385a. Authorization of appropriations
+### § 385a. Authorization of appropriations
 
 There is authorized to be appropriated each fiscal year necessary appropriations to enable the Secretary of Agriculture to carry on the cooperative experiments contemplated by section 385 of this title.
 
-(Mar. 3, 1927, ch. 367, § 2, as added Feb. 4, 1928, ch. 24, 45 Stat. 57.)
+(Mar. 3, 1927, ch. 367, § 2, as added Feb. 4, 1928, ch. 24, 45 Stat. 57.)
 
-### §§ 386 to 386f. Repealed. Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674
+### §§ 386 to 386f. Repealed. Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674
 
-Sections 386 to 386b, act May 16, 1928, ch. 575, §§ 1–3, 45 Stat. 571, 572, provided for establishment of an experiment station in Hawaii, authorized appropriations and an increase in permanent annual appropriations. See sections 361a and 361c of this title.
+Sections 386 to 386b, act May 16, 1928, ch. 575, §§ 1–3, 45 Stat. 571, 572, provided for establishment of an experiment station in Hawaii, authorized appropriations and an increase in permanent annual appropriations. See sections 361a and 361c of this title.
 
 Section 386c, act Feb. 23, 1929, ch. 299, 45 Stat. 1256, extended provisions of agricultural experiment station program to Alaska. See section 361a of this title.
 
-Sections 386d to 386f, acts Mar. 4, 1931, ch. 499, §§ 1–3, 46 Stat. 1520, 1521; May 17, 1932, ch. 190, 47 Stat. 158, provided for establishment of an experiment station in Puerto Rico, authorized appropriations and an increase in permanent annual appropriations. See sections 361a and 361c of this title.
+Sections 386d to 386f, acts Mar. 4, 1931, ch. 499, §§ 1–3, 46 Stat. 1520, 1521; May 17, 1932, ch. 190, 47 Stat. 158, provided for establishment of an experiment station in Puerto Rico, authorized appropriations and an increase in permanent annual appropriations. See sections 361a and 361c of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -723,75 +723,75 @@ Sections 386d to 386f, acts Mar. 4, 1931, ch. 499, §§ 1–3, 46 Stat. 1520, 
 
 Any rights or liabilities existing under sections 386 to 386f as unaffected by repeal, see section 2 of act Aug. 11, 1955, set out as a note under former section 361 of this title.
 
-### § 386g. Repealed. Oct. 31, 1951, ch. 654, § 1(10), 65 Stat. 701
+### § 386g. Repealed. Oct. 31, 1951, ch. 654, § 1(10), 65 Stat. 701
 
-Section, act July 7, 1932, ch. 443, § 1, 47 Stat. 614, related to transfer or sale of property of Alaska, Guam, and Virgin Islands stations.
+Section, act July 7, 1932, ch. 443, § 1, 47 Stat. 614, related to transfer or sale of property of Alaska, Guam, and Virgin Islands stations.
 
 ## SUBCHAPTER II—EXPERIMENT STATIONS FOR PROPAGATION OF TREES, SHRUBS, VINES, AND VEGETABLES
 
-### § 387. Station for semi-arid or dry-land regions; establishment
+### § 387. Station for semi-arid or dry-land regions; establishment
 
 The Secretary of Agriculture is authorized and directed to cause such shade, ornamental, fruit, and shelter-belt trees, shrubs, vines, and vegetables as are adapted to the conditions and needs of the semi-arid or dry-land regions of the United States, to be propagated at an experiment station of the Department of Agriculture to be established at or near Cheyenne, Wyoming, and seedlings and cuttings and seeds of such trees, shrubs, vines, and vegetables to be distributed free of charge under such regulations as he may prescribe for experimental and demonstration purposes within the semi-arid or dry-land regions of the United States.
 
-(Mar. 19, 1928, ch. 228, § 1, 45 Stat. 323.)
+(Mar. 19, 1928, ch. 228, § 1, 45 Stat. 323.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-All functions of all officers, agencies and employees of the Department of Agriculture were transferred, with certain exceptions, to the Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+All functions of all officers, agencies and employees of the Department of Agriculture were transferred, with certain exceptions, to the Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-### § 387a. Authorization of appropriations
+### § 387a. Authorization of appropriations
 
 There is authorized to be appropriated each fiscal year necessary appropriations to enable the Secretary of Agriculture to carry on the experiments contemplated by section 387 of this title.
 
-(Mar. 19, 1928, ch. 228, § 3, 45 Stat. 323.)
+(Mar. 19, 1928, ch. 228, § 3, 45 Stat. 323.)
 
-### § 388. Station for southern Great Plains area; establishment
+### § 388. Station for southern Great Plains area; establishment
 
 The Secretary of Agriculture is authorized and directed to cause such shade, ornamental, fruit, and shelter-belt trees, shrubs, and vines as are adapted to the conditions and needs of the southern Great Plains area, comprised of those parts of the States of Colorado, Nebraska, Kansas, Texas, Oklahoma, and New Mexico lying west of the ninety-eighth meridian and east of the five thousand-foot contour line, to be propagated at one of the existing field stations of the Department of Agriculture in such area, and seedlings and cuttings and seeds of such trees, shrubs, and vines to be distributed free of charge under such regulations as he may prescribe for experimental and demonstration purposes within such area.
 
-(Apr. 16, 1928, ch. 377, § 1, 45 Stat. 430.)
+(Apr. 16, 1928, ch. 377, § 1, 45 Stat. 430.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-### § 388a. Authorization of appropriations
+### § 388a. Authorization of appropriations
 
 There is authorized to be appropriated each fiscal year necessary appropriations to enable the Secretary of Agriculture to carry on the experiments contemplated by section 388 of this title.
 
-(Apr. 16, 1928, ch. 377, § 3, 45 Stat. 431.)
+(Apr. 16, 1928, ch. 377, § 3, 45 Stat. 431.)
 
-### § 389. Transfer of certain dry land and irrigation field stations to States
+### § 389. Transfer of certain dry land and irrigation field stations to States
 
 The Secretary of Agriculture is authorized, at such times as he deems appropriate, to convey by appropriate conveyances, without consideration, the interest of the United States in the lands, including water rights, buildings, and improvements presently comprising or appurtenant to the following dry land and irrigation field stations, to the States in which such stations are located, when, in the opinion of the Secretary of Agriculture, the transfer of any such station will result in establishing a more effective program in the cooperative agricultural experimental work of the Department of Agriculture and the respective State and the furtherance of agricultural experimental work on a national or regional basis will be better served by such transfer: Huntley, Montana; Mitchell, Nebraska; Fallon, Nevada; Tucumcari, New Mexico; Hermiston, Oregon; Sheridan, Wyoming: *Provided*, That when any or all of the land, including water rights, comprising any such station is public-domain land, only the Secretary of the Interior may by patent or other appropriate conveyance transfer such lands to the respective States: *Provided further*, That when any easement necessary to a station conveyed or patented hereunder is on public-domain lands, only the Secretary of the Interior may grant such easements to the State to which the station has been conveyed.
 
-(Sept. 23, 1950, ch. 1005, § 1, 64 Stat. 981.)
+(Sept. 23, 1950, ch. 1005, § 1, 64 Stat. 981.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-### § 389a. Conditions of transfer of dry land and irrigation field stations; reservation of mineral rights
+### § 389a. Conditions of transfer of dry land and irrigation field stations; reservation of mineral rights
 
 Conveyances or patents under this section and section 389 of this title shall be upon such conditions as in the opinion of the Secretary of Agriculture will assure the use of such station in the cooperative agricultural experimental work of the Department of Agriculture and the respective State. Any such conveyances of the land shall contain a reservation to the United States of all the minerals in the land together with the right to prospect for, mine, and remove the same under such regulations as the Secretary of the Interior may prescribe.
 
-(Sept. 23, 1950, ch. 1005, § 2, 64 Stat. 982.)
+(Sept. 23, 1950, ch. 1005, § 2, 64 Stat. 982.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 ## SUBCHAPTER III—RESEARCH FACILITIES
 
-### § 390. Definitions
+### § 390. Definitions
 
 In this subchapter:
 
@@ -811,7 +811,7 @@ The term “food and agricultural sciences” has the meaning given that term in
 
 The term “Secretary” means the Secretary of Agriculture.
 
-(Pub. L. 88–74, § 2, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1176; amended Pub. L. 107–171, title VII, §§ 7214, 7308(b), May 13, 2002, 116 Stat. 448, 455; Pub. L. 110–234, title VII, § 7101(b)(1), May 22, 2008, 122 Stat. 1213; Pub. L. 110–246, § 4(a), title VII, § 7101(b)(1), June 18, 2008, 122 Stat. 1664, 1974; Pub. L. 115–334, title VII, § 7503(a)(1), Dec. 20, 2018, 132 Stat. 4821.)
+(Pub. L. 88–74, § 2, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1176; amended Pub. L. 107–171, title VII, §§ 7214, 7308(b), May 13, 2002, 116 Stat. 448, 455; Pub. L. 110–234, title VII, § 7101(b)(1), May 22, 2008, 122 Stat. 1213; Pub. L. 110–246, § 4(a), title VII, § 7101(b)(1), June 18, 2008, 122 Stat. 1664, 1974; Pub. L. 115–334, title VII, § 7503(a)(1), Dec. 20, 2018, 132 Stat. 4821.)
 
 **Editorial Notes**
 
@@ -821,7 +821,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 390, Pub. L. 88–74, § 1, July 22, 1963, 77 Stat. 90; Pub. L. 95–113, title XIV, § 1416(3), Sept. 29, 1977, 91 Stat. 996; Pub. L. 99–198, title XIV, § 1411(a), Dec. 23, 1985, 99 Stat. 1547, related to congressional declaration of policy, prior to the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 390, Pub. L. 88–74, § 1, July 22, 1963, 77 Stat. 90; Pub. L. 95–113, title XIV, § 1416(3), Sept. 29, 1977, 91 Stat. 996; Pub. L. 99–198, title XIV, § 1411(a), Dec. 23, 1985, 99 Stat. 1547, related to congressional declaration of policy, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 2 of Pub. L. 88–74 was classified to section 390a of this title prior to the general amendment of this subchapter by Pub. L. 104–127.
 
@@ -829,9 +829,9 @@ A prior section 2 of Pub. L. 88–74 was classified to section 390a of this titl
 
 2018—Par. (1). Pub. L. 115–334 substituted “an entity eligible to receive funds under a capacity and infrastructure program (as defined in section 6971(f)(1)(C) of this title)” for “a college, university, or nonprofit institution”.
 
-2008—Par. (3). Pub. L. 110–246, § 7101(b)(1), substituted “3103” for “3103(8)”.
+2008—Par. (3). Pub. L. 110–246, § 7101(b)(1), substituted “3103” for “3103(8)”.
 
-2002—Par. (3). Pub. L. 107–171, § 7214, reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘food and agricultural sciences’ means—
+2002—Par. (3). Pub. L. 107–171, § 7214, reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘food and agricultural sciences’ means—
 
 “(A) agriculture, including soil and water conservation and use, the use of organic materials to improve soil tilth and fertility, plant and animal production and protection, and plant and animal health;
 
@@ -847,7 +847,7 @@ A prior section 2 of Pub. L. 88–74 was classified to section 390a of this titl
 
 “(G) germ plasm collection and preservation.”
 
-Par. (5). Pub. L. 107–171, § 7308(b), struck out heading and text of par. (5). Text read as follows: “The term ‘task force’ means the Strategic Planning Task Force established under section 390b of this title.”
+Par. (5). Pub. L. 107–171, § 7308(b), struck out heading and text of par. (5). Text read as follows: “The term ‘task force’ means the Strategic Planning Task Force established under section 390b of this title.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -857,13 +857,13 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date**
 
-Pub. L. 104–127, title VIII, § 884(b), Apr. 4, 1996, 110 Stat. 1179, provided that: “The amendment made by subsection (a) [enacting this subchapter], other than section 4 of the Research Facilities Act [section 390b of this title] (as amended by subsection (a)), shall not apply to any project for an agricultural research facility for which funds have been made available for a feasibility study or for any phase of the project prior to October 1, 1995.”
+Pub. L. 104–127, title VIII, § 884(b), Apr. 4, 1996, 110 Stat. 1179, provided that: “The amendment made by subsection (a) [enacting this subchapter], other than section 4 of the Research Facilities Act [section 390b of this title] (as amended by subsection (a)), shall not apply to any project for an agricultural research facility for which funds have been made available for a feasibility study or for any phase of the project prior to October 1, 1995.”
 
 **Short Title**
 
-Pub. L. 88–74, § 1, as added by Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1176, provided that: “This Act [enacting this subchapter] may be cited as the ‘Research Facilities Act’.”
+Pub. L. 88–74, § 1, as added by Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1176, provided that: “This Act [enacting this subchapter] may be cited as the ‘Research Facilities Act’.”
 
-### § 390a. Review process
+### § 390a. Review process
 
 **(a) Submission to Secretary**
 
@@ -911,13 +911,13 @@ The proposal shall demonstrate how the agricultural research facility would be c
 
 The Secretary shall ensure that each research activity conducted by a facility of the Agricultural Research Service serves a national or multistate need.
 
-(Pub. L. 88–74, § 3, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1177; amended Pub. L. 105–185, title I, § 106(a), (b), June 23, 1998, 112 Stat. 530; Pub. L. 115–334, title VII, § 7503(a)(2), (b), Dec. 20, 2018, 132 Stat. 4821.)
+(Pub. L. 88–74, § 3, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1177; amended Pub. L. 105–185, title I, § 106(a), (b), June 23, 1998, 112 Stat. 530; Pub. L. 115–334, title VII, § 7503(a)(2), (b), Dec. 20, 2018, 132 Stat. 4821.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 390a, Pub. L. 88–74, § 2, July 22, 1963, 77 Stat. 90; Pub. L. 95–113, title XIV, § 1416(3), Sept. 29, 1977, 91 Stat. 996; Pub. L. 99–198, title XIV, § 1411(b), Dec. 23, 1985, 99 Stat. 1547, related to congressional declaration of purpose, prior to the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 390a, Pub. L. 88–74, § 2, July 22, 1963, 77 Stat. 90; Pub. L. 95–113, title XIV, § 1416(3), Sept. 29, 1977, 91 Stat. 996; Pub. L. 99–198, title XIV, § 1411(b), Dec. 23, 1985, 99 Stat. 1547, related to congressional declaration of purpose, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 3 of Pub. L. 88–74 was classified to section 390b of this title prior to the general amendment of this subchapter by Pub. L. 104–127.
 
@@ -925,41 +925,41 @@ A prior section 3 of Pub. L. 88–74 was classified to section 390b of this titl
 
 2018—Subsec. (c)(2)(D). Pub. L. 115–334, in introductory provisions, substituted “recipient entity” for “recipient college, university, or nonprofit institution” and “operating and maintenance costs” for “operating costs”.
 
-1998—Subsec. (c)(2)(C)(ii). Pub. L. 105–185, § 106(a), substituted “national or multistate needs” for “regional needs”.
+1998—Subsec. (c)(2)(C)(ii). Pub. L. 105–185, § 106(a), substituted “national or multistate needs” for “regional needs”.
 
-Subsec. (e). Pub. L. 105–185, § 106(b), added subsec. (e).
+Subsec. (e). Pub. L. 105–185, § 106(b), added subsec. (e).
 
-### § 390b. Competitive grant program
+### § 390b. Competitive grant program
 
 The Secretary shall establish a program to make competitive grants to assist in the construction, alteration, acquisition, modernization, renovation, or remodeling of agricultural research facilities.
 
-(Pub. L. 88–74, § 4, as added Pub. L. 115–334, title VII, § 7503(c), Dec. 20, 2018, 132 Stat. 4821.)
+(Pub. L. 88–74, § 4, as added Pub. L. 115–334, title VII, § 7503(c), Dec. 20, 2018, 132 Stat. 4821.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 390b, Pub. L. 88–74, § 4, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1178; amended Pub. L. 105–185, title I, § 106(c), (d), June 23, 1998, 112 Stat. 530, related to task force on 10–year strategic plan for agricultural research facilities, prior to repeal by Pub. L. 107–171, title VII, § 7308(a), May 13, 2002, 116 Stat. 455.
+A prior section 390b, Pub. L. 88–74, § 4, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1178; amended Pub. L. 105–185, title I, § 106(c), (d), June 23, 1998, 112 Stat. 530, related to task force on 10–year strategic plan for agricultural research facilities, prior to repeal by Pub. L. 107–171, title VII, § 7308(a), May 13, 2002, 116 Stat. 455.
 
-Another prior section 390b, Pub. L. 88–74, § 3, July 22, 1963, 77 Stat. 90; Pub. L. 95–113, title XIV, § 1416(1), Sept. 29, 1977, 91 Stat. 994; Pub. L. 99–198, title XIV, § 1411(c), Dec. 23, 1985, 99 Stat. 1547, related to definitions, prior to the general amendment of this subchapter by Pub. L. 104–127.
+Another prior section 390b, Pub. L. 88–74, § 3, July 22, 1963, 77 Stat. 90; Pub. L. 95–113, title XIV, § 1416(1), Sept. 29, 1977, 91 Stat. 994; Pub. L. 99–198, title XIV, § 1411(c), Dec. 23, 1985, 99 Stat. 1547, related to definitions, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 4 of Pub. L. 88–74 was classified to section 390c of this title prior to the general amendment of this subchapter by Pub. L. 104–127.
 
-### § 390c. Applicability of chapter 10 of title 5
+### § 390c. Applicability of chapter 10 of title 5
 
 Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 (7 U.S.C. 2281 et seq.) shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
 
-(Pub. L. 88–74, § 5, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 117–286, § 4(a)(22), Dec. 27, 2022, 136 Stat. 4307.)
+(Pub. L. 88–74, § 5, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 117–286, § 4(a)(22), Dec. 27, 2022, 136 Stat. 4307.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food and Agriculture Act of 1977, referred to in text, is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
+The Food and Agriculture Act of 1977, referred to in text, is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 390c, Pub. L. 88–74, § 4, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 994; Pub. L. 97–98, title XIV, § 1416, Dec. 22, 1981, 95 Stat. 1304; Pub. L. 99–198, title XIV, § 1411(d), Dec. 23, 1985, 99 Stat. 1548; Pub. L. 101–624, title XVI, § 1601(a), Nov. 28, 1990, 104 Stat. 3703, related to appropriations and administrative authority, prior to the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 390c, Pub. L. 88–74, § 4, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 994; Pub. L. 97–98, title XIV, § 1416, Dec. 22, 1981, 95 Stat. 1304; Pub. L. 99–198, title XIV, § 1411(d), Dec. 23, 1985, 99 Stat. 1548; Pub. L. 101–624, title XVI, § 1601(a), Nov. 28, 1990, 104 Stat. 3703, related to appropriations and administrative authority, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 5 of Pub. L. 88–74 was classified to section 390d of this title prior to the general amendment of this subchapter by Pub. L. 104–127.
 
@@ -967,7 +967,7 @@ A prior section 5 of Pub. L. 88–74 was classified to section 390d of this titl
 
 2022—Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in section catchline and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-### § 390d. Authorization of appropriations
+### § 390d. Authorization of appropriations
 
 **(a) In general**
 
@@ -989,7 +989,7 @@ An entity eligible to receive funds under this subchapter may receive funds for 
 
 Subject to subsections (b), (c), and (d), of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out the competitive grant program under section 390b of this title $125,000,000 for fiscal year 2026 and each fiscal year thereafter.
 
-(Pub. L. 88–74, § 6, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 105–185, title III, § 301(d), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, § 7135, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, § 7405, May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, § 4(a), title VII, § 7405, June 18, 2008, 122 Stat. 1664, 2008; Pub. L. 113–79, title VII, § 7403, Feb. 7, 2014, 128 Stat. 895; Pub. L. 115–334, title VII, § 7503(d), Dec. 20, 2018, 132 Stat. 4821; Pub. L. 119–21, title I, § 10604(f), July 4, 2025, 139 Stat. 109.)
+(Pub. L. 88–74, § 6, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 105–185, title III, § 301(d), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, § 7135, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, § 7405, May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, § 4(a), title VII, § 7405, June 18, 2008, 122 Stat. 1664, 2008; Pub. L. 113–79, title VII, § 7403, Feb. 7, 2014, 128 Stat. 895; Pub. L. 115–334, title VII, § 7503(d), Dec. 20, 2018, 132 Stat. 4821; Pub. L. 119–21, title I, § 10604(f), July 4, 2025, 139 Stat. 109.)
 
 **Editorial Notes**
 
@@ -1003,43 +1003,43 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 390d, Pub. L. 88–74, § 5, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 995; Pub. L. 99–198, title XIV, § 1411(e), Dec. 23, 1985, 99 Stat. 1548, related to payment eligibility and facility proposals, prior to the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 390d, Pub. L. 88–74, § 5, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 995; Pub. L. 99–198, title XIV, § 1411(e), Dec. 23, 1985, 99 Stat. 1548, related to payment eligibility and facility proposals, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 6 of Pub. L. 88–74 was classified to section 390f of this title prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 Another prior section 6 of Pub. L. 88–74 was classified to section 390e of this title prior to repeal by Pub. L. 99–198.
 
-A prior section 390e, Pub. L. 88–74, § 6, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 995, related to continuing availability of unused allotments to eligible institutions for a period of five fiscal years following the fiscal year of initial availability thereof, prior to repeal by Pub. L. 99–198, title XIV, § 1411(f), Dec. 23, 1985, 99 Stat. 1548.
+A prior section 390e, Pub. L. 88–74, § 6, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 995, related to continuing availability of unused allotments to eligible institutions for a period of five fiscal years following the fiscal year of initial availability thereof, prior to repeal by Pub. L. 99–198, title XIV, § 1411(f), Dec. 23, 1985, 99 Stat. 1548.
 
-A prior section 390f, Pub. L. 88–74, § 6, formerly § 7, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered § 6 and amended Pub. L. 99–198, title XIV, § 1411(g), (k), Dec. 23, 1985, 99 Stat. 1548, related to fund support basis for multiple-purpose equipment and physical facilities, prior to the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 390f, Pub. L. 88–74, § 6, formerly § 7, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered § 6 and amended Pub. L. 99–198, title XIV, § 1411(g), (k), Dec. 23, 1985, 99 Stat. 1548, related to fund support basis for multiple-purpose equipment and physical facilities, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
-A prior section 390g, Pub. L. 88–74, § 8, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 995, related to ascertainment of the amount of the allocation to which each institution was entitled and written notification to each such institution, prior to repeal by Pub. L. 99–198, title XIV, § 1411(h), Dec. 23, 1985, 99 Stat. 1548.
+A prior section 390g, Pub. L. 88–74, § 8, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 995, related to ascertainment of the amount of the allocation to which each institution was entitled and written notification to each such institution, prior to repeal by Pub. L. 99–198, title XIV, § 1411(h), Dec. 23, 1985, 99 Stat. 1548.
 
-A prior section 390h, Pub. L. 88–74, § 7, formerly § 9, July 22, 1963, 77 Stat. 91; Pub. L. 94–273, § 7(1), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered § 7 and amended Pub. L. 99–198, title XIV, § 1411(i), (k), Dec. 23, 1985, 99 Stat. 1548, related to fiscal accountability, prior to the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 390h, Pub. L. 88–74, § 7, formerly § 9, July 22, 1963, 77 Stat. 91; Pub. L. 94–273, § 7(1), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered § 7 and amended Pub. L. 99–198, title XIV, § 1411(i), (k), Dec. 23, 1985, 99 Stat. 1548, related to fiscal accountability, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
-A prior section 390i, Pub. L. 88–74, § 8, formerly § 10, July 22, 1963, 77 Stat. 92; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered § 8 and amended Pub. L. 99–198, title XIV, § 1411(j), (k), Dec. 23, 1985, 99 Stat. 1548, directed Secretary to submit annual reports to Congress with respect to research facility payments, prior to repeal by Pub. L. 104–66, title I, § 1011(w), Dec. 21, 1995, 109 Stat. 711.
+A prior section 390i, Pub. L. 88–74, § 8, formerly § 10, July 22, 1963, 77 Stat. 92; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered § 8 and amended Pub. L. 99–198, title XIV, § 1411(j), (k), Dec. 23, 1985, 99 Stat. 1548, directed Secretary to submit annual reports to Congress with respect to research facility payments, prior to repeal by Pub. L. 104–66, title I, § 1011(w), Dec. 21, 1995, 109 Stat. 711.
 
 A prior section 8 of Pub. L. 88–74 was classified to section 390g of this title prior to repeal by Pub. L. 99–198.
 
-A prior section 390j, Pub. L. 88–74, § 9, formerly § 11, July 22, 1963, 77 Stat. 92; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered § 9, Pub. L. 99–198, title XIV, § 1411(k), Dec. 23, 1985, 99 Stat. 1548, related to availability of appropriated funds for administration, prior to the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 390j, Pub. L. 88–74, § 9, formerly § 11, July 22, 1963, 77 Stat. 92; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered § 9, Pub. L. 99–198, title XIV, § 1411(k), Dec. 23, 1985, 99 Stat. 1548, related to availability of appropriated funds for administration, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 9 of Pub. L. 88–74 was renumbered section 7 and was classified to section 390h of this title, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
-A prior section 390k, Pub. L. 88–74, § 12, July 22, 1963, 77 Stat. 92, authorized appropriation of such sums as might be necessary for proper administration of this subchapter, prior to repeal by Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 994, effective Oct. 1, 1977.
+A prior section 390k, Pub. L. 88–74, § 12, July 22, 1963, 77 Stat. 92, authorized appropriation of such sums as might be necessary for proper administration of this subchapter, prior to repeal by Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 994, effective Oct. 1, 1977.
 
 **Amendments**
 
-2025—Subsec. (c). Pub. L. 119–21, § 10604(f)(1), substituted “subsections (a) and (e)” for “subsection (a)”.
+2025—Subsec. (c). Pub. L. 119–21, § 10604(f)(1), substituted “subsections (a) and (e)” for “subsection (a)”.
 
-Subsec. (e). Pub. L. 119–21, § 10604(f)(2), added subsec. (e).
+Subsec. (e). Pub. L. 119–21, § 10604(f)(2), added subsec. (e).
 
-2018—Subsec. (a). Pub. L. 115–334, § 7503(d)(1), substituted “subsections (b), (c), and (d),” for “subsection (b),” and “2023” for “2018” and inserted at end “Funds appropriated pursuant to the preceding sentence shall be available until expended.”
+2018—Subsec. (a). Pub. L. 115–334, § 7503(d)(1), substituted “subsections (b), (c), and (d),” for “subsection (b),” and “2023” for “2018” and inserted at end “Funds appropriated pursuant to the preceding sentence shall be available until expended.”
 
-Subsecs. (c), (d). Pub. L. 115–334, § 7503(d)(2), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 115–334, § 7503(d)(2), added subsecs. (c) and (d).
 
 2014—Subsec. (a). Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 7405, substituted “2012” for “2007”.
+2008—Subsec. (a). Pub. L. 110–246, § 7405, substituted “2012” for “2007”.
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 

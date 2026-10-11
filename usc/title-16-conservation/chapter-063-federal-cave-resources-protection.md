@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 63—FEDERAL CAVE RESOURCES PROTECTION
 
-## § 4301. Findings, purposes, and policy
+## § 4301. Findings, purposes, and policy
 
 **(a) Findings** The Congress finds and declares that—
 
@@ -33,13 +33,13 @@ retrieved: 2026-10-11
 
 It is the policy of the United States that Federal lands be managed in a manner which protects and maintains, to the extent practical, significant caves.
 
-(Pub. L. 100–691, § 2, Nov. 18, 1988, 102 Stat. 4546.)
+(Pub. L. 100–691, § 2, Nov. 18, 1988, 102 Stat. 4546.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 100–691, § 1, Nov. 18, 1988, 102 Stat. 4546, provided that: “This Act [enacting this chapter] may be referred to as the ‘Federal Cave Resources Protection Act of 1988’.”
+Pub. L. 100–691, § 1, Nov. 18, 1988, 102 Stat. 4546, provided that: “This Act [enacting this chapter] may be referred to as the ‘Federal Cave Resources Protection Act of 1988’.”
 
 **Lechuguilla Cave Protection**
 
@@ -89,7 +89,7 @@ Pub. L. 103–169, Dec. 2, 1993, 107 Stat. 1983, provided that:
 
 > “There is hereby authorized to be appropriated such sums as may be necessary to carry out this Act: *Provided*, That no funds shall be made available except to the extent, or in such amounts as are provided in advance in appropriation Acts.”
 
-## § 4302. Definitions
+## § 4302. Definitions
 
 For purposes of this chapter:
 
@@ -107,9 +107,9 @@ The term “Indian lands” means lands of Indian tribes or Indian individuals w
 
 **(4) Indian tribe**
 
-The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in, or established pursuant to, the Alaska Native Claims settlement 1
+The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in, or established pursuant to, the Alaska Native Claims settlement 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 Act (43 U.S.C. 1601 et seq.).
 
@@ -129,15 +129,15 @@ The term “speleothem” means any natural mineral formation or deposit occurri
 
 The term “speleogen” means relief features on the walls, ceiling, and floor of any cave or lava tube which are part of the surrounding bedrock, including but not limited to anastomoses, scallops, meander niches, petromorphs and rock pendants in solution caves and similar features unique to volcanic caves.
 
-(Pub. L. 100–691, § 3, Nov. 18, 1988, 102 Stat. 4546.)
+(Pub. L. 100–691, § 3, Nov. 18, 1988, 102 Stat. 4546.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-## § 4303. Management actions
+## § 4303. Management actions
 
 **(a) Regulations**
 
@@ -163,9 +163,9 @@ Not later than nine months after November 18, 1988, the Secretary shall issue su
 
 **(2)** foster communication, cooperation, and exchange of information between land managers, those who utilize caves, and the public.
 
-(Pub. L. 100–691, § 4, Nov. 18, 1988, 102 Stat. 4547.)
+(Pub. L. 100–691, § 4, Nov. 18, 1988, 102 Stat. 4547.)
 
-## § 4304. Confidentiality of information concerning nature and location of significant caves
+## § 4304. Confidentiality of information concerning nature and location of significant caves
 
 **(a) In general**
 
@@ -179,9 +179,9 @@ Information concerning the specific location of any significant cave may not be 
 
 **(3)** include assurances satisfactory to the Secretary that adequate measures are being taken to protect the confidentiality of such information and to ensure the protection of the significant cave from destruction by vandalism and unauthorized use.
 
-(Pub. L. 100–691, § 5, Nov. 18, 1988, 102 Stat. 4548.)
+(Pub. L. 100–691, § 5, Nov. 18, 1988, 102 Stat. 4548.)
 
-## § 4305. Collection and removal from Federal caves
+## § 4305. Collection and removal from Federal caves
 
 **(a) Permit** The Secretary is authorized to issue permits for the collection and removal of cave resources under such terms and conditions as the Secretary may impose, including the posting of bonds to insure compliance with the provisions of any permit:
 
@@ -213,9 +213,9 @@ Permits issued under this chapter are not transferable.
 
 No action specifically authorized by a permit under this section shall be treated as a violation of section 4306 of this title.
 
-(Pub. L. 100–691, § 6, Nov. 18, 1988, 102 Stat. 4548.)
+(Pub. L. 100–691, § 6, Nov. 18, 1988, 102 Stat. 4548.)
 
-## § 4306. Prohibited acts and criminal penalties
+## § 4306. Prohibited acts and criminal penalties
 
 **(a) Prohibited acts**
 
@@ -223,9 +223,9 @@ No action specifically authorized by a permit under this section shall be treate
 
 **(2)** Any person who possesses, consumes, sells, barters or exchanges, or offers for sale, barter or exchange, any cave resource from a significant cave with knowledge or reason to know that such resource was removed from a significant cave located on Federal lands shall be punished in accordance with subsection (b).
 
-**(3)** Any person who counsels, procures, solicits, or employs any other person to violate any provisions of this subsection shall be punished in accordance with section 1
+**(3)** Any person who counsels, procures, solicits, or employs any other person to violate any provisions of this subsection shall be punished in accordance with section 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (b).
 
@@ -235,9 +235,9 @@ No action specifically authorized by a permit under this section shall be treate
 
 The punishment for violating any provision of subsection (a) shall be imprisonment of not more than one year or a fine in accordance with the applicable provisions of title 18, or both. In the case of a second or subsequent violation, the punishment shall be imprisonment of not more than 3 years or a fine in accordance with the applicable provisions of title 18, or both.
 
-(Pub. L. 100–691, § 7, Nov. 18, 1988, 102 Stat. 4549.)
+(Pub. L. 100–691, § 7, Nov. 18, 1988, 102 Stat. 4549.)
 
-## § 4307. Civil penalties
+## § 4307. Civil penalties
 
 **(a) Assessment**
 
@@ -261,9 +261,9 @@ the Secretary shall notify the Attorney General and the Attorney General shall b
 
 The Secretary may issue subpoenas in connection with proceedings under this subsection compelling the attendance and testimony of witnesses and subpoenas duces tecum, and may request the Attorney General to bring an action to enforce any subpoena under this section. The district courts shall have jurisdiction to enforce such subpoenas and impose sanctions.
 
-(Pub. L. 100–691, § 8, Nov. 18, 1988, 102 Stat. 4550.)
+(Pub. L. 100–691, § 8, Nov. 18, 1988, 102 Stat. 4550.)
 
-## § 4308. Miscellaneous provisions
+## § 4308. Miscellaneous provisions
 
 **(a) Authorization of appropriations**
 
@@ -281,9 +281,9 @@ Any money collected by the United States as permit fees for collection and remov
 
 Nothing in this chapter shall be deemed to affect the full operation of the mining and mineral leasing laws of the United States, or otherwise affect valid existing rights.
 
-(Pub. L. 100–691, § 9, Nov. 18, 1988, 102 Stat. 4550.)
+(Pub. L. 100–691, § 9, Nov. 18, 1988, 102 Stat. 4550.)
 
-## § 4309. Savings provision
+## § 4309. Savings provision
 
 **(a) Water** Nothing in this chapter shall be construed as authorizing the appropriation of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual. Nor shall any provision of this chapter—
 
@@ -297,9 +297,9 @@ Nothing in this chapter shall be deemed to affect the full operation of the mini
 
 Nothing in this chapter shall be construed as affecting the jurisdiction or responsibilities of the States with respect to fish and wildlife.
 
-(Pub. L. 100–691, § 10, Nov. 18, 1988, 102 Stat. 4551.)
+(Pub. L. 100–691, § 10, Nov. 18, 1988, 102 Stat. 4551.)
 
-## § 4310. Establishment of Cave Research Program
+## § 4310. Establishment of Cave Research Program
 
 **(a) Establishment**
 
@@ -311,13 +311,13 @@ The Program shall produce educational and interpretive information and materials
 
 **(c) Emphasis**
 
-The program 1
+The program 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 shall be directed primarily toward lands managed by the National Park Service, but the Secretary of the Interior may enter into cooperative agreements with other agencies or entities as may be appropriate to carry out the purposes of this section.
 
-(Pub. L. 101–578, title II, § 202, Nov. 15, 1990, 104 Stat. 2859.)
+(Pub. L. 101–578, title II, § 202, Nov. 15, 1990, 104 Stat. 2859.)
 
 **Editorial Notes**
 
@@ -333,7 +333,7 @@ Section was not enacted as part of the Federal Cave Resources Protection Act of 
 
 **National Cave and Karst Research Institute**
 
-Pub. L. 105–325, Oct. 30, 1998, 112 Stat. 3038, as amended by Pub. L. 111–11, title VII, § 7305, Mar. 30, 2009, 123 Stat. 1219, provided that:
+Pub. L. 105–325, Oct. 30, 1998, 112 Stat. 3038, as amended by Pub. L. 111–11, title VII, § 7305, Mar. 30, 2009, 123 Stat. 1219, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -389,7 +389,7 @@ Pub. L. 105–325, Oct. 30, 1998, 112 Stat. 3038, as amended by Pub. L. 111–11
 
 **Congressional Findings**
 
-Pub. L. 101–578, title II, § 201, Nov. 15, 1990, 104 Stat. 2859, provided that:
+Pub. L. 101–578, title II, § 201, Nov. 15, 1990, 104 Stat. 2859, provided that:
 
 > “The Congress makes the following findings:
 
@@ -407,8 +407,8 @@ Pub. L. 101–578, title II, § 201, Nov. 15, 1990, 104 Stat. 2859, provided t
 
 **Cave Research Institute Study**
 
-Pub. L. 101–578, title II, § 203, Nov. 15, 1990, 104 Stat. 2860, directed Secretary of the Interior, not later than one year after Nov. 15, 1990, to prepare and transmit to Congress a study on the feasibility of establishing a Cave Research Institute.
+Pub. L. 101–578, title II, § 203, Nov. 15, 1990, 104 Stat. 2860, directed Secretary of the Interior, not later than one year after Nov. 15, 1990, to prepare and transmit to Congress a study on the feasibility of establishing a Cave Research Institute.
 
 **Authorization of Appropriations**
 
-Pub. L. 101–578, title II, § 204, Nov. 15, 1990, 104 Stat. 2860, provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this title [enacting this section and provisions set out as notes above].”
+Pub. L. 101–578, title II, § 204, Nov. 15, 1990, 104 Stat. 2860, provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this title [enacting this section and provisions set out as notes above].”

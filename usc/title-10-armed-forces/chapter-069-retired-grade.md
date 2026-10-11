@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title V, § 508(a)(2), Jan. 1, 2021, 134 Stat. 3584, added items 1370 and 1370a and struck out former item 1370 “Commissioned officers: general rule; exceptions”.
+2021—Pub. L. 116–283, div. A, title V, § 508(a)(2), Jan. 1, 2021, 134 Stat. 3584, added items 1370 and 1370a and struck out former item 1370 “Commissioned officers: general rule; exceptions”.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1671(b)(11), Oct. 5, 1994, 108 Stat. 3013, struck out item 1374 “Reserve commissioned officers: grade on retirement or transfer to Retired Reserve” and substituted “Temporary disability retired lists” for “Retired lists” in item 1376.
+1994—Pub. L. 103–337, div. A, title XVI, § 1671(b)(11), Oct. 5, 1994, 108 Stat. 3013, struck out item 1374 “Reserve commissioned officers: grade on retirement or transfer to Retired Reserve” and substituted “Temporary disability retired lists” for “Retired lists” in item 1376.
 
-1980—Pub. L. 96–513, title V, § 501(20), Dec. 12, 1980, 94 Stat. 2908, added item 1370.
+1980—Pub. L. 96–513, title V, § 501(20), Dec. 12, 1980, 94 Stat. 2908, added item 1370.
 
-1958—Pub. L. 85–861, § 1(30), Sept. 2, 1958, 72 Stat. 1451, added item 1374.
+1958—Pub. L. 85–861, § 1(30), Sept. 2, 1958, 72 Stat. 1451, added item 1374.
 
-## § 1370. Regular commissioned officers
+## § 1370. Regular commissioned officers
 
 **(a) Retirement in Highest Grade in Which Served Satisfactorily.—**
 
@@ -69,9 +69,9 @@ retrieved: 2026-10-11
 
 **(B)** in the case of officers to be retired in the grade of lieutenant colonel or colonel in the Army, Air Force, Marine Corps, or Space Force or commander or captain in the Navy, the number equal to four percent of the authorized active-duty strength for that fiscal year for officers of that armed force in the applicable grade; or
 
-**(C)** in the case of officers to be retired in the grade of brigadier general or major general in the Army, Air Force, Marine Corps, or Space Force or rear admiral (lower half) or rear admiral in the Navy, the number equal to 10 percent 1
+**(C)** in the case of officers to be retired in the grade of brigadier general or major general in the Army, Air Force, Marine Corps, or Space Force or rear admiral (lower half) or rear admiral in the Navy, the number equal to 10 percent 1
 
-<sup>1</sup>  See Temporary Increase in Fiscal Year Percentage Limitation for Reduction or Waiver of Service-In-Grade Requirement for General and Flag Officers To Be Retired in Pay Grades O–7 and O–8 note below.
+<sup>1</sup> See Temporary Increase in Fiscal Year Percentage Limitation for Reduction or Waiver of Service-In-Grade Requirement for General and Flag Officers To Be Retired in Pay Grades O–7 and O–8 note below.
 
 of the authorized active-duty strength for that fiscal year for officers of that armed force in the applicable grade.
 
@@ -169,71 +169,71 @@ of the authorized active-duty strength for that fiscal year for officers of that
 
 **(g) Highest Permanent Grade Defined.—** In this section, the term “highest permanent grade” means a grade at or below the grade of major general in the Army, Air Force, Marine Corps, or Space Force, or rear admiral in the Navy.
 
-(Added Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3574; amended Pub. L. 118–31, div. A, title XVII, § 1741(a)(5), Dec. 22, 2023, 137 Stat. 679; Pub. L. 118–159, div. A, title V, § 521(f)(1), title XVII, § 1701(a)(20), Dec. 23, 2024, 138 Stat. 1881, 2204.)
+(Added Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3574; amended Pub. L. 118–31, div. A, title XVII, § 1741(a)(5), Dec. 22, 2023, 137 Stat. 679; Pub. L. 118–159, div. A, title V, § 521(f)(1), title XVII, § 1701(a)(20), Dec. 23, 2024, 138 Stat. 1881, 2204.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1370, Added Pub. L. 96–513, title I, § 112, Dec. 12, 1980, 94 Stat. 2876; amended Pub. L. 101–510, div. A, title V, § 522, Nov. 5, 1990, 104 Stat. 1561; Pub. L. 103–160, div. A, title V, § 561(d), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title XVI, §§ 1641, 1671(c)(7)(B), Oct. 5, 1994, 108 Stat. 2968, 3014; Pub. L. 104–106, div. A, title V, § 502(a), (b), (f), (g), Feb. 10, 1996, 110 Stat. 292, 293; Pub. L. 104–201, div. A, title V, § 544(a), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 105–261, div. A, title V, §§ 512(a), 513(a), 561(d), (*o*), Oct. 17, 1998, 112 Stat. 2007, 2025, 2026; Pub. L. 106–65, div. A, title X, § 1066(a)(9), (b)(3), Oct. 5, 1999, 113 Stat. 770, 772; Pub. L. 106–398, § 1 [[div. A], title V, § 571(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title V, §§ 502, 514, Dec. 28, 2001, 115 Stat. 1080, 1093; Pub. L. 107–314, div. A, title V, § 505, Dec. 2, 2002, 116 Stat. 2533; Pub. L. 108–136, div. A, title V, § 506, Nov. 24, 2003, 117 Stat. 1457; Pub. L. 109–163, div. A, title V, § 501, Jan. 6, 2006, 119 Stat. 3225; Pub. L. 112–239, div. A, title V, §§ 506, 507, Jan. 2, 2013, 126 Stat. 1716; Pub. L. 114–328, div. A, title V, § 508(d), Dec. 23, 2016, 130 Stat. 2109; Pub. L. 115–91, div. A, title V, § 504, Dec. 12, 2017, 131 Stat. 1374; Pub. L. 115–232, div. A, title V, § 509, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1749, 1840; (As amended Pub. L. 116–92, div. A, title V, § 509(a), (b), Dec. 20, 2019, 133 Stat. 1346, related to commissioned officers: general rule for retirement with exceptions, prior to repeal by Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3574.
+A prior section 1370, Added Pub. L. 96–513, title I, § 112, Dec. 12, 1980, 94 Stat. 2876; amended Pub. L. 101–510, div. A, title V, § 522, Nov. 5, 1990, 104 Stat. 1561; Pub. L. 103–160, div. A, title V, § 561(d), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title XVI, §§ 1641, 1671(c)(7)(B), Oct. 5, 1994, 108 Stat. 2968, 3014; Pub. L. 104–106, div. A, title V, § 502(a), (b), (f), (g), Feb. 10, 1996, 110 Stat. 292, 293; Pub. L. 104–201, div. A, title V, § 544(a), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 105–261, div. A, title V, §§ 512(a), 513(a), 561(d), (*o*), Oct. 17, 1998, 112 Stat. 2007, 2025, 2026; Pub. L. 106–65, div. A, title X, § 1066(a)(9), (b)(3), Oct. 5, 1999, 113 Stat. 770, 772; Pub. L. 106–398, § 1 [[div. A], title V, § 571(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title V, §§ 502, 514, Dec. 28, 2001, 115 Stat. 1080, 1093; Pub. L. 107–314, div. A, title V, § 505, Dec. 2, 2002, 116 Stat. 2533; Pub. L. 108–136, div. A, title V, § 506, Nov. 24, 2003, 117 Stat. 1457; Pub. L. 109–163, div. A, title V, § 501, Jan. 6, 2006, 119 Stat. 3225; Pub. L. 112–239, div. A, title V, §§ 506, 507, Jan. 2, 2013, 126 Stat. 1716; Pub. L. 114–328, div. A, title V, § 508(d), Dec. 23, 2016, 130 Stat. 2109; Pub. L. 115–91, div. A, title V, § 504, Dec. 12, 2017, 131 Stat. 1374; Pub. L. 115–232, div. A, title V, § 509, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1749, 1840; (As amended Pub. L. 116–92, div. A, title V, § 509(a), (b), Dec. 20, 2019, 133 Stat. 1346, related to commissioned officers: general rule for retirement with exceptions, prior to repeal by Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3574.
 
 **Amendments**
 
-2024—Subsec. (b)(1). Pub. L. 118–159, § 1701(a)(20)(A), substituted “or Space Force” for “or, Space Force” in introductory provisions.
+2024—Subsec. (b)(1). Pub. L. 118–159, § 1701(a)(20)(A), substituted “or Space Force” for “or, Space Force” in introductory provisions.
 
-Subsec. (f)(6)(A). Pub. L. 118–159, § 1701(a)(20)(B)(i), inserted a comma after “Air Force” in introductory provisions.
+Subsec. (f)(6)(A). Pub. L. 118–159, § 1701(a)(20)(B)(i), inserted a comma after “Air Force” in introductory provisions.
 
-Subsec. (f)(6)(B). Pub. L. 118–159, § 1701(a)(20)(B)(ii), inserted a comma after “Navy”.
+Subsec. (f)(6)(B). Pub. L. 118–159, § 1701(a)(20)(B)(ii), inserted a comma after “Navy”.
 
-Subsec. (g). Pub. L. 118–159, § 521(f)(1), substituted “Marine Corps, or Space Force, or rear admiral in the Navy” for “or Marine Corps, rear admiral in the Navy, or an equivalent grade in the Space Force”.
+Subsec. (g). Pub. L. 118–159, § 521(f)(1), substituted “Marine Corps, or Space Force, or rear admiral in the Navy” for “or Marine Corps, rear admiral in the Navy, or an equivalent grade in the Space Force”.
 
-2023—Subsec. (a)(2). Pub. L. 118–31, § 1741(a)(5)(A), substituted “major general or rear admiral.” for “major general, rear admiral in the Navy, or the equivalent grade in the Space Force.” in subpars. (A) and (B).
+2023—Subsec. (a)(2). Pub. L. 118–31, § 1741(a)(5)(A), substituted “major general or rear admiral.” for “major general, rear admiral in the Navy, or the equivalent grade in the Space Force.” in subpars. (A) and (B).
 
-Subsec. (b)(1). Pub. L. 118–31, § 1741(a)(5)(B)(i)(I), substituted “Marine Corps, or, Space Force or lieutenant in the Navy,” for “or Marine Corps, lieutenant in the Navy, or the equivalent grade in the Space Force,” in introductory provisions.
+Subsec. (b)(1). Pub. L. 118–31, § 1741(a)(5)(B)(i)(I), substituted “Marine Corps, or, Space Force or lieutenant in the Navy,” for “or Marine Corps, lieutenant in the Navy, or the equivalent grade in the Space Force,” in introductory provisions.
 
-Subsec. (b)(1)(B). Pub. L. 118–31, § 1741(a)(5)(B)(i)(II), substituted “major general or rear admiral” for “major general in the Army, Air Force, or Marine Corps, rear admiral in the Navy, or an equivalent grade in the Space Force”.
+Subsec. (b)(1)(B). Pub. L. 118–31, § 1741(a)(5)(B)(i)(II), substituted “major general or rear admiral” for “major general in the Army, Air Force, or Marine Corps, rear admiral in the Navy, or an equivalent grade in the Space Force”.
 
-Subsec. (b)(4). Pub. L. 118–31, § 1741(a)(5)(B)(ii), substituted “Marine Corps, or Space Force or captain in the Navy,” for “or Marine Corps, captain in the Navy, or the equivalent grade in the Space Force,”.
+Subsec. (b)(4). Pub. L. 118–31, § 1741(a)(5)(B)(ii), substituted “Marine Corps, or Space Force or captain in the Navy,” for “or Marine Corps, captain in the Navy, or the equivalent grade in the Space Force,”.
 
-Subsec. (b)(5)(A). Pub. L. 118–31, § 1741(a)(5)(B)(iii)(I), substituted “Marine Corps, or Space Force or lieutenant commander in the Navy,” for “or Marine Corps, lieutenant commander in the Navy, or the equivalent grade in the Space Force,”.
+Subsec. (b)(5)(A). Pub. L. 118–31, § 1741(a)(5)(B)(iii)(I), substituted “Marine Corps, or Space Force or lieutenant commander in the Navy,” for “or Marine Corps, lieutenant commander in the Navy, or the equivalent grade in the Space Force,”.
 
-Subsec. (b)(5)(B). Pub. L. 118–31, § 1741(a)(5)(B)(iii)(II), substituted “Marine Corps, or Space Force or commander or captain in the Navy,” for “or Marine Corps, commander or captain in the Navy, or an equivalent grade in the Space Force,”.
+Subsec. (b)(5)(B). Pub. L. 118–31, § 1741(a)(5)(B)(iii)(II), substituted “Marine Corps, or Space Force or commander or captain in the Navy,” for “or Marine Corps, commander or captain in the Navy, or an equivalent grade in the Space Force,”.
 
-Subsec. (b)(5)(C). Pub. L. 118–31, § 1741(a)(5)(B)(iii)(III), substituted “Marine Corps, or Space Force or rear admiral (lower half) or rear admiral in the Navy,” for “or Marine Corps, rear admiral (lower half) or rear admiral in the Navy, or an equivalent grade in the Space Force,”.
+Subsec. (b)(5)(C). Pub. L. 118–31, § 1741(a)(5)(B)(iii)(III), substituted “Marine Corps, or Space Force or rear admiral (lower half) or rear admiral in the Navy,” for “or Marine Corps, rear admiral (lower half) or rear admiral in the Navy, or an equivalent grade in the Space Force,”.
 
-Subsec. (b)(6). Pub. L. 118–31, § 1741(a)(5)(B)(iv), struck out “, or an equivalent grade in the Space Force,” after “general or flag officer grade”.
+Subsec. (b)(6). Pub. L. 118–31, § 1741(a)(5)(B)(iv), struck out “, or an equivalent grade in the Space Force,” after “general or flag officer grade”.
 
-Subsec. (c)(1). Pub. L. 118–31, § 1741(a)(5)(C), which directed amendment of par. (1) “by ‘or Marine Corps’ and all that follows through ‘Space Force’ and inserting ‘Marine Corps, or Space Force or vice admiral or admiral in the Navy”’, was executed by striking “or Marine Corps, vice admiral or admiral in the Navy, or an equivalent grade in the Space Force” and inserting “Marine Corps, or Space Force or vice admiral or admiral in the Navy” to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 118–31, § 1741(a)(5)(C), which directed amendment of par. (1) “by ‘or Marine Corps’ and all that follows through ‘Space Force’ and inserting ‘Marine Corps, or Space Force or vice admiral or admiral in the Navy”’, was executed by striking “or Marine Corps, vice admiral or admiral in the Navy, or an equivalent grade in the Space Force” and inserting “Marine Corps, or Space Force or vice admiral or admiral in the Navy” to reflect the probable intent of Congress.
 
-Subsec. (d)(1). Pub. L. 118–31, § 1741(a)(5)(D)(i), substituted “Marine Corps, or Space Force or rear admiral in the Navy” for “or Marine Corps, rear admiral in the Navy, or an equivalent grade in the Space Force”.
+Subsec. (d)(1). Pub. L. 118–31, § 1741(a)(5)(D)(i), substituted “Marine Corps, or Space Force or rear admiral in the Navy” for “or Marine Corps, rear admiral in the Navy, or an equivalent grade in the Space Force”.
 
-Subsec. (d)(3). Pub. L. 118–31, § 1741(a)(5)(D)(ii), substituted “Marine Corps, or Space Force or captain in the Navy,” for “or Marine Corps, captain in the Navy, or the equivalent grade in the Space Force,”.
+Subsec. (d)(3). Pub. L. 118–31, § 1741(a)(5)(D)(ii), substituted “Marine Corps, or Space Force or captain in the Navy,” for “or Marine Corps, captain in the Navy, or the equivalent grade in the Space Force,”.
 
-Subsec. (e)(2). Pub. L. 118–31, § 1741(a)(5)(E), substituted “Marine Corps, or Space Force or vice admiral or admiral in the Navy,” for “or Marine Corps, vice admiral or admiral in the Navy, or an equivalent grade in the Space Force,”.
+Subsec. (e)(2). Pub. L. 118–31, § 1741(a)(5)(E), substituted “Marine Corps, or Space Force or vice admiral or admiral in the Navy,” for “or Marine Corps, vice admiral or admiral in the Navy, or an equivalent grade in the Space Force,”.
 
-Subsec. (f)(3)(A). Pub. L. 118–31, § 1741(a)(5)(F)(i)(I), which directed amendment of subpar. (A) by striking “or Marine Corps” and all that followed through “Space Force,” and inserting “Marine Corps, or Space Force or rear admiral in the Navy”, was executed by making the substitution for “or Marine Corps, rear admiral in the Navy, or the equivalent grade in the Space Force” to reflect the probable intent of Congress, as there was no comma following “Space Force”.
+Subsec. (f)(3)(A). Pub. L. 118–31, § 1741(a)(5)(F)(i)(I), which directed amendment of subpar. (A) by striking “or Marine Corps” and all that followed through “Space Force,” and inserting “Marine Corps, or Space Force or rear admiral in the Navy”, was executed by making the substitution for “or Marine Corps, rear admiral in the Navy, or the equivalent grade in the Space Force” to reflect the probable intent of Congress, as there was no comma following “Space Force”.
 
-Subsec. (f)(3)(B). Pub. L. 118–31, § 1741(a)(5)(F)(i)(II), which directed amendment of subpar. (B) by striking “ ‘or Marine Corps’ and all that follows through ‘Space Force’ and inserting ”Marine Corps, or Space Force or vice admiral or admiral in the Navy”, was executed by striking “or Marine Corps, vice admiral or admiral in the Navy, or an equivalent grade in the Space Force” and inserting “Marine Corps, or Space Force or vice admiral or admiral in the Navy” to reflect the probable intent of Congress.
+Subsec. (f)(3)(B). Pub. L. 118–31, § 1741(a)(5)(F)(i)(II), which directed amendment of subpar. (B) by striking “ ‘or Marine Corps’ and all that follows through ‘Space Force’ and inserting ”Marine Corps, or Space Force or vice admiral or admiral in the Navy”, was executed by striking “or Marine Corps, vice admiral or admiral in the Navy, or an equivalent grade in the Space Force” and inserting “Marine Corps, or Space Force or vice admiral or admiral in the Navy” to reflect the probable intent of Congress.
 
-Subsec. (f)(6)(A). Pub. L. 118–31, § 1741(a)(5)(F)(ii)(I), substituted “Marine Corps, or Space Force or rear admiral in the Navy” for “or Marine Corps, rear admiral in the Navy, or the equivalent grade in the Space Force,” in introductory provisions.
+Subsec. (f)(6)(A). Pub. L. 118–31, § 1741(a)(5)(F)(ii)(I), substituted “Marine Corps, or Space Force or rear admiral in the Navy” for “or Marine Corps, rear admiral in the Navy, or the equivalent grade in the Space Force,” in introductory provisions.
 
-Subsec. (f)(6)(B). Pub. L. 118–31, § 1741(a)(5)(F)(ii)(II), substituted “Marine Corps, or Space Force or vice admiral or admiral in the Navy” for “or Marine Corps, vice admiral or admiral in the Navy, or an equivalent grade in the Space Force,”.
+Subsec. (f)(6)(B). Pub. L. 118–31, § 1741(a)(5)(F)(ii)(II), substituted “Marine Corps, or Space Force or vice admiral or admiral in the Navy” for “or Marine Corps, vice admiral or admiral in the Navy, or an equivalent grade in the Space Force,”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Temporary Increase in Fiscal Year Percentage Limitation for Reduction or Waiver of Service-In-Grade Requirement for General and Flag Officers To Be Retired in Pay Grades O–7 and O–8**
 
-Pub. L. 119–60, div. A, title V, § 505, Dec. 18, 2025, 139 Stat. 858, provided that: “During the period beginning on the date of the enactment of this Act [Dec. 18, 2025] and ending on September 30, 2027, subparagraph (C) of section 1370(b)(5) of title 10, United States Code, shall be applied by substituting ‘15 percent’ for ‘10 percent’.”
+Pub. L. 119–60, div. A, title V, § 505, Dec. 18, 2025, 139 Stat. 858, provided that: “During the period beginning on the date of the enactment of this Act [Dec. 18, 2025] and ending on September 30, 2027, subparagraph (C) of section 1370(b)(5) of title 10, United States Code, shall be applied by substituting ‘15 percent’ for ‘10 percent’.”
 
 **Other References**
 
-Pub. L. 116–283, div. A, title V, § 508(c), Jan. 1, 2021, 134 Stat. 3585, provided that: “In the determination of the retired grade of a commissioned officer of the Armed Forces entitled to retired pay under chapter 1223 of title 10, United States Code, who retires after the date of the enactment of this Act [Jan. 1, 2021], any reference in a provision of law or regulation to section 1370 of title 10, United States Code, in such determination with respect to such officer shall be deemed to be a reference to section 1370a of title 10, United States Code (as amended by subsection (a)).”
+Pub. L. 116–283, div. A, title V, § 508(c), Jan. 1, 2021, 134 Stat. 3585, provided that: “In the determination of the retired grade of a commissioned officer of the Armed Forces entitled to retired pay under chapter 1223 of title 10, United States Code, who retires after the date of the enactment of this Act [Jan. 1, 2021], any reference in a provision of law or regulation to section 1370 of title 10, United States Code, in such determination with respect to such officer shall be deemed to be a reference to section 1370a of title 10, United States Code (as amended by subsection (a)).”
 
 **Transition Provisions Under Defense Officer Personnel Management Act**
 
 For provisions relating to the time-in-grade requirement for voluntary retirement of officers not subsequently promoted, see section 629 of Pub. L. 96–513, set out as a note under section 611 of this title.
 
-## § 1370a. Officers entitled to retired pay for non-regular service
+## § 1370a. Officers entitled to retired pay for non-regular service
 
 **(a) Retirement in Highest Grade Held Satisfactorily.—** Unless entitled to a different grade, or to credit for satisfactory service in a different grade under some other provision of law, a person who is entitled to retired pay under chapter 1223 of this title shall, upon application under section 12731 of this title, be credited with satisfactory service in the highest permanent grade in which that person served satisfactorily at any time in the armed forces, as determined by the Secretary of the military department concerned in accordance with this section.
 
@@ -297,34 +297,34 @@ For provisions relating to the time-in-grade requirement for voluntary retiremen
 
 **(h) Highest Permanent Grade Defined.—** In this section, the term “highest permanent grade” means a grade at or below the grade of major general in the Army, Air Force, Marine Corps, or Space Force, or rear admiral in the Navy.
 
-(Added Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3580; amended Pub. L. 118–31, div. A, title XVIII, § 1801(a)(16), Dec. 22, 2023, 137 Stat. 684; Pub. L. 118–159, div. A, title V, § 521(f)(2), Dec. 23, 2024, 138 Stat. 1881.)
+(Added Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3580; amended Pub. L. 118–31, div. A, title XVIII, § 1801(a)(16), Dec. 22, 2023, 137 Stat. 684; Pub. L. 118–159, div. A, title V, § 521(f)(2), Dec. 23, 2024, 138 Stat. 1881.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (d)(1). Pub. L. 118–159, § 521(f)(2)(A), substituted “Marine Corps, or Space Force” for “or Marine Corps” in two places.
+2024—Subsec. (d)(1). Pub. L. 118–159, § 521(f)(2)(A), substituted “Marine Corps, or Space Force” for “or Marine Corps” in two places.
 
-Subsec. (h). Pub. L. 118–159, § 521(f)(2)(B), substituted “Marine Corps, or Space Force,” for “or Marine Corps”.
+Subsec. (h). Pub. L. 118–159, § 521(f)(2)(B), substituted “Marine Corps, or Space Force,” for “or Marine Corps”.
 
-2023—Subsec. (e). Pub. L. 118–31, § 1801(a)(16)(A), inserted “to” before “ ‘active duty’ ”.
+2023—Subsec. (e). Pub. L. 118–31, § 1801(a)(16)(A), inserted “to” before “ ‘active duty’ ”.
 
-Subsec. (f). Pub. L. 118–31, § 1801(a)(16)(B), substituted “1370(e)” for “1370e(e)” and “reference to ‘chapter 71 of this title’ ” for “reference to ‘chapter 71’ of this title”.
+Subsec. (f). Pub. L. 118–31, § 1801(a)(16)(B), substituted “1370(e)” for “1370e(e)” and “reference to ‘chapter 71 of this title’ ” for “reference to ‘chapter 71’ of this title”.
 
-## § 1371. Warrant officers: general rule
+## § 1371. Warrant officers: general rule
 
 Unless entitled to a higher retired grade under some other provision of law, a warrant officer shall be retired in the highest regular or reserve warrant officer grade in which the warrant officer served satisfactorily, as determined by the Secretary concerned.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 104; Pub. L. 114–92, div. A, title V, § 505, Nov. 25, 2015, 129 Stat. 808.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 104; Pub. L. 114–92, div. A, title V, § 505, Nov. 25, 2015, 129 Stat. 808.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1371 | 10:600*l*(d) (1st sentence). 10:600*l*(f) (1st sentence, as applicable to retired grade). 34:430(d) (1st sentence). | May 29, 1954, ch. 249, § 14(d) (1st sentence), (f) (1st sentence, as applicable to retired grade), 68 Stat. 163, 164. |
+| 1371 | 10:600*l*(d) (1st sentence). 10:600*l*(f) (1st sentence, as applicable to retired grade). 34:430(d) (1st sentence). | May 29, 1954, ch. 249, § 14(d) (1st sentence), (f) (1st sentence, as applicable to retired grade), 68 Stat. 163, 164. |
 |  | 34:430(f) (1st sentence, as applicable to retired grade). |  |
 
-The first 13 words are substituted for 10:600*l*(f) (1st sentence, as applicable to retired grade) and 34:430 (1st sentence, as applicable to retired grade). The words “for a period of more than 30 days” are substituted for the words “under \* \* \* orders specifying that the period of such duty shall be for a period in excess of thirty days or for an indefinite period”, to conform to the definition of those words in section 101(23) of this title. The words “any full time duty” are omitted, since the duty specified would necessarily be full time duty. The words “under this section” and “competent” are omitted as surplusage.
+The first 13 words are substituted for 10:600*l*(f) (1st sentence, as applicable to retired grade) and 34:430 (1st sentence, as applicable to retired grade). The words “for a period of more than 30 days” are substituted for the words “under \* \* \* orders specifying that the period of such duty shall be for a period in excess of thirty days or for an indefinite period”, to conform to the definition of those words in section 101(23) of this title. The words “any full time duty” are omitted, since the duty specified would necessarily be full time duty. The words “under this section” and “competent” are omitted as surplusage.
 
 **Editorial Notes**
 
@@ -342,7 +342,7 @@ Authority vested by this chapter in “military departments”, “the Secretary
 
 Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary’s designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 
-## § 1372. Grade on retirement for physical disability: members of armed forces
+## § 1372. Grade on retirement for physical disability: members of armed forces
 
 Unless entitled to a higher retired grade under some other provision of law, any member of an armed force who is retired for physical disability under section 1201 or 1204 of this title, or whose name is placed on the temporary disability retired list under section 1202 or 1205 of this title, is entitled to the grade equivalent to the highest of the following:
 
@@ -354,13 +354,13 @@ Unless entitled to a higher retired grade under some other provision of law, any
 
 **(4)** The temporary grade to which he would have been promoted had it not been for the physical disability for which he is retired, if eligibility for that promotion was required to be based on cumulative years of service or years of service in grade and the disability was discovered as a result of a physical examination.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 105; Pub. L. 104–201, div. A, title V, § 577, Sept. 23, 1996, 110 Stat. 2536.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 105; Pub. L. 104–201, div. A, title V, § 577, Sept. 23, 1996, 110 Stat. 2536.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1372 | 37:272(d) (104th through 128th words, as applicable to retired grade; and 2d and 5th provisos). 37:279 (less applicability to 37:272(d) (last proviso)). | Oct. 12, 1949, ch. 681, §§ 402(d) (104th through 128th words, as applicable to retired grade; and 2d and 5th provisos), 409 (less applicability to § 402(d) (last proviso)), 63 Stat. 818, 823. |
+| 1372 | 37:272(d) (104th through 128th words, as applicable to retired grade; and 2d and 5th provisos). 37:279 (less applicability to 37:272(d) (last proviso)). | Oct. 12, 1949, ch. 681, §§ 402(d) (104th through 128th words, as applicable to retired grade; and 2d and 5th provisos), 409 (less applicability to § 402(d) (last proviso)), 63 Stat. 818, 823. |
 
 Clause (1) is substituted for 37:272(d) (104th through 128th words, as applicable to retired grade). The words “if his name was not carried on that list” are substituted for the words “whichever is earlier”.
 
@@ -370,17 +370,17 @@ Clause (1) is substituted for 37:272(d) (104th through 128th words, as applicabl
 
 1996—Pars. (3), (4). Pub. L. 104–201 substituted “a physical examination” for “his physical examination for promotion”.
 
-## § 1373. Higher grade for later physical disability: retired officers recalled to active duty
+## § 1373. Higher grade for later physical disability: retired officers recalled to active duty
 
 Unless entitled to a higher retired grade under some other provision of law, a member of an armed force whose retired pay is computed under section 1402(d) or 1402a(d) of this title is entitled, upon his release from active duty, to the grade equivalent to the grade or rank upon which his retired pay is based under that section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 105; Pub. L. 96–342, title VIII, § 813(b)(3)(C), Sept. 8, 1980, 94 Stat. 1104.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 105; Pub. L. 96–342, title VIII, § 813(b)(3)(C), Sept. 8, 1980, 94 Stat. 1104.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1373 | 37:272(d) (last proviso, as applicable to retired grade). 37:279 (as applicable to 37:272(d) (last proviso)). | Oct. 12, 1949, ch. 681, §§ 402(d) (last proviso, as applicable to retired grade), 409 (as applicable to § 402(d) (last proviso)), 63 Stat. 819, 823. |
+| 1373 | 37:272(d) (last proviso, as applicable to retired grade). 37:279 (as applicable to 37:272(d) (last proviso)). | Oct. 12, 1949, ch. 681, §§ 402(d) (last proviso, as applicable to retired grade), 409 (as applicable to § 402(d) (last proviso)), 63 Stat. 819, 823. |
 
 The applicability of the rule stated in 37:279 to all members whose retired pay is computed under 37:272(d) (last proviso) is based on an opinion of the Judge Advocate General of the Army (JAGA 1953/3305, 24 Apr. 1953).
 
@@ -390,9 +390,9 @@ The applicability of the rule stated in 37:279 to all members whose retired pay 
 
 1980—Pub. L. 96–342 inserted reference to section 1402a(d) of this title.
 
-## [§ 1374. Repealed. Pub. L. 103–337, div. A, title XVI, § 1662(k)(2), Oct. 5, 1994, 108 Stat. 3006]
+## [§ 1374. Repealed. Pub. L. 103–337, div. A, title XVI, § 1662(k)(2), Oct. 5, 1994, 108 Stat. 3006]
 
-Section, added Pub. L. 85–861, § 1(29), Sept. 2, 1958, 72 Stat. 1451; amended Pub. L. 86–559, § 1(4), June 30, 1960, 74 Stat. 265; Pub. L. 99–661, div. A, title V, § 508(d)(2), Nov. 14, 1986, 100 Stat. 3867, related to reserve commissioned officers’ grade on retirement or transfer to Retired Reserve. See sections 12771 to 12773 of this title.
+Section, added Pub. L. 85–861, § 1(29), Sept. 2, 1958, 72 Stat. 1451; amended Pub. L. 86–559, § 1(4), June 30, 1960, 74 Stat. 265; Pub. L. 99–661, div. A, title V, § 508(d)(2), Nov. 14, 1986, 100 Stat. 3867, related to reserve commissioned officers’ grade on retirement or transfer to Retired Reserve. See sections 12771 to 12773 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -400,11 +400,11 @@ Section, added Pub. L. 85–861, § 1(29), Sept. 2, 1958, 72 Stat. 1451; amend
 
 Repeal effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-## § 1375. Entitlement to commission: commissioned officers advanced on retired list
+## § 1375. Entitlement to commission: commissioned officers advanced on retired list
 
 A commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is advanced on a retired list is entitled to a commission in the grade to which he is advanced.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 105; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(W), Jan. 1, 2021, 134 Stat. 3821.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 105; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(W), Jan. 1, 2021, 134 Stat. 3821.)
 
 **Historical and Revision Notes**
 
@@ -420,11 +420,11 @@ The words “has been or shall hereafter”, “by operation of or in accordance
 
 2021—Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
-## § 1376. Temporary disability retired lists
+## § 1376. Temporary disability retired lists
 
 The Secretary concerned shall maintain a temporary disability retired list containing the names of members of the armed forces under his jurisdiction placed thereon under sections 1202 and 1205 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 105; Pub. L. 85–861, § 1(31), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 103–337, div. A, title XVI, § 1662(k)(3), Oct. 5, 1994, 108 Stat. 3006.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 105; Pub. L. 85–861, § 1(31), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 103–337, div. A, title XVI, § 1662(k)(3), Oct. 5, 1994, 108 Stat. 3006.)
 
 **Historical and Revision Notes**
 
@@ -432,7 +432,7 @@ The Secretary concerned shall maintain a temporary disability retired list conta
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1376(a)       1376(b) | 50:927(a) (less 1st 11 words). 50:927(b) (less last 7 words of 1st sentence). 37:271 (less (a)). | Oct. 12, 1949, ch. 681, § 401 (less (a)), 63 Stat. 816. July 9, 1952, ch. 608, § 207(a) (less 1st 11 words), (b) (less last 7 words of 1st sentence), 66 Stat. 483. |
+| 1376(a) 1376(b) | 50:927(a) (less 1st 11 words). 50:927(b) (less last 7 words of 1st sentence). 37:271 (less (a)). | Oct. 12, 1949, ch. 681, § 401 (less (a)), 63 Stat. 816. July 9, 1952, ch. 608, § 207(a) (less 1st 11 words), (b) (less last 7 words of 1st sentence), 66 Stat. 483. |
 
 In subsection (a), the word “maintained” is substituted for the word “established”, and in subsection (b), the word “maintain” is substituted for the word “established”, since the lists have been established and are published annually.
 
@@ -444,7 +444,7 @@ In subsection (b), the words “containing the names placed thereon under sectio
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1376 | [Uncodified]. | July 24, 1956, ch. 677, § 2 (less clauses (a)–(i), as applicable to 10:1376), 70 Stat. 623. |
+| 1376 | [Uncodified]. | July 24, 1956, ch. 677, § 2 (less clauses (a)–(i), as applicable to 10:1376), 70 Stat. 623. |
 
 **Editorial Notes**
 

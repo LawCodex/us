@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 96—NORTH PACIFIC FISHERIES CONVENTION
 
-## § 7701. Definitions
+## § 7701. Definitions
 
 In this chapter:
 
@@ -115,15 +115,15 @@ The term “transshipment” means the unloading of any fisheries resources take
 
 The term “1982 Convention” means the United Nations Convention on the Law of the Sea of 10 December 1982.
 
-(Pub. L. 114–327, title I, § 101, Dec. 16, 2016, 130 Stat. 1974.)
+(Pub. L. 114–327, title I, § 101, Dec. 16, 2016, 130 Stat. 1974.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 114–327, § 1, Dec. 16, 2016, 130 Stat. 1974, provided that: “This Act [enacting this chapter, chapter 97, and section 6909a of this title, amending sections 1826g, 1826h, 1826j, 1826k, 5003, 5004, 5601 to 5604, 5606, 5607, 5609, 5610, 6902, and 6910 of this title, section 1541 of Title 15, Commerce and Trade, and section 3103 of Title 33, Navigation and Navigable Waters, repealing section 5612 of this title, enacting provisions set out as a note under section 5601 of this title, and amending provisions set out as a note under section 1823 of this title] may be cited as the ‘Ensuring Access to Pacific Fisheries Act’.”
+Pub. L. 114–327, § 1, Dec. 16, 2016, 130 Stat. 1974, provided that: “This Act [enacting this chapter, chapter 97, and section 6909a of this title, amending sections 1826g, 1826h, 1826j, 1826k, 5003, 5004, 5601 to 5604, 5606, 5607, 5609, 5610, 6902, and 6910 of this title, section 1541 of Title 15, Commerce and Trade, and section 3103 of Title 33, Navigation and Navigable Waters, repealing section 5612 of this title, enacting provisions set out as a note under section 5601 of this title, and amending provisions set out as a note under section 1823 of this title] may be cited as the ‘Ensuring Access to Pacific Fisheries Act’.”
 
-## § 7702. United States participation in the North Pacific Fisheries Convention
+## § 7702. United States participation in the North Pacific Fisheries Convention
 
 **(a) United States Commissioners**
 
@@ -229,7 +229,7 @@ A majority of the members of the Advisory Committee shall constitute a quorum to
 
 Meetings of the Advisory Committee, except when in executive session, shall be open to the public. Prior notice of each non-executive meeting shall be made public in a timely fashion. The Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(v) Cost savings**
 
@@ -261,17 +261,17 @@ The Secretary of State may pay the necessary travel expenses of members of the A
 
 The Secretary may reimburse the Secretary of State for amounts expended by the Secretary of State under this subparagraph.
 
-(Pub. L. 114–327, title I, § 102, Dec. 16, 2016, 130 Stat. 1976.)
+(Pub. L. 114–327, title I, § 102, Dec. 16, 2016, 130 Stat. 1976.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(1)(C)(i), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(1)(C)(i), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C)(iv), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C)(iv), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
-## § 7703. Authority and responsibility of the Secretary of State
+## § 7703. Authority and responsibility of the Secretary of State
 
 The Secretary of State may—
 
@@ -283,9 +283,9 @@ The Secretary of State may—
 
 **(4)** request and utilize on a reimbursed or non-reimbursed basis the assistance, services, personnel, equipment, and facilities of other Federal departments and agencies, foreign governments or agencies, or international intergovernmental organizations, in the conduct of scientific research and other programs under this chapter.
 
-(Pub. L. 114–327, title I, § 103, Dec. 16, 2016, 130 Stat. 1979.)
+(Pub. L. 114–327, title I, § 103, Dec. 16, 2016, 130 Stat. 1979.)
 
-## § 7704. Authority of the Secretary of Commerce
+## § 7704. Authority of the Secretary of Commerce
 
 **(a) Promulgation of regulations**
 
@@ -335,25 +335,25 @@ A response of the Secretary under paragraph (2) shall include a copy of the admi
 
 Upon a motion by the person who files a petition under this subsection, the appropriate court shall assign the matter for hearing at the earliest possible date.
 
-(Pub. L. 114–327, title I, § 104, Dec. 16, 2016, 130 Stat. 1979.)
+(Pub. L. 114–327, title I, § 104, Dec. 16, 2016, 130 Stat. 1979.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Tuna Conventions Act of 1950, referred to in subsec. (d), is act Sept. 7, 1950, ch. 907, 64 Stat. 777, which is classified generally to chapter 16 (§ 951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
+The Tuna Conventions Act of 1950, referred to in subsec. (d), is act Sept. 7, 1950, ch. 907, 64 Stat. 777, which is classified generally to chapter 16 (§ 951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 
-The South Pacific Tuna Act of 1988, referred to in subsec. (d), is Pub. L. 100–330, June 7, 1988, 102 Stat. 591, which is classified generally to chapter 16C (§ 973 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 973 of this title and Tables.
+The South Pacific Tuna Act of 1988, referred to in subsec. (d), is Pub. L. 100–330, June 7, 1988, 102 Stat. 591, which is classified generally to chapter 16C (§ 973 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 973 of this title and Tables.
 
-The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (d), is title V of Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (d), is title V of Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 The National Oceanic and Atmospheric Administration Authorization Act of 1992, referred to in subsec. (d), is Pub. L. 102–567, Oct. 29, 1992, 106 Stat. 4270. For complete classification of this Act to the Code, see Tables.
 
 The amendments made by Public Law 100–629, referred to in subsec. (d), are the amendments made by Pub. L. 100–629, Nov. 7, 1988, 102 Stat. 3286, which amended section 1857 of this title and provisions set out as a note under section 883a of Title 33, Navigation and Navigable Waters.
 
-## § 7705. Enforcement
+## § 7705. Enforcement
 
 **(a) In general** The Secretary and the Secretary of the department in which the Coast Guard is operating—
 
@@ -415,15 +415,15 @@ The Secretary may release or make public information submitted under this chapte
 
 Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary of any information submitted under this chapter.
 
-(Pub. L. 114–327, title I, § 105, Dec. 16, 2016, 130 Stat. 1980.)
+(Pub. L. 114–327, title I, § 105, Dec. 16, 2016, 130 Stat. 1980.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-## § 7706. Prohibited acts
+## § 7706. Prohibited acts
 
 It is unlawful for any person—
 
@@ -457,9 +457,9 @@ It is unlawful for any person—
 
 **(15)** to refuse to authorize and accept boarding by a duly authorized inspector pursuant to procedures adopted by the Commission for the boarding and inspection of fishing vessels in the Convention Area.
 
-(Pub. L. 114–327, title I, § 106, Dec. 16, 2016, 130 Stat. 1982.)
+(Pub. L. 114–327, title I, § 106, Dec. 16, 2016, 130 Stat. 1982.)
 
-## § 7707. Cooperation in carrying out Convention
+## § 7707. Cooperation in carrying out Convention
 
 **(a) Federal and State agencies; private institutions and organizations**
 
@@ -479,22 +479,22 @@ Each Federal agency may, upon the request of the Secretary, cooperate in the con
 
 Nothing in this chapter shall be construed to diminish or to increase the jurisdiction of any State in the territorial sea of the United States.
 
-(Pub. L. 114–327, title I, § 107, Dec. 16, 2016, 130 Stat. 1983.)
+(Pub. L. 114–327, title I, § 107, Dec. 16, 2016, 130 Stat. 1983.)
 
-## § 7708. Territorial participation
+## § 7708. Territorial participation
 
 The Secretary of State shall ensure participation in the Commission and its subsidiary bodies by the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam to the extent allowed under United States law.
 
-(Pub. L. 114–327, title I, § 108, Dec. 16, 2016, 130 Stat. 1984.)
+(Pub. L. 114–327, title I, § 108, Dec. 16, 2016, 130 Stat. 1984.)
 
-## § 7709. Exclusive economic zone notification
+## § 7709. Exclusive economic zone notification
 
 Masters of commercial fishing vessels of countries fishing under the management authority of the North Pacific Fisheries Convention that do not carry vessel monitoring systems capable of communicating with United States enforcement authorities shall, prior to or as soon as reasonably possible after, entering and transiting the exclusive economic zone bounded by the Convention Area, ensure that all fishing gear on board the vessel is stowed below deck or otherwise removed from the place it is normally used for fishing activities and placed where it is not readily available for fishing activities.
 
-(Pub. L. 114–327, title I, § 109, Dec. 16, 2016, 130 Stat. 1984.)
+(Pub. L. 114–327, title I, § 109, Dec. 16, 2016, 130 Stat. 1984.)
 
-## § 7710. Authorization of appropriations
+## § 7710. Authorization of appropriations
 
 There is authorized to be appropriated out of funds made available to the Secretary and the Secretary of State $300,000 for each of fiscal years 2017 through 2021 to carry out this chapter and to pay the United States contribution to the Commission under Article 12 of the North Pacific Fisheries Convention.
 
-(Pub. L. 114–327, title I, § 110, Dec. 16, 2016, 130 Stat. 1984.)
+(Pub. L. 114–327, title I, § 110, Dec. 16, 2016, 130 Stat. 1984.)

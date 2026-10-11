@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERALLY
 
-### § 701. Game and wild birds; preservation
+### § 701. Game and wild birds; preservation
 
 The duties and powers of the Department of the Interior include the preservation, distribution, introduction, and restoration of game birds and other wild birds. The Secretary of the Interior is authorized to adopt such measures as may be necessary to carry out the purposes of this Act, and to purchase such game birds and other wild birds as may be required therefor, subject, however, to the laws of the various States and Territories. The object and purpose of this Act is to aid in the restoration of such birds in those parts of the United States adapted thereto where the same have become scarce or extinct, and also to regulate the introduction of American or foreign birds or animals in localities where they have not heretofore existed.
 
@@ -25,13 +25,13 @@ The Secretary of the Interior shall from time to time collect and publish useful
 
 And the Secretary of the Interior shall make and publish all needful rules and regulations for carrying out the purposes of this Act, and shall expend for said purposes such sums as Congress may appropriate therefor.
 
-(May 25, 1900, ch. 553, § 1, 31 Stat. 187; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
+(May 25, 1900, ch. 553, § 1, 31 Stat. 187; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is act May 25, 1900, section 1 of which is classified to this section. Sections 2 to 4 of the Act were repealed and restated by sections 241 to 244 of the Criminal Code of 1909 (approved Mar. 4, 1909, ch. 321) which were classified to sections 391 to 394 of former Title 18. Such sections were subsequently repealed and reenacted as sections 42 to 44 of Title 18, Crimes and Criminal Procedure. Section 5 of the Act which was classified to section 667e of this title was repealed by Pub. L. 97–79, § 9(b)(2), Nov. 16, 1981, 95 Stat. 1079.
+This Act, referred to in text, is act May 25, 1900, section 1 of which is classified to this section. Sections 2 to 4 of the Act were repealed and restated by sections 241 to 244 of the Criminal Code of 1909 (approved Mar. 4, 1909, ch. 321) which were classified to sections 391 to 394 of former Title 18. Such sections were subsequently repealed and reenacted as sections 42 to 44 of Title 18, Crimes and Criminal Procedure. Section 5 of the Act which was classified to section 667e of this title was repealed by Pub. L. 97–79, § 9(b)(2), Nov. 16, 1981, 95 Stat. 1079.
 
 **Executive Documents**
 
@@ -123,11 +123,11 @@ Sec. 5. *Application and Judicial Review*. (a) This order and the MOU to be deve
 
 William J. Clinton.
 
-### § 702. Importation of eggs of game birds for propagation
+### § 702. Importation of eggs of game birds for propagation
 
 The Secretary of the Interior shall have the power to authorize the importation of eggs of game birds for purposes of propagation, and he shall prescribe all necessary rules and regulations governing the importation of eggs of said birds for such purposes.
 
-(June 3, 1902, ch. 983, 32 Stat. 285; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
+(June 3, 1902, ch. 983, 32 Stat. 285; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
 **Executive Documents**
 
@@ -137,7 +137,7 @@ Transfer of functions of Secretary of Agriculture to Secretary of the Interior b
 
 ## SUBCHAPTER II—MIGRATORY BIRD TREATY
 
-### § 703. Taking, killing, or possessing migratory birds unlawful
+### § 703. Taking, killing, or possessing migratory birds unlawful
 
 **(a) In general**
 
@@ -163,7 +163,7 @@ Subject to subparagraph (B), in this subsection the term “native to the United
 
 **(iii)** after such extirpation, it was reintroduced in the United States or its territories as a part of a program carried out by a Federal agency.
 
-(July 3, 1918, ch. 128, § 2, 40 Stat. 755; June 20, 1936, ch. 634, § 3, 49 Stat. 1556; Pub. L. 93–300, § 1, June 1, 1974, 88 Stat. 190; Pub. L. 101–233, § 15, Dec. 13, 1989, 103 Stat. 1977; Pub. L. 108–447, div. E, title I, § 143(b), Dec. 8, 2004, 118 Stat. 3071.)
+(July 3, 1918, ch. 128, § 2, 40 Stat. 755; June 20, 1936, ch. 634, § 3, 49 Stat. 1556; Pub. L. 93–300, § 1, June 1, 1974, 88 Stat. 190; Pub. L. 101–233, § 15, Dec. 13, 1989, 103 Stat. 1977; Pub. L. 108–447, div. E, title I, § 143(b), Dec. 8, 2004, 118 Stat. 3071.)
 
 **Editorial Notes**
 
@@ -173,7 +173,7 @@ Subject to subparagraph (B), in this subsection the term “native to the United
 
 1989—Pub. L. 101–233 struck out “and” after “1936,” and inserted before period at end “and the convention between the United States and the Union of Soviet Socialist Republics for the conservation of migratory birds and their environments concluded November 19, 1976”.
 
-1974—Pub. L. 93–300 substituted “, any part, nest, or egg of any such bird, or any product, whether or not manufactured, which consists, or is composed in whole or part, of any such bird or any part, nest, or egg thereof” for “, or any part, nest, or egg of any such birds”, and “, and the United States and the Government of Japan for the protection of migratory birds and birds in danger of extinction, and their environment concluded March 4, 1972.” for period at end.
+1974—Pub. L. 93–300 substituted “, any part, nest, or egg of any such bird, or any product, whether or not manufactured, which consists, or is composed in whole or part, of any such bird or any part, nest, or egg thereof” for “, or any part, nest, or egg of any such birds”, and “, and the United States and the Government of Japan for the protection of migratory birds and birds in danger of extinction, and their environment concluded March 4, 1972.” for period at end.
 
 1936—Act June 20, 1936, amended section generally. Prior to amendment, text read as follows: “Unless and except as permitted by regulations made as hereinafter provided, it shall be unlawful to hunt, take, capture, kill, attempt to take, capture or kill, possess, offer for sale, sell, offer to purchase, purchase, deliver for shipment, ship, cause to be shipped, deliver for transportation, transport, cause to be transported, carry or cause to be carried by any means whatever, receive for shipment, transportation or carriage, or export, at any time or in any manner, any migratory bird, included in the terms of the convention between the United States and Great Britain for the protection of migratory birds concluded August sixteenth, nineteen hundred and sixteen, or any part, nest, or egg of any such bird.”
 
@@ -181,15 +181,15 @@ Subject to subparagraph (B), in this subsection the term “native to the United
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–300, § 3, June 1, 1974, 88 Stat. 190, provided that: “The amendments made by this Act [amending this section] shall take effect on the date on which the President proclaims the exchange of ratifications of the convention between the United States and the Government of Japan for the protection of migratory birds and birds in danger of extinction, and their environment, concluded March 4, 1972, or on the date of the enactment of this Act [June 1, 1974], whichever date is later.”
+Pub. L. 93–300, § 3, June 1, 1974, 88 Stat. 190, provided that: “The amendments made by this Act [amending this section] shall take effect on the date on which the President proclaims the exchange of ratifications of the convention between the United States and the Government of Japan for the protection of migratory birds and birds in danger of extinction, and their environment, concluded March 4, 1972, or on the date of the enactment of this Act [June 1, 1974], whichever date is later.”
 
 **Effective Date of 1936 Amendment**
 
-Act June 20, 1936, ch. 634, § 3, 49 Stat. 1556, provided in part that the amendment by section 3 is effective as of the day aforesaid, meaning the day on which the President shall proclaim the exchange of ratifications of the convention between the United States and the United Mexican States for the protection of migratory birds and game mammals concluded Feb. 7, 1936, or on June 20, 1936, whichever date is later. Such proclamation was made on June 30, 1937. See section 1 of act June 20, 1936, ch. 634, 49 Stat. 1555.
+Act June 20, 1936, ch. 634, § 3, 49 Stat. 1556, provided in part that the amendment by section 3 is effective as of the day aforesaid, meaning the day on which the President shall proclaim the exchange of ratifications of the convention between the United States and the United Mexican States for the protection of migratory birds and game mammals concluded Feb. 7, 1936, or on June 20, 1936, whichever date is later. Such proclamation was made on June 30, 1937. See section 1 of act June 20, 1936, ch. 634, 49 Stat. 1555.
 
 **Elimination of Barriers To Improve At-Risk Bridges**
 
-Pub. L. 114–94, div. A, title I, § 1439, Dec. 4, 2015, 129 Stat. 1433, provided that:
+Pub. L. 114–94, div. A, title I, § 1439, Dec. 4, 2015, 129 Stat. 1433, provided that:
 
 > **“(a) Temporary Authorization.—**
 
@@ -223,7 +223,7 @@ Pub. L. 114–94, div. A, title I, § 1439, Dec. 4, 2015, 129 Stat. 1433, prov
 
 **Publication of List**
 
-Pub. L. 108–447, div. E, title I, § 143(c), Dec. 8, 2004, 118 Stat. 3072, provided that:
+Pub. L. 108–447, div. E, title I, § 143(c), Dec. 8, 2004, 118 Stat. 3072, provided that:
 
 > **“(1) In general.—** Not later than 90 days after the date of enactment of this section [Dec. 8, 2004], the Secretary of the Interior shall publish in the Federal Register a list of all nonnative, human-introduced bird species to which the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.) does not apply. As necessary, the Secretary may update and publish the list of species exempted from protection of the Migratory Bird Treaty Act.
 
@@ -233,11 +233,11 @@ Pub. L. 108–447, div. E, title I, § 143(c), Dec. 8, 2004, 118 Stat. 3072, p
 
 **Relationship of Pub. L. 108–447 to Treaties**
 
-Pub. L. 108–447, div. E, title I, § 143(d), Dec. 8, 2004, 118 Stat. 3072, provided that: “It is the sense of Congress that the language of this section [amending this section and enacting provisions set out as notes under this section and section 710 of this title] is consistent with the intent and language of the 4 bilateral treaties implemented by this section.”
+Pub. L. 108–447, div. E, title I, § 143(d), Dec. 8, 2004, 118 Stat. 3072, provided that: “It is the sense of Congress that the language of this section [amending this section and enacting provisions set out as notes under this section and section 710 of this title] is consistent with the intent and language of the 4 bilateral treaties implemented by this section.”
 
 **Incidental Taking of Migratory Birds During Military Readiness Activities**
 
-Pub. L. 107–314, div. A, title III, § 315, Dec. 2, 2002, 116 Stat. 2509, provided that:
+Pub. L. 107–314, div. A, title III, § 315, Dec. 2, 2002, 116 Stat. 2509, provided that:
 
 > **“(a) Interim Authority for Incidental Takings.—** During the period described in subsection (c), section 2 of the Migratory Bird Treaty Act (16 U.S.C. 703) shall not apply to the incidental taking of a migratory bird by a member of the Armed Forces during a military readiness activity authorized by the Secretary of Defense or the Secretary of the military department concerned.
 
@@ -387,7 +387,7 @@ Pub. L. 106–108, Nov. 24, 1999, 113 Stat. 1491, provided that:
 
 > **“(3) Service.—** The term ‘Service’ means the United States Fish and Wildlife Service.”
 
-### § 704. Determination as to when and how migratory birds may be taken, killed, or possessed
+### § 704. Determination as to when and how migratory birds may be taken, killed, or possessed
 
 **(a)** Subject to the provisions and in order to carry out the purposes of the conventions, referred to in section 703 of this title, the Secretary of the Interior is authorized and directed, from time to time, having due regard to the zones of temperature and to the distribution, abundance, economic value, breeding habits, and times and lines of migratory flight of such birds, to determine when, to what extent, if at all, and by what means, it is compatible with the terms of the conventions to allow hunting, taking, capture, killing, possession, sale, purchase, shipment, transportation, carriage, or export of any such bird, or any part, nest, or egg thereof, and to adopt suitable regulations permitting and governing the same, in accordance with such determinations, which regulations shall become effective when approved by the President.
 
@@ -429,7 +429,7 @@ Pub. L. 106–108, Nov. 24, 1999, 113 Stat. 1491, provided that:
 
 **(3) Regulations.—** The Secretary shall promulgate regulations in accordance with this subsection for the Federal framework for migratory bird hunting for the 2019–2020 hunting season and each hunting season thereafter.
 
-(July 3, 1918, ch. 128, § 3, 40 Stat. 755; June 20, 1936, ch. 634, § 2, 49 Stat. 1556; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 105–312, title I, § 102, Oct. 30, 1998, 112 Stat. 2956; Pub. L. 116–9, title IV, § 4301, Mar. 12, 2019, 133 Stat. 764.)
+(July 3, 1918, ch. 128, § 3, 40 Stat. 755; June 20, 1936, ch. 634, § 2, 49 Stat. 1556; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 105–312, title I, § 102, Oct. 30, 1998, 112 Stat. 2956; Pub. L. 116–9, title IV, § 4301, Mar. 12, 2019, 133 Stat. 764.)
 
 **Editorial Notes**
 
@@ -445,11 +445,11 @@ Pub. L. 106–108, Nov. 24, 1999, 113 Stat. 1491, provided that:
 
 **Effective Date of 1936 Amendment**
 
-Act June 20, 1936, ch. 634, § 2, 49 Stat. 1556, provided in part that the amendment by section 2 is effective as of the day aforesaid (June 30, 1937). See note under section 703 of this title.
+Act June 20, 1936, ch. 634, § 2, 49 Stat. 1556, provided in part that the amendment by section 2 is effective as of the day aforesaid (June 30, 1937). See note under section 703 of this title.
 
 **Baiting of Migratory Game Birds**
 
-Pub. L. 115–334, title XII, § 12601, Dec. 20, 2018, 132 Stat. 5003, provided that:
+Pub. L. 115–334, title XII, § 12601, Dec. 20, 2018, 132 Stat. 5003, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -473,7 +473,7 @@ Pub. L. 115–334, title XII, § 12601, Dec. 20, 2018, 132 Stat. 5003, provide
 
 **Report on Effects of 1998 Amendments**
 
-Pub. L. 105–312, title I, § 104, Oct. 30, 1998, 112 Stat. 2956, directed that no later than 5 years after Oct. 30, 1998, the Secretary of the Interior submit to the appropriate Senate and House committees a report analyzing the effect of certain amendments made by Pub. L. 105–312, and the general practice of baiting, on migratory bird conservation and law enforcement efforts under the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.).
+Pub. L. 105–312, title I, § 104, Oct. 30, 1998, 112 Stat. 2956, directed that no later than 5 years after Oct. 30, 1998, the Secretary of the Interior submit to the appropriate Senate and House committees a report analyzing the effect of certain amendments made by Pub. L. 105–312, and the general practice of baiting, on migratory bird conservation and law enforcement efforts under the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.).
 
 **Executive Documents**
 
@@ -487,11 +487,11 @@ For delegation to Secretary of the Interior of authority vested in President, se
 
 Secretary of the Interior empowered to promulgate regulations under this section without approval, ratification, or other action of President, see section 2(b) of Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, set out as a note under section 301 of Title 3, The President.
 
-### § 705. Transportation or importation of migratory birds; when unlawful
+### § 705. Transportation or importation of migratory birds; when unlawful
 
 It shall be unlawful to ship, transport, or carry, by any means whatever, from one State, Territory, or district to or through another State, Territory, or district, or to or through a foreign country, any bird, or any part, nest, or egg thereof, captured, killed, taken, shipped, transported, or carried at any time contrary to the laws of the State, Territory, or district in which it was captured, killed, or taken, or from which it was shipped, transported, or carried. It shall be unlawful to import any bird, or any part, nest, or egg thereof, captured, killed, taken, shipped, transported, or carried contrary to the laws of any Province of the Dominion of Canada in which the same was captured, killed, or taken, or from which it was shipped, transported, or carried.
 
-(July 3, 1918, ch. 128, § 4, 40 Stat. 755; June 20, 1936, ch. 634, § 4, 49 Stat. 1556; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–135, § 10, Dec. 5, 1969, 83 Stat. 282.)
+(July 3, 1918, ch. 128, § 4, 40 Stat. 755; June 20, 1936, ch. 634, § 4, 49 Stat. 1556; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–135, § 10, Dec. 5, 1969, 83 Stat. 282.)
 
 **Editorial Notes**
 
@@ -505,11 +505,11 @@ It shall be unlawful to ship, transport, or carry, by any means whatever, from o
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–135, § 11, Dec. 5, 1969, 83 Stat. 282, provided that: “The provisions of sections 1 through 10 of this Act [enacting sections 668cc–1 to 668cc–6 of this title and amending this section, sections 851, 852, 852a, and 852d of this title, and sections 43, 44, 3054, and 3112 of Title 18, Crimes and Criminal Procedure] shall be effective one hundred and eighty days after the date of enactment of this Act [Dec. 5, 1969].”
+Pub. L. 91–135, § 11, Dec. 5, 1969, 83 Stat. 282, provided that: “The provisions of sections 1 through 10 of this Act [enacting sections 668cc–1 to 668cc–6 of this title and amending this section, sections 851, 852, 852a, and 852d of this title, and sections 43, 44, 3054, and 3112 of Title 18, Crimes and Criminal Procedure] shall be effective one hundred and eighty days after the date of enactment of this Act [Dec. 5, 1969].”
 
 **Effective Date of 1936 Amendment**
 
-Act June 20, 1936, ch. 634, § 4, 49 Stat. 1556, provided in part that the amendment by section 4 is effective as of the day aforesaid (June 30, 1937). See note under section 703 of this title.
+Act June 20, 1936, ch. 634, § 4, 49 Stat. 1556, provided in part that the amendment by section 4 is effective as of the day aforesaid (June 30, 1937). See note under section 703 of this title.
 
 **Executive Documents**
 
@@ -517,11 +517,11 @@ Act June 20, 1936, ch. 634, § 4, 49 Stat. 1556, provided in part that the ame
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 701 of this title.
 
-### § 706. Arrests; search warrants
+### § 706. Arrests; search warrants
 
 Any employee of the Department of the Interior authorized by the Secretary of the Interior to enforce the provisions of this subchapter shall have power, without warrant, to arrest any person committing a violation of this subchapter in his presence or view and to take such person immediately for examination or trial before an officer or court of competent jurisdiction; shall have power to execute any warrant or other process issued by an officer or court of competent jurisdiction for the enforcement of the provisions of this subchapter; and shall have authority, with a search warrant, to search any place. The several judges of the courts established under the laws of the United States, and United States magistrate judges may, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue warrants in all such cases. All birds, or parts, nests, or eggs thereof, captured, killed, taken, sold or offered for sale, bartered or offered for barter, purchased, shipped, transported, carried, imported, exported, or possessed contrary to the provisions of this subchapter or of any regulation prescribed thereunder shall, when found, be seized and, upon conviction of the offender or upon judgment of a court of the United States that the same were captured, killed, taken, sold or offered for sale, bartered or offered for barter, purchased, shipped, transported, carried, imported, exported, or possessed contrary to the provisions of this subchapter or of any regulation prescribed thereunder, shall be forfeited to the United States and disposed of by the Secretary of the Interior in such manner as he deems appropriate.
 
-(July 3, 1918, ch. 128, § 5, 40 Stat. 756; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 95–616, § 3(h)(1), Nov. 8, 1978, 92 Stat. 3111; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(July 3, 1918, ch. 128, § 5, 40 Stat. 756; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 95–616, § 3(h)(1), Nov. 8, 1978, 92 Stat. 3111; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -533,17 +533,17 @@ Any employee of the Department of the Interior authorized by the Secretary of th
 
 **Change of Name**
 
-“United States magistrate judges” substituted for “United States magistrates” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrates” substituted in text for “United States commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+“United States magistrate judges” substituted for “United States magistrates” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrates” substituted in text for “United States commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with protection of certain birds under this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with protection of certain birds under this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 701 of this title.
 
-### § 707. Violations and penalties; forfeitures
+### § 707. Violations and penalties; forfeitures
 
 **(a)** Except as otherwise provided in this section, any person, association, partnership, or corporation who shall violate any provisions of said conventions or of this subchapter, or who shall violate or fail to comply with any regulation made pursuant to this subchapter shall be deemed guilty of a misdemeanor and upon conviction thereof shall be fined not more than $15,000 or be imprisoned not more than six months, or both.
 
@@ -557,15 +557,15 @@ Transfer of functions of Secretary of Agriculture to Secretary of the Interior b
 
 **(d)** All guns, traps, nets and other equipment, vessels, vehicles, and other means of transportation used by any person when engaged in pursuing, hunting, taking, trapping, ensnaring, capturing, killing, or attempting to take, capture, or kill any migratory bird in violation of this subchapter with the intent to offer for sale, or sell, or offer for barter, or barter such bird in violation of this subchapter shall be forfeited to the United States and may be seized and held pending the prosecution of any person arrested for violating this subchapter and upon conviction for such violation, such forfeiture shall be adjudicated as a penalty in addition to any other provided for violation of this subchapter. Such forfeited property shall be disposed of and accounted for by, and under the authority of, the Secretary of the Interior.
 
-(July 3, 1918, ch. 128, § 6, 40 Stat. 756; June 20, 1936, ch. 634, § 2, 49 Stat. 1556; Pub. L. 86–732, Sept. 8, 1960, 74 Stat. 866; Pub. L. 99–645, title V, § 501, Nov. 10, 1986, 100 Stat. 3590; Pub. L. 105–312, title I, § 103, Oct. 30, 1998, 112 Stat. 2956.)
+(July 3, 1918, ch. 128, § 6, 40 Stat. 756; June 20, 1936, ch. 634, § 2, 49 Stat. 1556; Pub. L. 86–732, Sept. 8, 1960, 74 Stat. 866; Pub. L. 99–645, title V, § 501, Nov. 10, 1986, 100 Stat. 3590; Pub. L. 105–312, title I, § 103, Oct. 30, 1998, 112 Stat. 2956.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–312, § 103(1), substituted “$15,000” for “$500”.
+1998—Subsec. (a). Pub. L. 105–312, § 103(1), substituted “$15,000” for “$500”.
 
-Subsecs. (c), (d). Pub. L. 105–312, § 103(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 105–312, § 103(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1986—Subsec. (b). Pub. L. 99–645 substituted “shall knowingly” for “shall” in introductory provisions.
 
@@ -577,7 +577,7 @@ Subsecs. (c), (d). Pub. L. 105–312, § 103(2), (3), added subsec. (c) and re
 
 **Effective Date of 1936 Amendment**
 
-Act June 20, 1936, ch. 634, § 2, 49 Stat. 1556, provided in part that the amendment by section 2 is effective as of the day aforesaid (June 30, 1937). See note under section 703 of this title.
+Act June 20, 1936, ch. 634, § 2, 49 Stat. 1556, provided in part that the amendment by section 2 is effective as of the day aforesaid (June 30, 1937). See note under section 703 of this title.
 
 **Executive Documents**
 
@@ -585,11 +585,11 @@ Act June 20, 1936, ch. 634, § 2, 49 Stat. 1556, provided in part that the ame
 
 For transfer of certain enforcement functions of Secretary or other official in Department of the Interior under this subchapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see Transfer of Functions note set out under section 706 of this title.
 
-### § 708. State or Territorial laws or regulations
+### § 708. State or Territorial laws or regulations
 
 Nothing in this subchapter shall be construed to prevent the several States and Territories from making or enforcing laws or regulations not inconsistent with the provisions of said conventions or of this subchapter, or from making or enforcing laws or regulations which shall give further protection to migratory birds, their nests, and eggs, if such laws or regulations do not extend the open seasons for such birds beyond the dates approved by the President in accordance with section 704 of this title.
 
-(July 3, 1918, ch. 128, § 7, 40 Stat. 756; June 20, 1936, ch. 634, § 2, 49 Stat. 1556.)
+(July 3, 1918, ch. 128, § 7, 40 Stat. 756; June 20, 1936, ch. 634, § 2, 49 Stat. 1556.)
 
 **Editorial Notes**
 
@@ -601,31 +601,31 @@ Nothing in this subchapter shall be construed to prevent the several States and 
 
 **Effective Date of 1936 Amendment**
 
-Act June 20, 1936, ch. 634, § 2, 49 Stat. 1556, provided in part that the amendment by section 2 is effective as of the day aforesaid (June 30, 1937). See note under section 703 of this title.
+Act June 20, 1936, ch. 634, § 2, 49 Stat. 1556, provided in part that the amendment by section 2 is effective as of the day aforesaid (June 30, 1937). See note under section 703 of this title.
 
-### § 709. Omitted
+### § 709. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act July 3, 1918, ch. 128, § 8, 40 Stat. 756, authorized taking and use of migratory birds, nests, or eggs for scientific or propagating purposes until adoption and approval, pursuant to section 704 of this title, of regulations dealing therewith. Regulations were promulgated by Proc. July 31, 1918, 40 Stat. 1812.
+Section, act July 3, 1918, ch. 128, § 8, 40 Stat. 756, authorized taking and use of migratory birds, nests, or eggs for scientific or propagating purposes until adoption and approval, pursuant to section 704 of this title, of regulations dealing therewith. Regulations were promulgated by Proc. July 31, 1918, 40 Stat. 1812.
 
-### § 709a. Authorization of appropriations
+### § 709a. Authorization of appropriations
 
 There is hereby authorized to be appropriated, from time to time, out of any money in the Treasury not otherwise appropriated, such amounts as may be necessary to carry out the provisions and to accomplish the purposes of said conventions and of this subchapter and regulations made pursuant thereto, and the Secretary of the Interior is authorized out of such moneys to employ in the city of Washington and elsewhere such persons and means as he may deem necessary for such purpose and may cooperate with local authorities in the protection of migratory birds and make the necessary investigations connected therewith.
 
-(July 3, 1918, ch. 128, § 9, as added June 20, 1936, ch. 634, § 5, 49 Stat. 1556; amended 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
+(July 3, 1918, ch. 128, § 9, as added June 20, 1936, ch. 634, § 5, 49 Stat. 1556; amended 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Act June 20, 1936, ch. 634, § 5, 49 Stat. 1556, provided in part that this section is effective as of the day aforesaid (June 30, 1937). See Effective Date of 1936 Amendment note set out under section 703 of this title.
+Act June 20, 1936, ch. 634, § 5, 49 Stat. 1556, provided in part that this section is effective as of the day aforesaid (June 30, 1937). See Effective Date of 1936 Amendment note set out under section 703 of this title.
 
 **Availability of Funds**
 
-Act June 20, 1936, ch. 634, § 6, 49 Stat. 1557, provided: “That all moneys now or hereafter available for administration and enforcement of said Act approved July 3, 1918 [this subchapter], shall be equally available for the administration and enforcement of said Act as hereby amended.”
+Act June 20, 1936, ch. 634, § 6, 49 Stat. 1557, provided: “That all moneys now or hereafter available for administration and enforcement of said Act approved July 3, 1918 [this subchapter], shall be equally available for the administration and enforcement of said Act as hereby amended.”
 
 **Executive Documents**
 
@@ -635,11 +635,11 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 701 of this title.
 
-### § 710. Partial invalidity; short title
+### § 710. Partial invalidity; short title
 
 If any clause, sentence, paragraph, or part of this subchapter, which shall be known by the short title of the “Migratory Bird Treaty Act”, shall, for any reason, be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder thereof, but shall be confined in its operation to the clause, sentence, paragraph, or part thereof directly involved in the controversy in which such judgment shall have been rendered.
 
-(July 3, 1918, ch. 128, §§ 1, 10, 40 Stat. 755, 757.)
+(July 3, 1918, ch. 128, §§ 1, 10, 40 Stat. 755, 757.)
 
 **Editorial Notes**
 
@@ -651,25 +651,25 @@ The provisions of this section relating to short title are from section 1 of act
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–447, div. E, title I, § 143(a), Dec. 8, 2004, 118 Stat. 3071, provided that: “This section [amending section 703 of this title and enacting provisions set out as notes under section 703 of this title] may be cited as the ‘Migratory Bird Treaty Reform Act of 2004’.”
+Pub. L. 108–447, div. E, title I, § 143(a), Dec. 8, 2004, 118 Stat. 3071, provided that: “This section [amending section 703 of this title and enacting provisions set out as notes under section 703 of this title] may be cited as the ‘Migratory Bird Treaty Reform Act of 2004’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–312, title I, § 101, Oct. 30, 1998, 112 Stat. 2956, provided that: “This title [amending sections 704 and 707 of this title and enacting provisions set out as a note under section 704 of this title] may be cited as the ‘Migratory Bird Treaty Reform Act of 1998’.”
+Pub. L. 105–312, title I, § 101, Oct. 30, 1998, 112 Stat. 2956, provided that: “This title [amending sections 704 and 707 of this title and enacting provisions set out as a note under section 704 of this title] may be cited as the ‘Migratory Bird Treaty Reform Act of 1998’.”
 
-### § 711. Breeding and sale for food supply
+### § 711. Breeding and sale for food supply
 
 Nothing in this subchapter shall be construed to prevent the breeding of migratory game birds on farms and preserves and the sale of birds so bred under proper regulation for the purpose of increasing the food supply.
 
-(July 3, 1918, ch. 128, § 12, 40 Stat. 757.)
+(July 3, 1918, ch. 128, § 12, 40 Stat. 757.)
 
-### § 712. Treaty and convention implementing regulations; seasonal taking of migratory birds for essential needs of indigenous Alaskans to preserve and maintain stocks of the birds; protection and conservation of the birds
+### § 712. Treaty and convention implementing regulations; seasonal taking of migratory birds for essential needs of indigenous Alaskans to preserve and maintain stocks of the birds; protection and conservation of the birds
 
 **(1)** In accordance with the various migratory bird treaties and conventions with Canada, Japan, Mexico, and the Union of Soviet Socialist Republics, the Secretary of the Interior is authorized to issue such regulations as may be necessary to assure that the taking of migratory birds and the collection of their eggs, by the indigenous inhabitants of the State of Alaska, shall be permitted for their own nutritional and other essential needs, as determined by the Secretary of the Interior, during seasons established so as to provide for the preservation and maintenance of stocks of migratory birds.
 
 **(2)** The Secretary of the Interior is authorized to issue such regulations as may be necessary to implement the provisions of the convention between the United States and Great Britain for the protection of migratory birds concluded August 16, 1916, the convention between the United States and the United Mexican States for the protection of migratory birds and game mammals concluded February 7, 1936, the convention between the United States and the Government of Japan for the protection of migratory birds in danger of extinction, and their environment concluded March 4, 1972, and the convention between the United States and the Union of Soviet Socialist Republics for the conservation of migratory birds and their environment concluded November 19, 1976.
 
-(Pub. L. 95–616, § 3(h)(2), (3), Nov. 8, 1978, 92 Stat. 3112.)
+(Pub. L. 95–616, § 3(h)(2), (3), Nov. 8, 1978, 92 Stat. 3112.)
 
 **Editorial Notes**
 
@@ -681,23 +681,23 @@ Section was enacted as part of the Fish and Wildlife Improvement Act of 1978, an
 
 ## SUBCHAPTER III—MIGRATORY BIRD CONSERVATION
 
-### § 715. Short title
+### § 715. Short title
 
 This subchapter shall be known by the short title of “Migratory Bird Conservation Act.”
 
-(Feb. 18, 1929, ch. 257, § 1, 45 Stat. 1222.)
+(Feb. 18, 1929, ch. 257, § 1, 45 Stat. 1222.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–215, § 1, Feb 17, 1976, 90 Stat. 189, provided: “That this Act [amending sections 668dd, 715a, 715k–3, 715k–5, 718a, 718b, and 718d of this title] may be cited as the ‘Wetlands Loan Extension Act of 1976’.”
+Pub. L. 94–215, § 1, Feb 17, 1976, 90 Stat. 189, provided: “That this Act [amending sections 668dd, 715a, 715k–3, 715k–5, 718a, 718b, and 718d of this title] may be cited as the ‘Wetlands Loan Extension Act of 1976’.”
 
-### § 715a. Migratory Bird Conservation Commission; creation; composition; duties; approval of areas of land and water recommended for purchase or rental
+### § 715a. Migratory Bird Conservation Commission; creation; composition; duties; approval of areas of land and water recommended for purchase or rental
 
 A commission to be known as the Migratory Bird Conservation Commission, consisting of the Secretary of the Interior, as chairman, the Administrator of the Environmental Protection Agency, the Secretary of Agriculture and two Members of the Senate, to be selected by the President of the Senate, and two Members of the House of Representatives to be selected by the Speaker, is created and authorized to consider and pass upon any area of land, water, or land and water that may be recommended by the Secretary of the Interior for purchase or rental under this subchapter, and to fix the price or prices at which such area may be purchased or rented; and no purchase or rental shall be made of any such area until it has been duly approved for purchase or rental by said commission. Any Member of the House of Representatives who is a member of the commission, if reelected to the succeeding Congress, may serve on the commission notwithstanding the expiration of a Congress. Any vacancy on the commission shall be filled in the same manner as the original appointment. The ranking officer of the branch or department of a State to which is committed the administration of its game laws, or his authorized representative, and in a State having no such branch or department, the governor thereof, or his authorized representative, shall be a member ex officio of said commission for the purpose of considering and voting on all questions relating to the acquisition, under this subchapter, of areas in his State. For purposes of this subchapter, the purchase or rental of any area of land, water, or land and water includes the purchase or rental of any interest in any such area of land, water, or land and water.
 
-(Feb. 18, 1929, ch. 257, § 2, 45 Stat. 1222; 1939 Reorg. Plan No. II, § 4(f), (h), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 90–261, Mar. 2, 1968, 82 Stat. 39; Pub. L. 94–215, § 4, Feb. 17, 1976, 90 Stat. 190; Pub. L. 101–233, § 13, Dec. 13, 1989, 103 Stat. 1977.)
+(Feb. 18, 1929, ch. 257, § 2, 45 Stat. 1222; 1939 Reorg. Plan No. II, § 4(f), (h), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 90–261, Mar. 2, 1968, 82 Stat. 39; Pub. L. 94–215, § 4, Feb. 17, 1976, 90 Stat. 190; Pub. L. 101–233, § 13, Dec. 13, 1989, 103 Stat. 1977.)
 
 **Editorial Notes**
 
@@ -715,11 +715,11 @@ A commission to be known as the Migratory Bird Conservation Commission, consisti
 
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior, and provided that Secretary of the Interior should be chairman of Migratory Bird Conservation Commission and that Secretary of Agriculture should be a member thereof.
 
-### § 715b. Annual report
+### § 715b. Annual report
 
 The commission created by section 715a of this title shall, through its chairman, annually report in detail to Congress, not later than the first Monday in December, the operations of the commission during the preceding fiscal year.
 
-(Feb. 18, 1929, ch. 257, § 3, 45 Stat. 1223.)
+(Feb. 18, 1929, ch. 257, § 3, 45 Stat. 1223.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -727,7 +727,7 @@ The commission created by section 715a of this title shall, through its chairman
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under this section is listed on page 177), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
-### § 715c. Areas recommended for approval; character
+### § 715c. Areas recommended for approval; character
 
 The Secretary of the Interior may not recommend any area for purchase or rental under the terms of this subchapter unless the Secretary of the Interior—
 
@@ -735,7 +735,7 @@ The Secretary of the Interior may not recommend any area for purchase or rental 
 
 **(2)** has consulted with the county or other unit of local government in which such area is located and with the Governor of the State concerned or the appropriate State agency.
 
-(Feb. 18, 1929, ch. 257, § 4, 45 Stat. 1223; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 89–669, § 7(a), Oct. 15, 1966, 80 Stat. 929; Pub. L. 95–552, § 2, Oct. 30, 1978, 92 Stat. 2071.)
+(Feb. 18, 1929, ch. 257, § 4, 45 Stat. 1223; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 89–669, § 7(a), Oct. 15, 1966, 80 Stat. 929; Pub. L. 95–552, § 2, Oct. 30, 1978, 92 Stat. 2071.)
 
 **Editorial Notes**
 
@@ -751,7 +751,7 @@ The Secretary of the Interior may not recommend any area for purchase or rental 
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 715a of this title.
 
-### § 715d. Purchase or rental of approved areas or interests therein; gifts and devises; United States lands
+### § 715d. Purchase or rental of approved areas or interests therein; gifts and devises; United States lands
 
 The Secretary of the Interior may—
 
@@ -761,7 +761,7 @@ The Secretary of the Interior may—
 
 which he determines to be suitable for use as an inviolate sanctuary, or for any other management purpose, for migratory birds. The Secretary may pay, when deemed necessary by him and from moneys authorized to be appropriated for the purposes of this subchapter (A) the purchase or rental price of any such area or interest therein, and (B) the expenses incident to the location, examination, survey, and acquisition of title (including options) of any such area or interest therein. No lands acquired, held, or used by the United States for military purposes shall be subject to any provisions of this subchapter.
 
-(Feb. 18, 1929, ch. 257, § 5, 45 Stat. 1223; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 95–616, § 5(a), Nov. 8, 1978, 92 Stat. 3113.)
+(Feb. 18, 1929, ch. 257, § 5, 45 Stat. 1223; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 95–616, § 5(a), Nov. 8, 1978, 92 Stat. 3113.)
 
 **Editorial Notes**
 
@@ -775,23 +775,23 @@ which he determines to be suitable for use as an inviolate sanctuary, or for any
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 715a of this title.
 
-### §§ 715d–1, 715d–2. Repealed. Pub. L. 89–669, § 8(a), Oct. 15, 1966, 80 Stat. 930
+### §§ 715d–1, 715d–2. Repealed. Pub. L. 89–669, § 8(a), Oct. 15, 1966, 80 Stat. 930
 
-Sections, act June 15, 1935, ch. 261, title III, §§ 302, 303, 49 Stat. 382, provided for acceptance of land in exchange for other land or timber, etc. rights and for acceptance of land in exchange for patent to nonmineral public land. See section 668dd(b)(3) of this title.
+Sections, act June 15, 1935, ch. 261, title III, §§ 302, 303, 49 Stat. 382, provided for acceptance of land in exchange for other land or timber, etc. rights and for acceptance of land in exchange for patent to nonmineral public land. See section 668dd(b)(3) of this title.
 
-### § 715d–3. Omitted
+### § 715d–3. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 15, 1935, ch. 261, title V, § 501, 49 Stat. 383, authorized President to allocate out of appropriation made to him by resolution of April 8, 1935, a sum for acquisition of areas for bird sanctuaries and refuges.
+Section, act June 15, 1935, ch. 261, title V, § 501, 49 Stat. 383, authorized President to allocate out of appropriation made to him by resolution of April 8, 1935, a sum for acquisition of areas for bird sanctuaries and refuges.
 
-### § 715e. Examination of title; easements and reservations
+### § 715e. Examination of title; easements and reservations
 
 The Secretary of the Interior may do all things and make all expenditures necessary to secure the safe title in the United States to the areas which may be acquired under this subchapter, but no payment shall be made for any such areas until the title thereto shall be satisfactory to the Attorney General or his designee, but the acquisition of such areas by the United States shall in no case be defeated because of rights-of-way, easements, and reservations which from their nature will in the opinion of the Secretary of the Interior in no manner interfere with the use of the areas so encumbered for the purposes of this subchapter, but such rights-of-way, easements, and reservations retained by the grantor or lessor from whom the United States receives title under this subchapter or any other Act for the acquisition by the Secretary of the Interior of areas for wildlife refuges shall be subject to rules and regulations prescribed by the Secretary of the Interior for the occupation, use, operation, protection, and administration of such areas as inviolate sanctuaries for migratory birds or as refuges for wildlife; and it shall be expressed in the deed or lease that the use, occupation, and operation of such rights-of-way, easements, and reservations shall be subordinate to and subject to such rules and regulations as are set out in such deed or lease or, if deemed necessary by the Secretary of the Interior, to such rules and regulations as may be prescribed by him from time to time.
 
-(Feb. 18, 1929, ch. 257, § 6, 45 Stat. 1223; June 15, 1935, ch. 261, title III, § 301, 49 Stat. 381; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–393, § 6, Sept. 1, 1970, 84 Stat. 835.)
+(Feb. 18, 1929, ch. 257, § 6, 45 Stat. 1223; June 15, 1935, ch. 261, title III, § 301, 49 Stat. 381; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–393, § 6, Sept. 1, 1970, 84 Stat. 835.)
 
 **Editorial Notes**
 
@@ -807,19 +807,19 @@ The Secretary of the Interior may do all things and make all expenditures necess
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 715a of this title.
 
-### § 715e–1. Omitted
+### § 715e–1. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 15, 1935, ch. 261, title III, § 304, 49 Stat. 382, applying section 715e of this title to exchanges effected under former sections 715d–1 and 715d–2, has been omitted due to the repeal of sections 715d–1 and 715d–2 by Pub. L. 89–669, § 8(a), Oct. 15, 1966, 80 Stat. 930.
+Section, act June 15, 1935, ch. 261, title III, § 304, 49 Stat. 382, applying section 715e of this title to exchanges effected under former sections 715d–1 and 715d–2, has been omitted due to the repeal of sections 715d–1 and 715d–2 by Pub. L. 89–669, § 8(a), Oct. 15, 1966, 80 Stat. 930.
 
-### § 715f. Consent of State to conveyance in fee
+### § 715f. Consent of State to conveyance in fee
 
 No deed or instrument of conveyance in fee shall be accepted by the Secretary of the Interior under this subchapter unless the State in which the area lies shall have consented by law to the acquisition by the United States of lands in that State.
 
-(Feb. 18, 1929, ch. 257, § 7, 45 Stat. 1223; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 103–434, title XIII, Oct. 31, 1994, 108 Stat. 4565.)
+(Feb. 18, 1929, ch. 257, § 7, 45 Stat. 1223; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 103–434, title XIII, Oct. 31, 1994, 108 Stat. 4565.)
 
 **Editorial Notes**
 
@@ -833,19 +833,19 @@ No deed or instrument of conveyance in fee shall be accepted by the Secretary of
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 715a of this title.
 
-### § 715g. Jurisdiction of State over areas acquired
+### § 715g. Jurisdiction of State over areas acquired
 
 The jurisdiction of the State, both civil and criminal, over persons upon areas acquired under this subchapter shall not be affected or changed by reason of their acquisition and administration by the United States as migratory-bird reservations, except so far as the punishment of offenses against the United States is concerned.
 
-(Feb. 18, 1929, ch. 257, § 8, 45 Stat. 1224.)
+(Feb. 18, 1929, ch. 257, § 8, 45 Stat. 1224.)
 
-### § 715h. Operation of State game laws
+### § 715h. Operation of State game laws
 
 Nothing in this subchapter is intended to interfere with the operation of the game laws of the several States applying to migratory game birds insofar as they do not permit what is forbidden by Federal law.
 
-(Feb. 18, 1929, ch. 257, § 9, 45 Stat. 1224.)
+(Feb. 18, 1929, ch. 257, § 9, 45 Stat. 1224.)
 
-### § 715i. Administration
+### § 715i. Administration
 
 **(a) Treaty obligations; rules and regulations**
 
@@ -855,7 +855,7 @@ Areas of lands, waters, or interests therein acquired or reserved pursuant to th
 
 In administering such areas, the Secretary is authorized to manage timber, range, and agricultural crops; to manage other species of animals, including but not limited to fenced range animals, with the objectives of perpetuating, distributing, and utilizing the resources; and to enter into agreements with public and private agencies.
 
-(Feb. 18, 1929, ch. 257, § 10, 45 Stat. 1224; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 89–669, § 7(b), Oct. 15, 1966, 80 Stat. 929; Pub. L. 93–205, § 13(b), Dec. 28, 1973, 87 Stat. 902; Pub. L. 95–616, § 5(b), Nov. 8, 1978, 92 Stat. 3114.)
+(Feb. 18, 1929, ch. 257, § 10, 45 Stat. 1224; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 89–669, § 7(b), Oct. 15, 1966, 80 Stat. 929; Pub. L. 93–205, § 13(b), Dec. 28, 1973, 87 Stat. 902; Pub. L. 95–616, § 5(b), Nov. 8, 1978, 92 Stat. 3114.)
 
 **Editorial Notes**
 
@@ -879,17 +879,17 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 715a of this title.
 
-### § 715j. “Migratory birds” defined
+### § 715j. “Migratory birds” defined
 
 For the purposes of this subchapter and the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.), migratory birds are those defined as such by the treaty between the United States and Great Britain for the protection of migratory birds concluded August 16, 1916 (39 Stat. 1702), the treaty between the United States and the United Mexican States for the protection of migratory birds and game mammals concluded February 7, 1936 (50 Stat. 1311), the Convention between the Government of the United States of America and the Government of Japan for the Protection of Migratory Birds and Birds in Danger of Extinction, and their Environment concluded March 4, 1972, and the Convention between the United States and the Union of Soviet Socialist Republics for the Conservation of Migratory Birds and their Environment concluded November 19, 1976.
 
-(Feb. 18, 1929, ch. 257, § 11, 45 Stat. 1224; Pub. L. 89–669, § 7(c), Oct. 15, 1966, 80 Stat. 930; Pub. L. 95–616, § 5(c), Nov. 8, 1978, 92 Stat. 3114.)
+(Feb. 18, 1929, ch. 257, § 11, 45 Stat. 1224; Pub. L. 89–669, § 7(c), Oct. 15, 1966, 80 Stat. 930; Pub. L. 95–616, § 5(c), Nov. 8, 1978, 92 Stat. 3114.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of this chapter. For complete classification of this Act to the Code, see section 710 of this title and Tables.
+The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of this chapter. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
 **Amendments**
 
@@ -897,11 +897,11 @@ The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128
 
 1966—Pub. L. 89–669 inserted “(39 Stat. 1702)” and defined migratory birds to include those defined in the Treaty of Feb. 7, 1936 (50 Stat. 1311) with the United Mexican States.
 
-### § 715k. Authorization of appropriations for purposes of subchapter; disposal; reservation protectors
+### § 715k. Authorization of appropriations for purposes of subchapter; disposal; reservation protectors
 
 For the acquisition, including the location, examination, and survey, of suitable areas of land, water, or land and water, for use as migratory bird reservations, and necessary expenses incident thereto, and for the administration, maintenance, and development of such areas and other preserves, reservations, or breeding grounds frequented by migratory birds and under the administration of the Secretary of the Interior, including the construction of dams, dikes, ditches, flumes, spillways, buildings, and other necessary improvements, and for the elimination of the loss of migratory birds from alkali poisoning, oil pollution of waters, or other causes, for cooperation with local authorities in wildlife conservation, for investigations and publications relating to North American birds, for personal services, printing, engraving, and issuance of circulars, posters, and other necessary matter and for the enforcement of the provisions of this subchapter, there are hereby authorized to be appropriated, in addition to all other amounts authorized by law to be appropriated, $200,000 for the fiscal year ending June 30, 1940, and for each fiscal year thereafter. No part of any appropriation authorized by this section shall be used for payment of the salary, compensation, or expenses of any United States protector, except reservation protectors for the administration, maintenance and protection of such reservations and the birds thereon: *Provided*, That reservation protectors appointed under the provisions of this subchapter, shall be selected, when practicable, from qualified citizens of the State in which they are to be employed. The Secretary of the Interior is authorized and directed to make such expenditures and to employ such means, including personal services in the District of Columbia and elsewhere, as may be necessary to carry out the foregoing objects.
 
-(Feb. 18, 1929, ch. 257, § 12, 45 Stat. 1224; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 89–669, § 7(a), Oct. 15, 1966, 80 Stat. 929.)
+(Feb. 18, 1929, ch. 257, § 12, 45 Stat. 1224; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 89–669, § 7(a), Oct. 15, 1966, 80 Stat. 929.)
 
 **Editorial Notes**
 
@@ -919,11 +919,11 @@ Provisions of this section which related to appropriations for the fiscal year e
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 715a of this title.
 
-### § 715k–1. Expenditures for personal services
+### § 715k–1. Expenditures for personal services
 
 In the execution of this Act, the Secretary of the Interior is authorized to make such expenditures for personal services in the District of Columbia and elsewhere as he shall deem necessary.
 
-(June 15, 1935, ch. 261, title VII, § 701, 49 Stat. 384; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
+(June 15, 1935, ch. 261, title VII, § 701, 49 Stat. 384; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -943,7 +943,7 @@ Section was not enacted as part of the Migratory Bird Conservation Act which com
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 715a of this title.
 
-### § 715k–2. Omitted
+### § 715k–2. Omitted
 
 **Editorial Notes**
 
@@ -951,11 +951,11 @@ Transfer of functions of Secretary of Agriculture to Secretary of the Interior b
 
 Section, acts June 29, 1937, ch. 404, title I, 50 Stat. 421; June 16, 1938, ch. 464, title I, 52 Stat. 736; June 30, 1939, ch. 253, title I, 53 Stat. 965, made an earlier specific appropriation available for maintenance and operation of motor-propelled passenger-carrying vehicles.
 
-### § 715k–3. Authorization of appropriations for the preservation of wetlands and other waterfowl habitat
+### § 715k–3. Authorization of appropriations for the preservation of wetlands and other waterfowl habitat
 
 In order to promote the conservation of migratory waterfowl and to offset or prevent the serious loss of important wetlands and other waterfowl habitat essential to the preservation of such waterfowl, there is authorized to be appropriated for the period beginning on July 1, 1961, and ending when all amounts authorized to be appropriated have been expended, not to exceed $200,000,000.
 
-(Pub. L. 87–383, § 1, Oct. 4, 1961, 75 Stat. 813; Pub. L. 90–205, § 1(a), Dec. 15, 1967, 81 Stat. 612; Pub. L. 94–215, § 2(a), Feb. 17, 1976, 90 Stat. 189; Pub. L. 98–200, § 1, Dec. 2, 1983, 97 Stat. 1378; Pub. L. 98–548, title I, § 101, Oct. 26, 1984, 98 Stat. 2774; Pub. L. 99–645, title I, § 101(a), Nov. 10, 1986, 100 Stat. 3584; Pub. L. 100–653, title III, § 301, Nov. 14, 1988, 102 Stat. 3827.)
+(Pub. L. 87–383, § 1, Oct. 4, 1961, 75 Stat. 813; Pub. L. 90–205, § 1(a), Dec. 15, 1967, 81 Stat. 612; Pub. L. 94–215, § 2(a), Feb. 17, 1976, 90 Stat. 189; Pub. L. 98–200, § 1, Dec. 2, 1983, 97 Stat. 1378; Pub. L. 98–548, title I, § 101, Oct. 26, 1984, 98 Stat. 2774; Pub. L. 99–645, title I, § 101(a), Nov. 10, 1986, 100 Stat. 3584; Pub. L. 100–653, title III, § 301, Nov. 14, 1988, 102 Stat. 3827.)
 
 **Editorial Notes**
 
@@ -983,15 +983,15 @@ Section was not enacted as part of the Migratory Bird Conservation Act which com
 
 Pub. L. 87–383, which enacted this section and sections 715k–4 and 715k–5 of this title, is popularly known as the “Wetlands Loan Act”.
 
-### § 715k–4. Accounting and use of appropriations
+### § 715k–4. Accounting and use of appropriations
 
-Funds appropriated each fiscal year pursuant to sections 715k–3 to 715k–5 of this title shall be accounted for, added to, and used for purposes of the migratory bird conservation fund 1
+Funds appropriated each fiscal year pursuant to sections 715k–3 to 715k–5 of this title shall be accounted for, added to, and used for purposes of the migratory bird conservation fund 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 established pursuant to section 718d of this title.
 
-(Pub. L. 87–383, § 2, Oct. 4, 1961, 75 Stat. 813.)
+(Pub. L. 87–383, § 2, Oct. 4, 1961, 75 Stat. 813.)
 
 **Editorial Notes**
 
@@ -999,15 +999,15 @@ established pursuant to section 718d of this title.
 
 Section was not enacted as part of the Migratory Bird Conservation Act which comprises this subchapter.
 
-### § 715k–5. Acquisition of lands
+### § 715k–5. Acquisition of lands
 
-No land shall be acquired with moneys from the migratory bird conservation fund 1
+No land shall be acquired with moneys from the migratory bird conservation fund 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 unless the acquisition thereof has been approved by the Governor of the State or appropriate State agency.
 
-(Pub. L. 87–383, § 3, Oct. 4, 1961, 75 Stat. 813; Pub. L. 90–205, § 1(b), Dec. 15, 1967, 81 Stat. 612; Pub. L. 94–215, § 2(b), Feb. 17, 1976, 90 Stat. 189; Pub. L. 98–200, § 2, Dec. 2, 1983, 97 Stat. 1378; Pub. L. 98–548, title I, § 102, Oct. 26, 1984, 98 Stat. 2774; Pub. L. 99–645, title I, § 101(b), Nov. 10, 1986, 100 Stat. 3584.)
+(Pub. L. 87–383, § 3, Oct. 4, 1961, 75 Stat. 813; Pub. L. 90–205, § 1(b), Dec. 15, 1967, 81 Stat. 612; Pub. L. 94–215, § 2(b), Feb. 17, 1976, 90 Stat. 189; Pub. L. 98–200, § 2, Dec. 2, 1983, 97 Stat. 1378; Pub. L. 98–548, title I, § 102, Oct. 26, 1984, 98 Stat. 2774; Pub. L. 99–645, title I, § 101(b), Nov. 10, 1986, 100 Stat. 3584.)
 
 **Editorial Notes**
 
@@ -1027,21 +1027,21 @@ Section was not enacted as part of the Migratory Bird Conservation Act which com
 
 1967—Pub. L. 90–205 made minor structural changes and substituted “1977” for “1969” and “fifteen-year period” for “seven-year period”.
 
-### §§ 715l, 715m. Repealed. Pub. L. 89–669, § 7(d), Oct. 15, 1966, 80 Stat. 930
+### §§ 715l, 715m. Repealed. Pub. L. 89–669, § 7(d), Oct. 15, 1966, 80 Stat. 930
 
-Sections, act Feb. 18, 1929, ch. 257, §§ 13, 14, 45 Stat. 1225, related to: execution of provisions, powers and duties of United States judges, commissioners and employees of Department of the Interior; and penalty for violation of provisions. See section 668dd(f) and (e) of this title, respectively.
+Sections, act Feb. 18, 1929, ch. 257, §§ 13, 14, 45 Stat. 1225, related to: execution of provisions, powers and duties of United States judges, commissioners and employees of Department of the Interior; and penalty for violation of provisions. See section 668dd(f) and (e) of this title, respectively.
 
-### § 715n. “Take” defined
+### § 715n. “Take” defined
 
 For the purposes of this subchapter the word “take” shall be construed to mean pursue, hunt, shoot, capture, collect, kill, or attempt to pursue, hunt, shoot, capture, collect, or kill, unless the context otherwise requires.
 
-(Feb. 18, 1929, ch. 257, § 15, 45 Stat. 1225.)
+(Feb. 18, 1929, ch. 257, § 15, 45 Stat. 1225.)
 
-### § 715o. National forest and power sites; use for migratory bird reservations
+### § 715o. National forest and power sites; use for migratory bird reservations
 
 Nothing in this subchapter shall be construed as authorizing or empowering the Migratory Bird Conservation Commission herein created, the Secretary of the Interior, or any other board, commission, or officer, to declare, withdraw, or determine, except heretofore designated, any part of any national forest or power site, a migratory bird reservation under any of the provisions of this subchapter, except by and with the consent of the legislature of the State wherein such forest or power site is located.
 
-(Feb. 18, 1929, ch. 257, § 16, 45 Stat. 1225; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
+(Feb. 18, 1929, ch. 257, § 16, 45 Stat. 1225; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -1055,11 +1055,11 @@ Herein created, referred to in text, means created by section 715a of this title
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 715a of this title.
 
-### § 715p. Cooperation of State in enforcement of provisions
+### § 715p. Cooperation of State in enforcement of provisions
 
 When any State shall, by suitable legislation, make provision adequately to enforce the provisions of this subchapter and all regulations promulgated thereunder, the Secretary of the Interior may so certify, and then and thereafter said State may cooperate with the Secretary of the Interior in the enforcement of this subchapter and the regulations thereunder.
 
-(Feb. 18, 1929, ch. 257, § 17, 45 Stat. 1225; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
+(Feb. 18, 1929, ch. 257, § 17, 45 Stat. 1225; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
 **Executive Documents**
 
@@ -1067,11 +1067,11 @@ When any State shall, by suitable legislation, make provision adequately to enfo
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 715a of this title.
 
-### § 715q. Expenses of commission; authorization of appropriations
+### § 715q. Expenses of commission; authorization of appropriations
 
 A sum sufficient to pay the necessary expenses of the commission and its members, not to exceed an annual expenditure of $7,500, is authorized to be appropriated out of any money in the Treasury not otherwise appropriated. Said appropriation shall be paid out on the audit and order of the chairman of said commission, which audit and order shall be conclusive and binding upon the Government Accountability Office as to the correctness of the accounts of said commission.
 
-(Feb. 18, 1929, ch. 257, § 18, 45 Stat. 1225; Pub. L. 87–812, Oct. 15, 1962, 76 Stat. 922; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Feb. 18, 1929, ch. 257, § 18, 45 Stat. 1225; Pub. L. 87–812, Oct. 15, 1962, 76 Stat. 922; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -1081,19 +1081,19 @@ A sum sufficient to pay the necessary expenses of the commission and its members
 
 1962—Pub. L. 87–812 increased annual expenditures from not more than $5,000 to not more than $7,500 and corrected a misspelling of “commission”.
 
-### § 715r. Partial invalidity; validity of remainder
+### § 715r. Partial invalidity; validity of remainder
 
 If any provision of this subchapter or the application thereof to any person or circumstance is held invalid the validity of the remainder of this subchapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-(Feb. 18, 1929, ch. 257, § 19, 45 Stat. 1226.)
+(Feb. 18, 1929, ch. 257, § 19, 45 Stat. 1226.)
 
-### § 715s. Participation of local governments in revenue from areas administered by the United States Fish and Wildlife Service
+### § 715s. Participation of local governments in revenue from areas administered by the United States Fish and Wildlife Service
 
 **(a) Separate fund in the United States Treasury; availability of funds until expended; “National Wildlife Refuge System” defined**
 
 Beginning with the next full fiscal year and for each fiscal year thereafter, all revenues received by the Secretary of the Interior from the sale or other disposition of animals, salmonoid carcassas,1
 
-<sup>1</sup>  So in original. Probably should be “carcasses,”.
+<sup>1</sup> So in original. Probably should be “carcasses,”.
 
 timber, hay, grass, or other products of the soil, minerals, shells, sand, or gravel, from other privileges, or from leases for public accommodations or facilities incidental to but not in conflict with the basic purposes for which those areas of the National Wildlife Refuge System were established, during each fiscal year in connection with the operation and management of those areas of the National Wildlife Refuge System, National Fish Hatcheries, or other areas, that are solely or primarily administered by him, through the United States Fish and Wildlife Service, shall be covered into the United States Treasury and be reserved in a separate fund for disposition as hereafter prescribed. Amounts in the fund shall remain available until expended, and may be expended by the Secretary without further appropriation in the manner hereafter prescribed. The National Wildlife Refuge System (hereafter referred to as the “System”) includes those lands and waters administered by the Secretary as wildlife refuges, lands acquired or reserved for the protection and conservation of fish and wildlife that are listed pursuant to section 1533 of this title as endangered species or threatened species, wildlife ranges, game ranges, wildlife management areas, and waterfowl production areas established under any law, proclamation, Executive, or public land order.
 
@@ -1159,7 +1159,7 @@ The Secretary shall carry out any revenue producing activity referred to in subs
 
 **(5)** The term “county” means any county, parish, or organized or unorganized borough.
 
-(June 15, 1935, ch. 261, title IV, § 401, 49 Stat. 383; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Oct. 31, 1951, ch. 654, § 2(13), 65 Stat. 707; Pub. L. 88–523, Aug. 30, 1964, 78 Stat. 701; Pub. L. 89–669, § 8(b), Oct. 15, 1966, 80 Stat. 930; Pub. L. 93–205, § 13(b), Dec. 28, 1973, 87 Stat. 902; Pub. L. 93–509, § 4, Dec. 3, 1974, 88 Stat. 1603; Pub. L. 95–469, § 1(a), Oct. 17, 1978, 92 Stat. 1319; Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068.)
+(June 15, 1935, ch. 261, title IV, § 401, 49 Stat. 383; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Oct. 31, 1951, ch. 654, § 2(13), 65 Stat. 707; Pub. L. 88–523, Aug. 30, 1964, 78 Stat. 701; Pub. L. 89–669, § 8(b), Oct. 15, 1966, 80 Stat. 930; Pub. L. 93–205, § 13(b), Dec. 28, 1973, 87 Stat. 902; Pub. L. 93–509, § 4, Dec. 3, 1974, 88 Stat. 1603; Pub. L. 95–469, § 1(a), Oct. 17, 1978, 92 Stat. 1319; Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068.)
 
 **Editorial Notes**
 
@@ -1189,21 +1189,21 @@ Section was not enacted as part of the “Migratory Bird Conservation Act” whi
 
 1982—Subsec. (h). Pub. L. 97–258 struck out subsec. (h) which had provided for administration of payments to local governments for entitlement lands, reserve areas as entitlement lands, and payments received by any unit of local government to be deemed payments under specified provisions. See sections 6901 and 6903 of Title 31, Money and Finance.
 
-1978—Subsec. (a). Pub. L. 95–469, § 1(a)(1), authorized the separate fund in the United States Treasury to include revenues from sale or other disposition of salmonoid carcasses and extended the operation and management provision to areas of National Fish Hatcheries and other areas administered by the Secretary.
+1978—Subsec. (a). Pub. L. 95–469, § 1(a)(1), authorized the separate fund in the United States Treasury to include revenues from sale or other disposition of salmonoid carcasses and extended the operation and management provision to areas of National Fish Hatcheries and other areas administered by the Secretary.
 
-Subsec. (b). Pub. L. 95–469, § 1(a)(2), substituted “revenue-producing and revenue-sharing measures” for “revenue-producing measures set forth in subsection (a) of this section”.
+Subsec. (b). Pub. L. 95–469, § 1(a)(2), substituted “revenue-producing and revenue-sharing measures” for “revenue-producing measures set forth in subsection (a) of this section”.
 
-Subsec. (c). Pub. L. 95–469, § 1(a)(3), in revising subsec. (c), substituted pars. (1) to (5) for prior text consisting of: introductory text authorizing expenditures solely for benefit of public schools and roads, now covered in par. (5)(C); par. (1) of first sentence, now included in par. (2); par. (2) of first sentence, now covered in pars. (1)(B), (C) and (4) in part; and second sentence now incorporated in par. (4)(B).
+Subsec. (c). Pub. L. 95–469, § 1(a)(3), in revising subsec. (c), substituted pars. (1) to (5) for prior text consisting of: introductory text authorizing expenditures solely for benefit of public schools and roads, now covered in par. (5)(C); par. (1) of first sentence, now included in par. (2); par. (2) of first sentence, now covered in pars. (1)(B), (C) and (4) in part; and second sentence now incorporated in par. (4)(B).
 
-Subsec. (d). Pub. L. 95–469, § 1(a)(3), substituted provision for authorization of appropriations equal to difference between amount of net receipts and aggregate amount of required payments for prior provision limiting amount payable to the counties to amount of net receipts in the fund for any fiscal year and a proportionate reduction of payments when net receipts are insufficient for aggregate amount of payments for any fiscal year.
+Subsec. (d). Pub. L. 95–469, § 1(a)(3), substituted provision for authorization of appropriations equal to difference between amount of net receipts and aggregate amount of required payments for prior provision limiting amount payable to the counties to amount of net receipts in the fund for any fiscal year and a proportionate reduction of payments when net receipts are insufficient for aggregate amount of payments for any fiscal year.
 
-Subsec. (e). Pub. L. 95–469, § 1(a)(3), in revising subsec. (e), substituted provision authorizing use of surplus funds for acquisition of suitable areas for migratory bird refuges for prior provision making remaining funds available for such land acquisition and eliminated provision prohibiting funds available for the Management of the National Wildlife Refuge System or for enforcement of the Migratory Bird Treaty Act from being diminished by the amendments made by Pub. L. 93–509 to this subsection unless by specific congressional enactment.
+Subsec. (e). Pub. L. 95–469, § 1(a)(3), in revising subsec. (e), substituted provision authorizing use of surplus funds for acquisition of suitable areas for migratory bird refuges for prior provision making remaining funds available for such land acquisition and eliminated provision prohibiting funds available for the Management of the National Wildlife Refuge System or for enforcement of the Migratory Bird Treaty Act from being diminished by the amendments made by Pub. L. 93–509 to this subsection unless by specific congressional enactment.
 
-Subsec. (f). Pub. L. 95–469, § 1(a)(3), substituted “The Secretary shall carry out any revenue producing activity referred to in subsection (a)(1), (2), and (3) within any fee area or reserve area subject to such terms, conditions, or regulations, including sales in the open markets, as the Secretary determines to be in the best interest of the United States.” for “The disposition or sale of surplus animals, minerals, and other products, the grant of privileges, and the carrying out of any other activities that result in the collection of revenues within any areas of the System may be accomplished upon such terms, conditions, or regulations, including sale in the open markets, as the Secretary shall determine to be in the best interest of the United States.” and reenacted substance of second sentence, setting out provision for regulations at beginning rather than end of sentence.
+Subsec. (f). Pub. L. 95–469, § 1(a)(3), substituted “The Secretary shall carry out any revenue producing activity referred to in subsection (a)(1), (2), and (3) within any fee area or reserve area subject to such terms, conditions, or regulations, including sales in the open markets, as the Secretary determines to be in the best interest of the United States.” for “The disposition or sale of surplus animals, minerals, and other products, the grant of privileges, and the carrying out of any other activities that result in the collection of revenues within any areas of the System may be accomplished upon such terms, conditions, or regulations, including sale in the open markets, as the Secretary shall determine to be in the best interest of the United States.” and reenacted substance of second sentence, setting out provision for regulations at beginning rather than end of sentence.
 
-Subsec. (g). Pub. L. 95–469, § 1(a)(3), substituted definitions of certain terms for prior provision for supersedure by Pub. L. 88–523 of repealed paragraph of “Management of National Wildlife Refuges” in the General Appropriation Act, 1951, approved Sept. 6, 1950 (64 Stat. 595, 693 to 694).
+Subsec. (g). Pub. L. 95–469, § 1(a)(3), substituted definitions of certain terms for prior provision for supersedure by Pub. L. 88–523 of repealed paragraph of “Management of National Wildlife Refuges” in the General Appropriation Act, 1951, approved Sept. 6, 1950 (64 Stat. 595, 693 to 694).
 
-Subsec. (h). Pub. L. 95–469, § 1(a)(4), added subsec. (h).
+Subsec. (h). Pub. L. 95–469, § 1(a)(4), added subsec. (h).
 
 1974—Subsec. (e). Pub. L. 93–509 substituted provisions that moneys remaining in the fund after all payments under this section are made for any fiscal year shall be transferred to the Migratory Bird Conservation Fund and shall be available for land acquisition under the Migratory Bird Conservation Act with exception that the funds available for the management of the National Wildlife Refuge System or for enforcement of the Migratory Bird Treaty Act shall not be diminished for provisions that moneys remaining in the fund after all payments are made for any fiscal year may be used by the Secretary thereafter for management of the System, including but not limited to the construction, improvement, repair, and alteration of buildings, roads, and other facilities, and for enforcement of the Migratory Bird Treaty Act.
 
@@ -1219,7 +1219,7 @@ Subsec. (h). Pub. L. 95–469, § 1(a)(4), added subsec. (h).
 
 **Effective Date of 1978 Amendment; Fiscal Year of Availability of Appropriation Authorization**
 
-Pub. L. 95–469, § 2, Oct. 17, 1978, 92 Stat. 1321, provided that: “The amendments made by this Act [amending this section and sections 1603, 1605 and 1606 of former Title 31, Money and Finance], shall apply with respect to payments made to counties under title IV of the Act of June 15, 1935 [this section], for the fiscal year ending September 30, 1979, and for fiscal years thereafter; except that the amendments made to such title IV [this section] which amend section 401(a) and (g), add paragraph (4) to section 401(c) [subsecs. (a) and (g), and (c)(4) of this section], and amend the title heading [of this section] shall take effect on the date of the enactment of this Act [Oct. 17, 1978]. No authorization for appropriation shall be available under this Act before the fiscal year ending September 30, 1980.”
+Pub. L. 95–469, § 2, Oct. 17, 1978, 92 Stat. 1321, provided that: “The amendments made by this Act [amending this section and sections 1603, 1605 and 1606 of former Title 31, Money and Finance], shall apply with respect to payments made to counties under title IV of the Act of June 15, 1935 [this section], for the fiscal year ending September 30, 1979, and for fiscal years thereafter; except that the amendments made to such title IV [this section] which amend section 401(a) and (g), add paragraph (4) to section 401(c) [subsecs. (a) and (g), and (c)(4) of this section], and amend the title heading [of this section] shall take effect on the date of the enactment of this Act [Oct. 17, 1978]. No authorization for appropriation shall be available under this Act before the fiscal year ending September 30, 1980.”
 
 **Effective Date of 1973 Amendment**
 
@@ -1227,13 +1227,13 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 **Refuge Revenue Sharing**
 
-Pub. L. 105–83, title I, § 132, Nov. 14, 1997, 111 Stat. 1570, provided that: “Notwithstanding any other provision of law, hereafter the United States Fish and Wildlife Service may disburse to local entities impact funding pursuant to Refuge Revenue Sharing that is associated with Federal real property transferred to the United States Geological Survey from the United States Fish and Wildlife Service.”
+Pub. L. 105–83, title I, § 132, Nov. 14, 1997, 111 Stat. 1570, provided that: “Notwithstanding any other provision of law, hereafter the United States Fish and Wildlife Service may disburse to local entities impact funding pursuant to Refuge Revenue Sharing that is associated with Federal real property transferred to the United States Geological Survey from the United States Fish and Wildlife Service.”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Reorg. Plan No. III of 1940, set out in the Appendix to Title 5, consolidated Bureau of Fisheries and Bureau of Biological Survey, with their respective functions, into one agency in Department of the Interior to be known as the Fish and Wildlife Service.
 
@@ -1241,31 +1241,31 @@ Transfer of functions of Secretary of Agriculture to Secretary of the Interior b
 
 ## SUBCHAPTER IV—HUNTING AND CONSERVATION STAMP TAX
 
-### § 718. Repealed. Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 677
+### § 718. Repealed. Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 677
 
-Section, act Mar. 16, 1934, ch. 71, § 9, 48 Stat. 452, defined subchapter terms.
+Section, act Mar. 16, 1934, ch. 71, § 9, 48 Stat. 452, defined subchapter terms.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–264, § 1, Dec. 18, 2014, 128 Stat. 2939, provided that: “This Act [amending sections 718a, 718b, and 718d of this title] may be cited as the ‘Federal Duck Stamp Act of 2014’.”
+Pub. L. 113–264, § 1, Dec. 18, 2014, 128 Stat. 2939, provided that: “This Act [amending sections 718a, 718b, and 718d of this title] may be cited as the ‘Federal Duck Stamp Act of 2014’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–266, § 1, Aug. 3, 2006, 120 Stat. 670, provided that: “This Act [enacting sections 718g to 718j of this title, amending sections 718a to 718f of this title, repealing this section and former sections 718g, 718h, and 718j of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Electronic Duck Stamp Act of 2005’.”
+Pub. L. 109–266, § 1, Aug. 3, 2006, 120 Stat. 670, provided that: “This Act [enacting sections 718g to 718j of this title, amending sections 718a to 718f of this title, repealing this section and former sections 718g, 718h, and 718j of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Electronic Duck Stamp Act of 2005’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–269, § 1, Oct. 19, 1998, 112 Stat. 2381, provided that: “This Act [amending section 718d of this title] may be cited as the ‘Migratory Bird Hunting and Conservation Stamp Promotion Act’.”
+Pub. L. 105–269, § 1, Oct. 19, 1998, 112 Stat. 2381, provided that: “This Act [amending section 718d of this title] may be cited as the ‘Migratory Bird Hunting and Conservation Stamp Promotion Act’.”
 
 **Short Title**
 
-Act Mar. 16, 1934, ch. 71, § 11, as added by Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 679, provided that: “This Act [enacting this subchapter] may be cited as the ‘Migratory Bird Hunting and Conservation Stamp Act’.”
+Act Mar. 16, 1934, ch. 71, § 11, as added by Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 679, provided that: “This Act [enacting this subchapter] may be cited as the ‘Migratory Bird Hunting and Conservation Stamp Act’.”
 
 **Electronic Duck Stamp Pilot Program**
 
-Pub. L. 109–266, §§ 2–9, Aug. 3, 2006, 120 Stat. 670–673, provided that:
+Pub. L. 109–266, §§ 2–9, Aug. 3, 2006, 120 Stat. 670–673, provided that:
 
 > **“SEC. 2. FINDINGS.**
 
@@ -1425,7 +1425,7 @@ Pub. L. 109–266, §§ 2–9, Aug. 3, 2006, 120 Stat. 670–673, provided tha
 
 > **“(b) Report.—** The Secretary shall submit to Congress a report on the findings of the Secretary under subsection (a).”
 
-### § 718a. Prohibition on taking
+### § 718a. Prohibition on taking
 
 **(a) Prohibition**
 
@@ -1453,7 +1453,7 @@ Except as provided in paragraph (2), no individual who has attained the age of 1
 
 Nothing in this section requires any individual to affix the Migratory Bird Hunting and Conservation Stamp to any other license prior to taking 1 or more migratory waterfowl.
 
-(Mar. 16, 1934, ch. 71, § 1, 48 Stat. 451; June 15, 1935, ch. 261, title I, § 1, 49 Stat. 378; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 30, 1956, ch. 782, § 1, 70 Stat. 722; Pub. L. 94–215, § 3(a), Feb. 17, 1976, 90 Stat. 189; Pub. L. 109–266, § 10(a), Aug. 3, 2006, 120 Stat. 674; Pub. L. 113–264, § 4, Dec. 18, 2014, 128 Stat. 2940; Pub. L. 118–25, § 2(d), Dec. 19, 2023, 137 Stat. 130.)
+(Mar. 16, 1934, ch. 71, § 1, 48 Stat. 451; June 15, 1935, ch. 261, title I, § 1, 49 Stat. 378; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 30, 1956, ch. 782, § 1, 70 Stat. 722; Pub. L. 94–215, § 3(a), Feb. 17, 1976, 90 Stat. 189; Pub. L. 109–266, § 10(a), Aug. 3, 2006, 120 Stat. 674; Pub. L. 113–264, § 4, Dec. 18, 2014, 128 Stat. 2940; Pub. L. 118–25, § 2(d), Dec. 19, 2023, 137 Stat. 130.)
 
 **Editorial Notes**
 
@@ -1477,7 +1477,7 @@ Nothing in this section requires any individual to affix the Migratory Bird Hunt
 
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
-### § 718b. Sales; fund disposition; unsold stamps
+### § 718b. Sales; fund disposition; unsold stamps
 
 **(a) Sales**
 
@@ -1535,33 +1535,33 @@ have been obligated for expenditure.
 
 The Secretary may reduce the price of each stamp sold under the provisions of this section for a hunting year if the Secretary determines that the increase in the price of the stamp after hunting year 2013 resulted in a reduction in revenues deposited into the fund.
 
-(Mar. 16, 1934, ch. 71, § 2, 48 Stat. 451; June 15, 1935, ch. 261, title I, § 2, 49 Stat. 379; Aug. 12, 1949, ch. 421, § 1, 63 Stat. 599; July 30, 1956, ch. 782, §§ 2, 3(c), formerly § 3(b), 70 Stat. 722, renumbered Pub. L. 109–266, § 10(i)(1), Aug. 3, 2006, 120 Stat. 679; Pub. L. 85–585, § 1, Aug. 1, 1958, 72 Stat. 486; Pub. L. 92–214, §§ 1, 2, Dec. 22, 1971, 85 Stat. 777; Pub. L. 94–215, § 3(b), (c), Feb. 17, 1976, 90 Stat. 189; Pub. L. 94–273, § 34, Apr. 21, 1976, 90 Stat. 380; Pub. L. 95–552, § 1, Oct. 30, 1978, 92 Stat. 2071; Pub. L. 95–616, § 7(a), Nov. 8, 1978, 92 Stat. 3114; Pub. L. 99–625, § 3, Nov. 7, 1986, 100 Stat. 3502; Pub. L. 99–645, title II, § 202, Nov. 10, 1986, 100 Stat. 3586; Pub. L. 109–266, § 10(b), (c), Aug. 3, 2006, 120 Stat. 674, 675; Pub. L. 113–264, § 2(1), (2), Dec. 18, 2014, 128 Stat. 2939.)
+(Mar. 16, 1934, ch. 71, § 2, 48 Stat. 451; June 15, 1935, ch. 261, title I, § 2, 49 Stat. 379; Aug. 12, 1949, ch. 421, § 1, 63 Stat. 599; July 30, 1956, ch. 782, §§ 2, 3(c), formerly § 3(b), 70 Stat. 722, renumbered Pub. L. 109–266, § 10(i)(1), Aug. 3, 2006, 120 Stat. 679; Pub. L. 85–585, § 1, Aug. 1, 1958, 72 Stat. 486; Pub. L. 92–214, §§ 1, 2, Dec. 22, 1971, 85 Stat. 777; Pub. L. 94–215, § 3(b), (c), Feb. 17, 1976, 90 Stat. 189; Pub. L. 94–273, § 34, Apr. 21, 1976, 90 Stat. 380; Pub. L. 95–552, § 1, Oct. 30, 1978, 92 Stat. 2071; Pub. L. 95–616, § 7(a), Nov. 8, 1978, 92 Stat. 3114; Pub. L. 99–625, § 3, Nov. 7, 1986, 100 Stat. 3502; Pub. L. 99–645, title II, § 202, Nov. 10, 1986, 100 Stat. 3586; Pub. L. 109–266, § 10(b), (c), Aug. 3, 2006, 120 Stat. 674, 675; Pub. L. 113–264, § 2(1), (2), Dec. 18, 2014, 128 Stat. 2939.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (b). Pub. L. 113–264, § 2(1), substituted “1990, $15.00 for hunting years 1991 through 2013, and $25 for each hunting year thereafter” for “1990, and $15.00 for each hunting year thereafter”.
+2014—Subsec. (b). Pub. L. 113–264, § 2(1), substituted “1990, $15.00 for hunting years 1991 through 2013, and $25 for each hunting year thereafter” for “1990, and $15.00 for each hunting year thereafter”.
 
-Subsec. (c). Pub. L. 113–264, § 2(2), added subsec. (c).
+Subsec. (c). Pub. L. 113–264, § 2(2), added subsec. (c).
 
-2006—Pub. L. 109–266, § 10(b), inserted section catchline.
+2006—Pub. L. 109–266, § 10(b), inserted section catchline.
 
-Subsec. (a). Pub. L. 109–266, § 10(b), added subsec. (a) and struck out former subsec. (a) which related to issuance and sale of stamps, fund disposition, and unsold stamps.
+Subsec. (a). Pub. L. 109–266, § 10(b), added subsec. (a) and struck out former subsec. (a) which related to issuance and sale of stamps, fund disposition, and unsold stamps.
 
-Subsec. (b). Pub. L. 109–266, § 10(c)(4), which directed amendment of par. (2) by striking “For purposes” and all that follows through “of any such year.”, was executed by striking “For purposes of this section, the term ‘hunting year’ means the 12-month period beginning on July 1 of any such year.” at the end of the concluding provisions following par. (2), to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 109–266, § 10(c)(4), which directed amendment of par. (2) by striking “For purposes” and all that follows through “of any such year.”, was executed by striking “For purposes of this section, the term ‘hunting year’ means the 12-month period beginning on July 1 of any such year.” at the end of the concluding provisions following par. (2), to reflect the probable intent of Congress.
 
-Pub. L. 109–266, § 10(c)(1)–(3), inserted heading and substituted “Secretary” for “Secretary of the Interior” and “Migratory Bird Conservation Fund” for “migratory bird conservation fund” in introductory provisions.
+Pub. L. 109–266, § 10(c)(1)–(3), inserted heading and substituted “Secretary” for “Secretary of the Interior” and “Migratory Bird Conservation Fund” for “migratory bird conservation fund” in introductory provisions.
 
-1986—Subsec. (b). Pub. L. 99–645, § 202(1), (2), in introductory provisions, substituted “$10.00 for each stamp sold under the provisions of this section for hunting years 1987 and 1988, $12.50 for hunting years 1989 and 1990, and $15.00 for each hunting year thereafter, if” for “$7.50 for each stamp sold under the provisions of this section for any hunting year if”.
+1986—Subsec. (b). Pub. L. 99–645, § 202(1), (2), in introductory provisions, substituted “$10.00 for each stamp sold under the provisions of this section for hunting years 1987 and 1988, $12.50 for hunting years 1989 and 1990, and $15.00 for each hunting year thereafter, if” for “$7.50 for each stamp sold under the provisions of this section for any hunting year if”.
 
-Pub. L. 99–625 and Pub. L. 99–645, § 202(3), amended subsec. (b) identically, inserting “available for obligation” before “attributable to”.
+Pub. L. 99–625 and Pub. L. 99–645, § 202(3), amended subsec. (b) identically, inserting “available for obligation” before “attributable to”.
 
 1978—Subsec. (a). Pub. L. 95–616 substituted “June” for “September” in sixth sentence.
 
-Pub. L. 95–552, § 1(1), (2), designated existing provisions as subsec. (a), inserted in third sentence introductory text “Except as provided in subsection (b) of this section,” and “for any hunting year” before “there shall be collected”.
+Pub. L. 95–552, § 1(1), (2), designated existing provisions as subsec. (a), inserted in third sentence introductory text “Except as provided in subsection (b) of this section,” and “for any hunting year” before “there shall be collected”.
 
-Subsec. (b). Pub. L. 95–552, § 1(3), added subsec. (b).
+Subsec. (b). Pub. L. 95–552, § 1(3), added subsec. (b).
 
 1976—Pub. L. 94–273 substituted “the year” for “the fiscal year” and “each year” for “each fiscal year”.
 
@@ -1571,9 +1571,9 @@ Pub. L. 94–215 authorized sale of stamps by the Department of the Interior, su
 
 1958—Pub. L. 85–585 increased cost of stamp from $2 to $3.
 
-1956—Act July 30, 1956, § 2, struck out in existing next to last sentence requirement that stamps remaining unsold by the Post Office Department subsequent to becoming void after the 30th day of June next succeeding issuance be destroyed, substituted provisions in existing last sentence relating to redemption of blocks of unused stamps sold on consignment to retail dealers for resale to their customers, for provisions prohibiting the redemption by the Department in cash or kind of stamps sold under this Act, and inserted sentence defining “retail dealers”. For further amendment of next to last sentence of this section, see section 3(c) of act July 30, 1956, set out below.
+1956—Act July 30, 1956, § 2, struck out in existing next to last sentence requirement that stamps remaining unsold by the Post Office Department subsequent to becoming void after the 30th day of June next succeeding issuance be destroyed, substituted provisions in existing last sentence relating to redemption of blocks of unused stamps sold on consignment to retail dealers for resale to their customers, for provisions prohibiting the redemption by the Department in cash or kind of stamps sold under this Act, and inserted sentence defining “retail dealers”. For further amendment of next to last sentence of this section, see section 3(c) of act July 30, 1956, set out below.
 
-Act July 30, 1956, § 3(c), formerly § 3(b), as renumbered by Pub. L. 109–266, § 10(i)(1), substituted provisions in fourth sentence authorizing use as migratory-bird stamps only during fiscal year for which issued, for provisions requiring stamps to expire and be void after the 30th day of June next succeeding issuance. Amendment of fourth sentence by section 3(c) further amends amendments made to next to last sentence by section 2 of act July 30, 1956, as set out above.
+Act July 30, 1956, § 3(c), formerly § 3(b), as renumbered by Pub. L. 109–266, § 10(i)(1), substituted provisions in fourth sentence authorizing use as migratory-bird stamps only during fiscal year for which issued, for provisions requiring stamps to expire and be void after the 30th day of June next succeeding issuance. Amendment of fourth sentence by section 3(c) further amends amendments made to next to last sentence by section 2 of act July 30, 1956, as set out above.
 
 1949—Act Aug. 12, 1949, increased cost of stamp from $1 to $2.
 
@@ -1583,13 +1583,13 @@ Act July 30, 1956, § 3(c), formerly § 3(b), as renumbered by Pub. L. 109�
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–585, § 4, Aug. 1, 1958, 72 Stat. 487, provided that: “The amendment made by the first section of this Act [amending this section] shall become effective on July 1, 1959. The amendment made by section 2 of this Act [amending section 718d of this title] making available the net proceeds of all moneys received in the migratory bird conservation fund for the location, ascertainment, and acquisition of Waterfowl Production Areas and suitable areas for migratory bird refuges shall become effective on July 1, 1960. The remaining amendments made by this Act [amending section 718d of this title] shall become effective on the date of the enactment of this Act [Aug. 1, 1958]. Any unobligated balance remaining in the migratory bird conservation fund on June 30, 1960, shall thereafter be available for expenditure only for the purposes specified in the Migratory Bird Hunting Stamp Act [now Migratory Bird Hunting and Conservation Stamp Act] of March 16, 1934 [this subchapter], as amended by this Act.”
+Pub. L. 85–585, § 4, Aug. 1, 1958, 72 Stat. 487, provided that: “The amendment made by the first section of this Act [amending this section] shall become effective on July 1, 1959. The amendment made by section 2 of this Act [amending section 718d of this title] making available the net proceeds of all moneys received in the migratory bird conservation fund for the location, ascertainment, and acquisition of Waterfowl Production Areas and suitable areas for migratory bird refuges shall become effective on July 1, 1960. The remaining amendments made by this Act [amending section 718d of this title] shall become effective on the date of the enactment of this Act [Aug. 1, 1958]. Any unobligated balance remaining in the migratory bird conservation fund on June 30, 1960, shall thereafter be available for expenditure only for the purposes specified in the Migratory Bird Hunting Stamp Act [now Migratory Bird Hunting and Conservation Stamp Act] of March 16, 1934 [this subchapter], as amended by this Act.”
 
 **Spending of Stamp Money**
 
-Act Aug. 12, 1949, ch. 421, § 1, 63 Stat. 599, provided in part: “That the moneys derived from the sale of such stamps shall be spent only upon specific appropriation by the Congress.”
+Act Aug. 12, 1949, ch. 421, § 1, 63 Stat. 599, provided in part: “That the moneys derived from the sale of such stamps shall be spent only upon specific appropriation by the Congress.”
 
-### § 718b–1. Disposition of unsold stamps
+### § 718b–1. Disposition of unsold stamps
 
 **(a) Disposition of unsold stamps** A Migratory Bird Hunting and Conservation Stamp shall be transferred to the Postal Service or the Secretary of the Interior (or a designee) for sale to a collector if the stamp—
 
@@ -1605,7 +1605,7 @@ Act Aug. 12, 1949, ch. 421, § 1, 63 Stat. 599, provided in part: “That the 
 
 The Postal Service or the Secretary of the Interior may destroy any surplus stock of Migratory Bird Hunting and Conservation Stamps at such time and in such manner as the Postal Service or the Secretary of the Interior determines to be appropriate.
 
-(July 30, 1956, ch. 782, § 3(a), (b), formerly § 3(a), 70 Stat. 722; Pub. L. 92–214, § 3, Dec. 22, 1971, 85 Stat. 777; renumbered § 3(a), (b) and amended Pub. L. 109–266, § 10(i)(2), Aug. 3, 2006, 120 Stat. 679.)
+(July 30, 1956, ch. 782, § 3(a), (b), formerly § 3(a), 70 Stat. 722; Pub. L. 92–214, § 3, Dec. 22, 1971, 85 Stat. 777; renumbered § 3(a), (b) and amended Pub. L. 109–266, § 10(i)(2), Aug. 3, 2006, 120 Stat. 679.)
 
 **Editorial Notes**
 
@@ -1623,11 +1623,11 @@ A prior section 3(b) of act July 30, 1956, ch. 782, 70 Stat. 722, amended sectio
 
 1971—Pub. L. 92–214 substituted “Postal Service” for “Postmaster General”.
 
-### § 718c. Authorization and exemption
+### § 718c. Authorization and exemption
 
 Nothing in this subchapter shall be construed to authorize any person to take any migratory waterfowl otherwise than in accordance with regulations adopted and approved pursuant to any treaty or convention heretofore or hereafter entered into between the United States and any other country for the protection of migratory birds, nor to exempt any person from complying with the game laws of the several States.
 
-(Mar. 16, 1934, ch. 71, § 3, 48 Stat. 451; Pub. L. 95–616, § 7(b), Nov. 8, 1978, 92 Stat. 3114; Pub. L. 109–266, § 10(d), Aug. 3, 2006, 120 Stat. 675.)
+(Mar. 16, 1934, ch. 71, § 3, 48 Stat. 451; Pub. L. 95–616, § 7(b), Nov. 8, 1978, 92 Stat. 3114; Pub. L. 109–266, § 10(d), Aug. 3, 2006, 120 Stat. 675.)
 
 **Editorial Notes**
 
@@ -1637,7 +1637,7 @@ Nothing in this subchapter shall be construed to authorize any person to take an
 
 1978—Pub. L. 95–616 inserted “or convention” after “treaty”.
 
-### § 718d. Expenditure of funds
+### § 718d. Expenditure of funds
 
 **(a) In general** All funds received for stamps sold under this subchapter shall be—
 
@@ -1689,45 +1689,45 @@ The Secretary may use funds from the sale of Migratory Bird Hunting and Conserva
 
 **(5)** a separate report on the hunting and fishing status of those lands added to the system in the year covered by the report.
 
-(Mar. 16, 1934, ch. 71, § 4, 48 Stat. 451; June 15, 1935, ch. 261, title I, §§ 3, 4, 49 Stat. 379, 380; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Aug. 12, 1949, ch. 421, § 2, 63 Stat. 600; Oct. 20, 1951, ch. 520, 65 Stat. 451; Pub. L. 85–585, §§ 2, 3, Aug. 1, 1958, 72 Stat. 486, 487; Pub. L. 89–669, § 6, Oct. 15, 1966, 80 Stat. 929; Pub. L. 92–214, § 2, Dec. 22, 1971, 85 Stat. 777; Pub. L. 94–215, § 3(d), Feb. 17, 1976, 90 Stat. 190; Pub. L. 105–269, § 2, Oct. 19, 1998, 112 Stat. 2381; Pub. L. 109–266, § 10(e), Aug. 3, 2006, 120 Stat. 676; Pub. L. 113–264, §§ 2(3), 3, Dec. 18, 2014, 128 Stat. 2939, 2940.)
+(Mar. 16, 1934, ch. 71, § 4, 48 Stat. 451; June 15, 1935, ch. 261, title I, §§ 3, 4, 49 Stat. 379, 380; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Aug. 12, 1949, ch. 421, § 2, 63 Stat. 600; Oct. 20, 1951, ch. 520, 65 Stat. 451; Pub. L. 85–585, §§ 2, 3, Aug. 1, 1958, 72 Stat. 486, 487; Pub. L. 89–669, § 6, Oct. 15, 1966, 80 Stat. 929; Pub. L. 92–214, § 2, Dec. 22, 1971, 85 Stat. 777; Pub. L. 94–215, § 3(d), Feb. 17, 1976, 90 Stat. 190; Pub. L. 105–269, § 2, Oct. 19, 1998, 112 Stat. 2381; Pub. L. 109–266, § 10(e), Aug. 3, 2006, 120 Stat. 676; Pub. L. 113–264, §§ 2(3), 3, Dec. 18, 2014, 128 Stat. 2939, 2940.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Migratory Bird Conservation Act, referred to in subsec. (b)(2), (3), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
+The Migratory Bird Conservation Act, referred to in subsec. (b)(2), (3), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
 **Amendments**
 
-2014—Subsec. (a)(3). Pub. L. 113–264, § 2(3)(A), inserted before period at end “, in which there shall be a subaccount to which the Secretary of the Treasury shall transfer all amounts in excess of $15 that are received from the sale of each stamp sold for each hunting year after hunting year 2013”.
+2014—Subsec. (a)(3). Pub. L. 113–264, § 2(3)(A), inserted before period at end “, in which there shall be a subaccount to which the Secretary of the Treasury shall transfer all amounts in excess of $15 that are received from the sale of each stamp sold for each hunting year after hunting year 2013”.
 
-Subsec. (b)(1). Pub. L. 113–264, § 2(3)(B), substituted “Except as provided in paragraph (4), so much” for “So much”.
+Subsec. (b)(1). Pub. L. 113–264, § 2(3)(B), substituted “Except as provided in paragraph (4), so much” for “So much”.
 
-Subsec. (b)(2). Pub. L. 113–264, § 2(3)(C), substituted “paragraphs (3) and (4)” for “paragraph (3)”.
+Subsec. (b)(2). Pub. L. 113–264, § 2(3)(C), substituted “paragraphs (3) and (4)” for “paragraph (3)”.
 
-Subsec. (b)(4). Pub. L. 113–264, § 2(3)(D), added par. (4).
+Subsec. (b)(4). Pub. L. 113–264, § 2(3)(D), added par. (4).
 
-Subsec. (c). Pub. L. 113–264, § 3(1), struck out par. (1) designation and heading and par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary shall include in each annual report of the Commission under section 715b of this title a description of activities conducted under this subsection in the year covered by the report.”
+Subsec. (c). Pub. L. 113–264, § 3(1), struck out par. (1) designation and heading and par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary shall include in each annual report of the Commission under section 715b of this title a description of activities conducted under this subsection in the year covered by the report.”
 
-Subsec. (d). Pub. L. 113–264, § 3(2), added subsec. (d).
+Subsec. (d). Pub. L. 113–264, § 3(2), added subsec. (d).
 
-2006—Pub. L. 109–266, § 10(e)(1), (2), inserted section catchline, substituted subsec. (a) for introductory provisions which read “All moneys received for such stamps shall be accounted for by the Postal Service or the Department of the Interior, whichever is appropriate, and paid into the Treasury of the United States, and shall be reserved and set aside as a special fund to be known as the migratory bird conservation fund, to be administered by the Secretary of the Interior. All moneys received into such fund are appropriated for the following objects and shall be available therefor until expended:”, inserted subsec. (b) designation, heading, and introductory provisions, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, of subsec. (b), and realigned margins.
+2006—Pub. L. 109–266, § 10(e)(1), (2), inserted section catchline, substituted subsec. (a) for introductory provisions which read “All moneys received for such stamps shall be accounted for by the Postal Service or the Department of the Interior, whichever is appropriate, and paid into the Treasury of the United States, and shall be reserved and set aside as a special fund to be known as the migratory bird conservation fund, to be administered by the Secretary of the Interior. All moneys received into such fund are appropriated for the following objects and shall be available therefor until expended:”, inserted subsec. (b) designation, heading, and introductory provisions, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, of subsec. (b), and realigned margins.
 
-Subsec. (b)(1). Pub. L. 109–266, § 10(e)(3), inserted heading and substituted “So much as may be necessary shall be used by the Secretary for engraving” for “So much as may be necessary shall be used by the Secretary of the Interior to make advance allotments to the Postal Service at such times and in such amounts as may be mutually agreed upon by the Secretary of the Interior and the Postal Service for direct expenditure by the Postal Service for engraving”, “Migratory Bird Hunting and Conservation Stamps” for “migratory bird hunting stamps”, “personnel” for “personal”, and “Postal Service” for “postal service”.
+Subsec. (b)(1). Pub. L. 109–266, § 10(e)(3), inserted heading and substituted “So much as may be necessary shall be used by the Secretary for engraving” for “So much as may be necessary shall be used by the Secretary of the Interior to make advance allotments to the Postal Service at such times and in such amounts as may be mutually agreed upon by the Secretary of the Interior and the Postal Service for direct expenditure by the Postal Service for engraving”, “Migratory Bird Hunting and Conservation Stamps” for “migratory bird hunting stamps”, “personnel” for “personal”, and “Postal Service” for “postal service”.
 
-Subsec. (b)(2). Pub. L. 109–266, § 10(e)(4)(B), inserted “(16 U.S.C. 715 et seq.)” after “Migratory Bird Conservation Act”.
+Subsec. (b)(2). Pub. L. 109–266, § 10(e)(4)(B), inserted “(16 U.S.C. 715 et seq.)” after “Migratory Bird Conservation Act”.
 
-Pub. L. 109–266, § 10(e)(4)(A), which directed amendment of par. (2) by substituting heading “Areas for refuges” and text “Except as provided in paragraph (3) and subsection (c)” for “Except as provided in subsections (c) and (d) of this section”, was executed by making the substitution for “Except as authorized in subsections (c) and (d) of this section” to reflect the probable intent of Congress.
+Pub. L. 109–266, § 10(e)(4)(A), which directed amendment of par. (2) by substituting heading “Areas for refuges” and text “Except as provided in paragraph (3) and subsection (c)” for “Except as provided in subsections (c) and (d) of this section”, was executed by making the substitution for “Except as authorized in subsections (c) and (d) of this section” to reflect the probable intent of Congress.
 
-Subsec. (b)(3). Pub. L. 109–266, § 10(e)(5), inserted heading, inserted “(16 U.S.C. 715 et seq.)” after “Migratory Bird Conservation Act”, and substituted “The Secretary may use funds made available under paragraph (2) for the purposes of that paragraph, and such other funds as may be appropriated for the purposes of that paragraph or this paragraph,” for “The Secretary of the Interior is authorized to utilize funds made available under subsection (b) of this section for the purposes of such subsection, and such other funds as may be appropriated for the purposes of such subsection, or of this subsection,” and “pursuant to this paragraph” for “pursuant to this subsection”.
+Subsec. (b)(3). Pub. L. 109–266, § 10(e)(5), inserted heading, inserted “(16 U.S.C. 715 et seq.)” after “Migratory Bird Conservation Act”, and substituted “The Secretary may use funds made available under paragraph (2) for the purposes of that paragraph, and such other funds as may be appropriated for the purposes of that paragraph or this paragraph,” for “The Secretary of the Interior is authorized to utilize funds made available under subsection (b) of this section for the purposes of such subsection, and such other funds as may be appropriated for the purposes of such subsection, or of this subsection,” and “pursuant to this paragraph” for “pursuant to this subsection”.
 
-Subsec. (c). Pub. L. 109–266, § 10(e)(6), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b)(3).
+Subsec. (c). Pub. L. 109–266, § 10(e)(6), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b)(3).
 
-Subsec. (c)(1). Pub. L. 109–266, § 10(e)(7)(A), inserted heading and substituted “The Secretary may use” for “The Secretary of the Interior may utilize” and “Migratory Bird Hunting and Conservation Stamps” for “migratory bird hunting and conservation stamps”.
+Subsec. (c)(1). Pub. L. 109–266, § 10(e)(7)(A), inserted heading and substituted “The Secretary may use” for “The Secretary of the Interior may utilize” and “Migratory Bird Hunting and Conservation Stamps” for “migratory bird hunting and conservation stamps”.
 
-Subsec. (c)(2). Pub. L. 109–266, § 10(e)(7)(B), inserted heading and substituted “The Secretary” for “The Secretary of the Interior”.
+Subsec. (c)(2). Pub. L. 109–266, § 10(e)(7)(B), inserted heading and substituted “The Secretary” for “The Secretary of the Interior”.
 
-Subsec. (d). Pub. L. 109–266, § 10(e)(6), redesignated subsec. (d) as (c).
+Subsec. (d). Pub. L. 109–266, § 10(e)(6), redesignated subsec. (d) as (c).
 
 1998—Subsecs. (b), (d). Pub. L. 105–269 substituted “subsections (c) and (d)” for “subsection (c)” in subsec. (b) and added subsec. (d).
 
@@ -1761,7 +1761,7 @@ For effective date of amendment by Pub. L. 85–585, see section 4 of Pub. L. 85
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 718a of this title.
 
-### § 718e. Loans and transfers, alteration, and reproduction of stamps
+### § 718e. Loans and transfers, alteration, and reproduction of stamps
 
 **(a) In general**
 
@@ -1769,9 +1769,9 @@ No person to whom has been sold a Migratory Bird Hunting and Conservation Stamp,
 
 **(b) Alteration**
 
-Except as provided in clauses (i) and (ii) of section 504(*l*)(D) 1
+Except as provided in clauses (i) and (ii) of section 504(*l*)(D) 1
 
-<sup>1</sup>  So in original. Probably should be “504(1)(D)”.
+<sup>1</sup> So in original. Probably should be “504(1)(D)”.
 
 of title 18, no person shall alter, mutilate, imitate, or counterfeit any stamp authorized by this subchapter, or imitate or counterfeit any die, plate, or engraving therefor, or make, print, or knowingly use, sell, or have in his possession any such counterfeit, die, plate, or engraving.
 
@@ -1783,27 +1783,27 @@ of title 18, no person shall alter, mutilate, imitate, or counterfeit any stamp 
 
 of Migratory Bird Hunting and Conservation Stamps authorized by sections 718 to 718b, 718c, 718d, and 718f to 718h of this title, which otherwise satisfies the requirements of clauses (ii) and (iii) of section 504(1) of title 18. Any such reproduction shall be subject to those terms and conditions deemed necessary by the Secretary by regulation or otherwise and any proceeds received by the Federal Government as a result of such reproduction shall be paid, after deducting expenses for marketing, into the Migratory Bird Conservation Fund established under section 718d of this title.
 
-(Mar. 16, 1934, ch. 71, § 5, 48 Stat. 452; June 15, 1935, ch. 261, title I, § 5, 49 Stat. 380; Pub. L. 98–369, div. A, title X, § 1077(a), (b)(3), July 18, 1984, 98 Stat. 1054, 1055; Pub. L. 100–653, title III, § 302, Nov. 14, 1988, 102 Stat. 3827; Pub. L. 109–266, § 10(f), Aug. 3, 2006, 120 Stat. 677.)
+(Mar. 16, 1934, ch. 71, § 5, 48 Stat. 452; June 15, 1935, ch. 261, title I, § 5, 49 Stat. 380; Pub. L. 98–369, div. A, title X, § 1077(a), (b)(3), July 18, 1984, 98 Stat. 1054, 1055; Pub. L. 100–653, title III, § 302, Nov. 14, 1988, 102 Stat. 3827; Pub. L. 109–266, § 10(f), Aug. 3, 2006, 120 Stat. 677.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Pub. L. 109–266, § 10(f)(1), inserted section catchline.
+2006—Pub. L. 109–266, § 10(f)(1), inserted section catchline.
 
-Subsec. (a). Pub. L. 109–266, § 10(f)(1), inserted heading and substituted “Migratory Bird Hunting and Conservation Stamp” for “migratory-bird hunting stamp” in text.
+Subsec. (a). Pub. L. 109–266, § 10(f)(1), inserted heading and substituted “Migratory Bird Hunting and Conservation Stamp” for “migratory-bird hunting stamp” in text.
 
-Subsec. (b). Pub. L. 109–266, § 10(f)(2), inserted heading and substituted “Except as provided in clauses (i) and (ii) of section 504(*l*)(D) of title 18, no person shall alter” for “Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no person shall alter” in text.
+Subsec. (b). Pub. L. 109–266, § 10(f)(2), inserted heading and substituted “Except as provided in clauses (i) and (ii) of section 504(*l*)(D) of title 18, no person shall alter” for “Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no person shall alter” in text.
 
-Subsec. (c). Pub. L. 109–266, § 10(f)(3)(C)(ii), which directed substitution of “shall be paid, after deducting expenses for marketing, into the Migratory Bird Conservation Fund” for “shall be paid into the migratory bird conservation fund” in concluding provisions, was executed by making the substitution for “shall be paid, after deducting expenses for marketing, into the migratory bird conservation fund” to reflect the probable intent of Congress.
+Subsec. (c). Pub. L. 109–266, § 10(f)(3)(C)(ii), which directed substitution of “shall be paid, after deducting expenses for marketing, into the Migratory Bird Conservation Fund” for “shall be paid into the migratory bird conservation fund” in concluding provisions, was executed by making the substitution for “shall be paid, after deducting expenses for marketing, into the migratory bird conservation fund” to reflect the probable intent of Congress.
 
-Pub. L. 109–266, § 10(f)(3)(A), (B), (C)(i), inserted heading, substituted “Secretary may” for “Secretary of the Interior may” in introductory provisions, and substituted “Secretary” for “Secretary of the Interior” and “Migratory Bird Hunting and Conservation Stamps” for “migratory bird hunting stamps” in concluding provisions.
+Pub. L. 109–266, § 10(f)(3)(A), (B), (C)(i), inserted heading, substituted “Secretary may” for “Secretary of the Interior may” in introductory provisions, and substituted “Secretary” for “Secretary of the Interior” and “Migratory Bird Hunting and Conservation Stamps” for “migratory bird hunting stamps” in concluding provisions.
 
-1988—Subsec. (c). Pub. L. 100–653 inserted “, after deducting expenses for marketing,” after “paid”.
+1988—Subsec. (c). Pub. L. 100–653 inserted “, after deducting expenses for marketing,” after “paid”.
 
-1984—Subsec. (b). Pub. L. 98–369, § 1077(b)(3), substituted “Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no person” for “No person”.
+1984—Subsec. (b). Pub. L. 98–369, § 1077(b)(3), substituted “Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no person” for “No person”.
 
-Subsec. (c). Pub. L. 98–369, § 1077(a), added subsec. (c).
+Subsec. (c). Pub. L. 98–369, § 1077(a), added subsec. (c).
 
 1935—Act June 15, 1935, amended section generally.
 
@@ -1811,19 +1811,19 @@ Subsec. (c). Pub. L. 98–369, § 1077(a), added subsec. (c).
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title X, § 1077(c), July 18, 1984, 98 Stat. 1055, provided that: “The amendments made by this section [amending this section and section 504 of Title 18, Crimes and Criminal Procedure] shall take effect on the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title X, § 1077(c), July 18, 1984, 98 Stat. 1055, provided that: “The amendments made by this section [amending this section and section 504 of Title 18, Crimes and Criminal Procedure] shall take effect on the date of the enactment of this Act [July 18, 1984].”
 
-### § 718f. Enforcement
+### § 718f. Enforcement
 
 For the efficient execution of this subchapter, the judges of the several courts, established under the laws of the United States, United States magistrate judges, and persons appointed by the Secretary to enforce the provisions of this subchapter, shall have, with respect thereto, like powers and duties as are conferred upon said judges, magistrate judges, and employees of the Department of the Interior by the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.), or any other Act to carry into effect any treaty for the protection of migratory birds with respect to that Act. Any bird or part thereof taken or possessed contrary to this subchapter shall, when seized, be disposed of by the Secretary in accordance with law.
 
-(Mar. 16, 1934, ch. 71, § 6, 48 Stat. 452; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 95–616, § 3(i), Nov. 8, 1978, 92 Stat. 3112; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 109–266, § 10(g), Aug. 3, 2006, 120 Stat. 677.)
+(Mar. 16, 1934, ch. 71, § 6, 48 Stat. 452; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 95–616, § 3(i), Nov. 8, 1978, 92 Stat. 3112; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 109–266, § 10(g), Aug. 3, 2006, 120 Stat. 677.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Migratory Bird Treaty Act, and “that Act”, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
+The Migratory Bird Treaty Act, and “that Act”, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
 **Amendments**
 
@@ -1835,33 +1835,33 @@ The Migratory Bird Treaty Act, and “that Act”, referred to in text, is act J
 
 **Change of Name**
 
-“United States magistrate judges” and “magistrate judges” substituted for “United States magistrates” and “magistrates”, respectively, in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrates” substituted in text for “commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+“United States magistrate judges” and “magistrate judges” substituted for “United States magistrates” and “magistrates”, respectively, in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrates” substituted in text for “commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
-### § 718g. Violations
+### § 718g. Violations
 
 Any person that violates or fails to comply with any provision of this subchapter (including a regulation promulgated under this subchapter) shall be subject to the penalties described in section 707 of this title.
 
-(Mar. 16, 1934, ch. 71, § 7, as added Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 678.)
+(Mar. 16, 1934, ch. 71, § 7, as added Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 678.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 718g, act Mar. 16, 1934, ch. 71, § 7, 48 Stat. 452, related to penalties prior to repeal by Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 677.
+A prior section 718g, act Mar. 16, 1934, ch. 71, § 7, 48 Stat. 452, related to penalties prior to repeal by Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 677.
 
-### § 718h. Cooperation
+### § 718h. Cooperation
 
 The Secretary is authorized to cooperate with the States and the territories and possessions of the United States in the enforcement of this subchapter.
 
-(Mar. 16, 1934, ch. 71, § 8, as added Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 678.)
+(Mar. 16, 1934, ch. 71, § 8, as added Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 678.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 718h, act Mar. 16, 1934, ch. 71, § 8, 48 Stat. 452; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, related to cooperation with States and Territories prior to repeal by Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 677.
+A prior section 718h, act Mar. 16, 1934, ch. 71, § 8, 48 Stat. 452; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, related to cooperation with States and Territories prior to repeal by Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 677.
 
-### § 718i. Use of contest fees
+### § 718i. Use of contest fees
 
 Notwithstanding any other provision of law, funds received by the United States Fish and Wildlife Service in the form of fees for entering any Migratory Bird Hunting and Conservation Stamp contest shall be credited—
 
@@ -1869,17 +1869,17 @@ Notwithstanding any other provision of law, funds received by the United States 
 
 **(2)** second, to the extent any funds remain, to the Migratory Bird Conservation Fund.
 
-(Mar. 16, 1934, ch. 71, § 9, as added Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 678.)
+(Mar. 16, 1934, ch. 71, § 9, as added Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 678.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 9 of act Mar. 16, 1934, was classified to section 718 of this title prior to repeal by Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 677.
+A prior section 9 of act Mar. 16, 1934, was classified to section 718 of this title prior to repeal by Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 677.
 
-A prior section 718i, act June 28, 1941, ch. 259, § 1, 55 Stat. 356, related to disposal of surplus stamps and restricted use of stamps to the fiscal year for which issued prior to repeal by act July 30, 1956, ch. 782, § 3(d), formerly § 3(c), 70 Stat. 722, renumbered Pub. L. 109–266, § 10(i)(1), Aug. 3, 2006, 120 Stat. 679.
+A prior section 718i, act June 28, 1941, ch. 259, § 1, 55 Stat. 356, related to disposal of surplus stamps and restricted use of stamps to the fiscal year for which issued prior to repeal by act July 30, 1956, ch. 782, § 3(d), formerly § 3(c), 70 Stat. 722, renumbered Pub. L. 109–266, § 10(i)(1), Aug. 3, 2006, 120 Stat. 679.
 
-### § 718j. Definitions
+### § 718j. Definitions
 
 **(a) In general**
 
@@ -1927,29 +1927,29 @@ The term “Secretary” means the Secretary of the Interior.
 
 **(B)** to attempt to pursue, hunt, shoot, capture, collect, or kill.
 
-(Mar. 16, 1934, ch. 71, § 10, as added Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 678.)
+(Mar. 16, 1934, ch. 71, § 10, as added Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 678.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
+The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
-The Migratory Bird Treaty Act, referred to in subsec. (a), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
+The Migratory Bird Treaty Act, referred to in subsec. (a), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 718j, Mar. 16, 1934, ch. 71, § 10, as added Pub. L. 97–307, Oct. 14, 1982, 96 Stat. 1450, related to crediting of funds received as fees for entering migratory-bird hunting and conservation stamp contest prior to repeal by Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 677.
+A prior section 718j, Mar. 16, 1934, ch. 71, § 10, as added Pub. L. 97–307, Oct. 14, 1982, 96 Stat. 1450, related to crediting of funds received as fees for entering migratory-bird hunting and conservation stamp contest prior to repeal by Pub. L. 109–266, § 10(h), Aug. 3, 2006, 120 Stat. 677.
 
-### § 718k. Use of fees collected for Federal migratory bird permits
+### § 718k. Use of fees collected for Federal migratory bird permits
 
 On and after October 21, 1998, all fees collected for Federal migratory bird permits shall be available to the Secretary, without further appropriation, to be used for the expenses of the U.S. Fish and Wildlife Service in administering such Federal migratory bird permits, and shall remain available until expended.
 
-(Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–236.)
+(Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–236.)
 
 ## SUBCHAPTER IV–A—PERMANENT ELECTRONIC DUCK STAMP
 
-### § 718o. Definitions
+### § 718o. Definitions
 
 In this subchapter:
 
@@ -1985,31 +1985,31 @@ The term “automated licensing system” includes a point-of-sale, Internet, te
 
 The term “Secretary” means the Secretary of the Interior.
 
-(Pub. L. 113–239, § 2, Dec. 18, 2014, 128 Stat. 2847; Pub. L. 118–25, § 2(b), Dec. 19, 2023, 137 Stat. 129.)
+(Pub. L. 113–239, § 2, Dec. 18, 2014, 128 Stat. 2847; Pub. L. 118–25, § 2(b), Dec. 19, 2023, 137 Stat. 129.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Migratory Bird Hunting and Conservation Stamp Act, referred to in par. (1), is act Mar. 16, 1934, ch. 71, 48 Stat. 451, which is classified generally to subchapter IV (§ 718 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 718 of this title and Tables.
+The Migratory Bird Hunting and Conservation Stamp Act, referred to in par. (1), is act Mar. 16, 1934, ch. 71, 48 Stat. 451, which is classified generally to subchapter IV (§ 718 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 718 of this title and Tables.
 
 **Amendments**
 
-2023—Par. (1). Pub. L. 118–25, § 2(b)(1), substituted “Migratory Bird Hunting and Conservation Stamp required under the Migratory Bird Hunting and Conservation Stamp Act (16 U.S.C. 718a et seq.) that is printed” for “Federal migratory-bird hunting and conservation stamp required under the Act of March 16, 1934 (16 U.S.C. 718a et seq.) (popularly known as the ‘Duck Stamp Act’), that is printed”.
+2023—Par. (1). Pub. L. 118–25, § 2(b)(1), substituted “Migratory Bird Hunting and Conservation Stamp required under the Migratory Bird Hunting and Conservation Stamp Act (16 U.S.C. 718a et seq.) that is printed” for “Federal migratory-bird hunting and conservation stamp required under the Act of March 16, 1934 (16 U.S.C. 718a et seq.) (popularly known as the ‘Duck Stamp Act’), that is printed”.
 
-Par. (3)(F). Pub. L. 118–25, § 2(b)(2), added subpar. (F).
+Par. (3)(F). Pub. L. 118–25, § 2(b)(2), added subpar. (F).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2023 Amendment**
 
-Pub. L. 118–25, § 1, Dec. 19, 2023, 137 Stat. 129, provided that: “This Act [amending this section and sections 718a, 718r, and 718s of this title] may be cited as the ‘Duck Stamp Modernization Act of 2023’.”
+Pub. L. 118–25, § 1, Dec. 19, 2023, 137 Stat. 129, provided that: “This Act [amending this section and sections 718a, 718r, and 718s of this title] may be cited as the ‘Duck Stamp Modernization Act of 2023’.”
 
 **Short Title**
 
-Pub. L. 113–239, § 1, Dec. 18, 2014, 128 Stat. 2847, provided that: “This Act [enacting this subchapter] may be cited as the ‘Permanent Electronic Duck Stamp Act of 2013’.”
+Pub. L. 113–239, § 1, Dec. 18, 2014, 128 Stat. 2847, provided that: “This Act [enacting this subchapter] may be cited as the ‘Permanent Electronic Duck Stamp Act of 2013’.”
 
-### § 718p. Authority to issue electronic duck stamps
+### § 718p. Authority to issue electronic duck stamps
 
 **(a) In general**
 
@@ -2019,9 +2019,9 @@ The Secretary may authorize any State to issue electronic stamps in accordance w
 
 The Secretary shall implement this section in consultation with State management agencies.
 
-(Pub. L. 113–239, § 3, Dec. 18, 2014, 128 Stat. 2848.)
+(Pub. L. 113–239, § 3, Dec. 18, 2014, 128 Stat. 2848.)
 
-### § 718q. State application
+### § 718q. State application
 
 **(a) Approval of application required**
 
@@ -2051,9 +2051,9 @@ The Secretary may not authorize a State to issue electronic stamps under this su
 
 **(3)** criteria for approving applications.
 
-(Pub. L. 113–239, § 4, Dec. 18, 2014, 128 Stat. 2848.)
+(Pub. L. 113–239, § 4, Dec. 18, 2014, 128 Stat. 2848.)
 
-### § 718r. State obligations and authorities
+### § 718r. State obligations and authorities
 
 **(a) Delivery of electronic stamp** The Secretary shall require that each individual to whom a State sells an electronic stamp under this subchapter shall receive the electronic stamp—
 
@@ -2095,21 +2095,21 @@ The Secretary shall issue an actual stamp after March 10 of each year to each in
 
 A State may not require that an individual purchase a State hunting license as a condition of issuing an electronic stamp under this subchapter.
 
-(Pub. L. 113–239, § 5, Dec. 18, 2014, 128 Stat. 2848; Pub. L. 118–25, § 2(a), Dec. 19, 2023, 137 Stat. 129.)
+(Pub. L. 113–239, § 5, Dec. 18, 2014, 128 Stat. 2848; Pub. L. 118–25, § 2(a), Dec. 19, 2023, 137 Stat. 129.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (a). Pub. L. 118–25, § 2(a)(1)(A), (B), substituted “electronic stamp” for “actual stamp” in heading and “the electronic stamp” for “an actual stamp” in introductory provisions.
+2023—Subsec. (a). Pub. L. 118–25, § 2(a)(1)(A), (B), substituted “electronic stamp” for “actual stamp” in heading and “the electronic stamp” for “an actual stamp” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 118–25, § 2(a)(1)(C), added par. (1) and struck out former par. (1) which read as follows: “by not later than the date on which the electronic stamp expires under section 718s(c) of this title; and”.
+Subsec. (a)(1). Pub. L. 118–25, § 2(a)(1)(C), added par. (1) and struck out former par. (1) which read as follows: “by not later than the date on which the electronic stamp expires under section 718s(c) of this title; and”.
 
-Subsec. (c). Pub. L. 118–25, § 2(a)(2), substituted “actual stamps under subsection (e)” for “actual stamps”.
+Subsec. (c). Pub. L. 118–25, § 2(a)(2), substituted “actual stamps under subsection (e)” for “actual stamps”.
 
-Subsecs. (e), (f). Pub. L. 118–25, § 2(a)(3), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 118–25, § 2(a)(3), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-### § 718s. Electronic stamp requirements; recognition of electronic stamp
+### § 718s. Electronic stamp requirements; recognition of electronic stamp
 
 **(a) Stamp requirements** The Secretary shall require an electronic stamp issued by a State under this subchapter—
 
@@ -2129,17 +2129,17 @@ Subsecs. (e), (f). Pub. L. 118–25, § 2(a)(3), added subsec. (e) and redesig
 
 An electronic stamp issued by a State shall be valid through the first June 30 that occurs after the date of issuance of the electronic stamp by the State.
 
-(Pub. L. 113–239, § 6, Dec. 18, 2014, 128 Stat. 2849; Pub. L. 118–25, § 2(c), Dec. 19, 2023, 137 Stat. 130.)
+(Pub. L. 113–239, § 6, Dec. 18, 2014, 128 Stat. 2849; Pub. L. 118–25, § 2(c), Dec. 19, 2023, 137 Stat. 130.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (b). Pub. L. 118–25, § 2(c)(1), substituted “shall—” for “shall, during the effective period of the electronic stamp—” in introductory provisions.
+2023—Subsec. (b). Pub. L. 118–25, § 2(c)(1), substituted “shall—” for “shall, during the effective period of the electronic stamp—” in introductory provisions.
 
-Subsec. (c). Pub. L. 118–25, § 2(c)(2), substituted “through the first June 30 that occurs after the date of issuance of the electronic stamp by the State” for “for a period agreed to by the State and the Secretary, which shall not exceed 45 days”.
+Subsec. (c). Pub. L. 118–25, § 2(c)(2), substituted “through the first June 30 that occurs after the date of issuance of the electronic stamp by the State” for “for a period agreed to by the State and the Secretary, which shall not exceed 45 days”.
 
-### § 718t. Termination of State participation
+### § 718t. Termination of State participation
 
 The authority of a State to issue electronic stamps under this subchapter may be terminated—
 
@@ -2151,11 +2151,11 @@ The authority of a State to issue electronic stamps under this subchapter may be
 
 **(2)** by the State, by providing written notice to the Secretary by not later than the date that is 30 days before the termination date.
 
-(Pub. L. 113–239, § 7, Dec. 18, 2014, 128 Stat. 2849.)
+(Pub. L. 113–239, § 7, Dec. 18, 2014, 128 Stat. 2849.)
 
 ## SUBCHAPTER V—JUNIOR DUCK STAMP CONSERVATION AND DESIGN PROGRAM
 
-### § 719. Establishment of Program
+### § 719. Establishment of Program
 
 **(a) In general** The Secretary of the Interior (in this subchapter referred to as the “Secretary”) may carry out in accordance with this subchapter a program to be known as the “Junior Duck Stamp Conservation and Design Program” (in this subchapter referred to as the “Program”) to accomplish the goals of—
 
@@ -2181,7 +2181,7 @@ The Secretary shall take appropriate steps to seek to conduct the Program in all
 
 The Secretary shall annually submit a report to the Congress on the status of the Program in each of the States.
 
-(Pub. L. 103–340, § 2, Oct. 6, 1994, 108 Stat. 3119; Pub. L. 106–316, § 2(1), Oct. 19, 2000, 114 Stat. 1276.)
+(Pub. L. 103–340, § 2, Oct. 6, 1994, 108 Stat. 3119; Pub. L. 106–316, § 2(1), Oct. 19, 2000, 114 Stat. 1276.)
 
 **Editorial Notes**
 
@@ -2193,13 +2193,13 @@ The Secretary shall annually submit a report to the Congress on the status of th
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–166, § 1, Jan. 10, 2006, 119 Stat. 3576, provided that: “This Act [amending sections 719a and 719c of this title and provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title] may be cited as the ‘Junior Duck Stamp Reauthorization Amendments Act of 2005’.”
+Pub. L. 109–166, § 1, Jan. 10, 2006, 119 Stat. 3576, provided that: “This Act [amending sections 719a and 719c of this title and provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title] may be cited as the ‘Junior Duck Stamp Reauthorization Amendments Act of 2005’.”
 
 **Short Title**
 
-Pub. L. 103–340, § 1, Oct. 6, 1994, 108 Stat. 3119, provided that: “This Act [enacting this subchapter and provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title] may be cited as the ‘Junior Duck Stamp Conservation and Design Program Act of 1994’.”
+Pub. L. 103–340, § 1, Oct. 6, 1994, 108 Stat. 3119, provided that: “This Act [enacting this subchapter and provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title] may be cited as the ‘Junior Duck Stamp Conservation and Design Program Act of 1994’.”
 
-### § 719a. Junior Duck Stamp
+### § 719a. Junior Duck Stamp
 
 **(a) Competition** As part of the Program, the Secretary may annually conduct a competition to—
 
@@ -2215,9 +2215,9 @@ Pub. L. 103–340, § 1, Oct. 6, 1994, 108 Stat. 3119, provided that: “This 
 
 **(c) Use of proceeds** Amounts received under subsection (b)—
 
-**(1)**  1
+**(1)** 1
 
-<sup>1</sup>  So in original. Subsec. (c), as amended by Pub. L. 109–166, does not contain a par. (2).
+<sup>1</sup> So in original. Subsec. (c), as amended by Pub. L. 109–166, does not contain a par. (2).
 
 shall be available to the Secretary until expended, without further appropriations, solely for—
 
@@ -2241,11 +2241,11 @@ shall be available to the Secretary until expended, without further appropriatio
 
 **(F)** expenses for migratory bird reference materials or supplies awarded to schools that participate in the Program; and
 
-**(G)** expenses for marketing and educational materials developed to promote the Program; 2
+**(G)** expenses for marketing and educational materials developed to promote the Program; 2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
-(Pub. L. 103–340, § 3, Oct. 6, 1994, 108 Stat. 3119; Pub. L. 109–166, § 2, Jan. 10, 2006, 119 Stat. 3576.)
+(Pub. L. 103–340, § 3, Oct. 6, 1994, 108 Stat. 3119; Pub. L. 109–166, § 2, Jan. 10, 2006, 119 Stat. 3576.)
 
 **Editorial Notes**
 
@@ -2267,17 +2267,17 @@ shall be available to the Secretary until expended, without further appropriatio
 
 “(2) may not be used for administrative expenses of the Program.”
 
-### § 719b. Acceptance of gifts, devises, and bequests
+### § 719b. Acceptance of gifts, devises, and bequests
 
 The Secretary may accept and use any gift, devise, or bequest of personal property, or proceeds thereof, for the purpose of funding the activities described in section 719a(c)(1)(A) and (B) of this title.
 
-(Pub. L. 103–340, § 4, Oct. 6, 1994, 108 Stat. 3120.)
+(Pub. L. 103–340, § 4, Oct. 6, 1994, 108 Stat. 3120.)
 
-### § 719b–1. Definition of State
+### § 719b–1. Definition of State
 
 For the purposes of this subchapter, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the Virgin Islands, and any other territory or possession of the United States.
 
-(Pub. L. 103–340, § 5, as added Pub. L. 106–316, § 2(3), Oct. 19, 2000, 114 Stat. 1276.)
+(Pub. L. 103–340, § 5, as added Pub. L. 106–316, § 2(3), Oct. 19, 2000, 114 Stat. 1276.)
 
 **Editorial Notes**
 
@@ -2285,7 +2285,7 @@ For the purposes of this subchapter, the term “State” includes the District 
 
 A prior section 5 of Pub. L. 103–340 was renumbered section 6 and is classified to section 719c of this title.
 
-### § 719c. Authorization of appropriations
+### § 719c. Authorization of appropriations
 
 **(a) Authorization**
 
@@ -2297,7 +2297,7 @@ There are authorized to be appropriated to the Secretary for administrative expe
 
 **(2)** not more than $250,000 may be distributed to State and regional coordinators to implement competitions under the Program.
 
-(Pub. L. 103–340, § 6, formerly § 5, Oct. 6, 1994, 108 Stat. 3120; renumbered § 6 and amended Pub. L. 106–316, §§ 1, 2(2), Oct. 19, 2000, 114 Stat. 1276; Pub. L. 109–166, § 3, Jan. 10, 2006, 119 Stat. 3577.)
+(Pub. L. 103–340, § 6, formerly § 5, Oct. 6, 1994, 108 Stat. 3120; renumbered § 6 and amended Pub. L. 106–316, §§ 1, 2(2), Oct. 19, 2000, 114 Stat. 1276; Pub. L. 109–166, § 3, Jan. 10, 2006, 119 Stat. 3577.)
 
 **Editorial Notes**
 
@@ -2309,4 +2309,4 @@ Another section 6 of Pub. L. 103–340 was renumbered section 7 and enacted prov
 
 2006—Pub. L. 109–166 designated existing provisions as subsec. (a), inserted subsec. (a) heading, substituted “$350,000” for “$250,000” and “fiscal years 2006 through 2010” for “fiscal years 2001 through 2005”, and added subsec. (b).
 
-2000—Pub. L. 106–316, § 1, substituted “for each of the fiscal years 2001 through 2005” for “for each of the fiscal years 1995 through 2000”.
+2000—Pub. L. 106–316, § 1, substituted “for each of the fiscal years 2001 through 2005” for “for each of the fiscal years 1995 through 2000”.

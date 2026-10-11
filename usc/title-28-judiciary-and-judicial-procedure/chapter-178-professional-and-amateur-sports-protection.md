@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 178—PROFESSIONAL AND AMATEUR SPORTS PROTECTION
 
-## § 3701. Definitions
+## § 3701. Definitions
 
 For purposes of this chapter—
 
@@ -37,7 +37,7 @@ For purposes of this chapter—
 
 **(5)** the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Palau, or any territory or possession of the United States.
 
-(Added Pub. L. 102–559, § 2(a), Oct. 28, 1992, 106 Stat. 4227.)
+(Added Pub. L. 102–559, § 2(a), Oct. 28, 1992, 106 Stat. 4227.)
 
 **Editorial Notes**
 
@@ -49,9 +49,9 @@ For information regarding the constitutionality of certain provisions of this ch
 
 **Effective Date**
 
-Pub. L. 102–559, § 3, Oct. 28, 1992, 106 Stat. 4229, provided that: “This Act [enacting this chapter and provisions set out as a note under section 1 of this title] shall take effect on January 1, 1993.”
+Pub. L. 102–559, § 3, Oct. 28, 1992, 106 Stat. 4229, provided that: “This Act [enacting this chapter and provisions set out as a note under section 1 of this title] shall take effect on January 1, 1993.”
 
-## § 3702. Unlawful sports gambling
+## § 3702. Unlawful sports gambling
 
 It shall be unlawful for—
 
@@ -61,7 +61,7 @@ It shall be unlawful for—
 
 a lottery, sweepstakes, or other betting, gambling, or wagering scheme based, directly or indirectly (through the use of geographical references or otherwise), on one or more competitive games in which amateur or professional athletes participate, or are intended to participate, or on one or more performances of such athletes in such games.
 
-(Added Pub. L. 102–559, § 2(a), Oct. 28, 1992, 106 Stat. 4228.)
+(Added Pub. L. 102–559, § 2(a), Oct. 28, 1992, 106 Stat. 4228.)
 
 **Editorial Notes**
 
@@ -75,11 +75,11 @@ For information regarding constitutionality of par. (1) of this section, as adde
 
 Section effective Jan. 1, 1993, see section 3 of Pub. L. 102–559, set out as a note under section 3701 of this title.
 
-## § 3703. Injunctions
+## § 3703. Injunctions
 
 A civil action to enjoin a violation of section 3702 may be commenced in an appropriate district court of the United States by the Attorney General of the United States, or by a professional sports organization or amateur sports organization whose competitive game is alleged to be the basis of such violation.
 
-(Added Pub. L. 102–559, § 2(a), Oct. 28, 1992, 106 Stat. 4228.)
+(Added Pub. L. 102–559, § 2(a), Oct. 28, 1992, 106 Stat. 4228.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -87,7 +87,7 @@ A civil action to enjoin a violation of section 3702 may be commenced in an appr
 
 Section effective Jan. 1, 1993, see section 3 of Pub. L. 102–559, set out as a note under section 3701 of this title.
 
-## § 3704. Applicability
+## § 3704. Applicability
 
 **(a)** Section 3702 shall not apply to—
 
@@ -109,7 +109,7 @@ Section effective Jan. 1, 1993, see section 3 of Pub. L. 102–559, set out as a
 
 **(b)** Except as provided in subsection (a), section 3702 shall apply on lands described in section 4(4) of the Indian Gaming Regulatory Act (25 U.S.C. 2703(4)).
 
-(Added Pub. L. 102–559, § 2(a), Oct. 28, 1992, 106 Stat. 4228.)
+(Added Pub. L. 102–559, § 2(a), Oct. 28, 1992, 106 Stat. 4228.)
 
 **Editorial Notes**
 

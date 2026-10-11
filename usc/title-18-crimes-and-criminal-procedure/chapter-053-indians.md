@@ -19,47 +19,47 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1996—Pub. L. 104–294, title VI, § 604(b)(26), Oct. 11, 1996, 110 Stat. 3508, directed that item 1169 be transferred to appear after item 1168.
+1996—Pub. L. 104–294, title VI, § 604(b)(26), Oct. 11, 1996, 110 Stat. 3508, directed that item 1169 be transferred to appear after item 1168.
 
-Pub. L. 104–294, title VI, § 604(b)(25), Oct. 11, 1996, 110 Stat. 3508, amended directory language of Pub. L. 103–322, § 330011(d), which amended Pub. L. 101–630, § 404(a)(2). See 1990 Amendment note below.
+Pub. L. 104–294, title VI, § 604(b)(25), Oct. 11, 1996, 110 Stat. 3508, amended directory language of Pub. L. 103–322, § 330011(d), which amended Pub. L. 101–630, § 404(a)(2). See 1990 Amendment note below.
 
-1994—Pub. L. 103–322, title XXXIII, § 330010(5), Sept. 13, 1994, 108 Stat. 2143, substituted “Illegal trafficking in Native American human remains and cultural items” for “Illegal Trafficking in Native American Human Remains and Cultural Items” in item 1170.
+1994—Pub. L. 103–322, title XXXIII, § 330010(5), Sept. 13, 1994, 108 Stat. 2143, substituted “Illegal trafficking in Native American human remains and cultural items” for “Illegal Trafficking in Native American Human Remains and Cultural Items” in item 1170.
 
-1990—Pub. L. 101–647, title XXXV, § 3536, Nov. 29, 1990, 104 Stat. 4925, struck out item 1157 “Livestock sold or removed”.
+1990—Pub. L. 101–647, title XXXV, § 3536, Nov. 29, 1990, 104 Stat. 4925, struck out item 1157 “Livestock sold or removed”.
 
-Pub. L. 101–644, title I, § 104(b), Nov. 29, 1990, 104 Stat. 4663, substituted “Misrepresentation of Indian produced goods and products” for “Misrepresentation in sale of products” in item 1159.
+Pub. L. 101–644, title I, § 104(b), Nov. 29, 1990, 104 Stat. 4663, substituted “Misrepresentation of Indian produced goods and products” for “Misrepresentation in sale of products” in item 1159.
 
-Pub. L. 101–630, title IV, § 404(a)(2), Nov. 28, 1990, 104 Stat. 4548, as amended, effective on the date section 404(a)(2) of Pub. L. 101–630 took effect, by Pub. L. 103–322, title XXXIII, § 330011(d), Sept. 13, 1994, 108 Stat. 2144, as amended by Pub. L. 104–294, title VI, § 604(b)(25), Oct. 11, 1996, 110 Stat. 3508, added item 1169.
+Pub. L. 101–630, title IV, § 404(a)(2), Nov. 28, 1990, 104 Stat. 4548, as amended, effective on the date section 404(a)(2) of Pub. L. 101–630 took effect, by Pub. L. 103–322, title XXXIII, § 330011(d), Sept. 13, 1994, 108 Stat. 2144, as amended by Pub. L. 104–294, title VI, § 604(b)(25), Oct. 11, 1996, 110 Stat. 3508, added item 1169.
 
-Pub. L. 101–601, § 4(b), Nov. 16, 1990, 104 Stat. 3052, added item 1170.
+Pub. L. 101–601, § 4(b), Nov. 16, 1990, 104 Stat. 3052, added item 1170.
 
-1988—Pub. L. 100–497, § 24, Oct. 17, 1988, 102 Stat. 2488, added items 1166, 1167, and 1168.
+1988—Pub. L. 100–497, § 24, Oct. 17, 1988, 102 Stat. 2488, added items 1166, 1167, and 1168.
 
-1960—Pub. L. 86–634, § 3, July 12, 1960, 74 Stat. 469, added items 1164 and 1165.
+1960—Pub. L. 86–634, § 3, July 12, 1960, 74 Stat. 469, added items 1164 and 1165.
 
-1956—Act Aug. 1, 1956, ch. 822, § 1, 70 Stat. 792, added item 1163.
+1956—Act Aug. 1, 1956, ch. 822, § 1, 70 Stat. 792, added item 1163.
 
-1953—Act Aug. 15, 1953, ch. 502, § 1, 67 Stat. 586, added item 1161.
+1953—Act Aug. 15, 1953, ch. 502, § 1, 67 Stat. 586, added item 1161.
 
-Act Aug. 15, 1953, ch. 505, § 1, 67 Stat. 588, added item 1162.
+Act Aug. 15, 1953, ch. 505, § 1, 67 Stat. 588, added item 1162.
 
-## § 1151. Indian country defined
+## § 1151. Indian country defined
 
 Except as otherwise provided in sections 1154 and 1156 of this title, the term “Indian country”, as used in this chapter, means (a) all land within the limits of any Indian reservation under the jurisdiction of the United States Government, notwithstanding the issuance of any patent, and, including rights-of-way running through the reservation, (b) all dependent Indian communities within the borders of the United States whether within the original or subsequently acquired territory thereof, and whether within or without the limits of a state, and (c) all Indian allotments, the Indian titles to which have not been extinguished, including rights-of-way running through the same.
 
-(June 25, 1948, ch. 645, 62 Stat. 757; May 24, 1949, ch. 139, § 25, 63 Stat. 94.)
+(June 25, 1948, ch. 645, 62 Stat. 757; May 24, 1949, ch. 139, § 25, 63 Stat. 94.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on sections 548 and 549 of title 18, and sections 212, 213, 215, 217, 218 of title 25, Indians, U.S. Code, 1940 ed. (R.S. §§ 2142, 2143, 2144, 2145, 2146; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 318; Mar. 4, 1909, ch. 321, §§ 328, 329, 35 Stat. 1151; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 28, 1932, ch. 284, 47 Stat. 337).
+Based on sections 548 and 549 of title 18, and sections 212, 213, 215, 217, 218 of title 25, Indians, U.S. Code, 1940 ed. (R.S. §§ 2142, 2143, 2144, 2145, 2146; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 318; Mar. 4, 1909, ch. 321, §§ 328, 329, 35 Stat. 1151; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 28, 1932, ch. 284, 47 Stat. 337).
 
 This section consolidates numerous conflicting and inconsistent provisions of law into a concise statement of the applicable law.
 
-R.S. §§ 2145, 2146 (U.S.C., title 25, §§ 217, 218) extended to the Indian country with notable exceptions the criminal laws of the United States applicable to places within the exclusive jurisdiction of the United States. Crimes of Indians against Indians, and crimes punishable by tribal law were excluded.
+R.S. §§ 2145, 2146 (U.S.C., title 25, §§ 217, 218) extended to the Indian country with notable exceptions the criminal laws of the United States applicable to places within the exclusive jurisdiction of the United States. Crimes of Indians against Indians, and crimes punishable by tribal law were excluded.
 
-The confusion was not lessened by the cases of *U.S. v. McBratney*, 104 U.S. 622 and *Draper v. U.S*., 17 S.Ct. 107, holding that crimes in Indian country by persons not Indians are not cognizable by Federal courts in absence of reservation or cession of exclusive jurisdiction applicable to places within the exclusive jurisdiction of the United States. Because of numerous statutes applicable only to Indians and prescribing punishment for crimes committed by Indians against Indians, “Indian country” was defined but once. (See act June 30, 1834, ch. 161, § 1, 4, Stat. 729, which was later repealed.)
+The confusion was not lessened by the cases of *U.S. v. McBratney*, 104 U.S. 622 and *Draper v. U.S*., 17 S.Ct. 107, holding that crimes in Indian country by persons not Indians are not cognizable by Federal courts in absence of reservation or cession of exclusive jurisdiction applicable to places within the exclusive jurisdiction of the United States. Because of numerous statutes applicable only to Indians and prescribing punishment for crimes committed by Indians against Indians, “Indian country” was defined but once. (See act June 30, 1834, ch. 161, § 1, 4, Stat. 729, which was later repealed.)
 
 Definition is based on latest construction of the term by the United States Supreme Court in *U.S. v. McGowan*, 58 S.Ct. 286, 302 U.S. 535, following *U.S. v. Sandoval*, 34 S.Ct. 1, 5, 231 U.S. 28, 46. (See also *Donnelly v. U.S*., 33 S.Ct. 449, 228 U.S. 243; and *Kills Plenty v. U.S*., 133 F.2d 292, certiorari denied, 1943, 63 S.Ct. 1172). (See reviser’s note under section 1153 of this title.)
 
@@ -79,9 +79,9 @@ This section [section 25], by adding to section 1151 of title 18, U.S.C., the ph
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–297, § 1, May 29, 1976, 90 Stat. 585, provided: “That this Act [amending sections 113, 1153, and 3242 of this title] may be cited as the ‘Indian Crimes Act of 1976’.”
+Pub. L. 94–297, § 1, May 29, 1976, 90 Stat. 585, provided: “That this Act [amending sections 113, 1153, and 3242 of this title] may be cited as the ‘Indian Crimes Act of 1976’.”
 
-## § 1152. Laws governing
+## § 1152. Laws governing
 
 Except as otherwise expressly provided by law, the general laws of the United States as to the punishment of offenses committed in any place within the sole and exclusive jurisdiction of the United States, except the District of Columbia, shall extend to the Indian country.
 
@@ -91,7 +91,7 @@ This section shall not extend to offenses committed by one Indian against the pe
 
 **Historical and Revision Notes**
 
-Based on sections 215, 217, 218 of title 25, U.S.C., 1940 ed., Indians (R.S. 2144, 2145, 2146; Feb. 18, 1875, ch. 80, §§ 1, 18 Stat. 318).
+Based on sections 215, 217, 218 of title 25, U.S.C., 1940 ed., Indians (R.S. 2144, 2145, 2146; Feb. 18, 1875, ch. 80, §§ 1, 18 Stat. 318).
 
 Section consolidates said sections 217 and 218 of title 25, U.S.C., 1940 ed., Indians, and omits section 215 of said title as covered by the consolidation.
 
@@ -99,19 +99,19 @@ See reviser’s note under section 1153 of this title as to effect of consolidat
 
 Minor changes were made in translations and phraseology.
 
-## § 1153. Offenses committed within Indian country
+## § 1153. Offenses committed within Indian country
 
 **(a)** Any Indian who commits against the person or property of another Indian or other person any of the following offenses, namely, murder, manslaughter, kidnapping, maiming, a felony under chapter 109A, incest, a felony assault under section 113, an assault against an individual who has not attained the age of 16 years, felony child abuse or neglect, arson, burglary, robbery, and a felony under section 661 of this title within the Indian country, shall be subject to the same law and penalties as all other persons committing any of the above offenses, within the exclusive jurisdiction of the United States.
 
 **(b)** Any offense referred to in subsection (a) of this section that is not defined and punished by Federal law in force within the exclusive jurisdiction of the United States shall be defined and punished in accordance with the laws of the State in which such offense was committed as are in force at the time of such offense.
 
-(June 25, 1948, ch. 645, 62 Stat. 758; May 24, 1949, ch. 139, § 26, 63 Stat. 94; Pub. L. 89–707, § 1, Nov. 2, 1966, 80 Stat. 1100; Pub. L. 90–284, title V, § 501, Apr. 11, 1968, 82 Stat. 80; Pub. L. 94–297, § 2, May 29, 1976, 90 Stat. 585; Pub. L. 98–473, title II, § 1009, Oct. 12, 1984, 98 Stat. 2141; Pub. L. 99–303, May 15, 1986, 100 Stat. 438; Pub. L. 99–646, § 87(c)(5), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, § 3(a)(5), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–690, title VII, § 7027, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title XVII, § 170201(e), title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2043, 2150; Pub. L. 109–248, title II, § 215, July 27, 2006, 120 Stat. 617; Pub. L. 113–4, title IX, § 906(b), Mar. 7, 2013, 127 Stat. 125.)
+(June 25, 1948, ch. 645, 62 Stat. 758; May 24, 1949, ch. 139, § 26, 63 Stat. 94; Pub. L. 89–707, § 1, Nov. 2, 1966, 80 Stat. 1100; Pub. L. 90–284, title V, § 501, Apr. 11, 1968, 82 Stat. 80; Pub. L. 94–297, § 2, May 29, 1976, 90 Stat. 585; Pub. L. 98–473, title II, § 1009, Oct. 12, 1984, 98 Stat. 2141; Pub. L. 99–303, May 15, 1986, 100 Stat. 438; Pub. L. 99–646, § 87(c)(5), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, § 3(a)(5), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–690, title VII, § 7027, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title XVII, § 170201(e), title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2043, 2150; Pub. L. 109–248, title II, § 215, July 27, 2006, 120 Stat. 617; Pub. L. 113–4, title IX, § 906(b), Mar. 7, 2013, 127 Stat. 125.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., §§ 548, 549 (Mar. 4, 1909, ch. 321, §§ 328, 329, 35 Stat. 1151; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 28, 1932, ch. 284, 47 Stat. 337).
+Based on title 18, U.S.C., 1940 ed., §§ 548, 549 (Mar. 4, 1909, ch. 321, §§ 328, 329, 35 Stat. 1151; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 28, 1932, ch. 284, 47 Stat. 337).
 
 Section consolidates said sections 548 and 549 of title 18, U.S.C., 1940 ed. Section 548 of said title covered 10 crimes. Section 549 of said title covered the same except robbery and incest.
 
@@ -145,13 +145,13 @@ This section [section 26] removes an ambiguity in section 1153 of title 18, U.S.
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “kidnapping” for “kidnaping” and inserted “(as defined in section 1365 of this title), an assault against an individual who has not attained the age of 16 years” after “serious bodily injury”.
 
-1988—Subsec. (a). Pub. L. 100–690 substituted “maiming, a felony under chapter 109A, incest” for “ ‘maiming’ and all that follows through ‘incest’ ”, thus clarifying execution of amendment by Pub. L. 99–646 and Pub. L. 99–654 but resulting in no change in text. See 1986 Amendment note below.
+1988—Subsec. (a). Pub. L. 100–690 substituted “maiming, a felony under chapter 109A, incest” for “ ‘maiming’ and all that follows through ‘incest’ ”, thus clarifying execution of amendment by Pub. L. 99–646 and Pub. L. 99–654 but resulting in no change in text. See 1986 Amendment note below.
 
-1986—Pub. L. 99–646 and Pub. L. 99–654 which directed that section be amended identically by substituting in first par. “a felony under chapter 109A,” for “rape, involuntary sodomy, carnal knowledge of any female, not his wife, who has not attained the age of sixteen years, assault with intent to commit rape,” and by striking out in second and third pars. “, involuntary sodomy,” was executed by making the substitution in subsec. (a) for “rape, involuntary sodomy, felonious sexual molestation of a minor, carnal knowledge of any female, not his wife, who has not attained the age of sixteen years, assault with intent to commit rape,” to reflect the probable intent of Congress in view of prior amendment of this section by Pub. L. 99–303, but amendment to second and third pars. could not be executed because such pars. were struck out by Pub. L. 99–303.
+1986—Pub. L. 99–646 and Pub. L. 99–654 which directed that section be amended identically by substituting in first par. “a felony under chapter 109A,” for “rape, involuntary sodomy, carnal knowledge of any female, not his wife, who has not attained the age of sixteen years, assault with intent to commit rape,” and by striking out in second and third pars. “, involuntary sodomy,” was executed by making the substitution in subsec. (a) for “rape, involuntary sodomy, felonious sexual molestation of a minor, carnal knowledge of any female, not his wife, who has not attained the age of sixteen years, assault with intent to commit rape,” to reflect the probable intent of Congress in view of prior amendment of this section by Pub. L. 99–303, but amendment to second and third pars. could not be executed because such pars. were struck out by Pub. L. 99–303.
 
 Pub. L. 99–303 inserted section catchline which had been eliminated by general amendment by section 1009 of Pub. L. 98–473, designated first par. as subsec. (a) and inserted “felonious sexual molestation of a minor,”, struck out second par. which provided that, as used in this section, the offenses of burglary, involuntary sodomy, and incest be defined and punished in accordance with the laws of the State in which such offense was committed as are in force at the time of such offense, and struck out third par. and restated the provisions thereof in a new subsec. (b), substituting “Any offense referred to in subsection (a) of this section that is” for “In addition to the offenses of burglary, involuntary sodomy, and incest, any other of the above offenses which are”.
 
-1984—Pub. L. 98–473 amended section generally, inserting offenses of maiming, involuntary sodomy and a felony committed under section 661 of this title and striking out reference to larceny in first par., and inserting “, involuntary sodomy,” after “burglary” in third par.
+1984—Pub. L. 98–473 amended section generally, inserting offenses of maiming, involuntary sodomy and a felony committed under section 661 of this title and striking out reference to larceny in first par., and inserting “, involuntary sodomy,” after “burglary” in third par.
 
 1976—Pub. L. 94–297 made changes in phraseology, added offense of kidnapping to the enumerated list of offenses subjecting any Indian to the same laws and penalties as all other persons, struck out applicability to assault with a dangerous weapon and assault resulting in serious bodily injury from paragraph covering the offenses of burglary and incest only, and substituted paragraph, relating to offenses in addition to offenses of burglary and incest, for paragraph relating to offenses of rape and assault with intent to commit rape.
 
@@ -167,7 +167,7 @@ Pub. L. 99–303 inserted section catchline which had been eliminated by general
 
 Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective, respectively, 30 days after Nov. 10, 1986, and 30 days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
 
-## § 1154. Intoxicants dispensed in Indian country
+## § 1154. Intoxicants dispensed in Indian country
 
 **(a)** Whoever sells, gives away, disposes of, exchanges, or barters any malt, spirituous, or vinous liquor, including beer, ale, and wine, or any ardent or other intoxicating liquor of any kind whatsoever, except for scientific, sacramental, medicinal or mechanical purposes, or any essence, extract, bitters, preparation, compound, composition, or any article whatsoever, under any name, label, or brand, which produces intoxication, to any Indian to whom an allotment of land has been made while the title to the same shall be held in trust by the Government, or to any Indian who is a ward of the Government under charge of any Indian superintendent, or to any Indian, including mixed bloods, over whom the Government, through its departments, exercises guardianship, and whoever introduces or attempts to introduce any malt, spirituous, or vinous liquor, including beer, ale, and wine, or any ardent or intoxicating liquor of any kind whatsoever into the Indian country, shall, for the first offense, be fined under this title or imprisoned not more than one year, or both; and, for each subsequent offense, be fined under this title or imprisoned not more than five years, or both.
 
@@ -175,13 +175,13 @@ Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective, respectively, 30 
 
 **(c)** The term “Indian country” as used in this section does not include fee-patented lands in non-Indian communities or rights-of-way through Indian reservations, and this section does not apply to such lands or rights-of-way in the absence of a treaty or statute extending the Indian liquor laws thereto.
 
-(June 25, 1948, ch. 645, 62 Stat. 758; May 24, 1949, ch. 139, § 27, 63 Stat. 94; Pub. L. 103–322, title XXXIII, § 330016(1)(G), (I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 758; May 24, 1949, ch. 139, § 27, 63 Stat. 94; Pub. L. 103–322, title XXXIII, § 330016(1)(G), (I), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on sections 241, 242, 244a, 249, 254 of title 25, U.S.C., 1940 ed., Indians (R.S. § 2139; Feb. 27, 1877, ch. 69, § 1, 19 Stat. 244; July 4, 1884, ch. 180, § 1, 23 Stat. 94; July 23, 1892, ch. 234, 27 Stat. 260; Mar. 2, 1917, ch. 146, § 17, 39 Stat. 983; June 13, 1932, ch. 245, 47 Stat. 302; Mar. 5, 1934, ch. 43, 48 Stat. 396; June 27, 1934, ch. 846, 48 Stat. 1245; June 15, 1938, ch. 435, § 1, 52 Stat. 696).
+Based on sections 241, 242, 244a, 249, 254 of title 25, U.S.C., 1940 ed., Indians (R.S. § 2139; Feb. 27, 1877, ch. 69, § 1, 19 Stat. 244; July 4, 1884, ch. 180, § 1, 23 Stat. 94; July 23, 1892, ch. 234, 27 Stat. 260; Mar. 2, 1917, ch. 146, § 17, 39 Stat. 983; June 13, 1932, ch. 245, 47 Stat. 302; Mar. 5, 1934, ch. 43, 48 Stat. 396; June 27, 1934, ch. 846, 48 Stat. 1245; June 15, 1938, ch. 435, § 1, 52 Stat. 696).
 
 Section consolidates sections 241, 242, 244a, and 249 of title 25, U.S.C., 1940 ed., Indians. The portion of section 241 of said title which defined the substantive offense became subsection (a); the portion relating to the scope of the term “Indian country” was omitted as unnecessary in view of definition of “Indian country” in section 1151 of this title; the portion of section 241 of said title excepting liquors introduced by the War Department became subsection (c), as limited by section 249 of said title; the portion respecting making complaint in county of offense, and with reference to arraignment, was omitted as covered by rule 5 of the Federal Rules of Criminal Procedure; and the remainder of section 241 of said title was incorporated in section 1156 of this title.
 
@@ -197,7 +197,7 @@ Minor changes were made in phraseology.
 
 **1949 Act**
 
-Subsection (a) of this section [section 27(a)] substitutes “Department of the Army” for “War Department”, in subsection (b) of section 1154 of title 18, U.S.C., to conform to such redesignation by act July 26, 1947 (ch. 343, title 11, § 205(a), 61 Stat. 501 (5 U.S.C., 1946 ed., § 181–1)). Subsection (b) of this section [section 27(b)] adds subsection (c) to such section 1154 in order to conform it and section 1156 more closely to the laws relating to intoxicating liquor in the Indian country as they have heretofore been construed.
+Subsection (a) of this section [section 27(a)] substitutes “Department of the Army” for “War Department”, in subsection (b) of section 1154 of title 18, U.S.C., to conform to such redesignation by act July 26, 1947 (ch. 343, title 11, § 205(a), 61 Stat. 501 (5 U.S.C., 1946 ed., § 181–1)). Subsection (b) of this section [section 27(b)] adds subsection (c) to such section 1154 in order to conform it and section 1156 more closely to the laws relating to intoxicating liquor in the Indian country as they have heretofore been construed.
 
 **Editorial Notes**
 
@@ -205,25 +205,25 @@ Subsection (a) of this section [section 27(a)] substitutes “Department of the 
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” after “first offense, be” and for “fined not more than $2,000” after “subsequent offense, be”.
 
-1949—Subsec. (b). Act May 24, 1949, § 27(a), substituted “Department of the Army” for “War Department”.
+1949—Subsec. (b). Act May 24, 1949, § 27(a), substituted “Department of the Army” for “War Department”.
 
-Subsec. (c). Act May 24, 1949, § 27(b), added subsec. (c).
+Subsec. (c). Act May 24, 1949, § 27(b), added subsec. (c).
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all other officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all other officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 1155. Intoxicants dispensed on school site
+## § 1155. Intoxicants dispensed on school site
 
 Whoever, on any tract of land in the former Indian country upon which is located any Indian school maintained by or under the supervision of the United States, manufactures, sells, gives away, or in any manner, or by any means furnishes to anyone, either for himself or another, any vinous, malt, or fermented liquors, or any other intoxicating drinks of any kind whatsoever, except for scientific, sacramental, medicinal or mechanical purposes, whether medicated or not, or who carries, or in any manner has carried, into such area any such liquors or drinks, or who shall be interested in such manufacture, sale, giving away, furnishing to anyone, or carrying into such area any of such liquors or drinks, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 758; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 758; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on sections 241a, 244a, of title 25, U.S.C., 1940 ed., Indians (Mar. 1, 1895, ch. 145, § 8, 28 Stat. 697; Mar. 5, 1934, ch. 43, 48 Stat. 396.)
+Based on sections 241a, 244a, of title 25, U.S.C., 1940 ed., Indians (Mar. 1, 1895, ch. 145, § 8, 28 Stat. 697; Mar. 5, 1934, ch. 43, 48 Stat. 396.)
 
 Section consolidates sections 241a and 244a of title 25, U.S.C., 1940 ed., Indians. The effect of section 244a of said title in repealing section 241a of said title, except as to lands upon which Indian schools are maintained, was to continue prohibiting the dispensing of liquor in such areas.
 
@@ -243,19 +243,19 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-## § 1156. Intoxicants possessed unlawfully
+## § 1156. Intoxicants possessed unlawfully
 
 Whoever, except for scientific, sacramental, medicinal or mechanical purposes, possesses intoxicating liquors in the Indian country or where the introduction is prohibited by treaty or an Act of Congress, shall, for the first offense, be fined under this title or imprisoned not more than one year, or both; and, for each subsequent offense, be fined under this title or imprisoned not more than five years, or both.
 
 The term “Indian country” as used in this section does not include fee-patented lands in non-Indian communities or rights-of-way through Indian reservations, and this section does not apply to such lands or rights-of-way in the absence of a treaty or statute extending the Indian liquor laws thereto.
 
-(June 25, 1948, ch. 645, 62 Stat. 759; May 24, 1949, ch. 139, § 28, 63 Stat. 94; Pub. L. 103–322, title XXXIII, § 330016(1)(G), (I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 759; May 24, 1949, ch. 139, § 28, 63 Stat. 94; Pub. L. 103–322, title XXXIII, § 330016(1)(G), (I), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on sections 241, 244, 244a, 254 of title 25, U.S.C., 1940 ed., Indians (R.S. 2139; Feb. 27, 1877, ch. 69, § 1, 19 Stat. 244; July 23, 1892, ch. 234, 27 Stat. 260; May 25, 1918, ch. 86, § 1, 40 Stat. 563; June 30, 1919, ch. 4, § 1, 41 Stat. 4; Mar. 5, 1934, ch. 43, 48 Stat. 396; June 27, 1934, ch. 846, 48 Stat. 1245; June 15, 1938, ch. 435, § 1, 52 Stat. 696).
+Based on sections 241, 244, 244a, 254 of title 25, U.S.C., 1940 ed., Indians (R.S. 2139; Feb. 27, 1877, ch. 69, § 1, 19 Stat. 244; July 23, 1892, ch. 234, 27 Stat. 260; May 25, 1918, ch. 86, § 1, 40 Stat. 563; June 30, 1919, ch. 4, § 1, 41 Stat. 4; Mar. 5, 1934, ch. 43, 48 Stat. 396; June 27, 1934, ch. 846, 48 Stat. 1245; June 15, 1938, ch. 435, § 1, 52 Stat. 696).
 
 The revision of section 244 of title 25, U.S.C., 1940 ed., Indians, conforms with the effect thereon of sections 241, 244a, and 254 of said title.
 
@@ -279,11 +279,11 @@ This section [section 28] adds to section 1156 of title 18, U.S.C., a paragraph 
 
 1949—Act May 24, 1949, inserted last par.
 
-## [§ 1157. Repealed. Pub. L. 85–86, July 10, 1957, 71 Stat. 277]
+## [§ 1157. Repealed. Pub. L. 85–86, July 10, 1957, 71 Stat. 277]
 
-Section, acts June 25, 1948, ch. 645, 62 Stat. 759; May 24, 1949, ch. 139, § 29, 63 Stat. 94; Aug. 15, 1953, ch. 506, § 2(a), 67 Stat. 590, prohibited purchase of Indian-owned livestock subject to unpaid loans from Federal revolving fund or from tribal loan funds.
+Section, acts June 25, 1948, ch. 645, 62 Stat. 759; May 24, 1949, ch. 139, § 29, 63 Stat. 94; Aug. 15, 1953, ch. 506, § 2(a), 67 Stat. 590, prohibited purchase of Indian-owned livestock subject to unpaid loans from Federal revolving fund or from tribal loan funds.
 
-## § 1158. Counterfeiting Indian Arts and Crafts Board trade mark
+## § 1158. Counterfeiting Indian Arts and Crafts Board trade mark
 
 Whoever counterfeits or colorably imitates any Government trade mark used or devised by the Indian Arts and Crafts Board in the Department of the Interior as provided in section 305a of Title 25, or, except as authorized by the Board, affixes any such Government trade mark, or knowingly, willfully, and corruptly affixes any reproduction, counterfeit, copy, or colorable imitation thereof upon any products, or to any labels, signs, prints, packages, wrappers, or receptacles intended to be used upon or in connection with the sale of such products; or
 
@@ -291,11 +291,11 @@ Whoever knowingly makes any false statement for the purpose of obtaining the use
 
 Shall (1) in the case of a first violation, if an individual, be fined under this title or imprisoned not more than five years, or both, and, if a person other than an individual, be fined not more than $1,000,000; and (2) in the case of subsequent violations, if an individual, be fined not more than $1,000,000 or imprisoned not more than fifteen years, or both, and, if a person other than an individual, be fined not more than $5,000,000; and (3) shall be enjoined from further carrying on the act or acts complained of.
 
-(June 25, 1948, ch. 645, 62 Stat. 759; Pub. L. 101–644, title I, § 106, Nov. 29, 1990, 104 Stat. 4665; Pub. L. 103–322, title XXXIII, § 330016(1)(U), Sept. 13, 1994, 108 Stat. 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 759; Pub. L. 101–644, title I, § 106, Nov. 29, 1990, 104 Stat. 4665; Pub. L. 103–322, title XXXIII, § 330016(1)(U), Sept. 13, 1994, 108 Stat. 2148.)
 
 **Historical and Revision Notes**
 
-Based on section 305d of title 25, U.S.C., 1940 ed., Indians (Aug. 27, 1935, ch. 748, § 5, 49 Stat. 892).
+Based on section 305d of title 25, U.S.C., 1940 ed., Indians (Aug. 27, 1935, ch. 748, § 5, 49 Stat. 892).
 
 The reference to the offense as a misdemeanor was omitted as unnecessary in view of the definition of misdemeanor in section 1 of this title.
 
@@ -317,9 +317,9 @@ Minor changes were made in phraseology.
 
 **Transfer of Functions**
 
-Functions of all other officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 3 of 1950 §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all other officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 3 of 1950 §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 1159. Misrepresentation of Indian produced goods and products
+## § 1159. Misrepresentation of Indian produced goods and products
 
 **(a)** It is unlawful to offer or display for sale or sell any good, with or without a Government trademark, in a manner that falsely suggests it is Indian produced, an Indian product, or the product of a particular Indian or Indian tribe or Indian arts and crafts organization, resident within the United States.
 
@@ -353,9 +353,9 @@ Functions of all other officers of Department of the Interior and functions of a
 
 **(3)** the term “Indian tribe”—
 
-**(A)** has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b); 1
+**(A)** has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
@@ -371,11 +371,11 @@ and
 
 **(d)** In the event that any provision of this section is held invalid, it is the intent of Congress that the remaining provisions of this section shall continue in full force and effect.
 
-(June 25, 1948, ch. 645, 62 Stat. 759; Pub. L. 101–644, title I, § 104(a), Nov. 29, 1990, 104 Stat. 4663; Pub. L. 111–211, title I, § 103, July 29, 2010, 124 Stat. 2260.)
+(June 25, 1948, ch. 645, 62 Stat. 759; Pub. L. 101–644, title I, § 104(a), Nov. 29, 1990, 104 Stat. 4663; Pub. L. 111–211, title I, § 103, July 29, 2010, 124 Stat. 2260.)
 
 **Historical and Revision Notes**
 
-Based on section 305e of title 25, U.S.C., 1940 ed., Indians (Aug. 27, 1935, ch. 748, § 6, 49 Stat. 893).
+Based on section 305e of title 25, U.S.C., 1940 ed., Indians (Aug. 27, 1935, ch. 748, § 6, 49 Stat. 893).
 
 The reference to the offense as a misdemeanor was omitted as unnecessary in view of the definition of misdemeanor in section 1 of this title.
 
@@ -393,13 +393,13 @@ Section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.
 
 **Amendments**
 
-2010—Subsec. (b). Pub. L. 111–211, § 103(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “Whoever knowingly violates subsection (a) shall—
+2010—Subsec. (b). Pub. L. 111–211, § 103(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “Whoever knowingly violates subsection (a) shall—
 
 “(1) in the case of a first violation, if an individual, be fined not more than $250,000 or imprisoned not more than five years, or both, and, if a person other than an individual, be fined not more than $1,000,000; and
 
 “(2) in the case of subsequent violations, if an individual, be fined not more than $1,000,000 or imprisoned not more than fifteen years, or both, and, if a person other than an individual, be fined not more than $5,000,000.”
 
-Subsec. (c)(3). Pub. L. 111–211, § 103(2), added par. (3) and struck out former par. (3) which read as follows: “the term ‘Indian tribe’ means—
+Subsec. (c)(3). Pub. L. 111–211, § 103(2), added par. (3) and struck out former par. (3) which read as follows: “the term ‘Indian tribe’ means—
 
 “(A) any Indian tribe, band, nation, Alaska Native village, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or
 
@@ -419,13 +419,13 @@ For purposes of this section, an Indian tribe may not impose fee to certify indi
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-## § 1160. Property damaged in committing offense
+## § 1160. Property damaged in committing offense
 
 Whenever a non-Indian, in the commission of an offense within the Indian country takes, injures or destroys the property of any friendly Indian the judgment of conviction shall include a sentence that the defendant pay to the Indian owner a sum equal to twice the just value of the property so taken, injured, or destroyed.
 
 If such offender shall be unable to pay a sum at least equal to the just value or amount, whatever such payment shall fall short of the same shall be paid out of the Treasury of the United States. If such offender cannot be apprehended and brought to trial, the amount of such property shall be paid out of the Treasury. But no Indian shall be entitled to any payment out of the Treasury of the United States, for any such property, if he, or any of the nation to which he belongs, have sought private revenge, or have attempted to obtain satisfaction by any force or violence.
 
-(June 25, 1948, ch. 645, 62 Stat. 759; Pub. L. 103–322, title XXXIII, § 330004(9), Sept. 13, 1994, 108 Stat. 2141.)
+(June 25, 1948, ch. 645, 62 Stat. 759; Pub. L. 103–322, title XXXIII, § 330004(9), Sept. 13, 1994, 108 Stat. 2141.)
 
 **Historical and Revision Notes**
 
@@ -441,11 +441,11 @@ The phrase “or whose person was injured,” which followed the words “friend
 
 1994—Pub. L. 103–322 substituted “non-Indian” for “white person” in first par.
 
-## § 1161. Application of Indian liquor laws
+## § 1161. Application of Indian liquor laws
 
 The provisions of sections 1154, 1156, 3113, 3488, and 3669, of this title, shall not apply within any area that is not Indian country, nor to any act or transaction within any area of Indian country provided such act or transaction is in conformity both with the laws of the State in which such act or transaction occurs and with an ordinance duly adopted by the tribe having jurisdiction over such area of Indian country, certified by the Secretary of the Interior, and published in the Federal Register.
 
-(Added Aug. 15, 1953, ch. 502, § 2, 67 Stat. 586; amended Pub. L. 98–473, title II, § 223(b), Oct. 12, 1984, 98 Stat. 2028.)
+(Added Aug. 15, 1953, ch. 502, § 2, 67 Stat. 586; amended Pub. L. 98–473, title II, § 223(b), Oct. 12, 1984, 98 Stat. 2028.)
 
 **Editorial Notes**
 
@@ -459,7 +459,7 @@ The provisions of sections 1154, 1156, 3113, 3488, and 3669, of this title, shal
 
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-## § 1162. State jurisdiction over offenses committed by or against Indians in the Indian country
+## § 1162. State jurisdiction over offenses committed by or against Indians in the Indian country
 
 **(a)** Each of the States or Territories listed in the following table shall have jurisdiction over offenses committed by or against Indians in the areas of Indian country listed opposite the name of the State or Territory to the same extent that such State or Territory has jurisdiction over offenses committed elsewhere within the State or Territory, and the criminal laws of such State or Territory shall have the same force and effect within such Indian country as they have elsewhere within the State or Territory:
 
@@ -482,7 +482,7 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 
 **(2)** jurisdiction over those areas shall be concurrent among the Federal Government, State governments, and, where applicable, tribal governments.
 
-(Added Aug. 15, 1953, ch. 505, § 2, 67 Stat. 588; amended Aug. 24, 1954, ch. 910, § 1, 68 Stat. 795; Pub. L. 85–615, § 1, Aug. 8, 1958, 72 Stat. 545; Pub. L. 91–523, §§ 1, 2, Nov. 25, 1970, 84 Stat. 1358; Pub. L. 111–211, title II, § 221(b), July 29, 2010, 124 Stat. 2272.)
+(Added Aug. 15, 1953, ch. 505, § 2, 67 Stat. 588; amended Aug. 24, 1954, ch. 910, § 1, 68 Stat. 795; Pub. L. 85–615, § 1, Aug. 8, 1958, 72 Stat. 545; Pub. L. 91–523, §§ 1, 2, Nov. 25, 1970, 84 Stat. 1358; Pub. L. 111–211, title II, § 221(b), July 29, 2010, 124 Stat. 2272.)
 
 **Editorial Notes**
 
@@ -490,9 +490,9 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 
 2010—Subsec. (d). Pub. L. 111–211 added subsec. (d).
 
-1970—Subsec. (a). Pub. L. 91–523, § 1, substituted provisions relating to the jurisdiction of the State of Alaska over offenses by or against Indians in the Indian country, and certain excepted areas, for provisions relating to the jurisdiction of the Territory of Alaska over offenses by or against Indians in the Indian country.
+1970—Subsec. (a). Pub. L. 91–523, § 1, substituted provisions relating to the jurisdiction of the State of Alaska over offenses by or against Indians in the Indian country, and certain excepted areas, for provisions relating to the jurisdiction of the Territory of Alaska over offenses by or against Indians in the Indian country.
 
-Subsec. (c). Pub. L. 91–523, § 2, inserted “as areas over which the several States have exclusive jurisdiction” after “subsection (a) of this section”.
+Subsec. (c). Pub. L. 91–523, § 2, inserted “as areas over which the several States have exclusive jurisdiction” after “subsection (a) of this section”.
 
 1958—Subsec. (a). Pub. L. 85–615 gave Alaska jurisdiction over offenses committed by or against Indians in all Indian country within the Territory of Alaska.
 
@@ -504,7 +504,7 @@ Subsec. (c). Pub. L. 91–523, § 2, inserted “as areas over which the sever
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-## § 1163. Embezzlement and theft from Indian tribal organizations
+## § 1163. Embezzlement and theft from Indian tribal organizations
 
 Whoever embezzles, steals, knowingly converts to his use or the use of another, willfully misapplies, or willfully permits to be misapplied, any of the moneys, funds, credits, goods, assets, or other property belonging to any Indian tribal organization or intrusted to the custody or care of any officer, employee, or agent of an Indian tribal organization; or
 
@@ -514,7 +514,7 @@ Shall be fined under this title, or imprisoned not more than five years, or both
 
 As used in this section, the term “Indian tribal organization” means any tribe, band, or community of Indians which is subject to the laws of the United States relating to Indian affairs or any corporation, association, or group which is organized under any of such laws.
 
-(Added Aug. 1, 1956, ch. 822, § 2, 70 Stat. 792; amended Pub. L. 103–322, title XXXIII, § 330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511.)
+(Added Aug. 1, 1956, ch. 822, § 2, 70 Stat. 792; amended Pub. L. 103–322, title XXXIII, § 330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511.)
 
 **Editorial Notes**
 
@@ -524,11 +524,11 @@ As used in this section, the term “Indian tribal organization” means any tri
 
 1994—Pub. L. 103–322, in third par., substituted “fined under this title” for “fined not more than $5,000” after “Shall be” and for “fined not more than $1,000” after “he shall be”.
 
-## § 1164. Destroying boundary and warning signs
+## § 1164. Destroying boundary and warning signs
 
 Whoever willfully destroys, defaces, or removes any sign erected by an Indian tribe, or a Government agency (1) to indicate the boundary of an Indian reservation or of any Indian country as defined in section 1151 of this title or (2) to give notice that hunting, trapping, or fishing is not permitted thereon without lawful authority or permission, shall be fined under this title or imprisoned not more than six months, or both.
 
-(Added Pub. L. 86–634, § 1, July 12, 1960, 74 Stat. 469; amended Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
+(Added Pub. L. 86–634, § 1, July 12, 1960, 74 Stat. 469; amended Pub. L. 103–322, title XXXIII, § 330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Editorial Notes**
 
@@ -536,11 +536,11 @@ Whoever willfully destroys, defaces, or removes any sign erected by an Indian tr
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
 
-## § 1165. Hunting, trapping, or fishing on Indian land
+## § 1165. Hunting, trapping, or fishing on Indian land
 
 Whoever, without lawful authority or permission, willfully and knowingly goes upon any land that belongs to any Indian or Indian tribe, band, or group and either are held by the United States in trust or are subject to a restriction against alienation imposed by the United States, or upon any lands of the United States that are reserved for Indian use, for the purpose of hunting, trapping, or fishing thereon, or for the removal of game, peltries, or fish therefrom, shall be fined under this title or imprisoned not more than ninety days, or both, and all game, fish, and peltries in his possession shall be forfeited.
 
-(Added Pub. L. 86–634, § 2, July 12, 1960, 74 Stat. 469; amended Pub. L. 103–322, title XXXIII, § 330016(1)(D), Sept. 13, 1994, 108 Stat. 2146.)
+(Added Pub. L. 86–634, § 2, July 12, 1960, 74 Stat. 469; amended Pub. L. 103–322, title XXXIII, § 330016(1)(D), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Editorial Notes**
 
@@ -548,7 +548,7 @@ Whoever, without lawful authority or permission, willfully and knowingly goes up
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $200”.
 
-## § 1166. Gambling in Indian country
+## § 1166. Gambling in Indian country
 
 **(a)** Subject to subsection (c), for purposes of Federal law, all State laws pertaining to the licensing, regulation, or prohibition of gambling, including but not limited to criminal sanctions applicable thereto, shall apply in Indian country in the same manner and to the same extent as such laws apply elsewhere in the State.
 
@@ -562,37 +562,37 @@ Whoever, without lawful authority or permission, willfully and knowingly goes up
 
 **(d)** The United States shall have exclusive jurisdiction over criminal prosecutions of violations of State gambling laws that are made applicable under this section to Indian country, unless an Indian tribe pursuant to a Tribal-State compact approved by the Secretary of the Interior under section 11(d)(8) of the Indian Gaming Regulatory Act, or under any other provision of Federal law, has consented to the transfer to the State of criminal jurisdiction with respect to gambling on the lands of the Indian tribe.
 
-(Added Pub. L. 100–497, § 23, Oct. 17, 1988, 102 Stat. 2487.)
+(Added Pub. L. 100–497, § 23, Oct. 17, 1988, 102 Stat. 2487.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Gaming Regulatory Act, referred to in subsec. (c), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which enacted sections 1166 to 1168 of this title and chapter 25 (§ 2701 et seq.) of Title 25, Indians. Section 11(d)(8) of such Act is classified to section 2710(d)(8) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 25 and Tables.
+The Indian Gaming Regulatory Act, referred to in subsec. (c), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which enacted sections 1166 to 1168 of this title and chapter 25 (§ 2701 et seq.) of Title 25, Indians. Section 11(d)(8) of such Act is classified to section 2710(d)(8) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 25 and Tables.
 
-## § 1167. Theft from gaming establishments on Indian lands
+## § 1167. Theft from gaming establishments on Indian lands
 
 **(a)** Whoever abstracts, purloins, willfully misapplies, or takes and carries away with intent to steal, any money, funds, or other property of a value of $1,000 or less belonging to an establishment operated by or for or licensed by an Indian tribe pursuant to an ordinance or resolution approved by the National Indian Gaming Commission shall be fined under this title or be imprisoned for not more than one year, or both.
 
 **(b)** Whoever abstracts, purloins, willfully misapplies, or takes and carries away with intent to steal, any money, funds, or other property of a value in excess of $1,000 belonging to a gaming establishment operated by or for or licensed by an Indian tribe pursuant to an ordinance or resolution approved by the National Indian Gaming Commission shall be fined under this title, or imprisoned for not more than ten years, or both.
 
-(Added Pub. L. 100–497, § 23, Oct. 17, 1988, 102 Stat. 2487; amended Pub. L. 103–322, title XXXIII, § 330016(1)(S), (U), Sept. 13, 1994, 108 Stat. 2148.)
+(Added Pub. L. 100–497, § 23, Oct. 17, 1988, 102 Stat. 2487; amended Pub. L. 103–322, title XXXIII, § 330016(1)(S), (U), Sept. 13, 1994, 108 Stat. 2148.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–322, § 330016(1)(S), substituted “fined under this title” for “fined not more than $100,000”.
+1994—Subsec. (a). Pub. L. 103–322, § 330016(1)(S), substituted “fined under this title” for “fined not more than $100,000”.
 
-Subsec. (b). Pub. L. 103–322, § 330016(1)(U), substituted “fined under this title” for “fined not more than $250,000”.
+Subsec. (b). Pub. L. 103–322, § 330016(1)(U), substituted “fined under this title” for “fined not more than $250,000”.
 
-## § 1168. Theft by officers or employees of gaming establishments on Indian lands
+## § 1168. Theft by officers or employees of gaming establishments on Indian lands
 
 **(a)** Whoever, being an officer, employee, or individual licensee of a gaming establishment operated by or for or licensed by an Indian tribe pursuant to an ordinance or resolution approved by the National Indian Gaming Commission, embezzles, abstracts, purloins, willfully misapplies, or takes and carries away with intent to steal, any moneys, funds, assets, or other property of such establishment of a value of $1,000 or less shall be fined not more than $250,000 or imprisoned not more than five years, or both;
 
 **(b)** Whoever, being an officer, employee, or individual licensee of a gaming establishment operated by or for or licensed by an Indian tribe pursuant to an ordinance or resolution approved by the National Indian Gaming Commission, embezzles, abstracts, purloins, willfully misapplies, or takes and carries away with intent to steal, any moneys, funds, assets, or other property of such establishment of a value in excess of $1,000 shall be fined not more than $1,000,000 or imprisoned for not more than twenty years, or both.
 
-(Added Pub. L. 100–497, § 23, Oct. 17, 1988, 102 Stat. 2487; amended Pub. L. 101–647, title XXXV, § 3537, Nov. 29, 1990, 104 Stat. 4925.)
+(Added Pub. L. 100–497, § 23, Oct. 17, 1988, 102 Stat. 2487; amended Pub. L. 101–647, title XXXV, § 3537, Nov. 29, 1990, 104 Stat. 4925.)
 
 **Editorial Notes**
 
@@ -600,7 +600,7 @@ Subsec. (b). Pub. L. 103–322, § 330016(1)(U), substituted “fined under th
 
 1990—Subsec. (a). Pub. L. 101–647 substituted “or imprisoned” for “and be imprisoned for”.
 
-## § 1169. Reporting of child abuse
+## § 1169. Reporting of child abuse
 
 **(a)** Any person who—
 
@@ -664,17 +664,17 @@ shall be fined under this title or imprisoned for not more than 6 months or both
 
 **(d)** Any person making a report described in subsection (a) which is based upon their reasonable belief and which is made in good faith shall be immune from civil or criminal liability for making that report.
 
-(Added Pub. L. 101–630, title IV, § 404(a)(1), Nov. 28, 1990, 104 Stat. 4547; amended Pub. L. 103–322, title XXXIII, §§ 330011(d), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2144, 2147; Pub. L. 104–294, title VI, § 604(b)(25), Oct. 11, 1996, 110 Stat. 3508.)
+(Added Pub. L. 101–630, title IV, § 404(a)(1), Nov. 28, 1990, 104 Stat. 4547; amended Pub. L. 103–322, title XXXIII, §§ 330011(d), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2144, 2147; Pub. L. 104–294, title VI, § 604(b)(25), Oct. 11, 1996, 110 Stat. 3508.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Pub. L. 104–294 amended directory language of Pub. L. 103–322, § 330011(d). See 1994 Amendment note below.
+1996—Pub. L. 104–294 amended directory language of Pub. L. 103–322, § 330011(d). See 1994 Amendment note below.
 
-1994—Pub. L. 103–322, § 330011(d), as amended by Pub. L. 104–294, amended directory language of Pub. L. 101–630, § 404(a)(1), which enacted this section.
+1994—Pub. L. 103–322, § 330011(d), as amended by Pub. L. 104–294, amended directory language of Pub. L. 101–630, § 404(a)(1), which enacted this section.
 
-Subsecs. (a), (b). Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in concluding provisions.
+Subsecs. (a), (b). Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in concluding provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -684,26 +684,26 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–322, title XXXIII, § 330011(d), Sept. 13, 1994, 108 Stat. 2144, as amended by Pub. L. 104–294, title VI, § 604(b)(25), Oct. 11, 1996, 110 Stat. 3508, provided that the amendment made by section 330011(d) is effective on the date section 404(a) of Pub. L. 101–630 took effect.
+Pub. L. 103–322, title XXXIII, § 330011(d), Sept. 13, 1994, 108 Stat. 2144, as amended by Pub. L. 104–294, title VI, § 604(b)(25), Oct. 11, 1996, 110 Stat. 3508, provided that the amendment made by section 330011(d) is effective on the date section 404(a) of Pub. L. 101–630 took effect.
 
-## § 1170. Illegal trafficking in Native American human remains and cultural items
+## § 1170. Illegal trafficking in Native American human remains and cultural items
 
 **(a)** Whoever knowingly sells, purchases, uses for profit, or transports for sale or profit, the human remains of a Native American without the right of possession to those remains as provided in the Native American Graves Protection and Repatriation Act shall be fined in accordance with this title, or imprisoned not more than 1 year and 1 day, or both, and in the case of a second or subsequent violation, be fined in accordance with this title, or imprisoned not more than 10 years, or both.
 
 **(b)** Whoever knowingly sells, purchases, uses for profit, or transports for sale or profit any Native American cultural items obtained in violation of the Native American Grave Protection and Repatriation Act shall be fined in accordance with this title, imprisoned not more than one year, or both, and in the case of a second or subsequent violation, be fined in accordance with this title, imprisoned not more than 10 years, or both.
 
-(Added Pub. L. 101–601, § 4(a), Nov. 16, 1990, 104 Stat. 3052; amended Pub. L. 103–322, title XXXIII, § 330010(4), Sept. 13, 1994, 108 Stat. 2143; Pub. L. 117–258, § 4, Dec. 21, 2022, 136 Stat. 2374.)
+(Added Pub. L. 101–601, § 4(a), Nov. 16, 1990, 104 Stat. 3052; amended Pub. L. 103–322, title XXXIII, § 330010(4), Sept. 13, 1994, 108 Stat. 2143; Pub. L. 117–258, § 4, Dec. 21, 2022, 136 Stat. 2374.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Native American Graves Protection and Repatriation Act, referred to in text, is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 25 and Tables.
+The Native American Graves Protection and Repatriation Act, referred to in text, is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 25 and Tables.
 
 **Amendments**
 
 2022—Subsec. (a). Pub. L. 117–258 substituted “1 year and 1 day” for “12 months” and “10 years” for “5 years”.
 
-Subsec. (b). Pub. L. 117–258, § 4(1), substituted “10 years” for “5 years”.
+Subsec. (b). Pub. L. 117–258, § 4(1), substituted “10 years” for “5 years”.
 
 1994—Pub. L. 103–322 substituted “Illegal trafficking in Native American human remains and cultural items” for “Illegal Trafficking in Native American Human Remains and Cultural Items” in section catchline.

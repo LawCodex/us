@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 212—MILITARY EXTRATERRITORIAL JURISDICTION
 
-## § 3261. Criminal offenses committed by certain members of the Armed Forces and by persons employed by or accompanying the Armed Forces outside the United States
+## § 3261. Criminal offenses committed by certain members of the Armed Forces and by persons employed by or accompanying the Armed Forces outside the United States
 
 **(a)** Whoever engages in conduct outside the United States that would constitute an offense punishable by imprisonment for more than 1 year if the conduct had been engaged in within the special maritime and territorial jurisdiction of the United States—
 
@@ -35,23 +35,23 @@ shall be punished as provided for that offense.
 
 **(2)** an indictment or information charges that the member committed the offense with one or more other defendants, at least one of whom is not subject to such chapter.
 
-(Added Pub. L. 106–523, § 2(a), Nov. 22, 2000, 114 Stat. 2488.)
+(Added Pub. L. 106–523, § 2(a), Nov. 22, 2000, 114 Stat. 2488.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–523, § 1, Nov. 22, 2000, 114 Stat. 2488, provided that: “This Act [enacting this chapter] may be cited as the ‘Military Extraterritorial Jurisdiction Act of 2000’.”
+Pub. L. 106–523, § 1, Nov. 22, 2000, 114 Stat. 2488, provided that: “This Act [enacting this chapter] may be cited as the ‘Military Extraterritorial Jurisdiction Act of 2000’.”
 
-## § 3262. Arrest and commitment
+## § 3262. Arrest and commitment
 
 **(a)** The Secretary of Defense may designate and authorize any person serving in a law enforcement position in the Department of Defense to arrest, in accordance with applicable international agreements, outside the United States any person described in section 3261(a) if there is probable cause to believe that such person violated section 3261(a).
 
 **(b)** Except as provided in sections 3263 and 3264, a person arrested under subsection (a) shall be delivered as soon as practicable to the custody of civilian law enforcement authorities of the United States for removal to the United States for judicial proceedings in relation to conduct referred to in such subsection unless such person has had charges brought against him or her under chapter 47 of title 10 for such conduct.
 
-(Added Pub. L. 106–523, § 2(a), Nov. 22, 2000, 114 Stat. 2489.)
+(Added Pub. L. 106–523, § 2(a), Nov. 22, 2000, 114 Stat. 2489.)
 
-## § 3263. Delivery to authorities of foreign countries
+## § 3263. Delivery to authorities of foreign countries
 
 **(a)** Any person designated and authorized under section 3262(a) may deliver a person described in section 3261(a) to the appropriate authorities of a foreign country in which such person is alleged to have violated section 3261(a) if—
 
@@ -61,9 +61,9 @@ Pub. L. 106–523, § 1, Nov. 22, 2000, 114 Stat. 2488, provided that: “This
 
 **(b)** The Secretary of Defense, in consultation with the Secretary of State, shall determine which officials of a foreign country constitute appropriate authorities for purposes of this section.
 
-(Added Pub. L. 106–523, § 2(a), Nov. 22, 2000, 114 Stat. 2489.)
+(Added Pub. L. 106–523, § 2(a), Nov. 22, 2000, 114 Stat. 2489.)
 
-## § 3264. Limitation on removal
+## § 3264. Limitation on removal
 
 **(a)** Except as provided in subsection (b), and except for a person delivered to authorities of a foreign country under section 3263, a person arrested for or charged with a violation of section 3261(a) shall not be removed—
 
@@ -83,7 +83,7 @@ Pub. L. 106–523, § 1, Nov. 22, 2000, 114 Stat. 2488, provided that: “This
 
 **(5)** the Secretary of Defense determines that military necessity requires that the limitations in subsection (a) be waived, in which case the person shall be removed to the nearest United States military installation outside the United States adequate to detain the person and to facilitate the initial appearance described in section 3265(a).
 
-(Added Pub. L. 106–523, § 2(a), Nov. 22, 2000, 114 Stat. 2489.)
+(Added Pub. L. 106–523, § 2(a), Nov. 22, 2000, 114 Stat. 2489.)
 
 **Editorial Notes**
 
@@ -91,7 +91,7 @@ Pub. L. 106–523, § 1, Nov. 22, 2000, 114 Stat. 2488, provided that: “This
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(3), are set out in the Appendix to this title.
 
-## § 3265. Initial proceedings
+## § 3265. Initial proceedings
 
 **(a)**
 
@@ -121,7 +121,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (b)(3), are set 
 
 **(B)** is certified as competent to perform such duties by the Judge Advocate General of the armed force of which he is a member.
 
-(Added Pub. L. 106–523, § 2(a), Nov. 22, 2000, 114 Stat. 2490.)
+(Added Pub. L. 106–523, § 2(a), Nov. 22, 2000, 114 Stat. 2490.)
 
 **Editorial Notes**
 
@@ -129,7 +129,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (b)(3), are set 
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (a)(1), are set out in the Appendix to this title.
 
-## § 3266. Regulations
+## § 3266. Regulations
 
 **(a)** The Secretary of Defense, after consultation with the Secretary of State and the Attorney General, shall prescribe regulations governing the apprehension, detention, delivery, and removal of persons under this chapter and the facilitation of proceedings under section 3265. Such regulations shall be uniform throughout the Department of Defense.
 
@@ -141,9 +141,9 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (a)(1), are set 
 
 **(c)** The regulations prescribed under this section, and any amendments to those regulations, shall not take effect before the date that is 90 days after the date on which the Secretary of Defense submits a report containing those regulations or amendments (as the case may be) to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate.
 
-(Added Pub. L. 106–523, § 2(a), Nov. 22, 2000, 114 Stat. 2491.)
+(Added Pub. L. 106–523, § 2(a), Nov. 22, 2000, 114 Stat. 2491.)
 
-## § 3267. Definitions
+## § 3267. Definitions
 
 As used in this chapter:
 
@@ -191,7 +191,7 @@ As used in this chapter:
 
 **(4)** The terms “Judge Advocate General” and “judge advocate” have the meanings given such terms in section 801 of title 10.
 
-(Added Pub. L. 106–523, § 2(a), Nov. 22, 2000, 114 Stat. 2491; amended Pub. L. 108–375, div. A, title X, § 1088, Oct. 28, 2004, 118 Stat. 2066.)
+(Added Pub. L. 106–523, § 2(a), Nov. 22, 2000, 114 Stat. 2491; amended Pub. L. 108–375, div. A, title X, § 1088, Oct. 28, 2004, 118 Stat. 2066.)
 
 **Editorial Notes**
 

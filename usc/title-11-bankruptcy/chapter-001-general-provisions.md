@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2005—Pub. L. 109–8, title I, § 106(e)(2), title II, § 233(b), Apr. 20, 2005, 119 Stat. 41, 74, added items 111 and 112.
+2005—Pub. L. 109–8, title I, § 106(e)(2), title II, § 233(b), Apr. 20, 2005, 119 Stat. 41, 74, added items 111 and 112.
 
-1994—Pub. L. 103–394, title III, § 308(b), Oct. 22, 1994, 108 Stat. 4137, added item 110.
+1994—Pub. L. 103–394, title III, § 308(b), Oct. 22, 1994, 108 Stat. 4137, added item 110.
 
-## § 101. Definitions
+## § 101. Definitions
 
 In this title the following definitions shall apply:
 
@@ -49,7 +49,7 @@ In this title the following definitions shall apply:
 
 **(3)** The term “assisted person” means any person whose debts consist primarily of consumer debts and the value of whose nonexempt property is less than $150,000.1
 
-<sup>1</sup>  See Adjustment of Dollar Amounts notes below.
+<sup>1</sup> See Adjustment of Dollar Amounts notes below.
 
 **(4)** The term “attorney” means attorney, professional law association, corporation, or partnership, authorized under applicable law to practice law.
 
@@ -193,7 +193,7 @@ In this title the following definitions shall apply:
 
 **(18)** The term “family farmer” means—
 
-**(A)** individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $10,000,000 <sup>1</sup> and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual’s or such individual and spouse’s gross income for—
+**(A)** individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $10,000,000 <sup>1</sup> and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual’s or such individual and spouse’s gross income for—
 
 **(i)** the taxable year preceding; or
 
@@ -205,7 +205,7 @@ the taxable year in which the case concerning such individual or such individual
 
 **(i)** more than 80 percent of the value of its assets consists of assets related to the farming operation;
 
-**(ii)** its aggregate debts do not exceed $10,000,000 <sup>1</sup> and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
+**(ii)** its aggregate debts do not exceed $10,000,000 <sup>1</sup> and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
 
 **(iii)** if such corporation issues stock, such stock is not publicly traded.
 
@@ -215,7 +215,7 @@ the taxable year in which the case concerning such individual or such individual
 
 **(A)** an individual or individual and spouse engaged in a commercial fishing operation—
 
-**(i)** whose aggregate debts do not exceed $1,500,000 <sup>1</sup> and not less than 80 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse, unless such debt arises out of a commercial fishing operation), on the date the case is filed, arise out of a commercial fishing operation owned or operated by such individual or such individual and spouse; and
+**(i)** whose aggregate debts do not exceed $1,500,000 <sup>1</sup> and not less than 80 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse, unless such debt arises out of a commercial fishing operation), on the date the case is filed, arise out of a commercial fishing operation owned or operated by such individual or such individual and spouse; and
 
 **(ii)** who receive from such commercial fishing operation more than 50 percent of such individual’s or such individual’s and spouse’s gross income for the taxable year preceding the taxable year in which the case concerning such individual or such individual and spouse was filed; or
 
@@ -231,7 +231,7 @@ the taxable year in which the case concerning such individual or such individual
 
 **(I)** more than 80 percent of the value of its assets consists of assets related to the commercial fishing operation;
 
-**(II)** its aggregate debts do not exceed $1,500,000 <sup>1</sup> and not less than 80 percent of its aggregate noncontingent, liquidated debts (excluding a debt for 1 dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a commercial fishing operation), on the date the case is filed, arise out of a commercial fishing operation owned or operated by such corporation or such partnership; and
+**(II)** its aggregate debts do not exceed $1,500,000 <sup>1</sup> and not less than 80 percent of its aggregate noncontingent, liquidated debts (excluding a debt for 1 dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a commercial fishing operation), on the date the case is filed, arise out of a commercial fishing operation owned or operated by such corporation or such partnership; and
 
 **(III)** if such corporation issues stock, such stock is not publicly traded.
 
@@ -275,9 +275,9 @@ the taxable year in which the case concerning such individual or such individual
 
 **(25)** The term “forward contract” means—
 
-**(A)** a contract (other than a commodity contract, as defined in section 761) for the purchase, sale, or transfer of a commodity, as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than two days after the date the contract is entered into, including, but not limited to, a repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a “repurchase agreement”, as defined in this section) 2
+**(A)** a contract (other than a commodity contract, as defined in section 761) for the purchase, sale, or transfer of a commodity, as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than two days after the date the contract is entered into, including, but not limited to, a repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a “repurchase agreement”, as defined in this section) 2
 
-<sup>2</sup>  So in original. Probably should be followed by a comma.
+<sup>2</sup> So in original. Probably should be followed by a comma.
 
 consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
 
@@ -505,9 +505,9 @@ shall be considered, for purposes of section 1102 of this title, to be a person 
 
 **(ii)** any other information concerning an identified individual that, if disclosed, will result in contacting or identifying such individual physically or electronically.
 
-**(42)** The term “petition” means petition filed under section 301, 302, 303 and 3
+**(42)** The term “petition” means petition filed under section 301, 302, 303 and 3
 
-<sup>3</sup>  So in original. Probably should be “or”. See 2010 Amendment note below.
+<sup>3</sup> So in original. Probably should be “or”. See 2010 Amendment note below.
 
 1504 of this title, as the case may be, commencing a case under this title.
 
@@ -607,11 +607,11 @@ shall be considered, for purposes of section 1102 of this title, to be a person 
 
 **(51D)** The term “small business debtor”—
 
-**(A)** subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning single asset real estate) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $2,000,000 <sup>1</sup> (excluding debts owed to 1 or more affiliates or insiders) not less than 50 percent of which arose from the commercial or business activities of the debtor; and
+**(A)** subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning single asset real estate) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $2,000,000 <sup>1</sup> (excluding debts owed to 1 or more affiliates or insiders) not less than 50 percent of which arose from the commercial or business activities of the debtor; and
 
 **(B)** does not include—
 
-**(i)** any member of a group of affiliated debtors under this title that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 <sup>1</sup> (excluding debt owed to 1 or more affiliates or insiders);
+**(i)** any member of a group of affiliated debtors under this title that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 <sup>1</sup> (excluding debt owed to 1 or more affiliates or insiders);
 
 **(ii)** any debtor that is a corporation subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m, 78*o*(d)); or
 
@@ -675,9 +675,9 @@ shall be considered, for purposes of section 1102 of this title, to be a person 
 
 **(53C)** The term “swap participant” means an entity that, at any time before the filing of the petition, has an outstanding swap agreement with the debtor.
 
-**(56A)**  4
+**(56A)** 4
 
-<sup>4</sup>  So in original.
+<sup>4</sup> So in original.
 
 The term “term overriding royalty” means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized.
 
@@ -701,11 +701,11 @@ The term “term overriding royalty” means an interest in liquid or gaseous hy
 
 **(55)** The term “United States”, when used in a geographical sense, includes all locations where the judicial jurisdiction of the United States extends, including territories and possessions of the United States.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, § 1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§ 391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§ 201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, § 1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, § 1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, § 101, title II, § 201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, § 2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, § 3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, § 106, title II, §§ 208(a), 215, 217(a), 218(a), title III, § 304(a), title V, § 501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(3), (4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394; Pub. L. 109–8, title I, § 102(b), (k), title II, §§ 211, 226(a), 231(b), title III, § 306(c), title IV, §§ 401(a), 414, 432(a), title VIII, § 802(b), title IX, § 907(a)(1), (b), (c), title X, §§ 1004, 1005, 1007(a), title XI, § 1101(a), (b), title XII, § 1201, Apr. 20, 2005, 119 Stat. 32, 35, 50, 66, 73, 80, 104, 107, 110, 145, 170, 175, 186, 187, 189, 192; Pub. L. 109–390, § 5(a)(1), Dec. 12, 2006, 120 Stat. 2695; Pub. L. 111–327, § 2(a)(1), Dec. 22, 2010, 124 Stat. 3557; Pub. L. 116–51, § 2, Aug. 23, 2019, 133 Stat. 1075; Pub. L. 116–52, § 2, Aug. 23, 2019, 133 Stat. 1076; Pub. L. 116–54, § 4(a)(1), Aug. 23, 2019, 133 Stat. 1085; Pub. L. 116–92, div. A, title XVII, § 1736, Dec. 20, 2019, 133 Stat. 1819; Pub. L. 116–136, div. A, title I, § 1113(a)(4)(A), (b)(1)(A), (2)(A)(i), Mar. 27, 2020, 134 Stat. 311, 312; Pub. L. 117–151, § 2(a), June 21, 2022, 136 Stat. 1298; Pub. L. 119–27, § 11(b), July 18, 2025, 139 Stat. 457.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, § 1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§ 391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§ 201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, § 1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, § 1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, § 101, title II, § 201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, § 2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, § 3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, § 106, title II, §§ 208(a), 215, 217(a), 218(a), title III, § 304(a), title V, § 501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(3), (4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394; Pub. L. 109–8, title I, § 102(b), (k), title II, §§ 211, 226(a), 231(b), title III, § 306(c), title IV, §§ 401(a), 414, 432(a), title VIII, § 802(b), title IX, § 907(a)(1), (b), (c), title X, §§ 1004, 1005, 1007(a), title XI, § 1101(a), (b), title XII, § 1201, Apr. 20, 2005, 119 Stat. 32, 35, 50, 66, 73, 80, 104, 107, 110, 145, 170, 175, 186, 187, 189, 192; Pub. L. 109–390, § 5(a)(1), Dec. 12, 2006, 120 Stat. 2695; Pub. L. 111–327, § 2(a)(1), Dec. 22, 2010, 124 Stat. 3557; Pub. L. 116–51, § 2, Aug. 23, 2019, 133 Stat. 1075; Pub. L. 116–52, § 2, Aug. 23, 2019, 133 Stat. 1076; Pub. L. 116–54, § 4(a)(1), Aug. 23, 2019, 133 Stat. 1085; Pub. L. 116–92, div. A, title XVII, § 1736, Dec. 20, 2019, 133 Stat. 1819; Pub. L. 116–136, div. A, title I, § 1113(a)(4)(A), (b)(1)(A), (2)(A)(i), Mar. 27, 2020, 134 Stat. 311, 312; Pub. L. 117–151, § 2(a), June 21, 2022, 136 Stat. 1298; Pub. L. 119–27, § 11(b), July 18, 2025, 139 Stat. 457.)
 
 **Amendment of Section**
 
-Pub. L. 119–27, §§ 11(b), 20, July 18, 2025, 139 Stat. 457, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, this section is amended by adding after paragraph (40B) the following:
+Pub. L. 119–27, §§ 11(b), 20, July 18, 2025, 139 Stat. 457, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, this section is amended by adding after paragraph (40B) the following:
 
 *(40C) The terms “payment stablecoin” and “permitted payment stablecoin issuer” have the meanings given those terms in section 2 of the GENIUS Act.*
 
@@ -837,7 +837,7 @@ Paragraph (40) defines “transfer.” It is derived and adapted, with stylistic
 
 **References in Text**
 
-The Social Security Act, referred to in par. (10A)(B)(ii)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (10A)(B)(ii)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Internal Revenue Code of 1986, referred to in pars. (12A)(B) and (41)(C), is classified generally to Title 26, Internal Revenue Code.
 
@@ -845,19 +845,19 @@ Section 3 of the Federal Deposit Insurance Act, referred to in pars. (12A)(D), (
 
 Sections 101 and 206(r) of the Federal Credit Union Act, referred to in pars. (12A)(D), (33)(B), and (34), are classified to sections 1752 and 1786(r), respectively, of Title 12, Banks and Banking.
 
-The Investment Company Act of 1940, referred to in par. (22)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in par. (22)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 Section 402 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (22A)(B), is classified to section 4402 of Title 12, Banks and Banking.
 
-The Securities Exchange Act of 1934, referred to in pars. (47)(A)(i), (48), (48A), and (53B)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. Sections 3, 6, 15A, and 17A of the Act are classified to sections 78c, 78f, 78*o*–3 and 78q–1, respectively, of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in pars. (47)(A)(i), (48), (48A), and (53B)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. Sections 3, 6, 15A, and 17A of the Act are classified to sections 78c, 78f, 78*o*–3 and 78q–1, respectively, of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Securities Act of 1933, referred to in par. (49)(A)(xii), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. Section 3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in par. (49)(A)(xii), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. Section 3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 The Gramm-Leach-Bliley Act, referred to in par. (53B)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
-The Legal Certainty for Bank Products Act of 2000, referred to in par. (53B)(B), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, § 1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
+The Legal Certainty for Bank Products Act of 2000, referred to in par. (53B)(B), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, § 1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
 
-The Commodity Exchange Act, referred to in par. (53B)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in par. (53B)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 **Codification**
 
@@ -867,15 +867,15 @@ Pub. L. 116–52, effective Aug. 23, 2019, and Pub. L. 116–92, effective Dec. 
 
 2025—Par. (40C). Pub. L. 119–27 added par. (40C).
 
-2022—Par. (51D)(B)(i). Pub. L. 117–151, § 2(a)(1), inserted “under this title” after “affiliated debtors”.
+2022—Par. (51D)(B)(i). Pub. L. 117–151, § 2(a)(1), inserted “under this title” after “affiliated debtors”.
 
-Par. (51D)(B)(iii). Pub. L. 117–151, § 2(a)(2), substituted “a corporation described in clause (ii).” for “an issuer (as defined in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c)).”
+Par. (51D)(B)(iii). Pub. L. 117–151, § 2(a)(2), substituted “a corporation described in clause (ii).” for “an issuer (as defined in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c)).”
 
-2020—Par. (10A)(B)(ii)(V). Pub. L. 116–136, § 1113(b)(2)(A)(i), struck out subcl. (V) which read as follows: “Payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to the coronavirus disease 2019 (COVID–19).”
+2020—Par. (10A)(B)(ii)(V). Pub. L. 116–136, § 1113(b)(2)(A)(i), struck out subcl. (V) which read as follows: “Payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to the coronavirus disease 2019 (COVID–19).”
 
-Pub. L. 116–136, § 1113(b)(1)(A), added subcl. (V).
+Pub. L. 116–136, § 1113(b)(1)(A), added subcl. (V).
 
-Par. (51D)(B)(iii). Pub. L. 116–136, § 1113(a)(4)(A), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “any corporation that—
+Par. (51D)(B)(iii). Pub. L. 116–136, § 1113(a)(4)(A), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “any corporation that—
 
 “(I) is subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m, 78*o*(d)); and
 
@@ -887,95 +887,95 @@ Pub. L. 116–52 added subpar. (B) and struck out former subpar. (B) which read 
 
 Par. (18). Pub. L. 116–51 substituted “$10,000,000” for “$3,237,000” in two places.
 
-Par. (51C). Pub. L. 116–54, § 4(a)(1)(A), inserted “and has not elected that subchapter V of chapter 11 of this title shall apply” after “is a small business debtor”.
+Par. (51C). Pub. L. 116–54, § 4(a)(1)(A), inserted “and has not elected that subchapter V of chapter 11 of this title shall apply” after “is a small business debtor”.
 
-Par. (51D)(A). Pub. L. 116–54, § 4(a)(1)(B)(i), substituted “single asset real estate” for “or operating real property or activities incidental thereto” and “not less than 50 percent of which arose from the commercial or business activities of the debtor; and” for “for a case in which the United States trustee has not appointed under section 1102(a)(1) a committee of unsecured creditors or where the court has determined that the committee of unsecured creditors is not sufficiently active and representative to provide effective oversight of the debtor; and”.
+Par. (51D)(A). Pub. L. 116–54, § 4(a)(1)(B)(i), substituted “single asset real estate” for “or operating real property or activities incidental thereto” and “not less than 50 percent of which arose from the commercial or business activities of the debtor; and” for “for a case in which the United States trustee has not appointed under section 1102(a)(1) a committee of unsecured creditors or where the court has determined that the committee of unsecured creditors is not sufficiently active and representative to provide effective oversight of the debtor; and”.
 
-Par. (51D)(B). Pub. L. 116–54, § 4(a)(1)(B)(ii), substituted “does not include—” for “does not include”, inserted cl. (i) designation before “any member”, and added cls. (ii) and (iii).
+Par. (51D)(B). Pub. L. 116–54, § 4(a)(1)(B)(ii), substituted “does not include—” for “does not include”, inserted cl. (i) designation before “any member”, and added cls. (ii) and (iii).
 
-2010—Par. (13A)(A). Pub. L. 111–327, § 2(a)(1)(A)(i), inserted “if used as the principal residence by the debtor” after “a residential structure”.
+2010—Par. (13A)(A). Pub. L. 111–327, § 2(a)(1)(A)(i), inserted “if used as the principal residence by the debtor” after “a residential structure”.
 
-Par. (13A)(B). Pub. L. 111–327, § 2(a)(1)(A)(ii), inserted “if used as the principal residence by the debtor” before period at end.
+Par. (13A)(B). Pub. L. 111–327, § 2(a)(1)(A)(ii), inserted “if used as the principal residence by the debtor” before period at end.
 
-Par. (35)(B). Pub. L. 111–327, § 2(a)(1)(B), substituted “paragraphs (21B) and (33)(A)” for “paragraphs (23) and (35)”.
+Par. (35)(B). Pub. L. 111–327, § 2(a)(1)(B), substituted “paragraphs (21B) and (33)(A)” for “paragraphs (23) and (35)”.
 
-Par. (40B). Pub. L. 111–327, § 2(a)(1)(C), substituted “record relating to a patient, including a written document or a” for “written document relating to a patient or a”.
+Par. (40B). Pub. L. 111–327, § 2(a)(1)(C), substituted “record relating to a patient, including a written document or a” for “written document relating to a patient or a”.
 
-Par. (42). Pub. L. 111–327, § 2(a)(1)(D), which directed substitution of “303 and 1504” for “303, and 304”, was executed by making the substitution for “303, or 304” to reflect the probable intent of Congress.
+Par. (42). Pub. L. 111–327, § 2(a)(1)(D), which directed substitution of “303 and 1504” for “303, and 304”, was executed by making the substitution for “303, or 304” to reflect the probable intent of Congress.
 
-Par. (51B). Pub. L. 111–327, § 2(a)(1)(E), inserted “thereto” before period at end.
+Par. (51B). Pub. L. 111–327, § 2(a)(1)(E), inserted “thereto” before period at end.
 
-Par. (51D)(A). Pub. L. 111–327, § 2(a)(1)(F), inserted “of the filing” after “as of the date”.
+Par. (51D)(A). Pub. L. 111–327, § 2(a)(1)(F), inserted “of the filing” after “as of the date”.
 
-2006—Par. (22)(A). Pub. L. 109–390, § 5(a)(1)(A), struck out “(domestic or foreign)” after “an entity” and inserted “(whether or not a ‘customer’, as defined in section 741)” after “custodian for a customer”.
+2006—Par. (22)(A). Pub. L. 109–390, § 5(a)(1)(A), struck out “(domestic or foreign)” after “an entity” and inserted “(whether or not a ‘customer’, as defined in section 741)” after “custodian for a customer”.
 
-Par. (22A)(A). Pub. L. 109–390, § 5(a)(1)(B), inserted “(aggregated across counterparties)” after “principal amount outstanding” and substituted “at such time or on any day during the 15-month period preceding the date of the filing of the petition” for “on any day during the previous 15-month period” in two places.
+Par. (22A)(A). Pub. L. 109–390, § 5(a)(1)(B), inserted “(aggregated across counterparties)” after “principal amount outstanding” and substituted “at such time or on any day during the 15-month period preceding the date of the filing of the petition” for “on any day during the previous 15-month period” in two places.
 
-Par. (25)(A). Pub. L. 109–390, § 5(a)(1)(C), inserted “, as defined in section 761” after “commodity contract” and substituted “repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in this section)” for “repurchase transaction, reverse repurchase transaction,”.
+Par. (25)(A). Pub. L. 109–390, § 5(a)(1)(C), inserted “, as defined in section 761” after “commodity contract” and substituted “repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in this section)” for “repurchase transaction, reverse repurchase transaction,”.
 
-Par. (53B)(A)(i)(II). Pub. L. 109–390, § 5(a)(1)(D)(i)(I), substituted “, precious metals, or other commodity” for “or precious metals”.
+Par. (53B)(A)(i)(II). Pub. L. 109–390, § 5(a)(1)(D)(i)(I), substituted “, precious metals, or other commodity” for “or precious metals”.
 
-Par. (53B)(A)(i)(VIII). Pub. L. 109–390, § 5(a)(1)(D)(i)(III), substituted “option, future, or forward agreement” for “weather derivative, or weather option”.
+Par. (53B)(A)(i)(VIII). Pub. L. 109–390, § 5(a)(1)(D)(i)(III), substituted “option, future, or forward agreement” for “weather derivative, or weather option”.
 
-Par. (53B)(A)(i)(IX), (X). Pub. L. 109–390, § 5(a)(1)(D)(i)(II), (IV), added subcls. (IX) and (X).
+Par. (53B)(A)(i)(IX), (X). Pub. L. 109–390, § 5(a)(1)(D)(i)(II), (IV), added subcls. (IX) and (X).
 
-Par. (53B)(A)(ii). Pub. L. 109–390, § 5(a)(1)(D)(ii), inserted “or other derivatives” after “dealings in the swap” in subcl. (I) and substituted “future, option, or spot transaction” for “future, or option” in subcl. (II).
+Par. (53B)(A)(ii). Pub. L. 109–390, § 5(a)(1)(D)(ii), inserted “or other derivatives” after “dealings in the swap” in subcl. (I) and substituted “future, option, or spot transaction” for “future, or option” in subcl. (II).
 
-Par. (53B)(B). Pub. L. 109–390, § 5(a)(1)(E), substituted “the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000, the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934) and the Commodity Exchange Act” for “the Securities Act of 1933, the Securities Exchange Act of 1934, the Public Utility Holding Company Act of 1935, the Trust Indenture Act of 1939, the Investment Company Act of 1940, the Investment Advisers Act of 1940, the Securities Investor Protection Act of 1970, the Commodity Exchange Act, the Gramm-Leach-Bliley Act, and the Legal Certainty for Bank Products Act of 2000”.
+Par. (53B)(B). Pub. L. 109–390, § 5(a)(1)(E), substituted “the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000, the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934) and the Commodity Exchange Act” for “the Securities Act of 1933, the Securities Exchange Act of 1934, the Public Utility Holding Company Act of 1935, the Trust Indenture Act of 1939, the Investment Company Act of 1940, the Investment Advisers Act of 1940, the Securities Investor Protection Act of 1970, the Commodity Exchange Act, the Gramm-Leach-Bliley Act, and the Legal Certainty for Bank Products Act of 2000”.
 
-2005—Pub. L. 109–8, § 1201(1), substituted “In this title the following definitions shall apply:” for “In this title—” in introductory provisions.
+2005—Pub. L. 109–8, § 1201(1), substituted “In this title the following definitions shall apply:” for “In this title—” in introductory provisions.
 
-Pars. (1), (2). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (1), (2). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (3). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (3). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 226(a)(1), added par. (3).
+Pub. L. 109–8, § 226(a)(1), added par. (3).
 
-Par. (4). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (4). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (4A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (4A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 226(a)(2), added par. (4A).
+Pub. L. 109–8, § 226(a)(2), added par. (4A).
 
-Pars. (5) to (7). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (5) to (7). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pars. (7A), (7B). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (7A), (7B). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 1007(a)(1), added pars. (7A) and (7B).
+Pub. L. 109–8, § 1007(a)(1), added pars. (7A) and (7B).
 
-Pars. (8) to (10). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (8) to (10). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (10A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (10A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 102(b), added par. (10A).
+Pub. L. 109–8, § 102(b), added par. (10A).
 
-Pars. (11), (12). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (11), (12). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (12A). Pub. L. 109–8, § 1201(8), which directed the substitution of a period for a semicolon at end, could not be executed because par. (12A) ended in a period after amendment by Pub. L. 109–8, § 226(a)(3). See below.
+Par. (12A). Pub. L. 109–8, § 1201(8), which directed the substitution of a period for a semicolon at end, could not be executed because par. (12A) ended in a period after amendment by Pub. L. 109–8, § 226(a)(3). See below.
 
-Pub. L. 109–8, § 1201(2), inserted “The term” after par. designation.
+Pub. L. 109–8, § 1201(2), inserted “The term” after par. designation.
 
-Pub. L. 109–8, §§ 211(1), 226(a)(3), added par. (12A) and struck out former par. (12A) which read as follows: “ ‘debt for child support’ means a debt of a kind specified in section 523(a)(5) of this title for maintenance or support of a child of the debtor;”.
+Pub. L. 109–8, §§ 211(1), 226(a)(3), added par. (12A) and struck out former par. (12A) which read as follows: “ ‘debt for child support’ means a debt of a kind specified in section 523(a)(5) of this title for maintenance or support of a child of the debtor;”.
 
-Par. (13). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (13). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (13A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (13A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 306(c)(1), added par. (13A).
+Pub. L. 109–8, § 306(c)(1), added par. (13A).
 
-Par. (14). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (14). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 414, amended par. (14) generally. Prior to amendment, par. (14) consisted of subpars. (A) to (E) defining “disinterested person”.
+Pub. L. 109–8, § 414, amended par. (14) generally. Prior to amendment, par. (14) consisted of subpars. (A) to (E) defining “disinterested person”.
 
-Par. (14A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (14A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 211(2), added par. (14A).
+Pub. L. 109–8, § 211(2), added par. (14A).
 
-Pars. (15) to (17). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (15) to (17). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (18). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (18). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (18)(A). Pub. L. 109–8, § 1005, substituted “for—
+Par. (18)(A). Pub. L. 109–8, § 1005, substituted “for—
 
 “(i) the taxable year preceding; or
 
@@ -983,375 +983,375 @@ Par. (18)(A). Pub. L. 109–8, § 1005, substituted “for—
 
 the taxable year” for “for the taxable year preceding the taxable year”.
 
-Pub. L. 109–8, § 1004(1), substituted “$3,237,000” for “$1,500,000” and “not less than 50 percent” for “not less than 80 percent”.
+Pub. L. 109–8, § 1004(1), substituted “$3,237,000” for “$1,500,000” and “not less than 50 percent” for “not less than 80 percent”.
 
-Par. (18)(B)(ii). Pub. L. 109–8, § 1004(2), substituted “$3,237,000” for “$1,500,000” and “50 percent” for “80 percent”.
+Par. (18)(B)(ii). Pub. L. 109–8, § 1004(2), substituted “$3,237,000” for “$1,500,000” and “50 percent” for “80 percent”.
 
-Par. (19). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (19). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pars. (19A), (19B). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (19A), (19B). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 1007(a)(2), added pars. (19A) and (19B).
+Pub. L. 109–8, § 1007(a)(2), added pars. (19A) and (19B).
 
-Pars. (20) to (21B). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (20) to (21B). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (22). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (22). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 907(b)(1), added par. (22) and struck out former par. (22) which consisted of introductory provisions and subpars. (A) and (B) defining “financial institution”.
+Pub. L. 109–8, § 907(b)(1), added par. (22) and struck out former par. (22) which consisted of introductory provisions and subpars. (A) and (B) defining “financial institution”.
 
-Par. (22A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (22A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 907(b)(2), added par. (22A).
+Pub. L. 109–8, § 907(b)(2), added par. (22A).
 
-Pars. (23), (24). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (23), (24). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 802(b), added pars. (23) and (24) and struck out former pars. (23) and (24) which read as follows:
+Pub. L. 109–8, § 802(b), added pars. (23) and (24) and struck out former pars. (23) and (24) which read as follows:
 
 “(23) ‘foreign proceeding’ means proceeding, whether judicial or administrative and whether or not under bankruptcy law, in a foreign country in which the debtor’s domicile, residence, principal place of business, or principal assets were located at the commencement of such proceeding, for the purpose of liquidating an estate, adjusting debts by composition, extension, or discharge, or effecting a reorganization;
 
 “(24) ‘foreign representative’ means duly selected trustee, administrator, or other representative of an estate in a foreign proceeding;”.
 
-Par. (25). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (25). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 907(a)(1)(A), substituted “means—” for “means”, designated subsequent provisions as subpar. (A), substituted “, or any other similar agreement” for “, or any combination thereof or option thereon”, and added subpars. (B) to (E).
+Pub. L. 109–8, § 907(a)(1)(A), substituted “means—” for “means”, designated subsequent provisions as subpar. (A), substituted “, or any other similar agreement” for “, or any combination thereof or option thereon”, and added subpars. (B) to (E).
 
-Par. (26). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (26). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 907(b)(3), added par. (26) and struck out former par. (26) which read as follows: “ ‘forward contract merchant’ means a person whose business consists in whole or in part of entering into forward contracts as or with merchants in a commodity, as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade;”.
+Pub. L. 109–8, § 907(b)(3), added par. (26) and struck out former par. (26) which read as follows: “ ‘forward contract merchant’ means a person whose business consists in whole or in part of entering into forward contracts as or with merchants in a commodity, as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade;”.
 
-Par. (27). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (27). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (27A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (27A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 1101(a)(2), added par. (27A). Former par. (27A) redesignated (27B).
+Pub. L. 109–8, § 1101(a)(2), added par. (27A). Former par. (27A) redesignated (27B).
 
-Pub. L. 109–8, § 306(c)(2), added par. (27A).
+Pub. L. 109–8, § 306(c)(2), added par. (27A).
 
-Par. (27B). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (27B). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 1101(a)(1), redesignated par. (27A) as (27B).
+Pub. L. 109–8, § 1101(a)(1), redesignated par. (27A) as (27B).
 
-Pars. (28) to (34). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (28) to (34). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (35). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (35). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (35)(B). Pub. L. 109–8, § 1201(3), substituted “paragraphs (23) and (35)” for “paragraphs (21B) and (33)(A)”.
+Par. (35)(B). Pub. L. 109–8, § 1201(3), substituted “paragraphs (23) and (35)” for “paragraphs (21B) and (33)(A)”.
 
-Par. (35A). Pub. L. 109–8, § 1201(2), (4), inserted “The term” after par. designation and substituted a period for “; and” at end.
+Par. (35A). Pub. L. 109–8, § 1201(2), (4), inserted “The term” after par. designation and substituted a period for “; and” at end.
 
-Pars. (36), (37). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (36), (37). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (38). Pub. L. 109–8, § 1201(2), (4), inserted “The term” after par. designation and substituted a period for “; and” at end.
+Par. (38). Pub. L. 109–8, § 1201(2), (4), inserted “The term” after par. designation and substituted a period for “; and” at end.
 
-Pars. (38A), (38B). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (38A), (38B). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 907(c), added pars. (38A) and (38B).
+Pub. L. 109–8, § 907(c), added pars. (38A) and (38B).
 
-Par. (39). Pub. L. 109–8, § 1201(2), inserted “The term” after par. designation.
+Par. (39). Pub. L. 109–8, § 1201(2), inserted “The term” after par. designation.
 
-Par. (39A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (39A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 102(k), added par. (39A).
+Pub. L. 109–8, § 102(k), added par. (39A).
 
-Par. (40). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (40). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pars. (40A), (40B). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (40A), (40B). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 1101(b), added pars. (40A) and (40B).
+Pub. L. 109–8, § 1101(b), added pars. (40A) and (40B).
 
-Par. (41). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (41). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (41A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (41A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 231(b), added par. (41A).
+Pub. L. 109–8, § 231(b), added par. (41A).
 
-Pars. (42) to (45). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (42) to (45). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (46). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (46). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 907(a)(1)(B), substituted “at any time before” for “on any day during the period beginning 90 days before the date of”.
+Pub. L. 109–8, § 907(a)(1)(B), substituted “at any time before” for “on any day during the period beginning 90 days before the date of”.
 
-Par. (47). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (47). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 907(a)(1)(C), amended par. (47) generally. Prior to amendment, par. (47) read as follows: “ ‘repurchase agreement’ (which definition also applies to a reverse repurchase agreement) means an agreement, including related terms, which provides for the transfer of certificates of deposit, eligible bankers’ acceptances, or securities that are direct obligations of, or that are fully guaranteed as to principal and interest by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers’ acceptances, or securities with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers’ acceptances, or securities as described above, at a date certain not later than one year after such transfers or on demand, against the transfer of funds;”.
+Pub. L. 109–8, § 907(a)(1)(C), amended par. (47) generally. Prior to amendment, par. (47) read as follows: “ ‘repurchase agreement’ (which definition also applies to a reverse repurchase agreement) means an agreement, including related terms, which provides for the transfer of certificates of deposit, eligible bankers’ acceptances, or securities that are direct obligations of, or that are fully guaranteed as to principal and interest by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers’ acceptances, or securities with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers’ acceptances, or securities as described above, at a date certain not later than one year after such transfers or on demand, against the transfer of funds;”.
 
-Par. (48). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (48). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 907(a)(1)(D), inserted “, or exempt from such registration under such section pursuant to an order of the Securities and Exchange Commission,” after “1934”.
+Pub. L. 109–8, § 907(a)(1)(D), inserted “, or exempt from such registration under such section pursuant to an order of the Securities and Exchange Commission,” after “1934”.
 
-Par. (48A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (48A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 401(a), added par. (48A).
+Pub. L. 109–8, § 401(a), added par. (48A).
 
-Pars. (49) to (51A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (49) to (51A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (51B). Pub. L. 109–8, § 1201(2), (5), (8), inserted “The term” after par. designation and “who is not a family farmer” after “income of a debtor” and substituted a period for “thereto having aggregate noncontingent, liquidated secured debts in an amount no more than $4,000,000;”.
+Par. (51B). Pub. L. 109–8, § 1201(2), (5), (8), inserted “The term” after par. designation and “who is not a family farmer” after “income of a debtor” and substituted a period for “thereto having aggregate noncontingent, liquidated secured debts in an amount no more than $4,000,000;”.
 
-Pars. (51C), (51D). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (51C), (51D). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 432(a), added pars. (51C) and (51D) and struck out former par. (51C) which read as follows: “ ‘small business’ means a person engaged in commercial or business activities (but does not include a person whose primary activity is the business of owning or operating real property and activities incidental thereto) whose aggregate noncontingent liquidated secured and unsecured debts as of the date of the petition do not exceed $2,000,000;”.
+Pub. L. 109–8, § 432(a), added pars. (51C) and (51D) and struck out former par. (51C) which read as follows: “ ‘small business’ means a person engaged in commercial or business activities (but does not include a person whose primary activity is the business of owning or operating real property and activities incidental thereto) whose aggregate noncontingent liquidated secured and unsecured debts as of the date of the petition do not exceed $2,000,000;”.
 
-Pars. (52) to (53A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Pars. (52) to (53A). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (53B). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (53B). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 907(a)(1)(E), amended par. (53B) generally. Prior to amendment, par. (53B) consisted of introductory provisions and subpars. (A) to (C) defining “swap agreement”.
+Pub. L. 109–8, § 907(a)(1)(E), amended par. (53B) generally. Prior to amendment, par. (53B) consisted of introductory provisions and subpars. (A) to (C) defining “swap agreement”.
 
-Par. (53C). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (53C). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (53D). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (53D). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (54). Pub. L. 109–8, § 1201(8), substituted a period for semicolon at end.
+Par. (54). Pub. L. 109–8, § 1201(8), substituted a period for semicolon at end.
 
-Pub. L. 109–8, § 1201(6), added par. (54) and struck out former par. (54) which read as follows: “The term ‘transfer’ means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with property or with an interest in property, including retention of title as a security interest and foreclosure of the debtor’s equity of redemption;”.
+Pub. L. 109–8, § 1201(6), added par. (54) and struck out former par. (54) which read as follows: “The term ‘transfer’ means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with property or with an interest in property, including retention of title as a security interest and foreclosure of the debtor’s equity of redemption;”.
 
-Pub. L. 109–8, § 1201(2), inserted “The term” after par. designation.
+Pub. L. 109–8, § 1201(2), inserted “The term” after par. designation.
 
-Par. (54A). Pub. L. 109–8, § 1201(8), which directed the substitution of a period for semicolon at end, could not be executed because par. (54A) ended in a period after amendment by Pub. L. 109–8, § 1201(4). See below.
+Par. (54A). Pub. L. 109–8, § 1201(8), which directed the substitution of a period for semicolon at end, could not be executed because par. (54A) ended in a period after amendment by Pub. L. 109–8, § 1201(4). See below.
 
-Pub. L. 109–8, § 1201(4), (7), substituted “The term” for “the term”, realigned left margin, and substituted a period for “; and” at end.
+Pub. L. 109–8, § 1201(4), (7), substituted “The term” for “the term”, realigned left margin, and substituted a period for “; and” at end.
 
-Par. (55). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+Par. (55). Pub. L. 109–8, § 1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
 
-Par. (56A). Pub. L. 109–8, § 1201(8), which directed the substitution of a period for semicolon “in each of paragraphs (40) through (55)” at end, was executed to par. (56A), to reflect the probable intent of Congress, because par. (56A) follows par. (53C) in text.
+Par. (56A). Pub. L. 109–8, § 1201(8), which directed the substitution of a period for semicolon “in each of paragraphs (40) through (55)” at end, was executed to par. (56A), to reflect the probable intent of Congress, because par. (56A) follows par. (53C) in text.
 
-Pub. L. 109–8, § 1201(2), inserted “The term” after par. designation.
+Pub. L. 109–8, § 1201(2), inserted “The term” after par. designation.
 
-2000—Par. (22). Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(3)], amended par. (22) generally. Prior to amendment par. (22) read as follows: “ ‘financial institution’ means a person that is a commercial or savings bank, industrial savings bank, savings and loan association, or trust company and, when any such person is acting as agent or custodian for a customer in connection with a securities contract, as defined in section 741 of this title, such customer;”.
+2000—Par. (22). Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(3)], amended par. (22) generally. Prior to amendment par. (22) read as follows: “ ‘financial institution’ means a person that is a commercial or savings bank, industrial savings bank, savings and loan association, or trust company and, when any such person is acting as agent or custodian for a customer in connection with a securities contract, as defined in section 741 of this title, such customer;”.
 
-Par. (54A). Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(4)], added par. (54A).
+Par. (54A). Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(4)], added par. (54A).
 
-1994—Par. (3). Pub. L. 103–394, § 501(a)(1), redesignated par. (3) as (21B) and inserted it after par. (21A).
+1994—Par. (3). Pub. L. 103–394, § 501(a)(1), redesignated par. (3) as (21B) and inserted it after par. (21A).
 
-Par. (6). Pub. L. 103–394, § 501(b)(1)(A), substituted “section 761” for “section 761(9)” after “customer, as defined in”.
+Par. (6). Pub. L. 103–394, § 501(b)(1)(A), substituted “section 761” for “section 761(9)” after “customer, as defined in”.
 
-Par. (12A). Pub. L. 103–394, § 304(a), added par. (12A).
+Par. (12A). Pub. L. 103–394, § 304(a), added par. (12A).
 
-Par. (21B). Pub. L. 103–394, § 501(a)(1), redesignated par. (3) as (21B).
+Par. (21B). Pub. L. 103–394, § 501(a)(1), redesignated par. (3) as (21B).
 
-Par. (22). Pub. L. 103–394, § 501(b)(1)(B), substituted “section 741” for “section 741(7)”.
+Par. (22). Pub. L. 103–394, § 501(b)(1)(B), substituted “section 741” for “section 741(7)”.
 
-Par. (33)(A). Pub. L. 103–394, § 501(d)(1)(A)(i), struck out “(12 U.S.C. 1813(u))” after “section 3(u) of the Federal Deposit Insurance Act”.
+Par. (33)(A). Pub. L. 103–394, § 501(d)(1)(A)(i), struck out “(12 U.S.C. 1813(u))” after “section 3(u) of the Federal Deposit Insurance Act”.
 
-Par. (33)(B). Pub. L. 103–394, § 501(d)(1)(A)(ii), struck out “(12 U.S.C. 1786(r))” after “Act”.
+Par. (33)(B). Pub. L. 103–394, § 501(d)(1)(A)(ii), struck out “(12 U.S.C. 1786(r))” after “Act”.
 
-Par. (34). Pub. L. 103–394, § 501(d)(1)(B), struck out “(12 U.S.C. 1752(7))” after “Act”.
+Par. (34). Pub. L. 103–394, § 501(d)(1)(B), struck out “(12 U.S.C. 1752(7))” after “Act”.
 
-Par. (35). Pub. L. 103–394, § 501(b)(1)(C), (d)(1)(C), struck out “(12 U.S.C. 1813(c)(2))” after “Act” in subpar. (A) and substituted “paragraphs (21B)” for “paragraphs (3)” in subpar. (B).
+Par. (35). Pub. L. 103–394, § 501(b)(1)(C), (d)(1)(C), struck out “(12 U.S.C. 1813(c)(2))” after “Act” in subpar. (A) and substituted “paragraphs (21B)” for “paragraphs (3)” in subpar. (B).
 
-Par. (35A). Pub. L. 103–394, § 501(a)(4), redesignated par. (56) defining “intellectual property” as (35A) and inserted it after par. (35).
+Par. (35A). Pub. L. 103–394, § 501(a)(4), redesignated par. (56) defining “intellectual property” as (35A) and inserted it after par. (35).
 
-Par. (39). Pub. L. 103–394, § 501(a)(5), redesignated par. (57) defining “mask work” as (39) and inserted it after par. (38). Former par. (39) redesignated (51A).
+Par. (39). Pub. L. 103–394, § 501(a)(5), redesignated par. (57) defining “mask work” as (39) and inserted it after par. (38). Former par. (39) redesignated (51A).
 
-Par. (41). Pub. L. 103–394, § 106, amended par. (41) generally. Prior to amendment, par. (41) read as follows: “ ‘person’ includes individual, partnership, and corporation, but does not include governmental unit, *Provided, however*, That any governmental unit that acquires an asset from a person as a result of operation of a loan guarantee agreement, or as receiver or liquidating agent of a person, will be considered a person for purposes of section 1102 of this title.”
+Par. (41). Pub. L. 103–394, § 106, amended par. (41) generally. Prior to amendment, par. (41) read as follows: “ ‘person’ includes individual, partnership, and corporation, but does not include governmental unit, *Provided, however*, That any governmental unit that acquires an asset from a person as a result of operation of a loan guarantee agreement, or as receiver or liquidating agent of a person, will be considered a person for purposes of section 1102 of this title.”
 
-Par. (42A). Pub. L. 103–394, § 208(a)(1), added par. (42A).
+Par. (42A). Pub. L. 103–394, § 208(a)(1), added par. (42A).
 
-Par. (48). Pub. L. 103–394, § 501(d)(1)(D), struck out “(15 U.S.C. 78q–1)” after “Act of 1934” and “(15 U.S.C. 78c(12))” after “such Act”.
+Par. (48). Pub. L. 103–394, § 501(d)(1)(D), struck out “(15 U.S.C. 78q–1)” after “Act of 1934” and “(15 U.S.C. 78c(12))” after “such Act”.
 
-Par. (49)(A)(xii). Pub. L. 103–394, § 501(d)(1)(E)(i), struck out “(15 U.S.C. 77a et seq.)” after “Act of 1933” and “(15 U.S.C. 77c(b))” after “such Act”.
+Par. (49)(A)(xii). Pub. L. 103–394, § 501(d)(1)(E)(i), struck out “(15 U.S.C. 77a et seq.)” after “Act of 1933” and “(15 U.S.C. 77c(b))” after “such Act”.
 
-Par. (49)(B). Pub. L. 103–394, § 501(b)(1)(D), (d)(1)(E)(ii), substituted “section 761” for “section 761(13)” in cl. (ii) and struck out “(15 U.S.C. 77c(b))” after “Act of 1933” in cl. (vi).
+Par. (49)(B). Pub. L. 103–394, § 501(b)(1)(D), (d)(1)(E)(ii), substituted “section 761” for “section 761(13)” in cl. (ii) and struck out “(15 U.S.C. 77c(b))” after “Act of 1933” in cl. (vi).
 
-Par. (51A). Pub. L. 103–394, § 501(a)(2), redesignated par. (39) as (51A) and inserted it after par. (51).
+Par. (51A). Pub. L. 103–394, § 501(a)(2), redesignated par. (39) as (51A) and inserted it after par. (51).
 
-Par. (51B). Pub. L. 103–394, § 218(a), added par. (51B).
+Par. (51B). Pub. L. 103–394, § 218(a), added par. (51B).
 
-Par. (51C). Pub. L. 103–394, § 217(a), added par. (51C).
+Par. (51C). Pub. L. 103–394, § 217(a), added par. (51C).
 
-Par. (53A). Pub. L. 103–394, § 501(a)(3), (b)(1)(E), redesignated par. (54) defining “stockbroker” as (53A) and substituted “section 741” for “section 741(2)” in subpar. (A).
+Par. (53A). Pub. L. 103–394, § 501(a)(3), (b)(1)(E), redesignated par. (54) defining “stockbroker” as (53A) and substituted “section 741” for “section 741(2)” in subpar. (A).
 
-Par. (53B). Pub. L. 103–394, § 501(a)(3), redesignated par. (55) defining “swap agreement” as (53B).
+Par. (53B). Pub. L. 103–394, § 501(a)(3), redesignated par. (55) defining “swap agreement” as (53B).
 
-Par. (53C). Pub. L. 103–394, § 501(a)(3), redesignated par. (56) defining “swap participant” as (53C).
+Par. (53C). Pub. L. 103–394, § 501(a)(3), redesignated par. (56) defining “swap participant” as (53C).
 
-Par. (53D). Pub. L. 103–394, § 501(a)(3), (d)(1)(F), redesignated par. (57) defining “timeshare plan” as (53D) and substituted semicolon for period at end.
+Par. (53D). Pub. L. 103–394, § 501(a)(3), (d)(1)(F), redesignated par. (57) defining “timeshare plan” as (53D) and substituted semicolon for period at end.
 
-Par. (54). Pub. L. 103–394, § 501(a)(3), redesignated par. (54) defining “stockbroker” as (53A).
+Par. (54). Pub. L. 103–394, § 501(a)(3), redesignated par. (54) defining “stockbroker” as (53A).
 
-Par. (55). Pub. L. 103–394, § 501(a)(3), redesignated par. (55) defining “swap agreement” as (53B).
+Par. (55). Pub. L. 103–394, § 501(a)(3), redesignated par. (55) defining “swap agreement” as (53B).
 
-Pub. L. 103–394, § 215, inserted “spot foreign exchange agreement,” after “forward foreign exchange agreement,”.
+Pub. L. 103–394, § 215, inserted “spot foreign exchange agreement,” after “forward foreign exchange agreement,”.
 
-Par. (56). Pub. L. 103–394, § 501(a)(3), redesignated par. (56) defining “swap participant” as (53C).
+Par. (56). Pub. L. 103–394, § 501(a)(3), redesignated par. (56) defining “swap participant” as (53C).
 
-Pub. L. 103–394, § 501(a)(4), redesignated par. (56) defining “intellectual property” as (35A) and inserted it after par. (35).
+Pub. L. 103–394, § 501(a)(4), redesignated par. (56) defining “intellectual property” as (35A) and inserted it after par. (35).
 
-Par. (56A). Pub. L. 103–394, § 208(a)(2), added par. (56A) and inserted it after par. defining “swap participant”.
+Par. (56A). Pub. L. 103–394, § 208(a)(2), added par. (56A) and inserted it after par. defining “swap participant”.
 
-Par. (57). Pub. L. 103–394, § 501(a)(3), redesignated par. (57) defining “timeshare plan” as (53D).
+Par. (57). Pub. L. 103–394, § 501(a)(3), redesignated par. (57) defining “timeshare plan” as (53D).
 
-Pub. L. 103–394, § 501(a)(5), redesignated par. (57) defining “mask work” as (39) and inserted it after par. (38).
+Pub. L. 103–394, § 501(a)(5), redesignated par. (57) defining “mask work” as (39) and inserted it after par. (38).
 
 1992—Par. (21A). Pub. L. 102–486 added par. (21A).
 
-1990—Par. (3). Pub. L. 101–647, § 2522(e)(4), added par. (3). Former par. (3) redesignated (4).
+1990—Par. (3). Pub. L. 101–647, § 2522(e)(4), added par. (3). Former par. (3) redesignated (4).
 
-Pars. (4) to (23). Pub. L. 101–647, § 2522(e)(3), redesignated pars. (3) to (22) as (4) to (23), respectively. Former par. (23) redesignated (24).
+Pars. (4) to (23). Pub. L. 101–647, § 2522(e)(3), redesignated pars. (3) to (22) as (4) to (23), respectively. Former par. (23) redesignated (24).
 
-Par. (24). Pub. L. 101–647, § 2522(e)(3), redesignated par. (23) as (24). Former par. (24) redesignated (25).
+Par. (24). Pub. L. 101–647, § 2522(e)(3), redesignated par. (23) as (24). Former par. (24) redesignated (25).
 
-Pub. L. 101–311, § 201(1), inserted “as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade,” after “transfer of commodity,” and “, including, but not limited to, a repurchase transaction, reverse repurchase transaction, consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any combination thereof or option thereon” after “entered into”.
+Pub. L. 101–311, § 201(1), inserted “as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade,” after “transfer of commodity,” and “, including, but not limited to, a repurchase transaction, reverse repurchase transaction, consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any combination thereof or option thereon” after “entered into”.
 
-Par. (25). Pub. L. 101–647, § 2522(e)(3), redesignated par. (24) as (25). Former par. (25) redesignated (26).
+Par. (25). Pub. L. 101–647, § 2522(e)(3), redesignated par. (24) as (25). Former par. (25) redesignated (26).
 
-Pub. L. 101–311, § 201(2), substituted “a commodity, as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade” for “commodities”.
+Pub. L. 101–311, § 201(2), substituted “a commodity, as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade” for “commodities”.
 
-Pars. (26) to (32). Pub. L. 101–647, § 2522(e)(3), redesignated pars. (25) to (31) as (26) to (32), respectively. Former par. (32) redesignated (36).
+Pars. (26) to (32). Pub. L. 101–647, § 2522(e)(3), redesignated pars. (25) to (31) as (26) to (32), respectively. Former par. (32) redesignated (36).
 
-Par. (33). Pub. L. 101–647, § 2522(e)(2), added par. (33). Former par. (33) redesignated (37).
+Par. (33). Pub. L. 101–647, § 2522(e)(2), added par. (33). Former par. (33) redesignated (37).
 
-Par. (34). Pub. L. 101–647, § 2522(e)(2), added par. (34). Former par. (34) redesignated (38).
+Par. (34). Pub. L. 101–647, § 2522(e)(2), added par. (34). Former par. (34) redesignated (38).
 
-Pub. L. 101–311, § 201(4), added par. (34). Former par. (34) redesignated (36).
+Pub. L. 101–311, § 201(4), added par. (34). Former par. (34) redesignated (36).
 
-Par. (35). Pub. L. 101–647, § 2522(e)(2), added par. (35). Former par. (35) redesignated (39).
+Par. (35). Pub. L. 101–647, § 2522(e)(2), added par. (35). Former par. (35) redesignated (39).
 
-Pub. L. 101–311, § 201(4), added par. (35). Former par. (35) redesignated (37).
+Pub. L. 101–311, § 201(4), added par. (35). Former par. (35) redesignated (37).
 
-Par. (36). Pub. L. 101–647, § 2522(e)(1), redesignated par. (32) as (36). Former par. (36) redesignated (40).
+Par. (36). Pub. L. 101–647, § 2522(e)(1), redesignated par. (32) as (36). Former par. (36) redesignated (40).
 
-Pub. L. 101–311, § 201(3), redesignated par. (34) as (36). Former par. (36) redesignated (38).
+Pub. L. 101–311, § 201(3), redesignated par. (34) as (36). Former par. (36) redesignated (38).
 
-Pars. (37) to (48). Pub. L. 101–647, § 2522(e)(1), redesignated pars. (33) to (44) as (37) to (48), respectively. Former pars. (45) to (48) redesignated (49) to (52), respectively.
+Pars. (37) to (48). Pub. L. 101–647, § 2522(e)(1), redesignated pars. (33) to (44) as (37) to (48), respectively. Former pars. (45) to (48) redesignated (49) to (52), respectively.
 
-Pub. L. 101–311, § 201(3), redesignated pars. (35) to (46) as (37) to (48), respectively. Former pars. (47) and (48) redesignated (49) and (50), respectively.
+Pub. L. 101–311, § 201(3), redesignated pars. (35) to (46) as (37) to (48), respectively. Former pars. (47) and (48) redesignated (49) and (50), respectively.
 
-Pars. (49), (50). Pub. L. 101–647, § 2522(e)(1), redesignated pars. (45) and (46) as (49) and (50), respectively. Former pars. (49) and (50) redesignated (53) and (54) defining “stockbroker”, respectively.
+Pars. (49), (50). Pub. L. 101–647, § 2522(e)(1), redesignated pars. (45) and (46) as (49) and (50), respectively. Former pars. (49) and (50) redesignated (53) and (54) defining “stockbroker”, respectively.
 
-Pub. L. 101–311, § 201(3), redesignated pars. (47) and (48) as (49) and (50), respectively. Former pars. (49) and (50) redesignated (51) and (52), respectively.
+Pub. L. 101–311, § 201(3), redesignated pars. (47) and (48) as (49) and (50), respectively. Former pars. (49) and (50) redesignated (51) and (52), respectively.
 
-Pub. L. 101–311, § 101(2), added pars. (49) and (50). Former pars. (49) and (50) redesignated (51) and (52), respectively.
+Pub. L. 101–311, § 101(2), added pars. (49) and (50). Former pars. (49) and (50) redesignated (51) and (52), respectively.
 
-Par. (51). Pub. L. 101–647, § 2522(e)(1), redesignated par. (47) as (51). Former par. (51) redesignated (55) defining “swap agreement”.
+Par. (51). Pub. L. 101–647, § 2522(e)(1), redesignated par. (47) as (51). Former par. (51) redesignated (55) defining “swap agreement”.
 
-Pub. L. 101–311, § 201(3), redesignated par. (49) as (51). Former par. (51) redesignated (53).
+Pub. L. 101–311, § 201(3), redesignated par. (49) as (51). Former par. (51) redesignated (53).
 
-Pub. L. 101–311, § 101(1), redesignated par. (49) as (51). Former par. (51) redesignated (53).
+Pub. L. 101–311, § 101(1), redesignated par. (49) as (51). Former par. (51) redesignated (53).
 
-Par. (52). Pub. L. 101–647, § 2522(e)(1), redesignated par. (48) as (52). Former par. (52) redesignated (56) defining “swap participant”.
+Par. (52). Pub. L. 101–647, § 2522(e)(1), redesignated par. (48) as (52). Former par. (52) redesignated (56) defining “swap participant”.
 
-Pub. L. 101–311, § 201(3), redesignated par. (50) as (52). Former par. (52) redesignated (54) defining “transfer”.
+Pub. L. 101–311, § 201(3), redesignated par. (50) as (52). Former par. (52) redesignated (54) defining “transfer”.
 
-Pub. L. 101–311, § 101(1), redesignated par. (50) as (52). Former par. (52) redesignated (54).
+Pub. L. 101–311, § 101(1), redesignated par. (50) as (52). Former par. (52) redesignated (54).
 
-Par. (53). Pub. L. 101–647, § 2522(e)(1), redesignated par. (49) as (53). Former par. (53) redesignated (57) defining “timeshare plan”.
+Par. (53). Pub. L. 101–647, § 2522(e)(1), redesignated par. (49) as (53). Former par. (53) redesignated (57) defining “timeshare plan”.
 
-Pub. L. 101–311, § 201(3), redesignated par. (51) as (53). Former par. (53) redesignated (55) defining “United States”.
+Pub. L. 101–311, § 201(3), redesignated par. (51) as (53). Former par. (53) redesignated (55) defining “United States”.
 
-Pub. L. 101–311, § 101(1), redesignated par. (51) as (53). Former par. (53) redesignated (55).
+Pub. L. 101–311, § 101(1), redesignated par. (51) as (53). Former par. (53) redesignated (55).
 
-Par. (54). Pub. L. 101–647, § 2522(e)(1), redesignated par. (50) as (54) defining “stockbroker”.
+Par. (54). Pub. L. 101–647, § 2522(e)(1), redesignated par. (50) as (54) defining “stockbroker”.
 
-Pub. L. 101–311, § 201(3), redesignated par. (52) as (54) defining “transfer”. Former par. (54) redesignated (56) defining “intellectual property”.
+Pub. L. 101–311, § 201(3), redesignated par. (52) as (54) defining “transfer”. Former par. (54) redesignated (56) defining “intellectual property”.
 
-Pub. L. 101–311, § 101(1), redesignated par. (52) as (54).
+Pub. L. 101–311, § 101(1), redesignated par. (52) as (54).
 
-Par. (55). Pub. L. 101–647, § 2522(e)(1), redesignated par. (51) as (55) defining “swap agreement”.
+Par. (55). Pub. L. 101–647, § 2522(e)(1), redesignated par. (51) as (55) defining “swap agreement”.
 
-Pub. L. 101–311, § 201(3), redesignated par. (53) as (55) defining “United States”. Former par. (55) redesignated (57) defining “mask work”.
+Pub. L. 101–311, § 201(3), redesignated par. (53) as (55) defining “United States”. Former par. (55) redesignated (57) defining “mask work”.
 
-Pub. L. 101–311, § 101(1), redesignated par. (53) as (55).
+Pub. L. 101–311, § 101(1), redesignated par. (53) as (55).
 
-Par. (56). Pub. L. 101–647, § 2522(e)(1), redesignated par. (52) as (56) defining “swap participant”.
+Par. (56). Pub. L. 101–647, § 2522(e)(1), redesignated par. (52) as (56) defining “swap participant”.
 
-Pub. L. 101–311, § 201(3), redesignated par. (54) as (56) defining “intellectual property”.
+Pub. L. 101–311, § 201(3), redesignated par. (54) as (56) defining “intellectual property”.
 
-Par. (57). Pub. L. 101–647, § 2522(e)(1), redesignated par. (53) as (57) defining “timeshare plan”.
+Par. (57). Pub. L. 101–647, § 2522(e)(1), redesignated par. (53) as (57) defining “timeshare plan”.
 
-Pub. L. 101–311, § 201(3), redesignated par. (55) as (57) defining “mask work”.
+Pub. L. 101–311, § 201(3), redesignated par. (55) as (57) defining “mask work”.
 
 1988—Par. (31). Pub. L. 100–597 inserted “and a municipality” after “partnership” in subpar. (A) and added subpar. (C).
 
 Pars. (52), (53). Pub. L. 100–506 added pars. (52) and (53).
 
-1986—Par. (14). Pub. L. 99–554, § 201(1), substituted “governmental unit, and United States trustee” for “and governmental unit”.
+1986—Par. (14). Pub. L. 99–554, § 201(1), substituted “governmental unit, and United States trustee” for “and governmental unit”.
 
-Pars. (17), (18). Pub. L. 99–554, § 251(2), (3), added pars. (17) and (18) and redesignated former pars. (17) and (18) as (19) and (20), respectively.
+Pars. (17), (18). Pub. L. 99–554, § 251(2), (3), added pars. (17) and (18) and redesignated former pars. (17) and (18) as (19) and (20), respectively.
 
-Par. (19). Pub. L. 99–554, § 251(1), (2), redesignated former par. (17) as (19) and inserted “(except when such term appears in the term ‘family farmer’)”. Former par. (19) redesignated (21).
+Par. (19). Pub. L. 99–554, § 251(1), (2), redesignated former par. (17) as (19) and inserted “(except when such term appears in the term ‘family farmer’)”. Former par. (19) redesignated (21).
 
-Pars. (20) to (25). Pub. L. 99–554, § 251(2), redesignated former pars. (18) to (23) as (20) to (25), respectively. Former pars. (24) and (25) redesignated (26) and (27), respectively.
+Pars. (20) to (25). Pub. L. 99–554, § 251(2), redesignated former pars. (18) to (23) as (20) to (25), respectively. Former pars. (24) and (25) redesignated (26) and (27), respectively.
 
-Par. (26). Pub. L. 99–554, § 201(2), inserted “(but not a United States trustee while serving as a trustee in a case under this title)”.
+Par. (26). Pub. L. 99–554, § 201(2), inserted “(but not a United States trustee while serving as a trustee in a case under this title)”.
 
-Pub. L. 99–554, § 251(2), redesignated former par. (24) as (26). Former par. (26) redesignated (28).
+Pub. L. 99–554, § 251(2), redesignated former par. (24) as (26). Former par. (26) redesignated (28).
 
-Pars. (27) to (42). Pub. L. 99–554, § 251(2), redesignated former pars. (25) to (40) as (27) to (42), respectively. Former pars. (41) and (42) redesignated (43) and (44), respectively.
+Pars. (27) to (42). Pub. L. 99–554, § 251(2), redesignated former pars. (25) to (40) as (27) to (42), respectively. Former pars. (41) and (42) redesignated (43) and (44), respectively.
 
-Par. (43). Pub. L. 99–554, § 251(2), redesignated former par. (41) as (43). Former par. (43) redesignated (45).
+Par. (43). Pub. L. 99–554, § 251(2), redesignated former par. (41) as (43). Former par. (43) redesignated (45).
 
-Par. (43)(A)(xv). Pub. L. 99–554, § 283(a)(1), substituted “security” for “secuity”.
+Par. (43)(A)(xv). Pub. L. 99–554, § 283(a)(1), substituted “security” for “secuity”.
 
-Pars. (44) to (50). Pub. L. 99–554, § 251(2), redesignated former pars. (42) to (48) as (44) to (50), respectively. Former par. (49) redesignated (51).
+Pars. (44) to (50). Pub. L. 99–554, § 251(2), redesignated former pars. (42) to (48) as (44) to (50), respectively. Former par. (49) redesignated (51).
 
-Par. (51). Pub. L. 99–554, § 283(a)(2), substituted a period for the semicolon at the end thereof.
+Par. (51). Pub. L. 99–554, § 283(a)(2), substituted a period for the semicolon at the end thereof.
 
-Pub. L. 99–554, § 251(2), redesignated former par. (49) as (51).
+Pub. L. 99–554, § 251(2), redesignated former par. (49) as (51).
 
-1984—Par. (2)(D). Pub. L. 98–353, § 421(a), struck out “or all” after “business”.
+1984—Par. (2)(D). Pub. L. 98–353, § 421(a), struck out “or all” after “business”.
 
-Par. (8)(B). Pub. L. 98–353, § 421(b), substituted a semicolon for the colon at end of subpar. (B).
+Par. (8)(B). Pub. L. 98–353, § 421(b), substituted a semicolon for the colon at end of subpar. (B).
 
-Par. (9)(B). Pub. L. 98–353, § 421(c), inserted reference to section 348(d).
+Par. (9)(B). Pub. L. 98–353, § 421(c), inserted reference to section 348(d).
 
-Par. (14). Pub. L. 98–353, § 421(d), inserted “and” after “trust,”.
+Par. (14). Pub. L. 98–353, § 421(d), inserted “and” after “trust,”.
 
-Pars. (19) to (21). Pub. L. 98–353, § 421(j)(3), (4), added par. (19) and redesignated former pars. (19), (20), and (21) as (20), (21), and (24), respectively.
+Pars. (19) to (21). Pub. L. 98–353, § 421(j)(3), (4), added par. (19) and redesignated former pars. (19), (20), and (21) as (20), (21), and (24), respectively.
 
-Pars. (22), (23). Pub. L. 98–353, § 421(j)(2), (5), added pars. (22) and (23) and redesignated former pars. (22) and (23) as (25) and (26), respectively.
+Pars. (22), (23). Pub. L. 98–353, § 421(j)(2), (5), added pars. (22) and (23) and redesignated former pars. (22) and (23) as (25) and (26), respectively.
 
-Pars. (24) to (26). Pub. L. 98–353, § 421(j)(2), redesignated former pars. (21) to (23) as (24) to (26), respectively. Former pars. (24) to (26) redesignated (27) to (29), respectively.
+Pars. (24) to (26). Pub. L. 98–353, § 421(j)(2), redesignated former pars. (21) to (23) as (24) to (26), respectively. Former pars. (24) to (26) redesignated (27) to (29), respectively.
 
-Par. (27). Pub. L. 98–353, § 421(e), (j)(2), redesignated former par. (24) as (27) and substituted “stockbroker” for “stock broker”. Former par. (27) redesignated (30).
+Par. (27). Pub. L. 98–353, § 421(e), (j)(2), redesignated former par. (24) as (27) and substituted “stockbroker” for “stock broker”. Former par. (27) redesignated (30).
 
-Par. (28). Pub. L. 98–353, § 421(j)(2), redesignated former par. (25) as (28). Former par. (28) redesignated (31).
+Par. (28). Pub. L. 98–353, § 421(j)(2), redesignated former par. (25) as (28). Former par. (28) redesignated (31).
 
-Par. (29). Pub. L. 98–353, § 421(f), (j)(2), redesignated former par. (26) as (29) and, in subpar. (B)(ii), substituted “nonpartnership” and “(A)” for “separate” and “(A)(ii)”, respectively, wherever appearing. Former par. (29) redesignated (32).
+Par. (29). Pub. L. 98–353, § 421(f), (j)(2), redesignated former par. (26) as (29) and, in subpar. (B)(ii), substituted “nonpartnership” and “(A)” for “separate” and “(A)(ii)”, respectively, wherever appearing. Former par. (29) redesignated (32).
 
-Pars. (30) to (32). Pub. L. 98–353, § 421(j)(2), redesignated former pars. (27) to (29) as (30) to (32), respectively. Former pars. (30) to (32) redesignated (33) to (35), respectively.
+Pars. (30) to (32). Pub. L. 98–353, § 421(j)(2), redesignated former pars. (27) to (29) as (30) to (32), respectively. Former pars. (30) to (32) redesignated (33) to (35), respectively.
 
-Par. (33). Pub. L. 98–353, § 421(g), (j)(2), redesignated former par. (30) as (33) and amended definition of “person” generally, thereby inserting proviso relating to consideration of certain governmental units as persons for purposes of section 1102 of this title. Former par. (33) redesignated (36).
+Par. (33). Pub. L. 98–353, § 421(g), (j)(2), redesignated former par. (30) as (33) and amended definition of “person” generally, thereby inserting proviso relating to consideration of certain governmental units as persons for purposes of section 1102 of this title. Former par. (33) redesignated (36).
 
-Par. (34). Pub. L. 98–353, § 421(j)(2), redesignated former par. (31) as (34). Former par. (34) redesignated (37).
+Par. (34). Pub. L. 98–353, § 421(j)(2), redesignated former par. (31) as (34). Former par. (34) redesignated (37).
 
-Pars. (35), (36). Pub. L. 98–353, § 421(j)(2), redesignated former pars. (32) and (33) as (35) and (36), respectively. Former pars. (35) and (36), as added by Pub. L. 98–353, § 391(2), redesignated (38) and (39), respectively.
+Pars. (35), (36). Pub. L. 98–353, § 421(j)(2), redesignated former pars. (32) and (33) as (35) and (36), respectively. Former pars. (35) and (36), as added by Pub. L. 98–353, § 391(2), redesignated (38) and (39), respectively.
 
-Pub. L. 98–353, § 391, added pars. (35) and (36), and redesignated former pars. (35) and (36) as (37) and (38) which were again redesignated as (40) and (41), respectively.
+Pub. L. 98–353, § 391, added pars. (35) and (36), and redesignated former pars. (35) and (36) as (37) and (38) which were again redesignated as (40) and (41), respectively.
 
-Par. (37). Pub. L. 98–353, § 421(j)(2), redesignated former par. (34) as (37). Former par. (37) redesignated successively as (39) and again as (42).
+Par. (37). Pub. L. 98–353, § 421(j)(2), redesignated former par. (34) as (37). Former par. (37) redesignated successively as (39) and again as (42).
 
-Par. (38). Pub. L. 98–353, §§ 391(2), 421(j)(2), added par. (35) and redesignated such par. (35) as (38). Former par. (38) redesignated successively as (40) and again as (43).
+Par. (38). Pub. L. 98–353, §§ 391(2), 421(j)(2), added par. (35) and redesignated such par. (35) as (38). Former par. (38) redesignated successively as (40) and again as (43).
 
-Par. (39). Pub. L. 98–353, §§ 391(2), 421(j)(2), added par. (36) and redesignated such par. (36) as (39). Former par. (39) redesignated successively as (41) and again as (45).
+Par. (39). Pub. L. 98–353, §§ 391(2), 421(j)(2), added par. (36) and redesignated such par. (36) as (39). Former par. (39) redesignated successively as (41) and again as (45).
 
-Par. (40). Pub. L. 98–353, §§ 391(1), 421(j)(2), redesignated successively former par. (35) as (37) and again as (40). Former par. (40) redesignated successively as (42) and again as (46).
+Par. (40). Pub. L. 98–353, §§ 391(1), 421(j)(2), redesignated successively former par. (35) as (37) and again as (40). Former par. (40) redesignated successively as (42) and again as (46).
 
-Par. (41). Pub. L. 98–353, §§ 391(1), 401(1), 421(h), (j)(2), redesignated successively former par. (36) as (38) and again as (41), and, in subpar. (B)(vi), substituted “certificate of a kind specified in subparagraph (A)(xii)” for “certificate specified in clause (xii) of subparagraph (A)” and substituted “required to be the subject of a registration statement” for “the subject of such registration statement”. Former par. (41) redesignated successively as (43), again as (44), and again as (48).
+Par. (41). Pub. L. 98–353, §§ 391(1), 401(1), 421(h), (j)(2), redesignated successively former par. (36) as (38) and again as (41), and, in subpar. (B)(vi), substituted “certificate of a kind specified in subparagraph (A)(xii)” for “certificate specified in clause (xii) of subparagraph (A)” and substituted “required to be the subject of a registration statement” for “the subject of such registration statement”. Former par. (41) redesignated successively as (43), again as (44), and again as (48).
 
-Par. (42). Pub. L. 98–353, §§ 391(1), 421(j)(2), redesignated successively former par. (37) as (39) and again as (42).
+Par. (42). Pub. L. 98–353, §§ 391(1), 421(j)(2), redesignated successively former par. (37) as (39) and again as (42).
 
-Par. (43). Pub. L. 98–353, §§ 391(1), 421(j)(2), redesignated successively former par. (38) as (40) and again as (43).
+Par. (43). Pub. L. 98–353, §§ 391(1), 421(j)(2), redesignated successively former par. (38) as (40) and again as (43).
 
-Pub. L. 98–353, § 401, redesignated former par. (43), originally par. (41), as (44), and added another par. (43) which was redesignated (47).
+Pub. L. 98–353, § 401, redesignated former par. (43), originally par. (41), as (44), and added another par. (43) which was redesignated (47).
 
-Par. (44). Pub. L. 98–353, § 421(j)(6), added par. (44). Former par. (44) originally was par. (41) and was redesignated successively as (43), again as (44), and again as (48).
+Par. (44). Pub. L. 98–353, § 421(j)(6), added par. (44). Former par. (44) originally was par. (41) and was redesignated successively as (43), again as (44), and again as (48).
 
-Pars. (45), (46). Pub. L. 98–353, §§ 391(1), 421(j)(1), redesignated successively former pars. (39) and (40) as (41) and (42), and again as (45) and (46), respectively.
+Pars. (45), (46). Pub. L. 98–353, §§ 391(1), 421(j)(1), redesignated successively former pars. (39) and (40) as (41) and (42), and again as (45) and (46), respectively.
 
-Par. (47). Pub. L. 98–353, §§ 401(2), 421(j)(1), added par. (43) and redesignated such par. (43) as (47).
+Par. (47). Pub. L. 98–353, §§ 401(2), 421(j)(1), added par. (43) and redesignated such par. (43) as (47).
 
-Par. (48). Pub. L. 98–353, §§ 391(1), 401(1), 421(i), (j)(1), redesignated successively former par. (41) as (43), again as (44), and again as (48), and substituted “and foreclosure of the debtor’s equity of redemption; and” for the period at the end.
+Par. (48). Pub. L. 98–353, §§ 391(1), 401(1), 421(i), (j)(1), redesignated successively former par. (41) as (43), again as (44), and again as (48), and substituted “and foreclosure of the debtor’s equity of redemption; and” for the period at the end.
 
-Par. (49). Pub. L. 98–353, § 421(j)(7), added par. (49).
+Par. (49). Pub. L. 98–353, § 421(j)(7), added par. (49).
 
-1982—Par. (35). Pub. L. 97–222, § 1(a)(2), added par. (35). Former par. (35) redesignated (36).
+1982—Par. (35). Pub. L. 97–222, § 1(a)(2), added par. (35). Former par. (35) redesignated (36).
 
-Par. (36). Pub. L. 97–222, § 1(a)(1), (b), (c), redesignated par. (35) as (36) and substituted “is required to be the subject of a registration statement” for “is the subject of a registration statement” in subpar. (A)(xii) and substituted “forward contract” for “forward commodity contract” in subpar. (B)(iii). Former par. (36) redesignated (37).
+Par. (36). Pub. L. 97–222, § 1(a)(1), (b), (c), redesignated par. (35) as (36) and substituted “is required to be the subject of a registration statement” for “is the subject of a registration statement” in subpar. (A)(xii) and substituted “forward contract” for “forward commodity contract” in subpar. (B)(iii). Former par. (36) redesignated (37).
 
-Pars. (37) to (39). Pub. L. 97–222, § 1(a)(1), redesignated pars. (36) to (38) as (37) to (39), respectively. Former par. (39) redesignated (40).
+Pars. (37) to (39). Pub. L. 97–222, § 1(a)(1), redesignated pars. (36) to (38) as (37) to (39), respectively. Former par. (39) redesignated (40).
 
-Pars. (40), (41). Pub. L. 97–222, § 1(a)(1), (d), redesignated former par. (39) as (40) and restructured its provisions by dividing the former introductory provisions into subpars. (A) and (B) and by redesignating former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (B). Former par. (40) redesignated (41).
+Pars. (40), (41). Pub. L. 97–222, § 1(a)(1), (d), redesignated former par. (39) as (40) and restructured its provisions by dividing the former introductory provisions into subpars. (A) and (B) and by redesignating former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (B). Former par. (40) redesignated (41).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1361,7 +1361,7 @@ Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 mo
 
 **Effective Date of 2022 Amendment; Retroactive Application**
 
-Pub. L. 117–151, § 2(h)(2), June 21, 2022, 136 Stat. 1299, provided that:
+Pub. L. 117–151, § 2(h)(2), June 21, 2022, 136 Stat. 1299, provided that:
 
 > “The amendments made by subsections (a), (d), (e), and (f) [amending this section and sections 1182, 1183, and 1191 of this title, respectively] shall apply with respect to any case that—
 
@@ -1371,21 +1371,21 @@ Pub. L. 117–151, § 2(h)(2), June 21, 2022, 136 Stat. 1299, provided that:
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–136, div. A, title I, § 1113(b)(1)(D)(i), Mar. 27, 2020, 134 Stat. 312, provided that: “The amendments made by subparagraphs (A) and (B) [amending this section and section 1325 of this title] shall apply to any case commenced before, on, or after the date of enactment of this Act [Mar. 27, 2020].”
+Pub. L. 116–136, div. A, title I, § 1113(b)(1)(D)(i), Mar. 27, 2020, 134 Stat. 312, provided that: “The amendments made by subparagraphs (A) and (B) [amending this section and section 1325 of this title] shall apply to any case commenced before, on, or after the date of enactment of this Act [Mar. 27, 2020].”
 
-Pub. L. 116–136, div. A, title I, § 1113(b)(2)(B), Mar. 27, 2020, 134 Stat. 312, as amended by Pub. L. 117–5, § 2(a)(2), Mar. 27, 2021, 135 Stat. 249, provided that: “The amendments made by subparagraph (A) [amending this section and sections 1325 and 1329 of this title] shall take effect on the date that is 2 years after the date of enactment of this Act [Mar. 27, 2020].”
+Pub. L. 116–136, div. A, title I, § 1113(b)(2)(B), Mar. 27, 2020, 134 Stat. 312, as amended by Pub. L. 117–5, § 2(a)(2), Mar. 27, 2021, 135 Stat. 249, provided that: “The amendments made by subparagraph (A) [amending this section and sections 1325 and 1329 of this title] shall take effect on the date that is 2 years after the date of enactment of this Act [Mar. 27, 2020].”
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–54, § 5, Aug. 23, 2019, 133 Stat. 1087, provided that: “This Act [see Short Title of 2019 Amendment note set out under this section] and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act [Aug. 23, 2019].”
+Pub. L. 116–54, § 5, Aug. 23, 2019, 133 Stat. 1087, provided that: “This Act [see Short Title of 2019 Amendment note set out under this section] and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act [Aug. 23, 2019].”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–390, § 7, Dec. 12, 2006, 120 Stat. 2700, provided that: “The amendments made by this Act [see Short Title of 2006 Amendment note set out under this section] shall not apply to any cases commenced under title 11, United States Code, or appointments made under any Federal or State law, before the date of the enactment of this Act [Dec. 12, 2006].”
+Pub. L. 109–390, § 7, Dec. 12, 2006, 120 Stat. 2700, provided that: “The amendments made by this Act [see Short Title of 2006 Amendment note set out under this section] shall not apply to any cases commenced under title 11, United States Code, or appointments made under any Federal or State law, before the date of the enactment of this Act [Dec. 12, 2006].”
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–8, title XV, § 1501, Apr. 20, 2005, 119 Stat. 216, provided that:
+Pub. L. 109–8, title XV, § 1501, Apr. 20, 2005, 119 Stat. 216, provided that:
 
 > **“(a) Effective Date.—** Except as otherwise provided in this Act, this Act [see Tables for classification] and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act [Apr. 20, 2005].
 
@@ -1397,7 +1397,7 @@ Pub. L. 109–8, title XV, § 1501, Apr. 20, 2005, 119 Stat. 216, provided tha
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–394, title VII, § 702, Oct. 22, 1994, 108 Stat. 4150, provided that:
+Pub. L. 103–394, title VII, § 702, Oct. 22, 1994, 108 Stat. 4150, provided that:
 
 > **“(a) Effective Date.—** Except as provided in subsection (b), this Act [see Tables for classification] shall take effect on the date of the enactment of this Act [Oct. 22, 1994].
 
@@ -1417,7 +1417,7 @@ Pub. L. 103–394, title VII, § 702, Oct. 22, 1994, 108 Stat. 4150, provided 
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–486, title XXX, § 3017(c), Oct. 24, 1992, 106 Stat. 3131, provided that:
+Pub. L. 102–486, title XXX, § 3017(c), Oct. 24, 1992, 106 Stat. 3131, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by this section [amending this section and section 541 of this title] shall take effect on the date of the enactment of this Act [Oct. 24, 1992].
 
@@ -1425,13 +1425,13 @@ Pub. L. 102–486, title XXX, § 3017(c), Oct. 24, 1992, 106 Stat. 3131, provi
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–597, § 12, Nov. 3, 1988, 102 Stat. 3030, provided that:
+Pub. L. 100–597, § 12, Nov. 3, 1988, 102 Stat. 3030, provided that:
 
 > **“(a) Effective Date.—** Except as provided in subsection (b), this Act and the amendments made by this Act [enacting sections 927 to 929 of this title, amending this section and sections 109, 901, 902, 922, 926, and 943 of this title, and renumbering section 927 of this title as 930] shall take effect on the date of the enactment of this Act [Nov. 3, 1988].
 
 > **“(b) Application of Amendments.—** The amendments made by this Act shall not apply with respect to cases commenced under title 11 of the United States Code before the date of the enactment of this Act [Nov. 3, 1988].”
 
-Pub. L. 100–506, § 2, Oct. 18, 1988, 102 Stat. 2539, provided that:
+Pub. L. 100–506, § 2, Oct. 18, 1988, 102 Stat. 2539, provided that:
 
 > **“(a) Effective Date.—** Except as provided in subsection (b), this Act and the amendments made by this Act [amending this section and section 365 of this title] shall take effect on the date of the enactment of this Act [Oct. 18, 1988].
 
@@ -1447,7 +1447,7 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–353, title III, § 552, formerly § 553, July 10, 1984, 98 Stat. 392, as renumbered by Pub. L. 98–531, § 1(2), Oct. 19, 1984, 98 Stat. 2704, provided that:
+Pub. L. 98–353, title III, § 552, formerly § 553, July 10, 1984, 98 Stat. 392, as renumbered by Pub. L. 98–531, § 1(2), Oct. 19, 1984, 98 Stat. 2704, provided that:
 
 > **“(a)** Except as otherwise provided in this section the amendments made by this title [see Tables for classification] shall become effective to cases filed 90 days after the date of enactment of this Act [July 10, 1984].
 
@@ -1457,113 +1457,113 @@ Pub. L. 98–353, title III, § 552, formerly § 553, July 10, 1984, 98 Stat
 
 **Short Title of 2023 Amendment**
 
-Pub. L. 118–24, § 1, Dec. 19, 2023, 137 Stat. 128, provided that: “This Act [amending provisions set out as a note under section 707 of this title] may be cited as the ‘National Guard and Reservists Debt Relief Extension Act of 2023’.”
+Pub. L. 118–24, § 1, Dec. 19, 2023, 137 Stat. 128, provided that: “This Act [amending provisions set out as a note under section 707 of this title] may be cited as the ‘National Guard and Reservists Debt Relief Extension Act of 2023’.”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–151, § 1, June 21, 2022, 136 Stat. 1298, provided that: “This Act [amending this section, sections 104, 109, 1182, 1183, and 1191 of this title, and section 589a of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section, sections 104 and 109 of this title, and section 589a of Title 28] may be cited as the ‘Bankruptcy Threshold Adjustment and Technical Corrections Act’.”
+Pub. L. 117–151, § 1, June 21, 2022, 136 Stat. 1298, provided that: “This Act [amending this section, sections 104, 109, 1182, 1183, and 1191 of this title, and section 589a of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section, sections 104 and 109 of this title, and section 589a of Title 28] may be cited as the ‘Bankruptcy Threshold Adjustment and Technical Corrections Act’.”
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 117–5, § 1, Mar. 27, 2021, 135 Stat. 249, provided that: “This Act [amending section 1329 of this title and provisions set out as notes under this section and sections 1182 and 1329 of this title] may be cited as the ‘COVID–19 Bankruptcy Relief Extension Act of 2021’.”
+Pub. L. 117–5, § 1, Mar. 27, 2021, 135 Stat. 249, provided that: “This Act [amending section 1329 of this title and provisions set out as notes under this section and sections 1182 and 1329 of this title] may be cited as the ‘COVID–19 Bankruptcy Relief Extension Act of 2021’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–54, § 1, Aug. 23, 2019, 133 Stat. 1079, provided that: “This Act [enacting subchapter V of chapter 11 of this title, amending this section, sections 103, 322, 326, 347, 363, 364, 523, 524, 547, 557, 1102, and 1146 of this title, and sections 586, 589b, 1409, and 1930 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section] may be cited as the ‘Small Business Reorganization Act of 2019’.”
+Pub. L. 116–54, § 1, Aug. 23, 2019, 133 Stat. 1079, provided that: “This Act [enacting subchapter V of chapter 11 of this title, amending this section, sections 103, 322, 326, 347, 363, 364, 523, 524, 547, 557, 1102, and 1146 of this title, and sections 586, 589b, 1409, and 1930 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section] may be cited as the ‘Small Business Reorganization Act of 2019’.”
 
-Pub. L. 116–53, § 1, Aug. 23, 2019, 133 Stat. 1078, provided that: “This Act [amending provisions set out as a note under section 707 of this title] may be cited as the ‘National Guard and Reservists Debt Relief Extension Act of 2019’.”
+Pub. L. 116–53, § 1, Aug. 23, 2019, 133 Stat. 1078, provided that: “This Act [amending provisions set out as a note under section 707 of this title] may be cited as the ‘National Guard and Reservists Debt Relief Extension Act of 2019’.”
 
-Pub. L. 116–52, § 1, Aug. 23, 2019, 133 Stat. 1076, provided that: “This Act [amending this section] may be cited as the ‘Honoring American Veterans in Extreme Need Act of 2019’ or the ‘HAVEN Act’.”
+Pub. L. 116–52, § 1, Aug. 23, 2019, 133 Stat. 1076, provided that: “This Act [amending this section] may be cited as the ‘Honoring American Veterans in Extreme Need Act of 2019’ or the ‘HAVEN Act’.”
 
-Pub. L. 116–51, § 1, Aug. 23, 2019, 133 Stat. 1075, provided that: “This Act [amending this section] may be cited as the ‘Family Farmer Relief Act of 2019’.”
+Pub. L. 116–51, § 1, Aug. 23, 2019, 133 Stat. 1075, provided that: “This Act [amending this section] may be cited as the ‘Family Farmer Relief Act of 2019’.”
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–107, § 1, Dec. 18, 2015, 129 Stat. 2223, provided that: “This Act [amending provisions set out as a note under section 707 of this title] may be cited as the ‘National Guard and Reservist Debt Relief Extension Act of 2015’.”
+Pub. L. 114–107, § 1, Dec. 18, 2015, 129 Stat. 2223, provided that: “This Act [amending provisions set out as a note under section 707 of this title] may be cited as the ‘National Guard and Reservist Debt Relief Extension Act of 2015’.”
 
 **Short Title of 2011 Amendment**
 
-Pub. L. 112–64, § 1, Dec. 13, 2011, 125 Stat. 766, provided that: “This Act [amending provisions set out as a note under section 707 of this title] may be cited as the ‘National Guard and Reservist Debt Relief Extension Act of 2011’.”
+Pub. L. 112–64, § 1, Dec. 13, 2011, 125 Stat. 766, provided that: “This Act [amending provisions set out as a note under section 707 of this title] may be cited as the ‘National Guard and Reservist Debt Relief Extension Act of 2011’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–327, § 1, Dec. 22, 2010, 124 Stat. 3557, provided that: “This Act [amending this section, sections 103, 105 to 107, 109 to 111, 303, 308, 348, 362, 363, 505, 507, 521 to 524, 526, 527, 541, 554, 704, 707, 723, 724, 726, 901, 1104, 1106, 1111, 1112, 1127, 1129, 1141, 1145, 1202, 1302, 1304, 1307, 1308, 1322, 1325, 1511, 1519, 1521, and 1529 of this title, section 157 of Title 18, Crimes and Criminal Procedure, sections 158, 159, and 586 of Title 28, Judiciary and Judicial Procedure, and provisions set out as a note under section 507 of this title] may be cited as the ‘Bankruptcy Technical Corrections Act of 2010’.”
+Pub. L. 111–327, § 1, Dec. 22, 2010, 124 Stat. 3557, provided that: “This Act [amending this section, sections 103, 105 to 107, 109 to 111, 303, 308, 348, 362, 363, 505, 507, 521 to 524, 526, 527, 541, 554, 704, 707, 723, 724, 726, 901, 1104, 1106, 1111, 1112, 1127, 1129, 1141, 1145, 1202, 1302, 1304, 1307, 1308, 1322, 1325, 1511, 1519, 1521, and 1529 of this title, section 157 of Title 18, Crimes and Criminal Procedure, sections 158, 159, and 586 of Title 28, Judiciary and Judicial Procedure, and provisions set out as a note under section 507 of this title] may be cited as the ‘Bankruptcy Technical Corrections Act of 2010’.”
 
 **Short Title of 2009 Amendment**
 
-Pub. L. 111–16, § 1, May 7, 2009, 123 Stat. 1607, provided that: “This Act [amending sections 109, 322, 332, 342, 521, 704, 749, and 764 of this title, sections 983, 1514, 1963, 2252A, 2339B, 3060, 3432, 3509, and 3771 of Title 18, Crimes and Criminal Procedure, section 7 of the Classified Information Procedures Act set out in the Appendix to Title 18, section 853 of Title 21, Food and Drugs, and sections 636, 1453, and 2107 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under section 109 of this title] may be cited as the ‘Statutory Time-Periods Technical Amendments Act of 2009’.”
+Pub. L. 111–16, § 1, May 7, 2009, 123 Stat. 1607, provided that: “This Act [amending sections 109, 322, 332, 342, 521, 704, 749, and 764 of this title, sections 983, 1514, 1963, 2252A, 2339B, 3060, 3432, 3509, and 3771 of Title 18, Crimes and Criminal Procedure, section 7 of the Classified Information Procedures Act set out in the Appendix to Title 18, section 853 of Title 21, Food and Drugs, and sections 636, 1453, and 2107 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under section 109 of this title] may be cited as the ‘Statutory Time-Periods Technical Amendments Act of 2009’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–438, § 1, Oct. 20, 2008, 122 Stat. 5000, provided that: “This Act [amending section 707 of this title and enacting provisions set out as a note under section 707 of this title] may be cited as the ‘National Guard and Reservists Debt Relief Act of 2008’.”
+Pub. L. 110–438, § 1, Oct. 20, 2008, 122 Stat. 5000, provided that: “This Act [amending section 707 of this title and enacting provisions set out as a note under section 707 of this title] may be cited as the ‘National Guard and Reservists Debt Relief Act of 2008’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–439, § 1, Dec. 20, 2006, 120 Stat. 3285, provided that: “This Act [amending section 1325 of this title] may be cited as the ‘Religious Liberty and Charitable Donation Clarification Act of 2006’.”
+Pub. L. 109–439, § 1, Dec. 20, 2006, 120 Stat. 3285, provided that: “This Act [amending section 1325 of this title] may be cited as the ‘Religious Liberty and Charitable Donation Clarification Act of 2006’.”
 
-Pub. L. 109–390, § 1, Dec. 12, 2006, 120 Stat. 2692, provided that: “This Act [amending this section, sections 362, 546, and 741 of this title, sections 1787, 1821, 4403, and 4404 of Title 12, Banks and Banking, and section 78eee of Title 15, Commerce and Trade, and enacting provisions set out as notes under this section] may be cited as the ‘Financial Netting Improvements Act of 2006’.”
+Pub. L. 109–390, § 1, Dec. 12, 2006, 120 Stat. 2692, provided that: “This Act [amending this section, sections 362, 546, and 741 of this title, sections 1787, 1821, 4403, and 4404 of Title 12, Banks and Banking, and section 78eee of Title 15, Commerce and Trade, and enacting provisions set out as notes under this section] may be cited as the ‘Financial Netting Improvements Act of 2006’.”
 
 **Short Title of 2005 Amendment**
 
-Pub. L. 109–8, § 1(a), Apr. 20, 2005, 119 Stat. 23, provided that: “This Act [see Tables for classification] may be cited as the ‘Bankruptcy Abuse Prevention and Consumer Protection Act of 2005’.”
+Pub. L. 109–8, § 1(a), Apr. 20, 2005, 119 Stat. 23, provided that: “This Act [see Tables for classification] may be cited as the ‘Bankruptcy Abuse Prevention and Consumer Protection Act of 2005’.”
 
-Pub. L. 109–8, title III, § 332(a), Apr. 20, 2005, 119 Stat. 103, provided that: “This section [amending section 303 of this title and section 157 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Involuntary Bankruptcy Improvement Act of 2005’.”
+Pub. L. 109–8, title III, § 332(a), Apr. 20, 2005, 119 Stat. 103, provided that: “This section [amending section 303 of this title and section 157 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Involuntary Bankruptcy Improvement Act of 2005’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–369, § 1, Oct. 25, 2004, 118 Stat. 1749, provided that: “This Act [amending sections 1201 to 1208 and 1221 to 1231 of this title and enacting and amending provisions set out as notes under section 1201 of this title] may be cited as the ‘Family Farmer Bankruptcy Relief Act of 2004’.”
+Pub. L. 108–369, § 1, Oct. 25, 2004, 118 Stat. 1749, provided that: “This Act [amending sections 1201 to 1208 and 1221 to 1231 of this title and enacting and amending provisions set out as notes under section 1201 of this title] may be cited as the ‘Family Farmer Bankruptcy Relief Act of 2004’.”
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–73, § 1, Aug. 15, 2003, 117 Stat. 891, provided that: “This Act [amending sections 1201 to 1208 and 1221 to 1231 of this title and enacting and amending provisions set out as notes under section 1201 of this title] may be cited as the ‘Family Farmer Bankruptcy Relief Act of 2003’.”
+Pub. L. 108–73, § 1, Aug. 15, 2003, 117 Stat. 891, provided that: “This Act [amending sections 1201 to 1208 and 1221 to 1231 of this title and enacting and amending provisions set out as notes under section 1201 of this title] may be cited as the ‘Family Farmer Bankruptcy Relief Act of 2003’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–377, § 1, Dec. 19, 2002, 116 Stat. 3115, provided that: “This Act [amending sections 1201 to 1208 and 1221 to 1231 of this title, and enacting and amending provisions set out as notes under section 1201 of this title] may be cited as the ‘Protection of Family Farmers Act of 2002’.”
+Pub. L. 107–377, § 1, Dec. 19, 2002, 116 Stat. 3115, provided that: “This Act [amending sections 1201 to 1208 and 1221 to 1231 of this title, and enacting and amending provisions set out as notes under section 1201 of this title] may be cited as the ‘Protection of Family Farmers Act of 2002’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–183, § 1, June 19, 1998, 112 Stat. 517, provided that: “This Act [amending sections 544, 546, 548, 707, and 1325 of this title and enacting provisions set out as notes under section 544 of this title] may be cited as the ‘Religious Liberty and Charitable Donation Protection Act of 1998’.”
+Pub. L. 105–183, § 1, June 19, 1998, 112 Stat. 517, provided that: “This Act [amending sections 544, 546, 548, 707, and 1325 of this title and enacting provisions set out as notes under section 544 of this title] may be cited as the ‘Religious Liberty and Charitable Donation Protection Act of 1998’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–394, § 1(a), Oct. 22, 1994, 108 Stat. 4106, provided that: “This Act [see Tables for classification] may be cited as the ‘Bankruptcy Reform Act of 1994’.”
+Pub. L. 103–394, § 1(a), Oct. 22, 1994, 108 Stat. 4106, provided that: “This Act [see Tables for classification] may be cited as the ‘Bankruptcy Reform Act of 1994’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–581, § 1, Nov. 15, 1990, 104 Stat. 2865, and Pub. L. 101–647, title XXXI, § 3101, Nov. 29, 1990, 104 Stat. 4916, provided respectively that such Act and such title [amending sections 523 and 1328 of this title and enacting provisions set out as a note under section 523 of this title] may be cited as the “Criminal Victims Protection Act of 1990”.
+Pub. L. 101–581, § 1, Nov. 15, 1990, 104 Stat. 2865, and Pub. L. 101–647, title XXXI, § 3101, Nov. 29, 1990, 104 Stat. 4916, provided respectively that such Act and such title [amending sections 523 and 1328 of this title and enacting provisions set out as a note under section 523 of this title] may be cited as the “Criminal Victims Protection Act of 1990”.
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–334, § 1, June 16, 1988, 102 Stat. 610, provided that: “This Act [enacting section 1114 of this title, amending section 1129 of this title, enacting provisions set out as a note under section 1114 of this title, and amending and repealing provisions set out as notes under section 1106 of this title] may be cited as the ‘Retiree Benefits Bankruptcy Protection Act of 1988’.”
+Pub. L. 100–334, § 1, June 16, 1988, 102 Stat. 610, provided that: “This Act [enacting section 1114 of this title, amending section 1129 of this title, enacting provisions set out as a note under section 1114 of this title, and amending and repealing provisions set out as notes under section 1106 of this title] may be cited as the ‘Retiree Benefits Bankruptcy Protection Act of 1988’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–353, title III, § 361, July 10, 1984, 98 Stat. 361, provided that: “This subtitle [subtitle C (§§ 361–363) of title III of Pub. L. 98–353, amending sections 362, 365, and 541 of this title] may be cited as the ‘Leasehold Management Bankruptcy Amendments Act of 1983’.”
+Pub. L. 98–353, title III, § 361, July 10, 1984, 98 Stat. 361, provided that: “This subtitle [subtitle C (§§ 361–363) of title III of Pub. L. 98–353, amending sections 362, 365, and 541 of this title] may be cited as the ‘Leasehold Management Bankruptcy Amendments Act of 1983’.”
 
 **Savings Provision**
 
-Pub. L. 109–8, title IX, § 912, as added Pub. L. 109–390, § 5(d), Dec. 12, 2006, 120 Stat. 2698, provided that: “The meanings of terms used in this title [see Tables for classification] are applicable for the purposes of this title only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any similar terms under any other statute, regulation, or rule, including the Gramm-Leach-Bliley Act [Pub. L. 106–102, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking], the Legal Certainty for Bank Products Act of 2000 [7 U.S.C. 27 to 27f], the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(47)]), and the Commodity Exchange Act [7 U.S.C. 1 et seq.].”
+Pub. L. 109–8, title IX, § 912, as added Pub. L. 109–390, § 5(d), Dec. 12, 2006, 120 Stat. 2698, provided that: “The meanings of terms used in this title [see Tables for classification] are applicable for the purposes of this title only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any similar terms under any other statute, regulation, or rule, including the Gramm-Leach-Bliley Act [Pub. L. 106–102, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking], the Legal Certainty for Bank Products Act of 2000 [7 U.S.C. 27 to 27f], the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(47)]), and the Commodity Exchange Act [7 U.S.C. 1 et seq.].”
 
 **Separability**
 
-Pub. L. 103–394, title VII, § 701, Oct. 22, 1994, 108 Stat. 4150, provided that: “If any provision of this Act [see Tables for classification] or amendment made by this Act or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remaining provisions of and amendments made by this Act and the application of such other provisions and amendments to any person or circumstance shall not be affected thereby.”
+Pub. L. 103–394, title VII, § 701, Oct. 22, 1994, 108 Stat. 4150, provided that: “If any provision of this Act [see Tables for classification] or amendment made by this Act or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remaining provisions of and amendments made by this Act and the application of such other provisions and amendments to any person or circumstance shall not be affected thereby.”
 
-Pub. L. 98–353, title III, § 551, July 10, 1984, 98 Stat. 391, provided that: “If any provision of this title [title III (§§ 301–553) of Pub. L. 98–353, see Tables for classification] or any amendment made by this title, or the application thereof to any person or circumstance is held invalid, the provisions of every other part, and their application shall not be affected thereby.”
+Pub. L. 98–353, title III, § 551, July 10, 1984, 98 Stat. 391, provided that: “If any provision of this title [title III (§§ 301–553) of Pub. L. 98–353, see Tables for classification] or any amendment made by this title, or the application thereof to any person or circumstance is held invalid, the provisions of every other part, and their application shall not be affected thereby.”
 
 **Construction**
 
-Pub. L. 109–8, title X, § 1007(e), Apr. 20, 2005, 119 Stat. 188, provided that: “Nothing in this section [amending this section and sections 109, 1203, and 1206 of this title] shall change, affect, or amend the Fishery Conservation and Management Act of 1976 (16 U.S.C. 1801 et seq.).”
+Pub. L. 109–8, title X, § 1007(e), Apr. 20, 2005, 119 Stat. 188, provided that: “Nothing in this section [amending this section and sections 109, 1203, and 1206 of this title] shall change, affect, or amend the Fishery Conservation and Management Act of 1976 (16 U.S.C. 1801 et seq.).”
 
-Pub. L. 109–8, title XI, § 1101(c), Apr. 20, 2005, 119 Stat. 189, provided that: “The amendments made by subsection (a) of this section [amending this section] shall not affect the interpretation of section 109(b) of title 11, United States Code.”
+Pub. L. 109–8, title XI, § 1101(c), Apr. 20, 2005, 119 Stat. 189, provided that: “The amendments made by subsection (a) of this section [amending this section] shall not affect the interpretation of section 109(b) of title 11, United States Code.”
 
 **Nonlimitation of Information**
 
-Pub. L. 109–8, title I, § 102(e), Apr. 20, 2005, 119 Stat. 33, provided that: “Nothing in this title [see Tables for classification] shall limit the ability of a creditor to provide information to a judge (except for information communicated ex parte, unless otherwise permitted by applicable law), United States trustee (or bankruptcy administrator, if any), or trustee.”
+Pub. L. 109–8, title I, § 102(e), Apr. 20, 2005, 119 Stat. 33, provided that: “Nothing in this title [see Tables for classification] shall limit the ability of a creditor to provide information to a judge (except for information communicated ex parte, unless otherwise permitted by applicable law), United States trustee (or bankruptcy administrator, if any), or trustee.”
 
 **Judicial Education**
 
-Pub. L. 109–8, title XII, § 1226, Apr. 20, 2005, 119 Stat. 199, provided that: “The Director of the Federal Judicial Center, in consultation with the Director of the Executive Office for United States Trustees, shall develop materials and conduct such training as may be useful to courts in implementing this Act [see Short Title of 2005 Amendment note above] and the amendments made by this Act, including the requirements relating to the means test under section 707(b), and reaffirmation agreements under section 524, of title 11 of the United States Code, as amended by this Act.”
+Pub. L. 109–8, title XII, § 1226, Apr. 20, 2005, 119 Stat. 199, provided that: “The Director of the Federal Judicial Center, in consultation with the Director of the Executive Office for United States Trustees, shall develop materials and conduct such training as may be useful to courts in implementing this Act [see Short Title of 2005 Amendment note above] and the amendments made by this Act, including the requirements relating to the means test under section 707(b), and reaffirmation agreements under section 524, of title 11 of the United States Code, as amended by this Act.”
 
 **Court Rules and Judicial Documents**
 
@@ -1585,7 +1585,7 @@ By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in par. (3)
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in par. (3), dollar amount “150,000” was adjusted to “164,250”; in par. (18), dollar amount “3,237,000” was adjusted to “3,544,525” each time it appeared; in par. (19A), dollar amount “1,500,000” was adjusted to “1,642,500” each time it appeared; and, in par. (51D), dollar amount “2,000,000” was adjusted to “2,190,000” each time it appeared. In par. (18), Pub. L. 116–51 subsequently substituted “10,000,000” for “3,237,000” both places it appeared, see 2019 Amendment note above.
 
-## § 102. Rules of construction
+## § 102. Rules of construction
 
 In this title—
 
@@ -1615,7 +1615,7 @@ In this title—
 
 **(9)** “United States trustee” includes a designee of the United States trustee.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2554; Pub. L. 98–353, title III, § 422, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, § 202, Oct. 27, 1986, 100 Stat. 3097.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2554; Pub. L. 98–353, title III, § 422, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, § 202, Oct. 27, 1986, 100 Stat. 3097.)
 
 **Historical and Revision Notes**
 
@@ -1669,7 +1669,7 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-## § 103. Applicability of chapters
+## § 103. Applicability of chapters
 
 **(a)** Except as provided in section 1161 of this title, chapters 1, 3, and 5 of this title apply in a case under chapter 7, 11, 12, or 13 of this title, and this chapter, sections 307, 362(*o*), 555 through 557, and 559 through 562 apply in a case under chapter 15.
 
@@ -1679,9 +1679,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(d)** Subchapter IV of chapter 7 of this title applies only in a case under such chapter concerning a commodity broker.
 
-**(e) Scope of Application.—** Subchapter V of chapter 7 of this title shall apply only in a case under such chapter concerning the liquidation of an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 1
+**(e) Scope of Application.—** Subchapter V of chapter 7 of this title shall apply only in a case under such chapter concerning the liquidation of an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Federal Deposit Insurance Corporation Improvement Act of 1991.
 
@@ -1703,7 +1703,7 @@ of the Federal Deposit Insurance Corporation Improvement Act of 1991.
 
 **(2)** section 1509 applies whether or not a case under this title is pending.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 97–222, § 2, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, § 423, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, § 252, Oct. 27, 1986, 100 Stat. 3104; Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(5)(A)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394; Pub. L. 109–8, title VIII, § 802(a), Apr. 20, 2005, 119 Stat. 145; Pub. L. 111–327, § 2(a)(2), Dec. 22, 2010, 124 Stat. 3557; Pub. L. 116–54, § 4(a)(2), Aug. 23, 2019, 133 Stat. 1085; Pub. L. 116–136, div. A, title I, § 1113(a)(2), Mar. 27, 2020, 134 Stat. 311.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 97–222, § 2, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, § 423, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, § 252, Oct. 27, 1986, 100 Stat. 3104; Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(5)(A)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394; Pub. L. 109–8, title VIII, § 802(a), Apr. 20, 2005, 119 Stat. 145; Pub. L. 111–327, § 2(a)(2), Dec. 22, 2010, 124 Stat. 3557; Pub. L. 116–54, § 4(a)(2), Aug. 23, 2019, 133 Stat. 1085; Pub. L. 116–136, div. A, title I, § 1113(a)(2), Mar. 27, 2020, 134 Stat. 311.)
 
 **Historical and Revision Notes**
 
@@ -1715,9 +1715,9 @@ Section 103 prescribes which chapters of the proposed bankruptcy code apply in v
 
 **References in Text**
 
-Section 25A of the Federal Reserve Act, referred to in subsec. (e), popularly known as the Edge Act, is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
+Section 25A of the Federal Reserve Act, referred to in subsec. (e), popularly known as the Edge Act, is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
 
-Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (e), was classified to section 4422 of Title 12, Banks and Banking, prior to repeal by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
+Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (e), was classified to section 4422 of Title 12, Banks and Banking, prior to repeal by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
 
 **Amendments**
 
@@ -1727,15 +1727,15 @@ Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991
 
 2010—Subsec. (a). Pub. L. 111–327 substituted “362(*o*)” for “362(n)”.
 
-2005—Subsec. (a). Pub. L. 109–8, § 802(a)(1), inserted “, and this chapter, sections 307, 362(n), 555 through 557, and 559 through 562 apply in a case under chapter 15” before period.
+2005—Subsec. (a). Pub. L. 109–8, § 802(a)(1), inserted “, and this chapter, sections 307, 362(n), 555 through 557, and 559 through 562 apply in a case under chapter 15” before period.
 
-Subsec. (k). Pub. L. 109–8, § 802(a)(2), added subsec. (k).
+Subsec. (k). Pub. L. 109–8, § 802(a)(2), added subsec. (k).
 
 2000—Subsecs. (e) to (j). Pub. L. 106–554 added subsec. (e) and redesignated former subsecs. (e) to (i) as (f) to (j), respectively.
 
-1986—Subsec. (a). Pub. L. 99–554, § 252(1), inserted reference to chapter 12.
+1986—Subsec. (a). Pub. L. 99–554, § 252(1), inserted reference to chapter 12.
 
-Subsec. (i). Pub. L. 99–554, § 252(2), added subsec. (i).
+Subsec. (i). Pub. L. 99–554, § 252(2), added subsec. (i).
 
 1984—Subsec. (c). Pub. L. 98–353 substituted “stockbroker” for “stockholder”.
 
@@ -1759,7 +1759,7 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not app
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-## § 104. Adjustment of dollar amounts
+## § 104. Adjustment of dollar amounts
 
 **(a)** On April 1, 1998, and at each 3-year interval ending on April 1 thereafter, each dollar amount in effect under sections 101(3), 101(18), 101(19A), 101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b), 547(c)(9), 707(b), 1182(1), 1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28 immediately before such April 1 shall be adjusted—
 
@@ -1771,7 +1771,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(c)** Adjustments made in accordance with subsection (a) shall not apply with respect to cases commenced before the date of such adjustments.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, § 108(e), Oct. 22, 1994, 108 Stat. 4112; Pub. L. 109–8, title I, § 102(j), title II, §§ 224(e)(2), 226(b), title III, § 322(b), title IV, § 432(c), title X, § 1002, title XII, § 1202, Apr. 20, 2005, 119 Stat. 35, 65, 67, 97, 110, 186, 193; Pub. L. 110–406, § 7, Oct. 13, 2008, 122 Stat. 4293; Pub. L. 117–151, § 2(b), June 21, 2022, 136 Stat. 1298.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, § 108(e), Oct. 22, 1994, 108 Stat. 4112; Pub. L. 109–8, title I, § 102(j), title II, §§ 224(e)(2), 226(b), title III, § 322(b), title IV, § 432(c), title X, § 1002, title XII, § 1202, Apr. 20, 2005, 119 Stat. 35, 65, 67, 97, 110, 186, 193; Pub. L. 110–406, § 7, Oct. 13, 2008, 122 Stat. 4293; Pub. L. 117–151, § 2(b), June 21, 2022, 136 Stat. 1298.)
 
 **Historical and Revision Notes**
 
@@ -1793,39 +1793,39 @@ If the Judicial Conference has policy recommendations concerning the appropriate
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–151, § 2(b)(1), inserted “1182(1),” after “707(b),” in introductory provisions.
+2022—Subsec. (a). Pub. L. 117–151, § 2(b)(1), inserted “1182(1),” after “707(b),” in introductory provisions.
 
-Subsec. (b). Pub. L. 117–151, § 2(b)(2), inserted “1182(1),” after “707(b),”.
+Subsec. (b). Pub. L. 117–151, § 2(b)(2), inserted “1182(1),” after “707(b),”.
 
 2008—Pub. L. 110–406 redesignated subsec. (b)(1) as (a), subpars. (A) and (B) of subsec. (b)(1) as pars. (1) and (2), respectively, of subsec. (a), and pars. (2) and (3) of subsec. (b) as subsecs. (b) and (c), respectively, substituted “subsection (a)” for “paragraph (1)” in subsec. (c), and struck out former subsec. (a) which read as follows: “The Judicial Conference of the United States shall transmit to the Congress and to the President before May 1, 1985, and before May 1 of every sixth year after May 1, 1985, a recommendation for the uniform percentage adjustment of each dollar amount in this title and in section 1930 of title 28.”
 
-2005—Subsec. (b)(1). Pub. L. 109–8, § 1202(1)–(4), in introductory provisions, inserted “101(19A),” after “101(18),”, “522(f)(3) and 522(f)(4),” after “522(d),”, and “541(b), 547(c)(9),” after “523(a)(2)(C),” and substituted “1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28” for “and 1325(b)(3)”.
+2005—Subsec. (b)(1). Pub. L. 109–8, § 1202(1)–(4), in introductory provisions, inserted “101(19A),” after “101(18),”, “522(f)(3) and 522(f)(4),” after “522(d),”, and “541(b), 547(c)(9),” after “523(a)(2)(C),” and substituted “1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28” for “and 1325(b)(3)”.
 
-Pub. L. 109–8, § 1002, inserted “101(18),” after “101(3),” in introductory provisions.
+Pub. L. 109–8, § 1002, inserted “101(18),” after “101(3),” in introductory provisions.
 
-Pub. L. 109–8, § 432(c), inserted “101(51D),” after “101(3),” in introductory provisions.
+Pub. L. 109–8, § 432(c), inserted “101(51D),” after “101(3),” in introductory provisions.
 
-Pub. L. 109–8, § 322(b), inserted “522(p), 522(q),” after “522(n),” in introductory provisions.
+Pub. L. 109–8, § 322(b), inserted “522(p), 522(q),” after “522(n),” in introductory provisions.
 
-Pub. L. 109–8, § 226(b), inserted “101(3),” after “sections” in introductory provisions.
+Pub. L. 109–8, § 226(b), inserted “101(3),” after “sections” in introductory provisions.
 
-Pub. L. 109–8, § 224(e)(2), inserted “522(n),” after “522(d),” in introductory provisions.
+Pub. L. 109–8, § 224(e)(2), inserted “522(n),” after “522(d),” in introductory provisions.
 
-Pub. L. 109–8, § 102(j), substituted “523(a)(2)(C), 707(b), and 1325(b)(3)” for “and 523(a)(2)(C)” in introductory provisions.
+Pub. L. 109–8, § 102(j), substituted “523(a)(2)(C), 707(b), and 1325(b)(3)” for “and 523(a)(2)(C)” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 109–8, § 1202(1)–(3), (5), inserted “101(19A),” after “101(18),”, “522(f)(3) and 522(f)(4),” after “522(d),”, and “541(b), 547(c)(9),” after “523(a)(2)(C),” and substituted “1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28” for “and 1325(b)(3) of this title”.
+Subsec. (b)(2). Pub. L. 109–8, § 1202(1)–(3), (5), inserted “101(19A),” after “101(18),”, “522(f)(3) and 522(f)(4),” after “522(d),”, and “541(b), 547(c)(9),” after “523(a)(2)(C),” and substituted “1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28” for “and 1325(b)(3) of this title”.
 
-Pub. L. 109–8, § 1002, inserted “101(18),” after “101(3),”.
+Pub. L. 109–8, § 1002, inserted “101(18),” after “101(3),”.
 
-Pub. L. 109–8, § 432(c), inserted “101(51D),” after “101(3),”.
+Pub. L. 109–8, § 432(c), inserted “101(51D),” after “101(3),”.
 
-Pub. L. 109–8, § 322(b), inserted “522(p), 522(q),” after “522(n),”.
+Pub. L. 109–8, § 322(b), inserted “522(p), 522(q),” after “522(n),”.
 
-Pub. L. 109–8, § 226(b), inserted “101(3),” after “sections”.
+Pub. L. 109–8, § 226(b), inserted “101(3),” after “sections”.
 
-Pub. L. 109–8, § 224(e)(2), inserted “522(n),” after “522(d),”.
+Pub. L. 109–8, § 224(e)(2), inserted “522(n),” after “522(d),”.
 
-Pub. L. 109–8, § 102(j), substituted “523(a)(2)(C), 707(b), and 1325(b)(3)” for “and 523(a)(2)(C)”.
+Pub. L. 109–8, § 102(j), substituted “523(a)(2)(C), 707(b), and 1325(b)(3)” for “and 523(a)(2)(C)”.
 
 1994—Pub. L. 103–394 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -1833,7 +1833,7 @@ Pub. L. 109–8, § 102(j), substituted “523(a)(2)(C), 707(b), and 1325(b)(3
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–151, § 2(h)(1), June 21, 2022, 136 Stat. 1299, provided that: “Subsections (b) and (c) [amending this section and section 109 of this title] and the amendments made by subsections (b) and (c) shall take effect on the date of enactment of this Act [June 21, 2022].”
+Pub. L. 117–151, § 2(h)(1), June 21, 2022, 136 Stat. 1299, provided that: “Subsections (b) and (c) [amending this section and section 109 of this title] and the amendments made by subsections (b) and (c) shall take effect on the date of enactment of this Act [June 21, 2022].”
 
 **Effective Date of 2005 Amendment**
 
@@ -1850,9 +1850,9 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 By notice dated Jan. 30, 2025, 90 F.R. 8941, and corrected at 90 F.R. 10643, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (a) of this section, effective Apr. 1, 2025, as follows:
 
 <table>
-<tr><th>Affected sections of Titles 11 and 28 U.S.C.</th><th>Dollar amount to be adjusted</th><th>New (adjusted) dollar amount 1</th></tr>
-<tr><td colspan="3">1 The New (Adjusted) Dollar Amounts reflect a 13.2004 percent increase, rounded to the nearest $25.</td></tr>
-<tr><td colspan="3">2 There is no dollar amount currently set forth in 11 U.S.C. 1182(1). Most recently, the Bankruptcy Threshold Adjustment and Technical Corrections Act (BTATCA) (Pub. L. 117–151, 136 Stat. 1298) added a dollar amount to that section, but the BTATCA provision that included the dollar amount sunset on June 21, 2024.</td></tr>
+<tr><th>Affected sections of Titles 11 and 28 U.S.C.</th><th>Dollar amount to be adjusted</th><th>New (adjusted) dollar amount 1</th></tr>
+<tr><td colspan="3">1 The New (Adjusted) Dollar Amounts reflect a 13.2004 percent increase, rounded to the nearest $25.</td></tr>
+<tr><td colspan="3">2 There is no dollar amount currently set forth in 11 U.S.C. 1182(1). Most recently, the Bankruptcy Threshold Adjustment and Technical Corrections Act (BTATCA) (Pub. L. 117–151, 136 Stat. 1298) added a dollar amount to that section, but the BTATCA provision that included the dollar amount sunset on June 21, 2024.</td></tr>
 <tr><td>11 U.S.C.:</td><td></td><td></td></tr>
 <tr><td>Section 101(3)</td><td>$226,850</td><td>$256,800.</td></tr>
 <tr><td>Section 101(18)</td><td>$11,097,350 (each time it appears)</td><td>$12,562,250 (each time it appears).</td></tr>
@@ -1921,7 +1921,7 @@ Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001.
 
 Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998.
 
-## § 105. Power of court
+## § 105. Power of court
 
 **(a)** The court may issue any order, process, or judgment that is necessary or appropriate to carry out the provisions of this title. No provision of this title providing for the raising of an issue by a party in interest shall be construed to preclude the court from, sua sponte, taking any action or making any determination necessary or appropriate to enforce or implement court orders or rules, or to prevent an abuse of process.
 
@@ -1951,7 +1951,7 @@ Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998.
 
 **(vi)** provides that the hearing on approval of the disclosure statement may be combined with the hearing on confirmation of the plan.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 98–353, title I, § 118, July 10, 1984, 98 Stat. 344; Pub. L. 99–554, title II, § 203, Oct. 27, 1986, 100 Stat. 3097; Pub. L. 103–394, title I, § 104(a), Oct. 22, 1994, 108 Stat. 4108; Pub. L. 109–8, title IV, § 440, Apr. 20, 2005, 119 Stat. 114; Pub. L. 111–327, § 2(a)(3), Dec. 22, 2010, 124 Stat. 3557.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 98–353, title I, § 118, July 10, 1984, 98 Stat. 344; Pub. L. 99–554, title II, § 203, Oct. 27, 1986, 100 Stat. 3097; Pub. L. 103–394, title I, § 104(a), Oct. 22, 1994, 108 Stat. 4108; Pub. L. 109–8, title IV, § 440, Apr. 20, 2005, 119 Stat. 114; Pub. L. 111–327, § 2(a)(3), Dec. 22, 2010, 124 Stat. 3557.)
 
 **Historical and Revision Notes**
 
@@ -1971,17 +1971,17 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (d)(2), are se
 
 2010—Subsec. (d)(2). Pub. L. 111–327 inserted “may” after “Procedure,” in introductory provisions.
 
-2005—Subsec. (d). Pub. L. 109–8, § 440(1), struck out “, may” after “party in interest” in introductory provisions.
+2005—Subsec. (d). Pub. L. 109–8, § 440(1), struck out “, may” after “party in interest” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 109–8, § 440(2), added par. (1) and struck out former par. (1) which read as follows: “hold a status conference regarding any case or proceeding under this title after notice to the parties in interest; and”.
+Subsec. (d)(1). Pub. L. 109–8, § 440(2), added par. (1) and struck out former par. (1) which read as follows: “hold a status conference regarding any case or proceeding under this title after notice to the parties in interest; and”.
 
 1994—Subsec. (d). Pub. L. 103–394 added subsec. (d).
 
 1986—Subsec. (a). Pub. L. 99–554 inserted at end “No provision of this title providing for the raising of an issue by a party in interest shall be construed to preclude the court from, sua sponte, taking any action or making any determination necessary or appropriate to enforce or implement court orders or rules, or to prevent an abuse of process.”
 
-1984—Subsecs. (a), (b). Pub. L. 98–353, § 118(1), struck out “bankruptcy” before “court”.
+1984—Subsecs. (a), (b). Pub. L. 98–353, § 118(1), struck out “bankruptcy” before “court”.
 
-Subsec. (c). Pub. L. 98–353, § 118(2), added subsec. (c).
+Subsec. (c). Pub. L. 98–353, § 118(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2001,7 +2001,7 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 
 Amendment by Pub. L. 98–353 effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out as an Effective Date note under section 151 of Title 28, Judiciary and Judicial Procedure.
 
-## § 106. Waiver of sovereign immunity
+## § 106. Waiver of sovereign immunity
 
 **(a)** Notwithstanding an assertion of sovereign immunity, sovereign immunity is abrogated as to a governmental unit to the extent set forth in this section with respect to the following:
 
@@ -2019,7 +2019,7 @@ Amendment by Pub. L. 98–353 effective July 10, 1984, see section 122(a) of Pub
 
 **(c)** Notwithstanding any assertion of sovereign immunity by a governmental unit, there shall be offset against a claim or interest of a governmental unit any claim against such governmental unit that is property of the estate.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, § 113, Oct. 22, 1994, 108 Stat. 4117; Pub. L. 111–327, § 2(a)(4), Dec. 22, 2010, 124 Stat. 3557.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, § 113, Oct. 22, 1994, 108 Stat. 4117; Pub. L. 111–327, § 2(a)(4), Dec. 22, 2010, 124 Stat. 3557.)
 
 **Historical and Revision Notes**
 
@@ -2067,7 +2067,7 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (a)(3), (5), a
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and applicable with respect to cases commenced under this title before, on, and after Oct. 22, 1994, see section 702(a), (b)(2)(B) of Pub. L. 103–394, set out as a note under section 101 of this title.
 
-## § 107. Public access to papers
+## § 107. Public access to papers
 
 **(a)** Except as provided in subsections (b) and (c) and subject to section 112, a paper filed in a case under this title and the dockets of a bankruptcy court are public records and open to examination by an entity at reasonable times without charge.
 
@@ -2093,7 +2093,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and applicable with resp
 
 **(B)** shall not disclose information specifically protected by the court under this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2556; Pub. L. 109–8, title II, §§ 233(c), 234(a), (c), Apr. 20, 2005, 119 Stat. 74, 75; Pub. L. 111–327, § 2(a)(5), Dec. 22, 2010, 124 Stat. 3557.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2556; Pub. L. 109–8, title II, §§ 233(c), 234(a), (c), Apr. 20, 2005, 119 Stat. 74, 75; Pub. L. 111–327, § 2(a)(5), Dec. 22, 2010, 124 Stat. 3557.)
 
 **Historical and Revision Notes**
 
@@ -2109,11 +2109,11 @@ Subsection (b) permits the court, on its own motion, and requires the court, on 
 
 2010—Subsec. (a). Pub. L. 111–327 substituted “subsections (b) and (c)” for “subsection (b) of this section”.
 
-2005—Subsec. (a). Pub. L. 109–8, § 234(c), which directed the substitution of “subsections (b) and (c),” for “subsection (b),”, could not be executed because “subsection (b),” did not appear in text.
+2005—Subsec. (a). Pub. L. 109–8, § 234(c), which directed the substitution of “subsections (b) and (c),” for “subsection (b),”, could not be executed because “subsection (b),” did not appear in text.
 
-Pub. L. 109–8, § 233(c), inserted “and subject to section 112” after “section”.
+Pub. L. 109–8, § 233(c), inserted “and subject to section 112” after “section”.
 
-Subsec. (c). Pub. L. 109–8, § 234(a), added subsec. (c).
+Subsec. (c). Pub. L. 109–8, § 234(a), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2121,7 +2121,7 @@ Subsec. (c). Pub. L. 109–8, § 234(a), added subsec. (c).
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
-## § 108. Extension of time
+## § 108. Extension of time
 
 **(a)** If applicable nonbankruptcy law, an order entered in a nonbankruptcy proceeding, or an agreement fixes a period within which the debtor may commence an action, and such period has not expired before the date of the filing of the petition, the trustee may commence such action only before the later of—
 
@@ -2141,7 +2141,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 **(2)** 30 days after notice of the termination or expiration of the stay under section 362, 922, 1201, or 1301 of this title, as the case may be, with respect to such claim.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2556; Pub. L. 98–353, title III, § 424, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, § 257(b), Oct. 27, 1986, 100 Stat. 3114; Pub. L. 109–8, title XII, § 1203, Apr. 20, 2005, 119 Stat. 193.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2556; Pub. L. 98–353, title III, § 424, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, § 257(b), Oct. 27, 1986, 100 Stat. 3114; Pub. L. 109–8, title XII, § 1203, Apr. 20, 2005, 119 Stat. 193.)
 
 **Historical and Revision Notes**
 
@@ -2163,23 +2163,23 @@ In the case of Federal tax liabilities, the Internal Revenue Code [title 26] sus
 
 2005—Subsec. (c)(2). Pub. L. 109–8 substituted “922, 1201, or” for “922, or”.
 
-1986—Subsec. (b). Pub. L. 99–554, § 257(b)(1), inserted reference to section 1201 of this title.
+1986—Subsec. (b). Pub. L. 99–554, § 257(b)(1), inserted reference to section 1201 of this title.
 
-Subsec. (c). Pub. L. 99–554, § 257(b)(2)(A), inserted reference to section 1201 of this title in provisions preceding par. (1).
+Subsec. (c). Pub. L. 99–554, § 257(b)(2)(A), inserted reference to section 1201 of this title in provisions preceding par. (1).
 
-Subsec. (c)(2). Pub. L. 99–554, § 257(b)(2)(B), which directed the amendment of subsec. (c) by inserting “1201,” after “722,” could not be executed because “722,” did not appear in text.
+Subsec. (c)(2). Pub. L. 99–554, § 257(b)(2)(B), which directed the amendment of subsec. (c) by inserting “1201,” after “722,” could not be executed because “722,” did not appear in text.
 
-1984—Subsec. (a). Pub. L. 98–353, § 424(b), inserted “nonbankruptcy” after “applicable” and “entered in a” in provisions preceding par. (1).
+1984—Subsec. (a). Pub. L. 98–353, § 424(b), inserted “nonbankruptcy” after “applicable” and “entered in a” in provisions preceding par. (1).
 
-Subsec. (a)(1). Pub. L. 98–353, § 424(a), substituted “or” for “and” after the semicolon.
+Subsec. (a)(1). Pub. L. 98–353, § 424(a), substituted “or” for “and” after the semicolon.
 
-Subsec. (b). Pub. L. 98–353, § 424(b), inserted “nonbankruptcy” after “applicable” and “entered in a” in provisions preceding par. (1).
+Subsec. (b). Pub. L. 98–353, § 424(b), inserted “nonbankruptcy” after “applicable” and “entered in a” in provisions preceding par. (1).
 
-Subsec. (b)(1). Pub. L. 98–353, § 424(a), substituted “or” for “and” after the semicolon.
+Subsec. (b)(1). Pub. L. 98–353, § 424(a), substituted “or” for “and” after the semicolon.
 
-Subsec. (c). Pub. L. 98–353, § 424(b), inserted “nonbankruptcy” after “applicable” and “entered in a” in provisions preceding par. (1).
+Subsec. (c). Pub. L. 98–353, § 424(b), inserted “nonbankruptcy” after “applicable” and “entered in a” in provisions preceding par. (1).
 
-Subsec. (c)(1). Pub. L. 98–353, § 424(a), substituted “or” for “and” after the semicolon.
+Subsec. (c)(1). Pub. L. 98–353, § 424(a), substituted “or” for “and” after the semicolon.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2195,7 +2195,7 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not app
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-## § 109. Who may be a debtor
+## § 109. Who may be a debtor
 
 **(a)** Notwithstanding any other provision of this section, only a person that resides or has a domicile, a place of business, or property in the United States, or a municipality, may be a debtor under this title.
 
@@ -2203,9 +2203,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(1)** a railroad;
 
-**(2)** a domestic insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958, a small business investment company licensed by the Small Business Administration under section 301 of the Small Business Investment Act of 1958, credit union, or industrial bank or similar institution which is an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 1
+**(2)** a domestic insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958, a small business investment company licensed by the Small Business Administration under section 301 of the Small Business Investment Act of 1958, credit union, or industrial bank or similar institution which is an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or
 
@@ -2235,13 +2235,13 @@ of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a de
 
 **(D)** reasonably believes that a creditor may attempt to obtain a transfer that is avoidable under section 547 of this title.
 
-**(d)** Only a railroad, a person that may be a debtor under chapter 7 of this title (except a stockbroker or a commodity broker), and an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 <sup>1</sup> of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor under chapter 11 of this title.
+**(d)** Only a railroad, a person that may be a debtor under chapter 7 of this title (except a stockbroker or a commodity broker), and an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 <sup>1</sup> of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor under chapter 11 of this title.
 
-**(e)** Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 2
+**(e)** Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 2
 
-<sup>2</sup>  See Adjustment of Dollar Amounts notes below.
+<sup>2</sup> See Adjustment of Dollar Amounts notes below.
 
-and noncontingent, liquidated, secured debts of less than $750,000,2 or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 2 and noncontingent, liquidated, secured debts of less than $750,000 2 may be a debtor under chapter 13 of this title.
+and noncontingent, liquidated, secured debts of less than $750,000,2 or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 2 and noncontingent, liquidated, secured debts of less than $750,000 2 may be a debtor under chapter 13 of this title.
 
 **(f)** Only a family farmer or family fisherman with regular annual income may be a debtor under chapter 12 of this title.
 
@@ -2275,7 +2275,7 @@ and noncontingent, liquidated, secured debts of less than $750,000,2 or an indiv
 
 **(4)** The requirements of paragraph (1) shall not apply with respect to a debtor whom the court determines, after notice and hearing, is unable to complete those requirements because of incapacity, disability, or active military duty in a military combat zone. For the purposes of this paragraph, incapacity means that the debtor is impaired by reason of mental illness or mental deficiency so that he is incapable of realizing and making rational decisions with respect to his financial responsibilities; and “disability” means that the debtor is so physically impaired as to be unable, after reasonable effort, to participate in an in person, telephone, or Internet briefing required under paragraph (1).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2557; Pub. L. 97–320, title VII, § 703(d), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 98–353, title III, §§ 301, 425, July 10, 1984, 98 Stat. 352, 369; Pub. L. 99–554, title II, § 253, Oct. 27, 1986, 100 Stat. 3105; Pub. L. 100–597, § 2, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 103–394, title I, § 108(a), title II, § 220, title IV, § 402, title V, § 501(d)(2), Oct. 22, 1994, 108 Stat. 4111, 4129, 4141, 4143; Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(1), (2)], § 1(a)(8) [§ 1(e)], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–665; Pub. L. 109–8, title I, § 106(a), title VIII, § 802(d)(1), title X, § 1007(b), title XII, § 1204(1), Apr. 20, 2005, 119 Stat. 37, 146, 188, 193; Pub. L. 111–16, § 2(1), May 7, 2009, 123 Stat. 1607; Pub. L. 111–327, § 2(a)(6), Dec. 22, 2010, 124 Stat. 3557; Pub. L. 117–151, § 2(c), (i)(1)(A), June 21, 2022, 136 Stat. 1298, 1300.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2557; Pub. L. 97–320, title VII, § 703(d), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 98–353, title III, §§ 301, 425, July 10, 1984, 98 Stat. 352, 369; Pub. L. 99–554, title II, § 253, Oct. 27, 1986, 100 Stat. 3105; Pub. L. 100–597, § 2, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 103–394, title I, § 108(a), title II, § 220, title IV, § 402, title V, § 501(d)(2), Oct. 22, 1994, 108 Stat. 4111, 4129, 4141, 4143; Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(1), (2)], § 1(a)(8) [§ 1(e)], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–665; Pub. L. 109–8, title I, § 106(a), title VIII, § 802(d)(1), title X, § 1007(b), title XII, § 1204(1), Apr. 20, 2005, 119 Stat. 37, 146, 188, 193; Pub. L. 111–16, § 2(1), May 7, 2009, 123 Stat. 1607; Pub. L. 111–327, § 2(a)(6), Dec. 22, 2010, 124 Stat. 3557; Pub. L. 117–151, § 2(c), (i)(1)(A), June 21, 2022, 136 Stat. 1298, 1300.)
 
 **Historical and Revision Notes**
 
@@ -2299,7 +2299,7 @@ Subsection (c) [enacted as (d)] provides that only a person who may be a debtor 
 
 **house report no. 95–595**
 
-Subsection (c) defines eligibility for chapter 9. Only a municipality that is unable to pay its debts as they mature, and that is not prohibited by State law from proceeding under chapter 9, is permitted to be a chapter 9 debtor. The subsection is derived from Bankruptcy Act § 84 [section 404 of former title 11], with two changes. First, section 84 requires that the municipality be “generally authorized to file a petition under this chapter by the legislature, or by a governmental officer or organization empowered by State law to authorize the filing of a petition.” The “generally authorized” language is unclear, and has generated a problem for a Colorado Metropolitan District that attempted to use chapter IX [chapter 9 of former title 11] in 1976. The “not prohibited” language provides flexibility for both the States and the municipalities involved, while protecting State sovereignty as required by *Ashton v. Cameron County Water District No. 1*, 298 U.S. 513 (1936) [56 S.Ct. 892, 80 L.Ed. 1309, 31 Am.Bankr.Rep.N.S. 96, rehearing denied 57 S.Ct. 5, 299 U.S. 619, 81 L.Ed. 457] and *Bekins v. United States*, 304 U.S. 27 (1938) [58 S.Ct. 811, 82 L.Ed. 1137, 36 Am.Bankr.Rep.N.S. 187, rehearing denied 58 S.Ct. 1043, 1044, 304 U.S. 589, 82 L.Ed. 1549].
+Subsection (c) defines eligibility for chapter 9. Only a municipality that is unable to pay its debts as they mature, and that is not prohibited by State law from proceeding under chapter 9, is permitted to be a chapter 9 debtor. The subsection is derived from Bankruptcy Act § 84 [section 404 of former title 11], with two changes. First, section 84 requires that the municipality be “generally authorized to file a petition under this chapter by the legislature, or by a governmental officer or organization empowered by State law to authorize the filing of a petition.” The “generally authorized” language is unclear, and has generated a problem for a Colorado Metropolitan District that attempted to use chapter IX [chapter 9 of former title 11] in 1976. The “not prohibited” language provides flexibility for both the States and the municipalities involved, while protecting State sovereignty as required by *Ashton v. Cameron County Water District No. 1*, 298 U.S. 513 (1936) [56 S.Ct. 892, 80 L.Ed. 1309, 31 Am.Bankr.Rep.N.S. 96, rehearing denied 57 S.Ct. 5, 299 U.S. 619, 81 L.Ed. 457] and *Bekins v. United States*, 304 U.S. 27 (1938) [58 S.Ct. 811, 82 L.Ed. 1137, 36 Am.Bankr.Rep.N.S. 187, rehearing denied 58 S.Ct. 1043, 1044, 304 U.S. 589, 82 L.Ed. 1549].
 
 The second change deletes the four prerequisites to filing found in section 84 [section 404 of former title 11]. The prerequisites require the municipality to have worked out a plan in advance, to have attempted to work out a plan without success, to fear that a creditor will attempt to obtain a preference, or to allege that prior negotiation is impracticable. The loopholes in those prerequisites are larger than the requirement itself. It was a compromise from pre-1976 chapter IX [chapter 9 of former title 11] under which a municipality could file only if it had worked out an adjustment plan in advance. In the meantime, chapter IX protection was unavailable. There was some controversy at the time of the enactment of current chapter IX concerning deletion of the pre-negotiation requirement. It was argued that deletion would lead to a rash of municipal bankruptcies. The prerequisites now contained in section 84 were inserted to assuage that fear. They are largely cosmetic and precatory, however, and do not offer any significant deterrent to use of chapter IX. Instead, other factors, such as a general reluctance on the part of any debtor, especially a municipality, to use the bankruptcy laws, operates as a much more effective deterrent against capricious use.
 
@@ -2319,57 +2319,57 @@ Section 301 of the Small Business Investment Act of 1958, referred to in subsec.
 
 Section 3(h) of the Federal Deposit Insurance Act, referred to in subsec. (b)(2), is classified to section 1813(h) of Title 12, Banks and Banking.
 
-Section 25A of the Federal Reserve Act, referred to in subsecs. (b)(2) and (d), popularly known as the Edge Act, is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
+Section 25A of the Federal Reserve Act, referred to in subsecs. (b)(2) and (d), popularly known as the Edge Act, is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
 
-Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsecs. (b)(2) and (d), was classified to section 4422 of Title 12, Banks and Banking, prior to repeal by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
+Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsecs. (b)(2) and (d), was classified to section 4422 of Title 12, Banks and Banking, prior to repeal by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
 
 Section 1(b) of the International Banking Act of 1978, referred to in subsec. (b)(3)(B), is classified to section 3101 of Title 12, Banks and Banking.
 
 **Amendments**
 
-2022—Subsec. (e). Pub. L. 117–151, § 2(i)(1)(A), amended subsec. (e) to read as it read on the day before the date of enactment of Pub. L. 117–151, which is June 21, 2022. See note below. Prior to reversion, subsec. (e), as amended by section 2(c) of Pub. L. 117–151, read as follows: “Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated debts of less than $2,750,000 or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated debts that aggregate less than $2,750,000 may be a debtor under chapter 13 of this title.”
+2022—Subsec. (e). Pub. L. 117–151, § 2(i)(1)(A), amended subsec. (e) to read as it read on the day before the date of enactment of Pub. L. 117–151, which is June 21, 2022. See note below. Prior to reversion, subsec. (e), as amended by section 2(c) of Pub. L. 117–151, read as follows: “Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated debts of less than $2,750,000 or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated debts that aggregate less than $2,750,000 may be a debtor under chapter 13 of this title.”
 
-Pub. L. 117–151, § 2(c), added subsec. (e) and struck out former subsec. (e) which read as follows: “Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000, or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000 may be a debtor under chapter 13 of this title.” For adjustments to dollar amounts in quoted text, see Adjustment of Dollar Amounts notes below.
+Pub. L. 117–151, § 2(c), added subsec. (e) and struck out former subsec. (e) which read as follows: “Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000, or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000 may be a debtor under chapter 13 of this title.” For adjustments to dollar amounts in quoted text, see Adjustment of Dollar Amounts notes below.
 
-2010—Subsec. (b)(3)(B). Pub. L. 111–327, § 2(a)(6)(A), inserted closing parenthesis after “1978”.
+2010—Subsec. (b)(3)(B). Pub. L. 111–327, § 2(a)(6)(A), inserted closing parenthesis after “1978”.
 
-Subsec. (h)(1). Pub. L. 111–327, § 2(a)(6)(B), inserted “other than paragraph (4) of this subsection” after “this section” and substituted “ending on” for “preceding”.
+Subsec. (h)(1). Pub. L. 111–327, § 2(a)(6)(B), inserted “other than paragraph (4) of this subsection” after “this section” and substituted “ending on” for “preceding”.
 
 2009—Subsec. (h)(3)(A)(ii). Pub. L. 111–16 substituted “7-day” for “5-day”.
 
-2005—Subsec. (b)(2). Pub. L. 109–8, § 1204(1), struck out “subsection (c) or (d) of” before “section 301”.
+2005—Subsec. (b)(2). Pub. L. 109–8, § 1204(1), struck out “subsection (c) or (d) of” before “section 301”.
 
-Subsec. (b)(3). Pub. L. 109–8, § 802(d)(1), added par. (3) and struck out former par. (3) which read as follows: “a foreign insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, or credit union, engaged in such business in the United States.”
+Subsec. (b)(3). Pub. L. 109–8, § 802(d)(1), added par. (3) and struck out former par. (3) which read as follows: “a foreign insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, or credit union, engaged in such business in the United States.”
 
-Subsec. (f). Pub. L. 109–8, § 1007(b), inserted “or family fisherman” after “family farmer”.
+Subsec. (f). Pub. L. 109–8, § 1007(b), inserted “or family fisherman” after “family farmer”.
 
-Subsec. (h). Pub. L. 109–8, § 106(a), added subsec. (h).
+Subsec. (h). Pub. L. 109–8, § 106(a), added subsec. (h).
 
-2000—Subsec. (b)(2). Pub. L. 106–554, § 1(a)(8) [§ 1(e)], inserted “a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958,” after “homestead association,”.
+2000—Subsec. (b)(2). Pub. L. 106–554, § 1(a)(8) [§ 1(e)], inserted “a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958,” after “homestead association,”.
 
-Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(1)], substituted “, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or” for “; or”.
+Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(1)], substituted “, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or” for “; or”.
 
-Subsec. (d). Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(2)], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Only a person that may be a debtor under chapter 7 of this title, except a stockbroker or a commodity broker, and a railroad may be a debtor under chapter 11 of this title.”
+Subsec. (d). Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(2)], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Only a person that may be a debtor under chapter 7 of this title, except a stockbroker or a commodity broker, and a railroad may be a debtor under chapter 11 of this title.”
 
-1994—Subsec. (b)(2). Pub. L. 103–394, §§ 220, 501(d)(2), inserted “a small business investment company licensed by the Small Business Administration under subsection (c) or (d) of section 301 of the Small Business Investment Act of 1958,” after “homestead association,” and struck out “(12 U.S.C. 1813(h))” after “Insurance Act”.
+1994—Subsec. (b)(2). Pub. L. 103–394, §§ 220, 501(d)(2), inserted “a small business investment company licensed by the Small Business Administration under subsection (c) or (d) of section 301 of the Small Business Investment Act of 1958,” after “homestead association,” and struck out “(12 U.S.C. 1813(h))” after “Insurance Act”.
 
-Subsec. (c)(2). Pub. L. 103–394, § 402, substituted “specifically authorized, in its capacity as a municipality or by name,” for “generally authorized”.
+Subsec. (c)(2). Pub. L. 103–394, § 402, substituted “specifically authorized, in its capacity as a municipality or by name,” for “generally authorized”.
 
-Subsec. (e). Pub. L. 103–394, § 108(a), substituted “$250,000” and “$750,000” for “$100,000” and “$350,000”, respectively, in two places.
+Subsec. (e). Pub. L. 103–394, § 108(a), substituted “$250,000” and “$750,000” for “$100,000” and “$350,000”, respectively, in two places.
 
 1988—Subsec. (c)(3). Pub. L. 100–597 struck out “or unable to meet such entity’s debts as such debts mature” after “insolvent”.
 
-1986—Subsec. (f). Pub. L. 99–554, § 253(1)(B), (2), added subsec. (f) and redesignated former subsec. (f) as (g).
+1986—Subsec. (f). Pub. L. 99–554, § 253(1)(B), (2), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-Subsec. (g). Pub. L. 99–554, § 253(1), redesignated former subsec. (f) as (g) and inserted reference to family farmer.
+Subsec. (g). Pub. L. 99–554, § 253(1), redesignated former subsec. (f) as (g) and inserted reference to family farmer.
 
-1984—Subsec. (a). Pub. L. 98–353, § 425(a), struck out “in the United States,” after “only a person that resides”.
+1984—Subsec. (a). Pub. L. 98–353, § 425(a), struck out “in the United States,” after “only a person that resides”.
 
-Subsec. (c)(5)(D). Pub. L. 98–353, § 425(b), substituted “transfer that is avoidable under section 547 of this title” for “preference”.
+Subsec. (c)(5)(D). Pub. L. 98–353, § 425(b), substituted “transfer that is avoidable under section 547 of this title” for “preference”.
 
-Subsec. (d). Pub. L. 98–353, § 425(c), substituted “stockbroker” for “stockholder”.
+Subsec. (d). Pub. L. 98–353, § 425(c), substituted “stockbroker” for “stockholder”.
 
-Subsec. (f). Pub. L. 98–353, § 301, added subsec. (f).
+Subsec. (f). Pub. L. 98–353, § 301, added subsec. (f).
 
 1982—Subsec. (b)(2). Pub. L. 97–320 inserted reference to industrial banks or similar institutions which are insured banks as defined in section 3(h) of the Federal Deposit Insurance Act (12 U.S.C. 1813(h)).
 
@@ -2379,11 +2379,11 @@ Subsec. (f). Pub. L. 98–353, § 301, added subsec. (f).
 
 Amendment by section 2(c) of Pub. L. 117–151 effective June 21, 2022, see section 2(h)(1) of Pub. L. 117–151, set out as a note under section 104 of this title.
 
-Pub. L. 117–151, § 2(i)(1), June 21, 2022, 136 Stat. 1300, provided in part that the amendment made by section 2(i)(1)(A) is effective on the date that is 2 years after June 21, 2022.
+Pub. L. 117–151, § 2(i)(1), June 21, 2022, 136 Stat. 1300, provided in part that the amendment made by section 2(i)(1)(A) is effective on the date that is 2 years after June 21, 2022.
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–16, § 7, May 7, 2009, 123 Stat. 1609, provided that: “The amendments made by this Act [amending this section, sections 322, 332, 342, 521, 704, 749, and 764 of this title, sections 983, 1514, 1963, 2252A, 2339B, 3060, 3432, 3509, and 3771 of Title 18, Crimes and Criminal Procedure, section 7 of the Classified Information Procedures Act set out in the Appendix to Title 18, section 853 of Title 21, Food and Drugs, and sections 636, 1453, and 2107 of Title 28, Judiciary and Judicial Procedure] shall take effect on December 1, 2009.”
+Pub. L. 111–16, § 7, May 7, 2009, 123 Stat. 1609, provided that: “The amendments made by this Act [amending this section, sections 322, 332, 342, 521, 704, 749, and 764 of this title, sections 983, 1514, 1963, 2252A, 2339B, 3060, 3432, 3509, and 3771 of Title 18, Crimes and Criminal Procedure, section 7 of the Classified Information Procedures Act set out in the Appendix to Title 18, section 853 of Title 21, Food and Drugs, and sections 636, 1453, and 2107 of Title 28, Judiciary and Judicial Procedure] shall take effect on December 1, 2009.”
 
 **Effective Date of 2005 Amendment**
 
@@ -2407,7 +2407,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **Amounts Specified in Subsection (e) After Reversion**
 
-Pub. L. 117–151, § 2(i)(2), June 21, 2022, 136 Stat. 1300, provided that: “For purposes of applying subsection (e) of section 109 of title 11, United States Code, as amended by paragraph (1)(A), the amounts specified in such subsection shall be the amounts that were in effect on the day before the date of enactment of this Act [June 21, 2022].”
+Pub. L. 117–151, § 2(i)(2), June 21, 2022, 136 Stat. 1300, provided that: “For purposes of applying subsection (e) of section 109 of title 11, United States Code, as amended by paragraph (1)(A), the amounts specified in such subsection shall be the amounts that were in effect on the day before the date of enactment of this Act [June 21, 2022].”
 
 **Court Rules and Judicial Documents**
 
@@ -2435,7 +2435,7 @@ By notice dated Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001, in subsec.
 
 By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (e), dollar amounts “250,000” and “750,000” were adjusted to “269,250” and “807,750”, respectively, each time they appeared.
 
-## § 110. Penalty for persons who negligently or fraudulently prepare bankruptcy petitions
+## § 110. Penalty for persons who negligently or fraudulently prepare bankruptcy petitions
 
 **(a)** In this section—
 
@@ -2603,7 +2603,7 @@ the court may enjoin the bankruptcy petition preparer from engaging in such cond
 
 **(B)** Fines imposed under this subsection in judicial districts served by bankruptcy administrators shall be deposited as offsetting receipts to the fund established under section 1931 of title 28, and shall remain available until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the operation and maintenance of the courts of the United States.
 
-(Added Pub. L. 103–394, title III, § 308(a), Oct. 22, 1994, 108 Stat. 4135; amended Pub. L. 109–8, title II, § 221, title XII, § 1205, Apr. 20, 2005, 119 Stat. 59, 194; Pub. L. 110–161, div. B, title II, § 212(b), Dec. 26, 2007, 121 Stat. 1914; Pub. L. 111–327, § 2(a)(7), Dec. 22, 2010, 124 Stat. 3558.)
+(Added Pub. L. 103–394, title III, § 308(a), Oct. 22, 1994, 108 Stat. 4135; amended Pub. L. 109–8, title II, § 221, title XII, § 1205, Apr. 20, 2005, 119 Stat. 59, 194; Pub. L. 110–161, div. B, title II, § 212(b), Dec. 26, 2007, 121 Stat. 1914; Pub. L. 111–327, § 2(a)(7), Dec. 22, 2010, 124 Stat. 3558.)
 
 **Editorial Notes**
 
@@ -2613,63 +2613,63 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(2)(A), are
 
 **Amendments**
 
-2010—Subsec. (b)(2)(A). Pub. L. 111–327, § 2(a)(7)(A), inserted “or on behalf of” after “from”.
+2010—Subsec. (b)(2)(A). Pub. L. 111–327, § 2(a)(7)(A), inserted “or on behalf of” after “from”.
 
-Subsec. (h)(1). Pub. L. 111–327, § 2(a)(7)(B)(i), in last sentence, substituted “filing for the debtor” for “filing for a debtor” and inserted “or on behalf of” after “from”.
+Subsec. (h)(1). Pub. L. 111–327, § 2(a)(7)(B)(i), in last sentence, substituted “filing for the debtor” for “filing for a debtor” and inserted “or on behalf of” after “from”.
 
-Subsec. (h)(3)(A). Pub. L. 111–327, § 2(a)(7)(B)(ii)(I), struck out “found to be in excess of the value of any services” after “paragraph (2)” in introductory provisions.
+Subsec. (h)(3)(A). Pub. L. 111–327, § 2(a)(7)(B)(ii)(I), struck out “found to be in excess of the value of any services” after “paragraph (2)” in introductory provisions.
 
-Subsec. (h)(3)(A)(i). Pub. L. 111–327, § 2(a)(7)(B)(ii)(II), inserted “found to be in excess of the value of any services” after “(i)”.
+Subsec. (h)(3)(A)(i). Pub. L. 111–327, § 2(a)(7)(B)(ii)(II), inserted “found to be in excess of the value of any services” after “(i)”.
 
-Subsec. (h)(4). Pub. L. 111–327, § 2(a)(7)(B)(iii), substituted “paragraph (3)” for “paragraph (2)”.
+Subsec. (h)(4). Pub. L. 111–327, § 2(a)(7)(B)(iii), substituted “paragraph (3)” for “paragraph (2)”.
 
 2007—Subsec. (*l*)(4)(A). Pub. L. 110–161 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustee, who shall deposit an amount equal to such fines in a special account of the United States Trustee System Fund referred to in section 586(e)(2) of title 28. Amounts deposited under this subparagraph shall be available to fund the enforcement of this section on a national basis.”
 
-2005—Subsec. (a)(1). Pub. L. 109–8, § 221(1), substituted “for the debtor or an employee of such attorney under the direct supervision of such attorney” for “or an employee of an attorney”.
+2005—Subsec. (a)(1). Pub. L. 109–8, § 221(1), substituted “for the debtor or an employee of such attorney under the direct supervision of such attorney” for “or an employee of an attorney”.
 
-Subsec. (b)(1). Pub. L. 109–8, § 221(2)(A), inserted at end “If a bankruptcy petition preparer is not an individual, then an officer, principal, responsible person, or partner of the bankruptcy petition preparer shall be required to—” and added subpars. (A) and (B).
+Subsec. (b)(1). Pub. L. 109–8, § 221(2)(A), inserted at end “If a bankruptcy petition preparer is not an individual, then an officer, principal, responsible person, or partner of the bankruptcy petition preparer shall be required to—” and added subpars. (A) and (B).
 
-Subsec. (b)(2). Pub. L. 109–8, § 221(2)(B), added par. (2) and struck out former par. (2) which read as follows: “A bankruptcy petition preparer who fails to comply with paragraph (1) may be fined not more than $500 for each such failure unless the failure is due to reasonable cause.”
+Subsec. (b)(2). Pub. L. 109–8, § 221(2)(B), added par. (2) and struck out former par. (2) which read as follows: “A bankruptcy petition preparer who fails to comply with paragraph (1) may be fined not more than $500 for each such failure unless the failure is due to reasonable cause.”
 
-Subsec. (c)(2). Pub. L. 109–8, § 221(3)(A), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), for purposes” for “For purposes”, and added subpar. (B).
+Subsec. (c)(2). Pub. L. 109–8, § 221(3)(A), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), for purposes” for “For purposes”, and added subpar. (B).
 
-Subsec. (c)(3). Pub. L. 109–8, § 221(3)(B), struck out par. (3) which read as follows: “A bankruptcy petition preparer who fails to comply with paragraph (1) may be fined not more than $500 for each such failure unless the failure is due to reasonable cause.”
+Subsec. (c)(3). Pub. L. 109–8, § 221(3)(B), struck out par. (3) which read as follows: “A bankruptcy petition preparer who fails to comply with paragraph (1) may be fined not more than $500 for each such failure unless the failure is due to reasonable cause.”
 
-Subsec. (d). Pub. L. 109–8, § 221(4), struck out par. (1) designation before “A bankruptcy petition preparer shall” and struck out par. (2) which read as follows: “A bankruptcy petition preparer who fails to comply with paragraph (1) may be fined not more than $500 for each such failure unless the failure is due to reasonable cause.”
+Subsec. (d). Pub. L. 109–8, § 221(4), struck out par. (1) designation before “A bankruptcy petition preparer shall” and struck out par. (2) which read as follows: “A bankruptcy petition preparer who fails to comply with paragraph (1) may be fined not more than $500 for each such failure unless the failure is due to reasonable cause.”
 
-Subsec. (e)(2). Pub. L. 109–8, § 221(5), added par. (2) and struck out former par. (2) which read as follows: “A bankruptcy petition preparer may be fined not more than $500 for each document executed in violation of paragraph (1).”
+Subsec. (e)(2). Pub. L. 109–8, § 221(5), added par. (2) and struck out former par. (2) which read as follows: “A bankruptcy petition preparer may be fined not more than $500 for each document executed in violation of paragraph (1).”
 
-Subsec. (f). Pub. L. 109–8, § 221(6), struck out par. (1) designation before “A bankruptcy petition preparer shall not” and struck out par. (2) which read as follows: “A bankruptcy petition preparer shall be fined not more than $500 for each violation of paragraph (1).”
+Subsec. (f). Pub. L. 109–8, § 221(6), struck out par. (1) designation before “A bankruptcy petition preparer shall not” and struck out par. (2) which read as follows: “A bankruptcy petition preparer shall be fined not more than $500 for each violation of paragraph (1).”
 
-Subsec. (g). Pub. L. 109–8, § 221(7), struck out par. (1) designation before “A bankruptcy petition preparer shall not” and struck out par. (2) which read as follows: “A bankruptcy petition preparer shall be fined not more than $500 for each violation of paragraph (1).”
+Subsec. (g). Pub. L. 109–8, § 221(7), struck out par. (1) designation before “A bankruptcy petition preparer shall not” and struck out par. (2) which read as follows: “A bankruptcy petition preparer shall be fined not more than $500 for each violation of paragraph (1).”
 
-Subsec. (h)(1). Pub. L. 109–8, § 221(8)(B), added par. (1). Former par. (1) redesignated (2).
+Subsec. (h)(1). Pub. L. 109–8, § 221(8)(B), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (h)(2). Pub. L. 109–8, § 221(8)(A), (C), redesignated par. (1) as (2), substituted “A” for “Within 10 days after the date of the filing of a petition, a bankruptcy petition preparer shall file a”, inserted “by the bankruptcy petition preparer shall be filed together with the petition,” after “perjury”, and inserted at end “If rules or guidelines setting a maximum fee for services have been promulgated or prescribed under paragraph (1), the declaration under this paragraph shall include a certification that the bankruptcy petition preparer complied with the notification requirement under paragraph (1).” Former par. (2) redesignated (3).
+Subsec. (h)(2). Pub. L. 109–8, § 221(8)(A), (C), redesignated par. (1) as (2), substituted “A” for “Within 10 days after the date of the filing of a petition, a bankruptcy petition preparer shall file a”, inserted “by the bankruptcy petition preparer shall be filed together with the petition,” after “perjury”, and inserted at end “If rules or guidelines setting a maximum fee for services have been promulgated or prescribed under paragraph (1), the declaration under this paragraph shall include a certification that the bankruptcy petition preparer complied with the notification requirement under paragraph (1).” Former par. (2) redesignated (3).
 
-Subsec. (h)(3). Pub. L. 109–8, § 221(8)(D), added par. (3) and struck out former par. (3) which read as follows: “The court shall disallow and order the immediate turnover to the bankruptcy trustee of any fee referred to in paragraph (1) found to be in excess of the value of services rendered for the documents prepared. An individual debtor may exempt any funds so recovered under section 522(b).”
+Subsec. (h)(3). Pub. L. 109–8, § 221(8)(D), added par. (3) and struck out former par. (3) which read as follows: “The court shall disallow and order the immediate turnover to the bankruptcy trustee of any fee referred to in paragraph (1) found to be in excess of the value of services rendered for the documents prepared. An individual debtor may exempt any funds so recovered under section 522(b).”
 
-Pub. L. 109–8, § 221(8)(A) redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Pub. L. 109–8, § 221(8)(A) redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (h)(4). Pub. L. 109–8, § 221(8)(E), substituted “the United States trustee (or the bankruptcy administrator, if any) or the court, on the initiative of the court,” for “or the United States trustee”.
+Subsec. (h)(4). Pub. L. 109–8, § 221(8)(E), substituted “the United States trustee (or the bankruptcy administrator, if any) or the court, on the initiative of the court,” for “or the United States trustee”.
 
-Pub. L. 109–8, § 221(8)(A) redesignated par. (3) as (4). Former par. (4) redesignated (5).
+Pub. L. 109–8, § 221(8)(A) redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (h)(5). Pub. L. 109–8, § 221(8)(A) redesignated par. (4) as (5).
+Subsec. (h)(5). Pub. L. 109–8, § 221(8)(A) redesignated par. (4) as (5).
 
-Subsec. (i)(1). Pub. L. 109–8, § 221(9), inserted introductory provisions and struck out former introductory provisions which read as follows: “If a bankruptcy case or related proceeding is dismissed because of the failure to file bankruptcy papers, including papers specified in section 521(1) of this title, the negligence or intentional disregard of this title or the Federal Rules of Bankruptcy Procedure by a bankruptcy petition preparer, or if a bankruptcy petition preparer violates this section or commits any fraudulent, unfair, or deceptive act, the bankruptcy court shall certify that fact to the district court, and the district court, on motion of the debtor, the trustee, or a creditor and after a hearing, shall order the bankruptcy petition preparer to pay to the debtor—”.
+Subsec. (i)(1). Pub. L. 109–8, § 221(9), inserted introductory provisions and struck out former introductory provisions which read as follows: “If a bankruptcy case or related proceeding is dismissed because of the failure to file bankruptcy papers, including papers specified in section 521(1) of this title, the negligence or intentional disregard of this title or the Federal Rules of Bankruptcy Procedure by a bankruptcy petition preparer, or if a bankruptcy petition preparer violates this section or commits any fraudulent, unfair, or deceptive act, the bankruptcy court shall certify that fact to the district court, and the district court, on motion of the debtor, the trustee, or a creditor and after a hearing, shall order the bankruptcy petition preparer to pay to the debtor—”.
 
-Subsec. (j)(2)(A)(i)(I). Pub. L. 109–8, § 221(10)(A)(i), struck out “a violation of which subjects a person to criminal penalty” after “any provision of this title”.
+Subsec. (j)(2)(A)(i)(I). Pub. L. 109–8, § 221(10)(A)(i), struck out “a violation of which subjects a person to criminal penalty” after “any provision of this title”.
 
-Subsec. (j)(2)(B). Pub. L. 109–8, § 221(10)(A)(ii), substituted “has not paid a penalty” for “or has not paid a penalty” and inserted “or failed to disgorge all fees ordered by the court” after “a penalty imposed under this section,”.
+Subsec. (j)(2)(B). Pub. L. 109–8, § 221(10)(A)(ii), substituted “has not paid a penalty” for “or has not paid a penalty” and inserted “or failed to disgorge all fees ordered by the court” after “a penalty imposed under this section,”.
 
-Subsec. (j)(3). Pub. L. 109–8, § 221(10)(C) added par. (3). Former par. (3) redesignated (4).
+Subsec. (j)(3). Pub. L. 109–8, § 221(10)(C) added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (j)(4). Pub. L. 109–8, § 1205, substituted “attorneys” for “attorney’s”.
+Subsec. (j)(4). Pub. L. 109–8, § 1205, substituted “attorneys” for “attorney’s”.
 
-Pub. L. 109–8, § 221(10)(B), redesignated par. (3) as (4).
+Pub. L. 109–8, § 221(10)(B), redesignated par. (3) as (4).
 
-Subsec. (*l*). Pub. L. 109–8, § 221(11), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 109–8, § 221(11), added subsec. (*l*).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2681,7 +2681,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 Section effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as an Effective Date of 1994 Amendment note under section 101 of this title.
 
-## § 111. Nonprofit budget and credit counseling agencies; financial management instructional courses
+## § 111. Nonprofit budget and credit counseling agencies; financial management instructional courses
 
 **(a)** The clerk shall maintain a publicly available list of—
 
@@ -2765,13 +2765,13 @@ Section effective Oct. 22, 1994, and not applicable with respect to cases commen
 
 **(B)** any court costs or reasonable attorneys’ fees (as determined by the court) incurred in an action to recover those damages.
 
-(Added Pub. L. 109–8, title I, § 106(e)(1), Apr. 20, 2005, 119 Stat. 38; amended Pub. L. 111–327, § 2(a)(8), Dec. 22, 2010, 124 Stat. 3558.)
+(Added Pub. L. 109–8, title I, § 106(e)(1), Apr. 20, 2005, 119 Stat. 38; amended Pub. L. 111–327, § 2(a)(8), Dec. 22, 2010, 124 Stat. 3558.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (d)(1)(E). Pub. L. 111–327 substituted “; and” for period at end and realigned margin.
+2010—Subsec. (d)(1)(E). Pub. L. 111–327 substituted “; and” for period at end and realigned margin.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2781,13 +2781,13 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **Debtor Financial Management Training Test Program**
 
-Pub. L. 109–8, title I, § 105, Apr. 20, 2005, 119 Stat. 36, provided that the Director of the Executive Office for United States Trustees develop a financial management training curriculum and materials to educate individual debtors on how to better manage their finances, with 6 judicial districts used to test the program for 18 months beginning not later than 270 days after Apr. 20, 2005, and within 3 months after the conclusion of an evaluation, the Director should report to the Speaker of the House of Representatives and the President pro tempore of the Senate on the appropriate findings.
+Pub. L. 109–8, title I, § 105, Apr. 20, 2005, 119 Stat. 36, provided that the Director of the Executive Office for United States Trustees develop a financial management training curriculum and materials to educate individual debtors on how to better manage their finances, with 6 judicial districts used to test the program for 18 months beginning not later than 270 days after Apr. 20, 2005, and within 3 months after the conclusion of an evaluation, the Director should report to the Speaker of the House of Representatives and the President pro tempore of the Senate on the appropriate findings.
 
-## § 112. Prohibition on disclosure of name of minor children
+## § 112. Prohibition on disclosure of name of minor children
 
 The debtor may be required to provide information regarding a minor child involved in matters under this title but may not be required to disclose in the public records in the case the name of such minor child. The debtor may be required to disclose the name of such minor child in a nonpublic record that is maintained by the court and made available by the court for examination by the United States trustee, the trustee, and the auditor (if any) serving under section 586(f) of title 28, in the case. The court, the United States trustee, the trustee, and such auditor shall not disclose the name of such minor child maintained in such nonpublic record.
 
-(Added Pub. L. 109–8, title II, § 233(a), Apr. 20, 2005, 119 Stat. 74.)
+(Added Pub. L. 109–8, title II, § 233(a), Apr. 20, 2005, 119 Stat. 74.)
 
 **Statutory Notes and Related Subsidiaries**
 

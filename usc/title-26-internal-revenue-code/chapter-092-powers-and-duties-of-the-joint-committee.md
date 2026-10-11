@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 92—POWERS AND DUTIES OF THE JOINT COMMITTEE
 
-## § 8021. Powers
+## § 8021. Powers
 
 **(a) To obtain data and inspect income returns**
 
@@ -53,7 +53,7 @@ The Joint Committee, or any subcommittee thereof, is authorized to make such exp
 
 The Joint Committee shall review all requests (other than requests by the chairman or ranking member of a committee or subcommittee) for investigations of the Internal Revenue Service by the Government Accountability Office, and approve such requests when appropriate, with a view towards eliminating overlapping investigations, ensuring that the Government Accountability Office has the capacity to handle the investigation, and ensuring that investigations focus on areas of primary importance to tax administration.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 927; Pub. L. 94–455, title XIX, § 1907(a)(3), Oct. 4, 1976, 90 Stat. 1835; Pub. L. 100–647, title I, § 1018(s)(1), Nov. 10, 1988, 102 Stat. 3586; Pub. L. 105–206, title IV, § 4001(a), July 22, 1998, 112 Stat. 783; Pub. L. 108–311, title III, § 321(a), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 109–135, title IV, § 412(rr)(5), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 115–141, div. U, title IV, § 401(b)(56), Mar. 23, 2018, 132 Stat. 1205.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 927; Pub. L. 94–455, title XIX, § 1907(a)(3), Oct. 4, 1976, 90 Stat. 1835; Pub. L. 100–647, title I, § 1018(s)(1), Nov. 10, 1988, 102 Stat. 3586; Pub. L. 105–206, title IV, § 4001(a), July 22, 1998, 112 Stat. 783; Pub. L. 108–311, title III, § 321(a), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 109–135, title IV, § 412(rr)(5), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 115–141, div. U, title IV, § 401(b)(56), Mar. 23, 2018, 132 Stat. 1205.)
 
 **Editorial Notes**
 
@@ -75,7 +75,7 @@ The Joint Committee shall review all requests (other than requests by the chairm
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–206, title IV, § 4001(b), July 22, 1998, 112 Stat. 784, provided that:
+Pub. L. 105–206, title IV, § 4001(b), July 22, 1998, 112 Stat. 784, provided that:
 
 > **“(1)** Subsection (e) of section 8021 of the Internal Revenue Code of 1986, as added by subsection (a) of this section [amending this section], shall apply to requests made after the date of the enactment of this Act [July 22, 1998].
 
@@ -95,9 +95,9 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 **Time for Joint Review**
 
-Pub. L. 108–311, title III, § 321(c), Oct. 4, 2004, 118 Stat. 1182, provided that the joint review required by section 8021(f)(2) of the Internal Revenue Code of 1986 (26 U.S.C. 8021(f)(2)) to be made before June 1, 2004, was to be treated as timely if made before June 1, 2005.
+Pub. L. 108–311, title III, § 321(c), Oct. 4, 2004, 118 Stat. 1182, provided that the joint review required by section 8021(f)(2) of the Internal Revenue Code of 1986 (26 U.S.C. 8021(f)(2)) to be made before June 1, 2004, was to be treated as timely if made before June 1, 2005.
 
-## § 8022. Duties
+## § 8022. Duties
 
 It shall be the duty of the Joint Committee—
 
@@ -135,7 +135,7 @@ To publish, from time to time, for public examination and analysis, proposed mea
 
 For duties of the Joint Committee relating to refunds of income and estate taxes, see section 6405.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 927; Pub. L. 105–206, title IV, § 4002(a), July 22, 1998, 112 Stat. 784; Pub. L. 108–311, title III, § 321(b), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 115–141, div. U, title IV, § 401(b)(57), Mar. 23, 2018, 132 Stat. 1205.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 927; Pub. L. 105–206, title IV, § 4002(a), July 22, 1998, 112 Stat. 784; Pub. L. 108–311, title III, § 321(b), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 115–141, div. U, title IV, § 401(b)(57), Mar. 23, 2018, 132 Stat. 1205.)
 
 **Editorial Notes**
 
@@ -163,7 +163,7 @@ For duties of the Joint Committee relating to refunds of income and estate taxes
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–206, title IV, § 4002(b), July 22, 1998, 112 Stat. 784, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title IV, § 4002(b), July 22, 1998, 112 Stat. 784, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [July 22, 1998].”
 
 **Savings Provision**
 
@@ -171,7 +171,7 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 **Analysis To Accompany Certain Legislation**
 
-Pub. L. 105–206, title IV, § 4022(b), July 22, 1998, 112 Stat. 785, provided that:
+Pub. L. 105–206, title IV, § 4022(b), July 22, 1998, 112 Stat. 785, provided that:
 
 > **“(1) In general.—** The Joint Committee on Taxation, in consultation with the Internal Revenue Service and the Department of the Treasury, shall include a tax complexity analysis in each report for legislation, or provide such analysis to members of the committee reporting the legislation as soon as practicable after the report is filed, if—
 
@@ -209,17 +209,17 @@ Pub. L. 105–206, title IV, § 4022(b), July 22, 1998, 112 Stat. 785, provide
 
 **Tax Revision Study**
 
-Pub. L. 94–455, title V, § 507, Oct. 4, 1976, 90 Stat. 1569, mandated a full and complete study by the Joint Committee on Taxation with respect to simplifying the tax laws and the feasibility of a reduction of tax rates; a report of such study with recommendations was to be submitted to the committees of Congress before July 1, 1977.
+Pub. L. 94–455, title V, § 507, Oct. 4, 1976, 90 Stat. 1569, mandated a full and complete study by the Joint Committee on Taxation with respect to simplifying the tax laws and the feasibility of a reduction of tax rates; a report of such study with recommendations was to be submitted to the committees of Congress before July 1, 1977.
 
 **Study of Expanded Participation in Individual Retirement Accounts**
 
-Pub. L. 94–455, title XV, § 1509, Oct. 4, 1976, 90 Stat. 1741, directed Joint Committee on Taxation to carry out study with respect to broadening class of individuals eligible to claim deduction for retirement savings under section 219 or 220 of this title, and to report its findings to Committee on Ways and Means of the House of Representatives and to Committee on Finance of the Senate.
+Pub. L. 94–455, title XV, § 1509, Oct. 4, 1976, 90 Stat. 1741, directed Joint Committee on Taxation to carry out study with respect to broadening class of individuals eligible to claim deduction for retirement savings under section 219 or 220 of this title, and to report its findings to Committee on Ways and Means of the House of Representatives and to Committee on Finance of the Senate.
 
 **Tax Incentives Study**
 
-Pub. L. 94–455, title XXI, § 2133, Oct. 4, 1976, 90 Stat. 1925, mandated a study by the Joint Committee on Taxation, in consultation with the Treasury, of the cost effectiveness of different kinds of tax incentives, including an analysis of the most effective way to use tax cuts to provide economic stimulus; such report with its recommendations was to be submitted to the Committees of Congress no later than Sept. 30, 1977.
+Pub. L. 94–455, title XXI, § 2133, Oct. 4, 1976, 90 Stat. 1925, mandated a study by the Joint Committee on Taxation, in consultation with the Treasury, of the cost effectiveness of different kinds of tax incentives, including an analysis of the most effective way to use tax cuts to provide economic stimulus; such report with its recommendations was to be submitted to the Committees of Congress no later than Sept. 30, 1977.
 
-## § 8023. Additional powers to obtain data
+## § 8023. Additional powers to obtain data
 
 **(a) Securing of data**
 
@@ -233,7 +233,7 @@ The Internal Revenue Service, the office of the Chief Counsel for the Internal R
 
 Subsections (a) and (b) shall be applied in accordance with their provisions without regard to any reorganization plan becoming effective on, before, or after the date of the enactment of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 928; Pub. L. 86–368, § 2(b), Sept. 22, 1959, 73 Stat. 648; Pub. L. 94–455, title XII, § 1210(c), title XIX, § 1907(a)(4), Oct. 4, 1976, 90 Stat. 1711, 1835.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 928; Pub. L. 86–368, § 2(b), Sept. 22, 1959, 73 Stat. 648; Pub. L. 94–455, title XII, § 1210(c), title XIX, § 1907(a)(4), Oct. 4, 1976, 90 Stat. 1711, 1835.)
 
 **Editorial Notes**
 
@@ -243,19 +243,19 @@ The date of the enactment of this subsection, referred to in subsec. (c), is Aug
 
 **Amendments**
 
-1976—Subsec. (a). Pub. L. 94–455, § 1210(c), inserted provision that in investigation by Joint Committee on Taxation of the administration of the internal revenue taxes by the Internal Revenue Service, the Chief of Staff of the Joint Committee on Taxation is authorized to secure directly from the Internal Revenue Service such tax returns, or copies of tax returns, and other relevant information, as the Chief of Staff deems necessary for such investigation, and the Internal Revenue Service is authorized and directed to furnish such tax returns and information to the Chief of Staff together with a brief report, with respect to each return, as to any action taken or proposed to be taken by the Service as a result of any audit of the return.
+1976—Subsec. (a). Pub. L. 94–455, § 1210(c), inserted provision that in investigation by Joint Committee on Taxation of the administration of the internal revenue taxes by the Internal Revenue Service, the Chief of Staff of the Joint Committee on Taxation is authorized to secure directly from the Internal Revenue Service such tax returns, or copies of tax returns, and other relevant information, as the Chief of Staff deems necessary for such investigation, and the Internal Revenue Service is authorized and directed to furnish such tax returns and information to the Chief of Staff together with a brief report, with respect to each return, as to any action taken or proposed to be taken by the Service as a result of any audit of the return.
 
-Subsec. (c). Pub. L. 94–455, § 1907(a)(4), substituted “any” for “Reorganization Plan Numbered 26 of 1950 or to any other” after “without regard to” and “the date of the enactment of this subsection” for “February 28, 1951” after “before, or after”.
+Subsec. (c). Pub. L. 94–455, § 1907(a)(4), substituted “any” for “Reorganization Plan Numbered 26 of 1950 or to any other” after “without regard to” and “the date of the enactment of this subsection” for “February 28, 1951” after “before, or after”.
 
-1959—Subsec. (a). Pub. L. 86–368, § 2(b)(1), substituted “or the office of the Chief Counsel for the Internal Revenue Service” for “(including the Assistant General Counsel of the Treasury Department serving as the Chief Counsel of the Internal Revenue Service)”.
+1959—Subsec. (a). Pub. L. 86–368, § 2(b)(1), substituted “or the office of the Chief Counsel for the Internal Revenue Service” for “(including the Assistant General Counsel of the Treasury Department serving as the Chief Counsel of the Internal Revenue Service)”.
 
-Subsec. (b). Pub. L. 86–368, § 2(b)(2), substituted “, the office of the Chief Counsel for the Internal Revenue Service” for “(including the Assistant General Counsel of the Treasury Department serving as the Chief Counsel of the Internal Revenue Service)”.
+Subsec. (b). Pub. L. 86–368, § 2(b)(2), substituted “, the office of the Chief Counsel for the Internal Revenue Service” for “(including the Assistant General Counsel of the Treasury Department serving as the Chief Counsel of the Internal Revenue Service)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XII, § 1210(d)(2), Oct. 4, 1976, 90 Stat. 1711, provided that: “The amendment made by subsection (c) [amending this section] shall take effect on January 1, 1977.”
+Pub. L. 94–455, title XII, § 1210(d)(2), Oct. 4, 1976, 90 Stat. 1711, provided that: “The amendment made by subsection (c) [amending this section] shall take effect on January 1, 1977.”
 
 Amendment by section 1907(a)(4) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1907(c) of Pub. L. 94–455, set out as a note under section 8001 of this title.
 

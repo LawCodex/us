@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 102—FAIRNESS TO CONTACT LENS CONSUMERS
 
-## § 7601. Availability of contact lens prescriptions to patients
+## § 7601. Availability of contact lens prescriptions to patients
 
 **(a) In general** When a prescriber completes a contact lens fitting, the prescriber—
 
@@ -31,23 +31,23 @@ retrieved: 2026-10-11
 
 **(3)** require the patient to sign a waiver or release as a condition of verifying or releasing a prescription.
 
-(Pub. L. 108–164, § 2, Dec. 6, 2003, 117 Stat. 2024.)
+(Pub. L. 108–164, § 2, Dec. 6, 2003, 117 Stat. 2024.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 108–164, § 12, Dec. 6, 2003, 117 Stat. 2028, provided that: “This Act [enacting this chapter and provisions set out as a note below] shall take effect 60 days after the date of the enactment of this Act [Dec. 6, 2003].”
+Pub. L. 108–164, § 12, Dec. 6, 2003, 117 Stat. 2028, provided that: “This Act [enacting this chapter and provisions set out as a note below] shall take effect 60 days after the date of the enactment of this Act [Dec. 6, 2003].”
 
 **Short Title**
 
-Pub. L. 108–164, § 1, Dec. 6, 2003, 117 Stat. 2024, provided that: “This Act [enacting this chapter and provisions set out as a note above] may be cited as the ‘Fairness to Contact Lens Consumers Act’.”
+Pub. L. 108–164, § 1, Dec. 6, 2003, 117 Stat. 2024, provided that: “This Act [enacting this chapter and provisions set out as a note above] may be cited as the ‘Fairness to Contact Lens Consumers Act’.”
 
-## § 7602. Immediate payment of fees in limited circumstances
+## § 7602. Immediate payment of fees in limited circumstances
 
 A prescriber may require payment of fees for an eye examination, fitting, and evaluation before the release of a contact lens prescription, but only if the prescriber requires immediate payment in the case of an examination that reveals no requirement for ophthalmic goods. For purposes of the preceding sentence, presentation of proof of insurance coverage for that service shall be deemed to be a payment.
 
-(Pub. L. 108–164, § 3, Dec. 6, 2003, 117 Stat. 2024.)
+(Pub. L. 108–164, § 3, Dec. 6, 2003, 117 Stat. 2024.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -55,7 +55,7 @@ A prescriber may require payment of fees for an eye examination, fitting, and ev
 
 Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under section 7601 of this title.
 
-## § 7603. Prescriber verification
+## § 7603. Prescriber verification
 
 **(a) Prescription requirement** A seller may sell contact lenses only in accordance with a contact lens prescription for the patient that is—
 
@@ -101,7 +101,7 @@ A seller may not alter a contact lens prescription. Notwithstanding the precedin
 
 As used in this section, the term “direct communication” includes communication by telephone, facsimile, or electronic mail.
 
-(Pub. L. 108–164, § 4, Dec. 6, 2003, 117 Stat. 2024.)
+(Pub. L. 108–164, § 4, Dec. 6, 2003, 117 Stat. 2024.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -109,7 +109,7 @@ As used in this section, the term “direct communication” includes communicat
 
 Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under section 7601 of this title.
 
-## § 7604. Expiration of contact lens prescriptions
+## § 7604. Expiration of contact lens prescriptions
 
 **(a) In general** A contact lens prescription shall expire—
 
@@ -127,7 +127,7 @@ If a prescription expires in less than 1 year, the reasons for the judgment refe
 
 As used in this section, the term “issue date” means the date on which the patient receives a copy of the prescription.
 
-(Pub. L. 108–164, § 5, Dec. 6, 2003, 117 Stat. 2025.)
+(Pub. L. 108–164, § 5, Dec. 6, 2003, 117 Stat. 2025.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -135,11 +135,11 @@ As used in this section, the term “issue date” means the date on which the p
 
 Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under section 7601 of this title.
 
-## § 7605. Content of advertisements and other representations
+## § 7605. Content of advertisements and other representations
 
 Any person that engages in the manufacture, processing, assembly, sale, offering for sale, or distribution of contact lenses may not represent, by advertisement, sales presentation, or otherwise, that contact lenses may be obtained without a prescription.
 
-(Pub. L. 108–164, § 6, Dec. 6, 2003, 117 Stat. 2026.)
+(Pub. L. 108–164, § 6, Dec. 6, 2003, 117 Stat. 2026.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -147,11 +147,11 @@ Any person that engages in the manufacture, processing, assembly, sale, offering
 
 Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under section 7601 of this title.
 
-## § 7606. Prohibition of certain waivers
+## § 7606. Prohibition of certain waivers
 
 A prescriber may not place on the prescription, or require the patient to sign, or deliver to the patient a form or notice waiving or disclaiming the liability or responsibility of the prescriber for the accuracy of the eye examination. The preceding sentence does not impose liability on a prescriber for the ophthalmic goods and services dispensed by another seller pursuant to the prescriber’s correctly verified prescription.
 
-(Pub. L. 108–164, § 7, Dec. 6, 2003, 117 Stat. 2026.)
+(Pub. L. 108–164, § 7, Dec. 6, 2003, 117 Stat. 2026.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -159,17 +159,17 @@ A prescriber may not place on the prescription, or require the patient to sign, 
 
 Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under section 7601 of this title.
 
-## § 7607. Rulemaking by Federal Trade Commission
+## § 7607. Rulemaking by Federal Trade Commission
 
 The Federal Trade Commission shall prescribe rules pursuant to section 57a of this title to carry out this chapter. Rules so prescribed shall be exempt from the requirements of the Magnuson-Moss Warranty—Federal Trade Commission Improvement Act (15 U.S.C. 2301 et seq.). Any such regulations shall be issued in accordance with section 553 of title 5. The first rules under this section shall take effect not later than 180 days after the effective date of this chapter.
 
-(Pub. L. 108–164, § 8, Dec. 6, 2003, 117 Stat. 2026.)
+(Pub. L. 108–164, § 8, Dec. 6, 2003, 117 Stat. 2026.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Moss Warranty—Federal Trade Commission Improvement Act, referred to in text, is Pub. L. 93–637, Jan. 4, 1975, 88 Stat. 2183. Title I of the Act is classified generally to chapter 50 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Magnuson-Moss Warranty—Federal Trade Commission Improvement Act, referred to in text, is Pub. L. 93–637, Jan. 4, 1975, 88 Stat. 2183. Title I of the Act is classified generally to chapter 50 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 For effective date of this chapter, referred to in text, see section 12 of Pub. L. 108–164, set out as an Effective Date note under section 7601 of this title.
 
@@ -179,7 +179,7 @@ For effective date of this chapter, referred to in text, see section 12 of Pub. 
 
 Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under section 7601 of this title.
 
-## § 7608. Violations
+## § 7608. Violations
 
 **(a) In general**
 
@@ -189,13 +189,13 @@ Any violation of this chapter or the rules required under section 7607 of this t
 
 The Federal Trade Commission shall enforce this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this chapter.
 
-(Pub. L. 108–164, § 9, Dec. 6, 2003, 117 Stat. 2026.)
+(Pub. L. 108–164, § 9, Dec. 6, 2003, 117 Stat. 2026.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -203,7 +203,7 @@ The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1
 
 Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under section 7601 of this title.
 
-## § 7609. Study and report
+## § 7609. Study and report
 
 **(a) Study** The Federal Trade Commission shall undertake a study to examine the strength of competition in the sale of prescription contact lenses. The study shall include an examination of the following issues:
 
@@ -221,7 +221,7 @@ Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–16
 
 Not later than 12 months after the effective date of this chapter, the Chairman of the Federal Trade Commission shall submit to the Congress a report of the study required by subsection (a).
 
-(Pub. L. 108–164, § 10, Dec. 6, 2003, 117 Stat. 2026.)
+(Pub. L. 108–164, § 10, Dec. 6, 2003, 117 Stat. 2026.)
 
 **Editorial Notes**
 
@@ -235,7 +235,7 @@ For effective date of this chapter, referred to in subsec. (b), see section 12 o
 
 Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under section 7601 of this title.
 
-## § 7610. Definitions
+## § 7610. Definitions
 
 As used in this chapter:
 
@@ -269,7 +269,7 @@ The term “prescriber” means, with respect to contact lens prescriptions, an 
 
 **(H)** In the case of a private label contact lens, name of manufacturer, trade name of private label brand, and, if applicable, trade name of equivalent brand name.
 
-(Pub. L. 108–164, § 11, Dec. 6, 2003, 117 Stat. 2027.)
+(Pub. L. 108–164, § 11, Dec. 6, 2003, 117 Stat. 2027.)
 
 **Statutory Notes and Related Subsidiaries**
 

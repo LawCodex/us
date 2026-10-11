@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-Chapter 138 was originally comprised of sections 2321 to 2331. Sections 2321 to 2328, 2330, and 2331, were renumbered sections 2341 to 2348, 2349, and 2350, respectively, of this title, by Pub. L. 99–145, title XIII, § 1304(a)(1), (3), Nov. 8, 1985, 99 Stat. 741.
+Chapter 138 was originally comprised of sections 2321 to 2331. Sections 2321 to 2328, 2330, and 2331, were renumbered sections 2341 to 2348, 2349, and 2350, respectively, of this title, by Pub. L. 99–145, title XIII, § 1304(a)(1), (3), Nov. 8, 1985, 99 Stat. 741.
 
-Section 2329, added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1018, required the Secretary of Defense to prescribe regulations to implement this chapter, prior to repeal by Pub. L. 99–145, title XIII, § 1304(a)(2), Nov. 8, 1985, 99 Stat. 741.
+Section 2329, added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1018, required the Secretary of Defense to prescribe regulations to implement this chapter, prior to repeal by Pub. L. 99–145, title XIII, § 1304(a)(2), Nov. 8, 1985, 99 Stat. 741.
 
 **Amendments**
 
-1990—Pub. L. 101–510, div. A, title XIV, § 1484(i)(7), Nov. 5, 1990, 104 Stat. 1718, inserted “Sec.” above “2341”.
+1990—Pub. L. 101–510, div. A, title XIV, § 1484(i)(7), Nov. 5, 1990, 104 Stat. 1718, inserted “Sec.” above “2341”.
 
-1989—Pub. L. 101–189, div. A, title IX, § 931(a)(1), Nov. 29, 1989, 103 Stat. 1531, substituted “COOPERATIVE AGREEMENTS WITH NATO ALLIES AND OTHER COUNTRIES” for “ACQUISITION AND CROSS-SERVICING AGREEMENTS WITH NATO ALLIES AND OTHER COUNTRIES” in chapter heading, and added subchapter analysis, consisting of subchapters I and II.
+1989—Pub. L. 101–189, div. A, title IX, § 931(a)(1), Nov. 29, 1989, 103 Stat. 1531, substituted “COOPERATIVE AGREEMENTS WITH NATO ALLIES AND OTHER COUNTRIES” for “ACQUISITION AND CROSS-SERVICING AGREEMENTS WITH NATO ALLIES AND OTHER COUNTRIES” in chapter heading, and added subchapter analysis, consisting of subchapters I and II.
 
-1987—Pub. L. 100–26, § 7(a)(8), Apr. 21, 1987, 101 Stat. 278, substituted “ACQUISITION AND CROSS-SERVICING AGREEMENTS WITH NATO ALLIES AND OTHER COUNTRIES” for “NORTH ATLANTIC TREATY ORGANIZATION ACQUISITION AND CROSS-SERVICING AGREEMENTS” in chapter heading.
+1987—Pub. L. 100–26, § 7(a)(8), Apr. 21, 1987, 101 Stat. 278, substituted “ACQUISITION AND CROSS-SERVICING AGREEMENTS WITH NATO ALLIES AND OTHER COUNTRIES” for “NORTH ATLANTIC TREATY ORGANIZATION ACQUISITION AND CROSS-SERVICING AGREEMENTS” in chapter heading.
 
 ## SUBCHAPTER I—ACQUISITION AND CROSS-SERVICING AGREEMENTS
 
@@ -37,25 +37,25 @@ Section 2329, added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1018, re
 
 **Amendments**
 
-2013—Pub. L. 112–239, div. A, title X, § 1076(g)(3), Jan. 2, 2013, 126 Stat. 1955, struck out item 2349a “Annual report on non-NATO agreements”.
+2013—Pub. L. 112–239, div. A, title X, § 1076(g)(3), Jan. 2, 2013, 126 Stat. 1955, struck out item 2349a “Annual report on non-NATO agreements”.
 
-1994—Pub. L. 103–337, div. A, title XIII, § 1317(c)(2)(B), (i)(2), Oct. 5, 1994, 108 Stat. 2900, 2902, substituted “Waiver of applicability of certain laws” for “Law applicable to acquisition and cross-servicing agreements” in item 2343 and added item 2349a.
+1994—Pub. L. 103–337, div. A, title XIII, § 1317(c)(2)(B), (i)(2), Oct. 5, 1994, 108 Stat. 2900, 2902, substituted “Waiver of applicability of certain laws” for “Law applicable to acquisition and cross-servicing agreements” in item 2343 and added item 2349a.
 
-1993—Pub. L. 103–160, div. A, title XIV, § 1431(a)(2), Nov. 30, 1993, 107 Stat. 1833, added item 2349.
+1993—Pub. L. 103–160, div. A, title XIV, § 1431(a)(2), Nov. 30, 1993, 107 Stat. 1833, added item 2349.
 
-1990—Pub. L. 101–510, div. A, title XIII, § 1331(3), Nov. 5, 1990, 104 Stat. 1673, struck out item 2349 “Annual reports”.
+1990—Pub. L. 101–510, div. A, title XIII, § 1331(3), Nov. 5, 1990, 104 Stat. 1673, struck out item 2349 “Annual reports”.
 
-1989—Pub. L. 101–189, div. A, title IX, § 931(a)(1), Nov. 29, 1989, 103 Stat. 1531, added subchapter heading.
+1989—Pub. L. 101–189, div. A, title IX, § 931(a)(1), Nov. 29, 1989, 103 Stat. 1531, added subchapter heading.
 
-1986—Pub. L. 99–661, div. A, title XI, § 1104(g), Nov. 14, 1986, 100 Stat. 3965, substituted “elements of the armed forces deployed outside the United States” for “United States armed forces in Europe” in item 2341.
+1986—Pub. L. 99–661, div. A, title XI, § 1104(g), Nov. 14, 1986, 100 Stat. 3965, substituted “elements of the armed forces deployed outside the United States” for “United States armed forces in Europe” in item 2341.
 
-1985—Pub. L. 99–145, title XIII, § 1304(a)(6), Nov. 8, 1985, 99 Stat. 742, renumbered items 2321 to 2328 as 2341 to 2348, respectively, and items 2330 and 2331 as 2349 and 2350, respectively, and struck out item 2329 “Regulations”.
+1985—Pub. L. 99–145, title XIII, § 1304(a)(6), Nov. 8, 1985, 99 Stat. 742, renumbered items 2321 to 2328 as 2341 to 2348, respectively, and items 2330 and 2331 as 2349 and 2350, respectively, and struck out item 2329 “Regulations”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Depot-Level Maintenance Coordination in Multinational Exercises**
 
-Pub. L. 119–60, div. A, title III, § 343, Dec. 18, 2025, 139 Stat. 823, provided that:
+Pub. L. 119–60, div. A, title III, § 343, Dec. 18, 2025, 139 Stat. 823, provided that:
 
 > **“(a) In General.—** Each year, the Secretary of the Air Force shall incorporate in at least one multinational exercise conducted in the area of operations of the United States Indo-Pacific Command—
 
@@ -115,7 +115,7 @@ Pub. L. 119–60, div. A, title III, § 343, Dec. 18, 2025, 139 Stat. 823, pro
 
 > **“(7)** Any other nation designated a covered nation for the purposes of this section by the Secretary of the Air Force.”
 
-### § 2341. Authority to acquire logistic support, supplies, and services for elements of the armed forces deployed outside the United States
+### § 2341. Authority to acquire logistic support, supplies, and services for elements of the armed forces deployed outside the United States
 
 Subject to section 2343 of this title and subject to the availability of appropriations, the Secretary of Defense may—
 
@@ -131,7 +131,7 @@ Subject to section 2343 of this title and subject to the availability of appropr
 
 **(D)** serves as the host country to military exercises which include elements of the armed forces or permits other military operations by the armed forces in such country.
 
-(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1016, § 2321; renumbered § 2341 and amended Pub. L. 99–145, title XIII, § 1304(a)(1), (4), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, § 1104(a), Nov. 14, 1986, 100 Stat. 3963; Pub. L. 102–484, div. A, title XIII, § 1312(a), Oct. 23, 1992, 106 Stat. 2547; Pub. L. 103–337, div. A, title XIII, § 1317(a), Oct. 5, 1994, 108 Stat. 2899; Pub. L. 109–163, div. A, title XII, § 1204, Jan. 6, 2006, 119 Stat. 3456.)
+(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1016, § 2321; renumbered § 2341 and amended Pub. L. 99–145, title XIII, § 1304(a)(1), (4), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, § 1104(a), Nov. 14, 1986, 100 Stat. 3963; Pub. L. 102–484, div. A, title XIII, § 1312(a), Oct. 23, 1992, 106 Stat. 2547; Pub. L. 103–337, div. A, title XIII, § 1317(a), Oct. 5, 1994, 108 Stat. 2899; Pub. L. 109–163, div. A, title XII, § 1204, Jan. 6, 2006, 119 Stat. 3456.)
 
 **Editorial Notes**
 
@@ -139,11 +139,11 @@ Subject to section 2343 of this title and subject to the availability of appropr
 
 2006—Par. (1). Pub. L. 109–163 struck out “of which the United States is a member” before “logistic support”.
 
-1994—Par. (1). Pub. L. 103–337 substituted a comma for “and” after “countries” and inserted “, and from the United Nations Organization or any regional international organization of which the United States is a member” after “subsidiary bodies”.
+1994—Par. (1). Pub. L. 103–337 substituted a comma for “and” after “countries” and inserted “, and from the United Nations Organization or any regional international organization of which the United States is a member” after “subsidiary bodies”.
 
-1992—Par. (1). Pub. L. 102–484, § 1312(a)(1), substituted “outside the United States” for “in Europe and adjacent waters”.
+1992—Par. (1). Pub. L. 102–484, § 1312(a)(1), substituted “outside the United States” for “in Europe and adjacent waters”.
 
-Par. (2). Pub. L. 102–484, § 1312(a)(2), in introductory provisions, struck out “in which elements of the armed forces are deployed (or are to be deployed)” after “North Atlantic Treaty Organization” and substituted “outside the United States” for “in such country or in the military region in which such country is located”.
+Par. (2). Pub. L. 102–484, § 1312(a)(2), in introductory provisions, struck out “in which elements of the armed forces are deployed (or are to be deployed)” after “North Atlantic Treaty Organization” and substituted “outside the United States” for “in such country or in the military region in which such country is located”.
 
 1986—Pub. L. 99–661 substituted “elements of the armed forces deployed outside the United States” for “United States armed forces in Europe” in section catchline.
 
@@ -155,19 +155,19 @@ Pub. L. 99–661 amended section generally, restating existing provisions into i
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title XIII, § 1317(j), Oct. 5, 1994, 108 Stat. 2902, provided that: “The amendments made by this section [enacting section 2349a of this title and amending this section and sections 2342 to 2347 and 2350 of this title] shall apply with regard to any acquisition or transfer of logistic support, supplies, and services under the authority of subchapter I of chapter 138 of title 10, United States Code, that is initiated after the date of the enactment of this Act [Oct. 5, 1994].”
+Pub. L. 103–337, div. A, title XIII, § 1317(j), Oct. 5, 1994, 108 Stat. 2902, provided that: “The amendments made by this section [enacting section 2349a of this title and amending this section and sections 2342 to 2347 and 2350 of this title] shall apply with regard to any acquisition or transfer of logistic support, supplies, and services under the authority of subchapter I of chapter 138 of title 10, United States Code, that is initiated after the date of the enactment of this Act [Oct. 5, 1994].”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–484, div. A, title XIII, § 1312(c), Oct. 23, 1992, 106 Stat. 2548, provided that: “The amendments made by this section [amending this section and section 2347 of this title] shall take effect on the date of enactment of this Act [Oct. 23, 1992] and shall apply to acquisitions of logistics support, supplies, and services under chapter 138 of title 10, United States Code, that are initiated on or after the date of enactment of this Act.”
+Pub. L. 102–484, div. A, title XIII, § 1312(c), Oct. 23, 1992, 106 Stat. 2548, provided that: “The amendments made by this section [amending this section and section 2347 of this title] shall take effect on the date of enactment of this Act [Oct. 23, 1992] and shall apply to acquisitions of logistics support, supplies, and services under chapter 138 of title 10, United States Code, that are initiated on or after the date of enactment of this Act.”
 
 **Short Title**
 
-Pub. L. 96–323, § 1, Aug. 4, 1980, 94 Stat. 1016, provided: “That this Act [enacting this chapter] may be cited as the ‘North Atlantic Treaty Organization Mutual Support Act of 1979’.”
+Pub. L. 96–323, § 1, Aug. 4, 1980, 94 Stat. 1016, provided: “That this Act [enacting this chapter] may be cited as the ‘North Atlantic Treaty Organization Mutual Support Act of 1979’.”
 
 **Demonstration and Prototyping Program To Advance International Product Support Capabilities in a Contested Logistics Environment**
 
-Pub. L. 118–31, div. A, title VIII, § 842, Dec. 22, 2023, 137 Stat. 340, as amended by Pub. L. 118–159, div. A, title VIII, § 821, Dec. 23, 2024, 138 Stat. 1983; Pub. L. 119–60, div. A, title VIII, §§ 871, 872, Dec. 18, 2025, 139 Stat. 1002, provided that:
+Pub. L. 118–31, div. A, title VIII, § 842, Dec. 22, 2023, 137 Stat. 340, as amended by Pub. L. 118–159, div. A, title VIII, § 821, Dec. 23, 2024, 138 Stat. 1983; Pub. L. 119–60, div. A, title VIII, §§ 871, 872, Dec. 18, 2025, 139 Stat. 1002, provided that:
 
 > **“(a) Contested Logistics Demonstration and Prototyping Program Required.—** The Secretary of Defense shall establish a contested logistics demonstration and prototyping program to identify, develop, demonstrate, and field capabilities for product support in order to reduce or mitigate the risks associated with operations in a contested logistics environment.
 
@@ -277,21 +277,21 @@ Pub. L. 118–31, div. A, title VIII, § 842, Dec. 22, 2023, 137 Stat. 340, as
 
 **Acceptance of Real Property, Services, and Commodities From Foreign Countries by Agencies of Department of Defense**
 
-Pub. L. 101–165, title IX, § 9008, Nov. 21, 1989, 103 Stat. 1130, which authorized agencies of Department of Defense to accept use of real property from foreign countries for United States in accordance with mutual defense agreements or occupational arrangements and to accept services furnished by foreign countries as reciprocal international courtesies or as services customarily made available without charge and to use same for support of United States forces in such areas without specific appropriation therefor, was repealed and restated in section 2350g of this title by Pub. L. 101–510, div. A, title XIV, § 1451(b)(1), (c), Nov. 5, 1990, 104 Stat. 1692, 1693.
+Pub. L. 101–165, title IX, § 9008, Nov. 21, 1989, 103 Stat. 1130, which authorized agencies of Department of Defense to accept use of real property from foreign countries for United States in accordance with mutual defense agreements or occupational arrangements and to accept services furnished by foreign countries as reciprocal international courtesies or as services customarily made available without charge and to use same for support of United States forces in such areas without specific appropriation therefor, was repealed and restated in section 2350g of this title by Pub. L. 101–510, div. A, title XIV, § 1451(b)(1), (c), Nov. 5, 1990, 104 Stat. 1692, 1693.
 
 **Overseas Workload Program**
 
-Pub. L. 101–510, div. A, title XIV, § 1465, Nov. 5, 1990, 104 Stat. 1700, as amended by Pub. L. 102–190, div. A, title X, § 1085, Dec. 5, 1991, 105 Stat. 1483; Pub. L. 102–484, div. A, title XIII, § 1353, Oct. 23, 1992, 106 Stat. 2559, which related to eligibility of a firm of any member nation of North Atlantic Treaty Organization (NATO) or of any major non-NATO ally to bid on any contract for maintenance, repair, or overhaul of equipment of the Department of Defense to be awarded under competitive procedures as part of the Overseas Workload Program, was repealed and restated in section 2349 of this title by Pub. L. 103–160, div. A, title XIV, § 1431(a)(1), (b)(1), Nov. 30, 1993, 107 Stat. 1832, 1833. Similar provisions were contained in the following authorization or appropriation acts:
+Pub. L. 101–510, div. A, title XIV, § 1465, Nov. 5, 1990, 104 Stat. 1700, as amended by Pub. L. 102–190, div. A, title X, § 1085, Dec. 5, 1991, 105 Stat. 1483; Pub. L. 102–484, div. A, title XIII, § 1353, Oct. 23, 1992, 106 Stat. 2559, which related to eligibility of a firm of any member nation of North Atlantic Treaty Organization (NATO) or of any major non-NATO ally to bid on any contract for maintenance, repair, or overhaul of equipment of the Department of Defense to be awarded under competitive procedures as part of the Overseas Workload Program, was repealed and restated in section 2349 of this title by Pub. L. 103–160, div. A, title XIV, § 1431(a)(1), (b)(1), Nov. 30, 1993, 107 Stat. 1832, 1833. Similar provisions were contained in the following authorization or appropriation acts:
 
-Pub. L. 102–396, title IX, § 9130, Oct. 6, 1992, 106 Stat. 1935, as amended by Pub. L. 103–160, div. A, title XIV, § 1431(b)(2), Nov. 30, 1993, 107 Stat. 1833.
+Pub. L. 102–396, title IX, § 9130, Oct. 6, 1992, 106 Stat. 1935, as amended by Pub. L. 103–160, div. A, title XIV, § 1431(b)(2), Nov. 30, 1993, 107 Stat. 1833.
 
-Pub. L. 102–172, title VIII, § 8122, Nov. 26, 1991, 105 Stat. 1205.
+Pub. L. 102–172, title VIII, § 8122, Nov. 26, 1991, 105 Stat. 1205.
 
-Pub. L. 101–511, title VIII, § 8003, Nov. 5, 1990, 104 Stat. 1873.
+Pub. L. 101–511, title VIII, § 8003, Nov. 5, 1990, 104 Stat. 1873.
 
-Pub. L. 100–180, div. A, title X, § 1021, Dec. 4, 1987, 101 Stat. 1143.
+Pub. L. 100–180, div. A, title X, § 1021, Dec. 4, 1987, 101 Stat. 1143.
 
-### § 2342. Cross-servicing agreements
+### § 2342. Cross-servicing agreements
 
 **(a)**
 
@@ -383,7 +383,7 @@ Pub. L. 100–180, div. A, title X, § 1021, Dec. 4, 1987, 101 Stat. 1143.
 
 **(2)** the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
 
-(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1016, § 2322; renumbered § 2342 and amended Pub. L. 99–145, title XIII, § 1304(a)(1), (4), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, § 1104(a), Nov. 14, 1986, 100 Stat. 3963; Pub. L. 100–180, div. A, title XII, § 1231(9), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 101–189, div. A, title IX, § 931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 101–510, div. A, title XIV, § 1451(a), Nov. 5, 1990, 104 Stat. 1692; Pub. L. 103–337, div. A, title XIII, § 1317(b), Oct. 5, 1994, 108 Stat. 2900; Pub. L. 104–106, div. A, title XV, § 1502(a)(16), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 109–163, div. A, title XII, § 1204, Jan. 6, 2006, 119 Stat. 3456; Pub. L. 115–232, div. A, title XII, § 1271, Aug. 13, 2018, 132 Stat. 2065; Pub. L. 116–92, div. A, title XII, § 1203, Dec. 20, 2019, 133 Stat. 1620.)
+(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1016, § 2322; renumbered § 2342 and amended Pub. L. 99–145, title XIII, § 1304(a)(1), (4), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, § 1104(a), Nov. 14, 1986, 100 Stat. 3963; Pub. L. 100–180, div. A, title XII, § 1231(9), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 101–189, div. A, title IX, § 931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 101–510, div. A, title XIV, § 1451(a), Nov. 5, 1990, 104 Stat. 1692; Pub. L. 103–337, div. A, title XIII, § 1317(b), Oct. 5, 1994, 108 Stat. 2900; Pub. L. 104–106, div. A, title XV, § 1502(a)(16), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 109–163, div. A, title XII, § 1204, Jan. 6, 2006, 119 Stat. 3456; Pub. L. 115–232, div. A, title XII, § 1271, Aug. 13, 2018, 132 Stat. 2065; Pub. L. 116–92, div. A, title XII, § 1203, Dec. 20, 2019, 133 Stat. 1620.)
 
 **Editorial Notes**
 
@@ -393,41 +393,41 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Amendments**
 
-2019—Subsec. (b). Pub. L. 116–92, § 1203(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary of Defense may not designate a country for an agreement under this section unless—
+2019—Subsec. (b). Pub. L. 116–92, § 1203(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary of Defense may not designate a country for an agreement under this section unless—
 
 “(1) the Secretary, after consultation with the Secretary of State, determines that the designation of such country for such purpose is in the interest of the national security of the United States; and
 
 “(2) in the case of a country which is not a member of the North Atlantic Treaty Organization, the Secretary submits to the appropriate committees of Congress notice of the intended designation at least 30 days before the date on which such country is designated by the Secretary under subsection (a).”
 
-Subsec. (f). Pub. L. 116–92, § 1203(b)(2), added subsec. (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 116–92, § 1203(b)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 116–92, § 1203(b)(1), (c), redesignated subsec. (f) as (g) and amended it generally. Prior to amendment, subsec. read as follows: “The Secretary shall prescribe regulations to ensure that contracts entered into under this subchapter are free from self-dealing, bribery, and conflict of interests.”
+Subsec. (g). Pub. L. 116–92, § 1203(b)(1), (c), redesignated subsec. (f) as (g) and amended it generally. Prior to amendment, subsec. read as follows: “The Secretary shall prescribe regulations to ensure that contracts entered into under this subchapter are free from self-dealing, bribery, and conflict of interests.”
 
-Subsec. (h). Pub. L. 116–92, § 1203(b)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 116–92, § 1203(b)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (h)(1). Pub. L. 116–92, § 1203(d)(1), substituted “that have entered into force or were applied provisionally” for “in effect”.
+Subsec. (h)(1). Pub. L. 116–92, § 1203(d)(1), substituted “that have entered into force or were applied provisionally” for “in effect”.
 
-Subsec. (h)(2). Pub. L. 116–92, § 1203(d)(2), substituted “dates on which the Secretary notified Congress—” and subpars. (A) and (B) for “date on which the Secretary notified Congress pursuant to subsection (b)(2) of the designation of such country under subsection (a).”
+Subsec. (h)(2). Pub. L. 116–92, § 1203(d)(2), substituted “dates on which the Secretary notified Congress—” and subpars. (A) and (B) for “date on which the Secretary notified Congress pursuant to subsection (b)(2) of the designation of such country under subsection (a).”
 
-Subsec. (h)(3). Pub. L. 116–92, § 1203(d)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The total dollar amount and major categories of logistic support, supplies, and services provided during the preceding fiscal year under each such agreement.”
+Subsec. (h)(3). Pub. L. 116–92, § 1203(d)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The total dollar amount and major categories of logistic support, supplies, and services provided during the preceding fiscal year under each such agreement.”
 
-Subsec. (h)(4). Pub. L. 116–92, § 1203(d)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The total dollar amount and major categories of reciprocal provisions of logistic support, supplies, and services received under each such agreement.”
+Subsec. (h)(4). Pub. L. 116–92, § 1203(d)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The total dollar amount and major categories of reciprocal provisions of logistic support, supplies, and services received under each such agreement.”
 
-Subsec. (h)(5), (6). Pub. L. 116–92, § 1203(d)(5), (6), added pars. (5) and (6) and struck out former par. (5) which read as follows: “With respect to the calendar year during which the report is submitted, an assessment of the following:
+Subsec. (h)(5), (6). Pub. L. 116–92, § 1203(d)(5), (6), added pars. (5) and (6) and struck out former par. (5) which read as follows: “With respect to the calendar year during which the report is submitted, an assessment of the following:
 
 “(A) The anticipated logistic support, supplies, and services requirements of the United States.
 
 “(B) The anticipated requirements of other countries for United States logistic support, supplies, and services.”
 
-Subsec. (i). Pub. L. 116–92, § 1203(b)(1), redesignated subsec. (h) as (i).
+Subsec. (i). Pub. L. 116–92, § 1203(b)(1), redesignated subsec. (h) as (i).
 
-2018—Subsec. (b)(2). Pub. L. 115–232, § 1271(c)(1), substituted “the appropriate committees of Congress” for “the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives”.
+2018—Subsec. (b)(2). Pub. L. 115–232, § 1271(c)(1), substituted “the appropriate committees of Congress” for “the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives”.
 
-Subsecs. (d) to (f). Pub. L. 115–232, § 1271(a), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
+Subsecs. (d) to (f). Pub. L. 115–232, § 1271(a), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
-Subsec. (g). Pub. L. 115–232, § 1271(b), added subsec. (g).
+Subsec. (g). Pub. L. 115–232, § 1271(b), added subsec. (g).
 
-Subsec. (h). Pub. L. 115–232, § 1271(c)(2), added subsec. (h).
+Subsec. (h). Pub. L. 115–232, § 1271(c)(2), added subsec. (h).
 
 2006—Subsec. (a)(1)(C). Pub. L. 109–163 struck out “of which the United States is a member” before period at end.
 
@@ -435,11 +435,11 @@ Subsec. (h). Pub. L. 115–232, § 1271(c)(2), added subsec. (h).
 
 1996—Subsec. (b). Pub. L. 104–106 inserted “unless” after “section” in introductory provisions, struck out “unless” after “(1)” in par. (1), and substituted “the Secretary submits to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives notice of the intended designation” for “notifies the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs of the House of Representatives” in par. (2).
 
-1994—Subsec. (a)(1). Pub. L. 103–337, § 1317(b)(1), substituted “with any of the following:” for “with—” in introductory provisions, substituted “The government” for “the government” and a period for the semicolon in subpar. (A), substituted “A subsidiary” for “a subsidiary” and “Organization.” for “Organization; or” in subpar. (B), added subpar. (C), redesignated former subpar. (C) as (D) and substituted “The government” for “the government”.
+1994—Subsec. (a)(1). Pub. L. 103–337, § 1317(b)(1), substituted “with any of the following:” for “with—” in introductory provisions, substituted “The government” for “the government” and a period for the semicolon in subpar. (A), substituted “A subsidiary” for “a subsidiary” and “Organization.” for “Organization; or” in subpar. (B), added subpar. (C), redesignated former subpar. (C) as (D) and substituted “The government” for “the government”.
 
-Subsec. (a)(2). Pub. L. 103–337, § 1317(b)(2), substituted “organization” for “subsidiary body” in two places.
+Subsec. (a)(2). Pub. L. 103–337, § 1317(b)(2), substituted “organization” for “subsidiary body” in two places.
 
-Subsec. (c). Pub. L. 103–337, § 1317(b)(3), substituted “or international organization” for “as a routine or normal source”.
+Subsec. (c). Pub. L. 103–337, § 1317(b)(3), substituted “or international organization” for “as a routine or normal source”.
 
 1990—Subsec. (a). Pub. L. 101–510 amended subsec. (a) generally, revising and restating former pars. (1) to (3) relating to reciprocal logistical support agreements as pars. (1) and (2).
 
@@ -463,7 +463,7 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 
 **Cross Servicing Agreements for Loan of Personnel Protection and Personnel Survivability Equipment in Coalition Operations**
 
-Pub. L. 113–291, div. A, title XII, § 1207, Dec. 19, 2014, 128 Stat. 3539, as amended by Pub. L. 115–91, div. A, title X, § 1051(t)(4), Dec. 12, 2017, 131 Stat. 1566; Pub. L. 116–92, div. A, title XII, § 1202, Dec. 20, 2019, 133 Stat. 1620; Pub. L. 118–31, div. A, title XII, § 1206, Dec. 22, 2023, 137 Stat. 448, provided that:
+Pub. L. 113–291, div. A, title XII, § 1207, Dec. 19, 2014, 128 Stat. 3539, as amended by Pub. L. 115–91, div. A, title X, § 1051(t)(4), Dec. 12, 2017, 131 Stat. 1566; Pub. L. 116–92, div. A, title XII, § 1202, Dec. 20, 2019, 133 Stat. 1620; Pub. L. 118–31, div. A, title XII, § 1206, Dec. 22, 2023, 137 Stat. 448, provided that:
 
 > **“(a) In General.—** The Secretary of Defense may, with the concurrence of the Secretary of State, enter into an arrangement, under an agreement concluded pursuant to section 2342 of title 10, United States Code, under which the United States agrees to loan personnel protection and personnel survivability equipment for the use of such equipment by military forces of a nation participating in the following:
 
@@ -515,31 +515,31 @@ Pub. L. 113–291, div. A, title XII, § 1207, Dec. 19, 2014, 128 Stat. 3539, 
 
 > **“(f) Expiration of Authority.—** The authority in subsection (a) shall expire on December 31, 2029.”
 
-### § 2343. Waiver of applicability of certain laws
+### § 2343. Waiver of applicability of certain laws
 
 Sections 4651, 3201, 3351, 3352(a), 3352(c), 3701 through 3708, and 3841 of this title and section 6306 of title 41 shall not apply to acquisitions made under the authority of section 2341 of this title or to agreements entered into under section 2342 of this title.
 
-(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1017, § 2323; renumbered § 2343 and amended Pub. L. 99–145, title IX, § 961(b), title XIII, § 1304(a)(1), (5), Nov. 8, 1985, 99 Stat. 703, 741; Pub. L. 100–26, § 7(g)(2), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–456, div. A, title XII, § 1233(d), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title IX, § 931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 102–190, div. A, title X, § 1061(a)(12), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 103–337, div. A, title XIII, § 1317(c)(1), (2)(A), Oct. 5, 1994, 108 Stat. 2900; Pub. L. 111–350, § 5(b)(20), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 116–283, div. A, title XVIII, §§ 1817(h), 1831(j)(3), 1862(c)(1), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4188, 4216, 4278, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(b)(10)(I)(i), Dec. 27, 2021, 135 Stat. 2134.)
+(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1017, § 2323; renumbered § 2343 and amended Pub. L. 99–145, title IX, § 961(b), title XIII, § 1304(a)(1), (5), Nov. 8, 1985, 99 Stat. 703, 741; Pub. L. 100–26, § 7(g)(2), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–456, div. A, title XII, § 1233(d), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title IX, § 931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 102–190, div. A, title X, § 1061(a)(12), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 103–337, div. A, title XIII, § 1317(c)(1), (2)(A), Oct. 5, 1994, 108 Stat. 2900; Pub. L. 111–350, § 5(b)(20), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 116–283, div. A, title XVIII, §§ 1817(h), 1831(j)(3), 1862(c)(1), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4188, 4216, 4278, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(b)(10)(I)(i), Dec. 27, 2021, 135 Stat. 2134.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1883(b)(2), substituted “3201” for “2304(a)”.
+2021—Pub. L. 116–283, § 1883(b)(2), substituted “3201” for “2304(a)”.
 
-Pub. L. 116–283, § 1862(c)(1), substituted “Sections 4651,” for “Sections 2207,”.
+Pub. L. 116–283, § 1862(c)(1), substituted “Sections 4651,” for “Sections 2207,”.
 
-Pub. L. 116–283, § 1831(j)(3), as amended by Pub. L. 117–81, § 1701(b)(10)(I)(i), substituted “3701 through 3708, and 3841” for “2306a, and 2313”.
+Pub. L. 116–283, § 1831(j)(3), as amended by Pub. L. 117–81, § 1701(b)(10)(I)(i), substituted “3701 through 3708, and 3841” for “2306a, and 2313”.
 
-Pub. L. 116–283, § 1817(h), substituted “3351, 3352(a), 3352(c)” for “2306(a), 2306(b), 2306(e)”.
+Pub. L. 116–283, § 1817(h), substituted “3351, 3352(a), 3352(c)” for “2306(a), 2306(b), 2306(e)”.
 
 2011—Pub. L. 111–350 substituted “section 6306 of title 41” for “section 3741 of the Revised Statutes (41 U.S.C. 22)”.
 
-1994—Pub. L. 103–337, § 1317(c)(2)(A), substituted “Waiver of applicability of certain laws” for “Law applicable to acquisition and cross-servicing agreements” as section catchline.
+1994—Pub. L. 103–337, § 1317(c)(2)(A), substituted “Waiver of applicability of certain laws” for “Law applicable to acquisition and cross-servicing agreements” as section catchline.
 
-Pub. L. 103–337, § 1317(c)(1), designated subsec. (b) as entire section and struck out former subsec. (a) which read as follows: “Except as provided in subsection (b), acquisition of logistic support, supplies, and services under section 2341 of this title and agreements entered into under section 2342 of this title shall be made in accordance with chapter 137 of this title and the provisions of this subchapter.”
+Pub. L. 103–337, § 1317(c)(1), designated subsec. (b) as entire section and struck out former subsec. (a) which read as follows: “Except as provided in subsection (b), acquisition of logistic support, supplies, and services under section 2341 of this title and agreements entered into under section 2342 of this title shall be made in accordance with chapter 137 of this title and the provisions of this subchapter.”
 
-1991—Subsec. (b). Pub. L. 102–190 substituted “this title and” for “this title,” and struck out “, and section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168)” before “shall not apply”.
+1991—Subsec. (b). Pub. L. 102–190 substituted “this title and” for “this title,” and struck out “, and section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168)” before “shall not apply”.
 
 1989—Subsec. (a). Pub. L. 101–189 substituted “this subchapter” for “this chapter”.
 
@@ -547,13 +547,13 @@ Pub. L. 103–337, § 1317(c)(1), designated subsec. (b) as entire section and
 
 1987—Subsec. (b). Pub. L. 100–26 substituted “section 2306a,” for “2306(f),”.
 
-1985—Pub. L. 99–145, § 1304(a)(1), renumbered section 2323 of this title as this section.
+1985—Pub. L. 99–145, § 1304(a)(1), renumbered section 2323 of this title as this section.
 
-Subsec. (a). Pub. L. 99–145, § 1304(a)(5), substituted “section 2341” for “section 2321” and “section 2342” for “section 2322”.
+Subsec. (a). Pub. L. 99–145, § 1304(a)(5), substituted “section 2341” for “section 2321” and “section 2342” for “section 2322”.
 
-Subsec. (b). Pub. L. 99–145, § 1304(a)(5), substituted “section 2341” for “section 2321” and “section 2342” for “section 2322”.
+Subsec. (b). Pub. L. 99–145, § 1304(a)(5), substituted “section 2341” for “section 2321” and “section 2342” for “section 2322”.
 
-Pub. L. 99–145, § 961(b), substituted “section 2304(a)” for “section 2304(g)”.
+Pub. L. 99–145, § 961(b), substituted “section 2304(a)” for “section 2304(g)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -569,9 +569,9 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–145, title IX, § 961(e), Nov. 8, 1985, 99 Stat. 704, provided that: “The amendments made by subsections (a) [amending section 2304 of this title and section 253 of Title 41, Public Contracts], (b) [amending this section], and (c) [amending section 759 of former Title 40, Public Buildings, Property, and Works] shall take effect as if included in the enactment of the Competition in Contracting Act of 1984 (title VII of division B of Public Law 98–369) [see Effective Date of 1984 Amendment note set out under section 4751 of this title].”
+Pub. L. 99–145, title IX, § 961(e), Nov. 8, 1985, 99 Stat. 704, provided that: “The amendments made by subsections (a) [amending section 2304 of this title and section 253 of Title 41, Public Contracts], (b) [amending this section], and (c) [amending section 759 of former Title 40, Public Buildings, Property, and Works] shall take effect as if included in the enactment of the Competition in Contracting Act of 1984 (title VII of division B of Public Law 98–369) [see Effective Date of 1984 Amendment note set out under section 4751 of this title].”
 
-### § 2344. Methods of payment for acquisitions and transfers by the United States
+### § 2344. Methods of payment for acquisitions and transfers by the United States
 
 **(a)** Logistics support, supplies, and services may be acquired or transferred by the United States under the authority of this subchapter on a reimbursement basis or by replacement-in-kind or exchange of supplies or services of an equal value.
 
@@ -601,15 +601,15 @@ Pub. L. 99–145, title IX, § 961(e), Nov. 8, 1985, 99 Stat. 704, provided th
 
 **(3)** Transfers of chemical munitions.
 
-(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1017, § 2324; amended Pub. L. 97–22, § 11(a)(8), July 10, 1981, 95 Stat. 138; renumbered § 2344, Pub. L. 99–145, title XIII, § 1304(a)(1), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, § 1104(b), Nov. 14, 1986, 100 Stat. 3964; Pub. L. 101–189, div. A, title IX, §§ 931(e)(1), 938(a), (b), Nov. 29, 1989, 103 Stat. 1535, 1539; Pub. L. 102–25, title VII, § 701(f)(2), Apr. 6, 1991, 105 Stat. 115; Pub. L. 103–337, div. A, title XIII, § 1317(d), Oct. 5, 1994, 108 Stat. 2900; Pub. L. 109–163, div. A, title XII, § 1204, Jan. 6, 2006, 119 Stat. 3456.)
+(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1017, § 2324; amended Pub. L. 97–22, § 11(a)(8), July 10, 1981, 95 Stat. 138; renumbered § 2344, Pub. L. 99–145, title XIII, § 1304(a)(1), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, § 1104(b), Nov. 14, 1986, 100 Stat. 3964; Pub. L. 101–189, div. A, title IX, §§ 931(e)(1), 938(a), (b), Nov. 29, 1989, 103 Stat. 1535, 1539; Pub. L. 102–25, title VII, § 701(f)(2), Apr. 6, 1991, 105 Stat. 115; Pub. L. 103–337, div. A, title XIII, § 1317(d), Oct. 5, 1994, 108 Stat. 2900; Pub. L. 109–163, div. A, title XII, § 1204, Jan. 6, 2006, 119 Stat. 3456.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Arms Export Control Act, referred to in subsec. (b)(2)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in subsec. (b)(2)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsec. (c)(2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (c)(2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 **Amendments**
 
@@ -619,11 +619,11 @@ The Atomic Energy Act of 1954, referred to in subsec. (c)(2), is act Aug. 1, 194
 
 1991—Subsec. (c). Pub. L. 102–25 substituted “subchapter” for “chapter” in introductory provisions.
 
-1989—Subsec. (a). Pub. L. 101–189, §§ 931(e)(1), 938(a), substituted “equal value” for “identical or substantially identical nature” and “this subchapter” for “this chapter”.
+1989—Subsec. (a). Pub. L. 101–189, §§ 931(e)(1), 938(a), substituted “equal value” for “identical or substantially identical nature” and “this subchapter” for “this chapter”.
 
-Subsec. (b)(2)(B), (4). Pub. L. 101–189, § 931(e)(1), substituted “this subchapter” for “this chapter”.
+Subsec. (b)(2)(B), (4). Pub. L. 101–189, § 931(e)(1), substituted “this subchapter” for “this chapter”.
 
-Subsec. (c). Pub. L. 101–189, § 938(b), added subsec. (c).
+Subsec. (c). Pub. L. 101–189, § 938(b), added subsec. (c).
 
 1986—Subsec. (b)(1), (3). Pub. L. 99–661 inserted “or other foreign country” after “country”.
 
@@ -637,7 +637,7 @@ Subsec. (c). Pub. L. 101–189, § 938(b), added subsec. (c).
 
 Amendment by Pub. L. 103–337 applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) of Pub. L. 103–337, set out as a note under section 2341 of this title.
 
-### § 2345. Liquidation of accrued credits and liabilities
+### § 2345. Liquidation of accrued credits and liabilities
 
 **(a)** Credits and liabilities of the United States accrued as a result of acquisitions and transfers of logistic support, supplies, and services under the authority of this subchapter shall be liquidated not less often than once every 12 months by direct payment to the entity supplying such support, supplies, or services by the entity receiving such support, supplies, or services.
 
@@ -649,7 +649,7 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 
 **(2)** The amount of any credits offset pursuant to paragraph (1) shall be credited as specified in section 2346 of this title as if it were a receipt of the United States.
 
-(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1018, § 2325; renumbered § 2345, Pub. L. 99–145, title XIII, § 1304(a)(1), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 99–661, div. A, title XI, § 1104(c), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 101–189, div. A, title IX, § 931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 103–337, div. A, title XIII, § 1317(e), Oct. 5, 1994, 108 Stat. 2900; Pub. L. 114–328, div. A, title X, § 1083(a), Dec. 23, 2016, 130 Stat. 2420.)
+(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1018, § 2325; renumbered § 2345, Pub. L. 99–145, title XIII, § 1304(a)(1), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 99–661, div. A, title XI, § 1104(c), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 101–189, div. A, title IX, § 931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 103–337, div. A, title XIII, § 1317(e), Oct. 5, 1994, 108 Stat. 2900; Pub. L. 114–328, div. A, title X, § 1083(a), Dec. 23, 2016, 130 Stat. 2420.)
 
 **Editorial Notes**
 
@@ -669,7 +669,7 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title X, § 1083(b), Dec. 23, 2016, 130 Stat. 2420, provided that:
+Pub. L. 114–328, div. A, title X, § 1083(b), Dec. 23, 2016, 130 Stat. 2420, provided that:
 
 > “Subsection (c) of section 2345 of title 10, United States Code, as added by subsection (a), shall apply with respect to credits accrued by the United States that—
 
@@ -681,11 +681,11 @@ Pub. L. 114–328, div. A, title X, § 1083(b), Dec. 23, 2016, 130 Stat. 2420,
 
 Amendment by Pub. L. 103–337 applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) of Pub. L. 103–337, set out as a note under section 2341 of this title.
 
-### § 2346. Crediting of receipts
+### § 2346. Crediting of receipts
 
 Any receipt of the United States as a result of an agreement entered into under this subchapter shall be credited, at the option of the Secretary of Defense, to (1) the appropriation, fund, or account used in incurring the obligation, or (2) an appropriate appropriation, fund, or account currently available for the purposes for which the expenditures were made.
 
-(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1018, § 2326; renumbered § 2346, Pub. L. 99–145, title XIII, § 1304(a)(1), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 101–189, div. A, title IX, § 931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 103–337, div. A, title XIII, § 1317(f), Oct. 5, 1994, 108 Stat. 2900.)
+(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1018, § 2326; renumbered § 2346, Pub. L. 99–145, title XIII, § 1304(a)(1), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 101–189, div. A, title IX, § 931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 103–337, div. A, title XIII, § 1317(f), Oct. 5, 1994, 108 Stat. 2900.)
 
 **Editorial Notes**
 
@@ -703,7 +703,7 @@ Any receipt of the United States as a result of an agreement entered into under 
 
 Amendment by Pub. L. 103–337 applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) of Pub. L. 103–337, set out as a note under section 2341 of this title.
 
-### § 2347. Limitation on amounts that may be obligated or accrued by the United States
+### § 2347. Limitation on amounts that may be obligated or accrued by the United States
 
 **(a)**
 
@@ -721,45 +721,45 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 
 **(d)** The amount of any sale, purchase, or exchange of petroleum, oils, or lubricants by the United States under this subchapter in any fiscal year shall be excluded in any computation for the purposes of subsection (a) or (b) of the amount of reimbursable liabilities or reimbursable credits that the United States accrues under this subchapter in that fiscal year.
 
-(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1018, § 2327; renumbered § 2347, Pub. L. 99–145, title XIII, § 1304(a)(1), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 99–661, div. A, title XI, § 1104(d), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 100–456, div. A, title X, § 1001, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–189, div. A, title IX, § 931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 102–484, div. A, title XIII, § 1312(b), Oct. 23, 1992, 106 Stat. 2547; Pub. L. 103–35, title II, § 202(a)(10), May 31, 1993, 107 Stat. 101; Pub. L. 103–337, div. A, title XIII, § 1317(g), Oct. 5, 1994, 108 Stat. 2901; Pub. L. 109–364, div. A, title XII, § 1221(a), Oct. 17, 2006, 120 Stat. 2423.)
+(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1018, § 2327; renumbered § 2347, Pub. L. 99–145, title XIII, § 1304(a)(1), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 99–661, div. A, title XI, § 1104(d), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 100–456, div. A, title X, § 1001, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–189, div. A, title IX, § 931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 102–484, div. A, title XIII, § 1312(b), Oct. 23, 1992, 106 Stat. 2547; Pub. L. 103–35, title II, § 202(a)(10), May 31, 1993, 107 Stat. 101; Pub. L. 103–337, div. A, title XIII, § 1317(g), Oct. 5, 1994, 108 Stat. 2901; Pub. L. 109–364, div. A, title XII, § 1221(a), Oct. 17, 2006, 120 Stat. 2423.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (a)(1), (2). Pub. L. 109–364, § 1221(a)(1), struck out “(other than petroleum, oils, and lubricants)” after “supplies”.
+2006—Subsec. (a)(1), (2). Pub. L. 109–364, § 1221(a)(1), struck out “(other than petroleum, oils, and lubricants)” after “supplies”.
 
-Subsec. (d). Pub. L. 109–364, § 1221(a)(2), added subsec. (d).
+Subsec. (d). Pub. L. 109–364, § 1221(a)(2), added subsec. (d).
 
-1994—Subsec. (a)(1). Pub. L. 103–337, § 1317(g)(1), substituted “Organization, subsidiary” for “Organization and subsidiary”, inserted “, or from the United Nations Organization or any regional international organization of which the United States is a member” after “Treaty Organization”, and substituted “$200,000,000” for “$150,000,000” and “$50,000,000” for “$25,000,000”.
+1994—Subsec. (a)(1). Pub. L. 103–337, § 1317(g)(1), substituted “Organization, subsidiary” for “Organization and subsidiary”, inserted “, or from the United Nations Organization or any regional international organization of which the United States is a member” after “Treaty Organization”, and substituted “$200,000,000” for “$150,000,000” and “$50,000,000” for “$25,000,000”.
 
-Subsec. (a)(2). Pub. L. 103–337, § 1317(g)(2), substituted “$60,000,000” for “$10,000,000” in two places and “$20,000,000” for “$2,500,000”.
+Subsec. (a)(2). Pub. L. 103–337, § 1317(g)(2), substituted “$60,000,000” for “$10,000,000” in two places and “$20,000,000” for “$2,500,000”.
 
-Subsec. (b)(1). Pub. L. 103–337, § 1317(g)(3), substituted “Organization, subsidiary” for “Organization and subsidiary”, inserted “, or from the United Nations Organization or any regional international organization of which the United States is a member” after “Treaty Organization”, and substituted “$150,000,000” for “$100,000,000”.
+Subsec. (b)(1). Pub. L. 103–337, § 1317(g)(3), substituted “Organization, subsidiary” for “Organization and subsidiary”, inserted “, or from the United Nations Organization or any regional international organization of which the United States is a member” after “Treaty Organization”, and substituted “$150,000,000” for “$100,000,000”.
 
-Subsec. (b)(2). Pub. L. 103–337, § 1317(g)(4), substituted “$75,000,000” for “$10,000,000”.
+Subsec. (b)(2). Pub. L. 103–337, § 1317(g)(4), substituted “$75,000,000” for “$10,000,000”.
 
-Subsec. (c). Pub. L. 103–337, § 1317(g)(5), added subsec. (c).
+Subsec. (c). Pub. L. 103–337, § 1317(g)(5), added subsec. (c).
 
-1993—Subsec. (b)(2). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, § 1312(b)(4)(B). See 1992 Amendment note below.
+1993—Subsec. (b)(2). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, § 1312(b)(4)(B). See 1992 Amendment note below.
 
-1992—Subsec. (a)(1). Pub. L. 102–484, § 1312(b)(1), substituted “armed forces” for “North Atlantic Treaty Organization” and inserted “with other member countries of the North Atlantic Treaty Organization and subsidiary bodies of the North Atlantic Treaty Organization” after “(before the computation of offsetting balances)”.
+1992—Subsec. (a)(1). Pub. L. 102–484, § 1312(b)(1), substituted “armed forces” for “North Atlantic Treaty Organization” and inserted “with other member countries of the North Atlantic Treaty Organization and subsidiary bodies of the North Atlantic Treaty Organization” after “(before the computation of offsetting balances)”.
 
-Subsec. (a)(2). Pub. L. 102–484, § 1312(b)(2), substituted “involving the armed forces, the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with” for “in the military region affecting” and struck out “the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with such country” after “cross-servicing agreements,”.
+Subsec. (a)(2). Pub. L. 102–484, § 1312(b)(2), substituted “involving the armed forces, the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with” for “in the military region affecting” and struck out “the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with such country” after “cross-servicing agreements,”.
 
-Subsec. (b)(1). Pub. L. 102–484, § 1312(b)(3), substituted “armed forces” for “North Atlantic Treaty Organization” and inserted “with other member countries of the North Atlantic Treaty Organization and subsidiary bodies of the North Atlantic Treaty Organization” after “(before the computation of offsetting balances)”.
+Subsec. (b)(1). Pub. L. 102–484, § 1312(b)(3), substituted “armed forces” for “North Atlantic Treaty Organization” and inserted “with other member countries of the North Atlantic Treaty Organization and subsidiary bodies of the North Atlantic Treaty Organization” after “(before the computation of offsetting balances)”.
 
-Subsec. (b)(2). Pub. L. 102–484, § 1312(b)(4)(A), substituted “involving the armed forces” for “in the military region affecting a country referred to in paragraph (1)”.
+Subsec. (b)(2). Pub. L. 102–484, § 1312(b)(4)(A), substituted “involving the armed forces” for “in the military region affecting a country referred to in paragraph (1)”.
 
-Pub. L. 102–484, § 1312(b)(4)(B), as amended by Pub. L. 103–35, substituted “(before the computation of offsetting balances) with a country which is not a member of the North Atlantic Treaty Organization, but with which the United States has one or more acquisition or cross-servicing agreements” for “from such country (before computation of offsetting balances)”.
+Pub. L. 102–484, § 1312(b)(4)(B), as amended by Pub. L. 103–35, substituted “(before the computation of offsetting balances) with a country which is not a member of the North Atlantic Treaty Organization, but with which the United States has one or more acquisition or cross-servicing agreements” for “from such country (before computation of offsetting balances)”.
 
 1989—Pub. L. 101–189 substituted “this subchapter” for “this chapter” wherever appearing.
 
 1988—Subsec. (a)(1). Pub. L. 100–456 substituted “$150,000,000” for “$100,000,000”.
 
-1986—Subsec. (a). Pub. L. 99–661, § 1104(d)(1), designated existing provisions as par. (1) and added par. (2).
+1986—Subsec. (a). Pub. L. 99–661, § 1104(d)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 99–661, § 1104(d)(2), designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 99–661, § 1104(d)(2), designated existing provisions as par. (1) and added par. (2).
 
 1985—Pub. L. 99–145 renumbered section 2327 of this title as this section.
 
@@ -767,7 +767,7 @@ Subsec. (b). Pub. L. 99–661, § 1104(d)(2), designated existing provisions a
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title XII, § 1221(b), Oct. 17, 2006, 120 Stat. 2423, provided that: “The amendments made by subsection (a) [amending this section] shall take effect beginning with fiscal year 2007.”
+Pub. L. 109–364, div. A, title XII, § 1221(b), Oct. 17, 2006, 120 Stat. 2423, provided that: “The amendments made by subsection (a) [amending this section] shall take effect beginning with fiscal year 2007.”
 
 **Effective Date of 1994 Amendment**
 
@@ -781,11 +781,11 @@ Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub.
 
 Amendment by Pub. L. 102–484 effective Oct. 23, 1992, and applicable to acquisitions of logistics support, supplies, and services under this chapter that are initiated on or after Oct. 23, 1992, see section 1312(c) of Pub. L. 102–484, set out as a note under section 2341 of this title.
 
-### § 2348. Inventories of supplies not to be increased
+### § 2348. Inventories of supplies not to be increased
 
 Inventories of supplies for elements of the armed forces may not be increased for the purpose of transferring supplies under the authority of this subchapter.
 
-(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1018, § 2328; amended Pub. L. 97–22, § 11(a)(8), July 10, 1981, 95 Stat. 138; renumbered § 2348, Pub. L. 99–145, title XIII, § 1304(a)(1), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, § 1104(e), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 101–189, div. A, title IX, § 931(e)(1), Nov. 29, 1989, 103 Stat. 1535.)
+(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1018, § 2328; amended Pub. L. 97–22, § 11(a)(8), July 10, 1981, 95 Stat. 138; renumbered § 2348, Pub. L. 99–145, title XIII, § 1304(a)(1), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, § 1104(e), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 101–189, div. A, title IX, § 931(e)(1), Nov. 29, 1989, 103 Stat. 1535.)
 
 **Editorial Notes**
 
@@ -799,7 +799,7 @@ Inventories of supplies for elements of the armed forces may not be increased fo
 
 1981—Pub. L. 97–22 substituted “this chapter” for “this Act”.
 
-### § 2349. Overseas Workload Program
+### § 2349. Overseas Workload Program
 
 **(a) In General.—** A firm of any member nation of the North Atlantic Treaty Organization or of any major non-NATO ally shall be eligible to bid on any contract for the maintenance, repair, or overhaul of equipment of the Department of Defense located outside the United States to be awarded under competitive procedures as part of the program of the Department of Defense known as the Overseas Workload Program.
 
@@ -813,33 +813,33 @@ Inventories of supplies for elements of the armed forces may not be increased fo
 
 **(d) Definition.—** In this section, the term “major non-NATO ally” has the meaning given that term in section 2350a(i)(2) of this title.
 
-(Added Pub. L. 103–160, div. A, title XIV, § 1431(a)(1), Nov. 30, 1993, 107 Stat. 1832; amended Pub. L. 108–375, div. A, title X, § 1084(d)(18), Oct. 28, 2004, 118 Stat. 2062.)
+(Added Pub. L. 103–160, div. A, title XIV, § 1431(a)(1), Nov. 30, 1993, 107 Stat. 1832; amended Pub. L. 108–375, div. A, title X, § 1084(d)(18), Oct. 28, 2004, 118 Stat. 2062.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2349, added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1018, § 2330; renumbered § 2349, Pub. L. 99–145, title XIII, § 1304(a)(3), Nov. 8, 1985, 99 Stat. 741; Pub. L. 101–189, div. A, title IX, § 931(e)(1), Nov. 29, 1989, 103 Stat. 1535, directed Secretary of Defense to submit a report to Congress annually relating to agreements under this chapter, prior to repeal by Pub. L. 101–510, § 1301(11).
+A prior section 2349, added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1018, § 2330; renumbered § 2349, Pub. L. 99–145, title XIII, § 1304(a)(3), Nov. 8, 1985, 99 Stat. 741; Pub. L. 101–189, div. A, title IX, § 931(e)(1), Nov. 29, 1989, 103 Stat. 1535, directed Secretary of Defense to submit a report to Congress annually relating to agreements under this chapter, prior to repeal by Pub. L. 101–510, § 1301(11).
 
-Provisions similar to those in this section were contained in Pub. L. 101–510, div. A, title XIV, § 1465, Nov. 5, 1990, 104 Stat. 1700, as amended, which was set out as a note under section 2341 of this title, prior to repeal by Pub. L. 103–160, § 1431(b)(1). Other prior similar provisions, formerly set out under section 2341 of this title, were contained in the following authorization or appropriation acts:
+Provisions similar to those in this section were contained in Pub. L. 101–510, div. A, title XIV, § 1465, Nov. 5, 1990, 104 Stat. 1700, as amended, which was set out as a note under section 2341 of this title, prior to repeal by Pub. L. 103–160, § 1431(b)(1). Other prior similar provisions, formerly set out under section 2341 of this title, were contained in the following authorization or appropriation acts:
 
-Pub. L. 102–396, title IX, § 9130, Oct. 6, 1992, 106 Stat. 1935, as amended by Pub. L. 103–160, div. A, title XIV, § 1431(b)(2), Nov. 30, 1993, 107 Stat. 1833.
+Pub. L. 102–396, title IX, § 9130, Oct. 6, 1992, 106 Stat. 1935, as amended by Pub. L. 103–160, div. A, title XIV, § 1431(b)(2), Nov. 30, 1993, 107 Stat. 1833.
 
-Pub. L. 102–172, title VIII, § 8122, Nov. 26, 1991, 105 Stat. 1205.
+Pub. L. 102–172, title VIII, § 8122, Nov. 26, 1991, 105 Stat. 1205.
 
-Pub. L. 101–511, title VIII, § 8003, Nov. 5, 1990, 104 Stat. 1873.
+Pub. L. 101–511, title VIII, § 8003, Nov. 5, 1990, 104 Stat. 1873.
 
-Pub. L. 100–180, div. A, title X, § 1021, Dec. 4, 1987, 101 Stat. 1143.
+Pub. L. 100–180, div. A, title X, § 1021, Dec. 4, 1987, 101 Stat. 1143.
 
 **Amendments**
 
 2004—Subsec. (d). Pub. L. 108–375 substituted “section 2350a(i)(2)” for “section 2350a(i)(3)”.
 
-### [§ 2349a. Repealed. Pub. L. 112–239, div. A, title X, § 1076(g)(3), Jan. 2, 2013, 126 Stat. 1955]
+### [§ 2349a. Repealed. Pub. L. 112–239, div. A, title X, § 1076(g)(3), Jan. 2, 2013, 126 Stat. 1955]
 
-Section, added Pub. L. 103–337, div. A, title XIII, § 1317(i)(1), Oct. 5, 1994, 108 Stat. 2902, required annual report from 1996 to 2000 regarding non-NATO cross-servicing and acquisition actions.
+Section, added Pub. L. 103–337, div. A, title XIII, § 1317(i)(1), Oct. 5, 1994, 108 Stat. 2902, required annual report from 1996 to 2000 regarding non-NATO cross-servicing and acquisition actions.
 
-### § 2350. Definitions
+### § 2350. Definitions
 
 In this subchapter:
 
@@ -855,7 +855,7 @@ In this subchapter:
 
 **(4)** The term “transfer” means selling (whether for payment in currency, replacement-in-kind, or exchange of supplies or services of equal value), leasing, loaning, or otherwise temporarily providing logistic support, supplies, and services under the terms of a cross-servicing agreement.
 
-(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1019, § 2331; renumbered § 2350, Pub. L. 99–145, title XIII, § 1304(a)(3), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 99–661, div. A, title XI, § 1104(f), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title IX, § 931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 103–337, div. A, title XIII, § 1317(h), Oct. 5, 1994, 108 Stat. 2901; Pub. L. 105–85, div. A, title XII, § 1222, Nov. 18, 1997, 111 Stat. 1937.)
+(Added Pub. L. 96–323, § 2(a), Aug. 4, 1980, 94 Stat. 1019, § 2331; renumbered § 2350, Pub. L. 99–145, title XIII, § 1304(a)(3), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 99–661, div. A, title XI, § 1104(f), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title IX, § 931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 103–337, div. A, title XIII, § 1317(h), Oct. 5, 1994, 108 Stat. 2901; Pub. L. 105–85, div. A, title XII, § 1222, Nov. 18, 1997, 111 Stat. 1937.)
 
 **Editorial Notes**
 
@@ -867,9 +867,9 @@ Section 38(a)(1) of the Arms Export Control Act, referred to in par. (1), is cla
 
 1997—Par. (1). Pub. L. 105–85, in second sentence, substituted “other nonlethal items of military equipment which are not designated as significant military equipment on the United States Munitions List promulgated” for “other items of military equipment not designated as part of the United States Munitions List”.
 
-1994—Par. (1). Pub. L. 103–337, § 1317(h)(1), inserted “(including airlift)” after “transportation”, “calibration services,” after “maintenance services,”, and “Such term includes temporary use of general purpose vehicles and other items of military equipment not designated as part of the United States Munitions List pursuant to section 38(a)(1) of the Arms Export Control Act.” at end.
+1994—Par. (1). Pub. L. 103–337, § 1317(h)(1), inserted “(including airlift)” after “transportation”, “calibration services,” after “maintenance services,”, and “Such term includes temporary use of general purpose vehicles and other items of military equipment not designated as part of the United States Munitions List pursuant to section 38(a)(1) of the Arms Export Control Act.” at end.
 
-Par. (4). Pub. L. 103–337, § 1317(h)(2), added par. (4).
+Par. (4). Pub. L. 103–337, § 1317(h)(2), added par. (4).
 
 1989—Pub. L. 101–189 substituted “this subchapter” for “this chapter” in introductory provisions.
 
@@ -891,37 +891,37 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title VII, § 715(a), Dec. 18, 2025, 139 Stat. 922, added item 2350t. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title VII, § 715(a), Dec. 18, 2025, 139 Stat. 922, added item 2350t. Amendment was made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title X, § 1051, title XIII, § 1301(a)(1), Dec. 23, 2024, 138 Stat. 2061, 2110, added item 2350s and substituted “Allied Special Operations Forces Command” for “Special Operations Headquarters” in item 2350r. Amendments were made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title X, § 1051, title XIII, § 1301(a)(1), Dec. 23, 2024, 138 Stat. 2061, 2110, added item 2350s and substituted “Allied Special Operations Forces Command” for “Special Operations Headquarters” in item 2350r. Amendments were made pursuant to operation of section 102 of this title.
 
-2022—Pub. L. 117–263, div. A, title XII, §§ 1244(b)(1), 1271(b), Dec. 23, 2022, 136 Stat. 2845, 2860, substituted “acquisition and logistics support” for “logistic support” in item 2350d and added item 2350r. Amendment to item 2350d was made pursuant to operation of section 102 of this title.
+2022—Pub. L. 117–263, div. A, title XII, §§ 1244(b)(1), 1271(b), Dec. 23, 2022, 136 Stat. 2845, 2860, substituted “acquisition and logistics support” for “logistic support” in item 2350d and added item 2350r. Amendment to item 2350d was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title X, § 1081(a)(29), title XVII, § 1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 1921, 2154, redesignated item 2350m “Execution of projects under the North Atlantic Treaty Organization Security Investment Program” as 2350q and repealed Pub. L. 116–283, div. A, title XVIII, § 1844(b)(2)(A), Jan. 1, 2021, 134 Stat. 4246, which had directed striking out item 2350*l*.
+2021—Pub. L. 117–81, div. A, title X, § 1081(a)(29), title XVII, § 1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 1921, 2154, redesignated item 2350m “Execution of projects under the North Atlantic Treaty Organization Security Investment Program” as 2350q and repealed Pub. L. 116–283, div. A, title XVIII, § 1844(b)(2)(A), Jan. 1, 2021, 134 Stat. 4246, which had directed striking out item 2350*l*.
 
-Pub. L. 116–283, div. A, title XII, §§ 1202(b), 1203(b), 1204(b), div. B, title XXV, § 2503(b), Jan. 1, 2021, 134 Stat. 3910–3912, 4310, added items 2350m “Participation in European program on multilateral exchange of surface transportation services”, 2350*o*, 2350p, and 2350m “Execution of projects under the North Atlantic Treaty Organization Security Investment Program”.
+Pub. L. 116–283, div. A, title XII, §§ 1202(b), 1203(b), 1204(b), div. B, title XXV, § 2503(b), Jan. 1, 2021, 134 Stat. 3910–3912, 4310, added items 2350m “Participation in European program on multilateral exchange of surface transportation services”, 2350*o*, 2350p, and 2350m “Execution of projects under the North Atlantic Treaty Organization Security Investment Program”.
 
-2019—Pub. L. 116–92, div. A, title XII, § 1249(b), Dec. 20, 2019, 133 Stat. 1664, added item 2350n.
+2019—Pub. L. 116–92, div. A, title XII, § 1249(b), Dec. 20, 2019, 133 Stat. 1664, added item 2350n.
 
-2016—Pub. L. 114–328, div. A, title XII, § 1241(*o*)(7), Dec. 23, 2016, 130 Stat. 2512, struck out item 2350m “Participation in multinational military centers of excellence”.
+2016—Pub. L. 114–328, div. A, title XII, § 1241(*o*)(7), Dec. 23, 2016, 130 Stat. 2512, struck out item 2350m “Participation in multinational military centers of excellence”.
 
-2008—Pub. L. 110–417, [div. A], title XII, § 1232(a)(2), Oct. 14, 2008, 122 Stat. 4639, added item 2350m.
+2008—Pub. L. 110–417, [div. A], title XII, § 1232(a)(2), Oct. 14, 2008, 122 Stat. 4639, added item 2350m.
 
-2001—Pub. L. 107–107, div. A, title XII, §§ 1212(e)(2), 1213(b), Dec. 28, 2001, 115 Stat. 1250, 1251, substituted “Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries” for “Cooperative research and development projects: allied countries” in item 2350a and added item 2350*l.*
+2001—Pub. L. 107–107, div. A, title XII, §§ 1212(e)(2), 1213(b), Dec. 28, 2001, 115 Stat. 1250, 1251, substituted “Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries” for “Cooperative research and development projects: allied countries” in item 2350a and added item 2350*l.*
 
-1996—Pub. L. 104–106, div. A, title XIII, § 1332(a)(2), Feb. 10, 1996, 110 Stat. 484, added item 2350k.
+1996—Pub. L. 104–106, div. A, title XIII, § 1332(a)(2), Feb. 10, 1996, 110 Stat. 484, added item 2350k.
 
-1993—Pub. L. 103–160, div. A, title XIV, § 1402(b), Nov. 30, 1993, 107 Stat. 1826, added item 2350j.
+1993—Pub. L. 103–160, div. A, title XIV, § 1402(b), Nov. 30, 1993, 107 Stat. 1826, added item 2350j.
 
-1991—Pub. L. 102–190, div. A, title X, § 1047(b), Dec. 5, 1991, 105 Stat. 1468, added item 2350i.
+1991—Pub. L. 102–190, div. A, title X, § 1047(b), Dec. 5, 1991, 105 Stat. 1468, added item 2350i.
 
-Pub. L. 102–25, title VII, § 704(a)(9), Apr. 6, 1991, 105 Stat. 119, made clarifying amendment to directory language of Pub. L. 101–510, div. A, title XIV, § 1451(b)(2), Nov. 5, 1990, 104 Stat. 1693. See 1990 Amendment note below.
+Pub. L. 102–25, title VII, § 704(a)(9), Apr. 6, 1991, 105 Stat. 119, made clarifying amendment to directory language of Pub. L. 101–510, div. A, title XIV, § 1451(b)(2), Nov. 5, 1990, 104 Stat. 1693. See 1990 Amendment note below.
 
-1990—Pub. L. 101–510, div. A, title XIV, § 1452(a)(2), Nov. 5, 1990, 104 Stat. 1694, added item 2350h.
+1990—Pub. L. 101–510, div. A, title XIV, § 1452(a)(2), Nov. 5, 1990, 104 Stat. 1694, added item 2350h.
 
-Pub. L. 101–510, div. A, title XIV, § 1451(b)(2), Nov. 5, 1990, 104 Stat. 1693, as amended by Pub. L. 102–25, title VII, § 704(a)(9), Apr. 6, 1991, 105 Stat. 119, added item 2350g.
+Pub. L. 101–510, div. A, title XIV, § 1451(b)(2), Nov. 5, 1990, 104 Stat. 1693, as amended by Pub. L. 102–25, title VII, § 704(a)(9), Apr. 6, 1991, 105 Stat. 119, added item 2350g.
 
-### § 2350a. Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries
+### § 2350a. Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries
 
 **(a) Authority To Engage in Cooperative R&D Projects.—**
 
@@ -977,7 +977,7 @@ Pub. L. 101–510, div. A, title XIV, § 1451(b)(2), Nov. 5, 1990, 104 Stat. 1
 
 **(D)** A recommendation to the milestone decision authority as to whether the Department of Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
-**[(f)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(17), Nov. 24, 2003, 117 Stat. 1597.]
+**[(f)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(17), Nov. 24, 2003, 117 Stat. 1597.]
 
 **(g) Side-by-Side Testing.—**
 
@@ -989,9 +989,9 @@ Pub. L. 101–510, div. A, title XIV, § 1451(b)(2), Nov. 5, 1990, 104 Stat. 1
 
 **(2)** The Secretary of Defense may acquire covered equipment, munitions, and technologies for the purpose of conducting the testing described in that paragraph.
 
-**(3)** The use of side-by-side testing under this subsection may be considered to be the use of competitive procedures for purposes of chapter 137 1
+**(3)** The use of side-by-side testing under this subsection may be considered to be the use of competitive procedures for purposes of chapter 137 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, when procuring items within 5 years after an initial determination that the items have been successfully tested and found to satisfy United States military requirements or to correct operational deficiencies.
 
@@ -1015,69 +1015,69 @@ of this title, when procuring items within 5 years after an initial determinatio
 
 **(3)** The term “NATO organization” means any North Atlantic Treaty Organization subsidiary body referred to in section 2350(2) of this title and any other organization of the North Atlantic Treaty Organization.
 
-(Added Pub. L. 101–189, div. A, title IX, § 931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, § 1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, § 1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, § 843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, § 904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, § 1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, § 1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, § 911(a)(1), title X, § 1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, § 1048(b)(2), title XII, § 1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§ 1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, § 1031(a)(17), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 110–181, div. A, title II, § 237, title XII, § 1251, Jan. 28, 2008, 122 Stat. 48, 401; Pub. L. 111–383, div. A, title IX, § 901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–81, div. A, title VIII, § 865, title X, § 1061(14), Dec. 31, 2011, 125 Stat. 1526, 1583; Pub. L. 114–92, div. A, title VIII, § 821(b)(1), Nov. 25, 2015, 129 Stat. 900; Pub. L. 114–328, div. A, title VIII, § 827, Dec. 23, 2016, 130 Stat. 2280; Pub. L. 116–92, div. A, title IX, § 902(54), Dec. 20, 2019, 133 Stat. 1549; Pub. L. 116–283, div. A, title II, § 211, title VIII, § 882, Jan. 1, 2021, 134 Stat. 3455, 3790; Pub. L. 117–263, div. A, title II, § 211(a), Dec. 23, 2022, 136 Stat. 2466.)
+(Added Pub. L. 101–189, div. A, title IX, § 931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, § 1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, § 1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, § 843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, § 904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, § 1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, § 1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, § 911(a)(1), title X, § 1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, § 1048(b)(2), title XII, § 1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§ 1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, § 1031(a)(17), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 110–181, div. A, title II, § 237, title XII, § 1251, Jan. 28, 2008, 122 Stat. 48, 401; Pub. L. 111–383, div. A, title IX, § 901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–81, div. A, title VIII, § 865, title X, § 1061(14), Dec. 31, 2011, 125 Stat. 1526, 1583; Pub. L. 114–92, div. A, title VIII, § 821(b)(1), Nov. 25, 2015, 129 Stat. 900; Pub. L. 114–328, div. A, title VIII, § 827, Dec. 23, 2016, 130 Stat. 2280; Pub. L. 116–92, div. A, title IX, § 902(54), Dec. 20, 2019, 133 Stat. 1549; Pub. L. 116–283, div. A, title II, § 211, title VIII, § 882, Jan. 1, 2021, 134 Stat. 3455, 3790; Pub. L. 117–263, div. A, title II, § 211(a), Dec. 23, 2022, 136 Stat. 2466.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 137 of this title, referred to in subsec. (g)(3), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
+Chapter 137 of this title, referred to in subsec. (g)(3), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
 
 **Prior Provisions**
 
-Provisions relating to NATO countries were contained in Pub. L. 99–145, title XI, § 1103, Nov. 8, 1985, 99 Stat. 712, which was set out as a note under section 2407 of this title, prior to repeal by Pub. L. 101–189, § 931(d)(1).
+Provisions relating to NATO countries were contained in Pub. L. 99–145, title XI, § 1103, Nov. 8, 1985, 99 Stat. 712, which was set out as a note under section 2407 of this title, prior to repeal by Pub. L. 101–189, § 931(d)(1).
 
-Provisions relating to major non-NATO allies were contained in section 2767a of Title 22, Foreign Relations and Intercourse, prior to repeal by Pub. L. 101–189, § 931(d)(2).
+Provisions relating to major non-NATO allies were contained in section 2767a of Title 22, Foreign Relations and Intercourse, prior to repeal by Pub. L. 101–189, § 931(d)(2).
 
 **Amendments**
 
 2022—Subsec. (a)(2)(F). Pub. L. 117–263 added subpar. (F).
 
-2021—Subsec. (b)(2). Pub. L. 116–283, § 211(1), substituted “or the Under Secretary” for “and the Under Secretary”.
+2021—Subsec. (b)(2). Pub. L. 116–283, § 211(1), substituted “or the Under Secretary” for “and the Under Secretary”.
 
-Subsec. (c). Pub. L. 116–283, § 211(2), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), each cooperative” for “Each cooperative”, and added pars. (2) and (3).
+Subsec. (c). Pub. L. 116–283, § 211(2), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), each cooperative” for “Each cooperative”, and added pars. (2) and (3).
 
-Subsec. (g)(1)(A). Pub. L. 116–283, § 882(1)(A), substituted “covered equipment, munitions, and technologies” for “conventional defense equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2)” and “such covered equipment, munitions, and technologies” for “such equipment, munitions, and technologies”.
+Subsec. (g)(1)(A). Pub. L. 116–283, § 882(1)(A), substituted “covered equipment, munitions, and technologies” for “conventional defense equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2)” and “such covered equipment, munitions, and technologies” for “such equipment, munitions, and technologies”.
 
-Subsec. (g)(1)(B). Pub. L. 116–283, § 882(1)(B), inserted “such covered” before “equipment, munitions, and technologies”.
+Subsec. (g)(1)(B). Pub. L. 116–283, § 882(1)(B), inserted “such covered” before “equipment, munitions, and technologies”.
 
-Subsec. (g)(2). Pub. L. 116–283, § 882(2), substituted “covered equipment, munitions, and technologies” for “equipment, munitions, and technologies of the type described in paragraph (1)”.
+Subsec. (g)(2). Pub. L. 116–283, § 882(2), substituted “covered equipment, munitions, and technologies” for “equipment, munitions, and technologies of the type described in paragraph (1)”.
 
-Subsec. (g)(4). Pub. L. 116–283, § 882(3), added par. (4).
+Subsec. (g)(4). Pub. L. 116–283, § 882(3), added par. (4).
 
 2019—Subsec. (b)(2). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment, and the Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Assistant Secretary of Defense for Research and Engineering”.
 
 2016—Subsec. (g)(3). Pub. L. 114–328 added par. (3).
 
-2015—Subsec. (e). Pub. L. 114–92, § 821(b)(1)(A), struck out “Document” after “Cooperative Opportunities” in heading.
+2015—Subsec. (e). Pub. L. 114–92, § 821(b)(1)(A), struck out “Document” after “Cooperative Opportunities” in heading.
 
-Subsec. (e)(1). Pub. L. 114–92, § 821(b)(1)(B), substituted “opportunities for such cooperative research and development shall be addressed in the acquisition strategy for the project” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics shall prepare a cooperative opportunities document before the first milestone or decision point with respect to that project for review by the Defense Acquisition Board at formal meetings of the Board”.
+Subsec. (e)(1). Pub. L. 114–92, § 821(b)(1)(B), substituted “opportunities for such cooperative research and development shall be addressed in the acquisition strategy for the project” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics shall prepare a cooperative opportunities document before the first milestone or decision point with respect to that project for review by the Defense Acquisition Board at formal meetings of the Board”.
 
-Subsec. (e)(2). Pub. L. 114–92, § 821(b)(1)(C)(i), substituted “discussion” for “document” and “consider” for “include” in introductory provisions.
+Subsec. (e)(2). Pub. L. 114–92, § 821(b)(1)(C)(i), substituted “discussion” for “document” and “consider” for “include” in introductory provisions.
 
-Subsec. (e)(2)(A). Pub. L. 114–92, § 821(b)(1)(C)(ii), substituted “Whether” for “A statement indicating whether”.
+Subsec. (e)(2)(A). Pub. L. 114–92, § 821(b)(1)(C)(ii), substituted “Whether” for “A statement indicating whether”.
 
-Subsec. (e)(2)(B). Pub. L. 114–92, § 821(b)(1)(C)(iii), struck out “by the Under Secretary of Defense for Acquisition, Technology, and Logistics” after “an assessment” and “of the United States under consideration by the Department of Defense” after “of the project”.
+Subsec. (e)(2)(B). Pub. L. 114–92, § 821(b)(1)(C)(iii), struck out “by the Under Secretary of Defense for Acquisition, Technology, and Logistics” after “an assessment” and “of the United States under consideration by the Department of Defense” after “of the project”.
 
-Subsec. (e)(2)(D). Pub. L. 114–92, § 821(b)(1)(C)(iv), substituted “A recommendation to the milestone decision authority” for “The recommendation of the Under Secretary”.
+Subsec. (e)(2)(D). Pub. L. 114–92, § 821(b)(1)(C)(iv), substituted “A recommendation to the milestone decision authority” for “The recommendation of the Under Secretary”.
 
-2011—Subsec. (b)(2). Pub. L. 112–81, § 865, substituted “, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Assistant Secretary of Defense for Research and Engineering” for “and to one other official of the Department of Defense”.
+2011—Subsec. (b)(2). Pub. L. 112–81, § 865, substituted “, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Assistant Secretary of Defense for Research and Engineering” for “and to one other official of the Department of Defense”.
 
-Subsec. (g)(3). Pub. L. 112–81, § 1061(14), struck out par. (3) which read as follows: “The Assistant Secretary of Defense for Research and Engineering shall notify the congressional defense committees of the intent to obligate funds made available to carry out this subsection not less than 7 days before such funds are obligated.”
+Subsec. (g)(3). Pub. L. 112–81, § 1061(14), struck out par. (3) which read as follows: “The Assistant Secretary of Defense for Research and Engineering shall notify the congressional defense committees of the intent to obligate funds made available to carry out this subsection not less than 7 days before such funds are obligated.”
 
 Pub. L. 111–383 substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
 
-2008—Subsec. (e)(1). Pub. L. 110–181, § 1251(1), struck out subpar. (A) designation before “In order to ensure”, substituted “a cooperative opportunities document before the first milestone or decision point” for “an arms cooperation opportunities document”, and struck out subpar. (B) which read as follows: “The Under Secretary shall also prepare an arms cooperation opportunities document for review of each new project for which a document known as a Mission Need Statement is prepared.”
+2008—Subsec. (e)(1). Pub. L. 110–181, § 1251(1), struck out subpar. (A) designation before “In order to ensure”, substituted “a cooperative opportunities document before the first milestone or decision point” for “an arms cooperation opportunities document”, and struck out subpar. (B) which read as follows: “The Under Secretary shall also prepare an arms cooperation opportunities document for review of each new project for which a document known as a Mission Need Statement is prepared.”
 
-Subsec. (e)(2). Pub. L. 110–181, § 1251(2), substituted “A cooperative opportunities document” for “An arms cooperation opportunities document” in introductory provisions.
+Subsec. (e)(2). Pub. L. 110–181, § 1251(2), substituted “A cooperative opportunities document” for “An arms cooperation opportunities document” in introductory provisions.
 
-Subsec. (g)(3). Pub. L. 110–181, § 237, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Deputy Director, Defense Research and Engineering (Test and Evaluation) shall notify the Speaker of the House of Representatives and the Committees on Armed Services and on Appropriations of the Senate of the Deputy Director’s intent to obligate funds made available to carry out this subsection not less than 30 days before such funds are obligated.”
+Subsec. (g)(3). Pub. L. 110–181, § 237, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Deputy Director, Defense Research and Engineering (Test and Evaluation) shall notify the Speaker of the House of Representatives and the Committees on Armed Services and on Appropriations of the Senate of the Deputy Director’s intent to obligate funds made available to carry out this subsection not less than 30 days before such funds are obligated.”
 
 2003—Subsec. (f). Pub. L. 108–136 struck out subsec. (f) which required that, not later than Mar. 1 of each year, the Under Secretary of Defense for Acquisition, Technology, and Logistics was to submit to the Speaker of the House and the Committees on Armed Services and Appropriations of the Senate a report on cooperative research and development projects under this section, and that, not later than Jan. 1 of each year, the Secretary of Defense was to submit to the Committees on Armed Services and Foreign Relations of the Senate and Committees on Armed Services and International Relations of the House a report specifying the countries eligible to participate in a cooperative project agreement under this section and the criteria used to determine the eligibility of such countries.
 
-2002—Subsec. (g)(1)(A). Pub. L. 107–314, § 1062(f)(2), amended directory language of Pub. L. 107–107, § 1212(a)(5). See 2001 Amendment note below.
+2002—Subsec. (g)(1)(A). Pub. L. 107–314, § 1062(f)(2), amended directory language of Pub. L. 107–107, § 1212(a)(5). See 2001 Amendment note below.
 
-Subsec. (g)(4). Pub. L. 107–314, § 1041(a)(9), struck out par. (4) which read as follows: “The Secretary of Defense shall submit to Congress each year, not later than March 1, a report containing information on—
+Subsec. (g)(4). Pub. L. 107–314, § 1041(a)(9), struck out par. (4) which read as follows: “The Secretary of Defense shall submit to Congress each year, not later than March 1, a report containing information on—
 
 “(A) the equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2) that were evaluated under this subsection during the previous fiscal year;
 
@@ -1085,63 +1085,63 @@ Subsec. (g)(4). Pub. L. 107–314, § 1041(a)(9), struck out par. (4) which re
 
 “(C) the equipment, munitions, and technologies that were tested under this subsection and procured during the previous fiscal year.”
 
-Subsec. (g)(4)(A). Pub. L. 107–314, § 1062(f)(2), amended directory language of Pub. L. 107–107, § 1212(a)(5). See 2001 Amendment note below.
+Subsec. (g)(4)(A). Pub. L. 107–314, § 1062(f)(2), amended directory language of Pub. L. 107–107, § 1212(a)(5). See 2001 Amendment note below.
 
-2001—Pub. L. 107–107, § 1212(e)(1), substituted “Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries” for “Cooperative research and development projects: allied countries” in section catchline.
+2001—Pub. L. 107–107, § 1212(e)(1), substituted “Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries” for “Cooperative research and development projects: allied countries” in section catchline.
 
-Subsec. (a)(1). Pub. L. 107–107, § 1212(a)(1)(A), (B), designated existing provisions of subsec. (a) as par. (1) and substituted “countries or organizations referred to in paragraph (2)” for “major allies of the United States or NATO organizations”.
+Subsec. (a)(1). Pub. L. 107–107, § 1212(a)(1)(A), (B), designated existing provisions of subsec. (a) as par. (1) and substituted “countries or organizations referred to in paragraph (2)” for “major allies of the United States or NATO organizations”.
 
-Subsec. (a)(2). Pub. L. 107–107, § 1212(a)(1)(C), added par. (2).
+Subsec. (a)(2). Pub. L. 107–107, § 1212(a)(1)(C), added par. (2).
 
-Subsec. (a)(3). Pub. L. 107–107, § 1212(b), added par. (3).
+Subsec. (a)(3). Pub. L. 107–107, § 1212(b), added par. (3).
 
-Subsec. (b)(1). Pub. L. 107–107, § 1212(a)(2), struck out “(NATO)” after “North Atlantic Treaty Organization” and substituted “a country or organization referred to in subsection (a)(2)” for “its major non-NATO allies”.
+Subsec. (b)(1). Pub. L. 107–107, § 1212(a)(2), struck out “(NATO)” after “North Atlantic Treaty Organization” and substituted “a country or organization referred to in subsection (a)(2)” for “its major non-NATO allies”.
 
-Subsec. (b)(2). Pub. L. 107–107, § 1212(c), substituted “Deputy Secretary of Defense and to one other official of the Department of Defense” for “Deputy Secretary of Defense or the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (b)(2). Pub. L. 107–107, § 1212(c), substituted “Deputy Secretary of Defense and to one other official of the Department of Defense” for “Deputy Secretary of Defense or the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-Subsec. (d)(1). Pub. L. 107–107, § 1212(a)(3)(A), substituted “countries and organizations referred to in subsection (a)(2)” for “the major allies of the United States”.
+Subsec. (d)(1). Pub. L. 107–107, § 1212(a)(3)(A), substituted “countries and organizations referred to in subsection (a)(2)” for “the major allies of the United States”.
 
-Subsec. (d)(2). Pub. L. 107–107, § 1212(a)(3)(B), substituted “country or organization referred to in subsection (a)(2)” for “major ally of the United States” and “the contribution of that country or organization” for “that ally’s contribution”.
+Subsec. (d)(2). Pub. L. 107–107, § 1212(a)(3)(B), substituted “country or organization referred to in subsection (a)(2)” for “major ally of the United States” and “the contribution of that country or organization” for “that ally’s contribution”.
 
-Subsec. (e)(1)(A). Pub. L. 107–107, § 1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+Subsec. (e)(1)(A). Pub. L. 107–107, § 1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-Subsec. (e)(2)(A). Pub. L. 107–107, § 1212(a)(4)(A), substituted “any country or organization referred to in subsection (a)(2)” for “one or more of the major allies of the United States”.
+Subsec. (e)(2)(A). Pub. L. 107–107, § 1212(a)(4)(A), substituted “any country or organization referred to in subsection (a)(2)” for “one or more of the major allies of the United States”.
 
-Subsec. (e)(2)(B). Pub. L. 107–107, §§ 1048(b)(2), 1212(a)(4)(B), substituted “countries and organizations referred to in subsection (a)(2)” for “major allies of the United States or NATO organizations” and “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+Subsec. (e)(2)(B). Pub. L. 107–107, §§ 1048(b)(2), 1212(a)(4)(B), substituted “countries and organizations referred to in subsection (a)(2)” for “major allies of the United States or NATO organizations” and “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-Subsec. (e)(2)(C). Pub. L. 107–107, § 1212(a)(4)(C), substituted “countries and organizations referred to in subsection (a)(2)” for “major allies of the United States”.
+Subsec. (e)(2)(C). Pub. L. 107–107, § 1212(a)(4)(C), substituted “countries and organizations referred to in subsection (a)(2)” for “major allies of the United States”.
 
-Subsec. (e)(2)(D). Pub. L. 107–107, § 1212(a)(4)(D), substituted “countries and organizations referred to in subsection (a)(2)” for “major allies of the United States”.
+Subsec. (e)(2)(D). Pub. L. 107–107, § 1212(a)(4)(D), substituted “countries and organizations referred to in subsection (a)(2)” for “major allies of the United States”.
 
-Subsec. (f)(1). Pub. L. 107–107, § 1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+Subsec. (f)(1). Pub. L. 107–107, § 1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-Subsec. (f)(2). Pub. L. 107–107, § 1212(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary of Defense and the Secretary of State, whenever they consider such action to be warranted, shall jointly submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives a report—
+Subsec. (f)(2). Pub. L. 107–107, § 1212(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary of Defense and the Secretary of State, whenever they consider such action to be warranted, shall jointly submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives a report—
 
 “(A) enumerating those countries to be added to or deleted from the existing designation of countries designated as major non-NATO allies for purposes of this section; and
 
 “(B) specifying the criteria used in determining the eligibility of a country to be designated as a major non-NATO ally for purposes of this section.”
 
-Subsec. (g)(1)(A), (4)(A). Pub. L. 107–107, § 1212(a)(5), as amended by Pub. L. 107–314, § 1062(f)(2), substituted “countries referred to in subsection (a)(2)” for “major allies of the United States and other friendly foreign countries”.
+Subsec. (g)(1)(A), (4)(A). Pub. L. 107–107, § 1212(a)(5), as amended by Pub. L. 107–314, § 1062(f)(2), substituted “countries referred to in subsection (a)(2)” for “major allies of the United States and other friendly foreign countries”.
 
-Subsec. (h). Pub. L. 107–107, § 1212(a)(6), substituted “member nations of the North Atlantic Treaty Organization, major non-NATO allies, and other friendly foreign countries” for “major allies of the United States”.
+Subsec. (h). Pub. L. 107–107, § 1212(a)(6), substituted “member nations of the North Atlantic Treaty Organization, major non-NATO allies, and other friendly foreign countries” for “major allies of the United States”.
 
-Subsec. (i)(1). Pub. L. 107–107, § 1212(a)(7)(A), substituted “countries and organizations referred to in subsection (a)(2)” for “major allies of the United States or NATO organizations”.
+Subsec. (i)(1). Pub. L. 107–107, § 1212(a)(7)(A), substituted “countries and organizations referred to in subsection (a)(2)” for “major allies of the United States or NATO organizations”.
 
-Subsec. (i)(2) to (4). Pub. L. 107–107, § 1212(a)(7)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The term ‘major ally of the United States’ means—
+Subsec. (i)(2) to (4). Pub. L. 107–107, § 1212(a)(7)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The term ‘major ally of the United States’ means—
 
 “(A) a member nation of the North Atlantic Treaty Organization (other than the United States); or
 
 “(B) a major non-NATO ally.”
 
-1999—Subsec. (b)(2). Pub. L. 106–65, § 911(a)(1), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+1999—Subsec. (b)(2). Pub. L. 106–65, § 911(a)(1), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-Subsec. (f)(2). Pub. L. 106–65, § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+Subsec. (f)(2). Pub. L. 106–65, § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1996—Subsec. (f)(2). Pub. L. 104–106 substituted “submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives” for “submit to the Committees on Armed Services and Foreign Relations of the Senate and to the Committees on Armed Services and Foreign Affairs of the House of Representatives”.
 
-1994—Subsecs. (a), (e)(2)(A) to (D), (i)(1). Pub. L. 103–337, § 1301(a), inserted “or NATO organizations” after “major allies of the United States”.
+1994—Subsecs. (a), (e)(2)(A) to (D), (i)(1). Pub. L. 103–337, § 1301(a), inserted “or NATO organizations” after “major allies of the United States”.
 
-Subsec. (i)(4). Pub. L. 103–337, § 1301(b), added par. (4).
+Subsec. (i)(4). Pub. L. 103–337, § 1301(b), added par. (4).
 
 1993—Subsecs. (b)(2), (e)(1)(A), (2)(B), (f)(1). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
@@ -1163,19 +1163,19 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–314, div. A, title X, § 1062(f), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(f)(2) is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.
+Pub. L. 107–314, div. A, title X, § 1062(f), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(f)(2) is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.
 
 **Termination Date of 1992 Amendment**
 
-Pub. L. 102–484, div. A, title VIII, § 843(c), Oct. 23, 1992, 106 Stat. 2469, as amended by Pub. L. 103–35, title II, § 202(a)(7), May 31, 1993, 107 Stat. 101, provided that, effective Oct. 23, 1994, subsections (a) and (b) of section 843 of Pub. L. 102–484 (amending sections 2350a and 2350d of this title and section 2767 of Title 22, Foreign Relations and Intercourse) were to cease to be in effect, and section 27(c) of the Arms Export Control Act (22 U.S.C. 2767(c)) and sections 2350a(c) and 2350d(c) of this title were to read as if such subsections had not been enacted, prior to repeal by Pub. L. 103–337, div. A, title XIII, § 1318, Oct. 5, 1994, 108 Stat. 2902.
+Pub. L. 102–484, div. A, title VIII, § 843(c), Oct. 23, 1992, 106 Stat. 2469, as amended by Pub. L. 103–35, title II, § 202(a)(7), May 31, 1993, 107 Stat. 101, provided that, effective Oct. 23, 1994, subsections (a) and (b) of section 843 of Pub. L. 102–484 (amending sections 2350a and 2350d of this title and section 2767 of Title 22, Foreign Relations and Intercourse) were to cease to be in effect, and section 27(c) of the Arms Export Control Act (22 U.S.C. 2767(c)) and sections 2350a(c) and 2350d(c) of this title were to read as if such subsections had not been enacted, prior to repeal by Pub. L. 103–337, div. A, title XIII, § 1318, Oct. 5, 1994, 108 Stat. 2902.
 
 **Conforming Regulations**
 
-Pub. L. 117–263, div. A, title II, § 211(c), Dec. 23, 2022, 136 Stat. 2466, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to conform with section 2350a of title 10, United States Code, as amended by subsection (a).”
+Pub. L. 117–263, div. A, title II, § 211(c), Dec. 23, 2022, 136 Stat. 2466, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to conform with section 2350a of title 10, United States Code, as amended by subsection (a).”
 
 **Agreements With Foreign Governments To Develop Land-Based Water Resources in Support of and in Preparation for Contingency Operations**
 
-Pub. L. 114–328, div. A, title XII, § 1291, Dec. 23, 2016, 130 Stat. 2558, provided that:
+Pub. L. 114–328, div. A, title XII, § 1291, Dec. 23, 2016, 130 Stat. 2558, provided that:
 
 > **“(a) Agreements Authorized.—** The Secretary of Defense, with the concurrence of the Secretary of State, is authorized to enter into agreements with the governments of foreign countries to develop land-based water resources in support of and in preparation for contingency operations, including water selection, pumping, purification, storage, distribution, cooling, consumption, water reuse, water source intelligence, research and development, training, acquisition of water support equipment, and water support operations.
 
@@ -1189,7 +1189,7 @@ Pub. L. 114–328, div. A, title XII, § 1291, Dec. 23, 2016, 130 Stat. 2558, 
 
 **Administration of the American, British, Canadian, and Australian Armies’ Program and the Five Eyes Air Force Interoperability Council**
 
-Pub. L. 112–239, div. A, title XII, § 1274, Jan. 2, 2013, 126 Stat. 2026, as amended by Pub. L. 115–91, div. A, title XII, § 1274, Dec. 12, 2017, 131 Stat. 1697; Pub. L. 117–81, div. A, title XIII, § 1321, Dec. 27, 2021, 135 Stat. 2002; Pub. L. 118–31, div. A, title XII, § 1222, Dec. 22, 2023, 137 Stat. 453, provided that:
+Pub. L. 112–239, div. A, title XII, § 1274, Jan. 2, 2013, 126 Stat. 2026, as amended by Pub. L. 115–91, div. A, title XII, § 1274, Dec. 12, 2017, 131 Stat. 1697; Pub. L. 117–81, div. A, title XIII, § 1321, Dec. 27, 2021, 135 Stat. 2002; Pub. L. 118–31, div. A, title XII, § 1222, Dec. 22, 2023, 137 Stat. 453, provided that:
 
 > **“(a) Authority.—** As part of the participation by the United States in the land-force program known as the American, British, Canadian, and Australian Armies’ Program or the air force [sic] program known as the Five Eyes Air Force Interoperability Council (in this section referred to as the ‘Program’), the Secretary of Defense may, with the concurrence of the Secretary of State, enter into agreements with the other participating countries in accordance with this section, and the Program shall be managed pursuant to a joint agreement among the participating countries.
 
@@ -1261,15 +1261,15 @@ Pub. L. 112–239, div. A, title XII, § 1274, Jan. 2, 2013, 126 Stat. 2026, a
 
 > **“(f) Reports.—** Not later than 60 days before the expiration date of any agreement under subsection (a), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the activities, costs, and accomplishments of the Program during the five-year period ending on the date of such report.”
 
-### § 2350b. Cooperative projects under Arms Export Control Act: acquisition of defense equipment
+### § 2350b. Cooperative projects under Arms Export Control Act: acquisition of defense equipment
 
 **(a)**
 
 **(1)** If the President delegates to the Secretary of Defense the authority to carry out section 27(d) of the Arms Export Control Act (22 U.S.C. 2767(d)), relating to cooperative projects (as defined in such section), the Secretary may utilize his authority under this title in carrying out contracts or obligations incurred under such section.
 
-**(2)** Except as provided in subsection (c), chapter 137 1
+**(2)** Except as provided in subsection (c), chapter 137 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title shall apply to such contracts (referred to in paragraph (1)) entered into by the Secretary of Defense. Except to the extent waived under subsection (c) or some other provision of law, all other provisions of law relating to procurement, if otherwise applicable, shall apply to such contracts entered into by the Secretary of Defense.
 
@@ -1277,7 +1277,7 @@ of this title shall apply to such contracts (referred to in paragraph (1)) enter
 
 **(c)**
 
-**(1)** Subject to paragraph (2), when entering into contracts or incurring obligations under section 27(d) of the Arms Export Control Act outside the United States, the Secretary of Defense may waive with respect to any such contract or subcontract the application of any provision of law, other than a provision of the Arms Export Control Act or section 2304 <sup>1</sup> of this title, that specifically prescribes—
+**(1)** Subject to paragraph (2), when entering into contracts or incurring obligations under section 27(d) of the Arms Export Control Act outside the United States, the Secretary of Defense may waive with respect to any such contract or subcontract the application of any provision of law, other than a provision of the Arms Export Control Act or section 2304 <sup>1</sup> of this title, that specifically prescribes—
 
 **(A)** procedures to be followed in the formation of contracts;
 
@@ -1313,17 +1313,17 @@ of this title shall apply to such contracts (referred to in paragraph (1)) enter
 
 **(2)** to waive the cargo preference laws of the United States, including section 2631 of this title and section 55305 of title 46.
 
-(Added Pub. L. 99–145, title XI, § 1102(b)(1), Nov. 8, 1985, 99 Stat. 710, § 2407; amended Pub. L. 99–661, div. A, title XI, § 1103(b)(1), (2)(A), title XIII, § 1343(a)(15), Nov. 14, 1986, 100 Stat. 3963, 3993; renumbered § 2350b and amended Pub. L. 101–189, div. A, title IX, § 931(b)(1), (e)(3), Nov. 29, 1989, 103 Stat. 1534, 1535; Pub. L. 104–106, div. A, title XIII, § 1335, div. D, title XLIII, § 4321(b)(10), Feb. 10, 1996, 110 Stat. 484, 672; Pub. L. 108–375, div. A, title X, § 1084(d)(19), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–304, § 17(a)(3), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
+(Added Pub. L. 99–145, title XI, § 1102(b)(1), Nov. 8, 1985, 99 Stat. 710, § 2407; amended Pub. L. 99–661, div. A, title XI, § 1103(b)(1), (2)(A), title XIII, § 1343(a)(15), Nov. 14, 1986, 100 Stat. 3963, 3993; renumbered § 2350b and amended Pub. L. 101–189, div. A, title IX, § 931(b)(1), (e)(3), Nov. 29, 1989, 103 Stat. 1534, 1535; Pub. L. 104–106, div. A, title XIII, § 1335, div. D, title XLIII, § 4321(b)(10), Feb. 10, 1996, 110 Stat. 484, 672; Pub. L. 108–375, div. A, title X, § 1084(d)(19), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–304, § 17(a)(3), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 137 of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
+Chapter 137 of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
 
-The Arms Export Control Act, referred to in subsec. (c)(1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in subsec. (c)(1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
-Section 2304 of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (*l*) of section 2304 were transferred to various provisions in chapter 221 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, § 1811(c)(2)–(5), (d)(2)–(9), Jan. 1, 2021, 134 Stat. 4165–4170.
+Section 2304 of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (*l*) of section 2304 were transferred to various provisions in chapter 221 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, § 1811(c)(2)–(5), (d)(2)–(9), Jan. 1, 2021, 134 Stat. 4165–4170.
 
 **Amendments**
 
@@ -1331,29 +1331,29 @@ Section 2304 of this title, referred to in subsec. (c)(1), was repealed by Pub. 
 
 2006—Subsec. (g)(2). Pub. L. 109–304 substituted “section 55305 of title 46” for “section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b))”.
 
-2004—Subsec. (g). Pub. L. 108–375, § 1084(d)(19)(A), inserted “the Secretary of Defense” after “authorizing” in introductory provisions.
+2004—Subsec. (g). Pub. L. 108–375, § 1084(d)(19)(A), inserted “the Secretary of Defense” after “authorizing” in introductory provisions.
 
-Subsec. (g)(1). Pub. L. 108–375, § 1084(d)(19)(B), struck out “the Secretary of Defense” before “to waive”.
+Subsec. (g)(1). Pub. L. 108–375, § 1084(d)(19)(B), struck out “the Secretary of Defense” before “to waive”.
 
-1996—Subsec. (c)(1). Pub. L. 104–106, § 4321(b)(10)(A), inserted “prescribes” after “specifically” in introductory provisions and struck out “prescribe” before “procedures” in subpar. (A), before “terms” in subpar. (B), and before “requirements” in subpars. (C) and (D).
+1996—Subsec. (c)(1). Pub. L. 104–106, § 4321(b)(10)(A), inserted “prescribes” after “specifically” in introductory provisions and struck out “prescribe” before “procedures” in subpar. (A), before “terms” in subpar. (B), and before “requirements” in subpars. (C) and (D).
 
-Subsec. (d)(1). Pub. L. 104–106, § 4321(b)(10)(B), struck out “to” after “subcontract”.
+Subsec. (d)(1). Pub. L. 104–106, § 4321(b)(10)(B), struck out “to” after “subcontract”.
 
-Subsec. (e)(1). Pub. L. 104–106, § 1335(1), inserted “or a NATO organization” after “United States)”.
+Subsec. (e)(1). Pub. L. 104–106, § 1335(1), inserted “or a NATO organization” after “United States)”.
 
-Subsec. (e)(2). Pub. L. 104–106, § 1335(2), substituted “such a cooperative project or a NATO organization” for “a cooperative project”.
+Subsec. (e)(2). Pub. L. 104–106, § 1335(2), substituted “such a cooperative project or a NATO organization” for “a cooperative project”.
 
 1989—Pub. L. 101–189 renumbered section 2407 of this title as this section and substituted “Cooperative projects under Arms Export Control Act: acquisition of defense equipment” for “Acquisition of defense equipment under cooperative projects” as section catchline.
 
-1986—Pub. L. 99–661, § 1103(b)(2)(A), struck out “North Atlantic Treaty Organization” before “cooperative projects” in section catchline.
+1986—Pub. L. 99–661, § 1103(b)(2)(A), struck out “North Atlantic Treaty Organization” before “cooperative projects” in section catchline.
 
-Subsec. (a)(1). Pub. L. 99–661, § 1103(b)(1)(A), struck out “North Atlantic Treaty Organization (NATO)” before “cooperative projects”.
+Subsec. (a)(1). Pub. L. 99–661, § 1103(b)(1)(A), struck out “North Atlantic Treaty Organization (NATO)” before “cooperative projects”.
 
-Subsec. (c)(2). Pub. L. 99–661, § 1103(b)(1)(B), struck out “NATO” after “will significantly further”.
+Subsec. (c)(2). Pub. L. 99–661, § 1103(b)(1)(B), struck out “NATO” after “will significantly further”.
 
-Subsec. (e). Pub. L. 99–661, § 1103(b)(1)(C), struck out “NATO” after “will significantly further” in par. (1) and after “United States) in a” in par. (2).
+Subsec. (e). Pub. L. 99–661, § 1103(b)(1)(C), struck out “NATO” after “will significantly further” in par. (1) and after “United States) in a” in par. (2).
 
-Subsec. (g)(2). Pub. L. 99–661, § 1343(a)(15), substituted “section 2631 of this title and section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b))” for “the Military Cargo Preference Act of 1904 (10 U.S.C. 2631) and the Cargo Preference Act of 1954 (46 U.S.C. 1241(b))”.
+Subsec. (g)(2). Pub. L. 99–661, § 1343(a)(15), substituted “section 2631 of this title and section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b))” for “the Military Cargo Preference Act of 1904 (10 U.S.C. 2631) and the Cargo Preference Act of 1954 (46 U.S.C. 1241(b))”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1365,7 +1365,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 For effective date and applicability of amendment by section 4321(b)(10) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2220 of this title.
 
-### § 2350c. Cooperative military airlift agreements: allied countries
+### § 2350c. Cooperative military airlift agreements: allied countries
 
 **(a)** Subject to the availability of appropriations, and after consultation with the Secretary of State, the Secretary of Defense may enter into cooperative military airlift agreements with the government of any allied country for the transportation of the personnel and cargo of the military forces of that country on aircraft operated by or for the military forces of the United States in return for the reciprocal transportation of the personnel and cargo of the military forces of the United States on aircraft operated by or for the military forces of that allied country. Any such agreement shall include the following terms:
 
@@ -1393,25 +1393,25 @@ For effective date and applicability of amendment by section 4321(b)(10) of Pub.
 
 **(2)** The term “North Atlantic Treaty Organization subsidiary bodies” has the meaning given to it by section 2350 of this title.
 
-(Added Pub. L. 97–252, title XI, § 1125(a), Sept. 8, 1982, 96 Stat. 757, § 2213; amended Pub. L. 99–145, title XIII, § 1304(b), Nov. 8, 1985, 99 Stat. 742; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; renumbered § 2350c and amended Pub. L. 101–189, div. A, title IX, § 931(b)(2), (e)(4), Nov. 29, 1989, 103 Stat. 1534, 1535; Pub. L. 102–484, div. A, title XIII, § 1311, Oct. 23, 1992, 106 Stat. 2547; Pub. L. 106–398, § 1 [[div. A], title XII, § 1222], Oct. 30, 2000, 114 Stat. 1654, 1654A–328.)
+(Added Pub. L. 97–252, title XI, § 1125(a), Sept. 8, 1982, 96 Stat. 757, § 2213; amended Pub. L. 99–145, title XIII, § 1304(b), Nov. 8, 1985, 99 Stat. 742; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; renumbered § 2350c and amended Pub. L. 101–189, div. A, title IX, § 931(b)(2), (e)(4), Nov. 29, 1989, 103 Stat. 1534, 1535; Pub. L. 102–484, div. A, title XIII, § 1311, Oct. 23, 1992, 106 Stat. 2547; Pub. L. 106–398, § 1 [[div. A], title XII, § 1222], Oct. 30, 2000, 114 Stat. 1654, 1654A–328.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Arms Export Control Act (22 U.S.C. 2751 et seq.), referred to in subsec. (a)(4), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act (22 U.S.C. 2751 et seq.), referred to in subsec. (a)(4), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
 **Amendments**
 
 2000—Subsecs. (d), (e). Pub. L. 106–398 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Notwithstanding subchapter I, the Secretary of Defense may enter into military airlift agreements with allied countries only under the authority of this section.”
 
-1992—Subsec. (a)(2). Pub. L. 102–484, § 1311(a), substituted “as agreed upon by the parties. Liquidation shall be either by direct payment to the country that has provided the greater amount of transportation or by the providing of in-kind transportation services to that country. The liquidation shall occur on a regular basis, but not less often than once every 12 months.” for “not less often than once every 3 months by direct payment to the country that has provided the greater amount of transportation.”
+1992—Subsec. (a)(2). Pub. L. 102–484, § 1311(a), substituted “as agreed upon by the parties. Liquidation shall be either by direct payment to the country that has provided the greater amount of transportation or by the providing of in-kind transportation services to that country. The liquidation shall occur on a regular basis, but not less often than once every 12 months.” for “not less often than once every 3 months by direct payment to the country that has provided the greater amount of transportation.”
 
-Subsec. (e)(1)(B). Pub. L. 102–484, § 1311(b), substituted “, New Zealand, Japan, and the Republic of Korea” for “or New Zealand”.
+Subsec. (e)(1)(B). Pub. L. 102–484, § 1311(b), substituted “, New Zealand, Japan, and the Republic of Korea” for “or New Zealand”.
 
-1989—Pub. L. 101–189 renumbered section 2213 of this title as this section and inserted “: allied countries” after “airlift agreements” in section catchline.
+1989—Pub. L. 101–189 renumbered section 2213 of this title as this section and inserted “: allied countries” after “airlift agreements” in section catchline.
 
-Subsec. (d). Pub. L. 101–189, § 931(b)(2), substituted “subchapter I” for “chapter 138 of this title”.
+Subsec. (d). Pub. L. 101–189, § 931(b)(2), substituted “subchapter I” for “chapter 138 of this title”.
 
 1987—Subsec. (e). Pub. L. 100–26 inserted “The term” after each par. designation and substituted “allied” for “Allied” in par. (1).
 
@@ -1421,11 +1421,11 @@ Subsec. (d). Pub. L. 101–189, § 931(b)(2), substituted “subchapter I” f
 
 **Department of Defense Participation in European Program on Multilateral Exchange of Air Transportation and Air Refueling Services**
 
-Pub. L. 112–239, div. A, title XII, § 1276, Jan. 2, 2013, 126 Stat. 2029, as amended by Pub. L. 115–91, div. A, title X, § 1051(r)(9), Dec. 12, 2017, 131 Stat. 1565, which related to participation of the United States in the Air Transport, Air-to-Air Refueling and other Exchanges of Services (ATARES) program of the Movement Coordination Centre Europe, was repealed by Pub. L. 116–283, div. A, title XII, § 1203(c), Jan. 1, 2021, 134 Stat. 3911. See section 2350*o* of this title.
+Pub. L. 112–239, div. A, title XII, § 1276, Jan. 2, 2013, 126 Stat. 2029, as amended by Pub. L. 115–91, div. A, title X, § 1051(r)(9), Dec. 12, 2017, 131 Stat. 1565, which related to participation of the United States in the Air Transport, Air-to-Air Refueling and other Exchanges of Services (ATARES) program of the Movement Coordination Centre Europe, was repealed by Pub. L. 116–283, div. A, title XII, § 1203(c), Jan. 1, 2021, 134 Stat. 3911. See section 2350*o* of this title.
 
 **Department of Defense Participation in Strategic Airlift Capability Partnership**
 
-Pub. L. 110–181, div. A, title X, § 1032, Jan. 28, 2008, 122 Stat. 306, provided that:
+Pub. L. 110–181, div. A, title X, § 1032, Jan. 28, 2008, 122 Stat. 306, provided that:
 
 > **“(a) Authority To Participate in Partnership.—**
 
@@ -1473,7 +1473,7 @@ Pub. L. 110–181, div. A, title X, § 1032, Jan. 28, 2008, 122 Stat. 306, pro
 
 > **“(e) Strategic Airlift Capability Partnership Defined.—** In this section the term ‘Strategic Airlift Capability Partnership’ means the strategic airlift capability consortium established by the United States and other participating countries.”
 
-### § 2350d. Cooperative acquisition and logistics support agreements: NATO countries
+### § 2350d. Cooperative acquisition and logistics support agreements: NATO countries
 
 **(a) General Authority.—**
 
@@ -1497,9 +1497,9 @@ Pub. L. 110–181, div. A, title X, § 1032, Jan. 28, 2008, 122 Stat. 306, pro
 
 **(c) Sharing of Administrative Expenses.—** Each Support or Procurement Partnership Agreement shall provide for joint management by the participating countries and for the equitable sharing of the administrative costs and costs of claims incident to the agreement.
 
-**(d) Application of Chapter 137.—** Except as otherwise provided in this section, the provisions of chapter 137 1
+**(d) Application of Chapter 137.—** Except as otherwise provided in this section, the provisions of chapter 137 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title apply to a contract entered into by the Secretary of Defense for the acquisition of logistics support under a Support or Procurement Partnership Agreement.
 
@@ -1507,67 +1507,67 @@ of this title apply to a contract entered into by the Secretary of Defense for t
 
 **(f) Supplemental Authority.—** The authority of the Secretary of Defense under this section is in addition to the authority of the Secretary under subchapter I and any other provision of law.
 
-(Added and amended Pub. L. 101–189, div. A, title IX, §§ 931(c), 938(c), Nov. 29, 1989, 103 Stat. 1534, 1539; Pub. L. 102–484, div. A, title VIII, § 843(b)(2), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 113–66, div. A, title XII, § 1250(a), Dec. 26, 2013, 127 Stat. 926; Pub. L. 115–232, div. A, title XII, § 1279(a), Aug. 13, 2018, 132 Stat. 2072; Pub. L. 117–263, div. A, title XII, § 1244(b), Dec. 23, 2022, 136 Stat. 2845.)
+(Added and amended Pub. L. 101–189, div. A, title IX, §§ 931(c), 938(c), Nov. 29, 1989, 103 Stat. 1534, 1539; Pub. L. 102–484, div. A, title VIII, § 843(b)(2), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 113–66, div. A, title XII, § 1250(a), Dec. 26, 2013, 127 Stat. 926; Pub. L. 115–232, div. A, title XII, § 1279(a), Aug. 13, 2018, 132 Stat. 2072; Pub. L. 117–263, div. A, title XII, § 1244(b), Dec. 23, 2022, 136 Stat. 2845.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 137 of this title, referred to in subsec. (d), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
+Chapter 137 of this title, referred to in subsec. (d), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
 
-The Arms Export Control Act, referred to in subsec. (e), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in subsec. (e), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 99–661, div. A, title XI, § 1102, Nov. 14, 1986, 100 Stat. 3961, which was set out as a note under section 2407 of this title, prior to repeal by Pub. L. 101–189, § 931(d)(2).
+Provisions similar to those in this section were contained in Pub. L. 99–661, div. A, title XI, § 1102, Nov. 14, 1986, 100 Stat. 3961, which was set out as a note under section 2407 of this title, prior to repeal by Pub. L. 101–189, § 931(d)(2).
 
 **Amendments**
 
-2022—Pub. L. 117–263, § 1244(b)(1), substituted “acquisition and logistics support” for “logistic support” in section catchline.
+2022—Pub. L. 117–263, § 1244(b)(1), substituted “acquisition and logistics support” for “logistic support” in section catchline.
 
-Subsec. (a)(1). Pub. L. 117–263, § 1244(b)(2)(A)(i), substituted “acquisition and logistics support” for “logistics support” in introductory provisions.
+Subsec. (a)(1). Pub. L. 117–263, § 1244(b)(2)(A)(i), substituted “acquisition and logistics support” for “logistics support” in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 117–263, § 1244(b)(2)(A)(ii), substituted “acquisition and logistics support” for “logistic support”.
+Subsec. (a)(1)(B). Pub. L. 117–263, § 1244(b)(2)(A)(ii), substituted “acquisition and logistics support” for “logistic support”.
 
-Subsec. (a)(2)(B). Pub. L. 117–263, § 1244(b)(2)(B), substituted “armaments and logistics support” for “logistics support”.
+Subsec. (a)(2)(B). Pub. L. 117–263, § 1244(b)(2)(B), substituted “armaments and logistics support” for “logistics support”.
 
-Subsec. (b). Pub. L. 117–263, § 1244(b)(3)(A), substituted “Partnership Agreement or Arrangement” for “Partnership Agreement” in introductory provisions.
+Subsec. (b). Pub. L. 117–263, § 1244(b)(3)(A), substituted “Partnership Agreement or Arrangement” for “Partnership Agreement” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 117–263, § 1244(b)(3)(B), substituted “supply, services, support, and acquisition, including armaments for requirements” for “supply and acquisition of logistics support in Europe for requirements” and “supply, services, support, and acquisition are appropriate” for “supply and acquisition are appropriate”.
+Subsec. (b)(1). Pub. L. 117–263, § 1244(b)(3)(B), substituted “supply, services, support, and acquisition, including armaments for requirements” for “supply and acquisition of logistics support in Europe for requirements” and “supply, services, support, and acquisition are appropriate” for “supply and acquisition are appropriate”.
 
-Subsec. (b)(2). Pub. L. 117–263, § 1244(b)(3)(C), substituted “acquisition and logistics support” for “logistics support” in two places.
+Subsec. (b)(2). Pub. L. 117–263, § 1244(b)(3)(C), substituted “acquisition and logistics support” for “logistics support” in two places.
 
-2018—Subsec. (a). Pub. L. 115–232, § 1279(a)(1), substituted “NATO Support and Procurement Organization” for “NATO Support Organization” wherever appearing.
+2018—Subsec. (a). Pub. L. 115–232, § 1279(a)(1), substituted “NATO Support and Procurement Organization” for “NATO Support Organization” wherever appearing.
 
-Subsec. (a)(1). Pub. L. 115–232, § 1279(a)(3), substituted “Support or Procurement Partnership Agreements” for “Support Partnership Agreements” in introductory provisions.
+Subsec. (a)(1). Pub. L. 115–232, § 1279(a)(3), substituted “Support or Procurement Partnership Agreements” for “Support Partnership Agreements” in introductory provisions.
 
-Subsec. (b). Pub. L. 115–232, § 1279(a)(1), (2), substituted “Support or Procurement Partnership Agreement” for “Support Partnership Agreement” in introductory provisions and “NATO Support and Procurement Organization” for “NATO Support Organization” wherever appearing.
+Subsec. (b). Pub. L. 115–232, § 1279(a)(1), (2), substituted “Support or Procurement Partnership Agreement” for “Support Partnership Agreement” in introductory provisions and “NATO Support and Procurement Organization” for “NATO Support Organization” wherever appearing.
 
-Subsecs. (c), (d). Pub. L. 115–232, § 1279(a)(2), substituted “Support or Procurement Partnership Agreement” for “Support Partnership Agreement”.
+Subsecs. (c), (d). Pub. L. 115–232, § 1279(a)(2), substituted “Support or Procurement Partnership Agreement” for “Support Partnership Agreement”.
 
-Subsec. (e). Pub. L. 115–232, § 1279(a)(1), (2), substituted “NATO Support and Procurement Organization” for “NATO Support Organization” and “Support or Procurement Partnership Agreement” for “Support Partnership Agreement”.
+Subsec. (e). Pub. L. 115–232, § 1279(a)(1), (2), substituted “NATO Support and Procurement Organization” for “NATO Support Organization” and “Support or Procurement Partnership Agreement” for “Support Partnership Agreement”.
 
-2013—Subsec. (a)(1). Pub. L. 113–66, § 1250(a)(1), (2)(A), in introductory provisions, substituted “Support Partnership Agreements” for “Weapon System Partnership Agreements” and “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization”.
+2013—Subsec. (a)(1). Pub. L. 113–66, § 1250(a)(1), (2)(A), in introductory provisions, substituted “Support Partnership Agreements” for “Weapon System Partnership Agreements” and “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization”.
 
-Subsec. (a)(1)(A). Pub. L. 113–66, § 1250(a)(1), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization”.
+Subsec. (a)(1)(A). Pub. L. 113–66, § 1250(a)(1), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization”.
 
-Subsec. (a)(1)(B). Pub. L. 113–66, § 1250(a)(2)(B), substituted “activities” for “a specific weapon system”.
+Subsec. (a)(1)(B). Pub. L. 113–66, § 1250(a)(2)(B), substituted “activities” for “a specific weapon system”.
 
-Subsec. (a)(2)(A). Pub. L. 113–66, § 1250(a)(1), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization”.
+Subsec. (a)(2)(A). Pub. L. 113–66, § 1250(a)(1), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization”.
 
-Subsec. (b). Pub. L. 113–66, § 1250(a)(3), substituted “Support Partnership Agreement” for “Weapon System Partnership Agreement” in introductory provisions.
+Subsec. (b). Pub. L. 113–66, § 1250(a)(3), substituted “Support Partnership Agreement” for “Weapon System Partnership Agreement” in introductory provisions.
 
-Pub. L. 113–66, § 1250(a)(1), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization” wherever appearing.
+Pub. L. 113–66, § 1250(a)(1), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization” wherever appearing.
 
-Subsecs. (c), (d). Pub. L. 113–66, § 1250(a)(3), substituted “Support Partnership Agreement” for “Weapon System Partnership Agreement”.
+Subsecs. (c), (d). Pub. L. 113–66, § 1250(a)(3), substituted “Support Partnership Agreement” for “Weapon System Partnership Agreement”.
 
-Subsec. (e). Pub. L. 113–66, § 1250(a)(1), (3), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization” and “Support Partnership Agreement” for “Weapon System Partnership Agreement”.
+Subsec. (e). Pub. L. 113–66, § 1250(a)(1), (3), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization” and “Support Partnership Agreement” for “Weapon System Partnership Agreement”.
 
 1992—Subsec. (c). Pub. L. 102–484 inserted “and costs of claims” after “administrative costs”.
 
-1989—Subsec. (e). Pub. L. 101–189, § 938(c), inserted “this chapter and” after “in accordance with”.
+1989—Subsec. (e). Pub. L. 101–189, § 938(c), inserted “this chapter and” after “in accordance with”.
 
-### § 2350e. NATO Airborne Warning and Control System (AWACS) program: authority of Secretary of Defense
+### § 2350e. NATO Airborne Warning and Control System (AWACS) program: authority of Secretary of Defense
 
 **(a) Authority Under AWACS Program.—** The Secretary of Defense, in carrying out an AWACS memorandum of understanding, may do the following:
 
@@ -1611,23 +1611,23 @@ Subsec. (e). Pub. L. 113–66, § 1250(a)(1), (3), substituted “NATO Support
 
 **(4)** any other follow-on support agreement for the NATO E–3A Cooperative Programme.
 
-(Added Pub. L. 101–189, div. A, title IX, § 932(a)(1), Nov. 29, 1989, 103 Stat. 1536; amended Pub. L. 102–190, div. A, title X, § 1051, Dec. 5, 1991, 105 Stat. 1470; Pub. L. 103–160, div. A, title XIV, § 1413, Nov. 30, 1993, 107 Stat. 1829.)
+(Added Pub. L. 101–189, div. A, title IX, § 932(a)(1), Nov. 29, 1989, 103 Stat. 1536; amended Pub. L. 102–190, div. A, title X, § 1051, Dec. 5, 1991, 105 Stat. 1470; Pub. L. 103–160, div. A, title XIV, § 1413, Nov. 30, 1993, 107 Stat. 1829.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 97–86, title I, § 103, Dec. 1, 1981, 95 Stat. 1100, as amended, which was set out as a note under section 2407 of this title, prior to repeal by Pub. L. 101–189, § 932(b).
+Provisions similar to those in this section were contained in Pub. L. 97–86, title I, § 103, Dec. 1, 1981, 95 Stat. 1100, as amended, which was set out as a note under section 2407 of this title, prior to repeal by Pub. L. 101–189, § 932(b).
 
 **Amendments**
 
 1993—Subsec. (d). Pub. L. 103–160 struck out subsec. (d) which read as follows: “Expiration.—The authority provided by this section expires on September 30, 1993.”
 
-1991—Subsec. (c)(3), (4). Pub. L. 102–190, § 1051(1), added par. (3) and redesignated former par. (3) as (4).
+1991—Subsec. (c)(3), (4). Pub. L. 102–190, § 1051(1), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (d). Pub. L. 102–190, § 1051(2), substituted “1993” for “1991”.
+Subsec. (d). Pub. L. 102–190, § 1051(2), substituted “1993” for “1991”.
 
-### § 2350f. Procurement of communications support and related supplies and services
+### § 2350f. Procurement of communications support and related supplies and services
 
 **(a)** As an alternative means of obtaining communications support and related supplies and services, the Secretary of Defense, subject to the approval of the Secretary of State, may enter into a bilateral arrangement with any allied country or allied international organization or may enter into a multilateral arrangement with allied countries and allied international organizations, under which, in return for being provided communications support and related supplies and services, the United States would agree to provide to the allied country or countries or allied international organization or allied international organizations, as the case may be, an equivalent value of communications support and related supplies and services. The term of an arrangement entered into under this subsection may not exceed five years.
 
@@ -1639,7 +1639,7 @@ Subsec. (d). Pub. L. 102–190, § 1051(2), substituted “1993” for “1991
 
 **(3)** Payments received by the United States shall be credited to the appropriation from which such communications support and related supplies and services have been provided.
 
-**[(c)** Repealed. Pub. L. 107–314, div. A, title X, § 1041(a)(10), Dec. 2, 2002, 116 Stat. 2645.]
+**[(c)** Repealed. Pub. L. 107–314, div. A, title X, § 1041(a)(10), Dec. 2, 2002, 116 Stat. 2645.]
 
 **(d)** In this section:
 
@@ -1653,7 +1653,7 @@ Subsec. (d). Pub. L. 102–190, § 1051(2), substituted “1993” for “1991
 
 **(2)** The term “allied international organization” means the North Atlantic Treaty Organization (NATO) or any other international organization designated as an allied international organization for the purposes of this section by the Secretary of Defense with the concurrence of the Secretary of State.
 
-(Added Pub. L. 98–525, title X, § 1005(a), Oct. 19, 1984, 98 Stat. 2578, § 2401a; amended Pub. L. 100–26, § 7(k)(3), Apr. 21, 1987, 101 Stat. 284; renumbered § 2350f and amended Pub. L. 101–189, div. A, title IX, § 933(a)–(d), Nov. 29, 1989, 103 Stat. 1537; Pub. L. 101–510, div. A, title XIV, § 1484(k)(8), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, § 1041(a)(10), Dec. 2, 2002, 116 Stat. 2645.)
+(Added Pub. L. 98–525, title X, § 1005(a), Oct. 19, 1984, 98 Stat. 2578, § 2401a; amended Pub. L. 100–26, § 7(k)(3), Apr. 21, 1987, 101 Stat. 284; renumbered § 2350f and amended Pub. L. 101–189, div. A, title IX, § 933(a)–(d), Nov. 29, 1989, 103 Stat. 1537; Pub. L. 101–510, div. A, title XIV, § 1484(k)(8), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, § 1041(a)(10), Dec. 2, 2002, 116 Stat. 2645.)
 
 **Editorial Notes**
 
@@ -1665,25 +1665,25 @@ Subsec. (d). Pub. L. 102–190, § 1051(2), substituted “1993” for “1991
 
 1996—Subsec. (c). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
-1990—Subsec. (d)(1)(A). Pub. L. 101–510 substituted a semicolon for “, or” at end.
+1990—Subsec. (d)(1)(A). Pub. L. 101–510 substituted a semicolon for “, or” at end.
 
-1989—Pub. L. 101–189, § 933(a), renumbered section 2401a of this title as this section.
+1989—Pub. L. 101–189, § 933(a), renumbered section 2401a of this title as this section.
 
-Subsec. (a). Pub. L. 101–189, § 933(b), substituted “a bilateral arrangement with any allied country or allied international organization or may enter into a multilateral arrangement with allied countries and allied international organizations” for “an arrangement with the Minister of Defense or other appropriate official of any allied country or with the North Atlantic Treaty Organization (NATO),” and “the allied country or countries or allied international organization or allied international organizations, as the case may be,” for “such country or NATO” and inserted “The term of an arrangement entered into under this subsection may not exceed five years.”
+Subsec. (a). Pub. L. 101–189, § 933(b), substituted “a bilateral arrangement with any allied country or allied international organization or may enter into a multilateral arrangement with allied countries and allied international organizations” for “an arrangement with the Minister of Defense or other appropriate official of any allied country or with the North Atlantic Treaty Organization (NATO),” and “the allied country or countries or allied international organization or allied international organizations, as the case may be,” for “such country or NATO” and inserted “The term of an arrangement entered into under this subsection may not exceed five years.”
 
-Subsec. (b). Pub. L. 101–189, § 933(c), designated first sentence as par. (1), inserted “Liquidations may be made at such times as the parties in an arrangement may agree upon, but in no case may final liquidation in the case of an arrangement be made later than 30 days after the end of the term for which the arrangement was entered into.” after “supplies and services.”, added par. (2), and designated second sentence as par. (3).
+Subsec. (b). Pub. L. 101–189, § 933(c), designated first sentence as par. (1), inserted “Liquidations may be made at such times as the parties in an arrangement may agree upon, but in no case may final liquidation in the case of an arrangement be made later than 30 days after the end of the term for which the arrangement was entered into.” after “supplies and services.”, added par. (2), and designated second sentence as par. (3).
 
-Subsec. (d). Pub. L. 101–189, § 933(d)(1), (2), substituted “In this section:” and par. (1) for “In this section, the term ‘allied country’ means—” and redesignated former cls. (1) and (2) as cls. (A) and (B).
+Subsec. (d). Pub. L. 101–189, § 933(d)(1), (2), substituted “In this section:” and par. (1) for “In this section, the term ‘allied country’ means—” and redesignated former cls. (1) and (2) as cls. (A) and (B).
 
-Subsec. (d)(1)(A). Pub. L. 101–189, § 933(d)(3), which directed amendment of cl. (A) by substituting a semicolon for “; or” at end, could not be executed because “; or” did not appear.
+Subsec. (d)(1)(A). Pub. L. 101–189, § 933(d)(3), which directed amendment of cl. (A) by substituting a semicolon for “; or” at end, could not be executed because “; or” did not appear.
 
-Subsec. (d)(1)(B). Pub. L. 101–189, § 933(d)(4), substituted “; or” for period at end.
+Subsec. (d)(1)(B). Pub. L. 101–189, § 933(d)(4), substituted “; or” for period at end.
 
-Subsec. (d)(1)(C), (2). Pub. L. 101–189, § 933(d)(5), added cl. (C) and par. (2).
+Subsec. (d)(1)(C), (2). Pub. L. 101–189, § 933(d)(5), added cl. (C) and par. (2).
 
 1987—Subsec. (d). Pub. L. 100–26 inserted “the term” after “In this section,”.
 
-### § 2350g. Authority to accept use of real property, services, and supplies from foreign countries in connection with mutual defense agreements and occupational arrangements
+### § 2350g. Authority to accept use of real property, services, and supplies from foreign countries in connection with mutual defense agreements and occupational arrangements
 
 **(a) Authority To Accept.—** The Secretary of Defense may accept from a foreign country, for the support of any element of the armed forces in an area of that country—
 
@@ -1695,13 +1695,13 @@ Subsec. (d)(1)(C), (2). Pub. L. 101–189, § 933(d)(5), added cl. (C) and par
 
 **(c) Periodic Audits by GAO.—** The Comptroller General of the United States shall make periodic audits of money and property accepted under this section, at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
 
-(Added Pub. L. 101–510, div. A, title XIV, § 1451(b)(1), Nov. 5, 1990, 104 Stat. 1692; amended Pub. L. 103–160, div. A, title XI, § 1105(a), Nov. 30, 1993, 107 Stat. 1749; Pub. L. 106–65, div. A, title X, § 1032(a)(3), Oct. 5, 1999, 113 Stat. 751.)
+(Added Pub. L. 101–510, div. A, title XIV, § 1451(b)(1), Nov. 5, 1990, 104 Stat. 1692; amended Pub. L. 103–160, div. A, title XI, § 1105(a), Nov. 30, 1993, 107 Stat. 1749; Pub. L. 106–65, div. A, title X, § 1032(a)(3), Oct. 5, 1999, 113 Stat. 751.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, § 9008, Nov. 21, 1989, 103 Stat. 1130, which was set out as a note under section 2341 of this title, prior to repeal by Pub. L. 101–510, § 1451(c).
+Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, § 9008, Nov. 21, 1989, 103 Stat. 1130, which was set out as a note under section 2341 of this title, prior to repeal by Pub. L. 101–510, § 1451(c).
 
 **Amendments**
 
@@ -1717,19 +1717,19 @@ Provisions similar to those in this section were contained in Pub. L. 101–165,
 
 1993—Subsec. (d). Pub. L. 103–160 substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text read as follows: “The Comptroller General of the United States shall conduct an annual audit of property, services, and supplies accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”
 
-### § 2350h. Memorandums of agreement: Department of Defense ombudsman for foreign signatories
+### § 2350h. Memorandums of agreement: Department of Defense ombudsman for foreign signatories
 
 The Secretary of Defense shall designate an official to act as ombudsman within the Department of Defense on behalf of foreign governments who are parties to memorandums of agreement with the United States concerning acquisition matters under the jurisdiction of the Secretary of Defense. The official so designated shall assist officials of those foreign governments in understanding and complying with procedures and requirements of the Department of Defense (and, as appropriate, other departments and agencies of the United States) insofar as they relate to any such memorandum of agreement.
 
-(Added Pub. L. 101–510, div. A, title XIV, § 1452(a)(1), Nov. 5, 1990, 104 Stat. 1693.)
+(Added Pub. L. 101–510, div. A, title XIV, § 1452(a)(1), Nov. 5, 1990, 104 Stat. 1693.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline for Designation of Ombudsman**
 
-Pub. L. 101–510, div. A, title XIV, § 1452(b), Nov. 5, 1990, 104 Stat. 1694, provided that the official required to be designated under this section was to be designated by the Secretary of Defense not later than 90 days after Nov. 5, 1990.
+Pub. L. 101–510, div. A, title XIV, § 1452(b), Nov. 5, 1990, 104 Stat. 1694, provided that the official required to be designated under this section was to be designated by the Secretary of Defense not later than 90 days after Nov. 5, 1990.
 
-### § 2350i. Foreign contributions for cooperative projects
+### § 2350i. Foreign contributions for cooperative projects
 
 **(a) Crediting of Contributions.—** Whenever the United States participates in a cooperative project with a friendly foreign country or the North Atlantic Treaty Organization (NATO) on a cost-sharing basis, any contribution received by the United States from that foreign country or NATO to meet its share of the costs of the project may be credited to appropriations available to an appropriate military department or another appropriate organization within the Department of Defense, as determined by the Secretary of Defense.
 
@@ -1761,9 +1761,9 @@ Pub. L. 101–510, div. A, title XIV, § 1452(b), Nov. 5, 1990, 104 Stat. 1694
 
 **(3)** The term “defense service” has the meaning given such term in section 47(4) of the Arms Export Control Act (22 U.S.C. 2794(4)).
 
-(Added Pub. L. 102–190, div. A, title X, § 1047(a), Dec. 5, 1991, 105 Stat. 1467.)
+(Added Pub. L. 102–190, div. A, title X, § 1047(a), Dec. 5, 1991, 105 Stat. 1467.)
 
-### § 2350j. Burden sharing contributions by designated countries and regional organizations
+### § 2350j. Burden sharing contributions by designated countries and regional organizations
 
 **(a) Authority To Accept Contributions.—** The Secretary of Defense, after consultation with the Secretary of State, may accept cash contributions from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State, for the purposes specified in subsection (c).
 
@@ -1849,77 +1849,77 @@ Pub. L. 101–510, div. A, title XIV, § 1452(b), Nov. 5, 1990, 104 Stat. 1694
 
 **(2)** does not include pay, allowances, and other normal benefits to which members of the United States armed forces are entitled.
 
-(Added Pub. L. 103–160, div. A, title XIV, § 1402(a), Nov. 30, 1993, 107 Stat. 1825; amended Pub. L. 103–337, div. A, title X, § 1070(a)(10), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XIII, § 1331, Feb. 10, 1996, 110 Stat. 482; Pub. L. 106–65, div. A, title X, § 1067(1), div. B, title XXVIII, § 2801, Oct. 5, 1999, 113 Stat. 774, 845; Pub. L. 108–136, div. A, title X, §§ 1031(a)(18), 1043(b)(12), Nov. 24, 2003, 117 Stat. 1597, 1611; Pub. L. 115–91, div. A, title X, § 1051(a)(15), div. B, title XXVIII, § 2801(f), Dec. 12, 2017, 131 Stat. 1561, 1845; Pub. L. 116–283, div. A, title XII, § 1299B, Jan. 1, 2021, 134 Stat. 3998; Pub. L. 119–60, div. A, title XII, § 1246, Dec. 18, 2025, 139 Stat. 1105.)
+(Added Pub. L. 103–160, div. A, title XIV, § 1402(a), Nov. 30, 1993, 107 Stat. 1825; amended Pub. L. 103–337, div. A, title X, § 1070(a)(10), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XIII, § 1331, Feb. 10, 1996, 110 Stat. 482; Pub. L. 106–65, div. A, title X, § 1067(1), div. B, title XXVIII, § 2801, Oct. 5, 1999, 113 Stat. 774, 845; Pub. L. 108–136, div. A, title X, §§ 1031(a)(18), 1043(b)(12), Nov. 24, 2003, 117 Stat. 1597, 1611; Pub. L. 115–91, div. A, title X, § 1051(a)(15), div. B, title XXVIII, § 2801(f), Dec. 12, 2017, 131 Stat. 1561, 1845; Pub. L. 116–283, div. A, title XII, § 1299B, Jan. 1, 2021, 134 Stat. 3998; Pub. L. 119–60, div. A, title XII, § 1246, Dec. 18, 2025, 139 Stat. 1105.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Emergencies Act, referred to in subsec. (e)(3), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (e)(3), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 **Codification**
 
-Section, as added by Pub. L. 103–160, consists of text of Pub. L. 102–190, div. A, title X, § 1045, Dec. 5, 1991, 105 Stat. 1465, as amended by Pub. L. 102–484, div. A, title XIII, § 1305(a), (b), Oct. 23, 1992, 106 Stat. 2546, and revised by Pub. L. 103–160, in subsec. (a), by substituting “The Secretary” for “During fiscal years 1992 and 1993, the Secretary”, inserting “, after consultation with the Secretary of State,” after “Secretary of Defense”, and substituting “from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State” for “from Japan, Kuwait, and the Republic of Korea”, and in former subsec. (f), by substituting “each fiscal year” for “each quarter of fiscal years 1992 and 1993”, “Congress” for “congressional defense committees”, “each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)” for “Japan, Kuwait, and the Republic of Korea”, and “the preceding fiscal year” for “the preceding quarter” in pars. (1) and (2).
+Section, as added by Pub. L. 103–160, consists of text of Pub. L. 102–190, div. A, title X, § 1045, Dec. 5, 1991, 105 Stat. 1465, as amended by Pub. L. 102–484, div. A, title XIII, § 1305(a), (b), Oct. 23, 1992, 106 Stat. 2546, and revised by Pub. L. 103–160, in subsec. (a), by substituting “The Secretary” for “During fiscal years 1992 and 1993, the Secretary”, inserting “, after consultation with the Secretary of State,” after “Secretary of Defense”, and substituting “from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State” for “from Japan, Kuwait, and the Republic of Korea”, and in former subsec. (f), by substituting “each fiscal year” for “each quarter of fiscal years 1992 and 1993”, “Congress” for “congressional defense committees”, “each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)” for “Japan, Kuwait, and the Republic of Korea”, and “the preceding fiscal year” for “the preceding quarter” in pars. (1) and (2).
 
 **Amendments**
 
-2025—Subsec. (b). Pub. L. 119–60, § 1246(1), inserted “another country or” before “a regional organization”.
+2025—Subsec. (b). Pub. L. 119–60, § 1246(1), inserted “another country or” before “a regional organization”.
 
-Subsec. (c)(1) to (3). Pub. L. 119–60, § 1246(2)(A)–(C), inserted “in the host nation or another country” before period at end.
+Subsec. (c)(1) to (3). Pub. L. 119–60, § 1246(2)(A)–(C), inserted “in the host nation or another country” before period at end.
 
-Subsec. (c)(4). Pub. L. 119–60, § 1246(2)(D), added par. (4).
+Subsec. (c)(4). Pub. L. 119–60, § 1246(2)(D), added par. (4).
 
-Subsec. (f)(2)(E). Pub. L. 119–60, § 1246(3), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “The amount of such burden sharing contributions expended, by eligible category, including compensation for local national employees, military construction projects, and supplies and services of the Department of Defense.”
+Subsec. (f)(2)(E). Pub. L. 119–60, § 1246(3), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “The amount of such burden sharing contributions expended, by eligible category, including compensation for local national employees, military construction projects, and supplies and services of the Department of Defense.”
 
-Subsec. (g). Pub. L. 119–60, § 1246(4), added subsec. (g).
+Subsec. (g). Pub. L. 119–60, § 1246(4), added subsec. (g).
 
 2021—Subsec. (f). Pub. L. 116–283 added subsec. (f).
 
-2017—Subsec. (e)(2). Pub. L. 115–91, § 2801(f)(2), which directed striking out “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided”, was executed by striking out “or, if earlier, the end of the 14-day period beginning on the date on which a copy of that report is provided” after “regarding the project”, to reflect the probable intent of Congress.
+2017—Subsec. (e)(2). Pub. L. 115–91, § 2801(f)(2), which directed striking out “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided”, was executed by striking out “or, if earlier, the end of the 14-day period beginning on the date on which a copy of that report is provided” after “regarding the project”, to reflect the probable intent of Congress.
 
-Pub. L. 115–91, § 2801(f)(1), substituted “14-day period” for “21-day period”.
+Pub. L. 115–91, § 2801(f)(1), substituted “14-day period” for “21-day period”.
 
-Subsec. (f). Pub. L. 115–91, § 1051(a)(15), struck out subsec. (f). Text read as follows: “Not later than 30 days after the end of each fiscal year, the Secretary of Defense shall submit to Congress a report specifying separately for each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)—
+Subsec. (f). Pub. L. 115–91, § 1051(a)(15), struck out subsec. (f). Text read as follows: “Not later than 30 days after the end of each fiscal year, the Secretary of Defense shall submit to Congress a report specifying separately for each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)—
 
 “(1) the amount of the contributions accepted by the Secretary during the preceding fiscal year under subsection (a) and the purposes for which the contributions were made; and
 
 “(2) the amount of the contributions expended by the Secretary during the preceding fiscal year and the purposes for which the contributions were expended.”
 
-2003—Subsec. (e)(1). Pub. L. 108–136, § 1043(b)(12)(A), substituted “congressional defense committees” for “congressional committees specified in subsection (g)” in introductory provisions.
+2003—Subsec. (e)(1). Pub. L. 108–136, § 1043(b)(12)(A), substituted “congressional defense committees” for “congressional committees specified in subsection (g)” in introductory provisions.
 
-Subsec. (e)(2). Pub. L. 108–136, § 1031(a)(18), inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of that report is provided in an electronic medium pursuant to section 480 of this title”.
+Subsec. (e)(2). Pub. L. 108–136, § 1031(a)(18), inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of that report is provided in an electronic medium pursuant to section 480 of this title”.
 
-Subsec. (e)(3)(B). Pub. L. 108–136, § 1043(b)(12)(A), substituted “congressional defense committees” for “congressional committees specified in subsection (g)” in introductory provisions.
+Subsec. (e)(3)(B). Pub. L. 108–136, § 1043(b)(12)(A), substituted “congressional defense committees” for “congressional committees specified in subsection (g)” in introductory provisions.
 
-Subsec. (g). Pub. L. 108–136, § 1043(b)(12)(B), struck out subsec. (g) which listed the congressional committees referred to in subsec. (e).
+Subsec. (g). Pub. L. 108–136, § 1043(b)(12)(B), struck out subsec. (g) which listed the congressional committees referred to in subsec. (e).
 
-1999—Subsec. (e)(3). Pub. L. 106–65, § 2801(a), added par. (3).
+1999—Subsec. (e)(3). Pub. L. 106–65, § 2801(a), added par. (3).
 
-Subsec. (g). Pub. L. 106–65, § 2801(b), substituted “subsection (e)” for “subsection (e)(1)” in introductory provisions.
+Subsec. (g). Pub. L. 106–65, § 2801(b), substituted “subsection (e)” for “subsection (e)(1)” in introductory provisions.
 
-Subsec. (g)(2). Pub. L. 106–65, § 1067(1), substituted “Committee on Armed Services” for “Committee on National Security”.
+Subsec. (g)(2). Pub. L. 106–65, § 1067(1), substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (b). Pub. L. 104–106, § 1331(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Credit to Appropriations.—Contributions accepted in a fiscal year under subsection (a) shall be credited to appropriations of the Department of Defense that are available for that fiscal year for the purposes for which the contributions are made. The contributions so credited shall be—
+1996—Subsec. (b). Pub. L. 104–106, § 1331(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Credit to Appropriations.—Contributions accepted in a fiscal year under subsection (a) shall be credited to appropriations of the Department of Defense that are available for that fiscal year for the purposes for which the contributions are made. The contributions so credited shall be—
 
 “(1) merged with the appropriations to which they are credited; and
 
 “(2) available for the same time period as those appropriations.”
 
-Subsec. (d). Pub. L. 104–106, § 1331(b), substituted “placed in an account established under subsection (b)” for “credited under subsection (b) to an appropriation account of the Department of Defense”.
+Subsec. (d). Pub. L. 104–106, § 1331(b), substituted “placed in an account established under subsection (b)” for “credited under subsection (b) to an appropriation account of the Department of Defense”.
 
-Subsec. (e)(1). Pub. L. 104–106, § 1331(c)(1), substituted “to the congressional committees specified in subsection (g) a report” for “a report to the congressional defense committees”.
+Subsec. (e)(1). Pub. L. 104–106, § 1331(c)(1), substituted “to the congressional committees specified in subsection (g) a report” for “a report to the congressional defense committees”.
 
-Subsec. (g). Pub. L. 104–106, § 1331(c)(2), added subsec. (g).
+Subsec. (g). Pub. L. 104–106, § 1331(c)(2), added subsec. (g).
 
-1994—Subsec. (a). Pub. L. 103–337, § 1070(a)(10)(A), inserted a comma after second reference to “Secretary of State”.
+1994—Subsec. (a). Pub. L. 103–337, § 1070(a)(10)(A), inserted a comma after second reference to “Secretary of State”.
 
-Subsec. (f). Pub. L. 103–337, § 1070(a)(10)(B), struck out “the” before “Congress” in introductory provisions.
+Subsec. (f). Pub. L. 103–337, § 1070(a)(10)(B), struck out “the” before “Congress” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Temporary Authority for Acceptance and Use of Contributions for Certain Construction, Maintenance, and Repair Projects Mutually Beneficial to the Department of Defense and Kuwait Military Forces**
 
-Pub. L. 114–92, div. B, title XXVIII, § 2804, Nov. 25, 2015, 129 Stat. 1170, as amended by Pub. L. 114–328, div. B, title XXVIII, § 2807, Dec. 23, 2016, 130 Stat. 2715, provided that:
+Pub. L. 114–92, div. B, title XXVIII, § 2804, Nov. 25, 2015, 129 Stat. 1170, as amended by Pub. L. 114–328, div. B, title XXVIII, § 2807, Dec. 23, 2016, 130 Stat. 2715, provided that:
 
 > **“(a) Authority To Accept Contributions.—** The Secretary of Defense, after consultation with the Secretary of State, may accept cash contributions from the government of Kuwait for the purpose of paying for the costs of construction (including military construction not otherwise authorized by law), maintenance, and repair projects mutually beneficial to the Department of Defense and Kuwait military forces.
 
@@ -1943,7 +1943,7 @@ Pub. L. 114–92, div. B, title XXVIII, § 2804, Nov. 25, 2015, 129 Stat. 1170
 
 > **“(f) Expiration of Project Authority.—** The authority to carry out projects under this section expires on September 30, 2030. The expiration of the authority does not prevent the continuation of any project commenced before that date.”
 
-### § 2350k. Relocation within host nation of elements of armed forces overseas
+### § 2350k. Relocation within host nation of elements of armed forces overseas
 
 **(a) Authority To Accept Contributions.—** The Secretary of Defense may accept contributions from any nation because of or in support of the relocation of elements of the armed forces from or to any location within that nation. Such contributions may be accepted in dollars or in the currency of the host nation. Any such contribution shall be placed in an account established for such purpose and shall remain available until expended for the purposes specified in subsection (b). The Secretary shall establish a separate account for such purpose for each country from which such contributions are accepted.
 
@@ -1969,7 +1969,7 @@ Pub. L. 114–92, div. B, title XXVIII, § 2804, Nov. 25, 2015, 129 Stat. 1170
 
 **(3)** Cash, which shall be deposited in a separate trust fund in the United States Treasury pending expenditure and which shall accrue interest in accordance with section 9702 of title 31.
 
-(Added Pub. L. 104–106, div. A, title XIII, § 1332(a)(1), Feb. 10, 1996, 110 Stat. 482; amended Pub. L. 107–314, div. A, title X, § 1041(a)(11), Dec. 2, 2002, 116 Stat. 2645.)
+(Added Pub. L. 104–106, div. A, title XIII, § 1332(a)(1), Feb. 10, 1996, 110 Stat. 482; amended Pub. L. 107–314, div. A, title X, § 1041(a)(11), Dec. 2, 2002, 116 Stat. 2645.)
 
 **Editorial Notes**
 
@@ -1985,9 +1985,9 @@ Pub. L. 114–92, div. B, title XXVIII, § 2804, Nov. 25, 2015, 129 Stat. 1170
 
 **Effective Date**
 
-Pub. L. 104–106, div. A, title XIII, § 1332(b), Feb. 10, 1996, 110 Stat. 484, provided that: “Section 2350k of title 10, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act [Feb. 10, 1996] and shall apply to contributions for relocation of elements of the Armed Forces in or to any nation received on or after such date.”
+Pub. L. 104–106, div. A, title XIII, § 1332(b), Feb. 10, 1996, 110 Stat. 484, provided that: “Section 2350k of title 10, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act [Feb. 10, 1996] and shall apply to contributions for relocation of elements of the Armed Forces in or to any nation received on or after such date.”
 
-### § 2350l. Cooperative agreements for reciprocal use of test facilities: foreign countries and international organizations
+### § 2350l. Cooperative agreements for reciprocal use of test facilities: foreign countries and international organizations
 
 **(a) Authority.—** The Secretary of Defense, with the concurrence of the Secretary of State, may enter into a memorandum of understanding (or other formal agreement) with a foreign country or international organization to provide for the testing, on a reciprocal basis, of defense equipment (1) by the United States using test facilities of that country or organization, and (2) by that country or organization using test facilities of the United States.
 
@@ -2025,13 +2025,13 @@ Pub. L. 104–106, div. A, title XIII, § 1332(b), Feb. 10, 1996, 110 Stat. 48
 
 **(3)** The term “test facility” means a range or other facility at which testing of defense equipment may be carried out.
 
-(Added Pub. L. 107–107, div. A, title XII, § 1213(a), Dec. 28, 2001, 115 Stat. 1250; amended Pub. L. 116–283, div. A, title XVIII, § 1844(b)(1), Jan. 1, 2021, 134 Stat. 4245; Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 2154.)
+(Added Pub. L. 107–107, div. A, title XII, § 1213(a), Dec. 28, 2001, 115 Stat. 1250; amended Pub. L. 116–283, div. A, title XVIII, § 1844(b)(1), Jan. 1, 2021, 134 Stat. 4245; Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 2154.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1844(b)(1), which directed the renumbering of this section as section 4145 of this title, was repealed by Pub. L. 117–81, § 1701(u)(5)(B).
+2021—Pub. L. 116–283, § 1844(b)(1), which directed the renumbering of this section as section 4145 of this title, was repealed by Pub. L. 117–81, § 1701(u)(5)(B).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2041,7 +2041,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-### § 2350m. Participation in European program on multilateral exchange of surface transportation services
+### § 2350m. Participation in European program on multilateral exchange of surface transportation services
 
 **(a) Participation Authorized.—**
 
@@ -2087,7 +2087,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(f) Limitation on Statutory Construction.—** Nothing in this section may be construed to authorize the use of foreign sealift in violation of section 2631.
 
-(Added Pub. L. 116–283, div. A, title XII, § 1202(a), Jan. 1, 2021, 134 Stat. 3908.)
+(Added Pub. L. 116–283, div. A, title XII, § 1202(a), Jan. 1, 2021, 134 Stat. 3908.)
 
 **Editorial Notes**
 
@@ -2099,7 +2099,7 @@ Another section 2350m was renumbered section 2350q of this title.
 
 A prior section 2350m was renumbered section 344 of this title.
 
-### § 2350n. North Atlantic Treaty Organization Joint Force Command
+### § 2350n. North Atlantic Treaty Organization Joint Force Command
 
 **(a) Authorization.—** The Secretary of Defense shall authorize the establishment of, and the participation by members of the armed forces in, the North Atlantic Treaty Organization Joint Force Command (in this section referred to as the “Joint Force Command”), to be established in the United States.
 
@@ -2107,9 +2107,9 @@ A prior section 2350m was renumbered section 344 of this title.
 
 **(c) Availability of Funds.—** Amounts authorized to be appropriated to the Department of Defense shall be available to carry out the purposes of this section.
 
-(Added Pub. L. 116–92, div. A, title XII, § 1249(a), Dec. 20, 2019, 133 Stat. 1664.)
+(Added Pub. L. 116–92, div. A, title XII, § 1249(a), Dec. 20, 2019, 133 Stat. 1664.)
 
-### § 2350o. Participation in programs relating to coordination or exchange of air refueling and air transportation services
+### § 2350o. Participation in programs relating to coordination or exchange of air refueling and air transportation services
 
 **(a) Participation Authorized.—**
 
@@ -2135,13 +2135,13 @@ A prior section 2350m was renumbered section 344 of this title.
 
 **(2)** assign members of the armed forces or Department of Defense civilian personnel to fulfill Department obligations under that arrangement or agreement.
 
-(Added Pub. L. 116–283, div. A, title XII, § 1203(a), Jan. 1, 2021, 134 Stat. 3910.)
+(Added Pub. L. 116–283, div. A, title XII, § 1203(a), Jan. 1, 2021, 134 Stat. 3910.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Authority To Establish a Movement Coordination Center Pacific in the Indo-Pacific Region**
 
-Pub. L. 116–283, div. A, title X, § 1061, Jan. 1, 2021, 134 Stat. 3858, provided that:
+Pub. L. 116–283, div. A, title X, § 1061, Jan. 1, 2021, 134 Stat. 3858, provided that:
 
 > **“(a) Authority To Establish.—**
 
@@ -2169,7 +2169,7 @@ Pub. L. 116–283, div. A, title X, § 1061, Jan. 1, 2021, 134 Stat. 3858, pro
 
 > **“(2)** assign members of the Armed Forces or Department of Defense civilian personnel, within billets authorized for the United States Indo-Pacific Command, to duty at the Center as necessary to fulfill the obligations of the Department of Defense under that arrangement or agreement.”
 
-### § 2350p. Reciprocal patient movement agreements
+### § 2350p. Reciprocal patient movement agreements
 
 **(a) Authority.—** Subject to the availability of appropriations, the Secretary of Defense, with the concurrence of the Secretary of State, may enter into a bilateral or multilateral memorandum of understanding or other formal agreement with one or more governments of partner countries that provides for—
 
@@ -2223,9 +2223,9 @@ Pub. L. 116–283, div. A, title X, § 1061, Jan. 1, 2021, 134 Stat. 3858, pro
 
 **(3) Patient movement.—** The term “patient movement” means the act or process of moving wounded, ill, injured, or other persons (including contaminated, contagious, and potentially exposed patients) to obtain medical, surgical, mental health, or dental care or treatment.
 
-(Added Pub. L. 116–283, div. A, title XII, § 1204(a), Jan. 1, 2021, 134 Stat. 3911.)
+(Added Pub. L. 116–283, div. A, title XII, § 1204(a), Jan. 1, 2021, 134 Stat. 3911.)
 
-### § 2350q. Execution of projects under the North Atlantic Treaty Organization Security Investment Program
+### § 2350q. Execution of projects under the North Atlantic Treaty Organization Security Investment Program
 
 **(a) Authority To Execute Projects.—** When the United States is designated as the Host Nation for purposes of executing a project under the North Atlantic Treaty Organization Security Investment Program (in this section referred to as the “Program”), the Secretary of Defense may accept such designation and carry out such project consistent with the requirements of this section.
 
@@ -2263,7 +2263,7 @@ Pub. L. 116–283, div. A, title X, § 1061, Jan. 1, 2021, 134 Stat. 3858, pro
 
 **(f) Authorized Expenditures Defined.—** In this section, the term “authorized expenditures” means project expenses for which the North Atlantic Treaty Organization has agreed to contribute funding.
 
-(Added Pub. L. 116–283, div. B, title XXV, § 2503(a), Jan. 1, 2021, 134 Stat. 4309; amended Pub. L. 117–81, div. A, title X, § 1081(a)(29), Dec. 27, 2021, 135 Stat. 1921.)
+(Added Pub. L. 116–283, div. B, title XXV, § 2503(a), Jan. 1, 2021, 134 Stat. 4309; amended Pub. L. 117–81, div. A, title X, § 1081(a)(29), Dec. 27, 2021, 135 Stat. 1921.)
 
 **Editorial Notes**
 
@@ -2275,7 +2275,7 @@ Pub. L. 116–283, div. A, title X, § 1061, Jan. 1, 2021, 134 Stat. 3858, pro
 
 **Effective Date**
 
-Pub. L. 116–283, div. B, § 2003, Jan. 1, 2021, 134 Stat. 4295, provided that:
+Pub. L. 116–283, div. B, § 2003, Jan. 1, 2021, 134 Stat. 4295, provided that:
 
 > “Titles XXI through XXVII and title XXIX [see Tables for classification] shall take effect on the later of—
 
@@ -2283,7 +2283,7 @@ Pub. L. 116–283, div. B, § 2003, Jan. 1, 2021, 134 Stat. 4295, provided tha
 
 > **“(2)** the date of the enactment of this Act [Jan. 1, 2021].”
 
-### § 2350r. North Atlantic Treaty Organization Allied Special Operations Forces Command
+### § 2350r. North Atlantic Treaty Organization Allied Special Operations Forces Command
 
 **(a) Authorization.—** Of the amounts authorized to be appropriated for each fiscal year for operation and maintenance for the Army, the Secretary of Defense is authorized to use up to $55,000,000, to be derived from amounts made available for support of North Atlantic Treaty Organization (referred to in this section as “NATO”) operations, for each such fiscal year for the purposes set forth in subsection (b).
 
@@ -2299,25 +2299,25 @@ Pub. L. 116–283, div. B, § 2003, Jan. 1, 2021, 134 Stat. 4295, provided tha
 
 **(5)** to promote interoperability through the development of common equipment standards, tactics, techniques, and procedures, and through execution of a multinational education and training program.
 
-(Added Pub. L. 117–263, div. A, title XII, § 1271(a), Dec. 23, 2022, 136 Stat. 2860; amended Pub. L. 118–159, div. A, title XIII, § 1301(a), Dec. 23, 2024, 138 Stat. 2110.)
+(Added Pub. L. 117–263, div. A, title XII, § 1271(a), Dec. 23, 2022, 136 Stat. 2860; amended Pub. L. 118–159, div. A, title XIII, § 1301(a), Dec. 23, 2024, 138 Stat. 2110.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Pub. L. 118–159, § 1301(a)(1), substituted “Allied Special Operations Forces Command” for “Special Operations Headquarters” in section catchline.
+2024—Pub. L. 118–159, § 1301(a)(1), substituted “Allied Special Operations Forces Command” for “Special Operations Headquarters” in section catchline.
 
-Subsec. (a). Pub. L. 118–159, § 1301(a)(2), substituted “$55,000,000” for “$50,000,000”.
+Subsec. (a). Pub. L. 118–159, § 1301(a)(2), substituted “$55,000,000” for “$50,000,000”.
 
-Subsec. (b). Pub. L. 118–159, § 1301(a)(3), substituted “Allied Special Operations Forces Command” for “Special Operations Headquarters” in introductory provisions.
+Subsec. (b). Pub. L. 118–159, § 1301(a)(3), substituted “Allied Special Operations Forces Command” for “Special Operations Headquarters” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Pub. L. 118–159, div. A, title XIII, § 1301(b), Dec. 23, 2024, 138 Stat. 2110, provided that: “Any reference to the North Atlantic Treaty Organization Special Operations Headquarters or NATO Special Operations Headquarters in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the North Atlantic Treaty Organization Allied Special Operations Forces Command.”
+Pub. L. 118–159, div. A, title XIII, § 1301(b), Dec. 23, 2024, 138 Stat. 2110, provided that: “Any reference to the North Atlantic Treaty Organization Special Operations Headquarters or NATO Special Operations Headquarters in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the North Atlantic Treaty Organization Allied Special Operations Forces Command.”
 
-### § 2350s. Authority to contribute to innovation fund
+### § 2350s. Authority to contribute to innovation fund
 
 **(a) Authority to Contribute to NATO Innovation Fund.—** Within amounts authorized by law for such purpose during the five-year period following the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025, the Secretary of Defense may contribute to the NATO Innovation Fund a total amount of no more than $200,000,000.
 
@@ -2327,7 +2327,7 @@ Pub. L. 118–159, div. A, title XIII, § 1301(b), Dec. 23, 2024, 138 Stat. 21
 
 **(2)** The term “NATO Innovation Fund” means the multi-sovereign, investment venture capital fund of NATO that provides secure investment in dual-use, high-impact technology.
 
-(Added Pub. L. 118–159, div. A, title X, § 1051, Dec. 23, 2024, 138 Stat. 2061.)
+(Added Pub. L. 118–159, div. A, title X, § 1051, Dec. 23, 2024, 138 Stat. 2061.)
 
 **Editorial Notes**
 
@@ -2335,7 +2335,7 @@ Pub. L. 118–159, div. A, title XIII, § 1301(b), Dec. 23, 2024, 138 Stat. 21
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2025, referred to in subsec. (a), is the date of enactment of Pub. L. 118–159, which was approved Dec. 23, 2024.
 
-### § 2350t. Military medical cooperation arrangements among Five Eyes countries
+### § 2350t. Military medical cooperation arrangements among Five Eyes countries
 
 **(a) Authority.—** The Secretary of Defense may enter into a bilateral or multilateral memorandum of understanding or other formal agreement with one or more governments of the Five Eyes countries to support military medical cooperation or improve operational medical interoperability.
 
@@ -2391,4 +2391,4 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **(J)** Any other areas of military medicine designated by the Secretary of Defense.
 
-(Added Pub. L. 119–60, div. A, title VII, § 715(a), Dec. 18, 2025, 139 Stat. 922.)
+(Added Pub. L. 119–60, div. A, title VII, § 715(a), Dec. 18, 2025, 139 Stat. 922.)

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 70—MANSFIELD FELLOWSHIP PROGRAM
 
-## § 6101. Establishment of Fellowship Program
+## § 6101. Establishment of Fellowship Program
 
 **(a) Establishment**
 
@@ -43,7 +43,7 @@ The Center is authorized to accept, use, and dispose of gifts or donations of se
 
 The George P. Shultz National Foreign Affairs Training Center is authorized and encouraged to assist, on a reimbursable basis, in carrying out Japanese language training by the Center through the provision of teachers, classroom space, teaching materials, and facilities, to the extent that such provision is not detrimental to the Institute’s carrying out its other responsibilities under law.
 
-(Pub. L. 103–236, title II, § 252, Apr. 30, 1994, 108 Stat. 428; Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412.)
+(Pub. L. 103–236, title II, § 252, Apr. 30, 1994, 108 Stat. 428; Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412.)
 
 **Editorial Notes**
 
@@ -55,13 +55,13 @@ The George P. Shultz National Foreign Affairs Training Center is authorized and 
 
 **Short Title**
 
-Pub. L. 103–236, title II, § 251, Apr. 30, 1994, 108 Stat. 428, provided that: “This part [part C (§§ 251–257) of title II of Pub. L. 103–236, enacting this chapter] may be cited as the ‘Mike Mansfield Fellowship Act’.”
+Pub. L. 103–236, title II, § 251, Apr. 30, 1994, 108 Stat. 428, provided that: “This part [part C (§§ 251–257) of title II of Pub. L. 103–236, enacting this chapter] may be cited as the ‘Mike Mansfield Fellowship Act’.”
 
 **Transfer of Functions**
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-## § 6102. Program requirements
+## § 6102. Program requirements
 
 The program established under this chapter shall comply with the following requirements:
 
@@ -105,7 +105,7 @@ The program established under this chapter shall comply with the following requi
 
 **(11)** The Center shall provide a report of the audit to the Director of the United States Information Agency no later than six months following the close of the fiscal year for which the audit is made. The report shall set forth the scope of the audit and include such statements, together with the independent auditor’s opinion of those statements, as are necessary to present fairly the Center’s assets and liabilities, surplus or deficit, with reasonable detail, including a statement of the Center’s income and expenses during the year, including a schedule of all contracts and grants requiring payments in excess of $5,000 and any payments of compensation, salaries, or fees at a rate in excess of $5,000 per year. The report shall be produced in sufficient copies for the public.
 
-(Pub. L. 103–236, title II, § 253, Apr. 30, 1994, 108 Stat. 428.)
+(Pub. L. 103–236, title II, § 253, Apr. 30, 1994, 108 Stat. 428.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -113,7 +113,7 @@ The program established under this chapter shall comply with the following requi
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-## § 6103. Separation of Government personnel during fellowships
+## § 6103. Separation of Government personnel during fellowships
 
 **(a) Separation**
 
@@ -131,9 +131,9 @@ Notwithstanding section 8347(*o*), 8713, or 8914 of title 5 and in accordance wi
 
 Funds are available under this section to the extent and in the amounts provided in appropriation Acts.
 
-(Pub. L. 103–236, title II, § 254, Apr. 30, 1994, 108 Stat. 430.)
+(Pub. L. 103–236, title II, § 254, Apr. 30, 1994, 108 Stat. 430.)
 
-## § 6104. Mansfield Fellows on detail from Government service
+## § 6104. Mansfield Fellows on detail from Government service
 
 **(a) In general**
 
@@ -149,9 +149,9 @@ Funds are available under this section to the extent and in the amounts provided
 
 **(b) Status as Government employee**
 
-A fellow detailed under subsection (a) is deemed, for the purpose of preserving allowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore 1
+A fellow detailed under subsection (a) is deemed, for the purpose of preserving allowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore 1
 
-<sup>1</sup>  So in original. Probably should be “therefor”.
+<sup>1</sup> So in original. Probably should be “therefor”.
 
 is deemed to comply with section 5536 of title 5.
 
@@ -163,7 +163,7 @@ Fellows may be detailed under subsection (a) without reimbursement to the United
 
 A fellow detailed under subsection (a) may be paid by the Center for allowances and benefits listed in section 6102(4)(B) of this title.
 
-(Pub. L. 103–236, title II, § 255, Apr. 30, 1994, 108 Stat. 431.)
+(Pub. L. 103–236, title II, § 255, Apr. 30, 1994, 108 Stat. 431.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -171,7 +171,7 @@ A fellow detailed under subsection (a) may be paid by the Center for allowances 
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-## § 6105. Liability for repayments
+## § 6105. Liability for repayments
 
 If any fellow fails to fulfill the fellow’s agreement to pay the United States Information Agency for the expenses incurred by the United States Information Agency in connection with the fellowship, a sum equal to the amount of the expenses of the fellowship shall be recoverable by the United States Information Agency from the fellow (or a legal representative) by—
 
@@ -179,7 +179,7 @@ If any fellow fails to fulfill the fellow’s agreement to pay the United States
 
 **(2)** such other method as is provided by law for the recovery of amounts owing to the Federal Government.
 
-(Pub. L. 103–236, title II, § 256, Apr. 30, 1994, 108 Stat. 432.)
+(Pub. L. 103–236, title II, § 256, Apr. 30, 1994, 108 Stat. 432.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -187,7 +187,7 @@ If any fellow fails to fulfill the fellow’s agreement to pay the United States
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-## § 6106. Definitions
+## § 6106. Definitions
 
 For purposes of this chapter—
 
@@ -207,4 +207,4 @@ For purposes of this chapter—
 
 **(4)** the term “detailee” means an employee of an agency of the United States Government on assignment or loan to the Mansfield Center for Pacific Affairs without a change of position from the agency by which he or she is employed.
 
-(Pub. L. 103–236, title II, § 257, Apr. 30, 1994, 108 Stat. 432.)
+(Pub. L. 103–236, title II, § 257, Apr. 30, 1994, 108 Stat. 432.)

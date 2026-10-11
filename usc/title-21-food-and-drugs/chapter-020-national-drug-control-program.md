@@ -17,11 +17,11 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—OFFICE OF NATIONAL DRUG CONTROL POLICY
 
-### §§ 1501, 1502. Repealed. Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188, as amended by Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234
+### §§ 1501, 1502. Repealed. Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188, as amended by Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234
 
-Section 1501, Pub. L. 100–690, title I, § 1002, Nov. 18, 1988, 102 Stat. 4181, established Office of National Drug Control Policy in Executive Office of President. See section 1702 of this title.
+Section 1501, Pub. L. 100–690, title I, § 1002, Nov. 18, 1988, 102 Stat. 4181, established Office of National Drug Control Policy in Executive Office of President. See section 1702 of this title.
 
-Section 1502, Pub. L. 100–690, title I, § 1003, Nov. 18, 1988, 102 Stat. 4182; Pub. L. 103–322, title IX, §§ 90201, 90202, 90207, Sept. 13, 1994, 108 Stat. 1990, 1991, 1995, related to appointment and duties of Director, Deputy Directors, and Associate Director of Office of National Drug Control Policy. See section 1703 of this title.
+Section 1502, Pub. L. 100–690, title I, § 1003, Nov. 18, 1988, 102 Stat. 4182; Pub. L. 103–322, title IX, §§ 90201, 90202, 90207, Sept. 13, 1994, 108 Stat. 1990, 1991, 1995, related to appointment and duties of Director, Deputy Directors, and Associate Director of Office of National Drug Control Policy. See section 1703 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -31,35 +31,35 @@ Repeal effective Sept. 30, 1997, see section 1009 of Pub. L. 100–690, as amend
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–20, § 1, June 27, 1997, 111 Stat. 224, provided that: “This Act [enacting subchapter II of this chapter and amending former sections 1504, 1506 to 1508 of this title, section 2291 of Title 22, Foreign Relations and Intercourse, and provisions set out as notes under this section] may be cited as the ‘Drug-Free Communities Act of 1997’.”
+Pub. L. 105–20, § 1, June 27, 1997, 111 Stat. 224, provided that: “This Act [enacting subchapter II of this chapter and amending former sections 1504, 1506 to 1508 of this title, section 2291 of Title 22, Foreign Relations and Intercourse, and provisions set out as notes under this section] may be cited as the ‘Drug-Free Communities Act of 1997’.”
 
 **Short Title**
 
-Pub. L. 100–690, § 1, Nov. 18, 1988, 102 Stat. 4181, provided that: “This Act [see Tables for classification] may be cited as the ‘Anti-Drug Abuse Act of 1988’.”
+Pub. L. 100–690, § 1, Nov. 18, 1988, 102 Stat. 4181, provided that: “This Act [see Tables for classification] may be cited as the ‘Anti-Drug Abuse Act of 1988’.”
 
-Pub. L. 100–690, title I, § 1001, Nov. 18, 1988, 102 Stat. 4181, provided that: “This subtitle [subtitle A (§§ 1001–1048) of title I of Pub. L. 100–690, enacting this chapter, amending section 1115 of this title, sections 5312, 5314, and 5315 of Title 5, Government Organization and Employees, section 1105 of Title 31, Money and Finance, and section 402 of Title 50, War and National Defense, repealing sections 1103, 1111 to 1114, 1116, and 1201 to 1204 of this title, enacting provisions set out as notes under sections 1201 and 1501 of this title, and repealing provisions set out as notes under section 1201 of this title may be cited as the ‘National Narcotics Leadership Act of 1988’.”
+Pub. L. 100–690, title I, § 1001, Nov. 18, 1988, 102 Stat. 4181, provided that: “This subtitle [subtitle A (§§ 1001–1048) of title I of Pub. L. 100–690, enacting this chapter, amending section 1115 of this title, sections 5312, 5314, and 5315 of Title 5, Government Organization and Employees, section 1105 of Title 31, Money and Finance, and section 402 of Title 50, War and National Defense, repealing sections 1103, 1111 to 1114, 1116, and 1201 to 1204 of this title, enacting provisions set out as notes under sections 1201 and 1501 of this title, and repealing provisions set out as notes under section 1201 of this title may be cited as the ‘National Narcotics Leadership Act of 1988’.”
 
 **References to Subtitle A of Pub. L. 100–690**
 
-Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234, provided that: “Each reference in Federal law to subtitle A of the Anti-Drug Abuse Act of 1988 [see section 1001 of Pub. L. 100–690, set out above], with the exception of section 1001 of such subtitle, in any provision of law that is in effect on the day before the date of enactment of this Act [June 27, 1997] shall be deemed to be a reference to chapter 1 of the National Narcotics Leadership Act of 1988 [chapter 1 of subtitle A (§§ 1002–1012) of title I of Pub. L. 100–690, see Tables for classification] (as so designated by this section).”
+Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234, provided that: “Each reference in Federal law to subtitle A of the Anti-Drug Abuse Act of 1988 [see section 1001 of Pub. L. 100–690, set out above], with the exception of section 1001 of such subtitle, in any provision of law that is in effect on the day before the date of enactment of this Act [June 27, 1997] shall be deemed to be a reference to chapter 1 of the National Narcotics Leadership Act of 1988 [chapter 1 of subtitle A (§§ 1002–1012) of title I of Pub. L. 100–690, see Tables for classification] (as so designated by this section).”
 
-### § 1502a. Transferred
+### § 1502a. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 100–690, title I, § 1003A, as added Pub. L. 101–510, div. A, title X, § 1011, Nov. 5, 1990, 104 Stat. 1633, and amended, which related to the Counter-Drug Technology Assessment Center, was renumbered section 1008 of Pub. L. 100–690 by Pub. L. 103–322, title IX, § 90204(c)(2), (3), Sept. 13, 1994, 108 Stat. 1994, and transferred to former section 1505 of this title.
+Section, Pub. L. 100–690, title I, § 1003A, as added Pub. L. 101–510, div. A, title X, § 1011, Nov. 5, 1990, 104 Stat. 1633, and amended, which related to the Counter-Drug Technology Assessment Center, was renumbered section 1008 of Pub. L. 100–690 by Pub. L. 103–322, title IX, § 90204(c)(2), (3), Sept. 13, 1994, 108 Stat. 1994, and transferred to former section 1505 of this title.
 
-### §§ 1503 to 1505. Repealed. Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188, as amended by Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234
+### §§ 1503 to 1505. Repealed. Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188, as amended by Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234
 
-Section 1503, Pub. L. 100–690, title I, § 1004, Nov. 18, 1988, 102 Stat. 4184, related to coordination between Office of National Drug Control Policy and executive branch departments and agencies. See section 1704 of this title.
+Section 1503, Pub. L. 100–690, title I, § 1004, Nov. 18, 1988, 102 Stat. 4184, related to coordination between Office of National Drug Control Policy and executive branch departments and agencies. See section 1704 of this title.
 
-Section 1504, Pub. L. 100–690, title I, § 1005, Nov. 18, 1988, 102 Stat. 4185; Pub. L. 103–322, title IX, § 90203, Sept. 13, 1994, 108 Stat. 1991; Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234, related to annual development and submission of National Drug Control Strategy by President to Congress. See section 1705 of this title.
+Section 1504, Pub. L. 100–690, title I, § 1005, Nov. 18, 1988, 102 Stat. 4185; Pub. L. 103–322, title IX, § 90203, Sept. 13, 1994, 108 Stat. 1991; Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234, related to annual development and submission of National Drug Control Strategy by President to Congress. See section 1705 of this title.
 
-Section 1505, Pub. L. 100–690, title I, § 1008, formerly § 1003A, as added Pub. L. 101–510, div. A, title X, § 1011, Nov. 5, 1990, 104 Stat. 1633; renumbered § 1008 and amended Pub. L. 103–322, title IX, § 90204(a), (b), (c)(2), (3), Sept. 13, 1994, 108 Stat. 1993, 1994, established Counter-Drug Technology Assessment Center within Office of National Drug Control Policy.
+Section 1505, Pub. L. 100–690, title I, § 1008, formerly § 1003A, as added Pub. L. 101–510, div. A, title X, § 1011, Nov. 5, 1990, 104 Stat. 1633; renumbered § 1008 and amended Pub. L. 103–322, title IX, § 90204(a), (b), (c)(2), (3), Sept. 13, 1994, 108 Stat. 1993, 1994, established Counter-Drug Technology Assessment Center within Office of National Drug Control Policy.
 
-A prior section 1505, Pub. L. 100–690, title I, § 1008, Nov. 18, 1988, 102 Stat. 4188, provided for an executive reorganization study and report to Congress and the President no later than Jan. 15, 1990, prior to repeal by Pub. L. 103–322, § 90204(c)(1).
+A prior section 1505, Pub. L. 100–690, title I, § 1008, Nov. 18, 1988, 102 Stat. 4188, provided for an executive reorganization study and report to Congress and the President no later than Jan. 15, 1990, prior to repeal by Pub. L. 103–322, § 90204(c)(1).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -67,7 +67,7 @@ A prior section 1505, Pub. L. 100–690, title I, § 1008, Nov. 18, 1988, 102 
 
 Repeal effective Sept. 30, 1997, see section 1009 of Pub. L. 100–690, as amended, which was formerly classified to section 1506 of this title.
 
-### § 1505a. Annual report on development and deployment of narcotics detection technologies
+### § 1505a. Annual report on development and deployment of narcotics detection technologies
 
 **(a) Report requirement**
 
@@ -85,7 +85,7 @@ Not later than December 1st of each year, the Director of the Office of National
 
 **(5)** a detailed timeline for implementation of each project described in paragraph (1).
 
-(Pub. L. 105–85, div. A, title X, § 1034, Nov. 18, 1997, 111 Stat. 1884; Pub. L. 107–296, title XVII, § 1704(e)(10), Nov. 25, 2002, 116 Stat. 2315.)
+(Pub. L. 105–85, div. A, title X, § 1034, Nov. 18, 1997, 111 Stat. 1884; Pub. L. 107–296, title XVII, § 1704(e)(10), Nov. 25, 2002, 116 Stat. 2315.)
 
 **Editorial Notes**
 
@@ -103,13 +103,13 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
-### §§ 1506 to 1508. Repealed. Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188, as amended by Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234; Pub. L. 115–271, title VIII, § 8203(a)(3), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(i)(III), Nov. 27, 2019, 133 Stat. 1157
+### §§ 1506 to 1508. Repealed. Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188, as amended by Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234; Pub. L. 115–271, title VIII, § 8203(a)(3), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(i)(III), Nov. 27, 2019, 133 Stat. 1157
 
-Section 1506, Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188; Pub. L. 103–322, title IX, § 90208(a), Sept. 13, 1994, 108 Stat. 1995; Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234; Pub. L. 115–271, title VIII, § 8203(a)(3), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(i)(III), Nov. 27, 2019, 133 Stat. 1157, repealed this subchapter, and the amendments made by this subchapter, except for section 1007, effective Sept. 30, 1997. Amendment by Pub. L. 115–271, which added another exception for sections 1021 to 1035 of Pub. L. 100–690 (21 U.S.C. 1521 to 1535), and which was not given effect because those sections had not been treated as repealed in light of Pub. L. 105–20, § 2(b), was subsequently repealed by Pub. L. 116–74.
+Section 1506, Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188; Pub. L. 103–322, title IX, § 90208(a), Sept. 13, 1994, 108 Stat. 1995; Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234; Pub. L. 115–271, title VIII, § 8203(a)(3), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(i)(III), Nov. 27, 2019, 133 Stat. 1157, repealed this subchapter, and the amendments made by this subchapter, except for section 1007, effective Sept. 30, 1997. Amendment by Pub. L. 115–271, which added another exception for sections 1021 to 1035 of Pub. L. 100–690 (21 U.S.C. 1521 to 1535), and which was not given effect because those sections had not been treated as repealed in light of Pub. L. 105–20, § 2(b), was subsequently repealed by Pub. L. 116–74.
 
-Section 1507, Pub. L. 100–690, title I, § 1010, Nov. 18, 1988, 102 Stat. 4188; Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234, defined terms for purposes of this subchapter. See section 1701 of this title.
+Section 1507, Pub. L. 100–690, title I, § 1010, Nov. 18, 1988, 102 Stat. 4188; Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234, defined terms for purposes of this subchapter. See section 1701 of this title.
 
-Section 1508, Pub. L. 100–690, title I, § 1011, Nov. 18, 1988, 102 Stat. 4189; Pub. L. 103–322, title IX, § 90206, Sept. 13, 1994, 108 Stat. 1995; Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234, authorized appropriations to carry out this subchapter. See section 1711 of this title.
+Section 1508, Pub. L. 100–690, title I, § 1011, Nov. 18, 1988, 102 Stat. 4189; Pub. L. 103–322, title IX, § 90206, Sept. 13, 1994, 108 Stat. 1995; Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234, authorized appropriations to carry out this subchapter. See section 1711 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -121,9 +121,9 @@ Amendment by Pub. L. 116–74 effective as if included in the enactment of subti
 
 Repeal effective Sept. 30, 1997, see section 1009 of Pub. L. 100–690, which was formerly classified to section 1506 of this title.
 
-### § 1509. Repealed. Pub. L. 109–469, title XI, § 1101(b), Dec. 29, 2006, 120 Stat. 3539
+### § 1509. Repealed. Pub. L. 109–469, title XI, § 1101(b), Dec. 29, 2006, 120 Stat. 3539
 
-Section, Pub. L. 100–690, title VI, § 6073, Nov. 18, 1988, 102 Stat. 4323; Pub. L. 101–647, title XX, § 2001(b), Nov. 29, 1990, 104 Stat. 4854; Pub. L. 102–393, title VI, § 638(c), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 103–322, title IX, § 90205(a), (d), Sept. 13, 1994, 108 Stat. 1994, 1995; Pub. L. 105–277, div. C, title VII, § 712, Oct. 21, 1998, 112 Stat. 2681–692, related to establishment of Special Forfeiture Fund.
+Section, Pub. L. 100–690, title VI, § 6073, Nov. 18, 1988, 102 Stat. 4323; Pub. L. 101–647, title XX, § 2001(b), Nov. 29, 1990, 104 Stat. 4854; Pub. L. 102–393, title VI, § 638(c), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 103–322, title IX, § 90205(a), (d), Sept. 13, 1994, 108 Stat. 1994, 1995; Pub. L. 105–277, div. C, title VII, § 712, Oct. 21, 1998, 112 Stat. 2681–692, related to establishment of Special Forfeiture Fund.
 
 ## SUBCHAPTER II—DRUG-FREE COMMUNITIES
 
@@ -131,9 +131,9 @@ Section, Pub. L. 100–690, title VI, § 6073, Nov. 18, 1988, 102 Stat. 4323; 
 
 **Codification**
 
-This subchapter is chapter 2 of subtitle A of title I of Pub. L. 100–690. Section 1009 of Pub. L. 100–690 [former 21 U.S.C. 1506] repealed subtitle A effective Sept. 30, 1997. However, that repeal was not executed to this subchapter because of Pub. L. 105–20, § 2(a)(1), (b), which not only designated subtitle A as chapter 1 of subtitle A, but also provided that any existing reference to subtitle A was to be deemed to be a reference to chapter 1 of subtitle A (see note set out under former section 1501 of this title). Based on that provision, the repeal was executed in the Code only to subchapter I of this chapter, which comprises chapter 1 of subtitle A, and not to this subchapter, which comprises chapter 2. Nevertheless, Pub. L. 115–271, title VIII, § 8203(a)(1), (2), Oct. 24, 2018, 132 Stat. 4110 (set out as a note under section 1521 of this title), directed the revival and restoration of chapter 2 (this subchapter), except for subchapter II thereof (part B of this subchapter), as in effect on Sept. 29, 1997, and as amended by Pub. L. 107–82 and Pub. L. 109–469.
+This subchapter is chapter 2 of subtitle A of title I of Pub. L. 100–690. Section 1009 of Pub. L. 100–690 [former 21 U.S.C. 1506] repealed subtitle A effective Sept. 30, 1997. However, that repeal was not executed to this subchapter because of Pub. L. 105–20, § 2(a)(1), (b), which not only designated subtitle A as chapter 1 of subtitle A, but also provided that any existing reference to subtitle A was to be deemed to be a reference to chapter 1 of subtitle A (see note set out under former section 1501 of this title). Based on that provision, the repeal was executed in the Code only to subchapter I of this chapter, which comprises chapter 1 of subtitle A, and not to this subchapter, which comprises chapter 2. Nevertheless, Pub. L. 115–271, title VIII, § 8203(a)(1), (2), Oct. 24, 2018, 132 Stat. 4110 (set out as a note under section 1521 of this title), directed the revival and restoration of chapter 2 (this subchapter), except for subchapter II thereof (part B of this subchapter), as in effect on Sept. 29, 1997, and as amended by Pub. L. 107–82 and Pub. L. 109–469.
 
-### § 1521. Findings
+### § 1521. Findings
 
 Congress finds the following:
 
@@ -161,13 +161,13 @@ Congress finds the following:
 
 **(8)** Intergovernmental cooperation and coordination through national, State, and local or tribal leadership and partnerships are critical to facilitate the reduction of substance abuse among youth in communities throughout the United States.
 
-(Pub. L. 100–690, title I, § 1021, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 224.)
+(Pub. L. 100–690, title I, § 1021, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 224.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Reauthorization of the Drug-Free Communities Program and Revival of Anti-Drug Abuse Act of 1988**
 
-Pub. L. 115–271, title VIII, § 8203(a)(1), (2), Oct. 24, 2018, 132 Stat. 4110, 4111, as amended by Pub. L. 116–74, § 2(c)(1)(A)(i)(II), Nov. 27, 2019, 133 Stat. 1157, provided that:
+Pub. L. 115–271, title VIII, § 8203(a)(1), (2), Oct. 24, 2018, 132 Stat. 4110, 4111, as amended by Pub. L. 116–74, § 2(c)(1)(A)(i)(II), Nov. 27, 2019, 133 Stat. 1157, provided that:
 
 > **“(1) In general.—** Chapter 2 of subtitle A of title I of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1521 et seq.), except for subchapter II (21 U.S.C. 1541 et seq.), as in effect on September 29, 1997, and as amended by the laws described in paragraph (2), is revived and restored.
 
@@ -179,7 +179,7 @@ Pub. L. 115–271, title VIII, § 8203(a)(1), (2), Oct. 24, 2018, 132 Stat. 41
 
 **Five-Year Extension of Drug-Free Communities Support Program**
 
-Pub. L. 107–82, § 1(a), Dec. 14, 2001, 115 Stat. 814, provided that:
+Pub. L. 107–82, § 1(a), Dec. 14, 2001, 115 Stat. 814, provided that:
 
 > “Congress makes the following findings:
 
@@ -267,7 +267,7 @@ Pub. L. 107–82, § 1(a), Dec. 14, 2001, 115 Stat. 814, provided that:
 
 **Authorization for National Community Antidrug Coalition Institute**
 
-Pub. L. 107–82, § 4, Dec. 14, 2001, 115 Stat. 821, as amended by Pub. L. 109–469, title VIII, § 805, Dec. 29, 2006, 120 Stat. 3535; Pub. L. 115–271, title VIII, § 8204, Oct. 24, 2018, 132 Stat. 4112; Pub. L. 116–74, § 2(e), Nov. 27, 2019, 133 Stat. 1159, provided that:
+Pub. L. 107–82, § 4, Dec. 14, 2001, 115 Stat. 821, as amended by Pub. L. 109–469, title VIII, § 805, Dec. 29, 2006, 120 Stat. 3535; Pub. L. 115–271, title VIII, § 8204, Oct. 24, 2018, 132 Stat. 4112; Pub. L. 116–74, § 2(e), Nov. 27, 2019, 133 Stat. 1159, provided that:
 
 > **“(a) In General.—** Beginning in fiscal year 2020, the Director shall make a competitive grant to provide for the continuation of the National Community Anti-drug [sic] Coalition Institute.
 
@@ -289,9 +289,9 @@ Pub. L. 107–82, § 4, Dec. 14, 2001, 115 Stat. 821, as amended by Pub. L. 10
 
 **Prohibition Against Duplication of Effort**
 
-Pub. L. 107–82, § 5, Dec. 14, 2001, 115 Stat. 821, provided that: “The Director of the Office of National Drug Control Policy shall ensure that the same or similar activities are not carried out, through the use of funds for administrative costs provided under subchapter II [probably means chapter 2] of the National Narcotics Leadership Act of 1988 (21 U.S.C. 1521 et seq.) or funds provided under section 4 of this Act [set out as a note above], by more than one recipient of such funds.”
+Pub. L. 107–82, § 5, Dec. 14, 2001, 115 Stat. 821, provided that: “The Director of the Office of National Drug Control Policy shall ensure that the same or similar activities are not carried out, through the use of funds for administrative costs provided under subchapter II [probably means chapter 2] of the National Narcotics Leadership Act of 1988 (21 U.S.C. 1521 et seq.) or funds provided under section 4 of this Act [set out as a note above], by more than one recipient of such funds.”
 
-### § 1522. Purposes
+### § 1522. Purposes
 
 The purposes of this subchapter are—
 
@@ -311,23 +311,23 @@ The purposes of this subchapter are—
 
 **(8)** to encourage the creation of and support for community anti-drug coalitions throughout the United States.
 
-(Pub. L. 100–690, title I, § 1022, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 225; amended Pub. L. 115–271, title VIII, § 8203(b)(1), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), Nov. 27, 2019, 133 Stat. 1157.)
+(Pub. L. 100–690, title I, § 1022, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 225; amended Pub. L. 115–271, title VIII, § 8203(b)(1), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), Nov. 27, 2019, 133 Stat. 1157.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(1). See 2018 Amendment note below.
+2019—Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(1). See 2018 Amendment note below.
 
-2018—Pub. L. 115–271, § 8203(b)(1), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse” wherever appearing.
+2018—Pub. L. 115–271, § 8203(b)(1), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–74, § 2(c)(2), Nov. 27, 2019, 133 Stat. 1158, provided that: “The amendments made by this subsection [amending this section, sections 1506, 1523, 1524, 1531 to 1533, 1535, 1541 to 1548, and 1705 of this title, and provisions set out as notes under sections 1521, 1524, and 1532 of this title] shall take effect as if included in the enactment of the Substance Abuse Prevention Act of 2018 (subtitle K of title VIII of Public Law 115–271) [see Tables for classification].”
+Pub. L. 116–74, § 2(c)(2), Nov. 27, 2019, 133 Stat. 1158, provided that: “The amendments made by this subsection [amending this section, sections 1506, 1523, 1524, 1531 to 1533, 1535, 1541 to 1548, and 1705 of this title, and provisions set out as notes under sections 1521, 1524, and 1532 of this title] shall take effect as if included in the enactment of the Substance Abuse Prevention Act of 2018 (subtitle K of title VIII of Public Law 115–271) [see Tables for classification].”
 
-### § 1523. Definitions
+### § 1523. Definitions
 
 In this subchapter:
 
@@ -337,9 +337,9 @@ The term “Administrator” means the Administrator appointed by the Director u
 
 **(2) Advisory Commission**
 
-The term “Advisory Commission” means the Advisory Commission established under section 1541 1
+The term “Advisory Commission” means the Advisory Commission established under section 1541 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -369,9 +369,9 @@ The term “Program” means the program established under section 1531(a) of th
 
 **(9) Substance use and misuse** The term “substance use and misuse” means—
 
-**(A)** the illegal use or misuse of drugs, including substances for which a listing is effect 2
+**(A)** the illegal use or misuse of drugs, including substances for which a listing is effect 2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 under any of schedules I through V under section 812 of this title;
 
@@ -383,19 +383,19 @@ under any of schedules I through V under section 812 of this title;
 
 The term “youth” shall have the meaning provided that term by the Administrator, in consultation with the Advisory Commission.
 
-(Pub. L. 100–690, title I, § 1023, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 225; amended Pub. L. 115–271, title VIII, § 8203(b)(2), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), Nov. 27, 2019, 133 Stat. 1157.)
+(Pub. L. 100–690, title I, § 1023, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 225; amended Pub. L. 115–271, title VIII, § 8203(b)(2), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), Nov. 27, 2019, 133 Stat. 1157.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1541 of this title, referred to in par. (2), was repealed by Pub. L. 115–271, title VIII, § 8203(b)(5), Oct. 24, 2018, 132 Stat. 4112.
+Section 1541 of this title, referred to in par. (2), was repealed by Pub. L. 115–271, title VIII, § 8203(b)(5), Oct. 24, 2018, 132 Stat. 4112.
 
 **Amendments**
 
-2019—Par. (9). Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(2). See 2018 Amendment note below.
+2019—Par. (9). Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(2). See 2018 Amendment note below.
 
-2018—Par. (9). Pub. L. 115–271, § 8203(b)(2), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), added par. (9) and struck out former par. (9) which defined “substance abuse”.
+2018—Par. (9). Pub. L. 115–271, § 8203(b)(2), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), added par. (9) and struck out former par. (9) which defined “substance abuse”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -403,7 +403,7 @@ Section 1541 of this title, referred to in par. (2), was repealed by Pub. L. 115
 
 Amendment by Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under section 1522 of this title.
 
-### § 1524. Authorization of appropriations
+### § 1524. Authorization of appropriations
 
 **(a) In general**
 
@@ -413,23 +413,23 @@ There is authorized to be appropriated to the Office of National Drug Control Po
 
 Not more than 8 percent of the funds appropriated to carry out this subchapter may be used by the Office of National Drug Control Policy to pay administrative costs associated with the responsibilities of the Office under this subchapter.
 
-(Pub. L. 100–690, title I, § 1024, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 226; amended Pub. L. 107–82, § 1(b), (c), Dec. 14, 2001, 115 Stat. 817; Pub. L. 109–469, title VIII, § 801, Dec. 29, 2006, 120 Stat. 3535; Pub. L. 115–271, title VIII, § 8203(a)(3)(A), (b)(3), formerly § 8203(a)(4)(A), (b)(3), Oct. 24, 2018, 132 Stat. 4111, renumbered Pub. L. 116–74, § 2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157; Pub. L. 116–74, § 2(c)(1)(A)(i)(V), (ii)(II), Nov. 27, 2019, 133 Stat. 1157.)
+(Pub. L. 100–690, title I, § 1024, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 226; amended Pub. L. 107–82, § 1(b), (c), Dec. 14, 2001, 115 Stat. 817; Pub. L. 109–469, title VIII, § 801, Dec. 29, 2006, 120 Stat. 3535; Pub. L. 115–271, title VIII, § 8203(a)(3)(A), (b)(3), formerly § 8203(a)(4)(A), (b)(3), Oct. 24, 2018, 132 Stat. 4111, renumbered Pub. L. 116–74, § 2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157; Pub. L. 116–74, § 2(c)(1)(A)(i)(V), (ii)(II), Nov. 27, 2019, 133 Stat. 1157.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(3). See 2018 Amendment note below.
+2019—Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(3). See 2018 Amendment note below.
 
-Pub. L. 116–74, § 2(c)(1)(A)(i)(V), made technical amendment to directory language of Pub. L. 115–271, § 8203(a)(3)(A). See 2018 Amendment note below.
+Pub. L. 116–74, § 2(c)(1)(A)(i)(V), made technical amendment to directory language of Pub. L. 115–271, § 8203(a)(3)(A). See 2018 Amendment note below.
 
-2018—Pub. L. 115–271, § 8203(b)(3), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which related to authorization of appropriations and administrative costs, respectively.
+2018—Pub. L. 115–271, § 8203(b)(3), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which related to authorization of appropriations and administrative costs, respectively.
 
-Pub. L. 115–271, § 8203(a)(3)(A), formerly § 8203(a)(4)(A), as renumbered and amended by Pub. L. 116–74, § 2(c)(1)(A)(i)(IV), (V), amended directory language of Pub. L. 109–469, § 801. See 2006 Amendment notes below.
+Pub. L. 115–271, § 8203(a)(3)(A), formerly § 8203(a)(4)(A), as renumbered and amended by Pub. L. 116–74, § 2(c)(1)(A)(i)(IV), (V), amended directory language of Pub. L. 109–469, § 801. See 2006 Amendment notes below.
 
-2006—Subsec. (a)(11) to (15). Pub. L. 109–469, § 801(a), as amended by Pub. L. 115–271, § 8203(a)(3)(A), added pars. (11) to (15).
+2006—Subsec. (a)(11) to (15). Pub. L. 109–469, § 801(a), as amended by Pub. L. 115–271, § 8203(a)(3)(A), added pars. (11) to (15).
 
-Subsec. (b). Pub. L. 109–469, § 801(b), as amended by Pub. L. 115–271, § 8203(a)(3)(A), amended subsec. (b) generally. Prior to amendment, text read as follows: “Not more than the following percentages of the amounts authorized under subsection (a) of this section may be used to pay administrative costs:
+Subsec. (b). Pub. L. 109–469, § 801(b), as amended by Pub. L. 115–271, § 8203(a)(3)(A), amended subsec. (b) generally. Prior to amendment, text read as follows: “Not more than the following percentages of the amounts authorized under subsection (a) of this section may be used to pay administrative costs:
 
 “(1) 10 percent for fiscal year 1998.
 
@@ -441,9 +441,9 @@ Subsec. (b). Pub. L. 109–469, § 801(b), as amended by Pub. L. 115–271, §
 
 “(5) 6 percent for each of fiscal years 2002 through 2007.”
 
-2001—Subsec. (a)(5) to (10). Pub. L. 107–82, § 1(b), added pars. (5) to (10) and struck out former par. (5) which read as follows: “$43,500,000 for fiscal year 2002.”
+2001—Subsec. (a)(5) to (10). Pub. L. 107–82, § 1(b), added pars. (5) to (10) and struck out former par. (5) which read as follows: “$43,500,000 for fiscal year 2002.”
 
-Subsec. (b)(5). Pub. L. 107–82, § 1(c), added par. (5) and struck out former par. (5) which read as follows: “3 percent for fiscal year 2002.”
+Subsec. (b)(5). Pub. L. 107–82, § 1(c), added par. (5) and struck out former par. (5) which read as follows: “3 percent for fiscal year 2002.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -453,11 +453,11 @@ Amendment by Pub. L. 116–74 effective as if included in the enactment of subti
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–271, title VIII, § 8203(a)(3)(B), formerly § 8203(a)(4)(B), Oct. 24, 2018, 132 Stat. 4111, as renumbered by Pub. L. 116–74, § 2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157, provided that: “The amendments made by subparagraph (A) [amending this section, section 1532 of this title, and provisions set out as a note under section 1532 of this title] shall take effect as though enacted as part of the Office of National Drug Control Policy Reauthorization Act of 2006 (Public Law 109–469; 120 Stat. 3502).”
+Pub. L. 115–271, title VIII, § 8203(a)(3)(B), formerly § 8203(a)(4)(B), Oct. 24, 2018, 132 Stat. 4111, as renumbered by Pub. L. 116–74, § 2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157, provided that: “The amendments made by subparagraph (A) [amending this section, section 1532 of this title, and provisions set out as a note under section 1532 of this title] shall take effect as though enacted as part of the Office of National Drug Control Policy Reauthorization Act of 2006 (Public Law 109–469; 120 Stat. 3502).”
 
 ### Part A—Drug-Free Communities Support Program
 
-#### § 1531. Establishment of drug-free communities support program
+#### § 1531. Establishment of drug-free communities support program
 
 **(a) Establishment**
 
@@ -473,9 +473,9 @@ The Director shall establish a program to support communities in the development
 
 **(c) Administration**
 
-Not later than 30 days after receiving recommendations from the Advisory Commission under section 1542(a)(1) 1
+Not later than 30 days after receiving recommendations from the Advisory Commission under section 1542(a)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the Director shall appoint an Administrator to carry out the Program.
 
@@ -483,19 +483,19 @@ of this title, the Director shall appoint an Administrator to carry out the Prog
 
 The Director may employ any necessary staff and may enter into contracts or agreements with national drug control agencies, including interagency agreements to delegate authority for the execution of grants and for such other activities necessary to carry out this subchapter.
 
-(Pub. L. 100–690, title I, § 1031, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 226; amended Pub. L. 115–271, title VIII, § 8203(b)(4)(A), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), Nov. 27, 2019, 133 Stat. 1157.)
+(Pub. L. 100–690, title I, § 1031, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 226; amended Pub. L. 115–271, title VIII, § 8203(b)(4)(A), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), Nov. 27, 2019, 133 Stat. 1157.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1542(a)(1) of this title, referred to in subsec. (c), was repealed by Pub. L. 115–271, title VIII, § 8203(b)(5), Oct. 24, 2018, 132 Stat. 4112.
+Section 1542(a)(1) of this title, referred to in subsec. (c), was repealed by Pub. L. 115–271, title VIII, § 8203(b)(5), Oct. 24, 2018, 132 Stat. 4112.
 
 **Amendments**
 
-2019—Subsecs. (a), (b)(2). Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(4)(A). See 2018 Amendment note below.
+2019—Subsecs. (a), (b)(2). Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(4)(A). See 2018 Amendment note below.
 
-2018—Subsecs. (a), (b)(2). Pub. L. 115–271, § 8203(b)(4)(A), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse”.
+2018—Subsecs. (a), (b)(2). Pub. L. 115–271, § 8203(b)(4)(A), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -503,7 +503,7 @@ Section 1542(a)(1) of this title, referred to in subsec. (c), was repealed by Pu
 
 Amendment by Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under section 1522 of this title.
 
-#### § 1532. Program authorization
+#### § 1532. Program authorization
 
 **(a) Grant eligibility** To be eligible to receive an initial grant or a renewal grant under this part, a coalition shall meet each of the following criteria:
 
@@ -691,11 +691,11 @@ The Administrator may not afford a higher priority in the award of an additional
 
 **(D) Renewal grants** Subject to clause (iv),1
 
-<sup>1</sup>  So in original. Probably should be “subparagraph (F),”.
+<sup>1</sup> So in original. Probably should be “subparagraph (F),”.
 
-the Administrator may award a renewal grant to a grant recipient under this subparagraph 2
+the Administrator may award a renewal grant to a grant recipient under this subparagraph 2
 
-<sup>2</sup>  So in original. Probably should be “this paragraph”.
+<sup>2</sup> So in original. Probably should be “this paragraph”.
 
 for each fiscal year of the 4-fiscal-year period following the first fiscal year for which the initial additional grant is awarded in an amount not to exceed the following:
 
@@ -723,43 +723,43 @@ Funds appropriated for the substance use and misuse activities of a coalition th
 
 In awarding grants under subsection (b)(1)(A)(i), priority shall be given to a coalition serving economically disadvantaged areas.
 
-(Pub. L. 100–690, title I, § 1032, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 227; amended Pub. L. 107–82, § 1(d), (g), (h), Dec. 14, 2001, 115 Stat. 818, 819; Pub. L. 109–469, title VIII, §§ 802(a), 803, 804, Dec. 29, 2006, 120 Stat. 3535; Pub. L. 115–271, title VIII, § 8203(a)(3)(A), (b)(4), formerly § 8203(a)(4)(A), (b)(4), Oct. 24, 2018, 132 Stat. 4111, renumbered Pub. L. 116–74, § 2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157; Pub. L. 116–74, § 2(c)(1)(A)(i)(V), (ii)(II), (iii), (3), Nov. 27, 2019, 133 Stat. 1157, 1158.)
+(Pub. L. 100–690, title I, § 1032, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 227; amended Pub. L. 107–82, § 1(d), (g), (h), Dec. 14, 2001, 115 Stat. 818, 819; Pub. L. 109–469, title VIII, §§ 802(a), 803, 804, Dec. 29, 2006, 120 Stat. 3535; Pub. L. 115–271, title VIII, § 8203(a)(3)(A), (b)(4), formerly § 8203(a)(4)(A), (b)(4), Oct. 24, 2018, 132 Stat. 4111, renumbered Pub. L. 116–74, § 2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157; Pub. L. 116–74, § 2(c)(1)(A)(i)(V), (ii)(II), (iii), (3), Nov. 27, 2019, 133 Stat. 1157, 1158.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(4). See 2018 Amendment notes below.
+2019—Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(4). See 2018 Amendment notes below.
 
-Pub. L. 116–74, § 2(c)(1)(A)(i)(V), made technical amendment to directory language of Pub. L. 115–271, § 8203(a)(3)(A). See 2018 Amendment note below.
+Pub. L. 116–74, § 2(c)(1)(A)(i)(V), made technical amendment to directory language of Pub. L. 115–271, § 8203(a)(3)(A). See 2018 Amendment note below.
 
-Subsec. (b)(1)(A)(iii). Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), (III), (3), amended directory language of Pub. L. 115–271, § 8203(b)(4)(B). See 2018 Amendment note below.
+Subsec. (b)(1)(A)(iii). Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), (III), (3), amended directory language of Pub. L. 115–271, § 8203(b)(4)(B). See 2018 Amendment note below.
 
-Subsec. (b)(3)(D). Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), (III), (iii), amended directory language of Pub. L. 115–271, § 8203(b)(4)(B). See 2018 Amendment note below.
+Subsec. (b)(3)(D). Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), (III), (iii), amended directory language of Pub. L. 115–271, § 8203(b)(4)(B). See 2018 Amendment note below.
 
-2018—Pub. L. 115–271, § 8203(b)(4)(A), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse” wherever appearing.
+2018—Pub. L. 115–271, § 8203(b)(4)(A), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse” wherever appearing.
 
-Pub. L. 115–271, § 8203(a)(3)(A), formerly § 8203(a)(4)(A), as renumbered and amended by Pub. L. 116–74, § 2(c)(1)(A)(i)(IV), (V), amended directory language of Pub. L. 109–469, §§ 802(a), 803, 804. See 2006 Amendment notes below.
+Pub. L. 115–271, § 8203(a)(3)(A), formerly § 8203(a)(4)(A), as renumbered and amended by Pub. L. 116–74, § 2(c)(1)(A)(i)(IV), (V), amended directory language of Pub. L. 109–469, §§ 802(a), 803, 804. See 2006 Amendment notes below.
 
-Subsec. (b)(1)(A)(iii). Pub. L. 115–271, § 8203(b)(4)(B), which originally directed striking cl. (iii) and inserting a new cl. (iii), was subsequently amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), (III), so that it no longer amended cl. (iii) but amended subsec. (b)(3)(D) instead. In addition, Pub. L. 116–74, § 2(c)(3), restored the prior cl. (iii) as if the amendment made by Pub. L. 115–271, § 8203(b)(4), had never been enacted. See subsec. (b)(3)(D) Amendment note below.
+Subsec. (b)(1)(A)(iii). Pub. L. 115–271, § 8203(b)(4)(B), which originally directed striking cl. (iii) and inserting a new cl. (iii), was subsequently amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), (III), so that it no longer amended cl. (iii) but amended subsec. (b)(3)(D) instead. In addition, Pub. L. 116–74, § 2(c)(3), restored the prior cl. (iii) as if the amendment made by Pub. L. 115–271, § 8203(b)(4), had never been enacted. See subsec. (b)(3)(D) Amendment note below.
 
-Subsec. (b)(3)(D). Pub. L. 115–271, § 8203(b)(4)(B), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), (III), (iii), amended subpar. (D) generally. Prior to amendment, text read as follows: “Subject to subparagraph (F), the Administrator may award a renewal grant to a grant recipient under this paragraph for each of the fiscal years of the 4-fiscal-year period following the fiscal year for which the initial additional grant under subparagraph (A) is awarded in an amount not to exceed amounts as follows:
+Subsec. (b)(3)(D). Pub. L. 115–271, § 8203(b)(4)(B), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), (III), (iii), amended subpar. (D) generally. Prior to amendment, text read as follows: “Subject to subparagraph (F), the Administrator may award a renewal grant to a grant recipient under this paragraph for each of the fiscal years of the 4-fiscal-year period following the fiscal year for which the initial additional grant under subparagraph (A) is awarded in an amount not to exceed amounts as follows:
 
 “(i) For the first and second fiscal years of that 4-fiscal-year period, the amount equal to 80 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
 
 “(ii) For the third and fourth fiscal years of that 4-fiscal-year period, the amount equal to 67 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.”
 
-2006—Subsec. (a)(7). Pub. L. 109–469, § 804, as amended by Pub. L. 115–271, § 8203(a)(3)(A), added par. (7).
+2006—Subsec. (a)(7). Pub. L. 109–469, § 804, as amended by Pub. L. 115–271, § 8203(a)(3)(A), added par. (7).
 
-Subsec. (b)(1)(A)(iv), (2)(C)(i), (3)(F). Pub. L. 109–469, § 803, as amended by Pub. L. 115–271, § 8203(a)(3)(A), substituted “$125,000” for “$100,000”.
+Subsec. (b)(1)(A)(iv), (2)(C)(i), (3)(F). Pub. L. 109–469, § 803, as amended by Pub. L. 115–271, § 8203(a)(3)(A), substituted “$125,000” for “$100,000”.
 
-Subsec. (b)(4). Pub. L. 109–469, § 802(a), as amended by Pub. L. 115–271, § 8203(a)(3)(A), added par. (4).
+Subsec. (b)(4). Pub. L. 109–469, § 802(a), as amended by Pub. L. 115–271, § 8203(a)(3)(A), added par. (4).
 
-2001—Subsec. (b)(3). Pub. L. 107–82, § 1(d), added par. (3).
+2001—Subsec. (b)(3). Pub. L. 107–82, § 1(d), added par. (3).
 
-Subsec. (c). Pub. L. 107–82, § 1(g), added subsec. (c).
+Subsec. (c). Pub. L. 107–82, § 1(g), added subsec. (c).
 
-Subsec. (d). Pub. L. 107–82, § 1(h), added subsec. (d).
+Subsec. (d). Pub. L. 107–82, § 1(h), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -773,7 +773,7 @@ Amendment by section 8203(a)(3)(A) of Pub. L. 115–271 effective as if enacted 
 
 **Waiver of Federal Fund Limitation for the Drug-Free Communities Support Program**
 
-Pub. L. 117–103, div. P, title I, § 161, Mar. 15, 2022, 136 Stat. 801, provided that:
+Pub. L. 117–103, div. P, title I, § 161, Mar. 15, 2022, 136 Stat. 801, provided that:
 
 > **“(a) In General.—** Subject to subsection (b), if the Administrator of the Drug-Free Communities Support Program determines that, as a result of the public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) with respect to COVID–19, an eligible coalition is unable to raise the amount of non-Federal funds, including in-kind contributions, agreed to be raised by the coalition for fiscal year 2020, 2021, or 2022 under an agreement entered into with the Administrator pursuant to paragraph (1)(A) or (3) of section 1032(b) of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1532(b)), the Administrator may, notwithstanding such paragraphs, provide to the eligible coalition the grant or renewal grant, as applicable, for that fiscal year only in an amount—
 
@@ -787,9 +787,9 @@ Pub. L. 117–103, div. P, title I, § 161, Mar. 15, 2022, 136 Stat. 801, prov
 
 **Report to Congress**
 
-Pub. L. 109–469, title VIII, § 802(b), Dec. 29, 2006, 120 Stat. 3535, as amended by Pub. L. 115–271, title VIII, § 8203(a)(3)(A), formerly § 8203(a)(4)(A), Oct. 24, 2018, 132 Stat. 4111, as renumbered by Pub. L. 116–74, § 2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157; Pub. L. 116–74, § 2(c)(1)(A)(i)(V), Nov. 27, 2019, 133 Stat. 1157, provided that: “Not later than 60 days after the date of enactment of this Act [Dec. 29, 2006], the Director of the Office of National Drug Control Policy shall submit to Congress a report detailing the appeals process required by section 1032(b)(4) of the Anti-Drug Abuse Act of 1988 [21 U.S.C. 1532(b)(4)], as added by subsection (a).”
+Pub. L. 109–469, title VIII, § 802(b), Dec. 29, 2006, 120 Stat. 3535, as amended by Pub. L. 115–271, title VIII, § 8203(a)(3)(A), formerly § 8203(a)(4)(A), Oct. 24, 2018, 132 Stat. 4111, as renumbered by Pub. L. 116–74, § 2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157; Pub. L. 116–74, § 2(c)(1)(A)(i)(V), Nov. 27, 2019, 133 Stat. 1157, provided that: “Not later than 60 days after the date of enactment of this Act [Dec. 29, 2006], the Director of the Office of National Drug Control Policy shall submit to Congress a report detailing the appeals process required by section 1032(b)(4) of the Anti-Drug Abuse Act of 1988 [21 U.S.C. 1532(b)(4)], as added by subsection (a).”
 
-#### § 1533. Information collection and dissemination with respect to grant recipients
+#### § 1533. Information collection and dissemination with respect to grant recipients
 
 **(a) Coalition information**
 
@@ -835,19 +835,19 @@ The Administrator shall carry out activities under this subsection in consultati
 
 Amounts for activities under paragraph (2)(B) may not be derived from amounts under section 1524(a) of this title except for amounts that are available under section 1524(b) of this title for administrative costs.
 
-(Pub. L. 100–690, title I, § 1033, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 230; amended Pub. L. 107–82, § 1(e), (f), Dec. 14, 2001, 115 Stat. 818; Pub. L. 115–271, title VIII, § 8203(b)(4)(A), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), Nov. 27, 2019, 133 Stat. 1157.)
+(Pub. L. 100–690, title I, § 1033, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 230; amended Pub. L. 107–82, § 1(e), (f), Dec. 14, 2001, 115 Stat. 818; Pub. L. 115–271, title VIII, § 8203(b)(4)(A), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), Nov. 27, 2019, 133 Stat. 1157.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(4)(A). See 2018 Amendment note below.
+2019—Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(4)(A). See 2018 Amendment note below.
 
-2018—Subsec. (b)(1)(A), (2)(C)(i). Pub. L. 115–271, § 8203(b)(4)(A), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse”.
+2018—Subsec. (b)(1)(A), (2)(C)(i). Pub. L. 115–271, § 8203(b)(4)(A), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse”.
 
-2001—Subsec. (b)(3). Pub. L. 107–82, § 1(e), added par. (3).
+2001—Subsec. (b)(3). Pub. L. 107–82, § 1(e), added par. (3).
 
-Subsec. (b)(4). Pub. L. 107–82, § 1(f), added par. (4).
+Subsec. (b)(4). Pub. L. 107–82, § 1(f), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -855,7 +855,7 @@ Subsec. (b)(4). Pub. L. 107–82, § 1(f), added par. (4).
 
 Amendment by Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under section 1522 of this title.
 
-#### § 1534. Technical assistance and training
+#### § 1534. Technical assistance and training
 
 **(a) In general**
 
@@ -879,9 +879,9 @@ The Administrator may facilitate the coordination of programs between a grant re
 
 **(4)** any other activity related to the purposes of the Program.
 
-(Pub. L. 100–690, title I, § 1034, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 231.)
+(Pub. L. 100–690, title I, § 1034, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 231.)
 
-#### § 1535. Supplemental grants for coalition mentoring activities
+#### § 1535. Supplemental grants for coalition mentoring activities
 
 **(a) Authority to make grants**
 
@@ -945,15 +945,15 @@ The total amount available for grants under this section, including renewal gran
 
 In awarding initial grants under this section, priority shall be given to a coalition that expressly proposes to provide mentorship to a coalition or aspiring coalition serving economically disadvantaged areas.
 
-(Pub. L. 100–690, title I, § 1035, as added Pub. L. 107–82, § 2, Dec. 14, 2001, 115 Stat. 819; amended Pub. L. 115–271, title VIII, § 8203(b)(4)(A), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), Nov. 27, 2019, 133 Stat. 1157.)
+(Pub. L. 100–690, title I, § 1035, as added Pub. L. 107–82, § 2, Dec. 14, 2001, 115 Stat. 819; amended Pub. L. 115–271, title VIII, § 8203(b)(4)(A), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), Nov. 27, 2019, 133 Stat. 1157.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(4)(A). See 2018 Amendment note below.
+2019—Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(4)(A). See 2018 Amendment note below.
 
-2018—Pub. L. 115–271, § 8203(b)(4)(A), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse” wherever appearing.
+2018—Pub. L. 115–271, § 8203(b)(4)(A), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -961,7 +961,7 @@ In awarding initial grants under this section, priority shall be given to a coal
 
 Amendment by Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under section 1522 of this title.
 
-#### § 1536. Community-based coalition enhancement grants to address local drug crises
+#### § 1536. Community-based coalition enhancement grants to address local drug crises
 
 **(a) Definitions** In this section:
 
@@ -1047,7 +1047,7 @@ The Director may enter into an interagency agreement with the Administrator to d
 
 For the purpose of carrying out this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2017 through 2021.
 
-(Pub. L. 114–198, title I, § 103, July 22, 2016, 130 Stat. 699.)
+(Pub. L. 114–198, title I, § 103, July 22, 2016, 130 Stat. 699.)
 
 **Editorial Notes**
 
@@ -1061,23 +1061,23 @@ Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2
 
 ### Part B—Advisory Commission
 
-#### §§ 1541 to 1548. Repealed. Pub. L. 115–271, title VIII, § 8203(b)(5), Oct. 24, 2018, 132 Stat. 4112; Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), Nov. 27, 2019, 133 Stat. 1157
+#### §§ 1541 to 1548. Repealed. Pub. L. 115–271, title VIII, § 8203(b)(5), Oct. 24, 2018, 132 Stat. 4112; Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), Nov. 27, 2019, 133 Stat. 1157
 
-Section 1541, Pub. L. 100–690, title I, § 1041, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 231, established Advisory Commission on Drug-Free Communities.
+Section 1541, Pub. L. 100–690, title I, § 1041, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 231, established Advisory Commission on Drug-Free Communities.
 
-Section 1542, Pub. L. 100–690, title I, § 1042, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 231, related to duties of the Commission.
+Section 1542, Pub. L. 100–690, title I, § 1042, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 231, related to duties of the Commission.
 
-Section 1543, Pub. L. 100–690, title I, § 1043, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 232, related to membership of the Commission.
+Section 1543, Pub. L. 100–690, title I, § 1043, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 232, related to membership of the Commission.
 
-Section 1544, Pub. L. 100–690, title I, § 1044, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 232, related to compensation.
+Section 1544, Pub. L. 100–690, title I, § 1044, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 232, related to compensation.
 
-Section 1545, Pub. L. 100–690, title I, § 1045, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 233, related to terms of office.
+Section 1545, Pub. L. 100–690, title I, § 1045, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 233, related to terms of office.
 
-Section 1546, Pub. L. 100–690, title I, § 1046, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 233, related to Commission meetings.
+Section 1546, Pub. L. 100–690, title I, § 1046, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 233, related to Commission meetings.
 
-Section 1547, Pub. L. 100–690, title I, § 1047, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 233, related to Commission staff.
+Section 1547, Pub. L. 100–690, title I, § 1047, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 233, related to Commission staff.
 
-Section 1548, Pub. L. 100–690, title I, § 1048, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 234; amended Pub. L. 107–82, § 3, Dec. 14, 2001, 115 Stat. 820, terminated the Commission at the end of fiscal year 2007.
+Section 1548, Pub. L. 100–690, title I, § 1048, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 234; amended Pub. L. 107–82, § 3, Dec. 14, 2001, 115 Stat. 820, terminated the Commission at the end of fiscal year 2007.
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 405—CONGRESSIONAL MEDAL OF HONOR SOCIETY OF THE UNITED STATES OF AMERICA"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 405—CONGRESSIONAL MEDAL OF HONOR SOCIETY OF THE UNITED STATES OF AMERICA"
 identifier: "/us/usc/t36/stII/ptB/ch405"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 405—CONGRESSIONAL MEDAL OF HONOR SOCIETY OF THE UNITED STATES OF AMERICA
 
-## § 40501. Organization
+## § 40501. Organization
 
 **(a) Federal Charter.—** Congressional Medal of Honor Society of the United States of America (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -29,12 +29,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40501 | 36:791. | Aug. 14, 1958, Pub. L. 85–642, §§ 1, 2, 72 Stat. 597. |
+| 40501 | 36:791. | Aug. 14, 1958, Pub. L. 85–642, §§ 1, 2, 72 Stat. 597. |
 |  | 36:792. |  |
 
 This section is substituted for 36:791 for consistency in the revised title and to eliminate executed and unnecessary language. The text of 36:792 is omitted as executed and obsolete.
 
-## § 40502. Purposes
+## § 40502. Purposes
 
 The purposes of the corporation are—
 
@@ -58,13 +58,13 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40502 | 36:793. | Aug. 14, 1958, Pub. L. 85–642, § 3, 72 Stat. 598. |
+| 40502 | 36:793. | Aug. 14, 1958, Pub. L. 85–642, § 3, 72 Stat. 598. |
 
 Before clause (1), the word “objects” is omitted as included in “purposes”.
 
 In clause (5), the words “we did” are omitted to avoid the grammatical construction using the first person.
 
-## § 40503. Membership
+## § 40503. Membership
 
 **(a) Eligibility.—** An individual who has been awarded the Medal of Honor as presented by Congress is eligible for membership in the corporation. An honorary membership may not be granted.
 
@@ -76,10 +76,10 @@ In clause (5), the words “we did” are omitted to avoid the grammatical const
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40503(a) | 36:796(a), (b). | Aug. 14, 1958, Pub. L. 85–642, § 6, 72 Stat. 599. |
+| 40503(a) | 36:796(a), (b). | Aug. 14, 1958, Pub. L. 85–642, § 6, 72 Stat. 599. |
 | 40503(b) | 36:796(c). |  |
 
-## § 40504. Governing body
+## § 40504. Governing body
 
 **(a) Board of Directors.—**
 
@@ -103,7 +103,7 @@ In clause (5), the words “we did” are omitted to avoid the grammatical const
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40504(a)(1) | 36:797(a), (c) (1st sentence words before 3d comma). | Aug. 14, 1958, Pub. L. 85–642, §§ 7, 8, 72 Stat. 599. |
+| 40504(a)(1) | 36:797(a), (c) (1st sentence words before 3d comma). | Aug. 14, 1958, Pub. L. 85–642, §§ 7, 8, 72 Stat. 599. |
 | 40504(a)(2) | 36:797(b), (c) (1st sentence words between 3d and 4th commas). |  |
 | 40504(a)(3) | 36:797(c) (last sentence). |  |
 | 40504(a)(4) | 36:797(c) (2d sentence). |  |
@@ -113,7 +113,7 @@ In subsection (a)(1), the text of 36:797(a) (12th–last words) is omitted as ob
 
 In subsection (b)(2), the words “duties, and powers” are substituted for “powers” in 36:798(b) and for “duties” in 36:798(c) to eliminate unnecessary words.
 
-## § 40505. Powers
+## § 40505. Powers
 
 The corporation may—
 
@@ -141,7 +141,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40505 | 36:794. | Aug. 14, 1958, Pub. L. 85–642, §§ 4, 16, 72 Stat. 598, 601. |
+| 40505 | 36:794. | Aug. 14, 1958, Pub. L. 85–642, §§ 4, 16, 72 Stat. 598, 601. |
 |  | 36:806. |  |
 
 In this section, the text of 36:806 is omitted as executed and obsolete.
@@ -158,7 +158,7 @@ In clause (7), the words “issue instruments of indebtedness, and secure its ob
 
 In clause (8), the words “complain and defend in any court of competent jurisdiction” are omitted as unnecessary.
 
-## § 40506. Restrictions
+## § 40506. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -178,7 +178,7 @@ In clause (8), the words “complain and defend in any court of competent jurisd
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40506(a) | 36:802. | Aug. 14, 1958, Pub. L. 85–642, §§ 9(a) (1st sentence words before last comma, last sentence), (b), 10, 12, 72 Stat. 599, 600. |
+| 40506(a) | 36:802. | Aug. 14, 1958, Pub. L. 85–642, §§ 9(a) (1st sentence words before last comma, last sentence), (b), 10, 12, 72 Stat. 599, 600. |
 | 40506(b) | 36:800. |  |
 | 40506(c) | 36:799(a) (1st sentence words before last comma, last sentence). |  |
 | 40506(d) | 36:799(b). |  |
@@ -189,7 +189,7 @@ In subsection (b), the words “support” and “any” are added for consisten
 
 In subsection (c), before clause (1), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. In clause (1), the words “bona fide” are omitted as unnecessary.
 
-## § 40507. Principal office
+## § 40507. Principal office
 
 The principal office of the corporation shall be in the District of Columbia or another place decided by the board of directors. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States.
 
@@ -199,11 +199,11 @@ The principal office of the corporation shall be in the District of Columbia or 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40507 | 36:795(a). | Aug. 14, 1958, Pub. L. 85–642, § 5(a), 72 Stat. 598. |
+| 40507 | 36:795(a). | Aug. 14, 1958, Pub. L. 85–642, § 5(a), 72 Stat. 598. |
 
 The word “various” is omitted as unnecessary. The word “States” is added for clarity and consistency in the revised title.
 
-## § 40508. Records and inspection
+## § 40508. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -221,11 +221,11 @@ The word “various” is omitted as unnecessary. The word “States” is added
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40508 | 36:803. | Aug. 14, 1958, Pub. L. 85–642, § 13, 72 Stat. 600. |
+| 40508 | 36:803. | Aug. 14, 1958, Pub. L. 85–642, § 13, 72 Stat. 600. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 40509. Service of process
+## § 40509. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -235,11 +235,11 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40509 | 36:795(b). | Aug. 14, 1958, Pub. L. 85–642, § 5(b), 72 Stat. 598. |
+| 40509 | 36:795(b). | Aug. 14, 1958, Pub. L. 85–642, § 5(b), 72 Stat. 598. |
 
 The words “at all times” are omitted as unnecessary. The words “service of process” are substituted for “service and process” for consistency in the revised title.
 
-## § 40510. Liability
+## § 40510. Liability
 
 **(a) Liability of Corporation.—** The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -251,10 +251,10 @@ The words “at all times” are omitted as unnecessary. The words “service of
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40510(a) | 36:801. | Aug. 14, 1958, Pub. L. 85–642, §§ 9(a) (1st sentence words after last comma), 11, 72 Stat. 599, 600. |
+| 40510(a) | 36:801. | Aug. 14, 1958, Pub. L. 85–642, §§ 9(a) (1st sentence words after last comma), 11, 72 Stat. 599, 600. |
 | 40510(b) | 36:799(a) (1st sentence words after last comma). |  |
 
-## § 40511. Distribution of assets on dissolution or final liquidation
+## § 40511. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed as provided by the board of directors, but in compliance with the bylaws.
 
@@ -264,6 +264,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40511 | 36:805. | Aug. 14, 1958, Pub. L. 85–642, § 15, 72 Stat. 600. |
+| 40511 | 36:805. | Aug. 14, 1958, Pub. L. 85–642, § 15, 72 Stat. 600. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The words “outstanding” and “all Federal and State laws applicable thereto” are omitted as unnecessary.

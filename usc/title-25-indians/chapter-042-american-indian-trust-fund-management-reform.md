@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 42—AMERICAN INDIAN TRUST FUND MANAGEMENT REFORM
 
-## § 4001. Definitions
+## § 4001. Definitions
 
 For the purposes of this chapter:
 
@@ -31,7 +31,7 @@ For the purposes of this chapter:
 
 **(6)** The term “Department” means the Department of the Interior.
 
-(Pub. L. 103–412, § 2, Oct. 25, 1994, 108 Stat. 4239.)
+(Pub. L. 103–412, § 2, Oct. 25, 1994, 108 Stat. 4239.)
 
 **Editorial Notes**
 
@@ -39,17 +39,17 @@ For the purposes of this chapter:
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 103–412, Oct. 25, 1994, 108 Stat. 4239, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in par. (2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 103–412, § 1(a), Oct. 25, 1994, 108 Stat. 4239, provided that: “This Act [enacting this chapter, amending sections 161a and 162a of this title, and enacting provisions set out as a note under section 161a of this title] may be cited as the ‘American Indian Trust Fund Management Reform Act of 1994’.”
+Pub. L. 103–412, § 1(a), Oct. 25, 1994, 108 Stat. 4239, provided that: “This Act [enacting this chapter, amending sections 161a and 162a of this title, and enacting provisions set out as a note under section 161a of this title] may be cited as the ‘American Indian Trust Fund Management Reform Act of 1994’.”
 
 ## SUBCHAPTER I—RECOGNITION OF TRUST RESPONSIBILITY
 
-### § 4011. Responsibility of Secretary to account for daily and annual balances of Indian trust funds
+### § 4011. Responsibility of Secretary to account for daily and annual balances of Indian trust funds
 
 **(a) Requirement to account**
 
@@ -71,7 +71,7 @@ The Secretary shall account for the daily and annual balance of all funds held i
 
 The Secretary shall cause to be conducted an annual audit on a fiscal year basis of all funds held in trust by the United States for the benefit of an Indian tribe or an individual Indian which are deposited or invested pursuant to section 162a of this title, and shall include a letter relating to the audit in the first statement of performance provided under subsection (b) after the completion of the audit.
 
-(Pub. L. 103–412, title I, § 102, Oct. 25, 1994, 108 Stat. 4240.)
+(Pub. L. 103–412, title I, § 102, Oct. 25, 1994, 108 Stat. 4240.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -89,11 +89,11 @@ Pub. L. 107–63, title I, Nov. 5, 2001, 115 Stat. 435.
 
 Pub. L. 106–291, title I, Oct. 11, 2000, 114 Stat. 939.
 
-Pub. L. 106–113, div. B, § 1000(a)(3) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–153.
+Pub. L. 106–113, div. B, § 1000(a)(3) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–153.
 
-Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–251.
+Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–251.
 
-### § 4012. Authority for payment of claims for interest owed
+### § 4012. Authority for payment of claims for interest owed
 
 The Secretary shall make payments to an individual Indian in full satisfaction of any claim of such individual for interest on amounts deposited or invested on behalf of such individual before October 25, 1994, retroactive to the date that the Secretary began investing individual Indian monies on a regular basis, to the extent that the claim is identified—
 
@@ -101,11 +101,11 @@ The Secretary shall make payments to an individual Indian in full satisfaction o
 
 **(2)** by the individual and presented to the Secretary with supporting documentation, and is verified by the Secretary pursuant to the Department’s policy for addressing accountholder losses.
 
-(Pub. L. 103–412, title I, § 104, Oct. 25, 1994, 108 Stat. 4241.)
+(Pub. L. 103–412, title I, § 104, Oct. 25, 1994, 108 Stat. 4241.)
 
 ## SUBCHAPTER II—INDIAN TRUST FUND MANAGEMENT PROGRAM
 
-### § 4021. Purpose
+### § 4021. Purpose
 
 The purpose of this subchapter is to allow tribes an opportunity to manage tribal funds currently held in trust by the United States and managed by the Secretary through the Bureau, that, consistent with the trust responsibility of the United States and the principles of self-determination, will—
 
@@ -113,9 +113,9 @@ The purpose of this subchapter is to allow tribes an opportunity to manage triba
 
 **(2)** otherwise demonstrate how the principles of self-determination can work with respect to the management of such trust funds, in a manner consistent with the trust responsibility of the United States.
 
-(Pub. L. 103–412, title II, § 201, Oct. 25, 1994, 108 Stat. 4242.)
+(Pub. L. 103–412, title II, § 201, Oct. 25, 1994, 108 Stat. 4242.)
 
-### § 4022. Voluntary withdrawal from trust funds program
+### § 4022. Voluntary withdrawal from trust funds program
 
 **(a) In general**
 
@@ -135,9 +135,9 @@ An Indian tribe may, in accordance with this section, submit a plan to withdraw 
 
 Beginning on the date funds are withdrawn pursuant to this section, any trust responsibility or liability of the United States with respect to such funds shall cease except as provided for in section 4027 of this title.
 
-(Pub. L. 103–412, title II, § 202, Oct. 25, 1994, 108 Stat. 4242.)
+(Pub. L. 103–412, title II, § 202, Oct. 25, 1994, 108 Stat. 4242.)
 
-### § 4023. Judgment funds
+### § 4023. Judgment funds
 
 **(a) In general**
 
@@ -153,15 +153,15 @@ Only such funds held by the Secretary under the terms of the Indian Judgment Fun
 
 **(2)** that only funds held for Indian tribes may be withdrawn and that any funds held for individual tribal members are not to be included in the plan.
 
-(Pub. L. 103–412, title II, § 203, Oct. 25, 1994, 108 Stat. 4242.)
+(Pub. L. 103–412, title II, § 203, Oct. 25, 1994, 108 Stat. 4242.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Judgment Funds Use or Distribution Act, referred to in subsec. (b), probably means the Indian Tribal Judgment Funds Use or Distribution Act, Pub. L. 93–134, Oct. 19, 1973, 87 Stat. 466, which is classified generally to chapter 16 (§ 1401 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Indian Judgment Funds Use or Distribution Act, referred to in subsec. (b), probably means the Indian Tribal Judgment Funds Use or Distribution Act, Pub. L. 93–134, Oct. 19, 1973, 87 Stat. 466, which is classified generally to chapter 16 (§ 1401 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
-### § 4024. Technical assistance
+### § 4024. Technical assistance
 
 The Secretary shall—
 
@@ -169,9 +169,9 @@ The Secretary shall—
 
 **(2)** among other things, ensure that legal, financial, and other expertise of the Department of the Interior has been made fully available in an advisory capacity to the Indian tribes to assist in the development, implementation, and management of investment plans.
 
-(Pub. L. 103–412, title II, § 204, Oct. 25, 1994, 108 Stat. 4243.)
+(Pub. L. 103–412, title II, § 204, Oct. 25, 1994, 108 Stat. 4243.)
 
-### § 4025. Grant program
+### § 4025. Grant program
 
 **(a) General authority**
 
@@ -189,27 +189,27 @@ The Secretary is authorized to award grants to Indian tribes for the purpose of 
 
 **(5)** such other purposes related to this subchapter that the Secretary deems appropriate.
 
-(Pub. L. 103–412, title II, § 205, Oct. 25, 1994, 108 Stat. 4243.)
+(Pub. L. 103–412, title II, § 205, Oct. 25, 1994, 108 Stat. 4243.)
 
-### § 4026. Return of withdrawn funds
+### § 4026. Return of withdrawn funds
 
 Subject to such conditions as the Secretary may prescribe, any Indian tribe which has withdrawn trust funds may choose to return any or all of the trust funds such tribe has withdrawn by notifying the Secretary in writing of its intention to return the funds to the control and management of the Secretary.
 
-(Pub. L. 103–412, title II, § 206, Oct. 25, 1994, 108 Stat. 4243.)
+(Pub. L. 103–412, title II, § 206, Oct. 25, 1994, 108 Stat. 4243.)
 
-### § 4027. Savings provision
+### § 4027. Savings provision
 
 By submitting or approving a plan under this subchapter, neither the tribe nor the Secretary shall be deemed to have accepted the account balance as accurate or to have waived any rights regarding such balance and to seek compensation.
 
-(Pub. L. 103–412, title II, § 207, Oct. 25, 1994, 108 Stat. 4243.)
+(Pub. L. 103–412, title II, § 207, Oct. 25, 1994, 108 Stat. 4243.)
 
-### § 4028. Report to Congress
+### § 4028. Report to Congress
 
 The Secretary shall, beginning one year after October 25, 1994, submit an annual report to the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate on the implementation of programs under this subchapter. Such report shall include recommendations (if any) for changes necessary to better implement the purpose of this subchapter.
 
-(Pub. L. 103–412, title II, § 208, Oct. 25, 1994, 108 Stat. 4243.)
+(Pub. L. 103–412, title II, § 208, Oct. 25, 1994, 108 Stat. 4243.)
 
-### § 4029. Regulations
+### § 4029. Regulations
 
 **(a) In general**
 
@@ -219,11 +219,11 @@ Not later than 12 months after October 25, 1994, the Secretary shall promulgate 
 
 The lack of promulgated regulations shall not limit the effect of this subchapter.
 
-(Pub. L. 103–412, title II, § 209, Oct. 25, 1994, 108 Stat. 4243.)
+(Pub. L. 103–412, title II, § 209, Oct. 25, 1994, 108 Stat. 4243.)
 
 ## SUBCHAPTER III—SPECIAL TRUSTEE FOR AMERICAN INDIANS
 
-### § 4041. Purposes
+### § 4041. Purposes
 
 The purposes of this subchapter are—
 
@@ -233,7 +233,7 @@ The purposes of this subchapter are—
 
 **(3)** to ensure the implementation of all reforms necessary for the proper discharge of the Secretary’s trust responsibilities to Indian tribes and individual Indians.
 
-(Pub. L. 103–412, title III, § 301, Oct. 25, 1994, 108 Stat. 4244.)
+(Pub. L. 103–412, title III, § 301, Oct. 25, 1994, 108 Stat. 4244.)
 
 **Executive Documents**
 
@@ -241,7 +241,7 @@ The purposes of this subchapter are—
 
 The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.
 
-### § 4042. Office of Special Trustee for American Indians
+### § 4042. Office of Special Trustee for American Indians
 
 **(a) Establishment**
 
@@ -271,9 +271,9 @@ Thirty days prior to the termination date proposed in the plan submitted under t
 
 The Office shall terminate 180 legislative days after the date on which the notice to the Congress under paragraph (2) is provided, unless the Congress extends the authorities of the Special Trustee. For the purposes of this section, a legislative day is a day on which either House of the Congress is in session.
 
-(Pub. L. 103–412, title III, § 302, Oct. 25, 1994, 108 Stat. 4244.)
+(Pub. L. 103–412, title III, § 302, Oct. 25, 1994, 108 Stat. 4244.)
 
-### § 4043. Authorities and functions of Special Trustee
+### § 4043. Authorities and functions of Special Trustee
 
 **(a) Comprehensive strategic plan**
 
@@ -383,7 +383,7 @@ The Special Trustee, and his staff, shall have access to all records, reports, a
 
 The Special Trustee shall report to the Secretary and the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate each year on the progress of the Department, the Bureau, the Bureau of Land Management, and the Minerals Management Service in implementing the reforms identified in the comprehensive strategic plan under subsection (a)(1) and in meeting the timetable established in the strategic plan under subsection (a)(2)(C).
 
-(Pub. L. 103–412, title III, § 303, Oct. 25, 1994, 108 Stat. 4245; Pub. L. 104–109, § 6(a), Feb. 12, 1996, 110 Stat. 764.)
+(Pub. L. 103–412, title III, § 303, Oct. 25, 1994, 108 Stat. 4245; Pub. L. 104–109, § 6(a), Feb. 12, 1996, 110 Stat. 764.)
 
 **Editorial Notes**
 
@@ -395,7 +395,7 @@ The Special Trustee shall report to the Secretary and the Committee on Natural R
 
 **Lands Title Report Commission**
 
-Pub. L. 106–569, title V, § 501, Dec. 27, 2000, 114 Stat. 2959, provided that:
+Pub. L. 106–569, title V, § 501, Dec. 27, 2000, 114 Stat. 2959, provided that:
 
 > **“(a) Establishment.—** Subject to sums being provided in advance in appropriations Acts, there is established a Commission to be known as the Lands Title Report Commission (hereafter in this section referred to as the ‘Commission’) to facilitate home loan mortgages on Indian trust lands. The Commission will be subject to oversight by the Committee on Banking and Financial Services [now Committee on Financial Services] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
@@ -451,7 +451,7 @@ Pub. L. 106–569, title V, § 501, Dec. 27, 2000, 114 Stat. 2959, provided th
 
 > **“(h) Termination.—** The Commission shall terminate 1 year after the date of the initial meeting of the Commission.”
 
-Substantially identical provisions were contained in Pub. L. 106–568, title X, § 1001, Dec. 27, 2000, 114 Stat. 2923.
+Substantially identical provisions were contained in Pub. L. 106–568, title X, § 1001, Dec. 27, 2000, 114 Stat. 2923.
 
 **Executive Documents**
 
@@ -459,7 +459,7 @@ Substantially identical provisions were contained in Pub. L. 106–568, title X,
 
 The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.
 
-### § 4044. Reconciliation report
+### § 4044. Reconciliation report
 
 The Secretary shall transmit to the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate, by May 31, 1996, a report identifying for each tribal trust fund account for which the Secretary is responsible a balance reconciled as of September 30, 1995. In carrying out this section, the Secretary shall consult with the Special Trustee. The report shall include—
 
@@ -473,19 +473,19 @@ The Secretary shall transmit to the Committee on Natural Resources of the House 
 
 **(3)** a statement by the Secretary with regard to each account balance disputed by the account holder outlining efforts the Secretary will undertake to resolve the dispute.
 
-(Pub. L. 103–412, title III, § 304, Oct. 25, 1994, 108 Stat. 4248.)
+(Pub. L. 103–412, title III, § 304, Oct. 25, 1994, 108 Stat. 4248.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Settlement of Tribal Claims**
 
-Pub. L. 107–153, § 1, Mar. 19, 2002, 116 Stat. 79, as amended by Pub. L. 109–158, § 1, Dec. 30, 2005, 119 Stat. 2954, provided that:
+Pub. L. 107–153, § 1, Mar. 19, 2002, 116 Stat. 79, as amended by Pub. L. 109–158, § 1, Dec. 30, 2005, 119 Stat. 2954, provided that:
 
 > **“(a) In General.—** Notwithstanding any other provision of law, for purposes of determining the date on which an Indian tribe received a reconciliation report for purposes of applying a statute of limitations, any such report provided to or received by an Indian tribe in response to section 304 of the American Indian Trust Fund Management Reform Act of 1994 (25 U.S.C. 4044) shall be deemed to have been received by the Indian tribe on December 31, 2000.
 
 > **“(b) Statement of Purpose.—** Subsection (a) is solely intended to provide recipients of reconciliation reports with the opportunity to postpone the filing of claims, or to facilitate the voluntary dismissal of claims, to encourage settlement negotiations with the United States.”
 
-### § 4045. Staff and consultants
+### § 4045. Staff and consultants
 
 **(a) Staff**
 
@@ -495,9 +495,9 @@ The Special Trustee may employ such staff as the Special Trustee deems necessary
 
 To the extent and in such amounts as may be provided in advance by appropriations Acts, the Special Trustee may enter into contracts and other arrangements with public agencies and with private persons and organizations for consulting services and make such payments as necessary to carry out the provisions of this subchapter.
 
-(Pub. L. 103–412, title III, § 305, Oct. 25, 1994, 108 Stat. 4248.)
+(Pub. L. 103–412, title III, § 305, Oct. 25, 1994, 108 Stat. 4248.)
 
-### § 4046. Advisory board
+### § 4046. Advisory board
 
 **(a) Establishment and membership** Notwithstanding any other provision of law, the Special Trustee shall establish an advisory board to provide advice on all matters within the jurisdiction of the Special Trustee. The advisory board shall consist of nine members, appointed by the Special Trustee after consultation with Indian tribes and appropriate Indian organizations, of which—
 
@@ -521,7 +521,7 @@ The advisory board shall not be subject to chapter 10 of title 5.
 
 The advisory board shall terminate upon termination of the Office of Special Trustee.
 
-(Pub. L. 103–412, title III, § 306, Oct. 25, 1994, 108 Stat. 4249; Pub. L. 104–109, § 6(b), Feb. 12, 1996, 110 Stat. 764; Pub. L. 117–286, § 4(a)(184), Dec. 27, 2022, 136 Stat. 4326.)
+(Pub. L. 103–412, title III, § 306, Oct. 25, 1994, 108 Stat. 4249; Pub. L. 104–109, § 6(b), Feb. 12, 1996, 110 Stat. 764; Pub. L. 117–286, § 4(a)(184), Dec. 27, 2022, 136 Stat. 4326.)
 
 **Editorial Notes**
 
@@ -535,12 +535,12 @@ The advisory board shall terminate upon termination of the Office of Special Tru
 
 **Appointment of New Members**
 
-Pub. L. 108–7, div. F, title I, § 133, Feb. 20, 2003, 117 Stat. 243, provided that: “Within 90 days of enactment of this Act [Feb. 20, 2003] the Special Trustee for American Indians, in consultation with the Secretary of the Interior and the Tribes, shall appoint new members to the Special Trustee Advisory Board.”
+Pub. L. 108–7, div. F, title I, § 133, Feb. 20, 2003, 117 Stat. 243, provided that: “Within 90 days of enactment of this Act [Feb. 20, 2003] the Special Trustee for American Indians, in consultation with the Secretary of the Interior and the Tribes, shall appoint new members to the Special Trustee Advisory Board.”
 
 ## SUBCHAPTER IV—AUTHORIZATION OF APPROPRIATIONS
 
-### § 4061. Authorization of appropriations
+### § 4061. Authorization of appropriations
 
 There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter.
 
-(Pub. L. 103–412, title IV, § 401, Oct. 25, 1994, 108 Stat. 4249.)
+(Pub. L. 103–412, title IV, § 401, Oct. 25, 1994, 108 Stat. 4249.)

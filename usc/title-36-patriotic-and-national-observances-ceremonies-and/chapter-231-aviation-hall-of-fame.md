@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 231—AVIATION HALL OF FAME"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 231—AVIATION HALL OF FAME"
 identifier: "/us/usc/t36/stII/ptB/ch231"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 231—AVIATION HALL OF FAME
 
-## § 23101. Organization
+## § 23101. Organization
 
 **(a) Federal Charter.—** Aviation Hall of Fame (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -27,14 +27,14 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 23101 | 36:4301. | July 14, 1964, Pub. L. 88–372, §§ 1, 2, 4(1), 78 Stat. 314, 315. |
+| 23101 | 36:4301. | July 14, 1964, Pub. L. 88–372, §§ 1, 2, 4(1), 78 Stat. 314, 315. |
 |  | 36:4302. 36:4304(1). |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
 The text of 36:4302 is omitted as executed and obsolete.
 
-## § 23102. Purposes
+## § 23102. Purposes
 
 The purposes of the corporation are—
 
@@ -58,7 +58,7 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 23102 | 36:4303(1) (1st sentence words before 8th comma, last sentence), (2)–(7). | July 14, 1964, Pub. L. 88–372, § 3(1) (1st sentence words before 8th comma, last sentence), (2)–(7), 78 Stat. 314, 315. |
+| 23102 | 36:4303(1) (1st sentence words before 8th comma, last sentence), (2)–(7). | July 14, 1964, Pub. L. 88–372, § 3(1) (1st sentence words before 8th comma, last sentence), (2)–(7), 78 Stat. 314, 315. |
 
 In clause (1), the words “and apply the whole or” and “therefrom” are omitted as unnecessary. The text of 36:4303(1) (last sentence) is omitted as unnecessary.
 
@@ -68,7 +68,7 @@ In clause (4), the words “foster” and “encourage” are omitted as unneces
 
 In clause (7), the words “any other activities appropriate to carry out the purposes of the corporation” are substituted for “any and all activities incidental thereto or necessary, suitable, or proper for the accomplishment of any of the aforementioned purposes” to eliminate unnecessary words.
 
-## § 23103. Membership
+## § 23103. Membership
 
 **(a) Eligibility.—** Except as provided in this chapter, eligibility for membership in the corporation and the rights, privileges, and designation of classes of members are as provided in the bylaws.
 
@@ -80,12 +80,12 @@ In clause (7), the words “any other activities appropriate to carry out the pu
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 23103(a) | 36:4306(a). | July 14, 1964, Pub. L. 88–372, § 6, 78 Stat. 316. |
+| 23103(a) | 36:4306(a). | July 14, 1964, Pub. L. 88–372, § 6, 78 Stat. 316. |
 | 23103(b) | 36:4306(b). |  |
 
-In subsection (a), the words “are as provided in the bylaws” are substituted for “shall . . . be determined as the bylaws of the corporation may provide” for consistency in the revised title.
+In subsection (a), the words “are as provided in the bylaws” are substituted for “shall . . . be determined as the bylaws of the corporation may provide” for consistency in the revised title.
 
-## § 23104. Governing body
+## § 23104. Governing body
 
 **(a) Board of Trustees.—**
 
@@ -113,7 +113,7 @@ In subsection (a), the words “are as provided in the bylaws” are substituted
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 23104(a) | 36:4307(a)–(c) (1st sentence, last sentence words after semicolon). | July 14, 1964, Pub. L. 88–372, §§ 7–9, 78 Stat. 316. |
+| 23104(a) | 36:4307(a)–(c) (1st sentence, last sentence words after semicolon). | July 14, 1964, Pub. L. 88–372, §§ 7–9, 78 Stat. 316. |
 | 23104(b) | 36:4308. |  |
 | 23104(c) | 36:4307(c) (last sentence words before semicolon). 36:4309. |  |
 
@@ -125,7 +125,7 @@ In subsection (c)(1), the words “from members of the corporation” are substi
 
 In subsection (c)(2), the words “shall nominate” are substituted for “shall be the designated body of the corporation to nominate” in 36:4309(b) for clarity and to eliminate unnecessary words.
 
-## § 23105. Powers
+## § 23105. Powers
 
 The corporation may—
 
@@ -149,7 +149,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 23105 | 36:4304(2)–(9). | July 14, 1964, Pub. L. 88–372, §§ 4(2)–(9), 17, 78 Stat. 315, 318. |
+| 23105 | 36:4304(2)–(9). | July 14, 1964, Pub. L. 88–372, §§ 4(2)–(9), 17, 78 Stat. 315, 318. |
 |  | 36:4317. |  |
 
 In this section, the text of 36:4317 is omitted as executed and obsolete.
@@ -168,7 +168,7 @@ In clause (6), the words “instruments of indebtedness” are substituted for �
 
 In clause (7), the words “complain and defend in any court of competent jurisdiction” are omitted as unnecessary and for consistency in the revised title.
 
-## § 23106. Restrictions
+## § 23106. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -190,7 +190,7 @@ In clause (7), the words “complain and defend in any court of competent jurisd
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 23106(a) | 36:4313. | July 14, 1964, Pub. L. 88–372, §§ 3(1) (1st sentence words after 8th comma), 10, 11, 13, 78 Stat. 314, 317. |
+| 23106(a) | 36:4313. | July 14, 1964, Pub. L. 88–372, §§ 3(1) (1st sentence words after 8th comma), 10, 11, 13, 78 Stat. 314, 317. |
 | 23106(b) | 36:4311. |  |
 | 23106(c) | 36:4310(a). |  |
 | 23106(d) | 36:4310(b). |  |
@@ -202,17 +202,17 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 In subsection (d), the words “or advance” are added in 2 places for consistency in the subsection.
 
-## § 23107. Principal office
+## § 23107. Principal office
 
 The principal office of the corporation shall be in Ohio. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1313; Pub. L. 115–91, div. B, title XXVIII, § 2862, Dec. 12, 2017, 131 Stat. 1868.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1313; Pub. L. 115–91, div. B, title XXVIII, § 2862, Dec. 12, 2017, 131 Stat. 1868.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 23107 | 36:4305(a). | July 14, 1964, Pub. L. 88–372, § 5(a), 78 Stat. 316. |
+| 23107 | 36:4305(a). | July 14, 1964, Pub. L. 88–372, § 5(a), 78 Stat. 316. |
 
 The word “various” is omitted as unnecessary. The words “the Commonwealth of Puerto Rico” are omitted as included in “territories, and possessions of the United States”.
 
@@ -222,7 +222,7 @@ The word “various” is omitted as unnecessary. The words “the Commonwealth 
 
 2017—Pub. L. 115–91 substituted “Ohio” for “Dayton, Ohio, or another place decided by the board of trustees”.
 
-## § 23108. Records and inspection
+## § 23108. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -240,11 +240,11 @@ The word “various” is omitted as unnecessary. The words “the Commonwealth 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 23108 | 36:4314. | July 14, 1964, Pub. L. 88–372, § 14, 78 Stat. 317. |
+| 23108 | 36:4314. | July 14, 1964, Pub. L. 88–372, § 14, 78 Stat. 317. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 23109. Statement required in audit report
+## § 23109. Statement required in audit report
 
 The corporation shall include in the audit report statement required under section 10101(b)(1)(B) of this title a schedule of all contracts requiring payments greater than $10,000 and all payments of compensation or fees at a rate greater than $10,000 a year.
 
@@ -254,7 +254,7 @@ The corporation shall include in the audit report statement required under secti
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 23109 | 36:4315(b) (2d sentence cl. (2)). | July 14, 1964, Pub. L. 88–372, § 15(b) (2d sentence cl. (2)), 78 Stat. 318. |
+| 23109 | 36:4315(b) (2d sentence cl. (2)). | July 14, 1964, Pub. L. 88–372, § 15(b) (2d sentence cl. (2)), 78 Stat. 318. |
 
 The word “salaries” is omitted as unnecessary.
 
@@ -264,7 +264,7 @@ The word “salaries” is omitted as unnecessary.
 
 For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 197 of House Document No. 103–7.
 
-## § 23110. Service of process
+## § 23110. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent is notice to or service on the corporation.
 
@@ -274,11 +274,11 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 23110 | 36:4305(b). | July 14, 1964, Pub. L. 88–372, § 5(b), 78 Stat. 316. |
+| 23110 | 36:4305(b). | July 14, 1964, Pub. L. 88–372, § 5(b), 78 Stat. 316. |
 
 The words “at all times” and “authorized” are omitted as unnecessary.
 
-## § 23111. Liability for acts of officers and agents
+## § 23111. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -288,9 +288,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 23111 | 36:4312. | July 14, 1964, Pub. L. 88–372, § 12, 78 Stat. 317. |
+| 23111 | 36:4312. | July 14, 1964, Pub. L. 88–372, § 12, 78 Stat. 317. |
 
-## § 23112. Distribution of assets on dissolution or final liquidation
+## § 23112. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed as provided by the board of trustees, but consistent with the purposes of the corporation and in compliance with the charter and bylaws.
 
@@ -300,6 +300,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 23112 | 36:4316. | July 14, 1964, Pub. L. 88–372, § 16, 78 Stat. 318. |
+| 23112 | 36:4316. | July 14, 1964, Pub. L. 88–372, § 16, 78 Stat. 318. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The words “outstanding” and “all Federal and State laws applicable thereto” are omitted as unnecessary.

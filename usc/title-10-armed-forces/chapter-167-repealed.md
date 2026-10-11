@@ -15,29 +15,9 @@ retrieved: 2026-10-11
 
 # [CHAPTER 167—REPEALED]
 
-## [§ 2791. Repealed. Pub. L. 104–201, div. A, title XI, § 1121(b), Sept. 23, 1996, 110 Stat. 2687]
+## [§ 2791. Repealed. Pub. L. 104–201, div. A, title XI, § 1121(b), Sept. 23, 1996, 110 Stat. 2687]
 
-Section, added Pub. L. 97–295, § 1(50)(C), Oct. 12, 1982, 96 Stat. 1299, related to establishment and duties of Defense Mapping Agency.
-
-**Statutory Notes and Related Subsidiaries**
-
-**Effective Date of Repeal**
-
-Repeal effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 193 of this title.
-
-## [§ 2792. Renumbered § 451]
-
-## [§ 2793. Renumbered § 452]
-
-## [§ 2794. Renumbered § 453]
-
-## [§ 2795. Renumbered § 454]
-
-## [§ 2796. Renumbered § 455]
-
-## [§ 2797. Repealed. Pub. L. 104–201, div. A, title XI, § 1121(b), Sept. 23, 1996, 110 Stat. 2687]
-
-Section, added Pub. L. 103–337, div. A, title X, § 1074(a), Oct. 5, 1994, 108 Stat. 2861, related to unauthorized use of Defense Mapping Agency name, initials, or seal.
+Section, added Pub. L. 97–295, § 1(50)(C), Oct. 12, 1982, 96 Stat. 1299, related to establishment and duties of Defense Mapping Agency.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -45,4 +25,24 @@ Section, added Pub. L. 103–337, div. A, title X, § 1074(a), Oct. 5, 1994, 1
 
 Repeal effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 193 of this title.
 
-## [§ 2798. Renumbered § 456]
+## [§ 2792. Renumbered § 451]
+
+## [§ 2793. Renumbered § 452]
+
+## [§ 2794. Renumbered § 453]
+
+## [§ 2795. Renumbered § 454]
+
+## [§ 2796. Renumbered § 455]
+
+## [§ 2797. Repealed. Pub. L. 104–201, div. A, title XI, § 1121(b), Sept. 23, 1996, 110 Stat. 2687]
+
+Section, added Pub. L. 103–337, div. A, title X, § 1074(a), Oct. 5, 1994, 108 Stat. 2861, related to unauthorized use of Defense Mapping Agency name, initials, or seal.
+
+**Statutory Notes and Related Subsidiaries**
+
+**Effective Date of Repeal**
+
+Repeal effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 193 of this title.
+
+## [§ 2798. Renumbered § 456]

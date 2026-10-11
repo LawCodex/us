@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 55—ADJUSTABLE INTEREST RATE (LIBOR)
 
-## § 5801. Findings and purpose
+## § 5801. Findings and purpose
 
 **(a) Findings** Congress finds that—
 
@@ -35,7 +35,7 @@ retrieved: 2026-10-11
 
 **(4)** to address LIBOR references in Federal law.
 
-(Pub. L. 117–103, div. U, § 102, Mar. 15, 2022, 136 Stat. 825.)
+(Pub. L. 117–103, div. U, § 102, Mar. 15, 2022, 136 Stat. 825.)
 
 **Editorial Notes**
 
@@ -47,9 +47,9 @@ This chapter, referred to in subsec. (b), was in the original “this division�
 
 **Short Title**
 
-Pub. L. 117–103, div. U, § 101, Mar. 15, 2022, 136 Stat. 825, provided that: “This division [enacting this chapter and amending section 77ppp of Title 15, Commerce and Trade, and section 1087–1 of Title 20, Education] may be cited as the ‘Adjustable Interest Rate (LIBOR) Act’.”
+Pub. L. 117–103, div. U, § 101, Mar. 15, 2022, 136 Stat. 825, provided that: “This division [enacting this chapter and amending section 77ppp of Title 15, Commerce and Trade, and section 1087–1 of Title 20, Education] may be cited as the ‘Adjustable Interest Rate (LIBOR) Act’.”
 
-## § 5802. Definitions
+## § 5802. Definitions
 
 In this chapter:
 
@@ -145,7 +145,7 @@ The term “SOFR” means the Secured Overnight Financing Rate published by the 
 
 **(E)** 0.71513 percent for 12-month LIBOR.
 
-(Pub. L. 117–103, div. U, § 103, Mar. 15, 2022, 136 Stat. 826.)
+(Pub. L. 117–103, div. U, § 103, Mar. 15, 2022, 136 Stat. 826.)
 
 **Editorial Notes**
 
@@ -153,7 +153,7 @@ The term “SOFR” means the Secured Overnight Financing Rate published by the 
 
 This chapter, referred to in text, was in the original “this division”, meaning div. U of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 825, known as the Adjustable Interest Rate (LIBOR) Act, which is classified principally to this chapter. For complete classification of div. U to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-## § 5803. LIBOR contracts
+## § 5803. LIBOR contracts
 
 **(a) In general** On the LIBOR replacement date, the Board-selected benchmark replacement shall be the benchmark replacement for any LIBOR contract that, after giving any effect to subsection (b)—
 
@@ -231,7 +231,7 @@ Except as provided in paragraph (2), on the LIBOR replacement date, the Board sh
 
 **(6)** except as provided in section 5804(c) of this title, the rights or obligations of any person, or the authorities of any agency, under Federal consumer financial law, as defined in section 5481 of this title.
 
-(Pub. L. 117–103, div. U, § 104, Mar. 15, 2022, 136 Stat. 828.)
+(Pub. L. 117–103, div. U, § 104, Mar. 15, 2022, 136 Stat. 828.)
 
 **Editorial Notes**
 
@@ -239,7 +239,7 @@ Except as provided in paragraph (2), on the LIBOR replacement date, the Board sh
 
 This chapter, referred to in subsec. (f), was in the original “this division”, meaning div. U of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 825, known as the Adjustable Interest Rate (LIBOR) Act, which is classified principally to this chapter. For complete classification of div. U to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-## § 5804. Continuity of contract and safe harbor
+## § 5804. Continuity of contract and safe harbor
 
 **(a) In general** A Board-selected benchmark replacement and the selection or use of a Board-selected benchmark replacement as a benchmark replacement under or with respect to a LIBOR contract, and any benchmark replacement conforming changes, shall constitute—
 
@@ -251,13 +251,13 @@ This chapter, referred to in subsec. (f), was in the original “this division�
 
 **(4)** substantial performance by any person of any right or obligation relating to or based on LIBOR; and
 
-**(5)** a replacement that has historical fluctuations that are substantially similar to those of LIBOR for purposes of the Truth in Lending Act (15 U.S.C. 1601 note) 1
+**(5)** a replacement that has historical fluctuations that are substantially similar to those of LIBOR for purposes of the Truth in Lending Act (15 U.S.C. 1601 note) 1
 
-<sup>1</sup>  So in original. Probably should be “(15 U.S.C. 1601 et seq.)”.
+<sup>1</sup> So in original. Probably should be “(15 U.S.C. 1601 et seq.)”.
 
 and regulations promulgated under that division.2
 
-<sup>2</sup>  So in original. Probably should be “that Act.”
+<sup>2</sup> So in original. Probably should be “that Act.”
 
 **(b) No impairment** Neither the selection or use of a Board-selected benchmark replacement as a benchmark replacement nor the determination, implementation, or performance of benchmark replacement conforming changes under section 5803 of this title may—
 
@@ -289,9 +289,9 @@ in each case after giving effect to the provisions of section 5803 of this title
 
 **(2)** prejudice, impair, or affect the rights, interests, or obligations of any person under or with respect to any LIBOR contract.
 
-**(e) No negative inference** Except as provided in subsections 3
+**(e) No negative inference** Except as provided in subsections 3
 
-<sup>3</sup>  So in original. Probably should be “subsection”.
+<sup>3</sup> So in original. Probably should be “subsection”.
 
 (a), (b), or (c)(1) of section 5803 of this title, nothing in this chapter may be construed to create any negative inference or negative presumption regarding the validity or enforceability of—
 
@@ -299,17 +299,17 @@ in each case after giving effect to the provisions of section 5803 of this title
 
 **(2)** any changes, alterations, or modifications to or with respect to a LIBOR contract that are not benchmark replacement conforming changes.
 
-(Pub. L. 117–103, div. U, § 105, Mar. 15, 2022, 136 Stat. 830.)
+(Pub. L. 117–103, div. U, § 105, Mar. 15, 2022, 136 Stat. 830.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Truth in Lending Act, referred to in subsec. (a)(5), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 101 of Pub. L. 90–321, set out as a Short Title note under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec. (a)(5), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 101 of Pub. L. 90–321, set out as a Short Title note under section 1601 of Title 15 and Tables.
 
 This chapter, referred to in subsecs. (c) and (e), was in the original “this division”, meaning div. U of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 825, known as the Adjustable Interest Rate (LIBOR) Act, which is classified principally to this chapter. For complete classification of div. U to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-## § 5805. Benchmark for loans
+## § 5805. Benchmark for loans
 
 **(a) Definitions** In this section:
 
@@ -341,9 +341,9 @@ The term “non-IBOR loan” means any loan that, by its terms, does not use in 
 
 **(2)** no Federal supervisory agency may take any covered action against the bank solely because that benchmark is not SOFR.
 
-(Pub. L. 117–103, div. U, § 106, Mar. 15, 2022, 136 Stat. 831.)
+(Pub. L. 117–103, div. U, § 106, Mar. 15, 2022, 136 Stat. 831.)
 
-## § 5806. Preemption
+## § 5806. Preemption
 
 This chapter, and regulations promulgated under this chapter, shall supersede any provision of any State or local law, statute, rule, regulation, or standard—
 
@@ -351,7 +351,7 @@ This chapter, and regulations promulgated under this chapter, shall supersede an
 
 **(2)** expressly limiting the manner of calculating interest, including the compounding of interest, as that provision applies to the selection or use of a Board-selected benchmark replacement or benchmark replacement conforming changes.
 
-(Pub. L. 117–103, div. U, § 107, Mar. 15, 2022, 136 Stat. 832.)
+(Pub. L. 117–103, div. U, § 107, Mar. 15, 2022, 136 Stat. 832.)
 
 **Editorial Notes**
 
@@ -359,11 +359,11 @@ This chapter, and regulations promulgated under this chapter, shall supersede an
 
 This chapter, referred to in text, was in the original “this division”, meaning div. U of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 825, known as the Adjustable Interest Rate (LIBOR) Act, which is classified principally to this chapter. For complete classification of div. U to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-## § 5807. Rulemaking
+## § 5807. Rulemaking
 
 Not later than 180 days after March 15, 2022, the Board shall promulgate regulations to carry out this chapter.
 
-(Pub. L. 117–103, div. U, § 110, Mar. 15, 2022, 136 Stat. 834.)
+(Pub. L. 117–103, div. U, § 110, Mar. 15, 2022, 136 Stat. 834.)
 
 **Editorial Notes**
 

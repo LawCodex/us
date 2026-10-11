@@ -19,85 +19,85 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title XI, § 1109, Dec. 18, 2025, 139 Stat. 1075, added item 1599e.
+2025—Pub. L. 119–60, div. A, title XI, § 1109, Dec. 18, 2025, 139 Stat. 1075, added item 1599e.
 
-2022—Pub. L. 117–263, div. A, title XI, § 1101(b), Dec. 23, 2022, 136 Stat. 2815, added item 1599j.
+2022—Pub. L. 117–263, div. A, title XI, § 1101(b), Dec. 23, 2022, 136 Stat. 2815, added item 1599j.
 
-2021—Pub. L. 117–81, div. A, title XI, § 1106(b)(1), title XVII, § 1701(w)(1), Dec. 27, 2021, 135 Stat. 1950, 2154, struck out items 1599e “Probationary period for employees” and 1599h “Personnel management authority to attract experts in science and engineering”.
+2021—Pub. L. 117–81, div. A, title XI, § 1106(b)(1), title XVII, § 1701(w)(1), Dec. 27, 2021, 135 Stat. 1950, 2154, struck out items 1599e “Probationary period for employees” and 1599h “Personnel management authority to attract experts in science and engineering”.
 
-Pub. L. 116–283, div. A, title II, § 241(c)(2), title XI, § 1120(d), Jan. 1, 2021, 134 Stat. 3487, 3900, added items 1596c and 1599i.
+Pub. L. 116–283, div. A, title II, § 241(c)(2), title XI, § 1120(d), Jan. 1, 2021, 134 Stat. 3487, 3900, added items 1596c and 1599i.
 
-2016—Pub. L. 114–328, div. A, title XI, §§ 1104(b), 1121(a)(2), Dec. 23, 2016, 130 Stat. 2447, 2452, added items 1599g and 1599h.
+2016—Pub. L. 114–328, div. A, title XI, §§ 1104(b), 1121(a)(2), Dec. 23, 2016, 130 Stat. 2447, 2452, added items 1599g and 1599h.
 
-2015—Pub. L. 114–92, div. A, title XI, §§ 1105(a)(2), 1107(c), Nov. 25, 2015, 129 Stat. 1024, 1027, added items 1599e and 1599f.
+2015—Pub. L. 114–92, div. A, title XI, §§ 1105(a)(2), 1107(c), Nov. 25, 2015, 129 Stat. 1024, 1027, added items 1599e and 1599f.
 
-2011—Pub. L. 112–81, div. A, title X, § 1051(b), Dec. 31, 2011, 125 Stat. 1582, added item 1599d and struck out former item 1599d “Professional accounting positions: authority to prescribe certification and credential standards”.
+2011—Pub. L. 112–81, div. A, title X, § 1051(b), Dec. 31, 2011, 125 Stat. 1582, added item 1599d and struck out former item 1599d “Professional accounting positions: authority to prescribe certification and credential standards”.
 
-2008—Pub. L. 110–181, div. A, title XVI, § 1636(b), Jan. 28, 2008, 122 Stat. 464, added item 1599c and struck out former item 1599c “Appointment in excepted service of certain health care professionals”.
+2008—Pub. L. 110–181, div. A, title XVI, § 1636(b), Jan. 28, 2008, 122 Stat. 464, added item 1599c and struck out former item 1599c “Appointment in excepted service of certain health care professionals”.
 
-2004—Pub. L. 108–375, div. A, title XI, § 1104(b), Oct. 28, 2004, 118 Stat. 2074, added item 1587a.
+2004—Pub. L. 108–375, div. A, title XI, § 1104(b), Oct. 28, 2004, 118 Stat. 2074, added item 1587a.
 
-Pub. L. 108–375, div. A, title X, § 1084(g), Oct. 28, 2004, 118 Stat. 2064, amended directory language of Pub. L. 107–314, § 1064(a)(2), effective Dec. 2, 2002, as if included in Pub. L. 107–314 as enacted. See 2002 Amendment note below.
+Pub. L. 108–375, div. A, title X, § 1084(g), Oct. 28, 2004, 118 Stat. 2064, amended directory language of Pub. L. 107–314, § 1064(a)(2), effective Dec. 2, 2002, as if included in Pub. L. 107–314 as enacted. See 2002 Amendment note below.
 
-2002—Pub. L. 107–314, div. A, title XI, § 1104(a)(2), Dec. 2, 2002, 116 Stat. 2661, added item 1599d.
+2002—Pub. L. 107–314, div. A, title XI, § 1104(a)(2), Dec. 2, 2002, 116 Stat. 2661, added item 1599d.
 
-Pub. L. 107–314, div. A, title X, § 1064(a)(2), Dec. 2, 2002, 116 Stat. 2654, as amended by Pub. L. 108–375, div. A, title X, § 1084(g), Oct. 28, 2004, 118 Stat. 2064, added item 1596b.
+Pub. L. 107–314, div. A, title X, § 1064(a)(2), Dec. 2, 2002, 116 Stat. 2654, as amended by Pub. L. 108–375, div. A, title X, § 1084(g), Oct. 28, 2004, 118 Stat. 2064, added item 1596b.
 
-2001—Pub. L. 107–107, div. A, title XI, § 1104(b), Dec. 28, 2001, 115 Stat. 1238, added item 1599c.
+2001—Pub. L. 107–107, div. A, title XI, § 1104(b), Dec. 28, 2001, 115 Stat. 1238, added item 1599c.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title VII, § 751(c)(2), title XI, §§ 1102(b), 1131(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–194, 1654A–311, 1654A–317, added items 1580a, 1582, 1596, and 1596a and struck out former item 1596 “Foreign language proficiency: special pay”.
+2000—Pub. L. 106–398, § 1 [[div. A], title VII, § 751(c)(2), title XI, §§ 1102(b), 1131(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–194, 1654A–311, 1654A–317, added items 1580a, 1582, 1596, and 1596a and struck out former item 1596 “Foreign language proficiency: special pay”.
 
-1999—Pub. L. 106–65, div. A, title XI, § 1103(b)(2), Oct. 5, 1999, 113 Stat. 777, added item 1580.
+1999—Pub. L. 106–65, div. A, title XI, § 1103(b)(2), Oct. 5, 1999, 113 Stat. 777, added item 1580.
 
-1998—Pub. L. 105–339, § 6(c)(1)(B), Oct. 31, 1998, 112 Stat. 3188, struck out item 1599c “Veterans’ preference requirements: Department of Defense failure to comply treated as a prohibited personnel practice”.
+1998—Pub. L. 105–339, § 6(c)(1)(B), Oct. 31, 1998, 112 Stat. 3188, struck out item 1599c “Veterans’ preference requirements: Department of Defense failure to comply treated as a prohibited personnel practice”.
 
-1997—Pub. L. 105–85, div. A, title V, § 593(b)(2), title X, § 1071(b), Nov. 18, 1997, 111 Stat. 1764, 1898, added items 1585a and 1589.
+1997—Pub. L. 105–85, div. A, title V, § 593(b)(2), title X, § 1071(b), Nov. 18, 1997, 111 Stat. 1764, 1898, added items 1585a and 1589.
 
-1996—Pub. L. 104–201, div. A, title X, § 1074(a)(7), title XVI, §§ 1604(b), 1614(b)(2), 1615(a)(2), 1633(c)(2), Sept. 23, 1996, 110 Stat. 2659, 2736, 2739, 2741, 2751, struck out items 1589 “Prohibition on payment of lodging expenses when adequate Government quarters are available”, 1590 “Management of civilian intelligence personnel of the military departments”, and 1599 “Postemployment assistance: certain terminated intelligence employees”, struck out “Sec.” at beginning of item 1599a, and added items 1599b and 1599c.
+1996—Pub. L. 104–201, div. A, title X, § 1074(a)(7), title XVI, §§ 1604(b), 1614(b)(2), 1615(a)(2), 1633(c)(2), Sept. 23, 1996, 110 Stat. 2659, 2736, 2739, 2741, 2751, struck out items 1589 “Prohibition on payment of lodging expenses when adequate Government quarters are available”, 1590 “Management of civilian intelligence personnel of the military departments”, and 1599 “Postemployment assistance: certain terminated intelligence employees”, struck out “Sec.” at beginning of item 1599a, and added items 1599b and 1599c.
 
-Pub. L. 104–106, div. A, title X, § 1040(d)(2), Feb. 10, 1996, 110 Stat. 433, inserted “: reprisals” after “instrumentalities” in item 1587.
+Pub. L. 104–106, div. A, title X, § 1040(d)(2), Feb. 10, 1996, 110 Stat. 433, inserted “: reprisals” after “instrumentalities” in item 1587.
 
-Pub. L. 104–93, title V, § 505(b), Jan. 6, 1996, 109 Stat. 974, added item 1599a.
+Pub. L. 104–93, title V, § 505(b), Jan. 6, 1996, 109 Stat. 974, added item 1599a.
 
-1994—Pub. L. 103–359, title VIII, § 806(a)(2), Oct. 14, 1994, 108 Stat. 3442, added item 1599.
+1994—Pub. L. 103–359, title VIII, § 806(a)(2), Oct. 14, 1994, 108 Stat. 3442, added item 1599.
 
-1993—Pub. L. 103–160, div. A, title IX, § 923(a)(2), Nov. 30, 1993, 107 Stat. 1731, substituted “Civilian faculty members at certain Department of Defense schools: employment and compensation” for “National Defense University; Foreign Language Center of the Defense Language Institute: civilian faculty members” in item 1595.
+1993—Pub. L. 103–160, div. A, title IX, § 923(a)(2), Nov. 30, 1993, 107 Stat. 1731, substituted “Civilian faculty members at certain Department of Defense schools: employment and compensation” for “National Defense University; Foreign Language Center of the Defense Language Institute: civilian faculty members” in item 1595.
 
-1992—Pub. L. 102–484, div. A, title III, § 371(b), title IX, § 923(a)(2)(B), div. D, title XLIV, § 4442(b), Oct. 23, 1992, 106 Stat. 2384, 2474, 2732, substituted “University; Foreign Language Center of the Defense Language Institute” for “University:” in item 1595, substituted “Civilian positions: guidelines for reductions” for “Employees of industrial-type or commercial-type activities: guidelines for future reductions” in item 1597, and added item 1598.
+1992—Pub. L. 102–484, div. A, title III, § 371(b), title IX, § 923(a)(2)(B), div. D, title XLIV, § 4442(b), Oct. 23, 1992, 106 Stat. 2384, 2474, 2732, substituted “University; Foreign Language Center of the Defense Language Institute” for “University:” in item 1595, substituted “Civilian positions: guidelines for reductions” for “Employees of industrial-type or commercial-type activities: guidelines for future reductions” in item 1597, and added item 1598.
 
-1991—Pub. L. 102–190, div. A, title X, § 1003(a)(2), Dec. 5, 1991, 105 Stat. 1456, added item 1581.
+1991—Pub. L. 102–190, div. A, title X, § 1003(a)(2), Dec. 5, 1991, 105 Stat. 1456, added item 1581.
 
-Pub. L. 102–25, title VII, § 701(e)(4), (8)(B), Apr. 6, 1991, 105 Stat. 114, 115, substituted “Employment of non-citizens” for “Laws relating to employment of non-citizens: not applicable to research and development activities” in item 1584 and struck out “mandatory” after “error in” in item 1594.
+Pub. L. 102–25, title VII, § 701(e)(4), (8)(B), Apr. 6, 1991, 105 Stat. 114, 115, substituted “Employment of non-citizens” for “Laws relating to employment of non-citizens: not applicable to research and development activities” in item 1584 and struck out “mandatory” after “error in” in item 1594.
 
-1990—Pub. L. 101–510, div. A, title III, § 322(a)(2), title XIV, § 1484(a), Nov. 5, 1990, 104 Stat. 1529, 1715, redesignated item 1592 “Foreign language proficiency: special pay” as item 1596 and added item 1597.
+1990—Pub. L. 101–510, div. A, title III, § 322(a)(2), title XIV, § 1484(a), Nov. 5, 1990, 104 Stat. 1529, 1715, redesignated item 1592 “Foreign language proficiency: special pay” as item 1596 and added item 1597.
 
-1989—Pub. L. 101–193, title V, § 501(a)(2), Nov. 30, 1989, 103 Stat. 1708, added item 1592 “Foreign language proficiency: special pay”.
+1989—Pub. L. 101–193, title V, § 501(a)(2), Nov. 30, 1989, 103 Stat. 1708, added item 1592 “Foreign language proficiency: special pay”.
 
-Pub. L. 101–189, div. A, title III, §§ 311(b)(2), 336(a)(2), title VI, § 664(b)(2), title XI, § 1124(a)(2), Nov. 29, 1989, 103 Stat. 1412, 1419, 1467, 1558, added item 1592 “Prohibition on payment of severance pay to foreign nationals in the event of certain overseas base closures.”, and items 1593 to 1595.
+Pub. L. 101–189, div. A, title III, §§ 311(b)(2), 336(a)(2), title VI, § 664(b)(2), title XI, § 1124(a)(2), Nov. 29, 1989, 103 Stat. 1412, 1419, 1467, 1558, added item 1592 “Prohibition on payment of severance pay to foreign nationals in the event of certain overseas base closures.”, and items 1593 to 1595.
 
-1987—Pub. L. 100–180, div. A, title VI, § 617(b)(2), Dec. 4, 1987, 101 Stat. 1097, added item 1591.
+1987—Pub. L. 100–180, div. A, title VI, § 617(b)(2), Dec. 4, 1987, 101 Stat. 1097, added item 1591.
 
-1986—Pub. L. 99–569, title V, § 504(b), Oct. 27, 1986, 100 Stat. 3199, added item 1590.
+1986—Pub. L. 99–569, title V, § 504(b), Oct. 27, 1986, 100 Stat. 3199, added item 1590.
 
-1984—Pub. L. 98–525, title XIV, § 1401(f)(2), Oct. 19, 1984, 98 Stat. 2618, added item 1589.
+1984—Pub. L. 98–525, title XIV, § 1401(f)(2), Oct. 19, 1984, 98 Stat. 2618, added item 1589.
 
-1983—Pub. L. 98–94, title XII, §§ 1253(a)(2), 1266(b), Sept. 24, 1983, 97 Stat. 700, 705, added items 1587 and 1588.
+1983—Pub. L. 98–94, title XII, §§ 1253(a)(2), 1266(b), Sept. 24, 1983, 97 Stat. 700, 705, added items 1587 and 1588.
 
-1982—Pub. L. 97–295, § 1(19)(B), (20)(C), Oct. 12, 1982, 96 Stat. 1290, struck out items 1581 “Appointment: professional and scientific services” and 1582 “Professional and scientific services: reports to Congress on appointments”, and substituted “pay” for “compensation” in item 1583.
+1982—Pub. L. 97–295, § 1(19)(B), (20)(C), Oct. 12, 1982, 96 Stat. 1290, struck out items 1581 “Appointment: professional and scientific services” and 1582 “Professional and scientific services: reports to Congress on appointments”, and substituted “pay” for “compensation” in item 1583.
 
-1966—Pub. L. 89–718, § 13, Nov. 2, 1966, 80 Stat. 1117, struck out item 1580 “Appointment generally”.
+1966—Pub. L. 89–718, § 13, Nov. 2, 1966, 80 Stat. 1117, struck out item 1580 “Appointment generally”.
 
-1962—Pub. L. 87–651, title II, § 206(b), Sept. 7, 1962, 76 Stat. 520, added item 1580.
+1962—Pub. L. 87–651, title II, § 206(b), Sept. 7, 1962, 76 Stat. 520, added item 1580.
 
-1960—Pub. L. 86–585, § 2, July 5, 1960, 74 Stat. 327, added item 1586.
+1960—Pub. L. 86–585, § 2, July 5, 1960, 74 Stat. 327, added item 1586.
 
-1958—Pub. L. 85–577, § 1(2), July 31, 1958, 72 Stat. 456, added item 1585.
+1958—Pub. L. 85–577, § 1(2), July 31, 1958, 72 Stat. 456, added item 1585.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Personnel Management**
 
-Pub. L. 119–60, div. A, title XI, § 1115, Dec. 18, 2025, 139 Stat. 1078, provided that:
+Pub. L. 119–60, div. A, title XI, § 1115, Dec. 18, 2025, 139 Stat. 1078, provided that:
 
 > **“(a) Policy and Regulations.—** The Secretary of Defense shall establish policy and prescribe regulations for the overall management, oversight, and administration of civilian employees of the military departments. Such policy and such regulations shall provide for such management, oversight, and administration to be under the purview of—
 
@@ -117,7 +117,7 @@ Pub. L. 119–60, div. A, title XI, § 1115, Dec. 18, 2025, 139 Stat. 1078, pr
 
 **Pilot Program for Overseas Work-Period for DOD Competitive Service Positions**
 
-Pub. L. 118–159, div. A, title XI, § 1106, Dec. 23, 2024, 138 Stat. 2088, provided that:
+Pub. L. 118–159, div. A, title XI, § 1106, Dec. 23, 2024, 138 Stat. 2088, provided that:
 
 > **“(a) In General.—** The 5-year limitation on competitive service employment in a foreign area in Department of Defense Instruction 1400.25, titled ‘DoD Civilian Personnel Management System: Employment in Foreign Areas and Employee Return Rights’ and issued on July 26, 2012 (or a successor instruction), may be extended by the first 0-6 in the employees chain of command for one additional 5 year term.
 
@@ -143,7 +143,7 @@ Pub. L. 118–159, div. A, title XI, § 1106, Dec. 23, 2024, 138 Stat. 2088, p
 
 **Diversity, Equity, and Inclusion Personnel Grade Cap**
 
-Pub. L. 118–31, div. A, title XI, § 1101, Dec. 22, 2023, 137 Stat. 426, provided that:
+Pub. L. 118–31, div. A, title XI, § 1101, Dec. 22, 2023, 137 Stat. 426, provided that:
 
 > **“(a) In General.—** The Secretary concerned may not appoint to, or otherwise employ in, any position with primary duties as described in subsection (b) a civilian employee paid annual pay at a rate that exceeds the equivalent of the rate payable for GS–10, not adjusted for locality.
 
@@ -159,7 +159,7 @@ Pub. L. 118–31, div. A, title XI, § 1101, Dec. 22, 2023, 137 Stat. 426, pro
 
 **Authorization To Pay a Living Quarters Allowance for Civilian Employees of the Department of Defense Stationed in Guam**
 
-Pub. L. 118–31, div. A, title XI, § 1102, Dec. 22, 2023, 137 Stat. 426, as amended by Pub. L. 118–159, div. A, title XI, § 1103, Dec. 23, 2024, 138 Stat. 2087, Pub. L. 119–60, div. A, title XI, § 1102, Dec. 18, 2025, 139 Stat. 1073, provided that:
+Pub. L. 118–31, div. A, title XI, § 1102, Dec. 22, 2023, 137 Stat. 426, as amended by Pub. L. 118–159, div. A, title XI, § 1103, Dec. 23, 2024, 138 Stat. 2087, Pub. L. 119–60, div. A, title XI, § 1102, Dec. 18, 2025, 139 Stat. 1073, provided that:
 
 > **“(a) Allowance.—** When Government owned or rented quarters are not otherwise provided without charge to a covered employee, the Secretary of Defense may grant to a covered employee one or more of the following allowances:
 
@@ -177,15 +177,15 @@ Pub. L. 118–31, div. A, title XI, § 1102, Dec. 22, 2023, 137 Stat. 426, as 
 
 > **“(d) Sunset.—** The authority to carry out this section shall terminate 3 years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2026 [Dec. 18, 2025].”
 
-[Pub. L. 119–60, § 1102(1), which directed amendment of section 1102 of Pub. L. 118–31, set out above, by substituting “Civilian Employees of the Department of Defense Stationed in Guam” for “Department of the Navy Civilian Employees Assigned to Permanent Duty in Guam for Performing Work, or Supporting Work Being Performed, Aboard or Dockside, of U.S. Naval Vessels” in heading, could not be executed because of the prior identical amendment by Pub. L. 118–159, § 1103(1).]
+[Pub. L. 119–60, § 1102(1), which directed amendment of section 1102 of Pub. L. 118–31, set out above, by substituting “Civilian Employees of the Department of Defense Stationed in Guam” for “Department of the Navy Civilian Employees Assigned to Permanent Duty in Guam for Performing Work, or Supporting Work Being Performed, Aboard or Dockside, of U.S. Naval Vessels” in heading, could not be executed because of the prior identical amendment by Pub. L. 118–159, § 1103(1).]
 
-[Pub. L. 119–60, § 1102(2), which directed amendment of section 1102 of Pub. L. 118–31, set out above, by substituting “Secretary of Defense” for “Secretary of the Navy”, could not be executed because of the prior identical amendment by Pub. L. 118–159, § 1103(2).]
+[Pub. L. 119–60, § 1102(2), which directed amendment of section 1102 of Pub. L. 118–31, set out above, by substituting “Secretary of Defense” for “Secretary of the Navy”, could not be executed because of the prior identical amendment by Pub. L. 118–159, § 1103(2).]
 
-[Pub. L. 119–60, § 1102(3), which directed amendment of section 1102 of Pub. L. 118–31, set out above, by adding subsecs. (b) to (d) and striking former subsec. (b), was executed by adding subsecs. (b) to (d) and striking former subsecs. (b) and (c), which had been added by Pub. L. 118–159, § 1103(3), to reflect the probable intent of Congress.]
+[Pub. L. 119–60, § 1102(3), which directed amendment of section 1102 of Pub. L. 118–31, set out above, by adding subsecs. (b) to (d) and striking former subsec. (b), was executed by adding subsecs. (b) to (d) and striking former subsecs. (b) and (c), which had been added by Pub. L. 118–159, § 1103(3), to reflect the probable intent of Congress.]
 
 **Pilot Program on the Use of Electronic Portfolios To Evaluate Certain Applicants for Technical Positions**
 
-Pub. L. 116–283, div. A, title II, § 247, Jan. 1, 2021, 134 Stat. 3491, as amended by Pub. L. 117–263, div. A, title II, § 212(h), Dec. 23, 2022, 136 Stat. 2468, provided that:
+Pub. L. 116–283, div. A, title II, § 247, Jan. 1, 2021, 134 Stat. 3491, as amended by Pub. L. 117–263, div. A, title II, § 212(h), Dec. 23, 2022, 136 Stat. 2468, provided that:
 
 > **“(a) Pilot Program.—** Beginning not later than one year after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall carry out a pilot program under which certain applicants for technical positions within the Department of Defense will be evaluated, in part, based on electronic portfolios of the applicant’s work, as described in subsection (b).
 
@@ -225,7 +225,7 @@ Pub. L. 116–283, div. A, title II, § 247, Jan. 1, 2021, 134 Stat. 3491, as 
 
 **Coordination of Scholarship and Employment Programs of the Department of Defense**
 
-Pub. L. 116–283, div. A, title II, § 251, Jan. 1, 2021, 134 Stat. 3496, provided that:
+Pub. L. 116–283, div. A, title II, § 251, Jan. 1, 2021, 134 Stat. 3496, provided that:
 
 > **“(a) Establishment or Designation of Organization.—** The Secretary of Defense shall establish or designate an organization within the Department of Defense which shall have primary responsibility for building cohesion and collaboration across the various scholarship and employment programs of the Department.
 
@@ -241,7 +241,7 @@ Pub. L. 116–283, div. A, title II, § 251, Jan. 1, 2021, 134 Stat. 3496, pro
 
 **Temporary Authority To Appoint Retired Members of the Armed Forces to Positions in the Department of Defense**
 
-Pub. L. 116–283, div. A, title XI, § 1108, Jan. 1, 2021, 134 Stat. 3891, as amended by Pub. L. 117–81, div. A, title XI, § 1103, Dec. 27, 2021, 135 Stat. 1950, Pub. L. 119–60, div. A, title XI, § 1103, Dec. 18, 2025, 139 Stat. 1073, provided that:
+Pub. L. 116–283, div. A, title XI, § 1108, Jan. 1, 2021, 134 Stat. 3891, as amended by Pub. L. 117–81, div. A, title XI, § 1103, Dec. 27, 2021, 135 Stat. 1950, Pub. L. 119–60, div. A, title XI, § 1103, Dec. 18, 2025, 139 Stat. 1073, provided that:
 
 > **“(a) In General.—** Notwithstanding the requirements of section 3326 of title 5, United States Code, the Secretary of Defense may appoint retired members of the Armed Forces to positions in the Department of Defense described in subsection (b).
 
@@ -273,7 +273,7 @@ Pub. L. 116–283, div. A, title XI, § 1108, Jan. 1, 2021, 134 Stat. 3891, as
 
 **Pilot Program on Enhanced Pay Authority for Certain High-Level Management Positions in the Department of Defense**
 
-Pub. L. 116–283, div. A, title XI, § 1119, Jan. 1, 2021, 134 Stat. 3897, provided that:
+Pub. L. 116–283, div. A, title XI, § 1119, Jan. 1, 2021, 134 Stat. 3897, provided that:
 
 > **“(a) Pilot Program Authorized.—** The Secretary of Defense may carry out a pilot program to assess the feasibility and advisability of using the pay authority specified in subsection (d) to fix the rate of basic pay for positions described in subsection (c) in order to assist the Department of Defense in attracting and retaining personnel with significant experience in high-level management of complex organizations and enterprise functions in order to lead implementation by the Department of the National Defense Strategy.
 
@@ -315,7 +315,7 @@ Pub. L. 116–283, div. A, title XI, § 1119, Jan. 1, 2021, 134 Stat. 3897, pr
 
 **Technology and National Security Fellowship**
 
-Pub. L. 116–92, div. A, title II, § 235, Dec. 20, 2019, 133 Stat. 1279, as amended by Pub. L. 116–283, div. A, title II, § 243, Jan. 1, 2021, 134 Stat. 3488, provided that:
+Pub. L. 116–92, div. A, title II, § 235, Dec. 20, 2019, 133 Stat. 1279, as amended by Pub. L. 116–283, div. A, title II, § 243, Jan. 1, 2021, 134 Stat. 3488, provided that:
 
 > **“(a) Fellowship Program.—**
 
@@ -375,7 +375,7 @@ Pub. L. 116–92, div. A, title II, § 235, Dec. 20, 2019, 133 Stat. 1279, as 
 
 **John S. McCain Strategic Defense Fellows Program**
 
-Pub. L. 115–232, div. A, title IX, § 932, Aug. 13, 2018, 132 Stat. 1935, as amended by Pub. L. 116–92, div. A, title IX, § 906, Dec. 20, 2019, 133 Stat. 1559; Pub. L. 117–81, div. A, title IX, § 906, Dec. 27, 2021, 135 Stat. 1872; Pub. L. 118–31, div. A, title XI, § 1113, Dec. 22, 2023, 137 Stat. 430; Pub. L. 118–159, div. A, title XI, § 1112, Dec. 23, 2024, 138 Stat. 2090, provided that:
+Pub. L. 115–232, div. A, title IX, § 932, Aug. 13, 2018, 132 Stat. 1935, as amended by Pub. L. 116–92, div. A, title IX, § 906, Dec. 20, 2019, 133 Stat. 1559; Pub. L. 117–81, div. A, title IX, § 906, Dec. 27, 2021, 135 Stat. 1872; Pub. L. 118–31, div. A, title XI, § 1113, Dec. 22, 2023, 137 Stat. 430; Pub. L. 118–159, div. A, title XI, § 1112, Dec. 23, 2024, 138 Stat. 2090, provided that:
 
 > **“(a) Fellowship Program.—**
 
@@ -483,15 +483,15 @@ Pub. L. 115–232, div. A, title IX, § 932, Aug. 13, 2018, 132 Stat. 1935, as
 
 **Pilot Programs on Appointment in the Excepted Service in the Department of Defense of Physically Disqualified Former Cadets and Midshipmen**
 
-Pub. L. 115–91, div. A, title V, § 549, Dec. 12, 2017, 131 Stat. 1399, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(4), Aug. 13, 2018, 132 Stat. 1840, authorized each Secretary of a military department to carry out a pilot program under which former cadets or midshipmen as eligible individuals could be appointed by the Secretary of Defense in the excepted service under section 3320 of title 5, United States Code, in the Department of Defense with a required report containing an evaluation of the effectiveness of the pilot program by each Secretary of a military department to the appropriate congressional committees not later than the date that is three years after Dec. 12, 2017, and such authority to appoint would expire on the date that is four years after Dec. 12, 2017.
+Pub. L. 115–91, div. A, title V, § 549, Dec. 12, 2017, 131 Stat. 1399, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(4), Aug. 13, 2018, 132 Stat. 1840, authorized each Secretary of a military department to carry out a pilot program under which former cadets or midshipmen as eligible individuals could be appointed by the Secretary of Defense in the excepted service under section 3320 of title 5, United States Code, in the Department of Defense with a required report containing an evaluation of the effectiveness of the pilot program by each Secretary of a military department to the appropriate congressional committees not later than the date that is three years after Dec. 12, 2017, and such authority to appoint would expire on the date that is four years after Dec. 12, 2017.
 
 **Direct Hire Authority for the Department of Defense for Personnel To Assist in Business Transformation and Management Innovation**
 
-Pub. L. 115–91, div. A, title XI, § 1101, Dec. 12, 2017, 131 Stat. 1627, authorized the Secretary of Defense to appoint in the Department of Defense individuals without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, for the purpose of assisting and facilitating the efforts of the Department in business transformation and management innovation, and such authority to appoint would expire on Sept. 30, 2021.
+Pub. L. 115–91, div. A, title XI, § 1101, Dec. 12, 2017, 131 Stat. 1627, authorized the Secretary of Defense to appoint in the Department of Defense individuals without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, for the purpose of assisting and facilitating the efforts of the Department in business transformation and management innovation, and such authority to appoint would expire on Sept. 30, 2021.
 
 **Pilot Program on Enhanced Personnel Management System for Cybersecurity and Legal Professionals in the Department of Defense**
 
-Pub. L. 115–91, div. A, title XI, § 1110, Dec. 12, 2017, 131 Stat. 1631, provided that:
+Pub. L. 115–91, div. A, title XI, § 1110, Dec. 12, 2017, 131 Stat. 1631, provided that:
 
 > **“(a) Pilot Program Required.—** The Secretary of Defense shall carry out within the Department of Defense a pilot program to assess the feasability [sic] and advisability of an enhanced personnel management system in accordance with this section for cybersecurity and legal professionals in the Department described in subsection (b) who enter civilian service with the Department on or after January 1, 2020.
 
@@ -615,7 +615,7 @@ Pub. L. 115–91, div. A, title XI, § 1110, Dec. 12, 2017, 131 Stat. 1631, pr
 
 **Temporary and Term Appointments in the Competitive Service in the Department of Defense**
 
-Pub. L. 114–328, div. A, title XI, § 1105, Dec. 23, 2016, 130 Stat. 2447, provided that:
+Pub. L. 114–328, div. A, title XI, § 1105, Dec. 23, 2016, 130 Stat. 2447, provided that:
 
 > **“(a) Appointment.—**
 
@@ -639,7 +639,7 @@ Pub. L. 114–328, div. A, title XI, § 1105, Dec. 23, 2016, 130 Stat. 2447, p
 
 **Direct-Hire Authority for the Department of Defense for Post-Secondary Students and Recent Graduates**
 
-Pub. L. 114–328, div. A, title XI, § 1106, Dec. 23, 2016, 130 Stat. 2447, as amended by Pub. L. 115–232, div. A, title XI, § 1102, Aug. 13, 2018, 132 Stat. 2001; Pub. L. 118–31, div. A, title XI, § 1116, Dec. 22, 2023, 137 Stat. 433, provided that:
+Pub. L. 114–328, div. A, title XI, § 1106, Dec. 23, 2016, 130 Stat. 2447, as amended by Pub. L. 115–232, div. A, title XI, § 1102, Aug. 13, 2018, 132 Stat. 2001; Pub. L. 118–31, div. A, title XI, § 1116, Dec. 22, 2023, 137 Stat. 433, provided that:
 
 > **“(a) Hiring Authority.—** Without regard to sections 3309 through 3318, 3327, and 3330 of title 5, United States Code, the Secretary of Defense may recruit and appoint qualified recent graduates and current post-secondary students to competitive service positions in professional and administrative occupations within the Department of Defense.
 
@@ -675,11 +675,11 @@ Pub. L. 114–328, div. A, title XI, § 1106, Dec. 23, 2016, 130 Stat. 2447, a
 
 **Direct Hire Authority for Financial Management Experts in the Department of Defense Workforce**
 
-Pub. L. 114–328, div. A, title XI, § 1110, Dec. 23, 2016, 130 Stat. 2450, as amended by Pub. L. 115–91, div. A, title XI, § 1106(a), Dec. 12, 2017, 131 Stat. 1629; Pub. L. 115–232, div. A, title XI, § 1113, Aug. 13, 2018, 132 Stat. 2013, authorized each Secretary concerned to appoint qualified candidates possessing a finance, accounting, management, or actuarial science degree, or a related degree or equivalent experience, to certain positions for a Department of Defense component without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, and such authority to make appointments would not be available after Dec. 31, 2022.
+Pub. L. 114–328, div. A, title XI, § 1110, Dec. 23, 2016, 130 Stat. 2450, as amended by Pub. L. 115–91, div. A, title XI, § 1106(a), Dec. 12, 2017, 131 Stat. 1629; Pub. L. 115–232, div. A, title XI, § 1113, Aug. 13, 2018, 132 Stat. 2013, authorized each Secretary concerned to appoint qualified candidates possessing a finance, accounting, management, or actuarial science degree, or a related degree or equivalent experience, to certain positions for a Department of Defense component without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, and such authority to make appointments would not be available after Dec. 31, 2022.
 
 **Temporary Direct Hire Authority for Domestic Defense Industrial Base Facilities, the Major Range and Test Facilities Base, and the Office of the Director of Operational Test and Evaluation**
 
-Pub. L. 114–328, div. A, title XI, § 1125, Dec. 23, 2016, 130 Stat. 2457, as amended by Pub. L. 115–91, div. A, title XI, § 1102(a), Dec. 12, 2017, 131 Stat. 1628; Pub. L. 116–92, div. A, title XI, § 1107(a), Dec. 20, 2019, 133 Stat. 1597; Pub. L. 118–31, div. A, title XI, § 1107, Dec. 22, 2023, 137 Stat. 427; Pub. L. 118–159, div. A, title XI, § 1111(a), Dec. 23, 2024, 138 Stat. 2089, Pub. L. 119–60, div. A, title XI, §§ 1108, 1112, Dec. 18, 2025, 139 Stat. 1075, 1077, provided that:
+Pub. L. 114–328, div. A, title XI, § 1125, Dec. 23, 2016, 130 Stat. 2457, as amended by Pub. L. 115–91, div. A, title XI, § 1102(a), Dec. 12, 2017, 131 Stat. 1628; Pub. L. 116–92, div. A, title XI, § 1107(a), Dec. 20, 2019, 133 Stat. 1597; Pub. L. 118–31, div. A, title XI, § 1107, Dec. 22, 2023, 137 Stat. 427; Pub. L. 118–159, div. A, title XI, § 1111(a), Dec. 23, 2024, 138 Stat. 2089, Pub. L. 119–60, div. A, title XI, §§ 1108, 1112, Dec. 18, 2025, 139 Stat. 1075, 1077, provided that:
 
 > **“(a) Defense Industrial Base Facility and MRTFB.—** During each of fiscal years 2017 through 2030, the Secretary of Defense may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title, qualified candidates to positions in the competitive service at any defense industrial base facility or the Major Range and Test Facilities Base, including to Navy Supervisor of Shipbuilding, Conversion, and Repair positions.
 
@@ -689,7 +689,7 @@ Pub. L. 114–328, div. A, title XI, § 1125, Dec. 23, 2016, 130 Stat. 2457, a
 
 **Temporary Personnel Flexibilities for Domestic Defense Industrial Base Facilities and Major Range and Test Facilities Base Civilian Personnel**
 
-Pub. L. 114–328, div. A, title XI, § 1132, Dec. 23, 2016, 130 Stat. 2457, as amended by Pub. L. 115–91, div. A, title XI, § 1107(a), Dec. 12, 2017, 131 Stat. 1630; Pub. L. 117–81, div. A, title XI, § 1113, Dec. 27, 2021, 135 Stat. 1953, provided that:
+Pub. L. 114–328, div. A, title XI, § 1132, Dec. 23, 2016, 130 Stat. 2457, as amended by Pub. L. 115–91, div. A, title XI, § 1107(a), Dec. 12, 2017, 131 Stat. 1630; Pub. L. 117–81, div. A, title XI, § 1113, Dec. 27, 2021, 135 Stat. 1953, provided that:
 
 > **“(a) In General.—** Notwithstanding chapter 33 of title 5, United States Code, or any other provision of law relating to the examination, certification, and appointment of individuals in the competitive service, during fiscal years 2017 through 2026, an employee of a defense industrial base facility or the Major Range and Test Facilities Base serving under a time-limited appointment in the competitive service is eligible to compete for a permanent appointment in the competitive service at (A) any such facility, Base, or any other component of the Department of Defense when such facility, Base, or component (as the case may be) is accepting applications from individuals within the facility, Base, or component’s workforce under merit promotion procedures, or (B) any agency when the agency is accepting applications from individuals outside its own workforce under merit promotion procedures of the applicable agency, if—
 
@@ -735,7 +735,7 @@ Pub. L. 114–328, div. A, title XI, § 1132, Dec. 23, 2016, 130 Stat. 2457, a
 
 **Compliance With Law Regarding Availability of Funding for Civilian Personnel**
 
-Pub. L. 113–66, div. A, title XI, § 1108, Dec. 26, 2013, 127 Stat. 889, provided that:
+Pub. L. 113–66, div. A, title XI, § 1108, Dec. 26, 2013, 127 Stat. 889, provided that:
 
 > **“(a) Regulations.—** No later than 90 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall prescribe regulations implementing the authority in subsection (a) of section 1111 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 10 U.S.C. 1580 note prec.).
 
@@ -745,7 +745,7 @@ Pub. L. 113–66, div. A, title XI, § 1108, Dec. 26, 2013, 127 Stat. 889, pro
 
 **Availability of Funds for Compensation of Certain Civilian Employees of the Department of Defense**
 
-Pub. L. 111–84, div. A, title XI, § 1111, Oct. 28, 2009, 123 Stat. 2495, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(16), Jan. 7, 2011, 124 Stat. 4373, provided that:
+Pub. L. 111–84, div. A, title XI, § 1111, Oct. 28, 2009, 123 Stat. 2495, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(16), Jan. 7, 2011, 124 Stat. 4373, provided that:
 
 > **“(a) Availability of Funds.—** Funds authorized to be appropriated for the Department of Defense that are available for the purchase of contract services to meet a requirement that is anticipated to continue for five years or more shall be available to provide compensation for civilian employees of the Department to meet the same requirement.
 
@@ -771,7 +771,7 @@ Pub. L. 111–84, div. A, title XI, § 1111, Oct. 28, 2009, 123 Stat. 2495, as
 
 **Department of Defense Civilian Leadership Program**
 
-Pub. L. 111–84, div. A, title XI, § 1112, Oct. 28, 2009, 123 Stat. 2496, provided that:
+Pub. L. 111–84, div. A, title XI, § 1112, Oct. 28, 2009, 123 Stat. 2496, provided that:
 
 > **“(a) Leadership Program Required.—**
 
@@ -833,11 +833,11 @@ Pub. L. 111–84, div. A, title XI, § 1112, Oct. 28, 2009, 123 Stat. 2496, pr
 
 **Direct Hire Authority at Personnel Demonstration Laboratories for Certain Candidates**
 
-Pub. L. 110–417, [div. A], title XI, § 1108, Oct. 14, 2008, 122 Stat. 4618, as amended by Pub. L. 111–383, div. A, title XI, § 1101(a), Jan. 7, 2011, 124 Stat. 4381; Pub. L. 112–81, div. A, title XI, § 1103, Dec. 31, 2011, 125 Stat. 1612; Pub. L. 117–81, div. A, title II, § 215(d)(5), Dec. 27, 2021, 135 Stat. 1594, which authorized the Secretary of Defense to appoint qualified candidates to certain scientific and engineering positions within a Department of Defense science and technology reinvention laboratory, was repealed by Pub. L. 117–81, div. A, title II, § 212(b), Dec. 27, 2021, 135 Stat. 1588. See section 4091(f) of this title.
+Pub. L. 110–417, [div. A], title XI, § 1108, Oct. 14, 2008, 122 Stat. 4618, as amended by Pub. L. 111–383, div. A, title XI, § 1101(a), Jan. 7, 2011, 124 Stat. 4381; Pub. L. 112–81, div. A, title XI, § 1103, Dec. 31, 2011, 125 Stat. 1612; Pub. L. 117–81, div. A, title II, § 215(d)(5), Dec. 27, 2021, 135 Stat. 1594, which authorized the Secretary of Defense to appoint qualified candidates to certain scientific and engineering positions within a Department of Defense science and technology reinvention laboratory, was repealed by Pub. L. 117–81, div. A, title II, § 212(b), Dec. 27, 2021, 135 Stat. 1588. See section 4091(f) of this title.
 
 **Employment for Resettled Iraqis**
 
-Pub. L. 110–417, [div. A], title XII, § 1235, Oct. 14, 2008, 122 Stat. 4641, provided that:
+Pub. L. 110–417, [div. A], title XII, § 1235, Oct. 14, 2008, 122 Stat. 4641, provided that:
 
 > **“(a) In General.—** The Secretary of Defense and the Secretary of State are authorized to jointly establish and operate a temporary program to offer employment as translators, interpreters, or cultural awareness instructors to individuals described in subsection (b). Individuals described in such subsection may be appointed to temporary positions of one year or less outside Iraq with either the Department of Defense or the Department of State, without competition and without regard for the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code. Such individuals may also be hired as personal services contractors by either of such Departments to provide translation, interpreting, or cultural awareness instruction, except that such individuals so hired shall not by virtue of such employment be considered employees of the United States Government, except for purposes of chapter 81 of title 5, United States Code, and chapter 171 of title 28, United States Code.
 
@@ -867,11 +867,11 @@ Pub. L. 110–417, [div. A], title XII, § 1235, Oct. 14, 2008, 122 Stat. 4641
 
 **Strategic Human Capital Plan for Civilian Employees of the Department of Defense**
 
-Pub. L. 110–181, div. A, title VIII, § 851, Jan. 28, 2008, 122 Stat. 247, which required that, in updates of the strategic human capital plan, the Secretary of Defense was to include a separate section focused on the defense acquisition workforce, was repealed by Pub. L. 111–84, div. A, title XI, § 1108(c)(3), Oct. 28, 2009, 123 Stat. 2492.
+Pub. L. 110–181, div. A, title VIII, § 851, Jan. 28, 2008, 122 Stat. 247, which required that, in updates of the strategic human capital plan, the Secretary of Defense was to include a separate section focused on the defense acquisition workforce, was repealed by Pub. L. 111–84, div. A, title XI, § 1108(c)(3), Oct. 28, 2009, 123 Stat. 2492.
 
-Pub. L. 109–163, div. A, title XI, § 1122, Jan. 6, 2006, 119 Stat. 3452, which required the Secretary of Defense to develop and submit to the Committees on Armed Services of the Senate and House of Representatives a strategic human capital plan to shape and improve the civilian employee workforce of the Department of Defense, along with updates and the assessment of the Secretary of the progress of the Department in implementing the plan, and required the Comptroller General to submit to the Committees on Armed Services a report on the plan, was repealed by Pub. L. 111–84, div. A, title XI, § 1108(c)(1), Oct. 28, 2009, 123 Stat. 2491.
+Pub. L. 109–163, div. A, title XI, § 1122, Jan. 6, 2006, 119 Stat. 3452, which required the Secretary of Defense to develop and submit to the Committees on Armed Services of the Senate and House of Representatives a strategic human capital plan to shape and improve the civilian employee workforce of the Department of Defense, along with updates and the assessment of the Secretary of the progress of the Department in implementing the plan, and required the Comptroller General to submit to the Committees on Armed Services a report on the plan, was repealed by Pub. L. 111–84, div. A, title XI, § 1108(c)(1), Oct. 28, 2009, 123 Stat. 2491.
 
-## § 1580. Emergency essential employees: designation
+## § 1580. Emergency essential employees: designation
 
 **(a) Criteria for Designation.—** The Secretary of Defense or the Secretary of the military department concerned may designate as an emergency essential employee any employee of the Department of Defense, whether permanent or temporary, the duties of whose position meet all of the following criteria:
 
@@ -889,7 +889,7 @@ Pub. L. 109–163, div. A, title XI, § 1122, Jan. 6, 2006, 119 Stat. 3452, wh
 
 **(2)** The term “nonappropriated fund instrumentality employee” has the meaning given that term in section 1587(a)(1) of this title.
 
-(Added Pub. L. 106–65, div. A, title XI, § 1103(b)(1), Oct. 5, 1999, 113 Stat. 776.)
+(Added Pub. L. 106–65, div. A, title XI, § 1103(b)(1), Oct. 5, 1999, 113 Stat. 776.)
 
 **Editorial Notes**
 
@@ -899,9 +899,9 @@ Section 112(c)(2) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 **Prior Provisions**
 
-A prior section 1580, added Pub. L. 87–651, title II, § 206(a), Sept. 7, 1962, 76 Stat. 519, related to appointment of civilian employees by the Secretary of Defense, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663.
+A prior section 1580, added Pub. L. 87–651, title II, § 206(a), Sept. 7, 1962, 76 Stat. 519, related to appointment of civilian employees by the Secretary of Defense, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663.
 
-## § 1580a. Emergency essential employees: notification of required participation in anthrax vaccine immunization program
+## § 1580a. Emergency essential employees: notification of required participation in anthrax vaccine immunization program
 
 The Secretary of Defense shall—
 
@@ -909,9 +909,9 @@ The Secretary of Defense shall—
 
 **(2)** ensure that any individual who is being considered for a position as such an employee is notified of the obligation to participate in the program before being offered employment in such position.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 751(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–194.)
+(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 751(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–194.)
 
-## § 1581. Foreign National Employees Separation Pay Account
+## § 1581. Foreign National Employees Separation Pay Account
 
 **(a) Establishment and Purpose.—** There is established on the books of the Treasury an account to be known as the “Foreign National Employees Separation Pay Account, Defense”. The account shall be used for the accumulation of funds to finance obligations of the United States for separation pay for foreign nationals referred to in subsection (e).
 
@@ -929,21 +929,21 @@ The Secretary of Defense shall—
 
 **(3)** A memorandum of understanding with a foreign nation.
 
-(Added Pub. L. 102–190, div. A, title X, § 1003(a)(1), Dec. 5, 1991, 105 Stat. 1456; amended Pub. L. 102–484, div. A, title X, § 1052(20), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title III, § 346, Oct. 5, 1994, 108 Stat. 2724; Pub. L. 107–107, div. A, title X, § 1048(e)(2), Dec. 28, 2001, 115 Stat. 1227.)
+(Added Pub. L. 102–190, div. A, title X, § 1003(a)(1), Dec. 5, 1991, 105 Stat. 1456; amended Pub. L. 102–484, div. A, title X, § 1052(20), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title III, § 346, Oct. 5, 1994, 108 Stat. 2724; Pub. L. 107–107, div. A, title X, § 1048(e)(2), Dec. 28, 2001, 115 Stat. 1227.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1581, acts Aug. 10, 1956, ch. 1041, 70A Stat. 118; Sept. 2, 1958, Pub. L. 85–861, § 1(34), 72 Stat. 1456; May 29, 1959, Pub. L. 86–36, § 3, 73 Stat. 63; Sept. 23, 1959, Pub. L. 86–377, § 2, 73 Stat. 701; Oct. 4, 1961, Pub. L. 87–367, title II, § 203, 75 Stat. 790; Oct. 11, 1962, Pub. L. 87–793, § 1001(b), 76 Stat. 863, provided for appointment of a limited number of civilian research and development personnel and prescribed their relationship to civil service provisions, prior to repeal by Pub. L. 97–295, § 1(19)(A), Oct. 12, 1982, 96 Stat. 1290.
+A prior section 1581, acts Aug. 10, 1956, ch. 1041, 70A Stat. 118; Sept. 2, 1958, Pub. L. 85–861, § 1(34), 72 Stat. 1456; May 29, 1959, Pub. L. 86–36, § 3, 73 Stat. 63; Sept. 23, 1959, Pub. L. 86–377, § 2, 73 Stat. 701; Oct. 4, 1961, Pub. L. 87–367, title II, § 203, 75 Stat. 790; Oct. 11, 1962, Pub. L. 87–793, § 1001(b), 76 Stat. 863, provided for appointment of a limited number of civilian research and development personnel and prescribed their relationship to civil service provisions, prior to repeal by Pub. L. 97–295, § 1(19)(A), Oct. 12, 1982, 96 Stat. 1290.
 
 **Amendments**
 
 2001—Subsec. (b). Pub. L. 107–107 struck out par. (2) designation and “on or after December 5, 1991,” after “all amounts obligated” and struck out par. (1) which read as follows: “The Secretary of the Treasury shall deposit into the account all amounts that were obligated by the Secretary of Defense before December 5, 1991, and that remain unexpended for separation pay for foreign nationals referred to in subsection (e).”
 
-1994—Subsecs. (a), (b). Pub. L. 103–337, § 346(1), substituted “foreign nationals referred to in subsection (e)” for “foreign national employees of the Department of Defense” wherever appearing.
+1994—Subsecs. (a), (b). Pub. L. 103–337, § 346(1), substituted “foreign nationals referred to in subsection (e)” for “foreign national employees of the Department of Defense” wherever appearing.
 
-Subsec. (e). Pub. L. 103–337, § 346(2), added subsec. (e) and struck out former subsec. (e) which read as follows: “Employees Covered.—This section applies only with respect to separation pay of foreign nationals employed by the Department of Defense under any of the following agreements that provide for payment of separation pay:
+Subsec. (e). Pub. L. 103–337, § 346(2), added subsec. (e) and struck out former subsec. (e) which read as follows: “Employees Covered.—This section applies only with respect to separation pay of foreign nationals employed by the Department of Defense under any of the following agreements that provide for payment of separation pay:
 
 “(1) A contract.
 
@@ -953,7 +953,7 @@ Subsec. (e). Pub. L. 103–337, § 346(2), added subsec. (e) and struck out fo
 
 1992—Subsec. (b)(1), (2). Pub. L. 102–484 substituted “December 5, 1991,” for “the date of the enactment of this section”.
 
-## § 1582. Assistive technology, assistive technology devices, and assistive technology services
+## § 1582. Assistive technology, assistive technology devices, and assistive technology services
 
 **(a) Authority.—** The Secretary of Defense may provide assistive technology, assistive technology devices, and assistive technology services to the following:
 
@@ -965,50 +965,50 @@ Subsec. (e). Pub. L. 103–337, § 346(2), added subsec. (e) and struck out fo
 
 **(b) Definitions.—** In this section, the terms “assistive technology”, “assistive technology device”, “assistive technology service”, and “disability” have the meanings given those terms in section 3 of the Assistive Technology Act of 1998 (29 U.S.C. 3002).
 
-(Added Pub. L. 106–398, § 1 [[div. A], title XI, § 1102(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–311.)
+(Added Pub. L. 106–398, § 1 [[div. A], title XI, § 1102(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–311.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1582, acts Aug. 10, 1956, ch. 1041, 70A Stat. 118; Sept. 2, 1958, Pub. L. 85–861, § 1(35), 72 Stat. 1456; Sept. 23, 1959, Pub. L. 86–377, § 3, 73 Stat. 701, directed Secretary of Defense to report annually to Congress on civilian research and development personnel employed by Department of Defense under former section 1581 of this title, prior to repeal by Pub. L. 97–295, § 1(19)(A), Oct. 12, 1982, 96 Stat. 1290.
+A prior section 1582, acts Aug. 10, 1956, ch. 1041, 70A Stat. 118; Sept. 2, 1958, Pub. L. 85–861, § 1(35), 72 Stat. 1456; Sept. 23, 1959, Pub. L. 86–377, § 3, 73 Stat. 701, directed Secretary of Defense to report annually to Congress on civilian research and development personnel employed by Department of Defense under former section 1581 of this title, prior to repeal by Pub. L. 97–295, § 1(19)(A), Oct. 12, 1982, 96 Stat. 1290.
 
-## § 1583. Employment of certain persons without pay
+## § 1583. Employment of certain persons without pay
 
 The Secretary of Defense and the Secretaries of the military departments may each employ, without pay, not more than 10 persons of outstanding experience and ability. However, a person so employed may be allowed transportation, and not more than $15 a day instead of subsistence, while away from his home or regular place of business pursuant to employment under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 118; Pub. L. 89–718, § 14, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 97–295, § 1(20)(A), (B), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 112–81, div. A, title XI, § 1111, Dec. 31, 2011, 125 Stat. 1616.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 118; Pub. L. 89–718, § 14, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 97–295, § 1(20)(A), (B), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 112–81, div. A, title XI, § 1111, Dec. 31, 2011, 125 Stat. 1616.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1583(a) | 5:171v (less words of 1st sentence after semicolon). | Jan. 6, 1951, ch. 1213, subch. VII, § 704, 64 Stat. 1235. |
+| 1583(a) | 5:171v (less words of 1st sentence after semicolon). | Jan. 6, 1951, ch. 1213, subch. VII, § 704, 64 Stat. 1235. |
 | 1583(b) | 5:171v (words of 1st sentence after semicolon). |  |
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Pub. L. 112–81, § 1111(2), inserted “each” after “may” in first sentence.
+2011—Pub. L. 112–81, § 1111(2), inserted “each” after “may” in first sentence.
 
-Pub. L. 112–81, § 1111(1), which directed amendment of first sentence by inserting “and the Secretaries of the military departments” after “the Secretary of Defense”, was executed by making the insertion after “The Secretary of Defense” to reflect the probable intent of Congress.
+Pub. L. 112–81, § 1111(1), which directed amendment of first sentence by inserting “and the Secretaries of the military departments” after “the Secretary of Defense”, was executed by making the insertion after “The Secretary of Defense” to reflect the probable intent of Congress.
 
 1982—Pub. L. 97–295 substituted “pay” for “compensation” in section catchline and text.
 
 1966—Pub. L. 89–718 struck out designation “(a)” at beginning of section and repealed subsec. (b) which authorized the Secretary, by regulation, to exempt persons employed under provisions formerly designated subsec. (a) from former sections 281, 283, 284, 434, and 1914 of title 18 and former section 99 of title 5.
 
-## § 1584. Employment of non-citizens
+## § 1584. Employment of non-citizens
 
 Laws prohibiting the employment of, or payment of pay or expenses to, a person who is not a citizen of the United States do not apply to personnel of the Department of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 118; Pub. L. 97–295, § 1(20)(A), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 101–510, div. A, title XIV, §§ 1481(d)(1), (2), 1482(b), Nov. 5, 1990, 104 Stat. 1706, 1709; Pub. L. 104–106, div. A, title X, § 1062(b), Feb. 10, 1996, 110 Stat. 444.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 118; Pub. L. 97–295, § 1(20)(A), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 101–510, div. A, title XIV, §§ 1481(d)(1), (2), 1482(b), Nov. 5, 1990, 104 Stat. 1706, 1709; Pub. L. 104–106, div. A, title X, § 1062(b), Feb. 10, 1996, 110 Stat. 444.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1584 | 5:235c. 5:475h. 5:628c. | July 16, 1952, ch. 882, § 2, 66 Stat. 725. |
+| 1584 | 5:235c. 5:475h. 5:628c. | July 16, 1952, ch. 882, § 2, 66 Stat. 725. |
 
 The words “appointment or” are omitted as surplusage.
 
@@ -1022,9 +1022,9 @@ The words “appointment or” are omitted as surplusage.
 
 “(2) The percentage increase provided to national government employees of the host nation.”
 
-1990—Pub. L. 101–510, § 1482(b), substituted “personnel of the Department of Defense” for “any expert, scientist, technician, or professional person whose employment in connection with the research and development activities of a military department is determined to be necessary by the Secretary of that department” in subsec. (a).
+1990—Pub. L. 101–510, § 1482(b), substituted “personnel of the Department of Defense” for “any expert, scientist, technician, or professional person whose employment in connection with the research and development activities of a military department is determined to be necessary by the Secretary of that department” in subsec. (a).
 
-Pub. L. 101–510, § 1481(d)(1), (2), substituted “Employment of non-citizens” for “Laws relating to employment of non-citizens: not applicable to research and development activities” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+Pub. L. 101–510, § 1481(d)(1), (2), substituted “Employment of non-citizens” for “Laws relating to employment of non-citizens: not applicable to research and development activities” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
 1982—Pub. L. 97–295 substituted “pay” for “compensation”.
 
@@ -1036,185 +1036,185 @@ Amendment by section 1482(b) of Pub. L. 101–510 effective Oct. 1, 1991, see se
 
 **Citizenship Requirement Not Applicable**
 
-Pub. L. 119–75, div. A, title VIII, § 8002, Feb. 3, 2026, 140 Stat. 196, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: *Provided*, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act [div. A of Pub. L. 119–75, see Tables for classification] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5, United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: *Provided further*, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 [22 U.S.C. 3901 et seq.]: *Provided further*, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
+Pub. L. 119–75, div. A, title VIII, § 8002, Feb. 3, 2026, 140 Stat. 196, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: *Provided*, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act [div. A of Pub. L. 119–75, see Tables for classification] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5, United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: *Provided further*, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 [22 U.S.C. 3901 et seq.]: *Provided further*, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 118–47, div. A, title VIII, § 8002, Mar. 23, 2024, 138 Stat. 481.
+Pub. L. 118–47, div. A, title VIII, § 8002, Mar. 23, 2024, 138 Stat. 481.
 
-Pub. L. 117–328, div. C, title VIII, § 8002, Dec. 29, 2022, 136 Stat. 4584.
+Pub. L. 117–328, div. C, title VIII, § 8002, Dec. 29, 2022, 136 Stat. 4584.
 
-Pub. L. 117–103, div. C, title VIII, § 8002, Mar. 15, 2022, 136 Stat. 172.
+Pub. L. 117–103, div. C, title VIII, § 8002, Mar. 15, 2022, 136 Stat. 172.
 
-Pub. L. 116–260, div. C, title VIII, § 8002, Dec. 27, 2020, 134 Stat. 1302.
+Pub. L. 116–260, div. C, title VIII, § 8002, Dec. 27, 2020, 134 Stat. 1302.
 
-Pub. L. 116–93, div. A, title VIII, § 8002, Dec. 20, 2019, 133 Stat. 2334.
+Pub. L. 116–93, div. A, title VIII, § 8002, Dec. 20, 2019, 133 Stat. 2334.
 
-Pub. L. 115–245, div. A, title VIII, § 8002, Sept. 28, 2018, 132 Stat. 2998.
+Pub. L. 115–245, div. A, title VIII, § 8002, Sept. 28, 2018, 132 Stat. 2998.
 
-Pub. L. 115–141, div. C, title VIII, § 8002, Mar. 23, 2018, 132 Stat. 462.
+Pub. L. 115–141, div. C, title VIII, § 8002, Mar. 23, 2018, 132 Stat. 462.
 
-Pub. L. 115–31, div. C, title VIII, § 8002, May 5, 2017, 131 Stat. 245.
+Pub. L. 115–31, div. C, title VIII, § 8002, May 5, 2017, 131 Stat. 245.
 
-Pub. L. 114–113, div. C, title VIII, § 8002, Dec. 18, 2015, 129 Stat. 2349.
+Pub. L. 114–113, div. C, title VIII, § 8002, Dec. 18, 2015, 129 Stat. 2349.
 
-Pub. L. 113–235, div. C, title VIII, § 8002, Dec. 16, 2014, 128 Stat. 2251.
+Pub. L. 113–235, div. C, title VIII, § 8002, Dec. 16, 2014, 128 Stat. 2251.
 
-Pub. L. 113–76, div. C, title VIII, § 8002, Jan. 17, 2014, 128 Stat. 103.
+Pub. L. 113–76, div. C, title VIII, § 8002, Jan. 17, 2014, 128 Stat. 103.
 
-Pub. L. 113–6, div. C, title VIII, § 8002, Mar. 26, 2013, 127 Stat. 295.
+Pub. L. 113–6, div. C, title VIII, § 8002, Mar. 26, 2013, 127 Stat. 295.
 
-Pub. L. 112–74, div. A, title VIII, § 8002, Dec. 23, 2011, 125 Stat. 804.
+Pub. L. 112–74, div. A, title VIII, § 8002, Dec. 23, 2011, 125 Stat. 804.
 
-Pub. L. 112–10, div. A, title VIII, § 8002, Apr. 15, 2011, 125 Stat. 55.
+Pub. L. 112–10, div. A, title VIII, § 8002, Apr. 15, 2011, 125 Stat. 55.
 
-Pub. L. 111–118, div. A, title VIII, § 8002, Dec. 19, 2009, 123 Stat. 3426.
+Pub. L. 111–118, div. A, title VIII, § 8002, Dec. 19, 2009, 123 Stat. 3426.
 
-Pub. L. 110–329, div. C, title VIII, § 8002, Sept. 30, 2008, 122 Stat. 3619.
+Pub. L. 110–329, div. C, title VIII, § 8002, Sept. 30, 2008, 122 Stat. 3619.
 
-Pub. L. 110–116, div. A, title VIII, § 8002, Nov. 13, 2007, 121 Stat. 1313.
+Pub. L. 110–116, div. A, title VIII, § 8002, Nov. 13, 2007, 121 Stat. 1313.
 
-Pub. L. 109–289, div. A, title VIII, § 8002, Sept. 29, 2006, 120 Stat. 1271.
+Pub. L. 109–289, div. A, title VIII, § 8002, Sept. 29, 2006, 120 Stat. 1271.
 
-Pub. L. 109–148, div. A, title VIII, § 8002, Dec. 30, 2005, 119 Stat. 2697.
+Pub. L. 109–148, div. A, title VIII, § 8002, Dec. 30, 2005, 119 Stat. 2697.
 
-Pub. L. 108–287, title VIII, § 8002, Aug. 5, 2004, 118 Stat. 968.
+Pub. L. 108–287, title VIII, § 8002, Aug. 5, 2004, 118 Stat. 968.
 
-Pub. L. 108–87, title VIII, § 8002, Sept. 30, 2003, 117 Stat. 1071.
+Pub. L. 108–87, title VIII, § 8002, Sept. 30, 2003, 117 Stat. 1071.
 
-Pub. L. 107–248, title VIII, § 8002, Oct. 23, 2002, 116 Stat. 1536.
+Pub. L. 107–248, title VIII, § 8002, Oct. 23, 2002, 116 Stat. 1536.
 
-Pub. L. 107–117, div. A, title VIII, § 8002, Jan. 10, 2002, 115 Stat. 2247.
+Pub. L. 107–117, div. A, title VIII, § 8002, Jan. 10, 2002, 115 Stat. 2247.
 
-Pub. L. 106–259, title VIII, § 8002, Aug. 9, 2000, 114 Stat. 674.
+Pub. L. 106–259, title VIII, § 8002, Aug. 9, 2000, 114 Stat. 674.
 
-Pub. L. 106–79, title VIII, § 8002, Oct. 25, 1999, 113 Stat. 1230.
+Pub. L. 106–79, title VIII, § 8002, Oct. 25, 1999, 113 Stat. 1230.
 
-Pub. L. 105–262, title VIII, § 8002, Oct. 17, 1998, 112 Stat. 2296.
+Pub. L. 105–262, title VIII, § 8002, Oct. 17, 1998, 112 Stat. 2296.
 
-Pub. L. 105–56, title VIII, § 8002, Oct. 8, 1997, 111 Stat. 1219.
+Pub. L. 105–56, title VIII, § 8002, Oct. 8, 1997, 111 Stat. 1219.
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8002], Sept. 30, 1996, 110 Stat. 3009–71, 3009–87.
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8002], Sept. 30, 1996, 110 Stat. 3009–71, 3009–87.
 
-Pub. L. 104–61, title VIII, § 8002, Dec. 1, 1995, 109 Stat. 651.
+Pub. L. 104–61, title VIII, § 8002, Dec. 1, 1995, 109 Stat. 651.
 
-Pub. L. 103–335, title VIII, § 8002, Sept. 30, 1994, 108 Stat. 2616.
+Pub. L. 103–335, title VIII, § 8002, Sept. 30, 1994, 108 Stat. 2616.
 
-Pub. L. 103–139, title VIII, § 8002, Nov. 11, 1993, 107 Stat. 1437.
+Pub. L. 103–139, title VIII, § 8002, Nov. 11, 1993, 107 Stat. 1437.
 
-Pub. L. 102–396, title IX, § 9002, Oct. 6, 1992, 106 Stat. 1900.
+Pub. L. 102–396, title IX, § 9002, Oct. 6, 1992, 106 Stat. 1900.
 
-Pub. L. 102–172, title VIII, § 8002, Nov. 26, 1991, 105 Stat. 1170.
+Pub. L. 102–172, title VIII, § 8002, Nov. 26, 1991, 105 Stat. 1170.
 
-Pub. L. 101–511, title VIII, § 8002, Nov. 5, 1990, 104 Stat. 1873.
+Pub. L. 101–511, title VIII, § 8002, Nov. 5, 1990, 104 Stat. 1873.
 
-Pub. L. 101–165, title IX, § 9003, Nov. 21, 1989, 103 Stat. 1129.
+Pub. L. 101–165, title IX, § 9003, Nov. 21, 1989, 103 Stat. 1129.
 
-Pub. L. 100–463, title VIII, § 8003, Oct. 1, 1988, 102 Stat. 2270–17.
+Pub. L. 100–463, title VIII, § 8003, Oct. 1, 1988, 102 Stat. 2270–17.
 
-Pub. L. 100–202, § 101(b) [title VIII, § 8004], Dec. 22, 1987, 101 Stat. 1329–43, 1329–62.
+Pub. L. 100–202, § 101(b) [title VIII, § 8004], Dec. 22, 1987, 101 Stat. 1329–43, 1329–62.
 
-Pub. L. 99–500, § 101(c) [title IX, § 9004], Oct. 18, 1986, 100 Stat. 1783–82, 1783–101, and Pub. L. 99–591, § 101(c) [title IX, § 9004], Oct. 30, 1986, 100 Stat. 3341–82, 3341–101.
+Pub. L. 99–500, § 101(c) [title IX, § 9004], Oct. 18, 1986, 100 Stat. 1783–82, 1783–101, and Pub. L. 99–591, § 101(c) [title IX, § 9004], Oct. 30, 1986, 100 Stat. 3341–82, 3341–101.
 
-Pub. L. 99–190, § 101(b) [title VIII, § 8004], Dec. 19, 1985, 99 Stat. 1185, 1202.
+Pub. L. 99–190, § 101(b) [title VIII, § 8004], Dec. 19, 1985, 99 Stat. 1185, 1202.
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, § 8004], Oct. 12, 1984, 98 Stat. 1904, 1922.
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8004], Oct. 12, 1984, 98 Stat. 1904, 1922.
 
-Pub. L. 98–212, title VII, § 704, Dec. 8, 1983, 97 Stat. 1437.
+Pub. L. 98–212, title VII, § 704, Dec. 8, 1983, 97 Stat. 1437.
 
-Pub. L. 97–377, title I, § 101(c) [title VII, § 704], Dec. 21, 1982, 96 Stat. 1833, 1349.
+Pub. L. 97–377, title I, § 101(c) [title VII, § 704], Dec. 21, 1982, 96 Stat. 1833, 1349.
 
-Pub. L. 97–114, title VII, § 704, Dec. 29, 1981, 95 Stat. 1578.
+Pub. L. 97–114, title VII, § 704, Dec. 29, 1981, 95 Stat. 1578.
 
-Pub. L. 96–527, title VII, § 704, Dec. 15, 1980, 94 Stat. 3080.
+Pub. L. 96–527, title VII, § 704, Dec. 15, 1980, 94 Stat. 3080.
 
-Pub. L. 96–154, title VII, § 704, Dec. 21, 1979, 93 Stat. 1152.
+Pub. L. 96–154, title VII, § 704, Dec. 21, 1979, 93 Stat. 1152.
 
-Pub. L. 95–457, title VIII, § 804, Oct. 13, 1978, 92 Stat. 1243.
+Pub. L. 95–457, title VIII, § 804, Oct. 13, 1978, 92 Stat. 1243.
 
-Pub. L. 95–111, title VIII, § 803, Sept. 21, 1977, 91 Stat. 899.
+Pub. L. 95–111, title VIII, § 803, Sept. 21, 1977, 91 Stat. 899.
 
-Pub. L. 94–419, title VII, § 703, Sept. 22, 1976, 90 Stat. 1290.
+Pub. L. 94–419, title VII, § 703, Sept. 22, 1976, 90 Stat. 1290.
 
-Pub. L. 94–212, title VII, § 703, Feb. 9, 1976, 90 Stat. 168.
+Pub. L. 94–212, title VII, § 703, Feb. 9, 1976, 90 Stat. 168.
 
-Pub. L. 93–437, title VIII, § 803, Oct. 8, 1974, 88 Stat. 1224.
+Pub. L. 93–437, title VIII, § 803, Oct. 8, 1974, 88 Stat. 1224.
 
-Pub. L. 93–238, title VII, § 703, Jan. 2, 1974, 87 Stat. 1038.
+Pub. L. 93–238, title VII, § 703, Jan. 2, 1974, 87 Stat. 1038.
 
-Pub. L. 92–570, title VII, § 703, Oct. 26, 1972, 86 Stat. 1196.
+Pub. L. 92–570, title VII, § 703, Oct. 26, 1972, 86 Stat. 1196.
 
-Pub. L. 92–204, title VII, § 703, Dec. 18, 1971, 85 Stat. 726.
+Pub. L. 92–204, title VII, § 703, Dec. 18, 1971, 85 Stat. 726.
 
-Pub. L. 91–668, title VIII, § 803, Jan. 11, 1971, 84 Stat. 2029.
+Pub. L. 91–668, title VIII, § 803, Jan. 11, 1971, 84 Stat. 2029.
 
-Pub. L. 91–171, title VI, § 603, Dec. 29, 1969, 83 Stat. 479.
+Pub. L. 91–171, title VI, § 603, Dec. 29, 1969, 83 Stat. 479.
 
-Pub. L. 90–580, title V, § 502, Oct. 17, 1968, 82 Stat. 1129.
+Pub. L. 90–580, title V, § 502, Oct. 17, 1968, 82 Stat. 1129.
 
-Pub. L. 90–96, title VI, § 602, Sept. 29, 1967, 81 Stat. 241.
+Pub. L. 90–96, title VI, § 602, Sept. 29, 1967, 81 Stat. 241.
 
-Pub. L. 89–687, title VI, § 602, Oct. 15, 1966, 80 Stat. 990.
+Pub. L. 89–687, title VI, § 602, Oct. 15, 1966, 80 Stat. 990.
 
-Pub. L. 89–213, title VI, § 602, Sept. 29, 1965, 79 Stat. 873.
+Pub. L. 89–213, title VI, § 602, Sept. 29, 1965, 79 Stat. 873.
 
-Pub. L. 88–446, title V, § 502, Aug. 19, 1964, 78 Stat. 474.
+Pub. L. 88–446, title V, § 502, Aug. 19, 1964, 78 Stat. 474.
 
-Pub. L. 88–149, title V, § 502, Oct. 17, 1963, 77 Stat. 263.
+Pub. L. 88–149, title V, § 502, Oct. 17, 1963, 77 Stat. 263.
 
-Pub. L. 87–577, title V, § 502, Aug. 9, 1962, 76 Stat. 327.
+Pub. L. 87–577, title V, § 502, Aug. 9, 1962, 76 Stat. 327.
 
-Pub. L. 87–144, title VI, § 602, Aug. 17, 1961, 75 Stat. 375.
+Pub. L. 87–144, title VI, § 602, Aug. 17, 1961, 75 Stat. 375.
 
-Pub. L. 86–601, title V, § 502, July 7, 1960, 74 Stat. 349.
+Pub. L. 86–601, title V, § 502, July 7, 1960, 74 Stat. 349.
 
-Pub. L. 86–166, title V, § 602, Aug. 18, 1959, 73 Stat. 378.
+Pub. L. 86–166, title V, § 602, Aug. 18, 1959, 73 Stat. 378.
 
-Pub. L. 85–724, title VI, § 602, Aug. 22, 1958, 72 Stat. 723.
+Pub. L. 85–724, title VI, § 602, Aug. 22, 1958, 72 Stat. 723.
 
-Pub. L. 85–117, title VI, § 602, Aug. 2, 1957, 71 Stat. 323.
+Pub. L. 85–117, title VI, § 602, Aug. 2, 1957, 71 Stat. 323.
 
-July 2, 1956, ch. 488, title VI, § 602, 70 Stat. 467.
+July 2, 1956, ch. 488, title VI, § 602, 70 Stat. 467.
 
-July 13, 1955, ch. 358, title VI, § 603, 69 Stat. 314.
+July 13, 1955, ch. 358, title VI, § 603, 69 Stat. 314.
 
-June 30, 1954, ch. 432, title VII, § 703, 68 Stat. 349.
+June 30, 1954, ch. 432, title VII, § 703, 68 Stat. 349.
 
-Aug. 1, 1953, ch. 305, title VI, § 603, 67 Stat. 349.
+Aug. 1, 1953, ch. 305, title VI, § 603, 67 Stat. 349.
 
-July 10, 1952, ch. 630, title VI, § 603, 66 Stat. 531.
+July 10, 1952, ch. 630, title VI, § 603, 66 Stat. 531.
 
-Oct. 18, 1951, ch. 512, title VI, § 603, 65 Stat. 444.
+Oct. 18, 1951, ch. 512, title VI, § 603, 65 Stat. 444.
 
-Sept. 6, 1950, ch. 896, Ch. X, title VI, § 603, 64 Stat. 752.
+Sept. 6, 1950, ch. 896, Ch. X, title VI, § 603, 64 Stat. 752.
 
-Oct. 29, 1949, ch. 787, title VI, § 603, 63 Stat. 1017.
+Oct. 29, 1949, ch. 787, title VI, § 603, 63 Stat. 1017.
 
 June 24, 1948, ch. 632, 62 Stat. 651.
 
-July 30, 1947, ch. 357, title I, § 1, 61 Stat. 553.
+July 30, 1947, ch. 357, title I, § 1, 61 Stat. 553.
 
-July 16, 1946, ch. 583, § 1, 60 Stat. 543.
+July 16, 1946, ch. 583, § 1, 60 Stat. 543.
 
-July 28, 1945, ch. 265, § 1, 59 Stat. 386.
+July 28, 1945, ch. 265, § 1, 59 Stat. 386.
 
-June 28, 1944, ch. 303, § 1, 58 Stat. 575.
+June 28, 1944, ch. 303, § 1, 58 Stat. 575.
 
-July 1, 1943, ch. 185, § 1, 57 Stat. 349.
+July 1, 1943, ch. 185, § 1, 57 Stat. 349.
 
-July 2, 1942, ch. 477, § 1, 56 Stat. 613.
+July 2, 1942, ch. 477, § 1, 56 Stat. 613.
 
 **Salary Increases to Foreign National Employees; Notice to Congress**
 
-Pub. L. 100–463, title VIII, § 8114, Oct. 1, 1988, 102 Stat. 2270–38, which directed Secretary of Defense to notify House and Senate Committees on Appropriations when salary increases granted to foreign national employees were at a rate in excess of the percentage pay increase authorized by law for civilian employees of Department of Defense whose pay was computed under section 5332 of title 5 or at a rate in excess of the percentage increase provided to National Government employees of the host nation, whichever was higher, was repealed and restated in subsec. (b) of this section by Pub. L. 101–510, § 1481(d)(1)(B), (4)(A).
+Pub. L. 100–463, title VIII, § 8114, Oct. 1, 1988, 102 Stat. 2270–38, which directed Secretary of Defense to notify House and Senate Committees on Appropriations when salary increases granted to foreign national employees were at a rate in excess of the percentage pay increase authorized by law for civilian employees of Department of Defense whose pay was computed under section 5332 of title 5 or at a rate in excess of the percentage increase provided to National Government employees of the host nation, whichever was higher, was repealed and restated in subsec. (b) of this section by Pub. L. 101–510, § 1481(d)(1)(B), (4)(A).
 
-## § 1585. Carrying of firearms
+## § 1585. Carrying of firearms
 
 Under regulations to be prescribed by the Secretary of Defense, civilian officers and employees of the Department of Defense may carry firearms or other appropriate weapons while assigned investigative duties or such other duties as the Secretary may prescribe.
 
-(Added Pub. L. 85–577, § 1(1), July 31, 1958, 72 Stat. 455.)
+(Added Pub. L. 85–577, § 1(1), July 31, 1958, 72 Stat. 455.)
 
-## § 1585a. Special agents of the Defense Criminal Investigative Service: authority to execute warrants and make arrests
+## § 1585a. Special agents of the Defense Criminal Investigative Service: authority to execute warrants and make arrests
 
 **(a) Authority.—** The Secretary of Defense may authorize any DCIS special agent described in subsection (b)—
 
@@ -1232,9 +1232,9 @@ Under regulations to be prescribed by the Secretary of Defense, civilian officer
 
 **(d) DCIS Special Agent Defined.—** In this section, the term “DCIS special agent” means an employee of the Department of Defense who is a special agent of the Defense Criminal Investigative Service (or any successor to that service).
 
-(Added Pub. L. 105–85, div. A, title X, § 1071(a), Nov. 18, 1997, 111 Stat. 1897.)
+(Added Pub. L. 105–85, div. A, title X, § 1071(a), Nov. 18, 1997, 111 Stat. 1897.)
 
-## § 1586. Rotation of career-conditional and career employees assigned to duty outside the United States
+## § 1586. Rotation of career-conditional and career employees assigned to duty outside the United States
 
 **(a)** In order to advance the programs and activities of the Defense Establishment, it is hereby declared to be the policy of the Congress to facilitate the interchange of civilian employees of the Defense Establishment between posts of duty in the United States and posts of duty outside the United States through the establishment and operation of programs for the rotation, to the extent consistent with the missions of the Defense Establishment and sound principles of administration, of such employees who are assigned to duty outside the United States.
 
@@ -1280,35 +1280,35 @@ The Secretary of the department concerned may provide by regulation for the waiv
 
 **(h)** The Secretary of Defense may, under such regulations as he may prescribe, make the provisions of subsections (a) through (g) applicable to civilian employees of the Department of Defense who are residents of Guam, the Virgin Islands, or the Commonwealth of Puerto Rico at the time of their employment by the Department of Defense in the same manner as if the references in such subsections to the United States (when used in a geographical sense) were references to Guam, the Virgin Islands, or the Commonwealth of Puerto Rico, as the case may be.
 
-(Added Pub. L. 86–585, § 1, July 5, 1960, 74 Stat. 325; amended Pub. L. 89–718, § 15, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, § 3(3), Sept. 11, 1967, 81 Stat. 220; Pub. L. 96–513, title V, § 511(61), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 96–600, § 1, Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–295, § 1(20)(A), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–525, title XIV, § 1405(29), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 101–189, div. A, title XVI, § 1622(e)(4), Nov. 29, 1989, 103 Stat. 1605.)
+(Added Pub. L. 86–585, § 1, July 5, 1960, 74 Stat. 325; amended Pub. L. 89–718, § 15, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, § 3(3), Sept. 11, 1967, 81 Stat. 220; Pub. L. 96–513, title V, § 511(61), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 96–600, § 1, Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–295, § 1(20)(A), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–525, title XIV, § 1405(29), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 101–189, div. A, title XVI, § 1622(e)(4), Nov. 29, 1989, 103 Stat. 1605.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1989—Subsec. (g). Pub. L. 101–189, in introductory provisions, substituted “In this section:” for “For the purposes of this section—”, in par. (1), inserted “The term” before “ ‘rotation’ ” and substituted the period for “; and”, and in par. (2), inserted “The term” before “ ‘grade’ ”.
+1989—Subsec. (g). Pub. L. 101–189, in introductory provisions, substituted “In this section:” for “For the purposes of this section—”, in par. (1), inserted “The term” before “ ‘rotation’ ” and substituted the period for “; and”, and in par. (2), inserted “The term” before “ ‘grade’ ”.
 
-1984—Subsec. (b). Pub. L. 98–525, § 1405(29)(A)(iii), in provisions following par. (3) struck out “of this subsection” after “paragraphs (2) and (3)”.
+1984—Subsec. (b). Pub. L. 98–525, § 1405(29)(A)(iii), in provisions following par. (3) struck out “of this subsection” after “paragraphs (2) and (3)”.
 
-Subsec. (b)(3). Pub. L. 98–525, § 1405(29)(A)(i), (ii), substituted “30” for “thirty” and struck out “of this section” after “subsection (c)”.
+Subsec. (b)(3). Pub. L. 98–525, § 1405(29)(A)(i), (ii), substituted “30” for “thirty” and struck out “of this section” after “subsection (c)”.
 
-Subsec. (c). Pub. L. 98–525, § 1405(29)(B)(i), in provisions preceding par. (1) substituted “30” for “thirty”.
+Subsec. (c). Pub. L. 98–525, § 1405(29)(B)(i), in provisions preceding par. (1) substituted “30” for “thirty”.
 
-Subsec. (c)(3). Pub. L. 98–525, § 1405(29)(B)(ii), (iv), substituted “90 days” for “ninety days” and struck out “of this subsection” after “paragraph (2)”.
+Subsec. (c)(3). Pub. L. 98–525, § 1405(29)(B)(ii), (iv), substituted “90 days” for “ninety days” and struck out “of this subsection” after “paragraph (2)”.
 
-Subsec. (c)(4). Pub. L. 98–525, § 1405(29)(B)(ii), (iv), substituted “90 days” for “ninety days” and struck out “of this subsection” after “paragraph (3)”.
+Subsec. (c)(4). Pub. L. 98–525, § 1405(29)(B)(ii), (iv), substituted “90 days” for “ninety days” and struck out “of this subsection” after “paragraph (3)”.
 
-Subsec. (c)(5). Pub. L. 98–525, § 1405(29)(B)(iii)–(v), substituted “90-day” for “ninety-day”, struck out “of this subsection” after “paragraphs (3) and (4)”, and struck out “such” before “paragraph (4)”.
+Subsec. (c)(5). Pub. L. 98–525, § 1405(29)(B)(iii)–(v), substituted “90-day” for “ninety-day”, struck out “of this subsection” after “paragraphs (3) and (4)”, and struck out “such” before “paragraph (4)”.
 
-Subsec. (c)(6). Pub. L. 98–525, § 1405(29)(B)(vi), struck out “of this subsection” after “paragraph (1)” and “of this subsection,” after “as applicable,”.
+Subsec. (c)(6). Pub. L. 98–525, § 1405(29)(B)(vi), struck out “of this subsection” after “paragraph (1)” and “of this subsection,” after “as applicable,”.
 
-Subsec. (d). Pub. L. 98–525, § 1405(29)(C), struck out “of this section” after “subsection (c)”.
+Subsec. (d). Pub. L. 98–525, § 1405(29)(C), struck out “of this section” after “subsection (c)”.
 
-Subsec. (e)(1). Pub. L. 98–525, § 1405(29)(C), struck out “of this section” after “subsection (c)(1)”.
+Subsec. (e)(1). Pub. L. 98–525, § 1405(29)(C), struck out “of this section” after “subsection (c)(1)”.
 
-Subsec. (e)(2). Pub. L. 98–525, § 1405(29)(D), struck out “of this subsection” after “paragraph (1)”.
+Subsec. (e)(2). Pub. L. 98–525, § 1405(29)(D), struck out “of this subsection” after “paragraph (1)”.
 
-Subsec. (g)(1). Pub. L. 98–525, § 1405(29)(C), struck out “of this section” after “subsection (b)”.
+Subsec. (g)(1). Pub. L. 98–525, § 1405(29)(C), struck out “of this section” after “subsection (b)”.
 
 1982—Subsecs. (d), (e)(1). Pub. L. 97–295 substituted “pay” for “compensation” wherever appearing.
 
@@ -1340,7 +1340,7 @@ Sec. 2. The Secretary of Defense shall from time to time, and at least annually,
 
 Dwight D. Eisenhower.
 
-## § 1587. Employees of nonappropriated fund instrumentalities: reprisals
+## § 1587. Employees of nonappropriated fund instrumentalities: reprisals
 
 **(a)** In this section:
 
@@ -1386,23 +1386,23 @@ if such disclosure is not specifically prohibited by law and if the information 
 
 **(e)** The Secretary of Defense, after consultation with the Director of the Office of Personnel Management and the Special Counsel of the Merit Systems Protection Board, shall prescribe regulations to carry out this section. Such regulations shall include provisions to protect the confidentiality of employees and applicants making disclosures described in clauses (1) and (2) of subsection (b) and to permit the reporting of alleged violations of subsection (b) directly to the Inspector General of the Department of Defense.
 
-(Added Pub. L. 98–94, title XII, § 1253(a)(1), Sept. 24, 1983, 97 Stat. 699; amended Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 104–106, div. A, title IX, § 903(f)(3), title X, § 1040(a)–(d)(1), Feb. 10, 1996, 110 Stat. 402, 433; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 113–66, div. A, title VI, § 641, Dec. 26, 2013, 127 Stat. 787.)
+(Added Pub. L. 98–94, title XII, § 1253(a)(1), Sept. 24, 1983, 97 Stat. 699; amended Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 104–106, div. A, title IX, § 903(f)(3), title X, § 1040(a)–(d)(1), Feb. 10, 1996, 110 Stat. 402, 433; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 113–66, div. A, title VI, § 641, Dec. 26, 2013, 127 Stat. 787.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Subsec. (b). Pub. L. 113–66 inserted “, or threaten to take or fail to take,” after “take or fail to take”.
+2013—Subsec. (b). Pub. L. 113–66 inserted “, or threaten to take or fail to take,” after “take or fail to take”.
 
-1996—Pub. L. 104–106, § 1040(d)(1), inserted “: reprisals” after “instrumentalities” in section catchline.
+1996—Pub. L. 104–106, § 1040(d)(1), inserted “: reprisals” after “instrumentalities” in section catchline.
 
-Subsec. (a)(1). Pub. L. 104–106, § 1040(c), substituted “Navy Exchange Service Command” for “Navy Resale and Services Support Office”.
+Subsec. (a)(1). Pub. L. 104–106, § 1040(c), substituted “Navy Exchange Service Command” for “Navy Resale and Services Support Office”.
 
-Pub. L. 104–106, § 1040(a), inserted at end “Such term includes a civilian employee of a support organization within the Department of Defense or a military department, such as the Defense Finance and Accounting Service, who is paid from nonappropriated funds on account of the nature of the employee’s duties.”
+Pub. L. 104–106, § 1040(a), inserted at end “Such term includes a civilian employee of a support organization within the Department of Defense or a military department, such as the Defense Finance and Accounting Service, who is paid from nonappropriated funds on account of the nature of the employee’s duties.”
 
-Subsec. (d). Pub. L. 104–106, § 903(a), (f)(3), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for personnel and readiness” for “Assistant Secretary of Defense for Manpower and Logistics”, was repealed by Pub. L. 104–201.
+Subsec. (d). Pub. L. 104–106, § 903(a), (f)(3), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for personnel and readiness” for “Assistant Secretary of Defense for Manpower and Logistics”, was repealed by Pub. L. 104–201.
 
-Subsec. (e). Pub. L. 104–106, § 1040(b), inserted before period at end of second sentence “and to permit the reporting of alleged violations of subsection (b) directly to the Inspector General of the Department of Defense”.
+Subsec. (e). Pub. L. 104–106, § 1040(b), inserted before period at end of second sentence “and to permit the reporting of alleged violations of subsection (b) directly to the Inspector General of the Department of Defense”.
 
 1987—Subsec. (a). Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in each par. and substituted lowercase letter.
 
@@ -1410,11 +1410,11 @@ Subsec. (e). Pub. L. 104–106, § 1040(b), inserted before period at end of s
 
 **Effective Date**
 
-Pub. L. 98–94, title XII, § 1253(b), Sept. 24, 1983, 97 Stat. 700, provided that: “Section 1587 of such title [this section], as added by subsection (a), shall apply with respect to any conduct prohibited by subsection (b) of such section which occurs after the date of the enactment of this Act [Sept. 24, 1983].”
+Pub. L. 98–94, title XII, § 1253(b), Sept. 24, 1983, 97 Stat. 700, provided that: “Section 1587 of such title [this section], as added by subsection (a), shall apply with respect to any conduct prohibited by subsection (b) of such section which occurs after the date of the enactment of this Act [Sept. 24, 1983].”
 
 **Limitation on Provision of Overseas Living Quarters Allowances for Nonappropriated Fund Instrumentality Employees**
 
-Pub. L. 104–106, div. A, title X, § 1042, Feb. 10, 1996, 110 Stat. 434, provided that:
+Pub. L. 104–106, div. A, title X, § 1042, Feb. 10, 1996, 110 Stat. 434, provided that:
 
 > **“(a) Conforming Allowance to Allowances for Other Civilian Employees.—** Subject to subsection (b), an overseas living quarters allowance paid from nonappropriated funds and provided to a nonappropriated fund instrumentality employee after the date of the enactment of this Act [Feb. 10, 1996] may not exceed the amount of a quarters allowance provided under subchapter III of chapter 59 of title 5 to a similarly situated civilian employee of the Department of Defense paid from appropriated funds.
 
@@ -1428,7 +1428,7 @@ Pub. L. 104–106, div. A, title X, § 1042, Feb. 10, 1996, 110 Stat. 434, pro
 
 **Uniform Health Benefits Program for Employees of Department of Defense Assigned to Nonappropriated Fund Instrumentalities**
 
-Pub. L. 103–337, div. A, title III, § 349, Oct. 5, 1994, 108 Stat. 2727, as amended by Pub. L. 108–375, div. A, title VI, § 652, Oct. 28, 2004, 118 Stat. 1973, provided that:
+Pub. L. 103–337, div. A, title III, § 349, Oct. 5, 1994, 108 Stat. 2727, as amended by Pub. L. 108–375, div. A, title VI, § 652, Oct. 28, 2004, 118 Stat. 1973, provided that:
 
 > **“(a) In General.—** Not later than October 1, 1995, the Secretary of Defense shall take such steps as may be necessary to provide a uniform health benefits program for employees of the Department of Defense assigned to a nonappropriated fund instrumentality of the Department.
 
@@ -1442,7 +1442,7 @@ Pub. L. 103–337, div. A, title III, § 349, Oct. 5, 1994, 108 Stat. 2727, as
 
 > **“(3)** In this subsection, the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, and any political subdivision or other non-Federal authority thereof.”
 
-## § 1587a. Employees of nonappropriated fund instrumentalities: senior executive pay levels
+## § 1587a. Employees of nonappropriated fund instrumentalities: senior executive pay levels
 
 **(a) Authority.—** To achieve the objective stated in subsection (b), the Secretary of Defense may regulate the amount of total compensation that is provided for senior executives of nonappropriated fund instrumentalities who, for the fixing of pay by administrative action, are under the jurisdiction of the Secretary of Defense or the Secretary of a military department.
 
@@ -1460,9 +1460,9 @@ Pub. L. 103–337, div. A, title III, § 349, Oct. 5, 1994, 108 Stat. 2727, as
 
 **(2)** The term “Senior Executive Service position” has the meaning given such term in section 3132 of title 5.
 
-(Added Pub. L. 108–375, div. A, title XI, § 1104(a), Oct. 28, 2004, 118 Stat. 2073.)
+(Added Pub. L. 108–375, div. A, title XI, § 1104(a), Oct. 28, 2004, 118 Stat. 2073.)
 
-## § 1588. Authority to accept certain voluntary services
+## § 1588. Authority to accept certain voluntary services
 
 **(a) Authority To Accept Services.—** Subject to subsection (b) and notwithstanding section 1342 of title 31, the Secretary concerned may accept from any person the following services:
 
@@ -1560,15 +1560,15 @@ Pub. L. 103–337, div. A, title III, § 349, Oct. 5, 1994, 108 Stat. 2727, as
 
 **(g) Secretary Concerned for Acceptance of Services for Programs Serving Members of NOAA Corps and Their Families.—** For purposes of the acceptance of services described in subsection (a)(3), the term “Secretary concerned” in subsection (a) shall include the Secretary of Commerce with respect to members of the commissioned officer corps of the National Oceanic and Atmospheric Administration.
 
-(Added Pub. L. 98–94, title XII, § 1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, § 1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, § 1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, § 3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, § 1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, § 345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, § 1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, § 1074(a)(8), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–65, div. A, title III, § 371(a), title V, § 578(f), Oct. 5, 1999, 113 Stat. 579, 627; Pub. L. 107–107, div. A, title V, § 583, Dec. 28, 2001, 115 Stat. 1125; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, § 553, title X, § 1064(b), Dec. 2, 2002, 116 Stat. 2552, 2654; Pub. L. 108–375, div. A, title V, § 516, title X, § 1081, Oct. 28, 2004, 118 Stat. 1884, 2059; Pub. L. 110–181, div. A, title X, § 1063(a)(9), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–239, div. A, title V, § 587(b), Jan. 2, 2013, 126 Stat. 1768; Pub. L. 113–291, div. A, title X, § 1043, Dec. 19, 2014, 128 Stat. 3493; Pub. L. 116–259, title II, § 205(b)(2), Dec. 23, 2020, 134 Stat. 1167.)
+(Added Pub. L. 98–94, title XII, § 1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, § 1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, § 1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, § 3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, § 1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, § 345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, § 1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, § 1074(a)(8), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–65, div. A, title III, § 371(a), title V, § 578(f), Oct. 5, 1999, 113 Stat. 579, 627; Pub. L. 107–107, div. A, title V, § 583, Dec. 28, 2001, 115 Stat. 1125; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, § 553, title X, § 1064(b), Dec. 2, 2002, 116 Stat. 2552, 2654; Pub. L. 108–375, div. A, title V, § 516, title X, § 1081, Oct. 28, 2004, 118 Stat. 1884, 2059; Pub. L. 110–181, div. A, title X, § 1063(a)(9), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–239, div. A, title V, § 587(b), Jan. 2, 2013, 126 Stat. 1768; Pub. L. 113–291, div. A, title X, § 1043, Dec. 19, 2014, 128 Stat. 3493; Pub. L. 116–259, title II, § 205(b)(2), Dec. 23, 2020, 134 Stat. 1167.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (a)(3). Pub. L. 116–259, § 205(b)(2)(A), substituted “uniformed services” for “armed forces” in introductory provisions.
+2020—Subsec. (a)(3). Pub. L. 116–259, § 205(b)(2)(A), substituted “uniformed services” for “armed forces” in introductory provisions.
 
-Subsec. (g). Pub. L. 116–259, § 205(b)(2)(B), added subsec. (g).
+Subsec. (g). Pub. L. 116–259, § 205(b)(2)(B), added subsec. (g).
 
 2014—Subsec. (a)(10). Pub. L. 113–291 added par. (10).
 
@@ -1576,25 +1576,25 @@ Subsec. (g). Pub. L. 116–259, § 205(b)(2)(B), added subsec. (g).
 
 2008—Subsec. (d)(1)(B). Pub. L. 110–181 substituted “chapters 309 and 311 of title 46” for “the Act of March 9, 1920, commonly known as the ‘Suits in Admiralty Act’ (41 Stat. 525; 46 U.S.C. App. 741 et seq.) and the Act of March 3, 1925, commonly known as the ‘Public Vessels Act’ (43 Stat. 1112; 46 U.S.C. App. 781 et seq.)”.
 
-2004—Subsec. (a)(8). Pub. L. 108–375, § 516(1), added par. (8).
+2004—Subsec. (a)(8). Pub. L. 108–375, § 516(1), added par. (8).
 
-Subsec. (d)(1)(B). Pub. L. 108–375, § 1081, inserted before period at end “and the Act of March 9, 1920, commonly known as the ‘Suits in Admiralty Act’ (41 Stat. 525; 46 U.S.C. App. 741 et seq.) and the Act of March 3, 1925, commonly known as the ‘Public Vessels Act’ (43 Stat. 1112; 46 U.S.C. App. 781 et seq.) (relating to claims for damages or loss on navigable waters)”.
+Subsec. (d)(1)(B). Pub. L. 108–375, § 1081, inserted before period at end “and the Act of March 9, 1920, commonly known as the ‘Suits in Admiralty Act’ (41 Stat. 525; 46 U.S.C. App. 741 et seq.) and the Act of March 3, 1925, commonly known as the ‘Public Vessels Act’ (43 Stat. 1112; 46 U.S.C. App. 781 et seq.) (relating to claims for damages or loss on navigable waters)”.
 
-Subsec. (f)(1). Pub. L. 108–375, § 516(2), substituted “paragraph (3) or (8) of subsection (a)” for “subsection (a)(3)”.
+Subsec. (f)(1). Pub. L. 108–375, § 516(2), substituted “paragraph (3) or (8) of subsection (a)” for “subsection (a)(3)”.
 
-2002—Subsec. (a)(6). Pub. L. 107–314, § 553, added par. (6).
+2002—Subsec. (a)(6). Pub. L. 107–314, § 553, added par. (6).
 
-Subsec. (a)(7). Pub. L. 107–314, § 1064(b), added par. (7).
+Subsec. (a)(7). Pub. L. 107–314, § 1064(b), added par. (7).
 
 Subsec. (f)(4). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2001—Subsec. (a)(5). Pub. L. 107–107, § 583(a), added par. (5).
+2001—Subsec. (a)(5). Pub. L. 107–107, § 583(a), added par. (5).
 
-Subsec. (d)(1)(E). Pub. L. 107–107, § 583(b), added subpar. (E).
+Subsec. (d)(1)(E). Pub. L. 107–107, § 583(b), added subpar. (E).
 
-1999—Subsec. (a)(4). Pub. L. 106–65, § 578(f), added par. (4).
+1999—Subsec. (a)(4). Pub. L. 106–65, § 578(f), added par. (4).
 
-Subsec. (f). Pub. L. 106–65, § 371(a), added subsec. (f).
+Subsec. (f). Pub. L. 106–65, § 371(a), added subsec. (f).
 
 1996—Subsec. (d)(1)(C). Pub. L. 104–201 substituted “Section 552a” for “Section 522a”.
 
@@ -1622,17 +1622,17 @@ Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–145, title XVI, § 1624(b), Nov. 8, 1985, 99 Stat. 778, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title XVI, § 1624(b), Nov. 8, 1985, 99 Stat. 778, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1985.”
 
 **Report on Implementation of Authority To Install Telecommunications Equipment for Persons Performing Voluntary Services**
 
-Pub. L. 106–65, div. A, title III, § 371(b), Oct. 5, 1999, 113 Stat. 579, provided that: “Not later than two years after final regulations prescribed under subsection (f)(4) of section 1588 of title 10, United States Code, as added by subsection (a), take effect, the Comptroller General shall review the exercise of authority under such subsection (f) and submit to Congress a report on the findings resulting from the review.”
+Pub. L. 106–65, div. A, title III, § 371(b), Oct. 5, 1999, 113 Stat. 579, provided that: “Not later than two years after final regulations prescribed under subsection (f)(4) of section 1588 of title 10, United States Code, as added by subsection (a), take effect, the Comptroller General shall review the exercise of authority under such subsection (f) and submit to Congress a report on the findings resulting from the review.”
 
 **Acceptance of Voluntary Services Pilot Program**
 
-Pub. L. 103–337, div. A, title X, § 1061(b), Oct. 5, 1994, 108 Stat. 2847, required the Secretary of Defense to conduct a pilot program, for not less than six months, to evaluate the policies and procedures of the Department of Defense for the acceptance of voluntary services under this section, with a final report due to Congress no later than 60 days after the termination of the program.
+Pub. L. 103–337, div. A, title X, § 1061(b), Oct. 5, 1994, 108 Stat. 2847, required the Secretary of Defense to conduct a pilot program, for not less than six months, to evaluate the policies and procedures of the Department of Defense for the acceptance of voluntary services under this section, with a final report due to Congress no later than 60 days after the termination of the program.
 
-## § 1589. Participation in management of specified non-Federal entities: authorized activities
+## § 1589. Participation in management of specified non-Federal entities: authorized activities
 
 **(a) Authorization.—**
 
@@ -1648,13 +1648,13 @@ Pub. L. 103–337, div. A, title X, § 1061(b), Oct. 5, 1994, 108 Stat. 2847, 
 
 **(e) Regulations.—** The Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 105–85, div. A, title V, § 593(b)(1), Nov. 18, 1997, 111 Stat. 1763; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 105–85, div. A, title V, § 593(b)(1), Nov. 18, 1997, 111 Stat. 1763; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1589, added Pub. L. 98–525, title XIV, § 1401(f)(1), Oct. 19, 1984, 98 Stat. 2618, provided, with exceptions, for prohibition on payment of lodging expenses when adequate Government quarters were available, prior to repeal by Pub. L. 104–201, div. A, title XVI, § 1614(b)(1), Sept. 23, 1996, 110 Stat. 2739.
+A prior section 1589, added Pub. L. 98–525, title XIV, § 1401(f)(1), Oct. 19, 1984, 98 Stat. 2618, provided, with exceptions, for prohibition on payment of lodging expenses when adequate Government quarters were available, prior to repeal by Pub. L. 104–201, div. A, title XVI, § 1614(b)(1), Sept. 23, 1996, 110 Stat. 2739.
 
 **Amendments**
 
@@ -1666,9 +1666,9 @@ A prior section 1589, added Pub. L. 98–525, title XIV, § 1401(f)(1), Oct. 1
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-## [§ 1590. Repealed. Pub. L. 104–201, div. A, title XVI, § 1633(a), Sept. 23, 1996, 110 Stat. 2751]
+## [§ 1590. Repealed. Pub. L. 104–201, div. A, title XVI, § 1633(a), Sept. 23, 1996, 110 Stat. 2751]
 
-Section, added Pub. L. 99–569, title V, § 504(a), Oct. 27, 1986, 100 Stat. 3198; amended Pub. L. 100–178, title VI, § 602(b), Dec. 2, 1987, 101 Stat. 1016; Pub. L. 101–193, title V, § 503(a), Nov. 30, 1989, 103 Stat. 1708; Pub. L. 102–496, title IV, § 402(a), Oct. 24, 1992, 106 Stat. 3184; Pub. L. 103–35, title II, § 201(g)(2), May 31, 1993, 107 Stat. 100, related to management of civilian intelligence personnel of the military departments. See sections 1601 to 1603, 1606, and 1609 of this title.
+Section, added Pub. L. 99–569, title V, § 504(a), Oct. 27, 1986, 100 Stat. 3198; amended Pub. L. 100–178, title VI, § 602(b), Dec. 2, 1987, 101 Stat. 1016; Pub. L. 101–193, title V, § 503(a), Nov. 30, 1989, 103 Stat. 1708; Pub. L. 102–496, title IV, § 402(a), Oct. 24, 1992, 106 Stat. 3184; Pub. L. 103–35, title II, § 201(g)(2), May 31, 1993, 107 Stat. 100, related to management of civilian intelligence personnel of the military departments. See sections 1601 to 1603, 1606, and 1609 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1676,7 +1676,7 @@ Section, added Pub. L. 99–569, title V, § 504(a), Oct. 27, 1986, 100 Stat. 
 
 Repeal effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 1593 of this title.
 
-## § 1591. Reimbursement for travel and transportation expenses when accompanying Members of Congress
+## § 1591. Reimbursement for travel and transportation expenses when accompanying Members of Congress
 
 **(a)** Subject to subsection (b), the Secretary concerned may authorize reimbursement to a civilian employee who is accompanying a Member of Congress or a congressional employee on official travel for actual travel and transportation expenses incurred for such travel.
 
@@ -1694,19 +1694,19 @@ Repeal effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as
 
 **(3)** The term “Secretary concerned” includes the Secretary of Defense with respect to civilian employees of the Department of Defense other than a military department.
 
-(Added Pub. L. 100–180, div. A, title VI, § 617(b)(1), Dec. 4, 1987, 101 Stat. 1097.)
+(Added Pub. L. 100–180, div. A, title VI, § 617(b)(1), Dec. 4, 1987, 101 Stat. 1097.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–180, div. A, title VI, § 617(c), Dec. 4, 1987, 101 Stat. 1097, as amended by Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “Subsection (h) of section 474 of title 37, United States Code (as added by subsection (a)), and section 1591 of title 10, United States Code (as added by subsection (b)), shall apply with respect to travel performed after the date of the enactment of this Act [Dec. 4, 1987].”
+Pub. L. 100–180, div. A, title VI, § 617(c), Dec. 4, 1987, 101 Stat. 1097, as amended by Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “Subsection (h) of section 474 of title 37, United States Code (as added by subsection (a)), and section 1591 of title 10, United States Code (as added by subsection (b)), shall apply with respect to travel performed after the date of the enactment of this Act [Dec. 4, 1987].”
 
-## § 1592. Prohibition on payment of severance pay to foreign nationals in the event of certain overseas base closures
+## § 1592. Prohibition on payment of severance pay to foreign nationals in the event of certain overseas base closures
 
 Funds available to the Department of Defense (including funds in the Foreign National Employees Separation Pay Account, Defense, established under section 1581 of this title) may not be used to pay severance pay to a foreign national employed by the Department of Defense under a contract, a treaty, or a memorandum of understanding with a foreign nation that provides for payment of separation pay if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States military facility in that country at the request of the government of that country.
 
-(Added Pub. L. 101–189, div. A, title III, § 311(b)(1), Nov. 29, 1989, 103 Stat. 1411; amended Pub. L. 102–190, div. A, title X, § 1003(b), Dec. 5, 1991, 105 Stat. 1456; Pub. L. 102–484, div. A, title X, § 1052(21), Oct. 23, 1992, 106 Stat. 2500.)
+(Added Pub. L. 101–189, div. A, title III, § 311(b)(1), Nov. 29, 1989, 103 Stat. 1411; amended Pub. L. 102–190, div. A, title X, § 1003(b), Dec. 5, 1991, 105 Stat. 1456; Pub. L. 102–484, div. A, title X, § 1052(21), Oct. 23, 1992, 106 Stat. 2500.)
 
 **Editorial Notes**
 
@@ -1724,21 +1724,21 @@ Another section 1592 was renumbered section 1596 of this title.
 
 **Effective Date**
 
-Pub. L. 101–189, div. A, title III, § 311(b)(3), Nov. 29, 1989, 103 Stat. 1412, as amended by Pub. L. 102–484, div. A, title XIII, § 1352(a), Oct. 23, 1992, 106 Stat. 2558, provided that:
+Pub. L. 101–189, div. A, title III, § 311(b)(3), Nov. 29, 1989, 103 Stat. 1412, as amended by Pub. L. 102–484, div. A, title XIII, § 1352(a), Oct. 23, 1992, 106 Stat. 2558, provided that:
 
 > **“(A)** Section 1592 of title 10, United States Code, as added by paragraph (1), shall take effect on the date of the enactment of this Act [Nov. 29, 1989].
 
-> **“[(B)** Repealed. Pub. L. 102–484, div. A, title XIII, § 1352(a), Oct. 23, 1992, 106 Stat. 2558.]”
+> **“[(B)** Repealed. Pub. L. 102–484, div. A, title XIII, § 1352(a), Oct. 23, 1992, 106 Stat. 2558.]”
 
 **Prohibition on Payment of Severance Pay to Certain Foreign Nationals in the Philippines**
 
-Pub. L. 102–484, div. A, title XIII, § 1351, Oct. 23, 1992, 106 Stat. 2558, provided that:
+Pub. L. 102–484, div. A, title XIII, § 1351, Oct. 23, 1992, 106 Stat. 2558, provided that:
 
 > **“(a) Prohibition.—** Funds available to the Department of Defense may not be used to pay severance pay to a foreign national employed by the Department of Defense in the Republic of the Philippines if the discontinuation of the employment of the foreign national is the result of the termination of basing rights of the United States military in the Republic of the Philippines.
 
 > **“(b) Prohibition on Allowance of Certain Severance Pay as Contract Costs.—** Funds available to the Department of Defense may not be used to pay the costs of severance pay paid by a contractor to a foreign national employed by the contractor under a defense service contract in the Philippines if the discontinuation of the employment of the foreign national is the result of the termination of basing rights of the United States military in the Philippines.”
 
-## § 1593. Uniform allowance: civilian employees
+## § 1593. Uniform allowance: civilian employees
 
 **(a) Allowance Authorized.—**
 
@@ -1754,13 +1754,13 @@ Pub. L. 102–484, div. A, title XIII, § 1351, Oct. 23, 1992, 106 Stat. 2558,
 
 **(d) Use of Appropriated Funds for Allowance.—** Amounts appropriated annually to the Department of Defense for the pay of civilian employees may be used for uniforms, or for allowance for uniforms, as authorized by this section and section 5901 of title 5.
 
-(Added Pub. L. 101–189, div. A, title III, § 336(a)(1), Nov. 29, 1989, 103 Stat. 1419; amended Pub. L. 101–510, div. A, title XIV, § 1481(d)(3), Nov. 5, 1990, 104 Stat. 1706; Pub. L. 104–201, div. A, title XVI, § 1633(e)(1), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 110–181, div. A, title XI, § 1113, Jan. 28, 2008, 122 Stat. 360.)
+(Added Pub. L. 101–189, div. A, title III, § 336(a)(1), Nov. 29, 1989, 103 Stat. 1419; amended Pub. L. 101–510, div. A, title XIV, § 1481(d)(3), Nov. 5, 1990, 104 Stat. 1706; Pub. L. 104–201, div. A, title XVI, § 1633(e)(1), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 110–181, div. A, title XI, § 1113, Jan. 28, 2008, 122 Stat. 360.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in subsec. (d) of this section were contained in Pub. L. 101–165, title IX, § 9010, Nov. 21, 1989, 103 Stat. 1131, which was set out as a note below, prior to repeal by Pub. L. 101–510, § 1481(d)(4)(B).
+Provisions similar to those in subsec. (d) of this section were contained in Pub. L. 101–165, title IX, § 9010, Nov. 21, 1989, 103 Stat. 1131, which was set out as a note below, prior to repeal by Pub. L. 101–510, § 1481(d)(4)(B).
 
 **Amendments**
 
@@ -1774,17 +1774,17 @@ Provisions similar to those in subsec. (d) of this section were contained in Pub
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–201, div. A, title XVI, § 1635, Sept. 23, 1996, 110 Stat. 2752, provided that: “This subtitle [subtitle B (§§ 1631–1635) of title XVI of div. A of Pub. L. 104–201, enacting sections 1601 to 1603, 1606 to 1610, and 1612 to 1614 of this title, amending this section, sections 1596, 1605, 1611, and 1621 of this title, and sections 7103 and 7511 of Title 5, Government Organization and Employees, renumbering sections 1599, 1602, 1606, and 1608 of this title as sections 1611, 1621, 1622, and 1623 of this title, respectively, repealing sections 1590, 1601, 1603, and 1604 of this title and section 833 of Title 50, War and National Defense, enacting provisions set out as a note under section 1601 of this title, and repealing provisions formerly set out in a National Security Agency Act of 1959 note under section 402 of Title 50] and the amendments made by this subtitle shall take effect on October 1, 1996.”
+Pub. L. 104–201, div. A, title XVI, § 1635, Sept. 23, 1996, 110 Stat. 2752, provided that: “This subtitle [subtitle B (§§ 1631–1635) of title XVI of div. A of Pub. L. 104–201, enacting sections 1601 to 1603, 1606 to 1610, and 1612 to 1614 of this title, amending this section, sections 1596, 1605, 1611, and 1621 of this title, and sections 7103 and 7511 of Title 5, Government Organization and Employees, renumbering sections 1599, 1602, 1606, and 1608 of this title as sections 1611, 1621, 1622, and 1623 of this title, respectively, repealing sections 1590, 1601, 1603, and 1604 of this title and section 833 of Title 50, War and National Defense, enacting provisions set out as a note under section 1601 of this title, and repealing provisions formerly set out in a National Security Agency Act of 1959 note under section 402 of Title 50] and the amendments made by this subtitle shall take effect on October 1, 1996.”
 
 **Effective Date**
 
-Pub. L. 101–189, div. A, title III, § 336(c), Nov. 29, 1989, 103 Stat. 1419, provided that: “The amendments made by this section [enacting this section and amending section 1606 of this title] shall take effect on January 1, 1990.”
+Pub. L. 101–189, div. A, title III, § 336(c), Nov. 29, 1989, 103 Stat. 1419, provided that: “The amendments made by this section [enacting this section and amending section 1606 of this title] shall take effect on January 1, 1990.”
 
 **Availability of Funds for Pay of Civilian Employees for Uniforms**
 
-Pub. L. 101–165, title IX, § 9010, Nov. 21, 1989, 103 Stat. 1131, which made appropriations available to Department of Defense for pay of civilian employees for uniforms, or allowances therefor, as authorized by section 5901 of title 5, was repealed and restated in subsec. (d) of this section by Pub. L. 101–510, § 1481(d)(3), (4)(B).
+Pub. L. 101–165, title IX, § 9010, Nov. 21, 1989, 103 Stat. 1131, which made appropriations available to Department of Defense for pay of civilian employees for uniforms, or allowances therefor, as authorized by section 5901 of title 5, was repealed and restated in subsec. (d) of this section by Pub. L. 101–510, § 1481(d)(3), (4)(B).
 
-## § 1594. Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay
+## § 1594. Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay
 
 **(a)**
 
@@ -1802,7 +1802,7 @@ Pub. L. 101–165, title IX, § 9010, Nov. 21, 1989, 103 Stat. 1131, which mad
 
 **(2)** The term “pay” includes allowances.
 
-(Added Pub. L. 101–189, div. A, title VI, § 664(b)(1), Nov. 29, 1989, 103 Stat. 1466; amended Pub. L. 101–510, div. A, title XIV, § 1484(k)(6), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–25, title VII, § 701(e)(8)(A), Apr. 6, 1991, 105 Stat. 115; Pub. L. 105–261, div. A, title V, § 564(b), Oct. 17, 1998, 112 Stat. 2029.)
+(Added Pub. L. 101–189, div. A, title VI, § 664(b)(1), Nov. 29, 1989, 103 Stat. 1466; amended Pub. L. 101–510, div. A, title XIV, § 1484(k)(6), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–25, title VII, § 701(e)(8)(A), Apr. 6, 1991, 105 Stat. 115; Pub. L. 105–261, div. A, title V, § 564(b), Oct. 17, 1998, 112 Stat. 2029.)
 
 **Editorial Notes**
 
@@ -1820,7 +1820,7 @@ Pub. L. 101–165, title IX, § 9010, Nov. 21, 1989, 103 Stat. 1131, which mad
 
 Section applicable with respect to pay and allowances deposited (or scheduled to be deposited) on or after first day of first month beginning after Nov. 29, 1989, see section 664(c) of Pub. L. 101–189, set out as an Effective Date of 1989 Amendment note under section 1053 of this title.
 
-## § 1595. Civilian faculty members at certain Department of Defense schools: employment and compensation
+## § 1595. Civilian faculty members at certain Department of Defense schools: employment and compensation
 
 **(a) Authority of Secretary.—** The Secretary of Defense may employ as many civilians as professors, instructors, and lecturers at the organizations specified in subsection (c) as the Secretary considers necessary.
 
@@ -1848,17 +1848,17 @@ Section applicable with respect to pay and allowances deposited (or scheduled to
 
 **(d) Application to Faculty Members at NDU.—** In the case of the National Defense University, this section applies with respect to persons selected by the Secretary for employment as professors, instructors, and lecturers at the National Defense University after February 27, 1990.
 
-(Added Pub. L. 101–189, div. A, title XI, § 1124(a)(1), Nov. 29, 1989, 103 Stat. 1558; amended Pub. L. 102–25, title VII, § 701(h)(1), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title IX, § 911, Dec. 5, 1991, 105 Stat. 1452; Pub. L. 102–484, div. A, title IX, § 923(a)(1), (2)(A), Oct. 23, 1992, 106 Stat. 2474; Pub. L. 103–160, div. A, title IX, § 923(a)(1), Nov. 30, 1993, 107 Stat. 1731; Pub. L. 104–201, div. A, title XVI, § 1607, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–85, div. A, title IX, §§ 921(c), 922(b), Nov. 18, 1997, 111 Stat. 1863; Pub. L. 108–136, div. A, title XI, § 1115, Nov. 24, 2003, 117 Stat. 1636; Pub. L. 109–364, div. A, title IX, § 904(b)(1), Oct. 17, 2006, 120 Stat. 2353; Pub. L. 115–232, div. A, title V, § 555, Aug. 13, 2018, 132 Stat. 1773; Pub. L. 116–283, div. A, title XI, § 1107, Jan. 1, 2021, 134 Stat. 3891; Pub. L. 117–81, div. A, title XI, § 1104, Dec. 27, 2021, 135 Stat. 1950; Pub. L. 118–159, div. A, title XI, § 1107, Dec. 23, 2024, 138 Stat. 2088.)
+(Added Pub. L. 101–189, div. A, title XI, § 1124(a)(1), Nov. 29, 1989, 103 Stat. 1558; amended Pub. L. 102–25, title VII, § 701(h)(1), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title IX, § 911, Dec. 5, 1991, 105 Stat. 1452; Pub. L. 102–484, div. A, title IX, § 923(a)(1), (2)(A), Oct. 23, 1992, 106 Stat. 2474; Pub. L. 103–160, div. A, title IX, § 923(a)(1), Nov. 30, 1993, 107 Stat. 1731; Pub. L. 104–201, div. A, title XVI, § 1607, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–85, div. A, title IX, §§ 921(c), 922(b), Nov. 18, 1997, 111 Stat. 1863; Pub. L. 108–136, div. A, title XI, § 1115, Nov. 24, 2003, 117 Stat. 1636; Pub. L. 109–364, div. A, title IX, § 904(b)(1), Oct. 17, 2006, 120 Stat. 2353; Pub. L. 115–232, div. A, title V, § 555, Aug. 13, 2018, 132 Stat. 1773; Pub. L. 116–283, div. A, title XI, § 1107, Jan. 1, 2021, 134 Stat. 3891; Pub. L. 117–81, div. A, title XI, § 1104, Dec. 27, 2021, 135 Stat. 1950; Pub. L. 118–159, div. A, title XI, § 1107, Dec. 23, 2024, 138 Stat. 2088.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–159, § 1107(b)(1), substituted “organizations” for “institutions”.
+2024—Subsec. (a). Pub. L. 118–159, § 1107(b)(1), substituted “organizations” for “institutions”.
 
-Subsec. (c). Pub. L. 118–159, § 1107(b)(2), substituted “Organizations” for “Institutions” in heading and “organizations” for “institutions” in introductory provisions.
+Subsec. (c). Pub. L. 118–159, § 1107(b)(2), substituted “Organizations” for “Institutions” in heading and “organizations” for “institutions” in introductory provisions.
 
-Subsec. (c)(9). Pub. L. 118–159, § 1107(a), added par. (9).
+Subsec. (c)(9). Pub. L. 118–159, § 1107(a), added par. (9).
 
 2021—Subsec. (c)(6), (7). Pub. L. 116–283 added pars. (6) and (7).
 
@@ -1866,9 +1866,9 @@ Subsec. (c)(8). Pub. L. 117–81 added par. (8).
 
 2018—Subsec. (c)(5). Pub. L. 115–232 added par. (5).
 
-2006—Subsec. (c)(3) to (6). Pub. L. 109–364, § 904(b)(1)(A), redesignated pars. (4) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (5) which related to the George C. Marshall European Center for Security Studies and the Asia-Pacific Center for Security Studies, respectively.
+2006—Subsec. (c)(3) to (6). Pub. L. 109–364, § 904(b)(1)(A), redesignated pars. (4) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (5) which related to the George C. Marshall European Center for Security Studies and the Asia-Pacific Center for Security Studies, respectively.
 
-Subsec. (e). Pub. L. 109–364, § 904(b)(1)(B), struck out heading and text of subsec. (e). Text read as follows: “In addition to the persons specified in subsection (a), this section also applies with respect to the Director and the Deputy Director of the following:
+Subsec. (e). Pub. L. 109–364, § 904(b)(1)(B), struck out heading and text of subsec. (e). Text read as follows: “In addition to the persons specified in subsection (a), this section also applies with respect to the Director and the Deputy Director of the following:
 
 “(1) The George C. Marshall European Center for Security Studies.
 
@@ -1878,25 +1878,25 @@ Subsec. (e). Pub. L. 109–364, § 904(b)(1)(B), struck out heading and text o
 
 2003—Subsec. (c)(6). Pub. L. 108–136 added par. (6).
 
-1997—Subsec. (d). Pub. L. 105–85, § 921(c), struck out “(1)” before “In the case of” and struck out par. (2) which read as follows: “For purposes of this section, the National Defense University includes the National War College, the Armed Forces Staff College, the Institute for National Strategic Study, and the Industrial College of the Armed Forces.”
+1997—Subsec. (d). Pub. L. 105–85, § 921(c), struck out “(1)” before “In the case of” and struck out par. (2) which read as follows: “For purposes of this section, the National Defense University includes the National War College, the Armed Forces Staff College, the Institute for National Strategic Study, and the Industrial College of the Armed Forces.”
 
-Subsecs. (e), (f). Pub. L. 105–85, § 922(b), added subsec. (e) and struck out former subsecs. (e) and (f) which read as follows:
+Subsecs. (e), (f). Pub. L. 105–85, § 922(b), added subsec. (e) and struck out former subsecs. (e) and (f) which read as follows:
 
 “(e) Application to Director and Deputy Director at George C. Marshall Center.—In the case of the George C. Marshall European Center for Security Studies, this section also applies with respect to the Director and the Deputy Director.
 
 “(f) Application to Director and Deputy Director at Asia-Pacific Center for Security Studies.—In the case of the Asia-Pacific Center for Security Studies, this section also applies with respect to the Director and the Deputy Director.”
 
-1996—Subsec. (c)(4), (5). Pub. L. 104–201, § 1607(a), added pars. (4) and (5).
+1996—Subsec. (c)(4), (5). Pub. L. 104–201, § 1607(a), added pars. (4) and (5).
 
-Subsec. (f). Pub. L. 104–201, § 1607(b), added subsec. (f).
+Subsec. (f). Pub. L. 104–201, § 1607(b), added subsec. (f).
 
 1993—Pub. L. 103–160 substituted “Civilian faculty members at certain Department of Defense schools: employment and compensation” for “National Defense University: Foreign Language Center of the Defense Language Institute: civilian faculty members” as section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (d) relating to similar subject matter but not including coverage of the George C. Marshall European Center for Security Studies.
 
-1992—Pub. L. 102–484, § 923(a)(2)(A), substituted “University; Foreign Language Center of the Defense Language Institute” for “University:” in section catchline.
+1992—Pub. L. 102–484, § 923(a)(2)(A), substituted “University; Foreign Language Center of the Defense Language Institute” for “University:” in section catchline.
 
-Subsec. (a). Pub. L. 102–484, § 923(a)(1)(A), inserted “and the Foreign Language Center of the Defense Language Institute” after “National Defense University”.
+Subsec. (a). Pub. L. 102–484, § 923(a)(1)(A), inserted “and the Foreign Language Center of the Defense Language Institute” after “National Defense University”.
 
-Subsec. (c). Pub. L. 102–484, § 923(a)(1)(B), substituted “In the case of the National Defense University, this section” for “This section”.
+Subsec. (c). Pub. L. 102–484, § 923(a)(1)(B), substituted “In the case of the National Defense University, this section” for “This section”.
 
 1991—Subsec. (c). Pub. L. 102–25 substituted “after February 27, 1990” for “after the end of the 90-day period beginning on the date of the enactment of this section”.
 
@@ -1906,9 +1906,9 @@ Subsec. (d). Pub. L. 102–190 inserted “the Institute for National Strategic 
 
 **Effect of 1992 Amendments on Current Employees**
 
-Pub. L. 102–484, div. A, title IX, § 923(b), Oct. 23, 1992, 106 Stat. 2474, provided that: “In the case of a person who, on the day before the date of the enactment of this Act [Oct. 23, 1992], is employed as a professor, instructor, or lecturer at the Foreign Language Center of the Defense Language Institute, the Secretary of Defense shall afford the person an opportunity to elect to be paid under the compensation plan authorized by section 1595(b) of title 10, United States Code, or to continue to be paid under the General Schedule (with no reduction in pay) under section 5332 of title 5, United States Code.”
+Pub. L. 102–484, div. A, title IX, § 923(b), Oct. 23, 1992, 106 Stat. 2474, provided that: “In the case of a person who, on the day before the date of the enactment of this Act [Oct. 23, 1992], is employed as a professor, instructor, or lecturer at the Foreign Language Center of the Defense Language Institute, the Secretary of Defense shall afford the person an opportunity to elect to be paid under the compensation plan authorized by section 1595(b) of title 10, United States Code, or to continue to be paid under the General Schedule (with no reduction in pay) under section 5332 of title 5, United States Code.”
 
-## § 1596. Foreign language proficiency: special pay for proficiency beneficial for intelligence interests
+## § 1596. Foreign language proficiency: special pay for proficiency beneficial for intelligence interests
 
 **(a)** The Secretary of Defense may pay special pay under this section to a civilian officer or employee of the Department of Defense who—
 
@@ -1920,7 +1920,7 @@ Pub. L. 102–484, div. A, title IX, § 923(b), Oct. 23, 1992, 106 Stat. 2474,
 
 **(c)** Special pay under this section may be paid in addition to any compensation authorized under section 1602 of this title for which an officer or employee is eligible.
 
-(Added Pub. L. 101–193, title V, § 501(a)(1), Nov. 30, 1989, 103 Stat. 1707, § 1592; renumbered § 1596, Pub. L. 101–510, div. A, title XIV, § 1484(a), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 104–201, div. A, title XVI, § 1633(e)(2), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 106–398, § 1 [[div. A], title XI, § 1131(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–317.)
+(Added Pub. L. 101–193, title V, § 501(a)(1), Nov. 30, 1989, 103 Stat. 1707, § 1592; renumbered § 1596, Pub. L. 101–510, div. A, title XIV, § 1484(a), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 104–201, div. A, title XVI, § 1633(e)(2), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 106–398, § 1 [[div. A], title XI, § 1131(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–317.)
 
 **Editorial Notes**
 
@@ -1940,7 +1940,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. 
 
 **Effective Date**
 
-Pub. L. 101–193, title V, § 501(b), Nov. 30, 1989, 103 Stat. 1708, provided that:
+Pub. L. 101–193, title V, § 501(b), Nov. 30, 1989, 103 Stat. 1708, provided that:
 
 > “Section 1592 [now 1596] of title 10, United States Code, as added by subsection (a), shall take effect on the first day of the first pay period beginning on or after the later of—
 
@@ -1948,7 +1948,7 @@ Pub. L. 101–193, title V, § 501(b), Nov. 30, 1989, 103 Stat. 1708, provided
 
 > **“(2)** the date of the enactment of this Act [Nov. 30, 1989].”
 
-## § 1596a. Foreign language proficiency: special pay for proficiency beneficial for other national security interests
+## § 1596a. Foreign language proficiency: special pay for proficiency beneficial for other national security interests
 
 **(a) Authority.—** The Secretary of Defense may pay special pay under this section to an employee of the Department of Defense who—
 
@@ -1964,7 +1964,7 @@ Pub. L. 101–193, title V, § 501(b), Nov. 30, 1989, 103 Stat. 1708, provided
 
 **(d) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title XI, § 1131(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–317; amended Pub. L. 108–375, div. A, title XI, § 1102(a), Oct. 28, 2004, 118 Stat. 2072.)
+(Added Pub. L. 106–398, § 1 [[div. A], title XI, § 1131(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–317; amended Pub. L. 108–375, div. A, title XI, § 1102(a), Oct. 28, 2004, 118 Stat. 2072.)
 
 **Editorial Notes**
 
@@ -1976,9 +1976,9 @@ Pub. L. 101–193, title V, § 501(b), Nov. 30, 1989, 103 Stat. 1708, provided
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–375, div. A, title XI, § 1102(b), Oct. 28, 2004, 118 Stat. 2072, provided that: “The amendment by this section [amending this section] shall take effect on the first day of the first month that begins after the date of the enactment of this Act [Oct. 28, 2004].”
+Pub. L. 108–375, div. A, title XI, § 1102(b), Oct. 28, 2004, 118 Stat. 2072, provided that: “The amendment by this section [amending this section] shall take effect on the first day of the first month that begins after the date of the enactment of this Act [Oct. 28, 2004].”
 
-## § 1596b. Foreign language proficiency: National Foreign Language Skills Registry
+## § 1596b. Foreign language proficiency: National Foreign Language Skills Registry
 
 **(a) Establishment.—**
 
@@ -2020,9 +2020,9 @@ Pub. L. 108–375, div. A, title XI, § 1102(b), Oct. 28, 2004, 118 Stat. 2072
 
 **(f) Linguistic Services Defined.—** In this section, the term “linguistic services” means translation or interpretation of communication in a foreign language.
 
-(Added Pub. L. 107–314, div. A, title X, § 1064(a)(1), Dec. 2, 2002, 116 Stat. 2653.)
+(Added Pub. L. 107–314, div. A, title X, § 1064(a)(1), Dec. 2, 2002, 116 Stat. 2653.)
 
-## § 1596c. Programming language proficiency: special pay for proficiency beneficial for national security interests
+## § 1596c. Programming language proficiency: special pay for proficiency beneficial for national security interests
 
 **(a) Authority.—** The Secretary of Defense, under the sole and exclusive discretion of the Secretary, may pay special pay under this section to an employee of the Department of Defense who—
 
@@ -2036,9 +2036,9 @@ Pub. L. 108–375, div. A, title XI, § 1102(b), Oct. 28, 2004, 118 Stat. 2072
 
 **(d) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 116–283, div. A, title II, § 241(c)(1), Jan. 1, 2021, 134 Stat. 3487.)
+(Added Pub. L. 116–283, div. A, title II, § 241(c)(1), Jan. 1, 2021, 134 Stat. 3487.)
 
-## § 1597. Civilian positions: guidelines for reductions
+## § 1597. Civilian positions: guidelines for reductions
 
 **(a) Requirement of Guidelines for Reductions in Civilian Positions.—** Reductions in the number of civilian positions of the Department of Defense during a fiscal year, if any, shall be carried out in accordance with the guidelines established pursuant to subsection (b).
 
@@ -2054,15 +2054,15 @@ Pub. L. 108–375, div. A, title XI, § 1102(b), Oct. 28, 2004, 118 Stat. 2072
 
 **(c) Exceptions.—** The Secretary of Defense may permit a variation from the guidelines established under subsection (b) if the Secretary determines that such variation is critical to the national security. The Secretary shall immediately notify the Congress of any such variation and the reasons for such variation.
 
-**(d) Involuntary or Significant Reductions of Civilian Positions.—** The Secretary of Defense may not implement any involuntary reduction 1
+**(d) Involuntary or Significant Reductions of Civilian Positions.—** The Secretary of Defense may not implement any involuntary reduction 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 furlough, or significant reduction of over 50 civilian positions in a military department, Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs. The Secretary shall notify the congressional defense committees and each Member of Congress representing the area in which reductions are ordered. Such notification shall include billet, activity name, number of employees at the location, number of employees involuntarily separated by billet, reason for the personnel action, actions to mitigate reductions, and savings and costs.
 
 **(e) Consideration of Employee Performance in Reductions.—** The Secretary of Defense shall establish procedures to provide that, in implementing any reduction in force for civilian positions in the Department of Defense in the competitive service or the excepted service, the determination of which employees shall be separated from employment in the Department shall, among other factors as determined by the Secretary, account for employee performance, as determined under any applicable performance management system.
 
-(Added Pub. L. 101–510, div. A, title III, § 322(a)(1), Nov. 5, 1990, 104 Stat. 1528; amended Pub. L. 102–484, div. A, title III, § 371(a), Oct. 23, 1992, 106 Stat. 2382; Pub. L. 103–35, title II, § 201(d)(1), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title III, § 363, Nov. 30, 1993, 107 Stat. 1628; Pub. L. 112–81, div. A, title IX, § 933(b), Dec. 31, 2011, 125 Stat. 1544; Pub. L. 114–92, div. A, title XI, § 1101(a), Nov. 25, 2015, 129 Stat. 1022; Pub. L. 115–91, div. A, title X, § 1051(a)(6)(A), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 117–81, div. A, title XI, § 1105, Dec. 27, 2021, 135 Stat. 1950; Pub. L. 119–60, div. A, title XI, § 1107(d), Dec. 18, 2025, 139 Stat. 1074.)
+(Added Pub. L. 101–510, div. A, title III, § 322(a)(1), Nov. 5, 1990, 104 Stat. 1528; amended Pub. L. 102–484, div. A, title III, § 371(a), Oct. 23, 1992, 106 Stat. 2382; Pub. L. 103–35, title II, § 201(d)(1), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title III, § 363, Nov. 30, 1993, 107 Stat. 1628; Pub. L. 112–81, div. A, title IX, § 933(b), Dec. 31, 2011, 125 Stat. 1544; Pub. L. 114–92, div. A, title XI, § 1101(a), Nov. 25, 2015, 129 Stat. 1022; Pub. L. 115–91, div. A, title X, § 1051(a)(6)(A), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 117–81, div. A, title XI, § 1105, Dec. 27, 2021, 135 Stat. 1950; Pub. L. 119–60, div. A, title XI, § 1107(d), Dec. 18, 2025, 139 Stat. 1074.)
 
 **Editorial Notes**
 
@@ -2070,35 +2070,35 @@ furlough, or significant reduction of over 50 civilian positions in a military d
 
 2025—Subsec. (d). Pub. L. 119–60 inserted “or Significant” after “Involuntary” in heading, substituted “furlough, or significant reduction of over 50” for “or furlough of”, and inserted at end “The Secretary shall notify the congressional defense committees and each Member of Congress representing the area in which reductions are ordered. Such notification shall include billet, activity name, number of employees at the location, number of employees involuntarily separated by billet, reason for the personnel action, actions to mitigate reductions, and savings and costs.”
 
-2021—Subsec. (e). Pub. L. 117–81 substituted “Consideration of Employee Performance in Reductions” for “Reductions Based Primarily on Performance” in heading and “, among other factors as determined by the Secretary, account for employee” for “be made primarily on the basis of” in text.
+2021—Subsec. (e). Pub. L. 117–81 substituted “Consideration of Employee Performance in Reductions” for “Reductions Based Primarily on Performance” in heading and “, among other factors as determined by the Secretary, account for employee” for “be made primarily on the basis of” in text.
 
-2017—Subsec. (c). Pub. L. 115–91, § 1051(a)(6)(A)(iii), struck out “or a master plan prepared under subsection (c)” after “established under subsection (b)”.
+2017—Subsec. (c). Pub. L. 115–91, § 1051(a)(6)(A)(iii), struck out “or a master plan prepared under subsection (c)” after “established under subsection (b)”.
 
-Pub. L. 115–91, § 1051(a)(6)(A)(ii), which directed the “striking” of subsec. (d) as (c), was executed by redesignating subsec. (d) as (c), to reflect the probable intent of Congress.
+Pub. L. 115–91, § 1051(a)(6)(A)(ii), which directed the “striking” of subsec. (d) as (c), was executed by redesignating subsec. (d) as (c), to reflect the probable intent of Congress.
 
-Pub. L. 115–91, § 1051(a)(6)(A)(i), struck out subsec. (c) which related to civilian positions master plan.
+Pub. L. 115–91, § 1051(a)(6)(A)(i), struck out subsec. (c) which related to civilian positions master plan.
 
-Subsecs. (d) to (f). Pub. L. 115–91, § 1051(a)(6)(A)(ii), which directed the “striking” of subsecs. (e) and (f) as (d) and (e), respectively, was executed by redesignating subsecs. (e) and (f) as (d) and (e), respectively, to reflect the probable intent of Congress.
+Subsecs. (d) to (f). Pub. L. 115–91, § 1051(a)(6)(A)(ii), which directed the “striking” of subsecs. (e) and (f) as (d) and (e), respectively, was executed by redesignating subsecs. (e) and (f) as (d) and (e), respectively, to reflect the probable intent of Congress.
 
 2015—Subsec. (f). Pub. L. 114–92 added subsec. (f).
 
 2011—Subsec. (b). Pub. L. 112–81 inserted after first sentence “In establishing the guidelines, the Secretary shall ensure that nothing in the guidelines conflicts with the requirements of section 129 of this title or the policies and procedures established under section 129a of this title.”
 
-1993—Subsec. (a). Pub. L. 103–160, § 363(a)(1), substituted “during a fiscal year” for “during fiscal year 1993”.
+1993—Subsec. (a). Pub. L. 103–160, § 363(a)(1), substituted “during a fiscal year” for “during fiscal year 1993”.
 
-Subsec. (b). Pub. L. 103–160, § 363(a)(2), struck out “for fiscal year 1993” after “establish guidelines” in introductory provisions.
+Subsec. (b). Pub. L. 103–160, § 363(a)(2), struck out “for fiscal year 1993” after “establish guidelines” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 103–160, § 363(b)(1), substituted “for each fiscal year” for “for fiscal year 1994”.
+Subsec. (c)(1). Pub. L. 103–160, § 363(b)(1), substituted “for each fiscal year” for “for fiscal year 1994”.
 
-Subsec. (c)(3)(A)(v). Pub. L. 103–35, § 201(d)(1)(A)(i), substituted “Defense Agency” for “defense agency”.
+Subsec. (c)(3)(A)(v). Pub. L. 103–35, § 201(d)(1)(A)(i), substituted “Defense Agency” for “defense agency”.
 
-Subsec. (c)(3)(A)(vii). Pub. L. 103–160, § 363(b)(2), added cl. (vii).
+Subsec. (c)(3)(A)(vii). Pub. L. 103–160, § 363(b)(2), added cl. (vii).
 
-Subsec. (c)(3)(C). Pub. L. 103–35, § 201(d)(1)(A)(ii), substituted “Defense Agency” for “defense agency” after “to which the military department,” and “Defense Agency,” for “defense agency” after “for the military department,”.
+Subsec. (c)(3)(C). Pub. L. 103–35, § 201(d)(1)(A)(ii), substituted “Defense Agency” for “defense agency” after “to which the military department,” and “Defense Agency,” for “defense agency” after “for the military department,”.
 
-Subsec. (c)(4). Pub. L. 103–160, § 363(b)(3), added par. (4).
+Subsec. (c)(4). Pub. L. 103–160, § 363(b)(3), added par. (4).
 
-Subsec. (e). Pub. L. 103–35, § 201(d)(1)(B), substituted “on the date” for “of the date”.
+Subsec. (e). Pub. L. 103–35, § 201(d)(1)(B), substituted “on the date” for “of the date”.
 
 1992—Pub. L. 102–484 substituted “Civilian positions: guidelines for reductions” for “Employees of industrial-type or commercial-type activities: guidelines for future reductions” as section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (c).
 
@@ -2106,21 +2106,21 @@ Subsec. (e). Pub. L. 103–35, § 201(d)(1)(B), substituted “on the date” 
 
 **Pilot Program for Payment of Retraining Expenses**
 
-Pub. L. 107–107, div. A, title XI, § 1102, Dec. 28, 2001, 115 Stat. 1235, authorized the Secretary of Defense to establish a pilot program to facilitate the reemployment of eligible employees of the Department of Defense who were involuntarily separated due to a reduction in force, relocation as a result of a transfer of function, realignment, or change of duty station, and to pay retraining incentives to encourage non-Federal employers to hire and retain such employees, and provided that no incentive could be paid under such program for training commenced after Sept. 30, 2005.
+Pub. L. 107–107, div. A, title XI, § 1102, Dec. 28, 2001, 115 Stat. 1235, authorized the Secretary of Defense to establish a pilot program to facilitate the reemployment of eligible employees of the Department of Defense who were involuntarily separated due to a reduction in force, relocation as a result of a transfer of function, realignment, or change of duty station, and to pay retraining incentives to encourage non-Federal employers to hire and retain such employees, and provided that no incentive could be paid under such program for training commenced after Sept. 30, 2005.
 
 **Non-Federal Employment Incentive Pilot Program**
 
-Pub. L. 103–337, div. A, title III, § 348, Oct. 5, 1994, 108 Stat. 2725, authorized the Secretary of Defense to establish a pilot program for the payment of incentives to facilitate the reemployment of eligible employees of the Department of Defense whose employment with the Department was being terminated by reason of the closure or realignment of the military installations where such persons were employed, to pay retraining and relocation incentives to encourage non-Federal employers to hire and retain such employees, and to pay a relocation incentive to an eligible employee if it was necessary for the employee to relocate in order to commence employment with a non-Federal employer under such program, and provided that no incentive could be paid under such program for training or relocations commenced after Sept. 30, 1999.
+Pub. L. 103–337, div. A, title III, § 348, Oct. 5, 1994, 108 Stat. 2725, authorized the Secretary of Defense to establish a pilot program for the payment of incentives to facilitate the reemployment of eligible employees of the Department of Defense whose employment with the Department was being terminated by reason of the closure or realignment of the military installations where such persons were employed, to pay retraining and relocation incentives to encourage non-Federal employers to hire and retain such employees, and to pay a relocation incentive to an eligible employee if it was necessary for the employee to relocate in order to commence employment with a non-Federal employer under such program, and provided that no incentive could be paid under such program for training or relocations commenced after Sept. 30, 1999.
 
 **Skill Training Programs in Department of Defense**
 
-Pub. L. 102–484, div. D, title XLIV, § 4435, Oct. 23, 1992, 106 Stat. 2722, authorized the Secretaries of the military departments and the Secretary of Defense, during the period beginning on Oct. 1, 1992, and ending on Sept. 30, 1995, to provide not more than one year of training in training facilities of the Department of Defense to civilian employees of the Department who were separated from employment as a result of a reduction in force or a closure or realignment of a military installation, and directed the Secretary to publish a register of the skill training programs carried out by the Department not later than Feb. 1, 1993.
+Pub. L. 102–484, div. D, title XLIV, § 4435, Oct. 23, 1992, 106 Stat. 2722, authorized the Secretaries of the military departments and the Secretary of Defense, during the period beginning on Oct. 1, 1992, and ending on Sept. 30, 1995, to provide not more than one year of training in training facilities of the Department of Defense to civilian employees of the Department who were separated from employment as a result of a reduction in force or a closure or realignment of a military installation, and directed the Secretary to publish a register of the skill training programs carried out by the Department not later than Feb. 1, 1993.
 
 **Involuntary Reductions of Civilian Personnel in Fiscal Year 1991**
 
-Pub. L. 101–510, div. A, title III, § 322(b), Nov. 5, 1990, 104 Stat. 1529, provided that after Nov. 5, 1990, an agency or component of the Department of Defense could not implement any involuntary reductions or furloughs of civilian personnel in industrial-type or commercial-type activities in fiscal year 1991 until 45 days after the date on which the agency or component submitted a report to Congress outlining the reasons why such reductions or furloughs were required.
+Pub. L. 101–510, div. A, title III, § 322(b), Nov. 5, 1990, 104 Stat. 1529, provided that after Nov. 5, 1990, an agency or component of the Department of Defense could not implement any involuntary reductions or furloughs of civilian personnel in industrial-type or commercial-type activities in fiscal year 1991 until 45 days after the date on which the agency or component submitted a report to Congress outlining the reasons why such reductions or furloughs were required.
 
-## § 1598. Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers’ aides
+## § 1598. Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers’ aides
 
 **(a) Placement Program.—** The Secretary of Defense may establish a program—
 
@@ -2170,13 +2170,13 @@ Pub. L. 101–510, div. A, title III, § 322(b), Nov. 5, 1990, 104 Stat. 1529,
 
 **(2)** to accept—
 
-**(A)** in the case of an employee selected for assistance for placement as a teacher, an offer of full-time employment as an elementary or secondary school teacher for not less than two school years with a local educational agency identified under section 1151(b)(2) 1
+**(A)** in the case of an employee selected for assistance for placement as a teacher, an offer of full-time employment as an elementary or secondary school teacher for not less than two school years with a local educational agency identified under section 1151(b)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, as in effect on October 4, 1999, to begin the school year after obtaining that certification or licensure; or
 
-**(B)** in the case of an employee selected for assistance for placement as a teacher’s aide, an offer of full-time employment as a teacher’s aide in an elementary or secondary school for not less than two school years with a local educational agency identified under section 1151(b)(3) <sup>1</sup> of this title, as in effect on October 4, 1999, to begin the school year after obtaining the necessary credentials.
+**(B)** in the case of an employee selected for assistance for placement as a teacher’s aide, an offer of full-time employment as a teacher’s aide in an elementary or secondary school for not less than two school years with a local educational agency identified under section 1151(b)(3) <sup>1</sup> of this title, as in effect on October 4, 1999, to begin the school year after obtaining the necessary credentials.
 
 **(e) Stipend for Participants.—**
 
@@ -2184,33 +2184,33 @@ of this title, as in effect on October 4, 1999, to begin the school year after o
 
 **(A)** $5,000; or
 
-**(B)** the total costs of the type described in paragraphs (1), (2), (3), (8), and (9) <sup>1</sup> of section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087*ll*) incurred by the participant while obtaining teacher certification or licensure or the necessary credentials to serve as a teacher’s aide and employment as an elementary or secondary school teacher or teacher aide.
+**(B)** the total costs of the type described in paragraphs (1), (2), (3), (8), and (9) <sup>1</sup> of section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087*ll*) incurred by the participant while obtaining teacher certification or licensure or the necessary credentials to serve as a teacher’s aide and employment as an elementary or secondary school teacher or teacher aide.
 
 **(2)** A civilian employee selected to participate in the placement program who receives separation pay under section 5597 of title 5 shall not be paid a stipend under paragraph (1).
 
 **(3)** A stipend paid under paragraph (1) shall be taken into account in determining the eligibility of the participant for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.).
 
-**(f) Placement of Participants as Teachers and Teachers’ Aides.—** Subsections (h) through (k) of section 1151 <sup>1</sup> of this title, as in effect on October 4, 1999, shall apply with respect to the placement program authorized by this section.
+**(f) Placement of Participants as Teachers and Teachers’ Aides.—** Subsections (h) through (k) of section 1151 <sup>1</sup> of this title, as in effect on October 4, 1999, shall apply with respect to the placement program authorized by this section.
 
-(Added Pub. L. 102–484, div. D, title XLIV, § 4442(a), Oct. 23, 1992, 106 Stat. 2730; amended Pub. L. 103–35, title II, § 201(h)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, § 1331(c)(2), Nov. 30, 1993, 107 Stat. 1792; Pub. L. 103–382, title III, § 391(b)(3), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, § 1503(a)(14), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, § 576(b), Sept. 23, 1996, 110 Stat. 2535; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(11)], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
+(Added Pub. L. 102–484, div. D, title XLIV, § 4442(a), Oct. 23, 1992, 106 Stat. 2730; amended Pub. L. 103–35, title II, § 201(h)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, § 1331(c)(2), Nov. 30, 1993, 107 Stat. 1792; Pub. L. 103–382, title III, § 391(b)(3), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, § 1503(a)(14), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, § 576(b), Sept. 23, 1996, 110 Stat. 2535; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(11)], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-Section 1151 of this title, referred to in subsecs. (d)(2)(A), (B) and (f), was repealed by Pub. L. 106–65, div. A, title XVII, § 1707(a)(1), Oct. 5, 1999, 113 Stat. 823, and a new section 1151 of this title was subsequently added by Pub. L. 109–364, § 561(a).
+Section 1151 of this title, referred to in subsecs. (d)(2)(A), (B) and (f), was repealed by Pub. L. 106–65, div. A, title XVII, § 1707(a)(1), Oct. 5, 1999, 113 Stat. 823, and a new section 1151 of this title was subsequently added by Pub. L. 109–364, § 561(a).
 
-Section 472 of the Higher Education Act of 1965, referred to in subsec. (e)(1)(B), which is classified to section 1087*ll* of Title 20, Education, was generally amended by Pub. L. 116–260, div. FF, title VII, § 702(b), Dec. 27, 2020, 134 Stat. 3138. For provisions similar to former pars. (1), (2), (3), (8), and (9), see subsec. (a)(1), (2), (5), (9), and (10), respectively, of section 1087*ll* of Title 20.
+Section 472 of the Higher Education Act of 1965, referred to in subsec. (e)(1)(B), which is classified to section 1087*ll* of Title 20, Education, was generally amended by Pub. L. 116–260, div. FF, title VII, § 702(b), Dec. 27, 2020, 134 Stat. 3138. For provisions similar to former pars. (1), (2), (3), (8), and (9), see subsec. (a)(1), (2), (5), (9), and (10), respectively, of section 1087*ll* of Title 20.
 
-The Higher Education Act of 1965, referred to in subsec. (e)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (e)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 **Amendments**
 
-2000—Subsec. (d)(2). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(11)(A)], inserted “as in effect on October 4, 1999,” after “of this title,” in subpars. (A) and (B).
+2000—Subsec. (d)(2). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(11)(A)], inserted “as in effect on October 4, 1999,” after “of this title,” in subpars. (A) and (B).
 
-Subsec. (f). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(11)(B)], inserted “, as in effect on October 4, 1999,” after “of this title”.
+Subsec. (f). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(11)(B)], inserted “, as in effect on October 4, 1999,” after “of this title”.
 
 1996—Subsec. (a)(2)(A). Pub. L. 104–106 substituted “6301” for “2701”.
 
@@ -2226,7 +2226,7 @@ Subsec. (e)(4). Pub. L. 103–35 struck out par. (4) which read as follows: “A
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–160, div. A, title XIII, § 1331(h), Nov. 30, 1993, 107 Stat. 1793, provided that:
+Pub. L. 103–160, div. A, title XIII, § 1331(h), Nov. 30, 1993, 107 Stat. 1793, provided that:
 
 > “The amendments made by subsections (c) and (d) [amending this section and section 4703 of this title and former section 1151 of this title] shall not apply with respect to—
 
@@ -2236,17 +2236,17 @@ Pub. L. 103–160, div. A, title XIII, § 1331(h), Nov. 30, 1993, 107 Stat. 17
 
 **Savings Provision**
 
-Pub. L. 104–201, div. A, title V, § 576(d), Sept. 23, 1996, 110 Stat. 2535, provided that: “The amendments made by this section [amending this section and section 4703 of this title and former section 1151 of this title] do not affect obligations under agreements entered into in accordance with section 1151 [repealed], 1598, or 2410j [now 10 U.S.C. 4703] of title 10, United States Code, before the date of the enactment of this Act [Sept. 23, 1996].”
+Pub. L. 104–201, div. A, title V, § 576(d), Sept. 23, 1996, 110 Stat. 2535, provided that: “The amendments made by this section [amending this section and section 4703 of this title and former section 1151 of this title] do not affect obligations under agreements entered into in accordance with section 1151 [repealed], 1598, or 2410j [now 10 U.S.C. 4703] of title 10, United States Code, before the date of the enactment of this Act [Sept. 23, 1996].”
 
-## [§ 1599. Renumbered § 1611]
+## [§ 1599. Renumbered § 1611]
 
-## § 1599a. Financial assistance to certain employees in acquisition of critical skills
+## § 1599a. Financial assistance to certain employees in acquisition of critical skills
 
 **(a) Training Program.—** The Secretary of Defense shall establish an undergraduate training program with respect to civilian employees in the Military Department Civilian Intelligence Personnel Management System that is similar in purpose, conditions, content, and administration to the program established by the Secretary of Defense under section 16 of the National Security Agency Act of 1959 (50 U.S.C. 3614) for civilian employees of the National Security Agency.
 
 **(b) Use of Funds for Training Program.—** Any payment made by the Secretary to carry out the program required to be established by subsection (a) may be made in any fiscal year only to the extent that appropriated funds are available for that purpose.
 
-(Added Pub. L. 104–93, title V, § 505(a), Jan. 6, 1996, 109 Stat. 973; amended Pub. L. 112–239, div. A, title X, § 1076(f)(20), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–291, div. A, title X, § 1071(c)(9), Dec. 19, 2014, 128 Stat. 3509.)
+(Added Pub. L. 104–93, title V, § 505(a), Jan. 6, 1996, 109 Stat. 973; amended Pub. L. 112–239, div. A, title X, § 1076(f)(20), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–291, div. A, title X, § 1071(c)(9), Dec. 19, 2014, 128 Stat. 3509.)
 
 **Editorial Notes**
 
@@ -2256,7 +2256,7 @@ Pub. L. 104–201, div. A, title V, § 576(d), Sept. 23, 1996, 110 Stat. 2535,
 
 2013—Subsec. (a). Pub. L. 112–239 substituted “National Security Agency Act” for “National Security Act”.
 
-## § 1599b. Employees abroad: travel expenses; health care
+## § 1599b. Employees abroad: travel expenses; health care
 
 **(a) In General.—** The Secretary of Defense may provide civilian employees, and members of their families, abroad with benefits that are comparable to certain benefits that are provided by the Secretary of State to members of the Foreign Service and their families abroad as described in subsections (b) and (c). The Secretary may designate the employees and members of families who are eligible to receive the benefits.
 
@@ -2272,9 +2272,9 @@ Pub. L. 104–201, div. A, title V, § 576(d), Sept. 23, 1996, 110 Stat. 2535,
 
 **(2)** the territories and possessions of the United States.
 
-(Added Pub. L. 104–201, div. A, title XVI, § 1604(a), Sept. 23, 1996, 110 Stat. 2735.)
+(Added Pub. L. 104–201, div. A, title XVI, § 1604(a), Sept. 23, 1996, 110 Stat. 2735.)
 
-## § 1599c. Health care professionals: enhanced appointment and compensation authority for personnel for care and treatment of wounded and injured members of the armed forces
+## § 1599c. Health care professionals: enhanced appointment and compensation authority for personnel for care and treatment of wounded and injured members of the armed forces
 
 **(a) In General.—**
 
@@ -2298,13 +2298,13 @@ Pub. L. 104–201, div. A, title V, § 576(d), Sept. 23, 1996, 110 Stat. 2535,
 
 **(2)** The Secretary may not appoint a person to a position of employment under subsection (a)(2) after December 31, 2030.
 
-(Added Pub. L. 107–107, div. A, title XI, § 1104(a), Dec. 28, 2001, 115 Stat. 1236; amended Pub. L. 110–181, div. A, title XVI, § 1636(a), Jan. 28, 2008, 122 Stat. 463; Pub. L. 110–417, [div. A], title XI, § 1107, Oct. 14, 2008, 122 Stat. 4617; Pub. L. 111–383, div. A, title X, § 1075(b)(22), title XI, § 1104, Jan. 7, 2011, 124 Stat. 4370, 4383; Pub. L. 113–66, div. A, title XI, § 1109, Dec. 26, 2013, 127 Stat. 890; Pub. L. 116–283, div. A, title XI, § 1116, Jan. 1, 2021, 134 Stat. 3897; Pub. L. 118–159, div. A, title VII, § 712, Dec. 23, 2024, 138 Stat. 1947.)
+(Added Pub. L. 107–107, div. A, title XI, § 1104(a), Dec. 28, 2001, 115 Stat. 1236; amended Pub. L. 110–181, div. A, title XVI, § 1636(a), Jan. 28, 2008, 122 Stat. 463; Pub. L. 110–417, [div. A], title XI, § 1107, Oct. 14, 2008, 122 Stat. 4617; Pub. L. 111–383, div. A, title X, § 1075(b)(22), title XI, § 1104, Jan. 7, 2011, 124 Stat. 4370, 4383; Pub. L. 113–66, div. A, title XI, § 1109, Dec. 26, 2013, 127 Stat. 890; Pub. L. 116–283, div. A, title XI, § 1116, Jan. 1, 2021, 134 Stat. 3897; Pub. L. 118–159, div. A, title VII, § 712, Dec. 23, 2024, 138 Stat. 1947.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1599c, added Pub. L. 104–201, div. A, title XVI, § 1615(a)(1), Sept. 23, 1996, 110 Stat. 2740; amended Pub. L. 105–85, div. A, title X, § 1073(a)(31), Nov. 18, 1997, 111 Stat. 1902, related to treatment of a Department of Defense violation of veterans’ preference requirements as a prohibited personnel practice, prior to repeal by Pub. L. 105–339, § 6(c)(1)(A), Oct. 31, 1998, 112 Stat. 3188.
+A prior section 1599c, added Pub. L. 104–201, div. A, title XVI, § 1615(a)(1), Sept. 23, 1996, 110 Stat. 2740; amended Pub. L. 105–85, div. A, title X, § 1073(a)(31), Nov. 18, 1997, 111 Stat. 1902, related to treatment of a Department of Defense violation of veterans’ preference requirements as a prohibited personnel practice, prior to repeal by Pub. L. 105–339, § 6(c)(1)(A), Oct. 31, 1998, 112 Stat. 3188.
 
 **Amendments**
 
@@ -2312,41 +2312,41 @@ A prior section 1599c, added Pub. L. 104–201, div. A, title XVI, § 1615(a)(
 
 2021—Subsec. (b). Pub. L. 116–283 substituted “December 31, 2025” for “December 31, 2020” in pars. (1) and (2).
 
-2013—Subsec. (a)(2)(A). Pub. L. 113–66, § 1109(c)(1), substituted “section 3304 of title 5” for “sections 3304, 5333, and 5753 of title 5” in introductory provisions.
+2013—Subsec. (a)(2)(A). Pub. L. 113–66, § 1109(c)(1), substituted “section 3304 of title 5” for “sections 3304, 5333, and 5753 of title 5” in introductory provisions.
 
-Subsec. (a)(2)(A)(ii). Pub. L. 113–66, § 1109(c)(2), substituted “the authority in such section” for “the authorities in such sections”.
+Subsec. (a)(2)(A)(ii). Pub. L. 113–66, § 1109(c)(2), substituted “the authority in such section” for “the authorities in such sections”.
 
-Subsec. (b). Pub. L. 113–66, § 1109(b), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to recruitment of personnel.
+Subsec. (b). Pub. L. 113–66, § 1109(b), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to recruitment of personnel.
 
-Subsec. (c). Pub. L. 113–66, § 1109(b)(2), redesignated subsec. (c) as (b).
+Subsec. (c). Pub. L. 113–66, § 1109(b)(2), redesignated subsec. (c) as (b).
 
-Pub. L. 113–66, § 1109(a), substituted “December 31, 2020” for “December 31, 2015” in pars. (1) and (2).
+Pub. L. 113–66, § 1109(a), substituted “December 31, 2020” for “December 31, 2015” in pars. (1) and (2).
 
-2011—Subsec. (a)(2)(A)(i). Pub. L. 111–383, § 1104(a)(1)(A), substituted “a shortage category occupation or critical need occupation” for “shortage category positions”.
+2011—Subsec. (a)(2)(A)(i). Pub. L. 111–383, § 1104(a)(1)(A), substituted “a shortage category occupation or critical need occupation” for “shortage category positions”.
 
-Subsec. (a)(2)(A)(ii). Pub. L. 111–383, § 1104(a)(1)(B), substituted “qualified persons directly in the competitive service” for “highly qualified persons directly”.
+Subsec. (a)(2)(A)(ii). Pub. L. 111–383, § 1104(a)(1)(B), substituted “qualified persons directly in the competitive service” for “highly qualified persons directly”.
 
-Subsec. (a)(2)(B). Pub. L. 111–383, § 1075(b)(22), substituted “subchapter I” for “subchapter 1”.
+Subsec. (a)(2)(B). Pub. L. 111–383, § 1075(b)(22), substituted “subchapter I” for “subchapter 1”.
 
-Subsec. (a)(2)(C). Pub. L. 111–383, § 1104(a)(2), added subpar. (C).
+Subsec. (a)(2)(C). Pub. L. 111–383, § 1104(a)(2), added subpar. (C).
 
-Subsec. (c)(1). Pub. L. 111–383, § 1104(b)(1), inserted “under subsection (a)(1)” after “Secretary of Defense” and substituted “December 31, 2015” for “September 30, 2012”.
+Subsec. (c)(1). Pub. L. 111–383, § 1104(b)(1), inserted “under subsection (a)(1)” after “Secretary of Defense” and substituted “December 31, 2015” for “September 30, 2012”.
 
-Subsec. (c)(2). Pub. L. 111–383, § 1104(b)(2), substituted “December 31, 2015” for “September 30, 2012”.
+Subsec. (c)(2). Pub. L. 111–383, § 1104(b)(2), substituted “December 31, 2015” for “September 30, 2012”.
 
 2008—Pub. L. 110–181 amended section generally. Prior to amendment, section related to appointment in excepted service of certain health care professionals.
 
-Subsec. (a). Pub. L. 110–417, § 1107(a), designated existing provisions as par. (1) and added par. (2).
+Subsec. (a). Pub. L. 110–417, § 1107(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (c). Pub. L. 110–417, § 1107(b), designated existing provisions as par. (1), substituted “September 30, 2012” for “September 30, 2010”, and added par. (2).
+Subsec. (c). Pub. L. 110–417, § 1107(b), designated existing provisions as par. (1), substituted “September 30, 2012” for “September 30, 2010”, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Wage Rate Adjustment for Certain Health Care Occupations**
 
-Pub. L. 112–10, div. A, title VIII, § 8086, Apr. 15, 2011, 125 Stat. 76, provided that: “Notwithstanding any other provision of law or regulation, during the current fiscal year and hereafter, the Secretary of Defense may adjust wage rates for civilian employees hired for certain health care occupations as authorized for the Secretary of Veterans Affairs by section 7455 of title 38, United States Code.”
+Pub. L. 112–10, div. A, title VIII, § 8086, Apr. 15, 2011, 125 Stat. 76, provided that: “Notwithstanding any other provision of law or regulation, during the current fiscal year and hereafter, the Secretary of Defense may adjust wage rates for civilian employees hired for certain health care occupations as authorized for the Secretary of Veterans Affairs by section 7455 of title 38, United States Code.”
 
-## § 1599d. Financial management positions: authority to prescribe professional certification and credential standards
+## § 1599d. Financial management positions: authority to prescribe professional certification and credential standards
 
 **(a) Authority To Prescribe Professional Certification and Credential Standards.—** The Secretary of Defense may prescribe professional certification and credential standards for financial management positions within the Department of Defense, including requirements for formal education and requirements for certifications that individuals have met predetermined qualifications set by an agency of Government or by an industry or professional group. Any such professional certification or credential standard shall be prescribed as a Department regulation.
 
@@ -2368,7 +2368,7 @@ Pub. L. 112–10, div. A, title VIII, § 8086, Apr. 15, 2011, 125 Stat. 76, pr
 
 **(f) Financial Management Position Defined.—** In this section, the term “financial management position” means a position or group of positions (including civilian and military positions), as designated by the Secretary for purposes of this section, that perform, supervise, or manage work of a fiscal, financial management, accounting, auditing, cost, or budgetary nature, or that require the performance of financial management-related work.
 
-(Added Pub. L. 107–314, div. A, title XI, § 1104(a)(1), Dec. 2, 2002, 116 Stat. 2661; amended Pub. L. 110–417, [div. A], title XI, § 1110, Oct. 14, 2008, 122 Stat. 4619; Pub. L. 112–81, div. A, title X, § 1051(a), Dec. 31, 2011, 125 Stat. 1581.)
+(Added Pub. L. 107–314, div. A, title XI, § 1104(a)(1), Dec. 2, 2002, 116 Stat. 2661; amended Pub. L. 110–417, [div. A], title XI, § 1110, Oct. 14, 2008, 122 Stat. 4619; Pub. L. 112–81, div. A, title X, § 1051(a), Dec. 31, 2011, 125 Stat. 1581.)
 
 **Editorial Notes**
 
@@ -2382,31 +2382,31 @@ Pub. L. 112–10, div. A, title VIII, § 8086, Apr. 15, 2011, 125 Stat. 76, pr
 
 **Effective Date**
 
-Pub. L. 107–314, div. A, title XI, § 1104(b), Dec. 2, 2002, 116 Stat. 2661, provided that: “Standards established pursuant to section 1599d of title 10, United States Code, as added by subsection (a), may take effect no sooner than 120 days after the date of the enactment of this Act [Dec. 2, 2002].”
+Pub. L. 107–314, div. A, title XI, § 1104(b), Dec. 2, 2002, 116 Stat. 2661, provided that: “Standards established pursuant to section 1599d of title 10, United States Code, as added by subsection (a), may take effect no sooner than 120 days after the date of the enactment of this Act [Dec. 2, 2002].”
 
-## § 1599e. Payment of retention bonuses to DOD civilian employees in Guam.
+## § 1599e. Payment of retention bonuses to DOD civilian employees in Guam.
 
 Notwithstanding subsection (f) of section 5754 of title 5, the Secretary of Defense or Secretary of a military department may waive the limit established under subsection (e)(1) of such section and pay an otherwise eligible employee or category of employees in the territory of Guam retention bonuses of up to 50 percent of basic pay, based on a critical agency need.
 
-(Added Pub. L. 119–60, div. A, title XI, § 1109, Dec. 18, 2025, 139 Stat. 1075.)
+(Added Pub. L. 119–60, div. A, title XI, § 1109, Dec. 18, 2025, 139 Stat. 1075.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1599e, Pub. L. 114–92, div. A, title XI, § 1105(a)(1), Nov. 25, 2015, 129 Stat. 1023, related to probationary period for employees, prior to repeal by Pub. L. 117–81, div. A, title XI, § 1106(a)(1), Dec. 27, 2021, 135 Stat. 1950, effective Dec. 31, 2022.
+A prior section 1599e, Pub. L. 114–92, div. A, title XI, § 1105(a)(1), Nov. 25, 2015, 129 Stat. 1023, related to probationary period for employees, prior to repeal by Pub. L. 117–81, div. A, title XI, § 1106(a)(1), Dec. 27, 2021, 135 Stat. 1950, effective Dec. 31, 2022.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 117–81, div. A, title XI, § 1106(a)(1), Dec. 27, 2021, 135 Stat. 1950, provided that the repeal of former section 1599e of this title was effective Dec. 31, 2022. Conforming amendments by section 1106 of Pub. L. 117–81 (amending sections 3321, 3393, 7501, 7511, and 7541 of Title 5, Government Organization and Employees) were executed as if effective at the same time as the repeal, to reflect the probable intent of Congress.
+Pub. L. 117–81, div. A, title XI, § 1106(a)(1), Dec. 27, 2021, 135 Stat. 1950, provided that the repeal of former section 1599e of this title was effective Dec. 31, 2022. Conforming amendments by section 1106 of Pub. L. 117–81 (amending sections 3321, 3393, 7501, 7511, and 7541 of Title 5, Government Organization and Employees) were executed as if effective at the same time as the repeal, to reflect the probable intent of Congress.
 
 **Application**
 
-Pub. L. 117–81, div. A, title XI, § 1106(a)(2), Dec. 27, 2021, 135 Stat. 1950, provided that: “The modification of probationary periods for covered employees (as that term is defined in such [former] section 1599e [meaning former 10 U.S.C. 1599e] as in effect on the date immediately preceding the date of enactment of this Act [Dec. 27, 2021]) by operation of the amendment made by paragraph (1) [repealing former section 1599e of this title] shall only apply to an individual appointed as such an employee on or after the effective date specified in paragraph (1) [see Effective Date of Repeal note above].”
+Pub. L. 117–81, div. A, title XI, § 1106(a)(2), Dec. 27, 2021, 135 Stat. 1950, provided that: “The modification of probationary periods for covered employees (as that term is defined in such [former] section 1599e [meaning former 10 U.S.C. 1599e] as in effect on the date immediately preceding the date of enactment of this Act [Dec. 27, 2021]) by operation of the amendment made by paragraph (1) [repealing former section 1599e of this title] shall only apply to an individual appointed as such an employee on or after the effective date specified in paragraph (1) [see Effective Date of Repeal note above].”
 
-## § 1599f. United States Cyber Command recruitment and retention
+## § 1599f. United States Cyber Command recruitment and retention
 
 **(a) General Authority.—**
 
@@ -2548,7 +2548,7 @@ Pub. L. 117–81, div. A, title XI, § 1106(a)(2), Dec. 27, 2021, 135 Stat. 19
 
 **(6)** The term “Senior Executive Service” has the meaning given that term in section 2101a of title 5.
 
-(Added Pub. L. 114–92, div. A, title XI, § 1107(a), Nov. 25, 2015, 129 Stat. 1024; amended Pub. L. 114–328, div. A, title XI, § 1103(a), (b)(2), Dec. 23, 2016, 130 Stat. 2444; Pub. L. 119–60, div. A, title XI, § 1113, Dec. 18, 2025, 139 Stat. 1077.)
+(Added Pub. L. 114–92, div. A, title XI, § 1107(a), Nov. 25, 2015, 129 Stat. 1024; amended Pub. L. 114–328, div. A, title XI, § 1103(a), (b)(2), Dec. 23, 2016, 130 Stat. 2444; Pub. L. 119–60, div. A, title XI, § 1113, Dec. 18, 2025, 139 Stat. 1077.)
 
 **Editorial Notes**
 
@@ -2560,23 +2560,23 @@ The date of the enactment of this section, referred to in subsec. (j)(1), is the
 
 **Amendments**
 
-2025—Subsec. (a)(1)(A)(iv), (v). Pub. L. 119–60, § 1113(1), added cls. (iv) and (v).
+2025—Subsec. (a)(1)(A)(iv), (v). Pub. L. 119–60, § 1113(1), added cls. (iv) and (v).
 
-Subsec. (b). Pub. L. 119–60, § 1113(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to basic pay.
+Subsec. (b). Pub. L. 119–60, § 1113(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to basic pay.
 
-Subsec. (h)(1). Pub. L. 119–60, § 1113(3)(A), substituted “three years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2026” for “five years after the date of the enactment of this section”.
+Subsec. (h)(1). Pub. L. 119–60, § 1113(3)(A), substituted “three years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2026” for “five years after the date of the enactment of this section”.
 
-Subsec. (h)(2)(D)(vii), (viii). Pub. L. 119–60, § 1113(3)(B), added cls. (vii) and (viii).
+Subsec. (h)(2)(D)(vii), (viii). Pub. L. 119–60, § 1113(3)(B), added cls. (vii) and (viii).
 
-Subsecs. (k), (*l*). Pub. L. 119–60, § 1113(4), (5), added subsec. (k) and redesignated former subsec. (k) as (*l*).
+Subsecs. (k), (*l*). Pub. L. 119–60, § 1113(4), (5), added subsec. (k) and redesignated former subsec. (k) as (*l*).
 
-2016—Subsecs. (f), (g). Pub. L. 114–328, § 1103(a), added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
+2016—Subsecs. (f), (g). Pub. L. 114–328, § 1103(a), added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 114–328, § 1103(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 114–328, § 1103(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (h)(2)(E). Pub. L. 114–328, § 1103(b)(2), substituted “employees described in subsection (f)(2) on the use of authorities under this section” for “supervisors of employees in qualified positions at the Department on the use of the new authorities”.
+Subsec. (h)(2)(E). Pub. L. 114–328, § 1103(b)(2), substituted “employees described in subsection (f)(2) on the use of authorities under this section” for “supervisors of employees in qualified positions at the Department on the use of the new authorities”.
 
-Subsecs. (i) to (k). Pub. L. 114–328, § 1103(a)(1), redesignated subsecs. (h) to (j) as (i) to (k), respectively.
+Subsecs. (i) to (k). Pub. L. 114–328, § 1103(a)(1), redesignated subsecs. (h) to (j) as (i) to (k), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2586,7 +2586,7 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **Department of Defense Cyber Workforce Efforts**
 
-Pub. L. 116–283, div. A, title XVII, § 1726(a), (b), Jan. 1, 2021, 134 Stat. 4115, as amended by Pub. L. 118–31, div. A, title XV, § 1531(c)(4), Dec. 22, 2023, 137 Stat. 563, provided that:
+Pub. L. 116–283, div. A, title XVII, § 1726(a), (b), Jan. 1, 2021, 134 Stat. 4115, as amended by Pub. L. 118–31, div. A, title XV, § 1531(c)(4), Dec. 22, 2023, 137 Stat. 563, provided that:
 
 > **“(a) Resources for Cyber Education.—**
 
@@ -2604,19 +2604,19 @@ Pub. L. 116–283, div. A, title XVII, § 1726(a), (b), Jan. 1, 2021, 134 Stat
 
 > **“(i)** GenCyber.
 
-> **“(ii)** Centers for Academic Excellence – Cyber Defense.
+> **“(ii)** Centers for Academic Excellence – Cyber Defense.
 
-> **“(iii)** Centers for Academic Excellence – Cyber Operations.
+> **“(iii)** Centers for Academic Excellence – Cyber Operations.
 
 > **“(C) Deadline.—** Not later than 120 days after the submission of the report required under subparagraph (A), the Chief Information Officer of the Department of Defense shall carry out the implementation plan contained in such report.
 
 > **“(b) Discharge Through Director.—** In carrying out this section, the Chief Information Officer of the Department of Defense shall act through the Director of the office established under section 2192c of title 10, United States Code.”
 
-[Subsec. (b) of section 1726 of Pub. L. 116–283, set out above, was added by Pub. L. 118–31, div. A, title XV, § 1531(c)(4), Dec. 22, 2023, 137 Stat. 563. Another subsec. (b) of section 1726 is set out as a note under section 2224 of this title.]
+[Subsec. (b) of section 1726 of Pub. L. 116–283, set out above, was added by Pub. L. 118–31, div. A, title XV, § 1531(c)(4), Dec. 22, 2023, 137 Stat. 563. Another subsec. (b) of section 1726 is set out as a note under section 2224 of this title.]
 
 **Zero-Based Review of Department of Defense Cyber and Information Technology Personnel**
 
-Pub. L. 116–92, div. A, title XVI, § 1652, Dec. 20, 2019, 133 Stat. 1761, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1652, Dec. 20, 2019, 133 Stat. 1761, provided that:
 
 > **“(a) Review Required.—** Not later than January 1, 2021, each head of a covered department, component, or agency shall—
 
@@ -2692,7 +2692,7 @@ Pub. L. 116–92, div. A, title XVI, § 1652, Dec. 20, 2019, 133 Stat. 1761, p
 
 **Actions Pending Full Implementation of Plan for Cyber Mission Force Positions**
 
-Pub. L. 114–328, div. A, title XVI, § 1643(a), Dec. 23, 2016, 130 Stat. 2602, provided that:
+Pub. L. 114–328, div. A, title XVI, § 1643(a), Dec. 23, 2016, 130 Stat. 2602, provided that:
 
 > “Until the Secretary of Defense completes implementation of the authority in subsection (a) of section 1599f of title 10, United States Code, for United States Cyber Command workforce positions in accordance with the implementation plan required by subsection (d) of such section, the Secretary shall do each of the following:
 
@@ -2704,7 +2704,7 @@ Pub. L. 114–328, div. A, title XVI, § 1643(a), Dec. 23, 2016, 130 Stat. 260
 
 > **“(4)** Notwithstanding section 5333 of title 5, United States Code, authorize officials conducting hiring in the competitive service for cyber workforce positions to set starting salaries at up to a step-five level with no justification and at up to a step-ten level with justification that meets published guidelines applicable to the excepted service.”
 
-## § 1599g. Public-private talent exchange
+## § 1599g. Public-private talent exchange
 
 **(a) Assignment Authority.—** Under regulations prescribed by the Secretary of Defense, the Secretary may, with the agreement of a private-sector organization and the consent of the employee, arrange for the temporary assignment of an employee to such private-sector organization, or from such private-sector organization to a Department of Defense organization under this section.
 
@@ -2788,15 +2788,15 @@ Pub. L. 114–328, div. A, title XVI, § 1643(a), Dec. 23, 2016, 130 Stat. 260
 
 **(k) Report.—** Each member of the acquisition workforce that participates in the program established under this section shall, upon completion of such participation, submit to the President of the Defense Acquisition University for inclusion in the report required under section 1746a(e) a description and evaluation of such participation.
 
-(Added Pub. L. 114–328, div. A, title XI, § 1104(a), Dec. 23, 2016, 130 Stat. 2445; amended Pub. L. 116–92, div. A, title VIII, § 863(a), title XI, § 1116, Dec. 20, 2019, 133 Stat. 1522, 1604; Pub. L. 116–283, div. A, title XI, § 1102(a), Jan. 1, 2021, 134 Stat. 3885; Pub. L. 117–263, div. A, title VIII, § 831(c), Dec. 23, 2022, 136 Stat. 2712; Pub. L. 119–60, div. A, title VIII, § 821, Dec. 18, 2025, 139 Stat. 954.)
+(Added Pub. L. 114–328, div. A, title XI, § 1104(a), Dec. 23, 2016, 130 Stat. 2445; amended Pub. L. 116–92, div. A, title VIII, § 863(a), title XI, § 1116, Dec. 20, 2019, 133 Stat. 1522, 1604; Pub. L. 116–283, div. A, title XI, § 1102(a), Jan. 1, 2021, 134 Stat. 3885; Pub. L. 117–263, div. A, title VIII, § 831(c), Dec. 23, 2022, 136 Stat. 2712; Pub. L. 119–60, div. A, title VIII, § 821, Dec. 18, 2025, 139 Stat. 954.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Tort Claims Act, referred to in subsec. (f)(2)(D), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (f)(2)(D), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
-The Ethics in Government Act of 1978, referred to in subsec. (f)(2)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Titles I, IV, and V of the Act were classified principally to the Appendix to Title 5, Government Organization and Employees, and were substantially repealed and restated in chapter 131 (§ 13101 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4266, 4361. For complete classification of this Act to the Code, see Tables. For disposition of sections of the Act into chapter 131 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Ethics in Government Act of 1978, referred to in subsec. (f)(2)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Titles I, IV, and V of the Act were classified principally to the Appendix to Title 5, Government Organization and Employees, and were substantially repealed and restated in chapter 131 (§ 13101 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4266, 4361. For complete classification of this Act to the Code, see Tables. For disposition of sections of the Act into chapter 131 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 **Amendments**
 
@@ -2804,19 +2804,19 @@ The Ethics in Government Act of 1978, referred to in subsec. (f)(2)(E), is Pub. 
 
 2022—Subsec. (k). Pub. L. 117–263 added subsec. (k).
 
-2021—Subsec. (b)(1)(C). Pub. L. 116–283, § 1102(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “shall contain language ensuring that such employee of the Department does not improperly use pre-decisional or draft deliberative information that such employee may be privy to or aware of related to Department programing, budgeting, resourcing, acquisition, or procurement for the benefit or advantage of the private-sector organization.”
+2021—Subsec. (b)(1)(C). Pub. L. 116–283, § 1102(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “shall contain language ensuring that such employee of the Department does not improperly use pre-decisional or draft deliberative information that such employee may be privy to or aware of related to Department programing, budgeting, resourcing, acquisition, or procurement for the benefit or advantage of the private-sector organization.”
 
-Subsec. (f)(4). Pub. L. 116–283, § 1102(a)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “may perform work that is considered inherently governmental in nature only when requested in writing by the Secretary of Defense; and”.
+Subsec. (f)(4). Pub. L. 116–283, § 1102(a)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “may perform work that is considered inherently governmental in nature only when requested in writing by the Secretary of Defense; and”.
 
-2019—Subsec. (e)(2)(A). Pub. L. 116–92, § 1116, inserted “permanent” after “without the”.
+2019—Subsec. (e)(2)(A). Pub. L. 116–92, § 1116, inserted “permanent” after “without the”.
 
-Subsecs. (i), (j). Pub. L. 116–92, § 863(a), added subsecs. (i) and (j).
+Subsecs. (i), (j). Pub. L. 116–92, § 863(a), added subsecs. (i) and (j).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Application of Public-Private Talent Exchange Programs in the Department of Defense to Quantum Information Sciences and Technology Research**
 
-Pub. L. 118–31, div. A, title II, § 220, Dec. 22, 2023, 137 Stat. 188, provided that:
+Pub. L. 118–31, div. A, title II, § 220, Dec. 22, 2023, 137 Stat. 188, provided that:
 
 > **“(a) In General.—** Using the authority provided under section 1599g of title 10, United States Code, the Secretary of Defense shall seek to establish public-private talent exchange programs with private-sector entities working on quantum information sciences and technology research applications.
 
@@ -2830,7 +2830,7 @@ Pub. L. 118–31, div. A, title II, § 220, Dec. 22, 2023, 137 Stat. 188, prov
 
 **Enhancement of Public-Private Talent Exchange Programs in the Department of Defense**
 
-Pub. L. 116–283, div. A, title XI, § 1102(b)–(d), Jan. 1, 2021, 134 Stat. 3885, 3886, provided that:
+Pub. L. 116–283, div. A, title XI, § 1102(b)–(d), Jan. 1, 2021, 134 Stat. 3885, 3886, provided that:
 
 > **“(b) Application of Exchange Authority to Modernization Priorities.—** Not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall take steps to ensure that the authority of the Secretary to carry out a public-private talent exchange program under section 1599g of title 10, United States Code (as amended by subsection (a)), is used to—
 
@@ -2850,9 +2850,9 @@ Pub. L. 116–283, div. A, title XI, § 1102(b)–(d), Jan. 1, 2021, 134 Stat.
 
 > **“(d) Treatment of Program Participants.—** The Secretary of Defense, in consultation with each Secretary of a military department, shall develop practices to ensure that participation by a member of an Armed Force under the jurisdiction of the Secretary of a military department in an public-private talent exchange under section 1599g of title 10, United States Code, is taken into consideration in subsequent assignments.”
 
-## [§ 1599h. Renumbered § 4092]
+## [§ 1599h. Renumbered § 4092]
 
-## § 1599i. Recruitment incentives for placement at remote locations
+## § 1599i. Recruitment incentives for placement at remote locations
 
 **(a) Recruitment Incentive.—**
 
@@ -2870,15 +2870,15 @@ Pub. L. 116–283, div. A, title XI, § 1102(b)–(d), Jan. 1, 2021, 134 Stat.
 
 **(b) Sunset.—** Effective on September 30, 2022, the authority provided under subsection (a) shall expire.
 
-(Added Pub. L. 116–283, div. A, title XI, § 1120(a), Jan. 1, 2021, 134 Stat. 3898.)
+(Added Pub. L. 116–283, div. A, title XI, § 1120(a), Jan. 1, 2021, 134 Stat. 3898.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Outcome Measurements**
 
-Pub. L. 116–283, div. A, title XI, § 1120(b), Jan. 1, 2021, 134 Stat. 3899, provided that: “The Secretary of Defense shall develop outcome measurements to evaluate the effect of the authority provided under subsection (a) of section 1599i of title 10, United States Code, as added by subsection (a), and any relocation incentives provided under subsection (b) of such section.”
+Pub. L. 116–283, div. A, title XI, § 1120(b), Jan. 1, 2021, 134 Stat. 3899, provided that: “The Secretary of Defense shall develop outcome measurements to evaluate the effect of the authority provided under subsection (a) of section 1599i of title 10, United States Code, as added by subsection (a), and any relocation incentives provided under subsection (b) of such section.”
 
-## § 1599j. Restricted reports of incidents of adult sexual assault
+## § 1599j. Restricted reports of incidents of adult sexual assault
 
 **(a) Restricted Reports.—** The Secretary of Defense may provide a civilian employee of the Department of Defense an opportunity to submit to an individual described in subsection (d) a restricted report of an alleged incident of adult sexual assault for the purpose of assisting the employee in obtaining information and access to authorized victim support services provided by the Department.
 
@@ -2910,4 +2910,4 @@ Pub. L. 116–283, div. A, title XI, § 1120(b), Jan. 1, 2021, 134 Stat. 3899,
 
 **(2) Sexual assault.—** The term “sexual assault” has the meaning given that term in section 920 of this title (article 120 of the Uniform Code of Military Justice), and includes penetrative offenses and sexual contact offenses.
 
-(Added Pub. L. 117–263, div. A, title XI, § 1101(a), Dec. 23, 2022, 136 Stat. 2815.)
+(Added Pub. L. 117–263, div. A, title XI, § 1101(a), Dec. 23, 2022, 136 Stat. 2815.)

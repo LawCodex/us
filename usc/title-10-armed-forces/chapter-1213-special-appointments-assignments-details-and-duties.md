@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2000—Pub. L. 106–398, § 1 [[div. A], title V, § 507(f)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–105, struck out item 12505 “Selection of officers for certain senior reserve component positions”.
+2000—Pub. L. 106–398, § 1 [[div. A], title V, § 507(f)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–105, struck out item 12505 “Selection of officers for certain senior reserve component positions”.
 
-1999—Pub. L. 106–65, div. A, title V, §§ 554(a)(2), 578(k)(2)(B), Oct. 5, 1999, 113 Stat. 616, 631, added items 12503 and 12505.
+1999—Pub. L. 106–65, div. A, title V, §§ 554(a)(2), 578(k)(2)(B), Oct. 5, 1999, 113 Stat. 616, 631, added items 12503 and 12505.
 
-## § 12501. Reserve components: detail of members of regular and reserve components to assist
+## § 12501. Reserve components: detail of members of regular and reserve components to assist
 
 The Secretary concerned shall detail such members of the regular and reserve components under his jurisdiction as are necessary to effectively develop, train, instruct, and administer those reserve components.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(g)(1), Oct. 5, 1994, 108 Stat. 2995.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(g)(1), Oct. 5, 1994, 108 Stat. 2995.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 715 of this title, prior to repeal by Pub. L. 103–337, § 1662(g)(2).
+Provisions similar to those in this section were contained in section 715 of this title, prior to repeal by Pub. L. 103–337, § 1662(g)(2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -41,19 +41,19 @@ Provisions similar to those in this section were contained in section 715 of thi
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12502. Chief and assistant chief of staff of National Guard divisions and wings in Federal service: detail
+## § 12502. Chief and assistant chief of staff of National Guard divisions and wings in Federal service: detail
 
 **(a)** The President may detail a regular or reserve officer of the Army as chief of staff, and a regular or reserve officer or an officer of the Army National Guard as assistant to the chief of staff, of any division of the Army National Guard that is in Federal service as an Army National Guard organization.
 
 **(b)** The President may detail a regular or reserve officer of the Air Force as chief of staff, and a regular or reserve officer or an officer of the Air National Guard as assistant to the chief of staff, of any wing of the Air National Guard that is in Federal service as an Air National Guard organization.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(g)(1), Oct. 5, 1994, 108 Stat. 2995.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(g)(1), Oct. 5, 1994, 108 Stat. 2995.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3542 and 8542 of this title, prior to repeal by Pub. L. 103–337, § 1662(g)(2).
+Provisions similar to those in this section were contained in sections 3542 and 8542 of this title, prior to repeal by Pub. L. 103–337, § 1662(g)(2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -61,7 +61,7 @@ Provisions similar to those in this section were contained in sections 3542 and 
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12503. Ready Reserve: funeral honors duty
+## § 12503. Ready Reserve: funeral honors duty
 
 **(a) Order to Duty.—** A member of the Ready Reserve may be ordered to funeral honors duty, with the consent of the member, in preparation for or to perform funeral honors functions at the funeral of a veteran as defined in section 1491 of this title. Performance of funeral honors duty by a Reserve not on active duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 435 of title 37.
 
@@ -81,21 +81,21 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(e) Members of the National Guard.—** This section does not apply to members of the Army National Guard of the United States or the Air National Guard of the United States. The performance of funeral honors duty by those members is provided for in section 115 of title 32.
 
-(Added Pub. L. 106–65, div. A, title V, § 578(g)(3), Oct. 5, 1999, 113 Stat. 628; amended Pub. L. 106–398, § 1 [[div. A], title V, § 575(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107, div. A, title V, § 562(a), Dec. 28, 2001, 115 Stat. 1119; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(c)(9), Dec. 23, 2022, 136 Stat. 2628.)
+(Added Pub. L. 106–65, div. A, title V, § 578(g)(3), Oct. 5, 1999, 113 Stat. 628; amended Pub. L. 106–398, § 1 [[div. A], title V, § 575(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107, div. A, title V, § 562(a), Dec. 28, 2001, 115 Stat. 1119; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(c)(9), Dec. 23, 2022, 136 Stat. 2628.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–263, § 626(c)(9)(A), substituted “sections 206 and 435” for “sections 206 and 495”.
+2022—Subsec. (a). Pub. L. 117–263, § 626(c)(9)(A), substituted “sections 206 and 435” for “sections 206 and 495”.
 
-Subsec. (b)(2)(A). Pub. L. 117–263, § 626(c)(9)(B), substituted “section 435” for “section 495”.
+Subsec. (b)(2)(A). Pub. L. 117–263, § 626(c)(9)(B), substituted “section 435” for “section 495”.
 
-Subsec. (c). Pub. L. 117–263, § 626(c)(9)(C), substituted “section 452” for “chapter 7”.
+Subsec. (c). Pub. L. 117–263, § 626(c)(9)(C), substituted “section 452” for “chapter 7”.
 
-2013—Subsecs. (a), (b)(2)(A). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
+2013—Subsecs. (a), (b)(2)(A). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
-2011—Subsecs. (a), (b)(2)(A). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “495” for “435”.
+2011—Subsecs. (a), (b)(2)(A). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “495” for “435”.
 
 2001—Subsec. (a). Pub. L. 107–107 inserted at end “Performance of funeral honors duty by a Reserve not on active duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 435 of title 37.”
 
@@ -105,16 +105,16 @@ Subsec. (c). Pub. L. 117–263, § 626(c)(9)(C), substituted “section 452”
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title V, § 562(c), Dec. 28, 2001, 115 Stat. 1120, provided that: “The amendments made by this section [amending this section and section 115 of Title 32, National Guard] shall apply to funeral honors duty performed on or after October 30, 2000.”
+Pub. L. 107–107, div. A, title V, § 562(c), Dec. 28, 2001, 115 Stat. 1120, provided that: “The amendments made by this section [amending this section and section 115 of Title 32, National Guard] shall apply to funeral honors duty performed on or after October 30, 2000.”
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 575(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, provided that: “The amendments made by this section [amending this section, section 115 of Title 32, National Guard, and section 435 of Title 37, Pay and Allowances of the Uniformed Services] shall apply with respect to funeral honors duty performed on or after October 1, 2000.”
+Pub. L. 106–398, § 1 [[div. A], title V, § 575(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, provided that: “The amendments made by this section [amending this section, section 115 of Title 32, National Guard, and section 435 of Title 37, Pay and Allowances of the Uniformed Services] shall apply with respect to funeral honors duty performed on or after October 1, 2000.”
 
-## [§ 12505. Repealed. Pub. L. 106–398, § 1 [[div. A], title V, § 507(f)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–105]
+## [§ 12505. Repealed. Pub. L. 106–398, § 1 [[div. A], title V, § 507(f)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–105]
 
-Section, added Pub. L. 106–65, div. A, title V, § 554(a)(1), Oct. 5, 1999, 113 Stat. 616, related to selection of officers for certain senior reserve component positions.
+Section, added Pub. L. 106–65, div. A, title V, § 554(a)(1), Oct. 5, 1999, 113 Stat. 616, related to selection of officers for certain senior reserve component positions.

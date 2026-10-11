@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 26—OWNERSHIP AND ASSIGNMENT
 
-## § 261. Ownership; assignment
+## § 261. Ownership; assignment
 
 Subject to the provisions of this title, patents shall have the attributes of personal property. The Patent and Trademark Office shall maintain a register of interests in patents and applications for patents and shall record any document related thereto upon request, and may require a fee therefor.
 
@@ -25,11 +25,11 @@ A certificate of acknowledgment under the hand and official seal of a person aut
 
 An interest that constitutes an assignment, grant or conveyance shall be void as against any subsequent purchaser or mortgagee for a valuable consideration, without notice, unless it is recorded in the Patent and Trademark Office within three months from its date or prior to the date of such subsequent purchase or mortgage.
 
-(July 19, 1952, ch. 950, 66 Stat. 810; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, § 14(b), Aug. 27, 1982, 96 Stat. 321; Pub. L. 112–211, title II, § 201(d), Dec. 18, 2012, 126 Stat. 1535.)
+(July 19, 1952, ch. 950, 66 Stat. 810; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, § 14(b), Aug. 27, 1982, 96 Stat. 321; Pub. L. 112–211, title II, § 201(d), Dec. 18, 2012, 126 Stat. 1535.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 47 (R.S. 4898, amended (1) Mar. 3, 1897, ch. 391, § 5, 29 Stat. 93 [29 Stat. 693], (2) Feb. 18, 1922, ch. 58, § 6, 42 Stat. 391, (3) Aug. 18, 1941, ch. 370, 55 Stat. 634).
+Based on Title 35, U.S.C., 1946 ed., § 47 (R.S. 4898, amended (1) Mar. 3, 1897, ch. 391, § 5, 29 Stat. 93 [29 Stat. 693], (2) Feb. 18, 1922, ch. 58, § 6, 42 Stat. 391, (3) Aug. 18, 1941, ch. 370, 55 Stat. 634).
 
 The first paragraph is new but is declaratory only. The second paragraph is the same as in the corresponding section of existing statute. The third paragraph is from the existing statute, a specific reference to another statute is omitted. The fourth paragraph is the same as the existing statute but language has been changed.
 
@@ -39,7 +39,7 @@ The first paragraph is new but is declaratory only. The second paragraph is the 
 
 2012—Pub. L. 112–211 inserted “The Patent and Trademark Office shall maintain a register of interests in patents and applications for patents and shall record any document related thereto upon request, and may require a fee therefor.” at end of first par. and substituted “An interest that constitutes an assignment” for “An assignment” in fourth par.
 
-1982—Pub. L. 97–247 inserted “, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States”.
+1982—Pub. L. 97–247 inserted “, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States”.
 
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
@@ -57,11 +57,11 @@ Amendment by Pub. L. 97–247 effective Aug. 27, 1982, see section 17(a) of Pub.
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-## § 262. Joint owners
+## § 262. Joint owners
 
 In the absence of any agreement to the contrary, each of the joint owners of a patent may make, use, offer to sell, or sell the patented invention within the United States, or import the patented invention into the United States, without the consent of and without accounting to the other owners.
 
-(July 19, 1952, ch. 950, 66 Stat. 810; Pub. L. 103–465, title V, § 533(b)(3), Dec. 8, 1994, 108 Stat. 4989.)
+(July 19, 1952, ch. 950, 66 Stat. 810; Pub. L. 103–465, title V, § 533(b)(3), Dec. 8, 1994, 108 Stat. 4989.)
 
 **Historical and Revision Notes**
 

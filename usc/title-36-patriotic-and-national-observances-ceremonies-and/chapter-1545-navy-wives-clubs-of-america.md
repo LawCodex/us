@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1545—NAVY WIVES CLUBS OF AMERICA"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1545—NAVY WIVES CLUBS OF AMERICA"
 identifier: "/us/usc/t36/stII/ptB/ch1545"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1545—NAVY WIVES CLUBS OF AMERICA
 
-## § 154501. Definition
+## § 154501. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
 
@@ -25,11 +25,11 @@ For purposes of this chapter, “State” includes the District of Columbia and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 154501 | 36:2813. | Oct. 19, 1984, Pub. L. 98–520, § 14, 98 Stat. 2430. |
+| 154501 | 36:2813. | Oct. 19, 1984, Pub. L. 98–520, § 14, 98 Stat. 2430. |
 
 The words “the Commonwealth of Puerto Rico” are omitted as included in “the territories and possessions of the United States”.
 
-## § 154502. Organization
+## § 154502. Organization
 
 **(a) Federal Charter.—** Navy Wives Clubs of America (in this chapter, the “corporation”), incorporated in California, is a federally chartered corporation.
 
@@ -41,12 +41,12 @@ The words “the Commonwealth of Puerto Rico” are omitted as included in “th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 154502(a) | 36:2801. | Oct. 19, 1984, Pub. L. 98–520, §§ 1, 15 (last sentence), 16, 98 Stat. 2428, 2430. |
+| 154502(a) | 36:2801. | Oct. 19, 1984, Pub. L. 98–520, §§ 1, 15 (last sentence), 16, 98 Stat. 2428, 2430. |
 | 154502(b) | 36:2814 (last sentence). 36:2815. |  |
 
 This section is substituted for the source provisions for consistency in the revised title.
 
-## § 154503. Purposes
+## § 154503. Purposes
 
 The purposes of the corporation are as provided in the articles of incorporation and include—
 
@@ -62,7 +62,7 @@ The purposes of the corporation are as provided in the articles of incorporation
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 154503 | 36:2803. | Oct. 19, 1984, Pub. L. 98–520, § 3, 98 Stat. 2428. |
+| 154503 | 36:2803. | Oct. 19, 1984, Pub. L. 98–520, § 3, 98 Stat. 2428. |
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -70,7 +70,7 @@ The purposes of the corporation are as provided in the articles of incorporation
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 154504. Membership
+## § 154504. Membership
 
 Eligibility for membership in the corporation and the rights and privileges of members are as provided in the bylaws.
 
@@ -80,9 +80,9 @@ Eligibility for membership in the corporation and the rights and privileges of m
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 154504 | 36:2805. | Oct. 19, 1984, Pub. L. 98–520, § 5, 98 Stat. 2428. |
+| 154504 | 36:2805. | Oct. 19, 1984, Pub. L. 98–520, § 5, 98 Stat. 2428. |
 
-## § 154505. Governing body
+## § 154505. Governing body
 
 **(a) Board of Directors.—** The board of directors and the responsibilities of the board are as provided in the articles of incorporation.
 
@@ -94,12 +94,12 @@ Eligibility for membership in the corporation and the rights and privileges of m
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 154505(a) | 36:2806. | Oct. 19, 1984, Pub. L. 98–520, §§ 6, 7, 98 Stat. 2428. |
+| 154505(a) | 36:2806. | Oct. 19, 1984, Pub. L. 98–520, §§ 6, 7, 98 Stat. 2428. |
 | 154505(b) | 36:2807. |  |
 
 The words “and in conformity with the laws of the State or States in which it is incorporated” in 36:2806 and “and in conformity with the laws of the State or States wherein it is incorporated” in 36:2807 are omitted as unnecessary.
 
-## § 154506. Powers
+## § 154506. Powers
 
 The corporation has only the powers provided in its bylaws and articles of incorporation filed in each State in which it is incorporated.
 
@@ -109,11 +109,11 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 154506 | 36:2802. | Oct. 19, 1984, Pub. L. 98–520, § 2, 98 Stat. 2428. |
+| 154506 | 36:2802. | Oct. 19, 1984, Pub. L. 98–520, § 2, 98 Stat. 2428. |
 
 The words “and subject to the laws of such State or States” are omitted as unnecessary.
 
-## § 154507. Restrictions
+## § 154507. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -131,7 +131,7 @@ The words “and subject to the laws of such State or States” are omitted as u
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 154507(a) | 36:2808(d). | Oct. 19, 1984, Pub. L. 98–520, § 8(a)–(e), 98 Stat. 2429. |
+| 154507(a) | 36:2808(d). | Oct. 19, 1984, Pub. L. 98–520, § 8(a)–(e), 98 Stat. 2429. |
 | 154507(b) | 36:2808(c). |  |
 | 154507(c) | 36:2808(a). |  |
 | 154507(d) | 36:2808(b). |  |
@@ -141,7 +141,7 @@ In subsection (a), the words “any shares of” are omitted as unnecessary.
 
 In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
 
-## § 154508. Duty to maintain corporate and tax-exempt status
+## § 154508. Duty to maintain corporate and tax-exempt status
 
 **(a) Corporate Status.—** The corporation shall maintain its status as a corporation incorporated under the laws of each State in which it is incorporated.
 
@@ -153,10 +153,10 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 154508(a) | 36:2808(f). | Oct. 19, 1984, Pub. L. 98–520, §§ 8(f), 15 (1st sentence), 98 Stat. 2429, 2430. |
+| 154508(a) | 36:2808(f). | Oct. 19, 1984, Pub. L. 98–520, §§ 8(f), 15 (1st sentence), 98 Stat. 2429, 2430. |
 | 154508(b) | 36:2814 (1st sentence). |  |
 
-## § 154509. Records and inspection
+## § 154509. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -174,13 +174,13 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 154509 | 36:2810. | Oct. 19, 1984, Pub. L. 98–520, § 10, 98 Stat. 2429. |
+| 154509 | 36:2810. | Oct. 19, 1984, Pub. L. 98–520, § 10, 98 Stat. 2429. |
 
 In this section, the word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code. The words “Nothing in this section shall be construed to contravene any applicable State law” are omitted as unnecessary.
 
 In subsection (a)(2), the words “proceedings of” are substituted for “proceeding of the corporation involving” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 154510. Service of process
+## § 154510. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
@@ -190,11 +190,11 @@ The corporation shall comply with the law on service of process of each State in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 154510 | 36:2804. | Oct. 19, 1984, Pub. L. 98–520, § 4, 98 Stat. 2428. |
+| 154510 | 36:2804. | Oct. 19, 1984, Pub. L. 98–520, § 4, 98 Stat. 2428. |
 
 The words “in furtherance of its corporate purposes” are omitted as unnecessary.
 
-## § 154511. Liability for acts of officers and agents
+## § 154511. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -204,9 +204,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 154511 | 36:2809. | Oct. 19, 1984, Pub. L. 98–520, § 9, 98 Stat. 2429. |
+| 154511 | 36:2809. | Oct. 19, 1984, Pub. L. 98–520, § 9, 98 Stat. 2429. |
 
-## § 154512. Annual report
+## § 154512. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year. The report shall be submitted at the same time as the report of the audit required by section 10101 of this title. The report may not be printed as a public document.
 
@@ -216,4 +216,4 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 154512 | 36:2811. | Oct. 19, 1984, Pub. L. 98–520, § 12, 98 Stat. 2430. |
+| 154512 | 36:2811. | Oct. 19, 1984, Pub. L. 98–520, § 12, 98 Stat. 2430. |

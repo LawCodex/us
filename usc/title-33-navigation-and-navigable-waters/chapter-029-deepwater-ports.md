@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 29—DEEPWATER PORTS
 
-## § 1501. Congressional declaration of policy
+## § 1501. Congressional declaration of policy
 
 **(a) Purposes.—** The purposes of this chapter are—
 
@@ -33,25 +33,25 @@ retrieved: 2026-10-11
 
 **(b) Effect of chapter.—** Nothing in this chapter affects the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.
 
-(Pub. L. 93–627, § 2, Jan. 3, 1975, 88 Stat. 2126; Pub. L. 104–324, title V, § 502(b), Oct. 19, 1996, 110 Stat. 3925; Pub. L. 107–295, title I, § 106(a)(1), Nov. 25, 2002, 116 Stat. 2086; Pub. L. 118–31, div. C, title XXXV, § 3514(k)(1), Dec. 22, 2023, 137 Stat. 812.)
+(Pub. L. 93–627, § 2, Jan. 3, 1975, 88 Stat. 2126; Pub. L. 104–324, title V, § 502(b), Oct. 19, 1996, 110 Stat. 3925; Pub. L. 107–295, title I, § 106(a)(1), Nov. 25, 2002, 116 Stat. 2086; Pub. L. 118–31, div. C, title XXXV, § 3514(k)(1), Dec. 22, 2023, 137 Stat. 812.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (a). Pub. L. 118–31, § 3514(k)(1)(A)(i), inserted heading and substituted “The purposes of this chapter are—” for “It is declared to be the purposes of the Congress in this chapter to—” in introductory provisions.
+2023—Subsec. (a). Pub. L. 118–31, § 3514(k)(1)(A)(i), inserted heading and substituted “The purposes of this chapter are—” for “It is declared to be the purposes of the Congress in this chapter to—” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 118–31, § 3514(k)(1)(A)(ii), inserted “to” after par. designation and realigned margins.
+Subsec. (a)(1). Pub. L. 118–31, § 3514(k)(1)(A)(ii), inserted “to” after par. designation and realigned margins.
 
-Subsec. (a)(2). Pub. L. 118–31, § 3514(k)(1)(A)(ii), (iii), inserted “to” after par. designation, substituted “deepwater ports” for “such ports”, and realigned margins.
+Subsec. (a)(2). Pub. L. 118–31, § 3514(k)(1)(A)(ii), (iii), inserted “to” after par. designation, substituted “deepwater ports” for “such ports”, and realigned margins.
 
-Subsec. (a)(3), (4). Pub. L. 118–31, § 3514(k)(1)(A)(ii), inserted “to” after par. designation and realigned margins.
+Subsec. (a)(3), (4). Pub. L. 118–31, § 3514(k)(1)(A)(ii), inserted “to” after par. designation and realigned margins.
 
-Subsec. (a)(5). Pub. L. 118–31, § 3514(k)(1)(A)(ii), (iv), inserted “to” after par. designation, substituted “Continental Shelf” for “continental shelf” and “associated with that traffic” for “attendant thereto”, and realigned margins.
+Subsec. (a)(5). Pub. L. 118–31, § 3514(k)(1)(A)(ii), (iv), inserted “to” after par. designation, substituted “Continental Shelf” for “continental shelf” and “associated with that traffic” for “attendant thereto”, and realigned margins.
 
-Subsec. (a)(6). Pub. L. 118–31, § 3514(k)(1)(A)(ii), (v), inserted “to” after par. designation, substituted “Continental Shelf” for “continental shelf” in two places, and realigned margins.
+Subsec. (a)(6). Pub. L. 118–31, § 3514(k)(1)(A)(ii), (v), inserted “to” after par. designation, substituted “Continental Shelf” for “continental shelf” in two places, and realigned margins.
 
-Subsec. (b). Pub. L. 118–31, § 3514(k)(1)(B), inserted heading and substituted “Nothing in this chapter affects” for “The Congress declares that nothing in this chapter shall be construed to affect” in text.
+Subsec. (b). Pub. L. 118–31, § 3514(k)(1)(B), inserted heading and substituted “Nothing in this chapter affects” for “The Congress declares that nothing in this chapter shall be construed to affect” in text.
 
 2002—Subsec. (a)(5), (6). Pub. L. 107–295 inserted “or natural gas” after “oil” wherever appearing.
 
@@ -61,19 +61,19 @@ Subsec. (b). Pub. L. 118–31, § 3514(k)(1)(B), inserted heading and substitu
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–324, title V, § 501, Oct. 19, 1996, 110 Stat. 3925, provided that: “This title [amending this section and sections 1502 to 1504, 1507, and 1509 of this title, repealing section 1506 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Deepwater Port Modernization Act’.”
+Pub. L. 104–324, title V, § 501, Oct. 19, 1996, 110 Stat. 3925, provided that: “This title [amending this section and sections 1502 to 1504, 1507, and 1509 of this title, repealing section 1506 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Deepwater Port Modernization Act’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–419, § 1, Sept. 25, 1984, 98 Stat. 1607, provided: “That this Act [amending sections 1502, 1503, 1504, 1506, 1507, 1517, and 1518 of this title and enacting provisions set out as a note under section 1518 of this title] may be cited as the ‘Deepwater Port Act Amendments of 1984’.”
+Pub. L. 98–419, § 1, Sept. 25, 1984, 98 Stat. 1607, provided: “That this Act [amending sections 1502, 1503, 1504, 1506, 1507, 1517, and 1518 of this title and enacting provisions set out as a note under section 1518 of this title] may be cited as the ‘Deepwater Port Act Amendments of 1984’.”
 
 **Short Title**
 
-Pub. L. 93–627, § 1, Jan. 3, 1975, 88 Stat. 2126, provided: “That this Act [enacting this chapter and amending section 1333 of Title 43, Public Lands] may be cited as the ‘Deepwater Port Act of 1974’.”
+Pub. L. 93–627, § 1, Jan. 3, 1975, 88 Stat. 2126, provided: “That this Act [enacting this chapter and amending section 1333 of Title 43, Public Lands] may be cited as the ‘Deepwater Port Act of 1974’.”
 
 **Congressional Purposes for 1996 Amendments**
 
-Pub. L. 104–324, title V, § 502(a), Oct. 19, 1996, 110 Stat. 3925, provided that:
+Pub. L. 104–324, title V, § 502(a), Oct. 19, 1996, 110 Stat. 3925, provided that:
 
 > “The purposes of this title [see Short Title of 1996 Amendment note above] are to—
 
@@ -95,7 +95,7 @@ Penalties paid pursuant to this chapter and sections 1319(c) and 1321 of this ti
 
 For provisions relating to environmental effects abroad of major Federal actions, see Ex. Ord. No. 12114, Jan. 4, 1979, 44 F.R. 1957, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
-## § 1502. Definitions
+## § 1502. Definitions
 
 In this chapter:
 
@@ -107,9 +107,9 @@ In this chapter:
 
 **(4) Citizen of the United States.—** The term “citizen of the United States” means any person who is a United States citizen by law, birth, or naturalization, any State, any agency of a State or a group of States, or any corporation, partnership, or association organized under the laws of any State which has as its president or other executive officer and as its chairman of the board of directors, or holder of a similar office, a person who is a United States citizen by law, birth or naturalization and which has no more of its directors who are not United States citizens by law, birth or naturalization than constitute a minority of the number required for a quorum necessary to conduct the business of the board.
 
-**(5) Coastal environment.—** The term “coastal environment” means the navigable waters (including the lands therein and thereunder) and the adjacent shorelines including 1
+**(5) Coastal environment.—** The term “coastal environment” means the navigable waters (including the lands therein and thereunder) and the adjacent shorelines including 1
 
-<sup>1</sup>  So in original. Probably should be preceded by an opening parenthesis.
+<sup>1</sup> So in original. Probably should be preceded by an opening parenthesis.
 
 waters therein and thereunder). The term includes transitional and intertidal areas, bays, lagoons, salt marshes, estuaries, and beaches; the fish, wildlife and other living resources thereof; and the recreational and scenic values of such lands, waters and resources.
 
@@ -149,47 +149,47 @@ waters therein and thereunder). The term includes transitional and intertidal ar
 
 **(19) Vessel.—** The term “vessel” means every description of watercraft or other artificial contrivance used as a means of transportation on or through the water.
 
-(Pub. L. 93–627, § 3, Jan. 3, 1975, 88 Stat. 2127; Pub. L. 98–419, § 2(a), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, § 503, Oct. 19, 1996, 110 Stat. 3926; Pub. L. 107–295, title I, § 106(b), Nov. 25, 2002, 116 Stat. 2086; Pub. L. 109–58, title III, § 321(b), Aug. 8, 2005, 119 Stat. 694; Pub. L. 112–213, title III, § 312, Dec. 20, 2012, 126 Stat. 1569; Pub. L. 118–31, div. C, title XXXV, § 3514(k)(2), Dec. 22, 2023, 137 Stat. 813.)
+(Pub. L. 93–627, § 3, Jan. 3, 1975, 88 Stat. 2127; Pub. L. 98–419, § 2(a), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, § 503, Oct. 19, 1996, 110 Stat. 3926; Pub. L. 107–295, title I, § 106(b), Nov. 25, 2002, 116 Stat. 2086; Pub. L. 109–58, title III, § 321(b), Aug. 8, 2005, 119 Stat. 694; Pub. L. 112–213, title III, § 312, Dec. 20, 2012, 126 Stat. 1569; Pub. L. 118–31, div. C, title XXXV, § 3514(k)(2), Dec. 22, 2023, 137 Stat. 813.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Clean Air Act, referred to in par. (9)(D), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in par. (9)(D), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The Federal Water Pollution Control Act, as amended, referred to in par. (9)(D), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, as amended, referred to in par. (9)(D), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 **Codification**
 
-Pub. L. 118–31, div. C, title XXXV, § 3514(k)(2)(B)(ii), (D)(ii), Dec. 22, 2023, 137 Stat. 813, which directed insertion of par. headings in pars. (1) to (19) comprised of the term defined in the par. without specifying where to insert the heading, was executed by inserting the heading after par. designation and before “The term” and supplying the heading style to reflect the probable intent of Congress.
+Pub. L. 118–31, div. C, title XXXV, § 3514(k)(2)(B)(ii), (D)(ii), Dec. 22, 2023, 137 Stat. 813, which directed insertion of par. headings in pars. (1) to (19) comprised of the term defined in the par. without specifying where to insert the heading, was executed by inserting the heading after par. designation and before “The term” and supplying the heading style to reflect the probable intent of Congress.
 
 **Amendments**
 
-2023—Pub. L. 118–31, § 3514(k)(2)(A), substituted “Definitions” for “Definitions” in section catchline and “In this chapter:” for “As used in this chapter, unless the context otherwise requires, the term—” in introductory provisions.
+2023—Pub. L. 118–31, § 3514(k)(2)(A), substituted “Definitions” for “Definitions” in section catchline and “In this chapter:” for “As used in this chapter, unless the context otherwise requires, the term—” in introductory provisions.
 
-2023—Par. (1). Pub. L. 118–31, § 3514(k)(2)(B), inserted term defined in par. as heading and “The term” after par. designation and substituted period for semicolon at end.
+2023—Par. (1). Pub. L. 118–31, § 3514(k)(2)(B), inserted term defined in par. as heading and “The term” after par. designation and substituted period for semicolon at end.
 
-Par. (2). Pub. L. 118–31, § 3514(k)(2)(B), (C), inserted term defined in par. as heading and “The term” after par. designation and substituted “subparagraph (A) or (B) of section 1504(c)(2) of this title” for “section 1504(c)(2)(A) or (B) of this title” and a period for semicolon at end.
+Par. (2). Pub. L. 118–31, § 3514(k)(2)(B), (C), inserted term defined in par. as heading and “The term” after par. designation and substituted “subparagraph (A) or (B) of section 1504(c)(2) of this title” for “section 1504(c)(2)(A) or (B) of this title” and a period for semicolon at end.
 
-Pars. (3) to (17). Pub. L. 118–31, § 3514(k)(2)(B), inserted term defined in par. as heading and “The term” after par. designation and substituted period for semicolon at end.
+Pars. (3) to (17). Pub. L. 118–31, § 3514(k)(2)(B), inserted term defined in par. as heading and “The term” after par. designation and substituted period for semicolon at end.
 
-Par. (18). Pub. L. 118–31, § 3514(k)(2)(D), (E), inserted term defined in par. as heading and “The term” after par. designation and substituted a period for “; and” at end.
+Par. (18). Pub. L. 118–31, § 3514(k)(2)(D), (E), inserted term defined in par. as heading and “The term” after par. designation and substituted a period for “; and” at end.
 
-Par. (19). Pub. L. 118–31, § 3514(k)(2)(D), inserted term defined in par. as heading and “The term” after par. designation.
+Par. (19). Pub. L. 118–31, § 3514(k)(2)(D), inserted term defined in par. as heading and “The term” after par. designation.
 
 2012—Par. (9)(A). Pub. L. 112–213 inserted “or from” before “any State”.
 
-2005—Par. (13). Pub. L. 109–58 inserted “, natural gas liquids, liquefied petroleum gas, and condensate recovered from natural gas” before semicolon at end.
+2005—Par. (13). Pub. L. 109–58 inserted “, natural gas liquids, liquefied petroleum gas, and condensate recovered from natural gas” before semicolon at end.
 
-2002—Par. (9). Pub. L. 107–295, § 106(b)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “ ‘deepwater port’ means any fixed or floating manmade structures other than a vessel, or any group of structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the transportation, storage, and further handling of oil for transportation to any State, except as otherwise provided in section 1522 of this title, and for other uses not inconsistent with the purposes of this chapter, including transportation of oil from the United States outer continental shelf. The term includes all associated components and equipment, including pipelines, pumping stations, service platforms, mooring buoys, and similar appurtenances to the extent they are located seaward of the high water mark. A deepwater port shall be considered a ‘new source’ for purposes of the Clean Air Act, as amended, and the Federal Water Pollution Control Act, as amended;”.
+2002—Par. (9). Pub. L. 107–295, § 106(b)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “ ‘deepwater port’ means any fixed or floating manmade structures other than a vessel, or any group of structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the transportation, storage, and further handling of oil for transportation to any State, except as otherwise provided in section 1522 of this title, and for other uses not inconsistent with the purposes of this chapter, including transportation of oil from the United States outer continental shelf. The term includes all associated components and equipment, including pipelines, pumping stations, service platforms, mooring buoys, and similar appurtenances to the extent they are located seaward of the high water mark. A deepwater port shall be considered a ‘new source’ for purposes of the Clean Air Act, as amended, and the Federal Water Pollution Control Act, as amended;”.
 
-Pars. (13) to (19). Pub. L. 107–295, § 106(b)(1), (3), added par. (13) and redesignated former pars. (13) to (18) as (14) to (19), respectively.
+Pars. (13) to (19). Pub. L. 107–295, § 106(b)(1), (3), added par. (13) and redesignated former pars. (13) to (18) as (14) to (19), respectively.
 
-1996—Pars. (3) to (8). Pub. L. 104–324, § 503(a), redesignated pars. (4) to (9) as (3) to (8), respectively, and struck out former par. (3) which read as follows: “ ‘antitrust laws’ includes the Act of July 2, 1890, as amended, the Act of October 15, 1914, as amended, the Federal Trade Commission Act (15 U.S.C. 41 et seq.), and sections 73 and 74 of the Act of August 27, 1894, as amended;”.
+1996—Pars. (3) to (8). Pub. L. 104–324, § 503(a), redesignated pars. (4) to (9) as (3) to (8), respectively, and struck out former par. (3) which read as follows: “ ‘antitrust laws’ includes the Act of July 2, 1890, as amended, the Act of October 15, 1914, as amended, the Federal Trade Commission Act (15 U.S.C. 41 et seq.), and sections 73 and 74 of the Act of August 27, 1894, as amended;”.
 
-Par. (9). Pub. L. 104–324, § 503(a)(2), (b), redesignated par. (10) as (9) and substituted “structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the transportation, storage, and further handling of oil for transportation to any State, except as otherwise provided in section 1522 of this title, and for other uses not inconsistent with the purposes of this chapter, including transportation of oil from the United States outer continental shelf.” for “such structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the loading or unloading and further handling of oil for transportation to any State, except as otherwise provided in section 1522 of this title.” Former par. (9) redesignated (8).
+Par. (9). Pub. L. 104–324, § 503(a)(2), (b), redesignated par. (10) as (9) and substituted “structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the transportation, storage, and further handling of oil for transportation to any State, except as otherwise provided in section 1522 of this title, and for other uses not inconsistent with the purposes of this chapter, including transportation of oil from the United States outer continental shelf.” for “such structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the loading or unloading and further handling of oil for transportation to any State, except as otherwise provided in section 1522 of this title.” Former par. (9) redesignated (8).
 
-Pars. (10) to (19). Pub. L. 104–324, § 503(a)(2), redesignated pars. (11) to (19) as (10) to (18), respectively. Former par. (10) redesignated (9).
+Pars. (10) to (19). Pub. L. 104–324, § 503(a)(2), redesignated pars. (11) to (19) as (10) to (18), respectively. Former par. (10) redesignated (9).
 
 1984—Par. (4). Pub. L. 98–419 substituted “means an application” for “means any application”, struck out designation “(A)” before “for a license”, and struck out cls. (B) and (C) which provided that “application” meant any application submitted under this chapter for transfer of any license referred to in this paragraph, or for any substantial change in any of the conditions and provisions of any such license.
 
@@ -199,7 +199,7 @@ Pars. (10) to (19). Pub. L. 104–324, § 503(a)(2), redesignated pars. (11) t
 
 For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
-## § 1503. License for ownership, construction, and operation of deepwater port
+## § 1503. License for ownership, construction, and operation of deepwater port
 
 **(a) Requirement**
 
@@ -243,9 +243,9 @@ the Secretary shall not issue a license under this chapter until he has examined
 
 **(e) Additional conditions; removal requirements, waiver; Outer Continental Shelf Lands Act applicable to utilization of components upon waiver of removal requirements**
 
-**(1)** In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter 1
+**(1)** In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.1 To the extent practicable, conditions required to carry out the provisions and requirements of this chapter shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port’s operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with section 1509(a) of this title, rather than in detailed and specific license conditions or regulations, except that basic standards and conditions shall be addressed in regulations. On petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter, reasonable, and necessary to meet the objectives of this chapter. The Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
 
@@ -269,41 +269,41 @@ A license issued under this chapter remains in effect unless suspended or revoke
 
 To promote the security of the United States, the Secretary shall give top priority to the processing of a license under this chapter for liquefied natural gas facilities that will be supplied with or that will supply liquefied natural gas by United States flag vessels.
 
-(Pub. L. 93–627, § 4, Jan. 3, 1975, 88 Stat. 2128; Pub. L. 98–419, § 2(b)–(e), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 101–380, title II, § 2003(a)(1), Aug. 18, 1990, 104 Stat. 507; Pub. L. 104–324, title V, § 504, Oct. 19, 1996, 110 Stat. 3926; Pub. L. 107–295, title I, § 106(a)(2), Nov. 25, 2002, 116 Stat. 2086; Pub. L. 109–241, title III, § 304(b), July 11, 2006, 120 Stat. 527; Pub. L. 113–281, title III, § 307(c), Dec. 18, 2014, 128 Stat. 3045; Pub. L. 118–31, div. C, title XXXV, § 3514(k)(3), Dec. 22, 2023, 137 Stat. 813.)
+(Pub. L. 93–627, § 4, Jan. 3, 1975, 88 Stat. 2128; Pub. L. 98–419, § 2(b)–(e), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 101–380, title II, § 2003(a)(1), Aug. 18, 1990, 104 Stat. 507; Pub. L. 104–324, title V, § 504, Oct. 19, 1996, 110 Stat. 3926; Pub. L. 107–295, title I, § 106(a)(2), Nov. 25, 2002, 116 Stat. 2086; Pub. L. 109–241, title III, § 304(b), July 11, 2006, 120 Stat. 527; Pub. L. 113–281, title III, § 307(c), Dec. 18, 2014, 128 Stat. 3045; Pub. L. 118–31, div. C, title XXXV, § 3514(k)(3), Dec. 22, 2023, 137 Stat. 813.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Clean Air Act, referred to in subsec. (c)(6), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (c)(6), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The Federal Water Pollution Control Act, as amended, referred to in subsec. (c)(6), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, as amended, referred to in subsec. (c)(6), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
-The Marine Protection, Research and Sanctuaries Act, referred to subsec. (c)(6), probably means Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, known as the Marine Protection, Research, and Sanctuaries Act of 1972, which is classified generally to chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
+The Marine Protection, Research and Sanctuaries Act, referred to subsec. (c)(6), probably means Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, known as the Marine Protection, Research, and Sanctuaries Act of 1972, which is classified generally to chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (c)(9), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (c)(9), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
 This chapter, referred to in the first sentence of subsec. (e)(1), was in the original “this title” and was translated as reading “this Act”, meaning Pub. L. 93–627, which is classified generally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–627 does not contain titles.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 **Amendments**
 
-2023—Subsec. (c)(1). Pub. L. 118–31, § 3514(k)(3)(A)(i), (ii), substituted “the Secretary” for “he” after par. designation and inserted semicolon at end.
+2023—Subsec. (c)(1). Pub. L. 118–31, § 3514(k)(3)(A)(i), (ii), substituted “the Secretary” for “he” after par. designation and inserted semicolon at end.
 
-Subsec. (c)(2) to (7). Pub. L. 118–31, § 3514(k)(3)(A)(i), substituted “the Secretary” for “he” after par. designation.
+Subsec. (c)(2) to (7). Pub. L. 118–31, § 3514(k)(3)(A)(i), substituted “the Secretary” for “he” after par. designation.
 
-Subsec. (c)(8). Pub. L. 118–31, § 3514(k)(3)(A)(iii), substituted “each adjacent coastal State approves, or is presumed to approve, the issuance of the license pursuant to section 1508(b)(1) of this title, if applicable” for “the adjacent coastal State of States, pursuant to section 1508 of this title, approves, or is presumed to approve, issuance of the license”.
+Subsec. (c)(8). Pub. L. 118–31, § 3514(k)(3)(A)(iii), substituted “each adjacent coastal State approves, or is presumed to approve, the issuance of the license pursuant to section 1508(b)(1) of this title, if applicable” for “the adjacent coastal State of States, pursuant to section 1508 of this title, approves, or is presumed to approve, issuance of the license”.
 
-Subsec. (e)(1). Pub. L. 118–31, § 3514(k)(3)(B)(i), in second sentence, substituted “requirements of this chapter” for “requirements of this title” and “regulations,” for “regulations;” and made technical amendment to reference in original Act which appears in text as reference to section 1509(a) of this title.
+Subsec. (e)(1). Pub. L. 118–31, § 3514(k)(3)(B)(i), in second sentence, substituted “requirements of this chapter” for “requirements of this title” and “regulations,” for “regulations;” and made technical amendment to reference in original Act which appears in text as reference to section 1509(a) of this title.
 
-Subsec. (e)(2)(B). Pub. L. 118–31, § 3514(k)(3)(B)(ii), substituted “the licensee or transferee will comply” for “he will comply”.
+Subsec. (e)(2)(B). Pub. L. 118–31, § 3514(k)(3)(B)(ii), substituted “the licensee or transferee will comply” for “he will comply”.
 
-Subsec. (e)(3). Pub. L. 118–31, § 3514(k)(3)(B)(iii)(III), in third sentence, substituted “the Secretary determines” for “he determines”, “(43 U.S.C. 1331 et seq.)” for “(67 Stat. 462)”, and “terms of that Act.” for “terms of the Outer Continental Shelf Lands Act.”
+Subsec. (e)(3). Pub. L. 118–31, § 3514(k)(3)(B)(iii)(III), in third sentence, substituted “the Secretary determines” for “he determines”, “(43 U.S.C. 1331 et seq.)” for “(67 Stat. 462)”, and “terms of that Act.” for “terms of the Outer Continental Shelf Lands Act.”
 
-Pub. L. 118–31, § 3514(k)(3)(B)(iii)(I), (II), substituted “the Secretary determines to be necessary to ensure” for “he deems necessary to assure” in first sentence and “the Secretary finds” for “he finds” in second sentence.
+Pub. L. 118–31, § 3514(k)(3)(B)(iii)(I), (II), substituted “the Secretary determines to be necessary to ensure” for “he deems necessary to assure” in first sentence and “the Secretary finds” for “he finds” in second sentence.
 
-Subsec. (f). Pub. L. 118–31, § 3514(k)(3)(C), substituted “under this chapter” for “under this title”.
+Subsec. (f). Pub. L. 118–31, § 3514(k)(3)(C), substituted “under this chapter” for “under this title”.
 
 2014—Subsec. (i). Pub. L. 113–281 inserted “or that will supply” after “be supplied with”.
 
@@ -311,7 +311,7 @@ Subsec. (f). Pub. L. 118–31, § 3514(k)(3)(C), substituted “under this cha
 
 2002—Subsec. (a). Pub. L. 107–295 inserted “or natural gas” after “oil”.
 
-1996—Subsec. (a). Pub. L. 104–324, § 504(a), struck out at end “A deepwater port, licensed pursuant to the provisions of this chapter, may not be utilized—
+1996—Subsec. (a). Pub. L. 104–324, § 504(a), struck out at end “A deepwater port, licensed pursuant to the provisions of this chapter, may not be utilized—
 
 “(1) for the loading and unloading of commodities or materials (other than oil) transported from the United States, other than materials to be used in the construction, maintenance, or operation of the high seas oil port, to be used as ship supplies, including bunkering for vessels utilizing the high seas oil port,
 
@@ -319,23 +319,23 @@ Subsec. (f). Pub. L. 118–31, § 3514(k)(3)(C), substituted “under this cha
 
 “(3) except in cases where the Secretary otherwise by rule provides, for the transshipment of oil, destined for locations outside the United States.”
 
-Subsec. (c)(7) to (10). Pub. L. 104–324, § 504(b), redesignated pars. (8) to (10) as (7) to (9), respectively, and struck out former par. (7) which read as follows: “he has received the opinions of the Federal Trade Commission and the Attorney General, pursuant to section 1506 of this title, as to whether issuance of the license would adversely affect competition, restrain trade, promote monopolization, or otherwise create a situation in contravention of the antitrust laws;”.
+Subsec. (c)(7) to (10). Pub. L. 104–324, § 504(b), redesignated pars. (8) to (10) as (7) to (9), respectively, and struck out former par. (7) which read as follows: “he has received the opinions of the Federal Trade Commission and the Attorney General, pursuant to section 1506 of this title, as to whether issuance of the license would adversely affect competition, restrain trade, promote monopolization, or otherwise create a situation in contravention of the antitrust laws;”.
 
-Subsec. (e)(1). Pub. L. 104–324, § 504(c), substituted “In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter. To the extent practicable, conditions required to carry out the provisions and requirements of this chapter shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port’s operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with section 1509(a) of this title, rather than in detailed and specific license conditions or regulations; except that basic standards and conditions shall be addressed in regulations.” for “In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe any conditions which he deems necessary to carry out the provisions of this chapter, or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.”
+Subsec. (e)(1). Pub. L. 104–324, § 504(c), substituted “In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter. To the extent practicable, conditions required to carry out the provisions and requirements of this chapter shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port’s operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with section 1509(a) of this title, rather than in detailed and specific license conditions or regulations; except that basic standards and conditions shall be addressed in regulations.” for “In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe any conditions which he deems necessary to carry out the provisions of this chapter, or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.”
 
-Subsec. (e)(2). Pub. L. 104–324, § 504(d), substituted “his license” for “his application”.
+Subsec. (e)(2). Pub. L. 104–324, § 504(d), substituted “his license” for “his application”.
 
-Subsec. (f). Pub. L. 104–324, § 504(e), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary may amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued.”
+Subsec. (f). Pub. L. 104–324, § 504(e), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary may amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued.”
 
 1990—Subsec. (c)(1). Pub. L. 101–380 substituted “section 2716 of this title” for “section 1517(*l*) of this title;”.
 
-1984—Subsec. (b). Pub. L. 98–419, § 2(b), substituted provisions authorizing the Secretary, on application, to issue a license for the ownership, construction, and operation of a deepwater port and, on petition of the licensee, to amend, transfer, or reinstate a license issued under this chapter for provisions which had authorized the Secretary, upon application and in accordance with the provisions of this chapter, to issue, transfer, amend, or renew a license for the ownership, construction, and operation of a deepwater port.
+1984—Subsec. (b). Pub. L. 98–419, § 2(b), substituted provisions authorizing the Secretary, on application, to issue a license for the ownership, construction, and operation of a deepwater port and, on petition of the licensee, to amend, transfer, or reinstate a license issued under this chapter for provisions which had authorized the Secretary, upon application and in accordance with the provisions of this chapter, to issue, transfer, amend, or renew a license for the ownership, construction, and operation of a deepwater port.
 
-Subsec. (e)(1). Pub. L. 98–419, § 2(e), inserted provision that on petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter and is reasonable, and necessary to meet the objectives of this chapter, and that the Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
+Subsec. (e)(1). Pub. L. 98–419, § 2(e), inserted provision that on petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter and is reasonable, and necessary to meet the objectives of this chapter, and that the Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
 
-Subsec. (f). Pub. L. 98–419, § 2(c), substituted provisions authorizing the Secretary to amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued for provisions which had authorized the Secretary to transfer such licenses if the Secretary determined that such transfer was in the public interest and that the transferee met the requirements of this chapter and the prerequisites to issuance under subsec. (c) of this section.
+Subsec. (f). Pub. L. 98–419, § 2(c), substituted provisions authorizing the Secretary to amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued for provisions which had authorized the Secretary to transfer such licenses if the Secretary determined that such transfer was in the public interest and that the transferee met the requirements of this chapter and the prerequisites to issuance under subsec. (c) of this section.
 
-Subsec. (h). Pub. L. 98–419, § 2(d), substituted provision that a license issued under this chapter remain in effect unless suspended or revoked by the Secretary or until surrendered by the licensee for provisions which had limited the terms of licenses to not more than 20 years and which had granted each licensee a preferential right of renewal for not more than 10 years, subject to subsec. (c), upon such conditions and for such term as determined by the Secretary to be reasonable and appropriate.
+Subsec. (h). Pub. L. 98–419, § 2(d), substituted provision that a license issued under this chapter remain in effect unless suspended or revoked by the Secretary or until surrendered by the licensee for provisions which had limited the terms of licenses to not more than 20 years and which had granted each licensee a preferential right of renewal for not more than 10 years, subject to subsec. (c), upon such conditions and for such term as determined by the Secretary to be reasonable and appropriate.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -349,7 +349,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **LNG Tankers**
 
-Pub. L. 114–120, title III, § 312, Feb. 8, 2016, 130 Stat. 58, provided that:
+Pub. L. 114–120, title III, § 312, Feb. 8, 2016, 130 Stat. 58, provided that:
 
 > “Not later than 180 days after the date of the enactment this Act [Feb. 8, 2016], the Secretary of Transportation shall—
 
@@ -363,9 +363,9 @@ Pub. L. 114–120, title III, § 312, Feb. 8, 2016, 130 Stat. 58, provided tha
 
 > **“(2)** submit such guidelines to the Committee [on] Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
 
-Pub. L. 109–241, title III, § 304(a), July 11, 2006, 120 Stat. 527, as amended by Pub. L. 113–281, title III, § 307(b), Dec. 18, 2014, 128 Stat. 3045, which related to development and implementation of a program to promote transportation of liquefied natural gas to and from the United States on United States flag vessels, was repealed by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8502(b)(1), Jan. 1, 2021, 134 Stat. 4747. See section 1504(j)(1) of this title.
+Pub. L. 109–241, title III, § 304(a), July 11, 2006, 120 Stat. 527, as amended by Pub. L. 113–281, title III, § 307(b), Dec. 18, 2014, 128 Stat. 3045, which related to development and implementation of a program to promote transportation of liquefied natural gas to and from the United States on United States flag vessels, was repealed by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8502(b)(1), Jan. 1, 2021, 134 Stat. 4747. See section 1504(j)(1) of this title.
 
-## § 1504. Procedure
+## § 1504. Procedure
 
 **(a) Regulations; issuance, amendment, or rescission; scope**
 
@@ -613,59 +613,59 @@ A meeting requested under clause (i) shall be held not later than 30 days after 
 
 **(B)** the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Pub. L. 93–627, § 5, Jan. 3, 1975, 88 Stat. 2131; Pub. L. 98–419, § 2(f), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, § 505, Oct. 19, 1996, 110 Stat. 3927; Pub. L. 107–295, title I, § 106(c), (f), (g), Nov. 25, 2002, 116 Stat. 2086–2088; Pub. L. 109–241, title III, § 304(c)(1), July 11, 2006, 120 Stat. 527; Pub. L. 111–281, title IX, § 903(d), Oct. 15, 2010, 124 Stat. 3011; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8502(b)(2), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 118–31, div. C, title XXXV, § 3514(k)(4), Dec. 22, 2023, 137 Stat. 814; Pub. L. 118–159, div. C, title XXXV, § 3538, Dec. 23, 2024, 138 Stat. 2316; Pub. L. 119–60, div. G, title LXXIII, § 7342(a), (b), Dec. 18, 2025, 139 Stat. 1777.)
+(Pub. L. 93–627, § 5, Jan. 3, 1975, 88 Stat. 2131; Pub. L. 98–419, § 2(f), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, § 505, Oct. 19, 1996, 110 Stat. 3927; Pub. L. 107–295, title I, § 106(c), (f), (g), Nov. 25, 2002, 116 Stat. 2086–2088; Pub. L. 109–241, title III, § 304(c)(1), July 11, 2006, 120 Stat. 527; Pub. L. 111–281, title IX, § 903(d), Oct. 15, 2010, 124 Stat. 3011; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8502(b)(2), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 118–31, div. C, title XXXV, § 3514(k)(4), Dec. 22, 2023, 137 Stat. 814; Pub. L. 118–159, div. C, title XXXV, § 3538, Dec. 23, 2024, 138 Stat. 2316; Pub. L. 119–60, div. G, title LXXIII, § 7342(a), (b), Dec. 18, 2025, 139 Stat. 1777.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (f)(2) and (i)(5)(C)(ii), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (f)(2) and (i)(5)(C)(ii), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The proclamation issued by the President on March 13, 2020, with respect to the Coronavirus Disease 2019, referred to in subsec. (i)(5)(A)(i), means Proc. No. 9994, Mar. 13, 2020, 85 F.R. 15337, which is set out as a note under section 1621 of Title 50, War and National Defense.
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 7342(a), substituted “Notwithstanding section 468(b) of title 6, the Secretary shall have the authority to issue regulations to carry out the purposes and provisions of this chapter, in accordance with the provisions of section 553 of title 5, without regard to subsection (a) thereof.” for “The Secretary shall, as soon as practicable after January 3, 1975, and after consultation with other Federal agencies, issue regulations to carry out the purposes and provisions of this chapter in accordance with the provisions of section 553 of title 5, without regard to subsection (a) thereof.”
+2025—Subsec. (a). Pub. L. 119–60, § 7342(a), substituted “Notwithstanding section 468(b) of title 6, the Secretary shall have the authority to issue regulations to carry out the purposes and provisions of this chapter, in accordance with the provisions of section 553 of title 5, without regard to subsection (a) thereof.” for “The Secretary shall, as soon as practicable after January 3, 1975, and after consultation with other Federal agencies, issue regulations to carry out the purposes and provisions of this chapter in accordance with the provisions of section 553 of title 5, without regard to subsection (a) thereof.”
 
-Subsec. (f). Pub. L. 119–60, § 7342(b), added subsec. (f) and struck out former subsec. (f). Text read as follows: “For all applications, the Secretary, in cooperation with other involved Federal agencies and departments, shall comply with the National Environmental Policy Act of 1969 (42 U.S.C. 4332) [42 U.S.C. 4321 et seq.]. Such compliance shall fulfill the requirement of all Federal agencies in carrying out their responsibilities under the National Environmental Policy Act of 1969 pursuant to this chapter.”
+Subsec. (f). Pub. L. 119–60, § 7342(b), added subsec. (f) and struck out former subsec. (f). Text read as follows: “For all applications, the Secretary, in cooperation with other involved Federal agencies and departments, shall comply with the National Environmental Policy Act of 1969 (42 U.S.C. 4332) [42 U.S.C. 4321 et seq.]. Such compliance shall fulfill the requirement of all Federal agencies in carrying out their responsibilities under the National Environmental Policy Act of 1969 pursuant to this chapter.”
 
 2024—Subsec. (i)(5). Pub. L. 118–159 added par. (5).
 
-2023—Subsec. (c). Pub. L. 118–31, § 3514(k)(4)(A)(i), inserted heading.
+2023—Subsec. (c). Pub. L. 118–31, § 3514(k)(4)(A)(i), inserted heading.
 
-Subsec. (c)(1). Pub. L. 118–31, § 3514(k)(4)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any person making an application under this chapter shall submit detailed plans to the Secretary. Within 21 days after the receipt of an application, the Secretary shall determine whether the application appears to contain all of the information required by paragraph (2) hereof. If the Secretary determines that such information appears to be contained in the application, the Secretary shall, no later than 5 days after making such a determination, publish notice of the application and a summary of the plans in the Federal Register. If the Secretary determines that all of the required information does not appear to be contained in the application, the Secretary shall notify the applicant and take no further action with respect to the application until such deficiencies have been remedied.”
+Subsec. (c)(1). Pub. L. 118–31, § 3514(k)(4)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any person making an application under this chapter shall submit detailed plans to the Secretary. Within 21 days after the receipt of an application, the Secretary shall determine whether the application appears to contain all of the information required by paragraph (2) hereof. If the Secretary determines that such information appears to be contained in the application, the Secretary shall, no later than 5 days after making such a determination, publish notice of the application and a summary of the plans in the Federal Register. If the Secretary determines that all of the required information does not appear to be contained in the application, the Secretary shall notify the applicant and take no further action with respect to the application until such deficiencies have been remedied.”
 
-Subsec. (c)(2). Pub. L. 118–31, § 3514(k)(4)(A)(ii), inserted heading, substituted “Each application shall include such financial, technical, and other information as the Secretary determines to be necessary or appropriate, including—” for “Each application shall include such financial, technical, and other information as the Secretary deems necessary or appropriate. Such information shall include, but need not be limited to—” in introductory provisions, struck out “of this paragraph” after “subparagraph (A) or (B)” in two places in subpar. (C), and after “subparagraphs (A), (B), or (C)” in subpars. (G) and (H), and realigned margins of subpars. (A) to (M).
+Subsec. (c)(2). Pub. L. 118–31, § 3514(k)(4)(A)(ii), inserted heading, substituted “Each application shall include such financial, technical, and other information as the Secretary determines to be necessary or appropriate, including—” for “Each application shall include such financial, technical, and other information as the Secretary deems necessary or appropriate. Such information shall include, but need not be limited to—” in introductory provisions, struck out “of this paragraph” after “subparagraph (A) or (B)” in two places in subpar. (C), and after “subparagraphs (A), (B), or (C)” in subpars. (G) and (H), and realigned margins of subpars. (A) to (M).
 
-Subsec. (g). Pub. L. 118–31, § 3514(k)(4)(B), substituted “subsection (c)” for “subsection (c) of this section”.
+Subsec. (g). Pub. L. 118–31, § 3514(k)(4)(B), substituted “subsection (c)” for “subsection (c) of this section”.
 
-Subsec. (h). Pub. L. 118–31, § 3514(k)(4)(C)(i), inserted heading.
+Subsec. (h). Pub. L. 118–31, § 3514(k)(4)(C)(i), inserted heading.
 
-Subsec. (h)(1). Pub. L. 118–31, § 3514(k)(4)(C)(i), (ii), inserted par. (1) heading, designated first sentence of par. (1) as subpar. (A) and inserted subpar. heading, designated second sentence as subpar. (B), inserted subpar. heading, and substituted “In addition to a fee under subparagraph (A)” for “In addition”.
+Subsec. (h)(1). Pub. L. 118–31, § 3514(k)(4)(C)(i), (ii), inserted par. (1) heading, designated first sentence of par. (1) as subpar. (A) and inserted subpar. heading, designated second sentence as subpar. (B), inserted subpar. heading, and substituted “In addition to a fee under subparagraph (A)” for “In addition”.
 
-Subsec. (h)(2). Pub. L. 118–31, § 3514(k)(4)(C)(iii)(I), (II), inserted par. heading and struck out “As used in this paragraph, the term ‘land-based facilities directly related to a deepwater port facility’ means the onshore tank farm and pipelines connecting such tank farm to the deepwater port facility.” at end.
+Subsec. (h)(2). Pub. L. 118–31, § 3514(k)(4)(C)(iii)(I), (II), inserted par. heading and struck out “As used in this paragraph, the term ‘land-based facilities directly related to a deepwater port facility’ means the onshore tank farm and pipelines connecting such tank farm to the deepwater port facility.” at end.
 
-Subsec. (h)(2)(A). Pub. L. 118–31, § 3514(k)(4)(C)(iii)(II), added subpar. (A).
+Subsec. (h)(2)(A). Pub. L. 118–31, § 3514(k)(4)(C)(iii)(II), added subpar. (A).
 
-Subsec. (h)(2)(B) to (E). Pub. L. 11831, § 3514(k)(4)(C)(iii)(II), (III), designated first sentence of par. (2) as subpar. (B) and inserted subpar. heading; designated second sentence as subpar. (C), inserted subpar. heading, and substituted “the applicable” for “such” wherever appearing and “A fee may be established pursuant to this paragraph” for “Fees may be fixed under authority of this paragraph”; designated third sentence as subpar. (D), inserted subpar. heading, and substituted “the applicable” for “such” in two places and “The amount of a fee established under this paragraph” for “Fees under this paragraph”; and designated fourth sentence as subpar. (E), inserted subpar. heading, and substituted “A fee established under this paragraph” for “Such fees”.
+Subsec. (h)(2)(B) to (E). Pub. L. 11831, § 3514(k)(4)(C)(iii)(II), (III), designated first sentence of par. (2) as subpar. (B) and inserted subpar. heading; designated second sentence as subpar. (C), inserted subpar. heading, and substituted “the applicable” for “such” wherever appearing and “A fee may be established pursuant to this paragraph” for “Fees may be fixed under authority of this paragraph”; designated third sentence as subpar. (D), inserted subpar. heading, and substituted “the applicable” for “such” in two places and “The amount of a fee established under this paragraph” for “Fees under this paragraph”; and designated fourth sentence as subpar. (E), inserted subpar. heading, and substituted “A fee established under this paragraph” for “Such fees”.
 
-Subsec. (h)(3). Pub. L. 118–31, § 3514(k)(4)(C)(iv), inserted heading and substituted “outer” for “Outer” before “Continental”.
+Subsec. (h)(3). Pub. L. 118–31, § 3514(k)(4)(C)(iv), inserted heading and substituted “outer” for “Outer” before “Continental”.
 
-Subsec. (i)(2)(A). Pub. L. 118–31, § 3514(k)(4)(D)(i)(I), inserted “First,” after subpar. designation and substituted period for semicolon at end.
+Subsec. (i)(2)(A). Pub. L. 118–31, § 3514(k)(4)(D)(i)(I), inserted “First,” after subpar. designation and substituted period for semicolon at end.
 
-Subsec. (i)(2)(B). Pub. L. 118–31, § 3514(k)(4)(D)(i)(II), inserted “Second,” after subpar. designation and substituted period for semicolon at end.
+Subsec. (i)(2)(B). Pub. L. 118–31, § 3514(k)(4)(D)(i)(II), inserted “Second,” after subpar. designation and substituted period for semicolon at end.
 
-Subsec. (i)(2)(C). Pub. L. 118–31, § 3514(k)(4)(D)(i)(III), inserted “Third,” after subpar. designation.
+Subsec. (i)(2)(C). Pub. L. 118–31, § 3514(k)(4)(D)(i)(III), inserted “Third,” after subpar. designation.
 
-Subsec. (i)(3)(A). Pub. L. 118–31, § 3514(k)(4)(D)(ii)(III), substituted “(A) The degree” for “(A) the degree” and period for semicolon at end.
+Subsec. (i)(3)(A). Pub. L. 118–31, § 3514(k)(4)(D)(ii)(III), substituted “(A) The degree” for “(A) the degree” and period for semicolon at end.
 
-Subsec. (i)(3)(B) to (D). Pub. L. 118–31, § 3514(k)(4)(D)(ii)(I), (II), (IV), added subpar. (B), redesignated former subpar. (B) as (C) and substituted “Any” for “any” and a period for “; and”, and redesignated former subpar. (C) as (D) and substituted “Any” for “any”.
+Subsec. (i)(3)(B) to (D). Pub. L. 118–31, § 3514(k)(4)(D)(ii)(I), (II), (IV), added subpar. (B), redesignated former subpar. (B) as (C) and substituted “Any” for “any” and a period for “; and”, and redesignated former subpar. (C) as (D) and substituted “Any” for “any”.
 
-Subsec. (i)(4). Pub. L. 118–31, § 3514(k)(4)(D)(iii), inserted par. heading, designated existing provisions as subpar. (A) and inserted subpar. heading, struck out “Paragraphs (1), (2), and (3) of this subsection shall not apply to an application for a deepwater port for natural gas.” at end, and added subpar. (B).
+Subsec. (i)(4). Pub. L. 118–31, § 3514(k)(4)(D)(iii), inserted par. heading, designated existing provisions as subpar. (A) and inserted subpar. heading, struck out “Paragraphs (1), (2), and (3) of this subsection shall not apply to an application for a deepwater port for natural gas.” at end, and added subpar. (B).
 
-Subsec. (j)(1). Pub. L. 118–31, § 3514(k)(4)(E), struck out “of Transportation” after “Secretary”.
+Subsec. (j)(1). Pub. L. 118–31, § 3514(k)(4)(E), struck out “of Transportation” after “Secretary”.
 
-Subsec. (k). Pub. L. 118–31, § 3514(k)(4)(F), added subsec. (k).
+Subsec. (k). Pub. L. 118–31, § 3514(k)(4)(F), added subsec. (k).
 
 2021—Subsec. (j). Pub. L. 116–283 added subsec. (j).
 
@@ -673,13 +673,13 @@ Subsec. (k). Pub. L. 118–31, § 3514(k)(4)(F), added subsec. (k).
 
 2006—Subsec. (c)(2)(K) to (M). Pub. L. 109–241 added subpar. (K) and redesignated former subpars. (K) and (L) as (L) and (M), respectively.
 
-2002—Subsec. (d)(4). Pub. L. 107–295, § 106(c)(1), added par. (4).
+2002—Subsec. (d)(4). Pub. L. 107–295, § 106(c)(1), added par. (4).
 
-Subsec. (f). Pub. L. 107–295, § 106(f), substituted “NEPA compliance” for “Environmental impact statement for single application area; criteria” in heading and amended text generally. Prior to amendment, text read as follows: “For all timely applications covering a single application area, the Secretary, in cooperation with other involved Federal agencies and departments, shall, pursuant to section 4332(2)(C) of title 42, prepare a single, detailed environmental impact statement, which shall fulfill the requirement of all Federal agencies in carrying out their responsibilities pursuant to this chapter to prepare an environmental impact statement. In preparing such statement the Secretary shall consider the criteria established under section 1505 of this title.”
+Subsec. (f). Pub. L. 107–295, § 106(f), substituted “NEPA compliance” for “Environmental impact statement for single application area; criteria” in heading and amended text generally. Prior to amendment, text read as follows: “For all timely applications covering a single application area, the Secretary, in cooperation with other involved Federal agencies and departments, shall, pursuant to section 4332(2)(C) of title 42, prepare a single, detailed environmental impact statement, which shall fulfill the requirement of all Federal agencies in carrying out their responsibilities pursuant to this chapter to prepare an environmental impact statement. In preparing such statement the Secretary shall consider the criteria established under section 1505 of this title.”
 
-Subsec. (h)(2). Pub. L. 107–295, § 106(g), inserted “and unless prohibited by law,” after “Notwithstanding any other provision of this chapter,”.
+Subsec. (h)(2). Pub. L. 107–295, § 106(g), inserted “and unless prohibited by law,” after “Notwithstanding any other provision of this chapter,”.
 
-Subsec. (i)(4). Pub. L. 107–295, § 106(c)(2), added par. (4).
+Subsec. (i)(4). Pub. L. 107–295, § 106(c)(2), added par. (4).
 
 1996—Subsec. (c)(3). Pub. L. 104–324 added par. (3).
 
@@ -689,11 +689,11 @@ Subsec. (i)(4). Pub. L. 107–295, § 106(c)(2), added par. (4).
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–60, div. G, title LXXIII, § 7342(e), Dec. 18, 2025, 139 Stat. 1778, provided that: “Nothing in this section [amending this section and enacting provisions set out as notes under this section], or the amendments made by this section, shall apply to any application submitted before the date of enactment of this Act [Dec. 18, 2025].”
+Pub. L. 119–60, div. G, title LXXIII, § 7342(e), Dec. 18, 2025, 139 Stat. 1778, provided that: “Nothing in this section [amending this section and enacting provisions set out as notes under this section], or the amendments made by this section, shall apply to any application submitted before the date of enactment of this Act [Dec. 18, 2025].”
 
 **Regulations**
 
-Pub. L. 119–60, div. G, title LXXIII, § 7342(c), Dec. 18, 2025, 139 Stat. 1777, provided that:
+Pub. L. 119–60, div. G, title LXXIII, § 7342(c), Dec. 18, 2025, 139 Stat. 1777, provided that:
 
 > **“(1) In general.—** Not later than 18 months after the date of enactment of this Act [Dec. 18, 2025], the Commandant shall transfer the authorities provided to the Coast Guard in part 148 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this Act [Dec. 18, 2025]), except as provided in paragraph (2), to the Secretary of Transportation.
 
@@ -701,7 +701,7 @@ Pub. L. 119–60, div. G, title LXXIII, § 7342(c), Dec. 18, 2025, 139 Stat. 1
 
 > **“(3) Updates to authority.—** As soon as practicable after the date of enactment of this Act, the Secretary of Transportation shall issue such regulations as are necessary to reflect the updates to authorities prescribed by this subsection.”
 
-Pub. L. 107–295, title I, § 106(e), Nov. 25, 2002, 116 Stat. 2087, provided that:
+Pub. L. 107–295, title I, § 106(e), Nov. 25, 2002, 116 Stat. 2087, provided that:
 
 > **“(1) Agency and department expertise and responsibilities.—** Not later than 30 days after the date of the enactment of this Act [Nov. 25, 2002], the heads of Federal departments or agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of deepwater ports for natural gas shall transmit to the Secretary of Transportation written comments as to such expertise or statutory responsibilities pursuant to the Deepwater Port Act of 1974 (33 U.S.C. 1501 et seq.) or any other Federal law.
 
@@ -711,13 +711,13 @@ Pub. L. 107–295, title I, § 106(e), Nov. 25, 2002, 116 Stat. 2087, provided
 
 **Rule of Construction**
 
-Pub. L. 119–60, div. G, title LXXIII, § 7342(d), Dec. 18, 2025, 139 Stat. 1778, provided that: “Nothing in this section [amending this section and enacting provisions set out as notes under this section], or the amendments made by this section, may be construed to limit the authorities of other governmental agencies previously delegated authorities of the Deepwater Port Act of 1974 (33 U.S.C. 1501 et seq.) or any other law.”
+Pub. L. 119–60, div. G, title LXXIII, § 7342(d), Dec. 18, 2025, 139 Stat. 1778, provided that: “Nothing in this section [amending this section and enacting provisions set out as notes under this section], or the amendments made by this section, may be construed to limit the authorities of other governmental agencies previously delegated authorities of the Deepwater Port Act of 1974 (33 U.S.C. 1501 et seq.) or any other law.”
 
 **Information To Be Provided**
 
-Pub. L. 109–241, title III, § 304(c)(2), July 11, 2006, 120 Stat. 527, which required the Coast Guard, when operating as a contributing agency in the Federal Energy Regulatory Commission’s shoreside licensing process for certain liquefied natural gas or liquefied petroleum gas terminals, to provide the information described in subsec. (c)(2)(K) of this section, was repealed by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8502(b)(1), Jan. 1, 2021, 134 Stat. 4747. See subsec. (j)(2) of this section.
+Pub. L. 109–241, title III, § 304(c)(2), July 11, 2006, 120 Stat. 527, which required the Coast Guard, when operating as a contributing agency in the Federal Energy Regulatory Commission’s shoreside licensing process for certain liquefied natural gas or liquefied petroleum gas terminals, to provide the information described in subsec. (c)(2)(K) of this section, was repealed by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8502(b)(1), Jan. 1, 2021, 134 Stat. 4747. See subsec. (j)(2) of this section.
 
-## § 1505. Environmental review criteria
+## § 1505. Environmental review criteria
 
 **(a) Establishment** The Secretary, in accordance with the recommendations of the Administrator of the Environmental Protection Agency and the Administrator of the National Oceanic and Atmospheric Administration and after consultation with any other Federal departments and agencies having jurisdiction over any aspect of the construction or operation of a deepwater port, shall establish, as soon as practicable after January 3, 1975, environmental review criteria consistent with the National Environmental Policy Act [42 U.S.C. 4321 et seq.]. Such criteria shall be used to evaluate a deepwater port as proposed in an application, including—
 
@@ -743,27 +743,27 @@ The Secretary shall periodically review and, whenever necessary, revise in the s
 
 The criteria established pursuant to this section shall be developed concurrently with the regulations promulgated pursuant to section 1504(a) of this title and in accordance with that section and in accordance with the provisions of that subsection.
 
-(Pub. L. 93–627, § 6, Jan. 3, 1975, 88 Stat. 2135; Pub. L. 118–31, div. C, title XXXV, § 3514(k)(5), Dec. 22, 2023, 137 Stat. 818.)
+(Pub. L. 93–627, § 6, Jan. 3, 1975, 88 Stat. 2135; Pub. L. 118–31, div. C, title XXXV, § 3514(k)(5), Dec. 22, 2023, 137 Stat. 818.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act, referred to in subsec. (a), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act, referred to in subsec. (a), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
-2023—Subsec. (a). Pub. L. 118–31, § 3514(k)(5)(A), inserted heading.
+2023—Subsec. (a). Pub. L. 118–31, § 3514(k)(5)(A), inserted heading.
 
-Subsec. (b). Pub. L. 118–31, § 3514(k)(5)(B), inserted heading.
+Subsec. (b). Pub. L. 118–31, § 3514(k)(5)(B), inserted heading.
 
-Subsec. (c). Pub. L. 118–31, § 3514(k)(5)(C), inserted heading and, in text, substituted “The criteria” for “Criteria” and “concurrently with the regulations promulgated pursuant to section 1504(a) of this title and in accordance with that section” for “concurrently with the regulations in subsection (a) of section 1504 of this title and in accordance with the provisions of that subsection”.
+Subsec. (c). Pub. L. 118–31, § 3514(k)(5)(C), inserted heading and, in text, substituted “The criteria” for “Criteria” and “concurrently with the regulations promulgated pursuant to section 1504(a) of this title and in accordance with that section” for “concurrently with the regulations in subsection (a) of section 1504 of this title and in accordance with the provisions of that subsection”.
 
-## § 1506. Repealed. Pub. L. 104–324, title V, § 506, Oct. 19, 1996, 110 Stat. 3927
+## § 1506. Repealed. Pub. L. 104–324, title V, § 506, Oct. 19, 1996, 110 Stat. 3927
 
-Section, Pub. L. 93–627, § 7, Jan. 3, 1975, 88 Stat. 2135; Pub. L. 98–419, § 2(g), (h), Sept. 25, 1984, 98 Stat. 1607, provided for antitrust review by Attorney General and Federal Trade Commission prior to issuance of license for ownership, construction, and operation of deepwater port.
+Section, Pub. L. 93–627, § 7, Jan. 3, 1975, 88 Stat. 2135; Pub. L. 98–419, § 2(g), (h), Sept. 25, 1984, 98 Stat. 1607, provided for antitrust review by Attorney General and Federal Trade Commission prior to issuance of license for ownership, construction, and operation of deepwater port.
 
-## § 1507. Common carrier status
+## § 1507. Common carrier status
 
 **(a) Status of deepwater ports and storage facilities**
 
@@ -787,23 +787,23 @@ Subsections (a) and (b) shall not apply to deepwater ports for natural gas. A li
 
 Notwithstanding any provision of the Natural Gas Act (15 U.S.C. 717 et seq.), any regulation or rule issued thereunder, or section 1518 of this title as it pertains to such Act, this chapter shall apply with respect to the licensing, siting, construction, or operation of a deepwater natural gas port or the acceptance, transport, storage, regasification, or conveyance of natural gas at or through a deepwater port, to the exclusion of the Natural Gas Act or any regulation or rule issued thereunder.
 
-(Pub. L. 93–627, § 8, Jan. 3, 1975, 88 Stat. 2136; Pub. L. 98–419, § 3(a), Sept. 25, 1984, 98 Stat. 1608; Pub. L. 104–324, title V, § 507, Oct. 19, 1996, 110 Stat. 3927; Pub. L. 107–295, title I, § 106(d), Nov. 25, 2002, 116 Stat. 2087.)
+(Pub. L. 93–627, § 8, Jan. 3, 1975, 88 Stat. 2136; Pub. L. 98–419, § 3(a), Sept. 25, 1984, 98 Stat. 1608; Pub. L. 104–324, title V, § 507, Oct. 19, 1996, 110 Stat. 3927; Pub. L. 107–295, title I, § 106(d), Nov. 25, 2002, 116 Stat. 2087.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Interstate Commerce Act, referred to in subsec. (a), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, as amended. Part I of the Act, which was classified to chapter 1 (§ 1 et seq.) of former Title 49, Transportation, was repealed by Pub. L. 95-473, § 4(b), Oct. 17, 1978, 92 Stat. 1467, the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see Table at the beginning of Title 49.
+The Interstate Commerce Act, referred to in subsec. (a), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, as amended. Part I of the Act, which was classified to chapter 1 (§ 1 et seq.) of former Title 49, Transportation, was repealed by Pub. L. 95-473, § 4(b), Oct. 17, 1978, 92 Stat. 1467, the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see Table at the beginning of Title 49.
 
-The Natural Gas Act, referred to in subsec. (e), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
+The Natural Gas Act, referred to in subsec. (e), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
 **Amendments**
 
 2002—Subsecs. (d), (e). Pub. L. 107–295 added subsecs. (d) and (e).
 
-1996—Subsec. (a). Pub. L. 104–324, § 507(a), inserted “and shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued,” after “subtitle IV of title 49,”.
+1996—Subsec. (a). Pub. L. 104–324, § 507(a), inserted “and shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued,” after “subtitle IV of title 49,”.
 
-Subsec. (b). Pub. L. 104–324, § 507(b), substituted “A licensee is not discriminating under this section and” for “A licensee under this chapter shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued. However, a licensee”.
+Subsec. (b). Pub. L. 104–324, § 507(b), substituted “A licensee is not discriminating under this section and” for “A licensee under this chapter shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued. However, a licensee”.
 
 1984—Subsec. (a). Pub. L. 98–419 substituted provision that a deepwater port and a storage facility serviced directly by that deepwater port shall operate as a common carrier under applicable provisions of part I of the Interstate Commerce Act and subtitle IV of title 49 except as provided by subsec. (b), for provision that such port and such facilities were subject to regulations as a common carrier in accordance with the Interstate Commerce Act, as amended, for purposes of chapter 39 of title 18 and former sections 1 to 27 of title 49.
 
@@ -811,7 +811,7 @@ Subsec. (b). Pub. L. 98–419 inserted provisions enumerating conditions under w
 
 Subsec. (c). Pub. L. 98–419 redesignated a portion of provisions of subsec. (b) as subsec. (c), and in subsec. (c) as so redesignated substituted provisions authorizing the Secretary to commence proceedings before the Federal Energy Regulatory Commission, or to suspend or revoke licenses of noncomplying licensees, in the event of noncompliance with this section, for provisions which had authorized the Secretary to commence proceedings before the Interstate Commerce Commission or to suspend or terminate licenses of noncomplying licensees as provided in section 1511 of this title, in the event of noncompliance by a licensee with its obligations as a common carrier.
 
-## § 1508. Adjacent coastal States
+## § 1508. Adjacent coastal States
 
 **(a) Designation** In issuing a notice relating to an application for a deepwater port under section 1504(c)(1)(B)(ii)(I) of this title, the Secretary shall designate as an adjacent coastal State, with respect to the deepwater port, any coastal State that would be—
 
@@ -851,29 +851,29 @@ The Secretary shall not issue a license unless the adjacent coastal State to whi
 
 The consent of Congress is given to two or more coastal States to negotiate and enter into agreements or compacts, not in conflict with any law or treaty of the United States, (1) to apply for a license for the ownership, construction, and operation of a deepwater port or for the transfer of such license, and (2) to establish such agencies, joint or otherwise, as are deemed necessary or appropriate for implementing and carrying out the provisions of any such agreement or compact. Such agreement or compact shall be binding and obligatory upon any State or party thereto without further approval by Congress.
 
-(Pub. L. 93–627, § 9, Jan. 3, 1975, 88 Stat. 2136; Pub. L. 118–31, div. C, title XXXV, § 3514(k)(6), Dec. 22, 2023, 137 Stat. 818.)
+(Pub. L. 93–627, § 9, Jan. 3, 1975, 88 Stat. 2136; Pub. L. 118–31, div. C, title XXXV, § 3514(k)(6), Dec. 22, 2023, 137 Stat. 818.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (c), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16, and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (c), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16, and Tables.
 
 **Amendments**
 
-2023—Subsec. (a). Pub. L. 118–31, § 3514(k)(6)(A), amended subsec. (a) generally. Prior to amendment, text read as follows:
+2023—Subsec. (a). Pub. L. 118–31, § 3514(k)(6)(A), amended subsec. (a) generally. Prior to amendment, text read as follows:
 
 “(1) The Secretary, in issuing notice of application pursuant to section 1504(c) of this title, shall designate as an “adjacent coastal State” any coastal State which (A) would be directly connected by pipeline to a deepwater port as proposed in an application, or (B) would be located within 15 miles of any such proposed deepwater port.
 
 “(2) The Secretary shall, upon request of a State, and after having received the recommendations of the Administrator of the National Oceanic and Atmospheric Administration, designate such State as an “adjacent coastal State” if he determines that there is a risk of damage to the coastal environment of such State equal to or greater than the risk posed to a State directly connected by pipeline to the proposed deepwater port. This paragraph shall apply only with respect to requests made by a State not later than the 14th day after the date of publication of notice of an application for a proposed deepwater port in the Federal Register in accordance with section 1504(c) of this title. The Secretary shall make the designation required by this paragraph not later than the 45th day after the date he receives such a request from a State.”
 
-Subsec. (b). Pub. L. 118–31, § 3514(k)(6)(B)(i), inserted subsec. heading.
+Subsec. (b). Pub. L. 118–31, § 3514(k)(6)(B)(i), inserted subsec. heading.
 
-Subsec. (b)(1). Pub. L. 118–31, § 3514(k)(6)(B)(i), (ii), inserted par. (1) heading, designated first sentence par. (1) as subpar. (A), inserted subpar. heading, and substituted “Not later than 10 days after the date on which the Secretary designates adjacent coastal States under subsection (a) with respect to a deepwater port proposed in an application” for “Not later than 10 days after the designation of adjacent coastal States pursuant to this chapter”; designated second sentence as subpar. (B) and inserted subpar. heading; designated third sentence as subpar. (C), inserted subpar. heading, and substituted “If the Governor of an adjacent coastal State fails to transmit a required” for “If the Governor fails to transmit his”; and designated fourth sentence as subpar. (D), inserted subpar. heading, and substituted “If the Governor of an adjacent coastal State” for “If the Governor”.
+Subsec. (b)(1). Pub. L. 118–31, § 3514(k)(6)(B)(i), (ii), inserted par. (1) heading, designated first sentence par. (1) as subpar. (A), inserted subpar. heading, and substituted “Not later than 10 days after the date on which the Secretary designates adjacent coastal States under subsection (a) with respect to a deepwater port proposed in an application” for “Not later than 10 days after the designation of adjacent coastal States pursuant to this chapter”; designated second sentence as subpar. (B) and inserted subpar. heading; designated third sentence as subpar. (C), inserted subpar. heading, and substituted “If the Governor of an adjacent coastal State fails to transmit a required” for “If the Governor fails to transmit his”; and designated fourth sentence as subpar. (D), inserted subpar. heading, and substituted “If the Governor of an adjacent coastal State” for “If the Governor”.
 
-Subsec. (b)(2). Pub. L. 118–31, § 3514(k)(6)(B)(iii), inserted heading and, in text, substituted “Any other State with an interest relating to a deepwater port proposed in an application” for “Any other interested State” and “the deepwater port” for “a deepwater port”.
+Subsec. (b)(2). Pub. L. 118–31, § 3514(k)(6)(B)(iii), inserted heading and, in text, substituted “Any other State with an interest relating to a deepwater port proposed in an application” for “Any other interested State” and “the deepwater port” for “a deepwater port”.
 
-## § 1509. Marine environmental protection and navigational safety
+## § 1509. Marine environmental protection and navigational safety
 
 **(a) Regulations and procedures**
 
@@ -893,21 +893,21 @@ The Secretary shall mark, for the protection of navigation, any component of a d
 
 **(2)** In addition to any other regulations, the Secretary is authorized, in accordance with this subsection, to establish a safety zone to be effective during the period of construction of a deepwater port and to issue rules and regulations relating thereto.
 
-(Pub. L. 93–627, § 10, Jan. 3, 1975, 88 Stat. 2137; Pub. L. 104–324, title V, § 508, Oct. 19, 1996, 110 Stat. 3927.)
+(Pub. L. 93–627, § 10, Jan. 3, 1975, 88 Stat. 2137; Pub. L. 104–324, title V, § 508, Oct. 19, 1996, 110 Stat. 3927.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–324, § 507(a), inserted “and the provision of adequate opportunities for public involvement” after “international law” and substituted “shall prescribe and enforce procedures, either by regulation (for basic standards and conditions) or by the licensee’s operations manual, with respect to” for “shall prescribe by regulation and enforce procedures with respect to any deepwater port, including, but not limited to,”.
+1996—Subsec. (a). Pub. L. 104–324, § 507(a), inserted “and the provision of adequate opportunities for public involvement” after “international law” and substituted “shall prescribe and enforce procedures, either by regulation (for basic standards and conditions) or by the licensee’s operations manual, with respect to” for “shall prescribe by regulation and enforce procedures with respect to any deepwater port, including, but not limited to,”.
 
-## § 1510. International agreements
+## § 1510. International agreements
 
 The Secretary of State, in consultation with the Secretary, shall seek effective international action and cooperation in support of the policy and purposes of this chapter and may formulate, present, or support specific proposals in the United Nations and other competent international organizations for the development of appropriate international rules and regulations relative to the construction, ownership, and operation of deepwater ports, with particular regard for measures that assure protection of such facilities as well as the promotion of navigational safety in the vicinity thereof.
 
-(Pub. L. 93–627, § 11, Jan. 3, 1975, 88 Stat. 2138.)
+(Pub. L. 93–627, § 11, Jan. 3, 1975, 88 Stat. 2138.)
 
-## § 1511. Suspension or termination of licenses
+## § 1511. Suspension or termination of licenses
 
 **(a) Proceedings by Attorney General; venue; conditions subsequent** Whenever a licensee fails to comply with any applicable provision of this chapter, or any applicable rule, regulation, restriction, or condition issued or imposed by the Secretary under the authority of this chapter, the Attorney General, at the request of the Secretary, may file an appropriate action in the United States district court nearest to the location of the proposed or actual deepwater port, as the case may be, or in the district in which the licensee resides or may be found, to—
 
@@ -921,7 +921,7 @@ No proceeding under this subsection is necessary if the license, by its terms, p
 
 If the Secretary determines that immediate suspension of the construction or operation of a deepwater port or any component thereof is necessary to protect public health or safety or to eliminate imminent and substantial danger to the environment, he shall order the licensee to cease or alter such construction or operation pending the completion of a judicial proceeding pursuant to subsection (a) of this section.
 
-(Pub. L. 93–627, § 12, Jan. 3, 1975, 88 Stat. 2138.)
+(Pub. L. 93–627, § 12, Jan. 3, 1975, 88 Stat. 2138.)
 
 **Editorial Notes**
 
@@ -929,7 +929,7 @@ If the Secretary determines that immediate suspension of the construction or ope
 
 In subsec. (a), “chapter” substituted for “title” to conform to other substitutions for “Act” and as reflecting intent of Congress manifest throughout Pub. L. 93–627 in the use of the term “Act”.
 
-## § 1512. Recordkeeping and inspection
+## § 1512. Recordkeeping and inspection
 
 **(a) Regulations; regulations under other provisions unaffected**
 
@@ -939,15 +939,15 @@ Each licensee shall establish and maintain such records, make such reports, and 
 
 All United States officials, including those officials responsible for the implementation and enforcement of United States laws applicable to a deepwater port, shall at all times be afforded reasonable access to a deepwater port licensed under this chapter for the purpose of enforcing laws under their jurisdiction or otherwise carrying out their responsibilities. Each such official may inspect, at reasonable times, records, files, papers, processes, controls, and facilities and may test any feature of a deep water port. Each inspection shall be conducted with reasonable promptness, and such licensee shall be notified of the results of such inspection.
 
-(Pub. L. 93–627, § 13, Jan. 3, 1975, 88 Stat. 2139.)
+(Pub. L. 93–627, § 13, Jan. 3, 1975, 88 Stat. 2139.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Interstate Commerce Act, referred to in subsec. (a), is act Feb. 4, 1887, ch. 104, 24 Stat. 379. Part I of the Act, which was classified to chapter 1 (§ 1 et seq.) of former Title 49, Transportation, was repealed by Pub. L. 95-473, § 4(b), Oct. 17, 1978, 92 Stat. 1467, the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see Table at the beginning of Title 49.
+The Interstate Commerce Act, referred to in subsec. (a), is act Feb. 4, 1887, ch. 104, 24 Stat. 379. Part I of the Act, which was classified to chapter 1 (§ 1 et seq.) of former Title 49, Transportation, was repealed by Pub. L. 95-473, § 4(b), Oct. 17, 1978, 92 Stat. 1467, the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see Table at the beginning of Title 49.
 
-## § 1513. Public access to information
+## § 1513. Public access to information
 
 **(a) Inspection of copies; reproduction costs; protected information**
 
@@ -963,9 +963,9 @@ Copies of any communication, document, report, or information transmitted betwee
 
 **(4)** to the public in order to protect health and safety, after notice and opportunity for comment in writing or for discussion in closed session within fifteen days by the party to which the information pertains (if the delay resulting from such notice and opportunity for comment would not be detrimental to the public health and safety).
 
-(Pub. L. 93–627, § 14, Jan. 3, 1975, 88 Stat. 2139.)
+(Pub. L. 93–627, § 14, Jan. 3, 1975, 88 Stat. 2139.)
 
-## § 1514. Remedies
+## § 1514. Remedies
 
 **(a) Criminal penalties**
 
@@ -987,7 +987,7 @@ Upon a request by the Secretary, the Attorney General shall bring an action in a
 
 Any vessel, except a public vessel engaged in noncommercial activities, used in a violation of this chapter or of any rule or regulation issued pursuant to this chapter, shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of the United States having jurisdiction thereof; but no vessel shall be liable unless it shall appear that one or more of the owners, or bareboat charterers, was at the time of the violation, a consenting party or privy to such violation.
 
-(Pub. L. 93–627, § 15, Jan. 3, 1975, 88 Stat. 2140; Pub. L. 101–380, title IV, § 4302(m), Aug. 18, 1990, 104 Stat. 539.)
+(Pub. L. 93–627, § 15, Jan. 3, 1975, 88 Stat. 2140; Pub. L. 101–380, title IV, § 4302(m), Aug. 18, 1990, 104 Stat. 539.)
 
 **Editorial Notes**
 
@@ -1005,7 +1005,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 Penalties paid pursuant to this chapter and sections 1319(c) and 1321 of this title to be deposited in the Oil Spill Liability Trust Fund created under section 9509 of Title 26, Internal Revenue Code, see section 4304 of Pub. L. 101–380, set out as a note under section 9509 of Title 26.
 
-## § 1515. Citizen civil action
+## § 1515. Citizen civil action
 
 **(a) Equitable relief; case or controversy; district court jurisdiction** Except as provided in subsection (b) of this section, any person may commence a civil action for equitable relief on his own behalf, whenever such action constitutes a case or controversy—
 
@@ -1039,9 +1039,9 @@ The Court, in issuing any final order in any action brought pursuant to subsecti
 
 Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement or to seek any other relief.
 
-(Pub. L. 93–627, § 16, Jan. 3, 1975, 88 Stat. 2140.)
+(Pub. L. 93–627, § 16, Jan. 3, 1975, 88 Stat. 2140.)
 
-## § 1516. Judicial review; persons aggrieved; jurisdiction of courts of appeal
+## § 1516. Judicial review; persons aggrieved; jurisdiction of courts of appeal
 
 Any person suffering legal wrong, or who is adversely affected or aggrieved by the Secretary’s decision to issue, transfer, modify, renew, suspend, or revoke a license may, not later than 60 days after any such decision is made, seek judicial review of such decision in the United States Court of Appeals for the circuit within which the nearest adjacent coastal State is located. A person shall be deemed to be aggrieved by the Secretary’s decision within the meaning of this chapter if he—
 
@@ -1049,11 +1049,11 @@ Any person suffering legal wrong, or who is adversely affected or aggrieved by t
 
 **(B)** is adversely affected by the Secretary’s action.
 
-(Pub. L. 93–627, § 17, Jan. 3, 1975, 88 Stat. 2141.)
+(Pub. L. 93–627, § 17, Jan. 3, 1975, 88 Stat. 2141.)
 
-## § 1517. Repealed. Pub. L. 101–380, title II, § 2003(a)(2), Aug. 18, 1990, 104 Stat. 507
+## § 1517. Repealed. Pub. L. 101–380, title II, § 2003(a)(2), Aug. 18, 1990, 104 Stat. 507
 
-Section, Pub. L. 93–627, § 18, Jan. 3, 1975, 88 Stat. 2141; Pub. L. 98–419, § 4(a), Sept. 25, 1984, 98 Stat. 1608, set penalties for discharge of oil into marine environment and provided for creation and maintenance of a Deepwater Port Liability Fund.
+Section, Pub. L. 93–627, § 18, Jan. 3, 1975, 88 Stat. 2141; Pub. L. 98–419, § 4(a), Sept. 25, 1984, 98 Stat. 1608, set penalties for discharge of oil into marine environment and provided for creation and maintenance of a Deepwater Port Liability Fund.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1065,7 +1065,7 @@ Amounts remaining in Deepwater Port Liability Fund established under former subs
 
 Repeal applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
 
-## § 1517a. Omitted
+## § 1517a. Omitted
 
 **Editorial Notes**
 
@@ -1077,13 +1077,13 @@ Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 100–457, title I, Sept. 30, 1988, 102 Stat. 2128.
 
-Pub. L. 100–202, § 101(*l*) [title I], Dec. 22, 1987, 101 Stat. 1329–358, 1329–361.
+Pub. L. 100–202, § 101(*l*) [title I], Dec. 22, 1987, 101 Stat. 1329–358, 1329–361.
 
-Pub. L. 99–500, § 101(*l*) [H.R. 5205, title I], Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, § 101(*l*) [H.R. 5205, title I], Oct. 30, 1986, 100 Stat. 3341–308.
+Pub. L. 99–500, § 101(*l*) [H.R. 5205, title I], Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, § 101(*l*) [H.R. 5205, title I], Oct. 30, 1986, 100 Stat. 3341–308.
 
-Pub. L. 99–190, § 101(e) [title I], Dec. 19, 1985, 99 Stat. 1267, 1270.
+Pub. L. 99–190, § 101(e) [title I], Dec. 19, 1985, 99 Stat. 1267, 1270.
 
-Pub. L. 98–473, title I, § 101(i) [title I], Oct. 12, 1984, 98 Stat. 1944, 1947.
+Pub. L. 98–473, title I, § 101(i) [title I], Oct. 12, 1984, 98 Stat. 1944, 1947.
 
 Pub. L. 98–78, title I, Aug. 15, 1983, 97 Stat. 455.
 
@@ -1093,7 +1093,7 @@ Pub. L. 97–102, title I, Dec. 23, 1981, 95 Stat. 1444.
 
 Pub. L. 97–12, title I, June 5, 1981, 95 Stat. 67.
 
-## § 1518. Relationship to other laws
+## § 1518. Relationship to other laws
 
 **(a) Federal Constitution, laws, and treaties applicable; other Federal requirements applicable; status of deepwater port; Federal or State authorities and responsibilities within territorial seas unaffected; notification by Secretary of State of intent to exercise jurisdiction; objections by foreign governments**
 
@@ -1143,7 +1143,7 @@ The customs laws administered by the Secretary of the Treasury shall not apply t
 
 The United States district courts shall have original jurisdiction of cases and controversies arising out of or in connection with the construction and operation of deepwater ports, and proceedings with respect to any such case or controversy may be instituted in the judicial district in which any defendant resides or may be found, or in the judicial district of the adjacent coastal State nearest the place where the cause of action arose.
 
-(Pub. L. 93–627, § 19(a)–(e), Jan. 3, 1975, 88 Stat. 2145, 2146; Pub. L. 98–419, § 5(a), (b), Sept. 25, 1984, 98 Stat. 1609.)
+(Pub. L. 93–627, § 19(a)–(e), Jan. 3, 1975, 88 Stat. 2145, 2146; Pub. L. 98–419, § 5(a), (b), Sept. 25, 1984, 98 Stat. 1609.)
 
 **Editorial Notes**
 
@@ -1153,25 +1153,25 @@ Section 19(f) of Pub. L. 93–627 amended section 1333(a)(2) of Title 43, Public
 
 **Amendments**
 
-1984—Subsec. (a)(3). Pub. L. 98–419, § 5(a), added par. (3).
+1984—Subsec. (a)(3). Pub. L. 98–419, § 5(a), added par. (3).
 
-Subsec. (c)(1). Pub. L. 98–419, § 5(b), added par. (1). Former cl. (1) redesignated cl. (A)(i) of par. (2).
+Subsec. (c)(1). Pub. L. 98–419, § 5(b), added par. (1). Former cl. (1) redesignated cl. (A)(i) of par. (2).
 
-Subsec. (c)(2). Pub. L. 98–419, § 5(b), redesignated existing provisions of subsec. (c) as par. (2)(A)(i) and (B) thereof, substituted reference to provisions of par. (1) for former reference to provisions of this chapter in par. (2)(A)(i) as so redesignated, and added par. (2)(A)(ii).
+Subsec. (c)(2). Pub. L. 98–419, § 5(b), redesignated existing provisions of subsec. (c) as par. (2)(A)(i) and (B) thereof, substituted reference to provisions of par. (1) for former reference to provisions of this chapter in par. (2)(A)(i) as so redesignated, and added par. (2)(A)(ii).
 
-Subsec. (c)(3). Pub. L. 98–419, § 5(b), added par. (3).
+Subsec. (c)(3). Pub. L. 98–419, § 5(b), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–419, § 5(c), Sept. 25, 1984, 98 Stat. 1610, provided that: “The amendment made by subsection (b) of this section [amending this section] shall be effective on the ninetieth day following the date of enactment of this Act [Sept. 25, 1984]. The Secretary of State shall make the first series of notifications referred to in section 19(a)(3) of the Deepwater Port Act of 1974 [subsec. (a)(3) of this section], as added by subsection (a) of this section, prior to the thirtieth day following the date of enactment of this Act [Sept. 25, 1984].”
+Pub. L. 98–419, § 5(c), Sept. 25, 1984, 98 Stat. 1610, provided that: “The amendment made by subsection (b) of this section [amending this section] shall be effective on the ninetieth day following the date of enactment of this Act [Sept. 25, 1984]. The Secretary of State shall make the first series of notifications referred to in section 19(a)(3) of the Deepwater Port Act of 1974 [subsec. (a)(3) of this section], as added by subsection (a) of this section, prior to the thirtieth day following the date of enactment of this Act [Sept. 25, 1984].”
 
-## § 1519. Repealed. Pub. L. 104–66, title I, § 1121(a), Dec. 21, 1995, 109 Stat. 724
+## § 1519. Repealed. Pub. L. 104–66, title I, § 1121(a), Dec. 21, 1995, 109 Stat. 724
 
-Section, Pub. L. 93–627, § 20, Jan. 3, 1975, 88 Stat. 2146, related to annual report and recommendations by Secretary of Transportation to Congress.
+Section, Pub. L. 93–627, § 20, Jan. 3, 1975, 88 Stat. 2146, related to annual report and recommendations by Secretary of Transportation to Congress.
 
-## § 1520. Pipeline safety and operation
+## § 1520. Pipeline safety and operation
 
 **(a) Standards and regulations for Outer Continental Shelf**
 
@@ -1179,7 +1179,7 @@ The Secretary, in cooperation with the Secretary of the Interior, shall establis
 
 **(b) , (c) Omitted**
 
-(Pub. L. 93–627, § 21, Jan. 3, 1975, 88 Stat. 2146; Pub. L. 107–295, title I, § 106(a)(3), Nov. 25, 2002, 116 Stat. 2086.)
+(Pub. L. 93–627, § 21, Jan. 3, 1975, 88 Stat. 2146; Pub. L. 107–295, title I, § 106(a)(3), Nov. 25, 2002, 116 Stat. 2086.)
 
 **Editorial Notes**
 
@@ -1193,7 +1193,7 @@ Subsec. (c) directed the Secretary to review all laws and regulations relating t
 
 2002—Subsec. (a). Pub. L. 107–295 inserted “or natural gas” after “oil”.
 
-## § 1521. Negotiations with Canada and Mexico; report to Congress
+## § 1521. Negotiations with Canada and Mexico; report to Congress
 
 The President of the United States is authorized and requested to enter into negotiations with the Governments of Canada and Mexico to determine:
 
@@ -1203,20 +1203,20 @@ The President of the United States is authorized and requested to enter into neg
 
 The President shall report to the Congress the actions taken, the progress achieved, the areas of disagreement, and the matters about which more information is needed, together with his recommendations for further action.
 
-(Pub. L. 93–627, § 22, Jan. 3, 1975, 88 Stat. 2147.)
+(Pub. L. 93–627, § 22, Jan. 3, 1975, 88 Stat. 2147.)
 
-## § 1522. Limitations on export provisions of section 185(u) of title 30 unaffected
+## § 1522. Limitations on export provisions of section 185(u) of title 30 unaffected
 
 Nothing in this chapter shall be construed to amend, restrict, or otherwise limit the application of section 185(u) of title 30.
 
-(Pub. L. 93–627, § 23, Jan. 3, 1975, 88 Stat. 2147.)
+(Pub. L. 93–627, § 23, Jan. 3, 1975, 88 Stat. 2147.)
 
-## § 1523. General procedures; issuance and enforcement of orders; scope of authority; evidentiary matters
+## § 1523. General procedures; issuance and enforcement of orders; scope of authority; evidentiary matters
 
 The Secretary or his delegate shall have the authority to issue and enforce orders during proceedings brought under this chapter. Such authority shall include the authority to issue subpenas, administer oaths, compel the attendance and testimony of witnesses and the production of books, papers, documents, and other evidence, to take depositions before any designated individual competent to administer oaths, and to examine witnesses.
 
-(Pub. L. 93–627, § 24, Jan. 3, 1975, 88 Stat. 2147.)
+(Pub. L. 93–627, § 24, Jan. 3, 1975, 88 Stat. 2147.)
 
-## § 1524. Repealed. Pub. L. 118–159, div. C, title XXXV, § 3535(k), Dec. 23, 2024, 138 Stat. 2315
+## § 1524. Repealed. Pub. L. 118–159, div. C, title XXXV, § 3535(k), Dec. 23, 2024, 138 Stat. 2315
 
-Section, Pub. L. 93–627, § 25, Jan. 3, 1975, 88 Stat. 2147; Pub. L. 95–36, June 1, 1977, 91 Stat. 177, authorized appropriations for fiscal years ending June 30, 1975, June 30, 1976, Sept. 30, 1977, Sept. 30, 1978, Sept. 30, 1979, and Sept. 30, 1980.
+Section, Pub. L. 93–627, § 25, Jan. 3, 1975, 88 Stat. 2147; Pub. L. 95–36, June 1, 1977, 91 Stat. 177, authorized appropriations for fiscal years ending June 30, 1975, June 30, 1976, Sept. 30, 1977, Sept. 30, 1978, Sept. 30, 1979, and Sept. 30, 1980.

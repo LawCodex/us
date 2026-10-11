@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. A, title XV, §§ 1501(1), 1502(a)(1), title XVIII, § 1801(a)(6), Dec. 22, 2023, 137 Stat. 533, 683, added item 391b and made identical amendments redesignating item 398 “Pilot program for sharing cyber capabilities and related information with foreign operational partners” as 398a. Amendments were made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title XV, §§ 1501(1), 1502(a)(1), title XVIII, § 1801(a)(6), Dec. 22, 2023, 137 Stat. 533, 683, added item 391b and made identical amendments redesignating item 398 “Pilot program for sharing cyber capabilities and related information with foreign operational partners” as 398a. Amendments were made pursuant to operation of section 102 of this title.
 
-2022—Pub. L. 117–263, div. A, title X, § 1052(b), title XV, §§ 1501(b)(1), 1502(a), 1521, 1551(b), Dec. 23, 2022, 136 Stat. 2777, 2877, 2879, 2897, 2919, added items 391a, 392a, and 399 and two items 398.
+2022—Pub. L. 117–263, div. A, title X, § 1052(b), title XV, §§ 1501(b)(1), 1502(a), 1521, 1551(b), Dec. 23, 2022, 136 Stat. 2777, 2877, 2879, 2897, 2919, added items 391a, 392a, and 399 and two items 398.
 
-2019—Pub. L. 116–92, div. A, title XVI, § 1631(a)(2)(A), Dec. 20, 2019, 133 Stat. 1742, substituted “CYBER AND INFORMATION OPERATIONS MATTERS” for “CYBER MATTERS” in chapter heading and added item 397.
+2019—Pub. L. 116–92, div. A, title XVI, § 1631(a)(2)(A), Dec. 20, 2019, 133 Stat. 1742, substituted “CYBER AND INFORMATION OPERATIONS MATTERS” for “CYBER MATTERS” in chapter heading and added item 397.
 
-2018—Pub. L. 115–232, div. A, title XVI, § 1631(c)(2), Aug. 13, 2018, 132 Stat. 2123, added items 394 to 396.
+2018—Pub. L. 115–232, div. A, title XVI, § 1631(c)(2), Aug. 13, 2018, 132 Stat. 2123, added items 394 to 396.
 
-2015—Pub. L. 114–92, div. A, title X, § 1081(a)(4), title XVI, § 1641(c)(2), Nov. 25, 2015, 129 Stat. 1001, 1116, substituted “Reporting on cyber incidents with respect to networks and information systems of operationally critical contractors and certain other contractors” for “Reporting on cyber incidents with respect to networks and information systems of operationally critical contractors” in item 391 and added item 393.
+2015—Pub. L. 114–92, div. A, title X, § 1081(a)(4), title XVI, § 1641(c)(2), Nov. 25, 2015, 129 Stat. 1001, 1116, substituted “Reporting on cyber incidents with respect to networks and information systems of operationally critical contractors and certain other contractors” for “Reporting on cyber incidents with respect to networks and information systems of operationally critical contractors” in item 391 and added item 393.
 
-2014—Pub. L. 113–291, div. A, title XVI, § 1633(d), Dec. 19, 2014, 128 Stat. 3643, added item 392.
+2014—Pub. L. 113–291, div. A, title XVI, § 1633(d), Dec. 19, 2014, 128 Stat. 3643, added item 392.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Department of Defense Data Ontology Governance Working Group**
 
-Pub. L. 119–60, div. A, title XV, § 1504, Dec. 18, 2025, 139 Stat. 1140, provided that:
+Pub. L. 119–60, div. A, title XV, § 1504, Dec. 18, 2025, 139 Stat. 1140, provided that:
 
 > **“(a) Establishment.—**
 
@@ -143,7 +143,7 @@ Pub. L. 119–60, div. A, title XV, § 1504, Dec. 18, 2025, 139 Stat. 1140, pr
 
 **Prohibition on Access to Department of Defense Cloud-Based Resources by Certain Individuals**
 
-Pub. L. 119–60, div. A, title XVI, § 1692, Dec. 18, 2025, 139 Stat. 1206, provided that:
+Pub. L. 119–60, div. A, title XVI, § 1692, Dec. 18, 2025, 139 Stat. 1206, provided that:
 
 > **“(a) Access Prohibition.—**
 
@@ -185,7 +185,7 @@ Pub. L. 119–60, div. A, title XVI, § 1692, Dec. 18, 2025, 139 Stat. 1206, p
 
 **Establishment of the Department of Defense Hackathon Program**
 
-Pub. L. 118–159, div. A, title XV, § 1503, Dec. 23, 2024, 138 Stat. 2132, provided that:
+Pub. L. 118–159, div. A, title XV, § 1503, Dec. 23, 2024, 138 Stat. 2132, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Chief Digital and Artificial Intelligence Officer of the Department of Defense, in coordination with the Chairman of the Joint Chiefs of Staff and the Chief Information Officer of the Department of Defense, shall establish a program (to be known as the ‘Department of Defense Hackathon Program’) under which the commanders of combatant commands and the Secretaries of the military departments shall carry out not fewer than four Hackathons each year.
 
@@ -229,7 +229,7 @@ Pub. L. 118–159, div. A, title XV, § 1503, Dec. 23, 2024, 138 Stat. 2132, p
 
 **Alignment of Department of Defense Cyber International Strategy With National Defense Strategy and Department of Defense Cyber Strategy**
 
-Pub. L. 117–263, div. A, title XV, § 1506, Dec. 23, 2022, 136 Stat. 2882, provided that:
+Pub. L. 117–263, div. A, title XV, § 1506, Dec. 23, 2022, 136 Stat. 2882, provided that:
 
 > **“(a) Alignment Required.—** Not later than 270 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense, acting through the Under Secretary of Defense for Policy and in coordination with the commanders of the combatant commands and the Director of the Joint Staff, shall undertake efforts to align the cybersecurity cooperation enterprise of the Department of Defense and the cyberspace operational partnerships of the Department with—
 
@@ -285,7 +285,7 @@ Pub. L. 117–263, div. A, title XV, § 1506, Dec. 23, 2022, 136 Stat. 2882, p
 
 **Enhancement of Cyberspace Training and Security Cooperation**
 
-Pub. L. 117–263, div. A, title XV, § 1507, Dec. 23, 2022, 136 Stat. 2883, provided that:
+Pub. L. 117–263, div. A, title XV, § 1507, Dec. 23, 2022, 136 Stat. 2883, provided that:
 
 > **“(a) Enhanced Training.—**
 
@@ -329,7 +329,7 @@ Pub. L. 117–263, div. A, title XV, § 1507, Dec. 23, 2022, 136 Stat. 2883, p
 
 > **“(c) Briefing.—** Not later than 30 days after the date on which the Under Secretary of Defense for Intelligence and Security and the Under Secretary of Defense for Policy submit the report under subsection (b), the Under Secretaries, in coordination with the Commander of the United States Cyber Command, the Director of the Defense Security Cooperation Agency, and the Director of the Defense Intelligence Agency, shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the findings from the report on enhancing training and coordination to advance cyberspace security cooperation described in such subsection. Such briefing shall include a discussion on the enhanced training meeting the elements under subsection (a)(3) and a plan for future updates and sustainment of such training.”
 
-## § 391. Reporting on cyber incidents with respect to networks and information systems of operationally critical contractors and certain other contractors
+## § 391. Reporting on cyber incidents with respect to networks and information systems of operationally critical contractors and certain other contractors
 
 **(a) Designation of Department Component to Receive Reports.—** The Secretary of Defense shall designate a component of the Department of Defense to receive reports of cyber incidents from contractors in accordance with this section and section 393 of this title or from other governmental entities.
 
@@ -399,7 +399,7 @@ Pub. L. 117–263, div. A, title XV, § 1507, Dec. 23, 2022, 136 Stat. 2883, p
 
 **(2) Operationally critical contractor.—** The term “operationally critical contractor” means a contractor designated by the Secretary for purposes of this section as a critical source of supply for airlift, sealift, intermodal transportation services, or logistical support that is essential to the mobilization, deployment, or sustainment of the Armed Forces in a contingency operation.
 
-(Added Pub. L. 113–291, div. A, title XVI, § 1632(a), Dec. 19, 2014, 128 Stat. 3639; amended Pub. L. 114–92, div. A, title XVI, § 1641(b), (c)(1), Nov. 25, 2015, 129 Stat. 1115, 1116; Pub. L. 116–283, div. A, title XVII, § 1704, Jan. 1, 2021, 134 Stat. 4082.)
+(Added Pub. L. 113–291, div. A, title XVI, § 1632(a), Dec. 19, 2014, 128 Stat. 3639; amended Pub. L. 114–92, div. A, title XVI, § 1641(b), (c)(1), Nov. 25, 2015, 129 Stat. 1115, 1116; Pub. L. 116–283, div. A, title XVII, § 1704, Jan. 1, 2021, 134 Stat. 4082.)
 
 **Editorial Notes**
 
@@ -407,23 +407,23 @@ Pub. L. 117–263, div. A, title XV, § 1507, Dec. 23, 2022, 136 Stat. 2883, p
 
 2021—Subsec. (d)(1). Pub. L. 116–283 inserted “and contract requirements established pursuant to Defense Federal Acquisition Regulation Supplement clause 252.204-7012, Safeguarding Covered Defense Information and Cyber Incident Reporting,” after “compliance with this section” and “and such contract requirements” before period at end.
 
-2015—Subsec. (a). Pub. L. 114–92, § 1641(c)(1), substituted “and section 393 of this title” for “and with section 941 of the National Defense Authorization Act for Fiscal Year 2013 (10 U.S.C. 2224 note)”.
+2015—Subsec. (a). Pub. L. 114–92, § 1641(c)(1), substituted “and section 393 of this title” for “and with section 941 of the National Defense Authorization Act for Fiscal Year 2013 (10 U.S.C. 2224 note)”.
 
-Subsecs. (d), (e). Pub. L. 114–92, § 1641(b), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 114–92, § 1641(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Senior Military Advisor for Cyber Policy and Deputy Principal Cyber Advisor**
 
-Pub. L. 116–92, div. A, title IX, § 905, Dec. 20, 2019, 133 Stat. 1557, as amended by Pub. L. 116–283, div. A, title XVII, § 1713(b), Jan. 1, 2021, 134 Stat. 4090; Pub. L. 117–81, div. A, title XV, § 1503(b), Dec. 27, 2021, 135 Stat. 2021; Pub. L. 117–263, div. A, title X, § 1081(c), Dec. 23, 2022, 136 Stat. 2797, which authorized the Secretary of Defense to designate an officer within the Office of the Under Secretary of Defense for Policy to serve within that Office as Senior Military Advisor for Cyber Policy, and concurrently, as Deputy Principal Cyber Advisor, was transferred to section 392a of this chapter and designated as subsec. (b) of that section by Pub. L. 117–263, div. A, title XV, § 1501(b)(3)(A), Dec. 23, 2022, 136 Stat. 2878.
+Pub. L. 116–92, div. A, title IX, § 905, Dec. 20, 2019, 133 Stat. 1557, as amended by Pub. L. 116–283, div. A, title XVII, § 1713(b), Jan. 1, 2021, 134 Stat. 4090; Pub. L. 117–81, div. A, title XV, § 1503(b), Dec. 27, 2021, 135 Stat. 2021; Pub. L. 117–263, div. A, title X, § 1081(c), Dec. 23, 2022, 136 Stat. 2797, which authorized the Secretary of Defense to designate an officer within the Office of the Under Secretary of Defense for Policy to serve within that Office as Senior Military Advisor for Cyber Policy, and concurrently, as Deputy Principal Cyber Advisor, was transferred to section 392a of this chapter and designated as subsec. (b) of that section by Pub. L. 117–263, div. A, title XV, § 1501(b)(3)(A), Dec. 23, 2022, 136 Stat. 2878.
 
 **Cyber Governance Structures and Principal Cyber Advisors on Military Cyber Force Matters**
 
-Pub. L. 116–92, div. A, title XVI, § 1657, Dec. 20, 2019, 133 Stat. 1767, which authorized each of the secretaries of the military departments, in consultation with the service chiefs, to appoint an independent Principal Cyber Advisor for each service to act as the principal advisor to the relevant secretary on all cyber matters affecting that military service, was transferred to section 392a of this chapter and designated as subsec. (c) of that section by Pub. L. 117–263, div. A, title XV, § 1501(b)(4)(A), Dec. 23, 2022, 136 Stat. 2878.
+Pub. L. 116–92, div. A, title XVI, § 1657, Dec. 20, 2019, 133 Stat. 1767, which authorized each of the secretaries of the military departments, in consultation with the service chiefs, to appoint an independent Principal Cyber Advisor for each service to act as the principal advisor to the relevant secretary on all cyber matters affecting that military service, was transferred to section 392a of this chapter and designated as subsec. (c) of that section by Pub. L. 117–263, div. A, title XV, § 1501(b)(4)(A), Dec. 23, 2022, 136 Stat. 2878.
 
 **Consortia of Universities To Advise Secretary of Defense on Cybersecurity Matters**
 
-Pub. L. 116–92, div. A, title XVI, § 1659, Dec. 20, 2019, 133 Stat. 1770, as amended by Pub. L. 117–81, div. A, title XV, § 1530, Dec. 27, 2021, 135 Stat. 2049; Pub. L. 117–263, div. A, title XV, § 1505, Dec. 23, 2022, 136 Stat. 2881; Pub. L. 118–31, div. A, title XV, § 1531(c)(3), Dec. 22, 2023, 137 Stat. 562, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1659, Dec. 20, 2019, 133 Stat. 1770, as amended by Pub. L. 117–81, div. A, title XV, § 1530, Dec. 27, 2021, 135 Stat. 2049; Pub. L. 117–263, div. A, title XV, § 1505, Dec. 23, 2022, 136 Stat. 2881; Pub. L. 118–31, div. A, title XV, § 1531(c)(3), Dec. 22, 2023, 137 Stat. 562, provided that:
 
 > **“(a) Establishment and Function.—** The Secretary of Defense shall establish a consortium of universities to assist the Secretary on cybersecurity matters relating to the following:
 
@@ -487,11 +487,11 @@ Pub. L. 116–92, div. A, title XVI, § 1659, Dec. 20, 2019, 133 Stat. 1770, a
 
 **Issuance of Procedures**
 
-Pub. L. 113–291, div. A, title XVI, § 1632(b), Dec. 19, 2014, 128 Stat. 3640, provided that: “The Secretary shall establish the procedures required by subsection (b) of section 391 of title 10, United States Code, as added by subsection (a) of this section, not later than 90 days after the date of the enactment of this Act [Dec. 19, 2014].”
+Pub. L. 113–291, div. A, title XVI, § 1632(b), Dec. 19, 2014, 128 Stat. 3640, provided that: “The Secretary shall establish the procedures required by subsection (b) of section 391 of title 10, United States Code, as added by subsection (a) of this section, not later than 90 days after the date of the enactment of this Act [Dec. 19, 2014].”
 
 **Assessment of Department Policies**
 
-Pub. L. 113–291, div. A, title XVI, § 1632(c), Dec. 19, 2014, 128 Stat. 3640, provided that:
+Pub. L. 113–291, div. A, title XVI, § 1632(c), Dec. 19, 2014, 128 Stat. 3640, provided that:
 
 > **“(1) In general.—** Not later than 90 days after the date of the enactment of the Act [Dec. 19, 2014], the Secretary of Defense shall complete an assessment of—
 
@@ -505,7 +505,7 @@ Pub. L. 113–291, div. A, title XVI, § 1632(c), Dec. 19, 2014, 128 Stat. 364
 
 > **“(B)** issue or revise guidance applicable to Department components that ensures the rapid sharing by the component designated pursuant to such section 391 or section 941 of the National Defense Authorization Act for Fiscal Year 2013 [Pub. L. 112–239] (10 U.S.C. 2224 note) of information relating to cyber incidents with respect to networks or information systems of contractors with other appropriate Department components.”
 
-## § 391a. Annual reports on support by military departments for United States Cyber Command
+## § 391a. Annual reports on support by military departments for United States Cyber Command
 
 **(a) Reports.—** Not later than 15 days after the date on which the Secretary of Defense submits to Congress the defense budget materials (as defined in section 239 of this title) for a fiscal year, the Commander of the United States Cyber Command shall submit to the congressional defense committees a report containing the following:
 
@@ -539,7 +539,7 @@ Pub. L. 113–291, div. A, title XVI, § 1632(c), Dec. 19, 2014, 128 Stat. 364
 
 **(10)** Any other element determined relevant by the Commander.
 
-(Added Pub. L. 117–263, div. A, title XV, § 1502(a), Dec. 23, 2022, 136 Stat. 2879.)
+(Added Pub. L. 117–263, div. A, title XV, § 1502(a), Dec. 23, 2022, 136 Stat. 2879.)
 
 **Editorial Notes**
 
@@ -551,9 +551,9 @@ Sections 1533 and 1534 of the National Defense Authorization Act for Fiscal Year
 
 **First Report**
 
-Pub. L. 117–263, div. A, title XV, § 1502(b), Dec. 23, 2022, 136 Stat. 2880, provided that: “The Commander of the United States Cyber Command shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the first report under section 391a of title 10, United States Code, as added by subsection (a), as soon as practicable after the date of the submission of the defense budget materials for fiscal year 2024.”
+Pub. L. 117–263, div. A, title XV, § 1502(b), Dec. 23, 2022, 136 Stat. 2880, provided that: “The Commander of the United States Cyber Command shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the first report under section 391a of title 10, United States Code, as added by subsection (a), as soon as practicable after the date of the submission of the defense budget materials for fiscal year 2024.”
 
-## § 391b. Strategic cybersecurity program
+## § 391b. Strategic cybersecurity program
 
 **(a) In General.—**
 
@@ -681,7 +681,7 @@ Pub. L. 117–263, div. A, title XV, § 1502(b), Dec. 23, 2022, 136 Stat. 2880
 
 **(D)** Section 1559 of the National Defense Authorization Act for Fiscal Year 2023.
 
-(Added Pub. L. 118–31, div. A, title XV, § 1502(a)(1), Dec. 22, 2023, 137 Stat. 533; amended Pub. L. 118–159, div. A, title XVII, § 1701(a)(7), Dec. 23, 2024, 138 Stat. 2203.)
+(Added Pub. L. 118–31, div. A, title XV, § 1502(a)(1), Dec. 22, 2023, 137 Stat. 533; amended Pub. L. 118–159, div. A, title XVII, § 1701(a)(7), Dec. 23, 2024, 138 Stat. 2203.)
 
 **Editorial Notes**
 
@@ -695,7 +695,7 @@ Section 1559 of the National Defense Authorization Act for Fiscal Year 2023, ref
 
 2024—Subsec. (e)(1)(B). Pub. L. 118–159 substituted semicolon for colon after “requirement”.
 
-## § 392. Executive agents for cyber test and training ranges
+## § 392. Executive agents for cyber test and training ranges
 
 **(a) Executive Agent.—** The Secretary of Defense, in consultation with the Principal Cyber Advisor, shall—
 
@@ -757,13 +757,13 @@ Section 1559 of the National Defense Authorization Act for Fiscal Year 2023, ref
 
 **(3)** The term “executive agent” has the meaning given the term “DoD Executive Agent” in Directive 5101.1.
 
-(Added Pub. L. 113–291, div. A, title XVI, § 1633(a), Dec. 19, 2014, 128 Stat. 3641.)
+(Added Pub. L. 113–291, div. A, title XVI, § 1633(a), Dec. 19, 2014, 128 Stat. 3641.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Designation and Roles and Responsibilities; Selection of Standard Language**
 
-Pub. L. 113–291, div. A, title XVI, § 1633(b), (c), Dec. 19, 2014, 128 Stat. 3642, provided that:
+Pub. L. 113–291, div. A, title XVI, § 1633(b), (c), Dec. 19, 2014, 128 Stat. 3642, provided that:
 
 > **“(b) Designation and Roles and Responsibilities.—** The Secretary of Defense shall—
 
@@ -773,7 +773,7 @@ Pub. L. 113–291, div. A, title XVI, § 1633(b), (c), Dec. 19, 2014, 128 Stat
 
 > **“(c) Selection of Standard Language.—** Not later than June 1, 2015, the executive agents designated under subsection (a) of section 392 of title 10, United States Code, as added by subsection (a) of this section, shall select the standard language under subsection (b)(3) of such section 392.”
 
-## § 392a. Principal Cyber Advisors
+## § 392a. Principal Cyber Advisors
 
 **(a) Principal Cyber Advisor to Secretary of Defense.—**
 
@@ -857,9 +857,9 @@ Pub. L. 113–291, div. A, title XVI, § 1633(b), (c), Dec. 19, 2014, 128 Stat
 
 **(viii)** To coordinate and consult with stakeholders in the cyberspace domain across the Department in order to identify other issues on cyberspace for the attention of senior leadership of the Department.
 
-**(ix)** On behalf of the Principal Cyber Advisor, to lead the cross-functional team established pursuant to section 932(c)(3) of the National Defense Authorization Act for Fiscal Year 2014 (10 U.S.C. 2224 note) 1
+**(ix)** On behalf of the Principal Cyber Advisor, to lead the cross-functional team established pursuant to section 932(c)(3) of the National Defense Authorization Act for Fiscal Year 2014 (10 U.S.C. 2224 note) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 in order to synchronize and coordinate military and civilian cyber forces and activities of the Department.
 
@@ -919,7 +919,7 @@ in order to synchronize and coordinate military and civilian cyber forces and ac
 
 **(5) Principal Cyber Advisors’ Briefing to Congress.—** Not later than February 1, 2021, and biannually thereafter, each Principal Cyber Advisor under paragraph (1) shall brief the Committees on Armed Services of the Senate and House of Representatives on that Advisor’s activities and ability to perform the functions specified in paragraph (2).
 
-(Added and amended Pub. L. 117–263, div. A, title XV, § 1501(b), Dec. 23, 2022, 136 Stat. 2877; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(5), Dec. 22, 2023, 137 Stat. 683; Pub. L. 118–159, div. A, title XVII, § 1701(a)(8), Dec. 23, 2024, 138 Stat. 2203; Pub. L. 119–60, div. A, title XV, § 1502, Dec. 18, 2025, 139 Stat. 1138.)
+(Added and amended Pub. L. 117–263, div. A, title XV, § 1501(b), Dec. 23, 2022, 136 Stat. 2877; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(5), Dec. 22, 2023, 137 Stat. 683; Pub. L. 118–159, div. A, title XVII, § 1701(a)(8), Dec. 23, 2024, 138 Stat. 2203; Pub. L. 119–60, div. A, title XV, § 1502, Dec. 18, 2025, 139 Stat. 1138.)
 
 **Editorial Notes**
 
@@ -927,73 +927,73 @@ in order to synchronize and coordinate military and civilian cyber forces and ac
 
 Section 911 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (a)(3), is section 911 of Pub. L. 114–328, which is set out as a note under section 111 of this title.
 
-Section 932(c)(3) of the National Defense Authorization Act for Fiscal Year 2014, referred to in subsec. (b)(3)(B)(ix), is section 932(c)(3) of Pub. L. 113–66, which was formerly set out as a note under section 2224 of this title and was transferred to this section and redesignated as subsec. (a)(3) by Pub. L. 117–263, § 1501(b)(2)(A), (B), Dec. 23, 2022, 136 Stat. 2878.
+Section 932(c)(3) of the National Defense Authorization Act for Fiscal Year 2014, referred to in subsec. (b)(3)(B)(ix), is section 932(c)(3) of Pub. L. 113–66, which was formerly set out as a note under section 2224 of this title and was transferred to this section and redesignated as subsec. (a)(3) by Pub. L. 117–263, § 1501(b)(2)(A), (B), Dec. 23, 2022, 136 Stat. 2878.
 
 The date of the enactment of this Act, referred to in subsec. (c)(1)(A), means the date of enactment of Pub. L. 116–92, which had originally enacted the text of subsec. (c) of this section and was approved Dec. 20, 2019. See Codification note below.
 
 **Codification**
 
-The text of section 932(c) of Pub. L. 113–66, formerly set out as a note under section 2224 of this title, which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 117–263, § 1501(b)(2), was based on Pub. L. 113–66, div. A, title IX, § 932, Dec. 26, 2013, 127 Stat. 829, as amended by Pub. L. 116–283, div. A, title XVII, § 1713(a), Jan. 1, 2021, 134 Stat. 4089; Pub. L. 117–81, div. A, title XV, § 1503(a), Dec. 27, 2021, 135 Stat. 2021; Pub. L. 117–263, div. A, title X, § 1081(d), title XV, § 1501(a), Dec. 23, 2022, 136 Stat. 2797, 2877.
+The text of section 932(c) of Pub. L. 113–66, formerly set out as a note under section 2224 of this title, which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 117–263, § 1501(b)(2), was based on Pub. L. 113–66, div. A, title IX, § 932, Dec. 26, 2013, 127 Stat. 829, as amended by Pub. L. 116–283, div. A, title XVII, § 1713(a), Jan. 1, 2021, 134 Stat. 4089; Pub. L. 117–81, div. A, title XV, § 1503(a), Dec. 27, 2021, 135 Stat. 2021; Pub. L. 117–263, div. A, title X, § 1081(d), title XV, § 1501(a), Dec. 23, 2022, 136 Stat. 2797, 2877.
 
-The text of section 905 of Pub. L. 116–92, formerly set out as a note under section 391 of this title, which was transferred to this section, redesignated as subsec. (b), and amended by Pub. L. 117–263, § 1501(b)(3), was based on Pub. L. 116–92, div. A, title IX, § 905, Dec. 20, 2019, 133 Stat. 1557, as amended by Pub. L. 116–283, div. A, title XVII, § 1713(b), Jan. 1, 2021, 134 Stat. 4090; Pub. L. 117–81, div. A, title XV, § 1503(b), Dec. 27, 2021, 135 Stat. 2021; Pub. L. 117–263, div. A, title X, § 1081(c), Dec. 23, 2022, 136 Stat. 2797.
+The text of section 905 of Pub. L. 116–92, formerly set out as a note under section 391 of this title, which was transferred to this section, redesignated as subsec. (b), and amended by Pub. L. 117–263, § 1501(b)(3), was based on Pub. L. 116–92, div. A, title IX, § 905, Dec. 20, 2019, 133 Stat. 1557, as amended by Pub. L. 116–283, div. A, title XVII, § 1713(b), Jan. 1, 2021, 134 Stat. 4090; Pub. L. 117–81, div. A, title XV, § 1503(b), Dec. 27, 2021, 135 Stat. 2021; Pub. L. 117–263, div. A, title X, § 1081(c), Dec. 23, 2022, 136 Stat. 2797.
 
-The text of section 1657 of Pub. L. 116–92, formerly set out as a note under section 391 of this title, which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 117–263, § 1501(b)(4), was based on Pub. L. 116–92, div. A, title XVI, § 1657, Dec. 20, 2019, 133 Stat. 1767.
+The text of section 1657 of Pub. L. 116–92, formerly set out as a note under section 391 of this title, which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 117–263, § 1501(b)(4), was based on Pub. L. 116–92, div. A, title XVI, § 1657, Dec. 20, 2019, 133 Stat. 1767.
 
 **Amendments**
 
-2025—Subsec. (b)(2)(A)(i). Pub. L. 119–60, § 1502(1)(A), substituted “the Assistant Secretary of Defense for Cyber Policy” for “the Under Secretary of Defense for Policy”.
+2025—Subsec. (b)(2)(A)(i). Pub. L. 119–60, § 1502(1)(A), substituted “the Assistant Secretary of Defense for Cyber Policy” for “the Under Secretary of Defense for Policy”.
 
-Subsec. (b)(2)(B). Pub. L. 119–60, § 1502(1)(B), substituted “the Assistant Secretary of Defense for Cyber Policy.” for “the following:
+Subsec. (b)(2)(B). Pub. L. 119–60, § 1502(1)(B), substituted “the Assistant Secretary of Defense for Cyber Policy.” for “the following:
 
 “(i) The Under Secretary with respect to Senior Military Advisor for Cyber Policy duties.
 
 “(ii) The Principal Cyber Advisor with respect to Deputy Principal Cyber Advisor duties.”
 
-Subsec. (b)(3)(A)(i). Pub. L. 119–60, § 1502(2)(A), substituted “the Assistant Secretary of Defense for Cyber Policy” for “the Under Secretary of Defense for Policy”.
+Subsec. (b)(3)(A)(i). Pub. L. 119–60, § 1502(2)(A), substituted “the Assistant Secretary of Defense for Cyber Policy” for “the Under Secretary of Defense for Policy”.
 
-Subsec. (b)(3)(A)(ii). Pub. L. 119–60, § 1502(2)(B), substituted “Assistant Secretary of Defense for Cyber Policy” for “Under Secretary”.
+Subsec. (b)(3)(A)(ii). Pub. L. 119–60, § 1502(2)(B), substituted “Assistant Secretary of Defense for Cyber Policy” for “Under Secretary”.
 
-Subsec. (b)(3)(A)(iii). Pub. L. 119–60, § 1502(2)(C), substituted “Assistant Secretary of Defense for Cyber Policy” for “Under Secretary of Defense for Policy”.
+Subsec. (b)(3)(A)(iii). Pub. L. 119–60, § 1502(2)(C), substituted “Assistant Secretary of Defense for Cyber Policy” for “Under Secretary of Defense for Policy”.
 
-Subsec. (b)(3)(A)(iv). Pub. L. 119–60, § 1502(2)(D), struck out cl. (iv) which read as follows: “To maintain open lines of communication between the Chief Information Officer of the Department of Defense, senior civilian leaders within the Office of the Under Secretary, and senior officers on the Joint Staff, the Armed Forces, and the combatant commands on cyber matters, and to ensure that military leaders are informed on cyber policy decisions.”
+Subsec. (b)(3)(A)(iv). Pub. L. 119–60, § 1502(2)(D), struck out cl. (iv) which read as follows: “To maintain open lines of communication between the Chief Information Officer of the Department of Defense, senior civilian leaders within the Office of the Under Secretary, and senior officers on the Joint Staff, the Armed Forces, and the combatant commands on cyber matters, and to ensure that military leaders are informed on cyber policy decisions.”
 
 2024—Subsec. (b)(3)(B)(ix). Pub. L. 118–159 inserted “section” before “932(c)(3)”.
 
-2023—Subsec. (b)(2)(B). Pub. L. 118–31, § 1801(a)(5)(A), substituted “designated” for “designed” in introductory provisions.
+2023—Subsec. (b)(2)(B). Pub. L. 118–31, § 1801(a)(5)(A), substituted “designated” for “designed” in introductory provisions.
 
-Subsec. (c)(4)(A). Pub. L. 118–31, § 1801(a)(5)(B), substituted “subparagraph (B)” for “clause (ii)”.
+Subsec. (c)(4)(A). Pub. L. 118–31, § 1801(a)(5)(B), substituted “subparagraph (B)” for “clause (ii)”.
 
-2022—Subsec. (a). Pub. L. 117–263, § 1501(b)(2)(A), (B), (D), transferred section 932(c) of Pub. L. 113–66 to this section, redesignated it as subsec. (a), and inserted “to Secretary of Defense” after “Advisor” in heading. See Codification note above.
+2022—Subsec. (a). Pub. L. 117–263, § 1501(b)(2)(A), (B), (D), transferred section 932(c) of Pub. L. 113–66 to this section, redesignated it as subsec. (a), and inserted “to Secretary of Defense” after “Advisor” in heading. See Codification note above.
 
-Subsec. (a)(1). Pub. L. 117–263, § 1501(b)(2)(C), added par. (1) and struck out former par. (1) which related to designation of a Principal Cyber Advisor by the Secretary of Defense.
+Subsec. (a)(1). Pub. L. 117–263, § 1501(b)(2)(C), added par. (1) and struck out former par. (1) which related to designation of a Principal Cyber Advisor by the Secretary of Defense.
 
-Subsec. (b). Pub. L. 117–263, § 1501(b)(3)(A), transferred section 905 of Pub. L. 116–92 to this section, redesignated it as subsec. (b), redesignated each subordinate provision to conform to such redesignation, and realigned margins. See Codification note above.
+Subsec. (b). Pub. L. 117–263, § 1501(b)(3)(A), transferred section 905 of Pub. L. 116–92 to this section, redesignated it as subsec. (b), redesignated each subordinate provision to conform to such redesignation, and realigned margins. See Codification note above.
 
-Subsec. (b)(1)(B), (C). Pub. L. 117–263, § 1501(b)(3)(B)(i), substituted “this paragraph” for “this subsection”.
+Subsec. (b)(1)(B), (C). Pub. L. 117–263, § 1501(b)(3)(B)(i), substituted “this paragraph” for “this subsection”.
 
-Subsec. (b)(2), (3). Pub. L. 117–263, § 1501(b)(3)(B)(ii), substituted “paragraph (1)” for “subsection (a)” in introductory provisions of subpars. (A) and (B).
+Subsec. (b)(2), (3). Pub. L. 117–263, § 1501(b)(3)(B)(ii), substituted “paragraph (1)” for “subsection (a)” in introductory provisions of subpars. (A) and (B).
 
-Subsec. (c). Pub. L. 117–263, § 1501(b)(4)(A), transferred section 1657 of Pub. L. 116–92 to this section, redesignated it as subsec. (c), redesignated each subordinate provision to conform to such redesignation, and realigned margins. See Codification note above.
+Subsec. (c). Pub. L. 117–263, § 1501(b)(4)(A), transferred section 1657 of Pub. L. 116–92 to this section, redesignated it as subsec. (c), redesignated each subordinate provision to conform to such redesignation, and realigned margins. See Codification note above.
 
-Subsec. (c)(1)(B). Pub. L. 117–263, § 1501(b)(4)(B)(ii), substituted “subparagraph (A)” for “paragraph (1)” in introductory provisions.
+Subsec. (c)(1)(B). Pub. L. 117–263, § 1501(b)(4)(B)(ii), substituted “subparagraph (A)” for “paragraph (1)” in introductory provisions.
 
-Subsec. (c)(2), (3). Pub. L. 117–263, § 1501(b)(4)(B)(v), substituted “paragraph (1)” for “subsection (a)” in introductory provisions.
+Subsec. (c)(2), (3). Pub. L. 117–263, § 1501(b)(4)(B)(v), substituted “paragraph (1)” for “subsection (a)” in introductory provisions.
 
-Subsec. (c)(4)(A). Pub. L. 117–263, § 1501(b)(4)(B)(i), (vi), substituted “paragraph (2)” for “subsection (b)” and “clause (ii)” for “subparagraph (B)”.
+Subsec. (c)(4)(A). Pub. L. 117–263, § 1501(b)(4)(B)(i), (vi), substituted “paragraph (2)” for “subsection (b)” and “clause (ii)” for “subparagraph (B)”.
 
-Subsec. (c)(4)(B). Pub. L. 117–263, § 1501(b)(4)(B)(ii), (iv), substituted “paragraph (1)(A)” for “subsection (a)(1)” and “subparagraph (A)” for “paragraph (1)”.
+Subsec. (c)(4)(B). Pub. L. 117–263, § 1501(b)(4)(B)(ii), (iv), substituted “paragraph (1)(A)” for “subsection (a)(1)” and “subparagraph (A)” for “paragraph (1)”.
 
-Subsec. (c)(4)(C). Pub. L. 117–263, § 1501(b)(4)(B)(iii), substituted “subparagraph (B)” for “paragraph (2)”.
+Subsec. (c)(4)(C). Pub. L. 117–263, § 1501(b)(4)(B)(iii), substituted “subparagraph (B)” for “paragraph (2)”.
 
-Subsec. (c)(5). Pub. L. 117–263, § 1501(b)(4)(B)(v), (vi), substituted “paragraph (1)” for “subsection (a)” and “paragraph (2)” for “subsection (b)”.
+Subsec. (c)(5). Pub. L. 117–263, § 1501(b)(4)(B)(v), (vi), substituted “paragraph (1)” for “subsection (a)” and “paragraph (2)” for “subsection (b)”.
 
-Subsec. (c)(6). Pub. L. 117–263, § 1501(b)(4)(B)(vii), struck out par. (6) which authorized each of the secretaries of the military departments to review relevant military department’s current governance model for cybersecurity with respect to current authorities and responsibilities.
+Subsec. (c)(6). Pub. L. 117–263, § 1501(b)(4)(B)(vii), struck out par. (6) which authorized each of the secretaries of the military departments to review relevant military department’s current governance model for cybersecurity with respect to current authorities and responsibilities.
 
-Subsec. (c)(6)(B). Pub. L. 117–263, § 1501(b)(4)(B)(ii), (v), substituted “subparagraph (A)” for “paragraph (1)” in introductory provisions and “paragraph (1)” for “subsection (a)” in cl. (i).
+Subsec. (c)(6)(B). Pub. L. 117–263, § 1501(b)(4)(B)(ii), (v), substituted “subparagraph (A)” for “paragraph (1)” in introductory provisions and “paragraph (1)” for “subsection (a)” in cl. (i).
 
-Subsec. (c)(6)(C). Pub. L. 117–263, § 1501(b)(4)(B)(ii), substituted “subparagraph (A)” for “paragraph (1)”.
+Subsec. (c)(6)(C). Pub. L. 117–263, § 1501(b)(4)(B)(ii), substituted “subparagraph (A)” for “paragraph (1)”.
 
-## § 393. Reporting on penetrations of networks and information systems of certain contractors
+## § 393. Reporting on penetrations of networks and information systems of certain contractors
 
 **(a) Procedures for Reporting Penetrations.—** The Secretary of Defense shall establish procedures that require each cleared defense contractor to report to a component of the Department of Defense designated by the Secretary for purposes of such procedures when a network or information system of such contractor that meets the criteria established pursuant to subsection (b) is successfully penetrated.
 
@@ -1071,13 +1071,13 @@ Subsec. (c)(6)(C). Pub. L. 117–263, § 1501(b)(4)(B)(ii), substituted “sub
 
 **(2) Covered network.—** The term “covered network” means a network or information system of a cleared defense contractor that contains or processes information created by or for the Department of Defense with respect to which such contractor is required to apply enhanced protection.
 
-(Added and amended Pub. L. 114–92, div. A, title XVI, § 1641(a), Nov. 25, 2015, 129 Stat. 1114; Pub. L. 116–92, div. A, title IX, § 902(8), title XVI, § 1621(e)(1)(A)(vi), Dec. 20, 2019, 133 Stat. 1543, 1733; Pub. L. 116–283, div. A, title X, § 1081(a)(15), Jan. 1, 2021, 134 Stat. 3871; Pub. L. 117–81, div. A, title X, § 1081(a)(9), Dec. 27, 2021, 135 Stat. 1920.)
+(Added and amended Pub. L. 114–92, div. A, title XVI, § 1641(a), Nov. 25, 2015, 129 Stat. 1114; Pub. L. 116–92, div. A, title IX, § 902(8), title XVI, § 1621(e)(1)(A)(vi), Dec. 20, 2019, 133 Stat. 1543, 1733; Pub. L. 116–283, div. A, title X, § 1081(a)(15), Jan. 1, 2021, 134 Stat. 3871; Pub. L. 117–81, div. A, title X, § 1081(a)(9), Dec. 27, 2021, 135 Stat. 1920.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section, as added and amended by Pub. L. 114–92, is based on Pub. L. 112–239, div. A, title IX, § 941, Jan. 2, 2013, 126 Stat. 1889, which was formerly set out as a note under section 2224 of this title before being transferred to this chapter and renumbered as this section.
+Section, as added and amended by Pub. L. 114–92, is based on Pub. L. 112–239, div. A, title IX, § 941, Jan. 2, 2013, 126 Stat. 1889, which was formerly set out as a note under section 2224 of this title before being transferred to this chapter and renumbered as this section.
 
 **Amendments**
 
@@ -1085,21 +1085,21 @@ Section, as added and amended by Pub. L. 114–92, is based on Pub. L. 112–239
 
 Pub. L. 116–283 substituted “of Defense for Intelligence and Security” for “of Defense for Intelligence.”
 
-2019—Subsec. (b)(2)(B). Pub. L. 116–92, § 902(8)(A), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+2019—Subsec. (b)(2)(B). Pub. L. 116–92, § 902(8)(A), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-Subsec. (b)(2)(C). Pub. L. 116–92, § 1621(e)(1)(A)(vi), which directed amendment of subpar. (C) by substituting “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”, could not be executed because the words “Under Secretary of Defense for Intelligence” did not appear. Similar amendment was subsequently directed to subpar. (D) by Pub. L. 116–283, see 2021 Amendment note above.
+Subsec. (b)(2)(C). Pub. L. 116–92, § 1621(e)(1)(A)(vi), which directed amendment of subpar. (C) by substituting “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”, could not be executed because the words “Under Secretary of Defense for Intelligence” did not appear. Similar amendment was subsequently directed to subpar. (D) by Pub. L. 116–283, see 2021 Amendment note above.
 
-Pub. L. 116–92, § 902(8)(B), added subpar. (C). Former subpar. (C) redesignated (D).
+Pub. L. 116–92, § 902(8)(B), added subpar. (C). Former subpar. (C) redesignated (D).
 
-Subsec. (b)(2)(D) to (F). Pub. L. 116–92, § 902(8)(C), redesignated subpars. (C) to (E) as (D) to (F), respectively.
+Subsec. (b)(2)(D) to (F). Pub. L. 116–92, § 902(8)(C), redesignated subpars. (C) to (E) as (D) to (F), respectively.
 
-2015—Pub. L. 114–92, § 1641(a)(1), substituted “Reporting on penetrations of networks and information systems of certain contractors” for “Reports to Department of Defense on penetrations of networks and information systems of certain contractors” in section catchline.
+2015—Pub. L. 114–92, § 1641(a)(1), substituted “Reporting on penetrations of networks and information systems of certain contractors” for “Reports to Department of Defense on penetrations of networks and information systems of certain contractors” in section catchline.
 
-Pub. L. 114–92, § 1641(a), transferred section 941 of Pub. L. 112–239 to this chapter and renumbered it as this section. See Codification note above.
+Pub. L. 114–92, § 1641(a), transferred section 941 of Pub. L. 112–239 to this chapter and renumbered it as this section. See Codification note above.
 
-Subsec. (c)(3). Pub. L. 114–92, § 1641(a)(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The procedures established pursuant to subsection (a) shall prohibit the dissemination outside the Department of Defense of information obtained or derived through such procedures that is not created by or for the Department except with the approval of the contractor providing such information.”
+Subsec. (c)(3). Pub. L. 114–92, § 1641(a)(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The procedures established pursuant to subsection (a) shall prohibit the dissemination outside the Department of Defense of information obtained or derived through such procedures that is not created by or for the Department except with the approval of the contractor providing such information.”
 
-Subsec. (d). Pub. L. 114–92, § 1641(a)(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
+Subsec. (d). Pub. L. 114–92, § 1641(a)(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
 
 “(1) In general.—Not later than 90 days after the date of the enactment of this Act—
 
@@ -1109,7 +1109,7 @@ Subsec. (d). Pub. L. 114–92, § 1641(a)(3), added subsec. (d) and struck out
 
 “(2) Applicability date.—The requirements of this section shall apply on the date on which the Secretary of Defense establishes the procedures required under this section.”
 
-## § 394. Authorities concerning military cyber operations
+## § 394. Authorities concerning military cyber operations
 
 **(a) In General.—** The Secretary of Defense shall develop, prepare, and coordinate; make ready all armed forces for purposes of; and, when appropriately authorized to do so, conduct, military cyber activities or operations in cyberspace, including clandestine military activities or operations in cyberspace, to defend the United States and its allies, including in response to malicious cyber activity carried out against the United States or a United States person by a foreign power.
 
@@ -1139,27 +1139,27 @@ Subsec. (d). Pub. L. 114–92, § 1641(a)(3), added subsec. (d) and struck out
 
 **(3)** The term “United States person” has the meaning given such term in such section.
 
-(Added Pub. L. 114–92, div. A, title XVI, § 1642(a), Nov. 25, 2015, 129 Stat. 1116, § 130g; renumbered § 394 and amended Pub. L. 115–232, div. A, title XVI, §§ 1631(a), 1632, Aug. 13, 2018, 132 Stat. 2123.)
+(Added Pub. L. 114–92, div. A, title XVI, § 1642(a), Nov. 25, 2015, 129 Stat. 1116, § 130g; renumbered § 394 and amended Pub. L. 115–232, div. A, title XVI, §§ 1631(a), 1632, Aug. 13, 2018, 132 Stat. 2123.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The War Powers Resolution, referred to in subsecs. (b) and (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
+The War Powers Resolution, referred to in subsecs. (b) and (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 The Authorization for Use of Military Force, referred to in subsec. (e), is Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, which is set out as a note under section 1541 of Title 50, War and National Defense.
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 1632, designated existing provisions as subsec. (a), inserted heading, substituted “conduct, military cyber activities or operations in cyberspace, including clandestine military activities or operations in cyberspace, to defend the United States and its allies, including in response” for “conduct, a military cyber operation in response”, struck out “(as such terms are defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801))” after “foreign power”, and added subsecs. (b) to (f).
+2018—Pub. L. 115–232, § 1632, designated existing provisions as subsec. (a), inserted heading, substituted “conduct, military cyber activities or operations in cyberspace, including clandestine military activities or operations in cyberspace, to defend the United States and its allies, including in response” for “conduct, a military cyber operation in response”, struck out “(as such terms are defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801))” after “foreign power”, and added subsecs. (b) to (f).
 
-Pub. L. 115–232, § 1631(a), renumbered section 130g of this title as this section.
+Pub. L. 115–232, § 1631(a), renumbered section 130g of this title as this section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Prohibition on the Elimination of Certain Cyber Assessment Capabilities for Test and Evaluation**
 
-Pub. L. 119–60, div. A, title XV, § 1507, Dec. 18, 2025, 139 Stat. 1145, provided that:
+Pub. L. 119–60, div. A, title XV, § 1507, Dec. 18, 2025, 139 Stat. 1145, provided that:
 
 > **“(a) Prohibition.—** The Secretary of Defense may not take any action to divest, consolidate, or curtail any current cyber assessment capabilities or red teams certified by the National Security Agency supporting operational test and evaluation for programs of the Department of Defense unless, prior to taking such action, the Secretary submits to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the certification described in subsection (b) with respect to such action.
 
@@ -1185,7 +1185,7 @@ Pub. L. 119–60, div. A, title XV, § 1507, Dec. 18, 2025, 139 Stat. 1145, pr
 
 **Artificial Intelligence and Machine Learning Security in the Department of Defense**
 
-Pub. L. 119–60, div. A, title XV, § 1512, Dec. 18, 2025, 139 Stat. 1147, provided that:
+Pub. L. 119–60, div. A, title XV, § 1512, Dec. 18, 2025, 139 Stat. 1147, provided that:
 
 > **“(a) Cybersecurity Policy for Artificial Intelligence and Machine Learning Use.—** Not later than 180 days after the date of enactment of this Act [Dec. 18, 2025], the Secretary of Defense, in consultation with other appropriate Federal agencies, shall develop and implement a Department of Defense-wide policy for the cybersecurity and associated governance of artificial intelligence and machine learning systems and applications, as well as the models for artificial intelligence and machine learning used in national defense applications.
 
@@ -1231,7 +1231,7 @@ Pub. L. 119–60, div. A, title XV, § 1512, Dec. 18, 2025, 139 Stat. 1147, pr
 
 **Support for Cyber Threat Tabletop Exercise Program With the Defense Industrial Base**
 
-Pub. L. 118–159, div. A, title XV, § 1504, Dec. 23, 2024, 138 Stat. 2133, provided that:
+Pub. L. 118–159, div. A, title XV, § 1504, Dec. 23, 2024, 138 Stat. 2133, provided that:
 
 > **“(a) Development of Cyber Threat Tabletop Exercise Program.—**
 
@@ -1283,7 +1283,7 @@ Pub. L. 118–159, div. A, title XV, § 1504, Dec. 23, 2024, 138 Stat. 2133, p
 
 **Authority for Countering Illegal Trafficking by Mexican Transnational Criminal Organizations in Cyberspace**
 
-Pub. L. 118–31, div. A, title XV, § 1505, Dec. 22, 2023, 137 Stat. 539, provided that:
+Pub. L. 118–31, div. A, title XV, § 1505, Dec. 22, 2023, 137 Stat. 539, provided that:
 
 > **“(a) Authority.—** In accordance with sections 124 and 394 of title 10, United States Code, the Secretary of Defense, in support of and in coordination with the heads of other relevant Federal departments and agencies and in consultation with the Government of Mexico as appropriate, may conduct detection, monitoring, and other operations in cyberspace to counter Mexican transnational criminal organizations that are engaged in any of the following activities that cross the southern border of the United States:
 
@@ -1299,7 +1299,7 @@ Pub. L. 118–31, div. A, title XV, § 1505, Dec. 22, 2023, 137 Stat. 539, pro
 
 **Management of Data Assets by Chief Digital and Artificial Intelligence Officer**
 
-Pub. L. 118–31, div. A, title XV, § 1523, Dec. 22, 2023, 137 Stat. 553, provided that:
+Pub. L. 118–31, div. A, title XV, § 1523, Dec. 22, 2023, 137 Stat. 553, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, subject to existing authorities and limitations and acting through the Chief Digital and Artificial Intelligence Officer of the Department of Defense, shall provide the digital infrastructure and procurement vehicles necessary to manage data assets and data analytics capabilities at scale to enable an understanding of foreign key terrain and relational frameworks in cyberspace to support the planning of cyber operations, the generation of indications and warnings regarding military operations and capabilities, and the calibration of actions and reactions in strategic competition.
 
@@ -1333,7 +1333,7 @@ Pub. L. 118–31, div. A, title XV, § 1523, Dec. 22, 2023, 137 Stat. 553, pro
 
 **Protection of Critical Infrastructure**
 
-Pub. L. 117–263, div. A, title XV, § 1511, Dec. 23, 2022, 136 Stat. 2892, provided that:
+Pub. L. 117–263, div. A, title XV, § 1511, Dec. 23, 2022, 136 Stat. 2892, provided that:
 
 > **“(a) In General.—** In the event that the President determines that there is an active, systematic, and ongoing campaign of attacks in cyberspace by a foreign power against the Government or the critical infrastructure of the United States, the President may authorize the Secretary of Defense, acting through the Commander of the United States Cyber Command, to conduct military cyber activities or operations pursuant to section 394 of title 10, United States Code, in foreign cyberspace to deter, safeguard, or defend against such attacks.
 
@@ -1343,7 +1343,7 @@ Pub. L. 117–263, div. A, title XV, § 1511, Dec. 23, 2022, 136 Stat. 2892, p
 
 **Operational Technology and Mission-Relevant Terrain in Cyberspace**
 
-Pub. L. 117–81, div. A, title XV, § 1505, Dec. 27, 2021, 135 Stat. 2023, as amended by Pub. L. 118–31, div. A, title XV, § 1502(a)(2)(E), Dec. 22, 2023, 137 Stat. 538, provided that:
+Pub. L. 117–81, div. A, title XV, § 1505, Dec. 27, 2021, 135 Stat. 2023, as amended by Pub. L. 118–31, div. A, title XV, § 1502(a)(2)(E), Dec. 22, 2023, 137 Stat. 538, provided that:
 
 > **“(a) Mission-relevant Terrain.—** Not later than January 1, 2025, the Secretary of Defense shall complete mapping of mission-relevant terrain in cyberspace for Defense Critical Assets and Task Critical Assets at sufficient granularity to enable mission thread analysis and situational awareness, including required—
 
@@ -1483,7 +1483,7 @@ Pub. L. 117–81, div. A, title XV, § 1505, Dec. 27, 2021, 135 Stat. 2023, as
 
 **Framework for Cyber Hunt Forward Operations**
 
-Pub. L. 116–283, div. A, title XVII, § 1720, Jan. 1, 2021, 134 Stat. 4107, provided that:
+Pub. L. 116–283, div. A, title XVII, § 1720, Jan. 1, 2021, 134 Stat. 4107, provided that:
 
 > **“(a) Framework Required.—** Not later than April 1, 2021, the Secretary of Defense shall develop a standard, comprehensive framework to enhance the consistency, execution, and effectiveness of cyber hunt forward operations.
 
@@ -1547,7 +1547,7 @@ Pub. L. 116–283, div. A, title XVII, § 1720, Jan. 1, 2021, 134 Stat. 4107, 
 
 **Tailored Cyberspace Operations Organizations**
 
-Pub. L. 116–283, div. A, title XVII, § 1723, Jan. 1, 2021, 134 Stat. 4110, as amended by Pub. L. 117–263, div. A, title XV, § 1504, Dec. 23, 2022, 136 Stat. 2880, provided that:
+Pub. L. 116–283, div. A, title XVII, § 1723, Jan. 1, 2021, 134 Stat. 4110, as amended by Pub. L. 117–263, div. A, title XV, § 1504, Dec. 23, 2022, 136 Stat. 2880, provided that:
 
 > **“(a) Study.—**
 
@@ -1603,7 +1603,7 @@ Pub. L. 116–283, div. A, title XVII, § 1723, Jan. 1, 2021, 134 Stat. 4110, 
 
 **Notification of Delegation of Authorities to the Secretary of Defense for Military Operations in Cyberspace**
 
-Pub. L. 116–92, div. A, title XVI, § 1642, Dec. 20, 2019, 133 Stat. 1751, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1642, Dec. 20, 2019, 133 Stat. 1751, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall provide written notification to the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate of the following:
 
@@ -1629,7 +1629,7 @@ Pub. L. 116–92, div. A, title XVI, § 1642, Dec. 20, 2019, 133 Stat. 1751, p
 
 **Annual Military Cyberspace Operations Report**
 
-Pub. L. 116–92, div. A, title XVI, § 1644, Dec. 20, 2019, 133 Stat. 1752, as amended by Pub. L. 118–31, div. A, title X, § 1061(d), Dec. 22, 2023, 137 Stat. 399, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1644, Dec. 20, 2019, 133 Stat. 1752, as amended by Pub. L. 118–31, div. A, title X, § 1061(d), Dec. 22, 2023, 137 Stat. 399, provided that:
 
 > **“(a) In General.—** Not later than March 1 of each year, the Secretary of Defense shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a written report summarizing all named military cyberspace effects operations conducted in the previous calendar year, including cyber effects conducted for either offensive or defensive purposes. Each such summary should be organized by adversarial country and should include the following for each named operation:
 
@@ -1655,7 +1655,7 @@ Pub. L. 116–92, div. A, title XVI, § 1644, Dec. 20, 2019, 133 Stat. 1752, a
 
 **Policy of the United States on Cyberspace, Cybersecurity, Cyber Warfare, and Cyber Deterrence**
 
-Pub. L. 115–232, div. A, title XVI, § 1636, Aug. 13, 2018, 132 Stat. 2126, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1636, Aug. 13, 2018, 132 Stat. 2126, provided that:
 
 > **“(a) In General.—** It shall be the policy of the United States, with respect to matters pertaining to cyberspace, cybersecurity, and cyber warfare, that the United States should employ all instruments of national power, including the use of offensive cyber capabilities, to deter if possible, and respond to when necessary, all cyber attacks or other malicious cyber activities of foreign powers that target United States interests with the intent to—
 
@@ -1723,7 +1723,7 @@ Pub. L. 115–232, div. A, title XVI, § 1636, Aug. 13, 2018, 132 Stat. 2126, 
 
 > **“(2) Foreign power.—** The term ‘foreign power’ has the meaning given such term in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801).”
 
-Pub. L. 115–91, div. A, title XVI, § 1633, Dec. 12, 2017, 131 Stat. 1738, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1633, Dec. 12, 2017, 131 Stat. 1738, provided that:
 
 > **“(a) In General.—** The President shall—
 
@@ -1773,7 +1773,7 @@ Pub. L. 115–91, div. A, title XVI, § 1633, Dec. 12, 2017, 131 Stat. 1738, p
 
 **Active Defense Against the Russian Federation, People’s Republic of China, Democratic People’s Republic of Korea, and Islamic Republic of Iran Attacks in Cyberspace**
 
-Pub. L. 115–232, div. A, title XVI, § 1642, Aug. 13, 2018, 132 Stat. 2132, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1642, Aug. 13, 2018, 132 Stat. 2132, provided that:
 
 > **“(a) Authority to Disrupt, Defeat, and Deter Cyber Attacks.—**
 
@@ -1805,7 +1805,7 @@ Pub. L. 115–232, div. A, title XVI, § 1642, Aug. 13, 2018, 132 Stat. 2132, 
 
 **Pilot Program To Model Cyber Attacks on Critical Infrastructure**
 
-Pub. L. 115–232, div. A, title XVI, § 1649, Aug. 13, 2018, 132 Stat. 2137, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1649, Aug. 13, 2018, 132 Stat. 2137, provided that:
 
 > **“(a) Pilot Program Required.—**
 
@@ -1851,7 +1851,7 @@ Pub. L. 115–232, div. A, title XVI, § 1649, Aug. 13, 2018, 132 Stat. 2137, 
 
 **Identification of Countries of Concern Regarding Cybersecurity**
 
-Pub. L. 115–232, div. A, title XVI, § 1654, Aug. 13, 2018, 132 Stat. 2148, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1654, Aug. 13, 2018, 132 Stat. 2148, provided that:
 
 > **“(a) Identification of Countries of Concern.—** Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall create a list of countries that pose a risk to the cybersecurity of United States defense and national security systems and infrastructure. Such list shall reflect the level of threat posed by each country included on such list. In creating such list, the Secretary shall take in to account the following:
 
@@ -1873,7 +1873,7 @@ Pub. L. 115–232, div. A, title XVI, § 1654, Aug. 13, 2018, 132 Stat. 2148, 
 
 **Quadrennial Comprehensive Cyber Posture Review**
 
-Pub. L. 115–91, div. A, title XVI, § 1644, Dec. 12, 2017, 131 Stat. 1748, as amended by Pub. L. 116–92, div. A, title XVI, § 1635, Dec. 20, 2019, 133 Stat. 1748; Pub. L. 116–283, div. A, title XVII, § 1706, Jan. 1, 2021, 134 Stat. 4083, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1644, Dec. 12, 2017, 131 Stat. 1748, as amended by Pub. L. 116–92, div. A, title XVI, § 1635, Dec. 20, 2019, 133 Stat. 1748; Pub. L. 116–283, div. A, title XVII, § 1706, Jan. 1, 2021, 134 Stat. 4083, provided that:
 
 > **“(a) Requirement for Comprehensive Review.—** In order to clarify the near-term policy and strategy of the United States with respect to cyber deterrence, the Secretary of Defense shall, not later than December 31, 2022, and quadrennially thereafter, conduct a comprehensive review of the cyber posture of the United States over the posture review period.
 
@@ -1943,7 +1943,7 @@ Pub. L. 115–91, div. A, title XVI, § 1644, Dec. 12, 2017, 131 Stat. 1748, a
 
 > **“(e) Posture Review Period Defined.—** In this section, the term ‘posture review period’ means the eight-year period that begins on the date of each review conducted under subsection (a).”
 
-## § 395. Notification requirements for sensitive military cyber operations
+## § 395. Notification requirements for sensitive military cyber operations
 
 **(a) In General.—** Except as provided in subsection (d), the Secretary of Defense shall promptly submit to the congressional defense committees notice in writing of any sensitive military cyber operation conducted under this title no later than 48 hours following such operation.
 
@@ -1997,33 +1997,33 @@ Pub. L. 115–91, div. A, title XVI, § 1644, Dec. 12, 2017, 131 Stat. 1748, a
 
 **(e) Rule of Construction.—** Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution (50 U.S.C. 1541 et seq.), the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note), or any requirement under the National Security Act of 1947 (50 U.S.C. 3001 et seq.).
 
-(Added Pub. L. 115–91, div. A, title XVI, § 1631(a), Dec. 12, 2017, 131 Stat. 1736, § 130j; renumbered § 395 and amended Pub. L. 115–232, div. A, title X, § 1081(a)(1), title XVI, § 1631(a), Aug. 13, 2018, 132 Stat. 1983, 2123; Pub. L. 116–92, div. A, title XVI, § 1632, Dec. 20, 2019, 133 Stat. 1745; Pub. L. 116–283, div. A, title XVII, § 1702, Jan. 1, 2021, 134 Stat. 4080.)
+(Added Pub. L. 115–91, div. A, title XVI, § 1631(a), Dec. 12, 2017, 131 Stat. 1736, § 130j; renumbered § 395 and amended Pub. L. 115–232, div. A, title X, § 1081(a)(1), title XVI, § 1631(a), Aug. 13, 2018, 132 Stat. 1983, 2123; Pub. L. 116–92, div. A, title XVI, § 1632, Dec. 20, 2019, 133 Stat. 1745; Pub. L. 116–283, div. A, title XVII, § 1702, Jan. 1, 2021, 134 Stat. 4080.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The War Powers Resolution, referred to in subsec. (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
+The War Powers Resolution, referred to in subsec. (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 The Authorization for Use of Military Force, referred to in subsec. (e), is Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, which is set out as a note under section 1541 of Title 50, War and National Defense.
 
-The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
 2021—Subsec. (c). Pub. L. 116–283 amended subsec. (c) generally. Prior to amendment, subsec. (c) defined “sensitive military cyber operation” as used in this section.
 
-2019—Subsec. (b)(3). Pub. L. 116–92, § 1632(1), inserted “, signed by the Secretary, or the Secretary’s designee,” after “written notification”.
+2019—Subsec. (b)(3). Pub. L. 116–92, § 1632(1), inserted “, signed by the Secretary, or the Secretary’s designee,” after “written notification”.
 
-Subsec. (c)(1)(B), (C). Pub. L. 116–92, § 1632(2)(A), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (c)(1)(B), (C). Pub. L. 116–92, § 1632(2)(A), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (c)(2)(B). Pub. L. 116–92, § 1632(2)(B), struck out “outside the Department of Defense Information Networks to defeat an ongoing or imminent threat” after “A defensive cyber operation”.
+Subsec. (c)(2)(B). Pub. L. 116–92, § 1632(2)(B), struck out “outside the Department of Defense Information Networks to defeat an ongoing or imminent threat” after “A defensive cyber operation”.
 
-2018—Pub. L. 115–232, § 1631(a), renumbered section 130j of this title as this section.
+2018—Pub. L. 115–232, § 1631(a), renumbered section 130j of this title as this section.
 
-Subsec. (d)(2). Pub. L. 115–232, § 1081(a)(1), substituted “section 503 of the National Security Act of 1947 (50 U.S.C. 3093)” for “section 3093 of title 50, United States Code”.
+Subsec. (d)(2). Pub. L. 115–232, § 1081(a)(1), substituted “section 503 of the National Security Act of 1947 (50 U.S.C. 3093)” for “section 3093 of title 50, United States Code”.
 
-## § 396. Notification requirements for cyber weapons
+## § 396. Notification requirements for cyber weapons
 
 **(a) In General.—** Except as provided in subsection (c), the Secretary of Defense shall promptly submit to the congressional defense committees notice in writing of the following:
 
@@ -2047,25 +2047,25 @@ Subsec. (d)(2). Pub. L. 115–232, § 1081(a)(1), substituted “section 503 o
 
 **(d) Rule of Construction.—** Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution (50 U.S.C. 1541 et seq.), the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note), or any requirement under the National Security Act of 1947 (50 U.S.C. 3001 et seq.).
 
-(Added Pub. L. 115–91, div. A, title XVI, § 1631(a), Dec. 12, 2017, 131 Stat. 1737, § 130k; renumbered § 396 and amended Pub. L. 115–232, div. A, title X, § 1081(a)(1), title XVI, § 1631(a), Aug. 13, 2018, 132 Stat. 1983, 2123.)
+(Added Pub. L. 115–91, div. A, title XVI, § 1631(a), Dec. 12, 2017, 131 Stat. 1737, § 130k; renumbered § 396 and amended Pub. L. 115–232, div. A, title X, § 1081(a)(1), title XVI, § 1631(a), Aug. 13, 2018, 132 Stat. 1983, 2123.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The War Powers Resolution, referred to in subsec. (d), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
+The War Powers Resolution, referred to in subsec. (d), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 The Authorization for Use of Military Force, referred to in subsec. (d), is Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, which is set out as a note under section 1541 of Title 50, War and National Defense.
 
-The National Security Act of 1947, referred to in subsec. (d), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (d), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 1631(a), renumbered section 130k of this title as this section.
+2018—Pub. L. 115–232, § 1631(a), renumbered section 130k of this title as this section.
 
-Subsec. (c)(2). Pub. L. 115–232, § 1081(a)(1), substituted “section 503 of the National Security Act of 1947 (50 U.S.C. 3093)” for “section 3093 of title 50, United States Code”.
+Subsec. (c)(2). Pub. L. 115–232, § 1081(a)(1), substituted “section 503 of the National Security Act of 1947 (50 U.S.C. 3093)” for “section 3093 of title 50, United States Code”.
 
-## § 397. Principal Information Operations Advisor
+## § 397. Principal Information Operations Advisor
 
 **(a) Designation.—** Not later than 30 days after the enactment of this Act, the Secretary of Defense shall designate, from among officials appointed to a position in the Department of Defense by and with the advice and consent of the Senate, a Principal Information Operations Advisor to act as the principal advisor to the Secretary on all aspects of information operations conducted by the Department.
 
@@ -2087,7 +2087,7 @@ Subsec. (c)(2). Pub. L. 115–232, § 1081(a)(1), substituted “section 503 o
 
 **(8)** Such other matters relating to information operations as the Secretary shall specify for purposes of this subsection.
 
-(Added Pub. L. 116–92, div. A, title XVI, § 1631(a)(1), Dec. 20, 2019, 133 Stat. 1741; amended Pub. L. 116–283, div. A, title X, § 1081(a)(16), Jan. 1, 2021, 134 Stat. 3871.)
+(Added Pub. L. 116–92, div. A, title XVI, § 1631(a)(1), Dec. 20, 2019, 133 Stat. 1741; amended Pub. L. 116–283, div. A, title X, § 1081(a)(16), Jan. 1, 2021, 134 Stat. 3871.)
 
 **Editorial Notes**
 
@@ -2103,7 +2103,7 @@ The enactment of this Act, referred to in subsec. (a), probably means the date o
 
 **Assessment and Optimization of Department of Defense Information and Influence Operations Conducted Through Cyberspace**
 
-Pub. L. 117–263, div. A, title XV, § 1522, Dec. 23, 2022, 136 Stat. 2897, provided that:
+Pub. L. 117–263, div. A, title XV, § 1522, Dec. 23, 2022, 136 Stat. 2897, provided that:
 
 > **“(a) Assessment and Plan.—** Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2022], the Principal Information Operations Advisor and the Principal Cyber Advisor to the Secretary of Defense shall complete both an assessment and an optimization plan for information and influence operations conducted through cyberspace.
 
@@ -2133,7 +2133,7 @@ Pub. L. 117–263, div. A, title XV, § 1522, Dec. 23, 2022, 136 Stat. 2897, p
 
 **Conducting of Military Operations in the Information Environment**
 
-Pub. L. 116–92, div. A, title XVI, § 1631(b)–(i), Dec. 20, 2019, 133 Stat. 1742–1745, as amended by Pub. L. 116–283, div. A, title X, § 1081(c)(6), title XVII, § 1749(b), Jan. 1, 2021, 134 Stat. 3873, 4142, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1631(b)–(i), Dec. 20, 2019, 133 Stat. 1742–1745, as amended by Pub. L. 116–283, div. A, title X, § 1081(c)(6), title XVII, § 1749(b), Jan. 1, 2021, 134 Stat. 3873, 4142, provided that:
 
 > **“(b) Affirming the Authority of the Secretary of Defense to Conduct Military Operations in the Information Environment.—**
 
@@ -2233,11 +2233,11 @@ Pub. L. 116–92, div. A, title XVI, § 1631(b)–(i), Dec. 20, 2019, 133 Stat
 
 > **“(iv)** in support of military operations short of hostilities and in areas where hostilities are not occurring for the purpose of preparation of the environment, influence, force protection, and deterrence.”
 
-[Amendment by Pub. L. 116–283, § 1749(b), to section 1631(g) of Pub. L. 116–92, set out above, was executed to reflect the probable intent of Congress, notwithstanding errors in the directory language.]
+[Amendment by Pub. L. 116–283, § 1749(b), to section 1631(g) of Pub. L. 116–92, set out above, was executed to reflect the probable intent of Congress, notwithstanding errors in the directory language.]
 
-[Pub. L. 116–283, div. A, title X, § 1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(6) of Pub. L. 116–283 to section 1631(i) of Pub. L. 116–92, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019) and as if included in Pub. L. 116–92.]
+[Pub. L. 116–283, div. A, title X, § 1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(6) of Pub. L. 116–283 to section 1631(i) of Pub. L. 116–92, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019) and as if included in Pub. L. 116–92.]
 
-## § 398. Military information support operations in information environment
+## § 398. Military information support operations in information environment
 
 **(a) Congressional Notification Requirement.—**
 
@@ -2285,7 +2285,7 @@ Pub. L. 116–92, div. A, title XVI, § 1631(b)–(i), Dec. 20, 2019, 133 Stat
 
 **(4)** media produced by United States entities for United States persons.
 
-(Added Pub. L. 117–263, div. A, title X, § 1052(a), Dec. 23, 2022, 136 Stat. 2776.)
+(Added Pub. L. 117–263, div. A, title X, § 1052(a), Dec. 23, 2022, 136 Stat. 2776.)
 
 **Editorial Notes**
 
@@ -2293,7 +2293,7 @@ Pub. L. 116–92, div. A, title XVI, § 1631(b)–(i), Dec. 20, 2019, 133 Stat
 
 Another section 398 was renumbered section 398a of this title.
 
-## § 398a. Pilot program for sharing cyber capabilities and related information with foreign operational partners
+## § 398a. Pilot program for sharing cyber capabilities and related information with foreign operational partners
 
 **(a) Authority to Establish Pilot Program to Share Cyber Capabilities.—** The Secretary of Defense may, with the concurrence of the Secretary of State, provide cyber capabilities and related information developed or procured by the Department of Defense to foreign countries or organizations described in subsection (b) without compensation, to meet operational imperatives if the Secretary of Defense determines that the provision of such cyber capabilities is in the national security interests of the United States.
 
@@ -2351,30 +2351,30 @@ Another section 398 was renumbered section 398a of this title.
 
 **(h) Rule of Construction.—** Nothing in this section shall be construed as amending, diminishing, or otherwise impacting reporting or other obligations under the War Powers Resolution.
 
-(Added Pub. L. 117–263, div. A, title XV, § 1551(a), Dec. 23, 2022, 136 Stat. 2918, § 398; renumbered § 398a and amended Pub. L. 118–31, div. A, title XV, § 1501, title XVIII, § 1801(a)(6), (7), Dec. 22, 2023, 137 Stat. 533, 683.)
+(Added Pub. L. 117–263, div. A, title XV, § 1551(a), Dec. 23, 2022, 136 Stat. 2918, § 398; renumbered § 398a and amended Pub. L. 118–31, div. A, title XV, § 1501, title XVIII, § 1801(a)(6), (7), Dec. 22, 2023, 137 Stat. 533, 683.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
+The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 **Amendments**
 
-2023—Pub. L. 118–31, §§ 1501(1), 1801(a)(6), made identical amendments, renumbering section 398 of this title relating to pilot program for sharing cyber capabilities and related information with foreign operational partners as this section.
+2023—Pub. L. 118–31, §§ 1501(1), 1801(a)(6), made identical amendments, renumbering section 398 of this title relating to pilot program for sharing cyber capabilities and related information with foreign operational partners as this section.
 
-Subsec. (b)(1)(A). Pub. L. 118–31, § 1801(a)(7)(A)(i), substituted “subsection (a)” for “paragraph (a)”.
+Subsec. (b)(1)(A). Pub. L. 118–31, § 1801(a)(7)(A)(i), substituted “subsection (a)” for “paragraph (a)”.
 
-Subsec. (b)(2). Pub. L. 118–31, § 1801(a)(7)(A)(ii), substituted “paragraph (1)” for “paragraph (a)”.
+Subsec. (b)(2). Pub. L. 118–31, § 1801(a)(7)(A)(ii), substituted “paragraph (1)” for “paragraph (a)”.
 
-Subsec. (b)(3). Pub. L. 118–31, § 1801(a)(7)(A)(iii), substituted “paragraph (1)” for “clause (1)”.
+Subsec. (b)(3). Pub. L. 118–31, § 1801(a)(7)(A)(iii), substituted “paragraph (1)” for “clause (1)”.
 
-Subsec. (e). Pub. L. 118–31, § 1801(a)(7)(B), substituted “subsection (a)” for “paragraph (a)”.
+Subsec. (e). Pub. L. 118–31, § 1801(a)(7)(B), substituted “subsection (a)” for “paragraph (a)”.
 
-Subsecs. (f) to (h). Pub. L. 118–31, § 1501(2), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+Subsecs. (f) to (h). Pub. L. 118–31, § 1501(2), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-## § 399. Notifications relating to military operations in the information environment: requirement to notify Chief of Mission
+## § 399. Notifications relating to military operations in the information environment: requirement to notify Chief of Mission
 
 The Secretary may not authorize a military operation in the information environment under this title intended to cause an effect in a country unless the Secretary fully informs the chief of mission for that country under section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) of the planned operation.
 
-(Added Pub. L. 117–263, div. A, title XV, § 1521, Dec. 23, 2022, 136 Stat. 2897.)
+(Added Pub. L. 117–263, div. A, title XV, § 1521, Dec. 23, 2022, 136 Stat. 2897.)

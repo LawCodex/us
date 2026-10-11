@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–391, title VI, § 613(b), Dec. 21, 2018, 132 Stat. 5249, added item 5043.
+2018—Pub. L. 115–391, title VI, § 613(b), Dec. 21, 2018, 132 Stat. 5249, added item 5043.
 
-1990—Pub. L. 101–647, title XXXV, § 3599H, Nov. 29, 1990, 104 Stat. 4932, substituted “probation” for “Probation” in item 5042.
+1990—Pub. L. 101–647, title XXXV, § 3599H, Nov. 29, 1990, 104 Stat. 4932, substituted “probation” for “Probation” in item 5042.
 
-1984—Pub. L. 98–473, title II, § 214(d), Oct. 12, 1984, 98 Stat. 2014, substituted “Repealed” for “Parole” in item 5041, and “Revocation of Probation” for “Revocation of parole or probation” in item 5042.
+1984—Pub. L. 98–473, title II, § 214(d), Oct. 12, 1984, 98 Stat. 2014, substituted “Repealed” for “Parole” in item 5041, and “Revocation of Probation” for “Revocation of parole or probation” in item 5042.
 
-1974—Pub. L. 93–415, title V, § 513, Sept. 7, 1974, 88 Stat. 1138, substituted “Delinquency proceedings in district courts; transfer for criminal prosecution.” for “Proceeding against juvenile delinquent.” in item 5032; “Custody prior to appearance before magistrate.” for “Jurisdiction; written consent; jury trial precluded.” in item 5033; “Duties of magistrate.” for “Probation; commitment to custody of Attorney General; support.” in item 5034; “Detention prior to disposition.” for “Arrest, detention and bail.” in item 5035; “Speedy trial.” for “Contracts for support; payment.” in item 5036; “Dispositional hearing.” for “Parole.” in item 5037; and added items 5038 to 5042.
+1974—Pub. L. 93–415, title V, § 513, Sept. 7, 1974, 88 Stat. 1138, substituted “Delinquency proceedings in district courts; transfer for criminal prosecution.” for “Proceeding against juvenile delinquent.” in item 5032; “Custody prior to appearance before magistrate.” for “Jurisdiction; written consent; jury trial precluded.” in item 5033; “Duties of magistrate.” for “Probation; commitment to custody of Attorney General; support.” in item 5034; “Detention prior to disposition.” for “Arrest, detention and bail.” in item 5035; “Speedy trial.” for “Contracts for support; payment.” in item 5036; “Dispositional hearing.” for “Parole.” in item 5037; and added items 5038 to 5042.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -35,17 +35,17 @@ Words “magistrate judge” substituted for “magistrate” in items 5033 and 
 
 **Repeals**
 
-Pub. L. 93–415, title V, § 513, Sept. 7, 1974, 88 Stat. 1138, cited as a credit in an amendment to this analysis, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 513, Sept. 7, 1974, 88 Stat. 1138, cited as a credit in an amendment to this analysis, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
-## § 5031. Definitions
+## § 5031. Definitions
 
 For the purposes of this chapter, a “juvenile” is a person who has not attained his eighteenth birthday, or for the purpose of proceedings and disposition under this chapter for an alleged act of juvenile delinquency, a person who has not attained his twenty-first birthday, and “juvenile delinquency” is the violation of a law of the United States committed by a person prior to his eighteenth birthday which would have been a crime if committed by an adult or a violation by such a person of section 922(x).
 
-(June 25, 1948, ch. 645, 62 Stat. 857; Pub. L. 93–415, title V, § 501, Sept. 7, 1974, 88 Stat. 1133; Pub. L. 103–322, title XI, § 110201(c)(1), Sept. 13, 1994, 108 Stat. 2012.)
+(June 25, 1948, ch. 645, 62 Stat. 857; Pub. L. 93–415, title V, § 501, Sept. 7, 1974, 88 Stat. 1133; Pub. L. 103–322, title XI, § 110201(c)(1), Sept. 13, 1994, 108 Stat. 2012.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 921 (June 16, 1938, ch. 486, § 1, 52 Stat. 764).
+Based on title 18, U.S.C., 1940 ed., § 921 (June 16, 1938, ch. 486, § 1, 52 Stat. 764).
 
 The phrase “who has not attained his eighteenth birthday” was substituted for “seventeen years of age or under” as more clearly reflecting congressional intent and administrative construction. The necessity of a definite fixing of the age of the juvenile was emphasized by Hon. Arthur J. Tuttle, United States district judge, Detroit, Mich., in a letter to the Committee on Revision of the Laws dated June 24, 1944. Words “an offense against the” was changed to “the violation of a” without change of substance.
 
@@ -63,9 +63,9 @@ Minor change was made in translation of section references to “this chapter”
 
 **Repeals**
 
-Pub. L. 93–415, title V, § 501, Sept. 7, 1974, 88 Stat. 1133, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 501, Sept. 7, 1974, 88 Stat. 1133, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
-## § 5032. Delinquency proceedings in district courts; transfer for criminal prosecution
+## § 5032. Delinquency proceedings in district courts; transfer for criminal prosecution
 
 A juvenile alleged to have committed an act of juvenile delinquency, other than a violation of law committed within the special maritime and territorial jurisdiction of the United States for which the maximum authorized term of imprisonment does not exceed six months, shall not be proceeded against in any court of the United States unless the Attorney General, after investigation, certifies to the appropriate district court of the United States that (1) the juvenile court or other appropriate court of a State does not have jurisdiction or refuses to assume jurisdiction over said juvenile with respect to such alleged act of juvenile delinquency, (2) the State does not have available programs and services adequate for the needs of juveniles, or (3) the offense charged is a crime of violence that is a felony or an offense described in section 401 of the Controlled Substances Act (21 U.S.C. 841), or section 1002(a), 1003, 1005, 1009, or 1010(b)(1), (2), or (3) of the Controlled Substances Import and Export Act (21 U.S.C. 952(a), 953, 955, 959, 960(b)(1), (2), (3)), section 922(x) or section 924(b), (g), or (h) of this title, and that there is a substantial Federal interest in the case or the offense to warrant the exercise of Federal jurisdiction.
 
@@ -89,11 +89,11 @@ A juvenile shall not be transferred to adult prosecution nor shall a hearing be 
 
 Whenever a juvenile is adjudged delinquent pursuant to the provisions of this chapter, the specific acts which the juvenile has been found to have committed shall be described as part of the official record of the proceedings and part of the juvenile’s official record.
 
-(June 25, 1948, ch. 645, 62 Stat. 857; Pub. L. 93–415, title V, § 502, Sept. 7, 1974, 88 Stat. 1134; Pub. L. 98–473, title II, § 1201, Oct. 12, 1984, 98 Stat. 2149; Pub. L. 100–690, title VI, § 6467(a), Nov. 18, 1988, 102 Stat. 4375; Pub. L. 101–647, title XII, § 1205(n), title XXXV, § 3599G, Nov. 29, 1990, 104 Stat. 4831, 4932; Pub. L. 103–322, title XI, § 110201(c)(2), title XIV, §§ 140001, 140002, title XV, § 150002, Sept. 13, 1994, 108 Stat. 2012, 2031, 2035; Pub. L. 104–294, title VI, § 601(c)(1), (g)(1), Oct. 11, 1996, 110 Stat. 3499, 3500.)
+(June 25, 1948, ch. 645, 62 Stat. 857; Pub. L. 93–415, title V, § 502, Sept. 7, 1974, 88 Stat. 1134; Pub. L. 98–473, title II, § 1201, Oct. 12, 1984, 98 Stat. 2149; Pub. L. 100–690, title VI, § 6467(a), Nov. 18, 1988, 102 Stat. 4375; Pub. L. 101–647, title XII, § 1205(n), title XXXV, § 3599G, Nov. 29, 1990, 104 Stat. 4831, 4932; Pub. L. 103–322, title XI, § 110201(c)(2), title XIV, §§ 140001, 140002, title XV, § 150002, Sept. 13, 1994, 108 Stat. 2012, 2031, 2035; Pub. L. 104–294, title VI, § 601(c)(1), (g)(1), Oct. 11, 1996, 110 Stat. 3499, 3500.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 922 (June 16, 1938, ch. 486, § 2, 52 Stat. 765).
+Based on title 18, U.S.C., 1940 ed., § 922 (June 16, 1938, ch. 486, § 2, 52 Stat. 765).
 
 The final sentence of said section 922 of title 18, U.S.C., 1940 ed., was incorporated in section 5033 of this title.
 
@@ -105,33 +105,33 @@ Changes were made in arrangement and phraseology.
 
 1996—Pub. L. 104–294, in first par., inserted “section 922(x)” before “or section 924(b)” and struck out “or (x)” after “or (h)”, and in third par., inserted “or as authorized under section 3401(g) of this title” after “shall proceed by information”.
 
-1994—Pub. L. 103–322, § 150002(1), substituted “924(b), (g), or (h)” for “922(p)” in first par.
+1994—Pub. L. 103–322, § 150002(1), substituted “924(b), (g), or (h)” for “922(p)” in first par.
 
-Pub. L. 103–322, § 110201(c)(2)(A), inserted “or (x)” after “922(p)” in first par.
+Pub. L. 103–322, § 110201(c)(2)(A), inserted “or (x)” after “922(p)” in first par.
 
-Pub. L. 103–322, § 140001, in fourth par., substituted “. In the application of the preceding sentence, if the crime of violence is an offense under section 113(a), 113(b), 113(c), 1111, 1113, or, if the juvenile possessed a firearm during the offense, section 2111, 2113, 2241(a), or 2241(c), ‘thirteen’ shall be substituted for ‘fifteen’ and ‘thirteenth’ shall be substituted for ‘fifteenth’. Notwithstanding sections 1152 and 1153, no person subject to the criminal jurisdiction of an Indian tribal government shall be subject to the preceding sentence for any offense the Federal jurisdiction for which is predicated solely on Indian country (as defined in section 1151), and which has occurred within the boundaries of such Indian country, unless the governing body of the tribe has elected that the preceding sentence have effect over land and persons subject to its criminal jurisdiction. However” for “; however”.
+Pub. L. 103–322, § 140001, in fourth par., substituted “. In the application of the preceding sentence, if the crime of violence is an offense under section 113(a), 113(b), 113(c), 1111, 1113, or, if the juvenile possessed a firearm during the offense, section 2111, 2113, 2241(a), or 2241(c), ‘thirteen’ shall be substituted for ‘fifteen’ and ‘thirteenth’ shall be substituted for ‘fifteenth’. Notwithstanding sections 1152 and 1153, no person subject to the criminal jurisdiction of an Indian tribal government shall be subject to the preceding sentence for any offense the Federal jurisdiction for which is predicated solely on Indian country (as defined in section 1151), and which has occurred within the boundaries of such Indian country, unless the governing body of the tribe has elected that the preceding sentence have effect over land and persons subject to its criminal jurisdiction. However” for “; however”.
 
-Pub. L. 103–322, §§ 110201(c)(2)(B), 150002(2), inserted “or section 922(x) of this title, or in section 924(b), (g), or (h) of this title,” before “criminal prosecution on the basis” in fourth par.
+Pub. L. 103–322, §§ 110201(c)(2)(B), 150002(2), inserted “or section 922(x) of this title, or in section 924(b), (g), or (h) of this title,” before “criminal prosecution on the basis” in fourth par.
 
-Pub. L. 103–322, § 150002(3), inserted at end of fifth par. “In considering the nature of the offense, as required by this paragraph, the court shall consider the extent to which the juvenile played a leadership role in an organization, or otherwise influenced other persons to take part in criminal activities, involving the use or distribution of controlled substances or firearms. Such a factor, if found to exist, shall weigh in favor of a transfer to adult status, but the absence of this factor shall not preclude such a transfer.”
+Pub. L. 103–322, § 150002(3), inserted at end of fifth par. “In considering the nature of the offense, as required by this paragraph, the court shall consider the extent to which the juvenile played a leadership role in an organization, or otherwise influenced other persons to take part in criminal activities, involving the use or distribution of controlled substances or firearms. Such a factor, if found to exist, shall weigh in favor of a transfer to adult status, but the absence of this factor shall not preclude such a transfer.”
 
-Pub. L. 103–322, § 140002, substituted “A juvenile shall not be transferred to adult prosecution nor shall a hearing be held under section 5037 (disposition after a finding of juvenile delinquency) until” for “Any proceedings against a juvenile under this chapter or as an adult shall not be commenced until” in tenth par.
+Pub. L. 103–322, § 140002, substituted “A juvenile shall not be transferred to adult prosecution nor shall a hearing be held under section 5037 (disposition after a finding of juvenile delinquency) until” for “Any proceedings against a juvenile under this chapter or as an adult shall not be commenced until” in tenth par.
 
 1990—Pub. L. 101–647 inserted definition of “State” at end of second par., struck out “or the District of Columbia” after “to the authorities of a State” in third par., and substituted “offenses set forth in this paragraph” for “offenses set forth in this subsection” in fourth par.
 
-1988—Pub. L. 100–690, § 6467(a)(1), substituted “section 401 of the Controlled Substances Act (21 U.S.C. 841), or section 1002(a), 1003, 1005, 1009, or 1010(b)(1), (2), or (3) of the Controlled Substances Import and Export Act (21 U.S.C. 952(a), 953, 955, 959, 960(b)(1), (2), (3)), or section 922(p) of this title,” for “section 841, 952(a), 955, or 959 of title 21,” in first par.
+1988—Pub. L. 100–690, § 6467(a)(1), substituted “section 401 of the Controlled Substances Act (21 U.S.C. 841), or section 1002(a), 1003, 1005, 1009, or 1010(b)(1), (2), or (3) of the Controlled Substances Import and Export Act (21 U.S.C. 952(a), 953, 955, 959, 960(b)(1), (2), (3)), or section 922(p) of this title,” for “section 841, 952(a), 955, or 959 of title 21,” in first par.
 
-Pub. L. 100–690, § 6467(a)(2), substituted “section 401 of the Controlled Substances Act (21 U.S.C. 841), or section 1002(a), 1005, or 1009 of the Controlled Substances Import and Export Act (21 U.S.C. 952(a), 955, 959),” for “section 841, 952(a), 955, or 959 of title 21,” and inserted “subsection (b)(1)(A), (B), or (C), (d), or (e) of section 401 of the Controlled Substances Act, or section 1002(a), 1003, 1009, or 1010(b)(1), (2), or (3) of the Controlled Substances Import and Export Act (21 U.S.C. 952(a), 953, 959, 960(b)(1), (2), (3)),” after “2275 of this title,” in fourth par.
+Pub. L. 100–690, § 6467(a)(2), substituted “section 401 of the Controlled Substances Act (21 U.S.C. 841), or section 1002(a), 1005, or 1009 of the Controlled Substances Import and Export Act (21 U.S.C. 952(a), 955, 959),” for “section 841, 952(a), 955, or 959 of title 21,” and inserted “subsection (b)(1)(A), (B), or (C), (d), or (e) of section 401 of the Controlled Substances Act, or section 1002(a), 1003, 1009, or 1010(b)(1), (2), or (3) of the Controlled Substances Import and Export Act (21 U.S.C. 952(a), 953, 959, 960(b)(1), (2), (3)),” after “2275 of this title,” in fourth par.
 
-1984—Pub. L. 98–473, § 1201(a), amended first par. generally, inserting “, other than a violation of law committed within the special maritime and territorial jurisdiction of the United States for which the maximum authorized term of imprisonment does not exceed six months,” before “shall not be proceeded”, inserting “(1)” before “the juvenile court”, striking out “(1)” before “does not have”, inserting “the State” after “(2)”, and inserting “, or (3) the offense charged is a crime of violence that is a felony, or an offense described in section 841, 952(a), 955, or 959 of title 21, and that there is a substantial Federal interest in the case or the offense to warrant the exercise of Federal jurisdiction.”
+1984—Pub. L. 98–473, § 1201(a), amended first par. generally, inserting “, other than a violation of law committed within the special maritime and territorial jurisdiction of the United States for which the maximum authorized term of imprisonment does not exceed six months,” before “shall not be proceeded”, inserting “(1)” before “the juvenile court”, striking out “(1)” before “does not have”, inserting “the State” after “(2)”, and inserting “, or (3) the offense charged is a crime of violence that is a felony, or an offense described in section 841, 952(a), 955, or 959 of title 21, and that there is a substantial Federal interest in the case or the offense to warrant the exercise of Federal jurisdiction.”
 
-Pub. L. 98–473, § 1201(b)(1), which directed the amendment of fourth par. by substituting “that is a crime of violence or an offense described in section 841, 952(a), 955, or 959 of title 21” for “punishable by a maximum penalty of ten years imprisonment or more, life imprisonment or death” was executed by substituting the quoted wording for “punishable by a maximum penalty of ten years imprisonment or more, life imprisonment, or death” as the probable intent of Congress.
+Pub. L. 98–473, § 1201(b)(1), which directed the amendment of fourth par. by substituting “that is a crime of violence or an offense described in section 841, 952(a), 955, or 959 of title 21” for “punishable by a maximum penalty of ten years imprisonment or more, life imprisonment or death” was executed by substituting the quoted wording for “punishable by a maximum penalty of ten years imprisonment or more, life imprisonment, or death” as the probable intent of Congress.
 
-Pub. L. 98–473, § 1201(b)(2), substituted “fifteen” for “sixteen” and “fifteenth” for “sixteenth” in fourth par.
+Pub. L. 98–473, § 1201(b)(2), substituted “fifteen” for “sixteen” and “fifteenth” for “sixteenth” in fourth par.
 
-Pub. L. 98–473, § 1201(b)(3), inserted provision at end of fourth par., relating to transfer of a juvenile who is alleged to have committed certain acts after his sixteenth birthday to the appropriate district court of the United States for criminal prosecution.
+Pub. L. 98–473, § 1201(b)(3), inserted provision at end of fourth par., relating to transfer of a juvenile who is alleged to have committed certain acts after his sixteenth birthday to the appropriate district court of the United States for criminal prosecution.
 
-Pub. L. 98–473, § 1201(c), added three pars. at end of section relating to juveniles not convicted of crimes in district court, reception of prior juveniles court records by the court, and description of the specific act of delinquency for the record.
+Pub. L. 98–473, § 1201(c), added three pars. at end of section relating to juveniles not convicted of crimes in district court, reception of prior juveniles court records by the court, and description of the specific act of delinquency for the record.
 
 1974—Pub. L. 93–415 amended section generally, substituting “Delinquency proceedings in district courts; transfer for criminal prosecution”, for “Proceedings against juvenile delinquent” in section catchline, inserting provisions relating to certification to, and procedures in, district courts, transfer upon motion by Attorney General with respect to a juvenile sixteen years and older, factors considered in transfer, notice of transfer, barring of subsequent criminal or juvenile delinquency proceedings upon entering plea of guilty or upon taking of evidence, and admissibility of statements by a juvenile in subsequent criminal prosecution, and substituting provision relating to consent upon advice of counsel for treatment as an adult, for provision requiring consent for treatment as a juvenile.
 
@@ -139,19 +139,19 @@ Pub. L. 98–473, § 1201(c), added three pars. at end of section relating to 
 
 **Repeals**
 
-Pub. L. 93–415, title V, § 502, Sept. 7, 1974, 88 Stat. 1134, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 502, Sept. 7, 1974, 88 Stat. 1134, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
-## § 5033. Custody prior to appearance before magistrate judge
+## § 5033. Custody prior to appearance before magistrate judge
 
 Whenever a juvenile is taken into custody for an alleged act of juvenile delinquency, the arresting officer shall immediately advise such juvenile of his legal rights, in language comprehensive to a juvenile, and shall immediately notify the Attorney General and the juvenile’s parents, guardian, or custodian of such custody. The arresting officer shall also notify the parents, guardian, or custodian of the rights of the juvenile and of the nature of the alleged offense.
 
 The juvenile shall be taken before a magistrate judge forthwith. In no event shall the juvenile be detained for longer than a reasonable period of time before being brought before a magistrate judge.
 
-(June 25, 1948, ch. 645, 62 Stat. 857; Pub. L. 93–415, title V, § 503, Sept. 7, 1974, 88 Stat. 1135; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 645, 62 Stat. 857; Pub. L. 93–415, title V, § 503, Sept. 7, 1974, 88 Stat. 1135; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 922, 923 (June 16, 1938, ch. 486, §§ 2, 3, 52 Stat. 765).
+Based on title 18, U.S.C., 1940 ed., §§ 922, 923 (June 16, 1938, ch. 486, §§ 2, 3, 52 Stat. 765).
 
 This section consolidates said section 923, and the final sentence of said section 922, of title 18, U.S.C., 1940 ed., with such changes of phraseology as were necessary to effect the consolidation.
 
@@ -173,9 +173,9 @@ Words “magistrate judge” substituted for “magistrate” in catchline and w
 
 **Repeals**
 
-Pub. L. 93–415, title V, § 503, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 503, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
-## § 5034. Duties of magistrate judge
+## § 5034. Duties of magistrate judge
 
 The magistrate judge shall insure that the juvenile is represented by counsel before proceeding with critical stages of the proceedings. Counsel shall be assigned to represent a juvenile when the juvenile and his parents, guardian, or custodian are financially unable to obtain adequate representation. In cases where the juvenile and his parents, guardian, or custodian are financially able to obtain adequate representation but have not retained counsel, the magistrate judge may assign counsel and order the payment of reasonable attorney’s fees or may direct the juvenile, his parents, guardian, or custodian to retain private counsel within a specified period of time.
 
@@ -183,11 +183,11 @@ The magistrate judge may appoint a guardian ad litem if a parent or guardian of 
 
 If the juvenile has not been discharged before his initial appearance before the magistrate judge, the magistrate judge shall release the juvenile to his parents, guardian, custodian, or other responsible party (including, but not limited to, the director of a shelter-care facility) upon their promise to bring such juvenile before the appropriate court when requested by such court unless the magistrate judge determines, after hearing, at which the juvenile is represented by counsel, that the detention of such juvenile is required to secure his timely appearance before the appropriate court or to insure his safety or that of others.
 
-(June 25, 1948, ch. 645, 62 Stat. 858; Pub. L. 87–428, Mar. 31, 1962, 76 Stat. 52; Pub. L. 93–415, title V, § 504, Sept. 7, 1974, 88 Stat. 1135; Pub. L. 100–690, title VII, § 7045, Nov. 18, 1988, 102 Stat. 4400; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 645, 62 Stat. 858; Pub. L. 87–428, Mar. 31, 1962, 76 Stat. 52; Pub. L. 93–415, title V, § 504, Sept. 7, 1974, 88 Stat. 1135; Pub. L. 100–690, title VII, § 7045, Nov. 18, 1988, 102 Stat. 4400; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 924 (June 16, 1938, ch. 486, § 4, 52 Stat. 765).
+Based on title 18, U.S.C., 1940 ed., § 924 (June 16, 1938, ch. 486, § 4, 52 Stat. 765).
 
 The words “foster homes” were inserted to remove any doubt as to the authority to commit to such foster homes in accordance with past and present administrative practice.
 
@@ -213,17 +213,17 @@ Words “magistrate judge” substituted for “magistrate” in catchline and w
 
 **Repeals**
 
-Pub. L. 93–415, title V, § 504, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 504, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
-## § 5035. Detention prior to disposition
+## § 5035. Detention prior to disposition
 
 A juvenile alleged to be delinquent may be detained only in a juvenile facility or such other suitable place as the Attorney General may designate. Whenever possible, detention shall be in a foster home or community based facility located in or near his home community. The Attorney General shall not cause any juvenile alleged to be delinquent to be detained or confined in any institution in which the juvenile has regular contact with adult persons convicted of a crime or awaiting trial on criminal charges. Insofar as possible, alleged delinquents shall be kept separate from adjudicated delinquents. Every juvenile in custody shall be provided with adequate food, heat, light, sanitary facilities, bedding, clothing, recreation, education, and medical care, including necessary psychiatric, psychological, or other care and treatment.
 
-(June 25, 1948, ch. 645, 62 Stat. 858; Pub. L. 93–415, title V, § 505, Sept. 7, 1974, 88 Stat. 1135.)
+(June 25, 1948, ch. 645, 62 Stat. 858; Pub. L. 93–415, title V, § 505, Sept. 7, 1974, 88 Stat. 1135.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 925 (June 16, 1938, ch. 486, § 5, 52, Stat. 765).
+Based on title 18, U.S.C., 1940 ed., § 925 (June 16, 1938, ch. 486, § 5, 52, Stat. 765).
 
 Minor changes were made in arrangement and phraseology.
 
@@ -237,17 +237,17 @@ Minor changes were made in arrangement and phraseology.
 
 **Repeals**
 
-Pub. L. 93–415, title V, § 505, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 505, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
-## § 5036. Speedy trial
+## § 5036. Speedy trial
 
 If an alleged delinquent who is in detention pending trial is not brought to trial within thirty days from the date upon which such detention was begun, the information shall be dismissed on motion of the alleged delinquent or at the direction of the court, unless the Attorney General shows that additional delay was caused by the juvenile or his counsel, or consented to by the juvenile and his counsel, or would be in the interest of justice in the particular case. Delays attributable solely to court calendar congestion may not be considered in the interest of justice. Except in extraordinary circumstances, an information dismissed under this section may not be reinstituted.
 
-(June 25, 1948, ch. 645, 62 Stat. 858; Pub. L. 93–415, title V, § 506, Sept. 7, 1974, 88 Stat. 1136.)
+(June 25, 1948, ch. 645, 62 Stat. 858; Pub. L. 93–415, title V, § 506, Sept. 7, 1974, 88 Stat. 1136.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 926 (June 16, 1938, ch. 486, § 6, 52 Stat. 766).
+Based on title 18, U.S.C., 1940 ed., § 926 (June 16, 1938, ch. 486, § 6, 52 Stat. 766).
 
 The words “foster homes” were inserted to remove any doubt as to the authority to commit to such foster homes in accordance with past and present administrative practice.
 
@@ -261,9 +261,9 @@ The words “foster homes” were inserted to remove any doubt as to the authori
 
 **Repeals**
 
-Pub. L. 93–415, title V, § 506, Sept. 7, 1974, 88 Stat. 1136, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 506, Sept. 7, 1974, 88 Stat. 1136, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
-## § 5037. Dispositional hearing
+## § 5037. Dispositional hearing
 
 **(a)** If the court finds a juvenile to be a juvenile delinquent, the court shall hold a disposition hearing concerning the appropriate disposition no later than twenty court days after the juvenile delinquency hearing unless the court has ordered further study pursuant to subsection (d). After the disposition hearing, and after considering any pertinent policy statements promulgated by the Sentencing Commission pursuant to 28 U.S.C. 994, the court may suspend the findings of juvenile delinquency, place him on probation, or commit him to official detention which may include a term of juvenile delinquent supervision to follow detention. In addition, the court may enter an order of restitution pursuant to section 3556. With respect to release or detention pending an appeal or a petition for a writ of certiorari after disposition, the court shall proceed pursuant to the provisions of chapter 207.
 
@@ -327,7 +327,7 @@ Section 3624 is applicable to an order placing a juvenile under detention.
 
 **(5)** If the juvenile violates a condition of juvenile delinquent supervision at any time prior to the expiration or termination of the term of supervision, the court may, after a dispositional hearing and after considering any pertinent policy statements promulgated by the Sentencing Commission pursuant to section 994 of title 18,1
 
-<sup>1</sup>  So in original. Probably should be “title 28,”.
+<sup>1</sup> So in original. Probably should be “title 28,”.
 
 revoke the term of supervision and order a term of official detention. The term of official detention which is authorized upon revocation of juvenile delinquent supervision shall not exceed the term authorized in section 5037(c)(2)(A) and (B), less any term of official detention previously ordered. The application of sections 5037(c)(2)(A) and (B) shall be determined based upon the age of the juvenile at the time of the disposition of the revocation proceeding. If a juvenile is over the age of 21 years old at the time of the revocation proceeding, the mandatory revocation provisions of section 3565(b) are applicable. A disposition of a juvenile who is over the age of 21 years old shall be in accordance with the provisions of section 5037(c)(2), except that in the case of a juvenile who if convicted as an adult would be convicted of a Class A, B, or C felony, no term of official detention may continue beyond the juvenile’s 26th birthday, and in any other case, no term of official detention may continue beyond the juvenile’s 24th birthday.
 
@@ -335,11 +335,11 @@ revoke the term of supervision and order a term of official detention. The term 
 
 **(e)** If the court desires more detailed information concerning an alleged or adjudicated delinquent, it may commit him, after notice and hearing at which the juvenile is represented by counsel, to the custody of the Attorney General for observation and study by an appropriate agency. Such observation and study shall be conducted on an out-patient basis, unless the court determines that inpatient observation and study are necessary to obtain the desired information. In the case of an alleged juvenile delinquent, inpatient study may be ordered only with the consent of the juvenile and his attorney. The agency shall make a complete study of the alleged or adjudicated delinquent to ascertain his personal traits, his capabilities, his background, any previous delinquency or criminal experience, any mental or physical defect, and any other relevant factors. The Attorney General shall submit to the court and the attorneys for the juvenile and the Government the results of the study within thirty days after the commitment of the juvenile, unless the court grants additional time.
 
-(June 25, 1948, ch. 645, 62 Stat. 858; Pub. L. 93–415, title V, § 507, Sept. 7, 1974, 88 Stat. 1136; Pub. L. 98–473, title II, § 214(a), Oct. 12, 1984, 98 Stat. 2013; Pub. L. 99–646, § 21(a), Nov. 10, 1986, 100 Stat. 3596; Pub. L. 104–294, title VI, § 604(b)(40), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 107–273, div. C, title II, § 12301, Nov. 2, 2002, 116 Stat. 1896.)
+(June 25, 1948, ch. 645, 62 Stat. 858; Pub. L. 93–415, title V, § 507, Sept. 7, 1974, 88 Stat. 1136; Pub. L. 98–473, title II, § 214(a), Oct. 12, 1984, 98 Stat. 2013; Pub. L. 99–646, § 21(a), Nov. 10, 1986, 100 Stat. 3596; Pub. L. 104–294, title VI, § 604(b)(40), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 107–273, div. C, title II, § 12301, Nov. 2, 2002, 116 Stat. 1896.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 927 (June 16, 1938, ch. 486, § 7, 52 Stat. 766).
+Based on title 18, U.S.C., 1940 ed., § 927 (June 16, 1938, ch. 486, § 7, 52 Stat. 766).
 
 Reference to section establishing the Board of Parole was omitted as unnecessary.
 
@@ -349,13 +349,13 @@ Minor changes were made in phraseology.
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–273, § 12301(1), in second sentence, struck out “enter an order of restitution pursuant to section 3556,” after “findings of juvenile delinquency,” and inserted “which may include a term of juvenile delinquent supervision to follow detention” after “official detention”, and inserted after second sentence “In addition, the court may enter an order of restitution pursuant to section 3556.”
+2002—Subsec. (a). Pub. L. 107–273, § 12301(1), in second sentence, struck out “enter an order of restitution pursuant to section 3556,” after “findings of juvenile delinquency,” and inserted “which may include a term of juvenile delinquent supervision to follow detention” after “official detention”, and inserted after second sentence “In addition, the court may enter an order of restitution pursuant to section 3556.”
 
-Subsec. (b). Pub. L. 107–273, § 12301(2), added concluding provisions and struck out former concluding provisions which read as follows: “The provisions dealing with probation set forth in sections 3563, 3564, and 3565 are applicable to an order placing a juvenile on probation.”
+Subsec. (b). Pub. L. 107–273, § 12301(2), added concluding provisions and struck out former concluding provisions which read as follows: “The provisions dealing with probation set forth in sections 3563, 3564, and 3565 are applicable to an order placing a juvenile on probation.”
 
-Subsec. (c)(1)(B), (C). Pub. L. 107–273, § 12301(3), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (c)(1)(B), (C). Pub. L. 107–273, § 12301(3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (c)(2)(A). Pub. L. 107–273, § 12301(4), substituted “the lesser of—
+Subsec. (c)(2)(A). Pub. L. 107–273, § 12301(4), substituted “the lesser of—
 
 “(i) five years; or
 
@@ -363,15 +363,15 @@ Subsec. (c)(2)(A). Pub. L. 107–273, § 12301(4), substituted “the lesser o
 
 for “five years; or”.
 
-Subsec. (c)(2)(B)(ii), (iii). Pub. L. 107–273, § 12301(5), added cl. (ii) and redesignated former cl. (ii) as (iii).
+Subsec. (c)(2)(B)(ii), (iii). Pub. L. 107–273, § 12301(5), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-Subsecs. (d), (e). Pub. L. 107–273, § 12301(6), (7), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 107–273, § 12301(6), (7), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1996—Subsec. (b)(1)(B), (2)(B). Pub. L. 104–294 substituted “section 3561(c)” for “section 3561(b)”.
 
-1986—Subsec. (a). Pub. L. 99–646, § 21(a)(1), substituted “subsection (d)” for “subsection (e)”.
+1986—Subsec. (a). Pub. L. 99–646, § 21(a)(1), substituted “subsection (d)” for “subsection (e)”.
 
-Subsec. (c). Pub. L. 99–646, § 21(a)(2)–(4), struck out “by section 3581(b)” after “would be authorized” in pars. (1)(B) and (2)(B)(ii), and inserted provision that section 3624 is applicable to an order placing a juvenile under detention.
+Subsec. (c). Pub. L. 99–646, § 21(a)(2)–(4), struck out “by section 3581(b)” after “would be authorized” in pars. (1)(B) and (2)(B)(ii), and inserted provision that section 3624 is applicable to an order placing a juvenile under detention.
 
 1984—Pub. L. 98–473 substituted subsecs. (a) to (c) for former subsecs. (a) and (b) and redesignated former subsec. (c) as (d). Prior to amendment, subsecs. (a) and (b) read as follows:
 
@@ -389,7 +389,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–646, § 21(b), Nov. 10, 1986, 100 Stat. 3597, provided that: “The amendments made by this section [amending this section] shall take effect on the date the amendments made by such section 214 [of Pub. L. 98–473] take effect [Nov. 1, 1987].”
+Pub. L. 99–646, § 21(b), Nov. 10, 1986, 100 Stat. 3597, provided that: “The amendments made by this section [amending this section] shall take effect on the date the amendments made by such section 214 [of Pub. L. 98–473] take effect [Nov. 1, 1987].”
 
 **Effective Date of 1984 Amendment**
 
@@ -397,9 +397,9 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 
 **Repeals**
 
-Pub. L. 93–415, title V, § 507, Sept. 7, 1974, 88 Stat. 1136, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 507, Sept. 7, 1974, 88 Stat. 1136, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
-## § 5038. Use of juvenile records
+## § 5038. Use of juvenile records
 
 **(a)** Throughout and upon the completion of the juvenile delinquency proceeding, the records shall be safeguarded from disclosure to unauthorized persons. The records shall be released to the extent necessary to meet the following circumstances:
 
@@ -427,7 +427,7 @@ Unless otherwise authorized by this section, information about the juvenile reco
 
 **(f)** Whenever a juvenile has on two separate occasions been found guilty of committing an act which if committed by an adult would be a felony crime of violence or an offense described in section 401 of the Controlled Substances Act or section 1001(a), 1005, or 1009 of the Controlled Substances Import and Export Act, or whenever a juvenile has been found guilty of committing an act after his 13th birthday which if committed by an adult would be an offense described in the second sentence of the fourth paragraph of section 5032 of this title, the court shall transmit to the Federal Bureau of Investigation the information concerning the adjudications, including name, date of adjudication, court, offenses, and sentence, along with the notation that the matters were juvenile adjudications.
 
-(Added Pub. L. 93–415, title V, § 508, Sept. 7, 1974, 88 Stat. 1137; amended Pub. L. 95–115, § 8(b), Oct. 3, 1977, 91 Stat. 1060; Pub. L. 98–473, title II, § 1202, Oct. 12, 1984, 98 Stat. 2150; Pub. L. 103–322, title XIV, § 140005, Sept. 13, 1994, 108 Stat. 2032; Pub. L. 104–294, title VI, § 601(f)(16), (*o*), Oct. 11, 1996, 110 Stat. 3500, 3502.)
+(Added Pub. L. 93–415, title V, § 508, Sept. 7, 1974, 88 Stat. 1137; amended Pub. L. 95–115, § 8(b), Oct. 3, 1977, 91 Stat. 1060; Pub. L. 98–473, title II, § 1202, Oct. 12, 1984, 98 Stat. 2150; Pub. L. 103–322, title XIV, § 140005, Sept. 13, 1994, 108 Stat. 2032; Pub. L. 104–294, title VI, § 601(f)(16), (*o*), Oct. 11, 1996, 110 Stat. 3500, 3502.)
 
 **Editorial Notes**
 
@@ -439,7 +439,7 @@ Sections 1001(a), 1005, or 1009 of the Controlled Substances Import and Export A
 
 **Amendments**
 
-1996—Subsec. (d). Pub. L. 104–294, § 601(f)(16), substituted “section 401 of the Controlled Substances Act or section 1001(a), 1005, or 1009 of the Controlled Substances Import and Export Act” for “section 841, 952(a), 955, or 959 of title 21”.
+1996—Subsec. (d). Pub. L. 104–294, § 601(f)(16), substituted “section 401 of the Controlled Substances Act or section 1001(a), 1005, or 1009 of the Controlled Substances Import and Export Act” for “section 841, 952(a), 955, or 959 of title 21”.
 
 Subsec. (f). Pub. L. 104–294 substituted “section 401 of the Controlled Substances Act or section 1001(a), 1005, or 1009 of the Controlled Substances Import and Export Act” for “section 841, 952(a), 955, or 959 of title 21”, “juvenile has been found guilty” for “juvenille has been found guilty”, and “the Federal Bureau of Investigation” for “the Federal Bureau of Investigation, Identification Division,”.
 
@@ -457,9 +457,9 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 
 **Repeals**
 
-Pub. L. 93–415, title V, § 508, Sept. 7, 1974, 88 Stat. 1137, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 508, Sept. 7, 1974, 88 Stat. 1137, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
-## § 5039. Commitment
+## § 5039. Commitment
 
 No juvenile committed, whether pursuant to an adjudication of delinquency or conviction for an offense, to the custody of the Attorney General may be placed or retained in an adult jail or correctional institution in which he has regular contact with adults incarcerated because they have been convicted of a crime or are awaiting trial on criminal charges.
 
@@ -467,35 +467,35 @@ Every juvenile who has been committed shall be provided with adequate food, heat
 
 Whenever possible, the Attorney General shall commit a juvenile to a foster home or community-based facility located in or near his home community.
 
-(Added Pub. L. 93–415, title V, § 509, Sept. 7, 1974, 88 Stat. 1138; amended Pub. L. 103–322, title XIV, § 140003, Sept. 13, 1994, 108 Stat. 2032.)
+(Added Pub. L. 93–415, title V, § 509, Sept. 7, 1974, 88 Stat. 1138; amended Pub. L. 103–322, title XIV, § 140003, Sept. 13, 1994, 108 Stat. 2032.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Pub. L. 103–322 inserted “, whether pursuant to an adjudication of delinquency or conviction for an offense,” after “committed” in first par.
+1994—Pub. L. 103–322 inserted “, whether pursuant to an adjudication of delinquency or conviction for an offense,” after “committed” in first par.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Repeals**
 
-Pub. L. 93–415, title V, § 509, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 509, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
-## § 5040. Support
+## § 5040. Support
 
 The Attorney General may contract with any public or private agency or individual and such community-based facilities as halfway houses and foster homes for the observation and study and the custody and care of juveniles in his custody. For these purposes, the Attorney General may promulgate such regulations as are necessary and may use the appropriation for “support of United States prisoners” or such other appropriations as he may designate.
 
-(Added Pub. L. 93–415, title V, § 510, Sept. 7, 1974, 88 Stat. 1138.)
+(Added Pub. L. 93–415, title V, § 510, Sept. 7, 1974, 88 Stat. 1138.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Repeals**
 
-Pub. L. 93–415, title V, § 510, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 510, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
-## [§ 5041. Repealed. Pub. L. 98–473, title II, § 214(b), Oct. 12, 1984, 98 Stat. 2014]
+## [§ 5041. Repealed. Pub. L. 98–473, title II, § 214(b), Oct. 12, 1984, 98 Stat. 2014]
 
-Section, added Pub. L. 93–415, title V, § 511, Sept. 7, 1974, 88 Stat. 1138; amended Pub. L. 94–233, § 11, Mar. 15, 1976, 90 Stat. 233, related to parole for juvenile delinquents.
+Section, added Pub. L. 93–415, title V, § 511, Sept. 7, 1974, 88 Stat. 1138; amended Pub. L. 94–233, § 11, Mar. 15, 1976, 90 Stat. 233, related to parole for juvenile delinquents.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -503,11 +503,11 @@ Section, added Pub. L. 93–415, title V, § 511, Sept. 7, 1974, 88 Stat. 1138
 
 Repeal effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, with section to remain in effect for five years as to an individual who committed an offense or an act of juvenile delinquency before Nov. 1, 1987, and as to a term of imprisonment during the period described in section 235(a)(1)(B) of Pub. L. 98–473, see section 235(a)(1), (b)(1)(D) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-## § 5042. Revocation of probation
+## § 5042. Revocation of probation
 
 Any juvenile probationer shall be accorded notice and a hearing with counsel before his probation can be revoked.
 
-(Added Pub. L. 93–415, title V, § 512, Sept. 7, 1974, 88 Stat. 1138; amended Pub. L. 98–473, title II, § 214(c), Oct. 12, 1984, 98 Stat. 2014.)
+(Added Pub. L. 93–415, title V, § 512, Sept. 7, 1974, 88 Stat. 1138; amended Pub. L. 98–473, title II, § 214(c), Oct. 12, 1984, 98 Stat. 2014.)
 
 **Editorial Notes**
 
@@ -523,9 +523,9 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 
 **Repeals**
 
-Pub. L. 93–415, title V, § 512, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, § 512, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
-## § 5043. Juvenile solitary confinement
+## § 5043. Juvenile solitary confinement
 
 **(a) Definitions.—** In this section—
 
@@ -589,4 +589,4 @@ Pub. L. 93–415, title V, § 512, Sept. 7, 1974, 88 Stat. 1138, cited as a cr
 
 **(D) Spirit and purpose.—** The use of consecutive periods of room confinement to evade the spirit and purpose of this subsection shall be prohibited.
 
-(Added Pub. L. 115–391, title VI, § 613(a), Dec. 21, 2018, 132 Stat. 5247.)
+(Added Pub. L. 115–391, title VI, § 613(a), Dec. 21, 2018, 132 Stat. 5247.)

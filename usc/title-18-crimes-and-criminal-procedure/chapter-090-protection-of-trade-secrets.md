@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2016—Pub. L. 114–153, § 2(d)(2), May 11, 2016, 130 Stat. 381, substituted “Civil proceedings” for “Civil proceedings to enjoin violations” in item 1836.
+2016—Pub. L. 114–153, § 2(d)(2), May 11, 2016, 130 Stat. 381, substituted “Civil proceedings” for “Civil proceedings to enjoin violations” in item 1836.
 
-2002—Pub. L. 107–273, div. B, title IV, § 4002(f)(1), Nov. 2, 2002, 116 Stat. 1811, substituted “Applicability to conduct” for “Conduct” in item 1837.
+2002—Pub. L. 107–273, div. B, title IV, § 4002(f)(1), Nov. 2, 2002, 116 Stat. 1811, substituted “Applicability to conduct” for “Conduct” in item 1837.
 
-## § 1831. Economic espionage
+## § 1831. Economic espionage
 
 **(a) In General.—** Whoever, intending or knowing that the offense will benefit any foreign government, foreign instrumentality, or foreign agent, knowingly—
 
@@ -41,17 +41,17 @@ shall, except as provided in subsection (b), be fined not more than $5,000,000 o
 
 **(b) Organizations.—** Any organization that commits any offense described in subsection (a) shall be fined not more than the greater of $10,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided.
 
-(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3488; amended Pub. L. 112–269, § 2, Jan. 14, 2013, 126 Stat. 2442.)
+(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3488; amended Pub. L. 112–269, § 2, Jan. 14, 2013, 126 Stat. 2442.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Subsec. (a). Pub. L. 112–269, § 2(a), substituted “not more than $5,000,000” for “not more than $500,000” in concluding provisions.
+2013—Subsec. (a). Pub. L. 112–269, § 2(a), substituted “not more than $5,000,000” for “not more than $500,000” in concluding provisions.
 
-Subsec. (b). Pub. L. 112–269, § 2(b), substituted “not more than the greater of $10,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided” for “not more than $10,000,000”.
+Subsec. (b). Pub. L. 112–269, § 2(b), substituted “not more than the greater of $10,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided” for “not more than $10,000,000”.
 
-## § 1832. Theft of trade secrets
+## § 1832. Theft of trade secrets
 
 **(a)** Whoever, with intent to convert a trade secret, that is related to a product or service used in or intended for use in interstate or foreign commerce, to the economic benefit of anyone other than the owner thereof, and intending or knowing that the offense will, injure any owner of that trade secret, knowingly—
 
@@ -69,7 +69,7 @@ shall, except as provided in subsection (b), be fined under this title or impris
 
 **(b)** Any organization that commits any offense described in subsection (a) shall be fined not more than the greater of $5,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided.
 
-(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3489; amended Pub. L. 112–236, § 2, Dec. 28, 2012, 126 Stat. 1627; Pub. L. 114–153, § 3(a)(1), May 11, 2016, 130 Stat. 382.)
+(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3489; amended Pub. L. 112–236, § 2, Dec. 28, 2012, 126 Stat. 1627; Pub. L. 114–153, § 3(a)(1), May 11, 2016, 130 Stat. 382.)
 
 **Editorial Notes**
 
@@ -83,9 +83,9 @@ shall, except as provided in subsection (b), be fined under this title or impris
 
 **Report on Theft of Trade Secrets Occurring Abroad**
 
-Pub. L. 114–153, § 4, May 11, 2016, 130 Stat. 382, which requires biannual reports on the theft of trade secrets of United States companies occurring outside of the United States, was editorially reclassified as section 41310 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 114–153, § 4, May 11, 2016, 130 Stat. 382, which requires biannual reports on the theft of trade secrets of United States companies occurring outside of the United States, was editorially reclassified as section 41310 of Title 34, Crime Control and Law Enforcement.
 
-## § 1833. Exceptions to prohibitions
+## § 1833. Exceptions to prohibitions
 
 **(a) In General.—** This chapter does not prohibit or create a private right of action for—
 
@@ -125,7 +125,7 @@ Pub. L. 114–153, § 4, May 11, 2016, 130 Stat. 382, which requires biannual 
 
 **(5) Rule of construction.—** Except as expressly provided for under this subsection, nothing in this subsection shall be construed to authorize, or limit liability for, an act that is otherwise prohibited by law, such as the unlawful access of material by unauthorized means.
 
-(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3489; amended Pub. L. 114–153, §§ 2(c), 7(a), May 11, 2016, 130 Stat. 381, 384.)
+(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3489; amended Pub. L. 114–153, §§ 2(c), 7(a), May 11, 2016, 130 Stat. 381, 384.)
 
 **Editorial Notes**
 
@@ -135,31 +135,31 @@ The date of enactment of this subsection, referred to in subsec. (b)(3)(D), is t
 
 **Amendments**
 
-2016—Pub. L. 114–153, § 7(a)(1), (3), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+2016—Pub. L. 114–153, § 7(a)(1), (3), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Pub. L. 114–153, § 2(c), inserted “or create a private right of action for” after “prohibit” in introductory provisions.
+Pub. L. 114–153, § 2(c), inserted “or create a private right of action for” after “prohibit” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 114–153, § 7(a)(2), substituted “the disclosure of a trade secret in accordance with subsection (b)” for “the reporting of a suspected violation of law to any governmental entity of the United States, a State, or a political subdivision of a State, if such entity has lawful authority with respect to that violation”.
+Subsec. (a)(2). Pub. L. 114–153, § 7(a)(2), substituted “the disclosure of a trade secret in accordance with subsection (b)” for “the reporting of a suspected violation of law to any governmental entity of the United States, a State, or a political subdivision of a State, if such entity has lawful authority with respect to that violation”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–153, § 2(e), May 11, 2016, 130 Stat. 381, provided that: “The amendments made by this section [amending this section and sections 1836 and 1839 of this title] shall apply with respect to any misappropriation of a trade secret (as defined in section 1839 of title 18, United States Code, as amended by this section) for which any act occurs on or after the date of the enactment of this Act [May 11, 2016].”
+Pub. L. 114–153, § 2(e), May 11, 2016, 130 Stat. 381, provided that: “The amendments made by this section [amending this section and sections 1836 and 1839 of this title] shall apply with respect to any misappropriation of a trade secret (as defined in section 1839 of title 18, United States Code, as amended by this section) for which any act occurs on or after the date of the enactment of this Act [May 11, 2016].”
 
 **Construction of 2016 Amendment**
 
-Pub. L. 114–153, § 2(f), May 11, 2016, 130 Stat. 382, provided that: “Nothing in the amendments made by this section [amending this section and sections 1836 and 1839 of this title] shall be construed to modify the rule of construction under section 1838 of title 18, United States Code, or to preempt any other provision of law.”
+Pub. L. 114–153, § 2(f), May 11, 2016, 130 Stat. 382, provided that: “Nothing in the amendments made by this section [amending this section and sections 1836 and 1839 of this title] shall be construed to modify the rule of construction under section 1838 of title 18, United States Code, or to preempt any other provision of law.”
 
 **Applicability of Section 2 of Pub. L. 114–153 to Other Laws**
 
-Pub. L. 114–153, § 2(g), May 11, 2016, 130 Stat. 382, provided that: “This section [amending this section and sections 1836 and 1839 of this title and enacting provisions set out as notes under this section] and the amendments made by this section shall not be construed to be a law pertaining to intellectual property for purposes of any other Act of Congress.”
+Pub. L. 114–153, § 2(g), May 11, 2016, 130 Stat. 382, provided that: “This section [amending this section and sections 1836 and 1839 of this title and enacting provisions set out as notes under this section] and the amendments made by this section shall not be construed to be a law pertaining to intellectual property for purposes of any other Act of Congress.”
 
-## § 1834. Criminal forfeiture
+## § 1834. Criminal forfeiture
 
 Forfeiture, destruction, and restitution relating to this chapter shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
 
-(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3489; amended Pub. L. 110–403, title II, § 207, Oct. 13, 2008, 122 Stat. 4263.)
+(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3489; amended Pub. L. 110–403, title II, § 207, Oct. 13, 2008, 122 Stat. 4263.)
 
 **Editorial Notes**
 
@@ -167,13 +167,13 @@ Forfeiture, destruction, and restitution relating to this chapter shall be subje
 
 2008—Pub. L. 110–403 amended section generally. Prior to amendment, section related to forfeiture of property either derived from or used to commit a violation of this chapter.
 
-## § 1835. Orders to preserve confidentiality
+## § 1835. Orders to preserve confidentiality
 
 **(a) In General.—** In any prosecution or other proceeding under this chapter, the court shall enter such orders and take such other action as may be necessary and appropriate to preserve the confidentiality of trade secrets, consistent with the requirements of the Federal Rules of Criminal and Civil Procedure, the Federal Rules of Evidence, and all other applicable laws. An interlocutory appeal by the United States shall lie from a decision or order of a district court authorizing or directing the disclosure of any trade secret.
 
 **(b) Rights of Trade Secret Owners.—** The court may not authorize or direct the disclosure of any information the owner asserts to be a trade secret unless the court allows the owner the opportunity to file a submission under seal that describes the interest of the owner in keeping the information confidential. No submission under seal made under this subsection may be used in a prosecution under this chapter for any purpose other than those set forth in this section, or otherwise required by law. The provision of information relating to a trade secret to the United States or the court in connection with a prosecution under this chapter shall not constitute a waiver of trade secret protection, and the disclosure of information relating to a trade secret in connection with a prosecution under this chapter shall not constitute a waiver of trade secret protection unless the trade secret owner expressly consents to such waiver.
 
-(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3490; amended Pub. L. 114–153, § 3(a)(2), May 11, 2016, 130 Stat. 382.)
+(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3490; amended Pub. L. 114–153, § 3(a)(2), May 11, 2016, 130 Stat. 382.)
 
 **Editorial Notes**
 
@@ -189,7 +189,7 @@ The Federal Rules of Evidence, referred to in subsec. (a), are set out in the Ap
 
 2016—Pub. L. 114–153 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-## § 1836. Civil proceedings
+## § 1836. Civil proceedings
 
 **(a)** The Attorney General may, in a civil action, obtain appropriate injunctive relief against any violation of this chapter.
 
@@ -315,7 +315,7 @@ The Federal Rules of Evidence, referred to in subsec. (a), are set out in the Ap
 
 **(d) Period of Limitations.—** A civil action under subsection (b) may not be commenced later than 3 years after the date on which the misappropriation with respect to which the action would relate is discovered or by the exercise of reasonable diligence should have been discovered. For purposes of this subsection, a continuing misappropriation constitutes a single claim of misappropriation.
 
-(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3490; amended Pub. L. 107–273, div. B, title IV, § 4002(e)(9), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 114–153, § 2(a), (d)(1), May 11, 2016, 130 Stat. 376, 381.)
+(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3490; amended Pub. L. 107–273, div. B, title IV, § 4002(e)(9), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 114–153, § 2(a), (d)(1), May 11, 2016, 130 Stat. 376, 381.)
 
 **Editorial Notes**
 
@@ -325,13 +325,13 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b)(2)(A)(ii)(I), (
 
 **Amendments**
 
-2016—Pub. L. 114–153, § 2(d)(1), substituted “Civil proceedings” for “Civil proceedings to enjoin violations” in section catchline.
+2016—Pub. L. 114–153, § 2(d)(1), substituted “Civil proceedings” for “Civil proceedings to enjoin violations” in section catchline.
 
-Subsecs. (b) to (d). Pub. L. 114–153, § 2(a), added subsecs. (b) to (d) and struck out former subsec. (b) which read as follows: “The district courts of the United States shall have exclusive original jurisdiction of civil actions under this section.”
+Subsecs. (b) to (d). Pub. L. 114–153, § 2(a), added subsecs. (b) to (d) and struck out former subsec. (b) which read as follows: “The district courts of the United States shall have exclusive original jurisdiction of civil actions under this section.”
 
-2002—Subsec. (a). Pub. L. 107–273, § 4002(e)(9)(A), substituted “this chapter” for “this section”.
+2002—Subsec. (a). Pub. L. 107–273, § 4002(e)(9)(A), substituted “this chapter” for “this section”.
 
-Subsec. (b). Pub. L. 107–273, § 4002(e)(9)(B), substituted “this section” for “this subsection”.
+Subsec. (b). Pub. L. 107–273, § 4002(e)(9)(B), substituted “this section” for “this subsection”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -339,7 +339,7 @@ Subsec. (b). Pub. L. 107–273, § 4002(e)(9)(B), substituted “this section�
 
 Amendment by Pub. L. 114–153 applicable with respect to any misappropriation of a trade secret (as defined in section 1839 of this title) for which any act occurs on or after May 11, 2016, see section 2(e) of Pub. L. 114–153, set out as a note under section 1833 of this title.
 
-## § 1837. Applicability to conduct outside the United States
+## § 1837. Applicability to conduct outside the United States
 
 This chapter also applies to conduct occurring outside the United States if—
 
@@ -347,13 +347,13 @@ This chapter also applies to conduct occurring outside the United States if—
 
 **(2)** an act in furtherance of the offense was committed in the United States.
 
-(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3490.)
+(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3490.)
 
-## § 1838. Construction with other laws
+## § 1838. Construction with other laws
 
 Except as provided in section 1833(b), this chapter shall not be construed to preempt or displace any other remedies, whether civil or criminal, provided by United States Federal, State, commonwealth, possession, or territory law for the misappropriation of a trade secret, or to affect the otherwise lawful disclosure of information by any Government employee under section 552 of title 5 (commonly known as the Freedom of Information Act).
 
-(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3490; amended Pub. L. 114–153, § 7(b), May 11, 2016, 130 Stat. 385.)
+(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3490; amended Pub. L. 114–153, § 7(b), May 11, 2016, 130 Stat. 385.)
 
 **Editorial Notes**
 
@@ -361,7 +361,7 @@ Except as provided in section 1833(b), this chapter shall not be construed to pr
 
 2016—Pub. L. 114–153 substituted “Except as provided in section 1833(b), this chapter” for “This chapter”.
 
-## § 1839. Definitions
+## § 1839. Definitions
 
 As used in this chapter—
 
@@ -405,25 +405,25 @@ As used in this chapter—
 
 **(B)** does not include reverse engineering, independent derivation, or any other lawful means of acquisition; and
 
-**(7)** the term “Trademark Act of 1946” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes 1
+**(7)** the term “Trademark Act of 1946” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes 1
 
-<sup>1</sup>  So in original. The closing quotation marks probably should follow “purposes” instead of “ ‘Lanham Act’)”.
+<sup>1</sup> So in original. The closing quotation marks probably should follow “purposes” instead of “ ‘Lanham Act’)”.
 
-, approved July 5, 1946 (15 U.S.C. 1051 et seq.) (commonly referred to as the ‘Trademark Act of 1946’ or the ‘Lanham Act’)” 1.
+, approved July 5, 1946 (15 U.S.C. 1051 et seq.) (commonly referred to as the ‘Trademark Act of 1946’ or the ‘Lanham Act’)” 1.
 
-(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3490; amended Pub. L. 114–153, § 2(b), May 11, 2016, 130 Stat. 380.)
+(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3490; amended Pub. L. 114–153, § 2(b), May 11, 2016, 130 Stat. 380.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trademark Act of 1946, referred to in par. (7), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
+The Trademark Act of 1946, referred to in par. (7), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
 
 **Amendments**
 
-2016—Par. (3)(B). Pub. L. 114–153, § 2(b)(1)(A), substituted “another person who can obtain economic value from the disclosure or use of the information” for “the public”.
+2016—Par. (3)(B). Pub. L. 114–153, § 2(b)(1)(A), substituted “another person who can obtain economic value from the disclosure or use of the information” for “the public”.
 
-Pars. (5) to (7). Pub. L. 114–153, § 2(b)(1)(B)–(3), added pars. (5) to (7).
+Pars. (5) to (7). Pub. L. 114–153, § 2(b)(1)(B)–(3), added pars. (5) to (7).
 
 **Statutory Notes and Related Subsidiaries**
 

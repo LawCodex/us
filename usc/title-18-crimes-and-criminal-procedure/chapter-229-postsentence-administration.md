@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 229 (§ 3611 et seq.) was repealed (except sections 3611, 3612, 3615, 3617 to 3620 which were renumbered sections 3665 to 3671, respectively), by Pub. L. 98–473, title II, §§ 212(a)(1), (2), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2031, as amended, effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal. See Effective Date note set out under section 3551 of this title.
+A prior chapter 229 (§ 3611 et seq.) was repealed (except sections 3611, 3612, 3615, 3617 to 3620 which were renumbered sections 3665 to 3671, respectively), by Pub. L. 98–473, title II, §§ 212(a)(1), (2), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2031, as amended, effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal. See Effective Date note set out under section 3551 of this title.
 
 Section 3611 renumbered section 3665 of this title.
 
@@ -31,7 +31,7 @@ Section 3614, act June 25, 1948, ch. 645, 62 Stat. 840, related to fine for sedu
 
 Section 3615 renumbered section 3667 of this title.
 
-Section 3616, act June 25, 1948, ch. 645, 62 Stat. 840, authorized use of confiscated vehicles by narcotics agents and payment of costs of acquisition, maintenance, repair, and operation thereof, prior to repeal by Pub. L. 91–513, title III, § 1101(b)(2)(A), Oct. 27, 1970, 84 Stat. 1292.
+Section 3616, act June 25, 1948, ch. 645, 62 Stat. 840, authorized use of confiscated vehicles by narcotics agents and payment of costs of acquisition, maintenance, repair, and operation thereof, prior to repeal by Pub. L. 91–513, title III, § 1101(b)(2)(A), Oct. 27, 1970, 84 Stat. 1292.
 
 Section 3617 renumbered section 3668 of this title.
 
@@ -41,17 +41,17 @@ Section 3619 renumbered section 3670 of this title.
 
 Section 3620 renumbered section 3671 of this title.
 
-Section 3621, added Pub. L. 98–596, § 6(a), Oct. 30, 1984, 98 Stat. 3136, related to criminal default on fine.
+Section 3621, added Pub. L. 98–596, § 6(a), Oct. 30, 1984, 98 Stat. 3136, related to criminal default on fine.
 
-Section 3622, added Pub. L. 98–596, § 6(a), Oct. 30, 1984, 98 Stat. 3136, related to factors relating to imposition of fines.
+Section 3622, added Pub. L. 98–596, § 6(a), Oct. 30, 1984, 98 Stat. 3136, related to factors relating to imposition of fines.
 
-Section 3623, added Pub. L. 98–596, § 6(a), Oct. 30, 1984, 98 Stat. 3137, related to alternative fines.
+Section 3623, added Pub. L. 98–596, § 6(a), Oct. 30, 1984, 98 Stat. 3137, related to alternative fines.
 
-Section 3624, added Pub. L. 98–596, § 6(a), Oct. 30, 1984, 98 Stat. 3138, related to security for stayed fine.
+Section 3624, added Pub. L. 98–596, § 6(a), Oct. 30, 1984, 98 Stat. 3138, related to security for stayed fine.
 
 **Amendments**
 
-2018—Pub. L. 115–391, title I, § 101(b), Dec. 21, 2018, 132 Stat. 5208, added item for subchapter D.
+2018—Pub. L. 115–391, title I, § 101(b), Dec. 21, 2018, 132 Stat. 5208, added item for subchapter D.
 
 ## SUBCHAPTER A—PROBATION
 
@@ -59,15 +59,15 @@ Section 3624, added Pub. L. 98–596, § 6(a), Oct. 30, 1984, 98 Stat. 3138, r
 
 **Amendments**
 
-1994—Pub. L. 103–322, title II, § 20414(a)(2), title XXXIII, § 330010(3), Sept. 13, 1994, 108 Stat. 1830, 2143, transferred analysis of this subchapter to follow heading for this subchapter and added item 3608.
+1994—Pub. L. 103–322, title II, § 20414(a)(2), title XXXIII, § 330010(3), Sept. 13, 1994, 108 Stat. 1830, 2143, transferred analysis of this subchapter to follow heading for this subchapter and added item 3608.
 
-1990—Pub. L. 101–647, title XXXV, § 3590, Nov. 29, 1990, 104 Stat. 4930, substituted “possessors” for “possessor” in item 3607.
+1990—Pub. L. 101–647, title XXXV, § 3590, Nov. 29, 1990, 104 Stat. 4930, substituted “possessors” for “possessor” in item 3607.
 
-### § 3601. Supervision of probation
+### § 3601. Supervision of probation
 
 A person who has been sentenced to probation pursuant to the provisions of subchapter B of chapter 227, or placed on probation pursuant to the provisions of chapter 403, or placed on supervised release pursuant to the provisions of section 3583, shall, during the term imposed, be supervised by a probation officer to the degree warranted by the conditions specified by the sentencing court.
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2001.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2001.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -77,11 +77,11 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 801], Apr. 26, 1996, 110 Stat. 1321, 1321–66; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided that: “This title [enacting sections 1915A and 1932 of Title 28, Judiciary and Judicial Procedure, amending sections 3624 and 3626 of this title, section 523 of Title 11, Bankruptcy, sections 1346 and 1915 of Title 28, and sections 1997a to 1997c, 1997e, 1997f, and 1997h of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 3626 of this title, and repealing provisions set out as a note under section 3626 of this title] may be cited as the ‘Prison Litigation Reform Act of 1995’.”
+Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 801], Apr. 26, 1996, 110 Stat. 1321, 1321–66; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided that: “This title [enacting sections 1915A and 1932 of Title 28, Judiciary and Judicial Procedure, amending sections 3624 and 3626 of this title, section 523 of Title 11, Bankruptcy, sections 1346 and 1915 of Title 28, and sections 1997a to 1997c, 1997e, 1997f, and 1997h of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 3626 of this title, and repealing provisions set out as a note under section 3626 of this title] may be cited as the ‘Prison Litigation Reform Act of 1995’.”
 
 **Post Incarceration Vocational and Remedial Educational Opportunities for Inmates**
 
-Pub. L. 107–273, div. B, title II, § 2411, Nov. 2, 2002, 116 Stat. 1799, provided that:
+Pub. L. 107–273, div. B, title II, § 2411, Nov. 2, 2002, 116 Stat. 1799, provided that:
 
 > **“(a) Federal Reentry Center Demonstration.—**
 
@@ -131,7 +131,7 @@ Pub. L. 107–273, div. B, title II, § 2411, Nov. 2, 2002, 116 Stat. 1799, pr
 
 > **“(E)** $4,100,000 for fiscal year 2007.”
 
-### § 3602. Appointment of probation officers
+### § 3602. Appointment of probation officers
 
 **(a) Appointment.—** A district court of the United States shall appoint qualified persons to serve, with or without compensation, as probation officers within the jurisdiction and under the direction of the court making the appointment. A person appointed as a probation officer in one district may serve in another district with the consent of the appointing court and the court in the other district. The appointing court may, for cause, remove a probation officer appointed to serve with compensation, and may, in its discretion, remove a probation officer appointed to serve without compensation.
 
@@ -139,7 +139,7 @@ Pub. L. 107–273, div. B, title II, § 2411, Nov. 2, 2002, 116 Stat. 1799, pr
 
 **(c) Chief Probation Officer.—** If the court appoints more than one probation officer, one may be designated by the court as chief probation officer and shall direct the work of all probation officers serving in the judicial district.
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2001; amended Pub. L. 114–113, div. E, title III, § 307, Dec. 18, 2015, 129 Stat. 2443.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2001; amended Pub. L. 114–113, div. E, title III, § 307, Dec. 18, 2015, 129 Stat. 2443.)
 
 **Editorial Notes**
 
@@ -153,7 +153,7 @@ Pub. L. 107–273, div. B, title II, § 2411, Nov. 2, 2002, 116 Stat. 1799, pr
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-### § 3603. Duties of probation officers
+### § 3603. Duties of probation officers
 
 A probation officer shall—
 
@@ -181,13 +181,13 @@ A probation officer shall—
 
 **(10)** perform any other duty that the court may designate.
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2002; amended Pub. L. 99–646, § 15(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 102–572, title VII, § 701(a), Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–317, title I, § 101(a), Oct. 19, 1996, 110 Stat. 3848; Pub. L. 115–391, title VI, § 609(a), Dec. 21, 2018, 132 Stat. 5245.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2002; amended Pub. L. 99–646, § 15(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 102–572, title VII, § 701(a), Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–317, title I, § 101(a), Oct. 19, 1996, 110 Stat. 3848; Pub. L. 115–391, title VI, § 609(a), Dec. 21, 2018, 132 Stat. 5245.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Par. (8)(A). Pub. L. 115–391 substituted “, 4246, or 4248” for “or 4246”.
+2018—Par. (8)(A). Pub. L. 115–391 substituted “, 4246, or 4248” for “or 4246”.
 
 1996—Pars. (9), (10). Pub. L. 104–317 added par. (9) and redesignated former par. (9) as (10).
 
@@ -203,13 +203,13 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101 of Pub. 
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–646, § 15(b), Nov. 10, 1986, 100 Stat. 3595, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the taking effect of section 3603 of title 18, United States Code [Nov. 1, 1987].”
+Pub. L. 99–646, § 15(b), Nov. 10, 1986, 100 Stat. 3595, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the taking effect of section 3603 of title 18, United States Code [Nov. 1, 1987].”
 
 **Effective Date**
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-### § 3604. Transportation of a probationer
+### § 3604. Transportation of a probationer
 
 A court, after imposing a sentence of probation, may direct a United States marshal to furnish the probationer with—
 
@@ -217,7 +217,7 @@ A court, after imposing a sentence of probation, may direct a United States mars
 
 **(b)** money, not to exceed such amount as the Attorney General may prescribe, for subsistence expenses while traveling to his destination.
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2002.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2002.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -225,11 +225,11 @@ A court, after imposing a sentence of probation, may direct a United States mars
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-### § 3605. Transfer of jurisdiction over a probationer
+### § 3605. Transfer of jurisdiction over a probationer
 
 A court, after imposing a sentence, may transfer jurisdiction over a probationer or person on supervised release to the district court for any other district to which the person is required to proceed as a condition of his probation or release, or is permitted to proceed, with the concurrence of such court. A later transfer of jurisdiction may be made in the same manner. A court to which jurisdiction is transferred under this section is authorized to exercise all powers over the probationer or releasee that are permitted by this subchapter or subchapter B or D of chapter 227.
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2003.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2003.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -237,11 +237,11 @@ A court, after imposing a sentence, may transfer jurisdiction over a probationer
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-### § 3606. Arrest and return of a probationer
+### § 3606. Arrest and return of a probationer
 
 If there is probable cause to believe that a probationer or a person on supervised release has violated a condition of his probation or release, he may be arrested, and, upon arrest, shall be taken without unnecessary delay before the court having jurisdiction over him. A probation officer may make such an arrest wherever the probationer or releasee is found, and may make the arrest without a warrant. The court having supervision of the probationer or releasee, or, if there is no such court, the court last having supervision of the probationer or releasee, may issue a warrant for the arrest of a probationer or releasee for violation of a condition of release, and a probation officer or United States marshal may execute the warrant in the district in which the warrant was issued or in any district in which the probationer or releasee is found.
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2003.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2003.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -249,7 +249,7 @@ If there is probable cause to believe that a probationer or a person on supervis
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-### § 3607. Special probation and expungement procedures for drug possessors
+### § 3607. Special probation and expungement procedures for drug possessors
 
 **(a) Pre-judgment Probation.—** If a person found guilty of an offense described in section 404 of the Controlled Substances Act (21 U.S.C. 844)—
 
@@ -263,7 +263,7 @@ the court may, with the consent of such person, place him on probation for a ter
 
 **(c) Expungement of Record of Disposition.—** If the case against a person found guilty of an offense under section 404 of the Controlled Substances Act (21 U.S.C. 844) is the subject of a disposition under subsection (a), and the person was less than twenty-one years old at the time of the offense, the court shall enter an expungement order upon the application of such person. The expungement order shall direct that there be expunged from all official records, except the nonpublic records referred to in subsection (b), all references to his arrest for the offense, the institution of criminal proceedings against him, and the results thereof. The effect of the order shall be to restore such person, in the contemplation of the law, to the status he occupied before such arrest or institution of criminal proceedings. A person concerning whom such an order has been entered shall not be held thereafter under any provision of law to be guilty of perjury, false swearing, or making a false statement by reason of his failure to recite or acknowledge such arrests or institution of criminal proceedings, or the results thereof, in response to an inquiry made of him for any purpose.
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2003.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2003.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -271,19 +271,19 @@ the court may, with the consent of such person, place him on probation for a ter
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-### § 3608. Drug testing of Federal offenders on post-conviction release
+### § 3608. Drug testing of Federal offenders on post-conviction release
 
 The Director of the Administrative Office of the United States Courts, in consultation with the Attorney General and the Secretary of Health and Human Services, shall, subject to the availability of appropriations, establish a program of drug testing of Federal offenders on post-conviction release. The program shall include such standards and guidelines as the Director may determine necessary to ensure the reliability and accuracy of the drug testing programs. In each judicial district the chief probation officer shall arrange for the drug testing of defendants on post-conviction release pursuant to a conviction for a felony or other offense described in section 3563(a)(4).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Added Pub. L. 103–322, title II, § 20414(a)(1), Sept. 13, 1994, 108 Stat. 1830.)
+(Added Pub. L. 103–322, title II, § 20414(a)(1), Sept. 13, 1994, 108 Stat. 1830.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3563(a)(4), referred to in text, probably means the par. (4) of section 3563(a) added by section 20414(b)(3) of Pub. L. 103–322, which was renumbered par. (5) by Pub. L. 104–132, title II, § 203(1)(C), Apr. 24, 1996, 110 Stat. 1227.
+Section 3563(a)(4), referred to in text, probably means the par. (4) of section 3563(a) added by section 20414(b)(3) of Pub. L. 103–322, which was renumbered par. (5) by Pub. L. 104–132, title II, § 203(1)(C), Apr. 24, 1996, 110 Stat. 1227.
 
 ## SUBCHAPTER B—FINES
 
@@ -291,15 +291,15 @@ Section 3563(a)(4), referred to in text, probably means the par. (4) of section 
 
 **Amendments**
 
-1996—Pub. L. 104–132, title II, § 207(d), Apr. 24, 1996, 110 Stat. 1240, amended table of sections generally, inserting “or restitution” after “fine” in items 3611, 3612, and 3614, reenacting items 3613 and 3615 without change, and adding item 3613A.
+1996—Pub. L. 104–132, title II, § 207(d), Apr. 24, 1996, 110 Stat. 1240, amended table of sections generally, inserting “or restitution” after “fine” in items 3611, 3612, and 3614, reenacting items 3613 and 3615 without change, and adding item 3613A.
 
-1994—Pub. L. 103–322, title XXXIII, § 330010(3), Sept. 13, 1994, 108 Stat. 2143, transferred analysis of this subchapter to follow heading for this subchapter.
+1994—Pub. L. 103–322, title XXXIII, § 330010(3), Sept. 13, 1994, 108 Stat. 2143, transferred analysis of this subchapter to follow heading for this subchapter.
 
-### § 3611. Payment of a fine or restitution
+### § 3611. Payment of a fine or restitution
 
 A person who is sentenced to pay a fine, assessment, or restitution, shall pay the fine, assessment, or restitution (including any interest or penalty), as specified by the Director of the Administrative Office of the United States Courts. Such Director may specify that such payment be made to the clerk of the court or in the manner provided for under section 604(a)(18) of title 28, United States Code.
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2004; amended Pub. L. 100–185, § 10(a), Dec. 11, 1987, 101 Stat. 1283; Pub. L. 101–647, title XXXV, § 3591, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, § 207(c)(1), Apr. 24, 1996, 110 Stat. 1237.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2004; amended Pub. L. 100–185, § 10(a), Dec. 11, 1987, 101 Stat. 1283; Pub. L. 101–647, title XXXV, § 3591, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, § 207(c)(1), Apr. 24, 1996, 110 Stat. 1237.)
 
 **Editorial Notes**
 
@@ -309,7 +309,7 @@ For a prior section 3611, applicable to offenses committed prior to Nov. 1, 1987
 
 **Amendments**
 
-1996—Pub. L. 104–132 substituted “Payment of a fine or restitution” for “Payment of a fine” in section catchline and “, assessment, or restitution, shall pay the fine, assessment, or restitution” for “or assessment shall pay the fine or assessment” in text.
+1996—Pub. L. 104–132 substituted “Payment of a fine or restitution” for “Payment of a fine” in section catchline and “, assessment, or restitution, shall pay the fine, assessment, or restitution” for “or assessment shall pay the fine or assessment” in text.
 
 1990—Pub. L. 101–647 substituted “604(a)(18)” for “604(a)(17)”.
 
@@ -323,7 +323,7 @@ Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permi
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–185, § 10(b), Dec. 11, 1987, 101 Stat. 1283, provided that: “The amendment made by this section [amending this section] shall apply with respect to any fine imposed after October 31, 1988. Such amendment shall also apply with respect to any fine imposed on or before October 31, 1988, if the fine remains uncollected as of February 1, 1989, unless the Director of the Administrative Office of the United States Courts determines further delay is necessary. If the Director so determines, the amendment made by this section shall apply with respect to any such fine imposed on or before October 31, 1988, if the fine remains uncollected as of May 1, 1989.”
+Pub. L. 100–185, § 10(b), Dec. 11, 1987, 101 Stat. 1283, provided that: “The amendment made by this section [amending this section] shall apply with respect to any fine imposed after October 31, 1988. Such amendment shall also apply with respect to any fine imposed on or before October 31, 1988, if the fine remains uncollected as of February 1, 1989, unless the Director of the Administrative Office of the United States Courts determines further delay is necessary. If the Director so determines, the amendment made by this section shall apply with respect to any such fine imposed on or before October 31, 1988, if the fine remains uncollected as of May 1, 1989.”
 
 **Effective Date**
 
@@ -331,7 +331,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 **Receipt of Fines—Interim Provisions**
 
-Pub. L. 100–185, § 9, Dec. 11, 1987, 101 Stat. 1282, provided that:
+Pub. L. 100–185, § 9, Dec. 11, 1987, 101 Stat. 1282, provided that:
 
 > **“(a) November 1, 1987, to April 30, 1988.—** Notwithstanding section 3611 of title 18, United States Code, a person who, during the period beginning on November 1, 1987, and ending on April 30, 1988, is sentenced to pay a fine or assessment shall pay the fine or assessment (including any interest or penalty) to the clerk of the court, with respect to an offense committed on or before December 31, 1984, and to the Attorney General, with respect to an offense committed after December 31, 1984.
 
@@ -343,7 +343,7 @@ Pub. L. 100–185, § 9, Dec. 11, 1987, 101 Stat. 1282, provided that:
 
 > **“(3)** In any other case, such person shall pay the fine or assessment (including any interest or penalty) to the clerk of the court, with respect to an offense committed on or before December 31, 1984, and to the Attorney General, with respect to an offense committed after December 31, 1984.”
 
-### § 3612. Collection of unpaid fine or restitution
+### § 3612. Collection of unpaid fine or restitution
 
 **(a) Notification of Receipt and Related Matters.—** The clerk or the person designated under section 604(a)(18) of title 28 shall notify the Attorney General of each receipt of a payment with respect to which a certification is made under subsection (b), together with other appropriate information relating to such payment. The notification shall be provided—
 
@@ -445,13 +445,13 @@ If the fifteenth day under paragraph (2) is a Saturday, Sunday, or legal public 
 
 **(4) Report.—** Not later than 3 years after the date on which the report required under paragraph (1) is submitted, the Comptroller General of the United States shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the implementation by the Attorney General of the best practices recommended under paragraph (3).
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2004; amended Pub. L. 100–185, § 11, Dec. 11, 1987, 101 Stat. 1283; Pub. L. 100–690, title VII, § 7082(c), (d), Nov. 18, 1988, 102 Stat. 4408; Pub. L. 101–647, title XXXV, § 3592, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, § 207(c)(2), Apr. 24, 1996, 110 Stat. 1237; Pub. L. 106–554, § 1(a)(7) [title III, § 307(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–635; Pub. L. 107–273, div. B, title IV, § 4002(b)(15), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 114–324, § 18, Dec. 16, 2016, 130 Stat. 1962.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2004; amended Pub. L. 100–185, § 11, Dec. 11, 1987, 101 Stat. 1283; Pub. L. 100–690, title VII, § 7082(c), (d), Nov. 18, 1988, 102 Stat. 4408; Pub. L. 101–647, title XXXV, § 3592, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, § 207(c)(2), Apr. 24, 1996, 110 Stat. 1237; Pub. L. 106–554, § 1(a)(7) [title III, § 307(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–635; Pub. L. 107–273, div. B, title IV, § 4002(b)(15), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 114–324, § 18, Dec. 16, 2016, 130 Stat. 1962.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Controlled Substances Act, referred to in subsecs. (j) and (k), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsecs. (j) and (k), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (k)(1), is the date of enactment of Pub. L. 114–324, which was approved Dec. 16, 2016.
 
@@ -467,19 +467,19 @@ For a prior section 3612, applicable to offenses committed prior to Nov. 1, 1987
 
 2000—Subsec. (f)(2)(B). Pub. L. 106–554 substituted “the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding.” for “the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled before”.
 
-1996—Pub. L. 104–132, § 207(c)(2)(A), substituted “Collection of unpaid fine or restitution” for “Collection of an unpaid fine” in section catchline.
+1996—Pub. L. 104–132, § 207(c)(2)(A), substituted “Collection of unpaid fine or restitution” for “Collection of an unpaid fine” in section catchline.
 
-Subsec. (b)(1). Pub. L. 104–132, § 207(c)(2)(B)(i), inserted “or restitution order” after “fine” in introductory provisions.
+Subsec. (b)(1). Pub. L. 104–132, § 207(c)(2)(B)(i), inserted “or restitution order” after “fine” in introductory provisions.
 
-Subsec. (b)(1)(C). Pub. L. 104–132, § 207(c)(2)(B)(ii), inserted “or restitution order” after “fine”.
+Subsec. (b)(1)(C). Pub. L. 104–132, § 207(c)(2)(B)(ii), inserted “or restitution order” after “fine”.
 
-Subsec. (b)(1)(E). Pub. L. 104–132, § 207(c)(2)(B)(iii), struck out “and” at end.
+Subsec. (b)(1)(E). Pub. L. 104–132, § 207(c)(2)(B)(iii), struck out “and” at end.
 
-Subsec. (b)(1)(F). Pub. L. 104–132, § 207(c)(2)(B)(iv), inserted “or restitution order” after “fine” and substituted “; and” for period at end.
+Subsec. (b)(1)(F). Pub. L. 104–132, § 207(c)(2)(B)(iv), inserted “or restitution order” after “fine” and substituted “; and” for period at end.
 
-Subsec. (b)(1)(G). Pub. L. 104–132, § 207(c)(2)(B)(v), added subpar. (G).
+Subsec. (b)(1)(G). Pub. L. 104–132, § 207(c)(2)(B)(v), added subpar. (G).
 
-Subsec. (c). Pub. L. 104–132, § 207(c)(2)(C), inserted “or restitution” after “unpaid fine” in first sentence and inserted at end “Any money received from a defendant shall be disbursed so that each of the following obligations is paid in full in the following sequence:
+Subsec. (c). Pub. L. 104–132, § 207(c)(2)(C), inserted “or restitution” after “unpaid fine” in first sentence and inserted at end “Any money received from a defendant shall be disbursed so that each of the following obligations is paid in full in the following sequence:
 
 “(1) A penalty assessment under section 3013 of title 18, United States Code.
 
@@ -487,31 +487,31 @@ Subsec. (c). Pub. L. 104–132, § 207(c)(2)(C), inserted “or restitution”
 
 “(3) All other fines, penalties, costs, and other payments required under the sentence.”
 
-Subsec. (d). Pub. L. 104–132, § 207(c)(2)(D)(ii), which directed substitution of “or restitution is delinquent, to inform the person of the delinquency” for “is delinquent, to inform him that the fine is delinquent”, was executed by making the substitution for “is delinquent to inform him that the fine is delinquent” to reflect the probable intent of Congress.
+Subsec. (d). Pub. L. 104–132, § 207(c)(2)(D)(ii), which directed substitution of “or restitution is delinquent, to inform the person of the delinquency” for “is delinquent, to inform him that the fine is delinquent”, was executed by making the substitution for “is delinquent to inform him that the fine is delinquent” to reflect the probable intent of Congress.
 
-Pub. L. 104–132, § 207(c)(2)(D)(i), inserted “or restitution” after “Within ten working days after a fine”.
+Pub. L. 104–132, § 207(c)(2)(D)(i), inserted “or restitution” after “Within ten working days after a fine”.
 
-Subsec. (e). Pub. L. 104–132, § 207(c)(2)(E), inserted “or restitution” after “days after a fine” and substituted “the person that the fine or restitution is in default” for “him that the fine is in default”.
+Subsec. (e). Pub. L. 104–132, § 207(c)(2)(E), inserted “or restitution” after “days after a fine” and substituted “the person that the fine or restitution is in default” for “him that the fine is in default”.
 
-Subsec. (f). Pub. L. 104–132, § 207(c)(2)(F)(i), which directed amendment of heading by inserting “and restitution” after “on fines”, was executed by inserting the material after “on fines” to reflect the probable intent of Congress.
+Subsec. (f). Pub. L. 104–132, § 207(c)(2)(F)(i), which directed amendment of heading by inserting “and restitution” after “on fines”, was executed by inserting the material after “on fines” to reflect the probable intent of Congress.
 
-Subsec. (f)(1). Pub. L. 104–132, § 207(c)(2)(F)(ii), inserted “or restitution” after “any fine”.
+Subsec. (f)(1). Pub. L. 104–132, § 207(c)(2)(F)(ii), inserted “or restitution” after “any fine”.
 
-Subsec. (g). Pub. L. 104–132, § 207(c)(2)(G), inserted “or restitution” after “fine” in two places.
+Subsec. (g). Pub. L. 104–132, § 207(c)(2)(G), inserted “or restitution” after “fine” in two places.
 
-Subsec. (i). Pub. L. 104–132, § 207(c)(2)(H), inserted “and restitution” after “fines”.
+Subsec. (i). Pub. L. 104–132, § 207(c)(2)(H), inserted “and restitution” after “fines”.
 
 1990—Subsec. (a). Pub. L. 101–647 substituted “604(a)(18)” for “604(a)(17)” wherever appearing.
 
-1988—Subsec. (d). Pub. L. 100–690, § 7082(d), struck out “, by certified mail,” after “fine is delinquent”.
+1988—Subsec. (d). Pub. L. 100–690, § 7082(d), struck out “, by certified mail,” after “fine is delinquent”.
 
-Subsec. (e). Pub. L. 100–690, § 7082(d), struck out “, by certified mail,” after “the person defaulting”.
+Subsec. (e). Pub. L. 100–690, § 7082(d), struck out “, by certified mail,” after “the person defaulting”.
 
-Subsec. (h). Pub. L. 100–690, § 7082(c), inserted “or any interest or penalty relating to a fine imposed under any prior law” after “under this section”.
+Subsec. (h). Pub. L. 100–690, § 7082(c), inserted “or any interest or penalty relating to a fine imposed under any prior law” after “under this section”.
 
-1987—Subsec. (a). Pub. L. 100–185, § 11(a), substituted “Notification of receipt and related matters” for “Disposition of payment” in heading and amended text generally. Prior to amendment, text read as follows: “The clerk shall forward each fine payment to the United States Treasury and shall notify the Attorney General of its receipt within ten working days.”
+1987—Subsec. (a). Pub. L. 100–185, § 11(a), substituted “Notification of receipt and related matters” for “Disposition of payment” in heading and amended text generally. Prior to amendment, text read as follows: “The clerk shall forward each fine payment to the United States Treasury and shall notify the Attorney General of its receipt within ten working days.”
 
-Subsec. (b). Pub. L. 100–185, § 11(b), substituted “Information to be included in judgment; judgment to be transmitted to Attorney General” for “Certification of imposition” in heading and amended text generally. Prior to amendment, text read as follows: “If a fine exceeding $100 is imposed, modified, or remitted, the sentencing court shall incorporate in the order imposing, remitting, or modifying such fine, and promptly certify to the Attorney General—
+Subsec. (b). Pub. L. 100–185, § 11(b), substituted “Information to be included in judgment; judgment to be transmitted to Attorney General” for “Certification of imposition” in heading and amended text generally. Prior to amendment, text read as follows: “If a fine exceeding $100 is imposed, modified, or remitted, the sentencing court shall incorporate in the order imposing, remitting, or modifying such fine, and promptly certify to the Attorney General—
 
 “(1) the name of the person fined;
 
@@ -527,13 +527,13 @@ Subsec. (b). Pub. L. 100–185, § 11(b), substituted “Information to be inc
 
 “(7) the amount of the fine that is due and unpaid.”
 
-Subsec. (d). Pub. L. 100–185, § 11(c)(1), substituted “section 3572(h)” for “section 3572(i)”.
+Subsec. (d). Pub. L. 100–185, § 11(c)(1), substituted “section 3572(h)” for “section 3572(i)”.
 
-Subsec. (e). Pub. L. 100–185, § 11(c)(2), substituted “section 3572(i)” for “section 3572(j)”.
+Subsec. (e). Pub. L. 100–185, § 11(c)(2), substituted “section 3572(i)” for “section 3572(j)”.
 
-Subsec. (f). Pub. L. 100–185, § 11(d), amended subsec. (f) generally, substituting provisions relating to interest on fines, computation of interest, and modification of interest by court, for provisions relating to interest and monetary penalties for delinquent fines.
+Subsec. (f). Pub. L. 100–185, § 11(d), amended subsec. (f) generally, substituting provisions relating to interest on fines, computation of interest, and modification of interest by court, for provisions relating to interest and monetary penalties for delinquent fines.
 
-Subsecs. (g) to (i). Pub. L. 100–185, § 11(e), added subsecs. (g) to (i).
+Subsecs. (g) to (i). Pub. L. 100–185, § 11(e), added subsecs. (g) to (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -547,7 +547,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 **Collection of Outstanding Fines**
 
-Pub. L. 98–473, title II, § 237, Oct. 12, 1984, 98 Stat. 2033, provided that:
+Pub. L. 98–473, title II, § 237, Oct. 12, 1984, 98 Stat. 2033, provided that:
 
 > **“(a)**
 
@@ -569,7 +569,7 @@ Pub. L. 98–473, title II, § 237, Oct. 12, 1984, 98 Stat. 2033, provided tha
 
 > **“(c)** Not later than one year following the effective date of this Act, the Attorney General shall include in the annual crime report steps taken to implement this Act and the progress achieved in criminal fine collection, including collection data for each judicial district.”
 
-### § 3613. Civil remedies for satisfaction of an unpaid fine
+### § 3613. Civil remedies for satisfaction of an unpaid fine
 
 **(a) Enforcement.—** The United States may enforce a judgment imposing a fine in accordance with the practices and procedures for the enforcement of a civil judgment under Federal law or State law. Notwithstanding any other Federal law (including section 207 of the Social Security Act), a judgment imposing a fine may be enforced against all property or rights to property of the person fined, except that—
 
@@ -581,9 +581,9 @@ Pub. L. 98–473, title II, § 237, Oct. 12, 1984, 98 Stat. 2033, provided tha
 
 **(b) Termination of Liability.—** The liability to pay a fine shall terminate the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person fined, or upon the death of the individual fined. The liability to pay restitution shall terminate on the date that is the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person ordered to pay restitution. In the event of the death of the person ordered to pay restitution, the individual’s estate will be held responsible for any unpaid balance of the restitution amount, and the lien provided in subsection (c) of this section shall continue until the estate receives a written release of that liability.
 
-**(c) Lien.—** A fine imposed pursuant to the provisions of subchapter C of chapter 227 of this title, an assessment imposed pursuant to section 2259A of this title, or an order of restitution made pursuant to sections 1
+**(c) Lien.—** A fine imposed pursuant to the provisions of subchapter C of chapter 227 of this title, an assessment imposed pursuant to section 2259A of this title, or an order of restitution made pursuant to sections 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 2248, 2259, 2264, 2327, 3663, 3663A, or 3664 of this title, is a lien in favor of the United States on all property and rights to property of the person fined as if the liability of the person fined were a liability for a tax assessed under the Internal Revenue Code of 1986. The lien arises on the entry of judgment and continues for 20 years or until the liability is satisfied, remitted, set aside, or is terminated under subsection (b).
 
@@ -593,7 +593,7 @@ Pub. L. 98–473, title II, § 237, Oct. 12, 1984, 98 Stat. 2033, provided tha
 
 **(f) Applicability to Order of Restitution.—** In accordance with section 3664(m)(1)(A) of this title, all provisions of this section are available to the United States for the enforcement of an order of restitution.
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2005; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–647, title XXXV, § 3593, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, § 207(c)(3), Apr. 24, 1996, 110 Stat. 1238; Pub. L. 114–324, § 2(b), Dec. 16, 2016, 130 Stat. 1948; Pub. L. 115–299, § 7(a), Dec. 7, 2018, 132 Stat. 4388.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2005; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–647, title XXXV, § 3593, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, § 207(c)(3), Apr. 24, 1996, 110 Stat. 1238; Pub. L. 114–324, § 2(b), Dec. 16, 2016, 130 Stat. 1948; Pub. L. 115–299, § 7(a), Dec. 7, 2018, 132 Stat. 4388.)
 
 **Editorial Notes**
 
@@ -615,7 +615,7 @@ For a prior section 3613, applicable to offenses committed prior to Nov. 1, 1987
 
 1996—Pub. L. 104–132 amended section generally, reenacting section catchline without change and substituting, in subsec. (a), provisions relating to enforcement for provisions relating to lien, in subsec. (b), provisions relating to termination of liability for provisions relating to expiration of lien, in subsec. (c), provisions relating to lien for provisions relating to application of other lien provisions, in subsec. (d), provisions relating to effect of filing notice of lien for provisions relating to effect of notice of lien, in subsec. (e), provisions relating to inapplicability of bankruptcy discharges of debt for provisions relating to alternative enforcement, and in subsec. (f), provisions relating to applicability to order of restitution for provisions relating to inapplicability of bankruptcy discharges of debt.
 
-1990—Subsec. (c). Pub. L. 101–647, which directed amendment of “Section 3613(c)” by striking the period before the closing quotation marks and inserting a period after such marks, without identifying a Code title or Act for section 3613, was executed by substituting “construed to mean ‘fine’.” for “construed to mean ‘fine.’ ” in subsec. (c) of this section to reflect the probable intent of Congress.
+1990—Subsec. (c). Pub. L. 101–647, which directed amendment of “Section 3613(c)” by striking the period before the closing quotation marks and inserting a period after such marks, without identifying a Code title or Act for section 3613, was executed by substituting “construed to mean ‘fine’.” for “construed to mean ‘fine.’ ” in subsec. (c) of this section to reflect the probable intent of Congress.
 
 1986—Subsecs. (b) to (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
 
@@ -629,7 +629,7 @@ Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permi
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-### § 3613A. Effect of default
+### § 3613A. Effect of default
 
 **(a)**
 
@@ -643,7 +643,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 **(2)** To the extent practicable, in a hearing held pursuant to this section involving a defendant who is confined in any jail, prison, or other correctional facility, proceedings in which the prisoner’s participation is required or permitted shall be conducted by telephone, video conference, or other communications technology without removing the prisoner from the facility in which the prisoner is confined.
 
-(Added Pub. L. 104–132, title II, § 207(c)(4), Apr. 24, 1996, 110 Stat. 1239.)
+(Added Pub. L. 104–132, title II, § 207(c)(4), Apr. 24, 1996, 110 Stat. 1239.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -651,7 +651,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 Section to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which the defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as an Effective Date of 1996 Amendment note under section 2248 of this title.
 
-### § 3614. Resentencing upon failure to pay a fine or restitution
+### § 3614. Resentencing upon failure to pay a fine or restitution
 
 **(a) Resentencing.—** Subject to the provisions of subsection (b), if a defendant knowingly fails to pay a delinquent fine or restitution the court may resentence the defendant to any sentence which might originally have been imposed.
 
@@ -663,7 +663,7 @@ Section to be effective, to extent constitutionally permissible, for sentencing 
 
 **(c) Effect of Indigency.—** In no event shall a defendant be incarcerated under this section solely on the basis of inability to make payments because the defendant is indigent.
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2006; amended Pub. L. 104–132, title II, § 207(c)(5), Apr. 24, 1996, 110 Stat. 1240.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2006; amended Pub. L. 104–132, title II, § 207(c)(5), Apr. 24, 1996, 110 Stat. 1240.)
 
 **Editorial Notes**
 
@@ -673,11 +673,11 @@ For a prior section 3614, applicable to offenses committed prior to Nov. 1, 1987
 
 **Amendments**
 
-1996—Pub. L. 104–232, § 207(c)(5)(A), inserted “or restitution” after “fine” in section catchline.
+1996—Pub. L. 104–232, § 207(c)(5)(A), inserted “or restitution” after “fine” in section catchline.
 
-Subsec. (a). Pub. L. 104–232, § 207(c)(5)(B), inserted “or restitution” after “fine”.
+Subsec. (a). Pub. L. 104–232, § 207(c)(5)(B), inserted “or restitution” after “fine”.
 
-Subsec. (c). Pub. L. 104–232, § 207(c)(5)(C), added subsec. (c).
+Subsec. (c). Pub. L. 104–232, § 207(c)(5)(C), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -689,11 +689,11 @@ Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permi
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-### § 3615. Criminal default
+### § 3615. Criminal default
 
 Whoever, having been sentenced to pay a fine, willfully fails to pay the fine, shall be fined not more than twice the amount of the unpaid balance of the fine or $10,000, whichever is greater, imprisoned not more than one year, or both.
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2006.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2006.)
 
 **Editorial Notes**
 
@@ -713,11 +713,11 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 **Amendments**
 
-1996—Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 802(c)], Apr. 26, 1996, 110 Stat. 1321, 1321–70; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, which directed that table of sections at beginning of subchapter C of this chapter be amended generally to read “3626. Appropriate remedies with respect to prison conditions.”, was executed by making amendment in item 3626 to reflect the probable intent of Congress. Prior to amendment, item 3626 read as follows: “3626. Appropriate remedies with respect to prison crowding.”
+1996—Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 802(c)], Apr. 26, 1996, 110 Stat. 1321, 1321–70; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, which directed that table of sections at beginning of subchapter C of this chapter be amended generally to read “3626. Appropriate remedies with respect to prison conditions.”, was executed by making amendment in item 3626 to reflect the probable intent of Congress. Prior to amendment, item 3626 read as follows: “3626. Appropriate remedies with respect to prison crowding.”
 
-1994—Pub. L. 103–322, title II, § 20409(c), title XXXIII, § 330010(3), Sept. 13, 1994, 108 Stat. 1828, 2143, transferred analysis of this subchapter to follow heading for this subchapter and added item 3626.
+1994—Pub. L. 103–322, title II, § 20409(c), title XXXIII, § 330010(3), Sept. 13, 1994, 108 Stat. 1828, 2143, transferred analysis of this subchapter to follow heading for this subchapter and added item 3626.
 
-### § 3621. Imprisonment of a convicted person
+### § 3621. Imprisonment of a convicted person
 
 **(a) Commitment to Custody of Bureau of Prisons.—** A person who has been sentenced to a term of imprisonment pursuant to the provisions of subchapter D of chapter 227 shall be committed to the custody of the Bureau of Prisons until the expiration of the term imposed, or until earlier released for satisfactory behavior pursuant to the provisions of section 3624.
 
@@ -773,7 +773,7 @@ In designating the place of imprisonment or making transfers under this subsecti
 
 **(A)** the term “residential substance abuse treatment” means a course of individual and group activities and treatment, lasting at least 6 months, in residential treatment facilities set apart from the general prison population (which may include the use of pharmocotherapies,1
 
-<sup>1</sup>  So in original. Probably should be “pharmacotherapies,”.
+<sup>1</sup> So in original. Probably should be “pharmacotherapies,”.
 
 where appropriate, that may extend beyond the 6-month period);
 
@@ -869,7 +869,7 @@ where appropriate, that may extend beyond the 6-month period);
 
 **(2) Definition.—** In this subsection, the term “community confinement” has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, § 2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, § 20401, title III, § 32001, Sept. 13, 1994, 108 Stat. 1824, 1896; Pub. L. 109–162, title XI, § 1146, Jan. 5, 2006, 119 Stat. 3112; Pub. L. 109–248, title VI, § 622, July 27, 2006, 120 Stat. 634; Pub. L. 110–199, title II, §§ 231(f), 251(b), 252, Apr. 9, 2008, 122 Stat. 687, 693; Pub. L. 115–391, title I, § 102(a), title V, § 504(f)(1), title VI, § 601, Dec. 21, 2018, 132 Stat. 5208, 5234, 5237; Pub. L. 117–103, div. W, title X, § 1001(c), Mar. 15, 2022, 136 Stat. 914.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, § 2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, § 20401, title III, § 32001, Sept. 13, 1994, 108 Stat. 1824, 1896; Pub. L. 109–162, title XI, § 1146, Jan. 5, 2006, 119 Stat. 3112; Pub. L. 109–248, title VI, § 622, July 27, 2006, 120 Stat. 634; Pub. L. 110–199, title II, §§ 231(f), 251(b), 252, Apr. 9, 2008, 122 Stat. 687, 693; Pub. L. 115–391, title I, § 102(a), title V, § 504(f)(1), title VI, § 601, Dec. 21, 2018, 132 Stat. 5208, 5234, 5237; Pub. L. 117–103, div. W, title X, § 1001(c), Mar. 15, 2022, 136 Stat. 914.)
 
 **Editorial Notes**
 
@@ -889,17 +889,17 @@ For a prior section 3621, applicable to offenses committed prior to Nov. 1, 1987
 
 2022—Subsec. (e)(7). Pub. L. 117–103 added par. (7).
 
-2018—Subsec. (b). Pub. L. 115–391, § 601, substituted in introductory provisions “shall designate the place of the prisoner’s imprisonment, and shall, subject to bed availability, the prisoner’s security designation, the prisoner’s programmatic needs, the prisoner’s mental and medical health needs, any request made by the prisoner related to faith-based needs, recommendations of the sentencing court, and other security concerns of the Bureau of Prisons, place the prisoner in a facility as close as practicable to the prisoner’s primary residence, and to the extent practicable, in a facility within 500 driving miles of that residence. The Bureau shall, subject to consideration of the factors described in the preceding sentence and the prisoner’s preference for staying at his or her current facility or being transferred, transfer prisoners to facilities that are closer to the prisoner’s primary residence even if the prisoner is already in a facility within 500 driving miles of that residence.” for “shall designate the place of the prisoner’s imprisonment.” and inserted at end of concluding provisions “Notwithstanding any other provision of law, a designation of a place of imprisonment under this subsection is not reviewable by any court.”
+2018—Subsec. (b). Pub. L. 115–391, § 601, substituted in introductory provisions “shall designate the place of the prisoner’s imprisonment, and shall, subject to bed availability, the prisoner’s security designation, the prisoner’s programmatic needs, the prisoner’s mental and medical health needs, any request made by the prisoner related to faith-based needs, recommendations of the sentencing court, and other security concerns of the Bureau of Prisons, place the prisoner in a facility as close as practicable to the prisoner’s primary residence, and to the extent practicable, in a facility within 500 driving miles of that residence. The Bureau shall, subject to consideration of the factors described in the preceding sentence and the prisoner’s preference for staying at his or her current facility or being transferred, transfer prisoners to facilities that are closer to the prisoner’s primary residence even if the prisoner is already in a facility within 500 driving miles of that residence.” for “shall designate the place of the prisoner’s imprisonment.” and inserted at end of concluding provisions “Notwithstanding any other provision of law, a designation of a place of imprisonment under this subsection is not reviewable by any court.”
 
-Subsec. (g). Pub. L. 115–391, § 504(f)(1), added subsec. (g) and redesignated former subsec. (g) as (i).
+Subsec. (g). Pub. L. 115–391, § 504(f)(1), added subsec. (g) and redesignated former subsec. (g) as (i).
 
-Subsec. (h). Pub. L. 115–391, § 102(a), added subsec. (h).
+Subsec. (h). Pub. L. 115–391, § 102(a), added subsec. (h).
 
-Subsec. (i). Pub. L. 115–391, § 504(f)(1)(A), redesignated subsec. (g) as (i).
+Subsec. (i). Pub. L. 115–391, § 504(f)(1)(A), redesignated subsec. (g) as (i).
 
-2008—Subsec. (b). Pub. L. 110–199, § 251(b), inserted “Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person.” at end of concluding provisions.
+2008—Subsec. (b). Pub. L. 110–199, § 251(b), inserted “Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person.” at end of concluding provisions.
 
-Subsec. (e)(5)(A). Pub. L. 110–199, § 252, substituted “means a course of individual and group activities and treatment, lasting at least 6 months, in residential treatment facilities set apart from the general prison population (which may include the use of pharmocotherapies, where appropriate, that may extend beyond the 6-month period);” for “means a course of individual and group activities, lasting between 6 and 12 months, in residential treatment facilities set apart from the general prison population—
+Subsec. (e)(5)(A). Pub. L. 110–199, § 252, substituted “means a course of individual and group activities and treatment, lasting at least 6 months, in residential treatment facilities set apart from the general prison population (which may include the use of pharmocotherapies, where appropriate, that may extend beyond the 6-month period);” for “means a course of individual and group activities, lasting between 6 and 12 months, in residential treatment facilities set apart from the general prison population—
 
 “(i) directed at the substance abuse problems of the prisoner;
 
@@ -907,9 +907,9 @@ Subsec. (e)(5)(A). Pub. L. 110–199, § 252, substituted “means a course of
 
 “(iii) which may include the use of pharmacoptherapies, if appropriate, that may extend beyond the treatment period;”.
 
-Subsec. (g). Pub. L. 110–199, § 231(f), added subsec. (g).
+Subsec. (g). Pub. L. 110–199, § 231(f), added subsec. (g).
 
-2006—Subsec. (e)(4). Pub. L. 109–162, § 1146(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “There are authorized to be appropriated to carry out this subsection—
+2006—Subsec. (e)(4). Pub. L. 109–162, § 1146(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “There are authorized to be appropriated to carry out this subsection—
 
 “(A) $13,500,000 for fiscal year 1996;
 
@@ -921,15 +921,15 @@ Subsec. (g). Pub. L. 110–199, § 231(f), added subsec. (g).
 
 “(E) $27,900,000 for fiscal year 2000.”
 
-Subsec. (e)(5)(A)(iii). Pub. L. 109–162, § 1146(2), added cl. (iii).
+Subsec. (e)(5)(A)(iii). Pub. L. 109–162, § 1146(2), added cl. (iii).
 
 Subsec. (f). Pub. L. 109–248 added subsec. (f).
 
-1994—Subsec. (b). Pub. L. 103–322, § 32001(1), struck out “, to the extent practicable,” after “The Bureau shall” in concluding provisions.
+1994—Subsec. (b). Pub. L. 103–322, § 32001(1), struck out “, to the extent practicable,” after “The Bureau shall” in concluding provisions.
 
-Pub. L. 103–322, § 20401, inserted “In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status.” after subsec. (b)(5).
+Pub. L. 103–322, § 20401, inserted “In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status.” after subsec. (b)(5).
 
-Subsec. (e). Pub. L. 103–322, § 32001(2), added subsec. (e).
+Subsec. (e). Pub. L. 103–322, § 32001(2), added subsec. (e).
 
 1990—Subsec. (b). Pub. L. 101–647 inserted at end “The Bureau shall, to the extent practicable, make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse.”
 
@@ -941,7 +941,7 @@ Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal ye
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–391, title V, § 504(f)(2), Dec. 21, 2018, 132 Stat. 5234, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect 180 days after the date of enactment of this Act [Dec. 21, 2018].”
+Pub. L. 115–391, title V, § 504(f)(2), Dec. 21, 2018, 132 Stat. 5234, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect 180 days after the date of enactment of this Act [Dec. 21, 2018].”
 
 **Effective Date**
 
@@ -949,7 +949,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 **Rule of Construction**
 
-Pub. L. 115–391, title I, § 105, Dec. 21, 2018, 132 Stat. 5214, provided that: “Nothing in this Act [see Tables for classification], or the amendments made by this Act, may be construed to provide authority to place a prisoner in prerelease custody or supervised release who is serving a term of imprisonment pursuant to a conviction for an offense under the laws of one of the 50 States, or of a territory or possession of the United States or to amend or affect the enforcement of the immigration laws, as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).”
+Pub. L. 115–391, title I, § 105, Dec. 21, 2018, 132 Stat. 5214, provided that: “Nothing in this Act [see Tables for classification], or the amendments made by this Act, may be construed to provide authority to place a prisoner in prerelease custody or supervised release who is serving a term of imprisonment pursuant to a conviction for an offense under the laws of one of the 50 States, or of a territory or possession of the United States or to amend or affect the enforcement of the immigration laws, as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).”
 
 **Construction of 2008 Amendment**
 
@@ -957,7 +957,7 @@ For construction of amendments by Pub. L. 110–199 and requirements for grants 
 
 **Implementation Date of 2022 Amendment**
 
-Pub. L. 117–103, div. W, title X, § 1001(d), Mar. 15, 2022, 136 Stat. 914, provided that:
+Pub. L. 117–103, div. W, title X, § 1001(d), Mar. 15, 2022, 136 Stat. 914, provided that:
 
 > **“(1) In general.—** Not later than 2 years after the date of enactment of this Act [Mar. 15, 2022], the Director of the Bureau of Prisons shall implement this section [see Short Title of 2022 Amendment note set out under section 1 of this title] and the amendments made by this section.
 
@@ -965,7 +965,7 @@ Pub. L. 117–103, div. W, title X, § 1001(d), Mar. 15, 2022, 136 Stat. 914, 
 
 **Bureau of Prisons**
 
-Pub. L. 116–136, div. B, title II, § 12003, Mar. 27, 2020, 134 Stat. 515, provided that:
+Pub. L. 116–136, div. B, title II, § 12003, Mar. 27, 2020, 134 Stat. 515, provided that:
 
 > **“(a) Definitions.—** In this section—
 
@@ -1003,7 +1003,7 @@ Pub. L. 116–136, div. B, title II, § 12003, Mar. 27, 2020, 134 Stat. 515, p
 
 **GAO Report**
 
-Pub. L. 115–391, title I, § 103, Dec. 21, 2018, 132 Stat. 5213, provided that:
+Pub. L. 115–391, title I, § 103, Dec. 21, 2018, 132 Stat. 5213, provided that:
 
 > “Not later than 2 years after the Director of the Bureau of Prisons implements the risk and needs assessment system under section 3621 of title 18, United States Code, and every 2 years thereafter, the Comptroller General of the United States shall conduct an audit of the use of the risk and needs assessment system at Bureau of Prisons facilities. The audit shall include analysis of the following:
 
@@ -1025,7 +1025,7 @@ Pub. L. 115–391, title I, § 103, Dec. 21, 2018, 132 Stat. 5213, provided th
 
 **Faith-Based Considerations**
 
-Pub. L. 115–391, title I, § 106, Dec. 21, 2018, 132 Stat. 5214, provided that:
+Pub. L. 115–391, title I, § 106, Dec. 21, 2018, 132 Stat. 5214, provided that:
 
 > **“(a) In General.—** In considering any program, treatment, regimen, group, company, charity, person, or entity of any kind under any provision of this Act [see Tables for classification], or the amendments made by this Act, the fact that it may be or is faith-based may not be a basis for any discrimination against it in any manner or for any purpose.
 
@@ -1037,13 +1037,13 @@ Pub. L. 115–391, title I, § 106, Dec. 21, 2018, 132 Stat. 5214, provided th
 
 **Evidence-Based Treatment for Opioid and Heroin Abuse**
 
-Pub. L. 115–391, title VI, § 607, Dec. 21, 2018, 132 Stat. 5244, provided that:
+Pub. L. 115–391, title VI, § 607, Dec. 21, 2018, 132 Stat. 5244, provided that:
 
 > **“(a) Report on Evidence-based Treatment for Opioid and Heroin Abuse.—** Not later than 90 days after the date of enactment of this Act [Dec. 21, 2018], the Director of the Bureau of Prisons shall submit to the Committees on the Judiciary and the Committees on Appropriations of the Senate and of the House of Representatives a report assessing the availability of and the capacity of the Bureau of Prisons to treat heroin and opioid abuse through evidence-based programs, including medication-assisted treatment where appropriate. In preparing the report, the Director shall consider medication-assisted treatment as a strategy to assist in treatment where appropriate and not as a replacement for holistic and other drug-free approaches. The report shall include a description of plans to expand access to evidence-based treatment for heroin and opioid abuse for prisoners, including access to medication-assisted treatment in appropriate cases. Following submission, the Director shall take steps to implement these plans.
 
 > **“(b) Report on the Availability of Medication-Assisted Treatment for Opioid and Heroin Abuse, and Implementation Thereof.—** Not later than 120 days after the date of enactment of this Act, the Director of the Administrative Office of the United States Courts shall submit to the Committees on the Judiciary and the Committees on Appropriations of the Senate and of the House of Representatives a report assessing the availability of and capacity for the provision of medication-assisted treatment for opioid and heroin abuse by treatment service providers serving prisoners who are serving a term of supervised release, and including a description of plans to expand access to medication-assisted treatment for heroin and opioid abuse whenever appropriate among prisoners under supervised release. Following submission, the Director will take steps to implement these plans.”
 
-### § 3622. Temporary release of a prisoner
+### § 3622. Temporary release of a prisoner
 
 The Bureau of Prisons may release a prisoner from the place of his imprisonment for a limited period if such release appears to be consistent with the purpose for which the sentence was imposed and any pertinent policy statement issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(2), if such release otherwise appears to be consistent with the public interest and if there is reasonable cause to believe that a prisoner will honor the trust to be imposed in him, by authorizing him, under prescribed conditions, to—
 
@@ -1069,7 +1069,7 @@ The Bureau of Prisons may release a prisoner from the place of his imprisonment 
 
 **(2)** the prisoner agrees to pay to the Bureau such costs incident to official detention as the Bureau finds appropriate and reasonable under all the circumstances, such costs to be collected by the Bureau and deposited in the Treasury to the credit of the appropriation available for such costs at the time such collections are made.
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2007.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2007.)
 
 **Editorial Notes**
 
@@ -1123,7 +1123,7 @@ Sec. 3. Executive Order No. 325A is hereby superseded.
 
 Sec. 4. This order shall be effective as of January 1, 1974.
 
-### § 3623. Transfer of a prisoner to State authority
+### § 3623. Transfer of a prisoner to State authority
 
 The Director of the Bureau of Prisons shall order that a prisoner who has been charged in an indictment or information with, or convicted of, a State felony, be transferred to an official detention facility within such State prior to his release from a Federal prison facility if—
 
@@ -1135,7 +1135,7 @@ The Director of the Bureau of Prisons shall order that a prisoner who has been c
 
 If more than one request is presented with respect to a prisoner, the Director shall determine which request should receive preference. The expenses of such transfer shall be borne by the State requesting the transfer.
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2008.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2008.)
 
 **Editorial Notes**
 
@@ -1149,15 +1149,15 @@ For a prior section 3623, applicable to offenses committed prior to Nov. 1, 1987
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-### § 3624. Release of a prisoner
+### § 3624. Release of a prisoner
 
 **(a) Date of Release.—** A prisoner shall be released by the Bureau of Prisons on the date of the expiration of the prisoner’s term of imprisonment, less any time credited toward the service of the prisoner’s sentence as provided in subsection (b). If the date for a prisoner’s release falls on a Saturday, a Sunday, or a legal holiday at the place of confinement, the prisoner may be released by the Bureau on the last preceding weekday.
 
 **(b) Credit Toward Service of Sentence for Satisfactory Behavior.—**
 
-**(1)** Subject to paragraph (2), a prisoner who is serving a term of imprisonment of more than 1 year 1
+**(1)** Subject to paragraph (2), a prisoner who is serving a term of imprisonment of more than 1 year 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 other than a term of imprisonment for the duration of the prisoner’s life, may receive credit toward the service of the prisoner’s sentence of up to 54 days for each year of the prisoner’s sentence imposed by the court, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with institutional disciplinary regulations. Subject to paragraph (2), if the Bureau determines that, during that year, the prisoner has not satisfactorily complied with such institutional regulations, the prisoner shall receive no such credit toward service of the prisoner’s sentence or shall receive such lesser credit as the Bureau determines to be appropriate. In awarding credit under this section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree. Credit that has not been earned may not later be granted. Subject to paragraph (2), credit for the last year of a term of imprisonment shall be credited on the first day of the last year of the term of imprisonment.
 
@@ -1301,7 +1301,7 @@ other than a term of imprisonment for the duration of the prisoner’s life, may
 
 **(11) Prerelease custody capacity.—** The Director of the Bureau of Prisons shall ensure there is sufficient prerelease custody capacity to accommodate all eligible prisoners.
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2008; amended Pub. L. 99–646, §§ 16(a), 17(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 101–647, title XXIX, §§ 2902(a), 2904, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §§ 20405, 20412, Sept. 13, 1994, 108 Stat. 1825, 1828; Pub. L. 104–66, title I, § 1091(c), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 809(c)], Apr. 26, 1996, 110 Stat. 1321, 1321–76; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–177, title V, § 505, Jan. 7, 2008, 121 Stat. 2542; Pub. L. 110–199, title II, § 251(a), Apr. 9, 2008, 122 Stat. 692; Pub. L. 115–391, title I, § 102(b)(1), title V, § 504(c), title VI, § 602, Dec. 21, 2018, 132 Stat. 5210, 5233, 5238.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2008; amended Pub. L. 99–646, §§ 16(a), 17(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 101–647, title XXIX, §§ 2902(a), 2904, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §§ 20405, 20412, Sept. 13, 1994, 108 Stat. 1825, 1828; Pub. L. 104–66, title I, § 1091(c), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 809(c)], Apr. 26, 1996, 110 Stat. 1321, 1321–76; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–177, title V, § 505, Jan. 7, 2008, 121 Stat. 2542; Pub. L. 110–199, title II, § 251(a), Apr. 9, 2008, 122 Stat. 692; Pub. L. 115–391, title I, § 102(b)(1), title V, § 504(c), title VI, § 602, Dec. 21, 2018, 132 Stat. 5210, 5233, 5238.)
 
 **Editorial Notes**
 
@@ -1321,57 +1321,57 @@ For a prior section 3624, applicable to offenses committed prior to Nov. 1, 1987
 
 **Amendments**
 
-2018—Subsec. (b)(1). Pub. L. 115–391, § 102(b)(1)(A), substituted “of up to 54 days for each year of the prisoner’s sentence imposed by the court,” for “, beyond the time served, of up to 54 days at the end of each year of the prisoner’s term of imprisonment, beginning at the end of the first year of the term,” and “credit for the last year of a term of imprisonment shall be credited on the first day of the last year of the term of imprisonment” for “credit for the last year or portion of a year of the term of imprisonment shall be prorated and credited within the last six weeks of the sentence”.
+2018—Subsec. (b)(1). Pub. L. 115–391, § 102(b)(1)(A), substituted “of up to 54 days for each year of the prisoner’s sentence imposed by the court,” for “, beyond the time served, of up to 54 days at the end of each year of the prisoner’s term of imprisonment, beginning at the end of the first year of the term,” and “credit for the last year of a term of imprisonment shall be credited on the first day of the last year of the term of imprisonment” for “credit for the last year or portion of a year of the term of imprisonment shall be prorated and credited within the last six weeks of the sentence”.
 
-Subsec. (c)(2). Pub. L. 115–391, § 602, inserted at end “The Bureau of Prisons shall, to the extent practicable, place prisoners with lower risk levels and lower needs on home confinement for the maximum amount of time permitted under this paragraph.”
+Subsec. (c)(2). Pub. L. 115–391, § 602, inserted at end “The Bureau of Prisons shall, to the extent practicable, place prisoners with lower risk levels and lower needs on home confinement for the maximum amount of time permitted under this paragraph.”
 
-Subsec. (c)(5). Pub. L. 115–391, § 504(c)(1), inserted “, and number of prisoners not being placed in community corrections facilities for each reason set forth” before “, and any other information”.
+Subsec. (c)(5). Pub. L. 115–391, § 504(c)(1), inserted “, and number of prisoners not being placed in community corrections facilities for each reason set forth” before “, and any other information”.
 
-Subsec. (c)(6). Pub. L. 115–391, § 504(c)(2), substituted “the Second Chance Reauthorization Act of 2018” for “the Second Chance Act of 2007” in introductory provisions.
+Subsec. (c)(6). Pub. L. 115–391, § 504(c)(2), substituted “the Second Chance Reauthorization Act of 2018” for “the Second Chance Act of 2007” in introductory provisions.
 
-Subsec. (g). Pub. L. 115–391, § 102(b)(1)(B), added subsec. (g).
+Subsec. (g). Pub. L. 115–391, § 102(b)(1)(B), added subsec. (g).
 
 2008—Subsec. (c). Pub. L. 110–199 amended subsec. (c) generally. Prior to amendment, text read as follows: “The Bureau of Prisons shall, to the extent practicable, assure that a prisoner serving a term of imprisonment spends a reasonable part, not to exceed six months, of the last 10 per centum of the term to be served under conditions that will afford the prisoner a reasonable opportunity to adjust to and prepare for the prisoner’s re-entry into the community. The authority provided by this subsection may be used to place a prisoner in home confinement. The United States Probation System shall, to the extent practicable, offer assistance to a prisoner during such pre-release custody.”
 
 Subsec. (e). Pub. L. 110–177 substituted “Upon the release of a prisoner by the Bureau of Prisons to supervised release, the Bureau of Prisons shall notify such prisoner, verbally and in writing, of the requirement that the prisoner adhere to an installment schedule, not to exceed 2 years except in special circumstances, to pay for any fine imposed for the offense committed by such prisoner, and of the consequences of failure to pay such fines under sections 3611 through 3614 of this title.” for “No prisoner shall be released on supervision unless such prisoner agrees to adhere to an installment schedule, not to exceed two years except in special circumstances, to pay for any fine imposed for the offense committed by such prisoner.”
 
-1996—Subsec. (b)(1). Pub. L. 104–134, § 101[(a)] [title VIII, § 809(c)(1)(A)], struck out at beginning “A prisoner (other than a prisoner serving a sentence for a crime of violence) who is serving a term of imprisonment of more than one year, other than a term of imprisonment for the duration of the prisoner’s life, shall receive credit toward the service of the prisoner’s sentence, beyond the time served, of fifty-four days at the end of each year of the prisoner’s term of imprisonment, beginning at the end of the first year of the term, unless the Bureau of Prisons determines that, during that year, the prisoner has not satisfactorily complied with such institutional disciplinary regulations as have been approved by the Attorney General and issued to the prisoner.”
+1996—Subsec. (b)(1). Pub. L. 104–134, § 101[(a)] [title VIII, § 809(c)(1)(A)], struck out at beginning “A prisoner (other than a prisoner serving a sentence for a crime of violence) who is serving a term of imprisonment of more than one year, other than a term of imprisonment for the duration of the prisoner’s life, shall receive credit toward the service of the prisoner’s sentence, beyond the time served, of fifty-four days at the end of each year of the prisoner’s term of imprisonment, beginning at the end of the first year of the term, unless the Bureau of Prisons determines that, during that year, the prisoner has not satisfactorily complied with such institutional disciplinary regulations as have been approved by the Attorney General and issued to the prisoner.”
 
-Pub. L. 104–134, § 101[(a)] [title VIII, § 809(c)(1)(B)], in second sentence substituted “Subject to paragraph (2), a prisoner” for “A prisoner”, struck out “for a crime of violence,” after “1 year”, and struck out “such” after “compliance with”.
+Pub. L. 104–134, § 101[(a)] [title VIII, § 809(c)(1)(B)], in second sentence substituted “Subject to paragraph (2), a prisoner” for “A prisoner”, struck out “for a crime of violence,” after “1 year”, and struck out “such” after “compliance with”.
 
-Pub. L. 104–134, § 101[(a)] [title VIII, § 809(c)(1)(C)], in third sentence substituted “Subject to paragraph (2), if the Bureau” for “If the Bureau”.
+Pub. L. 104–134, § 101[(a)] [title VIII, § 809(c)(1)(C)], in third sentence substituted “Subject to paragraph (2), if the Bureau” for “If the Bureau”.
 
-Pub. L. 104–134, § 101[(a)] [title VIII, § 809(c)(1)(D)], in fourth sentence substituted “In awarding credit under this section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree.” for “The Bureau’s determination shall be made within fifteen days after the end of each year of the sentence.”
+Pub. L. 104–134, § 101[(a)] [title VIII, § 809(c)(1)(D)], in fourth sentence substituted “In awarding credit under this section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree.” for “The Bureau’s determination shall be made within fifteen days after the end of each year of the sentence.”
 
-Pub. L. 104–134, § 101[(a)] [title VIII, § 809(c)(1)(E)], in sixth sentence substituted “Subject to paragraph (2), credit for the last” for “Credit for the last”.
+Pub. L. 104–134, § 101[(a)] [title VIII, § 809(c)(1)(E)], in sixth sentence substituted “Subject to paragraph (2), credit for the last” for “Credit for the last”.
 
-Subsec. (b)(2). Pub. L. 104–134, § 101[(a)] [title VIII, § 809(c)(2)], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Credit toward a prisoner’s service of sentence shall not be vested unless the prisoner has earned or is making satisfactory progress toward a high school diploma or an equivalent degree.”
+Subsec. (b)(2). Pub. L. 104–134, § 101[(a)] [title VIII, § 809(c)(2)], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Credit toward a prisoner’s service of sentence shall not be vested unless the prisoner has earned or is making satisfactory progress toward a high school diploma or an equivalent degree.”
 
 1995—Subsec. (f)(6). Pub. L. 104–66 struck out par. (6) which read as follows: “A report shall be provided to Congress on an annual basis summarizing the results of this program, including the number of inmate participants, the number successfully completing the program, the number who do not successfully complete the program, and the reasons for failure to successfully complete the program.”
 
-1994—Subsec. (a). Pub. L. 103–322, § 20405(2), substituted “the prisoner’s” for “his” after “the expiration of” and “toward the service of”.
+1994—Subsec. (a). Pub. L. 103–322, § 20405(2), substituted “the prisoner’s” for “his” after “the expiration of” and “toward the service of”.
 
-Subsec. (b). Pub. L. 103–322, § 20412(1), (2), designated existing provisions as par. (1), substituted “Credit that has not been earned may not later be granted.” for “Such credit toward service of sentence vests at the time that it is received. Credit that has vested may not later be withdrawn, and credit that has not been earned may not later be granted.”, and added pars. (2) to (4).
+Subsec. (b). Pub. L. 103–322, § 20412(1), (2), designated existing provisions as par. (1), substituted “Credit that has not been earned may not later be granted.” for “Such credit toward service of sentence vests at the time that it is received. Credit that has vested may not later be withdrawn, and credit that has not been earned may not later be granted.”, and added pars. (2) to (4).
 
-Pub. L. 103–322, § 20405, inserted “(other than a prisoner serving a sentence for a crime of violence)” after “A prisoner” in first sentence, substituted “the prisoner” for “he” before “has not satisfactorily complied with” in first sentence and before “shall receive no such credit toward” in third sentence and “the prisoner’s” for “his” wherever appearing in first and third sentences, and inserted after first sentence “A prisoner who is serving a term of imprisonment of more than 1 year for a crime of violence, other than a term of imprisonment for the duration of the prisoner’s life, may receive credit toward the service of the prisoner’s sentence, beyond the time served, of up to 54 days at the end of each year of the prisoner’s term of imprisonment, beginning at the end of the first year of the term, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with such institutional disciplinary regulations.”
+Pub. L. 103–322, § 20405, inserted “(other than a prisoner serving a sentence for a crime of violence)” after “A prisoner” in first sentence, substituted “the prisoner” for “he” before “has not satisfactorily complied with” in first sentence and before “shall receive no such credit toward” in third sentence and “the prisoner’s” for “his” wherever appearing in first and third sentences, and inserted after first sentence “A prisoner who is serving a term of imprisonment of more than 1 year for a crime of violence, other than a term of imprisonment for the duration of the prisoner’s life, may receive credit toward the service of the prisoner’s sentence, beyond the time served, of up to 54 days at the end of each year of the prisoner’s term of imprisonment, beginning at the end of the first year of the term, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with such institutional disciplinary regulations.”
 
-Subsec. (c). Pub. L. 103–322, § 20405(2), substituted “the prisoner’s re-entry” for “his re-entry”.
+Subsec. (c). Pub. L. 103–322, § 20405(2), substituted “the prisoner’s re-entry” for “his re-entry”.
 
-Subsec. (d). Pub. L. 103–322, § 20405(2), (3), substituted “the prisoner” for “him” in introductory provisions and “the prisoner’s” for “his” wherever appearing in introductory provisions and par. (3).
+Subsec. (d). Pub. L. 103–322, § 20405(2), (3), substituted “the prisoner” for “him” in introductory provisions and “the prisoner’s” for “his” wherever appearing in introductory provisions and par. (3).
 
-1990—Subsec. (c). Pub. L. 101–647, § 2902(a), inserted after first sentence “The authority provided by this subsection may be used to place a prisoner in home confinement.”
+1990—Subsec. (c). Pub. L. 101–647, § 2902(a), inserted after first sentence “The authority provided by this subsection may be used to place a prisoner in home confinement.”
 
-Subsec. (f). Pub. L. 101–647, § 2904, added subsec. (f).
+Subsec. (f). Pub. L. 101–647, § 2904, added subsec. (f).
 
-1986—Subsec. (b). Pub. L. 99–646, § 16(a), substituted “beginning at the end of” for “beginning after”.
+1986—Subsec. (b). Pub. L. 99–646, § 16(a), substituted “beginning at the end of” for “beginning after”.
 
-Subsec. (e). Pub. L. 99–646, § 17(a), substituted “imprisonment and runs concurrently” for “imprisonment. The term runs concurrently” and “supervised released. A term of supervised release does not run” for “supervised release, except that it does not run”, struck out “, other than during limited intervals as a condition of probation or supervised release,” after “person is imprisoned”, and inserted “unless the imprisonment is for a period of less than 30 consecutive days” before the period at end of third sentence.
+Subsec. (e). Pub. L. 99–646, § 17(a), substituted “imprisonment and runs concurrently” for “imprisonment. The term runs concurrently” and “supervised released. A term of supervised release does not run” for “supervised release, except that it does not run”, struck out “, other than during limited intervals as a condition of probation or supervised release,” after “person is imprisoned”, and inserted “unless the imprisonment is for a period of less than 30 consecutive days” before the period at end of third sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–391, title I, § 102(b)(2), (3), Dec. 21, 2018, 132 Stat. 5213, provided that:
+Pub. L. 115–391, title I, § 102(b)(2), (3), Dec. 21, 2018, 132 Stat. 5213, provided that:
 
 > **“(2) Effective date.—** The amendments made by this subsection [amending this section] shall take effect beginning on the date that the Attorney General completes and releases the risk and needs assessment system under subchapter D of chapter 229 of title 18, United States Code, as added by section 101(a) of this Act.
 
@@ -1379,13 +1379,13 @@ Pub. L. 115–391, title I, § 102(b)(2), (3), Dec. 21, 2018, 132 Stat. 5213, 
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–647, title XXIX, § 2902(b), Nov. 29, 1990, 104 Stat. 4913, provided that: “Section 3624(c) of title 18, United States Code, as amended by this section, shall apply with respect to all inmates, regardless of the date of their offense.”
+Pub. L. 101–647, title XXIX, § 2902(b), Nov. 29, 1990, 104 Stat. 4913, provided that: “Section 3624(c) of title 18, United States Code, as amended by this section, shall apply with respect to all inmates, regardless of the date of their offense.”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–646, § 16(b), Nov. 10, 1986, 100 Stat. 3595, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the taking effect of such section 3624 [Nov. 1, 1987].”
+Pub. L. 99–646, § 16(b), Nov. 10, 1986, 100 Stat. 3595, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the taking effect of such section 3624 [Nov. 1, 1987].”
 
-Pub. L. 99–646, § 17(b), Nov. 10, 1986, 100 Stat. 3595, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the taking effect of such section 3624 [Nov. 1, 1987].”
+Pub. L. 99–646, § 17(b), Nov. 10, 1986, 100 Stat. 3595, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the taking effect of such section 3624 [Nov. 1, 1987].”
 
 **Effective Date**
 
@@ -1397,7 +1397,7 @@ For construction of amendments by Pub. L. 110–199 and requirements for grants 
 
 **Reentry Planning and Services for Incarcerated Women**
 
-Pub. L. 117–103, div. W, title X, § 1004, Mar. 15, 2022, 136 Stat. 918, provided that:
+Pub. L. 117–103, div. W, title X, § 1004, Mar. 15, 2022, 136 Stat. 918, provided that:
 
 > **“(a) In General.—** The Attorney General, in coordination with the Director of the Office of Probation and Pretrial Services and the Director of the Bureau of Prisons (including the Women and Special Population Branch), shall collaborate on a model of gender responsive transition for incarcerated women, including the development of a national standard on prevention with respect to domestic and sexual violence.
 
@@ -1425,11 +1425,11 @@ Pub. L. 117–103, div. W, title X, § 1004, Mar. 15, 2022, 136 Stat. 918, pro
 
 [For definitions of terms used in section 1004 of div. W of Pub. L. 117–103, set out above, see section 12291 of Title 34, Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of Title 34.]
 
-### § 3625. Inapplicability of the Administrative Procedure Act
+### § 3625. Inapplicability of the Administrative Procedure Act
 
 The provisions of sections 554 and 555 and 701 through 706 of title 5, United States Code, do not apply to the making of any determination, decision, or order under this subchapter.
 
-(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2010.)
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 2010.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1437,7 +1437,7 @@ The provisions of sections 554 and 555 and 701 through 706 of title 5, United St
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-### § 3626. Appropriate remedies with respect to prison conditions
+### § 3626. Appropriate remedies with respect to prison conditions
 
 **(a) Requirements for Relief.—**
 
@@ -1581,7 +1581,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 **(9)** the term “relief” means all relief in any form that may be granted or approved by the court, and includes consent decrees but does not include private settlement agreements.
 
-(Added Pub. L. 103–322, title II, § 20409(a), Sept. 13, 1994, 108 Stat. 1827; amended Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 802(a)], Apr. 26, 1996, 110 Stat. 1321, 1321–66; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–119, title I, § 123(a), Nov. 26, 1997, 111 Stat. 2470.)
+(Added Pub. L. 103–322, title II, § 20409(a), Sept. 13, 1994, 108 Stat. 1827; amended Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 802(a)], Apr. 26, 1996, 110 Stat. 1321, 1321–66; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–119, title I, § 123(a), Nov. 26, 1997, 111 Stat. 2470.)
 
 **Editorial Notes**
 
@@ -1593,19 +1593,19 @@ The Federal Rules of Civil Procedure, referred to in subsec. (g)(8), are set out
 
 **Amendments**
 
-1997—Subsec. (a)(1)(B)(i). Pub. L. 105–119, § 123(a)(1)(A), substituted “requires” for “permits”.
+1997—Subsec. (a)(1)(B)(i). Pub. L. 105–119, § 123(a)(1)(A), substituted “requires” for “permits”.
 
-Subsec. (a)(3)(A). Pub. L. 105–119, § 123(a)(1)(B)(i), substituted “no court shall enter a prisoner release order unless” for “no prisoner release order shall be entered unless”.
+Subsec. (a)(3)(A). Pub. L. 105–119, § 123(a)(1)(B)(i), substituted “no court shall enter a prisoner release order unless” for “no prisoner release order shall be entered unless”.
 
-Subsec. (a)(3)(F). Pub. L. 105–119, § 123(a)(1)(B)(ii), inserted “including a legislator” after “local official” and substituted “prison facilities” for “program facilities”.
+Subsec. (a)(3)(F). Pub. L. 105–119, § 123(a)(1)(B)(ii), inserted “including a legislator” after “local official” and substituted “prison facilities” for “program facilities”.
 
-Subsec. (b)(3). Pub. L. 105–119, § 123(a)(2), substituted “current and ongoing” for “current or ongoing”.
+Subsec. (b)(3). Pub. L. 105–119, § 123(a)(2), substituted “current and ongoing” for “current or ongoing”.
 
-Subsec. (e)(1). Pub. L. 105–119, § 123(a)(3)(A), inserted at end “Mandamus shall lie to remedy any failure to issue a prompt ruling on such a motion.”
+Subsec. (e)(1). Pub. L. 105–119, § 123(a)(3)(A), inserted at end “Mandamus shall lie to remedy any failure to issue a prompt ruling on such a motion.”
 
-Subsec. (e)(2). Pub. L. 105–119, § 123(a)(3)(B), substituted “Any motion to modify or terminate prospective relief made under subsection (b) shall operate as a stay” for “Any prospective relief subject to a pending motion shall be automatically stayed”.
+Subsec. (e)(2). Pub. L. 105–119, § 123(a)(3)(B), substituted “Any motion to modify or terminate prospective relief made under subsection (b) shall operate as a stay” for “Any prospective relief subject to a pending motion shall be automatically stayed”.
 
-Subsec. (e)(3), (4). Pub. L. 105–119, § 123(a)(3)(C), added pars. (3) and (4).
+Subsec. (e)(3), (4). Pub. L. 105–119, § 123(a)(3)(C), added pars. (3) and (4).
 
 1996—Pub. L. 104–134 amended section generally, substituting provisions relating to appropriate remedies with respect to prison conditions for former provisions relating to appropriate remedies with respect to prison crowding.
 
@@ -1613,35 +1613,35 @@ Subsec. (e)(3), (4). Pub. L. 105–119, § 123(a)(3)(C), added pars. (3) and (
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–119, title I, § 123(b), Nov. 26, 1997, 111 Stat. 2471, provided that: “The amendments made by this Act [probably should be “section”, amending this section] shall take effect upon the date of the enactment of this Act [Nov. 26, 1997] and shall apply to pending cases.”
+Pub. L. 105–119, title I, § 123(b), Nov. 26, 1997, 111 Stat. 2471, provided that: “The amendments made by this Act [probably should be “section”, amending this section] shall take effect upon the date of the enactment of this Act [Nov. 26, 1997] and shall apply to pending cases.”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 802(b)(1)], Apr. 26, 1996, 110 Stat. 1321, 1321–70, provided that: “Section 3626 of title 18, United States Code, as amended by this section, shall apply with respect to all prospective relief whether such relief was originally granted or approved before, on, or after the date of the enactment of this title [Apr. 26, 1996].”
+Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 802(b)(1)], Apr. 26, 1996, 110 Stat. 1321, 1321–70, provided that: “Section 3626 of title 18, United States Code, as amended by this section, shall apply with respect to all prospective relief whether such relief was originally granted or approved before, on, or after the date of the enactment of this title [Apr. 26, 1996].”
 
 **Effective and Termination Dates**
 
-Pub. L. 103–322, title II, § 20409(b), Sept. 13, 1994, 108 Stat. 1828, which provided that this section applied to all court orders outstanding on Sept. 13, 1994, and Pub. L. 103–322, title II, § 20409(d), Sept. 13, 1994, 108 Stat. 1828, which provided for the repeal of this section 5 years after Sept. 13, 1994, were repealed by Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 802(b)(2)], Apr. 26, 1996, 110 Stat. 1321, 1321–70; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 103–322, title II, § 20409(b), Sept. 13, 1994, 108 Stat. 1828, which provided that this section applied to all court orders outstanding on Sept. 13, 1994, and Pub. L. 103–322, title II, § 20409(d), Sept. 13, 1994, 108 Stat. 1828, which provided for the repeal of this section 5 years after Sept. 13, 1994, were repealed by Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 802(b)(2)], Apr. 26, 1996, 110 Stat. 1321, 1321–70; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
 **Severability**
 
-Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 810], Apr. 26, 1996, 110 Stat. 1321, 1321–77, provided that: “If any provision of this title [see Short Title of 1996 Amendment note set out under section 3601 of this title], an amendment made by this title, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this title, the amendments made by this title, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
+Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 810], Apr. 26, 1996, 110 Stat. 1321, 1321–77, provided that: “If any provision of this title [see Short Title of 1996 Amendment note set out under section 3601 of this title], an amendment made by this title, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this title, the amendments made by this title, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
 
 **Special Masters Appointed Prior to April 26, 1996; Prohibition on Use of Funds**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title III, § 306], Sept. 30, 1996, 110 Stat. 3009, 3009–45, provided that: “None of the funds available to the Judiciary in fiscal years 1996 and 1997 and hereafter shall be available for expenses authorized pursuant to section 802(a) of title VIII of section 101(a) of title I of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, Public Law 104–134 [amending this section], for costs related to the appointment of Special Masters prior to April 26, 1996.”
+Pub. L. 104–208, div. A, title I, § 101(a) [title III, § 306], Sept. 30, 1996, 110 Stat. 3009, 3009–45, provided that: “None of the funds available to the Judiciary in fiscal years 1996 and 1997 and hereafter shall be available for expenses authorized pursuant to section 802(a) of title VIII of section 101(a) of title I of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, Public Law 104–134 [amending this section], for costs related to the appointment of Special Masters prior to April 26, 1996.”
 
 **Payment of Damage Award in Satisfaction of Pending Restitution Orders**
 
-Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 807], Apr. 26, 1996, 110 Stat. 1321, 1321–75, provided that: “Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner.”
+Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 807], Apr. 26, 1996, 110 Stat. 1321, 1321–75, provided that: “Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner.”
 
 **Notice to Crime Victims of Pending Damage Award**
 
-Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 808], Apr. 26, 1996, 110 Stat. 1321, 1321–76, provided that: “Prior to payment of any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, reasonable efforts shall be made to notify the victims of the crime for which the prisoner was convicted and incarcerated concerning the pending payment of any such compensatory damages.”
+Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 808], Apr. 26, 1996, 110 Stat. 1321, 1321–76, provided that: “Prior to payment of any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, reasonable efforts shall be made to notify the victims of the crime for which the prisoner was convicted and incarcerated concerning the pending payment of any such compensatory damages.”
 
 ## SUBCHAPTER D—RISK AND NEEDS ASSESSMENT SYSTEM
 
-### § 3631. Duties of the Attorney General
+### § 3631. Duties of the Attorney General
 
 **(a) In General.—** The Attorney General shall carry out this subchapter in consultation with—
 
@@ -1655,9 +1655,9 @@ Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 808], Apr. 26, 1996,
 
 **(5)** the Director of the National Institute of Corrections; and
 
-**(6)** the Independent Review Committee authorized by the First Step Act of 2018 1
+**(6)** the Independent Review Committee authorized by the First Step Act of 2018 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(b) Duties.—** The Attorney General shall—
 
@@ -1691,7 +1691,7 @@ Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 808], Apr. 26, 1996,
 
 **(6)** report to Congress in accordance with section 3634.
 
-(Added Pub. L. 115–391, title I, § 101(a), Dec. 21, 2018, 132 Stat. 5195.)
+(Added Pub. L. 115–391, title I, § 101(a), Dec. 21, 2018, 132 Stat. 5195.)
 
 **Editorial Notes**
 
@@ -1705,7 +1705,7 @@ The date of enactment of this subchapter, referred to in subsec. (b)(1), (4)(A),
 
 **Independent Review Committee**
 
-Pub. L. 115–391, title I, § 107, Dec. 21, 2018, 132 Stat. 5215, provided that:
+Pub. L. 115–391, title I, § 107, Dec. 21, 2018, 132 Stat. 5215, provided that:
 
 > **“(a) In General.—** The Attorney General shall consult with an Independent Review Committee in carrying out the Attorney General’s duties under sections 3631(b), 3632 and 3633 of title 18, United States Code, as added by section 101(a) of this Act.
 
@@ -1751,7 +1751,7 @@ Pub. L. 115–391, title I, § 107, Dec. 21, 2018, 132 Stat. 5215, provided th
 
 > **“(h) Termination.—** The Independent Review Committee shall terminate on the date that is 2 years after the date on which the risk and needs assessment system authorized by sections 3632 and 3633 of title 18, United States Code, as added by section 101(a) of this Act, is released.”
 
-### § 3632. Development of risk and needs assessment system
+### § 3632. Development of risk and needs assessment system
 
 **(a) In General.—** Not later than 210 days after the date of enactment of this subchapter, the Attorney General, in consultation with the Independent Review Committee authorized by the First Step Act of 2018, shall develop and release publicly on the Department of Justice website a risk and needs assessment system (referred to in this subchapter as the “System”), which shall be used to—
 
@@ -1767,9 +1767,9 @@ Pub. L. 115–391, title I, § 107, Dec. 21, 2018, 132 Stat. 5215, provided th
 
 **(A)** all prisoners at each risk level have a meaningful opportunity to reduce their classification during the period of incarceration;
 
-**(B)** to address 1
+**(B)** to address 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 the specific criminogenic needs of the prisoner; and
 
@@ -1957,9 +1957,9 @@ In carrying out this subsection, the Attorney General may use existing risk and 
 
 **(lxi)** Section 278 of the Immigration and Nationality Act (8 U.S.C. 1328), relating to the importation of an alien into the United States for an immoral purpose.
 
-**(lxii)** Any section of the Export Administration Act of 1979 (50 U.S.C. 4611 et seq.) 2
+**(lxii)** Any section of the Export Administration Act of 1979 (50 U.S.C. 4611 et seq.) 2
 
-<sup>2</sup>  So in original. Probably should be followed by a period.
+<sup>2</sup> So in original. Probably should be followed by a period.
 
 **(lxiii)** Section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705).
 
@@ -2017,7 +2017,7 @@ In carrying out this subsection, the Attorney General may use existing risk and 
 
 **(2) Treatment.—** The Attorney General shall incorporate programs designed to treat dyslexia into the evidence-based recidivism reduction programs or productive activities required to be implemented under this section. The Attorney General may also incorporate programs designed to treat other learning disabilities.
 
-(Added Pub. L. 115–391, title I, § 101(a), Dec. 21, 2018, 132 Stat. 5196.)
+(Added Pub. L. 115–391, title I, § 101(a), Dec. 21, 2018, 132 Stat. 5196.)
 
 **Editorial Notes**
 
@@ -2027,9 +2027,9 @@ The date of enactment of this subchapter, referred to in subsecs. (a) and (d)(4)
 
 The First Step Act of 2018, referred to in subsec. (a), is Pub. L. 115–391, Dec. 21, 2018, 132 Stat. 5194. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note under section 1 of this title and Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (d)(4)(D)(lxii), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
+The Export Administration Act of 1979, referred to in subsec. (d)(4)(D)(lxii), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
-### § 3633. Evidence-based recidivism reduction program and recommendations
+### § 3633. Evidence-based recidivism reduction program and recommendations
 
 **(a) In General.—** Prior to releasing the System, in consultation with the Independent Review Committee authorized by the First Step Act of 2018, the Attorney General shall—
 
@@ -2055,7 +2055,7 @@ The Export Administration Act of 1979, referred to in subsec. (d)(4)(D)(lxii), i
 
 **(2)** incorporating the findings of the Attorney General under paragraph (1) of this subsection into any directives given to the Bureau of Prisons under paragraph (5) of subsection (a).
 
-(Added Pub. L. 115–391, title I, § 101(a), Dec. 21, 2018, 132 Stat. 5204.)
+(Added Pub. L. 115–391, title I, § 101(a), Dec. 21, 2018, 132 Stat. 5204.)
 
 **Editorial Notes**
 
@@ -2065,7 +2065,7 @@ The First Step Act of 2018, referred to in subsec. (a), is Pub. L. 115–391, De
 
 The date of enactment of this subchapter, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 115–391, which was approved Dec. 21, 2018.
 
-### § 3634. Report
+### § 3634. Report
 
 Beginning on the date that is 2 years after the date of enactment of this subchapter, and annually thereafter for a period of 5 years, the Attorney General shall submit a report to the Committees on the Judiciary of the Senate and the House of Representatives and the Subcommittees on Commerce, Justice, Science, and Related Agencies of the Committees on Appropriations of the Senate and the House of Representatives that contains the following:
 
@@ -2135,7 +2135,7 @@ Beginning on the date that is 2 years after the date of enactment of this subcha
 
 **(B)** any change in the effectiveness of dyslexia mitigation programs among such prisoners that may be attributed to the incorporation of dyslexia screening into the System and of dyslexia treatment into the evidence-based recidivism reduction programs, as required under this chapter.
 
-(Added Pub. L. 115–391, title I, § 101(a), Dec. 21, 2018, 132 Stat. 5205.)
+(Added Pub. L. 115–391, title I, § 101(a), Dec. 21, 2018, 132 Stat. 5205.)
 
 **Editorial Notes**
 
@@ -2145,7 +2145,7 @@ The date of enactment of this subchapter, referred to in text, is the date of en
 
 This Act, referred to in par. (1), is Pub. L. 115–391, Dec. 21, 2018, 132 Stat. 5194, known as the First Step Act of 2018. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note under section 1 of this title and Tables.
 
-### § 3635. Definitions
+### § 3635. Definitions
 
 In this subchapter the following definitions apply:
 
@@ -2195,9 +2195,9 @@ In this subchapter the following definitions apply:
 
 **(4) Prisoner.—** The term “prisoner” means a person who has been sentenced to a term of imprisonment pursuant to a conviction for a Federal criminal offense, or a person in the custody of the Bureau of Prisons.
 
-**(5) Productive activity.—** The term “productive activity” means either a group or individual activity that is designed to allow prisoners determined as having a minimum or low risk of recidivating to remain productive and thereby maintain a minimum or low risk of recidivating, and may include the delivery of the programs described in paragraph (1) 1
+**(5) Productive activity.—** The term “productive activity” means either a group or individual activity that is designed to allow prisoners determined as having a minimum or low risk of recidivating to remain productive and thereby maintain a minimum or low risk of recidivating, and may include the delivery of the programs described in paragraph (1) 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph (3)”.
+<sup>1</sup> So in original. Probably should be “paragraph (3)”.
 
 to other prisoners.
 
@@ -2209,4 +2209,4 @@ to other prisoners.
 
 **(C)** the periodic reassessment of risk that a prisoner will recidivate upon release from prison, based on factors including indicators of progress and of regression, that are dynamic and that can reasonably be expected to change while in prison.
 
-(Added Pub. L. 115–391, title I, § 101(a), Dec. 21, 2018, 132 Stat. 5207.)
+(Added Pub. L. 115–391, title I, § 101(a), Dec. 21, 2018, 132 Stat. 5207.)

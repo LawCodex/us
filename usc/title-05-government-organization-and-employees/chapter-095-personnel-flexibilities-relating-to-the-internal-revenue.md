@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 95—PERSONNEL FLEXIBILITIES RELATING TO THE INTERNAL REVENUE SERVICE
 
-## § 9501. Internal Revenue Service personnel flexibilities
+## § 9501. Internal Revenue Service personnel flexibilities
 
 **(a)** Any flexibilities provided by sections 9502 through 9510 of this chapter shall be exercised in a manner consistent with—
 
@@ -33,15 +33,15 @@ retrieved: 2026-10-11
 
 **(c)** Employees within a unit to which a labor organization is accorded exclusive recognition under chapter 71 shall not be subject to any flexibility provided by sections 9507 through 9510 of this chapter unless the exclusive representative and the Internal Revenue Service have entered into a written agreement which specifically provides for the exercise of that flexibility. Such written agreement may be imposed by the Federal Services Impasses Panel under section 7119.
 
-(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 712.)
+(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 712.)
 
-## § 9502. Pay authority for critical positions
+## § 9502. Pay authority for critical positions
 
 **(a)** When the Secretary of the Treasury seeks a grant of authority under section 5377 for critical pay for 1 or more positions at the Internal Revenue Service, the Office of Personnel Management may fix the rate of basic pay, notwithstanding sections 5377(d)(2) and 5307, at any rate up to the salary set in accordance with section 104 of title 3.
 
 **(b)** Notwithstanding section 5307, no allowance, differential, bonus, award, or similar cash payment may be paid to any employee receiving critical pay at a rate fixed under subsection (a), in any calendar year if, or to the extent that, the employee’s total annual compensation will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3.
 
-(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 712; amended Pub. L. 110–161, div. D, title I, § 107, Dec. 26, 2007, 121 Stat. 1977.)
+(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 712; amended Pub. L. 110–161, div. D, title I, § 107, Dec. 26, 2007, 121 Stat. 1977.)
 
 **Editorial Notes**
 
@@ -49,11 +49,11 @@ retrieved: 2026-10-11
 
 2007—Subsec. (a). Pub. L. 110–161 substituted “Office of Personnel Management” for “Office of Management and Budget”.
 
-## § 9503. Streamlined critical pay authority
+## § 9503. Streamlined critical pay authority
 
-**(a)** Notwithstanding section 9502, and without regard to the provisions of this title governing appointments in the competitive service or the Senior Executive Service and chapters 51 and 53 (relating to classification and pay rates), the Secretary of the Treasury may, Before 1
+**(a)** Notwithstanding section 9502, and without regard to the provisions of this title governing appointments in the competitive service or the Senior Executive Service and chapters 51 and 53 (relating to classification and pay rates), the Secretary of the Treasury may, Before 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 September 30, 2013, establish, fix the compensation of, and appoint individuals to, designated critical administrative, technical, and professional positions needed to carry out the functions of the Internal Revenue Service, if—
 
@@ -79,7 +79,7 @@ September 30, 2013, establish, fix the compensation of, and appoint individuals 
 
 **(b)** Individuals appointed under this section shall not be considered to be employees for purposes of subchapter II of chapter 75.
 
-(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 712; amended Pub. L. 110–161, div. D, title I, § 105, Dec. 26, 2007, 121 Stat. 1977; Pub. L. 113–6, div. F, title III, § 1309, Mar. 26, 2013, 127 Stat. 418.)
+(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 712; amended Pub. L. 110–161, div. D, title I, § 105, Dec. 26, 2007, 121 Stat. 1977; Pub. L. 113–6, div. F, title III, § 1309, Mar. 26, 2013, 127 Stat. 418.)
 
 **Editorial Notes**
 
@@ -93,13 +93,13 @@ The provisions of this title governing appointments in the competitive service, 
 
 2007—Subsec. (a). Pub. L. 110–161 substituted “before July 23, 2013” for “for a period of 10 years after the date of enactment of this section” in introductory provisions.
 
-## § 9504. Recruitment, retention, relocation incentives, and relocation expenses
+## § 9504. Recruitment, retention, relocation incentives, and relocation expenses
 
 **(a)** Before September 30, 2013 and subject to approval by the Office of Personnel Management, the Secretary of the Treasury may provide for variations from sections 5753 and 5754 governing payment of recruitment, relocation, and retention incentives.
 
 **(b)** Before September 30, 2013, the Secretary of the Treasury may pay from appropriations made to the Internal Revenue Service allowable relocation expenses under section 5724a for employees transferred or reemployed and allowable travel and transportation expenses under section 5723 for new appointees, for any new appointee appointed to a position for which pay is fixed under section 9502 or 9503 after June 1, 1998.
 
-(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 713; amended Pub. L. 110–161, div. D, title I, § 106, Dec. 26, 2007, 121 Stat. 1977; Pub. L. 113–6, div. F, title III, § 1309, Mar. 26, 2013, 127 Stat. 418.)
+(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 713; amended Pub. L. 110–161, div. D, title I, § 106, Dec. 26, 2007, 121 Stat. 1977; Pub. L. 113–6, div. F, title III, § 1309, Mar. 26, 2013, 127 Stat. 418.)
 
 **Editorial Notes**
 
@@ -109,7 +109,7 @@ The provisions of this title governing appointments in the competitive service, 
 
 2007—Subsecs. (a), (b). Pub. L. 110–161 substituted “Before July 23, 2013” for “For a period of 10 years after the date of enactment of this section”.
 
-## § 9505. Performance awards for senior executives
+## § 9505. Performance awards for senior executives
 
 **(a)** Before September 30, 2013, Internal Revenue Service senior executives who have program management responsibility over significant functions of the Internal Revenue Service may be paid a performance bonus without regard to the limitation in section 5384(b)(2) if the Secretary of the Treasury finds such award warranted based on the executive’s performance.
 
@@ -121,7 +121,7 @@ The provisions of this title governing appointments in the competitive service, 
 
 **(e)** Notwithstanding section 5307, a performance bonus award may not be paid to an executive in a calendar year if, or to the extent that, the executive’s total annual compensation will exceed the maximum amount of total annual compensation payable at the rate determined under section 104 of title 3.
 
-(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 713; amended Pub. L. 107–217, § 3(a)(2), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–7, div. J, title VI, § 645(a), Feb. 20, 2003, 117 Stat. 474; Pub. L. 110–161, div. D, title I, § 106, Dec. 26, 2007, 121 Stat. 1977; Pub. L. 113–6, div. F, title III, § 1309, Mar. 26, 2013, 127 Stat. 418.)
+(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 713; amended Pub. L. 107–217, § 3(a)(2), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–7, div. J, title VI, § 645(a), Feb. 20, 2003, 117 Stat. 474; Pub. L. 110–161, div. D, title I, § 106, Dec. 26, 2007, 121 Stat. 1977; Pub. L. 113–6, div. F, title III, § 1309, Mar. 26, 2013, 127 Stat. 418.)
 
 **Editorial Notes**
 
@@ -143,9 +143,9 @@ The Government Performance and Results Act of 1993, referred to in subsec. (b), 
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–7, div. J, title VI, § 645(b), Feb. 20, 2003, 117 Stat. 474, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal years beginning after September 30, 2002.”
+Pub. L. 108–7, div. J, title VI, § 645(b), Feb. 20, 2003, 117 Stat. 474, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal years beginning after September 30, 2002.”
 
-## § 9506. Limited appointments to career reserved Senior Executive Service positions
+## § 9506. Limited appointments to career reserved Senior Executive Service positions
 
 **(a)** In the application of section 3132, a “career reserved position” in the Internal Revenue Service means a position designated under section 3132(b) which may be filled only by—
 
@@ -171,9 +171,9 @@ Pub. L. 108–7, div. J, title VI, § 645(b), Feb. 20, 2003, 117 Stat. 474, pr
 
 **(ii)** two such terms in addition to any unexpired term applicable at the time of appointment.
 
-(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 714.)
+(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 714.)
 
-## § 9507. Streamlined demonstration project authority
+## § 9507. Streamlined demonstration project authority
 
 **(a)** The exercise of any of the flexibilities under sections 9502 through 9510 shall not affect the authority of the Secretary of the Treasury to implement for the Internal Revenue Service a demonstration project subject to chapter 47, as provided in subsection (b).
 
@@ -201,9 +201,9 @@ Pub. L. 108–7, div. J, title VI, § 645(b), Feb. 20, 2003, 117 Stat. 474, pr
 
 **(c)** At least 90 days before waiving the termination date under subsection (b)(7), the Office of Personnel Management shall publish in the Federal Register a notice of its intention to waive the termination date and shall inform in writing both Houses of Congress of its intention.
 
-(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 715.)
+(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 715.)
 
-## § 9508. General workforce performance management system
+## § 9508. General workforce performance management system
 
 **(a)** In lieu of a performance appraisal system established under section 4302, the Secretary of the Treasury shall, within 1 year after the date of enactment of this section, establish for the Internal Revenue Service a performance management system that—
 
@@ -247,7 +247,7 @@ Pub. L. 108–7, div. J, title VI, § 645(b), Feb. 20, 2003, 117 Stat. 474, pr
 
 **(2)** Notwithstanding the second sentence of section 5335(c), an employee of the Internal Revenue Service shall not have a right to appeal the denial of a periodic step increase under section 5335 to the Merit Systems Protection Board.
 
-(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 715; amended Pub. L. 107–217, § 3(a)(3), Aug. 21, 2002, 116 Stat. 1295.)
+(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 715; amended Pub. L. 107–217, § 3(a)(3), Aug. 21, 2002, 116 Stat. 1295.)
 
 **Editorial Notes**
 
@@ -263,7 +263,7 @@ The Government Performance and Results Act of 1993, referred to in subsec. (a)(2
 
 2002—Subsec. (a)(2)(A). Pub. L. 107–217 substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 (Public Law 104–106; 110 Stat. 679)”.
 
-## § 9509. General workforce classification and pay
+## § 9509. General workforce classification and pay
 
 **(a)** For purposes of this section, the term “broad-banded system” means a system for grouping positions for pay, job evaluation, and other purposes that is different from the system established under chapter 51 and subchapter III of chapter 53 as a result of combining grades and related ranges of rates of pay in one or more occupational series.
 
@@ -295,9 +295,9 @@ The Government Performance and Results Act of 1993, referred to in subsec. (a)(2
 
 **(c)** With the approval of the Office of Personnel Management and in accordance with a plan for implementation submitted by the Secretary of the Treasury, the Secretary may, with respect to Internal Revenue Service employees who are covered by a broad-banded system established under this section, provide for variations from the provisions of subchapter VI of chapter 53.
 
-(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 716.)
+(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 716.)
 
-## § 9510. General workforce staffing
+## § 9510. General workforce staffing
 
 **(a)**
 
@@ -335,7 +335,7 @@ The Government Performance and Results Act of 1993, referred to in subsec. (a)(2
 
 **(2)** any obligation under a court order or decree relating to the employment practices of the Internal Revenue Service or the Department of the Treasury.
 
-(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 717; amended Pub. L. 114–137, § 2(c), Mar. 18, 2016, 130 Stat. 312.)
+(Added Pub. L. 105–206, title I, § 1201(a), July 22, 1998, 112 Stat. 717; amended Pub. L. 114–137, § 2(c), Mar. 18, 2016, 130 Stat. 312.)
 
 **Editorial Notes**
 

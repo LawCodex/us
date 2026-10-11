@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 15—EGG PRODUCTS INSPECTION
 
-## § 1031. Congressional statement of findings
+## § 1031. Congressional statement of findings
 
 Eggs and egg products are an important source of the Nation’s total supply of food, and are used in food in various forms. They are consumed throughout the Nation and the major portion thereof moves in interstate or foreign commerce. It is essential, in the public interest, that the health and welfare of consumers be protected by the adoption of measures prescribed herein for assuring that eggs and egg products distributed to them and used in products consumed by them are wholesome, otherwise not adulterated, and properly labeled and packaged. Lack of effective regulation for the handling or disposition of unwholesome, otherwise adulterated, or improperly labeled or packaged egg products and certain qualities of eggs is injurious to the public welfare and destroys markets for wholesome, not adulterated, and properly labeled and packaged eggs and egg products and results in sundry losses to producers and processors, as well as injury to consumers. Unwholesome, otherwise adulterated, or improperly labeled or packaged products can be sold at lower prices and compete unfairly with the wholesome, not adulterated, and properly labeled and packaged products, to the detriment of consumers and the public generally. It is hereby found that all egg products and the qualities of eggs which are regulated under this chapter are either in interstate or foreign commerce, or substantially affect such commerce, and that regulation by the Secretary of Agriculture and the Secretary of Health and Human Services, and cooperation by the States and other jurisdictions, as contemplated by this chapter, are appropriate to prevent and eliminate burdens upon such commerce, to effectively regulate such commerce, and to protect the health and welfare of consumers.
 
-(Pub. L. 91–597, § 2, Dec. 29, 1970, 84 Stat. 1620; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–597, § 2, Dec. 29, 1970, 84 Stat. 1620; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
@@ -35,15 +35,15 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Effective Date**
 
-Pub. L. 91–597, § 29, Dec. 29, 1970, 84 Stat. 1635, provided that: “The provisions of this Act [enacting this chapter, amending sections 633 and 636 of Title 15, Commerce and Trade, and enacting provisions set out as notes under this section] with respect to egg products shall take effect six months after enactment [Dec. 29, 1970]. Otherwise, this Act shall take effect eighteen months after enactment.”
+Pub. L. 91–597, § 29, Dec. 29, 1970, 84 Stat. 1635, provided that: “The provisions of this Act [enacting this chapter, amending sections 633 and 636 of Title 15, Commerce and Trade, and enacting provisions set out as notes under this section] with respect to egg products shall take effect six months after enactment [Dec. 29, 1970]. Otherwise, this Act shall take effect eighteen months after enactment.”
 
 **Short Title**
 
-Pub. L. 91–597, § 1, Dec. 29, 1970, 84 Stat. 1620, provided: “That this Act [enacting this chapter, amending sections 633 and 636 of Title 15, Commerce and Trade, and enacting provisions set as notes under this section] may be cited as the ‘Egg Products Inspection Act’.”
+Pub. L. 91–597, § 1, Dec. 29, 1970, 84 Stat. 1620, provided: “That this Act [enacting this chapter, amending sections 633 and 636 of Title 15, Commerce and Trade, and enacting provisions set as notes under this section] may be cited as the ‘Egg Products Inspection Act’.”
 
 **Maintenance of Eggs at Proper Temperature**
 
-Pub. L. 102–237, title X, § 1012(a), Dec. 13, 1991, 105 Stat. 1899, provided that:
+Pub. L. 102–237, title X, § 1012(a), Dec. 13, 1991, 105 Stat. 1899, provided that:
 
 > **“(1) Findings.—** Congress finds that—
 
@@ -55,11 +55,11 @@ Pub. L. 102–237, title X, § 1012(a), Dec. 13, 1991, 105 Stat. 1899, provide
 
 > **“(2) Purposes.—** It is the purpose of this section [amending sections 1034, 1037, 1041, 1042, 1046, and 1052 of this title and enacting provisions set out as a note under section 1034 of this title] to prescribe the temperature at which eggs are maintained in order to reduce the potential for harmful microbial growth to protect the health and welfare of consumers.”
 
-## § 1032. Congressional declaration of policy
+## § 1032. Congressional declaration of policy
 
 It is hereby declared to be the policy of the Congress to provide for the inspection of certain egg products, restrictions upon the disposition of certain qualities of eggs, and uniformity of standards for eggs, and otherwise regulate the processing and distribution of eggs and egg products as hereinafter prescribed to prevent the movement or sale for human food, of eggs and egg products which are adulterated or misbranded or otherwise in violation of this chapter.
 
-(Pub. L. 91–597, § 3, Dec. 29, 1970, 84 Stat. 1621.)
+(Pub. L. 91–597, § 3, Dec. 29, 1970, 84 Stat. 1621.)
 
 **Editorial Notes**
 
@@ -73,7 +73,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1033. Definitions
+## § 1033. Definitions
 
 For purposes of this chapter—
 
@@ -177,7 +177,7 @@ For purposes of this chapter—
 
 **(z)** The term “United States” means the States.
 
-(Pub. L. 91–597, § 4, Dec. 29, 1970, 84 Stat. 1621; Pub. L. 102–571, title I, § 107(15), Oct. 29, 1992, 106 Stat. 4499.)
+(Pub. L. 91–597, § 4, Dec. 29, 1970, 84 Stat. 1621; Pub. L. 102–571, title I, § 107(15), Oct. 29, 1992, 106 Stat. 4499.)
 
 **Editorial Notes**
 
@@ -185,13 +185,13 @@ For purposes of this chapter—
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
 
-The Fair Packaging and Labeling Act, referred to in subsec. (h), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296, which is classified generally to chapter 39 (§ 1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
+The Fair Packaging and Labeling Act, referred to in subsec. (h), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296, which is classified generally to chapter 39 (§ 1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (i) and (u), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (i) and (u), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 The effective date of this chapter, referred to in subsec. (r), means the effective date of Pub. L. 91–597. For such effective date, see Effective Date note set out under section 1031 of this title.
 
-The Agricultural Marketing Act of 1946, referred to in subsec. (r), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, which is classified generally to chapter 38 (§ 1621 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of Title 7 and Tables.
+The Agricultural Marketing Act of 1946, referred to in subsec. (r), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, which is classified generally to chapter 38 (§ 1621 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of Title 7 and Tables.
 
 **Amendments**
 
@@ -203,7 +203,7 @@ The Agricultural Marketing Act of 1946, referred to in subsec. (r), is title II 
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1034. Inspection of egg products
+## § 1034. Inspection of egg products
 
 **(a) Processing operations and establishments subject to coverage; rules and regulations**
 
@@ -237,7 +237,7 @@ The Secretary shall cause such other inspections to be made of the business prem
 
 **(5)** A representative of the Secretary and the Secretary of Health and Human Services shall be afforded access to a place of business referred to in this subsection, including a transport vehicle, for purposes of making an inspection required under this subsection.
 
-(Pub. L. 91–597, § 5, Dec. 29, 1970, 84 Stat. 1624; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, § 1012(b), Dec. 13, 1991, 105 Stat. 1899.)
+(Pub. L. 91–597, § 5, Dec. 29, 1970, 84 Stat. 1624; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, § 1012(b), Dec. 13, 1991, 105 Stat. 1899.)
 
 **Editorial Notes**
 
@@ -257,13 +257,13 @@ This chapter, referred to in subsecs. (a) and (d), was in the original “this A
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–237, title X, § 1012(h), Dec. 13, 1991, 105 Stat. 1901, provided that: “This section and the amendments made by this section [amending this section and sections 1037, 1041, 1042, 1046, and 1052 of this title and enacting provisions set out as a note under section 1031 of this title] shall become effective 12 months after the Secretary of Agriculture promulgates final regulations implementing this section and the amendments.” [Final regulations were promulgated Aug. 20, 1998, effective Aug. 27, 1999. See 63 F.R. 45663.]
+Pub. L. 102–237, title X, § 1012(h), Dec. 13, 1991, 105 Stat. 1901, provided that: “This section and the amendments made by this section [amending this section and sections 1037, 1041, 1042, 1046, and 1052 of this title and enacting provisions set out as a note under section 1031 of this title] shall become effective 12 months after the Secretary of Agriculture promulgates final regulations implementing this section and the amendments.” [Final regulations were promulgated Aug. 20, 1998, effective Aug. 27, 1999. See 63 F.R. 45663.]
 
 **Effective Date**
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1035. Sanitary operating practices in official plants
+## § 1035. Sanitary operating practices in official plants
 
 **(a) Premises, facilities, and equipment**
 
@@ -273,7 +273,7 @@ Each official plant shall be operated in accordance with such sanitary practices
 
 The Secretary shall refuse to render inspection to any plant whose premises, facilities, or equipment, or the operation thereof, fail to meet the requirements of this section.
 
-(Pub. L. 91–597, § 6, Dec. 29, 1970, 84 Stat. 1625.)
+(Pub. L. 91–597, § 6, Dec. 29, 1970, 84 Stat. 1625.)
 
 **Editorial Notes**
 
@@ -287,7 +287,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1036. Pasteurization and labeling of egg products at official plants
+## § 1036. Pasteurization and labeling of egg products at official plants
 
 **(a) Contents of label**
 
@@ -297,11 +297,11 @@ Egg products inspected at any official plant under the authority of this chapter
 
 No labeling or container shall be used for egg products at official plants if it is false or misleading or has not been approved as required by the regulations of the Secretary. If the Secretary has reason to believe that any labeling or the size or form of any container in use or proposed for use with respect to egg products at any official plant is false or misleading in any particular, he may direct that such use be withheld unless the labeling or container is modified in such manner as he may prescribe so that it will not be false or misleading. If the person using or proposing to use the labeling or container does not accept the determination of the Secretary, such person may request a hearing, but the use of the labeling or container shall, if the Secretary so directs, be withheld pending hearing and final determination by the Secretary. Any such determination by the Secretary shall be conclusive unless, within thirty days after receipt of notice of such final determination, the person adversely affected thereby appeals to the United States court of appeals for the circuit in which such person has its principal place of business or to the United States Court of Appeals for the District of Columbia Circuit. The provisions of section 194 of title 7,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 shall be applicable to appeals taken under this section.
 
-(Pub. L. 91–597, § 7, Dec. 29, 1970, 84 Stat. 1625.)
+(Pub. L. 91–597, § 7, Dec. 29, 1970, 84 Stat. 1625.)
 
 **Editorial Notes**
 
@@ -315,7 +315,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1037. Prohibited acts
+## § 1037. Prohibited acts
 
 **(a)**
 
@@ -357,7 +357,7 @@ For effective date of this section, see section 29 of Pub. L. 91–597, set out 
 
 **(f)** No person, while an official or employee of the United States Government or any State or local governmental agency, or thereafter, shall use to his own advantage, or reveal other than to the authorized representatives of the United States Government or any State or other government in their official capacity, or as ordered by a court in a judicial proceeding, any information acquired under the authority of this chapter concerning any matter which is entitled to protection as a trade secret.
 
-(Pub. L. 91–597, § 8, Dec. 29, 1970, 84 Stat. 1626; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, § 1012(c), Dec. 13, 1991, 105 Stat. 1899.)
+(Pub. L. 91–597, § 8, Dec. 29, 1970, 84 Stat. 1626; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, § 1012(c), Dec. 13, 1991, 105 Stat. 1899.)
 
 **Editorial Notes**
 
@@ -383,11 +383,11 @@ Amendment by Pub. L. 102–237 effective 12 months after promulgation of final i
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1038. Cooperation with appropriate State and other governmental agencies; utilization of employees; reimbursement
+## § 1038. Cooperation with appropriate State and other governmental agencies; utilization of employees; reimbursement
 
 The Secretary shall, whenever he determines that it would effectuate the purposes of this chapter, cooperate with appropriate State and other governmental agencies, in carrying out any provisions of this chapter. In carrying out the provisions of this chapter, the Secretary may conduct such examinations, investigations, and inspections as he determines practicable through any officer or employee of any such agency commissioned by him for such purpose. The Secretary shall reimburse the States and other agencies for the costs incurred by them in such cooperative programs.
 
-(Pub. L. 91–597, § 9, Dec. 29, 1970, 84 Stat. 1627.)
+(Pub. L. 91–597, § 9, Dec. 29, 1970, 84 Stat. 1627.)
 
 **Editorial Notes**
 
@@ -401,11 +401,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1039. Eggs and egg products not intended for use as human food; inspection; denaturing or otherwise identifying
+## § 1039. Eggs and egg products not intended for use as human food; inspection; denaturing or otherwise identifying
 
 Inspection shall not be provided under this chapter at any plant for the processing of any egg products which are not intended for use as human food, but such articles, prior to their offer for sale or transportation in commerce, shall be denatured or otherwise identified as prescribed by regulations of the Secretary to deter their use for human food. No person shall buy, sell, or transport or offer to buy or sell, or offer or receive for transportation, in commerce, any restricted eggs or egg products which are not intended for use as human food unless they are denatured or otherwise identified as required by the regulations of the Secretary.
 
-(Pub. L. 91–597, § 10, Dec. 29, 1970, 84 Stat. 1627.)
+(Pub. L. 91–597, § 10, Dec. 29, 1970, 84 Stat. 1627.)
 
 **Editorial Notes**
 
@@ -419,11 +419,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1040. Recordkeeping requirements; persons required to maintain records; scope of disclosure; access to records
+## § 1040. Recordkeeping requirements; persons required to maintain records; scope of disclosure; access to records
 
 For the purpose of enforcing the provisions of this chapter and the regulations promulgated thereunder, all persons engaged in the business of transporting, shipping, or receiving any eggs or egg products in commerce or holding such articles so received, and all egg handlers, shall maintain such records showing, for such time and in such form and manner, as the Secretary of Agriculture or the Secretary of Health and Human Services may prescribe, to the extent that they are concerned therewith, the receipt, delivery, sale, movement, and disposition of all eggs and egg products handled by them, and shall, upon the request of a duly authorized representative of either of said Secretaries, permit him at reasonable times to have access to and to copy all such records.
 
-(Pub. L. 91–597, § 11, Dec. 29, 1970, 84 Stat. 1627; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–597, § 11, Dec. 29, 1970, 84 Stat. 1627; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
@@ -441,7 +441,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1041. Enforcement provisions
+## § 1041. Enforcement provisions
 
 **(a) Violations of section 1037; term of imprisonment and fine**
 
@@ -487,13 +487,13 @@ When construing or enforcing the provisions of section 1037 of this title, the a
 
 **(e) Penalties applicable to carriers or warehousemen**
 
-No carrier or warehouseman shall be subject to the penalties of this chapter, other than the penalties for violation of section 1040 of this title or paragraph (c) 1
+No carrier or warehouseman shall be subject to the penalties of this chapter, other than the penalties for violation of section 1040 of this title or paragraph (c) 1
 
-<sup>1</sup>  So in original. Probably should be “subsection (c)”.
+<sup>1</sup> So in original. Probably should be “subsection (c)”.
 
 of this section, by reason of his receipt, carriage, holding, or delivery, in the usual course of business, as a carrier or warehouseman of eggs or egg products owned by another person unless the carrier or warehouseman has knowledge, or is in possession of facts which would cause a reasonable person to believe that such eggs or egg products were not eligible for transportation under, or were otherwise in violation of, this chapter, or unless the carrier or warehouseman refuses to furnish on request of a representative of the Secretary the name and address of the person from whom he received such eggs or egg products and copies of all documents, if there be any, pertaining to the delivery of the eggs or egg products to, or by, such carrier or ware­houseman.
 
-(Pub. L. 91–597, § 12, Dec. 29, 1970, 84 Stat. 1628; Pub. L. 102–237, title X, § 1012(d), Dec. 13, 1991, 105 Stat. 1899.)
+(Pub. L. 91–597, § 12, Dec. 29, 1970, 84 Stat. 1628; Pub. L. 102–237, title X, § 1012(d), Dec. 13, 1991, 105 Stat. 1899.)
 
 **Editorial Notes**
 
@@ -503,15 +503,15 @@ This chapter, referred to in subsecs. (b), (c)(1)(A), and (e), was in the origin
 
 **Amendments**
 
-1991—Subsec. (a). Pub. L. 102–237, § 1012(d)(1), (2), substituted “$5,000” for “$1,000” in first sentence, and redesignated last sentence, relating to scope of liability for violations of section 1037 of this title, as subsec. (d).
+1991—Subsec. (a). Pub. L. 102–237, § 1012(d)(1), (2), substituted “$5,000” for “$1,000” in first sentence, and redesignated last sentence, relating to scope of liability for violations of section 1037 of this title, as subsec. (d).
 
-Subsec. (b). Pub. L. 102–237, § 1012(d)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (e).
+Subsec. (b). Pub. L. 102–237, § 1012(d)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (e).
 
-Subsec. (c). Pub. L. 102–237, § 1012(d)(5), added subsec. (c). Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 102–237, § 1012(d)(5), added subsec. (c). Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 102–237, § 1012(d)(2), designated last sentence of subsec. (a), relating to scope of liability for violations of section 1037 of this title, as subsec. (d).
+Subsec. (d). Pub. L. 102–237, § 1012(d)(2), designated last sentence of subsec. (a), relating to scope of liability for violations of section 1037 of this title, as subsec. (d).
 
-Subsec. (e). Pub. L. 102–237, § 1012(d)(3), redesignated subsec. (b) as (e).
+Subsec. (e). Pub. L. 102–237, § 1012(d)(3), redesignated subsec. (b) as (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -523,11 +523,11 @@ Amendment by Pub. L. 102–237 effective 12 months after promulgation of final i
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1042. Reporting of violation to United States attorney for institution of criminal proceedings; procedure; presentation of views
+## § 1042. Reporting of violation to United States attorney for institution of criminal proceedings; procedure; presentation of views
 
 Before any violation of this chapter is reported by the Secretary of Agriculture or Secretary of Health and Human Services to any United States attorney for institution of a criminal proceeding, the person against whom such proceeding is contemplated shall be given reasonable notice of the alleged violation and opportunity to present his views orally or in writing with regard to such contemplated proceeding. Nothing in this chapter shall be construed as requiring the Secretary of Agriculture or Secretary of Health and Human Services to report for criminal prosecution violations of this chapter whenever he believes that the public interest will be adequately served and compliance with this chapter obtained by a suitable written notice of warning or an action to assess civil penalties.
 
-(Pub. L. 91–597, § 13, Dec. 29, 1970, 84 Stat. 1628; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, § 1012(e), Dec. 13, 1991, 105 Stat. 1900.)
+(Pub. L. 91–597, § 13, Dec. 29, 1970, 84 Stat. 1628; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, § 1012(e), Dec. 13, 1991, 105 Stat. 1900.)
 
 **Editorial Notes**
 
@@ -553,11 +553,11 @@ Amendment by Pub. L. 102–237 effective 12 months after promulgation of final i
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1043. Rules and regulations; administration and enforcement
+## § 1043. Rules and regulations; administration and enforcement
 
 The Secretary shall promulgate such rules and regulations as he deems necessary to carry out the purposes or provisions of this chapter, and shall be responsible for the administration and enforcement of this chapter except as otherwise provided in section 1034(d) of this title.
 
-(Pub. L. 91–597, § 14, Dec. 29, 1970, 84 Stat. 1629.)
+(Pub. L. 91–597, § 14, Dec. 29, 1970, 84 Stat. 1629.)
 
 **Editorial Notes**
 
@@ -571,7 +571,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1044. Exemption of certain activities
+## § 1044. Exemption of certain activities
 
 **(a) Regulation for exemptions** The Secretary may, by regulation and under such conditions and procedures as he may prescribe, exempt from specific provisions of this chapter—
 
@@ -595,13 +595,13 @@ The Secretary shall, by regulation and under such procedures as he may prescribe
 
 **(c) Suspension or termination of exemptions**
 
-The Secretary may immediately suspend or terminate any exemption under paragraph (a)(2) or (6) 1
+The Secretary may immediately suspend or terminate any exemption under paragraph (a)(2) or (6) 1
 
-<sup>1</sup>  So in original. Probably should be “subsection (a)(2) or (6)”.
+<sup>1</sup> So in original. Probably should be “subsection (a)(2) or (6)”.
 
 of this section at any time with respect to any person, if the conditions of exemption prescribed by this section or the regulations of the Secretary are not being met. The Secretary may modify or revoke any regulation granting exemption under this chapter whenever he deems such action appropriate to effectuate the purposes of this chapter.
 
-(Pub. L. 91–597, § 15, Dec. 29, 1970, 84 Stat. 1629; Pub. L. 92–67, Aug. 6, 1971, 85 Stat. 173.)
+(Pub. L. 91–597, § 15, Dec. 29, 1970, 84 Stat. 1629; Pub. L. 92–67, Aug. 6, 1971, 85 Stat. 173.)
 
 **Editorial Notes**
 
@@ -619,11 +619,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1045. Limitation on entry of eggs and egg products and other materials into official plants
+## § 1045. Limitation on entry of eggs and egg products and other materials into official plants
 
 The Secretary may limit the entry of eggs and egg products and other materials into official plants under such conditions as he may prescribe to assure that allowing the entry of such articles into such plants will be consistent with the purposes of this chapter.
 
-(Pub. L. 91–597, § 16, Dec. 29, 1970, 84 Stat. 1630.)
+(Pub. L. 91–597, § 16, Dec. 29, 1970, 84 Stat. 1630.)
 
 **Editorial Notes**
 
@@ -637,7 +637,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1046. Imports
+## § 1046. Imports
 
 **(a) Authorization for importation of restricted eggs; prerequisites for importation of egg products; treatment as domestic articles subject to this chapter; marking and labeling exemption for personal consumption**
 
@@ -661,7 +661,7 @@ All charges for storage, cartage, and labor with respect to any article which is
 
 The importation of any article contrary to this section is prohibited.
 
-(Pub. L. 91–597, § 17, Dec. 29, 1970, 84 Stat. 1630; Pub. L. 102–237, title X, § 1012(f), Dec. 13, 1991, 105 Stat. 1901.)
+(Pub. L. 91–597, § 17, Dec. 29, 1970, 84 Stat. 1630; Pub. L. 102–237, title X, § 1012(f), Dec. 13, 1991, 105 Stat. 1901.)
 
 **Editorial Notes**
 
@@ -683,7 +683,7 @@ Amendment by Pub. L. 102–237 effective 12 months after promulgation of final i
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1047. Refusal or withdrawal of inspection services; hearing; grounds; person deemed to have responsible connection with business; finality of order of Secretary; judicial review; other provisions for refusal of services unaffected
+## § 1047. Refusal or withdrawal of inspection services; hearing; grounds; person deemed to have responsible connection with business; finality of order of Secretary; judicial review; other provisions for refusal of services unaffected
 
 The Secretary (for such period, or indefinitely, as he deems necessary to effectuate the purposes of this chapter) may refuse to provide or may withdraw inspection service under this chapter with respect to any plant if he determines, after opportunity for a hearing is accorded to the applicant for, or recipient of, such service, that such applicant or recipient is unfit to engage in any business requiring inspection under this chapter because the applicant or recipient or anyone responsibly connected with the applicant or recipient has been convicted in any Federal or State court, within the previous ten years, of (1) any felony or more than one misdemeanor under any law based upon the acquiring, handling, or distributing of adulterated, mislabeled, or deceptively packaged food or fraud in connection with transactions in food, or (2) any felony, involving fraud, bribery, extortion, or any other act or circumstances indicating a lack of the integrity needed for the conduct of operations affecting the public health.
 
@@ -693,7 +693,7 @@ The determination and order of the Secretary with respect thereto under this sec
 
 This section shall not affect in any way other provisions of this chapter for refusal of inspection services.
 
-(Pub. L. 91–597, § 18, Dec. 29, 1970, 84 Stat. 1630.)
+(Pub. L. 91–597, § 18, Dec. 29, 1970, 84 Stat. 1630.)
 
 **Editorial Notes**
 
@@ -707,11 +707,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1048. Administrative detention of violative articles; duration; release; removal of official marks
+## § 1048. Administrative detention of violative articles; duration; release; removal of official marks
 
 Whenever any eggs or egg products subject to this chapter, are found by any authorized representative of the Secretary upon any premises and there is reason to believe that they are or have been processed, bought, sold, possessed, used, transported, or offered or received for sale or transportation in violation of this chapter or that they are in any other way in violation of this chapter, or whenever any restricted eggs capable of use as human food are found by such a representative in the possession of any person not authorized to acquire such eggs under the regulations of the Secretary, such articles may be detained by such representative for a reasonable period but not to exceed twenty days, pending action under section 1049 of this title or notification of any Federal, State, or other governmental authorities having jurisdiction over such articles and shall not be moved by any person from the place at which they are located when so detained until released by such representative. All official marks may be required by such representative to be removed from such articles before they are released unless it appears to the satisfaction of the Secretary that the articles are eligible to retain such marks.
 
-(Pub. L. 91–597, § 19, Dec. 29, 1970, 84 Stat. 1631.)
+(Pub. L. 91–597, § 19, Dec. 29, 1970, 84 Stat. 1631.)
 
 **Editorial Notes**
 
@@ -725,7 +725,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1049. Seizure and condemnation proceedings
+## § 1049. Seizure and condemnation proceedings
 
 **(a) Jurisdiction; disposal of condemned articles; court costs and fees; conformity to supplemental rules for admiralty and maritime claims; jury trial; United States as plaintiff**
 
@@ -735,7 +735,7 @@ Any eggs or egg products that are or have been processed, bought, sold, possesse
 
 The provisions of this section shall in no way derogate from authority for condemnation or seizure conferred by other provisions of this chapter, or other laws.
 
-(Pub. L. 91–597, § 20, Dec. 29, 1970, 84 Stat. 1631.)
+(Pub. L. 91–597, § 20, Dec. 29, 1970, 84 Stat. 1631.)
 
 **Editorial Notes**
 
@@ -743,9 +743,9 @@ The provisions of this section shall in no way derogate from authority for conde
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
-The Fair Packaging and Labeling Act, referred to in subsec. (a), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296, which is classified generally to chapter 39 (§ 1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
+The Fair Packaging and Labeling Act, referred to in subsec. (a), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296, which is classified generally to chapter 39 (§ 1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
 
 The supplemental rules for certain admiralty and maritime claims, referred to in subsec. (a), were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions and are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -755,11 +755,11 @@ The supplemental rules for certain admiralty and maritime claims, referred to in
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1050. Jurisdiction of district courts; United States as plaintiff in enforcement and restraining proceedings; subpenas for witnesses
+## § 1050. Jurisdiction of district courts; United States as plaintiff in enforcement and restraining proceedings; subpenas for witnesses
 
 The United States district courts and the District Court of the Virgin Islands are vested with jurisdiction specifically to enforce, and to prevent and restrain violations of, this chapter, and shall have jurisdiction in all other cases, arising under this chapter, except as provided in section 1047 of this title. All proceedings for the enforcement or to restrain violations of this chapter shall be by and in the name of the United States. Subpenas for witnesses who are required to attend a court of the United States, in any district, may run into any other district in any such proceeding.
 
-(Pub. L. 91–597, § 21, Dec. 29, 1970, 84 Stat. 1632.)
+(Pub. L. 91–597, § 21, Dec. 29, 1970, 84 Stat. 1632.)
 
 **Editorial Notes**
 
@@ -773,15 +773,15 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1051. Other Federal laws applicable for administration and enforcement of chapter; prosecution of inquiries; exercise of jurisdiction
+## § 1051. Other Federal laws applicable for administration and enforcement of chapter; prosecution of inquiries; exercise of jurisdiction
 
-For the efficient administration and enforcement of this chapter, the provisions (including penalties) of sections 46, 48, 49, and 50 of title 15 (except paragraphs (c) through (h) of section 46 and the last paragraph of section 49 1
+For the efficient administration and enforcement of this chapter, the provisions (including penalties) of sections 46, 48, 49, and 50 of title 15 (except paragraphs (c) through (h) of section 46 and the last paragraph of section 49 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of title 15), and the provisions of section 409(*l*) 1 of title 47, are made applicable to the jurisdiction, powers, and duties of the Secretary in administering and enforcing the provisions of this chapter and to any person with respect to whom such authority is exercised. The Secretary, in person or by such agents as he may designate, may prosecute any inquiry necessary to his duties under this chapter in any part of the United States, and the powers conferred by said sections 49 and 50 of title 15, on the district courts of the United States may be exercised for the purposes of this chapter by any court designated in section 1050 of this title.
+of title 15), and the provisions of section 409(*l*) 1 of title 47, are made applicable to the jurisdiction, powers, and duties of the Secretary in administering and enforcing the provisions of this chapter and to any person with respect to whom such authority is exercised. The Secretary, in person or by such agents as he may designate, may prosecute any inquiry necessary to his duties under this chapter in any part of the United States, and the powers conferred by said sections 49 and 50 of title 15, on the district courts of the United States may be exercised for the purposes of this chapter by any court designated in section 1050 of this title.
 
-(Pub. L. 91–597, § 22, Dec. 29, 1970, 84 Stat. 1632.)
+(Pub. L. 91–597, § 22, Dec. 29, 1970, 84 Stat. 1632.)
 
 **Editorial Notes**
 
@@ -797,7 +797,7 @@ The last paragraph of section 49 of title 15, and the provisions of section 409(
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1052. State or local regulation
+## § 1052. State or local regulation
 
 **(a) Prohibition against additional or different requirements than Federal requirements relating to premises, facilities, and operations at official plants; authority to impose recordkeeping and related requirements consistent with Federal requirements**
 
@@ -815,7 +815,7 @@ The provisions of this chapter shall not affect the applicability of the Federal
 
 The detainer authority conferred on representatives of the Secretary of Agriculture by section 1048 of this title shall also apply to any authorized representative of the Secretary of Health and Human Services for the purposes of section 1034(d) of this title, with respect to any eggs or egg products that are outside any plant processing egg products.
 
-(Pub. L. 91–597, § 23, Dec. 29, 1970, 84 Stat. 1632; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, § 1012(g), Dec. 13, 1991, 105 Stat. 1901.)
+(Pub. L. 91–597, § 23, Dec. 29, 1970, 84 Stat. 1632; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, § 1012(g), Dec. 13, 1991, 105 Stat. 1901.)
 
 **Editorial Notes**
 
@@ -823,9 +823,9 @@ The detainer authority conferred on representatives of the Secretary of Agricult
 
 This chapter, referred to in subsecs. (a) to (c), was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b) and (c), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b) and (c), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
-The Fair Packaging and Labeling Act, referred to in subsecs. (b) and (c), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296, which is classified generally to chapter 39 (§ 1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
+The Fair Packaging and Labeling Act, referred to in subsecs. (b) and (c), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296, which is classified generally to chapter 39 (§ 1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
 
 **Amendments**
 
@@ -845,7 +845,7 @@ Amendment by Pub. L. 102–237 effective 12 months after promulgation of final i
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1053. Inspection and administration costs
+## § 1053. Inspection and administration costs
 
 **(a) Overtime and holiday work costs; availability of funds**
 
@@ -855,7 +855,7 @@ The cost of inspection rendered under the requirements of this chapter, and othe
 
 The term “holiday” for the purposes of assessment or reimbursement of the cost of inspection performed under this chapter, the Wholesome Poultry Products Act [21 U.S.C. 467a et seq.] and the Wholesome Meat Act [21 U.S.C. 601 et seq.] shall mean the legal public holidays specified by the Congress in section 6103(a) of title 5.
 
-(Pub. L. 91–597, § 24, Dec. 29, 1970, 84 Stat. 1633.)
+(Pub. L. 91–597, § 24, Dec. 29, 1970, 84 Stat. 1633.)
 
 **Editorial Notes**
 
@@ -873,11 +873,11 @@ The Wholesome Meat Act, referred to in subsec. (b), is Pub. L. 90–201, Dec. 15
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1054. Annual report to Congressional committees
+## § 1054. Annual report to Congressional committees
 
-**(a)**  1
+**(a)** 1
 
-<sup>1</sup>  So in original. No subsec. (b) has been enacted.
+<sup>1</sup> So in original. No subsec. (b) has been enacted.
 
 Not later than March 1 of each year following December 29, 1970, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a comprehensive and detailed written report with respect to—
 
@@ -897,7 +897,7 @@ Not later than March 1 of each year following December 29, 1970, the Secretary s
 
 **(F)** recommendations for legislation to improve such program.
 
-(Pub. L. 91–597, § 26, Dec. 29, 1970, 84 Stat. 1634; Pub. L. 103–437, § 8(4), Nov. 2, 1994, 108 Stat. 4588.)
+(Pub. L. 91–597, § 26, Dec. 29, 1970, 84 Stat. 1634; Pub. L. 103–437, § 8(4), Nov. 2, 1994, 108 Stat. 4588.)
 
 **Editorial Notes**
 
@@ -915,11 +915,11 @@ This chapter, referred to in subsec. (a)(1), (2)(A), (E), was in the original �
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1055. Authorization of appropriations
+## § 1055. Authorization of appropriations
 
 Such sums as are necessary to carry out the provisions of this chapter are hereby authorized to be appropriated.
 
-(Pub. L. 91–597, § 27, Dec. 29, 1970, 84 Stat. 1635.)
+(Pub. L. 91–597, § 27, Dec. 29, 1970, 84 Stat. 1635.)
 
 **Editorial Notes**
 
@@ -933,11 +933,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.
 
-## § 1056. Separability
+## § 1056. Separability
 
 If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-(Pub. L. 91–597, § 28, Dec. 29, 1970, 84 Stat. 1635.)
+(Pub. L. 91–597, § 28, Dec. 29, 1970, 84 Stat. 1635.)
 
 **Editorial Notes**
 

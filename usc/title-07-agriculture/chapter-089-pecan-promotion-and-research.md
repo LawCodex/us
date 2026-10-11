@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 89—PECAN PROMOTION AND RESEARCH
 
-## § 6001. Findings and declaration of policy
+## § 6001. Findings and declaration of policy
 
 **(a) Findings** Congress finds that—
 
@@ -45,17 +45,17 @@ retrieved: 2026-10-11
 
 Nothing in this chapter may be construed to provide for the control of production or otherwise limit the right of any person to produce pecans.
 
-(Pub. L. 101–624, title XIX, § 1906, Nov. 28, 1990, 104 Stat. 3838.)
+(Pub. L. 101–624, title XIX, § 1906, Nov. 28, 1990, 104 Stat. 3838.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 101–624, title XIX, § 1901, Nov. 28, 1990, 104 Stat. 3838, as amended by Pub. L. 102–237, title VIII, § 801, Dec. 13, 1991, 105 Stat. 1882, provided that: “This title [enacting this chapter and chapters 90 to 93 of this title and sections 2109, 2278, and 4610a of this title, amending sections 1787, 2101, 2106 to 2108, 2110, 2116, 2611 to 2614, 2617 to 2619, 2622 to 2624, 4602, 4606, 4608, and 4612 of this title, and enacting provisions set out as notes under sections 2101, 2611, 2625, 4601, and 4603 of this title] may be cited as the ‘Agricultural Promotion Programs Act of 1990’.”
+Pub. L. 101–624, title XIX, § 1901, Nov. 28, 1990, 104 Stat. 3838, as amended by Pub. L. 102–237, title VIII, § 801, Dec. 13, 1991, 105 Stat. 1882, provided that: “This title [enacting this chapter and chapters 90 to 93 of this title and sections 2109, 2278, and 4610a of this title, amending sections 1787, 2101, 2106 to 2108, 2110, 2116, 2611 to 2614, 2617 to 2619, 2622 to 2624, 4602, 4606, 4608, and 4612 of this title, and enacting provisions set out as notes under sections 2101, 2611, 2625, 4601, and 4603 of this title] may be cited as the ‘Agricultural Promotion Programs Act of 1990’.”
 
-Pub. L. 101–624, title XIX, § 1905, Nov. 28, 1990, 104 Stat. 3838, provided that: “This subtitle [subtitle A (§§ 1905–1918) of title XIX of Pub. L. 101–624, enacting this chapter] may be cited as the ‘Pecan Promotion and Research Act of 1990’.”
+Pub. L. 101–624, title XIX, § 1905, Nov. 28, 1990, 104 Stat. 3838, provided that: “This subtitle [subtitle A (§§ 1905–1918) of title XIX of Pub. L. 101–624, enacting this chapter] may be cited as the ‘Pecan Promotion and Research Act of 1990’.”
 
-## § 6002. Definitions
+## § 6002. Definitions
 
 As used in this chapter—
 
@@ -167,7 +167,7 @@ The term “State” means any of the several States, the District of Columbia a
 
 The term “United States” means collectively the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 101–624, title XIX, § 1907, Nov. 28, 1990, 104 Stat. 3839; Pub. L. 102–237, title VIII, § 802(1), Dec. 13, 1991, 105 Stat. 1882.)
+(Pub. L. 101–624, title XIX, § 1907, Nov. 28, 1990, 104 Stat. 3839; Pub. L. 102–237, title VIII, § 802(1), Dec. 13, 1991, 105 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -175,7 +175,7 @@ The term “United States” means collectively the several States, the District
 
 1991—Par. (22). Pub. L. 102–237 substituted “in-shell” for “inshell”.
 
-## § 6003. Issuance of plans
+## § 6003. Issuance of plans
 
 **(a) In general**
 
@@ -203,15 +203,15 @@ Such plan shall be issued and become effective not later than 150 days following
 
 The Secretary, from time to time, may amend any plan issued under this section. The provisions of this chapter applicable to a plan shall be applicable to amendments to a plan.
 
-(Pub. L. 101–624, title XIX, § 1908, Nov. 28, 1990, 104 Stat. 3841.)
+(Pub. L. 101–624, title XIX, § 1908, Nov. 28, 1990, 104 Stat. 3841.)
 
-## § 6004. Regulations
+## § 6004. Regulations
 
 The Secretary may issue such regulations as are necessary to carry out this chapter.
 
-(Pub. L. 101–624, title XIX, § 1909, Nov. 28, 1990, 104 Stat. 3841.)
+(Pub. L. 101–624, title XIX, § 1909, Nov. 28, 1990, 104 Stat. 3841.)
 
-## § 6005. Required terms in plans
+## § 6005. Required terms in plans
 
 **(a) In general**
 
@@ -509,7 +509,7 @@ The plan shall provide that the assessments collected under section 6007 of this
 
 The plan also shall contain such terms and conditions, not inconsistent with this chapter, as determined necessary by the Secretary to effectuate this chapter.
 
-(Pub. L. 101–624, title XIX, § 1910, Nov. 28, 1990, 104 Stat. 3841; Pub. L. 102–237, title VIII, § 802(2), Dec. 13, 1991, 105 Stat. 1882.)
+(Pub. L. 101–624, title XIX, § 1910, Nov. 28, 1990, 104 Stat. 3841; Pub. L. 102–237, title VIII, § 802(2), Dec. 13, 1991, 105 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -517,7 +517,7 @@ The plan also shall contain such terms and conditions, not inconsistent with thi
 
 1991—Subsec. (b)(8)(G). Pub. L. 102–237 substituted “subparagraphs (A), (B), and (C) of paragraph (3),” for “paragraph 3(A), (B), and (C),” and “subparagraphs (D) and (E) of paragraph (3)” for “paragraph (3)(D) and (E)”.
 
-## § 6006. Permissive terms in plans
+## § 6006. Permissive terms in plans
 
 **(a) In general**
 
@@ -549,9 +549,9 @@ The plan may provide authority to accumulate reserve funds from assessments coll
 
 The plan may provide authority to use funds collected under this chapter, with the approval of the Secretary, for the development and expansion of pecan sales in foreign markets.
 
-(Pub. L. 101–624, title XIX, § 1911, Nov. 28, 1990, 104 Stat. 3847.)
+(Pub. L. 101–624, title XIX, § 1911, Nov. 28, 1990, 104 Stat. 3847.)
 
-## § 6007. Assessments
+## § 6007. Assessments
 
 **(a) In general** During the effective period of a plan issued pursuant to this chapter, assessments shall be—
 
@@ -663,9 +663,9 @@ the Board shall prorate the amount of such refunds among all eligible growers, g
 
 If the plan is approved pursuant to the referendum conducted under section 6011(a) of this title, all funds in the escrow account shall be returned to the Board for use by the Board in accordance with this chapter.
 
-(Pub. L. 101–624, title XIX, § 1912, Nov. 28, 1990, 104 Stat. 3848.)
+(Pub. L. 101–624, title XIX, § 1912, Nov. 28, 1990, 104 Stat. 3848.)
 
-## § 6008. Petition and review
+## § 6008. Petition and review
 
 **(a) Petition**
 
@@ -703,7 +703,7 @@ Service of process in such proceedings shall be conducted in accordance with the
 
 The pendency of proceedings instituted under subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from taking any action under section 6009 of this title.
 
-(Pub. L. 101–624, title XIX, § 1913, Nov. 28, 1990, 104 Stat. 3850.)
+(Pub. L. 101–624, title XIX, § 1913, Nov. 28, 1990, 104 Stat. 3850.)
 
 **Editorial Notes**
 
@@ -711,7 +711,7 @@ The pendency of proceedings instituted under subsection (a) shall not impede, hi
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 6009. Enforcement
+## § 6009. Enforcement
 
 **(a) Jurisdiction**
 
@@ -769,9 +769,9 @@ Any person who fails to obey a cease and desist order after the order has become
 
 If a person fails to pay a civil penalty after it has become a final and unappealable order issued by the Secretary, or after the appropriate district court has entered a final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States in any district in which the person resides or conducts business. In such action, the validity and appropriateness of such order imposing such civil penalty shall not be subject to review.
 
-(Pub. L. 101–624, title XIX, § 1914, Nov. 28, 1990, 104 Stat. 3851.)
+(Pub. L. 101–624, title XIX, § 1914, Nov. 28, 1990, 104 Stat. 3851.)
 
-## § 6010. Investigations and power to subpoena
+## § 6010. Investigations and power to subpoena
 
 **(a) In general** The Secretary may make such investigations as the Secretary determines necessary—
 
@@ -805,7 +805,7 @@ Process in any such case may be served in the judicial district in which such pe
 
 The site of any hearings held under section 6008 or 6009 of this title shall be within the judicial district where such person resides or has a principal place of business.
 
-(Pub. L. 101–624, title XIX, § 1915, Nov. 28, 1990, 104 Stat. 3852; Pub. L. 102–237, title VIII, § 802(3), Dec. 13, 1991, 105 Stat. 1882.)
+(Pub. L. 101–624, title XIX, § 1915, Nov. 28, 1990, 104 Stat. 3852; Pub. L. 102–237, title VIII, § 802(3), Dec. 13, 1991, 105 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -813,7 +813,7 @@ The site of any hearings held under section 6008 or 6009 of this title shall be 
 
 1991—Subsec. (b)(2). Pub. L. 102–237 struck out “section” after “6008 or”.
 
-## § 6011. Requirement of referendum
+## § 6011. Requirement of referendum
 
 **(a) In general**
 
@@ -851,9 +851,9 @@ A grower, grower-sheller, or importer who votes in any referendum conducted unde
 
 Each Agricultural Stabilization and Conservation Service office shall notify all growers, grower-shellers, and importers in the area of such office, as determined by the Secretary, at least 30 days prior to a referendum conducted under this chapter. Such notice shall explain the registration and voting procedures established under this subsection.
 
-(Pub. L. 101–624, title XIX, § 1916, Nov. 28, 1990, 104 Stat. 3853.)
+(Pub. L. 101–624, title XIX, § 1916, Nov. 28, 1990, 104 Stat. 3853.)
 
-## § 6012. Suspension or termination of plan
+## § 6012. Suspension or termination of plan
 
 **(a) Mandatory suspension or termination**
 
@@ -869,9 +869,9 @@ The Secretary shall, whenever the Secretary finds that the plan or any provision
 
 The termination or suspension of any plan, or any provision thereof, shall not be considered a plan within the meaning of this chapter.
 
-(Pub. L. 101–624, title XIX, § 1917, Nov. 28, 1990, 104 Stat. 3854.)
+(Pub. L. 101–624, title XIX, § 1917, Nov. 28, 1990, 104 Stat. 3854.)
 
-## § 6013. Authorization of appropriations
+## § 6013. Authorization of appropriations
 
 **(a) In general**
 
@@ -881,4 +881,4 @@ There are authorized to be appropriated for each fiscal year such sums as are ne
 
 Funds appropriated to carry out this chapter shall not be available for payment of the expenses or expenditures of the Board in administering any provision of any plan issued under this chapter.
 
-(Pub. L. 101–624, title XIX, § 1918, Nov. 28, 1990, 104 Stat. 3854.)
+(Pub. L. 101–624, title XIX, § 1918, Nov. 28, 1990, 104 Stat. 3854.)

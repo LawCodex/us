@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 501—DAUGHTERS OF UNION VETERANS OF THE CIVIL WAR 1861–1865"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 501—DAUGHTERS OF UNION VETERANS OF THE CIVIL WAR 1861–1865"
 identifier: "/us/usc/t36/stII/ptB/ch501"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 501—DAUGHTERS OF UNION VETERANS OF THE CIVIL WAR 1861–1865
 
-## § 50101. Definition
+## § 50101. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
 
@@ -25,11 +25,11 @@ For purposes of this chapter, “State” includes the District of Columbia and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 50101 | 36:3713. | Dec. 9, 1985, Pub. L. 99–172, § 14, 99 Stat. 1022. |
+| 50101 | 36:3713. | Dec. 9, 1985, Pub. L. 99–172, § 14, 99 Stat. 1022. |
 
 The words “the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands” are omitted as included in “the territories and possessions of the United States”.
 
-## § 50102. Organization
+## § 50102. Organization
 
 **(a) Federal Charter.—** Daughters of Union Veterans of the Civil War 1861–1865 (in this chapter, the “corporation”), a nonprofit corporation incorporated in Ohio, is a federally chartered corporation.
 
@@ -41,12 +41,12 @@ The words “the Commonwealth of Puerto Rico, the Commonwealth of the Northern M
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 50102(a) | 36:3701. | Dec. 9, 1985, Pub. L. 99–172, §§ 1, 16, 99 Stat. 1020, 1023. |
+| 50102(a) | 36:3701. | Dec. 9, 1985, Pub. L. 99–172, §§ 1, 16, 99 Stat. 1020, 1023. |
 | 50102(b) | 36:3715. |  |
 
 In subsection (a), the words “incorporated in Ohio” are substituted for “organized under the laws of the State of Ohio” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 50103. Purposes
+## § 50103. Purposes
 
 **(a) Provided in Articles of Incorporation.—** The purposes of the corporation are as provided in the articles of incorporation.
 
@@ -72,11 +72,11 @@ In subsection (a), the words “incorporated in Ohio” are substituted for “o
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 50103 | 36:3703. | Dec. 9, 1985, Pub. L. 99–172, § 3, 99 Stat. 1020; June 13, 1991, Pub. L. 102–54, § 13(n)(8), 105 Stat. 278. |
+| 50103 | 36:3703. | Dec. 9, 1985, Pub. L. 99–172, § 3, 99 Stat. 1020; June 13, 1991, Pub. L. 102–54, § 13(n)(8), 105 Stat. 278. |
 
 The word “objects” is omitted as included in “purposes” and for consistency in the revised title.
 
-## § 50104. Membership
+## § 50104. Membership
 
 Eligibility for membership in the corporation and the rights and privileges of members are as provided in the constitution and bylaws of the corporation.
 
@@ -86,9 +86,9 @@ Eligibility for membership in the corporation and the rights and privileges of m
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 50104 | 36:3705. | Dec. 9, 1985, Pub. L. 99–172, § 5, 99 Stat. 1021. |
+| 50104 | 36:3705. | Dec. 9, 1985, Pub. L. 99–172, § 5, 99 Stat. 1021. |
 
-## § 50105. Governing body
+## § 50105. Governing body
 
 **(a) Board of Directors.—** The board of directors and the responsibilities of the board are as provided in the articles of incorporation.
 
@@ -100,12 +100,12 @@ Eligibility for membership in the corporation and the rights and privileges of m
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 50105(a) | 36:3706. | Dec. 9, 1985, Pub. L. 99–172, §§ 6, 7, 99 Stat. 1021. |
+| 50105(a) | 36:3706. | Dec. 9, 1985, Pub. L. 99–172, §§ 6, 7, 99 Stat. 1021. |
 | 50105(b) | 36:3707. |  |
 
 The words “and in conformity with the laws of the State or States in which it is incorporated” are omitted as unnecessary.
 
-## § 50106. Powers
+## § 50106. Powers
 
 The corporation has only the powers provided in its bylaws and articles of incorporation filed in each State in which it is incorporated.
 
@@ -115,11 +115,11 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 50106 | 36:3702. | Dec. 9, 1985, Pub. L. 99–172, § 2, 99 Stat. 1020. |
+| 50106 | 36:3702. | Dec. 9, 1985, Pub. L. 99–172, § 2, 99 Stat. 1020. |
 
 The words “and subject to the laws of such State or States” are omitted as unnecessary.
 
-## § 50107. Restrictions
+## § 50107. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -137,7 +137,7 @@ The words “and subject to the laws of such State or States” are omitted as u
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 50107(a) | 36:3708(d). | Dec. 9, 1985, Pub. L. 99–172, § 8, 99 Stat. 1021. |
+| 50107(a) | 36:3708(d). | Dec. 9, 1985, Pub. L. 99–172, § 8, 99 Stat. 1021. |
 | 50107(b) | 36:3708(c). |  |
 | 50107(c) | 36:3708(a). |  |
 | 50107(d) | 36:3708(b). |  |
@@ -145,7 +145,7 @@ The words “and subject to the laws of such State or States” are omitted as u
 
 This subsection is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary words.
 
-## § 50108. Duty to maintain tax-exempt status
+## § 50108. Duty to maintain tax-exempt status
 
 The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.). If the corporation does not maintain that status, the charter granted by this chapter expires.
 
@@ -155,9 +155,9 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 50108 | 36:3714. | Dec. 9, 1985, Pub. L. 99–172, § 15, 99 Stat. 1022. |
+| 50108 | 36:3714. | Dec. 9, 1985, Pub. L. 99–172, § 15, 99 Stat. 1022. |
 
-## § 50109. Records and inspection
+## § 50109. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -175,11 +175,11 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 50109 | 36:3710. | Dec. 9, 1985, Pub. L. 99–172, § 10, 99 Stat. 1022. |
+| 50109 | 36:3710. | Dec. 9, 1985, Pub. L. 99–172, § 10, 99 Stat. 1022. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code. The words “Nothing in this section shall be construed to contravene any applicable State law” are omitted as unnecessary.
 
-## § 50110. Service of process
+## § 50110. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
@@ -189,11 +189,11 @@ The corporation shall comply with the law on service of process of each State in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 50110 | 36:3704. | Dec. 9, 1985, Pub. L. 99–172, § 4, 99 Stat. 1021. |
+| 50110 | 36:3704. | Dec. 9, 1985, Pub. L. 99–172, § 4, 99 Stat. 1021. |
 
 The words “in furtherance of its corporate purposes” are omitted as unnecessary.
 
-## § 50111. Liability for acts of officers and agents
+## § 50111. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -203,9 +203,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 50111 | 36:3709. | Dec. 9, 1985, Pub. L. 99–172, § 9, 99 Stat. 1022. |
+| 50111 | 36:3709. | Dec. 9, 1985, Pub. L. 99–172, § 9, 99 Stat. 1022. |
 
-## § 50112. Annual report
+## § 50112. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year. The report shall be submitted at the same time as the report of the audit required by section 10101 of this title. The report may not be printed as a public document.
 
@@ -215,7 +215,7 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 50112 | 36:3711. | Dec. 9, 1985, Pub. L. 99–172, § 12, 99 Stat. 1022. |
+| 50112 | 36:3711. | Dec. 9, 1985, Pub. L. 99–172, § 12, 99 Stat. 1022. |
 
 **Statutory Notes and Related Subsidiaries**
 

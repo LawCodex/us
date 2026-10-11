@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 65—NATIONAL ENVIRONMENTAL EDUCATION
 
-## § 5501. Findings and policy
+## § 5501. Findings and policy
 
 **(a) Findings** The Congress finds that—
 
@@ -37,9 +37,9 @@ retrieved: 2026-10-11
 
 **(9)** The Federal Government, acting through the coordinated efforts of its agencies and with the leadership of the Environmental Protection Agency, should work with local education institutions, State education agencies, not-for-profit educational and environmental organizations, noncommercial educational broadcasting entities, and private sector interests to develop programs to provide increased emphasis and financial resources for the purpose of attracting students into environmental engineering and assisting them in pursuing the programs to complete the advanced technical education required to provide effective problem solving capabilities for complex environmental issues.
 
-**(10)** Federal natural resource agencies such as the United States Forest Service have a wide range of environmental expertise and a long history of cooperation with educational institutions and technology transfer that can assist in furthering the purposes of the 1
+**(10)** Federal natural resource agencies such as the United States Forest Service have a wide range of environmental expertise and a long history of cooperation with educational institutions and technology transfer that can assist in furthering the purposes of the 1
 
-<sup>1</sup>  So in original. Probably should be “this”.
+<sup>1</sup> So in original. Probably should be “this”.
 
 chapter.
 
@@ -47,15 +47,15 @@ chapter.
 
 It is the policy of the United States to establish and support a program of education on the environment, for students and personnel working with students, through activities in schools, institutions of higher education, and related educational activities, and to encourage postsecondary students to pursue careers related to the environment.
 
-(Pub. L. 101–619, § 2, Nov. 16, 1990, 104 Stat. 3325.)
+(Pub. L. 101–619, § 2, Nov. 16, 1990, 104 Stat. 3325.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 101–619, § 1(a), Nov. 16, 1990, 104 Stat. 3325, provided that: “This Act [enacting this chapter] may be cited as the ‘National Environmental Education Act’.”
+Pub. L. 101–619, § 1(a), Nov. 16, 1990, 104 Stat. 3325, provided that: “This Act [enacting this chapter] may be cited as the ‘National Environmental Education Act’.”
 
-## § 5502. Definitions
+## § 5502. Definitions
 
 For the purposes of this chapter, the term—
 
@@ -69,9 +69,9 @@ For the purposes of this chapter, the term—
 
 **(5)** “local educational agency” means any education agency as defined in section 7801 of this title and shall include any tribal education agency;
 
-**(6)** “not-for-profit” organization 1
+**(6)** “not-for-profit” organization 1
 
-<sup>1</sup>  So in original. Probably should be “ ‘not-for-profit organization’ ”.
+<sup>1</sup> So in original. Probably should be “ ‘not-for-profit organization’ ”.
 
 means an organization, association, or institution described in section 501(c)(3) of title 26, which is exempt from taxation pursuant to the provisions of section 501(a) of title 26;
 
@@ -89,7 +89,7 @@ means an organization, association, or institution described in section 501(c)(3
 
 **(13)** “Board of Directors” means the Board of Directors of the National Environmental Education and Training Foundation.
 
-(Pub. L. 101–619, § 3, Nov. 16, 1990, 104 Stat. 3326; Pub. L. 103–382, title III, § 391(m), Oct. 20, 1994, 108 Stat. 4023; Pub. L. 107–110, title X, § 1076(n), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 114–95, title IX, § 9215(fff), Dec. 10, 2015, 129 Stat. 2186.)
+(Pub. L. 101–619, § 3, Nov. 16, 1990, 104 Stat. 3326; Pub. L. 103–382, title III, § 391(m), Oct. 20, 1994, 108 Stat. 4023; Pub. L. 107–110, title X, § 1076(n), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 114–95, title IX, § 9215(fff), Dec. 10, 2015, 129 Stat. 2186.)
 
 **Editorial Notes**
 
@@ -111,7 +111,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
-## § 5503. Office of Environmental Education
+## § 5503. Office of Environmental Education
 
 **(a) Establishment**
 
@@ -153,9 +153,9 @@ The Administrator shall establish an Office of Environmental Education within th
 
 **(3)** be supported by one full-time equivalent employee in each Agency regional office.
 
-(Pub. L. 101–619, § 4, Nov. 16, 1990, 104 Stat. 3327.)
+(Pub. L. 101–619, § 4, Nov. 16, 1990, 104 Stat. 3327.)
 
-## § 5504. Environmental Education and Training Program
+## § 5504. Environmental Education and Training Program
 
 **(a) Establishment**
 
@@ -219,9 +219,9 @@ Special emphasis should be placed on developing environmental education programs
 
 **(4)** Individuals selected for participation in the program may be provided with a stipend to cover travel and accommodations from grant funds awarded pursuant to this section in such amounts as the Administrator determines to be appropriate.
 
-(Pub. L. 101–619, § 5, Nov. 16, 1990, 104 Stat. 3328.)
+(Pub. L. 101–619, § 5, Nov. 16, 1990, 104 Stat. 3328.)
 
-## § 5505. Environmental education grants
+## § 5505. Environmental education grants
 
 **(a) Cooperative agreements and grants**
 
@@ -273,9 +273,9 @@ Federal funds for any demonstration project under this section shall not exceed 
 
 Grants under this section shall not exceed $250,000. In addition, 25 percent of all funds obligated under this section in a fiscal year shall be for grants of not more than $5,000.
 
-(Pub. L. 101–619, § 6, Nov. 16, 1990, 104 Stat. 3330.)
+(Pub. L. 101–619, § 6, Nov. 16, 1990, 104 Stat. 3330.)
 
-## § 5506. Environmental internships and fellowships
+## § 5506. Environmental internships and fellowships
 
 **(a) Postsecondary students and in-service teachers**
 
@@ -311,9 +311,9 @@ Individuals shall be selected for internships and fellowships based on applicati
 
 In selecting individuals for internships and fellowships, the Administrator shall provide for wide geographic, cultural, and minority representation.
 
-(Pub. L. 101–619, § 7, Nov. 16, 1990, 104 Stat. 3331.)
+(Pub. L. 101–619, § 7, Nov. 16, 1990, 104 Stat. 3331.)
 
-## § 5507. Environmental education awards
+## § 5507. Environmental education awards
 
 **(a) National awards**
 
@@ -345,9 +345,9 @@ The Administrator may provide for the “President’s Environmental Youth Award
 
 **(3)** The Chairman is also authorized to provide a cash award of up to $2,500 to the local education agency employing any teacher selected to receive an award pursuant to this section, which shall be used to fund environmental educational activities and programs. Such awards may not be used for construction costs, general expenses, salaries, bonuses, or other administrative expenses.
 
-(Pub. L. 101–619, § 8, Nov. 16, 1990, 104 Stat. 3332.)
+(Pub. L. 101–619, § 8, Nov. 16, 1990, 104 Stat. 3332.)
 
-## § 5508. Environmental Education Advisory Council and Task Force
+## § 5508. Environmental Education Advisory Council and Task Force
 
 **(a) Establishment**
 
@@ -367,9 +367,9 @@ There is hereby established a National Environmental Education Advisory Council 
 
 **(B)** the terms of the members first taking office shall expire as follows: four shall expire 3 years after November 16, 1990, four shall expire 2 years after November 16, 1990, and three shall expire 1 year after November 16, 1990, as designated by the Administrator at the time of appointment.
 
-**(5)** Members of the Advisory Council appointed under this section shall, while attending meetings of the Council or otherwise engaged in business of the Council, receive compensation and allowances at a rate to be fixed by the Administrator, but not exceeding the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Council. While away from their homes or regular places of business in the performance of services for the Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) 1
+**(5)** Members of the Advisory Council appointed under this section shall, while attending meetings of the Council or otherwise engaged in business of the Council, receive compensation and allowances at a rate to be fixed by the Administrator, but not exceeding the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Council. While away from their homes or regular places of business in the performance of services for the Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5.
 
@@ -417,13 +417,13 @@ of title 5.
 
 **(2)** The Federal Task Force on Environmental Education shall review and comment on a draft of the report to Congress.
 
-(Pub. L. 101–619, § 9, Nov. 16, 1990, 104 Stat. 3333; Pub. L. 117–286, § 4(a)(150), Dec. 27, 2022, 136 Stat. 4322.)
+(Pub. L. 101–619, § 9, Nov. 16, 1990, 104 Stat. 3333; Pub. L. 117–286, § 4(a)(150), Dec. 27, 2022, 136 Stat. 4322.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5703 of title 5, referred to in subsec. (b)(5), was amended generally by Pub. L. 94–22, May 19, 1975, § 4, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
+Section 5703 of title 5, referred to in subsec. (b)(5), was amended generally by Pub. L. 94–22, May 19, 1975, § 4, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
 **Amendments**
 
@@ -433,9 +433,9 @@ Section 5703 of title 5, referred to in subsec. (b)(5), was amended generally by
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 5509. National Environmental Education and Training Foundation
+## § 5509. National Environmental Education and Training Foundation
 
 **(a) Establishment and purposes**
 
@@ -577,7 +577,7 @@ The United States shall not be liable for any debts, defaults, acts, or omission
 
 The Congress expressly reserves the right to repeal or amend this section at any time.
 
-(Pub. L. 101–619, § 10, Nov. 16, 1990, 104 Stat. 3335.)
+(Pub. L. 101–619, § 10, Nov. 16, 1990, 104 Stat. 3335.)
 
 **Editorial Notes**
 
@@ -585,7 +585,7 @@ The Congress expressly reserves the right to repeal or amend this section at any
 
 Subsec. (f) of this section, which required the Foundation, as soon as practicable after the end of each fiscal year, to transmit to Congress a report of its proceedings and activities, including a full and complete statement of its receipts, expenditures, and investments, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 183 of House Document No. 103–7.
 
-In subsec. (h), “section 10101 of title 36” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law’, approved August 30, 1964 (Public Law 88–504; 36 U.S.C. 1101–1103)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of Pub. L. 105–225, § 5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+In subsec. (h), “section 10101 of title 36” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law’, approved August 30, 1964 (Public Law 88–504; 36 U.S.C. 1101–1103)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of Pub. L. 105–225, § 5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -597,9 +597,9 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 5510. Authorization
+## § 5510. Authorization
 
 **(a) Authorization of appropriations**
 
@@ -617,4 +617,4 @@ Of such sums appropriated in a fiscal year, 25 percent shall be available for th
 
 *Provided*, That the Administrator determines that such funds will be used to carry out the statutory purposes of the Foundation in a manner consistent with the goals, objectives and programs of this chapter.
 
-(Pub. L. 101–619, § 11, Nov. 16, 1990, 104 Stat. 3339.)
+(Pub. L. 101–619, § 11, Nov. 16, 1990, 104 Stat. 3339.)

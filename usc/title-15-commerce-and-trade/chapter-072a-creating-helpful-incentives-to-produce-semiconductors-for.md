@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 72A—CREATING HELPFUL INCENTIVES TO PRODUCE SEMICONDUCTORS FOR AMERICA
 
-## § 4651. Definitions
+## § 4651. Definitions
 
 In this chapter:
 
@@ -23,13 +23,13 @@ In this chapter:
 
 **(A)** the Select Committee on Intelligence, the Committee on Energy and Natural Resources, the Committee on Commerce, Science, and Transportation, the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Appropriations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Homeland Security and Governmental Affairs, and the Committee on Finance of the Senate; and
 
-**(B)** the Permanent Select committee 1
+**(B)** the Permanent Select committee 1
 
-<sup>1</sup>  So in original. Probably should be “Committee”.
+<sup>1</sup> So in original. Probably should be “Committee”.
 
 on Intelligence, the Committee on Energy and Commerce, the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Science, Space, and Technology, the Committee on Appropriations, the Committee on Financial Services, the Committee on Homeland Security, and the Committee on Ways and Means of the House of Representatives..2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 **(2)** The term “covered entity” means a nonprofit entity, a private entity, a consortium of private entities, or a consortium of nonprofit, public, and private entities with a demonstrated ability to substantially finance, construct, expand, or modernize a facility relating to fabrication, assembly, testing, advanced packaging, production, or research and development of semiconductors, materials used to manufacture semiconductors, or semiconductor manufacturing equipment.
 
@@ -93,9 +93,9 @@ on Intelligence, the Committee on Energy and Commerce, the Committee on Foreign 
 
 **(B)** included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury;
 
-**(C)** owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country that is listed in section 2533c 3
+**(C)** owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country that is listed in section 2533c 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 of title 10; or
 
@@ -113,7 +113,7 @@ of title 10; or
 
 **(vi)** the Export Control Reform Act of 2018 (50 U.S.C. 4801 et seq.); or
 
-**(vii)** the International Economic Emergency Powers Act <sup>3</sup> (50 U.S.C. 1701 et seq.); or
+**(vii)** the International Economic Emergency Powers Act <sup>3</sup> (50 U.S.C. 1701 et seq.); or
 
 **(E)** determined by the Secretary, in consultation with the Secretary of Defense and the Director of National Intelligence, to be engaged in unauthorized conduct that is detrimental to the national security or foreign policy of the United States under this chapter.
 
@@ -127,45 +127,45 @@ of title 10; or
 
 **(13)** The term “semiconductor” has the meaning given that term by the Secretary.
 
-(Pub. L. 116–283, div. H, title XCIX, § 9901, Jan. 1, 2021, 134 Stat. 4843; Pub. L. 117–167, div. A, § 103(a), Aug. 9, 2022, 136 Stat. 1379.)
+(Pub. L. 116–283, div. H, title XCIX, § 9901, Jan. 1, 2021, 134 Stat. 4843; Pub. L. 117–167, div. A, § 103(a), Aug. 9, 2022, 136 Stat. 1379.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2533c of title 10, referred to par. (8)(C), was renumbered section 4872 of title 10 by Pub. L. 116–283, div. A, title XVIII, § 1870(d)(2), Jan. 1, 2021, 134 Stat. 4286, as amended by Pub. L. 117–81, div. A, title XVII, § 1701(t)(2)(B), (C), Dec. 27, 2021, 135 Stat. 2150.
+Section 2533c of title 10, referred to par. (8)(C), was renumbered section 4872 of title 10 by Pub. L. 116–283, div. A, title XVIII, § 1870(d)(2), Jan. 1, 2021, 134 Stat. 4286, as amended by Pub. L. 117–81, div. A, title XVII, § 1701(t)(2)(B), (C), Dec. 27, 2021, 135 Stat. 2150.
 
-The Arms Export Control Act, referred to in par. (8)(D)(iv), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in par. (8)(D)(iv), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
-The Export Control Reform Act of 2018, referred to in par. (8)(D)(vi), is subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§ 4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 50 and Tables.
+The Export Control Reform Act of 2018, referred to in par. (8)(D)(vi), is subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§ 4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 50 and Tables.
 
-The International Economic Emergency Powers Act, referred to in par. (8)(D)(vii), probably should be the International Emergency Economic Powers Act, which is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626 and is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Economic Emergency Powers Act, referred to in par. (8)(D)(vii), probably should be the International Emergency Economic Powers Act, which is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626 and is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 This chapter, referred to in par. (8)(E), was in the original “this Act” and was translated as reading “this title”, meaning title XCIX of div. H of Pub. L. 116–283, to reflect the probable intent of Congress.
 
 **Amendments**
 
-2022—Par. (2). Pub. L. 117–167, § 103(a)(1), substituted “a nonprofit entity, a private entity, a consortium of private entities, or a consortium of nonprofit, public, and private entities” for “a private entity, a consortium of private entities, or a consortium of public and private entities” and “of semiconductors, materials used to manufacture semiconductors, or semiconductor manufacturing equipment.” for “of semiconductors.” and inserted “production,” before “or research and development”.
+2022—Par. (2). Pub. L. 117–167, § 103(a)(1), substituted “a nonprofit entity, a private entity, a consortium of private entities, or a consortium of nonprofit, public, and private entities” for “a private entity, a consortium of private entities, or a consortium of public and private entities” and “of semiconductors, materials used to manufacture semiconductors, or semiconductor manufacturing equipment.” for “of semiconductors.” and inserted “production,” before “or research and development”.
 
-Pars. (5), (6). Pub. L. 117–167, § 103(a)(2), (3), added par. (5) and redesignated former par. (5) as (6). Former par. (6) redesignated (8).
+Pars. (5), (6). Pub. L. 117–167, § 103(a)(2), (3), added par. (5) and redesignated former par. (5) as (6). Former par. (6) redesignated (8).
 
-Par. (7). Pub. L. 117–167, § 103(a)(4), added par. (7). Former par. (7) redesignated (9).
+Par. (7). Pub. L. 117–167, § 103(a)(4), added par. (7). Former par. (7) redesignated (9).
 
-Pars. (8), (9). Pub. L. 117–167, § 103(a)(2), redesignated pars. (6) and (7) as (8) and (9), respectively. Former pars. (8) and (9) redesignated (12) and (13), respectively.
+Pars. (8), (9). Pub. L. 117–167, § 103(a)(2), redesignated pars. (6) and (7) as (8) and (9), respectively. Former pars. (8) and (9) redesignated (12) and (13), respectively.
 
-Pars. (10), (11). Pub. L. 117–167, § 103(a)(5), added pars. (10) and (11).
+Pars. (10), (11). Pub. L. 117–167, § 103(a)(5), added pars. (10) and (11).
 
-Pars. (12), (13). Pub. L. 117–167, § 103(a)(2), redesignated pars. (8) and (9) as (12) and (13), respectively.
+Pars. (12), (13). Pub. L. 117–167, § 103(a)(2), redesignated pars. (8) and (9) as (12) and (13), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–105, § 1, Oct. 2, 2024, 138 Stat. 1587, provided that: “This Act [amending sections 4652 and 4659 of this title] may be cited as the ‘Building Chips in America Act of 2023’.”
+Pub. L. 118–105, § 1, Oct. 2, 2024, 138 Stat. 1587, provided that: “This Act [amending sections 4652 and 4659 of this title] may be cited as the ‘Building Chips in America Act of 2023’.”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–167, div. A, § 101, Aug. 9, 2022, 136 Stat. 1372, provided that: “This division [enacting section 4659 of this title and section 48D of Title 26, Internal Revenue Code, amending this section, sections 4652 and 4656 of this title, section 905 of Title 2, The Congress, sections 46, 49, 50, and 1371 of Title 26, and section 906 of Title 47, Telecommunications, and enacting provisions set out as notes under section 4652 of this title and section 905 of Title 2] may be cited as the ‘CHIPS Act of 2022’.”
+Pub. L. 117–167, div. A, § 101, Aug. 9, 2022, 136 Stat. 1372, provided that: “This division [enacting section 4659 of this title and section 48D of Title 26, Internal Revenue Code, amending this section, sections 4652 and 4656 of this title, section 905 of Title 2, The Congress, sections 46, 49, 50, and 1371 of Title 26, and section 906 of Title 47, Telecommunications, and enacting provisions set out as notes under section 4652 of this title and section 905 of Title 2] may be cited as the ‘CHIPS Act of 2022’.”
 
 **Executive Documents**
 
@@ -247,7 +247,7 @@ Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 J.R. Biden, Jr.
 
-## § 4652. Semiconductor incentives
+## § 4652. Semiconductor incentives
 
 **(a) Financial assistance program**
 
@@ -263,9 +263,9 @@ A covered entity shall submit to the Secretary an application that describes the
 
 **(B) Eligibility** In order for a covered entity to qualify for financial assistance under this section, the covered entity shall demonstrate to the Secretary, in the application submitted by the covered entity under subparagraph (A), that—
 
-**(i)** the covered entity has a documented interest in constructing, expanding, or modernizing a facility described in paragraph (1) 1
+**(i)** the covered entity has a documented interest in constructing, expanding, or modernizing a facility described in paragraph (1) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a semicolon.
+<sup>1</sup> So in original. Probably should be followed by a semicolon.
 
 **(ii)** with respect to the project described in clause (i), the covered entity has—
 
@@ -559,7 +559,7 @@ In carrying out the program established under subsection (a), the Secretary shal
 
 **(iii)** aggregated workforce data, including data by race or ethnicity, sex, and job categories.2
 
-<sup>2</sup>  So in original. The period probably should be “; and”.
+<sup>2</sup> So in original. The period probably should be “; and”.
 
 **(2)** submit to the appropriate committees of Congress the results of each review conducted under paragraph (1).
 
@@ -679,9 +679,9 @@ New loans may not be obligated and new loan guarantees may not be committed to u
 
 **(8) Continued oversight**
 
-The loan agreement for a loan guaranteed under this subsection shall provide that no provision of the loan agreement may be amended of 3
+The loan agreement for a loan guaranteed under this subsection shall provide that no provision of the loan agreement may be amended of 3
 
-<sup>3</sup>  So in original. Probably should be “or”.
+<sup>3</sup> So in original. Probably should be “or”.
 
 waived without the consent of the Secretary.
 
@@ -717,55 +717,55 @@ Nothing in this subsection may be construed as altering whether an activity desc
 
 No funds made available under this section may be used to construct, modify, or improve a facility outside of the United States.
 
-(Pub. L. 116–283, div. H, title XCIX, § 9902, Jan. 1, 2021, 134 Stat. 4846; Pub. L. 117–167, div. A, §§ 103(b), 105(a), Aug. 9, 2022, 136 Stat. 1380, 1391; Pub. L. 118–105, § 2(1), Oct. 2, 2024, 138 Stat. 1587.)
+(Pub. L. 116–283, div. H, title XCIX, § 9902, Jan. 1, 2021, 134 Stat. 4846; Pub. L. 117–167, div. A, §§ 103(b), 105(a), Aug. 9, 2022, 136 Stat. 1380, 1391; Pub. L. 118–105, § 2(1), Oct. 2, 2024, 138 Stat. 1587.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (h)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (h)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
 2024—Subsecs. (h) to (j). Pub. L. 118–105 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
-2022—Subsec. (a)(1). Pub. L. 117–167, § 103(b)(1), substituted “for the fabrication” for “for semiconductor fabrication” and “of semiconductors, materials used to manufacture semiconductors, or semiconductor manufacturing equipment.” for period at end and inserted “production,” before “or research and development”.
+2022—Subsec. (a)(1). Pub. L. 117–167, § 103(b)(1), substituted “for the fabrication” for “for semiconductor fabrication” and “of semiconductors, materials used to manufacture semiconductors, or semiconductor manufacturing equipment.” for period at end and inserted “production,” before “or research and development”.
 
-Subsec. (a)(2)(B)(ii)(V), (VI). Pub. L. 117–167, § 103(b)(2)(B), added subcls. (V) and (VI).
+Subsec. (a)(2)(B)(ii)(V), (VI). Pub. L. 117–167, § 103(b)(2)(B), added subcls. (V) and (VI).
 
-Subsec. (a)(2)(B)(iii), (iv). Pub. L. 117–167, § 103(b)(2)(A), (C), added cls. (iii) and (iv).
+Subsec. (a)(2)(B)(iii), (iv). Pub. L. 117–167, § 103(b)(2)(A), (C), added cls. (iii) and (iv).
 
-Subsec. (a)(2)(C)(i)(II). Pub. L. 117–167, § 103(b)(2)(D)(i)(I), substituted “is in the economic and national security interests of the United States” for “is in the interest of the United States”.
+Subsec. (a)(2)(C)(i)(II). Pub. L. 117–167, § 103(b)(2)(D)(i)(I), substituted “is in the economic and national security interests of the United States” for “is in the interest of the United States”.
 
-Subsec. (a)(2)(C)(i)(III). Pub. L. 117–167, § 103(b)(2)(D)(i)(II), struck out “and” at end.
+Subsec. (a)(2)(C)(i)(III). Pub. L. 117–167, § 103(b)(2)(D)(i)(II), struck out “and” at end.
 
-Subsec. (a)(2)(C)(iii) to (v). Pub. L. 117–167, § 103(b)(2)(D)(ii)–(iv), added cls. (iii) and (iv) and redesignated former cl. (iii) as (v).
+Subsec. (a)(2)(C)(iii) to (v). Pub. L. 117–167, § 103(b)(2)(D)(ii)–(iv), added cls. (iii) and (iv) and redesignated former cl. (iii) as (v).
 
-Subsec. (a)(2)(D), (E). Pub. L. 117–167, § 103(b)(2)(E), (F), added subpar. (D) and redesignated former subpar. (D) as (E).
+Subsec. (a)(2)(D), (E). Pub. L. 117–167, § 103(b)(2)(E), (F), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (a)(4)(A). Pub. L. 117–167, § 103(b)(3), substituted “used for the purposes” for “used for semiconductors”.
+Subsec. (a)(4)(A). Pub. L. 117–167, § 103(b)(3), substituted “used for the purposes” for “used for semiconductors”.
 
-Subsec. (a)(5)(A). Pub. L. 117–167, § 103(b)(4)(A), struck out “major” before “awards” in introductory provisions.
+Subsec. (a)(5)(A). Pub. L. 117–167, § 103(b)(4)(A), struck out “major” before “awards” in introductory provisions.
 
-Subsec. (a)(5)(D). Pub. L. 117–167, § 103(b)(4)(B), struck out “major” before “award” in introductory provisions.
+Subsec. (a)(5)(D). Pub. L. 117–167, § 103(b)(4)(B), struck out “major” before “award” in introductory provisions.
 
-Subsec. (a)(5)(E)(i). Pub. L. 117–167, § 103(b)(4)(C), struck out “major” before “award”.
+Subsec. (a)(5)(E)(i). Pub. L. 117–167, § 103(b)(4)(C), struck out “major” before “award”.
 
-Subsec. (a)(6). Pub. L. 117–167, § 103(b)(5), added par. (6).
+Subsec. (a)(6). Pub. L. 117–167, § 103(b)(5), added par. (6).
 
-Subsec. (c)(1)(B)(iii). Pub. L. 117–167, § 105(a)(1)(A), added cl. (iii).
+Subsec. (c)(1)(B)(iii). Pub. L. 117–167, § 105(a)(1)(A), added cl. (iii).
 
-Subsec. (c)(1)(C)(v). Pub. L. 117–167, § 105(a)(1)(B), added cl. (v).
+Subsec. (c)(1)(C)(v). Pub. L. 117–167, § 105(a)(1)(B), added cl. (v).
 
-Subsec. (c)(1)(D). Pub. L. 117–167, § 105(a)(2), which directed amendment of subsec. (c) by adding subpar. (D) after par. (1)(C)(iv), was executed by making the addition after par. (1)(C)(v), to reflect the probable intent of Congress and the addition of cl. (v) by Pub. L. 117–167, § 105(a)(1)(B). See above.
+Subsec. (c)(1)(D). Pub. L. 117–167, § 105(a)(2), which directed amendment of subsec. (c) by adding subpar. (D) after par. (1)(C)(iv), was executed by making the addition after par. (1)(C)(v), to reflect the probable intent of Congress and the addition of cl. (v) by Pub. L. 117–167, § 105(a)(1)(B). See above.
 
-Subsecs. (d) to (i). Pub. L. 117–167, § 103(b)(6), added subsecs. (d) to (i).
+Subsecs. (d) to (i). Pub. L. 117–167, § 103(b)(6), added subsecs. (d) to (i).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Opportunity and Inclusion**
 
-Pub. L. 117–167, div. A, § 104, Aug. 9, 2022, 136 Stat. 1390, provided that:
+Pub. L. 117–167, div. A, § 104, Aug. 9, 2022, 136 Stat. 1390, provided that:
 
 > **“(a) Establishment.—** Not later than 180 days after the date of enactment of this Act [Aug. 9, 2022], the Secretary of Commerce shall establish activities in the Department of Commerce, within the program established under section 9902 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 4652), to carry out this section using funds appropriated under this Act [div. A of Pub. L. 117–167, see Tables for classification].
 
@@ -785,7 +785,7 @@ Pub. L. 117–167, div. A, § 104, Aug. 9, 2022, 136 Stat. 1390, provided that
 
 **References in Pub. L. 117–167**
 
-Pub. L. 117–167, § 2, Aug. 9, 2022, 136 Stat. 1371, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [see Tables for classification] shall be treated as referring only to the provisions of that division.”
+Pub. L. 117–167, § 2, Aug. 9, 2022, 136 Stat. 1371, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [see Tables for classification] shall be treated as referring only to the provisions of that division.”
 
 **Executive Documents**
 
@@ -801,7 +801,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 J.R. Biden, Jr.
 
-## § 4653. Department of Defense
+## § 4653. Department of Defense
 
 **(a) Department of Defense efforts**
 
@@ -821,9 +821,9 @@ Subject to the availability of appropriations for such purposes, the Secretary o
 
 **(E)** shall be capable of providing microelectronic components that are consistent with applicable measurably secure supply chain and operational security standards established under section 224(b) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92).
 
-**(3) National security considerations** The Secretary of Defense and the Director of National Intelligence shall select participants for each consortium and or 1
+**(3) National security considerations** The Secretary of Defense and the Director of National Intelligence shall select participants for each consortium and or 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 partnership formed with incentives under paragraph (1). In selecting such participants, the Secretary and the Director may jointly consider whether the companies—
 
@@ -845,9 +845,9 @@ partnership formed with incentives under paragraph (1). In selecting such partic
 
 **(4) Nontraditional defense contractors and commercial entities**
 
-Arrangements entered into to carry out paragraph (1) shall be in such form as the Secretary of Defense determines appropriate to encourage industry participation of nontraditional defense contractors or commercial entities and may include a contract, a grant, a cooperative agreement, a commercial agreement, the use of other transaction authority under section 2371 2
+Arrangements entered into to carry out paragraph (1) shall be in such form as the Secretary of Defense determines appropriate to encourage industry participation of nontraditional defense contractors or commercial entities and may include a contract, a grant, a cooperative agreement, a commercial agreement, the use of other transaction authority under section 2371 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 10 or another such arrangement.
 
@@ -907,7 +907,7 @@ In carrying out paragraph (1), the Secretary shall, through a competitive proces
 
 The Secretary shall, to the extent practicable, ensure that the entities selected under subparagraph (A) collectively represent the geographic diversity of the United States.
 
-(Pub. L. 116–283, div. H, title XCIX, § 9903, Jan. 1, 2021, 134 Stat. 4849; Pub. L. 117–81, div. A, title II, § 217, Dec. 27, 2021, 135 Stat. 1596.)
+(Pub. L. 116–283, div. H, title XCIX, § 9903, Jan. 1, 2021, 134 Stat. 4849; Pub. L. 117–81, div. A, title II, § 217, Dec. 27, 2021, 135 Stat. 1596.)
 
 **Editorial Notes**
 
@@ -915,13 +915,13 @@ The Secretary shall, to the extent practicable, ensure that the entities selecte
 
 Section 224 of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (a)(2)(E), is section 224 of Pub. L. 116–92, which is set out as a note preceding section 4501 of Title 10, Armed Forces.
 
-Section 2371 of title 10, referred to in subsec. (a)(4), was renumbered section 4021 of Title 10, Armed Forces, by Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151.
+Section 2371 of title 10, referred to in subsec. (a)(4), was renumbered section 4021 of Title 10, Armed Forces, by Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151.
 
 **Amendments**
 
-2021—Subsec. (b)(1). Pub. L. 117–81, § 217(1), substituted “shall” for “may” in introductory provisions.
+2021—Subsec. (b)(1). Pub. L. 117–81, § 217(1), substituted “shall” for “may” in introductory provisions.
 
-Subsec. (b)(3). Pub. L. 117–81, § 217(2), added par. (3).
+Subsec. (b)(3). Pub. L. 117–81, § 217(2), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -929,15 +929,15 @@ Subsec. (b)(3). Pub. L. 117–81, § 217(2), added par. (3).
 
 For definition of “congressional defense committees” as the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 101 of Title 10, Armed Forces, as made applicable by section 3 of Pub. L. 116–283, which is listed in a table under section 101 of Title 10.
 
-## § 4654. Department of Commerce study on status of microelectronics technologies in the United States industrial base
+## § 4654. Department of Commerce study on status of microelectronics technologies in the United States industrial base
 
 **(a) In general**
 
 Beginning not later than 180 days after January 1, 2021, the Secretary, in consultation with the heads of other Federal departments and agencies, as appropriate, including the Secretary of Defense, Secretary of Homeland Security, and the Secretary of Energy, shall undertake a review, which shall include a survey, using authorities in section 4555 of title 50, to assess the capabilities of the United States industrial base to support the national defense in light of the global nature of the supply chain and significant interdependencies between the United States industrial base and the industrial bases of foreign countries with respect to the manufacture, design, and end use of microelectronics.
 
-**(b) Response to survey** To the extent authorized by section 4555 of title 50 and section 1
+**(b) Response to survey** To the extent authorized by section 4555 of title 50 and section 1
 
-<sup>1</sup>  So in original. Probably should be “part”.
+<sup>1</sup> So in original. Probably should be “part”.
 
 702 of title 15, Code of Federal Regulations, the Secretary shall ensure all relevant potential respondents reply to the survey, including the following:
 
@@ -947,7 +947,7 @@ Beginning not later than 180 days after January 1, 2021, the Secretary, in consu
 
 **(3)** Foreign domiciled corporations, partnerships, associations, or any other organized groups with a physical presence of any kind in the United States.
 
-**(c) Information requested** To the extent authorized by section 4555 of title 50 and section <sup>1</sup> 702 of title 15, Code of Federal Regulations, the information sought from a responding entity specified in subsection (b) shall include, at minimum, information on the following with respect to the manufacture, design, or end use of microelectronics by such entity:
+**(c) Information requested** To the extent authorized by section 4555 of title 50 and section <sup>1</sup> 702 of title 15, Code of Federal Regulations, the information sought from a responding entity specified in subsection (b) shall include, at minimum, information on the following with respect to the manufacture, design, or end use of microelectronics by such entity:
 
 **(1)** An identification of the geographic scope of operations.
 
@@ -987,9 +987,9 @@ Beginning not later than 180 days after January 1, 2021, the Secretary, in consu
 
 The report required by paragraph (1) may be submitted in classified form.
 
-(Pub. L. 116–283, div. H, title XCIX, § 9904, Jan. 1, 2021, 134 Stat. 4852.)
+(Pub. L. 116–283, div. H, title XCIX, § 9904, Jan. 1, 2021, 134 Stat. 4852.)
 
-## § 4655. Funding for development and adoption of measurably secure semiconductors and measurably secure semiconductors supply chains
+## § 4655. Funding for development and adoption of measurably secure semiconductors and measurably secure semiconductors supply chains
 
 **(a) Multilateral Semiconductors Security Fund**
 
@@ -1071,7 +1071,7 @@ Not later than 15 days prior to the Fund making a financial commitment associate
 
 The Secretary of State shall notify the appropriate committees of Congress not later than 30 days after entering into a new bilateral or multilateral arrangement or agreement described in subsection (a)(4)(B).
 
-(Pub. L. 116–283, div. H, title XCIX, § 9905, Jan. 1, 2021, 134 Stat. 4854; Pub. L. 118–31, div. F, title LXVII, § 6707(b)(1)(B), Dec. 22, 2023, 137 Stat. 1018.)
+(Pub. L. 116–283, div. H, title XCIX, § 9905, Jan. 1, 2021, 134 Stat. 4854; Pub. L. 118–31, div. F, title LXVII, § 6707(b)(1)(B), Dec. 22, 2023, 137 Stat. 1018.)
 
 **Editorial Notes**
 
@@ -1079,7 +1079,7 @@ The Secretary of State shall notify the appropriate committees of Congress not l
 
 2023—Subsecs. (c), (d). Pub. L. 118–31 redesignated subsec. (d) as (c) and struck out former subsec. (c) which required the Secretary of State to report to Congress annually on the implementation of this section.
 
-## § 4656. Advanced microelectronics research and development
+## § 4656. Advanced microelectronics research and development
 
 **(a) Subcommittee on microelectronics leadership**
 
@@ -1165,9 +1165,9 @@ The Secretary of Commerce, in consultation with the Secretary of Defense, the Se
 
 **(3) FACA exemption**
 
-Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 1
+Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall not apply to the advisory committee established under this subsection.
 
@@ -1225,7 +1225,7 @@ The head of any executive agency receiving funding under this section shall deve
 
 Section 3212 of title 42 shall apply to a construction project that receives financial assistance under this section.
 
-(Pub. L. 116–283, div. H, title XCIX, § 9906, Jan. 1, 2021, 134 Stat. 4856; Pub. L. 117–167, div. A, § 103(c), Aug. 9, 2022, 136 Stat. 1388.)
+(Pub. L. 116–283, div. H, title XCIX, § 9906, Jan. 1, 2021, 134 Stat. 4856; Pub. L. 117–167, div. A, § 103(c), Aug. 9, 2022, 136 Stat. 1388.)
 
 **Editorial Notes**
 
@@ -1233,31 +1233,31 @@ Section 3212 of title 42 shall apply to a construction project that receives fin
 
 Section 231(b)(15) of the National Defense Authorization Act for Fiscal Year 2017 (as added by section 276 of this Act), referred to in subsec. (a)(3)(A)(ii)(IV), is section 231(b)(15) of Pub. L. 114–328, as added by section 276 of Pub. L. 116–283, which is set out in a note under section 2302 of Title 10, Armed Forces.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(3), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(3), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 **Amendments**
 
-2022—Subsec. (a)(3)(A)(ii)(II). Pub. L. 117–167, § 103(c)(1)(A), inserted “, including for technologies based on organic and inorganic materials” after “components”.
+2022—Subsec. (a)(3)(A)(ii)(II). Pub. L. 117–167, § 103(c)(1)(A), inserted “, including for technologies based on organic and inorganic materials” after “components”.
 
-Subsec. (a)(3)(A)(ii)(V). Pub. L. 117–167, § 103(c)(1)(B), substituted “supply chain integrity, and workforce development” for “supply chain integrity”.
+Subsec. (a)(3)(A)(ii)(V). Pub. L. 117–167, § 103(c)(1)(B), substituted “supply chain integrity, and workforce development” for “supply chain integrity”.
 
-Subsec. (c)(1). Pub. L. 117–167, § 103(c)(2)(A), inserted “and grow the domestic semiconductor workforce” after “prototyping of advanced semiconductor technology” and inserted at end “The Secretary may make financial assistance awards, including construction awards, in support of the national semiconductor technology center.”
+Subsec. (c)(1). Pub. L. 117–167, § 103(c)(2)(A), inserted “and grow the domestic semiconductor workforce” after “prototyping of advanced semiconductor technology” and inserted at end “The Secretary may make financial assistance awards, including construction awards, in support of the national semiconductor technology center.”
 
-Subsec. (c)(2)(B). Pub. L. 117–167, § 103(c)(2)(B)(i), inserted “and capitalize” before “an investment fund” in introductory provisions.
+Subsec. (c)(2)(B). Pub. L. 117–167, § 103(c)(2)(B)(i), inserted “and capitalize” before “an investment fund” in introductory provisions.
 
-Subsec. (c)(2)(C). Pub. L. 117–167, § 103(c)(2)(B)(ii), added subpar. (C) and struck out former subpar. (C) which read as follows: “To work with the Secretary of Labor, the Director of the National Science Foundation, the Secretary of Energy, the private sector, institutions of higher education, and workforce training entities to incentivize and expand participation in graduate and undergraduate programs, and develop workforce training programs and apprenticeships, in advanced microelectronic design, research, fabrication, and packaging capabilities.”
+Subsec. (c)(2)(C). Pub. L. 117–167, § 103(c)(2)(B)(ii), added subpar. (C) and struck out former subpar. (C) which read as follows: “To work with the Secretary of Labor, the Director of the National Science Foundation, the Secretary of Energy, the private sector, institutions of higher education, and workforce training entities to incentivize and expand participation in graduate and undergraduate programs, and develop workforce training programs and apprenticeships, in advanced microelectronic design, research, fabrication, and packaging capabilities.”
 
-Subsec. (d). Pub. L. 117–167, § 103(c)(3), substituted “a Manufacturing USA institute” for “the Manufacturing USA institute” and inserted at end “The Director may make financial assistance awards, including construction awards, in support of the National Advanced Packaging Manufacturing Program.”
+Subsec. (d). Pub. L. 117–167, § 103(c)(3), substituted “a Manufacturing USA institute” for “the Manufacturing USA institute” and inserted at end “The Director may make financial assistance awards, including construction awards, in support of the National Advanced Packaging Manufacturing Program.”
 
-Subsec. (f). Pub. L. 117–167, § 103(c)(4), substituted, in introductory provisions, “not more than 3 Manufacturing USA Institutes” for “a Manufacturing USA institute”, “are focused on semiconductor manufacturing. The Secretary of Commerce may award financial assistance to any Manufacturing USA Institute for work relating to semiconductor manufacturing.” for “is focused on semiconductor manufacturing.”, and “Such institutes may emphasize” for “Such institute may emphasize”.
+Subsec. (f). Pub. L. 117–167, § 103(c)(4), substituted, in introductory provisions, “not more than 3 Manufacturing USA Institutes” for “a Manufacturing USA institute”, “are focused on semiconductor manufacturing. The Secretary of Commerce may award financial assistance to any Manufacturing USA Institute for work relating to semiconductor manufacturing.” for “is focused on semiconductor manufacturing.”, and “Such institutes may emphasize” for “Such institute may emphasize”.
 
-Subsec. (h). Pub. L. 117–167, § 103(c)(5), added subsec. (h).
+Subsec. (h). Pub. L. 117–167, § 103(c)(5), added subsec. (h).
 
-## § 4657. Prohibition relating to foreign entities of concern
+## § 4657. Prohibition relating to foreign entities of concern
 
 None of the funds authorized to be appropriated to carry out this chapter may be provided to a foreign entity of concern.
 
-(Pub. L. 116–283, div. H, title XCIX, § 9907, Jan. 1, 2021, 134 Stat. 4860.)
+(Pub. L. 116–283, div. H, title XCIX, § 9907, Jan. 1, 2021, 134 Stat. 4860.)
 
 **Editorial Notes**
 
@@ -1265,7 +1265,7 @@ None of the funds authorized to be appropriated to carry out this chapter may be
 
 This chapter, referred to in text, was in the original “this subtitle” and was translated as reading “this title”, meaning title XCIX of div. H of Pub. L. 116–283, to reflect the probable intent of Congress.
 
-## § 4658. Defense Production Act of 1950 efforts
+## § 4658. Defense Production Act of 1950 efforts
 
 **(a) In general** Not later than 180 days after January 1, 2021, the President shall submit to Congress a report on a plan of action for any use of authorities available in title III of the Defense Production Act of 1950 (50 U.S.C. 4531 et seq.) to establish or enhance a domestic production capability for microelectronics technologies and related technologies, subject to—
 
@@ -1277,15 +1277,15 @@ This chapter, referred to in text, was in the original “this subtitle” and w
 
 The President shall develop the plan of action required by subsection (a) in consultation with any relevant head of a Federal agency, an advisory committee established under section 708(d) of the Defense Production Act of 1950 (50 U.S.C. 4558(d)), and appropriate stakeholders in the private sector.
 
-(Pub. L. 116–283, div. H, title XCIX, § 9908, Jan. 1, 2021, 134 Stat. 4860.)
+(Pub. L. 116–283, div. H, title XCIX, § 9908, Jan. 1, 2021, 134 Stat. 4860.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Defense Production Act of 1950, referred to in subsec. (a), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which is classified principally to chapter 55 (§ 4501 et seq.) of Title 50, War and National Defense. Title III of the Act is classified generally to subchapter II (§ 4531 et seq.) of chapter 55. For complete classification of this Act to the Code, see section 4501 of Title 50 and Tables.
+The Defense Production Act of 1950, referred to in subsec. (a), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which is classified principally to chapter 55 (§ 4501 et seq.) of Title 50, War and National Defense. Title III of the Act is classified generally to subchapter II (§ 4531 et seq.) of chapter 55. For complete classification of this Act to the Code, see section 4501 of Title 50 and Tables.
 
-## § 4659. Additional authorities
+## § 4659. Additional authorities
 
 **(a) In general** In carrying out the responsibilities of the Department of Commerce under this chapter, the Secretary may—
 
@@ -1305,9 +1305,9 @@ The Defense Production Act of 1950, referred to in subsec. (a), is act Sept. 8, 
 
 **(b) Requirement**
 
-Any funds received from a payment made by a person or entity pursuant to subsection (a)(3) shall be credited to and merged with the account from which support to the person or entity was made 1
+Any funds received from a payment made by a person or entity pursuant to subsection (a)(3) shall be credited to and merged with the account from which support to the person or entity was made 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(c) Lead Federal agency and cooperating agencies**
 
@@ -1375,7 +1375,7 @@ The term “covered activity” means any activity relating to the construction,
 
 The term “NEPA” means the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
-(Pub. L. 116–283, div. H, title XCIX, § 9909, as added Pub. L. 117–167, div. A, § 103(d), Aug. 9, 2022, 136 Stat. 1389; amended Pub. L. 118–105, § 2(2), Oct. 2, 2024, 138 Stat. 1588.)
+(Pub. L. 116–283, div. H, title XCIX, § 9909, as added Pub. L. 117–167, div. A, § 103(d), Aug. 9, 2022, 136 Stat. 1389; amended Pub. L. 118–105, § 2(2), Oct. 2, 2024, 138 Stat. 1588.)
 
 **Editorial Notes**
 
@@ -1383,7 +1383,7 @@ The term “NEPA” means the National Environmental Policy Act of 1969 (42 U.S.
 
 This chapter, referred to in subsec. (a), was in the original “this division” and was translated as reading “this title”, meaning title XCIX of div. H of Pub. L. 116–283, to reflect the probable intent of Congress.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (f)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (f)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 

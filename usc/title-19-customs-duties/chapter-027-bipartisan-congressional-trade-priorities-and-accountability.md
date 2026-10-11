@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 27—BIPARTISAN CONGRESSIONAL TRADE PRIORITIES AND ACCOUNTABILITY
 
-## § 4201. Trade negotiating objectives
+## § 4201. Trade negotiating objectives
 
 **(a) Overall trade negotiating objectives** The overall trade negotiating objectives of the United States for agreements subject to the provisions of section 4202 of this title are—
 
@@ -415,7 +415,7 @@ The principal negotiating objectives of the United States with respect to ensuri
 
 **(4)** submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on capacity-building activities undertaken in connection with trade agreements negotiated or being negotiated pursuant to this chapter.
 
-(Pub. L. 114–26, title I, § 102, June 29, 2015, 129 Stat. 320; Pub. L. 114–125, title IX, § 914(a)–(c), Feb. 24, 2016, 130 Stat. 273.)
+(Pub. L. 114–26, title I, § 102, June 29, 2015, 129 Stat. 320; Pub. L. 114–125, title IX, § 914(a)–(c), Feb. 24, 2016, 130 Stat. 273.)
 
 **Editorial Notes**
 
@@ -425,21 +425,21 @@ This chapter, referred to in subsec. (c)(4), was in the original “this title�
 
 **Amendments**
 
-2016—Subsec. (a)(14). Pub. L. 114–125, § 914(a), added par. (14).
+2016—Subsec. (a)(14). Pub. L. 114–125, § 914(a), added par. (14).
 
-Subsec. (a)(15). Pub. L. 114–125, § 914(b), added par. (15).
+Subsec. (a)(15). Pub. L. 114–125, § 914(b), added par. (15).
 
-Subsec. (b)(22). Pub. L. 114–125, § 914(c), added par. (22).
+Subsec. (b)(22). Pub. L. 114–125, § 914(c), added par. (22).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–125, title IX, § 914(g), Feb. 24, 2016, 130 Stat. 276, provided that: “The amendments made by this section [amending this section and sections 4203 to 4205 of this title] shall take effect as if included in the enactment of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 ([title I of] Public Law 114–26; 129 Stat. 320; 19 U.S.C. 4201 et seq.).”
+Pub. L. 114–125, title IX, § 914(g), Feb. 24, 2016, 130 Stat. 276, provided that: “The amendments made by this section [amending this section and sections 4203 to 4205 of this title] shall take effect as if included in the enactment of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 ([title I of] Public Law 114–26; 129 Stat. 320; 19 U.S.C. 4201 et seq.).”
 
 **Short Title**
 
-Pub. L. 114–26, title I, § 101, June 29, 2015, 129 Stat. 320, provided that: “This title [enacting this chapter and amending sections 2151 to 2155, 2171, 2191, and 2212 of this title] may be cited as the ‘Bipartisan Congressional Trade Priorities and Accountability Act of 2015’.”
+Pub. L. 114–26, title I, § 101, June 29, 2015, 129 Stat. 320, provided that: “This title [enacting this chapter and amending sections 2151 to 2155, 2171, 2191, and 2212 of this title] may be cited as the ‘Bipartisan Congressional Trade Priorities and Accountability Act of 2015’.”
 
 **Executive Documents**
 
@@ -489,7 +489,7 @@ Barack Obama.
 
 [For delegation of authority and functions under section 103(a)(1)(A) and (b)(1) of Pub. L. 114–26, notwithstanding section 1(b)(ii) of Ex. Ord. No. 13701, set out above, see Memorandum of President of the United States, Jan. 29, 2016, 81 F.R. 5571, set out as a note under section 4202 of this title.]
 
-## § 4202. Trade agreements authority
+## § 4202. Trade agreements authority
 
 **(a) Agreements regarding tariff barriers**
 
@@ -655,7 +655,7 @@ The reports submitted to Congress under paragraphs (2) and (3), or any portion o
 
 In order to contribute to the continued economic expansion of the United States, the President shall commence negotiations covering tariff and nontariff barriers affecting any industry, product, or service sector, and expand existing sectoral agreements to countries that are not parties to those agreements, in cases where the President determines that such negotiations are feasible and timely and would benefit the United States. Such sectors include agriculture, commercial services, intellectual property rights, industrial and capital goods, government procurement, information technology products, environmental technology and services, medical equipment and services, civil aircraft, and infrastructure products. In so doing, the President shall take into account all of the negotiating objectives set forth in section 4201 of this title.
 
-(Pub. L. 114–26, title I, § 103, June 29, 2015, 129 Stat. 333.)
+(Pub. L. 114–26, title I, § 103, June 29, 2015, 129 Stat. 333.)
 
 **Editorial Notes**
 
@@ -683,7 +683,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.
 
-## § 4203. Congressional oversight, consultations, and access to information
+## § 4203. Congressional oversight, consultations, and access to information
 
 **(a) Consultations with Members of Congress**
 
@@ -847,7 +847,7 @@ The United States Trade Representative shall disseminate the guidelines develope
 
 **(f) Omitted**
 
-(Pub. L. 114–26, title I, § 104, June 29, 2015, 129 Stat. 337; Pub. L. 114–125, title IX, § 914(d), Feb. 24, 2016, 130 Stat. 274.)
+(Pub. L. 114–26, title I, § 104, June 29, 2015, 129 Stat. 337; Pub. L. 114–125, title IX, § 914(d), Feb. 24, 2016, 130 Stat. 274.)
 
 **Editorial Notes**
 
@@ -861,9 +861,9 @@ Section is comprised of section 104 of Pub. L. 114–26. Subsec. (f) of section 
 
 **Amendments**
 
-2016—Subsec. (b)(3). Pub. L. 114–125, § 914(d)(1), substituted “a delegate and official” for “an official”.
+2016—Subsec. (b)(3). Pub. L. 114–125, § 914(d)(1), substituted “a delegate and official” for “an official”.
 
-Subsec. (c)(2)(C). Pub. L. 114–125, § 914(d)(2), substituted “a delegate and official” for “an official” in two places and inserted after first sentence “In addition, the chairmen and ranking members described in subparagraphs (A)(i) and (B)(i) shall each be permitted to designate up to 3 personnel with proper security clearances to serve as delegates and official advisers to the United States delegation in negotiations for any trade agreement to which this chapter applies.”
+Subsec. (c)(2)(C). Pub. L. 114–125, § 914(d)(2), substituted “a delegate and official” for “an official” in two places and inserted after first sentence “In addition, the chairmen and ranking members described in subparagraphs (A)(i) and (B)(i) shall each be permitted to designate up to 3 personnel with proper security clearances to serve as delegates and official advisers to the United States delegation in negotiations for any trade agreement to which this chapter applies.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -877,7 +877,7 @@ Amendment by Pub. L. 114–125 effective as if included in the enactment of titl
 
 For delegation of functions of President under this section, see Ex. Ord. No. 13701, July 17, 2015, 80 F.R. 43903, set out as a note under section 4201 of this title.
 
-## § 4204. Notice, consultations, and reports
+## § 4204. Notice, consultations, and reports
 
 **(a) Notice, consultations, and reports before negotiation**
 
@@ -1101,7 +1101,7 @@ Not later than one year after June 29, 2015, and not later than 5 years thereaft
 
 Any Member of the House of Representatives may submit to the Committee on Ways and Means of the House of Representatives and any Member of the Senate may submit to the Committee on Finance of the Senate the views of that Member on any matter relevant to a proposed trade agreement, and the relevant Committee shall receive those views for consideration.
 
-(Pub. L. 114–26, title I, § 105, June 29, 2015, 129 Stat. 342; Pub. L. 114–125, title IX, § 914(f)(1), Feb. 24, 2016, 130 Stat. 275.)
+(Pub. L. 114–26, title I, § 105, June 29, 2015, 129 Stat. 342; Pub. L. 114–125, title IX, § 914(f)(1), Feb. 24, 2016, 130 Stat. 275.)
 
 **Editorial Notes**
 
@@ -1109,9 +1109,9 @@ Any Member of the House of Representatives may submit to the Committee on Ways a
 
 This chapter, referred to in subsecs. (b)(2)(B) and (f)(1), was in the original “this title”, meaning title I of Pub. L. 114–26, June 29, 2015, 129 Stat. 320, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4201 of this title and Tables.
 
-The Tariff Act of 1930, referred to in subsec. (b)(3)(A)(i), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+The Tariff Act of 1930, referred to in subsec. (b)(3)(A)(i), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
-The Trade Act of 1974, referred to in subsec. (b)(3)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (b)(3)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 Sections 105(b)(3) and 102(b)(17) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015, referred to in subsec. (b)(3)(B)(ii), are classified to subsec. (b)(3) of this section and section 4201(b)(17) of this title, respectively.
 
@@ -1119,9 +1119,9 @@ Executive Order No. 13141, referred to in subsec. (d)(1)(A), (2)(A), is set out 
 
 **Amendments**
 
-2016—Subsec. (b)(3)(A)(ii). Pub. L. 114–125, § 914(f)(1)(A), substituted “section 4201(b)(17)” for “section 4201(b)(16)”.
+2016—Subsec. (b)(3)(A)(ii). Pub. L. 114–125, § 914(f)(1)(A), substituted “section 4201(b)(17)” for “section 4201(b)(16)”.
 
-Subsec. (b)(3)(B)(ii). Pub. L. 114–125, § 914(f)(1)(B), substituted “section 102(b)(17)” for “section 102(b)(16)”.
+Subsec. (b)(3)(B)(ii). Pub. L. 114–125, § 914(f)(1)(B), substituted “section 102(b)(17)” for “section 102(b)(16)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1135,7 +1135,7 @@ Amendment by Pub. L. 114–125 effective as if included in the enactment of titl
 
 For delegation of functions of President under this section, see Ex. Ord. No. 13701, July 17, 2015, 80 F.R. 43903, set out as a note under section 4201 of this title.
 
-## § 4205. Implementation of trade agreements
+## § 4205. Implementation of trade agreements
 
 **(a) In general**
 
@@ -1355,7 +1355,7 @@ The term “tier 3 country” means a country on the list of countries required 
 
 **(2)** with the full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner, and to the same extent as any other rule of that House.
 
-(Pub. L. 114–26, title I, § 106, June 29, 2015, 129 Stat. 350; Pub. L. 114–125, title IX, § 914(e), (f)(2), Feb. 24, 2016, 130 Stat. 274, 276.)
+(Pub. L. 114–26, title I, § 106, June 29, 2015, 129 Stat. 350; Pub. L. 114–125, title IX, § 914(e), (f)(2), Feb. 24, 2016, 130 Stat. 274, 276.)
 
 **Editorial Notes**
 
@@ -1367,11 +1367,11 @@ The Bipartisan Congressional Trade Priorities and Accountability Act of 2015, re
 
 **Amendments**
 
-2016—Subsec. (b)(5). Pub. L. 114–125, § 914(f)(2), substituted “section 4201(b)(16)(C)” for “section 4201(b)(15)(C)”.
+2016—Subsec. (b)(5). Pub. L. 114–125, § 914(f)(2), substituted “section 4201(b)(16)(C)” for “section 4201(b)(15)(C)”.
 
-Subsec. (b)(6)(A). Pub. L. 114–125, § 914(e)(2), substituted “listed as a tier 3 country in the most recent annual report on trafficking in persons” for “to which the minimum standards for the elimination of trafficking are applicable and the government of which does not fully comply with such standards and is not making significant efforts to bring the country into compliance (commonly referred to as a ‘tier 3’ country), as determined in the most recent annual report on trafficking in persons submitted under section 110(b)(1) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(b)(1))”.
+Subsec. (b)(6)(A). Pub. L. 114–125, § 914(e)(2), substituted “listed as a tier 3 country in the most recent annual report on trafficking in persons” for “to which the minimum standards for the elimination of trafficking are applicable and the government of which does not fully comply with such standards and is not making significant efforts to bring the country into compliance (commonly referred to as a ‘tier 3’ country), as determined in the most recent annual report on trafficking in persons submitted under section 110(b)(1) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(b)(1))”.
 
-Subsec. (b)(6)(B) to (E). Pub. L. 114–125, § 914(e)(1), added subpars. (B) to (E) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “In this paragraph, the term ‘minimum standards for the elimination of trafficking’ means the standards set forth in section 108 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7106).”
+Subsec. (b)(6)(B) to (E). Pub. L. 114–125, § 914(e)(1), added subpars. (B) to (E) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “In this paragraph, the term ‘minimum standards for the elimination of trafficking’ means the standards set forth in section 108 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7106).”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1399,7 +1399,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.
 
-## § 4206. Treatment of certain trade agreements for which negotiations have already begun
+## § 4206. Treatment of certain trade agreements for which negotiations have already begun
 
 **(a) Certain agreements** Notwithstanding the prenegotiation notification and consultation requirement described in section 4204(a) of this title, if an agreement to which section 4202(b) of this title applies—
 
@@ -1421,7 +1421,7 @@ and results from negotiations that were commenced before June 29, 2015, subsecti
 
 **(2)** before and after submission of the notice, consults regarding the negotiations with the committees referred to in section 4204(a)(1)(B) of this title and the House and Senate Advisory Groups on Negotiations convened under section 4203(c) of this title.
 
-**(c) 1 [footnote: 1 So in original. Two subsecs. (c) have been enacted.] Agreement by Asia-Pacific Economic Cooperation members to reduce rates of duty on certain environmental goods**
+**(c) 1 [footnote: 1 So in original. Two subsecs. (c) have been enacted.] Agreement by Asia-Pacific Economic Cooperation members to reduce rates of duty on certain environmental goods**
 
 Notwithstanding the notification requirement described in section 4202(a)(2) of this title, the President may exercise the proclamation authority provided for in section 4202(a)(1)(B) of this title to implement an agreement by members of the Asia-Pacific Economic Cooperation (APEC) to reduce any rate of duty on certain environmental goods included in Annex C of the APEC Leaders Declaration issued on September 9, 2012, if (and only if) the President, as soon as feasible after December 18, 2015, and before exercising proclamation authority under section 4202(a)(1)(B) of this title, notifies Congress of the negotiations relating to the agreement and the specific United States objectives in the negotiations.
 
@@ -1429,7 +1429,7 @@ Notwithstanding the notification requirement described in section 4202(a)(2) of 
 
 Notwithstanding the notification requirement described in section 4202(a)(2) of this title, the President may exercise the proclamation authority provided for in section 4202(a)(1)(B) of this title to implement an agreement by members of the Asia-Pacific Economic Cooperation (APEC) to reduce any rate of duty on certain environmental goods included in Annex C of the APEC Leaders Declaration issued on September 9, 2012, if (and only if) the President, as soon as feasible after February 24, 2016, and before exercising proclamation authority under section 4202(a)(1)(B) of this title, notifies Congress of the negotiations relating to the agreement and the specific United States objectives in the negotiations.
 
-(Pub. L. 114–26, title I, § 107, June 29, 2015, 129 Stat. 355; Pub. L. 114–113, div. Q, title V, § 502, Dec. 18, 2015, 129 Stat. 3127; Pub. L. 114–125, title IX, § 916, Feb. 24, 2016, 130 Stat. 279.)
+(Pub. L. 114–26, title I, § 107, June 29, 2015, 129 Stat. 355; Pub. L. 114–113, div. Q, title V, § 502, Dec. 18, 2015, 129 Stat. 3127; Pub. L. 114–125, title IX, § 916, Feb. 24, 2016, 130 Stat. 279.)
 
 **Editorial Notes**
 
@@ -1445,7 +1445,7 @@ Notwithstanding the notification requirement described in section 4202(a)(2) of 
 
 For delegation of functions of President under this section, see Ex. Ord. No. 13701, July 17, 2015, 80 F.R. 43903, set out as a note under section 4201 of this title.
 
-## § 4207. Sovereignty
+## § 4207. Sovereignty
 
 **(a) United States law to prevail in event of conflict**
 
@@ -1459,9 +1459,9 @@ No provision of any trade agreement entered into under section 4202(b) of this t
 
 Reports, including findings and recommendations, issued by dispute settlement panels convened pursuant to any trade agreement entered into under section 4202(b) of this title shall have no binding effect on the law of the United States, the Government of the United States, or the law or government of any State or locality of the United States.
 
-(Pub. L. 114–26, title I, § 108, June 29, 2015, 129 Stat. 356.)
+(Pub. L. 114–26, title I, § 108, June 29, 2015, 129 Stat. 356.)
 
-## § 4208. Interests of small businesses
+## § 4208. Interests of small businesses
 
 **(a) Sense of Congress** It is the sense of Congress that—
 
@@ -1473,9 +1473,9 @@ Reports, including findings and recommendations, issued by dispute settlement pa
 
 The Assistant United States Trade Representative for Small Business, Market Access, and Industrial Competitiveness shall be responsible for ensuring that the interests of small businesses are considered in all trade negotiations in accordance with the objective described in section 4201(a)(8) of this title.
 
-(Pub. L. 114–26, title I, § 109, June 29, 2015, 129 Stat. 356.)
+(Pub. L. 114–26, title I, § 109, June 29, 2015, 129 Stat. 356.)
 
-## § 4209. Application of certain provisions
+## § 4209. Application of certain provisions
 
 For purposes of applying sections 2135, 2136, and 2137 of this title—
 
@@ -1483,9 +1483,9 @@ For purposes of applying sections 2135, 2136, and 2137 of this title—
 
 **(2)** any proclamation or Executive order issued pursuant to a trade agreement entered into under section 4202 of this title shall be treated as a proclamation or Executive order issued pursuant to a trade agreement entered into under section 2112 of this title.
 
-(Pub. L. 114–26, title I, § 110(b), June 29, 2015, 129 Stat. 358.)
+(Pub. L. 114–26, title I, § 110(b), June 29, 2015, 129 Stat. 358.)
 
-## § 4210. Definitions
+## § 4210. Definitions
 
 In this chapter:
 
@@ -1617,7 +1617,7 @@ The term “WTO Agreement” means the Agreement Establishing the World Trade Or
 
 The term “WTO member” has the meaning given that term in section 3501(10) of this title.
 
-(Pub. L. 114–26, title I, § 111, June 29, 2015, 129 Stat. 358.)
+(Pub. L. 114–26, title I, § 111, June 29, 2015, 129 Stat. 358.)
 
 **Editorial Notes**
 

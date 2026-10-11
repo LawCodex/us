@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 407—CORPORATION FOR THE PROMOTION OF RIFLE PRACTICE AND FIREARMS SAFETY"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 407—CORPORATION FOR THE PROMOTION OF RIFLE PRACTICE AND FIREARMS SAFETY"
 identifier: "/us/usc/t36/stII/ptB/ch407"
 type: code
 jurisdiction: us
@@ -11,17 +11,17 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 407—CORPORATION FOR THE PROMOTION OF RIFLE PRACTICE AND FIREARMS SAFETY
 
-2016—Pub. L. 114–328, div. A, title X, § 1096(c), Dec. 23, 2016, 130 Stat. 2441, added item 40728B.
+2016—Pub. L. 114–328, div. A, title X, § 1096(c), Dec. 23, 2016, 130 Stat. 2441, added item 40728B.
 
-2006—Pub. L. 109–364, div. A, title III, § 354(b), Oct. 17, 2006, 120 Stat. 2162, added item 40728A.
+2006—Pub. L. 109–364, div. A, title III, § 354(b), Oct. 17, 2006, 120 Stat. 2162, added item 40728A.
 
 ## SUBCHAPTER I—CORPORATION
 
-### § 40701. Organization
+### § 40701. Organization
 
 **(a) Federal Charter.—** Corporation for the Promotion of Rifle Practice and Firearms Safety (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -33,7 +33,7 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40701(a) | 36:5501(a) (less “private, nonprofit”). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1611(a) (less “nonprofit”), (b)(1), 110 Stat. 515, 516. |
+| 40701(a) | 36:5501(a) (less “private, nonprofit”). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1611(a) (less “nonprofit”), (b)(1), 110 Stat. 515, 516. |
 | 40701(b) | 36:5501(a) (related to private), (b)(1). |  |
 
 Subsection (a) is substituted for the source provision for consistency in the revised title.
@@ -44,13 +44,13 @@ In subsection (b), the words “is not” are substituted for “shall not be co
 
 **Continuation of Eligibility for Certain Civil Service Benefits for Former Federal Employees of Civilian Marksmanship Program**
 
-Pub. L. 104–106, div. A, title XVI, § 1622, Feb. 10, 1996, 110 Stat. 521 [former 36 U.S.C. 5522], provided that:
+Pub. L. 104–106, div. A, title XVI, § 1622, Feb. 10, 1996, 110 Stat. 521 [former 36 U.S.C. 5522], provided that:
 
 > **“(a) Continuation of Eligibility.—** Notwithstanding any other provision of law, a Federal employee who is employed by the Department of Defense to support the Civilian Marksmanship Program as of the day before the date of the transfer of the Program to the Corporation and is offered employment by the Corporation as part of the transition described in section 1612(d) [former 36 U.S.C. 5502(d)] may, if the employee becomes employed by the Corporation, continue to be eligible during continuous employment with the Corporation for the Federal health, retirement, and similar benefits (including life insurance) for which the employee would have been eligible had the employee continued to be employed by the Department of Defense. The employer’s contribution for such benefits shall be paid by the Corporation.
 
 > **“(b) Regulations.—** The Director of the Office of Personnel Management shall prescribe regulations to carry out subsection (a).”
 
-### § 40702. Governing body
+### § 40702. Governing body
 
 **(a) Board of Directors.—**
 
@@ -78,7 +78,7 @@ Pub. L. 104–106, div. A, title XVI, § 1622, Feb. 10, 1996, 110 Stat. 521 [f
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40702(a)(1) | 36:5501(c)(2). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1611(c)(1)–(4), (d), 110 Stat. 516. |
+| 40702(a)(1) | 36:5501(c)(2). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1611(c)(1)–(4), (d), 110 Stat. 516. |
 | 40702(a)(2) | 36:5501(c)(1). |  |
 | 40702(a)(3) | 36:5501(c)(3). |  |
 | 40702(a)(4) | 36:5501(c)(4). |  |
@@ -97,9 +97,9 @@ In subsection (b)(2), before clause (A), the words “is responsible for” are 
 
 **Initial Board of Directors**
 
-Pub. L. 104–106, div. A, title XVI, § 1611(c)(5), Feb. 10, 1996, 110 Stat. 516 [former 36 U.S.C. 5501(c)(5)], provided that: “The Secretary of the Army shall appoint the initial Board of Directors. Four of the members of the initial Board of Directors, to be designated by the Secretary at the time of appointment, shall (notwithstanding paragraph (3)) [now 36 U.S.C. 40702(a)(3)] serve for a term of one year.”
+Pub. L. 104–106, div. A, title XVI, § 1611(c)(5), Feb. 10, 1996, 110 Stat. 516 [former 36 U.S.C. 5501(c)(5)], provided that: “The Secretary of the Army shall appoint the initial Board of Directors. Four of the members of the initial Board of Directors, to be designated by the Secretary at the time of appointment, shall (notwithstanding paragraph (3)) [now 36 U.S.C. 40702(a)(3)] serve for a term of one year.”
 
-### § 40703. Powers
+### § 40703. Powers
 
 The corporation may—
 
@@ -121,7 +121,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40703(1) | 36:5508(b). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1618(a)(1), (2), (b)–(e), 110 Stat. 520. |
+| 40703(1) | 36:5508(b). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1618(a)(1), (2), (b)–(e), 110 Stat. 520. |
 | 40703(2) | 36:5508(c) (less “leases”). |  |
 | 40703(3) | 36:5508(a)(1), (c) (related to leases). |  |
 | 40703(4) | 36:5508(d). |  |
@@ -130,7 +130,7 @@ The corporation may—
 
 In clause (2), the words “make contracts” are substituted for “enter into contracts” for consistency in the revised title. The words “agreements, or other transactions” are omitted as included in “contracts”.
 
-Clause (3) is substituted for “The Corporation may solicit, accept, hold, use, and dispose of donations of money, property, and services received by gift, devise, bequest, or otherwise” in 36:5508(a)(1) and “enter into . . . leases” in 36:5508(c) for consistency in the revised title.
+Clause (3) is substituted for “The Corporation may solicit, accept, hold, use, and dispose of donations of money, property, and services received by gift, devise, bequest, or otherwise” in 36:5508(a)(1) and “enter into . . . leases” in 36:5508(c) for consistency in the revised title.
 
 Clause (4) is substituted for “determine the character of, and necessity for, its obligations and expenditures and the manner in which they shall be incurred, allowed, and paid and may incur, allow, and pay such obligations and expenditures” to eliminate unnecessary words.
 
@@ -138,7 +138,7 @@ In clause (5), the words “charge fees to cover the corporation’s costs” ar
 
 Clause (6) is substituted for “take such other actions as are necessary or appropriate to carry out the authority provided in this section” for consistency in the revised title.
 
-### § 40704. Restrictions
+### § 40704. Restrictions
 
 **(a) Profit.—** The corporation may not operate for profit.
 
@@ -150,12 +150,12 @@ Clause (6) is substituted for “take such other actions as are necessary or app
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40704(a) | 36:5501(a) (re­lated to nonprofit). | Feb. 10, 1996, Pub. L. 104–106, title XVI, §§ 1611(a) (related to nonprofit), 1618(a)(3), 110 Stat. 515, 520. |
+| 40704(a) | 36:5501(a) (re­lated to nonprofit). | Feb. 10, 1996, Pub. L. 104–106, title XVI, §§ 1611(a) (related to nonprofit), 1618(a)(3), 110 Stat. 515, 520. |
 | 40704(b) | 36:5508(a)(3). |  |
 
 In subsection (b), the words “ammunition, repair parts, and other supplies” are substituted for “ammunition, targets, and other supplies and appliances” for consistency in the revised title.
 
-### § 40705. Duty to maintain tax-exempt status
+### § 40705. Duty to maintain tax-exempt status
 
 The corporation shall be operated in a manner and for purposes that qualify the corporation for exemption from taxation under section 501(a) of the Internal Revenue Code of 1986 (26 U.S.C. 501(a)) as an organization described in section 501(c)(3) of that Code (26 U.S.C. 501(c)(3)).
 
@@ -165,9 +165,9 @@ The corporation shall be operated in a manner and for purposes that qualify the 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40705 | 36:5501(b)(2). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1611(b)(2), 110 Stat. 516. |
+| 40705 | 36:5501(b)(2). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1611(b)(2), 110 Stat. 516. |
 
-### § 40706. Distribution of assets on dissolution
+### § 40706. Distribution of assets on dissolution
 
 **(a) Secretary of the Army.—** On dissolution of the corporation, title to the following items, and the right to possess the items, vest in the Secretary of the Army:
 
@@ -189,18 +189,18 @@ The corporation shall be operated in a manner and for purposes that qualify the 
 
 **(c) Treasury.—** On dissolution of the corporation, any asset not distributed under subsection (a) or (b) of this section shall be sold and the proceeds shall be deposited in the Treasury.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1336; Pub. L. 113–237, § 3(c)(3), Dec. 18, 2014, 128 Stat. 2840.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1336; Pub. L. 113–237, § 3(c)(3), Dec. 18, 2014, 128 Stat. 2840.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40706(a) | 36:5509(a)(1). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1619, 110 Stat. 520; Sept. 23, 1996, Pub. L. 104–201, title X, § 1073(c)(3), 110 Stat. 2657. |
+| 40706(a) | 36:5509(a)(1). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1619, 110 Stat. 520; Sept. 23, 1996, Pub. L. 104–201, title X, § 1073(c)(3), 110 Stat. 2657. |
 | 40706(b)(1) | 36:5509(a)(2). |  |
 | 40706(b)(2) | 36:5509(b). |  |
 | 40706(c) | 36:5509(a)(3). |  |
 
-In subsection (a), before clause (1), the words “title to the following items, and the right to possess the items, vest in the Secretary of the Army” are substituted for “title to [specified items] . . . shall vest in the Secretary of the Army, and the Secretary shall have the immediate right to the possession of such items” to eliminate unnecessary words. In clause (2), the words “M–16 rifles under control of the corporation” are substituted for “M–16 rifles that are transferred to the Corporation under section 1615(a)(2), that are referred to in section 1616(a)(3), or that are otherwise under the control of the Corporation” to eliminate unnecessary words.
+In subsection (a), before clause (1), the words “title to the following items, and the right to possess the items, vest in the Secretary of the Army” are substituted for “title to [specified items] . . . shall vest in the Secretary of the Army, and the Secretary shall have the immediate right to the possession of such items” to eliminate unnecessary words. In clause (2), the words “M–16 rifles under control of the corporation” are substituted for “M–16 rifles that are transferred to the Corporation under section 1615(a)(2), that are referred to in section 1616(a)(3), or that are otherwise under the control of the Corporation” to eliminate unnecessary words.
 
 In subsection (b), paragraph (2) is applied only to subsection (b) because the prohibition is not relevant to 36:5509(a)(1) or (3).
 
@@ -210,7 +210,7 @@ In subsection (b), paragraph (2) is applied only to subsection (b) because the p
 
 2014—Subsec. (a). Pub. L. 113–237 substituted colon for dash at end of introductory provisions, “Firearms” for “firearms” in par. (1) and “Trophies” for “trophies” in par. (3).
 
-### § 40707. Nonapplication of audit requirements
+### § 40707. Nonapplication of audit requirements
 
 The audit requirements of section 10101 of this title do not apply to the corporation.
 
@@ -226,7 +226,7 @@ The section is added to except the Corporation for the Promotion of Rifle Practi
 
 ## SUBCHAPTER II—CIVILIAN MARKSMANSHIP PROGRAM
 
-### § 40721. Responsibility of corporation
+### § 40721. Responsibility of corporation
 
 The corporation shall supervise and control the Civilian Marksmanship Program.
 
@@ -236,11 +236,11 @@ The corporation shall supervise and control the Civilian Marksmanship Program.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40721 | 36:5502(a) (words before cl. (1)). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1612(a) (words before cl. (1)), 110 Stat. 516. |
+| 40721 | 36:5502(a) (words before cl. (1)). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1612(a) (words before cl. (1)), 110 Stat. 516. |
 
 The words “shall supervise and control the Civilian Marksmanship Program” are substituted for “shall have responsibility for the overall supervision, oversight, and control of the Civilian Marksmanship Program, pursuant to the transfer of the program under subsection (d), including the performance of the following” to eliminate unnecessary words.
 
-### § 40722. Functions
+### § 40722. Functions
 
 The functions of the Civilian Marksmanship Program are—
 
@@ -262,7 +262,7 @@ The functions of the Civilian Marksmanship Program are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40722 | 36:5502(a) (less words before cl. (1)). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1612(a) (less words before cl. (1)), 110 Stat. 516. |
+| 40722 | 36:5502(a) (less words before cl. (1)). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1612(a) (less words before cl. (1)), 110 Stat. 516. |
 
 Before clause (1), the words “The functions of the Civilian Marksmanship Program are” are added because of the reorganization of the revised chapter.
 
@@ -274,7 +274,7 @@ In clause (5), the words “ammunition, repair parts, and other supplies” are 
 
 In clause (6), the words “supplies and services” are substituted for “supplies, appliances, clerical services, other related services, and labor” to eliminate unnecessary words.
 
-### § 40723. Eligibility for participation
+### § 40723. Eligibility for participation
 
 **(a) Certification.—**
 
@@ -308,7 +308,7 @@ In clause (6), the words “supplies and services” are substituted for “supp
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40723(a) | 36:5503(a). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1613, 110 Stat. 517. |
+| 40723(a) | 36:5503(a). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1613, 110 Stat. 517. |
 | 40723(b) | 36:5503(b). |  |
 | 40723(c) | 36:5503(c). |  |
 
@@ -320,7 +320,7 @@ In subsection (b), the words “may not participate” are substituted for “sh
 
 In subsection (c)(3), the words “the quality of instruction” are substituted for “quality instruction” for consistency in the subsection.
 
-### § 40724. Priority of youth participation
+### § 40724. Priority of youth participation
 
 In carrying out the Civilian Marksmanship Program, the corporation shall give priority to activities that benefit firearms safety, training, and competition for youth and that reach as many youth participants as possible.
 
@@ -330,9 +330,9 @@ In carrying out the Civilian Marksmanship Program, the corporation shall give pr
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40724 | 36:5502(b). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1612(b), 110 Stat. 516. |
+| 40724 | 36:5502(b). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1612(b), 110 Stat. 516. |
 
-### § 40725. National Matches and small-arms firing school
+### § 40725. National Matches and small-arms firing school
 
 **(a) Annual Competition.—** An annual competition called the “National Matches” and consisting of rifle and pistol matches for a national trophy, medals, and other prizes shall be held as prescribed by the Secretary of the Army.
 
@@ -352,7 +352,7 @@ In carrying out the Civilian Marksmanship Program, the corporation shall give pr
 
 In subsection (a), the provision for the National Matches to be held as prescribed by “the Secretary of the Army” is retained notwithstanding section 1612(d) of The National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106, 110 Stat. 517) which transferred the Civilian Marksmanship Program, including the National Matches, from the Secretary of the Army to the corporation. The conforming amendments in section 1624 of the Act (110 Stat. 522) did not repeal the authority of the Secretary of the Army to prescribe National Matches under 10:4312 or to prescribe subsistence and travel allowances for competitors under 10:4313.
 
-### § 40726. Allowances for junior competitors
+### § 40726. Allowances for junior competitors
 
 **(a) Definition.—** In this section, a “junior competitor” is a competitor at the National Matches, a small-arms firing school, a competition in connection with the National Matches, or a special clinic under section 40725 of this title who is—
 
@@ -377,7 +377,7 @@ In subsection (a), the provision for the National Matches to be held as prescrib
 
 In this section, the provisions for a junior competitor to be paid a subsistence allowance and a travel allowance prescribed by “the Secretary of the Army” are retained notwithstanding section 1612(d) of The National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106, 110 Stat. 517) which transferred the Civilian Marksmanship Program, including the National Matches, from the Secretary of the Army to the corporation. The conforming amendments in section 1624 of the Act (110 Stat. 522) did not repeal the authority of the Secretary of the Army to prescribe National Matches under 10:4312 or to prescribe subsistence and travel allowances for competitors under 10:4313.
 
-### § 40727. Army support
+### § 40727. Army support
 
 **(a) Logistical Support.—** The Secretary of the Army shall provide logistical support to the Civilian Marksmanship Program for competitions and other activities. The corporation shall reimburse the Secretary for incremental direct costs incurred in providing logistical support. The reimbursements shall be credited to the appropriations account of the Department of the Army that is charged to provide the logistical support.
 
@@ -395,7 +395,7 @@ In this section, the provisions for a junior competitor to be paid a subsistence
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40727(a) | 36:5507(a). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1617, 110 Stat. 519. |
+| 40727(a) | 36:5507(a). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1617, 110 Stat. 519. |
 | 40727(b)(1) | 36:5507(c). |  |
 | 40727(b)(2) | 36:5507(b). |  |
 | 40727(c) | 36:5507(d). |  |
@@ -406,7 +406,7 @@ In subsection (b)(1), the words “continue to” are omitted as unnecessary.
 
 In subsection (b)(2), the words “for the use of” and “performance of” are omitted as unnecessary.
 
-### § 40728. Transfer of firearms, ammunition, and parts
+### § 40728. Transfer of firearms, ammunition, and parts
 
 **(a) Required Transfers.—** In accordance with subsection (b) of this section, the Secretary of the Army shall transfer to the corporation all firearms and ammunition that, on February 9, 1996, were under the control of the director of civilian marksmanship (as that position existed under section 4307 of title 10 on February 9, 1996), including—
 
@@ -452,13 +452,13 @@ In subsection (b)(2), the words “for the use of” and “performance of” ar
 
 **(B)** shall be rendered inoperable prior to award and transfer to marksmanship competitors.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1339; Pub. L. 114–92, div. A, title X, § 1087(a)(1), Nov. 25, 2015, 129 Stat. 1012; Pub. L. 115–91, div. A, title III, § 349, Dec. 12, 2017, 131 Stat. 1366.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1339; Pub. L. 114–92, div. A, title X, § 1087(a)(1), Nov. 25, 2015, 129 Stat. 1012; Pub. L. 115–91, div. A, title III, § 349, Dec. 12, 2017, 131 Stat. 1366.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40728(a) | 36:5505(a). | Feb. 10, 1996, Pub. L. 104–106, title XVI, §§ 1615, 1616(b), (c), 110 Stat. 518, 519; Sept. 23, 1996, Pub. L. 104–201, title X, § 1073(c)(1), (2), 110 Stat. 2657. |
+| 40728(a) | 36:5505(a). | Feb. 10, 1996, Pub. L. 104–106, title XVI, §§ 1615, 1616(b), (c), 110 Stat. 518, 519; Sept. 23, 1996, Pub. L. 104–201, title X, § 1073(c)(1), (2), 110 Stat. 2657. |
 | 40728(b) | 36:5505(b). |  |
 | 40728(c) | 36:5505(d). |  |
 | 40728(d) | 36:5506(b). |  |
@@ -470,19 +470,19 @@ In subsection (a), the words “director of civilian marksmanship (as that posit
 
 In subsection (b), the words “firearms or ammunition” are substituted for “such items” for clarity. In clause (2), the words “to purchasers” are omitted as unnecessary.
 
-In subsection (c)(1), the words “eligible recipient” are substituted for “recipient eligible . . . to receive the item” to eliminate unnecessary words.
+In subsection (c)(1), the words “eligible recipient” are substituted for “recipient eligible . . . to receive the item” to eliminate unnecessary words.
 
 In subsection (c)(2), the word “purchaser” is substituted for “purchaser of the item” to eliminate unnecessary words.
 
 In subsection (d), the words “(as that program existed under section 4308(e) of title 10 before February 10, 1996)” are added for clarity. The words “issued, loaned, or sold by the corporation” are substituted for “issued, loaned, or sold by” for clarity.
 
-In subsection (e), the words “transfer . . . to” are substituted for “make available to” for consistency in the revised section and in consideration of the words “transfer of . . . parts to” in 36:5505(e).
+In subsection (e), the words “transfer . . . to” are substituted for “make available to” for consistency in the revised section and in consideration of the words “transfer of . . . parts to” in 36:5505(e).
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 4307 and 4308 of title 10, referred to in subsecs. (a) and (d), were repealed by Pub. L. 104–106, div. A, title XVI, § 1624(a)(1), Feb. 10, 1996, 110 Stat. 522.
+Sections 4307 and 4308 of title 10, referred to in subsecs. (a) and (d), were repealed by Pub. L. 104–106, div. A, title XVI, § 1624(a)(1), Feb. 10, 1996, 110 Stat. 522.
 
 The date of the enactment of this subsection, referred to in subsec. (h)(1), is the date of enactment of Pub. L. 114–92, which was approved Nov. 25, 2015.
 
@@ -498,9 +498,9 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Transfers of Surplus Firearms to Corporation for the Promotion of Rifle Practice and Firearms Safety: Pilot Program and Limitation**
 
-Pub. L. 114–92, div. A, title X, § 1087(b), (c), Nov. 25, 2015, 129 Stat. 1013, 1014, which related to a one-year pilot program under which the Secretary could transfer to the Corporation for the Promotion of Rifle Practice and Firearms Safety certain firearms, was repealed by Pub. L. 115–91, div. A, title X, § 1091(c), Dec. 12, 2017, 131 Stat. 1608.
+Pub. L. 114–92, div. A, title X, § 1087(b), (c), Nov. 25, 2015, 129 Stat. 1013, 1014, which related to a one-year pilot program under which the Secretary could transfer to the Corporation for the Promotion of Rifle Practice and Firearms Safety certain firearms, was repealed by Pub. L. 115–91, div. A, title X, § 1091(c), Dec. 12, 2017, 131 Stat. 1608.
 
-### § 40728A. Recovery of excess firearms, ammunition, and parts granted to foreign countries and transfer to corporation
+### § 40728A. Recovery of excess firearms, ammunition, and parts granted to foreign countries and transfer to corporation
 
 **(a) Authority to Recover.—** The Secretary of the Army may recover from any country to which surplus firearms, ammunition, repair parts, or other supplies described in section 40732(a) of this title are furnished on a grant basis under the conditions imposed by section 505 of the Foreign Assistance Act of 1961 (22 U.S.C. 2314) any such surplus firearms, ammunition, repair parts, or supplies that become excess to the needs of such country.
 
@@ -512,17 +512,17 @@ Pub. L. 114–92, div. A, title X, § 1087(b), (c), Nov. 25, 2015, 129 Stat. 1
 
 **(c) Availability for Transfer to Corporation.—** Any surplus firearms, ammunition, repair parts, or supplies recovered under subsection (a) shall be available for transfer to the corporation in accordance with section 40728 of this title under such additional terms and conditions as the Secretary shall prescribe for purposes of this section.
 
-(Added Pub. L. 109–364, div. A, title III, § 354(a), Oct. 17, 2006, 120 Stat. 2162; amended Pub. L. 114–92, div. A, title X, § 1087(a)(2)(A), Nov. 25, 2015, 129 Stat. 1013.)
+(Added Pub. L. 109–364, div. A, title III, § 354(a), Oct. 17, 2006, 120 Stat. 2162; amended Pub. L. 114–92, div. A, title X, § 1087(a)(2)(A), Nov. 25, 2015, 129 Stat. 1013.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Pub. L. 114–92, § 1087(a)(2)(A)(i), substituted “surplus firearms” for “rifles” wherever appearing.
+2015—Pub. L. 114–92, § 1087(a)(2)(A)(i), substituted “surplus firearms” for “rifles” wherever appearing.
 
-Subsec. (a). Pub. L. 114–92, § 1087(a)(2)(A)(ii), substituted “section 40732(a)” for “section 40731(a)”.
+Subsec. (a). Pub. L. 114–92, § 1087(a)(2)(A)(ii), substituted “section 40732(a)” for “section 40731(a)”.
 
-### § 40728B. Recovery of excess rifles, ammunition, and parts granted to foreign countries and transfer to certain persons
+### § 40728B. Recovery of excess rifles, ammunition, and parts granted to foreign countries and transfer to certain persons
 
 **(a) Authority to Recover.—**
 
@@ -546,9 +546,9 @@ Subsec. (a). Pub. L. 114–92, § 1087(a)(2)(A)(ii), substituted “section 40
 
 **(d) Market Value.—** The Secretary of the Army may only transfer an item under subsection (c) if the Secretary receives fair market value for the item.
 
-**(e) Contracts.—** Notwithstanding section 3201(e) of title 10, the Secretary may enter into such contracts or cooperative agreements on a sole source basis pursuant to paragraphs (4) and (5) of section 3204(a) 1
+**(e) Contracts.—** Notwithstanding section 3201(e) of title 10, the Secretary may enter into such contracts or cooperative agreements on a sole source basis pursuant to paragraphs (4) and (5) of section 3204(a) 1
 
-<sup>1</sup>  So in original. Probably means section 3204(a) of title 10.
+<sup>1</sup> So in original. Probably means section 3204(a) of title 10.
 
 to carry out this section.
 
@@ -556,13 +556,13 @@ to carry out this section.
 
 **(g) Rifle Defined.—** In this section, the term “rifle” has the meaning given such term in section 921 of title 18.
 
-(Added Pub. L. 114–328, div. A, title X, § 1096(a), Dec. 23, 2016, 130 Stat. 2440; amended Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(7), Dec. 27, 2021, 135 Stat. 2160.)
+(Added Pub. L. 114–328, div. A, title X, § 1096(a), Dec. 23, 2016, 130 Stat. 2440; amended Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(7), Dec. 27, 2021, 135 Stat. 2160.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Arms Export Control Act, referred to in subsec. (f), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in subsec. (f), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
 **Amendments**
 
@@ -572,7 +572,7 @@ The Arms Export Control Act, referred to in subsec. (f), is Pub. L. 90–629, Oc
 
 **Report on Acquisition and Transfer**
 
-Pub. L. 114–328, div. A, title X, § 1096(d), Dec. 23, 2016, 130 Stat. 2441, provided that:
+Pub. L. 114–328, div. A, title X, § 1096(d), Dec. 23, 2016, 130 Stat. 2441, provided that:
 
 > **“(1) Report required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of the Army shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives a report on the acquisition and transfer of excess rifles, ammunition, repair parts, and other supplies described in section 40731(a) of title 36, United States Code, that were provided to a country on a grant basis under the conditions imposed by section 505 of the Foreign Assistance Act of 1961 [22 U.S.C. 2314]. The report shall include each of the following:
 
@@ -584,7 +584,7 @@ Pub. L. 114–328, div. A, title X, § 1096(d), Dec. 23, 2016, 130 Stat. 2441,
 
 > **“(2) Prohibition on transfers pending submittal of report.—** No rifle, ammunition, repair part, or supplies acquired under section 40728B(a) of title 36, United States Code, may be transferred until the date that is 90 days after the date of the submittal of the report required under paragraph (1).”
 
-### § 40729. Reservation of firearms, ammunition, and parts
+### § 40729. Reservation of firearms, ammunition, and parts
 
 **(a) Reservation.—** The Secretary of the Army shall reserve for the corporation—
 
@@ -598,13 +598,13 @@ Pub. L. 114–328, div. A, title X, § 1096(d), Dec. 23, 2016, 130 Stat. 2441,
 
 **(b) Exception.—** This section does not supersede the authority provided in section 1208 of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 10 U.S.C. 372 note).
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1339; Pub. L. 114–92, div. A, title X, § 1087(a)(2)(B), Nov. 25, 2015, 129 Stat. 1013.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1339; Pub. L. 114–92, div. A, title X, § 1087(a)(2)(B), Nov. 25, 2015, 129 Stat. 1013.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40729(a) | 36:5506(a). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1616(a), (d), 110 Stat. 519. |
+| 40729(a) | 36:5506(a). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1616(a), (d), 110 Stat. 519. |
 | 40729(b) | 36:5506(d). |  |
 
 In subsection (a)(4), the words “other supplies” are substituted for “accessories and accouterments” for consistency in the revised title.
@@ -613,17 +613,17 @@ In subsection (a)(4), the words “other supplies” are substituted for “acce
 
 **References in Text**
 
-Section 1208 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (b), is section 1208 of Pub. L. 101–189, div. A, title XII, Nov. 29, 1989, 103 Stat. 1566, which was set out as a note under section 372 of Title 10, Armed Forces, and was repealed and restated in section 2576a of Title 10 by Pub. L. 104–201, div. A, title X, § 1033(a)(1), (b)(1), Sept. 23, 1996, 110 Stat. 2639, 2640. Section 372 of Title 10 was renumbered section 272 by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Section 1208 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (b), is section 1208 of Pub. L. 101–189, div. A, title XII, Nov. 29, 1989, 103 Stat. 1566, which was set out as a note under section 372 of Title 10, Armed Forces, and was repealed and restated in section 2576a of Title 10 by Pub. L. 104–201, div. A, title X, § 1033(a)(1), (b)(1), Sept. 23, 1996, 110 Stat. 2639, 2640. Section 372 of Title 10 was renumbered section 272 by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 **Amendments**
 
-2015—Subsec. (a)(1). Pub. L. 114–92, § 1087(a)(2)(B)(i), substituted “subsections (a) and (h) of section 40728” for “section 40728(a)”.
+2015—Subsec. (a)(1). Pub. L. 114–92, § 1087(a)(2)(B)(i), substituted “subsections (a) and (h) of section 40728” for “section 40728(a)”.
 
-Subsec. (a)(2). Pub. L. 114–92, § 1087(a)(2)(B)(ii), substituted “subsections (a) and (h) of section 40728” for “40728(a)”.
+Subsec. (a)(2). Pub. L. 114–92, § 1087(a)(2)(B)(ii), substituted “subsections (a) and (h) of section 40728” for “40728(a)”.
 
-Subsec. (a)(4). Pub. L. 114–92, § 1087(a)(2)(B)(iii), inserted “and caliber .45 M1911/M1911A1 surplus pistols” after “caliber .30 and caliber .22 rimfire rifles”.
+Subsec. (a)(4). Pub. L. 114–92, § 1087(a)(2)(B)(iii), inserted “and caliber .45 M1911/M1911A1 surplus pistols” after “caliber .30 and caliber .22 rimfire rifles”.
 
-### § 40730. Surplus property
+### § 40730. Surplus property
 
 The corporation may obtain surplus property from the Defense Reutilization Marketing Service to carry out the Civilian Marksmanship Program. A transfer of property to the corporation under this section shall be made without cost to the corporation.
 
@@ -633,11 +633,11 @@ The corporation may obtain surplus property from the Defense Reutilization Marke
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40730 | 36:5502(c). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1612(c), 110 Stat. 517. |
+| 40730 | 36:5502(c). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1612(c), 110 Stat. 517. |
 
 The word “supplies” is omitted as included in “property”.
 
-### § 40731. Issuance or loan of firearms and supplies
+### § 40731. Issuance or loan of firearms and supplies
 
 **(a) Issuance or Loan.—** For purposes of training and competition, the corporation may issue or loan, with or without charges to recover administrative costs, caliber .22 rimfire and caliber .30 surplus rifles, air rifles, caliber .22 and .30 ammunition, repair parts, and other supplies necessary for activities related to the Civilian Marksmanship Program to—
 
@@ -659,14 +659,14 @@ The word “supplies” is omitted as included in “property”.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40731(a) | 36:5504(a). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1614(a), (d), 110 Stat. 517, 518. |
+| 40731(a) | 36:5504(a). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1614(a), (d), 110 Stat. 517, 518. |
 | 40731(b) | 36:5504(d). |  |
 
 In subsection (a), the words “repair parts, and other supplies” are substituted for “targets, and other supplies and appliances” for consistency in the revised title.
 
 In subsection (b) the words “shall ensure” are substituted for “shall be responsible for ensuring” to eliminate unnecessary words.
 
-### § 40732. Sale of firearms and supplies
+### § 40732. Sale of firearms and supplies
 
 **(a) Affiliated Organizations.—** The corporation may sell, at fair market value, surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols, air rifles, caliber .22 and .30 ammunition, repair parts, and other supplies to organizations affiliated with the corporation that provide training in the use of firearms.
 
@@ -688,13 +688,13 @@ In subsection (b) the words “shall ensure” are substituted for “shall be r
 
 **(d) Sales by Other Persons.—** A person who receives a rifle or any ammunition, repair parts, or supplies under section 40728B(c) of this title may sell, at fair market value, such rifle, ammunition, repair parts, or supplies. With respect to rifles other than caliber .22 rimfire and caliber .30 rifles, the seller shall obtain a license as a dealer in rifles and abide by all requirements imposed on persons licensed under chapter 44 of title 18, including maintaining acquisition and disposition records, and conducting background checks.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1340; Pub. L. 114–92, div. A, title X, § 1087(a)(2)(C), Nov. 25, 2015, 129 Stat. 1013; Pub. L. 114–328, div. A, title X, § 1096(b), Dec. 23, 2016, 130 Stat. 2441.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1340; Pub. L. 114–92, div. A, title X, § 1087(a)(2)(C), Nov. 25, 2015, 129 Stat. 1013; Pub. L. 114–328, div. A, title X, § 1096(b), Dec. 23, 2016, 130 Stat. 2441.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40732(a) | 36:5504(b)(1). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1614(b), (c), (e)(1), 110 Stat. 518. |
+| 40732(a) | 36:5504(b)(1). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1614(b), (c), (e)(1), 110 Stat. 518. |
 | 40732(b)(1) | 36:5504(b)(2) (1st sentence). |  |
 | 40732(b)(2) (1st sentence) | 36:5504(e)(1). |  |
 | 40732(b)(2) (last sentence) | 36:5504(b)(2) (last sentence). |  |
@@ -714,27 +714,27 @@ In subsection (c)(2), the words “any item” are substituted for “rifles, am
 
 **Amendments**
 
-2016—Subsec. (c)(1). Pub. L. 114–328, § 1096(b)(2), substituted “No person acquiring a firearm under this chapter may” for “The corporation may not”.
+2016—Subsec. (c)(1). Pub. L. 114–328, § 1096(b)(2), substituted “No person acquiring a firearm under this chapter may” for “The corporation may not”.
 
-Subsec. (d). Pub. L. 114–328, § 1096(b)(1), added subsec. (d).
+Subsec. (d). Pub. L. 114–328, § 1096(b)(1), added subsec. (d).
 
-2015—Subsec. (a). Pub. L. 114–92, § 1087(a)(2)(C)(i), substituted “surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols” for “caliber .22 rimfire and caliber .30 surplus rifles”.
+2015—Subsec. (a). Pub. L. 114–92, § 1087(a)(2)(C)(i), substituted “surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols” for “caliber .22 rimfire and caliber .30 surplus rifles”.
 
 Subsec. (b)(1). Pub. L. 114–92 substituted “surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols” for “caliber .22 rimfire and caliber .30 surplus rifles” and “is legally of age” for “is over 18 years of age”.
 
-### § 40733. Applicability of other law
+### § 40733. Applicability of other law
 
 **(a) In General.—** Except as provided in subsection (b), section 922(a)(1)–(3) and (5) of title 18 does not apply to the shipment, transportation, receipt, transfer, sale, issuance, loan, or delivery by the corporation, of an item that the corporation is authorized to issue, loan, sell, or receive under this chapter.
 
 **(b) Exception.—** With respect to firearms other than caliber .22 rimfire and caliber .30 rifles, the corporation shall obtain a license as a dealer in firearms and abide by all requirements imposed on persons licensed under chapter 44 of title 18, including maintaining acquisition and disposition records, and conducting background checks.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1341; Pub. L. 114–92, div. A, title X, § 1087(a)(2)(D), Nov. 25, 2015, 129 Stat. 1013.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1341; Pub. L. 114–92, div. A, title X, § 1087(a)(2)(D), Nov. 25, 2015, 129 Stat. 1013.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 40733 | 36:5504(e)(2). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1614(e)(2), 110 Stat. 518. |
+| 40733 | 36:5504(e)(2). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1614(e)(2), 110 Stat. 518. |
 
 **Editorial Notes**
 

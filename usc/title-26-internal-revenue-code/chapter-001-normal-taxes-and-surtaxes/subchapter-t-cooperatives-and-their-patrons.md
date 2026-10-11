@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1966—Pub. L. 89–809, title II, § 211(b)(5), Nov. 13, 1966, 80 Stat. 1582, inserted “and per-unit retain allocations” in heading of part II.
+1966—Pub. L. 89–809, title II, § 211(b)(5), Nov. 13, 1966, 80 Stat. 1582, inserted “and per-unit retain allocations” in heading of part II.
 
-1962—Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1045, added headings of subchapter T and of parts I to III.
+1962—Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1045, added headings of subchapter T and of parts I to III.
 
 ## PART I—TAX TREATMENT OF COOPERATIVES
 
@@ -29,11 +29,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1966—Pub. L. 89–809, title II, § 211(a)(8), Nov. 13, 1966, 80 Stat. 1582, inserted “or nonqualified per-unit retain certificates” in item 1383.
+1966—Pub. L. 89–809, title II, § 211(a)(8), Nov. 13, 1966, 80 Stat. 1582, inserted “or nonqualified per-unit retain certificates” in item 1383.
 
-1962—Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1045, added heading of part I and items 1381 to 1383.
+1962—Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1045, added heading of part I and items 1381 to 1383.
 
-### § 1381. Organizations to which part applies
+### § 1381. Organizations to which part applies
 
 **(a) In general** This part shall apply to—
 
@@ -59,7 +59,7 @@ An organization described in subsection (a)(1) shall be subject to the tax impos
 
 For treatment of income from load loss transactions of organizations described in subsection (a)(2)(C), see section 501(c)(12)(H).
 
-(Added Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1045; amended Pub. L. 108–357, title III, § 319(d), Oct. 22, 2004, 118 Stat. 1472; Pub. L. 115–97, title I, § 13001(b)(2)(O), Dec. 22, 2017, 131 Stat. 2097.)
+(Added Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1045; amended Pub. L. 108–357, title III, § 319(d), Oct. 22, 2004, 118 Stat. 1472; Pub. L. 115–97, title I, § 13001(b)(2)(O), Dec. 22, 2017, 131 Stat. 2097.)
 
 **Editorial Notes**
 
@@ -81,7 +81,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years beginning after Oct. 
 
 **Effective Date**
 
-Pub. L. 87–834, § 17(c), Oct. 16, 1962, 76 Stat. 1051, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 87–834, § 17(c), Oct. 16, 1962, 76 Stat. 1051, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) For the cooperatives.—** Except as provided in paragraph (3), the amendments made by subsections (a) and (b) [enacting this subchapter, amending sections 521 and 6072 of this title, and repealing section 522 of this title] shall apply to taxable years of organizations described in section 1381(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by subsection (a)) beginning after December 31, 1962.
 
@@ -95,7 +95,7 @@ Pub. L. 87–834, § 17(c), Oct. 16, 1962, 76 Stat. 1051, as amended by Pub. L
 
 > the tax treatment of such money, written notice of allocation, or other property (including the tax treatment of gain or loss on the redemption, sale, or other disposition of such written notice of allocation) by any person shall be made under the Internal Revenue Code of 1986 without regard to subchapter T of chapter 1 of such Code [this subchapter].”
 
-### § 1382. Taxable income of cooperatives
+### § 1382. Taxable income of cooperatives
 
 **(a) Gross income**
 
@@ -157,7 +157,7 @@ If any portion of the earnings from business done with or for patrons is includi
 
 For purposes of this subsection, the term “completed crop pool method of accounting” means a method of accounting under which gain or loss is computed separately for each crop year pool in the year in which the last of the products in the pool are disposed of.
 
-(Added Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1046; amended Pub. L. 89–809, title II, § 211(a)(1)–(4), Nov. 13, 1966, 80 Stat. 1580, 1581; Pub. L. 91–172, title IX, § 911(a), Dec. 30, 1969, 83 Stat. 722; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–345, § 3, Aug. 15, 1978, 92 Stat. 483.)
+(Added Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1046; amended Pub. L. 89–809, title II, § 211(a)(1)–(4), Nov. 13, 1966, 80 Stat. 1580, 1581; Pub. L. 91–172, title IX, § 911(a), Dec. 30, 1969, 83 Stat. 722; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–345, § 3, Aug. 15, 1978, 92 Stat. 483.)
 
 **Editorial Notes**
 
@@ -169,23 +169,23 @@ For purposes of this subsection, the term “completed crop pool method of accou
 
 1969—Subsec. (b)(3). Pub. L. 91–172 expanded the category of per-unit retain allocations that may not be taken into account in determining the taxable income of an organization, by including per-unit retain allocations paid for in money or other property (except nonqualified per-unit retain certificates as defined in section 1388(i) of this section).
 
-1966—Subsec. (a). Pub. L. 89–809, § 211(a)(1), inserted reference to amounts paid to patrons as a per-unit retain allocation as defined in section 1388(f).
+1966—Subsec. (a). Pub. L. 89–809, § 211(a)(1), inserted reference to amounts paid to patrons as a per-unit retain allocation as defined in section 1388(f).
 
-Subsec. (b). Pub. L. 89–809, § 211(a)(2), inserted “and per-unit retain allocations” in heading, added pars. (3) and (4), and, in text following par. (4), inserted provisions making existing text applicable only to amounts described in pars. (1) and (2) and inserted text covering the treatment of amounts described in pars. (3) and (4).
+Subsec. (b). Pub. L. 89–809, § 211(a)(2), inserted “and per-unit retain allocations” in heading, added pars. (3) and (4), and, in text following par. (4), inserted provisions making existing text applicable only to amounts described in pars. (1) and (2) and inserted text covering the treatment of amounts described in pars. (3) and (4).
 
-Subsec. (e). Pub. L. 89–809, § 211(a)(3), inserted provision that the marketing of products shall be treated as occurring during any of the taxable years in which the pool is open.
+Subsec. (e). Pub. L. 89–809, § 211(a)(3), inserted provision that the marketing of products shall be treated as occurring during any of the taxable years in which the pool is open.
 
-Subsec. (f). Pub. L. 89–809, § 211(a)(4), substituted “paragraphs (1) and (2) of subsection (b)” for “subsection (b)”.
+Subsec. (f). Pub. L. 89–809, § 211(a)(4), substituted “paragraphs (1) and (2) of subsection (b)” for “subsection (b)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–172, title IX, § 911(c), Dec. 30, 1969, 83 Stat. 722, provided that: “The amendments made by this section [amending this section and section 1388 of this title] shall apply to per-unit retain allocations made after October 9, 1969.”
+Pub. L. 91–172, title IX, § 911(c), Dec. 30, 1969, 83 Stat. 722, provided that: “The amendments made by this section [amending this section and section 1388 of this title] shall apply to per-unit retain allocations made after October 9, 1969.”
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–809, title II, § 211(e), Nov. 13, 1966, 80 Stat. 1584, provided that:
+Pub. L. 89–809, title II, § 211(e), Nov. 13, 1966, 80 Stat. 1584, provided that:
 
 > **“(1)** The amendments made by subsections (a), (b), and (c) [amending this section and sections 1383, 1385, and 1388 of this title] shall apply to per-unit retain allocations made during taxable years of an organization described in section 1381(a) (relating to organizations to which part I of subchapter T of chapter 1 applies) beginning after April 30, 1966, with respect to products delivered during such years.
 
@@ -195,7 +195,7 @@ Pub. L. 89–809, title II, § 211(e), Nov. 13, 1966, 80 Stat. 1584, provided 
 
 Section applicable, except as otherwise provided, to taxable years of organizations described in section 1381(a) of this title beginning after Dec. 31, 1962, see section 17(c) of Pub. L. 87–834, set out as a note under section 1381 of this title.
 
-### § 1383. Computation of tax where cooperative redeems nonqualified written notices of allocation or nonqualified per-unit retain certificates
+### § 1383. Computation of tax where cooperative redeems nonqualified written notices of allocation or nonqualified per-unit retain certificates
 
 **(a) General rule** If, under section 1382(b)(2) or (4), or (c)(2)(B), a deduction is allowable to an organization for the taxable year for amounts paid in redemption of nonqualified written notices of allocation or nonqualified per-unit retain certificates, then the tax imposed by this chapter on such organization for the taxable year shall be the lesser of the following:
 
@@ -215,17 +215,17 @@ Section applicable, except as otherwise provided, to taxable years of organizati
 
 **(3)** If the tax imposed by this chapter for the taxable year is the amount determined under subsection (a)(2), then the deduction described in subsection (a) shall not be taken into account for any purpose of this subtitle other than for purposes of this section.
 
-(Added Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1047; amended Pub. L. 89–809, title II, § 211(a)(5)–(7), Nov. 13, 1966, 80 Stat. 1581.)
+(Added Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1047; amended Pub. L. 89–809, title II, § 211(a)(5)–(7), Nov. 13, 1966, 80 Stat. 1581.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1966—Pub. L. 89–809, § 211(a)(5), inserted “or nonqualified per-unit retain certificates” in section catchline.
+1966—Pub. L. 89–809, § 211(a)(5), inserted “or nonqualified per-unit retain certificates” in section catchline.
 
-Subsec. (a). Pub. L. 89–809, § 211(a)(6), substituted “section 1382(b)(2) or (4)” for “1382(b)(2)” and inserted references to per-unit retain certificates.
+Subsec. (a). Pub. L. 89–809, § 211(a)(6), substituted “section 1382(b)(2) or (4)” for “1382(b)(2)” and inserted references to per-unit retain certificates.
 
-Subsec. (b)(2). Pub. L. 89–809, § 211(a)(7), substituted “section 1382(b)(2) or (4)” for “section 1382(b)(2)” and inserted references to per-unit retain certificates.
+Subsec. (b)(2). Pub. L. 89–809, § 211(a)(7), substituted “section 1382(b)(2) or (4)” for “section 1382(b)(2)” and inserted references to per-unit retain certificates.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -243,9 +243,9 @@ Section applicable, except as otherwise provided, to taxable years of organizati
 
 **Amendments**
 
-1962—Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1048, added heading of part II and item 1385.
+1962—Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1048, added heading of part II and item 1385.
 
-### § 1385. Amounts includible in patron’s gross income
+### § 1385. Amounts includible in patron’s gross income
 
 **(a) General rule** Except as otherwise provided in subsection (b), each person shall include in gross income—
 
@@ -281,19 +281,19 @@ Section applicable, except as otherwise provided, to taxable years of organizati
 
 **(C)** gain on the redemption, sale, or other disposition of such written notice of allocation or per-unit retain certificate by any person shall, to the extent that the stated dollar amount of such written notice of allocation or per-unit retain certificate exceeds its basis, be considered as ordinary income.
 
-(Added Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1048; amended Pub. L. 89–809, title II, § 211(b)(1)–(4), Nov. 13, 1966, 80 Stat. 1582; Pub. L. 94–455, title XIX, §§ 1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834.)
+(Added Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1048; amended Pub. L. 89–809, title II, § 211(b)(1)–(4), Nov. 13, 1966, 80 Stat. 1582; Pub. L. 94–455, title XIX, §§ 1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c)(2)(C). Pub. L. 94–455, § 1901(b)(3)(I), substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset”.
+Subsec. (c)(2)(C). Pub. L. 94–455, § 1901(b)(3)(I), substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset”.
 
-1966—Subsec. (a)(3). Pub. L. 89–809, § 211(b)(1), added par. (3).
+1966—Subsec. (a)(3). Pub. L. 89–809, § 211(b)(1), added par. (3).
 
-Subsec. (c). Pub. L. 89–809, § 211(b)(2)–(4), inserted “and certain nonqualified per-unit retain certificates” in heading, inserted provisions to par. (1) for the application of the subsection to any nonqualified per-unit retain certificates which were paid as per-unit retain allocations, and inserted references to per-unit retain certificates in par. (2).
+Subsec. (c). Pub. L. 89–809, § 211(b)(2)–(4), inserted “and certain nonqualified per-unit retain certificates” in heading, inserted provisions to par. (1) for the application of the subsection to any nonqualified per-unit retain certificates which were paid as per-unit retain allocations, and inserted references to per-unit retain certificates in par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -315,9 +315,9 @@ Section applicable, except as otherwise provided, to taxable years of organizati
 
 **Amendments**
 
-1962—Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1049, added heading of part III and item 1388.
+1962—Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1049, added heading of part III and item 1388.
 
-### § 1388. Definitions; special rules
+### § 1388. Definitions; special rules
 
 **(a) Patronage dividend** For purposes of this subchapter, the term “patronage dividend” means an amount paid to a patron by an organization to which part I of this subchapter applies—
 
@@ -463,9 +463,9 @@ Any such failure shall not affect the treatment of the organization under any pr
 
 **(4) Patronage earnings or losses defined**
 
-For purposes of this subsection, the terms “patronage earnings” and “patronage losses” means 1
+For purposes of this subsection, the terms “patronage earnings” and “patronage losses” means 1
 
-<sup>1</sup>  So in original. Probably should be “mean”.
+<sup>1</sup> So in original. Probably should be “mean”.
 
 earnings and losses, respectively, which are derived from business done with or for patrons of the organization.
 
@@ -473,15 +473,15 @@ earnings and losses, respectively, which are derived from business done with or 
 
 For purposes of section 521 and this subchapter, the marketing of the products of members or other producers shall include the feeding of such products to cattle, hogs, fish, chickens, or other animals and the sale of the resulting animals or animal products.
 
-(Added Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1049; amended Pub. L. 89–809, title II, § 211(c), Nov. 13, 1966, 80 Stat. 1582; Pub. L. 91–172, title IX, § 911(b), Dec. 30, 1969, 83 Stat. 722; Pub. L. 94–455, title XIX, § 1901(a)(153), Oct. 4, 1976, 90 Stat. 1789; Pub. L. 95–600, title III, § 316(b)(3), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 99–272, title XIII, § 13210(a), Apr. 7, 1986, 100 Stat. 323; Pub. L. 101–508, title XI, § 11813(b)(24), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 108–357, title III, §§ 312(a), 316(a), Oct. 22, 2004, 118 Stat. 1467, 1469.)
+(Added Pub. L. 87–834, § 17(a), Oct. 16, 1962, 76 Stat. 1049; amended Pub. L. 89–809, title II, § 211(c), Nov. 13, 1966, 80 Stat. 1582; Pub. L. 91–172, title IX, § 911(b), Dec. 30, 1969, 83 Stat. 722; Pub. L. 94–455, title XIX, § 1901(a)(153), Oct. 4, 1976, 90 Stat. 1789; Pub. L. 95–600, title III, § 316(b)(3), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 99–272, title XIII, § 13210(a), Apr. 7, 1986, 100 Stat. 323; Pub. L. 101–508, title XI, § 11813(b)(24), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 108–357, title III, §§ 312(a), 316(a), Oct. 22, 2004, 118 Stat. 1467, 1469.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–357, § 312(a), inserted at end of concluding provisions “For purposes of paragraph (3), net earnings shall not be reduced by amounts paid during the year as dividends on capital stock or other proprietary capital interests of the organization to the extent that the articles of incorporation or bylaws of such organization or other contract with patrons provide that such dividends are in addition to amounts otherwise payable to patrons which are derived from business done with or for patrons during the taxable year.”
+2004—Subsec. (a). Pub. L. 108–357, § 312(a), inserted at end of concluding provisions “For purposes of paragraph (3), net earnings shall not be reduced by amounts paid during the year as dividends on capital stock or other proprietary capital interests of the organization to the extent that the articles of incorporation or bylaws of such organization or other contract with patrons provide that such dividends are in addition to amounts otherwise payable to patrons which are derived from business done with or for patrons during the taxable year.”
 
-Subsec. (k). Pub. L. 108–357, § 316(a), added subsec. (k).
+Subsec. (k). Pub. L. 108–357, § 316(a), added subsec. (k).
 
 1990—Subsec. (k). Pub. L. 101–508 struck out subsec. (k) which cross-referenced section 46(h) for provisions relating to apportionment of investment credit between cooperative organizations and their patrons.
 
@@ -489,21 +489,21 @@ Subsec. (k). Pub. L. 108–357, § 316(a), added subsec. (k).
 
 1978—Subsec. (j). Pub. L. 95–600 added subsec. (j).
 
-1976—Subsec. (c)(2)(B)(i). Pub. L. 94–455, § 1901 (a)(153)(A), substituted “October 16, 1962” for “the date of the enactment of the Revenue Act of 1962”.
+1976—Subsec. (c)(2)(B)(i). Pub. L. 94–455, § 1901 (a)(153)(A), substituted “October 16, 1962” for “the date of the enactment of the Revenue Act of 1962”.
 
-Subsec. (h)(2)(B)(i). Pub. L. 94–455, § 1901(a)(153)(B), substituted “November 13, 1966” for “the date of the enactment of this subsection”.
+Subsec. (h)(2)(B)(i). Pub. L. 94–455, § 1901(a)(153)(B), substituted “November 13, 1966” for “the date of the enactment of this subsection”.
 
 1969—Subsec. (f). Pub. L. 91–172 struck out reference to allocations made by organizations other than by payment of money or other property except per-unit retain certificates.
 
-1966—Subsec. (e). Pub. L. 89–809, § 211(c)(1), inserted references to per-unit retain certificates.
+1966—Subsec. (e). Pub. L. 89–809, § 211(c)(1), inserted references to per-unit retain certificates.
 
-Subsecs. (f) to (i). Pub. L. 89–809, § 211(c)(2), added subsecs. (f) to (i).
+Subsecs. (f) to (i). Pub. L. 89–809, § 211(c)(2), added subsecs. (f) to (i).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title III, § 312(b), Oct. 22, 2004, 118 Stat. 1467, provided that: “The amendment made by this section [amending this section] shall apply to distributions in taxable years beginning after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title III, § 312(b), Oct. 22, 2004, 118 Stat. 1467, provided that: “The amendment made by this section [amending this section] shall apply to distributions in taxable years beginning after the date of the enactment of this Act [Oct. 22, 2004].”
 
 Amendment by section 316(a) of Pub. L. 108–357 applicable to taxable years beginning after Oct. 22, 2004, see section 316(c) of Pub. L. 108–357, set out as a note under section 521 of this title.
 
@@ -513,7 +513,7 @@ Amendment by Pub. L. 101–508 applicable to property placed in service after De
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–272, title XIII, § 13210(c), Apr. 7, 1986, 100 Stat. 324, provided that:
+Pub. L. 99–272, title XIII, § 13210(c), Apr. 7, 1986, 100 Stat. 324, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section and section 521 of this title] shall apply to taxable years beginning after December 31, 1962.
 
@@ -543,4 +543,4 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 **Per-Unit Retain Certificates Covered by Written Agreements Between Oct. 14, 1965, and Nov. 13, 1966: Transition Treatment of By-Law Provisions**
 
-Pub. L. 89–809, title II, § 211(f), Nov. 13, 1966, 80 Stat. 1584, provided that a written agreement between a patron and a cooperative association which met certain qualifications and was entered into after Oct. 14, 1965 and before Nov. 13, 1966, and which was in effect on Nov. 13, 1966, was to be treated for purposes of subsec. (h) of this section as if entered into after Nov. 13, 1966.
+Pub. L. 89–809, title II, § 211(f), Nov. 13, 1966, 80 Stat. 1584, provided that a written agreement between a patron and a cooperative association which met certain qualifications and was entered into after Oct. 14, 1965 and before Nov. 13, 1966, and which was in effect on Nov. 13, 1966, was to be treated for purposes of subsec. (h) of this section as if entered into after Nov. 13, 1966.

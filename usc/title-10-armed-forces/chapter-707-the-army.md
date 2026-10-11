@@ -19,43 +19,43 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 307 of this title as this chapter and items 3061 to 3084 as 7061 to 7084, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 307 of this title as this chapter and items 3061 to 3084 as 7061 to 7084, respectively.
 
-2016—Pub. L. 114–328, div. A, title V, § 502(p)(3), (r)(3), Dec. 23, 2016, 130 Stat. 2104, substituted “Army Medical Specialist Corps: organization; Chief” for “Army Medical Specialist Corps: organization; Chief and assistant chiefs” in item 3070 and “Chief of Veterinary Corps” for “Chief of Veterinary Corps: grade” in item 3084.
+2016—Pub. L. 114–328, div. A, title V, § 502(p)(3), (r)(3), Dec. 23, 2016, 130 Stat. 2104, substituted “Army Medical Specialist Corps: organization; Chief” for “Army Medical Specialist Corps: organization; Chief and assistant chiefs” in item 3070 and “Chief of Veterinary Corps” for “Chief of Veterinary Corps: grade” in item 3084.
 
-2002—Pub. L. 107–314, div. A, title V, § 504(b)(2), Dec. 2, 2002, 116 Stat. 2531, added item 3084.
+2002—Pub. L. 107–314, div. A, title V, § 504(b)(2), Dec. 2, 2002, 116 Stat. 2531, added item 3084.
 
-1997—Pub. L. 105–85, div. A, title V, § 596(b), Nov. 18, 1997, 111 Stat. 1766, added item 3083.
+1997—Pub. L. 105–85, div. A, title V, § 596(b), Nov. 18, 1997, 111 Stat. 1766, added item 3083.
 
-1996—Pub. L. 104–201, div. A, title V, § 502(c)(1), Sept. 23, 1996, 110 Stat. 2511, substituted “Chief and assistant chief; appointment; grade” for “chief and assistant chief; appointment” in item 3069.
+1996—Pub. L. 104–201, div. A, title V, § 502(c)(1), Sept. 23, 1996, 110 Stat. 2511, substituted “Chief and assistant chief; appointment; grade” for “chief and assistant chief; appointment” in item 3069.
 
-1994—Pub. L. 103–337, div. A, title X, § 1070(a)(16), title XVI, § 1672(b)(1), Oct. 5, 1994, 108 Stat. 2856, 3015, struck out items 3076 “Army Reserve: composition”, 3077 “Army National Guard of United States: composition”, 3078 “Army National Guard: when a component of Army”, 3079 “Army National Guard of United States: status when not in Federal service”, and 3080 “Army National Guard of the United States: authority of officers with respect to Federal status”, struck out “3082.” before “Army” in item 3082, and then struck out item 3082 “Army National Guard combat readiness reform: annual report”.
+1994—Pub. L. 103–337, div. A, title X, § 1070(a)(16), title XVI, § 1672(b)(1), Oct. 5, 1994, 108 Stat. 2856, 3015, struck out items 3076 “Army Reserve: composition”, 3077 “Army National Guard of United States: composition”, 3078 “Army National Guard: when a component of Army”, 3079 “Army National Guard of United States: status when not in Federal service”, and 3080 “Army National Guard of the United States: authority of officers with respect to Federal status”, struck out “3082.” before “Army” in item 3082, and then struck out item 3082 “Army National Guard combat readiness reform: annual report”.
 
-1993—Pub. L. 103–160, div. A, title V, § 521(b), Nov. 30, 1993, 107 Stat. 1655, added item 3082.
+1993—Pub. L. 103–160, div. A, title V, § 521(b), Nov. 30, 1993, 107 Stat. 1655, added item 3082.
 
-1980—Pub. L. 96–513, title V, § 502(3), Dec. 12, 1980, 94 Stat. 2909, struck out item 3066 “Generals and lieutenant generals”.
+1980—Pub. L. 96–513, title V, § 502(3), Dec. 12, 1980, 94 Stat. 2909, struck out item 3066 “Generals and lieutenant generals”.
 
-1978—Pub. L. 95–485, title VIII, §§ 805(b)(2), 820(b), Oct. 20, 1978, 92 Stat. 1622, 1627, struck out item 3071 “Women’s Army Corps: Director; Deputy Director; other positions” and added item 3081.
+1978—Pub. L. 95–485, title VIII, §§ 805(b)(2), 820(b), Oct. 20, 1978, 92 Stat. 1622, 1627, struck out item 3071 “Women’s Army Corps: Director; Deputy Director; other positions” and added item 3081.
 
 1968—Pub. L. 90–329, June 4, 1968, 82 Stat. 170, substituted “Army Medical Department” for “Army Medical Service” in item 3067.
 
-1967—Pub. L. 90–130, § 1(8)(D), Nov. 8, 1967, 81 Stat. 375, substituted “composition; chief and assistant chief” for “Chief” in item 3069.
+1967—Pub. L. 90–130, § 1(8)(D), Nov. 8, 1967, 81 Stat. 375, substituted “composition; chief and assistant chief” for “Chief” in item 3069.
 
-1960—Pub. L. 86–603, § 1(2)(B), July 7, 1960, 74 Stat. 357, added item 3080.
+1960—Pub. L. 86–603, § 1(2)(B), July 7, 1960, 74 Stat. 357, added item 3080.
 
-1957—Pub. L. 85–155, title I, § 101(3), Aug. 21, 1957, 71 Stat. 376, substituted “Army Medical Specialist Corps” for “Women’s Medical Specialist Corps” in item 3070.
+1957—Pub. L. 85–155, title I, § 101(3), Aug. 21, 1957, 71 Stat. 376, substituted “Army Medical Specialist Corps” for “Women’s Medical Specialist Corps” in item 3070.
 
-## § 7061. Regulations
+## § 7061. Regulations
 
 The President may prescribe regulations for the government of the Army.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 165, § 3061; renumbered § 7061, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 165, § 3061; renumbered § 7061, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3061 | 10:16. | July 15, 1870, ch. 294, § 20, 16 Stat. 319; Mar. 1, 1875, ch. 115, 18 Stat. 337. |
+| 3061 | 10:16. | July 15, 1870, ch. 294, § 20, 16 Stat. 319; Mar. 1, 1875, ch. 115, 18 Stat. 337. |
 
 The word “prescribe” is substituted for the words “make and publish”. 10:16 (last 35 words) is omitted as surplusage.
 
@@ -71,7 +71,7 @@ The word “prescribe” is substituted for the words “make and publish”. 10
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7062. Policy; composition; organized peace establishment
+## § 7062. Policy; composition; organized peace establishment
 
 **(a)** It is the intent of Congress to provide an Army that is capable, in conjunction with the other armed forces, of—
 
@@ -99,21 +99,21 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 166, § 3062; Pub. L. 109–163, div. A, title X, § 1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; renumbered § 7062, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 166, § 3062; Pub. L. 109–163, div. A, title X, § 1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; renumbered § 7062, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3062(a) 3062(b) 3062(c) 3062(d) | 10:20. 5:181–1(e). 10:1b. 10:20i. | July 10, 1950, ch. 454, § 2, § 101, 64 Stat. 321. July 26, 1947, ch. 343, § 205(e), 61 Stat. 501. |
-|  | 50:1021. | June 28, 1950, ch. 383, § 301, 64 Stat. 268; July 9, 1952, ch. 608, § 807(b), 66 Stat. 508. |
-|  |  | July 9, 1952, ch. 608, § 301, 66 Stat. 498. |
+| 3062(a) 3062(b) 3062(c) 3062(d) | 10:20. 5:181–1(e). 10:1b. 10:20i. | July 10, 1950, ch. 454, § 2, § 101, 64 Stat. 321. July 26, 1947, ch. 343, § 205(e), 61 Stat. 501. |
+|  | 50:1021. | June 28, 1950, ch. 383, § 301, 64 Stat. 268; July 9, 1952, ch. 608, § 807(b), 66 Stat. 508. |
+|  |  | July 9, 1952, ch. 608, § 301, 66 Stat. 498. |
 
 In subsection (a), 10:20 (1st 19 words) is omitted as surplusage. The word “Commonwealth” is inserted to reflect the present status of Puerto Rico. The words “any areas occupied by the United States” are substituted for the words “occupied areas wherever located”.
 
 In subsection (c), the words “consists of” are substituted for the word “includes”.
 
-In subsection (c)(1), the words “the Army National Guard while in the service of the United States” are substituted for the words “all persons serving in the Army under call \* \* \* under any provision of law, including members of the National Guard of the several States, Territories, and the District of Columbia when in the service of the United States pursuant to call as provided by law”. 10:1b (words between 1st and 3d semicolons) and 50:1021 (last sentence) are omitted, since the components listed include their members.
+In subsection (c)(1), the words “the Army National Guard while in the service of the United States” are substituted for the words “all persons serving in the Army under call \* \* \* under any provision of law, including members of the National Guard of the several States, Territories, and the District of Columbia when in the service of the United States pursuant to call as provided by law”. 10:1b (words between 1st and 3d semicolons) and 50:1021 (last sentence) are omitted, since the components listed include their members.
 
 In subsection (c)(2), the words “or inducted” are omitted as covered by the word “conscripted”.
 
@@ -133,7 +133,7 @@ In subsection (d), 10:20i (8th through 38th words) is omitted as surplusage. The
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7063. Basic branches
+## § 7063. Basic branches
 
 **(a)** The Secretary of the Army may assign members of the Army to its basic branches. The basic branches are—
 
@@ -167,13 +167,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** The Secretary may not assign to a basic branch any commissioned officer appointed in a special branch.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 166, § 3063; Pub. L. 115–91, div. A, title V, § 582(a), Dec. 12, 2017, 131 Stat. 1415; renumbered § 7063, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 166, § 3063; Pub. L. 115–91, div. A, title V, § 582(a), Dec. 12, 2017, 131 Stat. 1415; renumbered § 7063, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3063(a) | 10:1g(a) (less words of 1st sentence after semicolon, and less last sentence). | June 28, 1950, ch. 383, § 306(a), 64 Stat. 269. |
+| 3063(a) | 10:1g(a) (less words of 1st sentence after semicolon, and less last sentence). | June 28, 1950, ch. 383, § 306(a), 64 Stat. 269. |
 | 3063(b) | 10:1g(a) (last sentence). |  |
 | 3063(c) | 10:1g(a) (words of 1st sentence after semicolon). |  |
 
@@ -199,7 +199,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date and Condition on Execution of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title V, § 582(b), Dec. 12, 2017, 131 Stat. 1415, as amended by Pub. L. 116–283, div. A, title V, § 593, Jan. 1, 2021, 134 Stat. 3666, provided that:
+Pub. L. 115–91, div. A, title V, § 582(b), Dec. 12, 2017, 131 Stat. 1415, as amended by Pub. L. 116–283, div. A, title V, § 593, Jan. 1, 2021, 134 Stat. 3666, provided that:
 
 > **“(1) Effective date.—** The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2025, but only if the report required by paragraph (2) is not submitted before that date as required by such paragraph.
 
@@ -225,9 +225,9 @@ Pub. L. 115–91, div. A, title V, § 582(b), Dec. 12, 2017, 131 Stat. 1415, a
 
 **Philippine Scouts**
 
-Act Aug. 10, 1956, ch. 1041, § 42, 70A Stat. 636, provided that: “The President is authorized to form the Philippine Scouts into such branches and tactical units as he may deem expedient, within the limit of strength prescribed by law, organized similarly to those of the Regular Army.”
+Act Aug. 10, 1956, ch. 1041, § 42, 70A Stat. 636, provided that: “The President is authorized to form the Philippine Scouts into such branches and tactical units as he may deem expedient, within the limit of strength prescribed by law, organized similarly to those of the Regular Army.”
 
-## § 7064. Special branches
+## § 7064. Special branches
 
 **(a)** The special branches of the Army consist of commissioned officers of the Regular Army appointed therein, other members of the Army assigned thereto by the Secretary of the Army, and the sections prescribed in this chapter. The special branches are—
 
@@ -243,18 +243,18 @@ Act Aug. 10, 1956, ch. 1041, § 42, 70A Stat. 636, provided that: “The Presi
 
 **(c)** Commissioned officers of the Regular Army may be appointed in a special branch, but the Secretary may not assign any officer of the Regular Army to a special branch.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 167, § 3064; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; Pub. L. 96–513, title II, § 231, Dec. 12, 1980, 94 Stat. 2886; Pub. L. 97–22, § 5(a), July 10, 1981, 95 Stat. 128; renumbered § 7064, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 167, § 3064; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; Pub. L. 96–513, title II, § 231, Dec. 12, 1980, 94 Stat. 2886; Pub. L. 97–22, § 5(a), July 10, 1981, 95 Stat. 128; renumbered § 7064, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3064(a) | 10:1g(b) (less words of 1st sentence after semicolon). | June 28, 1950, ch. 383, § 306(b), 64 Stat. 269. |
+| 3064(a) | 10:1g(b) (less words of 1st sentence after semicolon). | June 28, 1950, ch. 383, § 306(b), 64 Stat. 269. |
 | 3064(b) | 10:1g(b) (words of 1st sentence after semicolon). |  |
 
 In subsection (a), the words “The special branches of the Army” are substituted for the words “There shall be in the Army certain branches, which shall be known as special branches, and which shall”. The words “authorized by sections 61–1, 81–1, and 231a of this title” are omitted as surplusage. The words “and the sections prescribed in this chapter” are inserted, since some of the corps of the Army Medical Service consist of members and sections. Clauses (1), (2), and (3) are substituted for 10:1g(b) (last sentence).
 
-In subsection (b), the words “who has been appointed and commissioned in some other special branch, or \* \* \* without specification of branch” are omitted as surplusage.
+In subsection (b), the words “who has been appointed and commissioned in some other special branch, or \* \* \* without specification of branch” are omitted as surplusage.
 
 **Editorial Notes**
 
@@ -262,13 +262,13 @@ In subsection (b), the words “who has been appointed and commissioned in some 
 
 2018—Pub. L. 115–232 renumbered section 3064 of this title as this section.
 
-1981—Subsec. (b). Pub. L. 97–22, § 5(a)(1), substituted “may assign commissioned officers (other than officers of the Regular Army) and members to such branches” for “may appoint commissioned officers in, and may assign members to, such branches”.
+1981—Subsec. (b). Pub. L. 97–22, § 5(a)(1), substituted “may assign commissioned officers (other than officers of the Regular Army) and members to such branches” for “may appoint commissioned officers in, and may assign members to, such branches”.
 
-Subsec. (c). Pub. L. 97–22, § 5(a)(2), substituted “Commissioned officers of the Regular Army may be appointed in a special branch, but the Secretary” for “The Secretary”.
+Subsec. (c). Pub. L. 97–22, § 5(a)(2), substituted “Commissioned officers of the Regular Army may be appointed in a special branch, but the Secretary” for “The Secretary”.
 
-1980—Subsec. (a)(4). Pub. L. 96–513, § 231(1), added cl. (4).
+1980—Subsec. (a)(4). Pub. L. 96–513, § 231(1), added cl. (4).
 
-Subsecs. (b), (c). Pub. L. 96–513, § 231(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 96–513, § 231(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 1968—Subsec. (a)(1). Pub. L. 90–329 substituted “Army Medical Department” for “Army Medical Service”.
 
@@ -282,7 +282,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 7065. Assignment and detail: officers assigned or detailed to basic and special branches
+## § 7065. Assignment and detail: officers assigned or detailed to basic and special branches
 
 **(a)** Commissioned officers of the Army may be detailed as general staff officers and as inspectors general.
 
@@ -294,16 +294,16 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 **(e)** No officer of the Army may be assigned to perform technical, scientific, or other professional duties unless he is qualified to perform those duties and meets professional qualifications at least as strict as those in effect on June 28, 1950. If the duties to which an officer is assigned involve professional work that is the same as or is similar to that usually performed in civil life by a member of a learned profession, such as engineering, law, medicine, or theology, the officer must have the qualifications, by education, training, or experience, equal to or similar to those usually required of members of that profession, unless the exigencies of the situation prevent.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 167, § 3065; renumbered § 7065, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 167, § 3065; renumbered § 7065, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3065(a) 3065(b)   3065(c) | 10:1g(c) (1st 27 words). 10:1g(c) (less 1st 27 words). 10:1g(d). | June 28, 1950, ch. 383, § 306 (less (a) and (b)), § 404(e), 64 Stat. 269, 274. |
+| 3065(a) 3065(b) 3065(c) | 10:1g(c) (1st 27 words). 10:1g(c) (less 1st 27 words). 10:1g(d). | June 28, 1950, ch. 383, § 306 (less (a) and (b)), § 404(e), 64 Stat. 269, 274. |
 | 3065(d) | 10:1g(e). |  |
 | 3065(e) | 10:1g(f). |  |
-|  | [Uncodified: June 28, 1950, ch. 383, § 404(e), 64 Stat. 274]. |  |
+|  | [Uncodified: June 28, 1950, ch. 383, § 404(e), 64 Stat. 274]. |  |
 
 In subsections (a) and (c)–(e), the words “Under such regulations as the Secretary of the Army may prescribe” and “under [Under] regulations prescribed by the Secretary of the Army” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
 
@@ -311,7 +311,7 @@ In subsection (b), the word “specified” is substituted for the words “desi
 
 In subsection (d), the words “basic or special branch” are substituted for the words “branches of the Army provided for in this section”. The word “considers” is substituted for the words “may deem to be”.
 
-In subsection (e), the words “No officer \* \* \* may be \* \* \* unless he is” are substituted for the words “officers of the Army \* \* \* shall \* \* \* possess”. The last 16 words of the first sentence are substituted for the Act of June 28, 1950, ch. 383, Title IV, § 404(e), 64 Stat. 274. The last sentence is substituted for 10:1g(f) (1st 9 words).
+In subsection (e), the words “No officer \* \* \* may be \* \* \* unless he is” are substituted for the words “officers of the Army \* \* \* shall \* \* \* possess”. The last 16 words of the first sentence are substituted for the Act of June 28, 1950, ch. 383, Title IV, § 404(e), 64 Stat. 274. The last sentence is substituted for 10:1g(f) (1st 9 words).
 
 **Editorial Notes**
 
@@ -325,7 +325,7 @@ In subsection (e), the words “No officer \* \* \* may be \* \* \* unle
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7067. Army Medical Department
+## § 7067. Army Medical Department
 
 There is an Army Medical Department in the Army. The Army Medical Department consists of—
 
@@ -345,7 +345,7 @@ There is an Army Medical Department in the Army. The Army Medical Department con
 
 **(8)** the Army Medical Specialist Corps.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 168, § 3067; Pub. L. 85–861, § 1(60), Sept. 2, 1958, 72 Stat. 1462; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; renumbered § 7067, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 168, § 3067; Pub. L. 85–861, § 1(60), Sept. 2, 1958, 72 Stat. 1462; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; renumbered § 7067, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
@@ -353,7 +353,7 @@ There is an Army Medical Department in the Army. The Army Medical Department con
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3067 | 10:81–1 (less last sentence). | June 28, 1950, ch. 383, § 307 (less last sentence), 64 Stat. 270. |
+| 3067 | 10:81–1 (less last sentence). | June 28, 1950, ch. 383, § 307 (less last sentence), 64 Stat. 270. |
 
 The words “authorized by sections 21f and 21h, respectively, of this title” are omitted as surplusage. 10:81–1 (2d sentence) is omitted as covered by section 3064 of this title.
 
@@ -361,7 +361,7 @@ The words “authorized by sections 21f and 21h, respectively, of this title” 
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3067(8) | 10 App.:81–1. | Aug. 9, 1955, ch. 654, § 3(a), 69 Stat. 579. |
+| 3067(8) | 10 App.:81–1. | Aug. 9, 1955, ch. 654, § 3(a), 69 Stat. 579. |
 
 **Editorial Notes**
 
@@ -381,13 +381,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Augmentation of Army Medical Department by Detailing Reserve Officers of Public Health Service**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 755(a), (b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–197, provided that:
+Pub. L. 106–398, § 1 [[div. A], title VII, § 755(a), (b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–197, provided that:
 
 > **“(a) Authority.—** The Secretary of the Army and the Secretary of Health and Human Services may jointly conduct a program to augment the Army Medical Department by exercising any authorities provided to those officials in law for the detailing of reserve commissioned officers of the Public Health Service not in an active status to the Army Medical Department for that purpose.
 
 > **“(b) Agreement.—** The Secretary of the Army and the Secretary of Health and Human Services shall enter into an agreement governing any program conducted under subsection (a).”
 
-## § 7068. Medical Service Corps: organization; Chief and assistant chiefs
+## § 7068. Medical Service Corps: organization; Chief and assistant chiefs
 
 There is a Medical Service Corps in the Army. The Medical Service Corps consists of—
 
@@ -411,18 +411,18 @@ There is a Medical Service Corps in the Army. The Medical Service Corps consists
 
 **(E)** other sections considered necessary by the Secretary of the Army.
 
-(Added Pub. L. 89–603, § 1(1), Sept. 24, 1966, 80 Stat. 846, § 3068; amended Pub. L. 97–295, § 1(37), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 111–383, div. A, title V, § 594, Jan. 7, 2011, 124 Stat. 4234; renumbered § 7068, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Added Pub. L. 89–603, § 1(1), Sept. 24, 1966, 80 Stat. 846, § 3068; amended Pub. L. 97–295, § 1(37), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 111–383, div. A, title V, § 594, Jan. 7, 2011, 124 Stat. 4234; renumbered § 7068, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3068(a) | 10:81–1 (last sentence, less 5th through 14th words). 10:156a (less 2d sentence). | June 28, 1950, ch. 383, § 307 (last sentence, less 5th through 14th words), 64 Stat. 270. |
-| 3068(b) 3068(c) | 10:156b. 10:156d. | Aug. 4, 1947, ch. 459, §§ 101 (less 2d sentence), 102(a), (b), 61 Stat. 734, 735; Mar. 23, 1954, ch. 103, 68 Stat. 30. |
+| 3068(a) | 10:81–1 (last sentence, less 5th through 14th words). 10:156a (less 2d sentence). | June 28, 1950, ch. 383, § 307 (last sentence, less 5th through 14th words), 64 Stat. 270. |
+| 3068(b) 3068(c) | 10:156b. 10:156d. | Aug. 4, 1947, ch. 459, §§ 101 (less 2d sentence), 102(a), (b), 61 Stat. 734, 735; Mar. 23, 1954, ch. 103, 68 Stat. 30. |
 
 In subsection (a), 10:156a (1st 20 words) is omitted as superseded by section 3067 of this title, which establishes the Medical Service Corps in the Army Medical Service. 10:156a (last 16 words of 1st sentence) is omitted as superseded by section 3012(e) of this title, which authorizes the Secretary of the Army to prescribe the duties of members of the Army. 10:81–1 (last sentence, less 5th through 14th words) is omitted as surplusage.
 
-In subsection (b), the words “of the Regular Army in that corps whose regular grade is above captain” are substituted for the words “commissioned in the Medical Service Corps, Regular Army, in the permanent grade of major or above”. The words “If he holds a lower regular grade” are substituted for the words “if commissioned in permanent grade below colonel”. The words “is entitled” are substituted for the words “shall \* \* \* have”. The words “ranks above” are substituted for the words “shall be superior in rank”.
+In subsection (b), the words “of the Regular Army in that corps whose regular grade is above captain” are substituted for the words “commissioned in the Medical Service Corps, Regular Army, in the permanent grade of major or above”. The words “If he holds a lower regular grade” are substituted for the words “if commissioned in permanent grade below colonel”. The words “is entitled” are substituted for the words “shall \* \* \* have”. The words “ranks above” are substituted for the words “shall be superior in rank”.
 
 In subsection (c), the words “is the Surgeon General’s consultant” are substituted for the words “who shall be consultants to him”.
 
@@ -432,11 +432,11 @@ In subsection (c), the words “is the Surgeon General’s consultant” are sub
 
 2018—Pub. L. 115–232 renumbered section 3068 of this title as this section.
 
-2011—Par. (5)(A). Pub. L. 111–383, § 594(1), substituted “Administrative Health Services” for “Pharmacy, Supply, and Administration”.
+2011—Par. (5)(A). Pub. L. 111–383, § 594(1), substituted “Administrative Health Services” for “Pharmacy, Supply, and Administration”.
 
-Par. (5)(C). Pub. L. 111–383, § 594(2), substituted “Preventive Medicine Sciences” for “Sanitary Engineering”.
+Par. (5)(C). Pub. L. 111–383, § 594(2), substituted “Preventive Medicine Sciences” for “Sanitary Engineering”.
 
-Par. (5)(D). Pub. L. 111–383, § 594(3), substituted “Clinical Health Sciences” for “Optometry”.
+Par. (5)(D). Pub. L. 111–383, § 594(3), substituted “Clinical Health Sciences” for “Optometry”.
 
 1982—Par. (5). Pub. L. 97–295 redesignated cls. (a), (b), (c), (d), and (e) as subpars. (A), (B), (C), (D), and (E), respectively.
 
@@ -446,7 +446,7 @@ Par. (5)(D). Pub. L. 111–383, § 594(3), substituted “Clinical Health Scie
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7069. Army Nurse Corps: composition; Chief and assistant chief; appointment; grade
+## § 7069. Army Nurse Corps: composition; Chief and assistant chief; appointment; grade
 
 **(a)** The Army Nurse Corps consists of the Chief and assistant chief of that corps and other officers in grades prescribed by the Secretary of the Army.
 
@@ -454,13 +454,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** The Surgeon General shall appoint the assistant chief from the officers of the Regular Army in that corps whose regular grade is above lieutenant colonel. The assistant chief serves during the pleasure of the Surgeon General, but not for more than four years and may not be reappointed to the same position.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 168, § 3069; Pub. L. 85–155, title I, § 101(1), Aug. 21, 1957, 71 Stat. 375; Pub. L. 87–649, § 6(b)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–609, § 1(1), Sept. 30, 1966, 80 Stat. 852; Pub. L. 90–130, § 1(8)(A), Nov. 8, 1967, 81 Stat. 374; Pub. L. 104–201, div. A, title V, § 502(a), Sept. 23, 1996, 110 Stat. 2511; Pub. L. 107–314, div. A, title V, § 504(a)(1), Dec. 2, 2002, 116 Stat. 2531; Pub. L. 114–328, div. A, title V, § 502(*o*), Dec. 23, 2016, 130 Stat. 2103; renumbered § 7069, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 168, § 3069; Pub. L. 85–155, title I, § 101(1), Aug. 21, 1957, 71 Stat. 375; Pub. L. 87–649, § 6(b)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–609, § 1(1), Sept. 30, 1966, 80 Stat. 852; Pub. L. 90–130, § 1(8)(A), Nov. 8, 1967, 81 Stat. 374; Pub. L. 104–201, div. A, title V, § 502(a), Sept. 23, 1996, 110 Stat. 2511; Pub. L. 107–314, div. A, title V, § 504(a)(1), Dec. 2, 2002, 116 Stat. 2531; Pub. L. 114–328, div. A, title V, § 502(*o*), Dec. 23, 2016, 130 Stat. 2103; renumbered § 7069, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3069 | 10:81–1 (5th through 8th words of last sentence). 10:166(a) (words of last sentence before proviso). 10:166(b). | June 28, 1950, ch. 383, § 307 (5th through 8th words of last sentence), 64 Stat. 270. Apr. 16, 1947, ch. 38 §§ 101(a) (words of last sentence before proviso), 101(b), 61 Stat. 41. |
+| 3069 | 10:81–1 (5th through 8th words of last sentence). 10:166(a) (words of last sentence before proviso). 10:166(b). | June 28, 1950, ch. 383, § 307 (5th through 8th words of last sentence), 64 Stat. 270. Apr. 16, 1947, ch. 38 §§ 101(a) (words of last sentence before proviso), 101(b), 61 Stat. 41. |
 
 The words “officers of the Regular Army in that corps” are substituted for the words “officers permanently commissioned in such Army Nurse Corps”. The words “but not for more than” are substituted for the words “for a term not to exceed”, in 10:166(a). The words “vacating her regular grade” are substituted for the words “vacation of her permanent grade”.
 
@@ -474,15 +474,15 @@ The words “officers of the Regular Army in that corps” are substituted for t
 
 2002—Subsec. (b). Pub. L. 107–314 substituted “major general” for “brigadier general”.
 
-1996—Pub. L. 104–201, § 502(a)(3), inserted “; grade” at end of section catchline.
+1996—Pub. L. 104–201, § 502(a)(3), inserted “; grade” at end of section catchline.
 
-Subsec. (b). Pub. L. 104–201, § 502(a)(1), substituted “lieutenant colonel” for “major” in first sentence, inserted “An appointee who holds a lower regular grade shall be appointed in the regular grade of brigadier general.” after first sentence, and inserted “to the same position” before period at end of last sentence.
+Subsec. (b). Pub. L. 104–201, § 502(a)(1), substituted “lieutenant colonel” for “major” in first sentence, inserted “An appointee who holds a lower regular grade shall be appointed in the regular grade of brigadier general.” after first sentence, and inserted “to the same position” before period at end of last sentence.
 
-Subsec. (c). Pub. L. 104–201, § 502(a)(2), substituted “lieutenant colonel” for “major”.
+Subsec. (c). Pub. L. 104–201, § 502(a)(2), substituted “lieutenant colonel” for “major”.
 
 1967—Pub. L. 90–130 divided existing provisions into subsecs. (a), (b), and (c), made minor changes in phraseology, inserted provision for the appointment and service of an assistant chief, struck out limitation restricting membership in the Corps to grades of second lieutenant through colonel, and struck out provision entitling the Chief to the temporary grade of colonel while serving as Chief.
 
-1966—Pub. L. 89–609 combined third and fourth sentences, substituting “, and” for period at end of third sentence and introductory word “She” to fourth sentence, and substituted “the regular grade held, the Chief” for “her regular grade, she” in fifth sentence.
+1966—Pub. L. 89–609 combined third and fourth sentences, substituting “, and” for period at end of third sentence and introductory word “She” to fourth sentence, and substituted “the regular grade held, the Chief” for “her regular grade, she” in fifth sentence.
 
 1962—Pub. L. 87–649 struck out provisions which authorized the pay and allowances of a colonel for Chief of the Army Nurse Corps.
 
@@ -500,11 +500,11 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 **Short Title**
 
-Pub. L. 85–155, title I, § 105, Aug. 21, 1957, 71 Stat. 381, provided that: “This title [amending this section and sections 3070, 3206, 3207, 3288, 3291, 3296 to 3299, 3304, 3305, 3888, 3915, 3916, 3927, and 3991 of this title] may be cited as the ‘Army Nurse and Medical Specialist Act of 1957’.”
+Pub. L. 85–155, title I, § 105, Aug. 21, 1957, 71 Stat. 381, provided that: “This title [amending this section and sections 3070, 3206, 3207, 3288, 3291, 3296 to 3299, 3304, 3305, 3888, 3915, 3916, 3927, and 3991 of this title] may be cited as the ‘Army Nurse and Medical Specialist Act of 1957’.”
 
 **Savings Provision**
 
-Pub. L. 85–155, title I, § 104, Aug. 21, 1957, 71 Stat. 380, provided that:
+Pub. L. 85–155, title I, § 104, Aug. 21, 1957, 71 Stat. 380, provided that:
 
 > **“(a)** This Act [amending this section and sections 3070, 3206, 3207, 3288, 3291, 3296 to 3299, 3304, 3305, 3888, 3915, 3916, 3927, 3991, 5140, 5444, 5449, 5702, 5707, 5708, 5753, 5762, 5773, 5775, 5776, 5782, 6377 to 6379, 6381, 6388, 6395, 6396, 8206, 8207, 8212, 8285 to 8288, 8297, 8298 to 8301, 8303, 8305, 8888, 8915, 8927 and 8991 of this title, and repealing sections 3881, 3882, 3887, 3912, 3928, 8291, 8304, 8881, 8882, 8887, 8912 and 8928 of this title] does not affect the appointment of an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, on the active list on the effective date of this Act [Aug. 21, 1957].
 
@@ -516,7 +516,7 @@ Pub. L. 85–155, title I, § 104, Aug. 21, 1957, 71 Stat. 380, provided that:
 
 > **“(e)** Notwithstanding any other provision of law, an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, who, on the effective date of this Act [Aug. 21, 1957], has been nominated by the President and confirmed by the Senate for appointment to any regular grade, may be appointed in that grade.”
 
-## § 7070. Army Medical Specialist Corps: organization; Chief
+## § 7070. Army Medical Specialist Corps: organization; Chief
 
 **(a)** The Army Medical Specialist Corps consists of the Chief of that corps, other officers in grades prescribed by the Secretary of the Army, and the following sections:
 
@@ -534,13 +534,13 @@ Pub. L. 85–155, title I, § 104, Aug. 21, 1957, 71 Stat. 380, provided that:
 
 **(c)** Chiropractors who are qualified under regulations prescribed by the Secretary of the Army may be appointed as commissioned officers in the Chiropractic Section of the Army Medical Specialist Corps.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 169, § 3070; Pub. L. 85–155, title I, § 101(2), Aug. 21, 1957, 71 Stat. 375; Pub. L. 87–649, § 6(b)(2), (3), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–609, § 1(2), (3), Sept. 30, 1966, 80 Stat. 852; Pub. L. 90–130, § 1(8)(B), Nov. 8, 1967, 81 Stat. 374; Pub. L. 102–190, div. A, title V, § 551(a), Dec. 5, 1991, 105 Stat. 1370; Pub. L. 102–484, div. A, title V, § 505(a), Oct. 23, 1992, 106 Stat. 2404; Pub. L. 114–328, div. A, title V, § 502(p)(1), (2), Dec. 23, 2016, 130 Stat. 2103; renumbered § 7070, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 169, § 3070; Pub. L. 85–155, title I, § 101(2), Aug. 21, 1957, 71 Stat. 375; Pub. L. 87–649, § 6(b)(2), (3), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–609, § 1(2), (3), Sept. 30, 1966, 80 Stat. 852; Pub. L. 90–130, § 1(8)(B), Nov. 8, 1967, 81 Stat. 374; Pub. L. 102–190, div. A, title V, § 551(a), Dec. 5, 1991, 105 Stat. 1370; Pub. L. 102–484, div. A, title V, § 505(a), Oct. 23, 1992, 106 Stat. 2404; Pub. L. 114–328, div. A, title V, § 502(p)(1), (2), Dec. 23, 2016, 130 Stat. 2103; renumbered § 7070, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3070(a) | 10:81–1 (9th through 14th words of last sentence). 10:166a(a) (less 2d sentence; and less last sentence, as applicable to strength). | June 28, 1950, ch. 383, § 307 (9th through 14th words of last sentence), 64 Stat. 270. Apr. 16, 1947, ch. 38, §§ 102(a) (less 2d sentence; and less last sentence, as applicable to strength), 102(b), 61 Stat. 42. |
+| 3070(a) | 10:81–1 (9th through 14th words of last sentence). 10:166a(a) (less 2d sentence; and less last sentence, as applicable to strength). | June 28, 1950, ch. 383, § 307 (9th through 14th words of last sentence), 64 Stat. 270. Apr. 16, 1947, ch. 38, §§ 102(a) (less 2d sentence; and less last sentence, as applicable to strength), 102(b), 61 Stat. 42. |
 | 3070(b) | 10:166a(b). |  |
 
 In subsection (a), 10:166a(a) (1st 20 words of 1st sentence) is omitted as superseded by section 3067 of this title, which establishes the Women’s Medical Specialist Corps in the Army Medical Service. 10:166a(a) (last 16 words of 1st sentence) is omitted as superseded by section 3012(e) of this title, which authorizes the Secretary of the Army to prescribe the duties of members of the Army.
@@ -553,21 +553,21 @@ In subsection (b), the words “officers of the Regular Army in that corps” ar
 
 2018—Pub. L. 115–232 renumbered section 3070 of this title as this section.
 
-2016—Pub. L. 114–328, § 502(p)(2), amended section catchline generally, substituting “Army Medical Specialist Corps: organization; Chief” for “Army Medical Specialist Corps: organization; Chief and assistant chiefs”.
+2016—Pub. L. 114–328, § 502(p)(2), amended section catchline generally, substituting “Army Medical Specialist Corps: organization; Chief” for “Army Medical Specialist Corps: organization; Chief and assistant chiefs”.
 
-Subsec. (a). Pub. L. 114–328, § 502(p)(1)(A), struck out “and assistant chiefs” after “consists of the Chief” in introductory provisions.
+Subsec. (a). Pub. L. 114–328, § 502(p)(1)(A), struck out “and assistant chiefs” after “consists of the Chief” in introductory provisions.
 
-Subsecs. (c), (d). Pub. L. 114–328, § 502(p)(1)(B), (C), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The Surgeon General shall appoint up to five assistant chiefs from officers of the Regular Army in that corps whose regular grade is above captain. Each assistant chief is the chief of a section of that corps. An assistant chief serves during the pleasure of the Surgeon General, but not for more than four years, and may not be reappointed to the same position.”
+Subsecs. (c), (d). Pub. L. 114–328, § 502(p)(1)(B), (C), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The Surgeon General shall appoint up to five assistant chiefs from officers of the Regular Army in that corps whose regular grade is above captain. Each assistant chief is the chief of a section of that corps. An assistant chief serves during the pleasure of the Surgeon General, but not for more than four years, and may not be reappointed to the same position.”
 
-1992—Subsec. (a)(5). Pub. L. 102–484, § 505(a)(1), added par. (5).
+1992—Subsec. (a)(5). Pub. L. 102–484, § 505(a)(1), added par. (5).
 
-Subsec. (c). Pub. L. 102–484, § 505(a)(2), substituted “up to five assistant chiefs” for “four assistant chiefs”.
+Subsec. (c). Pub. L. 102–484, § 505(a)(2), substituted “up to five assistant chiefs” for “four assistant chiefs”.
 
-Subsec. (d). Pub. L. 102–484, § 505(a)(3), added subsec. (d).
+Subsec. (d). Pub. L. 102–484, § 505(a)(3), added subsec. (d).
 
-1991—Subsec. (a). Pub. L. 102–190, § 551(a)(1), (2), substituted “sections:” for “sections—”, substituted “The” for “the” and a period for the concluding semicolon in par. (1), substituted “The” for “the” and a period for “; and” in par. (2), substituted “The” for “the” in par. (3), and added par. (4).
+1991—Subsec. (a). Pub. L. 102–190, § 551(a)(1), (2), substituted “sections:” for “sections—”, substituted “The” for “the” and a period for the concluding semicolon in par. (1), substituted “The” for “the” and a period for “; and” in par. (2), substituted “The” for “the” in par. (3), and added par. (4).
 
-Subsec. (c). Pub. L. 102–190, § 551(a)(3), substituted “four assistant chiefs” for “three assistant chiefs” in first sentence.
+Subsec. (c). Pub. L. 102–190, § 551(a)(3), substituted “four assistant chiefs” for “three assistant chiefs” in first sentence.
 
 1967—Subsec. (a). Pub. L. 90–130 removed limitation restricting membership in the Corps to officers in grades of second lieutenant through colonel and inserted provisions authorizing the Secretary of the Army to prescribe the grades of officers comprising the Corps.
 
@@ -575,13 +575,13 @@ Subsec. (b). Pub. L. 90–130 struck out provision entitling the Chief to the te
 
 Subsec. (c). Pub. L. 90–130 struck out provisions entitling each assistant chief to the temporary grade of lieutenant colonel while so serving, ranking above all other lieutenant colonels in the section.
 
-1966—Subsec. (b). Pub. L. 89–609, § 1(2), combined second and third sentences, substituting “, and” for period at end of second sentence and introductory word “She” to third sentence, and substituted “the regular grade held, the Chief” for “her regular grade, she” in fourth sentence.
+1966—Subsec. (b). Pub. L. 89–609, § 1(2), combined second and third sentences, substituting “, and” for period at end of second sentence and introductory word “She” to third sentence, and substituted “the regular grade held, the Chief” for “her regular grade, she” in fourth sentence.
 
-Subsec. (c). Pub. L. 89–609, § 1(3), combined second and third sentences, substituting “, and” for period at end of second sentence and introductory word “She” to third sentence, substituted “An assistant chief” for “She” in fourth sentence, and in fifth sentence substituted “the regular grade held” and “in the section” for “her regular grade” and “in her section”, respectively, and struck out “and the pay and allowances” before “of a lieutenant colonel”.
+Subsec. (c). Pub. L. 89–609, § 1(3), combined second and third sentences, substituting “, and” for period at end of second sentence and introductory word “She” to third sentence, substituted “An assistant chief” for “She” in fourth sentence, and in fifth sentence substituted “the regular grade held” and “in the section” for “her regular grade” and “in her section”, respectively, and struck out “and the pay and allowances” before “of a lieutenant colonel”.
 
-1962—Subsec. (b). Pub. L. 87–649, § 6(b)(2), struck out provisions which authorized the pay and allowances of a colonel for Chief of the Army Medical Specialist Corps.
+1962—Subsec. (b). Pub. L. 87–649, § 6(b)(2), struck out provisions which authorized the pay and allowances of a colonel for Chief of the Army Medical Specialist Corps.
 
-Subsec. (c). Pub. L. 87–649, § 6(b)(3), struck out provisions which authorized the pay and allowances of a lieutenant colonel for each assistant chief of the Army Medical Specialist Corps.
+Subsec. (c). Pub. L. 87–649, § 6(b)(3), struck out provisions which authorized the pay and allowances of a lieutenant colonel for each assistant chief of the Army Medical Specialist Corps.
 
 1957—Pub. L. 85–155 substituted “Army Medical Specialist Corps” for “Women’s Medical Specialist Corps” in section catchline.
 
@@ -603,13 +603,13 @@ Amendment by Pub. L. 87–649 effective on Nov. 1, 1962, see section 15 of Pub. 
 
 **Regulations**
 
-Pub. L. 102–484, div. A, title V, § 505(d), Oct. 23, 1992, 106 Stat. 2404, provided that: “The regulations required to be prescribed by the amendments made by this section [enacting section 5139 of this title and amending this section and section 8067 of this title] shall be prescribed not later than 180 days after the date of the enactment of this Act [Oct. 23, 1992].”
+Pub. L. 102–484, div. A, title V, § 505(d), Oct. 23, 1992, 106 Stat. 2404, provided that: “The regulations required to be prescribed by the amendments made by this section [enacting section 5139 of this title and amending this section and section 8067 of this title] shall be prescribed not later than 180 days after the date of the enactment of this Act [Oct. 23, 1992].”
 
 **Retirement of Officers Serving in Physician Assistant Section**
 
-Pub. L. 102–190, div. A, title V, § 551(c), Dec. 5, 1991, 105 Stat. 1370, provided that:
+Pub. L. 102–190, div. A, title V, § 551(c), Dec. 5, 1991, 105 Stat. 1370, provided that:
 
-> “A member of the Army who on the date of the enactment of this Act [Dec. 5, 1991] is a warrant officer serving on active duty (other than for training) as a physician assistant and who is subsequently appointed as a commissioned officer in, or is assigned to, the Physician Assistant Section of the Army Medical Specialist Corps may elect at the time of the officer’s retirement after 20 years or more of active service that could be credited to the officer under section 511 of the Career Compensation Act of 1949, as amended [act Oct. 12, 1949, ch. 681, title V, § 511, 63 Stat. 829, as amended, formerly set out as a note under section 580 of this title]—
+> “A member of the Army who on the date of the enactment of this Act [Dec. 5, 1991] is a warrant officer serving on active duty (other than for training) as a physician assistant and who is subsequently appointed as a commissioned officer in, or is assigned to, the Physician Assistant Section of the Army Medical Specialist Corps may elect at the time of the officer’s retirement after 20 years or more of active service that could be credited to the officer under section 511 of the Career Compensation Act of 1949, as amended [act Oct. 12, 1949, ch. 681, title V, § 511, 63 Stat. 829, as amended, formerly set out as a note under section 580 of this title]—
 
 > **“(1)** to revert to the highest warrant officer grade in which the officer served on active duty (other than for training) satisfactorily (as determined by the Secretary of the Army) for a period of more than 30 days; and
 
@@ -617,13 +617,13 @@ Pub. L. 102–190, div. A, title V, § 551(c), Dec. 5, 1991, 105 Stat. 1370, p
 
 **Constructive Credit for Determination of Grade and Rank of Officers in Army Medical Specialist Corps**
 
-Pub. L. 102–190, div. A, title V, § 551(d), Dec. 5, 1991, 105 Stat. 1371, provided that:
+Pub. L. 102–190, div. A, title V, § 551(d), Dec. 5, 1991, 105 Stat. 1371, provided that:
 
 > **“(1)** For the purpose of determining the grade and rank within grade of a person who is appointed as a commissioned officer in the Army Medical Specialist Corps for service in the Physician Assistant Section, or who is assigned to the Army Medical Specialist Corps for service as a physician assistant, and who on the date of the enactment of this Act [Dec. 5, 1991] is a warrant officer and a physician assistant on active duty or in an active reserve status, the Secretary of the Army shall credit that person at the time of such appointment with any service on active duty, or in an active reserve status, as a physician assistant performed as a member of the Armed Forces before that appointment.
 
 > **“(2)** The Secretary of Defense shall prescribe regulations to carry out this subsection.”
 
-## § 7072. Judge Advocate General’s Corps
+## § 7072. Judge Advocate General’s Corps
 
 There is a Judge Advocate General’s Corps in the Army. The Judge Advocate General’s Corps consists of—
 
@@ -635,13 +635,13 @@ There is a Judge Advocate General’s Corps in the Army. The Judge Advocate Gene
 
 **(4)** other members of the Army assigned thereto by the Secretary of the Army.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 169, § 3072; Pub. L. 114–328, div. A, title V, § 502(q), Dec. 23, 2016, 130 Stat. 2104; renumbered § 7072, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 169, § 3072; Pub. L. 114–328, div. A, title V, § 502(q), Dec. 23, 2016, 130 Stat. 2104; renumbered § 7072, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3072 | 10:61–1 (1st sentence, less applicability to strength). | June 28, 1950, ch. 383, § 308 (1st sentence, less applicability to strength), 64 Stat. 270. |
+| 3072 | 10:61–1 (1st sentence, less applicability to strength). | June 28, 1950, ch. 383, § 308 (1st sentence, less applicability to strength), 64 Stat. 270. |
 
 The words “authorized by sections 21f and 21h, respectively, of this title” are omitted as surplusage. The word “grade” is substituted for the word “rank”. The words “but the Secretary shall not assign to the Judge Advocate General’s Corps any officer who has been appointed and commissioned in some other special branch or in the Regular Army without specification of branch” are omitted as covered by section 3064 of this title.
 
@@ -659,7 +659,7 @@ The words “authorized by sections 21f and 21h, respectively, of this title” 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7073. Chaplains
+## § 7073. Chaplains
 
 **(a)** There are chaplains in the Army. The Chaplains include—
 
@@ -671,23 +671,23 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(b)** The Chief of Chaplains, while so serving, holds the grade of major general.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 170, § 3073; renumbered § 7073 and amended Pub. L. 115–232, div. A, title V, § 510(a), title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1751, 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 170, § 3073; renumbered § 7073 and amended Pub. L. 115–232, div. A, title V, § 510(a), title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1751, 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3073 | 10:231a. | June 28, 1950, ch. 383, § 309, 64 Stat. 270. |
+| 3073 | 10:231a. | June 28, 1950, ch. 383, § 309, 64 Stat. 270. |
 
-The words “authorized by section 21f of this title”, “as now or hereafter provided by law”, and “and commissioned \* \* \* or in any component thereof” are omitted as surplusage.
+The words “authorized by section 21f of this title”, “as now or hereafter provided by law”, and “and commissioned \* \* \* or in any component thereof” are omitted as surplusage.
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 808(a), renumbered section 3073 of this title as this section.
+2018—Pub. L. 115–232, § 808(a), renumbered section 3073 of this title as this section.
 
-Pub. L. 115–232, § 510(a), designated existing provisions as subsec. (a) and added subsec. (b).
+Pub. L. 115–232, § 510(a), designated existing provisions as subsec. (a) and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -695,7 +695,7 @@ Pub. L. 115–232, § 510(a), designated existing provisions as subsec. (a) an
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7074. Commands: territorial organization; engineer tactical units
+## § 7074. Commands: territorial organization; engineer tactical units
 
 **(a)** Except as otherwise prescribed by law or by the Secretary of Defense, the Army shall be divided into such commands, forces, and organizations as may be prescribed by the Secretary of the Army.
 
@@ -703,13 +703,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** Such part of the Corps of Engineers as the President directs shall be formed into tactical units organized as he prescribes.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 170, § 3074; Pub. L. 99–433, title V, § 503, Oct. 1, 1986, 100 Stat. 1042; Pub. L. 109–163, div. A, title X, § 1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; renumbered § 7074, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 170, § 3074; Pub. L. 99–433, title V, § 503, Oct. 1, 1986, 100 Stat. 1042; Pub. L. 109–163, div. A, title X, § 1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; renumbered § 7074, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3074(a) 3074(b) 3074(c) | 10:1d. 10:1e. 10:181 (less 1st 39 words). | June 28, 1950, ch. 383, §§ 303, 304, 64 Stat. 268. June 3, 1916, ch. 134, § 11 (less 1st 41 words); restated June 4, 1920, ch. 227, subch. I, § 11 (less 1st 41 words), 41 Stat. 768. |
+| 3074(a) 3074(b) 3074(c) | 10:1d. 10:1e. 10:181 (less 1st 39 words). | June 28, 1950, ch. 383, §§ 303, 304, 64 Stat. 268. June 3, 1916, ch. 134, § 11 (less 1st 41 words); restated June 4, 1920, ch. 227, subch. I, § 11 (less 1st 41 words), 41 Stat. 768. |
 
 In subsection (b), the words “have the duties and powers” are substituted for the words “shall perform such duties and exercise such powers”. The words “of America”, “other provisions”, and “so assigned” are omitted as surplusage. The word “Commonwealths” is inserted to reflect the present status of Puerto Rico.
 
@@ -729,7 +729,7 @@ In subsection (b), the words “have the duties and powers” are substituted fo
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7075. Regular Army: composition
+## § 7075. Regular Army: composition
 
 **(a)** The Regular Army is the component of the Army that consists of persons whose continuous service on active duty in both peace and war is contemplated by law, and of retired members of the Regular Army.
 
@@ -741,15 +741,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(3)** the retired officers and enlisted members of the Regular Army.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 170, § 3075; Pub. L. 85–600, § 1(1), Aug. 6, 1958, 72 Stat. 522; Pub. L. 95–551, § 2, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 97–295, § 1(39), Oct. 12, 1982, 96 Stat. 1297; renumbered § 7075, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 170, § 3075; Pub. L. 85–600, § 1(1), Aug. 6, 1958, 72 Stat. 522; Pub. L. 95–551, § 2, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 97–295, § 1(39), Oct. 12, 1982, 96 Stat. 1297; renumbered § 7075, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3075(a) 3075(b) | 10:1c(a). 10:1c (less (a)). | June 28, 1950, ch. 383, § 302, 64 Stat. 268. |
+| 3075(a) 3075(b) | 10:1c(a). 10:1c (less (a)). | June 28, 1950, ch. 383, § 302, 64 Stat. 268. |
 
-In subsection (b), the words “holding appointments or enlisted in the Regular Army as now or hereafter provided by law”, “and such other persons as are now or may hereafter be specified by law”, and “commissioned \* \* \* warrant officers” are omitted as surplusage, since the revised section lists all persons in the Regular Army. 10:1c (last sentence) is omitted as executed.
+In subsection (b), the words “holding appointments or enlisted in the Regular Army as now or hereafter provided by law”, “and such other persons as are now or may hereafter be specified by law”, and “commissioned \* \* \* warrant officers” are omitted as surplusage, since the revised section lists all persons in the Regular Army. 10:1c (last sentence) is omitted as executed.
 
 **Editorial Notes**
 
@@ -769,11 +769,11 @@ In subsection (b), the words “holding appointments or enlisted in the Regular 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7081. Dental Corps: Chief, functions
+## § 7081. Dental Corps: Chief, functions
 
-**(a)** The Chief of the Dental Corps shall be an officer of that corps appointed as prescribed in section 3039 1
+**(a)** The Chief of the Dental Corps shall be an officer of that corps appointed as prescribed in section 3039 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -789,13 +789,13 @@ of this title.
 
 **(d)** Under such regulations as the Secretary of the Army may prescribe, dental and dental auxiliary personnel throughout the Army shall be organized into units commanded by a designated commissioned officer of the Army Medical Department. Such officer will be directly responsible to the commander of installations, organizations, and activities for all professional and technical matters and such administrative matters as may be prescribed by regulation.
 
-(Added Pub. L. 95–485, title VIII, § 805(b)(1), Oct. 20, 1978, 92 Stat. 1621, § 3081; amended Pub. L. 99–433, title V, § 502(f)(3), Oct. 1, 1986, 100 Stat. 1042; renumbered § 7081, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838; Pub. L. 116–92, div. A, title VII, § 714, Dec. 20, 2019, 133 Stat. 1446.)
+(Added Pub. L. 95–485, title VIII, § 805(b)(1), Oct. 20, 1978, 92 Stat. 1621, § 3081; amended Pub. L. 99–433, title V, § 502(f)(3), Oct. 1, 1986, 100 Stat. 1042; renumbered § 7081, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838; Pub. L. 116–92, div. A, title VII, § 714, Dec. 20, 2019, 133 Stat. 1446.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3039 of this title, referred to in subsec. (a), was repealed by Pub. L. 114–328, div. A, title V, § 502(n)(1), Dec. 23, 2016, 130 Stat. 2103.
+Section 3039 of this title, referred to in subsec. (a), was repealed by Pub. L. 114–328, div. A, title V, § 502(n)(1), Dec. 23, 2016, 130 Stat. 2103.
 
 **Prior Provisions**
 
@@ -815,9 +815,9 @@ A prior section 7081 was renumbered section 8581 of this title.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## [§ 7082. Renumbered § 8582]
+## [§ 7082. Renumbered § 8582]
 
-## § 7083. Public Affairs Specialty
+## § 7083. Public Affairs Specialty
 
 There is a career field in the Army known as the Public Affairs Specialty. Members of the Army with the Public Affairs Specialty are—
 
@@ -827,7 +827,7 @@ There is a career field in the Army known as the Public Affairs Specialty. Membe
 
 **(3)** other members of the Army assigned to public affairs positions by the Secretary of the Army.
 
-(Added Pub. L. 105–85, div. A, title V, § 596(a), Nov. 18, 1997, 111 Stat. 1765, § 3083; renumbered § 7083, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Added Pub. L. 105–85, div. A, title V, § 596(a), Nov. 18, 1997, 111 Stat. 1765, § 3083; renumbered § 7083, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Editorial Notes**
 
@@ -845,11 +845,11 @@ A prior section 7083 was renumbered section 8583 of this title.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7084. Chief of Veterinary Corps
+## § 7084. Chief of Veterinary Corps
 
 The Chief of the Veterinary Corps of the Army shall be appointed from among officers of the Veterinary Corps.
 
-(Added Pub. L. 107–314, div. A, title V, § 504(b)(1), Dec. 2, 2002, 116 Stat. 2531, § 3084; amended Pub. L. 108–136, div. A, title V, § 502(a), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title X, § 1056(c)(11), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 114–328, div. A, title V, § 502(r)(1), (2), Dec. 23, 2016, 130 Stat. 2104; Pub. L. 115–91, div. A, title V, § 506(b), Dec. 12, 2017, 131 Stat. 1374; renumbered § 7084, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Added Pub. L. 107–314, div. A, title V, § 504(b)(1), Dec. 2, 2002, 116 Stat. 2531, § 3084; amended Pub. L. 108–136, div. A, title V, § 502(a), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title X, § 1056(c)(11), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 114–328, div. A, title V, § 502(r)(1), (2), Dec. 23, 2016, 130 Stat. 2104; Pub. L. 115–91, div. A, title V, § 506(b), Dec. 12, 2017, 131 Stat. 1374; renumbered § 7084, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Editorial Notes**
 
@@ -877,4 +877,4 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–136, div. A, title V, § 502(b), Nov. 24, 2003, 117 Stat. 1456, provided that: “The amendment made by subsection (a) [amending this section] shall apply to appointments of the Chief of the Veterinary Corps of the Army that are made on or after the date of the enactment of this Act [Nov. 24, 2003].”
+Pub. L. 108–136, div. A, title V, § 502(b), Nov. 24, 2003, 117 Stat. 1456, provided that: “The amendment made by subsection (a) [amending this section] shall apply to appointments of the Chief of the Veterinary Corps of the Army that are made on or after the date of the enactment of this Act [Nov. 24, 2003].”

@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title XI, § 1101(b), Aug. 13, 2018, 132 Stat. 2000, added item 9905.
+2018—Pub. L. 115–232, div. A, title XI, § 1101(b), Aug. 13, 2018, 132 Stat. 2000, added item 9905.
 
-2011—Pub. L. 112–81, div. A, title XI, § 1101(d)(1), Dec. 31, 2011, 125 Stat. 1610, amended chapter heading generally, substituting “DEPARTMENT OF DEFENSE PERSONNEL AUTHORITIES” for “DEPARTMENT OF DEFENSE NATIONAL SECURITY PERSONNEL SYSTEM”.
+2011—Pub. L. 112–81, div. A, title XI, § 1101(d)(1), Dec. 31, 2011, 125 Stat. 1610, amended chapter heading generally, substituting “DEPARTMENT OF DEFENSE PERSONNEL AUTHORITIES” for “DEPARTMENT OF DEFENSE NATIONAL SECURITY PERSONNEL SYSTEM”.
 
-2009—Pub. L. 111–84, div. A, title XI, § 1113(f)(2), Oct. 28, 2009, 123 Stat. 2502, added item 9902 and struck out former item 9902 “Establishment of human resources management system”.
+2009—Pub. L. 111–84, div. A, title XI, § 1113(f)(2), Oct. 28, 2009, 123 Stat. 2502, added item 9902 and struck out former item 9902 “Establishment of human resources management system”.
 
-## § 9901. Definitions
+## § 9901. Definitions
 
 For purposes of this chapter—
 
@@ -33,19 +33,19 @@ For purposes of this chapter—
 
 **(2)** the term “Secretary” means the Secretary of Defense.
 
-(Added Pub. L. 108–136, div. A, title XI, § 1101(a)(1), Nov. 24, 2003, 117 Stat. 1621.)
+(Added Pub. L. 108–136, div. A, title XI, § 1101(a)(1), Nov. 24, 2003, 117 Stat. 1621.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Impact on Department of Defense Civilian Personnel**
 
-Pub. L. 108–136, div. A, title XI, § 1101(b), Nov. 24, 2003, 117 Stat. 1633, provided that:
+Pub. L. 108–136, div. A, title XI, § 1101(b), Nov. 24, 2003, 117 Stat. 1633, provided that:
 
 > **“(1)** Any exercise of authority under chapter 99 of such title [this chapter] (as added by subsection (a)), including under any system established under such chapter, shall be in conformance with the requirements of this subsection.
 
 > **“(2)** No other provision of this Act [see Tables for classification] or of any amendment made by this Act may be construed or applied in a manner so as to limit, supersede, or otherwise affect the provisions of this section [enacting this chapter], except to the extent that it does so by specific reference to this section.”
 
-## § 9902. Department of Defense personnel authorities
+## § 9902. Department of Defense personnel authorities
 
 **(a) Performance Management and Workforce Incentives.—**
 
@@ -143,9 +143,9 @@ Pub. L. 108–136, div. A, title XI, § 1101(b), Nov. 24, 2003, 117 Stat. 1633
 
 **(7)** develop appropriate procedures for warnings during performance evaluations for employees who fail to meet performance standards;
 
-**(8)** utilize the annual strategic workforce plan, required by section 115b 1
+**(8)** utilize the annual strategic workforce plan, required by section 115b 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 10; and
 
@@ -285,13 +285,13 @@ of title 10; and
 
 **(C)** the Committee on Oversight and Government Reform of the House of Representatives.
 
-(Added Pub. L. 108–136, div. A, title XI, § 1101(a)(1), Nov. 24, 2003, 117 Stat. 1621; amended Pub. L. 110–181, div. A, title XI, § 1106(a), Jan. 28, 2008, 122 Stat. 349; Pub. L. 110–417, [div. A], title XI, § 1106, Oct. 14, 2008, 122 Stat. 4617; Pub. L. 111–84, div. A, title XI, §§ 1113(b)(1), (d), (f)(1), 1121, Oct. 28, 2009, 123 Stat. 2498, 2499, 2502, 2505; Pub. L. 111–383, div. A, title X, § 1075(a)(2), title XI, § 1101(c), Jan. 7, 2011, 124 Stat. 4368, 4382; Pub. L. 112–81, div. A, title XI, §§ 1101(a)–(c), 1102(a), Dec. 31, 2011, 125 Stat. 1610, 1611; Pub. L. 118–31, div. A, title XI, § 1120, Dec. 22, 2023, 137 Stat. 435.)
+(Added Pub. L. 108–136, div. A, title XI, § 1101(a)(1), Nov. 24, 2003, 117 Stat. 1621; amended Pub. L. 110–181, div. A, title XI, § 1106(a), Jan. 28, 2008, 122 Stat. 349; Pub. L. 110–417, [div. A], title XI, § 1106, Oct. 14, 2008, 122 Stat. 4617; Pub. L. 111–84, div. A, title XI, §§ 1113(b)(1), (d), (f)(1), 1121, Oct. 28, 2009, 123 Stat. 2498, 2499, 2502, 2505; Pub. L. 111–383, div. A, title X, § 1075(a)(2), title XI, § 1101(c), Jan. 7, 2011, 124 Stat. 4368, 4382; Pub. L. 112–81, div. A, title XI, §§ 1101(a)–(c), 1102(a), Dec. 31, 2011, 125 Stat. 1610, 1611; Pub. L. 118–31, div. A, title XI, § 1120, Dec. 22, 2023, 137 Stat. 435.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 115b of title 10, referred to in subsec. (c)(8), was repealed by Pub. L. 114–328, div. A, title XI, § 1102(a), Dec. 23, 2016, 130 Stat. 2444.
+Section 115b of title 10, referred to in subsec. (c)(8), was repealed by Pub. L. 114–328, div. A, title XI, § 1102(a), Dec. 23, 2016, 130 Stat. 2444.
 
 The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (f)(2)(A), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
 
@@ -301,31 +301,31 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Amendments**
 
-2023—Subsec. (h)(1)(B). Pub. L. 118–31, § 1120(1), struck out “and the Comptroller General,” after “committees of Congress”.
+2023—Subsec. (h)(1)(B). Pub. L. 118–31, § 1120(1), struck out “and the Comptroller General,” after “committees of Congress”.
 
-Subsec. (h)(2), (3). Pub. L. 118–31, § 1120(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which provided for review by the Comptroller General of reports under paragraph (1).
+Subsec. (h)(2), (3). Pub. L. 118–31, § 1120(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which provided for review by the Comptroller General of reports under paragraph (1).
 
-2011—Subsec. (a)(1)(D), (E). Pub. L. 112–81, § 1101(a), added subpar. (D) and redesignated former subpar. (D) as (E).
+2011—Subsec. (a)(1)(D), (E). Pub. L. 112–81, § 1101(a), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (a)(2). Pub. L. 111–383, § 1075(a)(2), substituted “chapter” for “chapters” in two places.
+Subsec. (a)(2). Pub. L. 111–383, § 1075(a)(2), substituted “chapter” for “chapters” in two places.
 
-Subsec. (b)(5), (6). Pub. L. 112–81, § 1101(b), added pars. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 112–81, § 1101(b), added pars. (5) and (6).
 
-Subsec. (c)(6) to (9). Pub. L. 112–81, § 1101(c), added pars. (6) and (7) and redesignated former pars. (6) and (7) as (8) and (9), respectively.
+Subsec. (c)(6) to (9). Pub. L. 112–81, § 1101(c), added pars. (6) and (7) and redesignated former pars. (6) and (7) as (8) and (9), respectively.
 
-Subsec. (g)(3), (4). Pub. L. 111–383, § 1101(c), amended directory language of Pub. L. 111–84, § 1121. See 2009 Amendment note below.
+Subsec. (g)(3), (4). Pub. L. 111–383, § 1101(c), amended directory language of Pub. L. 111–84, § 1121. See 2009 Amendment note below.
 
-Subsec. (h). Pub. L. 112–81, § 1102(a), added subsec. (h).
+Subsec. (h). Pub. L. 112–81, § 1102(a), added subsec. (h).
 
-2009—Pub. L. 111–84, § 1113(f)(1), amended section catchline generally, substituting “Department of Defense personnel authorities” for “Establishment of human resources management system”.
+2009—Pub. L. 111–84, § 1113(f)(1), amended section catchline generally, substituting “Department of Defense personnel authorities” for “Establishment of human resources management system”.
 
-Pub. L. 111–84, § 1113(b)(1), (d), added subsecs. (a) to (d), redesignated subsecs. (f) to (h) as (e) to (g), respectively, and struck out former subsecs. (a) to (e), (i), and (j) which, respectively, authorized the Secretary of Defense to establish and adjust the National Security Personnel System (NSPS), provided for certain requirements of the NSPS, provided for certain exceptions to the NSPS with respect to certain laboratories, enumerated nonwaivable provisions referred to in former subsec. (b)(3)(D), established limitations relating to pay, preserved certain rights of and limitations on the Secretary, and prohibited the addition of an organizational or functional unit to the NSPS that would cause the number of employees added to the NSPS to exceed 100,000 in that year.
+Pub. L. 111–84, § 1113(b)(1), (d), added subsecs. (a) to (d), redesignated subsecs. (f) to (h) as (e) to (g), respectively, and struck out former subsecs. (a) to (e), (i), and (j) which, respectively, authorized the Secretary of Defense to establish and adjust the National Security Personnel System (NSPS), provided for certain requirements of the NSPS, provided for certain exceptions to the NSPS with respect to certain laboratories, enumerated nonwaivable provisions referred to in former subsec. (b)(3)(D), established limitations relating to pay, preserved certain rights of and limitations on the Secretary, and prohibited the addition of an organizational or functional unit to the NSPS that would cause the number of employees added to the NSPS to exceed 100,000 in that year.
 
-Subsec. (g)(3), (4). Pub. L. 111–84, § 1121, as amended by Pub. L. 111–383, § 1101(c), added par. (3), redesignated former par. (3) as (4), and, in par. (4), inserted “, excluding paragraph (3)” before period at end.
+Subsec. (g)(3), (4). Pub. L. 111–84, § 1121, as amended by Pub. L. 111–383, § 1101(c), added par. (3), redesignated former par. (3) as (4), and, in par. (4), inserted “, excluding paragraph (3)” before period at end.
 
 2008—Pub. L. 110–181 amended section generally, substituting provisions relating to establishment of human resources management system for former provisions which related to, in subsec. (a), general authority of Secretary of Defense to establish and adjust a human resources management system, in subsec. (b), system requirements, in subsec. (c), personnel management at defense laboratories, in subsec. (d), nonwaivable provisions, in subsec. (e), limitations relating to pay, in subsec. (f), collaboration with employee representatives, in subsec. (g), national level bargaining, in subsec. (h), appellate procedures, in subsec. (i), separation and retirement incentives, in subsec. (j), reemployment, in subsec. (k), personnel management, in subsec. (*l*), phase-in of the National Security Personnel System, and, in subsec. (m), labor management relations.
 
-Subsec. (i). Pub. L. 110–417 substituted “the requirements and limitations in paragraph (3)” for “the requirements of chapter 71 and the limitations in subsection (b)(3)” in par. (1), inserted “, in a manner comparable to that in which such provisions are applied under chapter 33” before period at end of par. (2), and added par. (3).
+Subsec. (i). Pub. L. 110–417 substituted “the requirements and limitations in paragraph (3)” for “the requirements of chapter 71 and the limitations in subsection (b)(3)” in par. (1), inserted “, in a manner comparable to that in which such provisions are applied under chapter 33” before period at end of par. (2), and added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -337,7 +337,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title XI, § 1101(d), Jan. 7, 2011, 124 Stat. 4382, provided that:
+Pub. L. 111–383, div. A, title XI, § 1101(d), Jan. 7, 2011, 124 Stat. 4382, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by this section [amending this section and provisions set out as notes preceding section 1580 and under section 4121 of Title 10, Armed Forces] shall take effect as of October 28, 2009.
 
@@ -345,19 +345,19 @@ Pub. L. 111–383, div. A, title XI, § 1101(d), Jan. 7, 2011, 124 Stat. 4382,
 
 **References to Pub. L. 111–383**
 
-Pub. L. 111–383, § 1(b), Jan. 7, 2011, 124 Stat. 4137, provided that: “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2011’ shall be deemed to refer to the ‘Ike Skelton National Defense Authorization Act for Fiscal Year 2011’.”
+Pub. L. 111–383, § 1(b), Jan. 7, 2011, 124 Stat. 4137, provided that: “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2011’ shall be deemed to refer to the ‘Ike Skelton National Defense Authorization Act for Fiscal Year 2011’.”
 
 **Temporary Increase in Maximum Amount of Voluntary Separation Incentive Pay Authorized for Civilian Employees of the Department of Defense**
 
-Pub. L. 114–328, div. A, title XI, § 1107, Dec. 23, 2016, 130 Stat. 2448, as amended by Pub. L. 115–91, div. A, title XI, § 1103(a), Dec. 12, 2017, 131 Stat. 1629, provided that: “During the period beginning on the date of enactment of this Act [Dec. 23, 2016] and ending on September 30, 2021, section 9902(f)(5)(A)(ii) of title 5, United States Code, shall be applied by substituting ‘an amount determined by the Secretary, not to exceed $40,000’ for ‘$25,000’.”
+Pub. L. 114–328, div. A, title XI, § 1107, Dec. 23, 2016, 130 Stat. 2448, as amended by Pub. L. 115–91, div. A, title XI, § 1103(a), Dec. 12, 2017, 131 Stat. 1629, provided that: “During the period beginning on the date of enactment of this Act [Dec. 23, 2016] and ending on September 30, 2021, section 9902(f)(5)(A)(ii) of title 5, United States Code, shall be applied by substituting ‘an amount determined by the Secretary, not to exceed $40,000’ for ‘$25,000’.”
 
 **Reports on Performance Management System and Appointment Procedures**
 
-Pub. L. 112–81, div. A, title XI, § 1102(b), Dec. 31, 2011, 125 Stat. 1611, which directed the Secretary of Defense to submit reports on performance management system and appointment procedures, was repealed by Pub. L. 115–91, div. A, title X, § 1051(q)(1), Dec. 12, 2017, 131 Stat. 1565.
+Pub. L. 112–81, div. A, title XI, § 1102(b), Dec. 31, 2011, 125 Stat. 1611, which directed the Secretary of Defense to submit reports on performance management system and appointment procedures, was repealed by Pub. L. 115–91, div. A, title X, § 1051(q)(1), Dec. 12, 2017, 131 Stat. 1565.
 
 **Provisions Relating to the National Security Personnel System**
 
-Pub. L. 111–84, div. A, title XI, § 1113(a)–(g), Oct. 28, 2009, 123 Stat. 2498–2502, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(17), Jan. 7, 2011, 124 Stat. 4373; Pub. L. 112–81, div. A, title XI, § 1102(c)(2), Dec. 31, 2011, 125 Stat. 1612, provided that:
+Pub. L. 111–84, div. A, title XI, § 1113(a)–(g), Oct. 28, 2009, 123 Stat. 2498–2502, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(17), Jan. 7, 2011, 124 Stat. 4373; Pub. L. 112–81, div. A, title XI, § 1102(c)(2), Dec. 31, 2011, 125 Stat. 1612, provided that:
 
 > **“(a) Definitions.—** For purposes of this section—
 
@@ -405,7 +405,7 @@ Pub. L. 111–84, div. A, title XI, § 1113(a)–(g), Oct. 28, 2009, 123 Stat.
 
 > [Amended this section.]
 
-> **“[(e)** Repealed. Pub. L. 112–81, div. A, title XI, § 1102(c)(2), Dec. 31, 2011, 125 Stat. 1612.]
+> **“[(e)** Repealed. Pub. L. 112–81, div. A, title XI, § 1102(c)(2), Dec. 31, 2011, 125 Stat. 1612.]
 
 > **“(f) Clerical Amendments.—**
 
@@ -447,17 +447,17 @@ Pub. L. 111–84, div. A, title XI, § 1113(a)–(g), Oct. 28, 2009, 123 Stat.
 
 **Implementation**
 
-Pub. L. 110–181, div. A, title XI, § 1106(b), Jan. 28, 2008, 122 Stat. 356, which related to implementation of requirements of this section as amended by Pub. L. 110–181, was repealed by Pub. L. 111–84, div. A, title XI, § 1113(h)(1), Oct. 28, 2009, 123 Stat. 2503.
+Pub. L. 110–181, div. A, title XI, § 1106(b), Jan. 28, 2008, 122 Stat. 356, which related to implementation of requirements of this section as amended by Pub. L. 110–181, was repealed by Pub. L. 111–84, div. A, title XI, § 1113(h)(1), Oct. 28, 2009, 123 Stat. 2503.
 
 **Civilian Pay**
 
-Pub. L. 109–13, div. A, title I, § 1020, May 11, 2005, 119 Stat. 251, provided that: “None of the funds appropriated to the Department of Defense by this Act or any other Act for fiscal year 2005 or any other fiscal year may be expended for any pay raise granted on or after January 1, 2005, that is implemented in a manner that provides a greater increase for non-career employees than for career employees on the basis of their status as career or non-career employees, unless specifically authorized by law: *Provided*, That this provision shall be implemented for fiscal year 2005 without regard to the requirements of section 5383 of title 5, United States Code: *Provided further*, That no employee of the Department of Defense shall have his or her pay reduced for the purpose of complying with the requirements of this provision.”
+Pub. L. 109–13, div. A, title I, § 1020, May 11, 2005, 119 Stat. 251, provided that: “None of the funds appropriated to the Department of Defense by this Act or any other Act for fiscal year 2005 or any other fiscal year may be expended for any pay raise granted on or after January 1, 2005, that is implemented in a manner that provides a greater increase for non-career employees than for career employees on the basis of their status as career or non-career employees, unless specifically authorized by law: *Provided*, That this provision shall be implemented for fiscal year 2005 without regard to the requirements of section 5383 of title 5, United States Code: *Provided further*, That no employee of the Department of Defense shall have his or her pay reduced for the purpose of complying with the requirements of this provision.”
 
 **Pilot Program for Improved Civilian Personnel Management**
 
-Pub. L. 108–136, div. A, title XI, § 1111, Nov. 24, 2003, 117 Stat. 1634, authorized the Secretary of Defense to carry out a pilot program using an automated workforce management system to demonstrate improved efficiency in the performance of civilian personnel management and provided that the Secretary could carry out the pilot program for a period of two years beginning not later than Mar. 1, 2004.
+Pub. L. 108–136, div. A, title XI, § 1111, Nov. 24, 2003, 117 Stat. 1634, authorized the Secretary of Defense to carry out a pilot program using an automated workforce management system to demonstrate improved efficiency in the performance of civilian personnel management and provided that the Secretary could carry out the pilot program for a period of two years beginning not later than Mar. 1, 2004.
 
-## § 9903. Attracting highly qualified experts
+## § 9903. Attracting highly qualified experts
 
 **(a) In General.—** The Secretary may carry out a program using the authority provided in subsection (b) in order to attract highly qualified experts in needed occupations, as determined by the Secretary.
 
@@ -505,15 +505,15 @@ For purposes of this paragraph, the term “base quarter” has the meaning give
 
 **(2)** the rate of basic pay prescribed for the position under this section may not be reduced as long as the employee continues to serve in the position without a break in service.
 
-(Added Pub. L. 108–136, div. A, title XI, § 1101(a)(1), Nov. 24, 2003, 117 Stat. 1632; amended Pub. L. 112–81, div. A, title XI, § 1105, Dec. 31, 2011, 125 Stat. 1612.)
+(Added Pub. L. 108–136, div. A, title XI, § 1101(a)(1), Nov. 24, 2003, 117 Stat. 1632; amended Pub. L. 112–81, div. A, title XI, § 1105, Dec. 31, 2011, 125 Stat. 1612.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Subsec. (d)(2). Pub. L. 112–81, § 1105(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An employee appointed under this section is not eligible for any bonus, monetary award, or other monetary incentive for service except for payments authorized under this section.”
+2011—Subsec. (d)(2). Pub. L. 112–81, § 1105(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An employee appointed under this section is not eligible for any bonus, monetary award, or other monetary incentive for service except for payments authorized under this section.”
 
-Subsec. (d)(3). Pub. L. 112–81, § 1105(2), inserted at end “In computing an employee’s total annual compensation for purposes of the preceding sentence, any payment referred to in paragraph (2)(B) shall be excluded.”
+Subsec. (d)(3). Pub. L. 112–81, § 1105(2), inserted at end “In computing an employee’s total annual compensation for purposes of the preceding sentence, any payment referred to in paragraph (2)(B) shall be excluded.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -523,7 +523,7 @@ For reference to maximum rate under section 5376 of this title, see section 2(d)
 
 **Policy on Senior Mentors**
 
-Pub. L. 112–239, div. A, title XI, § 1105, Jan. 2, 2013, 126 Stat. 1973, provided that:
+Pub. L. 112–239, div. A, title XI, § 1105, Jan. 2, 2013, 126 Stat. 1973, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall provide written notice to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] at least 60 days before implementing any change in the policy regarding senior mentors issued on or about April 1, 2010.
 
@@ -531,7 +531,7 @@ Pub. L. 112–239, div. A, title XI, § 1105, Jan. 2, 2013, 126 Stat. 1973, pr
 
 **Disclosure of Senior Mentors**
 
-Pub. L. 112–81, div. A, title XI, § 1124, Dec. 31, 2011, 125 Stat. 1618, provided that:
+Pub. L. 112–81, div. A, title XI, § 1124, Dec. 31, 2011, 125 Stat. 1618, provided that:
 
 > **“(a) Requirement to Disclose Names of Senior Mentors.—** The Secretary of Defense shall disclose the names of senior mentors serving in the Department of Defense by publishing a list of the names on the publicly available website of the Department of Defense. The list shall be updated at least quarterly.
 
@@ -539,7 +539,7 @@ Pub. L. 112–81, div. A, title XI, § 1124, Dec. 31, 2011, 125 Stat. 1618, pr
 
 **Requirements for Department of Defense Senior Mentors**
 
-Pub. L. 111–383, div. A, title XI, § 1102, Jan. 7, 2011, 124 Stat. 4382, provided that:
+Pub. L. 111–383, div. A, title XI, § 1102, Jan. 7, 2011, 124 Stat. 4382, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall issue appropriate policies and procedures to ensure that all senior mentors employed by the Department of Defense are—
 
@@ -549,7 +549,7 @@ Pub. L. 111–383, div. A, title XI, § 1102, Jan. 7, 2011, 124 Stat. 4382, pr
 
 > **“(b) Senior Mentor Defined.—** In this section, the term ‘senior mentor’ means a retired flag, general, or other military officer or retired senior civilian official who provides expert experience-based mentoring, teaching, training, advice, and recommendations to senior military officers, staffs, and students as they participate in war games, warfighting courses, operational planning, operational exercises, and decision-making exercises.”
 
-## § 9904. Special pay and benefits for certain employees outside the United States
+## § 9904. Special pay and benefits for certain employees outside the United States
 
 The Secretary may provide to certain civilian employees of the Department of Defense assigned to activities outside the United States as determined by the Secretary to be in support of Department of Defense activities abroad hazardous to life or health or so specialized because of security requirements as to be clearly distinguishable from normal Government employment—
 
@@ -561,17 +561,17 @@ The Secretary may provide to certain civilian employees of the Department of Def
 
 **(2)** special retirement accrual benefits and disability in the same manner provided for by the Central Intelligence Agency Retirement Act (50 U.S.C. 2001 et seq.) and in section 18 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403r).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Added Pub. L. 108–136, div. A, title XI, § 1101(a)(1), Nov. 24, 2003, 117 Stat. 1633.)
+(Added Pub. L. 108–136, div. A, title XI, § 1101(a)(1), Nov. 24, 2003, 117 Stat. 1633.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Service Act of 1980, referred to in par. (1)(A), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of title I of the Act is classified generally to subchapter IX (§ 4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in par. (1)(A), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of title I of the Act is classified generally to subchapter IX (§ 4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
-The Central Intelligence Agency Act of 1949, referred to in par. (2), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified generally to chapter 46 (§ 3501 et seq.) of Title 50. Section 18 of the Act is now classified to section 3518 of Title 50. For complete classification of this Act to the Code, see Tables.
+The Central Intelligence Agency Act of 1949, referred to in par. (2), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified generally to chapter 46 (§ 3501 et seq.) of Title 50. Section 18 of the Act is now classified to section 3518 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -579,7 +579,7 @@ The Central Intelligence Agency Act of 1949, referred to in par. (2), is act Jun
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
-## § 9905. Direct hire authority for certain personnel of the Department of Defense
+## § 9905. Direct hire authority for certain personnel of the Department of Defense
 
 **(a) In General.—** The Secretary of Defense may appoint, without regard to the provisions of subchapter I of chapter 33 (other than sections 3303, 3307, and 3328 of such chapter), qualified candidates to any of the following positions in the competitive service in the Department of Defense:
 
@@ -627,7 +627,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 **(4)** Sections 559 and 1101 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 131 Stat. 1406 and 1627).
 
-(Added Pub. L. 115–232, div. A, title XI, § 1101(a), Aug. 13, 2018, 132 Stat. 2000; amended Pub. L. 116–92, div. A, title XI, § 1109(a), Dec. 20, 2019, 133 Stat. 1598; Pub. L. 116–283, div. A, title XI, § 1117, Jan. 1, 2021, 134 Stat. 3897; Pub. L. 118–31, div. A, title XI, § 1104, title XII, § 1250B(i), Dec. 22, 2023, 137 Stat. 427, 467.)
+(Added Pub. L. 115–232, div. A, title XI, § 1101(a), Aug. 13, 2018, 132 Stat. 2000; amended Pub. L. 116–92, div. A, title XI, § 1109(a), Dec. 20, 2019, 133 Stat. 1598; Pub. L. 116–283, div. A, title XI, § 1117, Jan. 1, 2021, 134 Stat. 3897; Pub. L. 118–31, div. A, title XI, § 1104, title XII, § 1250B(i), Dec. 22, 2023, 137 Stat. 427, 467.)
 
 **Editorial Notes**
 
@@ -641,18 +641,18 @@ Sections 559 and 1101 of Pub. L. 115–91, referred to in subsec. (c)(4), are se
 
 **Amendments**
 
-2023—Subsec. (a). Pub. L. 118–31, § 1104(1), inserted “, 3307,” after “3303”.
+2023—Subsec. (a). Pub. L. 118–31, § 1104(1), inserted “, 3307,” after “3303”.
 
-Subsec. (a)(12), (13). Pub. L. 118–31, § 1104(2), added pars. (12) and (13).
+Subsec. (a)(12), (13). Pub. L. 118–31, § 1104(2), added pars. (12) and (13).
 
-Subsec. (a)(14). Pub. L. 118–31, § 1250B(i)(1), added par. (14).
+Subsec. (a)(14). Pub. L. 118–31, § 1250B(i)(1), added par. (14).
 
-Subsec. (b)(1). Pub. L. 118–31, § 1250B(i)(2), substituted “September 30, 2030” for “September 30, 2025”.
+Subsec. (b)(1). Pub. L. 118–31, § 1250B(i)(2), substituted “September 30, 2030” for “September 30, 2025”.
 
 2021—Subsec. (a)(11). Pub. L. 116–283 added par. (11).
 
-2019—Subsec. (a)(2). Pub. L. 116–92, § 1109(a)(1)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any position involved with cybersecurity.”
+2019—Subsec. (a)(2). Pub. L. 116–92, § 1109(a)(1)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any position involved with cybersecurity.”
 
-Subsec. (a)(5) to (10). Pub. L. 116–92, § 1109(a)(1)(B), added pars. (5) to (10).
+Subsec. (a)(5) to (10). Pub. L. 116–92, § 1109(a)(1)(B), added pars. (5) to (10).
 
-Subsecs. (b), (c). Pub. L. 116–92, § 1109(a)(2), added subsecs. (b) and (c) and struck out former subsec. (b) which provided that effective on Sept. 30, 2025, the authority provided under subsec. (a) would expire.
+Subsecs. (b), (c). Pub. L. 116–92, § 1109(a)(2), added subsecs. (b) and (c) and struck out former subsec. (b) which provided that effective on Sept. 30, 2025, the authority provided under subsec. (a) would expire.

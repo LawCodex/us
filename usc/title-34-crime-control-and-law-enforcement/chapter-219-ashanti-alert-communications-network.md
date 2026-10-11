@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 219—ASHANTI ALERT COMMUNICATIONS NETWORK
 
-## § 21901. Definitions
+## § 21901. Definitions
 
 In this chapter:
 
@@ -55,15 +55,15 @@ The term “Indian Tribe” means a federally recognized Indian Tribe or a Nativ
 
 The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 106–468, title II, § 201, as added Pub. L. 115–401, § 2(5), Dec. 31, 2018, 132 Stat. 5336.)
+(Pub. L. 106–468, title II, § 201, as added Pub. L. 115–401, § 2(5), Dec. 31, 2018, 132 Stat. 5336.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The PROTECT Act, referred to in par. (1), is Pub. L. 108–21, Apr. 30, 2003, 117 Stat. 650, also known as the Prosecutorial Remedies and Other Tools to end the Exploitation of Children Today Act of 2003. Subtitle A of title III of the Act is classified generally to chapter 205 (§ 20501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
+The PROTECT Act, referred to in par. (1), is Pub. L. 108–21, Apr. 30, 2003, 117 Stat. 650, also known as the Prosecutorial Remedies and Other Tools to end the Exploitation of Children Today Act of 2003. Subtitle A of title III of the Act is classified generally to chapter 205 (§ 20501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
-## § 21902. Ashanti Alert communications network
+## § 21902. Ashanti Alert communications network
 
 **(a) In general**
 
@@ -73,9 +73,9 @@ The Attorney General shall, subject to the availability of appropriations, estab
 
 In establishing the Ashanti Alert communications network under subsection (a), the Attorney General shall coordinate, when advisable, with missing person alert systems in existence as of December 31, 2018, such as the AMBER Alert communications network and Silver Alert communications networks.
 
-(Pub. L. 106–468, title II, § 202, as added Pub. L. 115–401, § 2(5), Dec. 31, 2018, 132 Stat. 5337.)
+(Pub. L. 106–468, title II, § 202, as added Pub. L. 115–401, § 2(5), Dec. 31, 2018, 132 Stat. 5337.)
 
-## § 21903. Ashanti Alert Coordinator
+## § 21903. Ashanti Alert Coordinator
 
 **(a) National coordinator within Department of Justice**
 
@@ -179,9 +179,9 @@ The Coordinator shall consult with local broadcasters and State, Tribal, and loc
 
 **(F)** any other information the Coordinator determines to be appropriate.
 
-(Pub. L. 106–468, title II, § 203, as added Pub. L. 115–401, § 2(5), Dec. 31, 2018, 132 Stat. 5337.)
+(Pub. L. 106–468, title II, § 203, as added Pub. L. 115–401, § 2(5), Dec. 31, 2018, 132 Stat. 5337.)
 
-## § 21904. Minimum standards for issuance and dissemination of alerts through Ashanti Alert communications network
+## § 21904. Minimum standards for issuance and dissemination of alerts through Ashanti Alert communications network
 
 **(a) Establishment of minimum standards** Subject to subsection (b), the Coordinator shall establish minimum standards for—
 
@@ -225,15 +225,15 @@ The minimum standards established under subsection (a) shall, to the maximum ext
 
 In establishing minimum standards under subsection (a), the Coordinator may not interfere with the system of voluntary coordination between local broadcasters and State, Tribal, and local law enforcement agencies for purposes of regional and local search efforts for missing adults that was in effect on the day before December 31, 2018.
 
-(Pub. L. 106–468, title II, § 204, as added Pub. L. 115–401, § 2(5), Dec. 31, 2018, 132 Stat. 5340.)
+(Pub. L. 106–468, title II, § 204, as added Pub. L. 115–401, § 2(5), Dec. 31, 2018, 132 Stat. 5340.)
 
-## § 21905. Voluntary participation
+## § 21905. Voluntary participation
 
 The minimum standards established under section 21904(a) of this title, and any other guidelines and programs established under section 21903 of this title, shall be adoptable on a voluntary basis only.
 
-(Pub. L. 106–468, title II, § 205, as added Pub. L. 115–401, § 2(5), Dec. 31, 2018, 132 Stat. 5341.)
+(Pub. L. 106–468, title II, § 205, as added Pub. L. 115–401, § 2(5), Dec. 31, 2018, 132 Stat. 5341.)
 
-## § 21906. Training and educational programs
+## § 21906. Training and educational programs
 
 The Coordinator shall make available to States, Indian Tribes, units of local government, law enforcement agencies, and other concerned entities that are involved in initiating, facilitating, or promoting Ashanti Alert plans, including broadcasters, first responders, dispatchers, public safety communications personnel, and radio station personnel—
 
@@ -241,10 +241,10 @@ The Coordinator shall make available to States, Indian Tribes, units of local go
 
 **(2)** informational materials, including brochures, videos, posters, and websites to support and supplement the training and educational programs described in paragraph (1).
 
-(Pub. L. 106–468, title II, § 206, as added Pub. L. 115–401, § 2(5), Dec. 31, 2018, 132 Stat. 5341.)
+(Pub. L. 106–468, title II, § 206, as added Pub. L. 115–401, § 2(5), Dec. 31, 2018, 132 Stat. 5341.)
 
-## § 21907. Authorization of appropriations
+## § 21907. Authorization of appropriations
 
 There is authorized to be appropriated to the Attorney General $3,000,000 to carry out the Ashanti Alert communications network as authorized under this chapter for each of fiscal years 2019 through 2022.
 
-(Pub. L. 106–468, title II, § 207, as added Pub. L. 115–401, § 2(5), Dec. 31, 2018, 132 Stat. 5341.)
+(Pub. L. 106–468, title II, § 207, as added Pub. L. 115–401, § 2(5), Dec. 31, 2018, 132 Stat. 5341.)

@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 5(b), Sept. 16, 2011, 125 Stat. 299, amended item 273 generally, substituting “Defense to infringement based on prior commercial use” for “Defense to infringement based on earlier inventor”.
+2011—Pub. L. 112–29, § 5(b), Sept. 16, 2011, 125 Stat. 299, amended item 273 generally, substituting “Defense to infringement based on prior commercial use” for “Defense to infringement based on earlier inventor”.
 
-1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4302(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, added item 273.
+1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4302(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, added item 273.
 
-## § 271. Infringement of patent
+## § 271. Infringement of patent
 
 **(a)** Except as otherwise provided in this title, whoever without authority makes, uses, offers to sell, or sells any patented invention, within the United States or imports into the United States any patented invention during the term of the patent therefor, infringes the patent.
 
@@ -99,7 +99,7 @@ The remedies prescribed by subparagraphs (A), (B), (C), and (D) are the only rem
 
 **(i)** As used in this section, an “offer for sale” or an “offer to sell” by a person other than the patentee, or any designee of the patentee, is that in which the sale will occur before the expiration of the term of the patent.
 
-(July 19, 1952, ch. 950, 66 Stat. 811; Pub. L. 98–417, title II, § 202, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 98–622, title I, § 101(a), Nov. 8, 1984, 98 Stat. 3383; Pub. L. 100–418, title IX, § 9003, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 100–670, title II, § 201(i), Nov. 16, 1988, 102 Stat. 3988; Pub. L. 100–703, title II, § 201, Nov. 19, 1988, 102 Stat. 4676; Pub. L. 102–560, § 2(a)(1), Oct. 28, 1992, 106 Stat. 4230; Pub. L. 103–465, title V, § 533(a), Dec. 8, 1994, 108 Stat. 4988; Pub. L. 108–173, title XI, § 1101(d), Dec. 8, 2003, 117 Stat. 2457; Pub. L. 111–148, title VII, § 7002(c)(1), Mar. 23, 2010, 124 Stat. 815.)
+(July 19, 1952, ch. 950, 66 Stat. 811; Pub. L. 98–417, title II, § 202, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 98–622, title I, § 101(a), Nov. 8, 1984, 98 Stat. 3383; Pub. L. 100–418, title IX, § 9003, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 100–670, title II, § 201(i), Nov. 16, 1988, 102 Stat. 3988; Pub. L. 100–703, title II, § 201, Nov. 19, 1988, 102 Stat. 4676; Pub. L. 102–560, § 2(a)(1), Oct. 28, 1992, 106 Stat. 4230; Pub. L. 103–465, title V, § 533(a), Dec. 8, 1994, 108 Stat. 4988; Pub. L. 108–173, title XI, § 1101(d), Dec. 8, 2003, 117 Stat. 2457; Pub. L. 111–148, title VII, § 7002(c)(1), Mar. 23, 2010, 124 Stat. 815.)
 
 **Historical and Revision Notes**
 
@@ -111,53 +111,53 @@ Paragraphs (b) and (c) define and limit contributory infringement of a patent an
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(1), (2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. Sections 505 and 512 of the Act are classified to sections 355 and 360b, respectively, of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(1), (2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. Sections 505 and 512 of the Act are classified to sections 355 and 360b, respectively, of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-Act of March 4, 1913, referred to in subsec. (e)(1), (2), is act Mar. 4, 1913, ch. 145, 37 Stat. 828. The provisions of such act relating to viruses, etc., applicable to domestic animals, popularly known as the Virus-Serum-Toxin Act, are contained in the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, at 37 Stat. 832, and are classified generally to chapter 5 (§ 151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
+Act of March 4, 1913, referred to in subsec. (e)(1), (2), is act Mar. 4, 1913, ch. 145, 37 Stat. 828. The provisions of such act relating to viruses, etc., applicable to domestic animals, popularly known as the Virus-Serum-Toxin Act, are contained in the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, at 37 Stat. 832, and are classified generally to chapter 5 (§ 151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
 Section 351 of the Public Health Service Act, referred to in subsec. (e)(2)(C), (4)(D), (6)(A), (C), is classified to section 262 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
-2010—Subsec. (e)(2). Pub. L. 111–148, § 7002(c)(1)(A)(iv), substituted “, veterinary biological product, or biological product” for “or veterinary biological product” in concluding provisions.
+2010—Subsec. (e)(2). Pub. L. 111–148, § 7002(c)(1)(A)(iv), substituted “, veterinary biological product, or biological product” for “or veterinary biological product” in concluding provisions.
 
-Subsec. (e)(2)(C). Pub. L. 111–148, § 7002(c)(1)(A)(i)–(iii), added subpar. (C).
+Subsec. (e)(2)(C). Pub. L. 111–148, § 7002(c)(1)(A)(i)–(iii), added subpar. (C).
 
-Subsec. (e)(4). Pub. L. 111–148, § 7002(c)(1)(B)(iv), substituted “(C), and (D)” for “and (C)” in concluding provisions.
+Subsec. (e)(4). Pub. L. 111–148, § 7002(c)(1)(B)(iv), substituted “(C), and (D)” for “and (C)” in concluding provisions.
 
-Subsec. (e)(4)(B). Pub. L. 111–148, § 7002(c)(1)(B)(i), substituted “, veterinary biological product, or biological product” for “or veterinary biological product” and struck out “and” at end.
+Subsec. (e)(4)(B). Pub. L. 111–148, § 7002(c)(1)(B)(i), substituted “, veterinary biological product, or biological product” for “or veterinary biological product” and struck out “and” at end.
 
-Subsec. (e)(4)(C). Pub. L. 111–148, § 7002(c)(1)(B)(ii), substituted “, veterinary biological product, or biological product” for “or veterinary biological product” and “, and” for period at end.
+Subsec. (e)(4)(C). Pub. L. 111–148, § 7002(c)(1)(B)(ii), substituted “, veterinary biological product, or biological product” for “or veterinary biological product” and “, and” for period at end.
 
-Subsec. (e)(4)(D). Pub. L. 111–148, § 7002(c)(1)(B)(iii), added subpar. (D).
+Subsec. (e)(4)(D). Pub. L. 111–148, § 7002(c)(1)(B)(iii), added subpar. (D).
 
-Subsec. (e)(6). Pub. L. 111–148, § 7002(c)(1)(C), added par. (6).
+Subsec. (e)(6). Pub. L. 111–148, § 7002(c)(1)(C), added par. (6).
 
 2003—Subsec. (e)(5). Pub. L. 108–173 added par. (5).
 
-1994—Subsec. (a). Pub. L. 103–465, § 533(a)(1), inserted “, offers to sell,” after “uses” and “or imports into the United States any patented invention” after “the United States”.
+1994—Subsec. (a). Pub. L. 103–465, § 533(a)(1), inserted “, offers to sell,” after “uses” and “or imports into the United States any patented invention” after “the United States”.
 
-Subsec. (c). Pub. L. 103–465, § 533(a)(2), substituted “offers to sell or sells within the United States or imports into the United States” for “sells”.
+Subsec. (c). Pub. L. 103–465, § 533(a)(2), substituted “offers to sell or sells within the United States or imports into the United States” for “sells”.
 
-Subsec. (e)(1). Pub. L. 103–465, § 533(a)(3)(A), substituted “offer to sell, or sell within the United States or import into the United States” for “or sell”.
+Subsec. (e)(1). Pub. L. 103–465, § 533(a)(3)(A), substituted “offer to sell, or sell within the United States or import into the United States” for “or sell”.
 
-Subsec. (e)(3). Pub. L. 103–465, § 533(a)(3)(B), substituted “offering to sell, or selling within the United States or importing into the United States” for “or selling”.
+Subsec. (e)(3). Pub. L. 103–465, § 533(a)(3)(B), substituted “offering to sell, or selling within the United States or importing into the United States” for “or selling”.
 
-Subsec. (e)(4)(B), (C). Pub. L. 103–465, § 533(a)(3)(C), (D), substituted “offer to sell, or sale within the United States or importation into the United States” for “or sale”.
+Subsec. (e)(4)(B), (C). Pub. L. 103–465, § 533(a)(3)(C), (D), substituted “offer to sell, or sale within the United States or importation into the United States” for “or sale”.
 
-Subsec. (g). Pub. L. 103–465, § 533(a)(4), substituted “offers to sell, sells,” for “sells”, “importation, offer to sell, sale,” for “importation, sale,”, and “other use, offer to sell, or” for “other use or”.
+Subsec. (g). Pub. L. 103–465, § 533(a)(4), substituted “offers to sell, sells,” for “sells”, “importation, offer to sell, sale,” for “importation, sale,”, and “other use, offer to sell, or” for “other use or”.
 
-Subsec. (i). Pub. L. 103–465, § 533(a)(5), added subsec. (i).
+Subsec. (i). Pub. L. 103–465, § 533(a)(5), added subsec. (i).
 
 1992—Subsec. (h). Pub. L. 102–560 added subsec. (h).
 
 1988—Subsec. (d). Pub. L. 100–703 added cls. (4) and (5).
 
-Subsec. (e)(1). Pub. L. 100–670, § 201(i)(1), inserted “which is primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques” after “March 4, 1913)” and “or veterinary biological products” after “sale of drugs”.
+Subsec. (e)(1). Pub. L. 100–670, § 201(i)(1), inserted “which is primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques” after “March 4, 1913)” and “or veterinary biological products” after “sale of drugs”.
 
-Subsec. (e)(2). Pub. L. 100–670, § 201(i)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “It shall be an act of infringement to submit an application under section 505(j) of the Federal Food, Drug, and Cosmetic Act or described in section 505(b)(2) of such Act for a drug claimed in a patent or the use of which is claimed in a patent, if the purpose of such submission is to obtain approval under such Act to engage in the commercial manufacture, use, or sale of a drug claimed in a patent or the use of which is claimed in a patent before the expiration of such patent.”
+Subsec. (e)(2). Pub. L. 100–670, § 201(i)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “It shall be an act of infringement to submit an application under section 505(j) of the Federal Food, Drug, and Cosmetic Act or described in section 505(b)(2) of such Act for a drug claimed in a patent or the use of which is claimed in a patent, if the purpose of such submission is to obtain approval under such Act to engage in the commercial manufacture, use, or sale of a drug claimed in a patent or the use of which is claimed in a patent before the expiration of such patent.”
 
-Subsec. (e)(4). Pub. L. 100–670, § 201(i)(3), inserted “or veterinary biological product” after “drug” in subpars. (A) to (C).
+Subsec. (e)(4). Pub. L. 100–670, § 201(i)(3), inserted “or veterinary biological product” after “drug” in subpars. (A) to (C).
 
 Subsec. (g). Pub. L. 100–418 added subsec. (g).
 
@@ -177,11 +177,11 @@ Amendment by Pub. L. 102–560 effective with respect to violations that occur o
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–703, title II, § 202, Nov. 19, 1988, 102 Stat. 4676, provided that: “The amendment made by this title [amending this section] shall apply only to cases filed on or after the date of the enactment of this Act [Nov. 19, 1988].”
+Pub. L. 100–703, title II, § 202, Nov. 19, 1988, 102 Stat. 4676, provided that: “The amendment made by this title [amending this section] shall apply only to cases filed on or after the date of the enactment of this Act [Nov. 19, 1988].”
 
-Pub. L. 100–418, title IX, § 9006, Aug. 23, 1988, 102 Stat. 1566, provided that:
+Pub. L. 100–418, title IX, § 9006, Aug. 23, 1988, 102 Stat. 1566, provided that:
 
-> **“(a) In General.—** The amendments made by this subtitle [subtitle A (§§ 9001–9007) of title IX of Pub. L. 100–418, enacting section 295 of this title and amending this section and sections 154 and 287 of this title] take effect 6 months after the date of enactment of this Act [Aug. 23, 1988] and, subject to subsections (b) and (c), shall apply only with respect to products made or imported after the effective date of the amendments made by this subtitle.
+> **“(a) In General.—** The amendments made by this subtitle [subtitle A (§§ 9001–9007) of title IX of Pub. L. 100–418, enacting section 295 of this title and amending this section and sections 154 and 287 of this title] take effect 6 months after the date of enactment of this Act [Aug. 23, 1988] and, subject to subsections (b) and (c), shall apply only with respect to products made or imported after the effective date of the amendments made by this subtitle.
 
 > **“(b) Exceptions.—** The amendments made by this subtitle shall not abridge or affect the right of any person or any successor in business of such person to continue to use, sell, or import any specific product already in substantial and continuous sale or use by such person in the United States on January 1, 1988, or for which substantial preparation by such person for such sale or use was made before such date, to the extent equitable for the protection of commercial investments made or business commenced in the United States before such date. This subsection shall not apply to any person or any successor in business of such person using, selling, or importing a product produced by a patented process that is the subject of a process patent enforcement action commenced before January 1, 1987, before the International Trade Commission, that is pending or in which an order has been entered.
 
@@ -193,13 +193,13 @@ Amendment by Pub. L. 98–622 applicable only to the supplying, or causing to be
 
 **Reports to Congress; Effect on Domestic Industries of Process Patent Amendments Act of 1988**
 
-Pub. L. 100–418, title IX, § 9007, Aug. 23, 1988, 102 Stat. 1567, provided that the Secretary of Commerce was to make annual reports to Congress covering each of the successive five 1-year periods beginning 6 months after Aug. 23, 1988, on the effect of the amendments made by subtitle A (§§ 9001–9007) of title IX of Pub. L. 100–418, enacting section 295 of this title and amending sections 154, 271, and 287 of this title, on those domestic industries that submit complaints to the Department of Commerce alleging that their legitimate sources of supply have been adversely affected by the amendments.
+Pub. L. 100–418, title IX, § 9007, Aug. 23, 1988, 102 Stat. 1567, provided that the Secretary of Commerce was to make annual reports to Congress covering each of the successive five 1-year periods beginning 6 months after Aug. 23, 1988, on the effect of the amendments made by subtitle A (§§ 9001–9007) of title IX of Pub. L. 100–418, enacting section 295 of this title and amending sections 154, 271, and 287 of this title, on those domestic industries that submit complaints to the Department of Commerce alleging that their legitimate sources of supply have been adversely affected by the amendments.
 
-## § 272. Temporary presence in the United States
+## § 272. Temporary presence in the United States
 
 The use of any invention in any vessel, aircraft or vehicle of any country which affords similar privileges to vessels, aircraft or vehicles of the United States, entering the United States temporarily or accidentally, shall not constitute infringement of any patent, if the invention is used exclusively for the needs of the vessel, aircraft or vehicle and is not offered for sale or sold in or used for the manufacture of anything to be sold in or exported from the United States.
 
-(July 19, 1952, ch. 950, 66 Stat. 812; Pub. L. 103–465, title V, § 533(b)(4), Dec. 8, 1994, 108 Stat. 4989.)
+(July 19, 1952, ch. 950, 66 Stat. 812; Pub. L. 103–465, title V, § 533(b)(4), Dec. 8, 1994, 108 Stat. 4989.)
 
 **Historical and Revision Notes**
 
@@ -217,7 +217,7 @@ This section follows the requirement of the International Convention for the Pro
 
 Amendment by Pub. L. 103–465 effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], with provisions relating to earliest filed patent application, see section 534(a), (b)(3) of Pub. L. 103–465, set out as a note under section 154 of this title.
 
-## § 273. Defense to infringement based on prior commercial use
+## § 273. Defense to infringement based on prior commercial use
 
 **(a) In General.—** A person shall be entitled to a defense under section 282(b) with respect to subject matter consisting of a process, or consisting of a machine, manufacture, or composition of matter used in a manufacturing or other commercial process, that would otherwise infringe a claimed invention being asserted against the person if—
 
@@ -259,7 +259,7 @@ Amendment by Pub. L. 103–465 effective on date that is one year after date on 
 
 **(A) In general.—** A person commercially using subject matter to which subsection (a) applies may not assert a defense under this section if the claimed invention with respect to which the defense is asserted was, at the time the invention was made, owned or subject to an obligation of assignment to either an institution of higher education (as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)),1
 
-<sup>1</sup>  So in original. Another closing parenthesis probably should precede the comma.
+<sup>1</sup> So in original. Another closing parenthesis probably should precede the comma.
 
 or a technology transfer organization whose primary purpose is to facilitate the commercialization of technologies developed by one or more such institutions of higher education.
 
@@ -269,7 +269,7 @@ or a technology transfer organization whose primary purpose is to facilitate the
 
 **(g) Invalidity.—** A patent shall not be deemed to be invalid under section 102 or 103 solely because a defense is raised or established under this section.
 
-(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4302(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–555; amended Pub. L. 112–29, § 5(a), Sept. 16, 2011, 125 Stat. 297.)
+(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4302(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–555; amended Pub. L. 112–29, § 5(a), Sept. 16, 2011, 125 Stat. 297.)
 
 **Editorial Notes**
 
@@ -281,8 +281,8 @@ or a technology transfer organization whose primary purpose is to facilitate the
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–29, § 5(c), Sept. 16, 2011, 125 Stat. 299, provided that: “The amendments made by this section [amending this section] shall apply to any patent issued on or after the date of the enactment of this Act [Sept. 16, 2011].”
+Pub. L. 112–29, § 5(c), Sept. 16, 2011, 125 Stat. 299, provided that: “The amendments made by this section [amending this section] shall apply to any patent issued on or after the date of the enactment of this Act [Sept. 16, 2011].”
 
 **Effective Date**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle C, § 4303], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, provided that: “This subtitle [enacting this section and provisions set out as a note under section 1 of this title] and the amendments made by this subtitle shall take effect on the date of the enactment of this Act [Nov. 29, 1999], but shall not apply to any action for infringement that is pending on such date of enactment or with respect to any subject matter for which an adjudication of infringement, including a consent judgment, has been made before such date of enactment.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle C, § 4303], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, provided that: “This subtitle [enacting this section and provisions set out as a note under section 1 of this title] and the amendments made by this subtitle shall take effect on the date of the enactment of this Act [Nov. 29, 1999], but shall not apply to any action for infringement that is pending on such date of enactment or with respect to any subject matter for which an adjudication of infringement, including a consent judgment, has been made before such date of enactment.”

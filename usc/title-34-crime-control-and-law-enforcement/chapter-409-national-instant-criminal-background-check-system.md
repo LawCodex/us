@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 409—NATIONAL INSTANT CRIMINAL BACKGROUND CHECK SYSTEM
 
-## § 40901. Establishment
+## § 40901. Establishment
 
 **(a) Determination of timetables** Not later than 6 months after November 30, 1993, the Attorney General shall—
 
@@ -217,7 +217,7 @@ There are authorized to be appropriated such sums as are necessary to enable the
 
 **(B)** receipt of a firearm by the person would violate subsection (g) or (n) of such section 922, or State, local, or Tribal law.
 
-(Pub. L. 103–159, title I, § 103, Nov. 30, 1993, 107 Stat. 1541; Pub. L. 103–322, title XXI, § 210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, § 603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504; Pub. L. 110–180, title I, § 101(a), Jan. 8, 2008, 121 Stat. 2561; Pub. L. 115–141, div. S, title VI, § 602, Mar. 23, 2018, 132 Stat. 1132; Pub. L. 117–159, div. A, title II, §§ 12001(a)(2), (3), 12004(h)(1), June 25, 2022, 136 Stat. 1323, 1324, 1330.)
+(Pub. L. 103–159, title I, § 103, Nov. 30, 1993, 107 Stat. 1541; Pub. L. 103–322, title XXI, § 210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, § 603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504; Pub. L. 110–180, title I, § 101(a), Jan. 8, 2008, 121 Stat. 2561; Pub. L. 115–141, div. S, title VI, § 602, Mar. 23, 2018, 132 Stat. 1132; Pub. L. 117–159, div. A, title II, §§ 12001(a)(2), (3), 12004(h)(1), June 25, 2022, 136 Stat. 1323, 1324, 1330.)
 
 **Amendment of Subsection (*l*)**
 
@@ -227,7 +227,7 @@ For repeal of amendment by section 12001(a)(3) of Pub. L. 117–159, see Termina
 
 **References in Text**
 
-The Fair Credit Reporting Act, referred to in subsec. (b)(2)(C), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Fair Credit Reporting Act, referred to in subsec. (b)(2)(C), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 **Codification**
 
@@ -237,23 +237,23 @@ Section was formerly classified as a note under section 922 of Title 18, Crimes 
 
 **Amendments**
 
-2022—Subsec. (b). Pub. L. 117–159, § 12004(h)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+2022—Subsec. (b). Pub. L. 117–159, § 12004(h)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (*l*). Pub. L. 117–159, § 12001(a)(2), (3), temporarily added subsec. (*l*). See Termination Date of 2022 Amendment note below.
+Subsec. (*l*). Pub. L. 117–159, § 12001(a)(2), (3), temporarily added subsec. (*l*). See Termination Date of 2022 Amendment note below.
 
-2018—Subsec. (e)(1)(F) to (K). Pub. L. 115–141, § 602(1), added subpars. (F) to (K).
+2018—Subsec. (e)(1)(F) to (K). Pub. L. 115–141, § 602(1), added subpars. (F) to (K).
 
-Subsec. (g). Pub. L. 115–141, § 602(2), inserted at end “For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee is the subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expenses of the Federal Bureau of Investigation to comply with this subsection.”
+Subsec. (g). Pub. L. 115–141, § 602(2), inserted at end “For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee is the subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expenses of the Federal Bureau of Investigation to comply with this subsection.”
 
 2008—Subsec. (e)(1). Pub. L. 110–180 designated first and second sentences as subpars. (A) and (B), respectively, inserted subpar. headings, substituted “furnish electronic versions of the information described under subparagraph (A)” for “furnish such information” in subpar. (B), and added subpar. (C).
 
-1996—Subsecs. (e)(1), (g). Pub. L. 104–294, § 603(h), made technical amendment to reference in original act which appears in text as reference to subsection (g) or (n) of section 922 of title 18.
+1996—Subsecs. (e)(1), (g). Pub. L. 104–294, § 603(h), made technical amendment to reference in original act which appears in text as reference to subsection (g) or (n) of section 922 of title 18.
 
-Subsec. (i)(2). Pub. L. 104–294, § 603(h), made technical amendment to reference in original act which appears in text as reference to section 922(g) or (n) of title 18.
+Subsec. (i)(2). Pub. L. 104–294, § 603(h), made technical amendment to reference in original act which appears in text as reference to section 922(g) or (n) of title 18.
 
-Subsec. (k). Pub. L. 104–294, § 603(i)(1), amended directory language of Pub. L. 103–322, § 210603(b). See 1994 Amendment note below.
+Subsec. (k). Pub. L. 104–294, § 603(i)(1), amended directory language of Pub. L. 103–322, § 210603(b). See 1994 Amendment note below.
 
-1994—Subsec. (k). Pub. L. 103–322, § 210603(b), as amended by Pub. L. 104–294, § 603(i)(1), struck out “, which may be appropriated from the Violent Crime Reduction Trust Fund established by section 1115 of title 31” after “authorized to be appropriated”.
+1994—Subsec. (k). Pub. L. 103–322, § 210603(b), as amended by Pub. L. 104–294, § 603(i)(1), struck out “, which may be appropriated from the Violent Crime Reduction Trust Fund established by section 1115 of title 31” after “authorized to be appropriated”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -277,7 +277,7 @@ Nothing in amendment made by section 12004(h)(1) of Pub. L. 117–159 to be cons
 
 **Report on Removing Outdated, Expired, or Erroneous Records**
 
-Pub. L. 117–159, div. A, title II, § 12001(b), June 25, 2022, 136 Stat. 1324, provided that:
+Pub. L. 117–159, div. A, title II, § 12001(b), June 25, 2022, 136 Stat. 1324, provided that:
 
 > **“(1) In general.—** On an annual basis for each fiscal year through fiscal year 2032, each State and Federal agency responsible for the submission of disqualifying records under subsection (d), (g), or (n) of section 922 of title 18, United States Code, to the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901) shall submit to the Committee on the Judiciary and the Committee on Appropriations of the Senate and the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives a report detailing the removal from the system of records that no longer prohibit an individual from lawfully acquiring or possessing a firearm under such subsection (d), (g), or (n).
 
@@ -291,7 +291,7 @@ Pub. L. 117–159, div. A, title II, § 12001(b), June 25, 2022, 136 Stat. 132
 
 **Destruction of Identifying Information for Persons Not Prohibited From Possessing or Receiving Firearms**
 
-Pub. L. 112–55, div. B, title V, § 511, Nov. 18, 2011, 125 Stat. 632, provided that:
+Pub. L. 112–55, div. B, title V, § 511, Nov. 18, 2011, 125 Stat. 632, provided that:
 
 > “Hereafter, none of the funds appropriated pursuant to this Act [div. B of Pub. L. 112–55, see Tables for classification] or any other provision of law may be used for—
 
@@ -301,13 +301,13 @@ Pub. L. 112–55, div. B, title V, § 511, Nov. 18, 2011, 125 Stat. 632, provi
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 106–58, title VI, § 634, Sept. 29, 1999, 113 Stat. 473.
+Pub. L. 106–58, title VI, § 634, Sept. 29, 1999, 113 Stat. 473.
 
-Pub. L. 105–277, div. A, § 101(h) [title VI, § 655], Oct. 21, 1998, 112 Stat. 2681–480, 2681–530.
+Pub. L. 105–277, div. A, § 101(h) [title VI, § 655], Oct. 21, 1998, 112 Stat. 2681–480, 2681–530.
 
 **Identification of Felons and Other Persons Ineligible To Purchase Handguns**
 
-Pub. L. 100–690, title VI, § 6213, Nov. 18, 1988, 102 Stat. 4360, provided that:
+Pub. L. 100–690, title VI, § 6213, Nov. 18, 1988, 102 Stat. 4360, provided that:
 
 > **“(a) Identification of Felons Ineligible To Purchase Handguns.—** The Attorney General shall develop a system for immediate and accurate identification of felons who attempt to purchase 1 or more firearms but are ineligible to purchase firearms by reason of section 922(g)(1) of title 18, United States Code. The system shall be accessible to dealers but only for the purpose of determining whether a potential purchaser is a convicted felon. The Attorney General shall establish a plan (including a cost analysis of the proposed system) for implementation of the system. In developing the system, the Attorney General shall consult with the Secretary of the Treasury, other Federal, State, and local law enforcement officials with expertise in the area, and other experts. The Attorney General shall begin implementation of the system 30 days after the report to the Congress as provided in subsection (b).
 
@@ -383,7 +383,7 @@ Sec. 4. *Publication*. The Attorney General is hereby authorized and directed to
 
 Barack Obama.
 
-## § 40902. Findings
+## § 40902. Findings
 
 Congress finds the following:
 
@@ -413,7 +413,7 @@ Congress finds the following:
 
 **(9)** On April 16, 2007, a student with a history of mental illness at the Virginia Polytechnic Institute and State University shot to death 32 students and faculty members, wounded 17 more, and then took his own life. The shooting, the deadliest campus shooting in United States history, renewed the need to improve information-sharing that would enable Federal and State law enforcement agencies to conduct complete background checks on potential firearms purchasers. In spite of a proven history of mental illness, the shooter was able to purchase the two firearms used in the shooting. Improved coordination between State and Federal authorities could have ensured that the shooter’s disqualifying mental health information was available to NICS.
 
-(Pub. L. 110–180, § 2, Jan. 8, 2008, 121 Stat. 2559.)
+(Pub. L. 110–180, § 2, Jan. 8, 2008, 121 Stat. 2559.)
 
 **Editorial Notes**
 
@@ -421,7 +421,7 @@ Congress finds the following:
 
 Section was formerly classified in a note under section 922 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
 
-## § 40903. Definitions
+## § 40903. Definitions
 
 As used in this chapter, the following definitions shall apply:
 
@@ -437,7 +437,7 @@ The terms “adjudicated as a mental defective” and “committed to a mental i
 
 The term “misdemeanor crime of domestic violence” has the meaning given the term in section 921(a)(33) of title 18.
 
-(Pub. L. 110–180, § 3, Jan. 8, 2008, 121 Stat. 2560.)
+(Pub. L. 110–180, § 3, Jan. 8, 2008, 121 Stat. 2560.)
 
 **Editorial Notes**
 
@@ -447,7 +447,7 @@ Section was formerly classified in a note under section 922 of Title 18, Crimes 
 
 ## SUBCHAPTER I—TRANSMITTAL OF RECORDS
 
-### § 40911. Enhancement of requirement that Federal departments and agencies provide relevant information to the National Instant Criminal Background Check System
+### § 40911. Enhancement of requirement that Federal departments and agencies provide relevant information to the National Instant Criminal Background Check System
 
 **(a) Omitted**
 
@@ -525,7 +525,7 @@ In the case of an adjudication related to the mental health of a person or a com
 
 Except for paragraph (3), this subsection shall apply to names and other information provided before, on, or after January 8, 2008. Any name or information provided in violation of this subsection (other than in violation of paragraph (3)) before, on, or after such date shall be removed from the National Instant Criminal Background Check System.
 
-(Pub. L. 110–180, title I, § 101, Jan. 8, 2008, 121 Stat. 2561; Pub. L. 116–283, div. A, title V, § 544, Jan. 1, 2021, 134 Stat. 3613.)
+(Pub. L. 110–180, title I, § 101, Jan. 8, 2008, 121 Stat. 2561; Pub. L. 116–283, div. A, title V, § 544, Jan. 1, 2021, 134 Stat. 3613.)
 
 **Editorial Notes**
 
@@ -629,7 +629,7 @@ Sec. 5. *Publication*. The Attorney General is hereby authorized and directed to
 
 Barack Obama.
 
-### § 40912. Requirements to obtain waiver
+### § 40912. Requirements to obtain waiver
 
 **(a) In general**
 
@@ -709,7 +709,7 @@ For any information provided to the Attorney General for use by the National Ins
 
 Not later than January 31 of each year, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report on the progress of States in automating the databases containing the information described in subsection (b) and in making that information electronically available to the Attorney General pursuant to the requirements of subsection (c).
 
-(Pub. L. 110–180, title I, § 102, Jan. 8, 2008, 121 Stat. 2564; Pub. L. 115–141, div. S, title VI, § 603(a), Mar. 23, 2018, 132 Stat. 1135.)
+(Pub. L. 110–180, title I, § 102, Jan. 8, 2008, 121 Stat. 2564; Pub. L. 115–141, div. S, title VI, § 603(a), Mar. 23, 2018, 132 Stat. 1135.)
 
 **Editorial Notes**
 
@@ -719,11 +719,11 @@ Section was formerly classified in a note under section 922 of Title 18, Crimes 
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–141, § 603(a)(1), substituted “section 40301 of this title” for “the Crime Identification Technology Act of 1988 (42 U.S.C. 14601)” and inserted “is in compliance with an implementation plan established under subsection (b) or” before “provides at least 90 percent of the information described in subsection (c)”.
+2018—Subsec. (a). Pub. L. 115–141, § 603(a)(1), substituted “section 40301 of this title” for “the Crime Identification Technology Act of 1988 (42 U.S.C. 14601)” and inserted “is in compliance with an implementation plan established under subsection (b) or” before “provides at least 90 percent of the information described in subsection (c)”.
 
-Subsec. (b)(1)(B). Pub. L. 115–141, § 603(a)(2), inserted “or has established an implementation plan under section 40917 of this title” after “the Attorney General”.
+Subsec. (b)(1)(B). Pub. L. 115–141, § 603(a)(2), inserted “or has established an implementation plan under section 40917 of this title” after “the Attorney General”.
 
-### § 40913. Implementation assistance to States
+### § 40913. Implementation assistance to States
 
 **(a) Authorization**
 
@@ -791,7 +791,7 @@ The Federal Bureau of Investigation shall not charge a user fee for background c
 
 **(2)** provide technical assistance and training services to grantees under this section.
 
-(Pub. L. 110–180, title I, § 103, Jan. 8, 2008, 121 Stat. 2567; Pub. L. 115–141, div. S, title VI, § 603(b), Mar. 23, 2018, 132 Stat. 1135.)
+(Pub. L. 110–180, title I, § 103, Jan. 8, 2008, 121 Stat. 2567; Pub. L. 115–141, div. S, title VI, § 603(b), Mar. 23, 2018, 132 Stat. 1135.)
 
 **Editorial Notes**
 
@@ -801,15 +801,15 @@ Section was formerly classified in a note under section 922 of Title 18, Crimes 
 
 **Amendments**
 
-2018—Subsec. (b)(3). Pub. L. 115–141, § 603(b)(1), inserted before semicolon at end “, including through increased efforts to pre-validate the contents of those records to expedite eligibility determinations”.
+2018—Subsec. (b)(3). Pub. L. 115–141, § 603(b)(1), inserted before semicolon at end “, including through increased efforts to pre-validate the contents of those records to expedite eligibility determinations”.
 
-Subsec. (e)(1). Pub. L. 115–141, § 603(b)(2)(A), struck out “and” after “2012,” and inserted before period at end “, and $125,000,000 for each of fiscal years 2018 through 2022”.
+Subsec. (e)(1). Pub. L. 115–141, § 603(b)(2)(A), struck out “and” after “2012,” and inserted before period at end “, and $125,000,000 for each of fiscal years 2018 through 2022”.
 
-Subsec. (e)(2). Pub. L. 115–141, § 603(b)(2)(B), added par. (2) and struck out former par. (2) which related to allocations for fiscal years 2009 to 2013.
+Subsec. (e)(2). Pub. L. 115–141, § 603(b)(2)(B), added par. (2) and struck out former par. (2) which related to allocations for fiscal years 2009 to 2013.
 
-Subsec. (g). Pub. L. 115–141, § 603(b)(3), added subsec. (g).
+Subsec. (g). Pub. L. 115–141, § 603(b)(3), added subsec. (g).
 
-### § 40914. Penalties for noncompliance
+### § 40914. Penalties for noncompliance
 
 **(a) Attorney General report**
 
@@ -845,7 +845,7 @@ Any funds that are not allocated to a State because of the failure of the State 
 
 The method established to calculate the number of records to be reported, as set forth in section 40912(b)(1)(A) of this title, and State compliance with the required level of reporting under sections 40912 and 40913 of this title shall be determined by the Attorney General. The Attorney General shall calculate the methodology based on the total number of records to be reported from all subcategories of records, as described in section 40912(b)(1)(C) of this title.
 
-(Pub. L. 110–180, title I, § 104, Jan. 8, 2008, 121 Stat. 2568.)
+(Pub. L. 110–180, title I, § 104, Jan. 8, 2008, 121 Stat. 2568.)
 
 **Editorial Notes**
 
@@ -853,7 +853,7 @@ The method established to calculate the number of records to be reported, as set
 
 Section was formerly classified in a note under section 922 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
 
-### § 40915. Relief from disabilities program required as condition for participation in grant programs
+### § 40915. Relief from disabilities program required as condition for participation in grant programs
 
 **(a) Program described** A relief from disabilities program is implemented by a State in accordance with this section if the program—
 
@@ -867,7 +867,7 @@ Section was formerly classified in a note under section 922 of Title 18, Crimes 
 
 If, under a State relief from disabilities program implemented in accordance with this section, an application for relief referred to in subsection (a)(1) of this section is granted with respect to an adjudication or a commitment to a mental institution or based upon a removal of a record under section 40912(c)(1)(B) of this title, the adjudication or commitment, as the case may be, is deemed not to have occurred for purposes of subsections (d)(4) and (g)(4) of section 922 of title 18.
 
-(Pub. L. 110–180, title I, § 105, Jan. 8, 2008, 121 Stat. 2569.)
+(Pub. L. 110–180, title I, § 105, Jan. 8, 2008, 121 Stat. 2569.)
 
 **Editorial Notes**
 
@@ -875,7 +875,7 @@ If, under a State relief from disabilities program implemented in accordance wit
 
 Section was formerly classified in a note under section 922 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
 
-### § 40916. Illegal immigrant gun purchase notification
+### § 40916. Illegal immigrant gun purchase notification
 
 **(a) In general**
 
@@ -885,7 +885,7 @@ Notwithstanding any other provision of law or of this chapter, all records obtai
 
 The Attorney General, at his or her discretion, shall promulgate guidelines relevant to what records relevant to illegal aliens shall be provided pursuant to the provisions of this chapter.
 
-(Pub. L. 110–180, title I, § 106, Jan. 8, 2008, 121 Stat. 2570.)
+(Pub. L. 110–180, title I, § 106, Jan. 8, 2008, 121 Stat. 2570.)
 
 **Editorial Notes**
 
@@ -893,13 +893,13 @@ The Attorney General, at his or her discretion, shall promulgate guidelines rele
 
 Section was formerly classified in a note under section 922 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
 
-### § 40917. Implementation plan
+### § 40917. Implementation plan
 
 **(a) In general**
 
-Not later than 1 year after March 23, 2018, the Attorney General, in coordination with the States and Indian tribal governments, shall establish, for each State or Indian tribal government, a plan to ensure maximum coordination and automation of the reporting or making available of appropriate records to the National Instant Criminal Background Check System established under section 40901 of this title and the verification of the accuracy of those records during a 4-year period specified in the plan. The records shall be limited to those of an individual described in subsection (g) or (n) of section 922 of title 18 1
+Not later than 1 year after March 23, 2018, the Attorney General, in coordination with the States and Indian tribal governments, shall establish, for each State or Indian tribal government, a plan to ensure maximum coordination and automation of the reporting or making available of appropriate records to the National Instant Criminal Background Check System established under section 40901 of this title and the verification of the accuracy of those records during a 4-year period specified in the plan. The records shall be limited to those of an individual described in subsection (g) or (n) of section 922 of title 18 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(b) Benchmark requirements** Each plan established under this section shall include annual benchmarks to enable the Attorney General to assess the implementation of the plan, including—
 
@@ -929,11 +929,11 @@ Not later than the end of each fiscal year beginning after the date of the estab
 
 For each of fiscal years 2018 through 2022, the Attorney General shall give affirmative preference to all Bureau of Justice Assistance discretionary grant applications of a State or Indian tribal government that received a determination of substantial compliance under subsection (c) for the fiscal year in which the grant was solicited.
 
-(Pub. L. 110–180, title I, § 107, as added Pub. L. 115–141, div. S, title VI, § 605(a), Mar. 23, 2018, 132 Stat. 1137.)
+(Pub. L. 110–180, title I, § 107, as added Pub. L. 115–141, div. S, title VI, § 605(a), Mar. 23, 2018, 132 Stat. 1137.)
 
 ## SUBCHAPTER II—FOCUSING FEDERAL ASSISTANCE ON THE IMPROVEMENT OF RELEVANT RECORDS
 
-### § 40931. Continuing evaluations
+### § 40931. Continuing evaluations
 
 **(a) Evaluation required**
 
@@ -951,7 +951,7 @@ Not later than January 31 of each year, the Director shall submit to Congress, a
 
 There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2013 to complete the studies, evaluations, and reports required under this section.
 
-(Pub. L. 110–180, title II, § 201, Jan. 8, 2008, 121 Stat. 2570.)
+(Pub. L. 110–180, title II, § 201, Jan. 8, 2008, 121 Stat. 2570.)
 
 **Editorial Notes**
 
@@ -961,7 +961,7 @@ Section was formerly classified in a note under section 922 of Title 18, Crimes 
 
 ## SUBCHAPTER III—GRANTS TO STATE COURT SYSTEMS FOR THE IMPROVEMENT IN AUTOMATION AND TRANSMITTAL OF DISPOSITION RECORDS
 
-### § 40941. Disposition records automation and transmittal improvement grants
+### § 40941. Disposition records automation and transmittal improvement grants
 
 **(a) Grants authorized**
 
@@ -985,7 +985,7 @@ To be eligible to receive a grant under this section, a State shall certify, to 
 
 There are authorized to be appropriated to the Attorney General to carry out this section $62,500,000 for fiscal year 2009, $125,000,000 for fiscal year 2010, $125,000,000 for fiscal year 2011, $62,500,000 for fiscal year 2012, and $62,500,000 for fiscal year 2013.
 
-(Pub. L. 110–180, title III, § 301, Jan. 8, 2008, 121 Stat. 2571.)
+(Pub. L. 110–180, title III, § 301, Jan. 8, 2008, 121 Stat. 2571.)
 
 **Editorial Notes**
 

@@ -19,35 +19,35 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–81, div. A, title V, § 527(c)(2), Dec. 31, 2011, 125 Stat. 1402, substituted “Members determined fit for duty in Physical Evaluation Board: prohibition on involuntary administrative separation or denial of reenlistment due to unsuitability based on medical conditions considered in evaluation” for “Members determined fit for duty in Physical Evaluation Board evaluation: prohibition on involuntary administrative separation due to unsuitability based on medical conditions considered in evaluation” in item 1214a.
+2011—Pub. L. 112–81, div. A, title V, § 527(c)(2), Dec. 31, 2011, 125 Stat. 1402, substituted “Members determined fit for duty in Physical Evaluation Board: prohibition on involuntary administrative separation or denial of reenlistment due to unsuitability based on medical conditions considered in evaluation” for “Members determined fit for duty in Physical Evaluation Board evaluation: prohibition on involuntary administrative separation due to unsuitability based on medical conditions considered in evaluation” in item 1214a.
 
-Pub. L. 111–383, div. A, title V, § 534(a)(2), Jan. 7, 2011, 124 Stat. 4217, added item 1214a.
+Pub. L. 111–383, div. A, title V, § 534(a)(2), Jan. 7, 2011, 124 Stat. 4217, added item 1214a.
 
-2009—Pub. L. 111–84, div. A, title VI, § 641(b), Oct. 28, 2009, 123 Stat. 2365, added item 1218a.
+2009—Pub. L. 111–84, div. A, title VI, § 641(b), Oct. 28, 2009, 123 Stat. 2365, added item 1218a.
 
-2008—Pub. L. 110–181, div. A, title XVI, § 1642(b), Jan. 28, 2008, 122 Stat. 465, added item 1216a.
+2008—Pub. L. 110–181, div. A, title XVI, § 1642(b), Jan. 28, 2008, 122 Stat. 465, added item 1216a.
 
-2006—Pub. L. 109–364, div. A, title V, § 597(a)(2), Oct. 17, 2006, 120 Stat. 2237, added item 1222.
+2006—Pub. L. 109–364, div. A, title V, § 597(a)(2), Oct. 17, 2006, 120 Stat. 2237, added item 1222.
 
-2004—Pub. L. 108–375, div. A, title V, §§ 521(b), 555(b)(2), Oct. 28, 2004, 118 Stat. 1888, 1914, added item 1206a and substituted “Academy cadets and midshipmen: applicability of chapter” for “Cadets, midshipmen, and aviation cadets: chapter does not apply to” in item 1217.
+2004—Pub. L. 108–375, div. A, title V, §§ 521(b), 555(b)(2), Oct. 28, 2004, 118 Stat. 1888, 1914, added item 1206a and substituted “Academy cadets and midshipmen: applicability of chapter” for “Cadets, midshipmen, and aviation cadets: chapter does not apply to” in item 1217.
 
-1999—Pub. L. 106–65, div. A, title VI, § 653(a)(2), Oct. 5, 1999, 113 Stat. 666, added item 1207a.
+1999—Pub. L. 106–65, div. A, title VI, § 653(a)(2), Oct. 5, 1999, 113 Stat. 666, added item 1207a.
 
-1997—Pub. L. 105–85, div. A, title V, § 513(d)(3), Nov. 18, 1997, 111 Stat. 1731, inserted “or on inactive-duty training” after “Members on active duty for 30 days or less” in items 1204 and 1206.
+1997—Pub. L. 105–85, div. A, title V, § 513(d)(3), Nov. 18, 1997, 111 Stat. 1731, inserted “or on inactive-duty training” after “Members on active duty for 30 days or less” in items 1204 and 1206.
 
-1986—Pub. L. 99–661, div. A, title VI, § 604(d)(4), Nov. 14, 1986, 100 Stat. 3876, struck out “; disability from injury” after “30 days or less” in items 1204, 1205, 1206.
+1986—Pub. L. 99–661, div. A, title VI, § 604(d)(4), Nov. 14, 1986, 100 Stat. 3876, struck out “; disability from injury” after “30 days or less” in items 1204, 1205, 1206.
 
-1962—Pub. L. 87–651, title I, § 107(e), Sept. 7, 1962, 76 Stat. 509, substituted “Discharge or release from active duty: claims for compensation, pension, or hospitalization” for “Explanation of rights before discharge” in item 1218, and “Statement of origin of disease or injury: limitations” for “Statement against interest void” in item 1219, and struck out item 1220 “Location of accredited representatives at military installations”.
+1962—Pub. L. 87–651, title I, § 107(e), Sept. 7, 1962, 76 Stat. 509, substituted “Discharge or release from active duty: claims for compensation, pension, or hospitalization” for “Explanation of rights before discharge” in item 1218, and “Statement of origin of disease or injury: limitations” for “Statement against interest void” in item 1219, and struck out item 1220 “Location of accredited representatives at military installations”.
 
-1958—Pub. L. 85–861, § 1(28)(C), Sept. 2, 1958, 72 Stat. 1451, added item 1221.
+1958—Pub. L. 85–861, § 1(28)(C), Sept. 2, 1958, 72 Stat. 1451, added item 1221.
 
-1957—Pub. L. 85–56, title XXII, § 2201(31)(B), June 17, 1957, 71 Stat. 161, eff. Jan. 1, 1958, added items 1218 to 1220.
+1957—Pub. L. 85–56, title XXII, § 2201(31)(B), June 17, 1957, 71 Stat. 161, eff. Jan. 1, 1958, added items 1218 to 1220.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Continuing Military Service for Certain Members Eligible for Chapter 61 Retirement**
 
-Pub. L. 118–31, div. A, title V, § 529, Dec. 22, 2023, 137 Stat. 256, provided that:
+Pub. L. 118–31, div. A, title V, § 529, Dec. 22, 2023, 137 Stat. 256, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall prescribe regulations that authorize the Secretary of the military department concerned to authorize a covered member to continue to serve in the Armed Forces—
 
@@ -73,7 +73,7 @@ Pub. L. 118–31, div. A, title V, § 529, Dec. 22, 2023, 137 Stat. 256, provi
 
 > **“(3)** who seeks to continue to serve in the Armed Forces instead of taking such retirement.”
 
-## § 1201. Regulars and members on active duty for more than 30 days: retirement
+## § 1201. Regulars and members on active duty for more than 30 days: retirement
 
 **(a) Retirement.—** Upon a determination by the Secretary concerned that a member described in subsection (c) is unfit to perform the duties of the member’s office, grade, rank, or rating because of physical disability incurred while entitled to basic pay or while absent as described in subsection (c)(3), the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also makes the determinations with respect to the member and that disability specified in subsection (b).
 
@@ -105,7 +105,7 @@ Pub. L. 118–31, div. A, title V, § 529, Dec. 22, 2023, 137 Stat. 256, provi
 
 **(3)** Any other member of the armed forces who is on active duty but is not entitled to basic pay by reason of section 502(b) of title 37 due to authorized absence (A) to participate in an educational program, or (B) for an emergency purpose, as determined by the Secretary concerned.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 91; Pub. L. 85–861, § 1(28)(A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–651, title I, § 107(a), Sept. 7, 1962, 76 Stat. 508; Pub. L. 95–377, § 3(1), Sept. 19, 1978, 92 Stat. 719; Pub. L. 96–343, § 10(c)(1), Sept. 8, 1980, 94 Stat. 1129; Pub. L. 96–513, title I, § 117, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 99–145, title V, § 513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–337, div. A, title XVI, § 1671(c)(6), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title V, § 572(a), Sept. 23, 1996, 110 Stat. 2533; Pub. L. 110–181, div. A, title XVI, § 1641(a), Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–417, [div. A], title VII, § 727(a), Oct. 14, 2008, 122 Stat. 4510.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 91; Pub. L. 85–861, § 1(28)(A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–651, title I, § 107(a), Sept. 7, 1962, 76 Stat. 508; Pub. L. 95–377, § 3(1), Sept. 19, 1978, 92 Stat. 719; Pub. L. 96–343, § 10(c)(1), Sept. 8, 1980, 94 Stat. 1129; Pub. L. 96–513, title I, § 117, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 99–145, title V, § 513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–337, div. A, title XVI, § 1671(c)(6), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title V, § 572(a), Sept. 23, 1996, 110 Stat. 2533; Pub. L. 110–181, div. A, title XVI, § 1641(a), Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–417, [div. A], title VII, § 727(a), Oct. 14, 2008, 122 Stat. 4510.)
 
 **Historical and Revision Notes**
 
@@ -113,7 +113,7 @@ Pub. L. 118–31, div. A, title V, § 529, Dec. 22, 2023, 137 Stat. 256, provi
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1201 | 37:272(a) (less clause (5), and less 2d proviso). 37:272(b) (less clause (5), and less 2d and last provisos). 37:272(f) (less applicability to 37:272(c) and (e)). | Oct. 12, 1949, ch. 681, § 402(a) (less clause (5), and less 2d proviso), (b) (less clause (5), and less 2d and last provisos), (f) (less applicability to § 402(c) and (e)), 63 Stat. 816, 817, 820. |
+| 1201 | 37:272(a) (less clause (5), and less 2d proviso). 37:272(b) (less clause (5), and less 2d and last provisos). 37:272(f) (less applicability to 37:272(c) and (e)). | Oct. 12, 1949, ch. 681, § 402(a) (less clause (5), and less 2d proviso), (b) (less clause (5), and less 2d and last provisos), (f) (less applicability to § 402(c) and (e)), 63 Stat. 816, 817, 820. |
 
 The words “any other member” are substituted for the words “a member of a Reserve component”, in 37:272(a) and (b), since the words “Reserve component” are defined by section 102(k) of the Career Compensation Act of 1949, 63 Stat. 805 (37 U.S.C. 231(k)), to include members appointed, enlisted, or inducted without component. The words “active duty (other than for training)” are substituted for the words “extended active duty” for clarity and to reflect the opinion of the Comptroller General in 31 Comp. Gen. 95, 99. The words “if the Secretary also determines that” are substituted for the words “That if condition (5) above is met by a finding that”, in 37:272(a) and (b). The words “of such member”, “upon retirement”, and “to receive”, in 37:272(a), are omitted as surplusage.
 
@@ -167,7 +167,7 @@ Pub. L. 96–343 added cl. (iv).
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–201, div. A, title V, § 572(d), Sept. 23, 1996, 110 Stat. 2533, provided that: “The amendments made by this section [amending this section and sections 1202 and 1203 of this title] shall take effect on the date of the enactment of this Act [Sept. 23, 1996] and shall apply with respect to physical disabilities incurred on or after such date.”
+Pub. L. 104–201, div. A, title V, § 572(d), Sept. 23, 1996, 110 Stat. 2533, provided that: “The amendments made by this section [amending this section and sections 1202 and 1203 of this title] shall take effect on the date of the enactment of this Act [Sept. 23, 1996] and shall apply with respect to physical disabilities incurred on or after such date.”
 
 **Effective Date of 1994 Amendment**
 
@@ -179,7 +179,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 **Effective and Termination Dates of 1978 Amendment**
 
-Pub. L. 95–377, § 3, Sept. 19, 1978, 92 Stat. 719, provided that the amendment made by that section is effective only for the period beginning Sept. 15, 1978, and ending Sept. 30, 1979.
+Pub. L. 95–377, § 3, Sept. 19, 1978, 92 Stat. 719, provided that the amendment made by that section is effective only for the period beginning Sept. 15, 1978, and ending Sept. 30, 1979.
 
 **Public Health Service**
 
@@ -195,11 +195,11 @@ Authority vested by this chapter in “military departments”, “the Secretary
 
 Ex. Ord. No. 12239, Sept. 21, 1980, 45 F.R. 62967, which related to suspension of certain promotion and disability separation limitations, was revoked by Ex. Ord. No. 12396, Dec. 9, 1982, 47 F.R. 55897, set out as a note under section 301 of Title 3, The President.
 
-## § 1202. Regulars and members on active duty for more than 30 days: temporary disability retired list
+## § 1202. Regulars and members on active duty for more than 30 days: temporary disability retired list
 
 Upon a determination by the Secretary concerned that a member described in section 1201(c) of this title would be qualified for retirement under section 1201 of this title but for the fact that his disability is not determined to be of a permanent nature and stable, the Secretary shall, if he also determines that accepted medical principles indicate that the disability may be of a permanent nature, place the member’s name on the temporary disability retired list, with retired pay computed under section 1401 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 92; Pub. L. 85–861, § 1(28)(A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–651, title I, § 107(a), Sept. 7, 1962, 76 Stat. 508; Pub. L. 99–145, title V, § 513(a)(1)(B), Nov. 8, 1985, 99 Stat. 627; Pub. L. 103–337, div. A, title XVI, § 1671(c)(6), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title V, § 572(b), Sept. 23, 1996, 110 Stat. 2533.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 92; Pub. L. 85–861, § 1(28)(A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–651, title I, § 107(a), Sept. 7, 1962, 76 Stat. 508; Pub. L. 99–145, title V, § 513(a)(1)(B), Nov. 8, 1985, 99 Stat. 627; Pub. L. 103–337, div. A, title XVI, § 1671(c)(6), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title V, § 572(b), Sept. 23, 1996, 110 Stat. 2533.)
 
 **Historical and Revision Notes**
 
@@ -207,7 +207,7 @@ Upon a determination by the Secretary concerned that a member described in secti
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1202 | 37:272(a) (clause (5)). 37:272(b) (clause (5)). | Oct. 12, 1949, ch. 681, § 402(a) (clause (5)), (b) (clause (5)), 63 Stat. 816, 817. |
+| 1202 | 37:272(a) (clause (5)). 37:272(b) (clause (5)). | Oct. 12, 1949, ch. 681, § 402(a) (clause (5)), (b) (clause (5)), 63 Stat. 816, 817. |
 
 The first 82 words are inserted for clarity and are based on the rule stated in section 1201 of this title, which restates that part of 37:272(a), (b), and (f) relating to retirement for physical disability. The revised section incorporates by reference those provisions which are identical for retirement and for placement on the temporary disability retired list. This is possible, since 37:272(f) applies to placement on the temporary disability retired list as well as to retirement (see opinion of the Judge Advocate General of the Army (JAGA 1953/1900, 9 Mar. 1953)).
 
@@ -247,7 +247,7 @@ Amendment by Pub. L. 104–201 effective Sept. 23, 1996, and applicable with res
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-## § 1203. Regulars and members on active duty for more than 30 days: separation
+## § 1203. Regulars and members on active duty for more than 30 days: separation
 
 **(a) Separation.—** Upon a determination by the Secretary concerned that a member described in section 1201(c) of this title is unfit to perform the duties of the member’s office, grade, rank, or rating because of physical disability incurred while entitled to basic pay or while absent as described in section 1201(c)(3) of this title, the member may be separated from the member’s armed force, with severance pay computed under section 1212 of this title, if the Secretary also makes the determinations with respect to the member and that disability specified in subsection (b).
 
@@ -269,7 +269,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 However, if the member is eligible for transfer to the inactive status list under section 1209 of this title, and so elects, he shall be transferred to that list instead of being separated.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 92; Pub. L. 85–861, § 1(28)(A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–651, title I, § 107(a), Sept. 7, 1962, 76 Stat. 508; Pub. L. 95–377, § 3(2), (3), Sept. 19, 1978, 92 Stat. 719, 720; Pub. L. 96–343, § 10(c)(2), (3), Sept. 8, 1980, 94 Stat. 1129; Pub. L. 96–513, title I, § 117, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–337, div. A, title XVI, § 1671(c)(6), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title V, § 572(c), Sept. 23, 1996, 110 Stat. 2533; Pub. L. 110–181, div. A, title XVI, § 1641(b), Jan. 28, 2008, 122 Stat. 465; Pub. L. 110–417, [div. A], title VII, § 727(b), Oct. 14, 2008, 122 Stat. 4510; Pub. L. 111–383, div. A, title X, § 1075(b)(19), (e)(12), Jan. 7, 2011, 124 Stat. 4370, 4375.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 92; Pub. L. 85–861, § 1(28)(A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–651, title I, § 107(a), Sept. 7, 1962, 76 Stat. 508; Pub. L. 95–377, § 3(2), (3), Sept. 19, 1978, 92 Stat. 719, 720; Pub. L. 96–343, § 10(c)(2), (3), Sept. 8, 1980, 94 Stat. 1129; Pub. L. 96–513, title I, § 117, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–337, div. A, title XVI, § 1671(c)(6), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title V, § 572(c), Sept. 23, 1996, 110 Stat. 2533; Pub. L. 110–181, div. A, title XVI, § 1641(b), Jan. 28, 2008, 122 Stat. 465; Pub. L. 110–417, [div. A], title VII, § 727(b), Oct. 14, 2008, 122 Stat. 4510; Pub. L. 111–383, div. A, title X, § 1075(b)(19), (e)(12), Jan. 7, 2011, 124 Stat. 4370, 4375.)
 
 **Historical and Revision Notes**
 
@@ -277,7 +277,7 @@ However, if the member is eligible for transfer to the inactive status list unde
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1203 | 37:272(a) (2d proviso). 37:272(b) (2d and last provisos). | Oct. 12, 1949, ch. 681, § 402(a) (2d proviso), (b) (2d and last provisos), 63 Stat. 816, 817. |
+| 1203 | 37:272(a) (2d proviso). 37:272(b) (2d and last provisos). | Oct. 12, 1949, ch. 681, § 402(a) (2d proviso), (b) (2d and last provisos), 63 Stat. 816, 817. |
 
 To state fully in the revised section the rule contained in 37:272(a) (2d proviso) and 272(b) (2d and last provisos), the provisions of 37:272(a) (less clause (5), and less 1st proviso), 272(b) (less clause (5), and less 1st proviso) and 272(f) (less applicability to 37:272(c) and (e)), also contained in section 1201 of this title, are repeated. The words “the member may be separated” are substituted for the words “the member concerned shall not be eligible for any disability retirement provided in this section, but may be separated for physical disability,” in 37:272(a) (2d proviso) and 37:272(b) (2d proviso).
 
@@ -307,15 +307,15 @@ The changes correct typographical errors.
 
 **Amendments**
 
-2011—Subsec. (b)(4)(B). Pub. L. 111–383, § 1075(e)(12), made technical amendment to directory language of Pub. L. 110–417, § 727(b)(2). See 2008 Amendment note below.
+2011—Subsec. (b)(4)(B). Pub. L. 111–383, § 1075(e)(12), made technical amendment to directory language of Pub. L. 110–417, § 727(b)(2). See 2008 Amendment note below.
 
-Pub. L. 111–383, § 1075(b)(19), substituted “determination,” for “determination,,”.
+Pub. L. 111–383, § 1075(b)(19), substituted “determination,” for “determination,,”.
 
-2008—Subsec. (b)(4)(B). Pub. L. 110–417, § 727(b)(2), as amended by Pub. L. 111–383, § 1075(e)(12), substituted “(unless clear and unmistakable evidence demonstrates that the disability existed before the member’s entrance on active duty and was not aggravated by active military service)” for “(unless evidence or medical judgment is such to warrant a finding that the disability existed before the member’s entrance on active duty)”.
+2008—Subsec. (b)(4)(B). Pub. L. 110–417, § 727(b)(2), as amended by Pub. L. 111–383, § 1075(e)(12), substituted “(unless clear and unmistakable evidence demonstrates that the disability existed before the member’s entrance on active duty and was not aggravated by active military service)” for “(unless evidence or medical judgment is such to warrant a finding that the disability existed before the member’s entrance on active duty)”.
 
-Pub. L. 110–417, § 727(b)(1), struck out “the member has six months or more of active military service, and” before “the disability was not noted”.
+Pub. L. 110–417, § 727(b)(1), struck out “the member has six months or more of active military service, and” before “the disability was not noted”.
 
-Pub. L. 110–181 substituted “, the member has six months or more of active military service, and the disability was not noted at the time of the member’s entrance on active duty (unless evidence or medical judgment is such to warrant a finding that the disability existed before the member’s entrance on active duty)” for “and the member has at least eight years of service computed under section 1208 of this title”.
+Pub. L. 110–181 substituted “, the member has six months or more of active military service, and the disability was not noted at the time of the member’s entrance on active duty (unless evidence or medical judgment is such to warrant a finding that the disability existed before the member’s entrance on active duty)” for “and the member has at least eight years of service computed under section 1208 of this title”.
 
 1996—Pub. L. 104–201 added subsec. (a), designated existing provisions as subsec. (b), and substituted introductory provisions of subsec. (b) for “Upon a determination by the Secretary concerned that a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days, is unfit to perform the duties of his office, grade, rank, or rating because of physical disability incurred while entitled to basic pay, the member may be separated from his armed force, with severance pay computed under section 1212 of this title, if the Secretary also determines that—”.
 
@@ -325,15 +325,15 @@ Pub. L. 110–181 substituted “, the member has six months or more of active
 
 1980—Par. (4)(A)(iii). Pub. L. 96–513 substituted “after September 14, 1978” for “during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect”.
 
-Pub. L. 96–343, § 10(c)(2), added cl. (iii).
+Pub. L. 96–343, § 10(c)(2), added cl. (iii).
 
 Par. (4)(C). Pub. L. 96–513 substituted “after September 14, 1978” for “during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect” in cl. (iii).
 
-Pub. L. 96–343, § 10(c)(3), substituted “(i) the proximate result of performing active duty, (ii) incurred in line of duty in time of war or national emergency, nor (iii) incurred in line of duty during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect” for “the proximate result of performing active duty nor incurred in line of duty in time of war or national emergency”.
+Pub. L. 96–343, § 10(c)(3), substituted “(i) the proximate result of performing active duty, (ii) incurred in line of duty in time of war or national emergency, nor (iii) incurred in line of duty during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect” for “the proximate result of performing active duty nor incurred in line of duty in time of war or national emergency”.
 
-1978—Par. (4)(A)(iii). Pub. L. 95–377, § 3(2), added cl. (iii) which provided additional conditions, effective on Presidential determination, that the disability was incurred in the line of duty during Sept. 15, 1978, through Sept. 30, 1979, and which terminated on Sept. 30, 1979. See Effective and Termination Dates of 1978 Amendment note set out under this section.
+1978—Par. (4)(A)(iii). Pub. L. 95–377, § 3(2), added cl. (iii) which provided additional conditions, effective on Presidential determination, that the disability was incurred in the line of duty during Sept. 15, 1978, through Sept. 30, 1979, and which terminated on Sept. 30, 1979. See Effective and Termination Dates of 1978 Amendment note set out under this section.
 
-Par. (4)(C). Pub. L. 95–377, § 3(3), designated existing conditions of performing active duty and incurred in line of duty in time of war or national emergency as cls. (i) and (ii) and added cl. (iii) providing additional condition, effective on Presidential determination, that the disability was incurred in line of duty during Sept. 15, 1978, through Sept. 30, 1979, and terminated on Sept. 30, 1979. See Effective and Termination Dates of 1978 Amendment note set out under this section.
+Par. (4)(C). Pub. L. 95–377, § 3(3), designated existing conditions of performing active duty and incurred in line of duty in time of war or national emergency as cls. (i) and (ii) and added cl. (iii) providing additional condition, effective on Presidential determination, that the disability was incurred in line of duty during Sept. 15, 1978, through Sept. 30, 1979, and terminated on Sept. 30, 1979. See Effective and Termination Dates of 1978 Amendment note set out under this section.
 
 1962—Pub. L. 87–651 substituted “training under section 270(b) of this title)” for “training) under section 270(b) of this title.”
 
@@ -343,7 +343,7 @@ Par. (4)(C). Pub. L. 95–377, § 3(3), designated existing conditions of perf
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title X, § 1075(e)(12), Jan. 7, 2011, 124 Stat. 4375, provided that the amendment by section 1075(e)(12) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–383, div. A, title X, § 1075(e)(12), Jan. 7, 2011, 124 Stat. 4375, provided that the amendment by section 1075(e)(12) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 **Effective Date of 1996 Amendment**
 
@@ -359,7 +359,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 **Effective and Termination Dates of 1978 Amendment**
 
-Pub. L. 95–377, § 3, Sept. 19, 1978, 92 Stat. 719, provided that the amendment made by that section is effective only for the period beginning Sept. 15, 1978, and ending Sept. 30, 1979.
+Pub. L. 95–377, § 3, Sept. 19, 1978, 92 Stat. 719, provided that the amendment made by that section is effective only for the period beginning Sept. 15, 1978, and ending Sept. 30, 1979.
 
 **Executive Documents**
 
@@ -367,7 +367,7 @@ Pub. L. 95–377, § 3, Sept. 19, 1978, 92 Stat. 719, provided that the amendm
 
 For provisions relating to the suspension of certain promotion and disability separation limitations, see Ex. Ord. No. 12239, Sept. 21, 1980, 45 F.R. 62967, set out as a note under section 1201 of this title.
 
-## § 1204. Members on active duty for 30 days or less or on inactive-duty training: retirement
+## § 1204. Members on active duty for 30 days or less or on inactive-duty training: retirement
 
 Upon a determination by the Secretary concerned that a member of the armed forces not covered by section 1201, 1202, or 1203 of this title is unfit to perform the duties of his office, grade, rank, or rating because of physical disability, the Secretary may retire the member with retired pay computed under section 1401 of this title, if the Secretary also determines that—
 
@@ -407,15 +407,15 @@ Upon a determination by the Secretary concerned that a member of the armed force
 
 **(B)** the disability is at least 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 93; Pub. L. 99–145, title V, § 513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 99–661, div. A, title VI, § 604(d)(1), (2)(A), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 102–484, div. A, title V, § 516(a), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 104–201, div. A, title V, § 534, Sept. 23, 1996, 110 Stat. 2521; Pub. L. 105–85, div. A, title V, § 513(c)(1), (d)(1), Nov. 18, 1997, 111 Stat. 1730, 1731; Pub. L. 106–65, div. A, title V, § 578(i)(3), Oct. 5, 1999, 113 Stat. 629; Pub. L. 107–107, div. A, title V, § 513(b), Dec. 28, 2001, 115 Stat. 1093.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 93; Pub. L. 99–145, title V, § 513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 99–661, div. A, title VI, § 604(d)(1), (2)(A), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 102–484, div. A, title V, § 516(a), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 104–201, div. A, title V, § 534, Sept. 23, 1996, 110 Stat. 2521; Pub. L. 105–85, div. A, title V, § 513(c)(1), (d)(1), Nov. 18, 1997, 111 Stat. 1730, 1731; Pub. L. 106–65, div. A, title V, § 578(i)(3), Oct. 5, 1999, 113 Stat. 629; Pub. L. 107–107, div. A, title V, § 513(b), Dec. 28, 2001, 115 Stat. 1093.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1204 | 37:271(a). 37:272(c) (less clause (5), and less last proviso). 37:272(f) (as applicable to 37:272(c)). | Oct. 12, 1949, ch. 681, §§ 401(a), 402(c) (less clause (5), and less last proviso), 402(f) (as applicable to § 402(c)), 63 Stat. 816, 817, 820. |
+| 1204 | 37:271(a). 37:272(c) (less clause (5), and less last proviso). 37:272(f) (as applicable to 37:272(c)). | Oct. 12, 1949, ch. 681, §§ 401(a), 402(c) (less clause (5), and less last proviso), 402(f) (as applicable to § 402(c)), 63 Stat. 816, 817, 820. |
 
-37:271(a) is omitted as surplusage. As it relates to retirement it is only a statement of the general coverage of the retirement sections of this chapter. As it relates to separation it is only a statement of the general coverage of the separation sections of this chapter. The words “a member \* \* \* not covered by section 1201, 1202, or 1203 of this title” are substituted for the words “a member \* \* \* other than those members covered in subsections (a) and (b) of this section”. The words “if the Secretary also determines that” are substituted for the words “That if condition (5) above is met by a finding that”, in 37:272(c). The words “of such member”, “upon retirement”, and “to receive”, in 37:272(c), are omitted as surplusage.
+37:271(a) is omitted as surplusage. As it relates to retirement it is only a statement of the general coverage of the retirement sections of this chapter. As it relates to separation it is only a statement of the general coverage of the separation sections of this chapter. The words “a member \* \* \* not covered by section 1201, 1202, or 1203 of this title” are substituted for the words “a member \* \* \* other than those members covered in subsections (a) and (b) of this section”. The words “if the Secretary also determines that” are substituted for the words “That if condition (5) above is met by a finding that”, in 37:272(c). The words “of such member”, “upon retirement”, and “to receive”, in 37:272(c), are omitted as surplusage.
 
 In clause (1), the words “based upon accepted medical principles” are inserted as a necessary implication of the rule stated in 37:272(c)(5).
 
@@ -431,13 +431,13 @@ In clause (4)(B), the words “at the time of the determination” are substitut
 
 **Amendments**
 
-2001—Par. (2)(B)(iii). Pub. L. 107–107, struck out “, if the site of the inactive-duty training is outside reasonable commuting distance of the member’s residence” before semicolon.
+2001—Par. (2)(B)(iii). Pub. L. 107–107, struck out “, if the site of the inactive-duty training is outside reasonable commuting distance of the member’s residence” before semicolon.
 
 1999—Par. (2)(C). Pub. L. 106–65 added subpar. (C).
 
-1997—Pub. L. 105–85, § 513(d)(1), amended section catchline generally, inserting “or on inactive-duty training” after “30 days or less”.
+1997—Pub. L. 105–85, § 513(d)(1), amended section catchline generally, inserting “or on inactive-duty training” after “30 days or less”.
 
-Par. (2). Pub. L. 105–85, § 513(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the disability is the proximate result of, or was incurred in line of duty after the date of the enactment of this Act as a result of—
+Par. (2). Pub. L. 105–85, § 513(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the disability is the proximate result of, or was incurred in line of duty after the date of the enactment of this Act as a result of—
 
 “(A) performing active duty or inactive-duty training;
 
@@ -451,7 +451,7 @@ Par. (2). Pub. L. 105–85, § 513(c)(1), amended par. (2) generally. Prior to
 
 1989—Par. (4)(B). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1986—Pub. L. 99–661 struck out “; disability from injury” after “30 days or less” in section catchline and “resulting from an injury” after “because of physical disability” in provisions preceding par. (1).
+1986—Pub. L. 99–661 struck out “; disability from injury” after “30 days or less” in section catchline and “resulting from an injury” after “because of physical disability” in provisions preceding par. (1).
 
 1985—Par. (1). Pub. L. 99–145 inserted “and stable” after “permanent nature”.
 
@@ -459,23 +459,23 @@ Par. (2). Pub. L. 105–85, § 513(c)(1), amended par. (2) generally. Prior to
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–484, div. A, title V, § 516(b), Oct. 23, 1992, 106 Stat. 2407, provided that: “The amendments made by subsection (a) [amending this section and section 1206 of this title] shall take effect with respect to disabilities incurred on or after November 14, 1986, but any benefits or services payable by reason of the applicability of those amendments during the period beginning on November 14, 1986, and ending on the date of the enactment of this Act [Oct. 23, 1992] shall be subject to the availability of appropriations.”
+Pub. L. 102–484, div. A, title V, § 516(b), Oct. 23, 1992, 106 Stat. 2407, provided that: “The amendments made by subsection (a) [amending this section and section 1206 of this title] shall take effect with respect to disabilities incurred on or after November 14, 1986, but any benefits or services payable by reason of the applicability of those amendments during the period beginning on November 14, 1986, and ending on the date of the enactment of this Act [Oct. 23, 1992] shall be subject to the availability of appropriations.”
 
 **Effective Date of 1986 Amendment**
 
 Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
-## § 1205. Members on active duty for 30 days or less: temporary disability retired list
+## § 1205. Members on active duty for 30 days or less: temporary disability retired list
 
 Upon a determination by the Secretary concerned that a member of the armed forces not covered by section 1201, 1202, or 1203 of this title would be qualified for retirement under section 1204 of this title but for the fact that his disability is not determined to be of a permanent nature and stable, the Secretary shall, if he also determines that accepted medical principles indicate that the disability may be of a permanent nature, place the member’s name on the temporary disability retired list, with retired pay computed under section 1401 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Pub. L. 99–145, title V, § 513(a)(1)(B), Nov. 8, 1985, 99 Stat. 627; Pub. L. 99–661, div. A, title VI, § 604(d)(2)[(B)], Nov. 14, 1986, 100 Stat. 3876.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Pub. L. 99–145, title V, § 513(a)(1)(B), Nov. 8, 1985, 99 Stat. 627; Pub. L. 99–661, div. A, title VI, § 604(d)(2)[(B)], Nov. 14, 1986, 100 Stat. 3876.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1205 | 37:272(c) (clause (5)). | Oct. 12, 1949, ch. 681, § 402(c) (clause (5)), 63 Stat. 818. |
+| 1205 | 37:272(c) (clause (5)). | Oct. 12, 1949, ch. 681, § 402(c) (clause (5)), 63 Stat. 818. |
 
 The first 52 words are inserted for clarity and are based on the rule stated in section 1204 of this title, which restates that part of 37:272(c) relating to retirement for physical disability. The revised section incorporates by reference those provisions which are identical for retirement and for placement on the temporary disability retired list. This is possible, since 37:272(f) applies to placement on the temporary disability retired list as well as to retirement (see opinion of the Judge Advocate General of the Army (JAGA 1953/1900, 9 Mar. 1953)).
 
@@ -483,7 +483,7 @@ The first 52 words are inserted for clarity and are based on the rule stated in 
 
 **Amendments**
 
-1986—Pub. L. 99–661 struck out “; disability from injury” after “30 days or less” in section catchline.
+1986—Pub. L. 99–661 struck out “; disability from injury” after “30 days or less” in section catchline.
 
 1985—Pub. L. 99–145 inserted “and stable” after “determined to be of a permanent nature”.
 
@@ -493,7 +493,7 @@ The first 52 words are inserted for clarity and are based on the rule stated in 
 
 Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
-## § 1206. Members on active duty for 30 days or less or on inactive-duty training: separation
+## § 1206. Members on active duty for 30 days or less or on inactive-duty training: separation
 
 Upon a determination by the Secretary concerned that a member of the armed forces not covered by section 1201, 1202, or 1203 of this title is unfit to perform the duties of his office, grade, rank, or rating because of physical disability, the member may be separated from his armed force, with severance pay computed under section 1212 of this title, if the Secretary also determines that—
 
@@ -525,13 +525,13 @@ Upon a determination by the Secretary concerned that a member of the armed force
 
 However, if the member is eligible for transfer to the inactive status list under section 1209 of this title, and so elects, he shall be transferred to that list instead of being separated.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Pub. L. 99–661, div. A, title VI, § 604(d)(1), (3), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 102–484, div. A, title V, § 516(a), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 105–85, div. A, title V, § 513(c)(2), (d)(2), Nov. 18, 1997, 111 Stat. 1731; Pub. L. 106–65, div. A, title V, § 578(i)(4), title VI, § 653(c), Oct. 5, 1999, 113 Stat. 629, 667; Pub. L. 107–107, div. A, title V, § 513(b), title X, § 1048(c)(6), Dec. 28, 2001, 115 Stat. 1093, 1226.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Pub. L. 99–661, div. A, title VI, § 604(d)(1), (3), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 102–484, div. A, title V, § 516(a), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 105–85, div. A, title V, § 513(c)(2), (d)(2), Nov. 18, 1997, 111 Stat. 1731; Pub. L. 106–65, div. A, title V, § 578(i)(4), title VI, § 653(c), Oct. 5, 1999, 113 Stat. 629, 667; Pub. L. 107–107, div. A, title V, § 513(b), title X, § 1048(c)(6), Dec. 28, 2001, 115 Stat. 1093, 1226.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1206 | 37:272(c) (last proviso). | Oct. 12, 1949, ch. 681, § 402(c) (last proviso), 63 Stat. 818. |
+| 1206 | 37:272(c) (last proviso). | Oct. 12, 1949, ch. 681, § 402(c) (last proviso), 63 Stat. 818. |
 
 To state fully in the revised section the rule contained in 37:272(c) (last proviso), the provisions of 37:272(c) (less clause (5), and less 1st proviso), and 272(f) (as applicable to 272(c)), also contained in section 1204 of this title, are repeated. The words “the member may be separated” are substituted for the words “the member concerned shall not be eligible for any disability retirement provided in this section, but may be separated for physical disability”.
 
@@ -543,11 +543,11 @@ The last sentence of the revised section, relating to transfer to the inactive s
 
 **Amendments**
 
-2001—Par. (2)(B)(iii). Pub. L. 107–107, § 513(b), struck out “, if the place is outside reasonable commuting distance from the member’s residence” before semicolon at end.
+2001—Par. (2)(B)(iii). Pub. L. 107–107, § 513(b), struck out “, if the place is outside reasonable commuting distance from the member’s residence” before semicolon at end.
 
-Par. (5). Pub. L. 107–107, § 1048(c)(6), substituted “October 5, 1999,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2000,”.
+Par. (5). Pub. L. 107–107, § 1048(c)(6), substituted “October 5, 1999,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2000,”.
 
-1999—Par. (2). Pub. L. 106–65, § 578(i)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the disability is a result of an injury, illness, or disease incurred or aggravated in line of duty while—
+1999—Par. (2). Pub. L. 106–65, § 578(i)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the disability is a result of an injury, illness, or disease incurred or aggravated in line of duty while—
 
 “(A) performing active duty or inactive-duty training;
 
@@ -555,17 +555,17 @@ Par. (5). Pub. L. 107–107, § 1048(c)(6), substituted “October 5, 1999,”
 
 “(C) while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance of the member’s residence;”.
 
-Par. (5). Pub. L. 106–65, § 653(c), inserted “, in the case of a disability incurred before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2000,” after “determination, and”.
+Par. (5). Pub. L. 106–65, § 653(c), inserted “, in the case of a disability incurred before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2000,” after “determination, and”.
 
-1997—Pub. L. 105–85, § 513(d)(2), amended section catchline generally, inserting “or on inactive-duty training” after “30 days or less”.
+1997—Pub. L. 105–85, § 513(d)(2), amended section catchline generally, inserting “or on inactive-duty training” after “30 days or less”.
 
-Pars. (2) to (5). Pub. L. 105–85, § 513(c)(2), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+Pars. (2) to (5). Pub. L. 105–85, § 513(c)(2), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
 1992—Par. (4). Pub. L. 102–484 inserted before period at end “or of traveling directly to or from the place at which such duty is performed”.
 
 1989—Par. (4). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1986—Pub. L. 99–661 struck out “; disability from injury” after “30 days or less” in section catchline and “resulting from an injury” after “because of physical disability” in provisions preceding par. (1).
+1986—Pub. L. 99–661 struck out “; disability from injury” after “30 days or less” in section catchline and “resulting from an injury” after “because of physical disability” in provisions preceding par. (1).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -577,7 +577,7 @@ Amendment by Pub. L. 102–484 effective with respect to disabilities incurred o
 
 Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
-## § 1206a. Reserve component members unable to perform duties when ordered to active duty: disability system processing
+## § 1206a. Reserve component members unable to perform duties when ordered to active duty: disability system processing
 
 **(a) Members Released From Active Duty Within 30 Days.—** A member of a reserve component who is ordered to active duty for a period of more than 30 days and is released from active duty within 30 days of commencing such period of active duty for a reason stated in subsection (b) shall be considered for all purposes under this chapter to have been serving under an order to active duty for a period of 30 days or less.
 
@@ -589,9 +589,9 @@ Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov.
 
 **(c) Savings Provision for Medical Care Provided While on Active Duty.—** Notwithstanding subsection (a), any benefit under chapter 55 of this title received by a member described in subsection (a) or a dependent of such member before or during the period of active duty shall not be subject to recoupment or otherwise affected.
 
-(Added Pub. L. 108–375, div. A, title V, § 521(a), Oct. 28, 2004, 118 Stat. 1887.)
+(Added Pub. L. 108–375, div. A, title V, § 521(a), Oct. 28, 2004, 118 Stat. 1887.)
 
-## § 1207. Disability from intentional misconduct or willful neglect: separation
+## § 1207. Disability from intentional misconduct or willful neglect: separation
 
 Each member of the armed forces who incurs a physical disability that, in the determination of the Secretary concerned, makes him unfit to perform the duties of his office, grade, rank, or rating, and that resulted from his intentional misconduct or willful neglect or was incurred during a period of unauthorized absence, shall be separated from his armed force without entitlement to any benefits under this chapter.
 
@@ -601,19 +601,19 @@ Each member of the armed forces who incurs a physical disability that, in the de
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1207 | 37:278. | Oct. 12, 1949, ch. 681, § 408, 63 Stat. 823. |
+| 1207 | 37:278. | Oct. 12, 1949, ch. 681, § 408, 63 Stat. 823. |
 
-The words “Each member \* \* \* who” are substituted for the words “When a member \* \* \* such member”. The words “is determined to have” are omitted as surplusage.
+The words “Each member \* \* \* who” are substituted for the words “When a member \* \* \* such member”. The words “is determined to have” are omitted as surplusage.
 
-## § 1207a. Members with over eight years of active service: eligibility for disability retirement for pre-existing conditions
+## § 1207a. Members with over eight years of active service: eligibility for disability retirement for pre-existing conditions
 
 **(a)** In the case of a member described in subsection (b) who would be covered by section 1201, 1202, or 1203 of this title but for the fact that the member’s disability is determined to have been incurred before the member became entitled to basic pay in the member’s current period of active duty, the disability shall be deemed to have been incurred while the member was entitled to basic pay and shall be so considered for purposes of determining whether the disability was incurred in the line of duty.
 
 **(b)** A member described in subsection (a) is a member with at least eight years of active service.
 
-(Added Pub. L. 106–65, div. A, title VI, § 653(a)(1), Oct. 5, 1999, 113 Stat. 666.)
+(Added Pub. L. 106–65, div. A, title VI, § 653(a)(1), Oct. 5, 1999, 113 Stat. 666.)
 
-## § 1208. Computation of service
+## § 1208. Computation of service
 
 **(a)** For the purposes of this chapter, a member of a regular component shall be credited with the service described in paragraph (1) or that described in paragraph (2), whichever is greater:
 
@@ -631,13 +631,13 @@ For the purpose of paragraph (2), active service as a member of the National Oce
 
 **(b)** A member of the armed forces who is not a member of a regular component shall be credited, for the purposes of this chapter, with the number of years of service that he would count if he were computing his years of service under section 12733 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Pub. L. 89–718, § 8, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §§ 501(16), 511(42), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 99–661, div. A, title XIII, § 1343(a)(6), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–26, § 7(j)(3), Apr. 21, 1987, 101 Stat. 283; Pub. L. 104–106, div. A, title XV, § 1501(c)(13), Feb. 10, 1996, 110 Stat. 499.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Pub. L. 89–718, § 8, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §§ 501(16), 511(42), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 99–661, div. A, title XIII, § 1343(a)(6), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–26, § 7(j)(3), Apr. 21, 1987, 101 Stat. 283; Pub. L. 104–106, div. A, title XV, § 1501(c)(13), Feb. 10, 1996, 110 Stat. 499.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1208(a) | 37:282 (less clauses (2) and (3), less applicability to persons referred to in 37:281, and less applicability to service as a cadet before August 24, 1912, as a midshipman before March 4, 1913, as an Army field clerk, or as a field clerk, Army Quartermaster Corps). | Oct. 12, 1949, ch. 681, § 412 (less clause (3), less applicability to persons referred to in § 411, and less applicability to service as a cadet before August 24, 1912, as a midshipman before March 4, 1913, as an Army field clerk, or as a field clerk, Army Quartermaster Corps), 63 Stat. 824. |
+| 1208(a) | 37:282 (less clauses (2) and (3), less applicability to persons referred to in 37:281, and less applicability to service as a cadet before August 24, 1912, as a midshipman before March 4, 1913, as an Army field clerk, or as a field clerk, Army Quartermaster Corps). | Oct. 12, 1949, ch. 681, § 412 (less clause (3), less applicability to persons referred to in § 411, and less applicability to service as a cadet before August 24, 1912, as a midshipman before March 4, 1913, as an Army field clerk, or as a field clerk, Army Quartermaster Corps), 63 Stat. 824. |
 | 1208(b) | 37:282 (clause (2), less applicability to persons referred to in 37:281, and less applicability to service as a cadet before August 24, 1912, as a midshipman before March 4, 1913, as an Army field clerk, or as a field clerk, Army Quartermaster Corps). |  |
 
 In subsection (a), the words “shall be credited with the service described in clause (1) or that described in clause (2), whichever is greater” are substituted for the words “shall be interpreted to mean”.
@@ -668,7 +668,7 @@ In subsection (b), the words “any other member” are substituted for the word
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 **Effective Date of 1980 Amendment**
 
@@ -676,11 +676,11 @@ Amendment by section 501(16) of Pub. L. 96–513 effective Sept. 15, 1981, and a
 
 **Repeals**
 
-The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
+The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
 
 **Additional Service Creditable to Certain Regulars**
 
-Act Aug. 10, 1956, ch. 1041, § 39, 70A Stat. 635, provided that:
+Act Aug. 10, 1956, ch. 1041, § 39, 70A Stat. 635, provided that:
 
 > “In addition to service with which he may be credited under section 1208(a)(2) of title 10, United States Code [subsec. (a)(2) of this section], a member of a regular component of the armed forces shall be credited, for the purposes of chapter 61 of title 10, United States Code [this chapter], with all service as—
 
@@ -702,17 +702,17 @@ Applicability of subsec. (a)(2) of this section to officers of the Reserve Corps
 
 For transfer of functions of Public Health Service, see note set out under section 802 of this title.
 
-## § 1209. Transfer to inactive status list instead of separation
+## § 1209. Transfer to inactive status list instead of separation
 
 Any member of the armed forces who has at least 20 years of service computed under section 12732 of this title, and who would be qualified for retirement under this chapter but for the fact that his disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, may elect, instead of being separated under this chapter, to be transferred to the inactive status list under section 12735 of this title and, if otherwise eligible, to receive retired pay under section 12739 of this title upon becoming 60 years of age.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 95; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–106, div. A, title XV, § 1501(c)(14), Feb. 10, 1996, 110 Stat. 499.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 95; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–106, div. A, title XV, § 1501(c)(14), Feb. 10, 1996, 110 Stat. 499.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1209 | 37:272(g). | Oct. 12, 1949, ch. 681, § 402(g), 63 Stat. 820. |
+| 1209 | 37:272(g). | Oct. 12, 1949, ch. 681, § 402(g), 63 Stat. 820. |
 
 The words “Notwithstanding the foregoing provisions of this section”, “satisfactory Federal”, and “and receiving disability severance pay” are omitted as surplusage. The words “at the time of the determination” are substituted for the word “current”. The word “otherwise” is substituted for the words “in all other respects”.
 
@@ -728,9 +728,9 @@ The words “Notwithstanding the foregoing provisions of this section”, “sat
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
-## § 1210. Members on temporary disability retired list: periodic physical examination; final determination of status
+## § 1210. Members on temporary disability retired list: periodic physical examination; final determination of status
 
 **(a)** A physical examination shall be given at least once every 18 months to each member of the armed forces whose name is on the temporary disability retired list to determine whether there has been a change in the disability for which he was temporarily retired. He may be required to submit to those examinations while his name is carried on that list. If a member fails to report for an examination under this subsection, after receipt of proper notification, his disability retired pay may be terminated. However, payments to him shall be resumed if there was just cause for his failure to report. If payments are so resumed, they may be made retroactive for not more than one year.
 
@@ -764,13 +764,13 @@ Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498,
 
 **(h)** If his name is not sooner removed, the disability retired pay of a member whose name is on the temporary disability retired list terminates upon the expiration of three years after the date when his name was placed on that list.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 95; Pub. L. 99–145, title V, § 513(a)(2), Nov. 8, 1985, 99 Stat. 627; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 114–328, div. A, title V, § 525(a), Dec. 23, 2016, 130 Stat. 2117.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 95; Pub. L. 99–145, title V, § 513(a)(2), Nov. 8, 1985, 99 Stat. 627; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 114–328, div. A, title V, § 525(a), Dec. 23, 2016, 130 Stat. 2117.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1210(a) | 37:272(e) (less last sentence). 37:274(a). 37:274(b) (less 1st sentence). | Oct. 12, 1949, ch. 681, §§ 402(d) (30th through 55th words), (e) (less 1st proviso of last sentence), (f) (as applicable to § 402(e)), 404, 63 Stat. 818–821. |
+| 1210(a) | 37:272(e) (less last sentence). 37:274(a). 37:274(b) (less 1st sentence). | Oct. 12, 1949, ch. 681, §§ 402(d) (30th through 55th words), (e) (less 1st proviso of last sentence), (f) (as applicable to § 402(e)), 404, 63 Stat. 818–821. |
 | 1210(b) | 37:272(e) (1st 37 words of last proviso of last sentence). |  |
 | 1210(c) | 37:272(e) (last sentence, less provisos and less clause (2)). |  |
 |  | 37:272(e) (38th through 45th words of last proviso of last sentence). |  |
@@ -803,17 +803,17 @@ In subsection (g), the words “members in his retired grade traveling in connec
 
 1989—Subsecs. (c) to (e). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration” wherever appearing.
 
-1985—Subsecs. (b) to (d). Pub. L. 99–145, § 513(a)(2)(A), inserted “and stable” after “permanent nature”.
+1985—Subsecs. (b) to (d). Pub. L. 99–145, § 513(a)(2)(A), inserted “and stable” after “permanent nature”.
 
-Subsec. (f). Pub. L. 99–145, § 513(a)(2)(B), designated existing provisions as par. (1), substituted “or rating, the Secretary shall—” for “and rating, the Secretary shall treat him as provided in section 1211 of this title”, added subpars. (A) and (B), and added par. (2).
+Subsec. (f). Pub. L. 99–145, § 513(a)(2)(B), designated existing provisions as par. (1), substituted “or rating, the Secretary shall—” for “and rating, the Secretary shall treat him as provided in section 1211 of this title”, added subpars. (A) and (B), and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title V, § 525(b), Dec. 23, 2016, 130 Stat. 2117, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2017, and shall apply to members of the Armed Forces whose names are placed on the temporary disability retired list on or after that date.”
+Pub. L. 114–328, div. A, title V, § 525(b), Dec. 23, 2016, 130 Stat. 2117, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2017, and shall apply to members of the Armed Forces whose names are placed on the temporary disability retired list on or after that date.”
 
-## § 1211. Members on temporary disability retired list: return to active duty; promotion
+## § 1211. Members on temporary disability retired list: return to active duty; promotion
 
 **(a)** With his consent, any member of the Army, the Air Force, or the Space Force whose name is on the temporary disability retired list, and who is found to be physically fit to perform the duties of his office, grade, or rank under section 1210(f) of this title, shall—
 
@@ -855,7 +855,7 @@ Pub. L. 114–328, div. A, title V, § 525(b), Dec. 23, 2016, 130 Stat. 2117, 
 
 **(f)** Action under this section shall be taken on a fair and equitable basis, with regard being given to the probable opportunities for advancement and promotion that the member might reasonably have had if his name had not been placed on the temporary disability retired list.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 96; Pub. L. 87–651, title I, § 107(b), Sept. 7, 1962, 76 Stat. 508; Pub. L. 96–513, title V, § 501(17), Dec. 12, 1980, 94 Stat. 2908; Pub. L. 99–145, title V, § 513(a)(3), Nov. 8, 1985, 99 Stat. 627; Pub. L. 107–107, div. A, title V, § 505(c)(4), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 116–283, div. A, title IX, § 924(b)(24), Jan. 1, 2021, 134 Stat. 3824.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 96; Pub. L. 87–651, title I, § 107(b), Sept. 7, 1962, 76 Stat. 508; Pub. L. 96–513, title V, § 501(17), Dec. 12, 1980, 94 Stat. 2908; Pub. L. 99–145, title V, § 513(a)(3), Nov. 8, 1985, 99 Stat. 627; Pub. L. 107–107, div. A, title V, § 505(c)(4), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 116–283, div. A, title IX, § 924(b)(24), Jan. 1, 2021, 134 Stat. 3824.)
 
 **Historical and Revision Notes**
 
@@ -863,7 +863,7 @@ Pub. L. 114–328, div. A, title V, § 525(b), Dec. 23, 2016, 130 Stat. 2117, 
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1211(a) | 37:275(a). 37:275(b). 37:275(c) (1st sentence). | Oct. 12, 1949, ch. 681, §§ 405, 406, 407, 63 Stat. 821. |
+| 1211(a) | 37:275(a). 37:275(b). 37:275(c) (1st sentence). | Oct. 12, 1949, ch. 681, §§ 405, 406, 407, 63 Stat. 821. |
 |  | 37:276(a) (less clauses (1)–(3)). |  |
 |  | 37:276(a)(1) (1st 7 words). |  |
 |  | 37:276(a)(2) (1st 10 words). |  |
@@ -912,9 +912,9 @@ The changes correct typographical errors.
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 924(b)(24)(A), substituted “, the Air Force, or the Space Force” for “or the Air Force” in introductory provisions.
+2021—Subsec. (a). Pub. L. 116–283, § 924(b)(24)(A), substituted “, the Air Force, or the Space Force” for “or the Air Force” in introductory provisions.
 
-Subsec. (a)(6). Pub. L. 116–283, § 924(b)(24)(B), substituted “the Air Force, or the Space Force who” for “or the Air Force, who” and “the Air Force, or the Space Force, as” for “or the Air Force, as”.
+Subsec. (a)(6). Pub. L. 116–283, § 924(b)(24)(B), substituted “the Air Force, or the Space Force who” for “or the Air Force, who” and “the Air Force, or the Space Force, as” for “or the Air Force, as”.
 
 2001—Subsec. (e). Pub. L. 107–107 inserted “an approved all-fully-qualified-officers list,” after “a promotion list,”.
 
@@ -934,7 +934,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 1212. Disability severance pay
+## § 1212. Disability severance pay
 
 **(a)** Upon separation from his armed force under section 1203 or 1206 of this title, a member is entitled to disability severance pay computed by multiplying (1) the member’s years of service computed under section 1208 of this title (subject to the minimum and maximum years of service provided for in subsection (c)), by (2) the highest of the following amounts:
 
@@ -966,19 +966,19 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(3)** No deduction may be made under paragraph (1) from any death compensation to which a member’s dependents become entitled after the member’s death.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 98; Pub. L. 96–513, title V, § 511(43), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 107–107, div. A, title V, § 593(a), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title XVI, § 1646(a), (b), Jan. 28, 2008, 122 Stat. 472.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 98; Pub. L. 96–513, title V, § 511(43), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 107–107, div. A, title V, § 593(a), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title XVI, § 1646(a), (b), Jan. 28, 2008, 122 Stat. 472.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1212(a) | 37:273 (less 1st and last provisos). | Oct. 12, 1949, ch. 681, § 403, 63 Stat. 820. |
+| 1212(a) | 37:273 (less 1st and last provisos). | Oct. 12, 1949, ch. 681, § 403, 63 Stat. 820. |
 | 1212(b) | 37:273 (1st proviso). |  |
 | 1212(c) | 37:273 (last proviso). |  |
 
-In subsection (a), the words “Upon separation” are inserted for clarity. The words “his years of service \* \* \* computed under section 1208 of this title” are substituted for the words “a number of years equal to the number of years of active service to which such member is entitled under the provisions of section 282 of this title”. The words “but not more than 12” are substituted for the words “but not to exceed a total of two years’ basic pay”, to simplify the necessary calculation. The substituted words produce the same result. The word “rating” is omitted as covered by the words “grade” and “rank”.
+In subsection (a), the words “Upon separation” are inserted for clarity. The words “his years of service \* \* \* computed under section 1208 of this title” are substituted for the words “a number of years equal to the number of years of active service to which such member is entitled under the provisions of section 282 of this title”. The words “but not more than 12” are substituted for the words “but not to exceed a total of two years’ basic pay”, to simplify the necessary calculation. The substituted words produce the same result. The word “rating” is omitted as covered by the words “grade” and “rank”.
 
-In clause (2)(A)–(D), the words “Twice the amount of monthly” are substituted for the words “An amount equal to two months’ ”. The words “if his name was not carried on that list” are substituted for the words “whichever is earlier”, since the member might be separated without ever being carried on the list. The word “rating” is omitted as surplusage.
+In clause (2)(A)–(D), the words “Twice the amount of monthly” are substituted for the words “An amount equal to two months’ ”. The words “if his name was not carried on that list” are substituted for the words “whichever is earlier”, since the member might be separated without ever being carried on the list. The word “rating” is omitted as surplusage.
 
 In clause (2)(B), the words “the Secretary of the military department, or the Secretary of the Treasury, as the case may be, having jurisdiction over the armed force from which he is separated” are substituted for the words “the Secretary concerned” for clarity.
 
@@ -992,13 +992,13 @@ In subsection (b), the words “and a part of a year that is less than six month
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–181, § 1646(a)(1), substituted “the member’s years of service computed under section 1208 of this title (subject to the minimum and maximum years of service provided for in subsection (c))” for “his years of service, but not more than 12, computed under section 1208 of this title”.
+2008—Subsec. (a)(1). Pub. L. 110–181, § 1646(a)(1), substituted “the member’s years of service computed under section 1208 of this title (subject to the minimum and maximum years of service provided for in subsection (c))” for “his years of service, but not more than 12, computed under section 1208 of this title”.
 
-Subsec. (c). Pub. L. 110–181, § 1646(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 110–181, § 1646(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 110–181, § 1646(b), designated existing provisions as par. (1), struck out “However, no deduction may be made from any death compensation to which his dependents become entitled after his death.” at end, and added pars. (2) and (3).
+Subsec. (d). Pub. L. 110–181, § 1646(b), designated existing provisions as par. (1), struck out “However, no deduction may be made from any death compensation to which his dependents become entitled after his death.” at end, and added pars. (2) and (3).
 
-Pub. L. 110–181, § 1646(a)(2), redesignated subsec. (c) as (d).
+Pub. L. 110–181, § 1646(a)(2), redesignated subsec. (c) as (d).
 
 2002—Subsec. (a)(2)(B). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
@@ -1012,9 +1012,9 @@ Pub. L. 110–181, § 1646(a)(2), redesignated subsec. (c) as (d).
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title XVI, § 1646(d), formerly § 1646(c), Jan. 28, 2008, 122 Stat. 472, renumbered § 1646(d) by Pub. L. 110–389, title I, § 103(a)(1), Oct. 10, 2008, 122 Stat. 4148, provided that: “The amendments made by this section [amending this section and section 1161 of Title 38, Veterans’ Benefits] shall take effect on the date of the enactment of this Act [Jan. 28, 2008], and shall apply with respect to members of the Armed Forces separated from the Armed Forces under chapter 61 of title 10, United States Code, on or after that date.”
+Pub. L. 110–181, div. A, title XVI, § 1646(d), formerly § 1646(c), Jan. 28, 2008, 122 Stat. 472, renumbered § 1646(d) by Pub. L. 110–389, title I, § 103(a)(1), Oct. 10, 2008, 122 Stat. 4148, provided that: “The amendments made by this section [amending this section and section 1161 of Title 38, Veterans’ Benefits] shall take effect on the date of the enactment of this Act [Jan. 28, 2008], and shall apply with respect to members of the Armed Forces separated from the Armed Forces under chapter 61 of title 10, United States Code, on or after that date.”
 
-[Amendment by Pub. L. 110–389, § 103(a)(1), redesignating section 1646(c) as 1646(d) of Pub. L. 110–181, set out above, effective Jan. 28, 2008, as if included in the Wounded Warrior Act, title XVI of Pub. L. 110–181, to which such amendment relates, see section 103(b) of Pub. L. 110–389, set out as an Effective Date of 2008 Amendment note under section 1161 of Title 38, Veterans’ Benefits.]
+[Amendment by Pub. L. 110–389, § 103(a)(1), redesignating section 1646(c) as 1646(d) of Pub. L. 110–181, set out above, effective Jan. 28, 2008, as if included in the Wounded Warrior Act, title XVI of Pub. L. 110–181, to which such amendment relates, see section 103(b) of Pub. L. 110–389, set out as an Effective Date of 2008 Amendment note under section 1161 of Title 38, Veterans’ Benefits.]
 
 **Effective Date of 2002 Amendment**
 
@@ -1022,7 +1022,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title V, § 593(b), Dec. 28, 2001, 115 Stat. 1126, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to members separated under section 1203 or 1206 of title 10, United States Code, on or after date of the enactment of this Act [Dec. 28, 2001].”
+Pub. L. 107–107, div. A, title V, § 593(b), Dec. 28, 2001, 115 Stat. 1126, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to members separated under section 1203 or 1206 of title 10, United States Code, on or after date of the enactment of this Act [Dec. 28, 2001].”
 
 **Effective Date of 1980 Amendment**
 
@@ -1106,19 +1106,19 @@ Pub. L. 114–292, Dec. 16, 2016, 130 Stat. 1500, provided that:
 
 > **“(2)** the Committee on Armed Services, the Committee on Veterans’ Affairs, and the Committee on Ways and Means of the House of Representatives.”
 
-## § 1213. Effect of separation on benefits and claims
+## § 1213. Effect of separation on benefits and claims
 
 Unless a person who has received disability severance pay again becomes a member of an armed force, the National Oceanic and Atmospheric Administration, or the Public Health Service, he is not entitled to any payment from the armed force from which he was separated for, or arising out of, his service before separation, under any law administered by one of those services or for it by another of those services. However, this section does not prohibit the payment of money to a person who has received disability severance pay, if the money was due him on the date of his separation or if a claim by him is allowed under any law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 99; Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, § 511(44), Dec. 12, 1980, 94 Stat. 2924.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 99; Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, § 511(44), Dec. 12, 1980, 94 Stat. 2924.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1213 | 37:280. | Oct. 12, 1949, ch. 681, § 410, 63 Stat. 823. |
+| 1213 | 37:280. | Oct. 12, 1949, ch. 681, § 410, 63 Stat. 823. |
 
-The words “a person who has received disability severance pay” are substituted for the words “Any former member who has been separated for physical disability from any of the uniformed services and paid disability severance pay”. The words “any payment \* \* \* for” are substituted for the words “for any monetary obligation provided under any provision \* \* \* on account of”. The words “this section does not prohibit” are substituted for the words “shall not operate to bar”. The words “the payment of money to \* \* \* if the money was due him” are substituted for the words “from receiving or the service concerned from paying any moneys due and payable”. The words “valid”, “processed”, and “pursuant to any provisions of law” are omitted as surplusage.
+The words “a person who has received disability severance pay” are substituted for the words “Any former member who has been separated for physical disability from any of the uniformed services and paid disability severance pay”. The words “any payment \* \* \* for” are substituted for the words “for any monetary obligation provided under any provision \* \* \* on account of”. The words “this section does not prohibit” are substituted for the words “shall not operate to bar”. The words “the payment of money to \* \* \* if the money was due him” are substituted for the words “from receiving or the service concerned from paying any moneys due and payable”. The words “valid”, “processed”, and “pursuant to any provisions of law” are omitted as surplusage.
 
 **Editorial Notes**
 
@@ -1136,7 +1136,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Repeals**
 
-The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
+The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
 
 **Executive Documents**
 
@@ -1144,17 +1144,17 @@ The directory language of, but not the amendment made by, Pub. L. 89–718, §�
 
 For transfer of functions of Public Health Service, see note set out under section 802 of this title.
 
-## § 1214. Right to full and fair hearing
+## § 1214. Right to full and fair hearing
 
 No member of the armed forces may be retired or separated for physical disability without a full and fair hearing if the member demands it. The Secretary concerned may require submission of a statement of contention as part of the demand.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 100; Pub. L. 119–60, div. A, title V, § 524(b), Dec. 18, 2025, 139 Stat. 865.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 100; Pub. L. 119–60, div. A, title V, § 524(b), Dec. 18, 2025, 139 Stat. 865.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1214 | 37:283 (less 1st 17 words). | Oct. 12, 1949, ch. 681, § 413 (less 1st 17 words), 63 Stat. 825. |
+| 1214 | 37:283 (less 1st 17 words). | Oct. 12, 1949, ch. 681, § 413 (less 1st 17 words), 63 Stat. 825. |
 
 The words “including regulations” are omitted as covered by section 1216(a) of this title.
 
@@ -1164,7 +1164,7 @@ The words “including regulations” are omitted as covered by section 1216(a) 
 
 2025—Pub. L. 119–60 substituted “if the member demands it. The Secretary concerned may require submission of a statement of contention as part of the demand.” for “if he demands it.”
 
-## § 1214a. Members determined fit for duty in Physical Evaluation Board: prohibition on involuntary administrative separation or denial of reenlistment due to unsuitability based on medical conditions considered in evaluation
+## § 1214a. Members determined fit for duty in Physical Evaluation Board: prohibition on involuntary administrative separation or denial of reenlistment due to unsuitability based on medical conditions considered in evaluation
 
 **(a) Disposition.—** Except as provided in subsection (c), the Secretary of the military department concerned may not authorize the involuntary administrative separation of a member described in subsection (b), or deny reenlistment of the member, based on a determination that the member is unsuitable for deployment or worldwide assignment based on the same medical condition of the member considered by a Physical Evaluation Board during the evaluation of the member.
 
@@ -1178,25 +1178,25 @@ The words “including regulations” are omitted as covered by section 1216(a) 
 
 **(3)** The Secretary of Defense shall be the final approval authority for any case determined by the Secretary of a military department to warrant administrative separation or denial of reenlistment based on a determination that the member is unsuitable for continued service due to the same medical condition of the member considered by a Physical Evaluation Board that found the member fit for duty.
 
-(Added Pub. L. 111–383, div. A, title V, § 534(a)(1), Jan. 7, 2011, 124 Stat. 4216; amended Pub. L. 112–81, div. A, title V, § 527(a)–(c)(1), Dec. 31, 2011, 125 Stat. 1401, 1402.)
+(Added Pub. L. 111–383, div. A, title V, § 534(a)(1), Jan. 7, 2011, 124 Stat. 4216; amended Pub. L. 112–81, div. A, title V, § 527(a)–(c)(1), Dec. 31, 2011, 125 Stat. 1401, 1402.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Pub. L. 112–81, § 527(c)(1), substituted “Members determined fit for duty in Physical Evaluation Board: prohibition on involuntary administrative separation or denial of reenlistment due to unsuitability based on medical conditions considered in evaluation” for “Members determined fit for duty in Physical Evaluation Board evaluation: prohibition on involuntary administrative separation due to unsuitability based on medical conditions considered in evaluation” in section catchline.
+2011—Pub. L. 112–81, § 527(c)(1), substituted “Members determined fit for duty in Physical Evaluation Board: prohibition on involuntary administrative separation or denial of reenlistment due to unsuitability based on medical conditions considered in evaluation” for “Members determined fit for duty in Physical Evaluation Board evaluation: prohibition on involuntary administrative separation due to unsuitability based on medical conditions considered in evaluation” in section catchline.
 
-Subsec. (a). Pub. L. 112–81, § 527(a), inserted “, or deny reenlistment of the member,” after “a member described in subsection (b)”.
+Subsec. (a). Pub. L. 112–81, § 527(a), inserted “, or deny reenlistment of the member,” after “a member described in subsection (b)”.
 
-Subsec. (c)(3). Pub. L. 112–81, § 527(b), inserted “or denial of reenlistment” after “to warrant administrative separation”.
+Subsec. (c)(3). Pub. L. 112–81, § 527(b), inserted “or denial of reenlistment” after “to warrant administrative separation”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 111–383, div. A, title V, § 534(b), Jan. 7, 2011, 124 Stat. 4217, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect on the date of the enactment of this Act [Jan. 7, 2011], and shall apply with respect to members evaluated for fitness for duty by Physical Evaluation Boards on or after that date.”
+Pub. L. 111–383, div. A, title V, § 534(b), Jan. 7, 2011, 124 Stat. 4217, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect on the date of the enactment of this Act [Jan. 7, 2011], and shall apply with respect to members evaluated for fitness for duty by Physical Evaluation Boards on or after that date.”
 
-## § 1215. Members other than Regulars: applicability of laws
+## § 1215. Members other than Regulars: applicability of laws
 
 The laws and regulations that entitle any retired member of a regular component of the armed forces to pay, rights, benefits, or privileges extend the same pay, rights, benefits, or privileges to any other member of the armed forces who is not a member of a regular component and who is retired, or to whom retired pay is granted, because of physical disability.
 
@@ -1206,11 +1206,11 @@ The laws and regulations that entitle any retired member of a regular component 
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1215 | 37:272(i). | Oct. 12, 1949, ch. 681, § 402(i), 63 Stat. 820. |
+| 1215 | 37:272(i). | Oct. 12, 1949, ch. 681, § 402(i), 63 Stat. 820. |
 
 The words “is retired, or to whom retired pay is granted” are substituted for the words “heretofore or hereafter retired or granted retirement pay”. The words “any other member of the armed forces” are substituted for the words “all members of the reserve components”, since the words “reserve components” are defined by section 102(k) of the Career Compensation Act of 1949, 63 Stat. 805 (37 U.S.C. 231(k)), to include members appointed, enlisted, or inducted without component.
 
-## § 1216. Secretaries: powers, functions, and duties
+## § 1216. Secretaries: powers, functions, and duties
 
 **(a)** The Secretary concerned shall prescribe regulations to carry out this chapter within his department.
 
@@ -1236,13 +1236,13 @@ The words “is retired, or to whom retired pay is granted” are substituted fo
 
 by reason of unfitness to perform the duties of his office, grade, rank, or rating unless the determination of the Secretary concerned with respect to unfitness is first approved by the Secretary of Defense on the recommendation of the Assistant Secretary of Defense for Health Affairs.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 100; Pub. L. 94–225, § 2(a), Mar. 4, 1976, 90 Stat. 202; Pub. L. 96–513, title V, § 511(45), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–525, title XIV, § 1405(25), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–661, div. A, title XIII, § 1343(a)(7), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 101–189, div. A, title XVI, § 1621(a)(2), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 104–106, div. A, title IX, § 903(f)(2), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 100; Pub. L. 94–225, § 2(a), Mar. 4, 1976, 90 Stat. 202; Pub. L. 96–513, title V, § 511(45), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–525, title XIV, § 1405(25), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–661, div. A, title XIII, § 1343(a)(7), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 101–189, div. A, title XVI, § 1621(a)(2), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 104–106, div. A, title IX, § 903(f)(2), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1216(a) 1216(b) 1216(c) | 37:283 (1st 17 words). 37:284(a). 37:284 (less (a)). | Oct. 12, 1949, ch. 681, §§ 413 (1st 17 words), 414, 63 Stat. 824, 825. |
+| 1216(a) 1216(b) 1216(c) | 37:283 (1st 17 words). 37:284(a). 37:284 (less (a)). | Oct. 12, 1949, ch. 681, §§ 413 (1st 17 words), 414, 63 Stat. 824, 825. |
 
 In subsection (b), the words “of any member for reappointment, reenlistment” are inserted for clarity, since they are implied in the words “reentry into active service”.
 
@@ -1254,7 +1254,7 @@ In subsection (c), the words “as prescribed by the President” are substitute
 
 **Amendments**
 
-1996—Subsec. (d). Pub. L. 104–106, § 903(a), (f)(2), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs”, was repealed by Pub. L. 104–201.
+1996—Subsec. (d). Pub. L. 104–106, § 903(a), (f)(2), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs”, was repealed by Pub. L. 104–201.
 
 1989—Subsec. (c). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
@@ -1264,9 +1264,9 @@ In subsection (c), the words “as prescribed by the President” are substitute
 
 1980—Subsec. (d). Pub. L. 96–513 substituted “Affairs” for “and Environment”.
 
-1976—Subsec. (b). Pub. L. 94–225, § 2(a)(1), substituted “Except as provided in subsection (d) of this section, the Secretary” for “The Secretary”.
+1976—Subsec. (b). Pub. L. 94–225, § 2(a)(1), substituted “Except as provided in subsection (d) of this section, the Secretary” for “The Secretary”.
 
-Subsec. (d). Pub. L. 94–225, § 2(a)(2), added subsec. (d).
+Subsec. (d). Pub. L. 94–225, § 2(a)(2), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1276,7 +1276,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–225, § 2(b), Mar. 4, 1976, 90 Stat. 202, provided that: “The amendments made by subsection (a) of this section [amending this section] shall apply with respect to unfitness determinations made on or after the date of the enactment of this Act [Mar. 4, 1976] by the Secretaries of the military departments concerned for purposes of sections 1201, 1202, and 1203 of title 10, United States Code.”
+Pub. L. 94–225, § 2(b), Mar. 4, 1976, 90 Stat. 202, provided that: “The amendments made by subsection (a) of this section [amending this section] shall apply with respect to unfitness determinations made on or after the date of the enactment of this Act [Mar. 4, 1976] by the Secretaries of the military departments concerned for purposes of sections 1201, 1202, and 1203 of title 10, United States Code.”
 
 **Applicability of Subsection (d)**
 
@@ -1286,7 +1286,7 @@ Subsec. (d) of this section inapplicable with respect to flag officers of the Co
 
 **Ex. Ord. No. 10122. Regulations Governing Disability Pay, Hospitalization and Reexamination**
 
-Ex. Ord. No. 10122, Apr. 14, 1950, 15 F.R. 2173, as amended by Ex. Ord. 10400, Sept. 27, 1952, 17 F.R. 8648; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Ex. Ord. No. 11733, July 30, 1973, 38 F.R. 20431 provided:
+Ex. Ord. No. 10122, Apr. 14, 1950, 15 F.R. 2173, as amended by Ex. Ord. 10400, Sept. 27, 1952, 17 F.R. 8648; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Ex. Ord. No. 11733, July 30, 1973, 38 F.R. 20431 provided:
 
 By virtue of and pursuant to the authority vested in me by section 414(b) of the Career Compensation Act of 1949, approved October 12, 1949 (Public Law 351, 81st Congress [former section 284(b) of Title 37, now covered by subsecs. (b) and (c) of this section], and as President of the United States and Commander in Chief of the armed forces of the United States, I hereby prescribe the following regulations governing payment of disability retirement pay, hospitalization, and re-examination of members and former members of the uniformed services:
 
@@ -1306,7 +1306,7 @@ Sec. 6. Except as provided in section 5 hereof with respect to hospitalization f
 
 Sec. 7. Nothing in this order shall be construed to affect the duties, powers, and functions vested in the Administrator of Veterans’ Affairs pursuant to the provisions of the act of May 24, 1928, entitled “An Act making eligible for retirement, under certain conditions, officers and former officers of the Army, Navy, and Marine Corps of the United States, other than officers of the Regular Army, Navy, or Marine Corps, who incurred physical disability in line of duty while in the service of the United States during the World War” (45 Stat. 735, as amended) [section 581 of former Title 38], or by or pursuant to the act of September 26, 1941, entitled “An Act to provide retirement pay and hospital benefits to certain Reserve officers, Army of the United States, disabled while on active duty” (55 Stat. 733) [former section 456a of this title].
 
-## § 1216a. Determinations of disability: requirements and limitations on determinations
+## § 1216a. Determinations of disability: requirements and limitations on determinations
 
 **(a) Utilization of VA Schedule for Rating Disabilities in Determinations of Disability.—**
 
@@ -1320,15 +1320,15 @@ Sec. 7. Nothing in this order shall be construed to affect the duties, powers, a
 
 **(b) Consideration of All Medical Conditions.—** In making a determination of the rating of disability of a member of the armed forces for purposes of this chapter, the Secretary concerned shall take into account all medical conditions, whether individually or collectively, that render the member unfit to perform the duties of the member’s office, grade, rank, or rating.
 
-(Added Pub. L. 110–181, div. A, title XVI, § 1642(a), Jan. 28, 2008, 122 Stat. 465.)
+(Added Pub. L. 110–181, div. A, title XVI, § 1642(a), Jan. 28, 2008, 122 Stat. 465.)
 
-## § 1217. Academy cadets and midshipmen: applicability of chapter
+## § 1217. Academy cadets and midshipmen: applicability of chapter
 
 **(a)** This chapter applies to cadets at the United States Military Academy, the United States Air Force Academy, and the United States Coast Guard Academy and midshipmen of the United States Naval Academy, but only with respect to physical disabilities incurred after October 28, 2004.
 
 **(b)** Monthly cadet pay and monthly midshipman pay under section 203(c) of title 37 shall be considered to be basic pay for purposes of this chapter and the computation of retired pay and severance and separation pay to which entitlement is established under this chapter.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 100; Pub. L. 85–861, § 33(a)(7), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 108–375, div. A, title V, § 555(b)(1), Oct. 28, 2004, 118 Stat. 1914; Pub. L. 109–364, div. A, title X, § 1071(a)(6), Oct. 17, 2006, 120 Stat. 2398.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 100; Pub. L. 85–861, § 33(a)(7), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 108–375, div. A, title V, § 555(b)(1), Oct. 28, 2004, 118 Stat. 1914; Pub. L. 109–364, div. A, title X, § 1071(a)(6), Oct. 17, 2006, 120 Stat. 2398.)
 
 **Historical and Revision Notes**
 
@@ -1360,7 +1360,7 @@ Aviation cadets were omitted from chapter 61 because Title IV of the Career Comp
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
 
-## § 1218. Discharge or release from active duty: claims for compensation, pension, or hospitalization
+## § 1218. Discharge or release from active duty: claims for compensation, pension, or hospitalization
 
 **(a)** A member of an armed force may not be discharged or released from active duty because of physical disability until he—
 
@@ -1390,7 +1390,7 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 **(3)** The requirements in paragraph (1) shall expire on October 28, 2014.
 
-(Added Pub. L. 85–56, title XXII, § 2201(31)(A), June 17, 1957, 71 Stat. 160; amended Pub. L. 87–651, title I, § 107(c), Sept. 7, 1962, 76 Stat. 508; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), (4), Nov. 29, 1989, 103 Stat. 1602, 1603; Pub. L. 111–84, div. A, title V, § 511, Oct. 28, 2009, 123 Stat. 2280; Pub. L. 113–291, div. A, title X, § 1071(e)(1), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 114–328, div. A, title VI, § 618(c), Dec. 23, 2016, 130 Stat. 2160.)
+(Added Pub. L. 85–56, title XXII, § 2201(31)(A), June 17, 1957, 71 Stat. 160; amended Pub. L. 87–651, title I, § 107(c), Sept. 7, 1962, 76 Stat. 508; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), (4), Nov. 29, 1989, 103 Stat. 1602, 1603; Pub. L. 111–84, div. A, title V, § 511, Oct. 28, 2009, 123 Stat. 2280; Pub. L. 113–291, div. A, title X, § 1071(e)(1), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 114–328, div. A, title VI, § 618(c), Dec. 23, 2016, 130 Stat. 2160.)
 
 **Historical and Revision Notes**
 
@@ -1408,9 +1408,9 @@ Sections 1218 and 1219 are restated, without substantive change, to conform to t
 
 2009—Subsec. (d). Pub. L. 111–84 added subsec. (d).
 
-1989—Subsec. (a)(1). Pub. L. 101–189, § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+1989—Subsec. (a)(1). Pub. L. 101–189, § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-Subsec. (c). Pub. L. 101–189, § 1621(a)(4), substituted “facility of the Department of Veterans Affairs” for “Veterans’ Administration facility”.
+Subsec. (c). Pub. L. 101–189, § 1621(a)(4), substituted “facility of the Department of Veterans Affairs” for “Veterans’ Administration facility”.
 
 1962—Pub. L. 87–651 amended section generally, and among other changes, substituted “Discharge or release from active duty: claims for compensation, pension, or hospitalization” for “Explanation of rights before discharge” in section catchline, and struck out provisions which prohibited a person from being discharged or released from active duty until his certificate of discharge or release from active duty and his final pay (or a substantial portion of his final pay) are ready for delivery to him or to his next of kin or legal representative.
 
@@ -1420,7 +1420,7 @@ Subsec. (c). Pub. L. 101–189, § 1621(a)(4), substituted “facility of the 
 
 Section effective Jan. 1, 1958, see section 2301 of Pub. L. 85–56, 71 Stat. 172.
 
-## § 1218a. Discharge or release from active duty: transition assistance for reserve component members injured while on active duty
+## § 1218a. Discharge or release from active duty: transition assistance for reserve component members injured while on active duty
 
 **(a) Provision of Certain Information.—** Before a member of a reserve component described in subsection (b) is demobilized or separated from the armed forces, the Secretary of the military department concerned shall provide to the member the following information:
 
@@ -1430,13 +1430,13 @@ Section effective Jan. 1, 1958, see section 2301 of Pub. L. 85–56, 71 Stat. 17
 
 **(b) Covered Members.—** Subsection (a) applies to members of a reserve component who are injured while on active duty in the armed forces.
 
-(Added Pub. L. 111–84, div. A, title VI, § 641(a), Oct. 28, 2009, 123 Stat. 2364.)
+(Added Pub. L. 111–84, div. A, title VI, § 641(a), Oct. 28, 2009, 123 Stat. 2364.)
 
-## § 1219. Statement of origin of disease or injury: limitations
+## § 1219. Statement of origin of disease or injury: limitations
 
 A member of an armed force may not be required to sign a statement relating to the origin, incurrence, or aggravation of a disease or injury that he has. Any such statement against his interests, signed by a member, is invalid.
 
-(Added Pub. L. 85–56, title XXII, § 2201(31)(A), June 17, 1957, 71 Stat. 160; amended Pub. L. 87–651, title I, § 107(c), Sept. 7, 1962, 76 Stat. 509.)
+(Added Pub. L. 85–56, title XXII, § 2201(31)(A), June 17, 1957, 71 Stat. 160; amended Pub. L. 87–651, title I, § 107(c), Sept. 7, 1962, 76 Stat. 509.)
 
 **Historical and Revision Notes**
 
@@ -1456,15 +1456,15 @@ Sections 1218 and 1219 are restated, without substantive change, to conform to t
 
 Section effective Jan. 1, 1958, see section 2301 of Pub. L. 85–56, 71 Stat. 172.
 
-## [§ 1220. Repealed. Pub. L. 87–651, title I, § 107(d), Sept. 7, 1962, 76 Stat. 509]
+## [§ 1220. Repealed. Pub. L. 87–651, title I, § 107(d), Sept. 7, 1962, 76 Stat. 509]
 
-Section, added Pub. L. 85–56, title XXII, § 2201(31)(A), June 17, 1957, 71 Stat. 161, related to location of accredited representatives at military installations.
+Section, added Pub. L. 85–56, title XXII, § 2201(31)(A), June 17, 1957, 71 Stat. 161, related to location of accredited representatives at military installations.
 
-## § 1221. Effective date of retirement or placement of name on temporary disability retired list
+## § 1221. Effective date of retirement or placement of name on temporary disability retired list
 
 Notwithstanding section 8301 of title 5, the Secretary concerned may specify an effective date for the retirement of any member of the armed forces under this chapter, or for the placement of his name on the temporary disability retired list, that is earlier than the date provided for in that section.
 
-(Added Pub. L. 85–861, § 1(28)(B), Sept. 2, 1958, 72 Stat. 1451; amended Pub. L. 89–718, § 3, Nov. 2, 1966, 80 Stat. 1115.)
+(Added Pub. L. 85–861, § 1(28)(B), Sept. 2, 1958, 72 Stat. 1451; amended Pub. L. 89–718, § 3, Nov. 2, 1966, 80 Stat. 1115.)
 
 **Historical and Revision Notes**
 
@@ -1480,7 +1480,7 @@ Clause (2)(A) is omitted as unnecessary since the revised section applies to the
 
 1966—Pub. L. 89–718 substituted “8301” for “47a”.
 
-## § 1222. Physical evaluation boards
+## § 1222. Physical evaluation boards
 
 **(a) Response to Applications and Appeals.—** The Secretary of each military department shall ensure, in the case of any member of the armed forces appearing before a physical evaluation board under that Secretary’s supervision, that documents announcing a decision of the board in the case convey the findings and conclusions of the board in an orderly and itemized fashion with specific attention to each issue presented by the member in regard to that member’s case. The requirement under the preceding sentence applies to a case both during initial consideration and upon subsequent consideration due to appeal by the member or other circumstance.
 
@@ -1506,19 +1506,19 @@ Clause (2)(A) is omitted as unnecessary since the revised section applies to the
 
 **(2)** The Secretary shall ensure compliance with standards and guidelines prescribed under paragraph (1) by each physical evaluation board at least once every three years.
 
-(Added Pub. L. 109–364, div. A, title V, § 597(a)(1), Oct. 17, 2006, 120 Stat. 2236.)
+(Added Pub. L. 109–364, div. A, title V, § 597(a)(1), Oct. 17, 2006, 120 Stat. 2236.)
 
 **Editorial Notes**
 
 **Effective Date**
 
-Pub. L. 109–364, div. A, title V, § 597(b), Oct. 17, 2006, 120 Stat. 2237, provided that: “Section 1222 of title 10, United States Code, as added by subsection (a), shall apply with respect to decisions rendered on cases commenced more than 120 days after the date of the enactment of this Act [Oct. 17, 2006].”
+Pub. L. 109–364, div. A, title V, § 597(b), Oct. 17, 2006, 120 Stat. 2237, provided that: “Section 1222 of title 10, United States Code, as added by subsection (a), shall apply with respect to decisions rendered on cases commenced more than 120 days after the date of the enactment of this Act [Oct. 17, 2006].”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Quality Review of Medical Evaluation Boards, Physical Evaluation Boards, and Physical Evaluation Board Liaison Officers**
 
-Pub. L. 112–239, div. A, title V, § 524, Jan. 2, 2013, 126 Stat. 1723, as amended by Pub. L. 115–232, div. A, title VIII, § 813(f), Aug. 13, 2018, 132 Stat. 1851, provided that:
+Pub. L. 112–239, div. A, title V, § 524, Jan. 2, 2013, 126 Stat. 1723, as amended by Pub. L. 115–232, div. A, title VIII, § 813(f), Aug. 13, 2018, 132 Stat. 1851, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall standardize, assess, and monitor the quality assurance programs of the military departments to evaluate the following in the performance of their duties (including duties under chapter 61 of title 10, United States Code):
 
@@ -1536,4 +1536,4 @@ Pub. L. 112–239, div. A, title V, § 524, Jan. 2, 2013, 126 Stat. 1723, as a
 
 > **“(3)** Such other objectives as the Secretary shall specify for purposes of the quality assurance program.”
 
-[(c) Repealed. Pub. L. 115–232, div. A, title VIII, § 813(f), Aug. 13, 2018, 132 Stat. 1851.]
+[(c) Repealed. Pub. L. 115–232, div. A, title VIII, § 813(f), Aug. 13, 2018, 132 Stat. 1851.]

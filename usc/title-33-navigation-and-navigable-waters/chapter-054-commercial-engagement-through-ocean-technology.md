@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 54—COMMERCIAL ENGAGEMENT THROUGH OCEAN TECHNOLOGY
 
-## § 4101. Definitions
+## § 4101. Definitions
 
 In this chapter:
 
@@ -29,9 +29,9 @@ The term “Administrator” means the Under Secretary of Commerce for Oceans an
 
 **(3) Cooperative activities of the Administration**
 
-The terms 1
+The terms 1
 
-<sup>1</sup>  So in original. Probably should be “term”.
+<sup>1</sup> So in original. Probably should be “term”.
 
 “cooperative activities of the Administration” means cooperative activities between the Administration and an external entity, such as the Cooperative Institutes, Sea Grant Colleges, National Estuarine Research Reserves, the National Oceanographic Partnership Program established under chapter 665 of title 10, and regional associations of the Integrated Ocean Observing System.
 
@@ -73,17 +73,17 @@ The term “test or training range” may include specialized fixed or portable 
 
 The term “unmanned maritime systems” includes unmanned aerial vehicles and autonomous aerial vehicles that are used to address maritime issues to the extent the Administrator determines it is necessary and appropriate to achieve the purposes of this chapter.
 
-(Pub. L. 115–394, § 2, Dec. 21, 2018, 132 Stat. 5281.)
+(Pub. L. 115–394, § 2, Dec. 21, 2018, 132 Stat. 5281.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 115–394, § 1(a), Dec. 21, 2018, 132 Stat. 5281, provided that: “This Act [enacting this chapter] may be cited as the ‘Commercial Engagement Through Ocean Technology Act of 2018’ or the ‘CENOTE Act of 2018’.”
+Pub. L. 115–394, § 1(a), Dec. 21, 2018, 132 Stat. 5281, provided that: “This Act [enacting this chapter] may be cited as the ‘Commercial Engagement Through Ocean Technology Act of 2018’ or the ‘CENOTE Act of 2018’.”
 
 **Pilot Program for Governance and Oversight of Small Uncrewed Maritime Systems**
 
-Pub. L. 119–60, div. G, title LXXIII, § 7331, Dec. 18, 2025, 139 Stat. 1771, provided that:
+Pub. L. 119–60, div. G, title LXXIII, § 7331, Dec. 18, 2025, 139 Stat. 1771, provided that:
 
 > **“(a) Limitation.—** Notwithstanding any other provision of law, for the period beginning on the date of enactment of this Act [Dec. 18, 2025] and ending on the date that is 2 years after such date of enactment, small uncrewed maritime systems owned, operated, or chartered by the National Oceanic and Atmospheric Administration, or that are performing specified oceanographic surveys on behalf of and pursuant to a contract or other written agreement with the National Oceanic and Atmospheric Administration, shall not be subject to any vessel inspection, design, operations, navigation, credentialing, or training requirement, law, or regulation, that the Assistant Administrator of the Office of Marine and Aviation Operations of the National Oceanic and Atmospheric Administration determines will harm real-time operational extreme weather oceanographic and atmospheric data collection and predictions.
 
@@ -107,7 +107,7 @@ Pub. L. 119–60, div. G, title LXXIII, § 7331, Dec. 18, 2025, 139 Stat. 1771
 
 > **“(d) Savings Clause.—** Nothing in this section may be construed to repeal, replace, or preclude application of chapter 551 of title 46, United States Code.”
 
-## § 4102. Coordination regarding assessment and acquisition by National Oceanic and Atmospheric Administration of unmanned maritime systems
+## § 4102. Coordination regarding assessment and acquisition by National Oceanic and Atmospheric Administration of unmanned maritime systems
 
 **(a) Establishment** The Administrator shall direct the Office of Oceanic and Atmospheric Research (in this chapter referred to as “OAR”) and the Office of Marine and Aviation Operations (in this chapter referred to as “OMAO”)—
 
@@ -191,9 +191,9 @@ In carrying out this chapter, the Administrator and the Secretary of the Navy ma
 
 **(2)** to assist with their assessment of commercially available unmanned maritime systems to support the missions and goals of the Navy, the Administration, and cooperative activities of the Administration.
 
-(Pub. L. 115–394, § 3, Dec. 21, 2018, 132 Stat. 5282.)
+(Pub. L. 115–394, § 3, Dec. 21, 2018, 132 Stat. 5282.)
 
-## § 4103. Regular assessment of unmanned maritime systems to support National Oceanic and Atmospheric Administration missions
+## § 4103. Regular assessment of unmanned maritime systems to support National Oceanic and Atmospheric Administration missions
 
 **(a) In general**
 
@@ -213,7 +213,7 @@ The Administrator shall carry out subsection (a) through the Director for all ma
 
 **(2)** consult with the heads of other offices of the Administration, the academic sector, and developers and manufacturers of unmanned maritime systems to conduct the assessments under subsection (a).
 
-(Pub. L. 115–394, § 4, Dec. 21, 2018, 132 Stat. 5284; Pub. L. 119–60, div. H, title LXXXIV, § 8401(a)(2), Dec. 18, 2025, 139 Stat. 1908.)
+(Pub. L. 115–394, § 4, Dec. 21, 2018, 132 Stat. 5284; Pub. L. 119–60, div. H, title LXXXIV, § 8401(a)(2), Dec. 18, 2025, 139 Stat. 1908.)
 
 **Editorial Notes**
 
@@ -221,7 +221,7 @@ The Administrator shall carry out subsection (a) through the Director for all ma
 
 2025—Subsec. (a). Pub. L. 119–60 substituted “Assistant Administrator of the National Oceanic and Atmospheric Administration for” for “Director of the Office of”.
 
-## § 4104. Acquisition of unmanned maritime systems
+## § 4104. Acquisition of unmanned maritime systems
 
 **(a) In general**
 
@@ -241,9 +241,9 @@ The Administrator shall coordinate and centralize the acquisition by the Adminis
 
 Nothing in this chapter shall be construed to modify Federal procurement law.
 
-(Pub. L. 115–394, § 5, Dec. 21, 2018, 132 Stat. 5285.)
+(Pub. L. 115–394, § 5, Dec. 21, 2018, 132 Stat. 5285.)
 
-## § 4105. Reports on unmanned maritime systems and usage for mission of the National Oceanic and Atmospheric Administration
+## § 4105. Reports on unmanned maritime systems and usage for mission of the National Oceanic and Atmospheric Administration
 
 **(a) In general**
 
@@ -261,9 +261,9 @@ In carrying out this chapter, the Administrator shall, not later than one year a
 
 **(2)** the Committee on Appropriations, the Committee on Armed Services, the Committee on Natural Resources, and the Committee on Science, Space, and Technology of the House of Representatives.
 
-(Pub. L. 115–394, § 6, Dec. 21, 2018, 132 Stat. 5285.)
+(Pub. L. 115–394, § 6, Dec. 21, 2018, 132 Stat. 5285.)
 
-## § 4106. Funding and additional authorities
+## § 4106. Funding and additional authorities
 
 **(a) Funding**
 
@@ -289,4 +289,4 @@ The Administrator shall carry out this chapter using existing amounts appropriat
 
 **(C)** any foreign government or international organization.
 
-(Pub. L. 115–394, § 7, Dec. 21, 2018, 132 Stat. 5286.)
+(Pub. L. 115–394, § 7, Dec. 21, 2018, 132 Stat. 5286.)

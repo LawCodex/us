@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 605—RECIDIVISM PREVENTION
 
-## § 60501. Purposes; findings
+## § 60501. Purposes; findings
 
 **(a) Purposes** The purposes of the Act are—
 
@@ -71,7 +71,7 @@ retrieved: 2026-10-11
 
 **(19)** Transitional jobs programs have proven to help people with criminal records to successfully return to the workplace and to the community, and therefore can reduce recidivism.
 
-(Pub. L. 110–199, § 3, Apr. 9, 2008, 122 Stat. 658.)
+(Pub. L. 110–199, § 3, Apr. 9, 2008, 122 Stat. 658.)
 
 **Editorial Notes**
 
@@ -87,7 +87,7 @@ Section was formerly classified to section 17501 of Title 42, The Public Health 
 
 **Evaluation of the Second Chance Act Program**
 
-Pub. L. 115–391, title V, § 507, Dec. 21, 2018, 132 Stat. 5235, provided that:
+Pub. L. 115–391, title V, § 507, Dec. 21, 2018, 132 Stat. 5235, provided that:
 
 > **“(a) Evaluation of the Second Chance Act Grant Program.—** Not later than 5 years after the date of enactment of this Act [Dec. 21, 2018], the National Institute of Justice shall evaluate the effectiveness of grants used by the Department of Justice to support offender reentry and recidivism reduction programs at the State, local, Tribal, and Federal levels. The National Institute of Justice shall evaluate the following:
 
@@ -137,9 +137,9 @@ Pub. L. 115–391, title V, § 507, Dec. 21, 2018, 132 Stat. 5235, provided th
 
 **Promoting Rehabilitation and Reintegration of Formerly Incarcerated Individuals**
 
-Memorandum of President of the United States, Apr. 29, 2016, 81 F.R. 26993, which established the Federal Interagency Reentry Council and directed agencies to take certain measures to reduce barriers to employment for formerly incarcerated individuals, was revoked by Ex. Ord. No. 13826, § 5, Mar. 7, 2018, 83 F.R. 10773.
+Memorandum of President of the United States, Apr. 29, 2016, 81 F.R. 26993, which established the Federal Interagency Reentry Council and directed agencies to take certain measures to reduce barriers to employment for formerly incarcerated individuals, was revoked by Ex. Ord. No. 13826, § 5, Mar. 7, 2018, 83 F.R. 10773.
 
-## § 60502. Definitions
+## § 60502. Definitions
 
 In this Act—
 
@@ -169,7 +169,7 @@ In this Act—
 
 **(F)** provides job retention, re-employment services, and continuing and vocational education to ensure continuing participation in unsubsidized employment and identification of opportunities for advancement.
 
-(Pub. L. 110–199, § 4, Apr. 9, 2008, 122 Stat. 660; Pub. L. 115–391, title V, § 502(g)(1), Dec. 21, 2018, 132 Stat. 5231.)
+(Pub. L. 110–199, § 4, Apr. 9, 2008, 122 Stat. 660; Pub. L. 115–391, title V, § 502(g)(1), Dec. 21, 2018, 132 Stat. 5231.)
 
 **Editorial Notes**
 
@@ -185,11 +185,11 @@ Section was formerly classified to section 17502 of Title 42, The Public Health 
 
 2018—Pub. L. 115–391 amended section generally. Prior to amendment, text read as follows: “In this Act, the term ‘Indian Tribe’ has the meaning given that term in section 10251 of this title.”
 
-## § 60503. Submission of reports to Congress
+## § 60503. Submission of reports to Congress
 
 Not later than January 31 of each year, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives each report required by the Attorney General under this Act or an amendment made by this Act during the preceding year.
 
-(Pub. L. 110–199, § 5, Apr. 9, 2008, 122 Stat. 660.)
+(Pub. L. 110–199, § 5, Apr. 9, 2008, 122 Stat. 660.)
 
 **Editorial Notes**
 
@@ -201,23 +201,23 @@ This Act, referred to in text, is Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657
 
 Section was formerly classified to section 17503 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 60504. Rule of construction
+## § 60504. Rule of construction
 
 Nothing in this Act or an amendment made by this Act shall be construed as creating a right or entitlement to assistance or services for any individual, program, or grant recipient. Each grant made under this Act or an amendment made by this Act shall—
 
-**(1)** be made as competitive grants 1
+**(1)** be made as competitive grants 1
 
-<sup>1</sup>  So in original. Probably should be “as a competitive grant”.
+<sup>1</sup> So in original. Probably should be “as a competitive grant”.
 
-to eligible entities for a 12-month period, except that grants awarded under section 113 2
+to eligible entities for a 12-month period, except that grants awarded under section 113 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
-, section 60521 of this title, section 60531 of this title, and section 60532 2 of this title or under section 10631 of this title may be made for a 24-month period; and
+, section 60521 of this title, section 60531 of this title, and section 60532 2 of this title or under section 10631 of this title may be made for a 24-month period; and
 
 **(2)** require that services for participants, when necessary and appropriate, be transferred from programs funded under this Act or the amendment made by this Act, respectively, to State and community-based programs not funded under this Act or the amendment made by this Act, respectively, before the expiration of the grant.
 
-(Pub. L. 110–199, § 6, Apr. 9, 2008, 122 Stat. 660; Pub. L. 115–391, title V, § 502(h), Dec. 21, 2018, 132 Stat. 5231.)
+(Pub. L. 110–199, § 6, Apr. 9, 2008, 122 Stat. 660; Pub. L. 115–391, title V, § 502(h), Dec. 21, 2018, 132 Stat. 5231.)
 
 **Editorial Notes**
 
@@ -227,7 +227,7 @@ This Act, referred to in text, is Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657
 
 Section 113, referred to in par. (1), means section 113 of Pub. L. 110–199. For complete classification of section 113 of Pub. L. 110–199 to the Code, see Tables.
 
-Section 60532 of this title, referred to in par. (1), was repealed by Pub. L. 115–391, title V, § 504(a), Dec. 21, 2018, 132 Stat. 5233.
+Section 60532 of this title, referred to in par. (1), was repealed by Pub. L. 115–391, title V, § 504(a), Dec. 21, 2018, 132 Stat. 5233.
 
 **Codification**
 
@@ -237,13 +237,13 @@ Section was formerly classified to section 17504 of Title 42, The Public Health 
 
 2018—Par. (1). Pub. L. 115–391 inserted “or under section 10631 of this title” after “section 60532 of this title”.
 
-## § 60505. Audit and accountability of grantees
+## § 60505. Audit and accountability of grantees
 
 **(a) Definitions** In this section—
 
-**(1)** the term “covered grant program” means grants awarded under section 60511, 60521, or 60531 of this title, as amended by this title; 1
+**(1)** the term “covered grant program” means grants awarded under section 60511, 60521, or 60531 of this title, as amended by this title; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** the term “covered grantee” means a recipient of a grant from a covered grant program;
 
@@ -293,7 +293,7 @@ Each nonprofit organization that is a covered grantee shall disclose in its appl
 
 **(B)** prohibit the covered grantee from receiving a grant under the covered grant program from which it received a grant award during at least the 5-year period beginning on the date of such violation.
 
-(Pub. L. 115–391, title V, § 503, Dec. 21, 2018, 132 Stat. 5232.)
+(Pub. L. 115–391, title V, § 503, Dec. 21, 2018, 132 Stat. 5232.)
 
 **Editorial Notes**
 
@@ -301,7 +301,7 @@ Each nonprofit organization that is a covered grantee shall disclose in its appl
 
 As amended by this title, referred to in subsec. (a)(1), means as amended by title V of Pub. L. 115–391.
 
-## § 60506. Federal interagency reentry coordination
+## § 60506. Federal interagency reentry coordination
 
 **(a) Reentry coordination**
 
@@ -311,11 +311,11 @@ The Attorney General, in consultation with the Secretary of Housing and Urban De
 
 Not later than 2 years after December 21, 2018, the Attorney General, in consultation with the Secretaries listed in subsection (a), shall submit to Congress a report summarizing the achievements under subsection (a), and including recommendations for Congress that would further reduce barriers to successful reentry.
 
-(Pub. L. 115–391, title V, § 505, Dec. 21, 2018, 132 Stat. 5234.)
+(Pub. L. 115–391, title V, § 505, Dec. 21, 2018, 132 Stat. 5234.)
 
 ## SUBCHAPTER I—NEW AND INNOVATIVE PROGRAMS TO IMPROVE OFFENDER REENTRY SERVICES
 
-### § 60511. Careers training demonstration grants
+### § 60511. Careers training demonstration grants
 
 **(a) Authority to make grants**
 
@@ -347,7 +347,7 @@ Not later than the last day of each fiscal year, an entity that receives a grant
 
 There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019, 2020, 2021, 2022, and 2023.
 
-(Pub. L. 110–199, title I, § 115, Apr. 9, 2008, 122 Stat. 677; Pub. L. 115–391, title V, § 502(d), Dec. 21, 2018, 132 Stat. 5229.)
+(Pub. L. 110–199, title I, § 115, Apr. 9, 2008, 122 Stat. 677; Pub. L. 115–391, title V, § 502(d), Dec. 21, 2018, 132 Stat. 5229.)
 
 **Editorial Notes**
 
@@ -357,25 +357,25 @@ Section was formerly classified to section 17511 of Title 42, The Public Health 
 
 **Amendments**
 
-2018—Pub. L. 115–391, § 502(d)(1), substituted “Careers” for “Technology careers” in section catchline.
+2018—Pub. L. 115–391, § 502(d)(1), substituted “Careers” for “Technology careers” in section catchline.
 
-Subsec. (a). Pub. L. 115–391, § 502(d)(2), substituted “nonprofit organizations, and Indian Tribes to provide career training, including subsidized employment, when part of a training program, to prisoners and reentering youth and adults” for “and Indian Tribes to provide technology career training to prisoners”.
+Subsec. (a). Pub. L. 115–391, § 502(d)(2), substituted “nonprofit organizations, and Indian Tribes to provide career training, including subsidized employment, when part of a training program, to prisoners and reentering youth and adults” for “and Indian Tribes to provide technology career training to prisoners”.
 
-Subsec. (b). Pub. L. 115–391, § 502(d)(3), struck out “technology careers training” before “program” and “technology-based” before “jobs” and inserted “, as well as upon transition and reentry into the community” after “facility”.
+Subsec. (b). Pub. L. 115–391, § 502(d)(3), struck out “technology careers training” before “program” and “technology-based” before “jobs” and inserted “, as well as upon transition and reentry into the community” after “facility”.
 
-Subsec. (c). Pub. L. 115–391, § 502(d)(6), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 115–391, § 502(d)(6), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 115–391, § 502(d)(5), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 115–391, § 502(d)(5), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 115–391, § 502(d)(4), (5), redesignated subsec. (d) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2009 and 2010.”
+Subsec. (e). Pub. L. 115–391, § 502(d)(4), (5), redesignated subsec. (d) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2009 and 2010.”
 
-Subsec. (f). Pub. L. 115–391, § 502(d)(7), added subsec. (f).
+Subsec. (f). Pub. L. 115–391, § 502(d)(7), added subsec. (f).
 
 ## SUBCHAPTER II—ENHANCED DRUG TREATMENT AND MENTORING GRANT PROGRAMS
 
 ### Part A—Drug Treatment
 
-#### § 60521. Offender reentry substance abuse and criminal justice collaboration program
+#### § 60521. Offender reentry substance abuse and criminal justice collaboration program
 
 **(a) Grant program authorized** The Attorney General may make competitive grants to States, units of local government, territories, and Indian Tribes, in accordance with this section, for the purposes of—
 
@@ -441,7 +441,7 @@ There are authorized to be appropriated to carry out this section $15,000,000 fo
 
 Of the amount made available to carry out this section in any fiscal year, the Attorney General shall ensure that grants awarded under this section are equitably distributed among geographical regions and between urban and rural populations, including Indian Tribes, consistent with the objective of reducing recidivism among criminal offenders.
 
-(Pub. L. 110–199, title II, § 201, Apr. 9, 2008, 122 Stat. 678; Pub. L. 115–391, title V, § 502(e), Dec. 21, 2018, 132 Stat. 5230.)
+(Pub. L. 110–199, title II, § 201, Apr. 9, 2008, 122 Stat. 678; Pub. L. 115–391, title V, § 502(e), Dec. 21, 2018, 132 Stat. 5230.)
 
 **Editorial Notes**
 
@@ -455,7 +455,7 @@ Section was formerly classified to section 17521 of Title 42, The Public Health 
 
 ### Part B—Mentoring
 
-#### § 60531. Community-based mentoring and transitional service grants to nonprofit organizations
+#### § 60531. Community-based mentoring and transitional service grants to nonprofit organizations
 
 **(a) Authority to make grants**
 
@@ -503,7 +503,7 @@ An entity that receives a grant under subsection (a) during a fiscal year shall,
 
 There are authorized to be appropriated to the Attorney General to carry out this section $15,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 110–199, title II, § 211, Apr. 9, 2008, 122 Stat. 679; Pub. L. 114–255, div. B, title XIV, § 14009(b), Dec. 13, 2016, 130 Stat. 1297; Pub. L. 115–391, title V, § 502(f)(1), Dec. 21, 2018, 132 Stat. 5230.)
+(Pub. L. 110–199, title II, § 211, Apr. 9, 2008, 122 Stat. 679; Pub. L. 114–255, div. B, title XIV, § 14009(b), Dec. 13, 2016, 130 Stat. 1297; Pub. L. 115–391, title V, § 502(f)(1), Dec. 21, 2018, 132 Stat. 5230.)
 
 **Editorial Notes**
 
@@ -513,23 +513,23 @@ Section was formerly classified to section 17531 of Title 42, The Public Health 
 
 **Amendments**
 
-2018—Pub. L. 115–391, § 502(f)(1)(A), substituted “Community-based mentoring and transitional service grants to nonprofit organizations” for “Mentoring grants to nonprofit organizations” in section catchline.
+2018—Pub. L. 115–391, § 502(f)(1)(A), substituted “Community-based mentoring and transitional service grants to nonprofit organizations” for “Mentoring grants to nonprofit organizations” in section catchline.
 
-Subsec. (a). Pub. L. 115–391, § 502(f)(1)(B), struck out “mentoring and other” before “transitional services”.
+Subsec. (a). Pub. L. 115–391, § 502(f)(1)(B), struck out “mentoring and other” before “transitional services”.
 
-Subsec. (b)(2). Pub. L. 115–391, § 502(f)(1)(C), added par. (2) and struck out former par. (2) which read as follows: “transitional services to assist in the reintegration of offenders into the community, including mental health care; and”.
+Subsec. (b)(2). Pub. L. 115–391, § 502(f)(1)(C), added par. (2) and struck out former par. (2) which read as follows: “transitional services to assist in the reintegration of offenders into the community, including mental health care; and”.
 
-Subsec. (f). Pub. L. 115–391, § 502(f)(1)(D), substituted “this section $15,000,000 for each of fiscal years 2019 through 2023.” for “this section $15,000,000 for each of fiscal years 2009 and 2010.”
+Subsec. (f). Pub. L. 115–391, § 502(f)(1)(D), substituted “this section $15,000,000 for each of fiscal years 2019 through 2023.” for “this section $15,000,000 for each of fiscal years 2009 and 2010.”
 
-2016—Subsec. (b)(2). Pub. L. 114–255 inserted “, including mental health care” after “community”.
+2016—Subsec. (b)(2). Pub. L. 114–255 inserted “, including mental health care” after “community”.
 
-#### § 60532. Repealed. Pub. L. 115–391, title V, § 504(a), Dec. 21, 2018, 132 Stat. 5233
+#### § 60532. Repealed. Pub. L. 115–391, title V, § 504(a), Dec. 21, 2018, 132 Stat. 5233
 
-Section, Pub. L. 110–199, title II, § 212, Apr. 9, 2008, 122 Stat. 680; Pub. L. 113–128, title V, § 512(bb)(1), July 22, 2014, 128 Stat. 1717, related to responsible reintegration of offenders.
+Section, Pub. L. 110–199, title II, § 212, Apr. 9, 2008, 122 Stat. 680; Pub. L. 113–128, title V, § 512(bb)(1), July 22, 2014, 128 Stat. 1717, related to responsible reintegration of offenders.
 
 Section was formerly classified to section 17532 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 60533. Bureau of Prisons policy on mentoring contacts
+#### § 60533. Bureau of Prisons policy on mentoring contacts
 
 **(a) In general**
 
@@ -539,7 +539,7 @@ Not later than 90 days after April 9, 2008, the Director of the Bureau of Prison
 
 Not later than September 30, 2009, the Director of the Bureau of Prisons shall submit to Congress a report on the extent to which the policy described in subsection (a) has been implemented and followed.
 
-(Pub. L. 110–199, title II, § 213, Apr. 9, 2008, 122 Stat. 683.)
+(Pub. L. 110–199, title II, § 213, Apr. 9, 2008, 122 Stat. 683.)
 
 **Editorial Notes**
 
@@ -547,7 +547,7 @@ Not later than September 30, 2009, the Director of the Bureau of Prisons shall s
 
 Section was formerly classified to section 17533 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 60534. Bureau of Prisons policy on chapel library materials
+#### § 60534. Bureau of Prisons policy on chapel library materials
 
 **(a) In general** Not later than 30 days after April 9, 2008, the Director of the Bureau of Prisons shall discontinue the Standardized Chapel Library project, or any other project by whatever designation that seeks to compile, list, or otherwise restrict prisoners’ access to reading materials, audiotapes, videotapes, or any other materials made available in a chapel library, except that the Bureau of Prisons may restrict access to—
 
@@ -559,7 +559,7 @@ Section was formerly classified to section 17533 of Title 42, The Public Health 
 
 Nothing in this section shall be construed to impact policies of the Bureau of Prisons related to access by specific prisoners to materials for security, safety, sanitation, or disciplinary reasons.
 
-(Pub. L. 110–199, title II, § 214, Apr. 9, 2008, 122 Stat. 683.)
+(Pub. L. 110–199, title II, § 214, Apr. 9, 2008, 122 Stat. 683.)
 
 **Editorial Notes**
 
@@ -571,7 +571,7 @@ Section was formerly classified to section 17534 of Title 42, The Public Health 
 
 #### subpart 1—improving federal offender reentry
 
-##### § 60541. Federal prisoner reentry initiative
+##### § 60541. Federal prisoner reentry initiative
 
 **(a) In general** The Attorney General, in coordination with the Director of the Bureau of Prisons, shall, subject to the availability of appropriations, conduct the following activities to establish a Federal prisoner reentry initiative:
 
@@ -759,7 +759,7 @@ The term “term of imprisonment” includes multiple terms of imprisonment orde
 
 There are authorized to be appropriated to the Attorney General to carry out this section, $5,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 110–199, title II, § 231, Apr. 9, 2008, 122 Stat. 683; Pub. L. 113–128, title V, § 512(bb)(2), July 22, 2014, 128 Stat. 1717; Pub. L. 115–391, title V, § 504(b), title VI, §§ 603(a), 604(a), Dec. 21, 2018, 132 Stat. 5233, 5238, 5241.)
+(Pub. L. 110–199, title II, § 231, Apr. 9, 2008, 122 Stat. 683; Pub. L. 113–128, title V, § 512(bb)(2), July 22, 2014, 128 Stat. 1717; Pub. L. 115–391, title V, § 504(b), title VI, §§ 603(a), 604(a), Dec. 21, 2018, 132 Stat. 5233, 5238, 5241.)
 
 **Editorial Notes**
 
@@ -771,35 +771,35 @@ Section is comprised of section 231 of Pub. L. 110–199. Subsec. (d)(1) of sect
 
 **Amendments**
 
-2018—Subsec. (b)(1). Pub. L. 115–391, § 604(a)(1), substituted “prior to release from a term of imprisonment in a Federal prison or if the individual was not sentenced to a term of imprisonment in a Federal prison, prior to release from a sentence to a term in community confinement, including” for “(including” and “and a birth certificate” for “or birth certificate) prior to release”.
+2018—Subsec. (b)(1). Pub. L. 115–391, § 604(a)(1), substituted “prior to release from a term of imprisonment in a Federal prison or if the individual was not sentenced to a term of imprisonment in a Federal prison, prior to release from a sentence to a term in community confinement, including” for “(including” and “and a birth certificate” for “or birth certificate) prior to release”.
 
-Subsec. (b)(4). Pub. L. 115–391, § 604(a)(2), added par. (4).
+Subsec. (b)(4). Pub. L. 115–391, § 604(a)(2), added par. (4).
 
-Subsec. (g)(1). Pub. L. 115–391, § 603(a)(1)(A), inserted “and eligible terminally ill offenders” after “elderly offenders” wherever appearing.
+Subsec. (g)(1). Pub. L. 115–391, § 603(a)(1)(A), inserted “and eligible terminally ill offenders” after “elderly offenders” wherever appearing.
 
-Subsec. (g)(1)(A). Pub. L. 115–391, § 603(a)(1)(B), substituted “Bureau of Prisons facilities” for “a Bureau of Prisons facility”.
+Subsec. (g)(1)(A). Pub. L. 115–391, § 603(a)(1)(B), substituted “Bureau of Prisons facilities” for “a Bureau of Prisons facility”.
 
-Subsec. (g)(1)(B). Pub. L. 115–391, § 603(a)(1)(C), substituted “Bureau of Prisons facilities” for “the Bureau of Prisons facility” and inserted “, upon written request from either the Bureau of Prisons or an eligible elderly offender or eligible terminally ill offender” after “to home detention”.
+Subsec. (g)(1)(B). Pub. L. 115–391, § 603(a)(1)(C), substituted “Bureau of Prisons facilities” for “the Bureau of Prisons facility” and inserted “, upon written request from either the Bureau of Prisons or an eligible elderly offender or eligible terminally ill offender” after “to home detention”.
 
-Subsec. (g)(1)(C). Pub. L. 115–391, § 603(a)(1)(D), substituted “Bureau of Prisons facilities” for “the Bureau of Prisons facility”.
+Subsec. (g)(1)(C). Pub. L. 115–391, § 603(a)(1)(D), substituted “Bureau of Prisons facilities” for “the Bureau of Prisons facility”.
 
-Subsec. (g)(2). Pub. L. 115–391, § 603(a)(2), inserted “or eligible terminally ill offender” after “elderly offender”.
+Subsec. (g)(2). Pub. L. 115–391, § 603(a)(2), inserted “or eligible terminally ill offender” after “elderly offender”.
 
-Subsec. (g)(3). Pub. L. 115–391, § 603(a)(3), substituted “Bureau of Prisons facilities” for “at least one Bureau of Prisons facility”.
+Subsec. (g)(3). Pub. L. 115–391, § 603(a)(3), substituted “Bureau of Prisons facilities” for “at least one Bureau of Prisons facility”.
 
-Pub. L. 115–391, § 504(b)(1)(A), substituted “carried out during fiscal years 2019 through 2023” for “carried out during fiscal years 2009 and 2010”.
+Pub. L. 115–391, § 504(b)(1)(A), substituted “carried out during fiscal years 2019 through 2023” for “carried out during fiscal years 2009 and 2010”.
 
-Subsec. (g)(4). Pub. L. 115–391, § 603(a)(4), inserted “or eligible terminally ill offender” after “each eligible elderly offender” and “and eligible terminally ill offenders” after “eligible elderly offenders”.
+Subsec. (g)(4). Pub. L. 115–391, § 603(a)(4), inserted “or eligible terminally ill offender” after “each eligible elderly offender” and “and eligible terminally ill offenders” after “eligible elderly offenders”.
 
-Subsec. (g)(5)(A)(i). Pub. L. 115–391, § 603(a)(5)(A)(i), substituted “60 years of age” for “65 years of age”.
+Subsec. (g)(5)(A)(i). Pub. L. 115–391, § 603(a)(5)(A)(i), substituted “60 years of age” for “65 years of age”.
 
-Subsec. (g)(5)(A)(ii). Pub. L. 115–391, § 603(a)(5)(A)(ii), substituted “⅔” for “75 percent”.
+Subsec. (g)(5)(A)(ii). Pub. L. 115–391, § 603(a)(5)(A)(ii), substituted “⅔” for “75 percent”.
 
-Pub. L. 115–391, § 504(b)(1)(B), struck out “the greater of 10 years or” after “has served”.
+Pub. L. 115–391, § 504(b)(1)(B), struck out “the greater of 10 years or” after “has served”.
 
-Subsec. (g)(5)(D). Pub. L. 115–391, § 603(a)(5)(B), added subpar. (D).
+Subsec. (g)(5)(D). Pub. L. 115–391, § 603(a)(5)(B), added subpar. (D).
 
-Subsecs. (h), (i). Pub. L. 115–391, § 504(b)(2)–(4), redesignated subsec. (i) as (h), substituted “2019 through 2023” for “2009 and 2010”, and struck out former subsec. (h) which related to the Federal Remote Satellite Tracking and Reentry Training program.
+Subsecs. (h), (i). Pub. L. 115–391, § 504(b)(2)–(4), redesignated subsec. (i) as (h), substituted “2019 through 2023” for “2009 and 2010”, and struck out former subsec. (h) which related to the Federal Remote Satellite Tracking and Reentry Training program.
 
 2014—Subsec. (e). Pub. L. 113–128 substituted “the one-stop partners and one-stop operators (as such terms are defined in section 3102 of title 29) that provide services at any center operated under a one-stop delivery system established under section 3151(e) of title 29” for “the one-stop partners and one-stop operators (as such terms are defined in section 2801 of title 29) that provide services at any center operated under a one-stop delivery system established under section 2864(c) of title 29”.
 
@@ -811,7 +811,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 #### subpart 2—reentry research
 
-##### § 60551. Offender reentry research
+##### § 60551. Offender reentry research
 
 **(a) National Institute of Justice** The National Institute of Justice may conduct research on juvenile and adult offender reentry, including—
 
@@ -835,7 +835,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 **(6)** a study concerning the most appropriate measure to be used when reporting recidivism rates (whether rearrest, reincarceration, or any other valid, evidence-based measure).
 
-(Pub. L. 110–199, title II, § 241, Apr. 9, 2008, 122 Stat. 690.)
+(Pub. L. 110–199, title II, § 241, Apr. 9, 2008, 122 Stat. 690.)
 
 **Editorial Notes**
 
@@ -843,7 +843,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 Section was formerly classified to section 17551 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-##### § 60552. Grants to study parole or post-incarceration supervision violations and revocations
+##### § 60552. Grants to study parole or post-incarceration supervision violations and revocations
 
 **(a) Grants authorized**
 
@@ -867,7 +867,7 @@ From amounts made available to carry out this section, the Attorney General may 
 
 Any statistical analysis of population data under this section shall be conducted in accordance with the Federal Register Notice dated October 30, 1997, relating to classification standards.
 
-(Pub. L. 110–199, title II, § 242, Apr. 9, 2008, 122 Stat. 690.)
+(Pub. L. 110–199, title II, § 242, Apr. 9, 2008, 122 Stat. 690.)
 
 **Editorial Notes**
 
@@ -875,7 +875,7 @@ Any statistical analysis of population data under this section shall be conducte
 
 Section was formerly classified to section 17552 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-##### § 60553. Addressing the needs of children of incarcerated parents
+##### § 60553. Addressing the needs of children of incarcerated parents
 
 **(a) Best practices**
 
@@ -899,7 +899,7 @@ Not later than 1 year after the development of best practices described in subse
 
 It is the sense of Congress that States and other relevant entities should use the best practices developed and disseminated in accordance with this section to evaluate and improve the communication and coordination between State corrections departments and child protection agencies to ensure the safety and support of children of incarcerated parents (including those in foster care and kinship care), and the support of parent-child relationships between incarcerated (and formerly incarcerated) parents and their children, as appropriate to the health and well-being of the children.
 
-(Pub. L. 110–199, title II, § 243, Apr. 9, 2008, 122 Stat. 691.)
+(Pub. L. 110–199, title II, § 243, Apr. 9, 2008, 122 Stat. 691.)
 
 **Editorial Notes**
 
@@ -907,17 +907,17 @@ It is the sense of Congress that States and other relevant entities should use t
 
 Section was formerly classified to section 17553 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-##### § 60554. Repealed. Pub. L. 115–391, title V, § 504(d), Dec. 21, 2018, 132 Stat. 5233
+##### § 60554. Repealed. Pub. L. 115–391, title V, § 504(d), Dec. 21, 2018, 132 Stat. 5233
 
-Section, Pub. L. 110–199, title II, § 244, Apr. 9, 2008, 122 Stat. 692, related to study of effectiveness of depot naltrexone for heroin addiction.
+Section, Pub. L. 110–199, title II, § 244, Apr. 9, 2008, 122 Stat. 692, related to study of effectiveness of depot naltrexone for heroin addiction.
 
 Section was formerly classified to section 17554 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-##### § 60555. Authorization of appropriations for research
+##### § 60555. Authorization of appropriations for research
 
 There are authorized to be appropriated to the Attorney General to carry out sections 60551, 60552, and 60553 of this title, $5,000,000 for each of the fiscal years 2019, 2020, 2021, 2022, and 2023.
 
-(Pub. L. 110–199, title II, § 245, Apr. 9, 2008, 122 Stat. 692; Pub. L. 115–391, title V, § 504(e), Dec. 21, 2018, 132 Stat. 5233.)
+(Pub. L. 110–199, title II, § 245, Apr. 9, 2008, 122 Stat. 692; Pub. L. 115–391, title V, § 504(e), Dec. 21, 2018, 132 Stat. 5233.)
 
 **Editorial Notes**
 

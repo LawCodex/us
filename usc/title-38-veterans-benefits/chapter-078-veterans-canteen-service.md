@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, substituted “Secretary” for “Administrator” in item 7802.
+1991—Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, substituted “Secretary” for “Administrator” in item 7802.
 
-Pub. L. 102–40, title IV, § 402(a), (c)(1), May 7, 1991, 105 Stat. 238, 239, redesignated chapter 75 of this title as this chapter and renumbered items 4201 to 4210 as 7801 to 7810, respectively.
+Pub. L. 102–40, title IV, § 402(a), (c)(1), May 7, 1991, 105 Stat. 238, 239, redesignated chapter 75 of this title as this chapter and renumbered items 4201 to 4210 as 7801 to 7810, respectively.
 
-1988—Pub. L. 100–322, title IV, §§ 412(b), 414(b)(2), May 20, 1988, 102 Stat. 548, 549, added items 4209 and 4210.
+1988—Pub. L. 100–322, title IV, §§ 412(b), 414(b)(2), May 20, 1988, 102 Stat. 548, 549, added items 4209 and 4210.
 
-## § 7801. Purpose of Veterans’ Canteen Service
+## § 7801. Purpose of Veterans’ Canteen Service
 
 The Veterans’ Canteen Service (hereinafter in this chapter referred to as the “Service”) in the Department is an instrumentality of the United States, created for the primary purpose of making available to veterans of the Armed Forces who are hospitalized or domiciled in hospitals and homes of the Department, at reasonable prices, articles of merchandise and services essential to their comfort and well-being.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1248, § 4201; renumbered § 7801 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1248, § 4201; renumbered § 7801 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35.)
 
 **Editorial Notes**
 
@@ -41,7 +41,7 @@ The Veterans’ Canteen Service (hereinafter in this chapter referred to as the 
 
 Pub. L. 102–83 substituted “Department” for “Veterans’ Administration” in two places.
 
-## § 7802. Duties of Secretary with respect to Service
+## § 7802. Duties of Secretary with respect to Service
 
 **(a) Locations for Canteens.—** The Secretary shall establish, maintain, and operate canteens where deemed necessary and practicable at hospitals and homes of the Department and at other Department establishments where similar essential facilities are not reasonably available from outside commercial sources.
 
@@ -65,7 +65,7 @@ Pub. L. 102–83 substituted “Department” for “Veterans’ Administration�
 
 **(k) Authority To Cash Checks, Etc.—** The Secretary may authorize the use of funds of the Service when available, subject to such regulations as the Secretary may deem appropriate, for the purpose of cashing checks, money orders, and similar instruments in nominal amounts for the payment of money presented by veterans hospitalized or domiciled at hospitals and homes of the Department, and by other persons authorized by section 7803 of this title to make purchases at canteens. Such checks, money orders, and other similar instruments may be cashed outright or may be accepted, subject to strict administrative controls, in payment for merchandise or services, and the difference between the amount of the purchase and the amount of the tendered instrument refunded in cash.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1248, § 4202; Pub. L. 86–109, § 1, July 28, 1959, 73 Stat. 258; Pub. L. 94–581, title II, § 210(d), Oct. 21, 1976, 90 Stat. 2864; Pub. L. 97–295, § 4(88), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–576, title VII, § 702(13), Oct. 28, 1986, 100 Stat. 3302; renumbered § 7802 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(e)(7), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 108–170, title III, § 304, Dec. 6, 2003, 117 Stat. 2058; Pub. L. 111–350, § 5(j)(5), Jan. 4, 2011, 124 Stat. 3850.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1248, § 4202; Pub. L. 86–109, § 1, July 28, 1959, 73 Stat. 258; Pub. L. 94–581, title II, § 210(d), Oct. 21, 1976, 90 Stat. 2864; Pub. L. 97–295, § 4(88), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–576, title VII, § 702(13), Oct. 28, 1986, 100 Stat. 3302; renumbered § 7802 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(e)(7), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 108–170, title III, § 304, Dec. 6, 2003, 117 Stat. 2058; Pub. L. 111–350, § 5(j)(5), Jan. 4, 2011, 124 Stat. 3850.)
 
 **Editorial Notes**
 
@@ -75,33 +75,33 @@ Pub. L. 102–83 substituted “Department” for “Veterans’ Administration�
 
 2003—Pub. L. 108–170 struck out introductory provisions which read “The Secretary shall—”, substituted period for semicolon at end of pars. (1) to (10), inserted last two sentences in par. (5), redesignated pars. (1) to (11) as subsecs. (a) to (k), respectively, and realigned margins, inserted headings in subsecs. (a) to (k), and inserted “The Secretary shall” after heading in subsecs. (a) to (g) and (i) and “The Secretary may” after heading in subsecs. (h), (j), and (k).
 
-1991—Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in section catchline and in introductory provisions.
+1991—Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in section catchline and in introductory provisions.
 
-Pub. L. 102–40, § 402(a), (b)(1), renumbered section 4202 of this title as this section.
+Pub. L. 102–40, § 402(a), (b)(1), renumbered section 4202 of this title as this section.
 
-Par. (1). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Par. (1). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-Par. (3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Par. (3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pars. (4), (5). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pars. (4), (5). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 Par. (6). Pub. L. 102–54 amended par. (6) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “section 3709 of the Revised Statutes (41 U.S.C. 5)” for “section 5 of title 41”.
 
-Pars. (9), (10). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pars. (9), (10). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Par. (11). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Par. (11). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7803” for “4203”.
+Pub. L. 102–40, § 402(d)(1), substituted “7803” for “4203”.
 
 1986—Par. (11). Pub. L. 99–576 struck out “and without regard to the provisions of section 1 of the Act of January 31, 1925 (7 U.S.C. 2217), and section 1 (1st proviso under heading ‘OFFICE OF THE SECRETARY’) of the Act of May 11, 1922 (7 U.S.C. 2240),” after “as the Administrator may deem appropriate,”.
 
-1982—Par. (5). Pub. L. 97–295, § 4(88)(A), substituted reference to provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5 for reference to the civil-service laws and the Classification Act of 1949, and substituted provision that the relevant employees are subject to the provisions of title 5 relating to a preference eligible described in section 2108(3) of title 5, subchapter I of chapter 81 of title 5, and subchapter III of chapter 83 of title 5 for provision that such employees were subject to the Veterans’ Preference Act of 1944, the Civil Service Retirement Act, and laws administered by the Bureau of Employees’ Compensation applicable to civilian employees of the United States.
+1982—Par. (5). Pub. L. 97–295, § 4(88)(A), substituted reference to provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5 for reference to the civil-service laws and the Classification Act of 1949, and substituted provision that the relevant employees are subject to the provisions of title 5 relating to a preference eligible described in section 2108(3) of title 5, subchapter I of chapter 81 of title 5, and subchapter III of chapter 83 of title 5 for provision that such employees were subject to the Veterans’ Preference Act of 1944, the Civil Service Retirement Act, and laws administered by the Bureau of Employees’ Compensation applicable to civilian employees of the United States.
 
-Par. (11). Pub. L. 97–295, § 4(88)(B), substituted “section 1 of the Act of January 31, 1925 (7 U.S.C. 2217), and section 1 (1st proviso under heading ‘OFFICE OF THE SECRETARY’) of the Act of May 11, 1922 (7 U.S.C. 2240)” for “sections 521 and 543 of title 5”.
+Par. (11). Pub. L. 97–295, § 4(88)(B), substituted “section 1 of the Act of January 31, 1925 (7 U.S.C. 2217), and section 1 (1st proviso under heading ‘OFFICE OF THE SECRETARY’) of the Act of May 11, 1922 (7 U.S.C. 2240)” for “sections 521 and 543 of title 5”.
 
 1976—Pars. (3), (9), (10), (11). Pub. L. 94–581 substituted “the Administrator” for “he” in pars. (3), (9), (10), and (11).
 
@@ -115,9 +115,9 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 **Effective Date of 1959 Amendment**
 
-Pub. L. 86–109, § 2, July 28, 1959, 73 Stat. 258, provided that: “This Act [amending this section] shall take effect on the first day of July 1959.”
+Pub. L. 86–109, § 2, July 28, 1959, 73 Stat. 258, provided that: “This Act [amending this section] shall take effect on the first day of July 1959.”
 
-## § 7803. Operation of Service
+## § 7803. Operation of Service
 
 **(a) Primary Beneficiaries.—** Canteens operated by the Service shall be primarily for the use and benefit of—
 
@@ -133,7 +133,7 @@ Pub. L. 86–109, § 2, July 28, 1959, 73 Stat. 258, provided that: “This Ac
 
 **(3)** relatives and other persons while visiting a person specified in this section.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1249, § 4203; renumbered § 7803 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 106–117, title III, § 302, Nov. 30, 1999, 113 Stat. 1572; Pub. L. 108–422, title VI, § 603, Nov. 30, 2004, 118 Stat. 2397.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1249, § 4203; renumbered § 7803 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 106–117, title III, § 302, Nov. 30, 1999, 113 Stat. 1572; Pub. L. 108–422, title VI, § 603, Nov. 30, 2004, 118 Stat. 2397.)
 
 **Editorial Notes**
 
@@ -147,11 +147,11 @@ Pub. L. 86–109, § 2, July 28, 1959, 73 Stat. 258, provided that: “This Ac
 
 Subsec. (a). Pub. L. 102–83 substituted “Department” for “Veterans’ Administration” in two places.
 
-## § 7804. Financing of Service
+## § 7804. Financing of Service
 
 To finance the establishment, maintenance, and operation of the Service there is hereby authorized to be appropriated, from time to time, such amounts as are necessary to provide for (1) the acquisition of necessary furniture, furnishings, fixtures, and equipment for the establishment, maintenance, and operation of canteens, warehouses, and storage depots; (2) stocks of merchandise and supplies for canteens and reserve stocks of same in warehouses and storage depots; (3) salaries, wages, and expenses of all employees; (4) administrative and operation expenses; and (5) adequate working capital for each canteen and for the Service as a whole. Amounts appropriated under the authority contained in this chapter and all income from canteen operations become and will be administered as a revolving fund to effectuate the provisions of this chapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1250, § 4204; Pub. L. 92–310, title II, § 209, June 6, 1972, 86 Stat. 204; Pub. L. 99–576, title VII, § 702(14), Oct. 28, 1986, 100 Stat. 3302; renumbered § 7804 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), May 7, 1991, 105 Stat. 238.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1250, § 4204; Pub. L. 92–310, title II, § 209, June 6, 1972, 86 Stat. 204; Pub. L. 99–576, title VII, § 702(14), Oct. 28, 1986, 100 Stat. 3302; renumbered § 7804 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), May 7, 1991, 105 Stat. 238.)
 
 **Editorial Notes**
 
@@ -159,15 +159,15 @@ To finance the establishment, maintenance, and operation of the Service there is
 
 1991—Pub. L. 102–40 renumbered section 4204 of this title as this section.
 
-1986—Pub. L. 99–576 struck out “, amounts heretofore appropriated to carry out Public Law 636, Seventy-ninth Congress,” before “and all income”.
+1986—Pub. L. 99–576 struck out “, amounts heretofore appropriated to carry out Public Law 636, Seventy-ninth Congress,” before “and all income”.
 
 1972—Pub. L. 92–310 struck out “and premiums on fidelity bonds of employees” in cl. (4).
 
-## § 7805. Revolving fund
+## § 7805. Revolving fund
 
 The revolving fund shall be deposited in a checking account with the Treasury of the United States. Such amounts thereof as the Secretary may determine to be necessary to establish and maintain operating accounts for the various canteens may be deposited in checking accounts or other interest-bearing accounts in other depositaries selected by the Secretary.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1250, § 4205; Pub. L. 100–322, title IV, § 414(a)(1), May 20, 1988, 102 Stat. 549; renumbered § 7805 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1250, § 4205; Pub. L. 100–322, title IV, § 414(a)(1), May 20, 1988, 102 Stat. 549; renumbered § 7805 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -179,11 +179,11 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” in two plac
 
 1988—Pub. L. 100–322 inserted “or other interest-bearing accounts” after “checking accounts”.
 
-## § 7806. Budget of Service
+## § 7806. Budget of Service
 
 The Service shall prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31, which shall contain an estimate of the needs of the Service for the ensuing fiscal year including an estimate of the amount required to restore any impairment of the revolving fund resulting from operations of the current fiscal year.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1250, § 4206; Pub. L. 97–258, § 3(k)(8), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 100–322, title IV, § 414(a)(2), May 20, 1988, 102 Stat. 549; renumbered § 7806 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), May 7, 1991, 105 Stat. 238.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1250, § 4206; Pub. L. 97–258, § 3(k)(8), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 100–322, title IV, § 414(a)(2), May 20, 1988, 102 Stat. 549; renumbered § 7806 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), May 7, 1991, 105 Stat. 238.)
 
 **Editorial Notes**
 
@@ -195,11 +195,11 @@ The Service shall prepare annually and submit a budget program as provided for w
 
 1982—Pub. L. 97–258 substituted “corporations by chapter 91 of title 31,” for “corporations by sections 841–869 of title 31,”.
 
-## § 7807. Audit of accounts
+## § 7807. Audit of accounts
 
 The Service shall maintain a set of accounts which shall be audited by the Comptroller General in accordance with the provisions of chapter 35 of title 31.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1250, § 4207; Pub. L. 93–604, title VII, § 704, Jan. 2, 1975, 88 Stat. 1964; Pub. L. 97–295, § 4(89), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 97–452, § 2(e)(3), Jan. 12, 1983, 96 Stat. 2479; renumbered § 7807 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), May 7, 1991, 105 Stat. 238.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1250, § 4207; Pub. L. 93–604, title VII, § 704, Jan. 2, 1975, 88 Stat. 1964; Pub. L. 97–295, § 4(89), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 97–452, § 2(e)(3), Jan. 12, 1983, 96 Stat. 2479; renumbered § 7807 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), May 7, 1991, 105 Stat. 238.)
 
 **Editorial Notes**
 
@@ -213,11 +213,11 @@ The Service shall maintain a set of accounts which shall be audited by the Compt
 
 1975—Pub. L. 93–604 substituted provisions that the Service maintain a set of accounts which shall be audited by the Comptroller General in accordance with the provisions of the Accounting and Auditing Act of 1950 for provisions that the Service maintain an integral set of accounts which shall be audited annually by the General Accounting Office in accordance with the principles and procedures applicable to commercial transactions as provided by sections 841–869 of Title 31 and that no other audit shall be required.
 
-## § 7808. Service to be independent unit
+## § 7808. Service to be independent unit
 
 It is the purpose of this chapter that, under control and supervision of the Secretary, the Service shall function as an independent unit in the Department and shall have exclusive control over all its activities including sales, procurement and supply, finance, including disbursements, and personnel management, except as otherwise provided in this chapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1250, § 4208; Pub. L. 97–295, § 4(90), Oct. 12, 1982, 96 Stat. 1312; renumbered § 7808 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1250, § 4208; Pub. L. 97–295, § 4(90), Oct. 12, 1982, 96 Stat. 1312; renumbered § 7808 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -229,7 +229,7 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Depa
 
 1982—Pub. L. 97–295 substituted “provided in this chapter” for “herein provided”.
 
-## § 7809. Child-care centers
+## § 7809. Child-care centers
 
 **(a)**
 
@@ -255,48 +255,48 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Depa
 
 **(e)** For the purpose of this section, the term “parent advisory committee” means a committee comprised of, and selected by, the parents of children receiving care in a child-care center operated under this section.
 
-(Added Pub. L. 100–322, title IV, § 412(a), May 20, 1988, 102 Stat. 547, § 4209; renumbered § 7809 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(e)(8), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 100–322, title IV, § 412(a), May 20, 1988, 102 Stat. 547, § 4209; renumbered § 7809 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(e)(8), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–40, § 402(a), (b)(1), renumbered section 4209 of this title as this section.
+1991—Pub. L. 102–40, § 402(a), (b)(1), renumbered section 4209 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (a)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
 Pub. L. 102–54 amended subsec. (a)(1) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “child-care” for “child care”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7361” for “4161”.
+Pub. L. 102–40, § 402(d)(1), substituted “7361” for “4161”.
 
 Subsec. (a)(2). Pub. L. 102–54 amended subsec. (a)(2) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “child-care” for “child care”.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and in pars. (1) and (2).
+Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and in pars. (1) and (2).
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (1).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (1).
 
 Pub. L. 102–54 amended subsec. (c) as in effect before the enactment of Pub. L. 102–40 by substituting “child-care” for “child care” in introductory provisions and in par. (2).
 
-Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 Subsec. (e). Pub. L. 102–54 amended subsec. (e) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “child-care” for “child care”.
 
-## § 7810. Exemption from personnel ceilings
+## § 7810. Exemption from personnel ceilings
 
 Persons who are employed by the Service and compensated from the revolving fund established by section 7804 of this title may not be considered to be employees of the Department for the purposes of any personnel ceiling which may otherwise be applied to employees of the Department by the President or an official of the executive branch.
 
-(Added Pub. L. 100–322, title IV, § 414(b)(1), May 20, 1988, 102 Stat. 549, § 4210; renumbered § 7810 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404.)
+(Added Pub. L. 100–322, title IV, § 414(b)(1), May 20, 1988, 102 Stat. 549, § 4210; renumbered § 7810 and amended Pub. L. 102–40, title IV, § 402(a), (b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–40, § 402(a), (b)(1), renumbered section 4210 of this title as this section.
+1991—Pub. L. 102–40, § 402(a), (b)(1), renumbered section 4210 of this title as this section.
 
 Pub. L. 102–83 substituted “Department” for “Veterans’ Administration” in two places.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7804” for “4204”.
+Pub. L. 102–40, § 402(d)(1), substituted “7804” for “4204”.

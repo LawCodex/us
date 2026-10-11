@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 39—AMERICAN INDIAN AGRICULTURAL RESOURCE MANAGEMENT
 
-## § 3701. Findings
+## § 3701. Findings
 
 The Congress finds and declares that—
 
@@ -27,15 +27,15 @@ The Congress finds and declares that—
 
 **(4)** development and management of Indian agricultural lands in accordance with integrated resource management plans will ensure proper management of Indian agricultural lands and will produce increased economic returns, enhance Indian self-determination, promote employment opportunities, and improve the social and economic well-being of Indian and surrounding communities.
 
-(Pub. L. 103–177, § 2, Dec. 3, 1993, 107 Stat. 2011.)
+(Pub. L. 103–177, § 2, Dec. 3, 1993, 107 Stat. 2011.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 103–177, § 1, Dec. 3, 1993, 107 Stat. 2011, provided that: “This Act [enacting this chapter] may be cited as the ‘American Indian Agricultural Resource Management Act’.”
+Pub. L. 103–177, § 1, Dec. 3, 1993, 107 Stat. 2011, provided that: “This Act [enacting this chapter] may be cited as the ‘American Indian Agricultural Resource Management Act’.”
 
-## § 3702. Purposes
+## § 3702. Purposes
 
 The purposes of this chapter are to—
 
@@ -47,9 +47,9 @@ The purposes of this chapter are to—
 
 **(4)** increase the educational and training opportunities available to Indian people and communities in the practical, technical, and professional aspects of agriculture and land management to improve the expertise and technical abilities of Indian tribes and their members.
 
-(Pub. L. 103–177, § 3, Dec. 3, 1993, 107 Stat. 2011.)
+(Pub. L. 103–177, § 3, Dec. 3, 1993, 107 Stat. 2011.)
 
-## § 3703. Definitions
+## § 3703. Definitions
 
 For the purposes of this chapter:
 
@@ -115,17 +115,17 @@ For the purposes of this chapter:
 
 **(15)** The term “Secretary” means the Secretary of the Interior.
 
-(Pub. L. 103–177, § 4, Dec. 3, 1993, 107 Stat. 2012.)
+(Pub. L. 103–177, § 4, Dec. 3, 1993, 107 Stat. 2012.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in par. (10), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (10), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 ## SUBCHAPTER I—RANGELAND AND FARMLAND ENHANCEMENT
 
-### § 3711. Management of Indian rangelands and farmlands
+### § 3711. Management of Indian rangelands and farmlands
 
 **(a) Management objectives** Consistent with the provisions of the Indian Self-Determination and Education Assistance Act [25 U.S.C. 5301 et seq.], the Secretary shall provide for the management of Indian agricultural lands to achieve the following objectives:
 
@@ -169,15 +169,15 @@ The Alaska Native Claims Settlement Act, referred to in par. (10), is Pub. L. 92
 
 **(2)** Indian agriculture resource management plans developed and approved under this section shall govern the management and administration of Indian agricultural resources and Indian agricultural lands by the Bureau and the Indian tribal government.
 
-(Pub. L. 103–177, title I, § 101, Dec. 3, 1993, 107 Stat. 2014.)
+(Pub. L. 103–177, title I, § 101, Dec. 3, 1993, 107 Stat. 2014.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-### § 3712. Indian participation in land management activities
+### § 3712. Indian participation in land management activities
 
 **(a) Tribal recognition**
 
@@ -199,9 +199,9 @@ In any case in which a regulation or administrative policy of the Department of 
 
 This section does not constitute a waiver of the sovereign immunity of the United States, nor does it authorize tribal justice systems to review actions of the Secretary.
 
-(Pub. L. 103–177, title I, § 102, Dec. 3, 1993, 107 Stat. 2015.)
+(Pub. L. 103–177, title I, § 102, Dec. 3, 1993, 107 Stat. 2015.)
 
-### § 3713. Indian agricultural lands trespass
+### § 3713. Indian agricultural lands trespass
 
 **(a) Civil penalties; regulations** Not later than one year after December 3, 1993, the Secretary shall issue regulations that—
 
@@ -225,9 +225,9 @@ The proceeds of civil penalties collected under this section shall be treated as
 
 Indian tribes which adopt the regulations promulgated by the Secretary pursuant to subsection (a) shall have concurrent jurisdiction with the United States to enforce the provisions of this section and the regulations promulgated thereunder. The Bureau and other agencies of the Federal Government shall, at the request of the tribal government, defer to tribal prosecutions of Indian agricultural land trespass cases. Tribal court judgments regarding agricultural trespass shall be entitled to full faith and credit in Federal and State courts to the same extent as a Federal court judgment obtained under this section. Nothing in this chapter shall be construed to diminish the sovereign authority of Indian tribes with respect to trespass.
 
-(Pub. L. 103–177, title I, § 103, Dec. 3, 1993, 107 Stat. 2015.)
+(Pub. L. 103–177, title I, § 103, Dec. 3, 1993, 107 Stat. 2015.)
 
-### § 3714. Assessment of Indian agricultural management programs
+### § 3714. Assessment of Indian agricultural management programs
 
 **(a) Assessment**
 
@@ -245,7 +245,7 @@ Within six months after December 3, 1993, the Secretary, in consultation with af
 
 Within one year after December 3, 1993, the Secretary shall provide the Subcommittee on Native American Affairs of the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate with a status report on the development of the comparative analysis required by this section and shall file a final report with the Congress not later than 18 months after December 3, 1993.
 
-(Pub. L. 103–177, title I, § 104, Dec. 3, 1993, 107 Stat. 2016.)
+(Pub. L. 103–177, title I, § 104, Dec. 3, 1993, 107 Stat. 2016.)
 
 **Editorial Notes**
 
@@ -253,7 +253,7 @@ Within one year after December 3, 1993, the Secretary shall provide the Subcommi
 
 Subcommittee on Native American Affairs changed to Subcommittee for Indigenous Peoples of the United States.
 
-### § 3715. Leasing of Indian agricultural lands
+### § 3715. Leasing of Indian agricultural lands
 
 **(a) Authority of Secretary** The Secretary is authorized to—
 
@@ -285,19 +285,19 @@ Subcommittee on Native American Affairs changed to Subcommittee for Indigenous P
 
 **(3)** The provisions of subsection (b) shall not apply to a parcel of trust or restricted land if the owners of at least 50 percent of the legal or beneficial interest in such land file with the Secretary a written objection to the application of all or any part of such tribal rules to the leasing of such parcel of land.
 
-(Pub. L. 103–177, title I, § 105, Dec. 3, 1993, 107 Stat. 2017; Pub. L. 103–435, § 12(a), Nov. 2, 1994, 108 Stat. 4572.)
+(Pub. L. 103–177, title I, § 105, Dec. 3, 1993, 107 Stat. 2017; Pub. L. 103–435, § 12(a), Nov. 2, 1994, 108 Stat. 4572.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (b)(5). Pub. L. 103–435, § 12(a)(1), added par. (5).
+1994—Subsec. (b)(5). Pub. L. 103–435, § 12(a)(1), added par. (5).
 
-Subsec. (c)(1). Pub. L. 103–435, § 12(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Nothing in this section shall be construed as limiting or altering the authority or right of an individual allottee in the legal or beneficial use of his or her own land or to enter into an agricultural lease of the surface interest of his or her allotment under any other provision of law.”
+Subsec. (c)(1). Pub. L. 103–435, § 12(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Nothing in this section shall be construed as limiting or altering the authority or right of an individual allottee in the legal or beneficial use of his or her own land or to enter into an agricultural lease of the surface interest of his or her allotment under any other provision of law.”
 
 ## SUBCHAPTER II—EDUCATION IN AGRICULTURE MANAGEMENT
 
-### § 3731. Indian and Alaska Native agriculture management education assistance programs
+### § 3731. Indian and Alaska Native agriculture management education assistance programs
 
 **(a) Agricultural resources intern program**
 
@@ -357,9 +357,9 @@ Subsec. (c)(1). Pub. L. 103–435, § 12(a)(2), amended par. (1) generally. Pr
 
 **(C)** a tribal agriculture or related program.
 
-**(3)** The Secretary shall not deny scholarship assistance under this subsection solely on the basis of an applicant’s scholastic achievement if the applicant has been admitted to and remains in good standing in an accredited post secondary 1
+**(3)** The Secretary shall not deny scholarship assistance under this subsection solely on the basis of an applicant’s scholastic achievement if the applicant has been admitted to and remains in good standing in an accredited post secondary 1
 
-<sup>1</sup>  So in original. Probably should be “postsecondary”.
+<sup>1</sup> So in original. Probably should be “postsecondary”.
 
 or graduate institution.
 
@@ -371,13 +371,13 @@ The Secretary shall conduct, through the Bureau, and in consultation with other 
 
 The Secretary shall administer the programs described in this section until a sufficient number of Indians are trained to ensure that there is an adequate number of qualified, professional Indian agricultural resource managers to manage the Bureau agricultural resource programs and programs maintained by or for Indian tribes.
 
-(Pub. L. 103–177, title II, § 201, Dec. 3, 1993, 107 Stat. 2018.)
+(Pub. L. 103–177, title II, § 201, Dec. 3, 1993, 107 Stat. 2018.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -587,7 +587,7 @@ Pub. L. 105–337, Oct. 31, 1998, 112 Stat. 3171, provided that:
 
 > **“(2)** proposed legislation for any changes in law necessary to carry out any such recommendations.”
 
-### § 3732. Postgraduation recruitment, education and training programs
+### § 3732. Postgraduation recruitment, education and training programs
 
 **(a) Assumption of loans**
 
@@ -617,9 +617,9 @@ The Secretary shall establish and maintain a program to attract Indian professio
 
 **(3)** development training of Indian agricultural resource personnel in agricultural resource based enterprises and marketing.
 
-(Pub. L. 103–177, title II, § 202, Dec. 3, 1993, 107 Stat. 2020.)
+(Pub. L. 103–177, title II, § 202, Dec. 3, 1993, 107 Stat. 2020.)
 
-### § 3733. Cooperative agreement between Department of the Interior and Indian tribes
+### § 3733. Cooperative agreement between Department of the Interior and Indian tribes
 
 **(a) Cooperative agreements**
 
@@ -645,9 +645,9 @@ In any agreement authorized by this section, Indian tribes and their employees m
 
 Nothing in this chapter shall be construed to limit the authority of the Secretary to enter into cooperative agreements otherwise authorized by law.
 
-(Pub. L. 103–177, title II, § 203, Dec. 3, 1993, 107 Stat. 2021.)
+(Pub. L. 103–177, title II, § 203, Dec. 3, 1993, 107 Stat. 2021.)
 
-### § 3734. Obligated service; breach of contract
+### § 3734. Obligated service; breach of contract
 
 **(a) Obligated service**
 
@@ -657,29 +657,29 @@ Where an individual enters into an agreement for obligated service in return for
 
 Where an individual fails to accept a reasonable offer of employment in fulfillment of such obligated service or unreasonably terminates or fails to perform the duties of such employment, the Secretary shall require a repayment of the financial assistance provided, prorated for the amount of time of obligated service that was performed, together with interest on such amount which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Secretary of the Treasury.
 
-(Pub. L. 103–177, title II, § 204, Dec. 3, 1993, 107 Stat. 2022.)
+(Pub. L. 103–177, title II, § 204, Dec. 3, 1993, 107 Stat. 2022.)
 
 ## SUBCHAPTER III—GENERAL PROVISIONS
 
-### § 3741. Regulations
+### § 3741. Regulations
 
 Except as otherwise provided by this chapter, the Secretary shall promulgate final regulations for the implementation of this chapter within 24 months after December 3, 1993. All regulations promulgated pursuant to this chapter shall be developed by the Secretary with the participation of the affected Indian tribes.
 
-(Pub. L. 103–177, title III, § 301, Dec. 3, 1993, 107 Stat. 2022.)
+(Pub. L. 103–177, title III, § 301, Dec. 3, 1993, 107 Stat. 2022.)
 
-### § 3742. Trust responsibility
+### § 3742. Trust responsibility
 
 Nothing in this chapter shall be construed to diminish or expand the trust responsibility of the United States toward Indian trust lands or natural resources, or any legal obligation or remedy resulting therefrom.
 
-(Pub. L. 103–177, title III, § 302, Dec. 3, 1993, 107 Stat. 2022.)
+(Pub. L. 103–177, title III, § 302, Dec. 3, 1993, 107 Stat. 2022.)
 
-### § 3743. Severability
+### § 3743. Severability
 
 If any provision of this chapter, or the application of any provision of this chapter to any person or circumstance, is held invalid, the application of such provision or circumstance and the remainder of this chapter shall not be affected thereby.
 
-(Pub. L. 103–177, title III, § 303, Dec. 3, 1993, 107 Stat. 2022.)
+(Pub. L. 103–177, title III, § 303, Dec. 3, 1993, 107 Stat. 2022.)
 
-### § 3744. Federal, State and local authority
+### § 3744. Federal, State and local authority
 
 **(a) Disclaimer**
 
@@ -689,9 +689,9 @@ Nothing in this chapter shall be construed to supersede or limit the authority o
 
 The Secretary shall work with all appropriate Federal departments and agencies to avoid duplication of programs and services currently available to Indian tribes and landowners from other sources.
 
-(Pub. L. 103–177, title III, § 304, Dec. 3, 1993, 107 Stat. 2022.)
+(Pub. L. 103–177, title III, § 304, Dec. 3, 1993, 107 Stat. 2022.)
 
-### § 3745. Authorization of appropriations
+### § 3745. Authorization of appropriations
 
 **(a) General authorization**
 
@@ -701,10 +701,10 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 The activities required under subchapter II may only be funded from appropriations made pursuant to this chapter. To the greatest extent possible, such activities shall be coordinated with activities funded from other sources.
 
-(Pub. L. 103–177, title III, § 305, Dec. 3, 1993, 107 Stat. 2023.)
+(Pub. L. 103–177, title III, § 305, Dec. 3, 1993, 107 Stat. 2023.)
 
-### § 3746. Tribal immunity
+### § 3746. Tribal immunity
 
 Nothing in this chapter shall be construed to affect, modify, diminish, or otherwise impair the sovereign immunity from suit enjoyed by Indian tribes.
 
-(Pub. L. 103–177, title III, § 306, as added Pub. L. 103–435, § 12(b), Nov. 2, 1994, 108 Stat. 4572.)
+(Pub. L. 103–177, title III, § 306, as added Pub. L. 103–435, § 12(b), Nov. 2, 1994, 108 Stat. 4572.)

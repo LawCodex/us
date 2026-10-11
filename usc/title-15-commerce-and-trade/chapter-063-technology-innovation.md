@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 63—TECHNOLOGY INNOVATION
 
-## § 3701. Findings
+## § 3701. Findings
 
 The Congress finds and declares that:
 
@@ -41,59 +41,59 @@ The Congress finds and declares that:
 
 **(11)** The Nation should give fuller recognition to individuals and companies which have made outstanding contributions to the promotion of technology or technological manpower for the improvement of the economic, environmental, or social well-being of the United States.
 
-(Pub. L. 96–480, § 2, Oct. 21, 1980, 94 Stat. 2311; Pub. L. 99–502, § 9(f)(1), Oct. 20, 1986, 100 Stat. 1797.)
+(Pub. L. 96–480, § 2, Oct. 21, 1980, 94 Stat. 2311; Pub. L. 99–502, § 9(f)(1), Oct. 20, 1986, 100 Stat. 1797.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1986—Par. (10). Pub. L. 99–502 inserted “, which include inventions, computer software, and training technologies,”.
+1986—Par. (10). Pub. L. 99–502 inserted “, which include inventions, computer software, and training technologies,”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2017 Amendment**
 
-Pub. L. 114–329, title IV, § 401(a), Jan. 6, 2017, 130 Stat. 3016, provided that: “This section [enacting section 3724 of this title and amending sections 272, 278, and 3719 of this title] may be cited as the ‘Science Prize Competition Act’.”
+Pub. L. 114–329, title IV, § 401(a), Jan. 6, 2017, 130 Stat. 3016, provided that: “This section [enacting section 3724 of this title and amending sections 272, 278, and 3719 of this title] may be cited as the ‘Science Prize Competition Act’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–404, § 1, Nov. 1, 2000, 114 Stat. 1742, provided that: “This Act [enacting section 7261c of Title 42, The Public Health and Welfare, amending sections 3703, 3704, 3707, 3710, 3710a, 3710c, 3714, and 3715 of this title and sections 200, 202, 207, and 209 of Title 35, Patents, and enacting provisions set out as notes under this section and section 3710a of this title] may be cited as the ‘Technology Transfer Commercialization Act of 2000’.”
+Pub. L. 106–404, § 1, Nov. 1, 2000, 114 Stat. 1742, provided that: “This Act [enacting section 7261c of Title 42, The Public Health and Welfare, amending sections 3703, 3704, 3707, 3710, 3710a, 3710c, 3714, and 3715 of this title and sections 200, 202, 207, and 209 of Title 35, Patents, and enacting provisions set out as notes under this section and section 3710a of this title] may be cited as the ‘Technology Transfer Commercialization Act of 2000’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–113, § 1, Mar. 7, 1996, 110 Stat. 775, provided that: “This Act [amending sections 272, 278, 278e, 278g–2, 3710, 3710a, 3710c, 3710d, 5401, 5402, 5404 to 5406, 5408, 5409, and 5412 of this title and section 210 of Title 35, Patents, repealing sections 5403 and 5413 of this title, and enacting provisions set out as notes under this section and sections 272 and 275 of this title] may be cited as the ‘National Technology Transfer and Advancement Act of 1995’.”
+Pub. L. 104–113, § 1, Mar. 7, 1996, 110 Stat. 775, provided that: “This Act [amending sections 272, 278, 278e, 278g–2, 3710, 3710a, 3710c, 3710d, 5401, 5402, 5404 to 5406, 5408, 5409, and 5412 of this title and section 210 of Title 35, Patents, repealing sections 5403 and 5413 of this title, and enacting provisions set out as notes under this section and sections 272 and 275 of this title] may be cited as the ‘National Technology Transfer and Advancement Act of 1995’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–245, § 1, Feb. 14, 1992, 106 Stat. 7, provided that: “This Act [enacting sections 1536, 3704b–1, 3704b–2, 3716, and 3717 of this title and section 6618 of Title 42, The Public Health and Welfare, amending sections 272, 278d, 278g, 278g–1, 278k, 278n, 1453, 1454, 3703, 3704, 3704b, 3710, 3710a, 3711a, 4603, 4603a, and 4632 of this title and section 6683 of Title 42, enacting provisions set out as notes under this section, sections 271, 278f, 278n, and 1453 of this title, and section 6611 of Title 42, and amending provisions set out as a note under section 278*l* of this title] may be cited as the ‘American Technology Preeminence Act of 1991’.”
+Pub. L. 102–245, § 1, Feb. 14, 1992, 106 Stat. 7, provided that: “This Act [enacting sections 1536, 3704b–1, 3704b–2, 3716, and 3717 of this title and section 6618 of Title 42, The Public Health and Welfare, amending sections 272, 278d, 278g, 278g–1, 278k, 278n, 1453, 1454, 3703, 3704, 3704b, 3710, 3710a, 3711a, 4603, 4603a, and 4632 of this title and section 6683 of Title 42, enacting provisions set out as notes under this section, sections 271, 278f, 278n, and 1453 of this title, and section 6611 of Title 42, and amending provisions set out as a note under section 278*l* of this title] may be cited as the ‘American Technology Preeminence Act of 1991’.”
 
-Pub. L. 102–245, title I, § 101, Feb. 14, 1992, 106 Stat. 7, provided that: “This title [enacting sections 1536, 3704b–1, and 3704b–2 of this title, amending sections 278d, 278g, 278g–1, 278k, 1453, 1454, 4603, 4603a, and 4632 of this title, enacting provisions set out as notes under this section and sections 278f and 1453 of this title, and amending provisions set out as a note under section 278*l* of this title] may be cited as the ‘Technology Administration Authorization Act of 1991’.”
+Pub. L. 102–245, title I, § 101, Feb. 14, 1992, 106 Stat. 7, provided that: “This title [enacting sections 1536, 3704b–1, and 3704b–2 of this title, amending sections 278d, 278g, 278g–1, 278k, 1453, 1454, 4603, 4603a, and 4632 of this title, enacting provisions set out as notes under this section and sections 278f and 1453 of this title, and amending provisions set out as a note under section 278*l* of this title] may be cited as the ‘Technology Administration Authorization Act of 1991’.”
 
 **Short Title of 1989 Amendment**
 
-Pub. L. 101–189, div. C, title XXXI, § 3131, Nov. 29, 1989, 103 Stat. 1674, provided that: “This part [part C (§§ 3131–3133) of title XXXI of div. C of Pub. L. 101–189, amending sections 3710, 3710a, and 3710c of this title and enacting provisions set out as notes under this section and section 3710a of this title] may be cited as the ‘National Competitiveness Technology Transfer Act of 1989’.”
+Pub. L. 101–189, div. C, title XXXI, § 3131, Nov. 29, 1989, 103 Stat. 1674, provided that: “This part [part C (§§ 3131–3133) of title XXXI of div. C of Pub. L. 101–189, amending sections 3710, 3710a, and 3710c of this title and enacting provisions set out as notes under this section and section 3710a of this title] may be cited as the ‘National Competitiveness Technology Transfer Act of 1989’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–519, title II, § 211, Oct. 24, 1988, 102 Stat. 2594, provided that: “This subtitle [subtitle B (§§ 211, 212) of title II of Pub. L. 100–519, enacting section 3704b of this title and amending section 3710 of this title] may be cited as the ‘National Technical Information Act of 1988’.”
+Pub. L. 100–519, title II, § 211, Oct. 24, 1988, 102 Stat. 2594, provided that: “This subtitle [subtitle B (§§ 211, 212) of title II of Pub. L. 100–519, enacting section 3704b of this title and amending section 3710 of this title] may be cited as the ‘National Technical Information Act of 1988’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–107, § 1, Aug. 20, 1987, 101 Stat. 724, provided that: “This Act [enacting section 3711a of this title, amending section 3708 of this title, and enacting provisions set out as a note under section 3711a of this title] may be cited as the ‘Malcolm Baldrige National Quality Improvement Act of 1987’.”
+Pub. L. 100–107, § 1, Aug. 20, 1987, 101 Stat. 724, provided that: “This Act [enacting section 3711a of this title, amending section 3708 of this title, and enacting provisions set out as a note under section 3711a of this title] may be cited as the ‘Malcolm Baldrige National Quality Improvement Act of 1987’.”
 
 **Short Title of 1986 Amendments**
 
-Pub. L. 99–502, § 1, Oct. 20, 1986, 100 Stat. 1785, provided that: “This Act [enacting sections 3710a to 3710d of this title, amending this section, sections 3702 to 3705, 3707, 3708, 3710 to 3710d, and 3711 to 3714 of this title, and section 210 of Title 35, Patents, and repealing section 3709 of this title] may be cited as the ‘Federal Technology Transfer Act of 1986’. ”
+Pub. L. 99–502, § 1, Oct. 20, 1986, 100 Stat. 1785, provided that: “This Act [enacting sections 3710a to 3710d of this title, amending this section, sections 3702 to 3705, 3707, 3708, 3710 to 3710d, and 3711 to 3714 of this title, and section 210 of Title 35, Patents, and repealing section 3709 of this title] may be cited as the ‘Federal Technology Transfer Act of 1986’. ”
 
-Pub. L. 99–382, § 1, Aug. 14, 1986, 100 Stat. 811, provided: “That this Act [amending section 3704 of this title] may be cited as the ‘Japanese Technical Literature Act of 1986’.”
+Pub. L. 99–382, § 1, Aug. 14, 1986, 100 Stat. 811, provided: “That this Act [amending section 3704 of this title] may be cited as the ‘Japanese Technical Literature Act of 1986’.”
 
 **Short Title**
 
-Pub. L. 96–480, § 1, Oct. 21, 1980, 94 Stat. 2311, provided: “That this Act [enacting this chapter] may be cited as the ‘Stevenson-Wydler Technology Innovation Act of 1980’.”
+Pub. L. 96–480, § 1, Oct. 21, 1980, 94 Stat. 2311, provided: “That this Act [enacting this chapter] may be cited as the ‘Stevenson-Wydler Technology Innovation Act of 1980’.”
 
 **Study on Economic Competitiveness and Innovative Capacity of United States and Development of National Economic Competitiveness Strategy**
 
-Pub. L. 111–358, title VI, § 604, Jan. 4, 2011, 124 Stat. 4037, as amended by Pub. L. 117–286, § 4(a)(70), Dec. 27, 2022, 136 Stat. 4313, provided that:
+Pub. L. 111–358, title VI, § 604, Jan. 4, 2011, 124 Stat. 4037, as amended by Pub. L. 117–286, § 4(a)(70), Dec. 27, 2022, 136 Stat. 4313, provided that:
 
 > **“(a) Study.—**
 
@@ -191,7 +191,7 @@ Pub. L. 111–358, title VI, § 604, Jan. 4, 2011, 124 Stat. 4037, as amended 
 
 **Promoting Use of High-End Computing Simulation and Modeling by Small- and Medium-Sized Manufacturers**
 
-Pub. L. 111–358, title VI, § 605, Jan. 4, 2011, 124 Stat. 4040, provided that:
+Pub. L. 111–358, title VI, § 605, Jan. 4, 2011, 124 Stat. 4040, provided that:
 
 > **“(a) Findings.—** Congress finds that—
 
@@ -223,7 +223,7 @@ Pub. L. 111–358, title VI, § 605, Jan. 4, 2011, 124 Stat. 4040, provided th
 
 **Congressional Findings; 2000 Amendment**
 
-Pub. L. 106–404, § 2, Nov. 1, 2000, 114 Stat. 1742, provided that:
+Pub. L. 106–404, § 2, Nov. 1, 2000, 114 Stat. 1742, provided that:
 
 > “The Congress finds that—
 
@@ -241,7 +241,7 @@ Pub. L. 106–404, § 2, Nov. 1, 2000, 114 Stat. 1742, provided that:
 
 **Congressional Findings; 1996 Amendment**
 
-Pub. L. 104–113, § 2, Mar. 7, 1996, 110 Stat. 775, provided that:
+Pub. L. 104–113, § 2, Mar. 7, 1996, 110 Stat. 775, provided that:
 
 > “The Congress finds the following:
 
@@ -253,7 +253,7 @@ Pub. L. 104–113, § 2, Mar. 7, 1996, 110 Stat. 775, provided that:
 
 **Definitions of Terms; 1992 Amendment**
 
-Pub. L. 102–245, § 2, Feb. 14, 1992, 106 Stat. 7, provided that:
+Pub. L. 102–245, § 2, Feb. 14, 1992, 106 Stat. 7, provided that:
 
 > “As used in this Act [see Short Title of 1992 Amendment note above]—
 
@@ -271,11 +271,11 @@ Pub. L. 102–245, § 2, Feb. 14, 1992, 106 Stat. 7, provided that:
 
 **Congressional Statement of Policy; 1992 Amendment**
 
-Pub. L. 102–245, title I, § 102, Feb. 14, 1992, 106 Stat. 7, provided that: “Congress finds that in order to help United States industries to speed the development of new products and processes so as to maintain the economic competitiveness of the Nation, it is necessary to strengthen the programs and activities of the Department of Commerce’s Technology Administration and National Institute of Standards and Technology.”
+Pub. L. 102–245, title I, § 102, Feb. 14, 1992, 106 Stat. 7, provided that: “Congress finds that in order to help United States industries to speed the development of new products and processes so as to maintain the economic competitiveness of the Nation, it is necessary to strengthen the programs and activities of the Department of Commerce’s Technology Administration and National Institute of Standards and Technology.”
 
 **National Commission on Reducing Capital Costs for Emerging Technology**
 
-Pub. L. 102–245, title IV, § 401, Feb. 14, 1992, 106 Stat. 21, provided that:
+Pub. L. 102–245, title IV, § 401, Feb. 14, 1992, 106 Stat. 21, provided that:
 
 > **“(a) Establishment and Purpose.—** There is established a National Commission on Reducing Capital Costs for Emerging Technology (hereafter in this section referred to as the ‘Commission’), for the purpose of developing recommendations to increase the competitiveness of United States industry by encouraging investments in research, the development of new process and product technologies, and the production of those technologies.
 
@@ -329,7 +329,7 @@ Pub. L. 102–245, title IV, § 401, Feb. 14, 1992, 106 Stat. 21, provided tha
 
 **Research, Development, Technology Utilization, and Government Procurement Policy**
 
-Pub. L. 102–245, title V, § 505, Feb. 14, 1992, 106 Stat. 25, provided that:
+Pub. L. 102–245, title V, § 505, Feb. 14, 1992, 106 Stat. 25, provided that:
 
 > **“(a) Establishment of Commission.—** The Secretary, in consultation with the Administrator of the Office of Federal Procurement Policy, shall establish a Commission on Technology and Procurement (hereafter in this section referred to as the ‘Commission’), for the purposes of analyzing the effect of Federal Government procurement laws, procedures, and policies on the development of advanced technologies within the United States and making recommendations on how Federal policy could be changed to promote further the development of advanced technologies.
 
@@ -385,7 +385,7 @@ Pub. L. 102–245, title V, § 505, Feb. 14, 1992, 106 Stat. 25, provided that
 
 **Study of Testing and Certification**
 
-Pub. L. 102–245, title V, § 508, Feb. 14, 1992, 106 Stat. 29, provided that:
+Pub. L. 102–245, title V, § 508, Feb. 14, 1992, 106 Stat. 29, provided that:
 
 > **“(a) Contract With National Research Council.—** Within 90 days after the date of enactment of this Act [Feb. 14, 1992] and within available appropriations, the Secretary shall enter into a contract with the National Research Council for a thorough review of international product testing and certification issues. The National Research Council will be asked to address the following issues and make recommendations as appropriate:
 
@@ -405,7 +405,7 @@ Pub. L. 102–245, title V, § 508, Feb. 14, 1992, 106 Stat. 29, provided that
 
 **Congressional Findings and Purposes; 1989 Amendment**
 
-Pub. L. 101–189, div. C, title XXXI, § 3132, Nov. 29, 1989, 103 Stat. 1674, provided that:
+Pub. L. 101–189, div. C, title XXXI, § 3132, Nov. 29, 1989, 103 Stat. 1674, provided that:
 
 > **“(a) Findings.—** Congress finds that—
 
@@ -421,7 +421,7 @@ Pub. L. 101–189, div. C, title XXXI, § 3132, Nov. 29, 1989, 103 Stat. 1674,
 
 > **“(6)** more effective cooperation between those laboratories and the private sector in the United States is required to provide speed and certainty in the technology transfer process.
 
-> **“(b) Purposes.—** The purposes of this part [part C (§§ 3131–3133) of title XXXI of div. C of Pub. L. 101–189, see Short Title of 1989 Amendment note above] are to—
+> **“(b) Purposes.—** The purposes of this part [part C (§§ 3131–3133) of title XXXI of div. C of Pub. L. 101–189, see Short Title of 1989 Amendment note above] are to—
 
 > **“(1)** enhance United States national security by promoting technology transfer between Government-owned, contractor-operated laboratories and the private sector in the United States; and
 
@@ -473,7 +473,7 @@ Sec. 3. *Judicial Review*. This order does not create any enforceable rights aga
 
 William J. Clinton.
 
-## § 3702. Purpose
+## § 3702. Purpose
 
 It is the purpose of this chapter to improve the economic, environmental, and social well-being of the United States by—
 
@@ -487,17 +487,17 @@ It is the purpose of this chapter to improve the economic, environmental, and so
 
 **(5)** encouraging the exchange of scientific and technical personnel among academia, industry, and Federal laboratories.
 
-(Pub. L. 96–480, § 3, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–502, § 9(b)(1), (f)(2), Oct. 20, 1986, 100 Stat. 1795, 1797.)
+(Pub. L. 96–480, § 3, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–502, § 9(b)(1), (f)(2), Oct. 20, 1986, 100 Stat. 1795, 1797.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1986—Par. (2). Pub. L. 99–502, § 9(b)(1), substituted “cooperative research centers” for “centers for industrial technology”.
+1986—Par. (2). Pub. L. 99–502, § 9(b)(1), substituted “cooperative research centers” for “centers for industrial technology”.
 
-Par. (3). Pub. L. 99–502, § 9(f)(2), inserted “, including inventions, software, and training technologies,”.
+Par. (3). Pub. L. 99–502, § 9(f)(2), inserted “, including inventions, software, and training technologies,”.
 
-## § 3703. Definitions
+## § 3703. Definitions
 
 As used in this chapter, unless the context otherwise requires, the term—
 
@@ -523,13 +523,13 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 **(11)** “Clearinghouse” means the Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation established by section 3704a of this title.
 
-(Pub. L. 96–480, § 4, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–502, § 9(b)(2), (d), Oct. 20, 1986, 100 Stat. 1795, 1796; Pub. L. 100–418, title V, § 5122(b), Aug. 23, 1988, 102 Stat. 1439; Pub. L. 100–519, title II, § 201(d)(1), Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–245, title III, § 304, Feb. 14, 1992, 106 Stat. 20; Pub. L. 106–404, § 7(1), (2), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 110–69, title III, § 3002(c)(3), Aug. 9, 2007, 121 Stat. 586.)
+(Pub. L. 96–480, § 4, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–502, § 9(b)(2), (d), Oct. 20, 1986, 100 Stat. 1795, 1796; Pub. L. 100–418, title V, § 5122(b), Aug. 23, 1988, 102 Stat. 1439; Pub. L. 100–519, title II, § 201(d)(1), Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–245, title III, § 304, Feb. 14, 1992, 106 Stat. 20; Pub. L. 106–404, § 7(1), (2), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 110–69, title III, § 3002(c)(3), Aug. 9, 2007, 121 Stat. 586.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Plant Variety Protection Act, referred to in par. (7), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, which is classified principally to chapter 57 (§ 2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of Title 7 and Tables.
+The Plant Variety Protection Act, referred to in par. (7), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, which is classified principally to chapter 57 (§ 2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of Title 7 and Tables.
 
 **Amendments**
 
@@ -537,25 +537,25 @@ The Plant Variety Protection Act, referred to in par. (7), is Pub. L. 91–577, 
 
 2000—Pars. (4), (6). Pub. L. 106–404 made technical amendments to references in original act which appear in text as references to sections 3705 and 3707 of this title.
 
-1992—Par. (8). Pub. L. 102–245 inserted before period at end “, as well as any agency of the legislative branch of the Federal Government”.
+1992—Par. (8). Pub. L. 102–245 inserted before period at end “, as well as any agency of the legislative branch of the Federal Government”.
 
-1988—Par. (1). Pub. L. 100–519, § 201(d)(1)(A), substituted “Technology Policy” for “Productivity, Technology, and Innovation”.
+1988—Par. (1). Pub. L. 100–519, § 201(d)(1)(A), substituted “Technology Policy” for “Productivity, Technology, and Innovation”.
 
-Par. (3). Pub. L. 100–519, § 201(d)(1)(B), amended par. (3) generally, substituting provisions defining “Under Secretary” for provisions defining “Assistant Secretary”.
+Par. (3). Pub. L. 100–519, § 201(d)(1)(B), amended par. (3) generally, substituting provisions defining “Under Secretary” for provisions defining “Assistant Secretary”.
 
 Par. (13). Pub. L. 100–418 added par. (13).
 
-1986—Par. (1). Pub. L. 99–502, § 9(b)(2)(A), substituted “Productivity, Technology, and Innovation” for “Industrial Technology”.
+1986—Par. (1). Pub. L. 99–502, § 9(b)(2)(A), substituted “Productivity, Technology, and Innovation” for “Industrial Technology”.
 
-Par. (3). Pub. L. 99–502, § 9(b)(2)(B), substituted “ ‘Assistant Secretary’ means the Assistant Secretary for Productivity, Technology, and Innovation” for “ ‘Director’ means the Director of the Office of Industrial Technology”.
+Par. (3). Pub. L. 99–502, § 9(b)(2)(B), substituted “ ‘Assistant Secretary’ means the Assistant Secretary for Productivity, Technology, and Innovation” for “ ‘Director’ means the Director of the Office of Industrial Technology”.
 
-Par. (4). Pub. L. 99–502, § 9(b)(2)(C), substituted “Cooperative Research Centers” for “Centers for Industrial Technology”.
+Par. (4). Pub. L. 99–502, § 9(b)(2)(C), substituted “Cooperative Research Centers” for “Centers for Industrial Technology”.
 
-Par. (6). Pub. L. 99–502, § 9(b)(2)(D), (E), redesignated par. (7) as (6), substituted “owned, leased, or otherwise used by a Federal agency and funded” for “owned and funded”, and struck out former par. (6) which defined “Board” to mean the National Industrial Technology Board established pursuant to section 3709 of this title.
+Par. (6). Pub. L. 99–502, § 9(b)(2)(D), (E), redesignated par. (7) as (6), substituted “owned, leased, or otherwise used by a Federal agency and funded” for “owned and funded”, and struck out former par. (6) which defined “Board” to mean the National Industrial Technology Board established pursuant to section 3709 of this title.
 
-Pars. (7) to (12). Pub. L. 99–502, § 9(b)(2)(D), (d), redesignated pars. (7) and (8) as (6) and (7), respectively, and added pars. (8) to (12).
+Pars. (7) to (12). Pub. L. 99–502, § 9(b)(2)(D), (d), redesignated pars. (7) and (8) as (6) and (7), respectively, and added pars. (8) to (12).
 
-## § 3704. Experimental Program to Stimulate Competitive Technology
+## § 3704. Experimental Program to Stimulate Competitive Technology
 
 **(a) Program establishment**
 
@@ -737,9 +737,9 @@ The term “local educational agency” has the meaning given the term in sectio
 
 **(E) Minority business**
 
-The term “minority business” includes HUBZone small business concerns (as defined in section 632(p) 1
+The term “minority business” includes HUBZone small business concerns (as defined in section 632(p) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title).
 
@@ -755,13 +755,13 @@ The term “State” has the meaning given the term in section 7801 of title 20.
 
 The term “State educational agency” has the meaning given the term in section 7801 of title 20.
 
-(Pub. L. 96–480, § 5, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–382, § 2, Aug. 14, 1986, 100 Stat. 811; Pub. L. 99–502, § 9(b)(3)–(5), (e)(2)(A), Oct. 20, 1986, 100 Stat. 1795, 1797; Pub. L. 100–519, title II, § 201(a)–(c), (d)(2), Oct. 24, 1988, 102 Stat. 2593, 2594; Pub. L. 102–245, title III, § 306, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, § 9, Oct. 30, 1998, 112 Stat. 2938; Pub. L. 106–404, § 7(3), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 110–69, title III, § 3002(a), Aug. 9, 2007, 121 Stat. 586; Pub. L. 110–315, title IX, § 971, Aug. 14, 2008, 122 Stat. 3473; Pub. L. 114–95, title IX, § 9215(sss), Dec. 10, 2015, 129 Stat. 2190.)
+(Pub. L. 96–480, § 5, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–382, § 2, Aug. 14, 1986, 100 Stat. 811; Pub. L. 99–502, § 9(b)(3)–(5), (e)(2)(A), Oct. 20, 1986, 100 Stat. 1795, 1797; Pub. L. 100–519, title II, § 201(a)–(c), (d)(2), Oct. 24, 1988, 102 Stat. 2593, 2594; Pub. L. 102–245, title III, § 306, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, § 9, Oct. 30, 1998, 112 Stat. 2938; Pub. L. 106–404, § 7(3), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 110–69, title III, § 3002(a), Aug. 9, 2007, 121 Stat. 586; Pub. L. 110–315, title IX, § 971, Aug. 14, 2008, 122 Stat. 3473; Pub. L. 114–95, title IX, § 9215(sss), Dec. 10, 2015, 129 Stat. 2190.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 632(p) of this title, referred to in subsec. (c)(8)(E), was redesignated section 657a(b) of this title by Pub. L. 115–91, div. A, title XVII, § 1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
+Section 632(p) of this title, referred to in subsec. (c)(8)(E), was redesignated section 657a(b) of this title by Pub. L. 115–91, div. A, title XVII, § 1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
 
 **Amendments**
 
@@ -769,23 +769,23 @@ Section 632(p) of this title, referred to in subsec. (c)(8)(E), was redesignated
 
 2008—Subsec. (c). Pub. L. 110–315 added subsec. (c).
 
-2007—Pub. L. 110–69, § 3002(a)(5), substituted “Experimental program to stimulate competitive technology” for “Commerce and technological innovation” in section catchline.
+2007—Pub. L. 110–69, § 3002(a)(5), substituted “Experimental program to stimulate competitive technology” for “Commerce and technological innovation” in section catchline.
 
-Subsec. (a). Pub. L. 110–69, § 3002(a)(3)(B), (E), substituted “Program establishment” for “Experimental Program to Stimulate Competitive Technology” in heading and struck out “, acting through the Under Secretary,” after “Secretary” wherever appearing in text.
+Subsec. (a). Pub. L. 110–69, § 3002(a)(3)(B), (E), substituted “Program establishment” for “Experimental Program to Stimulate Competitive Technology” in heading and struck out “, acting through the Under Secretary,” after “Secretary” wherever appearing in text.
 
-Pub. L. 110–69, § 3002(a)(1), (2), redesignated subsec. (f) as (a) and struck out former subsec. (a) which related to the establishment of a Technology Administration within the Department of Commerce.
+Pub. L. 110–69, § 3002(a)(1), (2), redesignated subsec. (f) as (a) and struck out former subsec. (a) which related to the establishment of a Technology Administration within the Department of Commerce.
 
-Subsec. (a)(1). Pub. L. 110–69, § 3002(a)(3)(A), substituted “Beginning in fiscal year 1999, the Secretary shall establish” for “The Secretary, acting through the Under Secretary, shall establish for fiscal year 1999”.
+Subsec. (a)(1). Pub. L. 110–69, § 3002(a)(3)(A), substituted “Beginning in fiscal year 1999, the Secretary shall establish” for “The Secretary, acting through the Under Secretary, shall establish for fiscal year 1999”.
 
-Subsec. (a)(6). Pub. L. 110–69, § 3002(a)(3)(C), redesignated par. (6) as subsec. (b).
+Subsec. (a)(6). Pub. L. 110–69, § 3002(a)(3)(C), redesignated par. (6) as subsec. (b).
 
-Subsec. (a)(7). Pub. L. 110–69, § 3002(a)(3)(D), struck out par. (7) which required the Under Secretary of Commerce for Technology to submit a report on the Experimental Program to Stimulate Competitive Technology no later than 90 days after Oct. 30, 1998.
+Subsec. (a)(7). Pub. L. 110–69, § 3002(a)(3)(D), struck out par. (7) which required the Under Secretary of Commerce for Technology to submit a report on the Experimental Program to Stimulate Competitive Technology no later than 90 days after Oct. 30, 1998.
 
-Subsec. (b). Pub. L. 110–69, § 3002(a)(1), (3)(C), (4), redesignated subsec. (a)(6) as (b), substituted “subsection (a)” for “this subsection”, and struck out former subsec. (b) which related to appointment of Under Secretary of Commerce for Technology and Assistant Secretary of Commerce for Technology Policy.
+Subsec. (b). Pub. L. 110–69, § 3002(a)(1), (3)(C), (4), redesignated subsec. (a)(6) as (b), substituted “subsection (a)” for “this subsection”, and struck out former subsec. (b) which related to appointment of Under Secretary of Commerce for Technology and Assistant Secretary of Commerce for Technology Policy.
 
-Subsecs. (c) to (e). Pub. L. 110–69, § 3002(a)(1), struck out subsecs. (c) to (e) which related, respectively, to duties of the Secretary, Japanese technical literature, and a progress report required within 3 years after Oct. 21, 1980.
+Subsecs. (c) to (e). Pub. L. 110–69, § 3002(a)(1), struck out subsecs. (c) to (e) which related, respectively, to duties of the Secretary, Japanese technical literature, and a progress report required within 3 years after Oct. 21, 1980.
 
-Subsec. (f). Pub. L. 110–69, § 3002(a)(2), redesignated subsec. (f) as (a).
+Subsec. (f). Pub. L. 110–69, § 3002(a)(2), redesignated subsec. (f) as (a).
 
 2000—Subsec. (c)(11). Pub. L. 106–404 substituted “State or local governments” for “State of local governments”.
 
@@ -793,35 +793,35 @@ Subsec. (f). Pub. L. 110–69, § 3002(a)(2), redesignated subsec. (f) as (a).
 
 1992—Subsec. (c)(13) to (15). Pub. L. 102–245 added par. (13) and redesignated former pars. (13) and (14) as (14) and (15), respectively.
 
-1988—Subsec. (a). Pub. L. 100–519, § 201(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall establish and maintain an Office of Productivity, Technology, and Innovation in accordance with the provisions, findings, and purposes of this chapter.”
+1988—Subsec. (a). Pub. L. 100–519, § 201(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall establish and maintain an Office of Productivity, Technology, and Innovation in accordance with the provisions, findings, and purposes of this chapter.”
 
-Subsec. (b). Pub. L. 100–519, § 201(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The President shall appoint, by and with the advice and consent of the Senate, an Assistant Secretary for Productivity, Technology, and Innovation.”
+Subsec. (b). Pub. L. 100–519, § 201(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The President shall appoint, by and with the advice and consent of the Senate, an Assistant Secretary for Productivity, Technology, and Innovation.”
 
-Subsec. (c). Pub. L. 100–519, § 201(c)(2), substituted “Under Secretary, as appropriate,” for “Assistant Secretary, on a continuing basis,” in introductory provisions.
+Subsec. (c). Pub. L. 100–519, § 201(c)(2), substituted “Under Secretary, as appropriate,” for “Assistant Secretary, on a continuing basis,” in introductory provisions.
 
-Subsec. (c)(1) to (9). Pub. L. 100–519, § 201(c)(1), (2), added pars. (1) to (4) and redesignated former pars. (1) to (5) as (5) to (9), respectively. Former pars. (6) to (9) redesignated (10) to (13), respectively.
+Subsec. (c)(1) to (9). Pub. L. 100–519, § 201(c)(1), (2), added pars. (1) to (4) and redesignated former pars. (1) to (5) as (5) to (9), respectively. Former pars. (6) to (9) redesignated (10) to (13), respectively.
 
-Subsec. (c)(10). Pub. L. 100–519, § 201(c)(1), (3), redesignated former par. (6) as (10) and substituted “Under Secretary” for “Assistant Secretary”. Former par. (10) redesignated (14).
+Subsec. (c)(10). Pub. L. 100–519, § 201(c)(1), (3), redesignated former par. (6) as (10) and substituted “Under Secretary” for “Assistant Secretary”. Former par. (10) redesignated (14).
 
-Subsec. (c)(11) to (14). Pub. L. 100–519, § 201(c)(1), redesignated former pars. (7) to (10) as (11) to (14), respectively.
+Subsec. (c)(11) to (14). Pub. L. 100–519, § 201(c)(1), redesignated former pars. (7) to (10) as (11) to (14), respectively.
 
-Subsec. (d)(1). Pub. L. 100–519, § 201(d)(2), substituted “and the Under Secretary shall establish, and through the National Technical Information Service and with the cooperation of” for “shall establish and, through the National Technical Information Service and”.
+Subsec. (d)(1). Pub. L. 100–519, § 201(d)(2), substituted “and the Under Secretary shall establish, and through the National Technical Information Service and with the cooperation of” for “shall establish and, through the National Technical Information Service and”.
 
-1986—Subsec. (a). Pub. L. 99–502, § 9(b)(3), substituted “Office of Productivity, Technology, and Innovation” for “Office of Industrial Technology”.
+1986—Subsec. (a). Pub. L. 99–502, § 9(b)(3), substituted “Office of Productivity, Technology, and Innovation” for “Office of Industrial Technology”.
 
-Subsec. (b). Pub. L. 99–502, § 9(b)(4), substituted “an Assistant Secretary for Productivity, Technology, and Innovation” for “a Director of the Office, who shall be compensated at the rate provided for level V of the Executive Schedule in section 5316 of title 5”.
+Subsec. (b). Pub. L. 99–502, § 9(b)(4), substituted “an Assistant Secretary for Productivity, Technology, and Innovation” for “a Director of the Office, who shall be compensated at the rate provided for level V of the Executive Schedule in section 5316 of title 5”.
 
-Subsec. (c). Pub. L. 99–502, § 9(b)(5)(A), substituted “the Assistant Secretary” for “the Director” in provisions preceding par. (1).
+Subsec. (c). Pub. L. 99–502, § 9(b)(5)(A), substituted “the Assistant Secretary” for “the Director” in provisions preceding par. (1).
 
-Subsec. (c)(6). Pub. L. 99–502, § 9(b)(5)(A), substituted “the Assistant Secretary” for “the Director”.
+Subsec. (c)(6). Pub. L. 99–502, § 9(b)(5)(A), substituted “the Assistant Secretary” for “the Director”.
 
-Subsec. (c)(7) to (10). Pub. L. 99–502, § 9(b)(5)(B), (C), added pars. (7) and (8) and redesignated former pars. (7) and (8) as (9) and (10), respectively.
+Subsec. (c)(7) to (10). Pub. L. 99–502, § 9(b)(5)(B), (C), added pars. (7) and (8) and redesignated former pars. (7) and (8) as (9) and (10), respectively.
 
-Subsec. (d). Pub. L. 99–382, § 2(2), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 99–382, § 2(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 99–502, § 9(e)(2)(A), which directed the insertion of “(as then in effect)” in subsec. (d), was executed to subsec. (e) to reflect the probable intent of Congress in view of the redesignation of subsec. (d) as (e) by Pub. L. 99–382.
+Subsec. (e). Pub. L. 99–502, § 9(e)(2)(A), which directed the insertion of “(as then in effect)” in subsec. (d), was executed to subsec. (e) to reflect the probable intent of Congress in view of the redesignation of subsec. (d) as (e) by Pub. L. 99–382.
 
-Pub. L. 99–382, § 2(1), redesignated subsec. (d) as (e).
+Pub. L. 99–382, § 2(1), redesignated subsec. (d) as (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -831,17 +831,17 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 **Construction**
 
-Pub. L. 110–69, title III, § 3002(b), Aug. 9, 2007, 121 Stat. 586, provided that: “The amendments made by subsection (a) [amending this section] shall not be construed to eliminate the National Institute of Standards and Technology or the National Technical Information Service.”
+Pub. L. 110–69, title III, § 3002(b), Aug. 9, 2007, 121 Stat. 586, provided that: “The amendments made by subsection (a) [amending this section] shall not be construed to eliminate the National Institute of Standards and Technology or the National Technical Information Service.”
 
 **Transition Provision**
 
-Pub. L. 100–519, title II, § 201(e), Oct. 24, 1988, 102 Stat. 2594, provided that: “The individual serving as the Assistant Secretary of Commerce for Productivity, Technology, and Innovation immediately before the date of enactment of this Act [Oct. 24, 1988] shall serve as Acting Assistant Secretary of Commerce for Technology Policy until the Assistant Secretary takes office.”
+Pub. L. 100–519, title II, § 201(e), Oct. 24, 1988, 102 Stat. 2594, provided that: “The individual serving as the Assistant Secretary of Commerce for Productivity, Technology, and Innovation immediately before the date of enactment of this Act [Oct. 24, 1988] shall serve as Acting Assistant Secretary of Commerce for Technology Policy until the Assistant Secretary takes office.”
 
 **Commercial Space Programs**
 
-Pub. L. 100–519, title II, § 201(f), as added by Pub. L. 100–685, title II, § 219, Nov. 17, 1988, 102 Stat. 4095, provided that: “Nothing in this section [amending this section, sections 3703 and 3710 of this title, and section 5314 of Title 5, Government Organization and Employees, and enacting provisions formerly set out as a note above] authorizes the Department to establish an Office of Commercial Space Programs or to place such an office into the Technology Administration without prior authorization of the Congress.”
+Pub. L. 100–519, title II, § 201(f), as added by Pub. L. 100–685, title II, § 219, Nov. 17, 1988, 102 Stat. 4095, provided that: “Nothing in this section [amending this section, sections 3703 and 3710 of this title, and section 5314 of Title 5, Government Organization and Employees, and enacting provisions formerly set out as a note above] authorizes the Department to establish an Office of Commercial Space Programs or to place such an office into the Technology Administration without prior authorization of the Congress.”
 
-## § 3704a. Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation
+## § 3704a. Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation
 
 **(a) Establishment**
 
@@ -869,7 +869,7 @@ There is established within the Office of Productivity, Technology, and Innovati
 
 In carrying out subsection (b), the Secretary may enter into contracts for the purpose of collecting information on the nature, extent, and effects of initiatives.
 
-(Pub. L. 96–480, § 6, as added Pub. L. 100–418, title V, § 5122(a)(2), Aug. 23, 1988, 102 Stat. 1438.)
+(Pub. L. 96–480, § 6, as added Pub. L. 100–418, title V, § 5122(a)(2), Aug. 23, 1988, 102 Stat. 1438.)
 
 **Editorial Notes**
 
@@ -877,7 +877,7 @@ In carrying out subsection (b), the Secretary may enter into contracts for the p
 
 Subsec. (d) of this section, which required the Secretary to prepare and transmit a triennial report to Congress, including recommendations to the President, Congress, and Federal agencies, on initiatives by State and local governments to enhance the competitiveness of American businesses through the stimulation of productivity, technology, and innovation, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 50 of House Document No. 103–7.
 
-## § 3704b. National Technical Information Service
+## § 3704b. National Technical Information Service
 
 **(a) Powers**
 
@@ -903,13 +903,13 @@ An increase or decrease in the personnel of the Service shall not affect or be a
 
 **(C)** to be performed through joint ventures or cooperative agreements which do not result in a reduction in the Federal workforce of the affected programs of the service,1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 shall not be considered functions or activities for purposes of this paragraph.
 
-**(3)** For the purposes of this subsection, the term “net revenues” means the excess of revenues and receipts from any source, other than royalties and other income described in section 13(a)(4) 2
+**(3)** For the purposes of this subsection, the term “net revenues” means the excess of revenues and receipts from any source, other than royalties and other income described in section 13(a)(4) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710c(a)(4)), over operating expenses.
 
@@ -973,17 +973,17 @@ The Secretary of Commerce shall provide for annual independent audits of the Ser
 
 **(C)** any change in the operating plan submitted under paragraph (3)(B) which would result in a variation from such plan with respect to expense levels of more than 10 percent.
 
-(Pub. L. 100–519, title II, § 212, Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–140, title II, Oct. 28, 1991, 105 Stat. 804; Pub. L. 102–245, title V, § 506(c), Feb. 14, 1992, 106 Stat. 27; Pub. L. 110–161, div. B, title I, § 109, Dec. 26, 2007, 121 Stat. 1893; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 100–519, title II, § 212, Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–140, title II, Oct. 28, 1991, 105 Stat. 804; Pub. L. 102–245, title V, § 506(c), Feb. 14, 1992, 106 Stat. 27; Pub. L. 110–161, div. B, title I, § 109, Dec. 26, 2007, 121 Stat. 1893; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This section, referred to in subsec. (a)(1), was in the original “this subtitle”, meaning subtitle B (§§ 211, 212) of title II of Pub. L. 100–519, Oct. 24, 1988, 102 Stat. 2594, which enacted section 3704b of this title and amended section 3710 of this title. For complete classification of this subtitle to the Code, see Short Title of 1988 Amendment note set out under section 3701 of this title and Tables.
+This section, referred to in subsec. (a)(1), was in the original “this subtitle”, meaning subtitle B (§§ 211, 212) of title II of Pub. L. 100–519, Oct. 24, 1988, 102 Stat. 2594, which enacted section 3704b of this title and amended section 3710 of this title. For complete classification of this subtitle to the Code, see Short Title of 1988 Amendment note set out under section 3701 of this title and Tables.
 
-Section 13(a)(4) of the Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (a)(3), probably means section 14(a)(4) of the Act, which is classified to section 3710c(a)(4) of this title. Section 13 of the Act was renumbered section 14 by Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438.
+Section 13(a)(4) of the Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (a)(3), probably means section 14(a)(4) of the Act, which is classified to section 3710c(a)(4) of this title. Section 13 of the Act was renumbered section 14 by Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438.
 
-The Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950, referred to in subsec. (e)(6), is act Sept. 9, 1950, ch. 936, 64 Stat. 823, which is classified generally to chapter 23 (§ 1151 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950, referred to in subsec. (e)(6), is act Sept. 9, 1950, ch. 936, 64 Stat. 823, which is classified generally to chapter 23 (§ 1151 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e)(6), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
 
@@ -997,7 +997,7 @@ Subsec. (a)(4) of this section repealed subsec. (h) of section 3710 of this titl
 
 2007—Subsec. (b). Pub. L. 110–161 substituted “Director of the National Institute of Standards and Technology” for “Under Secretary of Commerce for Technology”.
 
-1992—Subsec. (e)(5). Pub. L. 102–245 inserted “, including producing and disseminating information products in electronic format” after “engineering information”.
+1992—Subsec. (e)(5). Pub. L. 102–245 inserted “, including producing and disseminating information products in electronic format” after “engineering information”.
 
 1991—Subsec. (a)(1)(E). Pub. L. 102–140 added subpar. (E).
 
@@ -1015,11 +1015,11 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 Pub. L. 102–395, title II, Oct. 6, 1992, 106 Stat. 1853, provided that: “For establishment of a National Technical Information Service Revolving Fund, $8,000,000 without fiscal year limitation: *Provided*, That unexpended balances in Information Products and Services shall be transferred to and merged with this account, to remain available until expended. Notwithstanding 15 U.S.C. 1525 and 1526, all payments collected by the National Technical Information Service in performing its activities authorized by chapters 23 and 63 of title 15 of the United States Code shall be credited to this Revolving Fund. Without further appropriations action, all expenses incurred in performing the activities of the National Technical Information Service, including modernization, capital equipment and inventory, shall be paid from the fund. A business-type budget for the fund shall be prepared in the manner prescribed by 31 U.S.C. 9103.”
 
-## § 3704b–1. Recovery of operating costs through fee collections
+## § 3704b–1. Recovery of operating costs through fee collections
 
 Operating costs for the National Technical Information Service associated with the acquisition, processing, storage, bibliographic control, and archiving of information and documents shall be recovered primarily through the collection of fees.
 
-(Pub. L. 102–245, title I, § 103(c), Feb. 14, 1992, 106 Stat. 8.)
+(Pub. L. 102–245, title I, § 103(c), Feb. 14, 1992, 106 Stat. 8.)
 
 **Editorial Notes**
 
@@ -1027,7 +1027,7 @@ Operating costs for the National Technical Information Service associated with t
 
 Section was enacted as part of the American Technology Preeminence Act of 1991, and not as part of the Stevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
 
-## § 3704b–2. Transfer of Federal scientific and technical information
+## § 3704b–2. Transfer of Federal scientific and technical information
 
 **(a) Transfer**
 
@@ -1043,7 +1043,7 @@ The head of each Federal executive department or agency shall transfer in a time
 
 **(4)** recommendations for legislation necessary to improve public access to Federal scientific and technical information.
 
-(Pub. L. 102–245, title I, § 108, Feb. 14, 1992, 106 Stat. 13.)
+(Pub. L. 102–245, title I, § 108, Feb. 14, 1992, 106 Stat. 13.)
 
 **Editorial Notes**
 
@@ -1051,7 +1051,7 @@ The head of each Federal executive department or agency shall transfer in a time
 
 Section was enacted as part of the American Technology Preeminence Act of 1991, and not as part of the Stevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
 
-## § 3705. Cooperative Research Centers
+## § 3705. Cooperative Research Centers
 
 **(a) Establishment** The Secretary shall provide assistance for the establishment of Cooperative Research Centers. Such Centers shall be affiliated with any university, or other nonprofit institution, or group thereof, that applies for and is awarded a grant or enters into a cooperative agreement under this section. The objective of the Centers is to enhance technological innovation through—
 
@@ -1103,7 +1103,7 @@ The Secretary is authorized to make available nonrenewable planning grants to un
 
 In the promotion of technology from research and development efforts by Centers under this section, chapter 18 of title 35 shall apply to the extent not inconsistent with this section.
 
-(Pub. L. 96–480, § 7, formerly § 6, Oct. 21, 1980, 94 Stat. 2313; Pub. L. 99–502, § 9(b)(6)–(10), Oct. 20, 1986, 100 Stat. 1796; renumbered § 7, Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438.)
+(Pub. L. 96–480, § 7, formerly § 6, Oct. 21, 1980, 94 Stat. 2313; Pub. L. 99–502, § 9(b)(6)–(10), Oct. 20, 1986, 100 Stat. 1796; renumbered § 7, Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438.)
 
 **Editorial Notes**
 
@@ -1113,19 +1113,19 @@ A prior section 7 of Pub. L. 96–480 was renumbered section 8 and is classified
 
 **Amendments**
 
-1986—Subsec. (a). Pub. L. 99–502, § 9(b)(7), substituted “Cooperative Research Centers” for “Centers for Industrial Technology”.
+1986—Subsec. (a). Pub. L. 99–502, § 9(b)(7), substituted “Cooperative Research Centers” for “Centers for Industrial Technology”.
 
-Subsec. (b)(1). Pub. L. 99–502, § 9(b)(8), struck out “basic and applied” after “industry-university”.
+Subsec. (b)(1). Pub. L. 99–502, § 9(b)(8), struck out “basic and applied” after “industry-university”.
 
-Subsec. (e). Pub. L. 99–502, § 9(b)(9), amended subsec. (e) generally. Prior to amendment, subsec. (e) provided that a Center of Industrial Technology had the option to acquire title to an invention conceived or made under its auspices and supported by Federal funds, authorized supporting agency to require the Center to grant licenses to the invention to responsible applicants in certain cases, and provided for judicial review of licensing determinations by the supporting agency.
+Subsec. (e). Pub. L. 99–502, § 9(b)(9), amended subsec. (e) generally. Prior to amendment, subsec. (e) provided that a Center of Industrial Technology had the option to acquire title to an invention conceived or made under its auspices and supported by Federal funds, authorized supporting agency to require the Center to grant licenses to the invention to responsible applicants in certain cases, and provided for judicial review of licensing determinations by the supporting agency.
 
-Subsec. (f). Pub. L. 99–502, § 9(b)(10), struck out subsec. (f) which read as follows: “The supporting agency may request the Attorney General’s opinion whether the proposed joint research activities of a Center would violate any of the antitrust laws. The Attorney General shall advise the supporting agency of his determination and the reasons for it within 120 days after receipt of such request.”
+Subsec. (f). Pub. L. 99–502, § 9(b)(10), struck out subsec. (f) which read as follows: “The supporting agency may request the Attorney General’s opinion whether the proposed joint research activities of a Center would violate any of the antitrust laws. The Attorney General shall advise the supporting agency of his determination and the reasons for it within 120 days after receipt of such request.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Model Program**
 
-Pub. L. 101–510, div. A, title VIII, § 827(b), Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–190, div. A, title X, § 1062(a)(2), Dec. 5, 1991, 105 Stat. 1475, provided that:
+Pub. L. 101–510, div. A, title VIII, § 827(b), Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–190, div. A, title X, § 1062(a)(2), Dec. 5, 1991, 105 Stat. 1475, provided that:
 
 > **“(1)** In the administration of applicable provisions of the Stevenson-Wydler Technology Innovation Act of 1980 [15 U.S.C. 3701 et seq.] or section 5121(b) of the Omnibus Trade and Competitiveness Act of 1988 [Pub. L. 100–418, 15 U.S.C. 278*l* note], the Secretary of Commerce shall develop, in consultation with the Secretary of Defense and the Secretary of Energy, model programs for national defense laboratories.
 
@@ -1137,7 +1137,7 @@ Pub. L. 101–510, div. A, title VIII, § 827(b), Nov. 5, 1990, 104 Stat. 1607
 
 > **“(B)** is under the jurisdiction of the Secretary of Energy, but only if the primary function of the laboratory, FFRDC, or other center under the Secretary’s jurisdiction is to support the national defense activities of the Department of Defense or the Department of Energy.”
 
-## § 3706. Grants and cooperative agreements
+## § 3706. Grants and cooperative agreements
 
 **(a) In general**
 
@@ -1153,7 +1153,7 @@ Any person or institution may apply to the Secretary for a grant or cooperative 
 
 **(2)** Any person who receives or utilizes any proceeds of any grant made or cooperative agreement entered into under this section shall keep such records as the Secretary shall by regulation prescribe as being necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition by such recipient of such proceeds, the total cost of the program or project in connection with which such proceeds were used, and the amount, if any, of such costs which was provided through other sources.
 
-(Pub. L. 96–480, § 8, formerly § 7, Oct. 21, 1980, 94 Stat. 2315; renumbered § 8 and amended Pub. L. 100–418, title V, §§ 5115(b)(1), 5122(a)(1), Aug. 23, 1988, 102 Stat. 1433, 1438; Pub. L. 114–329, title II, § 203, Jan. 6, 2017, 130 Stat. 2998.)
+(Pub. L. 96–480, § 8, formerly § 7, Oct. 21, 1980, 94 Stat. 2315; renumbered § 8 and amended Pub. L. 100–418, title V, §§ 5115(b)(1), 5122(a)(1), Aug. 23, 1988, 102 Stat. 1433, 1438; Pub. L. 114–329, title II, § 203, Jan. 6, 2017, 130 Stat. 2998.)
 
 **Editorial Notes**
 
@@ -1165,9 +1165,9 @@ A prior section 8 of Pub. L. 96–480 was renumbered section 9 and is classified
 
 2017—Subsec. (a). Pub. L. 114–329 struck out at end “The total amount of any such grant or cooperative agreement may not exceed 75 percent of the total cost of the program.”
 
-1988—Subsec. (b). Pub. L. 100–418, § 5115(b)(1), substituted “Assistant Secretary” for “Director”.
+1988—Subsec. (b). Pub. L. 100–418, § 5115(b)(1), substituted “Assistant Secretary” for “Director”.
 
-## § 3707. National Science Foundation Cooperative Research Centers
+## § 3707. National Science Foundation Cooperative Research Centers
 
 **(a) Establishment and provisions**
 
@@ -1181,13 +1181,13 @@ The National Science Foundation is authorized to make available nonrenewable pla
 
 Grants, contracts, and cooperative agreements entered into by the National Science Foundation in execution of the powers and duties of the National Science Foundation under this chapter shall be governed by the National Science Foundation Act of 1950 [42 U.S.C. 1861 et seq.] and other pertinent Acts.
 
-(Pub. L. 96–480, § 9, formerly § 8, Oct. 21, 1980, 94 Stat. 2316; Pub. L. 99–502, § 9(b)(11), (12), (e)(2)(B), Oct. 20, 1986, 100 Stat. 1796, 1797; renumbered § 9, Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; Pub. L. 106–404, § 7(4), Nov. 1, 2000, 114 Stat. 1745.)
+(Pub. L. 96–480, § 9, formerly § 8, Oct. 21, 1980, 94 Stat. 2316; Pub. L. 99–502, § 9(b)(11), (12), (e)(2)(B), Oct. 20, 1986, 100 Stat. 1796, 1797; renumbered § 9, Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; Pub. L. 106–404, § 7(4), Nov. 1, 2000, 114 Stat. 1745.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Science Foundation Act of 1950, referred to in subsec. (c), is act May 10, 1950, ch. 171, 64 Stat. 149, which is classified generally to chapter 16 (§ 1861 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1861 of Title 42 and Tables.
+The National Science Foundation Act of 1950, referred to in subsec. (c), is act May 10, 1950, ch. 171, 64 Stat. 149, which is classified generally to chapter 16 (§ 1861 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1861 of Title 42 and Tables.
 
 **Prior Provisions**
 
@@ -1199,7 +1199,7 @@ A prior section 9 of Pub. L. 96–480 was renumbered section 10 and is classifie
 
 1986—Subsec. (a). Pub. L. 99–502 substituted “Cooperative Research Centers” for “Centers for Industrial Technology” and struck out last sentence which read as follows: “The provisions of sections 3705(e) and 3705(f) of this title shall apply to Centers established under this section.”
 
-## § 3708. Administrative arrangements
+## § 3708. Administrative arrangements
 
 **(a) Coordination**
 
@@ -1219,7 +1219,7 @@ It is the sense of the Congress that departments and agencies, including the Fed
 
 The Secretary and the National Science Foundation shall, on a continuing basis, provide each other the opportunity to comment on any proposed program of activity under section 3705, 3707, 3710, 3710d, 3711a, or 3712 of this title before funds are committed to such program in order to mount complementary efforts and avoid duplication.
 
-(Pub. L. 96–480, § 10, formerly § 9, Oct. 21, 1980, 94 Stat. 2316; Pub. L. 99–502, § 9(e)(2)(C), Oct. 20, 1986, 100 Stat. 1797; Pub. L. 100–107, § 3(b), Aug. 20, 1987, 101 Stat. 727; renumbered § 10 and amended Pub. L. 100–418, title V, § 5122(a)(1), (c), Aug. 23, 1988, 102 Stat. 1438, 1439; Pub. L. 102–240, title VI, § 6019, Dec. 18, 1991, 105 Stat. 2183.)
+(Pub. L. 96–480, § 10, formerly § 9, Oct. 21, 1980, 94 Stat. 2316; Pub. L. 99–502, § 9(e)(2)(C), Oct. 20, 1986, 100 Stat. 1797; Pub. L. 100–107, § 3(b), Aug. 20, 1987, 101 Stat. 727; renumbered § 10 and amended Pub. L. 100–418, title V, § 5122(a)(1), (c), Aug. 23, 1988, 102 Stat. 1438, 1439; Pub. L. 102–240, title VI, § 6019, Dec. 18, 1991, 105 Stat. 2183.)
 
 **Editorial Notes**
 
@@ -1233,17 +1233,17 @@ Another prior section 10 of Pub. L. 96–480 related to National Industrial Tech
 
 1991—Subsec. (d). Pub. L. 102–240 made technical amendment to reference to section 3712 of this title to reflect renumbering of corresponding section of original act.
 
-1988—Subsec. (d). Pub. L. 100–418, § 5122(c), made technical amendment to references to sections 3705, 3707, 3710, 3710d, 3711a, and 3712 of this title to reflect renumbering of corresponding sections of original act.
+1988—Subsec. (d). Pub. L. 100–418, § 5122(c), made technical amendment to references to sections 3705, 3707, 3710, 3710d, 3711a, and 3712 of this title to reflect renumbering of corresponding sections of original act.
 
 1987—Subsec. (d). Pub. L. 100–107 inserted reference to section 3711a of this title.
 
 1986—Subsec. (d). Pub. L. 99–502 inserted references to sections 3710 and 3710d of this title.
 
-## § 3709. Repealed. Pub. L. 99–502, § 9(a), Oct. 20, 1986, 100 Stat. 1795
+## § 3709. Repealed. Pub. L. 99–502, § 9(a), Oct. 20, 1986, 100 Stat. 1795
 
-Section, Pub. L. 96–480, § 10, Oct. 21, 1980, 94 Stat. 2317, related to establishment, duties, membership, and terms of National Industrial Technology Board.
+Section, Pub. L. 96–480, § 10, Oct. 21, 1980, 94 Stat. 2317, related to establishment, duties, membership, and terms of National Industrial Technology Board.
 
-## § 3710. Utilization of Federal technology
+## § 3710. Utilization of Federal technology
 
 **(a) Policy**
 
@@ -1409,7 +1409,7 @@ Each Federal agency reporting under this subsection is also strongly encouraged 
 
 The Director of a laboratory, or the head of any Federal agency or department, may loan, lease, or give research equipment that is excess to the needs of the laboratory, agency, or department to an educational institution or nonprofit organization for the conduct of technical and scientific education and research activities. Title of ownership shall transfer with a gift under this section.
 
-(Pub. L. 96–480, § 11, Oct. 21, 1980, 94 Stat. 2318; renumbered § 10 and amended Pub. L. 99–502, §§ 3–5, 9(e)(1), Oct. 20, 1986, 100 Stat. 1787, 1789, 1791, 1797; renumbered § 11 and amended Pub. L. 100–418, title V, §§ 5115(b)(2), 5122(a)(1), 5162(b), 5163(c)(1), (3), Aug. 23, 1988, 102 Stat. 1433, 1438, 1450, 1451; Pub. L. 100–519, title II, §§ 201(d)(3), 212(a)(4), Oct. 24, 1988, 102 Stat. 2594, 2595; Pub. L. 101–189, div. C, title XXXI, § 3133(e), Nov. 29, 1989, 103 Stat. 1679; Pub. L. 102–245, title III, §§ 301, 303, Feb. 14, 1992, 106 Stat. 19, 20; Pub. L. 104–66, title III, § 3001(f), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–113, §§ 3, 9, Mar. 7, 1996, 110 Stat. 775, 779; Pub. L. 105–394, title II, § 212(d), Nov. 13, 1998, 112 Stat. 3655; Pub. L. 106–404, §§ 7(5), (6), 10(a), Nov. 1, 2000, 114 Stat. 1745–1747; Pub. L. 110–69, title III, § 3002(c)(4), Aug. 9, 2007, 121 Stat. 586.)
+(Pub. L. 96–480, § 11, Oct. 21, 1980, 94 Stat. 2318; renumbered § 10 and amended Pub. L. 99–502, §§ 3–5, 9(e)(1), Oct. 20, 1986, 100 Stat. 1787, 1789, 1791, 1797; renumbered § 11 and amended Pub. L. 100–418, title V, §§ 5115(b)(2), 5122(a)(1), 5162(b), 5163(c)(1), (3), Aug. 23, 1988, 102 Stat. 1433, 1438, 1450, 1451; Pub. L. 100–519, title II, §§ 201(d)(3), 212(a)(4), Oct. 24, 1988, 102 Stat. 2594, 2595; Pub. L. 101–189, div. C, title XXXI, § 3133(e), Nov. 29, 1989, 103 Stat. 1679; Pub. L. 102–245, title III, §§ 301, 303, Feb. 14, 1992, 106 Stat. 19, 20; Pub. L. 104–66, title III, § 3001(f), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–113, §§ 3, 9, Mar. 7, 1996, 110 Stat. 775, 779; Pub. L. 105–394, title II, § 212(d), Nov. 13, 1998, 112 Stat. 3655; Pub. L. 106–404, §§ 7(5), (6), 10(a), Nov. 1, 2000, 114 Stat. 1745–1747; Pub. L. 110–69, title III, § 3002(c)(4), Aug. 9, 2007, 121 Stat. 586.)
 
 **Editorial Notes**
 
@@ -1421,37 +1421,37 @@ The Government Performance and Results Act of 1993, referred to in subsec. (h), 
 
 2007—Subsec. (g)(1). Pub. L. 110–69 struck out “through the Under Secretary, and” after “The Secretary,” in introductory provisions.
 
-2000—Subsec. (b). Pub. L. 106–404, § 10(a)(1), struck out at end “The agency head shall submit to Congress at the time the President submits the budget to Congress an explanation of the agency’s technology transfer program for the preceding year and the agency’s plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry.”
+2000—Subsec. (b). Pub. L. 106–404, § 10(a)(1), struck out at end “The agency head shall submit to Congress at the time the President submits the budget to Congress an explanation of the agency’s technology transfer program for the preceding year and the agency’s plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry.”
 
-Subsec. (e)(1). Pub. L. 106–404, § 7(5), substituted “in cooperation with Federal laboratories” for “in cooperation with Federal Laboratories” in introductory provisions.
+Subsec. (e)(1). Pub. L. 106–404, § 7(5), substituted “in cooperation with Federal laboratories” for “in cooperation with Federal Laboratories” in introductory provisions.
 
-Subsec. (f). Pub. L. 106–404, § 10(a)(2), added subsec. (f).
+Subsec. (f). Pub. L. 106–404, § 10(a)(2), added subsec. (f).
 
-Subsec. (g)(2). Pub. L. 106–404, § 10(a)(3), added par. (2) and struck out former par. (2) which read as follows: “Two years after October 20, 1986, and every two years thereafter, the Secretary shall submit a summary report to the President and the Congress on the use by the agencies and the Secretary of the authorities specified in this chapter. Other Federal agencies shall cooperate in the report’s preparation.”
+Subsec. (g)(2). Pub. L. 106–404, § 10(a)(3), added par. (2) and struck out former par. (2) which read as follows: “Two years after October 20, 1986, and every two years thereafter, the Secretary shall submit a summary report to the President and the Congress on the use by the agencies and the Secretary of the authorities specified in this chapter. Other Federal agencies shall cooperate in the report’s preparation.”
 
-Subsec. (h). Pub. L. 106–404, § 10(a)(4), added subsec. (h).
+Subsec. (h). Pub. L. 106–404, § 10(a)(4), added subsec. (h).
 
-Subsec. (i). Pub. L. 106–404, § 7(6), substituted “a gift under this section” for “a gift under the section”.
+Subsec. (i). Pub. L. 106–404, § 7(6), substituted “a gift under this section” for “a gift under the section”.
 
 1998—Subsec. (e)(1)(K). Pub. L. 105–394 added subpar. (K).
 
-1996—Subsec. (e)(7)(B). Pub. L. 104–113, § 3, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A transfer shall be made by any Federal agency under subparagraph (A), for any fiscal year, only if—
+1996—Subsec. (e)(7)(B). Pub. L. 104–113, § 3, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A transfer shall be made by any Federal agency under subparagraph (A), for any fiscal year, only if—
 
 “(i) the amount so transferred by that agency (as determined under such subparagraph) would exceed $10,000; and
 
 “(ii) such transfer is made with respect to the fiscal year 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, or 1996.”
 
-Subsec. (i). Pub. L. 104–113, § 9, inserted “loan, lease, or” before “give”.
+Subsec. (i). Pub. L. 104–113, § 9, inserted “loan, lease, or” before “give”.
 
 1995—Subsec. (f). Pub. L. 104–66 struck out heading and text of subsec. (f). Text read as follows: “Each Federal agency which operates or directs one or more Federal laboratories shall report annually to the Congress, as part of the agency’s annual budget submission, on the activities performed by that agency and its Federal laboratories pursuant to the provisions of this section.”
 
-1992—Subsec. (e)(2). Pub. L. 102–245, § 301(a), inserted “senior” before “representative”.
+1992—Subsec. (e)(2). Pub. L. 102–245, § 301(a), inserted “senior” before “representative”.
 
-Subsec. (e)(6). Pub. L. 102–245, § 301(b), inserted at end “Such report shall include an annual independent audit of the financial statements of the Consortium, conducted in accordance with generally accepted accounting principles.”
+Subsec. (e)(6). Pub. L. 102–245, § 301(b), inserted at end “Such report shall include an annual independent audit of the financial statements of the Consortium, conducted in accordance with generally accepted accounting principles.”
 
-Subsec. (e)(7)(B)(ii). Pub. L. 102–245, § 301(c), substituted “1991, 1992, 1993, 1994, 1995, or 1996” for “or 1991”.
+Subsec. (e)(7)(B)(ii). Pub. L. 102–245, § 301(c), substituted “1991, 1992, 1993, 1994, 1995, or 1996” for “or 1991”.
 
-Subsec. (e)(8). Pub. L. 102–245, § 301(d), struck out former par. (8) which read as follows:
+Subsec. (e)(8). Pub. L. 102–245, § 301(d), struck out former par. (8) which read as follows:
 
 “(A) The Consortium shall use 5 percent of the funds provided in paragraph (7)(A) to establish demonstration projects in technology transfer. To carry out such projects, the Consortium may arrange for grants or awards to, or enter into agreements with, nonprofit State, local, or private organizations or entities whose primary purposes are to facilitate cooperative research between the Federal laboratories and organizations not associated with the Federal laboratories, to transfer technology from the Federal laboratories, and to advance State and local economic activity.
 
@@ -1461,49 +1461,49 @@ Subsec. (e)(8). Pub. L. 102–245, § 301(d), struck out former par. (8) which
 
 “(D) Any person who receives or utilizes any proceeds of a grant or award made, or agreement entered into, under this paragraph shall keep such records as the Consortium or its designee shall determine are necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition of such proceeds and the total cost of the project in connection with which such proceeds were used.”
 
-Subsec. (i). Pub. L. 102–245, § 303, added subsec. (i).
+Subsec. (i). Pub. L. 102–245, § 303, added subsec. (i).
 
 1989—Subsec. (b). Pub. L. 101–189 struck out “after September 30, 1981,” after “(2)”, substituted “sufficient funding, either as a separate line item or from the agency’s research and development budget,” for “not less than 0.5 percent of the agency’s research and development budget”, struck out “agency head may waive the requirement set forth in clause (2) of the preceding sentence. If the agency head waives such requirement, the” after “transfer process. The”, and substituted “agency’s technology transfer program for the preceding year and the agency’s plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry” for “reasons for the waiver and alternate plans for conducting the technology transfer function at the agency”.
 
-1988—Subsec. (d)(6). Pub. L. 100–418, § 5163(c)(3), added par. (6).
+1988—Subsec. (d)(6). Pub. L. 100–418, § 5163(c)(3), added par. (6).
 
-Subsec. (e)(4). Pub. L. 100–418, § 5115(b)(2), substituted “National Institute of Standards and Technology” for “National Bureau of Standards” and “Institute” for “Bureau”.
+Subsec. (e)(4). Pub. L. 100–418, § 5115(b)(2), substituted “National Institute of Standards and Technology” for “National Bureau of Standards” and “Institute” for “Bureau”.
 
-Subsec. (e)(7)(A). Pub. L. 100–418, § 5162(b), substituted “0.008 percent of the budget of each Federal agency from any Federal source, including related overhead, that is to be utilized by or on behalf of” for “0.005 percent of that portion of the research and development budget of each Federal agency that is to be utilized by”.
+Subsec. (e)(7)(A). Pub. L. 100–418, § 5162(b), substituted “0.008 percent of the budget of each Federal agency from any Federal source, including related overhead, that is to be utilized by or on behalf of” for “0.005 percent of that portion of the research and development budget of each Federal agency that is to be utilized by”.
 
-Pub. L. 100–418, § 5115(b)(2), substituted “National Institute of Standards and Technology” for “National Bureau of Standards” and “Institute” for “Bureau”.
+Pub. L. 100–418, § 5115(b)(2), substituted “National Institute of Standards and Technology” for “National Bureau of Standards” and “Institute” for “Bureau”.
 
-Subsec. (g)(1). Pub. L. 100–519, § 201(d)(3), inserted reference to the Under Secretary.
+Subsec. (g)(1). Pub. L. 100–519, § 201(d)(3), inserted reference to the Under Secretary.
 
-Subsec. (h). Pub. L. 100–519, § 212(a)(4), struck out subsec. (h) which read as follows: “None of the activities or functions of the National Technical Information Service which are not performed by contractors as of September 30, 1987, shall be contracted out or otherwise transferred from the Federal Government unless such transfer is expressly authorized by statute, or unless the value of all work performed under the contract and related contracts in each fiscal year does not exceed $250,000.”
+Subsec. (h). Pub. L. 100–519, § 212(a)(4), struck out subsec. (h) which read as follows: “None of the activities or functions of the National Technical Information Service which are not performed by contractors as of September 30, 1987, shall be contracted out or otherwise transferred from the Federal Government unless such transfer is expressly authorized by statute, or unless the value of all work performed under the contract and related contracts in each fiscal year does not exceed $250,000.”
 
-Pub. L. 100–418, § 5163(c)(1), added subsec. (h).
+Pub. L. 100–418, § 5163(c)(1), added subsec. (h).
 
-1986—Subsec. (a). Pub. L. 99–502, § 4(a), designated existing provisions as par. (1) and added pars. (2) and (3).
+1986—Subsec. (a). Pub. L. 99–502, § 4(a), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (b). Pub. L. 99–502, § 4(b)(1), substituted “200 or more full-time equivalent scientific, engineering, and related technical positions shall provide one or more full-time equivalent positions” for “a total annual budget exceeding $20,000,000 shall provide at least one professional individual full-time”, inserted “Furthermore, individuals filling positions in an Office of Research and Technology Applications shall be included in the overall laboratory/agency management development program so as to ensure that highly competent technical managers are full participants in the technology transfer process.”, substituted “requirement set forth in clause (2) of the preceding sentence” for “requirements set forth in (1) and/or (2) of this subsection”, and substituted “such requirement” for “either requirement (1) or (2)”.
+Subsec. (b). Pub. L. 99–502, § 4(b)(1), substituted “200 or more full-time equivalent scientific, engineering, and related technical positions shall provide one or more full-time equivalent positions” for “a total annual budget exceeding $20,000,000 shall provide at least one professional individual full-time”, inserted “Furthermore, individuals filling positions in an Office of Research and Technology Applications shall be included in the overall laboratory/agency management development program so as to ensure that highly competent technical managers are full participants in the technology transfer process.”, substituted “requirement set forth in clause (2) of the preceding sentence” for “requirements set forth in (1) and/or (2) of this subsection”, and substituted “such requirement” for “either requirement (1) or (2)”.
 
-Subsec. (c)(1). Pub. L. 99–502, § 4(b)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “to prepare an application assessment of each research and development project in which that laboratory is engaged which has potential for successful application in State or local government or in private industry;”.
+Subsec. (c)(1). Pub. L. 99–502, § 4(b)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “to prepare an application assessment of each research and development project in which that laboratory is engaged which has potential for successful application in State or local government or in private industry;”.
 
-Subsec. (c)(3). Pub. L. 99–502, § 4(b)(2)(B), substituted “the National Technical Information Service, the Federal Laboratory Consortium for Technology Transfer,” for “the Center for the Utilization of Federal Technology” and struck out “and” after the semicolon.
+Subsec. (c)(3). Pub. L. 99–502, § 4(b)(2)(B), substituted “the National Technical Information Service, the Federal Laboratory Consortium for Technology Transfer,” for “the Center for the Utilization of Federal Technology” and struck out “and” after the semicolon.
 
-Subsec. (c)(4). Pub. L. 99–502, § 4(b)(2)(C), substituted “to State and local government officials; and” for “in response to requests from State and local government officials.”.
+Subsec. (c)(4). Pub. L. 99–502, § 4(b)(2)(C), substituted “to State and local government officials; and” for “in response to requests from State and local government officials.”.
 
-Subsec. (c)(5). Pub. L. 99–502, § 4(b)(2)(D), added par. (5).
+Subsec. (c)(5). Pub. L. 99–502, § 4(b)(2)(D), added par. (5).
 
-Subsec. (d). Pub. L. 99–502, § 4(c)(1), substituted “The National Technical Information Service shall” for “There is hereby established in the Department of Commerce a Center for the Utilization of Federal Technology. The Center for the Utilization of Federal Technology shall” in introductory par.
+Subsec. (d). Pub. L. 99–502, § 4(c)(1), substituted “The National Technical Information Service shall” for “There is hereby established in the Department of Commerce a Center for the Utilization of Federal Technology. The Center for the Utilization of Federal Technology shall” in introductory par.
 
-Subsec. (d)(2). Pub. L. 99–502, § 4(c)(2), (3), redesignated par. (3) as (2) and struck out “existing” before “Federal Laboratory”. Former par. (2), which required the Center for the Utilization of Federal Technology to coordinate the activities of the Offices of Research and Technology Applications of the Federal laboratories, was struck out.
+Subsec. (d)(2). Pub. L. 99–502, § 4(c)(2), (3), redesignated par. (3) as (2) and struck out “existing” before “Federal Laboratory”. Former par. (2), which required the Center for the Utilization of Federal Technology to coordinate the activities of the Offices of Research and Technology Applications of the Federal laboratories, was struck out.
 
-Subsec. (d)(3). Pub. L. 99–502, § 4(c)(4), added par. (3). Former par. (3) redesignated (2).
+Subsec. (d)(3). Pub. L. 99–502, § 4(c)(4), added par. (3). Former par. (3) redesignated (2).
 
-Subsec. (d)(4). Pub. L. 99–502, § 4(c)(4)–(6), redesignated par. (5) as (4) and substituted “subsection (c)(3)” for “subsection (c)(4)”. Former par. (4), which required the Center for the Utilization of Federal Technology to receive requests for technical assistance from State and local governments and refer those requests to the appropriate Federal laboratories, was struck out.
+Subsec. (d)(4). Pub. L. 99–502, § 4(c)(4)–(6), redesignated par. (5) as (4) and substituted “subsection (c)(3)” for “subsection (c)(4)”. Former par. (4), which required the Center for the Utilization of Federal Technology to receive requests for technical assistance from State and local governments and refer those requests to the appropriate Federal laboratories, was struck out.
 
-Subsec. (d)(5), (6). Pub. L. 99–502, § 4(c)(5), redesignated pars. (5) and (6) as (4) and (5), respectively.
+Subsec. (d)(5), (6). Pub. L. 99–502, § 4(c)(5), redesignated pars. (5) and (6) as (4) and (5), respectively.
 
-Subsecs. (e), (f). Pub. L. 99–502, §§ 3, 4(d), added subsec. (e), redesignated former subsec. (e) as (f), substituted “report annually to the Congress, as part of the agency’s annual budget submission, on the activities” for “prepare biennially a report summarizing the activities”, and struck out “The report shall be transmitted to the Center for the Utilization of Federal Technology by November 1 of each year in which it is due.”.
+Subsecs. (e), (f). Pub. L. 99–502, §§ 3, 4(d), added subsec. (e), redesignated former subsec. (e) as (f), substituted “report annually to the Congress, as part of the agency’s annual budget submission, on the activities” for “prepare biennially a report summarizing the activities”, and struck out “The report shall be transmitted to the Center for the Utilization of Federal Technology by November 1 of each year in which it is due.”.
 
-Subsec. (g). Pub. L. 99–502, § 5, added subsec. (g).
+Subsec. (g). Pub. L. 99–502, § 5, added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1587,7 +1587,7 @@ Sec. 8. *Relation to Existing Law*. Nothing in this Order shall affect the conti
 
 Ronald Reagan.
 
-## § 3710a. Cooperative research and development agreements
+## § 3710a. Cooperative research and development agreements
 
 **(a) General authority** Each Federal agency may permit the director of any of its Government-operated Federal laboratories, and, to the extent provided in an agency-approved joint work statement or, if permitted by the agency, in an agency-approved annual strategic plan, the director of any of its Government-owned, contractor-operated laboratories—
 
@@ -1615,9 +1615,9 @@ Ronald Reagan.
 
 **(iii)** the collaborating party has failed to comply with an agreement containing provisions described in subsection (c)(4)(B).
 
-This determination is subject to administrative appeal and judicial review under section 203(2) 1
+This determination is subject to administrative appeal and judicial review under section 203(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 35.
 
@@ -1697,9 +1697,9 @@ of title 35.
 
 **(i)** Subject to clause (ii), the director, or in the case of a contractor-operated laboratory, the agency, for a period of up to 5 years after development of information that results from research and development activities conducted under this chapter and that would be a trade secret or commercial or financial information that is privileged or confidential if the information had been obtained from a non-Federal party participating in a cooperative research and development agreement, may provide appropriate protections against the dissemination of such information, including exemption from subchapter II of chapter 5 of title 5.
 
-**(II)**  2
+**(II)** 2
 
-<sup>2</sup>  So in original. Probably should be “(ii)”.
+<sup>2</sup> So in original. Probably should be “(ii)”.
 
 The agency may authorize the director to provide appropriate protections against dissemination described in clause (i) for a total period of not more than 30 years if the agency determines that the nature of the information protected against dissemination, including nuclear technology, could reasonably require an extended period of that protection to reach commercialization.
 
@@ -1739,81 +1739,81 @@ Nothing in this section is intended to limit or diminish existing authorities of
 
 For the purposes of this section, the government of a territory of the United States shall be considered a non-Federal party.
 
-(Pub. L. 96–480, § 12, as added and renumbered § 11, Pub. L. 99–502, §§ 2, 9(e)(1), Oct. 20, 1986, 100 Stat. 1785, 1797; renumbered § 12, Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, § 301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, § 3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, § 705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, § 302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, § 3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, § 3160, Nov. 30, 1993, 107 Stat. 1957; Pub. L. 104–113, § 4, Mar. 7, 1996, 110 Stat. 775; Pub. L. 106–398, § 1 [div. C, title XXXI, § 3196], Oct. 30, 2000, 114 Stat. 1654, 1654A–481; Pub. L. 106–404, § 3, Nov. 1, 2000, 114 Stat. 1742; Pub. L. 117–58, div. D, title III, § 40322(b)(1), Nov. 15, 2021, 135 Stat. 1018; Pub. L. 118–159, div. A, title XVII, § 1705, Dec. 23, 2024, 138 Stat. 2208.)
+(Pub. L. 96–480, § 12, as added and renumbered § 11, Pub. L. 99–502, §§ 2, 9(e)(1), Oct. 20, 1986, 100 Stat. 1785, 1797; renumbered § 12, Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, § 301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, § 3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, § 705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, § 302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, § 3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, § 3160, Nov. 30, 1993, 107 Stat. 1957; Pub. L. 104–113, § 4, Mar. 7, 1996, 110 Stat. 775; Pub. L. 106–398, § 1 [div. C, title XXXI, § 3196], Oct. 30, 2000, 114 Stat. 1654, 1654A–481; Pub. L. 106–404, § 3, Nov. 1, 2000, 114 Stat. 1742; Pub. L. 117–58, div. D, title III, § 40322(b)(1), Nov. 15, 2021, 135 Stat. 1018; Pub. L. 118–159, div. A, title XVII, § 1705, Dec. 23, 2024, 138 Stat. 2208.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 203(2) of title 35, referred to in subsec. (b)(1)(C), was redesignated section 203(b) of title 35 by Pub. L. 107–273, div. C, title III, § 13206(a)(14)(A)(i), Nov. 2, 2002, 116 Stat. 1905.
+Section 203(2) of title 35, referred to in subsec. (b)(1)(C), was redesignated section 203(b) of title 35 by Pub. L. 107–273, div. C, title III, § 13206(a)(14)(A)(i), Nov. 2, 2002, 116 Stat. 1905.
 
 Executive Order No. 12344, referred to in subsec. (d)(2), is set out as a note under section 6102 of Title 10, Armed Forces.
 
 **Amendments**
 
-2024—Subsec. (a)(1). Pub. L. 118–159, § 1705(1), substituted “State, local, or territorial government” for “State or local government”.
+2024—Subsec. (a)(1). Pub. L. 118–159, § 1705(1), substituted “State, local, or territorial government” for “State or local government”.
 
-Subsec. (h). Pub. L. 118–159, § 1705(2), added subsec. (h).
+Subsec. (h). Pub. L. 118–159, § 1705(2), added subsec. (h).
 
 2021—Subsec. (c)(7)(B). Pub. L. 117–58 designated existing provisions as cl. (i), substituted “Subject to clause (ii), the director” for “The director”, and added cl. (II).
 
-2000—Subsec. (a). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3196(a)], substituted “joint work statement or, if permitted by the agency, in an agency-approved annual strategic plan,” for “joint work statement,” in introductory provisions.
+2000—Subsec. (a). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3196(a)], substituted “joint work statement or, if permitted by the agency, in an agency-approved annual strategic plan,” for “joint work statement,” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 106–404, in first sentence, inserted “or, subject to section 209 of title 35, may grant a license to an invention which is federally owned, for which a patent application was filed before the signing of the agreement, and directly within the scope of the work under the agreement,” after “under the agreement,”.
 
-Subsec. (b)(6). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3196(b)], added par. (6).
+Subsec. (b)(6). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3196(b)], added par. (6).
 
-Subsec. (c)(5)(C), (D). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3196(c)], redesignated subpar. (D) as (C), struck out “with a small business firm” after “enter into” and inserted “if” after “statement” in cl. (i), added cls. (iv) and (v), and struck out former subpar. (C) which related to the duties of an agency which has contracted with a non-Federal entity to operate a laboratory with respect to review and approval of joint work statements and agreements under this section and with respect to providing the entity with model cooperative research and development agreements.
+Subsec. (c)(5)(C), (D). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3196(c)], redesignated subpar. (D) as (C), struck out “with a small business firm” after “enter into” and inserted “if” after “statement” in cl. (i), added cls. (iv) and (v), and struck out former subpar. (C) which related to the duties of an agency which has contracted with a non-Federal entity to operate a laboratory with respect to review and approval of joint work statements and agreements under this section and with respect to providing the entity with model cooperative research and development agreements.
 
 1996—Subsec. (b). Pub. L. 104–113 amended subsec. (b) generally, to require that laboratory ensure that collaborating party be provided option of choosing exclusive license for pre-negotiated field of use for any invention under agreement or that collaborating party be offered option of holding licensing rights that collectively encompass rights that would be held under such exclusive license by one party, to set forth explicit conditions that grants under par. (1) were to be subject to, and to require laboratory to ensure that collaborating party might retain title to any invention made solely by its employee in exchange for normally granting Government nonexclusive, nontransferable, irrevocable, paid-up license to practice invention by or on behalf of Government for research or for other Government purposes.
 
-1993—Subsec. (d)(2)(B). Pub. L. 103–160, § 3160(1), inserted “(including a weapon production facility of the Department of Energy)” after “facilities” and “, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components,” after “research and development”.
+1993—Subsec. (d)(2)(B). Pub. L. 103–160, § 3160(1), inserted “(including a weapon production facility of the Department of Energy)” after “facilities” and “, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components,” after “research and development”.
 
-Subsec. (d)(2)(C). Pub. L. 103–160, § 3160(2), inserted “(including a weapon production facility of the Department of Energy)” after “facility” and “, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components,” after “research and development”.
+Subsec. (d)(2)(C). Pub. L. 103–160, § 3160(2), inserted “(including a weapon production facility of the Department of Energy)” after “facility” and “, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components,” after “research and development”.
 
-Subsec. (d)(4). Pub. L. 103–160, § 3160(3)–(5), added par. (4).
+Subsec. (d)(4). Pub. L. 103–160, § 3160(3)–(5), added par. (4).
 
-1992—Subsec. (c)(5)(C)(i). Pub. L. 102–484, § 3135(a)(1), substituted “Except as provided in subparagraph (D), any agency” for “Any agency”.
+1992—Subsec. (c)(5)(C)(i). Pub. L. 102–484, § 3135(a)(1), substituted “Except as provided in subparagraph (D), any agency” for “Any agency”.
 
-Subsec. (c)(5)(D). Pub. L. 102–484, § 3135(a)(2), added subpar. (D).
+Subsec. (c)(5)(D). Pub. L. 102–484, § 3135(a)(2), added subpar. (D).
 
 Subsec. (d)(1). Pub. L. 102–245 inserted “intellectual property,” after “equipment,” in two places.
 
 1991—Subsec. (d)(2). Pub. L. 102–25 substituted “naval” for “Naval” in concluding provisions.
 
-1989—Subsec. (a). Pub. L. 101–189, § 3133(a)(1)(A), inserted “, and, to the extent provided in an agency-approved joint work statement, the director of any of its Government-owned, contractor-operated laboratories” after “Government-operated Federal laboratories” in introductory provisions.
+1989—Subsec. (a). Pub. L. 101–189, § 3133(a)(1)(A), inserted “, and, to the extent provided in an agency-approved joint work statement, the director of any of its Government-owned, contractor-operated laboratories” after “Government-operated Federal laboratories” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 101–189, § 3133(a)(1)(B), (C), substituted “(in the case of a Government-owned, contractor-operated laboratory, subject to subsection (c) of this section) for” for “for Government-owned” and struck out “of Federal employees” before “that may be voluntarily”.
+Subsec. (a)(2). Pub. L. 101–189, § 3133(a)(1)(B), (C), substituted “(in the case of a Government-owned, contractor-operated laboratory, subject to subsection (c) of this section) for” for “for Government-owned” and struck out “of Federal employees” before “that may be voluntarily”.
 
-Subsec. (b). Pub. L. 101–189, § 3133(a)(2)(A), (C), inserted “, and, to the extent provided in an agency-approved joint work statement, a Government-owned, contractor-operated laboratory,” after “Government-operated Federal laboratory” in introductory provisions and inserted concluding provisions “A Government-owned, contractor-operated laboratory that enters into a cooperative research and development agreement under subsection (a)(1) of this section may use or obligate royalties or other income accruing to such laboratory under such agreement with respect to any invention only (i) for payments to inventors; (ii) for the purposes described in section 3710c(a)(1)(B)(i), (ii), and (iv) of this title; and (iii) for scientific research and development consistent with the research and development mission and objectives of the laboratory.”
+Subsec. (b). Pub. L. 101–189, § 3133(a)(2)(A), (C), inserted “, and, to the extent provided in an agency-approved joint work statement, a Government-owned, contractor-operated laboratory,” after “Government-operated Federal laboratory” in introductory provisions and inserted concluding provisions “A Government-owned, contractor-operated laboratory that enters into a cooperative research and development agreement under subsection (a)(1) of this section may use or obligate royalties or other income accruing to such laboratory under such agreement with respect to any invention only (i) for payments to inventors; (ii) for the purposes described in section 3710c(a)(1)(B)(i), (ii), and (iv) of this title; and (iii) for scientific research and development consistent with the research and development mission and objectives of the laboratory.”
 
-Subsec. (b)(2). Pub. L. 101–189, § 3133(a)(2)(B), substituted “a laboratory employee” for “a Federal employee”.
+Subsec. (b)(2). Pub. L. 101–189, § 3133(a)(2)(B), substituted “a laboratory employee” for “a Federal employee”.
 
-Subsec. (c)(3)(A). Pub. L. 101–189, § 3133(a)(3), substituted “standards of conduct for its employees” for “employee standards of conduct”.
+Subsec. (c)(3)(A). Pub. L. 101–189, § 3133(a)(3), substituted “standards of conduct for its employees” for “employee standards of conduct”.
 
-Subsec. (c)(5)(A). Pub. L. 101–189, § 3133(a)(4), inserted “presented by the director of a Government-operated laboratory” after “any such agreement”.
+Subsec. (c)(5)(A). Pub. L. 101–189, § 3133(a)(4), inserted “presented by the director of a Government-operated laboratory” after “any such agreement”.
 
-Subsec. (c)(5)(B). Pub. L. 101–189, § 3133(a)(5), inserted “by the director of a Government-operated laboratory” after “an agreement presented”.
+Subsec. (c)(5)(B). Pub. L. 101–189, § 3133(a)(5), inserted “by the director of a Government-operated laboratory” after “an agreement presented”.
 
-Subsec. (c)(5)(C). Pub. L. 101–189, § 3133(a)(6), added subpar. (C).
+Subsec. (c)(5)(C). Pub. L. 101–189, § 3133(a)(6), added subpar. (C).
 
-Subsec. (c)(7). Pub. L. 101–189, § 3133(a)(7), added par. (7).
+Subsec. (c)(7). Pub. L. 101–189, § 3133(a)(7), added par. (7).
 
-Subsec. (d)(2). Pub. L. 101–189, § 3133(a)(8)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘laboratory’ means a facility or group of facilities owned, leased, or otherwise used by a Federal agency, a substantial purpose of which is the performance of research, development, or engineering by employees of the Federal Government.”
+Subsec. (d)(2). Pub. L. 101–189, § 3133(a)(8)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘laboratory’ means a facility or group of facilities owned, leased, or otherwise used by a Federal agency, a substantial purpose of which is the performance of research, development, or engineering by employees of the Federal Government.”
 
-Subsec. (d)(3). Pub. L. 101–189, § 3133(a)(8)(A), (C), added par. (3).
+Subsec. (d)(3). Pub. L. 101–189, § 3133(a)(8)(A), (C), added par. (3).
 
-Subsec. (g). Pub. L. 101–189, § 3133(b), added subsec. (g).
+Subsec. (g). Pub. L. 101–189, § 3133(b), added subsec. (g).
 
-1988—Subsec. (a)(2). Pub. L. 100–519, § 301(1), substituted “or other intellectual property developed at the laboratory and other inventions or other intellectual property” for “at the laboratory and other inventions”.
+1988—Subsec. (a)(2). Pub. L. 100–519, § 301(1), substituted “or other intellectual property developed at the laboratory and other inventions or other intellectual property” for “at the laboratory and other inventions”.
 
-Subsec. (b)(4), (5). Pub. L. 100–519, § 301(2), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (b)(4), (5). Pub. L. 100–519, § 301(2), added par. (4) and redesignated former par. (4) as (5).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Applicability of 2021 Amendment**
 
-Pub. L. 117–58, div. D, title III, § 40322(b)(2), Nov. 15, 2021, 135 Stat. 1018, provided that:
+Pub. L. 117–58, div. D, title III, § 40322(b)(2), Nov. 15, 2021, 135 Stat. 1018, provided that:
 
 > **“(A) Definition.—** In this subsection, the term ‘cooperative research and development agreement’ has the meaning given the term in section 12(d) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(d)).
 
@@ -1825,7 +1825,7 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 **Review of Cooperative Research and Development Agreement Procedures**
 
-Pub. L. 106–404, § 8, Nov. 1, 2000, 114 Stat. 1746, provided that:
+Pub. L. 106–404, § 8, Nov. 1, 2000, 114 Stat. 1746, provided that:
 
 > **“(a) Review.—** Within 90 days after the date of the enactment of this Act [Nov. 1, 2000], each Federal agency with a federally funded laboratory that has in effect on that date of the enactment one or more cooperative research and development agreements under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a) shall report to the Committee on National Security of the National Science and Technology Council and the Congress on the general policies and procedures used by that agency to gather and consider the views of other agencies on—
 
@@ -1855,13 +1855,13 @@ The Secretary of the Army, in cooperation with the Secretary of Transportation, 
 
 **Contract Provisions**
 
-Pub. L. 101–189, div. C, title XXXI, § 3133(d), Nov. 29, 1989, 103 Stat. 1678, as amended by Pub. L. 101–510, div. A, title VIII, § 828(a), Nov. 5, 1990, 104 Stat. 1607, provided that:
+Pub. L. 101–189, div. C, title XXXI, § 3133(d), Nov. 29, 1989, 103 Stat. 1678, as amended by Pub. L. 101–510, div. A, title VIII, § 828(a), Nov. 5, 1990, 104 Stat. 1607, provided that:
 
 > **“(1)** Not later than 150 days after the date of enactment of this Act [Nov. 29, 1989], each agency which has contracted with a non-Federal entity to operate a Government-owned laboratory shall propose for inclusion in that laboratory’s operating contract, to the extent not already included and subject to paragraph (6), appropriate contract provisions that—
 
 > **“(A)** establish technology transfer, including cooperative research and development agreements, as a mission for the laboratory under section 11(a)(1) of the Stevenson-Wydler Technology Innovation Act of 1980 [15 U.S.C. 3710(a)(1)];
 
-> **“(B)** describe the respective obligations and responsibilities of the agency and the laboratory with respect to this part [part C (§§ 3131–3133) of title XXXI of div. C of Pub. L. 101–189, see Short Title of 1989 Amendment note under section 3701 of this title] and section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 [15 U.S.C. 3710a];
+> **“(B)** describe the respective obligations and responsibilities of the agency and the laboratory with respect to this part [part C (§§ 3131–3133) of title XXXI of div. C of Pub. L. 101–189, see Short Title of 1989 Amendment note under section 3701 of this title] and section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 [15 U.S.C. 3710a];
 
 > **“(C)** require that, except as provided in paragraph (2), no employee of the laboratory shall have a substantial role (including an advisory role) in the preparation, negotiation, or approval of a cooperative research and development agreement if, to such employee’s knowledge—
 
@@ -1893,21 +1893,21 @@ Pub. L. 101–189, div. C, title XXXI, § 3133(d), Nov. 29, 1989, 103 Stat. 16
 
 > **“(6)** Contract provisions referred to in paragraph (1) shall include only such provisions as are necessary to carry out paragraphs (1) and (2) of this subsection.”
 
-[Pub. L. 101–510, div. A, title VIII, § 828(b), Nov. 5, 1990, 104 Stat. 1607, provided that: “Paragraph (6) of 3133(d) of such Act [Pub. L. 101–189, set out above], as added by subsection (a), shall apply only to contracts entered into after the date of enactment of this Act [Nov. 5, 1990].” ]
+[Pub. L. 101–510, div. A, title VIII, § 828(b), Nov. 5, 1990, 104 Stat. 1607, provided that: “Paragraph (6) of 3133(d) of such Act [Pub. L. 101–189, set out above], as added by subsection (a), shall apply only to contracts entered into after the date of enactment of this Act [Nov. 5, 1990].” ]
 
-## § 3710b. Rewards for scientific, engineering, and technical personnel of Federal agencies
+## § 3710b. Rewards for scientific, engineering, and technical personnel of Federal agencies
 
 The head of each Federal agency that is making expenditures at a rate of more than $50,000,000 per fiscal year for research and development in its Government-operated laboratories shall use the appropriate statutory authority to develop and implement a cash awards program to reward its scientific, engineering, and technical personnel for—
 
 **(1)** inventions, innovations, computer software, or other outstanding scientific or technological contributions of value to the United States due to commercial application or due to contributions to missions of the Federal agency or the Federal government,1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 or
 
 **(2)** exemplary activities that promote the domestic transfer of science and technology development within the Federal Government and result in utilization of such science and technology by American industry or business, universities, State or local governments, or other non-Federal parties.
 
-(Pub. L. 96–480, § 13, as added and renumbered § 12, Pub. L. 99–502, §§ 6, 9(e)(1), Oct. 20, 1986, 100 Stat. 1792, 1797; renumbered § 13, Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, § 302, Oct. 24, 1988, 102 Stat. 2597.)
+(Pub. L. 96–480, § 13, as added and renumbered § 12, Pub. L. 99–502, §§ 6, 9(e)(1), Oct. 20, 1986, 100 Stat. 1792, 1797; renumbered § 13, Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, § 302, Oct. 24, 1988, 102 Stat. 2597.)
 
 **Editorial Notes**
 
@@ -1915,7 +1915,7 @@ or
 
 1988—Par. (1). Pub. L. 100–519 inserted “computer software,” after “inventions, innovations,”.
 
-## § 3710c. Distribution of royalties received by Federal agencies
+## § 3710c. Distribution of royalties received by Federal agencies
 
 **(a) In general**
 
@@ -1959,67 +1959,67 @@ the agency unit that was involved in such assignment shall be considered to be a
 
 **(c) Reports**
 
-The Comptroller General shall transmit a report to the appropriate committees of the Senate and House of Representatives on the effectiveness of Federal technology transfer programs, including findings, conclusions, and recommendations for improvements in such programs. The report shall be integrated with, and submitted at the same time as, the report required by section 202(b)(3) 1
+The Comptroller General shall transmit a report to the appropriate committees of the Senate and House of Representatives on the effectiveness of Federal technology transfer programs, including findings, conclusions, and recommendations for improvements in such programs. The report shall be integrated with, and submitted at the same time as, the report required by section 202(b)(3) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 35.
 
-(Pub. L. 96–480, § 14, as added, renumbered § 13, and amended Pub. L. 99–502, §§ 7, 9(e)(1), (3), Oct. 20, 1986, 100 Stat. 1792, 1797; renumbered § 14 and amended Pub. L. 100–418, title V, §§ 5122(a)(1), 5162(a), Aug. 23, 1988, 102 Stat. 1438, 1450; Pub. L. 100–519, title III, § 303(a), Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, § 3133(c), Nov. 29, 1989, 103 Stat. 1677; Pub. L. 104–113, § 5, Mar. 7, 1996, 110 Stat. 777; Pub. L. 106–404, §§ 7(7), 10(b), Nov. 1, 2000, 114 Stat. 1746, 1749.)
+(Pub. L. 96–480, § 14, as added, renumbered § 13, and amended Pub. L. 99–502, §§ 7, 9(e)(1), (3), Oct. 20, 1986, 100 Stat. 1792, 1797; renumbered § 14 and amended Pub. L. 100–418, title V, §§ 5122(a)(1), 5162(a), Aug. 23, 1988, 102 Stat. 1438, 1450; Pub. L. 100–519, title III, § 303(a), Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, § 3133(c), Nov. 29, 1989, 103 Stat. 1677; Pub. L. 104–113, § 5, Mar. 7, 1996, 110 Stat. 777; Pub. L. 106–404, §§ 7(7), 10(b), Nov. 1, 2000, 114 Stat. 1746, 1749.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 202(b)(3) of title 35, referred to in subsec. (c), was struck out and section 202(b)(4) was redesignated section 202(b)(3) by Pub. L. 111–8, div. G, title I, § 1301(h), Mar. 11, 2009, 123 Stat. 829.
+Section 202(b)(3) of title 35, referred to in subsec. (c), was struck out and section 202(b)(4) was redesignated section 202(b)(3) by Pub. L. 111–8, div. G, title I, § 1301(h), Mar. 11, 2009, 123 Stat. 829.
 
 **Amendments**
 
-2000—Subsec. (a)(1)(A)(i). Pub. L. 106–404, § 7(7)(A), (B), inserted “, other than payments of patent costs as delineated by a license or assignment agreement,” after “or other payments” and “, if the inventor’s or coinventor’s rights are assigned to the United States” before period at end.
+2000—Subsec. (a)(1)(A)(i). Pub. L. 106–404, § 7(7)(A), (B), inserted “, other than payments of patent costs as delineated by a license or assignment agreement,” after “or other payments” and “, if the inventor’s or coinventor’s rights are assigned to the United States” before period at end.
 
-Subsec. (a)(1)(B). Pub. L. 106–404, § 7(7)(C), substituted “2 succeeding fiscal years” for “succeeding fiscal year” in introductory provisions.
+Subsec. (a)(1)(B). Pub. L. 106–404, § 7(7)(C), substituted “2 succeeding fiscal years” for “succeeding fiscal year” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 106–404, § 7(7)(D), struck out “Government-operated laboratories of the” before “agency for that year,”.
+Subsec. (a)(2). Pub. L. 106–404, § 7(7)(D), struck out “Government-operated laboratories of the” before “agency for that year,”.
 
-Subsec. (b)(2). Pub. L. 106–404, § 7(7)(E), substituted “invention” for “inventon”.
+Subsec. (b)(2). Pub. L. 106–404, § 7(7)(E), substituted “invention” for “inventon”.
 
-Subsec. (c). Pub. L. 106–404, § 10(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows:
+Subsec. (c). Pub. L. 106–404, § 10(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows:
 
 “(1) In making their annual budget submissions Federal agencies shall submit, to the appropriate authorization and appropriation committees of both Houses of the Congress, summaries of the amount of royalties or other income received and expenditures made (including inventor awards) under this section.
 
 “(2) The Comptroller General, five years after October 20, 1986, shall review the effectiveness of the various royalty-sharing programs established under this section and report to the appropriate committees of the House of Representatives and the Senate, in a timely manner, his findings, conclusions, and recommendations for improvements in such programs.”
 
-1996—Subsec. (a)(1). Pub. L. 104–113, § 5(1), amended par. (1) generally, restructuring subpar. (A) to require head of agency or his designee to pay each year first $2,000, and thereafter at least 15 percent of royalties or other income received by agency on account of any invention to inventor or coinventors if they had assigned their rights in invention to United States and to authorize agencies to provide incentives to laboratory employees who substantially increase technical value of inventions, restructuring subpar. (B) to reorder cls. (i) to (iv), to add cl. (v), and to strike out closing provisions which required unobligated or unused funds to be paid into Treasury, and adding subpar. (C).
+1996—Subsec. (a)(1). Pub. L. 104–113, § 5(1), amended par. (1) generally, restructuring subpar. (A) to require head of agency or his designee to pay each year first $2,000, and thereafter at least 15 percent of royalties or other income received by agency on account of any invention to inventor or coinventors if they had assigned their rights in invention to United States and to authorize agencies to provide incentives to laboratory employees who substantially increase technical value of inventions, restructuring subpar. (B) to reorder cls. (i) to (iv), to add cl. (v), and to strike out closing provisions which required unobligated or unused funds to be paid into Treasury, and adding subpar. (C).
 
-Subsec. (a)(2). Pub. L. 104–113, § 5(2), in first sentence, inserted “or other payments” after “royalties” and substituted “under paragraph (1)(B)” for “for the purposes described in clauses (i) through (iv) of paragraph (1)(B) during that fiscal year or the succeeding fiscal year”.
+Subsec. (a)(2). Pub. L. 104–113, § 5(2), in first sentence, inserted “or other payments” after “royalties” and substituted “under paragraph (1)(B)” for “for the purposes described in clauses (i) through (iv) of paragraph (1)(B) during that fiscal year or the succeeding fiscal year”.
 
-Subsec. (a)(3). Pub. L. 104–113, § 5(3), substituted “$150,000” for “$100,000” in two places.
+Subsec. (a)(3). Pub. L. 104–113, § 5(3), substituted “$150,000” for “$100,000” in two places.
 
-Subsec. (a)(4). Pub. L. 104–113, § 5(4), in first sentence, substituted “other payments” for “other income”, “such royalties or payments” for “such royalties or income”, “offset payments to inventors” for “offset the payment of royalties to inventors”, and “clause (iv) of paragraph (1)(B)” for “clause (i) of paragraph (1)(B)” and, in second sentence, substituted “other payments” for “other income”, substituted “offsetting the payments to inventors” for “payment of the royalties”, and struck out “clauses (i) through (iv) of” before “paragraph (1)(B)”.
+Subsec. (a)(4). Pub. L. 104–113, § 5(4), in first sentence, substituted “other payments” for “other income”, “such royalties or payments” for “such royalties or income”, “offset payments to inventors” for “offset the payment of royalties to inventors”, and “clause (iv) of paragraph (1)(B)” for “clause (i) of paragraph (1)(B)” and, in second sentence, substituted “other payments” for “other income”, substituted “offsetting the payments to inventors” for “payment of the royalties”, and struck out “clauses (i) through (iv) of” before “paragraph (1)(B)”.
 
-Subsec. (b)(1). Pub. L. 104–113, § 5(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “by a contractor, grantee, or participant in a cooperative agreement with the agency, or”.
+Subsec. (b)(1). Pub. L. 104–113, § 5(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “by a contractor, grantee, or participant in a cooperative agreement with the agency, or”.
 
-1989—Subsec. (a)(1). Pub. L. 101–189, § 3133(c)(1), in introductory provisions, inserted “by Government-operated Federal laboratories” after “entered into” and made technical amendment to reference to section 3710a of this title to correct reference to corresponding section of original Act, requiring no change in text.
+1989—Subsec. (a)(1). Pub. L. 101–189, § 3133(c)(1), in introductory provisions, inserted “by Government-operated Federal laboratories” after “entered into” and made technical amendment to reference to section 3710a of this title to correct reference to corresponding section of original Act, requiring no change in text.
 
-Subsec. (a)(1)(B)(ii). Pub. L. 101–189, § 3133(c)(2), inserted “, including payments to inventors and developers of sensitive or classified technology, regardless of whether the technology has commercial applications” after “that laboratory”.
+Subsec. (a)(1)(B)(ii). Pub. L. 101–189, § 3133(c)(2), inserted “, including payments to inventors and developers of sensitive or classified technology, regardless of whether the technology has commercial applications” after “that laboratory”.
 
-Subsec. (a)(1)(B)(iv). Pub. L. 101–189, § 3133(c)(3), substituted “technology of the laboratories” for “technology of the Government-operated laboratories”.
+Subsec. (a)(1)(B)(iv). Pub. L. 101–189, § 3133(c)(3), substituted “technology of the laboratories” for “technology of the Government-operated laboratories”.
 
-1988—Subsec. (a)(1)(A)(i). Pub. L. 100–519, § 303(a)(1), substituted “has assigned his or her rights in the invention to the United States” for “was an employee of the agency at the time the invention was made”.
+1988—Subsec. (a)(1)(A)(i). Pub. L. 100–519, § 303(a)(1), substituted “has assigned his or her rights in the invention to the United States” for “was an employee of the agency at the time the invention was made”.
 
-Subsec. (a)(1)(A)(ii). Pub. L. 100–519, § 303(a)(2), substituted “under clause (i)” for “who were employed by the agency at the time the invention was made and whose names appear on licensed inventions”.
+Subsec. (a)(1)(A)(ii). Pub. L. 100–519, § 303(a)(2), substituted “under clause (i)” for “who were employed by the agency at the time the invention was made and whose names appear on licensed inventions”.
 
-Subsec. (a)(4). Pub. L. 100–418, § 5162(a), substituted “may” for “shall” and “any invention of the other agency” for “such invention performed at the request of the other agency or laboratory” in first sentence.
+Subsec. (a)(4). Pub. L. 100–418, § 5162(a), substituted “may” for “shall” and “any invention of the other agency” for “such invention performed at the request of the other agency or laboratory” in first sentence.
 
-1986—Subsec. (a)(1). Pub. L. 99–502, § 9(e)(3), in introductory par. made technical amendment to reference to section 3710a of this title to reflect renumbering of corresponding section of original act.
+1986—Subsec. (a)(1). Pub. L. 99–502, § 9(e)(3), in introductory par. made technical amendment to reference to section 3710a of this title to reflect renumbering of corresponding section of original act.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–519, title III, § 303(b), Oct. 24, 1988, 102 Stat. 2597, provided that: “This section [amending this section] shall be effective as of October 20, 1986.”
+Pub. L. 100–519, title III, § 303(b), Oct. 24, 1988, 102 Stat. 2597, provided that: “This section [amending this section] shall be effective as of October 20, 1986.”
 
-## § 3710d. Employee activities
+## § 3710d. Employee activities
 
 **(a) In general**
 
@@ -2033,7 +2033,7 @@ For purposes of this section, Federal employees include “special Government em
 
 Nothing in this section is intended to limit or diminish existing authorities of any agency.
 
-(Pub. L. 96–480, § 15, as added and renumbered § 14, Pub. L. 99–502, §§ 8, 9(e)(1), Oct. 20, 1986, 100 Stat. 1794, 1797; renumbered § 15, Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 104–113, § 6, Mar. 7, 1996, 110 Stat. 779.)
+(Pub. L. 96–480, § 15, as added and renumbered § 14, Pub. L. 99–502, §§ 8, 9(e)(1), Oct. 20, 1986, 100 Stat. 1794, 1797; renumbered § 15, Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 104–113, § 6, Mar. 7, 1996, 110 Stat. 779.)
 
 **Editorial Notes**
 
@@ -2041,7 +2041,7 @@ Nothing in this section is intended to limit or diminish existing authorities of
 
 1996—Subsec. (a). Pub. L. 104–113 substituted “ownership of or the right of ownership to an invention made by a Federal employee” for “the right of ownership to an invention under this chapter” and inserted “obtain or” before “retain title to the invention”.
 
-## § 3711. National Technology and Innovation Medal
+## § 3711. National Technology and Innovation Medal
 
 **(a) Establishment**
 
@@ -2055,23 +2055,23 @@ The President shall periodically award the medal, on the basis of recommendation
 
 The presentation of the award shall be made by the President with such ceremonies as he may deem proper.
 
-(Pub. L. 96–480, § 16, formerly § 12, Oct. 21, 1980, 94 Stat. 2319; renumbered § 16, Pub. L. 99–502, § 2, Oct. 20, 1986, 100 Stat. 1785; renumbered § 15, Pub. L. 99–502, § 9(e)(1), Oct. 20, 1986, 100 Stat. 1797; renumbered § 16, Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; Pub. L. 110–69, title I, § 1003, Aug. 9, 2007, 121 Stat. 576.)
+(Pub. L. 96–480, § 16, formerly § 12, Oct. 21, 1980, 94 Stat. 2319; renumbered § 16, Pub. L. 99–502, § 2, Oct. 20, 1986, 100 Stat. 1785; renumbered § 15, Pub. L. 99–502, § 9(e)(1), Oct. 20, 1986, 100 Stat. 1797; renumbered § 16, Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; Pub. L. 110–69, title I, § 1003, Aug. 9, 2007, 121 Stat. 576.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2007—Pub. L. 110–69, § 1003(1), which directed substitution of “National Technology and Innovation Medal” for “National Medal” in section catchline, was executed by making the substitution for “National Technology Medal” to reflect the probable intent of Congress.
+2007—Pub. L. 110–69, § 1003(1), which directed substitution of “National Technology and Innovation Medal” for “National Medal” in section catchline, was executed by making the substitution for “National Technology Medal” to reflect the probable intent of Congress.
 
-Subsec. (a). Pub. L. 110–69, § 1003(2), substituted “Technology and Innovation Medal” for “Technology Medal”.
+Subsec. (a). Pub. L. 110–69, § 1003(2), substituted “Technology and Innovation Medal” for “Technology Medal”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **National Technology Medal for Environmental Technology**
 
-Pub. L. 105–309, § 10, Oct. 30, 1998, 112 Stat. 2939, provided that: “In the administration of section 16 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3711), Environmental Technology shall be established as a separate nomination category with appropriate unique criteria for that category.”
+Pub. L. 105–309, § 10, Oct. 30, 1998, 112 Stat. 2939, provided that: “In the administration of section 16 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3711), Environmental Technology shall be established as a separate nomination category with appropriate unique criteria for that category.”
 
-## § 3711a. Malcolm Baldrige National Quality Award
+## § 3711a. Malcolm Baldrige National Quality Award
 
 **(a) Establishment**
 
@@ -2137,33 +2137,33 @@ The Secretary is authorized to seek and accept gifts from public and private sou
 
 The Secretary shall prepare and submit to the President and the Congress, within 3 years after August 20, 1987, a report on the progress, findings, and conclusions of activities conducted pursuant to this section along with recommendations for possible modifications thereof.
 
-(Pub. L. 96–480, § 17, formerly § 16, as added Pub. L. 100–107, § 3(a), Aug. 20, 1987, 101 Stat. 725; renumbered § 17 and amended Pub. L. 100–418, title V, §§ 5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, 102 Stat. 1433, 1438; Pub. L. 102–245, title III, § 305, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, § 3, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 108–320, § 1, Oct. 5, 2004, 118 Stat. 1213; Pub. L. 110–69, title III, § 3010, Aug. 9, 2007, 121 Stat. 592; Pub. L. 117–167, div. B, title II, § 10246(b)(1), Aug. 9, 2022, 136 Stat. 1492.)
+(Pub. L. 96–480, § 17, formerly § 16, as added Pub. L. 100–107, § 3(a), Aug. 20, 1987, 101 Stat. 725; renumbered § 17 and amended Pub. L. 100–418, title V, §§ 5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, 102 Stat. 1433, 1438; Pub. L. 102–245, title III, § 305, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, § 3, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 108–320, § 1, Oct. 5, 2004, 118 Stat. 1213; Pub. L. 110–69, title III, § 3010, Aug. 9, 2007, 121 Stat. 592; Pub. L. 117–167, div. B, title II, § 10246(b)(1), Aug. 9, 2022, 136 Stat. 1492.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (c)(1)(D), (E). Pub. L. 117–167, § 10246(b)(1)(A), realigned margin.
+2022—Subsec. (c)(1)(D), (E). Pub. L. 117–167, § 10246(b)(1)(A), realigned margin.
 
-Subsec. (c)(1)(G). Pub. L. 117–167, § 10246(b)(1)(B), added subpar. (G).
+Subsec. (c)(1)(G). Pub. L. 117–167, § 10246(b)(1)(B), added subpar. (G).
 
 2007—Subsec. (c)(3). Pub. L. 110–69 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Not more than two awards may be made within any subcategory in any year, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government (and no award shall be made within any category or subcategory if there are no qualifying enterprises in that category or subcategory).”
 
 2004—Subsec. (c)(1)(F). Pub. L. 108–320 added subpar. (F).
 
-1998—Subsec. (c)(1)(D), (E). Pub. L. 105–309, § 3(b), added subpars. (D) and (E).
+1998—Subsec. (c)(1)(D), (E). Pub. L. 105–309, § 3(b), added subpars. (D) and (E).
 
-Subsec. (c)(3). Pub. L. 105–309, § 3(a), inserted “, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government” after “in any year”.
+Subsec. (c)(3). Pub. L. 105–309, § 3(a), inserted “, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government” after “in any year”.
 
 1992—Subsec. (f). Pub. L. 102–245 inserted at end “The Director is authorized to use appropriated funds to carry out responsibilities under this chapter.”
 
-1988—Subsecs. (d), (e). Pub. L. 100–418, § 5115(b)(2)(A), substituted “National Institute of Standards and Technology” for “National Bureau of Standards” wherever appearing.
+1988—Subsecs. (d), (e). Pub. L. 100–418, § 5115(b)(2)(A), substituted “National Institute of Standards and Technology” for “National Bureau of Standards” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Findings and Purposes**
 
-Pub. L. 100–107, § 2, Aug. 20, 1987, 101 Stat. 724, provided that:
+Pub. L. 100–107, § 2, Aug. 20, 1987, 101 Stat. 724, provided that:
 
 > **“(a) Findings.—** The Congress finds and declares that—
 
@@ -2193,11 +2193,11 @@ Pub. L. 100–107, § 2, Aug. 20, 1987, 101 Stat. 724, provided that:
 
 > **“(b) Purpose.—** It is the purpose of this Act [enacting this section, amending section 3708 of this title, and enacting provisions set out as a note under section 3701 of this title] to provide for the establishment and conduct of a national quality improvement program under which (1) awards are given to selected companies and other organizations in the United States that practice effective quality management and as a result make significant improvements in the quality of their goods and services, and (2) information is disseminated about the successful strategies and programs.”
 
-## § 3711b. Conference on advanced automotive technologies
+## § 3711b. Conference on advanced automotive technologies
 
 Not later than 180 days after December 18, 1991, the Secretary of Commerce, through the Under Secretary of Commerce for Technology, in consultation with other appropriate officials, shall convene a conference of domestic motor vehicle manufacturers, parts suppliers, Federal laboratories, and motor vehicle users to explore ways in which cooperatively they can improve the competitiveness of the United States motor vehicle industry by developing new technologies which will enhance the safety and energy savings, and lessen the environmental impact of domestic motor vehicles, and the results of such conference shall be published and then submitted to the President and to the Committees on Science, Space, and Technology and Public Works and Transportation of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
-(Pub. L. 96–480, § 18, as added Pub. L. 102–240, title VI, § 6019, Dec. 18, 1991, 105 Stat. 2183.)
+(Pub. L. 96–480, § 18, as added Pub. L. 102–240, title VI, § 6019, Dec. 18, 1991, 105 Stat. 2183.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2205,7 +2205,7 @@ Not later than 180 days after December 18, 1991, the Secretary of Commerce, thro
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 
-## § 3711c. Advanced motor vehicle research award
+## § 3711c. Advanced motor vehicle research award
 
 **(a) Establishment**
 
@@ -2219,21 +2219,21 @@ The Secretary of Transportation shall periodically make and present the award to
 
 The Secretary of Transportation may seek and accept gifts of money from private sources for the purpose of making cash prize awards under this section. Such money may be used only for that purpose, and only such money may be used for that purpose.
 
-(Pub. L. 96–480, § 19, as added Pub. L. 102–240, title VI, § 6019, Dec. 18, 1991, 105 Stat. 2184.)
+(Pub. L. 96–480, § 19, as added Pub. L. 102–240, title VI, § 6019, Dec. 18, 1991, 105 Stat. 2184.)
 
-## § 3712. Personnel exchanges
+## § 3712. Personnel exchanges
 
 The Secretary, the Secretary of Energy, and the Director of the National Science Foundation, jointly, shall establish a program to foster the exchange of scientific and technical personnel among academia, industry, and Federal laboratories. Such program shall include both (1) federally supported exchanges and (2) efforts to stimulate exchanges without Federal funding.
 
-(Pub. L. 96–480, § 20, formerly § 13, Oct. 21, 1980, 94 Stat. 2320; renumbered § 17, Pub. L. 99–502, § 2, Oct. 20, 1986, 100 Stat. 1785; renumbered § 16, Pub. L. 99–502, § 9(e)(1), Oct. 20, 1986, 100 Stat. 1797; renumbered § 17, Pub. L. 100–107, § 3(a), Aug. 20, 1987, 101 Stat. 725; renumbered § 18, Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; renumbered § 20, Pub. L. 102–240, title VI, § 6019, Dec. 18, 1991, 105 Stat. 2183; Pub. L. 109–58, title X, § 1009(c), Aug. 8, 2005, 119 Stat. 936.)
+(Pub. L. 96–480, § 20, formerly § 13, Oct. 21, 1980, 94 Stat. 2320; renumbered § 17, Pub. L. 99–502, § 2, Oct. 20, 1986, 100 Stat. 1785; renumbered § 16, Pub. L. 99–502, § 9(e)(1), Oct. 20, 1986, 100 Stat. 1797; renumbered § 17, Pub. L. 100–107, § 3(a), Aug. 20, 1987, 101 Stat. 725; renumbered § 18, Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; renumbered § 20, Pub. L. 102–240, title VI, § 6019, Dec. 18, 1991, 105 Stat. 2183; Pub. L. 109–58, title X, § 1009(c), Aug. 8, 2005, 119 Stat. 936.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2005—Pub. L. 109–58 substituted “, the Secretary of Energy, and the Director of the National Science Foundation” for “and the National Science Foundation”.
+2005—Pub. L. 109–58 substituted “, the Secretary of Energy, and the Director of the National Science Foundation” for “and the National Science Foundation”.
 
-## § 3713. Authorization of appropriations
+## § 3713. Authorization of appropriations
 
 **(a)**
 
@@ -2247,25 +2247,25 @@ The Secretary, the Secretary of Energy, and the Director of the National Science
 
 **(d)** To enable the National Science Foundation to carry out its powers and duties under this chapter only such sums may be appropriated as the Congress may authorize by law.
 
-(Pub. L. 96–480, § 21, formerly § 14, Oct. 21, 1980, 94 Stat. 2320; renumbered § 18, Pub. L. 99–502, § 2, Oct. 20, 1986, 100 Stat. 1785; renumbered § 17, Pub. L. 99–502, § 9(e)(1), Oct. 20, 1986, 100 Stat. 1797; renumbered § 18, Pub. L. 100–107, § 3(a), Aug. 20, 1987, 101 Stat. 725; renumbered § 19 and amended Pub. L. 100–418, title V, §§ 5122(a)(1), 5152, Aug. 23, 1988, 102 Stat. 1438, 1449; renumbered § 21, Pub. L. 102–240, title VI, § 6019, Dec. 18, 1991, 105 Stat. 2183; Pub. L. 110–69, title III, § 3002(c)(5), Aug. 9, 2007, 121 Stat. 586.)
+(Pub. L. 96–480, § 21, formerly § 14, Oct. 21, 1980, 94 Stat. 2320; renumbered § 18, Pub. L. 99–502, § 2, Oct. 20, 1986, 100 Stat. 1785; renumbered § 17, Pub. L. 99–502, § 9(e)(1), Oct. 20, 1986, 100 Stat. 1797; renumbered § 18, Pub. L. 100–107, § 3(a), Aug. 20, 1987, 101 Stat. 725; renumbered § 19 and amended Pub. L. 100–418, title V, §§ 5122(a)(1), 5152, Aug. 23, 1988, 102 Stat. 1438, 1449; renumbered § 21, Pub. L. 102–240, title VI, § 6019, Dec. 18, 1991, 105 Stat. 2183; Pub. L. 110–69, title III, § 3002(c)(5), Aug. 9, 2007, 121 Stat. 586.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2007—Subsec. (a)(1). Pub. L. 110–69, § 3002(c)(5)(A), substituted “sections 3710(g) and 3711” for “sections 3704, 3710(g), and 3711”.
+2007—Subsec. (a)(1). Pub. L. 110–69, § 3002(c)(5)(A), substituted “sections 3710(g) and 3711” for “sections 3704, 3710(g), and 3711”.
 
-Subsec. (a)(2). Pub. L. 110–69, § 3002(c)(5)(B), struck out “$500,000 is authorized only for the purpose of carrying out the requirements of the Japanese technical literature program established under section 3704(d) of this title;” after “Innovation;”.
+Subsec. (a)(2). Pub. L. 110–69, § 3002(c)(5)(B), struck out “$500,000 is authorized only for the purpose of carrying out the requirements of the Japanese technical literature program established under section 3704(d) of this title;” after “Innovation;”.
 
-1988—Subsec. (a). Pub. L. 100–418, § 5152, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is authorized to be appropriated to the Secretary for purposes of carrying out section 3705 of this title, not to exceed $19,000,000 for the fiscal year ending September 30, 1981, $40,000,000 for fiscal year ending September 30, 1982, $50,000,000 for the fiscal year ending September 30, 1983, and $60,000,000 for each of the fiscal years ending September 30, 1984, and 1985.”
+1988—Subsec. (a). Pub. L. 100–418, § 5152, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is authorized to be appropriated to the Secretary for purposes of carrying out section 3705 of this title, not to exceed $19,000,000 for the fiscal year ending September 30, 1981, $40,000,000 for fiscal year ending September 30, 1982, $50,000,000 for the fiscal year ending September 30, 1983, and $60,000,000 for each of the fiscal years ending September 30, 1984, and 1985.”
 
-Subsec. (b). Pub. L. 100–418, § 5152, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In addition to authorizations of appropriations under subsection (a) of this section, there is authorized to be appropriated to the Secretary for purposes of carrying out the provisions of this chapter, not to exceed $5,000,000 for the fiscal year ending September 30, 1981, $9,000,000 for the fiscal year ending September 30, 1982, and $14,000,000 for each of the fiscal years ending September 30, 1983, 1984, and 1985.”
+Subsec. (b). Pub. L. 100–418, § 5152, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In addition to authorizations of appropriations under subsection (a) of this section, there is authorized to be appropriated to the Secretary for purposes of carrying out the provisions of this chapter, not to exceed $5,000,000 for the fiscal year ending September 30, 1981, $9,000,000 for the fiscal year ending September 30, 1982, and $14,000,000 for each of the fiscal years ending September 30, 1983, 1984, and 1985.”
 
-## § 3714. Spending authority
+## § 3714. Spending authority
 
 No payments shall be made or contracts shall be entered into pursuant to the provisions of this chapter (other than sections 3710a, 3710b, and 3710c of this title) except to such extent or in such amounts as are provided in advance in appropriation Acts.
 
-(Pub. L. 96–480, § 22, formerly § 15, Oct. 21, 1980, 94 Stat. 2320; renumbered § 19, Pub. L. 99–502, § 2, Oct. 20, 1986, 100 Stat. 1785; renumbered § 18, and amended Pub. L. 99–502, § 9(b)(13), (e)(1), (4), Oct. 20, 1986, 100 Stat. 1796, 1797; renumbered § 19, Pub. L. 100–107, § 3(a), Aug. 20, 1987, 101 Stat. 725; renumbered § 20, Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; renumbered § 22, Pub. L. 102–240, title VI, § 6019, Dec. 18, 1991, 105 Stat. 2183; Pub. L. 106–404, § 7(8), Nov. 1, 2000, 114 Stat. 1746.)
+(Pub. L. 96–480, § 22, formerly § 15, Oct. 21, 1980, 94 Stat. 2320; renumbered § 19, Pub. L. 99–502, § 2, Oct. 20, 1986, 100 Stat. 1785; renumbered § 18, and amended Pub. L. 99–502, § 9(b)(13), (e)(1), (4), Oct. 20, 1986, 100 Stat. 1796, 1797; renumbered § 19, Pub. L. 100–107, § 3(a), Aug. 20, 1987, 101 Stat. 725; renumbered § 20, Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; renumbered § 22, Pub. L. 102–240, title VI, § 6019, Dec. 18, 1991, 105 Stat. 2183; Pub. L. 106–404, § 7(8), Nov. 1, 2000, 114 Stat. 1746.)
 
 **Editorial Notes**
 
@@ -2273,17 +2273,17 @@ No payments shall be made or contracts shall be entered into pursuant to the pro
 
 2000—Pub. L. 106–404 made technical amendments to references in original act which appear in text as references to sections 3710a, 3710b, and 3710c of this title.
 
-1986—Pub. L. 99–502, § 9(e)(4), made technical amendment to references to sections 3710a, 3710b, and 3710c of this title to reflect renumbering of corresponding sections of original act.
+1986—Pub. L. 99–502, § 9(e)(4), made technical amendment to references to sections 3710a, 3710b, and 3710c of this title to reflect renumbering of corresponding sections of original act.
 
-Pub. L. 99–502, § 9(b)(13), inserted exception relating to sections 3710a, 3710b, and 3710c of this title.
+Pub. L. 99–502, § 9(b)(13), inserted exception relating to sections 3710a, 3710b, and 3710c of this title.
 
-## § 3715. Use of partnership intermediaries
+## § 3715. Use of partnership intermediaries
 
 **(a) Authority** Subject to the approval of the Secretary or head of the affected department or agency, the Director of a Federal laboratory, or in the case of a federally funded research and development center that is not a laboratory (as defined in section 3710a(d)(2) of this title), the Federal employee who is the contract officer, may—
 
-**(1)** enter into a contract or memorandum of understanding with a partnership intermediary that provides for the partnership intermediary to perform services for the Federal laboratory that increase the likelihood of success in the conduct of cooperative or joint activities of such Federal laboratory with small business firms, institutions of higher education as defined in section 1141(a) 1
+**(1)** enter into a contract or memorandum of understanding with a partnership intermediary that provides for the partnership intermediary to perform services for the Federal laboratory that increase the likelihood of success in the conduct of cooperative or joint activities of such Federal laboratory with small business firms, institutions of higher education as defined in section 1141(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 20, or educational institutions within the meaning of section 2194 of title 10; and
 
@@ -2293,15 +2293,15 @@ of title 20, or educational institutions within the meaning of section 2194 of t
 
 **(c) “Partnership intermediary” defined**
 
-For purposes of this section, the term “partnership intermediary” means an agency of a State or local government, or a nonprofit entity owned in whole or in part by, chartered by, funded in whole or in part by, or operated in whole or in part by or on behalf of a State or local government, that assists, counsels, advises, evaluates, or otherwise cooperates with small business firms, institutions of higher education as defined in section 1141(a) <sup>1</sup> of title 20, or educational institutions within the meaning of section 2194 of title 10, that need or can make demonstrably productive use of technology-related assistance from a Federal laboratory, including State programs receiving funds under cooperative agreements entered into under section 5121(b) of the Omnibus Trade and Competitiveness Act of 1988 (15 U.S.C. 278*l* note).
+For purposes of this section, the term “partnership intermediary” means an agency of a State or local government, or a nonprofit entity owned in whole or in part by, chartered by, funded in whole or in part by, or operated in whole or in part by or on behalf of a State or local government, that assists, counsels, advises, evaluates, or otherwise cooperates with small business firms, institutions of higher education as defined in section 1141(a) <sup>1</sup> of title 20, or educational institutions within the meaning of section 2194 of title 10, that need or can make demonstrably productive use of technology-related assistance from a Federal laboratory, including State programs receiving funds under cooperative agreements entered into under section 5121(b) of the Omnibus Trade and Competitiveness Act of 1988 (15 U.S.C. 278*l* note).
 
-(Pub. L. 96–480, § 23, formerly § 21, as added Pub. L. 101–510, div. A, title VIII, § 827(a), Nov. 5, 1990, 104 Stat. 1606; amended Pub. L. 102–190, div. A, title VIII, § 836, Dec. 5, 1991, 105 Stat. 1448; renumbered § 23, Pub. L. 102–240, title VI, § 6019, Dec. 18, 1991, 105 Stat. 2183; Pub. L. 106–404, § 9, Nov. 1, 2000, 114 Stat. 1747.)
+(Pub. L. 96–480, § 23, formerly § 21, as added Pub. L. 101–510, div. A, title VIII, § 827(a), Nov. 5, 1990, 104 Stat. 1606; amended Pub. L. 102–190, div. A, title VIII, § 836, Dec. 5, 1991, 105 Stat. 1448; renumbered § 23, Pub. L. 102–240, title VI, § 6019, Dec. 18, 1991, 105 Stat. 2183; Pub. L. 106–404, § 9, Nov. 1, 2000, 114 Stat. 1747.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1141(a) of title 20, referred to in subsecs. (a)(1) and (c), was repealed by Pub. L. 105–244, § 3, title I, § 101(b), title VII, § 702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998. However, the term “institution of higher education” is defined in section 1001 of Title 20, Education.
+Section 1141(a) of title 20, referred to in subsecs. (a)(1) and (c), was repealed by Pub. L. 105–244, § 3, title I, § 101(b), title VII, § 702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998. However, the term “institution of higher education” is defined in section 1001 of Title 20, Education.
 
 **Codification**
 
@@ -2309,9 +2309,9 @@ Subsec. (b) of this section, which required the Secretary to include in each tri
 
 **Amendments**
 
-2000—Subsec. (a)(1). Pub. L. 106–404, § 9(1), inserted “, institutions of higher education as defined in section 1141(a) of title 20, or educational institutions within the meaning of section 2194 of title 10” after “small business firms”.
+2000—Subsec. (a)(1). Pub. L. 106–404, § 9(1), inserted “, institutions of higher education as defined in section 1141(a) of title 20, or educational institutions within the meaning of section 2194 of title 10” after “small business firms”.
 
-Subsec. (c). Pub. L. 106–404, § 9(2), inserted “, institutions of higher education as defined in section 1141(a) of title 20, or educational institutions within the meaning of section 2194 of title 10,” after “small business firms”.
+Subsec. (c). Pub. L. 106–404, § 9(2), inserted “, institutions of higher education as defined in section 1141(a) of title 20, or educational institutions within the meaning of section 2194 of title 10,” after “small business firms”.
 
 1991—Subsec. (a). Pub. L. 102–190 inserted “that is not a laboratory (as defined in section 3710a(d)(2) of this title)” after “center” in introductory provisions.
 
@@ -2319,7 +2319,7 @@ Subsec. (c). Pub. L. 106–404, § 9(2), inserted “, institutions of highe
 
 **Participation in Programs Promoting Research, Development, Demonstration, or Transfer of Technology**
 
-Pub. L. 103–337, div. A, title II, § 217(f), Oct. 5, 1994, 108 Stat. 2695, as amended by Pub. L. 105–261, div. C, title XXXI, § 3136, Oct. 17, 1998, 112 Stat. 2248; Pub. L. 111–84, div. A, title II, § 254, Oct. 28, 2009, 123 Stat. 2243, provided that:
+Pub. L. 103–337, div. A, title II, § 217(f), Oct. 5, 1994, 108 Stat. 2695, as amended by Pub. L. 105–261, div. C, title XXXI, § 3136, Oct. 17, 1998, 112 Stat. 2248; Pub. L. 111–84, div. A, title II, § 254, Oct. 28, 2009, 123 Stat. 2243, provided that:
 
 > **“(1)**
 
@@ -2331,7 +2331,7 @@ Pub. L. 103–337, div. A, title II, § 217(f), Oct. 5, 1994, 108 Stat. 2695, 
 
 > **“(2)** A federally funded research and development center described in paragraph (1)(A) that responds to a solicitation or announcement described in such paragraph shall not be considered to be engaging in a competitive procedure and may use, among other authorities, cooperative research and development agreements provided for under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a)) [sic] as the instruments of participation in the solicitation or announcement.”
 
-## § 3716. Critical industries
+## § 3716. Critical industries
 
 **(a) Identification of industries and development of plan** The Secretary shall—
 
@@ -2343,7 +2343,7 @@ Pub. L. 103–337, div. A, title II, § 217(f), Oct. 5, 1994, 108 Stat. 2695, 
 
 The Secretary shall submit a report to the Congress within 1 year after February 14, 1992, on the actions taken under subsection (a).
 
-(Pub. L. 102–245, title V, § 504, Feb. 14, 1992, 106 Stat. 24.)
+(Pub. L. 102–245, title V, § 504, Feb. 14, 1992, 106 Stat. 24.)
 
 **Editorial Notes**
 
@@ -2353,7 +2353,7 @@ Subsec. (c) of this section, which required the Secretary to annually submit to 
 
 Section was enacted as part of the American Technology Preeminence Act of 1991, and not as part of the Stevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
 
-## § 3717. National Quality Council
+## § 3717. National Quality Council
 
 **(a) Establishment and functions** There is established a National Quality Council (hereafter in this section referred to as the “Council”). The functions of the Council shall be—
 
@@ -2423,7 +2423,7 @@ The Council may not accept private donations from a single source in excess of $
 
 **(5)** any other information or recommendations the Council considers appropriate.
 
-(Pub. L. 102–245, title V, § 507, Feb. 14, 1992, 106 Stat. 27.)
+(Pub. L. 102–245, title V, § 507, Feb. 14, 1992, 106 Stat. 27.)
 
 **Editorial Notes**
 
@@ -2441,7 +2441,7 @@ Section was enacted as part of the American Technology Preeminence Act of 1991, 
 
 For termination, effective May 15, 2000, of provisions in subsec. (h) of this section relating to annually submitting a report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 184 of House Document No. 103–7.
 
-## § 3718. President’s Council on Innovation and Competitiveness
+## § 3718. President’s Council on Innovation and Competitiveness
 
 **(a) In general**
 
@@ -2563,7 +2563,7 @@ At least once every 2 years, the Council shall update the comprehensive agenda r
 
 Notwithstanding subsection (a) and paragraphs (1) and (2) of subsection (c), the President may designate an existing council to carry out the requirements of this section.
 
-(Pub. L. 110–69, title I, § 1006, Aug. 9, 2007, 121 Stat. 578.)
+(Pub. L. 110–69, title I, § 1006, Aug. 9, 2007, 121 Stat. 578.)
 
 **Editorial Notes**
 
@@ -2585,7 +2585,7 @@ The Director of the Office of Science and Technology Policy is authorized and di
 
 George W. Bush.
 
-## § 3719. Prize competitions
+## § 3719. Prize competitions
 
 **(a) Definitions** In this section:
 
@@ -2801,7 +2801,7 @@ A description of how each prize competition advanced the mission of the agency c
 
 A description of crosscutting topical areas and agency-specific mission needs that may be the strongest opportunities for prize competitions during the upcoming 2 fiscal years.
 
-(Pub. L. 96–480, § 24, as added Pub. L. 111–358, title I, § 105(a), Jan. 4, 2011, 124 Stat. 3989; amended Pub. L. 114–329, title IV, § 401(b), Jan. 6, 2017, 130 Stat. 3016; Pub. L. 117–286, § 4(a)(71), Dec. 27, 2022, 136 Stat. 4313.)
+(Pub. L. 96–480, § 24, as added Pub. L. 111–358, title I, § 105(a), Jan. 4, 2011, 124 Stat. 3989; amended Pub. L. 114–329, title IV, § 401(b), Jan. 6, 2017, 130 Stat. 3016; Pub. L. 117–286, § 4(a)(71), Dec. 27, 2022, 136 Stat. 4313.)
 
 **Editorial Notes**
 
@@ -2809,73 +2809,73 @@ A description of crosscutting topical areas and agency-specific mission needs th
 
 2022—Subsec. (k)(4). Pub. L. 117–286 substituted “chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-2017—Subsec. (c). Pub. L. 114–329, § 401(b)(1)(A), (B), substituted “Prize competitions” for “Prizes” in heading and “prize competition may be 1 or more of the following types of activities” for “prize may be one or more of the following” in introductory provisions.
+2017—Subsec. (c). Pub. L. 114–329, § 401(b)(1)(A), (B), substituted “Prize competitions” for “Prizes” in heading and “prize competition may be 1 or more of the following types of activities” for “prize may be one or more of the following” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 114–329, § 401(b)(1)(C), inserted “competition” after “prize”.
+Subsec. (c)(2). Pub. L. 114–329, § 401(b)(1)(C), inserted “competition” after “prize”.
 
-Subsec. (c)(3), (4). Pub. L. 114–329, § 401(b)(1)(D), substituted “prize competitions” for “prizes”.
+Subsec. (c)(3), (4). Pub. L. 114–329, § 401(b)(1)(D), substituted “prize competitions” for “prizes”.
 
-Subsec. (f). Pub. L. 114–329, § 401(b)(2)(A), substituted “on a publicly accessible Government website, such as www.challenge.gov,” for “in the Federal Register” in introductory provisions.
+Subsec. (f). Pub. L. 114–329, § 401(b)(2)(A), substituted “on a publicly accessible Government website, such as www.challenge.gov,” for “in the Federal Register” in introductory provisions.
 
-Subsec. (f)(1) to (3). Pub. L. 114–329, § 401(b)(2)(B), inserted “prize” before “competition”.
+Subsec. (f)(1) to (3). Pub. L. 114–329, § 401(b)(2)(B), inserted “prize” before “competition”.
 
-Subsec. (f)(4). Pub. L. 114–329, § 401(b)(2)(C), substituted “cash prize purse or non-cash prize award” for “prize”.
+Subsec. (f)(4). Pub. L. 114–329, § 401(b)(2)(C), substituted “cash prize purse or non-cash prize award” for “prize”.
 
-Subsec. (g). Pub. L. 114–329, § 401(b)(3)(A), substituted “cash prize purse” for “prize” in introductory provisions.
+Subsec. (g). Pub. L. 114–329, § 401(b)(3)(A), substituted “cash prize purse” for “prize” in introductory provisions.
 
-Subsec. (g)(1). Pub. L. 114–329, § 401(b)(3)(B), inserted “prize” before “competition”.
+Subsec. (g)(1). Pub. L. 114–329, § 401(b)(3)(B), inserted “prize” before “competition”.
 
-Subsec. (h). Pub. L. 114–329, § 401(b)(4), inserted “prize” before “competition” in two places.
+Subsec. (h). Pub. L. 114–329, § 401(b)(4), inserted “prize” before “competition” in two places.
 
-Subsec. (i)(1)(B). Pub. L. 114–329, § 401(b)(5)(A), inserted “prize” before “competition”.
+Subsec. (i)(1)(B). Pub. L. 114–329, § 401(b)(5)(A), inserted “prize” before “competition”.
 
-Subsec. (i)(2)(A). Pub. L. 114–329, § 401(b)(5)(B), inserted “prize” before “competition” in two places.
+Subsec. (i)(2)(A). Pub. L. 114–329, § 401(b)(5)(B), inserted “prize” before “competition” in two places.
 
-Subsec. (i)(3), (4). Pub. L. 114–329, § 401(b)(5)(C), (D), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (i)(3), (4). Pub. L. 114–329, § 401(b)(5)(C), (D), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (j)(1). Pub. L. 114–329, § 401(b)(6)(A), inserted “prize” before “competition”.
+Subsec. (j)(1). Pub. L. 114–329, § 401(b)(6)(A), inserted “prize” before “competition”.
 
-Subsec. (j)(2). Pub. L. 114–329, § 401(b)(6)(B), amended par. (2) generally. Prior to amendment, text read as follows: “The Federal Government may negotiate a license for the use of intellectual property developed by a participant for a competition.”
+Subsec. (j)(2). Pub. L. 114–329, § 401(b)(6)(B), amended par. (2) generally. Prior to amendment, text read as follows: “The Federal Government may negotiate a license for the use of intellectual property developed by a participant for a competition.”
 
-Subsec. (k)(1). Pub. L. 114–329, § 401(b)(7)(A), substituted “each prize competition” for “each competition” in two places.
+Subsec. (k)(1). Pub. L. 114–329, § 401(b)(7)(A), substituted “each prize competition” for “each competition” in two places.
 
-Subsec. (k)(2)(A). Pub. L. 114–329, § 401(b)(7)(B), inserted “prize” before “competition”.
+Subsec. (k)(2)(A). Pub. L. 114–329, § 401(b)(7)(B), inserted “prize” before “competition”.
 
-Subsec. (k)(3). Pub. L. 114–329, § 401(b)(7)(C), inserted “prize” before “competitions” in two places.
+Subsec. (k)(3). Pub. L. 114–329, § 401(b)(7)(C), inserted “prize” before “competitions” in two places.
 
-Subsec. (*l*). Pub. L. 114–329, § 401(b)(8), substituted “a grant, contract, cooperative agreement, or other agreement with a private sector for-profit or nonprofit entity or State or local government agency to administer the prize competition, subject to the provisions of this section.” for “an agreement with a private, nonprofit entity to administer a prize competition, subject to the provisions of this section.”
+Subsec. (*l*). Pub. L. 114–329, § 401(b)(8), substituted “a grant, contract, cooperative agreement, or other agreement with a private sector for-profit or nonprofit entity or State or local government agency to administer the prize competition, subject to the provisions of this section.” for “an agreement with a private, nonprofit entity to administer a prize competition, subject to the provisions of this section.”
 
-Subsec. (m)(1). Pub. L. 114–329, § 401(b)(9)(A), amended par. (1) generally. Prior to amendment, text read as follows: “Support for a prize competition under this section, including financial support for the design and administration of a prize or funds for a monetary prize purse, may consist of Federal appropriated funds and funds provided by the private sector for such cash prizes. The head of an agency may accept funds from other Federal agencies to support such competitions. The head of an agency may not give any special consideration to any private sector entity in return for a donation.”
+Subsec. (m)(1). Pub. L. 114–329, § 401(b)(9)(A), amended par. (1) generally. Prior to amendment, text read as follows: “Support for a prize competition under this section, including financial support for the design and administration of a prize or funds for a monetary prize purse, may consist of Federal appropriated funds and funds provided by the private sector for such cash prizes. The head of an agency may accept funds from other Federal agencies to support such competitions. The head of an agency may not give any special consideration to any private sector entity in return for a donation.”
 
-Subsec. (m)(2). Pub. L. 114–329, § 401(b)(9)(B), substituted “cash prize purses or non-cash prize awards” for “prize awards”.
+Subsec. (m)(2). Pub. L. 114–329, § 401(b)(9)(B), substituted “cash prize purses or non-cash prize awards” for “prize awards”.
 
-Subsec. (m)(3)(A). Pub. L. 114–329, § 401(b)(9)(C)(i), amended subpar. (A) generally. Prior to amendment, text read as follows: “No prize may be announced under subsection (f) until all the funds needed to pay out the announced amount of the prize have been appropriated or committed in writing by a private source.”
+Subsec. (m)(3)(A). Pub. L. 114–329, § 401(b)(9)(C)(i), amended subpar. (A) generally. Prior to amendment, text read as follows: “No prize may be announced under subsection (f) until all the funds needed to pay out the announced amount of the prize have been appropriated or committed in writing by a private source.”
 
-Subsec. (m)(3)(B). Pub. L. 114–329, § 401(b)(9)(C)(ii)(I), substituted “a cash prize purse or non-cash prize award” for “a prize” in introductory provisions.
+Subsec. (m)(3)(B). Pub. L. 114–329, § 401(b)(9)(C)(ii)(I), substituted “a cash prize purse or non-cash prize award” for “a prize” in introductory provisions.
 
-Subsec. (m)(3)(B)(i). Pub. L. 114–329, § 401(b)(9)(C)(ii)(II), inserted “competition” after “prize”.
+Subsec. (m)(3)(B)(i). Pub. L. 114–329, § 401(b)(9)(C)(ii)(II), inserted “competition” after “prize”.
 
-Subsec. (m)(3)(B)(ii). Pub. L. 114–329, § 401(b)(9)(C)(ii)(III), inserted “or State, United States territory, local, or tribal government” after “private”.
+Subsec. (m)(3)(B)(ii). Pub. L. 114–329, § 401(b)(9)(C)(ii)(III), inserted “or State, United States territory, local, or tribal government” after “private”.
 
-Subsec. (m)(4)(A). Pub. L. 114–329, § 401(b)(9)(D)(i), substituted “a cash prize purse or a non-cash prize award” for “a prize” and “Science, Space, and Technology” for “Science and Technology”.
+Subsec. (m)(4)(A). Pub. L. 114–329, § 401(b)(9)(D)(i), substituted “a cash prize purse or a non-cash prize award” for “a prize” and “Science, Space, and Technology” for “Science and Technology”.
 
-Subsec. (m)(4)(B). Pub. L. 114–329, § 401(b)(9)(D)(ii), substituted “cash prize purses or non-cash prize awards” for “cash prizes”.
+Subsec. (m)(4)(B). Pub. L. 114–329, § 401(b)(9)(D)(ii), substituted “cash prize purses or non-cash prize awards” for “cash prizes”.
 
-Subsec. (n). Pub. L. 114–329, § 401(b)(10), in heading, substituted “Services” for “Service” and, in text, substituted “January 6, 2017,” for “January 4, 2011,” and inserted “for both for-profit and nonprofit entities and State, United States territory, local, and tribal government entities,” after “contract vehicle”.
+Subsec. (n). Pub. L. 114–329, § 401(b)(10), in heading, substituted “Services” for “Service” and, in text, substituted “January 6, 2017,” for “January 4, 2011,” and inserted “for both for-profit and nonprofit entities and State, United States territory, local, and tribal government entities,” after “contract vehicle”.
 
-Subsec. (*o*)(1). Pub. L. 114–329, § 401(b)(11), substituted “a prize competition or providing a cash prize purse or non-cash prize award” for “or providing a prize”.
+Subsec. (*o*)(1). Pub. L. 114–329, § 401(b)(11), substituted “a prize competition or providing a cash prize purse or non-cash prize award” for “or providing a prize”.
 
-Subsec. (p). Pub. L. 114–329, § 401(b)(12)(A), substituted “Biennial” for “Annual” in heading.
+Subsec. (p). Pub. L. 114–329, § 401(b)(12)(A), substituted “Biennial” for “Annual” in heading.
 
-Subsec. (p)(1). Pub. L. 114–329, § 401(b)(12)(B), substituted “every other year” for “each year”, “Science, Space, and Technology” for “Science and Technology”, and “2 fiscal years” for “fiscal year”.
+Subsec. (p)(1). Pub. L. 114–329, § 401(b)(12)(B), substituted “every other year” for “each year”, “Science, Space, and Technology” for “Science and Technology”, and “2 fiscal years” for “fiscal year”.
 
-Subsec. (p)(2). Pub. L. 114–329, § 401(b)(12)(C)(i), substituted “A report” for “The report for a fiscal year” in introductory provisions.
+Subsec. (p)(2). Pub. L. 114–329, § 401(b)(12)(C)(i), substituted “A report” for “The report for a fiscal year” in introductory provisions.
 
-Subsec. (p)(2)(C). Pub. L. 114–329, § 401(b)(12)(C)(ii), substituted “cash prize purses or non-cash prize awards” for “cash prizes” in heading and in two places in text.
+Subsec. (p)(2)(C). Pub. L. 114–329, § 401(b)(12)(C)(ii), substituted “cash prize purses or non-cash prize awards” for “cash prizes” in heading and in two places in text.
 
-Subsec. (p)(2)(G). Pub. L. 114–329, § 401(b)(12)(C)(iii), added subpar. (G).
+Subsec. (p)(2)(G). Pub. L. 114–329, § 401(b)(12)(C)(iii), added subpar. (G).
 
-## § 3720. Office of Innovation and Entrepreneurship
+## § 3720. Office of Innovation and Entrepreneurship
 
 **(a) In general**
 
@@ -2897,9 +2897,9 @@ The Secretary shall establish an Office of Innovation and Entrepreneurship to fo
 
 The Secretary shall establish an Advisory Council on Innovation and Entrepreneurship to provide advice to the Secretary on carrying out subsection (b).
 
-(Pub. L. 96–480, § 25, as added Pub. L. 111–358, title VI, § 601, Jan. 4, 2011, 124 Stat. 4026.)
+(Pub. L. 96–480, § 25, as added Pub. L. 111–358, title VI, § 601, Jan. 4, 2011, 124 Stat. 4026.)
 
-## § 3721. Federal loan guarantees for innovative technologies in manufacturing
+## § 3721. Federal loan guarantees for innovative technologies in manufacturing
 
 **(a) Establishment**
 
@@ -3085,7 +3085,7 @@ The term “program” means the loan guarantee program established in subsectio
 
 There are authorized to be appropriated $20,000,000 for each of fiscal years 2011 through 2013 to provide the cost of loan guarantees under this section.
 
-(Pub. L. 96–480, § 26, as added Pub. L. 111–358, title VI, § 602, Jan. 4, 2011, 124 Stat. 4026; amended Pub. L. 117–167, div. B, title II, § 10246(b)(2), Aug. 9, 2022, 136 Stat. 1492.)
+(Pub. L. 96–480, § 26, as added Pub. L. 111–358, title VI, § 602, Jan. 4, 2011, 124 Stat. 4026; amended Pub. L. 117–167, div. B, title II, § 10246(b)(2), Aug. 9, 2022, 136 Stat. 1492.)
 
 **Editorial Notes**
 
@@ -3099,7 +3099,7 @@ There are authorized to be appropriated $20,000,000 for each of fiscal years 201
 
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-## § 3722. Regional innovation program
+## § 3722. Regional innovation program
 
 **(a) Definitions** In this section:
 
@@ -3285,7 +3285,7 @@ Not later than 5 years after the first grant is awarded under subsection (c), an
 
 From amounts appropriated by Congress to the Secretary, the Secretary may use up to $50,000,000 in each of the fiscal years 2020 through 2024 to carry out this section.
 
-(Pub. L. 96–480, § 27, as added Pub. L. 111–358, title VI, § 603, Jan. 4, 2011, 124 Stat. 4030; amended Pub. L. 113–235, div. B, title VII, § 705, Dec. 16, 2014, 128 Stat. 2230; Pub. L. 116–92, div. A, title XVII, § 1742, Dec. 20, 2019, 133 Stat. 1837.)
+(Pub. L. 96–480, § 27, as added Pub. L. 111–358, title VI, § 603, Jan. 4, 2011, 124 Stat. 4030; amended Pub. L. 113–235, div. B, title VII, § 705, Dec. 16, 2014, 128 Stat. 2230; Pub. L. 116–92, div. A, title XVII, § 1742, Dec. 20, 2019, 133 Stat. 1837.)
 
 **Editorial Notes**
 
@@ -3295,7 +3295,7 @@ From amounts appropriated by Congress to the Secretary, the Secretary may use up
 
 2014—Pub. L. 113–235 amended section generally. Prior to amendment, text related to regional innovation program and consisted of subsecs. (a) to (i), including provisions relating to establishment of program, cluster grants, science and research park development grants, loan guarantees for science park infrastructure, regional innovation research and information program, interagency coordination, evaluation of program, definitions, and authorization of appropriations.
 
-## § 3722a. Regional Technology and Innovation Hub Program
+## § 3722a. Regional Technology and Innovation Hub Program
 
 **(a) Definitions** In this section:
 
@@ -3317,7 +3317,7 @@ The term “site connectivity infrastructure” means localized driveways and ac
 
 The term “venture development organization” has the meaning given such term in section 3722(a) of this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(5) Community development financial institution**
 
@@ -3389,7 +3389,7 @@ The Secretary shall carry out this section through the Assistant Secretary of Co
 
 **(D)** economic development organizations or similar entities that are focused primarily on improving science, technology, innovation, entrepreneurship, or access to capital; and
 
-**(E)** labor organizations or workforce training organizations, which may include State and local workforce development boards as established under sections 3111 and 3122 of title 29; <sup>1</sup> and
+**(E)** labor organizations or workforce training organizations, which may include State and local workforce development boards as established under sections 3111 and 3122 of title 29; <sup>1</sup> and
 
 **(2)** may include 1 or more—
 
@@ -3401,9 +3401,9 @@ The Secretary shall carry out this section through the Assistant Secretary of Co
 
 **(D)** organizations that promote local economic stability, high-wage domestic jobs, and broad-based economic opportunities, such as employee ownership membership associations and State or local employee ownerships and cooperative development centers, financial institutions and investment funds, including community development financial institutions and minority depository institutions;
 
-**(E)** elementary schools and secondary schools, including area career and technical education schools (as defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (29 2
+**(E)** elementary schools and secondary schools, including area career and technical education schools (as defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (29 2
 
-<sup>2</sup>  So in original. Probably should be “20”.
+<sup>2</sup> So in original. Probably should be “20”.
 
 U.S.C. 2302);
 
@@ -3749,7 +3749,7 @@ Not less frequently than once each year, the Secretary shall submit to the appro
 
 The Secretary may use funds made available to carry out this section for administrative costs under this section.
 
-(Pub. L. 96–480, § 28, as added Pub. L. 117–167, div. B, title VI, § 10621(a)(2), Aug. 9, 2022, 136 Stat. 1642.)
+(Pub. L. 96–480, § 28, as added Pub. L. 117–167, div. B, title VI, § 10621(a)(2), Aug. 9, 2022, 136 Stat. 1642.)
 
 **Editorial Notes**
 
@@ -3761,7 +3761,7 @@ Section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act 
 
 Sections 3111 and 3122 of title 29, referred to in subsec. (c)(1)(E), was in the original “sections 101 and 107 of the Workforce Investment and Opportunity Act” and was translated as reading “sections 101 and 107 of the Workforce Innovation and Opportunity Act”, to reflect the probable intent of Congress.
 
-Such Act, referred to in subsec. (f)(6), is the Public Works and Economic Development Act of 1965, Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
+Such Act, referred to in subsec. (f)(6), is the Public Works and Economic Development Act of 1965, Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
 
 **Prior Provisions**
 
@@ -3771,7 +3771,7 @@ A prior section 28 of Pub. L. 96–480 was renumbered section 30 and is classifi
 
 **Initial Designations and Awards**
 
-Pub. L. 117–167, div. B, title VI, § 10621(b), Aug. 9, 2022, 136 Stat. 1659, provided that:
+Pub. L. 117–167, div. B, title VI, § 10621(b), Aug. 9, 2022, 136 Stat. 1659, provided that:
 
 > **“(1) Competition required.—** Not later than 1 year after the date of the enactment of this Act [Aug. 9, 2022], subject to the availability of appropriations, the Secretary of Commerce shall commence a competition under subsection (d)(1) of section 28 of the Stevenson-Wydler Technology Innovation Act of 1980 [15 U.S.C. 3722a(d)(1)] (as added by this section).
 
@@ -3781,7 +3781,7 @@ Pub. L. 117–167, div. B, title VI, § 10621(b), Aug. 9, 2022, 136 Stat. 1659
 
 > **“(B)** award a grant or cooperative agreement under subsection (f)(1) of such section 28 [15 U.S.C. 3722a(f)(1)] to each regional technology and innovation hub designated pursuant to subparagraph (A) of this paragraph.”
 
-## § 3722b. Distressed area Recompete Pilot Program
+## § 3722b. Distressed area Recompete Pilot Program
 
 **(a) In general**
 
@@ -3905,9 +3905,9 @@ There is authorized to be appropriated to the Secretary $1,000,000,000 to award 
 
 The term “eligible recipient” means a specified entity that has been authorized in a manner as determined by the Secretary to represent and act on behalf of an eligible area for the purposes of this section.
 
-**(3) Local labor market** The term “local labor market” means any of the following areas that contains 1 or more specified entities described in subparagraphs (A) through (D) of paragraph (6) 1
+**(3) Local labor market** The term “local labor market” means any of the following areas that contains 1 or more specified entities described in subparagraphs (A) through (D) of paragraph (6) 1
 
-<sup>1</sup>  So in original. Probably should be paragraph “(7)”.
+<sup>1</sup> So in original. Probably should be paragraph “(7)”.
 
 :
 
@@ -3993,31 +3993,31 @@ For the purposes of subparagraph (A), an individual is prime-age if such individ
 
 **(I)** the total number of individuals ages 25 through 54 included on the membership roll of the Tribal government; and
 
-**(II)** 0.35 2
+**(II)** 0.35 2
 
-<sup>2</sup>  So in original. Probably should be followed by a period.
+<sup>2</sup> So in original. Probably should be followed by a period.
 
 **(B) Use of data**
 
 A calculation under subparagraph (A) shall be determined based on data provided by the applicable Tribal government to the Department of the Treasury under the Coronavirus State and Local Fiscal Recovery Fund programs under title VI of the Social Security Act (42 U.S.C. 801 et seq.).
 
-(Pub. L. 96–480, § 29, as added Pub. L. 117–167, div. B, title VI, § 10621(a)(2), Aug. 9, 2022, 136 Stat. 1655.)
+(Pub. L. 96–480, § 29, as added Pub. L. 117–167, div. B, title VI, § 10621(a)(2), Aug. 9, 2022, 136 Stat. 1655.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (j)(9)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title VI of the Act is classified generally to subchapter VI (§ 801 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (j)(9)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title VI of the Act is classified generally to subchapter VI (§ 801 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Distressed Area Designation and Award**
 
-Pub. L. 117–167, div. B, title VI, § 10621(c), Aug. 9, 2022, 136 Stat. 1660, provided that: “Not later than 18 months after the date of the enactment of this section [Aug. 9, 2022], subject to the availability of appropriations, if the Secretary [of Commerce] has received applications under section 29 of the Stevenson-Wydler Technology Innovation Act of 1980 [15 U.S.C. 3722b] (as added by this section) from an eligible recipient which the Secretary considers suitable for award under such section 29, the Secretary shall award grants or cooperative agreement under subsections (b) and (c) of such section 29 to one or more eligible recipients.”
+Pub. L. 117–167, div. B, title VI, § 10621(c), Aug. 9, 2022, 136 Stat. 1660, provided that: “Not later than 18 months after the date of the enactment of this section [Aug. 9, 2022], subject to the availability of appropriations, if the Secretary [of Commerce] has received applications under section 29 of the Stevenson-Wydler Technology Innovation Act of 1980 [15 U.S.C. 3722b] (as added by this section) from an eligible recipient which the Secretary considers suitable for award under such section 29, the Secretary shall award grants or cooperative agreement under subsections (b) and (c) of such section 29 to one or more eligible recipients.”
 
 [For definition of “recipient” as used in section 10621(c) of Pub. L. 117–167, set out above, see section 18901 of Title 42, The Public Health and Welfare.]
 
-## § 3723. STEM apprenticeship programs
+## § 3723. STEM apprenticeship programs
 
 **(a) In general**
 
@@ -4051,13 +4051,13 @@ The Secretary of Commerce may carry out a grant program to identify the need for
 
 The Secretary of Commerce may provide a grant to an eligible recipient that has conducted a needs assessment as described in subsection (c)(1) to develop infrastructure to expand STEM apprenticeship programs.
 
-(Pub. L. 96–480, § 30, formerly § 28, as added Pub. L. 114–329, title III, § 312(e), Jan. 6, 2017, 130 Stat. 3014; renumbered § 30, Pub. L. 117–167, div. B, title VI, § 10621(a)(1), Aug. 9, 2022, 136 Stat. 1642.)
+(Pub. L. 96–480, § 30, formerly § 28, as added Pub. L. 114–329, title III, § 312(e), Jan. 6, 2017, 130 Stat. 3014; renumbered § 30, Pub. L. 117–167, div. B, title VI, § 10621(a)(1), Aug. 9, 2022, 136 Stat. 1642.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Developing STEM Apprenticeships**
 
-Pub. L. 114–329, title III, § 312(a)–(d), Jan. 6, 2017, 130 Stat. 3013, 3014, provided that:
+Pub. L. 114–329, title III, § 312(a)–(d), Jan. 6, 2017, 130 Stat. 3013, 3014, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -4103,7 +4103,7 @@ Pub. L. 114–329, title III, § 312(a)–(d), Jan. 6, 2017, 130 Stat. 3013, 3
 
 [For definitions of “STEM” and “institution of higher education” as used in section 312(a)–(d) of Pub. L. 114–329, set out above, see section 2 of Pub. L. 114–329, set out as a note under section 1862s of Title 42, The Public Health and Welfare.]
 
-## § 3724. Crowdsourcing and citizen science
+## § 3724. Crowdsourcing and citizen science
 
 **(a) Short title**
 
@@ -4251,9 +4251,9 @@ The Administrator of the General Services Administration, in coordination with t
 
 **(1) In general**
 
-Not later than 2 years after January 6, 2017, the Director of the Office of Science and Technology Policy shall include, as a component of an annual 1
+Not later than 2 years after January 6, 2017, the Director of the Office of Science and Technology Policy shall include, as a component of an annual 1
 
-<sup>1</sup>  So in original. As amended by Pub. L. 114–329, section 3719(p) of this title requires biennial reports.
+<sup>1</sup> So in original. As amended by Pub. L. 114–329, section 3719(p) of this title requires biennial reports.
 
 report required under section 3719(p) of this title, a report on the projects and activities carried out under this section.
 
@@ -4287,7 +4287,7 @@ report required under section 3719(p) of this title, a report on the projects an
 
 **(2)** to displace Federal Government resources allocated to the Federal science agencies that use crowdsourcing or citizen science authorized under this section to carry out a project.
 
-(Pub. L. 114–329, title IV, § 402, Jan. 6, 2017, 130 Stat. 3019.)
+(Pub. L. 114–329, title IV, § 402, Jan. 6, 2017, 130 Stat. 3019.)
 
 **Editorial Notes**
 

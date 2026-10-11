@@ -19,25 +19,25 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–90, § 2(b)(2)(B), Mar. 3, 2022, 136 Stat. 27, substituted “Application” for “Chapter 1; residual application” in item 307.
+2022—Pub. L. 117–90, § 2(b)(2)(B), Mar. 3, 2022, 136 Stat. 27, substituted “Application” for “Chapter 1; residual application” in item 307.
 
-## § 301. Enforcement of Convention
+## § 301. Enforcement of Convention
 
 The Inter-American Convention on International Commercial Arbitration of January 30, 1975, shall be enforced in United States courts in accordance with this chapter.
 
-(Added Pub. L. 101–369, § 1, Aug. 15, 1990, 104 Stat. 448.)
+(Added Pub. L. 101–369, § 1, Aug. 15, 1990, 104 Stat. 448.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 101–369, § 3, Aug. 15, 1990, 104 Stat. 450, provided that: “This Act [enacting this chapter] shall take effect upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States.” The Convention entered into force for the United States on Oct. 27, 1990.
+Pub. L. 101–369, § 3, Aug. 15, 1990, 104 Stat. 450, provided that: “This Act [enacting this chapter] shall take effect upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States.” The Convention entered into force for the United States on Oct. 27, 1990.
 
-## § 302. Incorporation by reference
+## § 302. Incorporation by reference
 
 Sections 202, 203, 204, 205, and 207 of this title shall apply to this chapter as if specifically set forth herein, except that for the purposes of this chapter “the Convention” shall mean the Inter-American Convention.
 
-(Added Pub. L. 101–369, § 1, Aug. 15, 1990, 104 Stat. 448.)
+(Added Pub. L. 101–369, § 1, Aug. 15, 1990, 104 Stat. 448.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -45,13 +45,13 @@ Sections 202, 203, 204, 205, and 207 of this title shall apply to this chapter a
 
 Section effective upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States (Oct. 27, 1990), see section 3 of Pub. L. 101–369, set out as a note under section 301 of this title.
 
-## § 303. Order to compel arbitration; appointment of arbitrators; locale
+## § 303. Order to compel arbitration; appointment of arbitrators; locale
 
 **(a)** A court having jurisdiction under this chapter may direct that arbitration be held in accordance with the agreement at any place therein provided for, whether that place is within or without the United States. The court may also appoint arbitrators in accordance with the provisions of the agreement.
 
 **(b)** In the event the agreement does not make provision for the place of arbitration or the appointment of arbitrators, the court shall direct that the arbitration shall be held and the arbitrators be appointed in accordance with Article 3 of the Inter-American Convention.
 
-(Added Pub. L. 101–369, § 1, Aug. 15, 1990, 104 Stat. 448.)
+(Added Pub. L. 101–369, § 1, Aug. 15, 1990, 104 Stat. 448.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -59,11 +59,11 @@ Section effective upon the entry into force of the Inter-American Convention on 
 
 Section effective upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States (Oct. 27, 1990), see section 3 of Pub. L. 101–369, set out as a note under section 301 of this title.
 
-## § 304. Recognition and enforcement of foreign arbitral decisions and awards; reciprocity
+## § 304. Recognition and enforcement of foreign arbitral decisions and awards; reciprocity
 
 Arbitral decisions or awards made in the territory of a foreign State shall, on the basis of reciprocity, be recognized and enforced under this chapter only if that State has ratified or acceded to the Inter-American Convention.
 
-(Added Pub. L. 101–369, § 1, Aug. 15, 1990, 104 Stat. 449.)
+(Added Pub. L. 101–369, § 1, Aug. 15, 1990, 104 Stat. 449.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -71,7 +71,7 @@ Arbitral decisions or awards made in the territory of a foreign State shall, on 
 
 Section effective upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States (Oct. 27, 1990), see section 3 of Pub. L. 101–369, set out as a note under section 301 of this title.
 
-## § 305. Relationship between the Inter-American Convention and the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of June 10, 1958
+## § 305. Relationship between the Inter-American Convention and the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of June 10, 1958
 
 When the requirements for application of both the Inter-American Convention and the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of June 10, 1958, are met, determination as to which Convention applies shall, unless otherwise expressly agreed, be made as follows:
 
@@ -79,7 +79,7 @@ When the requirements for application of both the Inter-American Convention and 
 
 **(2)** In all other cases the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of June 10, 1958, shall apply.
 
-(Added Pub. L. 101–369, § 1, Aug. 15, 1990, 104 Stat. 449.)
+(Added Pub. L. 101–369, § 1, Aug. 15, 1990, 104 Stat. 449.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -87,13 +87,13 @@ When the requirements for application of both the Inter-American Convention and 
 
 Section effective upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States (Oct. 27, 1990), see section 3 of Pub. L. 101–369, set out as a note under section 301 of this title.
 
-## § 306. Applicable rules of Inter-American Commercial Arbitration Commission
+## § 306. Applicable rules of Inter-American Commercial Arbitration Commission
 
 **(a)** For the purposes of this chapter the rules of procedure of the Inter-American Commercial Arbitration Commission referred to in Article 3 of the Inter-American Convention shall, subject to subsection (b) of this section, be those rules as promulgated by the Commission on July 1, 1988.
 
 **(b)** In the event the rules of procedure of the Inter-American Commercial Arbitration Commission are modified or amended in accordance with the procedures for amendment of the rules of that Commission, the Secretary of State, by regulation in accordance with section 553 of title 5, consistent with the aims and purposes of this Convention, may prescribe that such modifications or amendments shall be effective for purposes of this chapter.
 
-(Added Pub. L. 101–369, § 1, Aug. 15, 1990, 104 Stat. 449.)
+(Added Pub. L. 101–369, § 1, Aug. 15, 1990, 104 Stat. 449.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -101,11 +101,11 @@ Section effective upon the entry into force of the Inter-American Convention on 
 
 Section effective upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States (Oct. 27, 1990), see section 3 of Pub. L. 101–369, set out as a note under section 301 of this title.
 
-## § 307. Application
+## § 307. Application
 
 Chapter 1 applies to actions and proceedings brought under this chapter to the extent chapter 1 is not in conflict with this chapter or the Inter-American Convention as ratified by the United States. This chapter applies to the extent that this chapter is not in conflict with chapter 4.
 
-(Added Pub. L. 101–369, § 1, Aug. 15, 1990, 104 Stat. 449; amended Pub. L. 117–90, § 2(b)(1)(C), Mar. 3, 2022, 136 Stat. 27.)
+(Added Pub. L. 101–369, § 1, Aug. 15, 1990, 104 Stat. 449; amended Pub. L. 117–90, § 2(b)(1)(C), Mar. 3, 2022, 136 Stat. 27.)
 
 **Editorial Notes**
 

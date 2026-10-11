@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 1401—APPLICABILITY AND RESERVE ACTIVE-STATUS LISTS
 
-## § 14001. Applicability of this part
+## § 14001. Applicability of this part
 
 This chapter and chapters 1403 through 1411 of this title apply, as appropriate, to all reserve officers of the Army, Navy, Air Force, and Marine Corps except warrant officers.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2922.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2922.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -69,13 +69,13 @@ Section 1683 of title XVI of div. A of Pub. L. 103–337 provided that:
 
 > **“(f) Covered Officers.—** Except as provided in subsection (c), this section applies to any reserve officer of the Navy or Marine Corps who (1) before the effective date of this title is in an active status, and (2) on the effective date of this title is subject to placement on the reserve active-status list of the Navy or Marine Corps.”
 
-## § 14002. Reserve active-status lists: requirement for each armed force
+## § 14002. Reserve active-status lists: requirement for each armed force
 
 **(a)** The Secretary of each military department shall maintain a single list, to be known as the reserve active-status list, for each armed force under the Secretary’s jurisdiction. That list shall include the names of all reserve officers of that armed force who are in an active status other than those on an active-duty list described in section 620 of this title or warrant officers (including commissioned warrant officers).
 
 **(b)** The reserve active-status list for the Army shall include officers in the Army Reserve and the Army National Guard of the United States. The reserve active-status list for the Air Force shall include officers in the Air Force Reserve and the Air National Guard of the United States. The Secretary of the Navy shall maintain separate lists for the Navy Reserve and the Marine Corps Reserve.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2922; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(OO), Jan. 6, 2006, 119 Stat. 3234.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2922; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(OO), Jan. 6, 2006, 119 Stat. 3234.)
 
 **Editorial Notes**
 
@@ -91,7 +91,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **Establishment of Reserve Active-Status List**
 
-Pub. L. 103–337, div. A, title XVI, § 1686, Oct. 5, 1994, 108 Stat. 3024, provided that:
+Pub. L. 103–337, div. A, title XVI, § 1686, Oct. 5, 1994, 108 Stat. 3024, provided that:
 
 > **“(a) Six-Month Deadline.—** Not later than six months after the effective date of this title [Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title], the Secretary of the military department concerned shall ensure that—
 
@@ -103,15 +103,15 @@ Pub. L. 103–337, div. A, title XVI, § 1686, Oct. 5, 1994, 108 Stat. 3024, p
 
 **Preservation of Relative Seniority Under Initial Establishment of Reserve Active-Status List**
 
-Pub. L. 103–337, div. A, title XVI, § 1687, Oct. 5, 1994, 108 Stat. 3025, provided that: “In order to maintain the relative seniority among reserve officers of the Army, Navy, Air Force, or Marine Corps as determined under section 1686 [set out above], the Secretary of the military department concerned may, during the one-year period beginning on the effective date of this title [Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title], adjust the date of rank of any reserve officer of such Armed Force who was in an active status but not on the active-duty list on such effective date.”
+Pub. L. 103–337, div. A, title XVI, § 1687, Oct. 5, 1994, 108 Stat. 3025, provided that: “In order to maintain the relative seniority among reserve officers of the Army, Navy, Air Force, or Marine Corps as determined under section 1686 [set out above], the Secretary of the military department concerned may, during the one-year period beginning on the effective date of this title [Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title], adjust the date of rank of any reserve officer of such Armed Force who was in an active status but not on the active-duty list on such effective date.”
 
-## § 14003. Reserve active-status lists: position of officers on the list
+## § 14003. Reserve active-status lists: position of officers on the list
 
 **(a) Position on List.—** Officers shall be carried on the reserve active-status list of the armed force of which they are members in the order of seniority of the grade in which they are serving in an active status. Officers serving in the same grade shall be carried in the order of their rank in that grade.
 
 **(b) Effect on Position Held by Reason of Temporary Appointment or Assignment.—** An officer whose position on the reserve active-status list results from service under a temporary appointment or in a grade held by reason of assignment to a position has, when that appointment or assignment ends, the grade and position on that list that the officer would have held if the officer had not received that appointment or assignment.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2923; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(22), Feb. 10, 1996, 110 Stat. 497.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2923; amended Pub. L. 104–106, div. A, title XV, § 1501(b)(22), Feb. 10, 1996, 110 Stat. 497.)
 
 **Editorial Notes**
 
@@ -129,11 +129,11 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14004. Reserve active-status lists: eligibility for Reserve promotion
+## § 14004. Reserve active-status lists: eligibility for Reserve promotion
 
 Except as otherwise provided by law, an officer must be on a reserve active-status list to be eligible under chapter 1405 of this title for consideration for selection for promotion or for promotion.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2923.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2923.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -141,11 +141,11 @@ Except as otherwise provided by law, an officer must be on a reserve active-stat
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14005. Competitive categories
+## § 14005. Competitive categories
 
 Each officer whose name appears on a reserve active-status list shall be placed in a competitive category. The competitive categories for each armed force shall be specified by the Secretary of the military department concerned under regulations prescribed by the Secretary of Defense. Officers in the same competitive category shall compete among themselves for promotion.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2923.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2923.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -153,11 +153,11 @@ Each officer whose name appears on a reserve active-status list shall be placed 
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14006. Determination of years in grade
+## § 14006. Determination of years in grade
 
 For the purpose of chapters 1403 through 1411 of this title, an officer’s years of service in a grade are computed from the officer’s date of rank in grade as determined under section 741(d) of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2923.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2923.)
 
 **Statutory Notes and Related Subsidiaries**
 

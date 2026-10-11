@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 11A—CHILD SUPPORT
 
-## § 228. Failure to pay legal child support obligations
+## § 228. Failure to pay legal child support obligations
 
 **(a) Offense.—** Any person who—
 
@@ -47,15 +47,15 @@ shall be punished as provided in subsection (c).
 
 **(f) Definitions.—** As used in this section—
 
-**(1)** the term “Indian tribe” has the meaning given that term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a); 1
+**(1)** the term “Indian tribe” has the meaning given that term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** the term “State” includes any State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States; and
 
 **(3)** the term “support obligation” means any amount determined under a court order or an order of an administrative process pursuant to the law of a State or of an Indian tribe to be due from a person for the support and maintenance of a child or of a child and the parent with whom the child is living.
 
-(Added Pub. L. 102–521, § 2(a), Oct. 25, 1992, 106 Stat. 3403; amended Pub. L. 104–294, title VI, § 607(*l*), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 105–187, § 2, June 24, 1998, 112 Stat. 618.)
+(Added Pub. L. 102–521, § 2(a), Oct. 25, 1992, 106 Stat. 3403; amended Pub. L. 104–294, title VI, § 607(*l*), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 105–187, § 2, June 24, 1998, 112 Stat. 618.)
 
 **Editorial Notes**
 
@@ -73,8 +73,8 @@ Section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C.
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–187, § 1, June 24, 1998, 112 Stat. 618, provided that: “This Act [amending this section] may be cited as the ‘Deadbeat Parents Punishment Act of 1998’.”
+Pub. L. 105–187, § 1, June 24, 1998, 112 Stat. 618, provided that: “This Act [amending this section] may be cited as the ‘Deadbeat Parents Punishment Act of 1998’.”
 
 **Short Title**
 
-Pub. L. 102–521, § 1, Oct. 25, 1992, 106 Stat. 3403, provided that: “This Act [enacting this section and sections 3796cc to 3796cc–6 of Title 42, The Public Health and Welfare, amending section 3563 of this title and section 3797 of Title 42, and enacting provisions set out as a note under section 12301 of Title 42] may be cited as the ‘Child Support Recovery Act of 1992’.”
+Pub. L. 102–521, § 1, Oct. 25, 1992, 106 Stat. 3403, provided that: “This Act [enacting this section and sections 3796cc to 3796cc–6 of Title 42, The Public Health and Welfare, amending section 3563 of this title and section 3797 of Title 42, and enacting provisions set out as a note under section 12301 of Title 42] may be cited as the ‘Child Support Recovery Act of 1992’.”

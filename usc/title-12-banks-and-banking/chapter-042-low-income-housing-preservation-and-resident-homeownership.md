@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Codification**
 
-Subtitles A and B of the Low-Income Housing Preservation and Resident Homeownership Act of 1990, Pub. L. 100–242, title II, as revised generally by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, comprise subchapter I of this chapter. Prior to the general revision by Pub. L. 101–625 subtitles A and B (§§ 201–235) of the Emergency Low Income Housing Preservation Act of 1987, Pub. L. 100–242, title II, Feb. 5, 1988, 101 Stat. 1877, as amended by Pub. L. 100–628, title X, §§ 1021–1027, Nov. 7, 1988, 102 Stat. 3270, 3271; Pub. L. 101–235, title II, §§ 201, 202(a)–(c), 203(b), Dec. 15, 1989, 103 Stat. 2037, 2038; Pub. L. 101–402, § 1, Oct. 1, 1990, 104 Stat. 866; Pub. L. 101–494, §§ 1(c), 2(a), Oct. 31, 1990, 104 Stat. 1185, were set out as a note under section 1715*l* of this title and amended section 1715z–6 of this title.
+Subtitles A and B of the Low-Income Housing Preservation and Resident Homeownership Act of 1990, Pub. L. 100–242, title II, as revised generally by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, comprise subchapter I of this chapter. Prior to the general revision by Pub. L. 101–625 subtitles A and B (§§ 201–235) of the Emergency Low Income Housing Preservation Act of 1987, Pub. L. 100–242, title II, Feb. 5, 1988, 101 Stat. 1877, as amended by Pub. L. 100–628, title X, §§ 1021–1027, Nov. 7, 1988, 102 Stat. 3270, 3271; Pub. L. 101–235, title II, §§ 201, 202(a)–(c), 203(b), Dec. 15, 1989, 103 Stat. 2037, 2038; Pub. L. 101–402, § 1, Oct. 1, 1990, 104 Stat. 866; Pub. L. 101–494, §§ 1(c), 2(a), Oct. 31, 1990, 104 Stat. 1185, were set out as a note under section 1715*l* of this title and amended section 1715z–6 of this title.
 
-Subtitle C of the Low-Income Housing Preservation and Resident Homeownership Act of 1990, Pub. L. 100–242, title II, as added by Pub. L. 102–550, title III, § 312, Oct. 28, 1992, 106 Stat. 3765, comprises subchapter II of this chapter. Another subtitle C of title II of Pub. L. 100–242 amended sections 1472, 1485, and 1487 of Title 42, The Public Health and Welfare.
+Subtitle C of the Low-Income Housing Preservation and Resident Homeownership Act of 1990, Pub. L. 100–242, title II, as added by Pub. L. 102–550, title III, § 312, Oct. 28, 1992, 106 Stat. 3765, comprises subchapter II of this chapter. Another subtitle C of title II of Pub. L. 100–242 amended sections 1472, 1485, and 1487 of Title 42, The Public Health and Welfare.
 
 ## SUBCHAPTER I—PREPAYMENT OF MORTGAGES INSURED UNDER NATIONAL HOUSING ACT
 
-### § 4101. General prepayment limitation
+### § 4101. General prepayment limitation
 
 **(a) Prepayment and termination**
 
@@ -39,37 +39,37 @@ A mortgagee may foreclose the mortgage on, or acquire by deed in lieu of foreclo
 
 Any prepayment of a mortgage on eligible low-income housing or termination of the mortgage insurance on such housing not in compliance with the provisions of this subchapter shall be null and void and any low-income affordability restrictions on the housing shall continue to apply to the housing.
 
-(Pub. L. 100–242, title II, § 211, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249.)
+(Pub. L. 100–242, title II, § 211, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 101–625, title VI, § 605, Nov. 28, 1990, 104 Stat. 4278, provided that: “This subtitle [subtitle A (§§ 601–605) of title VI of Pub. L. 101–625, enacting this chapter, amending sections 1715z–6 and 1715z–15 of this title and section 1437f of Title 42, The Public Health and Welfare, and enacting provisions set out below] shall take effect on the date of the enactment of this Act [Nov. 28, 1990].”
+Pub. L. 101–625, title VI, § 605, Nov. 28, 1990, 104 Stat. 4278, provided that: “This subtitle [subtitle A (§§ 601–605) of title VI of Pub. L. 101–625, enacting this chapter, amending sections 1715z–6 and 1715z–15 of this title and section 1437f of Title 42, The Public Health and Welfare, and enacting provisions set out below] shall take effect on the date of the enactment of this Act [Nov. 28, 1990].”
 
 **Short Title**
 
-Pub. L. 100–242, title II, § 201, as added by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, provided that: “This title [enacting this chapter, amending section 1715z–15 of this title and sections 1437f, 1472, 1485, and 1487 of Title 42, The Public Health and Welfare, and enacting provisions set out below] may be cited as the ‘Low-Income Housing Preservation and Resident Homeownership Act of 1990’.”
+Pub. L. 100–242, title II, § 201, as added by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, provided that: “This title [enacting this chapter, amending section 1715z–15 of this title and sections 1437f, 1472, 1485, and 1487 of Title 42, The Public Health and Welfare, and enacting provisions set out below] may be cited as the ‘Low-Income Housing Preservation and Resident Homeownership Act of 1990’.”
 
 **Applicability**
 
-Pub. L. 100–242, title II, § 235, as added by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4274, provided that: “Subject to section 605 of the Cranston-Gonzalez National Affordable Housing Act [Pub. L. 101–625, set out above], the requirements of this subtitle [subtitle B (§§ 211–235) of title II of Pub. L. 100–242, enacting this subchapter] shall apply to any project that is eligible low-income housing on or after November 1, 1987.”
+Pub. L. 100–242, title II, § 235, as added by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4274, provided that: “Subject to section 605 of the Cranston-Gonzalez National Affordable Housing Act [Pub. L. 101–625, set out above], the requirements of this subtitle [subtitle B (§§ 211–235) of title II of Pub. L. 100–242, enacting this subchapter] shall apply to any project that is eligible low-income housing on or after November 1, 1987.”
 
 **Regulations**
 
-Pub. L. 102–550, title III, § 332, Oct. 28, 1992, 106 Stat. 3773, provided that: “Except as otherwise provided in this title [enacting sections 4141 to 4147 of this title, amending sections 1715z–1, 1715z–6, 4103, 4105 to 4112, 4116, 4119, 4121, 4122, 4124, and 4125 of this title, enacting provisions set out as notes under this section and sections 1715z–6, 4109, and 4117 of this title, and amending provisions set out as a note under this section], the Secretary of Housing and Urban Development shall issue interim regulations implementing this title and the amendments made by this title not later than the expiration of the 90-day period beginning on the date of the enactment of this Act [Oct. 28, 1992], which shall take effect upon issuance. The Secretary shall issue final regulations implementing this title and the amendments made by this title after notice and opportunity for public comment regarding the interim regulations, pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment shall not be less than 60 days, and the final regulations shall be issued not later than the expiration of the 60-day period beginning upon the conclusion of the comment period and shall take effect upon issuance.”
+Pub. L. 102–550, title III, § 332, Oct. 28, 1992, 106 Stat. 3773, provided that: “Except as otherwise provided in this title [enacting sections 4141 to 4147 of this title, amending sections 1715z–1, 1715z–6, 4103, 4105 to 4112, 4116, 4119, 4121, 4122, 4124, and 4125 of this title, enacting provisions set out as notes under this section and sections 1715z–6, 4109, and 4117 of this title, and amending provisions set out as a note under this section], the Secretary of Housing and Urban Development shall issue interim regulations implementing this title and the amendments made by this title not later than the expiration of the 90-day period beginning on the date of the enactment of this Act [Oct. 28, 1992], which shall take effect upon issuance. The Secretary shall issue final regulations implementing this title and the amendments made by this title after notice and opportunity for public comment regarding the interim regulations, pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment shall not be less than 60 days, and the final regulations shall be issued not later than the expiration of the 60-day period beginning upon the conclusion of the comment period and shall take effect upon issuance.”
 
 **Low-Income Housing Preservation**
 
 Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2883, provided in part: “That of the total amount provided under this head, $350,000,000 shall be available for use in conjunction with properties that are eligible for assistance under the Low-Income Housing Preservation and Resident Homeownership Act of 1990 (LIHPRHA) [see Short Title note above] or the Emergency Low Income Housing Preservation Act of 1987 (ELIHPA) [see Codification note set out preceding this section], of which $75,000,000 shall be available for obligation until March 1, 1997 for projects (1) that are subject to a repayment or settlement agreement that was executed between the owner and the Secretary prior to September 1, 1995; (2) whose submissions were delayed as a result of their location in areas that were designated as a Federal disaster area in a Presidential Disaster Declaration; or (3) whose processing was, in fact or in practical effect, suspended, deferred, or interrupted for a period of twelve months or more because of differing interpretations, by the Secretary and an owner or by the Secretary and a State or local rent regulatory agency, concerning the timing of filing eligibility or the effect of a presumptively applicable State or local rent control law or regulation on the determination of preservation value under section 213 of LIHPRHA, as amended [12 U.S.C. 4103], if the owner of such project filed notice of intent to extend the low-income affordability restrictions of the housing, or transfer to a qualified purchaser who would extend such restrictions, on or before November 1, 1993; and of which, up to $100,000,000 may be used for rental assistance to prevent displacement of families residing in projects whose owners prepay their mortgages; and the balance of which shall be available from the effective date of this Act [Sept. 26, 1996] for sales to preferred priority purchasers: *Provided further*, That with the exception of projects described in clauses (1), (2), or (3) of the preceding proviso, the Secretary shall, notwithstanding any other provision of law, suspend further processing of preservation applications which have not heretofore received approval of a plan of action: *Provided further*, That $150,000,000 of amounts recaptured from interest reduction payment contracts for section 236 [12 U.S.C. 1715z–1] projects whose owners prepay their mortgages during fiscal year 1997 shall be rescinded: *Provided further*, That an owner of eligible low-income housing may prepay the mortgage or request voluntary termination of a mortgage insurance contract, so long as said owner agrees not to raise rents for sixty days after such prepayment: *Provided further*, That such developments have been determined to have preservation equity at least equal to the lesser of $5,000 per unit or $500,000 per project or the equivalent of eight times the most recently published monthly fair market rent for the area in which the project is located as the appropriate unit size for all of the units in the eligible project: *Provided further*, That the Secretary may modify the regulatory agreement to permit owners and priority purchasers to retain rental income in excess of the basic rental charge in projects assisted under section 236 of the National Housing Act, for the purpose of preserving the low- and moderate-income character of the housing: *Provided further*, That eligible low-income housing shall include properties meeting the requirements of this paragraph with mortgages that are held by a State agency as a result of a sale by the Secretary without insurance, which immediately before the sale would have been eligible low-income housing under LIHPRHA: *Provided further*, That notwithstanding any other provision of law, subject to the availability of appropriated funds, each low-income family, and moderate-income family who is elderly or disabled or is residing in a low-vacancy area, residing in the housing on the date of prepayment or voluntary termination, and whose rent, as a result of a rent increase occurring no later than one year after the date of the prepayment, exceeds 30 percent of adjusted income, shall be offered tenant-based assistance in accordance with section 8 [42 U.S.C. 1437f] or any successor program, under which the family shall pay no less for rent than it paid on such date: *Provided further*, That any family receiving tenant-based assistance under the preceding proviso may elect (1) to remain in the unit of the housing and if the rent exceeds the fair market rent or payment standard, as applicable, the rent shall be deemed to be the applicable standard, so long as the administering public housing agency finds that the rent is reasonable in comparison with rents charged for comparable unassisted housing units in the market or (2) to move from the housing and the rent will be subject to the fair market rent of the payment standard, as applicable, under existing program rules and procedures: *Provided further*, That the tenant-based assistance made available under the preceding two provisos are in lieu of benefits provided in subsections [sic] 223(b), (c), and (d) of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 [12 U.S.C. 4113(b), (c), (d)]: *Provided further*, That any sales shall be funded using the capital grant available under section 220(d)(3)(A) of LIHPRHA [12 U.S.C. 4110(d)(3)(A)]: *Provided further*, That any extensions shall be funded using a non-interest-bearing capital (direct) loan by the Secretary not in excess of the amount of the cost of rehabilitation approved in the plan of action plus 65 percent of the property’s preservation equity and under such other terms and conditions as the Secretary may prescribe: *Provided further*, That any capital grant shall be limited to seven times, and any capital loan limited to six times, the annual fair market rent for the project, as determined using the fair market rent for fiscal year 1997 for the area in which the project is located, using the appropriate apartment sizes and mix in the eligible project, except where, upon the request of a priority purchaser, the Secretary determines that a greater amount is necessary and appropriate to preserve low-income housing: *Provided further*, That section 241(f) of the National Housing Act [12 U.S.C. 1715z–6(f)] is repealed and insurance under such section shall not be offered as an incentive under LIHPRHA and ELIHPA: *Provided further*, That up to $10,000,000 of the amount of $350,000,000 made available by a preceding proviso in this paragraph may be used at the discretion of the Secretary to reimburse owners of eligible properties for which plans of action were submitted prior to the effective date of this Act [Sept. 26, 1996], but were not executed for lack of available funds, with such reimbursement available only for documented costs directly applicable to the preparation of the plan of action as determined by the Secretary, and shall be made available on terms and conditions to be established by the Secretary: *Provided further*, That, notwithstanding any other provision of law, a priority purchaser may utilize assistance under the HOME Investment Partnerships Act [42 U.S.C. 12721 et seq.] or the Low Income Housing Tax Credit [see 26 U.S.C. 42]: *Provided further*, That projects with approved plans of action which exceed the limitations on eligibility for funding imposed by this Act may submit revised plans of action which conform to these limitations by March 1, 1997, and retain the priority for funding otherwise applicable from the original date of approval of their plan of action, subject to securing any additional necessary funding commitments by August 1, 1997.”
 
-Pub. L. 104–134, title I, § 101(e) [title II], Apr. 26, 1996, 110 Stat. 1321–257, 1321–267; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided in part that: “Of the total amount provided under this head, $624,000,000, plus amounts recaptured from interest reduction payment contracts for section 236 [12 U.S.C. 1715z–1] projects whose owners prepay their mortgages during fiscal year 1996 (which amounts shall be transferred and merged with this account), shall be for use in conjunction with properties that are eligible for assistance under the Low Income Housing Preservation and Resident Homeownership Act of 1990 (LIHPRHA) [see Short Title note above] or the Emergency Low-Income Housing Preservation Act of 1987 (ELIHPA) [see Codification note set out preceding this section]: *Provided*, That prior to August 15, 1996, funding to carry out plans of action shall be limited to sales of projects to non-profit organizations, tenant-sponsored organizations, and other priority purchasers: *Provided further*, That of the amount made available by this paragraph, up to $10,000,000 shall be available for preservation technical assistance grants pursuant to section 253 of the Housing and Community Development Act of 1987 [12 U.S.C. 4143], as amended: *Provided further*, That with respect to amounts made available by this paragraph, after August 15, 1996, if the Secretary determines that the demand for funding may exceed amounts available for such funding, the Secretary (1) may determine priorities for distributing available funds, including giving priority funding to tenants displaced due to mortgage prepayment and to projects that have not yet been funded but which have approved plans of action; and (2) may impose a temporary moratorium on applications by potential recipients of such funding: *Provided further*, That an owner of eligible low-income housing may prepay the mortgage or request voluntary termination of a mortgage insurance contract, so long as said owner agrees not to raise rents for sixty days after such prepayment: *Provided further*, That an owner of eligible low-income housing who has not timely filed a second notice under section 216(d) [12 U.S.C. 4106(d)] prior to the effective date of this Act [Apr. 26, 1996] may file such notice by April 15, 1996: *Provided further*, That such developments have been determined to have preservation equity at least equal to the lesser of $5,000 per unit or $500,000 per project or the equivalent of eight times the most recently published fair market rent for the area in which the project is located as the appropriate unit size for all of the units in the eligible project: *Provided further*, That the Secretary may modify the regulatory agreement to permit owners and priority purchasers to retain rental income in excess of the basic rental charge in projects assisted under section 236 of the National Housing Act [12 U.S.C. 1715z–1], for the purpose of preserving the low and moderate income character of the housing: *Provided further*, That the Secretary may give priority to funding and processing the following projects provided that the funding is obligated not later than September 15, 1996: (1) projects with approved plans of action to retain the housing that file a modified plan of action no later than August 15, 1996 to transfer the housing; (2) projects with approved plans of action that are subject to a repayment or settlement agreement that was executed between the owner and the Secretary prior to September 1, 1995; (3) projects for which submissions were delayed as a result of their location in areas that were designated as a Federal disaster area in a Presidential Disaster Declaration; and (4) projects whose processing was, in fact, or in practical effect, suspended, deferred, or interrupted for a period of nine months or more because of differing interpretations, by the Secretary and an owner concerning the time of the ability of an uninsured section 236 [12 U.S.C. 1715z–1] property to prepay or by the Secretary and a State or local rent regulatory agency, concerning the effect of a presumptively applicable State or local rent control law or regulation on the determination of preservation value under section 213 of LIHPRHA, as amended [12 U.S.C. 4103], if the owner of such project filed notice of intent to extend the low-income affordability restrictions of the housing, or transfer to a qualified purchaser who would extend such restrictions, on or before November 1, 1993: *Provided further*, That eligible low-income housing shall include properties meeting the requirements of this paragraph with mortgages that are held by a State agency as a result of a sale by the Secretary without insurance, which immediately before the sale would have been eligible low-income housing under LIHPRHA: *Provided further*, That notwithstanding any other provision of law, subject to the availability of appropriated funds, each unassisted low-income family residing in the housing on the date of prepayment or voluntary termination, and whose rent, as a result of a rent increase occurring no later than one year after the date of the prepayment, exceeds 30 percent of adjusted income, shall be offered tenant-based assistance in accordance with section 8 [42 U.S.C. 1437f] or any successor program, under which the family shall pay no less for rent than it paid on such date: *Provided further*, That any family receiving tenant-based assistance under the preceding proviso may elect (1) to remain in the unit of the housing and if the rent exceeds the fair market rent or payment standard, as applicable, the rent shall be deemed to be the applicable standard, so long as the administering public housing agency finds that the rent is reasonable in comparison with rents charged for comparable unassisted housing units in the market or (2) to move from the housing and the rent will be subject to the fair market rent of the payment standard, as applicable, under existing program rules and procedures: *Provided further*, That rents and rent increases for tenants of projects for which plans of action are funded under section 220(d)(3)(B) of LIHPRHA [12 U.S.C. 4110(d)(3)(B)] shall be governed in accordance with the requirements of the program under which the first mortgage is insured or made (sections 236 or 221(d)(3) BMIR [12 U.S.C. 1715z–1, 4111(d)(3)], as appropriate): *Provided further*, That the immediately foregoing proviso shall apply hereafter to projects for which plans of action are to be funded under such section 220(d)(3)(B) [12 U.S.C. 4110(d)(3)(B)], and shall apply to any project that has been funded under such section starting one year after the date that such project was funded: *Provided further*, That up to $10,000,000 of the amount made available by this paragraph may be used at the discretion of the Secretary to reimburse owners of eligible properties for which plans of action were submitted prior to the effective date of this Act [Apr. 26, 1996], but were not executed for lack of available funds, with such reimbursement available only for documented costs directly applicable to the preparation of the plan of action as determined by the Secretary, and shall be made available on terms and conditions to be established by the Secretary: *Provided further*, That, notwithstanding any other provision of law, effective October 1, 1996, the Secretary shall suspend further processing of preservation applications which do not have approved plans of action.”
+Pub. L. 104–134, title I, § 101(e) [title II], Apr. 26, 1996, 110 Stat. 1321–257, 1321–267; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided in part that: “Of the total amount provided under this head, $624,000,000, plus amounts recaptured from interest reduction payment contracts for section 236 [12 U.S.C. 1715z–1] projects whose owners prepay their mortgages during fiscal year 1996 (which amounts shall be transferred and merged with this account), shall be for use in conjunction with properties that are eligible for assistance under the Low Income Housing Preservation and Resident Homeownership Act of 1990 (LIHPRHA) [see Short Title note above] or the Emergency Low-Income Housing Preservation Act of 1987 (ELIHPA) [see Codification note set out preceding this section]: *Provided*, That prior to August 15, 1996, funding to carry out plans of action shall be limited to sales of projects to non-profit organizations, tenant-sponsored organizations, and other priority purchasers: *Provided further*, That of the amount made available by this paragraph, up to $10,000,000 shall be available for preservation technical assistance grants pursuant to section 253 of the Housing and Community Development Act of 1987 [12 U.S.C. 4143], as amended: *Provided further*, That with respect to amounts made available by this paragraph, after August 15, 1996, if the Secretary determines that the demand for funding may exceed amounts available for such funding, the Secretary (1) may determine priorities for distributing available funds, including giving priority funding to tenants displaced due to mortgage prepayment and to projects that have not yet been funded but which have approved plans of action; and (2) may impose a temporary moratorium on applications by potential recipients of such funding: *Provided further*, That an owner of eligible low-income housing may prepay the mortgage or request voluntary termination of a mortgage insurance contract, so long as said owner agrees not to raise rents for sixty days after such prepayment: *Provided further*, That an owner of eligible low-income housing who has not timely filed a second notice under section 216(d) [12 U.S.C. 4106(d)] prior to the effective date of this Act [Apr. 26, 1996] may file such notice by April 15, 1996: *Provided further*, That such developments have been determined to have preservation equity at least equal to the lesser of $5,000 per unit or $500,000 per project or the equivalent of eight times the most recently published fair market rent for the area in which the project is located as the appropriate unit size for all of the units in the eligible project: *Provided further*, That the Secretary may modify the regulatory agreement to permit owners and priority purchasers to retain rental income in excess of the basic rental charge in projects assisted under section 236 of the National Housing Act [12 U.S.C. 1715z–1], for the purpose of preserving the low and moderate income character of the housing: *Provided further*, That the Secretary may give priority to funding and processing the following projects provided that the funding is obligated not later than September 15, 1996: (1) projects with approved plans of action to retain the housing that file a modified plan of action no later than August 15, 1996 to transfer the housing; (2) projects with approved plans of action that are subject to a repayment or settlement agreement that was executed between the owner and the Secretary prior to September 1, 1995; (3) projects for which submissions were delayed as a result of their location in areas that were designated as a Federal disaster area in a Presidential Disaster Declaration; and (4) projects whose processing was, in fact, or in practical effect, suspended, deferred, or interrupted for a period of nine months or more because of differing interpretations, by the Secretary and an owner concerning the time of the ability of an uninsured section 236 [12 U.S.C. 1715z–1] property to prepay or by the Secretary and a State or local rent regulatory agency, concerning the effect of a presumptively applicable State or local rent control law or regulation on the determination of preservation value under section 213 of LIHPRHA, as amended [12 U.S.C. 4103], if the owner of such project filed notice of intent to extend the low-income affordability restrictions of the housing, or transfer to a qualified purchaser who would extend such restrictions, on or before November 1, 1993: *Provided further*, That eligible low-income housing shall include properties meeting the requirements of this paragraph with mortgages that are held by a State agency as a result of a sale by the Secretary without insurance, which immediately before the sale would have been eligible low-income housing under LIHPRHA: *Provided further*, That notwithstanding any other provision of law, subject to the availability of appropriated funds, each unassisted low-income family residing in the housing on the date of prepayment or voluntary termination, and whose rent, as a result of a rent increase occurring no later than one year after the date of the prepayment, exceeds 30 percent of adjusted income, shall be offered tenant-based assistance in accordance with section 8 [42 U.S.C. 1437f] or any successor program, under which the family shall pay no less for rent than it paid on such date: *Provided further*, That any family receiving tenant-based assistance under the preceding proviso may elect (1) to remain in the unit of the housing and if the rent exceeds the fair market rent or payment standard, as applicable, the rent shall be deemed to be the applicable standard, so long as the administering public housing agency finds that the rent is reasonable in comparison with rents charged for comparable unassisted housing units in the market or (2) to move from the housing and the rent will be subject to the fair market rent of the payment standard, as applicable, under existing program rules and procedures: *Provided further*, That rents and rent increases for tenants of projects for which plans of action are funded under section 220(d)(3)(B) of LIHPRHA [12 U.S.C. 4110(d)(3)(B)] shall be governed in accordance with the requirements of the program under which the first mortgage is insured or made (sections 236 or 221(d)(3) BMIR [12 U.S.C. 1715z–1, 4111(d)(3)], as appropriate): *Provided further*, That the immediately foregoing proviso shall apply hereafter to projects for which plans of action are to be funded under such section 220(d)(3)(B) [12 U.S.C. 4110(d)(3)(B)], and shall apply to any project that has been funded under such section starting one year after the date that such project was funded: *Provided further*, That up to $10,000,000 of the amount made available by this paragraph may be used at the discretion of the Secretary to reimburse owners of eligible properties for which plans of action were submitted prior to the effective date of this Act [Apr. 26, 1996], but were not executed for lack of available funds, with such reimbursement available only for documented costs directly applicable to the preparation of the plan of action as determined by the Secretary, and shall be made available on terms and conditions to be established by the Secretary: *Provided further*, That, notwithstanding any other provision of law, effective October 1, 1996, the Secretary shall suspend further processing of preservation applications which do not have approved plans of action.”
 
-For similar provisions see Pub. L. 104–120, § 2(b), Mar. 28, 1996, 110 Stat. 834.
+For similar provisions see Pub. L. 104–120, § 2(b), Mar. 28, 1996, 110 Stat. 834.
 
 **Conditions of Assistance**
 
-Pub. L. 102–550, title III, § 314, Oct. 28, 1992, 106 Stat. 3770, provided that:
+Pub. L. 102–550, title III, § 314, Oct. 28, 1992, 106 Stat. 3770, provided that:
 
 > **“(a) Elihpa of 1987.—** The Secretary may not require, as a condition of eligibility for or receipt of technical assistance made available under the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992 (Public Law 102–139 [105 Stat. 736, see Tables for classification]) (including any phase of a grant), that an applicant participate in a training program sponsored or conducted by the Department of Housing and Urban Development for acquisition of eligible low income housing under the provisions of the Emergency Low Income Housing Preservation Act of 1987 [see Codification note above], and may not provide any preference or priority for such assistance for any applicant based on participation in such a program.
 
@@ -77,7 +77,7 @@ Pub. L. 102–550, title III, § 314, Oct. 28, 1992, 106 Stat. 3770, provided 
 
 **Transition Provisions**
 
-Pub. L. 101–625, title VI, § 604, Nov. 28, 1990, 104 Stat. 4277, as amended by Pub. L. 102–550, title III, § 313, Oct. 28, 1992, 106 Stat. 3769, provided that:
+Pub. L. 101–625, title VI, § 604, Nov. 28, 1990, 104 Stat. 4277, as amended by Pub. L. 102–550, title III, § 313, Oct. 28, 1992, 106 Stat. 3769, provided that:
 
 > **“(a) Housing Eligible for Election.—** Any owner of housing that becomes eligible low-income housing before January 1, 1991 and who, before such date, filed a notice of intent under section 222 of the Emergency Low Income Housing Preservation Act of 1987 [formerly set out in a note under section 1715*l* of this title] (as such section existed before the date of the enactment of this Act [Nov. 28, 1990]) or under section 212 of such Act [12 U.S.C. 4102] (as amended by section 601(a)) may elect to be subject to (1) the provisions of such Act as in effect before the date of the enactment of this Act, or (2) the provisions of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 [see Short Title note above], after the date of the enactment of this Act. The Secretary shall establish procedures for owners to make the election under the preceding sentence. An owner that elects to be subject to the provisions of the Emergency Low Income Housing Preservation Act of 1987 shall comply with section 212(b), section 217(a)(2), and section 217(c) of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 [12 U.S.C. 4102(b) and 4107(a)(2), (c)].
 
@@ -95,7 +95,7 @@ Pub. L. 101–625, title VI, § 604, Nov. 28, 1990, 104 Stat. 4277, as amended
 
 > **“(d) Regulations.—** Not later than the expiration of the 90-day period beginning on the date of the enactment of this Act [Nov. 28, 1990], the Secretary of Housing and Urban Development shall, subject to the provisions of section 553 of title 5, United States Code, publish proposed rules to implement this subtitle and the amendments made by this subtitle. Not later than 45 days after the expiration of the period under the preceding sentence the Secretary shall issue interim or final rules to implement such provisions.”
 
-### § 4102. Notice of intent
+### § 4102. Notice of intent
 
 **(a) Filing with Secretary**
 
@@ -117,9 +117,9 @@ The owner, upon filing a notice of intent under this section, shall simultaneous
 
 The Secretary shall carry out this subsection in a manner consistent with the provisions of section 1701z–11 of this title.
 
-(Pub. L. 100–242, title II, § 212, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249.)
+(Pub. L. 100–242, title II, § 212, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249.)
 
-### § 4103. Appraisal and preservation value of eligible low-income housing
+### § 4103. Appraisal and preservation value of eligible low-income housing
 
 **(a) Appraisal** Upon receiving notice of intent regarding an eligible low-income housing project indicating an intent to extend the low-income affordability restrictions under section 4109 of this title or transfer the housing under section 4110 of this title, the Secretary shall provide for determination of the preservation value of the housing, as follows:
 
@@ -159,7 +159,7 @@ In the case of preservation value determined under subsection (b)(1), the guidel
 
 In the case of preservation value determined under subsection (b)(2), the guidelines shall assume conversion of the housing to highest and best use for the property and shall establish methods for (A) determining any rehabilitation expenditures that would be necessary to convert the housing to such use, and (B) assessing other costs that the owner could reasonably be expected to incur if the owner converted the property to its highest and best use.
 
-(Pub. L. 100–242, title II, § 213, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4250; amended Pub. L. 102–550, title III, § 302, Oct. 28, 1992, 106 Stat. 3763.)
+(Pub. L. 100–242, title II, § 213, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4250; amended Pub. L. 102–550, title III, § 302, Oct. 28, 1992, 106 Stat. 3763.)
 
 **Editorial Notes**
 
@@ -167,7 +167,7 @@ In the case of preservation value determined under subsection (b)(2), the guidel
 
 1992—Subsec. (c). Pub. L. 102–550 inserted “simultaneous termination of any Federal rental assistance,” before “and costs” in first sentence.
 
-### § 4104. Annual authorized return and preservation rents
+### § 4104. Annual authorized return and preservation rents
 
 **(a) Annual authorized return**
 
@@ -217,7 +217,7 @@ Pursuant to an appraisal under section 4103 of this title, the Secretary shall d
 
 Paragraph (3) may not be construed to limit any rent increases resulting from increased operating costs for a project.
 
-(Pub. L. 100–242, title II, § 214, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4251; amended Pub. L. 114–94, div. G, title LXXVII, § 77002, Dec. 4, 2015, 129 Stat. 1790.)
+(Pub. L. 100–242, title II, § 214, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4251; amended Pub. L. 114–94, div. G, title LXXVII, § 77002, Dec. 4, 2015, 129 Stat. 1790.)
 
 **Editorial Notes**
 
@@ -229,9 +229,9 @@ Paragraph (3) may not be construed to limit any rent increases resulting from in
 
 **Implementation**
 
-Pub. L. 114–94, div. G, title LXXVII, § 77003, Dec. 4, 2015, 129 Stat. 1791, provided that: “The Secretary of Housing and Urban Development shall issue any guidance that the Secretary considers necessary to carry out the provisions added by the amendments made by this title [amending this section and section 4112 of this title] not later than the expiration of the 120-day period beginning on the date of the enactment of this Act [Dec. 4, 2015].”
+Pub. L. 114–94, div. G, title LXXVII, § 77003, Dec. 4, 2015, 129 Stat. 1791, provided that: “The Secretary of Housing and Urban Development shall issue any guidance that the Secretary considers necessary to carry out the provisions added by the amendments made by this title [amending this section and section 4112 of this title] not later than the expiration of the 120-day period beginning on the date of the enactment of this Act [Dec. 4, 2015].”
 
-### § 4105. Federal cost limits and limitations on plans of action
+### § 4105. Federal cost limits and limitations on plans of action
 
 **(a) Determination of relationship to Federal cost limits**
 
@@ -263,7 +263,7 @@ For purposes of this subchapter, the aggregate preservation rents shall be consi
 
 **(C)** file a second notice of intent under section 4106(d) of this title indicating an intention to prepay the mortgage or voluntarily terminate the insurance, subject to the mandatory sale provisions under section 4111 of this title.
 
-(Pub. L. 100–242, title II, § 215, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4252; amended Pub. L. 102–550, title III, § 317(a)(1), Oct. 28, 1992, 106 Stat. 3772.)
+(Pub. L. 100–242, title II, § 215, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4252; amended Pub. L. 102–550, title III, § 317(a)(1), Oct. 28, 1992, 106 Stat. 3772.)
 
 **Editorial Notes**
 
@@ -271,7 +271,7 @@ For purposes of this subchapter, the aggregate preservation rents shall be consi
 
 1992—Subsec. (a)(2). Pub. L. 102–550 made technical amendment to reference to section 1437f(c)(1) of title 42 to reflect correction of corresponding provision of original act.
 
-### § 4106. Information from Secretary
+### § 4106. Information from Secretary
 
 **(a) Information to owners terminating affordability restrictions**
 
@@ -313,17 +313,17 @@ A second notice of intent under this subsection shall be submitted not later tha
 
 Upon filing a second notice of intent under this subsection, the owner shall simultaneously file such notice of the intent with the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located and with the mortgagee, and shall inform the tenants of the housing of the filing.
 
-(Pub. L. 100–242, title II, § 216, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4253; amended Pub. L. 102–550, title III, §§ 303, 317(a)(2), Oct. 28, 1992, 106 Stat. 3763, 3772.)
+(Pub. L. 100–242, title II, § 216, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4253; amended Pub. L. 102–550, title III, §§ 303, 317(a)(2), Oct. 28, 1992, 106 Stat. 3763, 3772.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (b)(4). Pub. L. 102–550, § 317(a)(2), substituted “exceed” for “exceeds”.
+1992—Subsec. (b)(4). Pub. L. 102–550, § 317(a)(2), substituted “exceed” for “exceeds”.
 
-Subsec. (d)(3). Pub. L. 102–550, § 303, added par. (3).
+Subsec. (d)(3). Pub. L. 102–550, § 303, added par. (3).
 
-### § 4107. Plan of action
+### § 4107. Plan of action
 
 **(a) Submission to Secretary**
 
@@ -335,7 +335,7 @@ Not later than 6 months after receipt of the information from the Secretary unde
 
 Each owner submitting a plan of action under this section to the Secretary shall also submit a copy to the tenants of the housing. The owner shall simultaneously submit the plan of action to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located. Each owner and the Secretary shall also, upon request, make available to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information. An appropriate agency of such State or local government shall review the plan and advise the tenants of the housing of any programs that are available to assist the tenants in carrying out the purposes of this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(3) Failure to submit**
 
@@ -373,21 +373,21 @@ If the owner does not submit a plan of action to the Secretary within the 6-mont
 
 An owner may from time to time revise and amend the plan of action as may be necessary to obtain approval of the plan under this subchapter. The owner shall submit any revision to the Secretary and to the tenants of the housing and make available to the Secretary and tenants all documentation supporting any revision, but not including any information that the Secretary determines is proprietary information.
 
-(Pub. L. 100–242, title II, § 217, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4254; amended Pub. L. 102–550, title III, § 304, Oct. 28, 1992, 106 Stat. 3763.)
+(Pub. L. 100–242, title II, § 217, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4254; amended Pub. L. 102–550, title III, § 304, Oct. 28, 1992, 106 Stat. 3763.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in subsecs. (a)(2) and (b)(1)(F), (2)(E), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This title, referred to in subsecs. (a)(2) and (b)(1)(F), (2)(E), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 **Amendments**
 
-1992—Subsec. (a)(2). Pub. L. 102–550, § 304(a), inserted after second sentence “Each owner and the Secretary shall also, upon request, make available to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information.”
+1992—Subsec. (a)(2). Pub. L. 102–550, § 304(a), inserted after second sentence “Each owner and the Secretary shall also, upon request, make available to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information.”
 
-Subsec. (c). Pub. L. 102–550, § 304(b), inserted before period at end “and make available to the Secretary and tenants all documentation supporting any revision, but not including any information that the Secretary determines is proprietary information”.
+Subsec. (c). Pub. L. 102–550, § 304(b), inserted before period at end “and make available to the Secretary and tenants all documentation supporting any revision, but not including any information that the Secretary determines is proprietary information”.
 
-### § 4108. Prepayment and voluntary termination
+### § 4108. Prepayment and voluntary termination
 
 **(a) Approval** The Secretary may approve a plan of action that provides for termination of the low-income affordability restrictions through prepayment of the mortgage or voluntary termination of the mortgage insurance contract only upon a written finding that—
 
@@ -419,7 +419,7 @@ The Secretary shall, by regulation, develop (A) a procedure for determining whet
 
 If the Secretary determines a plan of action to prepay a mortgage or terminate an insurance contract fails to meet the requirements of subsection (a), the Secretary shall disapprove the plan, the notice of intent filed under section 4102 of this title by such owner shall not be effective for purposes of this subchapter, and the owner may, in order to receive incentives under this subchapter, file a new notice of intent under such section.
 
-(Pub. L. 100–242, title II, § 218, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4256; amended Pub. L. 102–550, title III, § 305, Oct. 28, 1992, 106 Stat. 3763.)
+(Pub. L. 100–242, title II, § 218, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4256; amended Pub. L. 102–550, title III, § 305, Oct. 28, 1992, 106 Stat. 3763.)
 
 **Editorial Notes**
 
@@ -427,13 +427,13 @@ If the Secretary determines a plan of action to prepay a mortgage or terminate a
 
 1992—Subsecs. (b), (c). Pub. L. 102–550 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-### § 4109. Incentives to extend low-income use
+### § 4109. Incentives to extend low-income use
 
 **(a) Agreements by Secretary**
 
-After approving a plan of action from an owner of eligible low-income housing that includes the owner’s plan to extend the low-income affordability restrictions of the housing, the Secretary shall, subject to the availability of appropriations for such purpose, enter into such agreements as are necessary to enable the owner to receive (for each year after the approval of the plan of action) the annual authorized return for the housing determined under section 4104(a) of this title, pay debt service on the federally-assisted mortgage covering the housing, pay debt service on any loan for rehabilitation of the housing, and meet project operating expenses and establish adequate reserves. The Secretary shall take into account the Federal cost limits under section 4105(a) of this title for the housing when providing incentives under subsections 1
+After approving a plan of action from an owner of eligible low-income housing that includes the owner’s plan to extend the low-income affordability restrictions of the housing, the Secretary shall, subject to the availability of appropriations for such purpose, enter into such agreements as are necessary to enable the owner to receive (for each year after the approval of the plan of action) the annual authorized return for the housing determined under section 4104(a) of this title, pay debt service on the federally-assisted mortgage covering the housing, pay debt service on any loan for rehabilitation of the housing, and meet project operating expenses and establish adequate reserves. The Secretary shall take into account the Federal cost limits under section 4105(a) of this title for the housing when providing incentives under subsections 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (b)(2) and (3) of this section. The Secretary shall take such actions as are necessary to ensure that owners receive the annual authorized return for the housing determined under section 4104(a) of this title during the period in which rent increases are phased in as provided in section 4112(a)(2)(E) of this title, including (in order of preference) (1) allowing the owner access to residual receipt accounts (pursuant to subsection (b)(1) of this section), (2) deferring remittance of excess rent payments, and (3) providing an increase in rents permitted under an existing contract under section 1437f of title 42 (pursuant to subsection (b)(2) of this section).
 
@@ -455,9 +455,9 @@ After approving a plan of action from an owner of eligible low-income housing th
 
 **(6)** In the case of housing defined in section 4119(1)(A)(iii) of this title, redirection of the Interest Reduction Payment subsidies to a second mortgage.
 
-**(7)** Access by the owner to a portion of the preservation equity in the housing through provision of insurance for a second mortgage loan insured under section 1715z–6(f) 2
+**(7)** Access by the owner to a portion of the preservation equity in the housing through provision of insurance for a second mortgage loan insured under section 1715z–6(f) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title or a non-insured mortgage loan approved by the Secretary and the mortgagee.
 
@@ -465,7 +465,7 @@ of this title or a non-insured mortgage loan approved by the Secretary and the m
 
 With respect to any housing with a mortgage insured or otherwise assisted pursuant to section 1715z–1 of this title, the provisions of subsections (f) and (g) of section 1715z–1 of this title notwithstanding, the fair market rental charge for each unit in such housing may be increased in accordance with this subsection, but the owner shall pay to the Secretary all rental charges collected in excess of the basic rental charges, in an amount not greater than the fair market rental charges as such charges would have been established under section 1715z–1(f) of this title absent the requirements of this paragraph.
 
-(Pub. L. 100–242, title II, § 219, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4256; amended Pub. L. 102–550, title III, § 306, Oct. 28, 1992, 106 Stat. 3764.)
+(Pub. L. 100–242, title II, § 219, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4256; amended Pub. L. 102–550, title III, § 306, Oct. 28, 1992, 106 Stat. 3764.)
 
 **Editorial Notes**
 
@@ -483,9 +483,9 @@ Section 1715z–6(f) of this title, referred to in subsec. (b)(7), was repealed 
 
 **Study of Projects Assisted Under Flexible Subsidy Program**
 
-Pub. L. 102–550, title III, § 318, Oct. 28, 1992, 106 Stat. 3772, directed the Secretary to conduct a study of certain housing projects assisted under 12 U.S.C. 1715z–1 or the proviso of 12 U.S.C. 1715*l*(d)(5) and submit a report to the Congress regarding any findings and conclusions of the study not later than the expiration of the 1-year period beginning on Oct. 28, 1992.
+Pub. L. 102–550, title III, § 318, Oct. 28, 1992, 106 Stat. 3772, directed the Secretary to conduct a study of certain housing projects assisted under 12 U.S.C. 1715z–1 or the proviso of 12 U.S.C. 1715*l*(d)(5) and submit a report to the Congress regarding any findings and conclusions of the study not later than the expiration of the 1-year period beginning on Oct. 28, 1992.
 
-### § 4110. Incentives for transfer to qualified purchasers
+### § 4110. Incentives for transfer to qualified purchasers
 
 **(a) In general**
 
@@ -509,7 +509,7 @@ Within 30 days of receipt of an expression of interest by a priority purchaser, 
 
 If no bona fide offer to purchase any eligible low-income housing subject to this section that meets the requirements of subsection (b) is made and accepted during the period under such subsection, during the 3-month period beginning upon the expiration of the 12-month period under subsection (b)(1), the owner of the housing may offer to sell and may sell the housing only to qualified purchasers. The negotiated sale price may not exceed the preservation value of the housing determined under section 4103(b)(2) of this title. The owner or purchaser shall submit a plan of action under section 4107 of this title for any sale under this subsection, which shall include any request for assistance under this section, upon the acceptance of any bona fide offer meeting the requirements of this paragraph.1
 
-<sup>1</sup>  So in original. Probably should be “subsection.”
+<sup>1</sup> So in original. Probably should be “subsection.”
 
 **(d) Assistance**
 
@@ -527,9 +527,9 @@ If the qualified purchaser is a resident council, the Secretary may not approve 
 
 **(D)** meet project operating expenses and establish adequate reserves for the housing, and in the case of a priority purchaser, meet project oversight costs;
 
-**(E)** receive a distribution equal to an 8 percent annual return on any actual cash investment (from sources other than assistance provided under this title 2
+**(E)** receive a distribution equal to an 8 percent annual return on any actual cash investment (from sources other than assistance provided under this title 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 ) made to acquire or rehabilitate the project;
 
@@ -541,37 +541,37 @@ If the qualified purchaser is a resident council, the Secretary may not approve 
 
 **(A) In general**
 
-For all qualified purchasers of housing under this subsection, the Secretary may provide assistance for an approved plan of action in the form of 1 or more of the incentives authorized under section 4109(b) of this title, except that the incentive under such section 4109(b)(7) of this title may include an acquisition loan under section 1715z–6(f) <sup>2</sup> of this title.
+For all qualified purchasers of housing under this subsection, the Secretary may provide assistance for an approved plan of action in the form of 1 or more of the incentives authorized under section 4109(b) of this title, except that the incentive under such section 4109(b)(7) of this title may include an acquisition loan under section 1715z–6(f) <sup>2</sup> of this title.
 
 **(B) Priority purchasers**
 
 Where the qualified purchaser is a priority purchaser, the Secretary may provide assistance for an approved plan of action (in the form of a grant) for each unit in the housing in an amount, as determined by the Secretary, that does not exceed the present value of the total of the projected published fair market rentals for existing housing (established by the Secretary under section 1437f(c) of title 42) for the next 10 years (or such longer period if additional assistance is necessary to cover the costs referred to in paragraph (2)).
 
-(Pub. L. 100–242, title II, § 220, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4257; amended Pub. L. 102–550, title III, § 307, Oct. 28, 1992, 106 Stat. 3764.)
+(Pub. L. 100–242, title II, § 220, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4257; amended Pub. L. 102–550, title III, § 307, Oct. 28, 1992, 106 Stat. 3764.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in subsec. (d)(2)(E), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This title, referred to in subsec. (d)(2)(E), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 Section 1715z–6(f) of this title, referred to in subsec. (d)(3)(A), was repealed by Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2885.
 
 **Amendments**
 
-1992—Subsec. (d)(2). Pub. L. 102–550, § 307(a), inserted “(including all priority purchasers other than resident councils acquiring under the homeownership program authorized by section 4116 of this title)” after “purchasers”.
+1992—Subsec. (d)(2). Pub. L. 102–550, § 307(a), inserted “(including all priority purchasers other than resident councils acquiring under the homeownership program authorized by section 4116 of this title)” after “purchasers”.
 
-Subsec. (d)(2)(D). Pub. L. 102–550, § 307(b), inserted before semicolon at end “, and in the case of a priority purchaser, meet project oversight costs”.
+Subsec. (d)(2)(D). Pub. L. 102–550, § 307(b), inserted before semicolon at end “, and in the case of a priority purchaser, meet project oversight costs”.
 
-Subsec. (d)(2)(E), (F). Pub. L. 102–550, § 307(c), (d), amended subpars. (E) and (F) generally. Prior to amendment, subpars. (E) and (F) read as follows:
+Subsec. (d)(2)(E), (F). Pub. L. 102–550, § 307(c), (d), amended subpars. (E) and (F) generally. Prior to amendment, subpars. (E) and (F) read as follows:
 
 “(E) receive an adequate return (as determined by the Secretary) on any actual cash investment made to acquire the project;
 
 “(F) in the case of a priority purchaser, receive an adequate reimbursement for transaction expenses relating to acquisition of the housing, subject to approval by the Secretary; and”.
 
-Subsec. (d)(3)(A). Pub. L. 102–550, § 307(e), struck out “any residual receipts for the housing transfered [sic] to the selling owner shall be deducted from the sale price of the housing under subsection (b) or (c) of this section and” after “except that”.
+Subsec. (d)(3)(A). Pub. L. 102–550, § 307(e), struck out “any residual receipts for the housing transfered [sic] to the selling owner shall be deducted from the sale price of the housing under subsection (b) or (c) of this section and” after “except that”.
 
-### § 4111. Mandatory sale for housing exceeding Federal cost limits
+### § 4111. Mandatory sale for housing exceeding Federal cost limits
 
 **(a) In general**
 
@@ -609,7 +609,7 @@ From amounts made available under section 4124(b) of this title, the Secretary m
 
 The Secretary shall assist any qualified purchaser of such housing in securing funding and other assistance (including tax and assessment reductions) from State and local governments to facilitate a sale under this section.
 
-(Pub. L. 100–242, title II, § 221, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4259; amended Pub. L. 102–550, title III, § 317(a)(3), Oct. 28, 1992, 106 Stat. 3772.)
+(Pub. L. 100–242, title II, § 221, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4259; amended Pub. L. 102–550, title III, § 317(a)(3), Oct. 28, 1992, 106 Stat. 3772.)
 
 **Editorial Notes**
 
@@ -617,13 +617,13 @@ The Secretary shall assist any qualified purchaser of such housing in securing f
 
 1992—Subsec. (c). Pub. L. 102–550 substituted “than” for “that” before “the preservation”.
 
-### § 4112. Criteria for approval of plan of action involving incentives
+### § 4112. Criteria for approval of plan of action involving incentives
 
 **(a) In general** The Secretary may approve a plan of action for extension of the low-income affordability restrictions on any eligible low-income housing or transfer the housing to a qualified purchaser (other than a resident council) only upon finding that—
 
-**(1)** due diligence has been given to ensuring that the package of incentives is, for the Federal Government, the least costly alternative that is consistent with the full achievement of the purposes of this title; 1
+**(1)** due diligence has been given to ensuring that the package of incentives is, for the Federal Government, the least costly alternative that is consistent with the full achievement of the purposes of this title; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** binding commitments have been made to ensure that—
 
@@ -643,9 +643,9 @@ The Secretary shall assist any qualified purchaser of such housing in securing f
 
 **(II)** shall be limited to not more than 10 percent per year if such increase is more than 10 percent but less than 30 percent; and
 
-**(ii)** assistance under section 1437f of title 42 shall be provided, to the extent available under appropriation Acts, if necessary to mitigate any adverse effect on current income-eligible very low- and low-income tenants; and 2
+**(ii)** assistance under section 1437f of title 42 shall be provided, to the extent available under appropriation Acts, if necessary to mitigate any adverse effect on current income-eligible very low- and low-income tenants; and 2
 
-<sup>2</sup>  So in original. The word “and” probably should not appear.
+<sup>2</sup> So in original. The word “and” probably should not appear.
 
 **(F)**
 
@@ -695,7 +695,7 @@ The Secretary shall, by regulation, establish standards regarding the physical c
 
 **(A) In general** The Secretary shall take any action appropriate to require the owner of any housing not in compliance with such standards to bring such housing into compliance with the standards, including—
 
-**(i)** directing the mortgagee, with respect to an equity take-out loan under section 1715z–6(f) <sup>1</sup> of this title, to withhold the disbursement to the owner of any escrowed loan proceeds and requiring that such proceeds be used for repair of the housing; and
+**(i)** directing the mortgagee, with respect to an equity take-out loan under section 1715z–6(f) <sup>1</sup> of this title, to withhold the disbursement to the owner of any escrowed loan proceeds and requiring that such proceeds be used for repair of the housing; and
 
 **(ii)** reduce the amount of the annual authorized return, as determined by the Secretary, for the period ending upon a determination by the Secretary that the project is in compliance with the standards and requiring that such amounts be used for repair.
 
@@ -707,7 +707,7 @@ To ensure continued compliance with the standards for a project subject to any a
 
 **(i)** Subject to availability of amounts provided in appropriations Acts, provide assistance under sections 1437f(b) and 1437f(*o*) of title 42 (other than project-based assistance attached to the housing) for any tenant eligible for such assistance who desires to terminate occupancy in the housing. For each unit in the housing vacated pursuant to the provision of assistance under this clause, the Secretary may, notwithstanding any other law or contract for assistance, cancel the provision of project-based assistance attached to the housing for 1 dwelling unit, if the housing is receiving such assistance.
 
-**(ii)** In the case of housing for which an equity take-out loan has been made under section 1715z–6(f) <sup>1</sup> of this title, declare such loan to be in default and accelerate the maturity date of the loan.
+**(ii)** In the case of housing for which an equity take-out loan has been made under section 1715z–6(f) <sup>1</sup> of this title, declare such loan to be in default and accelerate the maturity date of the loan.
 
 **(iii)** Declare any rehabilitation loan insured or provided by the Secretary (with respect to the housing) to be in default and accelerate the maturity date of the loan.
 
@@ -731,13 +731,13 @@ To ensure continued compliance with the standards for a project subject to any a
 
 **(C)** if the owner has an existing multi-year project-based rental assistance contract for less than 20 years, have the option to extend the contract to a 20-year term.
 
-(Pub. L. 100–242, title II, § 222, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4260; amended Pub. L. 102–550, title III, §§ 308, 317(a)(4), Oct. 28, 1992, 106 Stat. 3764, 3772; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316; Pub. L. 114–94, div. G, title LXXVII, § 77001, Dec. 4, 2015, 129 Stat. 1790.)
+(Pub. L. 100–242, title II, § 222, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4260; amended Pub. L. 102–550, title III, §§ 308, 317(a)(4), Oct. 28, 1992, 106 Stat. 3764, 3772; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316; Pub. L. 114–94, div. G, title LXXVII, § 77001, Dec. 4, 2015, 129 Stat. 1790.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in subsecs. (a)(1) and (c)(1), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This title, referred to in subsecs. (a)(1) and (c)(1), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 Section 1715z–6(f) of this title, referred to in subsec. (d)(2)(A)(i), (C)(ii), was repealed by Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2885.
 
@@ -757,7 +757,7 @@ Amendment by Pub. L. 103–327 is based on section 601(a)–(d) of title VI of S
 
 except that the rent contributions of tenants (other than tenants receiving assistance under section 1437f of title 42) occupying the housing at the time of any increase may not be reduced under this subparagraph.” See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (a)(2)(E)(ii). Pub. L. 103–327, which directed the temporary amendment of par. (1)(E)(ii) by substituting a period for “; and” and inserting at end “For any section 8 assistance provided under this subchapter, whether through the extension of an existing contract or the provision of a new contract for assistance, the Secretary shall have the discretion to adjust contract rents within the limits established under section 4105 of this title, irrespective of the comparable rent requirements set forth in section 1437f(c) of title 42. Notwithstanding any provision of law to the contrary, any conflict pertaining to the computation of contract rents arising from differences between this subchapter and section 1437f of title 42 shall, subject to the prior approval of the Secretary, be resolved in favor of this subchapter; and”, was executed by making the amendments to par. (2)(E)(ii) to reflect the probable intent of Congress. See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (a)(2)(E)(ii). Pub. L. 103–327, which directed the temporary amendment of par. (1)(E)(ii) by substituting a period for “; and” and inserting at end “For any section 8 assistance provided under this subchapter, whether through the extension of an existing contract or the provision of a new contract for assistance, the Secretary shall have the discretion to adjust contract rents within the limits established under section 4105 of this title, irrespective of the comparable rent requirements set forth in section 1437f(c) of title 42. Notwithstanding any provision of law to the contrary, any conflict pertaining to the computation of contract rents arising from differences between this subchapter and section 1437f of title 42 shall, subject to the prior approval of the Secretary, be resolved in favor of this subchapter; and”, was executed by making the amendments to par. (2)(E)(ii) to reflect the probable intent of Congress. See Effective and Termination Dates of 1994 Amendment note below.
 
 Subsec. (a)(2)(E)(iii). Pub. L. 103–327 temporarily added cl. (iii) which read as follows:
 
@@ -773,17 +773,17 @@ Subject to subclause (II), payment of this minimum rent shall be a condition of 
 
 Subsec. (a)(2)(F). Pub. L. 103–327, which directed the temporary amendment of par. (1)(F) by substituting “to the extent practicable, the units becoming available to new tenants shall be” for “rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be” in cl. (i), adding cl. (ii), and redesignating former cl. (ii) as (iii), was executed by making the amendments to par. (2)(F) to reflect the probable intent of Congress. Cl. (ii) read as follows: “in order to maintain the proportions of very low- and low-income families and persons required by clause (i), owners shall be required to apply any required Federal preference rules only with respect to tenants within each low- or very low-income category, in accordance with the approved tenant profile; and”. See Effective and Termination Dates of 1994 Amendment note below.
 
-1992—Subsec. (a)(2)(A). Pub. L. 102–550, § 317(a)(4)(A), substituted “low-income” for “low income” after “families or persons,”.
+1992—Subsec. (a)(2)(A). Pub. L. 102–550, § 317(a)(4)(A), substituted “low-income” for “low income” after “families or persons,”.
 
-Subsec. (a)(2)(G)(i). Pub. L. 102–550, § 308(b), substituted “, where the owner is a priority purchaser, to the portion of rent attributable to project oversight costs” for “by making changes in the annual authorized return under section 4104 of this title”.
+Subsec. (a)(2)(G)(i). Pub. L. 102–550, § 308(b), substituted “, where the owner is a priority purchaser, to the portion of rent attributable to project oversight costs” for “by making changes in the annual authorized return under section 4104 of this title”.
 
-Subsec. (c)(2). Pub. L. 102–550, § 317(a)(4)(B), substituted “a hearing” for “an hearing”.
+Subsec. (c)(2). Pub. L. 102–550, § 317(a)(4)(B), substituted “a hearing” for “an hearing”.
 
-Subsec. (d)(2)(B). Pub. L. 102–550, § 317(a)(4)(C), inserted “the” after “that”.
+Subsec. (d)(2)(B). Pub. L. 102–550, § 317(a)(4)(C), inserted “the” after “that”.
 
-Subsec. (d)(2)(C)(ii). Pub. L. 102–550, § 317(a)(4)(D), substituted “in default” for “default”.
+Subsec. (d)(2)(C)(ii). Pub. L. 102–550, § 317(a)(4)(D), substituted “in default” for “default”.
 
-Subsec. (e). Pub. L. 102–550, § 308(a), struck out subsec. (e) which read as follows: “(e) Windfall Profits.—The Secretary shall submit a report to the Congress not later than 90 days after November 28, 1990, evaluating the availability, quality, and reliability of data to measure the accessibility of decent, affordable housing in all areas where properties are eligible to submit a notice of intent to prepay under section 4102 of this title. To prevent payment of windfall profits, the Secretary may make available incentive payments under section 4109 or 4110 of this title only to owners in those rental markets where there is an inadequate supply of decent, affordable housing, if the Secretary determines that adequate data can be obtained to permit objective and fair implementation or where necessary to accomplish the other public policy objectives under this chapter. The Secretary shall implement this subsection in a manner consistent with the process established by this chapter.”
+Subsec. (e). Pub. L. 102–550, § 308(a), struck out subsec. (e) which read as follows: “(e) Windfall Profits.—The Secretary shall submit a report to the Congress not later than 90 days after November 28, 1990, evaluating the availability, quality, and reliability of data to measure the accessibility of decent, affordable housing in all areas where properties are eligible to submit a notice of intent to prepay under section 4102 of this title. To prevent payment of windfall profits, the Secretary may make available incentive payments under section 4109 or 4110 of this title only to owners in those rental markets where there is an inadequate supply of decent, affordable housing, if the Secretary determines that adequate data can be obtained to permit objective and fair implementation or where necessary to accomplish the other public policy objectives under this chapter. The Secretary shall implement this subsection in a manner consistent with the process established by this chapter.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -791,19 +791,19 @@ Subsec. (e). Pub. L. 102–550, § 308(a), struck out subsec. (e) which read a
 
 Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316, provided in part that: “Section 601 [amending this section and section 4119 of this title and enacting provisions set out below] of title VI of S. 2281 (103d Cong., 2d Sess[.]), as reported to the Senate on July 13 (legislative day, July 11), 1994 (S. Rep. 103–307), is hereby incorporated into this Act [Pub. L. 103–327], and such section 601 is deemed enacted into law upon enactment of this Act [Sept. 28, 1994]: *Provided*, That the provisions of such section 601 shall be effective only during fiscal year 1995.”
 
-Section 601(f) of title VI of S. 2281, One-Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327, title II [title VI, § 601(f)], Sept. 28, 1994, 108 Stat. 2316, provided in part, that:
+Section 601(f) of title VI of S. 2281, One-Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327, title II [title VI, § 601(f)], Sept. 28, 1994, 108 Stat. 2316, provided in part, that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), this section [amending this section and section 4119 of this title] shall take effect on the date of enactment of this Act [Sept. 28, 1994].
 
 > **“(2) Exception.—** If an owner of eligible low-income housing has a plan of action that has been approved by the Secretary and that is being implemented as of the date of enactment of this Act [Sept. 28, 1994], subsections (a), (b), (c), and (d) [amending this section] shall not apply to current tenants of such housing until the first date on which the next annual rent adjustments are made following the date of enactment of this Act.”
 
-### § 4113. Assistance for displaced tenants
+### § 4113. Assistance for displaced tenants
 
 **(a) Section 1437f assistance**
 
-Each low-income family that is displaced as a result of the prepayment of the mortgage or voluntary termination of an insurance contract on eligible low income housing shall, subject to the availability or 1
+Each low-income family that is displaced as a result of the prepayment of the mortgage or voluntary termination of an insurance contract on eligible low income housing shall, subject to the availability or 1
 
-<sup>1</sup>  So in original. Probably should be “of”.
+<sup>1</sup> So in original. Probably should be “of”.
 
 amounts provided under appropriations Acts, receive tenant-based assistance under section 1437f of title 42. To the extent sufficient amounts are made available under appropriations Acts, in each fiscal year the Secretary shall reserve from amounts made available under section 4124(a) of this title or, if necessary, under section 1437c(c) of title 42, such amounts as the Secretary determines are necessary to provide assistance payments for low-income families displaced during the fiscal year.
 
@@ -851,7 +851,7 @@ In lieu of benefits under subsections (b), (c), and (d), and subject to the avai
 
 **(B)** residing in eligible low-income housing on the date of the prepayment of the mortgage or voluntary termination of the insurance contract.
 
-(Pub. L. 100–242, title II, § 223, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4264; amended Pub. L. 105–276, title V, § 550(d), Oct. 21, 1998, 112 Stat. 2610; Pub. L. 106–74, title V, § 538(c), Oct. 20, 1999, 113 Stat. 1123.)
+(Pub. L. 100–242, title II, § 223, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4264; amended Pub. L. 105–276, title V, § 550(d), Oct. 21, 1998, 112 Stat. 2610; Pub. L. 106–74, title V, § 538(c), Oct. 20, 1999, 113 Stat. 1123.)
 
 **Editorial Notes**
 
@@ -867,7 +867,7 @@ In lieu of benefits under subsections (b), (c), and (d), and subject to the avai
 
 Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of Title 42, The Public Health and Welfare.
 
-### § 4114. Permissible prepayment or voluntary termination and modification of commitments
+### § 4114. Permissible prepayment or voluntary termination and modification of commitments
 
 **(a) In general** Notwithstanding any limitations on prepayment or voluntary termination under this subchapter, an owner may terminate the low-income affordability restrictions through prepayment or voluntary termination, subject to compliance with the provisions of section 4113 of this title, under one of the following circumstances:
 
@@ -895,9 +895,9 @@ Permit the owner to prepay the mortgage and terminate the plan of action and any
 
 At least 30 days before making a request under this subsection, an owner shall notify the Secretary of the owner’s intention to submit the request. The Secretary shall have a period of 90 days following receipt of such notice to take action to extend the rental assistance contract and to continue the binding commitments under section 4112(a)(2) of this title.
 
-(Pub. L. 100–242, title II, § 224, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4265.)
+(Pub. L. 100–242, title II, § 224, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4265.)
 
-### § 4115. Timetable for approval of plan of action
+### § 4115. Timetable for approval of plan of action
 
 **(a) Notification of deficiencies**
 
@@ -919,9 +919,9 @@ The Secretary shall subsequently give the owner a reasonable opportunity to revi
 
 If the Secretary does not approve a plan of action within the period under subsection (b), the Secretary shall provide incentives and assistance under this subchapter in the amount that the owner would have received if the Secretary had complied with such time limitations. The preceding sentence shall not apply if the plan of action was not approved because of deficiencies. An owner may bring an action in the appropriate Federal district court to enforce this subsection.
 
-(Pub. L. 100–242, title II, § 225, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4266.)
+(Pub. L. 100–242, title II, § 225, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4266.)
 
-### § 4116. Resident homeownership program
+### § 4116. Resident homeownership program
 
 **(a) Formation of resident council**
 
@@ -1037,7 +1037,7 @@ The Comptroller General of the United States, or any of the duly authorized repr
 
 Any entity that assumes a mortgage covering low-income housing in connection with the acquisition of the housing from an owner under this section must comply with any low-income affordability restrictions for the remaining useful life of the housing as determined under section 4112(c) of this title.
 
-(Pub. L. 100–242, title II, § 226, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4267; amended Pub. L. 102–550, title III, § 309, Oct. 28, 1992, 106 Stat. 3765; Pub. L. 105–276, title V, § 514(b)(2)(A), Oct. 21, 1998, 112 Stat. 2548.)
+(Pub. L. 100–242, title II, § 226, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4267; amended Pub. L. 102–550, title III, § 309, Oct. 28, 1992, 106 Stat. 3765; Pub. L. 105–276, title V, § 514(b)(2)(A), Oct. 21, 1998, 112 Stat. 2548.)
 
 **Editorial Notes**
 
@@ -1045,15 +1045,15 @@ Any entity that assumes a mortgage covering low-income housing in connection wit
 
 1998—Subsec. (b)(6)(B). Pub. L. 105–276, which directed the substitution of “Any system for preferences established under section 1437f(d)(1)(A) or 1437f(*o*)(6)(A)” for “The requirement for giving preferences to certain categories of eligible families under sections 1437f(d)(1)(A) and 1437f(*o*)(3)” in second sentence, was executed by making the substitution for text which included the word “preference” rather than “preferences” to reflect the probable intent of Congress.
 
-1992—Subsec. (b)(2). Pub. L. 102–550, § 309(1), inserted “and limitation on conditions of approval” in heading and inserted at end of text “The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing.”
+1992—Subsec. (b)(2). Pub. L. 102–550, § 309(1), inserted “and limitation on conditions of approval” in heading and inserted at end of text “The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing.”
 
-Subsec. (b)(3)(E). Pub. L. 102–550, § 309(2), added subpar. (E).
+Subsec. (b)(3)(E). Pub. L. 102–550, § 309(2), added subpar. (E).
 
-Subsec. (b)(8). Pub. L. 102–550, § 309(3), substituted “Except in the case of limited equity cooperatives, resident” for “Resident”.
+Subsec. (b)(8). Pub. L. 102–550, § 309(3), substituted “Except in the case of limited equity cooperatives, resident” for “Resident”.
 
-Subsec. (b)(10). Pub. L. 102–550, § 309(4), struck out “, as determined by the Secretary,” after “entity that assumes”, substituted “4112(c)” for “4112(d)”, and struck out at end “This requirement shall only apply to an entity, such as a cooperative association, that, as determined by the Secretary, intends to own the housing on a permanent basis.”
+Subsec. (b)(10). Pub. L. 102–550, § 309(4), struck out “, as determined by the Secretary,” after “entity that assumes”, substituted “4112(c)” for “4112(d)”, and struck out at end “This requirement shall only apply to an entity, such as a cooperative association, that, as determined by the Secretary, intends to own the housing on a permanent basis.”
 
-### § 4117. Delegated responsibility to State agencies
+### § 4117. Delegated responsibility to State agencies
 
 **(a) In general**
 
@@ -1079,31 +1079,31 @@ In addition to any responsibilities delegated under section 4103(c) of this titl
 
 The Secretary may enter into any agreements necessary to implement an approved State preservation plan, which may include incentives that are authorized under other provisions of this subchapter.
 
-(Pub. L. 100–242, title II, § 227, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4270.)
+(Pub. L. 100–242, title II, § 227, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4270.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 102–550, title III, § 315, Oct. 28, 1992, 106 Stat. 3770, provided that: “The Secretary of Housing and Urban Development shall issue interim regulations implementing section 227 of the Housing and Community Development Act of 1987 (as amended by section 601(a) of the Cranston-Gonzalez National Affordable Housing Act) [12 U.S.C. 4117] not later than the expiration of the 30-day period beginning on the date of the enactment of this Act [Oct. 28, 1992], which shall take effect upon issuance. The Secretary shall issue final regulations implementing such section 227 after notice and opportunity for public comment regarding the interim regulations, pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment shall not be less than 60 days, and the final regulations shall be issued not later than the expiration of the 60-day period beginning upon the conclusion of the comment period and shall take effect upon issuance.”
+Pub. L. 102–550, title III, § 315, Oct. 28, 1992, 106 Stat. 3770, provided that: “The Secretary of Housing and Urban Development shall issue interim regulations implementing section 227 of the Housing and Community Development Act of 1987 (as amended by section 601(a) of the Cranston-Gonzalez National Affordable Housing Act) [12 U.S.C. 4117] not later than the expiration of the 30-day period beginning on the date of the enactment of this Act [Oct. 28, 1992], which shall take effect upon issuance. The Secretary shall issue final regulations implementing such section 227 after notice and opportunity for public comment regarding the interim regulations, pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment shall not be less than 60 days, and the final regulations shall be issued not later than the expiration of the 60-day period beginning upon the conclusion of the comment period and shall take effect upon issuance.”
 
-### § 4118. Consultations with other interested parties
+### § 4118. Consultations with other interested parties
 
-The Secretary shall confer with any appropriate State or local government agency to confirm any State or local assistance that is available to achieve the purposes of this title 1
+The Secretary shall confer with any appropriate State or local government agency to confirm any State or local assistance that is available to achieve the purposes of this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and shall give consideration to the views of any such agency when making determinations under this subchapter. The Secretary shall also confer with appropriate interested parties that the Secretary believes could assist in the development of a plan of action that best achieves the purposes of this subchapter.
 
-(Pub. L. 100–242, title II, § 228, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4271.)
+(Pub. L. 100–242, title II, § 228, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4271.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in text, means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This title, referred to in text, means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-### § 4119. Definitions
+### § 4119. Definitions
 
 For purposes of this subchapter:
 
@@ -1149,13 +1149,13 @@ For purposes of this subchapter:
 
 **(ii)** any debt secured by the property; and
 
-**(B)** for purposes of determining incentives under section 1
+**(B)** for purposes of determining incentives under section 1
 
-<sup>1</sup>  So in original. Probably should be “sections”.
+<sup>1</sup> So in original. Probably should be “sections”.
 
-4110 and 4111 of this title and determining the amount of an acquisition loan under the provisions of section 1715z–6(f)(3) 2
+4110 and 4111 of this title and determining the amount of an acquisition loan under the provisions of section 1715z–6(f)(3) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title—
 
@@ -1175,7 +1175,7 @@ of this title—
 
 **(C)** has a democratically elected governing board, elected by the residents of the housing.
 
-(Pub. L. 100–242, title II, § 229, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4271; amended Pub. L. 102–550, title III, §§ 310, 317(a)(5), Oct. 28, 1992, 106 Stat. 3765, 3772; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316.)
+(Pub. L. 100–242, title II, § 229, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4271; amended Pub. L. 102–550, title III, §§ 310, 317(a)(5), Oct. 28, 1992, 106 Stat. 3765, 3772; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316.)
 
 **Editorial Notes**
 
@@ -1195,9 +1195,9 @@ Amendment by Pub. L. 103–327 is based on section 601(e) of title VI of S. 2281
 
 “(B) The term ‘very low-income tenants’ means families or persons with incomes that are less than or equal to 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size).” See Effective and Termination Dates of 1994 Amendment note below.
 
-1992—Par. (1)(A)(i). Pub. L. 102–550, § 310, substituted “receiving loan management assistance under section 1437f of title 42 due to a conversion from section 1701s of this title” for “assisted under section 1701s of this title or section 1437f of title 42”.
+1992—Par. (1)(A)(i). Pub. L. 102–550, § 310, substituted “receiving loan management assistance under section 1437f of title 42 due to a conversion from section 1701s of this title” for “assisted under section 1701s of this title or section 1437f of title 42”.
 
-Par. (11)(A). Pub. L. 102–550, § 317(a)(5), substituted “residents” for “resident”.
+Par. (11)(A). Pub. L. 102–550, § 317(a)(5), substituted “residents” for “resident”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1205,23 +1205,23 @@ Par. (11)(A). Pub. L. 102–550, § 317(a)(5), substituted “residents” for
 
 Amendment by Pub. L. 103–327 effective only during fiscal year 1995, see provision of title II of Pub. L. 103–327 set out as a note under section 4112 of this title.
 
-### § 4120. Notice to tenants
+### § 4120. Notice to tenants
 
 Where a provision of this subchapter requires that information or material be given to tenants of the housing, the requirement may be met by (1) posting a copy of the information or material in readily accessible locations within each affected building, or posting notices in each such location describing the information or material and specifying a location, as convenient to the tenants as is reasonably practical, where a copy may be examined, and (2) supplying a copy of the information or material to a representative of the tenants.
 
-(Pub. L. 100–242, title II, § 230, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4273.)
+(Pub. L. 100–242, title II, § 230, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4273.)
 
-### § 4121. Definitions of qualified and priority purchaser and related party rule
+### § 4121. Definitions of qualified and priority purchaser and related party rule
 
 **(a) Priority purchaser**
 
-The term “priority purchaser” means (A) a resident council organized to acquire the housing in accordance with a resident homeownership program that meets the requirements of section 4121 1
+The term “priority purchaser” means (A) a resident council organized to acquire the housing in accordance with a resident homeownership program that meets the requirements of section 4121 1
 
-<sup>1</sup>  So in original. Probably should be section “4116”.
+<sup>1</sup> So in original. Probably should be section “4116”.
 
-of this title; and (B) any nonprofit organization or State or local agency that agrees to maintain low-income affordability restrictions for the remaining useful life of the housing (as determined under section 4112(d) 2
+of this title; and (B) any nonprofit organization or State or local agency that agrees to maintain low-income affordability restrictions for the remaining useful life of the housing (as determined under section 4112(d) 2
 
-<sup>2</sup>  So in original. Probably should be section “4112(c)”.
+<sup>2</sup> So in original. Probably should be section “4112(c)”.
 
 of this title).
 
@@ -1237,7 +1237,7 @@ Except as provided in subsection (d), the terms “qualified purchaser” and �
 
 A qualified purchaser shall not be precluded from retaining as a property management entity a company that is owned or controlled by the selling owner or a principal thereof if retention of the management company is neither a condition of sale nor part of consideration paid for sale and the property management contract is negotiated by the qualified purchaser on an arm’s length basis.
 
-(Pub. L. 100–242, title II, § 231, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4273; amended Pub. L. 102–550, title III, § 317(a)(6), Oct. 28, 1992, 106 Stat. 3772.)
+(Pub. L. 100–242, title II, § 231, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4273; amended Pub. L. 102–550, title III, § 317(a)(6), Oct. 28, 1992, 106 Stat. 3772.)
 
 **Editorial Notes**
 
@@ -1245,7 +1245,7 @@ A qualified purchaser shall not be precluded from retaining as a property manage
 
 1992—Subsec. (b). Pub. L. 102–550 substituted “4112(c)” for “4112(d)”.
 
-### § 4122. Preemption of State and local laws
+### § 4122. Preemption of State and local laws
 
 **(a) In general** No State or political subdivision of a State may establish, continue in effect, or enforce any law or regulation that—
 
@@ -1263,19 +1263,19 @@ Any law, regulation, or restriction described under paragraph (1), (2), (3), or 
 
 This section shall not prevent the establishment, continuing in effect, or enforcement of any law or regulation of any State or political subdivision of a State not inconsistent with the provisions of this subchapter, such as any law or regulation relating to building standards, zoning limitations, health, safety, or habitability standards for housing, rent control, or conversion of rental housing to condominium or cooperative ownership, to the extent such law or regulation is of general applicability to both housing receiving Federal assistance and nonassisted housing. This section shall not preempt, annul, or alter any contractual restrictions or obligations existing before November 28, 1990, that prevent or limit an owner of eligible low-income housing from prepaying the mortgage on the housing (or terminating the insurance contract on the housing).
 
-(Pub. L. 100–242, title II, § 232, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4273; amended Pub. L. 102–550, title III, § 311, Oct. 28, 1992, 106 Stat. 3765.)
+(Pub. L. 100–242, title II, § 232, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4273; amended Pub. L. 102–550, title III, § 311, Oct. 28, 1992, 106 Stat. 3765.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (b). Pub. L. 102–550 substituted “, such as any law or regulation” for “and” after “subchapter”.
+1992—Subsec. (b). Pub. L. 102–550 substituted “, such as any law or regulation” for “and” after “subchapter”.
 
-### § 4123. Severability
+### § 4123. Severability
 
 If any provision of this subchapter, or the application of such provision with respect to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to any other person or circumstance, shall not be affected by such holding.
 
-(Pub. L. 100–242, title II, § 233, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4274.)
+(Pub. L. 100–242, title II, § 233, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4274.)
 
 **Editorial Notes**
 
@@ -1283,7 +1283,7 @@ If any provision of this subchapter, or the application of such provision with r
 
 This Act, referred to in text, is Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1815, known as the Housing and Community Development Act of 1987. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
-### § 4124. Authorization of appropriations
+### § 4124. Authorization of appropriations
 
 **(a) In general**
 
@@ -1293,7 +1293,7 @@ There are authorized to be appropriated for assistance and incentives authorized
 
 Subject to approval in appropriation Acts, not more than $50,000,000 of the amounts made available under subsection (a) for fiscal year 1993, and not more than $50,000,000 of the amounts made available under subsection (a) for fiscal year 1994, shall be available for grants under section 4111(d)(2) of this title.
 
-(Pub. L. 100–242, title II, § 234, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4274; amended Pub. L. 102–550, title III, § 301, Oct. 28, 1992, 106 Stat. 3762.)
+(Pub. L. 100–242, title II, § 234, as added Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4274; amended Pub. L. 102–550, title III, § 301, Oct. 28, 1992, 106 Stat. 3762.)
 
 **Editorial Notes**
 
@@ -1305,7 +1305,7 @@ Subject to approval in appropriation Acts, not more than $50,000,000 of the amou
 
 “(b) Grants.—Of the amounts made available under subsection (a) of this section, not more than $100,000,000 for each of fiscal years 1991 and 1992 shall be available for grants under section 4111(d)(2) of this title, subject to approval in appropriations Acts.”
 
-### § 4125. State preservation project assistance
+### § 4125. State preservation project assistance
 
 **(1) In general**
 
@@ -1319,13 +1319,13 @@ Any assistance under section 1437f of title 42 made available pursuant to this s
 
 Assistance may be provided under this section only to State and local housing authorities that require any housing receiving such assistance to remain affordable for lower and moderate income tenants for the period during which assistance under this section is received.
 
-(Pub. L. 101–625, title VI, § 613(b), Nov. 28, 1990, 104 Stat. 4280; Pub. L. 102–550, title III, § 317(b), Oct. 28, 1992, 106 Stat. 3772.)
+(Pub. L. 101–625, title VI, § 613(b), Nov. 28, 1990, 104 Stat. 4280; Pub. L. 102–550, title III, § 317(b), Oct. 28, 1992, 106 Stat. 3772.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Housing and Community Development Act of 1987, referred to in pars. (1) and (2), is Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1815. Subtitle B of title II of the Act is classified generally to this subchapter (§ 4101 et seq.). For complete classification of this Act to the Code, see Short Title of 1988 Amendment note under section 5301 of Title 42, The Public Health and Welfare, and Tables.
+The Housing and Community Development Act of 1987, referred to in pars. (1) and (2), is Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1815. Subtitle B of title II of the Act is classified generally to this subchapter (§ 4101 et seq.). For complete classification of this Act to the Code, see Short Title of 1988 Amendment note under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
 **Codification**
 
@@ -1337,27 +1337,27 @@ Section was enacted as part of the Cranston-Gonzalez National Affordable Housing
 
 ## SUBCHAPTER II—TECHNICAL ASSISTANCE AND CAPACITY BUILDING
 
-### § 4141. Authority
+### § 4141. Authority
 
 The Secretary of Housing and Urban Development may provide technical assistance and capacity building to further the preservation program established under this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 100–242, title II, § 251, as added Pub. L. 102–550, title III, § 312, Oct. 28, 1992, 106 Stat. 3766.)
+(Pub. L. 100–242, title II, § 251, as added Pub. L. 102–550, title III, § 312, Oct. 28, 1992, 106 Stat. 3766.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in text, means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This title, referred to in text, means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-### § 4142. Purposes
+### § 4142. Purposes
 
 The purposes of this subchapter are—
 
-**(1)** to promote the ability of residents of eligible low-income housing to meaningfully participate in the preservation process established by this title 1
+**(1)** to promote the ability of residents of eligible low-income housing to meaningfully participate in the preservation process established by this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and affect decisions about the future of their housing;
 
@@ -1365,15 +1365,15 @@ and affect decisions about the future of their housing;
 
 **(3)** to assist the Secretary in discharging the obligation under section 4110 of this title to notify potential qualified purchasers of the availability of properties for sale and to otherwise facilitate the coordination and oversight of the preservation program established under this title.<sup>1</sup>
 
-(Pub. L. 100–242, title II, § 252, as added Pub. L. 102–550, title III, § 312, Oct. 28, 1992, 106 Stat. 3766.)
+(Pub. L. 100–242, title II, § 252, as added Pub. L. 102–550, title III, § 312, Oct. 28, 1992, 106 Stat. 3766.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in pars. (1) and (3), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This title, referred to in pars. (1) and (3), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-### § 4143. Grants for building resident capacity and funding predevelopment costs
+### § 4143. Grants for building resident capacity and funding predevelopment costs
 
 **(a) In general**
 
@@ -1417,23 +1417,23 @@ Grant applications for assistance under subsections (d) and (e) shall be receive
 
 **(g) Appeal**
 
-If an application for assistance under subsections 1
+If an application for assistance under subsections 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (d) or (e) is denied, the applicant shall have the right to appeal the denial to the Secretary and receive a binding determination within 30 days of the appeal.
 
-(Pub. L. 100–242, title II, § 253, as added Pub. L. 102–550, title III, § 312, Oct. 28, 1992, 106 Stat. 3766.)
+(Pub. L. 100–242, title II, § 253, as added Pub. L. 102–550, title III, § 312, Oct. 28, 1992, 106 Stat. 3766.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title II of the Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (d)(2), probably means title II of Pub. L. 100–242, Feb. 5, 1988, 102 Stat. 1877, prior to being amended generally by Pub. L. 101–625, § 601(a), which was known as the Emergency Low Income Housing Preservation Act of 1987 and which was classified principally as a note under section 1715*l* of this title. Title II of Pub. L. 100–242 was amended generally by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+Title II of the Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (d)(2), probably means title II of Pub. L. 100–242, Feb. 5, 1988, 102 Stat. 1877, prior to being amended generally by Pub. L. 101–625, § 601(a), which was known as the Emergency Low Income Housing Preservation Act of 1987 and which was classified principally as a note under section 1715*l* of this title. Title II of Pub. L. 100–242 was amended generally by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 Section 604 of the Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (d)(2), is section 604 of Pub. L. 101–625, which is set out as a note under section 4101 of this title.
 
-### § 4144. Grants for other purposes
+### § 4144. Grants for other purposes
 
 The Secretary may provide grants under this subchapter—
 
@@ -1441,17 +1441,17 @@ The Secretary may provide grants under this subchapter—
 
 **(2)** to State and local government agencies and nonprofit intermediaries for the purpose of carrying out such activities as the Secretary deems appropriate to further the preservation program established under this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 100–242, title II, § 254, as added Pub. L. 102–550, title III, § 312, Oct. 28, 1992, 106 Stat. 3767.)
+(Pub. L. 100–242, title II, § 254, as added Pub. L. 102–550, title III, § 312, Oct. 28, 1992, 106 Stat. 3767.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in par. (2), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This title, referred to in par. (2), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-### § 4145. Delivery of assistance through intermediaries
+### § 4145. Delivery of assistance through intermediaries
 
 **(a) In general**
 
@@ -1465,9 +1465,9 @@ The Secretary shall develop criteria to select eligible intermediaries, through 
 
 **(2) Priority**
 
-With respect to all forms of grants available under section 4143 of this title, such criteria shall give priority to applications from eligible intermediaries with demonstrated expertise or experience with the program established under this title 1
+With respect to all forms of grants available under section 4143 of this title, such criteria shall give priority to applications from eligible intermediaries with demonstrated expertise or experience with the program established under this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or under the Emergency Low Income Housing Preservation Act of 1987.
 
@@ -1511,17 +1511,17 @@ With respect to assistance made available under section 4144 of this title, pref
 
 **(6)** meets standards of fiscal responsibility established by the Secretary.
 
-(Pub. L. 100–242, title II, § 255, as added Pub. L. 102–550, title III, § 312, Oct. 28, 1992, 106 Stat. 3767.)
+(Pub. L. 100–242, title II, § 255, as added Pub. L. 102–550, title III, § 312, Oct. 28, 1992, 106 Stat. 3767.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in subsec. (b)(2), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This title, referred to in subsec. (b)(2), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (b)(2), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which was classified principally as a note under section 1715*l* of this title. Title II of Pub. L. 100–242 was amended generally by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (b)(2), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which was classified principally as a note under section 1715*l* of this title. Title II of Pub. L. 100–242 was amended generally by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-### § 4146. Definitions
+### § 4146. Definitions
 
 For purposes of this subchapter—
 
@@ -1539,14 +1539,14 @@ For purposes of this subchapter—
 
 **(2)** the terms “eligible low-income housing”, “nonprofit organization”, “owner”, and “resident council” have the meanings given such terms in section 4119 of this title.
 
-(Pub. L. 100–242, title II, § 256, as added Pub. L. 102–550, title III, § 312, Oct. 28, 1992, 106 Stat. 3769.)
+(Pub. L. 100–242, title II, § 256, as added Pub. L. 102–550, title III, § 312, Oct. 28, 1992, 106 Stat. 3769.)
 
-### § 4147. Funding
+### § 4147. Funding
 
-The Secretary shall use not more than $25,000,000 of the amounts made available under section 4124(a) of this title for fiscal year 1993, and not more than $25,000,000 of the amounts made available under section 4124(a) of this title for fiscal year 1994, to carry out this subchapter. Of any amounts made available to carry out this subchapter in any appropriation Act, 90 percent shall be set aside for use in accordance with section 4143 of this title and 10 percent shall be set aside for use in accordance with subsection 1
+The Secretary shall use not more than $25,000,000 of the amounts made available under section 4124(a) of this title for fiscal year 1993, and not more than $25,000,000 of the amounts made available under section 4124(a) of this title for fiscal year 1994, to carry out this subchapter. Of any amounts made available to carry out this subchapter in any appropriation Act, 90 percent shall be set aside for use in accordance with section 4143 of this title and 10 percent shall be set aside for use in accordance with subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 4144 of this title.
 
-(Pub. L. 100–242, title II, § 257, as added Pub. L. 102–550, title III, § 312, Oct. 28, 1992, 106 Stat. 3769.)
+(Pub. L. 100–242, title II, § 257, as added Pub. L. 102–550, title III, § 312, Oct. 28, 1992, 106 Stat. 3769.)

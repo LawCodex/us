@@ -87,41 +87,41 @@ Pub. L. 104–14, June 3, 1995, 109 Stat. 186, provided that:
 
 > **“(4)** of the Director of Non-legislative and Financial Services of the House of Representatives shall be treated as referring, with respect to that function, duty, or authority, to the officer of the House of Representatives exercising that function, duty, or authority, as determined by the Committee on House Oversight [now Committee on House Administration] of the House of Representatives.”
 
-## § 21. Oath of Senators
+## § 21. Oath of Senators
 
 The oath of office shall be administered by the President of the Senate to each Senator who shall be elected, previous to his taking his seat.
 
-(R.S. § 28.)
+(R.S. § 28.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 28 derived from act June 1, 1789, ch. 1, § 2, 1 Stat. 23.
+R.S. § 28 derived from act June 1, 1789, ch. 1, § 2, 1 Stat. 23.
 
-## § 22. Oath of President of Senate
+## § 22. Oath of President of Senate
 
 When a President of the Senate has not taken the oath of office, it shall be administered to him by any Member of the Senate.
 
-(R.S. § 29.)
+(R.S. § 29.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 29 derived from act June 1, 1789, ch. 1, § 2, 1 Stat. 23.
+R.S. § 29 derived from act June 1, 1789, ch. 1, § 2, 1 Stat. 23.
 
-## § 23. Presiding officer of Senate may administer oaths
+## § 23. Presiding officer of Senate may administer oaths
 
 The presiding officer, for the time being, of the Senate of the United States, shall have power to administer all oaths and affirmations that are or may be required by the Constitution, or by law, to be taken by any Senator, officer of the Senate, witness, or other person, in respect to any matter within the jurisdiction of the Senate.
 
-(Apr. 18, 1876, ch. 66, § 1, 19 Stat. 34.)
+(Apr. 18, 1876, ch. 66, § 1, 19 Stat. 34.)
 
-## § 24. Secretary of Senate or assistant secretary may administer oaths
+## § 24. Secretary of Senate or assistant secretary may administer oaths
 
 The Secretary of the Senate, and the assistant secretary thereof, shall, respectively, have power to administer any oath or affirmation required by law, or by the rules or orders of the Senate, to be taken by any officer of the Senate, and to any witness produced before it.
 
-(Apr. 18, 1876, ch. 66, § 2, 19 Stat. 34; Pub. L. 92–51, July 9, 1971, 85 Stat. 125.)
+(Apr. 18, 1876, ch. 66, § 2, 19 Stat. 34; Pub. L. 92–51, July 9, 1971, 85 Stat. 125.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -129,19 +129,19 @@ The Secretary of the Senate, and the assistant secretary thereof, shall, respect
 
 Assistant secretary of the Senate deemed successor in references to chief clerk of the Senate in all laws, rules, resolutions, and orders, effective July 1, 1971, under provisions of Pub. L. 92–51, July 9, 1971, 85 Stat. 125.
 
-## § 25. Oath of Speaker, Members, and Delegates
+## § 25. Oath of Speaker, Members, and Delegates
 
 At the first session of Congress after every general election of Representatives, the oath of office shall be administered by any Member of the House of Representatives to the Speaker; and by the Speaker to all the Members and Delegates present, and to the Clerk, previous to entering on any other business; and to the Members and Delegates who afterward appear, previous to their taking their seats.
 
 The Clerk of the House of Representatives of the Eightieth and each succeeding Congress shall cause the oath of office to be printed, furnishing two copies to each Member and Delegate who has taken the oath of office in accordance with law, which shall be subscribed in person by the Member or Delegate, who shall thereupon deliver them to the Clerk, one to be filed in the records of the House of Representatives, and the other to be recorded in the Journal of the House and in the Congressional Record; and such signed copies, or certified copies thereof, or of either of such records thereof, shall be admissible in evidence in any court of the United States, and shall be held conclusive proof of the fact that the signer duly took the oath of office in accordance with law.
 
-(R.S. § 30; Feb. 18, 1948, ch. 53, 62 Stat. 20.)
+(R.S. § 30; Feb. 18, 1948, ch. 53, 62 Stat. 20.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 30 derived from act June 1, 1789, ch. 1, § 2, 1 Stat. 23.
+R.S. § 30 derived from act June 1, 1789, ch. 1, § 2, 1 Stat. 23.
 
 The last paragraph of this section, which permitted Members and Delegates of the House of Representatives of the Eightieth Congress to subscribe and deliver two signed copies of the printed oath of office at any time before the expiration of the Eightieth Congress, was omitted.
 
@@ -149,7 +149,7 @@ The last paragraph of this section, which permitted Members and Delegates of the
 
 1948—Act Feb. 18, 1948, added last two paragraphs to provide a way by which any Member of House of Representatives can establish by record evidence the fact that the Member took the oath of office and so became a Member.
 
-## § 25a. Delegate to House of Representatives from District of Columbia
+## § 25a. Delegate to House of Representatives from District of Columbia
 
 **(a)** The people of the District of Columbia shall be represented in the House of Representatives by a Delegate, to be known as the “Delegate to the House of Representatives from the District of Columbia”, who shall be elected by the voters of the District of Columbia in accordance with the District of Columbia Election Act. The Delegate shall have a seat in the House of Representatives, with the right of debate, but not of voting, shall have all the privileges granted a Representative by section 6 of Article I of the Constitution, and shall be subject to the same restrictions and regulations as are imposed by law or rules on Representatives. The Delegate shall be elected to serve during each Congress.
 
@@ -165,7 +165,7 @@ The last paragraph of this section, which permitted Members and Delegates of the
 
 He shall forfeit his office upon failure to maintain the qualifications required by this subsection.
 
-(Pub. L. 91–405, title II, § 202, Sept. 22, 1970, 84 Stat. 848.)
+(Pub. L. 91–405, title II, § 202, Sept. 22, 1970, 84 Stat. 848.)
 
 **Editorial Notes**
 
@@ -177,45 +177,45 @@ The District of Columbia Election Act, referred to in subsecs. (a) and (b)(1), i
 
 **Effective Date**
 
-Pub. L. 91–405, title II, § 206(b), Sept. 22, 1970, 84 Stat. 855, provided that: “This title and the amendments made by this title [enacting this section and section 25b of this title and amending section 2106 of Title 5, Government Organization and Employees, sections 4342, 6954, and 9342 of Title 10, Armed Forces, sections 201, 203, 204, 591, 594, and 595 of Title 18, Crimes and Criminal Procedure, and section 10307 of Title 52, Voting and Elections] shall take effect on the date of its enactment [Sept. 22, 1970].”
+Pub. L. 91–405, title II, § 206(b), Sept. 22, 1970, 84 Stat. 855, provided that: “This title and the amendments made by this title [enacting this section and section 25b of this title and amending section 2106 of Title 5, Government Organization and Employees, sections 4342, 6954, and 9342 of Title 10, Armed Forces, sections 201, 203, 204, 591, 594, and 595 of Title 18, Crimes and Criminal Procedure, and section 10307 of Title 52, Voting and Elections] shall take effect on the date of its enactment [Sept. 22, 1970].”
 
-## § 25b. Repealed. Pub. L. 104–186, title II, § 202(1), Aug. 20, 1996, 110 Stat. 1724
+## § 25b. Repealed. Pub. L. 104–186, title II, § 202(1), Aug. 20, 1996, 110 Stat. 1724
 
-Section, Pub. L. 91–405, title II, § 204(a), Sept. 22, 1970, 84 Stat. 852, related to application of certain Federal laws to Delegate to House of Representatives from District of Columbia.
+Section, Pub. L. 91–405, title II, § 204(a), Sept. 22, 1970, 84 Stat. 852, related to application of certain Federal laws to Delegate to House of Representatives from District of Columbia.
 
-## § 26. Roll of Representatives-elect
+## § 26. Roll of Representatives-elect
 
 Before the first meeting of each Congress the Clerk of the next preceding House of Representatives shall make a roll of the Representatives-elect, and place thereon the names of those persons, and of such persons only, whose credentials show that they were regularly elected in accordance with the laws of their States respectively, or the laws of the United States. In case of a vacancy in the office of Clerk of the House of Representatives, or of the absence or inability of the Clerk to discharge the duties imposed on him by law or custom relative to the preparation of the roll of Representatives or the organization of the House, those duties shall devolve on the Sergeant at Arms of the next preceding House of Representatives.
 
-(R.S. §§ 31–33; Pub. L. 104–186, title II, § 202(2), Aug. 20, 1996, 110 Stat. 1724.)
+(R.S. §§ 31–33; Pub. L. 104–186, title II, § 202(2), Aug. 20, 1996, 110 Stat. 1724.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 31 derived from acts Feb. 21, 1867, ch. 56, § 1, 14 Stat. 397 and Mar. 3, 1863, ch. 108, 12 Stat. 804.
+R.S. § 31 derived from acts Feb. 21, 1867, ch. 56, § 1, 14 Stat. 397 and Mar. 3, 1863, ch. 108, 12 Stat. 804.
 
-R.S. §§ 32 and 33 derived from act Feb. 21, 1867, ch. 56, § 2, 14 Stat. 397.
+R.S. §§ 32 and 33 derived from act Feb. 21, 1867, ch. 56, § 2, 14 Stat. 397.
 
-R.S. § 31 constitutes first sentence; R.S. § 32 constitutes second sentence; and R.S. § 33 constituted the third sentence, prior to repeal by Pub. L. 104–186. See 1996 Amendment note below.
+R.S. § 31 constitutes first sentence; R.S. § 32 constitutes second sentence; and R.S. § 33 constituted the third sentence, prior to repeal by Pub. L. 104–186. See 1996 Amendment note below.
 
 **Amendments**
 
 1996—Pub. L. 104–186 struck out third sentence which read as follows: “In case of vacancies in the offices of both the Clerk and the Sergeant at Arms, or of the absence or inability of both to act, the duties of the Clerk relative to the preparation of the roll of the House of Representatives or the organization of the House shall be performed by the Doorkeeper of the next preceding House of Representatives.” See Codification note above.
 
-## § 27. Change of place of meeting
+## § 27. Change of place of meeting
 
 Whenever Congress is about to convene, and from the prevalence of contagious sickness, or the existence of other circumstances, it would, in the opinion of the President, be hazardous to the lives or health of the members to meet at the seat of Government, the President is authorized, by proclamation, to convene Congress at such other place as he may judge proper.
 
-(R.S. § 34.)
+(R.S. § 34.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 34 derived from act Apr. 3, 1794, ch. 17, 1 Stat. 353.
+R.S. § 34 derived from act Apr. 3, 1794, ch. 17, 1 Stat. 353.
 
-## § 28. Parliamentary precedents of House of Representatives
+## § 28. Parliamentary precedents of House of Representatives
 
 **(a) Periodic compilation; other useful materials; index digest; date of completion**
 
@@ -231,7 +231,7 @@ As so compiled and prepared, such precedents and other materials and index diges
 
 **(2)** utilize the services of personnel of the Library of Congress and the Government Publishing Office.
 
-(Pub. L. 91–510, title III, § 331, Oct. 26, 1970, 84 Stat. 1186; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 91–510, title III, § 331, Oct. 26, 1970, 84 Stat. 1186; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
@@ -249,7 +249,7 @@ The Legislative Branch Appropriation Act, 1966, referred to in subsec. (a), is P
 
 Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 4301 of this title.
 
-## § 28a. Compilation of the Precedents of House of Representatives; date of completion; biennial update; printing and availability of copies
+## § 28a. Compilation of the Precedents of House of Representatives; date of completion; biennial update; printing and availability of copies
 
 The Speaker is authorized and directed to complete the Compilation of the Precedents of the House of Representatives by January 1, 1977, and prepare an updated compilation of such precedents every two years thereafter. Copies of the Compilation of Precedents shall be printed in sufficient quantity to be available to every Member and the standing committees of the House of Representatives.
 
@@ -267,13 +267,13 @@ Section is based on section 208 of House Resolution No. 988, Ninety-third Congre
 
 Pub. L. 93–554 provided that the enactment of House Resolution No. 988, Ninety-third Congress, into permanent law is effective Jan. 2, 1975.
 
-## § 28b. Printing and binding as public document of Precedents of House of Representatives; number of sets authorized
+## § 28b. Printing and binding as public document of Precedents of House of Representatives; number of sets authorized
 
 **(a)** There shall be printed and bound as a public document two thousand sets of the Prec­edents of the House of Representatives compiled and prepared by Lewis Deschler (hereinafter in sections 28b to 28e of this title referred to as the “Precedents”) in accordance with the provisions of the Legislative Branch Appropriation Act, 1966 (Public Law 89–90; 79 Stat. 265).
 
 **(b)** The number of sets authorized to be printed and bound by or pursuant to sections 28b to 28e of this title shall be in lieu of the usual number of copies for binding and distribution required by section 701 of title 44.
 
-(Pub. L. 94–551, § 1, Oct. 18, 1976, 90 Stat. 2537.)
+(Pub. L. 94–551, § 1, Oct. 18, 1976, 90 Stat. 2537.)
 
 **Editorial Notes**
 
@@ -281,7 +281,7 @@ Pub. L. 93–554 provided that the enactment of House Resolution No. 988, Ninety
 
 The Legislative Branch Appropriation Act, 1966, referred to in text, is Pub. L. 89–90, July 27, 1965, 79 Stat. 265. For complete classification of this Act to the Code, see Tables.
 
-## § 28c. Distribution of Precedents by Director of the Government Publishing Office
+## § 28c. Distribution of Precedents by Director of the Government Publishing Office
 
 **(a) Delivery to Members of Ninety-fifth Congress; marking of volumes**
 
@@ -301,9 +301,9 @@ Each Senator or Representative in, or Delegate or Resident Commissioner to, each
 
 **(4)** to the Parliamentarian of the Senate, five sets;
 
-**(5)** to the Clerk of the House of Representatives and to the Sergeant at Arms of the House of Representatives, each 1
+**(5)** to the Clerk of the House of Representatives and to the Sergeant at Arms of the House of Representatives, each 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 two sets;
 
@@ -325,15 +325,15 @@ two sets;
 
 **(14)** to the Superintendent of Documents, eight hundred and sixteen sets for distribution to the depository library system.
 
-(Pub. L. 94–551, § 2, Oct. 18, 1976, 90 Stat. 2537; Pub. L. 104–186, title II, § 202(3), Aug. 20, 1996, 110 Stat. 1724; Pub. L. 113–235, div. H, title I, § 1301(d), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 94–551, § 2, Oct. 18, 1976, 90 Stat. 2537; Pub. L. 104–186, title II, § 202(3), Aug. 20, 1996, 110 Stat. 1724; Pub. L. 113–235, div. H, title I, § 1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (c)(2). Pub. L. 104–186, § 202(3)(A), substituted “Representatives, each” for “Representives, each”.
+1996—Subsec. (c)(2). Pub. L. 104–186, § 202(3)(A), substituted “Representatives, each” for “Representives, each”.
 
-Subsec. (c)(5). Pub. L. 104–186, § 202(3)(B), substituted “and to the Sergeant at Arms of the House of Representatives, each two sets” for “, to the Sergeant at Arms of the House of Representatives, and to the Doorkeeper of the House of Representatives, each, two sets”.
+Subsec. (c)(5). Pub. L. 104–186, § 202(3)(B), substituted “and to the Sergeant at Arms of the House of Representatives, each two sets” for “, to the Sergeant at Arms of the House of Representatives, and to the Doorkeeper of the House of Representatives, each, two sets”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -341,7 +341,7 @@ Subsec. (c)(5). Pub. L. 104–186, § 202(3)(B), substituted “and to the Ser
 
 “Director of the Government Publishing Office” substituted for “Public Printer” in subsecs. (a) and (c) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents. Substitution was also made in section catchline that had been supplied editorially.
 
-## § 28d. Distribution of Precedents by Director of the Government Publishing Office for official use; particular distribution; marking and ownership of sets
+## § 28d. Distribution of Precedents by Director of the Government Publishing Office for official use; particular distribution; marking and ownership of sets
 
 **(a)** The Director of the Government Publishing Office shall make the following distribution of sets of the Precedents;
 
@@ -363,7 +363,7 @@ Subsec. (c)(5). Pub. L. 104–186, § 202(3)(B), substituted “and to the Ser
 
 **(b)** Each set of Precedents distributed by the Director of the Government Publishing Office under subsection (a) of this section shall be for official use. Each such set shall be legibly stamped on the front cover “Property of the United States Government.” Each such set, upon delivery, shall become and remain the property of the United States, and may not be removed from the building in which is located the designated library or office, as the case may be.
 
-(Pub. L. 94–551, § 3, Oct. 18, 1976, 90 Stat. 2538; Pub. L. 113–235, div. H, title I, § 1301(d), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 94–551, § 3, Oct. 18, 1976, 90 Stat. 2538; Pub. L. 113–235, div. H, title I, § 1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -371,19 +371,19 @@ Subsec. (c)(5). Pub. L. 104–186, § 202(3)(B), substituted “and to the Ser
 
 “Director of the Government Publishing Office” substituted for “Public Printer” in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents. Substitution was also made in section catchline that had been supplied editorially.
 
-## § 28e. Distribution of Precedents by Joint Committee on Printing of surplus sets;  additional printing, etc., of sets under authority of Joint Committee
+## § 28e. Distribution of Precedents by Joint Committee on Printing of surplus sets; additional printing, etc., of sets under authority of Joint Committee
 
 **(a)** Any set of the Precedents printed and bound pursuant to subsection (a) of section 28b of this title, not needed to carry out the distributions required by sections 28b to 28e of this title, shall be distributed under the direction of the Joint Committee on Printing.
 
 **(b)** The Joint Committee on Printing may from time to time authorize and direct that additional sets of the Precedents, be printed, bound, and distributed in such manner as the Joint Committee determines will best carry out the purposes of sections 28b to 28e of this title.
 
-(Pub. L. 94–551, § 4, Oct. 18, 1976, 90 Stat. 2538.)
+(Pub. L. 94–551, § 4, Oct. 18, 1976, 90 Stat. 2538.)
 
-## § 29. Condensed and simplified versions of House precedents; other useful materials in summary form; form and distribution to Members of Congress, Resident Commissioner from Puerto Rico, and others; appointment and compensation of personnel; utilization of services of personnel of Federal agencies
+## § 29. Condensed and simplified versions of House precedents; other useful materials in summary form; form and distribution to Members of Congress, Resident Commissioner from Puerto Rico, and others; appointment and compensation of personnel; utilization of services of personnel of Federal agencies
 
 The Parliamentarian of the House of Representatives shall prepare, compile, and maintain on a current basis and in cumulative form, for each Congress commencing with the Ninety-third Congress a condensed and, insofar as practicable, up-to-date version of all of the parliamentary precedents of the House of Representatives which have current use and application in the House, together with informative text prepared by the Parliamentarian and other useful related material in summary form. The Parliamentarian shall have such matter printed for each Congress on pages of such size and in such type and format as he considers advisable to promote the usefulness of such matter to the Members of the House and shall provide a printed copy thereof to each Member in each Congress, including the Resident Commissioner from Puerto Rico, and may make such other distribution of such printed copies as he considers advisable. In carrying out this section, the Parliamentarian may appoint and fix the pay of personnel and utilize the services of personnel of the Library of Congress and the Government Publishing Office.
 
-(Pub. L. 91–510, title III, § 332, Oct. 26, 1970, 84 Stat. 1186; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 91–510, title III, § 332, Oct. 26, 1970, 84 Stat. 1186; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -395,7 +395,7 @@ The Parliamentarian of the House of Representatives shall prepare, compile, and 
 
 Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 4301 of this title.
 
-## § 29a. Early organization of House of Representatives
+## § 29a. Early organization of House of Representatives
 
 **(a) Caucus or conference for incumbent Members reelected to and Members-elect of ensuing Congress; time and procedure for calling**
 
@@ -421,13 +421,13 @@ The applicable accounts of the House of Representatives are made available to ca
 
 **(d) Orientation programs for new Members**
 
-With the approval of the majority leader (in the case of a Member or Member-elect of the majority party) or the minority leader (in the case of a Member or Member-elect of the minority party), subsections (b) and (c) shall apply with respect to the attendance of a Member or Member-elect at a program conducted by the Committee on House Administration for the orientation of new members 1
+With the approval of the majority leader (in the case of a Member or Member-elect of the majority party) or the minority leader (in the case of a Member or Member-elect of the minority party), subsections (b) and (c) shall apply with respect to the attendance of a Member or Member-elect at a program conducted by the Committee on House Administration for the orientation of new members 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 in the same manner as such provisions apply to the attendance of the Member or Member-elect at the organizational caucus or conference.
 
-(Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 104–186, title II, § 202(4), Aug. 20, 1996, 110 Stat. 1725; Pub. L. 108–447, div. G, title I, § 107(a), (b)(1), (c)(1), Dec. 8, 2004, 118 Stat. 3176.)
+(Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 104–186, title II, § 202(4), Aug. 20, 1996, 110 Stat. 1725; Pub. L. 108–447, div. G, title I, § 107(a), (b)(1), (c)(1), Dec. 8, 2004, 118 Stat. 3176.)
 
 **Editorial Notes**
 
@@ -437,19 +437,19 @@ Section is based on section 202 of House Resolution No. 988, Ninety-third Congre
 
 **Amendments**
 
-2004—Subsec. (a)(1). Pub. L. 108–447, § 107(a), substituted “conference of all” for “conference, to begin on or after the first day of December and conclude on or before the twentieth day of December in such year and to be attended by all”.
+2004—Subsec. (a)(1). Pub. L. 108–447, § 107(a), substituted “conference of all” for “conference, to begin on or after the first day of December and conclude on or before the twentieth day of December in such year and to be attended by all”.
 
-Subsec. (b)(1)(B). Pub. L. 108–447, § 107(b)(1), substituted a period for “for a period not to exceed the shorter of the following—
+Subsec. (b)(1)(B). Pub. L. 108–447, § 107(b)(1), substituted a period for “for a period not to exceed the shorter of the following—
 
 “(i) the period beginning with the day before the designated date upon which such caucus or conference is to convene and ending with the day after the date of the final adjournment of such caucus or conference; or
 
 “(ii) fourteen days.”
 
-Subsec. (d). Pub. L. 108–447, § 107(c)(1), added subsec. (d).
+Subsec. (d). Pub. L. 108–447, § 107(c)(1), added subsec. (d).
 
-1996—Subsec. (b)(2). Pub. L. 104–186, § 202(4)(A), substituted “House Oversight” for “House Administration” in two places.
+1996—Subsec. (b)(2). Pub. L. 104–186, § 202(4)(A), substituted “House Oversight” for “House Administration” in two places.
 
-Subsec. (c). Pub. L. 104–186, § 202(4)(B), substituted “applicable accounts of the House of Representatives are” for “contingent fund of the House is”.
+Subsec. (c). Pub. L. 104–186, § 202(4)(B), substituted “applicable accounts of the House of Representatives are” for “contingent fund of the House is”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -459,13 +459,13 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–447, div. G, title I, § 107(d), Dec. 8, 2004, 118 Stat. 3177, provided that: “The amendments made by this section [amending this section and section 5343 of this title] shall apply with respect to the One Hundred Tenth Congress and each succeeding Congress.”
+Pub. L. 108–447, div. G, title I, § 107(d), Dec. 8, 2004, 118 Stat. 3177, provided that: “The amendments made by this section [amending this section and section 5343 of this title] shall apply with respect to the One Hundred Tenth Congress and each succeeding Congress.”
 
 **Effective Date**
 
 Pub. L. 93–554 provided that the enactment of House Resolution No. 988, Ninety-third Congress, into permanent law is effective Jan. 2, 1975.
 
-## §§ 29b, 29c. Omitted
+## §§ 29b, 29c. Omitted
 
 **Editorial Notes**
 
@@ -473,9 +473,9 @@ Pub. L. 93–554 provided that the enactment of House Resolution No. 988, Ninety
 
 Section 29b, based on section 204 of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, which was enacted into permanent law, effective Jan. 2, 1975, by Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777, established a Commission on Information and Facilities in House of Representatives to be composed of nine members of the House appointed by Speaker, required Speaker to appoint an Advisory Council to assist Commission in carrying out its functions, required Commission to conduct study of informational problems, facilities and space, and House legislative counsel requirements, provided for the scope of study of informational problems, and required Commission to make an annual progress report to Speaker, to complete study of House legislative counsel requirements by Jan. 1, 1976, and to submit a final report by Jan. 2, 1977.
 
-Section 29c, based on clause 10, rule I, of the Rules of the House of Representatives as in effect before July 17, 1984, relating to the Office for the Bicentennial for the House of Representatives, established by House Resolution No. 621, Ninety-seventh Congress, Dec. 17, 1982, which was enacted into permanent law by Pub. L. 98–367, title I, § 102, July 17, 1984, 98 Stat. 479, established in House of Representatives an Office for the Bicentennial of the House of Representatives to coordinate planning of commemoration of two-hundredth anniversary of House of Representatives and to be staffed by a professional historian appointed by Speaker without regard to political affiliation and solely on basis of fitness to perform duties of the position and to serve at pleasure of Speaker, and provided that the Office cease to exist not later than Sept. 30, 1989, unless otherwise provided by law or resolution. Office of the Historian of the House of Representatives was established by clause 10, rule I, of the Rules of the House of Representatives, as added on Jan. 3, 1989 (H. Res. 5, 101st Congress).
+Section 29c, based on clause 10, rule I, of the Rules of the House of Representatives as in effect before July 17, 1984, relating to the Office for the Bicentennial for the House of Representatives, established by House Resolution No. 621, Ninety-seventh Congress, Dec. 17, 1982, which was enacted into permanent law by Pub. L. 98–367, title I, § 102, July 17, 1984, 98 Stat. 479, established in House of Representatives an Office for the Bicentennial of the House of Representatives to coordinate planning of commemoration of two-hundredth anniversary of House of Representatives and to be staffed by a professional historian appointed by Speaker without regard to political affiliation and solely on basis of fitness to perform duties of the position and to serve at pleasure of Speaker, and provided that the Office cease to exist not later than Sept. 30, 1989, unless otherwise provided by law or resolution. Office of the Historian of the House of Representatives was established by clause 10, rule I, of the Rules of the House of Representatives, as added on Jan. 3, 1989 (H. Res. 5, 101st Congress).
 
-## § 29d. Transferred
+## § 29d. Transferred
 
 **Editorial Notes**
 
@@ -483,25 +483,25 @@ Section 29c, based on clause 10, rule I, of the Rules of the House of Representa
 
 Section 29d was editorially reclassified as section 4711 of this title.
 
-## § 30. Term of service of Members of Congress as trustees or directors of corporations or institutions appropriated for
+## § 30. Term of service of Members of Congress as trustees or directors of corporations or institutions appropriated for
 
 In all cases where Members of Congress or Senators are appointed to represent Congress on any board of trustees or board of directors of any corporation or institution to which Congress makes any appropriation, the term of said Members or Senators, as such trustee or director, shall continue until the expiration of two months after the first meeting of the Congress chosen next after their appointment.
 
-(Mar. 3, 1893, ch. 199, § 1, 27 Stat. 553.)
+(Mar. 3, 1893, ch. 199, § 1, 27 Stat. 553.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 722 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 722 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
-## § 30a. Jury duty exemption of elected officials of legislative branch
+## § 30a. Jury duty exemption of elected officials of legislative branch
 
 **(a)** Notwithstanding any other provision of Federal, State or local law, no elected official of the legislative branch of the United States Government shall be required to serve on a grand or petit jury, convened by any Federal, State or local court, whether such service is requested by judicial summons or by some other means of compulsion.
 
 **(b)** “Elected official of the legislative branch” shall mean each Member of the United States House of Representatives, the Delegates from the District of Columbia, Guam, the American Virgin Islands, and American Samoa, and the Resident Commissioner from Puerto Rico, and each United States Senator.
 
-(Pub. L. 101–520, title III, § 310, Nov. 5, 1990, 104 Stat. 2278.)
+(Pub. L. 101–520, title III, § 310, Nov. 5, 1990, 104 Stat. 2278.)
 
 **Editorial Notes**
 
@@ -509,7 +509,7 @@ Section was formerly classified to section 722 of Title 31 prior to the general 
 
 Section is from the Legislative Branch Appropriations Act, 1991.
 
-## § 30b. Notice of objecting to proceeding
+## § 30b. Notice of objecting to proceeding
 
 **(a) In general** The Majority and Minority Leaders of the Senate or their designees shall recognize a notice of intent of a Senator who is a member of their caucus to object to proceeding to a measure or matter only if the Senator—
 
@@ -543,17 +543,17 @@ A Senator may have an item with respect to the Senator removed from a calendar t
 
 “I, Senator \_\_\_\_, do not object to proceed to \_\_\_\_, dated \_\_\_\_.”.
 
-(Pub. L. 110–81, title V, § 512, Sept. 14, 2007, 121 Stat. 759.)
+(Pub. L. 110–81, title V, § 512, Sept. 14, 2007, 121 Stat. 759.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 110–81, title V, § 556, Sept. 14, 2007, 121 Stat. 774, provided that: “Except as otherwise provided in this title [enacting this section, sections 4722, 4723, 4726, 4727, and 4728 of this title, and provisions set out as notes under this section and section 4726 of this title], this title shall take effect on the date of enactment of this title [Sept. 14, 2007].”
+Pub. L. 110–81, title V, § 556, Sept. 14, 2007, 121 Stat. 774, provided that: “Except as otherwise provided in this title [enacting this section, sections 4722, 4723, 4726, 4727, and 4728 of this title, and provisions set out as notes under this section and section 4726 of this title], this title shall take effect on the date of enactment of this title [Sept. 14, 2007].”
 
 **Exercise of Rulemaking Powers**
 
-Pub. L. 110–81, title V, § 555, Sept. 14, 2007, 121 Stat. 774, provided that:
+Pub. L. 110–81, title V, § 555, Sept. 14, 2007, 121 Stat. 774, provided that:
 
 > “The Senate adopts the provisions of this title [see Effective Date note above]—
 

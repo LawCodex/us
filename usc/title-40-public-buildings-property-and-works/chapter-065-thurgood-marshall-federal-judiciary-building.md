@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–284, § 6(19), Sept. 27, 2006, 120 Stat. 1213, renumbered item 6581 as 6501.
+2006—Pub. L. 109–284, § 6(19), Sept. 27, 2006, 120 Stat. 1213, renumbered item 6581 as 6501.
 
-## § 6501. Definition
+## § 6501. Definition
 
 In this chapter, the term “Chief Justice” means the Chief Justice of the United States or the designee of the Chief Justice, except that when there is a vacancy in the office of the Chief Justice, the most senior associate justice of the Supreme Court shall be deemed to be the Chief Justice for purposes of this chapter until the vacancy is filled.
 
@@ -31,11 +31,11 @@ In this chapter, the term “Chief Justice” means the Chief Justice of the Uni
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6501 | 40:1208. | Pub. L. 100–480, § 10, Oct. 7, 1988, 102 Stat. 2335. |
+| 6501 | 40:1208. | Pub. L. 100–480, § 10, Oct. 7, 1988, 102 Stat. 2335. |
 
 The text of 40:1208(1) and (3) is omitted as unnecessary because the complete names of the Architect of the Capitol and the Commission for the Judiciary Office Building are used the first times the terms appear in a section.
 
-## § 6502. Thurgood Marshall Federal Judiciary Building
+## § 6502. Thurgood Marshall Federal Judiciary Building
 
 **(a) Establishment and Designation.—** There is a Federal Judiciary Building in Washington, D.C., known and designated as the “Thurgood Marshall Federal Judiciary Building”.
 
@@ -79,8 +79,8 @@ The text of 40:1208(1) and (3) is omitted as unnecessary because the complete na
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6502(a) | 40:1201 note. | Pub. L. 103–4, § 1, Feb. 8, 1993, 107 Stat. 30. |
-| 6502(b) | 40:1202(b)(2)(B), (C). | Pub. L. 100–480, §§ 3(a)(6), (8), (b)(2)(B), (C), (c)–(e), 4(c), Oct. 7, 1988, 102 Stat. 2329, 2330, 2331. |
+| 6502(a) | 40:1201 note. | Pub. L. 103–4, § 1, Feb. 8, 1993, 107 Stat. 30. |
+| 6502(b) | 40:1202(b)(2)(B), (C). | Pub. L. 100–480, §§ 3(a)(6), (8), (b)(2)(B), (C), (c)–(e), 4(c), Oct. 7, 1988, 102 Stat. 2329, 2330, 2331. |
 | 6502(c) | 40:1202(a)(8). |  |
 | 6502(d) | 40:1202(a)(6). |  |
 | 6502(e) | 40:1202(c). |  |
@@ -103,9 +103,9 @@ The Building Height Act of 1910, referred to in subsec. (c)(2), is act June 1, 1
 
 **Reference to the Thurgood Marshall Federal Judiciary Building**
 
-Pub. L. 103–4, § 2, Feb. 8, 1993, 107 Stat. 30, provided that: “Any reference in any law, map, regulation, document, paper, or other record of the United States to the Federal Judiciary Building referred to in section 1 [now 40 U.S.C. 6502(a)] shall be deemed to be a reference to the ‘Thurgood Marshall Federal Judiciary Building’.”
+Pub. L. 103–4, § 2, Feb. 8, 1993, 107 Stat. 30, provided that: “Any reference in any law, map, regulation, document, paper, or other record of the United States to the Federal Judiciary Building referred to in section 1 [now 40 U.S.C. 6502(a)] shall be deemed to be a reference to the ‘Thurgood Marshall Federal Judiciary Building’.”
 
-## § 6503. Commission for the Judiciary Office Building
+## § 6503. Commission for the Judiciary Office Building
 
 **(a) Establishment and Membership.—** There is a Commission for the Judiciary Office Building, composed of the following 13 members or their designees:
 
@@ -131,7 +131,7 @@ Pub. L. 103–4, § 2, Feb. 8, 1993, 107 Stat. 30, provided that: “Any refer
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6503(a) | 40:1206(a), (b). | Pub. L. 100–480, § 7, Oct. 7, 1988, 102 Stat. 2334. |
+| 6503(a) | 40:1206(a), (b). | Pub. L. 100–480, § 7, Oct. 7, 1988, 102 Stat. 2334. |
 | 6503(b) | 40:1206(d). |  |
 | 6503(c) | 40:1206(c). |  |
 
@@ -139,7 +139,7 @@ In subsection (a)(6), the words “Transportation and Infrastructure” are subs
 
 In subsection (c), the words “from time to time” are omitted as unnecessary.
 
-## § 6504. Lease of building
+## § 6504. Lease of building
 
 **(a) Lease Agreement.—** Under an agreement with the person selected to construct the Thurgood Marshall Federal Judiciary Building, the Architect of the Capitol shall lease the Building to carry out the objectives of this chapter.
 
@@ -165,7 +165,7 @@ In subsection (c), the words “from time to time” are omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6504(a) | 40:1203(a). | Pub. L. 100–480, §§ 3(b)(2)(D) (words after “provisions of this chapter”), 4(a), (b), (d), Oct. 7, 1988, 102 Stat. 2330, 2331. |
+| 6504(a) | 40:1203(a). | Pub. L. 100–480, §§ 3(b)(2)(D) (words after “provisions of this chapter”), 4(a), (b), (d), Oct. 7, 1988, 102 Stat. 2330, 2331. |
 | 6504(b)(1)– (3) | 40:1203(b). |  |
 | 6504(b)(4) | 40:1202(b)(2)(D) (words after “provisions of this Act”). |  |
 | 6504(c) | 40:1203(d). |  |
@@ -174,7 +174,7 @@ Subsection (a) is substituted for 40:1203(a) to eliminate obsolete words.
 
 In subsection (b)(2), the words “in the District of Columbia” are added for clarity.
 
-## § 6505. Structural and mechanical care and security
+## § 6505. Structural and mechanical care and security
 
 **(a) Structural and Mechanical Care.—** The Architect of the Capitol, under the direction of the Commission for the Judiciary Office Building—
 
@@ -200,14 +200,14 @@ In subsection (b)(2), the words “in the District of Columbia” are added for 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6505(a) | 40:1204(a). | Pub. L. 100–480, § 5, Oct. 7, 1988, 102 Stat. 2331; Pub. L. 102–392, title III, § 311(a), Oct. 6, 1992, 106 Stat. 1723. |
+| 6505(a) | 40:1204(a). | Pub. L. 100–480, § 5, Oct. 7, 1988, 102 Stat. 2331; Pub. L. 102–392, title III, § 311(a), Oct. 6, 1992, 106 Stat. 1723. |
 | 6505(b)(1)(A) | 40:1204(b)(1). |  |
 | 6505(b)(1)(B) | 40:1204(c). |  |
 | 6505(b)(2), (3) | 40:1204(b)(2), (3). |  |
 
 In subsection (a), before clause (1), the words “Upon occupancy by the United States of the building and other improvements constructed under this chapter” are omitted as obsolete.
 
-## § 6506. Allocation of space
+## § 6506. Allocation of space
 
 **(a) Priority.—**
 
@@ -261,12 +261,12 @@ In subsection (a), before clause (1), the words “Upon occupancy by the United 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6506(a)(1), (2) | 40:1205(a)(1), (2). | Pub. L. 100–480, § 6(a)(1)–(6), (b), (c), Oct. 7, 1988, 102 Stat. 2332. |
+| 6506(a)(1), (2) | 40:1205(a)(1), (2). | Pub. L. 100–480, § 6(a)(1)–(6), (b), (c), Oct. 7, 1988, 102 Stat. 2332. |
 | 6506(a)(3) | 40:1205(b)(1). |  |
 | 6506(b) | 40:1205(a)(3), (4). |  |
 | 6506(c)(1) | 40:1205(a)(6). |  |
 | 6506(c)(2), (3) | 40:1205(a)(5). |  |
-| 6506(d) | 40:1205(a)(7), (8). | Pub. L. 100–480, § 6(a)(7), (8), as added Pub. L. 102–392, title III, § 318, Oct. 6, 1992, 106 Stat. 1724. |
+| 6506(d) | 40:1205(a)(7), (8). | Pub. L. 100–480, § 6(a)(7), (8), as added Pub. L. 102–392, title III, § 318, Oct. 6, 1992, 106 Stat. 1724. |
 | 6506(e) | 40:1205(b)(2)–(4). |  |
 | 6506(f) | 40:1205(c). |  |
 
@@ -284,9 +284,9 @@ In subsection (f), the reference to “this subsection” is translated as “th
 
 **References in Text**
 
-Section 3(b)(1) of the Judiciary Office Building Development Act, referred to in subsec. (a)(1), is section 3(b)(1) of Pub. L. 100–480, Oct. 7, 1988, 102 Stat. 2330, which was classified to section 1202(b)(1) of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304.
+Section 3(b)(1) of the Judiciary Office Building Development Act, referred to in subsec. (a)(1), is section 3(b)(1) of Pub. L. 100–480, Oct. 7, 1988, 102 Stat. 2330, which was classified to section 1202(b)(1) of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304.
 
-## § 6507. Account in Treasury
+## § 6507. Account in Treasury
 
 **(a) Establishment and Contents of Separate Account.—** There is a separate account in the Treasury. The account includes all amounts deposited in the account under section 6506(f) of this title and amounts appropriated to the account. However, the appropriated amounts may not be more than $2,000,000.
 
@@ -306,6 +306,6 @@ Section 3(b)(1) of the Judiciary Office Building Development Act, referred to in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6507 | 40:1207. | Pub. L. 100–480, § 9, Oct. 7, 1988, 102 Stat. 2334; Pub. L. 102–392, title III, § 311(b), Oct. 6, 1992, 106 Stat. 1723. |
+| 6507 | 40:1207. | Pub. L. 100–480, § 9, Oct. 7, 1988, 102 Stat. 2334; Pub. L. 102–392, title III, § 311(b), Oct. 6, 1992, 106 Stat. 1723. |
 
 The text of 40:1207(b) is omitted as obsolete.

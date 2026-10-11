@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Codification**
 
-This chapter is comprised principally of title II (§§ 201–215) of Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 35, as amended. Title II of Pub. L. 98–8 was formerly set out as a note under section 612c of this title. Section 203 of title II of Pub. L. 98–8, which related to processing agreements, was repealed by Pub. L. 99–198, title XV, § 1567(c), Dec. 23, 1985, 99 Stat. 1592. Section 207 of title II of Pub. L. 98–8 amended section 4(c) of the Agriculture and Consumer Protection Act of 1973, Pub. L. 93–86, set out as a note under section 612c of this title. Section 212 of title II of Pub. L. 98–8, which provided for termination of title II of Pub. L. 98–8 on Sept. 30, 2002, was repealed by Pub. L. 104–193, title VIII, § 871(e)(4), Aug. 22, 1996, 110 Stat. 2345.
+This chapter is comprised principally of title II (§§ 201–215) of Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 35, as amended. Title II of Pub. L. 98–8 was formerly set out as a note under section 612c of this title. Section 203 of title II of Pub. L. 98–8, which related to processing agreements, was repealed by Pub. L. 99–198, title XV, § 1567(c), Dec. 23, 1985, 99 Stat. 1592. Section 207 of title II of Pub. L. 98–8 amended section 4(c) of the Agriculture and Consumer Protection Act of 1973, Pub. L. 93–86, set out as a note under section 612c of this title. Section 212 of title II of Pub. L. 98–8, which provided for termination of title II of Pub. L. 98–8 on Sept. 30, 2002, was repealed by Pub. L. 104–193, title VIII, § 871(e)(4), Aug. 22, 1996, 110 Stat. 2345.
 
-## § 7501. Definitions
+## § 7501. Definitions
 
 In this chapter:
 
@@ -79,7 +79,7 @@ The term “total value of additional commodities” means the actual cost of al
 
 The term “value of additional commodities allocated to each State” means the actual cost of additional commodities allocated to each State that are paid by the Secretary (including the distribution and processing costs incurred by the Secretary).
 
-(Pub. L. 98–8, title II, § 201A, as added Pub. L. 98–92, § 2(2), Sept. 2, 1983, 97 Stat. 608; amended Pub. L. 99–198, title XV, § 1563, Dec. 23, 1985, 99 Stat. 1590; Pub. L. 104–193, title VIII, § 871(a), Aug. 22, 1996, 110 Stat. 2343.)
+(Pub. L. 98–8, title II, § 201A, as added Pub. L. 98–92, § 2(2), Sept. 2, 1983, 97 Stat. 608; amended Pub. L. 99–198, title XV, § 1563, Dec. 23, 1985, 99 Stat. 1590; Pub. L. 104–193, title VIII, § 871(a), Aug. 22, 1996, 110 Stat. 2343.)
 
 **Editorial Notes**
 
@@ -87,27 +87,27 @@ The term “value of additional commodities allocated to each State” means the
 
 This chapter, referred to in text, was in the original “this Act”, meaning the Emergency Food Assistance Act of 1983, title II of Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 35, which enacted this chapter and amended provisions set out as a note under section 612c of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Older Americans Act of 1965, referred to in par. (3)(A)(iv), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in par. (3)(A)(iv), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
 **Amendments**
 
 1996—Pub. L. 104–193 amended section generally, substituting provisions containing an opening provision and pars. (1) to (10) defining “additional commodities”, “average monthly number of unemployed persons”, “eligible recipient agency”, “emergency feeding organization”, “food bank”, “food pantry”, “poverty line”, “soup kitchen”, “total value of additional commodities”, and “value of additional commodities allocated to each state” for an opening provision and pars. (1) to (6) defining “eligible recipient agencies”.
 
-1985—Par. (1). Pub. L. 99–198 inserted before semicolon at end “(including the activities and projects of charitable institutions, food banks, hunger centers, soup kitchens, and similar public or private nonprofit eligible recipient agencies) hereinafter in this chapter referred to as ‘emergency feeding organizations’ ”.
+1985—Par. (1). Pub. L. 99–198 inserted before semicolon at end “(including the activities and projects of charitable institutions, food banks, hunger centers, soup kitchens, and similar public or private nonprofit eligible recipient agencies) hereinafter in this chapter referred to as ‘emergency feeding organizations’ ”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that the amendments made by section 2 are effective Oct. 1, 1983.
+Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that the amendments made by section 2 are effective Oct. 1, 1983.
 
 **Short Title**
 
-Pub. L. 98–8, title II, § 201, Mar. 24, 1983, 97 Stat. 35, as amended by Pub. L. 98–92, § 2(1), Sept. 2, 1983, 97 Stat. 608; Pub. L. 101–624, title XVII, § 1772(a)(2), Nov. 28, 1990, 104 Stat. 3808, provided that: “This title [enacting this chapter and amending provisions set out as a note under section 612c of this title] may be cited as the ‘Emergency Food Assistance Act of 1983’, and is hereinafter in this title referred to as ‘this Act’.”
+Pub. L. 98–8, title II, § 201, Mar. 24, 1983, 97 Stat. 35, as amended by Pub. L. 98–92, § 2(1), Sept. 2, 1983, 97 Stat. 608; Pub. L. 101–624, title XVII, § 1772(a)(2), Nov. 28, 1990, 104 Stat. 3808, provided that: “This title [enacting this chapter and amending provisions set out as a note under section 612c of this title] may be cited as the ‘Emergency Food Assistance Act of 1983’, and is hereinafter in this title referred to as ‘this Act’.”
 
 **Food Supply Chain and Agriculture Pandemic Response**
 
-Pub. L. 117–2, title I, § 1001, Mar. 11, 2021, 135 Stat. 10, provided that:
+Pub. L. 117–2, title I, § 1001, Mar. 11, 2021, 135 Stat. 10, provided that:
 
 > **“(a) Appropriation.—** In addition to amounts otherwise available, there is appropriated to the Secretary of Agriculture for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $4,000,000,000, to remain available until expended, to carry out this section.
 
@@ -135,7 +135,7 @@ Pub. L. 117–2, title I, § 1001, Mar. 11, 2021, 135 Stat. 10, provided that:
 
 > **“(3) Funding.—** Out of the amounts made available under subsection (a), the Secretary shall use $100,000,000 to carry out this subsection.”
 
-## § 7502. Availability of CCC commodities
+## § 7502. Availability of CCC commodities
 
 **(a) In general** Notwithstanding any other provision of law, in order to complement the domestic nutrition programs, make maximum use of the Nation’s agricultural abundance, and expand and improve the domestic distribution of price-supported commodities, commodities acquired by the Commodity Credit Corporation that the Secretary of Agriculture (hereinafter referred to as the “Secretary”) determines, in his discretion, are in excess of quantities needed to—
 
@@ -149,7 +149,7 @@ Pub. L. 117–2, title I, § 1001, Mar. 11, 2021, 135 Stat. 10, provided that:
 
 shall be made available by the Secretary, without charge or credit for such commodities, for use by eligible recipient agencies for food assistance.
 
-**(b) Repealed. Pub. L. 99–198, title XV, § 1565(a)(2), Dec. 23, 1985, 99 Stat. 1591**
+**(b) Repealed. Pub. L. 99–198, title XV, § 1565(a)(2), Dec. 23, 1985, 99 Stat. 1591**
 
 **(c) Additional commodities**
 
@@ -157,9 +157,9 @@ In addition to any commodities described in subsection (a), in carrying out this
 
 **(d) Varieties of commodities**
 
-Commodities made available under this chapter shall include a variety of commodities and products thereof that are most useful to eligible recipient agencies, including, but not be 1
+Commodities made available under this chapter shall include a variety of commodities and products thereof that are most useful to eligible recipient agencies, including, but not be 1
 
-<sup>1</sup>  So in original. The word “be” probably should not appear.
+<sup>1</sup> So in original. The word “be” probably should not appear.
 
 limited to, dairy products, wheat or the products thereof, rice, honey, and cornmeal.
 
@@ -169,9 +169,9 @@ Effective April 1, 1986, the Secretary shall submit semiannually to the Committe
 
 **(f) Relation to other programs**
 
-Notwithstanding any other provision of law, the programs authorized by section 713a–14 of title 15 2
+Notwithstanding any other provision of law, the programs authorized by section 713a–14 of title 15 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 and section 1163 of the Food Security Act of 1985 shall not be operated in a manner that will, in any way, reduce the quantities of dairy products that traditionally are made available to carry out this chapter or any other domestic feeding program.
 
@@ -187,19 +187,19 @@ and section 1163 of the Food Security Act of 1985 shall not be operated in a man
 
 **(2)** to modify the labeling of the commodities list used to carry out the program in a manner that enables Kosher and Halal distribution entities to identify which commodities to obtain from local food banks.
 
-(Pub. L. 98–8, title II, § 202, Mar. 24, 1983, 97 Stat. 35; Pub. L. 98–92, § 2(3), (4), Sept. 2, 1983, 97 Stat. 609; Pub. L. 99–198, title XV, §§ 1564(a), 1565(a), Dec. 23, 1985, 99 Stat. 1591; Pub. L. 100–77, title VIII, § 811, July 22, 1987, 101 Stat. 536; Pub. L. 100–435, title I, § 101, Sept. 19, 1988, 102 Stat. 1647; Pub. L. 101–624, title XVII, § 1772(b), Nov. 28, 1990, 104 Stat. 3808; Pub. L. 113–79, title IV, § 4207, Feb. 7, 2014, 128 Stat. 826.)
+(Pub. L. 98–8, title II, § 202, Mar. 24, 1983, 97 Stat. 35; Pub. L. 98–92, § 2(3), (4), Sept. 2, 1983, 97 Stat. 609; Pub. L. 99–198, title XV, §§ 1564(a), 1565(a), Dec. 23, 1985, 99 Stat. 1591; Pub. L. 100–77, title VIII, § 811, July 22, 1987, 101 Stat. 536; Pub. L. 100–435, title I, § 101, Sept. 19, 1988, 102 Stat. 1647; Pub. L. 101–624, title XVII, § 1772(b), Nov. 28, 1990, 104 Stat. 3808; Pub. L. 113–79, title IV, § 4207, Feb. 7, 2014, 128 Stat. 826.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(4), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(4), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-The Agricultural Act of 1949, referred to in subsec. (a)(4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (a)(4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (a)(4), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (a)(4), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-Section 713a–14 of title 15, referred to in subsec. (f), was repealed by Pub. L. 113–79, title I, § 1423(a), Feb. 7, 2014, 128 Stat. 695.
+Section 713a–14 of title 15, referred to in subsec. (f), was repealed by Pub. L. 113–79, title I, § 1423(a), Feb. 7, 2014, 128 Stat. 695.
 
 Section 1163 of the Food Security Act of 1985, referred to in subsec. (f), is section 1163 of Pub. L. 99–198, which is set out as a note under section 1731 of this title.
 
@@ -211,17 +211,17 @@ Section 1163 of the Food Security Act of 1985, referred to in subsec. (f), is se
 
 1988—Subsec. (f). Pub. L. 100–435 added subsec. (f).
 
-1987—Subsec. (a). Pub. L. 100–77, § 811(b), inserted subsec. (a) designation.
+1987—Subsec. (a). Pub. L. 100–77, § 811(b), inserted subsec. (a) designation.
 
-Subsec. (d). Pub. L. 100–77, § 811(a), inserted “a variety of commodities and products thereof that are most useful to eligible recipient agencies, including” after “shall include”.
+Subsec. (d). Pub. L. 100–77, § 811(a), inserted “a variety of commodities and products thereof that are most useful to eligible recipient agencies, including” after “shall include”.
 
-1985—Pub. L. 99–198, § 1565(a), struck out subsec. (a) designation and struck out subsec. (b) which read as follows: “Notwithstanding any other provision of law, if wheat stocks acquired by the Commodity Credit Corporation are not available for the purposes of this chapter, up to 300,000 metric tons of wheat designated under section 1736f–1(b)(1) of this title may be used for the purposes of this chapter. Any amount of wheat used from the Food Security Wheat Reserve under this chapter shall be replenished by an equivalent quantity of wheat under the provisions of section 1736f–1(b) of this title as soon as practicable, but before October 1, 1985.”
+1985—Pub. L. 99–198, § 1565(a), struck out subsec. (a) designation and struck out subsec. (b) which read as follows: “Notwithstanding any other provision of law, if wheat stocks acquired by the Commodity Credit Corporation are not available for the purposes of this chapter, up to 300,000 metric tons of wheat designated under section 1736f–1(b)(1) of this title may be used for the purposes of this chapter. Any amount of wheat used from the Food Security Wheat Reserve under this chapter shall be replenished by an equivalent quantity of wheat under the provisions of section 1736f–1(b) of this title as soon as practicable, but before October 1, 1985.”
 
-Subsecs. (c) to (e). Pub. L. 99–198, § 1564(a), added subsecs. (c) to (e).
+Subsecs. (c) to (e). Pub. L. 99–198, § 1564(a), added subsecs. (c) to (e).
 
-1983—Subsec. (a). Pub. L. 98–92, § 2(3), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Notwithstanding any other provision of law, commodities acquired by the Commodity Credit Corporation that are in excess of quantities needed for the fiscal year to carry out a payment-in-kind acreage diversion program, maintain U.S. share of world markets, and meet international market development and food aid commitments, shall be made available by the Secretary of Agriculture (hereinafter in this chapter referred to as the ‘Secretary’) without charge or credit in such fiscal year for use by eligible recipient agencies. Upon request, commodities provided by the CCC shall be provided in a form suitable for individual household or institutional use.”
+1983—Subsec. (a). Pub. L. 98–92, § 2(3), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Notwithstanding any other provision of law, commodities acquired by the Commodity Credit Corporation that are in excess of quantities needed for the fiscal year to carry out a payment-in-kind acreage diversion program, maintain U.S. share of world markets, and meet international market development and food aid commitments, shall be made available by the Secretary of Agriculture (hereinafter in this chapter referred to as the ‘Secretary’) without charge or credit in such fiscal year for use by eligible recipient agencies. Upon request, commodities provided by the CCC shall be provided in a form suitable for individual household or institutional use.”
 
-Subsec. (b). Pub. L. 98–92, § 2(4), substituted “may be used” for “shall be used” and directed the substitution of “October 1, 1985” for “December 1, 1983”, which was executed by making the substitution for “December 31, 1983” to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 98–92, § 2(4), substituted “may be used” for “shall be used” and directed the substitution of “October 1, 1985” for “December 1, 1983”, which was executed by making the substitution for “December 31, 1983” to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -231,9 +231,9 @@ Amendment by Pub. L. 100–435 to be effective and implemented on Sept. 19, 1988
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that the amendment made by section 2 is effective Oct. 1, 1983.
+Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that the amendment made by section 2 is effective Oct. 1, 1983.
 
-## § 7503. State plan
+## § 7503. State plan
 
 **(a) Plans**
 
@@ -267,7 +267,7 @@ A State shall submit to the Secretary for approval any amendment to a plan submi
 
 The Secretary shall encourage each State receiving commodities under this chapter to establish a State advisory board consisting of representatives of all entities in the State, both public and private, interested in the distribution of commodities received under this chapter.
 
-(Pub. L. 98–8, title II, § 202A, as added Pub. L. 100–77, title VIII, § 812, July 22, 1987, 101 Stat. 537; amended Pub. L. 104–193, title VIII, § 871(b), Aug. 22, 1996, 110 Stat. 2344; Pub. L. 110–234, title IV, § 4201(b), May 22, 2008, 122 Stat. 1121; Pub. L. 110–246, § 4(a), title IV, § 4201(b), June 18, 2008, 122 Stat. 1664, 1882; Pub. L. 115–334, title IV, § 4018(a), Dec. 20, 2018, 132 Stat. 4648.)
+(Pub. L. 98–8, title II, § 202A, as added Pub. L. 100–77, title VIII, § 812, July 22, 1987, 101 Stat. 537; amended Pub. L. 104–193, title VIII, § 871(b), Aug. 22, 1996, 110 Stat. 2344; Pub. L. 110–234, title IV, § 4201(b), May 22, 2008, 122 Stat. 1121; Pub. L. 110–246, § 4(a), title IV, § 4201(b), June 18, 2008, 122 Stat. 1664, 1882; Pub. L. 115–334, title IV, § 4018(a), Dec. 20, 2018, 132 Stat. 4648.)
 
 **Editorial Notes**
 
@@ -279,7 +279,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (b)(5), (6). Pub. L. 115–334 added pars. (5) and (6).
 
-2008—Subsec. (a). Pub. L. 110–246, § 4201(b), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “To receive commodities under this chapter, a State shall submit a plan of operation and administration every 4 years to the Secretary for approval. The plan may be amended at any time, with the approval of the Secretary.”
+2008—Subsec. (a). Pub. L. 110–246, § 4201(b), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “To receive commodities under this chapter, a State shall submit a plan of operation and administration every 4 years to the Secretary for approval. The plan may be amended at any time, with the approval of the Secretary.”
 
 1996—Pub. L. 104–193 amended section generally, substituting present provisions for provisions relating to availability of flour, cornmeal, and cheese acquired by the Commodity Credit Corporation.
 
@@ -291,31 +291,31 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 4201(b) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
-## § 7504. Initial processing costs
+## § 7504. Initial processing costs
 
 The Secretary may use funds of the Commodity Credit Corporation to pay costs of initial processing and packaging of commodities to be distributed under the program established under this chapter into forms, and in quantities, suitable, as determined by the Secretary, for use in individual households when such commodities are to be consumed by individual households or for institutional use, as applicable. The Secretary may pay such costs in the form of Corporation-owned commodities equal in value to such costs. The Secretary shall ensure that any such payments in kind will not displace commercial sales of such commodities.
 
-(Pub. L. 98–8, title II, § 203A, as added Pub. L. 98–92, § 2(5), Sept. 2, 1983, 97 Stat. 609; amended Pub. L. 99–198, title XV, § 1565(b), Dec. 23, 1985, 99 Stat. 1591.)
+(Pub. L. 98–8, title II, § 203A, as added Pub. L. 98–92, § 2(5), Sept. 2, 1983, 97 Stat. 609; amended Pub. L. 99–198, title XV, § 1565(b), Dec. 23, 1985, 99 Stat. 1591.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1985—Pub. L. 99–198 struck out “, except that wheat from the Food Security Wheat Reserve may not be used to pay such costs” after “equal in value to such costs”.
+1985—Pub. L. 99–198 struck out “, except that wheat from the Food Security Wheat Reserve may not be used to pay such costs” after “equal in value to such costs”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that this section is effective Oct. 1, 1983.
+Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that this section is effective Oct. 1, 1983.
 
-## § 7505. Federal and State responsibilities
+## § 7505. Federal and State responsibilities
 
 **(a) Federal responsibility; optional State priority**
 
-The Secretary shall, as expeditiously as possible, provide the commodities made available under this chapter in such quantities as can be used without waste to State agencies designated by the Governor or other appropriate State official for distribution to eligible recipient agencies, except that the Secretary may provide such commodities directly to eligible recipient agencies and to private companies that process such commodities for eligible recipient agencies under sections 1
+The Secretary shall, as expeditiously as possible, provide the commodities made available under this chapter in such quantities as can be used without waste to State agencies designated by the Governor or other appropriate State official for distribution to eligible recipient agencies, except that the Secretary may provide such commodities directly to eligible recipient agencies and to private companies that process such commodities for eligible recipient agencies under sections 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 7504 of this title. Notwithstanding any other provision of this chapter, in the distribution of commodities under this chapter, each State agency shall have the option to give priority to existing food bank networks and other organizations whose ongoing primary function is to facilitate the distribution of food to low-income households, including food from sources other than the Department of Agriculture.
 
@@ -333,7 +333,7 @@ Each State agency receiving commodities for individual household use under this 
 
 **(2)** transfer such commodities to any such emergency feeding organization in the other State under such agreement.
 
-(Pub. L. 98–8, title II, § 203B, as added Pub. L. 98–92, § 2(5), Sept. 2, 1983, 97 Stat. 610; amended Pub. L. 99–198, title XV, § 1568, Dec. 23, 1985, 99 Stat. 1592; Pub. L. 100–435, title I, § 105(c), Sept. 19, 1988, 102 Stat. 1651; Pub. L. 104–193, title VIII, § 871(e)(1), Aug. 22, 1996, 110 Stat. 2345.)
+(Pub. L. 98–8, title II, § 203B, as added Pub. L. 98–92, § 2(5), Sept. 2, 1983, 97 Stat. 610; amended Pub. L. 99–198, title XV, § 1568, Dec. 23, 1985, 99 Stat. 1592; Pub. L. 100–435, title I, § 105(c), Sept. 19, 1988, 102 Stat. 1651; Pub. L. 104–193, title VIII, § 871(e)(1), Aug. 22, 1996, 110 Stat. 2345.)
 
 **Editorial Notes**
 
@@ -343,9 +343,9 @@ Each State agency receiving commodities for individual household use under this 
 
 1988—Subsec. (a). Pub. L. 100–435 inserted at end “Notwithstanding any other provision of this chapter, in the distribution of commodities under this chapter, each State agency shall have the option to give priority to existing food bank networks and other organizations whose ongoing primary function is to facilitate the distribution of food to low-income households, including food from sources other than the Department of Agriculture.”
 
-1985—Subsec. (b). Pub. L. 99–198, § 1568(a), inserted at end “Each State agency shall encourage distribution of such commodities in rural areas.”
+1985—Subsec. (b). Pub. L. 99–198, § 1568(a), inserted at end “Each State agency shall encourage distribution of such commodities in rural areas.”
 
-Subsec. (d). Pub. L. 99–198, § 1568(b), added subsec. (d).
+Subsec. (d). Pub. L. 99–198, § 1568(b), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -355,15 +355,15 @@ Amendment by Pub. L. 100–435 to be effective and implemented on Oct. 1, 1988, 
 
 **Effective Date**
 
-Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that this section is effective Oct. 1, 1983.
+Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that this section is effective Oct. 1, 1983.
 
-## § 7506. Assurances; anticipated use
+## § 7506. Assurances; anticipated use
 
 **(a)** The Secretary shall take such precautions as the Secretary deems necessary to assure that any eligible recipient agency receiving commodities under this chapter will provide such commodities to persons served by the eligible recipient agency and will not diminish its normal expenditures for food by reason of the receipt of such commodities. The Secretary shall also take such precautions as the Secretary deems necessary to assure that commodities made available under this chapter will not displace commercial sales of such commodities or the products thereof. The Secretary shall not make commodities available for donation in any quantity or manner that the Secretary, in the Secretary’s discretion, determines may, substitute for the same or any other agricultural produce that would otherwise be purchased in the market.
 
 **(b)** Commodities provided under this chapter shall be distributed only in quantities that can be consumed without waste. No eligible recipient agency may receive commodities under this chapter in excess of anticipated use, based on inventory records and controls, or in excess of its ability to accept and store such commodities.
 
-(Pub. L. 98–8, title II, § 203C, as added Pub. L. 98–92, § 2(5), Sept. 2, 1983, 97 Stat. 610; amended Pub. L. 99–198, title XV, § 1566, Dec. 23, 1985, 99 Stat. 1591; Pub. L. 104–66, title I, § 1011(k), Dec. 21, 1995, 109 Stat. 710.)
+(Pub. L. 98–8, title II, § 203C, as added Pub. L. 98–92, § 2(5), Sept. 2, 1983, 97 Stat. 610; amended Pub. L. 99–198, title XV, § 1566, Dec. 23, 1985, 99 Stat. 1591; Pub. L. 104–66, title I, § 1011(k), Dec. 21, 1995, 109 Stat. 710.)
 
 **Editorial Notes**
 
@@ -377,9 +377,9 @@ Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that this
 
 **Effective Date**
 
-Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that this section is effective Oct. 1, 1983.
+Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that this section is effective Oct. 1, 1983.
 
-## § 7507. State and local supplementation of commodities
+## § 7507. State and local supplementation of commodities
 
 **(a) Authorization**
 
@@ -469,7 +469,7 @@ Not later than 180 days after December 20, 2018, the Secretary shall issue guida
 
 The Secretary shall encourage State agencies and emergency feeding organizations to share the guidance issued under subparagraph (A) with qualified direct donors.
 
-(Pub. L. 98–8, title II, § 203D, as added Pub. L. 100–435, title I, § 102, Sept. 19, 1988, 102 Stat. 1647; amended Pub. L. 115–334, title IV, §§ 4018(b), (c), 4104, Dec. 20, 2018, 132 Stat. 4648, 4649, 4655; Pub. L. 118–22, div. B, title I, § 102(d)(3), Nov. 17, 2023, 137 Stat. 116; Pub. L. 119–21, title I, § 10603, July 4, 2025, 139 Stat. 108.)
+(Pub. L. 98–8, title II, § 203D, as added Pub. L. 100–435, title I, § 102, Sept. 19, 1988, 102 Stat. 1647; amended Pub. L. 115–334, title IV, §§ 4018(b), (c), 4104, Dec. 20, 2018, 132 Stat. 4648, 4649, 4655; Pub. L. 118–22, div. B, title I, § 102(d)(3), Nov. 17, 2023, 137 Stat. 116; Pub. L. 119–21, title I, § 10603, July 4, 2025, 139 Stat. 108.)
 
 **Editorial Notes**
 
@@ -479,9 +479,9 @@ The Secretary shall encourage State agencies and emergency feeding organizations
 
 2023—Subsec. (d)(5). Pub. L. 118–22 substituted “2024” for “2023”.
 
-2018—Subsecs. (d), (e). Pub. L. 115–334, § 4018(b), (c), added subsecs. (d) and (e).
+2018—Subsecs. (d), (e). Pub. L. 115–334, § 4018(b), (c), added subsecs. (d) and (e).
 
-Subsec. (f). Pub. L. 115–334, § 4104, added subsec. (f).
+Subsec. (f). Pub. L. 115–334, § 4104, added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -493,7 +493,7 @@ Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Se
 
 Section to be effective and implemented on Oct. 1, 1988, see section 701(a) of Pub. L. 100–435, set out as an Effective Date of 1988 Amendment note under section 2012 of this title.
 
-## § 7508. Authorization and appropriations
+## § 7508. Authorization and appropriations
 
 **(a)**
 
@@ -529,7 +529,7 @@ for use in carrying out this chapter.
 
 **(b)** The value of the commodities made available under this chapter and the funds of the Corporation used to pay the costs of initial processing, packaging (including forms suitable for home use), and delivering commodities to the States shall not be charged against appropriations made or authorized under this section.
 
-(Pub. L. 98–8, title II, § 204, Mar. 24, 1983, 97 Stat. 35; Pub. L. 98–92, § 2(6), Sept. 2, 1983, 97 Stat. 610; Pub. L. 99–198, title XV, § 1569, Dec. 23, 1985, 99 Stat. 1592; Pub. L. 100–77, title VIII, § 813, July 22, 1987, 101 Stat. 537; Pub. L. 100–435, title I, §§ 103(a)–(c), 105(a), Sept. 19, 1988, 102 Stat. 1647, 1650; Pub. L. 101–624, title XVII, § 1772(c), (d), Nov. 28, 1990, 104 Stat. 3808, 3809; Pub. L. 104–127, title IV, § 403(a), Apr. 4, 1996, 110 Stat. 1029; Pub. L. 104–193, title VIII, § 871(c), (e)(2), Aug. 22, 1996, 110 Stat. 2345; Pub. L. 107–171, title IV, § 4204, May 13, 2002, 116 Stat. 330; Pub. L. 110–234, title IV, §§ 4201(c), 4406(b)(1), May 22, 2008, 122 Stat. 1121, 1141; Pub. L. 110–246, § 4(a), title IV, §§ 4201(c), 4406(b)(1), June 18, 2008, 122 Stat. 1664, 1882, 1902.)
+(Pub. L. 98–8, title II, § 204, Mar. 24, 1983, 97 Stat. 35; Pub. L. 98–92, § 2(6), Sept. 2, 1983, 97 Stat. 610; Pub. L. 99–198, title XV, § 1569, Dec. 23, 1985, 99 Stat. 1592; Pub. L. 100–77, title VIII, § 813, July 22, 1987, 101 Stat. 537; Pub. L. 100–435, title I, §§ 103(a)–(c), 105(a), Sept. 19, 1988, 102 Stat. 1647, 1650; Pub. L. 101–624, title XVII, § 1772(c), (d), Nov. 28, 1990, 104 Stat. 3808, 3809; Pub. L. 104–127, title IV, § 403(a), Apr. 4, 1996, 110 Stat. 1029; Pub. L. 104–193, title VIII, § 871(c), (e)(2), Aug. 22, 1996, 110 Stat. 2345; Pub. L. 107–171, title IV, § 4204, May 13, 2002, 116 Stat. 330; Pub. L. 110–234, title IV, §§ 4201(c), 4406(b)(1), May 22, 2008, 122 Stat. 1121, 1141; Pub. L. 110–246, § 4(a), title IV, §§ 4201(c), 4406(b)(1), June 18, 2008, 122 Stat. 1664, 1882, 1902.)
 
 **Editorial Notes**
 
@@ -539,33 +539,33 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 4406(b)(1), in first sentence, substituted “for fiscal year 2008 and each fiscal year thereafter” for “for each of the fiscal years 2003 through 2007”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 4406(b)(1), in first sentence, substituted “for fiscal year 2008 and each fiscal year thereafter” for “for each of the fiscal years 2003 through 2007”.
 
-Pub. L. 110–246, § 4201(c), in first sentence, substituted “$100,000,000” for “$60,000,000” and inserted “and donated wild game” before period at end.
+Pub. L. 110–246, § 4201(c), in first sentence, substituted “$100,000,000” for “$60,000,000” and inserted “and donated wild game” before period at end.
 
-2002—Subsec. (a)(1). Pub. L. 107–171, in first sentence, substituted “$60,000,000” for “$50,000,000” and “2003 through 2007” for “1991 through 2002”, struck out “administrative” before “costs of the States”, and inserted “storage,” after “processing,” and “, including commodities secured by gleaning (as defined in section 111(a) of the Hunger Prevention Act of 1988 (7 U.S.C. 612c note; Public Law 100–435))” after “sources”.
+2002—Subsec. (a)(1). Pub. L. 107–171, in first sentence, substituted “$60,000,000” for “$50,000,000” and “2003 through 2007” for “1991 through 2002”, struck out “administrative” before “costs of the States”, and inserted “storage,” after “processing,” and “, including commodities secured by gleaning (as defined in section 111(a) of the Hunger Prevention Act of 1988 (7 U.S.C. 612c note; Public Law 100–435))” after “sources”.
 
-1996—Subsec. (a). Pub. L. 104–193, § 871(e)(2), made technical amendment to reference in original act which appears in text as reference to “this chapter” in second sentence of par. (1), in second sentence of par. (2) immediately before concluding period, and in concluding provisions of par. (4)(A).
+1996—Subsec. (a). Pub. L. 104–193, § 871(e)(2), made technical amendment to reference in original act which appears in text as reference to “this chapter” in second sentence of par. (1), in second sentence of par. (2) immediately before concluding period, and in concluding provisions of par. (4)(A).
 
-Subsec. (a)(1). Pub. L. 104–193, § 871(c), in first sentence, substituted “to pay for the direct and indirect administrative costs of the States related to the processing, transporting, and distributing to eligible recipient agencies of commodities provided by the Secretary under this chapter and commodities secured from other sources” for “for State and local payments for costs associated with the distribution of commodities by emergency feeding organizations under this chapter” and struck out at end “States may also use funds provided under this paragraph to pay for the costs associated with the distribution of commodities under the program authorized under section 110 of the Hunger Prevention Act of 1988 [section 110 of Pub. L. 100–435, set out above], and to pay for the costs associated with the distribution of additional commodities provided pursuant to section 7515 of this title”.
+Subsec. (a)(1). Pub. L. 104–193, § 871(c), in first sentence, substituted “to pay for the direct and indirect administrative costs of the States related to the processing, transporting, and distributing to eligible recipient agencies of commodities provided by the Secretary under this chapter and commodities secured from other sources” for “for State and local payments for costs associated with the distribution of commodities by emergency feeding organizations under this chapter” and struck out at end “States may also use funds provided under this paragraph to pay for the costs associated with the distribution of commodities under the program authorized under section 110 of the Hunger Prevention Act of 1988 [section 110 of Pub. L. 100–435, set out above], and to pay for the costs associated with the distribution of additional commodities provided pursuant to section 7515 of this title”.
 
 Pub. L. 104–127 substituted “2002” for “1995” in first sentence.
 
-1990—Subsec. (a). Pub. L. 101–624, § 1772(c)(1), (2), redesignated subsec. (c) as (a) and struck out former subsec. (a) which read as follows: “There is appropriated for the period ending September 30, 1983, $50,000,000 for the Secretary to make available to the States for storage and distribution costs, of which not less than $10,000,000 shall be made available for paying the actual costs incurred by charitable institutions, food banks, hunger centers, soup kitchens, and similar nonprofit organizations providing nutrition assistance to relieve situations of emergency and distress through the provision of food to needy persons, including low-income and unemployed persons, provided that in no case shall such payments exceed five per centum of the value of commodities distributed by any such agency.”
+1990—Subsec. (a). Pub. L. 101–624, § 1772(c)(1), (2), redesignated subsec. (c) as (a) and struck out former subsec. (a) which read as follows: “There is appropriated for the period ending September 30, 1983, $50,000,000 for the Secretary to make available to the States for storage and distribution costs, of which not less than $10,000,000 shall be made available for paying the actual costs incurred by charitable institutions, food banks, hunger centers, soup kitchens, and similar nonprofit organizations providing nutrition assistance to relieve situations of emergency and distress through the provision of food to needy persons, including low-income and unemployed persons, provided that in no case shall such payments exceed five per centum of the value of commodities distributed by any such agency.”
 
-Subsec. (a)(1). Pub. L. 101–624, § 1772(c)(3), substituted “1991 through 1995” for “ending September 30, 1986, through September 30, 1990,”.
+Subsec. (a)(1). Pub. L. 101–624, § 1772(c)(3), substituted “1991 through 1995” for “ending September 30, 1986, through September 30, 1990,”.
 
-Subsec. (a)(2). Pub. L. 101–624, § 1772(d), inserted “repackaging, processing,” after “handling,” in second sentence.
+Subsec. (a)(2). Pub. L. 101–624, § 1772(d), inserted “repackaging, processing,” after “handling,” in second sentence.
 
-Subsec. (b). Pub. L. 101–624, § 1772(c)(1), (2), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: “There are hereby authorized to be appropriated $50,000,000 for each of the fiscal years ending September 30, 1984, and September 30, 1985, for the Secretary to make available to the States for storage and distribution costs of which not less than twenty per centum of the amount appropriated under this subsection in any fiscal year shall be made available for paying or providing advance payments to cover the actual costs incurred by charitable institutions, food banks, hunger centers, soup kitchens, and similar nonprofit eligible recipient agencies providing nutrition assistance to relieve situations of emergency and distress through the provision of food to needy persons, including low-income and unemployed persons: *Provided*, That in no case shall such payments exceed five per centum of the value of commodities distributed by any such agency.”
+Subsec. (b). Pub. L. 101–624, § 1772(c)(1), (2), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: “There are hereby authorized to be appropriated $50,000,000 for each of the fiscal years ending September 30, 1984, and September 30, 1985, for the Secretary to make available to the States for storage and distribution costs of which not less than twenty per centum of the amount appropriated under this subsection in any fiscal year shall be made available for paying or providing advance payments to cover the actual costs incurred by charitable institutions, food banks, hunger centers, soup kitchens, and similar nonprofit eligible recipient agencies providing nutrition assistance to relieve situations of emergency and distress through the provision of food to needy persons, including low-income and unemployed persons: *Provided*, That in no case shall such payments exceed five per centum of the value of commodities distributed by any such agency.”
 
-Subsecs. (c), (d). Pub. L. 101–624, § 1772(c)(2), redesignated subsecs. (c) and (d) as (a) and (b), respectively.
+Subsecs. (c), (d). Pub. L. 101–624, § 1772(c)(2), redesignated subsecs. (c) and (d) as (a) and (b), respectively.
 
-1988—Subsec. (c)(1). Pub. L. 100–435, § 105(a), inserted at end “States may also use funds provided under this paragraph to pay for the costs associated with the distribution of commodities under the program authorized under section 110 of the Hunger Prevention Act of 1988, and to pay for the costs associated with the distribution of additional commodities provided pursuant to section 7515 of this title.”
+1988—Subsec. (c)(1). Pub. L. 100–435, § 105(a), inserted at end “States may also use funds provided under this paragraph to pay for the costs associated with the distribution of commodities under the program authorized under section 110 of the Hunger Prevention Act of 1988, and to pay for the costs associated with the distribution of additional commodities provided pursuant to section 7515 of this title.”
 
-Pub. L. 100–435, § 103(a), substituted “through September 30, 1990” for “through September 30, 1988” in first sentence.
+Pub. L. 100–435, § 103(a), substituted “through September 30, 1990” for “through September 30, 1988” in first sentence.
 
-Subsec. (c)(2). Pub. L. 100–435, § 103(b), (c), in first sentence, substituted “40” for “20” and, in second sentence, inserted “costs of providing information to persons receiving commodities under this chapter concerning the appropriate storage and preparation of such commodities;” after “documentation;”.
+Subsec. (c)(2). Pub. L. 100–435, § 103(b), (c), in first sentence, substituted “40” for “20” and, in second sentence, inserted “costs of providing information to persons receiving commodities under this chapter concerning the appropriate storage and preparation of such commodities;” after “documentation;”.
 
 1987—Subsec. (c)(1). Pub. L. 100–77 substituted “through September 30, 1988” for “and September 30, 1987” in first sentence.
 
@@ -595,15 +595,15 @@ Amendment by section 103(a)–(c) of Pub. L. 100–435 to be effective and imple
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that the amendment made by section 2 is effective Oct. 1, 1983.
+Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that the amendment made by section 2 is effective Oct. 1, 1983.
 
-## § 7509. Relationship to other programs
+## § 7509. Relationship to other programs
 
 **(a)** Section 2013(b) of this title shall not apply with respect to the distribution of commodities under this chapter.
 
 **(b)** Except as otherwise provided in section 7504 of this title, none of the commodities distributed under this chapter shall be sold or otherwise disposed of in commercial channels in any form.
 
-(Pub. L. 98–8, title II, § 205, Mar. 24, 1983, 97 Stat. 36; Pub. L. 98–92, § 2(7), Sept. 2, 1983, 97 Stat. 611; Pub. L. 110–234, title I, § 4002(b)(1)(B), (2)(I), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(I), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Pub. L. 98–8, title II, § 205, Mar. 24, 1983, 97 Stat. 36; Pub. L. 98–92, § 2(7), Sept. 2, 1983, 97 Stat. 611; Pub. L. 110–234, title I, § 4002(b)(1)(B), (2)(I), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(I), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 **Editorial Notes**
 
@@ -613,7 +613,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–246, § 4002(b)(1)(B), (2)(I), made technical amendment to reference in original act which appears in text as reference to section 2013(b) of this title.
+2008—Subsec. (a). Pub. L. 110–246, § 4002(b)(1)(B), (2)(I), made technical amendment to reference in original act which appears in text as reference to section 2013(b) of this title.
 
 1983—Pub. L. 98–92 substituted “Relationship to other programs” for “Relationships to food stamps” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
@@ -627,21 +627,21 @@ Amendment by section 4002(b)(1)(B), (2)(I) of Pub. L. 110–246 effective Oct. 1
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that the amendment made by section 2 is effective Oct. 1, 1983.
+Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that the amendment made by section 2 is effective Oct. 1, 1983.
 
-## § 7510. Commodities not income
+## § 7510. Commodities not income
 
 Notwithstanding any other provision of law, commodities distributed under this chapter shall not be considered income or resources for any purposes under any Federal, State, or local law.
 
-(Pub. L. 98–8, title II, § 206, Mar. 24, 1983, 97 Stat. 36.)
+(Pub. L. 98–8, title II, § 206, Mar. 24, 1983, 97 Stat. 36.)
 
-## § 7511. Prohibition against certain State charges
+## § 7511. Prohibition against certain State charges
 
 Whenever a commodity is made available without charge or credit under any nutrition program administered by the Secretary for distribution within the States to eligible recipient agencies, the State may not charge recipient agencies any amount that is in excess of the State’s direct costs of storing and transporting the commodities to recipient agencies minus any amount the Secretary provides the State for the costs of storing and transporting such commodities.
 
-(Pub. L. 98–8, title II, § 208, Mar. 24, 1983, 97 Stat. 36.)
+(Pub. L. 98–8, title II, § 208, Mar. 24, 1983, 97 Stat. 36.)
 
-## § 7511a. Emergency food program infrastructure grants
+## § 7511a. Emergency food program infrastructure grants
 
 **(a) Definition of eligible entity**
 
@@ -683,7 +683,7 @@ The Secretary shall use funds made available under subsection (d) to make grants
 
 There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2008 through 2023.
 
-(Pub. L. 98–8, title II, § 209, as added Pub. L. 110–234, title IV, § 4202, May 22, 2008, 122 Stat. 1121; Pub. L. 110–246, § 4(a), title IV, § 4202, June 18, 2008, 122 Stat. 1664, 1883; amended Pub. L. 113–79, title IV, § 4027(b), Feb. 7, 2014, 128 Stat. 812; Pub. L. 115–334, title IV, § 4018(d), Dec. 20, 2018, 132 Stat. 4650.)
+(Pub. L. 98–8, title II, § 209, as added Pub. L. 110–234, title IV, § 4202, May 22, 2008, 122 Stat. 1121; Pub. L. 110–246, § 4(a), title IV, § 4202, June 18, 2008, 122 Stat. 1664, 1883; amended Pub. L. 113–79, title IV, § 4027(b), Feb. 7, 2014, 128 Stat. 812; Pub. L. 115–334, title IV, § 4018(d), Dec. 20, 2018, 132 Stat. 4650.)
 
 **Editorial Notes**
 
@@ -693,7 +693,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 209 of Pub. L. 98–8, which related to commodity supplemental food program administrative expenses, was set out in a note under section 612c of this title prior to repeal by Pub. L. 99–198, title XV, § 1562(e)(1), Dec. 23, 1985, 99 Stat. 1590.
+A prior section 209 of Pub. L. 98–8, which related to commodity supplemental food program administrative expenses, was set out in a note under section 612c of this title prior to repeal by Pub. L. 99–198, title XV, § 1562(e)(1), Dec. 23, 1985, 99 Stat. 1590.
 
 **Amendments**
 
@@ -709,7 +709,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under section 1161 of Title 2, The Congress.
 
-## § 7512. Regulations
+## § 7512. Regulations
 
 **(a) Issuance**
 
@@ -727,15 +727,15 @@ In administering this chapter, the Secretary shall minimize, to the maximum exte
 
 **(d) Standards of liability for commodity losses**
 
-The regulations issued by the Secretary under this section shall include provisions that set standards with respect to liability for commodity losses under the program under this chapter in situations in which there is no evidence of negligence or fraud, and conditions for payment to cover such losses. Such provisions shall take into consideration the special needs and circumstances of emergency feeding organizations 1
+The regulations issued by the Secretary under this section shall include provisions that set standards with respect to liability for commodity losses under the program under this chapter in situations in which there is no evidence of negligence or fraud, and conditions for payment to cover such losses. Such provisions shall take into consideration the special needs and circumstances of emergency feeding organizations 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(e) Final regulations**
 
 The Secretary is authorized to issue final regulations without first issuing proposed regulations for public comment in order to carry out the provisions of sections 7514 and 7515 of this title. If final regulations are issued without such prior public comment the Secretary shall permit public comment on such regulations, consider pertinent comments, and make modifications of such regulations as appropriate not later than 1 year after September 19, 1988. Such final and modified regulations shall be accompanied by a statement of the basis and purpose for such regulations.
 
-(Pub. L. 98–8, title II, § 210, Mar. 24, 1983, 97 Stat. 36; Pub. L. 98–92, § 2(9), Sept. 2, 1983, 97 Stat. 611; Pub. L. 99–198, title XV, § 1570, Dec. 23, 1985, 99 Stat. 1594; Pub. L. 100–77, title VIII, § 814(b), July 22, 1987, 101 Stat. 538; Pub. L. 100–435, title I, §§ 103(d), 105(b), Sept. 19, 1988, 102 Stat. 1648, 1651; Pub. L. 101–624, title XVII, § 1772(e), Nov. 28, 1990, 104 Stat. 3809; Pub. L. 104–193, title VIII, § 871(e)(3), Aug. 22, 1996, 110 Stat. 2345.)
+(Pub. L. 98–8, title II, § 210, Mar. 24, 1983, 97 Stat. 36; Pub. L. 98–92, § 2(9), Sept. 2, 1983, 97 Stat. 611; Pub. L. 99–198, title XV, § 1570, Dec. 23, 1985, 99 Stat. 1594; Pub. L. 100–77, title VIII, § 814(b), July 22, 1987, 101 Stat. 538; Pub. L. 100–435, title I, §§ 103(d), 105(b), Sept. 19, 1988, 102 Stat. 1648, 1651; Pub. L. 101–624, title XVII, § 1772(e), Nov. 28, 1990, 104 Stat. 3809; Pub. L. 104–193, title VIII, § 871(e)(3), Aug. 22, 1996, 110 Stat. 2345.)
 
 **Editorial Notes**
 
@@ -745,15 +745,15 @@ The Secretary is authorized to issue final regulations without first issuing pro
 
 1990—Subsec. (c). Pub. L. 101–624 added subsec. (c) and struck out former subsec. (c) which contained provisions similar to the current provisions for specific fiscal years.
 
-1988—Subsec. (c). Pub. L. 100–435, § 103(d), substituted “each of the fiscal years 1989 and 1990” for “the fiscal year ending September 30, 1988”.
+1988—Subsec. (c). Pub. L. 100–435, § 103(d), substituted “each of the fiscal years 1989 and 1990” for “the fiscal year ending September 30, 1988”.
 
-Subsec. (e). Pub. L. 100–435, § 105(b), added subsec. (e).
+Subsec. (e). Pub. L. 100–435, § 105(b), added subsec. (e).
 
 1987—Subsec. (c). Pub. L. 100–77 substituted provisions relating to period ending on date specified in former section 212 of Pub. L. 98–8 for provisions relating to period beginning October 1, 1983 and ending September 30, 1987, and substituted “fiscal year ending September 30, 1988” for “fiscal year ending September 30, 1987”.
 
-1985—Subsec. (c). Pub. L. 99–198, § 1570(1), substituted “the period beginning October 1, 1983, and ending September 30, 1987” for “the fiscal years ending September 30, 1984, and September 30, 1985”, “as early as feasible but not later than the beginning of the fiscal year ending September 30, 1987” for “prior to the beginning of the fiscal year ending September 30, 1985”, and “such fiscal year” for “second twelve months”.
+1985—Subsec. (c). Pub. L. 99–198, § 1570(1), substituted “the period beginning October 1, 1983, and ending September 30, 1987” for “the fiscal years ending September 30, 1984, and September 30, 1985”, “as early as feasible but not later than the beginning of the fiscal year ending September 30, 1987” for “prior to the beginning of the fiscal year ending September 30, 1985”, and “such fiscal year” for “second twelve months”.
 
-Subsec. (d). Pub. L. 99–198, § 1570(2), added subsec. (d).
+Subsec. (d). Pub. L. 99–198, § 1570(2), added subsec. (d).
 
 1983–Pub. L. 98–92 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -769,27 +769,27 @@ Amendment by section 103(d) of Pub. L. 100–435 to be effective and implemented
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that the amendment made by section 2 is effective Oct. 1, 1983.
+Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that the amendment made by section 2 is effective Oct. 1, 1983.
 
-## § 7513. Finality of determinations
+## § 7513. Finality of determinations
 
 Determinations made by the Secretary of Agriculture under this chapter and the facts constituting the basis for any donation of commodities under this chapter, or the amount thereof, when officially determined in conformity with the applicable regulations prescribed by the Secretary, shall be final and conclusive and shall not be reviewable by any other officer or agency of the Government.
 
-(Pub. L. 98–8, title II, § 211, as added Pub. L. 98–92, § 2(10), Sept. 2, 1983, 97 Stat. 612.)
+(Pub. L. 98–8, title II, § 211, as added Pub. L. 98–92, § 2(10), Sept. 2, 1983, 97 Stat. 612.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that this section is effective Oct. 1, 1983.
+Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that this section is effective Oct. 1, 1983.
 
-## § 7514. Incorporation of additional commodities
+## § 7514. Incorporation of additional commodities
 
 **(a) In general**
 
-The Secretary shall administer the program authorized under this chapter in a manner that incorporates into the program additional commodities purchased by the Secretary under section 7515 of this title to be distributed to States for use in such States by emergency feeding organizations, as defined in section 7501(1) 1
+The Secretary shall administer the program authorized under this chapter in a manner that incorporates into the program additional commodities purchased by the Secretary under section 7515 of this title to be distributed to States for use in such States by emergency feeding organizations, as defined in section 7501(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title. Such additional commodities, to the extent practicable and appropriate, shall include commodities purchased within a given State for distribution within such State.
 
@@ -797,7 +797,7 @@ of this title. Such additional commodities, to the extent practicable and approp
 
 The Secretary shall supplement the commodities made available to emergency feeding organizations under sections 7502 and 7507(a) of this title with nutritious and useful commodities purchased by the Secretary under section 7515 of this title.
 
-(Pub. L. 98–8, title II, § 213, as added Pub. L. 100–435, title I, § 104, Sept. 19, 1988, 102 Stat. 1648.)
+(Pub. L. 98–8, title II, § 213, as added Pub. L. 100–435, title I, § 104, Sept. 19, 1988, 102 Stat. 1648.)
 
 **Editorial Notes**
 
@@ -811,7 +811,7 @@ Section 7501 of this title, referred to in subsec. (a), was subsequently amended
 
 Section to be effective and implemented on Oct. 1, 1988, see section 701(a) of Pub. L. 100–435, set out as an Effective Date of 1988 Amendment note under section 2012 of this title.
 
-## § 7515. Allotment and delivery of commodities
+## § 7515. Allotment and delivery of commodities
 
 **(a) Mandatory allotments** In each fiscal year, the Secretary shall allot—
 
@@ -837,45 +837,45 @@ Each State shall be entitled to receive the value of additional commodities dete
 
 If a State uses its own funds to provide commodities or services to organizations receiving funds or services under this section, such State shall not diminish the level of support it provides to such organizations.
 
-(Pub. L. 98–8, title II, § 214, as added Pub. L. 100–435, title I, § 104, Sept. 19, 1988, 102 Stat. 1648; amended Pub. L. 101–624, title XVII, § 1772(g), (h)(1), Nov. 28, 1990, 104 Stat. 3809; Pub. L. 104–127, title IV, § 403(c), Apr. 4, 1996, 110 Stat. 1029; Pub. L. 104–193, title VIII, § 871(d), Aug. 22, 1996, 110 Stat. 2345.)
+(Pub. L. 98–8, title II, § 214, as added Pub. L. 100–435, title I, § 104, Sept. 19, 1988, 102 Stat. 1648; amended Pub. L. 101–624, title XVII, § 1772(g), (h)(1), Nov. 28, 1990, 104 Stat. 3809; Pub. L. 104–127, title IV, § 403(c), Apr. 4, 1996, 110 Stat. 1029; Pub. L. 104–193, title VIII, § 871(d), Aug. 22, 1996, 110 Stat. 2345.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–193, § 871(d)(1), (2), redesignated subsec. (f) as (a) and struck out former subsec. (a) which provided for purpose of section.
+1996—Subsec. (a). Pub. L. 104–193, § 871(d)(1), (2), redesignated subsec. (f) as (a) and struck out former subsec. (a) which provided for purpose of section.
 
-Pub. L. 104–127, § 403(c)(1), substituted “2002” for “1995”.
+Pub. L. 104–127, § 403(c)(1), substituted “2002” for “1995”.
 
-Subsec. (b). Pub. L. 104–193, § 871(d)(1)–(3), redesignated subsec. (g) as (b), substituted “subsection (a),” for “subsection (f) of this section or subsection (j) of this section if applicable,” and “subsection (a)” for “subsection (f) of this section”, and struck out former subsec. (b) which provided definitions for section.
+Subsec. (b). Pub. L. 104–193, § 871(d)(1)–(3), redesignated subsec. (g) as (b), substituted “subsection (a),” for “subsection (f) of this section or subsection (j) of this section if applicable,” and “subsection (a)” for “subsection (f) of this section”, and struck out former subsec. (b) which provided definitions for section.
 
-Subsec. (c). Pub. L. 104–193, § 871(d)(4), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Subject to subsections (e) and (f) of this section, or subsection (j) of this section if applicable, purchases under this section shall be made by the Secretary at such times and under such conditions as the Secretary determines appropriate within each fiscal year. All such commodities purchased for each such fiscal year shall be delivered at reasonable intervals to States based on the allotments calculated under subsection (f) of this section, or reallocated under subsection (g) of this section, or calculated under subsection (j) of this section if applicable, before the end of such fiscal year. Each State shall be entitled to receive that value of additional commodities that results from the application of the formula set forth in this section to the total value of additional commodities.”
+Subsec. (c). Pub. L. 104–193, § 871(d)(4), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Subject to subsections (e) and (f) of this section, or subsection (j) of this section if applicable, purchases under this section shall be made by the Secretary at such times and under such conditions as the Secretary determines appropriate within each fiscal year. All such commodities purchased for each such fiscal year shall be delivered at reasonable intervals to States based on the allotments calculated under subsection (f) of this section, or reallocated under subsection (g) of this section, or calculated under subsection (j) of this section if applicable, before the end of such fiscal year. Each State shall be entitled to receive that value of additional commodities that results from the application of the formula set forth in this section to the total value of additional commodities.”
 
-Pub. L. 104–193, § 871(d)(1), (2), redesignated subsec. (h) as (c) and struck out former subsec. (c) which authorized Secretary to purchase additional commodities to supplement commodities otherwise provided under program authorized by this chapter.
+Pub. L. 104–193, § 871(d)(1), (2), redesignated subsec. (h) as (c) and struck out former subsec. (c) which authorized Secretary to purchase additional commodities to supplement commodities otherwise provided under program authorized by this chapter.
 
-Subsec. (d). Pub. L. 104–193, § 871(d)(5), struck out “or reduce the amount of funds available for other nutrition programs in the State in each fiscal year” after “such organizations”.
+Subsec. (d). Pub. L. 104–193, § 871(d)(5), struck out “or reduce the amount of funds available for other nutrition programs in the State in each fiscal year” after “such organizations”.
 
-Pub. L. 104–193, § 871(d)(1), (2), redesignated subsec. (i) as (d) and struck out former subsec. (d) which provided for types and varieties of commodities which could be purchased under this section.
+Pub. L. 104–193, § 871(d)(1), (2), redesignated subsec. (i) as (d) and struck out former subsec. (d) which provided for types and varieties of commodities which could be purchased under this section.
 
-Subsec. (e). Pub. L. 104–193, § 871(d)(1), struck out subsec. (e) which appropriated amounts through fiscal year 2002 for purchase of additional commodities under this section.
+Subsec. (e). Pub. L. 104–193, § 871(d)(1), struck out subsec. (e) which appropriated amounts through fiscal year 2002 for purchase of additional commodities under this section.
 
-Pub. L. 104–127, § 403(c)(2), substituted “2002” for “1995” in two places.
+Pub. L. 104–127, § 403(c)(2), substituted “2002” for “1995” in two places.
 
-Subsecs. (f) to (i). Pub. L. 104–193, § 871(d)(2), redesignated subsecs. (f) to (i) as (a) to (d), respectively.
+Subsecs. (f) to (i). Pub. L. 104–193, § 871(d)(2), redesignated subsecs. (f) to (i) as (a) to (d), respectively.
 
-Subsec. (j). Pub. L. 104–193, § 871(d)(1), struck out subsec. (j) which authorized Secretary to promulgate new formula for allocation of additional commodities to States.
+Subsec. (j). Pub. L. 104–193, § 871(d)(1), struck out subsec. (j) which authorized Secretary to promulgate new formula for allocation of additional commodities to States.
 
-1990—Subsec. (a). Pub. L. 101–624, § 1772(g)(1), substituted “fiscal years 1991 through 1995” for “fiscal years 1989 and 1990”.
+1990—Subsec. (a). Pub. L. 101–624, § 1772(g)(1), substituted “fiscal years 1991 through 1995” for “fiscal years 1989 and 1990”.
 
-Subsec. (e). Pub. L. 101–624, § 1772(g)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “During each of the fiscal years 1989 and 1990, the Secretary shall spend $120,000,000 to purchase, process, and distribute additional commodities under this section.”
+Subsec. (e). Pub. L. 101–624, § 1772(g)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “During each of the fiscal years 1989 and 1990, the Secretary shall spend $120,000,000 to purchase, process, and distribute additional commodities under this section.”
 
-Subsec. (k). Pub. L. 101–624, § 1772(h)(1), struck out heading and text of subsec. (k). Text read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out this section.”
+Subsec. (k). Pub. L. 101–624, § 1772(h)(1), struck out heading and text of subsec. (k). Text read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out this section.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–193, title VIII, § 871(h), Aug. 22, 1996, 110 Stat. 2346, provided that: “The amendments made by subsection (d) [amending this section] shall become effective on October 1, 1996.”
+Pub. L. 104–193, title VIII, § 871(h), Aug. 22, 1996, 110 Stat. 2346, provided that: “The amendments made by subsection (d) [amending this section] shall become effective on October 1, 1996.”
 
 **Effective Date of 1990 Amendment**
 
@@ -885,7 +885,7 @@ Amendment by section 1772(g) of Pub. L. 101–624 effective Oct. 1, 1990, and am
 
 Section to be effective and implemented on Oct. 1, 1988, see section 701(a) of Pub. L. 100–435, set out as an Effective Date of 1988 Amendment note under section 2012 of this title.
 
-## § 7516. Settlement and adjustment of claims
+## § 7516. Settlement and adjustment of claims
 
 **(a) In general** The Secretary or a designee of the Secretary shall have the authority to—
 
@@ -897,7 +897,7 @@ Section to be effective and implemented on Oct. 1, 1988, see section 701(a) of P
 
 Nothing contained in this section shall be construed to diminish the authority of the Attorney General of the United States under section 516 of title 28 to conduct litigation on behalf of the United States.
 
-(Pub. L. 98–8, title II, § 215, as added Pub. L. 102–237, title IX, § 922(b), Dec. 13, 1991, 105 Stat. 1888.)
+(Pub. L. 98–8, title II, § 215, as added Pub. L. 102–237, title IX, § 922(b), Dec. 13, 1991, 105 Stat. 1888.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -905,7 +905,7 @@ Nothing contained in this section shall be construed to diminish the authority o
 
 Section effective and to be implemented no later than Feb. 1, 1992, see section 1101(d)(1) of Pub. L. 102–237, set out as an Effective Date of 1991 Amendment note under section 1421 of this title.
 
-## § 7517. The Gus Schumacher nutrition incentive program
+## § 7517. The Gus Schumacher nutrition incentive program
 
 **(a) In general** In this section:
 
@@ -1213,13 +1213,13 @@ There is authorized to be appropriated to carry out this section $5,000,000 for 
 
 **(B)** $20,000,000 for each of fiscal years 2016 and 2017;
 
-**(C)**  1
+**(C)** 1
 
-<sup>1</sup>  So in original. Two subpars. (C) have been enacted.
+<sup>1</sup> So in original. Two subpars. (C) have been enacted.
 
 $25,000,000 for fiscal year 2018;
 
-**(C)**  <sup>1</sup> $45,000,000 for fiscal year 2019;
+**(C)** <sup>1</sup> $45,000,000 for fiscal year 2019;
 
 **(D)** $48,000,000 for fiscal year 2020;
 
@@ -1241,15 +1241,15 @@ $25,000,000 for fiscal year 2018;
 
 **(ii)** $7,000,000 for each of the fiscal years 2021 through 2023.
 
-(Pub. L. 110–234, title IV, § 4405, May 22, 2008, 122 Stat. 1138; Pub. L. 110–246, § 4(a), title IV, § 4405, June 18, 2008, 122 Stat. 1664, 1899; Pub. L. 113–79, title IV, § 4208, Feb. 7, 2014, 128 Stat. 826; Pub. L. 115–334, title IV, § 4205(a), Dec. 20, 2018, 132 Stat. 4656.)
+(Pub. L. 110–234, title IV, § 4405, May 22, 2008, 122 Stat. 1138; Pub. L. 110–246, § 4(a), title IV, § 4405, June 18, 2008, 122 Stat. 1664, 1899; Pub. L. 113–79, title IV, § 4208, Feb. 7, 2014, 128 Stat. 826; Pub. L. 115–334, title IV, § 4205(a), Dec. 20, 2018, 132 Stat. 4656.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food and Nutrition Act of 2008, referred to in subsecs. (a)(3)(A), (5)(A)(i), (b)(2)(A)(ii)(IV), and (d)(3), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Food and Nutrition Act of 2008, referred to in subsecs. (a)(3)(A), (5)(A)(i), (b)(2)(A)(ii)(IV), and (d)(3), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (a)(5)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(5)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Codification**
 
@@ -1261,33 +1261,33 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 
 **Amendments**
 
-2018—Pub. L. 115–334, § 4205(a)(1), substituted “The Gus Schumacher nutrition incentive program” for “Food insecurity nutrition incentive” in section catchline.
+2018—Pub. L. 115–334, § 4205(a)(1), substituted “The Gus Schumacher nutrition incentive program” for “Food insecurity nutrition incentive” in section catchline.
 
-Subsec. (a)(1). Pub. L. 115–334, § 4205(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) defined “eligible entity”.
+Subsec. (a)(1). Pub. L. 115–334, § 4205(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) defined “eligible entity”.
 
-Subsec. (a)(3). Pub. L. 115–334, § 4205(a)(2)(B), substituted “means—” and subpars. (A) and (B) for “means the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.).”
+Subsec. (a)(3). Pub. L. 115–334, § 4205(a)(2)(B), substituted “means—” and subpars. (A) and (B) for “means the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.).”
 
-Subsec. (a)(4), (5). Pub. L. 115–334, § 4205(a)(2)(C), added pars. (4) and (5).
+Subsec. (a)(4), (5). Pub. L. 115–334, § 4205(a)(2)(C), added pars. (4) and (5).
 
-Subsec. (b)(1)(B) to (D). Pub. L. 115–334, § 4205(a)(3)(A), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), respectively, substituted “Except as provided in subparagraph (D)(iii), the” for “The” in subpar. (C) as so redesignated, and added cl. (iii) of subpar. (D) as so redesignated.
+Subsec. (b)(1)(B) to (D). Pub. L. 115–334, § 4205(a)(3)(A), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), respectively, substituted “Except as provided in subparagraph (D)(iii), the” for “The” in subpar. (C) as so redesignated, and added cl. (iii) of subpar. (D) as so redesignated.
 
-Subsec. (b)(2)(A). Pub. L. 115–334, § 4205(a)(3)(B)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to criteria for an eligible entity.
+Subsec. (b)(2)(A). Pub. L. 115–334, § 4205(a)(3)(B)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to criteria for an eligible entity.
 
-Subsec. (b)(2)(B)(v) to (x). Pub. L. 115–334, § 4205(a)(3)(B)(ii), added cls. (v) to (ix), redesignated former cl. (vi) as (x), and struck out former cl. (v) which read as follows: “are located in underserved communities; or”.
+Subsec. (b)(2)(B)(v) to (x). Pub. L. 115–334, § 4205(a)(3)(B)(ii), added cls. (v) to (ix), redesignated former cl. (vi) as (x), and struck out former cl. (v) which read as follows: “are located in underserved communities; or”.
 
-Subsec. (b)(3), (4). Pub. L. 115–334, § 4205(a)(3)(C), struck out pars. (3) and (4) which related to treatment of benefits as supplemental nutrition benefits under section 8(b) of the Food and Nutrition Act of 2008 (7 U.S.C. 2017(b)) and evaluation of projects, respectively.
+Subsec. (b)(3), (4). Pub. L. 115–334, § 4205(a)(3)(C), struck out pars. (3) and (4) which related to treatment of benefits as supplemental nutrition benefits under section 8(b) of the Food and Nutrition Act of 2008 (7 U.S.C. 2017(b)) and evaluation of projects, respectively.
 
-Subsec. (c). Pub. L. 115–334, § 4205(a)(6), added subsec. (c). Former subsec. (c) redesignated (f).
+Subsec. (c). Pub. L. 115–334, § 4205(a)(6), added subsec. (c). Former subsec. (c) redesignated (f).
 
-Subsec. (c)(1). Pub. L. 115–334, § 4205(a)(4)(A), substituted “to carry out this section $5,000,000 for each of fiscal years 2014 through 2023” for “to carry out subsection (b) $5,000,000 for each of fiscal years 2014 through 2018”.
+Subsec. (c)(1). Pub. L. 115–334, § 4205(a)(4)(A), substituted “to carry out this section $5,000,000 for each of fiscal years 2014 through 2023” for “to carry out subsection (b) $5,000,000 for each of fiscal years 2014 through 2018”.
 
-Subsec. (c)(2). Pub. L. 115–334, § 4205(a)(4)(B), substituted “this section” for “subsection (b)” in introductory provisions and added subpar. (C) relating to fiscal year 2019 and subpars. (D) to (G).
+Subsec. (c)(2). Pub. L. 115–334, § 4205(a)(4)(B), substituted “this section” for “subsection (b)” in introductory provisions and added subpar. (C) relating to fiscal year 2019 and subpars. (D) to (G).
 
-Subsec. (c)(3). Pub. L. 115–334, § 4205(a)(4)(B)(iv), added par. (3).
+Subsec. (c)(3). Pub. L. 115–334, § 4205(a)(4)(B)(iv), added par. (3).
 
-Subsecs. (d), (e). Pub. L. 115–334, § 4205(a)(6), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 115–334, § 4205(a)(6), added subsecs. (d) and (e).
 
-Subsec. (f). Pub. L. 115–334, § 4205(a)(5), redesignated subsec. (c) as (f).
+Subsec. (f). Pub. L. 115–334, § 4205(a)(5), redesignated subsec. (c) as (f).
 
 2014—Pub. L. 113–79 amended section generally. Prior to amendment, section related to hunger-free communities.
 
@@ -1303,7 +1303,7 @@ Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out a
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
 
-## § 7518. Micro-grants for food security
+## § 7518. Micro-grants for food security
 
 **(a) Purpose**
 
@@ -1485,15 +1485,15 @@ There is authorized to be appropriated to the Secretary to carry out this sectio
 
 Only funds appropriated under paragraph (1) in advance specifically to carry out this section shall be available to carry out this section.
 
-(Pub. L. 115–334, title IV, § 4206, Dec. 20, 2018, 132 Stat. 4663.)
+(Pub. L. 115–334, title IV, § 4206, Dec. 20, 2018, 132 Stat. 4663.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Head Start Act, referred to in subsec. (b)(1)(A)(iv)(I), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Head Start Act, referred to in subsec. (b)(1)(A)(iv)(I), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (e)(4)(D), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§ 3839aa et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (e)(4)(D), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§ 3839aa et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 **Codification**
 

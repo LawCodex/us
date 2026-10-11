@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 25—PAY AND PERSONNEL PROGRAM FOR OVERSEAS TEACHERS
 
-## § 901. Definitions
+## § 901. Definitions
 
 For the purposes of this chapter, the term—
 
@@ -43,7 +43,7 @@ For the purposes of this chapter, the term—
 
 **(4)** “United States”, when used in a geographical sense, means the several States of the United States of America, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, the Canal Zone, and the possessions of the United States (excluding the Trust Territory of the Pacific Islands and Midway Islands).
 
-(Pub. L. 86–91, § 2, July 17, 1959, 73 Stat. 213; Pub. L. 104–201, div. A, title XVI, § 1606(a), Sept. 23, 1996, 110 Stat. 2736; Pub. L. 105–85, div. A, title X, § 1073(c)(9)(A), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 113–291, div. A, title V, § 564, Dec. 19, 2014, 128 Stat. 3384.)
+(Pub. L. 86–91, § 2, July 17, 1959, 73 Stat. 213; Pub. L. 104–201, div. A, title XVI, § 1606(a), Sept. 23, 1996, 110 Stat. 2736; Pub. L. 105–85, div. A, title X, § 1073(c)(9)(A), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 113–291, div. A, title V, § 564, Dec. 19, 2014, 128 Stat. 3384.)
 
 **Editorial Notes**
 
@@ -53,27 +53,27 @@ For definition of Canal Zone, referred to in par. (4), see section 3602(b) of Ti
 
 **Codification**
 
-Section was formerly classified to section 2351 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2351 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
 2014—Par. (2)(A). Pub. L. 113–291 inserted “or, in the case of a teaching position that involves instruction in the host-nation language, a local national when a citizen of the United States is not reasonably available to provide such instruction” before comma at end.
 
-1997—Par. (1)(A). Pub. L. 105–85 made technical corrections to Pub. L. 104–201, § 1606(a)(1). See 1996 Amendment note below.
+1997—Par. (1)(A). Pub. L. 105–85 made technical corrections to Pub. L. 104–201, § 1606(a)(1). See 1996 Amendment note below.
 
-1996—Par. (1)(A). Pub. L. 104–201, § 1606(a)(1), as amended by Pub. L. 105–85, inserted “or are performed by an individual who carried out certain teaching activities identified in regulations prescribed by the Secretary of Defense;” after “Defense,”.
+1996—Par. (1)(A). Pub. L. 104–201, § 1606(a)(1), as amended by Pub. L. 105–85, inserted “or are performed by an individual who carried out certain teaching activities identified in regulations prescribed by the Secretary of Defense;” after “Defense,”.
 
-Par. (2)(C). Pub. L. 104–201, § 1606(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “whose services are required on a school-year basis in a teaching position.”
+Par. (2)(C). Pub. L. 104–201, § 1606(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “whose services are required on a school-year basis in a teaching position.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
+Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 
 **Short Title**
 
-Pub. L. 86–91, § 1, July 17, 1959, 73 Stat. 213, provided that: “This Act [enacting this chapter and provisions now contained in section 5102(c)(22) of Title 5, Government Organization and Employees] may be cited as the ‘Defense Department Overseas Teachers Pay and Personnel Practices Act’.”
+Pub. L. 86–91, § 1, July 17, 1959, 73 Stat. 213, provided that: “This Act [enacting this chapter and provisions now contained in section 5102(c)(22) of Title 5, Government Organization and Employees] may be cited as the ‘Defense Department Overseas Teachers Pay and Personnel Practices Act’.”
 
 **Executive Documents**
 
@@ -81,7 +81,7 @@ Pub. L. 86–91, § 1, July 17, 1959, 73 Stat. 213, provided that: “This Act
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 902. Regulations of Secretary of Defense
+## § 902. Regulations of Secretary of Defense
 
 **(a) Employment, compensation, etc., of teachers** Not later than the ninetieth day following July 17, 1959, the Secretary of Defense shall prescribe and issue regulations to carry out the purposes of this chapter. Such regulations shall govern—
 
@@ -109,13 +109,13 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 The regulations prescribed and issued by the Secretary of Defense under subsection (a) of this section shall become effective on such date as the Secretary of Defense shall prescribe but not later than the ninetieth day following the date of issuance of such regulations.
 
-(Pub. L. 86–91, § 4, July 17, 1959, 73 Stat. 214; Pub. L. 89–391, § 1(a), Apr. 14, 1966, 80 Stat. 117.)
+(Pub. L. 86–91, § 4, July 17, 1959, 73 Stat. 214; Pub. L. 89–391, § 1(a), Apr. 14, 1966, 80 Stat. 117.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 2352 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2352 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
@@ -125,9 +125,9 @@ Section was formerly classified to section 2352 of Title 5 prior to the general 
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–391, § 2, Apr. 14, 1966, 80 Stat. 118, provided that: “The amendments made by the first section of this Act [amending this section and section 903 of this title] shall become effective on the first day of the first pay period which begins after the date of enactment of this Act [Apr. 14, 1966].”
+Pub. L. 89–391, § 2, Apr. 14, 1966, 80 Stat. 118, provided that: “The amendments made by the first section of this Act [amending this section and section 903 of this title] shall become effective on the first day of the first pay period which begins after the date of enactment of this Act [Apr. 14, 1966].”
 
-## § 903. Administration
+## § 903. Administration
 
 **(a) Employment and salary practices**
 
@@ -147,41 +147,41 @@ The Secretary of Defense shall fix the basic compensation for teachers and teach
 
 The Secretary of Defense may prescribe and issue such regulations as he deems appropriate to carry out his functions under this chapter.
 
-(Pub. L. 86–91, § 5, July 17, 1959, 73 Stat. 214; Pub. L. 86–370, § 6(b), Sept. 23, 1959, 73 Stat. 652; Pub. L. 89–391, § 1(b), (c), Apr. 14, 1966, 80 Stat. 117; Pub. L. 96–470, title I, § 104(b), Oct. 19, 1980, 94 Stat. 2238; Pub. L. 104–201, div. A, title XVI, § 1606(b), Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–85, div. A, title X, § 1073(c)(9)(B), (C), Nov. 18, 1997, 111 Stat. 1904.)
+(Pub. L. 86–91, § 5, July 17, 1959, 73 Stat. 214; Pub. L. 86–370, § 6(b), Sept. 23, 1959, 73 Stat. 652; Pub. L. 89–391, § 1(b), (c), Apr. 14, 1966, 80 Stat. 117; Pub. L. 96–470, title I, § 104(b), Oct. 19, 1980, 94 Stat. 2238; Pub. L. 104–201, div. A, title XVI, § 1606(b), Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–85, div. A, title X, § 1073(c)(9)(B), (C), Nov. 18, 1997, 111 Stat. 1904.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (b), “section 5103 of title 5” and “paragraph (22) of section 5102(c) of title 5” substituted for “section 202 of the Classification Act of 1949” and “paragraph (33) of section 202 of such Act, added by section 3 of this Act” respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (b), “section 5103 of title 5” and “paragraph (22) of section 5102(c) of title 5” substituted for “section 202 of the Classification Act of 1949” and “paragraph (33) of section 202 of such Act, added by section 3 of this Act” respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 Provisions of section 1(b) and (c) of Pub. L. 89–391 for amendment of subsec. (c) of this section and addition of other provisions as another subsec. (c), have been executed in the Code as an amendment of subsec. (c) of this section and addition of subsec. (e) of this section, respectively.
 
-Section was formerly classified to section 2353 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2353 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
-1997—Subsec. (a). Pub. L. 105–85, § 1073(c)(9)(B), made technical correction to Pub. L. 104–201, § 1606(b)(1)(A). See 1996 Amendment note below.
+1997—Subsec. (a). Pub. L. 105–85, § 1073(c)(9)(B), made technical correction to Pub. L. 104–201, § 1606(b)(1)(A). See 1996 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 105–85, § 1073(c)(9)(C), made technical correction to Pub. L. 104–201, § 1606(b)(2)(B). See 1996 Amendment note below.
+Subsec. (b)(1). Pub. L. 105–85, § 1073(c)(9)(C), made technical correction to Pub. L. 104–201, § 1606(b)(2)(B). See 1996 Amendment note below.
 
-1996—Subsec. (a). Pub. L. 104–201, § 1606(b)(1)(B), substituted “the Department of Defense” for “his military department”.
+1996—Subsec. (a). Pub. L. 104–201, § 1606(b)(1)(B), substituted “the Department of Defense” for “his military department”.
 
-Pub. L. 104–201, § 1606(b)(1)(A), as amended by Pub. L. 105–85, § 1073(c)(9)(B), substituted “Secretary of Defense shall” for “secretary of each military department in the Department of Defense shall”.
+Pub. L. 104–201, § 1606(b)(1)(A), as amended by Pub. L. 105–85, § 1073(c)(9)(B), substituted “Secretary of Defense shall” for “secretary of each military department in the Department of Defense shall”.
 
-Subsec. (b). Pub. L. 104–201, § 1606(b)(2)(A), substituted “Secretary of Defense—” for “secretary of each military department—” in introductory provisions.
+Subsec. (b). Pub. L. 104–201, § 1606(b)(2)(A), substituted “Secretary of Defense—” for “secretary of each military department—” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 104–201, § 1606(b)(2)(B), as amended by Pub. L. 105–85, § 1073(c)(9)(C), substituted “the Department of Defense;” for “his military department,”.
+Subsec. (b)(1). Pub. L. 104–201, § 1606(b)(2)(B), as amended by Pub. L. 105–85, § 1073(c)(9)(C), substituted “the Department of Defense;” for “his military department,”.
 
-Subsec. (c). Pub. L. 104–201, § 1606(b)(3), substituted “Secretary of Defense” for “Secretary of each military department” and “the Department of Defense” for “his military department”.
+Subsec. (c). Pub. L. 104–201, § 1606(b)(3), substituted “Secretary of Defense” for “Secretary of each military department” and “the Department of Defense” for “his military department”.
 
-Subsec. (d). Pub. L. 104–201, § 1606(b)(4), substituted “Secretary of Defense” for “Secretary of each military department”.
+Subsec. (d). Pub. L. 104–201, § 1606(b)(4), substituted “Secretary of Defense” for “Secretary of each military department”.
 
 1980—Subsec. (e). Pub. L. 96–470 struck out subsec. (e) which required the Secretary of Defense, on or before the 15th day of January in each calendar year beginning after Apr. 14, 1966, to report to the respective Committees on Post Office and Civil Service of the Senate and House of Representatives information on teachers separated from teaching positions subsequent to the close of the immediately preceding full school year and the number of new teachers appointed to teaching positions at the beginning of the school year current at time of the report, including the number of such new teachers obtained through voluntary reciprocal interchange agreements with school jurisdictions in the United States.
 
-1966—Subsec. (c). Pub. L. 89–391, § 1(b), substituted provisions for fixing the basic compensation for teachers and teaching positions at rates equal to the average of the range of rates of basic compensation for similar positions of a comparable level of duties and responsibilities in urban school jurisdictions in the United States of 100,000 or more population for former provisions fixing such rates in relation to the rates of basic compensation for similar positions in the United States but not exceeding the highest rate of basic compensation for similar positions of a comparable level of duties and responsibilities under the municipal government of the District of Columbia.
+1966—Subsec. (c). Pub. L. 89–391, § 1(b), substituted provisions for fixing the basic compensation for teachers and teaching positions at rates equal to the average of the range of rates of basic compensation for similar positions of a comparable level of duties and responsibilities in urban school jurisdictions in the United States of 100,000 or more population for former provisions fixing such rates in relation to the rates of basic compensation for similar positions in the United States but not exceeding the highest rate of basic compensation for similar positions of a comparable level of duties and responsibilities under the municipal government of the District of Columbia.
 
-Subsec. (e). Pub. L. 89–391, § 1(c), inserted provisions designated as subsec. (c) to section 5 of Pub. L. 86–91, but codified as subsec. (e) of this section.
+Subsec. (e). Pub. L. 89–391, § 1(c), inserted provisions designated as subsec. (c) to section 5 of Pub. L. 86–91, but codified as subsec. (e) of this section.
 
 1959—Subsec. (b). Pub. L. 86–370 substituted “(33)” for “(32)” in two places.
 
@@ -189,7 +189,7 @@ Subsec. (e). Pub. L. 89–391, § 1(c), inserted provisions designated as subs
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
+Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 
 **Effective Date of 1966 Amendment**
 
@@ -203,7 +203,7 @@ Amendment by Pub. L. 86–370 effective on first day of first pay period which b
 
 Subsec. (c) of this section not to apply with respect to any teacher who was employed by the Canal Zone Government school system on September 30, 1979, and who was transferred from such position to a teaching position which is under the Department of Defense Overseas Dependent School System and the permanent duty station of which is in the Republic of Panama, until the rates of basic compensation established under subsec. (c) of this section equal or exceed the rates of basic compensation then in effect for teachers who were so transferred, see section 3671(c)(1) of Title 22, Foreign Relations and Intercourse.
 
-## § 904. Leave
+## § 904. Leave
 
 **(a) Entitlement; amount**
 
@@ -253,23 +253,23 @@ In the case of any teacher who is transferred, promoted, or reappointed, without
 
 Only leave described in the last sentence of subsection (c) of this section (relating to leave that may be used by a teacher for any purpose) may be transferred under any program established under this subsection.
 
-(Pub. L. 86–91, § 6, July 17, 1959, 73 Stat. 214; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 98–369, div. B, title II, § 2204, July 18, 1984, 98 Stat. 1059; Pub. L. 103–425, § 1, Oct. 31, 1994, 108 Stat. 4369.)
+(Pub. L. 86–91, § 6, July 17, 1959, 73 Stat. 214; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 98–369, div. B, title II, § 2204, July 18, 1984, 98 Stat. 1059; Pub. L. 103–425, § 1, Oct. 31, 1994, 108 Stat. 4369.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (f), “section 5551 of title 5” substituted for “the Act of December 21, 1944 (5 U.S.C. 61b and the following)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (f), “section 5551 of title 5” substituted for “the Act of December 21, 1944 (5 U.S.C. 61b and the following)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-Section was formerly classified to section 2354 of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2354 of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–425, § 1(1), inserted “(or, if such teacher is employed in a supervisory position or higher, not less than ten and not more than thirteen)” after “ten”.
+1994—Subsec. (a). Pub. L. 103–425, § 1(1), inserted “(or, if such teacher is employed in a supervisory position or higher, not less than ten and not more than thirteen)” after “ten”.
 
-Subsec. (d). Pub. L. 103–425, § 1(2), substituted “Secretary of Defense” for “Secretary of the military department concerned” in concluding provisions.
+Subsec. (d). Pub. L. 103–425, § 1(2), substituted “Secretary of Defense” for “Secretary of the military department concerned” in concluding provisions.
 
-Subsec. (h). Pub. L. 103–425, § 1(3), added subsec. (h).
+Subsec. (h). Pub. L. 103–425, § 1(3), added subsec. (h).
 
 1984—Subsec. (a). Pub. L. 98–369 struck out provisions which had directed that not more than seventy-five days of leave could be accumulated to the credit of a teacher at any one time under this subsection.
 
@@ -277,9 +277,9 @@ Subsec. (h). Pub. L. 103–425, § 1(3), added subsec. (h).
 
 **Transfer of Functions**
 
-“Director of the Office of Personnel Management” substituted for “United States Civil Service Commission” in subsec. (g), pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “United States Civil Service Commission” in subsec. (g), pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
-## § 905. Quarters, quarters allowances, and storage
+## § 905. Quarters, quarters allowances, and storage
 
 **(a) Entitlement**
 
@@ -309,15 +309,15 @@ Quarters, quarters allowance, and storage provided under this section shall be i
 
 **(2)** For any period for which military family housing is leased under paragraph (1) to a teacher described in such paragraph, the teacher shall receive a quarters allowance in the amount determined under subsection (b). The teacher is entitled to such quarters allowance without regard to whether other Government furnished quarters are available for occupancy by the teacher without charge to the teacher.
 
-(Pub. L. 86–91, § 7, July 17, 1959, 73 Stat. 216; Pub. L. 87–172, § 1, Aug. 30, 1961, 75 Stat. 409; Pub. L. 107–314, div. A, title III, § 342, Dec. 2, 2002, 116 Stat. 2515.)
+(Pub. L. 86–91, § 7, July 17, 1959, 73 Stat. 216; Pub. L. 87–172, § 1, Aug. 30, 1961, 75 Stat. 409; Pub. L. 107–314, div. A, title III, § 342, Dec. 2, 2002, 116 Stat. 2515.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsecs. (b) and (c)(1), “section 5912 of title 5” substituted for “the Act of June 26, 1930 (5 U.S.C. 118a)” on authority of Pub. L. 89–554, § 7(b), June 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsecs. (b) and (c)(1), “section 5912 of title 5” substituted for “the Act of June 26, 1930 (5 U.S.C. 118a)” on authority of Pub. L. 89–554, § 7(b), June 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-Section was formerly classified to section 2355 of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2355 of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
@@ -335,7 +335,7 @@ Authority of President under subsec. (a) of this section to prescribe regulation
 
 Secretary of State empowered to prescribe regulations relating to cost-of-living allowances, see section 4(a) of Ex. Ord. No. 10903, Jan. 11, 1961, 26 F.R. 217, set out as a note under section 5921 of Title 5, Government Organization and Employees.
 
-## § 906. Entitlements in addition to basic compensation
+## § 906. Entitlements in addition to basic compensation
 
 **(a) Cost-of-living increase and additional compensation** Under regulations which shall be prescribed by or under authority of the President, each teacher (other than a teacher employed in a substitute capacity) shall be entitled, in addition to basic compensation, to—
 
@@ -347,15 +347,15 @@ Secretary of State empowered to prescribe regulations relating to cost-of-living
 
 The cost-of-living allowances and additional compensation provided under subsection (a) of this section for any teacher shall be based on the teaching position in which he rendered services on a school-year basis, except that, if such teacher is employed in another position during any recess period between two school years, such allowances and compensation for such recess period shall be based on the position in which he is employed during such recess period.
 
-(Pub. L. 86–91, § 8, July 17, 1959, 73 Stat. 216; Pub. L. 96–465, title II, § 2206(d), Oct. 17, 1980, 94 Stat. 2162.)
+(Pub. L. 86–91, § 8, July 17, 1959, 73 Stat. 216; Pub. L. 96–465, title II, § 2206(d), Oct. 17, 1980, 94 Stat. 2162.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a)(2), “section 5941 of title 5” substituted for “section 207 of the Independent Offices Appropriation Act, 1949 (5 U.S.C. 118h)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (a)(2), “section 5941 of title 5” substituted for “section 207 of the Independent Offices Appropriation Act, 1949 (5 U.S.C. 118h)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-Section was formerly classified to section 2356 of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2356 of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
@@ -381,7 +381,7 @@ Secretary of State empowered to prescribe regulations relating to quarters and q
 
 For provisions relating to payment of additional compensation authorized by subsec. (a)(2) of this section in accordance with the regulations contained in Ex. Ord. No. 10000, see section 1–101 of Ex. Ord. No. 12228, July 24, 1980, 45 F.R. 49903, set out as a note under section 707 of Title 38, Veterans’ Benefits.
 
-## § 907. Applicability of other laws
+## § 907. Applicability of other laws
 
 In the case of any teacher who—
 
@@ -393,15 +393,15 @@ In the case of any teacher who—
 
 section 5533 of title 5 shall not apply to such teacher by reason of any such employment during a recess period or any such receipt of quarters, allowances, or additional compensation, or both, as the case may be.
 
-(Pub. L. 86–91, § 10(b), July 17, 1959, 73 Stat. 217; Pub. L. 88–448, title IV, § 401(n), Aug. 19, 1964, 78 Stat. 492.)
+(Pub. L. 86–91, § 10(b), July 17, 1959, 73 Stat. 217; Pub. L. 88–448, title IV, § 401(n), Aug. 19, 1964, 78 Stat. 492.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 5533 of title 5” substituted in text for “section 301 of the Dual Compensation Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Section 5533 of title 5” substituted in text for “section 301 of the Dual Compensation Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-Section was formerly classified to section 2358(b) of Title 5 period to the general revision and enactment of Title 5 by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2358(b) of Title 5 period to the general revision and enactment of Title 5 by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 

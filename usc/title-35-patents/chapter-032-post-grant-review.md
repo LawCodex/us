@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 32—POST-GRANT REVIEW
 
-## § 321. Post-grant review
+## § 321. Post-grant review
 
 **(a) In General.—** Subject to the provisions of this chapter, a person who is not the owner of a patent may file with the Office a petition to institute a post-grant review of the patent. The Director shall establish, by regulation, fees to be paid by the person requesting the review, in such amounts as the Director determines to be reasonable, considering the aggregate costs of the post-grant review.
 
@@ -23,13 +23,13 @@ retrieved: 2026-10-11
 
 **(c) Filing Deadline.—** A petition for a post-grant review may only be filed not later than the date that is 9 months after the date of the grant of the patent or of the issuance of a reissue patent (as the case may be).
 
-(Added Pub. L. 112–29, § 6(d), Sept. 16, 2011, 125 Stat. 306.)
+(Added Pub. L. 112–29, § 6(d), Sept. 16, 2011, 125 Stat. 306.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 112–29, § 6(f)(2), (3), Sept. 16, 2011, 125 Stat. 311, provided that:
+Pub. L. 112–29, § 6(f)(2), (3), Sept. 16, 2011, 125 Stat. 311, provided that:
 
 > **“(2) Applicability.—**
 
@@ -51,11 +51,11 @@ Pub. L. 112–29, § 6(f)(2), (3), Sept. 16, 2011, 125 Stat. 311, provided tha
 
 **Regulations**
 
-Pub. L. 112–29, § 6(f)(1), Sept. 16, 2011, 125 Stat. 311, provided that: “The Director [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] shall, not later than the date that is 1 year after the date of the enactment of this Act [Sept. 16, 2011], issue regulations to carry out chapter 32 of title 35, United States Code, as added by subsection (d) of this section.”
+Pub. L. 112–29, § 6(f)(1), Sept. 16, 2011, 125 Stat. 311, provided that: “The Director [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] shall, not later than the date that is 1 year after the date of the enactment of this Act [Sept. 16, 2011], issue regulations to carry out chapter 32 of title 35, United States Code, as added by subsection (d) of this section.”
 
 **Transitional Program for Covered Business Method Patents**
 
-Pub. L. 112–29, § 18, Sept. 16, 2011, 125 Stat. 329, as amended by Pub. L. 112–274, § 1(b), Jan. 14, 2013, 126 Stat. 2456, provided that:
+Pub. L. 112–29, § 18, Sept. 16, 2011, 125 Stat. 329, as amended by Pub. L. 112–274, § 1(b), Jan. 14, 2013, 126 Stat. 2456, provided that:
 
 > **“(a) Transitional Program.—**
 
@@ -111,7 +111,7 @@ Pub. L. 112–29, § 18, Sept. 16, 2011, 125 Stat. 329, as amended by Pub. L. 
 
 > **“(e) Rule of Construction.—** Nothing in this section shall be construed as amending or interpreting categories of patent-eligible subject matter set forth under section 101 of title 35, United States Code.”
 
-## § 322. Petitions
+## § 322. Petitions
 
 **(a) Requirements of Petition.—** A petition filed under section 321 may be considered only if—
 
@@ -131,7 +131,7 @@ Pub. L. 112–29, § 18, Sept. 16, 2011, 125 Stat. 329, as amended by Pub. L. 
 
 **(b) Public Availability.—** As soon as practicable after the receipt of a petition under section 321, the Director shall make the petition available to the public.
 
-(Added Pub. L. 112–29, § 6(d), Sept. 16, 2011, 125 Stat. 306.)
+(Added Pub. L. 112–29, § 6(d), Sept. 16, 2011, 125 Stat. 306.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -139,11 +139,11 @@ Pub. L. 112–29, § 18, Sept. 16, 2011, 125 Stat. 329, as amended by Pub. L. 
 
 Section effective upon the expiration of the 1-year period beginning Sept. 16, 2011, and applicable only to patents described in section 3(n)(1) of Pub. L. 112–29 (35 U.S.C. 100 note), with certain exceptions and limitations, see section 6(f)(2), (3) of Pub. L. 112–29, set out as a note under section 321 of this title.
 
-## § 323. Preliminary response to petition
+## § 323. Preliminary response to petition
 
 If a post-grant review petition is filed under section 321, the patent owner shall have the right to file a preliminary response to the petition, within a time period set by the Director, that sets forth reasons why no post-grant review should be instituted based upon the failure of the petition to meet any requirement of this chapter.
 
-(Added Pub. L. 112–29, § 6(d), Sept. 16, 2011, 125 Stat. 306.)
+(Added Pub. L. 112–29, § 6(d), Sept. 16, 2011, 125 Stat. 306.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -151,7 +151,7 @@ If a post-grant review petition is filed under section 321, the patent owner sha
 
 Section effective upon the expiration of the 1-year period beginning Sept. 16, 2011, and applicable only to patents described in section 3(n)(1) of Pub. L. 112–29 (35 U.S.C. 100 note), with certain exceptions and limitations, see section 6(f)(2), (3) of Pub. L. 112–29, set out as a note under section 321 of this title.
 
-## § 324. Institution of post-grant review
+## § 324. Institution of post-grant review
 
 **(a) Threshold.—** The Director may not authorize a post-grant review to be instituted unless the Director determines that the information presented in the petition filed under section 321, if such information is not rebutted, would demonstrate that it is more likely than not that at least 1 of the claims challenged in the petition is unpatentable.
 
@@ -167,7 +167,7 @@ Section effective upon the expiration of the 1-year period beginning Sept. 16, 2
 
 **(e) No Appeal.—** The determination by the Director whether to institute a post-grant review under this section shall be final and nonappealable.
 
-(Added Pub. L. 112–29, § 6(d), Sept. 16, 2011, 125 Stat. 306.)
+(Added Pub. L. 112–29, § 6(d), Sept. 16, 2011, 125 Stat. 306.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -175,7 +175,7 @@ Section effective upon the expiration of the 1-year period beginning Sept. 16, 2
 
 Section effective upon the expiration of the 1-year period beginning Sept. 16, 2011, and applicable only to patents described in section 3(n)(1) of Pub. L. 112–29 (35 U.S.C. 100 note), with certain exceptions and limitations, see section 6(f)(2), (3) of Pub. L. 112–29, set out as a note under section 321 of this title.
 
-## § 325. Relation to other proceedings or actions
+## § 325. Relation to other proceedings or actions
 
 **(a) Infringer’s Civil Action.—**
 
@@ -205,7 +205,7 @@ Section effective upon the expiration of the 1-year period beginning Sept. 16, 2
 
 **(f) Reissue Patents.—** A post-grant review may not be instituted under this chapter if the petition requests cancellation of a claim in a reissue patent that is identical to or narrower than a claim in the original patent from which the reissue patent was issued, and the time limitations in section 321(c) would bar filing a petition for a post-grant review for such original patent.
 
-(Added Pub. L. 112–29, § 6(d), Sept. 16, 2011, 125 Stat. 307.)
+(Added Pub. L. 112–29, § 6(d), Sept. 16, 2011, 125 Stat. 307.)
 
 **Editorial Notes**
 
@@ -219,7 +219,7 @@ Section 337 of the Tariff Act of 1930, referred to in subsec. (e)(2), is classif
 
 Section effective upon the expiration of the 1-year period beginning Sept. 16, 2011, and applicable only to patents described in section 3(n)(1) of Pub. L. 112–29 (35 U.S.C. 100 note), with certain exceptions and limitations, see section 6(f)(2), (3) of Pub. L. 112–29, set out as a note under section 321 of this title.
 
-## § 326. Conduct of post-grant review
+## § 326. Conduct of post-grant review
 
 **(a) Regulations.—** The Director shall prescribe regulations—
 
@@ -265,7 +265,7 @@ Section effective upon the expiration of the 1-year period beginning Sept. 16, 2
 
 **(e) Evidentiary Standards.—** In a post-grant review instituted under this chapter, the petitioner shall have the burden of proving a proposition of unpatentability by a preponderance of the evidence.
 
-(Added Pub. L. 112–29, § 6(d), Sept. 16, 2011, 125 Stat. 308.)
+(Added Pub. L. 112–29, § 6(d), Sept. 16, 2011, 125 Stat. 308.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -273,13 +273,13 @@ Section effective upon the expiration of the 1-year period beginning Sept. 16, 2
 
 Section effective upon the expiration of the 1-year period beginning Sept. 16, 2011, and applicable only to patents described in section 3(n)(1) of Pub. L. 112–29 (35 U.S.C. 100 note), with certain exceptions and limitations, see section 6(f)(2), (3) of Pub. L. 112–29, set out as a note under section 321 of this title.
 
-## § 327. Settlement
+## § 327. Settlement
 
 **(a) In General.—** A post-grant review instituted under this chapter shall be terminated with respect to any petitioner upon the joint request of the petitioner and the patent owner, unless the Office has decided the merits of the proceeding before the request for termination is filed. If the post-grant review is terminated with respect to a petitioner under this section, no estoppel under section 325(e) shall attach to the petitioner, or to the real party in interest or privy of the petitioner, on the basis of that petitioner’s institution of that post-grant review. If no petitioner remains in the post-grant review, the Office may terminate the post-grant review or proceed to a final written decision under section 328(a).
 
 **(b) Agreements in Writing.—** Any agreement or understanding between the patent owner and a petitioner, including any collateral agreements referred to in such agreement or understanding, made in connection with, or in contemplation of, the termination of a post-grant review under this section shall be in writing, and a true copy of such agreement or understanding shall be filed in the Office before the termination of the post-grant review as between the parties. At the request of a party to the proceeding, the agreement or understanding shall be treated as business confidential information, shall be kept separate from the file of the involved patents, and shall be made available only to Federal Government agencies on written request, or to any person on a showing of good cause.
 
-(Added Pub. L. 112–29, § 6(d), Sept. 16, 2011, 125 Stat. 310.)
+(Added Pub. L. 112–29, § 6(d), Sept. 16, 2011, 125 Stat. 310.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -287,7 +287,7 @@ Section effective upon the expiration of the 1-year period beginning Sept. 16, 2
 
 Section effective upon the expiration of the 1-year period beginning Sept. 16, 2011, and applicable only to patents described in section 3(n)(1) of Pub. L. 112–29 (35 U.S.C. 100 note), with certain exceptions and limitations, see section 6(f)(2), (3) of Pub. L. 112–29, set out as a note under section 321 of this title.
 
-## § 328. Decision of the Board
+## § 328. Decision of the Board
 
 **(a) Final Written Decision.—** If a post-grant review is instituted and not dismissed under this chapter, the Patent Trial and Appeal Board shall issue a final written decision with respect to the patentability of any patent claim challenged by the petitioner and any new claim added under section 326(d).
 
@@ -297,13 +297,13 @@ Section effective upon the expiration of the 1-year period beginning Sept. 16, 2
 
 **(d) Data on Length of Review.—** The Office shall make available to the public data describing the length of time between the institution of, and the issuance of a final written decision under subsection (a) for, each post-grant review.
 
-(Added and amended Pub. L. 112–29, §§ 6(d), 20(j), Sept. 16, 2011, 125 Stat. 310, 335.)
+(Added and amended Pub. L. 112–29, §§ 6(d), 20(j), Sept. 16, 2011, 125 Stat. 310, 335.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Subsec. (c). Pub. L. 112–29, § 20(j), struck out “of this title” after “252”.
+2011—Subsec. (c). Pub. L. 112–29, § 20(j), struck out “of this title” after “252”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -315,11 +315,11 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 Section effective upon the expiration of the 1-year period beginning Sept. 16, 2011, and applicable only to patents described in section 3(n)(1) of Pub. L. 112–29 (35 U.S.C. 100 note), with certain exceptions and limitations, see section 6(f)(2), (3) of Pub. L. 112–29, set out as a note under section 321 of this title.
 
-## § 329. Appeal
+## § 329. Appeal
 
 A party dissatisfied with the final written decision of the Patent Trial and Appeal Board under section 328(a) may appeal the decision pursuant to sections 141 through 144. Any party to the post-grant review shall have the right to be a party to the appeal.
 
-(Added Pub. L. 112–29, § 6(d), Sept. 16, 2011, 125 Stat. 311.)
+(Added Pub. L. 112–29, § 6(d), Sept. 16, 2011, 125 Stat. 311.)
 
 **Statutory Notes and Related Subsidiaries**
 

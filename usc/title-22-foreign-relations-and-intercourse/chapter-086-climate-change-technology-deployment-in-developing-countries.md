@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 86—CLIMATE CHANGE TECHNOLOGY DEPLOYMENT IN DEVELOPING COUNTRIES
 
-## § 7901. Definitions
+## § 7901. Definitions
 
 In this chapter:
 
@@ -31,21 +31,21 @@ The term “greenhouse gas” means carbon dioxide, methane, nitrous oxide, hydr
 
 The term “greenhouse gas intensity” means the ratio of greenhouse gas emissions to economic output.
 
-(Pub. L. 101–240, title VII, § 731, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1113.)
+(Pub. L. 101–240, title VII, § 731, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1113.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 101–240, title VII, § 739, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1117, provided that: “Except as otherwise provided in this part [part C (§§ 731–739) of title VII of Pub. L. 101–240, enacting this chapter], this part takes effect on October 1, 2005.”
+Pub. L. 101–240, title VII, § 739, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1117, provided that: “Except as otherwise provided in this part [part C (§§ 731–739) of title VII of Pub. L. 101–240, enacting this chapter], this part takes effect on October 1, 2005.”
 
 **Executive Documents**
 
 **Executive Order No. 14027**
 
-Ex. Ord. No. 14027, May 7, 2021, 86 F.R. 25947, which established the Climate Change Support Office, was revoked by Ex. Ord. No. 14148, § 2(ff), Jan. 20, 2025, 90 F.R. 8238, and Ex. Ord. No. 14154, § 4(a)(vi), Jan. 20, 2025, 90 F.R. 8354.
+Ex. Ord. No. 14027, May 7, 2021, 86 F.R. 25947, which established the Climate Change Support Office, was revoked by Ex. Ord. No. 14148, § 2(ff), Jan. 20, 2025, 90 F.R. 8238, and Ex. Ord. No. 14154, § 4(a)(vi), Jan. 20, 2025, 90 F.R. 8354.
 
-## § 7902. Reduction of greenhouse gas intensity
+## § 7902. Reduction of greenhouse gas intensity
 
 **(a) Lead agency**
 
@@ -61,9 +61,9 @@ The Department of State shall act as the lead agency for integrating into United
 
 **(ii)** an estimate of the greenhouse gas intensity of the energy, manufacturing, agricultural, and transportation sectors;
 
-**(iii)** a description 1
+**(iii)** a description 1
 
-<sup>1</sup>  So in original. Probably should be “description of”.
+<sup>1</sup> So in original. Probably should be “description of”.
 
 the progress of any significant projects undertaken to reduce greenhouse gas intensity;
 
@@ -105,7 +105,7 @@ The Secretary of State shall use the annual reports prepared under subparagraph 
 
 In providing assistance under subsection (b), the Secretary of State shall give priority to projects in the 25 developing countries identified in the report submitted under subsection (a)(2)(A).
 
-(Pub. L. 101–240, title VII, § 732, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1113; amended Pub. L. 115–254, div. F, title VI, § 1470(q), Oct. 5, 2018, 132 Stat. 3518.)
+(Pub. L. 101–240, title VII, § 732, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1113; amended Pub. L. 115–254, div. F, title VI, § 1470(q), Oct. 5, 2018, 132 Stat. 3518.)
 
 **Editorial Notes**
 
@@ -123,7 +123,7 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 
 Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under section 7901 of this title.
 
-## § 7903. Technology inventory for developing countries
+## § 7903. Technology inventory for developing countries
 
 **(a) In general**
 
@@ -139,7 +139,7 @@ The Secretary of Energy, in coordination with the Secretary of State and the Sec
 
 **(4)** includes an analysis of market forces related to the inventoried technologies.
 
-(Pub. L. 101–240, title VII, § 733, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1114.)
+(Pub. L. 101–240, title VII, § 733, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1114.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -147,7 +147,7 @@ The Secretary of Energy, in coordination with the Secretary of State and the Sec
 
 Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under section 7901 of this title.
 
-## § 7904. Trade-related barriers to export of greenhouse gas intensity reducing technologies
+## § 7904. Trade-related barriers to export of greenhouse gas intensity reducing technologies
 
 **(a) In general** Not later than 1 year after August 8, 2005, the United States Trade Representative shall (as appropriate and consistent with applicable bilateral, regional, and mutual trade agreements)—
 
@@ -159,7 +159,7 @@ Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of
 
 Not later than 1 year after the date on which a report is submitted under subsection (a)(1) and annually thereafter, the United States Trade Representative shall submit to Congress a report that describes any progress made with respect to removing the barriers identified by the United States Trade Representative under subsection (a)(1).
 
-(Pub. L. 101–240, title VII, § 734, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1115.)
+(Pub. L. 101–240, title VII, § 734, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1115.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -167,7 +167,7 @@ Not later than 1 year after the date on which a report is submitted under subsec
 
 Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under section 7901 of this title.
 
-## § 7905. Greenhouse Gas Intensity Reducing Technology Export Initiative
+## § 7905. Greenhouse Gas Intensity Reducing Technology Export Initiative
 
 **(a) In general** There is established an interagency working group to carry out a Greenhouse Gas Intensity Reducing Technology Export Initiative to—
 
@@ -199,7 +199,7 @@ Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of
 
 **(2)** submit to the appropriate authorizing and appropriating committees of Congress a report that describes the results of the performance reviews and evaluates progress in promoting the export of greenhouse gas intensity reducing technologies and practices from the United States, including any recommendations for increasing the export of the technologies and practices.
 
-(Pub. L. 101–240, title VII, § 735, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1115.)
+(Pub. L. 101–240, title VII, § 735, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1115.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -207,7 +207,7 @@ Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of
 
 Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under section 7901 of this title.
 
-## § 7906. Technology demonstration projects
+## § 7906. Technology demonstration projects
 
 **(a) In general**
 
@@ -257,7 +257,7 @@ The Secretaries and the Administrator shall plan, coordinate, and carry out, or 
 
 **(E)** lower emission transportation.
 
-(Pub. L. 101–240, title VII, § 736, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1116.)
+(Pub. L. 101–240, title VII, § 736, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1116.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -265,11 +265,11 @@ The Secretaries and the Administrator shall plan, coordinate, and carry out, or 
 
 Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under section 7901 of this title.
 
-## § 7907. Fellowship and exchange programs
+## § 7907. Fellowship and exchange programs
 
 The Secretary of State, in coordination with the Secretary of Energy, the Secretary of Commerce, and the Administrator of the Environmental Protection Agency, shall carry out fellowship and exchange programs under which officials from developing countries visit the United States to acquire expertise and knowledge of best practices to reduce greenhouse gas intensity in their countries.
 
-(Pub. L. 101–240, title VII, § 737, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1117.)
+(Pub. L. 101–240, title VII, § 737, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1117.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -277,11 +277,11 @@ The Secretary of State, in coordination with the Secretary of Energy, the Secret
 
 Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under section 7901 of this title.
 
-## § 7908. Authorization of appropriations
+## § 7908. Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this chapter.
 
-(Pub. L. 101–240, title VII, § 738, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1117.)
+(Pub. L. 101–240, title VII, § 738, as added Pub. L. 109–58, title XVI, § 1611, Aug. 8, 2005, 119 Stat. 1117.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -289,7 +289,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under section 7901 of this title.
 
-## § 7909. Authorization for the Clean Technology Fund
+## § 7909. Authorization for the Clean Technology Fund
 
 **(1) Limitations on authorization of appropriations**
 
@@ -305,7 +305,7 @@ For fiscal year 2010, up to $300,000,000 is authorized to be appropriated for a 
 
 **(D)** Assistance made available by the Fund is used exclusively to support the deployment of clean energy technologies in developing countries (including, where appropriate, through the provision of technical support or support for policy or institutional reforms) in a manner that achieves substantial net reductions in greenhouse gas emissions.
 
-**(3) Repealed. Pub. L. 113–76, div. K, title VII, § 7034(i), Jan. 17, 2014, 128 Stat. 514**
+**(3) Repealed. Pub. L. 113–76, div. K, title VII, § 7034(i), Jan. 17, 2014, 128 Stat. 514**
 
 **(4) Definitions** For purposes of this section—
 
@@ -331,7 +331,7 @@ The term “public sector activities” may include sovereign loans assumed by t
 
 **(III)** substantially increases the energy efficiency of the transportation system or increases utilization of transportation fuels that have lifecycle greenhouse gas emissions that are substantially lower than those attributable to fossil fuel-based alternatives.
 
-(Pub. L. 111–117, div. F, title VII, § 7081(g), Dec. 16, 2009, 123 Stat. 3398; Pub. L. 113–76, div. K, title VII, § 7034(i), Jan. 17, 2014, 128 Stat. 514.)
+(Pub. L. 111–117, div. F, title VII, § 7081(g), Dec. 16, 2009, 123 Stat. 3398; Pub. L. 113–76, div. K, title VII, § 7034(i), Jan. 17, 2014, 128 Stat. 514.)
 
 **Editorial Notes**
 
@@ -347,10 +347,10 @@ Section was enacted as part of the Department of State, Foreign Operations, and 
 
 **Continuation of Prior Law**
 
-Pub. L. 113–235, div. J, title VII, § 7060(c)(9), Dec. 16, 2014, 128 Stat. 2672, provided that: “Section 7081(g)(2) and (4) of division F of Public Law 111–117 [22 U.S.C. 7909(2), (4)] shall continue in effect during fiscal year 2015 as if part of this Act [div. J of Pub. L. 113–235, 128 Stat. 2573].”
+Pub. L. 113–235, div. J, title VII, § 7060(c)(9), Dec. 16, 2014, 128 Stat. 2672, provided that: “Section 7081(g)(2) and (4) of division F of Public Law 111–117 [22 U.S.C. 7909(2), (4)] shall continue in effect during fiscal year 2015 as if part of this Act [div. J of Pub. L. 113–235, 128 Stat. 2573].”
 
 Prior continuations were contained in the following acts:
 
-Pub. L. 113–76, div. K, title VII, § 7060(c)(9), Jan. 17, 2014, 128 Stat. 554.
+Pub. L. 113–76, div. K, title VII, § 7060(c)(9), Jan. 17, 2014, 128 Stat. 554.
 
-Pub. L. 112–74, div. I, title VII, § 7062(c)(8), Dec. 23, 2011, 125 Stat. 1250.
+Pub. L. 112–74, div. I, title VII, § 7062(c)(8), Dec. 23, 2011, 125 Stat. 1250.

@@ -19,33 +19,33 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2004—Pub. L. 108–401, § 2(b)(2), Oct. 30, 2004, 118 Stat. 2255, substituted “Purposes” for “Purpose” in item 591.
+2004—Pub. L. 108–401, § 2(b)(2), Oct. 30, 2004, 118 Stat. 2255, substituted “Purposes” for “Purpose” in item 591.
 
-1996—Pub. L. 104–320, §§ 4(b)(2), 10(b), 11(b)(2), (d)(2), Oct. 19, 1996, 110 Stat. 3871, 3873, 3874, in item 569 substituted “Encouraging negotiated rulemaking” for “Role of the Administrative Conference of the United States and other entities”, added items 570a and 584, and struck out item 582 “Compilation of information”.
+1996—Pub. L. 104–320, §§ 4(b)(2), 10(b), 11(b)(2), (d)(2), Oct. 19, 1996, 110 Stat. 3871, 3873, 3874, in item 569 substituted “Encouraging negotiated rulemaking” for “Role of the Administrative Conference of the United States and other entities”, added items 570a and 584, and struck out item 582 “Compilation of information”.
 
-1992—Pub. L. 102–354, § 4, Aug. 26, 1992, 106 Stat. 945, substituted headings of subchapters III, IV, and V and items 561 to 570, 571 to 583, and 591 to 596 for former heading of subchapter III and former items 571 to 576 relating to Administrative Conference of the United States, former heading of subchapter IV and former items 581 to 593 relating to alternative means of dispute resolution in the administrative process, and former heading of subchapter IV and former items 581 to 590 relating to negotiated rulemaking procedure.
+1992—Pub. L. 102–354, § 4, Aug. 26, 1992, 106 Stat. 945, substituted headings of subchapters III, IV, and V and items 561 to 570, 571 to 583, and 591 to 596 for former heading of subchapter III and former items 571 to 576 relating to Administrative Conference of the United States, former heading of subchapter IV and former items 581 to 593 relating to alternative means of dispute resolution in the administrative process, and former heading of subchapter IV and former items 581 to 590 relating to negotiated rulemaking procedure.
 
-1990—Pub. L. 101–648, § 3(b), Nov. 29, 1990, 104 Stat. 4976, added heading of subchapter IV and items 581 to 590 relating to negotiated rulemaking procedure.
+1990—Pub. L. 101–648, § 3(b), Nov. 29, 1990, 104 Stat. 4976, added heading of subchapter IV and items 581 to 590 relating to negotiated rulemaking procedure.
 
-Pub. L. 101–552, § 4(c), Nov. 15, 1990, 104 Stat. 2745, added heading of subchapter IV and items 581 to 593 [renumbered 571 to 583] relating to alternative means of dispute resolution.
+Pub. L. 101–552, § 4(c), Nov. 15, 1990, 104 Stat. 2745, added heading of subchapter IV and items 581 to 593 [renumbered 571 to 583] relating to alternative means of dispute resolution.
 
-1986—Pub. L. 99–470, § 2(b), Oct. 14, 1986, 100 Stat. 1198, substituted “Authorization of appropriations” for “Appropriations” in item 576.
+1986—Pub. L. 99–470, § 2(b), Oct. 14, 1986, 100 Stat. 1198, substituted “Authorization of appropriations” for “Appropriations” in item 576.
 
-1985—Pub. L. 99–80, § 6, Aug. 5, 1985, 99 Stat. 186, revived item 504 and repealed Pub. L. 96–481, title II, § 203(c), Oct. 21, 1980, 94 Stat. 2327, which provided for the repeal, effective Oct. 1, 1984, of item 504.
+1985—Pub. L. 99–80, § 6, Aug. 5, 1985, 99 Stat. 186, revived item 504 and repealed Pub. L. 96–481, title II, § 203(c), Oct. 21, 1980, 94 Stat. 2327, which provided for the repeal, effective Oct. 1, 1984, of item 504.
 
-1980—Pub. L. 96–481, title II, § 203(a)(2), (c), Oct. 21, 1980, 94 Stat. 2327, added item 504 “Costs and fees of parties”, and repealed that item effective Oct. 1, 1984.
+1980—Pub. L. 96–481, title II, § 203(a)(2), (c), Oct. 21, 1980, 94 Stat. 2327, added item 504 “Costs and fees of parties”, and repealed that item effective Oct. 1, 1984.
 
-1976—Pub. L. 94–409, § 3(b), Sept. 13, 1976, 90 Stat. 1246, added item 552b.
+1976—Pub. L. 94–409, § 3(b), Sept. 13, 1976, 90 Stat. 1246, added item 552b.
 
-1974—Pub. L. 93–579, § 4, Dec. 31, 1974, 88 Stat. 1905, added item 552a.
+1974—Pub. L. 93–579, § 4, Dec. 31, 1974, 88 Stat. 1905, added item 552a.
 
-1967—Pub. L. 90–83, § 1(1)(B), Sept. 11, 1967, 81 Stat. 195, added item 500.
+1967—Pub. L. 90–83, § 1(1)(B), Sept. 11, 1967, 81 Stat. 195, added item 500.
 
-Pub. L. 90–23, § 2, June 5, 1967, 81 Stat. 56, substituted “Public information; agency rules, opinions, orders, records and proceedings” for “Publication of information, rules, opinions, orders, and public records” in item 552.
+Pub. L. 90–23, § 2, June 5, 1967, 81 Stat. 56, substituted “Public information; agency rules, opinions, orders, records and proceedings” for “Publication of information, rules, opinions, orders, and public records” in item 552.
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 500. Administrative practice; general provisions
+### § 500. Administrative practice; general provisions
 
 **(a)** For the purpose of this section—
 
@@ -71,15 +71,15 @@ Pub. L. 90–23, § 2, June 5, 1967, 81 Stat. 56, substituted “Public inform
 
 **(f)** When a participant in a matter before an agency is represented by an individual qualified under subsection (b) or (c) of this section, a notice or other written communication required or permitted to be given the participant in the matter shall be given to the representative in addition to any other service specifically required by statute. When a participant is represented by more than one such qualified representative, service on any one of the representatives is sufficient.
 
-(Added Pub. L. 90–83, § 1(1)(A), Sept. 11, 1967, 81 Stat. 195; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(Added Pub. L. 90–83, § 1(1)(A), Sept. 11, 1967, 81 Stat. 195; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 **Historical and Revision Notes**
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Revised Statutes at Large)* |
 |---|---|---|
-| 500(a) | 5 App.: 1014. | Nov. 8, 1965, Pub. L. 89–332, § 3, 79 Stat. 1281. |
-| 500(b)–(e) | 5 App.: 1012. | Nov. 8, 1965, Pub. L. 89–332, § 1, 79 Stat. 1281. |
-| 500(f) | 5 App.: 1013. | Nov. 8, 1965, Pub. L. 89–332, § 2, 79 Stat. 1281. |
+| 500(a) | 5 App.: 1014. | Nov. 8, 1965, Pub. L. 89–332, § 3, 79 Stat. 1281. |
+| 500(b)–(e) | 5 App.: 1012. | Nov. 8, 1965, Pub. L. 89–332, § 1, 79 Stat. 1281. |
+| 500(f) | 5 App.: 1013. | Nov. 8, 1965, Pub. L. 89–332, § 2, 79 Stat. 1281. |
 
 The definition of “State” in subsection (a)(2) is supplied for convenience and is based on the words “State, possession, territory, Commonwealth, or District of Columbia” in subsections (a) and (b) of 5 App. U.S.C. 1012.
 
@@ -97,9 +97,9 @@ In subsection (d)(3), the word “employee” is substituted for “officer or e
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
-### § 501. Advertising practice; restrictions
+### § 501. Advertising practice; restrictions
 
 An individual, firm, or corporation practicing before an agency of the United States may not use the name of a Member of either House of Congress or of an individual in the service of the United States in advertising the business.
 
@@ -109,13 +109,13 @@ An individual, firm, or corporation practicing before an agency of the United St
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 101. | Apr. 27, 1916, ch. 89, § 1, 39 Stat. 54. |
+|  | 5 U.S.C. 101. | Apr. 27, 1916, ch. 89, § 1, 39 Stat. 54. |
 
 The words “may not” are substituted for “It shall be unlawful for”. The words “agency of the United States” are substituted for “any department or office of the Government”. The words “an individual in the service of the United States” are substituted for “officer of the Government” in view of the definitions in sections 2104 and 2105.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 502. Administrative practice; Reserves and National Guardsmen
+### § 502. Administrative practice; Reserves and National Guardsmen
 
 Membership in a reserve component of the armed forces or in the National Guard does not prevent an individual from practicing his civilian profession or occupation before, or in connection with, an agency of the United States.
 
@@ -125,11 +125,11 @@ Membership in a reserve component of the armed forces or in the National Guard d
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 30r(c) (2d sentence). | Aug. 10, 1956, ch. 1041, § 29(c) (2d sentence), 70A Stat. 632. |
+|  | 5 U.S.C. 30r(c) (2d sentence). | Aug. 10, 1956, ch. 1041, § 29(c) (2d sentence), 70A Stat. 632. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 503. Witness fees and allowances
+### § 503. Witness fees and allowances
 
 **(a)** For the purpose of this section, “agency” has the meaning given it by section 5721 of this title.
 
@@ -145,16 +145,16 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 95. | R.S. § 185. |
-|  | 5 U.S.C. 95a. | Aug. 2, 1946, ch. 744, § 10, 60 Stat. 809. |
+|  | 5 U.S.C. 95. | R.S. § 185. |
+|  | 5 U.S.C. 95a. | Aug. 2, 1946, ch. 744, § 10, 60 Stat. 809. |
 
 Former sections 95 and 95a are combined and restated for clarity and brevity. The words “or expenses in the case of Government officers and employees” are omitted as covered by section 1823 of title 28. The word “agency” is substituted for “department” and defined to conform to the definition of “department” in section 18 of the Act of Aug. 2, 1946, ch. 744, 60 Stat. 811.
 
-This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
+This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 504. Costs and fees of parties
+### § 504. Costs and fees of parties
 
 **(a)**
 
@@ -224,13 +224,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **(i)** No award may be made under this section for costs, fees, or other expenses which may be awarded under section 7430 of the Internal Revenue Code of 1986.
 
-(Added Pub. L. 96–481, title II, § 203(a)(1), (c), Oct. 21, 1980, 94 Stat. 2325, 2327; revived and amended Pub. L. 99–80, §§ 1, 6, Aug. 5, 1985, 99 Stat. 183, 186; Pub. L. 99–509, title VI, § 6103(c), Oct. 21, 1986, 100 Stat. 1948; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, § 6239(b), Nov. 10, 1988, 102 Stat. 3746; Pub. L. 103–141, § 4(b), Nov. 16, 1993, 107 Stat. 1489; Pub. L. 104–121, title II, § 231, Mar. 29, 1996, 110 Stat. 862; Pub. L. 111–350, § 5(a)(1), Jan. 4, 2011, 124 Stat. 3841; Pub. L. 116–9, title IV, § 4201(a)(1), Mar. 12, 2019, 133 Stat. 762.)
+(Added Pub. L. 96–481, title II, § 203(a)(1), (c), Oct. 21, 1980, 94 Stat. 2325, 2327; revived and amended Pub. L. 99–80, §§ 1, 6, Aug. 5, 1985, 99 Stat. 183, 186; Pub. L. 99–509, title VI, § 6103(c), Oct. 21, 1986, 100 Stat. 1948; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, § 6239(b), Nov. 10, 1988, 102 Stat. 3746; Pub. L. 103–141, § 4(b), Nov. 16, 1993, 107 Stat. 1489; Pub. L. 104–121, title II, § 231, Mar. 29, 1996, 110 Stat. 862; Pub. L. 111–350, § 5(a)(1), Jan. 4, 2011, 124 Stat. 3841; Pub. L. 116–9, title IV, § 4201(a)(1), Mar. 12, 2019, 133 Stat. 762.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Religious Freedom Restoration Act of 1993, referred to in subsec. (b)(1)(C)(iv), is Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally to chapter 21B (§ 2000bb et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000bb of Title 42 and Tables.
+The Religious Freedom Restoration Act of 1993, referred to in subsec. (b)(1)(C)(iv), is Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally to chapter 21B (§ 2000bb et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000bb of Title 42 and Tables.
 
 The date of enactment of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, referred to in subsecs. (e)(1) and (f), is the date of enactment of Pub. L. 116–9, which was approved Mar. 12, 2019.
 
@@ -238,21 +238,21 @@ Section 7430 of the Internal Revenue Code of 1986, referred to in subsec. (i), i
 
 **Amendments**
 
-2019—Subsec. (c)(1). Pub. L. 116–9, § 4201(a)(1)(A), struck out “, United States Code” after “title 28”.
+2019—Subsec. (c)(1). Pub. L. 116–9, § 4201(a)(1)(A), struck out “, United States Code” after “title 28”.
 
-Subsec. (e). Pub. L. 116–9, § 4201(a)(1)(C), added subsec. (e) and struck out former subsec. (e) which read as follows: “The Chairman of the Administrative Conference of the United States, after consultation with the Chief Counsel for Advocacy of the Small Business Administration, shall report annually to the Congress on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this section. The report shall describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information which may aid the Congress in evaluating the scope and impact of such awards. Each agency shall provide the Chairman with such information as is necessary for the Chairman to comply with the requirements of this subsection.”
+Subsec. (e). Pub. L. 116–9, § 4201(a)(1)(C), added subsec. (e) and struck out former subsec. (e) which read as follows: “The Chairman of the Administrative Conference of the United States, after consultation with the Chief Counsel for Advocacy of the Small Business Administration, shall report annually to the Congress on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this section. The report shall describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information which may aid the Congress in evaluating the scope and impact of such awards. Each agency shall provide the Chairman with such information as is necessary for the Chairman to comply with the requirements of this subsection.”
 
-Subsecs. (f) to (i). Pub. L. 116–9, § 4201(a)(1)(B), (C), added subsecs. (f) to (h) and redesignated former subsec. (f) as (i).
+Subsecs. (f) to (i). Pub. L. 116–9, § 4201(a)(1)(B), (C), added subsecs. (f) to (h) and redesignated former subsec. (f) as (i).
 
 2011—Subsec. (b)(1)(C)(ii). Pub. L. 111–350 substituted “section 7103 of title 41” for “section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 605)” and “section 7105 of title 41” for “section 8 of that Act (41 U.S.C. 607)”.
 
-1996—Subsec. (a)(4). Pub. L. 104–121, § 231(a), added par. (4).
+1996—Subsec. (a)(4). Pub. L. 104–121, § 231(a), added par. (4).
 
-Subsec. (b)(1)(A)(ii). Pub. L. 104–121, § 231(b)(1), substituted “$125” for “$75”.
+Subsec. (b)(1)(A)(ii). Pub. L. 104–121, § 231(b)(1), substituted “$125” for “$75”.
 
-Subsec. (b)(1)(B). Pub. L. 104–121, § 231(b)(2), inserted before semicolon at end “or for purposes of subsection (a)(4), a small entity as defined in section 601”.
+Subsec. (b)(1)(B). Pub. L. 104–121, § 231(b)(2), inserted before semicolon at end “or for purposes of subsection (a)(4), a small entity as defined in section 601”.
 
-Subsec. (b)(1)(F). Pub. L. 104–121, § 231(b)(3)–(5), added subpar. (F).
+Subsec. (b)(1)(F). Pub. L. 104–121, § 231(b)(3)–(5), added subpar. (F).
 
 1993—Subsec. (b)(1)(C). Pub. L. 103–141 added cl. (iv).
 
@@ -262,33 +262,33 @@ Subsec. (b)(1)(F). Pub. L. 104–121, § 231(b)(3)–(5), added subpar. (F).
 
 Subsec. (b)(1)(C)(iii). Pub. L. 99–509 added cl. (iii).
 
-1985—Subsec. (a)(1). Pub. L. 99–80, § 1(a)(1), (2), struck out “as a party to the proceeding” after “the position of the agency”, and inserted “Whether or not the position of the agency was substantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought.”
+1985—Subsec. (a)(1). Pub. L. 99–80, § 1(a)(1), (2), struck out “as a party to the proceeding” after “the position of the agency”, and inserted “Whether or not the position of the agency was substantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought.”
 
-Subsec. (a)(2). Pub. L. 99–80, § 1(b), inserted “When the United States appeals the underlying merits of an adversary adjudication, no decision on an application for fees and other expenses in connection with that adversary adjudication shall be made under this section until a final and unreviewable decision is rendered by the court on the appeal or until the under­lying merits of the case have been finally determined pursuant to the appeal.”
+Subsec. (a)(2). Pub. L. 99–80, § 1(b), inserted “When the United States appeals the underlying merits of an adversary adjudication, no decision on an application for fees and other expenses in connection with that adversary adjudication shall be made under this section until a final and unreviewable decision is rendered by the court on the appeal or until the under­lying merits of the case have been finally determined pursuant to the appeal.”
 
-Subsec. (a)(3). Pub. L. 99–80, § 1(a)(3), inserted “The decision of the agency on the application for fees and other expenses shall be the final administrative decision under this section.”
+Subsec. (a)(3). Pub. L. 99–80, § 1(a)(3), inserted “The decision of the agency on the application for fees and other expenses shall be the final administrative decision under this section.”
 
-Subsec. (b)(1)(B). Pub. L. 99–80, § 1(c)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ ‘party’ means a party, as defined in section 551(3) of this title, which is an individual, partnership, corporation, association, or public or private organization other than an agency, but excludes (i) any individual whose net worth exceeded $1,000,000 at the time the adversary adjudication was initiated, and any sole owner of an unincorporated business, or any partnership, corporation, association, or organization whose net worth exceeded $5,000,000 at the time the adversary adjudication was initiated, except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of the Code and a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association, and (ii) any sole owner of an unincorporated business, or any partnership, corporation, association, or organization, having more than 500 employees at the time the adversary adjudication was initiated;”.
+Subsec. (b)(1)(B). Pub. L. 99–80, § 1(c)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ ‘party’ means a party, as defined in section 551(3) of this title, which is an individual, partnership, corporation, association, or public or private organization other than an agency, but excludes (i) any individual whose net worth exceeded $1,000,000 at the time the adversary adjudication was initiated, and any sole owner of an unincorporated business, or any partnership, corporation, association, or organization whose net worth exceeded $5,000,000 at the time the adversary adjudication was initiated, except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of the Code and a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association, and (ii) any sole owner of an unincorporated business, or any partnership, corporation, association, or organization, having more than 500 employees at the time the adversary adjudication was initiated;”.
 
-Subsec. (b)(1)(C). Pub. L. 99–80, § 1(c)(2), designated existing provisions of subpar. (C) as cl. (i) thereof by inserting “(i)” before “an adjudication under”, added cl. (ii), and struck out “and” after the semicolon at the end.
+Subsec. (b)(1)(C). Pub. L. 99–80, § 1(c)(2), designated existing provisions of subpar. (C) as cl. (i) thereof by inserting “(i)” before “an adjudication under”, added cl. (ii), and struck out “and” after the semicolon at the end.
 
-Subsec. (b)(1)(D), (E). Pub. L. 99–80, § 1(c)(3), substituted “; and” for the period at end of subpar. (D), and added subpar. (E).
+Subsec. (b)(1)(D), (E). Pub. L. 99–80, § 1(c)(3), substituted “; and” for the period at end of subpar. (D), and added subpar. (E).
 
-Subsec. (c)(2). Pub. L. 99–80, § 1(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A party dissatisfied with the fee determination made under subsection (a) may petition for leave to appeal to the court of the United States having jurisdiction to review the merits of the underlying decision of the agency adversary adjudication. If the court denies the petition for leave to appeal, no appeal may be taken from the denial. If the court grants the petition, it may modify the determination only if it finds that the failure to make an award, or the calculation of the amount of the award, was an abuse of discretion.”
+Subsec. (c)(2). Pub. L. 99–80, § 1(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A party dissatisfied with the fee determination made under subsection (a) may petition for leave to appeal to the court of the United States having jurisdiction to review the merits of the underlying decision of the agency adversary adjudication. If the court denies the petition for leave to appeal, no appeal may be taken from the denial. If the court grants the petition, it may modify the determination only if it finds that the failure to make an award, or the calculation of the amount of the award, was an abuse of discretion.”
 
-Subsec. (d). Pub. L. 99–80, § 1(e), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+Subsec. (d). Pub. L. 99–80, § 1(e), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
 “(1) Fees and other expenses awarded under this section may be paid by any agency over which the party prevails from any funds made available to the agency, by appropriation or otherwise, for such purpose. If not paid by any agency, the fees and other expenses shall be paid in the same manner as the payment of final judgments is made pursuant to section 2414 of title 28, United States Code.
 
 “(2) There is authorized to be appropriated to each agency for each of the fiscal years 1982, 1983, and 1984, such sums as may be necessary to pay fees and other expenses awarded under this section in such fiscal years.”
 
-1980—Pub. L. 96–481, § 203(c), which provided for the repeal of this section effective Oct. 1, 1984, was itself repealed and this section was revived by section 6 of Pub. L. 99–80, set out as a note below.
+1980—Pub. L. 96–481, § 203(c), which provided for the repeal of this section effective Oct. 1, 1984, was itself repealed and this section was revived by section 6 of Pub. L. 99–80, set out as a note below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–121, title II, § 233, Mar. 29, 1996, 110 Stat. 864, provided that: “The amendments made by sections 331 and 332 [probably means sections 231 and 232, amending this section and section 2412 of Title 28, Judiciary and Judicial Procedure] shall apply to civil actions and adversary adjudications commenced on or after the date of the enactment of this subtitle [Mar. 29, 1996].”
+Pub. L. 104–121, title II, § 233, Mar. 29, 1996, 110 Stat. 864, provided that: “The amendments made by sections 331 and 332 [probably means sections 231 and 232, amending this section and section 2412 of Title 28, Judiciary and Judicial Procedure] shall apply to civil actions and adversary adjudications commenced on or after the date of the enactment of this subtitle [Mar. 29, 1996].”
 
 **Effective Date of 1988 Amendment**
 
@@ -300,7 +300,7 @@ Amendment by Pub. L. 99–509 effective Oct. 21, 1986, and applicable to any cla
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–80, § 7, Aug. 5, 1985, 99 Stat. 186, provided that:
+Pub. L. 99–80, § 7, Aug. 5, 1985, 99 Stat. 186, provided that:
 
 > **“(a) In General.—** Except as otherwise provided in this section, the amendments made by this Act [reviving and amending this section and section 2412(d) of Title 28, Judiciary and Judicial Procedure, and amending and repealing provisions set out as notes under those sections] shall apply to cases pending on or commenced on or after the date of the enactment of this Act [Aug. 5, 1985].
 
@@ -310,13 +310,13 @@ Pub. L. 99–80, § 7, Aug. 5, 1985, 99 Stat. 186, provided that:
 
 **Effective Date**
 
-Pub. L. 96–481, title II, § 208, Oct. 21, 1980, 94 Stat. 2330, as amended by Pub. L. 99–80, § 5, Aug. 5, 1985, 99 Stat. 186, provided that: “This title and the amendments made by this title [see Short Title note below] shall take effect of [on] October 1, 1981, and shall apply to any adversary adjudication, as defined in section 504(b)(1)(C) of title 5, United States Code, and any civil action or adversary adjudication described in section 2412 of title 28, United States Code, which is pending on, or commenced on or after, such date. Awards may be made for fees and other expenses incurred before October 1, 1981, in any such adversary adjudication or civil action.”
+Pub. L. 96–481, title II, § 208, Oct. 21, 1980, 94 Stat. 2330, as amended by Pub. L. 99–80, § 5, Aug. 5, 1985, 99 Stat. 186, provided that: “This title and the amendments made by this title [see Short Title note below] shall take effect of [on] October 1, 1981, and shall apply to any adversary adjudication, as defined in section 504(b)(1)(C) of title 5, United States Code, and any civil action or adversary adjudication described in section 2412 of title 28, United States Code, which is pending on, or commenced on or after, such date. Awards may be made for fees and other expenses incurred before October 1, 1981, in any such adversary adjudication or civil action.”
 
-Pub. L. 96–481, title II, § 203(c), Oct. 21, 1980, 94 Stat. 2327, which provided that effective Oct. 1, 1984, this section is repealed, except that the provisions of this section shall continue to apply through final disposition of any adversary adjudication initiated before the date of repeal, was itself repealed by Pub. L. 99–80, § 6(b)(1), Aug. 5, 1985, 99 Stat. 186.
+Pub. L. 96–481, title II, § 203(c), Oct. 21, 1980, 94 Stat. 2327, which provided that effective Oct. 1, 1984, this section is repealed, except that the provisions of this section shall continue to apply through final disposition of any adversary adjudication initiated before the date of repeal, was itself repealed by Pub. L. 99–80, § 6(b)(1), Aug. 5, 1985, 99 Stat. 186.
 
 **Short Title**
 
-Pub. L. 96–481, title II, § 201, Oct. 21, 1980, 94 Stat. 2325, provided that: “This title [enacting this section, amending section 634 of Title 15, Commerce and Trade, section 2412 of Title 28, Judiciary and Judicial Procedure, Rule 37 of the Federal Rules of Civil Procedure, set out in Title 28 Appendix, and section 1988 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 2412 of Title 28] may be cited as the ‘Equal Access to Justice Act’.”
+Pub. L. 96–481, title II, § 201, Oct. 21, 1980, 94 Stat. 2325, provided that: “This title [enacting this section, amending section 634 of Title 15, Commerce and Trade, section 2412 of Title 28, Judiciary and Judicial Procedure, Rule 37 of the Federal Rules of Civil Procedure, set out in Title 28 Appendix, and section 1988 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 2412 of Title 28] may be cited as the ‘Equal Access to Justice Act’.”
 
 **Termination of Reporting Requirements**
 
@@ -328,11 +328,11 @@ For termination of Administrative Conference of United States, see provision of 
 
 **Prohibition on Use of Energy and Water Development Appropriations To Pay Intervening Parties in Regulatory or Adjudicatory Proceedings**
 
-Pub. L. 102–377, title V, § 502, Oct. 2, 1992, 106 Stat. 1342, provided that: “None of the funds in this Act or subsequent Energy and Water Development Appropriations Acts shall be used to pay the expenses of, or otherwise compensate, parties intervening in regulatory or adjudicatory proceedings funded in such Acts.”
+Pub. L. 102–377, title V, § 502, Oct. 2, 1992, 106 Stat. 1342, provided that: “None of the funds in this Act or subsequent Energy and Water Development Appropriations Acts shall be used to pay the expenses of, or otherwise compensate, parties intervening in regulatory or adjudicatory proceedings funded in such Acts.”
 
 **Revival of Previously Repealed Provisions**
 
-Pub. L. 99–80, § 6, Aug. 5, 1985, 99 Stat. 186, provided that:
+Pub. L. 99–80, § 6, Aug. 5, 1985, 99 Stat. 186, provided that:
 
 > **“(a) Revival of Certain Expired Provisions.—** Section 504 of title 5, United States Code, and the item relating to that section in the table of sections of chapter 5 of title 5, United States Code, and subsection (d) of section 2412 of title 28, United States Code, shall be effective on or after the date of the enactment of this Act [Aug. 5, 1985] as if they had not been repealed by sections 203(c) and 204(c) of the Equal Access to Justice Act [Pub. L. 96–481].
 
@@ -344,7 +344,7 @@ Pub. L. 99–80, § 6, Aug. 5, 1985, 99 Stat. 186, provided that:
 
 **Congressional Findings and Purposes**
 
-Pub. L. 96–481, title II, § 202, Oct. 21, 1980, 94 Stat. 2325, provided that:
+Pub. L. 96–481, title II, § 202, Oct. 21, 1980, 94 Stat. 2325, provided that:
 
 > **“(a)** The Congress finds that certain individuals, partnerships, corporations, and labor and other organizations may be deterred from seeking review of, or defending against, unreasonable governmental action because of the expense involved in securing the vindication of their rights in civil actions and in administrative proceedings.
 
@@ -358,7 +358,7 @@ Pub. L. 96–481, title II, § 202, Oct. 21, 1980, 94 Stat. 2325, provided tha
 
 **Limitation on Payments**
 
-Pub. L. 96–481, title II, § 207, Oct. 21, 1980, 94 Stat. 2330, which provided that the payment of judgments, fees and other expenses in the same manner as the payment of final judgments as provided in this Act [probably should be “this title”, see Short Title note above] would be effective only to the extent and in such amounts as are provided in advance in appropriation Acts, was repealed by Pub. L. 99–80, § 4, Aug. 5, 1985, 99 Stat. 186.
+Pub. L. 96–481, title II, § 207, Oct. 21, 1980, 94 Stat. 2330, which provided that the payment of judgments, fees and other expenses in the same manner as the payment of final judgments as provided in this Act [probably should be “this title”, see Short Title note above] would be effective only to the extent and in such amounts as are provided in advance in appropriation Acts, was repealed by Pub. L. 99–80, § 4, Aug. 5, 1985, 99 Stat. 186.
 
 ## SUBCHAPTER II—ADMINISTRATIVE PROCEDURE
 
@@ -368,7 +368,7 @@ Pub. L. 96–481, title II, § 207, Oct. 21, 1980, 94 Stat. 2330, which provid
 
 The provisions of this subchapter and chapter 7 of this title were originally enacted by act June 11, 1946, ch. 324, 60 Stat. 237, popularly known as the “Administrative Procedure Act”. That Act was repealed as part of the general revision of this title by Pub. L. 89–554 and its provisions incorporated into this subchapter and chapter 7 hereof.
 
-### § 551. Definitions
+### § 551. Definitions
 
 For the purpose of this subchapter—
 
@@ -390,9 +390,9 @@ or except as to the requirements of section 552 of this title—
 
 **(G)** military authority exercised in the field in time of war or in occupied territory; or
 
-**(H)** functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix; 1
+**(H)** functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** “person” includes an individual, partnership, corporation, association, or public or private organization other than an agency;
 
@@ -440,25 +440,25 @@ or except as to the requirements of section 552 of this title—
 
 **(14)** “ex parte communication” means an oral or written communication not on the public record with respect to which reasonable prior notice to all parties is not given, but it shall not include requests for status reports on any matter or proceeding covered by this subchapter.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 381; Pub. L. 94–409, § 4(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 103–272, § 5(a), July 5, 1994, 108 Stat. 1373; Pub. L. 111–350, § 5(a)(2), Jan. 4, 2011, 124 Stat. 3841.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 381; Pub. L. 94–409, § 4(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 103–272, § 5(a), July 5, 1994, 108 Stat. 1373; Pub. L. 111–350, § 5(a)(2), Jan. 4, 2011, 124 Stat. 3841.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (1) | 5 U.S.C. 1001(a). | June 11, 1946, ch. 324, § 2(a), 60 Stat. 237. |
-|  |  | Aug. 8, 1946, ch. 870, § 302, 60 Stat. 918. |
-|  |  | Aug. 10, 1946, ch. 951, § 601, 60 Stat. 993. |
-|  |  | Mar. 31, 1947, ch. 30, § 6(a), 61 Stat. 37. |
-|  |  | June 30, 1947, ch. 163, § 210, 61 Stat. 201. |
-|  |  | Mar. 30, 1948, ch. 161, § 301, 62 Stat. 99. |
-| (2)–(13) | 5 U.S.C. 1001 (less (a)). | June 11, 1946, ch. 324, § 2 (less (a)), 60 Stat. 237. |
+| (1) | 5 U.S.C. 1001(a). | June 11, 1946, ch. 324, § 2(a), 60 Stat. 237. |
+|  |  | Aug. 8, 1946, ch. 870, § 302, 60 Stat. 918. |
+|  |  | Aug. 10, 1946, ch. 951, § 601, 60 Stat. 993. |
+|  |  | Mar. 31, 1947, ch. 30, § 6(a), 61 Stat. 37. |
+|  |  | June 30, 1947, ch. 163, § 210, 61 Stat. 201. |
+|  |  | Mar. 30, 1948, ch. 161, § 301, 62 Stat. 99. |
+| (2)–(13) | 5 U.S.C. 1001 (less (a)). | June 11, 1946, ch. 324, § 2 (less (a)), 60 Stat. 237. |
 
 In paragraph (1), the sentence “Nothing in this Act shall be construed to repeal delegations of authority as provided by law,” is omitted as surplusage since there is nothing in the Act which could reasonably be so construed.
 
 In paragraph (1)(G), the words “or naval” are omitted as included in “military”.
 
-In paragraph (1)(H), the words “functions which by law expire on the termination of present hostilities, within any fixed period thereafter, or before July 1, 1947” are omitted as executed. Reference to the “Selective Training and Service Act of 1940” is omitted as that Act expired Mar. 31, 1947. Reference to the “Sugar Control Extension Act of 1947” is omitted as that Act expired on Mar. 31, 1948. References to the “Housing and Rent Act of 1947, as amended” and the “Veterans’ Emergency Housing Act of 1946” have been consolidated as they are related. The reference to former section 1641(b)(2) of title 50, appendix, is retained notwithstanding its repeal by § 111(a)(1) of the Act of Sept. 21, 1961, Pub. L. 87–256, 75 Stat. 538, since § 111(c) of the Act provides that a reference in other Acts to a provision of law repealed by § 111(a) shall be considered to be a reference to the appropriate provisions of Pub. L. 87–256.
+In paragraph (1)(H), the words “functions which by law expire on the termination of present hostilities, within any fixed period thereafter, or before July 1, 1947” are omitted as executed. Reference to the “Selective Training and Service Act of 1940” is omitted as that Act expired Mar. 31, 1947. Reference to the “Sugar Control Extension Act of 1947” is omitted as that Act expired on Mar. 31, 1948. References to the “Housing and Rent Act of 1947, as amended” and the “Veterans’ Emergency Housing Act of 1946” have been consolidated as they are related. The reference to former section 1641(b)(2) of title 50, appendix, is retained notwithstanding its repeal by § 111(a)(1) of the Act of Sept. 21, 1961, Pub. L. 87–256, 75 Stat. 538, since § 111(c) of the Act provides that a reference in other Acts to a provision of law repealed by § 111(a) shall be considered to be a reference to the appropriate provisions of Pub. L. 87–256.
 
 In paragraph (2), the words “of any character” are omitted as surplusage.
 
@@ -474,7 +474,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **References in Text**
 
-Sections 1884 and 1891–1902 of title 50, appendix, referred to in par. (1)(H), were a part of the various Housing and Rent Acts which were classified to section 1881 et seq. of the former Appendix to Title 50, War and National Defense, and had been repealed or omitted from the Code as executed prior to the elimination of the Appendix to Title 50. See Elimination of Title 50, Appendix note preceding section 1 of Title 50. Section 1641 of title 50, appendix, referred to in par. (1)(H), was repealed by Pub. L. 87–256, § 111(a)(1), Sept. 21, 1961, 75 Stat. 538. See Historical and Revision Note above.
+Sections 1884 and 1891–1902 of title 50, appendix, referred to in par. (1)(H), were a part of the various Housing and Rent Acts which were classified to section 1881 et seq. of the former Appendix to Title 50, War and National Defense, and had been repealed or omitted from the Code as executed prior to the elimination of the Appendix to Title 50. See Elimination of Title 50, Appendix note preceding section 1 of Title 50. Section 1641 of title 50, appendix, referred to in par. (1)(H), was repealed by Pub. L. 87–256, § 111(a)(1), Sept. 21, 1961, 75 Stat. 538. See Historical and Revision Note above.
 
 **Codification**
 
@@ -600,7 +600,7 @@ Pub. L. 118–5, div. B, title III, June 3, 2023, 137 Stat. 31, provided that:
 
 **Study and Reports on Administrative Subpoenas**
 
-Pub. L. 106–544, § 7, Dec. 19, 2000, 114 Stat. 2719, provided that:
+Pub. L. 106–544, § 7, Dec. 19, 2000, 114 Stat. 2719, provided that:
 
 > **“(a) Study on Use of Administrative Subpoenas.—** Not later than December 31, 2001, the Attorney General, in consultation with the Secretary of the Treasury, shall complete a study on the use of administrative subpoena power by executive branch agencies or entities and shall report the findings to the Committees on the Judiciary of the Senate and the House of Representatives. Such report shall include—
 
@@ -624,17 +624,17 @@ Pub. L. 106–544, § 7, Dec. 19, 2000, 114 Stat. 2719, provided that:
 
 **Executive Order No. 13892**
 
-Ex. Ord. No. 13892, Oct. 9, 2019, 84 F.R. 55239, which related to civil administrative enforcement and adjudication, was revoked by Ex. Ord. No. 13992, § 2, Jan. 20, 2021, 86 F.R. 7049, formerly set out below.
+Ex. Ord. No. 13892, Oct. 9, 2019, 84 F.R. 55239, which related to civil administrative enforcement and adjudication, was revoked by Ex. Ord. No. 13992, § 2, Jan. 20, 2021, 86 F.R. 7049, formerly set out below.
 
 **Executive Order No. 13979**
 
-Ex. Ord. No. 13979, Jan. 18, 2021, 86 F.R. 6813, which required senior appointee participation in agency rulemaking, was revoked by Ex. Ord. No. 14018, § 1, Feb. 24, 2021, 86 F.R. 11855.
+Ex. Ord. No. 13979, Jan. 18, 2021, 86 F.R. 6813, which required senior appointee participation in agency rulemaking, was revoked by Ex. Ord. No. 14018, § 1, Feb. 24, 2021, 86 F.R. 11855.
 
 **Executive Order No. 13992**
 
-Ex. Ord. No. 13992, Jan. 20, 2021, 86 F.R. 7049, which related to agency regulatory actions and revoked Executive Orders formerly set out under this section, section 601 of this title, and in the former Appendix to this title, was revoked by Ex. Ord. No. 14148, § 2(g), Jan. 20, 2025, 90 F.R. 8237, and Ex. Ord. No. 14154, § 4(a)(ii), Jan. 20, 2025, 90 F.R. 8354.
+Ex. Ord. No. 13992, Jan. 20, 2021, 86 F.R. 7049, which related to agency regulatory actions and revoked Executive Orders formerly set out under this section, section 601 of this title, and in the former Appendix to this title, was revoked by Ex. Ord. No. 14148, § 2(g), Jan. 20, 2025, 90 F.R. 8237, and Ex. Ord. No. 14154, § 4(a)(ii), Jan. 20, 2025, 90 F.R. 8354.
 
-### § 552. Public information; agency rules, opinions, orders, records, and proceedings
+### § 552. Public information; agency rules, opinions, orders, records, and proceedings
 
 **(a)** Each agency shall make available to the public information as follows:
 
@@ -688,9 +688,9 @@ unless the materials are promptly published and copies offered for sale. For rec
 
 **(D)** For purposes of this paragraph, the term “search” means to review, manually or by automated means, agency records for the purpose of locating those records which are responsive to a request.
 
-**(E)** An agency, or part of an agency, that is an element of the intelligence community (as that term is defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))) 1
+**(E)** An agency, or part of an agency, that is an element of the intelligence community (as that term is defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall not make any record available under this paragraph to—
 
@@ -744,7 +744,7 @@ In this clause, the term “a representative of the news media” means any pers
 
 **(C)** Notwithstanding any other provision of law, the defendant shall serve an answer or otherwise plead to any complaint made under this subsection within thirty days after service upon the defendant of the pleading in which such complaint is made, unless the court otherwise directs for good cause shown.
 
-**[(D)** Repealed. Pub. L. 98–620, title IV, § 402(2), Nov. 8, 1984, 98 Stat. 3357.]
+**[(D)** Repealed. Pub. L. 98–620, title IV, § 402(2), Nov. 8, 1984, 98 Stat. 3357.]
 
 **(E)**
 
@@ -1170,7 +1170,7 @@ the agency may, during only such time as that circumstance continues, treat the 
 
 **(2)** This subsection shall not be construed to alter the power of any other agency to create or maintain an independent online portal for the submission of a request for records under this section. The Director of the Office of Management and Budget shall establish standards for interoperability between the portal required under paragraph (1) and other request processing software used by agencies subject to this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383; Pub. L. 90–23, § 1, June 5, 1967, 81 Stat. 54; Pub. L. 93–502, §§ 1–3, Nov. 21, 1974, 88 Stat. 1561–1564; Pub. L. 94–409, § 5(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–454, title IX, § 906(a)(10), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 98–620, title IV, § 402(2), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–570, title I, §§ 1802, 1803, Oct. 27, 1986, 100 Stat. 3207–48, 3207–49; Pub. L. 104–231, §§ 3–11, Oct. 2, 1996, 110 Stat. 3049–3054; Pub. L. 107–306, title III, § 312, Nov. 27, 2002, 116 Stat. 2390; Pub. L. 110–175, §§ 3, 4(a), 5, 6(a)(1), (b)(1), 7(a), 8–10(a), 12, Dec. 31, 2007, 121 Stat. 2525–2530; Pub. L. 111–83, title V, § 564(b), Oct. 28, 2009, 123 Stat. 2184; Pub. L. 114–185, § 2, June 30, 2016, 130 Stat. 538.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383; Pub. L. 90–23, § 1, June 5, 1967, 81 Stat. 54; Pub. L. 93–502, §§ 1–3, Nov. 21, 1974, 88 Stat. 1561–1564; Pub. L. 94–409, § 5(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–454, title IX, § 906(a)(10), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 98–620, title IV, § 402(2), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–570, title I, §§ 1802, 1803, Oct. 27, 1986, 100 Stat. 3207–48, 3207–49; Pub. L. 104–231, §§ 3–11, Oct. 2, 1996, 110 Stat. 3049–3054; Pub. L. 107–306, title III, § 312, Nov. 27, 2002, 116 Stat. 2390; Pub. L. 110–175, §§ 3, 4(a), 5, 6(a)(1), (b)(1), 7(a), 8–10(a), 12, Dec. 31, 2007, 121 Stat. 2525–2530; Pub. L. 111–83, title V, § 564(b), Oct. 28, 2009, 123 Stat. 2184; Pub. L. 114–185, § 2, June 30, 2016, 130 Stat. 538.)
 
 **Historical and Revision Notes**
 
@@ -1178,7 +1178,7 @@ the agency may, during only such time as that circumstance continues, treat the 
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1002. | June 11, 1946, ch. 324, § 3, 60 Stat. 238. |
+|  | 5 U.S.C. 1002. | June 11, 1946, ch. 324, § 3, 60 Stat. 238. |
 
 In subsection (b)(3), the words “formulated and” are omitted as surplusage. In the last sentence of subsection (b), the words “in any manner” are omitted as surplusage since the prohibition is all inclusive.
 
@@ -1190,11 +1190,11 @@ Section 1 [of Pub. L. 90–23] amends section 552 of title 5, United States Code
 
 In subsection (a)(1)(A), the words “employees (and in the case of a uniformed service, the member)” are substituted for “officer” to retain the coverage of Public Law 89–487 and to conform to the definitions in 5 U.S.C. 2101, 2104, and 2105.
 
-In the last sentence of subsection (a)(2), the words “A final order \* \* \* may be relied on \* \* \* only if” are substituted for “No final order \* \* \* may be relied upon \* \* \* unless”; and the words “a party other than an agency” and “the party” are substituted for “a private party” and “the private party”, respectively, on authority of the definition of “private party” in 5 App. U.S.C. 1002(g).
+In the last sentence of subsection (a)(2), the words “A final order \* \* \* may be relied on \* \* \* only if” are substituted for “No final order \* \* \* may be relied upon \* \* \* unless”; and the words “a party other than an agency” and “the party” are substituted for “a private party” and “the private party”, respectively, on authority of the definition of “private party” in 5 App. U.S.C. 1002(g).
 
 In subsection (a)(3), the words “the responsible employee, and in the case of a uniformed service, the responsible member” are substituted for “the responsible officers” to retain the coverage of Public Law 89–487 and to conform to the definitions in 5 U.S.C. 2101, 2104, and 2105.
 
-In subsection (a)(4), the words “shall maintain and make available for public inspection a record” are substituted for “shall keep a record \* \* \* and that record shall be available for public inspection”.
+In subsection (a)(4), the words “shall maintain and make available for public inspection a record” are substituted for “shall keep a record \* \* \* and that record shall be available for public inspection”.
 
 In subsection (b)(5) and (7), the words “a party other than an agency” are substituted for “a private party” on authority of the definition of “private party” in 5 App. U.S.C. 1002(g).
 
@@ -1208,7 +1208,7 @@ In subsection (c), the words “This section does not authorize” and “This s
 
 **References in Text**
 
-The National Security Act of 1947, referred to in subsec. (a)(3)(E), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 3 of the Act is now classified to section 3003 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (a)(3)(E), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 3 of the Act is now classified to section 3003 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The date of enactment of the OPEN FOIA Act of 2009, referred to in subsec. (b)(3)(B), is the date of enactment of Pub. L. 111–83, which was approved Oct. 28, 2009.
 
@@ -1218,107 +1218,107 @@ Section 552 of former Title 5, Executive Departments and Government Officers and
 
 **Amendments**
 
-2016—Subsec. (a)(2). Pub. L. 114–185, § 2(1)(A)(i), in introductory provisions, substituted “for public inspection in an electronic format” for “for public inspection and copying”.
+2016—Subsec. (a)(2). Pub. L. 114–185, § 2(1)(A)(i), in introductory provisions, substituted “for public inspection in an electronic format” for “for public inspection and copying”.
 
-Pub. L. 114–185, § 2(1)(A)(iii), in concluding provisions, substituted “public inspection in an electronic format current” for “public inspection and copying current”.
+Pub. L. 114–185, § 2(1)(A)(iii), in concluding provisions, substituted “public inspection in an electronic format current” for “public inspection and copying current”.
 
-Subsec. (a)(2)(D). Pub. L. 114–185, § 2(1)(A)(ii), added subpar. (D) and struck out former subpar. (D) which read as follows: “copies of all records, regardless of form or format, which have been released to any person under paragraph (3) and which, because of the nature of their subject matter, the agency determines have become or are likely to become the subject of subsequent requests for substantially the same records; and”.
+Subsec. (a)(2)(D). Pub. L. 114–185, § 2(1)(A)(ii), added subpar. (D) and struck out former subpar. (D) which read as follows: “copies of all records, regardless of form or format, which have been released to any person under paragraph (3) and which, because of the nature of their subject matter, the agency determines have become or are likely to become the subject of subsequent requests for substantially the same records; and”.
 
-Subsec. (a)(4)(A)(viii). Pub. L. 114–185, § 2(1)(B), added cl. (viii) and struck out former cl. (viii) which read as follows: “An agency shall not assess search fees (or in the case of a requester described under clause (ii)(II), duplication fees) under this subparagraph if the agency fails to comply with any time limit under paragraph (6), if no unusual or exceptional circumstances (as those terms are defined for purposes of paragraphs (6)(B) and (C), respectively) apply to the processing of the request.”
+Subsec. (a)(4)(A)(viii). Pub. L. 114–185, § 2(1)(B), added cl. (viii) and struck out former cl. (viii) which read as follows: “An agency shall not assess search fees (or in the case of a requester described under clause (ii)(II), duplication fees) under this subparagraph if the agency fails to comply with any time limit under paragraph (6), if no unusual or exceptional circumstances (as those terms are defined for purposes of paragraphs (6)(B) and (C), respectively) apply to the processing of the request.”
 
-Subsec. (a)(6)(A)(i). Pub. L. 114–185, § 2(1)(C)(i), substituted “making such request of—” for “making such request of such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and” and added subcls. (I) to (III).
+Subsec. (a)(6)(A)(i). Pub. L. 114–185, § 2(1)(C)(i), substituted “making such request of—” for “making such request of such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and” and added subcls. (I) to (III).
 
-Subsec. (a)(6)(B)(ii). Pub. L. 114–185, § 2(1)(C)(ii), substituted “the agency, and notify the requester of the right of the requester to seek dispute resolution services from the Office of Government Information Services.” for “the agency.”
+Subsec. (a)(6)(B)(ii). Pub. L. 114–185, § 2(1)(C)(ii), substituted “the agency, and notify the requester of the right of the requester to seek dispute resolution services from the Office of Government Information Services.” for “the agency.”
 
-Subsec. (a)(8). Pub. L. 114–185, § 2(1)(D), added par. (8).
+Subsec. (a)(8). Pub. L. 114–185, § 2(1)(D), added par. (8).
 
-Subsec. (b)(5). Pub. L. 114–185, § 2(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “inter-agency or intra-agency memorandums or letters which would not be available by law to a party other than an agency in litigation with the agency;”.
+Subsec. (b)(5). Pub. L. 114–185, § 2(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “inter-agency or intra-agency memorandums or letters which would not be available by law to a party other than an agency in litigation with the agency;”.
 
-Subsec. (e)(1). Pub. L. 114–185, § 2(3)(A)(i), in introductory provisions, inserted “and to the Director of the Office of Government Information Services” after “United States”.
+Subsec. (e)(1). Pub. L. 114–185, § 2(3)(A)(i), in introductory provisions, inserted “and to the Director of the Office of Government Information Services” after “United States”.
 
-Subsec. (e)(1)(P), (Q). Pub. L. 114–185, § 2(3)(A)(ii)–(iv), added subpars. (P) and (Q).
+Subsec. (e)(1)(P), (Q). Pub. L. 114–185, § 2(3)(A)(ii)–(iv), added subpars. (P) and (Q).
 
-Subsec. (e)(3). Pub. L. 114–185, § 2(3)(B), added par. (3) and struck out former par. (3) which read as follows: “Each agency shall make each such report available to the public including by computer telecommunications, or if computer telecommunications means have not been established by the agency, by other electronic means. In addition, each agency shall make the raw statistical data used in its reports available electronically to the public upon request.”
+Subsec. (e)(3). Pub. L. 114–185, § 2(3)(B), added par. (3) and struck out former par. (3) which read as follows: “Each agency shall make each such report available to the public including by computer telecommunications, or if computer telecommunications means have not been established by the agency, by other electronic means. In addition, each agency shall make the raw statistical data used in its reports available electronically to the public upon request.”
 
-Subsec. (e)(4). Pub. L. 114–185, § 2(3)(C), substituted “Oversight and Government Reform” for “Government Reform and Oversight” and “March” for “April” and inserted “Homeland Security and” before “Governmental Affairs”.
+Subsec. (e)(4). Pub. L. 114–185, § 2(3)(C), substituted “Oversight and Government Reform” for “Government Reform and Oversight” and “March” for “April” and inserted “Homeland Security and” before “Governmental Affairs”.
 
-Subsec. (e)(6). Pub. L. 114–185, § 2(3)(D), added par. (6) and struck out former par. (6) which read as follows: “The Attorney General of the United States shall submit an annual report on or before April 1 of each calendar year which shall include for the prior calendar year a listing of the number of cases arising under this section, the exemption involved in each case, the disposition of such case, and the cost, fees, and penalties assessed under subparagraphs (E), (F), and (G) of subsection (a)(4). Such report shall also include a description of the efforts undertaken by the Department of Justice to encourage agency compliance with this section.”
+Subsec. (e)(6). Pub. L. 114–185, § 2(3)(D), added par. (6) and struck out former par. (6) which read as follows: “The Attorney General of the United States shall submit an annual report on or before April 1 of each calendar year which shall include for the prior calendar year a listing of the number of cases arising under this section, the exemption involved in each case, the disposition of such case, and the cost, fees, and penalties assessed under subparagraphs (E), (F), and (G) of subsection (a)(4). Such report shall also include a description of the efforts undertaken by the Department of Justice to encourage agency compliance with this section.”
 
-Subsec. (g). Pub. L. 114–185, § 2(4), in introductory provisions, substituted “available for public inspection in an electronic format” for “publicly available upon request”.
+Subsec. (g). Pub. L. 114–185, § 2(4), in introductory provisions, substituted “available for public inspection in an electronic format” for “publicly available upon request”.
 
-Subsec. (h)(1). Pub. L. 114–185, § 2(5)(A), inserted at end “The head of the Office shall be the Director of the Office of Government Information Services.”
+Subsec. (h)(1). Pub. L. 114–185, § 2(5)(A), inserted at end “The head of the Office shall be the Director of the Office of Government Information Services.”
 
-Subsec. (h)(2)(C). Pub. L. 114–185, § 2(5)(B), added subpar. (C) and struck out former subpar. (C) which read as follows: “recommend policy changes to Congress and the President to improve the administration of this section.”
+Subsec. (h)(2)(C). Pub. L. 114–185, § 2(5)(B), added subpar. (C) and struck out former subpar. (C) which read as follows: “recommend policy changes to Congress and the President to improve the administration of this section.”
 
-Subsec. (h)(3). Pub. L. 114–185, § 2(5)(C), added par. (3) and struck out former par. (3) which read as follows: “The Office of Government Information Services shall offer mediation services to resolve disputes between persons making requests under this section and administrative agencies as a non-exclusive alternative to litigation and, at the discretion of the Office, may issue advisory opinions if mediation has not resolved the dispute.”
+Subsec. (h)(3). Pub. L. 114–185, § 2(5)(C), added par. (3) and struck out former par. (3) which read as follows: “The Office of Government Information Services shall offer mediation services to resolve disputes between persons making requests under this section and administrative agencies as a non-exclusive alternative to litigation and, at the discretion of the Office, may issue advisory opinions if mediation has not resolved the dispute.”
 
-Subsec. (h)(4) to (6). Pub. L. 114–185, § 2(5)(D), added pars. (4) to (6).
+Subsec. (h)(4) to (6). Pub. L. 114–185, § 2(5)(D), added pars. (4) to (6).
 
-Subsec. (j). Pub. L. 114–185, § 2(6), added subsec. (j) and struck out former subsec. (j) which read as follows: “Each agency shall designate a Chief FOIA Officer who shall be a senior official of such agency (at the Assistant Secretary or equivalent level).”
+Subsec. (j). Pub. L. 114–185, § 2(6), added subsec. (j) and struck out former subsec. (j) which read as follows: “Each agency shall designate a Chief FOIA Officer who shall be a senior official of such agency (at the Assistant Secretary or equivalent level).”
 
-Subsec. (k). Pub. L. 114–185, § 2(6), added subsec. (k) and struck out former subsec. (k) which related to authority and responsibilities of the Chief FOIA Officer.
+Subsec. (k). Pub. L. 114–185, § 2(6), added subsec. (k) and struck out former subsec. (k) which related to authority and responsibilities of the Chief FOIA Officer.
 
-Subsec. (m). Pub. L. 114–185, § 2(7), added subsec. (m).
+Subsec. (m). Pub. L. 114–185, § 2(7), added subsec. (m).
 
 2009—Subsec. (b)(3). Pub. L. 111–83 added par. (3) and struck out former par. (3) which read as follows: “specifically exempted from disclosure by statute (other than section 552b of this title), provided that such statute (A) requires that the matters be withheld from the public in such a manner as to leave no discretion on the issue, or (B) establishes particular criteria for withholding or refers to particular types of matters to be withheld;”.
 
-2007—Subsec. (a)(4)(A)(ii). Pub. L. 110–175, § 3, inserted concluding provisions.
+2007—Subsec. (a)(4)(A)(ii). Pub. L. 110–175, § 3, inserted concluding provisions.
 
-Subsec. (a)(4)(A)(viii). Pub. L. 110–175, § 6(b)(1)(A), added cl. (viii).
+Subsec. (a)(4)(A)(viii). Pub. L. 110–175, § 6(b)(1)(A), added cl. (viii).
 
-Subsec. (a)(4)(E). Pub. L. 110–175, § 4(a), designated existing provisions as cl. (i) and added cl. (ii).
+Subsec. (a)(4)(E). Pub. L. 110–175, § 4(a), designated existing provisions as cl. (i) and added cl. (ii).
 
-Subsec. (a)(4)(F). Pub. L. 110–175, § 5, designated existing provisions as cl. (i) and added cls. (ii) and (iii).
+Subsec. (a)(4)(F). Pub. L. 110–175, § 5, designated existing provisions as cl. (i) and added cls. (ii) and (iii).
 
-Subsec. (a)(6)(A). Pub. L. 110–175, § 6(a)(1), inserted concluding provisions.
+Subsec. (a)(6)(A). Pub. L. 110–175, § 6(a)(1), inserted concluding provisions.
 
-Subsec. (a)(6)(B)(ii). Pub. L. 110–175, § 6(b)(1)(B), inserted after the first sentence “To aid the requester, each agency shall make available its FOIA Public Liaison, who shall assist in the resolution of any disputes between the requester and the agency.”
+Subsec. (a)(6)(B)(ii). Pub. L. 110–175, § 6(b)(1)(B), inserted after the first sentence “To aid the requester, each agency shall make available its FOIA Public Liaison, who shall assist in the resolution of any disputes between the requester and the agency.”
 
-Subsec. (a)(7). Pub. L. 110–175, § 7(a), added par. (7).
+Subsec. (a)(7). Pub. L. 110–175, § 7(a), added par. (7).
 
-Subsec. (b). Pub. L. 110–175, § 12, in concluding provisions, inserted “, and the exemption under which the deletion is made,” after “The amount of information deleted” in second sentence and after “the amount of the information deleted” in third sentence.
+Subsec. (b). Pub. L. 110–175, § 12, in concluding provisions, inserted “, and the exemption under which the deletion is made,” after “The amount of information deleted” in second sentence and after “the amount of the information deleted” in third sentence.
 
-Subsec. (e)(1)(B)(ii). Pub. L. 110–175, § 8(a)(1), inserted “the number of occasions on which each statute was relied upon,” after “subsection (b)(3),”.
+Subsec. (e)(1)(B)(ii). Pub. L. 110–175, § 8(a)(1), inserted “the number of occasions on which each statute was relied upon,” after “subsection (b)(3),”.
 
-Subsec. (e)(1)(C). Pub. L. 110–175, § 8(a)(2), inserted “and average” after “median”.
+Subsec. (e)(1)(C). Pub. L. 110–175, § 8(a)(2), inserted “and average” after “median”.
 
-Subsec. (e)(1)(E). Pub. L. 110–175, § 8(a)(3), inserted before semicolon “, based on the date on which the requests were received by the agency”.
+Subsec. (e)(1)(E). Pub. L. 110–175, § 8(a)(3), inserted before semicolon “, based on the date on which the requests were received by the agency”.
 
-Subsec. (e)(1)(F) to (O). Pub. L. 110–175, § 8(a)(4), (5), added subpars. (F) to (M) and redesignated former subpars. (F) and (G) as (N) and (O), respectively.
+Subsec. (e)(1)(F) to (O). Pub. L. 110–175, § 8(a)(4), (5), added subpars. (F) to (M) and redesignated former subpars. (F) and (G) as (N) and (O), respectively.
 
-Subsec. (e)(2). Pub. L. 110–175, § 8(b)(2), added par. (2). Former par. (2) redesignated (3).
+Subsec. (e)(2). Pub. L. 110–175, § 8(b)(2), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (e)(3). Pub. L. 110–175, § 8(b)(1), (c), redesignated par. (2) as (3) and inserted at end “In addition, each agency shall make the raw statistical data used in its reports available electronically to the public upon request.” Former par. (3) redesignated (4).
+Subsec. (e)(3). Pub. L. 110–175, § 8(b)(1), (c), redesignated par. (2) as (3) and inserted at end “In addition, each agency shall make the raw statistical data used in its reports available electronically to the public upon request.” Former par. (3) redesignated (4).
 
-Subsec. (e)(4) to (6). Pub. L. 110–175, § 8(b)(1), redesignated pars. (3) to (5) as (4) to (6), respectively.
+Subsec. (e)(4) to (6). Pub. L. 110–175, § 8(b)(1), redesignated pars. (3) to (5) as (4) to (6), respectively.
 
-Subsec. (f)(2). Pub. L. 110–175, § 9, added par. (2) and struck out former par. (2) which read as follows: “ ‘record’ and any other term used in this section in reference to information includes any information that would be an agency record subject to the requirements of this section when maintained by an agency in any format, including an electronic format.”
+Subsec. (f)(2). Pub. L. 110–175, § 9, added par. (2) and struck out former par. (2) which read as follows: “ ‘record’ and any other term used in this section in reference to information includes any information that would be an agency record subject to the requirements of this section when maintained by an agency in any format, including an electronic format.”
 
-Subsecs. (h) to (*l*). Pub. L. 110–175, § 10(a), added subsecs. (h) to (*l*).
+Subsecs. (h) to (*l*). Pub. L. 110–175, § 10(a), added subsecs. (h) to (*l*).
 
-2002—Subsec. (a)(3)(A). Pub. L. 107–306, § 312(1), inserted “and except as provided in subparagraph (E),” after “of this subsection,”.
+2002—Subsec. (a)(3)(A). Pub. L. 107–306, § 312(1), inserted “and except as provided in subparagraph (E),” after “of this subsection,”.
 
-Subsec. (a)(3)(E). Pub. L. 107–306, § 312(2), added subpar. (E).
+Subsec. (a)(3)(E). Pub. L. 107–306, § 312(2), added subpar. (E).
 
-1996—Subsec. (a)(2). Pub. L. 104–231, § 4(4), (5), in first sentence struck out “and” at end of subpar. (B) and inserted subpars. (D) and (E).
+1996—Subsec. (a)(2). Pub. L. 104–231, § 4(4), (5), in first sentence struck out “and” at end of subpar. (B) and inserted subpars. (D) and (E).
 
-Pub. L. 104–231, § 4(7), inserted after first sentence “For records created on or after November 1, 1996, within one year after such date, each agency shall make such records available, including by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means.”
+Pub. L. 104–231, § 4(7), inserted after first sentence “For records created on or after November 1, 1996, within one year after such date, each agency shall make such records available, including by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means.”
 
-Pub. L. 104–231, § 4(1), in second sentence substituted “staff manual, instruction, or copies of records referred to in subparagraph (D)” for “or staff manual or instruction”.
+Pub. L. 104–231, § 4(1), in second sentence substituted “staff manual, instruction, or copies of records referred to in subparagraph (D)” for “or staff manual or instruction”.
 
-Pub. L. 104–231, § 4(2), inserted before period at end of third sentence “, and the extent of such deletion shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in subsection (b) under which the deletion is made”.
+Pub. L. 104–231, § 4(2), inserted before period at end of third sentence “, and the extent of such deletion shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in subsection (b) under which the deletion is made”.
 
-Pub. L. 104–231, § 4(3), inserted after third sentence “If technically feasible, the extent of the deletion shall be indicated at the place in the record where the deletion was made.”
+Pub. L. 104–231, § 4(3), inserted after third sentence “If technically feasible, the extent of the deletion shall be indicated at the place in the record where the deletion was made.”
 
-Pub. L. 104–231, § 4(6), which directed the insertion of the following new sentence after the fifth sentence “Each agency shall make the index referred to in subparagraph (E) available by computer telecommunications by December 31, 1999.”, was executed by making the insertion after the sixth sentence, to reflect the probable intent of Congress and the addition of a new sentence by section 4(3) of Pub. L. 104–231.
+Pub. L. 104–231, § 4(6), which directed the insertion of the following new sentence after the fifth sentence “Each agency shall make the index referred to in subparagraph (E) available by computer telecommunications by December 31, 1999.”, was executed by making the insertion after the sixth sentence, to reflect the probable intent of Congress and the addition of a new sentence by section 4(3) of Pub. L. 104–231.
 
-Subsec. (a)(3). Pub. L. 104–231, § 5, inserted subpar. (A) designation after “(3)”, redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpars. (B) to (D).
+Subsec. (a)(3). Pub. L. 104–231, § 5, inserted subpar. (A) designation after “(3)”, redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpars. (B) to (D).
 
-Subsec. (a)(4)(B). Pub. L. 104–231, § 6, inserted at end “In addition to any other matters to which a court accords substantial weight, a court shall accord substantial weight to an affidavit of an agency concerning the agency’s determination as to technical feasibility under paragraph (2)(C) and subsection (b) and reproducibility under paragraph (3)(B).”
+Subsec. (a)(4)(B). Pub. L. 104–231, § 6, inserted at end “In addition to any other matters to which a court accords substantial weight, a court shall accord substantial weight to an affidavit of an agency concerning the agency’s determination as to technical feasibility under paragraph (2)(C) and subsection (b) and reproducibility under paragraph (3)(B).”
 
-Subsec. (a)(6)(A)(i). Pub. L. 104–231, § 8(b), substituted “20 days” for “ten days”.
+Subsec. (a)(6)(A)(i). Pub. L. 104–231, § 8(b), substituted “20 days” for “ten days”.
 
-Subsec. (a)(6)(B). Pub. L. 104–231, § 7(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In unusual circumstances as specified in this subparagraph, the time limits prescribed in either clause (i) or clause (ii) of subparagraph (A) may be extended by written notice to the person making such request setting forth the reasons for such extension and the date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension for more than ten working days. As used in this subparagraph, ‘unusual circumstances’ means, but only to the extent reasonably necessary to the proper processing of the particular request—
+Subsec. (a)(6)(B). Pub. L. 104–231, § 7(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In unusual circumstances as specified in this subparagraph, the time limits prescribed in either clause (i) or clause (ii) of subparagraph (A) may be extended by written notice to the person making such request setting forth the reasons for such extension and the date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension for more than ten working days. As used in this subparagraph, ‘unusual circumstances’ means, but only to the extent reasonably necessary to the proper processing of the particular request—
 
 “(i) the need to search for and collect the requested records from field facilities or other establishments that are separate from the office processing the request;
 
@@ -1326,25 +1326,25 @@ Subsec. (a)(6)(B). Pub. L. 104–231, § 7(b), amended subpar. (B) generally. 
 
 “(iii) the need for consultation, which shall be conducted with all practicable speed, with another agency having a substantial interest in the determination of the request or among two or more components of the agency having substantial subject-matter interest therein.”
 
-Subsec. (a)(6)(C). Pub. L. 104–231, § 7(c), designated existing provisions as cl. (i) and added cls. (ii) and (iii).
+Subsec. (a)(6)(C). Pub. L. 104–231, § 7(c), designated existing provisions as cl. (i) and added cls. (ii) and (iii).
 
-Subsec. (a)(6)(D). Pub. L. 104–231, § 7(a), added subpar. (D).
+Subsec. (a)(6)(D). Pub. L. 104–231, § 7(a), added subpar. (D).
 
-Subsec. (a)(6)(E), (F). Pub. L. 104–231, § 8(a), (c), added subpars. (E) and (F).
+Subsec. (a)(6)(E), (F). Pub. L. 104–231, § 8(a), (c), added subpars. (E) and (F).
 
-Subsec. (b). Pub. L. 104–231, § 9, inserted at end of closing provisions “The amount of information deleted shall be indicated on the released portion of the record, unless including that indication would harm an interest protected by the exemption in this subsection under which the deletion is made. If technically feasible, the amount of the information deleted shall be indicated at the place in the record where such deletion is made.”
+Subsec. (b). Pub. L. 104–231, § 9, inserted at end of closing provisions “The amount of information deleted shall be indicated on the released portion of the record, unless including that indication would harm an interest protected by the exemption in this subsection under which the deletion is made. If technically feasible, the amount of the information deleted shall be indicated at the place in the record where such deletion is made.”
 
-Subsec. (e). Pub. L. 104–231, § 10, amended subsec. (e) generally, revising and restating provisions relating to reports to Congress.
+Subsec. (e). Pub. L. 104–231, § 10, amended subsec. (e) generally, revising and restating provisions relating to reports to Congress.
 
-Subsec. (f). Pub. L. 104–231, § 3, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “For purposes of this section, the term ‘agency’ as defined in section 551(1) of this title includes any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency.”
+Subsec. (f). Pub. L. 104–231, § 3, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “For purposes of this section, the term ‘agency’ as defined in section 551(1) of this title includes any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency.”
 
-Subsec. (g). Pub. L. 104–231, § 11, added subsec. (g).
+Subsec. (g). Pub. L. 104–231, § 11, added subsec. (g).
 
-1986—Subsec. (a)(4)(A). Pub. L. 99–570, § 1803, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying a uniform schedule of fees applicable to all constituent units of such agency. Such fees shall be limited to reasonable standard charges for document search and duplication and provide for recovery of only the direct costs of such search and duplication. Documents shall be furnished without charge or at a reduced charge where the agency determines that waiver or reduction of the fee is in the public interest because furnishing the information can be considered as primarily benefiting the general public.”
+1986—Subsec. (a)(4)(A). Pub. L. 99–570, § 1803, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying a uniform schedule of fees applicable to all constituent units of such agency. Such fees shall be limited to reasonable standard charges for document search and duplication and provide for recovery of only the direct costs of such search and duplication. Documents shall be furnished without charge or at a reduced charge where the agency determines that waiver or reduction of the fee is in the public interest because furnishing the information can be considered as primarily benefiting the general public.”
 
-Subsec. (b)(7). Pub. L. 99–570, § 1802(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “investigatory records compiled for law enforcement purposes, but only to the extent that the production of such records would (A) interfere with enforcement proceedings, (B) deprive a person of a right to a fair trial or an impartial adjudication, (C) constitute an unwarranted invasion of personal privacy, (D) disclose the identity of a confidential source and, in the case of a record compiled by a criminal law enforcement authority in the course of a criminal investigation, or by an agency conducting a lawful national security intelligence investigation, confidential information furnished only by the confidential source, (E) disclose investigative techniques and procedures, or (F) endanger the life or physical safety of law enforcement personnel;”.
+Subsec. (b)(7). Pub. L. 99–570, § 1802(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “investigatory records compiled for law enforcement purposes, but only to the extent that the production of such records would (A) interfere with enforcement proceedings, (B) deprive a person of a right to a fair trial or an impartial adjudication, (C) constitute an unwarranted invasion of personal privacy, (D) disclose the identity of a confidential source and, in the case of a record compiled by a criminal law enforcement authority in the course of a criminal investigation, or by an agency conducting a lawful national security intelligence investigation, confidential information furnished only by the confidential source, (E) disclose investigative techniques and procedures, or (F) endanger the life or physical safety of law enforcement personnel;”.
 
-Subsecs. (c) to (f). Pub. L. 99–570, § 1802(b), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+Subsecs. (c) to (f). Pub. L. 99–570, § 1802(b), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
 1984—Subsec. (a)(4)(D). Pub. L. 98–620 repealed subpar. (D) which provided for precedence on the docket and expeditious disposition of district court proceedings authorized by subsec. (a).
 
@@ -1352,21 +1352,21 @@ Subsecs. (c) to (f). Pub. L. 99–570, § 1802(b), added subsec. (c) and redes
 
 1976—Subsec. (b)(3). Pub. L. 94–409 inserted provision excluding section 552b of this title from applicability of exemption from disclosure and provision setting forth conditions for statute specifically exempting disclosure.
 
-1974—Subsec. (a)(2). Pub. L. 93–502, § 1(a), substituted provisions relating to maintenance and availability of current indexes, for provisions relating to maintenance and availability of a current index, and inserted provisions relating to publication and distribution of copies of indexes or supplements thereto.
+1974—Subsec. (a)(2). Pub. L. 93–502, § 1(a), substituted provisions relating to maintenance and availability of current indexes, for provisions relating to maintenance and availability of a current index, and inserted provisions relating to publication and distribution of copies of indexes or supplements thereto.
 
-Subsec. (a)(3). Pub. L. 93–502, § 1(b)(1), substituted provisions requiring requests to reasonably describe records for provisions requiring requests, for identifiable records, and struck out provisions setting forth procedures to enjoin agencies from withholding the requested records and ordering their production.
+Subsec. (a)(3). Pub. L. 93–502, § 1(b)(1), substituted provisions requiring requests to reasonably describe records for provisions requiring requests, for identifiable records, and struck out provisions setting forth procedures to enjoin agencies from withholding the requested records and ordering their production.
 
-Subsec. (a)(4), (5). Pub. L. 93–502, § 1(b)(2), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (a)(4), (5). Pub. L. 93–502, § 1(b)(2), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (a)(6). Pub. L. 93–502, § 1(c), added par. (6).
+Subsec. (a)(6). Pub. L. 93–502, § 1(c), added par. (6).
 
-Subsec. (b)(1). Pub. L. 93–502, § 2(a), designated existing provisions as cl. (A), substituted “authorized under criteria established by an” for “required by”, and added cl. (B).
+Subsec. (b)(1). Pub. L. 93–502, § 2(a), designated existing provisions as cl. (A), substituted “authorized under criteria established by an” for “required by”, and added cl. (B).
 
-Subsec. (b)(7). Pub. L. 93–502, § 2(b), substituted provisions relating to exemption for investigatory records compiled for law enforcement purposes, for provisions relating to exemption for investigatory files compiled for law enforcement purposes.
+Subsec. (b)(7). Pub. L. 93–502, § 2(b), substituted provisions relating to exemption for investigatory records compiled for law enforcement purposes, for provisions relating to exemption for investigatory files compiled for law enforcement purposes.
 
-Subsec. (b), foll. par. (9). Pub. L. 93–502, § 2(c), inserted provision relating to availability of segregable portion of records.
+Subsec. (b), foll. par. (9). Pub. L. 93–502, § 2(c), inserted provision relating to availability of segregable portion of records.
 
-Subsecs. (d), (e). Pub. L. 93–502, § 3, added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 93–502, § 3, added subsecs. (d) and (e).
 
 1967—Subsec. (a). Pub. L. 90–23 substituted introductory statement requiring every agency to make available to the public certain information for former introductory provision excepting from disclosure (1) any function of the United States requiring secrecy in the public interest or (2) any matter relating to internal management of an agency, covered in subsec. (b)(1) and (2) of this section.
 
@@ -1390,21 +1390,21 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–185, § 6, June 30, 2016, 130 Stat. 544, provided that: “This Act [amending this section and section 3102 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under this section and section 101 of this title], and the amendments made by this Act, shall take effect on the date of enactment of this Act [June 30, 2016] and shall apply to any request for records under section 552 of title 5, United States Code, made after the date of enactment of this Act.”
+Pub. L. 114–185, § 6, June 30, 2016, 130 Stat. 544, provided that: “This Act [amending this section and section 3102 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under this section and section 101 of this title], and the amendments made by this Act, shall take effect on the date of enactment of this Act [June 30, 2016] and shall apply to any request for records under section 552 of title 5, United States Code, made after the date of enactment of this Act.”
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–175, § 6(a)(2), Dec. 31, 2007, 121 Stat. 2526, provided that: “The amendment made by this subsection [amending this section] shall take effect 1 year after the date of enactment of this Act [Dec. 31, 2007].”
+Pub. L. 110–175, § 6(a)(2), Dec. 31, 2007, 121 Stat. 2526, provided that: “The amendment made by this subsection [amending this section] shall take effect 1 year after the date of enactment of this Act [Dec. 31, 2007].”
 
-Pub. L. 110–175, § 6(b)(2), Dec. 31, 2007, 121 Stat. 2526, provided that: “The amendment made by this subsection [amending this section] shall take effect 1 year after the date of enactment of this Act [Dec. 31, 2007] and apply to requests for information under section 552 of title 5, United States Code, filed on or after that effective date.”
+Pub. L. 110–175, § 6(b)(2), Dec. 31, 2007, 121 Stat. 2526, provided that: “The amendment made by this subsection [amending this section] shall take effect 1 year after the date of enactment of this Act [Dec. 31, 2007] and apply to requests for information under section 552 of title 5, United States Code, filed on or after that effective date.”
 
-Pub. L. 110–175, § 7(b), Dec. 31, 2007, 121 Stat. 2527, provided that: “The amendment made by this section [amending this section] shall take effect 1 year after the date of enactment of this Act [Dec. 31, 2007] and apply to requests for information under section 552 of title 5, United States Code, filed on or after that effective date.”
+Pub. L. 110–175, § 7(b), Dec. 31, 2007, 121 Stat. 2527, provided that: “The amendment made by this section [amending this section] shall take effect 1 year after the date of enactment of this Act [Dec. 31, 2007] and apply to requests for information under section 552 of title 5, United States Code, filed on or after that effective date.”
 
-Pub. L. 110–175, § 10(b), Dec. 31, 2007, 121 Stat. 2530, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Dec. 31, 2007].”
+Pub. L. 110–175, § 10(b), Dec. 31, 2007, 121 Stat. 2530, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Dec. 31, 2007].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–231, § 12, Oct. 2, 1996, 110 Stat. 3054, provided that:
+Pub. L. 104–231, § 12, Oct. 2, 1996, 110 Stat. 3054, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), this Act [amending this section and enacting provisions set out as notes below] shall take effect 180 days after the date of the enactment of this Act [Oct. 2, 1996].
 
@@ -1412,7 +1412,7 @@ Pub. L. 104–231, § 12, Oct. 2, 1996, 110 Stat. 3054, provided that:
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–570, title I, § 1804, Oct. 27, 1986, 100 Stat. 3207–50, provided that:
+Pub. L. 99–570, title I, § 1804, Oct. 27, 1986, 100 Stat. 3207–50, provided that:
 
 > **“(a)** The amendments made by section 1802 [amending this section] shall be effective on the date of enactment of this Act [Oct. 27, 1986], and shall apply with respect to any requests for records, whether or not the request was made prior to such date, and shall apply to any civil action pending on such date.
 
@@ -1436,19 +1436,19 @@ Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see secti
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–502, § 4, Nov. 21, 1974, 88 Stat. 1564, provided that: “The amendments made by this Act [amending this section] shall take effect on the ninetieth day beginning after the date of enactment of this Act [Nov. 21, 1974].”
+Pub. L. 93–502, § 4, Nov. 21, 1974, 88 Stat. 1564, provided that: “The amendments made by this Act [amending this section] shall take effect on the ninetieth day beginning after the date of enactment of this Act [Nov. 21, 1974].”
 
 **Effective Date of 1967 Amendment**
 
-Pub. L. 90–23, § 4, June 5, 1967, 81 Stat. 56, provided that: “This Act [amending this section] shall be effective July 4, 1967, or on the date of enactment [June 5, 1967], whichever is later.”
+Pub. L. 90–23, § 4, June 5, 1967, 81 Stat. 56, provided that: “This Act [amending this section] shall be effective July 4, 1967, or on the date of enactment [June 5, 1967], whichever is later.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–231, § 1, Oct. 2, 1996, 110 Stat. 3048, provided that: “This Act [amending this section and enacting provisions set out as notes under this section] may be cited as the ‘Electronic Freedom of Information Act Amendments of 1996’.”
+Pub. L. 104–231, § 1, Oct. 2, 1996, 110 Stat. 3048, provided that: “This Act [amending this section and enacting provisions set out as notes under this section] may be cited as the ‘Electronic Freedom of Information Act Amendments of 1996’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–570, title I, § 1801, Oct. 27, 1986, 100 Stat. 3207–48, provided that: “This subtitle [subtitle N (§§ 1801–1804) of title I of Pub. L. 99–570, amending this section and enacting provisions set out as a note under this section] may be cited as the ‘Freedom of Information Reform Act of 1986’.”
+Pub. L. 99–570, title I, § 1801, Oct. 27, 1986, 100 Stat. 3207–48, provided that: “This subtitle [subtitle N (§§ 1801–1804) of title I of Pub. L. 99–570, amending this section and enacting provisions set out as a note under this section] may be cited as the ‘Freedom of Information Reform Act of 1986’.”
 
 **Short Title**
 
@@ -1456,7 +1456,7 @@ This section is popularly known as the “Freedom of Information Act”.
 
 **Review and Issuance of Regulations**
 
-Pub. L. 114–185, § 3, June 30, 2016, 130 Stat. 544, provided that:
+Pub. L. 114–185, § 3, June 30, 2016, 130 Stat. 544, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of enactment of this Act [June 30, 2016], the head of each agency (as defined in section 551 of title 5, United States Code) shall review the regulations of such agency and shall issue regulations on procedures for the disclosure of records under section 552 of title 5, United States Code, in accordance with the amendments made by section 2 [amending this section].
 
@@ -1464,7 +1464,7 @@ Pub. L. 114–185, § 3, June 30, 2016, 130 Stat. 544, provided that:
 
 **Treatment of Information in Catch a Serial Offender Program for Certain Purposes**
 
-Pub. L. 116–92, div. A, title V, § 550, Dec. 20, 2019, 133 Stat. 1379, provided that:
+Pub. L. 116–92, div. A, title V, § 550, Dec. 20, 2019, 133 Stat. 1379, provided that:
 
 > **“(a) Treatment Under FOIA.—** Victim disclosures under the Catch a Serial Offender Program shall be withheld from public disclosure under paragraph (b)(3) of section 552 of title 5, United States Code (commonly referred to as the ‘Freedom of Information Act’).
 
@@ -1472,7 +1472,7 @@ Pub. L. 116–92, div. A, title V, § 550, Dec. 20, 2019, 133 Stat. 1379, prov
 
 **Protected National Security Documents**
 
-Pub. L. 111–83, title V, § 565, Oct. 28, 2009, 123 Stat. 2184, provided that:
+Pub. L. 111–83, title V, § 565, Oct. 28, 2009, 123 Stat. 2184, provided that:
 
 > **“(a) Short Title.—** This section may be cited as the ‘Protected National Security Documents Act of 2009’.
 
@@ -1512,7 +1512,7 @@ Pub. L. 111–83, title V, § 565, Oct. 28, 2009, 123 Stat. 2184, provided tha
 
 **Findings**
 
-Pub. L. 110–175, § 2, Dec. 31, 2007, 121 Stat. 2524, provided that:
+Pub. L. 110–175, § 2, Dec. 31, 2007, 121 Stat. 2524, provided that:
 
 > “Congress finds that—
 
@@ -1536,11 +1536,11 @@ Pub. L. 110–175, § 2, Dec. 31, 2007, 121 Stat. 2524, provided that:
 
 **Limitation on Amounts Obligated or Expended From Claims and Judgment Fund**
 
-Pub. L. 110–175, § 4(b), Dec. 31, 2007, 121 Stat. 2525, provided that: “Notwithstanding section 1304 of title 31, United States Code, no amounts may be obligated or expended from the Claims and Judgment Fund of the United States Treasury to pay the costs resulting from fees assessed under section 552(a)(4)(E) of title 5, United States Code. Any such amounts shall be paid only from funds annually appropriated for any authorized purpose for the Federal agency against which a claim or judgment has been rendered.”
+Pub. L. 110–175, § 4(b), Dec. 31, 2007, 121 Stat. 2525, provided that: “Notwithstanding section 1304 of title 31, United States Code, no amounts may be obligated or expended from the Claims and Judgment Fund of the United States Treasury to pay the costs resulting from fees assessed under section 552(a)(4)(E) of title 5, United States Code. Any such amounts shall be paid only from funds annually appropriated for any authorized purpose for the Federal agency against which a claim or judgment has been rendered.”
 
 **Nondisclosure of Certain Products of Commercial Satellite Operations**
 
-Pub. L. 108–375, div. A, title IX, § 914, Oct. 28, 2004, 118 Stat. 2029, provided that:
+Pub. L. 108–375, div. A, title IX, § 914, Oct. 28, 2004, 118 Stat. 2029, provided that:
 
 > **“(a) Mandatory Disclosure Requirements Inapplicable.—** The requirements to make information available under section 552 of title 5, United States Code, shall not apply to land remote sensing information.
 
@@ -1564,11 +1564,11 @@ Pub. L. 108–375, div. A, title IX, § 914, Oct. 28, 2004, 118 Stat. 2029, pr
 
 **Disclosure of Arson, Explosive, or Firearm Records**
 
-Pub. L. 108–7, div. J, title VI, § 644, Feb. 20, 2003, 117 Stat. 473, provided that: “No funds appropriated under this Act or any other Act with respect to any fiscal year shall be available to take any action based upon any provision of 5 U.S.C. 552 with respect to records collected or maintained pursuant to 18 U.S.C. 846(b), 923(g)(3) or 923(g)(7), or provided by Federal, State, local, or foreign law enforcement agencies in connection with arson or explosives incidents or the tracing of a firearm, except that such records may continue to be disclosed to the extent and in the manner that records so collected, maintained, or obtained have been disclosed under 5 U.S.C. 552 prior to the date of the enactment of this Act [Feb. 20, 2003].”
+Pub. L. 108–7, div. J, title VI, § 644, Feb. 20, 2003, 117 Stat. 473, provided that: “No funds appropriated under this Act or any other Act with respect to any fiscal year shall be available to take any action based upon any provision of 5 U.S.C. 552 with respect to records collected or maintained pursuant to 18 U.S.C. 846(b), 923(g)(3) or 923(g)(7), or provided by Federal, State, local, or foreign law enforcement agencies in connection with arson or explosives incidents or the tracing of a firearm, except that such records may continue to be disclosed to the extent and in the manner that records so collected, maintained, or obtained have been disclosed under 5 U.S.C. 552 prior to the date of the enactment of this Act [Feb. 20, 2003].”
 
 **Disclosure of Information on Japanese Imperial Government**
 
-Pub. L. 106–567, title VIII, Dec. 27, 2000, 114 Stat. 2864, as amended by Pub. L. 108–199, div. H, § 163, Jan. 23, 2004, 118 Stat. 452; Pub. L. 109–5, § 1, Mar. 25, 2005, 119 Stat. 19, provided that:
+Pub. L. 106–567, title VIII, Dec. 27, 2000, 114 Stat. 2864, as amended by Pub. L. 108–199, div. H, § 163, Jan. 23, 2004, 118 Stat. 452; Pub. L. 109–5, § 1, Mar. 25, 2005, 119 Stat. 19, provided that:
 
 > **“SEC. 801. SHORT TITLE.**
 
@@ -1660,7 +1660,7 @@ Pub. L. 106–567, title VIII, Dec. 27, 2000, 114 Stat. 2864, as amended by Pub.
 
 **Nazi War Crimes Disclosure**
 
-Pub. L. 105–246, Oct. 8, 1998, 112 Stat. 1859, as amended by Pub. L. 106–567, § 802(b)(2), Dec. 27, 2000, 114 Stat. 2865, provided that:
+Pub. L. 105–246, Oct. 8, 1998, 112 Stat. 1859, as amended by Pub. L. 106–567, § 802(b)(2), Dec. 27, 2000, 114 Stat. 2865, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -1768,7 +1768,7 @@ Pub. L. 105–246, Oct. 8, 1998, 112 Stat. 1859, as amended by Pub. L. 106–567
 
 **Congressional Statement of Findings and Purpose; Public Access to Information in Electronic Format**
 
-Pub. L. 104–231, § 2, Oct. 2, 1996, 110 Stat. 3048, provided that:
+Pub. L. 104–231, § 2, Oct. 2, 1996, 110 Stat. 3048, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -1796,7 +1796,7 @@ Pub. L. 104–231, § 2, Oct. 2, 1996, 110 Stat. 3048, provided that:
 
 **Freedom of Information Act Exemption for Certain Open Skies Treaty Data**
 
-Pub. L. 103–236, title V, § 533, Apr. 30, 1994, 108 Stat. 480, provided that:
+Pub. L. 103–236, title V, § 533, Apr. 30, 1994, 108 Stat. 480, provided that:
 
 > **“(a) In General.—** Data with respect to a foreign country collected by sensors during observation flights conducted in connection with the Treaty on Open Skies, including flights conducted prior to entry into force of the treaty, shall be exempt from disclosure under the Freedom of Information Act—
 
@@ -1818,7 +1818,7 @@ Pub. L. 103–236, title V, § 533, Apr. 30, 1994, 108 Stat. 480, provided tha
 
 **Classified National Security Information**
 
-For provisions relating to a response to a request for information under this section when the fact of its existence or nonexistence is itself classified or when it was originally classified by another agency, see Ex. Ord. No. 13526, § 3.6, Dec. 29, 2009, 75 F.R. 718, set out as a note under section 3161 of Title 50, War and National Defense.
+For provisions relating to a response to a request for information under this section when the fact of its existence or nonexistence is itself classified or when it was originally classified by another agency, see Ex. Ord. No. 13526, § 3.6, Dec. 29, 2009, 75 F.R. 718, set out as a note under section 3161 of Title 50, War and National Defense.
 
 **Executive Order No. 12174**
 
@@ -2098,13 +2098,13 @@ The Director of the Office of Management and Budget is hereby authorized and dir
 
 Barack Obama.
 
-### § 552a. Records maintained on individuals
+### § 552a. Records maintained on individuals
 
 **(a) Definitions.—** For purposes of this section—
 
-**(1)** the term “agency” means agency as defined in section 552(e) 1
+**(1)** the term “agency” means agency as defined in section 552(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title;
 
@@ -2158,7 +2158,7 @@ if the purpose of the match is not to take any adverse financial, personnel, dis
 
 **(ix)** matches performed by the Secretary of Health and Human Services or the Inspector General of the Department of Health and Human Services with respect to potential fraud, waste, and abuse, including matches of a system of records with non-Federal records; or
 
-**(x)** matches performed pursuant to section 3(d)(4) of the Achieving a Better Life Experience Act of 2014; <sup>1</sup>
+**(x)** matches performed pursuant to section 3(d)(4) of the Achieving a Better Life Experience Act of 2014; <sup>1</sup>
 
 **(9)** the term “recipient agency” means any agency, or contractor thereof, receiving records contained in a system of records from a source agency for use in a matching program;
 
@@ -2534,7 +2534,7 @@ that any information provided by such applicants, recipients, holders, and indiv
 
 **(A)** Except as provided in subparagraphs (B) and (C), a Data Integrity Board shall not approve any written agreement for a matching program unless the agency has completed and submitted to such Board a cost-benefit analysis of the proposed program and such analysis demonstrates that the program is likely to be cost effective.2
 
-<sup>2</sup>  So in original. Probably should be “cost-effective.”
+<sup>2</sup> So in original. Probably should be “cost-effective.”
 
 **(B)** The Board may waive the requirements of subparagraph (A) of this paragraph if it determines in writing, in accordance with guidelines prescribed by the Director of the Office of Management and Budget, that a cost-benefit analysis is not required.
 
@@ -2566,7 +2566,7 @@ that any information provided by such applicants, recipients, holders, and indiv
 
 **(w) Applicability to Bureau of Consumer Financial Protection.—** Except as provided in the Consumer Financial Protection Act of 2010, this section shall apply with respect to the Bureau of Consumer Financial Protection.
 
-(Added Pub. L. 93–579, § 3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, § 2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, § 2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, § 201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, § 2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, § 2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, § 107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§ 2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, § 7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, § 13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, § 110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, § 1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, § 115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, § 1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, § 1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, § 402(a)(2), Dec. 17, 1999, 113 Stat. 1908; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–148, title VI, § 6402(b)(2), Mar. 23, 2010, 124 Stat. 756; Pub. L. 111–203, title X, § 1082, July 21, 2010, 124 Stat. 2080; Pub. L. 113–295, div. B, title I, § 102(d), Dec. 19, 2014, 128 Stat. 4062; Pub. L. 118–104, § 2, Oct. 2, 2024, 138 Stat. 1586.)
+(Added Pub. L. 93–579, § 3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, § 2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, § 2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, § 201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, § 2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, § 2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, § 107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§ 2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, § 7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, § 13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, § 110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, § 1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, § 115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, § 1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, § 1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, § 402(a)(2), Dec. 17, 1999, 113 Stat. 1908; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–148, title VI, § 6402(b)(2), Mar. 23, 2010, 124 Stat. 756; Pub. L. 111–203, title X, § 1082, July 21, 2010, 124 Stat. 2080; Pub. L. 113–295, div. B, title I, § 102(d), Dec. 19, 2014, 128 Stat. 4062; Pub. L. 118–104, § 2, Oct. 2, 2024, 138 Stat. 1586.)
 
 **Editorial Notes**
 
@@ -2586,7 +2586,7 @@ Section 6 of the Privacy Act of 1974, referred to in subsec. (s)(1), is section 
 
 For classification of the Privacy Act of 1974, referred to in subsec. (s)(4), see Short Title note below.
 
-The Consumer Financial Protection Act of 2010, referred to in subsec. (w), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§ 5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsec. (w), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§ 5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
 **Codification**
 
@@ -2620,31 +2620,31 @@ Subsecs. (b)(12), (m)(2). Pub. L. 104–316 substituted “3711(e)” for “371
 
 1990—Subsec. (p). Pub. L. 101–508 amended subsec. (p) generally, restating former pars. (1) and (3) as par. (1), adding provisions relating to Data Integrity Boards, and restating former pars. (2) and (4) as (2) and (3), respectively.
 
-1988—Subsec. (a)(8) to (13). Pub. L. 100–503, § 5, added pars. (8) to (13).
+1988—Subsec. (a)(8) to (13). Pub. L. 100–503, § 5, added pars. (8) to (13).
 
-Subsec. (e)(12). Pub. L. 100–503, § 3(a), added par. (12).
+Subsec. (e)(12). Pub. L. 100–503, § 3(a), added par. (12).
 
-Subsec. (f). Pub. L. 100–503, § 7, substituted “biennially” for “annually” in last sentence.
+Subsec. (f). Pub. L. 100–503, § 7, substituted “biennially” for “annually” in last sentence.
 
-Subsecs. (*o*) to (q). Pub. L. 100–503, § 2(2), added subsecs. (*o*) to (q). Former subsecs. (*o*) to (q) redesignated (r) to (t), respectively.
+Subsecs. (*o*) to (q). Pub. L. 100–503, § 2(2), added subsecs. (*o*) to (q). Former subsecs. (*o*) to (q) redesignated (r) to (t), respectively.
 
-Subsec. (r). Pub. L. 100–503, § 3(b), inserted “and matching programs” in heading and amended text generally. Prior to amendment, text read as follows: “Each agency shall provide adequate advance notice to Congress and the Office of Management and Budget of any proposal to establish or alter any system of records in order to permit an evaluation of the probable or potential effect of such proposal on the privacy and other personal or property rights of individuals or the disclosure of information relating to such individuals, and its effect on the preservation of the constitutional principles of federalism and separation of powers.”
+Subsec. (r). Pub. L. 100–503, § 3(b), inserted “and matching programs” in heading and amended text generally. Prior to amendment, text read as follows: “Each agency shall provide adequate advance notice to Congress and the Office of Management and Budget of any proposal to establish or alter any system of records in order to permit an evaluation of the probable or potential effect of such proposal on the privacy and other personal or property rights of individuals or the disclosure of information relating to such individuals, and its effect on the preservation of the constitutional principles of federalism and separation of powers.”
 
-Pub. L. 100–503, § 2(1), redesignated former subsec. (*o*) as (r).
+Pub. L. 100–503, § 2(1), redesignated former subsec. (*o*) as (r).
 
-Subsec. (s). Pub. L. 100–503, § 8, substituted “Biennial” for “Annual” in heading, “biennially submit” for “annually submit” in introductory provisions, “preceding 2 years” for “preceding year” in par. (1), and “such years” for “such year” in par. (2).
+Subsec. (s). Pub. L. 100–503, § 8, substituted “Biennial” for “Annual” in heading, “biennially submit” for “annually submit” in introductory provisions, “preceding 2 years” for “preceding year” in par. (1), and “such years” for “such year” in par. (2).
 
-Pub. L. 100–503, § 2(1), redesignated former subsec. (p) as (s).
+Pub. L. 100–503, § 2(1), redesignated former subsec. (p) as (s).
 
-Subsec. (t). Pub. L. 100–503, § 2(1), redesignated former subsec. (q) as (t).
+Subsec. (t). Pub. L. 100–503, § 2(1), redesignated former subsec. (q) as (t).
 
-Subsec. (u). Pub. L. 100–503, § 4, added subsec. (u).
+Subsec. (u). Pub. L. 100–503, § 4, added subsec. (u).
 
-Subsec. (v). Pub. L. 100–503, § 6(a), added subsec. (v).
+Subsec. (v). Pub. L. 100–503, § 6(a), added subsec. (v).
 
-1984—Subsec. (b)(6). Pub. L. 98–497, § 107(g)(1), substituted “National Archives and Records Administration” for “National Archives of the United States”, and “Archivist of the United States or the designee of the Archivist” for “Administrator of General Services or his designee”.
+1984—Subsec. (b)(6). Pub. L. 98–497, § 107(g)(1), substituted “National Archives and Records Administration” for “National Archives of the United States”, and “Archivist of the United States or the designee of the Archivist” for “Administrator of General Services or his designee”.
 
-Subsec. (*l*)(1). Pub. L. 98–497, § 107(g)(2), substituted “Archivist of the United States” for “Administrator of General Services” in two places.
+Subsec. (*l*)(1). Pub. L. 98–497, § 107(g)(2), substituted “Archivist of the United States” for “Administrator of General Services” in two places.
 
 Subsec. (q). Pub. L. 98–477 designated existing provisions as par. (1) and added par. (2).
 
@@ -2652,13 +2652,13 @@ Subsec. (q). Pub. L. 98–477 designated existing provisions as par. (1) and add
 
 Subsec. (m)(2). Pub. L. 97–452 substituted “section 3711(f) of title 31” for “section 3(d) of the Federal Claims Collection Act of 1966 (31 U.S.C. 952(d))”.
 
-1982—Subsec. (b)(12). Pub. L. 97–365, § 2(a), added par. (12).
+1982—Subsec. (b)(12). Pub. L. 97–365, § 2(a), added par. (12).
 
-Subsec. (e)(4). Pub. L. 97–375, § 201(a), substituted “upon establishment or revision” for “at least annually” after “Federal Register”.
+Subsec. (e)(4). Pub. L. 97–375, § 201(a), substituted “upon establishment or revision” for “at least annually” after “Federal Register”.
 
-Subsec. (m). Pub. L. 97–365, § 2(b), designated existing provisions as par. (1) and added par. (2).
+Subsec. (m). Pub. L. 97–365, § 2(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (p). Pub. L. 97–375, § 201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records, and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of this section during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
+Subsec. (p). Pub. L. 97–375, § 201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records, and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of this section during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
 
 1975—Subsec. (g)(5). Pub. L. 94–183 substituted “to September 27, 1975” for “to the effective date of this section”.
 
@@ -2672,13 +2672,13 @@ Committee on Government Operations of House of Representatives treated as referr
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–295, div. B, title I, § 102(f)(1), Dec. 19, 2014, 128 Stat. 4062, provided that: “The amendments made by this section [enacting section 529A of Title 26, Internal Revenue Code, and amending this section, section 5517 of Title 12, Banks and Banking, and sections 26, 877A, 4965, 4973, and 6693 of Title 26] shall apply to taxable years beginning after December 31, 2014.”
+Pub. L. 113–295, div. B, title I, § 102(f)(1), Dec. 19, 2014, 128 Stat. 4062, provided that: “The amendments made by this section [enacting section 529A of Title 26, Internal Revenue Code, and amending this section, section 5517 of Title 12, Banks and Banking, and sections 26, 877A, 4965, 4973, and 6693 of Title 26] shall apply to taxable years beginning after December 31, 2014.”
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–203, title X, § 1082, July 21, 2010, 124 Stat. 2080, provided that the amendment made by section 1082 is effective on July 21, 2010.
+Pub. L. 111–203, title X, § 1082, July 21, 2010, 124 Stat. 2080, provided that the amendment made by section 1082 is effective on July 21, 2010.
 
-Pub. L. 111–203, title X, § 1100H, July 21, 2010, 124 Stat. 2113, provided that: “Except as otherwise provided in this subtitle [subtitle H (§§ 1081–1100H) of title X of Pub. L. 111–203, see Tables for classification] and the amendments made by this subtitle, this subtitle and the amendments made by this subtitle, other than sections 1081 [amending section 8G of Pub. L. 95–452, formerly set out in the Appendix to this title, and enacting provisions set out as a note under section 8G of Pub. L. 95–452] and 1082 [amending this section and enacting provisions set out as a note under this section], shall become effective on the designated transfer date.”
+Pub. L. 111–203, title X, § 1100H, July 21, 2010, 124 Stat. 2113, provided that: “Except as otherwise provided in this subtitle [subtitle H (§§ 1081–1100H) of title X of Pub. L. 111–203, see Tables for classification] and the amendments made by this subtitle, this subtitle and the amendments made by this subtitle, other than sections 1081 [amending section 8G of Pub. L. 95–452, formerly set out in the Appendix to this title, and enacting provisions set out as a note under section 8G of Pub. L. 95–452] and 1082 [amending this section and enacting provisions set out as a note under this section], shall become effective on the designated transfer date.”
 
 [The term “designated transfer date” is defined in section 5481(9) of Title 12, Banks and Banking, as the date established under section 5582 of Title 12, which is July 21, 2011.]
 
@@ -2700,7 +2700,7 @@ Amendment by Pub. L. 103–66 effective Jan. 1, 1994, see section 13581(d) of Pu
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–503, § 10, Oct. 18, 1988, 102 Stat. 2514, as amended by Pub. L. 101–56, § 2, July 19, 1989, 103 Stat. 149, provided that:
+Pub. L. 100–503, § 10, Oct. 18, 1988, 102 Stat. 2514, as amended by Pub. L. 101–56, § 2, July 19, 1989, 103 Stat. 149, provided that:
 
 > **“(a) In General.—** Except as provided in subsections (b) and (c), the amendments made by this Act [amending this section and repealing provisions set out as a note below] shall take effect 9 months after the date of enactment of this Act [Oct. 18, 1988].
 
@@ -2722,23 +2722,23 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 **Effective Date**
 
-Pub. L. 93–579, § 8, Dec. 31, 1974, 88 Stat. 1910, provided that: “The provisions of this Act [enacting this section and provisions set out as notes under this section] shall be effective on and after the date of enactment [Dec. 31, 1974], except that the amendments made by sections 3 and 4 [enacting this section and amending analysis preceding section 500 of this title] shall become effective 270 days following the day on which this Act is enacted.”
+Pub. L. 93–579, § 8, Dec. 31, 1974, 88 Stat. 1910, provided that: “The provisions of this Act [enacting this section and provisions set out as notes under this section] shall be effective on and after the date of enactment [Dec. 31, 1974], except that the amendments made by sections 3 and 4 [enacting this section and amending analysis preceding section 500 of this title] shall become effective 270 days following the day on which this Act is enacted.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–508, title VII, § 7201(a), Nov. 5, 1990, 104 Stat. 1388–334, provided that: “This section [amending this section and enacting provisions set out as notes below] may be cited as the ‘Computer Matching and Privacy Protection Amendments of 1990’.”
+Pub. L. 101–508, title VII, § 7201(a), Nov. 5, 1990, 104 Stat. 1388–334, provided that: “This section [amending this section and enacting provisions set out as notes below] may be cited as the ‘Computer Matching and Privacy Protection Amendments of 1990’.”
 
 **Short Title of 1989 Amendment**
 
-Pub. L. 101–56, § 1, July 19, 1989, 103 Stat. 149, provided that: “This Act [amending section 10 of Pub. L. 100–503, set out as a note above] may be cited as the ‘Computer Matching and Privacy Protection Act Amendments of 1989’.”
+Pub. L. 101–56, § 1, July 19, 1989, 103 Stat. 149, provided that: “This Act [amending section 10 of Pub. L. 100–503, set out as a note above] may be cited as the ‘Computer Matching and Privacy Protection Act Amendments of 1989’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–503, § 1, Oct. 18, 1988, 102 Stat. 2507, provided that: “This Act [amending this section, enacting provisions set out as notes above and below, and repealing provisions set out as a note below] may be cited as the ‘Computer Matching and Privacy Protection Act of 1988’.”
+Pub. L. 100–503, § 1, Oct. 18, 1988, 102 Stat. 2507, provided that: “This Act [amending this section, enacting provisions set out as notes above and below, and repealing provisions set out as a note below] may be cited as the ‘Computer Matching and Privacy Protection Act of 1988’.”
 
 **Short Title of 1974 Amendment**
 
-Pub. L. 93–579, § 1, Dec. 31, 1974, 88 Stat. 1896, provided: “That this Act [enacting this section and provisions set out as notes under this section] may be cited as the ‘Privacy Act of 1974’.”
+Pub. L. 93–579, § 1, Dec. 31, 1974, 88 Stat. 1896, provided: “That this Act [enacting this section and provisions set out as notes under this section] may be cited as the ‘Privacy Act of 1974’.”
 
 **Short Title**
 
@@ -2754,7 +2754,7 @@ Functions of Director of Office of Management and Budget under this section dele
 
 **OMB Guidance on Electronic Consent and Access Forms**
 
-Pub. L. 116–50, § 3, Aug. 22, 2019, 133 Stat. 1073, provided that:
+Pub. L. 116–50, § 3, Aug. 22, 2019, 133 Stat. 1073, provided that:
 
 > **“(a) Guidance.—** Not later than 1 year after the date of the enactment of this Act [Aug. 22, 2019], the Director shall issue guidance that does the following:
 
@@ -2856,11 +2856,11 @@ Pub. L. 114–126, Feb. 24, 2016, 130 Stat. 282, provided that:
 
 **Publication of Guidance Under Subsection (p)(1)(A)(ii)**
 
-Pub. L. 101–508, title VII, § 7201(b)(2), Nov. 5, 1990, 104 Stat. 1388–334, provided that: “Not later than 90 days after the date of the enactment of this Act [Nov. 5, 1990], the Director of the Office of Management and Budget shall publish guidance under subsection (p)(1)(A)(ii) of section 552a of title 5, United States Code, as amended by this Act.”
+Pub. L. 101–508, title VII, § 7201(b)(2), Nov. 5, 1990, 104 Stat. 1388–334, provided that: “Not later than 90 days after the date of the enactment of this Act [Nov. 5, 1990], the Director of the Office of Management and Budget shall publish guidance under subsection (p)(1)(A)(ii) of section 552a of title 5, United States Code, as amended by this Act.”
 
 **Limitation on Application of Verification Requirement**
 
-Pub. L. 101–508, title VII, § 7201(c), Nov. 5, 1990, 104 Stat. 1388–335, provided that:
+Pub. L. 101–508, title VII, § 7201(c), Nov. 5, 1990, 104 Stat. 1388–335, provided that:
 
 > “Section 552a(p)(1)(A)(ii)(II) of title 5, United States Code, as amended by section 2 [probably means section 7201(b)(1) of Pub. L. 101–508], shall not apply to a program referred to in paragraph (1), (2), or (4) of section 1137(b) of the Social Security Act (42 U.S.C. 1320b–7), until the earlier of—
 
@@ -2870,7 +2870,7 @@ Pub. L. 101–508, title VII, § 7201(c), Nov. 5, 1990, 104 Stat. 1388–335, 
 
 **Effective Date Delayed for Certain Education Benefits Computer Matching Programs**
 
-Pub. L. 101–366, title II, § 206(d), Aug. 15, 1990, 104 Stat. 442, provided that:
+Pub. L. 101–366, title II, § 206(d), Aug. 15, 1990, 104 Stat. 442, provided that:
 
 > **“(1)** In the case of computer matching programs between the Department of Veterans Affairs and the Department of Defense in the administration of education benefits programs under chapters 30 and 32 of title 38 and chapter 106 of title 10, United States Code, the amendments made to section 552a of title 5, United States Code, by the Computer Matching and Privacy Protection Act of 1988 [Pub. L. 100–503] (other than the amendments made by section 10(b) of that Act) [see Effective Date of 1988 Amendment note above] shall take effect on October 1, 1990.
 
@@ -2878,11 +2878,11 @@ Pub. L. 101–366, title II, § 206(d), Aug. 15, 1990, 104 Stat. 442, provided
 
 **Implementation Guidance for 1988 Amendments**
 
-Pub. L. 100–503, § 6(b), Oct. 18, 1988, 102 Stat. 2513, required the Director, pursuant to section 552a(v) of this title, to develop guidelines and regulations for the use of agencies in implementing amendments made by Pub. L. 100–503 not later than 8 months after Oct. 18, 1988.
+Pub. L. 100–503, § 6(b), Oct. 18, 1988, 102 Stat. 2513, required the Director, pursuant to section 552a(v) of this title, to develop guidelines and regulations for the use of agencies in implementing amendments made by Pub. L. 100–503 not later than 8 months after Oct. 18, 1988.
 
 **Construction of 1988 Amendments**
 
-Pub. L. 100–503, § 9, Oct. 18, 1988, 102 Stat. 2514, provided that:
+Pub. L. 100–503, § 9, Oct. 18, 1988, 102 Stat. 2514, provided that:
 
 > “Nothing in the amendments made by this Act [amending this section and repealing provisions set out as a note below] shall be construed to authorize—
 
@@ -2896,7 +2896,7 @@ Pub. L. 100–503, § 9, Oct. 18, 1988, 102 Stat. 2514, provided that:
 
 **Congressional Findings and Statement of Purpose**
 
-Pub. L. 93–579, § 2, Dec. 31, 1974, 88 Stat. 1896, provided that:
+Pub. L. 93–579, § 2, Dec. 31, 1974, 88 Stat. 1896, provided that:
 
 > **“(a)** The Congress finds that—
 
@@ -2926,15 +2926,15 @@ Pub. L. 93–579, § 2, Dec. 31, 1974, 88 Stat. 1896, provided that:
 
 **Privacy Protection Study Commission**
 
-Pub. L. 93–579, § 5, Dec. 31, 1974, 88 Stat. 1905, as amended by Pub. L. 95–38, June 1, 1977, 91 Stat. 179, which established the Privacy Protection Study Commission and provided that the Commission study data banks, automated data processing programs and information systems of governmental, regional and private organizations to determine standards and procedures in force for protection of personal information, that the Commission report to the President and Congress the extent to which requirements and principles of section 552a of title 5 should be applied to the information practices of those organizations, and that it make other legislative recommendations to protect the privacy of individuals while meeting the legitimate informational needs of government and society, ceased to exist on September 30, 1977, pursuant to section 5(g) of Pub. L. 93–579.
+Pub. L. 93–579, § 5, Dec. 31, 1974, 88 Stat. 1905, as amended by Pub. L. 95–38, June 1, 1977, 91 Stat. 179, which established the Privacy Protection Study Commission and provided that the Commission study data banks, automated data processing programs and information systems of governmental, regional and private organizations to determine standards and procedures in force for protection of personal information, that the Commission report to the President and Congress the extent to which requirements and principles of section 552a of title 5 should be applied to the information practices of those organizations, and that it make other legislative recommendations to protect the privacy of individuals while meeting the legitimate informational needs of government and society, ceased to exist on September 30, 1977, pursuant to section 5(g) of Pub. L. 93–579.
 
 **Guidelines and Regulations for Maintenance of Privacy and Protection of Records of Individuals**
 
-Pub. L. 93–579, § 6, Dec. 31, 1974, 88 Stat. 1909, which provided that the Office of Management and Budget shall develop guidelines and regulations for use of agencies in implementing provisions of this section and provide continuing assistance to and oversight of the implementation of the provisions of such section by agencies, was repealed by Pub. L. 100–503, § 6(c), Oct. 18, 1988, 102 Stat. 2513.
+Pub. L. 93–579, § 6, Dec. 31, 1974, 88 Stat. 1909, which provided that the Office of Management and Budget shall develop guidelines and regulations for use of agencies in implementing provisions of this section and provide continuing assistance to and oversight of the implementation of the provisions of such section by agencies, was repealed by Pub. L. 100–503, § 6(c), Oct. 18, 1988, 102 Stat. 2513.
 
 **Disclosure of Social Security Number**
 
-Pub. L. 93–579, § 7, Dec. 31, 1974, 88 Stat. 1909, provided that:
+Pub. L. 93–579, § 7, Dec. 31, 1974, 88 Stat. 1909, provided that:
 
 > **“(a)**
 
@@ -2950,13 +2950,13 @@ Pub. L. 93–579, § 7, Dec. 31, 1974, 88 Stat. 1909, provided that:
 
 **Authorization of Appropriations to Privacy Protection Study Commission**
 
-Pub. L. 93–579, § 9, Dec. 31, 1974, 88 Stat. 1910, as amended by Pub. L. 94–394, Sept. 3, 1976, 90 Stat. 1198, authorized appropriations for the period beginning July 1, 1975, and ending on September 30, 1977.
+Pub. L. 93–579, § 9, Dec. 31, 1974, 88 Stat. 1910, as amended by Pub. L. 94–394, Sept. 3, 1976, 90 Stat. 1198, authorized appropriations for the period beginning July 1, 1975, and ending on September 30, 1977.
 
 **Executive Documents**
 
 **Ex. Ord. No. 9397. Numbering System for Federal Accounts Relating to Individual Persons**
 
-Ex. Ord. No. 9397, Nov. 22, 1943, 8 F.R. 16095, as amended by Ex. Ord. No. 13478, § 2, Nov. 18, 2008, 73 F.R. 70239, provided:
+Ex. Ord. No. 9397, Nov. 22, 1943, 8 F.R. 16095, as amended by Ex. Ord. No. 13478, § 2, Nov. 18, 2008, 73 F.R. 70239, provided:
 
 WHEREAS certain Federal agencies from time to time require in the administration of their activities a system of numerical identification of accounts of individual persons; and
 
@@ -2986,15 +2986,15 @@ NOW, THEREFORE, by virtue of the authority vested in me as President of the Unit
 
 **Classified National Security Information**
 
-For provisions relating to a response to a request for information under this section when the fact of its existence or nonexistence is itself classified or when it was originally classified by another agency, see Ex. Ord. No. 13526, § 3.6, Dec. 29, 2009, 75 F.R. 718, set out as a note under section 3161 of Title 50, War and National Defense.
+For provisions relating to a response to a request for information under this section when the fact of its existence or nonexistence is itself classified or when it was originally classified by another agency, see Ex. Ord. No. 13526, § 3.6, Dec. 29, 2009, 75 F.R. 718, set out as a note under section 3161 of Title 50, War and National Defense.
 
-### § 552b. Open meetings
+### § 552b. Open meetings
 
 **(a)** For purposes of this section—
 
-**(1)** the term “agency” means any agency, as defined in section 552(e) 1
+**(1)** the term “agency” means any agency, as defined in section 552(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, headed by a collegial body composed of two or more individual members, a majority of whom are appointed to such position by the President with the advice and consent of the Senate, and any subdivision thereof authorized to act on behalf of the agency;
 
@@ -3082,7 +3082,7 @@ except that subparagraph (B) shall not apply in any instance where the agency ha
 
 **(m)** Nothing in this section authorizes any agency to withhold from any individual any record, including transcripts, recordings, or minutes required by this section, which is otherwise accessible to such individual under section 552a of this title.
 
-(Added Pub. L. 94–409, § 3(a), Sept. 13, 1976, 90 Stat. 1241; amended Pub. L. 104–66, title III, § 3002, Dec. 21, 1995, 109 Stat. 734.)
+(Added Pub. L. 94–409, § 3(a), Sept. 13, 1976, 90 Stat. 1241; amended Pub. L. 104–66, title III, § 3002, Dec. 21, 1995, 109 Stat. 734.)
 
 **Editorial Notes**
 
@@ -3100,7 +3100,7 @@ Section 552(e) of this title, referred to in subsec. (a)(1), was redesignated se
 
 **Effective Date**
 
-Pub. L. 94–409, § 6, Sept. 13, 1976, 90 Stat. 1248, provided that:
+Pub. L. 94–409, § 6, Sept. 13, 1976, 90 Stat. 1248, provided that:
 
 > **“(a)** Except as provided in subsection (b) of this section, the provisions of this Act [see Short Title note set out below] shall take effect 180 days after the date of its enactment [Sept. 13, 1976].
 
@@ -3108,7 +3108,7 @@ Pub. L. 94–409, § 6, Sept. 13, 1976, 90 Stat. 1248, provided that:
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–409, § 1, Sept. 13, 1976, 90 Stat. 1241, provided: “That this Act [enacting this section, amending sections 551, 552, 556, and 557 of this title, section 10 of Pub. L. 92–463, formerly set out in the Appendix to this title, and section 410 of Title 39, and enacting provisions set out as notes under this section] may be cited as the ‘Government in the Sunshine Act’.”
+Pub. L. 94–409, § 1, Sept. 13, 1976, 90 Stat. 1241, provided: “That this Act [enacting this section, amending sections 551, 552, 556, and 557 of this title, section 10 of Pub. L. 92–463, formerly set out in the Appendix to this title, and section 410 of Title 39, and enacting provisions set out as notes under this section] may be cited as the ‘Government in the Sunshine Act’.”
 
 **Termination of Reporting Requirements**
 
@@ -3120,9 +3120,9 @@ For termination of Administrative Conference of United States, see provision of 
 
 **Declaration of Policy and Statement of Purpose**
 
-Pub. L. 94–409, § 2, Sept. 13, 1976, 90 Stat. 1241, provided that: “It is hereby declared to be the policy of the United States that the public is entitled to the fullest practicable information regarding the decisionmaking processes of the Federal Government. It is the purpose of this Act [see Short Title note set out above] to provide the public with such information while protecting the rights of individuals and the ability of the Government to carry out its responsibilities.”
+Pub. L. 94–409, § 2, Sept. 13, 1976, 90 Stat. 1241, provided that: “It is hereby declared to be the policy of the United States that the public is entitled to the fullest practicable information regarding the decisionmaking processes of the Federal Government. It is the purpose of this Act [see Short Title note set out above] to provide the public with such information while protecting the rights of individuals and the ability of the Government to carry out its responsibilities.”
 
-### § 553. Rule making
+### § 553. Rule making
 
 **(a)** This section applies, according to the provisions thereof, except to the extent that there is involved—
 
@@ -3158,13 +3158,13 @@ Except when notice or hearing is required by statute, this subsection does not a
 
 **(e)** Each agency shall give an interested person the right to petition for the issuance, amendment, or repeal of a rule.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383; Pub. L. 118–9, § 2, July 25, 2023, 137 Stat. 55.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383; Pub. L. 118–9, § 2, July 25, 2023, 137 Stat. 55.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1003. | June 11, 1946, ch. 324, § 4, 60 Stat. 238. |
+|  | 5 U.S.C. 1003. | June 11, 1946, ch. 324, § 4, 60 Stat. 238. |
 
 In subsection (a)(1), the words “or naval” are omitted as included in “military”.
 
@@ -3194,15 +3194,15 @@ Section 553 of former Title 5, Executive Departments and Government Officers and
 
 Ex. Ord. No. 12044, Mar. 23, 1978, 43 F.R. 12661, as amended by Ex. Ord. No. 12221, June 27, 1980, 45 F.R. 44249, which related to the improvement of Federal regulations, was revoked by Ex. Ord. No. 12291, Feb. 17, 1981, 46 F.R. 13193, formerly set out as a note under section 601 of this title.
 
-### § 554. Adjudications
+### § 554. Adjudications
 
 **(a)** This section applies, according to the provisions thereof, in every case of adjudication required by statute to be determined on the record after opportunity for an agency hearing, except to the extent that there is involved—
 
 **(1)** a matter subject to a subsequent trial of the law and the facts de novo in a court;
 
-**(2)** the selection or tenure of an employee, except a 1
+**(2)** the selection or tenure of an employee, except a 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 administrative law judge appointed under section 3105 of this title;
 
@@ -3246,13 +3246,13 @@ An employee or agent engaged in the performance of investigative or prosecuting 
 
 **(e)** The agency, with like effect as in the case of other orders, and in its sound discretion, may issue a declaratory order to terminate a controversy or remove uncertainty.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 384; Pub. L. 95–251, § 2(a)(1), Mar. 27, 1978, 92 Stat. 183.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 384; Pub. L. 95–251, § 2(a)(1), Mar. 27, 1978, 92 Stat. 183.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1004. | June 11, 1946, ch. 324, § 5, 60 Stat. 239. |
+|  | 5 U.S.C. 1004. | June 11, 1946, ch. 324, § 5, 60 Stat. 239. |
 
 In subsection (a)(2), the word “employee” is substituted for “officer or employee of the United States” in view of the definition of “employee” in section 2105.
 
@@ -3280,7 +3280,7 @@ Section 554 of former Title 5, Executive Departments and Government Officers and
 
 1978—Subsec. (a)(2). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
 
-### § 555. Ancillary matters
+### § 555. Ancillary matters
 
 **(a)** This section applies, according to the provisions thereof, except as otherwise provided by this subchapter.
 
@@ -3298,7 +3298,7 @@ Section 554 of former Title 5, Executive Departments and Government Officers and
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1005. | June 11, 1946, ch. 324, § 6, 60 Stat. 240. |
+|  | 5 U.S.C. 1005. | June 11, 1946, ch. 324, § 6, 60 Stat. 240. |
 
 In subsection (b), the words “is entitled” are substituted for “shall be accorded the right”. The word “officers” is omitted as included in “employees” in view of the definition of “employee” in section 2105. The words “With due regard for the convenience and necessity of the parties or their representatives and within a reasonable time” are substituted for “with reasonable dispatch” and “except that due regard shall be had for the convenience and necessity of the parties or their representatives”. The prohibition in the last sentence is restated in positive form and the words “This subsection does not” are substituted for “Nothing herein shall be construed either to”.
 
@@ -3314,7 +3314,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Section 555 of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2247 of Title 7, Agriculture.
 
-### § 556. Hearings; presiding employees; powers and duties; burden of proof; evidence; record as basis of decision
+### § 556. Hearings; presiding employees; powers and duties; burden of proof; evidence; record as basis of decision
 
 **(a)** This section applies, according to the provisions thereof, to hearings required by section 553 or 554 of this title to be conducted in accordance with this section.
 
@@ -3356,13 +3356,13 @@ This subchapter does not supersede the conduct of specified classes of proceedin
 
 **(e)** The transcript of testimony and exhibits, together with all papers and requests filed in the proceeding, constitutes the exclusive record for decision in accordance with section 557 of this title and, on payment of lawfully prescribed costs, shall be made available to the parties. When an agency decision rests on official notice of a material fact not appearing in the evidence in the record, a party is entitled, on timely request, to an opportunity to show the contrary.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 386; Pub. L. 94–409, § 4(c), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–251, § 2(a)(1), Mar. 27, 1978, 92 Stat. 183; Pub. L. 101–552, § 4(a), Nov. 15, 1990, 104 Stat. 2737.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 386; Pub. L. 94–409, § 4(c), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–251, § 2(a)(1), Mar. 27, 1978, 92 Stat. 183; Pub. L. 101–552, § 4(a), Nov. 15, 1990, 104 Stat. 2737.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1006. | June 11, 1946, ch. 324, § 7, 60 Stat. 241. |
+|  | 5 U.S.C. 1006. | June 11, 1946, ch. 324, § 7, 60 Stat. 241. |
 
 In subsection (b), the words “hearing examiners” are substituted for “examiners” in paragraph (3) for clarity. The prohibition in the second sentence is restated in positive form and the words “This subchapter does not” are substituted for “but nothing in this chapter shall be deemed to”. The words “employee” and “employees” are substituted for “officer” and “officers” in view of the definition of “employee” in section 2105. The sentence “A presiding or participating employee may at any time disqualify himself.” is substituted for the words “Any such officer may at any time withdraw if he deems himself disqualified.”
 
@@ -3372,9 +3372,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-1990—Subsec. (c)(6). Pub. L. 101–552, § 4(a)(1), inserted before semicolon at end “or by the use of alternative means of dispute resolution as provided in subchapter IV of this chapter”.
+1990—Subsec. (c)(6). Pub. L. 101–552, § 4(a)(1), inserted before semicolon at end “or by the use of alternative means of dispute resolution as provided in subchapter IV of this chapter”.
 
-Subsec. (c)(7) to (11). Pub. L. 101–552, § 4(a)(2), added pars. (7) and (8) and redesignated former pars. (7) to (9) as (9) to (11), respectively.
+Subsec. (c)(7) to (11). Pub. L. 101–552, § 4(a)(2), added pars. (7) and (8) and redesignated former pars. (7) to (9) as (9) to (11), respectively.
 
 1978—Subsec. (b)(3). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
 
@@ -3390,29 +3390,29 @@ Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see secti
 
 **Hearing Examiners Employed by Department of Agriculture**
 
-Functions vested by this subchapter in hearing examiners employed by Department of Agriculture not included in functions of officers, agencies, and employees of that Department transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to this title.
+Functions vested by this subchapter in hearing examiners employed by Department of Agriculture not included in functions of officers, agencies, and employees of that Department transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to this title.
 
 **Hearing Examiners Employed by Department of Commerce**
 
-Functions vested by this subchapter in hearing examiners employed by Department of Commerce not included in functions of officers, agencies, and employees of that Department transferred to Secretary of Commerce by 1950 Reorg. Plan No. 5, § 1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to this title.
+Functions vested by this subchapter in hearing examiners employed by Department of Commerce not included in functions of officers, agencies, and employees of that Department transferred to Secretary of Commerce by 1950 Reorg. Plan No. 5, § 1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to this title.
 
 **Hearing Examiners Employed by Department of the Interior**
 
-Functions vested by this subchapter in hearing examiners employed by Department of the Interior not included in functions of officers, agencies, and employees of that Department transferred to Secretary of the Interior by 1950 Reorg. Plan No. 3, § 1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to this title.
+Functions vested by this subchapter in hearing examiners employed by Department of the Interior not included in functions of officers, agencies, and employees of that Department transferred to Secretary of the Interior by 1950 Reorg. Plan No. 3, § 1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to this title.
 
 **Hearing Examiners Employed by Department of Justice**
 
-Functions vested by this subchapter in hearing examiners employed by Department of Justice not included in functions of officers, agencies, and employees of that Department transferred to Attorney General by 1950 Reorg. Plan No. 2, § 1, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to this title.
+Functions vested by this subchapter in hearing examiners employed by Department of Justice not included in functions of officers, agencies, and employees of that Department transferred to Attorney General by 1950 Reorg. Plan No. 2, § 1, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to this title.
 
 **Hearing Examiners Employed by Department of Labor**
 
-Functions vested by this subchapter in hearing examiners employed by Department of Labor not included in functions of officers, agencies, and employees of that Department transferred to Secretary of Labor by 1950 Reorg. Plan No. 6, § 1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to this title.
+Functions vested by this subchapter in hearing examiners employed by Department of Labor not included in functions of officers, agencies, and employees of that Department transferred to Secretary of Labor by 1950 Reorg. Plan No. 6, § 1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to this title.
 
 **Hearing Examiners Employed by Department of the Treasury**
 
-Functions vested by this subchapter in hearing examiners employed by Department of the Treasury not included in functions of officers, agencies, and employees of that Department transferred to Secretary of the Treasury by 1950 Reorg. Plan. No. 26, § 1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to this title.
+Functions vested by this subchapter in hearing examiners employed by Department of the Treasury not included in functions of officers, agencies, and employees of that Department transferred to Secretary of the Treasury by 1950 Reorg. Plan. No. 26, § 1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to this title.
 
-### § 557. Initial decisions; conclusiveness; review by agency; submissions by parties; contents of decisions; record
+### § 557. Initial decisions; conclusiveness; review by agency; submissions by parties; contents of decisions; record
 
 **(a)** This section applies, according to the provisions thereof, when a hearing is required to be conducted in accordance with section 556 of this title.
 
@@ -3464,7 +3464,7 @@ The record shall show the ruling on each finding, conclusion, or exception prese
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1007. | June 11, 1946, ch. 324, § 8, 60 Stat. 242. |
+|  | 5 U.S.C. 1007. | June 11, 1946, ch. 324, § 8, 60 Stat. 242. |
 
 In subsection (b), the word “employee” is substituted for “officer” and “officers” in view of the definition of “employee” in section 2105. The word “either” is added after the word “requires” in the first sentence to eliminate the need for parentheses. The words “the presiding employee or an employee qualified to preside at hearings under section 556 of this title” are substituted for “such officers” in the last sentence. The word “initial” is omitted before “decision”, the final word in the first sentence and the sixth word of the fourth sentence, to avoid confusion between the “initial decision” of the presiding employee and the “initial decision” of the agency.
 
@@ -3490,7 +3490,7 @@ Section 557a of former Title 5, Executive Departments and Government Officers an
 
 Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see section 6 of Pub. L. 94–409, set out as an Effective Date note under section 552b of this title.
 
-### § 558. Imposition of sanctions; determination of applications for licenses; suspension, revocation, and expiration of licenses
+### § 558. Imposition of sanctions; determination of applications for licenses; suspension, revocation, and expiration of licenses
 
 **(a)** This section applies, according to the provisions thereof, to the exercise of a power or authority.
 
@@ -3510,7 +3510,7 @@ When the licensee has made timely and sufficient application for a renewal or a 
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1008. | June 11, 1946, ch. 324, § 9, 60 Stat. 242. |
+|  | 5 U.S.C. 1008. | June 11, 1946, ch. 324, § 9, 60 Stat. 242. |
 
 In subsection (b), the prohibition is restated in positive form.
 
@@ -3524,17 +3524,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Section 558 of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2209 of Title 7, Agriculture.
 
-### § 559. Effect on other laws; effect of subsequent statute
+### § 559. Effect on other laws; effect of subsequent statute
 
 This subchapter, chapter 7, and sections 1305, 3105, 3344, 4301(2)(E), 5372, and 7521 of this title, and the provisions of section 5335(a)(B) of this title that relate to administrative law judges, do not limit or repeal additional requirements imposed by statute or otherwise recognized by law. Except as otherwise required by law, requirements or privileges relating to evidence or procedure apply equally to agencies and persons. Each agency is granted the authority necessary to comply with the requirements of this subchapter through the issuance of rules or otherwise. Subsequent statute may not be held to supersede or modify this subchapter, chapter 7, sections 1305, 3105, 3344, 4301(2)(E), 5372, or 7521 of this title, or the provisions of section 5335(a)(B) of this title that relate to administrative law judges, except to the extent that it does so expressly.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 388; Pub. L. 90–623, § 1(1), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 95–251, § 2(a)(1), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title VIII, § 801(a)(3)(B)(iii), Oct. 13, 1978, 92 Stat. 1221.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 388; Pub. L. 90–623, § 1(1), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 95–251, § 2(a)(1), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title VIII, § 801(a)(3)(B)(iii), Oct. 13, 1978, 92 Stat. 1221.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1011. | June 11, 1946, ch. 324, § 12, 60 Stat. 244. |
+|  | 5 U.S.C. 1011. | June 11, 1946, ch. 324, § 12, 60 Stat. 244. |
 
 In the first and last sentences, the words “This subchapter, chapter 7, and sections 1305, 3105, 3344, 4301(2)(E), 5362, and 7521, and the provisions of section 5335(a)(B) of this title that relate to hearing examiners” are substituted for “this Act” to reflect the codification of the Act in this title. The words “to diminish the constitutional rights of any person or” are omitted as surplusage as there is nothing in the Act that can reasonably be construed to diminish those rights and because a statute may not operate in derogation of the Constitution.
 
@@ -3568,17 +3568,17 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 **Prior Provisions**
 
-A prior subchapter III (§ 571 et seq.) was redesignated subchapter V (§ 591 et seq.) of this chapter.
+A prior subchapter III (§ 571 et seq.) was redesignated subchapter V (§ 591 et seq.) of this chapter.
 
 **Amendments**
 
-1992—Pub. L. 102–354, § 3(a)(1), Aug. 26, 1992, 106 Stat. 944, redesignated subchapter IV of this chapter relating to negotiated rulemaking procedure as this subchapter.
+1992—Pub. L. 102–354, § 3(a)(1), Aug. 26, 1992, 106 Stat. 944, redesignated subchapter IV of this chapter relating to negotiated rulemaking procedure as this subchapter.
 
-### § 561. Purpose
+### § 561. Purpose
 
 The purpose of this subchapter is to establish a framework for the conduct of negotiated rulemaking, consistent with section 553 of this title, to encourage agencies to use the process when it enhances the informal rulemaking process. Nothing in this subchapter should be construed as an attempt to limit innovation and experimentation with the negotiated rulemaking process or with other innovative rulemaking procedures otherwise authorized by law.
 
-(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4970, § 581; renumbered § 561, Pub. L. 102–354, § 3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
+(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4970, § 581; renumbered § 561, Pub. L. 102–354, § 3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
 
 **Editorial Notes**
 
@@ -3590,19 +3590,19 @@ The purpose of this subchapter is to establish a framework for the conduct of ne
 
 **Effective Date of Repeal; Savings Provision**
 
-Pub. L. 101–648, § 5, Nov. 29, 1990, 104 Stat. 4976, as amended by Pub. L. 102–354, § 5(a)(2), Aug. 26, 1992, 106 Stat. 945, which provided that subchapter III of chapter 5 of title 5 and the table of sections corresponding to such subchapter, were repealed, effective 6 years after Nov. 29, 1990, except for then pending proceedings, was repealed by Pub. L. 104–320, § 11(a), Oct. 19, 1996, 110 Stat. 3873.
+Pub. L. 101–648, § 5, Nov. 29, 1990, 104 Stat. 4976, as amended by Pub. L. 102–354, § 5(a)(2), Aug. 26, 1992, 106 Stat. 945, which provided that subchapter III of chapter 5 of title 5 and the table of sections corresponding to such subchapter, were repealed, effective 6 years after Nov. 29, 1990, except for then pending proceedings, was repealed by Pub. L. 104–320, § 11(a), Oct. 19, 1996, 110 Stat. 3873.
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–354, § 1, Aug. 26, 1992, 106 Stat. 944, provided that: “This Act [amending sections 565, 568, 569, 571, 577, 580, 581, and 593 of this title, section 10 of Title 9, Arbitration, and section 173 of Title 29, Labor, renumbering sections 571 to 576, 581 to 590, and 581 to 593 as 591 to 596, 561 to 570, and 571 to 583, respectively, of this title, and amending provisions set out as notes under this section and section 571 of this title] may be cited as the ‘Administrative Procedure Technical Amendments Act of 1991’.”
+Pub. L. 102–354, § 1, Aug. 26, 1992, 106 Stat. 944, provided that: “This Act [amending sections 565, 568, 569, 571, 577, 580, 581, and 593 of this title, section 10 of Title 9, Arbitration, and section 173 of Title 29, Labor, renumbering sections 571 to 576, 581 to 590, and 581 to 593 as 591 to 596, 561 to 570, and 571 to 583, respectively, of this title, and amending provisions set out as notes under this section and section 571 of this title] may be cited as the ‘Administrative Procedure Technical Amendments Act of 1991’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–648, § 1, Nov. 29, 1990, 104 Stat. 4969, provided that: “This Act [enacting this subchapter] may be cited as the ‘Negotiated Rulemaking Act of 1990’.”
+Pub. L. 101–648, § 1, Nov. 29, 1990, 104 Stat. 4969, provided that: “This Act [enacting this subchapter] may be cited as the ‘Negotiated Rulemaking Act of 1990’.”
 
 **Congressional Findings**
 
-Pub. L. 101–648, § 2, Nov. 29, 1990, 104 Stat. 4969, as amended by Pub. L. 117–286, § 4(a)(4), Dec. 27, 2022, 136 Stat. 4305, provided that:
+Pub. L. 101–648, § 2, Nov. 29, 1990, 104 Stat. 4969, as amended by Pub. L. 117–286, § 4(a)(4), Dec. 27, 2022, 136 Stat. 4305, provided that:
 
 > “The Congress makes the following findings:
 
@@ -3620,9 +3620,9 @@ Pub. L. 101–648, § 2, Nov. 29, 1990, 104 Stat. 4969, as amended by Pub. L. 
 
 **Authorization of Appropriations**
 
-Pub. L. 101–648, § 4, Nov. 29, 1990, 104 Stat. 4976, as amended by Pub. L. 102–354, § 5(a)(1), Aug. 26, 1992, 106 Stat. 945, authorized additional appropriations to Administrative Conference of the United States to carry out Pub. L. 101–648 in fiscal years 1991, 1992, and 1993.
+Pub. L. 101–648, § 4, Nov. 29, 1990, 104 Stat. 4976, as amended by Pub. L. 102–354, § 5(a)(1), Aug. 26, 1992, 106 Stat. 945, authorized additional appropriations to Administrative Conference of the United States to carry out Pub. L. 101–648 in fiscal years 1991, 1992, and 1993.
 
-### § 562. Definitions
+### § 562. Definitions
 
 For the purposes of this subchapter, the term—
 
@@ -3652,7 +3652,7 @@ For the purposes of this subchapter, the term—
 
 **(11)** “rulemaking” means “rule making” as that term is defined in section 551(5) of this title.
 
-(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4970, § 582; renumbered § 562, Pub. L. 102–354, § 3(a)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 117–286, § 4(a)(5), Dec. 27, 2022, 136 Stat. 4305.)
+(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4970, § 582; renumbered § 562, Pub. L. 102–354, § 3(a)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 117–286, § 4(a)(5), Dec. 27, 2022, 136 Stat. 4305.)
 
 **Editorial Notes**
 
@@ -3662,7 +3662,7 @@ For the purposes of this subchapter, the term—
 
 1992—Pub. L. 102–354 renumbered section 582 of this title as this section.
 
-### § 563. Determination of need for negotiated rulemaking committee
+### § 563. Determination of need for negotiated rulemaking committee
 
 **(a) Determination of Need by the Agency.—** An agency may establish a negotiated rulemaking committee to negotiate and develop a proposed rule, if the head of the agency determines that the use of the negotiated rulemaking procedure is in the public interest. In making such a determination, the head of the agency shall consider whether—
 
@@ -3694,7 +3694,7 @@ For the purposes of this subchapter, the term—
 
 **(2) Duties of conveners.—** The convener shall report findings and may make recommendations to the agency. Upon request of the agency, the convener shall ascertain the names of persons who are willing and qualified to represent interests that will be significantly affected by the proposed rule, including residents of rural areas. The report and any recommendations of the convener shall be made available to the public upon request.
 
-(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4970, § 583; renumbered § 563, Pub. L. 102–354, § 3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
+(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4970, § 583; renumbered § 563, Pub. L. 102–354, § 3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
 
 **Editorial Notes**
 
@@ -3706,7 +3706,7 @@ For the purposes of this subchapter, the term—
 
 **Negotiated Rulemaking Committees**
 
-Pub. L. 104–320, § 11(e), Oct. 19, 1996, 110 Stat. 3874, as amended by Pub. L. 117–286, § 4(a)(6), Dec. 27, 2022, 136 Stat. 4305, provided that:
+Pub. L. 104–320, § 11(e), Oct. 19, 1996, 110 Stat. 3874, as amended by Pub. L. 117–286, § 4(a)(6), Dec. 27, 2022, 136 Stat. 4305, provided that:
 
 > “The Director of the Office of Management and Budget shall—
 
@@ -3714,7 +3714,7 @@ Pub. L. 104–320, § 11(e), Oct. 19, 1996, 110 Stat. 3874, as amended by Pub.
 
 > **“(2)** within one year of the date of the enactment of this Act, submit recommendations to Congress for any necessary legislative changes.”
 
-### § 564. Publication of notice; applications for membership on committees
+### § 564. Publication of notice; applications for membership on committees
 
 **(a) Publication of Notice.—** If, after considering the report of a convener or conducting its own assessment, an agency decides to establish a negotiated rulemaking committee, the agency shall publish in the Federal Register and, as appropriate, in trade or other specialized publications, a notice which shall include—
 
@@ -3734,7 +3734,7 @@ Pub. L. 104–320, § 11(e), Oct. 19, 1996, 110 Stat. 3874, as amended by Pub.
 
 **(8)** an explanation of how a person may apply or nominate another person for membership on the committee, as provided under subsection (b).
 
-**(b) Applications for Membership or 1 [footnote: 1 So in original. Probably should be “on”.] Committee.—** Persons who will be significantly affected by a proposed rule and who believe that their interests will not be adequately represented by any person specified in a notice under subsection (a)(4) may apply for, or nominate another person for, membership on the negotiated rulemaking committee to represent such interests with respect to the proposed rule. Each application or nomination shall include—
+**(b) Applications for Membership or 1 [footnote: 1 So in original. Probably should be “on”.] Committee.—** Persons who will be significantly affected by a proposed rule and who believe that their interests will not be adequately represented by any person specified in a notice under subsection (a)(4) may apply for, or nominate another person for, membership on the negotiated rulemaking committee to represent such interests with respect to the proposed rule. Each application or nomination shall include—
 
 **(1)** the name of the applicant or nominee and a description of the interests such person shall represent;
 
@@ -3746,7 +3746,7 @@ Pub. L. 104–320, § 11(e), Oct. 19, 1996, 110 Stat. 3874, as amended by Pub.
 
 **(c) Period for Submission of Comments and Applications.—** The agency shall provide for a period of at least 30 calendar days for the submission of comments and applications under this section.
 
-(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4971, § 584; renumbered § 564, Pub. L. 102–354, § 3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
+(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4971, § 584; renumbered § 564, Pub. L. 102–354, § 3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
 
 **Editorial Notes**
 
@@ -3754,15 +3754,15 @@ Pub. L. 104–320, § 11(e), Oct. 19, 1996, 110 Stat. 3874, as amended by Pub.
 
 1992—Pub. L. 102–354 renumbered section 584 of this title as this section.
 
-### § 565. Establishment of committee
+### § 565. Establishment of committee
 
 **(a) Establishment.—**
 
 **(1) Determination to establish committee.—** If after considering comments and applications submitted under section 564, the agency determines that a negotiated rulemaking committee can adequately represent the interests that will be significantly affected by a proposed rule and that it is feasible and appropriate in the particular rulemaking, the agency may establish a negotiated rulemaking committee. In establishing and administering such a committee, the agency shall comply with chapter 10 of this title with respect to such committee, except as otherwise provided in this subchapter.
 
-**(2) Determination not to establish committee.—** If after considering such comments and applications, the agency decides not to establish a negotiated rulemaking committee, the agency shall promptly publish notice of such decision and the reasons therefor in the Federal Register and, as appropriate, in trade or other specialized publications, a copy of which shall be sent to any person who applied for, or nominated another person for membership on the negotiating 1
+**(2) Determination not to establish committee.—** If after considering such comments and applications, the agency decides not to establish a negotiated rulemaking committee, the agency shall promptly publish notice of such decision and the reasons therefor in the Federal Register and, as appropriate, in trade or other specialized publications, a copy of which shall be sent to any person who applied for, or nominated another person for membership on the negotiating 1
 
-<sup>1</sup>  So in original. Probably should be “negotiated”.
+<sup>1</sup> So in original. Probably should be “negotiated”.
 
 rulemaking committee to represent such interests with respect to the proposed rule.
 
@@ -3770,7 +3770,7 @@ rulemaking committee to represent such interests with respect to the proposed ru
 
 **(c) Administrative Support.—** The agency shall provide appropriate administrative support to the negotiated rulemaking committee, including technical assistance.
 
-(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4972, § 585; renumbered § 565 and amended Pub. L. 102–354, § 3(a)(2), (3), Aug. 26, 1992, 106 Stat. 944; Pub. L. 117–286, § 4(a)(7), Dec. 27, 2022, 136 Stat. 4305.)
+(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4972, § 585; renumbered § 565 and amended Pub. L. 102–354, § 3(a)(2), (3), Aug. 26, 1992, 106 Stat. 944; Pub. L. 117–286, § 4(a)(7), Dec. 27, 2022, 136 Stat. 4305.)
 
 **Editorial Notes**
 
@@ -3778,11 +3778,11 @@ rulemaking committee to represent such interests with respect to the proposed ru
 
 2022—Subsec. (a)(1). Pub. L. 117–286 substituted “chapter 10 of this title” for “the Federal Advisory Committee Act”.
 
-1992—Pub. L. 102–354, § 3(a)(2), renumbered section 585 of this title as this section.
+1992—Pub. L. 102–354, § 3(a)(2), renumbered section 585 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–354, § 3(a)(3), substituted “section 564” for “section 584”.
+Subsec. (a)(1). Pub. L. 102–354, § 3(a)(3), substituted “section 564” for “section 584”.
 
-### § 566. Conduct of committee activity
+### § 566. Conduct of committee activity
 
 **(a) Duties of Committee.—** Each negotiated rulemaking committee established under this subchapter shall consider the matter proposed by the agency for consideration and shall attempt to reach a consensus concerning a proposed rule with respect to such matter and any other matter the committee determines is relevant to the proposed rule.
 
@@ -3804,25 +3804,25 @@ Subsec. (a)(1). Pub. L. 102–354, § 3(a)(3), substituted “section 564” f
 
 **(g) Records of Committee.—** In addition to the report required by subsection (f), a committee shall submit to the agency the records required under section 1009(b) and (c) of this title.
 
-(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4973, § 586; renumbered § 566, Pub. L. 102–354, § 3(a)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 117–286, § 4(a)(8), Dec. 27, 2022, 136 Stat. 4305.)
+(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4973, § 586; renumbered § 566, Pub. L. 102–354, § 3(a)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 117–286, § 4(a)(8), Dec. 27, 2022, 136 Stat. 4305.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (c). Pub. L. 117–286, § 4(a)(8)(A), substituted “section 1009(e) of this title,” for “section 10(e) of the Federal Advisory Committee Act,”.
+2022—Subsec. (c). Pub. L. 117–286, § 4(a)(8)(A), substituted “section 1009(e) of this title,” for “section 10(e) of the Federal Advisory Committee Act,”.
 
-Subsec. (d)(3). Pub. L. 117–286, § 4(a)(8)(B), substituted “section 1009(b) and (c) of this title,” for “section 10(b) and (c) of the Federal Advisory Committee Act,”.
+Subsec. (d)(3). Pub. L. 117–286, § 4(a)(8)(B), substituted “section 1009(b) and (c) of this title,” for “section 10(b) and (c) of the Federal Advisory Committee Act,”.
 
-Subsec. (g). Pub. L. 117–286, § 4(a)(8)(C), substituted “section 1009(b) and (c) of this title.” for “section 10(b) and (c) of the Federal Advisory Committee Act.”
+Subsec. (g). Pub. L. 117–286, § 4(a)(8)(C), substituted “section 1009(b) and (c) of this title.” for “section 10(b) and (c) of the Federal Advisory Committee Act.”
 
 1992—Pub. L. 102–354 renumbered section 586 of this title as this section.
 
-### § 567. Termination of committee
+### § 567. Termination of committee
 
 A negotiated rulemaking committee shall terminate upon promulgation of the final rule under consideration, unless the committee’s charter contains an earlier termination date or the agency, after consulting the committee, or the committee itself specifies an earlier termination date.
 
-(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4974, § 587; renumbered § 567, Pub. L. 102–354, § 3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
+(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4974, § 587; renumbered § 567, Pub. L. 102–354, § 3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
 
 **Editorial Notes**
 
@@ -3830,7 +3830,7 @@ A negotiated rulemaking committee shall terminate upon promulgation of the final
 
 1992—Pub. L. 102–354 renumbered section 587 of this title as this section.
 
-### § 568. Services, facilities, and payment of committee member expenses
+### § 568. Services, facilities, and payment of committee member expenses
 
 **(a) Services of Conveners and Facilitators.—**
 
@@ -3848,7 +3848,7 @@ A negotiated rulemaking committee shall terminate upon promulgation of the final
 
 **(d) Status of Member as Federal Employee.—** A member’s receipt of funds under this section or section 569 shall not conclusively determine for purposes of sections 202 through 209 of title 18 whether that member is an employee of the United States Government.
 
-(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4974, § 588; renumbered § 568 and amended Pub. L. 102–354, § 3(a)(2), (4), Aug. 26, 1992, 106 Stat. 944; Pub. L. 117–286, § 4(a)(9), Dec. 27, 2022, 136 Stat. 4306.)
+(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4974, § 588; renumbered § 568 and amended Pub. L. 102–354, § 3(a)(2), (4), Aug. 26, 1992, 106 Stat. 944; Pub. L. 117–286, § 4(a)(9), Dec. 27, 2022, 136 Stat. 4306.)
 
 **Editorial Notes**
 
@@ -3856,17 +3856,17 @@ A negotiated rulemaking committee shall terminate upon promulgation of the final
 
 2022—Subsec. (c). Pub. L. 117–286 substituted “section 1006(d) of this title,” for “section 7(d) of the Federal Advisory Committee Act,” in introductory provisions.
 
-1992—Pub. L. 102–354, § 3(a)(2), renumbered section 588 of this title as this section.
+1992—Pub. L. 102–354, § 3(a)(2), renumbered section 588 of this title as this section.
 
-Subsec. (d). Pub. L. 102–354, § 3(a)(4), substituted “section 569” for “section 589”.
+Subsec. (d). Pub. L. 102–354, § 3(a)(4), substituted “section 569” for “section 589”.
 
-### § 569. Encouraging negotiated rulemaking
+### § 569. Encouraging negotiated rulemaking
 
 **(a)** The President shall designate an agency or designate or establish an interagency committee to facilitate and encourage agency use of negotiated rulemaking. An agency that is considering, planning, or conducting a negotiated rulemaking may consult with such agency or committee for information and assistance.
 
 **(b)** To carry out the purposes of this subchapter, an agency planning or conducting a negotiated rulemaking may accept, hold, administer, and utilize gifts, devises, and bequests of property, both real and personal if that agency’s acceptance and use of such gifts, devises, or bequests do not create a conflict of interest. Gifts and bequests of money and proceeds from sales of other property received as gifts, devises, or bequests shall be deposited in the Treasury and shall be disbursed upon the order of the head of such agency. Property accepted pursuant to this section, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gifts, devises, or bequests.
 
-(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4975, § 589; renumbered § 569 and amended Pub. L. 102–354, § 3(a)(2), (5), Aug. 26, 1992, 106 Stat. 944; Pub. L. 104–320, § 11(b)(1), Oct. 19, 1996, 110 Stat. 3873.)
+(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4975, § 589; renumbered § 569 and amended Pub. L. 102–354, § 3(a)(2), (5), Aug. 26, 1992, 106 Stat. 944; Pub. L. 104–320, § 11(b)(1), Oct. 19, 1996, 110 Stat. 3873.)
 
 **Editorial Notes**
 
@@ -3874,19 +3874,19 @@ Subsec. (d). Pub. L. 102–354, § 3(a)(4), substituted “section 569” for 
 
 1996—Pub. L. 104–320 in section catchline substituted “Encouraging negotiated rulemaking” for “Role of the Administrative Conference of the United States and other entities”, and in text added subsecs. (a) and (b) and struck out former subsecs. (a) to (g) which related to: in subsec. (a), consultation by agencies; in subsec. (b), roster of potential conveners and facilitators; in subsec. (c), procedures to obtain conveners and facilitators; in subsec. (d), compilation of data on negotiated rulemaking and report to Congress; in subsec. (e), training in negotiated rulemaking; in subsec. (f), payment of expenses of agencies; and in subsec. (g), use of funds of the conference.
 
-1992—Pub. L. 102–354, § 3(a)(2), renumbered section 589 of this title as this section.
+1992—Pub. L. 102–354, § 3(a)(2), renumbered section 589 of this title as this section.
 
-Subsec. (d)(2). Pub. L. 102–354, § 3(a)(5)(A), substituted “section 566” for “section 586”.
+Subsec. (d)(2). Pub. L. 102–354, § 3(a)(5)(A), substituted “section 566” for “section 586”.
 
-Subsec. (f)(2). Pub. L. 102–354, § 3(a)(5)(B), substituted “section 568(c)” for “section 588(c)”.
+Subsec. (f)(2). Pub. L. 102–354, § 3(a)(5)(B), substituted “section 568(c)” for “section 588(c)”.
 
-Subsec. (g). Pub. L. 102–354, § 3(a)(5)(C), substituted “section 595(c)(12)” for “section 575(c)(12)”.
+Subsec. (g). Pub. L. 102–354, § 3(a)(5)(C), substituted “section 595(c)(12)” for “section 575(c)(12)”.
 
-### § 570. Judicial review
+### § 570. Judicial review
 
 Any agency action relating to establishing, assisting, or terminating a negotiated rulemaking committee under this subchapter shall not be subject to judicial review. Nothing in this section shall bar judicial review of a rule if such judicial review is otherwise provided by law. A rule which is the product of negotiated rulemaking and is subject to judicial review shall not be accorded any greater deference by a court than a rule which is the product of other rulemaking procedures.
 
-(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4976, § 590; renumbered § 570, Pub. L. 102–354, § 3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
+(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4976, § 590; renumbered § 570, Pub. L. 102–354, § 3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
 
 **Editorial Notes**
 
@@ -3894,11 +3894,11 @@ Any agency action relating to establishing, assisting, or terminating a negotiat
 
 1992—Pub. L. 102–354 renumbered section 590 of this title as this section.
 
-### § 570a. Authorization of appropriations
+### § 570a. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this subchapter.
 
-(Added Pub. L. 104–320, § 11(d)(1), Oct. 19, 1996, 110 Stat. 3873.)
+(Added Pub. L. 104–320, § 11(d)(1), Oct. 19, 1996, 110 Stat. 3873.)
 
 ## SUBCHAPTER IV—ALTERNATIVE MEANS OF DISPUTE RESOLUTION IN THE ADMINISTRATIVE PROCESS
 
@@ -3906,13 +3906,13 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 **Codification**
 
-Another subchapter IV (§ 581 et seq.) relating to negotiated rulemaking procedure was redesignated subchapter III (§ 561 et seq.) of this chapter.
+Another subchapter IV (§ 581 et seq.) relating to negotiated rulemaking procedure was redesignated subchapter III (§ 561 et seq.) of this chapter.
 
 **Amendments**
 
-1992—Pub. L. 102–354, § 3(b)(1), Aug. 26, 1992, 106 Stat. 944, transferred this subchapter so as to appear immediately after subchapter III of this chapter.
+1992—Pub. L. 102–354, § 3(b)(1), Aug. 26, 1992, 106 Stat. 944, transferred this subchapter so as to appear immediately after subchapter III of this chapter.
 
-### § 571. Definitions
+### § 571. Definitions
 
 For the purposes of this subchapter, the term—
 
@@ -3952,7 +3952,7 @@ For the purposes of this subchapter, the term—
 
 **(12)** “roster” means a list of persons qualified to provide services as neutrals.
 
-(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2738, § 581; renumbered § 571 and amended Pub. L. 102–354, §§ 3(b)(2), 5(b)(1), (2), Aug. 26, 1992, 106 Stat. 944, 946; Pub. L. 104–320, § 2, Oct. 19, 1996, 110 Stat. 3870.)
+(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2738, § 581; renumbered § 571 and amended Pub. L. 102–354, §§ 3(b)(2), 5(b)(1), (2), Aug. 26, 1992, 106 Stat. 944, 946; Pub. L. 104–320, § 2, Oct. 19, 1996, 110 Stat. 3870.)
 
 **Editorial Notes**
 
@@ -3966,33 +3966,33 @@ A prior section 571 was renumbered section 591 of this title.
 
 **Amendments**
 
-1996—Par. (3). Pub. L. 104–320, § 2(1), struck out “, in lieu of an adjudication as defined in section 551(7) of this title,” after “any procedure that is used”, struck out “settlement negotiations,” after “but not limited to,” and substituted “arbitration, and use of ombuds” for “and arbitration”.
+1996—Par. (3). Pub. L. 104–320, § 2(1), struck out “, in lieu of an adjudication as defined in section 551(7) of this title,” after “any procedure that is used”, struck out “settlement negotiations,” after “but not limited to,” and substituted “arbitration, and use of ombuds” for “and arbitration”.
 
-Par. (8). Pub. L. 104–320, § 2(2), substituted “decision;” for “decision,” at end of subpar. (B), and struck out closing provisions which read as follows: “except that such term shall not include any matter specified under section 2302 or 7121(c) of this title;”.
+Par. (8). Pub. L. 104–320, § 2(2), substituted “decision;” for “decision,” at end of subpar. (B), and struck out closing provisions which read as follows: “except that such term shall not include any matter specified under section 2302 or 7121(c) of this title;”.
 
-1992—Pub. L. 102–354, § 3(b)(2), renumbered section 581 of this title as this section.
+1992—Pub. L. 102–354, § 3(b)(2), renumbered section 581 of this title as this section.
 
-Par. (3). Pub. L. 102–354, § 5(b)(1), inserted comma after “including”.
+Par. (3). Pub. L. 102–354, § 5(b)(1), inserted comma after “including”.
 
-Par. (8). Pub. L. 102–354, § 5(b)(2), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “ ‘issue in controversy’ means an issue which is material to a decision concerning an administrative program of an agency, and with which there is disagreement between the agency and persons who would be substantially affected by the decision but shall not extend to matters specified under the provisions of sections 2302 and 7121(c) of title 5;”.
+Par. (8). Pub. L. 102–354, § 5(b)(2), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “ ‘issue in controversy’ means an issue which is material to a decision concerning an administrative program of an agency, and with which there is disagreement between the agency and persons who would be substantially affected by the decision but shall not extend to matters specified under the provisions of sections 2302 and 7121(c) of title 5;”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Termination Date; Savings Provision**
 
-Pub. L. 101–552, § 11, Nov. 15, 1990, 104 Stat. 2747, as amended by Pub. L. 104–106, div. D, title XLIII, § 4321(i)(5), Feb. 10, 1996, 110 Stat. 676, which provided that the authority of agencies to use dispute resolution proceedings under this Act [see Short Title note below] was to terminate on Oct. 1, 1995, except with respect to pending proceedings, was repealed by Pub. L. 104–320, § 9, Oct. 19, 1996, 110 Stat. 3872.
+Pub. L. 101–552, § 11, Nov. 15, 1990, 104 Stat. 2747, as amended by Pub. L. 104–106, div. D, title XLIII, § 4321(i)(5), Feb. 10, 1996, 110 Stat. 676, which provided that the authority of agencies to use dispute resolution proceedings under this Act [see Short Title note below] was to terminate on Oct. 1, 1995, except with respect to pending proceedings, was repealed by Pub. L. 104–320, § 9, Oct. 19, 1996, 110 Stat. 3872.
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–320, § 1, Oct. 19, 1996, 110 Stat. 3870, provided that: “This Act [enacting sections 570a and 584 of this title, amending this section, sections 569, 573 to 575, 580, 581, and 583 of this title, section 2304 of Title 10, Armed Forces, section 1491 of Title 28, Crimes and Criminal Procedure, section 173 of Title 29, Labor, section 3556 of Title 31, Money and Finance, and sections 253 and 605 of Title 41, Public Contracts, repealing section 582 of this title, enacting provisions set out as notes under section 563 of this title, section 1491 of Title 28, and section 3556 of Title 31, amending provisions set out as notes under this section, and repealing provisions set out as notes under this section and section 561 of this title] may be cited as the ‘Administrative Dispute Resolution Act of 1996’.”
+Pub. L. 104–320, § 1, Oct. 19, 1996, 110 Stat. 3870, provided that: “This Act [enacting sections 570a and 584 of this title, amending this section, sections 569, 573 to 575, 580, 581, and 583 of this title, section 2304 of Title 10, Armed Forces, section 1491 of Title 28, Crimes and Criminal Procedure, section 173 of Title 29, Labor, section 3556 of Title 31, Money and Finance, and sections 253 and 605 of Title 41, Public Contracts, repealing section 582 of this title, enacting provisions set out as notes under section 563 of this title, section 1491 of Title 28, and section 3556 of Title 31, amending provisions set out as notes under this section, and repealing provisions set out as notes under this section and section 561 of this title] may be cited as the ‘Administrative Dispute Resolution Act of 1996’.”
 
 **Short Title**
 
-Pub. L. 101–552, § 1, Nov. 15, 1990, 104 Stat. 2736, provided that: “This Act [enacting this subchapter, amending section 556 of this title, section 10 of Title 9, Arbitration, section 2672 of Title 28, Judiciary and Judicial Procedure, section 173 of Title 29, Labor, section 3711 of Title 31, Money and Finance, and sections 605 and 607 of Title 41, Public Contracts, and enacting provisions set out as notes under this section] may be cited as the ‘Administrative Dispute Resolution Act’.”
+Pub. L. 101–552, § 1, Nov. 15, 1990, 104 Stat. 2736, provided that: “This Act [enacting this subchapter, amending section 556 of this title, section 10 of Title 9, Arbitration, section 2672 of Title 28, Judiciary and Judicial Procedure, section 173 of Title 29, Labor, section 3711 of Title 31, Money and Finance, and sections 605 and 607 of Title 41, Public Contracts, and enacting provisions set out as notes under this section] may be cited as the ‘Administrative Dispute Resolution Act’.”
 
 **Congressional Findings**
 
-Pub. L. 101–552, § 2, Nov. 15, 1990, 104 Stat. 2736, provided that:
+Pub. L. 101–552, § 2, Nov. 15, 1990, 104 Stat. 2736, provided that:
 
 > “The Congress finds that—
 
@@ -4014,7 +4014,7 @@ Pub. L. 101–552, § 2, Nov. 15, 1990, 104 Stat. 2736, provided that:
 
 **Promotion of Alternative Means of Dispute Resolution**
 
-Pub. L. 101–552, § 3, Nov. 15, 1990, 104 Stat. 2736, as amended by Pub. L. 104–320, § 4(a), Oct. 19, 1996, 110 Stat. 3871, provided that:
+Pub. L. 101–552, § 3, Nov. 15, 1990, 104 Stat. 2736, as amended by Pub. L. 104–320, § 4(a), Oct. 19, 1996, 110 Stat. 3871, provided that:
 
 > **“(a) Promulgation of Agency Policy.—** Each agency shall adopt a policy that addresses the use of alternative means of dispute resolution and case management. In developing such a policy, each agency shall—
 
@@ -4056,7 +4056,7 @@ Pub. L. 101–552, § 3, Nov. 15, 1990, 104 Stat. 2736, as amended by Pub. L. 
 
 **Use of Nonattorneys**
 
-Pub. L. 101–552, § 9, Nov. 15, 1990, 104 Stat. 2747, provided that:
+Pub. L. 101–552, § 9, Nov. 15, 1990, 104 Stat. 2747, provided that:
 
 > **“(a) Representation of Parties.—** Each agency, in developing a policy on the use of alternative means of dispute resolution under this Act [see Short Title note above], shall develop a policy with regard to the representation by persons other than attorneys of parties in alternative dispute resolution proceedings and shall identify any of its administrative programs with numerous claims or disputes before the agency and determine—
 
@@ -4080,9 +4080,9 @@ Pub. L. 101–552, § 9, Nov. 15, 1990, 104 Stat. 2747, provided that:
 
 **Definitions**
 
-Pub. L. 101–552, § 10, Nov. 15, 1990, 104 Stat. 2747, as amended by Pub. L. 102–354, § 5(b)(6), Aug. 26, 1992, 106 Stat. 946, provided that: “As used in this Act [see Short Title note above], the terms ‘agency’, ‘administrative program’, and ‘alternative means of dispute resolution’ have the meanings given such terms in section 571 of title 5, United States Code (enacted as section 581 of title 5, United States Code, by section 4(b) of this Act, and redesignated as section 571 of such title by section 3(b) of the Administrative Procedure Technical Amendments Act of 1991 [Pub. L. 102–354]).”
+Pub. L. 101–552, § 10, Nov. 15, 1990, 104 Stat. 2747, as amended by Pub. L. 102–354, § 5(b)(6), Aug. 26, 1992, 106 Stat. 946, provided that: “As used in this Act [see Short Title note above], the terms ‘agency’, ‘administrative program’, and ‘alternative means of dispute resolution’ have the meanings given such terms in section 571 of title 5, United States Code (enacted as section 581 of title 5, United States Code, by section 4(b) of this Act, and redesignated as section 571 of such title by section 3(b) of the Administrative Procedure Technical Amendments Act of 1991 [Pub. L. 102–354]).”
 
-### § 572. General authority
+### § 572. General authority
 
 **(a)** An agency may use a dispute resolution proceeding for the resolution of an issue in controversy that relates to an administrative program, if the parties agree to such proceeding.
 
@@ -4102,7 +4102,7 @@ Pub. L. 101–552, § 10, Nov. 15, 1990, 104 Stat. 2747, as amended by Pub. L.
 
 **(c)** Alternative means of dispute resolution authorized under this subchapter are voluntary procedures which supplement rather than limit other available agency dispute resolution techniques.
 
-(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2739, § 582; renumbered § 572, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944.)
+(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2739, § 582; renumbered § 572, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944.)
 
 **Editorial Notes**
 
@@ -4118,7 +4118,7 @@ A prior section 572 was renumbered section 592 of this title.
 
 1992—Pub. L. 102–354 renumbered section 582 of this title as this section.
 
-### § 573. Neutrals
+### § 573. Neutrals
 
 **(a)** A neutral may be a permanent or temporary officer or employee of the Federal Government or any other individual who is acceptable to the parties to a dispute resolution proceeding. A neutral shall have no official, financial, or personal conflict of interest with respect to the issues in controversy, unless such interest is fully disclosed in writing to all parties and all parties agree that the neutral may serve.
 
@@ -4134,7 +4134,7 @@ A prior section 572 was renumbered section 592 of this title.
 
 **(e)** Any agency may enter into a contract with any person for services as a neutral, or for training in connection with alternative means of dispute resolution. The parties in a dispute resolution proceeding shall agree on compensation for the neutral that is fair and reasonable to the Government.
 
-(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2739, § 583; renumbered § 573, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 104–320, § 7(b), Oct. 19, 1996, 110 Stat. 3872.)
+(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2739, § 583; renumbered § 573, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 104–320, § 7(b), Oct. 19, 1996, 110 Stat. 3872.)
 
 **Editorial Notes**
 
@@ -4148,13 +4148,13 @@ A prior section 573 was renumbered section 593 of this title.
 
 **Amendments**
 
-1996—Subsec. (c). Pub. L. 104–320, § 7(b)(1), added subsec. (c) and struck out former subsec. (c) which related to power of Administrative Conference of the United States to establish and utilize standards for neutrals and to enter into contracts for services of neutrals.
+1996—Subsec. (c). Pub. L. 104–320, § 7(b)(1), added subsec. (c) and struck out former subsec. (c) which related to power of Administrative Conference of the United States to establish and utilize standards for neutrals and to enter into contracts for services of neutrals.
 
-Subsec. (e). Pub. L. 104–320, § 7(b)(2), struck out “on a roster established under subsection (c)(2) or a roster maintained by other public or private organizations, or individual” after “contract with any person”.
+Subsec. (e). Pub. L. 104–320, § 7(b)(2), struck out “on a roster established under subsection (c)(2) or a roster maintained by other public or private organizations, or individual” after “contract with any person”.
 
 1992—Pub. L. 102–354 renumbered section 583 of this title as this section.
 
-### § 574. Confidentiality
+### § 574. Confidentiality
 
 **(a)** Except as provided in subsections (d) and (e), a neutral in a dispute resolution proceeding shall not voluntarily disclose or through discovery or compulsory process be required to disclose any dispute resolution communication or any communication provided in confidence to the neutral, unless—
 
@@ -4218,7 +4218,7 @@ of sufficient magnitude in the particular case to outweigh the integrity of disp
 
 **(j)** A dispute resolution communication which is between a neutral and a party and which may not be disclosed under this section shall also be exempt from disclosure under section 552(b)(3).
 
-(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2740, § 584; renumbered § 574, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 104–320, § 3, Oct. 19, 1996, 110 Stat. 3870.)
+(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2740, § 584; renumbered § 574, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 104–320, § 3, Oct. 19, 1996, 110 Stat. 3870.)
 
 **Editorial Notes**
 
@@ -4234,17 +4234,17 @@ A prior section 574 was renumbered section 594 of this title.
 
 **Amendments**
 
-1996—Subsecs. (a), (b). Pub. L. 104–320, § 3(a), in introductory provisions struck out “any information concerning” after “be required to disclose”.
+1996—Subsecs. (a), (b). Pub. L. 104–320, § 3(a), in introductory provisions struck out “any information concerning” after “be required to disclose”.
 
-Subsec. (b)(7). Pub. L. 104–320, § 3(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “the dispute resolution communication was provided to or was available to all parties to the dispute resolution proceeding”.
+Subsec. (b)(7). Pub. L. 104–320, § 3(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “the dispute resolution communication was provided to or was available to all parties to the dispute resolution proceeding”.
 
-Subsec. (d). Pub. L. 104–320, § 3(c), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 104–320, § 3(c), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (j). Pub. L. 104–320, § 3(d), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “This section shall not be considered a statute specifically exempting disclosure under section 552(b)(3) of this title.”
+Subsec. (j). Pub. L. 104–320, § 3(d), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “This section shall not be considered a statute specifically exempting disclosure under section 552(b)(3) of this title.”
 
 1992—Pub. L. 102–354 renumbered section 584 of this title as this section.
 
-### § 575. Authorization of arbitration
+### § 575. Authorization of arbitration
 
 **(a)**
 
@@ -4266,7 +4266,7 @@ Subsec. (j). Pub. L. 104–320, § 3(d), amended subsec. (j) generally. Prior 
 
 **(c)** Prior to using binding arbitration under this subchapter, the head of an agency, in consultation with the Attorney General and after taking into account the factors in section 572(b), shall issue guidance on the appropriate use of binding arbitration and when an officer or employee of the agency has authority to settle an issue in controversy through binding arbitration.
 
-(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2742, § 585; renumbered § 575, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 104–320, § 8(c), Oct. 19, 1996, 110 Stat. 3872.)
+(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2742, § 585; renumbered § 575, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 104–320, § 8(c), Oct. 19, 1996, 110 Stat. 3872.)
 
 **Editorial Notes**
 
@@ -4280,25 +4280,25 @@ A prior section 575 was renumbered section 595 of this title.
 
 **Amendments**
 
-1996—Subsec. (a)(2). Pub. L. 104–320, § 8(c)(1), (2), substituted “The” for “Any” and inserted at end “Each such arbitration agreement shall specify a maximum award that may be issued by the arbitrator and may specify other conditions limiting the range of possible outcomes.”
+1996—Subsec. (a)(2). Pub. L. 104–320, § 8(c)(1), (2), substituted “The” for “Any” and inserted at end “Each such arbitration agreement shall specify a maximum award that may be issued by the arbitrator and may specify other conditions limiting the range of possible outcomes.”
 
-Subsec. (b). Pub. L. 104–320, § 8(c)(3), in introductory provisions substituted “shall not offer to use arbitration for the resolution of issues in controversy unless” for “may offer to use arbitration for the resolution of issues in controversy, if”, and in par. (1) substituted “would otherwise have authority” for “has authority”.
+Subsec. (b). Pub. L. 104–320, § 8(c)(3), in introductory provisions substituted “shall not offer to use arbitration for the resolution of issues in controversy unless” for “may offer to use arbitration for the resolution of issues in controversy, if”, and in par. (1) substituted “would otherwise have authority” for “has authority”.
 
-Subsec. (c). Pub. L. 104–320, § 8(c)(4), added subsec. (c).
+Subsec. (c). Pub. L. 104–320, § 8(c)(4), added subsec. (c).
 
 1992—Pub. L. 102–354 renumbered section 585 of this title as this section.
 
-### § 576. Enforcement of arbitration agreements
+### § 576. Enforcement of arbitration agreements
 
 An agreement to arbitrate a matter to which this subchapter applies is enforceable pursuant to section 4 of title 9, and no action brought to enforce such an agreement shall be dismissed nor shall relief therein be denied on the grounds that it is against the United States or that the United States is an indispensable party.
 
-(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2742, § 586; renumbered § 576, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944.)
+(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2742, § 586; renumbered § 576, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section 576 of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2260 of Title 7, Agriculture, and subsequently repealed by Pub. L. 107–171, title X, § 10418(a)(3), May 13, 2002, 116 Stat. 507.
+Section 576 of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2260 of Title 7, Agriculture, and subsequently repealed by Pub. L. 107–171, title X, § 10418(a)(3), May 13, 2002, 116 Stat. 507.
 
 **Prior Provisions**
 
@@ -4308,23 +4308,23 @@ A prior section 576 was renumbered section 596 of this title.
 
 1992—Pub. L. 102–354 renumbered section 586 of this title as this section.
 
-### § 577. Arbitrators
+### § 577. Arbitrators
 
 **(a)** The parties to an arbitration proceeding shall be entitled to participate in the selection of the arbitrator.
 
 **(b)** The arbitrator shall be a neutral who meets the criteria of section 573 of this title.
 
-(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2742, § 587; renumbered § 577 and amended Pub. L. 102–354, § 3(b)(2), (3), Aug. 26, 1992, 106 Stat. 944, 945.)
+(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2742, § 587; renumbered § 577 and amended Pub. L. 102–354, § 3(b)(2), (3), Aug. 26, 1992, 106 Stat. 944, 945.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Pub. L. 102–354, § 3(b)(2), renumbered section 587 of this title as this section.
+1992—Pub. L. 102–354, § 3(b)(2), renumbered section 587 of this title as this section.
 
-Subsec. (b). Pub. L. 102–354, § 3(b)(3), substituted “section 573” for “section 583”.
+Subsec. (b). Pub. L. 102–354, § 3(b)(3), substituted “section 573” for “section 583”.
 
-### § 578. Authority of the arbitrator
+### § 578. Authority of the arbitrator
 
 An arbitrator to whom a dispute is referred under this subchapter may—
 
@@ -4336,7 +4336,7 @@ An arbitrator to whom a dispute is referred under this subchapter may—
 
 **(4)** make awards.
 
-(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2742, § 588; renumbered § 578, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944.)
+(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2742, § 588; renumbered § 578, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944.)
 
 **Editorial Notes**
 
@@ -4344,7 +4344,7 @@ An arbitrator to whom a dispute is referred under this subchapter may—
 
 1992—Pub. L. 102–354 renumbered section 588 of this title as this section.
 
-### § 579. Arbitration proceedings
+### § 579. Arbitration proceedings
 
 **(a)** The arbitrator shall set a time and place for the hearing on the dispute and shall notify the parties not less than 5 days before the hearing.
 
@@ -4378,7 +4378,7 @@ An arbitrator to whom a dispute is referred under this subchapter may—
 
 **(2)** the agency provides by rule for some other time limit.
 
-(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2742, § 589; renumbered § 579, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944.)
+(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2742, § 589; renumbered § 579, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944.)
 
 **Editorial Notes**
 
@@ -4386,7 +4386,7 @@ An arbitrator to whom a dispute is referred under this subchapter may—
 
 1992—Pub. L. 102–354 renumbered section 589 of this title as this section.
 
-### § 580. Arbitration awards
+### § 580. Arbitration awards
 
 **(a)**
 
@@ -4400,43 +4400,43 @@ An arbitrator to whom a dispute is referred under this subchapter may—
 
 **(d)** An award entered under this subchapter in an arbitration proceeding may not serve as an estoppel in any other proceeding for any issue that was resolved in the proceeding. Such an award also may not be used as precedent or otherwise be considered in any factually unrelated proceeding, whether conducted under this subchapter, by an agency, or in a court, or in any other arbitration proceeding.
 
-(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2743, § 590; renumbered § 580 and amended Pub. L. 102–354, §§ 3(b)(2), 5(b)(3), Aug. 26, 1992, 106 Stat. 944, 946; Pub. L. 104–320, § 8(a), Oct. 19, 1996, 110 Stat. 3872.)
+(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2743, § 590; renumbered § 580 and amended Pub. L. 102–354, §§ 3(b)(2), 5(b)(3), Aug. 26, 1992, 106 Stat. 944, 946; Pub. L. 104–320, § 8(a), Oct. 19, 1996, 110 Stat. 3872.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (c). Pub. L. 104–320, § 8(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The head of any agency that is a party to an arbitration proceeding conducted under this subchapter is authorized to terminate the arbitration proceeding or vacate any award issued pursuant to the proceeding before the award becomes final by serving on all other parties a written notice to that effect, in which case the award shall be null and void. Notice shall be provided to all parties to the arbitration proceeding of any request by a party, nonparty participant or other person that the agency head terminate the arbitration proceeding or vacate the award. An employee or agent engaged in the performance of investigative or prosecuting functions for an agency may not, in that or a factually related case, advise in a decision under this subsection to terminate an arbitration proceeding or to vacate an arbitral award, except as witness or counsel in public proceedings.”
+1996—Subsec. (c). Pub. L. 104–320, § 8(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The head of any agency that is a party to an arbitration proceeding conducted under this subchapter is authorized to terminate the arbitration proceeding or vacate any award issued pursuant to the proceeding before the award becomes final by serving on all other parties a written notice to that effect, in which case the award shall be null and void. Notice shall be provided to all parties to the arbitration proceeding of any request by a party, nonparty participant or other person that the agency head terminate the arbitration proceeding or vacate the award. An employee or agent engaged in the performance of investigative or prosecuting functions for an agency may not, in that or a factually related case, advise in a decision under this subsection to terminate an arbitration proceeding or to vacate an arbitral award, except as witness or counsel in public proceedings.”
 
-Subsecs. (d), (e). Pub. L. 104–320, § 8(a)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+Subsecs. (d), (e). Pub. L. 104–320, § 8(a)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsecs. (f), (g). Pub. L. 104–320, § 8(a)(1), struck out subsecs. (f) and (g) which read as follows:
+Subsecs. (f), (g). Pub. L. 104–320, § 8(a)(1), struck out subsecs. (f) and (g) which read as follows:
 
 “(f) An arbitral award that is vacated under subsection (c) shall not be admissible in any proceeding relating to the issues in controversy with respect to which the award was made.
 
 “(g) If an agency head vacates an award under subsection (c), a party to the arbitration (other than the United States) may within 30 days of such action petition the agency head for an award of fees and other expenses (as defined in section 504(b)(1)(A) of this title) incurred in connection with the arbitration proceeding. The agency head shall award the petitioning party those fees and expenses that would not have been incurred in the absence of such arbitration proceeding, unless the agency head or his or her designee finds that special circumstances make such an award unjust. The procedures for reviewing applications for awards shall, where appropriate, be consistent with those set forth in subsection (a)(2) and (3) of section 504 of this title. Such fees and expenses shall be paid from the funds of the agency that vacated the award.”
 
-1992—Pub. L. 102–354, § 3(b)(2), renumbered section 590 of this title as this section.
+1992—Pub. L. 102–354, § 3(b)(2), renumbered section 590 of this title as this section.
 
-Subsec. (g). Pub. L. 102–354, § 5(b)(3), substituted “fees and other expenses” for “attorney fees and expenses”.
+Subsec. (g). Pub. L. 102–354, § 5(b)(3), substituted “fees and other expenses” for “attorney fees and expenses”.
 
-### § 581. Judicial Review 1 [footnote: 1 So in original. Probably should not be capitalized.]
+### § 581. Judicial Review 1 [footnote: 1 So in original. Probably should not be capitalized.]
 
 **(a)** Notwithstanding any other provision of law, any person adversely affected or aggrieved by an award made in an arbitration proceeding conducted under this subchapter may bring an action for review of such award only pursuant to the provisions of sections 9 through 13 of title 9.
 
-**(b)** A decision by an agency to use or not to use a dispute resolution proceeding under this subchapter shall be committed to the discretion of the agency and shall not be subject to judicial review, except that arbitration shall be subject to judicial review under section 10(b) 2
+**(b)** A decision by an agency to use or not to use a dispute resolution proceeding under this subchapter shall be committed to the discretion of the agency and shall not be subject to judicial review, except that arbitration shall be subject to judicial review under section 10(b) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 9.
 
-(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2744, § 591; renumbered § 581 and amended Pub. L. 102–354, § 3(b)(2), (4), Aug. 26, 1992, 106 Stat. 944, 945; Pub. L. 104–320, § 8(b), Oct. 19, 1996, 110 Stat. 3872.)
+(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2744, § 591; renumbered § 581 and amended Pub. L. 102–354, § 3(b)(2), (4), Aug. 26, 1992, 106 Stat. 944, 945; Pub. L. 104–320, § 8(b), Oct. 19, 1996, 110 Stat. 3872.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 10(b) of title 9, referred to in subsec. (b), was redesignated section 10(c) of title 9 by Pub. L. 107–169, § 1(4), May 7, 2002, 116 Stat. 132.
+Section 10(b) of title 9, referred to in subsec. (b), was redesignated section 10(c) of title 9 by Pub. L. 107–169, § 1(4), May 7, 2002, 116 Stat. 132.
 
 **Prior Provisions**
 
@@ -4448,19 +4448,19 @@ Another prior section 581 was renumbered section 561 of this title.
 
 1996—Subsec. (b). Pub. L. 104–320, which directed that section 581(d) of this title be amended by striking “(1)” after “(b)” and by striking par. (2), was executed to subsec. (b) of this section to reflect the probable intent of Congress. Prior to amendment, par. (2) read as follows: “A decision by the head of an agency under section 580 to terminate an arbitration proceeding or vacate an arbitral award shall be committed to the discretion of the agency and shall not be subject to judicial review.”
 
-1992—Pub. L. 102–354, § 3(b)(2), renumbered section 591 of this title as this section.
+1992—Pub. L. 102–354, § 3(b)(2), renumbered section 591 of this title as this section.
 
-Subsec. (b)(2). Pub. L. 102–354, § 3(b)(4), substituted “section 580” for “section 590”.
+Subsec. (b)(2). Pub. L. 102–354, § 3(b)(4), substituted “section 580” for “section 590”.
 
-### [§ 582. Repealed. Pub. L. 104–320, § 4(b)(1), Oct. 19, 1996, 110 Stat. 3871]
+### [§ 582. Repealed. Pub. L. 104–320, § 4(b)(1), Oct. 19, 1996, 110 Stat. 3871]
 
-Section, added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2744, § 592; renumbered § 582, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944, related to compilation of data on use of alternative means of dispute resolution in conducting agency proceedings.
+Section, added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2744, § 592; renumbered § 582, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944, related to compilation of data on use of alternative means of dispute resolution in conducting agency proceedings.
 
-### § 583. Support services
+### § 583. Support services
 
 For the purposes of this subchapter, an agency may use (with or without reimbursement) the services and facilities of other Federal agencies, State, local, and tribal governments, public and private organizations and agencies, and individuals, with the consent of such agencies, organizations, and individuals. An agency may accept voluntary and uncompensated services for purposes of this subchapter without regard to the provisions of section 1342 of title 31.
 
-(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2745, § 593; renumbered § 583, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 104–320, § 5, Oct. 19, 1996, 110 Stat. 3871.)
+(Added Pub. L. 101–552, § 4(b), Nov. 15, 1990, 104 Stat. 2745, § 593; renumbered § 583, Pub. L. 102–354, § 3(b)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 104–320, § 5, Oct. 19, 1996, 110 Stat. 3871.)
 
 **Editorial Notes**
 
@@ -4476,11 +4476,11 @@ Other prior sections 583 to 590 were renumbered sections 563 to 570 of this titl
 
 1992—Pub. L. 102–354 renumbered section 593 of this title as this section.
 
-### § 584. Authorization of appropriations
+### § 584. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this subchapter.
 
-(Added Pub. L. 104–320, § 10(a), Oct. 19, 1996, 110 Stat. 3873.)
+(Added Pub. L. 104–320, § 10(a), Oct. 19, 1996, 110 Stat. 3873.)
 
 ## SUBCHAPTER V—ADMINISTRATIVE CONFERENCE OF THE UNITED STATES
 
@@ -4488,7 +4488,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 **Amendments**
 
-1992—Pub. L. 102–354, § 2(1), Aug. 26, 1992, 106 Stat. 944, redesignated subchapter III of this chapter as this subchapter.
+1992—Pub. L. 102–354, § 2(1), Aug. 26, 1992, 106 Stat. 944, redesignated subchapter III of this chapter as this subchapter.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4496,7 +4496,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 Pub. L. 104–52, title IV, Nov. 19, 1995, 109 Stat. 480, authorized $600,000 for the prompt and orderly termination of the Administrative Conference of the United States by Feb. 1, 1996.
 
-### § 591. Purposes
+### § 591. Purposes
 
 The purposes of this subchapter are—
 
@@ -4510,13 +4510,13 @@ The purposes of this subchapter are—
 
 **(5)** to improve the effectiveness of laws applicable to the regulatory process.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 388, § 571; renumbered § 591, Pub. L. 102–354, § 2(2), Aug. 26, 1992, 106 Stat. 944; Pub. L. 108–401, § 2(a), Oct. 30, 2004, 118 Stat. 2255.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 388, § 571; renumbered § 591, Pub. L. 102–354, § 2(2), Aug. 26, 1992, 106 Stat. 944; Pub. L. 108–401, § 2(a), Oct. 30, 2004, 118 Stat. 2255.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1045(e). | Aug. 30, 1964, Pub. L. 88–499, § 2(e), 78 Stat. 615. |
+|  | 5 U.S.C. 1045(e). | Aug. 30, 1964, Pub. L. 88–499, § 2(e), 78 Stat. 615. |
 
 The words “this subchapter” are substituted for “this Act” to reflect the codification of the Administrative Conference Act in this subchapter.
 
@@ -4534,7 +4534,7 @@ A prior section 591 was renumbered section 581 of this title.
 
 1992—Pub. L. 102–354 renumbered section 571 of this title as this section.
 
-### § 592. Definitions
+### § 592. Definitions
 
 For the purpose of this subchapter—
 
@@ -4544,13 +4544,13 @@ For the purpose of this subchapter—
 
 **(3)** “administrative procedure” means procedure used in carrying out an administrative program and is to be broadly construed to include any aspect of agency organization, procedure, or management which may affect the equitable consideration of public and private interests, the fairness of agency decisions, the speed of agency action, and the relationship of operating methods to later judicial review, but does not include the scope of agency responsibility as established by law or matters of substantive policy committed by law to agency discretion.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 388, § 572; renumbered § 592, Pub. L. 102–354, § 2(2), Aug. 26, 1992, 106 Stat. 944.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 388, § 572; renumbered § 592, Pub. L. 102–354, § 2(2), Aug. 26, 1992, 106 Stat. 944.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1045a. | Aug. 30, 1964, Pub. L. 88–499, § 3, 78 Stat. 615. |
+|  | 5 U.S.C. 1045a. | Aug. 30, 1964, Pub. L. 88–499, § 3, 78 Stat. 615. |
 
 In paragraph (1), the words “subchapter II of this chapter” are substituted for “the Administrative Procedure Act (5 U.S.C. 1001–1011)” to reflect the codification of the Act in this title. The word “naval” is omitted as included in “military”.
 
@@ -4568,7 +4568,7 @@ A prior section 592 was renumbered section 582 of this title and was subsequentl
 
 1992—Pub. L. 102–354 renumbered section 572 of this title as this section.
 
-### § 593. Administrative Conference of the United States
+### § 593. Administrative Conference of the United States
 
 **(a)** The Administrative Conference of the United States consists of not more than 101 nor less than 75 members appointed as set forth in subsection (b) of this section.
 
@@ -4588,15 +4588,15 @@ A prior section 592 was renumbered section 582 of this title and was subsequentl
 
 **(c)** Members of the Conference, except the Chairman, are not entitled to pay for service. Members appointed from outside the Federal Government are entitled to travel expenses, including per diem instead of subsistence, as authorized by section 5703 of this title for individuals serving without pay.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 389, § 573; Pub. L. 99–470, § 1, Oct. 14, 1986, 100 Stat. 1198; renumbered § 593 and amended Pub. L. 102–354, § 2(2), (3), Aug. 26, 1992, 106 Stat. 944.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 389, § 573; Pub. L. 99–470, § 1, Oct. 14, 1986, 100 Stat. 1198; renumbered § 593 and amended Pub. L. 102–354, § 2(2), (3), Aug. 26, 1992, 106 Stat. 944.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1045b. | Aug. 30, 1964, Pub. L. 88–499, § 4, 78 Stat. 616. |
+|  | 5 U.S.C. 1045b. | Aug. 30, 1964, Pub. L. 88–499, § 4, 78 Stat. 616. |
 
-In subsection (a), the words “There is hereby established” are omitted as executed. The words “hereinafter referred to as the ‘Conference’ ” are omitted as unnecessary as the title “Administrative Conference of the United States” is fully set out the first time it is used in each section of this chapter.
+In subsection (a), the words “There is hereby established” are omitted as executed. The words “hereinafter referred to as the ‘Conference’ ” are omitted as unnecessary as the title “Administrative Conference of the United States” is fully set out the first time it is used in each section of this chapter.
 
 In subsection (b)(4), the words “referred to in section 575(b) of this title” are inserted for clarity.
 
@@ -4612,13 +4612,13 @@ A prior section 593 was renumbered section 583 of this title.
 
 **Amendments**
 
-1992—Pub. L. 102–354, § 2(2), renumbered section 573 of this title as this section.
+1992—Pub. L. 102–354, § 2(2), renumbered section 573 of this title as this section.
 
-Subsec. (b)(4). Pub. L. 102–354, § 2(3), substituted “section 595(b)” for “section 575(b)”.
+Subsec. (b)(4). Pub. L. 102–354, § 2(3), substituted “section 595(b)” for “section 575(b)”.
 
-1986—Subsec. (a). Pub. L. 99–470, § 1(a)(1), substituted “101” for “91”.
+1986—Subsec. (a). Pub. L. 99–470, § 1(a)(1), substituted “101” for “91”.
 
-Subsec. (b)(6). Pub. L. 99–470, § 1(a)(2), substituted “40” for “36”.
+Subsec. (b)(6). Pub. L. 99–470, § 1(a)(2), substituted “40” for “36”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4630,7 +4630,7 @@ For termination of Administrative Conference of United States, see note set out 
 
 The Administrative Conference of the United States, established as a permanent body by the Administrative Conference Act, Pub. L. 88–499, Aug. 30, 1964, 78 Stat. 615, was preceded by two temporary Conferences. The first was called by President Eisenhower in 1953 and adopted a final report which was transmitted to the President who acknowledged receipt of it on March 3, 1955. The second was established by President Kennedy by Executive Order No. 10934, Apr. 14, 1961, 26 F.R. 3233, which, by its terms, called for a final report to the President by December 31, 1962. The final report recommended a continuing Conference consisting of both government personnel and outside experts.
 
-### § 594. Powers and duties of the Conference
+### § 594. Powers and duties of the Conference
 
 To carry out the purposes of this subchapter, the Administrative Conference of the United States may—
 
@@ -4650,13 +4650,13 @@ To carry out the purposes of this subchapter, the Administrative Conference of t
 
 Payment for services provided by the Conference pursuant to paragraph (4) shall be credited to the operating account for the Conference and shall remain available until expended.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 390, § 574; Pub. L. 101–422, § 2, Oct. 12, 1990, 104 Stat. 910; renumbered § 594, Pub. L. 102–354, § 2(2), Aug. 26, 1992, 106 Stat. 944; Pub. L. 102–403, Oct. 9, 1992, 106 Stat. 1968; Pub. L. 108–401, § 2(b)(1), Oct. 30, 2004, 118 Stat. 2255.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 390, § 574; Pub. L. 101–422, § 2, Oct. 12, 1990, 104 Stat. 910; renumbered § 594, Pub. L. 102–354, § 2(2), Aug. 26, 1992, 106 Stat. 944; Pub. L. 102–403, Oct. 9, 1992, 106 Stat. 1968; Pub. L. 108–401, § 2(b)(1), Oct. 30, 2004, 118 Stat. 2255.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1045c. | Aug. 30, 1964, Pub. L. 88–499, § 5, 78 Stat. 616. |
+|  | 5 U.S.C. 1045c. | Aug. 30, 1964, Pub. L. 88–499, § 5, 78 Stat. 616. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -4684,7 +4684,7 @@ For termination of Administrative Conference of United States, see note set out 
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22, Foreign Relations and Intercourse.
 
-### § 595. Organization of the Conference
+### § 595. Organization of the Conference
 
 **(a)** The membership of the Administrative Conference of the United States meeting in plenary session constitutes the Assembly of the Conference. The Assembly has ultimate authority over all activities of the Conference. Specifically, it has the power to—
 
@@ -4746,13 +4746,13 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 The Chairman shall preside at meetings of the Council and at each plenary session of the Conference, to which he shall make a full report concerning the affairs of the Conference since the last preceding plenary session. The Chairman, on behalf of the Conference, shall transmit to the President and Congress an annual report and such interim reports as he considers desirable.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 390, § 575; Pub. L. 92–526, § 1, Oct. 21, 1972, 86 Stat. 1048; Pub. L. 97–258, § 3(a)(1), Sept. 13, 1982, 96 Stat. 1062; Pub. L. 101–422, § 3, Oct. 12, 1990, 104 Stat. 910; renumbered § 595, Pub. L. 102–354, § 2(2), Aug. 26, 1992, 106 Stat. 944.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 390, § 575; Pub. L. 92–526, § 1, Oct. 21, 1972, 86 Stat. 1048; Pub. L. 97–258, § 3(a)(1), Sept. 13, 1982, 96 Stat. 1062; Pub. L. 101–422, § 3, Oct. 12, 1990, 104 Stat. 910; renumbered § 595, Pub. L. 102–354, § 2(2), Aug. 26, 1992, 106 Stat. 944.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1045d. | Aug. 30, 1964, Pub. L. 88–499, § 6, 78 Stat. 617. |
+|  | 5 U.S.C. 1045d. | Aug. 30, 1964, Pub. L. 88–499, § 6, 78 Stat. 617. |
 
 In subsection (b), the words “except that the Council members initially appointed shall serve for one, two, or three years, as designated by the President” are omitted as executed, existing rights being preserved by technical section 8.
 
@@ -4766,7 +4766,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **References in Text**
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(10), is act June 30, 1949, ch. 288, 63 Stat. 377. Title III of the Act was classified generally to subchapter IV (§ 251 et seq.) of chapter 4 of former Title 41, Public Contracts, and was substantially repealed and restated in division C (§ 3101 et seq.) of subtitle I of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1949 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(10), is act June 30, 1949, ch. 288, 63 Stat. 377. Title III of the Act was classified generally to subchapter IV (§ 251 et seq.) of chapter 4 of former Title 41, Public Contracts, and was substantially repealed and restated in division C (§ 3101 et seq.) of subtitle I of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1949 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 **Amendments**
 
@@ -4776,9 +4776,9 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 1982—Subsec. (c)(13). Pub. L. 97–258 substituted “section 1342 of title 31” for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))”.
 
-1972—Subsec. (c)(10). Pub. L. 92–526, § 1(a), inserted provisions authorizing contracts for the performance of such studies with any public or private persons, etc., under title III of the Federal Property and Administrative Services Act of 1949, as amended, and substituted provisions authorizing the payment of experts and consultants in accordance with rates not in excess of the maximum rate of pay for grade GS–15 as provided in section 5332 of this title, for provisions authorizing the payment of such individuals at rates not in excess of $100 a day.
+1972—Subsec. (c)(10). Pub. L. 92–526, § 1(a), inserted provisions authorizing contracts for the performance of such studies with any public or private persons, etc., under title III of the Federal Property and Administrative Services Act of 1949, as amended, and substituted provisions authorizing the payment of experts and consultants in accordance with rates not in excess of the maximum rate of pay for grade GS–15 as provided in section 5332 of this title, for provisions authorizing the payment of such individuals at rates not in excess of $100 a day.
 
-Subsec. (c)(11) to (15). Pub. L. 92–526, § 1(b), added pars. (11) to (13) and redesignated former pars. (11) and (12) as (14) and (15), respectively.
+Subsec. (c)(11) to (15). Pub. L. 92–526, § 1(b), added pars. (11) to (13) and redesignated former pars. (11) and (12) as (14) and (15), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4786,17 +4786,17 @@ Subsec. (c)(11) to (15). Pub. L. 92–526, § 1(b), added pars. (11) to (13) a
 
 For termination of Administrative Conference of United States, see note set out preceding section 591 of this title.
 
-### § 596. Authorization of appropriations
+### § 596. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this subchapter not more than $3,200,000 for fiscal year 2009, $3,200,000 for fiscal year 2010, and $3,200,000 for fiscal year 2011. Of any amounts appropriated under this section, not more than $2,500 may be made available in each fiscal year for official representation and entertainment expenses for foreign dignitaries.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 391, § 576; Pub. L. 91–164, Dec. 24, 1969, 83 Stat. 446; Pub. L. 92–526, § 2, Oct. 21, 1972, 86 Stat. 1048; Pub. L. 95–293, § 1(a), June 13, 1978, 92 Stat. 317; Pub. L. 97–330, Oct. 15, 1982, 96 Stat. 1618; Pub. L. 99–470, § 2(a), Oct. 14, 1986, 100 Stat. 1198; Pub. L. 101–422, § 1, Oct. 12, 1990, 104 Stat. 910; renumbered § 596, Pub. L. 102–354, § 2(2), Aug. 26, 1992, 106 Stat. 944; Pub. L. 108–401, § 3, Oct. 30, 2004, 118 Stat. 2255; Pub. L. 110–290, § 2, July 30, 2008, 122 Stat. 2914.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 391, § 576; Pub. L. 91–164, Dec. 24, 1969, 83 Stat. 446; Pub. L. 92–526, § 2, Oct. 21, 1972, 86 Stat. 1048; Pub. L. 95–293, § 1(a), June 13, 1978, 92 Stat. 317; Pub. L. 97–330, Oct. 15, 1982, 96 Stat. 1618; Pub. L. 99–470, § 2(a), Oct. 14, 1986, 100 Stat. 1198; Pub. L. 101–422, § 1, Oct. 12, 1990, 104 Stat. 910; renumbered § 596, Pub. L. 102–354, § 2(2), Aug. 26, 1992, 106 Stat. 944; Pub. L. 108–401, § 3, Oct. 30, 2004, 118 Stat. 2255; Pub. L. 110–290, § 2, July 30, 2008, 122 Stat. 2914.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1045e. | Aug. 30, 1964, Pub. L. 88–499, § 7, 78 Stat. 618. |
+|  | 5 U.S.C. 1045e. | Aug. 30, 1964, Pub. L. 88–499, § 7, 78 Stat. 618. |
 
 The word “hereby” is omitted as unnecessary.
 
@@ -4828,4 +4828,4 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–293, § 1(b), June 13, 1978, 92 Stat. 317, provided that: “The amendment made by subsection (a) [amending this section] shall take effect October 1, 1977.”
+Pub. L. 95–293, § 1(b), June 13, 1978, 92 Stat. 317, provided that: “The amendment made by subsection (a) [amending this section] shall take effect October 1, 1977.”

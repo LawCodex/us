@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 47—NUCLEAR NON-PROLIFERATION
 
-## § 3201. Congressional declaration of policy
+## § 3201. Congressional declaration of policy
 
 The Congress finds and declares that the proliferation of nuclear explosive devices or of the direct capability to manufacture or otherwise acquire such devices poses a grave threat to the security interests of the United States and to continued international progress toward world peace and development. Recent events emphasize the urgency of this threat and the imperative need to increase the effectiveness of international safeguards and controls on peaceful nuclear activities to prevent proliferation. Accordingly, it is the policy of the United States to—
 
@@ -27,29 +27,29 @@ The Congress finds and declares that the proliferation of nuclear explosive devi
 
 **(d)** cooperate with foreign nations in identifying and adapting suitable technologies for energy production and, in particular, to identify alternative options to nuclear power in aiding such nations to meet their energy needs, consistent with the economic and material resources of those nations and environmental protection.
 
-(Pub. L. 95–242, § 2, Mar. 10, 1978, 92 Stat. 120.)
+(Pub. L. 95–242, § 2, Mar. 10, 1978, 92 Stat. 120.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 95–242, title VI, § 603(c), Mar. 10, 1978, 92 Stat. 152, provided that: “Except where otherwise provided, the provisions of this Act [see Short Title note below] shall take effect immediately upon enactment [Mar. 10, 1978] regardless of any requirement for the promulgation of regulations to implement such provisions.”
+Pub. L. 95–242, title VI, § 603(c), Mar. 10, 1978, 92 Stat. 152, provided that: “Except where otherwise provided, the provisions of this Act [see Short Title note below] shall take effect immediately upon enactment [Mar. 10, 1978] regardless of any requirement for the promulgation of regulations to implement such provisions.”
 
 **Short Title**
 
-Pub. L. 95–242, § 1, Mar. 10, 1978, 92 Stat. 120, provided: “That this Act [enacting this chapter and sections 2139a, 2141, 2153a to 2153e, 2153f, and 2155 to 2160a of Title 42, The Public Health and Welfare, amending sections 2074, 2075, 2077, 2094, 2139, and 2153 of Title 42, and enacting provisions set out as notes under sections 3201, 3222, and 3262 of this title and section 2139 of Title 42] may be cited as the ‘Nuclear Non-Proliferation Act of 1978’.”
+Pub. L. 95–242, § 1, Mar. 10, 1978, 92 Stat. 120, provided: “That this Act [enacting this chapter and sections 2139a, 2141, 2153a to 2153e, 2153f, and 2155 to 2160a of Title 42, The Public Health and Welfare, amending sections 2074, 2075, 2077, 2094, 2139, and 2153 of Title 42, and enacting provisions set out as notes under sections 3201, 3222, and 3262 of this title and section 2139 of Title 42] may be cited as the ‘Nuclear Non-Proliferation Act of 1978’.”
 
 **Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment**
 
-Title VIII of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 507, known as the Nuclear Proliferation Prevention Act of 1994, was amended by Pub. L. 104–164, title I, § 157, July 21, 1996, 110 Stat. 1440. As so amended, title VIII has been primarily transferred to chapter 72 (§ 6301 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under section 6301 of this title and Tables.
+Title VIII of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 507, known as the Nuclear Proliferation Prevention Act of 1994, was amended by Pub. L. 104–164, title I, § 157, July 21, 1996, 110 Stat. 1440. As so amended, title VIII has been primarily transferred to chapter 72 (§ 6301 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 **Advocacy and Encouragement by United States of Nonparties to Treaty on Non-Proliferation of Nuclear Weapons To Become Signatories; Report to Congress**
 
-Pub. L. 96–53, title V, § 507, Aug. 14, 1979, 93 Stat. 378, as amended by Pub. L. 97–113, title VII, § 734(a)(3), Dec. 29, 1981, 95 Stat. 1560, provided that:
+Pub. L. 96–53, title V, § 507, Aug. 14, 1979, 93 Stat. 378, as amended by Pub. L. 97–113, title VII, § 734(a)(3), Dec. 29, 1981, 95 Stat. 1560, provided that:
 
 > **“(a)** In accordance with the Nuclear Non-Proliferation Act of 1978 [see Short Title note above], the Congress strongly urges all nations which are not parties to the Treaty on Non-Proliferation of Nuclear Weapons to become parties to that treaty.
 
-> **“(b) [Repealed. Pub. L. 97–113, title VII, § 734(a)(3), Dec. 29, 1981, 95 Stat. 1560.]** ”
+> **“(b) [Repealed. Pub. L. 97–113, title VII, § 734(a)(3), Dec. 29, 1981, 95 Stat. 1560.]** ”
 
 **Executive Documents**
 
@@ -89,7 +89,7 @@ Sec. 5. *General Provisions*. (a) Executive Order No. 11902 of February 2, 1976,
 
 Jimmy Carter.
 
-## § 3202. Congressional statement of purpose
+## § 3202. Congressional statement of purpose
 
 It is the purpose of this chapter to promote the policies set forth above by—
 
@@ -101,7 +101,7 @@ It is the purpose of this chapter to promote the policies set forth above by—
 
 **(d)** ensuring effective controls by the United States over its exports of nuclear materials and equipment and of nuclear technology.
 
-(Pub. L. 95–242, § 3, Mar. 10, 1978, 92 Stat. 120.)
+(Pub. L. 95–242, § 3, Mar. 10, 1978, 92 Stat. 120.)
 
 **Editorial Notes**
 
@@ -115,7 +115,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of this title.
 
-## § 3203. Definitions
+## § 3203. Definitions
 
 **(a)** As used in this chapter, the term—
 
@@ -123,9 +123,9 @@ Section effective Mar. 10, 1978, except as otherwise provided and regardless of 
 
 **(2)** “IAEA” means International Atomic Energy Agency;
 
-**(3)** “nuclear materials and equipment” means source material, special nuclear material, production facilities, utilization facilities, and components, items or substances determined to have significance for nuclear explosive purposes pursuant to subsection 109b 1
+**(3)** “nuclear materials and equipment” means source material, special nuclear material, production facilities, utilization facilities, and components, items or substances determined to have significance for nuclear explosive purposes pursuant to subsection 109b 1
 
-<sup>1</sup>  So in the original. Probably should be “section 109(b)”.
+<sup>1</sup> So in the original. Probably should be “section 109(b)”.
 
 of the 1954 Act [42 U.S.C. 2139(b)];
 
@@ -139,7 +139,7 @@ of the 1954 Act [42 U.S.C. 2139(b)];
 
 **(b)** All other terms used in this chapter not defined in this section shall have the meanings ascribed to them by the 1954 Act, the Energy Reorganization Act of 1974 [42 U.S.C. 5801 et seq.], and the Treaty.
 
-(Pub. L. 95–242, § 4, Mar. 10, 1978, 92 Stat. 121; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(e)(1), Oct. 21, 1998, 112 Stat. 2681–775.)
+(Pub. L. 95–242, § 4, Mar. 10, 1978, 92 Stat. 121; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(e)(1), Oct. 21, 1998, 112 Stat. 2681–775.)
 
 **Editorial Notes**
 
@@ -147,13 +147,13 @@ of the 1954 Act [42 U.S.C. 2139(b)];
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, known as the Nuclear Non-Proliferation Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
-The Atomic Energy Act of 1954, as amended, referred to in subsec. (a)(5), (6), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. Chapter 12 of the 1954 Act is classified generally to subchapter XI (§ 2161 et seq.) of division A of chapter 23 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in subsec. (a)(5), (6), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. Chapter 12 of the 1954 Act is classified generally to subchapter XI (§ 2161 et seq.) of division A of chapter 23 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-The Energy Reorganization Act of 1974, referred to in subsec. (b), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which is classified principally to chapter 73 (§ 5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
+The Energy Reorganization Act of 1974, referred to in subsec. (b), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which is classified principally to chapter 73 (§ 5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
 
 **Amendments**
 
-1998—Pub. L. 105–277 redesignated pars. (3) to (8) as (2) to (7), respectively, and struck out former par. (2) which read as follows: “ ‘Director’ means the Director of the Arms Control and Disarmament Agency;”.
+1998—Pub. L. 105–277 redesignated pars. (3) to (8) as (2) to (7), respectively, and struck out former par. (2) which read as follows: “ ‘Director’ means the Director of the Arms Control and Disarmament Agency;”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -167,11 +167,11 @@ Section effective Mar. 10, 1978, except as otherwise provided and regardless of 
 
 ## SUBCHAPTER I—UNITED STATES INITIATIVES TO PROVIDE ADEQUATE NUCLEAR FUEL SUPPLY
 
-### § 3221. Congressional declaration of policy
+### § 3221. Congressional declaration of policy
 
 The United States, as a matter of national policy, shall take such actions and institute such measures as may be necessary and feasible to assure other nations and groups of nations that may seek to utilize the benefits of atomic energy for peaceful purposes that it will provide a reliable supply of nuclear fuel to those nations and groups of nations which adhere to policies designed to prevent proliferation. Such nuclear fuel shall be provided under agreements entered into pursuant to section 2201 of title 42 or as otherwise authorized by law. The United States shall ensure that it will have available the capacity on a long-term basis to enter into new fuel supply commitments consistent with its non-proliferation policies and domestic energy needs. The Commission shall, on a timely basis, authorize the export of nuclear materials and equipment when all the applicable statutory requirements are met.
 
-(Pub. L. 95–242, title I, § 101, Mar. 10, 1978, 92 Stat. 121.)
+(Pub. L. 95–242, title I, § 101, Mar. 10, 1978, 92 Stat. 121.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -179,11 +179,11 @@ The United States, as a matter of national policy, shall take such actions and i
 
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of this title.
 
-### § 3222. Uranium enrichment capacity
+### § 3222. Uranium enrichment capacity
 
 The Secretary of Energy is directed to initiate construction planning and design, construction, and operation activities for expansion of uranium enrichment capacity, as elsewhere provided by law. Further the Secretary as well as the Nuclear Regulatory Commission and the Secretary of State are directed to establish and implement procedures which will ensure to the maximum extent feasible, consistent with this chapter, orderly processing of subsequent arrangements and export licenses with minimum time delay.
 
-(Pub. L. 95–242, title I, § 102, Mar. 10, 1978, 92 Stat. 122; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(e)(2), Oct. 21, 1998, 112 Stat. 2681–775.)
+(Pub. L. 95–242, title I, § 102, Mar. 10, 1978, 92 Stat. 122; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(e)(2), Oct. 21, 1998, 112 Stat. 2681–775.)
 
 **Editorial Notes**
 
@@ -193,7 +193,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Amendments**
 
-1998—Pub. L. 105–277 substituted “and the Secretary of State” for “, the Secretary of State, and the Director of the Arms Control and Disarmament Agency”.
+1998—Pub. L. 105–277 substituted “and the Secretary of State” for “, the Secretary of State, and the Director of the Arms Control and Disarmament Agency”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -205,7 +205,7 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of this title.
 
-### § 3223. International undertakings
+### § 3223. International undertakings
 
 **(a) Development of international approaches for meeting future worldwide nuclear fuel needs; international nuclear fuel authority** Consistent with section 3224 of this title, the President shall institute prompt discussions with other nations and groups of nations, including both supplier and recipient nations, to develop international approaches for meeting future worldwide nuclear fuel needs. In particular, the President is authorized and urged to seek to negotiate as soon as practicable with nations possessing nuclear fuel production facilities or source material, and such other nations and groups of nations, such as the IAEA, as may be deemed appropriate, with a view toward the timely establishment of binding international undertakings providing for—
 
@@ -237,7 +237,7 @@ The report required by section 3281 of this title shall include information on t
 
 **(2)** The proposals prepared pursuant to subsection (b) shall be submitted to the Congress as part of an annual authorization Act for the Department of Energy.
 
-(Pub. L. 95–242, title I, § 104, Mar. 10, 1978, 92 Stat. 122.)
+(Pub. L. 95–242, title I, § 104, Mar. 10, 1978, 92 Stat. 122.)
 
 **Editorial Notes**
 
@@ -259,11 +259,11 @@ Section effective Mar. 10, 1978, except as otherwise provided and regardless of 
 
 Secretary of State responsible for performing functions vested in President under subsecs. (a) and (d), see section 2(a) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out as a note under section 3201 of this title.
 
-### § 3224. Reevaluation of nuclear fuel cycle
+### § 3224. Reevaluation of nuclear fuel cycle
 
 The President shall take immediate initiatives to invite all nuclear supplier and recipient nations to reevaluate all aspects of the nuclear fuel cycle, with emphasis on alternatives to an economy based on the separation of pure plutonium or the presence of high enriched uranium, methods to deal with spent fuel storage, and methods to improve the safeguards for existing nuclear technology. The President shall, in the first report required by section 3281 of this title, detail the progress of such international reevaluation.
 
-(Pub. L. 95–242, title I, § 105, Mar. 10, 1978, 92 Stat. 123.)
+(Pub. L. 95–242, title I, § 105, Mar. 10, 1978, 92 Stat. 123.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -277,11 +277,11 @@ Section effective Mar. 10, 1978, except as otherwise provided and regardless of 
 
 Secretary of State responsible for performing functions vested in President under this section, see section 2(a) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out as a note under section 3201 of this title.
 
-### § 3224a. Studies and agreements by Secretary of Energy on multinational or international basis concerning spent fuel storage facilities and transportation systems; congressional consent; authorization of appropriations; limitations on use of funds; exceptions; special nuclear material for India
+### § 3224a. Studies and agreements by Secretary of Energy on multinational or international basis concerning spent fuel storage facilities and transportation systems; congressional consent; authorization of appropriations; limitations on use of funds; exceptions; special nuclear material for India
 
 Department of Energy is hereby authorized to undertake studies, in cooperation with other nations, on a multinational or international basis designed to determine the general feasibility of expanding capacity of existing spent fuel storage facilities; to enter into agreements, subject to the consent of the Congress (by joint or concurrent resolution or legislation hereafter enacted), with other nations or groups of nations, for providing appropriate support to increase international or multinational spent fuel storage capacity; to conduct studies on the feasibility of establishing regional storage sites; and to conduct studies on international transportation and storage systems. For the purpose of carrying out the provisions of this section, there is included in subsection 101(20) of this Act authorization of appropriations in the amount of $20,000,000: *Provided*, That, notwithstanding any other provision of law, that none of the funds made available to the Secretary of Energy under any other authorization or appropriation Act shall be used, directly or indirectly, for the repurchase, transportation or storage of any foreign spent nuclear fuel (including any nuclear fuel irradiated in any nuclear power reactor located outside of the United States and operated by any foreign legal entity, government or nongovernment, regardless of the legal ownership or control of the fuel or the reactor, and regardless of the origin or licensing of the fuel or the reactor, but not including fuel irradiated in a research reactor, and not including fuel irradiated in a power reactor if the President determines that (1) use of funds for repurchase, transportation or storage of such fuel is required by an emergency situation, (2) it is in the interest of the common defense and security of the United States to take such action, and (3) he notifies the Congress of the determination and action, with a detailed explanation and justification thereof, as soon as possible) unless the President formally notifies, with the report information specified herein, the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives of such use of funds thirty calendar days, during such time as either House of Congress is in session, before the commitment, expenditure, or obligation of such funds: *And provided further*, That, notwithstanding any other provision of law, that none of the funds appropriated pursuant to this Act or any other funds made available to the Secretary of Energy under any other authorization or appropriation Act shall be used, directly or indirectly, for the repurchase, transportation, or storage of any such foreign spent nuclear fuel for storage or other disposition, interim or permanent, in the United States, unless the use of the funds for that specific purpose has been (1) previously and expressly authorized by Congress in legislation hereafter enacted, (2) previously and expressly authorized by a concurrent resolution, or (3) the President submits a plan for such use, with the report information specified herein, thirty days during which the Congress is in continuous session, as defined in the Impoundment Control Act of 1974 [2 U.S.C. 681 et seq.], prior to such use and neither House of Congress approves a resolution of disapproval of the plan prior to the expiration of the aforementioned thirty-day period. If such a resolution of disapproval has been introduced, but has not been reported by the Committee on or before the twentieth day after transmission of the Presidential message, a privileged motion shall be in order in the respective body to discharge the Committee from further consideration of the resolution and to provide for its immediate consideration, using the procedures specified for consideration of an impoundment resolution in section 1017 of the Impoundment Control Act of 1974 (31 U.S.C. 1407) [2 U.S.C. 688]. Any report or plan proposed under this proviso shall include information and any supporting documentation thereof relating to policy objectives, technical description and discussion, geographic information, cost data, justification and projections, legal and regulatory considerations, environmental impact information and any related bilateral or international agreements, arrangements or understandings: *And provided further*, That nothing contained in this section shall be construed in any executive branch action, administrative proceeding, regulatory proceeding, or legal proceeding as being intended to delay, modify, or reverse the Memorandum and Order of the Nuclear Regulatory Commission of June 28, 1977, for the issuance of License No. XSNM–845 to the agent-applicant for the Government of India and the subsequent export thereby licensed of the special nuclear material to be used as fuel for the Tarapur Atomic Power Station or any other order of the Nuclear Regulatory Commission to issue a license for the export of special nuclear material and subsequent exports thereby licensed, or any consideration by the Nuclear Regulatory Commission of a license application for the export of special nuclear material.
 
-(Pub. L. 95–238, title I, § 107, Feb. 25, 1978, 92 Stat. 55; Pub. L. 103–437, § 9(c), Nov. 2, 1994, 108 Stat. 4588.)
+(Pub. L. 95–238, title I, § 107, Feb. 25, 1978, 92 Stat. 55; Pub. L. 103–437, § 9(c), Nov. 2, 1994, 108 Stat. 4588.)
 
 **Editorial Notes**
 
@@ -289,7 +289,7 @@ Department of Energy is hereby authorized to undertake studies, in cooperation w
 
 Section 101(20) of this Act, referred to in text, is section 101(20) of Pub. L. 95–238, title I, Feb. 25, 1978, 92 Stat. 48, which authorized appropriations for fuel cycle research and development and which was not classified to the Code. Pub. L. 95–238 is known as the Department of Energy Act of 1978—Civilian Applications.
 
-The Impoundment Control Act of 1974, referred to in text, is parts A and B of title X of Pub. L. 93–344, July 12, 1974, 88 Stat. 332, which is classified principally to subchapters I (§ 681) and II (§ 682 et seq.) of chapter 17B of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 681 of Title 2 and Tables.
+The Impoundment Control Act of 1974, referred to in text, is parts A and B of title X of Pub. L. 93–344, July 12, 1974, 88 Stat. 332, which is classified principally to subchapters I (§ 681) and II (§ 682 et seq.) of chapter 17B of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 681 of Title 2 and Tables.
 
 **Codification**
 
@@ -301,7 +301,7 @@ Section was enacted as part of the Department of Energy Act of 1978—Civilian A
 
 ## SUBCHAPTER II—UNITED STATES INITIATIVES TO STRENGTHEN THE INTERNATIONAL SAFEGUARDS SYSTEM
 
-### § 3241. Congressional declaration of policy
+### § 3241. Congressional declaration of policy
 
 The United States is committed to continued strong support for the principles of the Treaty on the Non-Proliferation of Nuclear Weapons, to a strengthened and more effective International Atomic Energy Agency and to a comprehensive safeguards system administered by the Agency to deter proliferation. Accordingly, the United States shall seek to act with other nations to—
 
@@ -321,7 +321,7 @@ The United States is committed to continued strong support for the principles of
 
 **(e)** encourage the IAEA, to the maximum degree consistent with the Statute, to provide nations which supply nuclear materials and equipment with the data needed to assure such nations of adherence to bilateral commitments applicable to such supply.
 
-(Pub. L. 95–242, title II, § 201, Mar. 10, 1978, 92 Stat. 124.)
+(Pub. L. 95–242, title II, § 201, Mar. 10, 1978, 92 Stat. 124.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -329,11 +329,11 @@ The United States is committed to continued strong support for the principles of
 
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of this title.
 
-### § 3242. Training program
+### § 3242. Training program
 
 The Department of Energy, in consultation with the Commission, shall establish and operate a safeguards and physical security training program to be made available to persons from nations and groups of nations which have developed or acquired, or may be expected to develop or acquire, nuclear materials and equipment for use for peaceful purposes. Any such program shall include training in the most advanced safeguards and physical security techniques and technology, consistent with the national security interests of the United States.
 
-(Pub. L. 95–242, title II, § 202, Mar. 10, 1978, 92 Stat. 124.)
+(Pub. L. 95–242, title II, § 202, Mar. 10, 1978, 92 Stat. 124.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -341,7 +341,7 @@ The Department of Energy, in consultation with the Commission, shall establish a
 
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of this title.
 
-### § 3243. Negotiations
+### § 3243. Negotiations
 
 The United States shall seek to negotiate with other nations and groups of nations to—
 
@@ -349,7 +349,7 @@ The United States shall seek to negotiate with other nations and groups of natio
 
 **(2)** establish international procedures to be followed in the event of diversion, theft, or sabotage of nuclear materials or sabotage of nuclear facilities, and for recovering nuclear materials that have been lost or stolen, or obtained or used by a nation or by any person or group in contravention of the principles of the Treaty.
 
-(Pub. L. 95–242, title II, § 203, Mar. 10, 1978, 92 Stat. 124.)
+(Pub. L. 95–242, title II, § 203, Mar. 10, 1978, 92 Stat. 124.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -357,7 +357,7 @@ The United States shall seek to negotiate with other nations and groups of natio
 
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of this title.
 
-### § 3244. Actions to combat international nuclear terrorism
+### § 3244. Actions to combat international nuclear terrorism
 
 **(a) Actions to be taken by President** The Congress hereby directs the President—
 
@@ -385,7 +385,7 @@ Section effective Mar. 10, 1978, except as otherwise provided and regardless of 
 
 The President shall report to the Congress annually, in the reports required by section 3281 of this title, on the progress made during the preceding year in achieving the objectives described in this section.
 
-(Pub. L. 99–399, title VI, § 601, Aug. 27, 1986, 100 Stat. 874.)
+(Pub. L. 99–399, title VI, § 601, Aug. 27, 1986, 100 Stat. 874.)
 
 **Editorial Notes**
 
@@ -479,11 +479,11 @@ Pub. L. 110–181, div. C, title XXXI, subtitle D, Jan. 28, 2008, 122 Stat. 586,
 
 ## SUBCHAPTER III—UNITED STATES ASSISTANCE TO DEVELOPING COUNTRIES
 
-### § 3261. Congressional declaration of policy; Presidential report to Congress
+### § 3261. Congressional declaration of policy; Presidential report to Congress
 
 The United States shall endeavor to cooperate with other nations, international institutions, and private organizations in establishing programs to assist in the development of non-nuclear energy resources, to cooperate with both developing and industrialized nations in protecting the international environment from contamination arising from both nuclear and non-nuclear energy activities, and shall seek to cooperate with and aid developing countries in meeting their energy needs through the development of such resources and the application of non-nuclear technologies consistent with the economic factors, the material resources of those countries, and environmental protection. The United States shall additionally seek to encourage other industrialized nations and groups of nations to make commitments for similar cooperation and aid to developing countries. The President shall report annually to Congress on the level of other nations’ and groups of nations’ commitments under such program and the relation of any such commitments to United States efforts under this title. In cooperating with and providing such assistance to developing countries, the United States shall give priority to parties to the Treaty.
 
-(Pub. L. 95–242, title V, § 501, Mar. 10, 1978, 92 Stat. 148.)
+(Pub. L. 95–242, title V, § 501, Mar. 10, 1978, 92 Stat. 148.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -501,7 +501,7 @@ For termination, effective May 15, 2000, of provisions in this section requiring
 
 Secretary of State responsible for performing functions vested in President under this section, see section 2(a) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out as a note under section 3201 of this title.
 
-### § 3262. Programs
+### § 3262. Programs
 
 **(a) Energy development programs** The United States shall initiate a program, consistent with the aims of section 3261 of this title, to cooperate with developing countries for the purpose of—
 
@@ -527,19 +527,19 @@ For the purposes of carrying out this section, there is authorized to be appropr
 
 Under the direction of the President, the Secretary of State shall ensure the coordination of the activities authorized by this subchapter with other related activities of the United States conducted abroad, including the programs authorized by sections 2151a(c), 2151d(a)(2),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-and 2151q 1 of this title.
+and 2151q 1 of this title.
 
-(Pub. L. 95–242, title V, § 502, Mar. 10, 1978, 92 Stat. 149.)
+(Pub. L. 95–242, title V, § 502, Mar. 10, 1978, 92 Stat. 149.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2151d(a)(2) of this title, referred to in subsec. (e), which at the time of enactment of this section related to programs to increase energy production and conservation in developing countries, was deleted in the general amendment of section 2151d by Pub. L. 96–53, title I, §§ 104(b), 105, Aug. 14, 1979, 93 Stat. 360, 362. For provisions relating to cooperative programs with developing countries in energy production and conservation, see section 2151d(b)(2) of this title.
+Section 2151d(a)(2) of this title, referred to in subsec. (e), which at the time of enactment of this section related to programs to increase energy production and conservation in developing countries, was deleted in the general amendment of section 2151d by Pub. L. 96–53, title I, §§ 104(b), 105, Aug. 14, 1979, 93 Stat. 360, 362. For provisions relating to cooperative programs with developing countries in energy production and conservation, see section 2151d(b)(2) of this title.
 
-Section 2151q of this title, referred to in subsec. (e), was repealed by Pub. L. 96–533, title III, § 304(g), Dec. 16, 1980, 94 Stat. 3147. See section 2151d(a)(2), (b)(2), (c) of this title.
+Section 2151q of this title, referred to in subsec. (e), was repealed by Pub. L. 96–533, title III, § 304(g), Dec. 16, 1980, 94 Stat. 3147. See section 2151d(a)(2), (b)(2), (c) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -549,11 +549,11 @@ Section effective Mar. 10, 1978, except as otherwise provided and regardless of 
 
 **Feasibility of Expanding Cooperative Activities Into International Cooperative Effort; Presidential Report to Congress Not Later Than March 10, 1979**
 
-Pub. L. 95–242, title V, § 503, Mar. 10, 1978, 92 Stat. 149, directed President, not later than twelve months after Mar. 10, 1978, to report to Congress on feasibility of expanding cooperative activities established pursuant to subsec. (c) of this section into an international cooperative effort to include a scientific peace corps designed to encourage large numbers of technically trained volunteers to live and work in developing countries for varying periods of time for purpose of engaging in projects to aid in meeting the energy needs of such countries through search for and utilization of indigenous energy resources and application of suitable technology, including widespread utilization of renewable and unconventional energy technologies, and to also include in report a discussion of other mechanisms to conduct a coordinated international effort to develop, demonstrate, and encourage utilization of such technologies in developing countries.
+Pub. L. 95–242, title V, § 503, Mar. 10, 1978, 92 Stat. 149, directed President, not later than twelve months after Mar. 10, 1978, to report to Congress on feasibility of expanding cooperative activities established pursuant to subsec. (c) of this section into an international cooperative effort to include a scientific peace corps designed to encourage large numbers of technically trained volunteers to live and work in developing countries for varying periods of time for purpose of engaging in projects to aid in meeting the energy needs of such countries through search for and utilization of indigenous energy resources and application of suitable technology, including widespread utilization of renewable and unconventional energy technologies, and to also include in report a discussion of other mechanisms to conduct a coordinated international effort to develop, demonstrate, and encourage utilization of such technologies in developing countries.
 
 ## SUBCHAPTER IV—EXECUTIVE REPORTING
 
-### § 3281. Annual Presidential report to Congress on governmental efforts to prevent proliferation
+### § 3281. Annual Presidential report to Congress on governmental efforts to prevent proliferation
 
 **(a) Review of Government activities; description of progress; assessment of impact of prog­ress; determinations regarding non-nuclear-weapon states; counterproductiveness of policies** The President shall review all activities of Government departments and agencies relating to preventing proliferation and shall make a report to Congress in January of 1979 and annually in January of each year thereafter on the Government’s efforts to prevent proliferation. This report shall include but not be limited to—
 
@@ -583,9 +583,9 @@ Pub. L. 95–242, title V, § 503, Mar. 10, 1978, 92 Stat. 149, directed Presi
 
 **(4)** an assessment of whether any of the policies set forth in this chapter have, on balance, been counterproductive from the standpoint of preventing proliferation;
 
-**(5)** a description of the progress made toward establishing procedures to facilitate the timely processing of requests for subsequent arrangements and export licenses in order to enhance the reliability of the United States in meeting its commitments to supply nuclear reactors and fuel to nations which adhere to effective non-proliferation policies; 1
+**(5)** a description of the progress made toward establishing procedures to facilitate the timely processing of requests for subsequent arrangements and export licenses in order to enhance the reliability of the United States in meeting its commitments to supply nuclear reactors and fuel to nations which adhere to effective non-proliferation policies; 1
 
-<sup>1</sup>  So in original. Probably should be “; and”.
+<sup>1</sup> So in original. Probably should be “; and”.
 
 **(6)** a description of the implementation of nuclear and nuclear-related dual-use export controls in the preceding calendar year, including a summary by type of commodity and destination of—
 
@@ -615,17 +615,17 @@ Pub. L. 95–242, title V, § 503, Mar. 10, 1978, 92 Stat. 149, directed Presi
 
 **(III)** section 2780(g) of this title with respect to the last sentence of section 2780(d) of this title, or
 
-**(IV)** section 2364 of this title with respect to section 2375 of this title or section 2753(f) of this title, the last sentence of section 2780(d) of this title, or 2799aa–1(b)(1) 2
+**(IV)** section 2364 of this title with respect to section 2375 of this title or section 2753(f) of this title, the last sentence of section 2780(d) of this title, or 2799aa–1(b)(1) 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “section”.
+<sup>2</sup> So in original. Probably should be preceded by “section”.
 
 of this title; and
 
 **(C)** the progress of those independent states of the former Soviet Union that are non-nuclear-weapon states and of the Baltic states towards achieving the objective of applying full scope safeguards to all their peaceful nuclear activities.
 
-Portions of the information required by paragraph (6) may be submitted in classified form, as necessary. Any such information that may not be published or disclosed under section 12(c)(1) 3
+Portions of the information required by paragraph (6) may be submitted in classified form, as necessary. Any such information that may not be published or disclosed under section 12(c)(1) 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 of the Export Administration Act of 1979 shall be submitted as confidential.
 
@@ -633,7 +633,7 @@ of the Export Administration Act of 1979 shall be submitted as confidential.
 
 In the first report required by this section, the President shall analyze each civil agreement for cooperation negotiated pursuant to section 2153 of title 42, and shall discuss the scope and adequacy of the requirements and obligations relating to safeguards and other controls therein.
 
-(Pub. L. 95–242, title VI, § 601, Mar. 10, 1978, 92 Stat. 150; Pub. L. 103–236, title VIII, § 811, Apr. 30, 1994, 108 Stat. 507.)
+(Pub. L. 95–242, title VI, § 601, Mar. 10, 1978, 92 Stat. 150; Pub. L. 103–236, title VIII, § 811, Apr. 30, 1994, 108 Stat. 507.)
 
 **Editorial Notes**
 
@@ -641,7 +641,7 @@ In the first report required by this section, the President shall analyze each c
 
 This chapter, referred to in subsec. (a)(4), was in the original “this Act”, meaning Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, known as the Nuclear Non-Proliferation Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Section 12 of the Act was classified to section 4614 of Title 50 prior to repeal.
+The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Section 12 of the Act was classified to section 4614 of Title 50 prior to repeal.
 
 **Amendments**
 
@@ -667,7 +667,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (a) of this se
 
 For delegation of congressional reporting functions of President under subsec. (a) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
 
-### § 3282. Reports by departments and agencies
+### § 3282. Reports by departments and agencies
 
 **(a) Reports by Nuclear Regulatory Commission and Department of Energy**
 
@@ -699,7 +699,7 @@ Any classified portions of the reports required by this chapter shall be submitt
 
 **(2)** This subsection does not apply to any intradepartmental document of the Department of State or the Department of Energy, or any portion of such document, that is solely concerned with internal, confidential advice on policy concerning the conduct of interagency deliberations on nuclear proliferation matters.
 
-(Pub. L. 95–242, title VI, § 602, Mar. 10, 1978, 92 Stat. 151; Pub. L. 99–661, div. A, title XIII, § 1370, Nov. 14, 1986, 100 Stat. 4004; Pub. L. 103–437, § 9(a)(8), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(e)(6), Oct. 21, 1998, 112 Stat. 2681–775; Pub. L. 106–113, div. B, § 1000(a)(7), [div. B, title XI, § 1131], Nov. 29, 1999, 113 Stat. 1536, 1501A–492.)
+(Pub. L. 95–242, title VI, § 602, Mar. 10, 1978, 92 Stat. 151; Pub. L. 99–661, div. A, title XIII, § 1370, Nov. 14, 1986, 100 Stat. 4004; Pub. L. 103–437, § 9(a)(8), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(e)(6), Oct. 21, 1998, 112 Stat. 2681–775; Pub. L. 106–113, div. B, § 1000(a)(7), [div. B, title XI, § 1131], Nov. 29, 1999, 113 Stat. 1536, 1501A–492.)
 
 **Editorial Notes**
 
@@ -715,15 +715,15 @@ Subsec. (e) directed that, three years after Mar. 10, 1978, the Comptroller Gene
 
 1999—Subsec. (c). Pub. L. 106–113 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Department of State, the Department of Defense, the Department of Commerce, the Department of Energy, and the Commission shall keep the Committees on Foreign Relations and Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives fully and currently informed with respect to their activities to carry out the purposes and policies of this chapter and to otherwise prevent proliferation, and with respect to the current activities of foreign nations which are of significance from the proliferation standpoint.”
 
-1998—Subsec. (c). Pub. L. 105–277, § 1225(e)(6)(A), struck out “the Arms Control and Disarmament Agency,” after “the Department of Defense,”.
+1998—Subsec. (c). Pub. L. 105–277, § 1225(e)(6)(A), struck out “the Arms Control and Disarmament Agency,” after “the Department of Defense,”.
 
-Subsec. (e). Pub. L. 105–277, § 1225(e)(6)(B), struck out “and the Director” after “and the Commission” in subsec. (e), which had previously been omitted from the Code. See Codification note above.
+Subsec. (e). Pub. L. 105–277, § 1225(e)(6)(B), struck out “and the Director” after “and the Commission” in subsec. (e), which had previously been omitted from the Code. See Codification note above.
 
 1994—Subsecs. (c), (d). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations”.
 
-1986—Subsec. (c). Pub. L. 99–661, § 1370(1), inserted “the Department of Defense,”.
+1986—Subsec. (c). Pub. L. 99–661, § 1370(1), inserted “the Department of Defense,”.
 
-Subsec. (f). Pub. L. 99–661, § 1370(2), added subsec. (f).
+Subsec. (f). Pub. L. 99–661, § 1370(2), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -743,7 +743,7 @@ Section effective Mar. 10, 1978, except as otherwise provided and regardless of 
 
 **Provision of Certain Information to Congress**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1134], Nov. 29, 1999, 113 Stat. 1536, 1501A–494, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1134], Nov. 29, 1999, 113 Stat. 1536, 1501A–494, provided that:
 
 > **“(a) Requirement to Provide Information.—** The head of each department and agency described in section 602(c) of the Nuclear Non-Proliferation Act of 1978 (22 U.S.C. 3282(c)) shall promptly provide information to the chairman and ranking minority member of the Committee on Foreign Relations of the Senate and the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives in meeting the requirements of subsection (c) or (d) of section 602 of such Act [22 U.S.C. 3282(c), (d)].
 

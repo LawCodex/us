@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 44—ANTARCTIC CONSERVATION
 
-## § 2401. Congressional findings and declaration of purpose
+## § 2401. Congressional findings and declaration of purpose
 
 **(a) Findings** The Congress finds that—
 
@@ -33,31 +33,31 @@ retrieved: 2026-10-11
 
 The purpose of this chapter is to provide for the conservation and protection of the fauna and flora of Antarctica, and of the ecosystem upon which such fauna and flora depend, consistent with the Antarctic Treaty and the Protocol.
 
-(Pub. L. 95–541, § 2, Oct. 28, 1978, 92 Stat. 2048; Pub. L. 104–227, title I, § 101, Oct. 2, 1996, 110 Stat. 3034.)
+(Pub. L. 95–541, § 2, Oct. 28, 1978, 92 Stat. 2048; Pub. L. 104–227, title I, § 101, Oct. 2, 1996, 110 Stat. 3034.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a)(1) to (3). Pub. L. 104–227, § 101(a)(1), added pars. (1) to (3). Former pars. (1) and (2) redesignated (4) and (5), respectively.
+1996—Subsec. (a)(1) to (3). Pub. L. 104–227, § 101(a)(1), added pars. (1) to (3). Former pars. (1) and (2) redesignated (4) and (5), respectively.
 
-Subsec. (a)(4). Pub. L. 104–227, § 101(a)(1), (2), redesignated par. (1) as (4) and substituted “the Protocol establish a firm foundation for the conservation of Antarctic resources,” for “the Agreed Measures for the Conservation of Antarctic Fauna and Flora, adopted at the Third Antarctic Treaty Consultative Meeting, have established a firm foundation”.
+Subsec. (a)(4). Pub. L. 104–227, § 101(a)(1), (2), redesignated par. (1) as (4) and substituted “the Protocol establish a firm foundation for the conservation of Antarctic resources,” for “the Agreed Measures for the Conservation of Antarctic Fauna and Flora, adopted at the Third Antarctic Treaty Consultative Meeting, have established a firm foundation”.
 
-Subsec. (a)(5). Pub. L. 104–227, § 101(a)(1), (3), redesignated par. (2) as (5) and substituted “the Antarctic Treaty and the Protocol establish international mechanisms and create legal obligations necessary for the maintenance of Antarctica as a natural reserve devoted to peace and science.” for “the study of Antarctic fauna and flora, their adaptation to their rigorous environment, and their interrelationships with that environment has special scientific importance for all mankind.”
+Subsec. (a)(5). Pub. L. 104–227, § 101(a)(1), (3), redesignated par. (2) as (5) and substituted “the Antarctic Treaty and the Protocol establish international mechanisms and create legal obligations necessary for the maintenance of Antarctica as a natural reserve devoted to peace and science.” for “the study of Antarctic fauna and flora, their adaptation to their rigorous environment, and their interrelationships with that environment has special scientific importance for all mankind.”
 
-Subsec. (b). Pub. L. 104–227, § 101(b), substituted “Treaty and the Protocol” for “Treaty, the Agreed Measures for the Conservation of Antarctic Fauna and Flora, and Recommendation VII–3 of the Eighth Antarctic Treaty Consultative Meeting”.
+Subsec. (b). Pub. L. 104–227, § 101(b), substituted “Treaty and the Protocol” for “Treaty, the Agreed Measures for the Conservation of Antarctic Fauna and Flora, and Recommendation VII–3 of the Eighth Antarctic Treaty Consultative Meeting”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–227, § 1, Oct. 2, 1996, 110 Stat. 3034, provided that: “This Act [enacting sections 2403a and 2413 of this title, amending this section, sections 2402 to 2405, and 2463 of this title, and sections 1901 to 1903, 1905, 1907, and 1908 of Title 33, Navigation and Navigable Waters, and repealing sections 2464 and 2466 of this title] may be cited as the ‘Antarctic Science, Tourism, and Conservation Act of 1996’.”
+Pub. L. 104–227, § 1, Oct. 2, 1996, 110 Stat. 3034, provided that: “This Act [enacting sections 2403a and 2413 of this title, amending this section, sections 2402 to 2405, and 2463 of this title, and sections 1901 to 1903, 1905, 1907, and 1908 of Title 33, Navigation and Navigable Waters, and repealing sections 2464 and 2466 of this title] may be cited as the ‘Antarctic Science, Tourism, and Conservation Act of 1996’.”
 
 **Short Title**
 
-Pub. L. 95–541, § 1, Oct. 28, 1978, 92 Stat. 2048, provided: “That this Act [enacting this chapter, amending section 1971 of Title 22, Foreign Relations and Intercourse, and enacting a provision set out as a note under section 1971 of Title 22] may be cited as the ‘Antarctic Conservation Act of 1978’.”
+Pub. L. 95–541, § 1, Oct. 28, 1978, 92 Stat. 2048, provided: “That this Act [enacting this chapter, amending section 1971 of Title 22, Foreign Relations and Intercourse, and enacting a provision set out as a note under section 1971 of Title 22] may be cited as the ‘Antarctic Conservation Act of 1978’.”
 
-## § 2402. Definitions
+## § 2402. Definitions
 
 For purposes of this chapter—
 
@@ -119,7 +119,7 @@ For purposes of this chapter—
 
 **(23)** the term “vessel subject to the jurisdiction of the United States” includes any “vessel of the United States” and any “vessel subject to the jurisdiction of the United States” as those terms are defined in section 2432 of this title.
 
-(Pub. L. 95–541, § 3, Oct. 28, 1978, 92 Stat. 2048; Pub. L. 104–227, title I, § 102, Oct. 2, 1996, 110 Stat. 3035.)
+(Pub. L. 95–541, § 3, Oct. 28, 1978, 92 Stat. 2048; Pub. L. 104–227, title I, § 102, Oct. 2, 1996, 110 Stat. 3035.)
 
 **Editorial Notes**
 
@@ -133,7 +133,7 @@ For purposes of this chapter—
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-## § 2403. Prohibited acts
+## § 2403. Prohibited acts
 
 **(a) In general** It is unlawful for any person—
 
@@ -183,19 +183,19 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 No act described in subsection (a)(1), (2), (3), (4), (5), (7), (12), or (13) or in subsection (b) shall be unlawful if the person committing the act reasonably believed that the act was committed under emergency circumstances involving the safety of human life or of ships, aircraft, or equipment or facilities of high value, or the protection of the environment.
 
-(Pub. L. 95–541, § 4, Oct. 28, 1978, 92 Stat. 2049; Pub. L. 104–227, title I, § 103, Oct. 2, 1996, 110 Stat. 3036.)
+(Pub. L. 95–541, § 4, Oct. 28, 1978, 92 Stat. 2049; Pub. L. 104–227, title I, § 103, Oct. 2, 1996, 110 Stat. 3036.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Act to Prevent Pollution from Ships, referred to in subsecs. (a)(5) and (b)(1), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 33 and Tables.
+The Act to Prevent Pollution from Ships, referred to in subsecs. (a)(5) and (b)(1), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 33 and Tables.
 
 **Amendments**
 
 1996—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsec. (a) “In General”, which set forth unlawful acts in pars. (1) to (4) and provided that such acts would not be unlawful if committed under emergency circumstances to prevent the loss of human life, and subsec. (b) “Exception”, which provided that subsec. (a) would not apply with respect to any native mammal, native bird, or native plant held in captivity or to any offspring of such mammal, bird, or plant.
 
-## § 2403a. Environmental impact assessment
+## § 2403a. Environmental impact assessment
 
 **(a) Federal activities**
 
@@ -267,15 +267,15 @@ The provisions of this section requiring environmental impact assessments (inclu
 
 Whenever the Secretary of State makes a determination under paragraph (2) of subsection (b) of this section, or receives a draft comprehensive environmental evaluation in accordance with Annex I, Article 3(3) to the Protocol, the Secretary of State shall cause timely notice thereof to be published in the Federal Register.
 
-(Pub. L. 95–541, § 4A, as added Pub. L. 104–227, title I, § 104, Oct. 2, 1996, 110 Stat. 3038.)
+(Pub. L. 95–541, § 4A, as added Pub. L. 104–227, title I, § 104, Oct. 2, 1996, 110 Stat. 3038.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-## § 2404. Permits
+## § 2404. Permits
 
 **(a) In general**
 
@@ -291,9 +291,9 @@ The Director may issue permits which authorize acts otherwise prohibited by sect
 
 **(1)** If the Director receives an application for a permit under this section requesting authority to undertake any action with respect to—
 
-**(A)** any native mammal which is a marine mammal within the meaning of section 1362(5) 1
+**(A)** any native mammal which is a marine mammal within the meaning of section 1362(5) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title;
 
@@ -311,7 +311,7 @@ the Director shall submit a copy of the application to the Secretary of Commerce
 
 As soon as practicable after receiving any application for a permit under this section, or, in the case of any application to which subsection (c) applies, as soon as practicable after the applicable requirements of such subsection are complied with, the Director shall issue, or deny the issuance of, the permit. Within 10 days after the date of the issuance or denial of a permit under this subsection, the Director shall publish notice of the issuance or denial in the Federal Register.
 
-**(e) 2 [footnote: 2 So in original. Two subsecs. (e) have been enacted.] Terms and conditions of permits**
+**(e) 2 [footnote: 2 So in original. Two subsecs. (e) have been enacted.] Terms and conditions of permits**
 
 **(1)** Each permit issued under this section shall—
 
@@ -381,35 +381,35 @@ Any applicant for a permit may obtain judicial review of the terms and condition
 
 The Director may establish and charge fees for processing applications for permits under this section. The amount of such fees shall be commensurate with the administrative costs incurred by the Director in undertaking such processing.
 
-(Pub. L. 95–541, § 5, Oct. 28, 1978, 92 Stat. 2050; Pub. L. 104–227, title I, § 105, Oct. 2, 1996, 110 Stat. 3040.)
+(Pub. L. 95–541, § 5, Oct. 28, 1978, 92 Stat. 2050; Pub. L. 104–227, title I, § 105, Oct. 2, 1996, 110 Stat. 3040.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1362(5) of this title, referred to in subsec. (c)(1)(A), was redesignated section 1362(6) by Pub. L. 102–582, title IV, § 401(a), Nov. 2, 1992, 106 Stat. 4909.
+Section 1362(5) of this title, referred to in subsec. (c)(1)(A), was redesignated section 1362(6) by Pub. L. 102–582, title IV, § 401(a), Nov. 2, 1992, 106 Stat. 4909.
 
-The Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), referred to in subsec. (c)(1)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), referred to in subsec. (c)(1)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Migratory Bird Treaty Act (16 U.S.C. 701 et seq.), referred to in subsec. (c)(1)(C), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
+The Migratory Bird Treaty Act (16 U.S.C. 701 et seq.), referred to in subsec. (c)(1)(C), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–227, § 105(1), substituted “section 2403(b)” for “section 2403(a)”.
+1996—Subsec. (a). Pub. L. 104–227, § 105(1), substituted “section 2403(b)” for “section 2403(a)”.
 
-Subsec. (c)(1)(B). Pub. L. 104–227, § 105(2), substituted “Species” for “Special”.
+Subsec. (c)(1)(B). Pub. L. 104–227, § 105(2), substituted “Species” for “Special”.
 
-Subsec. (e)(1)(A). Pub. L. 104–227, § 105(3)(A), (B), in subsec. (e) relating to terms and conditions of permits substituted “native plants, or native invertebrates to which the permit applies, and” for “or native plants to which the permit applies,” in cl. (i), added cl. (ii), and struck out former cls. (ii) and (iii) which read as follows:
+Subsec. (e)(1)(A). Pub. L. 104–227, § 105(3)(A), (B), in subsec. (e) relating to terms and conditions of permits substituted “native plants, or native invertebrates to which the permit applies, and” for “or native plants to which the permit applies,” in cl. (i), added cl. (ii), and struck out former cls. (ii) and (iii) which read as follows:
 
 “(ii) if any such mammal or bird is authorized to be taken, transported, carried, or shipped, the manner (which manner must be determined by the Director to be humane) in which such action must be accomplished and the area in which such taking must occur, and
 
 “(iii) if any such plant is authorized to be collected, the location and manner in which it must be collected;”.
 
-Subsec. (e)(2)(A). Pub. L. 104–227, § 105(3)(C)–(G), in subsec. (e) relating to terms and conditions of permits substituted “or harmful interference within Antarctica” for “within Antarctica (other than within any specially protected area)” and “Specially Protected Species” for “specially protected species” in introductory provisions, substituted “, or” for “; and” in cl. (i)(II), added subcl. (III) in cl. (i), and substituted “within Antarctica are” for “with Antarctica and” in cl. (ii)(II).
+Subsec. (e)(2)(A). Pub. L. 104–227, § 105(3)(C)–(G), in subsec. (e) relating to terms and conditions of permits substituted “or harmful interference within Antarctica” for “within Antarctica (other than within any specially protected area)” and “Specially Protected Species” for “specially protected species” in introductory provisions, substituted “, or” for “; and” in cl. (i)(II), added subcl. (III) in cl. (i), and substituted “within Antarctica are” for “with Antarctica and” in cl. (ii)(II).
 
-Subsec. (e)(2)(B). Pub. L. 104–227, § 105(3)(D), in subsec. (e) relating to terms and conditions of permits substituted “Specially Protected Species” for “specially protected species” in introductory provisions.
+Subsec. (e)(2)(B). Pub. L. 104–227, § 105(3)(D), in subsec. (e) relating to terms and conditions of permits substituted “Specially Protected Species” for “specially protected species” in introductory provisions.
 
-Subsec. (e)(2)(C), (D). Pub. L. 104–227, § 105(3)(H), in subsec. (e) relating to terms and conditions of permits added subpar. (C) and struck out former subpars. (C) and (D) which read as follows:
+Subsec. (e)(2)(C), (D). Pub. L. 104–227, § 105(3)(H), in subsec. (e) relating to terms and conditions of permits added subpar. (C) and struck out former subpars. (C) and (D) which read as follows:
 
 “(C) Permits authorizing the entry into any specially protected area—
 
@@ -423,7 +423,7 @@ Subsec. (e)(2)(C), (D). Pub. L. 104–227, § 105(3)(H), in subsec. (e) relati
 
 “(D) Permits authorizing the entry into any site of special scientific interest shall be consistent with the management plan prescribed under section 2405(b)(3) of this title for such site.”
 
-## § 2405. Regulations
+## § 2405. Regulations
 
 **(a) Regulations to be issued by Director**
 
@@ -451,13 +451,13 @@ The Secretary of the Department in which the Coast Guard is operating shall issu
 
 The regulations to be issued under subsection (a)(1) and (2) of this section shall be issued within 2 years after October 2, 1996. The regulations to be issued under subsection (a)(3) of this section shall be issued within 3 years after October 2, 1996.
 
-(Pub. L. 95–541, § 6, Oct. 28, 1978, 92 Stat. 2053; Pub. L. 104–227, title I, § 106, Oct. 2, 1996, 110 Stat. 3041.)
+(Pub. L. 95–541, § 6, Oct. 28, 1978, 92 Stat. 2053; Pub. L. 104–227, title I, § 106, Oct. 2, 1996, 110 Stat. 3041.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Act to Prevent Pollution from Ships, referred to in subsec. (b), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 33 and Tables.
+The Act to Prevent Pollution from Ships, referred to in subsec. (b), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 33 and Tables.
 
 **Amendments**
 
@@ -469,13 +469,13 @@ The Act to Prevent Pollution from Ships, referred to in subsec. (b), is Pub. L. 
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 2406. Notification of travel to Antarctica
+## § 2406. Notification of travel to Antarctica
 
 The Secretary of State shall prescribe such regulations as may be necessary and appropriate to implement, with respect to United States citizens, paragraph 5 of Article VII of the Treaty pertaining to the filing of advance notifications of expeditions to, and within, Antarctica. For purposes of this section, the term “United States citizen” shall include any foreign person who organizes within the United States any expedition which will proceed to Antarctica from the United States.
 
-(Pub. L. 95–541, § 7, Oct. 28, 1978, 92 Stat. 2054.)
+(Pub. L. 95–541, § 7, Oct. 28, 1978, 92 Stat. 2054.)
 
-## § 2407. Civil penalties
+## § 2407. Civil penalties
 
 **(a) Assessment of penalties**
 
@@ -493,19 +493,19 @@ Upon the failure of any person against whom a civil penalty is assessed under su
 
 The assessment of a civil penalty under subsection (a) for any act shall not be deemed to preclude the assessment of a civil penalty for such act under any other law, including, but not limited to, the Marine Mammal Protection Act of 1972 [16 U.S.C. 1361 et seq.], the Endangered Species Act of 1973 [16 U.S.C. 1531 et seq.], and the Migratory Bird Treaty Act [16 U.S.C. 703 et seq.].
 
-(Pub. L. 95–541, § 8, Oct. 28, 1978, 92 Stat. 2054.)
+(Pub. L. 95–541, § 8, Oct. 28, 1978, 92 Stat. 2054.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Marine Mammal Protection Act of 1972, referred to in subsec. (d), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (d), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (d), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (d), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Migratory Bird Treaty Act, referred to in subsec. (d), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
+The Migratory Bird Treaty Act, referred to in subsec. (d), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
-## § 2408. Criminal offenses
+## § 2408. Criminal offenses
 
 **(a) Offenses**
 
@@ -519,25 +519,25 @@ Any offense described in subsection (a) is punishable by a fine of $10,000, or i
 
 A conviction under subsection (a) for any act shall not be deemed to preclude a conviction for such act under any other law, including, but not limited to, the Marine Mammal Protection Act of 1972 [16 U.S.C. 1361 et seq.], the Endangered Species Act of 1973 [16 U.S.C. 1531 et seq.], and the Migratory Bird Treaty Act [16 U.S.C. 703 et seq.].
 
-(Pub. L. 95–541, § 9, Oct. 28, 1978, 92 Stat. 2054.)
+(Pub. L. 95–541, § 9, Oct. 28, 1978, 92 Stat. 2054.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Marine Mammal Protection Act of 1972, referred to in subsec. (c), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (c), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (c), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (c), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Migratory Bird Treaty Act, referred to in subsec. (c), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
+The Migratory Bird Treaty Act, referred to in subsec. (c), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
-## § 2409. Enforcement
+## § 2409. Enforcement
 
 **(a) Responsibility**
 
-The provisions of this chapter and of any regulation prescribed, or permit issued, under this chapter shall be enforced by the Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of 1
+The provisions of this chapter and of any regulation prescribed, or permit issued, under this chapter shall be enforced by the Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of 1
 
-<sup>1</sup>  So in original. Probably should be “of the”.
+<sup>1</sup> So in original. Probably should be “of the”.
 
 Interior, and the Secretary of the department in which the Coast Guard is operating. The Director and such Secretaries may utilize by agreement, on a reimbursable basis or otherwise, the personnel, services, and facilities of any other Federal agency or any State agency in the performance of such duties.
 
@@ -577,7 +577,7 @@ All provisions of law relating to the seizure, forfeiture, and condemnation of a
 
 The Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of the Interior, and the Secretary of the department in which the Coast Guard is operating may prescribe such regulations as may be appropriate to enforce the provisions of this chapter and of any regulation prescribed or permit issued under this chapter, and charge reasonable fees for the expenses of the United States incurred in carrying out inspections and in transferring, boarding, handling, or storing native mammals, native birds, native plants, animals and plants not indigenous to Antarctica, and other evidentiary items seized or forfeited under this chapter.
 
-(Pub. L. 95–541, § 10, Oct. 28, 1978, 92 Stat. 2055.)
+(Pub. L. 95–541, § 10, Oct. 28, 1978, 92 Stat. 2055.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -587,25 +587,25 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 2410. Jurisdiction of district courts
+## § 2410. Jurisdiction of district courts
 
 The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter or of any regulation prescribed, or permit issued, under this chapter.
 
-(Pub. L. 95–541, § 11, Oct. 28, 1978, 92 Stat. 2056.)
+(Pub. L. 95–541, § 11, Oct. 28, 1978, 92 Stat. 2056.)
 
-## § 2411. Federal agency cooperation
+## § 2411. Federal agency cooperation
 
 Each Federal department or agency whose activities affect Antarctica shall utilize, to the maximum extent practicable, its authorities in furtherance of the purposes of this chapter, and shall cooperate with the Director in carrying out the purposes of this chapter.
 
-(Pub. L. 95–541, § 12, Oct. 28, 1978, 92 Stat. 2056.)
+(Pub. L. 95–541, § 12, Oct. 28, 1978, 92 Stat. 2056.)
 
-## § 2412. Relationship to existing treaties
+## § 2412. Relationship to existing treaties
 
 Nothing in this chapter shall be construed as contravening or superseding the provisions of any international treaty, convention, or agreement, if such treaty, convention, or agreement is in force with respect to the United States on October 28, 1978, or of any statute which implements any such treaty, convention, or agreement.
 
-(Pub. L. 95–541, § 13, Oct. 28, 1978, 92 Stat. 2056.)
+(Pub. L. 95–541, § 13, Oct. 28, 1978, 92 Stat. 2056.)
 
-## § 2413. Saving provisions
+## § 2413. Saving provisions
 
 **(a) Regulations**
 
@@ -615,7 +615,7 @@ All regulations promulgated under this chapter prior to October 2, 1996, shall r
 
 All permits issued under this chapter shall remain in effect until they expire in accordance with the terms of those permits.
 
-(Pub. L. 95–541, § 14, as added Pub. L. 104–227, title I, § 107, Oct. 2, 1996, 110 Stat. 3042.)
+(Pub. L. 95–541, § 14, as added Pub. L. 104–227, title I, § 107, Oct. 2, 1996, 110 Stat. 3042.)
 
 **Editorial Notes**
 

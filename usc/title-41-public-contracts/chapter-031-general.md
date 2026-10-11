@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Cost-Effectiveness Analysis of Equipment Rental**
 
-Pub. L. 115–254, div. B, title V, § 555, Oct. 5, 2018, 132 Stat. 3381, as amended by Pub. L. 117–81, div. A, title XVII, § 1702(i)(1), Dec. 27, 2021, 135 Stat. 2159, provided that:
+Pub. L. 115–254, div. B, title V, § 555, Oct. 5, 2018, 132 Stat. 3381, as amended by Pub. L. 117–81, div. A, title XVII, § 1702(i)(1), Dec. 27, 2021, 135 Stat. 2159, provided that:
 
 > **“(a) Agency Analysis of Equipment Acquisition.—**
 
@@ -61,7 +61,7 @@ Pub. L. 115–254, div. B, title V, § 555, Oct. 5, 2018, 132 Stat. 3381, as a
 
 **Uniform Contract Writing System Requirements**
 
-Pub. L. 112–239, div. A, title VIII, § 862, Jan. 2, 2013, 126 Stat. 1859, provided that:
+Pub. L. 112–239, div. A, title VIII, § 862, Jan. 2, 2013, 126 Stat. 1859, provided that:
 
 > **“(a) Uniform Standards and Controls Required.—** Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the officials specified in subsection (b) shall—
 
@@ -99,7 +99,7 @@ Pub. L. 112–239, div. A, title VIII, § 862, Jan. 2, 2013, 126 Stat. 1859, p
 
 > **“(2)** The term ‘executive agency’ has the meaning given that term in section 133 of title 41, United States Code.”
 
-## § 3101. Applicability
+## § 3101. Applicability
 
 **(a) In General.—** An executive agency shall make purchases and contracts for property and services in accordance with this division and implementing regulations of the Administrator of General Services.
 
@@ -123,18 +123,18 @@ Pub. L. 112–239, div. A, title VIII, § 862, Jan. 2, 2013, 126 Stat. 1859, p
 
 **(2) Applicability of certain laws related to advertising, opening of bids, and length of contract.—** Sections 6101, 6103, and 6304 of this title do not apply to the procurement of property or services made by an executive agency pursuant to this division. However, when this division is made inapplicable by any law, sections 6101 and 6103 of this title apply in the absence of authority conferred by statute to procure without advertising or without regard to section 6101 of this title. A law that authorizes an executive agency (other than an executive agency exempted from this division by this subsection) to procure property or services without advertising or without regard to section 6101 of this title is deemed to authorize the procurement pursuant to the provisions of this division relating to procedures other than sealed-bid procedures.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3742.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3742.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3101(a) | 41:252(a) (words before 1st semicolon). | June 30, 1949, ch. 288, title III, § 302(a), 63 Stat. 393; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 85–800, § 1, Aug. 28, 1958, 72 Stat. 966; Pub. L. 89–343, § 1, Nov. 8, 1965, 79 Stat. 1303. |
-| 3101(b)(1) | 41:252a. | June 30, 1949, ch. 288, title III, § 302A, as added Pub. L. 103–355, title IV, §§ 4003, 4103(a), Oct. 13, 1994, 108 Stat. 3338, 3341. |
-| 3101(b)(2) | 41:252b. | June 30, 1949, ch. 288, title III, § 302B, as added Pub. L. 103–355, title IV, § 4203(b), Oct. 13, 1994, 108 Stat. 3346. |
+| 3101(a) | 41:252(a) (words before 1st semicolon). | June 30, 1949, ch. 288, title III, § 302(a), 63 Stat. 393; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 85–800, § 1, Aug. 28, 1958, 72 Stat. 966; Pub. L. 89–343, § 1, Nov. 8, 1965, 79 Stat. 1303. |
+| 3101(b)(1) | 41:252a. | June 30, 1949, ch. 288, title III, § 302A, as added Pub. L. 103–355, title IV, §§ 4003, 4103(a), Oct. 13, 1994, 108 Stat. 3338, 3341. |
+| 3101(b)(2) | 41:252b. | June 30, 1949, ch. 288, title III, § 302B, as added Pub. L. 103–355, title IV, § 4203(b), Oct. 13, 1994, 108 Stat. 3346. |
 | 3101(c)(1) | 41:252(a) (words after 1st semicolon and before “but when”). |  |
 | 3101(c)(2) | 41:252(a) (words after “other law”). |  |
-|  | 41:260. | June 30, 1949, ch. 288, title III, § 310, 63 Stat. 397; July 12, 1952, ch. 703, § 1(m), (n), 66 Stat. 594; Pub. L. 85–800, § 6, Aug. 28, 1958, 72 Stat. 967; Pub. L. 89–343, § 5, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 98–369, div. B, title VII, § 2714(a)(6), July 18, 1984, 98 Stat. 1185. |
+|  | 41:260. | June 30, 1949, ch. 288, title III, § 310, 63 Stat. 397; July 12, 1952, ch. 703, § 1(m), (n), 66 Stat. 594; Pub. L. 85–800, § 6, Aug. 28, 1958, 72 Stat. 967; Pub. L. 89–343, § 5, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 98–369, div. B, title VII, § 2714(a)(6), July 18, 1984, 98 Stat. 1185. |
 
 In subsection (c)(1)(B), the words “except as provided in paragraph (2)” are added for clarity. The words “section 113(e) of title 40 or any other” are omitted as unnecessary.
 
@@ -300,7 +300,7 @@ Barack Obama.
 
 **Executive Order No. 13673**
 
-Ex. Ord. No. 13673, July 31, 2014, 79 F.R. 45309, as amended by Ex. Ord. No. 13683, § 3, Dec. 11, 2014, 79 F.R. 75042; Ex. Ord. No. 13738, Aug. 23, 2016, 81 F.R. 58807, which related to compliance with labor laws by Federal contractors, was revoked by Ex. Ord. No. 13782, § 1, Mar. 27, 2017, 82 F.R. 15607, set out below.
+Ex. Ord. No. 13673, July 31, 2014, 79 F.R. 45309, as amended by Ex. Ord. No. 13683, § 3, Dec. 11, 2014, 79 F.R. 75042; Ex. Ord. No. 13738, Aug. 23, 2016, 81 F.R. 58807, which related to compliance with labor laws by Federal contractors, was revoked by Ex. Ord. No. 13782, § 1, Mar. 27, 2017, 82 F.R. 15607, set out below.
 
 **Ex. Ord. No. 13782. Revocation of Federal Contracting Executive Orders**
 
@@ -364,7 +364,7 @@ The Director of OMB is hereby authorized and directed to publish this memorandum
 
 Barack Obama.
 
-## § 3102. Delegation and assignment of powers, functions, and responsibilities
+## § 3102. Delegation and assignment of powers, functions, and responsibilities
 
 **(a) In General.—** Except to the extent expressly prohibited by another law, the head of an executive agency may delegate to another officer or official of that agency any power under this division.
 
@@ -376,15 +376,15 @@ Barack Obama.
 
 **(3)** the heads of 2 or more executive agencies may establish joint or combined offices to exercise procurement functions and responsibilities.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3743.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3743.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3102 | 41:261. | June 30, 1949, ch. 288, title III, § 311, as added Pub. L. 103–355, title I, § 1552, Oct. 13, 1994, 108 Stat. 3299. |
+| 3102 | 41:261. | June 30, 1949, ch. 288, title III, § 311, as added Pub. L. 103–355, title I, § 1552, Oct. 13, 1994, 108 Stat. 3299. |
 
-## § 3103. Acquisition programs
+## § 3103. Acquisition programs
 
 **(a) Congressional Policy.—** It is the policy of Congress that the head of each executive agency should achieve, on average, 90 percent of the cost, performance, and schedule goals established for major acquisition programs of the agency.
 
@@ -400,29 +400,29 @@ Barack Obama.
 
 **(2)** identify suitable actions to be taken, including termination, with respect to those programs.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3743.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3743.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3103 | 41:263. | June 30, 1949, ch. 288, title III, § 313, as added Pub. L. 103–355, title V, § 5051(a), Oct. 13, 1994, 108 Stat. 3351; Pub. L. 105–85, div. A, title VIII, § 851(a), Nov. 18, 1997, 111 Stat. 1851. |
+| 3103 | 41:263. | June 30, 1949, ch. 288, title III, § 313, as added Pub. L. 103–355, title V, § 5051(a), Oct. 13, 1994, 108 Stat. 3351; Pub. L. 105–85, div. A, title VIII, § 851(a), Nov. 18, 1997, 111 Stat. 1851. |
 
-## § 3104. Small business concerns
+## § 3104. Small business concerns
 
 It is the policy of Congress that a fair proportion of the total purchases and contracts for property and services for the Federal Government shall be placed with small business concerns.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3744.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3744.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3104 | 41:252(b). | June 30, 1949, ch. 288, title III, § 302(b), 63 Stat. 393; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 98–369, div. B, title VII, § 2714(a)(1)(A), July 18, 1984, 98 Stat. 1184. |
+| 3104 | 41:252(b). | June 30, 1949, ch. 288, title III, § 302(b), 63 Stat. 393; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 98–369, div. B, title VII, § 2714(a)(1)(A), July 18, 1984, 98 Stat. 1184. |
 
 The word “declared” is omitted as unnecessary.
 
-## § 3105. New contracts and grants and merit-based selection procedures
+## § 3105. New contracts and grants and merit-based selection procedures
 
 **(a) Congressional Policy.—** It is the policy of Congress that—
 
@@ -450,14 +450,14 @@ The word “declared” is omitted as unnecessary.
 
 **(d) Exception.—** This section does not apply to a contract or grant that calls on the National Academy of Sciences to investigate, examine, or experiment on a subject of science or art of significance to an executive agency and to report on those matters to Congress or an agency of the Federal Government.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3744.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3744.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3105(a) | 41:253(i)(1). | June 30, 1949, ch. 288, title III, § 303(i), as added Pub. L. 103–355, title VII, § 7203(b)(1)(B), Oct. 13, 1994, 108 Stat. 3380; Pub. L. 104–106, title XLI, § 4101(b)(1), Feb. 10, 1996, 110 Stat. 642. |
-|  | 41:266(a). | June 30, 1949, ch. 288, title III, § 316, as added Pub. L. 103–355, title VII, § 7203(b)(2), Oct. 13, 1994, 108 Stat. 3381; Pub. L. 104–106, title XLIII, § 4321(e)(9), Feb. 10, 1996, 110 Stat. 675. |
+| 3105(a) | 41:253(i)(1). | June 30, 1949, ch. 288, title III, § 303(i), as added Pub. L. 103–355, title VII, § 7203(b)(1)(B), Oct. 13, 1994, 108 Stat. 3380; Pub. L. 104–106, title XLI, § 4101(b)(1), Feb. 10, 1996, 110 Stat. 642. |
+|  | 41:266(a). | June 30, 1949, ch. 288, title III, § 316, as added Pub. L. 103–355, title VII, § 7203(b)(2), Oct. 13, 1994, 108 Stat. 3381; Pub. L. 104–106, title XLIII, § 4321(e)(9), Feb. 10, 1996, 110 Stat. 675. |
 | 3105(b) | 41:253(i)(3). |  |
 |  | 41:266(c). |  |
 | 3105(c) | 41:253(i)(2). |  |
@@ -465,7 +465,7 @@ The word “declared” is omitted as unnecessary.
 | 3105(d) | 41:253(i)(4). |  |
 |  | 41:266(d). |  |
 
-## § 3106. Erection, repair, or furnishing of public buildings and improvements not authorized, and certain contracts not permitted, by this division
+## § 3106. Erection, repair, or furnishing of public buildings and improvements not authorized, and certain contracts not permitted, by this division
 
 This division does not—
 
@@ -473,12 +473,12 @@ This division does not—
 
 **(2)** permit a contract for the construction or repair of a building, road, sidewalk, sewer, main, or similar item using procedures other than sealed-bid procedures under section 3301(b)(1)(A) of this title if the conditions set forth in section 3301(b)(1)(A) of this title apply or the contract is to be performed outside the United States.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3745.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3745.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3106 | 41:252(c)(1). | June 30, 1949, ch. 288, title III, § 302(c)(1), 63 Stat. 393; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 85–800, §§ 2, 3, Aug. 28, 1958, 72 Stat. 966; Pub. L. 89–343, § 2, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 89–348, § 1(2), Nov. 8, 1965, 79 Stat. 1310; Pub. L. 90–268, § 4, Mar. 16, 1968, 82 Stat. 50; Pub. L. 93–356, § 3, July 25, 1974, 88 Stat. 390; Pub. L. 98–191, § 9(a)(1), Dec. 1, 1983, 97 Stat. 1331; Pub. L. 98–369, div. B, title VII, § 2714(a)(1)(B), July 18, 1984, 98 Stat. 1184. |
+| 3106 | 41:252(c)(1). | June 30, 1949, ch. 288, title III, § 302(c)(1), 63 Stat. 393; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 85–800, §§ 2, 3, Aug. 28, 1958, 72 Stat. 966; Pub. L. 89–343, § 2, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 89–348, § 1(2), Nov. 8, 1965, 79 Stat. 1310; Pub. L. 90–268, § 4, Mar. 16, 1968, 82 Stat. 50; Pub. L. 93–356, § 3, July 25, 1974, 88 Stat. 390; Pub. L. 98–191, § 9(a)(1), Dec. 1, 1983, 97 Stat. 1331; Pub. L. 98–369, div. B, title VII, § 2714(a)(1)(B), July 18, 1984, 98 Stat. 1184. |
 
 In paragraph (1), the words “but such authorization shall be required in the same manner as heretofore” are omitted as unnecessary.

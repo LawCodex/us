@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 23—DEVELOPMENT OF TRIBAL MINERAL RESOURCES
 
-## § 2101. Definitions
+## § 2101. Definitions
 
 For the purposes of this chapter, the term—
 
@@ -25,15 +25,15 @@ For the purposes of this chapter, the term—
 
 **(3)** “Secretary” means the Secretary of the Interior.
 
-(Pub. L. 97–382, § 2, Dec. 22, 1982, 96 Stat. 1938.)
+(Pub. L. 97–382, § 2, Dec. 22, 1982, 96 Stat. 1938.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 97–382, § 1, Dec. 22, 1982, 96 Stat. 1938, provided: “That this Act [enacting this chapter] may be cited as the ‘Indian Mineral Development Act of 1982’.”
+Pub. L. 97–382, § 1, Dec. 22, 1982, 96 Stat. 1938, provided: “That this Act [enacting this chapter] may be cited as the ‘Indian Mineral Development Act of 1982’.”
 
-## § 2102. Minerals Agreements
+## § 2102. Minerals Agreements
 
 **(a) Authorization for tribes; approval by Secretary**
 
@@ -43,9 +43,9 @@ Any Indian tribe, subject to the approval of the Secretary and any limitation or
 
 Any Indian owning a beneficial or restricted interest in mineral resources may include such resources in a tribal Minerals Agreement subject to the concurrence of the parties and a finding by the Secretary that such participation is in the best interest of the Indian.
 
-(Pub. L. 97–382, § 3, Dec. 22, 1982, 96 Stat. 1938.)
+(Pub. L. 97–382, § 3, Dec. 22, 1982, 96 Stat. 1938.)
 
-## § 2103. Secretary’s determination on Minerals Agreements
+## § 2103. Secretary’s determination on Minerals Agreements
 
 **(a) Time; enforcement**
 
@@ -67,9 +67,9 @@ The authority to disapprove agreements under this section may only be delegated 
 
 Where the Secretary has approved a Minerals Agreement in compliance with the provisions of this chapter and any other applicable provision of law, the United States shall not be liable for losses sustained by a tribe or individual Indian under such agreement: *Provided*, That the Secretary shall continue to have a trust obligation to ensure that the rights of a tribe or individual Indian are protected in the event of a violation of the terms of any Minerals Agreement by any other party to such agreement: *Provided further*, That nothing in this chapter shall absolve the United States from any responsibility to Indians, including those which derive from the trust relationship and from any treaties, Executive orders, or agreement between the United States and any Indian tribe.
 
-(Pub. L. 97–382, § 4, Dec. 22, 1982, 96 Stat. 1938.)
+(Pub. L. 97–382, § 4, Dec. 22, 1982, 96 Stat. 1938.)
 
-## § 2104. Secretary’s review of prior Minerals Agreements
+## § 2104. Secretary’s review of prior Minerals Agreements
 
 **(a) Time; criteria; notice of modifications; time for compliance; effect of noncompliance**
 
@@ -79,34 +79,34 @@ The Secretary shall review, within ninety days of December 22, 1982, any existin
 
 The review required by subsection (a) of this section may be performed prior to the promulgation of regulations required under section 2107 of this title and shall not be considered a Federal action within the meaning of that term in section 4332(2)(C) of title 42.
 
-(Pub. L. 97–382, § 5, Dec. 22, 1982, 96 Stat. 1939.)
+(Pub. L. 97–382, § 5, Dec. 22, 1982, 96 Stat. 1939.)
 
-## § 2105. Effect of other provisions
+## § 2105. Effect of other provisions
 
 Nothing in this chapter shall affect, nor shall any Minerals Agreement approved pursuant to this chapter be subject to or limited by, sections 396a to 396g of this title, or any other law authorizing the development or disposition of the mineral resources of an Indian or Indian tribe.
 
-(Pub. L. 97–382, § 6, Dec. 22, 1982, 96 Stat. 1940.)
+(Pub. L. 97–382, § 6, Dec. 22, 1982, 96 Stat. 1940.)
 
-## § 2106. Assistance to tribes or individuals during Minerals Agreement negotiations
+## § 2106. Assistance to tribes or individuals during Minerals Agreement negotiations
 
 In carrying out the obligations of the United States, the Secretary shall ensure that upon the request of an Indian tribe or individual Indian and to the extent of his available resources, such tribe or individual Indian shall have available advice, assistance, and information during the negotiation of a Minerals Agreement. The Secretary may fulfill this responsibility either directly through the use of Federal officials and resources or indirectly by providing financial assistance to the Indian tribe or individual Indian to secure independent assistance.
 
-(Pub. L. 97–382, § 7, Dec. 22, 1982, 96 Stat. 1940.)
+(Pub. L. 97–382, § 7, Dec. 22, 1982, 96 Stat. 1940.)
 
-## § 2107. Regulations; consultation with Indian organizations; pending agreements
+## § 2107. Regulations; consultation with Indian organizations; pending agreements
 
 Within one hundred and eighty days of December 22, 1982, the Secretary of the Interior shall promulgate rules and regulations to facilitate implementation of this chapter. The Secretary shall, to the extent practicable, consult with national and regional Indian organizations and tribes with expertise in mineral development both in the initial formulation of rules and regulations and any future revision or amendment of such rules and regulations. Where there is pending before the Secretary for his approval a Minerals Agreement of the type authorized by section 2102 of this title which was submitted prior to December 22, 1982, the Secretary shall evaluate and approve or disapprove such agreement based upon section 2103 of this title, but shall not withhold or delay such approval or disapproval on the grounds that the rules and regulations implementing this chapter have not been promulgated.
 
-(Pub. L. 97–382, § 8, Dec. 22, 1982, 96 Stat. 1940.)
+(Pub. L. 97–382, § 8, Dec. 22, 1982, 96 Stat. 1940.)
 
-## § 2108. Tribal right to develop mineral resources
+## § 2108. Tribal right to develop mineral resources
 
 Nothing in this chapter shall impair any right of an Indian tribe organized under section 16 or 17 of the Act of June 18, 1934 (48 Stat. 987), as amended [25 U.S.C. 5123, 5124], to develop their mineral resources as may be provided in any constitution or charter adopted by such tribe pursuant to that Act [25 U.S.C. 5101 et seq.].
 
-(Pub. L. 97–382, § 9, Dec. 22, 1982, 96 Stat. 1940.)
+(Pub. L. 97–382, § 9, Dec. 22, 1982, 96 Stat. 1940.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classified generally to chapter 45 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classified generally to chapter 45 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.

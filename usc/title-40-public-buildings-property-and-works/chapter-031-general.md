@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—OVERSIGHT AND REGULATION OF PUBLIC BUILDINGS
 
-### § 3101. Public buildings under control of Administrator of General Services
+### § 3101. Public buildings under control of Administrator of General Services
 
 All public buildings outside of the District of Columbia and outside of military reservations purchased or erected out of any appropriation under the control of the Administrator of General Services, and the sites of the public buildings, are under the exclusive jurisdiction and control, and in the custody of, the Administrator. The Administrator may take possession of the buildings and assign and reassign rooms in the buildings to federal officials, clerks, and employees that the Administrator believes should be furnished with offices or rooms in the buildings.
 
@@ -27,7 +27,7 @@ All public buildings outside of the District of Columbia and outside of military
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3101 | 40:285. | July 1, 1898, ch. 546, § 1 (6th complete par. on p. 614), 30 Stat. 614. |
+| 3101 | 40:285. | July 1, 1898, ch. 546, § 1 (6th complete par. on p. 614), 30 Stat. 614. |
 
 The word “subtreasuries” in the 6th complete paragraph on p. 614 of section 1 of the Act of July 1, 1898 (ch. 546, 30 Stat. 614), is omitted because section 1 (words in par. under heading “Independent Treasury”) of the Act of May 29, 1914 (ch. 214, 41 Stat. 654) discontinued subtreasuries. The word “post-offices” in section 1 is omitted because section 1 of Executive Order No. 6166 (eff. June 10, 1933) transferred administration of post office buildings to the Post Office Department. The words “courthouses, customhouses, appraiser’s stores, barge offices, and other” are omitted as unnecessary. The words “or are in course of construction” are omitted as obsolete. The words “Administrator of General Services” are substituted for “Treasury Department” and “Secretary of the Treasury” [subsequently changed to “Federal Works Agency” and “Federal Works Administrator” because of sections 301 and 303, respectively, of Reorganization Plan No. I of 1939 (eff. July 1, 1939, 53 Stat. 1426, 1427)] because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) [303(b)] of the revised title.
 
@@ -35,7 +35,7 @@ The word “subtreasuries” in the 6th complete paragraph on p. 614 of section 
 
 **Revision of Design Standards**
 
-Pub. L. 118–272, div. B, title III, § 2309, Jan. 4, 2025, 138 Stat. 3227, provided that:
+Pub. L. 118–272, div. B, title III, § 2309, Jan. 4, 2025, 138 Stat. 3227, provided that:
 
 > **“(a) In General.—** Not later than 6 months after the date of enactment of this Act [Jan. 4, 2025], the Administrator of General Services (referred to in this section as the ‘Administrator’) shall revise the process by which the Administrator updates or changes the P100 facilities standards guidance document for federally owned buildings under the custody and control of the General Services Administration.
 
@@ -111,15 +111,15 @@ SEC. 363. PROCEDURES IN PUBLIC BUILDINGS REGARDING A MISSING OR LOST CHILD.
 
 **Prohibition of Cigarette Sales to Minors in Federal Buildings and Lands**
 
-Pub. L. 104–52, title VI, § 636, Nov. 19, 1995, 109 Stat. 507, known as the “Prohibition of Cigarette Sales to Minors in Federal Buildings and Lands Act”, required the Administrator of General Services and the head of each Federal agency to promulgate regulations, to be reported to Congress, prohibiting the sale of tobacco products in vending machines or distribution of free samples of tobacco products located in or around any Federal building under the jurisdiction of the Administrator or agency head, and provided that the appropriate congressional committees would promulgate regulations prohibiting tobacco sales in vending machines in certain congressional buildings.
+Pub. L. 104–52, title VI, § 636, Nov. 19, 1995, 109 Stat. 507, known as the “Prohibition of Cigarette Sales to Minors in Federal Buildings and Lands Act”, required the Administrator of General Services and the head of each Federal agency to promulgate regulations, to be reported to Congress, prohibiting the sale of tobacco products in vending machines or distribution of free samples of tobacco products located in or around any Federal building under the jurisdiction of the Administrator or agency head, and provided that the appropriate congressional committees would promulgate regulations prohibiting tobacco sales in vending machines in certain congressional buildings.
 
 **Executive Documents**
 
 **Executive Order No. 13967**
 
-Ex. Ord. No. 13967, Dec. 18, 2020, 85 F.R. 83739, which related to promoting traditional and classical architecture for Federal public buildings, was revoked by Ex. Ord. No. 14018, § 1, Feb. 24, 2021, 86 F.R. 11855.
+Ex. Ord. No. 13967, Dec. 18, 2020, 85 F.R. 83739, which related to promoting traditional and classical architecture for Federal public buildings, was revoked by Ex. Ord. No. 14018, § 1, Feb. 24, 2021, 86 F.R. 11855.
 
-### § 3102. Naming or designating buildings
+### § 3102. Naming or designating buildings
 
 The Administrator of General Services may name or otherwise designate any building under the custody and control of the General Services Administration, regardless of whether it was previously named by statute.
 
@@ -129,11 +129,11 @@ The Administrator of General Services may name or otherwise designate any buildi
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3102 | 40:298d. | June 16, 1949, ch. 218, title IV, § 410, 63 Stat. 200; Pub. L. 85–542, July 18, 1958, 72 Stat. 399. |
+| 3102 | 40:298d. | June 16, 1949, ch. 218, title IV, § 410, 63 Stat. 200; Pub. L. 85–542, July 18, 1958, 72 Stat. 399. |
 
 The words “notwithstanding any other provision of law” and “rename” are omitted as unnecessary.
 
-### § 3103. Admission of guide dogs or other service animals accompanying individuals with disabilities
+### § 3103. Admission of guide dogs or other service animals accompanying individuals with disabilities
 
 **(a) In General.—** Guide dogs or other service animals accompanying individuals with disabilities and especially trained and educated for that purpose shall be admitted to any building or other property owned or controlled by the Federal Government on the same terms and conditions, and subject to the same regulations, as generally govern the admission of the public to the property. The animals are not permitted to run free or roam in a building or on the property and must be in guiding harness or on leash and under the control of the individual at all times while in a building or on the property.
 
@@ -150,7 +150,7 @@ The words “notwithstanding any other provision of law” and “rename” are 
 
 In subsection (a), the words “Seeing-eye dogs or other” are omitted as unnecessary. The words “or other service animals” are added, and the words “individuals with disabilities” are substituted for “blind masters”, because of section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794) and Part 39 of Title 28 of the Code of Federal Regulations, which expanded the coverage of the source provision to all service animals and to all individuals with disabilities.
 
-### § 3104. Furniture for new buildings
+### § 3104. Furniture for new buildings
 
 Furniture for all new public buildings shall be acquired in accordance with plans and specifications approved by the Administrator of General Services.
 
@@ -164,7 +164,7 @@ Furniture for all new public buildings shall be acquired in accordance with plan
 
 The words “Administrator of General Services” are substituted for “Supervising Architect of the Treasury” [subsequently changed to “Secretary of the Treasury” because of section 1 of Executive Order No. 6166 (eff. June 10, 1933) and to “Federal Works Administrator” because of section 301 of Reorganization Plan No. I of 1939 (eff. July 1, 1939, 53 Stat. 1426)] because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) [303(b)] of the revised title.
 
-### § 3105. Buildings not to be draped in mourning
+### § 3105. Buildings not to be draped in mourning
 
 No building owned, or used for public purposes, by the Federal Government shall be draped in mourning nor may public money be used for that purpose.
 
@@ -174,13 +174,13 @@ No building owned, or used for public purposes, by the Federal Government shall 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3105 | 40:286. | Mar. 3, 1893, ch. 211, § 3, 27 Stat. 715. |
+| 3105 | 40:286. | Mar. 3, 1893, ch. 211, § 3, 27 Stat. 715. |
 
 The words “On and after March 3, 1893” are omitted as obsolete.
 
 ## SUBCHAPTER II—ACQUIRING LAND
 
-### § 3111. Approval of sufficiency of title prior to acquisition
+### § 3111. Approval of sufficiency of title prior to acquisition
 
 **(a) Approval of Attorney General Required.—** Public money may not be expended to purchase land or any interest in land unless the Attorney General gives prior written approval of the sufficiency of the title to the land for the purpose for which the Federal Government is acquiring the property.
 
@@ -200,14 +200,14 @@ The words “On and after March 3, 1893” are omitted as obsolete.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3111(a) | 40:255 (1st par.). | R.S. § 355 (1st–5th pars.); June 28, 1930, ch. 710, 46 Stat. 828; Feb. 1, 1940, ch. 18, 54 Stat. 19; Oct. 9, 1940, ch. 793, 54 Stat. 1083; Pub. L. 91–393, § 1, Sept. 1, 1970, 84 Stat. 835. |
+| 3111(a) | 40:255 (1st par.). | R.S. § 355 (1st–5th pars.); June 28, 1930, ch. 710, 46 Stat. 828; Feb. 1, 1940, ch. 18, 54 Stat. 19; Oct. 9, 1940, ch. 793, 54 Stat. 1083; Pub. L. 91–393, § 1, Sept. 1, 1970, 84 Stat. 835. |
 | 3111(b) | 40:255 (2d, 3d pars.). |  |
 | 3111(c) | 40:255 (4th par.). |  |
 | 3111(d) | 40:255 (5th par.). |  |
 
 In subsection (d), the words “in any manner” are omitted as unnecessary.
 
-### § 3112. Federal jurisdiction
+### § 3112. Federal jurisdiction
 
 **(a) Exclusive Jurisdiction Not Required.—** It is not required that the Federal Government obtain exclusive jurisdiction in the United States over land or an interest in land it acquires.
 
@@ -221,7 +221,7 @@ In subsection (d), the words “in any manner” are omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3112(a) | 40:255 (last par. 1st sentence words before semicolon). | R.S. § 355 (last par.); June 28, 1930, ch. 710, 46 Stat. 828; Feb. 1, 1940, ch. 18, 54 Stat. 19; Oct. 9, 1940, ch. 793, 54 Stat. 1083. |
+| 3112(a) | 40:255 (last par. 1st sentence words before semicolon). | R.S. § 355 (last par.); June 28, 1930, ch. 710, 46 Stat. 828; Feb. 1, 1940, ch. 18, 54 Stat. 19; Oct. 9, 1940, ch. 793, 54 Stat. 1083. |
 | 3112(b) | 40:255 (last par. 1st sentence words after semicolon). |  |
 | 3112(c) | 40:255 (last par. last sentence). |  |
 
@@ -229,7 +229,7 @@ Subsection (a) is substituted for 40:255 (last par. 1st sentence words before se
 
 In subsection (b), the words “exclusive or partial” are omitted as unnecessary.
 
-### § 3113. Acquisition by condemnation
+### § 3113. Acquisition by condemnation
 
 An officer of the Federal Government authorized to acquire real estate for the erection of a public building or for other public uses may acquire the real estate for the Government by condemnation, under judicial process, when the officer believes that it is necessary or advantageous to the Government to do so. The Attorney General, on application of the officer, shall have condemnation proceedings begun within 30 days from receipt of the application at the Department of Justice.
 
@@ -239,11 +239,11 @@ An officer of the Federal Government authorized to acquire real estate for the e
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3113 | 40:257. | Aug. 1, 1888, ch. 728, § 1, 25 Stat. 357; June 25, 1948, ch. 646, § 6, 62 Stat. 986. |
+| 3113 | 40:257. | Aug. 1, 1888, ch. 728, § 1, 25 Stat. 357; June 25, 1948, ch. 646, § 6, 62 Stat. 986. |
 
 The words “the Secretary of the Treasury or any other” are omitted as unnecessary. The reference to section 258 is omitted because 40:258 is superseded by rule 71A of the Federal Rules of Civil Procedure (28 App.: U.S.C.).
 
-### § 3114. Declaration of taking
+### § 3114. Declaration of taking
 
 **(a) Filing and Content.—** In any proceeding in any court of the United States outside of the District of Columbia brought by and in the name of the United States and under the authority of the Federal Government to acquire land, or an easement or right of way in land, for the public use, the petitioner may file, with the petition or at any time before judgment, a declaration of taking signed by the authority empowered by law to acquire the land described in the petition, declaring that the land is taken for the use of the Government. The declaration of taking shall contain or have annexed to it—
 
@@ -287,12 +287,12 @@ The words “the Secretary of the Treasury or any other” are omitted as unnece
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3114(a) | 40:258a (1st par.). | Feb. 26, 1931, ch. 307, § 1, 46 Stat. 1421; Pub. L. 99–656, § 1(1), Nov. 14, 1986, 100 Stat. 3668. |
+| 3114(a) | 40:258a (1st par.). | Feb. 26, 1931, ch. 307, § 1, 46 Stat. 1421; Pub. L. 99–656, § 1(1), Nov. 14, 1986, 100 Stat. 3668. |
 | 3114(b) | 40:258a (2d par. 1st sentence words before 1st semicolon). |  |
 | 3114(c)(1) | 40:258a (2d par. 1st sentence words after 1st semicolon, last sentence). |  |
 | 3114(c)(2), (3) | 40:258a (3d par.). |  |
 | 3114(d) | 40:258a (last par.). |  |
-| 3114(e) | 40:258b. | Feb. 26, 1931, ch. 307, § 2, 46 Stat. 1422. |
+| 3114(e) | 40:258b. | Feb. 26, 1931, ch. 307, § 2, 46 Stat. 1422. |
 
 In subsection (a), before clause (1), the words “which has been or may be” are omitted as unnecessary.
 
@@ -300,7 +300,7 @@ In subsection (b)(1), the words “said lands in fee simple absolute, or such le
 
 In subsection (b)(2), the words “deemed to be” are omitted as unnecessary.
 
-### § 3115. Irrevocable commitment of Federal Government to pay ultimate award when fixed
+### § 3115. Irrevocable commitment of Federal Government to pay ultimate award when fixed
 
 **(a) Requirement for Irrevocable Commitment.—** Action under section 3114 of this title irrevocably committing the Federal Government to the payment of the ultimate award shall not be taken unless the head of the executive department or agency or bureau of the Government empowered to acquire the land believes that the ultimate award probably will be within any limits Congress prescribes on the price to be paid.
 
@@ -312,12 +312,12 @@ In subsection (b)(2), the words “deemed to be” are omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3115(a) | 40:258c. | Feb. 26, 1931, ch. 307, § 3, 46 Stat. 1422. |
-| 3115(b) | 40:258e. | Feb. 26, 1931, ch. 307, § 5, 46 Stat. 1422; Pub. L. 91–393, § 4, Sept. 1, 1970, 84 Stat. 835. |
+| 3115(a) | 40:258c. | Feb. 26, 1931, ch. 307, § 3, 46 Stat. 1422. |
+| 3115(b) | 40:258e. | Feb. 26, 1931, ch. 307, § 5, 46 Stat. 1422; Pub. L. 91–393, § 4, Sept. 1, 1970, 84 Stat. 835. |
 
 In subsection (b), the words “possession of” are omitted as unnecessary.
 
-### § 3116. Interest as part of just compensation
+### § 3116. Interest as part of just compensation
 
 **(a) Calculation.—** The district court shall calculate interest required to be paid under this subchapter as follows:
 
@@ -333,10 +333,10 @@ In subsection (b), the words “possession of” are omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3116(a) | 40:258e–1 (less last sentence). | Feb. 26, 1931, ch. 307, § 6, as added Pub. L. 99–656, § 1(2), Nov. 14, 1986, 100 Stat. 3668; Pub. L. 106–554, § 1(a)(7) [§ 307(a)], Dec. 21, 2000, 114 Stat. 2763A–635. |
+| 3116(a) | 40:258e–1 (less last sentence). | Feb. 26, 1931, ch. 307, § 6, as added Pub. L. 99–656, § 1(2), Nov. 14, 1986, 100 Stat. 3668; Pub. L. 106–554, § 1(a)(7) [§ 307(a)], Dec. 21, 2000, 114 Stat. 2763A–635. |
 | 3116(b) | 40:258e–1 (last sentence). |  |
 
-### § 3117. Exclusion of certain property by stipulation of Attorney General
+### § 3117. Exclusion of certain property by stipulation of Attorney General
 
 In any condemnation proceeding brought by or on behalf of the Federal Government, the Attorney General may stipulate or agree on behalf of the Government to exclude any part of the property, or any interest in the property, taken by or on behalf of the Government by a declaration of taking or otherwise.
 
@@ -350,7 +350,7 @@ In any condemnation proceeding brought by or on behalf of the Federal Government
 
 The words “that may have been, or may be” are omitted as unnecessary.
 
-### § 3118. Right of taking as addition to existing rights
+### § 3118. Right of taking as addition to existing rights
 
 The right to take possession and title in advance of final judgment in condemnation proceedings as provided by section 3114 of this title is in addition to any right, power, or authority conferred by the laws of the United States or of a State, territory, or possession of the United States under which the proceeding may be conducted, and does not abrogate, limit, or modify that right, power, or authority.
 
@@ -360,13 +360,13 @@ The right to take possession and title in advance of final judgment in condemnat
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3118 | 40:258d. | Feb. 26, 1931, ch. 307, § 4, 46 Stat. 1422. |
+| 3118 | 40:258d. | Feb. 26, 1931, ch. 307, § 4, 46 Stat. 1422. |
 
 The words “State, territory, or possession of the United States” are substituted for “State or Territory” for consistency in the revised title and with other titles of the United States Code.
 
 ## SUBCHAPTER III—BONDS
 
-### § 3131. Bonds of contractors of public buildings or works
+### § 3131. Bonds of contractors of public buildings or works
 
 **(a) Definition.—** In this subchapter, the term “contractor” means a person awarded a contract described in subsection (b).
 
@@ -392,17 +392,17 @@ The words “State, territory, or possession of the United States” are substit
 
 **(e) Authority To Require Additional Bonds.—** This section does not limit the authority of a contracting officer to require a performance bond or other security in addition to those, or in cases other than the cases, specified in subsection (b).
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1147; Pub. L. 109–284, § 6(8), Sept. 27, 2006, 120 Stat. 1213.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1147; Pub. L. 109–284, § 6(8), Sept. 27, 2006, 120 Stat. 1213.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3131(a) | 40:270a(a) (words before cl. (1) related to definition). | Aug. 24, 1935, ch. 642, § 1(a)–(c), 49 Stat. 793; Pub. L. 95–585, Nov. 2, 1978, 92 Stat. 2484; Pub. L. 103–355, title IV, § 4104(b)(1)(B), Oct. 13, 1994, 108 Stat. 3342; Pub. L. 106–49, § 2(a), Aug. 17, 1999, 113 Stat. 231. |
-|  | 40:270d. | Aug. 24, 1935, ch. 642, § 4, 49 Stat. 794. |
+| 3131(a) | 40:270a(a) (words before cl. (1) related to definition). | Aug. 24, 1935, ch. 642, § 1(a)–(c), 49 Stat. 793; Pub. L. 95–585, Nov. 2, 1978, 92 Stat. 2484; Pub. L. 103–355, title IV, § 4104(b)(1)(B), Oct. 13, 1994, 108 Stat. 3342; Pub. L. 106–49, § 2(a), Aug. 17, 1999, 113 Stat. 231. |
+|  | 40:270d. | Aug. 24, 1935, ch. 642, § 4, 49 Stat. 794. |
 | 3131(b) | 40:270a(a) (words before cl. (1) related to furnishing bond), (1), (2). |  |
-|  | 40:270d–1. | Aug. 24, 1935, ch. 642, § 5, as added Pub. L. 103–355, title IV, § 4104(b)(1)(A), Oct. 13, 1994, 108 Stat. 3341. |
-| 3131(c) | 40:270a(d). | Aug. 24, 1935, ch. 642, § 1(d), as added Pub. L. 89–719, title I, § 105(b), Nov. 2, 1966, 80 Stat. 1139. |
+|  | 40:270d–1. | Aug. 24, 1935, ch. 642, § 5, as added Pub. L. 103–355, title IV, § 4104(b)(1)(A), Oct. 13, 1994, 108 Stat. 3341. |
+| 3131(c) | 40:270a(d). | Aug. 24, 1935, ch. 642, § 1(d), as added Pub. L. 89–719, title I, § 105(b), Nov. 2, 1966, 80 Stat. 1139. |
 | 3131(d) | 40:270a(b). |  |
 | 3131(e) | 40:270a(c). |  |
 
@@ -420,7 +420,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (c)(2), is classified 
 
 2006—Subsec. (e). Pub. L. 109–284 substituted “To” for “to” in heading.
 
-### § 3132. Alternatives to payment bonds provided by Federal Acquisition Regulation
+### § 3132. Alternatives to payment bonds provided by Federal Acquisition Regulation
 
 **(a) In General.—** The Federal Acquisition Regulation shall provide alternatives to payment bonds as payment protections for suppliers of labor and materials under contracts referred to in section 3131(a) of this title that are more than $25,000 and not more than $100,000.
 
@@ -436,9 +436,9 @@ The Internal Revenue Code of 1986, referred to in subsec. (c)(2), is classified 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3132 | 40:270a note. | Pub. L. 103–355, title IV, § 4104(b)(2), Oct. 13, 1994, 108 Stat. 3342. |
+| 3132 | 40:270a note. | Pub. L. 103–355, title IV, § 4104(b)(2), Oct. 13, 1994, 108 Stat. 3342. |
 
-### § 3133. Rights of persons furnishing labor or material
+### § 3133. Rights of persons furnishing labor or material
 
 **(a) Right of Person Furnishing Labor or Material to Copy of Bond.—** The department secretary or agency head of the contracting agency shall furnish a certified copy of a payment bond and the contract for which it was given to any person applying for a copy who submits an affidavit that the person has supplied labor or material for work described in the contract and payment for the work has not been made or that the person is being sued on the bond. The copy is prima facie evidence of the contents, execution, and delivery of the original. Applicants shall pay any fees the department secretary or agency head of the contracting agency fixes to cover the cost of preparing the certified copy.
 
@@ -470,16 +470,16 @@ The Internal Revenue Code of 1986, referred to in subsec. (c)(2), is classified 
 
 **(3)** executed after the person whose right is waived has furnished labor or material for use in the performance of the contract.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1148; Pub. L. 109–284, § 6(9), (10), Sept. 27, 2006, 120 Stat. 1213.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1148; Pub. L. 109–284, § 6(9), (10), Sept. 27, 2006, 120 Stat. 1213.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3133(a) | 40:270c. | Aug. 24, 1935, ch. 642, § 3, 49 Stat. 794; Pub. L. 86–135, § 2, Aug. 4, 1959, 73 Stat. 279; Pub. L. 98–269, Apr. 18, 1984, 98 Stat. 156. |
-| 3133(b)(1), (2) | 40:270b(a). | Aug. 24, 1935, ch. 642, § 2(a), (b), 49 Stat. 794; Pub. L. 86–135, § 1, Aug. 4, 1959, 73 Stat. 279; Pub. L. 106–49, § 2(b), Aug. 17, 1999, 113 Stat. 231. |
+| 3133(a) | 40:270c. | Aug. 24, 1935, ch. 642, § 3, 49 Stat. 794; Pub. L. 86–135, § 2, Aug. 4, 1959, 73 Stat. 279; Pub. L. 98–269, Apr. 18, 1984, 98 Stat. 156. |
+| 3133(b)(1), (2) | 40:270b(a). | Aug. 24, 1935, ch. 642, § 2(a), (b), 49 Stat. 794; Pub. L. 86–135, § 1, Aug. 4, 1959, 73 Stat. 279; Pub. L. 106–49, § 2(b), Aug. 17, 1999, 113 Stat. 231. |
 | 3133(b)(3)– (5) | 40:270b(b). |  |
-| 3133(c) | 40:270b(c). | Aug. 24, 1935, ch. 642, § 2(c), as added Pub. L. 106–49, § 2(c), Aug. 17, 1999, 113 Stat. 231. |
+| 3133(c) | 40:270b(c). | Aug. 24, 1935, ch. 642, § 2(c), as added Pub. L. 106–49, § 2(c), Aug. 17, 1999, 113 Stat. 231. |
 
 In subsection (b)(1), the words “may bring a civil action” are substituted for “shall have the right to sue” for consistency in the revised title and with other titles of the United States Code. The words “or sums” are omitted because of 1:1.
 
@@ -491,11 +491,11 @@ In subsection (c), the words “bring a civil action” are substituted for “s
 
 **Amendments**
 
-2006—Subsec. (b). Pub. L. 109–284, § 6(9), substituted “To” for “to” in heading.
+2006—Subsec. (b). Pub. L. 109–284, § 6(9), substituted “To” for “to” in heading.
 
-Subsec. (c). Pub. L. 109–284, § 6(10), inserted heading.
+Subsec. (c). Pub. L. 109–284, § 6(10), inserted heading.
 
-### § 3134. Waivers for certain contracts
+### § 3134. Waivers for certain contracts
 
 **(a) Military.—** The Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or the Secretary of Transportation may waive this subchapter with respect to cost-plus-a-fixed fee and other cost-type contracts for the construction, alteration, or repair of any public building or public work of the Federal Government and with respect to contracts for manufacturing, producing, furnishing, constructing, altering, repairing, processing, or assembling vessels, aircraft, munitions, materiel, or supplies for the Army, Navy, Air Force, or Coast Guard, respectively, regardless of the terms of the contracts as to payment or title.
 
@@ -503,14 +503,14 @@ Subsec. (c). Pub. L. 109–284, § 6(10), inserted heading.
 
 **(c) National Oceanic and Atmospheric Administration.—** The Secretary of Commerce may waive this subchapter with respect to contracts for the construction, alteration, or repair of vessels, regardless of the terms of the contracts as to payment or title, when the contract is made under the Act entitled “An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes”, approved August 6, 1947 (33 U.S.C. 883a et seq.).
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1149; Pub. L. 109–304, § 17(g)(2), Oct. 6, 2006, 120 Stat. 1709; Pub. L. 115–91, div. C, title XXXV, § 3502(b)(2), Dec. 12, 2017, 131 Stat. 1910; Pub. L. 115–232, div. C, title XXXV, § 3515(c), Aug. 13, 2018, 132 Stat. 2313.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1149; Pub. L. 109–304, § 17(g)(2), Oct. 6, 2006, 120 Stat. 1709; Pub. L. 115–91, div. C, title XXXV, § 3502(b)(2), Dec. 12, 2017, 131 Stat. 1910; Pub. L. 115–232, div. C, title XXXV, § 3515(c), Aug. 13, 2018, 132 Stat. 2313.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3134(a) | 40:270e. | Apr. 29, 1941, ch. 81, § 1, 55 Stat. 147; June 3, 1955, ch. 129, 69 Stat. 83. |
-| 3134(b) | 40:270f. | Apr. 29, 1941, ch. 81, § 2, as added Pub. L. 91–469, § 39, Oct. 21, 1970, 84 Stat. 1036; Pub. L. 97–31, § 12(12), Aug. 6, 1981, 95 Stat. 154. |
+| 3134(a) | 40:270e. | Apr. 29, 1941, ch. 81, § 1, 55 Stat. 147; June 3, 1955, ch. 129, 69 Stat. 83. |
+| 3134(b) | 40:270f. | Apr. 29, 1941, ch. 81, § 2, as added Pub. L. 91–469, § 39, Oct. 21, 1970, 84 Stat. 1036; Pub. L. 97–31, § 12(12), Aug. 6, 1981, 95 Stat. 154. |
 
 In subsection (a), the words “Secretary of Transportation” are substituted for “Secretary of Commerce” because of 49:108. The words “the manufacturing, producing, furnishing, construction, alteration, repair, processing, or assembling of” and “of any kind or nature” are omitted as unnecessary.
 
@@ -520,13 +520,13 @@ In subsection (b), the words “of any kind or nature” are omitted as unnecess
 
 **References in Text**
 
-An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes, referred to in subsec. (c), is act Aug. 6, 1947, ch. 504, 61 Stat. 787, popularly known as the Coast and Geodetic Survey Act, which is classified generally to subchapter II (§ 883a et seq.) of chapter 17 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
+An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes, referred to in subsec. (c), is act Aug. 6, 1947, ch. 504, 61 Stat. 787, popularly known as the Coast and Geodetic Survey Act, which is classified generally to subchapter II (§ 883a et seq.) of chapter 17 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
 2018—Subsec. (c). Pub. L. 115–232 added subsec. (c).
 
-2017—Subsec. (b). Pub. L. 115–91, § 3502(b)(2), substituted “31 or” for “31,” and struck out “or the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1735 et seq.),” after “title 46,”.
+2017—Subsec. (b). Pub. L. 115–91, § 3502(b)(2), substituted “31 or” for “31,” and struck out “or the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1735 et seq.),” after “title 46,”.
 
 2006—Subsec. (b). Pub. L. 109–304 substituted “subtitle V of title 46” for “the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.)”.
 
@@ -538,7 +538,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 ## SUBCHAPTER IV—WAGE RATE REQUIREMENTS
 
-### § 3141. Definitions
+### § 3141. Definitions
 
 In this subchapter, the following definitions apply:
 
@@ -554,14 +554,14 @@ In this subchapter, the following definitions apply:
 
 **(ii)** the rate of costs to the contractor or subcontractor that may be reasonably anticipated in providing benefits to laborers and mechanics pursuant to an enforceable commitment to carry out a financially responsible plan or program which was communicated in writing to the laborers and mechanics affected.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1150; Pub. L. 109–284, § 6(11), Sept. 27, 2006, 120 Stat. 1213.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1150; Pub. L. 109–284, § 6(11), Sept. 27, 2006, 120 Stat. 1213.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 3141(1) | (no source). |  |
-| 3141(2) | 40:276a(b) (1st par. words before proviso). | Mar. 3, 1931, ch. 411, § 1(b) (1st par. words before proviso), as added Pub. L. 88–349, § 1, July 2, 1964, 78 Stat. 239. |
+| 3141(2) | 40:276a(b) (1st par. words before proviso). | Mar. 3, 1931, ch. 411, § 1(b) (1st par. words before proviso), as added Pub. L. 88–349, § 1, July 2, 1964, 78 Stat. 239. |
 
 Clause (1) is added for clarity.
 
@@ -569,13 +569,13 @@ Clause (1) is added for clarity.
 
 **References in Text**
 
-The Davis-Bacon Act, referred to in par. (1), is act of Mar. 3, 1931, ch. 411, 46 Stat. 1494, which was classified generally to sections 276a to 276a–5 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3141–3144, 3146, and 3147 of this title by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+The Davis-Bacon Act, referred to in par. (1), is act of Mar. 3, 1931, ch. 411, 46 Stat. 1494, which was classified generally to sections 276a to 276a–5 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3141–3144, 3146, and 3147 of this title by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
 2006—Par. (1). Pub. L. 109–284 substituted “1494)” for “1494”.
 
-### § 3142. Rate of wages for laborers and mechanics
+### § 3142. Rate of wages for laborers and mechanics
 
 **(a) Application.—** The advertised specifications for every contract in excess of $2,000, to which the Federal Government or the District of Columbia is a party, for construction, alteration, or repair, including painting and decorating, of public buildings and public works of the Government or the District of Columbia that are located in a State or the District of Columbia and which requires or involves the employment of mechanics or laborers shall contain a provision stating the minimum wages to be paid various classes of laborers and mechanics.
 
@@ -593,15 +593,15 @@ The Davis-Bacon Act, referred to in par. (1), is act of Mar. 3, 1931, ch. 411, 4
 
 **(e) Overtime Pay.—** In determining the overtime pay to which a laborer or mechanic is entitled under any federal law, the regular or basic hourly rate of pay (or other alternative rate on which premium rate of overtime compensation is computed) of the laborer or mechanic is deemed to be the rate computed under section 3141(2)(A) of this title, except that where the amount of payments, contributions, or costs incurred with respect to the laborer or mechanic exceeds the applicable prevailing wage, the regular or basic hourly rate of pay (or other alternative rate) is the amount of payments, contributions, or costs actually incurred with respect to the laborer or mechanic minus the greater of the amount of contributions or costs of the types described in section 3141(2)(B) of this title actually incurred with respect to the laborer or mechanic or the amount determined under section 3141(2)(B) of this title but not actually paid.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1150; Pub. L. 109–284, § 6(12), (13), Sept. 27, 2006, 120 Stat. 1213.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1150; Pub. L. 109–284, § 6(12), (13), Sept. 27, 2006, 120 Stat. 1213.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3142(a), (b) | 40:276a(a) (words before 1st semicolon). | Mar. 3, 1931, ch. 411, § 1(a), 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1011; June 15, 1940, ch. 373, § 1, 54 Stat. 399; Pub. L. 86–624, § 26, July 12, 1960, 74 Stat. 418; Pub. L. 88–349, § 1, July 2, 1964, 78 Stat. 238. |
+| 3142(a), (b) | 40:276a(a) (words before 1st semicolon). | Mar. 3, 1931, ch. 411, § 1(a), 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1011; June 15, 1940, ch. 373, § 1, 54 Stat. 399; Pub. L. 86–624, § 26, July 12, 1960, 74 Stat. 418; Pub. L. 88–349, § 1, July 2, 1964, 78 Stat. 238. |
 | 3142(c) | 40:276a(a) (words after 1st semicolon). |  |
-| 3142(d) | 40:276a(b) (1st par. proviso). | Mar. 3, 1931, ch. 411, § 1(b) (1st par. proviso, last par.), as added Pub. L. 88–349, § 1, July 2, 1964, 78 Stat. 239. |
+| 3142(d) | 40:276a(b) (1st par. proviso). | Mar. 3, 1931, ch. 411, § 1(b) (1st par. proviso, last par.), as added Pub. L. 88–349, § 1, July 2, 1964, 78 Stat. 239. |
 | 3142(e) | 40:276a(b) (last par.). |  |
 
 In subsection (a), the words “a State” are substituted for “the geographical limits of the States of the Union” for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
@@ -614,11 +614,11 @@ In subsection (d), the words “of a type” are omitted as unnecessary. The wor
 
 **Amendments**
 
-2006—Subsec. (d). Pub. L. 109–284, § 6(12), inserted “of this title” after “amount referred to in section 3141(2)(B)”.
+2006—Subsec. (d). Pub. L. 109–284, § 6(12), inserted “of this title” after “amount referred to in section 3141(2)(B)”.
 
-Subsec. (e). Pub. L. 109–284, § 6(13), inserted “of this title” after “determined under section 3141(2)(B)”.
+Subsec. (e). Pub. L. 109–284, § 6(13), inserted “of this title” after “determined under section 3141(2)(B)”.
 
-### § 3143. Termination of work on failure to pay agreed wages
+### § 3143. Termination of work on failure to pay agreed wages
 
 Every contract within the scope of this subchapter shall contain a provision that if the contracting officer finds that any laborer or mechanic employed by the contractor or any subcontractor directly on the site of the work covered by the contract has been or is being paid a rate of wages less than the rate of wages required by the contract to be paid, the Federal Government by written notice to the contractor may terminate the contractor’s right to proceed with the work or the part of the work as to which there has been a failure to pay the required wages. The Government may have the work completed, by contract or otherwise, and the contractor and the contractor’s sureties shall be liable to the Government for any excess costs the Government incurs.
 
@@ -628,11 +628,11 @@ Every contract within the scope of this subchapter shall contain a provision tha
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3143 | 40:276a–1. | Mar. 3, 1931, ch. 411, § 2, 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1012. |
+| 3143 | 40:276a–1. | Mar. 3, 1931, ch. 411, § 2, 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1012. |
 
-The words “The Government may have the work completed” are substituted for “and to prosecute the work to completion . . . thereby” for clarity.
+The words “The Government may have the work completed” are substituted for “and to prosecute the work to completion . . . thereby” for clarity.
 
-### § 3144. Authority to pay wages and list contractors violating contracts
+### § 3144. Authority to pay wages and list contractors violating contracts
 
 **(a) Payment of Wages.—**
 
@@ -646,13 +646,13 @@ The words “The Government may have the work completed” are substituted for �
 
 **(2) Restriction on awarding contracts.—** No contract shall be awarded to persons appearing on the list or to any firm, corporation, partnership, or association in which the persons have an interest until three years have elapsed from the date of publication of the list.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1152; Pub. L. 113–50, § 2(a), Nov. 21, 2013, 127 Stat. 578.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1152; Pub. L. 113–50, § 2(a), Nov. 21, 2013, 127 Stat. 578.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3144(a)(1) | 40:276a–2(a) (1st sentence words before semicolon). | Mar. 3, 1931, ch. 411, § 3, 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1012. |
+| 3144(a)(1) | 40:276a–2(a) (1st sentence words before semicolon). | Mar. 3, 1931, ch. 411, § 3, 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1012. |
 | 3144(a)(2) | 40:276a–2(b). |  |
 | 3144(b) | 40:276a–2(a) (1st sentence words after semicolon, last sentence). |  |
 
@@ -662,11 +662,11 @@ In subsection (b), the words “or firms” are omitted as being included in “
 
 **Amendments**
 
-2013—Pub. L. 113–50, § 2(a)(1), struck out “of Comptroller General” after “Authority” in section catchline.
+2013—Pub. L. 113–50, § 2(a)(1), struck out “of Comptroller General” after “Authority” in section catchline.
 
-Subsec. (a)(1). Pub. L. 113–50, § 2(a)(2), substituted “Secretary of Labor” for “Comptroller General”.
+Subsec. (a)(1). Pub. L. 113–50, § 2(a)(2), substituted “Secretary of Labor” for “Comptroller General”.
 
-### § 3145. Regulations governing contractors and subcontractors
+### § 3145. Regulations governing contractors and subcontractors
 
 **(a) In General.—** The Secretary of Labor shall prescribe reasonable regulations for contractors and subcontractors engaged in constructing, carrying out, completing, or repairing public buildings, public works, or buildings or works that at least partly are financed by a loan or grant from the Federal Government. The regulations shall include a provision that each contractor and subcontractor each week must furnish a statement on the wages paid each employee during the prior week.
 
@@ -678,10 +678,10 @@ Subsec. (a)(1). Pub. L. 113–50, § 2(a)(2), substituted “Secretary of Labo
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3145(a) | 40:276c (1st sentence). | June 13, 1934, ch. 482, § 2, 48 Stat. 948; May 24, 1949, ch. 139, § 134, 63 Stat. 108; Pub. L. 85–800, § 12, Aug. 28, 1958, 72 Stat. 967. |
+| 3145(a) | 40:276c (1st sentence). | June 13, 1934, ch. 482, § 2, 48 Stat. 948; May 24, 1949, ch. 139, § 134, 63 Stat. 108; Pub. L. 85–800, § 12, Aug. 28, 1958, 72 Stat. 967. |
 | 3145(b) | 40:276c (last sentence). |  |
 
-### § 3146. Effect on other federal laws
+### § 3146. Effect on other federal laws
 
 This subchapter does not supersede or impair any authority otherwise granted by federal law to provide for the establishment of specific wage rates.
 
@@ -691,9 +691,9 @@ This subchapter does not supersede or impair any authority otherwise granted by 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3146 | 40:276a–3. | Mar. 3, 1931, ch. 411, § 4, 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1012. |
+| 3146 | 40:276a–3. | Mar. 3, 1931, ch. 411, § 4, 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1012. |
 
-### § 3147. Suspension of this subchapter during a national emergency
+### § 3147. Suspension of this subchapter during a national emergency
 
 The President may suspend the provisions of this subchapter during a national emergency.
 
@@ -703,19 +703,19 @@ The President may suspend the provisions of this subchapter during a national em
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3147 | 40:276a–5. | Mar. 3, 1931, ch. 411, § 6, 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1013. |
+| 3147 | 40:276a–5. | Mar. 3, 1931, ch. 411, § 6, 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1013. |
 
 **Statutory Notes and Related Subsidiaries**
 
 **Termination of War and Emergencies**
 
-Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of former 40 U.S.C. 276a–5, the date July 25, 1947, was to be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on September 8, 1939, and May 27, 1941.
+Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of former 40 U.S.C. 276a–5, the date July 25, 1947, was to be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on September 8, 1939, and May 27, 1941.
 
-### § 3148. Application of this subchapter to certain contracts
+### § 3148. Application of this subchapter to certain contracts
 
 This subchapter applies to a contract authorized by law that is made without regard to section 6101(b) to (d) of title 41, or on a cost-plus-a-fixed-fee basis or otherwise without advertising for proposals, if this subchapter otherwise would apply to the contract.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1153; Pub. L. 111–350, § 5(*l*)(14), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1153; Pub. L. 111–350, § 5(*l*)(14), Jan. 4, 2011, 124 Stat. 3852.)
 
 **Historical and Revision Notes**
 
@@ -733,7 +733,7 @@ The words “this subchapter” are substituted for “such Act” to correct th
 
 ## SUBCHAPTER V—VOLUNTEER SERVICES
 
-### § 3161. Purpose
+### § 3161. Purpose
 
 It is the purpose of this subchapter to promote and provide opportunities for individuals who wish to volunteer their services to state or local governments, public agencies, or nonprofit charitable organizations in the construction, repair, or alteration (including painting and decorating) of public buildings and public works that at least partly are financed with federal financial assistance authorized under certain federal programs and that otherwise might not be possible without the use of volunteers.
 
@@ -743,13 +743,13 @@ It is the purpose of this subchapter to promote and provide opportunities for in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3161 | 40:276d. | Pub. L. 103–355, title VII, § 7302, Oct. 13, 1994, 108 Stat. 3382. |
+| 3161 | 40:276d. | Pub. L. 103–355, title VII, § 7302, Oct. 13, 1994, 108 Stat. 3382. |
 
-### § 3162. Waiver for individuals who perform volunteer services
+### § 3162. Waiver for individuals who perform volunteer services
 
 **(a) Criteria for Receiving Waiver.—** The requirement that certain laborers and mechanics be paid in accordance with the wage-setting provisions of subchapter IV of this chapter as set forth in the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Indian Health Care Improvement Act (25 U.S.C. 1601 et seq.), and the Housing and Community Development Act of 1974 (42 U.S.C. 5301 et seq.) does not apply to an individual—
 
@@ -791,9 +791,9 @@ the Indian Health Care Improvement Act (25 U.S.C. 1601 et seq.), and the Housing
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3162(a) | 40:276d–1(a). | Pub. L. 103–355, title VII, §§ 7303, 7304, Oct. 13, 1994, 108 Stat. 3382. |
+| 3162(a) | 40:276d–1(a). | Pub. L. 103–355, title VII, §§ 7303, 7304, Oct. 13, 1994, 108 Stat. 3382. |
 |  | 40:276d–2. |  |
-|  | 40:276d–3. | Pub. L. 103–355, title VII, § 7305, Oct. 13, 1994, 108 Stat. 3384; Pub. L. 104–208, div. A, § 101(e) [title VII, § 709(a)(4)], Sept. 30, 1996, 110 Stat. 3009–312. |
+|  | 40:276d–3. | Pub. L. 103–355, title VII, § 7305, Oct. 13, 1994, 108 Stat. 3384; Pub. L. 104–208, div. A, § 101(e) [title VII, § 709(a)(4)], Sept. 30, 1996, 110 Stat. 3009–312. |
 | 3162(b) | 40:276d–1(b). |  |
 | 3162(c) | 40:276d–1(c). |  |
 
@@ -805,15 +805,15 @@ In subsection (b)(1), the words “Volunteers who are performing services direct
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (a), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§ 1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (a), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§ 1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 The Housing and Community Development Act of 1974, referred to in subsec. (a), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
 ## SUBCHAPTER VI—MISCELLANEOUS
 
-### § 3171. Contract authority when appropriation is for less than full amount
+### § 3171. Contract authority when appropriation is for less than full amount
 
 Unless specifically directed otherwise, the Administrator of General Services may make a contract within the full limit of the cost fixed by Congress for the acquisition of land for sites, or for the enlargement of sites, for public buildings, or for the erection, remodeling, extension, alteration, and repairs of public buildings, even though an appropriation is made for only part of the amount necessary to carry out legislation authorizing that purpose.
 
@@ -823,11 +823,11 @@ Unless specifically directed otherwise, the Administrator of General Services ma
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3171 | 40:261. | May 30, 1908, ch. 228, § 34, 35 Stat. 545. |
+| 3171 | 40:261. | May 30, 1908, ch. 228, § 34, 35 Stat. 545. |
 
 The words “On and after May 30, 1908” are omitted as obsolete. The words “Administrator of General Services” are substituted for “Secretary of the Treasury” [subsequently changed to “Federal Works Administrator” because of section 303 of Reorganization Plan No. I of 1939 (eff. July 1, 1939, 53 Stat. 1427)] because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) [303(b)] of the revised title.
 
-### § 3172. Extension of state workers’ compensation laws to buildings, works, and property of the Federal Government
+### § 3172. Extension of state workers’ compensation laws to buildings, works, and property of the Federal Government
 
 **(a) Authorization of Extension.—** The state authority charged with enforcing and requiring compliance with the state workers’ compensation laws and with the orders, decisions, and awards of the authority may apply the laws to all land and premises in the State which the Federal Government owns or holds by deed or act of cession, and to all projects, buildings, constructions, improvements, and property in the State and belonging to the Government, in the same way and to the same extent as if the premises were under the exclusive jurisdiction of the State in which the land, premises, projects, buildings, constructions, improvements, or property are located.
 
@@ -851,7 +851,7 @@ Subsection (b) is substituted for 40:290(last par. 1st proviso) to eliminate unn
 
 In subsection (c), the words “subchapter I of chapter 81 of title 5” are substituted for “the United States Employees’ Compensation Act as amended from time to time (Act of September 7, 1916, 39 Stat. 742, U.S.C., title 5 and supplement, sec. 751 et seq.)” because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 5, United States Code.
 
-### § 3173. Working capital fund for General Services Administration
+### § 3173. Working capital fund for General Services Administration
 
 **(a) Establishment and Purpose.—** There is a working capital fund for the necessary expenses of administrative support services including accounting, budget, personnel, legal support and other related services; and the maintenance and operation of printing and reproduction facilities in support of the functions of the General Services Administration, other Federal agencies, and other entities; and other such administrative and management services that the Administrator of GSA deems appropriate and advantageous (subject to prior notice to the Office of Management and Budget).
 
@@ -875,7 +875,7 @@ In subsection (c), the words “subchapter I of chapter 81 of title 5” are sub
 
 **(C) Availability.—** An amount transferred under this section remains available until expended.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1155; Pub. L. 111–8, div. D, title V, § 518(a), (b), (c)(2), Mar. 11, 2009, 123 Stat. 664, 665; Pub. L. 117–103, div. E, title V, §§ 528, 529, Mar. 15, 2022, 136 Stat. 276.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1155; Pub. L. 111–8, div. D, title V, § 518(a), (b), (c)(2), Mar. 11, 2009, 123 Stat. 664, 665; Pub. L. 117–103, div. E, title V, §§ 528, 529, Mar. 15, 2022, 136 Stat. 276.)
 
 **Historical and Revision Notes**
 
@@ -894,17 +894,17 @@ The Chief Financial Officers Act of 1990, referred to in subsec. (d)(1), is Pub.
 
 **Amendments**
 
-2022—Subsec. (b)(1). Pub. L. 117–103, § 529, inserted “, including advance payments,” after “Amounts received”.
+2022—Subsec. (b)(1). Pub. L. 117–103, § 529, inserted “, including advance payments,” after “Amounts received”.
 
-Subsec. (d)(1). Pub. L. 117–103, § 528, inserted “or for agency-wide acquisition of equipment or systems or the acquisition of services in lieu thereof, as necessary to implement the Act” before period at end.
+Subsec. (d)(1). Pub. L. 117–103, § 528, inserted “or for agency-wide acquisition of equipment or systems or the acquisition of services in lieu thereof, as necessary to implement the Act” before period at end.
 
-2009—Pub. L. 111–8, § 518(c)(2), substituted “Working capital fund for General Services Administration” for “Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration” in section catchline.
+2009—Pub. L. 111–8, § 518(c)(2), substituted “Working capital fund for General Services Administration” for “Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration” in section catchline.
 
-Subsecs. (a) to (c). Pub. L. 111–8, § 518(a), amended subsecs. (a) to (c) generally. Prior to amendment, subsecs. (a) to (c) related to establishment and purpose of a working capital fund, components of the fund, and deposit of excess amounts in the Treasury.
+Subsecs. (a) to (c). Pub. L. 111–8, § 518(a), amended subsecs. (a) to (c) generally. Prior to amendment, subsecs. (a) to (c) related to establishment and purpose of a working capital fund, components of the fund, and deposit of excess amounts in the Treasury.
 
-Subsec. (d). Pub. L. 111–8, § 518(b), added subsec. (d).
+Subsec. (d). Pub. L. 111–8, § 518(b), added subsec. (d).
 
-### § 3174. Operation of public utility communications services serving governmental activities
+### § 3174. Operation of public utility communications services serving governmental activities
 
 The Administrator of General Services may provide and operate public utility communications services serving any governmental activity when the services are economical and in the interest of the Federal Government. This section does not apply to communications systems for handling messages of a confidential or secret nature, the operation of cryptographic equipment or transmission of secret, security, or coded messages, or buildings operated or occupied by the United States Postal Service, except on request of the department or agency concerned.
 
@@ -914,11 +914,11 @@ The Administrator of General Services may provide and operate public utility com
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3174 | 40:295. | June 14, 1946, ch. 404, § 7, 60 Stat. 258. |
+| 3174 | 40:295. | June 14, 1946, ch. 404, § 7, 60 Stat. 258. |
 
 The words “Administrator of General Services” are substituted for “Commissioner of Public Buildings” because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) [303(b)] of the revised title. The words “in and outside the District of Columbia” are omitted as unnecessary. The words “United States Postal Service” are substituted for “Post Office Department” because of section 6(*o*) of the Postal Reorganization Act (Public Law 91–375, 84 Stat. 783).
 
-### § 3175. Acceptance of gifts of property
+### § 3175. Acceptance of gifts of property
 
 The Administrator of General Services, and the United States Postal Service where that office is concerned, may accept on behalf of the Federal Government unconditional gifts of property in aid of any project or function within their respective jurisdictions.
 
@@ -928,11 +928,11 @@ The Administrator of General Services, and the United States Postal Service wher
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3175 | 40:298a. | June 16, 1949, ch. 218, title IV, § 404, 63 Stat. 199. |
+| 3175 | 40:298a. | June 16, 1949, ch. 218, title IV, § 404, 63 Stat. 199. |
 
 The words “Administrator of General Services” are substituted for “Federal Works Administrator” because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) [303(b)] of the revised title. The words “United States Postal Service” are substituted for “Postmaster General” because of section 6(*o*) of the Postal Reorganization Act (Public Law 91–375, 84 Stat. 783). The words “real, personal, or other” are omitted as unnecessary.
 
-### § 3176. Administrator of General Services to furnish services in continental United States to international bodies
+### § 3176. Administrator of General Services to furnish services in continental United States to international bodies
 
 Sections 1535 and 1536 of title 31 are extended so that the Administrator of General Services, at the request of the Secretary of State, may furnish services in the continental United States, on a reimbursable basis, to any international body with which the Federal Government is affiliated.
 
@@ -942,11 +942,11 @@ Sections 1535 and 1536 of title 31 are extended so that the Administrator of Gen
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3176 | 40:298b. | June 16, 1949, ch. 218, title IV, § 405, 63 Stat. 199. |
+| 3176 | 40:298b. | June 16, 1949, ch. 218, title IV, § 405, 63 Stat. 199. |
 
 The words “Sections 1535 and 1536 of title 31” are substituted for “section 601 of the Economy Act, approved June 30, 1932, as amended” because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code. The words “Administrator of General Services” are substituted for “Public Buildings Administration” because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) [303(b)] of the revised title. The words “Secretary of State” are substituted for “State Department” because of 22:2651.
 
-### § 3177. Use of photovoltaic energy in public buildings
+### § 3177. Use of photovoltaic energy in public buildings
 
 **(a) Photovoltaic Energy Commercialization Program.—**
 
@@ -990,7 +990,7 @@ The words “Sections 1535 and 1536 of title 31” are substituted for “sectio
 
 **(2) Photovoltaic systems evaluation program.—** There are authorized to be appropriated to carry out subsection (b) $10,000,000 for each of fiscal years 2006 through 2010. Such sums shall remain available until expended.
 
-(Added Pub. L. 109–58, title II, § 204(a), Aug. 8, 2005, 119 Stat. 653.)
+(Added Pub. L. 109–58, title II, § 204(a), Aug. 8, 2005, 119 Stat. 653.)
 
 **Editorial Notes**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 117—IDENTIFYING OUTPUTS OF GENERATIVE ADVERSARIAL NETWORKS
 
-## § 9201. Findings
+## § 9201. Findings
 
 Congress finds the following:
 
@@ -29,15 +29,15 @@ Congress finds the following:
 
 **(5)** Generative adversarial networks are not likely to be utilized as the sole technique of artificial intelligence or machine learning capable of creating credible deepfakes. Other techniques may be developed in the future to produce similar outputs.
 
-(Pub. L. 116–258, § 2, Dec. 23, 2020, 134 Stat. 1150.)
+(Pub. L. 116–258, § 2, Dec. 23, 2020, 134 Stat. 1150.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 116–258, § 1, Dec. 23, 2020, 134 Stat. 1150, provided that: “This Act [enacting this chapter] may be cited as the ‘Identifying Outputs of Generative Adversarial Networks Act’ or the ‘IOGAN Act’.”
+Pub. L. 116–258, § 1, Dec. 23, 2020, 134 Stat. 1150, provided that: “This Act [enacting this chapter] may be cited as the ‘Identifying Outputs of Generative Adversarial Networks Act’ or the ‘IOGAN Act’.”
 
-## § 9202. NSF support of research on manipulated or synthesized content and information security
+## § 9202. NSF support of research on manipulated or synthesized content and information security
 
 The Director of the National Science Foundation, in consultation with other relevant Federal agencies, shall support merit-reviewed and competitively awarded research on manipulated or synthesized content and information authenticity, which may include—
 
@@ -51,13 +51,13 @@ The Director of the National Science Foundation, in consultation with other rele
 
 **(5)** research awards coordinated with other federal agencies and programs, including the Defense Advanced Research Projects Agency and the Intelligence Advanced Research Projects Agency,1
 
-<sup>1</sup>  So in original. Probably should be “Activity,”.
+<sup>1</sup> So in original. Probably should be “Activity,”.
 
 with coordination enabled by the Networking and Information Technology Research and Development Program.
 
-(Pub. L. 116–258, § 3, Dec. 23, 2020, 134 Stat. 1151.)
+(Pub. L. 116–258, § 3, Dec. 23, 2020, 134 Stat. 1151.)
 
-## § 9203. NIST support for research and standards on generative adversarial networks
+## § 9203. NIST support for research and standards on generative adversarial networks
 
 **(a) In general**
 
@@ -69,17 +69,17 @@ The Director of the National Institute of Standards and Technology shall support
 
 **(2)** to consider the feasibility of an ongoing public and private sector engagement to develop voluntary standards for the function and outputs of generative adversarial networks or other technologies that synthesize or manipulate content.
 
-(Pub. L. 116–258, § 4, Dec. 23, 2020, 134 Stat. 1151.)
+(Pub. L. 116–258, § 4, Dec. 23, 2020, 134 Stat. 1151.)
 
-## § 9204. Generative adversarial network defined
+## § 9204. Generative adversarial network defined
 
-In this chapter, the term “generative adversarial network” means, with respect to artificial intelligence, the machine learning process of attempting to cause a generator artificial neural network (referred to in this section as the “generator” 1
+In this chapter, the term “generative adversarial network” means, with respect to artificial intelligence, the machine learning process of attempting to cause a generator artificial neural network (referred to in this section as the “generator” 1
 
-<sup>1</sup>  So in original. Probably should be followed by a closing parenthesis.
+<sup>1</sup> So in original. Probably should be followed by a closing parenthesis.
 
 and a discriminator artificial neural network (referred to in this section as a “discriminator”) to compete against each other to become more accurate in their function and outputs, through which the generator and discriminator create a feedback loop, causing the generator to produce increasingly higher-quality artificial outputs and the discriminator to increasingly improve in detecting such artificial outputs.
 
-(Pub. L. 116–258, § 6, Dec. 23, 2020, 134 Stat. 1152.)
+(Pub. L. 116–258, § 6, Dec. 23, 2020, 134 Stat. 1152.)
 
 **Editorial Notes**
 

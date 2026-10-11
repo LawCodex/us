@@ -23,15 +23,15 @@ This chapter consisted of sections 801 to 803, related to proceedings by copyrig
 
 **Amendments**
 
-2004—Pub. L. 108–419, § 3(a), Nov. 30, 2004, 118 Stat. 2341, amended chapter heading and analysis generally, substituting chapter heading and items 801 to 805 for chapter heading “COPYRIGHT ARBITRATION ROYALTY PANELS”, and items 801 “Copyright arbitration royalty panels: Establishment and purpose”, 802 “Membership and proceedings of copyright arbitration royalty panels”, and 803 “Institution and conclusion of proceedings”.
+2004—Pub. L. 108–419, § 3(a), Nov. 30, 2004, 118 Stat. 2341, amended chapter heading and analysis generally, substituting chapter heading and items 801 to 805 for chapter heading “COPYRIGHT ARBITRATION ROYALTY PANELS”, and items 801 “Copyright arbitration royalty panels: Establishment and purpose”, 802 “Membership and proceedings of copyright arbitration royalty panels”, and 803 “Institution and conclusion of proceedings”.
 
-1997—Pub. L. 105–80, § 12(a)(18), Nov. 13, 1997, 111 Stat. 1535, substituted “Establishment” for “establishment” in item 801.
+1997—Pub. L. 105–80, § 12(a)(18), Nov. 13, 1997, 111 Stat. 1535, substituted “Establishment” for “establishment” in item 801.
 
-1993—Pub. L. 103–198, § 2(f), Dec. 17, 1993, 107 Stat. 2308, amended table of sections generally, substituting chapter heading and items 801 to 803 for chapter heading “COPYRIGHT ROYALTY TRIBUNAL”, item 801 “Copyright Royalty Tribunal: Establishment and purpose”, item 802 “Membership of the Tribunal”, item 804 “Institution and conclusion of proceedings”, item 805 “Staff of the Tribunal”, item 806 “Administrative support of the Tribunal”, item 807 “Deduction of costs of proceedings”, item 808 “Reports”, item 809 “Effective date of final determinations”, and item 810 “Judicial review”.
+1993—Pub. L. 103–198, § 2(f), Dec. 17, 1993, 107 Stat. 2308, amended table of sections generally, substituting chapter heading and items 801 to 803 for chapter heading “COPYRIGHT ROYALTY TRIBUNAL”, item 801 “Copyright Royalty Tribunal: Establishment and purpose”, item 802 “Membership of the Tribunal”, item 804 “Institution and conclusion of proceedings”, item 805 “Staff of the Tribunal”, item 806 “Administrative support of the Tribunal”, item 807 “Deduction of costs of proceedings”, item 808 “Reports”, item 809 “Effective date of final determinations”, and item 810 “Judicial review”.
 
-Pub. L. 103–198, § 2(c), Dec. 17, 1993, 107 Stat. 2307, struck out item 803 “Procedures of the Tribunal.”
+Pub. L. 103–198, § 2(c), Dec. 17, 1993, 107 Stat. 2307, struck out item 803 “Procedures of the Tribunal.”
 
-## § 801. Copyright Royalty Judges; appointment and functions
+## § 801. Copyright Royalty Judges; appointment and functions
 
 **(a) Appointment.—** The Librarian of Congress shall appoint 3 full-time Copyright Royalty Judges, and shall appoint 1 of the 3 as the Chief Copyright Royalty Judge. The Librarian shall make appointments to such positions after consultation with the Register of Copyrights.
 
@@ -63,9 +63,9 @@ The Copyright Royalty Judges may consider all factors relating to the maintenanc
 
 **(C)** In the event of any change in the rules and regulations of the Federal Communications Commission with respect to syndicated and sports program exclusivity after April 15, 1976, the rates established by section 111(d)(1)(B) may be adjusted to assure that such rates are reasonable in light of the changes to such rules and regulations, but any such adjustment shall apply only to the affected television broadcast signals carried on those systems affected by the change.
 
-**(D)** The gross receipts limitations established by section 111(d)(1)(C) and (D) 1
+**(D)** The gross receipts limitations established by section 111(d)(1)(C) and (D) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall be adjusted to reflect national monetary inflation or deflation or changes in the average rates charged cable system subscribers for the basic service of providing secondary transmissions to maintain the real constant dollar value of the exemption provided by such section, and the royalty rate specified therein shall not be subject to adjustment.
 
@@ -117,35 +117,35 @@ shall be adjusted to reflect national monetary inflation or deflation or changes
 
 **(f) Effective Date of Actions.—** On and after the date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, in any case in which time limits are prescribed under this title for performance of an action with or by the Copyright Royalty Judges, and in which the last day of the prescribed period falls on a Saturday, Sunday, holiday, or other nonbusiness day within the District of Columbia or the Federal Government, the action may be taken on the next succeeding business day, and is effective as of the date when the period expired.
 
-(Added Pub. L. 108–419, § 3(a), Nov. 30, 2004, 118 Stat. 2341; amended Pub. L. 109–303, §§ 3(1), (2), 5, Oct. 6, 2006, 120 Stat. 1478, 1483; Pub. L. 115–264, title I, §§ 102(b), 103(g)(2), Oct. 11, 2018, 132 Stat. 3721, 3725.)
+(Added Pub. L. 108–419, § 3(a), Nov. 30, 2004, 118 Stat. 2341; amended Pub. L. 109–303, §§ 3(1), (2), 5, Oct. 6, 2006, 120 Stat. 1478, 1483; Pub. L. 115–264, title I, §§ 102(b), 103(g)(2), Oct. 11, 2018, 132 Stat. 3721, 3725.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 111(d)(1)(D) of this title, referred to in subsec. (b)(2)(D), was amended generally by Pub. L. 111–175, title I, § 104(c)(1)(C), May 27, 2010, 124 Stat. 1232, and, as so amended, no longer relates to gross receipts limitations.
+Section 111(d)(1)(D) of this title, referred to in subsec. (b)(2)(D), was amended generally by Pub. L. 111–175, title I, § 104(c)(1)(C), May 27, 2010, 124 Stat. 1232, and, as so amended, no longer relates to gross receipts limitations.
 
 The date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, referred to in subsec. (f), is the date of the enactment of Pub. L. 108–419, which was approved Nov. 30, 2004.
 
 **Prior Provisions**
 
-A prior section 801, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2594; Pub. L. 99–397, § 2(c), (d), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–568, § 11(1), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, § 202(4), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, § 3(b), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, § 3(a)(1), Oct. 28, 1992, 106 Stat. 4247; Pub. L. 103–198, § 2(a), Dec. 17, 1993, 107 Stat. 2304; Pub. L. 104–39, § 5(d)(1), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§ 8(a), 12(a)(19), Nov. 13, 1997, 111 Stat. 1533, 1535; Pub. L. 105–304, title IV, § 405(e)(1), Oct. 28, 1998, 112 Stat. 2902, related to the establishment and purpose of copyright arbitration royalty panels, prior to the general amendment of this chapter by Pub. L. 108–419.
+A prior section 801, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2594; Pub. L. 99–397, § 2(c), (d), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–568, § 11(1), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, § 202(4), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, § 3(b), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, § 3(a)(1), Oct. 28, 1992, 106 Stat. 4247; Pub. L. 103–198, § 2(a), Dec. 17, 1993, 107 Stat. 2304; Pub. L. 104–39, § 5(d)(1), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§ 8(a), 12(a)(19), Nov. 13, 1997, 111 Stat. 1533, 1535; Pub. L. 105–304, title IV, § 405(e)(1), Oct. 28, 1998, 112 Stat. 2902, related to the establishment and purpose of copyright arbitration royalty panels, prior to the general amendment of this chapter by Pub. L. 108–419.
 
 **Amendments**
 
-2018—Subsec. (b)(1). Pub. L. 115–264, § 103(g)(2)(A), struck out “The rates applicable under sections 114(f)(1)(B), 115, and 116 shall be calculated to achieve the following objectives:” at end of introductory provisions and struck out subpars. (A) to (D) which set forth objectives to be achieved.
+2018—Subsec. (b)(1). Pub. L. 115–264, § 103(g)(2)(A), struck out “The rates applicable under sections 114(f)(1)(B), 115, and 116 shall be calculated to achieve the following objectives:” at end of introductory provisions and struck out subpars. (A) to (D) which set forth objectives to be achieved.
 
-Subsec. (b)(7)(B). Pub. L. 115–264, § 103(g)(2)(B), substituted “114(f)(2)” for “114(f)(3)”.
+Subsec. (b)(7)(B). Pub. L. 115–264, § 103(g)(2)(B), substituted “114(f)(2)” for “114(f)(3)”.
 
-Subsec. (b)(8), (9). Pub. L. 115–264, § 102(b), added par. (8) and redesignated former par. (8) as (9).
+Subsec. (b)(8), (9). Pub. L. 115–264, § 102(b), added par. (8) and redesignated former par. (8) as (9).
 
-2006—Subsec. (b)(1). Pub. L. 109–303, § 3(1), substituted “119, and 1004” for “119 and 1004”.
+2006—Subsec. (b)(1). Pub. L. 109–303, § 3(1), substituted “119, and 1004” for “119 and 1004”.
 
-Subsec. (b)(3)(C). Pub. L. 109–303, § 5(1), added introductory provisions and struck out former introductory provisions which read as follows: “The Copyright Royalty Judges may make a partial distribution of such fees during the pendency of the proceeding under subparagraph (B) if all participants under section 803(b)(2) in the proceeding that are entitled to receive those fees that are to be partially distributed—”.
+Subsec. (b)(3)(C). Pub. L. 109–303, § 5(1), added introductory provisions and struck out former introductory provisions which read as follows: “The Copyright Royalty Judges may make a partial distribution of such fees during the pendency of the proceeding under subparagraph (B) if all participants under section 803(b)(2) in the proceeding that are entitled to receive those fees that are to be partially distributed—”.
 
-Subsec. (b)(3)(C)(i). Pub. L. 109–303, § 5(2), substituted “the” for “such”.
+Subsec. (b)(3)(C)(i). Pub. L. 109–303, § 5(2), substituted “the” for “such”.
 
-Subsec. (f). Pub. L. 109–303, § 3(2), added subsec. (f).
+Subsec. (f). Pub. L. 109–303, § 3(2), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -159,7 +159,7 @@ Amendment by section 3 of Pub. L. 109–303 effective as if included in the Copy
 
 **Effective Date; Transition Provisions**
 
-Pub. L. 108–419, § 6, Nov. 30, 2004, 118 Stat. 2369, as amended by Pub. L. 109–303, § 4(h), Oct. 6, 2006, 120 Stat. 1483, provided that:
+Pub. L. 108–419, § 6, Nov. 30, 2004, 118 Stat. 2369, as amended by Pub. L. 109–303, § 4(h), Oct. 6, 2006, 120 Stat. 1483, provided that:
 
 > **“(a) Effective Date.—** This Act [see Short Title of 2004 Amendment note set out under section 101 of this title] and the amendments made by this Act shall take effect 6 months after the date of enactment of this Act [Nov. 30, 2004], except that the Librarian of Congress shall appoint 1 or more interim Copyright Royalty Judges under section 802(d) of title 17, United States Code, as amended by this Act, within 90 days after such date of enactment to carry out the functions of the Copyright Royalty Judges under title 17, United States Code, to the extent that Copyright Royalty Judges provided for in section 801(a) of title 17, United States Code, as amended by this Act, have not been appointed before the end of that 90-day period.
 
@@ -175,7 +175,7 @@ Pub. L. 108–419, § 6, Nov. 30, 2004, 118 Stat. 2369, as amended by Pub. L. 
 
 > **“(c) Existing Appropriations.—** Any funds made available in an appropriations Act to carry out chapter 8 of title 17, United States Code, shall be available to the extent necessary to carry out this section.”
 
-## § 802. Copyright Royalty Judgeships; staff
+## § 802. Copyright Royalty Judgeships; staff
 
 **(a) Qualifications of Copyright Royalty Judges.—**
 
@@ -235,7 +235,7 @@ Pub. L. 108–419, § 6, Nov. 30, 2004, 118 Stat. 2369, as amended by Pub. L. 
 
 **(i) Removal or Sanction.—** The Librarian of Congress may sanction or remove a Copyright Royalty Judge for violation of the standards of conduct adopted under subsection (h), misconduct, neglect of duty, or any disqualifying physical or mental disability. Any such sanction or removal may be made only after notice and opportunity for a hearing, but the Librarian of Congress may suspend the Copyright Royalty Judge during the pendency of such hearing. The Librarian shall appoint an interim Copyright Royalty Judge during the period of any such suspension.
 
-(Added Pub. L. 108–419, § 3(a), Nov. 30, 2004, 118 Stat. 2345; amended Pub. L. 109–303, § 3(3), (4), Oct. 6, 2006, 120 Stat. 1478, 1479; Pub. L. 116–94, div. P, title XIV, § 1405(a)(1), Dec. 20, 2019, 133 Stat. 3208.)
+(Added Pub. L. 108–419, § 3(a), Nov. 30, 2004, 118 Stat. 2345; amended Pub. L. 109–303, § 3(3), (4), Oct. 6, 2006, 120 Stat. 1478, 1479; Pub. L. 116–94, div. P, title XIV, § 1405(a)(1), Dec. 20, 2019, 133 Stat. 3208.)
 
 **Editorial Notes**
 
@@ -245,13 +245,13 @@ The General Schedule, referred to in subsec. (e)(2), is set out under section 53
 
 **Prior Provisions**
 
-A prior section 802, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2596; Pub. L. 101–319, § 2(a), July 3, 1990, 104 Stat. 290; Pub. L. 103–198, § 2(b), Dec. 17, 1993, 107 Stat. 2305; Pub. L. 104–39, § 5(d)(2)–(4), Nov. 1, 1995, 109 Stat. 349; Pub. L. 105–80, § 8(b), Nov. 13, 1997, 111 Stat. 1533; Pub. L. 105–304, title IV, § 405(d), (e)(2)–(4), Oct. 28, 1998, 112 Stat. 2902; Pub. L. 107–273, div. C, title III, § 13301(c)(2), Nov. 2, 2002, 116 Stat. 1912, related to membership and proceedings of copyright arbitration royalty panels, prior to the general amendment of this chapter by Pub. L. 108–419.
+A prior section 802, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2596; Pub. L. 101–319, § 2(a), July 3, 1990, 104 Stat. 290; Pub. L. 103–198, § 2(b), Dec. 17, 1993, 107 Stat. 2305; Pub. L. 104–39, § 5(d)(2)–(4), Nov. 1, 1995, 109 Stat. 349; Pub. L. 105–80, § 8(b), Nov. 13, 1997, 111 Stat. 1533; Pub. L. 105–304, title IV, § 405(d), (e)(2)–(4), Oct. 28, 1998, 112 Stat. 2902; Pub. L. 107–273, div. C, title III, § 13301(c)(2), Nov. 2, 2002, 116 Stat. 1912, related to membership and proceedings of copyright arbitration royalty panels, prior to the general amendment of this chapter by Pub. L. 108–419.
 
 **Amendments**
 
-2019—Subsec. (b). Pub. L. 116–94, § 1405(a)(1)(A), struck out “3” before “full-time”.
+2019—Subsec. (b). Pub. L. 116–94, § 1405(a)(1)(A), struck out “3” before “full-time”.
 
-Subsec. (e)(2). Pub. L. 116–94, § 1405(a)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Of the staff members appointed under subsection (b)—
+Subsec. (e)(2). Pub. L. 116–94, § 1405(a)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Of the staff members appointed under subsection (b)—
 
 “(A) the rate of pay of 1 staff member shall be not more than the basic rate of pay payable for level 10 of GS–15 of the General Schedule;
 
@@ -259,23 +259,23 @@ Subsec. (e)(2). Pub. L. 116–94, § 1405(a)(1)(B), added par. (2) and struck 
 
 “(C) the rate of pay for the third staff member shall be not less than the basic rate of pay payable for GS–8 of the General Schedule and not more than the basic rate of pay payable for level 10 of GS–11 of such Schedule.”
 
-2006—Subsec. (f)(1)(A)(i). Pub. L. 109–303, § 3(3)(A), substituted “subparagraph (B) and clause (ii) of this subparagraph” for “clause (ii) of this subparagraph and subparagraph (B)”.
+2006—Subsec. (f)(1)(A)(i). Pub. L. 109–303, § 3(3)(A), substituted “subparagraph (B) and clause (ii) of this subparagraph” for “clause (ii) of this subparagraph and subparagraph (B)”.
 
-Subsec. (f)(1)(A)(ii). Pub. L. 109–303, § 3(3)(B), added cl. (ii) and struck out former cl. (ii) which related to request for interpretation by the Register of Copyrights of material question of substantive law concerning construction of provisions of this title that are the subject of the proceeding.
+Subsec. (f)(1)(A)(ii). Pub. L. 109–303, § 3(3)(B), added cl. (ii) and struck out former cl. (ii) which related to request for interpretation by the Register of Copyrights of material question of substantive law concerning construction of provisions of this title that are the subject of the proceeding.
 
-Subsec. (f)(1)(D). Pub. L. 109–303, § 3(4), inserted a comma after “undertakes to consult with”.
+Subsec. (f)(1)(D). Pub. L. 109–303, § 3(4), inserted a comma after “undertakes to consult with”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–94, div. P, title XIV, § 1405(b), Dec. 20, 2019, 133 Stat. 3208, provided that: “The amendments made by this section [amending this section and section 803 of this title] shall take effect with respect to fiscal year 2020 and each fiscal year thereafter.”
+Pub. L. 116–94, div. P, title XIV, § 1405(b), Dec. 20, 2019, 133 Stat. 3208, provided that: “The amendments made by this section [amending this section and section 803 of this title] shall take effect with respect to fiscal year 2020 and each fiscal year thereafter.”
 
 **Effective Date of 2006 Amendment**
 
 Amendment by Pub. L. 109–303 effective as if included in the Copyright Royalty and Distribution Reform Act of 2004, Pub. L. 108–419, see section 6 of Pub. L. 109–303, set out as a note under section 111 of this title.
 
-## § 803. Proceedings of Copyright Royalty Judges
+## § 803. Proceedings of Copyright Royalty Judges
 
 **(a) Proceedings.—**
 
@@ -461,7 +461,7 @@ Amendment by Pub. L. 109–303 effective as if included in the Copyright Royalty
 
 **(2) Positions required for administration of compulsory licensing.—** Section 307 of the Legislative Branch Appropriations Act, 1994, shall not apply to employee positions in the Library of Congress that are required to be filled in order to carry out section 111, 112, 114, 115, 116, 118, or 119 or chapter 10.
 
-(Added Pub. L. 108–419, § 3(a), Nov. 30, 2004, 118 Stat. 2348; amended Pub. L. 108–447, div. J, title IX [title I, § 112], Dec. 8, 2004, 118 Stat. 3409; Pub. L. 109–303, § 3(5)–(11), Oct. 6, 2006, 120 Stat. 1479, 1481; Pub. L. 111–295, § 5(b), Dec. 9, 2010, 124 Stat. 3181; Pub. L. 115–264, title I, § 103(g)(3), Oct. 11, 2018, 132 Stat. 3725; Pub. L. 116–94, div. P, title XIV, § 1405(a)(2), Dec. 20, 2019, 133 Stat. 3208.)
+(Added Pub. L. 108–419, § 3(a), Nov. 30, 2004, 118 Stat. 2348; amended Pub. L. 108–447, div. J, title IX [title I, § 112], Dec. 8, 2004, 118 Stat. 3409; Pub. L. 109–303, § 3(5)–(11), Oct. 6, 2006, 120 Stat. 1479, 1481; Pub. L. 111–295, § 5(b), Dec. 9, 2010, 124 Stat. 3181; Pub. L. 115–264, title I, § 103(g)(3), Oct. 11, 2018, 132 Stat. 3725; Pub. L. 116–94, div. P, title XIV, § 1405(a)(2), Dec. 20, 2019, 133 Stat. 3208.)
 
 **Editorial Notes**
 
@@ -475,9 +475,9 @@ Section 307 of the Legislative Branch Appropriations Act, 1994, referred to in s
 
 **Prior Provisions**
 
-A prior section 803, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2597, § 804; Pub. L. 100–568, § 11(2), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, § 202(5), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, § 3(c), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, § 3(a)(2), Oct. 28, 1992, 106 Stat. 4248; renumbered § 803 and amended Pub. L. 103–198, § 2(d), Dec. 17, 1993, 107 Stat. 2307; Pub. L. 104–39, § 5(d)(5)–(7), Nov. 1, 1995, 109 Stat. 349; Pub. L. 105–80, § 12(a)(20), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 105–304, title IV, § 405(e)(5), (6), Oct. 28, 1998, 112 Stat. 2902, related to institution and conclusion of proceedings of copyright arbitration royalty panels, prior to the general amendment of this chapter by Pub. L. 108–419.
+A prior section 803, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2597, § 804; Pub. L. 100–568, § 11(2), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, § 202(5), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, § 3(c), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, § 3(a)(2), Oct. 28, 1992, 106 Stat. 4248; renumbered § 803 and amended Pub. L. 103–198, § 2(d), Dec. 17, 1993, 107 Stat. 2307; Pub. L. 104–39, § 5(d)(5)–(7), Nov. 1, 1995, 109 Stat. 349; Pub. L. 105–80, § 12(a)(20), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 105–304, title IV, § 405(e)(5), (6), Oct. 28, 1998, 112 Stat. 2902, related to institution and conclusion of proceedings of copyright arbitration royalty panels, prior to the general amendment of this chapter by Pub. L. 108–419.
 
-Another prior section 803, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2596, related to procedures of the Copyright Royalty Tribunal, prior to repeal by Pub. L. 103–198, § 2(c), Dec. 17, 1993, 107 Stat. 2307.
+Another prior section 803, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2596, related to procedures of the Copyright Royalty Tribunal, prior to repeal by Pub. L. 103–198, § 2(c), Dec. 17, 1993, 107 Stat. 2307.
 
 **Amendments**
 
@@ -487,35 +487,35 @@ Another prior section 803, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 9
 
 2010—Subsec. (b)(6)(A). Pub. L. 111–295 substituted “All regulations issued by the Copyright Royalty Judges are subject to the approval of the Librarian of Congress and are subject to judicial review pursuant to chapter 7 of title 5, except as set forth in subsection (d).” for “All regulations issued by the Copyright Royalty Judges are subject to the approval of the Librarian of Congress.”
 
-2006—Subsec. (a)(1). Pub. L. 109–303, § 3(5), substituted “The Copyright Royalty Judges shall act in accordance with this title, and to the extent not inconsistent with this title, in accordance with subchapter II of chapter 5 of title 5, in carrying out the purposes set forth in section 801. The Copyright” for “The Copyright” and inserted “copyright arbitration royalty panels (to the extent those determinations are not inconsistent with a decision of the Librarian of Congress or the Register of Copyrights),” after “Congress, the Register of Copyrights,”.
+2006—Subsec. (a)(1). Pub. L. 109–303, § 3(5), substituted “The Copyright Royalty Judges shall act in accordance with this title, and to the extent not inconsistent with this title, in accordance with subchapter II of chapter 5 of title 5, in carrying out the purposes set forth in section 801. The Copyright” for “The Copyright” and inserted “copyright arbitration royalty panels (to the extent those determinations are not inconsistent with a decision of the Librarian of Congress or the Register of Copyrights),” after “Congress, the Register of Copyrights,”.
 
-Subsec. (b)(1)(A)(i)(V). Pub. L. 109–303, § 3(6)(A), substituted “the publication of notice requirement shall not apply in the case of” for “in the case of” and struck out “, such notice may not be published.” at end.
+Subsec. (b)(1)(A)(i)(V). Pub. L. 109–303, § 3(6)(A), substituted “the publication of notice requirement shall not apply in the case of” for “in the case of” and struck out “, such notice may not be published.” at end.
 
-Subsec. (b)(2). Pub. L. 109–303, § 3(6)(B), struck out “, together with a filing fee of $150” before semicolon at end of subpar. (A) and added subpar. (D).
+Subsec. (b)(2). Pub. L. 109–303, § 3(6)(B), struck out “, together with a filing fee of $150” before semicolon at end of subpar. (A) and added subpar. (D).
 
-Subsec. (b)(3)(A). Pub. L. 109–303, § 3(6)(C), substituted “Commencement of proceedings” for “In general” in heading, designated existing provisions as cl. (i), inserted cl. (i) heading, and added cl. (ii).
+Subsec. (b)(3)(A). Pub. L. 109–303, § 3(6)(C), substituted “Commencement of proceedings” for “In general” in heading, designated existing provisions as cl. (i), inserted cl. (i) heading, and added cl. (ii).
 
-Subsec. (b)(4)(A). Pub. L. 109–303, § 3(6)(D), struck out last sentence which read as follows: “The participant asserting the claim shall not be required to pay the filing fee under paragraph (2).”
+Subsec. (b)(4)(A). Pub. L. 109–303, § 3(6)(D), struck out last sentence which read as follows: “The participant asserting the claim shall not be required to pay the filing fee under paragraph (2).”
 
-Subsec. (b)(6)(C)(i). Pub. L. 109–303, § 3(6)(E)(i), inserted “and written rebuttal statements” after “written direct statements” and substituted “which, in the case of written direct statements, may” for “which may” and “clause (iv)” for “clause (iii)”.
+Subsec. (b)(6)(C)(i). Pub. L. 109–303, § 3(6)(E)(i), inserted “and written rebuttal statements” after “written direct statements” and substituted “which, in the case of written direct statements, may” for “which may” and “clause (iv)” for “clause (iii)”.
 
-Subsec. (b)(6)(C)(ii)(I). Pub. L. 109–303, § 3(6)(E)(ii), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “Following the submission to the Copyright Royalty Judges of written direct statements by the participants in a proceeding under paragraph (2), the judges shall meet with the participants for the purpose of setting a schedule for conducting and completing discovery. Such schedule shall be determined by the Copyright Royalty Judges.”
+Subsec. (b)(6)(C)(ii)(I). Pub. L. 109–303, § 3(6)(E)(ii), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “Following the submission to the Copyright Royalty Judges of written direct statements by the participants in a proceeding under paragraph (2), the judges shall meet with the participants for the purpose of setting a schedule for conducting and completing discovery. Such schedule shall be determined by the Copyright Royalty Judges.”
 
-Subsec. (b)(6)(C)(iv). Pub. L. 109–303, § 3(6)(E)(iii), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “Discovery in such proceedings shall be permitted for a period of 60 days, except for discovery ordered by the Copyright Royalty Judges in connection with the resolution of motions, orders, and disputes pending at the end of such period.”
+Subsec. (b)(6)(C)(iv). Pub. L. 109–303, § 3(6)(E)(iii), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “Discovery in such proceedings shall be permitted for a period of 60 days, except for discovery ordered by the Copyright Royalty Judges in connection with the resolution of motions, orders, and disputes pending at the end of such period.”
 
-Subsec. (b)(6)(C)(x). Pub. L. 109–303, § 3(6)(E)(iv), amended cl. (x) generally. Prior to amendment, cl. (x) read as follows: “The Copyright Royalty Judges shall order a settlement conference among the participants in the proceeding to facilitate the presentation of offers of settlement among the participants. The settlement conference shall be held during a 21-day period following the end of the discovery period and shall take place outside the presence of the Copyright Royalty Judges.”
+Subsec. (b)(6)(C)(x). Pub. L. 109–303, § 3(6)(E)(iv), amended cl. (x) generally. Prior to amendment, cl. (x) read as follows: “The Copyright Royalty Judges shall order a settlement conference among the participants in the proceeding to facilitate the presentation of offers of settlement among the participants. The settlement conference shall be held during a 21-day period following the end of the discovery period and shall take place outside the presence of the Copyright Royalty Judges.”
 
-Subsec. (c)(2)(B). Pub. L. 109–303, § 3(7), struck out “concerning rates and terms” before period at end.
+Subsec. (c)(2)(B). Pub. L. 109–303, § 3(7), struck out “concerning rates and terms” before period at end.
 
-Subsec. (c)(4). Pub. L. 109–303, § 3(8), struck out “, with the approval of the Register of Copyrights,” before “issue an amendment”.
+Subsec. (c)(4). Pub. L. 109–303, § 3(8), struck out “, with the approval of the Register of Copyrights,” before “issue an amendment”.
 
-Subsec. (c)(7). Pub. L. 109–303, § 3(9), substituted “of the Copyright” for “of Copyright”.
+Subsec. (c)(7). Pub. L. 109–303, § 3(9), substituted “of the Copyright” for “of Copyright”.
 
-Subsec. (d)(2)(C)(i)(I). Pub. L. 109–303, § 3(10), substituted “applicable statements of account and reports of use” for “statements of account and any report of use”.
+Subsec. (d)(2)(C)(i)(I). Pub. L. 109–303, § 3(10), substituted “applicable statements of account and reports of use” for “statements of account and any report of use”.
 
-Subsec. (d)(3). Pub. L. 109–303, § 3(11), substituted “Section 706 of title 5 shall apply with respect to review by the court of appeals under this subsection. If the court modifies” for “If the court, pursuant to section 706 of title 5, modifies”.
+Subsec. (d)(3). Pub. L. 109–303, § 3(11), substituted “Section 706 of title 5 shall apply with respect to review by the court of appeals under this subsection. If the court modifies” for “If the court, pursuant to section 706 of title 5, modifies”.
 
-2004—Subsec. (b)(1)(A)(i)(V). Pub. L. 108–447 inserted “, except that in the case of proceedings under section 111 that are scheduled to commence in 2005, such notice may not be published.” before period at end.
+2004—Subsec. (b)(1)(A)(i)(V). Pub. L. 108–447 inserted “, except that in the case of proceedings under section 111 that are scheduled to commence in 2005, such notice may not be published.” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -527,7 +527,7 @@ Amendment by Pub. L. 116–94 effective with respect to fiscal year 2020 and eac
 
 Amendment by Pub. L. 109–303 effective as if included in the Copyright Royalty and Distribution Reform Act of 2004, Pub. L. 108–419, see section 6 of Pub. L. 109–303, set out as a note under section 111 of this title.
 
-## § 804. Institution of proceedings
+## § 804. Institution of proceedings
 
 **(a) Filing of Petition.—** With respect to proceedings referred to in paragraphs (1) and (2) of section 801(b) concerning the determination or adjustment of royalty rates as provided in sections 111, 112, 114, 115, 116, 118, 119, and 1004, during the calendar years specified in the schedule set forth in subsection (b), any owner or user of a copyrighted work whose royalty rates are specified by this title, or are established under this chapter before or after the enactment of the Copyright Royalty and Distribution Reform Act of 2004, may file a petition with the Copyright Royalty Judges declaring that the petitioner requests a determination or adjustment of the rate. The Copyright Royalty Judges shall make a determination as to whether the petitioner has such a significant interest in the royalty rate in which a determination or adjustment is requested. If the Copyright Royalty Judges determine that the petitioner has such a significant interest, the Copyright Royalty Judges shall cause notice of this determination, with the reasons for such determination, to be published in the Federal Register, together with the notice of commencement of proceedings under this chapter. With respect to proceedings under paragraph (1) of section 801(b) concerning the determination or adjustment of royalty rates as provided in sections 112 and 114, during the calendar years specified in the schedule set forth in subsection (b), the Copyright Royalty Judges shall cause notice of commencement of proceedings under this chapter to be published in the Federal Register as provided in section 803(b)(1)(A).
 
@@ -547,11 +547,11 @@ Amendment by Pub. L. 109–303 effective as if included in the Copyright Royalty
 
 **(A) For eligible nonsubscription services and new subscription services.—** Proceedings under this chapter shall be commenced as soon as practicable after the date of enactment of the Copyright Royalty and Distribution Reform Act of 2004 to determine reasonable terms and rates of royalty payments under sections 114 and 112 for the activities of eligible nonsubscription transmission services and new subscription services, to be effective for the period beginning on January 1, 2006, and ending on December 31, 2010. Such proceedings shall next be commenced in January 2009 to determine reasonable terms and rates of royalty payments, to become effective on January 1, 2011. Thereafter, such proceedings shall be repeated in each subsequent fifth calendar year.
 
-**(B) For preexisting subscription and satellite digital audio radio services.—** Proceedings under this chapter shall be commenced in January 2006 to determine reasonable terms and rates of royalty payments under sections 114 and 112 for the activities of preexisting subscription services, to be effective during the period beginning on January 1, 2008, and ending on December 31, 2012, and preexisting satellite digital audio radio services, to be effective during the period beginning on January 1, 2007, and ending on December 31, 2012. Such proceedings shall next be commenced in 2011 to determine reasonable terms and rates of royalty payments, to become effective on January 1, 2013. Thereafter, such proceedings shall be repeated in each subsequent fifth calendar year, except that—(i) 1
+**(B) For preexisting subscription and satellite digital audio radio services.—** Proceedings under this chapter shall be commenced in January 2006 to determine reasonable terms and rates of royalty payments under sections 114 and 112 for the activities of preexisting subscription services, to be effective during the period beginning on January 1, 2008, and ending on December 31, 2012, and preexisting satellite digital audio radio services, to be effective during the period beginning on January 1, 2007, and ending on December 31, 2012. Such proceedings shall next be commenced in 2011 to determine reasonable terms and rates of royalty payments, to become effective on January 1, 2013. Thereafter, such proceedings shall be repeated in each subsequent fifth calendar year, except that—(i) 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
-with respect to preexisting subscription services, the terms and rates finally determined for the rate period ending on December 31, 2022, shall remain in effect through December 31, 2027, and there shall be no proceeding to determine terms and rates for preexisting subscription services for the period beginning on January 1, 2023, and ending on December 31, 2027; and” “ 1 (ii) with respect to pre-existing satellite digital audio radio services, the terms and rates set forth by the Copyright Royalty Judges on December 14, 2017, in their initial determination for the rate period ending on December 31, 2022, shall be in effect through December 31, 2027, without any change based on a rehearing under section 803(c)(2) and without the possibility of appeal under section 803(d), and there shall be no proceeding to determine terms and rates for preexisting satellite digital audio radio services for the period beginning on January 1, 2023, and ending on December 31, 2027.
+with respect to preexisting subscription services, the terms and rates finally determined for the rate period ending on December 31, 2022, shall remain in effect through December 31, 2027, and there shall be no proceeding to determine terms and rates for preexisting subscription services for the period beginning on January 1, 2023, and ending on December 31, 2027; and” “ 1 (ii) with respect to pre-existing satellite digital audio radio services, the terms and rates set forth by the Copyright Royalty Judges on December 14, 2017, in their initial determination for the rate period ending on December 31, 2022, shall be in effect through December 31, 2027, without any change based on a rehearing under section 803(c)(2) and without the possibility of appeal under section 803(d), and there shall be no proceeding to determine terms and rates for preexisting satellite digital audio radio services for the period beginning on January 1, 2023, and ending on December 31, 2027.
 
 **(C)**
 
@@ -569,7 +569,7 @@ with respect to preexisting subscription services, the terms and rates finally d
 
 **(4) Section 115 proceedings.—** A petition described in subsection (a) to initiate proceedings under section 801(b)(1) concerning the adjustment or determination of royalty rates as provided in section 115 may be filed in the year 2006 and in each subsequent fifth calendar year, or at such other times as the parties have agreed under section 115(c)(3)(B) and (C).2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(5) Section 116 proceedings.—**
 
@@ -583,7 +583,7 @@ with respect to preexisting subscription services, the terms and rates finally d
 
 **(8) Proceedings concerning distribution of royalty fees.—** With respect to proceedings under section 801(b)(3) concerning the distribution of royalty fees in certain circumstances under section 111, 119, or 1007, the Copyright Royalty Judges shall, upon a determination that a controversy exists concerning such distribution, cause to be published in the Federal Register notice of commencement of proceedings under this chapter.
 
-(Added Pub. L. 108–419, § 3(a), Nov. 30, 2004, 118 Stat. 2357; amended Pub. L. 109–303, § 3(12), (13), Oct. 6, 2006, 120 Stat. 1481; Pub. L. 111–175, title I, § 104(f), May 27, 2010, 124 Stat. 1238; Pub. L. 115–264, title I, § 103(g)(4), (i), Oct. 11, 2018, 132 Stat. 3725.)
+(Added Pub. L. 108–419, § 3(a), Nov. 30, 2004, 118 Stat. 2357; amended Pub. L. 109–303, § 3(12), (13), Oct. 6, 2006, 120 Stat. 1481; Pub. L. 111–175, title I, § 104(f), May 27, 2010, 124 Stat. 1238; Pub. L. 115–264, title I, § 103(g)(4), (i), Oct. 11, 2018, 132 Stat. 3725.)
 
 **Editorial Notes**
 
@@ -591,7 +591,7 @@ with respect to preexisting subscription services, the terms and rates finally d
 
 The enactment of and the date of enactment of the Copyright Royalty and Distribution Reform Act of 2004, referred to in subsecs. (a) and (b)(1)(B), (3)(A), mean the date of enactment of Pub. L. 108–419, which was approved Nov. 30, 2004.
 
-Section 115(c), referred to in subsec. (b)(4), was amended generally by Pub. L. 115–264, title I, § 102(a)(3), Oct. 11, 2018, 132 Stat. 3679, and, as so amended, no longer contains a par. (3).
+Section 115(c), referred to in subsec. (b)(4), was amended generally by Pub. L. 115–264, title I, § 102(a)(3), Oct. 11, 2018, 132 Stat. 3679, and, as so amended, no longer contains a par. (3).
 
 **Prior Provisions**
 
@@ -599,23 +599,23 @@ A prior section 804 was renumbered section 803 of this title prior to the genera
 
 **Amendments**
 
-2018—Subsec. (b)(3)(B). Pub. L. 115–264, § 103(i), inserted “, except that—” and cls. (i) and (ii) after “fifth calendar year”.
+2018—Subsec. (b)(3)(B). Pub. L. 115–264, § 103(i), inserted “, except that—” and cls. (i) and (ii) after “fifth calendar year”.
 
-Subsec. (b)(3)(C)(i). Pub. L. 115–264, § 103(g)(4)(A), struck out “and 114(f)(2)(C)” after “section 114(f)(1)(C)”.
+Subsec. (b)(3)(C)(i). Pub. L. 115–264, § 103(g)(4)(A), struck out “and 114(f)(2)(C)” after “section 114(f)(1)(C)”.
 
-Subsec. (b)(3)(C)(iii)(II). Pub. L. 115–264, § 103(g)(4)(B), substituted “114(f)(3)(B)(ii)” for “114(f)(4)(B)(ii)”.
+Subsec. (b)(3)(C)(iii)(II). Pub. L. 115–264, § 103(g)(4)(B), substituted “114(f)(3)(B)(ii)” for “114(f)(4)(B)(ii)”.
 
-Subsec. (b)(3)(C)(iv). Pub. L. 115–264, § 103(g)(4)(C), struck out “or 114(f)(2)(C), as the case may be” after “section 114(f)(1)(C)”.
+Subsec. (b)(3)(C)(iv). Pub. L. 115–264, § 103(g)(4)(C), struck out “or 114(f)(2)(C), as the case may be” after “section 114(f)(1)(C)”.
 
 2010—Subsec. (b)(1)(A), (B). Pub. L. 111–175 substituted “2015” for “2005”.
 
-2006—Subsec. (b)(1)(B). Pub. L. 109–303, § 3(12), substituted “801(b)(2)(B) or (C)” for “801(b)(3)(B) or (C)” and “change in” for “change is”.
+2006—Subsec. (b)(1)(B). Pub. L. 109–303, § 3(12), substituted “801(b)(2)(B) or (C)” for “801(b)(3)(B) or (C)” and “change in” for “change is”.
 
-Subsec. (b)(3)(A). Pub. L. 109–303, § 3(13)(A), substituted “date of enactment” for “effective date”.
+Subsec. (b)(3)(A). Pub. L. 109–303, § 3(13)(A), substituted “date of enactment” for “effective date”.
 
-Subsec. (b)(3)(C)(ii). Pub. L. 109–303, § 3(13)(B)(i), substituted “is filed” for “that is filed”.
+Subsec. (b)(3)(C)(ii). Pub. L. 109–303, § 3(13)(B)(i), substituted “is filed” for “that is filed”.
 
-Subsec. (b)(3)(C)(iii). Pub. L. 109–303, § 3(13)(B)(ii), substituted “subsections (b)” for “such subsections (b)”.
+Subsec. (b)(3)(C)(iii). Pub. L. 109–303, § 3(13)(B)(ii), substituted “subsections (b)” for “such subsections (b)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -627,7 +627,7 @@ Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pu
 
 Amendment by Pub. L. 109–303 effective as if included in the Copyright Royalty and Distribution Reform Act of 2004, Pub. L. 108–419, see section 6 of Pub. L. 109–303, set out as a note under section 111 of this title.
 
-## § 805. General rule for voluntarily negotiated agreements
+## § 805. General rule for voluntarily negotiated agreements
 
 Any rates or terms under this title that—
 
@@ -639,22 +639,22 @@ Any rates or terms under this title that—
 
 shall remain in effect for such period of time as would otherwise apply under such determination, except that the Copyright Royalty Judges shall adjust the rates pursuant to the voluntary negotiations to reflect national monetary inflation during the additional period the rates remain in effect.
 
-(Added Pub. L. 108–419, § 3(a), Nov. 30, 2004, 118 Stat. 2360.)
+(Added Pub. L. 108–419, § 3(a), Nov. 30, 2004, 118 Stat. 2360.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior sections 805 to 810 were repealed by Pub. L. 103–198, § 2(e), Dec. 17, 1993, 107 Stat. 2308.
+Prior sections 805 to 810 were repealed by Pub. L. 103–198, § 2(e), Dec. 17, 1993, 107 Stat. 2308.
 
-Section 805, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to staff of Copyright Royalty Tribunal.
+Section 805, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to staff of Copyright Royalty Tribunal.
 
-Section 806, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to administrative support of Tribunal.
+Section 806, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to administrative support of Tribunal.
 
-Section 807, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to deduction of costs of proceedings involving distribution of royalty fees.
+Section 807, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to deduction of costs of proceedings involving distribution of royalty fees.
 
-Section 808, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to reporting requirements of the Tribunal.
+Section 808, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to reporting requirements of the Tribunal.
 
-Section 809, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to effective date of final determinations of Tribunal.
+Section 809, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to effective date of final determinations of Tribunal.
 
-Section 810, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to judicial review of final decisions of Tribunal.
+Section 810, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to judicial review of final decisions of Tribunal.

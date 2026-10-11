@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 24—BIPARTISAN TRADE PROMOTION AUTHORITY
 
-## § 3801. Short title and findings
+## § 3801. Short title and findings
 
 **(a) Short title**
 
@@ -33,7 +33,7 @@ This chapter may be cited as the “Bipartisan Trade Promotion Authority Act of 
 
 **(B)** the Congress is concerned that dispute settlement panels of the WTO and the Appellate Body appropriately apply the standard of review contained in Article 17.6 of the Antidumping Agreement, to provide deference to a permissible interpretation by a WTO member of provisions of that Agreement, and to the evaluation by a WTO member of the facts where that evaluation is unbiased and objective and the establishment of the facts is proper.
 
-(Pub. L. 107–210, div. B, title XXI, § 2101, Aug. 6, 2002, 116 Stat. 993.)
+(Pub. L. 107–210, div. B, title XXI, § 2101, Aug. 6, 2002, 116 Stat. 993.)
 
 **Editorial Notes**
 
@@ -45,13 +45,13 @@ This chapter, referred to in subsec. (a), was in the original “This title”, 
 
 **Short Title**
 
-Pub. L. 107–210, § 1, Aug. 6, 2002, 116 Stat. 933, provided that: “This Act [see Tables for classification] may be cited as the ‘Trade Act of 2002’.”
+Pub. L. 107–210, § 1, Aug. 6, 2002, 116 Stat. 933, provided that: “This Act [see Tables for classification] may be cited as the ‘Trade Act of 2002’.”
 
 **Executive Documents**
 
 **Ex. Ord. No. 13277. Delegation of Certain Authorities and Assignment of Certain Functions Under the Trade Act of 2002**
 
-Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, as amended by Ex. Ord. No. 13346, § 4, July 8, 2004, 69 F.R. 41906, provided:
+Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, as amended by Ex. Ord. No. 13346, § 4, July 8, 2004, 69 F.R. 41906, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States, including the Trade Act of 2002 (the “Act”) (Public Law 107–210) [see Short Title note above] and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -105,7 +105,7 @@ Sec. 5. *Judicial Review*. This order is intended only to improve the internal m
 
 George W. Bush.
 
-## § 3802. Trade negotiating objectives
+## § 3802. Trade negotiating objectives
 
 **(a) Overall trade negotiating objectives** The overall trade negotiating objectives of the United States for agreements subject to the provisions of section 3803 of this title are—
 
@@ -411,7 +411,7 @@ In the course of negotiations conducted under this chapter, the United States Tr
 
 In determining whether to enter into negotiations with a particular country, the President shall take into account the extent to which that country has implemented, or has accelerated the implementation of, its obligations under the Uruguay Round Agreements.
 
-(Pub. L. 107–210, div. B, title XXI, § 2102, Aug. 6, 2002, 116 Stat. 994; Pub. L. 108–429, title II, § 2004(a)(16), Dec. 3, 2004, 118 Stat. 2591.)
+(Pub. L. 107–210, div. B, title XXI, § 2102, Aug. 6, 2002, 116 Stat. 994; Pub. L. 108–429, title II, § 2004(a)(16), Dec. 3, 2004, 118 Stat. 2591.)
 
 **Editorial Notes**
 
@@ -423,9 +423,9 @@ This chapter, referred to in subsec. (c)(8), was in the original “this title�
 
 **Amendments**
 
-2004—Subsec. (c)(8). Pub. L. 108–429, § 2004(a)(16)(A), substituted “this chapter” for “this Act”.
+2004—Subsec. (c)(8). Pub. L. 108–429, § 2004(a)(16)(A), substituted “this chapter” for “this Act”.
 
-Subsec. (c)(12). Pub. L. 108–429, § 2004(a)(16)(B), substituted “government is engaged” for “government engaged”.
+Subsec. (c)(12). Pub. L. 108–429, § 2004(a)(16)(B), substituted “government is engaged” for “government engaged”.
 
 **Executive Documents**
 
@@ -433,7 +433,7 @@ Subsec. (c)(12). Pub. L. 108–429, § 2004(a)(16)(B), substituted “governme
 
 For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
 
-## § 3803. Trade agreements authority
+## § 3803. Trade agreements authority
 
 **(a) Agreements regarding tariff barriers**
 
@@ -593,7 +593,7 @@ The reports submitted to the Congress under paragraphs (2) and (3), or any porti
 
 In order to contribute to the continued economic expansion of the United States, the President shall commence negotiations covering tariff and nontariff barriers affecting any industry, product, or service sector, and expand existing sectoral agreements to countries that are not parties to those agreements, in cases where the President determines that such negotiations are feasible and timely and would benefit the United States. Such sectors include agriculture, commercial services, intellectual property rights, industrial and capital goods, government procurement, information technology products, environmental technology and services, medical equipment and services, civil aircraft, and infrastructure products. In so doing, the President shall take into account all of the principal negotiating objectives set forth in section 3802(b) of this title.
 
-(Pub. L. 107–210, div. B, title XXI, § 2103, Aug. 6, 2002, 116 Stat. 1004; Pub. L. 108–429, title II, § 2004(a)(17), Dec. 3, 2004, 118 Stat. 2591.)
+(Pub. L. 107–210, div. B, title XXI, § 2103, Aug. 6, 2002, 116 Stat. 1004; Pub. L. 108–429, title II, § 2004(a)(17), Dec. 3, 2004, 118 Stat. 2591.)
 
 **Editorial Notes**
 
@@ -603,15 +603,15 @@ The Bipartisan Trade Promotion Authority Act of 2002, referred to in subsec. (c)
 
 **Amendments**
 
-2004—Subsec. (a)(1)(A). Pub. L. 108–429, § 2004(a)(17)(A), substituted “July 1” for “June 1” in two places.
+2004—Subsec. (a)(1)(A). Pub. L. 108–429, § 2004(a)(17)(A), substituted “July 1” for “June 1” in two places.
 
-Subsec. (b)(1)(C). Pub. L. 108–429, § 2004(a)(17)(B), substituted “July 1” for “June 1” in two places.
+Subsec. (b)(1)(C). Pub. L. 108–429, § 2004(a)(17)(B), substituted “July 1” for “June 1” in two places.
 
-Subsec. (c)(1)(B)(ii). Pub. L. 108–429, § 2004(a)(17)(C)(i), substituted “July 1” for “June 1”.
+Subsec. (c)(1)(B)(ii). Pub. L. 108–429, § 2004(a)(17)(C)(i), substituted “July 1” for “June 1”.
 
-Subsec. (c)(2). Pub. L. 108–429, § 2004(a)(17)(C)(ii), substituted “April 1” for “March 1” in introductory provisions.
+Subsec. (c)(2). Pub. L. 108–429, § 2004(a)(17)(C)(ii), substituted “April 1” for “March 1” in introductory provisions.
 
-Subsec. (c)(3). Pub. L. 108–429, § 2004(a)(17)(C)(iii), substituted “June 1” for “May 1” in two places.
+Subsec. (c)(3). Pub. L. 108–429, § 2004(a)(17)(C)(iii), substituted “June 1” for “May 1” in two places.
 
 **Executive Documents**
 
@@ -619,7 +619,7 @@ Subsec. (c)(3). Pub. L. 108–429, § 2004(a)(17)(C)(iii), substituted “June
 
 For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
 
-## § 3804. Consultations and assessment
+## § 3804. Consultations and assessment
 
 **(a) Notice and consultation before negotiation** The President, with respect to any agreement that is subject to the provisions of section 3803(b) of this title, shall—
 
@@ -717,9 +717,9 @@ With respect to a trade agreement entered into with Chile or Singapore, the repo
 
 **(III)** may not be amended by either Committee.
 
-**(iv)**  1
+**(iv)** 1
 
-<sup>1</sup>  So in original. Two cls. (iv) have been enacted.
+<sup>1</sup> So in original. Two cls. (iv) have been enacted.
 
 Resolutions in the Senate—
 
@@ -729,7 +729,7 @@ Resolutions in the Senate—
 
 **(III)** may not be amended.
 
-**(iv)**  <sup>1</sup> It is not in order for the House of Representatives to consider any resolution that is not reported by the Committee on Ways and Means and, in addition, by the Committee on Rules.
+**(iv)** <sup>1</sup> It is not in order for the House of Representatives to consider any resolution that is not reported by the Committee on Ways and Means and, in addition, by the Committee on Rules.
 
 **(v)** It is not in order for the Senate to consider any resolution that is not reported by the Committee on Finance.
 
@@ -753,15 +753,15 @@ Not later than 90 calendar days after the President enters into the agreement, t
 
 In preparing the assessment, the Commission shall review available economic assessments regarding the agreement, including literature regarding any substantially equivalent proposed agreement, and shall provide in its assessment a description of the analyses used and conclusions drawn in such literature, and a discussion of areas of consensus and divergence between the various analyses and conclusions, including those of the Commission regarding the agreement.
 
-(Pub. L. 107–210, div. B, title XXI, § 2104, Aug. 6, 2002, 116 Stat. 1008.)
+(Pub. L. 107–210, div. B, title XXI, § 2104, Aug. 6, 2002, 116 Stat. 1008.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Tariff Act of 1930, referred to in subsec. (d)(3)(A)(i), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+The Tariff Act of 1930, referred to in subsec. (d)(3)(A)(i), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
-The Trade Act of 1974, referred to in subsec. (d)(3)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (d)(3)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 Sections 2104(d)(3) and 2102(b)(14) of the Bipartisan Trade Promotion Authority Act of 2002, referred to in subsec. (d)(3)(C)(ii), are classified to subsec. (d)(3) of this section and section 3802(b)(14) of this title, respectively.
 
@@ -777,7 +777,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
 
-## § 3805. Implementation of trade agreements
+## § 3805. Implementation of trade agreements
 
 **(a) In general**
 
@@ -887,7 +887,7 @@ Not later than December 31, 2002, the Secretary of Commerce, in consultation wit
 
 **(2)** with the full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner, and to the same extent as any other rule of that House.
 
-(Pub. L. 107–210, div. B, title XXI, § 2105, Aug. 6, 2002, 116 Stat. 1013; Pub. L. 108–429, title II, § 2004(a)(18), Dec. 3, 2004, 118 Stat. 2591.)
+(Pub. L. 107–210, div. B, title XXI, § 2105, Aug. 6, 2002, 116 Stat. 1013; Pub. L. 108–429, title II, § 2004(a)(18), Dec. 3, 2004, 118 Stat. 2591.)
 
 **Editorial Notes**
 
@@ -3071,7 +3071,7 @@ Pub. L. 112–42, Oct. 21, 2011, 125 Stat. 462, provided that:
 
 **United States–Korea Free Trade Agreement Implementation Act**
 
-Pub. L. 112–41, Oct. 21, 2011, 125 Stat. 428, as amended by Pub. L. 114–27, title VIII, §§ 801(b), 802(b), June 29, 2015, 129 Stat. 414, 415; Pub. L. 114–125, title IX, § 920(b), Feb. 24, 2016, 130 Stat. 281; Pub. L. 115–31, div. M, title I, § 105(b), May 5, 2017, 131 Stat. 804; Pub. L. 115–123, div. C, title II, § 30201(b), Feb. 9, 2018, 132 Stat. 126; Pub. L. 115–141, div. U, title I, § 107(a), Mar. 23, 2018, 132 Stat. 1171; Pub. L. 115–334, title XII, § 12606, Dec. 20, 2018, 132 Stat. 5006; Pub. L. 116–37, title IV, § 401(b), Aug. 2, 2019, 133 Stat. 1058; Pub. L. 116–164, § 3(b), Oct. 10, 2020, 134 Stat. 758; Pub. L. 117–2, title IX, § 9912(b), Mar. 11, 2021, 135 Stat. 238; Pub. L. 117–58, div. H, title III, § 80301(b), Nov. 15, 2021, 135 Stat. 1330; Pub. L. 119–75, div. I, § 5019(b)(2), Feb. 3, 2026, 140 Stat. 633, provided that:
+Pub. L. 112–41, Oct. 21, 2011, 125 Stat. 428, as amended by Pub. L. 114–27, title VIII, §§ 801(b), 802(b), June 29, 2015, 129 Stat. 414, 415; Pub. L. 114–125, title IX, § 920(b), Feb. 24, 2016, 130 Stat. 281; Pub. L. 115–31, div. M, title I, § 105(b), May 5, 2017, 131 Stat. 804; Pub. L. 115–123, div. C, title II, § 30201(b), Feb. 9, 2018, 132 Stat. 126; Pub. L. 115–141, div. U, title I, § 107(a), Mar. 23, 2018, 132 Stat. 1171; Pub. L. 115–334, title XII, § 12606, Dec. 20, 2018, 132 Stat. 5006; Pub. L. 116–37, title IV, § 401(b), Aug. 2, 2019, 133 Stat. 1058; Pub. L. 116–164, § 3(b), Oct. 10, 2020, 134 Stat. 758; Pub. L. 117–2, title IX, § 9912(b), Mar. 11, 2021, 135 Stat. 238; Pub. L. 117–58, div. H, title III, § 80301(b), Nov. 15, 2021, 135 Stat. 1330; Pub. L. 119–75, div. I, § 5019(b)(2), Feb. 3, 2026, 140 Stat. 633, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -4141,7 +4141,7 @@ Pub. L. 112–41, Oct. 21, 2011, 125 Stat. 428, as amended by Pub. L. 114–27, 
 
 > **“(3)** the amount of the next required installment after an installment referred to in paragraph (1) or (2) shall be appropriately reduced to reflect the amount of the increase by reason of such paragraph.”
 
-[Pub. L. 115–141, div. U, title I, § 107(b), Mar. 23, 2018, 132 Stat. 1171, provided that: “The amendment made by this section [amending section 501 of Pub. L. 112–41, set out above] shall take effect as if included in section 501 of the United States-Korea Free Trade Agreement Implementation Act [Pub. L. 112–41].” ]
+[Pub. L. 115–141, div. U, title I, § 107(b), Mar. 23, 2018, 132 Stat. 1171, provided that: “The amendment made by this section [amending section 501 of Pub. L. 112–41, set out above] shall take effect as if included in section 501 of the United States-Korea Free Trade Agreement Implementation Act [Pub. L. 112–41].” ]
 
 [Section 505 of Pub. L. 112–41, set out above, and any modification of such provision, not applicable with respect to any installment of corporate income tax, see section 7001 of Pub. L. 112–96, set out as a note under section 6655 of Title 26, Internal Revenue Code.]
 
@@ -9069,7 +9069,7 @@ Pub. L. 108–78, Sept. 3, 2003, 117 Stat. 948, provided that:
 
 **United States-Chile Free Trade Agreement Implementation Act**
 
-Pub. L. 108–77, Sept. 3, 2003, 117 Stat. 909, as amended by Pub. L. 108–429, title II, § 2004(d)(7), Dec. 3, 2004, 118 Stat. 2593, provided that:
+Pub. L. 108–77, Sept. 3, 2003, 117 Stat. 909, as amended by Pub. L. 108–429, title II, § 2004(d)(7), Dec. 3, 2004, 118 Stat. 2593, provided that:
 
 > **“SECTION 1. SHORT TITLE; TABLE OF CONTENTS.**
 
@@ -9969,7 +9969,7 @@ Pub. L. 108–77, Sept. 3, 2003, 117 Stat. 909, as amended by Pub. L. 108–429,
 
 For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
 
-## § 3806. Treatment of certain trade agreements for which negotiations have already begun
+## § 3806. Treatment of certain trade agreements for which negotiations have already begun
 
 **(a) Certain agreements** Notwithstanding the prenegotiation notification and consultation requirement described in section 3804(a) of this title, if an agreement to which section 3803(b) of this title applies—
 
@@ -9993,7 +9993,7 @@ and results from negotiations that were commenced before August 6, 2002, subsect
 
 **(B)** before and after submission of the notice, consult regarding the negotiations with the committees referred to in section 3804(a)(2) of this title and the Congressional Oversight Group convened under section 3807 of this title.
 
-(Pub. L. 107–210, div. B, title XXI, § 2106, Aug. 6, 2002, 116 Stat. 1016.)
+(Pub. L. 107–210, div. B, title XXI, § 2106, Aug. 6, 2002, 116 Stat. 1016.)
 
 **Executive Documents**
 
@@ -10001,7 +10001,7 @@ and results from negotiations that were commenced before August 6, 2002, subsect
 
 For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
 
-## § 3807. Congressional Oversight Group
+## § 3807. Congressional Oversight Group
 
 **(a) Members and functions**
 
@@ -10053,7 +10053,7 @@ The Congressional Oversight Group shall be chaired by the Chairman of the Commit
 
 Upon the request of a majority of the Congressional Oversight Group, the President shall meet with the Congressional Oversight Group before initiating negotiations with respect to a trade agreement, or at any other time concerning the negotiations.
 
-(Pub. L. 107–210, div. B, title XXI, § 2107, Aug. 6, 2002, 116 Stat. 1017; Pub. L. 109–280, title XIV, § 1635(f)(6), Aug. 17, 2006, 120 Stat. 1171.)
+(Pub. L. 107–210, div. B, title XXI, § 2107, Aug. 6, 2002, 116 Stat. 1017; Pub. L. 109–280, title XIV, § 1635(f)(6), Aug. 17, 2006, 120 Stat. 1171.)
 
 **Editorial Notes**
 
@@ -10073,7 +10073,7 @@ Amendment by Pub. L. 109–280 applicable with respect to goods entered, or with
 
 For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
 
-## § 3808. Additional implementation and enforcement requirements
+## § 3808. Additional implementation and enforcement requirements
 
 **(a) In general** At the time the President submits to the Congress the final text of an agreement pursuant to section 3805(a)(1)(C) of this title, the President shall also submit a plan for implementing and enforcing the agreement. The implementation and enforcement plan shall include the following:
 
@@ -10101,7 +10101,7 @@ An analysis of the costs associated with each of the items listed in paragraphs 
 
 The President shall include a request for the resources necessary to support the plan described in subsection (a) in the first budget that the President submits to the Congress after the submission of the plan.
 
-(Pub. L. 107–210, div. B, title XXI, § 2108, Aug. 6, 2002, 116 Stat. 1018.)
+(Pub. L. 107–210, div. B, title XXI, § 2108, Aug. 6, 2002, 116 Stat. 1018.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10115,13 +10115,13 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
 
-## § 3809. Committee staff
+## § 3809. Committee staff
 
 The grant of trade promotion authority under this chapter is likely to increase the activities of the primary committees of jurisdiction in the area of international trade. In addition, the creation of the Congressional Oversight Group under section 3807 of this title will increase the participation of a broader number of Members of Congress in the formulation of United States trade policy and oversight of the international trade agenda for the United States. The primary committees of jurisdiction should have adequate staff to accommodate these increases in activities.
 
-(Pub. L. 107–210, div. B, title XXI, § 2109, Aug. 6, 2002, 116 Stat. 1019.)
+(Pub. L. 107–210, div. B, title XXI, § 2109, Aug. 6, 2002, 116 Stat. 1019.)
 
-## § 3810. Application of certain provisions
+## § 3810. Application of certain provisions
 
 For purposes of applying sections 2135, 2136, and 2137 of this title—
 
@@ -10129,7 +10129,7 @@ For purposes of applying sections 2135, 2136, and 2137 of this title—
 
 **(2)** any proclamation or Executive order issued pursuant to a trade agreement entered into under section 3803 of this title shall be treated as a proclamation or Executive order issued pursuant to a trade agreement entered into under section 2112 of this title.
 
-(Pub. L. 107–210, div. B, title XXI, § 2110(b), Aug. 6, 2002, 116 Stat. 1020.)
+(Pub. L. 107–210, div. B, title XXI, § 2110(b), Aug. 6, 2002, 116 Stat. 1020.)
 
 **Editorial Notes**
 
@@ -10137,7 +10137,7 @@ For purposes of applying sections 2135, 2136, and 2137 of this title—
 
 Section 2137 of this title, referred to in text, was in the original a reference to section 127 of the Trade Act of 1974, Pub. L. 93–618, which enacted section 2137 of this title and amended section 1862 of this title.
 
-## § 3811. Report on impact of trade promotion authority
+## § 3811. Report on impact of trade promotion authority
 
 **(a) In general**
 
@@ -10155,15 +10155,15 @@ Not later than 1 year after August 6, 2002, the International Trade Commission s
 
 **(5)** The Tokyo Round of Multilateral Trade Negotiations.
 
-(Pub. L. 107–210, div. B, title XXI, § 2111, Aug. 6, 2002, 116 Stat. 1021.)
+(Pub. L. 107–210, div. B, title XXI, § 2111, Aug. 6, 2002, 116 Stat. 1021.)
 
-## § 3812. Interests of small business
+## § 3812. Interests of small business
 
 The Assistant United States Trade Representative for Industry and Telecommunications shall be responsible for ensuring that the interests of small business are considered in all trade negotiations in accordance with the objective described in section 3802(a)(8) of this title. It is the sense of the Congress that the small business functions should be reflected in the title of the Assistant United States Trade Representative assigned the responsibility for small business.
 
-(Pub. L. 107–210, div. B, title XXI, § 2112, Aug. 6, 2002, 116 Stat. 1021.)
+(Pub. L. 107–210, div. B, title XXI, § 2112, Aug. 6, 2002, 116 Stat. 1021.)
 
-## § 3813. Definitions
+## § 3813. Definitions
 
 In this chapter:
 
@@ -10173,9 +10173,9 @@ The term “Agreement on Agriculture” means the agreement referred to in secti
 
 **(2) Agreement on Safeguards**
 
-The term “Agreement on Safeguards 1
+The term “Agreement on Safeguards 1
 
-<sup>1</sup>  So in original. Probably should be followed by closing quotation marks.
+<sup>1</sup> So in original. Probably should be followed by closing quotation marks.
 
 means the agreement referred to in section 3511(d)(13) of this title.
 
@@ -10185,9 +10185,9 @@ The term “Agreement on Subsidies and Countervailing Measures” means the agre
 
 **(4) Antidumping Agreement**
 
-The term “Antidumping Agreement“ 2
+The term “Antidumping Agreement“ 2
 
-<sup>2</sup>  So in original. Probably should be closing quotation marks.
+<sup>2</sup> So in original. Probably should be closing quotation marks.
 
 means the Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade 1994 referred to in section 3511(d)(7) of this title.
 
@@ -10249,7 +10249,7 @@ The term “WTO Agreement” means the Agreement Establishing the World Trade Or
 
 The term “WTO member” has the meaning given that term in section 3501(10) of this title.
 
-(Pub. L. 107–210, div. B, title XXI, § 2113, Aug. 6, 2002, 116 Stat. 1021; Pub. L. 108–429, title II, § 2004(a)(19), Dec. 3, 2004, 118 Stat. 2591.)
+(Pub. L. 107–210, div. B, title XXI, § 2113, Aug. 6, 2002, 116 Stat. 1021; Pub. L. 108–429, title II, § 2004(a)(19), Dec. 3, 2004, 118 Stat. 2591.)
 
 **Editorial Notes**
 

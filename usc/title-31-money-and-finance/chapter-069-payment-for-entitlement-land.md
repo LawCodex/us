@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2008—Pub. L. 110–343, div. C, title VI, § 601(c)(2), Oct. 3, 2008, 122 Stat. 3911, added item 6906 and struck out former item 6906 “Authorization of appropriations”.
+2008—Pub. L. 110–343, div. C, title VI, § 601(c)(2), Oct. 3, 2008, 122 Stat. 3911, added item 6906 and struck out former item 6906 “Authorization of appropriations”.
 
-1994—Pub. L. 103–272, § 4(f)(1)(U)(i), July 5, 1994, 108 Stat. 1362, added item 6907.
+1994—Pub. L. 103–272, § 4(f)(1)(U)(i), July 5, 1994, 108 Stat. 1362, added item 6907.
 
-## § 6901. Definitions
+## § 6901. Definitions
 
 In this chapter—
 
@@ -67,16 +67,16 @@ In this chapter—
 
 **(B)** the term “governmental services” includes, but is not limited to, those services that relate to public safety, the environment, housing, social services, transportation, and governmental administration.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1031; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 323; Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1775; Pub. L. 103–272, § 4(f)(3), July 5, 1994, 108 Stat. 1364; Pub. L. 104–333, div. I, title X, § 1033(a), Nov. 12, 1996, 110 Stat. 4239; Pub. L. 105–83, title III, § 350, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 105–263, § 5(d), Oct. 19, 1998, 112 Stat. 2348.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1031; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 323; Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1775; Pub. L. 103–272, § 4(f)(3), July 5, 1994, 108 Stat. 1364; Pub. L. 104–333, div. I, title X, § 1033(a), Nov. 12, 1996, 110 Stat. 4239; Pub. L. 105–83, title III, § 350, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 105–263, § 5(d), Oct. 19, 1998, 112 Stat. 2348.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6901(1) (A)–(F) | 31:1606(a)(1)–(3), (5), (b). | Oct. 20, 1976, Pub. L. 94–565, § 6(a)(1)–(3), (5), (b), (c), 90 Stat. 2665; Dec. 23, 1981, Pub. L. 97–99, § 912(a)(2), 95 Stat. 1387. |
-|  | 31:1606(a)(4). | Oct. 20, 1976, Pub. L. 94–565, § 6(a)(4), 90 Stat. 2665; restated Oct. 17, 1978, Pub. L. 95–469, § 3(1), 92 Stat. 1321; Dec. 23, 1981, Pub. L. 97–99, § 912(a)(1), 95 Stat. 1387. |
-|  | 31:1606(a)(6). | Oct. 20, 1976, Pub. L. 94–565, 90 Stat. 2662, § 6(a)(6); added Dec. 23, 1981, Pub. L. 97–99, § 912(a)(3), 95 Stat. 1387. |
-| 6901(1)(G) | 16:715s(h)(1). | June 15, 1935, ch. 261, 49 Stat. 378, § 401(h)(1); added Oct. 17, 1978, Pub. L. 95–469, § 1(a)(4), 92 Stat. 1321. |
+| 6901(1) (A)–(F) | 31:1606(a)(1)–(3), (5), (b). | Oct. 20, 1976, Pub. L. 94–565, § 6(a)(1)–(3), (5), (b), (c), 90 Stat. 2665; Dec. 23, 1981, Pub. L. 97–99, § 912(a)(2), 95 Stat. 1387. |
+|  | 31:1606(a)(4). | Oct. 20, 1976, Pub. L. 94–565, § 6(a)(4), 90 Stat. 2665; restated Oct. 17, 1978, Pub. L. 95–469, § 3(1), 92 Stat. 1321; Dec. 23, 1981, Pub. L. 97–99, § 912(a)(1), 95 Stat. 1387. |
+|  | 31:1606(a)(6). | Oct. 20, 1976, Pub. L. 94–565, 90 Stat. 2662, § 6(a)(6); added Dec. 23, 1981, Pub. L. 97–99, § 912(a)(3), 95 Stat. 1387. |
+| 6901(1)(G) | 16:715s(h)(1). | June 15, 1935, ch. 261, 49 Stat. 378, § 401(h)(1); added Oct. 17, 1978, Pub. L. 95–469, § 1(a)(4), 92 Stat. 1321. |
 | 6901(2) | 31:1606(c). |  |
 
 In clause (1), before subclause (A), the text of 31:1606(b) is omitted as unnecessary because of the restatement of the source provisions. In subclause (A), the word “and” is substituted for “within each, or any combination thereof” to eliminate unnecessary words. The words “but not limited to” are omitted as surplus. In subclause (D), the words “effective October 1, 1978” are omitted as executed. The words “Secretary of the Army” are substituted for “Army” for consistency. In subclause (E), the words “owned by the United States” are omitted as surplus. The words “Secretary of the Army” are substituted for “Army Corps of Engineers” because of 10:3012. In subclause (F), the word “Government” is added for clarity. In subclause (G), the words “In administering sections 1601 to 1607 of title 31” are omitted as unnecessary. The words “for fiscal years occurring after September 30, 1978” are omitted as executed. Subclause (G) is substituted for 16:715s(h)(1) because of the restatement.
@@ -95,7 +95,7 @@ Section 5 of the Southern Nevada Public Land Management Act of 1998, referred to
 
 1997—Par. (2)(A)(i). Pub. L. 105–83 inserted “(other than in Alaska)” after “borough, or city”.
 
-1996—Par. (2). Pub. L. 104–333 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘unit of general local government’ means:
+1996—Par. (2). Pub. L. 104–333 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘unit of general local government’ means:
 
 “(A) a county (or parish), township, borough, or city where the city is independent of any other unit of general local government, that: (i) is within the class or classes of such political subdivisions in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and (ii) is a unit of general government as determined by the Secretary of the Interior on the basis of the same principles as were used on January 1, 1983, by the Secretary of Commerce for general statistical purposes. The term ‘governmental services’ includes, but is not limited to, those services that relate to public safety, environment, housing, social services, transportation, and governmental administration;
 
@@ -117,17 +117,17 @@ Section 5 of the Southern Nevada Public Land Management Act of 1998, referred to
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–272, § 4(f)(3), July 5, 1994, 108 Stat. 1364, provided that the amendment made by that section is effective Sept. 27, 1988.
+Pub. L. 103–272, § 4(f)(3), July 5, 1994, 108 Stat. 1364, provided that the amendment made by that section is effective Sept. 27, 1988.
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–263, § 1, Oct. 19, 1998, 112 Stat. 2343, provided that: “This Act [amending this section and section 460ccc–1 of Title 16, Conservation] may be cited as the ‘Southern Nevada Public Land Management Act of 1998’.”
+Pub. L. 105–263, § 1, Oct. 19, 1998, 112 Stat. 2343, provided that: “This Act [amending this section and section 460ccc–1 of Title 16, Conservation] may be cited as the ‘Southern Nevada Public Land Management Act of 1998’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–397, § 1, Oct. 22, 1994, 108 Stat. 4156, provided that: “This Act [amending sections 6902 and 6903 of this title and enacting provisions set out as notes under sections 6902 and 6903 of this title] may be cited as the ‘Payments In Lieu of Taxes Act’.”
+Pub. L. 103–397, § 1, Oct. 22, 1994, 108 Stat. 4156, provided that: “This Act [amending sections 6902 and 6903 of this title and enacting provisions set out as notes under sections 6902 and 6903 of this title] may be cited as the ‘Payments In Lieu of Taxes Act’.”
 
-## § 6902. Authority and Eligibility 1 [footnote: 1 So in original. Probably should not be capitalized.]
+## § 6902. Authority and Eligibility 1 [footnote: 1 So in original. Probably should not be capitalized.]
 
 **(a)**
 
@@ -135,9 +135,9 @@ Pub. L. 103–397, § 1, Oct. 22, 1994, 108 Stat. 4156, provided that: “This
 
 **(2)** For each unit of general local government described in section 6901(2)(A)(ii), the Secretary of the Interior shall make a payment for each fiscal year to the State of Alaska for entitlement land located within such unit as set forth in this chapter. The State of Alaska shall distribute such payment to home rule cities and general law cities (as such cities are defined by the State) located within the boundaries of the unit of general local government for which the payment was received. Such cities may use monies received under this paragraph for any governmental purpose.
 
-**(b)** A unit of general local government may not receive a payment for land for which payment under this Act 2
+**(b)** A unit of general local government may not receive a payment for land for which payment under this Act 2
 
-<sup>2</sup>  So in original. Probably should be “this chapter”.
+<sup>2</sup> So in original. Probably should be “this chapter”.
 
 otherwise may be received if the land was owned or administered by a State or unit of general local government and was exempt from real estate taxes when the land was conveyed to the United States except that a unit of general local government may receive a payment for—
 
@@ -147,20 +147,20 @@ otherwise may be received if the land was owned or administered by a State or un
 
 **(3)** land in Utah acquired by the United States for Federal land, royalties, or other assets if, at the time of such acquisition, a unit of general local government was entitled under applicable State law to receive payments in lieu of taxes from the State of Utah for such land: *Provided, however*, That no payment under this paragraph shall exceed the payment that would have been made under State law if such land had not been acquired.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1032; Pub. L. 103–93, § 10(b), Oct. 1, 1993, 107 Stat. 999; Pub. L. 103–397, § 4, Oct. 22, 1994, 108 Stat. 4157; Pub. L. 104–333, div. I, title X, § 1033(b), Nov. 12, 1996, 110 Stat. 4240.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1032; Pub. L. 103–93, § 10(b), Oct. 1, 1993, 107 Stat. 999; Pub. L. 103–397, § 4, Oct. 22, 1994, 108 Stat. 4157; Pub. L. 104–333, div. I, title X, § 1033(b), Nov. 12, 1996, 110 Stat. 4240.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6902(a) | 31:1601. | Oct. 20, 1976, Pub. L. 94–565, §§ 1, 5(a), (b), 90 Stat. 2662, 2665. |
-| 6902(b) | 31:1605(c). | Oct. 20, 1976, Pub. L. 94–565, 90 Stat. 2662, § 5(c); added Oct. 17, 1978, Pub. L. 95–469, § 3(2), 92 Stat. 1321. |
+| 6902(a) | 31:1601. | Oct. 20, 1976, Pub. L. 94–565, §§ 1, 5(a), (b), 90 Stat. 2662, 2665. |
+| 6902(b) | 31:1605(c). | Oct. 20, 1976, Pub. L. 94–565, 90 Stat. 2662, § 5(c); added Oct. 17, 1978, Pub. L. 95–469, § 3(2), 92 Stat. 1321. |
 | 6902(c) | 31:1605(a). |  |
 | 6902(d) | 31:1605(b). |  |
 
 In subsection (a), the words “Effective for fiscal years beginning on and after October 1, 1976” are omitted as executed. The words “(as defined in section 1606 of this title)” are omitted because of the restatement. The text of 31:1601(last sentence) is omitted as unnecessary.
 
-In subsection (b), the word “or” is substituted for “and/or” for consistency. The words “except that, beginning in fiscal year 1979” are omitted as executed. The words “of such land” are omitted as surplus. The word “Federal” is omitted as unnecessary. The words “and which is or was so donated . . . thereof by the State or unit of local government” are omitted as surplus.
+In subsection (b), the word “or” is substituted for “and/or” for consistency. The words “except that, beginning in fiscal year 1979” are omitted as executed. The words “of such land” are omitted as surplus. The word “Federal” is omitted as unnecessary. The words “and which is or was so donated . . . thereof by the State or unit of local government” are omitted as surplus.
 
 In subsection (c), the citation in parentheses for the Act of May 24, 1939, is included only for information purposes.
 
@@ -188,13 +188,13 @@ In subsection (d), the words “county or” are omitted as unnecessary because 
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–397, § 5(a), Oct. 22, 1994, 108 Stat. 4158, provided that:
+Pub. L. 103–397, § 5(a), Oct. 22, 1994, 108 Stat. 4158, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), this Act [amending this section and section 6903 of this title and enacting provisions set out as notes under sections 6901 and 6903 of this title] and the amendments made by this Act shall become effective on October 1, 1994.
 
 > **“(2) Limitation.—** The amendment made by section 2(b)(2) [amending section 6903 of this title] shall become effective on October 1, 1998.”
 
-## § 6903. Payments
+## § 6903. Payments
 
 **(a)** In this section—
 
@@ -291,14 +291,14 @@ Pub. L. 103–397, § 5(a), Oct. 22, 1994, 108 Stat. 4158, provided that:
 
 **(d)** On October 1 of each year after the date of enactment of the Payment in Lieu of Taxes Act, the Secretary of the Interior shall adjust each dollar amount specified in subsections (b) and (c) to reflect changes in the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor, for the 12 months ending the preceding June 30.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1032; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 324; Pub. L. 103–397, §§ 2, 3, 5(b), Oct. 22, 1994, 108 Stat. 4156–4158; Pub. L. 106–393, § 4, Oct. 30, 2000, 114 Stat. 1610.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1032; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 324; Pub. L. 103–397, §§ 2, 3, 5(b), Oct. 22, 1994, 108 Stat. 4156–4158; Pub. L. 106–393, § 4, Oct. 30, 2000, 114 Stat. 1610.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6903(a)(1) | 16:715s(h)(2). | June 15, 1935, ch. 261, 49 Stat. 378, § 401(h)(2); added Oct. 17, 1978, Pub. L. 95–469, § 1(a)(4), 92 Stat. 1321. |
-|  | 31:1604. | Oct. 20, 1976, Pub. L. 94–565, §§ 2, 4, 90 Stat. 2662, 2664. |
+| 6903(a)(1) | 16:715s(h)(2). | June 15, 1935, ch. 261, 49 Stat. 378, § 401(h)(2); added Oct. 17, 1978, Pub. L. 95–469, § 1(a)(4), 92 Stat. 1321. |
+|  | 31:1604. | Oct. 20, 1976, Pub. L. 94–565, §§ 2, 4, 90 Stat. 2662, 2664. |
 | 6903(a)(2) | 31:1602(c). |  |
 | 6903(a)(3) | 31:1602(b)(2)(last sentence). |  |
 | 6903(a)(4) | 31:1602(d). |  |
@@ -310,13 +310,13 @@ In subsection (a)(1), before subclause (A), the word “payment” is added for 
 
 In subsections (b) and (c), the word “population” before “limitation” is omitted as unnecessary.
 
-In subsection (b)(1), before clause (A), the words “The amount of . . . made for any fiscal year to a unit of local government . . . the following amounts” are omitted as surplus. In clauses (A) and (B), the words “the boundaries of” are omitted as surplus. In clause (A), the words “aggregate . . . of payments, if any” are omitted as surplus. The words “a payment law” are substituted for “all of the provisions specified in section 1604 of this title” because of the restatement.
+In subsection (b)(1), before clause (A), the words “The amount of . . . made for any fiscal year to a unit of local government . . . the following amounts” are omitted as surplus. In clauses (A) and (B), the words “the boundaries of” are omitted as surplus. In clause (A), the words “aggregate . . . of payments, if any” are omitted as surplus. The words “a payment law” are substituted for “all of the provisions specified in section 1604 of this title” because of the restatement.
 
 In subsection (b)(2), the words “chief executive officer” are substituted for “Governor (or his delegate)” for consistency in the revised title and with other titles of the United States Code. The words “a payment law” are substituted for “a provision specified in section 1604 of this title” because of the restatement of 31:1604 in subsection (a).
 
 In subsection (c)(1), the words “amount equal to” and “within the jurisdiction of such unit of local government” are omitted as surplus.
 
-In subsection (c)(2), the words “computed under the . . . table” are omitted as unnecessary. The words “the limitation is equal to the population times” are substituted for “Payment shall not exceed the amount computed by multiplying such population by” for clarity and consistency.
+In subsection (c)(2), the words “computed under the . . . table” are omitted as unnecessary. The words “the limitation is equal to the population times” are substituted for “Payment shall not exceed the amount computed by multiplying such population by” for clarity and consistency.
 
 **Editorial Notes**
 
@@ -324,7 +324,7 @@ In subsection (c)(2), the words “computed under the . . . table” are omi
 
 Act of June 20, 1910 (ch. 310, 36 Stat. 557), referred to in subsec. (a)(1)(A), is not classified to the Code.
 
-The Secure Rural Schools and Community Self-Determination Act of 2000, referred to in subsec. (a)(1)(C), is Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, which is classified principally to chapter 90 (§ 7101 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 16 and Tables.
+The Secure Rural Schools and Community Self-Determination Act of 2000, referred to in subsec. (a)(1)(C), is Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, which is classified principally to chapter 90 (§ 7101 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 16 and Tables.
 
 The date of enactment of the Payment in Lieu of Taxes Act, referred to in subsec. (d), probably means the date of enactment of the Payments In Lieu of Taxes Act, Pub. L. 103–397, which was approved Oct. 22, 1994.
 
@@ -332,23 +332,23 @@ The date of enactment of the Payment in Lieu of Taxes Act, referred to in subsec
 
 2000—Subsec. (a)(1)(C). Pub. L. 106–393 inserted “or the Secure Rural Schools and Community Self-Determination Act of 2000” before semicolon at end.
 
-1994—Subsec. (b)(1)(A). Pub. L. 103–397, § 2(a)(1), substituted “93 cents during fiscal year 1995, $1.11 during fiscal year 1996, $1.29 during fiscal year 1997, $1.47 during fiscal year 1998, and $1.65 during fiscal year 1999 and thereafter, for each acre of entitlement land” for “75 cents for each acre of entitlement land”.
+1994—Subsec. (b)(1)(A). Pub. L. 103–397, § 2(a)(1), substituted “93 cents during fiscal year 1995, $1.11 during fiscal year 1996, $1.29 during fiscal year 1997, $1.47 during fiscal year 1998, and $1.65 during fiscal year 1999 and thereafter, for each acre of entitlement land” for “75 cents for each acre of entitlement land”.
 
-Subsec. (b)(1)(B). Pub. L. 103–397, § 2(a)(2), substituted “12 cents during fiscal year 1995, 15 cents during fiscal year 1996, 17 cents during fiscal year 1997, 20 cents during fiscal year 1998, and 22 cents during fiscal year 1999 and thereafter, for each acre of entitlement land” for “10 cents for each acre of entitlement land”.
+Subsec. (b)(1)(B). Pub. L. 103–397, § 2(a)(2), substituted “12 cents during fiscal year 1995, 15 cents during fiscal year 1996, 17 cents during fiscal year 1997, 20 cents during fiscal year 1998, and 22 cents during fiscal year 1999 and thereafter, for each acre of entitlement land” for “10 cents for each acre of entitlement land”.
 
-Subsec. (c)(1). Pub. L. 103–397, § 2(b)(1), substituted “the highest dollar amount specified in paragraph (2)” for “$50 times the population”.
+Subsec. (c)(1). Pub. L. 103–397, § 2(b)(1), substituted “the highest dollar amount specified in paragraph (2)” for “$50 times the population”.
 
-Subsec. (c)(2). Pub. L. 103–397, § 2(b)(2), amended table generally by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $39.25 to $98.00 under prior table to $44.00 to $110.00.
+Subsec. (c)(2). Pub. L. 103–397, § 2(b)(2), amended table generally by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $39.25 to $98.00 under prior table to $44.00 to $110.00.
 
-Pub. L. 103–397, § 5(b)(4), amended table generally for fiscal year 1998 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $34.50 to $86.00 under prior table to $39.25 to $98.00.
+Pub. L. 103–397, § 5(b)(4), amended table generally for fiscal year 1998 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $34.50 to $86.00 under prior table to $39.25 to $98.00.
 
-Pub. L. 103–397, § 5(b)(3), amended table generally for fiscal year 1997 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $29.50 to $74.00 under prior table to $34.50 to $86.00.
+Pub. L. 103–397, § 5(b)(3), amended table generally for fiscal year 1997 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $29.50 to $74.00 under prior table to $34.50 to $86.00.
 
-Pub. L. 103–397, § 5(b)(2), amended table generally for fiscal year 1996 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $24.75 to $62.00 under prior table to $29.50 to $74.00.
+Pub. L. 103–397, § 5(b)(2), amended table generally for fiscal year 1996 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $24.75 to $62.00 under prior table to $29.50 to $74.00.
 
-Pub. L. 103–397, § 5(b)(1), amended table generally for fiscal year 1995 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $20.00 to $50.00 under prior table to $24.75 to $62.00.
+Pub. L. 103–397, § 5(b)(1), amended table generally for fiscal year 1995 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $20.00 to $50.00 under prior table to $24.75 to $62.00.
 
-Subsec. (d). Pub. L. 103–397, § 3, added subsec. (d).
+Subsec. (d). Pub. L. 103–397, § 3, added subsec. (d).
 
 1983—Subsec. (a)(4). Pub. L. 98–63 struck out par. (4) which provided that if any part of a small unit was located within another unit, entitlement land within both units was deemed to be located within the smaller unit.
 
@@ -392,7 +392,7 @@ Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 452.
 
 Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 324, provided in part that: “The United States shall not be subject to any cause of action or any liability for distribution of payments made prior to January 1, 1983, under the Act of October 20, 1976 (90 Stat. 2662), as amended [Pub. L. 94–565, see 31 U.S.C. 6901 et seq.], or regulations pursuant thereto.”
 
-## § 6904. Additional payments
+## § 6904. Additional payments
 
 **(a)** In addition to payments the Secretary of the Interior makes under section 6902 of this title, the Secretary shall make a payment for each fiscal year to a unit of general local government collecting and distributing real property taxes (including a unit in Alaska outside the boundaries of an organized borough) in which is located an interest in land that—
 
@@ -416,8 +416,8 @@ Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 324, provided in part that: �
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6904(a) | 31:1603(a)(1st, 3d sentences). | Oct. 20, 1976, Pub. L. 94–565, § 3(a)–(d), 90 Stat. 2663. |
-|  | 31:1603(e). | Oct. 20, 1976, Pub. L. 94–565, 90 Stat. 2662, § 3(e); added Oct. 17, 1978, Pub. L. 95–469, § 3(3), 92 Stat. 1322. |
+| 6904(a) | 31:1603(a)(1st, 3d sentences). | Oct. 20, 1976, Pub. L. 94–565, § 3(a)–(d), 90 Stat. 2663. |
+|  | 31:1603(e). | Oct. 20, 1976, Pub. L. 94–565, 90 Stat. 2662, § 3(e); added Oct. 17, 1978, Pub. L. 95–469, § 3(3), 92 Stat. 1322. |
 | 6904(b) | 31:1603(a)(2d sentence), (b), (d). |  |
 | 6904(c) | 31:1603(c). |  |
 | 6904(d) | 31:1603(a)(last sentence). |  |
@@ -428,9 +428,9 @@ In subsection (a), before clause (1), the words “the Secretary of the Interior
 
 In subsection (b), the words “The Secretary shall make payments only for the 5 fiscal years after the fiscal year in which the interest in land is acquired” are substituted for 31:1603(b)(1st sentence) and (d) to eliminate unnecessary words. The words “affected” and “for addition to either such systems” are omitted as surplus. The words “receiving a distribution” are added for clarity.
 
-In subsection (c), the words “The amount of . . . made . . . fiscal . . . to any unit of local government and affected school districts” are omitted as surplus. The words “by the Secretary” are added for clarity. The words “made for any fiscal year to a unit of local government under subsection (a) of this section”, “assessed and”, “full”, and “for addition to the National Park System or National Forest Wilderness Areas” are omitted as surplus.
+In subsection (c), the words “The amount of . . . made . . . fiscal . . . to any unit of local government and affected school districts” are omitted as surplus. The words “by the Secretary” are added for clarity. The words “made for any fiscal year to a unit of local government under subsection (a) of this section”, “assessed and”, “full”, and “for addition to the National Park System or National Forest Wilderness Areas” are omitted as surplus.
 
-## § 6905. Redwood National Park and the Lake Tahoe Basin
+## § 6905. Redwood National Park and the Lake Tahoe Basin
 
 **(a)** The Secretary of the Interior shall make a payment for each fiscal year to each unit of general local government in which an interest in land owned by the United States Government in the Redwood National Park is located. A unit may use the payment for any governmental purpose. The payment shall be made as provided in section 6903 of this title and shall include an amount payable under section 6903.
 
@@ -454,8 +454,8 @@ In subsection (c), the words “The amount of . . . made . . . fiscal .�
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6905(a) | 16:79*o*(a), (b). | Mar. 27, 1978, Pub. L. 95–250, § 106, 92 Stat. 171. |
-| 6905(b)(1)– (3) | (uncodified). | Dec. 23, 1980, Pub. L. 96–586, § 2(i), 94 Stat. 3383. |
+| 6905(a) | 16:79*o*(a), (b). | Mar. 27, 1978, Pub. L. 95–250, § 106, 92 Stat. 171. |
+| 6905(b)(1)– (3) | (uncodified). | Dec. 23, 1980, Pub. L. 96–586, § 2(i), 94 Stat. 3383. |
 |  | 16:79*o*(c). |  |
 | 6905(b)(4) | 16:79*o*(d). |  |
 
@@ -473,23 +473,23 @@ In subsection (b)(4), the word “affected” is omitted as surplus.
 
 The provisions of Act of December 23, 1980 (Public Law 96–586, 94 Stat. 3383) which relate to the acquisition of the Lake Tahoe Basin, referred to in subsec. (b)(1)(B), are not classified to the Code.
 
-## § 6906. Funding
+## § 6906. Funding
 
-For fiscal year 2019— 1
+For fiscal year 2019— 1
 
-<sup>1</sup>  See Application of Section note below.
+<sup>1</sup> See Application of Section note below.
 
 **(1)** each county or other eligible unit of local government shall be entitled to payment under this chapter; and
 
 **(2)** sums shall be made available to the Secretary of the Interior for obligation or expenditure in accordance with this chapter.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1035; Pub. L. 110–343, div. C, title VI, § 601(c)(1), Oct. 3, 2008, 122 Stat. 3911; Pub. L. 112–141, div. F, title I, § 100111, July 6, 2012, 126 Stat. 906; Pub. L. 113–79, title XII, § 12312, Feb. 7, 2014, 128 Stat. 992; Pub. L. 115–141, div. G, title I, § 118, Mar. 23, 2018, 132 Stat. 661; Pub. L. 116–6, div. E, title I, § 116, Feb. 15, 2019, 133 Stat. 232.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1035; Pub. L. 110–343, div. C, title VI, § 601(c)(1), Oct. 3, 2008, 122 Stat. 3911; Pub. L. 112–141, div. F, title I, § 100111, July 6, 2012, 126 Stat. 906; Pub. L. 113–79, title XII, § 12312, Feb. 7, 2014, 128 Stat. 992; Pub. L. 115–141, div. G, title I, § 118, Mar. 23, 2018, 132 Stat. 661; Pub. L. 116–6, div. E, title I, § 116, Feb. 15, 2019, 133 Stat. 232.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6906 | 31:1607. | Oct. 20, 1976, Pub. L. 94–565, § 7, 90 Stat. 2665. |
+| 6906 | 31:1607. | Oct. 20, 1976, Pub. L. 94–565, § 7, 90 Stat. 2665. |
 
 The words “to the Secretary of the Interior” are added for clarity. The words “*Provided*, That, notwithstanding any other provision of this chapter” and “in advance” are omitted as unnecessary.
 
@@ -511,21 +511,21 @@ The words “to the Secretary of the Interior” are added for clarity. The word
 
 **Application of Section**
 
-Pub. L. 119–74, div. C, title I, § 114, Jan. 23, 2026, 140 Stat. 122, provided that: “Section 6906 of title 31, United States Code, shall be applied by substituting ‘fiscal year 2026’ for ‘fiscal year 2019’.”
+Pub. L. 119–74, div. C, title I, § 114, Jan. 23, 2026, 140 Stat. 122, provided that: “Section 6906 of title 31, United States Code, shall be applied by substituting ‘fiscal year 2026’ for ‘fiscal year 2019’.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 118–42, div. E, title I, § 114, Mar. 9, 2024, 138 Stat. 247.
+Pub. L. 118–42, div. E, title I, § 114, Mar. 9, 2024, 138 Stat. 247.
 
-Pub. L. 117–328, div. G, title I, § 114, Dec. 29, 2022, 136 Stat. 4787.
+Pub. L. 117–328, div. G, title I, § 114, Dec. 29, 2022, 136 Stat. 4787.
 
-Pub. L. 117–103, div. G, title I, § 114, Mar. 15, 2022, 136 Stat. 376.
+Pub. L. 117–103, div. G, title I, § 114, Mar. 15, 2022, 136 Stat. 376.
 
-Pub. L. 116–260, div. G, title I, § 115, Dec. 27, 2020, 134 Stat. 1506.
+Pub. L. 116–260, div. G, title I, § 115, Dec. 27, 2020, 134 Stat. 1506.
 
-Pub. L. 116–94, div. D, title I, § 115, Dec. 20, 2019, 133 Stat. 2714.
+Pub. L. 116–94, div. D, title I, § 115, Dec. 20, 2019, 133 Stat. 2714.
 
-## § 6907. State legislation requiring reallocation or redistribution of payments to smaller units of general purpose government
+## § 6907. State legislation requiring reallocation or redistribution of payments to smaller units of general purpose government
 
 **(a)** Notwithstanding any other provision of this chapter, a State may enact legislation which requires that any payments which would be made to units of general local government pursuant to this chapter be reallocated and redistributed in whole or part to other smaller units of general purpose government which (1) are located within the boundaries of the larger unit of general local government, (2) provide general governmental services and (3) contain entitlement lands within their boundaries. Such reallocation or redistribution shall generally reflect the level of services provided by, and the number of entitlement acres within, the smaller unit of general local government.
 
@@ -533,7 +533,7 @@ Pub. L. 116–94, div. D, title I, § 115, Dec. 20, 2019, 133 Stat. 2714.
 
 **(c)** Appropriations made for payments in lieu of taxes for a fiscal year may be used to correct underpayments in the previous fiscal year to achieve equity among all qualified recipients.
 
-(Added Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 324; amended Pub. L. 103–272, § 4(f)(1)(U)(ii), July 5, 1994, 108 Stat. 1362.)
+(Added Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 324; amended Pub. L. 103–272, § 4(f)(1)(U)(ii), July 5, 1994, 108 Stat. 1362.)
 
 **Editorial Notes**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 80—STATE FISCAL STABILIZATION FUND
 
-## § 10001. Allocations
+## § 10001. Allocations
 
 **(a) Outlying areas**
 
@@ -43,9 +43,9 @@ From funds allocated under subsection (d), the Secretary shall make grants to th
 
 The Governor shall return to the Secretary any funds received under subsection (e) that the Governor does not award as subgrants or otherwise commit within two years of receiving such funds, and the Secretary shall reallocate such funds to the remaining States in accordance with subsection (d).
 
-(Pub. L. 111–5, div. A, title XIV, § 14001, Feb. 17, 2009, 123 Stat. 279.)
+(Pub. L. 111–5, div. A, title XIV, § 14001, Feb. 17, 2009, 123 Stat. 279.)
 
-## § 10002. State uses of funds
+## § 10002. State uses of funds
 
 **(a) Education fund**
 
@@ -85,9 +85,9 @@ The Governor shall use 18.2 percent of the State’s allocation under section 10
 
 **(2) Availability to all institutions of higher education** A Governor shall not consider the type or mission of an institution of higher education, and shall consider any institution for funding for modernization, renovation, and repairs within the State that—
 
-**(A)** qualifies as an institution of higher education, as defined in subsection 1
+**(A)** qualifies as an institution of higher education, as defined in subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 10013(3) of this title; and
 
@@ -97,29 +97,29 @@ The Governor shall use 18.2 percent of the State’s allocation under section 10
 
 Nothing in this section shall allow a local educational agency to engage in school modernization, renovation, or repair that is inconsistent with State law.
 
-(Pub. L. 111–5, div. A, title XIV, § 14002, Feb. 17, 2009, 123 Stat. 279; Pub. L. 111–8, div. F, title V, § 523(a), (b), Mar. 11, 2009, 123 Stat. 806.)
+(Pub. L. 111–5, div. A, title XIV, § 14002, Feb. 17, 2009, 123 Stat. 279; Pub. L. 111–8, div. F, title V, § 523(a), (b), Mar. 11, 2009, 123 Stat. 806.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 **Amendments**
 
-2009—Subsec. (a)(2)(A)(i). Pub. L. 111–8, § 523(a), inserted “education” after “secondary” in introductory provisions.
+2009—Subsec. (a)(2)(A)(i). Pub. L. 111–8, § 523(a), inserted “education” after “secondary” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 111–8, § 523(b), substituted “10001(d)” for “10001”.
+Subsec. (b)(1). Pub. L. 111–8, § 523(b), substituted “10001(d)” for “10001”.
 
-## § 10003. Uses of funds by local educational agencies
+## § 10003. Uses of funds by local educational agencies
 
 **(a) In general**
 
 A local educational agency that receives funds under this chapter may use the funds for any activity authorized by the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) (“ESEA”), the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) (“IDEA”), the Adult Education and Family Literacy Act (20 U.S.C. 9201 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.) (“the Perkins Act”) or for modernization, renovation, or repair of public school facilities, including modernization, renovation, and repairs that are consistent with a recognized green building rating system.
 
@@ -137,25 +137,25 @@ or the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 230
 
 Nothing in this section shall allow a local educational agency to engage in school modernization, renovation, or repair that is inconsistent with State law.
 
-(Pub. L. 111–5, div. A, title XIV, § 14003, Feb. 17, 2009, 123 Stat. 281; Pub. L. 111–8, div. F, title V, § 523(c), Mar. 11, 2009, 123 Stat. 806.)
+(Pub. L. 111–5, div. A, title XIV, § 14003, Feb. 17, 2009, 123 Stat. 281; Pub. L. 111–8, div. F, title V, § 523(c), Mar. 11, 2009, 123 Stat. 806.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Adult Education and Family Literacy Act, referred to in subsec. (a), was title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, which was classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pub. L. 113–128 also included a title II, entitled the “Adult Education and Family Literacy Act”, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. Pursuant to section 3361(a) of Title 29, references to a provision of Pub. L. 105–220 are deemed to refer to the corresponding provision of Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of title II of Pub. L. 105–220 to the Code, see Tables. For complete classification of title II of Pub. L. 113–128 to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (a), was title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, which was classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pub. L. 113–128 also included a title II, entitled the “Adult Education and Family Literacy Act”, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. Pursuant to section 3361(a) of Title 29, references to a provision of Pub. L. 105–220 are deemed to refer to the corresponding provision of Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of title II of Pub. L. 105–220 to the Code, see Tables. For complete classification of title II of Pub. L. 113–128 to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 **Amendments**
 
 2009—Subsec. (a). Pub. L. 111–8 substituted “the Adult Education and Family Literacy Act (20 U.S.C. 9201 et seq.)” for “the Adult and Family Literacy Act (20 U.S.C. 1400 et seq.)”.
 
-## § 10004. Uses of funds by institutions of higher education
+## § 10004. Uses of funds by institutions of higher education
 
 **(a) In general**
 
@@ -177,9 +177,9 @@ An institution of higher education may not use funds received under this chapter
 
 **(B)** in which a substantial portion of the functions of the facilities are subsumed in a religious mission.
 
-(Pub. L. 111–5, div. A, title XIV, § 14004, Feb. 17, 2009, 123 Stat. 281.)
+(Pub. L. 111–5, div. A, title XIV, § 14004, Feb. 17, 2009, 123 Stat. 281.)
 
-## § 10005. State applications
+## § 10005. State applications
 
 **(a) In general**
 
@@ -197,13 +197,13 @@ The Governor of a State desiring to receive an allocation under section 10001(d)
 
 **(1)** submit an application for consideration;
 
-**(2)** describe the status of the State’s progress in each of the areas described in subsection (d), and the strategies the State is employing to help ensure that students in the subgroups described in section 1111(b)(2)(C)(v)(II) 1
+**(2)** describe the status of the State’s progress in each of the areas described in subsection (d), and the strategies the State is employing to help ensure that students in the subgroups described in section 1111(b)(2)(C)(v)(II) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the ESEA (20 U.S.C. 6311(b)(2)(C)(v)(II)) who have not met the State’s proficiency targets continue making progress toward meeting the State’s student academic achievement standards;
 
-**(3)** describe the achievement and graduation rates (as described in section 1111(b)(2)(C)(vi) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)(2)(C)(vi)) and as clarified in section 200.19(b)(1) of title 34, Code of Federal Regulations) of public elementary and secondary school students in the State, and the strategies the State is employing to help ensure that all subgroups of students identified in section 1111(b)(2) of the ESEA (20 U.S.C. 6311(b)(2)) in the State continue making progress toward meeting the State’s student academic achievement standards;
+**(3)** describe the achievement and graduation rates (as described in section 1111(b)(2)(C)(vi) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)(2)(C)(vi)) and as clarified in section 200.19(b)(1) of title 34, Code of Federal Regulations) of public elementary and secondary school students in the State, and the strategies the State is employing to help ensure that all subgroups of students identified in section 1111(b)(2) of the ESEA (20 U.S.C. 6311(b)(2)) in the State continue making progress toward meeting the State’s student academic achievement standards;
 
 **(4)** describe how the State would use its grant funding to improve student academic achievement in the State, including how it will allocate the funds to give priority to high-need local educational agencies; and
 
@@ -223,7 +223,7 @@ The State will, in each of fiscal years 2009, 2010, and 2011, maintain State sup
 
 **(2) Achieving equity in teacher distribution**
 
-The State will take actions to improve teacher effectiveness and comply with section 1111(b)(8)(C) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)(8)(C)) in order to address inequities in the distribution of highly qualified teachers between high- and low-poverty schools, and to ensure that low-income and minority children are not taught at higher rates than other children by inexperienced, unqualified, or out-of-field teachers.
+The State will take actions to improve teacher effectiveness and comply with section 1111(b)(8)(C) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)(8)(C)) in order to address inequities in the distribution of highly qualified teachers between high- and low-poverty schools, and to ensure that low-income and minority children are not taught at higher rates than other children by inexperienced, unqualified, or out-of-field teachers.
 
 **(3) Improving collection and use of data**
 
@@ -231,15 +231,15 @@ The State will establish a longitudinal data system that includes the elements d
 
 **(4) Standards and assessments** The State—
 
-**(A)** will enhance the quality of the academic assessments it administers pursuant to section 1111(b)(3) of the ESEA (20 U.S.C. 6311(b)(3)) through activities such as those described in section 6112(a) <sup>1</sup> of such Act (20 U.S.C. 7301a(a));
+**(A)** will enhance the quality of the academic assessments it administers pursuant to section 1111(b)(3) of the ESEA (20 U.S.C. 6311(b)(3)) through activities such as those described in section 6112(a) <sup>1</sup> of such Act (20 U.S.C. 7301a(a));
 
-**(B)** will comply with the requirements of paragraphs (3)(C)(ix) and (6) of section 1111(b) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)) and section 612(a)(16) of the IDEA (20 U.S.C. 1412(a)(16)) related to the inclusion of children with disabilities and limited English proficient students in State assessments, the development of valid and reliable assessments for those students, and the provision of accommodations that enable their participation in State assessments; and
+**(B)** will comply with the requirements of paragraphs (3)(C)(ix) and (6) of section 1111(b) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)) and section 612(a)(16) of the IDEA (20 U.S.C. 1412(a)(16)) related to the inclusion of children with disabilities and limited English proficient students in State assessments, the development of valid and reliable assessments for those students, and the provision of accommodations that enable their participation in State assessments; and
 
 **(C)** will take steps to improve State academic content standards and student academic achievement standards consistent with section 9871(e)(1)(A)(ii) of this title.
 
 **(5) Supporting struggling schools**
 
-The State will ensure compliance with the requirements of section 1116(b)(7)(C)(iv) <sup>1</sup> and section 1116(b)(8)(B) <sup>1</sup> of the ESEA with respect to schools identified under such sections.
+The State will ensure compliance with the requirements of section 1116(b)(7)(C)(iv) <sup>1</sup> and section 1116(b)(8)(B) <sup>1</sup> of the ESEA with respect to schools identified under such sections.
 
 **(6) Improving early childhood care and education** The State will take actions to—
 
@@ -249,35 +249,35 @@ The State will ensure compliance with the requirements of section 1116(b)(7)(C)(
 
 **(C)** ensure that any use of assessments conforms with the recommendations of the National Research Council’s reports on early childhood.
 
-(Pub. L. 111–5, div. A, title XIV, § 14005, Feb. 17, 2009, 123 Stat. 282; Pub. L. 111–8, div. F, title V, § 523(d)–(f), Mar. 11, 2009, 123 Stat. 806; Pub. L. 112–10, div. B, title VIII, § 1832(b)(1), Apr. 15, 2011, 125 Stat. 164.)
+(Pub. L. 111–5, div. A, title XIV, § 14005, Feb. 17, 2009, 123 Stat. 282; Pub. L. 111–8, div. F, title V, § 523(d)–(f), Mar. 11, 2009, 123 Stat. 806; Pub. L. 112–10, div. B, title VIII, § 1832(b)(1), Apr. 15, 2011, 125 Stat. 164.)
 
 **Editorial Notes**
 
 **References in Text**
 
-ESEA, referred to in subsec. (b)(3), is the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+ESEA, referred to in subsec. (b)(3), is the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-IDEA, referred to in subsec. (b)(3), is the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+IDEA, referred to in subsec. (b)(3), is the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-Section 1111 of the ESEA, referred to in subsecs. (c)(2), (3) and (d)(2), (4)(A), (B), is section 1111 of Pub. L. 89–10, which is classified to section 6311 of this title. Section 1111 was amended generally by Pub. L. 114–95, title I, § 1005, Dec. 10, 2015, 129 Stat. 1820, and as so amended, does not contain a subsec. (b)(2)(C)(v), (vi), (3)(C)(ix), (6), or (8)(C).
+Section 1111 of the ESEA, referred to in subsecs. (c)(2), (3) and (d)(2), (4)(A), (B), is section 1111 of Pub. L. 89–10, which is classified to section 6311 of this title. Section 1111 was amended generally by Pub. L. 114–95, title I, § 1005, Dec. 10, 2015, 129 Stat. 1820, and as so amended, does not contain a subsec. (b)(2)(C)(v), (vi), (3)(C)(ix), (6), or (8)(C).
 
-Section 9871 of this title, referred to in subsec. (d)(3), (4)(C), was in the original “section 6401”, and was translated as meaning section 6201 of Pub. L. 110–69 to reflect the probable intent of Congress and the renumbering of section 6401 of Pub. L. 110–69 as section 6201 by Pub. L. 111–358, title X, § 1002(b)(3), Jan. 4, 2011, 124 Stat. 4048.
+Section 9871 of this title, referred to in subsec. (d)(3), (4)(C), was in the original “section 6401”, and was translated as meaning section 6201 of Pub. L. 110–69 to reflect the probable intent of Congress and the renumbering of section 6401 of Pub. L. 110–69 as section 6201 by Pub. L. 111–358, title X, § 1002(b)(3), Jan. 4, 2011, 124 Stat. 4048.
 
-Section 6112 of the ESEA, referred to in subsec. (d)(4)(A), is section 6112 of Pub. L. 89–10, which was classified to section 7301a of this title, prior to repeal by Pub. L. 114–95, § 5, title V, § 5001(b)(1), Dec. 10, 2015, 129 Stat. 1806, 2040, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+Section 6112 of the ESEA, referred to in subsec. (d)(4)(A), is section 6112 of Pub. L. 89–10, which was classified to section 7301a of this title, prior to repeal by Pub. L. 114–95, § 5, title V, § 5001(b)(1), Dec. 10, 2015, 129 Stat. 1806, 2040, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
-Section 1116 of the ESEA, referred to in subsec. (d)(5), is section 1116 of Pub. L. 89–10, which was classified to section 6316 of this title, prior to repeal by Pub. L. 114–95, § 5, title I, § 1000(1), Dec. 10, 2015, 129 Stat. 1806, 1814, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs. Section 1000(2) of Pub. L. 114–95 renumbered section 1118 of Pub. L. 89–10 as section 1116, which is classified to section 6318 of this title. Section 6318 does not contain a subsec. (b)(7) or (8).
+Section 1116 of the ESEA, referred to in subsec. (d)(5), is section 1116 of Pub. L. 89–10, which was classified to section 6316 of this title, prior to repeal by Pub. L. 114–95, § 5, title I, § 1000(1), Dec. 10, 2015, 129 Stat. 1806, 1814, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs. Section 1000(2) of Pub. L. 114–95 renumbered section 1118 of Pub. L. 89–10 as section 1116, which is classified to section 6318 of this title. Section 6318 does not contain a subsec. (b)(7) or (8).
 
 **Amendments**
 
 2011—Subsec. (d)(6). Pub. L. 112–10 added par. (6).
 
-2009—Subsec. (a). Pub. L. 111–8, § 523(d), substituted “10001(d)” for “10001”.
+2009—Subsec. (a). Pub. L. 111–8, § 523(d), substituted “10001(d)” for “10001”.
 
-Subsec. (d)(4)(C). Pub. L. 111–8, § 523(e), substituted “9871(e)(1)(A)(ii)” for “9871(e)(1)(9)(A)(ii)”.
+Subsec. (d)(4)(C). Pub. L. 111–8, § 523(e), substituted “9871(e)(1)(A)(ii)” for “9871(e)(1)(9)(A)(ii)”.
 
-Subsec. (d)(5). Pub. L. 111–8, § 523(f), substituted “1116(b)(7)(C)(iv)” for “1116(a)(7)(C)(iv)” and “1116(b)(8)(B)” for “1116(a)(8)(B)”.
+Subsec. (d)(5). Pub. L. 111–8, § 523(f), substituted “1116(b)(7)(C)(iv)” for “1116(a)(7)(C)(iv)” and “1116(b)(8)(B)” for “1116(a)(8)(B)”.
 
-## § 10006. State incentive grants
+## § 10006. State incentive grants
 
 **(a) In general**
 
@@ -291,9 +291,9 @@ Of the remaining funds, the Secretary shall, in fiscal year 2010, make grants to
 
 **(b) Basis for grants**
 
-The Secretary shall determine which States receive grants under this section, and the amount of those grants, on the basis of information provided in State applications under section 10005 of this title and such other criteria as the Secretary determines appropriate, which may include a State’s need for assistance to help meet the objective of paragraphs 1
+The Secretary shall determine which States receive grants under this section, and the amount of those grants, on the basis of information provided in State applications under section 10005 of this title and such other criteria as the Secretary determines appropriate, which may include a State’s need for assistance to help meet the objective of paragraphs 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph”.
+<sup>1</sup> So in original. Probably should be “paragraph”.
 
 (2), (3), (4), (5), or (6) of section 10005(d) of this title.
 
@@ -307,25 +307,25 @@ Each State receiving a grant under this section shall use at least 50 percent of
 
 Paragraph (1) does not apply to grants made by the Secretary to consortia of States to develop academic assessments that are aligned with academic standards, or to a State or States for improving early childhood care and education except that such a State may use its grant funds to make subgrants to public or private agencies and organizations for activities consistent with the purposes of the grant.
 
-(Pub. L. 111–5, div. A, title XIV, § 14006, Feb. 17, 2009, 123 Stat. 283; Pub. L. 111–117, div. D, title III, § 310, Dec. 16, 2009, 123 Stat. 3272; Pub. L. 112–10, div. B, title VIII, § 1832(b)(2), Apr. 15, 2011, 125 Stat. 164; Pub. L. 112–74, div. F, title III, § 308, Dec. 23, 2011, 125 Stat. 1100.)
+(Pub. L. 111–5, div. A, title XIV, § 14006, Feb. 17, 2009, 123 Stat. 283; Pub. L. 111–117, div. D, title III, § 310, Dec. 16, 2009, 123 Stat. 3272; Pub. L. 112–10, div. B, title VIII, § 1832(b)(2), Apr. 15, 2011, 125 Stat. 164; Pub. L. 112–74, div. F, title III, § 308, Dec. 23, 2011, 125 Stat. 1100.)
 
 **Editorial Notes**
 
 **References in Text**
 
-ESEA, referred to in subsec. (c)(1), is the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+ESEA, referred to in subsec. (c)(1), is the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 **Amendments**
 
-2011—Subsec. (b). Pub. L. 112–10, § 1832(b)(2)(A), substituted “(5), or (6)” for “and (5)”.
+2011—Subsec. (b). Pub. L. 112–10, § 1832(b)(2)(A), substituted “(5), or (6)” for “and (5)”.
 
 Subsec. (c)(2). Pub. L. 112–74 inserted before period at end “except that such a State may use its grant funds to make subgrants to public or private agencies and organizations for activities consistent with the purposes of the grant”.
 
-Pub. L. 112–10, § 1832(b)(2)(B), inserted before period at end “, or to a State or States for improving early childhood care and education”.
+Pub. L. 112–10, § 1832(b)(2)(B), inserted before period at end “, or to a State or States for improving early childhood care and education”.
 
 2009—Subsec. (c). Pub. L. 111–117 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-## § 10007. Innovation Fund
+## § 10007. Innovation Fund
 
 **(a) In general**
 
@@ -353,9 +353,9 @@ From the total amount reserved under section 10001(c) of this title, the Secreta
 
 **(1)**
 
-**(A)** have significantly closed the achievement gaps between groups of students described in section 6311(b)(2) 1
+**(A)** have significantly closed the achievement gaps between groups of students described in section 6311(b)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; or
 
@@ -373,17 +373,17 @@ In the case of an eligible entity that includes a nonprofit organization, the el
 
 In the case of an eligible entity that is a partnership described in subsection (a)(1)(B), the partner serving as the fiscal agent may make subgrants to one or more of the other entities in the partnership.
 
-(Pub. L. 111–5, div. A, title XIV, § 14007, Feb. 17, 2009, 123 Stat. 284; Pub. L. 111–117, div. D, title III, § 307, Dec. 16, 2009, 123 Stat. 3271.)
+(Pub. L. 111–5, div. A, title XIV, § 14007, Feb. 17, 2009, 123 Stat. 284; Pub. L. 111–117, div. D, title III, § 307, Dec. 16, 2009, 123 Stat. 3271.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 6311 of this title, referred to in subsec. (b)(1)(A), was amended generally by Pub. L. 114–95, title I, § 1005, Dec. 10, 2015, 129 Stat. 1820, and, as so amended, subsec. (b)(2) does not describe achievement gaps.
+Section 6311 of this title, referred to in subsec. (b)(1)(A), was amended generally by Pub. L. 114–95, title I, § 1005, Dec. 10, 2015, 129 Stat. 1820, and, as so amended, subsec. (b)(2) does not describe achievement gaps.
 
 **Amendments**
 
-2009—Subsec. (a)(3). Pub. L. 111–117, § 307(1), amended par. (3) generally. Prior to amendment, text read as follows: “The Secretary shall make awards to eligible entities that have made significant gains in closing the achievement gap as described in subsection (b)(1)—
+2009—Subsec. (a)(3). Pub. L. 111–117, § 307(1), amended par. (3) generally. Prior to amendment, text read as follows: “The Secretary shall make awards to eligible entities that have made significant gains in closing the achievement gap as described in subsection (b)(1)—
 
 “(A) to allow such eligible entities to expand their work and serve as models for best practices;
 
@@ -391,11 +391,11 @@ Section 6311 of this title, referred to in subsec. (b)(1)(A), was amended genera
 
 “(C) to identify and document best practices that can be shared, and taken to scale based on demonstrated success.”
 
-Subsec. (b). Pub. L. 111–117, § 307(2), redesignated pars. (1), (2), (3), and (4) as (1)(A), (1)(B), (2), and (3), respectively, inserted “or” after semicolon in par. (1)(A), amended par. (1)(B) generally, and substituted “it has established one or more partnerships” for “they have established partnerships” in par. (3). Prior to amendment, par. (1)(B) read as follows: “have exceeded the State’s annual measurable objectives consistent with such section 6311(b)(2) of this title for 2 or more consecutive years or have demonstrated success in significantly increasing student academic achievement for all groups of students described in such section through another measure, such as measures described in section 6311(c)(2) of this title;”.
+Subsec. (b). Pub. L. 111–117, § 307(2), redesignated pars. (1), (2), (3), and (4) as (1)(A), (1)(B), (2), and (3), respectively, inserted “or” after semicolon in par. (1)(A), amended par. (1)(B) generally, and substituted “it has established one or more partnerships” for “they have established partnerships” in par. (3). Prior to amendment, par. (1)(B) read as follows: “have exceeded the State’s annual measurable objectives consistent with such section 6311(b)(2) of this title for 2 or more consecutive years or have demonstrated success in significantly increasing student academic achievement for all groups of students described in such section through another measure, such as measures described in section 6311(c)(2) of this title;”.
 
-Subsec. (c). Pub. L. 111–117, § 307(3), substituted “paragraphs (1)(A) or (1)(B) and (2) of subsection (b) if the nonprofit organization has a record of significantly improving student achievement, attainment, or retention and shall be considered to have met the requirements of subsection (b)(3) if it demonstrates that it will meet the requirement relating to private-sector matching” for “paragraphs (1), (2), (3) of subsection (b) if such nonprofit organization has a record of meeting such requirements”.
+Subsec. (c). Pub. L. 111–117, § 307(3), substituted “paragraphs (1)(A) or (1)(B) and (2) of subsection (b) if the nonprofit organization has a record of significantly improving student achievement, attainment, or retention and shall be considered to have met the requirements of subsection (b)(3) if it demonstrates that it will meet the requirement relating to private-sector matching” for “paragraphs (1), (2), (3) of subsection (b) if such nonprofit organization has a record of meeting such requirements”.
 
-Subsec. (d). Pub. L. 111–117, § 307(4), added subsec. (d).
+Subsec. (d). Pub. L. 111–117, § 307(4), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -403,7 +403,7 @@ Subsec. (d). Pub. L. 111–117, § 307(4), added subsec. (d).
 
 Pub. L. 113–76, div. H, title III, Jan. 17, 2014, 128 Stat. 392, provided in part: “That the Secretary may renew a grant made under section 14007 [20 U.S.C. 10007] for additional 1-year periods, for fiscal year 2014 and thereafter, if the grantee is meeting its performance targets, up to a total award period of 6 years”.
 
-## § 10008. State reports
+## § 10008. State reports
 
 For each year of the program under this chapter, a State receiving funds under this chapter shall submit a report to the Secretary, at such time and in such manner as the Secretary may require, that describes—
 
@@ -423,19 +423,19 @@ For each year of the program under this chapter, a State receiving funds under t
 
 **(8)** a description of each modernization, renovation and repair project funded, which shall include the amounts awarded and project costs.
 
-(Pub. L. 111–5, div. A, title XIV, § 14008, Feb. 17, 2009, 123 Stat. 285.)
+(Pub. L. 111–5, div. A, title XIV, § 14008, Feb. 17, 2009, 123 Stat. 285.)
 
-## § 10009. Evaluation
+## § 10009. Evaluation
 
 The Comptroller General of the United States shall conduct evaluations of the programs under sections 10006 and 10007 of this title which shall include, but not be limited to, the criteria used for the awards made, the States selected for awards, award amounts, how each State used the award received, and the impact of this funding on the progress made toward closing achievement gaps.
 
-(Pub. L. 111–5, div. A, title XIV, § 14009, Feb. 17, 2009, 123 Stat. 285.)
+(Pub. L. 111–5, div. A, title XIV, § 14009, Feb. 17, 2009, 123 Stat. 285.)
 
-## § 10010. Secretary’s report to Congress
+## § 10010. Secretary’s report to Congress
 
 The Secretary shall submit a report to the Committee on Education and Labor of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committees on Appropriations of the House of Representatives and of the Senate, not less than 6 months following the submission of State reports, that evaluates the information provided in the State reports under section 10008 of this title and the information required by section 10005(b)(3) of this title including State-by-State information.
 
-(Pub. L. 111–5, div. A, title XIV, § 14010, Feb. 17, 2009, 123 Stat. 285.)
+(Pub. L. 111–5, div. A, title XIV, § 14010, Feb. 17, 2009, 123 Stat. 285.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -443,23 +443,23 @@ The Secretary shall submit a report to the Committee on Education and Labor of t
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-## § 10011. Prohibition on provision of certain assistance
+## § 10011. Prohibition on provision of certain assistance
 
 No recipient of funds under this chapter shall use such funds to provide financial assistance to students to attend private elementary or secondary schools, unless such funds are used to provide special education and related services to children with disabilities, as authorized by the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.).
 
-(Pub. L. 111–5, div. A, title XIV, § 14011, Feb. 17, 2009, 123 Stat. 285; Pub. L. 111–8, div. F, title V, § 523(g), Mar. 11, 2009, 123 Stat. 806.)
+(Pub. L. 111–5, div. A, title XIV, § 14011, Feb. 17, 2009, 123 Stat. 285; Pub. L. 111–8, div. F, title V, § 523(g), Mar. 11, 2009, 123 Stat. 806.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Individuals with Disabilities Education Act, referred to in text, is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in text, is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 **Amendments**
 
-2009—Pub. L. 111–8 inserted before period at end “, unless such funds are used to provide special education and related services to children with disabilities, as authorized by the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.)”.
+2009—Pub. L. 111–8 inserted before period at end “, unless such funds are used to provide special education and related services to children with disabilities, as authorized by the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.)”.
 
-## § 10012. Fiscal relief
+## § 10012. Fiscal relief
 
 **(a) In general**
 
@@ -481,23 +481,23 @@ Upon prior approval from the Secretary, a State or local educational agency that
 
 Notwithstanding (d),1
 
-<sup>1</sup>  So in original. Probably should be “subsection (d),”.
+<sup>1</sup> So in original. Probably should be “subsection (d),”.
 
 the level of effort required by a State or local educational agency for the following fiscal year shall not be reduced.
 
-(Pub. L. 111–5, div. A, title XIV, § 14012, Feb. 17, 2009, 123 Stat. 285; Pub. L. 111–8, div. F, title V, § 523(h), Mar. 11, 2009, 123 Stat. 806.)
+(Pub. L. 111–5, div. A, title XIV, § 14012, Feb. 17, 2009, 123 Stat. 285; Pub. L. 111–8, div. F, title V, § 523(h), Mar. 11, 2009, 123 Stat. 806.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 **Amendments**
 
 2009—Subsec. (c). Pub. L. 111–8 amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary shall not grant a waiver or modification under this section unless the Secretary determines that the State or local educational agency receiving such waiver or modification will not provide for elementary and secondary education, for the fiscal year under consideration, a smaller percentage of the total revenues available to the State or local educational agency than the amount provided for such purpose in the preceding fiscal year.”
 
-## § 10013. Definitions
+## § 10013. Definitions
 
 Except as otherwise provided in this chapter, as used in this chapter—
 
@@ -515,16 +515,16 @@ Except as otherwise provided in this chapter, as used in this chapter—
 
 **(5)** the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico; and
 
-**(6)** any other term used that is defined in section 7801 1
+**(6)** any other term used that is defined in section 7801 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title shall have the meaning given the term in such section.
 
-(Pub. L. 111–5, div. A, title XIV, § 14013, Feb. 17, 2009, 123 Stat. 286.)
+(Pub. L. 111–5, div. A, title XIV, § 14013, Feb. 17, 2009, 123 Stat. 286.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 7801 of this title, referred to in par. (6), was in the original a reference to section 9101 of Pub. L. 89–10, which was renumbered section 8101 by Pub. L. 114–95, title VIII, § 8001(a)(1), Dec. 10, 2015, 129 Stat. 2089.
+Section 7801 of this title, referred to in par. (6), was in the original a reference to section 9101 of Pub. L. 89–10, which was renumbered section 8101 by Pub. L. 114–95, title VIII, § 8001(a)(1), Dec. 10, 2015, 129 Stat. 2089.

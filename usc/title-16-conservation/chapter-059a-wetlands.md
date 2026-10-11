@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 59A—WETLANDS
 
-## § 3951. Definitions
+## § 3951. Definitions
 
 As used in this chapter, the term—
 
@@ -23,9 +23,9 @@ As used in this chapter, the term—
 
 **(2)** “Administrator” means the Administrator of the Environmental Protection Agency;
 
-**(3)** “development activities” means any activity, including the discharge of dredged or fill material, which results directly in a more than de minimus 1
+**(3)** “development activities” means any activity, including the discharge of dredged or fill material, which results directly in a more than de minimus 1
 
-<sup>1</sup>  So in original. Probably should be “de minimis”.
+<sup>1</sup> So in original. Probably should be “de minimis”.
 
 change in the hydrologic regime, bottom contour, or the type, distribution or diversity of hydrophytic vegetation, or which impairs the flow, reach, or circulation of surface water within wetlands or other waters;
 
@@ -33,9 +33,9 @@ change in the hydrologic regime, bottom contour, or the type, distribution or di
 
 **(5)** “coastal State” means a State of the United States in, or bordering on, the Atlantic, Pacific, or Arctic Ocean, the Gulf of Mexico, Long Island Sound, or one or more of the Great Lakes; for the purposes of this chapter, the term also includes Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territories of the Pacific Islands, and American Samoa;
 
-**(6)** “coastal wetlands restoration project” means any technically feasible activity to create, restore, protect, or enhance coastal wetlands through sediment and freshwater diversion, water management, or other measures that the Task Force finds will significantly contribute to the long-term restoration or protection of the physical, chemical and biological integrity of coastal wetlands in the State of Louisiana, and includes any such activity authorized under this chapter or under any other provision of law, including, but not limited to, new projects, completion or expansion of existing or on-going projects, individual phases, portions, or components of projects and operation, maintanence 2
+**(6)** “coastal wetlands restoration project” means any technically feasible activity to create, restore, protect, or enhance coastal wetlands through sediment and freshwater diversion, water management, or other measures that the Task Force finds will significantly contribute to the long-term restoration or protection of the physical, chemical and biological integrity of coastal wetlands in the State of Louisiana, and includes any such activity authorized under this chapter or under any other provision of law, including, but not limited to, new projects, completion or expansion of existing or on-going projects, individual phases, portions, or components of projects and operation, maintanence 2
 
-<sup>2</sup>  So in original. Probably should be “maintenance”.
+<sup>2</sup> So in original. Probably should be “maintenance”.
 
 and rehabilitation of completed projects; the primary purpose of a “coastal wetlands restoration project” shall not be to provide navigation, irrigation or flood control benefits;
 
@@ -51,7 +51,7 @@ and rehabilitation of completed projects; the primary purpose of a “coastal we
 
 **(10)** “Director” means the Director of the United States Fish and Wildlife Service.
 
-(Pub. L. 101–646, title III, § 302, Nov. 29, 1990, 104 Stat. 4778.)
+(Pub. L. 101–646, title III, § 302, Nov. 29, 1990, 104 Stat. 4778.)
 
 **Editorial Notes**
 
@@ -63,7 +63,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Short Title**
 
-Pub. L. 101–646, title III, § 301, Nov. 29, 1990, 104 Stat. 4778, provided that: “This title [enacting this chapter and amending section 777c of this title] may be cited as the ‘Coastal Wetlands Planning, Protection and Restoration Act’.”
+Pub. L. 101–646, title III, § 301, Nov. 29, 1990, 104 Stat. 4778, provided that: “This title [enacting this chapter and amending section 777c of this title] may be cited as the ‘Coastal Wetlands Planning, Protection and Restoration Act’.”
 
 **Executive Documents**
 
@@ -71,7 +71,7 @@ Pub. L. 101–646, title III, § 301, Nov. 29, 1990, 104 Stat. 4778, provided 
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 3952. Priority Louisiana coastal wetlands restoration projects
+## § 3952. Priority Louisiana coastal wetlands restoration projects
 
 **(a) Priority project list**
 
@@ -177,9 +177,9 @@ Amounts made available in accordance with section 3955 of this title to carry ou
 
 **(2) Federal share upon conservation plan approval**
 
-Notwithstanding the previous paragraph, if the State develops a Coastal Wetlands Conservation Plan pursuant to this chapter, and such conservation plan is approved pursuant to section 3953 of this title, amounts made available in accordance with section 3955 of this title for any coastal wetlands restoration project under this section shall be 85 percent of the cost of the project. In the event that the Secretary, the Director, and the Administrator jointly determine that the State is not taking reasonable steps to implement and administer a conservation plan developed and approved pursuant to this chapter, amounts made available in accordance with section 3955 of this title for any coastal wetlands restoration project shall revert to 75 percent of the cost of the project: *Provided, however*, that 1
+Notwithstanding the previous paragraph, if the State develops a Coastal Wetlands Conservation Plan pursuant to this chapter, and such conservation plan is approved pursuant to section 3953 of this title, amounts made available in accordance with section 3955 of this title for any coastal wetlands restoration project under this section shall be 85 percent of the cost of the project. In the event that the Secretary, the Director, and the Administrator jointly determine that the State is not taking reasonable steps to implement and administer a conservation plan developed and approved pursuant to this chapter, amounts made available in accordance with section 3955 of this title for any coastal wetlands restoration project shall revert to 75 percent of the cost of the project: *Provided, however*, that 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 such reversion to the lower cost share level shall not occur until the Governor has been provided notice of, and opportunity for hearing on, any such determination by the Secretary, the Director, and Administrator, and the State has been given ninety days from such notice or hearing to take corrective action.
 
@@ -195,17 +195,17 @@ Paragraphs (1), (2), (3), and (5) of this subsection shall not affect the existi
 
 Notwithstanding paragraphs (1) and (2), upon approval of the conservation plan under section 3953 of this title and a determination by the Secretary that a reduction in the non-Federal share is warranted, amounts made available in accordance with section 3955 of this title to carry out coastal wetlands restoration projects under this section in calendar years 1996 and 1997 shall provide 90 percent of the cost of such projects.
 
-(Pub. L. 101–646, title III, § 303, Nov. 29, 1990, 104 Stat. 4779; Pub. L. 104–303, title V, § 532, Oct. 12, 1996, 110 Stat. 3774.)
+(Pub. L. 101–646, title III, § 303, Nov. 29, 1990, 104 Stat. 4779; Pub. L. 104–303, title V, § 532, Oct. 12, 1996, 110 Stat. 3774.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (f)(4). Pub. L. 104–303, § 532(1), substituted “(3), and (5)” for “and (3)”.
+1996—Subsec. (f)(4). Pub. L. 104–303, § 532(1), substituted “(3), and (5)” for “and (3)”.
 
-Subsec. (f)(5). Pub. L. 104–303, § 532(2), added par. (5).
+Subsec. (f)(5). Pub. L. 104–303, § 532(2), added par. (5).
 
-## § 3953. Louisiana coastal wetlands conservation planning
+## § 3953. Louisiana coastal wetlands conservation planning
 
 **(a) Development of conservation plan**
 
@@ -297,9 +297,9 @@ A conservation plan approved under this section shall be implemented as provided
 
 **(1) Initial report to Congress**
 
-Within one hundred and eighty days after entering into the agreement required under subsection (a) of this section, the Secretary, the Director, and the Administrator shall report to the Congress as to the status of a conservation plan approved under this section and the progress of the State in carrying out such a plan, including and 1
+Within one hundred and eighty days after entering into the agreement required under subsection (a) of this section, the Secretary, the Director, and the Administrator shall report to the Congress as to the status of a conservation plan approved under this section and the progress of the State in carrying out such a plan, including and 1
 
-<sup>1</sup>  So in original. Probably should be “an”.
+<sup>1</sup> So in original. Probably should be “an”.
 
 accounting, as required under subsection (c) of this section, of the gains and losses of coastal wetlands as a result of development activities.
 
@@ -307,9 +307,9 @@ accounting, as required under subsection (c) of this section, of the gains and l
 
 Twenty-four months after the initial one hundred and eighty day period set forth in paragraph (1), and at the end of each twenty-four-month period thereafter, the Secretary, the Director, and the Administrator shall, report to the Congress on the status of the conservation plan and provide an evaluation of the effectiveness of the plan in meeting the goal of this section.
 
-(Pub. L. 101–646, title III, § 304, Nov. 29, 1990, 104 Stat. 4783.)
+(Pub. L. 101–646, title III, § 304, Nov. 29, 1990, 104 Stat. 4783.)
 
-## § 3954. National coastal wetlands conservation grants
+## § 3954. National coastal wetlands conservation grants
 
 **(a) Matching grants**
 
@@ -351,7 +351,7 @@ In addition to cash outlays and payments, in-kind contributions of property or p
 
 The Director shall, with the funds made available in accordance with section 3955 of this title, direct the U.S. Fish and Wildlife Service’s National Wetland Inventory to update and digitize wetlands maps in the State of Texas and to conduct an assessment of the status, condition, and trends of wetlands in that State.
 
-(Pub. L. 101–646, title III, § 305, Nov. 29, 1990, 104 Stat. 4785; Pub. L. 102–212, title III, § 302(a), Dec. 11, 1991, 105 Stat. 1660.)
+(Pub. L. 101–646, title III, § 305, Nov. 29, 1990, 104 Stat. 4785; Pub. L. 102–212, title III, § 302(a), Dec. 11, 1991, 105 Stat. 1660.)
 
 **Editorial Notes**
 
@@ -369,9 +369,9 @@ for “has established a trust fund, from which the principal is not spent, for 
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–212, title III, § 302(b), Dec. 11, 1991, 105 Stat. 1661, provided that: “This section [amending this section] shall apply to grants awarded in fiscal year 1992 and each fiscal year thereafter.”
+Pub. L. 102–212, title III, § 302(b), Dec. 11, 1991, 105 Stat. 1661, provided that: “This section [amending this section] shall apply to grants awarded in fiscal year 1992 and each fiscal year thereafter.”
 
-## § 3955. Distribution of appropriations
+## § 3955. Distribution of appropriations
 
 **(a) Priority project and conservation planning expenditures** Of the total amount appropriated during a given fiscal year to carry out this chapter, 70 percent shall be available, and shall remain available until expended, for the purposes of making expenditures—
 
@@ -403,21 +403,21 @@ Pub. L. 102–212, title III, § 302(b), Dec. 11, 1991, 105 Stat. 1661, provid
 
 Of the total amount appropriated during a given fiscal year to carry out this chapter, 15 percent shall be available to, and shall remain available until expended by, the Secretary of the Interior for allocation to carry out wetlands conservation projects in coastal wetlands ecosystems in any coastal State under section 4407 of this title.
 
-(Pub. L. 101–646, title III, § 306, Nov. 29, 1990, 104 Stat. 4786; Pub. L. 103–375, § 5, Oct. 19, 1994, 108 Stat. 3495; Pub. L. 108–447, div. C, title I, § 114(a), Dec. 8, 2004, 118 Stat. 2944.)
+(Pub. L. 101–646, title III, § 306, Nov. 29, 1990, 104 Stat. 4786; Pub. L. 103–375, § 5, Oct. 19, 1994, 108 Stat. 3495; Pub. L. 108–447, div. C, title I, § 114(a), Dec. 8, 2004, 118 Stat. 2944.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–447, § 114(a)(1), struck out “, not to exceed $70,000,000,” before “shall be available” in introductory provisions.
+2004—Subsec. (a). Pub. L. 108–447, § 114(a)(1), struck out “, not to exceed $70,000,000,” before “shall be available” in introductory provisions.
 
-Subsec. (b). Pub. L. 108–447, § 114(a)(2), struck out “, not to exceed $15,000,000” before “shall be available” in introductory provisions.
+Subsec. (b). Pub. L. 108–447, § 114(a)(2), struck out “, not to exceed $15,000,000” before “shall be available” in introductory provisions.
 
-Subsec. (c). Pub. L. 108–447, § 114(a)(3), struck out “, not to exceed $15,000,000,” before “shall be available”.
+Subsec. (c). Pub. L. 108–447, § 114(a)(3), struck out “, not to exceed $15,000,000,” before “shall be available”.
 
 1994—Subsec. (c). Pub. L. 103–375 inserted “in coastal wetlands ecosystems” after “wetlands conservation projects”.
 
-## § 3956. General provisions
+## § 3956. General provisions
 
 **(a) Additional authority for Corps of Engineers**
 
@@ -427,9 +427,9 @@ The Secretary is authorized to carry out projects for the protection, restoratio
 
 The Secretary is hereby authorized and directed to study the feasibility of modifying the operation of existing navigation and flood control projects to allow for an increase in the share of the Mississippi River flows and sediment sent down the Atchafalaya River for purposes of land building and wetlands nourishment.
 
-(Pub. L. 101–646, title III, § 307, Nov. 29, 1990, 104 Stat. 4787.)
+(Pub. L. 101–646, title III, § 307, Nov. 29, 1990, 104 Stat. 4787.)
 
-## § 3957. Environmental banks
+## § 3957. Environmental banks
 
 **(a) Guidelines**
 
@@ -443,9 +443,9 @@ Not later than 1 year after December 16, 2016, the Task Force shall, after publi
 
 **(3)** establish criteria that ensure environmental banks secure adequate financial assurances and legally enforceable protection for the land or resources that generate the credits from environmental banks;
 
-**(4)** stipulate that credits from environmental banks may not be used for mitigation of impacts required under section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1342) 1
+**(4)** stipulate that credits from environmental banks may not be used for mitigation of impacts required under section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1342) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or the Endangered Species Act (16 U.S.C. 1531 et seq.) in an area where an existing mitigation bank approved pursuant to such laws within 5 years of enactment of the Water Resources Development Act of 2016 has credits available;
 
@@ -487,7 +487,7 @@ Mitigation credits created from environmental banks approved pursuant to this se
 
 No new environmental bank may be created or approved pursuant to this section after the date that is 14 years after December 16, 2016.
 
-(Pub. L. 101–646, title III, § 309, as added Pub. L. 114–322, title IV, § 5014, Dec. 16, 2016, 130 Stat. 1903; amended Pub. L. 117–263, div. H, title LXXXI, § 8382(c), Dec. 23, 2022, 136 Stat. 3828; Pub. L. 118–272, div. A, title III, § 1303(c), Jan. 4, 2025, 138 Stat. 3114.)
+(Pub. L. 101–646, title III, § 309, as added Pub. L. 114–322, title IV, § 5014, Dec. 16, 2016, 130 Stat. 1903; amended Pub. L. 117–263, div. H, title LXXXI, § 8382(c), Dec. 23, 2022, 136 Stat. 3828; Pub. L. 118–272, div. A, title III, § 1303(c), Jan. 4, 2025, 138 Stat. 3114.)
 
 **Editorial Notes**
 
@@ -495,15 +495,15 @@ No new environmental bank may be created or approved pursuant to this section af
 
 Section 404 of the Federal Water Pollution Control Act, referred to in subsec. (b)(4), is section 404 of act June 30, 1948, ch. 758, which is classified to section 1344 of Title 33, Navigation and Navigable Waters. Section 1342 of Title 33 is section 402 of the Act.
 
-The Endangered Species Act, referred to in subsecs. (b)(4) and (d)(1)(B), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act, referred to in subsecs. (b)(4) and (d)(1)(B), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 Enactment of the Water Resources Development Act of 2016, referred to in subsec. (b)(4), means the enactment of title I of Pub. L. 114–322, which was approved Dec. 16, 2016.
 
-The Federal Water Pollution Control Act, referred to in subsec. (d)(1)(A), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (d)(1)(A), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Oil Pollution Act of 1990, referred to in subsec. (d)(1)(C), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§ 2701 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 33 and Tables.
+The Oil Pollution Act of 1990, referred to in subsec. (d)(1)(C), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§ 2701 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 33 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (d)(1)(D), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d)(1)(D), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 

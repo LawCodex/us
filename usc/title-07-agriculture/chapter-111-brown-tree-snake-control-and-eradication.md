@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 111—BROWN TREE SNAKE CONTROL AND ERADICATION
 
-## § 8501. Definitions
+## § 8501. Definitions
 
 In this chapter:
 
@@ -57,33 +57,33 @@ The term “territorial”, when used to refer to a government, means the Govern
 
 The term “United States”, when used in the geographic sense, means the several States, the District of Colombia,1
 
-<sup>1</sup>  So in original. Probably should be “Columbia,”.
+<sup>1</sup> So in original. Probably should be “Columbia,”.
 
 American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the United States Virgin Islands, any other possession of the United States, and any waters within the jurisdiction of the United States.
 
-(Pub. L. 108–384, § 2, Oct. 30, 2004, 118 Stat. 2221.)
+(Pub. L. 108–384, § 2, Oct. 30, 2004, 118 Stat. 2221.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 108–188, referred to in par. (2), is Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, which is classified principally to part B (§ 1921 et seq.) of subchapter I of chapter 18 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1921 of Title 48 and Tables.
+Public Law 108–188, referred to in par. (2), is Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, which is classified principally to part B (§ 1921 et seq.) of subchapter I of chapter 18 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1921 of Title 48 and Tables.
 
-Public Law 99–658, referred to in par. (2), is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, which is classified generally to part A (§ 1931 et seq.) of subchapter II of chapter 18 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+Public Law 99–658, referred to in par. (2), is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, which is classified generally to part A (§ 1931 et seq.) of subchapter II of chapter 18 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 108–384, § 1, Oct. 30, 2004, 118 Stat. 2221, provided that: “This Act [enacting this chapter] may be cited as the ‘Brown Tree Snake Control and Eradication Act of 2004’.”
+Pub. L. 108–384, § 1, Oct. 30, 2004, 118 Stat. 2221, provided that: “This Act [enacting this chapter] may be cited as the ‘Brown Tree Snake Control and Eradication Act of 2004’.”
 
-## § 8502. Sense of Congress regarding need for improved and better coordinated Federal policy for brown tree snake introduction, control, and eradication
+## § 8502. Sense of Congress regarding need for improved and better coordinated Federal policy for brown tree snake introduction, control, and eradication
 
 It is the sense of Congress that there exists a need for improved and better coordinated control, interdiction, research, and eradication of the brown tree snake on the part of the United States and other interested parties.
 
-(Pub. L. 108–384, § 3, Oct. 30, 2004, 118 Stat. 2222.)
+(Pub. L. 108–384, § 3, Oct. 30, 2004, 118 Stat. 2222.)
 
-## § 8503. Brown tree snake control, interdiction, research and eradication
+## § 8503. Brown tree snake control, interdiction, research and eradication
 
 **(a) Funding authority**
 
@@ -129,15 +129,15 @@ Subject to the availability of appropriations to carry out this section, the Sec
 
 There is authorized to be appropriated to the Secretary of Agriculture and the Secretary of the Interior such amounts as may be required to carry out subsection (b)(10).
 
-(Pub. L. 108–384, § 4, Oct. 30, 2004, 118 Stat. 2222.)
+(Pub. L. 108–384, § 4, Oct. 30, 2004, 118 Stat. 2222.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Control and Eradication of Brown Tree Snakes**
 
-Pub. L. 110–417, [div. A], title III, § 316, Oct. 14, 2008, 122 Stat. 4410, provided that: “The Secretary of Defense shall establish a comprehensive program to control and, to the extent practicable, eradicate the brown tree snake population from military facilities in Guam and to ensure that military activities, including the transport of civilian and military personnel and equipment to and from Guam, do not contribute to the spread of brown tree snakes.”
+Pub. L. 110–417, [div. A], title III, § 316, Oct. 14, 2008, 122 Stat. 4410, provided that: “The Secretary of Defense shall establish a comprehensive program to control and, to the extent practicable, eradicate the brown tree snake population from military facilities in Guam and to ensure that military activities, including the transport of civilian and military personnel and equipment to and from Guam, do not contribute to the spread of brown tree snakes.”
 
-Pub. L. 102–237, title X, § 1013(a)–(c), Dec. 13, 1991, 105 Stat. 1901, as amended by Pub. L. 105–277, div. A, § 101(a) [title VII, § 743], Oct. 21, 1998, 112 Stat. 2681, 2681–31, provided that:
+Pub. L. 102–237, title X, § 1013(a)–(c), Dec. 13, 1991, 105 Stat. 1901, as amended by Pub. L. 105–277, div. A, § 101(a) [title VII, § 743], Oct. 21, 1998, 112 Stat. 2681, 2681–31, provided that:
 
 > **“(a) In General.—** The Secretary of Agriculture shall take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes into other areas of the United States from Guam.
 
@@ -145,9 +145,9 @@ Pub. L. 102–237, title X, § 1013(a)–(c), Dec. 13, 1991, 105 Stat. 1901, a
 
 > **“(c) Authority.—** The Secretary shall use the authority provided under the Federal Plant Pest Act (7 U.S.C. 150aa et seq.) to carry out subsections (a) and (b).”
 
-Pub. L. 102–190, div. A, title III, § 348, Dec. 5, 1991, 105 Stat. 1348, provided that: “The Secretary of Defense shall take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes from Guam to Hawaii in aircraft and vessels transporting personnel or cargo for the Department of Defense. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventive processes or devices at aircraft and vessel loading facilities in Guam or Hawaii or at intermediate transit points for personnel or cargo transported between Guam and Hawaii.”
+Pub. L. 102–190, div. A, title III, § 348, Dec. 5, 1991, 105 Stat. 1348, provided that: “The Secretary of Defense shall take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes from Guam to Hawaii in aircraft and vessels transporting personnel or cargo for the Department of Defense. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventive processes or devices at aircraft and vessel loading facilities in Guam or Hawaii or at intermediate transit points for personnel or cargo transported between Guam and Hawaii.”
 
-## § 8504. Establishment of quarantine protocols to control the introduction and spread of the brown tree snake
+## § 8504. Establishment of quarantine protocols to control the introduction and spread of the brown tree snake
 
 **(a) Establishment of quarantine protocols**
 
@@ -167,15 +167,15 @@ The system of pre-departure quarantine protocols to be established under subsect
 
 **(2)** To the Secretary of the Interior, not more than $1,000,000 for each of the fiscal years 2006 through 2010.
 
-(Pub. L. 108–384, § 5, Oct. 30, 2004, 118 Stat. 2224.)
+(Pub. L. 108–384, § 5, Oct. 30, 2004, 118 Stat. 2224.)
 
-## § 8505. Treatment of brown tree snakes as nonmailable matter
+## § 8505. Treatment of brown tree snakes as nonmailable matter
 
 A brown tree snake constitutes nonmailable matter under section 3015 of title 39.
 
-(Pub. L. 108–384, § 6, Oct. 30, 2004, 118 Stat. 2224.)
+(Pub. L. 108–384, § 6, Oct. 30, 2004, 118 Stat. 2224.)
 
-## § 8506. Role of brown tree snake Technical Working Group
+## § 8506. Role of brown tree snake Technical Working Group
 
 **(a) Purpose**
 
@@ -237,9 +237,9 @@ To the maximum extent practicable, the Secretaries shall make adequate resources
 
 There is authorized to be appropriated to each of the Secretaries not more than $450,000 for each of the fiscal years 2006 through 2010 to carry out this section.
 
-(Pub. L. 108–384, § 7, Oct. 30, 2004, 118 Stat. 2224.)
+(Pub. L. 108–384, § 7, Oct. 30, 2004, 118 Stat. 2224.)
 
-## § 8507. Miscellaneous matters
+## § 8507. Miscellaneous matters
 
 **(a) Availability of appropriated funds**
 
@@ -249,4 +249,4 @@ Amounts appropriated under this chapter shall remain available until expended.
 
 Of the amounts appropriated to carry out this chapter for a fiscal year, the Secretaries may expend not more than five percent to cover the administrative expenses necessary to carry out this chapter.
 
-(Pub. L. 108–384, § 8, Oct. 30, 2004, 118 Stat. 2226.)
+(Pub. L. 108–384, § 8, Oct. 30, 2004, 118 Stat. 2226.)

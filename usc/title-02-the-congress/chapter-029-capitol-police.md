@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 ### Part A—General
 
-#### § 1901. Establishment; officer appointments
+#### § 1901. Establishment; officer appointments
 
 There shall be a Capitol police. There shall be a captain of the Capitol police and such other members with such rates of compensation, respectively, as may be appropriated for by Congress from year to year. The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.
 
-(R.S. § 1821; Apr. 28, 1902, ch. 594, 32 Stat. 124; June 28, 1943, ch. 173, title I, 57 Stat. 230; Pub. L. 96–152, § 1(a), Dec. 20, 1979, 93 Stat. 1099; Pub. L. 108–7, div. H, title I, § 1018(h)(1), Feb. 20, 2003, 117 Stat. 368; Pub. L. 111–145, § 6(e)(1)–(3), Mar. 4, 2010, 124 Stat. 54, 55.)
+(R.S. § 1821; Apr. 28, 1902, ch. 594, 32 Stat. 124; June 28, 1943, ch. 173, title I, 57 Stat. 230; Pub. L. 96–152, § 1(a), Dec. 20, 1979, 93 Stat. 1099; Pub. L. 108–7, div. H, title I, § 1018(h)(1), Feb. 20, 2003, 117 Stat. 368; Pub. L. 111–145, § 6(e)(1)–(3), Mar. 4, 2010, 124 Stat. 54, 55.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 206 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 206 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-Section was a composite of provisions of R.S. § 1821, act Apr. 28, 1902, and act June 28, 1943, cited in the credits. Provisions from act Apr. 28, 1902, and act June 28, 1943, were repealed by Pub. L. 111–145, § 6(e)(1).
+Section was a composite of provisions of R.S. § 1821, act Apr. 28, 1902, and act June 28, 1943, cited in the credits. Provisions from act Apr. 28, 1902, and act June 28, 1943, were repealed by Pub. L. 111–145, § 6(e)(1).
 
-R.S. § 1821 derived from acts Mar. 2, 1867, ch. 167, § 2, 14 Stat. 466; Mar. 3, 1873, ch. 226, 17 Stat. 488.
+R.S. § 1821 derived from acts Mar. 2, 1867, ch. 167, § 2, 14 Stat. 466; Mar. 3, 1873, ch. 226, 17 Stat. 488.
 
 **Amendments**
 
-2010—Pub. L. 111–145, § 6(e)(3), amended first sentence of R.S. § 1821 by striking “, the members of which shall be appointed by the Sergeants-at-Arms of the two Houses and the Architect of the Capitol Extension” after “There shall be a Capitol police”.
+2010—Pub. L. 111–145, § 6(e)(3), amended first sentence of R.S. § 1821 by striking “, the members of which shall be appointed by the Sergeants-at-Arms of the two Houses and the Architect of the Capitol Extension” after “There shall be a Capitol police”.
 
-Pub. L. 111–145, § 6(e)(2), repealed Pub. L. 108–7, § 1018(h)(1), and provided that the sentence repealed by such section is restored to appear at end of section. See 2003 Amendment note below.
+Pub. L. 111–145, § 6(e)(2), repealed Pub. L. 108–7, § 1018(h)(1), and provided that the sentence repealed by such section is restored to appear at end of section. See 2003 Amendment note below.
 
-Pub. L. 111–145, § 6(e)(1), struck out “The captain and lieutenants shall be selected jointly by the Sergeant at Arms of the Senate and the Sergeant at Arms of the House of Representatives; and one-half of the privates shall be selected by the Sergeant at Arms of the Senate and one-half by the Sergeant at Arms of the House of Representatives.” after “from year to year.”
+Pub. L. 111–145, § 6(e)(1), struck out “The captain and lieutenants shall be selected jointly by the Sergeant at Arms of the Senate and the Sergeant at Arms of the House of Representatives; and one-half of the privates shall be selected by the Sergeant at Arms of the Senate and one-half by the Sergeant at Arms of the House of Representatives.” after “from year to year.”
 
-2003—Pub. L. 108–7, § 1018(h)(1), which struck out last sentence which read “The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.”, was repealed by Pub. L. 111–145, § 6(e)(2).
+2003—Pub. L. 108–7, § 1018(h)(1), which struck out last sentence which read “The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.”, was repealed by Pub. L. 111–145, § 6(e)(2).
 
 1979—Pub. L. 96–152 inserted last sentence providing that the Capitol Police be headed by a Chief who shall be appointed by the Capitol Police Board and who shall serve at the pleasure of the Board.
 
@@ -51,13 +51,13 @@ Pub. L. 111–145, § 6(e)(1), struck out “The captain and lieutenants shall
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–145, § 6(d), Mar. 4, 2010, 124 Stat. 54, provided that:
+Pub. L. 111–145, § 6(d), Mar. 4, 2010, 124 Stat. 54, provided that:
 
 > **“(1) Repeal of duplicate provisions.—** Effective as if included in the enactment of the Legislative Branch Appropriations Act, 2008 (Public Law 110–161), section 1004 of such Act [enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, repealing sections 167 to 167h of this title, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out as notes under this section] is repealed, and any provision of law amended or repealed by such section is restored or revived to read as if such section had not been enacted into law.
 
 > **“(2) No effect on other act.—** Nothing in paragraph (1) may be construed to prevent the enactment or implementation of any provision of the U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007 (Public Law 110–178) [see Tables for classification], including any provision of such Act that amends or repeals a provision of law which is restored or revived pursuant to paragraph (1).”
 
-Pub. L. 111–145, § 6(e)(4), Mar. 4, 2010, 124 Stat. 55, provided that: “The amendments made by this subsection [amending this section] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2003 [Pub. L. 108–7, div. H].”
+Pub. L. 111–145, § 6(e)(4), Mar. 4, 2010, 124 Stat. 55, provided that: “The amendments made by this subsection [amending this section] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2003 [Pub. L. 108–7, div. H].”
 
 **Effective Date of 2003 Amendment**
 
@@ -65,31 +65,31 @@ Amendment by Pub. L. 108–7 effective Feb. 20, 2003, and applicable to fiscal y
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–152, § 7, Dec. 20, 1979, 93 Stat. 1100, provided that: “This Act [enacting section 1902 of this title and amending this section] shall take effect on the first day of the second month after the month in which this Act is enacted [Dec. 1979].”
+Pub. L. 96–152, § 7, Dec. 20, 1979, 93 Stat. 1100, provided that: “This Act [enacting section 1902 of this title and amending this section] shall take effect on the first day of the second month after the month in which this Act is enacted [Dec. 1979].”
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 117–77, § 1, Dec. 22, 2021, 135 Stat. 1522, provided that: “This Act [enacting section 1901b of this title, amending sections 1970 and 1974 of this title, and enacting provisions set out as a note under section 1970 of this title] may be cited as the ‘Capitol Police Emergency Assistance Act of 2021’.”
+Pub. L. 117–77, § 1, Dec. 22, 2021, 135 Stat. 1522, provided that: “This Act [enacting section 1901b of this title, amending sections 1970 and 1974 of this title, and enacting provisions set out as a note under section 1970 of this title] may be cited as the ‘Capitol Police Emergency Assistance Act of 2021’.”
 
 **Short Title of 2017 Amendment**
 
-Pub. L. 115–45, § 1, Aug. 4, 2017, 131 Stat. 956, provided that: “This Act [amending sections 1951, 1952, and 1954 of this title] may be cited as the ‘Wounded Officers Recovery Act of 2017’.”
+Pub. L. 115–45, § 1, Aug. 4, 2017, 131 Stat. 956, provided that: “This Act [amending sections 1951, 1952, and 1954 of this title] may be cited as the ‘Wounded Officers Recovery Act of 2017’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–145, § 1, Mar. 4, 2010, 124 Stat. 49, provided that: “This Act [see Tables for classification] may be cited as the ‘United States Capitol Police Administrative Technical Corrections Act of 2009’.”
+Pub. L. 111–145, § 1, Mar. 4, 2010, 124 Stat. 49, provided that: “This Act [see Tables for classification] may be cited as the ‘United States Capitol Police Administrative Technical Corrections Act of 2009’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–178, § 1, Jan. 7, 2008, 121 Stat. 2546, provided that: “This Act [enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, repealing sections 167 to 167h of this title, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out as notes under this section] may be cited as the ‘U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007’.”
+Pub. L. 110–178, § 1, Jan. 7, 2008, 121 Stat. 2546, provided that: “This Act [enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, repealing sections 167 to 167h of this title, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out as notes under this section] may be cited as the ‘U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007’.”
 
 **Short Title of 2007 Amendment**
 
-Pub. L. 110–161, div. H, title I, § 1004(a), Dec. 26, 2007, 121 Stat. 2227, which provided that section 1004 of Pub. L. 110–161 could be cited as the “U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007”, was repealed by Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54. For identical short title, see above.
+Pub. L. 110–161, div. H, title I, § 1004(a), Dec. 26, 2007, 121 Stat. 2227, which provided that section 1004 of Pub. L. 110–161 could be cited as the “U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007”, was repealed by Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54. For identical short title, see above.
 
 **Designation of Capitol Police Wellness Program**
 
-Pub. L. 117–31, title III, § 301, July 30, 2021, 135 Stat. 313, provided that:
+Pub. L. 117–31, title III, § 301, July 30, 2021, 135 Stat. 313, provided that:
 
 > **“(a) Application of Law.—** The wellness program of the United States Capitol Police shall be known and designated as the ‘Howard C. Liebengood Center for Wellness’.
 
@@ -97,11 +97,11 @@ Pub. L. 117–31, title III, § 301, July 30, 2021, 135 Stat. 313, provided th
 
 **Capitol Police Board**
 
-Pub. L. 108–7, div. H, title I, § 1014, Feb. 20, 2003, 117 Stat. 361, which related to composition, mission, and other aspects of the Capitol Police Board, was transferred to section 1901a of this title.
+Pub. L. 108–7, div. H, title I, § 1014, Feb. 20, 2003, 117 Stat. 361, which related to composition, mission, and other aspects of the Capitol Police Board, was transferred to section 1901a of this title.
 
 **Transfer of Library of Congress Police to Capitol Police**
 
-Pub. L. 110–178, §§ 2, 3, 8, Jan. 7, 2008, 121 Stat. 2546, 2549, 2554, provided that:
+Pub. L. 110–178, §§ 2, 3, 8, Jan. 7, 2008, 121 Stat. 2546, 2549, 2554, provided that:
 
 > **“SEC. 2. TRANSFER OF PERSONNEL.**
 
@@ -245,15 +245,15 @@ Pub. L. 110–178, §§ 2, 3, 8, Jan. 7, 2008, 121 Stat. 2546, 2549, 2554, pro
 
 > **“(4)** the term ‘transition period’ means the period the first day of which is the date of the enactment of this Act [Jan. 7, 2008] and the final day of which is September 30, 2009.”
 
-Similar provisions were contained in Pub. L. 110–161, div. H, title I, § 1004(b), (c), (h), Dec. 26, 2007, 121 Stat. 2227, 2231, 2236, prior to repeal by Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.
+Similar provisions were contained in Pub. L. 110–161, div. H, title I, § 1004(b), (c), (h), Dec. 26, 2007, 121 Stat. 2227, 2231, 2236, prior to repeal by Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.
 
-Pub. L. 108–83, title I, § 1006, Sept. 30, 2003, 117 Stat. 1023, as amended by Pub. L. 108–447, div. G, title I, § 1002, Dec. 8, 2004, 118 Stat. 3179; Pub. L. 109–55, title I, § 1006(a), Aug. 2, 2005, 119 Stat. 576, related to the effective and efficient transfer of Library of Congress Police to Capitol Police under section 1015 of Pub. L. 108–7, prior to repeal by Pub. L. 110–161, div. H, title I, § 1004(g), Dec. 26, 2007, 121 Stat. 2236, and Pub. L. 110–178, § 7, Jan. 7, 2008, 121 Stat. 2554, effective Oct. 1, 2009. Pub. L. 110–161, § 1004, was repealed by Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.
+Pub. L. 108–83, title I, § 1006, Sept. 30, 2003, 117 Stat. 1023, as amended by Pub. L. 108–447, div. G, title I, § 1002, Dec. 8, 2004, 118 Stat. 3179; Pub. L. 109–55, title I, § 1006(a), Aug. 2, 2005, 119 Stat. 576, related to the effective and efficient transfer of Library of Congress Police to Capitol Police under section 1015 of Pub. L. 108–7, prior to repeal by Pub. L. 110–161, div. H, title I, § 1004(g), Dec. 26, 2007, 121 Stat. 2236, and Pub. L. 110–178, § 7, Jan. 7, 2008, 121 Stat. 2554, effective Oct. 1, 2009. Pub. L. 110–161, § 1004, was repealed by Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.
 
-Pub. L. 108–7, div. H, title I, § 1015, Feb. 20, 2003, 117 Stat. 362, related to the transfer of Library of Congress Police to the United States Capitol Police, prior to repeal by Pub. L. 110–161, div. H, title I, § 1004(g), Dec. 26, 2007, 121 Stat. 2236, and Pub. L. 110–178, § 7, Jan. 7, 2008, 121 Stat. 2554, effective Oct. 1, 2009. Pub. L. 110–161, § 1004, was repealed by Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.
+Pub. L. 108–7, div. H, title I, § 1015, Feb. 20, 2003, 117 Stat. 362, related to the transfer of Library of Congress Police to the United States Capitol Police, prior to repeal by Pub. L. 110–161, div. H, title I, § 1004(g), Dec. 26, 2007, 121 Stat. 2236, and Pub. L. 110–178, § 7, Jan. 7, 2008, 121 Stat. 2554, effective Oct. 1, 2009. Pub. L. 110–161, § 1004, was repealed by Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.
 
 **Long Term Strategic Plan**
 
-Pub. L. 108–7, div. H, title I, § 1019, Feb. 20, 2003, 117 Stat. 369, provided that:
+Pub. L. 108–7, div. H, title I, § 1019, Feb. 20, 2003, 117 Stat. 369, provided that:
 
 > **“(a) Long Term Strategic Plan.—**
 
@@ -275,7 +275,7 @@ Pub. L. 108–7, div. H, title I, § 1019, Feb. 20, 2003, 117 Stat. 369, provi
 
 **Compensation of Assistant Chief of Capitol Police**
 
-Pub. L. 107–117, div. B, § 907(b), Jan. 10, 2002, 115 Stat. 2319, as amended by Pub. L. 108–7, div. H, title I, § 1013(b), Feb. 20, 2003, 117 Stat. 361, provided that: “The annual rate of pay for the Assistant Chief of the Capitol Police shall be the amount equal to $1,000 less than the annual rate of pay in effect for the Chief of the Capitol Police.”
+Pub. L. 107–117, div. B, § 907(b), Jan. 10, 2002, 115 Stat. 2319, as amended by Pub. L. 108–7, div. H, title I, § 1013(b), Feb. 20, 2003, 117 Stat. 361, provided that: “The annual rate of pay for the Assistant Chief of the Capitol Police shall be the amount equal to $1,000 less than the annual rate of pay in effect for the Chief of the Capitol Police.”
 
 **Selection of Privates**
 
@@ -325,17 +325,17 @@ Mar. 20, 1922, ch. 103, 42 Stat. 429.
 
 **Capitol Police Civilian Support Positions With Respect to the House of Representatives**
 
-House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law Pub. L. 102–392, title I, § 102, Oct. 6, 1992, 106 Stat. 1710, and amended by Pub. L. 104–186, title II, § 221(9)(B), Aug. 20, 1996, 110 Stat. 1749, authorized Committee on House Oversight [now Committee on House Administration] of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight [now Committee on House Administration] to prescribe regulations to carry out this provision.
+House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law Pub. L. 102–392, title I, § 102, Oct. 6, 1992, 106 Stat. 1710, and amended by Pub. L. 104–186, title II, § 221(9)(B), Aug. 20, 1996, 110 Stat. 1749, authorized Committee on House Oversight [now Committee on House Administration] of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight [now Committee on House Administration] to prescribe regulations to carry out this provision.
 
 **Director of Employment Practices Under Capitol Police Board**
 
-House Resolution No. 420, One Hundred First Congress, June 26, 1990, made permanent law Pub. L. 101–520, title I, § 105, Nov. 5, 1990, 104 Stat. 2262, and amended by Pub. L. 104–186, title II, § 221(9)(C), Aug. 20, 1996, 110 Stat. 1749, established the position of Director of Employment Practices with respect to members of the Capitol Police, at the appropriate rate of pay under level HS–11 of the House Employees Schedule, with payment from amounts appropriated for the Capitol Police, such appointment to be made by the Capitol Police Board, subject to prior approval of the Committee on House Oversight [now Committee on House Administration], without regard to political affiliation and solely on basis of fitness to perform functions of the position.
+House Resolution No. 420, One Hundred First Congress, June 26, 1990, made permanent law Pub. L. 101–520, title I, § 105, Nov. 5, 1990, 104 Stat. 2262, and amended by Pub. L. 104–186, title II, § 221(9)(C), Aug. 20, 1996, 110 Stat. 1749, established the position of Director of Employment Practices with respect to members of the Capitol Police, at the appropriate rate of pay under level HS–11 of the House Employees Schedule, with payment from amounts appropriated for the Capitol Police, such appointment to be made by the Capitol Police Board, subject to prior approval of the Committee on House Oversight [now Committee on House Administration], without regard to political affiliation and solely on basis of fitness to perform functions of the position.
 
 **General Counsel to Chief of Capitol Police**
 
-House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, made permanent law Pub. L. 95–391, title I, § 111, Sept. 30, 1978, 92 Stat. 777, and amended by Pub. L. 104–186, title II, § 221(9)(A), Aug. 20, 1996, 110 Stat. 1749, which established the position of General Counsel to the Chief of the Capitol Police, the appropriate rate of compensation, and method of appointment, was repealed by Pub. L. 111–145, § 3(a)(4), Mar. 4, 2010, 124 Stat. 52.
+House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, made permanent law Pub. L. 95–391, title I, § 111, Sept. 30, 1978, 92 Stat. 777, and amended by Pub. L. 104–186, title II, § 221(9)(A), Aug. 20, 1996, 110 Stat. 1749, which established the position of General Counsel to the Chief of the Capitol Police, the appropriate rate of compensation, and method of appointment, was repealed by Pub. L. 111–145, § 3(a)(4), Mar. 4, 2010, 124 Stat. 52.
 
-#### § 1901a. Capitol Police Board
+#### § 1901a. Capitol Police Board
 
 **(a) Capitol Police Board; composition; redefining mission**
 
@@ -383,7 +383,7 @@ The Capitol Police Board shall document Board meetings and make the documentatio
 
 Upon request, the Comptroller General shall provide assistance to the Capitol Police Board in carrying out its responsibilities under this subsection.1
 
-<sup>1</sup>  So in original. Probably should be “this section.”
+<sup>1</sup> So in original. Probably should be “this section.”
 
 **(f) References in law; effect on other laws**
 
@@ -391,7 +391,7 @@ Upon request, the Comptroller General shall provide assistance to the Capitol Po
 
 **(2)** Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of the Capitol Police Board or its individual members unless specifically provided herein.
 
-(Pub. L. 108–7, div. H, title I, § 1014, Feb. 20, 2003, 117 Stat. 361.)
+(Pub. L. 108–7, div. H, title I, § 1014, Feb. 20, 2003, 117 Stat. 361.)
 
 **Editorial Notes**
 
@@ -399,7 +399,7 @@ Upon request, the Comptroller General shall provide assistance to the Capitol Po
 
 Section was formerly set out as a note under section 1901 of this title.
 
-#### § 1901b. Joint oversight hearings
+#### § 1901b. Joint oversight hearings
 
 **(a) In General**
 
@@ -409,19 +409,19 @@ The Committee on Rules and Administration of the Senate and the Committee on Hou
 
 The Committees may conduct oversight hearings under this section as determined appropriate by the Committees, but shall conduct not less than one oversight hearing under this section during each Congress.
 
-(Pub. L. 117–77, § 3, Dec. 22, 2021, 135 Stat. 1523.)
+(Pub. L. 117–77, § 3, Dec. 22, 2021, 135 Stat. 1523.)
 
-#### § 1902. Compensation of Chief
+#### § 1902. Compensation of Chief
 
 The annual rate of pay for the Chief of the Capitol Police shall be the amount equal to the annual rate of basic pay for level II of the Executive Schedule under section 5313 of title 5.
 
-(Pub. L. 96–152, § 1(c), Dec. 20, 1979, 93 Stat. 1099; Pub. L. 106–554, § 1(a)(2) [title I, § 109(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–107; Pub. L. 107–117, div. B, § 907(a), Jan. 10, 2002, 115 Stat. 2319; Pub. L. 108–7, div. H, title I, § 1013(a), Feb. 20, 2003, 117 Stat. 361; Pub. L. 116–94, div. E, title II, § 212(a)(3)(E), Dec. 20, 2019, 133 Stat. 2775; Pub. L. 117–103, div. I, title II, § 212(b), Mar. 15, 2022, 136 Stat. 526.)
+(Pub. L. 96–152, § 1(c), Dec. 20, 1979, 93 Stat. 1099; Pub. L. 106–554, § 1(a)(2) [title I, § 109(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–107; Pub. L. 107–117, div. B, § 907(a), Jan. 10, 2002, 115 Stat. 2319; Pub. L. 108–7, div. H, title I, § 1013(a), Feb. 20, 2003, 117 Stat. 361; Pub. L. 116–94, div. E, title II, § 212(a)(3)(E), Dec. 20, 2019, 133 Stat. 2775; Pub. L. 117–103, div. I, title II, § 212(b), Mar. 15, 2022, 136 Stat. 526.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 206–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 206–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
@@ -447,21 +447,21 @@ Amendment by Pub. L. 116–94 effective on the later of the first day of the fir
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–7, div. H, title I, § 1013(d), Feb. 20, 2003, 117 Stat. 361, provided that: “The amendments made by this section [amending this section, section 1903 of this title, and provisions set out as a note under section 1901 of this title] shall apply with respect to the first pay period beginning on or after the date of the enactment of this Act [Feb. 20, 2003].”
+Pub. L. 108–7, div. H, title I, § 1013(d), Feb. 20, 2003, 117 Stat. 361, provided that: “The amendments made by this section [amending this section, section 1903 of this title, and provisions set out as a note under section 1901 of this title] shall apply with respect to the first pay period beginning on or after the date of the enactment of this Act [Feb. 20, 2003].”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–117, div. B, § 907(c), Jan. 10, 2002, 115 Stat. 2319, provided that: “This section [amending this section and enacting provisions set out as a note under section 1901 of this title] and the amendment made by this section shall apply with respect to pay periods beginning on or after the date of the enactment of this Act [Jan. 10, 2002].”
+Pub. L. 107–117, div. B, § 907(c), Jan. 10, 2002, 115 Stat. 2319, provided that: “This section [amending this section and enacting provisions set out as a note under section 1901 of this title] and the amendment made by this section shall apply with respect to pay periods beginning on or after the date of the enactment of this Act [Jan. 10, 2002].”
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–554, § 1(a)(2) [title I, § 109(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–107, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to pay periods beginning on or after the date of the enactment of this Act [Dec. 21, 2000].”
+Pub. L. 106–554, § 1(a)(2) [title I, § 109(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–107, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to pay periods beginning on or after the date of the enactment of this Act [Dec. 21, 2000].”
 
 **Effective Date**
 
 Section effective Feb. 1, 1980, see section 7 of Pub. L. 96–152, set out as an Effective Date of 1979 Amendment note under section 1901 of this title.
 
-#### § 1903. Chief Administrative Officer
+#### § 1903. Chief Administrative Officer
 
 **(a) Chief Administrative Officer**
 
@@ -511,9 +511,9 @@ The annual rate of pay for the Chief Administrative Officer shall be the amount 
 
 **(ii)** the implementation of Capitol Police asset management systems, including systems for cash management, debt collection, and property and inventory management and control; and
 
-**(D)** Prepare 1
+**(D)** Prepare 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 annual financial statements for the Capitol Police, and such financial statements shall be audited by the Inspector General of the Capitol Police or by an independent public accountant, as determined by the Inspector General.
 
@@ -533,21 +533,21 @@ annual financial statements for the Capitol Police, and such financial statement
 
 **(C)** develop and monitor processes for recruiting, selecting, appraising, and promoting employees.
 
-(Pub. L. 106–554, § 1(a)(2) [title I, § 108], Dec. 21, 2000, 114 Stat. 2763, 2763A–104; Pub. L. 106–346, § 101(a) [title V, § 507(a)], Oct. 23, 2000, 114 Stat. 1356, 1356A–55; Pub. L. 107–68, title I, § 122(a), Nov. 12, 2001, 115 Stat. 576; Pub. L. 108–7, div. H, title I, § 1013(c), Feb. 20, 2003, 117 Stat. 361; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–55, title I, § 1004(g), Aug. 2, 2005, 119 Stat. 575; Pub. L. 111–145, §§ 2(a)(1), (2), 6(a), Mar. 4, 2010, 124 Stat. 49, 54.)
+(Pub. L. 106–554, § 1(a)(2) [title I, § 108], Dec. 21, 2000, 114 Stat. 2763, 2763A–104; Pub. L. 106–346, § 101(a) [title V, § 507(a)], Oct. 23, 2000, 114 Stat. 1356, 1356A–55; Pub. L. 107–68, title I, § 122(a), Nov. 12, 2001, 115 Stat. 576; Pub. L. 108–7, div. H, title I, § 1013(c), Feb. 20, 2003, 117 Stat. 361; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–55, title I, § 1004(g), Aug. 2, 2005, 119 Stat. 575; Pub. L. 111–145, §§ 2(a)(1), (2), 6(a), Mar. 4, 2010, 124 Stat. 49, 54.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 206a–9 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 206a–9 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–145, § 2(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to the establishment of the Office of Administration and the appointment and compensation of the Chief Administrative Officer.
+2010—Subsec. (a). Pub. L. 111–145, § 2(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to the establishment of the Office of Administration and the appointment and compensation of the Chief Administrative Officer.
 
-Subsec. (c). Pub. L. 111–145, § 2(a)(2), struck out subsec. (c) which related to the Chief Administrative Officer’s employment of personnel and access to resources of other agencies.
+Subsec. (c). Pub. L. 111–145, § 2(a)(2), struck out subsec. (c) which related to the Chief Administrative Officer’s employment of personnel and access to resources of other agencies.
 
-Subsecs. (d) to (g). Pub. L. 111–145, § 6(a), struck out subsecs. (d) to (g) which related to a plan for office policies, procedures, and actions, a report on progress made in such planning, submission of the plan and report to the appropriate congressional committees, and termination of the role of the Comptroller General.
+Subsecs. (d) to (g). Pub. L. 111–145, § 6(a), struck out subsecs. (d) to (g) which related to a plan for office policies, procedures, and actions, a report on progress made in such planning, submission of the plan and report to the appropriate congressional committees, and termination of the role of the Comptroller General.
 
 2005—Subsec. (b)(2)(D). Pub. L. 109–55 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “shall prepare annual financial statements for the Capitol Police and provide for an annual audit of the financial statements by an independent public accountant in accordance with generally accepted government auditing standards.”
 
@@ -571,17 +571,17 @@ Amendment by Pub. L. 108–7 applicable with respect to the first pay period beg
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–68, title I, § 122(b), Nov. 12, 2001, 115 Stat. 576, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to pay periods beginning on or after October 1, 2001.”
+Pub. L. 107–68, title I, § 122(b), Nov. 12, 2001, 115 Stat. 576, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to pay periods beginning on or after October 1, 2001.”
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–346, § 101(a) [title V, § 507(b)], Oct. 23, 2000, 114 Stat. 1356, 1356A–57, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2001 [H.R. 5657, as enacted by section 1(a)(2) of Pub. L. 106–554].”
+Pub. L. 106–346, § 101(a) [title V, § 507(b)], Oct. 23, 2000, 114 Stat. 1356, 1356A–57, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2001 [H.R. 5657, as enacted by section 1(a)(2) of Pub. L. 106–554].”
 
 **Construction of 2010 Amendment**
 
-Pub. L. 111–145, § 2(a)(6), Mar. 4, 2010, 124 Stat. 50, provided that: “Nothing in the amendments made by this subsection [amending this section and sections 1301, 1904, and 1907 of this title and repealing sections 1928 and 1929 of this title] may be construed to affect the status of any individual serving as an officer or employee of the United States Capitol Police as of the date of the enactment of this Act [Mar. 4, 2010].”
+Pub. L. 111–145, § 2(a)(6), Mar. 4, 2010, 124 Stat. 50, provided that: “Nothing in the amendments made by this subsection [amending this section and sections 1301, 1904, and 1907 of this title and repealing sections 1928 and 1929 of this title] may be construed to affect the status of any individual serving as an officer or employee of the United States Capitol Police as of the date of the enactment of this Act [Mar. 4, 2010].”
 
-#### § 1904. Certifying officers
+#### § 1904. Certifying officers
 
 **(a) Appointment of certifying officers of the Capitol Police**
 
@@ -607,19 +607,19 @@ The Chief Administrative Officer of the United States Capitol Police, or when th
 
 The liability of the certifying officers of the United States Capitol Police shall be enforced in the same manner and to the same extent as currently provided with respect to the enforcement of the liability of disbursing and other accountable officers, and such officers shall have the right to apply for and obtain a decision by the Comptroller General on any question of law involved in a payment on any vouchers presented to them for certification.
 
-(Pub. L. 106–554, § 1(a)(2) [title I, § 107], Dec. 21, 2000, 114 Stat. 2763, 2763A–103; Pub. L. 111–145, § 2(a)(3), Mar. 4, 2010, 124 Stat. 49.)
+(Pub. L. 106–554, § 1(a)(2) [title I, § 107], Dec. 21, 2000, 114 Stat. 2763, 2763A–103; Pub. L. 111–145, § 2(a)(3), Mar. 4, 2010, 124 Stat. 49.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 207d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 207d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
 2010—Subsecs. (a), (b)(1). Pub. L. 111–145 substituted “the Chief of the Capitol Police” for “the Capitol Police Board”.
 
-#### § 1905. Deposit and use of reimbursements for law enforcement assistance
+#### § 1905. Deposit and use of reimbursements for law enforcement assistance
 
 **(a)**
 
@@ -629,41 +629,41 @@ Section was classified to section 207d of former Title 40, prior to the enactmen
 
 **(b)** This section shall take effect on July 24, 2001, and shall apply to fiscal year 2001 and each fiscal year thereafter.
 
-(Pub. L. 107–20, title II, § 2802, July 24, 2001, 115 Stat. 184; Pub. L. 111–145, § 2(b)(1), Mar. 4, 2010, 124 Stat. 51; Pub. L. 114–113, div. I, title I, § 1001(a), (b), Dec. 18, 2015, 129 Stat. 2663.)
+(Pub. L. 107–20, title II, § 2802, July 24, 2001, 115 Stat. 184; Pub. L. 111–145, § 2(b)(1), Mar. 4, 2010, 124 Stat. 51; Pub. L. 114–113, div. I, title I, § 1001(a), (b), Dec. 18, 2015, 129 Stat. 2663.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 207e of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 207e of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is from the Supplemental Appropriations Act, 2001.
 
 **Amendments**
 
-2015—Subsec. (a)(1). Pub. L. 114–113, § 1001(a), substituted “District of Columbia), and from any other source in the case of assistance provided in connection with an activity that was not sponsored by Congress” for “District of Columbia)”.
+2015—Subsec. (a)(1). Pub. L. 114–113, § 1001(a), substituted “District of Columbia), and from any other source in the case of assistance provided in connection with an activity that was not sponsored by Congress” for “District of Columbia)”.
 
-Subsec. (a)(2). Pub. L. 114–113, § 1001(b), substituted “any law enforcement assistance for which reimbursement described in paragraph (1) is made” for “law enforcement assistance to any Federal, State, or local government agency (including any agency of the District of Columbia)”.
+Subsec. (a)(2). Pub. L. 114–113, § 1001(b), substituted “any law enforcement assistance for which reimbursement described in paragraph (1) is made” for “law enforcement assistance to any Federal, State, or local government agency (including any agency of the District of Columbia)”.
 
-2010—Subsec. (a)(1). Pub. L. 111–145, § 2(b)(1)(A), substituted “United States Capitol Police” for “Capitol Police Board” in two places.
+2010—Subsec. (a)(1). Pub. L. 111–145, § 2(b)(1)(A), substituted “United States Capitol Police” for “Capitol Police Board” in two places.
 
-Subsec. (a)(2). Pub. L. 111–145, § 2(b)(1)(B), substituted “Chief of the United States Capitol Police” for “Capitol Police Board”.
+Subsec. (a)(2). Pub. L. 111–145, § 2(b)(1)(B), substituted “Chief of the United States Capitol Police” for “Capitol Police Board”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. I, title I, § 1001(c), Dec. 18, 2015, 129 Stat. 2663, provided that: “The amendments made by this section [amending this section] shall only apply with respect to any reimbursement received before, on, or after the date of the enactment of the Act [Dec. 18, 2015].”
+Pub. L. 114–113, div. I, title I, § 1001(c), Dec. 18, 2015, 129 Stat. 2663, provided that: “The amendments made by this section [amending this section] shall only apply with respect to any reimbursement received before, on, or after the date of the enactment of the Act [Dec. 18, 2015].”
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–145, § 2(b)(2), Mar. 4, 2010, 124 Stat. 51, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect as if included in the enactment of the Supplemental Appropriations Act, 2001 [Pub. L. 107–20].”
+Pub. L. 111–145, § 2(b)(2), Mar. 4, 2010, 124 Stat. 51, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect as if included in the enactment of the Supplemental Appropriations Act, 2001 [Pub. L. 107–20].”
 
-#### § 1905a. Reimbursement for salaries paid for service at Federal Law Enforcement Training Center
+#### § 1905a. Reimbursement for salaries paid for service at Federal Law Enforcement Training Center
 
 Notwithstanding any other provision of law, the Chief of the Capitol Police is authorized to receive moneys from the Department of the Treasury as reimbursements for salaries paid by the Capitol Police in connection with certain officers and members of the United States Capitol Police serving as instructors at the Federal Law Enforcement Training Center. Moneys so received shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-(Pub. L. 95–26, title I, § 111, May 4, 1977, 91 Stat. 87; Pub. L. 108–7, div. H, title I, § 1018(h)(3), Feb. 20, 2003, 117 Stat. 369.)
+(Pub. L. 95–26, title I, § 111, May 4, 1977, 91 Stat. 87; Pub. L. 108–7, div. H, title I, § 1018(h)(3), Feb. 20, 2003, 117 Stat. 369.)
 
 **Editorial Notes**
 
@@ -687,15 +687,15 @@ Amendment by Pub. L. 108–7 effective Feb. 20, 2003, and applicable to fiscal y
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### § 1905b. Notification of obligation
+#### § 1905b. Notification of obligation
 
 **(a)** Beginning on March 15, 2022, the Chief of the United States Capitol Police shall provide written notice to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives before any obligation of funds under section 1905(a)(2) of this title that equals or exceeds $100,000.
 
 **(b)** This section shall apply with respect to fiscal year 2022 and each fiscal year thereafter.
 
-(Pub. L. 117–103, div. I, title I, § 120, Mar. 15, 2022, 136 Stat. 513.)
+(Pub. L. 117–103, div. I, title I, § 120, Mar. 15, 2022, 136 Stat. 513.)
 
-#### § 1906. Disposal of surplus property
+#### § 1906. Disposal of surplus property
 
 **(a) In general**
 
@@ -709,7 +709,7 @@ Any amounts received by the Capitol Police from the disposition of property unde
 
 This section shall apply to fiscal year 2003 and each fiscal year thereafter.
 
-(Pub. L. 108–7, div. H, title I, § 1003, Feb. 20, 2003, 117 Stat. 357; Pub. L. 115–31, div. I, title I, § 1001(a), May 5, 2017, 131 Stat. 578.)
+(Pub. L. 108–7, div. H, title I, § 1003, Feb. 20, 2003, 117 Stat. 357; Pub. L. 115–31, div. I, title I, § 1001(a), May 5, 2017, 131 Stat. 578.)
 
 **Editorial Notes**
 
@@ -725,9 +725,9 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–31, div. I, title I, § 1001(c), May 5, 2017, 131 Stat. 578, provided that: “This section [enacting section 1982 of this title and amending this section] and the amendment made by this section shall apply with respect to fiscal year 2017 and each succeeding fiscal year.”
+Pub. L. 115–31, div. I, title I, § 1001(c), May 5, 2017, 131 Stat. 578, provided that: “This section [enacting section 1982 of this title and amending this section] and the amendment made by this section shall apply with respect to fiscal year 2017 and each succeeding fiscal year.”
 
-#### § 1907. Transfer of disbursing function
+#### § 1907. Transfer of disbursing function
 
 **(a) In general**
 
@@ -795,7 +795,7 @@ The Chief may terminate an officer, member, or employee only after the Chief has
 
 Employees of the Capitol Police who are appointed by the Chief under the authority of this subsection shall be subject to the same type of benefits (including the payment of death gratuities, the withholding of debt, and health, retirement, Social Security, and other applicable employee benefits) as are provided to employees of the House of Representatives, and any such individuals serving as employees of the Capitol Police as of February 20, 2003, shall be subject to the same rules governing rights, protections, pay, and benefits in effect immediately before such date until such rules are changed under applicable laws or regulations.
 
-**(f) Repealed. Pub. L. 113–76, div. I, title I, § 1002(b), Jan. 17, 2014, 128 Stat. 424**
+**(f) Repealed. Pub. L. 113–76, div. I, title I, § 1002(b), Jan. 17, 2014, 128 Stat. 424**
 
 **(g) Effect on existing law**
 
@@ -813,7 +813,7 @@ All provisions of law inconsistent with this section are hereby superseded to th
 
 This section and the amendments made by this section shall take effect on February 20, 2003, and shall apply to fiscal year 2003 and each fiscal year thereafter.
 
-(Pub. L. 108–7, div. H, title I, § 1018, Feb. 20, 2003, 117 Stat. 366; Pub. L. 111–145, § 2(a)(4)(A), Mar. 4, 2010, 124 Stat. 49; Pub. L. 113–76, div. I, title I, § 1002(b), Jan. 17, 2014, 128 Stat. 424.)
+(Pub. L. 108–7, div. H, title I, § 1018, Feb. 20, 2003, 117 Stat. 366; Pub. L. 111–145, § 2(a)(4)(A), Mar. 4, 2010, 124 Stat. 49; Pub. L. 113–76, div. I, title I, § 1002(b), Jan. 17, 2014, 128 Stat. 424.)
 
 **Editorial Notes**
 
@@ -837,19 +837,19 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–76, div. I, title I, § 1002(c), Jan. 17, 2014, 128 Stat. 424, provided that: “This section [enacting section 1907b of this title and amending this section] shall apply with respect to appropriations for fiscal year 2014 and each fiscal year thereafter.”
+Pub. L. 113–76, div. I, title I, § 1002(c), Jan. 17, 2014, 128 Stat. 424, provided that: “This section [enacting section 1907b of this title and amending this section] shall apply with respect to appropriations for fiscal year 2014 and each fiscal year thereafter.”
 
-#### § 1907a. Authority to transfer amounts between salaries and general expenses
+#### § 1907a. Authority to transfer amounts between salaries and general expenses
 
 During fiscal year 2014 and any succeeding fiscal year, the Capitol Police may transfer amounts appropriated for the fiscal year between the category for salaries and the category for general expenses, upon the approval of the Committees on Appropriations of the House of Representatives and Senate.
 
-(Pub. L. 113–76, div. I, title I, § 1001, Jan. 17, 2014, 128 Stat. 424.)
+(Pub. L. 113–76, div. I, title I, § 1001, Jan. 17, 2014, 128 Stat. 424.)
 
-#### § 1907b. Funds available for workers compensation payments
+#### § 1907b. Funds available for workers compensation payments
 
 Available balances of expired United States Capitol Police appropriations shall be available to the Capitol Police to make the deposit to the credit of the Employees’ Compensation Fund required by section 8147(b) of title 5.
 
-(Pub. L. 113–76, div. I, title I, § 1002(a), Jan. 17, 2014, 128 Stat. 424.)
+(Pub. L. 113–76, div. I, title I, § 1002(a), Jan. 17, 2014, 128 Stat. 424.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -857,7 +857,7 @@ Available balances of expired United States Capitol Police appropriations shall 
 
 Section applicable with respect to appropriations for fiscal year 2014 and each fiscal year thereafter, see section 1002(c) of Pub. L. 113–76, set out as an Effective Date of 2014 Amendment note under section 1907 of this title.
 
-#### § 1908. Legal representation authority
+#### § 1908. Legal representation authority
 
 **(a) In general**
 
@@ -891,7 +891,7 @@ The authority under subsection (a) shall not apply with respect to the admission
 
 This section shall apply to fiscal year 2004, and each fiscal year thereafter.
 
-(Pub. L. 108–83, title I, § 1002, Sept. 30, 2003, 117 Stat. 1020; Pub. L. 111–145, §§ 3(b)(1), 4(a)(1), Mar. 4, 2010, 124 Stat. 52.)
+(Pub. L. 108–83, title I, § 1002, Sept. 30, 2003, 117 Stat. 1020; Pub. L. 111–145, §§ 3(b)(1), 4(a)(1), Mar. 4, 2010, 124 Stat. 52.)
 
 **Editorial Notes**
 
@@ -901,21 +901,21 @@ Section is from the Legislative Branch Appropriations Act, 2004.
 
 **Amendments**
 
-2010—Subsec. (a)(2)(A). Pub. L. 111–145, § 3(b)(1), substituted “the General Counsel to the Chief of Police and the United States Capitol Police” for “the General Counsel for the United States Capitol Police Board and the Chief of the Capitol Police”.
+2010—Subsec. (a)(2)(A). Pub. L. 111–145, § 3(b)(1), substituted “the General Counsel to the Chief of Police and the United States Capitol Police” for “the General Counsel for the United States Capitol Police Board and the Chief of the Capitol Police”.
 
-Subsec. (a)(2)(B). Pub. L. 111–145, § 4(a)(1), substituted “the Employment Counsel to the Chief of Police and the United States Capitol Police” for “the Employment Counsel for the United States Capitol Police Board and the United States Capitol Police”.
+Subsec. (a)(2)(B). Pub. L. 111–145, § 4(a)(1), substituted “the Employment Counsel to the Chief of Police and the United States Capitol Police” for “the Employment Counsel for the United States Capitol Police Board and the United States Capitol Police”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Construction of 2010 Amendment**
 
-Pub. L. 111–145, § 3(b)(2), Mar. 4, 2010, 124 Stat. 52, provided that: “Nothing in the amendment made by paragraph (1) [amending this section] may be construed to affect the authority of any individual to enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof which is initiated prior to the date of the enactment of this Act [Mar. 4, 2010].”
+Pub. L. 111–145, § 3(b)(2), Mar. 4, 2010, 124 Stat. 52, provided that: “Nothing in the amendment made by paragraph (1) [amending this section] may be construed to affect the authority of any individual to enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof which is initiated prior to the date of the enactment of this Act [Mar. 4, 2010].”
 
-Pub. L. 111–145, § 4(a)(2), Mar. 4, 2010, 124 Stat. 52, provided that: “Nothing in the amendment made by paragraph (1) [amending this section] may be construed to affect the authority of any individual to enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof which is initiated prior to the date of the enactment of this Act [Mar. 4, 2010].”
+Pub. L. 111–145, § 4(a)(2), Mar. 4, 2010, 124 Stat. 52, provided that: “Nothing in the amendment made by paragraph (1) [amending this section] may be construed to affect the authority of any individual to enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof which is initiated prior to the date of the enactment of this Act [Mar. 4, 2010].”
 
-Pub. L. 111–145, § 4(b), Mar. 4, 2010, 124 Stat. 52, provided that: “Nothing in this section [amending this section and enacting provisions set out as a note above] or the amendments made by this section may be construed to affect the status of the individual serving as the Employment Counsel to the Chief of Police and the United States Capitol Police as of the date of the enactment of this Act [Mar. 4, 2010].”
+Pub. L. 111–145, § 4(b), Mar. 4, 2010, 124 Stat. 52, provided that: “Nothing in this section [amending this section and enacting provisions set out as a note above] or the amendments made by this section may be construed to affect the status of the individual serving as the Employment Counsel to the Chief of Police and the United States Capitol Police as of the date of the enactment of this Act [Mar. 4, 2010].”
 
-#### § 1909. Inspector General for the United States Capitol Police
+#### § 1909. Inspector General for the United States Capitol Police
 
 **(a) Establishment of Office**
 
@@ -1013,7 +1013,7 @@ The transfer of the functions of an office or entity to the Office under paragra
 
 This section shall be effective on August 2, 2005.
 
-(Pub. L. 109–55, title I, § 1004, Aug. 2, 2005, 119 Stat. 572; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 117–286, § 4(b)(4), Dec. 27, 2022, 136 Stat. 4342.)
+(Pub. L. 109–55, title I, § 1004, Aug. 2, 2005, 119 Stat. 572; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 117–286, § 4(b)(4), Dec. 27, 2022, 136 Stat. 4342.)
 
 **Editorial Notes**
 
@@ -1029,11 +1029,11 @@ Section is from the Legislative Branch Appropriations Act, 2006.
 
 **Amendments**
 
-2022—Subsec. (c)(1). Pub. L. 117–286, § 4(b)(4)(A), substituted “section 404 of title 5,” for “section 4 of the Inspector General Act of 1978, (5 U.S.C. App. 4),”.
+2022—Subsec. (c)(1). Pub. L. 117–286, § 4(b)(4)(A), substituted “section 404 of title 5,” for “section 4 of the Inspector General Act of 1978, (5 U.S.C. App. 4),”.
 
-Subsec. (c)(2). Pub. L. 117–286, § 4(b)(4)(B), substituted “section 405 (other than subsection (b)(13) thereof) of title 5.” for “section 5 (other than subsection (a)(13) thereof) of the Inspector General Act of 1978, (5 U.S.C. App. 5).”, “section 405 of such title” for “section 5 of such Act”, and “section 405(c) of such title.” for “section 5(b) of such Act.”
+Subsec. (c)(2). Pub. L. 117–286, § 4(b)(4)(B), substituted “section 405 (other than subsection (b)(13) thereof) of title 5.” for “section 5 (other than subsection (a)(13) thereof) of the Inspector General Act of 1978, (5 U.S.C. App. 5).”, “section 405 of such title” for “section 5 of such Act”, and “section 405(c) of such title.” for “section 5(b) of such Act.”
 
-Subsec. (d)(1). Pub. L. 117–286, § 4(b)(4)(C), substituted “section 406(a) of title 5, other than paragraphs (7) and (8) of such section.” for “section 6(a) of the Inspector General Act of 1978, (5 U.S.C. App. 6(a)), other than paragraphs (7) and (8) of such section.”
+Subsec. (d)(1). Pub. L. 117–286, § 4(b)(4)(C), substituted “section 406(a) of title 5, other than paragraphs (7) and (8) of such section.” for “section 6(a) of the Inspector General Act of 1978, (5 U.S.C. App. 6(a)), other than paragraphs (7) and (8) of such section.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1041,7 +1041,7 @@ Subsec. (d)(1). Pub. L. 117–286, § 4(b)(4)(C), substituted “section 406(a
 
 “Government Publishing Office” substituted for “Government Printing Office” in subsec. (b)(1) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
-#### § 1910. Report of disbursements
+#### § 1910. Report of disbursements
 
 **(a) In general**
 
@@ -1065,7 +1065,7 @@ Each report under this section shall be printed as a House document.
 
 This section shall apply with respect to the semiannual periods of October 1 through March 31 and April 1 through September 30 of each year, beginning with the semiannual period in which this section is enacted.
 
-(Pub. L. 109–55, title I, § 1005, Aug. 2, 2005, 119 Stat. 575.)
+(Pub. L. 109–55, title I, § 1005, Aug. 2, 2005, 119 Stat. 575.)
 
 **Editorial Notes**
 
@@ -1073,7 +1073,7 @@ This section shall apply with respect to the semiannual periods of October 1 thr
 
 Section is from the Legislative Branch Appropriations Act, 2006.
 
-#### § 1911. General Counsel to the Chief of Police and the United States Capitol Police
+#### § 1911. General Counsel to the Chief of Police and the United States Capitol Police
 
 **(1) In general**
 
@@ -1083,7 +1083,7 @@ There shall be within the United States Capitol Police the General Counsel to th
 
 The General Counsel shall be appointed by the Chief of the Capitol Police in accordance with section 1907(e)(1) of this title (as amended by section 2(a)(4)),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 after consultation with the Capitol Police Board, without regard to political affiliation and solely on the basis of fitness to perform the duties of the position.
 
@@ -1103,7 +1103,7 @@ The annual rate of pay for the General Counsel may not exceed an annual rate equ
 
 Nothing in this section or the amendments made by this section may be construed to affect the status of the individual serving as the General Counsel to the Chief of Police and the United States Capitol Police as of March 4, 2010.
 
-(Pub. L. 111–145, § 3(a), Mar. 4, 2010, 124 Stat. 51.)
+(Pub. L. 111–145, § 3(a), Mar. 4, 2010, 124 Stat. 51.)
 
 **Editorial Notes**
 
@@ -1117,7 +1117,7 @@ For the amendments made by this section, referred to in par. (5), see Codificati
 
 Section is comprised of subsec. (a) of section 3 of Pub. L. 111–145. Subsec. (a)(4) of section 3 of Pub. L. 111–145 repealed section 84–2 of this title, now section 5521 of this title, and provisions set out as a note under section 1901 of this title.
 
-#### § 1912. Volunteer chaplain services
+#### § 1912. Volunteer chaplain services
 
 **(a)** The Chief of the Capitol Police shall have authority to accept unpaid religious chaplain services, whereby volunteers from multiple faiths, authorized by their respective religious endorsing agency or organization, may advise, administer, and perform spiritual care and religious guidance for Capitol Police employees.
 
@@ -1125,19 +1125,19 @@ Section is comprised of subsec. (a) of section 3 of Pub. L. 111–145. Subsec. (
 
 **(c) Effective Date.—** This section shall apply with respect to fiscal year 2023 and each succeeding fiscal year.
 
-(Pub. L. 117–328, div. I, title I, § 120, Dec. 29, 2022, 136 Stat. 4926.)
+(Pub. L. 117–328, div. I, title I, § 120, Dec. 29, 2022, 136 Stat. 4926.)
 
 ### Part B—Compensation and Other Personnel Matters
 
-#### § 1921. Repealed. Pub. L. 108–7, div. H, title I, § 1018(h)(2), Feb. 20, 2003, 117 Stat. 369
+#### § 1921. Repealed. Pub. L. 108–7, div. H, title I, § 1018(h)(2), Feb. 20, 2003, 117 Stat. 369
 
-Section, R.S. § 1822, provided that Capitol Police would be paid on the order of the Sergeant at Arms of the Senate or the House.
+Section, R.S. § 1822, provided that Capitol Police would be paid on the order of the Sergeant at Arms of the Senate or the House.
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 207 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 207 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1145,7 +1145,7 @@ Section was classified to section 207 of former Title 40, prior to the enactment
 
 Repeal effective Feb. 20, 2003, and applicable to fiscal year 2003 and each fiscal year thereafter, see section 1907(i) of this title.
 
-#### § 1921a. Sole and exclusive authority of Board and Chief to determine rates of pay
+#### § 1921a. Sole and exclusive authority of Board and Chief to determine rates of pay
 
 **(a) In general** The Capitol Police Board and the Chief of the Capitol Police shall have the sole and exclusive authority to determine the rates and amounts for each of the following for members of the Capitol Police:
 
@@ -1175,7 +1175,7 @@ The determination of a rate or amount described in subsection (a) may not be sub
 
 This section shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
 
-(Pub. L. 108–447, div. G, title I, § 1004, Dec. 8, 2004, 118 Stat. 3180.)
+(Pub. L. 108–447, div. G, title I, § 1004, Dec. 8, 2004, 118 Stat. 3180.)
 
 **Editorial Notes**
 
@@ -1183,17 +1183,17 @@ This section shall apply with respect to fiscal year 2005 and each succeeding fi
 
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
 
-#### § 1922. Unified payroll administration
+#### § 1922. Unified payroll administration
 
 Payroll administration for the Capitol Police and civilian support personnel of the Capitol Police shall be carried out on a unified basis by a single disbursing authority. The Capitol Police Board, with the approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate, acting jointly, shall, by contract or otherwise, provide for such unified payroll administration.
 
-(July 31, 1946, ch. 707, § 9C, as added Pub. L. 102–397, title I, § 102, Oct. 6, 1992, 106 Stat. 1950; amended Pub. L. 104–186, title II, § 221(12), Aug. 20, 1996, 110 Stat. 1750.)
+(July 31, 1946, ch. 707, § 9C, as added Pub. L. 102–397, title I, § 102, Oct. 6, 1992, 106 Stat. 1950; amended Pub. L. 104–186, title II, § 221(12), Aug. 20, 1996, 110 Stat. 1750.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 207a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 207a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
@@ -1207,11 +1207,11 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **Effective Date**
 
-Pub. L. 102–397, title I, § 104, Oct. 6, 1992, 106 Stat. 1950, as amended by Pub. L. 102–392, title III, § 321, Oct. 6, 1992, 106 Stat. 1726, provided that: “The unified payroll administration under the amendment made by section 102 [enacting this section] shall apply with respect to pay periods beginning after September 30, 1993.”
+Pub. L. 102–397, title I, § 104, Oct. 6, 1992, 106 Stat. 1950, as amended by Pub. L. 102–392, title III, § 321, Oct. 6, 1992, 106 Stat. 1726, provided that: “The unified payroll administration under the amendment made by section 102 [enacting this section] shall apply with respect to pay periods beginning after September 30, 1993.”
 
-[Pub. L. 102–392, title III, § 321, Oct. 6, 1992, 106 Stat. 1726, provided that the amendment made by that section to section 104 of Pub. L. 102–397, set out above, is effective Oct. 6, 1992.]
+[Pub. L. 102–392, title III, § 321, Oct. 6, 1992, 106 Stat. 1726, provided that the amendment made by that section to section 104 of Pub. L. 102–397, set out above, is effective Oct. 6, 1992.]
 
-#### § 1923. Unified schedules of rates of basic pay and leave system
+#### § 1923. Unified schedules of rates of basic pay and leave system
 
 **(a) Rates of basic pay**
 
@@ -1285,17 +1285,17 @@ Pub. L. 102–397, title I, § 104, Oct. 6, 1992, 106 Stat. 1950, as amended b
 
 Nothing in this section shall be construed to affect the appointing authority of any officer of the Senate or the House of Representatives.
 
-(Pub. L. 105–55, title I, § 111, Oct. 7, 1997, 111 Stat. 1186.)
+(Pub. L. 105–55, title I, § 111, Oct. 7, 1997, 111 Stat. 1186.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Family and Medical Leave Act of 1993, referred to in subsec. (b)(1)(D), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993, referred to in subsec. (b)(1)(D), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
 **Codification**
 
-Section was classified to section 207b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 207b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1303,33 +1303,33 @@ Section was classified to section 207b of former Title 40, prior to the enactmen
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-#### § 1924. Repealed. Pub. L. 111–145, § 5(a)(2)(A), Mar. 4, 2010, 124 Stat. 53
+#### § 1924. Repealed. Pub. L. 111–145, § 5(a)(2)(A), Mar. 4, 2010, 124 Stat. 53
 
-Section, Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 636; Pub. L. 93–245, ch. VI, § 600, Jan. 3, 1974, 87 Stat. 1079; Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 104–186, title II, § 221(10), (11), Aug. 20, 1996, 110 Stat. 1750, related to emergency duty overtime pay from funds disbursed by the Chief Administrative Officer.
+Section, Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 636; Pub. L. 93–245, ch. VI, § 600, Jan. 3, 1974, 87 Stat. 1079; Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 104–186, title II, § 221(10), (11), Aug. 20, 1996, 110 Stat. 1750, related to emergency duty overtime pay from funds disbursed by the Chief Administrative Officer.
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 206b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 206b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Subsecs. (a) to (f) of this section were based on section 3 of H. Res. No. 449, Ninety-second Congress, June 2, 1971, enacted into permanent law by Pub. L. 92–184, as amended by H. Res. No. 398, Ninety-third Congress, June 4, 1973, eff. Jan. 3, 1974, enacted into permanent law by Pub. L. 93–245, and H. Res. No. 1309, Ninety-third Congress, Oct. 10, 1974, eff. Dec. 27, 1974, enacted into permanent law by Pub. L. 93–554.
 
-Subsec. (g) of this section was based on section 3 of H. Res. No. 1309, Ninety-third Congress, Oct. 10, 1974, eff. Dec. 27, 1974, enacted into permanent law by Pub. L. 93–554, and was repealed by Pub. L. 104–186, title II, § 221(11)(B), Aug. 20, 1996, 110 Stat. 1750.
+Subsec. (g) of this section was based on section 3 of H. Res. No. 1309, Ninety-third Congress, Oct. 10, 1974, eff. Dec. 27, 1974, enacted into permanent law by Pub. L. 93–554, and was repealed by Pub. L. 104–186, title II, § 221(11)(B), Aug. 20, 1996, 110 Stat. 1750.
 
-As originally codified, this section consisted of two undesignated pars. based on sections 3 and 5 of H. Res. No. 449, Ninety-second Congress, June 2, 1971, enacted into permanent law by Pub. L. 92–184. Section 5 of H. Res. No. 449 was superseded by section 3 of H. Res. No. 1309, formerly set out as subsec. (g) of this section, and was subsequently repealed by Pub. L. 104–186, title II, § 221(11)(B), Aug. 20, 1996, 110 Stat. 1750.
+As originally codified, this section consisted of two undesignated pars. based on sections 3 and 5 of H. Res. No. 449, Ninety-second Congress, June 2, 1971, enacted into permanent law by Pub. L. 92–184. Section 5 of H. Res. No. 449 was superseded by section 3 of H. Res. No. 1309, formerly set out as subsec. (g) of this section, and was subsequently repealed by Pub. L. 104–186, title II, § 221(11)(B), Aug. 20, 1996, 110 Stat. 1750.
 
-#### § 1925. Repealed. Pub. L. 111–145, § 5(a)(2)(B), Mar. 4, 2010, 124 Stat. 53
+#### § 1925. Repealed. Pub. L. 111–145, § 5(a)(2)(B), Mar. 4, 2010, 124 Stat. 53
 
-Section, Pub. L. 92–51, July 9, 1971, 85 Stat. 130; Pub. L. 93–145, Nov. 1, 1973, 87 Stat. 532; Pub. L. 93–371, § 5, Aug. 13, 1974, 88 Stat. 430, related to emergency duty overtime pay from funds disbursed by Secretary of the Senate.
+Section, Pub. L. 92–51, July 9, 1971, 85 Stat. 130; Pub. L. 93–145, Nov. 1, 1973, 87 Stat. 532; Pub. L. 93–371, § 5, Aug. 13, 1974, 88 Stat. 430, related to emergency duty overtime pay from funds disbursed by Secretary of the Senate.
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 206c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 206c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-#### § 1926. Educational assistance program for employees
+#### § 1926. Educational assistance program for employees
 
 **(a) Establishment** In order to recruit or retain qualified personnel, the Chief of the Capitol Police may establish an educational assistance program for employees of the Capitol Police under which the Capitol Police may agree—
 
@@ -1363,13 +1363,13 @@ Any determination made under the program under this section shall not be reviewa
 
 This section shall apply with respect to fiscal year 2003 and each succeeding fiscal year.
 
-(Pub. L. 107–117, div. B, § 908, Jan. 10, 2002, 115 Stat. 2319; Pub. L. 108–7, div. H, title I, § 1007, Feb. 20, 2003, 117 Stat. 358; Pub. L. 116–94, div. E, title I, § 120, Dec. 20, 2019, 133 Stat. 2763; Pub. L. 116–260, div. I, title I, § 120, Dec. 27, 2020, 134 Stat. 1643.)
+(Pub. L. 107–117, div. B, § 908, Jan. 10, 2002, 115 Stat. 2319; Pub. L. 108–7, div. H, title I, § 1007, Feb. 20, 2003, 117 Stat. 358; Pub. L. 116–94, div. E, title I, § 120, Dec. 20, 2019, 133 Stat. 2763; Pub. L. 116–260, div. I, title I, § 120, Dec. 27, 2020, 134 Stat. 1643.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 207b–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 207b–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
@@ -1383,9 +1383,9 @@ Section was classified to section 207b–1 of former Title 40, prior to the enac
 
 **Deadline for Regulations**
 
-Pub. L. 108–7, div. H, title I, § 1020, Feb. 20, 2003, 117 Stat. 370, provided that: “Not later than 60 days after the date of the enactment of this Act [Feb. 20, 2003], the Chief of the Capitol Police shall promulgate any regulations required by sections 1004, 1006, 1007, and 1011 of this Act [enacting section 1931 of this title and amending this section and section 1927 of this title].”
+Pub. L. 108–7, div. H, title I, § 1020, Feb. 20, 2003, 117 Stat. 370, provided that: “Not later than 60 days after the date of the enactment of this Act [Feb. 20, 2003], the Chief of the Capitol Police shall promulgate any regulations required by sections 1004, 1006, 1007, and 1011 of this Act [enacting section 1931 of this title and amending this section and section 1927 of this title].”
 
-#### § 1927. Bonuses, retention allowances, and additional compensation
+#### § 1927. Bonuses, retention allowances, and additional compensation
 
 **(a) Recruitment and relocation bonuses**
 
@@ -1453,65 +1453,65 @@ A bonus under this subsection shall be paid as a lump sum, and may not be consid
 
 The payment of bonuses, allowances, step increases, compensation, and other payments pursuant to this section shall be carried out in accordance with regulations prescribed by the Board.
 
-**(2) Repealed. Pub. L. 108–7, div. H, title I, § 1004(2), Feb. 20, 2003, 117 Stat. 358**
+**(2) Repealed. Pub. L. 108–7, div. H, title I, § 1004(2), Feb. 20, 2003, 117 Stat. 358**
 
 **(f) Effective date**
 
 This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
-(Pub. L. 107–117, div. B, § 909, Jan. 10, 2002, 115 Stat. 2320; Pub. L. 108–7, div. H, title I, §§ 1004, 1006, Feb. 20, 2003, 117 Stat. 358.)
+(Pub. L. 107–117, div. B, § 909, Jan. 10, 2002, 115 Stat. 2320; Pub. L. 108–7, div. H, title I, §§ 1004, 1006, Feb. 20, 2003, 117 Stat. 358.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 207b–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 207b–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
-2003—Subsec. (a)(1). Pub. L. 108–7, § 1004(1)(A), substituted “the Chief, in the Chief’s sole discretion, determines that such a bonus will assist the Capitol Police in recruitment efforts” for “the Board determines that the Capitol Police would be likely, in the absence of such a bonus, to encounter difficulty in filling the position”.
+2003—Subsec. (a)(1). Pub. L. 108–7, § 1004(1)(A), substituted “the Chief, in the Chief’s sole discretion, determines that such a bonus will assist the Capitol Police in recruitment efforts” for “the Board determines that the Capitol Police would be likely, in the absence of such a bonus, to encounter difficulty in filling the position”.
 
-Subsec. (a)(6). Pub. L. 108–7, § 1004(1)(B), added par. (6).
+Subsec. (a)(6). Pub. L. 108–7, § 1004(1)(B), added par. (6).
 
-Subsec. (b)(1). Pub. L. 108–7, § 1006(1), substituted “if the Chief, in the Chief’s sole discretion, determines that such a bonus will assist the Capitol Police in retention efforts.” for “if—” and struck out pars. (A) and (B) which read as follows:
+Subsec. (b)(1). Pub. L. 108–7, § 1006(1), substituted “if the Chief, in the Chief’s sole discretion, determines that such a bonus will assist the Capitol Police in retention efforts.” for “if—” and struck out pars. (A) and (B) which read as follows:
 
 “(A) the unusually high or unique qualifications of the officer or employee or a special need of the Capitol Police for the officer’s or employee’s services makes it essential to retain the officer or employee; and
 
 “(B) the Chief determines that the officer or employee would be likely to leave in the absence of a retention allowance.”
 
-Subsec. (b)(3). Pub. L. 108–7, § 1006(2), which directed the substitution of “any determination of the Chief under this subsection, or the reduction or elimination of a retention allowance, shall not be appealable or reviewable in any manner” for “the reduction or the elimination of a retention allowance may not be appealed”, was executed by making the substitution for “the reduction or elimination of a retention allowance may not be appealed”, to reflect the probable intent of Congress.
+Subsec. (b)(3). Pub. L. 108–7, § 1006(2), which directed the substitution of “any determination of the Chief under this subsection, or the reduction or elimination of a retention allowance, shall not be appealable or reviewable in any manner” for “the reduction or the elimination of a retention allowance may not be appealed”, was executed by making the substitution for “the reduction or elimination of a retention allowance may not be appealed”, to reflect the probable intent of Congress.
 
-Subsec. (e). Pub. L. 108–7, § 1004(2), (3), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to additional compensation for field training officers.
+Subsec. (e). Pub. L. 108–7, § 1004(2), (3), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to additional compensation for field training officers.
 
-Subsec. (f). Pub. L. 108–7, § 1004(3), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 108–7, § 1004(3), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (f)(2). Pub. L. 108–7, § 1004(2), struck out heading and text of par. (2). Text read as follows: “The regulations prescribed pursuant to this subsection shall be subject to the approval of the Committee on Rules and Administration of the Senate, the Committee on House Administration of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives.”
+Subsec. (f)(2). Pub. L. 108–7, § 1004(2), struck out heading and text of par. (2). Text read as follows: “The regulations prescribed pursuant to this subsection shall be subject to the approval of the Committee on Rules and Administration of the Senate, the Committee on House Administration of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives.”
 
-Subsec. (g). Pub. L. 108–7, § 1004(3), redesignated subsec. (g) as (f).
+Subsec. (g). Pub. L. 108–7, § 1004(3), redesignated subsec. (g) as (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Capitol Police Longevity Compensation**
 
-Pub. L. 88–454, § 104(c), Aug. 20, 1964, 78 Stat. 550, provided that: “Any member of the Capitol Police who by reason of the provision repealed by subsection (b) [subsec. (c) of section 4507 of this title] was receiving immediately prior to the effective date of this section [Sept. 1, 1964], longevity compensation provided by [former] section 105 of the Legislative Branch Appropriation Act, 1959 [Pub. L. 85–570, 72 Stat. 453], shall, on and after such effective date, receive in lieu thereof a longevity increase under section 106(b) of the Legislative Branch Appropriation Act, 1963 [2 U.S.C. 4507(b)], in addition to any other such increases (not to exceed three) to which he may otherwise be entitled under such section. In computing the length of service of such member for the purpose of such other increases, only service performed subsequent to the date on which he began receiving longevity compensation in accordance with such [former] section 105 shall be counted.”
+Pub. L. 88–454, § 104(c), Aug. 20, 1964, 78 Stat. 550, provided that: “Any member of the Capitol Police who by reason of the provision repealed by subsection (b) [subsec. (c) of section 4507 of this title] was receiving immediately prior to the effective date of this section [Sept. 1, 1964], longevity compensation provided by [former] section 105 of the Legislative Branch Appropriation Act, 1959 [Pub. L. 85–570, 72 Stat. 453], shall, on and after such effective date, receive in lieu thereof a longevity increase under section 106(b) of the Legislative Branch Appropriation Act, 1963 [2 U.S.C. 4507(b)], in addition to any other such increases (not to exceed three) to which he may otherwise be entitled under such section. In computing the length of service of such member for the purpose of such other increases, only service performed subsequent to the date on which he began receiving longevity compensation in accordance with such [former] section 105 shall be counted.”
 
 [Section 4507 of this title, referred to above, not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see section 4509 of this title.]
 
-[Pub. L. 88–454, § 104(d), Aug. 20, 1964, 78 Stat. 550, provided that: “This section [amending section 4507 of this title and enacting provisions set out as a note above] shall become effective on the first day of the month following the date of enactment of this Act [Aug. 20, 1964].” ]
+[Pub. L. 88–454, § 104(d), Aug. 20, 1964, 78 Stat. 550, provided that: “This section [amending section 4507 of this title and enacting provisions set out as a note above] shall become effective on the first day of the month following the date of enactment of this Act [Aug. 20, 1964].” ]
 
-#### § 1928. Repealed. Pub. L. 111–145, § 2(a)(4)(B)(i), Mar. 4, 2010, 124 Stat. 50
+#### § 1928. Repealed. Pub. L. 111–145, § 2(a)(4)(B)(i), Mar. 4, 2010, 124 Stat. 50
 
-Section, R.S. § 1823; Mar. 3, 1921, ch. 124, § 1, 41 Stat. 1291, related to suspension of members of the force.
+Section, R.S. § 1823; Mar. 3, 1921, ch. 124, § 1, 41 Stat. 1291, related to suspension of members of the force.
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 208 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 208 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-R.S. § 1823 derived from acts Mar. 3, 1873, ch. 226, 17 Stat. 488; June 20, 1874, ch. 328, 18 Stat. 86; Mar. 3, 1875, ch. 129, 18 Stat. 345.
+R.S. § 1823 derived from acts Mar. 3, 1873, ch. 226, 17 Stat. 488; June 20, 1874, ch. 328, 18 Stat. 86; Mar. 3, 1875, ch. 129, 18 Stat. 345.
 
-#### § 1929. Repealed. Pub. L. 111–145, § 2(a)(4)(B)(ii), Mar. 4, 2010, 124 Stat. 50
+#### § 1929. Repealed. Pub. L. 111–145, § 2(a)(4)(B)(ii), Mar. 4, 2010, 124 Stat. 50
 
 Section, Mar. 3, 1875, ch. 129, 18 Stat. 345, related to pay of members under suspension.
 
@@ -1519,11 +1519,11 @@ Section, Mar. 3, 1875, ch. 129, 18 Stat. 345, related to pay of members under su
 
 **Codification**
 
-Section was classified to section 209 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 209 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section was based on a proviso in act Mar. 3, 1875, popularly known as the “Legislature, Executive, and Judicial Appropriation Act, fiscal year 1876”.
 
-#### § 1930. Applicable pay rate upon appointment
+#### § 1930. Applicable pay rate upon appointment
 
 **(a) In general**
 
@@ -1533,7 +1533,7 @@ Notwithstanding any other provision of law, the rate of basic pay payable to an 
 
 This section shall apply to fiscal year 2003 and each fiscal year thereafter.
 
-(Pub. L. 108–7, div. H, title I, § 1008, Feb. 20, 2003, 117 Stat. 359.)
+(Pub. L. 108–7, div. H, title I, § 1008, Feb. 20, 2003, 117 Stat. 359.)
 
 **Editorial Notes**
 
@@ -1541,7 +1541,7 @@ This section shall apply to fiscal year 2003 and each fiscal year thereafter.
 
 Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of Pub. L. 108–7.
 
-#### § 1931. Additional compensation for employees with specialty assignments and proficiencies
+#### § 1931. Additional compensation for employees with specialty assignments and proficiencies
 
 **(a) Establishment of positions**
 
@@ -1559,13 +1559,13 @@ The additional compensation authorized by this subsection shall be paid to an em
 
 **(d) Determination not appealable or reviewable**
 
-Any determination under section 1
+Any determination under section 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (a) shall not be appealable or reviewable in any manner.
 
-(Pub. L. 108–7, div. H, title I, § 1011, Feb. 20, 2003, 117 Stat. 360.)
+(Pub. L. 108–7, div. H, title I, § 1011, Feb. 20, 2003, 117 Stat. 360.)
 
 **Editorial Notes**
 
@@ -1577,7 +1577,7 @@ Level II of the Executive Schedule, referred to in subsec. (b)(2), is set out in
 
 Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of Pub. L. 108–7.
 
-#### § 1932. Application of premium pay limits on annualized basis
+#### § 1932. Application of premium pay limits on annualized basis
 
 **(a) In general**
 
@@ -1587,7 +1587,7 @@ Any limits on the amount of premium pay which may be earned by officers and memb
 
 Subsection (a) shall apply with respect to hours of duty occurring on or after September 11, 2001.
 
-(Pub. L. 108–7, div. H, title I, § 1012, Feb. 20, 2003, 117 Stat. 361.)
+(Pub. L. 108–7, div. H, title I, § 1012, Feb. 20, 2003, 117 Stat. 361.)
 
 **Editorial Notes**
 
@@ -1595,7 +1595,7 @@ Subsection (a) shall apply with respect to hours of duty occurring on or after S
 
 Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of Pub. L. 108–7.
 
-#### § 1933. Clarification of authorities regarding certain personnel benefits
+#### § 1933. Clarification of authorities regarding certain personnel benefits
 
 **(a) No lump-sum payment permitted for unused compensatory time**
 
@@ -1629,7 +1629,7 @@ No officer or employee of the United States Capitol Police whose service with th
 
 The amendment made by subparagraph (A) shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2003, except that the amendment shall not apply with respect to any overtime work performed prior to March 4, 2010.
 
-(Pub. L. 111–145, § 5, Mar. 4, 2010, 124 Stat. 52.)
+(Pub. L. 111–145, § 5, Mar. 4, 2010, 124 Stat. 52.)
 
 **Editorial Notes**
 
@@ -1641,7 +1641,7 @@ The Legislative Branch Appropriations Act, 2003, referred to in subsec. (b)(3)(B
 
 Section is comprised of section 5 of Pub. L. 111–145. Subsec. (a)(2) of section 5 of Pub. L. 111–145 repealed sections 1924 and 1925 of this title. Subsec. (b)(3)(A) of section 5 of Pub. L. 111–145 repealed section 1009 of the Legislative Branch Appropriations Act, 2003, Pub. L. 108–7, div. H, 117 Stat. 359, which is not classified to the Code.
 
-#### § 1934. Waiver by Chief of Capitol Police of claims arising out of erroneous payments to officers and employees
+#### § 1934. Waiver by Chief of Capitol Police of claims arising out of erroneous payments to officers and employees
 
 **(a) Waiver of claim**
 
@@ -1677,7 +1677,7 @@ Subject to the approval of the Chief Administrative Officer of the House of Repr
 
 This section shall apply with respect to payments of pay and allowances made at any time after the Chief became the disbursing officer for the United States Capitol Police pursuant to section 1907(a) of this title.
 
-(Pub. L. 112–74, div. G, title I, § 1102, Dec. 23, 2011, 125 Stat. 1125.)
+(Pub. L. 112–74, div. G, title I, § 1102, Dec. 23, 2011, 125 Stat. 1125.)
 
 **Editorial Notes**
 
@@ -1687,19 +1687,19 @@ Section is from the Legislative Branch Appropriations Act, 2012, which is div. G
 
 ### Part C—Uniform and Arms
 
-#### § 1941. Uniform
+#### § 1941. Uniform
 
 The Capitol Police Board shall select and regulate the pattern for a uniform for the Capitol police and watchmen, and furnish each member of the force with the necessary belts and arms, payable from appropriations to the Capitol Police upon certification of payment by the Chief of the Capitol Police. Such arms so furnished or other arms as authorized by the Capitol Police Board shall be carried by each officer and member of the Capitol Police, while in the Capitol Buildings (as defined in section 5101 of title 40), and while within or outside of the boundaries of the United States Capitol Grounds (as defined in section 5102 of title 40), in such manner and at such times as the Capitol Police Board may, by regulations, prescribe.
 
-(R.S. § 1824; Pub. L. 92–607, ch. V, § 507, Oct. 31, 1972, 86 Stat. 1508; Pub. L. 95–26, title I, § 112, May 4, 1977, 91 Stat. 87; Pub. L. 108–447, div. G, title I, § 1003, Dec. 8, 2004, 118 Stat. 3180.)
+(R.S. § 1824; Pub. L. 92–607, ch. V, § 507, Oct. 31, 1972, 86 Stat. 1508; Pub. L. 95–26, title I, § 112, May 4, 1977, 91 Stat. 87; Pub. L. 108–447, div. G, title I, § 1003, Dec. 8, 2004, 118 Stat. 3180.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 210 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 210 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-R.S. § 1824 derived from act Mar. 30, 1867, ch. 20, § 1, 15 Stat. 11.
+R.S. § 1824 derived from act Mar. 30, 1867, ch. 20, § 1, 15 Stat. 11.
 
 **Amendments**
 
@@ -1709,19 +1709,19 @@ R.S. § 1824 derived from act Mar. 30, 1867, ch. 20, § 1, 15 Stat. 11.
 
 1972—Pub. L. 92–607 directed that the arms be carried in the Capitol Buildings and within and without the boundaries of the United States Capitol Grounds according to regulations prescribed by the Sergeant at Arms of the Senate and the Sergeant at Arms of the House of Representatives.
 
-#### § 1942. Uniform to display United States flag or colors
+#### § 1942. Uniform to display United States flag or colors
 
 **(a)** The uniform of officers and members of the United States Park Police force, the United States Secret Service Uniformed Division, the Capitol Police, and the Metropolitan Police force of the District of Columbia shall bear a distinctive patch, pin, or other emblem depicting the flag of the United States or the colors thereof.
 
 **(b)** The Secretary of the Interior in the case of the United States Park Police force, the Secretary of the Treasury in the case of the United States Secret Service Uniformed Division, the Capitol Police Board in the case of the Capitol Police, and the Mayor of the District of Columbia in the case of the Metropolitan Police force shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Pub. L. 91–297, title II, § 201(a), (b), June 30, 1970, 84 Stat. 357; Pub. L. 93–198, title IV, § 421, Dec. 24, 1973, 87 Stat. 789; Pub. L. 95–179, Nov. 15, 1977, 91 Stat. 1371.)
+(Pub. L. 91–297, title II, § 201(a), (b), June 30, 1970, 84 Stat. 357; Pub. L. 93–198, title IV, § 421, Dec. 24, 1973, 87 Stat. 789; Pub. L. 95–179, Nov. 15, 1977, 91 Stat. 1371.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 210a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 210a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
@@ -1731,57 +1731,57 @@ Section was classified to section 210a of former Title 40, prior to the enactmen
 
 **Transfer of Functions**
 
-Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, “Mayor” substituted in text for “commissioner”.
+Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, “Mayor” substituted in text for “commissioner”.
 
-#### § 1943. Repealed. Pub. L. 111–145, § 6(b), Mar. 4, 2010, 124 Stat. 54
+#### § 1943. Repealed. Pub. L. 111–145, § 6(b), Mar. 4, 2010, 124 Stat. 54
 
-Section, R.S. § 1825, required members of the Capitol police to pay for their own uniforms.
+Section, R.S. § 1825, required members of the Capitol police to pay for their own uniforms.
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 211 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 211 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-R.S. § 1825 derived from act July 20, 1868, ch. 176, § 1, 15 Stat. 94.
+R.S. § 1825 derived from act July 20, 1868, ch. 176, § 1, 15 Stat. 94.
 
-#### § 1944. Wearing uniform on duty
+#### § 1944. Wearing uniform on duty
 
 The officers, privates, and watchmen of the Capitol police shall, when on duty, wear the regulation uniform.
 
-(Mar. 18, 1904, ch. 716, § 1, 33 Stat. 89.)
+(Mar. 18, 1904, ch. 716, § 1, 33 Stat. 89.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 212 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 212 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 The text of this section was taken from act Mar. 18, 1904, popularly known as the “Legislative, Executive and Judicial Appropriation Act for the fiscal year ending June 30, 1905”. Similar provisions were contained in the following prior appropriation acts:
 
-Feb. 25, 1903, ch. 755, § 1, 32 Stat. 857.
+Feb. 25, 1903, ch. 755, § 1, 32 Stat. 857.
 
-Mar. 3, 1901, ch. 830, § 1, 31 Stat. 963.
+Mar. 3, 1901, ch. 830, § 1, 31 Stat. 963.
 
 ### Part D—United States Capitol Police Memorial Fund
 
-#### § 1951. Establishment of United States Capitol Police Memorial Fund
+#### § 1951. Establishment of United States Capitol Police Memorial Fund
 
 There is hereby established in the Treasury of the United States the United States Capitol Police Memorial Fund (hereafter in this part referred to as the “Fund”). All amounts received by the Capitol Police Board which are designated for deposit into the Fund, including amounts received in response to the shooting incident at the practice for the Congressional Baseball Game for Charity on June 14, 2017, shall be deposited into the Fund.
 
-(Pub. L. 105–223, § 1, Aug. 7, 1998, 112 Stat. 1250; Pub. L. 115–45, § 2(c), Aug. 4, 2017, 131 Stat. 957.)
+(Pub. L. 105–223, § 1, Aug. 7, 1998, 112 Stat. 1250; Pub. L. 115–45, § 2(c), Aug. 4, 2017, 131 Stat. 957.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 207c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 207c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
 2017—Pub. L. 115–45 substituted “deposit into the Fund, including amounts received in response to the shooting incident at the practice for the Congressional Baseball Game for Charity on June 14, 2017,” for “deposit into the Fund”.
 
-#### § 1952. Payments from Fund for families of Detective Gibson and Private First Class Chestnut and certain other United States Capitol Police employees
+#### § 1952. Payments from Fund for families of Detective Gibson and Private First Class Chestnut and certain other United States Capitol Police employees
 
 **(a) In general** Except to the extent used or reserved for use under subsection (b) and subject to the regulations issued under section 1954 of this title, amounts in the Fund shall be paid to the families of Detective John Michael Gibson and Private First Class Jacob Joseph Chestnut of the United States Capitol Police as follows:
 
@@ -1795,19 +1795,19 @@ Section was classified to section 207c of former Title 40, prior to the enactmen
 
 **(2)** employees of the United States Capitol Police who have sustained serious line-of-duty injuries.
 
-(Pub. L. 105–223, § 2, Aug. 7, 1998, 112 Stat. 1250; Pub. L. 115–45, § 2(a), Aug. 4, 2017, 131 Stat. 956.)
+(Pub. L. 105–223, § 2, Aug. 7, 1998, 112 Stat. 1250; Pub. L. 115–45, § 2(a), Aug. 4, 2017, 131 Stat. 956.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 207c–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 207c–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
 2017—Pub. L. 115–45 inserted “and certain other United States Capitol Police employees” at end of section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “Except to the extent used or reserved for use under subsection (b) and subject to the regulations” for “Subject to the regulations”, and added subsec. (b).
 
-#### § 1953. Tax treatment of Fund
+#### § 1953. Tax treatment of Fund
 
 **(a) Contributions to Fund**
 
@@ -1821,15 +1821,15 @@ Any payment from the Fund shall not be subject to any Federal, State, or local i
 
 For purposes of title 26, notwithstanding section 501(c)(1)(A) of title 26, the Fund shall be treated as described in section 501(c)(1) of title 26 and exempt from tax under section 501(a) of title 26.
 
-(Pub. L. 105–223, § 3, Aug. 7, 1998, 112 Stat. 1250.)
+(Pub. L. 105–223, § 3, Aug. 7, 1998, 112 Stat. 1250.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 207c–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 207c–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-#### § 1954. Administration by Capitol Police Board
+#### § 1954. Administration by Capitol Police Board
 
 **(a) In general**
 
@@ -1843,13 +1843,13 @@ The Capitol Police Board shall administer and manage the Fund (including establi
 
 **(3)** ensuring that any such payment is in addition to, and does not otherwise affect, any other form of compensation payable to the family of an employee or the employee, including benefits for workers’ compensation under chapter 81 of title 5.
 
-(Pub. L. 105–223, § 4, Aug. 7, 1998, 112 Stat. 1250; Pub. L. 115–45, § 2(b), Aug. 4, 2017, 131 Stat. 956.)
+(Pub. L. 105–223, § 4, Aug. 7, 1998, 112 Stat. 1250; Pub. L. 115–45, § 2(b), Aug. 4, 2017, 131 Stat. 956.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 207c–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 207c–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
@@ -1863,11 +1863,11 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 ## SUBCHAPTER II—POWERS AND DUTIES
 
-### § 1961. Policing of Capitol Buildings and Grounds
+### § 1961. Policing of Capitol Buildings and Grounds
 
-**(a)** The Capitol Police shall police the United States Capitol Buildings and Grounds under the direction of the Capitol Police Board, consisting of the Sergeant at Arms of the United States Senate, the Sergeant at Arms of the House of Representatives, and the Architect of the Capitol, and shall have the power to enforce the provisions of this section, sections 1922, 1966, 1967, and 1969 of this title 1
+**(a)** The Capitol Police shall police the United States Capitol Buildings and Grounds under the direction of the Capitol Police Board, consisting of the Sergeant at Arms of the United States Senate, the Sergeant at Arms of the House of Representatives, and the Architect of the Capitol, and shall have the power to enforce the provisions of this section, sections 1922, 1966, 1967, and 1969 of this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (and regulations promulgated under section 1969 of this title), and chapter 51 of title 40, and to make arrests within the United States Capitol Buildings and Grounds for any violations of any law of the United States, of the District of Columbia, or of any State, or any regulation promulgated pursuant thereto: *Provided*, That for the fiscal year for which appropriations are made by this Act the Capitol Police shall have the additional authority to make arrests within the District of Columbia for crimes of violence, as defined in section 16 of title 18, committed within the Capitol Buildings and Grounds and shall have the additional authority to make arrests, without a warrant, for crimes of violence, as defined in section 16 of title 18, committed in the presence of any member of the Capitol Police performing official duties: *Provided further*, That the Metropolitan Police force of the District of Columbia are authorized to make arrests within the United States Capitol Buildings and Grounds for any violation of any such laws or regulations, but such authority shall not be construed as authorizing the Metropolitan Police force, except with the consent or upon the request of the Capitol Police Board, to enter such buildings to make arrests in response to complaints or to serve warrants or to patrol the United States Capitol Buildings and Grounds. For the purpose of this section, the word “grounds” shall include the House Office Buildings parking areas and that part or parts of property which have been or hereafter are acquired in the District of Columbia by the Architect of the Capitol, or by an officer of the Senate or the House, by lease, purchase, intergovernment transfer, or otherwise, for the use of the Senate, the House, or the Architect of the Capitol.
 
@@ -1877,7 +1877,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **(d)** For purposes of this section, “United States Capitol Buildings and Grounds” shall include the Library of Congress buildings and grounds described under section 167j of this title, except that in a case of buildings or grounds not located in the District of Columbia, the authority granted to the Metropolitan Police Force of the District of Columbia shall be granted to any police force within whose jurisdiction the buildings or grounds are located.
 
-(July 31, 1946, ch. 707, § 9, 60 Stat. 719; Pub. L. 93–198, title VII, § 739(g)(4), (5), Dec. 24, 1973, 87 Stat. 829; Pub. L. 101–520, title I, § 106, formerly § 106(a), Nov. 5, 1990, 104 Stat. 2264, renumbered § 106 and amended Pub. L. 102–392, title III, § 310, Oct. 6, 1992, 106 Stat. 1723; Pub. L. 102–397, title I, § 103, Oct. 6, 1992, 106 Stat. 1950; Pub. L. 107–117, div. B, §§ 901(c)(2), 903(c)(2), Jan. 10, 2002, 115 Stat. 2316, 2317; Pub. L. 107–206, title I, §§ 902(b), 903(b), Aug. 2, 2002, 116 Stat. 876; Pub. L. 108–7, div. H, title I, § 1016(c), Feb. 20, 2003, 117 Stat. 365; Pub. L. 110–161, div. H, title I, § 1004(d)(1)(A), Dec. 26, 2007, 121 Stat. 2233; Pub. L. 110–178, § 4(a)(1), Jan. 7, 2008, 121 Stat. 2551; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
+(July 31, 1946, ch. 707, § 9, 60 Stat. 719; Pub. L. 93–198, title VII, § 739(g)(4), (5), Dec. 24, 1973, 87 Stat. 829; Pub. L. 101–520, title I, § 106, formerly § 106(a), Nov. 5, 1990, 104 Stat. 2264, renumbered § 106 and amended Pub. L. 102–392, title III, § 310, Oct. 6, 1992, 106 Stat. 1723; Pub. L. 102–397, title I, § 103, Oct. 6, 1992, 106 Stat. 1950; Pub. L. 107–117, div. B, §§ 901(c)(2), 903(c)(2), Jan. 10, 2002, 115 Stat. 2316, 2317; Pub. L. 107–206, title I, §§ 902(b), 903(b), Aug. 2, 2002, 116 Stat. 876; Pub. L. 108–7, div. H, title I, § 1016(c), Feb. 20, 2003, 117 Stat. 365; Pub. L. 110–161, div. H, title I, § 1004(d)(1)(A), Dec. 26, 2007, 121 Stat. 2233; Pub. L. 110–178, § 4(a)(1), Jan. 7, 2008, 121 Stat. 2551; Pub. L. 111–145, § 6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 **Editorial Notes**
 
@@ -1889,25 +1889,25 @@ This Act, referred to in subsec. (a), probably means Pub. L. 101–520, Nov. 5, 
 
 **Codification**
 
-Section was classified to section 212a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 212a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
-2010—Subsec. (d). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(1)(A). See 2007 Amendment note below.
+2010—Subsec. (d). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(1)(A). See 2007 Amendment note below.
 
 2008—Subsec. (d). Pub. L. 110–178 added subsec. (d).
 
-2007—Subsec. (d). Pub. L. 110–161, § 1004(d)(1)(A), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+2007—Subsec. (d). Pub. L. 110–161, § 1004(d)(1)(A), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
 2003—Subsec. (a). Pub. L. 108–7 substituted “this section, sections 1922, 1966, 1967, and 1969 of this title (and regulations promulgated under section 1969 of this title), and chapter 51 of title 40” for “sections 193a to 193m, 212a, 212a–2, and 212b of this title and regulations promulgated under section 212b of this title,”.
 
-2002—Subsec. (a). Pub. L. 107–117, §§ 901(c)(2)(A), 903(b)(2)(A), amended section identically, inserting “(a)” before “The Capitol Police shall police”.
+2002—Subsec. (a). Pub. L. 107–117, §§ 901(c)(2)(A), 903(b)(2)(A), amended section identically, inserting “(a)” before “The Capitol Police shall police”.
 
 Subsec. (b). Pub. L. 107–206 redesignated subsec. (b) relating to buildings or facilities acquired by the Chief Administrative Officer of the House of Representatives as (c).
 
-Pub. L. 107–117, § 903(c)(2)(B), added subsec. (b) relating to buildings or facilities acquired by the Chief Administrative Officer of the House of Representatives.
+Pub. L. 107–117, § 903(c)(2)(B), added subsec. (b) relating to buildings or facilities acquired by the Chief Administrative Officer of the House of Representatives.
 
-Pub. L. 107–117, § 901(c)(2)(B), added subsec. (b) relating to buildings or facilities acquired by the Sergeant at Arms of the Senate.
+Pub. L. 107–117, § 901(c)(2)(B), added subsec. (b) relating to buildings or facilities acquired by the Sergeant at Arms of the Senate.
 
 Subsec. (c). Pub. L. 107–206 redesignated subsec. (b) relating to buildings or facilities acquired by the Chief Administrative Officer of the House of Representatives as (c).
 
@@ -1915,7 +1915,7 @@ Subsec. (c). Pub. L. 107–206 redesignated subsec. (b) relating to buildings or
 
 1990—Pub. L. 101–520, as amended by Pub. L. 102–392 and Pub. L. 102–397, amended section generally. Prior to amendment, section read as follows: “The Capitol Police shall police the United States Capitol Buildings and Grounds under the direction of the Capitol Police Board, consisting of the Sergeant at Arms of the United States Senate, the Sergeant at Arms of the House of Representatives, and the Architect of the Capitol, and shall have the power to enforce the provisions of sections 193a to 193m, 212a, 212a–2, and 212b of this title and regulations promulgated under section 212b of this title, and to make arrests within the United States Capitol Buildings and Grounds for any violations of any law of the United States, of the District of Columbia, or of any State, or any regulation promulgated pursuant thereto: *Provided*, That the Metropolitan Police force of the District of Columbia are authorized to make arrests within the United States Capitol Buildings and Grounds for any violations of any such laws or regulations, but such authority shall not be construed as authorizing the Metropolitan Police force, except with the consent or upon the request of the Capitol Police Board, to enter such buildings to make arrests in response to complaints or to serve warrants or to patrol the United States Capitol Buildings and Grounds. For the purpose of this section, the word ‘grounds’ shall include the House Office Building parking area.”
 
-1973—Pub. L. 93–198 inserted reference to violations of any law of the District of Columbia and struck out “, with the exception of the streets and roadways shown on the map referred to in section 193a of this title as being under the jurisdiction and control of the Commissioners of the District of Columbia” after “or to patrol the United States Capitol Buildings and Grounds”.
+1973—Pub. L. 93–198 inserted reference to violations of any law of the District of Columbia and struck out “, with the exception of the streets and roadways shown on the map referred to in section 193a of this title as being under the jurisdiction and control of the Commissioners of the District of Columbia” after “or to patrol the United States Capitol Buildings and Grounds”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1929,7 +1929,7 @@ Amendment by Pub. L. 110–178 effective Oct. 1, 2009, see section 4(d) of Pub. 
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–7, div. H, title I, § 1016(d), Feb. 20, 2003, 117 Stat. 365, provided that: “The amendments made by this subsection [probably means this section, amending this section and sections 5101 and 5102 of Title 40, Public Buildings, Property, and Works] shall apply to fiscal year 2003 and each fiscal year thereafter.”
+Pub. L. 108–7, div. H, title I, § 1016(d), Feb. 20, 2003, 117 Stat. 365, provided that: “The amendments made by this subsection [probably means this section, amending this section and sections 5101 and 5102 of Title 40, Public Buildings, Property, and Works] shall apply to fiscal year 2003 and each fiscal year thereafter.”
 
 **Effective Date of 2002 Amendments**
 
@@ -1943,21 +1943,21 @@ Amendment by section 903(c)(2) of Pub. L. 107–117 applicable with respect to f
 
 **Effective Date of 1992 Amendments**
 
-Pub. L. 102–397, title I, § 103, Oct. 6, 1992, 106 Stat. 1950, provided that the amendment made by section 103 is effective Nov. 5, 1990.
+Pub. L. 102–397, title I, § 103, Oct. 6, 1992, 106 Stat. 1950, provided that the amendment made by section 103 is effective Nov. 5, 1990.
 
-Pub. L. 102–392, title III, § 310, Oct. 6, 1992, 106 Stat. 1723, provided that the amendment made by section 310 is effective Nov. 5, 1990.
+Pub. L. 102–392, title III, § 310, Oct. 6, 1992, 106 Stat. 1723, provided that the amendment made by section 310 is effective Nov. 5, 1990.
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–198, title VII, § 771(d), Dec. 24, 1973, 87 Stat. 836, provided that the amendment made by Pub. L. 93–198 is effective on Jan. 2, 1975, if a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum accepted the charter set out in title IV of Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 785. The charter was approved by the voters on May 7, 1974.
+Pub. L. 93–198, title VII, § 771(d), Dec. 24, 1973, 87 Stat. 836, provided that the amendment made by Pub. L. 93–198 is effective on Jan. 2, 1975, if a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum accepted the charter set out in title IV of Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 785. The charter was approved by the voters on May 7, 1974.
 
 **Construction**
 
-Act July 31, 1946, ch. 707, § 16(b), 60 Stat. 721, provided that: “Nothing in this Act [2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101 to 5107, 5109, see References in Text note under section 1819 of this title] shall be construed to repeal, amend, alter, or supersede (1) section 1820 of the Revised Statutes (U.S.C., title 40, sec. 193) [now 2 U.S.C. 2183]; (2) an Act entitled ‘An Act to protect the public property, turf, and grass of the Capitol Grounds from injury’, approved April 29, 1876 (19 Stat. 41; U.S.C., title 40, sec. 214) [now 2 U.S.C. 1963]; (3) except as provided in section 9 of this Act [2 U.S.C. 1961], section 15 of an Act entitled ‘An Act for the preservation of the public peace and the protection of property within the District of Columbia’, approved July 29, 1892 (27 Stat. 325; U.S.C., title 40, sec. 101) [see 40 U.S.C. 8103]; (4) the second proviso in the item ‘Capitol garages’ under the caption ‘Capitol Buildings and Grounds’ contained in an Act entitled ‘An Act making appropriations for the legislative branch of the Government for the fiscal year ending June 30, 1933, and for other purposes’, approved June 30, 1932 (47 Stat. 382, 391; U.S.C., title 40, sec. 185a) [now 2 U.S.C. 2025]; or (5) an Act entitled ‘An Act to authorize the use of part of the United States Capitol Grounds east of the Union Station for the parking of motor vehicles’, approved July 8, 1943 (57 Stat. 390).”
+Act July 31, 1946, ch. 707, § 16(b), 60 Stat. 721, provided that: “Nothing in this Act [2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101 to 5107, 5109, see References in Text note under section 1819 of this title] shall be construed to repeal, amend, alter, or supersede (1) section 1820 of the Revised Statutes (U.S.C., title 40, sec. 193) [now 2 U.S.C. 2183]; (2) an Act entitled ‘An Act to protect the public property, turf, and grass of the Capitol Grounds from injury’, approved April 29, 1876 (19 Stat. 41; U.S.C., title 40, sec. 214) [now 2 U.S.C. 1963]; (3) except as provided in section 9 of this Act [2 U.S.C. 1961], section 15 of an Act entitled ‘An Act for the preservation of the public peace and the protection of property within the District of Columbia’, approved July 29, 1892 (27 Stat. 325; U.S.C., title 40, sec. 101) [see 40 U.S.C. 8103]; (4) the second proviso in the item ‘Capitol garages’ under the caption ‘Capitol Buildings and Grounds’ contained in an Act entitled ‘An Act making appropriations for the legislative branch of the Government for the fiscal year ending June 30, 1933, and for other purposes’, approved June 30, 1932 (47 Stat. 382, 391; U.S.C., title 40, sec. 185a) [now 2 U.S.C. 2025]; or (5) an Act entitled ‘An Act to authorize the use of part of the United States Capitol Grounds east of the Union Station for the parking of motor vehicles’, approved July 8, 1943 (57 Stat. 390).”
 
 **Jurisdiction of United States Capitol Police Over Temporary Parking Areas During Construction of Judiciary Annex Building**
 
-Pub. L. 101–302, title III, § 313, May 25, 1990, 104 Stat. 245, provided that:
+Pub. L. 101–302, title III, § 313, May 25, 1990, 104 Stat. 245, provided that:
 
 > **“(a)** The supervision and jurisdiction of the United States Capitol Police shall extend over any area with respect to which the Architect of the Capitol has contracted, or otherwise entered into an agreement, for parking space in the Union Station parking garage to accommodate personnel of the United States Senate whose parking privileges have been affected by the construction of the Judiciary Annex Building, and over any area and streets necessary to carry out such supervision and to travel between such parking area and the United States Capitol Grounds.
 
@@ -1969,27 +1969,27 @@ Pub. L. 101–302, title III, § 313, May 25, 1990, 104 Stat. 245, provided th
 
 Pub. L. 95–175, Nov. 14, 1977, 91 Stat. 1362, provided: “That the supervision of the United States Capitol Police shall extend over that part or parts of the premises located at 600 Pennsylvania Avenue, Southeast, Washington, District of Columbia, leased by the Office of Technology Assessment. In carrying out such supervision, the United States Capitol Police shall have within such part or parts jurisdiction, concurrent with that of the Metropolitan Police of the District of Columbia, to provide security for the personnel and property of the Office of Technology Assessment within such leased premises, and to make arrest therein for the violation of the laws and regulations of the United States and the District of Columbia.”
 
-### § 1962. Detail of police
+### § 1962. Detail of police
 
 The Capitol Police Board is authorized to detail police from the House Office, Senate Office, and Capitol Buildings for police duty on the Capitol Grounds and on the Library of Congress Grounds.
 
-(Pub. L. 96–432, § 5, Oct. 10, 1980, 94 Stat. 1853.)
+(Pub. L. 96–432, § 5, Oct. 10, 1980, 94 Stat. 1853.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 212a–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 212a–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 Provisions of this section were enacted as permanent law in Pub. L. 96–432. Similar fiscal year provisions were contained in the following appropriation acts and have not been repeated since 1983:
 
-Pub. L. 98–51, title I, § 112, July 14, 1983, 97 Stat. 271.
+Pub. L. 98–51, title I, § 112, July 14, 1983, 97 Stat. 271.
 
-Pub. L. 97–276, § 101(e) [S. 2939, title I], Oct. 2, 1982, 96 Stat. 1189.
+Pub. L. 97–276, § 101(e) [S. 2939, title I], Oct. 2, 1982, 96 Stat. 1189.
 
-Pub. L. 97–51, § 101(c) [H.R. 4120, title I], Oct. 1, 1981, 95 Stat. 959.
+Pub. L. 97–51, § 101(c) [H.R. 4120, title I], Oct. 1, 1981, 95 Stat. 959.
 
-Pub. L. 96–536, § 101(c) [H.R. 7593, title I], Dec. 16, 1980, 94 Stat. 3167.
+Pub. L. 96–536, § 101(c) [H.R. 7593, title I], Dec. 16, 1980, 94 Stat. 3167.
 
 Pub. L. 95–391, title I, Sept. 30, 1978, 92 Stat. 780.
 
@@ -2023,43 +2023,43 @@ Pub. L. 88–454, Aug. 20, 1964, 78 Stat. 544.
 
 Pub. L. 88–248, Dec. 30, 1963, 77 Stat. 811.
 
-Pub. L. 87–730, § 104, Oct. 2, 1962, 76 Stat. 694.
+Pub. L. 87–730, § 104, Oct. 2, 1962, 76 Stat. 694.
 
-Pub. L. 87–130, § 104, Aug. 10, 1961, 75 Stat. 334.
+Pub. L. 87–130, § 104, Aug. 10, 1961, 75 Stat. 334.
 
-Pub. L. 86–628, § 104, July 12, 1960, 74 Stat. 460.
+Pub. L. 86–628, § 104, July 12, 1960, 74 Stat. 460.
 
-Pub. L. 86–176, § 104, Aug. 21, 1959, 73 Stat. 412.
+Pub. L. 86–176, § 104, Aug. 21, 1959, 73 Stat. 412.
 
-Pub. L. 85–570, § 104, July 31, 1958, 72 Stat. 453.
+Pub. L. 85–570, § 104, July 31, 1958, 72 Stat. 453.
 
-Pub. L. 85–75, § 104, July 1, 1957, 71 Stat. 256.
+Pub. L. 85–75, § 104, July 1, 1957, 71 Stat. 256.
 
-June 27, 1956, ch. 453, § 104, 70 Stat. 370.
+June 27, 1956, ch. 453, § 104, 70 Stat. 370.
 
-Aug. 5, 1955, ch. 568, § 104, 69 Stat. 520.
+Aug. 5, 1955, ch. 568, § 104, 69 Stat. 520.
 
-July 2, 1954, ch. 455, title I, § 104, 68 Stat. 409.
+July 2, 1954, ch. 455, title I, § 104, 68 Stat. 409.
 
-Aug. 1, 1953, ch. 304, title I, § 106, 67 Stat. 332.
+Aug. 1, 1953, ch. 304, title I, § 106, 67 Stat. 332.
 
-July 9, 1952, ch. 598, § 106, 66 Stat. 478.
+July 9, 1952, ch. 598, § 106, 66 Stat. 478.
 
-Oct. 11, 1951, ch. 485, § 106, 65 Stat. 403.
+Oct. 11, 1951, ch. 485, § 106, 65 Stat. 403.
 
-Sept. 6, 1950, ch. 896, § 106, 64 Stat. 608.
+Sept. 6, 1950, ch. 896, § 106, 64 Stat. 608.
 
-June 22, 1949, ch. 235, § 106, 63 Stat. 230.
+June 22, 1949, ch. 235, § 106, 63 Stat. 230.
 
-June 14, 1948, ch. 467, § 106, 62 Stat. 437.
+June 14, 1948, ch. 467, § 106, 62 Stat. 437.
 
-July 17, 1947, ch. 262, § 106, 61 Stat. 377.
+July 17, 1947, ch. 262, § 106, 61 Stat. 377.
 
-July 1, 1946, ch. 530, § 106, 60 Stat. 408.
+July 1, 1946, ch. 530, § 106, 60 Stat. 408.
 
-June 13, 1945, ch. 189, § 106, 59 Stat. 259.
+June 13, 1945, ch. 189, § 106, 59 Stat. 259.
 
-June 26, 1944, ch. 277, title I, § 105, 58 Stat. 354.
+June 26, 1944, ch. 277, title I, § 105, 58 Stat. 354.
 
 June 28, 1943, ch. 173, title I, 57 Stat. 230.
 
@@ -2073,7 +2073,7 @@ June 16, 1939, ch. 208, 53 Stat. 831.
 
 May 17, 1938, ch. 236, 52 Stat. 390.
 
-### § 1963. Protection of grounds
+### § 1963. Protection of grounds
 
 It shall be the duty of the Capitol police on and after April 29, 1876, to prevent any portion of the Capitol Grounds and terraces from being used as playgrounds or otherwise, so far as may be necessary to protect the public property, turf and grass from destruction or injury.
 
@@ -2083,9 +2083,9 @@ It shall be the duty of the Capitol police on and after April 29, 1876, to preve
 
 **Codification**
 
-Section was classified to section 214 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 214 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 1964. Security systems for Capitol buildings and grounds
+### § 1964. Security systems for Capitol buildings and grounds
 
 **(a) Design and installation**
 
@@ -2115,7 +2115,7 @@ Effective October 1, 1995, the responsibility for design and installation of sec
 
 **(3)** All annual leave and sick leave standing to the credit of an individual immediately before such individual is transferred under paragraph (1) shall be credited to such individual, without adjustment, in the new position of the individual.
 
-(Pub. L. 104–53, title III, § 308, Nov. 19, 1995, 109 Stat. 537.)
+(Pub. L. 104–53, title III, § 308, Nov. 19, 1995, 109 Stat. 537.)
 
 **Editorial Notes**
 
@@ -2129,9 +2129,9 @@ Section 102 of the Legislative Branch Appropriations Act, 1989, referred to in s
 
 **Codification**
 
-In subsec. (b), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-Section was classified to section 212a–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 212a–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2139,7 +2139,7 @@ Section was classified to section 212a–4 of former Title 40, prior to the enac
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-### § 1965. Maintenance of security systems for Capitol buildings and grounds
+### § 1965. Maintenance of security systems for Capitol buildings and grounds
 
 **(a)** Effective October 1, 1996, the responsibility for maintenance of security systems for the Capitol buildings and grounds is transferred from the Architect of the Capitol to the Capitol Police Board. Such maintenance shall be carried out under the direction of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate. On and after October 1, 1996, any alteration to a structural, mechanical, or architectural feature of the Capitol buildings and grounds that is required for security system maintenance under the preceding sentence may be carried out only with the approval of the Architect of the Capitol.
 
@@ -2157,13 +2157,13 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **(3)** All annual leave and sick leave standing to the credit of an individual immediately before such individual is transferred under paragraph (1) shall be credited to such individual, without adjustment, in the new position of the individual.
 
-(Pub. L. 104–197, title III, § 308, Sept. 16, 1996, 110 Stat. 2413.)
+(Pub. L. 104–197, title III, § 308, Sept. 16, 1996, 110 Stat. 2413.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 212a–4a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 212a–4a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2171,13 +2171,13 @@ Section was classified to section 212a–4a of former Title 40, prior to the ena
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-### § 1965a. Prohibition on use of funds for installation of permanent fencing on Capitol Grounds
+### § 1965a. Prohibition on use of funds for installation of permanent fencing on Capitol Grounds
 
 None of the funds made available in this or any other Act in prior fiscal years, this fiscal year, or any fiscal year thereafter may be used to install permanent, above-ground fencing around the perimeter, or any portion thereof, of the United States Capitol Grounds, as described in section 5102 of title 40.
 
-(Pub. L. 117–31, title III, § 310, July 30, 2021, 135 Stat. 314.)
+(Pub. L. 117–31, title III, § 310, July 30, 2021, 135 Stat. 314.)
 
-### § 1966. Protection of Members of Congress, officers of Congress, and members of their families
+### § 1966. Protection of Members of Congress, officers of Congress, and members of their families
 
 **(a) Authority of the Capitol Police**
 
@@ -2203,21 +2203,21 @@ Nothing contained in this section shall be construed to imply that the authority
 
 As used in this section, the term “United States” means each of the several States of the United States, the District of Columbia, and territories and possessions of the United States.
 
-(July 31, 1946, ch. 707, § 9A, as added Pub. L. 97–143, § 1(a), Dec. 29, 1981, 95 Stat. 1723.)
+(July 31, 1946, ch. 707, § 9A, as added Pub. L. 97–143, § 1(a), Dec. 29, 1981, 95 Stat. 1723.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 212a–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 212a–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 1966a. Protection of former Speakers of the House of Representatives
+### § 1966a. Protection of former Speakers of the House of Representatives
 
 Notwithstanding any other provision of law (except section 1341 of title 31), hereafter, the United States Capitol Police shall perform a threat assessment for former Speakers of the House of Representatives, and if warranted, any such former Speaker shall receive a United States Capitol Police protective detail for a period of not more than one year beginning on the date they leave such office, except that such former Speaker shall have the option to decline such protective detail at any time: *Provided*, That at the conclusion of the one year period, the United States Capitol Police shall perform a threat assessment to determine whether extension of the protective detail is warranted: *Provided further*, That, the protective detail may be extended beyond the initial one year period, with the concurrence of the relevant former Speaker, if the United States Capitol Police determines that information or conditions, including but not limited to violent threats, warrant such protection: *Provided further*, That the United States Capitol Police is authorized to enter into Memoranda of Understanding with relevant state and local law enforcement agencies, as needed, to carry out this section.
 
-(Pub. L. 117–328, div. I, title I, § 121, Dec. 29, 2022, 136 Stat. 4926.)
+(Pub. L. 117–328, div. I, title I, § 121, Dec. 29, 2022, 136 Stat. 4926.)
 
-### § 1967. Law enforcement authority
+### § 1967. Law enforcement authority
 
 **(a) Scope** Subject to such regulations as may be prescribed by the Capitol Police Board and approved by the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate, a member of the Capitol Police shall have authority to make arrests and otherwise enforce the laws of the United States, including the laws of the District of Columbia—
 
@@ -2249,23 +2249,23 @@ This section does not affect the authority of the Metropolitan Police force of t
 
 As used in this section, the term “crime of violence” has the meaning given that term in section 16 of title 18.
 
-(July 31, 1946, ch. 707, § 9B, as added Pub. L. 102–397, title I, § 101, Oct. 6, 1992, 106 Stat. 1949; amended Pub. L. 104–186, title II, § 221(13), Aug. 20, 1996, 110 Stat. 1750; Pub. L. 108–83, title I, § 1003(a), Sept. 30, 2003, 117 Stat. 1021.)
+(July 31, 1946, ch. 707, § 9B, as added Pub. L. 102–397, title I, § 101, Oct. 6, 1992, 106 Stat. 1949; amended Pub. L. 104–186, title II, § 221(13), Aug. 20, 1996, 110 Stat. 1750; Pub. L. 108–83, title I, § 1003(a), Sept. 30, 2003, 117 Stat. 1021.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 212a–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 212a–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
-2003—Subsec. (a)(3). Pub. L. 108–83, § 1003(a)(1)(A), struck out “and” after the semicolon.
+2003—Subsec. (a)(3). Pub. L. 108–83, § 1003(a)(1)(A), struck out “and” after the semicolon.
 
-Subsec. (a)(4). Pub. L. 108–83, § 1003(a)(1)(B), which directed the substitution of “under subsection (b)(1); and” for “in subsection (b) of this section.” was executed by making the substitution for language which read in the original “in subsection (b).”, to reflect the probable intent of Congress.
+Subsec. (a)(4). Pub. L. 108–83, § 1003(a)(1)(B), which directed the substitution of “under subsection (b)(1); and” for “in subsection (b) of this section.” was executed by making the substitution for language which read in the original “in subsection (b).”, to reflect the probable intent of Congress.
 
-Subsec. (a)(5). Pub. L. 108–83, § 1003(a)(1)(C), added par. (5).
+Subsec. (a)(5). Pub. L. 108–83, § 1003(a)(1)(C), added par. (5).
 
-Subsec. (b). Pub. L. 108–83, § 1003(a)(2), designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 108–83, § 1003(a)(2), designated existing provisions as par. (1) and added par. (2).
 
 1996—Subsec. (a). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
@@ -2277,13 +2277,13 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–83, title I, § 1003(c), Sept. 30, 2003, 117 Stat. 1022, provided that: “This section [amending this section and enacting provisions set out as a note under this section] shall take effect on the date on which the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives approve regulations prescribed by the Capitol Police Board for the sole implementation, execution and maintenance of the truck interdiction program.” [Regulations approved by Committee on Rules and Administration of the Senate on Jan. 5, 2004, and by Committee on House Administration of the House of Representatives on Dec. 18, 2003.]
+Pub. L. 108–83, title I, § 1003(c), Sept. 30, 2003, 117 Stat. 1022, provided that: “This section [amending this section and enacting provisions set out as a note under this section] shall take effect on the date on which the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives approve regulations prescribed by the Capitol Police Board for the sole implementation, execution and maintenance of the truck interdiction program.” [Regulations approved by Committee on Rules and Administration of the Senate on Jan. 5, 2004, and by Committee on House Administration of the House of Representatives on Dec. 18, 2003.]
 
 **Rule of Construction**
 
-Pub. L. 108–83, title I, § 1003(b), Sept. 30, 2003, 117 Stat. 1022, provided that: “Nothing in the amendments made by this section [amending this section] may be construed to limit the authority of the Capitol Police as in effect before the effective date of this section [see Effective Date of 2003 Amendment note set out above].”
+Pub. L. 108–83, title I, § 1003(b), Sept. 30, 2003, 117 Stat. 1022, provided that: “Nothing in the amendments made by this section [amending this section] may be construed to limit the authority of the Capitol Police as in effect before the effective date of this section [see Effective Date of 2003 Amendment note set out above].”
 
-### § 1968. Citation release
+### § 1968. Citation release
 
 **(a) In general**
 
@@ -2299,15 +2299,15 @@ The Chief of the Capitol Police, with the approval of the Capitol Police Board, 
 
 **(2)** The United States District Court for the District of Columbia shall have the power to authorize the member of the Capitol Police referred to in subsection (a) of this section to take bond from persons arrested upon writs and process from that court in criminal cases in the same manner as provided for with respect to an official of the Metropolitan Police Department of the District of Columbia under the third sentence of section 23–1110(a) of the District of Columbia Code.
 
-(Pub. L. 104–186, title I, § 108, Aug. 20, 1996, 110 Stat. 1723.)
+(Pub. L. 104–186, title I, § 108, Aug. 20, 1996, 110 Stat. 1723.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 212a–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 212a–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 1969. Regulation of traffic by Capitol Police Board
+### § 1969. Regulation of traffic by Capitol Police Board
 
 **(a) Exclusive charge and control of all vehicular and other traffic**
 
@@ -2325,7 +2325,7 @@ All regulations promulgated under the authority of this section shall, when adop
 
 It shall be the duty of the Mayor of the District of Columbia, or any officer or employee of the government of the District of Columbia designated by said Mayor upon request of the Capitol Police Board, to cooperate with the Board in the preparation of the regulations authorized to be promulgated under this section, and any future amendments thereof.
 
-(July 31, 1946, ch. 707, § 14, 60 Stat. 720; July 11, 1947, ch. 221, 61 Stat. 308; Pub. L. 87–873, § 1, Oct. 23, 1962, 76 Stat. 1171; Pub. L. 88–60, § 1, July 8, 1963, 77 Stat. 77; 1967 Reorg. Plan No. 3, § 401, eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Pub. L. 91–358, title I, § 155(a), July 29, 1970, 84 Stat. 570; Pub. L. 93–198, title IV, § 421, title VII, § 739(g)(6), Dec. 24, 1973, 87 Stat. 789, 829.)
+(July 31, 1946, ch. 707, § 14, 60 Stat. 720; July 11, 1947, ch. 221, 61 Stat. 308; Pub. L. 87–873, § 1, Oct. 23, 1962, 76 Stat. 1171; Pub. L. 88–60, § 1, July 8, 1963, 77 Stat. 77; 1967 Reorg. Plan No. 3, § 401, eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Pub. L. 91–358, title I, § 155(a), July 29, 1970, 84 Stat. 570; Pub. L. 93–198, title IV, § 421, title VII, § 739(g)(6), Dec. 24, 1973, 87 Stat. 789, 829.)
 
 **Editorial Notes**
 
@@ -2335,15 +2335,15 @@ The District of Columbia Traffic Act of 1925, referred to in subsec. (a), is act
 
 **Codification**
 
-Section was classified to section 212b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 212b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
-1973—Subsec. (a). Pub. L. 93–198, § 739(g)(6), struck out “, except on those streets and roadways shown on the map referred to in section 193a of this title as being under the jurisdiction and control of the Commissioner of the District of Columbia”.
+1973—Subsec. (a). Pub. L. 93–198, § 739(g)(6), struck out “, except on those streets and roadways shown on the map referred to in section 193a of this title as being under the jurisdiction and control of the Commissioner of the District of Columbia”.
 
-1947—Subsec. (b). Act July 11, 1947, § 1, struck out reference to six months after July 31, 1946, as the time for promulgation of regulations and authorized amendment of regulations.
+1947—Subsec. (b). Act July 11, 1947, § 1, struck out reference to six months after July 31, 1946, as the time for promulgation of regulations and authorized amendment of regulations.
 
-Subsec. (c). Act July 11, 1947, § 2, authorized certain traffic regulations to be effective immediately upon placing conspicuous signs containing notice of regulations at the places affected thereby and inserted provision for payment of expenses.
+Subsec. (c). Act July 11, 1947, § 2, authorized certain traffic regulations to be effective immediately upon placing conspicuous signs containing notice of regulations at the places affected thereby and inserted provision for payment of expenses.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2351,19 +2351,19 @@ Subsec. (c). Act July 11, 1947, § 2, authorized certain traffic regulations t
 
 “District of Columbia Court of General Sessions” changed to “Superior Court of the District of Columbia” pursuant to Pub. L. 91–358, which provided that such change is effective first day of seventh calendar month which begins after July 29, 1970.
 
-Pub. L. 87–873, § 1, Oct. 23, 1962, 76 Stat. 1171 and Pub. L. 88–60, § 1, July 8, 1963, 77 Stat. 77, both redesignated the “Municipal Court for the District of Columbia” as the “District of Columbia Court of General Sessions”.
+Pub. L. 87–873, § 1, Oct. 23, 1962, 76 Stat. 1171 and Pub. L. 88–60, § 1, July 8, 1963, 77 Stat. 77, both redesignated the “Municipal Court for the District of Columbia” as the “District of Columbia Court of General Sessions”.
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–198, title VII, § 771(d), Dec. 24, 1973, 87 Stat. 836, provided that the amendment made by Pub. L. 93–198 is effective on Jan. 2, 1975, if a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum accepted the charter set out in title IV of Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 785. The charter was approved by the voters on May 7, 1974.
+Pub. L. 93–198, title VII, § 771(d), Dec. 24, 1973, 87 Stat. 836, provided that the amendment made by Pub. L. 93–198 is effective on Jan. 2, 1975, if a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum accepted the charter set out in title IV of Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 785. The charter was approved by the voters on May 7, 1974.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Except as otherwise provided in Reorg. Plan No. 3, of 1967, functions of Board of Commissioners of District of Columbia transferred to Commissioner of District of Columbia by section 401 of Reorg. Plan No. 3 of 1967. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, “Mayor” substituted in subsec. (d) for “commissioner”.
+Except as otherwise provided in Reorg. Plan No. 3, of 1967, functions of Board of Commissioners of District of Columbia transferred to Commissioner of District of Columbia by section 401 of Reorg. Plan No. 3 of 1967. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, “Mayor” substituted in subsec. (d) for “commissioner”.
 
-### § 1970. Assistance by Executive departments and agencies
+### § 1970. Assistance by Executive departments and agencies
 
 **(a) Assistance**
 
@@ -2371,7 +2371,7 @@ Except as otherwise provided in Reorg. Plan No. 3, of 1967, functions of Board o
 
 Executive departments and Executive agencies may assist the United States Capitol Police in the performance of its duties by providing services (including personnel), equipment, and facilities on a temporary and reimbursable basis when requested by the Capitol Police Board or in accordance with paragraph (4) and on a permanent and reimbursable basis upon advance written request of the Capitol Police Board; except that the Department of Defense and the Coast Guard may provide such assistance on a temporary basis without reimbursement when assisting the United States Capitol Police in its duties directly related to protection under sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 Before making a request under this paragraph, the Capitol Police Board shall consult with appropriate Members of the Senate and House of Representatives in leadership positions, except in an emergency.
 
@@ -2381,7 +2381,7 @@ No services (including personnel), equipment, or facilities may be ordered, purc
 
 **(3) Expenditures or obligation of funds** No funds may be expended or obligated for the purpose of carrying out this section other than funds specifically appropriated to the Capitol Police Board or the United States Capitol Police for those purposes with the exception of—
 
-**(A)** expenditures made by the Department of Defense or the Coast Guard from funds appropriated to the Department of Defense or the Coast Guard in providing assistance on a temporary basis to the United States Capitol Police in the performance of its duties directly related to protection under sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40; <sup>1</sup> and
+**(A)** expenditures made by the Department of Defense or the Coast Guard from funds appropriated to the Department of Defense or the Coast Guard in providing assistance on a temporary basis to the United States Capitol Police in the performance of its duties directly related to protection under sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40; <sup>1</sup> and
 
 **(B)** expenditures made by Executive departments and agencies, in providing assistance at the request of the United States Capitol Police in the performance of its duties, and which will be reimbursed by the United States Capitol Police under this section.
 
@@ -2399,7 +2399,7 @@ No services (including personnel), equipment, or facilities may be ordered, purc
 
 **(II)** the Sergeant at Arms of the House of Representatives in any matter relating to the House of Representatives; or
 
-**(III)** the Chief of the Capitol Police, if the Chief of the Capitol Police has determined that the provision of assistance is necessary to prevent the significant disruption of governmental function and public order within the United States Capitol Buildings and Grounds, as described in section 1961 <sup>1</sup> of this title; and
+**(III)** the Chief of the Capitol Police, if the Chief of the Capitol Police has determined that the provision of assistance is necessary to prevent the significant disruption of governmental function and public order within the United States Capitol Buildings and Grounds, as described in section 1961 <sup>1</sup> of this title; and
 
 **(C)**
 
@@ -2431,71 +2431,71 @@ After receipt of all reports under paragraph (2) with respect to any fiscal year
 
 This section shall take effect on January 10, 2002, and apply to each fiscal year occurring after such date.
 
-(Pub. L. 107–117, div. B, § 911, Jan. 10, 2002, 115 Stat. 2322; Pub. L. 117–77, § 2(a), Dec. 22, 2021, 135 Stat. 1522.)
+(Pub. L. 107–117, div. B, § 911, Jan. 10, 2002, 115 Stat. 2322; Pub. L. 117–77, § 2(a), Dec. 22, 2021, 135 Stat. 1522.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40, referred to in subsec. (a)(1), (3)(A), (4)(B)(ii)(III), was in the original a reference to the Act of July 31, 1946 (40 U.S.C. 212a–2), which is act July 31, 1946, ch. 707, 60 Stat. 718. Sections 9, 9A, 9B, 9C, and 14 of the Act are classified, respectively, to sections 1961, 1966, 1967, 1922, and 1969 of this title, and section 16(b) of the Act is set out as a note under section 1961 of this title. Sections 1 to 8, 10 to 13, and 16(a) of the Act, which were classified to sections 193a to 193m of former Title 40, Public Buildings, Property, and Works, were repealed and reenacted as sections 5101 to 5107 and 5109 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1312, the first section of which enacted Title 40. Section 5(c) of Pub. L. 107–217, set out as a note preceding section 101 of Title 40, provides that a reference to a law replaced by section 1 of Pub. L. 107–217 is deemed to refer to the corresponding provision enacted by Pub. L. 107–217. For complete classification of the act of July 31, 1946, to the Code, see Tables. For disposition of sections of former Title 40, see table at the beginning of Title 40.
+Sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40, referred to in subsec. (a)(1), (3)(A), (4)(B)(ii)(III), was in the original a reference to the Act of July 31, 1946 (40 U.S.C. 212a–2), which is act July 31, 1946, ch. 707, 60 Stat. 718. Sections 9, 9A, 9B, 9C, and 14 of the Act are classified, respectively, to sections 1961, 1966, 1967, 1922, and 1969 of this title, and section 16(b) of the Act is set out as a note under section 1961 of this title. Sections 1 to 8, 10 to 13, and 16(a) of the Act, which were classified to sections 193a to 193m of former Title 40, Public Buildings, Property, and Works, were repealed and reenacted as sections 5101 to 5107 and 5109 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1312, the first section of which enacted Title 40. Section 5(c) of Pub. L. 107–217, set out as a note preceding section 101 of Title 40, provides that a reference to a law replaced by section 1 of Pub. L. 107–217 is deemed to refer to the corresponding provision enacted by Pub. L. 107–217. For complete classification of the act of July 31, 1946, to the Code, see Tables. For disposition of sections of former Title 40, see table at the beginning of Title 40.
 
 **Codification**
 
-Section was classified to section 212c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 212c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
-2021—Subsec. (a)(1). Pub. L. 117–77, § 2(a)(1), inserted “or in accordance with paragraph (4)” before “and on a permanent”.
+2021—Subsec. (a)(1). Pub. L. 117–77, § 2(a)(1), inserted “or in accordance with paragraph (4)” before “and on a permanent”.
 
-Subsec. (a)(4)(B). Pub. L. 117–77, § 2(a)(2)(A), struck out “advance” before “written request” in introductory provisions.
+Subsec. (a)(4)(B). Pub. L. 117–77, § 2(a)(2)(A), struck out “advance” before “written request” in introductory provisions.
 
-Subsec. (a)(4)(B)(ii)(III). Pub. L. 117–77, § 2(a)(2)(B), added subcl. (III).
+Subsec. (a)(4)(B)(ii)(III). Pub. L. 117–77, § 2(a)(2)(B), added subcl. (III).
 
-Subsec. (a)(5). Pub. L. 117–77, § 2(a)(3), added par. (5).
+Subsec. (a)(5). Pub. L. 117–77, § 2(a)(3), added par. (5).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–77, § 4, Dec. 22, 2021, 135 Stat. 1524, provided that: “The amendments made by this Act [amending this section and section 1974 of this title] shall take effect on October 1, 2021.”
+Pub. L. 117–77, § 4, Dec. 22, 2021, 135 Stat. 1524, provided that: “The amendments made by this Act [amending this section and section 1974 of this title] shall take effect on October 1, 2021.”
 
-### § 1971. Contributions of meals and refreshments during emergency duty
+### § 1971. Contributions of meals and refreshments during emergency duty
 
 At any time on or after November 12, 2001, the United States Capitol Police may accept contributions of meals and refreshments in support of activities of the United States Capitol Police during a period of emergency (as determined by the Capitol Police Board).
 
-(Pub. L. 107–68, title I, § 121, Nov. 12, 2001, 115 Stat. 576.)
+(Pub. L. 107–68, title I, § 121, Nov. 12, 2001, 115 Stat. 576.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 206d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 206d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 1972. Contributions of comfort and other incidental items and services during emergency duty
+### § 1972. Contributions of comfort and other incidental items and services during emergency duty
 
 In addition to the authority provided under section 1971 of this title, at any time on or after January 10, 2002, the Capitol Police Board may accept contributions of comfort and other incidental items and services to support officers and employees of the United States Capitol Police while such officers and employees are on duty in response to emergencies involving the safety of human life or the protection of property.
 
-(Pub. L. 107–117, div. B, § 910, Jan. 10, 2002, 115 Stat. 2322.)
+(Pub. L. 107–117, div. B, § 910, Jan. 10, 2002, 115 Stat. 2322.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 206d–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 206d–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 1973. Support and maintenance expenditures during emergency duty
+### § 1973. Support and maintenance expenditures during emergency duty
 
 At any time on or after November 12, 2001, the Capitol Police Board may incur obligations and make expenditures out of available appropriations for meals, refreshments and other support and maintenance for the Capitol Police when, in the judgment of the Capitol Police Board, such obligations and expenditures are necessary to respond to emergencies involving the safety of human life or the protection of property.
 
-(Pub. L. 107–68, title I, § 124, Nov. 12, 2001, 115 Stat. 576.)
+(Pub. L. 107–68, title I, § 124, Nov. 12, 2001, 115 Stat. 576.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was classified to section 206e of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 206e of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
-### § 1974. Capitol Police special officers
+### § 1974. Capitol Police special officers
 
 **(a) In general** In the event of an emergency, as determined by the Capitol Police Board or in a concurrent resolution of Congress, or as determined by the Chief of the Capitol Police in accordance with section 1970(a)(4)(B)(ii)(III) of this title, the Chief of the Capitol Police may appoint—
 
@@ -2527,7 +2527,7 @@ Subject to approval by the Speaker of the House of Representatives (in consultat
 
 This section shall take effect on February 20, 2003, and shall apply to fiscal year 2003 and each fiscal year thereafter.
 
-(Pub. L. 108–7, div. H, title I, § 1017, Feb. 20, 2003, 117 Stat. 365; Pub. L. 117–77, § 2(b), Dec. 22, 2021, 135 Stat. 1523.)
+(Pub. L. 108–7, div. H, title I, § 1017, Feb. 20, 2003, 117 Stat. 365; Pub. L. 117–77, § 2(b), Dec. 22, 2021, 135 Stat. 1523.)
 
 **Editorial Notes**
 
@@ -2537,19 +2537,19 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 117–77, § 2(b)(1), inserted “or as determined by the Chief of the Capitol Police in accordance with section 1970(a)(4)(B)(ii)(III) of this title,” after “Congress,” in introductory provisions and inserted concluding provisions.
+2021—Subsec. (a). Pub. L. 117–77, § 2(b)(1), inserted “or as determined by the Chief of the Capitol Police in accordance with section 1970(a)(4)(B)(ii)(III) of this title,” after “Congress,” in introductory provisions and inserted concluding provisions.
 
-Subsec. (c). Pub. L. 117–77, § 2(b)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “Any individual appointed under subsection (a) shall be subject to—
+Subsec. (c). Pub. L. 117–77, § 2(b)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “Any individual appointed under subsection (a) shall be subject to—
 
 “(1) qualification requirements as the Chief of the Capitol Police determines necessary; and
 
 “(2) approval by the Capitol Police Board.”
 
-Subsec. (d). Pub. L. 117–77, § 2(b)(3), (4), redesignated subsec. (f) as (d) and substituted “Majority Leader” for “President pro tempore”. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 117–77, § 2(b)(3), (4), redesignated subsec. (f) as (d) and substituted “Majority Leader” for “President pro tempore”. Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 117–77, § 2(b)(2), (3), redesignated subsec. (g) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “Any appointment under this section shall be subject to initial approval by the Capitol Police Board and to final approval by the Speaker of the House of Representatives (in consultation with the Minority Leader of the House of Representatives) and the President pro tempore of the Senate (in consultation with the Minority Leader of the Senate), acting jointly.”
+Subsec. (e). Pub. L. 117–77, § 2(b)(2), (3), redesignated subsec. (g) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “Any appointment under this section shall be subject to initial approval by the Capitol Police Board and to final approval by the Speaker of the House of Representatives (in consultation with the Minority Leader of the House of Representatives) and the President pro tempore of the Senate (in consultation with the Minority Leader of the Senate), acting jointly.”
 
-Subsecs. (f), (g). Pub. L. 117–77, § 2(b)(3), redesignated subsecs. (f) and (g) as (d) and (e), respectively.
+Subsecs. (f), (g). Pub. L. 117–77, § 2(b)(3), redesignated subsecs. (f) and (g) as (d) and (e), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2557,7 +2557,7 @@ Subsecs. (f), (g). Pub. L. 117–77, § 2(b)(3), redesignated subsecs. (f) and
 
 Amendment by Pub. L. 117–77 effective Oct. 1, 2021, see section 4 of Pub. L. 117–77, set out as a note under section 1970 of this title.
 
-### § 1975. Overseas travel
+### § 1975. Overseas travel
 
 **(a) Definition**
 
@@ -2587,7 +2587,7 @@ Any amounts received by the Capitol Police for reimbursements under subsection (
 
 This section shall apply to fiscal year 2005 and each fiscal year thereafter.
 
-(Pub. L. 108–447, div. G, title I, § 12, Dec. 8, 2004, 118 Stat. 3171.)
+(Pub. L. 108–447, div. G, title I, § 12, Dec. 8, 2004, 118 Stat. 3171.)
 
 **Editorial Notes**
 
@@ -2595,7 +2595,7 @@ This section shall apply to fiscal year 2005 and each fiscal year thereafter.
 
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
 
-### § 1975a. Overseas travel to accompany members of House leadership
+### § 1975a. Overseas travel to accompany members of House leadership
 
 **(a) Travel authorized**
 
@@ -2607,9 +2607,9 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 **(2) Definitions** In this subsection—
 
-**(A)** the term “House Leadership office” 1
+**(A)** the term “House Leadership office” 1
 
-<sup>1</sup>  So in original. The word “office” probably should be capitalized.
+<sup>1</sup> So in original. The word “office” probably should be capitalized.
 
 means an office of the House of Representatives for which the appropriation for salaries and expenses of the office for the year involved is provided under the heading “House Leadership Offices” in the act making appropriations for the Legislative Branch for the fiscal year involved;
 
@@ -2631,9 +2631,9 @@ Any amounts received by the Capitol Police for reimbursements under paragraph (1
 
 This section shall apply with respect to fiscal year 2017 and each succeeding fiscal year.
 
-(Pub. L. 115–31, div. I, title I, § 110, May 5, 2017, 131 Stat. 575.)
+(Pub. L. 115–31, div. I, title I, § 110, May 5, 2017, 131 Stat. 575.)
 
-### § 1976. Acceptance of donations of animals
+### § 1976. Acceptance of donations of animals
 
 **(a) In general**
 
@@ -2643,7 +2643,7 @@ The Capitol Police may accept the donation of animals to be used in the canine u
 
 This section shall apply with respect to fiscal year 2005 and each fiscal year thereafter.
 
-(Pub. L. 108–447, div. G, title I, § 1005, Dec. 8, 2004, 118 Stat. 3180.)
+(Pub. L. 108–447, div. G, title I, § 1005, Dec. 8, 2004, 118 Stat. 3180.)
 
 **Editorial Notes**
 
@@ -2651,7 +2651,7 @@ This section shall apply with respect to fiscal year 2005 and each fiscal year t
 
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
 
-### § 1977. Settlement and payment of tort claims
+### § 1977. Settlement and payment of tort claims
 
 **(a) Federal Tort Claims Act**
 
@@ -2713,7 +2713,7 @@ No settlement and payment of a claim under regulations prescribed under this sub
 
 This section shall apply to fiscal year 2005 and each fiscal year thereafter.
 
-(Pub. L. 108–447, div. G, title I, § 1006, Dec. 8, 2004, 118 Stat. 3180.)
+(Pub. L. 108–447, div. G, title I, § 1006, Dec. 8, 2004, 118 Stat. 3180.)
 
 **Editorial Notes**
 
@@ -2721,7 +2721,7 @@ This section shall apply to fiscal year 2005 and each fiscal year thereafter.
 
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
 
-### § 1978. Deployment outside of jurisdiction
+### § 1978. Deployment outside of jurisdiction
 
 **(a) Requirements for prior notice and approval** The Chief of the Capitol Police may not deploy any officer outside of the areas established by law for the jurisdiction of the Capitol Police unless—
 
@@ -2741,7 +2741,7 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 This section shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
 
-(Pub. L. 108–447, div. G, title I, § 1007, Dec. 8, 2004, 118 Stat. 3182; Pub. L. 111–145, § 2(c), Mar. 4, 2010, 124 Stat. 51.)
+(Pub. L. 108–447, div. G, title I, § 1007, Dec. 8, 2004, 118 Stat. 3182; Pub. L. 111–145, § 2(c), Mar. 4, 2010, 124 Stat. 51.)
 
 **Editorial Notes**
 
@@ -2753,7 +2753,7 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 2010—Subsec. (a)(1). Pub. L. 111–145 substituted “prior notification to the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, and” for “prior notification to”.
 
-### § 1979. Release of security information
+### § 1979. Release of security information
 
 **(a) Definition** In this section, the term “security information” means information that—
 
@@ -2779,7 +2779,7 @@ The Capitol Police Board may promulgate regulations to carry out this section, w
 
 **(2)** fiscal year 2005 and each fiscal year thereafter.
 
-(Pub. L. 108–447, div. G, title I, § 1009, Dec. 8, 2004, 118 Stat. 3182.)
+(Pub. L. 108–447, div. G, title I, § 1009, Dec. 8, 2004, 118 Stat. 3182.)
 
 **Editorial Notes**
 
@@ -2791,13 +2791,13 @@ This Act, referred to in subsec. (e)(1), is div. G of Pub. L. 108–447, Dec. 8,
 
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
 
-### § 1980. Mounted horse unit
+### § 1980. Mounted horse unit
 
 **(a)** The United States Capitol Police may not operate a mounted horse unit during fiscal year 2006 or any succeeding fiscal year.
 
 **(b)** Not later than 60 days after the date of the enactment of this Act, the Chief of the Capitol Police shall transfer to the Chief of the United States Park Police the horses, equipment, and supplies of the Capitol Police mounted horse unit which remain in the possession of the Capitol Police as of such date.
 
-(Pub. L. 109–55, title I, § 1002, Aug. 2, 2005, 119 Stat. 572.)
+(Pub. L. 109–55, title I, § 1002, Aug. 2, 2005, 119 Stat. 572.)
 
 **Editorial Notes**
 
@@ -2809,15 +2809,15 @@ The date of the enactment of this Act, referred to in subsec. (b), is the date o
 
 Section is from the Legislative Branch Appropriations Act, 2006.
 
-### § 1981. Advance payments
+### § 1981. Advance payments
 
-During fiscal year 2008 and each succeeding fiscal year, following notification of the Committees on Appropriations of the House of Representatives and the Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate 1
+During fiscal year 2008 and each succeeding fiscal year, following notification of the Committees on Appropriations of the House of Representatives and the Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 the Chief of the Capitol Police may make payments in advance for obligations of the United States Capitol Police for subscription services if the Chief determines it to be more prompt, efficient, or economical to do so.
 
-(Pub. L. 110–161, div. H, title I, § 1002, Dec. 26, 2007, 121 Stat. 2227; Pub. L. 111–145, § 2(d)(1), Mar. 4, 2010, 124 Stat. 51.)
+(Pub. L. 110–161, div. H, title I, § 1002, Dec. 26, 2007, 121 Stat. 2227; Pub. L. 111–145, § 2(d)(1), Mar. 4, 2010, 124 Stat. 51.)
 
 **Editorial Notes**
 
@@ -2833,13 +2833,13 @@ Section is from the Legislative Branch Appropriations Act, 2008, which is div. H
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–145, § 2(d)(2), Mar. 4, 2010, 124 Stat. 51, provided that: “The amendment made by this subsection [amending this section] shall take effect 30 days after the date of enactment of this Act [Mar. 4, 2010] and apply to payments made on or after that effective date.”
+Pub. L. 111–145, § 2(d)(2), Mar. 4, 2010, 124 Stat. 51, provided that: “The amendment made by this subsection [amending this section] shall take effect 30 days after the date of enactment of this Act [Mar. 4, 2010] and apply to payments made on or after that effective date.”
 
-### § 1982. Acceptance of surplus or obsolete property
+### § 1982. Acceptance of surplus or obsolete property
 
 Upon notifying the Committees of Appropriations of the House of Representatives and Senate, the United States Capitol Police may accept surplus or obsolete property offered by another Federal department, agency, or office.
 
-(Pub. L. 115–31, div. I, title I, § 1001(b), May 5, 2017, 131 Stat. 578.)
+(Pub. L. 115–31, div. I, title I, § 1001(b), May 5, 2017, 131 Stat. 578.)
 
 **Editorial Notes**
 

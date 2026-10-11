@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 67—FREEDOM FOR RUSSIA AND EMERGING EURASIAN DEMOCRACIES AND OPEN MARKETS SUPPORT
 
-## § 5801. Definition of independent states
+## § 5801. Definition of independent states
 
 For purposes of this Act, the terms “independent states of the former Soviet Union” and “independent states” mean the following: Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.
 
-(Pub. L. 102–511, § 3, Oct. 24, 1992, 106 Stat. 3321.)
+(Pub. L. 102–511, § 3, Oct. 24, 1992, 106 Stat. 3321.)
 
 **Editorial Notes**
 
@@ -31,27 +31,27 @@ This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 33
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–260, div. FF, title III, § 321, Dec. 27, 2020, 134 Stat. 3101, provided that: “This subtitle [subtitle C (§§ 321–330) of title III of div. FF of Pub. L. 116–260, amending provisions set out as a note under section 5811 of this title] may be cited as the ‘Belarus Democracy, Human Rights, and Sovereignty Act of 2020’.”
+Pub. L. 116–260, div. FF, title III, § 321, Dec. 27, 2020, 134 Stat. 3101, provided that: “This subtitle [subtitle C (§§ 321–330) of title III of div. FF of Pub. L. 116–260, amending provisions set out as a note under section 5811 of this title] may be cited as the ‘Belarus Democracy, Human Rights, and Sovereignty Act of 2020’.”
 
 **Short Title of 2012 Amendment**
 
-Pub. L. 112–82, § 1, Jan. 3, 2012, 125 Stat. 1863, provided that: “This Act [amending provisions set out as a note under section 5811 of this title] may be cited as the ‘Belarus Democracy and Human Rights Act of 2011’.”
+Pub. L. 112–82, § 1, Jan. 3, 2012, 125 Stat. 1863, provided that: “This Act [amending provisions set out as a note under section 5811 of this title] may be cited as the ‘Belarus Democracy and Human Rights Act of 2011’.”
 
 **Short Title of 2007 Amendment**
 
-Pub. L. 109–480, § 1, Jan. 12, 2007, 120 Stat. 3666, provided that: “This Act [enacting and amending provisions set out as notes under section 5811 of this title] may be cited as the ‘Belarus Democracy Reauthorization Act of 2006’.”
+Pub. L. 109–480, § 1, Jan. 12, 2007, 120 Stat. 3666, provided that: “This Act [enacting and amending provisions set out as notes under section 5811 of this title] may be cited as the ‘Belarus Democracy Reauthorization Act of 2006’.”
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–199, § 1, Dec. 17, 1993, 107 Stat. 2317, provided that: “This Act [amending sections 295, 2301, 2364, 2370, 2460, 2461, 2578, 2591, 2592, 2595, 2799c, 2799d, 4501 to 4504, 4702, and 4901 of this title, section 4101 of Title 15, Commerce and Trade, sections 1151 and 1152 of Title 16, Conservation, section 951 of Title 18, Crimes and Criminal Procedure, and sections 783, 4601, and 4602 of Title 50, War and National Defense, repealing sections 254c–2, 2592a, and 2592b of this title, sections 781, 782, 784, 785, 788 to 795, and 798 of Title 50, and former section 2403–1 of the former Appendix to Title 50, enacting provisions set out as notes under this section, sections 113 and 2431 of Title 10, Armed Forces, and section 4602 of Title 50, amending provisions set out as notes under section 4501 of this title, section 113 of Title 10, section 2901 of Title 15, and section 1003 of former Title 40, Public Buildings, Property, and Works, and repealing provisions set out as notes under sections 287, 2151, 2293, 2458, and 4301 of this title, section 1307 of Title 19, Customs Duties, and section 781 of Title 50] may be cited as the ‘Act For Reform In Emerging New Democracies and Support and Help for Improved Partnership with Russia, Ukraine, and Other New Independent States’ or as the ‘FRIENDSHIP Act’.”
+Pub. L. 103–199, § 1, Dec. 17, 1993, 107 Stat. 2317, provided that: “This Act [amending sections 295, 2301, 2364, 2370, 2460, 2461, 2578, 2591, 2592, 2595, 2799c, 2799d, 4501 to 4504, 4702, and 4901 of this title, section 4101 of Title 15, Commerce and Trade, sections 1151 and 1152 of Title 16, Conservation, section 951 of Title 18, Crimes and Criminal Procedure, and sections 783, 4601, and 4602 of Title 50, War and National Defense, repealing sections 254c–2, 2592a, and 2592b of this title, sections 781, 782, 784, 785, 788 to 795, and 798 of Title 50, and former section 2403–1 of the former Appendix to Title 50, enacting provisions set out as notes under this section, sections 113 and 2431 of Title 10, Armed Forces, and section 4602 of Title 50, amending provisions set out as notes under section 4501 of this title, section 113 of Title 10, section 2901 of Title 15, and section 1003 of former Title 40, Public Buildings, Property, and Works, and repealing provisions set out as notes under sections 287, 2151, 2293, 2458, and 4301 of this title, section 1307 of Title 19, Customs Duties, and section 781 of Title 50] may be cited as the ‘Act For Reform In Emerging New Democracies and Support and Help for Improved Partnership with Russia, Ukraine, and Other New Independent States’ or as the ‘FRIENDSHIP Act’.”
 
 **Short Title**
 
-Pub. L. 102–511, § 1, Oct. 24, 1992, 106 Stat. 3320, provided that: “This Act [enacting this chapter and sections 282m, 282n, 286e–1*l*, 286e–5b, 286e–13, 286*ll*, 286mm, 288j, 2295 to 2295c, and 5402 of this title, amending sections 262d, 2370, 2507, and 4903 of this title and sections 1736*o*, 3293, 5602, 5621, 5622, and 5651 of Title 7, Agriculture, enacting provisions set out as notes under sections 2295a, 2452, 2753, 4903, and 5812 of this title, section 5621 of Title 7, and section 955 of Title 18, Crimes and Criminal Procedure, amending provisions set out as notes under section 2452 of this title, section 5622 of Title 7, and sections 1157 and 1255 of Title 8, Aliens and Nationality, and repealing provisions set out as a note under section 2452 of this title] may be cited as the ‘Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992’ or the ‘FREEDOM Support Act’.”
+Pub. L. 102–511, § 1, Oct. 24, 1992, 106 Stat. 3320, provided that: “This Act [enacting this chapter and sections 282m, 282n, 286e–1*l*, 286e–5b, 286e–13, 286*ll*, 286mm, 288j, 2295 to 2295c, and 5402 of this title, amending sections 262d, 2370, 2507, and 4903 of this title and sections 1736*o*, 3293, 5602, 5621, 5622, and 5651 of Title 7, Agriculture, enacting provisions set out as notes under sections 2295a, 2452, 2753, 4903, and 5812 of this title, section 5621 of Title 7, and section 955 of Title 18, Crimes and Criminal Procedure, amending provisions set out as notes under section 2452 of this title, section 5622 of Title 7, and sections 1157 and 1255 of Title 8, Aliens and Nationality, and repealing provisions set out as a note under section 2452 of this title] may be cited as the ‘Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992’ or the ‘FREEDOM Support Act’.”
 
 **Policy of Friendship and Cooperation**
 
-Pub. L. 103–199, title I, §§ 101–103, Dec. 17, 1993, 107 Stat. 2318, 2319, provided that:
+Pub. L. 103–199, title I, §§ 101–103, Dec. 17, 1993, 107 Stat. 2318, 2319, provided that:
 
 > **“SEC. 101. STATEMENT OF PURPOSE.**
 
@@ -107,11 +107,11 @@ Pub. L. 103–199, title I, §§ 101–103, Dec. 17, 1993, 107 Stat. 2318, 231
 
 **Definitions for Pub. L. 103–199**
 
-Pub. L. 103–199, § 3, Dec. 17, 1993, 107 Stat. 2318, provided that: “As used in this Act [see Short Title of 1993 Amendment note above] (including the amendments made by this Act), the terms ‘independent states of the former Soviet Union’ and ‘independent states’ have the meaning given those terms by section 3 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5801).”
+Pub. L. 103–199, § 3, Dec. 17, 1993, 107 Stat. 2318, provided that: “As used in this Act [see Short Title of 1993 Amendment note above] (including the amendments made by this Act), the terms ‘independent states of the former Soviet Union’ and ‘independent states’ have the meaning given those terms by section 3 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5801).”
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 5811. Findings
+### § 5811. Findings
 
 The Congress finds that—
 
@@ -133,7 +133,7 @@ The Congress finds that—
 
 **(7)** trade and investment opportunities in the independent states of the former Soviet Union will generate employment and other economic benefits for the United States as the economies of the independent states of the former Soviet Union begin to realize their enormous potential as both customers and suppliers.
 
-(Pub. L. 102–511, title I, § 101, Oct. 24, 1992, 106 Stat. 3321.)
+(Pub. L. 102–511, title I, § 101, Oct. 24, 1992, 106 Stat. 3321.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -185,7 +185,7 @@ Pub. L. 112–208, title IV, Dec. 14, 2012, 126 Stat. 1502, provided that:
 
 > **“(13)** The second trial, verdict, and sentence against former Yukos executives Mikhail Khodorkovsky and Platon Lebedev evoke serious concerns about the right to a fair trial and the independence of the judiciary in the Russian Federation. The lack of credible charges, intimidation of witnesses, violations of due process and procedural norms, falsification or withholding of documents, denial of attorney-client privilege, and illegal detention in the Yukos case are highly troubling. The Council of Europe, Freedom House, and Amnesty International, among others, have concluded that they were charged and imprisoned in a process that did not follow the rule of law and was politically influenced. Furthermore, senior officials of the Government of the Russian Federation, including First Deputy Prime Minister Igor Shuvalov, have acknowledged that the arrest and imprisonment of Khodorkovsky were politically motivated.
 
-> **“(14)** According to Freedom House’s 2011 report entitled ‘The Perpetual Battle: Corruption in the Former Soviet Union and the New EU Members’, ‘[t]he highly publicized cases of Sergei Magnitsky, a 37-year-old lawyer who died in pretrial detention in November 2009 after exposing a multimillion-dollar fraud against the Russian taxpayer, and Mikhail Khodorkovsky, the jailed business magnate and regime critic who was sentenced at the end of 2010 to remain in prison through 2017, put an international spotlight on the Russian state’s contempt for the rule of law \* \* \*. By silencing influential and accomplished figures such as Khodorkovsky and Magnitsky, the Russian authorities have made it abundantly clear that anyone in Russia can be silenced.’.
+> **“(14)** According to Freedom House’s 2011 report entitled ‘The Perpetual Battle: Corruption in the Former Soviet Union and the New EU Members’, ‘[t]he highly publicized cases of Sergei Magnitsky, a 37-year-old lawyer who died in pretrial detention in November 2009 after exposing a multimillion-dollar fraud against the Russian taxpayer, and Mikhail Khodorkovsky, the jailed business magnate and regime critic who was sentenced at the end of 2010 to remain in prison through 2017, put an international spotlight on the Russian state’s contempt for the rule of law \* \* \*. By silencing influential and accomplished figures such as Khodorkovsky and Magnitsky, the Russian authorities have made it abundantly clear that anyone in Russia can be silenced.’.
 
 > **“(15)** The tragic and unresolved murders of Nustap Abdurakhmanov, Maksharip Aushev, Natalya Estemirova, Akhmed Hadjimagomedov, Umar Israilov, Paul Klebnikov, Anna Politkovskaya, Saihadji Saihadjiev, and Magomed Y. Yevloyev, the death in custody of Vera Trifonova, the disappearances of Mokhmadsalakh Masaev and Said-Saleh Ibragimov, the torture of Ali Israilov and Islam Umarpashaev, the near-fatal beatings of Mikhail Beketov, Oleg Kashin, Arkadiy Lander, and Mikhail Vinyukov, and the harsh and ongoing imprisonment of Mikhail Khodorkovsky, Alexei Kozlov, Platon Lebedev, and Fyodor Mikheev further illustrate the grave danger of exposing the wrongdoing of officials of the Government of the Russian Federation, including Chechen leader Ramzan Kadyrov, or of seeking to obtain, exercise, defend, or promote internationally recognized human rights and freedoms.
 
@@ -317,7 +317,7 @@ Pub. L. 112–208, title IV, Dec. 14, 2012, 126 Stat. 1502, provided that:
 
 **Belarus Democracy**
 
-Pub. L. 118–31, div. F, title LXIV, § 6406, Dec. 22, 2023, 137 Stat. 999, as amended by Pub. L. 118–159, div. G, title LXXII, § 7205, Dec. 23, 2024, 138 Stat. 2530, provided that:
+Pub. L. 118–31, div. F, title LXIV, § 6406, Dec. 22, 2023, 137 Stat. 999, as amended by Pub. L. 118–159, div. G, title LXXII, § 7205, Dec. 23, 2024, 138 Stat. 2530, provided that:
 
 > **“(a) Special Envoy.—** The President shall appoint a Special Envoy for Belarus within the Department [of State] (referred to in this section as the ‘Special Envoy’). The Special Envoy should be a person of recognized distinction in the field of European security, geopolitics, democracy and human rights, and may be a career Foreign Service Officer.
 
@@ -357,7 +357,7 @@ Pub. L. 118–31, div. F, title LXIV, § 6406, Dec. 22, 2023, 137 Stat. 999, a
 
 > **“(f) Sunset.—** The position of Special Envoy for Belarus and the authorities provided by this section shall terminate 5 years after the date of the enactment of this division.”
 
-Pub. L. 108–347, Oct. 20, 2004, 118 Stat. 1383, as amended by Pub. L. 109–480, §§ 2–4(c)(1), 5–8, Jan. 12, 2007, 120 Stat. 3666–3672; Pub. L. 112–82, §§ 2–6, Jan. 3, 2012, 125 Stat. 1863–1867; Pub. L. 116–260, div. FF, title III, §§ 322–329, Dec. 27, 2020, 134 Stat. 3101–3113, provided that:
+Pub. L. 108–347, Oct. 20, 2004, 118 Stat. 1383, as amended by Pub. L. 109–480, §§ 2–4(c)(1), 5–8, Jan. 12, 2007, 120 Stat. 3666–3672; Pub. L. 112–82, §§ 2–6, Jan. 3, 2012, 125 Stat. 1863–1867; Pub. L. 116–260, div. FF, title III, §§ 322–329, Dec. 27, 2020, 134 Stat. 3101–3113, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -847,7 +847,7 @@ Pub. L. 108–347, Oct. 20, 2004, 118 Stat. 1383, as amended by Pub. L. 109–48
 
 > **“(C)** any other individual determined by the Secretary of State (or the Secretary’s designee) to be personally and substantially involved in the formulation or execution of the policies of the Government of Belarus that are in contradiction of internationally recognized human rights standards.”
 
-[Pub. L. 109–480, § 4(c)(2), Jan. 12, 2007, 120 Stat. 3668, provided that: “The amendment made by paragraph (1) [amending section 4(d)(1) of Pub. L. 108–347, set out in the note above] shall not be construed to affect the availability of funds appropriated pursuant to the authorization of appropriations under section 4(d) of the Belarus Democracy Act of 2004 [Pub. L. 108–347] (as redesignated) before the date of the enactment of this Act [Jan. 12, 2007].” ]
+[Pub. L. 109–480, § 4(c)(2), Jan. 12, 2007, 120 Stat. 3668, provided that: “The amendment made by paragraph (1) [amending section 4(d)(1) of Pub. L. 108–347, set out in the note above] shall not be construed to affect the availability of funds appropriated pursuant to the authorization of appropriations under section 4(d) of the Belarus Democracy Act of 2004 [Pub. L. 108–347] (as redesignated) before the date of the enactment of this Act [Jan. 12, 2007].” ]
 
 **Presidential Report on Funding for New Independent States of Former Soviet Union**
 
@@ -855,7 +855,7 @@ Pub. L. 103–306, title II, Aug. 23, 1994, 108 Stat. 1617, provided in part tha
 
 Pub. L. 102–391, title III, Oct. 6, 1992, 106 Stat. 1650, provided in part that: “(d) Reports.—The President shall submit a report to the Committees on Appropriations containing the amount of funds obligated and expended for each project and subproject funded from amounts appropriated under this heading for the new independent states of the former Soviet Union. The report required by this subsection shall be submitted to the Committees on Appropriations no later than January 1, 1993, and an update of this report shall be submitted by the President to those Committees no later than July 1, 1993.”
 
-### § 5812. Program coordination, implementation, and oversight
+### § 5812. Program coordination, implementation, and oversight
 
 **(a) Coordination** The President shall designate, within the Department of State, a coordinator who shall be responsible for—
 
@@ -883,7 +883,7 @@ Consistent with subsection (a), coordination of activities relating to United St
 
 Any agency managing and implementing an assistance program for the independent states of the former Soviet Union shall be accountable for any funds made available to it for such program.
 
-(Pub. L. 102–511, title I, § 102, Oct. 24, 1992, 106 Stat. 3322; Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 596(c)], Nov. 29, 1999, 113 Stat. 1535, 1501A–126.)
+(Pub. L. 102–511, title I, § 102, Oct. 24, 1992, 106 Stat. 3322; Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 596(c)], Nov. 29, 1999, 113 Stat. 1535, 1501A–126.)
 
 **Editorial Notes**
 
@@ -891,7 +891,7 @@ Any agency managing and implementing an assistance program for the independent s
 
 This Act, referred to in subsec. (a)(2), (4), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), (4), is Pub. L. 87-195, Sept. 4, 1961, 75 Stat. 424. Chapter 12 of part I of the Act is classified generally to part XII [§ 2296 et seq.] of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), (4), is Pub. L. 87-195, Sept. 4, 1961, 75 Stat. 424. Chapter 12 of part I of the Act is classified generally to part XII [§ 2296 et seq.] of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Amendments**
 
@@ -901,7 +901,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), (4), is Pub. 
 
 **Russian and Ukrainian Business Management Education**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, subtitle B], Nov. 29, 1999, 113 Stat. 1536, 1501A–448, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, subtitle B], Nov. 29, 1999, 113 Stat. 1536, 1501A–448, provided that:
 
 > **“SEC. 421. PURPOSE.**
 
@@ -1013,11 +1013,11 @@ Pub. L. 107–115, title II [(g)(2)–(6)], Jan. 10, 2002, 115 Stat. 2129, provi
 
 [Functions of President under subsecs. (g)(4) and (6) of title II of Pub. L. 107–115, set out above, delegated to Secretary of State by section 1–100(a)(13) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.]
 
-Pub. L. 102–511, title IX, § 907, Oct. 24, 1992, 106 Stat. 3357, provided that: “United States assistance under this or any other Act (other than assistance under title V of this Act [22 U.S.C. 5851 et seq.]) may not be provided to the Government of Azerbaijan until the President determines, and so reports to the Congress, that the Government of Azerbaijan is taking demonstrable steps to cease all blockades and other offensive uses of force against Armenia and Nagorno-Karabakh.”
+Pub. L. 102–511, title IX, § 907, Oct. 24, 1992, 106 Stat. 3357, provided that: “United States assistance under this or any other Act (other than assistance under title V of this Act [22 U.S.C. 5851 et seq.]) may not be provided to the Government of Azerbaijan until the President determines, and so reports to the Congress, that the Government of Azerbaijan is taking demonstrable steps to cease all blockades and other offensive uses of force against Armenia and Nagorno-Karabakh.”
 
 **Support for Macroeconomic Stabilization in Independent States of Former Soviet Union**
 
-Pub. L. 102–511, title X, § 1004, Oct. 24, 1992, 106 Stat. 3360, provided that:
+Pub. L. 102–511, title X, § 1004, Oct. 24, 1992, 106 Stat. 3360, provided that:
 
 > **“(a) In General.—** In order to promote macroeconomic stabilization and the integration of the independent states of the former Soviet Union into the international financial system, enhance the opportunities for trade, improve the climate for foreign investment, and strengthen the process of transformation of the former socialist economies into free enterprise systems and thereby progressively enhance the well-being of the citizens of these states, the United States should in appropriate circumstances take a leading role in organizing and supporting multilateral efforts at macroeconomic stabilization and debt rescheduling, conditioned on the appropriate development and implementation of comprehensive economic reform programs.
 
@@ -1027,13 +1027,13 @@ Pub. L. 102–511, title X, § 1004, Oct. 24, 1992, 106 Stat. 3360, provided t
 
 **Report on Debt of Former Soviet Union Held by Commercial Financial Institutions**
 
-Pub. L. 102–511, title X, § 1007, Oct. 24, 1992, 106 Stat. 3361, directed Secretary of the Treasury, using information available from the International Monetary Fund, the International Bank for Reconstruction and Development, and other appropriate international financial institutions, to report to Congress, not later than one year after Oct. 24, 1992, on the debt incurred by the former Soviet Union that is held by commercial financial institutions outside the independent states of the former Soviet Union that are obligated on such debt.
+Pub. L. 102–511, title X, § 1007, Oct. 24, 1992, 106 Stat. 3361, directed Secretary of the Treasury, using information available from the International Monetary Fund, the International Bank for Reconstruction and Development, and other appropriate international financial institutions, to report to Congress, not later than one year after Oct. 24, 1992, on the debt incurred by the former Soviet Union that is held by commercial financial institutions outside the independent states of the former Soviet Union that are obligated on such debt.
 
 **Executive Documents**
 
 **Ex. Ord. No. 12884. Delegation of Functions Under Freedom Support Act and Related Provisions of Foreign Operations, Export Financing and Related Programs Appropriations Act**
 
-Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended by Ex. Ord. No. 13030, § 3, Dec. 12, 1996, 61 F.R. 66187; Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(a)(4), Oct. 21, 1998, 112 Stat. 2681–792; Ex. Ord. No. 13118, § 10(1), Mar. 31, 1999, 64 F.R. 16598, provided:
+Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended by Ex. Ord. No. 13030, § 3, Dec. 12, 1996, 61 F.R. 66187; Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(a)(4), Oct. 21, 1998, 112 Stat. 2681–792; Ex. Ord. No. 13118, § 10(1), Mar. 31, 1999, 64 F.R. 16598, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the FREEDOM Support Act (Public Law 102–511) (the “Act”) [22 U.S.C. 5801 et seq.], the Foreign Assistance Act of 1961, as amended (the “Foreign Assistance Act”) [22 U.S.C. 2151 et seq.], the Foreign Operations, Export Financing and Related Programs Appropriations Act, 1993 (Public Law 102–391) [see Tables for classification], and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -1089,7 +1089,7 @@ Sec. 6. *General*. (a) the [sic] functions described in sections 4 and 5 of this
 
 William J. Clinton.
 
-[Section 3 of Ex. Ord. No. 12884, set out above, was to cease to be effective pursuant to Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(a)(4), Oct. 21, 1998, 112 Stat. 2681–792.]
+[Section 3 of Ex. Ord. No. 12884, set out above, was to cease to be effective pursuant to Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1422(a)(4), Oct. 21, 1998, 112 Stat. 2681–792.]
 
 **Waiver of Restriction on Assistance to Azerbaijan**
 
@@ -1121,7 +1121,7 @@ Determination of President of the United States, No. 2003–12, Jan. 17, 2003, 6
 
 Determination of President of the United States, No. 2002–06, Jan. 25, 2002, 67 F.R. 5921.
 
-### § 5813. Report on overall assistance and economic cooperation strategy
+### § 5813. Report on overall assistance and economic cooperation strategy
 
 **(a) Requirement for submission**
 
@@ -1135,45 +1135,45 @@ As soon as practicable after October 24, 1992, the coordinator designated pursua
 
 **(3)** the amount of funds available for fiscal year 1993 under the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.] that are proposed to be made to each agency to carry out activities for the independent states under that Act or this Act.
 
-(Pub. L. 102–511, title I, § 103, Oct. 24, 1992, 106 Stat. 3323.)
+(Pub. L. 102–511, title I, § 103, Oct. 24, 1992, 106 Stat. 3323.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Chapter 11 of part I of the Act is classified generally to part XI (§ 2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Chapter 11 of part I of the Act is classified generally to part XI (§ 2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 This Act, referred to in subsec. (b)(3), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-### § 5814. Repealed. Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217
+### § 5814. Repealed. Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217
 
-Section, Pub. L. 102–511, title I, § 104, Oct. 24, 1992, 106 Stat. 3324; Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 596(d)], Nov. 29, 1999, 113 Stat. 1535, 1501A–126, required annual report on United States assistance for the independent states of the former Soviet Union.
+Section, Pub. L. 102–511, title I, § 104, Oct. 24, 1992, 106 Stat. 3324; Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 596(d)], Nov. 29, 1999, 113 Stat. 1535, 1501A–126, required annual report on United States assistance for the independent states of the former Soviet Union.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Restrictions on Assistance for New Independent States of Former Soviet Union; Report to Congress**
 
-Pub. L. 103–87, title V, § 560(g), Sept. 30, 1993, 107 Stat. 967, which related to restrictions on availability of funds to new independent states of the former Soviet Union and Secretary of State’s annual report, was repealed by Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217.
+Pub. L. 103–87, title V, § 560(g), Sept. 30, 1993, 107 Stat. 967, which related to restrictions on availability of funds to new independent states of the former Soviet Union and Secretary of State’s annual report, was repealed by Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217.
 
-Similar provisions relating to nonavailability of funds to any government of the new independent states of the former Soviet Union if that government directs any action in violation of the territorial integrity or national sovereignty of any other new independent state, were contained in the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2006, Pub. L. 109–102, title V, § 517(a), Nov. 14, 2005, 119 Stat. 2201, and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
+Similar provisions relating to nonavailability of funds to any government of the new independent states of the former Soviet Union if that government directs any action in violation of the territorial integrity or national sovereignty of any other new independent state, were contained in the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2006, Pub. L. 109–102, title V, § 517(a), Nov. 14, 2005, 119 Stat. 2201, and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
 
-Pub. L. 108–447, div. D, title V, § 517(a), Dec. 8, 2004, 118 Stat. 2996.
+Pub. L. 108–447, div. D, title V, § 517(a), Dec. 8, 2004, 118 Stat. 2996.
 
-Pub. L. 108–199, div. D, title V, § 517(b), Jan. 23, 2004, 118 Stat. 173.
+Pub. L. 108–199, div. D, title V, § 517(b), Jan. 23, 2004, 118 Stat. 173.
 
-Pub. L. 108–7, div. E, title V, § 517(b), Feb. 20, 2003, 117 Stat. 185.
+Pub. L. 108–7, div. E, title V, § 517(b), Feb. 20, 2003, 117 Stat. 185.
 
-Pub. L. 107–115, title V, § 517(b), Jan. 10, 2002, 115 Stat. 2144.
+Pub. L. 107–115, title V, § 517(b), Jan. 10, 2002, 115 Stat. 2144.
 
-Pub. L. 106–429, § 101(a) [title V, § 517(b)], Nov. 6, 2000, 114 Stat. 1900, 1900A–27.
+Pub. L. 106–429, § 101(a) [title V, § 517(b)], Nov. 6, 2000, 114 Stat. 1900, 1900A–27.
 
-Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 517(b)], Nov. 29, 1999, 113 Stat. 1535, 1501A–86.
+Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 517(b)], Nov. 29, 1999, 113 Stat. 1535, 1501A–86.
 
-Pub. L. 105–277, div. A, § 101(d) [title V, § 517(b)], Oct. 21, 1998, 112 Stat. 2681–150, 2681–174.
+Pub. L. 105–277, div. A, § 101(d) [title V, § 517(b)], Oct. 21, 1998, 112 Stat. 2681–150, 2681–174.
 
 Pub. L. 105–118, title II, [(c)], Nov. 26, 1997, 111 Stat. 2395.
 
-Pub. L. 104–208, div. A, title I, § 101(c) [title II, [(d)]], Sept. 30, 1996, 110 Stat. 3009–121, 3009–130.
+Pub. L. 104–208, div. A, title I, § 101(c) [title II, [(d)]], Sept. 30, 1996, 110 Stat. 3009–121, 3009–130.
 
 Pub. L. 104–107, title II, [(d)], Feb. 12, 1996, 110 Stat. 712.
 
@@ -1181,7 +1181,7 @@ Pub. L. 103–306, title II, Aug. 23, 1994, 108 Stat. 1616.
 
 ## SUBCHAPTER II—BUSINESS AND COMMERCIAL DEVELOPMENT
 
-### § 5821. American Business Centers
+### § 5821. American Business Centers
 
 **(a) Establishment**
 
@@ -1223,13 +1223,13 @@ Not later than 90 days after October 24, 1992, the Administrator of the Agency f
 
 Of the amount authorized to be appropriated to carry out chapter 11 of part I of the Foreign Assistance Act of 1961 [22 U.S.C. 2295 et seq.], up to $12,000,000 for fiscal year 1993 are authorized to be appropriated to carry out this section, in addition to amounts otherwise available for such purpose.
 
-(Pub. L. 102–511, title III, § 301, Oct. 24, 1992, 106 Stat. 3332.)
+(Pub. L. 102–511, title III, § 301, Oct. 24, 1992, 106 Stat. 3332.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 11 of part I of the Act is classified generally to part XI (§ 2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 11 of part I of the Act is classified generally to part XI (§ 2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Executive Documents**
 
@@ -1237,7 +1237,7 @@ The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (d)(2), is P
 
 Functions of President under subsec. (a) delegated to Secretary of State except that functions of President under this section, insofar as relating to determinations and directives, delegated to Coordinator, see sections 2(b) and 3(a) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under section 5812 of this title.
 
-### § 5822. Business and Agriculture Advisory Council
+### § 5822. Business and Agriculture Advisory Council
 
 **(a) Establishment** The President is authorized to establish an advisory council to be known as the Independent States Business and Agriculture Advisory Council (hereinafter in this section referred to as the “Council”)—
 
@@ -1253,7 +1253,7 @@ The Council should consist of 15 members, appointed by the President, who are dr
 
 Upon request of the Chair of the Council, the head of any United States Government agency may detail, on a nonreimbursable basis, any of the personnel of such agency to the Council to assist the Council.
 
-(Pub. L. 102–511, title III, § 302, Oct. 24, 1992, 106 Stat. 3333.)
+(Pub. L. 102–511, title III, § 302, Oct. 24, 1992, 106 Stat. 3333.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1261,7 +1261,7 @@ Upon request of the Chair of the Council, the head of any United States Governme
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-### § 5823. Funding for export promotion activities and capital projects
+### § 5823. Funding for export promotion activities and capital projects
 
 **(a) Allocation of A.I.D. funds** The President is encouraged to use a portion of the funds made available for the independent states of the former Soviet Union under chapter 11 of part I of the Foreign Assistance Act of 1961 [22 U.S.C. 2295 et seq.]—
 
@@ -1285,15 +1285,15 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 
 **(7)** Supporting the Business Information Service (BISNIS) and its related programs.
 
-(Pub. L. 102–511, title III, § 303, Oct. 24, 1992, 106 Stat. 3333.)
+(Pub. L. 102–511, title III, § 303, Oct. 24, 1992, 106 Stat. 3333.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 11 of part I of the Act is classified generally to part XI (§ 2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 11 of part I of the Act is classified generally to part XI (§ 2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-### § 5824. Interagency working group on energy of the Trade Promotion Coordinating Committee
+### § 5824. Interagency working group on energy of the Trade Promotion Coordinating Committee
 
 The Trade Promotion Coordinating Committee should utilize its interagency working group on energy to assist United States energy sector companies to develop a long-term strategy for penetrating the energy market in the independent states of the former Soviet Union. The working group should—
 
@@ -1303,19 +1303,19 @@ The Trade Promotion Coordinating Committee should utilize its interagency workin
 
 **(3)** work with representatives from United States business and industry involved with the energy sector to help facilitate the identification of business opportunities, including the promotion of oil, gas, and clean coal technology and products, energy efficiency, and the formation of joint ventures between United States companies and companies of the independent nations.
 
-(Pub. L. 102–511, title III, § 304, Oct. 24, 1992, 106 Stat. 3334.)
+(Pub. L. 102–511, title III, § 304, Oct. 24, 1992, 106 Stat. 3334.)
 
-### § 5825. Repealed. Pub. L. 104–66, title I, § 1021(e), Dec. 21, 1995, 109 Stat. 713
+### § 5825. Repealed. Pub. L. 104–66, title I, § 1021(e), Dec. 21, 1995, 109 Stat. 713
 
-Section, Pub. L. 102–511, title III, § 305, Oct. 24, 1992, 106 Stat. 3335, directed Secretary of Commerce to submit to Congress annual reports describing implementation of business and commercial development provisions, analyzing programs of other industrialized countries, and examining trade practices of other Organization for Economic Cooperation and Development nations.
+Section, Pub. L. 102–511, title III, § 305, Oct. 24, 1992, 106 Stat. 3335, directed Secretary of Commerce to submit to Congress annual reports describing implementation of business and commercial development provisions, analyzing programs of other industrialized countries, and examining trade practices of other Organization for Economic Cooperation and Development nations.
 
-### § 5826. Policy on combatting tied aid practices
+### § 5826. Policy on combatting tied aid practices
 
 Should the Secretary of the Treasury determine that foreign countries are engaged in tied aid practices with respect to any of the independent states of the former Soviet Union that violate the 1991 Helsinki agreement of the Organization for Economic Cooperation and Development, the President should give priority attention to combatting such practices.
 
-(Pub. L. 102–511, title III, § 306, Oct. 24, 1992, 106 Stat. 3335.)
+(Pub. L. 102–511, title III, § 306, Oct. 24, 1992, 106 Stat. 3335.)
 
-### § 5827. Technical assistance for Russian Far East
+### § 5827. Technical assistance for Russian Far East
 
 **(a) Authorization**
 
@@ -1325,7 +1325,7 @@ The President is authorized to provide technical assistance, through an American
 
 There are authorized to be appropriated $2,000,000 to carry out subsection (a).
 
-(Pub. L. 102–511, title III, § 307, Oct. 24, 1992, 106 Stat. 3335.)
+(Pub. L. 102–511, title III, § 307, Oct. 24, 1992, 106 Stat. 3335.)
 
 **Executive Documents**
 
@@ -1333,13 +1333,13 @@ There are authorized to be appropriated $2,000,000 to carry out subsection (a).
 
 For delegation of certain functions of President under this section, see section 3(a) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under section 5812 of this title.
 
-### § 5828. Funding for OPIC programs
+### § 5828. Funding for OPIC programs
 
 **(a) Authority to make additional funds available**
 
 Funds authorized to be appropriated for fiscal year 1993 to carry out chapter 11 of part I of the Foreign Assistance Act of 1961 [22 U.S.C. 2295 et seq.] may be made available to cover costs incurred by the Overseas Private Investment Corporation in carrying out programs with respect to the independent states of the former Soviet Union under title IV of chapter 2 of part I of that Act (22 U.S.C. 2191 and following),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 in addition to amounts otherwise available for that purpose.
 
@@ -1347,13 +1347,13 @@ in addition to amounts otherwise available for that purpose.
 
 The authority of subsection (a) shall cease to be effective upon the enactment of the Overseas Private Investment Corporation Act Amendments Act of 1992.
 
-(Pub. L. 102–511, title III, § 308, Oct. 24, 1992, 106 Stat. 3335.)
+(Pub. L. 102–511, title III, § 308, Oct. 24, 1992, 106 Stat. 3335.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 11 of part I of the Act is classified generally to part II (§ 2295 et seq.) of subchapter I of chapter 32 of this title. Title IV of chapter 2 of part I of the Act, which was classified generally to subpart IV (§ 2191 et seq.) of part II of subchapter I of chapter 32 of this title, was repealed, except for subsections (g), (*l*), (m), and (n) of section 2197 of this title, by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, effective at the end of the transition period, as defined in section 9681 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 11 of part I of the Act is classified generally to part II (§ 2295 et seq.) of subchapter I of chapter 32 of this title. Title IV of chapter 2 of part I of the Act, which was classified generally to subpart IV (§ 2191 et seq.) of part II of subchapter I of chapter 32 of this title, was repealed, except for subsections (g), (*l*), (m), and (n) of section 2197 of this title, by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, effective at the end of the transition period, as defined in section 9681 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Overseas Private Investment Corporation Act Amendments Act of 1992, referred to in subsec. (b), probably means the Overseas Private Investment Corporation Amendments Act of 1992, which was title I of H.R. 4996, 102d Congress, as passed by the House of Representatives. H.R. 4996 was enacted into law as Pub. L. 102–549 and title I was significantly revised and no longer contained provisions designating it as the Overseas Private Investment Corporation Amendments Act of 1992.
 
@@ -1365,7 +1365,7 @@ For transfer of functions, personnel, assets, and liabilities of the Overseas Pr
 
 ## SUBCHAPTER III—THE DEMOCRACY CORPS
 
-### § 5841. Authorization for establishment of Democracy Corps
+### § 5841. Authorization for establishment of Democracy Corps
 
 **(a) Establishment; purpose**
 
@@ -1445,17 +1445,17 @@ Grants may not be made to the Democracy Corps under this section after the end o
 
 **(2)** the term “Board” means the Board of Directors of the Democracy Corps.
 
-(Pub. L. 102–511, title IV, § 401, Oct. 24, 1992, 106 Stat. 3335.)
+(Pub. L. 102–511, title IV, § 401, Oct. 24, 1992, 106 Stat. 3335.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (j), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 11 of part I of the Act is classified generally to part XI (§ 2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (j), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 11 of part I of the Act is classified generally to part XI (§ 2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 ## SUBCHAPTER IV—NONPROLIFERATION AND DISARMAMENT PROGRAMS AND ACTIVITIES
 
-### § 5851. Findings
+### § 5851. Findings
 
 The Congress finds that it is in the national security interest of the United States—
 
@@ -1473,9 +1473,9 @@ The Congress finds that it is in the national security interest of the United St
 
 **(3)** to expand military-to-military contacts between the United States and the independent states.
 
-(Pub. L. 102–511, title V, § 501, Oct. 24, 1992, 106 Stat. 3338.)
+(Pub. L. 102–511, title V, § 501, Oct. 24, 1992, 106 Stat. 3338.)
 
-### § 5852. Eligibility
+### § 5852. Eligibility
 
 Funds may be obligated for a fiscal year for assistance or other programs or activities for an independent state of the former Soviet Union under sections 5853 and 5854 of this title only if the President has certified to the Congress, during that fiscal year, that such independent state is committed to—
 
@@ -1487,23 +1487,23 @@ Funds may be obligated for a fiscal year for assistance or other programs or act
 
 **(4)** facilitating United States verification of any weapons destruction carried out under section 5853(a) or 5854(a) of this title or section 212 of the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228; 22 U.S.C. 2551 note).
 
-(Pub. L. 102–511, title V, § 502, Oct. 24, 1992, 106 Stat. 3338.)
+(Pub. L. 102–511, title V, § 502, Oct. 24, 1992, 106 Stat. 3338.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 212 of the Soviet Nuclear Threat Reduction Act of 1991, referred to in par. (4), is section 212 of Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, which was set out in a note under section 2551 of this title, and was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606.
+Section 212 of the Soviet Nuclear Threat Reduction Act of 1991, referred to in par. (4), is section 212 of Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, which was set out in a note under section 2551 of this title, and was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Inapplicability to Cooperative Threat Reduction Programs**
 
-Pub. L. 110–181, div. A, title XIII, § 1304(b), Jan. 28, 2008, 122 Stat. 413, provided that: “Section 502 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5852) shall not apply to any Cooperative Threat Reduction program.”
+Pub. L. 110–181, div. A, title XIII, § 1304(b), Jan. 28, 2008, 122 Stat. 413, provided that: “Section 502 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5852) shall not apply to any Cooperative Threat Reduction program.”
 
 **Definition of Cooperative Threat Reduction Programs for Purposes of Pub. L. 110–181**
 
-Pub. L. 110–181, div. A, title XIII, § 1301(a), Jan. 28, 2008, 122 Stat. 410, provided that: “For purposes of section 301 [122 Stat. 53] and other provisions of this Act [see Tables for classification], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 [Pub. L. 104–201] ([former] 50 U.S.C. 2362 note), as amended by section 1303 of this Act.”
+Pub. L. 110–181, div. A, title XIII, § 1301(a), Jan. 28, 2008, 122 Stat. 410, provided that: “For purposes of section 301 [122 Stat. 53] and other provisions of this Act [see Tables for classification], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 [Pub. L. 104–201] ([former] 50 U.S.C. 2362 note), as amended by section 1303 of this Act.”
 
 **Executive Documents**
 
@@ -1525,7 +1525,7 @@ The Secretary of State is directed to publish this memorandum in the Federal Reg
 
 George Bush.
 
-### § 5853. Nonproliferation and disarmament activities in independent states
+### § 5853. Nonproliferation and disarmament activities in independent states
 
 **(a) Authorization** The President is authorized to promote bilateral and multilateral nonproliferation and disarmament activities—
 
@@ -1557,13 +1557,13 @@ In recognition of the direct contributions to the national security interests of
 
 **(2) Limitation**
 
-Funds described in paragraph (1) may not be obligated for programs and activities under subsection (a) unless the Director of the Office of Management and Budget has determined that expenditures during fiscal year 1993 pursuant to such obligation shall be counted against the defense category of the discretionary spending limits for that fiscal year (as defined in section 665(a)(2) 1
+Funds described in paragraph (1) may not be obligated for programs and activities under subsection (a) unless the Director of the Office of Management and Budget has determined that expenditures during fiscal year 1993 pursuant to such obligation shall be counted against the defense category of the discretionary spending limits for that fiscal year (as defined in section 665(a)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 900 et seq.].
 
-(Pub. L. 102–511, title V, § 503, Oct. 24, 1992, 106 Stat. 3338.)
+(Pub. L. 102–511, title V, § 503, Oct. 24, 1992, 106 Stat. 3338.)
 
 **Editorial Notes**
 
@@ -1571,17 +1571,17 @@ of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit 
 
 Sections 108 and 109 of Public Law 102–229, referred to in subsec. (c)(1), are sections 108 and 109 of Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1708, which are not classified to the Code.
 
-Section 506(a) of this Act, referred to in subsec. (c)(1), is section 506(a) of Pub. L. 102–511, which was classified to section 5856(a) of this title and was omitted from the Code. Section 506(a) directed amendment of section 221 of Pub. L. 102–228, which was set out in a note under section 2551 of this title, but did not become effective pursuant to section 5856(c) of this title and was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606.
+Section 506(a) of this Act, referred to in subsec. (c)(1), is section 506(a) of Pub. L. 102–511, which was classified to section 5856(a) of this title and was omitted from the Code. Section 506(a) directed amendment of section 221 of Pub. L. 102–228, which was set out in a note under section 2551 of this title, but did not become effective pursuant to section 5856(c) of this title and was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606.
 
-Section 665 of title 2, referred to in subsec. (c)(2), was repealed by Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695.
+Section 665 of title 2, referred to in subsec. (c)(2), was repealed by Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695.
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (c)(2), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Part C of the Act is classified generally to subchapter I (§ 900 et seq.) of chapter 20 of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (c)(2), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Part C of the Act is classified generally to subchapter I (§ 900 et seq.) of chapter 20 of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Funding for Science and Technology Centers in the Former Soviet Union**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1138], Nov. 29, 1999, 113 Stat. 1536, 1501A–496, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1138], Nov. 29, 1999, 113 Stat. 1536, 1501A–496, provided that:
 
 > **“(a) Authorization.—** For fiscal year 2001 and subsequent fiscal years, funds made available under ‘Nonproliferation, Antiterrorism, Demining, and Related Programs’ accounts in annual foreign operations appropriations Acts are authorized to be available for science and technology centers in the independent states of the former Soviet Union assisted under section 503(a)(5) of the FREEDOM Support Act (22 U.S.C. 5853(a)(5)) or section 1412(b)(5) [former 22 U.S.C. 5902(b)(5)] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484; 22 U.S.C. 5901 et seq.), including the use of those and other funds by any Federal agency having expertise and programs related to the activities carried out by those centers, including the Departments of Agriculture, Commerce, and Health and Human Services and the Environmental Protection Agency.
 
@@ -1589,7 +1589,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1138], Nov. 2
 
 **Research and Exchange Activities by Science and Technology Centers**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1139], Nov. 29, 1999, 113 Stat. 1536, 1501A–496, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1139], Nov. 29, 1999, 113 Stat. 1536, 1501A–496, provided that:
 
 > **“(a) In General.—** Support for science and technology centers in the independent states of the former Soviet Union, as authorized by section 503(a)(5) of the FREEDOM Support Act (22 U.S.C. 5853(a)(5)) and section 1412(b) [former 22 U.S.C. 5902(b)] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484, 22 U.S.C. 5901 et seq.), is authorized for activities described in subsection (b) to support the redirection of former Soviet weapons scientists, especially those with expertise in weapons of mass destruction (nuclear, radiological, chemical, biological), missile and other delivery systems, and other advanced technologies with military applications.
 
@@ -1605,7 +1605,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1139], Nov. 2
 
 Authority of President under this section delegated to Secretary of Defense by section 2 of Memorandum of President of the United States, Dec. 30, 1992, 58 F.R. 3193, set out as a note under section 5852 of this title.
 
-### § 5854. Nonproliferation and disarmament fund
+### § 5854. Nonproliferation and disarmament fund
 
 **(a) Authorization** The President is authorized to promote bilateral and multilateral nonproliferation and disarmament activities—
 
@@ -1643,13 +1643,13 @@ As used in paragraph (1), the term “security assistance funds” means funds m
 
 Section 531(e) of the Foreign Assistance Act of 1961 [22 U.S.C. 2346(e)], and any provision that corresponds to section 510 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991 (relating to the prohibition on financing exports of nuclear equipment, fuel, and technology), shall not apply with respect to funds used pursuant to this subsection.
 
-(Pub. L. 102–511, title V, § 504, Oct. 24, 1992, 106 Stat. 3339.)
+(Pub. L. 102–511, title V, § 504, Oct. 24, 1992, 106 Stat. 3339.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 510 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991, referred to in subsec. (c)(3), is section 510 of Pub. L. 101–513, title V, Nov. 5, 1991, 104 Stat. 2003, which is not classified to the Code.
 
@@ -1673,11 +1673,11 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 William J. Clinton.
 
-### § 5855. Limitations on defense conversion authorities
+### § 5855. Limitations on defense conversion authorities
 
 Notwithstanding any other provision of law (including any other provision of this Act), funds may not be obligated in any fiscal year for purposes of facilitating the conversion of military technologies and capabilities and defense industries of the former Soviet Union into civilian activities, as authorized by sections 5853(a)(6) and 5854(a)(6) of this title or any other provision of law, unless the President has previously obligated in the same fiscal year an amount equal to or greater than that amount of funds for defense conversion and defense transition activities in the United States. For purposes of this section, the term “defense conversion and defense transition activities in the United States” means those United States Government funded programs whose primary purpose is to assist United States private sector defense workers, United States companies that manufacture or otherwise provide defense goods or services, or United States communities adversely affected by reductions in United States defense spending, such as programs funded through the Office of Economic Adjustment in the Department of Defense or through the Economic Development Administration.
 
-(Pub. L. 102–511, title V, § 505, Oct. 24, 1992, 106 Stat. 3340; Pub. L. 105–277, div. A, § 101(f) [title IV, § 405(d)(20)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422.)
+(Pub. L. 102–511, title V, § 505, Oct. 24, 1992, 106 Stat. 3340; Pub. L. 105–277, div. A, § 101(f) [title IV, § 405(d)(20)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422.)
 
 **Editorial Notes**
 
@@ -1687,9 +1687,9 @@ This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 33
 
 **Amendments**
 
-1998—Pub. L. 105–277 substituted “or through” for “, through the Defense Conversion Adjustment Program (as authorized by the Job Training Partnership Act), or through” in last sentence.
+1998—Pub. L. 105–277 substituted “or through” for “, through the Defense Conversion Adjustment Program (as authorized by the Job Training Partnership Act), or through” in last sentence.
 
-### § 5856. Soviet weapons destruction
+### § 5856. Soviet weapons destruction
 
 **(a) , (b) Omitted**
 
@@ -1697,7 +1697,7 @@ This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 33
 
 The amendments made by this section shall not be effective if the National Defense Authorization Act for Fiscal Year 1993 enacts an amendment to section 221(a) of the Soviet Nuclear Threat Reduction Act of 1991 that authorizes the transfer of an amount that is the same or greater than the amount that is authorized by the amendment made by subsection (a)(1) of this section and enacts amendments identical to those in subsections (a)(2) and (b) of this section. If that Act enacts such amendments, sections 5853 and 5858 of this title shall be deemed to apply with respect to the funds made available under such amendments.
 
-(Pub. L. 102–511, title V, § 506, Oct. 24, 1992, 106 Stat. 3341.)
+(Pub. L. 102–511, title V, § 506, Oct. 24, 1992, 106 Stat. 3341.)
 
 **Editorial Notes**
 
@@ -1707,13 +1707,13 @@ For the amendments made by this section, referred to in subsec. (c), see Codific
 
 The National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (c), is Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2315. For complete classification of this Act to the Code, see Tables. See, also, Codification note below.
 
-Section 221(a) of the Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c), was section 221(a) of Pub. L. 102–228, which was set out in a note under section 2551 of this title prior to repeal by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606. See Codification note below.
+Section 221(a) of the Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c), was section 221(a) of Pub. L. 102–228, which was set out in a note under section 2551 of this title prior to repeal by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606. See Codification note below.
 
 **Codification**
 
-Section is comprised of section 506 of Pub. L. 102–511. Subsec. (a) of this section directed the amendment of section 221 of Pub. L. 102–228, which was set out in a note under section 2551 of this title and was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606. Subsec. (b) of this section directed the amendment of sections 108 and 109 of Pub. L. 102–229, which are not classified to the Code. Because of amendments by section 1421(a)(2)(B), (3) and (b) of Pub. L. 102–484, div. A, title XIV, Oct. 23, 1992, 106 Stat. 2565, to section 221 of Pub. L. 102–228 and sections 108 and 109 of Pub. L. 102–229, the amendments directed by subsecs. (a) and (b) of this section did not take effect pursuant to subsec. (c) of this section.
+Section is comprised of section 506 of Pub. L. 102–511. Subsec. (a) of this section directed the amendment of section 221 of Pub. L. 102–228, which was set out in a note under section 2551 of this title and was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606. Subsec. (b) of this section directed the amendment of sections 108 and 109 of Pub. L. 102–229, which are not classified to the Code. Because of amendments by section 1421(a)(2)(B), (3) and (b) of Pub. L. 102–484, div. A, title XIV, Oct. 23, 1992, 106 Stat. 2565, to section 221 of Pub. L. 102–228 and sections 108 and 109 of Pub. L. 102–229, the amendments directed by subsecs. (a) and (b) of this section did not take effect pursuant to subsec. (c) of this section.
 
-### § 5857. Waiver of certain provisions
+### § 5857. Waiver of certain provisions
 
 **(a) In general**
 
@@ -1725,7 +1725,7 @@ Funds made available for fiscal year 1993 under sections 5853 and 5854 of this t
 
 **(2)** section 1341 of title 31 (commonly referred to as the “Anti-Deficiency Act”), the Congressional Budget and Impoundment Control Act of 1974, the Balanced Budget and Emergency Deficit Control Act of 1985, and the Budget Enforcement Act of 1990.
 
-(Pub. L. 102–511, title V, § 507, Oct. 24, 1992, 106 Stat. 3341.)
+(Pub. L. 102–511, title V, § 507, Oct. 24, 1992, 106 Stat. 3341.)
 
 **Editorial Notes**
 
@@ -1733,15 +1733,15 @@ Funds made available for fiscal year 1993 under sections 5853 and 5854 of this t
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (b)(2), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (b)(2), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (b)(2), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 The Budget Enforcement Act of 1990, referred to in subsec. (b)(2), is title XIII of Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388–573. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 900 of Title 2 and Tables.
 
-### § 5858. Notice and reports to Congress
+### § 5858. Notice and reports to Congress
 
 **(a) Notice of proposed obligations** Not less than 15 days before obligating any funds under section 5853 or 5854 of this title or the amendments made by section 506(a),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the President shall transmit to the Speaker of the House of Representatives, the President Pro Tempore of the Senate, and the appropriate congressional committees a report on the proposed obligation. Each such report shall specify—
 
@@ -1769,17 +1769,17 @@ the President shall transmit to the Speaker of the House of Representatives, the
 
 **(B)** the Committees on Armed Services and the Committees on Appropriations of the Senate and the House of Representatives, wherever the account, budget activity, or program is funded from appropriations made under the national defense budget function (050); and
 
-**(2)** the committee to which the specified activities of section 5853(a) or 5854(a) of this title or subtitle B <sup>1</sup> of the Soviet Nuclear Threat Reduction Act of 1991 (as the case may be), if the subject of separate legislation, would be referred, under the rules of the respective House of Congress.
+**(2)** the committee to which the specified activities of section 5853(a) or 5854(a) of this title or subtitle B <sup>1</sup> of the Soviet Nuclear Threat Reduction Act of 1991 (as the case may be), if the subject of separate legislation, would be referred, under the rules of the respective House of Congress.
 
-(Pub. L. 102–511, title V, § 508, Oct. 24, 1992, 106 Stat. 3342.)
+(Pub. L. 102–511, title V, § 508, Oct. 24, 1992, 106 Stat. 3342.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 506(a), referred to in subsecs. (a) and (b), is section 506(a) of Pub. L. 102–511, which was classified to section 5856(a) of this title and was omitted from the Code. Section 506(a) directed amendment of section 221 of Pub. L. 102–228, which was set out in a note under section 2551 of this title, but did not become effective, pursuant to section 5856(c) of this title. Section 221 of Pub. L. 102–228 was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606.
+Section 506(a), referred to in subsecs. (a) and (b), is section 506(a) of Pub. L. 102–511, which was classified to section 5856(a) of this title and was omitted from the Code. Section 506(a) directed amendment of section 221 of Pub. L. 102–228, which was set out in a note under section 2551 of this title, but did not become effective, pursuant to section 5856(c) of this title. Section 221 of Pub. L. 102–228 was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606.
 
-The Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c)(2), is title II of Pub. L. 102–228, Dec. 12, 1991, 105 Stat. 1693. The reference to subtitle B of the Act probably means part B of the Act because title II of Pub. L. 102–228 does not contain a subtitle B. Part B was set out in a note under section 2551 of this title and was comprised of sections 211 and 212, which were repealed, respectively, by Pub. L. 110–181, div. A, title XIII, § 1304(a)(1)(A), Jan. 28, 2008, 122 Stat. 412, and Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606. For complete classification of this Act to the Code, see Tables.
+The Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c)(2), is title II of Pub. L. 102–228, Dec. 12, 1991, 105 Stat. 1693. The reference to subtitle B of the Act probably means part B of the Act because title II of Pub. L. 102–228 does not contain a subtitle B. Part B was set out in a note under section 2551 of this title and was comprised of sections 211 and 212, which were repealed, respectively, by Pub. L. 110–181, div. A, title XIII, § 1304(a)(1)(A), Jan. 28, 2008, 122 Stat. 412, and Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606. For complete classification of this Act to the Code, see Tables.
 
 **Executive Documents**
 
@@ -1789,7 +1789,7 @@ For delegation of certain functions of the President under this section, see Mem
 
 Authority of President under this section delegated to Secretary of Defense by section 2 of Memorandum of President of the United States, Dec. 30, 1992, 58 F.R. 3193, set out as a note under section 5852 of this title.
 
-### § 5859. International nonproliferation initiative
+### § 5859. International nonproliferation initiative
 
 **(a) to (e) Omitted**
 
@@ -1797,7 +1797,7 @@ Authority of President under this section delegated to Secretary of Defense by s
 
 This section shall not apply if the National Defense Authorization Act for Fiscal Year 1993 enacts the same authorities and requirements as are contained in this section and authorizes the appropriation of the same (or a greater) amount to carry out such authorities.
 
-(Pub. L. 102–511, title V, § 509, Oct. 24, 1992, 106 Stat. 3343.)
+(Pub. L. 102–511, title V, § 509, Oct. 24, 1992, 106 Stat. 3343.)
 
 **Editorial Notes**
 
@@ -1809,7 +1809,7 @@ The National Defense Authorization Act for Fiscal Year 1993, referred to in subs
 
 Section is comprised of section 509 of Pub. L. 102–511. Subsecs. (a) to (e) were omitted pursuant to subsec. (f) because section 1505 of the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, which is classified to section 5859a of this title, enacted the same authorities and requirements as contained in subsecs. (a) to (e) and authorized the appropriation of the same or a greater amount to carry out such authorities.
 
-### § 5859a. International nonproliferation initiative
+### § 5859a. International nonproliferation initiative
 
 **(a) Assistance for international nonproliferation activities**
 
@@ -1875,7 +1875,7 @@ Subject to the limitations and requirements provided in this section, the Secret
 
 The authority of the Secretary of Defense to provide assistance under this section terminates at the close of fiscal year 2003.
 
-(Pub. L. 102–484, div. A, title XV, § 1505, Oct. 23, 1992, 106 Stat. 2569; Pub. L. 103–160, div. A, title XI, § 1182(c)(5), title XVI, § 1602, Nov. 30, 1993, 107 Stat. 1772, 1843; Pub. L. 103–337, div. A, title X, § 1070(c)(1), title XV, § 1501, Oct. 5, 1994, 108 Stat. 2857, 2914; Pub. L. 104–106, div. A, title XIV, § 1403, title XV, § 1502(c)(2)(B), Feb. 10, 1996, 110 Stat. 489, 507; Pub. L. 104–201, div. A, title XIII, § 1301, Sept. 23, 1996, 110 Stat. 2700; Pub. L. 105–85, div. A, title XIII, § 1308, Nov. 18, 1997, 111 Stat. 1956; Pub. L. 105–261, div. A, title XV, § 1531(b), Oct. 17, 1998, 112 Stat. 2180; Pub. L. 106–65, div. A, title X, § 1067(8), title XV, § 1505(b), (c), Oct. 5, 1999, 113 Stat. 774, 808; Pub. L. 106–398, § 1 [[div. A], title XII, § 1201(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–324; Pub. L. 107–107, div. A, title XII, § 1203(b), Dec. 28, 2001, 115 Stat. 1246; Pub. L. 107–314, div. A, title XII, § 1204(b), Dec. 2, 2002, 116 Stat. 2664.)
+(Pub. L. 102–484, div. A, title XV, § 1505, Oct. 23, 1992, 106 Stat. 2569; Pub. L. 103–160, div. A, title XI, § 1182(c)(5), title XVI, § 1602, Nov. 30, 1993, 107 Stat. 1772, 1843; Pub. L. 103–337, div. A, title X, § 1070(c)(1), title XV, § 1501, Oct. 5, 1994, 108 Stat. 2857, 2914; Pub. L. 104–106, div. A, title XIV, § 1403, title XV, § 1502(c)(2)(B), Feb. 10, 1996, 110 Stat. 489, 507; Pub. L. 104–201, div. A, title XIII, § 1301, Sept. 23, 1996, 110 Stat. 2700; Pub. L. 105–85, div. A, title XIII, § 1308, Nov. 18, 1997, 111 Stat. 1956; Pub. L. 105–261, div. A, title XV, § 1531(b), Oct. 17, 1998, 112 Stat. 2180; Pub. L. 106–65, div. A, title X, § 1067(8), title XV, § 1505(b), (c), Oct. 5, 1999, 113 Stat. 774, 808; Pub. L. 106–398, § 1 [[div. A], title XII, § 1201(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–324; Pub. L. 107–107, div. A, title XII, § 1203(b), Dec. 28, 2001, 115 Stat. 1246; Pub. L. 107–314, div. A, title XII, § 1204(b), Dec. 2, 2002, 116 Stat. 2664.)
 
 **Editorial Notes**
 
@@ -1891,73 +1891,73 @@ Section was enacted as part of the Weapons of Mass Destruction Control Act of 19
 
 2000—Subsec. (f). Pub. L. 106–398 substituted “2001” for “2000”.
 
-1999—Subsec. (b)(2). Pub. L. 106–65, § 1505(c)(1), inserted “(or any successor organization)” after “United Nations Special Commission on Iraq”.
+1999—Subsec. (b)(2). Pub. L. 106–65, § 1505(c)(1), inserted “(or any successor organization)” after “United Nations Special Commission on Iraq”.
 
-Subsec. (d)(4)(A). Pub. L. 106–65, § 1505(c)(2)(A), in first sentence, inserted “(or any successor organization)” after “United Nations Special Commission on Iraq” and substituted “the amount of any limitation provided by law on the total amount of such assistance for that fiscal year, the Secretary of Defense may provide such assistance with respect to that fiscal year notwithstanding that limitation.” for “the amount specified with respect to that year under paragraph (3), the Secretary of Defense may provide such assistance notwithstanding the limitation with respect to that fiscal year under paragraph (3).”
+Subsec. (d)(4)(A). Pub. L. 106–65, § 1505(c)(2)(A), in first sentence, inserted “(or any successor organization)” after “United Nations Special Commission on Iraq” and substituted “the amount of any limitation provided by law on the total amount of such assistance for that fiscal year, the Secretary of Defense may provide such assistance with respect to that fiscal year notwithstanding that limitation.” for “the amount specified with respect to that year under paragraph (3), the Secretary of Defense may provide such assistance notwithstanding the limitation with respect to that fiscal year under paragraph (3).”
 
-Subsec. (d)(4)(B). Pub. L. 106–65, § 1505(c)(2)(B), struck out “under paragraph (3)” after “for that fiscal year”.
+Subsec. (d)(4)(B). Pub. L. 106–65, § 1505(c)(2)(B), struck out “under paragraph (3)” after “for that fiscal year”.
 
-Subsec. (e)(2)(B). Pub. L. 106–65, § 1067(8), substituted “Committee on Armed Services” for “Committee on National Security”.
+Subsec. (e)(2)(B). Pub. L. 106–65, § 1067(8), substituted “Committee on Armed Services” for “Committee on National Security”.
 
-Subsec. (f). Pub. L. 106–65, § 1505(b), substituted “2000” for “1999”.
+Subsec. (f). Pub. L. 106–65, § 1505(b), substituted “2000” for “1999”.
 
 1998—Subsec. (f). Pub. L. 105–261 substituted “1999” for “1998”.
 
-1997—Subsec. (d)(3). Pub. L. 105–85, § 1308(1), struck out “or” after “fiscal year 1996,” and inserted “, or $15,000,000 for fiscal year 1998” before period at end.
+1997—Subsec. (d)(3). Pub. L. 105–85, § 1308(1), struck out “or” after “fiscal year 1996,” and inserted “, or $15,000,000 for fiscal year 1998” before period at end.
 
-Subsec. (f). Pub. L. 105–85, § 1308(2), substituted “1998” for “1997”.
+Subsec. (f). Pub. L. 105–85, § 1308(2), substituted “1998” for “1997”.
 
-1996—Subsec. (a). Pub. L. 104–106, § 1403(a)(1), struck out “during fiscal years 1994 and 1995” before “the Secretary of Defense”.
+1996—Subsec. (a). Pub. L. 104–106, § 1403(a)(1), struck out “during fiscal years 1994 and 1995” before “the Secretary of Defense”.
 
-Subsec. (b)(2). Pub. L. 104–106, § 1403(b)(1), substituted “the Department of Defense” for “the On-Site Inspection Agency”.
+Subsec. (b)(2). Pub. L. 104–106, § 1403(b)(1), substituted “the Department of Defense” for “the On-Site Inspection Agency”.
 
-Subsec. (c)(3). Pub. L. 104–106, § 1403(b)(2), substituted “will be counted as discretionary spending in the national defense budget function (function 050).” for “will be counted against the defense category of the discretionary spending limits for fiscal year 1993 (as defined in section 665(a)(2) of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985.”
+Subsec. (c)(3). Pub. L. 104–106, § 1403(b)(2), substituted “will be counted as discretionary spending in the national defense budget function (function 050).” for “will be counted against the defense category of the discretionary spending limits for fiscal year 1993 (as defined in section 665(a)(2) of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985.”
 
-Subsec. (d)(1). Pub. L. 104–106, § 1403(c)(1)(A), (B), substituted “for any fiscal year shall be derived from amounts made available to the Department of Defense for that fiscal year.” for “for fiscal year 1994 shall be derived from amounts made available to the Department of Defense for fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995.” and struck out “referred to in this paragraph” after “for a fiscal year”.
+Subsec. (d)(1). Pub. L. 104–106, § 1403(c)(1)(A), (B), substituted “for any fiscal year shall be derived from amounts made available to the Department of Defense for that fiscal year.” for “for fiscal year 1994 shall be derived from amounts made available to the Department of Defense for fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995.” and struck out “referred to in this paragraph” after “for a fiscal year”.
 
-Subsec. (d)(3). Pub. L. 104–201, § 1301(a)(1), struck out “or” after “fiscal year 1995,” and inserted “, or $15,000,000 for fiscal year 1997” before period at end.
+Subsec. (d)(3). Pub. L. 104–201, § 1301(a)(1), struck out “or” after “fiscal year 1995,” and inserted “, or $15,000,000 for fiscal year 1997” before period at end.
 
-Pub. L. 104–106, § 1403(b)(1), (c)(2), struck out “may not exceed $$25,000,000 for fiscal year 1994 or $20,000,000 for fiscal year 1995” after “under this section”, substituted “the Department of Defense” for “the On-Site Inspection Agency”, and inserted before period at end “, may not exceed $25,000,000 for fiscal year 1994, $20,000,000 for fiscal year 1995, or $15,000,000 for fiscal year 1996”.
+Pub. L. 104–106, § 1403(b)(1), (c)(2), struck out “may not exceed $$25,000,000 for fiscal year 1994 or $20,000,000 for fiscal year 1995” after “under this section”, substituted “the Department of Defense” for “the On-Site Inspection Agency”, and inserted before period at end “, may not exceed $25,000,000 for fiscal year 1994, $20,000,000 for fiscal year 1995, or $15,000,000 for fiscal year 1996”.
 
-Subsec. (d)(4). Pub. L. 104–201, § 1301(b), added par. (4).
+Subsec. (d)(4). Pub. L. 104–201, § 1301(b), added par. (4).
 
-Subsec. (e)(1). Pub. L. 104–106, § 1403(a)(2), substituted “a fiscal year during which the authority of the Secretary of Defense to provide assistance under this section is in effect” for “fiscal years 1994 and 1995”.
+Subsec. (e)(1). Pub. L. 104–106, § 1403(a)(2), substituted “a fiscal year during which the authority of the Secretary of Defense to provide assistance under this section is in effect” for “fiscal years 1994 and 1995”.
 
-Subsec. (e)(2)(B). Pub. L. 104–106, § 1502(c)(2)(B), substituted “the Committee on National Security, the Committee on Appropriations, the Committee on International Relations, and the Committee on Commerce” for “the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Energy and Commerce”.
+Subsec. (e)(2)(B). Pub. L. 104–106, § 1502(c)(2)(B), substituted “the Committee on National Security, the Committee on Appropriations, the Committee on International Relations, and the Committee on Commerce” for “the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Energy and Commerce”.
 
-Subsec. (f). Pub. L. 104–201, § 1301(a)(2), substituted “1997” for “1996”.
+Subsec. (f). Pub. L. 104–201, § 1301(a)(2), substituted “1997” for “1996”.
 
-Pub. L. 104–106, § 1403(a)(3), added subsec. (f).
+Pub. L. 104–106, § 1403(a)(3), added subsec. (f).
 
-1994—Subsec. (a). Pub. L. 103–337, § 1501(a)(1), substituted “fiscal years 1994 and 1995” for “fiscal year 1994”.
+1994—Subsec. (a). Pub. L. 103–337, § 1501(a)(1), substituted “fiscal years 1994 and 1995” for “fiscal year 1994”.
 
-Subsec. (b)(1). Pub. L. 103–337, § 1501(b)(1), substituted “international organizations” for “the International Atomic Energy Agency (IAEA)”, struck out “nuclear” after “safeguards against”, and substituted “effective verification” for “aggressive verification” and “international agreements on nonproliferation” for “the Treaty on the Non-Proliferation of Nuclear Weapons, done on July 1, 1968”.
+Subsec. (b)(1). Pub. L. 103–337, § 1501(b)(1), substituted “international organizations” for “the International Atomic Energy Agency (IAEA)”, struck out “nuclear” after “safeguards against”, and substituted “effective verification” for “aggressive verification” and “international agreements on nonproliferation” for “the Treaty on the Non-Proliferation of Nuclear Weapons, done on July 1, 1968”.
 
-Subsec. (b)(4). Pub. L. 103–337, § 1501(b)(2), substituted “nuclear, biological, chemical, and missile proliferation through technical projects and improved information sharing” for “nuclear proliferation through joint technical projects and improved intelligence sharing”.
+Subsec. (b)(4). Pub. L. 103–337, § 1501(b)(2), substituted “nuclear, biological, chemical, and missile proliferation through technical projects and improved information sharing” for “nuclear proliferation through joint technical projects and improved intelligence sharing”.
 
-Subsec. (d)(1). Pub. L. 103–337, § 1501(c)(1), inserted “for fiscal year 1994” after “under this section” and substituted “fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995. Funds provided as assistance under this section for a fiscal year referred to in this paragraph may also be derived” for “fiscal year 1994 or”.
+Subsec. (d)(1). Pub. L. 103–337, § 1501(c)(1), inserted “for fiscal year 1994” after “under this section” and substituted “fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995. Funds provided as assistance under this section for a fiscal year referred to in this paragraph may also be derived” for “fiscal year 1994 or”.
 
-Subsec. (d)(3). Pub. L. 103–337, § 1501(c)(2), inserted “for fiscal year 1994 or $20,000,000 for fiscal year 1995”.
+Subsec. (d)(3). Pub. L. 103–337, § 1501(c)(2), inserted “for fiscal year 1994 or $20,000,000 for fiscal year 1995”.
 
-Subsec. (e)(1). Pub. L. 103–337, § 1501(a), substituted “fiscal years 1994 and 1995” for “fiscal year 1994”.
+Subsec. (e)(1). Pub. L. 103–337, § 1501(a), substituted “fiscal years 1994 and 1995” for “fiscal year 1994”.
 
-Subsec. (e)(2). Pub. L. 103–337, § 1070(c)(1), which directed amendment of subsec. (e)(2) by striking out “and under subsection (d)(4) of this section” effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993 (Pub. L. 102–484), as enacted, was executed to subsec. (e)(2) as amended by Pub. L. 103–160, § 1182(c)(5), to reflect the probable intent of Congress. See 1993 Amendment note below.
+Subsec. (e)(2). Pub. L. 103–337, § 1070(c)(1), which directed amendment of subsec. (e)(2) by striking out “and under subsection (d)(4) of this section” effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993 (Pub. L. 102–484), as enacted, was executed to subsec. (e)(2) as amended by Pub. L. 103–160, § 1182(c)(5), to reflect the probable intent of Congress. See 1993 Amendment note below.
 
-1993—Subsecs. (a), (d)(1). Pub. L. 103–160, § 1602(a), substituted “fiscal year 1994” for “fiscal year 1993”.
+1993—Subsecs. (a), (d)(1). Pub. L. 103–160, § 1602(a), substituted “fiscal year 1994” for “fiscal year 1993”.
 
-Subsec. (d)(3). Pub. L. 103–160, § 1602(b)(2), struck out at end “Of such amount, not more than $20,000,000 may be used for the activities of the On-Site Inspection Agency in support of the United Nations Special Commission on Iraq.”
+Subsec. (d)(3). Pub. L. 103–160, § 1602(b)(2), struck out at end “Of such amount, not more than $20,000,000 may be used for the activities of the On-Site Inspection Agency in support of the United Nations Special Commission on Iraq.”
 
-Pub. L. 103–160, § 1602(b)(1), substituted “$25,000,000, including funds used for activities of the On-Site Inspection Agency in support of the United Nations Special Commission on Iraq” for “40,000,000”.
+Pub. L. 103–160, § 1602(b)(1), substituted “$25,000,000, including funds used for activities of the On-Site Inspection Agency in support of the United Nations Special Commission on Iraq” for “40,000,000”.
 
-Subsec. (d)(4). Pub. L. 103–160, § 1602(c), struck out par. (4) which read as follows: “Not less than 30 days before obligating any funds to provide assistance under this section, the Secretary of Defense shall transmit to the committees of Congress named in subsection (e)(2) of this section a report on the proposed obligation. Each such report shall specify—
+Subsec. (d)(4). Pub. L. 103–160, § 1602(c), struck out par. (4) which read as follows: “Not less than 30 days before obligating any funds to provide assistance under this section, the Secretary of Defense shall transmit to the committees of Congress named in subsection (e)(2) of this section a report on the proposed obligation. Each such report shall specify—
 
 “(A) the account, budget activity, and particular program or programs from which the funds proposed to be obligated are to be derived and the amount of the proposed obligation; and
 
 “(B) the activities and forms of assistance for which the Secretary of Defense plans to obligate the funds.”
 
-Subsec. (e)(1). Pub. L. 103–160, § 1602(a), substituted “fiscal year 1994” for “fiscal year 1993”.
+Subsec. (e)(1). Pub. L. 103–160, § 1602(a), substituted “fiscal year 1994” for “fiscal year 1993”.
 
-Subsec. (e)(2). Pub. L. 103–160, § 1182(c)(5), substituted “(d)(4)” for “(d)(2)” in introductory provisions.
+Subsec. (e)(2). Pub. L. 103–160, § 1182(c)(5), substituted “(d)(4)” for “(d)(2)” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1969,9 +1969,9 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title X, § 1070(c), Oct. 5, 1994, 108 Stat. 2857, provided in part that the amendment made by that section is effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, as enacted.
+Pub. L. 103–337, div. A, title X, § 1070(c), Oct. 5, 1994, 108 Stat. 2857, provided in part that the amendment made by that section is effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, as enacted.
 
-### § 5860. Report on special nuclear materials
+### § 5860. Report on special nuclear materials
 
 Not later than 180 days after October 24, 1992, the Secretary of State shall prepare, in consultation with the Secretary of Defense and the Secretary of Energy, and shall transmit to the Congress a report on the possible alternatives for the ultimate disposition of special nuclear materials of the former Soviet Union. This report shall include—
 
@@ -1981,9 +1981,9 @@ Not later than 180 days after October 24, 1992, the Secretary of State shall pre
 
 **(3)** a discussion of how highly enriched uranium stocks could be diluted for reactor fuel.
 
-(Pub. L. 102–511, title V, § 510, Oct. 24, 1992, 106 Stat. 3344.)
+(Pub. L. 102–511, title V, § 510, Oct. 24, 1992, 106 Stat. 3344.)
 
-### § 5861. Research and Development Foundation
+### § 5861. Research and Development Foundation
 
 **(a) Establishment**
 
@@ -2035,17 +2035,17 @@ The Foundation may invest any revenue provided to it through United States Gover
 
 The Foundation may accept such other funds as may be provided to it by Government agencies or nongovernmental entities.
 
-(Pub. L. 102–511, title V, § 511, Oct. 24, 1992, 106 Stat. 3345.)
+(Pub. L. 102–511, title V, § 511, Oct. 24, 1992, 106 Stat. 3345.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subtitle E of title XIV of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (d)(1), is subtitle E of title XIV of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2566, which is classified generally to subchapter IV (§ 5931) of chapter 68 of this title.
+Subtitle E of title XIV of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (d)(1), is subtitle E of title XIV of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2566, which is classified generally to subchapter IV (§ 5931) of chapter 68 of this title.
 
 ## SUBCHAPTER V—SPACE TRADE AND COOPERATION
 
-### § 5871. Facilitating discussions regarding acquisition of space hardware, technology, and services from former Soviet Union
+### § 5871. Facilitating discussions regarding acquisition of space hardware, technology, and services from former Soviet Union
 
 **(a) Expedited review**
 
@@ -2063,9 +2063,9 @@ If any United States Government agency denies a request for a license or other a
 
 including discussions relating to technical evaluation of such hardware, technology, or service.
 
-(Pub. L. 102–511, title VI, § 601, Oct. 24, 1992, 106 Stat. 3346.)
+(Pub. L. 102–511, title VI, § 601, Oct. 24, 1992, 106 Stat. 3346.)
 
-### § 5872. Office of Space Commerce
+### § 5872. Office of Space Commerce
 
 **(a) Trade missions**
 
@@ -2077,9 +2077,9 @@ The Office of Space Commerce of the Department of Commerce is authorized and enc
 
 **(2)** shall advise the Administrator of the National Aeronautics and Space Administration as to the impact on United States industry of each potential acquisition of space hardware, space technology, or space services from the independent states of the former Soviet Union, specifically including any anticompetitive issues the Office may observe.
 
-(Pub. L. 102–511, title VI, § 602, Oct. 24, 1992, 106 Stat. 3347.)
+(Pub. L. 102–511, title VI, § 602, Oct. 24, 1992, 106 Stat. 3347.)
 
-### § 5873. Report to Congress
+### § 5873. Report to Congress
 
 Within one year after October 24, 1992, the President shall submit to the designated congressional committees a report describing—
 
@@ -2095,9 +2095,9 @@ Within one year after October 24, 1992, the President shall submit to the design
 
 **(6)** any anticompetitive issues raised during the course of negotiations, as observed pursuant to section 5872(b) of this title.
 
-(Pub. L. 102–511, title VI, § 603, Oct. 24, 1992, 106 Stat. 3347.)
+(Pub. L. 102–511, title VI, § 603, Oct. 24, 1992, 106 Stat. 3347.)
 
-### § 5874. Definitions
+### § 5874. Definitions
 
 For purposes of this subchapter—
 
@@ -2105,4 +2105,4 @@ For purposes of this subchapter—
 
 **(2)** the term “designated congressional committees” means the Committee on Science, Space, and Technology and the Committee on Foreign Affairs of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Foreign Relations of the Senate.
 
-(Pub. L. 102–511, title VI, § 604, Oct. 24, 1992, 106 Stat. 3348.)
+(Pub. L. 102–511, title VI, § 604, Oct. 24, 1992, 106 Stat. 3348.)

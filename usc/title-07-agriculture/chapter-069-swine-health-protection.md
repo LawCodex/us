@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 69—SWINE HEALTH PROTECTION
 
-## § 3801. Congressional findings and declaration of purpose
+## § 3801. Congressional findings and declaration of purpose
 
 The Congress hereby finds and declares that—
 
@@ -35,15 +35,15 @@ The Congress hereby finds and declares that—
 
 **(8)** therefore, in order to protect the commerce of the United States and the health and welfare of the people of this country, it is necessary to regulate the treatment of garbage to be fed to swine and the feeding thereof in accordance with the provisions of this chapter.
 
-(Pub. L. 96–468, § 2, Oct. 17, 1980, 94 Stat. 2229.)
+(Pub. L. 96–468, § 2, Oct. 17, 1980, 94 Stat. 2229.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 96–468, § 1, Oct. 17, 1980, 94 Stat. 2229, provided: “That this Act [enacting this chapter] may be cited as the ‘Swine Health Protection Act’.”
+Pub. L. 96–468, § 1, Oct. 17, 1980, 94 Stat. 2229, provided: “That this Act [enacting this chapter] may be cited as the ‘Swine Health Protection Act’.”
 
-## § 3802. Definitions
+## § 3802. Definitions
 
 For purposes of this chapter—
 
@@ -55,7 +55,7 @@ For purposes of this chapter—
 
 **(4)** the term “State” means the fifty States, the District of Columbia, Guam, Puerto Rico, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.
 
-(Pub. L. 96–468, § 3, Oct. 17, 1980, 94 Stat. 2229; Pub. L. 96–592, title V, § 511, Dec. 24, 1980, 94 Stat. 3451.)
+(Pub. L. 96–468, § 3, Oct. 17, 1980, 94 Stat. 2229; Pub. L. 96–592, title V, § 511, Dec. 24, 1980, 94 Stat. 3451.)
 
 **Editorial Notes**
 
@@ -63,15 +63,15 @@ For purposes of this chapter—
 
 1980—Par. (4). Pub. L. 96–592 added par. (4).
 
-## § 3803. Prohibition of certain garbage feeding; exemption
+## § 3803. Prohibition of certain garbage feeding; exemption
 
 **(a)** No person shall feed or permit the feeding of garbage to swine except in accordance with subsection (b) of this section.
 
 **(b)** Garbage may be fed to swine only if treated to kill disease organisms, in accordance with regulations issued by the Secretary, at a facility holding a valid permit issued by the Secretary, or the chief agricultural or animal health official of the State where located if such State has entered into an agreement with the Secretary pursuant to section 3808 of this title or has primary enforcement responsibility pursuant to section 3809 of this title. No person shall operate a facility for the treatment of garbage knowing it is to be fed to swine unless such person holds a valid permit issued pursuant to this chapter. The Secretary may exempt any facility or premises from the requirements of this section whenever the Secretary determines that there would not be a risk to the swine industry in the United States.
 
-(Pub. L. 96–468, § 4, Oct. 17, 1980, 94 Stat. 2230.)
+(Pub. L. 96–468, § 4, Oct. 17, 1980, 94 Stat. 2230.)
 
-## § 3804. Permits to operate garbage treatment facility
+## § 3804. Permits to operate garbage treatment facility
 
 **(a) Application; issuance** Any person desiring to obtain a permit to operate a facility to treat garbage that is to be fed to swine shall apply therefor to (1) the Secretary, or (2) the chief agricultural or animal health official of the State where the facility is located if such State has entered into an agreement with the Secretary pursuant to section 3808 of this title or has primary enforcement responsibility pursuant to section 3809 of this title, and provide such information as the Secretary shall by regulation prescribe. No permit shall be issued unless the facility—
 
@@ -87,9 +87,9 @@ Whenever the Secretary finds, after notice and opportunity for a hearing on the 
 
 The permit of any person to operate a facility to treat garbage in any State shall be automatically revoked, without action of the Secretary, upon the final effective date of the second conviction of such person pursuant to section 3806 of this title.
 
-(Pub. L. 96–468, § 5, Oct. 17, 1980, 94 Stat. 2230.)
+(Pub. L. 96–468, § 5, Oct. 17, 1980, 94 Stat. 2230.)
 
-## § 3805. Civil penalties
+## § 3805. Civil penalties
 
 **(a) Assessment by Secretary**
 
@@ -111,9 +111,9 @@ All penalties collected under authority of this section shall be paid into the T
 
 The Secretary may, in his discretion, compromise, modify, or remit, with or without conditions, any civil penalty assessed under this chapter.
 
-(Pub. L. 96–468, § 6, Oct. 17, 1980, 94 Stat. 2231.)
+(Pub. L. 96–468, § 6, Oct. 17, 1980, 94 Stat. 2231.)
 
-## § 3806. Criminal penalties
+## § 3806. Criminal penalties
 
 **(a)** Whoever willfully violates any provision of this chapter or the regulations of the Secretary issued hereunder shall be guilty of a misdemeanor and shall be fined not more than $10,000, or imprisoned not more than one year, or both.
 
@@ -127,9 +127,9 @@ The Secretary may, in his discretion, compromise, modify, or remit, with or with
 
 shall on conviction be fined not more than $10,000, or imprisoned for not more than one year, or both. Each day during which such failure continues shall be deemed a separate offense.
 
-(Pub. L. 96–468, § 7, Oct. 17, 1980, 94 Stat. 2231.)
+(Pub. L. 96–468, § 7, Oct. 17, 1980, 94 Stat. 2231.)
 
-## § 3807. General enforcement provisions
+## § 3807. General enforcement provisions
 
 **(a) Injunctions**
 
@@ -143,15 +143,15 @@ Any person subject to the provisions of this chapter shall, at all reasonable ti
 
 For the efficient execution of the provisions of this chapter, and in order to provide information for the use of Congress, the provisions (including penalties) of sections 46 and 48 through 50 of title 15, are made applicable to the jurisdiction, powers, and duties of the Secretary in enforcing the provisions of this chapter and to any person subject to the provisions of this chapter, whether or not a corporation. The Secretary, in person or by such agents as he may designate, may prosecute any inquiry necessary to his duties under this chapter in any part of the United States.
 
-(Pub. L. 96–468, § 8, Oct. 17, 1980, 94 Stat. 2232.)
+(Pub. L. 96–468, § 8, Oct. 17, 1980, 94 Stat. 2232.)
 
-## § 3808. Cooperation with States
+## § 3808. Cooperation with States
 
 In order to avoid duplication of functions, facilities, and personnel, and to attain closer coordination and greater effectiveness and economy in administration of this chapter and State laws and regulations relating to the feeding of garbage to swine, the Secretary is authorized to enter into cooperative agreements with State departments of agriculture and other State agencies charged with the administration and enforcement of such State laws and regulations and to provide that any such State agency which has adequate facilities, personnel, and procedures, as determined by the Secretary, may assist the Secretary in the administration and enforcement of this chapter and regulations hereunder. The Secretary is further authorized to coordinate the administration of this chapter and regulations with such State laws and regulations whenever feasible: *Provided*, That nothing herein shall affect the jurisdiction of the Secretary under any other Federal law, or any authority to cooperate with State agencies or other agencies or persons under existing provisions of law, or affect any restrictions upon such cooperation.
 
-(Pub. L. 96–468, § 9, Oct. 17, 1980, 94 Stat. 2232.)
+(Pub. L. 96–468, § 9, Oct. 17, 1980, 94 Stat. 2232.)
 
-## § 3809. Primary enforcement responsibility
+## § 3809. Primary enforcement responsibility
 
 **(a) State obligation** For purposes of this chapter, a State shall have the primary enforcement responsibility for violations of laws and regulations relating to the treatment of garbage to be fed to swine and the feeding thereof during any period for which the Secretary determines that such State—
 
@@ -181,7 +181,7 @@ Nothing in this subsection shall prevent a State from reassuming primary enforce
 
 Nothing in this section shall limit the authority of the Secretary to enforce this chapter whenever the Secretary determines that emergency conditions exist that require immediate action on the part of the Secretary and the State authority is unwilling or unable adequately to respond to the emergency.
 
-(Pub. L. 96–468, § 10, Oct. 17, 1980, 94 Stat. 2233; Pub. L. 104–127, title IX, § 914(a), Apr. 4, 1996, 110 Stat. 1186.)
+(Pub. L. 96–468, § 10, Oct. 17, 1980, 94 Stat. 2233; Pub. L. 104–127, title IX, § 914(a), Apr. 4, 1996, 110 Stat. 1186.)
 
 **Editorial Notes**
 
@@ -189,15 +189,15 @@ Nothing in this section shall limit the authority of the Secretary to enforce th
 
 1996—Subsecs. (c), (d). Pub. L. 104–127 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-## § 3810. Repealed. Pub. L. 104–127, title IX, § 914(b)(1), Apr. 4, 1996, 110 Stat. 1186
+## § 3810. Repealed. Pub. L. 104–127, title IX, § 914(b)(1), Apr. 4, 1996, 110 Stat. 1186
 
-Section, Pub. L. 96–468, § 11, Oct. 17, 1980, 94 Stat. 2233, authorized Secretary to appoint and consult with advisory committees concerning matters within scope of this chapter.
+Section, Pub. L. 96–468, § 11, Oct. 17, 1980, 94 Stat. 2233, authorized Secretary to appoint and consult with advisory committees concerning matters within scope of this chapter.
 
-## § 3811. Issuance of regulations; maintenance of rec­ords
+## § 3811. Issuance of regulations; maintenance of rec­ords
 
 The Secretary is authorized to issue such regulations and to require the maintenance of such records as he deems necessary to carry out the provisions of this chapter.
 
-(Pub. L. 96–468, § 11, formerly § 12, Oct. 17, 1980, 94 Stat. 2233; renumbered § 11, Pub. L. 104–127, title IX, § 914(b)(2), Apr. 4, 1996, 110 Stat. 1186.)
+(Pub. L. 96–468, § 11, formerly § 12, Oct. 17, 1980, 94 Stat. 2233; renumbered § 11, Pub. L. 104–127, title IX, § 914(b)(2), Apr. 4, 1996, 110 Stat. 1186.)
 
 **Editorial Notes**
 
@@ -205,11 +205,11 @@ The Secretary is authorized to issue such regulations and to require the mainten
 
 A prior section 11 of Pub. L. 96–468 was classified to section 3810 of this title prior to repeal by Pub. L. 104–127.
 
-## § 3812. Authority in addition to other laws; effect on State laws
+## § 3812. Authority in addition to other laws; effect on State laws
 
 The authority conferred by this chapter shall be in addition to authority conferred by other statutes. Nothing in this chapter shall be construed to repeal or supersede any State law prohibiting the feeding of garbage to swine or to prohibit any State from enforcing requirements relating to the treatment of garbage to be fed to swine or the feeding thereof which are more stringent than those under this chapter or the regulations hereunder.
 
-(Pub. L. 96–468, § 12, formerly § 13, Oct. 17, 1980, 94 Stat. 2233; renumbered § 12, Pub. L. 104–127, title IX, § 914(b)(2), Apr. 4, 1996, 110 Stat. 1186.)
+(Pub. L. 96–468, § 12, formerly § 13, Oct. 17, 1980, 94 Stat. 2233; renumbered § 12, Pub. L. 104–127, title IX, § 914(b)(2), Apr. 4, 1996, 110 Stat. 1186.)
 
 **Editorial Notes**
 
@@ -217,11 +217,11 @@ The authority conferred by this chapter shall be in addition to authority confer
 
 A prior section 12 of Pub. L. 96–468 was renumbered section 11 and is classified to section 3811 of this title.
 
-## § 3813. Authorization of appropriations
+## § 3813. Authorization of appropriations
 
 There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter.
 
-(Pub. L. 96–468, § 13, formerly § 14, Oct. 17, 1980, 94 Stat. 2234; renumbered § 13, Pub. L. 104–127, title IX, § 914(b)(2), Apr. 4, 1996, 110 Stat. 1186.)
+(Pub. L. 96–468, § 13, formerly § 14, Oct. 17, 1980, 94 Stat. 2234; renumbered § 13, Pub. L. 104–127, title IX, § 914(b)(2), Apr. 4, 1996, 110 Stat. 1186.)
 
 **Editorial Notes**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 35—DEFINITIONS
 
-## § 351. Definitions
+## § 351. Definitions
 
 When used in this part unless the context otherwise indicates—
 
@@ -37,7 +37,7 @@ When used in this part unless the context otherwise indicates—
 
 **(i)** Terms and expressions not defined in this part are to be taken in the sense indicated by the treaty and the Regulations.
 
-(Added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 685; amended Pub. L. 98–622, title IV, § 403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 99–616, § 2(a)–(c), Nov. 6, 1986, 100 Stat. 3485; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(Added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 685; amended Pub. L. 98–622, title IV, § 403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 99–616, § 2(a)–(c), Nov. 6, 1986, 100 Stat. 3485; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 **Editorial Notes**
 
@@ -47,11 +47,11 @@ When used in this part unless the context otherwise indicates—
 
 1999—Subsec. (b). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
-1986—Subsec. (a). Pub. L. 99–616, § 2(a), struck out “, excluding chapter II thereof” after “June 19, 1970”.
+1986—Subsec. (a). Pub. L. 99–616, § 2(a), struck out “, excluding chapter II thereof” after “June 19, 1970”.
 
-Subsec. (b). Pub. L. 99–616, § 2(b), struck out “excluding part C thereof” after “under the treaty”.
+Subsec. (b). Pub. L. 99–616, § 2(b), struck out “excluding part C thereof” after “under the treaty”.
 
-Subsec. (g). Pub. L. 99–616, § 2(c), substituted “The terms ‘International Searching Authority’ and ‘International Preliminary Examining Authority’ mean” for “The term ‘International Searching Authority’ means”.
+Subsec. (g). Pub. L. 99–616, § 2(c), substituted “The terms ‘International Searching Authority’ and ‘International Preliminary Examining Authority’ mean” for “The term ‘International Searching Authority’ means”.
 
 1984—Subsec. (d). Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
 
@@ -59,21 +59,21 @@ Subsec. (g). Pub. L. 99–616, § 2(c), substituted “The terms ‘Internatio
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–616, § 9, Nov. 6, 1986, 100 Stat. 3487, provided that: “Sections 2 through 8 of this Act [amending this section and sections 361, 362, 364, 368, 371, and 376 of this title] shall come into force on the same day as the effective date of entry into force of chapter II of the Patent Cooperation Treaty with respect to the United States, by virtue of the withdrawal of the declaration under article 64(1)(a) of the Patent Cooperation Treaty. It shall apply to all international applications pending before or after its effective date.”
+Pub. L. 99–616, § 9, Nov. 6, 1986, 100 Stat. 3487, provided that: “Sections 2 through 8 of this Act [amending this section and sections 361, 362, 364, 368, 371, and 376 of this title] shall come into force on the same day as the effective date of entry into force of chapter II of the Patent Cooperation Treaty with respect to the United States, by virtue of the withdrawal of the declaration under article 64(1)(a) of the Patent Cooperation Treaty. It shall apply to all international applications pending before or after its effective date.”
 
 [The Patent Cooperation Treaty became effective for the United States on Jan. 24, 1978. The United States, however, was one of six countries (out of the 40 countries who have ratified or acceded to the Treaty) which had reservations not to be bound by Chapter II. The document removing the reservation as to Chapter II was deposited with the Director General of the World Intellectual Property Organization on Apr. 1, 1987. Accordingly, Chapter II of the Treaty for the United States of America and Pub. L. 99–616 became effective 3 months later on July 1, 1987. See 52 F.R. 20038, 20041, May 28, 1987.]
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–622, title IV, § 406(a), Nov. 8, 1984, 98 Stat. 3393, provided that: “Section 404 of this Act [set out as a note under section 41 of this title] and the amendments made by section 403 of this Act [amending this section and sections 104, 361, 362, 363, 364, 365, 367, 368, 371, 372, 373, and 376 of this title] shall take effect on the date of the enactment of this Act [Nov. 8, 1984].”
+Pub. L. 98–622, title IV, § 406(a), Nov. 8, 1984, 98 Stat. 3393, provided that: “Section 404 of this Act [set out as a note under section 41 of this title] and the amendments made by section 403 of this Act [amending this section and sections 104, 361, 362, 363, 364, 365, 367, 368, 371, 372, 373, and 376 of this title] shall take effect on the date of the enactment of this Act [Nov. 8, 1984].”
 
 **Effective Date**
 
-Pub. L. 94–131, § 11, Nov. 14, 1975, 89 Stat. 692, provided that:
+Pub. L. 94–131, § 11, Nov. 14, 1975, 89 Stat. 692, provided that:
 
 > **“(a)** Section 1 of this Act [enacting this part] shall come into force on the same day as the entry into force of the Patent Cooperation Treaty with respect to the United States. It shall apply to international and national applications filed on and after this effective date, even though entitled to the benefit of an earlier filing date, and to patents issued on such applications.
 
@@ -85,4 +85,4 @@ Pub. L. 94–131, § 11, Nov. 14, 1975, 89 Stat. 692, provided that:
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–616, § 1, Nov. 6, 1986, 100 Stat. 3485, provided: “That this Act [amending this section and sections 361, 362, 364, 368, 371, and 376 of this title and enacting provisions set out as a note above] may be cited as the ‘Act to authorize the United States to participate in chapter II of the Patent Cooperation Treaty’.”
+Pub. L. 99–616, § 1, Nov. 6, 1986, 100 Stat. 3485, provided: “That this Act [amending this section and sections 361, 362, 364, 368, 371, and 376 of this title and enacting provisions set out as a note above] may be cited as the ‘Act to authorize the United States to participate in chapter II of the Patent Cooperation Treaty’.”

@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—PLANNING
 
-### § 1600. Congressional findings
+### § 1600. Congressional findings
 
 The Congress finds that—
 
@@ -35,7 +35,7 @@ The Congress finds that—
 
 **(7)** recycled timber product materials are as much a part of our renewable forest resources as are the trees from which they originally came, and in order to extend our timber and timber fiber resources and reduce pressures for timber production from Federal lands, the Forest Service should expand its research in the use of recycled and waste timber product materials, develop techniques for the substitution of these secondary materials for primary materials, and promote and encourage the use of recycled timber product materials.
 
-(Pub. L. 93–378, § 2, as added Pub. L. 94–588, § 2, Oct. 22, 1976, 90 Stat. 2949.)
+(Pub. L. 93–378, § 2, as added Pub. L. 94–588, § 2, Oct. 22, 1976, 90 Stat. 2949.)
 
 **Editorial Notes**
 
@@ -47,35 +47,35 @@ The Multiple-Use Sustained-Yield Act of 1960, referred to in par. (3), is Pub. L
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 117–58, div. G, title III, § 70301, Nov. 15, 2021, 135 Stat. 1258, provided that: “This title [amending sections 1601, 1606a, 1607, and 2105 of this title and enacting provisions set out as a note under section 1601 of this title] may be cited as the ‘Repairing Existing Public Land by Adding Necessary Trees Act’ or the ‘REPLANT Act’.”
+Pub. L. 117–58, div. G, title III, § 70301, Nov. 15, 2021, 135 Stat. 1258, provided that: “This title [amending sections 1601, 1606a, 1607, and 2105 of this title and enacting provisions set out as a note under section 1601 of this title] may be cited as the ‘Repairing Existing Public Land by Adding Necessary Trees Act’ or the ‘REPLANT Act’.”
 
 **Short Title of 1988 Amendments**
 
-Pub. L. 100–521, § 1, Oct. 24, 1988, 102 Stat. 2601, provided that: “This Act [amending section 1642 of this title and enacting provisions set out as a note under section 1642 of this title] may be cited as the ‘Forest Ecosystems and Atmospheric Pollution Research Act of 1988’.”
+Pub. L. 100–521, § 1, Oct. 24, 1988, 102 Stat. 2601, provided that: “This Act [amending section 1642 of this title and enacting provisions set out as a note under section 1642 of this title] may be cited as the ‘Forest Ecosystems and Atmospheric Pollution Research Act of 1988’.”
 
-Pub. L. 100–231, § 1, Jan. 5, 1988, 101 Stat. 1565, provided that: “This Act [amending sections 1674 and 1675 of this title and provisions set out as a note under section 1671 of this title] may be cited as the ‘Renewable Resources Extension Act Amendments of 1987’.”
+Pub. L. 100–231, § 1, Jan. 5, 1988, 101 Stat. 1565, provided that: “This Act [amending sections 1674 and 1675 of this title and provisions set out as a note under section 1671 of this title] may be cited as the ‘Renewable Resources Extension Act Amendments of 1987’.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–554, § 1, Dec. 19, 1980, 94 Stat. 3257, provided: “That this Act [enacting subchapter IV of this chapter and enacting provision set out as a note under section 1681 of this title] may be cited as the ‘Wood Residue Utilization Act of 1980’.”
+Pub. L. 96–554, § 1, Dec. 19, 1980, 94 Stat. 3257, provided: “That this Act [enacting subchapter IV of this chapter and enacting provision set out as a note under section 1681 of this title] may be cited as the ‘Wood Residue Utilization Act of 1980’.”
 
 **Short Title of 1978 Amendments**
 
-Pub. L. 95–307, § 1, June 30, 1978, 92 Stat. 353, provided: “That this Act [enacting subchapter II of this chapter, repealing sections 581 to 581i of this title, and enacting provisions set out as a note under section 1641 of this title] may be cited as the ‘Forest and Rangeland Renewable Resources Research Act of 1978’.”
+Pub. L. 95–307, § 1, June 30, 1978, 92 Stat. 353, provided: “That this Act [enacting subchapter II of this chapter, repealing sections 581 to 581i of this title, and enacting provisions set out as a note under section 1641 of this title] may be cited as the ‘Forest and Rangeland Renewable Resources Research Act of 1978’.”
 
-Pub. L. 95–306, § 1, June 30, 1978, 92 Stat. 349, provided: “That this Act [enacting subchapter III of this chapter and provision set out as a note under section 1671 of this title] may be cited as the ‘Renewable Resources Extension Act of 1978’.”
+Pub. L. 95–306, § 1, June 30, 1978, 92 Stat. 349, provided: “That this Act [enacting subchapter III of this chapter and provision set out as a note under section 1671 of this title] may be cited as the ‘Renewable Resources Extension Act of 1978’.”
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–588, § 1, Oct. 22, 1976, 90 Stat. 2949, provided: “That this Act [enacting this section and sections 472a, 521b, and 1611 to 1614 of this title, amending sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of this title, repealing sections 476, 513 and 514 of this title, and enacting provisions set out as notes under this section and sections 476, 513, 528, and 594–2 of this title] may be cited as the ‘National Forest Management Act of 1976’.”
+Pub. L. 94–588, § 1, Oct. 22, 1976, 90 Stat. 2949, provided: “That this Act [enacting this section and sections 472a, 521b, and 1611 to 1614 of this title, amending sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of this title, repealing sections 476, 513 and 514 of this title, and enacting provisions set out as notes under this section and sections 476, 513, 528, and 594–2 of this title] may be cited as the ‘National Forest Management Act of 1976’.”
 
 **Short Title**
 
-Pub. L. 93–378, § 1, Aug. 17, 1974, 88 Stat. 476, provided: “That this Act [enacting this subchapter and amending section 581h of this title] may be cited as the ‘Forest and Rangeland Renewable Resources Planning Act of 1974’.”
+Pub. L. 93–378, § 1, Aug. 17, 1974, 88 Stat. 476, provided: “That this Act [enacting this subchapter and amending section 581h of this title] may be cited as the ‘Forest and Rangeland Renewable Resources Planning Act of 1974’.”
 
 **Separability**
 
-Pub. L. 94–588, § 21, Oct. 22, 1976, 90 Stat. 2963, provided that: “If any provision of this Act [see Short Title of 1976 Amendment note set out above] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
+Pub. L. 94–588, § 21, Oct. 22, 1976, 90 Stat. 2963, provided that: “If any provision of this Act [see Short Title of 1976 Amendment note set out above] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 
 **Executive Documents**
 
@@ -119,7 +119,7 @@ Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-### § 1601. Renewable Resource Assessment
+### § 1601. Renewable Resource Assessment
 
 **(a) Preparation by Secretary of Agriculture; time of preparation, updating and contents** In recognition of the vital importance of America’s renewable resources of the forest, range, and other associated lands to the Nation’s social and economic well-being, and of the necessity for a long term perspective in planning and undertaking related national renewable resource programs administered by the Forest Service, the Secretary of Agriculture (referred to in this subchapter as the “Secretary”) shall prepare a Renewable Resource Assessment (hereinafter called the “Assessment”). The Assessment shall be prepared not later than December 31, 1975, and shall be updated during 1979 and each tenth year thereafter, and shall include but not be limited to—
 
@@ -129,15 +129,15 @@ Donald J. Trump.
 
 **(3)** a description of Forest Service programs and responsibilities in research, cooperative programs and management of the National Forest System, their interrelationships, and the relationship of these programs and responsibilities to public and private activities;
 
-**(4)** a discussion of important policy considerations, laws, regulations, and other factors expected to influence and affect significantly the use, ownership, and management of forest, range, and other associated lands; and 1
+**(4)** a discussion of important policy considerations, laws, regulations, and other factors expected to influence and affect significantly the use, ownership, and management of forest, range, and other associated lands; and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 **(5)** an analysis of the potential effects of global climate change on the condition of renewable resources on the forests and rangelands of the United States; and
 
 **(6)** an analysis of the rural and urban forestry opportunities to mitigate the buildup of atmospheric carbon dioxide and reduce the risk of global climate change,2
 
-<sup>2</sup>  So in original. The comma probably should be a period.
+<sup>2</sup> So in original. The comma probably should be a period.
 
 **(b) Omitted**
 
@@ -235,7 +235,7 @@ In developing the reports required under subsection (c) of this section, the Sec
 
 The Secretary shall submit an annual report to the Congress on the amounts, types, and uses of herbicides and pesticides used in the National Forest System, including the beneficial or adverse effects of such uses.
 
-(Pub. L. 93–378, § 3, formerly § 2, Aug. 17, 1974, 88 Stat. 476; renumbered § 3 and amended Pub. L. 94–588, §§ 2–4, Oct. 22, 1976, 90 Stat. 2949, 2950; Pub. L. 101–624, title XXIV, § 2408(a), Nov. 28, 1990, 104 Stat. 4061; Pub. L. 115–141, div. O, title II, § 208(b)(1), Mar. 23, 2018, 132 Stat. 1066; Pub. L. 117–58, div. G, title III, § 70302(a)(1)(A), Nov. 15, 2021, 135 Stat. 1258.)
+(Pub. L. 93–378, § 3, formerly § 2, Aug. 17, 1974, 88 Stat. 476; renumbered § 3 and amended Pub. L. 94–588, §§ 2–4, Oct. 22, 1976, 90 Stat. 2949, 2950; Pub. L. 101–624, title XXIV, § 2408(a), Nov. 28, 1990, 104 Stat. 4061; Pub. L. 115–141, div. O, title II, § 208(b)(1), Mar. 23, 2018, 132 Stat. 1066; Pub. L. 117–58, div. G, title III, § 70302(a)(1)(A), Nov. 15, 2021, 135 Stat. 1258.)
 
 **Editorial Notes**
 
@@ -245,21 +245,21 @@ Subsec. (b) of this section amended section 581h of this title.
 
 **Amendments**
 
-2021—Subsecs. (d), (e). Pub. L. 117–58, § 70302(a)(1)(A)(ii), redesignated subsec. (d) relating to Congressional policy regarding forested land in the National Forest System as (e). Former subsec. (e) redesignated (f).
+2021—Subsecs. (d), (e). Pub. L. 117–58, § 70302(a)(1)(A)(ii), redesignated subsec. (d) relating to Congressional policy regarding forested land in the National Forest System as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(2). Pub. L. 117–58, § 70302(a)(1)(A)(iii)(I), in first sentence, substituted “1607 of this title, the Secretary shall, annually during each of the 10 years beginning after November 15, 2021” for “1607 of this title, the Secretary shall annually for eight years following October 22, 1976” and “10-year” for “eight-year”; in second sentence, substituted “the 10-year period” for “such eight-year period”; and in third sentence, substituted “fiscal year 2021” for “fiscal year 1978”.
+Subsec. (e)(2). Pub. L. 117–58, § 70302(a)(1)(A)(iii)(I), in first sentence, substituted “1607 of this title, the Secretary shall, annually during each of the 10 years beginning after November 15, 2021” for “1607 of this title, the Secretary shall annually for eight years following October 22, 1976” and “10-year” for “eight-year”; in second sentence, substituted “the 10-year period” for “such eight-year period”; and in third sentence, substituted “fiscal year 2021” for “fiscal year 1978”.
 
-Subsec. (e)(3). Pub. L. 117–58, § 70302(a)(1)(A)(iii)(II), substituted “requirements of this subsection” for “requirements of this subsection (d)”.
+Subsec. (e)(3). Pub. L. 117–58, § 70302(a)(1)(A)(iii)(II), substituted “requirements of this subsection” for “requirements of this subsection (d)”.
 
-Subsec. (e)(4). Pub. L. 117–58, § 70302(a)(1)(A)(iii)(III), added par. (4).
+Subsec. (e)(4). Pub. L. 117–58, § 70302(a)(1)(A)(iii)(III), added par. (4).
 
-Subsec. (f). Pub. L. 117–58, § 70302(a)(1)(A)(i), redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 117–58, § 70302(a)(1)(A)(i), redesignated subsec. (e) as (f).
 
 2018—Subsec. (a). Pub. L. 115–141 inserted “(referred to in this subchapter as the ‘Secretary’)” after “Secretary of Agriculture” in introductory provisions.
 
 1990—Subsec. (a)(5), (6). Pub. L. 101–624 added pars. (5) and (6).
 
-1976—Subsecs. (c) to (e). Pub. L. 94–588, §§ 3, 4, added subsecs. (c) to (e).
+1976—Subsecs. (c) to (e). Pub. L. 94–588, §§ 3, 4, added subsecs. (c) to (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -269,7 +269,7 @@ For termination, effective May 15, 2000, of provisions in subsecs. (d)(1) and (e
 
 **Report**
 
-Pub. L. 117–58, div. G, title III, § 70303, Nov. 15, 2021, 135 Stat. 1260, provided that:
+Pub. L. 117–58, div. G, title III, § 70303, Nov. 15, 2021, 135 Stat. 1260, provided that:
 
 > “Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021], and annually thereafter, the Secretary of Agriculture shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives, and make publicly available on the website of the Forest Service, a report that describes, with respect to the preceding year—
 
@@ -283,15 +283,15 @@ Pub. L. 117–58, div. G, title III, § 70303, Nov. 15, 2021, 135 Stat. 1260, 
 
 **Presidential Commission on State and Private Forests**
 
-Pub. L. 101–624, title XII, § 1245, Nov. 28, 1990, 104 Stat. 3548, as amended by Pub. L. 102–237, title X, § 1018(b), Dec. 13, 1991, 105 Stat. 1905, established the Commission on State and Private Forests, which was to assess the status of the State and private forest lands of the United States and report its findings and recommendations to the President by Dec. 1, 1992, and which terminated 90 days after submitting its report.
+Pub. L. 101–624, title XII, § 1245, Nov. 28, 1990, 104 Stat. 3548, as amended by Pub. L. 102–237, title X, § 1018(b), Dec. 13, 1991, 105 Stat. 1905, established the Commission on State and Private Forests, which was to assess the status of the State and private forest lands of the United States and report its findings and recommendations to the President by Dec. 1, 1992, and which terminated 90 days after submitting its report.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this subchapter and system activities requiring coordination and approval under general authorities of this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this subchapter and system activities requiring coordination and approval under general authorities of this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-### § 1602. Renewable Resource Program; preparation by Secretary and transmittal to President; purpose and development of program; time of preparation, updating and contents
+### § 1602. Renewable Resource Program; preparation by Secretary and transmittal to President; purpose and development of program; time of preparation, updating and contents
 
 In order to provide for periodic review of programs for management and administration of the National Forest System, for research, for cooperative State and private Forest Service programs, and for conduct of other Forest Service activities in relation to the findings of the Assessment, the Secretary, utilizing information available to the Forest Service and other agencies within the Department of Agriculture, including data prepared pursuant to section 1010a of title 7, shall prepare and transmit to the President a recommended Renewable Resource Program (hereinafter called the “Program”). The Program transmitted to the President may include alternatives, and shall provide in appropriate detail for protection, management, and development of the National Forest System, including forest development roads and trails; for cooperative Forest Service programs; and for research. The Program shall be developed in accordance with principles set forth in the Multiple-Use Sustained-Yield Act of June 12, 1960 (74 Stat. 215; 16 U.S.C. 528–531), and the National Environmental Policy Act of 1969 (83 Stat. 852) [42 U.S.C. 4321 et seq.]. The Program shall be prepared not later than December 31, 1975, to cover the four-year period beginning October 1, 1976, and at least each of the four fiscal decades next following such period, and shall be updated no later than during the first half of the fiscal year ending September 30, 1980, and the first half of each fifth fiscal year thereafter to cover at least each of the four fiscal decades beginning next after such updating. The Program shall include, but not be limited to—
 
@@ -317,7 +317,7 @@ In order to provide for periodic review of programs for management and administr
 
 **(F)** account for the effects of global climate change on forest and rangeland conditions, including potential effects on the geographic ranges of species, and on forest and rangeland products.
 
-(Pub. L. 93–378, § 4, formerly § 3, Aug. 17, 1974, 88 Stat. 477, renumbered § 4 and amended Pub. L. 94–588, §§ 2, 5, Oct. 22, 1976, 90 Stat. 2949, 2951; Pub. L. 101–624, title XXIV, § 2408(b), Nov. 28, 1990, 104 Stat. 4061; Pub. L. 115–141, div. O, title II, § 208(b)(2), Mar. 23, 2018, 132 Stat. 1066.)
+(Pub. L. 93–378, § 4, formerly § 3, Aug. 17, 1974, 88 Stat. 477, renumbered § 4 and amended Pub. L. 94–588, §§ 2, 5, Oct. 22, 1976, 90 Stat. 2949, 2951; Pub. L. 101–624, title XXIV, § 2408(b), Nov. 28, 1990, 104 Stat. 4061; Pub. L. 115–141, div. O, title II, § 208(b)(2), Mar. 23, 2018, 132 Stat. 1066.)
 
 **Editorial Notes**
 
@@ -325,7 +325,7 @@ In order to provide for periodic review of programs for management and administr
 
 The Multiple-Use Sustained-Yield Act of 1960, referred to in text, is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
 
-The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
@@ -343,11 +343,11 @@ Par. (5). Pub. L. 94–588 added par. (5).
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
 
-### § 1603. National Forest System resource inventories; development, maintenance, and updating by Secretary as part of Assessment
+### § 1603. National Forest System resource inventories; development, maintenance, and updating by Secretary as part of Assessment
 
 As a part of the Assessment, the Secretary shall develop and maintain on a continuing basis a comprehensive and appropriately detailed inventory of all National Forest System lands and renewable resources. This inventory shall be kept current so as to reflect changes in conditions and identify new and emerging resources and values.
 
-(Pub. L. 93–378, § 5, formerly § 4, Aug. 17, 1974, 88 Stat. 477, renumbered § 5, Pub. L. 94–588, § 2, Oct. 22, 1976, 90 Stat. 2949; amended Pub. L. 115–141, div. O, title II, § 208(b)(2), Mar. 23, 2018, 132 Stat. 1066.)
+(Pub. L. 93–378, § 5, formerly § 4, Aug. 17, 1974, 88 Stat. 477, renumbered § 5, Pub. L. 94–588, § 2, Oct. 22, 1976, 90 Stat. 2949; amended Pub. L. 115–141, div. O, title II, § 208(b)(2), Mar. 23, 2018, 132 Stat. 1066.)
 
 **Editorial Notes**
 
@@ -355,7 +355,7 @@ As a part of the Assessment, the Secretary shall develop and maintain on a conti
 
 2018—Pub. L. 115–141 substituted “Secretary” for “Secretary of Agriculture”.
 
-### § 1604. National Forest System land and resource management plans
+### § 1604. National Forest System land and resource management plans
 
 **(a) Development, maintenance, and revision by Secretary as part of program; coordination**
 
@@ -387,9 +387,9 @@ The Secretary shall provide for public participation in the development, review,
 
 **(i)** 15 years have passed since the date on which the Secretary adopted the land management plan described in clause (i) of that subparagraph; and
 
-**(ii)** 5 years have passed since the date of enactment of this section 1
+**(ii)** 5 years have passed since the date of enactment of this section 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or the date of the listing of a species as threatened or endangered for a species known to occur on the unit or the designation of critical habitat within the unit as described in clause (i) of that subparagraph, whichever is later.
 
@@ -487,15 +487,15 @@ In developing land management plans pursuant to this subchapter, the Secretary s
 
 **(l) Program evaluation; process for estimating long-term costs and benefits; summary of data included in annual report** The Secretary shall—
 
-**(1)** formulate and implement, as soon as practicable, a process for estimating long-terms 2
+**(1)** formulate and implement, as soon as practicable, a process for estimating long-terms 2
 
-<sup>2</sup>  So in original. Probably should be “long-term”.
+<sup>2</sup> So in original. Probably should be “long-term”.
 
 costs and benefits to support the program evaluation requirements of this subchapter. This process shall include requirements to provide information on a representative sample basis of estimated expenditures associated with the reforestation, timber stand improvement, and sale of timber from the National Forest System, and shall provide a comparison of these expenditures to the return to the Government resulting from the sale of timber; and
 
-**(2)** include a summary of data and findings resulting from these estimates as a part of the annual report required pursuant to section 1606(c) of this title, including an identification on a representative sample basis of those advertised timber sales made below the estimated expenditures for such timber as determined by the above cost process; and 3
+**(2)** include a summary of data and findings resulting from these estimates as a part of the annual report required pursuant to section 1606(c) of this title, including an identification on a representative sample basis of those advertised timber sales made below the estimated expenditures for such timber as determined by the above cost process; and 3
 
-<sup>3</sup>  So in original. The “; and” probably should be a period.
+<sup>3</sup> So in original. The “; and” probably should be a period.
 
 **(m) Establishment of standards to ensure culmination of mean annual increment of growth; silvicultural practices; salvage harvesting; exceptions** The Secretary shall establish—
 
@@ -503,91 +503,91 @@ costs and benefits to support the program evaluation requirements of this subcha
 
 **(2)** exceptions to these standards for the harvest of particular species of trees in management units after consideration has been given to the multiple uses of the forest including, but not limited to, recreation, wildlife habitat, and range and after completion of public participation processes utilizing the procedures of subsection (d) of this section.
 
-(Pub. L. 93–378, § 6, formerly, § 5, Aug. 17, 1974, 88 Stat. 477, renumbered § 6 and amended Pub. L. 94–588, §§ 2, 6, 12(a), Oct. 22, 1976, 90 Stat. 2949, 2952, 2958; Pub. L. 115–141, div. O, title II, § 208(a), (b)(2), Mar. 23, 2018, 132 Stat. 1065, 1066.)
+(Pub. L. 93–378, § 6, formerly, § 5, Aug. 17, 1974, 88 Stat. 477, renumbered § 6 and amended Pub. L. 94–588, §§ 2, 6, 12(a), Oct. 22, 1976, 90 Stat. 2949, 2952, 2958; Pub. L. 115–141, div. O, title II, § 208(a), (b)(2), Mar. 23, 2018, 132 Stat. 1065, 1066.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 93–205, referred to subsec. (d)(2)(A)(i), (C)(i), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+Public Law 93–205, referred to subsec. (d)(2)(A)(i), (C)(i), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 The date of enactment of this section, referred to in subsec. (d)(2)(B)(ii), probably means the date of enactment of Pub. L. 115–141, which added subsec. (d)(2) and was approved Mar. 23, 2018.
 
 The Multiple-Use Sustained-Yield Act of 1960, referred to in subsecs. (e) and (g), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (g)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (g)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–141, § 208(b)(2), substituted “Secretary” for “Secretary of Agriculture”.
+2018—Subsec. (a). Pub. L. 115–141, § 208(b)(2), substituted “Secretary” for “Secretary of Agriculture”.
 
-Subsec. (d). Pub. L. 115–141, § 208(a), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2).
+Subsec. (d). Pub. L. 115–141, § 208(a), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2).
 
-Subsec. (h)(1). Pub. L. 115–141, § 208(b)(2), substituted “Secretary shall appoint” for “Secretary of Agriculture shall appoint”.
+Subsec. (h)(1). Pub. L. 115–141, § 208(b)(2), substituted “Secretary shall appoint” for “Secretary of Agriculture shall appoint”.
 
-1976—Subsec. (a). Pub. L. 94–588, § 12(a), made technical amendment to reference in original Act which appears in text as reference to section 1602 of this title.
+1976—Subsec. (a). Pub. L. 94–588, § 12(a), made technical amendment to reference in original Act which appears in text as reference to section 1602 of this title.
 
-Subsecs. (c) to (m). Pub. L. 94–588, § 6, added subsecs. (c) to (m).
+Subsecs. (c) to (m). Pub. L. 94–588, § 6, added subsecs. (c) to (m).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Revision of Forest Plans**
 
-Pub. L. 119–74, div. C, title IV, § 407, Jan. 23, 2026, 140 Stat. 158, provided that: “The Secretary of Agriculture shall not be considered to be in violation of section 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act [of 1974] (16 U.S.C. 1600 et seq.) or any other law: *Provided*, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
+Pub. L. 119–74, div. C, title IV, § 407, Jan. 23, 2026, 140 Stat. 158, provided that: “The Secretary of Agriculture shall not be considered to be in violation of section 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act [of 1974] (16 U.S.C. 1600 et seq.) or any other law: *Provided*, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 118–42, div. E, title IV, § 407, Mar. 9, 2024, 138 Stat. 285.
+Pub. L. 118–42, div. E, title IV, § 407, Mar. 9, 2024, 138 Stat. 285.
 
-Pub. L. 117–328, div. G, title IV, § 407, Dec. 29, 2022, 136 Stat. 4821.
+Pub. L. 117–328, div. G, title IV, § 407, Dec. 29, 2022, 136 Stat. 4821.
 
-Pub. L. 117–103, div. G, title IV, § 407, Mar. 15, 2022, 136 Stat. 410.
+Pub. L. 117–103, div. G, title IV, § 407, Mar. 15, 2022, 136 Stat. 410.
 
-Pub. L. 116–260, div. G, title IV, § 407, Dec. 27, 2020, 134 Stat. 1536.
+Pub. L. 116–260, div. G, title IV, § 407, Dec. 27, 2020, 134 Stat. 1536.
 
-Pub. L. 116–94, div. D, title IV, § 407, Dec. 20, 2019, 133 Stat. 2743.
+Pub. L. 116–94, div. D, title IV, § 407, Dec. 20, 2019, 133 Stat. 2743.
 
-Pub. L. 116–6, div. E, title IV, § 407, Feb. 15, 2019, 133 Stat. 259.
+Pub. L. 116–6, div. E, title IV, § 407, Feb. 15, 2019, 133 Stat. 259.
 
-Pub. L. 115–141, div. G, title IV, § 407, Mar. 23, 2018, 132 Stat. 688.
+Pub. L. 115–141, div. G, title IV, § 407, Mar. 23, 2018, 132 Stat. 688.
 
-Pub. L. 115–31, div. G, title IV, § 407, May 5, 2017, 131 Stat. 495.
+Pub. L. 115–31, div. G, title IV, § 407, May 5, 2017, 131 Stat. 495.
 
-Pub. L. 114–113, div. G, title IV, § 407, Dec. 18, 2015, 129 Stat. 2575.
+Pub. L. 114–113, div. G, title IV, § 407, Dec. 18, 2015, 129 Stat. 2575.
 
-Pub. L. 113–235, div. F, title IV, § 408, Dec. 16, 2014, 128 Stat. 2445.
+Pub. L. 113–235, div. F, title IV, § 408, Dec. 16, 2014, 128 Stat. 2445.
 
-Pub. L. 113–76, div. G, title IV, § 407, Jan. 17, 2014, 128 Stat. 338.
+Pub. L. 113–76, div. G, title IV, § 407, Jan. 17, 2014, 128 Stat. 338.
 
-Pub. L. 112–74, div. E, title IV, § 409, Dec. 23, 2011, 125 Stat. 1039.
+Pub. L. 112–74, div. E, title IV, § 409, Dec. 23, 2011, 125 Stat. 1039.
 
-Pub. L. 111–88, div. A, title IV, § 410, Oct. 30, 2009, 123 Stat. 2957.
+Pub. L. 111–88, div. A, title IV, § 410, Oct. 30, 2009, 123 Stat. 2957.
 
-Pub. L. 111–8, div. E, title IV, § 410, Mar. 11, 2009, 123 Stat. 746.
+Pub. L. 111–8, div. E, title IV, § 410, Mar. 11, 2009, 123 Stat. 746.
 
-Pub. L. 110–161, div. F, title IV, § 410, Dec. 26, 2007, 121 Stat. 2146.
+Pub. L. 110–161, div. F, title IV, § 410, Dec. 26, 2007, 121 Stat. 2146.
 
-Pub. L. 109–54, title IV, § 415, Aug. 2, 2005, 119 Stat. 551.
+Pub. L. 109–54, title IV, § 415, Aug. 2, 2005, 119 Stat. 551.
 
-Pub. L. 108–447, div. E, title III, § 320, Dec. 8, 2004, 118 Stat. 3097.
+Pub. L. 108–447, div. E, title III, § 320, Dec. 8, 2004, 118 Stat. 3097.
 
-Pub. L. 108–108, title III, § 320, Nov. 10, 2003, 117 Stat. 1306.
+Pub. L. 108–108, title III, § 320, Nov. 10, 2003, 117 Stat. 1306.
 
-Pub. L. 108–7, div. F, title III, § 320, Feb. 20, 2003, 117 Stat 274.
+Pub. L. 108–7, div. F, title III, § 320, Feb. 20, 2003, 117 Stat 274.
 
-Pub. L. 107–63, title III, § 327, Nov. 5, 2001, 115 Stat. 470.
+Pub. L. 107–63, title III, § 327, Nov. 5, 2001, 115 Stat. 470.
 
 **Expeditious Completion of Management Plans of Forest Service and Bureau of Land Management; Continuation of Existing Plans; Judicial Review**
 
-Pub. L. 101–121, title III, § 312, Oct. 23, 1989, 103 Stat. 743, provided that: “The Forest Service and Bureau of Land Management are to continue to complete as expeditiously as possible development of their respective Forest Land and Resource Management Plans to meet all applicable statutory requirements. Notwithstanding the date in section 6(c) of the NFMA (16 U.S.C. 1600) [16 U.S.C. 1604(c)], the Forest Service, and the Bureau of Land Management under separate authority, may continue the management of lands within their jurisdiction under existing land and resource management plans pending the completion of new plans. Nothing shall limit judicial review of particular activities on these lands: *Provided, however*, That there shall be no challenges to any existing plan on the sole basis that the plan in its entirety is outdated, or in the case of the Bureau of Land Management, solely on the basis that the plan does not incorporate information available subsequent to the completion of the existing plan: *Provided further*, That any and all particular activities to be carried out under existing plans may nevertheless be challenged.”
+Pub. L. 101–121, title III, § 312, Oct. 23, 1989, 103 Stat. 743, provided that: “The Forest Service and Bureau of Land Management are to continue to complete as expeditiously as possible development of their respective Forest Land and Resource Management Plans to meet all applicable statutory requirements. Notwithstanding the date in section 6(c) of the NFMA (16 U.S.C. 1600) [16 U.S.C. 1604(c)], the Forest Service, and the Bureau of Land Management under separate authority, may continue the management of lands within their jurisdiction under existing land and resource management plans pending the completion of new plans. Nothing shall limit judicial review of particular activities on these lands: *Provided, however*, That there shall be no challenges to any existing plan on the sole basis that the plan in its entirety is outdated, or in the case of the Bureau of Land Management, solely on the basis that the plan does not incorporate information available subsequent to the completion of the existing plan: *Provided further*, That any and all particular activities to be carried out under existing plans may nevertheless be challenged.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 100–446, title III, § 314, Sept. 27, 1988, 102 Stat. 1825.
+Pub. L. 100–446, title III, § 314, Sept. 27, 1988, 102 Stat. 1825.
 
-Pub. L. 100–202, § 101(g) [title III, § 314], Dec. 22, 1987, 101 Stat. 1329–213, 1329–254.
+Pub. L. 100–202, § 101(g) [title III, § 314], Dec. 22, 1987, 101 Stat. 1329–213, 1329–254.
 
-Pub. L. 99–500, § 101(h) [title II], Oct. 18, 1986, 100 Stat. 1783–242, 1783–268, and Pub. L. 99–591, § 101(h) [title II], Oct. 30, 1986, 100 Stat. 3341–242, 3341–268.
+Pub. L. 99–500, § 101(h) [title II], Oct. 18, 1986, 100 Stat. 1783–242, 1783–268, and Pub. L. 99–591, § 101(h) [title II], Oct. 30, 1986, 100 Stat. 3341–242, 3341–268.
 
 **Executive Documents**
 
@@ -595,11 +595,11 @@ Pub. L. 99–500, § 101(h) [title II], Oct. 18, 1986, 100 Stat. 1783–242, 1
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
 
-### § 1605. Protection, use and management of renewable resources on non-Federal lands; utilization of Assessment, surveys and Program by Secretary to assist States, etc.
+### § 1605. Protection, use and management of renewable resources on non-Federal lands; utilization of Assessment, surveys and Program by Secretary to assist States, etc.
 
 The Secretary may utilize the Assessment, resource surveys, and Program prepared pursuant to this subchapter to assist States and other organizations in proposing the planning for the protection, use, and management of renewable resources on non-Federal land.
 
-(Pub. L. 93–378, § 7, formerly § 6, Aug. 17, 1974, 88 Stat. 478, renumbered § 7, Pub. L. 94–588, § 2, Oct. 22, 1976, 90 Stat. 2949; amended Pub. L. 115–141, div. O, title II, § 208(b)(2), Mar. 23, 2018, 132 Stat. 1066.)
+(Pub. L. 93–378, § 7, formerly § 6, Aug. 17, 1974, 88 Stat. 478, renumbered § 7, Pub. L. 94–588, § 2, Oct. 22, 1976, 90 Stat. 2949; amended Pub. L. 115–141, div. O, title II, § 208(b)(2), Mar. 23, 2018, 132 Stat. 1066.)
 
 **Editorial Notes**
 
@@ -607,7 +607,7 @@ The Secretary may utilize the Assessment, resource surveys, and Program prepared
 
 2018—Pub. L. 115–141 substituted “Secretary” for “Secretary of Agriculture”.
 
-### § 1606. Budget requests by President for Forest Service activities
+### § 1606. Budget requests by President for Forest Service activities
 
 **(a) Transmittal to Speaker of House and President of Senate of Assessment, Program and Statement of Policy used in framing requests; time for transmittal; implementation by President of programs established under Statement of Policy unless Statement subsequently disapproved by Congress; time for disapproval**
 
@@ -633,7 +633,7 @@ The reports shall indicate plans for implementing corrective action and recommen
 
 The reports shall be structured for Congress in concise summary form with necessary detailed data in appendices.
 
-(Pub. L. 93–378, § 8, formerly § 7, Aug. 17, 1974, 88 Stat. 478, renumbered § 8 and amended Pub. L. 94–588, §§ 2, 7, 12(b), Oct. 22, 1976, 90 Stat. 2949, 2956, 2958; Pub. L. 95–313, § 15, formerly § 12, July 1, 1978, 92 Stat. 374, renumbered § 15, Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525; amended Pub. L. 115–141, div. O, title II, § 208(b)(2), Mar. 23, 2018, 132 Stat. 1066.)
+(Pub. L. 93–378, § 8, formerly § 7, Aug. 17, 1974, 88 Stat. 478, renumbered § 8 and amended Pub. L. 94–588, §§ 2, 7, 12(b), Oct. 22, 1976, 90 Stat. 2949, 2956, 2958; Pub. L. 95–313, § 15, formerly § 12, July 1, 1978, 92 Stat. 374, renumbered § 15, Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525; amended Pub. L. 115–141, div. O, title II, § 208(b)(2), Mar. 23, 2018, 132 Stat. 1066.)
 
 **Editorial Notes**
 
@@ -641,7 +641,7 @@ The reports shall be structured for Congress in concise summary form with necess
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (b), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
-The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to chapter 41 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
+The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to chapter 41 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
 
 **Amendments**
 
@@ -649,11 +649,11 @@ The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c), is 
 
 1978—Subsec. (c). Pub. L. 95–313 inserted provisions relating to inclusion in report of findings involving cooperative State and private Forest Service programs, and provisions relating to scope of report descriptions involving programs and activities under the Cooperative Forestry Assistance Act of 1978.
 
-1976—Subsec. (a). Pub. L. 94–588, §§ 7(a), 12(b)(1), made technical amendment to references in original act which appear in text as references to sections 1601 and 1602 of this title and substituted “ninety calendar days of continuous session” for “sixty days of continuous session” and “ninety-day period” for “sixty-day period”.
+1976—Subsec. (a). Pub. L. 94–588, §§ 7(a), 12(b)(1), made technical amendment to references in original act which appear in text as references to sections 1601 and 1602 of this title and substituted “ninety calendar days of continuous session” for “sixty days of continuous session” and “ninety-day period” for “sixty-day period”.
 
-Subsec. (c). Pub. L. 94–588, §§ 7(b), 12(b)(2), substituted “section 4” for “section 3” in the original which, because of its translation as “section 1602 of this title” required no change in text and inserted provision requiring that the report include a description of the status of major research programs, significant findings, and how such findings will be applied in National Forest System management.
+Subsec. (c). Pub. L. 94–588, §§ 7(b), 12(b)(2), substituted “section 4” for “section 3” in the original which, because of its translation as “section 1602 of this title” required no change in text and inserted provision requiring that the report include a description of the status of major research programs, significant findings, and how such findings will be applied in National Forest System management.
 
-Subsec. (d). Pub. L. 94–588, § 12(b)(3), made technical amendment to reference in original act which appears in text as reference to section 1602 of this title.
+Subsec. (d). Pub. L. 94–588, § 12(b)(3), made technical amendment to reference in original act which appears in text as reference to section 1602 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -667,7 +667,7 @@ For termination, effective May 15, 2000, of provisions in subsecs. (a) and (c) o
 
 **Statement of Policy**
 
-Pub. L. 96–514, title III, § 310, Dec. 12, 1980, 94 Stat. 2984, provided that:
+Pub. L. 96–514, title III, § 310, Dec. 12, 1980, 94 Stat. 2984, provided that:
 
 > “The Statement of Policy transmitted by the President to the Speaker of the House of Representatives and the President of the Senate on June 19, 1980, as required under section 8 of the Forest and Rangeland Renewable Resources Planning Act of 1974 [this section], is revised and modified to read as follows:
 
@@ -709,9 +709,9 @@ Pub. L. 96–514, title III, § 310, Dec. 12, 1980, 94 Stat. 2984, provided th
 
 **Statement of Purposes of Amendment by Cooperative Forestry Assistance Act of 1978**
 
-Section 15, formerly section 12 of Pub. L. 95–313, renumbered § 15, Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525, provided in part that the amendment of subsec. (c) of this section by Pub. L. 95–313 is to insure that Congress has adequate information to implement its oversight responsibilities and to provide accountability for expenditures and activities under the Cooperative Forestry Assistance Act of 1978. See Short Title note set out under section 2101 of this title for classification of the Cooperative Forestry Assistance Act of 1978 in the Code.
+Section 15, formerly section 12 of Pub. L. 95–313, renumbered § 15, Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525, provided in part that the amendment of subsec. (c) of this section by Pub. L. 95–313 is to insure that Congress has adequate information to implement its oversight responsibilities and to provide accountability for expenditures and activities under the Cooperative Forestry Assistance Act of 1978. See Short Title note set out under section 2101 of this title for classification of the Cooperative Forestry Assistance Act of 1978 in the Code.
 
-### § 1606a. Reforestation Trust Fund
+### § 1606a. Reforestation Trust Fund
 
 **(a) Establishment; source of funds**
 
@@ -749,7 +749,7 @@ Proper adjustment shall be made in the amounts subsequently transferred to the e
 
 **(2)** properly allocable administrative costs of the Federal Government for the activities specified above.
 
-(Pub. L. 96–451, title III, § 303, Oct. 14, 1980, 94 Stat. 1991; Pub. L. 97–424, title IV, § 422, Jan. 6, 1983, 96 Stat. 2164; Pub. L. 99–190, § 101(d) [title II, § 201], Dec. 19, 1985, 99 Stat. 1224, 1245; Pub. L. 100–418, title I, § 1214(r), Aug. 23, 1988, 102 Stat. 1160; Pub. L. 105–83, title III, § 322, Nov. 14, 1997, 111 Stat. 1596; Pub. L. 117–58, div. G, title III, § 70302(b), Nov. 15, 2021, 135 Stat. 1260.)
+(Pub. L. 96–451, title III, § 303, Oct. 14, 1980, 94 Stat. 1991; Pub. L. 97–424, title IV, § 422, Jan. 6, 1983, 96 Stat. 2164; Pub. L. 99–190, § 101(d) [title II, § 201], Dec. 19, 1985, 99 Stat. 1224, 1245; Pub. L. 100–418, title I, § 1214(r), Aug. 23, 1988, 102 Stat. 1160; Pub. L. 105–83, title III, § 322, Nov. 14, 1997, 111 Stat. 1596; Pub. L. 117–58, div. G, title III, § 70302(b), Nov. 15, 2021, 135 Stat. 1260.)
 
 **Editorial Notes**
 
@@ -761,13 +761,13 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 
 Section was not enacted as part of the Forest and Rangeland Renewable Resources Planning Act of 1974 which comprises this subchapter.
 
-In subsec. (c)(2)(A), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c)(2)(A), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
-2021—Subsec. (b). Pub. L. 117–58, § 70302(b)(1), substituted “Transfers to Trust Fund” for “Transfer of certain tariff receipts to Trust Fund; fiscal year limitation; quarterly transfers; adjustment of estimates” in subsec. heading; inserted par. heading and substituted “The Secretary” for “Subject to the limitation in paragraph (2), the Secretary” in par. (1); struck out par. (2) which provided that the Secretary could not transfer more than $30,000,000 to the Trust Fund for any fiscal year; redesignated par. (3) as (2) and inserted par. (2) heading; and redesignated second sentence of former par. (3) as (3) and inserted par. (3) heading.
+2021—Subsec. (b). Pub. L. 117–58, § 70302(b)(1), substituted “Transfers to Trust Fund” for “Transfer of certain tariff receipts to Trust Fund; fiscal year limitation; quarterly transfers; adjustment of estimates” in subsec. heading; inserted par. heading and substituted “The Secretary” for “Subject to the limitation in paragraph (2), the Secretary” in par. (1); struck out par. (2) which provided that the Secretary could not transfer more than $30,000,000 to the Trust Fund for any fiscal year; redesignated par. (3) as (2) and inserted par. (2) heading; and redesignated second sentence of former par. (3) as (3) and inserted par. (3) heading.
 
-Subsec. (d)(1). Pub. L. 117–58, § 70302(b)(2), substituted “subsection (e) of section 1601” for “section 1601(d)” and made technical amendment to reference in original act which appears in text as reference to section 1601 of this title.
+Subsec. (d)(1). Pub. L. 117–58, § 70302(b)(2), substituted “subsection (e) of section 1601” for “section 1601(d)” and made technical amendment to reference in original act which appears in text as reference to section 1601 of this title.
 
 1997—Subsec. (d)(1). Pub. L. 105–83 inserted before semicolon “and other forest stand improvement activities to enhance forest health and reduce hazardous fuel loads of forest stands in the National Forest System”.
 
@@ -777,11 +777,11 @@ Subsec. (d)(1). Pub. L. 117–58, § 70302(b)(2), substituted “subsection (e
 
 Subsec. (e). Pub. L. 99–190 struck out subsec. (e) which related to sense of Congress with respect to disposition of unexpended funds.
 
-1983—Subsec. (b)(1). Pub. L. 97–424, § 422(b), struck out “and before October 1, 1985,” after “September 30, 1979”.
+1983—Subsec. (b)(1). Pub. L. 97–424, § 422(b), struck out “and before October 1, 1985,” after “September 30, 1979”.
 
-Subsec. (d). Pub. L. 97–424, § 422(a), substituted provisions relating to fiscal years 1983 through 1985 for provision that directed that for each of the first 5 fiscal years beginning after Sept. 30, 1980, there was authorized after that date to be appropriated to the Secretary of Agriculture, out of any amounts in the Trust Fund, an amount equal to the sum of the amount by which the sum estimated by the Secretary of Agriculture for the fiscal year under section 1601(d)(2) of this title to be necessary for reforestation and other treatment of acreage, as set forth in the report transmitted by the Secretary to the Congress under that section for the fiscal year, exceeded the sum of the amounts appropriated for the fiscal year under the authorization contained in section 1601(d)(3) of this title and under any other provision of law to carry out the same purpose; and such sums as were determined by the Secretary of Agriculture to be properly allocable to administrative costs of the Federal Government incurred for the fiscal year in connection with the reforestation program carried out under this chapter.
+Subsec. (d). Pub. L. 97–424, § 422(a), substituted provisions relating to fiscal years 1983 through 1985 for provision that directed that for each of the first 5 fiscal years beginning after Sept. 30, 1980, there was authorized after that date to be appropriated to the Secretary of Agriculture, out of any amounts in the Trust Fund, an amount equal to the sum of the amount by which the sum estimated by the Secretary of Agriculture for the fiscal year under section 1601(d)(2) of this title to be necessary for reforestation and other treatment of acreage, as set forth in the report transmitted by the Secretary to the Congress under that section for the fiscal year, exceeded the sum of the amounts appropriated for the fiscal year under the authorization contained in section 1601(d)(3) of this title and under any other provision of law to carry out the same purpose; and such sums as were determined by the Secretary of Agriculture to be properly allocable to administrative costs of the Federal Government incurred for the fiscal year in connection with the reforestation program carried out under this chapter.
 
-Subsec. (e). Pub. L. 97–424, § 422(a), substituted provision that it is the intent of Congress that the Secretary expend all of the funds available in the Trust Fund in each fiscal year and that any such funds which are not expended in a given fiscal year remain available for expenditure without fiscal year limitation; except that any funds not expended prior to Oct. 1, 1985, shall, no later than Apr. 30, 1986, be distributed to the States for use in State forestry programs pursuant to the formula set forth in section 500 of this title for provision that the Secretary of the Treasury pay into the general fund of the Treasury any amounts, including interest earned on such amounts, remaining in the Trust Fund after Sept. 30, 1985, which were not expended and remained in the Trust Fund.
+Subsec. (e). Pub. L. 97–424, § 422(a), substituted provision that it is the intent of Congress that the Secretary expend all of the funds available in the Trust Fund in each fiscal year and that any such funds which are not expended in a given fiscal year remain available for expenditure without fiscal year limitation; except that any funds not expended prior to Oct. 1, 1985, shall, no later than Apr. 30, 1986, be distributed to the States for use in State forestry programs pursuant to the formula set forth in section 500 of this title for provision that the Secretary of the Treasury pay into the general fund of the Treasury any amounts, including interest earned on such amounts, remaining in the Trust Fund after Sept. 30, 1985, which were not expended and remained in the Trust Fund.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -793,11 +793,11 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 For termination, effective May 15, 2000, of provisions in subsec. (c)(1) of this section relating to reporting to Congress each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 143 of House Document No. 103–7.
 
-### § 1607. National Forest System renewable resources; development and administration by Secretary in accordance with multiple use and sustained yield concepts for products and services; target year for operational posture of resources; budget requests
+### § 1607. National Forest System renewable resources; development and administration by Secretary in accordance with multiple use and sustained yield concepts for products and services; target year for operational posture of resources; budget requests
 
 The Secretary shall take such action as will assure that the development and administration of the renewable resources of the National Forest System are in full accord with the concepts for multiple use and sustained yield of products and services as set forth in the Multiple-Use Sustained-Yield Act of 1960 [16 U.S.C. 528–531]. To further these concepts, the Congress hereby sets the year 2030 as the target year when the renewable resources of the National Forest System shall be in an operating posture whereby all backlogs of needed treatment for their restoration shall be reduced to a current basis and the major portion of planned intensive multiple-use sustained-yield management procedures shall be installed and operating on an environmentally-sound basis. The annual budget shall contain requests for funds for an orderly program to eliminate such backlogs: *Provided*, That when the Secretary finds that (1) the backlog of areas that will benefit by such treatment has been eliminated, (2) the cost of treating the remainder of such area exceeds the economic and environmental benefits to be secured from their treatment, or (3) the total supplies of the renewable resources of the United States are adequate to meet the future needs of the American people, the budget request for these elements of restoration may be adjusted accordingly.
 
-(Pub. L. 93–378, § 9, formerly § 8, Aug. 17, 1974, 88 Stat. 479, renumbered § 9, Pub. L. 94–588, § 2, Oct. 22, 1976, 90 Stat. 2949; amended Pub. L. 115–141, div. O, title II, § 208(b)(2), Mar. 23, 2018, 132 Stat. 1066; Pub. L. 117–58, div. G, title III, § 70302(a)(2), Nov. 15, 2021, 135 Stat. 1260.)
+(Pub. L. 93–378, § 9, formerly § 8, Aug. 17, 1974, 88 Stat. 479, renumbered § 9, Pub. L. 94–588, § 2, Oct. 22, 1976, 90 Stat. 2949; amended Pub. L. 115–141, div. O, title II, § 208(b)(2), Mar. 23, 2018, 132 Stat. 1066; Pub. L. 117–58, div. G, title III, § 70302(a)(2), Nov. 15, 2021, 135 Stat. 1260.)
 
 **Editorial Notes**
 
@@ -817,7 +817,7 @@ The Multiple-Use Sustained-Yield Act of 1960, referred to in text, is Pub. L. 86
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
 
-### § 1608. National Forest Transportation System
+### § 1608. National Forest Transportation System
 
 **(a) Congressional declaration of policy; time for development; method of financing; financing of forest development roads**
 
@@ -831,21 +831,21 @@ Unless the necessity for a permanent road is set forth in the forest development
 
 Roads constructed on National Forest System lands shall be designed to standards appropriate for the intended uses, considering safety, cost of transportation, and impacts on land and resources.
 
-(Pub. L. 93–378, § 10, formerly § 9, Aug. 17, 1974, 88 Stat. 479, renumbered § 10 and amended Pub. L. 94–588, §§ 2, 8, Oct. 22, 1976, 90 Stat. 2949, 2956; Pub. L. 97–100, title II, § 201, Dec. 23, 1981, 95 Stat. 1405.)
+(Pub. L. 93–378, § 10, formerly § 9, Aug. 17, 1974, 88 Stat. 479, renumbered § 10 and amended Pub. L. 94–588, §§ 2, 8, Oct. 22, 1976, 90 Stat. 2949, 2956; Pub. L. 97–100, title II, § 201, Dec. 23, 1981, 95 Stat. 1405.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1981—Subsec. (a). Pub. L. 97–100 substituted “*Provided*, That limitations on the level of obligations for construction of forest roads by timber purchasers shall be established in annual appropriation Acts” for “, except that the financing of forest development roads as authorized by clause (2) of section 535 of this title, shall be deemed ‘budget authority’ and ‘budget outlays’ as those terms are defined in section 1302(a) of title 31, and shall be effective for any fiscal year only in the manner required for new spending authority as specified by section 1351(a) of title 31”.
+1981—Subsec. (a). Pub. L. 97–100 substituted “*Provided*, That limitations on the level of obligations for construction of forest roads by timber purchasers shall be established in annual appropriation Acts” for “, except that the financing of forest development roads as authorized by clause (2) of section 535 of this title, shall be deemed ‘budget authority’ and ‘budget outlays’ as those terms are defined in section 1302(a) of title 31, and shall be effective for any fiscal year only in the manner required for new spending authority as specified by section 1351(a) of title 31”.
 
-1976—Pub. L. 94–588, § 8, designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+1976—Pub. L. 94–588, § 8, designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **County Payment Mitigation; Transportation System Moratorium**
 
-Pub. L. 105–174, title III, § 3006, May 1, 1998, 112 Stat. 85, provided that:
+Pub. L. 105–174, title III, § 3006, May 1, 1998, 112 Stat. 85, provided that:
 
 > **“(a)**
 
@@ -891,13 +891,13 @@ Pub. L. 105–174, title III, § 3006, May 1, 1998, 112 Stat. 85, provided tha
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
 
-### § 1609. National Forest System
+### § 1609. National Forest System
 
 **(a) Congressional declaration of constituent elements and purposes; lands etc., included within; return of lands to public domain**
 
-Congress declares that the National Forest System consists of units of federally owned forest, range, and related lands throughout the United States and its territories, united into a nationally significant system dedicated to the long-term benefit for present and future generations, and that it is the purpose of this section to include all such areas into one integral system. The “National Forest System” shall include all national forest lands reserved or withdrawn from the public domain of the United States, all national forest lands acquired through purchase, exchange, donation, or other means, the national grasslands and land utilization projects administered under title III of the Bankhead-Jones Farm Tenant Act [7 U.S.C. 1010 et seq.], and other lands, waters, or interests therein which are administered by the Forest Service or are designated for administration through the Forest Service as a part of the system. Notwithstanding the provisions of section 473 of this title, no land now or hereafter reserved or withdrawn from the public domain as national forests pursuant to section 471 1
+Congress declares that the National Forest System consists of units of federally owned forest, range, and related lands throughout the United States and its territories, united into a nationally significant system dedicated to the long-term benefit for present and future generations, and that it is the purpose of this section to include all such areas into one integral system. The “National Forest System” shall include all national forest lands reserved or withdrawn from the public domain of the United States, all national forest lands acquired through purchase, exchange, donation, or other means, the national grasslands and land utilization projects administered under title III of the Bankhead-Jones Farm Tenant Act [7 U.S.C. 1010 et seq.], and other lands, waters, or interests therein which are administered by the Forest Service or are designated for administration through the Forest Service as a part of the system. Notwithstanding the provisions of section 473 of this title, no land now or hereafter reserved or withdrawn from the public domain as national forests pursuant to section 471 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, or any act supplementary to and amendatory thereof, shall be returned to the public domain except by an act of Congress.
 
@@ -905,25 +905,25 @@ of this title, or any act supplementary to and amendatory thereof, shall be retu
 
 The on-the-ground field offices, field supervisory offices, and regional offices of the Forest Service shall be so situated as to provide the optimum level of convenient, useful services to the public, giving priority to the maintenance and location of facilities in rural areas and towns near the national forest and Forest Service program locations in accordance with the standards in section 2204b–1(b) of title 7.
 
-(Pub. L. 93–378, § 11, formerly § 10, Aug. 17, 1974, 88 Stat. 480, renumbered § 11 and amended Pub. L. 94–588, §§ 2, 9, Oct. 22, 1976, 90 Stat. 2949, 2957.)
+(Pub. L. 93–378, § 11, formerly § 10, Aug. 17, 1974, 88 Stat. 480, renumbered § 11 and amended Pub. L. 94–588, §§ 2, 9, Oct. 22, 1976, 90 Stat. 2949, 2957.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Bankhead-Jones Farm Tenant Act, referred to in subsec. (a), is act July 22, 1937, ch. 517, 50 Stat. 522. Title III of the Bankhead Jones Farm Tenant Act is classified generally to subchapter III (§ 1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1000 of Title 7 and Tables.
+The Bankhead-Jones Farm Tenant Act, referred to in subsec. (a), is act July 22, 1937, ch. 517, 50 Stat. 522. Title III of the Bankhead Jones Farm Tenant Act is classified generally to subchapter III (§ 1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1000 of Title 7 and Tables.
 
-Section 471 of this title, referred to in subsec. (a), was repealed by Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792.)
+Section 471 of this title, referred to in subsec. (a), was repealed by Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
 **Amendments**
 
-1976—Subsec. (a). Pub. L. 94–588, § 9, prohibited the return to the public domain of land reserved or withdrawn from the public domain as national forests pursuant to section 471 of this title except by an act of Congress.
+1976—Subsec. (a). Pub. L. 94–588, § 9, prohibited the return to the public domain of land reserved or withdrawn from the public domain as national forests pursuant to section 471 of this title except by an act of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Land Conveyances Involving Joliet Army Ammunition Plant, Illinois**
 
-Pub. L. 104–106, div. B, title XXIX, Feb. 10, 1996, 110 Stat. 594, as amended by Pub. L. 106–65, div. B, title XXVIII, § 2842, Oct. 5, 1999, 113 Stat. 863; Pub. L. 113–291, div. B, title XXVIII, § 2838, Dec. 19, 2014, 128 Stat. 3710; Pub. L. 115–232, div. B, title XXVIII, § 2848, Aug. 13, 2018, 132 Stat. 2279, provided that title XXIX could be cited as the “Illinois Land Conservation Act of 1995” and provided for conversion of Joliet Army Ammunition Plant to Midewin National Tallgrass Prairie, Illinois, to be managed by the Secretary of Agriculture as part of National Forest System, and for conveyance of certain real property at the Arsenal for a national cemetery, a Will County, Illinois, landfill, and industrial parks to replace all or a part of lost economic activity, with provisions prohibiting construction of title XXIX to restrict or lessen degree of cleanup required to be carried out under environmental laws, and provisions authorizing retention of real property used for environmental cleanup by Secretary of the Army until transfer occurs.
+Pub. L. 104–106, div. B, title XXIX, Feb. 10, 1996, 110 Stat. 594, as amended by Pub. L. 106–65, div. B, title XXVIII, § 2842, Oct. 5, 1999, 113 Stat. 863; Pub. L. 113–291, div. B, title XXVIII, § 2838, Dec. 19, 2014, 128 Stat. 3710; Pub. L. 115–232, div. B, title XXVIII, § 2848, Aug. 13, 2018, 132 Stat. 2279, provided that title XXIX could be cited as the “Illinois Land Conservation Act of 1995” and provided for conversion of Joliet Army Ammunition Plant to Midewin National Tallgrass Prairie, Illinois, to be managed by the Secretary of Agriculture as part of National Forest System, and for conveyance of certain real property at the Arsenal for a national cemetery, a Will County, Illinois, landfill, and industrial parks to replace all or a part of lost economic activity, with provisions prohibiting construction of title XXIX to restrict or lessen degree of cleanup required to be carried out under environmental laws, and provisions authorizing retention of real property used for environmental cleanup by Secretary of the Army until transfer occurs.
 
 **Executive Documents**
 
@@ -931,11 +931,11 @@ Pub. L. 104–106, div. B, title XXIX, Feb. 10, 1996, 110 Stat. 594, as amended 
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
 
-### § 1610. Implementation of provisions by Secretary; utilization of information and data of other organizations; avoidance of duplication of planning, etc.; “renewable resources” defined
+### § 1610. Implementation of provisions by Secretary; utilization of information and data of other organizations; avoidance of duplication of planning, etc.; “renewable resources” defined
 
 In carrying out this subchapter, the Secretary shall utilize information and data available from other Federal, State, and private organizations and shall avoid duplication and overlap of resource assessment and program planning efforts of other Federal agencies. The term “renewable resources” shall be construed to involve those matters within the scope of responsibilities and authorities of the Forest Service on August 17, 1974 and on the date of enactment of any legislation amendatory or supplementary thereto.
 
-(Pub. L. 93–378, § 12, formerly § 11, Aug. 17, 1974, 88 Stat. 480, renumbered § 12 and amended Pub. L. 94–588, §§ 2, 10, Oct. 22, 1976, 90 Stat. 2949, 2957; Pub. L. 115–141, div. O, title II, § 208(b)(2), Mar. 23, 2018, 132 Stat. 1066.)
+(Pub. L. 93–378, § 12, formerly § 11, Aug. 17, 1974, 88 Stat. 480, renumbered § 12 and amended Pub. L. 94–588, §§ 2, 10, Oct. 22, 1976, 90 Stat. 2949, 2957; Pub. L. 115–141, div. O, title II, § 208(b)(2), Mar. 23, 2018, 132 Stat. 1066.)
 
 **Editorial Notes**
 
@@ -943,7 +943,7 @@ In carrying out this subchapter, the Secretary shall utilize information and dat
 
 2018—Pub. L. 115–141 substituted “Secretary” for “Secretary of Agriculture”.
 
-1976—Pub. L. 94–588, § 10, inserted “and on the date of enactment of any legislation amendatory or supplementary thereto”.
+1976—Pub. L. 94–588, § 10, inserted “and on the date of enactment of any legislation amendatory or supplementary thereto”.
 
 **Executive Documents**
 
@@ -951,7 +951,7 @@ In carrying out this subchapter, the Secretary shall utilize information and dat
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
 
-### § 1611. Timber
+### § 1611. Timber
 
 **(a) Limitations on removal; variations in allowable sale quantity; public participation**
 
@@ -961,7 +961,7 @@ The Secretary shall limit the sale of timber from each national forest to a quan
 
 Nothing in subsection (a) of this section shall prohibit the Secretary from salvage or sanitation harvesting of timber stands which are substantially damaged by fire, windthrow, or other catastrophe, or which are in imminent danger from insect or disease attack. The Secretary may either substitute such timber for timber that would otherwise be sold under the plan or, if not feasible, sell such timber over and above the plan volume.
 
-(Pub. L. 93–378, § 13, as added Pub. L. 94–588, § 11, Oct. 22, 1976, 90 Stat. 2957; amended Pub. L. 115–141, div. O, title II, § 208(b)(2), Mar. 23, 2018, 132 Stat. 1066.)
+(Pub. L. 93–378, § 13, as added Pub. L. 94–588, § 11, Oct. 22, 1976, 90 Stat. 2957; amended Pub. L. 115–141, div. O, title II, § 208(b)(2), Mar. 23, 2018, 132 Stat. 1066.)
 
 **Editorial Notes**
 
@@ -973,7 +973,7 @@ Nothing in subsection (a) of this section shall prohibit the Secretary from salv
 
 **Timber Sales Pipeline Restoration Fund**
 
-Pub. L. 104–134, title I, § 101(c) [title III, § 327], Apr. 26, 1996, 110 Stat. 1321–156, 1321–206; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided that:
+Pub. L. 104–134, title I, § 101(c) [title III, § 327], Apr. 26, 1996, 110 Stat. 1321–156, 1321–206; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided that:
 
 > **“(a)** The Secretary of Agriculture and the Secretary of the Interior shall each establish a Timber Sales Pipeline Restoration Fund (hereinafter ‘Agriculture Fund’ and ‘Interior Fund’ or ‘Funds’). Any revenues received from sales released under section 2001(k) of the fiscal year 1995 Supplemental Appropriations for Disaster Assistance and Rescissions Act [probably means section 2001(k) of Pub. L. 104–19, set out below], minus the funds necessary to make payments to States or local governments under other law concerning the distribution of revenues derived from the affected lands, which are in excess of $37,500,000 (hereinafter ‘excess revenues’) shall be deposited into the Funds. The distribution of excess revenues between the Agriculture Fund and Interior Fund shall be calculated by multiplying the total of excess revenues times a fraction with a denominator of the total revenues received from all sales released under such section 2001(k) and numerators of the total revenues received from such sales on lands within the National Forest System and the total revenues received from such sales on lands administered by the Bureau of Land Management, respectively: *Provided*, That revenues or portions thereof from sales released under such section 2001(k), minus the amounts necessary for State and local government payments and other necessary deposits, may be deposited into the Funds immediately upon receipt thereof and subsequently redistributed between the Funds or paid into the United States Treasury as miscellaneous receipts as may be required when the calculation of excess revenues is made.
 
@@ -1003,7 +1003,7 @@ Pub. L. 104–134, title I, § 101(c) [title III, § 327], Apr. 26, 1996, 11
 
 **Emergency Salvage Timber Sale Program**
 
-Pub. L. 104–19, title II, § 2001, July 27, 1995, 109 Stat. 240, as amended by Pub. L. 104–134, title I, § 101(c) [title III, § 316], Apr. 26, 1996, 110 Stat. 1321–156, 1321–202; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided for salvage timber sales from certain Federal lands by the Secretary of Agriculture and the Secretary of the Interior from July 27, 1995 to Dec. 31, 1996.
+Pub. L. 104–19, title II, § 2001, July 27, 1995, 109 Stat. 240, as amended by Pub. L. 104–134, title I, § 101(c) [title III, § 316], Apr. 26, 1996, 110 Stat. 1321–156, 1321–202; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided for salvage timber sales from certain Federal lands by the Secretary of Agriculture and the Secretary of the Interior from July 27, 1995 to Dec. 31, 1996.
 
 **Executive Documents**
 
@@ -1011,7 +1011,7 @@ Pub. L. 104–19, title II, § 2001, July 27, 1995, 109 Stat. 240, as amended 
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
 
-### § 1612. Public participation
+### § 1612. Public participation
 
 **(a) Adequate notice and opportunity to comment**
 
@@ -1021,7 +1021,7 @@ In exercising his authorities under this subchapter and other laws applicable to
 
 In providing for public participation in the planning for and management of the National Forest System, the Secretary, pursuant to chapter 10 of title 5 and other applicable law, shall establish and consult such advisory boards as he deems necessary to secure full information and advice on the execution of his responsibilities. The membership of such boards shall be representative of a cross section of groups interested in the planning for and management of the National Forest System and the various types of use and enjoyment of the lands thereof.
 
-(Pub. L. 93–378, § 14, as added Pub. L. 94–588, § 11, Oct. 22, 1976, 90 Stat. 2958; amended Pub. L. 117–286, § 4(a)(114), Dec. 27, 2022, 136 Stat. 4318.)
+(Pub. L. 93–378, § 14, as added Pub. L. 94–588, § 11, Oct. 22, 1976, 90 Stat. 2958; amended Pub. L. 117–286, § 4(a)(114), Dec. 27, 2022, 136 Stat. 4318.)
 
 **Editorial Notes**
 
@@ -1033,7 +1033,7 @@ In providing for public participation in the planning for and management of the 
 
 **Forest Service Decisionmaking and Appeals Reform**
 
-Pub. L. 102–381, title III, § 322, Oct. 5, 1992, 106 Stat. 1419, which provided for the establishment of a notice and comment process for proposed actions of the Forest Service relating to certain land and resource management projects and required modification of the procedure for appeals of decisions concerning such projects, was repealed by Pub. L. 113–79, title VIII, § 8006(a), Feb. 7, 2014, 128 Stat. 913.
+Pub. L. 102–381, title III, § 322, Oct. 5, 1992, 106 Stat. 1419, which provided for the establishment of a notice and comment process for proposed actions of the Forest Service relating to certain land and resource management projects and required modification of the procedure for appeals of decisions concerning such projects, was repealed by Pub. L. 113–79, title VIII, § 8006(a), Feb. 7, 2014, 128 Stat. 913.
 
 **Executive Documents**
 
@@ -1041,11 +1041,11 @@ Pub. L. 102–381, title III, § 322, Oct. 5, 1992, 106 Stat. 1419, which prov
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
 
-### § 1613. Promulgation of regulations
+### § 1613. Promulgation of regulations
 
 The Secretary shall prescribe such regulations as he determines necessary and desirable to carry out the provisions of this subchapter.
 
-(Pub. L. 93–378, § 15, as added Pub. L. 94–588, § 11, Oct. 22, 1976, 90 Stat. 2958; amended Pub. L. 115–141, div. O, title II, § 208(b)(2), Mar. 23, 2018, 132 Stat. 1066.)
+(Pub. L. 93–378, § 15, as added Pub. L. 94–588, § 11, Oct. 22, 1976, 90 Stat. 2958; amended Pub. L. 115–141, div. O, title II, § 208(b)(2), Mar. 23, 2018, 132 Stat. 1066.)
 
 **Editorial Notes**
 
@@ -1059,15 +1059,15 @@ The Secretary shall prescribe such regulations as he determines necessary and de
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
 
-### § 1614. Severability
+### § 1614. Severability
 
 If any provision of this subchapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of this subchapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-(Pub. L. 93–378, § 16, as added Pub. L. 94–588, § 11, Oct. 22, 1976, 90 Stat. 2958.)
+(Pub. L. 93–378, § 16, as added Pub. L. 94–588, § 11, Oct. 22, 1976, 90 Stat. 2958.)
 
 ## SUBCHAPTER II—RESEARCH
 
-### § 1641. Findings and purpose
+### § 1641. Findings and purpose
 
 **(a) Findings** Congress finds the following:
 
@@ -1093,7 +1093,7 @@ This subchapter shall be deemed to complement the policies and direction set for
 
 It is the purpose of this subchapter to authorize the Secretary to expand research activities to encompass international forestry and natural resource issues on a global scale.
 
-(Pub. L. 95–307, § 2, June 30, 1978, 92 Stat. 353; Pub. L. 101–513, title VI, § 611(a)(1), formerly § 607(a)(1), Nov. 5, 1990, 104 Stat. 2072, renumbered § 611(a)(1), Pub. L. 102–574, § 2(a)(1), Oct. 29, 1992, 106 Stat. 4593; Pub. L. 105–185, title II, § 253(a), June 23, 1998, 112 Stat. 558.)
+(Pub. L. 95–307, § 2, June 30, 1978, 92 Stat. 353; Pub. L. 101–513, title VI, § 611(a)(1), formerly § 607(a)(1), Nov. 5, 1990, 104 Stat. 2072, renumbered § 611(a)(1), Pub. L. 102–574, § 2(a)(1), Oct. 29, 1992, 106 Stat. 4593; Pub. L. 105–185, title II, § 253(a), June 23, 1998, 112 Stat. 558.)
 
 **Editorial Notes**
 
@@ -1101,7 +1101,7 @@ It is the purpose of this subchapter to authorize the Secretary to expand resear
 
 This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–307, June 2, 1978, 92 Stat. 353, known as the Forest and Rangeland Renewable Resources Research Act of 1978, which enacted this subchapter, repealed sections 581 to 581i of this title, and enacted provisions set out as a note under section 1641 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (b), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (b), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 **Amendments**
 
@@ -1117,13 +1117,13 @@ The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to i
 
 **Effective Date**
 
-Pub. L. 95–307, § 9, June 30, 1978, 92 Stat. 357, which provided that Pub. L. 95–307 (enacting this subchapter, repealing sections 581 to 581i of this title, and enacting provisions set out as a note under section 1600 of this title) is effective Oct. 1, 1978, was amended generally by Pub. L. 101–624 and was classified to section 1648 of this title.
+Pub. L. 95–307, § 9, June 30, 1978, 92 Stat. 357, which provided that Pub. L. 95–307 (enacting this subchapter, repealing sections 581 to 581i of this title, and enacting provisions set out as a note under section 1600 of this title) is effective Oct. 1, 1978, was amended generally by Pub. L. 101–624 and was classified to section 1648 of this title.
 
 **Short Title**
 
 For short title of Pub. L. 95–307, June 30, 1978, 92 Stat. 353, as the Forest and Rangeland Renewable Resources Research Act of 1978, see Short Title of 1978 Amendment note set out under section 1600 of this title.
 
-### § 1642. Investigations, experiments, tests, and other activities
+### § 1642. Investigations, experiments, tests, and other activities
 
 **(a) Authorization; scope and purposes of activities** The Secretary is authorized to conduct, support, and cooperate in investigations, experiments, tests, and other activities the Secretary deems necessary to obtain, analyze, develop, demonstrate, and disseminate scientific information about protecting, managing, and utilizing forest and rangeland renewable resources in rural, suburban, and urban areas. The activities conducted, supported, or cooperated in by the Secretary under this subchapter shall include, but not be limited to, the five major areas of renewable resource research identified in paragraphs (1) through (5) of this subsection.
 
@@ -1277,7 +1277,7 @@ The Secretary shall obtain authorization from property owners prior to collectin
 
 **(F)** the process for employing, in coordination with the Secretary of Energy and the Administrator of the National Aeronautics and Space Administration, remote sensing, global positioning systems, and other advanced technologies to carry out this subsection, and the subsequent use of the technologies.
 
-(Pub. L. 95–307, § 3, June 30, 1978, 92 Stat. 353; Pub. L. 96–294, title II, § 254, June 30, 1980, 94 Stat. 707; Pub. L. 100–521, § 3, Oct. 24, 1988, 102 Stat. 2601; Pub. L. 101–624, title XII, § 1241(a), Nov. 28, 1990, 104 Stat. 3544; Pub. L. 105–185, title II, § 253(b), (c), June 23, 1998, 112 Stat. 559; Pub. L. 105–277, div. A, § 101(a) [title VII, § 753(a)], Oct. 21, 1998, 112 Stat. 2681, 2681–32.)
+(Pub. L. 95–307, § 3, June 30, 1978, 92 Stat. 353; Pub. L. 96–294, title II, § 254, June 30, 1980, 94 Stat. 707; Pub. L. 100–521, § 3, Oct. 24, 1988, 102 Stat. 2601; Pub. L. 101–624, title XII, § 1241(a), Nov. 28, 1990, 104 Stat. 3544; Pub. L. 105–185, title II, § 253(b), (c), June 23, 1998, 112 Stat. 559; Pub. L. 105–277, div. A, § 101(a) [title VII, § 753(a)], Oct. 21, 1998, 112 Stat. 2681, 2681–32.)
 
 **Editorial Notes**
 
@@ -1287,7 +1287,7 @@ The Federal revenue codes, referred to in subsec. (d)(2), are classified general
 
 **Amendments**
 
-1998—Subsec. (d). Pub. L. 105–185, § 253(b), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary is authorized to conduct, support, and cooperate in studies and other activities the Secretary deems necessary to—
+1998—Subsec. (d). Pub. L. 105–185, § 253(b), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary is authorized to conduct, support, and cooperate in studies and other activities the Secretary deems necessary to—
 
 “(1) evaluate renewable resource management problems associated with urban-forest interface;
 
@@ -1297,29 +1297,29 @@ The Federal revenue codes, referred to in subsec. (d)(2), are classified general
 
 Subsec. (d)(3). Pub. L. 105–277 substituted “At the request of the Governor of the State of Maine, New Hampshire, New York, or Vermont, the Secretary” for “The Secretary”.
 
-Subsec. (e). Pub. L. 105–185, § 253(c), added subsec. (e).
+Subsec. (e). Pub. L. 105–185, § 253(c), added subsec. (e).
 
-1990—Subsec. (a)(1). Pub. L. 101–624, § 1241(a)(1), inserted “, including activities for encouraging improved reforestation of forest lands from which timber has been harvested” after “purposes”.
+1990—Subsec. (a)(1). Pub. L. 101–624, § 1241(a)(1), inserted “, including activities for encouraging improved reforestation of forest lands from which timber has been harvested” after “purposes”.
 
-Subsec. (b). Pub. L. 101–624, § 1241(a)(2), designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 101–624, § 1241(a)(2), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d). Pub. L. 101–624, § 1241(a)(3), added subsec. (d).
+Subsec. (d). Pub. L. 101–624, § 1241(a)(3), added subsec. (d).
 
 1988—Subsec. (c). Pub. L. 100–521 added subsec. (c).
 
-1980—Subsec. (a)(1). Pub. L. 96–294, § 254(1), inserted applicability to energy production and energy conservation activities.
+1980—Subsec. (a)(1). Pub. L. 96–294, § 254(1), inserted applicability to energy production and energy conservation activities.
 
-Subsec. (a)(4). Pub. L. 96–294, § 254(2), inserted applicability to producing and conserving energy.
+Subsec. (a)(4). Pub. L. 96–294, § 254(2), inserted applicability to producing and conserving energy.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1998 Amendment**
 
-Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) [title VII, § 753(f)] of Pub. L. 105–277, set out as a note under section 343 of Title 7, Agriculture.
+Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) [title VII, § 753(f)] of Pub. L. 105–277, set out as a note under section 343 of Title 7, Agriculture.
 
 **Remote Sensing Technologies**
 
-Pub. L. 115–334, title VIII, § 8632, Dec. 20, 2018, 132 Stat. 4871, provided that:
+Pub. L. 115–334, title VIII, § 8632, Dec. 20, 2018, 132 Stat. 4871, provided that:
 
 > “The Chief of the Forest Service shall—
 
@@ -1329,11 +1329,11 @@ Pub. L. 115–334, title VIII, § 8632, Dec. 20, 2018, 132 Stat. 4871, provide
 
 **Revision of Strategic Plan for Forest Inventory and Analysis**
 
-Pub. L. 113–79, title VIII, § 8301, Feb. 7, 2014, 128 Stat. 922, which required Secretary of Agriculture to revise strategic plan for forest inventory and analysis to describe organization, procedures, and funding needed to achieve certain requirements, was repealed by Pub. L. 115–334, title VIII, § 8501, Dec. 20, 2018, 132 Stat. 4847.
+Pub. L. 113–79, title VIII, § 8301, Feb. 7, 2014, 128 Stat. 922, which required Secretary of Agriculture to revise strategic plan for forest inventory and analysis to describe organization, procedures, and funding needed to achieve certain requirements, was repealed by Pub. L. 115–334, title VIII, § 8501, Dec. 20, 2018, 132 Stat. 4847.
 
 **Southern Forest Regeneration Program**
 
-Pub. L. 101–624, title XII, § 1242, Nov. 28, 1990, 104 Stat. 3545, provided that:
+Pub. L. 101–624, title XII, § 1242, Nov. 28, 1990, 104 Stat. 3545, provided that:
 
 > **“(a) Establishment.—** The Secretary of Agriculture shall make a grant to a State for the establishment, within such State, of a center, to be known as the ‘Southern Forest Regeneration Center’ (hereafter referred to in this section as the ‘Center’), to study forest regeneration problems and forest productivity in the southern region of the United States.
 
@@ -1351,7 +1351,7 @@ Pub. L. 101–624, title XII, § 1242, Nov. 28, 1990, 104 Stat. 3545, provided
 
 **Semiarid Agroforestry Research Center**
 
-Pub. L. 101–624, title XII, § 1243, Nov. 28, 1990, 104 Stat. 3546, as amended by Pub. L. 115–334, title VIII, § 8502, Dec. 20, 2018, 132 Stat. 4847, provided that:
+Pub. L. 101–624, title XII, § 1243, Nov. 28, 1990, 104 Stat. 3546, as amended by Pub. L. 115–334, title VIII, § 8502, Dec. 20, 2018, 132 Stat. 4847, provided that:
 
 > **“(a) Semiarid Agroforestry Research, Development, and Demonstration Center.—** The Secretary of Agriculture shall establish at the Forestry Sciences Laboratory of the United States Forest Service, in Lincoln, Nebraska, a Semiarid Agroforestry Research, Development, and Demonstration Center (hereafter referred to in this section as the ‘Center’) and appoint a Director to manage and coordinate the program established at the Center under subsection (b).
 
@@ -1389,7 +1389,7 @@ Pub. L. 101–624, title XII, § 1243, Nov. 28, 1990, 104 Stat. 3546, as amend
 
 **Forest Ecosystems and Atmospheric Pollution Research; Congressional Findings**
 
-Pub. L. 100–521, § 2, Oct. 24, 1988, 102 Stat. 2601, provided that:
+Pub. L. 100–521, § 2, Oct. 24, 1988, 102 Stat. 2601, provided that:
 
 > “Congress finds that—
 
@@ -1405,7 +1405,7 @@ Pub. L. 100–521, § 2, Oct. 24, 1988, 102 Stat. 2601, provided that:
 
 > **“(6)** such research and monitoring should not impede efforts to control atmospheric pollutants.”
 
-### § 1643. Implementation of provisions
+### § 1643. Implementation of provisions
 
 **(a) Establishment and maintenance of research facilities; acquisition, expenditures, etc., for property**
 
@@ -1419,7 +1419,7 @@ In implementing this subchapter, the Secretary is authorized to accept, hold, an
 
 In implementing this subchapter, the Secretary may cooperate with international, Federal, State, and other governmental agencies, with public or private agencies, institutions, universities, and organizations, and with businesses and individuals in the United States and in other countries. The Secretary may receive money and other contributions from cooperators under such conditions as the Secretary may prescribe. Any money contributions received under this subsection shall be credited to the applicable appropriation or fund to be used for the same purposes and shall remain available until expended as the Secretary may direct for use in conducting research activities authorized by this subchapter and in making refunds to contributors.
 
-(Pub. L. 95–307, § 4(a)–(c), June 30, 1978, 92 Stat. 354, 355; Pub. L. 101–513, title VI, § 611(a)(2), formerly § 607(a)(2), Nov. 5, 1990, 104 Stat. 2072, renumbered § 611(a)(2), Pub. L. 102–574, § 2(a)(1), Oct. 29, 1992, 106 Stat. 4593.)
+(Pub. L. 95–307, § 4(a)–(c), June 30, 1978, 92 Stat. 354, 355; Pub. L. 101–513, title VI, § 611(a)(2), formerly § 607(a)(2), Nov. 5, 1990, 104 Stat. 2072, renumbered § 611(a)(2), Pub. L. 102–574, § 2(a)(1), Oct. 29, 1992, 106 Stat. 4593.)
 
 **Editorial Notes**
 
@@ -1427,7 +1427,7 @@ In implementing this subchapter, the Secretary may cooperate with international,
 
 1990—Subsec. (c). Pub. L. 101–513, which directed amendment of “the first section of” this subsection by inserting “international,” before “Federal”, was executed by making the insertion in the first sentence of this subsection to reflect the probable intent of Congress.
 
-### § 1644. Forestry and rangeland competitive research grants
+### § 1644. Forestry and rangeland competitive research grants
 
 **(a) Competitive grant authority**
 
@@ -1449,7 +1449,7 @@ The Secretary may use up to 5 percent of the amounts made available for research
 
 **(3)** the proposed research will be conducted as part of an existing private and public partnership or cooperative research effort and involves several interested research partners.
 
-(Pub. L. 95–307, § 5, June 30, 1978, 92 Stat. 355; Pub. L. 105–185, title II, § 253(d), June 23, 1998, 112 Stat. 561.)
+(Pub. L. 95–307, § 5, June 30, 1978, 92 Stat. 355; Pub. L. 105–185, title II, § 253(d), June 23, 1998, 112 Stat. 561.)
 
 **Editorial Notes**
 
@@ -1457,7 +1457,7 @@ The Secretary may use up to 5 percent of the amounts made available for research
 
 1998—Pub. L. 105–185 substituted section catchline for former section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsecs. (b) to (d).
 
-### § 1645. General provisions
+### § 1645. General provisions
 
 **(a) Availability of funds to cooperators and grantees**
 
@@ -1489,13 +1489,13 @@ This subchapter shall be construed as supplementing all other laws relating to t
 
 For the purposes of this subchapter, the terms “United States” and “State” shall include each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the territories and possessions of the United States.
 
-(Pub. L. 95–307, § 6, June 30, 1978, 92 Stat. 355.)
+(Pub. L. 95–307, § 6, June 30, 1978, 92 Stat. 355.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Executive Documents**
 
@@ -1503,13 +1503,13 @@ In subsec. (a), “section 3324(a) and (b) of title 31” substituted for “sec
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 1646. Authorization of appropriations
+### § 1646. Authorization of appropriations
 
 There are authorized to be appropriated annually such sums as may be needed to implement this subchapter. Funds appropriated under this subchapter shall remain available until expended.
 
-(Pub. L. 95–307, § 7, June 30, 1978, 92 Stat. 356.)
+(Pub. L. 95–307, § 7, June 30, 1978, 92 Stat. 356.)
 
-### § 1647. Other Federal programs
+### § 1647. Other Federal programs
 
 **(a) Repeal of statutory authorities relating to investigation, experiments, and tests in reforestation and forest products**
 
@@ -1527,35 +1527,35 @@ The Secretary is authorized to issue such rules and regulations as the Secretary
 
 Funds appropriated under the authority of the McSweeney-McNary Act shall be available for expenditure for the programs authorized under this subchapter.
 
-(Pub. L. 95–307, § 8, June 30, 1978, 92 Stat. 356.)
+(Pub. L. 95–307, § 8, June 30, 1978, 92 Stat. 356.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food and Agriculture Act of 1977, referred to in subsec. (c), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XIV of the Food and Agriculture Act of 1977, known as the “National Agricultural Research, Extension, and Teaching Policy Act of 1977”, is classified principally to chapter 64 (§ 3101 et seq.) of Title 7, Agriculture. For complete classification of this title to the Code, see Short Title note set out under section 3101 of Title 7 and Tables.
+The Food and Agriculture Act of 1977, referred to in subsec. (c), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XIV of the Food and Agriculture Act of 1977, known as the “National Agricultural Research, Extension, and Teaching Policy Act of 1977”, is classified principally to chapter 64 (§ 3101 et seq.) of Title 7, Agriculture. For complete classification of this title to the Code, see Short Title note set out under section 3101 of Title 7 and Tables.
 
-### § 1648. Repealed. Pub. L. 115–334, title VIII, § 8201, Dec. 20, 2018, 132 Stat. 4839
+### § 1648. Repealed. Pub. L. 115–334, title VIII, § 8201, Dec. 20, 2018, 132 Stat. 4839
 
-Section, Pub. L. 95–307, § 9, as added Pub. L. 101–624, title XII, § 1241(b), Nov. 28, 1990, 104 Stat. 3544, related to recycling research.
+Section, Pub. L. 95–307, § 9, as added Pub. L. 101–624, title XII, § 1241(b), Nov. 28, 1990, 104 Stat. 3544, related to recycling research.
 
 A prior section 9 of Pub. L. 95–307, June 30, 1978, 92 Stat. 357, provided the effective date for Pub. L. 95–307 and was set out as a note under section 1641 of this title, prior to general amendment by Pub. L. 101–624.
 
-### § 1649. Repealed. Pub. L. 115–334, title VIII, § 8202, Dec. 20, 2018, 132 Stat. 4839
+### § 1649. Repealed. Pub. L. 115–334, title VIII, § 8202, Dec. 20, 2018, 132 Stat. 4839
 
-Section, Pub. L. 95–307, § 10, as added Pub. L. 101–624, title XII, § 1252, Nov. 28, 1990, 104 Stat. 3553, related to the Forestry Student Grant Program.
+Section, Pub. L. 95–307, § 10, as added Pub. L. 101–624, title XII, § 1252, Nov. 28, 1990, 104 Stat. 3553, related to the Forestry Student Grant Program.
 
-### § 1649a. Repealed. Pub. L. 113–79, title VIII, § 8004, Feb. 7, 2014, 128 Stat. 913
+### § 1649a. Repealed. Pub. L. 113–79, title VIII, § 8004, Feb. 7, 2014, 128 Stat. 913
 
-Section, Pub. L. 110–234, title VIII, § 8402, May 22, 2008, 122 Stat. 1302; Pub. L. 110–246, § 4(a), title VIII, § 8402, June 18, 2008, 122 Stat. 1664, 2064, authorized grants for the establishment of Hispanic-serving institution agricultural land national resources leadership programs.
+Section, Pub. L. 110–234, title VIII, § 8402, May 22, 2008, 122 Stat. 1302; Pub. L. 110–246, § 4(a), title VIII, § 8402, June 18, 2008, 122 Stat. 1664, 2064, authorized grants for the establishment of Hispanic-serving institution agricultural land national resources leadership programs.
 
-### § 1650. Hardwood technology transfer and applied research
+### § 1650. Hardwood technology transfer and applied research
 
 **(a) Authority of Secretary**
 
 The Secretary of Agriculture (hereinafter the “Secretary”) is hereby and hereafter authorized to conduct technology transfer and development, training, dissemination of information and applied research in the management, processing and utilization of the hardwood forest resource. This authority is in addition to any other authorities which may be available to the Secretary including, but not limited to, the Cooperative Forestry Assistance Act of 1978, as amended (16 U.S.C. 2101 et seq.), and the Forest and Rangeland Renewable Resources Act of 1978, as amended (16 U.S.C. 1600–1614).1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(b) Grants, contracts, and cooperative agreements; gifts and donations**
 
@@ -1573,13 +1573,13 @@ The Secretary is hereby and hereafter authorized to generate revenue using the a
 
 There are hereby and hereafter authorized to be appropriated such sums as necessary to carry out the provisions of this section.
 
-(Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 332], Nov. 29, 1999, 113 Stat. 1535, 1501A–197.)
+(Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 332], Nov. 29, 1999, 113 Stat. 1535, 1501A–197.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (a), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to chapter 41 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
+The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (a), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to chapter 41 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
 
 **Codification**
 
@@ -1589,7 +1589,7 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 **Hardwood Technology Transfer and Applied Research**
 
-Pub. L. 105–277, div. A, § 101(e) [title III, § 343], Oct. 21, 1998, 112 Stat. 2681–231, 2681–297, provided that:
+Pub. L. 105–277, div. A, § 101(e) [title III, § 343], Oct. 21, 1998, 112 Stat. 2681–231, 2681–297, provided that:
 
 > **“(a)** The Secretary of Agriculture (hereinafter the ‘Secretary’) is hereby authorized to conduct technology transfer and development, training, dissemination of information and applied research in the management, processing and utilization of the hardwood forest resource. This authority is in addition to any other authorities which may be available to the Secretary including, but not limited to, the Cooperative Forestry Assistance Act of 1978, as amended (16 U.S.C. 2101 et. seq.), and the Forest and Rangeland Renewable Resources Act of 1978, as amended (16 U.S.C. 1600–1614).
 
@@ -1609,7 +1609,7 @@ Pub. L. 105–277, div. A, § 101(e) [title III, § 343], Oct. 21, 1998, 112
 
 For termination of subchapter by section 8 of Pub. L. 95–306, see Effective and Termination Dates note set out under section 1671 of this title.
 
-### § 1671. Congressional statement of findings
+### § 1671. Congressional statement of findings
 
 Congress finds that—
 
@@ -1623,19 +1623,19 @@ Congress finds that—
 
 **(5)** trees and shrubs used as shelterbelts protect farm lands from wind and water erosion, promote moisture accumulation in the soil, and provide habitat for wildlife.
 
-(Pub. L. 95–306, § 2, June 30, 1978, 92 Stat. 349.)
+(Pub. L. 95–306, § 2, June 30, 1978, 92 Stat. 349.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates**
 
-Pub. L. 95–306, § 8, June 30, 1978, 92 Stat. 352, as amended by Pub. L. 100–231, § 2(2), Jan. 5, 1988, 101 Stat. 1565; Pub. L. 107–171, title VIII, § 8101(b)(2), May 13, 2002, 116 Stat. 475; Pub. L. 110–234, title VII, § 7413(b), May 22, 2008, 110 Stat. 1256; Pub. L. 110–246, § 4(a), title VII, § 7413(b), June 18, 2008, 122 Stat. 1664, 2017; Pub. L. 113–79, title VII, § 7405(b), Feb. 7, 2014, 128 Stat. 898; Pub. L. 115–334, title VII, § 7509(b), Dec. 20, 2018, 132 Stat. 4824, provided that: “The provisions of this Act [enacting this subchapter and provision set out as a note under section 1600 of this title] shall be effective for the period beginning October 1, 1978, and ending September 30, 2023.”
+Pub. L. 95–306, § 8, June 30, 1978, 92 Stat. 352, as amended by Pub. L. 100–231, § 2(2), Jan. 5, 1988, 101 Stat. 1565; Pub. L. 107–171, title VIII, § 8101(b)(2), May 13, 2002, 116 Stat. 475; Pub. L. 110–234, title VII, § 7413(b), May 22, 2008, 110 Stat. 1256; Pub. L. 110–246, § 4(a), title VII, § 7413(b), June 18, 2008, 122 Stat. 1664, 2017; Pub. L. 113–79, title VII, § 7405(b), Feb. 7, 2014, 128 Stat. 898; Pub. L. 115–334, title VII, § 7509(b), Dec. 20, 2018, 132 Stat. 4824, provided that: “The provisions of this Act [enacting this subchapter and provision set out as a note under section 1600 of this title] shall be effective for the period beginning October 1, 1978, and ending September 30, 2023.”
 
 **Short Title**
 
 For short title of Renewable Resources Extension Act of 1978, see Short Title of 1978 Amendment note set out under section 1600 of this title.
 
-### § 1672. General program authorization
+### § 1672. General program authorization
 
 **(a) Types of programs; preconditions and cooperation with State program directors, etc.** The Secretary of Agriculture (hereinafter in this subchapter referred to as the “Secretary”), under conditions the Secretary may prescribe and in cooperation with the State directors of cooperative extension service programs and eligible colleges and universities, shall—
 
@@ -1667,27 +1667,27 @@ As used in this subchapter, the term “eligible colleges and universities” me
 
 In implementing this section, all appropriate educational methods may be used, including, but not limited to, meetings, short courses, workshops, tours, demonstrations, publications, news releases, and radio and television programs.
 
-(Pub. L. 95–306, § 3, June 30, 1978, 92 Stat. 349; Pub. L. 101–624, title XII, §§ 1219(b)(1), 1251(b), Nov. 28, 1990, 104 Stat. 3538, 3552; Pub. L. 102–237, title X, § 1018(d), Dec. 13, 1991, 105 Stat. 1905.)
+(Pub. L. 95–306, § 3, June 30, 1978, 92 Stat. 349; Pub. L. 101–624, title XII, §§ 1219(b)(1), 1251(b), Nov. 28, 1990, 104 Stat. 3538, 3552; Pub. L. 102–237, title X, § 1018(d), Dec. 13, 1991, 105 Stat. 1905.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307, 308), referred to in subsec. (b), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the Morrill Act and also as the First Morrill Act, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
+Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307, 308), referred to in subsec. (b), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the Morrill Act and also as the First Morrill Act, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
 
-Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326, 328), referred to in subsec. (b), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
+Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326, 328), referred to in subsec. (b), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
 
-Act of October 10, 1962 (76 Stat. 806–807, as amended), referred to in subsec. (b), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 582a of this title and Tables.
+Act of October 10, 1962 (76 Stat. 806–807, as amended), referred to in subsec. (b), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 582a of this title and Tables.
 
 **Amendments**
 
-1991—Subsec. (a)(8) to (10). Pub. L. 102–237 struck out “and” at end of par. (8), substituted “; and” for period at end of par. (9), and redesignated par. (9), relating to education program, as (10).
+1991—Subsec. (a)(8) to (10). Pub. L. 102–237 struck out “and” at end of par. (8), substituted “; and” for period at end of par. (9), and redesignated par. (9), relating to education program, as (10).
 
-1990—Subsec. (a)(9). Pub. L. 101–624, § 1251(b), added par. (9) relating to education programs for landowners, managers, public officials, and the public.
+1990—Subsec. (a)(9). Pub. L. 101–624, § 1251(b), added par. (9) relating to education programs for landowners, managers, public officials, and the public.
 
-Pub. L. 101–624, § 1219(b)(1), added par. (9) relating to promotion of public understanding of energy conservation, economic, social, environmental, and psychological values of trees and open space in urban and community environments.
+Pub. L. 101–624, § 1219(b)(1), added par. (9) relating to promotion of public understanding of energy conservation, economic, social, environmental, and psychological values of trees and open space in urban and community environments.
 
-### § 1673. State programs
+### § 1673. State programs
 
 **(a) Development by State program director, etc., of comprehensive and coordinated program by mutual agreement; consultations; review procedure**
 
@@ -1709,21 +1709,21 @@ In meeting the provisions of this section, each State director and administrativ
 
 For the purposes of this subchapter, the term “State” means any one of the fifty States, the Commonwealth of Puerto Rico, Guam, the District of Columbia, and the Virgin Islands of the United States.
 
-(Pub. L. 95–306, § 4, June 30, 1978, 92 Stat. 350; Pub. L. 104–127, title VIII, § 802(b)(3), Apr. 4, 1996, 110 Stat. 1159.)
+(Pub. L. 95–306, § 4, June 30, 1978, 92 Stat. 350; Pub. L. 104–127, title VIII, § 802(b)(3), Apr. 4, 1996, 110 Stat. 1159.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of October 10, 1962 (76 Stat. 806–807, as amended), referred to in subsec. (a), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 582a of this title and Tables.
+Act of October 10, 1962 (76 Stat. 806–807, as amended), referred to in subsec. (a), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 582a of this title and Tables.
 
-Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326, 328), referred to in subsec. (c), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
+Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326, 328), referred to in subsec. (c), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
 
 **Amendments**
 
 1996—Subsec. (a). Pub. L. 104–127 substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board” for “National Agricultural Research and Extension Users Advisory Board”.
 
-### § 1674. Renewable Resources Extension Program plan
+### § 1674. Renewable Resources Extension Program plan
 
 **(a) Preparation and submission to Congress; purposes; contents**
 
@@ -1739,7 +1739,7 @@ In preparing the Renewable Resources Extension Program, the Secretary shall take
 
 To assist Congress and the public in evaluating the Renewable Resources Extension Program, the program shall include a review of activities undertaken in response to the preceding five-year plan and an evaluation of the progress made toward accomplishing the goals and objectives set forth in such preceding plan. Such review and evaluation shall be displayed in the program, for the Nation as a whole, and for each State.
 
-(Pub. L. 95–306, § 5, June 30, 1978, 92 Stat. 351; Pub. L. 100–231, § 3, Jan. 5, 1988, 101 Stat. 1565; Pub. L. 101–624, title XII, §§ 1219(b)(2), 1251(c), Nov. 28, 1990, 104 Stat. 3539, 3553.)
+(Pub. L. 95–306, § 5, June 30, 1978, 92 Stat. 351; Pub. L. 100–231, § 3, Jan. 5, 1988, 101 Stat. 1565; Pub. L. 101–624, title XII, §§ 1219(b)(2), 1251(c), Nov. 28, 1990, 104 Stat. 3539, 3553.)
 
 **Editorial Notes**
 
@@ -1749,15 +1749,15 @@ Subsec. (c) of this section, which required the Secretary to prepare an annual r
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–624, § 1251(c), inserted before period at end “, and give special attention to water quality protection and natural resource and environmental education for landowners and managers, public officials, and the public”.
+1990—Subsec. (a). Pub. L. 101–624, § 1251(c), inserted before period at end “, and give special attention to water quality protection and natural resource and environmental education for landowners and managers, public officials, and the public”.
 
-Pub. L. 101–624, § 1219(b)(2), substituted “for urban and community forestry activities” for “for planting and management of trees and forests in urban areas”.
+Pub. L. 101–624, § 1219(b)(2), substituted “for urban and community forestry activities” for “for planting and management of trees and forests in urban areas”.
 
-1988—Subsec. (a). Pub. L. 100–231, § 3(1), substituted “the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate” for “Congress”.
+1988—Subsec. (a). Pub. L. 100–231, § 3(1), substituted “the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate” for “Congress”.
 
-Subsec. (d). Pub. L. 100–231, § 3(2), added subsec. (d).
+Subsec. (d). Pub. L. 100–231, § 3(2), added subsec. (d).
 
-### § 1674a. Expanded programs
+### § 1674a. Expanded programs
 
 **(a) In general**
 
@@ -1777,7 +1777,7 @@ In expanding the programs conducted under this subchapter, the Secretary shall e
 
 **(C)** educational programs and materials that will improve the capacity of schools, local governments and resource agencies to deliver forestry and natural resources information to young people, environmentally concerned citizens, and action groups.
 
-(Pub. L. 95–306, § 5A, as added Pub. L. 101–624, title XII, § 1251(a), Nov. 28, 1990, 104 Stat. 3552; amended Pub. L. 110–234, title VII, § 7511(c)(34), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(34), June 18, 2008, 122 Stat. 1664, 2032.)
+(Pub. L. 95–306, § 5A, as added Pub. L. 101–624, title XII, § 1251(a), Nov. 28, 1990, 104 Stat. 3552; amended Pub. L. 110–234, title VII, § 7511(c)(34), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(34), June 18, 2008, 122 Stat. 1664, 2032.)
 
 **Editorial Notes**
 
@@ -1787,7 +1787,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–246, § 7511(c)(34), which directed amendment of section 5(a) of the Renewable Resources Extension Act of 1978 (16 U.S.C. 1674a(a)) by substituting “National Institute of Food and Agriculture” for “Extension Service”, was executed by making the substitution in subsec. (a) of this section, which is section 5A of the Act, to reflect the probable intent of Congress.
+2008—Subsec. (a). Pub. L. 110–246, § 7511(c)(34), which directed amendment of section 5(a) of the Renewable Resources Extension Act of 1978 (16 U.S.C. 1674a(a)) by substituting “National Institute of Food and Agriculture” for “Extension Service”, was executed by making the substitution in subsec. (a) of this section, which is section 5A of the Act, to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1797,7 +1797,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 7511(c)(34) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of Title 7, Agriculture.
 
-### § 1674b. Sustainable Forestry Outreach Initiative
+### § 1674b. Sustainable Forestry Outreach Initiative
 
 The Secretary shall establish a program, to be known as the “Sustainable Forestry Outreach Initiative”, to educate landowners concerning the following:
 
@@ -1807,13 +1807,13 @@ The Secretary shall establish a program, to be known as the “Sustainable Fores
 
 **(3)** The variety of public and private sector resources available to assist the landowners in planning for and practicing sustainable forestry.
 
-(Pub. L. 95–306, § 5B, as added Pub. L. 107–171, title VIII, § 8101(a), May 13, 2002, 116 Stat. 474.)
+(Pub. L. 95–306, § 5B, as added Pub. L. 107–171, title VIII, § 8101(a), May 13, 2002, 116 Stat. 474.)
 
-### § 1675. Authorization of appropriations; criteria for eligibility of States for funds
+### § 1675. Authorization of appropriations; criteria for eligibility of States for funds
 
 There is authorized to be appropriated to carry out this subchapter $30,000,000 for each of fiscal years 2002 through 2023. Generally, States shall be eligible for funds appropriated under this subchapter according to the respective capabilities of their private forests and rangelands for yielding renewable resources and relative needs for such resources identified in the periodic Renewable Resource Assessment provided for in section 1601 of this title and the periodic appraisal of land and water resources provided for in section 2004 of this title.
 
-(Pub. L. 95–306, § 6, June 30, 1978, 92 Stat. 352; Pub. L. 100–231, § 2(1), Jan. 5, 1988, 101 Stat. 1565; Pub. L. 105–185, title III, § 301(h), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VIII, § 8101(b)(1), May 13, 2002, 116 Stat. 474; Pub. L. 110–234, title VII, § 7413(a), May 22, 2008, 122 Stat. 1256; Pub. L. 110–246, § 4(a), title VII, § 7413(a), June 18, 2008, 122 Stat. 1664, 2017; Pub. L. 113–79, title VII, § 7405(a), Feb. 7, 2014, 128 Stat. 898; Pub. L. 115–334, title VII, § 7509(a), Dec. 20, 2018, 132 Stat. 4824.)
+(Pub. L. 95–306, § 6, June 30, 1978, 92 Stat. 352; Pub. L. 100–231, § 2(1), Jan. 5, 1988, 101 Stat. 1565; Pub. L. 105–185, title III, § 301(h), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VIII, § 8101(b)(1), May 13, 2002, 116 Stat. 474; Pub. L. 110–234, title VII, § 7413(a), May 22, 2008, 122 Stat. 1256; Pub. L. 110–246, § 4(a), title VII, § 7413(a), June 18, 2008, 122 Stat. 1664, 2017; Pub. L. 113–79, title VII, § 7405(a), Feb. 7, 2014, 128 Stat. 898; Pub. L. 115–334, title VII, § 7509(a), Dec. 20, 2018, 132 Stat. 4824.)
 
 **Editorial Notes**
 
@@ -1827,7 +1827,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Pub. L. 110–246, § 7413(a), substituted “2012” for “2007” in first sentence.
+2008—Pub. L. 110–246, § 7413(a), substituted “2012” for “2007” in first sentence.
 
 2002—Pub. L. 107–171 substituted “There is authorized to be appropriated to carry out this subchapter $30,000,000 for each of fiscal years 2002 through 2007.” for “There are authorized to be appropriated to implement this subchapter $15,000,000 for each of fiscal years 1987 through 2002.”
 
@@ -1841,37 +1841,37 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-### § 1676. Issuance of rules and regulations for implementation of provisions and coordination with agricultural, research, extension, and teaching provisions
+### § 1676. Issuance of rules and regulations for implementation of provisions and coordination with agricultural, research, extension, and teaching provisions
 
 The Secretary is authorized to issue such rules and regulations as the Secretary deems necessary to implement the provisions of this subchapter and to coordinate this subchapter with title XIV of the Food and Agriculture Act of 1977 [7 U.S.C. 3101 et seq.].
 
-(Pub. L. 95–306, § 7, June 30, 1978, 92 Stat. 352.)
+(Pub. L. 95–306, § 7, June 30, 1978, 92 Stat. 352.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food and Agriculture Act of 1977, referred to in text, is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XIV of the Food and Agriculture Act of 1977, known as the “National Agricultural Research, Extension, and Teaching Policy Act of 1977”, is classified principally to chapter 64 (§ 3101 et seq.) of Title 7, Agriculture. For complete classification of this title to the Code, see Short Title note set out under section 3101 of Title 7 and Tables.
+The Food and Agriculture Act of 1977, referred to in text, is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XIV of the Food and Agriculture Act of 1977, known as the “National Agricultural Research, Extension, and Teaching Policy Act of 1977”, is classified principally to chapter 64 (§ 3101 et seq.) of Title 7, Agriculture. For complete classification of this title to the Code, see Short Title note set out under section 3101 of Title 7 and Tables.
 
 ## SUBCHAPTER IV—WOOD RESIDUE UTILIZATION
 
-### § 1681. Congressional statement of purpose
+### § 1681. Congressional statement of purpose
 
 The purpose of this subchapter is to develop, demonstrate, and make available information on feasible methods that have potential for commercial application to increase and improve utilization, in residential, commercial, and industrial or powerplant applications, of wood residues resulting from timber harvesting and forest protection and management activities occurring on public and private forest lands, and from the manufacture of forest products, including woodpulp.
 
-(Pub. L. 96–554, § 2, Dec. 19, 1980, 94 Stat. 3257.)
+(Pub. L. 96–554, § 2, Dec. 19, 1980, 94 Stat. 3257.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 96–554, § 9, Dec. 19, 1980, 94 Stat. 3259, provided that: “This Act [enacting this subchapter and enacting a provision set out as a note under section 1600 of this title] shall become effective October 1, 1981”.
+Pub. L. 96–554, § 9, Dec. 19, 1980, 94 Stat. 3259, provided that: “This Act [enacting this subchapter and enacting a provision set out as a note under section 1600 of this title] shall become effective October 1, 1981”.
 
 **Short Title**
 
 For short title of Pub. L. 96–554, Dec. 19, 1980, 94 Stat. 3257, as the Wood Residue Utilization Act of 1980, see Short Title of 1980 Amendment note set out under section 1600 of this title.
 
-### § 1682. Pilot projects and demonstrations
+### § 1682. Pilot projects and demonstrations
 
 **(a) Establishment, implementation**
 
@@ -1881,7 +1881,7 @@ The Secretary may establish pilot projects and demonstrations to carry out the p
 
 Pilot projects and demonstrations carried out under this section may include, but are not limited to (1) establishment and operation of utilization demonstration areas; (2) establishment and operation of fuel wood concentration and distribution centers; and (3) construction of access roads needed to facilitate wood residue utilization: *Provided*, That residue removal credits may be utilized by the Secretary only as provided in section 1683 of this title.
 
-(Pub. L. 96–554, § 3, Dec. 19, 1980, 94 Stat. 3257.)
+(Pub. L. 96–554, § 3, Dec. 19, 1980, 94 Stat. 3257.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1889,7 +1889,7 @@ Pilot projects and demonstrations carried out under this section may include, bu
 
 Section effective Oct. 1, 1981, see section 9 of Pub. L. 96–554, set out as a note under section 1681 of this title.
 
-### § 1683. Pilot projects; requirements; residue removal credits as compensation; implementation guidelines
+### § 1683. Pilot projects; requirements; residue removal credits as compensation; implementation guidelines
 
 The Secretary may carry out pilot wood residue utilization projects under which purchasers of National Forest System timber under contracts awarded prior to October 1, 1986, may, except as otherwise provided in this section, be required to remove wood residues not purchased by them to points of prospective use in return for compensation in the form of “residue removal credits.” Such projects may be carried out where the Secretary identifies situations in which pilot wood residue utilization projects on the National Forest system can provide important information on various methods and approaches to increasing the utilization, in residential, commercial, and industrial or powerplant applications, of wood residues and where such information cannot reasonably be obtained unless the pilot projects are done in conjunction with normal National Forest timber sale activities. The residue removal credits shall be applied against the amount payable for the timber purchased and shall represent the anticipated cost of removal of wood residues. The following guidelines shall apply to projects carried out under this section:
 
@@ -1905,7 +1905,7 @@ The Secretary may carry out pilot wood residue utilization projects under which 
 
 **(6)** For the purposes of section 500 of this title, (A) any residue removal credit applied under this section shall be considered as “money received” or “moneys received”, respectively, and (B) the “money received” or “moneys received”, respectively, from the sales of wood residues removed to points of prospective use shall be the proceeds of the sales less the sum of any residue removal credit applied with respect to such residues plus any costs incurred by the Forest Service in processing and storing such residues.
 
-(Pub. L. 96–554, § 4, Dec. 19, 1980, 94 Stat. 3257.)
+(Pub. L. 96–554, § 4, Dec. 19, 1980, 94 Stat. 3257.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1913,11 +1913,11 @@ The Secretary may carry out pilot wood residue utilization projects under which 
 
 Section effective Oct. 1, 1981, see section 9 of Pub. L. 96–554, set out as a note under section 1681 of this title.
 
-### § 1684. Annual reports
+### § 1684. Annual reports
 
 The Secretary shall make annual reports to the Congress on the programs authorized by this subchapter. These reports shall be submitted with the reports required under section 1606(c) of this title.
 
-(Pub. L. 96–554, § 5, Dec. 19, 1980, 94 Stat. 3258.)
+(Pub. L. 96–554, § 5, Dec. 19, 1980, 94 Stat. 3258.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1925,11 +1925,11 @@ The Secretary shall make annual reports to the Congress on the programs authoriz
 
 Section effective Oct. 1, 1981, see section 9 of Pub. L. 96–554, set out as a note under section 1681 of this title.
 
-### § 1685. Regulations
+### § 1685. Regulations
 
 The Secretary shall issue such regulations as the Secretary deems necessary to implement the provisions of this subchapter.
 
-(Pub. L. 96–554, § 6, Dec. 19, 1980, 94 Stat. 3258.)
+(Pub. L. 96–554, § 6, Dec. 19, 1980, 94 Stat. 3258.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1937,7 +1937,7 @@ The Secretary shall issue such regulations as the Secretary deems necessary to i
 
 Section effective Oct. 1, 1981, see section 9 of Pub. L. 96–554, set out as a note under section 1681 of this title.
 
-### § 1686. Definitions
+### § 1686. Definitions
 
 For purposes of this subchapter, the term:
 
@@ -1953,7 +1953,7 @@ For purposes of this subchapter, the term:
 
 **(6)** “Wood residues” includes, but is not limited to, logging slash, down timber material, woody plants, and standing live or dead trees which do not meet utilization standards because of size, species, merchantable volume, or economic selection criteria and which, in the case of live trees, are surplus to growing stock needs.
 
-(Pub. L. 96–554, § 7, Dec. 19, 1980, 94 Stat. 3258.)
+(Pub. L. 96–554, § 7, Dec. 19, 1980, 94 Stat. 3258.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1961,11 +1961,11 @@ For purposes of this subchapter, the term:
 
 Section effective Oct. 1, 1981, see section 9 of Pub. L. 96–554, set out as a note under section 1681 of this title.
 
-### § 1687. Authorization of appropriations
+### § 1687. Authorization of appropriations
 
 There is hereby authorized to be appropriated not to exceed $25,000,000 for each of the fiscal years 1982, 1983, 1984, 1985, and 1986 to carry out the pilot projects and demonstrations authorized by section 1682 of this title, the residue removal credits authorized by section 1683 of this title, and the other provisions of this subchapter: *Provided*, That not to exceed $2,500,000 of such amount may be appropriated for administrative expenses to carry out this subchapter for the period beginning October 1, 1981, and ending September 30, 1986. Such sums shall be in addition to those provided under other provisions of law and shall remain available until expended.
 
-(Pub. L. 96–554, § 8, Dec. 19, 1980, 94 Stat. 3259.)
+(Pub. L. 96–554, § 8, Dec. 19, 1980, 94 Stat. 3259.)
 
 **Statutory Notes and Related Subsidiaries**
 

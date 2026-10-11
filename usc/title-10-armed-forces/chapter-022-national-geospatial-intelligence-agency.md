@@ -23,9 +23,9 @@ A prior chapter 22 was renumbered chapter 23 of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title XVI, § 1621(g)(2), Jan. 1, 2021, 134 Stat. 4054, substituted “Geomatics” for “Geodetic” in item for subchapter II.
+2021—Pub. L. 116–283, div. A, title XVI, § 1621(g)(2), Jan. 1, 2021, 134 Stat. 4054, substituted “Geomatics” for “Geodetic” in item for subchapter II.
 
-2003—Pub. L. 108–136, div. A, title IX, § 921(d)(1), Nov. 24, 2003, 117 Stat. 1568, substituted “NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY” FOR “NATIONAL IMAGERY AND MAPPING AGENCY” in chapter heading.
+2003—Pub. L. 108–136, div. A, title IX, § 921(d)(1), Nov. 24, 2003, 117 Stat. 1568, substituted “NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY” FOR “NATIONAL IMAGERY AND MAPPING AGENCY” in chapter heading.
 
 ## SUBCHAPTER I—MISSIONS AND AUTHORITY
 
@@ -33,11 +33,11 @@ A prior chapter 22 was renumbered chapter 23 of this title.
 
 **Amendments**
 
-2013—Pub. L. 112–239, div. A, title IX, § 921(b)(2), Jan. 2, 2013, 126 Stat. 1878, added item 443 and struck out former item 443 “Imagery intelligence and geospatial information: support for foreign countries”.
+2013—Pub. L. 112–239, div. A, title IX, § 921(b)(2), Jan. 2, 2013, 126 Stat. 1878, added item 443 and struck out former item 443 “Imagery intelligence and geospatial information: support for foreign countries”.
 
-1997—Pub. L. 105–107, title V, § 503(d)(3), Nov. 20, 1997, 111 Stat. 2263, struck out item 445 “Protection of agency identifications and organizational information”.
+1997—Pub. L. 105–107, title V, § 503(d)(3), Nov. 20, 1997, 111 Stat. 2263, struck out item 445 “Protection of agency identifications and organizational information”.
 
-### § 441. Establishment
+### § 441. Establishment
 
 **(a) Establishment.—** The National Geospatial-Intelligence Agency is a combat support agency of the Department of Defense and has significant national missions.
 
@@ -59,19 +59,19 @@ A prior chapter 22 was renumbered chapter 23 of this title.
 
 **(d) Availability and Continued Improvement of Imagery Intelligence Support to All-Source Analysis and Production Function.—** The Secretary of Defense, in consultation with the Director of National Intelligence, shall take all necessary steps to ensure the full availability and continued improvement of imagery intelligence support for all-source analysis and production.
 
-(Added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1996, 110 Stat. 2678; amended Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 110–181, div. A, title IX, § 931(a)(9), (10), (c)(1)(A), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(8), (9), (b)(1), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
+(Added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1996, 110 Stat. 2678; amended Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 110–181, div. A, title IX, § 931(a)(9), (10), (c)(1)(A), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(8), (9), (b)(1), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2009—Subsecs. (c), (d). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(8), (9), (b)(1). See 2008 Amendment notes below.
+2009—Subsecs. (c), (d). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(8), (9), (b)(1). See 2008 Amendment notes below.
 
-2008—Subsec. (c). Pub. L. 110–181, § 931(a)(9), (c)(1)(A), and Pub. L. 110–417, § 932(b)(1), amended subsec. (c) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in heading and text. Pub. L. 110–417, § 932(b)(1), was repealed by Pub. L. 111–84.
+2008—Subsec. (c). Pub. L. 110–181, § 931(a)(9), (c)(1)(A), and Pub. L. 110–417, § 932(b)(1), amended subsec. (c) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in heading and text. Pub. L. 110–417, § 932(b)(1), was repealed by Pub. L. 111–84.
 
-Pub. L. 110–181, § 931(a)(9), and Pub. L. 110–417, § 932(a)(8), amended subsec. (c) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(8), was repealed by Pub. L. 111–84.
+Pub. L. 110–181, § 931(a)(9), and Pub. L. 110–417, § 932(a)(8), amended subsec. (c) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(8), was repealed by Pub. L. 111–84.
 
-Subsec. (d). Pub. L. 110–181, § 931(a)(10), and Pub. L. 110–417, § 932(a)(9), amended subsec. (d) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(9), was repealed by Pub. L. 111–84.
+Subsec. (d). Pub. L. 110–181, § 931(a)(10), and Pub. L. 110–417, § 932(a)(9), amended subsec. (d) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(9), was repealed by Pub. L. 111–84.
 
 2003—Subsecs. (a), (b)(1). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
@@ -79,7 +79,7 @@ Subsec. (d). Pub. L. 110–181, § 931(a)(10), and Pub. L. 110–417, § 932
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 **Effective Date**
 
@@ -87,11 +87,11 @@ Section effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out a
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–201, div. A, title XI, § 1101, Sept. 23, 1996, 110 Stat. 2676, provided that: “This title [enacting this chapter, section 424 of this title, and sections 404e and 404f of Title 50, War and National Defense, amending sections 193, 201, and 451 to 456 of this title, sections 2302, 3132, 4301, 4701, 5102, 5342, 6339, and 7323 of Title 5, Government Organization and Employees, section 105 of the Ethics in Government Act of 1978, set out in the Appendix to Title 5, section 82 of Title 14, Coast Guard, section 2006 of Title 29, Labor, section 1336 of Title 44, Public Printing and Documents, and sections 401a and 403–5 of Title 50, renumbering chapter 22 and sections 451, 452, 2792 to 2796, and 2798 of this title as chapter 23 and sections 481, 482, 451 to 455, and 456 of this title, respectively, repealing sections 424, 425, 2791, and 2797 of this title, enacting provisions set out as notes under this section and section 193 of this title, and amending provisions set out as a note under section 501 of Title 44] may be cited as the ‘National Imagery and Mapping Agency Act of 1996’.”
+Pub. L. 104–201, div. A, title XI, § 1101, Sept. 23, 1996, 110 Stat. 2676, provided that: “This title [enacting this chapter, section 424 of this title, and sections 404e and 404f of Title 50, War and National Defense, amending sections 193, 201, and 451 to 456 of this title, sections 2302, 3132, 4301, 4701, 5102, 5342, 6339, and 7323 of Title 5, Government Organization and Employees, section 105 of the Ethics in Government Act of 1978, set out in the Appendix to Title 5, section 82 of Title 14, Coast Guard, section 2006 of Title 29, Labor, section 1336 of Title 44, Public Printing and Documents, and sections 401a and 403–5 of Title 50, renumbering chapter 22 and sections 451, 452, 2792 to 2796, and 2798 of this title as chapter 23 and sections 481, 482, 451 to 455, and 456 of this title, respectively, repealing sections 424, 425, 2791, and 2797 of this title, enacting provisions set out as notes under this section and section 193 of this title, and amending provisions set out as a note under section 501 of Title 44] may be cited as the ‘National Imagery and Mapping Agency Act of 1996’.”
 
 **Savings Provisions**
 
-Pub. L. 104–201, div. A, title XI, § 1116, Sept. 23, 1996, 110 Stat. 2686, as amended by Pub. L. 105–85, div. A, title X, § 1073(c)(8), Nov. 18, 1997, 111 Stat. 1904, provided that:
+Pub. L. 104–201, div. A, title XI, § 1116, Sept. 23, 1996, 110 Stat. 2686, as amended by Pub. L. 105–85, div. A, title X, § 1073(c)(8), Nov. 18, 1997, 111 Stat. 1904, provided that:
 
 > **“(a) Continuing Effect on Legal Documents.—** All orders, determinations, rules, regulations, permits, agreements, international agreements, grants, contracts, leases, certificates, licenses, registrations, privileges, and other administrative actions—
 
@@ -105,7 +105,7 @@ Pub. L. 104–201, div. A, title XI, § 1116, Sept. 23, 1996, 110 Stat. 2686, 
 
 **Establishment of Advisory Board for National Geospatial-Intelligence Agency**
 
-Pub. L. 117–263, div. F, title LXIV, § 6432, Dec. 23, 2022, 136 Stat. 3532, provided that:
+Pub. L. 117–263, div. F, title LXIV, § 6432, Dec. 23, 2022, 136 Stat. 3532, provided that:
 
 > **“(a) Establishment.—** There is established in the National Geospatial-Intelligence Agency an advisory board (in this section referred to as the ‘Board’).
 
@@ -145,11 +145,11 @@ Pub. L. 117–263, div. F, title LXIV, § 6432, Dec. 23, 2022, 136 Stat. 3532,
 
 **Elevation of the Commercial and Business Operations Office of the National Geospatial-Intelligence Agency**
 
-Pub. L. 117–263, div. F, title LXIV, § 6433, Dec. 23, 2022, 136 Stat. 3533, provided that: “Beginning not later than 90 days after the date of the enactment of this Act [Dec. 23, 2022], the head of the commercial and business operations office of the National Geospatial-Intelligence Agency shall report directly to the Director of the National Geospatial-Intelligence Agency.”
+Pub. L. 117–263, div. F, title LXIV, § 6433, Dec. 23, 2022, 136 Stat. 3533, provided that: “Beginning not later than 90 days after the date of the enactment of this Act [Dec. 23, 2022], the head of the commercial and business operations office of the National Geospatial-Intelligence Agency shall report directly to the Director of the National Geospatial-Intelligence Agency.”
 
 **Leveraging Commercial Satellite Remote Sensing**
 
-Pub. L. 116–283, div. A, title XVI, § 1612, Jan. 1, 2021, 134 Stat. 4049, as amended by Pub. L. 117–81, div. A, title XVI, § 1606, Dec. 27, 2021, 135 Stat. 2079, provided that:
+Pub. L. 116–283, div. A, title XVI, § 1612, Jan. 1, 2021, 134 Stat. 4049, as amended by Pub. L. 117–81, div. A, title XVI, § 1606, Dec. 27, 2021, 135 Stat. 2079, provided that:
 
 > **“(a) In General.—** In acquiring geospatial intelligence, the Secretary of Defense and the Director of National Intelligence, in coordination with the Director of the National Reconnaissance Office and the Director of the National Geospatial-Intelligence Agency, shall leverage, to the extent practicable, the capabilities of the industry of the United States, including through the use of domestic commercial geospatial-intelligence services and acquisition of domestic commercial satellite imagery.
 
@@ -191,7 +191,7 @@ Pub. L. 116–283, div. A, title XVI, § 1612, Jan. 1, 2021, 134 Stat. 4049, a
 
 **Redesignation of National Imagery and Mapping Agency as National Geospatial-Intelligence Agency**
 
-Pub. L. 108–136, div. A, title IX, § 921(a), (g), Nov. 24, 2003, 117 Stat. 1568, 1570, provided that:
+Pub. L. 108–136, div. A, title IX, § 921(a), (g), Nov. 24, 2003, 117 Stat. 1568, 1570, provided that:
 
 > **“(a) Redesignation.—** The National Imagery and Mapping Agency of the Department of Defense is hereby redesignated as the National Geospatial-Intelligence Agency.
 
@@ -199,7 +199,7 @@ Pub. L. 108–136, div. A, title IX, § 921(a), (g), Nov. 24, 2003, 117 Stat. 
 
 **Congressional Findings**
 
-Pub. L. 104–201, div. A, title XI, § 1102, Sept. 23, 1996, 110 Stat. 2676, provided that:
+Pub. L. 104–201, div. A, title XI, § 1102, Sept. 23, 1996, 110 Stat. 2676, provided that:
 
 > “Congress makes the following findings:
 
@@ -217,7 +217,7 @@ Pub. L. 104–201, div. A, title XI, § 1102, Sept. 23, 1996, 110 Stat. 2676, 
 
 **Establishment of National Geospatial-Intelligence Agency; Transfer of Functions**
 
-Pub. L. 104–201, div. A, title XI, § 1111, Sept. 23, 1996, 110 Stat. 2677, provided that:
+Pub. L. 104–201, div. A, title XI, § 1111, Sept. 23, 1996, 110 Stat. 2677, provided that:
 
 > **“(a) Establishment.—** There is hereby established in the Department of Defense a Defense Agency to be known as the National Imagery and Mapping Agency [now National Geospatial-Intelligence Agency].
 
@@ -239,7 +239,7 @@ Pub. L. 104–201, div. A, title XI, § 1111, Sept. 23, 1996, 110 Stat. 2677, 
 
 **Transfers of Personnel and Assets**
 
-Pub. L. 104–201, div. A, title XI, § 1113, Sept. 23, 1996, 110 Stat. 2684, provided that:
+Pub. L. 104–201, div. A, title XI, § 1113, Sept. 23, 1996, 110 Stat. 2684, provided that:
 
 > **“(a) Personnel and Assets.—** Subject to subsections (b) and (c), the personnel, assets, unobligated balances of appropriations and authorizations of appropriations, and, to the extent jointly determined appropriate by the Secretary of Defense and Director of Central Intelligence, obligated balances of appropriations and authorizations of appropriations employed, used, held, arising from, or available in connection with the missions and functions transferred under section 1111(b) or section 1111(c) [set out above] are transferred to the National Imagery and Mapping Agency [now National Geospatial-Intelligence Agency]. Transfers of appropriations from the Central Intelligence Agency under this subsection shall be made in accordance with section 1531 of title 31, United States Code.
 
@@ -253,13 +253,13 @@ Pub. L. 104–201, div. A, title XI, § 1113, Sept. 23, 1996, 110 Stat. 2684, 
 
 **Creditable Civilian Service for Career Conditional Employees of Defense Mapping Agency**
 
-Pub. L. 104–201, div. A, title XI, § 1115, Sept. 23, 1996, 110 Stat. 2686, provided that: “In the case of an employee of the National Imagery and Mapping Agency [now National Geospatial-Intelligence Agency] who, on the day before the effective date of this title [Oct. 1, 1996], was an employee of the Defense Mapping Agency in a career-conditional status, the continuous service of that employee as an employee of the National Imagery and Mapping Agency on and after such date shall be considered creditable service for the purpose of any determination of the career status of the employee.”
+Pub. L. 104–201, div. A, title XI, § 1115, Sept. 23, 1996, 110 Stat. 2686, provided that: “In the case of an employee of the National Imagery and Mapping Agency [now National Geospatial-Intelligence Agency] who, on the day before the effective date of this title [Oct. 1, 1996], was an employee of the Defense Mapping Agency in a career-conditional status, the continuous service of that employee as an employee of the National Imagery and Mapping Agency on and after such date shall be considered creditable service for the purpose of any determination of the career status of the employee.”
 
 **Definitions**
 
-Pub. L. 104–201, div. A, title XI, § 1117, Sept. 23, 1996, 110 Stat. 2686, provided that: “In this subtitle [subtitle A (§§ 1111–1118) of title XI of div. A of Pub. L. 104–201, enacting this chapter, section 424 of this title, and sections 3045 and 3046 of Title 50, War and National Defense, amending sections 193 and 451 to 456 of this title, section 1336 of Title 44, Public Printing and Documents, and section 3038 of Title 50, renumbering chapter 22 and sections 2792 to 2796 and 2798 of this title as chapter 23 and sections 451 to 455 and 456 of this title, respectively, repealing sections 424 and 425 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 501 of Title 44], the terms ‘function’, ‘imagery’, ‘imagery intelligence’, and ‘geospatial information’ have the meanings given those terms in section 467 of title 10, United States Code, as added by section 1112.”
+Pub. L. 104–201, div. A, title XI, § 1117, Sept. 23, 1996, 110 Stat. 2686, provided that: “In this subtitle [subtitle A (§§ 1111–1118) of title XI of div. A of Pub. L. 104–201, enacting this chapter, section 424 of this title, and sections 3045 and 3046 of Title 50, War and National Defense, amending sections 193 and 451 to 456 of this title, section 1336 of Title 44, Public Printing and Documents, and section 3038 of Title 50, renumbering chapter 22 and sections 2792 to 2796 and 2798 of this title as chapter 23 and sections 451 to 455 and 456 of this title, respectively, repealing sections 424 and 425 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 501 of Title 44], the terms ‘function’, ‘imagery’, ‘imagery intelligence’, and ‘geospatial information’ have the meanings given those terms in section 467 of title 10, United States Code, as added by section 1112.”
 
-### § 442. Missions
+### § 442. Missions
 
 **(a) National Security Missions.—**
 
@@ -293,33 +293,33 @@ Pub. L. 104–201, div. A, title XI, § 1117, Sept. 23, 1996, 110 Stat. 2686, 
 
 **(f) Validation.—** The National Geospatial-Intelligence Agency shall assist the Joint Chiefs of Staff, combatant commands, and the military departments in establishing, coordinating, consolidating, and validating mapping, charting, geomatics data, and safety of navigation capability requirements through a formal process governed by the Joint Staff. Consistent with validated requirements, the National Geospatial-Intelligence Agency shall provide aeronautical and nautical charts that are safe for navigation, maps, books, datasets, models, and geomatics products.
 
-(Added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1996, 110 Stat. 2678; amended Pub. L. 108–136, div. A, title IX, § 921(c)(1), (d)(2)(A), (f), Nov. 24, 2003, 117 Stat. 1568, 1570; Pub. L. 111–259, title IV, § 432, Oct. 7, 2010, 124 Stat. 2732; Pub. L. 113–291, div. A, title X, § 1071(c)(6), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 116–283, div. A, title XVI, § 1621(a), Jan. 1, 2021, 134 Stat. 4052.)
+(Added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1996, 110 Stat. 2678; amended Pub. L. 108–136, div. A, title IX, § 921(c)(1), (d)(2)(A), (f), Nov. 24, 2003, 117 Stat. 1568, 1570; Pub. L. 111–259, title IV, § 432, Oct. 7, 2010, 124 Stat. 2732; Pub. L. 113–291, div. A, title X, § 1071(c)(6), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 116–283, div. A, title XVI, § 1621(a), Jan. 1, 2021, 134 Stat. 4052.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (b). Pub. L. 116–283, § 1621(a)(1), substituted “the means for safe navigation” for “means of navigating vessels of the Navy and the merchant marine” and “geospatial information for use by the departments and agencies of the United States, the merchant marine, and navigators generally.” for “and inexpensive nautical charts, sailing directions, books on navigation, and manuals of instructions for the use of all vessels of the United States and of navigators generally.”
+2021—Subsec. (b). Pub. L. 116–283, § 1621(a)(1), substituted “the means for safe navigation” for “means of navigating vessels of the Navy and the merchant marine” and “geospatial information for use by the departments and agencies of the United States, the merchant marine, and navigators generally.” for “and inexpensive nautical charts, sailing directions, books on navigation, and manuals of instructions for the use of all vessels of the United States and of navigators generally.”
 
-Subsec. (c). Pub. L. 116–283, § 1621(a)(2), substituted “shall acquire, prepare, and” for “shall prepare and”, “safe-for-navigation charts and datasets” for “charts”, and “geomatics” for “geodetic”.
+Subsec. (c). Pub. L. 116–283, § 1621(a)(2), substituted “shall acquire, prepare, and” for “shall prepare and”, “safe-for-navigation charts and datasets” for “charts”, and “geomatics” for “geodetic”.
 
-Subsec. (f). Pub. L. 116–283, § 1621(a)(3), added subsec. (f).
+Subsec. (f). Pub. L. 116–283, § 1621(a)(3), added subsec. (f).
 
 2014—Subsec. (d). Pub. L. 113–291 substituted “(50 U.S.C. 3045(a))” for “(50 U.S.C. 404e(a))”.
 
-2010—Subsec. (a)(2). Pub. L. 111–259, § 432(2), added par. (2). Former par. (2) redesignated (3).
+2010—Subsec. (a)(2). Pub. L. 111–259, § 432(2), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 111–259, § 432(1), (3), redesignated par. (2) as (3) and substituted “paragraphs (1) and (2)” for “paragraph (1)”.
+Subsec. (a)(3). Pub. L. 111–259, § 432(1), (3), redesignated par. (2) as (3) and substituted “paragraphs (1) and (2)” for “paragraph (1)”.
 
-2003—Subsec. (a)(1). Pub. L. 108–136, § 921(c)(1)(A), (d)(2)(A), in introductory provisions, substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” and inserted “geospatial intelligence consisting of” after “provide”.
+2003—Subsec. (a)(1). Pub. L. 108–136, § 921(c)(1)(A), (d)(2)(A), in introductory provisions, substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” and inserted “geospatial intelligence consisting of” after “provide”.
 
-Subsec. (a)(2). Pub. L. 108–136, § 921(c)(1)(B), substituted “Geospatial intelligence” for “Imagery, intelligence, and information”.
+Subsec. (a)(2). Pub. L. 108–136, § 921(c)(1)(B), substituted “Geospatial intelligence” for “Imagery, intelligence, and information”.
 
-Subsecs. (b), (c). Pub. L. 108–136, § 921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+Subsecs. (b), (c). Pub. L. 108–136, § 921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-Subsec. (d). Pub. L. 108–136, § 921(d)(2)(A), (f), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” and “section 110(a) of the National Security Act of 1947 (50 U.S.C. 404e(a))” for “section 120(a) of the National Security Act of 1947”.
+Subsec. (d). Pub. L. 108–136, § 921(d)(2)(A), (f), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” and “section 110(a) of the National Security Act of 1947 (50 U.S.C. 404e(a))” for “section 120(a) of the National Security Act of 1947”.
 
-Subsec. (e). Pub. L. 108–136, § 921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in introductory provisions.
+Subsec. (e). Pub. L. 108–136, § 921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -327,7 +327,7 @@ Subsec. (e). Pub. L. 108–136, § 921(d)(2)(A), substituted “National Geosp
 
 Section effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 193 of this title.
 
-### § 443. Imagery intelligence and geospatial information: support for foreign countries, regional organizations, and security alliances
+### § 443. Imagery intelligence and geospatial information: support for foreign countries, regional organizations, and security alliances
 
 **(a) Use of Appropriated Funds.—** The Director of the National Geospatial-Intelligence Agency may use appropriated funds available to the National Geospatial-Intelligence Agency to provide foreign countries, regional organizations with defense or security components, and security alliances of which the United States is a member with imagery intelligence and geospatial information support.
 
@@ -343,19 +343,19 @@ Section effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out a
 
 **(d) Coordination With Director of National Intelligence.—** The Director of the Agency shall coordinate with the Director of National Intelligence any action under this section that involves imagery intelligence or intelligence products or involves providing support to an intelligence or security service of a foreign country.
 
-(Added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1996, 110 Stat. 2679; amended Pub. L. 105–85, div. A, title X, § 1073(a)(7), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 110–181, div. A, title IX, § 931(a)(11), (c)(1)(B), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(10), (b)(2), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 112–239, div. A, title IX, § 921(a), (b)(1), Jan. 2, 2013, 126 Stat. 1878.)
+(Added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1996, 110 Stat. 2679; amended Pub. L. 105–85, div. A, title X, § 1073(a)(7), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 110–181, div. A, title IX, § 931(a)(11), (c)(1)(B), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(10), (b)(2), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 112–239, div. A, title IX, § 921(a), (b)(1), Jan. 2, 2013, 126 Stat. 1878.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Pub. L. 112–239, § 921(b)(1), substituted “foreign countries, regional organizations, and security alliances” for “foreign countries” in section catchline.
+2013—Pub. L. 112–239, § 921(b)(1), substituted “foreign countries, regional organizations, and security alliances” for “foreign countries” in section catchline.
 
-Subsec. (a). Pub. L. 112–239, § 921(a), substituted “foreign countries, regional organizations with defense or security components, and security alliances of which the United States is a member” for “foreign countries”.
+Subsec. (a). Pub. L. 112–239, § 921(a), substituted “foreign countries, regional organizations with defense or security components, and security alliances of which the United States is a member” for “foreign countries”.
 
-2009—Subsec. (d). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(10), (b)(2). See 2008 Amendment note below.
+2009—Subsec. (d). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(10), (b)(2). See 2008 Amendment note below.
 
-2008—Subsec. (d). Pub. L. 110–181 and Pub. L. 110–417, § 932(a)(10), (b)(2), amended subsec. (d) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in heading and text. Pub. L. 110–417, § 932(a)(10), (b)(2), was repealed by Pub. L. 111–84.
+2008—Subsec. (d). Pub. L. 110–181 and Pub. L. 110–417, § 932(a)(10), (b)(2), amended subsec. (d) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in heading and text. Pub. L. 110–417, § 932(a)(10), (b)(2), was repealed by Pub. L. 111–84.
 
 2003—Subsecs. (a), (b)(1). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
 
@@ -365,13 +365,13 @@ Subsec. (a). Pub. L. 112–239, § 921(a), substituted “foreign countries, r
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 **Effective Date**
 
 Section effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 193 of this title.
 
-### § 444. Support from Central Intelligence Agency
+### § 444. Support from Central Intelligence Agency
 
 **(a) Support Authorized.—** The Director of the Central Intelligence Agency may provide support in accordance with this section to the Director of the National Geospatial-Intelligence Agency. The Director of the National Geospatial-Intelligence Agency may accept support provided under this section.
 
@@ -397,23 +397,23 @@ Section effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out a
 
 **(B)** shall expend such funds, in accordance with the Central Intelligence Agency Act of 1949 (50 U.S.C. 3501 et seq.), to provide administrative and contract services or detail personnel to the National Geospatial-Intelligence Agency under this section.
 
-(Added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1996, 110 Stat. 2680; amended Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 110–181, div. A, title IX, § 931(b)(2), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(c), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–291, div. A, title X, § 1071(c)(7), Dec. 19, 2014, 128 Stat. 3509.)
+(Added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1996, 110 Stat. 2680; amended Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 110–181, div. A, title IX, § 931(b)(2), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(c), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–291, div. A, title X, § 1071(c)(7), Dec. 19, 2014, 128 Stat. 3509.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Central Intelligence Agency Act of 1949, referred to in subsec. (e)(2)(B), is act June 20, 1949, ch. 227, 63 Stat. 208, which is classified generally to chapter 46 (§ 3501 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Central Intelligence Agency Act of 1949, referred to in subsec. (e)(2)(B), is act June 20, 1949, ch. 227, 63 Stat. 208, which is classified generally to chapter 46 (§ 3501 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
-2014—Subsec. (b)(2). Pub. L. 113–291, § 1071(c)(7)(A), substituted “(50 U.S.C. 3515)” for “(50 U.S.C. 403*o*)”.
+2014—Subsec. (b)(2). Pub. L. 113–291, § 1071(c)(7)(A), substituted “(50 U.S.C. 3515)” for “(50 U.S.C. 403*o*)”.
 
-Subsec. (e)(2)(B). Pub. L. 113–291, § 1071(c)(7)(B), substituted “(50 U.S.C. 3501 et seq.)” for “(50 U.S.C. 403a et seq.)”.
+Subsec. (e)(2)(B). Pub. L. 113–291, § 1071(c)(7)(B), substituted “(50 U.S.C. 3501 et seq.)” for “(50 U.S.C. 403a et seq.)”.
 
-2009—Pub. L. 111–84 repealed Pub. L. 110–417, § 932(c). See 2008 Amendment note below.
+2009—Pub. L. 111–84 repealed Pub. L. 110–417, § 932(c). See 2008 Amendment note below.
 
-2008—Pub. L. 110–181 and Pub. L. 110–417, § 932(c), amended section identically, substituting “Director of the Central Intelligence Agency” for “Director of Central Intelligence” wherever appearing. Pub. L. 110–417, § 932(c), was repealed by Pub. L. 111–84.
+2008—Pub. L. 110–181 and Pub. L. 110–417, § 932(c), amended section identically, substituting “Director of the Central Intelligence Agency” for “Director of Central Intelligence” wherever appearing. Pub. L. 110–417, § 932(c), was repealed by Pub. L. 111–84.
 
 2003—Subsecs. (a), (b)(1), (2), (c), (e)(1), (2)(B). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
 
@@ -421,15 +421,15 @@ Subsec. (e)(2)(B). Pub. L. 113–291, § 1071(c)(7)(B), substituted “(50 U.S
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 **Effective Date**
 
 Section effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 193 of this title.
 
-### [§ 445. Repealed. Pub. L. 105–107, title V, § 503(c), Nov. 20, 1997, 111 Stat. 2262]
+### [§ 445. Repealed. Pub. L. 105–107, title V, § 503(c), Nov. 20, 1997, 111 Stat. 2262]
 
-Section, added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1996, 110 Stat. 2680; amended Pub. L. 105–85, div. A, title X, § 1073(a)(8), Nov. 18, 1997, 111 Stat. 1900, related to protection of agency identifications and organizational information.
+Section, added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1996, 110 Stat. 2680; amended Pub. L. 105–85, div. A, title X, § 1073(a)(8), Nov. 18, 1997, 111 Stat. 1900, related to protection of agency identifications and organizational information.
 
 ## SUBCHAPTER II—MAPS, CHARTS, AND GEOMATICS PRODUCTS
 
@@ -437,13 +437,13 @@ Section, added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title XVI, § 1621(b)(2), (c)(2), (d)(2), (g)(1), Jan. 1, 2021, 134 Stat. 4053, 4054, substituted “GEOMATICS” for “GEODETIC” in subchapter heading, added items 451, 454, and 455, and struck out former items 451 “Maps, charts, and books”, 454 “Exchange of mapping, charting, and geodetic data with foreign countries, international organizations, nongovernmental organizations, and academic institutions”, and 455 “Maps, charts, and geodetic data: public availability; exceptions”.
+2021—Pub. L. 116–283, div. A, title XVI, § 1621(b)(2), (c)(2), (d)(2), (g)(1), Jan. 1, 2021, 134 Stat. 4053, 4054, substituted “GEOMATICS” for “GEODETIC” in subchapter heading, added items 451, 454, and 455, and struck out former items 451 “Maps, charts, and books”, 454 “Exchange of mapping, charting, and geodetic data with foreign countries, international organizations, nongovernmental organizations, and academic institutions”, and 455 “Maps, charts, and geodetic data: public availability; exceptions”.
 
-2011—Pub. L. 112–81, div. A, title IX, § 923(b)(2), Dec. 31, 2011, 125 Stat. 1539, added item 454 and struck out former item 454 “Exchange of mapping, charting, and geodetic data with foreign countries and international organizations”.
+2011—Pub. L. 112–81, div. A, title IX, § 923(b)(2), Dec. 31, 2011, 125 Stat. 1539, added item 454 and struck out former item 454 “Exchange of mapping, charting, and geodetic data with foreign countries and international organizations”.
 
-1999—Pub. L. 106–65, div. A, title X, §§ 1010(b), 1045(b), Oct. 5, 1999, 113 Stat. 739, 763, substituted “Sale of maps, charts, and navigational publications: prices; use of proceeds” for “Prices of maps, charts, and navigational publications” in item 453 and added item 457.
+1999—Pub. L. 106–65, div. A, title X, §§ 1010(b), 1045(b), Oct. 5, 1999, 113 Stat. 739, 763, substituted “Sale of maps, charts, and navigational publications: prices; use of proceeds” for “Prices of maps, charts, and navigational publications” in item 453 and added item 457.
 
-### § 451. Maps, charts, books, and datasets
+### § 451. Maps, charts, books, and datasets
 
 The Secretary of Defense may—
 
@@ -451,7 +451,7 @@ The Secretary of Defense may—
 
 **(2)** acquire (by purchase, lease, license, or barter) all necessary rights, including copyrights and other intellectual property rights, required to prepare, publish, and furnish to navigators the products described in paragraph (1).
 
-(Added Pub. L. 97–295, § 1(50)(C), Oct. 12, 1982, 96 Stat. 1299, § 2792; renumbered § 451 and amended Pub. L. 104–201, div. A, title XI, § 1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 116–283, div. A, title XVI, § 1621(b)(1), Jan. 1, 2021, 134 Stat. 4053.)
+(Added Pub. L. 97–295, § 1(50)(C), Oct. 12, 1982, 96 Stat. 1299, § 2792; renumbered § 451 and amended Pub. L. 104–201, div. A, title XI, § 1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 116–283, div. A, title XVI, § 1621(b)(1), Jan. 1, 2021, 134 Stat. 4053.)
 
 **Historical and Revision Notes**
 
@@ -469,11 +469,11 @@ A prior section 451 was renumbered section 481 of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1621(b)(1)(A), substituted “books, and datasets” for “and books” in section catchline.
+2021—Pub. L. 116–283, § 1621(b)(1)(A), substituted “books, and datasets” for “and books” in section catchline.
 
-Par. (1). Pub. L. 116–283, § 1621(b)(1)(B), substituted “nautical and aeronautical charts, topographic and geomatics maps, books, models, and datasets” for “maps, charts, and nautical books”.
+Par. (1). Pub. L. 116–283, § 1621(b)(1)(B), substituted “nautical and aeronautical charts, topographic and geomatics maps, books, models, and datasets” for “maps, charts, and nautical books”.
 
-Par. (2). Pub. L. 116–283, § 1621(b)(1)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “buy the plates and copyrights of existing maps, charts, books on navigation, and sailing directions and instructions.”
+Par. (2). Pub. L. 116–283, § 1621(b)(1)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “buy the plates and copyrights of existing maps, charts, books on navigation, and sailing directions and instructions.”
 
 2003—Par. (1). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
@@ -485,13 +485,13 @@ Par. (2). Pub. L. 116–283, § 1621(b)(1)(C), amended par. (2) generally. Pri
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of this title.
 
-### § 452. Pilot charts
+### § 452. Pilot charts
 
 **(a)** There shall be conspicuously printed on pilot charts prepared in the National Geospatial-Intelligence Agency the following: “Prepared from data furnished by the National Geospatial-Intelligence Agency of the Department of Defense and by the Department of Commerce, and published at the National Geospatial-Intelligence Agency under the authority of the Secretary of Defense”.
 
 **(b)** The Secretary of Commerce shall furnish to the National Geospatial-Intelligence Agency, as quickly as possible, all meteorological information received by the Secretary that is necessary for, and of the character used in, preparing pilot charts.
 
-(Added Pub. L. 97–295, § 1(50)(C), Oct. 12, 1982, 96 Stat. 1299, § 2793; renumbered § 452 and amended Pub. L. 104–201, div. A, title XI, § 1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568.)
+(Added Pub. L. 97–295, § 1(50)(C), Oct. 12, 1982, 96 Stat. 1299, § 2793; renumbered § 452 and amended Pub. L. 104–201, div. A, title XI, § 1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568.)
 
 **Historical and Revision Notes**
 
@@ -519,7 +519,7 @@ A prior section 452 was renumbered section 482 of this title.
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of this title.
 
-### § 453. Sale of maps, charts, and navigational publications: prices; use of proceeds
+### § 453. Sale of maps, charts, and navigational publications: prices; use of proceeds
 
 **(a) Prices.—** All maps, charts, and other publications offered for sale by the National Geospatial-Intelligence Agency shall be sold at prices and under regulations that may be prescribed by the Secretary of Defense.
 
@@ -529,7 +529,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 **(2)** In this subsection, the term “NGA foreign data acquisition fee” means any licensing or other fee imposed by a foreign country or international organization for the acquisition or use of data or products by the National Geospatial-Intelligence Agency.
 
-(Added Pub. L. 97–295, § 1(50)(C), Oct. 12, 1982, 96 Stat. 1299, § 2794; renumbered § 453 and amended Pub. L. 104–201, div. A, title XI, § 1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 106–65, div. A, title X, § 1010(a), Oct. 5, 1999, 113 Stat. 739; Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), (B), Nov. 24, 2003, 117 Stat. 1568.)
+(Added Pub. L. 97–295, § 1(50)(C), Oct. 12, 1982, 96 Stat. 1299, § 2794; renumbered § 453 and amended Pub. L. 104–201, div. A, title XI, § 1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 106–65, div. A, title X, § 1010(a), Oct. 5, 1999, 113 Stat. 739; Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), (B), Nov. 24, 2003, 117 Stat. 1568.)
 
 **Historical and Revision Notes**
 
@@ -543,11 +543,11 @@ The words “Secretary of Defense” and “Defense Mapping Agency” are substi
 
 **Amendments**
 
-2003—Subsec. (a). Pub. L. 108–136, § 921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+2003—Subsec. (a). Pub. L. 108–136, § 921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-Subsec. (b)(1). Pub. L. 108–136, § 921(d)(2)(B), substituted “NGA” for “NIMA”.
+Subsec. (b)(1). Pub. L. 108–136, § 921(d)(2)(B), substituted “NGA” for “NIMA”.
 
-Subsec. (b)(2). Pub. L. 108–136, § 921(d)(2)(A), (B), substituted “NGA” for “NIMA” and “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+Subsec. (b)(2). Pub. L. 108–136, § 921(d)(2)(A), (B), substituted “NGA” for “NIMA” and “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 1999—Pub. L. 106–65 amended section catchline and text generally. Prior to amendment, text read as follows: “All maps, charts, and other publications offered for sale by the National Imagery and Mapping Agency shall be sold at prices and under regulations that may be prescribed by the Secretary of Defense.”
 
@@ -559,13 +559,13 @@ Subsec. (b)(2). Pub. L. 108–136, § 921(d)(2)(A), (B), substituted “NGA”
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of this title.
 
-### § 454. Exchange of mapping, charting, and geomatics data with foreign countries, international organizations, nongovernmental organizations, and academic institutions
+### § 454. Exchange of mapping, charting, and geomatics data with foreign countries, international organizations, nongovernmental organizations, and academic institutions
 
 **(a) Foreign Countries and International Organizations.—** The Secretary of Defense may authorize the National Geospatial-Intelligence Agency to exchange or furnish mapping, charting, and geomatics data, supplies and services to a foreign country or international organization pursuant to an agreement for the production or exchange of such data.
 
 **(b) Nongovernmental Organizations and Academic Institutions.—** The Secretary may authorize the National Geospatial-Intelligence Agency to exchange or furnish mapping, charting, and geomatics data, supplies, and services relating to areas outside of the United States to a nongovernmental organization or an academic institution engaged in geospatial information research or production of such areas pursuant to an agreement for the production or exchange of such data.
 
-(Added Pub. L. 99–569, title VI, § 601(a), Oct. 27, 1986, 100 Stat. 3202, § 2795; renumbered § 454 and amended Pub. L. 104–201, div. A, title XI, § 1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 112–81, div. A, title IX, § 923(a), (b)(1), Dec. 31, 2011, 125 Stat. 1539; Pub. L. 116–283, div. A, title XVI, § 1621(c)(1), Jan. 1, 2021, 134 Stat. 4053.)
+(Added Pub. L. 99–569, title VI, § 601(a), Oct. 27, 1986, 100 Stat. 3202, § 2795; renumbered § 454 and amended Pub. L. 104–201, div. A, title XI, § 1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 112–81, div. A, title IX, § 923(a), (b)(1), Dec. 31, 2011, 125 Stat. 1539; Pub. L. 116–283, div. A, title XVI, § 1621(c)(1), Jan. 1, 2021, 134 Stat. 4053.)
 
 **Editorial Notes**
 
@@ -573,9 +573,9 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 2021—Pub. L. 116–283 substituted “geomatics” for “geodetic” in section catchline and in two places in text.
 
-2011—Pub. L. 112–81, § 923(b)(1), amended section catchline generally, substituting “Exchange of mapping, charting, and geodetic data with foreign countries, international organizations, nongovernmental organizations, and academic institutions” for “Exchange of mapping, charting, and geodetic data with foreign countries and international organizations”.
+2011—Pub. L. 112–81, § 923(b)(1), amended section catchline generally, substituting “Exchange of mapping, charting, and geodetic data with foreign countries, international organizations, nongovernmental organizations, and academic institutions” for “Exchange of mapping, charting, and geodetic data with foreign countries and international organizations”.
 
-Pub. L. 112–81, § 923(a), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+Pub. L. 112–81, § 923(a), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 2003—Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
@@ -587,7 +587,7 @@ Pub. L. 112–81, § 923(a), designated existing provisions as subsec. (a), in
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of this title.
 
-### § 455. Maps, charts, and geomatics data: public availability; exceptions
+### § 455. Maps, charts, and geomatics data: public availability; exceptions
 
 **(a)** The National Geospatial-Intelligence Agency shall offer for sale maps and charts at scales of 1:500,000 and smaller, except those withheld in accordance with subsection (b) or those specifically authorized under criteria established by Executive order to be kept secret in the interest of national defense or foreign policy and in fact properly classified pursuant to such Executive order.
 
@@ -613,7 +613,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 **(B)** in the case of qualified United States contractors (including contractors that are small business concerns) who need such products for use in the performance of contracts with the United States.
 
-(Added Pub. L. 102–88, title V, § 502(a)(1), Aug. 14, 1991, 105 Stat. 435, § 2796; amended Pub. L. 103–359, title V, § 502, Oct. 14, 1994, 108 Stat. 3430; renumbered § 455 and amended Pub. L. 104–201, div. A, title XI, § 1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 105–85, div. A, title IX, § 933(a), (b)(1), Nov. 18, 1997, 111 Stat. 1866; Pub. L. 106–398, § 1 [[div. A], title X, § 1074], Oct. 30, 2000, 114 Stat. 1654, 1654A–280; Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 116–283, div. A, title XVI, § 1621(d)(1), Jan. 1, 2021, 134 Stat. 4053.)
+(Added Pub. L. 102–88, title V, § 502(a)(1), Aug. 14, 1991, 105 Stat. 435, § 2796; amended Pub. L. 103–359, title V, § 502, Oct. 14, 1994, 108 Stat. 3430; renumbered § 455 and amended Pub. L. 104–201, div. A, title XI, § 1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 105–85, div. A, title IX, § 933(a), (b)(1), Nov. 18, 1997, 111 Stat. 1866; Pub. L. 106–398, § 1 [[div. A], title X, § 1074], Oct. 30, 2000, 114 Stat. 1654, 1654A–280; Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 116–283, div. A, title XVI, § 1621(d)(1), Jan. 1, 2021, 134 Stat. 4053.)
 
 **Editorial Notes**
 
@@ -623,11 +623,11 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 2003—Subsecs. (a), (b)(1)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-2000—Subsec. (b)(1)(C). Pub. L. 106–398 substituted “, reveal military operational or contingency plans, or reveal, jeopardize, or compromise military or intelligence capabilities” for “or reveal military operational or contingency plans”.
+2000—Subsec. (b)(1)(C). Pub. L. 106–398 substituted “, reveal military operational or contingency plans, or reveal, jeopardize, or compromise military or intelligence capabilities” for “or reveal military operational or contingency plans”.
 
-1997—Subsec. (b)(1)(B). Pub. L. 105–85, § 933(a), inserted “, or capabilities,” after “methods”.
+1997—Subsec. (b)(1)(B). Pub. L. 105–85, § 933(a), inserted “, or capabilities,” after “methods”.
 
-Subsec. (b)(2). Pub. L. 105–85, § 933(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In this subsection, the term ‘geodetic product’ means any map, chart, geodetic data, or related product.”
+Subsec. (b)(2). Pub. L. 105–85, § 933(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In this subsection, the term ‘geodetic product’ means any map, chart, geodetic data, or related product.”
 
 1996—Pub. L. 104–201 renumbered section 2796 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency” in subsecs. (a) and (b)(1)(C).
 
@@ -641,13 +641,13 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 **Regulations**
 
-Pub. L. 102–88, title V, § 502(b), Aug. 14, 1991, 105 Stat. 436, directed that regulations to implement section 2796 (now 455) of this title be published in the Federal Register for public comment in accordance with subsec. (c) of that section not later than 90 days after Aug. 14, 1991.
+Pub. L. 102–88, title V, § 502(b), Aug. 14, 1991, 105 Stat. 436, directed that regulations to implement section 2796 (now 455) of this title be published in the Federal Register for public comment in accordance with subsec. (c) of that section not later than 90 days after Aug. 14, 1991.
 
-### § 456. Civil actions barred
+### § 456. Civil actions barred
 
 No civil action may be brought against the United States on the basis of the content of geospatial information prepared or disseminated by the National Geospatial-Intelligence Agency.
 
-(Added Pub. L. 103–337, div. A, title X, § 1074(b), Oct. 5, 1994, 108 Stat. 2861, § 2798; renumbered § 456 and amended Pub. L. 104–201, div. A, title XI, § 1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 116–283, div. A, title XVI, § 1621(e), Jan. 1, 2021, 134 Stat. 4053.)
+(Added Pub. L. 103–337, div. A, title X, § 1074(b), Oct. 5, 1994, 108 Stat. 2861, § 2798; renumbered § 456 and amended Pub. L. 104–201, div. A, title XI, § 1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 116–283, div. A, title XVI, § 1621(e), Jan. 1, 2021, 134 Stat. 4053.)
 
 **Editorial Notes**
 
@@ -671,9 +671,9 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 **Effective Date**
 
-Pub. L. 103–337, div. A, title X, § 1074(d), Oct. 5, 1994, 108 Stat. 2861, provided that: “Section 2798 [now 456] of title 10, United States Code, as added by subsection (b), shall take effect on the date of the enactment of this Act [Oct. 5, 1994] and shall apply with respect to (1) civil actions brought before such date that are pending adjudication on such date, and (2) civil actions brought on or after such date.”
+Pub. L. 103–337, div. A, title X, § 1074(d), Oct. 5, 1994, 108 Stat. 2861, provided that: “Section 2798 [now 456] of title 10, United States Code, as added by subsection (b), shall take effect on the date of the enactment of this Act [Oct. 5, 1994] and shall apply with respect to (1) civil actions brought before such date that are pending adjudication on such date, and (2) civil actions brought on or after such date.”
 
-### § 457. Operational files previously maintained by or concerning activities of National Photographic Interpretation Center: authority to withhold from public disclosure
+### § 457. Operational files previously maintained by or concerning activities of National Photographic Interpretation Center: authority to withhold from public disclosure
 
 **(a) Authority.—** The Secretary of Defense may withhold from public disclosure operational files described in subsection (b) to the same extent that operational files may be withheld under section 701 of the National Security Act of 1947 (50 U.S.C. 3141).
 
@@ -685,15 +685,15 @@ Pub. L. 103–337, div. A, title X, § 1074(d), Oct. 5, 1994, 108 Stat. 2861, 
 
 **(c) Operational Files Defined.—** In this section, the term “operational files” has the meaning given that term in section 701(b) of the National Security Act of 1947 (50 U.S.C. 3141(b)).
 
-(Added Pub. L. 106–65, div. A, title X, § 1045(a), Oct. 5, 1999, 113 Stat. 762; amended Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 113–291, div. A, title X, § 1071(c)(8), Dec. 19, 2014, 128 Stat. 3509.)
+(Added Pub. L. 106–65, div. A, title X, § 1045(a), Oct. 5, 1999, 113 Stat. 762; amended Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 113–291, div. A, title X, § 1071(c)(8), Dec. 19, 2014, 128 Stat. 3509.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–291, § 1071(c)(8)(A), substituted “(50 U.S.C. 3141)” for “(50 U.S.C. 431)”.
+2014—Subsec. (a). Pub. L. 113–291, § 1071(c)(8)(A), substituted “(50 U.S.C. 3141)” for “(50 U.S.C. 431)”.
 
-Subsec. (c). Pub. L. 113–291, § 1071(c)(8)(B), substituted “(50 U.S.C. 3141(b))” for “(50 U.S.C. 431(b))”.
+Subsec. (c). Pub. L. 113–291, § 1071(c)(8)(B), substituted “(50 U.S.C. 3141(b))” for “(50 U.S.C. 431(b))”.
 
 2003—Subsec. (b). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in introductory provisions.
 
@@ -703,13 +703,13 @@ Subsec. (c). Pub. L. 113–291, § 1071(c)(8)(B), substituted “(50 U.S.C. 31
 
 **Amendments**
 
-2001—Pub. L. 107–108, title V, § 504(b), Dec. 28, 2001, 115 Stat. 1406, added item 462.
+2001—Pub. L. 107–108, title V, § 504(b), Dec. 28, 2001, 115 Stat. 1406, added item 462.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program on Establishing a Geospatial Workforce Development Program**
 
-Pub. L. 118–159, div. F, title LXVI, § 6618, Dec. 23, 2024, 138 Stat. 2509, provided that:
+Pub. L. 118–159, div. F, title LXVI, § 6618, Dec. 23, 2024, 138 Stat. 2509, provided that:
 
 > **“(a) Pilot Program Required.—**
 
@@ -791,7 +791,7 @@ Pub. L. 118–159, div. F, title LXVI, § 6618, Dec. 23, 2024, 138 Stat. 2509,
 
 > **“(iv)** Recommendations for expanding or modifying the Pilot Program.”
 
-### § 461. Management rights
+### § 461. Management rights
 
 **(a) Scope.—** If there is no obligation under the provisions of chapter 71 of title 5 for the head of an agency of the United States to consult or negotiate with a labor organization on a particular matter by reason of that matter being covered by a provision of law or a Governmentwide regulation, the Director of the National Geospatial-Intelligence Agency is not obligated to consult or negotiate with a labor organization on that matter even if that provision of law or regulation is inapplicable to the National Geospatial-Intelligence Agency.
 
@@ -803,17 +803,17 @@ Pub. L. 118–159, div. F, title LXVI, § 6618, Dec. 23, 2024, 138 Stat. 2509,
 
 **(2)** A determination described in paragraph (1) that is made by the Director of the National Geospatial-Intelligence Agency may not be reviewed by the Federal Labor Relations Authority or any court of the United States.
 
-(Added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1996, 110 Stat. 2681; amended Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), (C), Nov. 24, 2003, 117 Stat. 1568.)
+(Added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1996, 110 Stat. 2681; amended Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), (C), Nov. 24, 2003, 117 Stat. 1568.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2003—Subsec. (a). Pub. L. 108–136, § 921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in two places.
+2003—Subsec. (a). Pub. L. 108–136, § 921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in two places.
 
-Subsec. (b). Pub. L. 108–136, § 921(d)(2)(C), substituted “The Director of the National Geospatial-Intelligence Agency” for “The National Imagery and Mapping Agency” and “on September 30, 1996” for “on the day before the date on which employees and positions of the Defense Mapping Agency in that bargaining unit became employees and positions of the National Imagery and Mapping Agency under the National Imagery and Mapping Agency Act of 1996 (title XI of the National Defense Authorization Act for Fiscal Year 1997)”.
+Subsec. (b). Pub. L. 108–136, § 921(d)(2)(C), substituted “The Director of the National Geospatial-Intelligence Agency” for “The National Imagery and Mapping Agency” and “on September 30, 1996” for “on the day before the date on which employees and positions of the Defense Mapping Agency in that bargaining unit became employees and positions of the National Imagery and Mapping Agency under the National Imagery and Mapping Agency Act of 1996 (title XI of the National Defense Authorization Act for Fiscal Year 1997)”.
 
-Subsec. (c). Pub. L. 108–136, § 921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in two places.
+Subsec. (c). Pub. L. 108–136, § 921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -821,11 +821,11 @@ Subsec. (c). Pub. L. 108–136, § 921(d)(2)(A), substituted “National Geosp
 
 Section effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 193 of this title.
 
-### § 462. Financial assistance to certain employees in acquisition of critical skills
+### § 462. Financial assistance to certain employees in acquisition of critical skills
 
 The Secretary of Defense may establish an undergraduate training program with respect to civilian employees of the National Geospatial-Intelligence Agency that is similar in purpose, conditions, content, and administration to the program established by the Secretary of Defense under section 16 of the National Security Agency Act of 1959 (50 U.S.C. 3614) for civilian employees of the National Security Agency.
 
-(Added Pub. L. 107–108, title V, § 504(a), Dec. 28, 2001, 115 Stat. 1405; amended Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 113–291, div. A, title X, § 1071(c)(9), Dec. 19, 2014, 128 Stat. 3509.)
+(Added Pub. L. 107–108, title V, § 504(a), Dec. 28, 2001, 115 Stat. 1405; amended Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 113–291, div. A, title X, § 1071(c)(9), Dec. 19, 2014, 128 Stat. 3509.)
 
 **Editorial Notes**
 
@@ -837,7 +837,7 @@ The Secretary of Defense may establish an undergraduate training program with re
 
 ## SUBCHAPTER IV—DEFINITIONS
 
-### § 467. Definitions
+### § 467. Definitions
 
 In this chapter:
 
@@ -863,19 +863,19 @@ In this chapter:
 
 **(5)** The term “geospatial intelligence” means the exploitation and analysis of imagery and geospatial information to describe, assess, and visually depict physical features and geographically referenced activities on or about the earth. Geospatial intelligence consists of imagery, imagery intelligence, and geospatial information.
 
-(Added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1996, 110 Stat. 2682; amended Pub. L. 105–85, div. A, title IX, § 933(b)(2), Nov. 18, 1997, 111 Stat. 1866; Pub. L. 108–136, div. A, title IX, § 921(b), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 116–283, div. A, title XVI, § 1621(f), Jan. 1, 2021, 134 Stat. 4054.)
+(Added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1996, 110 Stat. 2682; amended Pub. L. 105–85, div. A, title IX, § 933(b)(2), Nov. 18, 1997, 111 Stat. 1866; Pub. L. 108–136, div. A, title IX, § 921(b), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 116–283, div. A, title XVI, § 1621(f), Jan. 1, 2021, 134 Stat. 4054.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Par. (4). Pub. L. 116–283, § 1621(f)(1)(A), inserted “or about” after “boundaries on” in introductory provisions.
+2021—Par. (4). Pub. L. 116–283, § 1621(f)(1)(A), inserted “or about” after “boundaries on” in introductory provisions.
 
-Par. (4)(A). Pub. L. 116–283, § 1621(f)(1)(B), struck out “statistical” before “data”.
+Par. (4)(A). Pub. L. 116–283, § 1621(f)(1)(B), struck out “statistical” before “data”.
 
-Par. (4)(B). Pub. L. 116–283, § 1621(f)(1)(C), substituted “geomatics” for “geodetic” and inserted “and services” after “products”.
+Par. (4)(B). Pub. L. 116–283, § 1621(f)(1)(C), substituted “geomatics” for “geodetic” and inserted “and services” after “products”.
 
-Par. (5). Pub. L. 116–283, § 1621(f)(2), inserted “or about” after “activities on”.
+Par. (5). Pub. L. 116–283, § 1621(f)(2), inserted “or about” after “activities on”.
 
 2003—Par. (5). Pub. L. 108–136 added par. (5).
 

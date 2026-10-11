@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 171—SAFETY STANDARDS FOR MOTOR VEHICLES
 
-## § 17101. Definitions
+## § 17101. Definitions
 
 In this chapter, the following definitions apply:
 
@@ -29,11 +29,11 @@ In this chapter, the following definitions apply:
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17101 | 40:703. | Pub. L. 88–515, § 3, Aug. 30, 1964, 78 Stat. 696. |
+| 17101 | 40:703. | Pub. L. 88–515, § 3, Aug. 30, 1964, 78 Stat. 696. |
 
 In clause (1), the words “the legislative, executive, and judicial branches of the Government of the United States” are omitted as unnecessary.
 
-## § 17102. Prohibition on acquisition or purchase of motor vehicles by Federal Government
+## § 17102. Prohibition on acquisition or purchase of motor vehicles by Federal Government
 
 The Federal Government shall not purchase a motor vehicle for use by the Government unless that motor vehicle is equipped with reasonable passenger safety devices that the Administrator of General Services requires. Those devices shall conform with standards the Administrator prescribes under section 17103 of this title.
 
@@ -43,11 +43,11 @@ The Federal Government shall not purchase a motor vehicle for use by the Governm
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17102 | 40:701. | Pub. L. 88–515, § 1, Aug. 30, 1964, 78 Stat. 696. |
+| 17102 | 40:701. | Pub. L. 88–515, § 1, Aug. 30, 1964, 78 Stat. 696. |
 
 The words “manufactured on or after the effective date of this section” are omitted as executed.
 
-## § 17103. Commercial standards for passenger safety devices
+## § 17103. Commercial standards for passenger safety devices
 
 The Administrator of General Services shall prescribe and publish in the Federal Register commercial standards for passenger safety devices the Administrator requires under section 17102 of this title. Changes in the standards take effect one year and 90 days after the publication of the standards in the Federal Register.
 
@@ -57,7 +57,7 @@ The Administrator of General Services shall prescribe and publish in the Federal
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17103 | 40:701 note. | Pub. L. 88–515, §§ 2, 4, Aug. 30, 1964, 78 Stat. 696. |
+| 17103 | 40:701 note. | Pub. L. 88–515, §§ 2, 4, Aug. 30, 1964, 78 Stat. 696. |
 |  | 40:702. |  |
 
 The first sentence of section 4 of the Act of August 30, 1964, and 40:702 (last sentence) are omitted as executed.

@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 2401. Congressional findings
+### § 2401. Congressional findings
 
 The Congress finds and declares that—
 
@@ -45,7 +45,7 @@ The Congress finds and declares that—
 
 **(12)** the Indian tribes have the primary responsibility for protecting and ensuring the well-being of their members and the resources made available under this chapter will assist Indian tribes in meeting that responsibility.
 
-(Pub. L. 99–570, title IV, § 4202, Oct. 27, 1986, 100 Stat. 3207–137.)
+(Pub. L. 99–570, title IV, § 4202, Oct. 27, 1986, 100 Stat. 3207–137.)
 
 **Editorial Notes**
 
@@ -57,13 +57,13 @@ This chapter, referred to in par. (12), was in the original “this subtitle”,
 
 **Short Title**
 
-Pub. L. 99–570, title IV, § 4201, Oct. 27, 1986, 100 Stat. 3207–137, provided that: “This subtitle [subtitle C (§§ 4201–4230) of title IV of Pub. L. 99–570, enacting this chapter, amending section 1302 of this title, and enacting provisions set out as a note under section 1302 of this title] may be cited as the ‘Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986’.”
+Pub. L. 99–570, title IV, § 4201, Oct. 27, 1986, 100 Stat. 3207–137, provided that: “This subtitle [subtitle C (§§ 4201–4230) of title IV of Pub. L. 99–570, enacting this chapter, amending section 1302 of this title, and enacting provisions set out as a note under section 1302 of this title] may be cited as the ‘Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986’.”
 
 **Rule of Construction for Pub. L. 100–690**
 
-Pub. L. 100–690, title II, § 2219, Nov. 18, 1988, 102 Stat. 4222, provided that: “Except as otherwise provided in this Act or the amendments made by this Act [see Tables for classification], nothing in this Act or the amendments made by this Act shall be construed to affect the obligation of the United States to any Indian or Indian tribe arising out of any treaty, statute, Executive order, or the trust responsibility of the United States owing to such Indian or Indian tribe. Nothing in this section shall exempt any individual Indian from the sanctions of ‘user accountability’ provided for elsewhere in this Act: *Provided*, That no individual Indian shall be denied any benefit under Federal Indian programs comparable to those ‘means tested’ safety net programs otherwise excluded under this Act.”
+Pub. L. 100–690, title II, § 2219, Nov. 18, 1988, 102 Stat. 4222, provided that: “Except as otherwise provided in this Act or the amendments made by this Act [see Tables for classification], nothing in this Act or the amendments made by this Act shall be construed to affect the obligation of the United States to any Indian or Indian tribe arising out of any treaty, statute, Executive order, or the trust responsibility of the United States owing to such Indian or Indian tribe. Nothing in this section shall exempt any individual Indian from the sanctions of ‘user accountability’ provided for elsewhere in this Act: *Provided*, That no individual Indian shall be denied any benefit under Federal Indian programs comparable to those ‘means tested’ safety net programs otherwise excluded under this Act.”
 
-### § 2402. Purpose
+### § 2402. Purpose
 
 It is the purpose of this chapter to—
 
@@ -73,15 +73,15 @@ It is the purpose of this chapter to—
 
 **(3)** provide authority and opportunities for Indian tribes to develop and implement a coordinated program for the prevention and treatment of alcohol and substance abuse at the local level, and
 
-**(4)** to 1
+**(4)** to 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 modify or supplement existing programs and authorities in the areas of education, family and social services, law enforcement and judicial services, and health services to further the purposes of this chapter.
 
-(Pub. L. 99–570, title IV, § 4203, Oct. 27, 1986, 100 Stat. 3207–138.)
+(Pub. L. 99–570, title IV, § 4203, Oct. 27, 1986, 100 Stat. 3207–138.)
 
-### § 2403. Definitions
+### § 2403. Definitions
 
 For purposes of this chapter—
 
@@ -111,15 +111,15 @@ For purposes of this chapter—
 
 **(6)** The terms “Urban Indian”, “Urban Center”, and “Urban Indian Organization” shall have the same meaning as provided in section 1603 of this title.
 
-(Pub. L. 99–570, title IV, § 4204, Oct. 27, 1986, 100 Stat. 3207–138; Pub. L. 100–690, title II, § 2202, Nov. 18, 1988, 102 Stat. 4217.)
+(Pub. L. 99–570, title IV, § 4204, Oct. 27, 1986, 100 Stat. 3207–138; Pub. L. 100–690, title II, § 2202, Nov. 18, 1988, 102 Stat. 4217.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Indian Self-Determination Act, referred to in par. (5), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in par. (5), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
@@ -127,7 +127,7 @@ The Indian Self-Determination Act, referred to in par. (5), is title I of Pub. L
 
 ## SUBCHAPTER II—COORDINATION OF RESOURCES AND PROGRAMS
 
-### § 2411. Inter-departmental Memorandum of Agreement
+### § 2411. Inter-departmental Memorandum of Agreement
 
 **(a) In general** Not later than 1 year after July 29, 2010, the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall develop and enter into a Memorandum of Agreement which shall, among other things—
 
@@ -159,9 +159,9 @@ which would be relevant to a coordinated effort to combat alcohol and substance 
 
 To the extent that there are new activities undertaken pursuant to this chapter, those activities shall supplement, not supplant, activities, programs, and local actions that are ongoing on October 27, 1986. Such activities shall be undertaken in the manner least disruptive to tribal control, in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-and local control, in accordance with section 2010 1 of this title.
+and local control, in accordance with section 2010 1 of this title.
 
 **(c) Consultation** The Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall, in developing the Memorandum of Agreement under subsection (a), consult with and solicit the comments of—
 
@@ -177,31 +177,31 @@ and local control, in accordance with section 2010 1 of this title.
 
 The Memorandum of Agreement under subsection (a) shall be submitted to Congress and published in the Federal Register not later than 130 days after July 29, 2010. At the same time as publication in the Federal Register, the Secretary of the Interior shall provide a copy of this chapter and the Memorandum of Agreement under subsection (a) to each Indian tribe.
 
-(Pub. L. 99–570, title IV, § 4205, Oct. 27, 1986, 100 Stat. 3207–139; Pub. L. 111–211, title II, § 241(a)(1), July 29, 2010, 124 Stat. 2287.)
+(Pub. L. 99–570, title IV, § 4205, Oct. 27, 1986, 100 Stat. 3207–139; Pub. L. 111–211, title II, § 241(a)(1), July 29, 2010, 124 Stat. 2287.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Section 2010 of this title, referred to in subsec. (b), was in the original a reference to section 1130 of the Education Amendments of 1978, Pub. L. 95–561. Section 1130 of Pub. L. 95–561 was omitted in the general amendment of chapter 22 (§ 2001 et seq.) of this title by Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3979. Pub. L. 103–382 enacted a new section 1130 of Pub. L. 95–561, relating to uniform direct funding and support, which is classified to section 2010 of this title. Provisions relating to Indian control of Indian education are now contained in section 2011 of this title.
+Section 2010 of this title, referred to in subsec. (b), was in the original a reference to section 1130 of the Education Amendments of 1978, Pub. L. 95–561. Section 1130 of Pub. L. 95–561 was omitted in the general amendment of chapter 22 (§ 2001 et seq.) of this title by Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3979. Pub. L. 103–382 enacted a new section 1130 of Pub. L. 95–561, relating to uniform direct funding and support, which is classified to section 2010 of this title. Provisions relating to Indian control of Indian education are now contained in section 2011 of this title.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–211, § 241(a)(1)(A)(i), in introductory provisions, substituted “Not later than 1 year after July 29, 2010” for “Not later than 120 days after October 27, 1986” and inserted “, the Attorney General,” after “Secretary of the Interior”.
+2010—Subsec. (a). Pub. L. 111–211, § 241(a)(1)(A)(i), in introductory provisions, substituted “Not later than 1 year after July 29, 2010” for “Not later than 120 days after October 27, 1986” and inserted “, the Attorney General,” after “Secretary of the Interior”.
 
-Subsec. (a)(2)(A). Pub. L. 111–211, § 241(a)(1)(A)(ii), which directed insertion of “, Office of Justice Programs, Substance Abuse and Mental Health Services Administration,” after “Bureau of Indian Affairs,”, was executed by making the insertion after “Bureau of Indian Affairs” to reflect the probable intent of Congress.
+Subsec. (a)(2)(A). Pub. L. 111–211, § 241(a)(1)(A)(ii), which directed insertion of “, Office of Justice Programs, Substance Abuse and Mental Health Services Administration,” after “Bureau of Indian Affairs,”, was executed by making the insertion after “Bureau of Indian Affairs” to reflect the probable intent of Congress.
 
-Subsec. (a)(4), (5). Pub. L. 111–211, § 241(a)(1)(A)(iii), (iv), inserted “, Department of Justice, Substance Abuse and Mental Health Services Administration,” after “Bureau of Indian Affairs”.
+Subsec. (a)(4), (5). Pub. L. 111–211, § 241(a)(1)(A)(iii), (iv), inserted “, Department of Justice, Substance Abuse and Mental Health Services Administration,” after “Bureau of Indian Affairs”.
 
-Subsec. (a)(7). Pub. L. 111–211, § 241(a)(1)(A)(v), inserted “, the Attorney General,” after “Secretary of the Interior”.
+Subsec. (a)(7). Pub. L. 111–211, § 241(a)(1)(A)(v), inserted “, the Attorney General,” after “Secretary of the Interior”.
 
-Subsec. (c). Pub. L. 111–211, § 241(a)(1)(B), inserted “, the Attorney General,” after “Secretary of the Interior” in introductory provisions.
+Subsec. (c). Pub. L. 111–211, § 241(a)(1)(B), inserted “, the Attorney General,” after “Secretary of the Interior” in introductory provisions.
 
-Subsec. (d). Pub. L. 111–211, § 241(a)(1)(C), substituted “July 29, 2010” for “October 27, 1986”.
+Subsec. (d). Pub. L. 111–211, § 241(a)(1)(C), substituted “July 29, 2010” for “October 27, 1986”.
 
-### § 2412. Tribal Action Plans
+### § 2412. Tribal Action Plans
 
 **(a) In general**
 
@@ -211,7 +211,7 @@ The governing body of any Indian tribe may, at its discretion, adopt a resolutio
 
 At the request of any Indian tribe pursuant to a resolution adopted under subsection (a), the Bureau of Indian Affairs agency and education superintendents, where appropriate,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration, and the Indian Health Service service unit director providing services to such tribe shall cooperate with the tribe in the development of a Tribal Action Plan to coordinate resources and programs relevant to alcohol and substance abuse prevention and treatment. Upon the development of such a plan, such superintendents and director, as directed by the Memorandum of Agreement established under section 2411 of this title, shall enter into an agreement with the tribe for the implementation of the Tribal Action Plan under subsection (a).
 
@@ -227,9 +227,9 @@ the Office of Justice Programs, the Substance Abuse and Mental Health Services A
 
 **(iii)** have the responsibility for on-going review and evaluation of, and the making of recommendations to the tribe relating to, the Tribal Action Plan, and
 
-**(iv)** have the responsibility for scheduling Federal, tribal or other personnel for training in the prevention and treatment of alcohol and substance abuse among Indians as provided under section 2475 2
+**(iv)** have the responsibility for scheduling Federal, tribal or other personnel for training in the prevention and treatment of alcohol and substance abuse among Indians as provided under section 2475 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title, and
 
@@ -283,37 +283,37 @@ If any Indian tribe does not adopt a resolution as provided in subsection (a) wi
 
 **(3)** There are authorized to be appropriated to carry out the provisions of this subsection $5,000,000 for fiscal years 2011 through 2015.
 
-(Pub. L. 99–570, title IV, § 4206, Oct. 27, 1986, 100 Stat. 3207–140; Pub. L. 100–690, title II, §§ 2203, 2204, Nov. 18, 1988, 102 Stat. 4217; Pub. L. 102–573, title VII, § 703(1), Oct. 29, 1992, 106 Stat. 4582; Pub. L. 111–211, title II, § 241(a)(2), July 29, 2010, 124 Stat. 2287.)
+(Pub. L. 99–570, title IV, § 4206, Oct. 27, 1986, 100 Stat. 3207–140; Pub. L. 100–690, title II, §§ 2203, 2204, Nov. 18, 1988, 102 Stat. 4217; Pub. L. 102–573, title VII, § 703(1), Oct. 29, 1992, 106 Stat. 4582; Pub. L. 111–211, title II, § 241(a)(2), July 29, 2010, 124 Stat. 2287.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2475 of this title, referred to in subsec. (c)(1)(A)(iv), was repealed by Pub. L. 102–573, title VII, § 702(b)(2), Oct. 29, 1992, 106 Stat. 4582.
+Section 2475 of this title, referred to in subsec. (c)(1)(A)(iv), was repealed by Pub. L. 102–573, title VII, § 702(b)(2), Oct. 29, 1992, 106 Stat. 4582.
 
 **Amendments**
 
-2010—Subsec. (b). Pub. L. 111–211, § 241(a)(2)(A), inserted “, the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration,” before “and the Indian Health Service service unit”.
+2010—Subsec. (b). Pub. L. 111–211, § 241(a)(2)(A), inserted “, the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration,” before “and the Indian Health Service service unit”.
 
-Subsec. (c)(1)(A)(i). Pub. L. 111–211, § 241(a)(2)(B), inserted “, the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration,” before “and the Indian Health Service service unit”.
+Subsec. (c)(1)(A)(i). Pub. L. 111–211, § 241(a)(2)(B), inserted “, the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration,” before “and the Indian Health Service service unit”.
 
-Subsec. (d)(2). Pub. L. 111–211, § 241(a)(2)(C), substituted “the period of fiscal years 2011 through 2015” for “fiscal year 1993 and such sums as are necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000”.
+Subsec. (d)(2). Pub. L. 111–211, § 241(a)(2)(C), substituted “the period of fiscal years 2011 through 2015” for “fiscal year 1993 and such sums as are necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000”.
 
-Subsec. (e). Pub. L. 111–211, § 241(a)(2)(D), inserted “, the Attorney General,” after “the Secretary of the Interior”.
+Subsec. (e). Pub. L. 111–211, § 241(a)(2)(D), inserted “, the Attorney General,” after “the Secretary of the Interior”.
 
-Subsec. (f)(3). Pub. L. 111–211, § 241(a)(2)(E), substituted “fiscal years 2011 through 2015” for “fiscal year 1993 and such sums as are necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000”.
+Subsec. (f)(3). Pub. L. 111–211, § 241(a)(2)(E), substituted “fiscal years 2011 through 2015” for “fiscal year 1993 and such sums as are necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000”.
 
-1992—Subsec. (c). Pub. L. 102–573, § 703(1)(A), in par. (2), redesignated subpars. (2) to (4) as subpars. (B) to (D), respectively, and added subpar. (F), and added par. (3).
+1992—Subsec. (c). Pub. L. 102–573, § 703(1)(A), in par. (2), redesignated subpars. (2) to (4) as subpars. (B) to (D), respectively, and added subpar. (F), and added par. (3).
 
-Subsec. (d)(2). Pub. L. 102–573, § 703(1)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is authorized to be appropriated not to exceed $1,000,000 for each of the fiscal years 1989, 1990, 1991, and 1992 for grants under this subsection.”
+Subsec. (d)(2). Pub. L. 102–573, § 703(1)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is authorized to be appropriated not to exceed $1,000,000 for each of the fiscal years 1989, 1990, 1991, and 1992 for grants under this subsection.”
 
-Subsec. (f). Pub. L. 102–573, § 703(1)(C), added subsec. (f).
+Subsec. (f). Pub. L. 102–573, § 703(1)(C), added subsec. (f).
 
-1988—Subsec. (c)(2)(E). Pub. L. 100–690, § 2203, added subpar. (E).
+1988—Subsec. (c)(2)(E). Pub. L. 100–690, § 2203, added subpar. (E).
 
-Subsec. (d)(2). Pub. L. 100–690, § 2204, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is authorized to be appropriated not to exceed $1,000,000 for each of the fiscal year 1987, 1988, and 1989 for grants under this subsection.”
+Subsec. (d)(2). Pub. L. 100–690, § 2204, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is authorized to be appropriated not to exceed $1,000,000 for each of the fiscal year 1987, 1988, and 1989 for grants under this subsection.”
 
-### § 2413. Departmental responsibility
+### § 2413. Departmental responsibility
 
 **(a) Implementation**
 
@@ -341,9 +341,9 @@ To improve coordination among the Federal agencies and departments carrying out 
 
 **(C)** not later than 1 year after July 29, 2010, developing, in coordination and consultation with tribal governments, a framework for interagency and tribal coordination that—
 
-**(i)** establish 1
+**(i)** establish 1
 
-<sup>1</sup>  So in original. Probably should be “establishes”.
+<sup>1</sup> So in original. Probably should be “establishes”.
 
 the goals and other desired outcomes of this Act;
 
@@ -371,7 +371,7 @@ The Administrator of the Substance Abuse and Mental Health Services Administrati
 
 **(B)** providing advice and recommendations, including recommendations submitted by Indian tribes and Tribal Coordinating Committees, to the Director of the Office as they relate to Indian youth.
 
-(Pub. L. 99–570, title IV, § 4207, Oct. 27, 1986, 100 Stat. 3207–141; Pub. L. 100–690, title II, § 2216, Nov. 18, 1988, 102 Stat. 4221; Pub. L. 102–573, title VII, § 703(2), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, § 241(a)(3), July 29, 2010, 124 Stat. 2288.)
+(Pub. L. 99–570, title IV, § 4207, Oct. 27, 1986, 100 Stat. 3207–141; Pub. L. 100–690, title II, § 2216, Nov. 18, 1988, 102 Stat. 4221; Pub. L. 102–573, title VII, § 703(2), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, § 241(a)(3), July 29, 2010, 124 Stat. 2288.)
 
 **Editorial Notes**
 
@@ -383,37 +383,37 @@ This Act, referred to in subsec. (b)(2)(C)(i), is Pub. L. 99–570, Oct. 27, 198
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–211, § 241(a)(3)(A), inserted “, the Attorney General” after “Bureau of Indian Affairs”.
+2010—Subsec. (a). Pub. L. 111–211, § 241(a)(3)(A), inserted “, the Attorney General” after “Bureau of Indian Affairs”.
 
-Subsec. (b)(1). Pub. L. 111–211, § 241(a)(3)(B)(i), added par. (1) and struck out former par. (1) which read as follows: “In order to better coordinate the various programs of the Bureau of Indian Affairs in carrying out this chapter, there is established within the Office of the Assistant Secretary of the Interior for Indian Affairs an Office of Alcohol and Substance Abuse. The director of such office shall be appointed by the Assistant Secretary of the Interior for Indian Affairs on a permanent basis at no less than a grade GS–15 of the General Schedule.”
+Subsec. (b)(1). Pub. L. 111–211, § 241(a)(3)(B)(i), added par. (1) and struck out former par. (1) which read as follows: “In order to better coordinate the various programs of the Bureau of Indian Affairs in carrying out this chapter, there is established within the Office of the Assistant Secretary of the Interior for Indian Affairs an Office of Alcohol and Substance Abuse. The director of such office shall be appointed by the Assistant Secretary of the Interior for Indian Affairs on a permanent basis at no less than a grade GS–15 of the General Schedule.”
 
-Subsec. (b)(2). Pub. L. 111–211, § 241(a)(3)(B)(ii)(I), inserted heading.
+Subsec. (b)(2). Pub. L. 111–211, § 241(a)(3)(B)(ii)(I), inserted heading.
 
-Subsec. (b)(2)(A). Pub. L. 111–211, § 241(a)(3)(B)(ii)(II), added subpar. (A) and struck out former subpar. (A) which read as follows: “monitoring the performance and compliance of programs of the Bureau of Indian Affairs in meeting the goals and purposes of this chapter and the Memorandum of Agreement entered into under section 2411 of this title, and”.
+Subsec. (b)(2)(A). Pub. L. 111–211, § 241(a)(3)(B)(ii)(II), added subpar. (A) and struck out former subpar. (A) which read as follows: “monitoring the performance and compliance of programs of the Bureau of Indian Affairs in meeting the goals and purposes of this chapter and the Memorandum of Agreement entered into under section 2411 of this title, and”.
 
-Subsec. (b)(2)(B). Pub. L. 111–211, § 241(a)(3)(B)(ii)(III)(aa), struck out “within the Bureau of Indian Affairs” after “point of contact”.
+Subsec. (b)(2)(B). Pub. L. 111–211, § 241(a)(3)(B)(ii)(III)(aa), struck out “within the Bureau of Indian Affairs” after “point of contact”.
 
-Subsec. (b)(2)(C). Pub. L. 111–211, § 241(a)(3)(B)(ii)(III)(bb), (IV), added subpar. (C).
+Subsec. (b)(2)(C). Pub. L. 111–211, § 241(a)(3)(B)(ii)(III)(bb), (IV), added subpar. (C).
 
-Subsec. (b)(3). Pub. L. 111–211, § 241(a)(3)(B)(iii), added par. (3) and struck out former par. (3) which read as follows: “The Assistant Secretary of the Interior for Indian Affairs shall appoint such employees to work in the Office of Alcohol and Substance Abuse, and shall provide such funding, services, and equipment as may be necessary to enable the Office of Alcohol and Substance Abuse to carry out its responsibilities.”
+Subsec. (b)(3). Pub. L. 111–211, § 241(a)(3)(B)(iii), added par. (3) and struck out former par. (3) which read as follows: “The Assistant Secretary of the Interior for Indian Affairs shall appoint such employees to work in the Office of Alcohol and Substance Abuse, and shall provide such funding, services, and equipment as may be necessary to enable the Office of Alcohol and Substance Abuse to carry out its responsibilities.”
 
-Subsec. (c)(1). Pub. L. 111–211, § 241(a)(3)(C)(i), (ii), struck out “of Alcohol and Substance Abuse” after “Office” and substituted “The Administrator of the Substance Abuse and Mental Health Services Administration” for “The Assistant Secretary of the Interior for Indian Affairs”.
+Subsec. (c)(1). Pub. L. 111–211, § 241(a)(3)(C)(i), (ii), struck out “of Alcohol and Substance Abuse” after “Office” and substituted “The Administrator of the Substance Abuse and Mental Health Services Administration” for “The Assistant Secretary of the Interior for Indian Affairs”.
 
-Subsec. (c)(3). Pub. L. 111–211, § 241(a)(3)(C)(iii)(I), which directed substitution of “youth” for “Youth” in introductory provisions, was executed by making the substitution for “Youth” the second time appearing, to reflect the probable intent of Congress.
+Subsec. (c)(3). Pub. L. 111–211, § 241(a)(3)(C)(iii)(I), which directed substitution of “youth” for “Youth” in introductory provisions, was executed by making the substitution for “Youth” the second time appearing, to reflect the probable intent of Congress.
 
-Subsec. (c)(3)(A). Pub. L. 111–211, § 241(a)(3)(C)(iii)(II), substituted “the applicable Federal programs” for “programs of the Bureau of Indian Affairs”.
+Subsec. (c)(3)(A). Pub. L. 111–211, § 241(a)(3)(C)(iii)(II), substituted “the applicable Federal programs” for “programs of the Bureau of Indian Affairs”.
 
-Subsec. (c)(3)(B). Pub. L. 111–211, § 241(a)(3)(C)(i), struck out “of Alcohol and Substance Abuse” after “Office”.
+Subsec. (c)(3)(B). Pub. L. 111–211, § 241(a)(3)(C)(i), struck out “of Alcohol and Substance Abuse” after “Office”.
 
 1992—Subsec. (b)(3). Pub. L. 102–573 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Assistant Secretary of the Interior for Indian Affairs shall appoint such employees to work in the Office of Alcohol and Substance Abuse, and shall provide such services and equipment, as may be necessary to enable the Office of Alcohol and Substance Abuse to carry out its responsibilities.”
 
-1988—Subsec. (b)(1). Pub. L. 100–690, § 2216(1), (2), substituted “Assistant Secretary of the Interior for” for “Assistant Secretary of” and “Assistant Secretary of the Interior for Indian Affairs on” for “Assistant Secretary on”.
+1988—Subsec. (b)(1). Pub. L. 100–690, § 2216(1), (2), substituted “Assistant Secretary of the Interior for” for “Assistant Secretary of” and “Assistant Secretary of the Interior for Indian Affairs on” for “Assistant Secretary on”.
 
-Subsec. (b)(3). Pub. L. 100–690, § 2216(3), added par. (3).
+Subsec. (b)(3). Pub. L. 100–690, § 2216(3), added par. (3).
 
-Subsec. (c)(1). Pub. L. 100–690, § 2216(4), inserted at end “The Assistant Secretary of the Interior for Indian Affairs shall appoint the Indian Youth Programs Officer.”
+Subsec. (c)(1). Pub. L. 100–690, § 2216(4), inserted at end “The Assistant Secretary of the Interior for Indian Affairs shall appoint the Indian Youth Programs Officer.”
 
-### § 2414. Congressional intent in construction of laws
+### § 2414. Congressional intent in construction of laws
 
 It is the intent of Congress that—
 
@@ -423,9 +423,9 @@ It is the intent of Congress that—
 
 shall be liberally construed and administered to achieve the purposes of this chapter.
 
-(Pub. L. 99–570, title IV, § 4208, Oct. 27, 1986, 100 Stat. 3207–142.)
+(Pub. L. 99–570, title IV, § 4208, Oct. 27, 1986, 100 Stat. 3207–142.)
 
-### § 2414a. Review of programs
+### § 2414a. Review of programs
 
 **(a) In general** In the development of the Memorandum of Agreement required by section 2411 of this title, the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall review and consider—
 
@@ -443,7 +443,7 @@ to determine their applicability and relevance in carrying out the purposes of t
 
 The results of the review conducted under subsection (a) shall be provided to every Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan.
 
-(Pub. L. 99–570, title IV, § 4208A, formerly § 4224, Oct. 27, 1986, 100 Stat. 3207–148; renumbered § 4208A, Pub. L. 102–573, title VII, § 702(b)(1), Oct. 29, 1992, 106 Stat. 4582; amended Pub. L. 111–211, title II, § 241(a)(4), July 29, 2010, 124 Stat. 2289.)
+(Pub. L. 99–570, title IV, § 4208A, formerly § 4224, Oct. 27, 1986, 100 Stat. 3207–148; renumbered § 4208A, Pub. L. 102–573, title VII, § 702(b)(1), Oct. 29, 1992, 106 Stat. 4582; amended Pub. L. 111–211, title II, § 241(a)(4), July 29, 2010, 124 Stat. 2289.)
 
 **Editorial Notes**
 
@@ -451,13 +451,13 @@ The results of the review conducted under subsection (a) shall be provided to ev
 
 Section was formerly classified to section 2471 of this title prior to renumbering by Pub. L. 102–573.
 
-Pub. L. 111–211, § 241(a)(4), which directed amendment of section 4208a of the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, was executed to this section, which is section 4208A of the Act, to reflect the probable intent of Congress. See 2010 Amendment note below.
+Pub. L. 111–211, § 241(a)(4), which directed amendment of section 4208a of the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, was executed to this section, which is section 4208A of the Act, to reflect the probable intent of Congress. See 2010 Amendment note below.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–211 inserted “, the Attorney General,” after “the Secretary of the Interior” in introductory provisions. See Codification note above.
+2010—Subsec. (a). Pub. L. 111–211 inserted “, the Attorney General,” after “the Secretary of the Interior” in introductory provisions. See Codification note above.
 
-### § 2415. Federal facilities, property, and equipment; leasing of tribal property
+### § 2415. Federal facilities, property, and equipment; leasing of tribal property
 
 **(a) Facility availability**
 
@@ -471,37 +471,37 @@ Any additional cost associated with the use of Federal facilities, property, or 
 
 **(1)** The Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services are authorized to enter into long-term leases of tribally owned or leased facilities to house programs established by this chapter where they determine that there is no Federal facility reasonably available for such purpose and the cost of constructing a new Federal facility would exceed the cost of such Federal lease unless they determine that mitigating factors favor such a lease.
 
-**(2)** A tribally owned or leased facility may be leased pursuant to this authority to house a regional treatment center to be established pursuant to section 2474(b) 1
+**(2)** A tribally owned or leased facility may be leased pursuant to this authority to house a regional treatment center to be established pursuant to section 2474(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title only if all the tribes within the Indian Health Service area to be served by such regional treatment center initially consent to such Federal lease.
 
-(Pub. L. 99–570, title IV, § 4209, Oct. 27, 1986, 100 Stat. 3207–142; Pub. L. 100–690, title II, § 2205, Nov. 18, 1988, 102 Stat. 4217; Pub. L. 111–211, title II, § 241(a)(5), July 29, 2010, 124 Stat. 2289.)
+(Pub. L. 99–570, title IV, § 4209, Oct. 27, 1986, 100 Stat. 3207–142; Pub. L. 100–690, title II, § 2205, Nov. 18, 1988, 102 Stat. 4217; Pub. L. 111–211, title II, § 241(a)(5), July 29, 2010, 124 Stat. 2289.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2474(b) of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 102–573, title VII, § 702(b)(2), Oct. 29, 1992, 106 Stat. 4582.
+Section 2474(b) of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 102–573, title VII, § 702(b)(2), Oct. 29, 1992, 106 Stat. 4582.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–211, § 241(a)(5)(A), inserted “, the Attorney General,” after “the Secretary of the Interior”.
+2010—Subsec. (a). Pub. L. 111–211, § 241(a)(5)(A), inserted “, the Attorney General,” after “the Secretary of the Interior”.
 
-Subsec. (b). Pub. L. 111–211, § 241(a)(5)(B), inserted “, the Attorney General,” after “the Secretary of the Interior” in first sentence, “, nor the Attorney General,” after “the Secretary of the Interior” in second sentence, and “, the Department of Justice,” after “the Department of the Interior” in third sentence.
+Subsec. (b). Pub. L. 111–211, § 241(a)(5)(B), inserted “, the Attorney General,” after “the Secretary of the Interior” in first sentence, “, nor the Attorney General,” after “the Secretary of the Interior” in second sentence, and “, the Department of Justice,” after “the Department of the Interior” in third sentence.
 
-Subsec. (c)(1). Pub. L. 111–211, § 241(a)(5)(C), which directed insertion of “, the Attorney General,” after “the Secretary of the Interior”, was executed by making the insertion after “The Secretary of the Interior”, to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 111–211, § 241(a)(5)(C), which directed insertion of “, the Attorney General,” after “the Secretary of the Interior”, was executed by making the insertion after “The Secretary of the Interior”, to reflect the probable intent of Congress.
 
-1988—Pub. L. 100–690, § 2205(1), inserted “; leasing of tribal property” in section catchline.
+1988—Pub. L. 100–690, § 2205(1), inserted “; leasing of tribal property” in section catchline.
 
-Subsec. (c). Pub. L. 100–690, § 2205(2), added subsec. (c).
+Subsec. (c). Pub. L. 100–690, § 2205(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Lease and Operation of Facilities in Fairbanks, Alaska**
 
-Pub. L. 101–630, title V, § 509(b), (c), Nov. 28, 1990, 104 Stat. 4567, provided that:
+Pub. L. 101–630, title V, § 509(b), (c), Nov. 28, 1990, 104 Stat. 4567, provided that:
 
 > **“(b) Lease of Facilities.—** The Secretary of Health and Human Services, acting under section 4209(c) and 4227(b) of the Indian Alcohol and Substance Abuse Prevention and Treatment Act [of 1986, 25 U.S.C. 2415(c), 2474(b)], may—
 
@@ -511,7 +511,7 @@ Pub. L. 101–630, title V, § 509(b), (c), Nov. 28, 1990, 104 Stat. 4567, pro
 
 > **“(c) Self-Determination Contracts for Staffing and Operation.—** The Secretary of Health and Human Services, acting under section 102 of the Indian Self-Determination and Education Assistance Act [25 U.S.C. 5321], may contract with the Tanana Chiefs Conference to staff and operate the facilities leased under subsection (b), without a request of an Indian tribe, and without regard to the definition and proviso in section 4(*l*) of that Act [25 U.S.C. 5304(*l*)].”
 
-### § 2416. Newsletter
+### § 2416. Newsletter
 
 **(a) In general** The Secretary of the Interior shall publish an alcohol and substance abuse newsletter in cooperation with the Secretary of Health and Human Services and the Secretary of Education to report on Indian alcohol and substance abuse projects and programs. The newsletter shall—
 
@@ -537,7 +537,7 @@ Pub. L. 101–630, title V, § 509(b), (c), Nov. 28, 1990, 104 Stat. 4567, pro
 
 There are authorized to be appropriated to carry out this section $500,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
 
-(Pub. L. 99–570, title IV, § 4210, Oct. 27, 1986, 100 Stat. 3207–143; Pub. L. 100–690, title II, § 2218, Nov. 18, 1988, 102 Stat. 4222; Pub. L. 102–573, title VII, § 703(3), Oct. 29, 1992, 106 Stat. 4583.)
+(Pub. L. 99–570, title IV, § 4210, Oct. 27, 1986, 100 Stat. 3207–143; Pub. L. 100–690, title II, § 2218, Nov. 18, 1988, 102 Stat. 4222; Pub. L. 102–573, title VII, § 703(3), Oct. 29, 1992, 106 Stat. 4583.)
 
 **Editorial Notes**
 
@@ -545,11 +545,11 @@ There are authorized to be appropriated to carry out this section $500,000 for f
 
 1992—Subsec. (b). Pub. L. 102–573 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated for each of the fiscal years 1989, 1990, 1991, and 1992, $300,000 to carry out the provisions of this section.”
 
-1988—Pub. L. 100–690 struck out “, not later than 120 days after October 27, 1986,” after “the Interior shall”, designated existing provisions as subsec. (a), and added subsec. (b).
+1988—Pub. L. 100–690 struck out “, not later than 120 days after October 27, 1986,” after “the Interior shall”, designated existing provisions as subsec. (a), and added subsec. (b).
 
 ## SUBCHAPTER III—INDIAN YOUTH PROGRAMS
 
-### § 2431. Review of programs
+### § 2431. Review of programs
 
 **(a) Review** In the development of the Memorandum of Agreement required by section 2411 of this title, the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services, in cooperation with the Secretary of Education shall review and consider—
 
@@ -569,15 +569,15 @@ to determine their applicability and relevance in carrying out the purposes of t
 
 The results of the review conducted under subsection (a) shall be provided to each Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan under section 2412 of this title.
 
-(Pub. L. 99–570, title IV, § 4211, Oct. 27, 1986, 100 Stat. 3207–143; Pub. L. 111–211, title II, § 241(a)(6), July 29, 2010, 124 Stat. 2289.)
+(Pub. L. 99–570, title IV, § 4211, Oct. 27, 1986, 100 Stat. 3207–143; Pub. L. 111–211, title II, § 241(a)(6), July 29, 2010, 124 Stat. 2289.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–211 inserted “, the Attorney General,” after “the Secretary of the Interior” in introductory provisions.
+2010—Subsec. (a). Pub. L. 111–211 inserted “, the Attorney General,” after “the Secretary of the Interior” in introductory provisions.
 
-### § 2432. Indian education programs
+### § 2432. Indian education programs
 
 **(a) Summer youth programs**
 
@@ -597,7 +597,7 @@ There are authorized to be appropriated to carry out the programs under this sub
 
 **(1)** the Act of April 16, 1934, as amended by the Indian Education Assistance Act (25 U.S.C. 452 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** the Indian Elementary and Secondary School Assistance Act (20 U.S.C. 241aa et seq.),<sup>1</sup> and
 
@@ -605,7 +605,7 @@ There are authorized to be appropriated to carry out the programs under this sub
 
 may be used to support a program of instruction relating to alcohol and substance abuse prevention and treatment.
 
-(Pub. L. 99–570, title IV, § 4212, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, § 2206, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 102–573, title VII, § 703(4), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, § 241(b), July 29, 2010, 124 Stat. 2289.)
+(Pub. L. 99–570, title IV, § 4212, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, § 2206, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 102–573, title VII, § 703(4), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, § 241(b), July 29, 2010, 124 Stat. 2289.)
 
 **Editorial Notes**
 
@@ -615,15 +615,15 @@ This Act, referred to in subsec. (a)(1), is Pub. L. 99–570, Oct. 27, 1986, 100
 
 Act of April 16, 1934, referred to in subsec. (b)(1), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O’Malley Act, which was classified generally to section 452 et seq. of this title prior to editorial reclassification as section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Indian Education Assistance Act, referred to in subsec. (b)(1), is title II of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2213, which enacted subchapter III (§ 5349 et seq.) of chapter 46 of this title, sections 5345 to 5347 of this title, and provisions set out as a note under section 5347 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Education Assistance Act, referred to in subsec. (b)(1), is title II of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2213, which enacted subchapter III (§ 5349 et seq.) of chapter 46 of this title, sections 5345 to 5347 of this title, and provisions set out as a note under section 5347 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Indian Elementary and Secondary School Assistance Act, referred to in subsec. (b)(2), is title III of act Sept. 30, 1950, ch. 1124, as added by Pub. L. 92–318, title IV, § 411(a), June 23, 1972, 86 Stat. 334, as amended, which was classified generally to subchapter III (§ 241aa et seq.) of chapter 13 of Title 20, Education, and was repealed by Pub. L. 100–297, title V, § 5352(1), Apr. 28, 1988, 102 Stat. 414.
+The Indian Elementary and Secondary School Assistance Act, referred to in subsec. (b)(2), is title III of act Sept. 30, 1950, ch. 1124, as added by Pub. L. 92–318, title IV, § 411(a), June 23, 1972, 86 Stat. 334, as amended, which was classified generally to subchapter III (§ 241aa et seq.) of chapter 13 of Title 20, Education, and was repealed by Pub. L. 100–297, title V, § 5352(1), Apr. 28, 1988, 102 Stat. 414.
 
-The Indian Education Act, referred to in subsec. (b)(3), is title IV of Pub. L. 92–318, June 23, 1972, 86 Stat. 334. Section 3385 of Title 20, which was enacted by section 421(a) of the Act, was repealed by Pub. L. 100–297, title V, § 5352(2), Apr. 28, 1988. For complete classification of this Act to the Code, see Tables.
+The Indian Education Act, referred to in subsec. (b)(3), is title IV of Pub. L. 92–318, June 23, 1972, 86 Stat. 334. Section 3385 of Title 20, which was enacted by section 421(a) of the Act, was repealed by Pub. L. 100–297, title V, § 5352(2), Apr. 28, 1988. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
-Pub. L. 111–211, § 241(b), which directed amendment of “[s]ection 4212 of the Indian Alcohol and Substance Abuse Prevention Act of 1986”, was executed to this section, which is section 4212 of the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
+Pub. L. 111–211, § 241(b), which directed amendment of “[s]ection 4212 of the Indian Alcohol and Substance Abuse Prevention Act of 1986”, was executed to this section, which is section 4212 of the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
 
 **Amendments**
 
@@ -633,7 +633,7 @@ Pub. L. 111–211, § 241(b), which directed amendment of “[s]ection 4212 of
 
 1988—Subsec. (a). Pub. L. 100–690 substituted “1989, 1990, 1991, and 1992” for “1987, 1988, and 1989”.
 
-### § 2433. Emergency shelters
+### § 2433. Emergency shelters
 
 **(a) In general**
 
@@ -665,9 +665,9 @@ The Assistant Secretary of Indian Affairs shall, as part of the development of t
 
 **(4)** Funds appropriated under the authority of this subsection may be used by any Indian tribe or tribal organization to purchase or lease any land or facilities if—
 
-**(A)** the Secretary of the Interior determines that no Federal land or facilities are rea­sonably available for emergency shelters or halfway 1
+**(A)** the Secretary of the Interior determines that no Federal land or facilities are rea­sonably available for emergency shelters or halfway 1
 
-<sup>1</sup>  So in original. Probably should be “half-way”.
+<sup>1</sup> So in original. Probably should be “half-way”.
 
 houses described in subsection (a) to serve the needs of that Indian tribe or tribal organization, and
 
@@ -679,25 +679,25 @@ houses described in subsection (a) to serve the needs of that Indian tribe or tr
 
 **(B)** to require a lease of tribal facilities to the United States to qualify for financial assistance for the facilities under this chapter or any other Act.
 
-(Pub. L. 99–570, title IV, § 4213, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, § 2207, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 101–272, Apr. 18, 1990, 104 Stat. 137; Pub. L. 102–573, title VII, § 703(5), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, § 241(c), July 29, 2010, 124 Stat. 2290.)
+(Pub. L. 99–570, title IV, § 4213, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, § 2207, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 101–272, Apr. 18, 1990, 104 Stat. 137; Pub. L. 102–573, title VII, § 703(5), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, § 241(c), July 29, 2010, 124 Stat. 2290.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (b)(1), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (b)(1), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
 
-The Indian Self-Determination Act, referred to in subsec. (e)(3), (5)(A), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (e)(3), (5)(A), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 This Act, referred to in subsec. (e)(5), is Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207, known as the Anti-Drug Abuse Act of 1986. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.
 
 **Amendments**
 
-2010—Subsec. (e)(1). Pub. L. 111–211, § 241(c)(1), substituted “each of fiscal years 2011 through 2015.” for “fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.”
+2010—Subsec. (e)(1). Pub. L. 111–211, § 241(c)(1), substituted “each of fiscal years 2011 through 2015.” for “fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.”
 
-Subsec. (e)(2). Pub. L. 111–211, § 241(c)(2), substituted “each of fiscal years 2011 through 2015.” for “each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.”
+Subsec. (e)(2). Pub. L. 111–211, § 241(c)(2), substituted “each of fiscal years 2011 through 2015.” for “each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.”
 
-Subsec. (e)(4), (5). Pub. L. 111–211, § 241(c)(3), realigned margins.
+Subsec. (e)(4), (5). Pub. L. 111–211, § 241(c)(3), realigned margins.
 
 1992—Subsec. (e)(1), (2). Pub. L. 102–573 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
@@ -705,17 +705,17 @@ Subsec. (e)(4), (5). Pub. L. 111–211, § 241(c)(3), realigned margins.
 
 “(2) For the staffing and operation of emergency shelters and half-way houses, there is authorized to be appropriated $3,000,000 for the fiscal year 1989 and $3,000,000 for fiscal year 1990. An amount equal to the amount of funds appropriated pursuant to this paragraph for fiscal year 1990 shall be included in the base budget of the Bureau of Indian Affairs and funding thereafter shall be pursuant to section 13 of this title.”
 
-1990—Subsec. (e)(1). Pub. L. 101–272, § 1(1), inserted “, or purchase or lease of land or facilities for,” after “renovation of”.
+1990—Subsec. (e)(1). Pub. L. 101–272, § 1(1), inserted “, or purchase or lease of land or facilities for,” after “renovation of”.
 
-Subsec. (e)(3). Pub. L. 101–272, § 1(2), inserted “or available for grants” after “subject to contracting”.
+Subsec. (e)(3). Pub. L. 101–272, § 1(2), inserted “or available for grants” after “subject to contracting”.
 
-Subsec. (e)(4), (5). Pub. L. 101–272, § 1(3), added pars. (4) and (5).
+Subsec. (e)(4), (5). Pub. L. 101–272, § 1(3), added pars. (4) and (5).
 
-1988—Subsec. (a). Pub. L. 100–690, § 2207(a), inserted provisions which permitted half-way houses to be used as either intake facilities or aftercare facilities, and authorized Indian Health Service, Bureau of Indian Affairs, and tribes to use resources to staff and operate such facilities.
+1988—Subsec. (a). Pub. L. 100–690, § 2207(a), inserted provisions which permitted half-way houses to be used as either intake facilities or aftercare facilities, and authorized Indian Health Service, Bureau of Indian Affairs, and tribes to use resources to staff and operate such facilities.
 
-Subsec. (e). Pub. L. 100–690, § 2207(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For the planning and design, construction, and renovation of emergency shelters or half-way houses to provide emergency care for Indian youth, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1987, 1988, and 1989. For the operation of emergency shelters or half-way houses there is authorized to be appropriated $3,000,000 for each of the fiscal years 1987, 1988, and 1989. The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting pursuant to the Indian Self-Determination Act.”
+Subsec. (e). Pub. L. 100–690, § 2207(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For the planning and design, construction, and renovation of emergency shelters or half-way houses to provide emergency care for Indian youth, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1987, 1988, and 1989. For the operation of emergency shelters or half-way houses there is authorized to be appropriated $3,000,000 for each of the fiscal years 1987, 1988, and 1989. The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting pursuant to the Indian Self-Determination Act.”
 
-### § 2434. Social services reports
+### § 2434. Social services reports
 
 **(a) Data**
 
@@ -723,9 +723,9 @@ The Secretary of the Interior, with respect to the administration of any family 
 
 **(b) Referral of data**
 
-The data compiled pursuant to subsection (a) shall be provided annually to the affected Indian tribe and Tribal Coordinating Committee to assist them in developing or modifying a Tribal Action Plan and shall also be submitted to the Indian Health Service service unit director who will have responsibility for compiling a tribal comprehensive report as provided in section 2477 1
+The data compiled pursuant to subsection (a) shall be provided annually to the affected Indian tribe and Tribal Coordinating Committee to assist them in developing or modifying a Tribal Action Plan and shall also be submitted to the Indian Health Service service unit director who will have responsibility for compiling a tribal comprehensive report as provided in section 2477 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -733,19 +733,19 @@ of this title.
 
 In carrying out the requirements of subsections (a) and (b), the Secretary shall insure that the data is compiled and reported in a manner which will preserve the confidentiality of the families and individuals.
 
-(Pub. L. 99–570, title IV, § 4214, Oct. 27, 1986, 100 Stat. 3207–145.)
+(Pub. L. 99–570, title IV, § 4214, Oct. 27, 1986, 100 Stat. 3207–145.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Section 2477 of this title, referred to in subsec. (b), was repealed by Pub. L. 102–573, title VII, § 702(b)(2), Oct. 29, 1992, 106 Stat. 4582.
+Section 2477 of this title, referred to in subsec. (b), was repealed by Pub. L. 102–573, title VII, § 702(b)(2), Oct. 29, 1992, 106 Stat. 4582.
 
 ## SUBCHAPTER IV—LAW ENFORCEMENT AND JUDICIAL SERVICES
 
-### § 2441. Review of programs
+### § 2441. Review of programs
 
 **(a) Law enforcement and judicial services** In the development of the Memorandum of Agreement required by section 2411 of this title, the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services, in cooperation with the Attorney General of the United States, shall review and consider—
 
@@ -759,15 +759,15 @@ to determine their applicability and relevance in carrying out the purposes of t
 
 The results of the review conducted pursuant to subsection (a) shall be made available to every Indian tribe as soon as possible for their consideration and use in the development and modification of a Tribal Action Plan.
 
-(Pub. L. 99–570, title IV, § 4215, Oct. 27, 1986, 100 Stat. 3207–145; Pub. L. 111–211, title II, § 241(d), July 29, 2010, 124 Stat. 2290.)
+(Pub. L. 99–570, title IV, § 4215, Oct. 27, 1986, 100 Stat. 3207–145; Pub. L. 111–211, title II, § 241(d), July 29, 2010, 124 Stat. 2290.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–211 inserted “, the Attorney General,” after “the Secretary of the Interior” in introductory provisions.
+2010—Subsec. (a). Pub. L. 111–211 inserted “, the Attorney General,” after “the Secretary of the Interior” in introductory provisions.
 
-### § 2442. Illegal narcotics traffic on Tohono O’odham and St. Regis Reservations; source eradication
+### § 2442. Illegal narcotics traffic on Tohono O’odham and St. Regis Reservations; source eradication
 
 **(a) Investigation and control**
 
@@ -789,25 +789,25 @@ The results of the review conducted pursuant to subsection (a) shall be made ava
 
 **(1)** The Secretary of the Interior, in cooperation with appropriate Federal, tribal, and State and local law enforcement agencies, shall establish and implement a program for the eradication of marijuana cultivation, and interdiction, investigation, and control of illegal narcotics trafficking within Indian country as defined in section 1152 of title 18. The Secretary shall establish a priority for the use of funds appropriated under paragraph (2) for those Indian reservations where the scope of the problem is most critical, and such funds shall be available for contracting by Indian tribes pursuant to the Indian Self-Determination Act (25 U.S.C. 450f et seq.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** For the purpose of establishing the program required by paragraph (1), there are authorized to be appropriated $2,000,000 for each of fiscal years 2011 through 2015.
 
-(Pub. L. 99–570, title IV, § 4216, Oct. 27, 1986, 100 Stat. 3207–146; Pub. L. 100–690, title II, § 2208, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 102–573, title VII, § 703(6)–(8), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, § 241(e), July 29, 2010, 124 Stat. 2290.)
+(Pub. L. 99–570, title IV, § 4216, Oct. 27, 1986, 100 Stat. 3207–146; Pub. L. 100–690, title II, § 2208, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 102–573, title VII, § 703(6)–(8), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, § 241(e), July 29, 2010, 124 Stat. 2290.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act (25 U.S.C. 450f et seq.), referred to in subsec. (b)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which was classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title prior to editorial reclassification as subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act (25 U.S.C. 450f et seq.), referred to in subsec. (b)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which was classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title prior to editorial reclassification as subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
-2010—Subsec. (a)(1)(D). Pub. L. 111–211, § 241(e)(1)(A), added subpar. (D).
+2010—Subsec. (a)(1)(D). Pub. L. 111–211, § 241(e)(1)(A), added subpar. (D).
 
-Subsec. (a)(2). Pub. L. 111–211, § 241(e)(1)(B), substituted “United States Customs and Border Protection, the Bureau of Immigration and Customs Enforcement, and the Drug Enforcement Administration” for “United States Custom Service”.
+Subsec. (a)(2). Pub. L. 111–211, § 241(e)(1)(B), substituted “United States Customs and Border Protection, the Bureau of Immigration and Customs Enforcement, and the Drug Enforcement Administration” for “United States Custom Service”.
 
-Subsec. (a)(3). Pub. L. 111–211, § 241(e)(1)(C), added par. (3) and struck out former par. (3) which read as follows: “For the purpose of providing the assistance required by this subsection, there are authorized to be appropriated—
+Subsec. (a)(3). Pub. L. 111–211, § 241(e)(1)(C), added par. (3) and struck out former par. (3) which read as follows: “For the purpose of providing the assistance required by this subsection, there are authorized to be appropriated—
 
 “(A) $500,000 under paragraph (1)(A) for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000,
 
@@ -815,35 +815,35 @@ Subsec. (a)(3). Pub. L. 111–211, § 241(e)(1)(C), added par. (3) and struck 
 
 “(C) $500,000 under paragraph (1)(C) for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.”
 
-Subsec. (b)(2). Pub. L. 111–211, § 241(e)(2), which directed striking “for the fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000” and “for each of fiscal years 2011 through 2015.”, was executed by substituting “for each of fiscal years 2011 through 2015” for “for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000”, to reflect the probable intent of Congress.
+Subsec. (b)(2). Pub. L. 111–211, § 241(e)(2), which directed striking “for the fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000” and “for each of fiscal years 2011 through 2015.”, was executed by substituting “for each of fiscal years 2011 through 2015” for “for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000”, to reflect the probable intent of Congress.
 
-1992—Subsec. (a)(1)(C). Pub. L. 102–573, § 703(6), added subpar. (C).
+1992—Subsec. (a)(1)(C). Pub. L. 102–573, § 703(6), added subpar. (C).
 
-Subsec. (a)(3). Pub. L. 102–573, § 703(7), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For the purpose of providing the assistance required by this subsection, there are authorized to be appropriated—
+Subsec. (a)(3). Pub. L. 102–573, § 703(7), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For the purpose of providing the assistance required by this subsection, there are authorized to be appropriated—
 
 “(A) $500,000 under paragraph (1)(A) for each of the fiscal years 1989, 1990, 1991, and 1992, and
 
 “(B) $450,000 under paragraph (1)(B) for each of the fiscal years 1989 and 1990.”
 
-Subsec. (b). Pub. L. 102–573, § 703(8), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+Subsec. (b). Pub. L. 102–573, § 703(8), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
 “(1) The Secretary of the Interior, in cooperation with appropriate Federal, tribal, and State and local law enforcement agencies, shall establish and implement a program for the eradication of marijuana cultivation within Indian country as defined in section 1152 of title 18. The Secretary shall establish a priority for the use of funds appropriated under subsection (b) of this section for those Indian reservations where the scope of the problem is most critical, and such funds shall be available for contracting by Indian tribes pursuant to the Indian Self-Determination Act.
 
 “(2) Authorization.—For the purpose of establishing the program required by paragraph (1), there are authorized to be appropriated $500,000 for each of the fiscal years 1989, 1990, 1991, and 1992.”
 
-1988—Pub. L. 100–690, § 2208(a), substituted “Tohono O’odham and St. Regis Reservations;” for “Papago Reservation:” in section catchline.
+1988—Pub. L. 100–690, § 2208(a), substituted “Tohono O’odham and St. Regis Reservations;” for “Papago Reservation:” in section catchline.
 
-Subsec. (a). Pub. L. 100–690, § 2208(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+Subsec. (a). Pub. L. 100–690, § 2208(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
 “(1) Investigation and control.—The Secretary of the Interior shall provide assistance to the Papago Indian Tribe (Tohono O’odham) of Arizona for the investigation and control of illegal narcotics traffic on the Papago Reservation along the border with Mexico. The Secretary shall ensure that tribal efforts are coordinated with appropriate Federal law enforcement agencies, including the United States Customs Service.
 
 “(2) Authorizations.—For the purpose of providing the assistance required by subsection (a) of this section, there is authorized to be appropriated $500,000 for each of the fiscal years 1987, 1988, and 1989.”
 
-Subsec. (b)(2). Pub. L. 100–690, § 2208(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “To carry out subsection (a) of this section, there is authorized to be appropriated such sums as may be necessary for each of the fiscal years 1987, 1988, and 1989.”
+Subsec. (b)(2). Pub. L. 100–690, § 2208(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “To carry out subsection (a) of this section, there is authorized to be appropriated such sums as may be necessary for each of the fiscal years 1987, 1988, and 1989.”
 
 ## SUBCHAPTER V—BUREAU OF INDIAN AFFAIRS LAW ENFORCEMENT
 
-### § 2451. Bureau of Indian Affairs law enforcement and judicial training
+### § 2451. Bureau of Indian Affairs law enforcement and judicial training
 
 **(a) Training programs**
 
@@ -861,29 +861,29 @@ Any training provided to Bureau of Indian Affairs or tribal law enforcement or j
 
 For the purposes of providing the training required by subsection (a), there are authorized to be appropriated $2,000,000 for fiscal year 1993 and such sums as are necessary for each of fiscal years 2011 through 2015.
 
-(Pub. L. 99–570, title IV, § 4218, Oct. 27, 1986, 100 Stat. 3207–146; Pub. L. 100–690, title II, § 2209, Nov. 18, 1988, 102 Stat. 4219; Pub. L. 102–573, title VII, § 703(9), Oct. 29, 1992, 106 Stat. 4584; Pub. L. 111–211, title II, § 241(f), July 29, 2010, 124 Stat. 2291.)
+(Pub. L. 99–570, title IV, § 4218, Oct. 27, 1986, 100 Stat. 3207–146; Pub. L. 100–690, title II, § 2209, Nov. 18, 1988, 102 Stat. 4219; Pub. L. 102–573, title VII, § 703(9), Oct. 29, 1992, 106 Stat. 4584; Pub. L. 111–211, title II, § 241(f), July 29, 2010, 124 Stat. 2291.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–211, § 241(f)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of the Interior shall ensure, through the establishment of a new training program or through the supplement of existing training programs, that all Bureau of Indian Affairs and tribal law enforcement and judicial personnel shall have available training in the investigation and prosecution of offenses relating to illegal narcotics and in alcohol and substance abuse prevention and treatment. Any training provided to Bureau of Indian Affairs and tribal law enforcement and judicial personnel as provided in this subsection shall specifically include training in the problems of youth alcohol and substance abuse prevention and treatment. Such training shall be coordinated with the Indian Health Service in the carrying out of its responsibilities under section 2475 of this title.”
+2010—Subsec. (a). Pub. L. 111–211, § 241(f)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of the Interior shall ensure, through the establishment of a new training program or through the supplement of existing training programs, that all Bureau of Indian Affairs and tribal law enforcement and judicial personnel shall have available training in the investigation and prosecution of offenses relating to illegal narcotics and in alcohol and substance abuse prevention and treatment. Any training provided to Bureau of Indian Affairs and tribal law enforcement and judicial personnel as provided in this subsection shall specifically include training in the problems of youth alcohol and substance abuse prevention and treatment. Such training shall be coordinated with the Indian Health Service in the carrying out of its responsibilities under section 2475 of this title.”
 
-Subsec. (b). Pub. L. 111–211, § 241(f)(2), substituted “as are necessary for each of fiscal years 2011 through 2015.” for “as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999 and 2000.”
+Subsec. (b). Pub. L. 111–211, § 241(f)(2), substituted “as are necessary for each of fiscal years 2011 through 2015.” for “as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999 and 2000.”
 
 1992—Subsec. (b). Pub. L. 102–573 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purpose of providing the training required by subsection (a) of this section, there are authorized to be appropriated $1,500,000 for each of the fiscal years 1989, 1990, 1991, and 1992.”
 
 1988—Subsec. (b). Pub. L. 100–690 amended subsec. (b) generally, substituting “1989, 1990, 1991, and 1992” for “1987, 1988, and 1989”.
 
-### § 2452. Medical assessment and treatment of juvenile offenders
+### § 2452. Medical assessment and treatment of juvenile offenders
 
-**(a) Development and implementation of procedures** The Memorandum of Agreement entered into pursuant to section 2411 of this title shall include a specific provision for the development and implementation at each Bureau of Indian Affair 1
+**(a) Development and implementation of procedures** The Memorandum of Agreement entered into pursuant to section 2411 of this title shall include a specific provision for the development and implementation at each Bureau of Indian Affair 1
 
-<sup>1</sup>  So in original. Probably should be “Affairs”.
+<sup>1</sup> So in original. Probably should be “Affairs”.
 
-agency and Indian Health Service 2
+agency and Indian Health Service 2
 
-<sup>2</sup>  So in original. Probably should be followed by “service”.
+<sup>2</sup> So in original. Probably should be followed by “service”.
 
 unit of a procedure for the emergency medical assessment and treatment of every Indian youth arrested or detained by Bureau of Indian Affairs or tribal law enforcement personnel for an offense relating to or involving alcohol or substance abuse. The medical assessment required by this subsection—
 
@@ -897,7 +897,7 @@ unit of a procedure for the emergency medical assessment and treatment of every 
 
 The Indian Health Service shall not refuse to provide necessary interim treatment for any Indian youth referred pursuant to subsection (a) who has been charged or is being prosecuted for any crime unless such referral is prohibited by a court of competent jurisdiction or the youth is determined by a court of competent jurisdiction to be a danger to others.
 
-(Pub. L. 99–570, title IV, § 4219, Oct. 27, 1986, 100 Stat. 3207–147; Pub. L. 100–690, title II, § 2210, Nov. 18, 1988, 102 Stat. 4219.)
+(Pub. L. 99–570, title IV, § 4219, Oct. 27, 1986, 100 Stat. 3207–147; Pub. L. 100–690, title II, § 2210, Nov. 18, 1988, 102 Stat. 4219.)
 
 **Editorial Notes**
 
@@ -905,7 +905,7 @@ The Indian Health Service shall not refuse to provide necessary interim treatmen
 
 1988—Pub. L. 100–690 designated existing provisions as subsec. (a) and added subsec. (b).
 
-### § 2453. Juvenile detention centers
+### § 2453. Juvenile detention centers
 
 **(a) Plan**
 
@@ -933,21 +933,21 @@ The plan under subparagraph (A) shall require the Bureau of Indian Education and
 
 **(2)** For the purpose of staffing and operating juvenile detention centers, there are authorized to be appropriated $7,000,000 for each of fiscal years 2011 through 2015.
 
-(Pub. L. 99–570, title IV, § 4220, Oct. 27, 1986, 100 Stat. 3207–147; Pub. L. 100–690, title II, § 2211, Nov. 18, 1988, 102 Stat. 4219; Pub. L. 102–573, title VII, § 703(10), Oct. 29, 1992, 106 Stat. 4584; Pub. L. 111–211, title II, § 241(g), July 29, 2010, 124 Stat. 2291.)
+(Pub. L. 99–570, title IV, § 4220, Oct. 27, 1986, 100 Stat. 3207–147; Pub. L. 100–690, title II, § 2211, Nov. 18, 1988, 102 Stat. 4219; Pub. L. 102–573, title VII, § 703(10), Oct. 29, 1992, 106 Stat. 4584; Pub. L. 111–211, title II, § 241(g), July 29, 2010, 124 Stat. 2291.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–211, § 241(g)(1), designated first sentence as par. (1) and second sentence as par. (2), inserted headings, and added par. (3).
+2010—Subsec. (a). Pub. L. 111–211, § 241(g)(1), designated first sentence as par. (1) and second sentence as par. (2), inserted headings, and added par. (3).
 
-Subsec. (b)(1). Pub. L. 111–211, § 241(g)(2)(A), substituted “for each of fiscal years 2011 through 2015” for “for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000”.
+Subsec. (b)(1). Pub. L. 111–211, § 241(g)(2)(A), substituted “for each of fiscal years 2011 through 2015” for “for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000”.
 
-Subsec. (b)(2). Pub. L. 111–211, § 241(g)(2), substituted “for each of fiscal years 2011 through 2015” for “for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000” and realigned margins.
+Subsec. (b)(2). Pub. L. 111–211, § 241(g)(2), substituted “for each of fiscal years 2011 through 2015” for “for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000” and realigned margins.
 
 1992—Subsec. (b). Pub. L. 102–573 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
@@ -957,23 +957,23 @@ Subsec. (b)(2). Pub. L. 111–211, § 241(g)(2), substituted “for each of fi
 
 1988—Subsec. (b). Pub. L. 100–690 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purpose of subsection (a), there is authorized to be appropriated $10,000,000 for construction and renovation for each of the fiscal years 1987, 1988, and 1989, and $5,000,000 for staffing and operation for each of the fiscal years 1987, 1988, and 1989.”
 
-### § 2454. Model Indian Juvenile Code
+### § 2454. Model Indian Juvenile Code
 
-The Secretary of the Interior, either directly or by contract, shall provide for the development of a Model Indian Juvenile Code which shall be consistent with the Juvenile Justice and Delinquency Prevention Act of 1974 [34 U.S.C. 11101 et seq.] and which shall include provisions relating to the disposition of cases involving Indian youth arrested or detained by Bureau of Indian Affairs or tribal law enforcement personnel for alcohol or drug related offenses. The development of such model code 1
+The Secretary of the Interior, either directly or by contract, shall provide for the development of a Model Indian Juvenile Code which shall be consistent with the Juvenile Justice and Delinquency Prevention Act of 1974 [34 U.S.C. 11101 et seq.] and which shall include provisions relating to the disposition of cases involving Indian youth arrested or detained by Bureau of Indian Affairs or tribal law enforcement personnel for alcohol or drug related offenses. The development of such model code 1
 
-<sup>1</sup>  So in original. Probably should be “Model Code”.
+<sup>1</sup> So in original. Probably should be “Model Code”.
 
 shall be accomplished in cooperation with Indian organizations having an expertise or knowledge in the field of law enforcement and judicial procedure and in consultation with Indian tribes. Upon completion of the Model Code, the Secretary shall make copies available to each Indian tribe.
 
-(Pub. L. 99–570, title IV, § 4221, Oct. 27, 1986, 100 Stat. 3207–147.)
+(Pub. L. 99–570, title IV, § 4221, Oct. 27, 1986, 100 Stat. 3207–147.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in text, is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in text, is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§ 11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
 
-### § 2455. Law enforcement and judicial report
+### § 2455. Law enforcement and judicial report
 
 **(a) Compilation of law enforcement data**
 
@@ -981,13 +981,13 @@ The Secretary of the Interior, with respect to the administration of any law enf
 
 **(b) Referral of data**
 
-The data compiled pursuant to subsection (a) shall be provided annually to the affected Indian tribe and Tribal Coordinating Committee to assist them in developing or modifying a Tribal Action Plan and shall also be submitted to the Indian Health Service 1
+The data compiled pursuant to subsection (a) shall be provided annually to the affected Indian tribe and Tribal Coordinating Committee to assist them in developing or modifying a Tribal Action Plan and shall also be submitted to the Indian Health Service 1
 
-<sup>1</sup>  So in original. Probably should be followed by “service”.
+<sup>1</sup> So in original. Probably should be followed by “service”.
 
-unit director who will have the responsibility for compiling a tribal comprehensive report as provided in section 2477 2
+unit director who will have the responsibility for compiling a tribal comprehensive report as provided in section 2477 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title.
 
@@ -995,38 +995,38 @@ of this title.
 
 In carrying out this section, the Secretary shall insure that the data is compiled and reported in a manner which will preserve the confidentiality of the families and individuals involved.
 
-(Pub. L. 99–570, title IV, § 4222, Oct. 27, 1986, 100 Stat. 3207–148.)
+(Pub. L. 99–570, title IV, § 4222, Oct. 27, 1986, 100 Stat. 3207–148.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Section 2477 of this title, referred to in subsec. (b), was repealed by Pub. L. 102–573, title VII, § 702(b)(2), Oct. 29, 1992, 106 Stat. 4582.
+Section 2477 of this title, referred to in subsec. (b), was repealed by Pub. L. 102–573, title VII, § 702(b)(2), Oct. 29, 1992, 106 Stat. 4582.
 
 ## SUBCHAPTER VI—INDIAN ALCOHOL AND SUBSTANCE ABUSE TREATMENT AND REHABILITATION
 
-### § 2471. Transferred
+### § 2471. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 99–570, title IV, § 4224, Oct. 27, 1986, 100 Stat. 3207–148, which related to review of programs providing health services and benefits to Indians, was renumbered section 4208A of Pub. L. 99–570 by Pub. L. 102–573, title VII, § 702(b)(1), Oct. 29, 1992, 106 Stat. 4582, and transferred to section 2414a of this title.
+Section, Pub. L. 99–570, title IV, § 4224, Oct. 27, 1986, 100 Stat. 3207–148, which related to review of programs providing health services and benefits to Indians, was renumbered section 4208A of Pub. L. 99–570 by Pub. L. 102–573, title VII, § 702(b)(1), Oct. 29, 1992, 106 Stat. 4582, and transferred to section 2414a of this title.
 
-### §§ 2472 to 2478. Repealed. Pub. L. 102–573, title VII, § 702(b)(2), Oct. 29, 1992, 106 Stat. 4582
+### §§ 2472 to 2478. Repealed. Pub. L. 102–573, title VII, § 702(b)(2), Oct. 29, 1992, 106 Stat. 4582
 
-Section 2472, Pub. L. 99–570, title IV, § 4225, Oct. 27, 1986, 100 Stat. 3207–148, related to responsibilities of Indian Health Service for alcohol and substance abuse prevention and treatment.
+Section 2472, Pub. L. 99–570, title IV, § 4225, Oct. 27, 1986, 100 Stat. 3207–148, related to responsibilities of Indian Health Service for alcohol and substance abuse prevention and treatment.
 
-Section 2473, Pub. L. 99–570, title IV, § 4226, Oct. 27, 1986, 100 Stat. 3207–149; Pub. L. 100–690, title II, § 2217, Nov. 18, 1988, 102 Stat. 4222, provided for program of alcohol and substance abuse prevention and treatment through Indian Health Service.
+Section 2473, Pub. L. 99–570, title IV, § 4226, Oct. 27, 1986, 100 Stat. 3207–149; Pub. L. 100–690, title II, § 2217, Nov. 18, 1988, 102 Stat. 4222, provided for program of alcohol and substance abuse prevention and treatment through Indian Health Service.
 
-Section 2474, Pub. L. 99–570, title IV, § 4227, Oct. 27, 1986, 100 Stat. 3207–149; Pub. L. 100–690, title II, § 2212, Nov. 18, 1988, 102 Stat. 4219; Pub. L. 101–630, title V, § 509(a), Nov. 28, 1990, 104 Stat. 4567, provided for Indian Health Service program of alcohol and substance abuse detoxification and rehabilitation for Indian youth.
+Section 2474, Pub. L. 99–570, title IV, § 4227, Oct. 27, 1986, 100 Stat. 3207–149; Pub. L. 100–690, title II, § 2212, Nov. 18, 1988, 102 Stat. 4219; Pub. L. 101–630, title V, § 509(a), Nov. 28, 1990, 104 Stat. 4567, provided for Indian Health Service program of alcohol and substance abuse detoxification and rehabilitation for Indian youth.
 
-Section 2475, Pub. L. 99–570, title IV, § 4228, Oct. 27, 1986, 100 Stat. 3207–150; Pub. L. 100–690, title II, § 2213, Nov. 18, 1988, 102 Stat. 4220, provided for program of training and community education about alcohol and substance abuse.
+Section 2475, Pub. L. 99–570, title IV, § 4228, Oct. 27, 1986, 100 Stat. 3207–150; Pub. L. 100–690, title II, § 2213, Nov. 18, 1988, 102 Stat. 4220, provided for program of training and community education about alcohol and substance abuse.
 
-Section 2476, Pub. L. 99–570, title IV, § 4229, Oct. 27, 1986, 100 Stat. 3207–152; Pub. L. 100–690, title II, § 2214, Nov. 18, 1988, 102 Stat. 4220, provided for establishment of Navajo alcohol rehabilitation demonstration program.
+Section 2476, Pub. L. 99–570, title IV, § 4229, Oct. 27, 1986, 100 Stat. 3207–152; Pub. L. 100–690, title II, § 2214, Nov. 18, 1988, 102 Stat. 4220, provided for establishment of Navajo alcohol rehabilitation demonstration program.
 
-Section 2477, Pub. L. 99–570, title IV, § 4230, Oct. 27, 1986, 100 Stat. 3207–152, related to compilation of data and preparation of reports on cases of alcohol or substance abuse in which Indian Health Service personnel or services were involved.
+Section 2477, Pub. L. 99–570, title IV, § 4230, Oct. 27, 1986, 100 Stat. 3207–152, related to compilation of data and preparation of reports on cases of alcohol or substance abuse in which Indian Health Service personnel or services were involved.
 
-Section 2478, Pub. L. 99–570, title IV, § 4231, as added Pub. L. 100–690, title II, § 2215, Nov. 18, 1988, 102 Stat. 4221, authorized grants for alcohol and substance abuse prevention and treatment in urban centers.
+Section 2478, Pub. L. 99–570, title IV, § 4231, as added Pub. L. 100–690, title II, § 2215, Nov. 18, 1988, 102 Stat. 4221, authorized grants for alcohol and substance abuse prevention and treatment in urban centers.

@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—TRADE POLICY FOR SUB-SAHARAN AFRICA
 
-### § 3701. Findings
+### § 3701. Findings
 
 Congress finds that—
 
@@ -41,7 +41,7 @@ Congress finds that—
 
 **(10)** encouraging the reciprocal reduction of trade and investment barriers in Africa will enhance the benefits of trade and investment for the region as well as enhance commercial and political ties between the United States and sub-Saharan Africa.
 
-(Pub. L. 106–200, title I, § 102, May 18, 2000, 114 Stat. 252; Pub. L. 112–163, § 1(c), Aug. 10, 2012, 126 Stat. 1274.)
+(Pub. L. 106–200, title I, § 102, May 18, 2000, 114 Stat. 252; Pub. L. 112–163, § 1(c), Aug. 10, 2012, 126 Stat. 1274.)
 
 **Editorial Notes**
 
@@ -53,29 +53,29 @@ Congress finds that—
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–163, § 1(d), Aug. 10, 2012, 126 Stat. 1274, provided that: “The amendments made by this section [amending this section and sections 3706 and 3721 of this title] shall take effect on the date of the enactment of this Act [Aug. 10, 2012].”
+Pub. L. 112–163, § 1(d), Aug. 10, 2012, 126 Stat. 1274, provided that: “The amendments made by this section [amending this section and sections 3706 and 3721 of this title] shall take effect on the date of the enactment of this Act [Aug. 10, 2012].”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–167, § 1, Apr. 23, 2018, 132 Stat. 1276, provided that: “This Act [enacting section 3707 of this title, amending sections 7703, 7705, 7706, 7708, 7709, 7711, 7712, and 7715 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, section 3707 of this title, and section 7708 of Title 22] may be cited as the ‘African Growth and Opportunity Act and Millennium Challenge Act Modernization Act’ or the ‘AGOA and MCA Modernization Act’.”
+Pub. L. 115–167, § 1, Apr. 23, 2018, 132 Stat. 1276, provided that: “This Act [enacting section 3707 of this title, amending sections 7703, 7705, 7706, 7708, 7709, 7711, 7712, and 7715 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, section 3707 of this title, and section 7708 of Title 22] may be cited as the ‘African Growth and Opportunity Act and Millennium Challenge Act Modernization Act’ or the ‘AGOA and MCA Modernization Act’.”
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–27, title I, § 101, June 29, 2015, 129 Stat. 363, provided that: “This title [amending sections 2466a, 2466b, 3702, 3703, and 3721 of this title, enacting provisions set out as notes under this section and sections 2466a and 3705 of this title, and amending provisions set out as a note under this section] may be cited as the ‘AGOA Extension and Enhancement Act of 2015’.”
+Pub. L. 114–27, title I, § 101, June 29, 2015, 129 Stat. 363, provided that: “This title [amending sections 2466a, 2466b, 3702, 3703, and 3721 of this title, enacting provisions set out as notes under this section and sections 2466a and 3705 of this title, and amending provisions set out as a note under this section] may be cited as the ‘AGOA Extension and Enhancement Act of 2015’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–432, div. D, title VI, § 6001, Dec. 20, 2006, 120 Stat. 3190, provided that: “This title [amending section 3721 of this title] may be referred to as the ‘Africa Investment Incentive Act of 2006’.”
+Pub. L. 109–432, div. D, title VI, § 6001, Dec. 20, 2006, 120 Stat. 3190, provided that: “This title [amending section 3721 of this title] may be referred to as the ‘Africa Investment Incentive Act of 2006’.”
 
 **Short Title**
 
-Pub. L. 106–200, § 1(a), May 18, 2000, 114 Stat. 251, provided that: “This Act [see Tables for classification] may be cited as the ‘Trade and Development Act of 2000’.”
+Pub. L. 106–200, § 1(a), May 18, 2000, 114 Stat. 251, provided that: “This Act [see Tables for classification] may be cited as the ‘Trade and Development Act of 2000’.”
 
-Pub. L. 106–200, title I, § 101, May 18, 2000, 114 Stat. 252, provided that: “This title [enacting this chapter and sections 2466a and 2466b of this title and amending section 2463 of this title and sections 2193 and 2293 of Title 22, Foreign Relations and Intercourse] may be cited as the ‘African Growth and Opportunity Act’.”
+Pub. L. 106–200, title I, § 101, May 18, 2000, 114 Stat. 252, provided that: “This title [enacting this chapter and sections 2466a and 2466b of this title and amending section 2463 of this title and sections 2193 and 2293 of Title 22, Foreign Relations and Intercourse] may be cited as the ‘African Growth and Opportunity Act’.”
 
 **Statement of Policy**
 
-Pub. L. 115–167, title I, § 101, Apr. 23, 2018, 132 Stat. 1276, provided that:
+Pub. L. 115–167, title I, § 101, Apr. 23, 2018, 132 Stat. 1276, provided that:
 
 > “It is the policy of the United States to support efforts to—
 
@@ -85,7 +85,7 @@ Pub. L. 115–167, title I, § 101, Apr. 23, 2018, 132 Stat. 1276, provided th
 
 **Findings Relating to Extension and Enhancement of African Growth and Opportunity Act**
 
-Pub. L. 114–27, title I, § 102, June 29, 2015, 129 Stat. 363, provided that:
+Pub. L. 114–27, title I, § 102, June 29, 2015, 129 Stat. 363, provided that:
 
 > “Congress finds the following:
 
@@ -111,7 +111,7 @@ Pub. L. 114–27, title I, § 102, June 29, 2015, 129 Stat. 363, provided that
 
 **Deepening and Expanding Trade and Investment Ties Between Sub-Saharan Africa and the United States**
 
-Pub. L. 114–27, title I, § 108, June 29, 2015, 129 Stat. 369, provided that:
+Pub. L. 114–27, title I, § 108, June 29, 2015, 129 Stat. 369, provided that:
 
 > “It is the policy of the United States to continue to—
 
@@ -127,7 +127,7 @@ Pub. L. 114–27, title I, § 108, June 29, 2015, 129 Stat. 369, provided that
 
 **AGOA Acceleration**
 
-Pub. L. 108–274, July 13, 2004, 118 Stat. 820, as amended by Pub. L. 108–429, title II, § 2004(j)(1), Dec. 3, 2004, 118 Stat. 2595; Pub. L. 114–27, title I, § 109, June 29, 2015, 129 Stat. 369, provided that:
+Pub. L. 108–274, July 13, 2004, 118 Stat. 820, as amended by Pub. L. 108–429, title II, § 2004(j)(1), Dec. 3, 2004, 118 Stat. 2595; Pub. L. 114–27, title I, § 109, June 29, 2015, 129 Stat. 369, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -337,9 +337,9 @@ Pub. L. 108–274, July 13, 2004, 118 Stat. 820, as amended by Pub. L. 108–429
 
 > “The President shall convene the trade advisory committee on Africa established by Executive Order 11846 of March 27, 1975 [19 U.S.C. 2111 note], under section 135(c) of the Trade Act of 1974 [19 U.S.C. 2155(c)], in order to facilitate the goals and objectives of the African Growth and Opportunity Act [19 U.S.C. 3701 et seq.] and this Act, and to maintain ongoing discussions with African trade and agriculture ministries and private sector organizations on issues of mutual concern, including regional and international trade concerns and World Trade Organization issues.”
 
-[Functions of President under section 13(c) of Pub. L. 108–274, set out above, assigned to Administrator of United States Agency for International Development, in collaboration with Secretary of Agriculture, see Ex. Ord. No. 13720, § 1(c), Feb. 26, 2016, 81 F.R. 11089, set out as a note under section 2466a of this title.]
+[Functions of President under section 13(c) of Pub. L. 108–274, set out above, assigned to Administrator of United States Agency for International Development, in collaboration with Secretary of Agriculture, see Ex. Ord. No. 13720, § 1(c), Feb. 26, 2016, 81 F.R. 11089, set out as a note under section 2466a of this title.]
 
-[Pub. L. 108–429, title II, § 2004(j)(2), Dec. 3, 2004, 118 Stat. 2595, provided that:
+[Pub. L. 108–429, title II, § 2004(j)(2), Dec. 3, 2004, 118 Stat. 2595, provided that:
 
 [“(A) In general.—The amendment made by paragraph (1) [amending Pub. L. 108–274, set out above] shall take effect as if included in the enactment of section 8 of the AGOA Acceleration Act of 2004 [Pub. L. 108–274].
 
@@ -347,7 +347,7 @@ Pub. L. 108–274, July 13, 2004, 118 Stat. 820, as amended by Pub. L. 108–429
 
 **Definitions**
 
-Pub. L. 114–27, title I, § 112, June 29, 2015, 129 Stat. 371, provided that:
+Pub. L. 114–27, title I, § 112, June 29, 2015, 129 Stat. 371, provided that:
 
 > “In this title [see Short Title of 2015 Amendment note above]:
 
@@ -355,7 +355,7 @@ Pub. L. 114–27, title I, § 112, June 29, 2015, 129 Stat. 371, provided that
 
 > **“(2) Sub-saharan african country.—** The term ‘sub-Saharan African country’ has the meaning given the term in section 107 of the African Growth and Opportunity Act [19 U.S.C. 3706].”
 
-### § 3702. Statement of policy
+### § 3702. Statement of policy
 
 Congress supports—
 
@@ -379,7 +379,7 @@ Congress supports—
 
 **(10)** promoting the role of women in social, political, and economic development in sub-Saharan Africa.
 
-(Pub. L. 106–200, title I, § 103, May 18, 2000, 114 Stat. 253; Pub. L. 114–27, title I, § 106(a), June 29, 2015, 129 Stat. 368.)
+(Pub. L. 106–200, title I, § 103, May 18, 2000, 114 Stat. 253; Pub. L. 114–27, title I, § 106(a), June 29, 2015, 129 Stat. 368.)
 
 **Editorial Notes**
 
@@ -387,7 +387,7 @@ Congress supports—
 
 2015—Par. (10). Pub. L. 114–27 added par. (10).
 
-### § 3703. Eligibility requirements
+### § 3703. Eligibility requirements
 
 The President is authorized to designate a sub-Saharan African country as an eligible sub-Saharan African country if the President determines that the country—
 
@@ -415,17 +415,17 @@ The President is authorized to designate a sub-Saharan African country as an eli
 
 **(3)** does not engage in gross violations of internationally recognized human rights or provide support for acts of international terrorism and cooperates in international efforts to eliminate human rights violations and terrorist activities.
 
-(Pub. L. 106–200, title I, § 104, May 18, 2000, 114 Stat. 254; Pub. L. 114–27, title I, §§ 106(b), 111, June 29, 2015, 129 Stat. 368, 370.)
+(Pub. L. 106–200, title I, § 104, May 18, 2000, 114 Stat. 254; Pub. L. 114–27, title I, §§ 106(b), 111, June 29, 2015, 129 Stat. 368, 370.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Pub. L. 114–27, § 111, struck out subsec. (a) designation and heading before “The President is authorized” and struck out subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “If the President determines that an eligible sub-Saharan African country is not making continual progress in meeting the requirements described in subsection (a)(1) of this section, the President shall terminate the designation of the country made pursuant to subsection (a) of this section.”
+2015—Pub. L. 114–27, § 111, struck out subsec. (a) designation and heading before “The President is authorized” and struck out subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “If the President determines that an eligible sub-Saharan African country is not making continual progress in meeting the requirements described in subsection (a)(1) of this section, the President shall terminate the designation of the country made pursuant to subsection (a) of this section.”
 
-Subsec. (a)(1)(A). Pub. L. 114–27, § 106(b), inserted “for men and women” after “rights”.
+Subsec. (a)(1)(A). Pub. L. 114–27, § 106(b), inserted “for men and women” after “rights”.
 
-### § 3704. United States-Sub-Saharan Africa Trade and Economic Cooperation Forum
+### § 3704. United States-Sub-Saharan Africa Trade and Economic Cooperation Forum
 
 **(a) Declaration of policy**
 
@@ -455,7 +455,7 @@ In order to assist in carrying out the purposes of the Forum, the United States 
 
 In selecting issues of common interest to the United States-Sub-Saharan Africa Trade and Economic Cooperation Forum, the President shall instruct the United States delegates to the Forum to promote a review by the Forum of the HIV/AIDS epidemic in each sub-Saharan African country and the effect of the HIV/AIDS epidemic on economic development in each country.
 
-(Pub. L. 106–200, title I, § 105, May 18, 2000, 114 Stat. 255.)
+(Pub. L. 106–200, title I, § 105, May 18, 2000, 114 Stat. 255.)
 
 **Editorial Notes**
 
@@ -463,11 +463,11 @@ In selecting issues of common interest to the United States-Sub-Saharan Africa T
 
 This chapter, referred to in subsecs. (c)(1) and (d), was in the original “this title”, meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 3701 of this title and Tables.
 
-### § 3705. Reporting requirement
+### § 3705. Reporting requirement
 
 The President shall submit to the Congress, not later than 1 year after May 18, 2000, and annually thereafter through 2008, a comprehensive report on the trade and investment policy of the United States for sub-Saharan Africa, and on the implementation of this chapter and the amendments made by this chapter.
 
-(Pub. L. 106–200, title I, § 106, May 18, 2000, 114 Stat. 256.)
+(Pub. L. 106–200, title I, § 106, May 18, 2000, 114 Stat. 256.)
 
 **Editorial Notes**
 
@@ -479,7 +479,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Reports on Implementation and Potential Trade Agreements**
 
-Pub. L. 114–27, title I, § 110, June 29, 2015, 129 Stat. 370, provided that:
+Pub. L. 114–27, title I, § 110, June 29, 2015, 129 Stat. 370, provided that:
 
 > **“(a) Implementation Report.—**
 
@@ -509,7 +509,7 @@ Pub. L. 114–27, title I, § 110, June 29, 2015, 129 Stat. 370, provided that
 
 > **“(c) Termination.—** The reporting requirements of this section shall cease to have any force or effect after September 30, 2025.”
 
-[Functions of President under section 110(a) of Pub. L. 114–27, set out above, assigned to United States Trade Representative, in consultation with Secretary of State, see Ex. Ord. No. 13720, § 1(d), Feb. 26, 2016, 81 F.R. 11089, set out as a note under section 2466a of this title.]
+[Functions of President under section 110(a) of Pub. L. 114–27, set out above, assigned to United States Trade Representative, in consultation with Secretary of State, see Ex. Ord. No. 13720, § 1(d), Feb. 26, 2016, 81 F.R. 11089, set out as a note under section 2466a of this title.]
 
 [For definitions of “beneficiary sub-Saharan African country” and “sub-Saharan African country” as used in section 110 of Pub. L. 114–27, set out above, see section 112 of Pub. L. 114–27, set out as a note under section 3701 of this title.]
 
@@ -519,7 +519,7 @@ Pub. L. 114–27, title I, § 110, June 29, 2015, 129 Stat. 370, provided that
 
 Functions of President under this section delegated to United States Trade Representative by section 1(b) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
 
-### § 3706. Sub-Saharan Africa defined
+### § 3706. Sub-Saharan Africa defined
 
 For purposes of this chapter, the terms “sub-Saharan Africa”, “sub-Saharan African country”, “country in sub-Saharan Africa”, and “countries in sub-Saharan Africa” refer to the following or any successor political entities:
 
@@ -621,7 +621,7 @@ Republic of Zambia (Zambia).
 
 Republic of Zimbabwe (Zimbabwe).
 
-(Pub. L. 106–200, title I, § 107, May 18, 2000, 114 Stat. 256; Pub. L. 112–163, § 1(b), Aug. 10, 2012, 126 Stat. 1274.)
+(Pub. L. 106–200, title I, § 107, May 18, 2000, 114 Stat. 256; Pub. L. 112–163, § 1(b), Aug. 10, 2012, 126 Stat. 1274.)
 
 **Editorial Notes**
 
@@ -629,7 +629,7 @@ Republic of Zimbabwe (Zimbabwe).
 
 2012—Pub. L. 112–163 inserted item relating to the Republic of South Sudan.
 
-### § 3707. Activities in support of transparency
+### § 3707. Activities in support of transparency
 
 **(a) AGOA Website**
 
@@ -659,7 +659,7 @@ The President shall establish a publicly available website for the collection an
 
 The President should disseminate the information required under this section in a digital format to the public and publish such information on the AGOA Website.
 
-(Pub. L. 115–167, title I, § 103, Apr. 23, 2018, 132 Stat. 1277.)
+(Pub. L. 115–167, title I, § 103, Apr. 23, 2018, 132 Stat. 1277.)
 
 **Editorial Notes**
 
@@ -675,7 +675,7 @@ Section was enacted as part of the African Growth and Opportunity Act and Millen
 
 **Definitions**
 
-Pub. L. 115–167, title I, § 102, Apr. 23, 2018, 132 Stat. 1277, provided that:
+Pub. L. 115–167, title I, § 102, Apr. 23, 2018, 132 Stat. 1277, provided that:
 
 > “In this title [enacting this section and provisions set out as a note under section 3701 of this title]—
 
@@ -685,13 +685,13 @@ Pub. L. 115–167, title I, § 102, Apr. 23, 2018, 132 Stat. 1277, provided th
 
 ## SUBCHAPTER II—TRADE BENEFITS
 
-### § 3721. Treatment of certain textiles and apparel
+### § 3721. Treatment of certain textiles and apparel
 
 **(a) Preferential treatment**
 
-Textile and apparel articles described in subsection (b) that are imported directly into the customs territory of the United States from a beneficiary sub-Saharan African country described in section 2466a(c) 1
+Textile and apparel articles described in subsection (b) that are imported directly into the customs territory of the United States from a beneficiary sub-Saharan African country described in section 2466a(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, shall enter the United States free of duty and free of any quantitative limitations in accordance with the provisions set forth in subsection (b), if the country has satisfied the requirements set forth in section 3722 of this title.
 
@@ -827,9 +827,9 @@ Textile and textile articles classifiable under chapters 50 through 60 or chapte
 
 **(A) Products covered**
 
-In addition to the products described in subsection (b) 2
+In addition to the products described in subsection (b) 2
 
-<sup>2</sup>  So in original. Probably should be followed by a comma.
+<sup>2</sup> So in original. Probably should be followed by a comma.
 
 the preferential treatment described in subsection (a) shall apply through December 31, 2026, to apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries, regardless of the country of origin of the fabric or the yarn used to make such articles, in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
 
@@ -925,13 +925,13 @@ The term “USMCA” has the meaning given that term in section 4502 of this tit
 
 **(4) Former sub-Saharan African country**
 
-The term “former 3
+The term “former 3
 
-<sup>3</sup>  So in original. Probably should be followed by “beneficiary”.
+<sup>3</sup> So in original. Probably should be followed by “beneficiary”.
 
-sub-Saharan African country” means a country that, after being designated as a beneficiary sub-Saharan African country under this chapter 4
+sub-Saharan African country” means a country that, after being designated as a beneficiary sub-Saharan African country under this chapter 4
 
-<sup>4</sup>  See References in Text note below.
+<sup>4</sup> See References in Text note below.
 
 , ceased to be designated as such a beneficiary sub-Saharan country by reason of its entering into a free trade agreement with the United States.
 
@@ -943,13 +943,13 @@ The terms “enter” and “entered” refer to the entry, or withdrawal from w
 
 This section takes effect on October 1, 2000, and shall remain in effect through December 31, 2026.
 
-(Pub. L. 106–200, title I, § 112, May 18, 2000, 114 Stat. 258; Pub. L. 107–210, div. C, title XXXI, § 3108(a), Aug. 6, 2002, 116 Stat. 1038; Pub. L. 108–274, § 7(b)–(f), July 13, 2004, 118 Stat. 824–826; Pub. L. 108–429, title II, § 2004(k)(1), Dec. 3, 2004, 118 Stat. 2595; Pub. L. 109–432, div. D, title VI, §§ 6002–6004, Dec. 20, 2006, 120 Stat. 3190–3194; Pub. L. 110–436, § 3(a), (d), Oct. 16, 2008, 122 Stat. 4980, 4981; Pub. L. 112–163, § 1(a), Aug. 10, 2012, 126 Stat. 1274; Pub. L. 114–27, title I, § 103(b), June 29, 2015, 129 Stat. 364; Pub. L. 116–260, div. O, title VI, § 602(a)(1), Dec. 27, 2020, 134 Stat. 2152; Pub. L. 119–75, div. I, § 5019(a)(1)(B), Feb. 3, 2026, 140 Stat. 632.)
+(Pub. L. 106–200, title I, § 112, May 18, 2000, 114 Stat. 258; Pub. L. 107–210, div. C, title XXXI, § 3108(a), Aug. 6, 2002, 116 Stat. 1038; Pub. L. 108–274, § 7(b)–(f), July 13, 2004, 118 Stat. 824–826; Pub. L. 108–429, title II, § 2004(k)(1), Dec. 3, 2004, 118 Stat. 2595; Pub. L. 109–432, div. D, title VI, §§ 6002–6004, Dec. 20, 2006, 120 Stat. 3190–3194; Pub. L. 110–436, § 3(a), (d), Oct. 16, 2008, 122 Stat. 4980, 4981; Pub. L. 112–163, § 1(a), Aug. 10, 2012, 126 Stat. 1274; Pub. L. 114–27, title I, § 103(b), June 29, 2015, 129 Stat. 364; Pub. L. 116–260, div. O, title VI, § 602(a)(1), Dec. 27, 2020, 134 Stat. 2152; Pub. L. 119–75, div. I, § 5019(a)(1)(B), Feb. 3, 2026, 140 Stat. 632.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2466a(c) of this title, referred to in subsec. (a), was redesignated section 2466a(e) of this title by Pub. L. 114–27, title I, § 105(b), (c), June 29, 2015, 129 Stat. 366.
+Section 2466a(c) of this title, referred to in subsec. (a), was redesignated section 2466a(e) of this title by Pub. L. 114–27, title I, § 105(b), (c), June 29, 2015, 129 Stat. 366.
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
@@ -957,111 +957,111 @@ This chapter, referred to in subsec. (f)(4), was in the original “this Act”,
 
 **Amendments**
 
-2026—Subsec. (b)(3)(A)(i). Pub. L. 119–75, § 5019(a)(1)(B)(ii)(I), substituted “23 succeeding” for “21 succeeding”.
+2026—Subsec. (b)(3)(A)(i). Pub. L. 119–75, § 5019(a)(1)(B)(ii)(I), substituted “23 succeeding” for “21 succeeding”.
 
-Subsec. (b)(3)(A)(ii)(II). Pub. L. 119–75, § 5019(a)(1)(B)(ii)(II), substituted “December 31, 2026” for “September 30, 2025”.
+Subsec. (b)(3)(A)(ii)(II). Pub. L. 119–75, § 5019(a)(1)(B)(ii)(II), substituted “December 31, 2026” for “September 30, 2025”.
 
-Subsec. (c)(1). Pub. L. 119–75, § 5019(a)(1)(B)(iii)(I), substituted “December 31, 2026” for “September 30, 2025” in heading.
+Subsec. (c)(1). Pub. L. 119–75, § 5019(a)(1)(B)(iii)(I), substituted “December 31, 2026” for “September 30, 2025” in heading.
 
-Subsec. (c)(1)(A). Pub. L. 119–75, § 5019(a)(1)(B)(iii)(II), substituted “December 31, 2026” for “September 30, 2025”.
+Subsec. (c)(1)(A). Pub. L. 119–75, § 5019(a)(1)(B)(iii)(II), substituted “December 31, 2026” for “September 30, 2025”.
 
-Subsec. (c)(1)(B)(ii). Pub. L. 119–75, § 5019(a)(1)(B)(iii)(III), substituted “December 31, 2026” for “September 30, 2025”.
+Subsec. (c)(1)(B)(ii). Pub. L. 119–75, § 5019(a)(1)(B)(iii)(III), substituted “December 31, 2026” for “September 30, 2025”.
 
-Subsec. (g). Pub. L. 119–75, § 5019(a)(1)(B)(i), substituted “December 31, 2026” for “September 30, 2025”.
+Subsec. (g). Pub. L. 119–75, § 5019(a)(1)(B)(i), substituted “December 31, 2026” for “September 30, 2025”.
 
-2020—Subsec. (b)(5)(A). Pub. L. 116–260, § 602(a)(1)(A), substituted “Annex 4–B of the USMCA” for “Annex 401 to the NAFTA”.
+2020—Subsec. (b)(5)(A). Pub. L. 116–260, § 602(a)(1)(A), substituted “Annex 4–B of the USMCA” for “Annex 401 to the NAFTA”.
 
-Subsec. (f)(3). Pub. L. 116–260, § 602(a)(1)(B), added par. (3) and struck out former par. (3) which defined “NAFTA”.
+Subsec. (f)(3). Pub. L. 116–260, § 602(a)(1)(B), added par. (3) and struck out former par. (3) which defined “NAFTA”.
 
-2015—Subsec. (b)(3)(A)(i). Pub. L. 114–27, § 103(b)(2)(A), substituted “21 succeeding” for “11 succeeding”.
+2015—Subsec. (b)(3)(A)(i). Pub. L. 114–27, § 103(b)(2)(A), substituted “21 succeeding” for “11 succeeding”.
 
-Subsec. (b)(3)(A)(ii)(II). Pub. L. 114–27, § 103(b)(2)(B), substituted “September 30, 2025” for “September 30, 2015”.
+Subsec. (b)(3)(A)(ii)(II). Pub. L. 114–27, § 103(b)(2)(B), substituted “September 30, 2025” for “September 30, 2015”.
 
-Subsec. (c)(1). Pub. L. 114–27, § 103(b)(3)(A), substituted “September 30, 2025” for “September 30, 2015” in heading.
+Subsec. (c)(1). Pub. L. 114–27, § 103(b)(3)(A), substituted “September 30, 2025” for “September 30, 2015” in heading.
 
-Subsec. (c)(1)(A). Pub. L. 114–27, § 103(b)(3)(B), substituted “September 30, 2025” for “September 30, 2015”.
+Subsec. (c)(1)(A). Pub. L. 114–27, § 103(b)(3)(B), substituted “September 30, 2025” for “September 30, 2015”.
 
-Subsec. (c)(1)(B)(ii). Pub. L. 114–27, § 103(b)(3)(C), substituted “September 30, 2025” for “September 30, 2015”.
+Subsec. (c)(1)(B)(ii). Pub. L. 114–27, § 103(b)(3)(C), substituted “September 30, 2025” for “September 30, 2015”.
 
-Subsec. (g). Pub. L. 114–27, § 103(b)(1), substituted “September 30, 2025” for “September 30, 2015”.
+Subsec. (g). Pub. L. 114–27, § 103(b)(1), substituted “September 30, 2025” for “September 30, 2015”.
 
-2012—Subsec. (c)(1). Pub. L. 112–163, § 1(a)(1), substituted “2015” for “2012” in heading.
+2012—Subsec. (c)(1). Pub. L. 112–163, § 1(a)(1), substituted “2015” for “2012” in heading.
 
-Subsec. (c)(1)(A). Pub. L. 112–163, § 1(a)(2), substituted “2015” for “2012”.
+Subsec. (c)(1)(A). Pub. L. 112–163, § 1(a)(2), substituted “2015” for “2012”.
 
-Subsec. (c)(1)(B)(ii). Pub. L. 112–163, § 1(a)(3), substituted “2015” for “2012”.
+Subsec. (c)(1)(B)(ii). Pub. L. 112–163, § 1(a)(3), substituted “2015” for “2012”.
 
-2008—Subsec. (b)(3)(B), (C). Pub. L. 110–436, § 3(d), made technical correction to directory language of Pub. L. 109–432, § 6002(a)(2)(B). See 2006 Amendment note below.
+2008—Subsec. (b)(3)(B), (C). Pub. L. 110–436, § 3(d), made technical correction to directory language of Pub. L. 109–432, § 6002(a)(2)(B). See 2006 Amendment note below.
 
-Subsec. (b)(6)(A). Pub. L. 110–436, § 3(a)(1), substituted “ethnic” for “ethic” in second sentence.
+Subsec. (b)(6)(A). Pub. L. 110–436, § 3(a)(1), substituted “ethnic” for “ethic” in second sentence.
 
-Subsec. (c)(1)(A). Pub. L. 110–436, § 3(a)(2)(A), struck out “, and subject to paragraph (2),” after “described in subsection (b)”.
+Subsec. (c)(1)(A). Pub. L. 110–436, § 3(a)(2)(A), struck out “, and subject to paragraph (2),” after “described in subsection (b)”.
 
-Subsec. (c)(2). Pub. L. 110–436, § 3(a)(2)(B), (C)(ii), redesignated par. (4) as (2) and struck out former par. (2) which provided special rules for products in commercial quantities in Africa.
+Subsec. (c)(2). Pub. L. 110–436, § 3(a)(2)(B), (C)(ii), redesignated par. (4) as (2) and struck out former par. (2) which provided special rules for products in commercial quantities in Africa.
 
-Subsec. (c)(3). Pub. L. 110–436, § 3(a)(2)(B), (D), added par. (3) and struck out former par. (3) which provided for removal of designation of fabrics or yarns not available in commercial quantities.
+Subsec. (c)(3). Pub. L. 110–436, § 3(a)(2)(B), (D), added par. (3) and struck out former par. (3) which provided for removal of designation of fabrics or yarns not available in commercial quantities.
 
-Subsec. (c)(4). Pub. L. 110–436, § 3(a)(2)(C), substituted “Subsection (b)(3)(B)” for “Subsection (b)(3)(C)” and redesignated par. (4) as (2).
+Subsec. (c)(4). Pub. L. 110–436, § 3(a)(2)(C), substituted “Subsection (b)(3)(B)” for “Subsection (b)(3)(C)” and redesignated par. (4) as (2).
 
-Subsec. (c)(5). Pub. L. 110–436, § 3(a)(2)(D), struck out par. (5) which defined “applicable 1-year period”, “Commission”, “enter” and “entry”, and “lesser developed beneficiary sub-Saharan African country”.
+Subsec. (c)(5). Pub. L. 110–436, § 3(a)(2)(D), struck out par. (5) which defined “applicable 1-year period”, “Commission”, “enter” and “entry”, and “lesser developed beneficiary sub-Saharan African country”.
 
-2006—Subsec. (b). Pub. L. 109–432, § 6002(a)(2)(A), substituted “Subject to subsection (c), the” for “The” in introductory provisions.
+2006—Subsec. (b). Pub. L. 109–432, § 6002(a)(2)(A), substituted “Subject to subsection (c), the” for “The” in introductory provisions.
 
-Subsec. (b)(3)(B), (C). Pub. L. 109–432, § 6002(a)(2)(B), as amended by Pub. L. 110–436, § 3(d), redesignated subpar. (C) as (B) and struck out former subpar. (B), which related to extension of preferential treatment though Sept. 30, 2007, for apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries.
+Subsec. (b)(3)(B), (C). Pub. L. 109–432, § 6002(a)(2)(B), as amended by Pub. L. 110–436, § 3(d), redesignated subpar. (C) as (B) and struck out former subpar. (B), which related to extension of preferential treatment though Sept. 30, 2007, for apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries.
 
-Subsec. (b)(5)(C). Pub. L. 109–432, § 6003(1), added subpar. (C).
+Subsec. (b)(5)(C). Pub. L. 109–432, § 6003(1), added subpar. (C).
 
-Subsec. (b)(8). Pub. L. 109–432, § 6002(b), added par. (8).
+Subsec. (b)(8). Pub. L. 109–432, § 6002(b), added par. (8).
 
-Subsecs. (c), (d). Pub. L. 109–432, § 6002(a)(1), (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsecs. (c), (d). Pub. L. 109–432, § 6002(a)(1), (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 109–432, § 6002(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 109–432, § 6002(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(3). Pub. L. 109–432, § 6002(c), substituted “subsections (b) and (c)” for “subsection (b)” in concluding provisions.
+Subsec. (e)(3). Pub. L. 109–432, § 6002(c), substituted “subsections (b) and (c)” for “subsection (b)” in concluding provisions.
 
-Subsec. (f). Pub. L. 109–432, § 6002(a)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 109–432, § 6002(a)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (f)(5). Pub. L. 109–432, § 6003(2), added par. (5).
+Subsec. (f)(5). Pub. L. 109–432, § 6003(2), added par. (5).
 
-Subsec. (g). Pub. L. 109–432, § 6004, substituted “2015” for “2008”.
+Subsec. (g). Pub. L. 109–432, § 6004, substituted “2015” for “2008”.
 
-Pub. L. 109–432, § 6002(a)(1), redesignated subsec. (f) as (g).
+Pub. L. 109–432, § 6002(a)(1), redesignated subsec. (f) as (g).
 
-2004—Subsec. (b)(1). Pub. L. 108–274, § 7(b)(1), substituted “or both (including” for “(including”.
+2004—Subsec. (b)(1). Pub. L. 108–274, § 7(b)(1), substituted “or both (including” for “(including”.
 
-Subsec. (b)(3). Pub. L. 108–274, § 7(b)(2)(A), in introductory provisions, substituted “in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both” for “either in the United States or one or more beneficiary sub-Saharan African countries” wherever appearing and “whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2)), subject to the following:” for “subject to the following:”.
+Subsec. (b)(3). Pub. L. 108–274, § 7(b)(2)(A), in introductory provisions, substituted “in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both” for “either in the United States or one or more beneficiary sub-Saharan African countries” wherever appearing and “whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2)), subject to the following:” for “subject to the following:”.
 
-Subsec. (b)(3)(A), (B). Pub. L. 108–274, § 7(b)(2)(B), added subpars. (A) and (B) and struck out headings and text of former subpars. (A) and (B) which set forth differing percentages and time periods applicable to the preferential treatment of imports of apparel articles from beneficiary countries and to special rules for lesser developed countries.
+Subsec. (b)(3)(A), (B). Pub. L. 108–274, § 7(b)(2)(B), added subpars. (A) and (B) and struck out headings and text of former subpars. (A) and (B) which set forth differing percentages and time periods applicable to the preferential treatment of imports of apparel articles from beneficiary countries and to special rules for lesser developed countries.
 
 Subsec. (b)(3)(B)(iv). Pub. L. 108–429 added cl. (iv).
 
-Subsec. (b)(5)(A). Pub. L. 108–274, § 7(b)(3), amended heading and text generally. Prior to amendment, text read as follows: “Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries, from fabric or yarn that is not formed in the United States or a beneficiary sub-Saharan African country, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabric or yarn, under Annex 401 to the NAFTA.”
+Subsec. (b)(5)(A). Pub. L. 108–274, § 7(b)(3), amended heading and text generally. Prior to amendment, text read as follows: “Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries, from fabric or yarn that is not formed in the United States or a beneficiary sub-Saharan African country, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabric or yarn, under Annex 401 to the NAFTA.”
 
-Subsec. (b)(6). Pub. L. 108–274, § 7(c), amended heading and text generally. Prior to amendment, text read as follows: “A handloomed, handmade, or folklore article of a beneficiary sub-Saharan African country or countries that is certified as such by the competent authority of such beneficiary country or countries. For purposes of this paragraph, the President, after consultation with the beneficiary sub-Saharan African country or countries concerned, shall determine which, if any, particular textile and apparel goods of the country (or countries) shall be treated as being handloomed, handmade, or folklore articles.”
+Subsec. (b)(6). Pub. L. 108–274, § 7(c), amended heading and text generally. Prior to amendment, text read as follows: “A handloomed, handmade, or folklore article of a beneficiary sub-Saharan African country or countries that is certified as such by the competent authority of such beneficiary country or countries. For purposes of this paragraph, the President, after consultation with the beneficiary sub-Saharan African country or countries concerned, shall determine which, if any, particular textile and apparel goods of the country (or countries) shall be treated as being handloomed, handmade, or folklore articles.”
 
-Subsec. (b)(7). Pub. L. 108–274, § 7(d), inserted “or former beneficiary sub-Saharan African countries” after “and one or more beneficiary sub-Saharan African countries” in two places.
+Subsec. (b)(7). Pub. L. 108–274, § 7(d), inserted “or former beneficiary sub-Saharan African countries” after “and one or more beneficiary sub-Saharan African countries” in two places.
 
-Subsec. (d)(2). Pub. L. 108–274, § 7(e)(2), inserted “or former beneficiary sub-Saharan African countries” after “countries” and substituted “10 percent” for “7 percent”.
+Subsec. (d)(2). Pub. L. 108–274, § 7(e)(2), inserted “or former beneficiary sub-Saharan African countries” after “countries” and substituted “10 percent” for “7 percent”.
 
-Subsec. (d)(3). Pub. L. 108–274, § 7(e)(1), added par. (3).
+Subsec. (d)(3). Pub. L. 108–274, § 7(e)(1), added par. (3).
 
-Subsec. (e)(4). Pub. L. 108–274, § 7(f), added par. (4).
+Subsec. (e)(4). Pub. L. 108–274, § 7(f), added par. (4).
 
-2002—Subsec. (b)(1). Pub. L. 107–210, § 3108(a)(1), substituted “Apparel articles assembled in one or more beneficiary sub-Saharan African countries” for “Apparel articles assembled in beneficiary sub-Saharan African countries” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Apparel articles assembled in one or more beneficiary sub-Saharan African countries from fabrics wholly formed and cut in the United States, from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in the United States) that are—”.
+2002—Subsec. (b)(1). Pub. L. 107–210, § 3108(a)(1), substituted “Apparel articles assembled in one or more beneficiary sub-Saharan African countries” for “Apparel articles assembled in beneficiary sub-Saharan African countries” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Apparel articles assembled in one or more beneficiary sub-Saharan African countries from fabrics wholly formed and cut in the United States, from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in the United States) that are—”.
 
-Subsec. (b)(2). Pub. L. 107–210, § 3108(a)(2), substituted “Other apparel articles assembled in one or more beneficiary sub-Saharan African countries” for “Apparel articles cut and assembled in beneficiary sub-Saharan African countries” in heading and amended text generally. Prior to amendment, text read as follows: “Apparel articles cut in one or more beneficiary sub-Saharan African countries from fabric wholly formed in the United States from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed in the United States) if such articles are assembled in one or more beneficiary sub-Saharan African countries with thread formed in the United States.”
+Subsec. (b)(2). Pub. L. 107–210, § 3108(a)(2), substituted “Other apparel articles assembled in one or more beneficiary sub-Saharan African countries” for “Apparel articles cut and assembled in beneficiary sub-Saharan African countries” in heading and amended text generally. Prior to amendment, text read as follows: “Apparel articles cut in one or more beneficiary sub-Saharan African countries from fabric wholly formed in the United States from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed in the United States) if such articles are assembled in one or more beneficiary sub-Saharan African countries with thread formed in the United States.”
 
-Subsec. (b)(3). Pub. L. 107–210, § 3108(a)(3)(A), substituted “Apparel articles from regional fabric or yarns” for “Apparel articles assembled from regional and other fabric” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Apparel articles wholly assembled in one or more beneficiary sub-Saharan African countries from fabric wholly formed in one or more beneficiary sub-Saharan African countries from yarn originating either in the United States or one or more beneficiary sub-Saharan African countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in one or more beneficiary sub-Saharan African countries), subject to the following:”.
+Subsec. (b)(3). Pub. L. 107–210, § 3108(a)(3)(A), substituted “Apparel articles from regional fabric or yarns” for “Apparel articles assembled from regional and other fabric” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Apparel articles wholly assembled in one or more beneficiary sub-Saharan African countries from fabric wholly formed in one or more beneficiary sub-Saharan African countries from yarn originating either in the United States or one or more beneficiary sub-Saharan African countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in one or more beneficiary sub-Saharan African countries), subject to the following:”.
 
-Subsec. (b)(3)(B). Pub. L. 107–210, § 3108(a)(3)(B), amended heading and text generally. Prior to amendment, text read as follows:
+Subsec. (b)(3)(B). Pub. L. 107–210, § 3108(a)(3)(B), amended heading and text generally. Prior to amendment, text read as follows:
 
 “(i) In general.—Subject to subparagraph (A), preferential treatment shall be extended through September 30, 2004, for apparel articles wholly assembled in one or more lesser developed beneficiary sub-Saharan African countries regardless of the country of origin of the fabric used to make such articles.
 
 “(ii) Lesser developed beneficiary sub-saharan african country.—For purposes of this subparagraph the term ‘lesser developed beneficiary sub-Saharan African country’ means a beneficiary sub-Saharan African country that had a per capita gross national product of less than $1,500 a year in 1998, as measured by the World Bank.”
 
-Subsec. (b)(4)(B). Pub. L. 107–210, § 3108(a)(4), substituted “21.5 microns” for “18.5 microns”.
+Subsec. (b)(4)(B). Pub. L. 107–210, § 3108(a)(4), substituted “21.5 microns” for “18.5 microns”.
 
-Subsec. (b)(7). Pub. L. 107–210, § 3108(a)(5), added par. (7).
+Subsec. (b)(7). Pub. L. 107–210, § 3108(a)(5), added par. (7).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1071,11 +1071,11 @@ Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–436, § 3(b), Oct. 16, 2008, 122 Stat. 4980, provided that: “The amendments made by subsection (a) [amending this section] apply to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act [Oct. 16, 2008].”
+Pub. L. 110–436, § 3(b), Oct. 16, 2008, 122 Stat. 4980, provided that: “The amendments made by subsection (a) [amending this section] apply to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act [Oct. 16, 2008].”
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–429, title II, § 2004(k)(2), Dec. 3, 2004, 118 Stat. 2595, provided that:
+Pub. L. 108–429, title II, § 2004(k)(2), Dec. 3, 2004, 118 Stat. 2595, provided that:
 
 > “Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law, upon proper request filed with the Bureau of Customs and Border Protection before the 90th day after the date of the enactment of this Act [Dec. 3, 2004], any entry, or withdrawal from warehouse for consumption, of any good—
 
@@ -1095,7 +1095,7 @@ For retroactive application of duty-free or other preferential treatment under t
 
 **Increase in Limitation on Certain Benefits**
 
-Pub. L. 107–210, div. C, title XXXI, § 3108(b), Aug. 6, 2002, 116 Stat. 1039, provided that:
+Pub. L. 107–210, div. C, title XXXI, § 3108(b), Aug. 6, 2002, 116 Stat. 1039, provided that:
 
 > “The applicable percentage under clause (ii) of section 112(b)(3)(A) of the African Growth and Opportunity Act (19 U.S.C. 3721(b)(3)(A)) shall be increased—
 
@@ -1109,13 +1109,13 @@ Pub. L. 107–210, div. C, title XXXI, § 3108(b), Aug. 6, 2002, 116 Stat. 103
 
 **Delegation of Authority**
 
-For delegation of certain authority of the President under this section to the Committee for the Implementation of Textile Agreements and the United States Trade Representative, see Ex. Ord. No. 13191, §§ 1–3, Jan. 17, 2001, 66 F.R. 7271, set out as a note under section 2703 of this title.
+For delegation of certain authority of the President under this section to the Committee for the Implementation of Textile Agreements and the United States Trade Representative, see Ex. Ord. No. 13191, §§ 1–3, Jan. 17, 2001, 66 F.R. 7271, set out as a note under section 2703 of this title.
 
 **Proc. No. 7350. To Implement the African Growth and Opportunity Act and To Designate Eritrea as a Beneficiary Developing Country for Purposes of the Generalized System of Preferences**
 
 Proc. No. 7350, Oct. 2, 2000, 65 F.R. 59321, provided in par. (5) that the United States Trade Representative is authorized to determine whether Kenya and Mauritius have satisfied the requirements of section 3721(c)[d] of this title, is directed to set forth the determination in a notice to be published in the Federal Register and to cause the existing quotas on textile and apparel articles imported into the United States from such country to be eliminated within 30 days after the determination, and is authorized to exercise the authority provided to the President under section 2483 of this title to embody modifications and technical or conforming changes in the Harmonized Tariff Schedule of the United States.
 
-### § 3722. Protections against transshipment
+### § 3722. Protections against transshipment
 
 **(a) Preferential treatment conditioned on enforcement measures**
 
@@ -1171,9 +1171,9 @@ If the President determines, based on sufficient evidence, that an exporter has 
 
 **(4) Transshipment described**
 
-Transshipment within the meaning of this subsection has occurred when preferential treatment for a textile or apparel article under this chapter 1
+Transshipment within the meaning of this subsection has occurred when preferential treatment for a textile or apparel article under this chapter 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 has been claimed on the basis of material false information concerning the country of origin, manufacture, processing, or assembly of the article or any of its components. For purposes of this paragraph, false information is material if disclosure of the true information would mean or would have meant that the article is or was ineligible for preferential treatment under section 3721 of this title.
 
@@ -1197,7 +1197,7 @@ The Customs Service shall monitor and the Commissioner of U.S. Customs and Borde
 
 There is authorized to be appropriated to carry out subsection (c) the sum of $5,894,913.
 
-(Pub. L. 106–200, title I, § 113, May 18, 2000, 114 Stat. 263; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 116–260, div. O, title VI, § 602(a)(2), Dec. 27, 2020, 134 Stat. 2152.)
+(Pub. L. 106–200, title I, § 113, May 18, 2000, 114 Stat. 263; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 116–260, div. O, title VI, § 602(a)(2), Dec. 27, 2020, 134 Stat. 2152.)
 
 **Editorial Notes**
 
@@ -1207,11 +1207,11 @@ This chapter, referred to in subsec. (b)(4), was in the original “this Act”,
 
 **Amendments**
 
-2020—Subsec. (b)(1)(A). Pub. L. 116–260, § 602(a)(2)(A)(i), substituted “article 5.4.1 of the USMCA” for “Article 502(1) of the NAFTA”.
+2020—Subsec. (b)(1)(A). Pub. L. 116–260, § 602(a)(2)(A)(i), substituted “article 5.4.1 of the USMCA” for “Article 502(1) of the NAFTA”.
 
-Subsec. (b)(1)(B)(i). Pub. L. 116–260, § 602(a)(2)(A)(ii), substituted “chapter 5 of the USMCA” for “chapter 5 of the NAFTA” in concluding provisions.
+Subsec. (b)(1)(B)(i). Pub. L. 116–260, § 602(a)(2)(A)(ii), substituted “chapter 5 of the USMCA” for “chapter 5 of the NAFTA” in concluding provisions.
 
-Subsec. (b)(2). Pub. L. 116–260, § 602(a)(2)(B), substituted “article 5.5 of the USMCA” for “Article 503 of the NAFTA”.
+Subsec. (b)(2). Pub. L. 116–260, § 602(a)(2)(B), substituted “article 5.5 of the USMCA” for “Article 503 of the NAFTA”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1237,7 +1237,7 @@ Authority of President under subsec. (b)(3) of this section delegated to the Com
 
 Proc. No. 7350, Oct. 2, 2000, 65 F.R. 59321, provided in par. (4) that the United States Trade Representative is authorized to determine whether each designated beneficiary sub-Saharan African country has satisfied the requirements of section 3722(a) of this title, relating to the establishment of procedures to protect against unlawful transshipments and section 3722(b)(1)(B) of this title relating to the implementation of procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the North American Free Trade Agreement (NAFTA), is directed to set forth the determination in a notice to be published in the Federal Register which notice shall modify the Harmonized Tariff Schedule of the United States (HTS) by listing the countries that satisfy the requirements of sections 3722(a) and 3722(b)(1)(B) of this title, and is authorized to exercise the authority provided to the President under section 2483 of this title to embody modifications and technical or conforming changes in the HTS.
 
-### § 3723. Free trade agreements with sub-Saharan African countries
+### § 3723. Free trade agreements with sub-Saharan African countries
 
 **(a) Declaration of policy**
 
@@ -1275,13 +1275,13 @@ The President, taking into account the provisions of the treaty establishing the
 
 Not later than 12 months after May 18, 2000, the President shall prepare and transmit to the Congress a report containing the plan developed pursuant to subsection (b).
 
-(Pub. L. 106–200, title I, § 116, May 18, 2000, 114 Stat. 266.)
+(Pub. L. 106–200, title I, § 116, May 18, 2000, 114 Stat. 266.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Coordination of Efforts To Develop Free Trade Agreements With Sub-Saharan African Countries**
 
-Pub. L. 114–328, div. A, title XII, § 1293, Dec. 23, 2016, 130 Stat. 2560, as amended by Pub. L. 115–232, div. A, title XII, § 1289, Aug. 13, 2018, 132 Stat. 2081, provided that:
+Pub. L. 114–328, div. A, title XII, § 1293, Dec. 23, 2016, 130 Stat. 2560, as amended by Pub. L. 115–232, div. A, title XII, § 1289, Aug. 13, 2018, 132 Stat. 2081, provided that:
 
 > **“(a) Coordination Between the United States Trade Representative and Other Agencies.—** The United States Trade Representative shall consult and coordinate with other relevant Federal agencies to assist countries identified under paragraph (1) of section 110(b) of the Trade Preferences Extension Act of 2015 (Public Law 114–27; 129 Stat. 370; 19 U.S.C. 3705 note) in the most recent report required by that section, including through the deployment of resources from those agencies to such countries and through trade capacity building, in addressing the plan developed under paragraph (3) of that section.
 
@@ -1313,7 +1313,7 @@ Pub. L. 114–328, div. A, title XII, § 1293, Dec. 23, 2016, 130 Stat. 2560, 
 
 > **“(B)** is selected by the Board of Directors of the Millennium Challenge Corporation under subsection (c) of section 607 of that Act (22 U.S.C. 7706) from among the countries determined to be eligible countries under subsection (a) of that section.”
 
-### § 3724. Assistant United States Trade Representative for African Affairs
+### § 3724. Assistant United States Trade Representative for African Affairs
 
 It is the sense of the Congress that—
 
@@ -1327,11 +1327,11 @@ It is the sense of the Congress that—
 
 **(3)** the United States Trade Representative should have adequate funding and staff to carry out the duties of the Assistant United States Trade Representative for African Affairs described in paragraph (2), subject to the availability of appropriations.
 
-(Pub. L. 106–200, title I, § 117, May 18, 2000, 114 Stat. 267.)
+(Pub. L. 106–200, title I, § 117, May 18, 2000, 114 Stat. 267.)
 
 ## SUBCHAPTER III—ECONOMIC DEVELOPMENT RELATED ISSUES
 
-### § 3731. Sense of the Congress regarding comprehensive debt relief for the world’s poorest countries
+### § 3731. Sense of the Congress regarding comprehensive debt relief for the world’s poorest countries
 
 **(a) Findings** Congress makes the following findings:
 
@@ -1359,9 +1359,9 @@ It is the sense of the Congress that—
 
 **(6)** in order to prevent adverse impact on a key industry in many developing countries, the International Monetary Fund must mobilize its own resources for providing debt relief to eligible countries without allowing gold to reach the open market, or otherwise adversely affecting the market price of gold.
 
-(Pub. L. 106–200, title I, § 121, May 18, 2000, 114 Stat. 267.)
+(Pub. L. 106–200, title I, § 121, May 18, 2000, 114 Stat. 267.)
 
-### § 3732. Executive branch initiatives
+### § 3732. Executive branch initiatives
 
 **(a) Statement of the Congress**
 
@@ -1389,7 +1389,7 @@ The Congress recognizes that the stated policy of the executive branch in 1997, 
 
 **(6)** encouraging greater sub-Saharan African participation in future negotiations in the World Trade Organization on services and making further commitments in their schedules to the General Agreement on Trade in Services in order to encourage the removal of tariff and nontariff barriers.
 
-(Pub. L. 106–200, title I, § 122, May 18, 2000, 114 Stat. 268.)
+(Pub. L. 106–200, title I, § 122, May 18, 2000, 114 Stat. 268.)
 
 **Editorial Notes**
 
@@ -1397,13 +1397,13 @@ The Congress recognizes that the stated policy of the executive branch in 1997, 
 
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 3701 of this title and Tables.
 
-### § 3733. Overseas Private Investment Corporation initiatives
+### § 3733. Overseas Private Investment Corporation initiatives
 
 **(a) Initiation of funds**
 
-It is the sense of the Congress that the Overseas Private Investment Corporation 1
+It is the sense of the Congress that the Overseas Private Investment Corporation 1
 
-<sup>1</sup>  See Transfer of Functions note below.
+<sup>1</sup> See Transfer of Functions note below.
 
 should exercise the authorities it has to initiate an equity fund or equity funds in support of projects in the countries in sub-Saharan Africa, in addition to the existing equity fund for sub-Saharan Africa created by the Corporation.
 
@@ -1431,19 +1431,19 @@ The Corporation shall ensure that the funds are used to provide support in parti
 
 **(2) Reports to Congress**
 
-Within 6 months after May 18, 2000, and annually for each of the 4 years thereafter, the Board of Directors of the Overseas Private Investment Corporation <sup>1</sup> shall submit to Congress a report on the steps that the Board has taken to implement section 2193(e) 2
+Within 6 months after May 18, 2000, and annually for each of the 4 years thereafter, the Board of Directors of the Overseas Private Investment Corporation <sup>1</sup> shall submit to Congress a report on the steps that the Board has taken to implement section 2193(e) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 22 and any recommendations of the investment advisory council established pursuant to such section.
 
-(Pub. L. 106–200, title I, § 123, May 18, 2000, 114 Stat. 269.)
+(Pub. L. 106–200, title I, § 123, May 18, 2000, 114 Stat. 269.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2193(e) of title 22, referred to in subsec. (c)(2), was repealed by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513.
+Section 2193(e) of title 22, referred to in subsec. (c)(2), was repealed by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513.
 
 **Codification**
 
@@ -1455,7 +1455,7 @@ Section is comprised of section 123 of Pub. L. 106–200. Subsec. (c)(1) of sect
 
 For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of Title 22, Foreign Relations and Intercourse.
 
-### § 3734. Export-Import Bank initiatives
+### § 3734. Export-Import Bank initiatives
 
 **(a) Sense of the Congress**
 
@@ -1465,9 +1465,9 @@ It is the sense of the Congress that the Board of Directors of the Bank shall co
 
 The sub-Saharan Africa Advisory Committee (SAAC) is to be commended for aiding the Bank in advancing the economic partnership between the United States and the nations of sub-Saharan Africa by doubling the number of sub-Saharan African countries in which the Bank is open for traditional financing and by increasing by tenfold the Bank’s support for sales to sub-Saharan Africa from fiscal year 1998 to fiscal year 1999. The Board of Directors of the Bank and its staff shall continue to review carefully the sub-Saharan Africa Advisory Committee recommendations on the development and implementation of new and innovative policies and programs designed to promote the Bank’s expansion in sub-Saharan Africa.
 
-(Pub. L. 106–200, title I, § 124, May 18, 2000, 114 Stat. 270.)
+(Pub. L. 106–200, title I, § 124, May 18, 2000, 114 Stat. 270.)
 
-### § 3735. Expansion of the United States and Foreign Commercial Service in sub-Saharan Africa
+### § 3735. Expansion of the United States and Foreign Commercial Service in sub-Saharan Africa
 
 **(a) Findings** The Congress makes the following findings:
 
@@ -1501,15 +1501,15 @@ The sub-Saharan Africa Advisory Committee (SAAC) is to be commended for aiding t
 
 **(5)** make available to the public, through printed and electronic means of communication, the information derived pursuant to paragraphs (1) through (4) for each of the 4 years after May 18, 2000.
 
-(Pub. L. 106–200, title I, § 125, May 18, 2000, 114 Stat. 270.)
+(Pub. L. 106–200, title I, § 125, May 18, 2000, 114 Stat. 270.)
 
-### § 3736. Donation of air traffic control equipment to eligible sub-Saharan African countries
+### § 3736. Donation of air traffic control equipment to eligible sub-Saharan African countries
 
 It is the sense of the Congress that, to the extent appropriate, the United States Government should make every effort to donate to governments of sub-Saharan African countries determined to be eligible under section 3703 of this title air traffic control equipment that is no longer in use, including appropriate related reimbursable technical assistance.
 
-(Pub. L. 106–200, title I, § 126, May 18, 2000, 114 Stat. 271.)
+(Pub. L. 106–200, title I, § 126, May 18, 2000, 114 Stat. 271.)
 
-### § 3737. Additional authorities and increased flexibility to provide assistance under the Development Fund for Africa
+### § 3737. Additional authorities and increased flexibility to provide assistance under the Development Fund for Africa
 
 **(a) Use of sustainable development assistance to support further economic growth**
 
@@ -1541,13 +1541,13 @@ It is the sense of the Congress that sustained economic growth in sub-Saharan Af
 
 **(4)** The African Development Foundation has a unique congressional mandate to empower the poor to participate fully in development and to increase opportunities for gainful employment, poverty alleviation, and more equitable income distribution in sub-Saharan Africa. The African Development Foundation has worked successfully to enhance the role of women as agents of change, strengthen the informal sector with an emphasis on supporting micro and small sized enterprises, indigenous technologies, and mobilizing local financing. The African Development Foundation should develop and implement strategies for promoting participation in the socioeconomic development process of grassroots and informal sector groups such as nongovernmental organizations, cooperatives, artisans, and traders into the programs and initiatives established under this chapter.
 
-(Pub. L. 106–200, title I, § 127, May 18, 2000, 114 Stat. 272.)
+(Pub. L. 106–200, title I, § 127, May 18, 2000, 114 Stat. 272.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 10 of part I of the Act is classified generally to part X (§ 2293 et seq.) of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 10 of part I of the Act is classified generally to part X (§ 2293 et seq.) of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 **Codification**
 
@@ -1559,13 +1559,13 @@ Section is comprised of section 127 of Pub. L. 106–200. Subsec. (c) of section
 
 African Development Foundation changed to United States African Development Foundation by Pub. L. 113–76, div. K, title III, Jan. 17, 2014, 128 Stat. 482. See section 290h–1 of Title 22, Foreign Relations and Intercourse.
 
-### § 3738. Assistance from United States private sector to prevent and reduce HIV/AIDS in sub-Saharan Africa
+### § 3738. Assistance from United States private sector to prevent and reduce HIV/AIDS in sub-Saharan Africa
 
 It is the sense of the Congress that United States businesses should be encouraged to provide assistance to sub-Saharan African countries to prevent and reduce the incidence of HIV/AIDS in sub-Saharan Africa. In providing such assistance, United States businesses should be encouraged to consider the establishment of an HIV/AIDS Response Fund in order to provide for coordination among such businesses in the collection and distribution of the assistance to sub-Saharan African countries.
 
-(Pub. L. 106–200, title I, § 128, May 18, 2000, 114 Stat. 273.)
+(Pub. L. 106–200, title I, § 128, May 18, 2000, 114 Stat. 273.)
 
-### § 3739. Sense of the Congress relating to HIV/AIDS crisis in sub-Saharan Africa
+### § 3739. Sense of the Congress relating to HIV/AIDS crisis in sub-Saharan Africa
 
 **(a) Findings** The Congress finds the following:
 
@@ -1595,9 +1595,9 @@ It is the sense of the Congress that United States businesses should be encourag
 
 **(3)** the HIV/AIDS crisis in sub-Saharan Africa is a global threat that merits further attention through greatly expanded public, private, and joint public-private efforts, and through appropriate United States legislation.
 
-(Pub. L. 106–200, title I, § 129, May 18, 2000, 114 Stat. 273.)
+(Pub. L. 106–200, title I, § 129, May 18, 2000, 114 Stat. 273.)
 
-### § 3740. Study on improving African agricultural practices
+### § 3740. Study on improving African agricultural practices
 
 **(a) In general** The Secretary of Agriculture, in consultation with American Land Grant Colleges and Universities and not-for-profit international organizations, is authorized to conduct a 2-year study on ways to improve the flow of American farming techniques and practices to African farmers. The study shall include an examination of ways of improving or utilizing—
 
@@ -1617,9 +1617,9 @@ The Secretary of Agriculture shall submit the study to the Committee on Agricult
 
 In conducting the study under subsection (a), the Secretary of Agriculture is encouraged to consult with American Land Grant Colleges and not-for-profit international organizations that have firsthand knowledge of current African farming practices.
 
-(Pub. L. 106–200, title I, § 130, May 18, 2000, 114 Stat. 274.)
+(Pub. L. 106–200, title I, § 130, May 18, 2000, 114 Stat. 274.)
 
-### § 3741. Sense of the Congress regarding efforts to combat desertification in Africa and other countries
+### § 3741. Sense of the Congress regarding efforts to combat desertification in Africa and other countries
 
 **(a) Findings** The Congress finds that—
 
@@ -1643,4 +1643,4 @@ In conducting the study under subsection (a), the Secretary of Agriculture is en
 
 **(4)** recognize the essential role of local governments and nongovernmental organizations in developing and implementing measures to address desertification.
 
-(Pub. L. 106–200, title I, § 131, May 18, 2000, 114 Stat. 274.)
+(Pub. L. 106–200, title I, § 131, May 18, 2000, 114 Stat. 274.)

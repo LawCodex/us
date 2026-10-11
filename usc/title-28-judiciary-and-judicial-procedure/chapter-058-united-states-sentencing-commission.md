@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1994—Pub. L. 103–322, title XXVIII, § 280005(c)(1), Sept. 13, 1994, 108 Stat. 2097, substituted “Chair” for “Chairman” in item 993.
+1994—Pub. L. 103–322, title XXVIII, § 280005(c)(1), Sept. 13, 1994, 108 Stat. 2097, substituted “Chair” for “Chairman” in item 993.
 
-## § 991. United States Sentencing Commission; establishment and purposes
+## § 991. United States Sentencing Commission; establishment and purposes
 
 **(a)** There is established as an independent commission in the judicial branch of the United States a United States Sentencing Commission which shall consist of seven voting members and one nonvoting member. The President, after consultation with representatives of judges, prosecuting attorneys, defense attorneys, law enforcement officials, senior citizens, victims of crime, and others interested in the criminal justice process, shall appoint the voting members of the Commission, by and with the advice and consent of the Senate, one of whom shall be appointed, by and with the advice and consent of the Senate, as the Chair and three of whom shall be designated by the President as Vice Chairs. At least 3 of the members shall be Federal judges selected after considering a list of six judges recommended to the President by the Judicial Conference of the United States. Not more than four of the members of the Commission shall be members of the same political party, and of the three Vice Chairs, no more than two shall be members of the same political party. The Attorney General, or the Attorney General’s designee, shall be an ex officio, nonvoting member of the Commission. The Chair, Vice Chairs, and members of the Commission shall be subject to removal from the Commission by the President only for neglect of duty or malfeasance in office or for other good cause shown.
 
@@ -37,7 +37,7 @@ retrieved: 2026-10-11
 
 **(2)** develop means of measuring the degree to which the sentencing, penal, and correctional practices are effective in meeting the purposes of sentencing as set forth in section 3553(a)(2) of title 18, United States Code.
 
-(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2017; amended Pub. L. 99–22, § 1(1), Apr. 15, 1985, 99 Stat. 46; Pub. L. 103–322, title XXVIII, § 280005(a), (c)(1), (2), Sept. 13, 1994, 108 Stat. 2096, 2097; Pub. L. 104–294, title VI, § 604(b)(11), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 108–21, title IV, § 401(n)(1), Apr. 30, 2003, 117 Stat. 675; Pub. L. 110–406, § 16, Oct. 13, 2008, 122 Stat. 4295.)
+(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2017; amended Pub. L. 99–22, § 1(1), Apr. 15, 1985, 99 Stat. 46; Pub. L. 103–322, title XXVIII, § 280005(a), (c)(1), (2), Sept. 13, 1994, 108 Stat. 2096, 2097; Pub. L. 104–294, title VI, § 604(b)(11), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 108–21, title IV, § 401(n)(1), Apr. 30, 2003, 117 Stat. 675; Pub. L. 110–406, § 16, Oct. 13, 2008, 122 Stat. 4295.)
 
 **Editorial Notes**
 
@@ -49,9 +49,9 @@ retrieved: 2026-10-11
 
 1996—Subsec. (a). Pub. L. 104–294 made technical correction to directory language of Pub. L. 103–322. See 1994 Amendment note below.
 
-1994—Subsec. (a). Pub. L. 103–322, § 280005(c)(1), (2), in second sentence, substituted “Chair” for “Chairman” and in fifth sentence, substituted “the Attorney General’s designee” for “his designee”.
+1994—Subsec. (a). Pub. L. 103–322, § 280005(c)(1), (2), in second sentence, substituted “Chair” for “Chairman” and in fifth sentence, substituted “the Attorney General’s designee” for “his designee”.
 
-Pub. L. 103–322, § 280005(a), as amended by Pub. L. 104–294, in second sentence, substituted “and three of whom shall be designated by the President as Vice Chairs.” for the period at end, in fourth sentence, substituted “, and of the three Vice Chairs, no more than two shall be members of the same political party.” for the period at end, and in last sentence, substituted “Chair, Vice Chairs,” for “Chairman”.
+Pub. L. 103–322, § 280005(a), as amended by Pub. L. 104–294, in second sentence, substituted “and three of whom shall be designated by the President as Vice Chairs.” for the period at end, in fourth sentence, substituted “, and of the three Vice Chairs, no more than two shall be members of the same political party.” for the period at end, and in last sentence, substituted “Chair, Vice Chairs,” for “Chairman”.
 
 1985—Subsec. (a). Pub. L. 99–22 struck out “in regular active service” after “Federal judges”.
 
@@ -59,7 +59,7 @@ Pub. L. 103–322, § 280005(a), as amended by Pub. L. 104–294, in second se
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–21, title IV, § 401(n)(2), Apr. 30, 2003, 117 Stat. 676, provided that: “The amendment made under paragraph (1) [amending this section] shall not apply to any person who is serving, or who has been nominated to serve, as a member of the Sentencing Commission on the date of enactment of this Act [Apr. 30, 2003].”
+Pub. L. 108–21, title IV, § 401(n)(2), Apr. 30, 2003, 117 Stat. 676, provided that: “The amendment made under paragraph (1) [amending this section] shall not apply to any person who is serving, or who has been nominated to serve, as a member of the Sentencing Commission on the date of enactment of this Act [Apr. 30, 2003].”
 
 **Effective Date of 1996 Amendment**
 
@@ -73,7 +73,7 @@ Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473
 
 For provisions directing that, notwithstanding the provisions of this section, during the five-year period following Oct. 12, 1984, the United States Sentencing Commission shall consist of nine members, including two ex officio, nonvoting members, see section 235(b)(5) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
 
-## § 992. Terms of office; compensation
+## § 992. Terms of office; compensation
 
 **(a)** The voting members of the United States Sentencing Commission shall be appointed for six-year terms, except that the initial terms of the first members of the Commission shall be staggered so that—
 
@@ -99,13 +99,13 @@ For provisions directing that, notwithstanding the provisions of this section, d
 
 **(c)** The Chair and Vice Chairs of the Commission shall hold full-time positions and shall be compensated during their terms of office at the annual rate at which judges of the United States courts of appeals are compensated. The voting members of the Commission, other than the Chair and Vice Chairs, shall hold full-time positions until the end of the first six years after the sentencing guidelines go into effect pursuant to section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984, and shall be compensated at the annual rate at which judges of the United States courts of appeals are compensated. Thereafter, the voting members of the Commission, other than the Chair and Vice Chairs,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 shall hold part-time positions and shall be paid at the daily rate at which judges of the United States courts of appeals are compensated. A Federal judge may serve as a member of the Commission without resigning the judge’s appointment as a Federal judge.
 
 **(d)** Sections 44(c) and 134(b) of this title (relating to the residence of judges) do not apply to any judge holding a full-time position on the Commission under subsection (c) of this section.
 
-(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2018; amended Pub. L. 99–646, §§ 4, 6(a), Nov. 10, 1986, 100 Stat. 3592; Pub. L. 102–349, § 1, Aug. 26, 1992, 106 Stat. 933; Pub. L. 103–322, title XXVIII, § 280005(b), (c)(1), (3), Sept. 13, 1994, 108 Stat. 2096, 2097.)
+(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2018; amended Pub. L. 99–646, §§ 4, 6(a), Nov. 10, 1986, 100 Stat. 3592; Pub. L. 102–349, § 1, Aug. 26, 1992, 106 Stat. 933; Pub. L. 103–322, title XXVIII, § 280005(b), (c)(1), (3), Sept. 13, 1994, 108 Stat. 2096, 2097.)
 
 **Editorial Notes**
 
@@ -115,15 +115,15 @@ Section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984, referred to in su
 
 **Amendments**
 
-1994—Subsec. (a)(1). Pub. L. 103–322, § 280005(c)(1), substituted “Chair” for “Chairman”.
+1994—Subsec. (a)(1). Pub. L. 103–322, § 280005(c)(1), substituted “Chair” for “Chairman”.
 
-Subsec. (c). Pub. L. 103–322, § 280005(b), (c)(3), amended first sentence generally, substituting “The Chair and Vice Chairs of the Commission shall hold full-time positions and shall be compensated during their terms” for “The Chairman of the Commission shall hold a full-time position and shall be compensated during the term”, in second sentence, substituted “Chair and Vice Chairs” for “Chairman”, in third sentence, substituted “Chair and Vice Chairs,” for “Chairman”, and in last sentence, substituted “the judge’s appointment” for “his appointment”.
+Subsec. (c). Pub. L. 103–322, § 280005(b), (c)(3), amended first sentence generally, substituting “The Chair and Vice Chairs of the Commission shall hold full-time positions and shall be compensated during their terms” for “The Chairman of the Commission shall hold a full-time position and shall be compensated during the term”, in second sentence, substituted “Chair and Vice Chairs” for “Chairman”, in third sentence, substituted “Chair and Vice Chairs,” for “Chairman”, and in last sentence, substituted “the judge’s appointment” for “his appointment”.
 
 1992—Subsec. (b). Pub. L. 102–349 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No voting member may serve more than two full terms. A voting member appointed to fill a vacancy that occurs before the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term.”
 
-1986—Subsec. (c). Pub. L. 99–646, § 4, substituted “section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984” for “section 225(a)(1)(B)(ii) of the Sentencing Reform Act of 1983”.
+1986—Subsec. (c). Pub. L. 99–646, § 4, substituted “section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984” for “section 225(a)(1)(B)(ii) of the Sentencing Reform Act of 1983”.
 
-Subsec. (d). Pub. L. 99–646, § 6(a), added subsec. (d).
+Subsec. (d). Pub. L. 99–646, § 6(a), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -135,7 +135,7 @@ Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473
 
 For provisions directing that, for purposes of subsec. (a) of this section, the terms of the first members of the United States Sentencing Commission shall not begin to run until the sentencing guidelines go into effect pursuant to section 235(a)(1)(B)(ii) of Pub. L. 98–473, see section 235(a)(2) of Pub. L. 98–473, both of which are set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
 
-## § 993. Powers and duties of Chair
+## § 993. Powers and duties of Chair
 
 The Chair shall—
 
@@ -147,7 +147,7 @@ The Chair shall—
 
 **(2)** the use of funds made available to the Commission.
 
-(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2019; amended Pub. L. 99–22, § 1(2), Apr. 15, 1985, 99 Stat. 46; Pub. L. 99–646, § 5, Nov. 10, 1986, 100 Stat. 3592; Pub. L. 103–322, title XXVIII, § 280005(c)(1), Sept. 13, 1994, 108 Stat. 2097.)
+(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2019; amended Pub. L. 99–22, § 1(2), Apr. 15, 1985, 99 Stat. 46; Pub. L. 99–646, § 5, Nov. 10, 1986, 100 Stat. 3592; Pub. L. 103–322, title XXVIII, § 280005(c)(1), Sept. 13, 1994, 108 Stat. 2097.)
 
 **Editorial Notes**
 
@@ -165,7 +165,7 @@ The Chair shall—
 
 Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an Effective Date; Savings Provision note under section 3551 of Title 18, Crimes and Criminal Procedure.
 
-## § 994. Duties of the Commission
+## § 994. Duties of the Commission
 
 **(a)** The Commission, by affirmative vote of at least four members of the Commission, and pursuant to its rules and regulations and consistent with all pertinent provisions of any Federal statute shall promulgate and distribute to all courts of the United States and to the United States Probation System—
 
@@ -179,9 +179,9 @@ Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473
 
 **(D)** a determination whether multiple sentences to terms of imprisonment should be ordered to run concurrently or consecutively; and
 
-**(E)** a determination under paragraphs (6) and (11) 1
+**(E)** a determination under paragraphs (6) and (11) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of section 3563(b) of title 18;
 
@@ -207,9 +207,9 @@ of section 3563(b) of title 18;
 
 **(2)** If a sentence specified by the guidelines includes a term of imprisonment, the maximum of the range established for such a term shall not exceed the minimum of that range by more than the greater of 25 percent or 6 months, except that, if the minimum term of the range is 30 years or more, the maximum may be life imprisonment.
 
-**(c)** The Commission, in establishing categories of offenses for use in the guidelines and policy statements governing the imposition of sentences of probation, a fine, or imprisonment, governing the imposition of other authorized sanctions, governing the size of a fine or the length of a term of probation, imprisonment, or supervised release, and governing the conditions of probation, supervised release, or imprisonment, shall consider whether the following matters, among others, have any relevance to the nature, extent, place of service, or other incidents 2
+**(c)** The Commission, in establishing categories of offenses for use in the guidelines and policy statements governing the imposition of sentences of probation, a fine, or imprisonment, governing the imposition of other authorized sanctions, governing the size of a fine or the length of a term of probation, imprisonment, or supervised release, and governing the conditions of probation, supervised release, or imprisonment, shall consider whether the following matters, among others, have any relevance to the nature, extent, place of service, or other incidents 2
 
-<sup>2</sup>  So in original. Probably should be “incidence”.
+<sup>2</sup> So in original. Probably should be “incidence”.
 
 of an appropriate sentence, and shall take them into account only to the extent that they do have relevance—
 
@@ -227,7 +227,7 @@ of an appropriate sentence, and shall take them into account only to the extent 
 
 **(7)** the current incidence of the offense in the community and in the Nation as a whole.
 
-**(d)** The Commission in establishing categories of defendants for use in the guidelines and policy statements governing the imposition of sentences of probation, a fine, or imprisonment, governing the imposition of other authorized sanctions, governing the size of a fine or the length of a term of probation, imprisonment, or supervised release, and governing the conditions of probation, supervised release, or imprisonment, shall consider whether the following matters, among others, with respect to a defendant, have any relevance to the nature, extent, place of service, or other incidents <sup>2</sup> of an appropriate sentence, and shall take them into account only to the extent that they do have relevance—
+**(d)** The Commission in establishing categories of defendants for use in the guidelines and policy statements governing the imposition of sentences of probation, a fine, or imprisonment, governing the imposition of other authorized sanctions, governing the size of a fine or the length of a term of probation, imprisonment, or supervised release, and governing the conditions of probation, supervised release, or imprisonment, shall consider whether the following matters, among others, with respect to a defendant, have any relevance to the nature, extent, place of service, or other incidents <sup>2</sup> of an appropriate sentence, and shall take them into account only to the extent that they do have relevance—
 
 **(1)** age;
 
@@ -359,13 +359,13 @@ The information referred to in subparagraphs (A) through (F) shall be submitted 
 
 **(y)** The Commission, in promulgating guidelines pursuant to subsection (a)(1), may include, as a component of a fine, the expected costs to the Government of any imprisonment, supervised release, or probation sentence that is ordered.
 
-(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2019; amended Pub. L. 99–217, § 3, Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–363, § 2, July 11, 1986, 100 Stat. 770; Pub. L. 99–570, title I, §§ 1006(b), 1008, Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§ 6(b), 56, Nov. 10, 1986, 100 Stat. 3592, 3611; Pub. L. 100–182, §§ 16(b), 23, Dec. 7, 1987, 101 Stat. 1269, 1271; Pub. L. 100–690, title VII, §§ 7083, 7103(b), 7109, Nov. 18, 1988, 102 Stat. 4408, 4417, 4419; Pub. L. 103–322, title II, § 20403(b), title XXVIII, § 280005(c)(4), title XXXIII, § 330003(f)(1), Sept. 13, 1994, 108 Stat. 1825, 2097, 2141; Pub. L. 108–21, title IV, § 401(h), (k), Apr. 30, 2003, 117 Stat. 672, 674; Pub. L. 109–177, title VII, § 735, Mar. 9, 2006, 120 Stat. 271; Pub. L. 109–304, § 17(f)(1), Oct. 6, 2006, 120 Stat. 1708.)
+(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2019; amended Pub. L. 99–217, § 3, Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–363, § 2, July 11, 1986, 100 Stat. 770; Pub. L. 99–570, title I, §§ 1006(b), 1008, Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§ 6(b), 56, Nov. 10, 1986, 100 Stat. 3592, 3611; Pub. L. 100–182, §§ 16(b), 23, Dec. 7, 1987, 101 Stat. 1269, 1271; Pub. L. 100–690, title VII, §§ 7083, 7103(b), 7109, Nov. 18, 1988, 102 Stat. 4408, 4417, 4419; Pub. L. 103–322, title II, § 20403(b), title XXVIII, § 280005(c)(4), title XXXIII, § 330003(f)(1), Sept. 13, 1994, 108 Stat. 1825, 2097, 2141; Pub. L. 108–21, title IV, § 401(h), (k), Apr. 30, 2003, 117 Stat. 672, 674; Pub. L. 109–177, title VII, § 735, Mar. 9, 2006, 120 Stat. 271; Pub. L. 109–304, § 17(f)(1), Oct. 6, 2006, 120 Stat. 1708.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Paragraphs (6) and (11) of section 3563(b) of title 18, referred to in subsec. (a)(1)(E), were renumbered paragraphs (5) and (10), respectively, of section 3563(b) by Pub. L. 104–132, title II, § 203(2)(B), Apr. 24, 1996, 110 Stat. 1227.
+Paragraphs (6) and (11) of section 3563(b) of title 18, referred to in subsec. (a)(1)(E), were renumbered paragraphs (5) and (10), respectively, of section 3563(b) by Pub. L. 104–132, title II, § 203(2)(B), Apr. 24, 1996, 110 Stat. 1227.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (a)(2)(E), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
@@ -373,57 +373,57 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (a)(2)(E), are s
 
 2006—Subsec. (h)(1)(B), (2)(B). Pub. L. 109–304 substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
 
-Subsec. (w)(1). Pub. L. 109–177, § 735(1)(A), (C), inserted “, in a format approved and required by the Commission,” after “submits to the Commission” in introductory provisions and inserted concluding provisions.
+Subsec. (w)(1). Pub. L. 109–177, § 735(1)(A), (C), inserted “, in a format approved and required by the Commission,” after “submits to the Commission” in introductory provisions and inserted concluding provisions.
 
-Subsec. (w)(1)(B). Pub. L. 109–177, § 735(1)(B), inserted “written” before “statement of reasons for the sentence imposed” and “and which shall be stated on the written statement of reasons form issued by the Judicial Conference and approved by the United States Sentencing Commission” after “applicable guideline range”.
+Subsec. (w)(1)(B). Pub. L. 109–177, § 735(1)(B), inserted “written” before “statement of reasons for the sentence imposed” and “and which shall be stated on the written statement of reasons form issued by the Judicial Conference and approved by the United States Sentencing Commission” after “applicable guideline range”.
 
-Subsec. (w)(4). Pub. L. 109–177, § 735(2), substituted “itself may assemble or maintain in electronic form as a result of the” for “may assemble or maintain in electronic form that include any”.
+Subsec. (w)(4). Pub. L. 109–177, § 735(2), substituted “itself may assemble or maintain in electronic form as a result of the” for “may assemble or maintain in electronic form that include any”.
 
-2003—Subsec. (a). Pub. L. 108–21, § 401(k), substituted “consistent with all pertinent provisions of any Federal statute” for “consistent with all pertinent provisions of this title and title 18, United States Code,”.
+2003—Subsec. (a). Pub. L. 108–21, § 401(k), substituted “consistent with all pertinent provisions of any Federal statute” for “consistent with all pertinent provisions of this title and title 18, United States Code,”.
 
-Subsec. (w). Pub. L. 108–21, § 401(h), amended subsec. (w) generally. Prior to amendment, subsec. (w) read as follows: “The appropriate judge or officer shall submit to the Commission in connection with each sentence imposed (other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline) a written report of the sentence, the offense for which it is imposed, the age, race, and sex of the offender, information regarding factors made relevant by the guidelines, and such other information as the Commission finds appropriate. The Commission shall submit to Congress at least annually an analysis of these reports and any recommendations for legislation that the Commission concludes is warranted by that analysis.”
+Subsec. (w). Pub. L. 108–21, § 401(h), amended subsec. (w) generally. Prior to amendment, subsec. (w) read as follows: “The appropriate judge or officer shall submit to the Commission in connection with each sentence imposed (other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline) a written report of the sentence, the offense for which it is imposed, the age, race, and sex of the offender, information regarding factors made relevant by the guidelines, and such other information as the Commission finds appropriate. The Commission shall submit to Congress at least annually an analysis of these reports and any recommendations for legislation that the Commission concludes is warranted by that analysis.”
 
-1994—Subsec. (h)(1)(B), (2)(B). Pub. L. 103–322, § 330003(f)(1), substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “section 1 of the Act of September 15, 1980 (21 U.S.C. 955a)”.
+1994—Subsec. (h)(1)(B), (2)(B). Pub. L. 103–322, § 330003(f)(1), substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “section 1 of the Act of September 15, 1980 (21 U.S.C. 955a)”.
 
-Subsec. (i)(2). Pub. L. 103–322, § 280005(c)(4), substituted “the defendant” for “he” and “the defendant’s” for “his”.
+Subsec. (i)(2). Pub. L. 103–322, § 280005(c)(4), substituted “the defendant” for “he” and “the defendant’s” for “his”.
 
-Subsec. (y). Pub. L. 103–322, § 20403(b), added subsec. (y).
+Subsec. (y). Pub. L. 103–322, § 20403(b), added subsec. (y).
 
-1988—Subsec. (a)(1)(E). Pub. L. 100–690, § 7103(b), added subpar. (E).
+1988—Subsec. (a)(1)(E). Pub. L. 100–690, § 7103(b), added subpar. (E).
 
-Subsec. (n). Pub. L. 100–690, § 7083, substituted “as a minimum sentence” for “as minimum sentence”.
+Subsec. (n). Pub. L. 100–690, § 7083, substituted “as a minimum sentence” for “as minimum sentence”.
 
-Subsec. (p). Pub. L. 100–690, § 7109, amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: “The Commission, at or after the beginning of a regular session of Congress but not later than the first day of May, shall report to the Congress any amendments of the guidelines promulgated pursuant to subsection (a)(1), and a report of the reasons therefor, and the amended guidelines shall take effect one hundred and eighty days after the Commission reports them, except to the extent the effective date is enlarged or the guidelines are disapproved or modified by Act of Congress.”
+Subsec. (p). Pub. L. 100–690, § 7109, amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: “The Commission, at or after the beginning of a regular session of Congress but not later than the first day of May, shall report to the Congress any amendments of the guidelines promulgated pursuant to subsection (a)(1), and a report of the reasons therefor, and the amended guidelines shall take effect one hundred and eighty days after the Commission reports them, except to the extent the effective date is enlarged or the guidelines are disapproved or modified by Act of Congress.”
 
-1987—Subsec. (r). Pub. L. 100–182, § 23(a), substituted “two years” for “one year”.
+1987—Subsec. (r). Pub. L. 100–182, § 23(a), substituted “two years” for “one year”.
 
-Subsec. (s). Pub. L. 100–182, § 23(b), struck out at end: “Within one hundred and eighty days of the filing of such petition the Commission shall provide written notice to the defendant whether or not it has approved the petition. If the petition is disapproved the written notice shall contain the reasons for such disapproval. The Commission shall submit to the Congress at least annually an analysis of such written notices.”
+Subsec. (s). Pub. L. 100–182, § 23(b), struck out at end: “Within one hundred and eighty days of the filing of such petition the Commission shall provide written notice to the defendant whether or not it has approved the petition. If the petition is disapproved the written notice shall contain the reasons for such disapproval. The Commission shall submit to the Congress at least annually an analysis of such written notices.”
 
-Subsec. (w). Pub. L. 100–182, § 16(b), inserted “(other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline)” after “each sentence imposed”.
+Subsec. (w). Pub. L. 100–182, § 16(b), inserted “(other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline)” after “each sentence imposed”.
 
-1986—Subsec. (a)(2)(C). Pub. L. 99–363, § 2(1)(B), amended subpar. (C) generally, inserting “3564,” after “3563(c),”.
+1986—Subsec. (a)(2)(C). Pub. L. 99–363, § 2(1)(B), amended subpar. (C) generally, inserting “3564,” after “3563(c),”.
 
-Subsec. (a)(2)(D) to (F). Pub. L. 99–363, § 2(1)(A), (C), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+Subsec. (a)(2)(D) to (F). Pub. L. 99–363, § 2(1)(A), (C), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-Subsec. (a)(3). Pub. L. 99–570, § 1006(b), inserted “and revocation of supervised release” after “supervised release”.
+Subsec. (a)(3). Pub. L. 99–570, § 1006(b), inserted “and revocation of supervised release” after “supervised release”.
 
-Pub. L. 99–363, § 2(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “guidelines or general policy statements regarding the appropriate use of the probation revocation provisions set forth in section 3565 of title 18, and the provisions for modification of the term or conditions of probation or supervised release set forth in sections 3563(c), 3564(d), and 3583(e) of title 18.”
+Pub. L. 99–363, § 2(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “guidelines or general policy statements regarding the appropriate use of the probation revocation provisions set forth in section 3565 of title 18, and the provisions for modification of the term or conditions of probation or supervised release set forth in sections 3563(c), 3564(d), and 3583(e) of title 18.”
 
-Subsec. (b). Pub. L. 99–363, § 2(3), designated existing provisions as pars. (1) and (2), and in par. (2) substituted “the greater of 25 percent or 6 months, except that, if the maximum term of the range is 30 years or more, the maximum may be life imprisonment” for “25 per centum”.
+Subsec. (b). Pub. L. 99–363, § 2(3), designated existing provisions as pars. (1) and (2), and in par. (2) substituted “the greater of 25 percent or 6 months, except that, if the maximum term of the range is 30 years or more, the maximum may be life imprisonment” for “25 per centum”.
 
-Subsec. (b)(2). Pub. L. 99–646, § 56, substituted “that, if the minimum” for “that, if the maximum”.
+Subsec. (b)(2). Pub. L. 99–646, § 56, substituted “that, if the minimum” for “that, if the maximum”.
 
-Subsec. (h). Pub. L. 99–646, § 6(b)(1), (2), substituted “guidelines specify” for “guidelines will specify” and struck out “by section 3581(b) of title 18, United States Code,” after “term authorized” in introductory text.
+Subsec. (h). Pub. L. 99–646, § 6(b)(1), (2), substituted “guidelines specify” for “guidelines will specify” and struck out “by section 3581(b) of title 18, United States Code,” after “term authorized” in introductory text.
 
-Subsec. (i). Pub. L. 99–646, § 6(b)(2), substituted “guidelines specify” for “guidelines will specify”.
+Subsec. (i). Pub. L. 99–646, § 6(b)(2), substituted “guidelines specify” for “guidelines will specify”.
 
-Subsecs. (n) to (t). Pub. L. 99–570, § 1008(1), (2), added subsec. (n) and redesignated former subsecs. (n) to (t) as (*o*) to (u), respectively.
+Subsecs. (n) to (t). Pub. L. 99–570, § 1008(1), (2), added subsec. (n) and redesignated former subsecs. (n) to (t) as (*o*) to (u), respectively.
 
-Subsec. (u). Pub. L. 99–646, § 6(b)(3), which directed that subsec. (t) be amended by inserting “in what circumstances and” after “specify” and striking out “that are outside the applicable guideline ranges” after “terms of imprisonment”, was executed to subsec. (u) to reflect the probable intent of Congress and the intervening redesignation of subsec. (t) as (u) by Pub. L. 99–570.
+Subsec. (u). Pub. L. 99–646, § 6(b)(3), which directed that subsec. (t) be amended by inserting “in what circumstances and” after “specify” and striking out “that are outside the applicable guideline ranges” after “terms of imprisonment”, was executed to subsec. (u) to reflect the probable intent of Congress and the intervening redesignation of subsec. (t) as (u) by Pub. L. 99–570.
 
-Pub. L. 99–570, § 1008(2), redesignated subsec. (t) as (u).
+Pub. L. 99–570, § 1008(2), redesignated subsec. (t) as (u).
 
-Subsecs. (v) to (x). Pub. L. 99–570, § 1008(2), redesignated former subsecs. (u) to (w) as (v) to (x), respectively.
+Subsecs. (v) to (x). Pub. L. 99–570, § 1008(2), redesignated former subsecs. (u) to (w) as (v) to (x), respectively.
 
 1985—Subsec. (q). Pub. L. 99–217 substituted “not later than one year after the initial set of sentencing guidelines promulgated under subsection (a) goes into effect” for “within three years of the date of enactment of the Sentencing Reform Act of 1983”.
 
@@ -443,201 +443,201 @@ For termination, effective May 15, 2000, of provisions in subsec. (w) of this se
 
 **Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines**
 
-Pub. L. 119–60, div. H, title LXXXVI, § 8605(e), Dec. 18, 2025, 139 Stat. 1944; Pub. L. 119–75, div. I, § 5017, Feb. 3, 2026, 140 Stat. 631.—Increased penalties for all offenses involving the use of an unmanned aircraft.
+Pub. L. 119–60, div. H, title LXXXVI, § 8605(e), Dec. 18, 2025, 139 Stat. 1944; Pub. L. 119–75, div. I, § 5017, Feb. 3, 2026, 140 Stat. 631.—Increased penalties for all offenses involving the use of an unmanned aircraft.
 
-Pub. L. 117–159, div. A, title II, § 12004(a)(5), June 25, 2022, 136 Stat. 1328.—Increased penalties for an offense under section 932 or 933 of title 18 and other offenses applicable to the straw purchases and trafficking of firearms.
+Pub. L. 117–159, div. A, title II, § 12004(a)(5), June 25, 2022, 136 Stat. 1328.—Increased penalties for an offense under section 932 or 933 of title 18 and other offenses applicable to the straw purchases and trafficking of firearms.
 
-Pub. L. 112–269, § 3, Jan. 14, 2013, 126 Stat. 2442.—Transmission or attempted transmission of stolen trade secrets outside of the United States; economic espionage.
+Pub. L. 112–269, § 3, Jan. 14, 2013, 126 Stat. 2442.—Transmission or attempted transmission of stolen trade secrets outside of the United States; economic espionage.
 
-Pub. L. 112–206, § 3(b), Dec. 7, 2012, 126 Stat. 1492.—Higher penalties for sex crimes involving children and for harassment and intimidation in order to obstruct the administration of justice regarding such crimes.
+Pub. L. 112–206, § 3(b), Dec. 7, 2012, 126 Stat. 1492.—Higher penalties for sex crimes involving children and for harassment and intimidation in order to obstruct the administration of justice regarding such crimes.
 
-Pub. L. 112–186, § 7, Oct. 5, 2012, 126 Stat. 1430.—Theft of pre-retail medical products.
+Pub. L. 112–186, § 7, Oct. 5, 2012, 126 Stat. 1430.—Theft of pre-retail medical products.
 
-Pub. L. 112–144, title VII, § 717(b), July 9, 2012, 126 Stat. 1076.—Counterfeit drug trafficking.
+Pub. L. 112–144, title VII, § 717(b), July 9, 2012, 126 Stat. 1076.—Counterfeit drug trafficking.
 
-Pub. L. 111–273, § 4, Oct. 12, 2010, 124 Stat. 2860.—Drug offense resulting from authorization to receive scheduled substances from ultimate user or long-term care facility.
+Pub. L. 111–273, § 4, Oct. 12, 2010, 124 Stat. 2860.—Drug offense resulting from authorization to receive scheduled substances from ultimate user or long-term care facility.
 
-Pub. L. 111–220, §§ 5–8, Aug. 3, 2010, 124 Stat. 2373, 2374.—Violence during drug trafficking offenses; increased emphasis on defendant’s role; aggravating and mitigating factors.
+Pub. L. 111–220, §§ 5–8, Aug. 3, 2010, 124 Stat. 2373, 2374.—Violence during drug trafficking offenses; increased emphasis on defendant’s role; aggravating and mitigating factors.
 
-Pub. L. 111–203, title X, § 1079A(a), July 21, 2010, 124 Stat. 2077.—Securities fraud and financial institutions fraud.
+Pub. L. 111–203, title X, § 1079A(a), July 21, 2010, 124 Stat. 2077.—Securities fraud and financial institutions fraud.
 
-Pub. L. 111–148, title X, § 10606(a), Mar. 23, 2010, 124 Stat. 1006.—Health care fraud.
+Pub. L. 111–148, title X, § 10606(a), Mar. 23, 2010, 124 Stat. 1006.—Health care fraud.
 
-Pub. L. 110–457, title II, § 222(g), Dec. 23, 2008, 122 Stat. 5071.—Alien harboring in furtherance of prostitution.
+Pub. L. 110–457, title II, § 222(g), Dec. 23, 2008, 122 Stat. 5071.—Alien harboring in furtherance of prostitution.
 
-Pub. L. 110–425, § 3(k)(2), Oct. 15, 2008, 122 Stat. 4833.—Offenses involving dispensing of controlled substances by means of the Internet.
+Pub. L. 110–425, § 3(k)(2), Oct. 15, 2008, 122 Stat. 4833.—Offenses involving dispensing of controlled substances by means of the Internet.
 
-Pub. L. 110–407, title I, § 103, Oct. 13, 2008, 122 Stat. 4298.—Operating or embarking in a submersible or semi-submersible vessel without nationality.
+Pub. L. 110–407, title I, § 103, Oct. 13, 2008, 122 Stat. 4298.—Operating or embarking in a submersible or semi-submersible vessel without nationality.
 
 Pub. L. 110–384, Oct. 10, 2008, 122 Stat. 4094.—Desecration or theft of veterans’ grave markers.
 
-Pub. L. 110–326, title II, § 209, Sept. 26, 2008, 122 Stat. 3564.—Identity theft, computer fraud, illegal wiretapping, and unlawful access to stored information.
+Pub. L. 110–326, title II, § 209, Sept. 26, 2008, 122 Stat. 3564.—Identity theft, computer fraud, illegal wiretapping, and unlawful access to stored information.
 
-Pub. L. 110–179, § 5, Jan. 7, 2008, 121 Stat. 2557.—Fraud or theft in connection with major disasters or emergencies.
+Pub. L. 110–179, § 5, Jan. 7, 2008, 121 Stat. 2557.—Fraud or theft in connection with major disasters or emergencies.
 
-Pub. L. 110–177, title II, § 209, Jan. 7, 2008, 121 Stat. 2538.—Online threats against United States officials, judges, or law enforcement officers and immediate family members.
+Pub. L. 110–177, title II, § 209, Jan. 7, 2008, 121 Stat. 2538.—Online threats against United States officials, judges, or law enforcement officers and immediate family members.
 
-Pub. L. 109–476, § 4, Jan. 12, 2007, 120 Stat. 3571.—Fraud in obtaining confidential phone records information of covered entity.
+Pub. L. 109–476, § 4, Jan. 12, 2007, 120 Stat. 3571.—Fraud in obtaining confidential phone records information of covered entity.
 
-Pub. L. 109–295, title V, § 551(d), Oct. 4, 2006, 120 Stat. 1390; Pub. L. 110–161, div. E, title V, § 553(c), Dec. 26, 2007, 121 Stat. 2082.—Offenses involving border tunnels and passages.
+Pub. L. 109–295, title V, § 551(d), Oct. 4, 2006, 120 Stat. 1390; Pub. L. 110–161, div. E, title V, § 553(c), Dec. 26, 2007, 121 Stat. 2082.—Offenses involving border tunnels and passages.
 
-Pub. L. 109–248, title I, § 141(b), July 27, 2006, 120 Stat. 602.—Offenses committed by person who fails to register as sex offender.
+Pub. L. 109–248, title I, § 141(b), July 27, 2006, 120 Stat. 602.—Offenses committed by person who fails to register as sex offender.
 
-Pub. L. 109–181, § 1(c), Mar. 16, 2006, 120 Stat. 287.—Trafficking in counterfeit goods, services, labels, documentation, and packaging.
+Pub. L. 109–181, § 1(c), Mar. 16, 2006, 120 Stat. 287.—Trafficking in counterfeit goods, services, labels, documentation, and packaging.
 
-Pub. L. 109–177, title III, § 307(c), Mar. 9, 2006, 120 Stat. 240.—Theft of interstate and foreign shipments.
+Pub. L. 109–177, title III, § 307(c), Mar. 9, 2006, 120 Stat. 240.—Theft of interstate and foreign shipments.
 
-Pub. L. 109–162, title XI, § 1191(c), Jan. 5, 2006, 119 Stat. 3129.—Offenses committed while wearing illicitly received public employee insignia or uniform.
+Pub. L. 109–162, title XI, § 1191(c), Jan. 5, 2006, 119 Stat. 3129.—Offenses committed while wearing illicitly received public employee insignia or uniform.
 
-Pub. L. 109–76, § 3, Sept. 29, 2005, 119 Stat. 2035.—False testimony and obstruction of justice involving international or domestic terrorism or anabolic steroids.
+Pub. L. 109–76, § 3, Sept. 29, 2005, 119 Stat. 2035.—False testimony and obstruction of justice involving international or domestic terrorism or anabolic steroids.
 
-Pub. L. 109–9, title I, § 105, Apr. 27, 2005, 119 Stat. 222.—Intellectual property rights crimes.
+Pub. L. 109–9, title I, § 105, Apr. 27, 2005, 119 Stat. 222.—Intellectual property rights crimes.
 
-Pub. L. 108–482, title II, § 204(b), Dec. 23, 2004, 118 Stat. 3917.—Online felony offenses involving use of a domain name registered with materially false contact information.
+Pub. L. 108–482, title II, § 204(b), Dec. 23, 2004, 118 Stat. 3917.—Online felony offenses involving use of a domain name registered with materially false contact information.
 
-Pub. L. 108–458, title VI, § 6703(b), Dec. 17, 2004, 118 Stat. 3766.—False testimony and obstruction of justice involving international or domestic terrorism.
+Pub. L. 108–458, title VI, § 6703(b), Dec. 17, 2004, 118 Stat. 3766.—False testimony and obstruction of justice involving international or domestic terrorism.
 
-Pub. L. 108–358, § 3, Oct. 22, 2004, 118 Stat. 1664.—Offenses involving anabolic steroids.
+Pub. L. 108–358, § 3, Oct. 22, 2004, 118 Stat. 1664.—Offenses involving anabolic steroids.
 
-Pub. L. 108–275, § 5, July 15, 2004, 118 Stat. 833.—Identity theft involving abuse of authority.
+Pub. L. 108–275, § 5, July 15, 2004, 118 Stat. 833.—Identity theft involving abuse of authority.
 
-Pub. L. 108–187, § 4(b), Dec. 16, 2003, 117 Stat. 2705.—Fraud and related activity in connection with electronic mail.
+Pub. L. 108–187, § 4(b), Dec. 16, 2003, 117 Stat. 2705.—Fraud and related activity in connection with electronic mail.
 
-Pub. L. 108–21, title I, § 104(a), Apr. 30, 2003, 117 Stat. 653.—Kidnapping.
+Pub. L. 108–21, title I, § 104(a), Apr. 30, 2003, 117 Stat. 653.—Kidnapping.
 
-Pub. L. 108–21, title IV, § 401(b), (g), (i), (j)(1)–(4), (m), Apr. 30, 2003, 117 Stat. 668, 671–673, 675.—Child crimes and sexual offenses, child pornography, downward departures, and acceptance of responsibility.
+Pub. L. 108–21, title IV, § 401(b), (g), (i), (j)(1)–(4), (m), Apr. 30, 2003, 117 Stat. 668, 671–673, 675.—Child crimes and sexual offenses, child pornography, downward departures, and acceptance of responsibility.
 
-Pub. L. 108–21, title V, § 504(c)(2), Apr. 30, 2003, 117 Stat. 682.—Obscene visual representations of the sexual abuse of children.
+Pub. L. 108–21, title V, § 504(c)(2), Apr. 30, 2003, 117 Stat. 682.—Obscene visual representations of the sexual abuse of children.
 
-Pub. L. 108–21, title V, § 512, Apr. 30, 2003, 117 Stat. 685.—Interstate travel to engage in sexual act with a juvenile.
+Pub. L. 108–21, title V, § 512, Apr. 30, 2003, 117 Stat. 685.—Interstate travel to engage in sexual act with a juvenile.
 
-Pub. L. 108–21, title V, § 513(c), Apr. 30, 2003, 117 Stat. 685.—Activities relating to material constituting or containing child pornography.
+Pub. L. 108–21, title V, § 513(c), Apr. 30, 2003, 117 Stat. 685.—Activities relating to material constituting or containing child pornography.
 
-Pub. L. 108–21, title VI, § 608(e), Apr. 30, 2003, 117 Stat. 691.—Offenses involving gamma hydroxybutyric acid (GHB).
+Pub. L. 108–21, title VI, § 608(e), Apr. 30, 2003, 117 Stat. 691.—Offenses involving gamma hydroxybutyric acid (GHB).
 
-Pub. L. 107–296, title XXII, § 2207(b), formerly title II, § 225(b), Nov. 25, 2002, 116 Stat. 2156, renumbered title XXII, § 2207(b), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178.—Computer fraud.
+Pub. L. 107–296, title XXII, § 2207(b), formerly title II, § 225(b), Nov. 25, 2002, 116 Stat. 2156, renumbered title XXII, § 2207(b), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178.—Computer fraud.
 
-Pub. L. 107–273, div. C, title I, § 11008(e), Nov. 2, 2002, 116 Stat. 1819.—Assaults and threats against Federal judges and certain other Federal officials and employees.
+Pub. L. 107–273, div. C, title I, § 11008(e), Nov. 2, 2002, 116 Stat. 1819.—Assaults and threats against Federal judges and certain other Federal officials and employees.
 
-Pub. L. 107–204, title VIII, § 805, July 30, 2002, 116 Stat. 802.—Obstruction of justice and extensive criminal fraud.
+Pub. L. 107–204, title VIII, § 805, July 30, 2002, 116 Stat. 802.—Obstruction of justice and extensive criminal fraud.
 
-Pub. L. 107–204, title IX, § 905, July 30, 2002, 116 Stat. 805.—Certain white collar offenses.
+Pub. L. 107–204, title IX, § 905, July 30, 2002, 116 Stat. 805.—Certain white collar offenses.
 
-Pub. L. 107–204, title XI, § 1104, July 30, 2002, 116 Stat. 808.—Securities and accounting fraud and related offenses.
+Pub. L. 107–204, title XI, § 1104, July 30, 2002, 116 Stat. 808.—Securities and accounting fraud and related offenses.
 
-Pub. L. 107–155, title III, § 314, Mar. 27, 2002, 116 Stat. 107.—Violations of Federal Election Campaign Act of 1971 and related election laws.
+Pub. L. 107–155, title III, § 314, Mar. 27, 2002, 116 Stat. 107.—Violations of Federal Election Campaign Act of 1971 and related election laws.
 
-Pub. L. 107–56, title VIII, § 814(f), Oct. 26, 2001, 115 Stat. 384.—Computer fraud and abuse.
+Pub. L. 107–56, title VIII, § 814(f), Oct. 26, 2001, 115 Stat. 384.—Computer fraud and abuse.
 
-Pub. L. 106–420, § 3, Nov. 1, 2000, 114 Stat. 1868.—Higher education financial assistance fraud.
+Pub. L. 106–420, § 3, Nov. 1, 2000, 114 Stat. 1868.—Higher education financial assistance fraud.
 
-Pub. L. 106–386, div. B, title I, § 1107(b)(2), Oct. 28, 2000, 114 Stat. 1498.—Interstate stalking.
+Pub. L. 106–386, div. B, title I, § 1107(b)(2), Oct. 28, 2000, 114 Stat. 1498.—Interstate stalking.
 
-Pub. L. 106–310, div. B, title XXXVI, § 3611, Oct. 17, 2000, 114 Stat. 1228.—Manufacture of and trafficking in amphetamine.
+Pub. L. 106–310, div. B, title XXXVI, § 3611, Oct. 17, 2000, 114 Stat. 1228.—Manufacture of and trafficking in amphetamine.
 
-Pub. L. 106–310, div. B, title XXXVI, § 3612, Oct. 17, 2000, 114 Stat. 1228.—Manufacture of amphetamine or methamphetamine.
+Pub. L. 106–310, div. B, title XXXVI, § 3612, Oct. 17, 2000, 114 Stat. 1228.—Manufacture of amphetamine or methamphetamine.
 
-Pub. L. 106–310, div. B, title XXXVI, § 3651, Oct. 17, 2000, 114 Stat. 1238.—Trafficking in list I chemicals.
+Pub. L. 106–310, div. B, title XXXVI, § 3651, Oct. 17, 2000, 114 Stat. 1238.—Trafficking in list I chemicals.
 
-Pub. L. 106–310, div. B, title XXXVI, §§ 3663, 3664, Oct. 17, 2000, 114 Stat. 1242, 1244.—Manufacture of or trafficking in Ecstasy.
+Pub. L. 106–310, div. B, title XXXVI, §§ 3663, 3664, Oct. 17, 2000, 114 Stat. 1242, 1244.—Manufacture of or trafficking in Ecstasy.
 
-Pub. L. 106–160, § 3, Dec. 9, 1999, 113 Stat. 1774.—Electronic theft offenses.
+Pub. L. 106–160, § 3, Dec. 9, 1999, 113 Stat. 1774.—Electronic theft offenses.
 
-Pub. L. 105–318, § 4, Oct. 30, 1998, 112 Stat. 3009.—Fraud and related activity in connection with identification documents and information.
+Pub. L. 105–318, § 4, Oct. 30, 1998, 112 Stat. 3009.—Fraud and related activity in connection with identification documents and information.
 
 Pub. L. 105–314, title V, Oct. 30, 1998, 112 Stat. 2980.—Sexual abuse, transportation for illegal sexual activity, and distribution of pornography.
 
-Pub. L. 105–184, § 6, June 23, 1998, 112 Stat. 521.—Telemarketing fraud.
+Pub. L. 105–184, § 6, June 23, 1998, 112 Stat. 521.—Telemarketing fraud.
 
-Pub. L. 105–172, § 2(e), Apr. 24, 1998, 112 Stat. 55.—Wireless telephone cloning.
+Pub. L. 105–172, § 2(e), Apr. 24, 1998, 112 Stat. 55.—Wireless telephone cloning.
 
-Pub. L. 105–147, § 2(g), Dec. 16, 1997, 111 Stat. 2680.—Crimes against intellectual property.
+Pub. L. 105–147, § 2(g), Dec. 16, 1997, 111 Stat. 2680.—Crimes against intellectual property.
 
-Pub. L. 105–101, Nov. 19, 1997, 111 Stat. 2202; Pub. L. 105–368, title IV, § 403(d)(1), Nov. 11, 1998, 112 Stat. 3339.—Offenses against property at national cemeteries.
+Pub. L. 105–101, Nov. 19, 1997, 111 Stat. 2202; Pub. L. 105–368, title IV, § 403(d)(1), Nov. 11, 1998, 112 Stat. 3339.—Offenses against property at national cemeteries.
 
-Pub. L. 104–305, § 2(b)(3), Oct. 13, 1996, 110 Stat. 3808.—Offenses involving flunitrazepam.
+Pub. L. 104–305, § 2(b)(3), Oct. 13, 1996, 110 Stat. 3808.—Offenses involving flunitrazepam.
 
-Pub. L. 104–237, title II, § 203(b), Oct. 3, 1996, 110 Stat. 3102.—Manufacture of methamphetamine.
+Pub. L. 104–237, title II, § 203(b), Oct. 3, 1996, 110 Stat. 3102.—Manufacture of methamphetamine.
 
-Pub. L. 104–237, title III, § 301, Oct. 3, 1996, 110 Stat. 3105.—Manufacture of and trafficking in methamphetamine.
+Pub. L. 104–237, title III, § 301, Oct. 3, 1996, 110 Stat. 3105.—Manufacture of and trafficking in methamphetamine.
 
-Pub. L. 104–237, title III, § 302(c), Oct. 3, 1996, 110 Stat. 3105.—Offenses involving list I chemicals.
+Pub. L. 104–237, title III, § 302(c), Oct. 3, 1996, 110 Stat. 3105.—Offenses involving list I chemicals.
 
-Pub. L. 104–237, title III, § 303, Oct. 3, 1996, 110 Stat. 3106.—Dangerous handling of controlled substances.
+Pub. L. 104–237, title III, § 303, Oct. 3, 1996, 110 Stat. 3106.—Dangerous handling of controlled substances.
 
-Pub. L. 104–208, div. C, title II, § 203(e), Sept. 30, 1996, 110 Stat. 3009–566.—Smuggling, transporting, harboring, and inducing aliens.
+Pub. L. 104–208, div. C, title II, § 203(e), Sept. 30, 1996, 110 Stat. 3009–566.—Smuggling, transporting, harboring, and inducing aliens.
 
-Pub. L. 104–208, div. C, title II, § 211(b), Sept. 30, 1996, 110 Stat. 3009–569.—Fraudulent acquisition and use of government-issued documents.
+Pub. L. 104–208, div. C, title II, § 211(b), Sept. 30, 1996, 110 Stat. 3009–569.—Fraudulent acquisition and use of government-issued documents.
 
-Pub. L. 104–208, div. C, title II, § 218(b), (c), Sept. 30, 1996, 110 Stat. 3009–573, 3009–574.—Involuntary servitude.
+Pub. L. 104–208, div. C, title II, § 218(b), (c), Sept. 30, 1996, 110 Stat. 3009–573, 3009–574.—Involuntary servitude.
 
-Pub. L. 104–208, div. C, title III, § 333, Sept. 30, 1996, 110 Stat. 3009–634.—Conspiring with or assisting an alien to import, export, possess, manufacture, or distribute a controlled substance.
+Pub. L. 104–208, div. C, title III, § 333, Sept. 30, 1996, 110 Stat. 3009–634.—Conspiring with or assisting an alien to import, export, possess, manufacture, or distribute a controlled substance.
 
-Pub. L. 104–208, div. C, title III, § 334, Sept. 30, 1996, 110 Stat. 3009–635.—Failure to depart, illegal reentry, and passport and visa fraud.
+Pub. L. 104–208, div. C, title III, § 334, Sept. 30, 1996, 110 Stat. 3009–635.—Failure to depart, illegal reentry, and passport and visa fraud.
 
-Pub. L. 104–201, div. A, title XIV, § 1423, Sept. 23, 1996, 110 Stat. 2725; Pub. L. 105–261, div. A, title X, § 1069(c)(1), Oct. 17, 1998, 112 Stat. 2136.—Offenses relating to importation and exportation of nuclear, biological, or chemical weapons or technologies.
+Pub. L. 104–201, div. A, title XIV, § 1423, Sept. 23, 1996, 110 Stat. 2725; Pub. L. 105–261, div. A, title X, § 1069(c)(1), Oct. 17, 1998, 112 Stat. 2136.—Offenses relating to importation and exportation of nuclear, biological, or chemical weapons or technologies.
 
-Pub. L. 104–132, title II, § 208, Apr. 24, 1996, 110 Stat. 1240.—Mandatory victim restitution.
+Pub. L. 104–132, title II, § 208, Apr. 24, 1996, 110 Stat. 1240.—Mandatory victim restitution.
 
-Pub. L. 104–132, title VII, § 730, Apr. 24, 1996, 110 Stat. 1303.—International terrorism.
+Pub. L. 104–132, title VII, § 730, Apr. 24, 1996, 110 Stat. 1303.—International terrorism.
 
-Pub. L. 104–132, title VIII, § 805, Apr. 24, 1996, 110 Stat. 1305.—Terrorist activity damaging Federal interest computer.
+Pub. L. 104–132, title VIII, § 805, Apr. 24, 1996, 110 Stat. 1305.—Terrorist activity damaging Federal interest computer.
 
-Pub. L. 104–132, title VIII, § 807(h), Apr. 24, 1996, 110 Stat. 1308.—International counterfeiting of United States currency.
+Pub. L. 104–132, title VIII, § 807(h), Apr. 24, 1996, 110 Stat. 1308.—International counterfeiting of United States currency.
 
-Pub. L. 104–71, §§ 1–4, Dec. 23, 1995, 109 Stat. 774.—Sex crimes against children.
+Pub. L. 104–71, §§ 1–4, Dec. 23, 1995, 109 Stat. 774.—Sex crimes against children.
 
-Pub. L. 103–322, title IV, § 40111(b), Sept. 13, 1994, 108 Stat. 1903.—Sexual abuse by repeat sex offender.
+Pub. L. 103–322, title IV, § 40111(b), Sept. 13, 1994, 108 Stat. 1903.—Sexual abuse by repeat sex offender.
 
-Pub. L. 103–322, title IV, § 40112, Sept. 13, 1994, 108 Stat. 1903.—Aggravated sexual abuse or sexual abuse.
+Pub. L. 103–322, title IV, § 40112, Sept. 13, 1994, 108 Stat. 1903.—Aggravated sexual abuse or sexual abuse.
 
-Pub. L. 103–322, title IV, § 40503(c), Sept. 13, 1994, 108 Stat. 1947.—Intentional transmission of HIV.
+Pub. L. 103–322, title IV, § 40503(c), Sept. 13, 1994, 108 Stat. 1947.—Intentional transmission of HIV.
 
-Pub. L. 103–322, title VIII, § 80001(b), Sept. 13, 1994, 108 Stat. 1986.—Importing, exporting, possessing, manufacturing, and distributing a controlled substance.
+Pub. L. 103–322, title VIII, § 80001(b), Sept. 13, 1994, 108 Stat. 1986.—Importing, exporting, possessing, manufacturing, and distributing a controlled substance.
 
-Pub. L. 103–322, title IX, § 90102, Sept. 13, 1994, 108 Stat. 1987.—Drug-dealing in “drug-free” zones.
+Pub. L. 103–322, title IX, § 90102, Sept. 13, 1994, 108 Stat. 1987.—Drug-dealing in “drug-free” zones.
 
-Pub. L. 103–322, title IX, § 90103(b), Sept. 13, 1994, 108 Stat. 1987.—Use or distribution of illegal drugs in the Federal prisons.
+Pub. L. 103–322, title IX, § 90103(b), Sept. 13, 1994, 108 Stat. 1987.—Use or distribution of illegal drugs in the Federal prisons.
 
-Pub. L. 103–322, title XI, § 110501, Sept. 13, 1994, 108 Stat. 2015.—Use of semiautomatic firearm during crime of violence or drug trafficking.
+Pub. L. 103–322, title XI, § 110501, Sept. 13, 1994, 108 Stat. 2015.—Use of semiautomatic firearm during crime of violence or drug trafficking.
 
-Pub. L. 103–322, title XI, § 110502, Sept. 13, 1994, 108 Stat. 2015.—Second offense of using explosive to commit felony.
+Pub. L. 103–322, title XI, § 110502, Sept. 13, 1994, 108 Stat. 2015.—Second offense of using explosive to commit felony.
 
-Pub. L. 103–322, title XI, § 110512, Sept. 13, 1994, 108 Stat. 2019.—Using firearm in commission of counterfeiting or forgery.
+Pub. L. 103–322, title XI, § 110512, Sept. 13, 1994, 108 Stat. 2019.—Using firearm in commission of counterfeiting or forgery.
 
-Pub. L. 103–322, title XI, § 110513, Sept. 13, 1994, 108 Stat. 2019.—Firearms possession by violent felons and serious drug offenders.
+Pub. L. 103–322, title XI, § 110513, Sept. 13, 1994, 108 Stat. 2019.—Firearms possession by violent felons and serious drug offenders.
 
-Pub. L. 103–322, title XII, § 120004, Sept. 13, 1994, 108 Stat. 2022.—Felonies promoting international terrorism.
+Pub. L. 103–322, title XII, § 120004, Sept. 13, 1994, 108 Stat. 2022.—Felonies promoting international terrorism.
 
-Pub. L. 103–322, title XIV, § 140008, Sept. 13, 1994, 108 Stat. 2033.—Solicitation of minor to commit crime.
+Pub. L. 103–322, title XIV, § 140008, Sept. 13, 1994, 108 Stat. 2033.—Solicitation of minor to commit crime.
 
-Pub. L. 103–322, title XVIII, § 180201(c), Sept. 13, 1994, 108 Stat. 2047.—Possession or distribution of drugs at truck stops or safety rest areas.
+Pub. L. 103–322, title XVIII, § 180201(c), Sept. 13, 1994, 108 Stat. 2047.—Possession or distribution of drugs at truck stops or safety rest areas.
 
-Pub. L. 103–322, title XXIV, § 240002, Sept. 13, 1994, 108 Stat. 2081.—Crimes against elderly victims.
+Pub. L. 103–322, title XXIV, § 240002, Sept. 13, 1994, 108 Stat. 2081.—Crimes against elderly victims.
 
-Pub. L. 103–322, title XXV, § 250003, Sept. 13, 1994, 108 Stat. 2085.—Fraud against older victims.
+Pub. L. 103–322, title XXV, § 250003, Sept. 13, 1994, 108 Stat. 2085.—Fraud against older victims.
 
-Pub. L. 103–322, title XXVIII, § 280003, Sept. 13, 1994, 108 Stat. 2096; Pub. L. 111–84, div. E, § 4703(a), Oct. 28, 2009, 123 Stat. 2836.—Hate crimes.
+Pub. L. 103–322, title XXVIII, § 280003, Sept. 13, 1994, 108 Stat. 2096; Pub. L. 111–84, div. E, § 4703(a), Oct. 28, 2009, 123 Stat. 2836.—Hate crimes.
 
-Pub. L. 102–141, title VI, § 632, Oct. 28, 1991, 105 Stat. 876.—Sexual abuse or exploitation of minors.
+Pub. L. 102–141, title VI, § 632, Oct. 28, 1991, 105 Stat. 876.—Sexual abuse or exploitation of minors.
 
-Pub. L. 101–647, title III, § 321, Nov. 29, 1990, 104 Stat. 4817.—Sexual crimes against children.
+Pub. L. 101–647, title III, § 321, Nov. 29, 1990, 104 Stat. 4817.—Sexual crimes against children.
 
-Pub. L. 101–647, title XXV, § 2507, Nov. 29, 1990, 104 Stat. 4862.—Major bank crimes.
+Pub. L. 101–647, title XXV, § 2507, Nov. 29, 1990, 104 Stat. 4862.—Major bank crimes.
 
-Pub. L. 101–647, title XXVII, § 2701, Nov. 29, 1990, 104 Stat. 4912.—Methamphetamine offenses.
+Pub. L. 101–647, title XXVII, § 2701, Nov. 29, 1990, 104 Stat. 4912.—Methamphetamine offenses.
 
-Pub. L. 101–73, title IX, § 961(m), Aug. 9, 1989, 103 Stat. 501.—Offenses substantially jeopardizing safety and soundness of federally insured financial institutions.
+Pub. L. 101–73, title IX, § 961(m), Aug. 9, 1989, 103 Stat. 501.—Offenses substantially jeopardizing safety and soundness of federally insured financial institutions.
 
-Pub. L. 100–700, § 2(b), Nov. 19, 1988, 102 Stat. 4631.—Major fraud against the United States.
+Pub. L. 100–700, § 2(b), Nov. 19, 1988, 102 Stat. 4631.—Major fraud against the United States.
 
-Pub. L. 100–690, title VI, § 6453, Nov. 18, 1988, 102 Stat. 4371.—Importation of controlled substances by aircraft and other vessels.
+Pub. L. 100–690, title VI, § 6453, Nov. 18, 1988, 102 Stat. 4371.—Importation of controlled substances by aircraft and other vessels.
 
-Pub. L. 100–690, title VI, § 6454, Nov. 18, 1988, 102 Stat. 4372.—Drug offenses involving children.
+Pub. L. 100–690, title VI, § 6454, Nov. 18, 1988, 102 Stat. 4372.—Drug offenses involving children.
 
-Pub. L. 100–690, title VI, § 6468(c), (d), Nov. 18, 1988, 102 Stat. 4376.—Drug offenses within Federal prisons.
+Pub. L. 100–690, title VI, § 6468(c), (d), Nov. 18, 1988, 102 Stat. 4376.—Drug offenses within Federal prisons.
 
-Pub. L. 100–690, title VI, § 6482(c), Nov. 18, 1988, 102 Stat. 4382.—Common carrier operation under influence of alcohol or drugs.
+Pub. L. 100–690, title VI, § 6482(c), Nov. 18, 1988, 102 Stat. 4382.—Common carrier operation under influence of alcohol or drugs.
 
 **Cocaine and Crack Sentences and Sentences for Money Laundering and Other Unlawful Activity; Reduction of Sentencing Disparities**
 
@@ -669,9 +669,9 @@ Sentencing guidelines promulgated pursuant to this section effective when U.S. S
 
 **Studies of Impact and Operation of Sentencing Guideline System; Reporting Requirements**
 
-Pub. L. 98–473, title II, § 236, Oct. 12, 1984, 98 Stat. 2033, provided that, four years after the sentencing guidelines promulgated pursuant to section 994(a)(1) of this title and sections 3581, 3583, and 3624 of title 18 went into effect, the General Accounting Office was to undertake a study of the guidelines to determine their impact and compare the guidelines system with the operation of the previous sentencing and parole release system, and, within six months of such undertaking, report the results to Congress; provided that, within one month of the start of the study, the United States Sentencing Commission was to submit a report detailing the operation of the sentencing guideline system and discussing any problems with the system or reforms needed; and provided that Congress was to review the study.
+Pub. L. 98–473, title II, § 236, Oct. 12, 1984, 98 Stat. 2033, provided that, four years after the sentencing guidelines promulgated pursuant to section 994(a)(1) of this title and sections 3581, 3583, and 3624 of title 18 went into effect, the General Accounting Office was to undertake a study of the guidelines to determine their impact and compare the guidelines system with the operation of the previous sentencing and parole release system, and, within six months of such undertaking, report the results to Congress; provided that, within one month of the start of the study, the United States Sentencing Commission was to submit a report detailing the operation of the sentencing guideline system and discussing any problems with the system or reforms needed; and provided that Congress was to review the study.
 
-## § 995. Powers of the Commission
+## § 995. Powers of the Commission
 
 **(a)** The Commission, by vote of a majority of the members present and voting, shall have the power to—
 
@@ -735,41 +735,41 @@ Pub. L. 98–473, title II, § 236, Oct. 12, 1984, 98 Stat. 2033, provided tha
 
 **(e)** Except as otherwise provided by law, the Commission shall maintain and make available for public inspection a record of the final vote of each member on any action taken by it.
 
-(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2024; amended Pub. L. 100–690, title VII, §§ 7104, 7105, 7106(b), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–650, title III, § 325(b)(5), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 103–322, title XXVIII, § 280005(c)(1), Sept. 13, 1994, 108 Stat. 2097; Pub. L. 110–177, title V, § 501(a), Jan. 7, 2008, 121 Stat. 2541.)
+(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2024; amended Pub. L. 100–690, title VII, §§ 7104, 7105, 7106(b), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–650, title III, § 325(b)(5), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 103–322, title XXVIII, § 280005(c)(1), Sept. 13, 1994, 108 Stat. 2097; Pub. L. 110–177, title V, § 501(a), Jan. 7, 2008, 121 Stat. 2541.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (f). Pub. L. 110–177, § 501, temporarily added subsec. (f). See Termination Date of 2008 Amendment note below.
+2008—Subsec. (f). Pub. L. 110–177, § 501, temporarily added subsec. (f). See Termination Date of 2008 Amendment note below.
 
 1994—Subsec. (a)(3). Pub. L. 103–322 substituted “Chair” for “Chairman”.
 
 1990—Subsec. (a)(22). Pub. L. 101–650 struck out “and” after semicolon at end.
 
-1988—Subsec. (a)(2). Pub. L. 100–690, § 7105, substituted “Level 6 of the Senior Executive Service Schedule (5 U.S.C. 5382)” for “grade 18 of the General Schedule pay rates (5 U.S.C. 5332)”.
+1988—Subsec. (a)(2). Pub. L. 100–690, § 7105, substituted “Level 6 of the Senior Executive Service Schedule (5 U.S.C. 5382)” for “grade 18 of the General Schedule pay rates (5 U.S.C. 5332)”.
 
-Subsec. (a)(23). Pub. L. 100–690, § 7104, added par. (23).
+Subsec. (a)(23). Pub. L. 100–690, § 7104, added par. (23).
 
-Subsec. (a)(24). Pub. L. 100–690, § 7106(b), added par. (24).
+Subsec. (a)(24). Pub. L. 100–690, § 7106(b), added par. (24).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Termination Date of 2008 Amendment**
 
-Pub. L. 110–177, title V, § 501(b), Jan. 7, 2008, 121 Stat. 2542, provided that: “The amendment made by subsection (a) [amending this section] shall cease to have force and effect on September 30, 2010.”
+Pub. L. 110–177, title V, § 501(b), Jan. 7, 2008, 121 Stat. 2542, provided that: “The amendment made by subsection (a) [amending this section] shall cease to have force and effect on September 30, 2010.”
 
 **Effective Date**
 
 Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an Effective Date; Savings Provision note under section 3551 of Title 18, Crimes and Criminal Procedure.
 
-## § 996. Director and staff
+## § 996. Director and staff
 
 **(a)** The Staff Director shall supervise the activities of persons employed by the Commission and perform other duties assigned to the Staff Director by the Commission.
 
 **(b)** The Staff Director shall, subject to the approval of the Commission, appoint such officers and employees as are necessary in the execution of the functions of the Commission. The officers and employees of the Commission shall be exempt from the provisions of part III of title 5, except the following: chapters 45 (Incentive Awards), 63 (Leave), 81 (Compensation for Work Injuries), 83 (Retirement), 84 (Federal Employees’ Retirement System), 85 (Unemployment Compensation), 87 (Life Insurance), and 89 (Health Insurance), and subchapter VI of chapter 55 (Payment for accumulated and accrued leave).
 
-(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2026; amended Pub. L. 100–690, title VII, § 7106(c), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–650, title III, § 325(b)(6), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 103–322, title XXVIII, § 280005(c)(5), Sept. 13, 1994, 108 Stat. 2097; Pub. L. 106–518, title III, § 302(a), Nov. 13, 2000, 114 Stat. 2416; Pub. L. 117–328, div. E, title III, § 308, Dec. 29, 2022, 136 Stat. 4672.)
+(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2026; amended Pub. L. 100–690, title VII, § 7106(c), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–650, title III, § 325(b)(6), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 103–322, title XXVIII, § 280005(c)(5), Sept. 13, 1994, 108 Stat. 2097; Pub. L. 106–518, title III, § 302(a), Nov. 13, 2000, 114 Stat. 2416; Pub. L. 117–328, div. E, title III, § 308, Dec. 29, 2022, 136 Stat. 4672.)
 
 **Editorial Notes**
 
@@ -793,13 +793,13 @@ Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473
 
 **Savings Provision**
 
-Pub. L. 106–518, title III, § 302(b), Nov. 13, 2000, 114 Stat. 2417, provided that: “Any leave that an individual accrued or accumulated (or that otherwise became available to such individual) under the leave system of the United States Sentencing Commission and that remains unused as of the date of the enactment of this Act [Nov. 13, 2000] shall, on and after such date, be treated as leave accrued or accumulated (or that otherwise became available to such individual) under chapter 63 of title 5, United States Code.”
+Pub. L. 106–518, title III, § 302(b), Nov. 13, 2000, 114 Stat. 2417, provided that: “Any leave that an individual accrued or accumulated (or that otherwise became available to such individual) under the leave system of the United States Sentencing Commission and that remains unused as of the date of the enactment of this Act [Nov. 13, 2000] shall, on and after such date, be treated as leave accrued or accumulated (or that otherwise became available to such individual) under chapter 63 of title 5, United States Code.”
 
-## § 997. Annual report
+## § 997. Annual report
 
 The Commission shall report annually to the Judicial Conference of the United States, the Congress, and the President of the United States on the activities of the Commission.
 
-(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2026.)
+(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2026.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -811,7 +811,7 @@ Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473
 
 For termination, effective May 15, 2000, of provisions in this section relating to requirement to report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
-## § 998. Definitions
+## § 998. Definitions
 
 As used in this chapter—
 
@@ -823,7 +823,7 @@ As used in this chapter—
 
 **(d)** “rules and regulations” means rules and regulations promulgated by the Commission pursuant to section 995 of this title.
 
-(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2026.)
+(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2026.)
 
 **Statutory Notes and Related Subsidiaries**
 

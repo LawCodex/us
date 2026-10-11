@@ -19,113 +19,113 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title IX, § 901(b), title XVII, § 1701(a)(3)(A), Dec. 18, 2025, 139 Stat. 1007, 1207, substituted “Improvement Officer” for “improvement officer” in item 132a and struck out item 147 “Chief Diversity Officer”. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title IX, § 901(b), title XVII, § 1701(a)(3)(A), Dec. 18, 2025, 139 Stat. 1007, 1207, substituted “Improvement Officer” for “improvement officer” in item 132a and struck out item 147 “Chief Diversity Officer”. Amendments were made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title IX, § 902(a), Dec. 23, 2024, 138 Stat. 2025, added item 132a. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title IX, § 902(a), Dec. 23, 2024, 138 Stat. 2025, added item 132a. Amendment was made pursuant to operation of section 102 of this title.
 
-2023—Pub. L. 118–31, div. A, title II, § 241(a), title IX, § 903(a), Dec. 22, 2023, 137 Stat. 205, 358, added items 148 and 149. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title II, § 241(a), title IX, § 903(a), Dec. 22, 2023, 137 Stat. 205, 358, added items 148 and 149. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title IX, § 902(a)(4)(A), Dec. 27, 2021, 135 Stat. 1869, struck out item 146 “Office of Local Defense Community Cooperation”.
+2021—Pub. L. 117–81, div. A, title IX, § 902(a)(4)(A), Dec. 27, 2021, 135 Stat. 1869, struck out item 146 “Office of Local Defense Community Cooperation”.
 
-Pub. L. 116–283, div. A, title IX, §§ 901(a)(3), 902(b)(2), 905(a)(2), 913(a)(2), Jan. 1, 2021, 134 Stat. 3794, 3797, 3799, 3803, added items 146 and 147, substituted “Secretariat for Special Operations; Special Operations Policy and Oversight Council” for “Special Operations Policy and Oversight Council” in item 139b, and struck out item 132a “Chief Management Officer”.
+Pub. L. 116–283, div. A, title IX, §§ 901(a)(3), 902(b)(2), 905(a)(2), 913(a)(2), Jan. 1, 2021, 134 Stat. 3794, 3797, 3799, 3803, added items 146 and 147, substituted “Secretariat for Special Operations; Special Operations Policy and Oversight Council” for “Special Operations Policy and Oversight Council” in item 139b, and struck out item 132a “Chief Management Officer”.
 
-2019—Pub. L. 116–92, div. A, title XVI, § 1621(e)(1)(D), Dec. 20, 2019, 133 Stat. 1733, substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence” in item 137.
+2019—Pub. L. 116–92, div. A, title XVI, § 1621(e)(1)(D), Dec. 20, 2019, 133 Stat. 1733, substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence” in item 137.
 
-2018—Pub. L. 115–232, div. A, title X, § 1082(a)(2), Aug. 13, 2018, 132 Stat. 1988, added item 145.
+2018—Pub. L. 115–232, div. A, title X, § 1082(a)(2), Aug. 13, 2018, 132 Stat. 1988, added item 145.
 
-2017—Pub. L. 115–91, div. A, title X, § 1081(b)(1)(B), Dec. 12, 2017, 131 Stat. 1597, repealed Pub. L. 113–291, § 901(*l*)(1)(A). See 2014 Amendment note below.
+2017—Pub. L. 115–91, div. A, title X, § 1081(b)(1)(B), Dec. 12, 2017, 131 Stat. 1597, repealed Pub. L. 113–291, § 901(*l*)(1)(A). See 2014 Amendment note below.
 
-Pub. L. 115–91, div. A, title IX, §§ 906(f)(2), 910(a)(2), Dec. 12, 2017, 131 Stat. 1514, 1517, substituted “Chief Management Officer” for “Deputy Chief Management Officer” in item 132a and “Deputy Under Secretaries of Defense” for “Principal Deputy Under Secretaries of Defense” in item 137a.
+Pub. L. 115–91, div. A, title IX, §§ 906(f)(2), 910(a)(2), Dec. 12, 2017, 131 Stat. 1514, 1517, substituted “Chief Management Officer” for “Deputy Chief Management Officer” in item 132a and “Deputy Under Secretaries of Defense” for “Principal Deputy Under Secretaries of Defense” in item 137a.
 
-2016—Pub. L. 114–328, div. A, title IX, § 901(g)(2), Dec. 23, 2016, 130 Stat. 2342, effective on Feb. 1, 2018, added items 133a and 133b and struck out item 133 “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+2016—Pub. L. 114–328, div. A, title IX, § 901(g)(2), Dec. 23, 2016, 130 Stat. 2342, effective on Feb. 1, 2018, added items 133a and 133b and struck out item 133 “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-Pub. L. 114–328, div. A, title IX, §§ 901(g)(1), 922(b)(2), Dec. 23, 2016, 130 Stat. 2342, 2356, added item 139b and struck out former item 139b “Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems Engineering: joint guidance” and item 139c “Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy”.
+Pub. L. 114–328, div. A, title IX, §§ 901(g)(1), 922(b)(2), Dec. 23, 2016, 130 Stat. 2342, 2356, added item 139b and struck out former item 139b “Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems Engineering: joint guidance” and item 139c “Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy”.
 
-2014—Pub. L. 113–291, div. A, title IX, § 901(*l*)(1)(B), (C), Dec. 19, 2014, 128 Stat. 3468, added item 142 and struck out items 138a “Assistant Secretary of Defense for Logistics and Materiel Readiness”, 138b “Assistant Secretary of Defense for Research and Engineering”, 138c “Assistant Secretary of Defense for Operational Energy Plans and Programs”, and 138d “Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs”.
+2014—Pub. L. 113–291, div. A, title IX, § 901(*l*)(1)(B), (C), Dec. 19, 2014, 128 Stat. 3468, added item 142 and struck out items 138a “Assistant Secretary of Defense for Logistics and Materiel Readiness”, 138b “Assistant Secretary of Defense for Research and Engineering”, 138c “Assistant Secretary of Defense for Operational Energy Plans and Programs”, and 138d “Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs”.
 
-Pub. L. 113–291, div. A, title IX, § 901(*l*)(1)(A), Dec. 19, 2014, 128 Stat. 3468, which directed substitution of “Under Secretary of Defense for Business Management and Information” for “Deputy Chief Management Officer” in item 132a, was repealed by Pub. L. 115–91, § 1081(b)(1)(B).
+Pub. L. 113–291, div. A, title IX, § 901(*l*)(1)(A), Dec. 19, 2014, 128 Stat. 3468, which directed substitution of “Under Secretary of Defense for Business Management and Information” for “Deputy Chief Management Officer” in item 132a, was repealed by Pub. L. 115–91, § 1081(b)(1)(B).
 
-2013—Pub. L. 112–239, div. A, title X, § 1076(f)(2), Jan. 2, 2013, 126 Stat. 1952, struck out item 133b “Deputy Under Secretary of Defense for Logistics and Materiel Readiness”.
+2013—Pub. L. 112–239, div. A, title X, § 1076(f)(2), Jan. 2, 2013, 126 Stat. 1952, struck out item 133b “Deputy Under Secretary of Defense for Logistics and Materiel Readiness”.
 
-2011—Pub. L. 111–383, div. A, title IX, § 901(k)(2)(A), Jan. 7, 2011, 124 Stat. 4325, added items 132a, 137a, 138b to 138d, and 139a to 139c, and struck out former items 133a “Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics”, 134a “Principal Deputy Under Secretary of Defense for Policy”, 136a “Principal Deputy Under Secretary of Defense for Personnel and Readiness”, 137a “Deputy Under Secretaries of Defense”, 139a “Director of Defense Research and Engineering”, 139b “Director of Operational Energy Plans and Programs”, 139c “Director of Cost Assessment and Program Evaluation”, 139d “Director of Developmental Test and Evaluation; Director of Systems Engineering: joint guidance”, and 142 “Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs”.
+2011—Pub. L. 111–383, div. A, title IX, § 901(k)(2)(A), Jan. 7, 2011, 124 Stat. 4325, added items 132a, 137a, 138b to 138d, and 139a to 139c, and struck out former items 133a “Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics”, 134a “Principal Deputy Under Secretary of Defense for Policy”, 136a “Principal Deputy Under Secretary of Defense for Personnel and Readiness”, 137a “Deputy Under Secretaries of Defense”, 139a “Director of Defense Research and Engineering”, 139b “Director of Operational Energy Plans and Programs”, 139c “Director of Cost Assessment and Program Evaluation”, 139d “Director of Developmental Test and Evaluation; Director of Systems Engineering: joint guidance”, and 142 “Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs”.
 
-2009—Pub. L. 111–84, div. A, title IX, §§ 905(a)(2), 906(c)(3), Oct. 28, 2009, 123 Stat. 2425, 2427, added items 133a, 134a, 136a, 137a, and 138a and struck out former items 133a “Deputy Under Secretary of Defense for Acquisition and Technology”, 134a “Deputy Under Secretary of Defense for Policy”, 134b “Deputy Under Secretary of Defense for Technology Security Policy”, and 136a “Deputy Under Secretary of Defense for Personnel and Readiness”.
+2009—Pub. L. 111–84, div. A, title IX, §§ 905(a)(2), 906(c)(3), Oct. 28, 2009, 123 Stat. 2425, 2427, added items 133a, 134a, 136a, 137a, and 138a and struck out former items 133a “Deputy Under Secretary of Defense for Acquisition and Technology”, 134a “Deputy Under Secretary of Defense for Policy”, 134b “Deputy Under Secretary of Defense for Technology Security Policy”, and 136a “Deputy Under Secretary of Defense for Personnel and Readiness”.
 
-Pub. L. 111–23, title I, §§ 101(a)(2), 102(a)(2), May 22, 2009, 123 Stat. 1706, 1713, added items 139c and 139d.
+Pub. L. 111–23, title I, §§ 101(a)(2), 102(a)(2), May 22, 2009, 123 Stat. 1706, 1713, added items 139c and 139d.
 
-2008—Pub. L. 110–417, [div. A], title IX, § 902(b), Oct. 14, 2008, 122 Stat. 4566, added item 139b.
+2008—Pub. L. 110–417, [div. A], title IX, § 902(b), Oct. 14, 2008, 122 Stat. 4566, added item 139b.
 
-2006—Pub. L. 109–163, div. A, title IX, § 904(b)(2), Jan. 6, 2006, 119 Stat. 3400, added item 144.
+2006—Pub. L. 109–163, div. A, title IX, § 904(b)(2), Jan. 6, 2006, 119 Stat. 3400, added item 144.
 
-2002—Pub. L. 107–314, div. A, title IX, § 901(b)(2), Dec. 2, 2002, 116 Stat. 2619, added items 137 and 139a and struck out former item 137 “Director of Defense Research and Engineering”.
+2002—Pub. L. 107–314, div. A, title IX, § 901(b)(2), Dec. 2, 2002, 116 Stat. 2619, added items 137 and 139a and struck out former item 137 “Director of Defense Research and Engineering”.
 
-2001—Pub. L. 107–107, div. A, title IX, § 901(a)(2), Dec. 28, 2001, 115 Stat. 1194, added item 136a.
+2001—Pub. L. 107–107, div. A, title IX, § 901(a)(2), Dec. 28, 2001, 115 Stat. 1194, added item 136a.
 
-1999—Pub. L. 106–65, div. A, title IX, § 911(d)(3), Oct. 5, 1999, 113 Stat. 719, added items 133 and 133b and struck out former item 133 “Under Secretary of Defense for Acquisition and Technology”.
+1999—Pub. L. 106–65, div. A, title IX, § 911(d)(3), Oct. 5, 1999, 113 Stat. 719, added items 133 and 133b and struck out former item 133 “Under Secretary of Defense for Acquisition and Technology”.
 
-1998—Pub. L. 105–261, div. A, title XV, § 1521(b)(2), Oct. 17, 1998, 112 Stat. 2179, added item 134b.
+1998—Pub. L. 105–261, div. A, title XV, § 1521(b)(2), Oct. 17, 1998, 112 Stat. 2179, added item 134b.
 
-1997—Pub. L. 105–85, div. A, title IX, § 911(d)(2), Nov. 18, 1997, 111 Stat. 1859, added item 143.
+1997—Pub. L. 105–85, div. A, title IX, § 911(d)(2), Nov. 18, 1997, 111 Stat. 1859, added item 143.
 
-1996—Pub. L. 104–106, div. A, title IX, § 904(a)(2), Feb. 10, 1996, 110 Stat. 403, substituted “Nuclear and Chemical and Biological Defense Programs” for “Atomic Energy” in item 142.
+1996—Pub. L. 104–106, div. A, title IX, § 904(a)(2), Feb. 10, 1996, 110 Stat. 403, substituted “Nuclear and Chemical and Biological Defense Programs” for “Atomic Energy” in item 142.
 
-Pub. L. 104–106, div. A, title IX, § 903(a), (e)(3), Feb. 10, 1996, 110 Stat. 401, 402, which directed amendment of analysis, eff. Jan. 31, 1997, by striking out items 133a, 134a, 137, and 142, was repealed by Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617.
+Pub. L. 104–106, div. A, title IX, § 903(a), (e)(3), Feb. 10, 1996, 110 Stat. 401, 402, which directed amendment of analysis, eff. Jan. 31, 1997, by striking out items 133a, 134a, 137, and 142, was repealed by Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617.
 
-1994—Pub. L. 103–337, div. A, title IX, § 903(a)(3), Oct. 5, 1994, 108 Stat. 2823, substituted “Under Secretary of Defense (Comptroller)” for “Comptroller” in item 135.
+1994—Pub. L. 103–337, div. A, title IX, § 903(a)(3), Oct. 5, 1994, 108 Stat. 2823, substituted “Under Secretary of Defense (Comptroller)” for “Comptroller” in item 135.
 
-1993—Pub. L. 103–160, div. A, title IX, § 906(b), Nov. 30, 1993, 107 Stat. 1729, amended table of sections generally, inserting “and Technology” after “Acquisition” in items 133 and 133a, adding item 136, and redesignating former items 135, 136, 137, 138, 139, 140, and 141 as 137, 138, 135, 139, 140, 141, and 142, respectively.
+1993—Pub. L. 103–160, div. A, title IX, § 906(b), Nov. 30, 1993, 107 Stat. 1729, amended table of sections generally, inserting “and Technology” after “Acquisition” in items 133 and 133a, adding item 136, and redesignating former items 135, 136, 137, 138, 139, 140, and 141 as 137, 138, 135, 139, 140, 141, and 142, respectively.
 
-1991—Pub. L. 102–190, div. A, title IX, § 901(a)(2), Dec. 5, 1991, 105 Stat. 1450, added item 134a.
+1991—Pub. L. 102–190, div. A, title IX, § 901(a)(2), Dec. 5, 1991, 105 Stat. 1450, added item 134a.
 
-1987—Pub. L. 100–180, div. A, title XII, § 1245(a)(2), Dec. 4, 1987, 101 Stat. 1165, added item 141.
+1987—Pub. L. 100–180, div. A, title XII, § 1245(a)(2), Dec. 4, 1987, 101 Stat. 1165, added item 141.
 
-Pub. L. 100–26, § 9(b)(2), Apr. 21, 1987, 101 Stat. 287, struck out item 140a “Counterintelligence official reception and representation expenses” and item 140b “Authority to use proceeds from counterintelligence operations of the military departments”.
+Pub. L. 100–26, § 9(b)(2), Apr. 21, 1987, 101 Stat. 287, struck out item 140a “Counterintelligence official reception and representation expenses” and item 140b “Authority to use proceeds from counterintelligence operations of the military departments”.
 
-1986—Pub. L. 99–500, § 101(c) [title X, § 902(a)(2)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–131, and Pub. L. 99–591, § 101(c) [title X, § 902(a)(2)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–131; Pub. L. 99–661, div. A, title IX, formerly title IV, § 902(a)(2), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, amended analysis identically adding item 133a.
+1986—Pub. L. 99–500, § 101(c) [title X, § 902(a)(2)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–131, and Pub. L. 99–591, § 101(c) [title X, § 902(a)(2)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–131; Pub. L. 99–661, div. A, title IX, formerly title IV, § 902(a)(2), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, amended analysis identically adding item 133a.
 
-Pub. L. 99–569, title IV, §§ 401(d), 403(b), Oct. 27, 1986, 100 Stat. 3196, 3197, added items 140a and 140b.
+Pub. L. 99–569, title IV, §§ 401(d), 403(b), Oct. 27, 1986, 100 Stat. 3196, 3197, added items 140a and 140b.
 
-Pub. L. 99–433, title I, §§ 101(a)(6), 110(e)(2), Oct. 1, 1986, 100 Stat. 995, 1003, substituted “Office of the Secretary of Defense” for “Department of Defense” in chapter heading, and amended analysis generally, substituting items 131 to 140 for former items 131 “Executive department”, 132 “Seal”, 133 “Secretary of Defense: appointment; powers and duties; delegation by”, 133a “Secretary of Defense: annual report on North Atlantic Treaty Organization readiness”, 133b “Sale or transfer of defense articles: reports to Congress”, 134 “Deputy Secretary of Defense: appointment; powers and duties; precedence”, 134a “Under Secretary of Defense for Acquisition: appointment”, 135 “Under Secretary of Defense for Policy; Director of Defense Research and Engineering: appointments; powers and duties; precedence”, 136 “Assistant Secretaries of Defense: appointment; powers and duties; precedence”, 136a “Director of Operational Test and Evaluation: appointment, powers and duties”, 137 “General Counsel: appointment; powers and duties”, 138 “Annual authorization of appropriations and personnel strengths for the armed forces; annual manpower requirements and operations and maintenance reports”, 139 “Secretary of Defense: weapons development and procurement schedules for armed forces; reports; supplemental reports”, 139a “Oversight of cost growth in major programs: Selected Acquisition Reports”, 139b “Oversight of cost growth in major programs: unit cost reports”, 139c “Major defense acquisition programs: independent cost estimates”, 140 “Emergencies and extraordinary expenses”, 140a “Secretary of Defense: funds transfers for foreign cryptologic support”, 140b “Prohibition of certain civilian personnel management constraints”, and 140c “Secretary of Defense: authority to withhold from public disclosure certain technical data”.
+Pub. L. 99–433, title I, §§ 101(a)(6), 110(e)(2), Oct. 1, 1986, 100 Stat. 995, 1003, substituted “Office of the Secretary of Defense” for “Department of Defense” in chapter heading, and amended analysis generally, substituting items 131 to 140 for former items 131 “Executive department”, 132 “Seal”, 133 “Secretary of Defense: appointment; powers and duties; delegation by”, 133a “Secretary of Defense: annual report on North Atlantic Treaty Organization readiness”, 133b “Sale or transfer of defense articles: reports to Congress”, 134 “Deputy Secretary of Defense: appointment; powers and duties; precedence”, 134a “Under Secretary of Defense for Acquisition: appointment”, 135 “Under Secretary of Defense for Policy; Director of Defense Research and Engineering: appointments; powers and duties; precedence”, 136 “Assistant Secretaries of Defense: appointment; powers and duties; precedence”, 136a “Director of Operational Test and Evaluation: appointment, powers and duties”, 137 “General Counsel: appointment; powers and duties”, 138 “Annual authorization of appropriations and personnel strengths for the armed forces; annual manpower requirements and operations and maintenance reports”, 139 “Secretary of Defense: weapons development and procurement schedules for armed forces; reports; supplemental reports”, 139a “Oversight of cost growth in major programs: Selected Acquisition Reports”, 139b “Oversight of cost growth in major programs: unit cost reports”, 139c “Major defense acquisition programs: independent cost estimates”, 140 “Emergencies and extraordinary expenses”, 140a “Secretary of Defense: funds transfers for foreign cryptologic support”, 140b “Prohibition of certain civilian personnel management constraints”, and 140c “Secretary of Defense: authority to withhold from public disclosure certain technical data”.
 
-Pub. L. 99–348, title V, § 501(e)(2), July 1, 1986, 100 Stat. 708, added item 134a and substituted “Under Secretary of Defense for Policy; Director of Defense Research and Engineering: appointments” for “Under Secretaries of Defense: appointment” in item 135.
+Pub. L. 99–348, title V, § 501(e)(2), July 1, 1986, 100 Stat. 708, added item 134a and substituted “Under Secretary of Defense for Policy; Director of Defense Research and Engineering: appointments” for “Under Secretaries of Defense: appointment” in item 135.
 
-1983—Pub. L. 98–94, title XII, §§ 1203(a)(2), 1211(a)(2), 1217(b), Sept. 24, 1983, 97 Stat. 683, 686, 690, added items 136a, 139c, and 140c.
+1983—Pub. L. 98–94, title XII, §§ 1203(a)(2), 1211(a)(2), 1217(b), Sept. 24, 1983, 97 Stat. 683, 686, 690, added items 136a, 139c, and 140c.
 
-1982—Pub. L. 97–295, § 1(2)(B), Oct. 12, 1982, 96 Stat. 1288, added items 133a and 133b.
+1982—Pub. L. 97–295, § 1(2)(B), Oct. 12, 1982, 96 Stat. 1288, added items 133a and 133b.
 
-Pub. L. 97–252, title XI, § 1107(a)(2), Sept. 8, 1982, 96 Stat. 745, added items 139a and 139b.
+Pub. L. 97–252, title XI, § 1107(a)(2), Sept. 8, 1982, 96 Stat. 745, added items 139a and 139b.
 
-1981—Pub. L. 97–86, title IX, § 904(b), Dec. 1, 1981, 95 Stat. 1114, added item 140b.
+1981—Pub. L. 97–86, title IX, § 904(b), Dec. 1, 1981, 95 Stat. 1114, added item 140b.
 
-1980—Pub. L. 96–450, title IV, § 401(b), Oct. 14, 1980, 94 Stat. 1977, added item 140a.
+1980—Pub. L. 96–450, title IV, § 401(b), Oct. 14, 1980, 94 Stat. 1977, added item 140a.
 
-Pub. L. 96–342, title X, § 1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substituted “Annual authorization of appropriations and personnel strengths for the armed forces; annual manpower requirements and operations and maintenance reports” for “Secretary of Defense: Annual authorization of appropriations for armed forces” in item 138.
+Pub. L. 96–342, title X, § 1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substituted “Annual authorization of appropriations and personnel strengths for the armed forces; annual manpower requirements and operations and maintenance reports” for “Secretary of Defense: Annual authorization of appropriations for armed forces” in item 138.
 
-1977—Pub. L. 95–140, §§ 1(b), 2(b), Oct. 21, 1977, 91 Stat. 1172, 1173, substituted “Deputy Secretary” for “Deputy Secretaries” in item 134 and “Under Secretaries of Defense” for “Director of Defense Research and Engineering” in item 135.
+1977—Pub. L. 95–140, §§ 1(b), 2(b), Oct. 21, 1977, 91 Stat. 1172, 1173, substituted “Deputy Secretary” for “Deputy Secretaries” in item 134 and “Under Secretaries of Defense” for “Director of Defense Research and Engineering” in item 135.
 
-1975—Pub. L. 94–106, title VIII, § 804(a), Oct. 7, 1975, 89 Stat. 538, added item 140.
+1975—Pub. L. 94–106, title VIII, § 804(a), Oct. 7, 1975, 89 Stat. 538, added item 140.
 
-1973—Pub. L. 93–155, title VIII, § 803(a), Nov. 16, 1973, 87 Stat. 612, added items 138 and 139.
+1973—Pub. L. 93–155, title VIII, § 803(a), Nov. 16, 1973, 87 Stat. 612, added items 138 and 139.
 
-1972—Pub. L. 92–596, § 4(3), Oct. 27, 1972, 86 Stat. 1318, substituted “Deputy Secretaries” for “Deputy Secretary” in item 134.
+1972—Pub. L. 92–596, § 4(3), Oct. 27, 1972, 86 Stat. 1318, substituted “Deputy Secretaries” for “Deputy Secretary” in item 134.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title IX, § 910(a)(2), Dec. 12, 2017, 131 Stat. 1517, which provided that the amendment made by section 910(a)(2) was effective Feb. 1, 2018, was repealed by Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
+Pub. L. 115–91, div. A, title IX, § 910(a)(2), Dec. 12, 2017, 131 Stat. 1517, which provided that the amendment made by section 910(a)(2) was effective Feb. 1, 2018, was repealed by Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
 
-Pub. L. 115–91, div. A, title X, § 1081(b)(1), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(B) is effective as of Dec. 23, 2016.
+Pub. L. 115–91, div. A, title X, § 1081(b)(1), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(B) is effective as of Dec. 23, 2016.
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title IX, § 901(g)(2), Dec. 23, 2016, 130 Stat. 2342, provided that the amendment made by section 901(g)(2) is effective on Feb. 1, 2018.
+Pub. L. 114–328, div. A, title IX, § 901(g)(2), Dec. 23, 2016, 130 Stat. 2342, provided that the amendment made by section 901(g)(2) is effective on Feb. 1, 2018.
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–291, div. A, title IX, § 901(*l*)(1)(A), Dec. 19, 2014, 128 Stat. 3468, which provided that the amendment made by section 901(*l*)(1)(A) was effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(B), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.
+Pub. L. 113–291, div. A, title IX, § 901(*l*)(1)(A), Dec. 19, 2014, 128 Stat. 3468, which provided that the amendment made by section 901(*l*)(1)(A) was effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(B), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.
 
-## § 131. Office of the Secretary of Defense
+## § 131. Office of the Secretary of Defense
 
 **(a)** There is in the Department of Defense an Office of the Secretary of Defense. The function of the Office is to assist the Secretary of Defense in carrying out the Secretary’s duties and responsibilities and to carry out such other duties as may be prescribed by law.
 
@@ -133,7 +133,7 @@ Pub. L. 113–291, div. A, title IX, § 901(*l*)(1)(A), Dec. 19, 2014, 128 Sta
 
 **(1)** The Deputy Secretary of Defense.
 
-**[(2)** Repealed. Pub. L. 116–283, div. A, title IX, § 901(a)(2)(A), Jan. 1, 2021, 134 Stat. 3794.]
+**[(2)** Repealed. Pub. L. 116–283, div. A, title IX, § 901(a)(2)(A), Jan. 1, 2021, 134 Stat. 3794.]
 
 **(3)** The Under Secretaries of Defense, as follows:
 
@@ -185,7 +185,7 @@ Pub. L. 113–291, div. A, title IX, § 901(*l*)(1)(A), Dec. 19, 2014, 128 Sta
 
 **(d)** The Secretary of each military department, and the civilian employees and members of the armed forces under the jurisdiction of the Secretary, shall cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
 
-(Added Pub. L. 99–433, title I, § 104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, § 906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, § 903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, § 903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, § 911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, § 901(b)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 110–181, div. A, title IX, § 904(a)(4), Jan. 28, 2008, 122 Stat. 274; Pub. L. 110–417, [div. A], title X, § 1061(b)(7), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–383, div. A, title IX, § 901(b)(2), (m)(1), Jan. 7, 2011, 124 Stat. 4317, 4326; Pub. L. 113–291, div. A, title IX, § 901(a)(2), (b)(2), (j)(1)(A), (k)(1), (n)(1), Dec. 19, 2014, 128 Stat. 3463, 3467, 3469; Pub. L. 114–328, div. A, title IX, §§ 901(d), (f), 902(b), 933(a)(3), Dec. 23, 2016, 130 Stat. 2342, 2344, 2364; Pub. L. 115–91, div. A, title IX, §§ 906(d)(1), 910(c)(1), title X, § 1081(b)(1)(A), (D), (d)(9), Dec. 12, 2017, 131 Stat. 1513, 1518, 1597, 1600; Pub. L. 115–232, div. A, title X, § 1081(a)(3), (f)(1)(B), Aug. 13, 2018, 132 Stat. 1983, 1986; Pub. L. 116–92, div. A, title XVI, § 1621(e)(1)(A)(i), title XVII, § 1731(a)(7), Dec. 20, 2019, 133 Stat. 1733, 1812; Pub. L. 116–283, div. A, title IX, § 901(a)(2)(A), title XVIII, § 1847(e)(6)(A), Jan. 1, 2021, 134 Stat. 3794, 4257.)
+(Added Pub. L. 99–433, title I, § 104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, § 906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, § 903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, § 903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, § 911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, § 901(b)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 110–181, div. A, title IX, § 904(a)(4), Jan. 28, 2008, 122 Stat. 274; Pub. L. 110–417, [div. A], title X, § 1061(b)(7), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–383, div. A, title IX, § 901(b)(2), (m)(1), Jan. 7, 2011, 124 Stat. 4317, 4326; Pub. L. 113–291, div. A, title IX, § 901(a)(2), (b)(2), (j)(1)(A), (k)(1), (n)(1), Dec. 19, 2014, 128 Stat. 3463, 3467, 3469; Pub. L. 114–328, div. A, title IX, §§ 901(d), (f), 902(b), 933(a)(3), Dec. 23, 2016, 130 Stat. 2342, 2344, 2364; Pub. L. 115–91, div. A, title IX, §§ 906(d)(1), 910(c)(1), title X, § 1081(b)(1)(A), (D), (d)(9), Dec. 12, 2017, 131 Stat. 1513, 1518, 1597, 1600; Pub. L. 115–232, div. A, title X, § 1081(a)(3), (f)(1)(B), Aug. 13, 2018, 132 Stat. 1983, 1986; Pub. L. 116–92, div. A, title XVI, § 1621(e)(1)(A)(i), title XVII, § 1731(a)(7), Dec. 20, 2019, 133 Stat. 1733, 1812; Pub. L. 116–283, div. A, title IX, § 901(a)(2)(A), title XVIII, § 1847(e)(6)(A), Jan. 1, 2021, 134 Stat. 3794, 4257.)
 
 **Editorial Notes**
 
@@ -195,17 +195,17 @@ A prior section 131 was renumbered section 111 of this title.
 
 **Amendments**
 
-2021—Subsec. (b)(2). Pub. L. 116–283, § 901(a)(2)(A), struck out par. (2) which read as follows: “The Chief Management Officer of the Department of Defense.”
+2021—Subsec. (b)(2). Pub. L. 116–283, § 901(a)(2)(A), struck out par. (2) which read as follows: “The Chief Management Officer of the Department of Defense.”
 
-Subsec. (b)(8)(F). Pub. L. 116–283, § 1847(e)(6)(A), substituted “section 4273(a)” for “section 2438(a)”.
+Subsec. (b)(8)(F). Pub. L. 116–283, § 1847(e)(6)(A), substituted “section 4273(a)” for “section 2438(a)”.
 
-2019—Subsec. (b)(3)(F). Pub. L. 116–92, § 1621(e)(1)(A)(i), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”.
+2019—Subsec. (b)(3)(F). Pub. L. 116–92, § 1621(e)(1)(A)(i), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”.
 
-Subsec. (b)(8)(F), (I). Pub. L. 116–92, § 1731(a)(7), redesignated subpar. (I) as (F).
+Subsec. (b)(8)(F), (I). Pub. L. 116–92, § 1731(a)(7), redesignated subpar. (I) as (F).
 
-2018—Subsec. (b)(4) to (9). Pub. L. 115–232, § 1081(f)(1)(B), redesignated pars. (5) to (10) as (4) to (9), respectively, and struck out former par. (4) which read as follows: “The Deputy Chief Management Officer of the Department of Defense.”
+2018—Subsec. (b)(4) to (9). Pub. L. 115–232, § 1081(f)(1)(B), redesignated pars. (5) to (10) as (4) to (9), respectively, and struck out former par. (4) which read as follows: “The Deputy Chief Management Officer of the Department of Defense.”
 
-Subsec. (b)(9)(B) to (H). Pub. L. 115–232, § 1081(a)(3), redesignated subpars. (E) to (H) as (B) to (E), respectively, and struck out former subpars. (B) to (D) which read as follows:
+Subsec. (b)(9)(B) to (H). Pub. L. 115–232, § 1081(a)(3), redesignated subpars. (E) to (H) as (B) to (E), respectively, and struck out former subpars. (B) to (D) which read as follows:
 
 “(B) The Deputy Assistant Secretary of Defense for Developmental Test and Evaluation appointed pursuant to section 139b(a) of this title.
 
@@ -213,49 +213,49 @@ Subsec. (b)(9)(B) to (H). Pub. L. 115–232, § 1081(a)(3), redesignated subpa
 
 “(D) The Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy appointed pursuant to section 139c of this title.”
 
-Subsec. (b)(10). Pub. L. 115–232, § 1081(f)(1)(B), redesignated par. (10) as (9).
+Subsec. (b)(10). Pub. L. 115–232, § 1081(f)(1)(B), redesignated par. (10) as (9).
 
-2017—Subsec. (b). Pub. L. 115–91, § 1081(b)(1)(A), repealed Pub. L. 113–291, § 901(j)(1)(A). See 2014 Amendment notes below.
+2017—Subsec. (b). Pub. L. 115–91, § 1081(b)(1)(A), repealed Pub. L. 113–291, § 901(j)(1)(A). See 2014 Amendment notes below.
 
-Subsec. (b)(2) to (4). Pub. L. 115–91, § 910(c)(1), added par. (2) and redesignated pars. (2) to (4) as (3) to (5), respectively.
+Subsec. (b)(2) to (4). Pub. L. 115–91, § 910(c)(1), added par. (2) and redesignated pars. (2) to (4) as (3) to (5), respectively.
 
-Subsec. (b)(5). Pub. L. 115–91, § 1081(d)(9), made technical correction to directory language of Pub. L. 114–328, § 902(b). See 2016 Amendment note below.
+Subsec. (b)(5). Pub. L. 115–91, § 1081(d)(9), made technical correction to directory language of Pub. L. 114–328, § 902(b). See 2016 Amendment note below.
 
-Pub. L. 115–91, § 910(c)(1)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Pub. L. 115–91, § 910(c)(1)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 115–91, § 910(c)(1)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+Subsec. (b)(6). Pub. L. 115–91, § 910(c)(1)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Pub. L. 115–91, § 906(d)(1), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The Principal Deputy Under Secretaries of Defense.”
+Pub. L. 115–91, § 906(d)(1), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The Principal Deputy Under Secretaries of Defense.”
 
-Subsec. (b)(7) to (10). Pub. L. 115–91, § 910(c)(1)(A), redesignated pars. (6) to (9) as (7) to (10), respectively.
+Subsec. (b)(7) to (10). Pub. L. 115–91, § 910(c)(1)(A), redesignated pars. (6) to (9) as (7) to (10), respectively.
 
-2016—Subsec. (b)(2). Pub. L. 114–328, § 901(f), added subpars. (A) and (B), redesignated former subpars. (B) to (E) as (C) to (F), respectively, and struck out former subpar. (A), which read as follows: “The Under Secretary of Defense for Acquisition, Technology, and Logistics.”
+2016—Subsec. (b)(2). Pub. L. 114–328, § 901(f), added subpars. (A) and (B), redesignated former subpars. (B) to (E) as (C) to (F), respectively, and struck out former subpar. (A), which read as follows: “The Under Secretary of Defense for Acquisition, Technology, and Logistics.”
 
-Pub. L. 114–328, § 901(d), repealed Pub. L. 113–291, § 901(a)(2). See 2014 Amendment note below.
+Pub. L. 114–328, § 901(d), repealed Pub. L. 113–291, § 901(a)(2). See 2014 Amendment note below.
 
-Subsec. (b)(5). Pub. L. 114–328, § 902(b), as amended by Pub. L. 115–91, § 1081(d)(9), inserted “, who reports directly to the Secretary and Deputy Secretary without intervening authority” before period at end.
+Subsec. (b)(5). Pub. L. 114–328, § 902(b), as amended by Pub. L. 115–91, § 1081(d)(9), inserted “, who reports directly to the Secretary and Deputy Secretary without intervening authority” before period at end.
 
-Subsec. (b)(8)(G). Pub. L. 114–328, § 933(a)(3), substituted “Director of Military Family Readiness Policy” for “Director of Family Policy”.
+Subsec. (b)(8)(G). Pub. L. 114–328, § 933(a)(3), substituted “Director of Military Family Readiness Policy” for “Director of Family Policy”.
 
-2014—Subsec. (b)(2). Pub. L. 113–291, § 901(a)(2), which directed adding subpar. (A) reading “The Under Secretary of Defense for Business Management and Information.” and redesignating former subpars. (A) to (E) as (B) to (F), respectively, was repealed by Pub. L. 114–328, § 901(d).
+2014—Subsec. (b)(2). Pub. L. 113–291, § 901(a)(2), which directed adding subpar. (A) reading “The Under Secretary of Defense for Business Management and Information.” and redesignating former subpars. (A) to (E) as (B) to (F), respectively, was repealed by Pub. L. 114–328, § 901(d).
 
-Subsec. (b)(5) to (7). Pub. L. 113–291, § 901(j)(1)(A), which directed striking out par. (5) and redesignating pars. (6) to (8) as (5) to (7), respectively, was repealed by Pub. L. 115–91, § 1081(b)(1)(A).
+Subsec. (b)(5) to (7). Pub. L. 113–291, § 901(j)(1)(A), which directed striking out par. (5) and redesignating pars. (6) to (8) as (5) to (7), respectively, was repealed by Pub. L. 115–91, § 1081(b)(1)(A).
 
-Pub. L. 113–291, § 901(b)(2), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
+Pub. L. 113–291, § 901(b)(2), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 
-Subsec. (b)(8). Pub. L. 113–291, § 901(j)(1)(A)(ii), which directed redesignating par. (9) as (8), was repealed by Pub. L. 115–91, § 1081(b)(1)(A).
+Subsec. (b)(8). Pub. L. 113–291, § 901(j)(1)(A)(ii), which directed redesignating par. (9) as (8), was repealed by Pub. L. 115–91, § 1081(b)(1)(A).
 
-Pub. L. 113–291, § 901(k)(1), added subpar. (A) and redesignated former subpars. (A) to (H) as (B) to (I), respectively.
+Pub. L. 113–291, § 901(k)(1), added subpar. (A) and redesignated former subpars. (A) to (H) as (B) to (I), respectively.
 
-Pub. L. 113–291, § 901(b)(2)(A), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+Pub. L. 113–291, § 901(b)(2)(A), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-Subsec. (b)(9). Pub. L. 113–291, § 901(j)(1)(A)(ii), which directed redesignating par. (9) as (8), was repealed by Pub. L. 115–91, § 1081(b)(1)(A).
+Subsec. (b)(9). Pub. L. 113–291, § 901(j)(1)(A)(ii), which directed redesignating par. (9) as (8), was repealed by Pub. L. 115–91, § 1081(b)(1)(A).
 
-Pub. L. 113–291, § 901(b)(2)(A), redesignated par. (8) as (9).
+Pub. L. 113–291, § 901(b)(2)(A), redesignated par. (8) as (9).
 
-2011—Subsec. (a). Pub. L. 111–383, § 901(m)(1), substituted “the Secretary’s” for “his”.
+2011—Subsec. (a). Pub. L. 111–383, § 901(m)(1), substituted “the Secretary’s” for “his”.
 
-Subsec. (b). Pub. L. 111–383, § 901(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to the composition of the Office of the Secretary of Defense.
+Subsec. (b). Pub. L. 111–383, § 901(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to the composition of the Office of the Secretary of Defense.
 
 2008—Subsec. (b)(3) to (9). Pub. L. 110–181, as amended by Pub. L. 110–417, added par. (3) and redesignated former pars. (3) to (8) as (4) to (9), respectively.
 
@@ -271,7 +271,7 @@ Subsec. (b). Pub. L. 111–383, § 901(b)(2), amended subsec. (b) generally. P
 
 1999—Subsec. (b)(2). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-1996—Subsec. (b)(6) to (11). Pub. L. 104–106, § 903(a), (e)(1), which directed amendment of subsec. (b), eff. Jan. 31, 1997, by striking out pars. (6) and (8) and redesignating pars. (7), (9), (10), and (11) as (6), (7), (8), and (9), respectively, was repealed by Pub. L. 104–201.
+1996—Subsec. (b)(6) to (11). Pub. L. 104–106, § 903(a), (e)(1), which directed amendment of subsec. (b), eff. Jan. 31, 1997, by striking out pars. (6) and (8) and redesignating pars. (7), (9), (10), and (11) as (6), (7), (8), and (9), respectively, was repealed by Pub. L. 104–201.
 
 1994—Subsec. (b)(4). Pub. L. 103–337 substituted “Under Secretary of Defense (Comptroller)” for “Comptroller”.
 
@@ -301,31 +301,31 @@ Subsec. (b). Pub. L. 111–383, § 901(b)(2), amended subsec. (b) generally. P
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–283, div. A, title IX, § 901(a)(4), Jan. 1, 2021, 134 Stat. 3794, provided that: “The repeals and amendments made by this subsection [amending this section and repealing section 132a of this title and provisions set out as notes preceding this section and under this section, sections 132 and 132a of this title, and section 5313 of Title 5, Government Organization and Employees] shall take effect on the date of the enactment of this Act [Jan. 1, 2021].”
+Pub. L. 116–283, div. A, title IX, § 901(a)(4), Jan. 1, 2021, 134 Stat. 3794, provided that: “The repeals and amendments made by this subsection [amending this section and repealing section 132a of this title and provisions set out as notes preceding this section and under this section, sections 132 and 132a of this title, and section 5313 of Title 5, Government Organization and Employees] shall take effect on the date of the enactment of this Act [Jan. 1, 2021].”
 
 Amendment by section 1847(e)(6)(A) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title IX, § 910(c), Dec. 12, 2017, 131 Stat. 1518, which provided that the amendment made by section 910(c)(1) was effective on Feb. 1, 2018, and immediately after the coming into effect of the amendments made by section 901 of Pub. L. 114–328, was repealed by Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
+Pub. L. 115–91, div. A, title IX, § 910(c), Dec. 12, 2017, 131 Stat. 1518, which provided that the amendment made by section 910(c)(1) was effective on Feb. 1, 2018, and immediately after the coming into effect of the amendments made by section 901 of Pub. L. 114–328, was repealed by Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
 
-Pub. L. 115–91, div. A, title X, § 1081(b)(1), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(A), (D) is effective as of Dec. 23, 2016.
+Pub. L. 115–91, div. A, title X, § 1081(b)(1), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(A), (D) is effective as of Dec. 23, 2016.
 
-Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(9) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
+Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(9) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title IX, § 901(f), Dec. 23, 2016, 130 Stat. 2342, provided that the amendment made by section 901(f) is effective on Feb. 1, 2018.
+Pub. L. 114–328, div. A, title IX, § 901(f), Dec. 23, 2016, 130 Stat. 2342, provided that the amendment made by section 901(f) is effective on Feb. 1, 2018.
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–291, div. A, title IX, § 901(a)(2), Dec. 19, 2014, 128 Stat. 3463, which provided that the amendment made by section 901(a)(2) was effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 114–328, div. A, title IX, § 901(d), Dec. 23, 2016, 130 Stat. 2342.
+Pub. L. 113–291, div. A, title IX, § 901(a)(2), Dec. 19, 2014, 128 Stat. 3463, which provided that the amendment made by section 901(a)(2) was effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 114–328, div. A, title IX, § 901(d), Dec. 23, 2016, 130 Stat. 2342.
 
-Pub. L. 113–291, div. A, title IX, § 901(j)(1), Dec. 19, 2014, 128 Stat. 3467, which provided that the amendment made by section 901(j)(1)(A) was effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597.
+Pub. L. 113–291, div. A, title IX, § 901(j)(1), Dec. 19, 2014, 128 Stat. 3467, which provided that the amendment made by section 901(j)(1)(A) was effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597.
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title IX, § 901(p), Jan. 7, 2011, 124 Stat. 4327, provided that:
+Pub. L. 111–383, div. A, title IX, § 901(p), Jan. 7, 2011, 124 Stat. 4327, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), this section [see Tables for classification] and the amendments made by this section shall take effect on January 1, 2011.
 
@@ -337,11 +337,11 @@ Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pu
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title IX, § 903(a), Feb. 10, 1996, 110 Stat. 401, which provided that the amendments made by section 903 of Pub. L. 104–106 (amending this section and sections 138, 176, 1056, 1216, 1587, and 10201 of this title, repealing sections 133a, 134a, 137, and 142 of this title, and amending provisions set out as a note under section 167 of this title) were to take effect on Jan. 31, 1997, was repealed by Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617.
+Pub. L. 104–106, div. A, title IX, § 903(a), Feb. 10, 1996, 110 Stat. 401, which provided that the amendments made by section 903 of Pub. L. 104–106 (amending this section and sections 138, 176, 1056, 1216, 1587, and 10201 of this title, repealing sections 133a, 134a, 137, and 142 of this title, and amending provisions set out as a note under section 167 of this title) were to take effect on Jan. 31, 1997, was repealed by Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617.
 
 **Establishment and Assignment of Roles and Responsibilities for Combined Joint All-Domain Command and Control in Support of Integrated Joint Warfighting**
 
-Pub. L. 118–31, div. A, title IX, § 904, Dec. 22, 2023, 137 Stat. 363, provided that:
+Pub. L. 118–31, div. A, title IX, § 904, Dec. 22, 2023, 137 Stat. 363, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall establish, and assign to appropriate components of the Office of the Secretary, roles and responsibilities relating to—
 
@@ -379,7 +379,7 @@ Pub. L. 118–31, div. A, title IX, § 904, Dec. 22, 2023, 137 Stat. 363, prov
 
 **Responsibilities for National Mobilization; Personnel Requirements**
 
-Pub. L. 117–81, div. A, title X, § 1089, Dec. 27, 2021, 135 Stat. 1925, provided that:
+Pub. L. 117–81, div. A, title X, § 1089, Dec. 27, 2021, 135 Stat. 1925, provided that:
 
 > **“(a) Executive Agent for National Mobilization.—** The Secretary of Defense shall designate a senior civilian official within the Office of the Secretary of Defense as the Executive Agent for National Mobilization. The Executive Agent for National Mobilization shall be responsible for—
 
@@ -393,7 +393,7 @@ Pub. L. 117–81, div. A, title X, § 1089, Dec. 27, 2021, 135 Stat. 1925, pro
 
 **Oversight of Registered Sex Offender Management Program**
 
-Pub. L. 115–232, div. A, title V, § 544, Aug. 13, 2018, 132 Stat. 1763, provided that:
+Pub. L. 115–232, div. A, title V, § 544, Aug. 13, 2018, 132 Stat. 1763, provided that:
 
 > **“(a) Designation of Official or Entity.—** The Secretary of Defense shall designate a single official or existing entity within the Office of the Secretary of Defense to serve as the official or entity (as the case may be) with principal responsibility in the Department of Defense for providing oversight of the registered sex offender management program of the Department.
 
@@ -419,7 +419,7 @@ Pub. L. 115–232, div. A, title V, § 544, Aug. 13, 2018, 132 Stat. 1763, pro
 
 **Framework for Oversight of Countering Weapons of Mass Destruction Policy, Programs, and Activities**
 
-Pub. L. 115–232, div. A, title X, § 1082(b), (c), Aug. 13, 2018, 132 Stat. 1988, provided that:
+Pub. L. 115–232, div. A, title X, § 1082(b), (c), Aug. 13, 2018, 132 Stat. 1988, provided that:
 
 > **“(b) Oversight Plan.—** Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan to streamline the oversight framework of the Office of the Secretary of Defense, including any efficiencies and the potential to reduce, realign, or otherwise restructure current Assistant Secretary and Deputy Assistant Secretary positions with responsibilities for overseeing countering weapons of mass destruction policy, programs, and activities.
 
@@ -427,7 +427,7 @@ Pub. L. 115–232, div. A, title X, § 1082(b), (c), Aug. 13, 2018, 132 Stat. 
 
 **Designation of Office Within Office of the Secretary of Defense To Oversee Use of Food Assistance Programs by Members of the Armed Forces on Active Duty**
 
-Pub. L. 115–91, div. A, title V, § 583, Dec. 12, 2017, 131 Stat. 1416, provided that:
+Pub. L. 115–91, div. A, title V, § 583, Dec. 12, 2017, 131 Stat. 1416, provided that:
 
 > “Not later than 90 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall designate an office or official within the Office of the Secretary of Defense for purposes as follows:
 
@@ -437,11 +437,11 @@ Pub. L. 115–91, div. A, title V, § 583, Dec. 12, 2017, 131 Stat. 1416, prov
 
 **Chief Management Officer**
 
-Pub. L. 114–328, div. A, title IX, § 901(c)(1)–(3), Dec. 23, 2016, 130 Stat. 2341, which established the position of Chief Management Officer of the Department of Defense, effective Feb. 1, 2018, was repealed by Pub. L. 115–91, div. A, title IX, § 910(b)(1), Dec. 12, 2017, 131 Stat. 1517.
+Pub. L. 114–328, div. A, title IX, § 901(c)(1)–(3), Dec. 23, 2016, 130 Stat. 2341, which established the position of Chief Management Officer of the Department of Defense, effective Feb. 1, 2018, was repealed by Pub. L. 115–91, div. A, title IX, § 910(b)(1), Dec. 12, 2017, 131 Stat. 1517.
 
 **Secretary of Defense Delivery Unit**
 
-Pub. L. 114–328, div. A, title IX, § 913, Dec. 23, 2016, 130 Stat. 2349, provided that:
+Pub. L. 114–328, div. A, title IX, § 913, Dec. 23, 2016, 130 Stat. 2349, provided that:
 
 > **“(a) In General.—** The Secretary of Defense serving in that position as of March 1, 2017, may establish within the Office of the Secretary of Defense a unit of personnel that shall be responsible for providing expertise and support throughout the Department of Defense in an effort to improve the implementation of policies and priorities across the Department. The unit may be known as the ‘delivery unit’.
 
@@ -457,15 +457,15 @@ Pub. L. 114–328, div. A, title IX, § 913, Dec. 23, 2016, 130 Stat. 2349, pr
 
 **References**
 
-Pub. L. 113–291, div. A, title IX, § 901(n), Dec. 19, 2014, 128 Stat. 3469, as amended by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, provided that:
+Pub. L. 113–291, div. A, title IX, § 901(n), Dec. 19, 2014, 128 Stat. 3469, as amended by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, provided that:
 
-> **“[(1)** Repealed. Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597.]
+> **“[(1)** Repealed. Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597.]
 
 > **“(2) ASDEIE.—** Any reference to the Assistant Secretary of Defense for Operational Energy Plans and Programs or to the Deputy Under Secretary of Defense for Installations and Environment in any provision of law or in any rule, regulation, or other paper of the United States shall be deemed to refer to the Assistant Secretary of Defense for Energy, Installations, and Environment.”
 
 **Redesignation of Certain Positions in Office of Secretary of Defense**
 
-Pub. L. 111–383, div. A, title IX, § 901(a), Jan. 7, 2011, 124 Stat. 4317, provided that:
+Pub. L. 111–383, div. A, title IX, § 901(a), Jan. 7, 2011, 124 Stat. 4317, provided that:
 
 > **“(1) Redesignation.—** Positions in the Office of the Secretary of Defense are hereby redesignated as follows:
 
@@ -479,7 +479,7 @@ Pub. L. 111–383, div. A, title IX, § 901(a), Jan. 7, 2011, 124 Stat. 4317, 
 
 **Inapplicability of Appointment Requirement to Certain Individuals Serving on Effective Date**
 
-Pub. L. 111–383, div. A, title IX, § 901(*o*), Jan. 7, 2011, 124 Stat. 4327, provided that:
+Pub. L. 111–383, div. A, title IX, § 901(*o*), Jan. 7, 2011, 124 Stat. 4327, provided that:
 
 > **“(1) In general.—** Notwithstanding this section [see Tables for classification] and the amendments made by this section, the individual serving as specified in paragraph (2) on December 31, 2010, may continue to serve in the applicable position specified in that paragraph after that date without the requirement for appointment by the President, by and with the advice and consent of the Senate.
 
@@ -493,19 +493,19 @@ Pub. L. 111–383, div. A, title IX, § 901(*o*), Jan. 7, 2011, 124 Stat. 4327
 
 **Defense Acquisition Workforce**
 
-Pub. L. 105–85, div. A, title IX, § 912(a)–(e), Nov. 18, 1997, 111 Stat. 1860, 1861, required Secretary of Defense to accomplish reductions in defense acquisition personnel positions, to report on specific acquisition positions previously eliminated, to submit an implementation plan to streamline and improve acquisition organizations, to review acquisition organizations and functions, and to require certain duties of Task Force on Defense Reform.
+Pub. L. 105–85, div. A, title IX, § 912(a)–(e), Nov. 18, 1997, 111 Stat. 1860, 1861, required Secretary of Defense to accomplish reductions in defense acquisition personnel positions, to report on specific acquisition positions previously eliminated, to submit an implementation plan to streamline and improve acquisition organizations, to review acquisition organizations and functions, and to require certain duties of Task Force on Defense Reform.
 
 **Reduction of Personnel Assigned to Office of the Secretary of Defense**
 
-Pub. L. 104–201, div. A, title IX, § 903, Sept. 23, 1996, 110 Stat. 2617, which provided for phased reduction of number of personnel assigned to or employed in functions in Office of the Secretary of Defense, was repealed and restated in section 143 of this title by Pub. L. 105–85, div. A, title IX, § 911(d)(1), (3), Nov. 18, 1997, 111 Stat. 1859, 1860.
+Pub. L. 104–201, div. A, title IX, § 903, Sept. 23, 1996, 110 Stat. 2617, which provided for phased reduction of number of personnel assigned to or employed in functions in Office of the Secretary of Defense, was repealed and restated in section 143 of this title by Pub. L. 105–85, div. A, title IX, § 911(d)(1), (3), Nov. 18, 1997, 111 Stat. 1859, 1860.
 
 **Organization of Office of the Secretary of Defense**
 
-Pub. L. 104–106, div. A, title IX, § 901, Feb. 10, 1996, 110 Stat. 399, as amended by Pub. L. 104–201, div. A, title IX, § 903(g), Sept. 23, 1996, 110 Stat. 2618, directed the Secretary of Defense to conduct a review of the organizations and functions of the Office of the Secretary of Defense and the personnel needed to carry out those functions, and to submit to the congressional defense committees a report containing findings, conclusions, and a plan for implementing recommendations not later than Mar. 1, 1996.
+Pub. L. 104–106, div. A, title IX, § 901, Feb. 10, 1996, 110 Stat. 399, as amended by Pub. L. 104–201, div. A, title IX, § 903(g), Sept. 23, 1996, 110 Stat. 2618, directed the Secretary of Defense to conduct a review of the organizations and functions of the Office of the Secretary of Defense and the personnel needed to carry out those functions, and to submit to the congressional defense committees a report containing findings, conclusions, and a plan for implementing recommendations not later than Mar. 1, 1996.
 
-Pub. L. 99–433, title I, § 109, Oct. 1, 1986, 100 Stat. 999, directed the Secretary of Defense, the Secretaries of the military departments, and the Chairman of the Joint Chiefs of Staff to conduct studies of the functions and organization of the Office of the Secretary of Defense, required the Secretaries of the military departments and the Chairman of the Joint Chiefs of Staff to submit reports on their studies to the Secretary of Defense, and directed the Secretary of Defense to submit a report on the Secretary’s study to Congress not later than one year after Oct. 1, 1986.
+Pub. L. 99–433, title I, § 109, Oct. 1, 1986, 100 Stat. 999, directed the Secretary of Defense, the Secretaries of the military departments, and the Chairman of the Joint Chiefs of Staff to conduct studies of the functions and organization of the Office of the Secretary of Defense, required the Secretaries of the military departments and the Chairman of the Joint Chiefs of Staff to submit reports on their studies to the Secretary of Defense, and directed the Secretary of Defense to submit a report on the Secretary’s study to Congress not later than one year after Oct. 1, 1986.
 
-## § 132. Deputy Secretary of Defense
+## § 132. Deputy Secretary of Defense
 
 **(a)** There is a Deputy Secretary of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Deputy Secretary shall be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management experience. A person may not be appointed as Deputy Secretary of Defense within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
@@ -531,13 +531,13 @@ Pub. L. 99–433, title I, § 109, Oct. 1, 1986, 100 Stat. 999, directed the S
 
 **(2)** Executive Order No. 12788 of January 15, 1992, as amended (57 Fed. Reg. 2213; relating to the Defense Economic Adjustment Program).
 
-(Added Pub. L. 87–651, title II, § 202, Sept. 7, 1962, 76 Stat. 518, § 134; amended Pub. L. 92–596, § 4(1), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, § 1(a), Oct. 21, 1977, 91 Stat. 1172; renumbered § 132 and amended Pub. L. 99–433, title I, §§ 101(a)(7), 110(d)(7), Oct. 1, 1986, 100 Stat. 995, 1003; Pub. L. 110–181, div. A, title IX, §§ 903(b), 904(a)(1), Jan. 28, 2008, 122 Stat. 273; Pub. L. 111–84, div. B, title XXVIII, § 2831(a), Oct. 28, 2009, 123 Stat. 2669; Pub. L. 111–383, div. A, title IX, § 901(c)(2), (m)(2), title X, § 1075(b)(4), div. B, title XXVIII, § 2821, Jan. 7, 2011, 124 Stat. 4321, 4326, 4369, 4465; Pub. L. 112–81, div. A, title IX, § 902, Dec. 31, 2011, 125 Stat. 1532; Pub. L. 113–291, div. A, title IX, § 901(k)(2), Dec. 19, 2014, 128 Stat. 3468; Pub. L. 114–328, div. A, title IX, § 901(c)(4), Dec. 23, 2016, 130 Stat. 2341; Pub. L. 115–91, div. A, title IX, § 910(b), Dec. 12, 2017, 131 Stat. 1517; Pub. L. 116–92, div. A, title XVII, § 1731(a)(8), Dec. 20, 2019, 133 Stat. 1812; Pub. L. 118–159, div. A, title IX, § 901, Dec. 23, 2024, 138 Stat. 2024.)
+(Added Pub. L. 87–651, title II, § 202, Sept. 7, 1962, 76 Stat. 518, § 134; amended Pub. L. 92–596, § 4(1), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, § 1(a), Oct. 21, 1977, 91 Stat. 1172; renumbered § 132 and amended Pub. L. 99–433, title I, §§ 101(a)(7), 110(d)(7), Oct. 1, 1986, 100 Stat. 995, 1003; Pub. L. 110–181, div. A, title IX, §§ 903(b), 904(a)(1), Jan. 28, 2008, 122 Stat. 273; Pub. L. 111–84, div. B, title XXVIII, § 2831(a), Oct. 28, 2009, 123 Stat. 2669; Pub. L. 111–383, div. A, title IX, § 901(c)(2), (m)(2), title X, § 1075(b)(4), div. B, title XXVIII, § 2821, Jan. 7, 2011, 124 Stat. 4321, 4326, 4369, 4465; Pub. L. 112–81, div. A, title IX, § 902, Dec. 31, 2011, 125 Stat. 1532; Pub. L. 113–291, div. A, title IX, § 901(k)(2), Dec. 19, 2014, 128 Stat. 3468; Pub. L. 114–328, div. A, title IX, § 901(c)(4), Dec. 23, 2016, 130 Stat. 2341; Pub. L. 115–91, div. A, title IX, § 910(b), Dec. 12, 2017, 131 Stat. 1517; Pub. L. 116–92, div. A, title XVII, § 1731(a)(8), Dec. 20, 2019, 133 Stat. 1812; Pub. L. 118–159, div. A, title IX, § 901, Dec. 23, 2024, 138 Stat. 2024.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 134(a) 134(b) | 5:171c(a) (1st sentence). 5:171c(a) (less 1st sentence and last 15 words of 2d sentence). | July 26, 1947, ch. 343, § 203(a); added Aug. 10, 1949, ch. 412, § 6(a) (1st par.), 63 Stat. 581. |
+| 134(a) 134(b) | 5:171c(a) (1st sentence). 5:171c(a) (less 1st sentence and last 15 words of 2d sentence). | July 26, 1947, ch. 343, § 203(a); added Aug. 10, 1949, ch. 412, § 6(a) (1st par.), 63 Stat. 581. |
 | 134(c) | 5:171c(a) (last 15 words of 2d sentence). |  |
 
 In subsection (a), the last sentence is substituted for 5 U.S.C. 171c(a) (proviso).
@@ -560,45 +560,45 @@ A prior section 132 was renumbered section 112 of this title.
 
 2019—Subsecs. (d), (e). Pub. L. 116–92 redesignated subsec. (e) as (d).
 
-2017—Subsecs. (c), (d). Pub. L. 115–91, § 910(b)(2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The Deputy Secretary serves as the Chief Management Officer of the Department of Defense.”
+2017—Subsecs. (c), (d). Pub. L. 115–91, § 910(b)(2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The Deputy Secretary serves as the Chief Management Officer of the Department of Defense.”
 
-Pub. L. 115–91, § 910(b)(1), repealed Pub. L. 114–328, § 901(c)(4). See 2016 Amendment note below.
+Pub. L. 115–91, § 910(b)(1), repealed Pub. L. 114–328, § 901(c)(4). See 2016 Amendment note below.
 
-Subsec. (e). Pub. L. 115–91, § 910(b)(1), repealed Pub. L. 114–328, § 901(c)(4). See 2016 Amendment note below.
+Subsec. (e). Pub. L. 115–91, § 910(b)(1), repealed Pub. L. 114–328, § 901(c)(4). See 2016 Amendment note below.
 
-2016—Subsecs. (c) to (e). Pub. L. 114–328, § 901(c)(4), which directed striking out subsec. (c) and redesignating subsecs. (d) and (e) as (c) and (d), respectively, was repealed by Pub. L. 115–91, § 910(b)(1).
+2016—Subsecs. (c) to (e). Pub. L. 114–328, § 901(c)(4), which directed striking out subsec. (c) and redesignating subsecs. (d) and (e) as (c) and (d), respectively, was repealed by Pub. L. 115–91, § 910(b)(1).
 
 2014—Subsec. (b). Pub. L. 113–291 substituted “dies, resigns, or is otherwise unable to perform the functions and duties of the office” for “is disabled or there is no Secretary of Defense”.
 
 2011—Subsec. (a). Pub. L. 112–81 inserted “The Deputy Secretary shall be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management experience.” after first sentence.
 
-Subsec. (c). Pub. L. 111–383, § 901(c)(2), struck out at end “The Deputy Secretary shall be assisted in this capacity by a Deputy Chief Management Officer, who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.”
+Subsec. (c). Pub. L. 111–383, § 901(c)(2), struck out at end “The Deputy Secretary shall be assisted in this capacity by a Deputy Chief Management Officer, who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.”
 
-Subsec. (d). Pub. L. 111–383, § 1075(b)(4)(A), which directed redesignation of subsec. (d), as added by section 2831(a) of Pub. L. 111–84, as (e), could not be executed because of the prior amendment by Pub. L. 111–383, § 901(m)(2). See below.
+Subsec. (d). Pub. L. 111–383, § 1075(b)(4)(A), which directed redesignation of subsec. (d), as added by section 2831(a) of Pub. L. 111–84, as (e), could not be executed because of the prior amendment by Pub. L. 111–383, § 901(m)(2). See below.
 
-Pub. L. 111–383, § 901(m)(2), redesignated subsec. (d) relating to duties of the Deputy Secretary of Defense relating to Guam, as (e).
+Pub. L. 111–383, § 901(m)(2), redesignated subsec. (d) relating to duties of the Deputy Secretary of Defense relating to Guam, as (e).
 
-Subsec. (e). Pub. L. 111–383, § 2821, which directed substitution of “September 30, 2020” for “September 30, 2015” in subsec. (d), as added by section 2831(a) of Pub. L. 111–84, was executed in subsec. (e) to reflect the probable intent of Congress and the redesignation of subsec. (d) as (e) by Pub. L. 111–383, § 901(m)(2). See below.
+Subsec. (e). Pub. L. 111–383, § 2821, which directed substitution of “September 30, 2020” for “September 30, 2015” in subsec. (d), as added by section 2831(a) of Pub. L. 111–84, was executed in subsec. (e) to reflect the probable intent of Congress and the redesignation of subsec. (d) as (e) by Pub. L. 111–383, § 901(m)(2). See below.
 
-Pub. L. 111–383, § 1075(b)(4), which directed redesignation of subsec. (d), as added by section 2831(a) of Pub. L. 111–84, as (e), and substitution of “Guam Oversight Council” for “Guam Executive Council”, was executed by making the substitution in subsec. (e) because of the prior redesignation of subsec. (d) as (e) by Pub. L. 111–383, § 901(m)(2). See below.
+Pub. L. 111–383, § 1075(b)(4), which directed redesignation of subsec. (d), as added by section 2831(a) of Pub. L. 111–84, as (e), and substitution of “Guam Oversight Council” for “Guam Executive Council”, was executed by making the substitution in subsec. (e) because of the prior redesignation of subsec. (d) as (e) by Pub. L. 111–383, § 901(m)(2). See below.
 
-Pub. L. 111–383, § 901(m)(2), redesignated subsec. (d) relating to duties of the Deputy Secretary of Defense relating to Guam, as (e).
+Pub. L. 111–383, § 901(m)(2), redesignated subsec. (d) relating to duties of the Deputy Secretary of Defense relating to Guam, as (e).
 
 2009—Subsec. (d). Pub. L. 111–84 added subsec. (d) relating to the Deputy Secretary of Defense leading the Guam Executive Council.
 
-2008—Subsec. (a). Pub. L. 110–181, § 903(b), substituted “seven” for “ten”.
+2008—Subsec. (a). Pub. L. 110–181, § 903(b), substituted “seven” for “ten”.
 
-Subsecs. (c), (d). Pub. L. 110–181, § 904(a)(1), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 110–181, § 904(a)(1), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1986—Pub. L. 99–433 renumbered section 134 of this title as this section and struck out “: appointment; powers and duties; precedence” at end of section catchline.
+1986—Pub. L. 99–433 renumbered section 134 of this title as this section and struck out “: appointment; powers and duties; precedence” at end of section catchline.
 
-1977—Pub. L. 95–140, § 1(a)(4), substituted “Deputy Secretary” for “Deputy Secretaries” in section catchline.
+1977—Pub. L. 95–140, § 1(a)(4), substituted “Deputy Secretary” for “Deputy Secretaries” in section catchline.
 
-Subsec. (a). Pub. L. 95–140, § 1(a)(1), substituted “There is a Deputy Secretary” for “There are two Deputy Secretaries” and struck out “a” before “Deputy Secretary”.
+Subsec. (a). Pub. L. 95–140, § 1(a)(1), substituted “There is a Deputy Secretary” for “There are two Deputy Secretaries” and struck out “a” before “Deputy Secretary”.
 
-Subsec. (b). Pub. L. 95–140, § 1(a)(2), substituted “Deputy Secretary” for “Deputy Secretaries” and “Deputy Secretary” for “Deputy Secretaries, in the order of precedence, designated by the President”.
+Subsec. (b). Pub. L. 95–140, § 1(a)(2), substituted “Deputy Secretary” for “Deputy Secretaries” and “Deputy Secretary” for “Deputy Secretaries, in the order of precedence, designated by the President”.
 
-Subsec. (c). Pub. L. 95–140, § 1(a)(3), substituted “The Deputy Secretary takes” for “The Deputy Secretaries take”.
+Subsec. (c). Pub. L. 95–140, § 1(a)(3), substituted “The Deputy Secretary takes” for “The Deputy Secretaries take”.
 
 1972—Pub. L. 92–596 substituted “Deputy Secretaries” for “Deputy Secretary” in section catchline.
 
@@ -612,13 +612,13 @@ Subsec. (c). Pub. L. 92–596 substituted “The Deputy Secretaries take” for 
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title IX, § 910(b)(1), Dec. 12, 2017, 131 Stat. 1517, which provided that the amendment made by section 910(b)(1) was effective on Jan. 31, 2018, was repealed by Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
+Pub. L. 115–91, div. A, title IX, § 910(b)(1), Dec. 12, 2017, 131 Stat. 1517, which provided that the amendment made by section 910(b)(1) was effective on Jan. 31, 2018, was repealed by Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
 
-Pub. L. 115–91, div. A, title IX, § 910(b)(2), Dec. 12, 2017, 131 Stat. 1518, which provided that the amendment made by section 910(b)(2) was effective on Feb. 1, 2018, was repealed by Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
+Pub. L. 115–91, div. A, title IX, § 910(b)(2), Dec. 12, 2017, 131 Stat. 1518, which provided that the amendment made by section 910(b)(2) was effective on Feb. 1, 2018, was repealed by Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title IX, § 901(c)(4), Dec. 23, 2016, 130 Stat. 2341, which provided that the amendment made by section 901(c)(4) was effective on Feb. 1, 2018, was repealed by Pub. L. 115–91, div. A, title IX, § 910(b)(1), Dec. 12, 2017, 131 Stat. 1517.
+Pub. L. 114–328, div. A, title IX, § 901(c)(4), Dec. 23, 2016, 130 Stat. 2341, which provided that the amendment made by section 901(c)(4) was effective on Feb. 1, 2018, was repealed by Pub. L. 115–91, div. A, title IX, § 910(b)(1), Dec. 12, 2017, 131 Stat. 1517.
 
 **Effective Date of 2011 Amendment**
 
@@ -630,7 +630,7 @@ For order of succession during any period when the Secretary has died, resigned,
 
 **Senior Contracting Official for Strategic Capabilities Office**
 
-Pub. L. 118–31, div. A, title VIII, § 807, Dec. 22, 2023, 137 Stat. 318, provided that:
+Pub. L. 118–31, div. A, title VIII, § 807, Dec. 22, 2023, 137 Stat. 318, provided that:
 
 > **“(a) Senior Contracting Official.—** The staff of the Director of the Strategic Capabilities Office shall include a senior contracting official (as defined in section 1737 of title 10, United States Code) who shall have the authority to enter into and administer contracts, grants, cooperative agreements, and other transactions in execution of the program activities of the Strategic Capabilities Office.
 
@@ -648,7 +648,7 @@ Pub. L. 118–31, div. A, title VIII, § 807, Dec. 22, 2023, 137 Stat. 318, pr
 
 **Joint All Domain Command and Control**
 
-Pub. L. 117–263, div. A, title IX, § 915, Dec. 23, 2022, 136 Stat. 2752, provided that:
+Pub. L. 117–263, div. A, title IX, § 915, Dec. 23, 2022, 136 Stat. 2752, provided that:
 
 > **“(a) Direction and Control of Joint All Domain Command and Control.—** The Deputy Secretary of Defense, in coordination with the Vice Chairman of the Joint Chiefs of Staff, shall oversee joint all domain command and control (commonly known as ‘JADC2’) to ensure—
 
@@ -736,7 +736,7 @@ Pub. L. 117–263, div. A, title IX, § 915, Dec. 23, 2022, 136 Stat. 2752, pr
 
 **Improvement of the Strategic Capabilities Office of the Department of Defense**
 
-Pub. L. 116–92, div. A, title II, § 233, Dec. 20, 2019, 133 Stat. 1277, provided that:
+Pub. L. 116–92, div. A, title II, § 233, Dec. 20, 2019, 133 Stat. 1277, provided that:
 
 > **“(a) Organization.—**
 
@@ -762,7 +762,7 @@ Pub. L. 116–92, div. A, title II, § 233, Dec. 20, 2019, 133 Stat. 1277, pro
 
 **Assignment of Duties**
 
-Pub. L. 110–181, div. A, title IX, § 904(a)(2), Jan. 28, 2008, 122 Stat. 273, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, provided that:
+Pub. L. 110–181, div. A, title IX, § 904(a)(2), Jan. 28, 2008, 122 Stat. 273, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, provided that:
 
 > **“(A)** The Secretary of Defense shall assign duties and authorities relating to the management of the business operations of the Department of Defense.
 
@@ -772,11 +772,11 @@ Pub. L. 110–181, div. A, title IX, § 904(a)(2), Jan. 28, 2008, 122 Stat. 27
 
 > **“(D)** The Deputy Chief Management Officer shall perform the duties and have the authorities assigned by the Secretary under subparagraph (C) and perform such duties and have such authorities as are delegated by the Chief Management Officer.”
 
-[Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.]
+[Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.]
 
 **Assignment of Management Duties and Designation of the Chief Management Officers of the Military Departments**
 
-Pub. L. 110–181, div. A, title IX, § 904(b), Jan. 28, 2008, 122 Stat. 274, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597; Pub. L. 115–232, div. A, title X, § 1081(f)(1)(E), Aug. 13, 2018, 132 Stat. 1987, provided that:
+Pub. L. 110–181, div. A, title IX, § 904(b), Jan. 28, 2008, 122 Stat. 274, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597; Pub. L. 115–232, div. A, title X, § 1081(f)(1)(E), Aug. 13, 2018, 132 Stat. 1987, provided that:
 
 > **“(1)** The Secretary of a military department shall assign duties and authorities relating to the management of the business operations of such military department.
 
@@ -786,9 +786,9 @@ Pub. L. 110–181, div. A, title IX, § 904(b), Jan. 28, 2008, 122 Stat. 274, 
 
 > **“(4)** The Chief Management Officer of each military department shall promptly provide such information relating to the business operations of such department to the Chief Management Officer of the Department of Defense as is necessary to assist the Chief Management Officer in the performance of the duties assigned to such official.”
 
-[Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.]
+[Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.]
 
-## § 132a. Performance Improvement Officer
+## § 132a. Performance Improvement Officer
 
 **(a) Establishment.—**
 
@@ -824,25 +824,25 @@ Pub. L. 110–181, div. A, title IX, § 904(b), Jan. 28, 2008, 122 Stat. 274, 
 
 **(10)** Maintaining authority for convening meetings of personnel and organizations of the Department on matters relating to the duties and responsibilities described in this subsection.
 
-(Added Pub. L. 118–159, div. A, title IX, § 902(a), Dec. 23, 2024, 138 Stat. 2025; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(3), Dec. 18, 2025, 139 Stat. 1207.)
+(Added Pub. L. 118–159, div. A, title IX, § 902(a), Dec. 23, 2024, 138 Stat. 2025; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(3), Dec. 18, 2025, 139 Stat. 1207.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 132a, added Pub. L. 111–383, div. A, title IX, § 901(c)(1), Jan. 7, 2011, 124 Stat. 4320; amended Pub. L. 113–291, div. A, title IX, § 901(a)(1), Dec. 19, 2014, 128 Stat. 3462; Pub. L. 114–328, div. A, title IX, § 901(d), Dec. 23, 2016, 130 Stat. 2342; Pub. L. 115–91, div. A, title IX, § 910(a)(1), Dec. 12, 2017, 131 Stat. 1516; Pub. L. 115–232, div. A, title IX, § 921(a)(1), (2)(A), Aug. 13, 2018, 132 Stat. 1926; Pub. L. 116–92, div. A, title IX, § 903(a)(2), Dec. 20, 2019, 133 Stat. 1555, related to establishment and responsibilities of the Chief Management Officer of the Department of Defense, prior to repeal by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794.
+A prior section 132a, added Pub. L. 111–383, div. A, title IX, § 901(c)(1), Jan. 7, 2011, 124 Stat. 4320; amended Pub. L. 113–291, div. A, title IX, § 901(a)(1), Dec. 19, 2014, 128 Stat. 3462; Pub. L. 114–328, div. A, title IX, § 901(d), Dec. 23, 2016, 130 Stat. 2342; Pub. L. 115–91, div. A, title IX, § 910(a)(1), Dec. 12, 2017, 131 Stat. 1516; Pub. L. 115–232, div. A, title IX, § 921(a)(1), (2)(A), Aug. 13, 2018, 132 Stat. 1926; Pub. L. 116–92, div. A, title IX, § 903(a)(2), Dec. 20, 2019, 133 Stat. 1555, related to establishment and responsibilities of the Chief Management Officer of the Department of Defense, prior to repeal by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794.
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 1701(a)(3)(A), substituted “Improvement Officer” for “improvement officer” in section catchline.
+2025—Pub. L. 119–60, § 1701(a)(3)(A), substituted “Improvement Officer” for “improvement officer” in section catchline.
 
-Subsec. (c)(1). Pub. L. 119–60, § 1701(a)(3)(B), substituted “National Defense Authorization Act for Fiscal Year 2008” for “National Defense Authorization Act of Fiscal Year 2008”.
+Subsec. (c)(1). Pub. L. 119–60, § 1701(a)(3)(B), substituted “National Defense Authorization Act for Fiscal Year 2008” for “National Defense Authorization Act of Fiscal Year 2008”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Guidance Required**
 
-Pub. L. 118–159, div. A, title IX, § 902(c), Dec. 23, 2024, 138 Stat. 2026, provided that:
+Pub. L. 118–159, div. A, title IX, § 902(c), Dec. 23, 2024, 138 Stat. 2026, provided that:
 
 > “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall issue rules, regulations, policies, or other guidance (as appropriate)—
 
@@ -852,19 +852,19 @@ Pub. L. 118–159, div. A, title IX, § 902(c), Dec. 23, 2024, 138 Stat. 2026,
 
 **Transfer of Duties and Responsibilities of the Chief Management Officer**
 
-Pub. L. 116–283, div. A, title IX, § 901(b)–(d), Jan. 1, 2021, 134 Stat. 3794, 3795, as amended by Pub. L. 117–81, div. A, title IX, § 904, Dec. 27, 2021, 135 Stat. 1871, provided for the transfer of duties and responsibilities, personnel, functions, and assets of the Chief Management Officer of the Department of Defense not later than one year after Jan. 1, 2021.
+Pub. L. 116–283, div. A, title IX, § 901(b)–(d), Jan. 1, 2021, 134 Stat. 3794, 3795, as amended by Pub. L. 117–81, div. A, title IX, § 904, Dec. 27, 2021, 135 Stat. 1871, provided for the transfer of duties and responsibilities, personnel, functions, and assets of the Chief Management Officer of the Department of Defense not later than one year after Jan. 1, 2021.
 
 **Service of Incumbent Deputy Chief Management Officer as Chief Management Officer Upon Commencement of Latter Position Without Further Appointment**
 
-Pub. L. 115–91, div. A, title IX, § 910(e), Dec. 12, 2017, 131 Stat. 1518, which provided that the individual serving in the position of Deputy Chief Management Officer of the Department of Defense as of February 1, 2018, could continue to serve as Chief Management Officer of the Department of Defense under former section 132a of this title, was repealed by Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
+Pub. L. 115–91, div. A, title IX, § 910(e), Dec. 12, 2017, 131 Stat. 1518, which provided that the individual serving in the position of Deputy Chief Management Officer of the Department of Defense as of February 1, 2018, could continue to serve as Chief Management Officer of the Department of Defense under former section 132a of this title, was repealed by Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
 
 **Defense Agencies and Field Activities Providing Shared Business Services**
 
-Pub. L. 115–91, div. A, title IX, § 910(f), Dec. 12, 2017, 131 Stat. 1518, which related to initial reporting requirements and notice to Congress on transfer to the Chief Management Officer of the Department of Defense of oversight of shared business services, was repealed by Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
+Pub. L. 115–91, div. A, title IX, § 910(f), Dec. 12, 2017, 131 Stat. 1518, which related to initial reporting requirements and notice to Congress on transfer to the Chief Management Officer of the Department of Defense of oversight of shared business services, was repealed by Pub. L. 116–283, div. A, title IX, § 901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
 
-## [§ 133. Repealed. Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339]
+## [§ 133. Repealed. Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339]
 
-Section, added Pub. L. 99–348, title V, § 501(a), July 1, 1986, 100 Stat. 707, § 134a; renumbered § 133 and amended Pub. L. 99–433, title I, §§ 101(a)(7), 110(c)(1), (d)(8), Oct. 1, 1986, 100 Stat. 995, 1002, 1003; Pub. L. 99–500, § 101(c) [title X, § 901], Oct. 18, 1986, 100 Stat. 1783–82, 1783–130, and Pub. L. 99–591, § 101(c) [title X, § 901], Oct. 30, 1986, 100 Stat. 3341–82, 3341–130; Pub. L. 99–661, div. A, title IX, formerly title IV, § 901, Nov. 14, 1986, 100 Stat. 3910, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, § 809(d), Sept. 29, 1988, 102 Stat. 2013; Pub. L. 103–160, div. A, title IX, § 904(b), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, § 911(a)(2), (d)(2), Oct. 5, 1999, 113 Stat. 717, 719; Pub. L. 107–107, div. A, title VIII, § 801(a), Dec. 28, 2001, 115 Stat. 1174; Pub. L. 109–364, div. A, title X, § 1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, § 907, Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–350, § 5(b)(1), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 113–291, div. A, title IX, § 901(j)(2)(A), Dec. 19, 2014, 128 Stat. 3467; Pub. L. 114–92, div. A, title VIII, § 825(b), Nov. 25, 2015, 129 Stat. 908; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597, related to Under Secretary of Defense for Acquisition, Technology, and Logistics.
+Section, added Pub. L. 99–348, title V, § 501(a), July 1, 1986, 100 Stat. 707, § 134a; renumbered § 133 and amended Pub. L. 99–433, title I, §§ 101(a)(7), 110(c)(1), (d)(8), Oct. 1, 1986, 100 Stat. 995, 1002, 1003; Pub. L. 99–500, § 101(c) [title X, § 901], Oct. 18, 1986, 100 Stat. 1783–82, 1783–130, and Pub. L. 99–591, § 101(c) [title X, § 901], Oct. 30, 1986, 100 Stat. 3341–82, 3341–130; Pub. L. 99–661, div. A, title IX, formerly title IV, § 901, Nov. 14, 1986, 100 Stat. 3910, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, § 809(d), Sept. 29, 1988, 102 Stat. 2013; Pub. L. 103–160, div. A, title IX, § 904(b), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, § 911(a)(2), (d)(2), Oct. 5, 1999, 113 Stat. 717, 719; Pub. L. 107–107, div. A, title VIII, § 801(a), Dec. 28, 2001, 115 Stat. 1174; Pub. L. 109–364, div. A, title X, § 1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, § 907, Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–350, § 5(b)(1), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 113–291, div. A, title IX, § 901(j)(2)(A), Dec. 19, 2014, 128 Stat. 3467; Pub. L. 114–92, div. A, title VIII, § 825(b), Nov. 25, 2015, 129 Stat. 908; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597, related to Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
 A prior section 133 was renumbered section 113 of this title.
 
@@ -872,15 +872,15 @@ A prior section 133 was renumbered section 113 of this title.
 
 **Change of Name**
 
-Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that the position of Under Secretary of Defense for Acquisition and Technology in the Department of Defense was redesignated as the Under Secretary of Defense for Acquisition, Technology, and Logistics, and any reference in any law, regulation, document, or other record of the United States to the Under Secretary of Defense for Acquisition and Technology was to be treated as referring to the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that the position of Under Secretary of Defense for Acquisition and Technology in the Department of Defense was redesignated as the Under Secretary of Defense for Acquisition, Technology, and Logistics, and any reference in any law, regulation, document, or other record of the United States to the Under Secretary of Defense for Acquisition and Technology was to be treated as referring to the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
-Pub. L. 103–160, div. A, title IX, § 904(a), (f), Nov. 30, 1993, 107 Stat. 1728, 1729, provided that the office of Under Secretary of Defense for Acquisition in the Department of Defense was redesignated as Under Secretary of Defense for Acquisition and Technology, the office of Deputy Under Secretary of Defense for Acquisition in the Department of Defense was redesignated as Deputy Under Secretary of Defense for Acquisition and Technology, and any reference to the Under Secretary of Defense for Acquisition or the Deputy Under Secretary of Defense for Acquisition in any provision of law other than this title, or in any rule, regulation, or other paper of the United States was to be treated as referring to the Under Secretary of Defense for Acquisition and Technology or the Deputy Under Secretary of Defense for Acquisition and Technology, respectively.
+Pub. L. 103–160, div. A, title IX, § 904(a), (f), Nov. 30, 1993, 107 Stat. 1728, 1729, provided that the office of Under Secretary of Defense for Acquisition in the Department of Defense was redesignated as Under Secretary of Defense for Acquisition and Technology, the office of Deputy Under Secretary of Defense for Acquisition in the Department of Defense was redesignated as Deputy Under Secretary of Defense for Acquisition and Technology, and any reference to the Under Secretary of Defense for Acquisition or the Deputy Under Secretary of Defense for Acquisition in any provision of law other than this title, or in any rule, regulation, or other paper of the United States was to be treated as referring to the Under Secretary of Defense for Acquisition and Technology or the Deputy Under Secretary of Defense for Acquisition and Technology, respectively.
 
 **Effective Date of Repeal**
 
-Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339, provided that the repeal of this section is effective Feb. 1, 2018.
+Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339, provided that the repeal of this section is effective Feb. 1, 2018.
 
-## § 133a. Under Secretary of Defense for Research and Engineering
+## § 133a. Under Secretary of Defense for Research and Engineering
 
 **(a) Under Secretary of Defense.—** There is an Under Secretary of Defense for Research and Engineering, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Under Secretary shall be appointed from among persons who have an extensive technology, science, or engineering background and experience with managing complex or advanced technological programs. A person may not be appointed as Under Secretary within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
@@ -902,45 +902,45 @@ Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 23
 
 **(2) Precedence in other matters.—** With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, and the Secretaries of the military departments.
 
-(Added Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339; amended Pub. L. 115–91, div. A, title IX, § 910(c)(2), Dec. 12, 2017, 131 Stat. 1518; Pub. L. 116–92, div. A, title IX, § 902(2), Dec. 20, 2019, 133 Stat. 1542; Pub. L. 118–31, div. A, title IX, § 901(a)(1), Dec. 22, 2023, 137 Stat. 354; Pub. L. 119–60, div. A, title IX, § 902, Dec. 18, 2025, 139 Stat. 1008.)
+(Added Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339; amended Pub. L. 115–91, div. A, title IX, § 910(c)(2), Dec. 12, 2017, 131 Stat. 1518; Pub. L. 116–92, div. A, title IX, § 902(2), Dec. 20, 2019, 133 Stat. 1542; Pub. L. 118–31, div. A, title IX, § 901(a)(1), Dec. 22, 2023, 137 Stat. 354; Pub. L. 119–60, div. A, title IX, § 902, Dec. 18, 2025, 139 Stat. 1008.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 133a, added Pub. L. 99–500, § 101(c) [title X, § 902(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–131, and Pub. L. 99–591, § 101(c) [title X, § 902(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–131; Pub. L. 99–661, div. A, title IX, formerly title IV, § 902(a)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 103–160, div. A, title IX, § 904(c), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, § 1070(a)(2), Oct. 5, 1994, 108 Stat. 2855; Pub. L. 104–106, div. A, title IX, § 903(c)(1), Feb. 10, 1996, 110 Stat. 401; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, § 911(c), Oct. 5, 1999, 113 Stat. 718; Pub. L. 107–107, div. A, title X, § 1048(b)(1), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 111–84, div. A, title IX, § 906(c)(1)(A), (2)(A), Oct. 28, 2009, 123 Stat. 2427, established the position of Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics, prior to repeal by Pub. L. 111–383, div. A, title IX, § 901(b)(1), (p), Jan. 7, 2011, 124 Stat. 4317, 4327, effective Jan. 1, 2011.
+A prior section 133a, added Pub. L. 99–500, § 101(c) [title X, § 902(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–131, and Pub. L. 99–591, § 101(c) [title X, § 902(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–131; Pub. L. 99–661, div. A, title IX, formerly title IV, § 902(a)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 103–160, div. A, title IX, § 904(c), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, § 1070(a)(2), Oct. 5, 1994, 108 Stat. 2855; Pub. L. 104–106, div. A, title IX, § 903(c)(1), Feb. 10, 1996, 110 Stat. 401; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, § 911(c), Oct. 5, 1999, 113 Stat. 718; Pub. L. 107–107, div. A, title X, § 1048(b)(1), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 111–84, div. A, title IX, § 906(c)(1)(A), (2)(A), Oct. 28, 2009, 123 Stat. 2427, established the position of Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics, prior to repeal by Pub. L. 111–383, div. A, title IX, § 901(b)(1), (p), Jan. 7, 2011, 124 Stat. 4317, 4327, effective Jan. 1, 2011.
 
 Another prior section 133a was renumbered section 117 of this title.
 
 **Amendments**
 
-2025—Subsec. (b)(2). Pub. L. 119–60, § 902(1)(A), (B), inserted “elements of the Department relating to” after “supervising, all” and “and enhancing jointness” after “and engineering efforts”.
+2025—Subsec. (b)(2). Pub. L. 119–60, § 902(1)(A), (B), inserted “elements of the Department relating to” after “supervising, all” and “and enhancing jointness” after “and engineering efforts”.
 
-Subsec. (b)(4), (5). Pub. L. 119–60, § 902(1)(C), (2), (3), added pars. (4) and (5).
+Subsec. (b)(4), (5). Pub. L. 119–60, § 902(1)(C), (2), (3), added pars. (4) and (5).
 
-2023—Subsec. (c)(1). Pub. L. 118–31, § 901(a)(1)(A), substituted “and the Deputy Secretary of Defense” for “, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense”.
+2023—Subsec. (c)(1). Pub. L. 118–31, § 901(a)(1)(A), substituted “and the Deputy Secretary of Defense” for “, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense”.
 
-Subsec. (c)(2). Pub. L. 118–31, § 901(a)(1)(B), struck out “the Chief Management Officer,” after “the Deputy Secretary,”.
+Subsec. (c)(2). Pub. L. 118–31, § 901(a)(1)(B), struck out “the Chief Management Officer,” after “the Deputy Secretary,”.
 
-2019—Subsec. (b)(2). Pub. L. 116–92 substituted “appropriate prototyping activities,” for “prototyping,” and struck out “, including the allocation of resources for defense research and engineering,” after “testing activities and programs”.
+2019—Subsec. (b)(2). Pub. L. 116–92 substituted “appropriate prototyping activities,” for “prototyping,” and struck out “, including the allocation of resources for defense research and engineering,” after “testing activities and programs”.
 
-2017—Subsec. (c)(1). Pub. L. 115–91, § 910(c)(2)(A), substituted “, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense” for “and the Deputy Secretary of Defense”.
+2017—Subsec. (c)(1). Pub. L. 115–91, § 910(c)(2)(A), substituted “, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense” for “and the Deputy Secretary of Defense”.
 
-Subsec. (c)(2). Pub. L. 115–91, § 910(c)(2)(B), inserted “the Chief Management Officer,” after “the Deputy Secretary,”.
+Subsec. (c)(2). Pub. L. 115–91, § 910(c)(2)(B), inserted “the Chief Management Officer,” after “the Deputy Secretary,”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title IX, § 910(c), Dec. 12, 2017, 131 Stat. 1518, provided that the amendment made by section 910(c)(2) is effective on Feb. 1, 2018, and immediately after the coming into effect of the amendments made by section 901 of Pub. L. 114–328 (see Tables for classification).
+Pub. L. 115–91, div. A, title IX, § 910(c), Dec. 12, 2017, 131 Stat. 1518, provided that the amendment made by section 910(c)(2) is effective on Feb. 1, 2018, and immediately after the coming into effect of the amendments made by section 901 of Pub. L. 114–328 (see Tables for classification).
 
 **Effective Date**
 
-Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339, provided that this section is effective on Feb. 1, 2018.
+Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339, provided that this section is effective on Feb. 1, 2018.
 
 **Semiannual Updates on Meetings Held by the Missile Defense Executive Board**
 
-Pub. L. 117–81, div. A, title XVI, § 1671(a)–(c), Dec. 27, 2021, 135 Stat. 2112, provided that:
+Pub. L. 117–81, div. A, title XVI, § 1671(a)–(c), Dec. 27, 2021, 135 Stat. 2112, provided that:
 
 > **“(a) Semiannual Updates.—** Not later than March 1 and September 1 of each year, the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment, acting in their capacities as co-chairs of the Missile Defense Executive Board pursuant to section 1681(c) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 2162), shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a semiannual update including, with respect to the six-month period preceding the update—
 
@@ -954,11 +954,11 @@ Pub. L. 117–81, div. A, title XVI, § 1671(a)–(c), Dec. 27, 2021, 135 Stat
 
 **Service of Incumbent USD for ATL in Position**
 
-Pub. L. 114–328, div. A, title IX, § 901(a)(2), Dec. 23, 2016, 130 Stat. 2339, which provided that the Under Secretary of Defense for Acquisition, Technology, and Logistics serving as of Feb. 1, 2018, could continue as Under Secretary of Defense for Research and Engineering, without further appointment under this section, was repealed by Pub. L. 115–91, div. A, title IX, § 901, Dec. 12, 2017, 131 Stat. 1511.
+Pub. L. 114–328, div. A, title IX, § 901(a)(2), Dec. 23, 2016, 130 Stat. 2339, which provided that the Under Secretary of Defense for Acquisition, Technology, and Logistics serving as of Feb. 1, 2018, could continue as Under Secretary of Defense for Research and Engineering, without further appointment under this section, was repealed by Pub. L. 115–91, div. A, title IX, § 901, Dec. 12, 2017, 131 Stat. 1511.
 
 **Reports to Congress on Failure To Comply With Recommendations**
 
-Pub. L. 112–239, div. A, title IX, § 904(h), Jan. 2, 2013, 126 Stat. 1868, provided that:
+Pub. L. 112–239, div. A, title IX, § 904(h), Jan. 2, 2013, 126 Stat. 1868, provided that:
 
 > **“(1) Report required.—** Not later than 60 days after the end of each fiscal year, from fiscal year 2013 through fiscal year 2018, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on each case in which a major defense acquisition program, in the preceding fiscal year—
 
@@ -990,7 +990,7 @@ Pub. L. 112–239, div. A, title IX, § 904(h), Jan. 2, 2013, 126 Stat. 1868, 
 
 **Oversight by Office of Under Secretary of Defense for Acquisition, Technology, and Logistics of Exercise of Acquisition Authority by Combatant Commanders and Heads of Defense Agencies**
 
-Pub. L. 109–364, div. A, title IX, § 905, Oct. 17, 2006, 120 Stat. 2353, as amended by Pub. L. 110–181, div. A, title IX, § 905, Jan. 28, 2008, 122 Stat. 275; Pub. L. 115–232, div. A, title VIII, § 812(a)(1)(C), Aug. 13, 2018, 132 Stat. 1846, provided that:
+Pub. L. 109–364, div. A, title IX, § 905, Oct. 17, 2006, 120 Stat. 2353, as amended by Pub. L. 110–181, div. A, title IX, § 905, Jan. 28, 2008, 122 Stat. 275; Pub. L. 115–232, div. A, title VIII, § 812(a)(1)(C), Aug. 13, 2018, 132 Stat. 1846, provided that:
 
 > **“(a) Designation of Official for Oversight.—** The Secretary of Defense shall designate a senior acquisition official within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics to oversee the exercise of acquisition authority by—
 
@@ -1014,9 +1014,9 @@ Pub. L. 109–364, div. A, title IX, § 905, Oct. 17, 2006, 120 Stat. 2353, as
 
 **Improvement in Defense Research and Procurement Liaison With Israel**
 
-Pub. L. 100–456, div. A, title X, § 1006, Sept. 29, 1988, 102 Stat. 2040, as amended by Pub. L. 103–160, div. A, title IX, § 904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717, which provided for the designation of a primary liaison between the procurement and research and development activities of the armed forces of the United States and Israel, was repealed by Pub. L. 115–232, div. A, title VIII, § 811(e), Aug. 13, 2018, 132 Stat. 1845.
+Pub. L. 100–456, div. A, title X, § 1006, Sept. 29, 1988, 102 Stat. 2040, as amended by Pub. L. 103–160, div. A, title IX, § 904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717, which provided for the designation of a primary liaison between the procurement and research and development activities of the armed forces of the United States and Israel, was repealed by Pub. L. 115–232, div. A, title VIII, § 811(e), Aug. 13, 2018, 132 Stat. 1845.
 
-## § 133b. Under Secretary of Defense for Acquisition and Sustainment
+## § 133b. Under Secretary of Defense for Acquisition and Sustainment
 
 **(a) Under Secretary of Defense.—** There is an Under Secretary of Defense for Acquisition and Sustainment, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Under Secretary shall be appointed from among persons who have an extensive system development, engineering, production, or management background and experience with managing complex programs. A person may not be appointed as Under Secretary within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
@@ -1068,7 +1068,7 @@ Pub. L. 100–456, div. A, title X, § 1006, Sept. 29, 1988, 102 Stat. 2040, a
 
 **(2) Precedence in other matters.—** With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Under Secretary of Defense for Research and Engineering, and the Secretaries of the military departments.
 
-(Added Pub. L. 114–328, div. A, title IX, § 901(b), Dec. 23, 2016, 130 Stat. 2340; amended Pub. L. 115–91, div. A, title IX, §§ 902, 910(c)(3), Dec. 12, 2017, 131 Stat. 1511, 1518; Pub. L. 116–92, div. A, title IX, § 902(92), title XVI, § 1662(a), Dec. 20, 2019, 133 Stat. 1554, 1772; Pub. L. 116–283, div. A, title VIII, § 811(a)(2), title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 3749, 4294; Pub. L. 118–31, div. A, title IX, § 901(a)(2), Dec. 22, 2023, 137 Stat. 354; Pub. L. 118–159, div. A, title IX, § 903(a)(1), title XVI, § 1621(b), Dec. 23, 2024, 138 Stat. 2026, 2171; Pub. L. 119–60, div. A, title XVIII, § 1801(a)(2)(A), Dec. 18, 2025, 139 Stat. 1221.)
+(Added Pub. L. 114–328, div. A, title IX, § 901(b), Dec. 23, 2016, 130 Stat. 2340; amended Pub. L. 115–91, div. A, title IX, §§ 902, 910(c)(3), Dec. 12, 2017, 131 Stat. 1511, 1518; Pub. L. 116–92, div. A, title IX, § 902(92), title XVI, § 1662(a), Dec. 20, 2019, 133 Stat. 1554, 1772; Pub. L. 116–283, div. A, title VIII, § 811(a)(2), title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 3749, 4294; Pub. L. 118–31, div. A, title IX, § 901(a)(2), Dec. 22, 2023, 137 Stat. 354; Pub. L. 118–159, div. A, title IX, § 903(a)(1), title XVI, § 1621(b), Dec. 23, 2024, 138 Stat. 2026, 2171; Pub. L. 119–60, div. A, title XVIII, § 1801(a)(2)(A), Dec. 18, 2025, 139 Stat. 1221.)
 
 **Editorial Notes**
 
@@ -1080,33 +1080,33 @@ Another prior section 133b was renumbered section 118 of this title and was subs
 
 **Amendments**
 
-2025—Subsec. (b)(1). Pub. L. 119–60, § 1801(a)(2)(A)(i), substituted “delivers end-user capabilities with speed and innovation to counter threats and cost-effectively sustain the military advantage of the United States” for “delivering and sustaining timely, cost-effective capabilities for the armed forces (and the Department)”.
+2025—Subsec. (b)(1). Pub. L. 119–60, § 1801(a)(2)(A)(i), substituted “delivers end-user capabilities with speed and innovation to counter threats and cost-effectively sustain the military advantage of the United States” for “delivering and sustaining timely, cost-effective capabilities for the armed forces (and the Department)”.
 
-Subsec. (b)(9)(A). Pub. L. 119–60, § 1801(a)(2)(A)(ii), substituted “the defense acquisition system, in accordance with the objectives established pursuant to section 3102 of this title” for “defense acquisition programs”.
+Subsec. (b)(9)(A). Pub. L. 119–60, § 1801(a)(2)(A)(ii), substituted “the defense acquisition system, in accordance with the objectives established pursuant to section 3102 of this title” for “defense acquisition programs”.
 
-2024—Subsec. (b)(5)(D), (E). Pub. L. 118–159, § 1621(b)(1), added subpars. (D) and (E).
+2024—Subsec. (b)(5)(D), (E). Pub. L. 118–159, § 1621(b)(1), added subpars. (D) and (E).
 
-Subsec. (b)(6). Pub. L. 118–159, § 1621(b)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “overseeing the modernization of nuclear forces, including the nuclear command, control, and communications system, and the development of capabilities to counter weapons of mass destruction, and serving as the chairman of the Nuclear Weapons Council and the co-chairman of the Council on Oversight of the National Leadership Command, Control, and Communications System;”.
+Subsec. (b)(6). Pub. L. 118–159, § 1621(b)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “overseeing the modernization of nuclear forces, including the nuclear command, control, and communications system, and the development of capabilities to counter weapons of mass destruction, and serving as the chairman of the Nuclear Weapons Council and the co-chairman of the Council on Oversight of the National Leadership Command, Control, and Communications System;”.
 
-Subsec. (b)(10). Pub. L. 118–159, § 903(a)(1), added par. (10).
+Subsec. (b)(10). Pub. L. 118–159, § 903(a)(1), added par. (10).
 
-2023—Subsec. (c)(1). Pub. L. 118–31, § 901(a)(2)(A), struck out “the Chief Management Officer of the Department of Defense,” after “the Deputy Secretary of Defense,”.
+2023—Subsec. (c)(1). Pub. L. 118–31, § 901(a)(2)(A), struck out “the Chief Management Officer of the Department of Defense,” after “the Deputy Secretary of Defense,”.
 
-Subsec. (c)(2). Pub. L. 118–31, § 901(a)(2)(B), struck out “the Chief Management Officer,” after “the Deputy Secretary,”.
+Subsec. (c)(2). Pub. L. 118–31, § 901(a)(2)(B), struck out “the Chief Management Officer,” after “the Deputy Secretary,”.
 
-2021—Subsec. (b)(9). Pub. L. 116–283, § 811(a)(2), added par. (9).
+2021—Subsec. (b)(9). Pub. L. 116–283, § 811(a)(2), added par. (9).
 
-Subsec. (b)(9)(C). Pub. L. 116–283, § 1883(b)(2), substituted “section 4801” for “section 2500”.
+Subsec. (b)(9)(C). Pub. L. 116–283, § 1883(b)(2), substituted “section 4801” for “section 2500”.
 
-2019—Subsec. (b)(2). Pub. L. 116–92, § 902(92), inserted “appropriate prototyping activities,” after “development,”.
+2019—Subsec. (b)(2). Pub. L. 116–92, § 902(92), inserted “appropriate prototyping activities,” after “development,”.
 
-Subsec. (b)(4) to (8). Pub. L. 116–92, § 1662(a), added par. (4), redesignated former pars. (4) to (7) as (5) to (8), respectively, and in par. (6) inserted “, including the nuclear command, control, and communications system,” after “modernization of nuclear forces”.
+Subsec. (b)(4) to (8). Pub. L. 116–92, § 1662(a), added par. (4), redesignated former pars. (4) to (7) as (5) to (8), respectively, and in par. (6) inserted “, including the nuclear command, control, and communications system,” after “modernization of nuclear forces”.
 
-2017—Subsec. (b)(6). Pub. L. 115–91, § 902, substituted “advisory authority” for “supervisory authority”.
+2017—Subsec. (b)(6). Pub. L. 115–91, § 902, substituted “advisory authority” for “supervisory authority”.
 
-Subsec. (c)(1). Pub. L. 115–91, § 910(c)(3)(A), inserted “the Chief Management Officer of the Department of Defense,” after “the Deputy Secretary of Defense,”.
+Subsec. (c)(1). Pub. L. 115–91, § 910(c)(3)(A), inserted “the Chief Management Officer of the Department of Defense,” after “the Deputy Secretary of Defense,”.
 
-Subsec. (c)(2). Pub. L. 115–91, § 910(c)(3)(B), inserted “the Chief Management Officer,” after “the Deputy Secretary,”.
+Subsec. (c)(2). Pub. L. 115–91, § 910(c)(3)(B), inserted “the Chief Management Officer,” after “the Deputy Secretary,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1116,21 +1116,21 @@ Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, wit
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title IX, § 902, Dec. 12, 2017, 131 Stat. 1511, provided that the amendment made by section 902 is effective Feb. 1, 2018, and immediately after the coming into effect of the amendment made by section 901(b) of Pub. L. 114–328 (enacting this section).
+Pub. L. 115–91, div. A, title IX, § 902, Dec. 12, 2017, 131 Stat. 1511, provided that the amendment made by section 902 is effective Feb. 1, 2018, and immediately after the coming into effect of the amendment made by section 901(b) of Pub. L. 114–328 (enacting this section).
 
-Pub. L. 115–91, div. A, title IX, § 910(c), Dec. 12, 2017, 131 Stat. 1518, provided that the amendment made by section 910(c)(3) is effective on Feb. 1, 2018, and immediately after the coming into effect of the amendments made by section 901 of Pub. L. 114–328 (see Tables for classification).
+Pub. L. 115–91, div. A, title IX, § 910(c), Dec. 12, 2017, 131 Stat. 1518, provided that the amendment made by section 910(c)(3) is effective on Feb. 1, 2018, and immediately after the coming into effect of the amendments made by section 901 of Pub. L. 114–328 (see Tables for classification).
 
 **Effective Date**
 
-Pub. L. 114–328, div. A, title IX, § 901(b), Dec. 23, 2016, 130 Stat. 2339, provided that this section is effective on Feb. 1, 2018.
+Pub. L. 114–328, div. A, title IX, § 901(b), Dec. 23, 2016, 130 Stat. 2339, provided that this section is effective on Feb. 1, 2018.
 
 **Guidance Required**
 
-Pub. L. 118–159, div. A, title IX, § 903(a)(2), Dec. 23, 2024, 138 Stat. 2026, provided that: “Not later than July 1, 2025, the Secretary of Defense shall update relevant policies and guidance related to the duties of the Under Secretary of Defense for Acquisition and Sustainment prescribed in section 133b(b)(10) of title 10, United States Code, as added by paragraph (1).”
+Pub. L. 118–159, div. A, title IX, § 903(a)(2), Dec. 23, 2024, 138 Stat. 2026, provided that: “Not later than July 1, 2025, the Secretary of Defense shall update relevant policies and guidance related to the duties of the Under Secretary of Defense for Acquisition and Sustainment prescribed in section 133b(b)(10) of title 10, United States Code, as added by paragraph (1).”
 
 **Department of Defense Support for Requirements of White House Military Office**
 
-Pub. L. 117–263, div. A, title XVI, § 1672(b), (c), Dec. 23, 2022, 136 Stat. 2959, provided that:
+Pub. L. 117–263, div. A, title XVI, § 1672(b), (c), Dec. 23, 2022, 136 Stat. 2959, provided that:
 
 > **“(b) Portfolio Manager.—** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall designate a senior official to coordinate and advocate for the portfolio of national level programs of the Department of Defense that are either or both—
 
@@ -1150,7 +1150,7 @@ Pub. L. 117–263, div. A, title XVI, § 1672(b), (c), Dec. 23, 2022, 136 Stat
 
 > **“(5)** The Director of Cost Assessment and Program Evaluation.”
 
-## § 134. Under Secretary of Defense for Policy
+## § 134. Under Secretary of Defense for Policy
 
 **(a)** There is an Under Secretary of Defense for Policy, appointed from civilian life by the President, by and with the advice and consent of the Senate. A person may not be appointed as Under Secretary within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
@@ -1184,7 +1184,7 @@ Pub. L. 117–263, div. A, title XVI, § 1672(b), (c), Dec. 23, 2022, 136 Stat
 
 **(c)** The Under Secretary takes precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, and the Secretaries of the military departments.
 
-(Added Pub. L. 99–433, title I, § 105(1), Oct. 1, 1986, 100 Stat. 997; amended Pub. L. 99–500, § 101(c) [title X, § 903(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, § 101(c) [title X, § 903(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–661, div. A, title IX, formerly title IV, § 903(a), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–160, div. A, title IX, § 904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 105–261, div. A, title XV, § 1521(a), Oct. 17, 1998, 112 Stat. 2178; Pub. L. 106–65, div. A, title IX, § 911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, § 902(b), Dec. 2, 2002, 116 Stat. 2620; Pub. L. 110–181, div. A, title IX, § 903(c), Jan. 28, 2008, 122 Stat. 273; Pub. L. 113–291, div. A, title IX, § 901(j)(2)(B), Dec. 19, 2014, 128 Stat. 3467; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597; Pub. L. 115–232, div. A, title IX, § 902, Aug. 13, 2018, 132 Stat. 1921; Pub. L. 116–92, div. A, title IX, § 902(3), Dec. 20, 2019, 133 Stat. 1542; Pub. L. 118–159, div. A, title XVI, § 1621(c), Dec. 23, 2024, 138 Stat. 2171.)
+(Added Pub. L. 99–433, title I, § 105(1), Oct. 1, 1986, 100 Stat. 997; amended Pub. L. 99–500, § 101(c) [title X, § 903(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, § 101(c) [title X, § 903(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–661, div. A, title IX, formerly title IV, § 903(a), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–160, div. A, title IX, § 904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 105–261, div. A, title XV, § 1521(a), Oct. 17, 1998, 112 Stat. 2178; Pub. L. 106–65, div. A, title IX, § 911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, § 902(b), Dec. 2, 2002, 116 Stat. 2620; Pub. L. 110–181, div. A, title IX, § 903(c), Jan. 28, 2008, 122 Stat. 273; Pub. L. 113–291, div. A, title IX, § 901(j)(2)(B), Dec. 19, 2014, 128 Stat. 3467; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597; Pub. L. 115–232, div. A, title IX, § 902, Aug. 13, 2018, 132 Stat. 1921; Pub. L. 116–92, div. A, title IX, § 902(3), Dec. 20, 2019, 133 Stat. 1542; Pub. L. 118–159, div. A, title XVI, § 1621(c), Dec. 23, 2024, 138 Stat. 2171.)
 
 **Editorial Notes**
 
@@ -1204,17 +1204,17 @@ A prior section 134 was renumbered section 132 of this title.
 
 2019—Subsec. (c). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering,” for “Under Secretary of Defense for Acquisition, Technology, and Logistics,”.
 
-2018—Subsec. (b)(2). Pub. L. 115–232, § 902(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Under Secretary shall assist the Secretary of Defense—
+2018—Subsec. (b)(2). Pub. L. 115–232, § 902(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Under Secretary shall assist the Secretary of Defense—
 
 “(A) in preparing written policy guidance for the preparation and review of contingency plans; and
 
 “(B) in reviewing such plans.”
 
-Subsec. (b)(5). Pub. L. 115–232, § 902(b), added par. (5).
+Subsec. (b)(5). Pub. L. 115–232, § 902(b), added par. (5).
 
-2017—Pub. L. 115–91, § 1081(b)(1)(A), repealed Pub. L. 113–291, § 901(j)(2)(B). See 2014 Amendment note below.
+2017—Pub. L. 115–91, § 1081(b)(1)(A), repealed Pub. L. 113–291, § 901(j)(2)(B). See 2014 Amendment note below.
 
-2014—Subsec. (c). Pub. L. 113–291, § 901(j)(2)(B), which directed insertion of “the Under Secretary of Defense for Business Management and Information,” after “the Deputy Secretary of Defense,”, was repealed by Pub. L. 115–91, § 1081(b)(1)(A).
+2014—Subsec. (c). Pub. L. 113–291, § 901(j)(2)(B), which directed insertion of “the Under Secretary of Defense for Business Management and Information,” after “the Deputy Secretary of Defense,”, was repealed by Pub. L. 115–91, § 1081(b)(1)(A).
 
 2008—Subsec. (a). Pub. L. 110–181 substituted “seven” for “10”.
 
@@ -1232,15 +1232,15 @@ Subsec. (b)(5). Pub. L. 115–232, § 902(b), added par. (5).
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title IX, § 1081(b)(1), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(A) is effective as of Dec. 23, 2016.
+Pub. L. 115–91, div. A, title IX, § 1081(b)(1), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(A) is effective as of Dec. 23, 2016.
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–291, div. A, title IX, § 901(j)(2), Dec. 19, 2014, 128 Stat. 3467, which provided that the amendment made by section 901(j)(2)(B) is effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597.
+Pub. L. 113–291, div. A, title IX, § 901(j)(2), Dec. 19, 2014, 128 Stat. 3467, which provided that the amendment made by section 901(j)(2)(B) is effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597.
 
 **Implementation of Amendments by Pub. L. 105–261**
 
-Pub. L. 105–261, div. A, title XV, § 1521(c), (d), Oct. 17, 1998, 112 Stat. 2179, provided that:
+Pub. L. 105–261, div. A, title XV, § 1521(c), (d), Oct. 17, 1998, 112 Stat. 2179, provided that:
 
 > **“(c) Time for Implementation.—** The Secretary of Defense shall complete the actions necessary to implement the amendment made by subsection (a) [amending this section] and to establish the office of Deputy Under Secretary of Defense for Technology Security Policy in accordance with [former] section 134b of title 10, United States Code, as added by subsection (b), not later than 60 days after the date of the enactment of this Act [Oct. 17, 1998].
 
@@ -1252,7 +1252,7 @@ Pub. L. 105–261, div. A, title XV, § 1521(c), (d), Oct. 17, 1998, 112 Stat.
 
 **Responsibility for Policy on Civilian Casualty Matters**
 
-Pub. L. 115–232, div. A, title IX, § 936, Aug. 13, 2018, 132 Stat. 1939, as amended by Pub. L. 116–92, div. A, title XII, § 1282, Dec. 20, 2019, 133 Stat. 1706, provided that:
+Pub. L. 115–232, div. A, title IX, § 936, Aug. 13, 2018, 132 Stat. 1939, as amended by Pub. L. 116–92, div. A, title XII, § 1282, Dec. 20, 2019, 133 Stat. 1706, provided that:
 
 > **“(a) Designation of Senior Civilian Official.—** Not later than 90 days after the date of the enactment of this Act [Aug. 13, 2018], the Under Secretary of Defense for Policy shall designate a senior civilian official of the Department of Defense within the Office of the Secretary of Defense at or above the level of Assistant Secretary of Defense to develop, coordinate, and oversee compliance with the policy of the Department relating to civilian casualties resulting from United States military operations.
 
@@ -1298,9 +1298,9 @@ Pub. L. 115–232, div. A, title IX, § 936, Aug. 13, 2018, 132 Stat. 1939, as
 
 > **“(2)** the efforts of the Department to implement such updates.”
 
-## [§ 134a. Repealed. Pub. L. 111–383, div. A, title IX, § 901(b)(1), Jan. 7, 2011, 124 Stat. 4317]
+## [§ 134a. Repealed. Pub. L. 111–383, div. A, title IX, § 901(b)(1), Jan. 7, 2011, 124 Stat. 4317]
 
-Section, added Pub. L. 102–190, div. A, title IX, § 901(a)(1), Dec. 5, 1991, 105 Stat. 1450; amended Pub. L. 104–106, div. A, title IX, § 903(c)(2), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 111–84, div. A, title IX, § 906(c)(1)(B), (2)(B), Oct. 28, 2009, 123 Stat. 2427, established the position of Principal Deputy Under Secretary of Defense for Policy.
+Section, added Pub. L. 102–190, div. A, title IX, § 901(a)(1), Dec. 5, 1991, 105 Stat. 1450; amended Pub. L. 104–106, div. A, title IX, § 903(c)(2), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 111–84, div. A, title IX, § 906(c)(1)(B), (2)(B), Oct. 28, 2009, 123 Stat. 2427, established the position of Principal Deputy Under Secretary of Defense for Policy.
 
 **Editorial Notes**
 
@@ -1314,11 +1314,11 @@ A prior section 134a was renumbered section 133 of this title.
 
 Repeal effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as an Effective Date of 2011 Amendment note under section 131 of this title.
 
-## [§ 134b. Repealed. Pub. L. 111–84, div. A, title IX, § 905(a)(1), Oct. 28, 2009, 123 Stat. 2425]
+## [§ 134b. Repealed. Pub. L. 111–84, div. A, title IX, § 905(a)(1), Oct. 28, 2009, 123 Stat. 2425]
 
-Section, added Pub. L. 105–261, div. A, title XV, § 1521(b)(1), Oct. 17, 1998, 112 Stat. 2178, related to the Deputy Under Secretary of Defense for Technology Security Policy.
+Section, added Pub. L. 105–261, div. A, title XV, § 1521(b)(1), Oct. 17, 1998, 112 Stat. 2178, related to the Deputy Under Secretary of Defense for Technology Security Policy.
 
-## § 135. Under Secretary of Defense (Comptroller)
+## § 135. Under Secretary of Defense (Comptroller)
 
 **(a)**
 
@@ -1360,7 +1360,7 @@ Section, added Pub. L. 105–261, div. A, title XV, § 1521(b)(1), Oct. 17, 19
 
 **(f)** The Under Secretary of Defense (Comptroller) shall ensure that each of the congressional defense committees is informed, in a timely manner, regarding all matters relating to the budgetary, fiscal, and analytic activities of the Department of Defense that are under the supervision of the Under Secretary of Defense (Comptroller).
 
-(Added Pub. L. 99–433, title I, § 107, Oct. 1, 1986, 100 Stat. 998, § 137; renumbered § 135 and amended Pub. L. 103–160, div. A, title IX, §§ 901(a)(2), 902(a)(1), (b), Nov. 30, 1993, 107 Stat. 1726, 1727; Pub. L. 103–337, div. A, title IX, § 903(a)(1), (2), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title XV, § 1502(a)(6), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1043(b)(1), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 111–383, div. A, title IX, § 901(m)(3), Jan. 7, 2011, 124 Stat. 4326; Pub. L. 115–91, div. A, title IX, §§ 904(1), 905(a), 912(b), Dec. 12, 2017, 131 Stat. 1512, 1520; Pub. L. 117–81, div. A, title IX, § 901(f)(1), Dec. 27, 2021, 135 Stat. 1868.)
+(Added Pub. L. 99–433, title I, § 107, Oct. 1, 1986, 100 Stat. 998, § 137; renumbered § 135 and amended Pub. L. 103–160, div. A, title IX, §§ 901(a)(2), 902(a)(1), (b), Nov. 30, 1993, 107 Stat. 1726, 1727; Pub. L. 103–337, div. A, title IX, § 903(a)(1), (2), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title XV, § 1502(a)(6), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1043(b)(1), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 111–383, div. A, title IX, § 901(m)(3), Jan. 7, 2011, 124 Stat. 4326; Pub. L. 115–91, div. A, title IX, §§ 904(1), 905(a), 912(b), Dec. 12, 2017, 131 Stat. 1512, 1520; Pub. L. 117–81, div. A, title IX, § 901(f)(1), Dec. 27, 2021, 135 Stat. 1868.)
 
 **Editorial Notes**
 
@@ -1372,13 +1372,13 @@ A prior section 135 was renumbered section 138b of this title.
 
 2021—Subsec. (a)(1). Pub. L. 117–81 substituted “an armed force” for “the armed forces”.
 
-2017—Subsec. (a). Pub. L. 115–91, § 905(a)(1), designated existing provisions as par. (1) and added par. (2).
+2017—Subsec. (a). Pub. L. 115–91, § 905(a)(1), designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 115–91, § 904(1), inserted at end “A person may not be appointed as Under Secretary within seven years after relief from active duty as a commissioned officer of a regular component of the armed forces.”
+Pub. L. 115–91, § 904(1), inserted at end “A person may not be appointed as Under Secretary within seven years after relief from active duty as a commissioned officer of a regular component of the armed forces.”
 
-Subsec. (b). Pub. L. 115–91, § 912(b), inserted “the duties assigned to the Under Secretary in section 2222 of this title and” after “shall perform”.
+Subsec. (b). Pub. L. 115–91, § 912(b), inserted “the duties assigned to the Under Secretary in section 2222 of this title and” after “shall perform”.
 
-Subsecs. (d) to (f). Pub. L. 115–91, § 905(a)(2), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (d) to (f). Pub. L. 115–91, § 905(a)(2), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 2011—Subsec. (c)(5). Pub. L. 111–383 substituted “paragraphs” for “clauses”.
 
@@ -1392,29 +1392,29 @@ Subsecs. (d) to (f). Pub. L. 115–91, § 905(a)(2), added subsec. (d) and red
 
 1996—Subsec. (e). Pub. L. 104–106 designated existing provisions as par. (1), substituted “each congressional committee specified in paragraph (2) is” for “the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives are each”, and added par. (2).
 
-1994—Pub. L. 103–337, § 903(a)(2), substituted “Under Secretary of Defense (Comptroller)” for “Comptroller” as section catchline.
+1994—Pub. L. 103–337, § 903(a)(2), substituted “Under Secretary of Defense (Comptroller)” for “Comptroller” as section catchline.
 
-Subsec. (a). Pub. L. 103–337, § 903(a)(1)(A), substituted “an Under Secretary of Defense (Comptroller)” for “a Comptroller of the Department of Defense”.
+Subsec. (a). Pub. L. 103–337, § 903(a)(1)(A), substituted “an Under Secretary of Defense (Comptroller)” for “a Comptroller of the Department of Defense”.
 
-Subsecs. (b) to (e). Pub. L. 103–337, § 903(a)(1)(B), substituted “Under Secretary of Defense (Comptroller)” for “Comptroller” wherever appearing.
+Subsecs. (b) to (e). Pub. L. 103–337, § 903(a)(1)(B), substituted “Under Secretary of Defense (Comptroller)” for “Comptroller” wherever appearing.
 
-1993—Pub. L. 103–160, § 901(a)(2), renumbered section 137 of this title as this section.
+1993—Pub. L. 103–160, § 901(a)(2), renumbered section 137 of this title as this section.
 
-Subsec. (b). Pub. L. 103–160, § 902(a)(1), inserted “The Comptroller is the agency Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31.” after “(b)” and “additional” after “shall perform such”.
+Subsec. (b). Pub. L. 103–160, § 902(a)(1), inserted “The Comptroller is the agency Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31.” after “(b)” and “additional” after “shall perform such”.
 
-Subsec. (d). Pub. L. 103–160, § 901(a)(2), added subsec. (d).
+Subsec. (d). Pub. L. 103–160, § 901(a)(2), added subsec. (d).
 
-Subsec. (e). Pub. L. 103–160, § 902(b), added subsec. (e).
+Subsec. (e). Pub. L. 103–160, § 902(b), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Pub. L. 103–337, div. A, title IX, § 903(d), Oct. 5, 1994, 108 Stat. 2823, provided that: “Any reference to the Comptroller of the Department of Defense in any provision of law other than title 10, United States Code, or in any rule, regulation, or other paper of the United States shall be treated as referring to the Under Secretary of Defense (Comptroller).”
+Pub. L. 103–337, div. A, title IX, § 903(d), Oct. 5, 1994, 108 Stat. 2823, provided that: “Any reference to the Comptroller of the Department of Defense in any provision of law other than title 10, United States Code, or in any rule, regulation, or other paper of the United States shall be treated as referring to the Under Secretary of Defense (Comptroller).”
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title IX, § 905(c), Dec. 12, 2017, 131 Stat. 1513, provided that: “The appointment qualifications imposed by the amendments made by subsection (a)(1) [amending this section] and the appointment qualifications imposed by subsection (b) [set out as a note below] shall apply with respect to appointments as Under Secretary of Defense (Comptroller) and Deputy Chief Financial Officer of the Department of Defense that are made on or after the date of the enactment of this Act [Dec. 12, 2017].”
+Pub. L. 115–91, div. A, title IX, § 905(c), Dec. 12, 2017, 131 Stat. 1513, provided that: “The appointment qualifications imposed by the amendments made by subsection (a)(1) [amending this section] and the appointment qualifications imposed by subsection (b) [set out as a note below] shall apply with respect to appointments as Under Secretary of Defense (Comptroller) and Deputy Chief Financial Officer of the Department of Defense that are made on or after the date of the enactment of this Act [Dec. 12, 2017].”
 
 **Effective Date of 2011 Amendment**
 
@@ -1422,9 +1422,9 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 **Qualification for Appointment as Deputy Chief Financial Officer**
 
-Pub. L. 115–91, div. A, title IX, § 905(b), Dec. 12, 2017, 131 Stat. 1513, provided that: “The Deputy Chief Financial Officer of the Department of Defense shall be appointed from among persons who have significant budget, financial management, or audit experience in complex organizations.”
+Pub. L. 115–91, div. A, title IX, § 905(b), Dec. 12, 2017, 131 Stat. 1513, provided that: “The Deputy Chief Financial Officer of the Department of Defense shall be appointed from among persons who have significant budget, financial management, or audit experience in complex organizations.”
 
-## § 136. Under Secretary of Defense for Personnel and Readiness
+## § 136. Under Secretary of Defense for Personnel and Readiness
 
 **(a)** There is an Under Secretary of Defense for Personnel and Readiness, appointed from civilian life by the President, by and with the advice and consent of the Senate. A person may not be appointed as Under Secretary within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
@@ -1434,7 +1434,7 @@ Pub. L. 115–91, div. A, title IX, § 905(b), Dec. 12, 2017, 131 Stat. 1513, 
 
 **(d)** The Under Secretary of Defense for Personnel and Readiness is responsible, subject to the authority, direction, and control of the Secretary of Defense, for the monitoring of the operations tempo and personnel tempo of the armed forces. The Under Secretary shall establish, to the extent practicable, uniform standards within the Department of Defense for terminology and policies relating to deployment of units and personnel away from their assigned duty stations (including the length of time units or personnel may be away for such a deployment) and shall establish uniform reporting systems for tracking deployments.
 
-(Added Pub. L. 103–160, div. A, title IX, § 903(a), Nov. 30, 1993, 107 Stat. 1727; amended Pub. L. 104–106, div. A, title XV, § 1503(a)(2), Feb. 10, 1996, 110 Stat. 510; Pub. L. 106–65, div. A, title IX, § 923(a), title X, § 1066(a)(1), Oct. 5, 1999, 113 Stat. 724, 770; Pub. L. 115–91, div. A, title IX, § 904(2), Dec. 12, 2017, 131 Stat. 1512; Pub. L. 117–81, div. A, title IX, § 901(f)(2), Dec. 27, 2021, 135 Stat. 1868.)
+(Added Pub. L. 103–160, div. A, title IX, § 903(a), Nov. 30, 1993, 107 Stat. 1727; amended Pub. L. 104–106, div. A, title XV, § 1503(a)(2), Feb. 10, 1996, 110 Stat. 510; Pub. L. 106–65, div. A, title IX, § 923(a), title X, § 1066(a)(1), Oct. 5, 1999, 113 Stat. 724, 770; Pub. L. 115–91, div. A, title IX, § 904(2), Dec. 12, 2017, 131 Stat. 1512; Pub. L. 117–81, div. A, title IX, § 901(f)(2), Dec. 27, 2021, 135 Stat. 1868.)
 
 **Editorial Notes**
 
@@ -1448,15 +1448,15 @@ A prior section 136 was renumbered section 138 of this title.
 
 2017—Subsec. (a). Pub. L. 115–91 inserted at end “A person may not be appointed as Under Secretary within seven years after relief from active duty as a commissioned officer of a regular component of the armed forces.”
 
-1999—Subsec. (a). Pub. L. 106–65, § 1066(a)(1), inserted “advice and” after “by and with the”.
+1999—Subsec. (a). Pub. L. 106–65, § 1066(a)(1), inserted “advice and” after “by and with the”.
 
-Subsec. (d). Pub. L. 106–65, § 923(a), added subsec. (d).
+Subsec. (d). Pub. L. 106–65, § 923(a), added subsec. (d).
 
 1996—Subsec. (c). Pub. L. 104–106 substituted “Under Secretary of Defense (Comptroller)” for “Comptroller”.
 
-## [§ 136a. Repealed. Pub. L. 111–383, div. A, title IX, § 901(b)(1), Jan. 7, 2011, 124 Stat. 4317]
+## [§ 136a. Repealed. Pub. L. 111–383, div. A, title IX, § 901(b)(1), Jan. 7, 2011, 124 Stat. 4317]
 
-Section, added Pub. L. 107–107, div. A, title IX, § 901(a)(1), Dec. 28, 2001, 115 Stat. 1193; amended Pub. L. 111–84, div. A, title IX, § 906(c)(1)(C), (2)(C), Oct. 28, 2009, 123 Stat. 2427, established the position of Principal Deputy Under Secretary of Defense for Personnel and Readiness.
+Section, added Pub. L. 107–107, div. A, title IX, § 901(a)(1), Dec. 28, 2001, 115 Stat. 1193; amended Pub. L. 111–84, div. A, title IX, § 906(c)(1)(C), (2)(C), Oct. 28, 2009, 123 Stat. 2427, established the position of Principal Deputy Under Secretary of Defense for Personnel and Readiness.
 
 **Editorial Notes**
 
@@ -1470,7 +1470,7 @@ A prior section 136a was renumbered section 139 of this title.
 
 Repeal effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as an Effective Date of 2011 Amendment note under section 131 of this title.
 
-## § 137. Under Secretary of Defense for Intelligence and Security
+## § 137. Under Secretary of Defense for Intelligence and Security
 
 **(a)** There is an Under Secretary of Defense for Intelligence and Security, appointed from civilian life by the President, by and with the advice and consent of the Senate. A person may not be appointed as Under Secretary within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
@@ -1488,7 +1488,7 @@ Repeal effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out 
 
 **(d)** The Under Secretary of Defense for Intelligence and Security takes precedence in the Department of Defense after the Under Secretary of Defense for Personnel and Readiness.
 
-(Added Pub. L. 107–314, div. A, title IX, § 901(a)(2), Dec. 2, 2002, 116 Stat. 2619; amended Pub. L. 115–91, div. A, title IX, § 904(3), Dec. 12, 2017, 131 Stat. 1512; Pub. L. 115–232, div. A, title XVI, § 1621, Aug. 13, 2018, 132 Stat. 2117; Pub. L. 116–92, div. A, title XVI, § 1621(d), (e)(1)(A)(ii), (C), Dec. 20, 2019, 133 Stat. 1732, 1733; Pub. L. 117–81, div. A, title IX, § 901(f)(3), Dec. 27, 2021, 135 Stat. 1868.)
+(Added Pub. L. 107–314, div. A, title IX, § 901(a)(2), Dec. 2, 2002, 116 Stat. 2619; amended Pub. L. 115–91, div. A, title IX, § 904(3), Dec. 12, 2017, 131 Stat. 1512; Pub. L. 115–232, div. A, title XVI, § 1621, Aug. 13, 2018, 132 Stat. 2117; Pub. L. 116–92, div. A, title XVI, § 1621(d), (e)(1)(A)(ii), (C), Dec. 20, 2019, 133 Stat. 1732, 1733; Pub. L. 117–81, div. A, title IX, § 901(f)(3), Dec. 27, 2021, 135 Stat. 1868.)
 
 **Editorial Notes**
 
@@ -1504,15 +1504,15 @@ Another prior section 137 was renumbered section 140 of this title.
 
 2021—Subsec. (a). Pub. L. 117–81 substituted “an armed force” for “the armed forces”.
 
-2019—Pub. L. 116–92, § 1621(e)(1)(C), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence” in section catchline.
+2019—Pub. L. 116–92, § 1621(e)(1)(C), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence” in section catchline.
 
-Subsecs. (a), (b). Pub. L. 116–92, § 1621(e)(1)(A)(ii), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”.
+Subsecs. (a), (b). Pub. L. 116–92, § 1621(e)(1)(A)(ii), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”.
 
-Subsec. (c). Pub. L. 116–92, § 1621(d)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 116–92, § 1621(d)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 116–92, § 1621(e)(1)(A)(ii), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”.
+Subsec. (d). Pub. L. 116–92, § 1621(e)(1)(A)(ii), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”.
 
-Pub. L. 116–92, § 1621(d)(1), redesignated subsec. (c) as (d).
+Pub. L. 116–92, § 1621(d)(1), redesignated subsec. (c) as (d).
 
 2018—Subsec. (b). Pub. L. 115–232 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary of Defense for Intelligence shall perform such duties and exercise such powers as the Secretary of Defense may prescribe in the area of intelligence.”
 
@@ -1522,7 +1522,7 @@ Pub. L. 116–92, § 1621(d)(1), redesignated subsec. (c) as (d).
 
 **Change of Name**
 
-Pub. L. 116–92, div. A, title XVI, § 1621(a)–(c), Dec. 20, 2019, 133 Stat. 1732, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1621(a)–(c), Dec. 20, 2019, 133 Stat. 1732, provided that:
 
 > **“(a) Redesignation of Under Secretary.—**
 
@@ -1544,7 +1544,7 @@ Pub. L. 116–92, div. A, title XVI, § 1621(a)–(c), Dec. 20, 2019, 133 Stat
 
 **Plan for Incorporation of Enterprise Query and Correlation Capability Into the Defense Intelligence Information Enterprise**
 
-Pub. L. 112–81, div. A, title IX, § 925, Dec. 31, 2011, 125 Stat. 1540, provided that:
+Pub. L. 112–81, div. A, title IX, § 925, Dec. 31, 2011, 125 Stat. 1540, provided that:
 
 > **“(a) Plan Required.—**
 
@@ -1586,11 +1586,11 @@ Pub. L. 112–81, div. A, title IX, § 925, Dec. 31, 2011, 125 Stat. 1540, pro
 
 **Relationship to Authorities Under National Security Act of 1947**
 
-Pub. L. 107–314, div. A, title IX, § 901(d), Dec. 2, 2002, 116 Stat. 2620, as amended by Pub. L. 113–291, div. A, title X, § 1071(d)(2), Dec. 19, 2014, 128 Stat. 3509, provided that: “Nothing in section 137 of title 10, United States Code, as added by subsection (a), shall supersede or modify the authorities of the Secretary of Defense and the Director of Central Intelligence as established by the National Security Act of 1947 (50 U.S.C. 3001 et seq.).”
+Pub. L. 107–314, div. A, title IX, § 901(d), Dec. 2, 2002, 116 Stat. 2620, as amended by Pub. L. 113–291, div. A, title X, § 1071(d)(2), Dec. 19, 2014, 128 Stat. 3509, provided that: “Nothing in section 137 of title 10, United States Code, as added by subsection (a), shall supersede or modify the authorities of the Secretary of Defense and the Director of Central Intelligence as established by the National Security Act of 1947 (50 U.S.C. 3001 et seq.).”
 
 [Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.]
 
-## § 137a. Deputy Under Secretaries of Defense
+## § 137a. Deputy Under Secretaries of Defense
 
 **(a)**
 
@@ -1618,7 +1618,7 @@ Pub. L. 107–314, div. A, title IX, § 901(d), Dec. 2, 2002, 116 Stat. 2620, 
 
 **(d)** The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense. The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-(Added Pub. L. 111–84, div. A, title IX, § 906(a)(1), Oct. 28, 2009, 123 Stat. 2425; amended Pub. L. 111–383, div. A, title IX, § 901(b)(3), (k)(1)(A), Jan. 7, 2011, 124 Stat. 4318, 4325; Pub. L. 113–291, div. A, title IX, § 901(i)(1), (j)(2)(C), (k)(3), Dec. 19, 2014, 128 Stat. 3467, 3468; Pub. L. 115–91, div. A, title IX, § 906(a)–(c), (f)(1), title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1513, 1514, 1597; Pub. L. 115–232, div. A, title X, § 1081(f)(1)(C), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title XVI, § 1621(e)(1)(B), Dec. 20, 2019, 133 Stat. 1733; Pub. L. 118–31, div. A, title IX, § 901(a)(3), Dec. 22, 2023, 137 Stat. 354.)
+(Added Pub. L. 111–84, div. A, title IX, § 906(a)(1), Oct. 28, 2009, 123 Stat. 2425; amended Pub. L. 111–383, div. A, title IX, § 901(b)(3), (k)(1)(A), Jan. 7, 2011, 124 Stat. 4318, 4325; Pub. L. 113–291, div. A, title IX, § 901(i)(1), (j)(2)(C), (k)(3), Dec. 19, 2014, 128 Stat. 3467, 3468; Pub. L. 115–91, div. A, title IX, § 906(a)–(c), (f)(1), title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1513, 1514, 1597; Pub. L. 115–232, div. A, title X, § 1081(f)(1)(C), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title XVI, § 1621(e)(1)(B), Dec. 20, 2019, 133 Stat. 1733; Pub. L. 118–31, div. A, title IX, § 901(a)(3), Dec. 22, 2023, 137 Stat. 354.)
 
 **Editorial Notes**
 
@@ -1630,63 +1630,63 @@ Pub. L. 107–314, div. A, title IX, § 901(d), Dec. 2, 2002, 116 Stat. 2620, 
 
 2018—Subsec. (d). Pub. L. 115–232 substituted “the Chief Management Officer of the Department of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense” for “the Secretaries of the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense”.
 
-2017—Pub. L. 115–91, § 906(f)(1), amended section catchline generally, substituting “Deputy Under Secretaries of Defense” for “Principal Deputy Under Secretaries of Defense”.
+2017—Pub. L. 115–91, § 906(f)(1), amended section catchline generally, substituting “Deputy Under Secretaries of Defense” for “Principal Deputy Under Secretaries of Defense”.
 
-Subsec. (a)(1). Pub. L. 115–91, § 906(b), substituted “six” for “five”.
+Subsec. (a)(1). Pub. L. 115–91, § 906(b), substituted “six” for “five”.
 
-Pub. L. 115–91, § 906(a), struck out “Principal” before “Deputy Under”.
+Pub. L. 115–91, § 906(a), struck out “Principal” before “Deputy Under”.
 
-Subsec. (a)(2). Pub. L. 115–91, § 906(a), struck out “Principal” before “Deputy Under”.
+Subsec. (a)(2). Pub. L. 115–91, § 906(a), struck out “Principal” before “Deputy Under”.
 
-Subsec. (b). Pub. L. 115–91, § 906(a), struck out “Principal” before “Deputy Under”.
+Subsec. (b). Pub. L. 115–91, § 906(a), struck out “Principal” before “Deputy Under”.
 
-Subsec. (c). Pub. L. 115–91, § 906(c), added pars. (1) and (2), redesignated former pars. (2) to (5) as (3) to (6), respectively, and struck out former par. (1) which read as follows: “One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics.”
+Subsec. (c). Pub. L. 115–91, § 906(c), added pars. (1) and (2), redesignated former pars. (2) to (5) as (3) to (6), respectively, and struck out former par. (1) which read as follows: “One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics.”
 
-Pub. L. 115–91, § 906(a), struck out “Principal” before “Deputy Under” wherever appearing.
+Pub. L. 115–91, § 906(a), struck out “Principal” before “Deputy Under” wherever appearing.
 
-Subsec. (d). Pub. L. 115–91, § 1081(b)(1)(A), repealed Pub. L. 113–291, § 901(j)(2)(C). See 2014 Amendment note below.
+Subsec. (d). Pub. L. 115–91, § 1081(b)(1)(A), repealed Pub. L. 113–291, § 901(j)(2)(C). See 2014 Amendment note below.
 
-Pub. L. 115–91, § 906(a), struck out “Principal” before “Deputy Under” in two places.
+Pub. L. 115–91, § 906(a), struck out “Principal” before “Deputy Under” in two places.
 
-2014—Subsec. (a)(3). Pub. L. 113–291, § 901(i)(1), added par. (3).
+2014—Subsec. (a)(3). Pub. L. 113–291, § 901(i)(1), added par. (3).
 
-Subsec. (b). Pub. L. 113–291, § 901(k)(3), substituted “dies, resigns, or is otherwise unable to perform the functions and duties of the office” for “is absent or disabled”.
+Subsec. (b). Pub. L. 113–291, § 901(k)(3), substituted “dies, resigns, or is otherwise unable to perform the functions and duties of the office” for “is absent or disabled”.
 
-Subsec. (d). Pub. L. 113–291, § 901(j)(2)(C), which directed substitution of “and the Under Secretaries of Defense.” for “the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense.”, was repealed by Pub. L. 115–91, § 1081(b)(1)(A).
+Subsec. (d). Pub. L. 113–291, § 901(j)(2)(C), which directed substitution of “and the Under Secretaries of Defense.” for “the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense.”, was repealed by Pub. L. 115–91, § 1081(b)(1)(A).
 
-2011—Pub. L. 111–383, § 901(k)(1)(A), substituted “Principal Deputy Under Secretaries of Defense” for “Deputy Under Secretaries of Defense” in section catchline.
+2011—Pub. L. 111–383, § 901(k)(1)(A), substituted “Principal Deputy Under Secretaries of Defense” for “Deputy Under Secretaries of Defense” in section catchline.
 
-Subsec. (a)(1). Pub. L. 111–383, § 901(b)(3)(A), substituted “Principal Deputy Under” for “Deputy Under”.
+Subsec. (a)(1). Pub. L. 111–383, § 901(b)(3)(A), substituted “Principal Deputy Under” for “Deputy Under”.
 
-Subsec. (a)(2). Pub. L. 111–383, § 901(b)(3)(B), struck out subpar. (A) and subpar. (B) designation and substituted “The Principal Deputy Under Secretaries of Defense” for “The Deputy Under Secretaries of Defense referred to in paragraphs (4) and (5) of subsection (c)”. Prior to amendment, subpar. (A) read as follows: “The Deputy Under Secretaries of Defense referred to in paragraphs (1) through (3) of subsection (c) shall be appointed as provided in the applicable paragraph.”
+Subsec. (a)(2). Pub. L. 111–383, § 901(b)(3)(B), struck out subpar. (A) and subpar. (B) designation and substituted “The Principal Deputy Under Secretaries of Defense” for “The Deputy Under Secretaries of Defense referred to in paragraphs (4) and (5) of subsection (c)”. Prior to amendment, subpar. (A) read as follows: “The Deputy Under Secretaries of Defense referred to in paragraphs (1) through (3) of subsection (c) shall be appointed as provided in the applicable paragraph.”
 
-Subsec. (b). Pub. L. 111–383, § 901(b)(3)(A), substituted “Principal Deputy Under” for “Deputy Under”.
+Subsec. (b). Pub. L. 111–383, § 901(b)(3)(A), substituted “Principal Deputy Under” for “Deputy Under”.
 
-Subsec. (c)(1). Pub. L. 111–383, § 901(b)(3)(C)(i), (ii), substituted “One of the Principal Deputy” for “One of the Deputy” and struck out “appointed pursuant to section 133a of this title” after “Logistics”.
+Subsec. (c)(1). Pub. L. 111–383, § 901(b)(3)(C)(i), (ii), substituted “One of the Principal Deputy” for “One of the Deputy” and struck out “appointed pursuant to section 133a of this title” after “Logistics”.
 
-Subsec. (c)(2). Pub. L. 111–383, § 901(b)(3)(C)(i), (ii), substituted “One of the Principal Deputy” for “One of the Deputy” and struck out “appointed pursuant to section 134a of this title” after “Policy”.
+Subsec. (c)(2). Pub. L. 111–383, § 901(b)(3)(C)(i), (ii), substituted “One of the Principal Deputy” for “One of the Deputy” and struck out “appointed pursuant to section 134a of this title” after “Policy”.
 
-Subsec. (c)(3). Pub. L. 111–383, § 901(b)(3)(C)(i), (ii), substituted “One of the Principal Deputy” for “One of the Deputy” and struck out “appointed pursuant to section 136a of this title” after “Readiness”.
+Subsec. (c)(3). Pub. L. 111–383, § 901(b)(3)(C)(i), (ii), substituted “One of the Principal Deputy” for “One of the Deputy” and struck out “appointed pursuant to section 136a of this title” after “Readiness”.
 
-Subsec. (c)(4). Pub. L. 111–383, § 901(b)(3)(C)(i), (iii), substituted “One of the Principal Deputy Under Secretaries is” for “One of the Deputy Under Secretaries shall be”.
+Subsec. (c)(4). Pub. L. 111–383, § 901(b)(3)(C)(i), (iii), substituted “One of the Principal Deputy Under Secretaries is” for “One of the Deputy Under Secretaries shall be”.
 
-Subsec. (c)(5). Pub. L. 111–383, § 901(b)(3)(C)(i), (iii), (iv), substituted “One of the Principal Deputy Under Secretaries is” for “One of the Deputy Under Secretaries shall be” and inserted before period at end “, who shall be appointed from among persons who have extensive expertise in intelligence matters”.
+Subsec. (c)(5). Pub. L. 111–383, § 901(b)(3)(C)(i), (iii), (iv), substituted “One of the Principal Deputy Under Secretaries is” for “One of the Deputy Under Secretaries shall be” and inserted before period at end “, who shall be appointed from among persons who have extensive expertise in intelligence matters”.
 
-Subsec. (d). Pub. L. 111–383, § 901(b)(3)(A), (D), substituted “Principal Deputy Under” for “Deputy Under” and inserted at end “The Principal Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.”
+Subsec. (d). Pub. L. 111–383, § 901(b)(3)(A), (D), substituted “Principal Deputy Under” for “Deputy Under” and inserted at end “The Principal Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title IX, § 906(c), Dec. 12, 2017, 131 Stat. 1513, provided that the amendment made by section 906(c) is effective on Feb. 1, 2018.
+Pub. L. 115–91, div. A, title IX, § 906(c), Dec. 12, 2017, 131 Stat. 1513, provided that the amendment made by section 906(c) is effective on Feb. 1, 2018.
 
-Pub. L. 115–91, div. A, title X, § 1081(b), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(A) is effective as of Dec. 23, 2016.
+Pub. L. 115–91, div. A, title X, § 1081(b), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(A) is effective as of Dec. 23, 2016.
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–291, div. A, title IX, § 901(i)(1), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment made by section 901(i)(1) is effective Jan. 1, 2015.
+Pub. L. 113–291, div. A, title IX, § 901(i)(1), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment made by section 901(i)(1) is effective Jan. 1, 2015.
 
-Pub. L. 113–291, div. A, title IX, § 901(j)(2), Dec. 19, 2014, 128 Stat. 3467, which provided that the amendment made by section 901(j)(2)(C) is effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597.
+Pub. L. 113–291, div. A, title IX, § 901(j)(2), Dec. 19, 2014, 128 Stat. 3467, which provided that the amendment made by section 901(j)(2)(C) is effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597.
 
 **Effective Date of 2011 Amendment**
 
@@ -1694,7 +1694,7 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 **Savings Provisions**
 
-Pub. L. 111–84, div. A, title IX, § 906(e), Oct. 28, 2009, 123 Stat. 2428, provided that:
+Pub. L. 111–84, div. A, title IX, § 906(e), Oct. 28, 2009, 123 Stat. 2428, provided that:
 
 > **“(1) In general.—** Notwithstanding the amendments made by this section [enacting this section and amending sections 133a, 134a, 136a, 138, and former 138a of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees], the individual serving in a position specified in paragraph (2) on the day before the date of the enactment of this Act [Oct. 28, 2009] may continue to serve in such position without the requirement for appointment by the President, by and with the advice and consent of the Senate, for a period of up to four years after the date of the enactment of this Act.
 
@@ -1706,15 +1706,15 @@ Pub. L. 111–84, div. A, title IX, § 906(e), Oct. 28, 2009, 123 Stat. 2428, 
 
 **Temporary Authority for Additional DUSDS**
 
-Pub. L. 111–383, div. A, title IX, § 901(i)(2), Jan. 7, 2011, 124 Stat. 4323, provided that: “During the period beginning on the date of the enactment of this Act [Jan. 7, 2011] and ending on January 1, 2015, the Secretary of Defense may, in the Secretary’s discretion, appoint not more than five Deputy Under Secretaries of Defense in addition to the five Principal Deputy Under Secretaries of Defense authorized by section 137a of title 10, United States Code (as amended by subsection (b)(3)).”
+Pub. L. 111–383, div. A, title IX, § 901(i)(2), Jan. 7, 2011, 124 Stat. 4323, provided that: “During the period beginning on the date of the enactment of this Act [Jan. 7, 2011] and ending on January 1, 2015, the Secretary of Defense may, in the Secretary’s discretion, appoint not more than five Deputy Under Secretaries of Defense in addition to the five Principal Deputy Under Secretaries of Defense authorized by section 137a of title 10, United States Code (as amended by subsection (b)(3)).”
 
 **Delayed Limitation on Number of Deputy Under Secretaries of Defense**
 
-Pub. L. 111–84, div. A, title IX, § 906(a)(2), Oct. 28, 2009, 123 Stat. 2426, as amended by Pub. L. 111–383, div. A, title IX, § 901(i)(1), Jan. 7, 2011, 124 Stat. 4323, which provided that, effective Jan. 1, 2015, the five Deputy Under Secretaries of Defense authorized by section 137a of title 10 would be the only Deputy Under Secretaries of Defense, was repealed by Pub. L. 113–291, div. A, title IX, § 901(i)(2), Dec. 19, 2014, 128 Stat. 3467.
+Pub. L. 111–84, div. A, title IX, § 906(a)(2), Oct. 28, 2009, 123 Stat. 2426, as amended by Pub. L. 111–383, div. A, title IX, § 901(i)(1), Jan. 7, 2011, 124 Stat. 4323, which provided that, effective Jan. 1, 2015, the five Deputy Under Secretaries of Defense authorized by section 137a of title 10 would be the only Deputy Under Secretaries of Defense, was repealed by Pub. L. 113–291, div. A, title IX, § 901(i)(2), Dec. 19, 2014, 128 Stat. 3467.
 
-[Pub. L. 113–291, div. A, title IX, § 901(i)(2), Dec. 19, 2014, 128 Stat. 3467, provided that section 901(i)(2), which repealed section 906(a)(2) of Pub. L. 111–84, formerly set out above, is effective on the effective date specified in section 901(i)(1) of Pub. L. 113–291, which is Jan. 1, 2015.]
+[Pub. L. 113–291, div. A, title IX, § 901(i)(2), Dec. 19, 2014, 128 Stat. 3467, provided that section 901(i)(2), which repealed section 906(a)(2) of Pub. L. 111–84, formerly set out above, is effective on the effective date specified in section 901(i)(1) of Pub. L. 113–291, which is Jan. 1, 2015.]
 
-## § 138. Assistant Secretaries of Defense
+## § 138. Assistant Secretaries of Defense
 
 **(a)**
 
@@ -1782,16 +1782,16 @@ Pub. L. 111–84, div. A, title IX, § 906(a)(2), Oct. 28, 2009, 123 Stat. 242
 
 **(e)** The number of Deputy Assistant Secretaries of Defense may not exceed 62.
 
-(Added Pub. L. 87–651, title II, § 202, Sept. 7, 1962, 76 Stat. 518, § 136; amended Pub. L. 90–168, § 2(1), (2), Dec. 1, 1967, 81 Stat. 521; Pub. L. 91–121, title IV, § 404(a), Nov. 19, 1969, 83 Stat. 207; Pub. L. 92–215, § 1, Dec. 22, 1971, 85 Stat. 777; Pub. L. 92–596, § 4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, § 3(a), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 96–107, title VIII, § 820(a), Nov. 9, 1979, 93 Stat. 819; Pub. L. 98–94, title XII, § 1212(a), Sept. 24, 1983, 97 Stat. 686; Pub. L. 99–433, title I, §§ 106, 110(d)(9), Oct. 1, 1986, 100 Stat. 997, 1003; Pub. L. 99–500, § 101(c) [title IX, § 9115(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, § 101(c) [title IX, § 9115(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, § 1311(a), Nov. 14, 1986, 100 Stat. 3983; Pub. L. 100–180, div. A, title XII, § 1211(a)(1), Dec. 4, 1987, 101 Stat. 1154; Pub. L. 100–453, title VII, § 702, Sept. 29, 1988, 102 Stat. 1912; Pub. L. 100–456, div. A, title VII, § 701, Sept. 29, 1988, 102 Stat. 1992; renumbered § 138 and amended Pub. L. 103–160, div. A, title IX, §§ 901(a)(1), (c), 903(c)(1), 905, Nov. 30, 1993, 107 Stat. 1726, 1727, 1729; Pub. L. 103–337, div. A, title IX, §§ 901(a), 903(b)(2), Oct. 5, 1994, 108 Stat. 2822, 2823; Pub. L. 104–106, div. A, title IX, §§ 902(a), 903(b), (e)(2), Feb. 10, 1996, 110 Stat. 401, 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 105–261, div. A, title IX, §§ 901(a), 902, Oct. 17, 1998, 112 Stat. 2091; Pub. L. 106–398, § 1 [[div. A], title IX, § 901], Oct. 30, 2000, 114 Stat. 1654, 1654A–223; Pub. L. 107–107, div. A, title IX, § 901(c)(1), Dec. 28, 2001, 115 Stat. 1194; Pub. L. 107–314, div. A, title IX, § 902(a), (c), (d), Dec. 2, 2002, 116 Stat. 2620, 2621; Pub. L. 109–364, div. A, title IX, § 901(a), Oct. 17, 2006, 120 Stat. 2350; Pub. L. 111–84, div. A, title IX, § 906(b)(2), Oct. 28, 2009, 123 Stat. 2426; Pub. L. 111–383, div. A, title IX, § 901(b)(4), Jan. 7, 2011, 124 Stat. 4319; Pub. L. 112–81, div. A, title III, § 314(a), Dec. 31, 2011, 125 Stat. 1357; Pub. L. 112–166, § 2(c)(1)(A), Aug. 10, 2012, 126 Stat. 1283; Pub. L. 112–239, div. A, title X, § 1076(f)(3), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–291, div. A, title IX, §§ 901(f), (h)(1)–(3), (j)(2)(D), 902(a)(2), Dec. 19, 2014, 128 Stat. 3464, 3466, 3467, 3469; Pub. L. 114–92, div. A, title VIII, § 829, title X, § 1078(a), Nov. 25, 2015, 129 Stat. 911, 998; Pub. L. 114–328, div. A, title IX, §§ 901(e)(1), 922(a), Dec. 23, 2016, 130 Stat. 2342, 2354; Pub. L. 115–91, div. A, title IX, §§ 906(d)(2), 907, title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1513, 1514, 1597; Pub. L. 115–232, div. A, title X, § 1081(f)(1)(D), Aug. 13, 2018, 132 Stat. 1987; Pub. L. 116–92, div. A, title IX, § 955(a), Dec. 20, 2019, 133 Stat. 1565; Pub. L. 116–283, div. A, title IX, §§ 902(a), 903, 904, Jan. 1, 2021, 134 Stat. 3795, 3797, 3798; Pub. L. 117–81, div. A, title IX, § 901(b), title X, § 1081(a)(4), Dec. 27, 2021, 135 Stat. 1868, 1919; Pub. L. 117–263, div. A, title IX, § 901(a), (b)(1), (c)(1), (d), Dec. 23, 2022, 136 Stat. 2747, 2748; Pub. L. 118–31, div. A, title IX, § 901(a)(4), Dec. 22, 2023, 137 Stat. 354; Pub. L. 118–159, div. A, title IX, § 904, title XVI, § 1621(a), Dec. 23, 2024, 138 Stat. 2028, 2170; Pub. L. 119–60, div. A, title IX, § 903(a), (b)(1), Dec. 18, 2025, 139 Stat. 1008, 1009.)
+(Added Pub. L. 87–651, title II, § 202, Sept. 7, 1962, 76 Stat. 518, § 136; amended Pub. L. 90–168, § 2(1), (2), Dec. 1, 1967, 81 Stat. 521; Pub. L. 91–121, title IV, § 404(a), Nov. 19, 1969, 83 Stat. 207; Pub. L. 92–215, § 1, Dec. 22, 1971, 85 Stat. 777; Pub. L. 92–596, § 4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, § 3(a), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 96–107, title VIII, § 820(a), Nov. 9, 1979, 93 Stat. 819; Pub. L. 98–94, title XII, § 1212(a), Sept. 24, 1983, 97 Stat. 686; Pub. L. 99–433, title I, §§ 106, 110(d)(9), Oct. 1, 1986, 100 Stat. 997, 1003; Pub. L. 99–500, § 101(c) [title IX, § 9115(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, § 101(c) [title IX, § 9115(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, § 1311(a), Nov. 14, 1986, 100 Stat. 3983; Pub. L. 100–180, div. A, title XII, § 1211(a)(1), Dec. 4, 1987, 101 Stat. 1154; Pub. L. 100–453, title VII, § 702, Sept. 29, 1988, 102 Stat. 1912; Pub. L. 100–456, div. A, title VII, § 701, Sept. 29, 1988, 102 Stat. 1992; renumbered § 138 and amended Pub. L. 103–160, div. A, title IX, §§ 901(a)(1), (c), 903(c)(1), 905, Nov. 30, 1993, 107 Stat. 1726, 1727, 1729; Pub. L. 103–337, div. A, title IX, §§ 901(a), 903(b)(2), Oct. 5, 1994, 108 Stat. 2822, 2823; Pub. L. 104–106, div. A, title IX, §§ 902(a), 903(b), (e)(2), Feb. 10, 1996, 110 Stat. 401, 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 105–261, div. A, title IX, §§ 901(a), 902, Oct. 17, 1998, 112 Stat. 2091; Pub. L. 106–398, § 1 [[div. A], title IX, § 901], Oct. 30, 2000, 114 Stat. 1654, 1654A–223; Pub. L. 107–107, div. A, title IX, § 901(c)(1), Dec. 28, 2001, 115 Stat. 1194; Pub. L. 107–314, div. A, title IX, § 902(a), (c), (d), Dec. 2, 2002, 116 Stat. 2620, 2621; Pub. L. 109–364, div. A, title IX, § 901(a), Oct. 17, 2006, 120 Stat. 2350; Pub. L. 111–84, div. A, title IX, § 906(b)(2), Oct. 28, 2009, 123 Stat. 2426; Pub. L. 111–383, div. A, title IX, § 901(b)(4), Jan. 7, 2011, 124 Stat. 4319; Pub. L. 112–81, div. A, title III, § 314(a), Dec. 31, 2011, 125 Stat. 1357; Pub. L. 112–166, § 2(c)(1)(A), Aug. 10, 2012, 126 Stat. 1283; Pub. L. 112–239, div. A, title X, § 1076(f)(3), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–291, div. A, title IX, §§ 901(f), (h)(1)–(3), (j)(2)(D), 902(a)(2), Dec. 19, 2014, 128 Stat. 3464, 3466, 3467, 3469; Pub. L. 114–92, div. A, title VIII, § 829, title X, § 1078(a), Nov. 25, 2015, 129 Stat. 911, 998; Pub. L. 114–328, div. A, title IX, §§ 901(e)(1), 922(a), Dec. 23, 2016, 130 Stat. 2342, 2354; Pub. L. 115–91, div. A, title IX, §§ 906(d)(2), 907, title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1513, 1514, 1597; Pub. L. 115–232, div. A, title X, § 1081(f)(1)(D), Aug. 13, 2018, 132 Stat. 1987; Pub. L. 116–92, div. A, title IX, § 955(a), Dec. 20, 2019, 133 Stat. 1565; Pub. L. 116–283, div. A, title IX, §§ 902(a), 903, 904, Jan. 1, 2021, 134 Stat. 3795, 3797, 3798; Pub. L. 117–81, div. A, title IX, § 901(b), title X, § 1081(a)(4), Dec. 27, 2021, 135 Stat. 1868, 1919; Pub. L. 117–263, div. A, title IX, § 901(a), (b)(1), (c)(1), (d), Dec. 23, 2022, 136 Stat. 2747, 2748; Pub. L. 118–31, div. A, title IX, § 901(a)(4), Dec. 22, 2023, 137 Stat. 354; Pub. L. 118–159, div. A, title IX, § 904, title XVI, § 1621(a), Dec. 23, 2024, 138 Stat. 2028, 2170; Pub. L. 119–60, div. A, title IX, § 903(a), (b)(1), Dec. 18, 2025, 139 Stat. 1008, 1009.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 136(a) 136(b)             136(c)   136(d)   136(e) | 5:171c(c) (1st sentence). 5:171c(c) (1st 18 words of 2d sentence). 5:171c–2 (less 1st sentence). 5:171n(a) (as applicable to 5:172). 5:172. 5:171a(c)(7) (3rd sentence). 5:171a(c)(7) (less 1st 3 sentences). 5:171c(c) (less 1st sentence and less 1st 18 words of 2d sentence). | July 26, 1947, ch. 343, § 202(c)(7) (less 1st 2 sentences); added Aug. 6, 1958, Pub. L. 85–599, § 3(a) (8th par., less 1st 2 sentences), 72 Stat. 516. July 26, 1947, ch. 343, § 203(c); added Aug. 10, 1949, ch. 412, § 6(a), (2d par.), 63 Stat. 581; redesignated Aug. 6, 1958, Pub. L. 85–599, §§ 9(a) (1st par., as applicable to § 203(c)), 10(a), 72 Stat. 520, 521. |
-|  |  | July 26, 1947, ch. 343, § 302 (less 1st sentence); restated Aug. 10, 1949, ch. 412, § 10(b) (less 1st sentence) restated Aug. 10, 1956, ch. 1041, § 21 (less 1st sentence), 70A Stat. 629. |
-|  |  | July 26, 1947, ch. 343, § 308(a) (as applicable to § 401), 61 Stat. 509. |
-|  |  | July 26, 1947, ch. 343, § 401; added Aug. 10, 1949, ch. 412, § 11 (1st 2 pars.), 63 Stat. 585. |
+| 136(a) 136(b) 136(c) 136(d) 136(e) | 5:171c(c) (1st sentence). 5:171c(c) (1st 18 words of 2d sentence). 5:171c–2 (less 1st sentence). 5:171n(a) (as applicable to 5:172). 5:172. 5:171a(c)(7) (3rd sentence). 5:171a(c)(7) (less 1st 3 sentences). 5:171c(c) (less 1st sentence and less 1st 18 words of 2d sentence). | July 26, 1947, ch. 343, § 202(c)(7) (less 1st 2 sentences); added Aug. 6, 1958, Pub. L. 85–599, § 3(a) (8th par., less 1st 2 sentences), 72 Stat. 516. July 26, 1947, ch. 343, § 203(c); added Aug. 10, 1949, ch. 412, § 6(a), (2d par.), 63 Stat. 581; redesignated Aug. 6, 1958, Pub. L. 85–599, §§ 9(a) (1st par., as applicable to § 203(c)), 10(a), 72 Stat. 520, 521. |
+|  |  | July 26, 1947, ch. 343, § 302 (less 1st sentence); restated Aug. 10, 1949, ch. 412, § 10(b) (less 1st sentence) restated Aug. 10, 1956, ch. 1041, § 21 (less 1st sentence), 70A Stat. 629. |
+|  |  | July 26, 1947, ch. 343, § 308(a) (as applicable to § 401), 61 Stat. 509. |
+|  |  | July 26, 1947, ch. 343, § 401; added Aug. 10, 1949, ch. 412, § 11 (1st 2 pars.), 63 Stat. 585. |
 
 In subsection (b)(1), 5 U.S.C. 172(b) (last 13 words of 1st sentence) is omitted as surplusage, since they are only a general description of the powers of the Secretary of Defense under this title. 5 U.S.C. 171c–2 (less 1st sentence) is omitted as covered by 5 U.S.C. 171c(c) (1st 18 words of 2d sentence).
 
@@ -1801,11 +1801,11 @@ In subsection (d), the following substitutions are made: “In carrying out subs
 
 **Codification**
 
-The text of section 138a(b) and (c) of this title, which was transferred to subsec. (b)(7) of this section and amended by Pub. L. 113–291, § 901(h)(1)(C)–(E), was based on Pub. L. 106–65, div. A, title IX, § 911(b)(1), Oct. 5, 1999, 113 Stat. 718, § 133b; renumbered § 138a and amended Pub. L. 111–84, div. A, title IX, § 906(b)(1), (c)(2)(D), Oct. 28, 2009, 123 Stat. 2426, 2427; Pub. L. 111–383, div. A, title IX, § 901(b)(5), Jan. 7, 2011, 124 Stat. 4319.
+The text of section 138a(b) and (c) of this title, which was transferred to subsec. (b)(7) of this section and amended by Pub. L. 113–291, § 901(h)(1)(C)–(E), was based on Pub. L. 106–65, div. A, title IX, § 911(b)(1), Oct. 5, 1999, 113 Stat. 718, § 133b; renumbered § 138a and amended Pub. L. 111–84, div. A, title IX, § 906(b)(1), (c)(2)(D), Oct. 28, 2009, 123 Stat. 2426, 2427; Pub. L. 111–383, div. A, title IX, § 901(b)(5), Jan. 7, 2011, 124 Stat. 4319.
 
-The text of section 138b of this title, which was transferred to subsec. (b)(8) of this section and amended by Pub. L. 113–291, § 901(h)(2), was based on Pub. L. 87–651, title II, § 202, Sept. 7, 1962, 76 Stat. 518, § 135; amended Pub. L. 92–596, § 4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, § 2(a), Oct. 21, 1977, 91 Stat. 1172; Pub. L. 99–348, title V, § 501(b)(1), (2), (e)(1), July 1, 1986, 100 Stat. 707, 708; Pub. L. 99–433, title I, § 105, Oct. 1, 1986, 100 Stat. 997; Pub. L. 99–500, § 101(c) [title X, § 903(b)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, § 101(c) [title X, § 903(b)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–661, div. A, title IX, formerly title IV, § 903(b)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; renumbered § 137 and amended Pub. L. 103–160, div. A, title IX, §§ 901(a)(1), 904(d)(1), Nov. 30, 1993, 107 Stat. 1726, 1728; Pub. L. 104–106, div. A, title IX, § 903(c)(3), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, § 911(d)(1), Oct. 5, 1999, 113 Stat. 719; renumbered § 139a, Pub. L. 107–314, div. A, title IX, § 901(a)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 111–23, title I, § 104(a)(1), May 22, 2009, 123 Stat. 1717; renumbered § 138b and amended Pub. L. 111–383, div. A, title IX, § 901(b)(6), (k)(1)(B), Jan. 7, 2011, 124 Stat. 4319, 4325; Pub. L. 112–239, div. A, title IX, § 904(e)(1), Jan. 2, 2013, 126 Stat. 1867.
+The text of section 138b of this title, which was transferred to subsec. (b)(8) of this section and amended by Pub. L. 113–291, § 901(h)(2), was based on Pub. L. 87–651, title II, § 202, Sept. 7, 1962, 76 Stat. 518, § 135; amended Pub. L. 92–596, § 4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, § 2(a), Oct. 21, 1977, 91 Stat. 1172; Pub. L. 99–348, title V, § 501(b)(1), (2), (e)(1), July 1, 1986, 100 Stat. 707, 708; Pub. L. 99–433, title I, § 105, Oct. 1, 1986, 100 Stat. 997; Pub. L. 99–500, § 101(c) [title X, § 903(b)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, § 101(c) [title X, § 903(b)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–661, div. A, title IX, formerly title IV, § 903(b)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; renumbered § 137 and amended Pub. L. 103–160, div. A, title IX, §§ 901(a)(1), 904(d)(1), Nov. 30, 1993, 107 Stat. 1726, 1728; Pub. L. 104–106, div. A, title IX, § 903(c)(3), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, § 911(d)(1), Oct. 5, 1999, 113 Stat. 719; renumbered § 139a, Pub. L. 107–314, div. A, title IX, § 901(a)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 111–23, title I, § 104(a)(1), May 22, 2009, 123 Stat. 1717; renumbered § 138b and amended Pub. L. 111–383, div. A, title IX, § 901(b)(6), (k)(1)(B), Jan. 7, 2011, 124 Stat. 4319, 4325; Pub. L. 112–239, div. A, title IX, § 904(e)(1), Jan. 2, 2013, 126 Stat. 1867.
 
-The text of section 138d of this title, which was transferred to subsec. (b)(10) of this section and amended by Pub. L. 113–291, § 901(h)(3), was based on Pub. L. 100–180, div. A, title XII, § 1245(a)(1), Dec. 4, 1987, 101 Stat. 1165, § 141; renumbered § 142, Pub. L. 103–160, div. A, title IX, § 901(a)(1), Nov. 30, 1993, 107 Stat. 1726; amended Pub. L. 104–106, div. A, title IX, §§ 903(c)(4), 904(a)(1), Feb. 10, 1996, 110 Stat. 402, 403; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 110–417, [div. A], title IX, § 905, Oct. 14, 2008, 122 Stat. 4568; renumbered § 138d and amended Pub. L. 111–383, div. A, title IX, § 901(b)(8), (k)(1)(D), Jan. 7, 2011, 124 Stat. 4320, 4325.
+The text of section 138d of this title, which was transferred to subsec. (b)(10) of this section and amended by Pub. L. 113–291, § 901(h)(3), was based on Pub. L. 100–180, div. A, title XII, § 1245(a)(1), Dec. 4, 1987, 101 Stat. 1165, § 141; renumbered § 142, Pub. L. 103–160, div. A, title IX, § 901(a)(1), Nov. 30, 1993, 107 Stat. 1726; amended Pub. L. 104–106, div. A, title IX, §§ 903(c)(4), 904(a)(1), Feb. 10, 1996, 110 Stat. 402, 403; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 110–417, [div. A], title IX, § 905, Oct. 14, 2008, 122 Stat. 4568; renumbered § 138d and amended Pub. L. 111–383, div. A, title IX, § 901(b)(8), (k)(1)(D), Jan. 7, 2011, 124 Stat. 4320, 4325.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
@@ -1837,75 +1837,75 @@ Section 138(i) was renumbered successively as section 114(i) and section 114(d) 
 
 **Amendments**
 
-2025—Subsec. (a)(1). Pub. L. 119–60, § 903(b)(1), substituted “20” for “19”.
+2025—Subsec. (a)(1). Pub. L. 119–60, § 903(b)(1), substituted “20” for “19”.
 
-Subsec. (b)(7) to (9). Pub. L. 119–60, § 903(a), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
+Subsec. (b)(7) to (9). Pub. L. 119–60, § 903(a), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
 
-2024—Subsec. (b)(4). Pub. L. 118–159, § 1621(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “One of the Assistant Secretaries is the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs. The Assistant Secretary may communicate views on issues within the responsibility of the Assistant Secretary directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense. The Assistant Secretary shall—
+2024—Subsec. (b)(4). Pub. L. 118–159, § 1621(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “One of the Assistant Secretaries is the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs. The Assistant Secretary may communicate views on issues within the responsibility of the Assistant Secretary directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense. The Assistant Secretary shall—
 
 “(A) advise the Secretary of Defense on nuclear energy, nuclear weapons, and chemical and biological defense; and
 
 “(B) serve as the Staff Director of the Nuclear Weapons Council established by section 179 of this title.”
 
-Subsec. (e). Pub. L. 118–159, § 904, substituted “62” for “60”.
+Subsec. (e). Pub. L. 118–159, § 904, substituted “62” for “60”.
 
 2023—Subsec. (d). Pub. L. 118–31 struck out “the Chief Management Officer of the Department of Defense,” after “the Deputy Secretary of Defense,”.
 
-2022—Subsec. (a)(1). Pub. L. 117–263, § 901(b)(1), substituted “19” for “15”.
+2022—Subsec. (a)(1). Pub. L. 117–263, § 901(b)(1), substituted “19” for “15”.
 
-Subsec. (b)(2)(A). Pub. L. 117–263, § 901(d)(1)(A), substituted “The principal duty of the Assistant Secretary shall be” for “He shall have as his principal duty” in introductory provisions.
+Subsec. (b)(2)(A). Pub. L. 117–263, § 901(d)(1)(A), substituted “The principal duty of the Assistant Secretary shall be” for “He shall have as his principal duty” in introductory provisions.
 
-Subsec. (b)(2)(A)(ii)(III). Pub. L. 117–263, § 901(d)(1)(B), struck out subcl. (III) which read as follows: “Such other matters as may be specified by the Secretary and the Under Secretary.”
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 117–263, § 901(d)(1)(B), struck out subcl. (III) which read as follows: “Such other matters as may be specified by the Secretary and the Under Secretary.”
 
-Subsec. (b)(3). Pub. L. 117–263, § 901(d)(2), substituted “The principal duty of the Assistant Secretary shall be” for “He shall have as his principal duty”.
+Subsec. (b)(3). Pub. L. 117–263, § 901(d)(2), substituted “The principal duty of the Assistant Secretary shall be” for “He shall have as his principal duty”.
 
-Subsec. (b)(4)(C). Pub. L. 117–263, § 901(d)(3), struck out subpar. (C) which read as follows: “perform such additional duties as the Secretary may prescribe.”
+Subsec. (b)(4)(C). Pub. L. 117–263, § 901(d)(3), struck out subpar. (C) which read as follows: “perform such additional duties as the Secretary may prescribe.”
 
-Subsec. (b)(6). Pub. L. 117–263, § 901(d)(4), substituted “shall advise the Under Secretary of Defense for Acquisition and Sustainment on industrial base policies.” for “shall—
+Subsec. (b)(6). Pub. L. 117–263, § 901(d)(4), substituted “shall advise the Under Secretary of Defense for Acquisition and Sustainment on industrial base policies.” for “shall—
 
 “(A) advise the Under Secretary of Defense for Acquisition and Sustainment on industrial base policies; and
 
 “(B) perform other duties as directed by the Under Secretary.”
 
-Subsec. (b)(8). Pub. L. 117–263, § 901(a), added par. (8).
+Subsec. (b)(8). Pub. L. 117–263, § 901(a), added par. (8).
 
-Subsec. (e). Pub. L. 117–263, § 901(c)(1), added subsec. (e).
+Subsec. (e). Pub. L. 117–263, § 901(c)(1), added subsec. (e).
 
-2021—Subsec. (a)(1). Pub. L. 116–283, § 904(a), substituted “15” for “14”.
+2021—Subsec. (a)(1). Pub. L. 116–283, § 904(a), substituted “15” for “14”.
 
-Pub. L. 116–283, § 903(a), substituted “14” for “13”.
+Pub. L. 116–283, § 903(a), substituted “14” for “13”.
 
-Subsec. (b)(2). Pub. L. 116–283, § 902(a)(1)(A)–(C), (E), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and cls. (i) to (iii) of former subpar. (B) as subcls. (I) to (III), respectively, of subpar. (A)(ii), and added subpar. (B).
+Subsec. (b)(2). Pub. L. 116–283, § 902(a)(1)(A)–(C), (E), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and cls. (i) to (iii) of former subpar. (B) as subcls. (I) to (III), respectively, of subpar. (A)(ii), and added subpar. (B).
 
-Subsec. (b)(2)(A). Pub. L. 117–81, § 901(b), inserted “A person may not be appointed as Assistant Secretary within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.” before “Subject to the authority,” in introductory provisions.
+Subsec. (b)(2)(A). Pub. L. 117–81, § 901(b), inserted “A person may not be appointed as Assistant Secretary within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.” before “Subject to the authority,” in introductory provisions.
 
-Pub. L. 116–283, § 902(a)(2), substituted “section 167(k)” for “section 167(j)” in introductory provisions.
+Pub. L. 116–283, § 902(a)(2), substituted “section 167(k)” for “section 167(j)” in introductory provisions.
 
-Subsec. (b)(2)(A)(i). Pub. L. 117–81, § 1081(a)(4), struck out semicolon before period at end.
+Subsec. (b)(2)(A)(i). Pub. L. 117–81, § 1081(a)(4), struck out semicolon before period at end.
 
-Pub. L. 116–283, § 902(a)(1)(D), inserted before period at end “through the administrative chain of command specified in section 167(f) of this title;”.
+Pub. L. 116–283, § 902(a)(1)(D), inserted before period at end “through the administrative chain of command specified in section 167(f) of this title;”.
 
-Subsec. (b)(6). Pub. L. 116–283, § 903(b), added par. (6).
+Subsec. (b)(6). Pub. L. 116–283, § 903(b), added par. (6).
 
-Subsec. (b)(7). Pub. L. 116–283, § 904(b), added par. (7).
+Subsec. (b)(7). Pub. L. 116–283, § 904(b), added par. (7).
 
 2019—Subsec. (b)(5). Pub. L. 116–92 added par. (5).
 
 2018—Subsec. (d). Pub. L. 115–232 inserted “the Chief Management Officer of the Department of Defense,” after “the Deputy Secretary of Defense,” and struck out “the Deputy Chief Management Officer of the Department of Defense,” after “the Under Secretaries of Defense,”.
 
-2017—Subsec. (a)(1). Pub. L. 115–91, § 907(a), substituted “13” for “14”.
+2017—Subsec. (a)(1). Pub. L. 115–91, § 907(a), substituted “13” for “14”.
 
-Subsec. (b)(2) to (6). Pub. L. 115–91, § 907(b), redesignated pars. (4) to (6) as (2) to (4), respectively, and struck out former pars. (2) and (3) which read as follows:
+Subsec. (b)(2) to (6). Pub. L. 115–91, § 907(b), redesignated pars. (4) to (6) as (2) to (4), respectively, and struck out former pars. (2) and (3) which read as follows:
 
 “(2) One of the Assistant Secretaries is the Assistant Secretary of Defense for Manpower and Reserve Affairs. In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Manpower and Reserve Affairs shall have as the principal duty of such Assistant Secretary the overall supervision of manpower and reserve affairs of the Department of Defense.
 
 “(3) One of the Assistant Secretaries is the Assistant Secretary of Defense for Homeland Defense. He shall have as his principal duty the overall supervision of the homeland defense activities of the Department of Defense.”
 
-Subsec. (d). Pub. L. 115–91, § 1081(b)(1)(A), repealed Pub. L. 113–291, § 901(j)(2)(D). See 2014 Amendment note below.
+Subsec. (d). Pub. L. 115–91, § 1081(b)(1)(A), repealed Pub. L. 113–291, § 901(j)(2)(D). See 2014 Amendment note below.
 
-Pub. L. 115–91, § 906(d)(2), struck out “Principal” before “Deputy Under Secretaries of Defense”.
+Pub. L. 115–91, § 906(d)(2), struck out “Principal” before “Deputy Under Secretaries of Defense”.
 
-2016—Subsec. (b)(4). Pub. L. 114–328, § 922(a), inserted at end “Subject to the authority, direction, and control of the Secretary of Defense, the Assistant Secretary shall do the following:
+2016—Subsec. (b)(4). Pub. L. 114–328, § 922(a), inserted at end “Subject to the authority, direction, and control of the Secretary of Defense, the Assistant Secretary shall do the following:
 
 “(A) Exercise authority, direction, and control of all special-operations peculiar administrative matters relating to the organization, training, and equipping of special operations forces.
 
@@ -1917,35 +1917,35 @@ Pub. L. 115–91, § 906(d)(2), struck out “Principal” before “Deputy Un
 
 “(iii) Such other matters as may be specified by the Secretary and the Under Secretary.”
 
-Subsec. (b)(6) to (10). Pub. L. 114–328, § 901(e)(1), redesignated par. (10) as (6) and struck out former pars. (6) to (9), which related to positions of Assistant Secretary of Defense for Acquisition, Assistant Secretary of Defense for Logistics and Materiel Readiness, Assistant Secretary of Defense for Research and Engineering, and Assistant Secretary of Defense for Energy, Installations, and Environment.
+Subsec. (b)(6) to (10). Pub. L. 114–328, § 901(e)(1), redesignated par. (10) as (6) and struck out former pars. (6) to (9), which related to positions of Assistant Secretary of Defense for Acquisition, Assistant Secretary of Defense for Logistics and Materiel Readiness, Assistant Secretary of Defense for Research and Engineering, and Assistant Secretary of Defense for Energy, Installations, and Environment.
 
-2015—Subsec. (b)(8). Pub. L. 114–92, § 1078(a), substituted “shall periodically review and assess the technological maturity” for “shall—”, the designation for subpar. (A), and “review and assess the technological maturity”; substituted period at end for “; and”; and struck out subpar. (B) which read as follows: “submit to the Secretary of Defense and to the congressional defense committees by March 1 of each year a report on the technological maturity and integration risk of critical technologies of the major defense acquisition programs of the Department of Defense for which a Milestone B approval occurred during the preceding fiscal year.”
+2015—Subsec. (b)(8). Pub. L. 114–92, § 1078(a), substituted “shall periodically review and assess the technological maturity” for “shall—”, the designation for subpar. (A), and “review and assess the technological maturity”; substituted period at end for “; and”; and struck out subpar. (B) which read as follows: “submit to the Secretary of Defense and to the congressional defense committees by March 1 of each year a report on the technological maturity and integration risk of critical technologies of the major defense acquisition programs of the Department of Defense for which a Milestone B approval occurred during the preceding fiscal year.”
 
-Subsec. (b)(8)(A). Pub. L. 114–92, § 829(a), struck out “periodically” before “review and assess”, inserted “before the Milestone B approval for that program” after “Department of Defense”, and substituted “each major defense acquisition program” for “the major defense acquisition programs” and “such review and assessment” for “such reviews and assessments”.
+Subsec. (b)(8)(A). Pub. L. 114–92, § 829(a), struck out “periodically” before “review and assess”, inserted “before the Milestone B approval for that program” after “Department of Defense”, and substituted “each major defense acquisition program” for “the major defense acquisition programs” and “such review and assessment” for “such reviews and assessments”.
 
-Subsec. (b)(8)(B). Pub. L. 114–92, § 829(b), inserted “for which a Milestone B approval occurred during the preceding fiscal year” after “Department of Defense”.
+Subsec. (b)(8)(B). Pub. L. 114–92, § 829(b), inserted “for which a Milestone B approval occurred during the preceding fiscal year” after “Department of Defense”.
 
-2014—Subsec. (b)(2). Pub. L. 113–291, § 902(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “One of the Assistant Secretaries is the Assistant Secretary of Defense for Reserve Affairs. He shall have as his principal duty the overall supervision of reserve component affairs of the Department of Defense.”
+2014—Subsec. (b)(2). Pub. L. 113–291, § 902(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “One of the Assistant Secretaries is the Assistant Secretary of Defense for Reserve Affairs. He shall have as his principal duty the overall supervision of reserve component affairs of the Department of Defense.”
 
-Subsec. (b)(7). Pub. L. 113–291, § 901(h)(1)(D), (E), transferred section 138a(c) of this title to subsec. (b)(7) of this section, inserted it at end, and redesignated pars. (1) to (3) as subpars. (A) to (C), respectively. The redesignation was executed to reflect the probable intent of Congress, notwithstanding directory language referring to the text transferred by subparagraph (C) of section 901(h)(1) instead of subparagraph (D).
+Subsec. (b)(7). Pub. L. 113–291, § 901(h)(1)(D), (E), transferred section 138a(c) of this title to subsec. (b)(7) of this section, inserted it at end, and redesignated pars. (1) to (3) as subpars. (A) to (C), respectively. The redesignation was executed to reflect the probable intent of Congress, notwithstanding directory language referring to the text transferred by subparagraph (C) of section 901(h)(1) instead of subparagraph (D).
 
-Pub. L. 113–291, § 901(h)(1)(C), transferred section 138a(b) of this title to subsec. (b)(7) of this section and inserted it after first sentence.
+Pub. L. 113–291, § 901(h)(1)(C), transferred section 138a(b) of this title to subsec. (b)(7) of this section and inserted it after first sentence.
 
-Pub. L. 113–291, § 901(h)(1)(A), (B), in first sentence, inserted “, who shall be appointed from among persons with an extensive background in the sustainment of major weapons systems and combat support equipment” after “Readiness” and struck out second sentence which read as follows: “In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Logistics and Materiel Readiness shall have the duties specified in section 138a of this title.”
+Pub. L. 113–291, § 901(h)(1)(A), (B), in first sentence, inserted “, who shall be appointed from among persons with an extensive background in the sustainment of major weapons systems and combat support equipment” after “Readiness” and struck out second sentence which read as follows: “In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Logistics and Materiel Readiness shall have the duties specified in section 138a of this title.”
 
-Subsec. (b)(8). Pub. L. 113–291, § 901(h)(2)(C)–(E), transferred section 138b(b)(1) and (2) of this title to subsec. (b)(8) of this section, inserted it at end, and realigned margins; redesignated pars. (1) and (2) as subpars. (A) and (B), respectively; in subpar. (A), struck out “The Assistant Secretary of Defense for Research and Engineering, in consultation with the Director of Developmental Test and Evaluation, shall” before “periodically review” and substituted “; and” for period at end; and, in subpar. (B), struck out “The Assistant Secretary, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, shall” before “submit”.
+Subsec. (b)(8). Pub. L. 113–291, § 901(h)(2)(C)–(E), transferred section 138b(b)(1) and (2) of this title to subsec. (b)(8) of this section, inserted it at end, and realigned margins; redesignated pars. (1) and (2) as subpars. (A) and (B), respectively; in subpar. (A), struck out “The Assistant Secretary of Defense for Research and Engineering, in consultation with the Director of Developmental Test and Evaluation, shall” before “periodically review” and substituted “; and” for period at end; and, in subpar. (B), struck out “The Assistant Secretary, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, shall” before “submit”.
 
-Pub. L. 113–291, § 901(h)(2)(B), inserted “The Assistant Secretary, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, shall—” after “Logistics may prescribe.”
+Pub. L. 113–291, § 901(h)(2)(B), inserted “The Assistant Secretary, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, shall—” after “Logistics may prescribe.”
 
-Pub. L. 113–291, § 901(h)(2)(A), inserted text of section 138b(a) of this title after first sentence of subsec. (b)(8) of this section and struck out at end: “In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Research and Engineering shall have the duties specified in section 138b of this title.”
+Pub. L. 113–291, § 901(h)(2)(A), inserted text of section 138b(a) of this title after first sentence of subsec. (b)(8) of this section and struck out at end: “In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Research and Engineering shall have the duties specified in section 138b of this title.”
 
-Subsec. (b)(9). Pub. L. 113–291, § 901(f), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “One of the Assistant Secretaries is the Assistant Secretary of Defense for Operational Energy Plans and Programs. In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Operational Energy Plans and Programs shall have the duties specified in section 138c of this title.”
+Subsec. (b)(9). Pub. L. 113–291, § 901(f), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “One of the Assistant Secretaries is the Assistant Secretary of Defense for Operational Energy Plans and Programs. In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Operational Energy Plans and Programs shall have the duties specified in section 138c of this title.”
 
-Subsec. (b)(10). Pub. L. 113–291, § 901(h)(3)(B), inserted text of section 138d(a) of this title at end of subsec. (b)(10) of this section, struck out “of Defense for Nuclear, Chemical, and Biological Defense Programs” before “shall—”, and redesignated pars. (1) to (3) as subpars. (A) to (C), respectively.
+Subsec. (b)(10). Pub. L. 113–291, § 901(h)(3)(B), inserted text of section 138d(a) of this title at end of subsec. (b)(10) of this section, struck out “of Defense for Nuclear, Chemical, and Biological Defense Programs” before “shall—”, and redesignated pars. (1) to (3) as subpars. (A) to (C), respectively.
 
-Pub. L. 113–291, § 901(h)(3)(A), inserted text of section 138d(b) after first sentence of subsec. (b)(10) of this section and struck out at end: “In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall have the duties specified in section 138d of this title.”
+Pub. L. 113–291, § 901(h)(3)(A), inserted text of section 138d(b) after first sentence of subsec. (b)(10) of this section and struck out at end: “In addition to any duties and powers prescribed under paragraph (1), the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall have the duties specified in section 138d of this title.”
 
-Subsec. (d). Pub. L. 113–291, § 901(j)(2)(D), which directed striking out “the Deputy Chief Management Officer of the Department of Defense,”, was repealed by Pub. L. 115–91, § 1081(b)(1)(A).
+Subsec. (d). Pub. L. 113–291, § 901(j)(2)(D), which directed striking out “the Deputy Chief Management Officer of the Department of Defense,”, was repealed by Pub. L. 115–91, § 1081(b)(1)(A).
 
 2013—Subsec. (c)(3). Pub. L. 112–239 transferred subsec. (c)(3), relating to responsibilities of the Assistant Secretary of Defense for Operational Energy Plans and Programs regarding alternative fuel, to section 138c(c)(3) of this title.
 
@@ -1953,29 +1953,29 @@ Subsec. (d). Pub. L. 113–291, § 901(j)(2)(D), which directed striking out �
 
 Subsec. (c)(3). Pub. L. 112–81 added par. (3).
 
-2011—Subsec. (a)(1). Pub. L. 111–383, § 901(b)(4)(A)(i), substituted “16” for “12”.
+2011—Subsec. (a)(1). Pub. L. 111–383, § 901(b)(4)(A)(i), substituted “16” for “12”.
 
-Subsec. (a)(2). Pub. L. 111–383, § 901(b)(4)(A)(ii), struck out subpar. (A) and subpar. (B) designation and substituted “The” for “The other”. Prior to amendment, subpar. (A) read as follows: “The Assistant Secretary of Defense referred to in subsection (b)(7) shall be appointed as provided in that subsection.”
+Subsec. (a)(2). Pub. L. 111–383, § 901(b)(4)(A)(ii), struck out subpar. (A) and subpar. (B) designation and substituted “The” for “The other”. Prior to amendment, subpar. (A) read as follows: “The Assistant Secretary of Defense referred to in subsection (b)(7) shall be appointed as provided in that subsection.”
 
-Subsec. (b)(2) to (6). Pub. L. 111–383, § 901(b)(4)(B)(i), substituted “Secretaries is” for “Secretaries shall be”.
+Subsec. (b)(2) to (6). Pub. L. 111–383, § 901(b)(4)(B)(i), substituted “Secretaries is” for “Secretaries shall be”.
 
-Subsec. (b)(7). Pub. L. 111–383, § 901(b)(4)(B)(ii), struck out “appointed pursuant to section 138a of this title” before period at end of first sentence.
+Subsec. (b)(7). Pub. L. 111–383, § 901(b)(4)(B)(ii), struck out “appointed pursuant to section 138a of this title” before period at end of first sentence.
 
-Subsec. (b)(8) to (10). Pub. L. 111–383, § 901(b)(4)(B)(iii), added pars. (8) to (10).
+Subsec. (b)(8) to (10). Pub. L. 111–383, § 901(b)(4)(B)(iii), added pars. (8) to (10).
 
-Subsec. (d). Pub. L. 111–383, § 901(b)(4)(C), substituted “the Deputy Chief Management Officer of the Department of Defense, the officials serving in positions specified in section 131(b)(4) of this title, and the Principal Deputy Under Secretaries of Defense” for “and the Director of Defense Research and Engineering”.
+Subsec. (d). Pub. L. 111–383, § 901(b)(4)(C), substituted “the Deputy Chief Management Officer of the Department of Defense, the officials serving in positions specified in section 131(b)(4) of this title, and the Principal Deputy Under Secretaries of Defense” for “and the Director of Defense Research and Engineering”.
 
-2009—Subsec. (a). Pub. L. 111–84, § 906(b)(2)(A), added subsec. (a) and struck out former subsec. (a), which read as follows: “There are ten Assistant Secretaries of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.”
+2009—Subsec. (a). Pub. L. 111–84, § 906(b)(2)(A), added subsec. (a) and struck out former subsec. (a), which read as follows: “There are ten Assistant Secretaries of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.”
 
-Subsec. (b)(6), (7). Pub. L. 111–84, § 906(b)(2)(B), added pars. (6) and (7).
+Subsec. (b)(6), (7). Pub. L. 111–84, § 906(b)(2)(B), added pars. (6) and (7).
 
 2006—Subsec. (a). Pub. L. 109–364 substituted “ten” for “nine”.
 
-2002—Subsec. (a). Pub. L. 107–314, § 902(d), which directed the repeal of Pub. L. 107–107, § 901(c), was executed by substituting “nine” for “eight” to reflect the probable intent of Congress. See 2001 Amendment note below.
+2002—Subsec. (a). Pub. L. 107–314, § 902(d), which directed the repeal of Pub. L. 107–107, § 901(c), was executed by substituting “nine” for “eight” to reflect the probable intent of Congress. See 2001 Amendment note below.
 
-Subsec. (b)(3). Pub. L. 107–314, § 902(a), added par. (3).
+Subsec. (b)(3). Pub. L. 107–314, § 902(a), added par. (3).
 
-Subsec. (b)(6). Pub. L. 107–314, § 902(c), struck out par. (6) which read as follows:
+Subsec. (b)(6). Pub. L. 107–314, § 902(c), struck out par. (6) which read as follows:
 
 “(6)(A) One of the Assistant Secretaries, as designated by the Secretary of Defense from among those Assistant Secretaries with responsibilities that include responsibilities related to combating terrorism, shall have, among that Assistant Secretary’s duties, the duty to provide overall direction and supervision for policy, program planning and execution, and allocation and use of resources for the activities of the Department of Defense for combating terrorism, including antiterrorism activities, counterterrorism activities, terrorism consequences management activities, and terrorism-related intelligence support activities.
 
@@ -1983,13 +1983,13 @@ Subsec. (b)(6). Pub. L. 107–314, § 902(c), struck out par. (6) which read a
 
 “(C) If the Secretary of Defense designates under subparagraph (A) an Assistant Secretary other than the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, then the responsibilities of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict related to combating terrorism shall be exercised subject to subparagraph (B).”
 
-2001—Subsec. (a). Pub. L. 107–107, which substituted “eight Assistant Secretaries of Defense” for “nine Assistant Secretaries of Defense”, was repealed by Pub. L. 107–314, § 902(d). See 2002 Amendment note above.
+2001—Subsec. (a). Pub. L. 107–107, which substituted “eight Assistant Secretaries of Defense” for “nine Assistant Secretaries of Defense”, was repealed by Pub. L. 107–314, § 902(d). See 2002 Amendment note above.
 
 2000—Subsec. (b)(6). Pub. L. 106–398 added par. (6).
 
-1998—Subsec. (a). Pub. L. 105–261, § 901(a), substituted “nine” for “ten”.
+1998—Subsec. (a). Pub. L. 105–261, § 901(a), substituted “nine” for “ten”.
 
-Subsec. (b)(3). Pub. L. 105–261, § 902, struck out par. (3) which read as follows:
+Subsec. (b)(3). Pub. L. 105–261, § 902, struck out par. (3) which read as follows:
 
 “(3)(A) One of the Assistant Secretaries shall be the Assistant Secretary of Defense for Command, Control, Communications, and Intelligence. He shall have as his principal duty the overall supervision of command, control, communications, and intelligence affairs of the Department of Defense.
 
@@ -1997,75 +1997,75 @@ Subsec. (b)(3). Pub. L. 105–261, § 902, struck out par. (3) which read as f
 
 “(C) If the Secretary of Defense establishes an Assistant Secretary of Defense for Intelligence, the Assistant Secretary provided for under subparagraph (A) shall be the Assistant Secretary of Defense for Command, Control, and Communications and shall have as his principal duty the overall supervision of command, control, and communications affairs of the Department of Defense.”
 
-1996—Subsec. (a). Pub. L. 104–106, § 902(a), substituted “ten” for “eleven”.
+1996—Subsec. (a). Pub. L. 104–106, § 902(a), substituted “ten” for “eleven”.
 
-Subsec. (b). Pub. L. 104–106, § 903(a), (b), which directed the general amendment of subsec. (b), eff. Jan. 31, 1997, designating par. (1) as entire subsec. and striking out pars. (2) to (5), was repealed by Pub. L. 104–201.
+Subsec. (b). Pub. L. 104–106, § 903(a), (b), which directed the general amendment of subsec. (b), eff. Jan. 31, 1997, designating par. (1) as entire subsec. and striking out pars. (2) to (5), was repealed by Pub. L. 104–201.
 
-Subsec. (d). Pub. L. 104–106, § 903(a), (e)(2), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting “and the Under Secretaries of Defense” for “the Under Secretaries of Defense, and the Director of Defense Research and Engineering”, was repealed by Pub. L. 104–201.
+Subsec. (d). Pub. L. 104–106, § 903(a), (e)(2), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting “and the Under Secretaries of Defense” for “the Under Secretaries of Defense, and the Director of Defense Research and Engineering”, was repealed by Pub. L. 104–201.
 
-1994—Subsec. (a). Pub. L. 103–337, § 901(a), substituted “eleven” for “ten”.
+1994—Subsec. (a). Pub. L. 103–337, § 901(a), substituted “eleven” for “ten”.
 
-Subsec. (d). Pub. L. 103–337, § 903(b)(2), struck out “and Comptroller” after “Under Secretaries of Defense”.
+Subsec. (d). Pub. L. 103–337, § 903(b)(2), struck out “and Comptroller” after “Under Secretaries of Defense”.
 
-1993—Pub. L. 103–160, § 901(a)(1), renumbered section 136 of this title as this section.
+1993—Pub. L. 103–160, § 901(a)(1), renumbered section 136 of this title as this section.
 
-Subsec. (a). Pub. L. 103–160, § 903(c)(1), substituted “ten” for “eleven”.
+Subsec. (a). Pub. L. 103–160, § 903(c)(1), substituted “ten” for “eleven”.
 
-Subsec. (b)(5). Pub. L. 103–160, § 905, added par. (5).
+Subsec. (b)(5). Pub. L. 103–160, § 905, added par. (5).
 
-Subsec. (d). Pub. L. 103–160, § 901(c), inserted “and Comptroller” after “Under Secretaries of Defense”.
+Subsec. (d). Pub. L. 103–160, § 901(c), inserted “and Comptroller” after “Under Secretaries of Defense”.
 
 1988—Subsec. (b)(3). Pub. L. 100–453 and Pub. L. 100–456 generally amended par. (3) identically. Prior to amendment, par. (3) read as follows: “One of the Assistant Secretaries shall be the Assistant Secretary of Defense for Command, Control, Communications, and Intelligence. He shall have as his principal duty the overall supervision of command, control, communications, and intelligence affairs of the Department of Defense.”
 
 1987—Subsec. (b)(4). Pub. L. 100–180 inserted at end “The Assistant Secretary is the principal civilian adviser to the Secretary of Defense on special operations and low intensity conflict matters and (after the Secretary and Deputy Secretary) is the principal special operations and low intensity conflict official within the senior management of the Department of Defense.”
 
-1986—Pub. L. 99–433, § 110(d)(9), struck out “: appointment; powers and duties; precedence” at end of section catchline.
+1986—Pub. L. 99–433, § 110(d)(9), struck out “: appointment; powers and duties; precedence” at end of section catchline.
 
-Subsec. (b)(2), (3). Pub. L. 99–433, § 106(a)(1), (2), redesignated pars. (4) and (5) as pars. (2) and (3), respectively, and struck out former par. (2) relating to the Assistant Secretary of Defense for Health Affairs and former par. (3) relating to the Assistant Secretary of Defense for Manpower and Logistics.
+Subsec. (b)(2), (3). Pub. L. 99–433, § 106(a)(1), (2), redesignated pars. (4) and (5) as pars. (2) and (3), respectively, and struck out former par. (2) relating to the Assistant Secretary of Defense for Health Affairs and former par. (3) relating to the Assistant Secretary of Defense for Manpower and Logistics.
 
 Subsec. (b)(4). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, amended subsec. (b) identically, adding par. (4).
 
-Pub. L. 99–433, § 106(a)(2), redesignated par. (4) as (2).
+Pub. L. 99–433, § 106(a)(2), redesignated par. (4) as (2).
 
-Subsec. (b)(5). Pub. L. 99–433, § 106(a)(2), redesignated par. (5) as (3).
+Subsec. (b)(5). Pub. L. 99–433, § 106(a)(2), redesignated par. (5) as (3).
 
-Subsec. (b)(6). Pub. L. 99–433, § 106(a)(3), struck out par. (6) relating to Comptroller of Department of Defense. See section 135 of this title.
+Subsec. (b)(6). Pub. L. 99–433, § 106(a)(3), struck out par. (6) relating to Comptroller of Department of Defense. See section 135 of this title.
 
-Subsec. (c)(1). Pub. L. 99–433, § 106(c)(1)(A), substituted “the Assistant Secretary” for “him”.
+Subsec. (c)(1). Pub. L. 99–433, § 106(c)(1)(A), substituted “the Assistant Secretary” for “him”.
 
-Subsec. (c)(2). Pub. L. 99–433, § 106(c)(1)(B), struck out “, or his designee” after “concerned”.
+Subsec. (c)(2). Pub. L. 99–433, § 106(c)(1)(B), struck out “, or his designee” after “concerned”.
 
-Subsecs. (d), (e). Pub. L. 99–433, § 106(b), (c)(2), (3), redesignated subsec. (e) as (d), substituted “the Under Secretaries of Defense, and the Director of Defense Research and Engineering” for “and the Under Secretaries of Defense”, inserted sentence directing that the Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense, and struck out former subsec. (d) which directed the Secretary of each military department, his civilian assistants, and members of the armed forces under the jurisdiction of his department to cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
+Subsecs. (d), (e). Pub. L. 99–433, § 106(b), (c)(2), (3), redesignated subsec. (e) as (d), substituted “the Under Secretaries of Defense, and the Director of Defense Research and Engineering” for “and the Under Secretaries of Defense”, inserted sentence directing that the Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense, and struck out former subsec. (d) which directed the Secretary of each military department, his civilian assistants, and members of the armed forces under the jurisdiction of his department to cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
 
-1983—Subsec. (a). Pub. L. 98–94, § 1212(a)(1), substituted “eleven” for “seven”.
+1983—Subsec. (a). Pub. L. 98–94, § 1212(a)(1), substituted “eleven” for “seven”.
 
-Subsec. (b)(1). Pub. L. 98–94, § 1212(a)(2)(A), designated existing first sentence as par. (1).
+Subsec. (b)(1). Pub. L. 98–94, § 1212(a)(2)(A), designated existing first sentence as par. (1).
 
-Subsec. (b)(2). Pub. L. 98–94, § 1212(a)(2)(B), designated existing second and third sentences as par. (2).
+Subsec. (b)(2). Pub. L. 98–94, § 1212(a)(2)(B), designated existing second and third sentences as par. (2).
 
-Subsec. (b)(3). Pub. L. 98–94, § 1212(a)(2)(C), (D), designated existing fourth and fifth sentences as par. (3) and substituted “Logistics” for “Reserve Affairs” and “logistics” for “reserve component”.
+Subsec. (b)(3). Pub. L. 98–94, § 1212(a)(2)(C), (D), designated existing fourth and fifth sentences as par. (3) and substituted “Logistics” for “Reserve Affairs” and “logistics” for “reserve component”.
 
-Subsec. (b)(4), (5). Pub. L. 98–94, § 1212(a)(2)(E), added pars. (4) and (5).
+Subsec. (b)(4), (5). Pub. L. 98–94, § 1212(a)(2)(E), added pars. (4) and (5).
 
-Subsec. (b)(6). Pub. L. 98–94, § 1212(a)(2)(F), designated existing sixth sentence as par. (6), substituted “One of the Assistant Secretaries” for “In addition, one of the Assistant Secretaries”, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, redesignated former subpars. (A) to (D) as cls. (1) to (4), respectively, and in subpar. (E) substituted “clauses (A) through (D)” for “clauses (1)–(4)”.
+Subsec. (b)(6). Pub. L. 98–94, § 1212(a)(2)(F), designated existing sixth sentence as par. (6), substituted “One of the Assistant Secretaries” for “In addition, one of the Assistant Secretaries”, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, redesignated former subpars. (A) to (D) as cls. (1) to (4), respectively, and in subpar. (E) substituted “clauses (A) through (D)” for “clauses (1)–(4)”.
 
-Subsec. (f). Pub. L. 98–94, § 1212(a)(3), struck out subsec. (f) which provided for appointment of a Deputy Assistant Secretary of Defense for Reserve Affairs within the Office of the Assistant Secretary of Defense for Manpower and Reserve Affairs. See subsec. (b)(4) of this section.
+Subsec. (f). Pub. L. 98–94, § 1212(a)(3), struck out subsec. (f) which provided for appointment of a Deputy Assistant Secretary of Defense for Reserve Affairs within the Office of the Assistant Secretary of Defense for Manpower and Reserve Affairs. See subsec. (b)(4) of this section.
 
 1979—Subsec. (a). Pub. L. 96–107 substituted “seven” for “nine”.
 
-1977—Subsec. (e). Pub. L. 95–140 inserted “of Defense” after “Secretary” and substituted “Secretary of Defense” for “Secretaries of Defense” and “, and the Under Secretaries of Defense” for “, and the Director of Defense Research and Engineering”.
+1977—Subsec. (e). Pub. L. 95–140 inserted “of Defense” after “Secretary” and substituted “Secretary of Defense” for “Secretaries of Defense” and “, and the Under Secretaries of Defense” for “, and the Director of Defense Research and Engineering”.
 
 1972—Subsec. (e). Pub. L. 92–596 substituted “Deputy Secretaries” for “Deputy Secretary”.
 
 1971—Subsec. (a). Pub. L. 92–215 substituted “nine” for “eight”.
 
-1969—Subsec. (a). Pub. L. 91–121, § 404(a)(1), substituted “eight” for “seven”.
+1969—Subsec. (a). Pub. L. 91–121, § 404(a)(1), substituted “eight” for “seven”.
 
-Subsec. (b). Pub. L. 91–121, § 404(a)(2), provided for an Assistant Secretary of Defense for Health Affairs having as his principal duty the overall supervision of health affairs of Department of Defense.
+Subsec. (b). Pub. L. 91–121, § 404(a)(2), provided for an Assistant Secretary of Defense for Health Affairs having as his principal duty the overall supervision of health affairs of Department of Defense.
 
-1967—Subsec. (b). Pub. L. 90–168, § 2(1), inserted provisions for an Assistant Secretary of Defense for Manpower and Reserve Affairs with principal duty of overall supervision of manpower and reserve component affairs of Department of Defense.
+1967—Subsec. (b). Pub. L. 90–168, § 2(1), inserted provisions for an Assistant Secretary of Defense for Manpower and Reserve Affairs with principal duty of overall supervision of manpower and reserve component affairs of Department of Defense.
 
-Subsec. (f). Pub. L. 90–168, § 2(2), added subsec. (f).
+Subsec. (f). Pub. L. 90–168, § 2(2), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2075,11 +2075,11 @@ Amendment by section 901(b) of Pub. L. 117–81 applicable with respect to appoi
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title X, § 1081(b), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(A) is effective as of Dec. 23, 2016.
+Pub. L. 115–91, div. A, title X, § 1081(b), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(A) is effective as of Dec. 23, 2016.
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–291, div. A, title IX, § 901(j)(2), Dec. 19, 2014, 128 Stat. 3467, which provided that the amendment made by section 901(j)(2)(D) is effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597.
+Pub. L. 113–291, div. A, title IX, § 901(j)(2), Dec. 19, 2014, 128 Stat. 3467, which provided that the amendment made by section 901(j)(2)(D) is effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597.
 
 **Effective Date of 2012 Amendment**
 
@@ -2091,19 +2091,19 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–94, title XII, § 1212(e), Sept. 24, 1983, 97 Stat. 687, provided that: “The amendments made by this section [amending this section, sections 175, 3013, and 5034 of this title, and section 5315 of Title 5, Government Organization and Employees] shall take effect on October 1, 1983.”
+Pub. L. 98–94, title XII, § 1212(e), Sept. 24, 1983, 97 Stat. 687, provided that: “The amendments made by this section [amending this section, sections 175, 3013, and 5034 of this title, and section 5315 of Title 5, Government Organization and Employees] shall take effect on October 1, 1983.”
 
 **Effective Date of 1967 Amendment**
 
-Pub. L. 90–168, § 7, Dec. 1, 1967, 81 Stat. 526, provided that: “The provisions of this Act [see Short Title of 1967 Amendment note below] shall become effective on the first day of the first calendar month following the date of enactment [Dec. 1, 1967].”
+Pub. L. 90–168, § 7, Dec. 1, 1967, 81 Stat. 526, provided that: “The provisions of this Act [see Short Title of 1967 Amendment note below] shall become effective on the first day of the first calendar month following the date of enactment [Dec. 1, 1967].”
 
 **Short Title of 1967 Amendment**
 
-Pub. L. 90–168, § 1, Dec. 1, 1967, 81 Stat. 521, provided: “That this Act [amending this section, sections 175, 262, 264, 268, 269, 270, 511 [now 12103], 3014, 5034, 8014, and 8850 of this title, section 502 of Title 32, National Guard, and section 404 of Title 37, Pay and Allowances of the Uniformed Services, enacting sections 3021 [now 10302], 3038, 8021 [now 10305], and 8038 of this title, enacting provisions set out as notes under this section and section 8212 of this title, and amending provisions set out as a note under section 113 of this title] may be cited as the ‘Reserve Forces Bill of Rights and Vitalization Act’.”
+Pub. L. 90–168, § 1, Dec. 1, 1967, 81 Stat. 521, provided: “That this Act [amending this section, sections 175, 262, 264, 268, 269, 270, 511 [now 12103], 3014, 5034, 8014, and 8850 of this title, section 502 of Title 32, National Guard, and section 404 of Title 37, Pay and Allowances of the Uniformed Services, enacting sections 3021 [now 10302], 3038, 8021 [now 10305], and 8038 of this title, enacting provisions set out as notes under this section and section 8212 of this title, and amending provisions set out as a note under section 113 of this title] may be cited as the ‘Reserve Forces Bill of Rights and Vitalization Act’.”
 
 **Organizational Realignment With Respect to Office of the Assistant Secretary of Defense for Nuclear Deterrence, Chemical and Biological Defense Policy and Programs; Limitation on Availability of Certain Funds**
 
-Pub. L. 119–60, div. A, title XVI, § 1635(a), Dec. 18, 2025, 139 Stat. 1187, provided that:
+Pub. L. 119–60, div. A, title XVI, § 1635(a), Dec. 18, 2025, 139 Stat. 1187, provided that:
 
 > **“(a) Organizational Realignment.—** Not later than 45 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall take such actions as are required to—
 
@@ -2127,7 +2127,7 @@ Pub. L. 119–60, div. A, title XVI, § 1635(a), Dec. 18, 2025, 139 Stat. 1187
 
 **Matters Relating to Assistant Secretary of Defense for Special Operations and Low Intensity Conflict**
 
-Pub. L. 118–159, div. A, title IX, § 907, Dec. 23, 2024, 138 Stat. 2031, provided that:
+Pub. L. 118–159, div. A, title IX, § 907, Dec. 23, 2024, 138 Stat. 2031, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall—
 
@@ -2151,7 +2151,7 @@ Pub. L. 118–159, div. A, title IX, § 907, Dec. 23, 2024, 138 Stat. 2031, pr
 
 **Principal Deputy Assistant Secretaries To Support Assistant Secretary of Defense for Special Operations and Low Intensity Conflict**
 
-Pub. L. 118–31, div. A, title IX, § 905, Dec. 22, 2023, 137 Stat. 364, provided that:
+Pub. L. 118–31, div. A, title IX, § 905, Dec. 22, 2023, 137 Stat. 364, provided that:
 
 > “The Secretary of Defense may appoint two Principal Deputy Assistant Secretaries to report to the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict—
 
@@ -2161,7 +2161,7 @@ Pub. L. 118–31, div. A, title IX, § 905, Dec. 22, 2023, 137 Stat. 364, prov
 
 **DoD Directive on Responsibilities of ASD SOLIC**
 
-Pub. L. 116–283, div. A, title IX, § 902(c), Jan. 1, 2021, 134 Stat. 3797, provided that:
+Pub. L. 116–283, div. A, title IX, § 902(c), Jan. 1, 2021, 134 Stat. 3797, provided that:
 
 > **“(1) In general.—** Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall publish a Department of Defense directive establishing policy and procedures related to the exercise of authority, direction, and control of all special-operations peculiar administrative matters relating to the organization, training, and equipping of special operations forces by the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict as specified by section 138(b)(2)(A)(i) of title 10, United States Code, as amended by subsection (a)(1).
 
@@ -2181,23 +2181,23 @@ Pub. L. 116–283, div. A, title IX, § 902(c), Jan. 1, 2021, 134 Stat. 3797, 
 
 **Assignment of Responsibility for the Arctic Region Within the Office of the Secretary of Defense**
 
-Pub. L. 116–283, div. A, title IX, § 907, Jan. 1, 2021, 134 Stat. 3799, provided that: “The Assistant Secretary of Defense for International Security Affairs shall assign responsibility for the Arctic region to the Deputy Assistant Secretary of Defense for the Western Hemisphere or any other Deputy Assistant Secretary of Defense the Secretary of Defense considers appropriate.”
+Pub. L. 116–283, div. A, title IX, § 907, Jan. 1, 2021, 134 Stat. 3799, provided that: “The Assistant Secretary of Defense for International Security Affairs shall assign responsibility for the Arctic region to the Deputy Assistant Secretary of Defense for the Western Hemisphere or any other Deputy Assistant Secretary of Defense the Secretary of Defense considers appropriate.”
 
 **Deadline for Completion of Full Implementation of Requirements in Connection With Organization of the Department of Defense for Management of Special Operations Forces and Special Operations**
 
-Pub. L. 115–232, div. A, title IX, § 917, Aug. 13, 2018, 132 Stat. 1925, provided that: “The Secretary of Defense shall ensure that the implementation of section 922 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2354) [enacting section 139b of this title and amending this section and section 167 of this title] and the amendments made by that section is fully complete by not later than 90 days after the date of the enactment of this Act [Aug. 13, 2018].”
+Pub. L. 115–232, div. A, title IX, § 917, Aug. 13, 2018, 132 Stat. 1925, provided that: “The Secretary of Defense shall ensure that the implementation of section 922 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2354) [enacting section 139b of this title and amending this section and section 167 of this title] and the amendments made by that section is fully complete by not later than 90 days after the date of the enactment of this Act [Aug. 13, 2018].”
 
 **Limitation on Maximum Number of Deputy Assistant Secretaries of Defense**
 
-Pub. L. 115–91, div. A, title IX, § 908, Dec. 12, 2017, 131 Stat. 1514, which limited the maximum number of Deputy Assistant Secretaries of Defense to 48 after Dec. 12, 2017, was repealed by Pub. L. 117–263, div. A, title IX, § 901(c)(2), Dec. 23, 2022, 136 Stat. 2747. See subsec. (e) of this section.
+Pub. L. 115–91, div. A, title IX, § 908, Dec. 12, 2017, 131 Stat. 1514, which limited the maximum number of Deputy Assistant Secretaries of Defense to 48 after Dec. 12, 2017, was repealed by Pub. L. 117–263, div. A, title IX, § 901(c)(2), Dec. 23, 2022, 136 Stat. 2747. See subsec. (e) of this section.
 
 **Redesignation of Assistant Secretary of Defense for Manpower and Reserve Affairs**
 
-Pub. L. 113–291, div. A, title IX, § 902(a)(1), Dec. 19, 2014, 128 Stat. 3469, provided that: “The position of Assistant Secretary of Defense for Reserve Affairs is hereby redesignated as the Assistant Secretary of Defense for Manpower and Reserve Affairs. The individual serving in that position on the day before the date of the enactment of this Act [Dec. 19, 2014] may continue in office after that date without further appointment.”
+Pub. L. 113–291, div. A, title IX, § 902(a)(1), Dec. 19, 2014, 128 Stat. 3469, provided that: “The position of Assistant Secretary of Defense for Reserve Affairs is hereby redesignated as the Assistant Secretary of Defense for Manpower and Reserve Affairs. The individual serving in that position on the day before the date of the enactment of this Act [Dec. 19, 2014] may continue in office after that date without further appointment.”
 
 **Decrease in Number of Assistant Secretaries of Defense**
 
-Pub. L. 112–166, § 2(c)(1)(B)–(D), Aug. 10, 2012, 126 Stat. 1283, provided that:
+Pub. L. 112–166, § 2(c)(1)(B)–(D), Aug. 10, 2012, 126 Stat. 1283, provided that:
 
 > **“(B) Administration of reduction.—** The Assistant Secretary of Defense positions eliminated in accordance with the reduction in numbers required by the amendment made by subparagraph (A) [amending this section] shall be—
 
@@ -2211,7 +2211,7 @@ Pub. L. 112–166, § 2(c)(1)(B)–(D), Aug. 10, 2012, 126 Stat. 1283, provide
 
 **Charter of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict**
 
-Pub. L. 100–180, div. A, title XII, § 1211(a)(2)–(5), Dec. 4, 1987, 101 Stat. 1154, 1155, provided that:
+Pub. L. 100–180, div. A, title XII, § 1211(a)(2)–(5), Dec. 4, 1987, 101 Stat. 1154, 1155, provided that:
 
 > **“(2)** The Secretary of Defense shall publish a directive setting forth the charter of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict not later than 30 days after the date of the enactment of this Act [Dec. 4, 1987]. The directive shall set forth—
 
@@ -2245,23 +2245,23 @@ Pub. L. 100–180, div. A, title XII, § 1211(a)(2)–(5), Dec. 4, 1987, 101 S
 
 **Temporary Increase in Number of Assistant Secretaries of Defense**
 
-Pub. L. 100–180, div. A, title XIII, § 1311, Dec. 4, 1987, 101 Stat. 1174, provided that until Jan. 20, 1989, the number of Assistant Secretaries of Defense authorized under subsec. (a) of this section and the number of positions at level IV of the Executive Schedule are each increased by one (to a total of 12).
+Pub. L. 100–180, div. A, title XIII, § 1311, Dec. 4, 1987, 101 Stat. 1174, provided that until Jan. 20, 1989, the number of Assistant Secretaries of Defense authorized under subsec. (a) of this section and the number of positions at level IV of the Executive Schedule are each increased by one (to a total of 12).
 
-## [§§ 138a, 138b. Repealed. Pub. L. 113–291, div. A, title IX, § 901(h)(4), Dec. 19, 2014, 128 Stat. 3467]
+## [§§ 138a, 138b. Repealed. Pub. L. 113–291, div. A, title IX, § 901(h)(4), Dec. 19, 2014, 128 Stat. 3467]
 
-Section 138a, added Pub. L. 106–65, div. A, title IX, § 911(b)(1), Oct. 5, 1999, 113 Stat. 718, § 133b; renumbered § 138a and amended Pub. L. 111–84, div. A, title IX, § 906(b)(1), (c)(2)(D), Oct. 28, 2009, 123 Stat. 2426, 2427; Pub. L. 111–383, div. A, title IX, § 901(b)(5), Jan. 7, 2011, 124 Stat. 4319; Pub. L. 113–291, div. A, title IX, § 901(h)(1)(C), (D), Dec. 19, 2014, 128 Stat. 3466, related to Assistant Secretary of Defense for Logistics and Materiel Readiness.
+Section 138a, added Pub. L. 106–65, div. A, title IX, § 911(b)(1), Oct. 5, 1999, 113 Stat. 718, § 133b; renumbered § 138a and amended Pub. L. 111–84, div. A, title IX, § 906(b)(1), (c)(2)(D), Oct. 28, 2009, 123 Stat. 2426, 2427; Pub. L. 111–383, div. A, title IX, § 901(b)(5), Jan. 7, 2011, 124 Stat. 4319; Pub. L. 113–291, div. A, title IX, § 901(h)(1)(C), (D), Dec. 19, 2014, 128 Stat. 3466, related to Assistant Secretary of Defense for Logistics and Materiel Readiness.
 
-Section 138b, added Pub. L. 87–651, title II, § 202, Sept. 7, 1962, 76 Stat. 518, § 135; amended Pub. L. 92–596, § 4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, § 2(a), Oct. 21, 1977, 91 Stat. 1172; Pub. L. 99–348, title V, § 501(b)(1), (2), (e)(1), July 1, 1986, 100 Stat. 707, 708; Pub. L. 99–433, title I, § 105, Oct. 1, 1986, 100 Stat. 997; Pub. L. 99–500, § 101(c) [title X, § 903(b)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, § 101(c) [title X, § 903(b)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–661, div. A, title IX, formerly title IV, § 903(b)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; renumbered § 137 and amended Pub. L. 103–160, div. A, title IX, §§ 901(a)(1), 904(d)(1), Nov. 30, 1993, 107 Stat. 1726, 1728; Pub. L. 104–106, div. A, title IX, § 903(c)(3), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, § 911(d)(1), Oct. 5, 1999, 113 Stat. 719; renumbered § 139a, Pub. L. 107–314, div. A, title IX, § 901(a)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 111–23, title I, § 104(a)(1), May 22, 2009, 123 Stat. 1717; renumbered § 138b and amended Pub. L. 111–383, div. A, title IX, § 901(b)(6), (k)(1)(B), Jan. 7, 2011, 124 Stat. 4319, 4325; Pub. L. 112–239, div. A, title IX, § 904(e)(1), Jan. 2, 2013, 126 Stat. 1867; Pub. L. 113–291, div. A, title IX, § 901(h)(2)(C), Dec. 19, 2014, 128 Stat. 3466, related to Assistant Secretary of Defense for Research and Engineering.
+Section 138b, added Pub. L. 87–651, title II, § 202, Sept. 7, 1962, 76 Stat. 518, § 135; amended Pub. L. 92–596, § 4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, § 2(a), Oct. 21, 1977, 91 Stat. 1172; Pub. L. 99–348, title V, § 501(b)(1), (2), (e)(1), July 1, 1986, 100 Stat. 707, 708; Pub. L. 99–433, title I, § 105, Oct. 1, 1986, 100 Stat. 997; Pub. L. 99–500, § 101(c) [title X, § 903(b)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, § 101(c) [title X, § 903(b)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–661, div. A, title IX, formerly title IV, § 903(b)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; renumbered § 137 and amended Pub. L. 103–160, div. A, title IX, §§ 901(a)(1), 904(d)(1), Nov. 30, 1993, 107 Stat. 1726, 1728; Pub. L. 104–106, div. A, title IX, § 903(c)(3), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, § 911(d)(1), Oct. 5, 1999, 113 Stat. 719; renumbered § 139a, Pub. L. 107–314, div. A, title IX, § 901(a)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 111–23, title I, § 104(a)(1), May 22, 2009, 123 Stat. 1717; renumbered § 138b and amended Pub. L. 111–383, div. A, title IX, § 901(b)(6), (k)(1)(B), Jan. 7, 2011, 124 Stat. 4319, 4325; Pub. L. 112–239, div. A, title IX, § 904(e)(1), Jan. 2, 2013, 126 Stat. 1867; Pub. L. 113–291, div. A, title IX, § 901(h)(2)(C), Dec. 19, 2014, 128 Stat. 3466, related to Assistant Secretary of Defense for Research and Engineering.
 
-## [§ 138c. Repealed. Pub. L. 113–291, div. A, title IX, § 901(g)(2), Dec. 19, 2014, 128 Stat. 3466]
+## [§ 138c. Repealed. Pub. L. 113–291, div. A, title IX, § 901(g)(2), Dec. 19, 2014, 128 Stat. 3466]
 
-Section, added Pub. L. 110–417, [div. A], title IX, § 902(a), Oct. 14, 2008, 122 Stat. 4564, § 139b; renumbered § 138c and amended Pub. L. 111–383, div. A, title IX, § 901(b)(7), (k)(1)(C), Jan. 7, 2011, 124 Stat. 4320, 4325; Pub. L. 112–81, div. A, title III, § 311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 112–239, div. A, title X, § 1076(f)(3), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–66, div. A, title III, § 311, Dec. 26, 2013, 127 Stat. 728; Pub. L. 113–291, div. A, title IX, § 901(g)(1)(B), (D), Dec. 19, 2014, 128 Stat. 3464, 3465, related to Assistant Secretary of Defense for Operational Energy Plans and Programs.
+Section, added Pub. L. 110–417, [div. A], title IX, § 902(a), Oct. 14, 2008, 122 Stat. 4564, § 139b; renumbered § 138c and amended Pub. L. 111–383, div. A, title IX, § 901(b)(7), (k)(1)(C), Jan. 7, 2011, 124 Stat. 4320, 4325; Pub. L. 112–81, div. A, title III, § 311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 112–239, div. A, title X, § 1076(f)(3), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–66, div. A, title III, § 311, Dec. 26, 2013, 127 Stat. 728; Pub. L. 113–291, div. A, title IX, § 901(g)(1)(B), (D), Dec. 19, 2014, 128 Stat. 3464, 3465, related to Assistant Secretary of Defense for Operational Energy Plans and Programs.
 
-## [§ 138d. Repealed. Pub. L. 113–291, div. A, title IX, § 901(h)(4), Dec. 19, 2014, 128 Stat. 3467]
+## [§ 138d. Repealed. Pub. L. 113–291, div. A, title IX, § 901(h)(4), Dec. 19, 2014, 128 Stat. 3467]
 
-Section, added Pub. L. 100–180, div. A, title XII, § 1245(a)(1), Dec. 4, 1987, 101 Stat. 1165, § 141; renumbered § 142, Pub. L. 103–160, div. A, title IX, § 901(a)(1), Nov. 30, 1993, 107 Stat. 1726; amended Pub. L. 104–106, div. A, title IX, §§ 903(c)(4), 904(a)(1), Feb. 10, 1996, 110 Stat. 402, 403; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 110–417, [div. A], title IX, § 905, Oct. 14, 2008, 122 Stat. 4568; renumbered § 138d and amended Pub. L. 111–383, div. A, title IX, § 901(b)(8), (k)(1)(D), Jan. 7, 2011, 124 Stat. 4320, 4325, related to Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs.
+Section, added Pub. L. 100–180, div. A, title XII, § 1245(a)(1), Dec. 4, 1987, 101 Stat. 1165, § 141; renumbered § 142, Pub. L. 103–160, div. A, title IX, § 901(a)(1), Nov. 30, 1993, 107 Stat. 1726; amended Pub. L. 104–106, div. A, title IX, §§ 903(c)(4), 904(a)(1), Feb. 10, 1996, 110 Stat. 402, 403; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 110–417, [div. A], title IX, § 905, Oct. 14, 2008, 122 Stat. 4568; renumbered § 138d and amended Pub. L. 111–383, div. A, title IX, § 901(b)(8), (k)(1)(D), Jan. 7, 2011, 124 Stat. 4320, 4325, related to Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs.
 
-## § 139. Director of Operational Test and Evaluation
+## § 139. Director of Operational Test and Evaluation
 
 **(a)**
 
@@ -2355,7 +2355,7 @@ Section, added Pub. L. 100–180, div. A, title XII, § 1245(a)(1), Dec. 4, 19
 
 **(2)** The Secretary of Defense shall ensure that the Director has sufficient funding to enter into the contracts or other agreements for which authorization is provided under paragraph (1).
 
-(Added Pub. L. 98–94, title XII, § 1211(a)(1), Sept. 24, 1983, 97 Stat. 684, § 136a; amended Pub. L. 99–348, title V, § 501(c), July 1, 1986, 100 Stat. 708; renumbered § 138 and amended Pub. L. 99–433, title I, §§ 101(a)(7), 110(d)(10), (g)(1), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, § 101(c) [title X, §§ 903(c), 910(c)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, 1783–145, and Pub. L. 99–591, § 101(c) [title X, §§ 903(c), 910(c)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132, 3341–145; Pub. L. 99–661, div. A, title IX, formerly title IV, §§ 903(c), 910(c), Nov. 14, 1986, 100 Stat. 3912, 3924, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, § 7(a)(1), (c)(2), Apr. 21, 1987, 101 Stat. 275, 280; Pub. L. 100–180, div. A, title VIII, § 801, Dec. 4, 1987, 101 Stat. 1123; Pub. L. 101–189, div. A, title VIII, § 802(b), title XVI, § 1622(e)(1), Nov. 29, 1989, 103 Stat. 1486, 1605; Pub. L. 101–510, div. A, title XIV, § 1484(k)(1), Nov. 5, 1990, 104 Stat. 1719; renumbered § 139 and amended Pub. L. 103–160, div. A, title IX, §§ 901(a)(1), 904(d)(1), 907, Nov. 30, 1993, 107 Stat. 1726, 1728, 1730; Pub. L. 103–355, title III, §§ 3011–3013, Oct. 13, 1994, 108 Stat. 3331, 3332; Pub. L. 106–65, div. A, title IX, § 911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–107, div. A, title II, § 263, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1044, 1225; Pub. L. 107–314, div. A, title II, § 235, Dec. 2, 2002, 116 Stat. 2491; Pub. L. 109–364, div. A, title II, § 231(f), Oct. 17, 2006, 120 Stat. 2133; Pub. L. 110–181, div. A, title II, § 221, Jan. 28, 2008, 122 Stat. 37; Pub. L. 110–417, [div. A], title II, § 251(c), Oct. 14, 2008, 122 Stat. 4400; Pub. L. 114–328, div. A, title VIII, § 845, Dec. 23, 2016, 130 Stat. 2292; Pub. L. 115–232, div. A, title VIII, § 887(a), Aug. 13, 2018, 132 Stat. 1916; Pub. L. 116–92, div. A, title VIII, § 815, title IX, § 902(4), Dec. 20, 2019, 133 Stat. 1487, 1542; Pub. L. 116–283, div. A, title II, § 271, title XVIII, §§ 1845(c)(1), 1846(i)(1), Jan. 1, 2021, 134 Stat. 3502, 4247, 4251; Pub. L. 117–81, div. A, title II, § 241, Dec. 27, 2021, 135 Stat. 1619; Pub. L. 117–263, div. A, title II, § 231, Dec. 23, 2022, 136 Stat. 2486; Pub. L. 119–60, div. A, title IX, § 904(a), title XVIII, § 1801(a)(2)(B), Dec. 18, 2025, 139 Stat. 1009, 1222.)
+(Added Pub. L. 98–94, title XII, § 1211(a)(1), Sept. 24, 1983, 97 Stat. 684, § 136a; amended Pub. L. 99–348, title V, § 501(c), July 1, 1986, 100 Stat. 708; renumbered § 138 and amended Pub. L. 99–433, title I, §§ 101(a)(7), 110(d)(10), (g)(1), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, § 101(c) [title X, §§ 903(c), 910(c)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, 1783–145, and Pub. L. 99–591, § 101(c) [title X, §§ 903(c), 910(c)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132, 3341–145; Pub. L. 99–661, div. A, title IX, formerly title IV, §§ 903(c), 910(c), Nov. 14, 1986, 100 Stat. 3912, 3924, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, § 7(a)(1), (c)(2), Apr. 21, 1987, 101 Stat. 275, 280; Pub. L. 100–180, div. A, title VIII, § 801, Dec. 4, 1987, 101 Stat. 1123; Pub. L. 101–189, div. A, title VIII, § 802(b), title XVI, § 1622(e)(1), Nov. 29, 1989, 103 Stat. 1486, 1605; Pub. L. 101–510, div. A, title XIV, § 1484(k)(1), Nov. 5, 1990, 104 Stat. 1719; renumbered § 139 and amended Pub. L. 103–160, div. A, title IX, §§ 901(a)(1), 904(d)(1), 907, Nov. 30, 1993, 107 Stat. 1726, 1728, 1730; Pub. L. 103–355, title III, §§ 3011–3013, Oct. 13, 1994, 108 Stat. 3331, 3332; Pub. L. 106–65, div. A, title IX, § 911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–107, div. A, title II, § 263, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1044, 1225; Pub. L. 107–314, div. A, title II, § 235, Dec. 2, 2002, 116 Stat. 2491; Pub. L. 109–364, div. A, title II, § 231(f), Oct. 17, 2006, 120 Stat. 2133; Pub. L. 110–181, div. A, title II, § 221, Jan. 28, 2008, 122 Stat. 37; Pub. L. 110–417, [div. A], title II, § 251(c), Oct. 14, 2008, 122 Stat. 4400; Pub. L. 114–328, div. A, title VIII, § 845, Dec. 23, 2016, 130 Stat. 2292; Pub. L. 115–232, div. A, title VIII, § 887(a), Aug. 13, 2018, 132 Stat. 1916; Pub. L. 116–92, div. A, title VIII, § 815, title IX, § 902(4), Dec. 20, 2019, 133 Stat. 1487, 1542; Pub. L. 116–283, div. A, title II, § 271, title XVIII, §§ 1845(c)(1), 1846(i)(1), Jan. 1, 2021, 134 Stat. 3502, 4247, 4251; Pub. L. 117–81, div. A, title II, § 241, Dec. 27, 2021, 135 Stat. 1619; Pub. L. 117–263, div. A, title II, § 231, Dec. 23, 2022, 136 Stat. 2486; Pub. L. 119–60, div. A, title IX, § 904(a), title XVIII, § 1801(a)(2)(B), Dec. 18, 2025, 139 Stat. 1009, 1222.)
 
 **Editorial Notes**
 
@@ -2371,43 +2371,43 @@ Another prior section 139 was renumbered section 4205 of this title.
 
 **Amendments**
 
-2025—Subsec. (b)(1) to (6). Pub. L. 119–60, § 1801(a)(2)(B), added par. (1) and redesignated former pars. (1) to (5) as (2) to (6), respectively.
+2025—Subsec. (b)(1) to (6). Pub. L. 119–60, § 1801(a)(2)(B), added par. (1) and redesignated former pars. (1) to (5) as (2) to (6), respectively.
 
-Subsec. (b)(7). Pub. L. 119–60, § 1801(a)(2)(B)(i), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+Subsec. (b)(7). Pub. L. 119–60, § 1801(a)(2)(B)(i), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-Pub. L. 119–60, § 904(a)(1), added par. (7).
+Pub. L. 119–60, § 904(a)(1), added par. (7).
 
-Subsec. (b)(8). Pub. L. 119–60, § 1801(a)(2)(B)(i), redesignated par. (7) as (8).
+Subsec. (b)(8). Pub. L. 119–60, § 1801(a)(2)(B)(i), redesignated par. (7) as (8).
 
-Subsec. (k). Pub. L. 119–60, § 904(a)(2), inserted “, and the Secretary of Defense shall ensure that the amount requested for the Office of the Director in the Department of Defense budget for each fiscal year is sufficient to enable the Director to fulfill the duties and responsibilities assigned by this section” before period at end.
+Subsec. (k). Pub. L. 119–60, § 904(a)(2), inserted “, and the Secretary of Defense shall ensure that the amount requested for the Office of the Director in the Department of Defense budget for each fiscal year is sufficient to enable the Director to fulfill the duties and responsibilities assigned by this section” before period at end.
 
-Subsec. (*l*). Pub. L. 119–60, § 904(a)(3), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 119–60, § 904(a)(3), added subsec. (*l*).
 
 2022—Subsec. (h)(3). Pub. L. 117–263 inserted “or controlled unclassified” after “classified” and substituted “submit to Congress a version of the report that is unclassified and does not require safeguarding or dissemination controls” for “submit an unclassified version of the report to Congress”.
 
-2021—Subsec. (a)(2)(B). Pub. L. 116–283, § 1846(i)(1), substituted “section 4201” for “section 2430”.
+2021—Subsec. (a)(2)(B). Pub. L. 116–283, § 1846(i)(1), substituted “section 4201” for “section 2430”.
 
-Subsec. (b)(6). Pub. L. 116–283, § 1845(c)(1), substituted “section 4172” for “section 2366”.
+Subsec. (b)(6). Pub. L. 116–283, § 1845(c)(1), substituted “section 4172” for “section 2366”.
 
-Subsec. (h)(2). Pub. L. 117–81 struck out before period at end “, through January 31, 2026”.
+Subsec. (h)(2). Pub. L. 117–81 struck out before period at end “, through January 31, 2026”.
 
-Pub. L. 116–283, § 271, substituted “Engineering,” for “Engineering,,” and “, through January 31, 2026” for “, through January 31, 2025”.
+Pub. L. 116–283, § 271, substituted “Engineering,” for “Engineering,,” and “, through January 31, 2026” for “, through January 31, 2025”.
 
-2019—Subsec. (b). Pub. L. 116–92, § 902(4)(A), substituted “, the Under Secretary of Defense for Acquisition and Sustainment, and the Under Secretary of Defense for Research and Engineering” for “and the Under Secretary of Defense for Acquisition, Technology, and Logistics” in two places.
+2019—Subsec. (b). Pub. L. 116–92, § 902(4)(A), substituted “, the Under Secretary of Defense for Acquisition and Sustainment, and the Under Secretary of Defense for Research and Engineering” for “and the Under Secretary of Defense for Acquisition, Technology, and Logistics” in two places.
 
-Subsec. (c). Pub. L. 116–92, § 902(4)(B), substituted “the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering,” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (c). Pub. L. 116–92, § 902(4)(B), substituted “the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering,” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-Subsec. (h)(2). Pub. L. 116–92, § 902(4)(B), substituted “the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering,” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (h)(2). Pub. L. 116–92, § 902(4)(B), substituted “the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering,” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-Pub. L. 116–92, § 815(1), substituted “, through January 31, 2025” for “, through January 31, 2021”.
+Pub. L. 116–92, § 815(1), substituted “, through January 31, 2025” for “, through January 31, 2021”.
 
-Subsec. (h)(5). Pub. L. 116–92, § 815(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The Secretary of Defense and the Secretaries of the military departments may comment on any report of the Director to Congress under this subsection.”
+Subsec. (h)(5). Pub. L. 116–92, § 815(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The Secretary of Defense and the Secretaries of the military departments may comment on any report of the Director to Congress under this subsection.”
 
 2018—Subsec. (e)(4). Pub. L. 115–232 added par. (4).
 
-2016—Subsec. (h)(2). Pub. L. 114–328, § 845(1), inserted “the Secretaries of the military departments,” after “Logistics,” and substituted “January 31 of each year, through January 31, 2021” for “10 days after the transmission of the budget for the next fiscal year under section 1105 of title 31”.
+2016—Subsec. (h)(2). Pub. L. 114–328, § 845(1), inserted “the Secretaries of the military departments,” after “Logistics,” and substituted “January 31 of each year, through January 31, 2021” for “10 days after the transmission of the budget for the next fiscal year under section 1105 of title 31”.
 
-Subsec. (h)(5). Pub. L. 114–328, § 845(2), inserted “of Defense and the Secretaries of the military departments” after “Secretary”.
+Subsec. (h)(5). Pub. L. 114–328, § 845(2), inserted “of Defense and the Secretaries of the military departments” after “Secretary”.
 
 2008—Subsec. (b)(3) to (7). Pub. L. 110–417 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which required the Director to provide guidance to and consult with the officials described in par. (2) of subsec. (b) with respect to operational test and evaluation or survivability testing (or both) within the Department of Defense of force protection equipment.
 
@@ -2415,85 +2415,85 @@ Subsecs. (f) to (k). Pub. L. 110–181 added subsec. (f) and redesignated former
 
 2006—Subsec. (b)(3) to (7). Pub. L. 109–364 added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
 
-2002—Subsec. (g). Pub. L. 107–314, § 235(b), designated first sentence as par. (1), second sentence as par. (2), third sentence as par. (3), fourth and fifth sentences as par. (4), and sixth sentence as par. (5).
+2002—Subsec. (g). Pub. L. 107–314, § 235(b), designated first sentence as par. (1), second sentence as par. (2), third sentence as par. (3), fourth and fifth sentences as par. (4), and sixth sentence as par. (5).
 
-Pub. L. 107–314, § 235(a), inserted after fourth sentence “The report for a fiscal year shall also include an assessment of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the fiscal year, any concerns raised by the waivers or deviations, and the actions that have been taken or are planned to be taken to address the concerns.”
+Pub. L. 107–314, § 235(a), inserted after fourth sentence “The report for a fiscal year shall also include an assessment of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the fiscal year, any concerns raised by the waivers or deviations, and the actions that have been taken or are planned to be taken to address the concerns.”
 
-2001—Subsec. (c). Pub. L. 107–107, § 1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+2001—Subsec. (c). Pub. L. 107–107, § 1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-Subsec. (f). Pub. L. 107–107, § 263(2), added subsec. (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 107–107, § 263(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 107–107, § 1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+Subsec. (g). Pub. L. 107–107, § 1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-Pub. L. 107–107, § 263(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Pub. L. 107–107, § 263(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsecs. (h) to (j). Pub. L. 107–107, § 263(1), redesignated subsecs. (g) to (i) as (h) to (j), respectively.
+Subsecs. (h) to (j). Pub. L. 107–107, § 263(1), redesignated subsecs. (g) to (i) as (h) to (j), respectively.
 
 1999—Subsec. (b). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology” in introductory provisions and in par. (2).
 
-1994—Subsec. (b)(6). Pub. L. 103–355, § 3012(a), added par. (6).
+1994—Subsec. (b)(6). Pub. L. 103–355, § 3012(a), added par. (6).
 
-Subsec. (c). Pub. L. 103–355, § 3011, inserted “The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense.” after “(c)”.
+Subsec. (c). Pub. L. 103–355, § 3011, inserted “The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense.” after “(c)”.
 
-Subsec. (f). Pub. L. 103–355, §§ 3012(b), 3013, in first sentence inserted “(including live fire testing activities)” after “operational test and evaluation activities” and after second sentence inserted “If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.”
+Subsec. (f). Pub. L. 103–355, §§ 3012(b), 3013, in first sentence inserted “(including live fire testing activities)” after “operational test and evaluation activities” and after second sentence inserted “If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.”
 
-1993—Pub. L. 103–160, § 901(a)(1), renumbered section 138 of this title as this section.
+1993—Pub. L. 103–160, § 901(a)(1), renumbered section 138 of this title as this section.
 
-Subsec. (b). Pub. L. 103–160, § 904(d)(1), substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition” in introductory provisions and in par. (2).
+Subsec. (b). Pub. L. 103–160, § 904(d)(1), substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition” in introductory provisions and in par. (2).
 
-Subsec. (c). Pub. L. 103–160, § 907, struck out “The Director reports directly, without intervening review or approval, to the Secretary of Defense personally.” after “(c)” and substituted “Under Secretary of Defense for Acquisition and Technology” for “Director of Defense Research and Engineering” and “responsible for acquisition” for “responsible for research and development”.
+Subsec. (c). Pub. L. 103–160, § 907, struck out “The Director reports directly, without intervening review or approval, to the Secretary of Defense personally.” after “(c)” and substituted “Under Secretary of Defense for Acquisition and Technology” for “Director of Defense Research and Engineering” and “responsible for acquisition” for “responsible for research and development”.
 
-Subsec. (f). Pub. L. 103–160, § 904(d)(1), substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+Subsec. (f). Pub. L. 103–160, § 904(d)(1), substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
-1990—Subsec. (a)(2)(A). Pub. L. 101–510, § 1484(k)(1)(A), substituted “(A) The term ‘operational test and evaluation” for “(A) ‘Operational test and evaluation”.
+1990—Subsec. (a)(2)(A). Pub. L. 101–510, § 1484(k)(1)(A), substituted “(A) The term ‘operational test and evaluation” for “(A) ‘Operational test and evaluation”.
 
-Subsec. (a)(2)(B). Pub. L. 101–510, § 1484(k)(1)(B), substituted “(B) The term ‘major defense acquisition program” for “(B) ‘Major defense acquisition program”.
+Subsec. (a)(2)(B). Pub. L. 101–510, § 1484(k)(1)(B), substituted “(B) The term ‘major defense acquisition program” for “(B) ‘Major defense acquisition program”.
 
-1989—Subsec. (a)(2)(A). Pub. L. 101–189, § 1622(e)(1)(A), which directed amendment of subpar. (A) by substituting “(A) The term ‘operational’ ” for “(A) ‘Operational’ ”, could not be executed because a closing quotation mark did not follow “Operational”.
+1989—Subsec. (a)(2)(A). Pub. L. 101–189, § 1622(e)(1)(A), which directed amendment of subpar. (A) by substituting “(A) The term ‘operational’ ” for “(A) ‘Operational’ ”, could not be executed because a closing quotation mark did not follow “Operational”.
 
-Subsec. (a)(2)(B). Pub. L. 101–189, § 1622(e)(1)(B), which directed amendment of subpar. (B) by substituting “(B) The term ‘major’ ” for “(B) ‘Major’ ”, could not be executed because a closing quotation mark did not follow “Major”.
+Subsec. (a)(2)(B). Pub. L. 101–189, § 1622(e)(1)(B), which directed amendment of subpar. (B) by substituting “(B) The term ‘major’ ” for “(B) ‘Major’ ”, could not be executed because a closing quotation mark did not follow “Major”.
 
-Subsec. (b)(4). Pub. L. 101–189, § 802(b)(1)(A), inserted “and” after “defense agency;”.
+Subsec. (b)(4). Pub. L. 101–189, § 802(b)(1)(A), inserted “and” after “defense agency;”.
 
-Subsec. (b)(5), (6). Pub. L. 101–189, § 802(b)(1)(B), (C), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “analyze the results of the operational test and evaluation conducted for each major defense acquisition program and, at the conclusion of such operational test and evaluation, report to the Secretary of Defense, to the Under Secretary of Defense for Acquisition, and to the Committees on Armed Services and on Appropriations of the Senate and House of Representatives as provided in subsection (c) on—
+Subsec. (b)(5), (6). Pub. L. 101–189, § 802(b)(1)(B), (C), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “analyze the results of the operational test and evaluation conducted for each major defense acquisition program and, at the conclusion of such operational test and evaluation, report to the Secretary of Defense, to the Under Secretary of Defense for Acquisition, and to the Committees on Armed Services and on Appropriations of the Senate and House of Representatives as provided in subsection (c) on—
 
 “(A) whether the test and evaluation performed was adequate; and
 
 “(B) whether the test and evaluation results confirm that the items or components actually tested are effective and suitable for combat; and”.
 
-Subsec. (c). Pub. L. 101–189, § 802(b)(2), (3), redesignated subsec. (d)(1) as (c) and struck out former subsec. (c) which read as follows: “Each report of the Director required under subsection (b)(5) shall be submitted to the committees specified in that subsection in precisely the same form and with precisely the same content as the report originally was submitted to the Secretary of Defense and the Under Secretary of Defense for Acquisition and shall be accompanied by such comments as the Secretary may wish to make on the report.”
+Subsec. (c). Pub. L. 101–189, § 802(b)(2), (3), redesignated subsec. (d)(1) as (c) and struck out former subsec. (c) which read as follows: “Each report of the Director required under subsection (b)(5) shall be submitted to the committees specified in that subsection in precisely the same form and with precisely the same content as the report originally was submitted to the Secretary of Defense and the Under Secretary of Defense for Acquisition and shall be accompanied by such comments as the Secretary may wish to make on the report.”
 
-Subsec. (d). Pub. L. 101–189, § 802(b)(4), redesignated former par. (2) of subsec. (d) as entire subsec. Former par. (1) of subsec. (d) redesignated subsec. (c).
+Subsec. (d). Pub. L. 101–189, § 802(b)(4), redesignated former par. (2) of subsec. (d) as entire subsec. Former par. (1) of subsec. (d) redesignated subsec. (c).
 
-Subsec. (f). Pub. L. 101–189, § 802(b)(5)–(7), redesignated subsec. (g)(1) as (f), substituted “this subsection” for “this paragraph”, and struck out former subsec. (f) which read as follows:
+Subsec. (f). Pub. L. 101–189, § 802(b)(5)–(7), redesignated subsec. (g)(1) as (f), substituted “this subsection” for “this paragraph”, and struck out former subsec. (f) which read as follows:
 
 “(1) Operational testing of a major defense acquisition program may not be conducted until the Director has approved in writing the adequacy of the plans (including the adequacy of projected levels of funding) for operational test and evaluation to be conducted in connection with that program.
 
 “(2) A final decision within the Department of Defense to proceed with a major defense acquisition program beyond low-rate initial production may not be made until the Director has submitted to the Secretary of Defense the report with respect to that program required by subsection (b)(5) and the Committees on Armed Services and on Appropriations of the Senate and House of Representatives have received that report.”
 
-Subsec. (g). Pub. L. 101–189, § 802(b)(6), (8), redesignated former par. (2) of subsec. (g) as entire subsec. (g), and redesignated former par. (1) of subsec. (g) as subsec. (f).
+Subsec. (g). Pub. L. 101–189, § 802(b)(6), (8), redesignated former par. (2) of subsec. (g) as entire subsec. (g), and redesignated former par. (1) of subsec. (g) as subsec. (f).
 
-1987—Subsec. (a)(2)(B). Pub. L. 100–26, § 7(c)(2), substituted “section 2430” for “section 2432(a)(1)”.
+1987—Subsec. (a)(2)(B). Pub. L. 100–26, § 7(c)(2), substituted “section 2430” for “section 2432(a)(1)”.
 
-Subsec. (c). Pub. L. 100–26, § 7(a)(1), substituted “to the Secretary of Defense and the Under Secretary of Defense for Acquisition and shall be accompanied by such comments as the Secretary may wish to make on the report.” for “to the Secretary, to the Under Secretary of Defense for Acquisition, and shall be accompanied by such comments as the Secretary of Defense may wish to make on such report.”
+Subsec. (c). Pub. L. 100–26, § 7(a)(1), substituted “to the Secretary of Defense and the Under Secretary of Defense for Acquisition and shall be accompanied by such comments as the Secretary may wish to make on the report.” for “to the Secretary, to the Under Secretary of Defense for Acquisition, and shall be accompanied by such comments as the Secretary of Defense may wish to make on such report.”
 
 Subsec. (d). Pub. L. 100–180 designated existing provisions as par. (1) and added par. (2).
 
-1986—Pub. L. 99–433, §§ 101(a)(7), 110(d)(10), renumbered section 136a of this title as this section, and struck out “: appointment; powers and duties” at end of section catchline.
+1986—Pub. L. 99–433, §§ 101(a)(7), 110(d)(10), renumbered section 136a of this title as this section, and struck out “: appointment; powers and duties” at end of section catchline.
 
-Subsec. (a)(2)(B). Pub. L. 99–433, § 110(g)(1), substituted “section 2432(a)(1)” for “section 139a(a)(1)”.
+Subsec. (a)(2)(B). Pub. L. 99–433, § 110(g)(1), substituted “section 2432(a)(1)” for “section 139a(a)(1)”.
 
-Subsec. (b). Pub. L. 99–500 and Pub. L. 99–591, § 101(c) [§ 903(c)(1)–(3)] and Pub. L. 99–661, § 903(c)(1)–(3), amended subsec. (b) identically, in provisions preceding par. (1) and in par. (2), inserting “and the Under Secretary of Defense for Acquisition” and, in par. (5), inserting “, to the Under Secretary of Defense for Acquisition,”.
+Subsec. (b). Pub. L. 99–500 and Pub. L. 99–591, § 101(c) [§ 903(c)(1)–(3)] and Pub. L. 99–661, § 903(c)(1)–(3), amended subsec. (b) identically, in provisions preceding par. (1) and in par. (2), inserting “and the Under Secretary of Defense for Acquisition” and, in par. (5), inserting “, to the Under Secretary of Defense for Acquisition,”.
 
-Subsec. (c). Pub. L. 99–500 and Pub. L. 99–591, § 101(c) [§ 903(c)(4)], and Pub. L. 99–661, § 903(c)(4), amended subsec. (c) identically by directing the insertion of “, to the Under Secretary of Defense for Acquisition,” after “Secretary of Defense” the first place it appears which was executed by making the insertion after “the Secretary” the first place it appears as the probable intent of Congress.
+Subsec. (c). Pub. L. 99–500 and Pub. L. 99–591, § 101(c) [§ 903(c)(4)], and Pub. L. 99–661, § 903(c)(4), amended subsec. (c) identically by directing the insertion of “, to the Under Secretary of Defense for Acquisition,” after “Secretary of Defense” the first place it appears which was executed by making the insertion after “the Secretary” the first place it appears as the probable intent of Congress.
 
-Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591, § 101(c) [§ 903(c)(5)], and Pub. L. 99–661, § 903(c)(5), amended subsec. (d) identically inserting “personally” after “Secretary of Defense”.
+Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591, § 101(c) [§ 903(c)(5)], and Pub. L. 99–661, § 903(c)(5), amended subsec. (d) identically inserting “personally” after “Secretary of Defense”.
 
 Pub. L. 99–348 substituted “Director of Defense Research and Engineering” for “Under Secretary of Defense for Research and Engineering”.
 
-Subsec. (g)(1). Pub. L. 99–500 and Pub. L. 99–591, § 101(c) [§§ 903(c)(6), 910(c)], and Pub. L. 99–661, §§ 903(c)(6), 910(c), amended par. (1) identically, inserting “, the Under Secretary of Defense for Acquisition,” and substituting “10 days after transmission of the budget for the next fiscal year under section 1105 of title 31” for “January 15 immediately following the end of the fiscal year for which the report is prepared”.
+Subsec. (g)(1). Pub. L. 99–500 and Pub. L. 99–591, § 101(c) [§§ 903(c)(6), 910(c)], and Pub. L. 99–661, §§ 903(c)(6), 910(c), amended par. (1) identically, inserting “, the Under Secretary of Defense for Acquisition,” and substituting “10 days after transmission of the budget for the next fiscal year under section 1105 of title 31” for “January 15 immediately following the end of the fiscal year for which the report is prepared”.
 
-Subsec. (i). Pub. L. 99–500 and Pub. L. 99–591, § 101(c) [§ 903(c)(7)], and Pub. L. 99–661, § 903(c)(7), amended section identically adding subsec. (i).
+Subsec. (i). Pub. L. 99–500 and Pub. L. 99–591, § 101(c) [§ 903(c)(7)], and Pub. L. 99–661, § 903(c)(7), amended section identically adding subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2503,7 +2503,7 @@ Amendment by sections 1845(c)(1) and 1846(i)(1) of Pub. L. 116–283 effective J
 
 **Effective Date**
 
-Pub. L. 98–94, title XII, § 1211(c), Sept. 24, 1983, 97 Stat. 686, provided that: “The amendments made by this section [enacting this section and amending section 5315 of Title 5, Government Organization and Employees] shall take effect on November 1, 1983.”
+Pub. L. 98–94, title XII, § 1211(c), Sept. 24, 1983, 97 Stat. 686, provided that: “The amendments made by this section [enacting this section and amending section 5315 of Title 5, Government Organization and Employees] shall take effect on November 1, 1983.”
 
 **Termination of Reporting Requirements**
 
@@ -2511,7 +2511,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (h) of this s
 
 **Congressionally Directed Programs for Test and Evaluation Oversight**
 
-Pub. L. 119–60, div. A, title II, § 219, Dec. 18, 2025, 139 Stat. 778, provided that:
+Pub. L. 119–60, div. A, title II, § 219, Dec. 18, 2025, 139 Stat. 778, provided that:
 
 > **“(a) Requirement.—** The Director of Operational Test and Evaluation shall include in the annual report required by section 139(h) of title 10, United States Code, an assessment of the operational and live fire test and evaluation activities for—
 
@@ -2525,7 +2525,7 @@ Pub. L. 119–60, div. A, title II, § 219, Dec. 18, 2025, 139 Stat. 778, prov
 
 **Requirement to Maintain Certain Test and Evaluation Activities**
 
-Pub. L. 119–60, div. A, title IX, § 904(b), Dec. 18, 2025, 139 Stat. 1009, provided that:
+Pub. L. 119–60, div. A, title IX, § 904(b), Dec. 18, 2025, 139 Stat. 1009, provided that:
 
 > **“(1) Limitation.—** During the period beginning on the date of the enactment of this Act [Dec. 18, 2025] and ending on September 30, 2027, the Secretary of Defense may not—
 
@@ -2569,7 +2569,7 @@ Pub. L. 119–60, div. A, title IX, § 904(b), Dec. 18, 2025, 139 Stat. 1009, 
 
 **Annual Assessment of Ballistic Missile Defense System**
 
-Pub. L. 116–92, div. A, title XVI, § 1689, Dec. 20, 2019, 133 Stat. 1789, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1689, Dec. 20, 2019, 133 Stat. 1789, provided that:
 
 > **“(a) Annual Assessment.—** As part of the annual report of the Director of Operational Test and Evaluation submitted to Congress under section 139 of title 10, United States Code, the Director shall include an assessment of the ballistic missile defense system and all of the elements of the system that have been fielded or are planned, as of the date of the assessment, including—
 
@@ -2581,11 +2581,11 @@ Pub. L. 116–92, div. A, title XVI, § 1689, Dec. 20, 2019, 133 Stat. 1789, p
 
 **Additional Testing Data**
 
-Pub. L. 115–232, div. A, title VIII, § 887(b), Aug. 13, 2018, 132 Stat. 1916, provided that: “Developmental Test and Evaluation activities under the leadership of the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment shall have prompt access to all data regarding modeling and simulation activity proposed to be used by military departments and defense agencies in support of developmental test and evaluation of military capabilities. This access shall include data associated with verification, validation, and accreditation activities.”
+Pub. L. 115–232, div. A, title VIII, § 887(b), Aug. 13, 2018, 132 Stat. 1916, provided that: “Developmental Test and Evaluation activities under the leadership of the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment shall have prompt access to all data regarding modeling and simulation activity proposed to be used by military departments and defense agencies in support of developmental test and evaluation of military capabilities. This access shall include data associated with verification, validation, and accreditation activities.”
 
 **Review and Revision of Policies and Practices on Test and Evaluation; Inclusion in Strategic Plan; Report**
 
-Pub. L. 109–364, div. A, title II, § 231(b)–(e), Oct. 17, 2006, 120 Stat. 2132, 2133, as amended by Pub. L. 117–263, div. A, title VIII, § 804(d)(4), Dec. 23, 2022, 136 Stat. 2701, provided that:
+Pub. L. 109–364, div. A, title II, § 231(b)–(e), Oct. 17, 2006, 120 Stat. 2132, 2133, as amended by Pub. L. 117–263, div. A, title VIII, § 804(d)(4), Dec. 23, 2022, 136 Stat. 2701, provided that:
 
 > **“(b) Review and Revision of Policies and Practices.—**
 
@@ -2619,7 +2619,7 @@ Pub. L. 109–364, div. A, title II, § 231(b)–(e), Oct. 17, 2006, 120 Stat.
 
 > **“(e) Report to Congress.—** Not later than nine months after the date of the enactment of this Act [Oct. 17, 2006], the Under Secretary and the Director of Operational Test and Evaluation shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the review conducted under paragraph (1) of subsection (b), including any new or revised guidance issued pursuant to paragraph (2) of that subsection.”
 
-## § 139a. Director of Cost Assessment and Program Evaluation
+## § 139a. Director of Cost Assessment and Program Evaluation
 
 **(a) Appointment.—** There is a Director of Cost Assessment and Program Evaluation in the Department of Defense, appointed by the President, by and with the advice and consent of the Senate.
 
@@ -2703,7 +2703,7 @@ Pub. L. 109–364, div. A, title II, § 231(b)–(e), Oct. 17, 2006, 120 Stat.
 
 **(h) Quarterly Briefings.—** Beginning not later than 30 days after the date of the enactment of this subsection, and on a quarterly basis thereafter, the Director of Cost Assessment and Program Evaluation shall provide to the congressional defense committees a briefing on the activities carried out by the Director during the preceding quarter and any ongoing activities of the Director as of the date of briefing.
 
-(Added Pub. L. 111–23, title I, § 101(a)(1), May 22, 2009, 123 Stat. 1705, § 139c; renumbered § 139a and amended Pub. L. 111–383, div. A, title IX, § 901(f), title X, § 1075(b)(5), Jan. 7, 2011, 124 Stat. 4322, 4369; Pub. L. 112–239, div. A, title X, § 1076(f)(4), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title IX, § 912(c), Dec. 12, 2017, 131 Stat. 1521; Pub. L. 116–92, div. A, title IX, § 902(5), title XVI, § 1621(e)(1)(A)(iii), Dec. 20, 2019, 133 Stat. 1543, 1733; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294; Pub. L. 118–31, div. A, title IX, § 902(a), Dec. 22, 2023, 137 Stat. 355; Pub. L. 118–159, div. A, title XVII, § 1701(a)(3), Dec. 23, 2024, 138 Stat. 2203; Pub. L. 119–60, div. A, title XVII, § 1701(a)(4), title XVIII, § 1801(a)(2)(C), Dec. 18, 2025, 139 Stat. 1208, 1222.)
+(Added Pub. L. 111–23, title I, § 101(a)(1), May 22, 2009, 123 Stat. 1705, § 139c; renumbered § 139a and amended Pub. L. 111–383, div. A, title IX, § 901(f), title X, § 1075(b)(5), Jan. 7, 2011, 124 Stat. 4322, 4369; Pub. L. 112–239, div. A, title X, § 1076(f)(4), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title IX, § 912(c), Dec. 12, 2017, 131 Stat. 1521; Pub. L. 116–92, div. A, title IX, § 902(5), title XVI, § 1621(e)(1)(A)(iii), Dec. 20, 2019, 133 Stat. 1543, 1733; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294; Pub. L. 118–31, div. A, title IX, § 902(a), Dec. 22, 2023, 137 Stat. 355; Pub. L. 118–159, div. A, title XVII, § 1701(a)(3), Dec. 23, 2024, 138 Stat. 2203; Pub. L. 119–60, div. A, title XVII, § 1701(a)(4), title XVIII, § 1801(a)(2)(C), Dec. 18, 2025, 139 Stat. 1208, 1222.)
 
 **Editorial Notes**
 
@@ -2719,33 +2719,33 @@ Another prior section 139a was renumbered section 4351 of this title.
 
 **Amendments**
 
-2025—Subsec. (b)(1)(A). Pub. L. 119–60, § 1701(a)(4), substituted “section 3221” for “section 2334”.
+2025—Subsec. (b)(1)(A). Pub. L. 119–60, § 1701(a)(4), substituted “section 3221” for “section 2334”.
 
-Subsec. (d). Pub. L. 119–60, § 1801(a)(2)(C), in introductory provisions, inserted “shall carry out the requirements of this section in accordance with the objectives established pursuant to section 3102 of this title and” before “shall serve”.
+Subsec. (d). Pub. L. 119–60, § 1801(a)(2)(C), in introductory provisions, inserted “shall carry out the requirements of this section in accordance with the objectives established pursuant to section 3102 of this title and” before “shall serve”.
 
-Subsec. (d)(1). Pub. L. 119–60, § 1701(a)(4), substituted “section 3221” for “section 2334”.
+Subsec. (d)(1). Pub. L. 119–60, § 1701(a)(4), substituted “section 3221” for “section 2334”.
 
 2024—Subsec. (h). Pub. L. 118–159 substituted “out by the Director” for “out by Director” and “and any” for “an any”.
 
-2023—Subsec. (d)(5). Pub. L. 118–31, § 902(a)(1)(A), substituted “and ensuring” for “, ensuring” and struck out “, and assessing the effect of spending by the Department of Defense on the United States economy” after “accurately and completely”.
+2023—Subsec. (d)(5). Pub. L. 118–31, § 902(a)(1)(A), substituted “and ensuring” for “, ensuring” and struck out “, and assessing the effect of spending by the Department of Defense on the United States economy” after “accurately and completely”.
 
-Subsec. (d)(8). Pub. L. 118–31, § 902(a)(1)(B), inserted “, including the standardization of analytical methodologies and the establishment and maintenance of a centralized knowledge repository of physical attributes or other data for modeling and simulation purposes” after “defense resources”.
+Subsec. (d)(8). Pub. L. 118–31, § 902(a)(1)(B), inserted “, including the standardization of analytical methodologies and the establishment and maintenance of a centralized knowledge repository of physical attributes or other data for modeling and simulation purposes” after “defense resources”.
 
-Subsecs. (e) to (h). Pub. L. 118–31, § 902(a)(2), added subsecs. (e) to (h).
+Subsecs. (e) to (h). Pub. L. 118–31, § 902(a)(2), added subsecs. (e) to (h).
 
 2021—Subsecs. (b)(1)(A), (d)(1). Pub. L. 116–283, which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2334”, which was redesignated as multiple sections.
 
-2019—Subsec. (d)(6). Pub. L. 116–92, § 1621(e)(1)(A)(iii), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”.
+2019—Subsec. (d)(6). Pub. L. 116–92, § 1621(e)(1)(A)(iii), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”.
 
-Pub. L. 116–92, § 902(5), substituted “Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering,” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Pub. L. 116–92, § 902(5), substituted “Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering,” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
 2017—Subsec. (d)(9). Pub. L. 115–91 added par. (9).
 
-2013—Subsec. (d)(4). Pub. L. 112–239, which directed amendment of par. (4) by inserting a period at end, was not executed to reflect the probable intent of Congress and the prior amendment by Pub. L. 111–383, § 1075(b)(5). See 2011 Amendment note below.
+2013—Subsec. (d)(4). Pub. L. 112–239, which directed amendment of par. (4) by inserting a period at end, was not executed to reflect the probable intent of Congress and the prior amendment by Pub. L. 111–383, § 1075(b)(5). See 2011 Amendment note below.
 
-2011—Pub. L. 111–383, § 901(f), renumbered section 139c of this title as this section.
+2011—Pub. L. 111–383, § 901(f), renumbered section 139c of this title as this section.
 
-Subsec. (d)(4). Pub. L. 111–383, § 1075(b)(5), which directed amendment of section 139c of this title by inserting a period at the end of subsec. (d)(4), was executed to this section, to reflect the probable intent of Congress and the renumbering of section 139c of this title as this section by Pub. L. 111–383, § 901(f). See above.
+Subsec. (d)(4). Pub. L. 111–383, § 1075(b)(5), which directed amendment of section 139c of this title by inserting a period at the end of subsec. (d)(4), was executed to this section, to reflect the probable intent of Congress and the renumbering of section 139c of this title as this section by Pub. L. 111–383, § 901(f). See above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2759,7 +2759,7 @@ Amendment by section 901(f) of Pub. L. 111–383 effective Jan. 1, 2011, see sec
 
 **Transfer of Personnel and Functions**
 
-Pub. L. 111–23, title I, § 101(c), May 22, 2009, 123 Stat. 1709, provided that:
+Pub. L. 111–23, title I, § 101(c), May 22, 2009, 123 Stat. 1709, provided that:
 
 > **“(1) Transfer of functions.—** The functions of the Office of Program Analysis and Evaluation of the Department of Defense, including the functions of the Cost Analysis Improvement Group, are hereby transferred to the Office of the Director of Cost Assessment and Program Evaluation.
 
@@ -2769,7 +2769,7 @@ Pub. L. 111–23, title I, § 101(c), May 22, 2009, 123 Stat. 1709, provided t
 
 **Pilot Program on Alternative Analysis; Establishment of Analysis Working Group**
 
-Pub. L. 118–31, div. A, title IX, § 902(b)–(d), Dec. 22, 2023, 137 Stat. 357, 358, provided that:
+Pub. L. 118–31, div. A, title IX, § 902(b)–(d), Dec. 22, 2023, 137 Stat. 357, 358, provided that:
 
 > **“(b) Pilot Program on Alternative Analysis.—**
 
@@ -2833,7 +2833,7 @@ Pub. L. 118–31, div. A, title IX, § 902(b)–(d), Dec. 22, 2023, 137 Stat. 
 
 > **“(d) Rule of Construction.—** Nothing in subsection (b) or (c) shall be construed to interfere with the authority of the Chiefs of Staff of the Armed Forces to establish military requirements, performance requirements, and joint performance requirements, or the authority of the Joint Requirements Oversight Council to validate such requirements under section 181 of title 10, United States Code.”
 
-## § 139b. Secretariat for Special Operations; Special Operations Policy and Oversight Council
+## § 139b. Secretariat for Special Operations; Special Operations Policy and Oversight Council
 
 **(a) Secretariat for Special Operations.—**
 
@@ -2881,13 +2881,13 @@ Pub. L. 118–31, div. A, title IX, § 902(b)–(d), Dec. 22, 2023, 137 Stat. 
 
 **(4) Operation.—** The Council shall operate continuously.
 
-(Added Pub. L. 114–328, div. A, title IX, § 922(b)(1), Dec. 23, 2016, 130 Stat. 2355; amended Pub. L. 115–91, div. A, title X, § 1081(a)(7), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 116–92, div. A, title XVI, § 1621(e)(1)(A)(iv), Dec. 20, 2019, 133 Stat. 1733; Pub. L. 116–283, div. A, title IX, § 902(b)(1), Jan. 1, 2021, 134 Stat. 3795.)
+(Added Pub. L. 114–328, div. A, title IX, § 922(b)(1), Dec. 23, 2016, 130 Stat. 2355; amended Pub. L. 115–91, div. A, title X, § 1081(a)(7), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 116–92, div. A, title XVI, § 1621(e)(1)(A)(iv), Dec. 20, 2019, 133 Stat. 1733; Pub. L. 116–283, div. A, title IX, § 902(b)(1), Jan. 1, 2021, 134 Stat. 3795.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 139b, added Pub. L. 111–23, title I, § 102(a)(1), May 22, 2009, 123 Stat. 1710, § 139d; renumbered § 139b and amended Pub. L. 111–383, div. A, title IX, § 901(e), (f), (k)(1)(E), title X, § 1075(b)(6), Jan. 7, 2011, 124 Stat. 4321, 4322, 4325, 4369; Pub. L. 112–81, div. A, title VIII, § 835(b), Dec. 31, 2011, 125 Stat. 1507; Pub. L. 112–239, div. A, title IX, § 904(a)–(d), (f), (g), title X, § 1076(f)(5), Jan. 2, 2013, 126 Stat. 1866, 1867, 1952; Pub. L. 113–291, div. A, title II, § 221(a), Dec. 19, 2014, 128 Stat. 3330; Pub. L. 114–92, div. A, title VIII, § 832, title X, § 1078(b), Nov. 25, 2015, 129 Stat. 913, 998, related to Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems Engineering; support of major defense acquisition programs; annual and biennial report requirements; and joint guidance in certain areas, prior to repeal by Pub. L. 114–328, div. A, title IX, § 901(e)(2), Dec. 23, 2016, 130 Stat. 2342.
+A prior section 139b, added Pub. L. 111–23, title I, § 102(a)(1), May 22, 2009, 123 Stat. 1710, § 139d; renumbered § 139b and amended Pub. L. 111–383, div. A, title IX, § 901(e), (f), (k)(1)(E), title X, § 1075(b)(6), Jan. 7, 2011, 124 Stat. 4321, 4322, 4325, 4369; Pub. L. 112–81, div. A, title VIII, § 835(b), Dec. 31, 2011, 125 Stat. 1507; Pub. L. 112–239, div. A, title IX, § 904(a)–(d), (f), (g), title X, § 1076(f)(5), Jan. 2, 2013, 126 Stat. 1866, 1867, 1952; Pub. L. 113–291, div. A, title II, § 221(a), Dec. 19, 2014, 128 Stat. 3330; Pub. L. 114–92, div. A, title VIII, § 832, title X, § 1078(b), Nov. 25, 2015, 129 Stat. 913, 998, related to Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems Engineering; support of major defense acquisition programs; annual and biennial report requirements; and joint guidance in certain areas, prior to repeal by Pub. L. 114–328, div. A, title IX, § 901(e)(2), Dec. 23, 2016, 130 Stat. 2342.
 
 Another prior section 139b was renumbered section 138c of this title and was subsequently repealed.
 
@@ -2905,7 +2905,7 @@ Another prior section 139b was renumbered sections 4371 to 4375 of this title.
 
 **Optimization of Irregular Warfare Technical Support Directorate**
 
-Pub. L. 117–81, div. A, title X, § 1071, Dec. 27, 2021, 135 Stat. 1913, provided that:
+Pub. L. 117–81, div. A, title X, § 1071, Dec. 27, 2021, 135 Stat. 1913, provided that:
 
 > **“(a) Plan Required.—** Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2021], the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan for improving the support provided by the Irregular Warfare Technical Support Directorate to meet military requirements. Such plan shall include the following:
 
@@ -2929,31 +2929,31 @@ Pub. L. 117–81, div. A, title X, § 1071, Dec. 27, 2021, 135 Stat. 1913, pro
 
 > **“(4)** address such other matters as the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict considers relevant.”
 
-## [§ 139c. Repealed. Pub. L. 114–328, div. A, title IX, § 901(e)(2), Dec. 23, 2016, 130 Stat. 2342]
+## [§ 139c. Repealed. Pub. L. 114–328, div. A, title IX, § 901(e)(2), Dec. 23, 2016, 130 Stat. 2342]
 
-Section, added § 139e and renumbered § 139c, Pub. L. 111–383, div. A, title VII, § 896(a), title IX, § 901(f), Jan. 7, 2011, 124 Stat. 4314, 4322; amended Pub. L. 112–81, div. A, title VIII, § 855, Dec. 31, 2011, 125 Stat. 1521; Pub. L. 112–239, div. A, title IX, § 901(a), (b), title X, § 1076(a)(13), (b)(3), Jan. 2, 2013, 126 Stat. 1863, 1864, 1948, 1949; Pub. L. 114–328, div. A, title X, § 1081(b)(4)(A), Dec. 23, 2016, 130 Stat. 2419, related to Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy.
+Section, added § 139e and renumbered § 139c, Pub. L. 111–383, div. A, title VII, § 896(a), title IX, § 901(f), Jan. 7, 2011, 124 Stat. 4314, 4322; amended Pub. L. 112–81, div. A, title VIII, § 855, Dec. 31, 2011, 125 Stat. 1521; Pub. L. 112–239, div. A, title IX, § 901(a), (b), title X, § 1076(a)(13), (b)(3), Jan. 2, 2013, 126 Stat. 1863, 1864, 1948, 1949; Pub. L. 114–328, div. A, title X, § 1081(b)(4)(A), Dec. 23, 2016, 130 Stat. 2419, related to Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy.
 
 A prior section 139c was renumbered section 139a of this title.
 
 Another prior section 139c was renumbered section 2434 of this title.
 
-## [§§ 139d, 139e. Renumbered §§ 139b, 139c]
+## [§§ 139d, 139e. Renumbered §§ 139b, 139c]
 
-## § 140. General Counsel
+## § 140. General Counsel
 
 **(a)** There is a General Counsel of the Department of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
 **(b)** The General Counsel is the chief legal officer of the Department of Defense. He shall perform such functions as the Secretary of Defense may prescribe.
 
-(Added Pub. L. 87–651, title II, § 202, Sept. 7, 1962, 76 Stat. 519, § 137; amended Pub. L. 88–426, title III, § 305(9), Aug. 14, 1964, 78 Stat. 423; renumbered § 139 and amended Pub. L. 99–433, title I, §§ 101(a)(7), 110(d)(11), Oct. 1, 1986, 100 Stat. 995, 1003; renumbered § 140, Pub. L. 103–160, div. A, title IX, § 901(a)(1), Nov. 30, 1993, 107 Stat. 1726.)
+(Added Pub. L. 87–651, title II, § 202, Sept. 7, 1962, 76 Stat. 519, § 137; amended Pub. L. 88–426, title III, § 305(9), Aug. 14, 1964, 78 Stat. 423; renumbered § 139 and amended Pub. L. 99–433, title I, §§ 101(a)(7), 110(d)(11), Oct. 1, 1986, 100 Stat. 995, 1003; renumbered § 140, Pub. L. 103–160, div. A, title IX, § 901(a)(1), Nov. 30, 1993, 107 Stat. 1726.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 137(a) | [Uncodified: 1953 Reorg. Plan No. 6, eff. June 30, 1953, § 4 (1st 25 words of 1st sentence), 67 Stat. 639]. | 1953 Reorg. Plan No. 6, eff. June 30, 1953, § 4, 67 Stat. 639. |
-| 137(b) | [Uncodified: 1953 Reorg. Plan No. 6, eff. June 30, 1953, § 4 (1st sentence, less 1st 25 words), 67 Stat. 639]. |  |
-| 137(c) | [Uncodified: 1953 Reorg. Plan No. 6, eff. June 30, 1953, § 4 (2d sentence), 67 Stat. 639]. |  |
+| 137(a) | [Uncodified: 1953 Reorg. Plan No. 6, eff. June 30, 1953, § 4 (1st 25 words of 1st sentence), 67 Stat. 639]. | 1953 Reorg. Plan No. 6, eff. June 30, 1953, § 4, 67 Stat. 639. |
+| 137(b) | [Uncodified: 1953 Reorg. Plan No. 6, eff. June 30, 1953, § 4 (1st sentence, less 1st 25 words), 67 Stat. 639]. |  |
+| 137(c) | [Uncodified: 1953 Reorg. Plan No. 6, eff. June 30, 1953, § 4 (2d sentence), 67 Stat. 639]. |  |
 
 In subsection (b), the words “from time to time” are omitted as surplusage.
 
@@ -2969,7 +2969,7 @@ Another prior section 140 was renumbered section 127 of this title.
 
 1993—Pub. L. 103–160 renumbered section 139 of this title as this section.
 
-1986—Pub. L. 99–433, §§ 101(a)(7), 110(d)(11), renumbered section 137 of this title as this section, and struck out “: powers and duties” at end of section catchline.
+1986—Pub. L. 99–433, §§ 101(a)(7), 110(d)(11), renumbered section 137 of this title as this section, and struck out “: powers and duties” at end of section catchline.
 
 1964—Subsec. (c). Pub. L. 88–426 repealed subsec. (c) which related to compensation of General Counsel. See section 5315 of Title 5, Government Organization and Employees.
 
@@ -2979,7 +2979,7 @@ Another prior section 140 was renumbered section 127 of this title.
 
 For effective date of amendment by Pub. L. 88–426, see section 501 of Pub. L. 88–426.
 
-## [§ 140a. Renumbered § 422]
+## [§ 140a. Renumbered § 422]
 
 **Editorial Notes**
 
@@ -2987,7 +2987,7 @@ For effective date of amendment by Pub. L. 88–426, see section 501 of Pub. L. 
 
 A prior section 140a was renumbered section 421 of this title.
 
-## [§ 140b. Renumbered § 423]
+## [§ 140b. Renumbered § 423]
 
 **Editorial Notes**
 
@@ -2995,15 +2995,15 @@ A prior section 140a was renumbered section 421 of this title.
 
 A prior section 140b was renumbered section 129 of this title.
 
-## [§ 140c. Renumbered § 130]
+## [§ 140c. Renumbered § 130]
 
-## § 141. Inspector General
+## § 141. Inspector General
 
 **(a)** There is an Inspector General of the Department of Defense, who is appointed as provided in section 403 of title 5.
 
 **(b)** The Inspector General performs the duties, has the responsibilities, and exercises the powers specified in chapter 4 of title 5.
 
-(Added Pub. L. 99–433, title I, § 108, Oct. 1, 1986, 100 Stat. 998, § 140; renumbered § 141, Pub. L. 103–160, div. A, title IX, § 901(a)(1), Nov. 30, 1993, 107 Stat. 1726; amended Pub. L. 117–286, § 4(b)(26), Dec. 27, 2022, 136 Stat. 4346.)
+(Added Pub. L. 99–433, title I, § 108, Oct. 1, 1986, 100 Stat. 998, § 140; renumbered § 141, Pub. L. 103–160, div. A, title IX, § 901(a)(1), Nov. 30, 1993, 107 Stat. 1726; amended Pub. L. 117–286, § 4(b)(26), Dec. 27, 2022, 136 Stat. 4346.)
 
 **Editorial Notes**
 
@@ -3015,9 +3015,9 @@ Another prior section 141 of this title was contained in chapter 5 of this title
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–286, § 4(b)(26)(A), substituted “section 403 of title 5.” for “section 3 of the Inspector General Act of 1978 (Public Law 95–452; 5 U.S.C. App. 3).”
+2022—Subsec. (a). Pub. L. 117–286, § 4(b)(26)(A), substituted “section 403 of title 5.” for “section 3 of the Inspector General Act of 1978 (Public Law 95–452; 5 U.S.C. App. 3).”
 
-Subsec. (b). Pub. L. 117–286, § 4(b)(26)(B), substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978.”
+Subsec. (b). Pub. L. 117–286, § 4(b)(26)(B), substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978.”
 
 1993—Pub. L. 103–160 renumbered section 140 of this title as this section.
 
@@ -3025,9 +3025,9 @@ Subsec. (b). Pub. L. 117–286, § 4(b)(26)(B), substituted “chapter 4 of ti
 
 **Inspector General Oversight of Diversity and Inclusion in Department of Defense; Supremacist, Extremist, or Criminal Gang Activity in the Armed Forces**
 
-Pub. L. 116–283, div. A, title V, § 554, Jan. 1, 2021, 134 Stat. 3633, as amended by Pub. L. 117–81, div. A, title V, § 549K, Dec. 27, 2021, 135 Stat. 1731, which related to Inspector General oversight of diversity and inclusion in Department of Defense and the establishment of policies, processes, and mechanisms for supremacist, extremist, or criminal gang activity in certain Armed Forces, was repealed by Pub. L. 119–60, div. A, title IX, § 901(d), Dec. 18, 2025, 139 Stat. 1007.
+Pub. L. 116–283, div. A, title V, § 554, Jan. 1, 2021, 134 Stat. 3633, as amended by Pub. L. 117–81, div. A, title V, § 549K, Dec. 27, 2021, 135 Stat. 1731, which related to Inspector General oversight of diversity and inclusion in Department of Defense and the establishment of policies, processes, and mechanisms for supremacist, extremist, or criminal gang activity in certain Armed Forces, was repealed by Pub. L. 119–60, div. A, title IX, § 901(d), Dec. 18, 2025, 139 Stat. 1007.
 
-## § 142. Chief Information Officer
+## § 142. Chief Information Officer
 
 **(a)** There is a Chief Information Officer of the Department of Defense, who shall be appointed by the President, by and with the advice and consent of the Senate, from among civilians who are qualified to serve as such officer.
 
@@ -3081,7 +3081,7 @@ Pub. L. 116–283, div. A, title V, § 554, Jan. 1, 2021, 134 Stat. 3633, as a
 
 **(d)** The Chief Information Officer of the Department of Defense shall report directly to the Secretary of Defense in the performance of duties under this section.
 
-(Added and amended Pub. L. 113–291, div. A, title IX, § 901(b)(1), (j)(1)(B), Dec. 19, 2014, 128 Stat. 3463, 3467; Pub. L. 114–328, div. A, title IX, § 902(a), Dec. 23, 2016, 130 Stat. 2343; Pub. L. 115–91, div. A, title IX, § 909(a)–(d), title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1514, 1515, 1597; Pub. L. 115–232, div. A, title IX, § 903, Aug. 13, 2018, 132 Stat. 1922; Pub. L. 116–92, div. A, title IX, § 903(a)(1), title XVI, § 1662(b), Dec. 20, 2019, 133 Stat. 1555, 1772; Pub. L. 116–283, div. A, title X, § 1081(a)(9), Jan. 1, 2021, 134 Stat. 3871; Pub. L. 117–81, div. A, title XV, § 1523, Dec. 27, 2021, 135 Stat. 2042.)
+(Added and amended Pub. L. 113–291, div. A, title IX, § 901(b)(1), (j)(1)(B), Dec. 19, 2014, 128 Stat. 3463, 3467; Pub. L. 114–328, div. A, title IX, § 902(a), Dec. 23, 2016, 130 Stat. 2343; Pub. L. 115–91, div. A, title IX, § 909(a)–(d), title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1514, 1515, 1597; Pub. L. 115–232, div. A, title IX, § 903, Aug. 13, 2018, 132 Stat. 1922; Pub. L. 116–92, div. A, title IX, § 903(a)(1), title XVI, § 1662(b), Dec. 20, 2019, 133 Stat. 1555, 1772; Pub. L. 116–283, div. A, title X, § 1081(a)(9), Jan. 1, 2021, 134 Stat. 3871; Pub. L. 117–81, div. A, title XV, § 1523, Dec. 27, 2021, 135 Stat. 2042.)
 
 **Editorial Notes**
 
@@ -3093,57 +3093,57 @@ Another prior section 142 of this title was contained in chapter 5 of this title
 
 **Amendments**
 
-2021—Subsec. (b)(1)(A). Pub. L. 117–81, § 1523(1), struck out “(other than with respect to business management)” after “sections 3506(a)(2)”.
+2021—Subsec. (b)(1)(A). Pub. L. 117–81, § 1523(1), struck out “(other than with respect to business management)” after “sections 3506(a)(2)”.
 
-Subsec. (b)(1)(B). Pub. L. 117–81, § 1523(1), struck out “(other than with respect to business management)” after “title 40”.
+Subsec. (b)(1)(B). Pub. L. 117–81, § 1523(1), struck out “(other than with respect to business management)” after “title 40”.
 
-Subsec. (b)(1)(C). Pub. L. 117–81, § 1523(1), struck out “(other than with respect to business management)” after “sections 2223(a)”.
+Subsec. (b)(1)(C). Pub. L. 117–81, § 1523(1), struck out “(other than with respect to business management)” after “sections 2223(a)”.
 
-Subsec. (b)(1)(D). Pub. L. 117–81, § 1523(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “exercises authority, direction, and control over the Information Assurance Directorate of the National Security Agency;”.
+Subsec. (b)(1)(D). Pub. L. 117–81, § 1523(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “exercises authority, direction, and control over the Information Assurance Directorate of the National Security Agency;”.
 
 Subsecs. (c), (d). Pub. L. 116–283 redesignated subsec. (c) relating to the direct report of the Chief Information Officer to the Secretary of Defense as (d) and struck out former subsec. (d) which read as follows: “The Chief Information Officer of the Department of Defense takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title. The officials serving in positions specified in such section and the Chief Information Officer take precedence among themselves in the order prescribed by the Secretary of Defense.”
 
-2019—Subsec. (b)(1)(A) to (C). Pub. L. 116–92, § 903(a)(1), struck out “systems and” after “business”.
+2019—Subsec. (b)(1)(A) to (C). Pub. L. 116–92, § 903(a)(1), struck out “systems and” after “business”.
 
-Subsec. (b)(1)(G) to (I). Pub. L. 116–92, § 1662(b), redesignated subpars. (H) and (I) as (G) and (H), respectively, and struck out former subpar. (G) which read as follows: “has the responsibilities for policy, oversight, guidance, and coordination for nuclear command and control systems;”.
+Subsec. (b)(1)(G) to (I). Pub. L. 116–92, § 1662(b), redesignated subpars. (H) and (I) as (G) and (H), respectively, and struck out former subpar. (G) which read as follows: “has the responsibilities for policy, oversight, guidance, and coordination for nuclear command and control systems;”.
 
-2018—Subsec. (b)(1)(A). Pub. L. 115–232, § 903(1), inserted “(other than with respect to business systems and management)” after “sections 3506(a)(2)”.
+2018—Subsec. (b)(1)(A). Pub. L. 115–232, § 903(1), inserted “(other than with respect to business systems and management)” after “sections 3506(a)(2)”.
 
-Subsec. (b)(1)(B). Pub. L. 115–232, § 903(2), substituted “sections 11315 and 11319 of title 40 (other than with respect to business systems and management)” for “section 11315 of title 40”.
+Subsec. (b)(1)(B). Pub. L. 115–232, § 903(2), substituted “sections 11315 and 11319 of title 40 (other than with respect to business systems and management)” for “section 11315 of title 40”.
 
-Subsec. (b)(1)(C). Pub. L. 115–232, § 903(3), substituted “sections 2223(a) (other than with respect to business systems and management) and 2224” for “sections 2222, 2223(a), and 2224”.
+Subsec. (b)(1)(C). Pub. L. 115–232, § 903(3), substituted “sections 2223(a) (other than with respect to business systems and management) and 2224” for “sections 2222, 2223(a), and 2224”.
 
-2017—Subsec. (a). Pub. L. 115–91, § 909(a), inserted before period at end “, who shall be appointed by the President, by and with the advice and consent of the Senate, from among civilians who are qualified to serve as such officer”.
+2017—Subsec. (a). Pub. L. 115–91, § 909(a), inserted before period at end “, who shall be appointed by the President, by and with the advice and consent of the Senate, from among civilians who are qualified to serve as such officer”.
 
-Subsec. (b)(1)(I). Pub. L. 115–91, § 909(b), substituted “the information technology, networking, information assurance, cybersecurity, and cyber capability architectures” for “the networking and cyber defense architecture”.
+Subsec. (b)(1)(I). Pub. L. 115–91, § 909(b), substituted “the information technology, networking, information assurance, cybersecurity, and cyber capability architectures” for “the networking and cyber defense architecture”.
 
-Subsec. (b)(2) to (4). Pub. L. 115–91, § 909(c), added pars. (2) and (3) and redesignated former par. (2) as (4).
+Subsec. (b)(2) to (4). Pub. L. 115–91, § 909(c), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-Subsec. (c). Pub. L. 115–91, § 1081(b)(1)(A), repealed Pub. L. 113–291, § 901(j)(1)(B). See 2014 Amendment note below.
+Subsec. (c). Pub. L. 115–91, § 1081(b)(1)(A), repealed Pub. L. 113–291, § 901(j)(1)(B). See 2014 Amendment note below.
 
-Pub. L. 115–91, § 909(d), added subsec. (c), relating to the direct report of the Chief Information Officer to the Secretary of Defense.
+Pub. L. 115–91, § 909(d), added subsec. (c), relating to the direct report of the Chief Information Officer to the Secretary of Defense.
 
-Subsec. (d). Pub. L. 115–91, § 909(d), added subsec. (d).
+Subsec. (d). Pub. L. 115–91, § 909(d), added subsec. (d).
 
 2016—Subsec. (b)(1)(E) to (I). Pub. L. 114–328 added subpars. (E) to (I).
 
-2014—Subsec. (c). Pub. L. 113–291, § 901(j)(1)(B), which directed striking out subsec. (c), was repealed by Pub. L. 115–91, § 1081(b)(1)(A).
+2014—Subsec. (c). Pub. L. 113–291, § 901(j)(1)(B), which directed striking out subsec. (c), was repealed by Pub. L. 115–91, § 1081(b)(1)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title IX, § 909(g), Dec. 12, 2017, 131 Stat. 1516, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 2019.”
+Pub. L. 115–91, div. A, title IX, § 909(g), Dec. 12, 2017, 131 Stat. 1516, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 2019.”
 
-Pub. L. 115–91, div. A, title X, § 1081(b), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(A) is effective as of Dec. 23, 2016.
+Pub. L. 115–91, div. A, title X, § 1081(b), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(A) is effective as of Dec. 23, 2016.
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–291, div. A, title IX, § 901(j)(1), Dec. 19, 2014, 128 Stat. 3467, which provided that the amendment made by section 901(j)(1)(B) is effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597.
+Pub. L. 113–291, div. A, title IX, § 901(j)(1), Dec. 19, 2014, 128 Stat. 3467, which provided that the amendment made by section 901(j)(1)(B) is effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, § 1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597.
 
 **Cryptographic Modernization Schedules**
 
-Pub. L. 116–283, div. A, title I, § 153, Jan. 1, 2021, 134 Stat. 3442, provided that:
+Pub. L. 116–283, div. A, title I, § 153, Jan. 1, 2021, 134 Stat. 3442, provided that:
 
 > **“(a) Cryptographic Modernization Schedules Required.—** Each of the Secretaries of the military departments and the heads of relevant Defense Agencies and Department of Defense Field Activities shall establish and maintain a cryptographic modernization schedule that specifies, for each pertinent weapon system, command and control system, or data link under the jurisdiction of such Secretary or head, including those that use commercial encryption technologies (as relevant), the following:
 
@@ -3173,9 +3173,9 @@ Pub. L. 116–283, div. A, title I, § 153, Jan. 1, 2021, 134 Stat. 3442, prov
 
 **Service of Incumbent Without Further Appointment**
 
-Pub. L. 115–91, div. A, title IX, § 909(f), Dec. 12, 2017, 131 Stat. 1516, provided that: “The individual serving in the position of Chief Information Officer of the Department of Defense as of January 1, 2019, may continue to serve in such position commencing as of that date without further appointment pursuant to section 142 of title 10, United States Code, as amended by this section.”
+Pub. L. 115–91, div. A, title IX, § 909(f), Dec. 12, 2017, 131 Stat. 1516, provided that: “The individual serving in the position of Chief Information Officer of the Department of Defense as of January 1, 2019, may continue to serve in such position commencing as of that date without further appointment pursuant to section 142 of title 10, United States Code, as amended by this section.”
 
-## § 143. Office of the Secretary of Defense personnel: limitation
+## § 143. Office of the Secretary of Defense personnel: limitation
 
 **(a) Permanent Limitation on OSD Personnel.—** The number of OSD personnel may not exceed 4,300.
 
@@ -3183,45 +3183,45 @@ Pub. L. 115–91, div. A, title IX, § 909(f), Dec. 12, 2017, 131 Stat. 1516, 
 
 **(c) Limitation on Reassignment of Functions.—** In carrying out reductions in the number of personnel assigned to, or employed in, the Office of the Secretary of Defense in order to comply with this section, the Secretary of Defense may not reassign functions solely in order to evade the requirements contained in this section.
 
-(Added Pub. L. 105–85, div. A, title IX, § 911(d)(1), Nov. 18, 1997, 111 Stat. 1859; amended Pub. L. 106–65, div. A, title IX, § 921(c), Oct. 5, 1999, 113 Stat. 723; Pub. L. 114–328, div. A, title IX, § 903(a), Dec. 23, 2016, 130 Stat. 2344; Pub. L. 116–92, div. A, title IX, § 901(a)(1), Dec. 20, 2019, 133 Stat. 1541.)
+(Added Pub. L. 105–85, div. A, title IX, § 911(d)(1), Nov. 18, 1997, 111 Stat. 1859; amended Pub. L. 106–65, div. A, title IX, § 921(c), Oct. 5, 1999, 113 Stat. 723; Pub. L. 114–328, div. A, title IX, § 903(a), Dec. 23, 2016, 130 Stat. 2344; Pub. L. 116–92, div. A, title IX, § 901(a)(1), Dec. 20, 2019, 133 Stat. 1541.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section, as added by Pub. L. 105–85, consists of text of Pub. L. 104–201, div. A, title IX, § 903(a)–(f), Sept. 23, 1996, 110 Stat. 2617. Section 903 of Pub. L. 104–201, which was formerly set out as a note under section 131 of this title, was repealed by Pub. L. 105–85, div. A, title IX, § 911(d)(3), Nov. 18, 1997, 111 Stat. 1860.
+Section, as added by Pub. L. 105–85, consists of text of Pub. L. 104–201, div. A, title IX, § 903(a)–(f), Sept. 23, 1996, 110 Stat. 2617. Section 903 of Pub. L. 104–201, which was formerly set out as a note under section 131 of this title, was repealed by Pub. L. 105–85, div. A, title IX, § 911(d)(3), Nov. 18, 1997, 111 Stat. 1860.
 
 **Amendments**
 
-2019—Subsec. (a). Pub. L. 116–92, § 901(a)(1)(A), substituted “4,300” for “3,767”.
+2019—Subsec. (a). Pub. L. 116–92, § 901(a)(1)(A), substituted “4,300” for “3,767”.
 
-Subsec. (b). Pub. L. 116–92, § 901(a)(1)(B), substituted “military and civilian personnel” for “military, civilian, and detailed personnel”.
+Subsec. (b). Pub. L. 116–92, § 901(a)(1)(B), substituted “military and civilian personnel” for “military, civilian, and detailed personnel”.
 
-2016—Subsec. (b). Pub. L. 114–328 substituted “, civilian, and detailed personnel” for “and civilian personnel”.
+2016—Subsec. (b). Pub. L. 114–328 substituted “, civilian, and detailed personnel” for “and civilian personnel”.
 
-1999—Subsec. (a). Pub. L. 106–65, § 921(c)(1), substituted “The number” for “Effective October 1, 1999, the number” and “3,767” for “75 percent of the baseline number”.
+1999—Subsec. (a). Pub. L. 106–65, § 921(c)(1), substituted “The number” for “Effective October 1, 1999, the number” and “3,767” for “75 percent of the baseline number”.
 
-Subsec. (b). Pub. L. 106–65, § 921(c)(2), (3), redesignated subsec. (d) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “The number of OSD personnel—
+Subsec. (b). Pub. L. 106–65, § 921(c)(2), (3), redesignated subsec. (d) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “The number of OSD personnel—
 
 “(1) as of October 1, 1997, may not exceed 85 percent of the baseline number; and
 
 “(2) as of October 1, 1998, may not exceed 80 percent of the baseline number.”
 
-Subsec. (c). Pub. L. 106–65, § 921(c)(2), (3), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “For purposes of this section, the term ‘baseline number’ means the number of OSD personnel as of October 1, 1994.”
+Subsec. (c). Pub. L. 106–65, § 921(c)(2), (3), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “For purposes of this section, the term ‘baseline number’ means the number of OSD personnel as of October 1, 1994.”
 
-Subsecs. (d), (e). Pub. L. 106–65, § 921(c)(3), redesignated subsecs. (d) and (e) as (b) and (c), respectively.
+Subsecs. (d), (e). Pub. L. 106–65, § 921(c)(3), redesignated subsecs. (d) and (e) as (b) and (c), respectively.
 
-Subsec. (f). Pub. L. 106–65, § 921(c)(2), struck out heading and text of subsec. (f). Text read as follows: “If the Secretary of Defense determines, and certifies to Congress, that the limitation in subsection (b) with respect to any fiscal year would adversely affect United States national security, the Secretary may waive the limitation under that subsection with respect to that fiscal year. If the Secretary of Defense determines, and certifies to Congress, that the limitation in subsection (a) during fiscal year 1999 would adversely affect United States national security, the Secretary may waive the limitation under that subsection with respect to that fiscal year. The authority under this subsection may be used only once, with respect to a single fiscal year.”
+Subsec. (f). Pub. L. 106–65, § 921(c)(2), struck out heading and text of subsec. (f). Text read as follows: “If the Secretary of Defense determines, and certifies to Congress, that the limitation in subsection (b) with respect to any fiscal year would adversely affect United States national security, the Secretary may waive the limitation under that subsection with respect to that fiscal year. If the Secretary of Defense determines, and certifies to Congress, that the limitation in subsection (a) during fiscal year 1999 would adversely affect United States national security, the Secretary may waive the limitation under that subsection with respect to that fiscal year. The authority under this subsection may be used only once, with respect to a single fiscal year.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–65, div. A, title IX, § 921(c), Oct. 5, 1999, 113 Stat. 723, provided that the amendment made by section 921(c) is effective Oct. 1, 1999.
+Pub. L. 106–65, div. A, title IX, § 921(c), Oct. 5, 1999, 113 Stat. 723, provided that the amendment made by section 921(c) is effective Oct. 1, 1999.
 
 **Exceptions and Adjustments to Limitations on Personnel**
 
-Pub. L. 110–417, [div. A], title XI, § 1111, Oct. 14, 2008, 122 Stat. 4619, as amended by Pub. L. 111–84, div. A, title XI, § 1109(a), Oct. 28, 2009, 123 Stat. 2492; Pub. L. 111–383, div. A, title X, § 1075(e)(17), Jan. 7, 2011, 124 Stat. 4375; Pub. L. 115–232, div. A, title VIII, § 809(b)(1), Aug. 13, 2018, 132 Stat. 1840, provided that:
+Pub. L. 110–417, [div. A], title XI, § 1111, Oct. 14, 2008, 122 Stat. 4619, as amended by Pub. L. 111–84, div. A, title XI, § 1109(a), Oct. 28, 2009, 123 Stat. 2492; Pub. L. 111–383, div. A, title X, § 1075(e)(17), Jan. 7, 2011, 124 Stat. 4375; Pub. L. 115–232, div. A, title VIII, § 809(b)(1), Aug. 13, 2018, 132 Stat. 1840, provided that:
 
 > **“(a) Exception to Limitations on Personnel.—** For fiscal year 2009 and fiscal years thereafter, the baseline personnel limitations in sections 143, 194, 7014, 8014, and 9014 of title 10, United States Code (as adjusted pursuant to subsection (b)), shall not apply to—
 
@@ -3243,7 +3243,7 @@ Pub. L. 110–417, [div. A], title XI, § 1111, Oct. 14, 2008, 122 Stat. 4619,
 
 > **“(D)** Performance of work that, while the position may not exercise an inherently governmental function, nevertheless should be performed only by officers or employees of the Federal Government or members of the Armed Forces because of the critical nature of the work.”
 
-## § 144. Director of Small Business Programs
+## § 144. Director of Small Business Programs
 
 **(a) Director.—** There is a Director of Small Business Programs in the Department of Defense. The Director is appointed by the Secretary of Defense.
 
@@ -3255,13 +3255,13 @@ Pub. L. 110–417, [div. A], title XI, § 1111, Oct. 14, 2008, 122 Stat. 4619,
 
 **(2)** Section 15(k) of the Small Business Act (15 U.S.C. 644(k)), except for the designations of the Director and the Office, applies to the Director of Small Business Programs.
 
-(Added Pub. L. 109–163, div. A, title IX, § 904(b)(1), Jan. 6, 2006, 119 Stat. 3400.)
+(Added Pub. L. 109–163, div. A, title IX, § 904(b)(1), Jan. 6, 2006, 119 Stat. 3400.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Pub. L. 109–163, div. A, title IX, § 904(a), Jan. 6, 2006, 119 Stat. 3399, provided that:
+Pub. L. 109–163, div. A, title IX, § 904(a), Jan. 6, 2006, 119 Stat. 3399, provided that:
 
 > **“(1) Positions redesignated.—** The following positions within the Department of Defense are redesignated as follows:
 
@@ -3287,7 +3287,7 @@ Pub. L. 109–163, div. A, title IX, § 904(a), Jan. 6, 2006, 119 Stat. 3399, 
 
 **Establishment of Project Spectrum**
 
-Pub. L. 119–60, div. A, title XVIII, § 1807, Dec. 18, 2025, 139 Stat. 1240, provided that:
+Pub. L. 119–60, div. A, title XVIII, § 1807, Dec. 18, 2025, 139 Stat. 1240, provided that:
 
 > **“(a) In General.—** The Director of the Office of Small Business Programs of the Department of Defense shall establish and maintain a program to be known as ‘Project Spectrum’ to provide to covered entities an online platform of digital resources, training, and services that increase awareness of, and facilitate compliance with, the requirements of the defense acquisition system established pursuant to section 3102 of title 10, United States Code.
 
@@ -3325,7 +3325,7 @@ Pub. L. 119–60, div. A, title XVIII, § 1807, Dec. 18, 2025, 139 Stat. 1240,
 
 **Role of the Directors of Small Business Programs in Acquisition Processes of the Department of Defense**
 
-Pub. L. 112–239, div. A, title XVI, § 1611, Jan. 2, 2013, 126 Stat. 2063, provided that:
+Pub. L. 112–239, div. A, title XVI, § 1611, Jan. 2, 2013, 126 Stat. 2063, provided that:
 
 > **“(a) Guidance Required.—** The Secretary of Defense shall develop and issue guidance to ensure that the head of each Office of Small Business Programs of the Department of Defense is a participant as early as practicable in the acquisition processes—
 
@@ -3343,39 +3343,39 @@ Pub. L. 112–239, div. A, title XVI, § 1611, Jan. 2, 2013, 126 Stat. 2063, p
 
 > **“(2)** require coordination between the chiefs of staff of the Armed Forces and the service acquisition executives, as appropriate (or their designees), and the Director of Small Business Programs in each military department as early as practical in the relevant acquisition processes.”
 
-## § 145. Principal Advisor on Countering Weapons of Mass Destruction
+## § 145. Principal Advisor on Countering Weapons of Mass Destruction
 
 The Secretary of Defense may designate, from among the personnel of the Office of the Secretary of Defense, a Principal Advisor on Countering Weapons of Mass Destruction. Such Principal Advisor shall coordinate the activities of the Department of Defense relating to countering weapons of mass destruction. The individual designated to serve as such Principal Advisor shall be an individual who was appointed to the position held by the individual by and with the advice and consent of the Senate.
 
-(Added Pub. L. 115–232, div. A, title X, § 1082(a)(1), Aug. 13, 2018, 132 Stat. 1987.)
+(Added Pub. L. 115–232, div. A, title X, § 1082(a)(1), Aug. 13, 2018, 132 Stat. 1987.)
 
-## [§ 146. Renumbered § 198]
+## [§ 146. Renumbered § 198]
 
 **Statutory Notes and Related Subsidiaries**
 
 **Limitation on Involuntary Separation of Personnel**
 
-Pub. L. 116–283, div. A, title IX, § 905(b), Jan. 1, 2021, 134 Stat. 3799, which provided that personnel of the Office of Local Defense Community Cooperation could not be involuntarily separated from service during the one-year period beginning on Jan. 1, 2021, except for cause, was repealed by Pub. L. 117–81, div. A, title IX, § 902(d), Dec. 27, 2021, 135 Stat. 1869.
+Pub. L. 116–283, div. A, title IX, § 905(b), Jan. 1, 2021, 134 Stat. 3799, which provided that personnel of the Office of Local Defense Community Cooperation could not be involuntarily separated from service during the one-year period beginning on Jan. 1, 2021, except for cause, was repealed by Pub. L. 117–81, div. A, title IX, § 902(d), Dec. 27, 2021, 135 Stat. 1869.
 
 **Administration of Programs**
 
-Pub. L. 116–283, div. A, title IX, § 905(c), Jan. 1, 2021, 134 Stat. 3799, which authorized the Office of Local Defense Community Cooperation to administer any program, project, or other activity administered by the Office of Economic Adjustment of the Department of Defense, was repealed by Pub. L. 117–81, div. A, title IX, § 902(d), Dec. 27, 2021, 135 Stat. 1869.
+Pub. L. 116–283, div. A, title IX, § 905(c), Jan. 1, 2021, 134 Stat. 3799, which authorized the Office of Local Defense Community Cooperation to administer any program, project, or other activity administered by the Office of Economic Adjustment of the Department of Defense, was repealed by Pub. L. 117–81, div. A, title IX, § 902(d), Dec. 27, 2021, 135 Stat. 1869.
 
-## [§ 147. Repealed. Pub. L. 119–60, div. A, title IX, § 901(b), Dec. 18, 2025, 139 Stat. 1007]
+## [§ 147. Repealed. Pub. L. 119–60, div. A, title IX, § 901(b), Dec. 18, 2025, 139 Stat. 1007]
 
-Section, added Pub. L. 116–283, div. A, title IX, § 913(a)(1), Jan. 1, 2021, 134 Stat. 3802, authorized appointment by the Secretary of Defense of a Chief Diversity Officer.
+Section, added Pub. L. 116–283, div. A, title IX, § 913(a)(1), Jan. 1, 2021, 134 Stat. 3802, authorized appointment by the Secretary of Defense of a Chief Diversity Officer.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 116–283, div. A, title IX, § 913(c), Jan. 1, 2021, 134 Stat. 3804, which provided that this section and former section 913(b) of Pub. L. 116–283, formerly set out as a note below, were effective on Feb. 1, 2021, was repealed by Pub. L. 119–60, div. A, title IX, § 901(e), Dec. 18, 2025, 139 Stat. 1007.
+Pub. L. 116–283, div. A, title IX, § 913(c), Jan. 1, 2021, 134 Stat. 3804, which provided that this section and former section 913(b) of Pub. L. 116–283, formerly set out as a note below, were effective on Feb. 1, 2021, was repealed by Pub. L. 119–60, div. A, title IX, § 901(e), Dec. 18, 2025, 139 Stat. 1007.
 
 **Senior Advisors for Diversity and Inclusion for the Military Departments and Coast Guard**
 
-Pub. L. 116–283, div. A, title IX, § 913(b), Jan. 1, 2021, 134 Stat. 3803, which authorized appointment of Senior Advisors for Diversity and Inclusion for the military departments and the Coast Guard, was repealed by Pub. L. 119–60, div. A, title IX, § 901(e), Dec. 18, 2025, 139 Stat. 1007.
+Pub. L. 116–283, div. A, title IX, § 913(b), Jan. 1, 2021, 134 Stat. 3803, which authorized appointment of Senior Advisors for Diversity and Inclusion for the military departments and the Coast Guard, was repealed by Pub. L. 119–60, div. A, title IX, § 901(e), Dec. 18, 2025, 139 Stat. 1007.
 
-## § 148. Joint Energetics Transition Office
+## § 148. Joint Energetics Transition Office
 
 **(a) In General.—** The Secretary of Defense shall establish a Joint Energetics Transition Office (in this section referred to as the “Office”) within the Department of Defense. The Office shall carry out the activities described in subsection (c) and shall have such other responsibilities relating to energetic materials as the Secretary shall specify.
 
@@ -3449,7 +3449,7 @@ Pub. L. 116–283, div. A, title IX, § 913(b), Jan. 1, 2021, 134 Stat. 3803, 
 
 **(B)** increase propellant performance in a weapon propulsion system as related to lethal effects, range, or speed.
 
-(Added Pub. L. 118–31, div. A, title II, § 241(a), Dec. 22, 2023, 137 Stat. 205; amended Pub. L. 118–159, div. A, title II, § 211, Dec. 23, 2024, 138 Stat. 1823; Pub. L. 119–60, div. A, title II, § 251, Dec. 18, 2025, 139 Stat. 800.)
+(Added Pub. L. 118–31, div. A, title II, § 241(a), Dec. 22, 2023, 137 Stat. 205; amended Pub. L. 118–159, div. A, title II, § 211, Dec. 23, 2024, 138 Stat. 1823; Pub. L. 119–60, div. A, title II, § 251, Dec. 18, 2025, 139 Stat. 800.)
 
 **Editorial Notes**
 
@@ -3459,7 +3459,7 @@ Pub. L. 116–283, div. A, title IX, § 913(b), Jan. 1, 2021, 134 Stat. 3803, 
 
 2024—Subsec. (d). Pub. L. 118–159 amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall ensure that the Office is budgeted for and funded in a manner sufficient to ensure the Office has the staff and other resources necessary to effectively carry out the responsibilities specified in subsection (c).”
 
-## § 149. Office of Strategic Capital
+## § 149. Office of Strategic Capital
 
 **(a) Establishment.—** There is in the Office of the Secretary of Defense an office to be known as the Office of Strategic Capital (in this section referred to as the “Office”).
 
@@ -3751,47 +3751,47 @@ Pub. L. 116–283, div. A, title IX, § 913(b), Jan. 1, 2021, 134 Stat. 3803, 
 
 **(5)** The term “obligor” means a party that is primarily liable for payment of the principal or interest on a loan.
 
-(Added Pub. L. 118–31, div. A, title IX, § 903(a), Dec. 22, 2023, 137 Stat. 358; amended Pub. L. 118–159, div. A, title IX, § 905(a), Dec. 23, 2024, 138 Stat. 2028; Pub. L. 119–60, div. A, title IX, §§ 905, 906, Dec. 18, 2025, 139 Stat. 1010, 1011.)
+(Added Pub. L. 118–31, div. A, title IX, § 903(a), Dec. 22, 2023, 137 Stat. 358; amended Pub. L. 118–159, div. A, title IX, § 905(a), Dec. 23, 2024, 138 Stat. 2028; Pub. L. 119–60, div. A, title IX, §§ 905, 906, Dec. 18, 2025, 139 Stat. 1010, 1011.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (e)(3)(A)(ii)(IX), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (e)(3)(A)(ii)(IX), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 **Prior Provisions**
 
-Provisions similar to those in subsec. (e) of this section were contained in Pub. L. 118–31, div. A, title IX, § 903(b), Dec. 22, 2023, 137 Stat. 360, which was set out as a note under section 4811 of this title, prior to repeal by Pub. L. 118–159, div. A, title IX, § 905(b), Dec. 23, 2024, 138 Stat. 2031.
+Provisions similar to those in subsec. (e) of this section were contained in Pub. L. 118–31, div. A, title IX, § 903(b), Dec. 22, 2023, 137 Stat. 360, which was set out as a note under section 4811 of this title, prior to repeal by Pub. L. 118–159, div. A, title IX, § 905(b), Dec. 23, 2024, 138 Stat. 2031.
 
 **Amendments**
 
-2025—Subsec. (e)(3)(A)(ii)(VI). Pub. L. 119–60, § 906(b), substituted “Director” for “Secretary” after “If the”.
+2025—Subsec. (e)(3)(A)(ii)(VI). Pub. L. 119–60, § 906(b), substituted “Director” for “Secretary” after “If the”.
 
-Subsec. (e)(5)(A)(ii). Pub. L. 119–60, § 906(c), substituted “consist of—
+Subsec. (e)(5)(A)(ii). Pub. L. 119–60, § 906(c), substituted “consist of—
 
 (I) amounts”
 
-for “consist of amounts”, substituted “; and” for period at end. and added subcl. (II).
+for “consist of amounts”, substituted “; and” for period at end. and added subcl. (II).
 
-Subsec. (e)(10) to (12). Pub. L. 119–60, § 906(d), added pars. (10) to (12).
+Subsec. (e)(10) to (12). Pub. L. 119–60, § 906(d), added pars. (10) to (12).
 
-Subsec. (f). Pub. L. 119–60, § 906(a)(2), added subsec. (f). Former subsec. (f) redesignated (h).
+Subsec. (f). Pub. L. 119–60, § 906(a)(2), added subsec. (f). Former subsec. (f) redesignated (h).
 
-Subsec. (f)(2)(U) to (HH). Pub. L. 119–60, § 905, added subpar. (U) and redesignated former subpars. (U) to (GG) as (V) to (HH), respectively.
+Subsec. (f)(2)(U) to (HH). Pub. L. 119–60, § 905, added subpar. (U) and redesignated former subpars. (U) to (GG) as (V) to (HH), respectively.
 
-Subsecs. (g), (h). Pub. L. 119–60, § 906(a), added subsec. (g) and redesignated former subsec. (f) as (h).
+Subsecs. (g), (h). Pub. L. 119–60, § 906(a), added subsec. (g) and redesignated former subsec. (f) as (h).
 
-2024—Subsecs. (e), (f). Pub. L. 118–159, § 905(a)(1), (2), added subsec. (e) and redesignated former subsec. (e) as (f).
+2024—Subsecs. (e), (f). Pub. L. 118–159, § 905(a)(1), (2), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-Subsec. (f)(2)(FF), (GG). Pub. L. 118–159, § 905(a)(3)(A), added subpars. (FF) and (GG).
+Subsec. (f)(2)(FF), (GG). Pub. L. 118–159, § 905(a)(3)(A), added subpars. (FF) and (GG).
 
-Subsec. (f)(5). Pub. L. 118–159, § 905(a)(3)(B), added par. (5).
+Subsec. (f)(5). Pub. L. 118–159, § 905(a)(3)(B), added par. (5).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Authority for Temporary Assignment of Employees of the Office of Strategic Capital to Certain Private-Sector Organizations**
 
-Pub. L. 118–159, div. A, title II, § 230, Dec. 23, 2024, 138 Stat. 1836, provided that:
+Pub. L. 118–159, div. A, title II, § 230, Dec. 23, 2024, 138 Stat. 1836, provided that:
 
 > **“(a) Authorization.—** Using the authority provided under section 1599g of title 10, United States Code, the Secretary of Defense, acting through the Director of the Office of Strategic Capital, may carry out a program under which the Director arranges for the temporary assignment of an employee of the Office to a qualifying private-sector organization.
 
@@ -3821,7 +3821,7 @@ Pub. L. 118–159, div. A, title II, § 230, Dec. 23, 2024, 138 Stat. 1836, pr
 
 **Establishment of National Security Capital Forum**
 
-Pub. L. 118–159, div. A, title X, § 1092, Dec. 23, 2024, 138 Stat. 2083, as amended by Pub. L. 119–60, div. A, title VIII, § 867(c), (d)(2), Dec. 18, 2025, 139 Stat. 1001, 1002, provided that:
+Pub. L. 118–159, div. A, title X, § 1092, Dec. 23, 2024, 138 Stat. 2083, as amended by Pub. L. 119–60, div. A, title VIII, § 867(c), (d)(2), Dec. 18, 2025, 139 Stat. 1001, 1002, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall establish a forum to—
 
@@ -3851,4 +3851,4 @@ Pub. L. 118–159, div. A, title X, § 1092, Dec. 23, 2024, 138 Stat. 2083, as
 
 “(2) The individual serving as the Director of the Defense Logistics Agency and the head of the Office of General Counsel of the Department of Defense.”
 
-*[Pub. L. 119–60, div. A, title VIII, § 867(d)(2), Dec. 18, 2025, 139 Stat. 1002, provided that, effective Dec. 31, 2035, section 1092 of Pub. L. 118–159, set out above, is amended by striking out subsecs. (a)(3) and (e).]*
+*[Pub. L. 119–60, div. A, title VIII, § 867(d)(2), Dec. 18, 2025, 139 Stat. 1002, provided that, effective Dec. 31, 2035, section 1092 of Pub. L. 118–159, set out above, is amended by striking out subsecs. (a)(3) and (e).]*

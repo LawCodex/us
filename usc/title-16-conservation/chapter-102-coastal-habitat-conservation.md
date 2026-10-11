@@ -15,19 +15,19 @@ retrieved: 2026-10-11
 
 # CHAPTER 102—COASTAL HABITAT CONSERVATION
 
-## § 8301. Purpose
+## § 8301. Purpose
 
 The purpose of this chapter is to legislatively authorize the Coastal Program of the Service in effect as of December 11, 2024, to conduct collaborative landscape-level planning and on-the-ground coastal habitat assessment, coastal habitat protection, coastal habitat restoration, and coastal habitat enhancement projects in priority coastal landscapes to conserve and recover Federal trust species.
 
-(Pub. L. 118–138, § 2, Dec. 11, 2024, 138 Stat. 1651.)
+(Pub. L. 118–138, § 2, Dec. 11, 2024, 138 Stat. 1651.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 118–138, § 1, Dec. 11, 2024, 138 Stat. 1651, provided that: “This Act [enacting this chapter] may be cited as the ‘Coastal Habitat Conservation Act of 2023’.”
+Pub. L. 118–138, § 1, Dec. 11, 2024, 138 Stat. 1651, provided that: “This Act [enacting this chapter] may be cited as the ‘Coastal Habitat Conservation Act of 2023’.”
 
-## § 8302. Definitions
+## § 8302. Definitions
 
 In this chapter:
 
@@ -127,15 +127,15 @@ The term “Service” means the United States Fish and Wildlife Service.
 
 The term “technical assistance” means a collaboration, facilitation, or consulting action relating to a coastal habitat planning, coastal habitat assessment, coastal habitat protection, coastal habitat restoration, or coastal habitat enhancement project or initiative in which the Service contributes scientific knowledge, skills, and expertise to the project or initiative.
 
-(Pub. L. 118–138, § 3, Dec. 11, 2024, 138 Stat. 1651.)
+(Pub. L. 118–138, § 3, Dec. 11, 2024, 138 Stat. 1651.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in par. (9), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in par. (9), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-## § 8303. Coastal Program
+## § 8303. Coastal Program
 
 The Secretary shall carry out the Coastal Program within the Service to—
 
@@ -151,9 +151,9 @@ The Secretary shall carry out the Coastal Program within the Service to—
 
 **(6)** collaborate and share information with partners and the public relating to best management practices for the conservation, restoration, and enhancement of coastal ecosystems.
 
-(Pub. L. 118–138, § 4, Dec. 11, 2024, 138 Stat. 1653.)
+(Pub. L. 118–138, § 4, Dec. 11, 2024, 138 Stat. 1653.)
 
-## § 8304. Reports
+## § 8304. Reports
 
 **(a) In general**
 
@@ -177,10 +177,10 @@ Not later than 1 year after December 11, 2024, and annually thereafter, the Secr
 
 **(4)** a description of emerging challenges or data gaps that hinder the ability of the Coastal Program to achieve the purpose of this chapter.
 
-(Pub. L. 118–138, § 5, Dec. 11, 2024, 138 Stat. 1653.)
+(Pub. L. 118–138, § 5, Dec. 11, 2024, 138 Stat. 1653.)
 
-## § 8305. Authorization of appropriations
+## § 8305. Authorization of appropriations
 
 There is authorized to be appropriated to carry out this chapter $16,957,000 for each of fiscal years 2024 through 2028.
 
-(Pub. L. 118–138, § 6, Dec. 11, 2024, 138 Stat. 1654.)
+(Pub. L. 118–138, § 6, Dec. 11, 2024, 138 Stat. 1654.)

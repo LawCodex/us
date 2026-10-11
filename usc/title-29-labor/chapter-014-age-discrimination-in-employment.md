@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 14—AGE DISCRIMINATION IN EMPLOYMENT
 
-## § 621. Congressional statement of findings and purpose
+## § 621. Congressional statement of findings and purpose
 
 **(a)** The Congress hereby finds and declares that—
 
@@ -29,49 +29,49 @@ retrieved: 2026-10-11
 
 **(b)** It is therefore the purpose of this chapter to promote employment of older persons based on their ability rather than age; to prohibit arbitrary age discrimination in employment; to help employers and workers find ways of meeting problems arising from the impact of age on employment.
 
-(Pub. L. 90–202, § 2, Dec. 15, 1967, 81 Stat. 602.)
+(Pub. L. 90–202, § 2, Dec. 15, 1967, 81 Stat. 602.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date; Rules and Regulations**
 
-Section 16, formerly § 15, of Pub. L. 90–202, renumbered by Pub. L. 93–259, § 28(b)(1), Apr. 8, 1974, 88 Stat. 74, provided that: “This Act [enacting this chapter] shall become effective one hundred and eighty days after enactment [Dec. 15, 1967], except (a) that the Secretary of Labor may extend the delay in effective date of any provision of this Act up to and additional ninety days thereafter if he finds that such time is necessary in permitting adjustments to the provisions hereof, and (b) that on or after the date of enactment [Dec. 15, 1967] the Secretary of Labor is authorized to issue such rules and regulations as may be necessary to carry out its provisions.”
+Section 16, formerly § 15, of Pub. L. 90–202, renumbered by Pub. L. 93–259, § 28(b)(1), Apr. 8, 1974, 88 Stat. 74, provided that: “This Act [enacting this chapter] shall become effective one hundred and eighty days after enactment [Dec. 15, 1967], except (a) that the Secretary of Labor may extend the delay in effective date of any provision of this Act up to and additional ninety days thereafter if he finds that such time is necessary in permitting adjustments to the provisions hereof, and (b) that on or after the date of enactment [Dec. 15, 1967] the Secretary of Labor is authorized to issue such rules and regulations as may be necessary to carry out its provisions.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119], Sept. 30, 1996, 110 Stat. 3009, 3009–23, provided in part that: “This section [amending section 623 of this title, enacting provisions set out as notes under section 623 of this title, and repealing provisions set out as a note under section 623 of this title] may be cited as the ‘Age Discrimination in Employment Amendments of 1996’.”
+Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119], Sept. 30, 1996, 110 Stat. 3009, 3009–23, provided in part that: “This section [amending section 623 of this title, enacting provisions set out as notes under section 623 of this title, and repealing provisions set out as a note under section 623 of this title] may be cited as the ‘Age Discrimination in Employment Amendments of 1996’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–433, § 1, Oct. 16, 1990, 104 Stat. 978, provided that: “This Act [amending sections 623, 626, and 630 of this title and enacting provisions set out as notes under this section and sections 623 and 626 of this title] may be cited as the ‘Older Workers Benefit Protection Act’.”
+Pub. L. 101–433, § 1, Oct. 16, 1990, 104 Stat. 978, provided that: “This Act [amending sections 623, 626, and 630 of this title and enacting provisions set out as notes under this section and sections 623 and 626 of this title] may be cited as the ‘Older Workers Benefit Protection Act’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–592, § 1, Oct. 31, 1986, 100 Stat. 3342, provided that: “This Act [amending sections 623, 630, and 631 of this title and enacting provisions set out as notes under sections 622 to 624 and 631 of this title] may be cited as the ‘Age Discrimination in Employment Amendments of 1986’.”
+Pub. L. 99–592, § 1, Oct. 31, 1986, 100 Stat. 3342, provided that: “This Act [amending sections 623, 630, and 631 of this title and enacting provisions set out as notes under sections 622 to 624 and 631 of this title] may be cited as the ‘Age Discrimination in Employment Amendments of 1986’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–256, § 1, Apr. 6, 1978, 92 Stat. 189, provided that: “This Act [amending sections 623, 624, 626, 631, 633a, and 634 of this title and sections 8335 and 8339 of Title 5, Government Organization and Employees, repealing section 3322 of Title 5, and enacting provisions set out as notes under sections 623, 626, 631, and 633a of this title] may be cited as the ‘Age Discrimination in Employment Act Amendments of 1978’.”
+Pub. L. 95–256, § 1, Apr. 6, 1978, 92 Stat. 189, provided that: “This Act [amending sections 623, 624, 626, 631, 633a, and 634 of this title and sections 8335 and 8339 of Title 5, Government Organization and Employees, repealing section 3322 of Title 5, and enacting provisions set out as notes under sections 623, 626, 631, and 633a of this title] may be cited as the ‘Age Discrimination in Employment Act Amendments of 1978’.”
 
 **Short Title**
 
-Pub. L. 90–202, § 1, Dec. 15, 1967, 81 Stat. 602, provided: “That this Act [enacting this chapter] may be cited as the ‘Age Discrimination in Employment Act of 1967’.”
+Pub. L. 90–202, § 1, Dec. 15, 1967, 81 Stat. 602, provided: “That this Act [enacting this chapter] may be cited as the ‘Age Discrimination in Employment Act of 1967’.”
 
 **Severability**
 
-Pub. L. 101–433, title III, § 301, Oct. 16, 1990, 104 Stat. 984, provided that: “If any provision of this Act [see Short Title of 1990 Amendment note above], or an amendment made by this Act, or the application of such provision to any person or circumstances is held to be invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons and circumstances, shall not be affected thereby.”
+Pub. L. 101–433, title III, § 301, Oct. 16, 1990, 104 Stat. 984, provided that: “If any provision of this Act [see Short Title of 1990 Amendment note above], or an amendment made by this Act, or the application of such provision to any person or circumstances is held to be invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons and circumstances, shall not be affected thereby.”
 
 **Congressional Finding**
 
-Pub. L. 101–433, title I, § 101, Oct. 16, 1990, 104 Stat. 978, provided that: “The Congress finds that, as a result of the decision of the Supreme Court in Public Employees Retirement System of Ohio v. Betts, 109 S.Ct. 256 (1989), legislative action is necessary to restore the original congressional intent in passing and amending the Age Discrimination in Employment Act of 1967 (29 U.S.C. 621 et seq.), which was to prohibit discrimination against older workers in all employee benefits except when age-based reductions in employee benefit plans are justified by significant cost considerations.”
+Pub. L. 101–433, title I, § 101, Oct. 16, 1990, 104 Stat. 978, provided that: “The Congress finds that, as a result of the decision of the Supreme Court in Public Employees Retirement System of Ohio v. Betts, 109 S.Ct. 256 (1989), legislative action is necessary to restore the original congressional intent in passing and amending the Age Discrimination in Employment Act of 1967 (29 U.S.C. 621 et seq.), which was to prohibit discrimination against older workers in all employee benefits except when age-based reductions in employee benefit plans are justified by significant cost considerations.”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
-## § 622. Education and research program; recommendation to Congress
+## § 622. Education and research program; recommendation to Congress
 
 **(a)** The Secretary of Labor shall undertake studies and provide information to labor unions, management, and the general public concerning the needs and abilities of older workers, and their potentials for continued employment and contribution to the economy. In order to achieve the purposes of this chapter, the Secretary of Labor shall carry on a continuing program of education and information, under which he may, among other measures—
 
@@ -85,7 +85,7 @@ Functions vested by this section in Secretary of Labor or Civil Service Commissi
 
 **(b)** Not later than six months after the effective date of this chapter, the Secretary shall recommend to the Congress any measures he may deem desirable to change the lower or upper age limits set forth in section 631 of this title.
 
-(Pub. L. 90–202, § 3, Dec. 15, 1967, 81 Stat. 602.)
+(Pub. L. 90–202, § 3, Dec. 15, 1967, 81 Stat. 602.)
 
 **Editorial Notes**
 
@@ -97,7 +97,7 @@ The effective date of this chapter, referred to in subsec. (b), means the effect
 
 **Study and Proposed Guidelines Relating to Police Officers and Firefighters**
 
-Pub. L. 99–592, § 5, Oct. 31, 1986, 100 Stat. 3343, provided that:
+Pub. L. 99–592, § 5, Oct. 31, 1986, 100 Stat. 3343, provided that:
 
 > **“(a) Study.—** Not later than 4 years after the date of enactment of this Act [Oct. 31, 1986], the Secretary of Labor and the Equal Employment Opportunity Commission, jointly, shall—
 
@@ -119,7 +119,7 @@ Pub. L. 99–592, § 5, Oct. 31, 1986, 100 Stat. 3343, provided that:
 
 > **“(c) Proposed Guidelines.—** Not later than 5 years after the date of the enactment of this Act [Oct. 31, 1986], the Equal Employment Opportunity Commission shall propose, in accordance with subchapter II of chapter 5 of title 5 of the United States Code, guidelines for the administration and use of physical and mental fitness tests to measure the ability and competency of police officers and firefighters to perform the requirements of their jobs.”
 
-## § 623. Prohibition of age discrimination
+## § 623. Prohibition of age discrimination
 
 **(a) Employer practices** It shall be unlawful for an employer—
 
@@ -167,7 +167,7 @@ Notwithstanding clause (i) or (ii) of subparagraph (B), no such employee benefit
 
 **(3)** to discharge or otherwise discipline an individual for good cause.
 
-**(g) Repealed. Pub. L. 101–239, title VI, § 6202(b)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2233**
+**(g) Repealed. Pub. L. 101–239, title VI, § 6202(b)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2233**
 
 **(h) Practices of foreign corporations controlled by American employers; foreign employers not controlled by American employers; factors determining control**
 
@@ -211,11 +211,11 @@ The provisions of this paragraph shall apply in accordance with regulations of t
 
 **(6)** A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the subsidized portion of any early retirement benefit is disregarded in determining benefit accruals or it is a plan permitted by subsection (m)..1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
-**(7)** Any regulations prescribed by the Secretary of the Treasury pursuant to clause (v) of section 411(b)(1)(H) of title 26 and subparagraphs (C) and (D) 2
+**(7)** Any regulations prescribed by the Secretary of the Treasury pursuant to clause (v) of section 411(b)(1)(H) of title 26 and subparagraphs (C) and (D) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of section 411(b)(2) of title 26 shall apply with respect to the requirements of this subsection in the same manner and to the same extent as such regulations apply with respect to the requirements of such sections 411(b)(1)(H) and 411(b)(2).
 
@@ -257,9 +257,9 @@ of section 411(b)(2) of title 26 shall apply with respect to the requirements of
 
 **(II)** the participant’s accrued benefit for years of service after the effective date of the amendment, determined under the terms of the plan as in effect after the amendment.
 
-**(iv) Special rules for early retirement subsidies.—** For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount 3
+**(iv) Special rules for early retirement subsidies.—** For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount 3
 
-<sup>3</sup>  So in original. Probably should be “similar account”.
+<sup>3</sup> So in original. Probably should be “similar account”.
 
 with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
 
@@ -297,7 +297,7 @@ with the amount of any early retirement benefit or retirement-type subsidy for t
 
 **(j) Employment as firefighter or law enforcement officer** It shall not be unlawful for an employer which is a State, a political subdivision of a State, an agency or instrumentality of a State or a political subdivision of a State, or an interstate agency to fail or refuse to hire or to discharge any individual because of such individual’s age if such action is taken—
 
-**(1)** with respect to the employment of an individual as a firefighter or as a law enforcement officer, the employer has complied with section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996 <sup>2</sup> if the individual was discharged after the date described in such section, and the individual has attained—
+**(1)** with respect to the employment of an individual as a firefighter or as a law enforcement officer, the employer has complied with section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996 <sup>2</sup> if the individual was discharged after the date described in such section, and the individual has attained—
 
 **(A)** the age of hiring or retirement, respectively, in effect under applicable State or local law on March 3, 1983; or
 
@@ -399,19 +399,19 @@ are deducted from severance pay made available as a result of the contingent eve
 
 **(3)** any employee who attains the minimum age and satisfies all non-age-based conditions for receiving a benefit under the plan has an opportunity lasting not less than 180 days to elect to retire and to receive the maximum benefit that could then be elected by a younger but otherwise similarly situated employee, and the plan does not require retirement to occur sooner than 180 days after such election.
 
-(Pub. L. 90–202, § 4, Dec. 15, 1967, 81 Stat. 603; Pub. L. 95–256, § 2(a), Apr. 6, 1978, 92 Stat. 189; Pub. L. 97–248, title I, § 116(a), Sept. 3, 1982, 96 Stat. 353; Pub. L. 98–369, div. B, title III, § 2301(b), July 18, 1984, 98 Stat. 1063; Pub. L. 98–459, title VIII, § 802(b), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, § 9201(b)(1), (3), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, § 9201, Oct. 21, 1986, 100 Stat. 1973; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–592, §§ 2(a), (b), 3(a), Oct. 31, 1986, 100 Stat. 3342; Pub. L. 101–239, title VI, § 6202(b)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 101–433, title I, § 103, Oct. 16, 1990, 104 Stat. 978; Pub. L. 101–521, Nov. 5, 1990, 104 Stat. 2287; Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119[1(b)]], Sept. 30, 1996, 110 Stat. 3009, 3009–23; Pub. L. 105–244, title IX, § 941(a), (b), Oct. 7, 1998, 112 Stat. 1834, 1835; Pub. L. 109–280, title VII, § 701(c), title XI, § 1104(a)(2), Aug. 17, 2006, 120 Stat. 988, 1058; Pub. L. 110–458, title I, § 123(a), Dec. 23, 2008, 122 Stat. 5114; Pub. L. 114–95, title IX, § 9215(e), Dec. 10, 2015, 129 Stat. 2166.)
+(Pub. L. 90–202, § 4, Dec. 15, 1967, 81 Stat. 603; Pub. L. 95–256, § 2(a), Apr. 6, 1978, 92 Stat. 189; Pub. L. 97–248, title I, § 116(a), Sept. 3, 1982, 96 Stat. 353; Pub. L. 98–369, div. B, title III, § 2301(b), July 18, 1984, 98 Stat. 1063; Pub. L. 98–459, title VIII, § 802(b), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, § 9201(b)(1), (3), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, § 9201, Oct. 21, 1986, 100 Stat. 1973; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–592, §§ 2(a), (b), 3(a), Oct. 31, 1986, 100 Stat. 3342; Pub. L. 101–239, title VI, § 6202(b)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 101–433, title I, § 103, Oct. 16, 1990, 104 Stat. 978; Pub. L. 101–521, Nov. 5, 1990, 104 Stat. 2287; Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119[1(b)]], Sept. 30, 1996, 110 Stat. 3009, 3009–23; Pub. L. 105–244, title IX, § 941(a), (b), Oct. 7, 1998, 112 Stat. 1834, 1835; Pub. L. 109–280, title VII, § 701(c), title XI, § 1104(a)(2), Aug. 17, 2006, 120 Stat. 988, 1058; Pub. L. 110–458, title I, § 123(a), Dec. 23, 2008, 122 Stat. 5114; Pub. L. 114–95, title IX, § 9215(e), Dec. 10, 2015, 129 Stat. 2166.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subparagraphs (C) and (D) of section 411(b)(2) of title 26, referred to in subsec. (i)(7), were redesignated subpars. (B) and (C) of section 411(b)(2) of Title 26, Internal Revenue Code, by Pub. L. 101–239, title VII, § 7871(a)(1), Dec. 19, 1989, 103 Stat. 2435.
+Subparagraphs (C) and (D) of section 411(b)(2) of title 26, referred to in subsec. (i)(7), were redesignated subpars. (B) and (C) of section 411(b)(2) of Title 26, Internal Revenue Code, by Pub. L. 101–239, title VII, § 7871(a)(1), Dec. 19, 1989, 103 Stat. 2435.
 
 Section 1054(g)(2)(A) of this title, referred to in subsec. (i)(10)(F), was in the original “section 203(g)(2)(A) of the Employee Retirement Income Security Act of 1974”, and was translated as reading section 204(g)(2)(A) of that Act to reflect the probable intent of Congress, because section 203 does not contain a subsec. (g).
 
-Section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996, referred to in subsec. (j)(1), probably means Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119[2(d)(2)]], Sept. 30, 1996, 110 Stat. 3009, 3009–23, 3009–25, which is set out as a note under this section.
+Section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996, referred to in subsec. (j)(1), probably means Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119[2(d)(2)]], Sept. 30, 1996, 110 Stat. 3009, 3009–23, 3009–25, which is set out as a note under this section.
 
-The Social Security Act, referred to in subsec. (*l*)(1)(A)(ii)(II), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVIII of the Act are classified generally to subchapters II (§ 401 et seq.) and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (*l*)(1)(A)(ii)(II), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVIII of the Act are classified generally to subchapters II (§ 401 et seq.) and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
@@ -419,17 +419,17 @@ The Social Security Act, referred to in subsec. (*l*)(1)(A)(ii)(II), (2)(D)(i), 
 
 2008—Subsec. (i)(10)(B)(i)(III). Pub. L. 110–458 inserted at end “In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest established pursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.”
 
-2006—Subsec. (i)(10). Pub. L. 109–280, § 701(c), added par. (10).
+2006—Subsec. (i)(10). Pub. L. 109–280, § 701(c), added par. (10).
 
-Subsec. (*l*)(1). Pub. L. 109–280, § 1104(a)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and former cls. (i) and (ii) of former subpar. (B) as subcls. (I) and (II) of cl. (ii), respectively, and added subpar. (B).
+Subsec. (*l*)(1). Pub. L. 109–280, § 1104(a)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and former cls. (i) and (ii) of former subpar. (B) as subcls. (I) and (II) of cl. (ii), respectively, and added subpar. (B).
 
-1998—Subsec. (i)(6). Pub. L. 105–244, § 941(b), inserted “or it is a plan permitted by subsection (m).” after “accruals”.
+1998—Subsec. (i)(6). Pub. L. 105–244, § 941(b), inserted “or it is a plan permitted by subsection (m).” after “accruals”.
 
-Subsec. (m). Pub. L. 105–244, § 941(a), added subsec. (m).
+Subsec. (m). Pub. L. 105–244, § 941(a), added subsec. (m).
 
-1996—Subsec. (j). Pub. L. 104–208, § 101(a) [title I, § 119[1(b)(1)]], reenacted subsec. (j) of this section, as in effect immediately before Dec. 31, 1993.
+1996—Subsec. (j). Pub. L. 104–208, § 101(a) [title I, § 119[1(b)(1)]], reenacted subsec. (j) of this section, as in effect immediately before Dec. 31, 1993.
 
-Subsec. (j)(1). Pub. L. 104–208, § 101(a) [title I, § 119[1(b)(2)]], substituted “, the employer has complied with section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996 if the individual was discharged after the date described in such section, and the individual has attained—
+Subsec. (j)(1). Pub. L. 104–208, § 101(a) [title I, § 119[1(b)(2)]], substituted “, the employer has complied with section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996 if the individual was discharged after the date described in such section, and the individual has attained—
 
 “(A) the age of hiring or retirement, respectively, in effect under applicable State or local law on March 3, 1983; or
 
@@ -441,15 +441,15 @@ Subsec. (j)(1). Pub. L. 104–208, § 101(a) [title I, § 119[1(b)(2)]], sub
 
 “(II) age 55; and” for “and the individual has attained the age of hiring or retirement in effect under applicable State or local law on March 3, 1983, and”.
 
-1990—Subsec. (f)(2). Pub. L. 101–433, § 103(1), added par. (2) and struck out former par. (2) which read as follows: “to observe the terms of a bona fide seniority system or any bona fide employee benefit plan such as a retirement, pension, or insurance plan, which is not a subterfuge to evade the purposes of this chapter, except that no such employee benefit plan shall excuse the failure to hire any individual, and no such seniority system or employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of such individual; or”.
+1990—Subsec. (f)(2). Pub. L. 101–433, § 103(1), added par. (2) and struck out former par. (2) which read as follows: “to observe the terms of a bona fide seniority system or any bona fide employee benefit plan such as a retirement, pension, or insurance plan, which is not a subterfuge to evade the purposes of this chapter, except that no such employee benefit plan shall excuse the failure to hire any individual, and no such seniority system or employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of such individual; or”.
 
-Subsecs. (i), (j). Pub. L. 101–433, § 103(2), redesignated subsec. (i), relating to employment as firefighter or law enforcement officer, as (j).
+Subsecs. (i), (j). Pub. L. 101–433, § 103(2), redesignated subsec. (i), relating to employment as firefighter or law enforcement officer, as (j).
 
-Subsec. (k). Pub. L. 101–433, § 103(3), added subsec. (k).
+Subsec. (k). Pub. L. 101–433, § 103(3), added subsec. (k).
 
 Subsec. (*l*). Pub. L. 101–521 added cl. (iii) in par. (2)(A), and in par. (2)(D) inserted “and solely in order to make the deduction authorized under this paragraph” after “For purposes of this paragraph” and added cl. (iii).
 
-Pub. L. 101–433, § 103(3), added subsec. (*l*).
+Pub. L. 101–433, § 103(3), added subsec. (*l*).
 
 1989—Subsec. (g). Pub. L. 101–239 struck out subsec. (g) which read as follows:
 
@@ -457,13 +457,13 @@ Pub. L. 101–433, § 103(3), added subsec. (*l*).
 
 “(2) For purposes of paragraph (1), the term ‘group health plan’ has the meaning given to such term in section 162(i)(2) of title 26.”
 
-1986—Subsec. (g)(1). Pub. L. 99–272, § 9201(b)(1), and Pub. L. 99–592, § 2(a), made identical amendments, substituting “or older” for “through 69” in two places.
+1986—Subsec. (g)(1). Pub. L. 99–272, § 9201(b)(1), and Pub. L. 99–592, § 2(a), made identical amendments, substituting “or older” for “through 69” in two places.
 
 Subsec. (g)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-Subsec. (h). Pub. L. 99–272, § 9201(b)(3), and Pub. L. 99–592, § 2(b), made identical amendments, redesignating subsec. (g), relating to practices of foreign corporations controlled by American employers, as (h).
+Subsec. (h). Pub. L. 99–272, § 9201(b)(3), and Pub. L. 99–592, § 2(b), made identical amendments, redesignating subsec. (g), relating to practices of foreign corporations controlled by American employers, as (h).
 
-Subsec. (i). Pub. L. 99–592, § 3, temporarily added subsec. (i) which read as follows: “It shall not be unlawful for an employer which is a State, a political subdivision of a State, an agency or instrumentality of a State or a political subdivision of a State, or an interstate agency to fail or refuse to hire or to discharge any individual because of such individual’s age if such action is taken—
+Subsec. (i). Pub. L. 99–592, § 3, temporarily added subsec. (i) which read as follows: “It shall not be unlawful for an employer which is a State, a political subdivision of a State, an agency or instrumentality of a State or a political subdivision of a State, or an interstate agency to fail or refuse to hire or to discharge any individual because of such individual’s age if such action is taken—
 
 “(1) with respect to the employment of an individual as a firefighter or as a law enforcement officer and the individual has attained the age of hiring or retirement in effect under applicable State or local law on March 3, 1983, and
 
@@ -473,11 +473,11 @@ See Effective and Termination Dates of 1986 Amendments note below.
 
 Pub. L. 99–509 added subsec. (i) relating to employee pension benefit plans.
 
-1984—Subsec. (f)(1). Pub. L. 98–459, § 802(b)(1), inserted “, or where such practices involve an employee in a workplace in a foreign country, and compliance with such subsections would cause such employer, or a corporation controlled by such employer, to violate the laws of the country in which such workplace is located”.
+1984—Subsec. (f)(1). Pub. L. 98–459, § 802(b)(1), inserted “, or where such practices involve an employee in a workplace in a foreign country, and compliance with such subsections would cause such employer, or a corporation controlled by such employer, to violate the laws of the country in which such workplace is located”.
 
-Subsec. (g). Pub. L. 98–459, § 802(b)(2), added subsec. (g) relating to practices of foreign corporations controlled by American employers.
+Subsec. (g). Pub. L. 98–459, § 802(b)(2), added subsec. (g) relating to practices of foreign corporations controlled by American employers.
 
-Subsec. (g)(1). Pub. L. 98–369 inserted “, and any employee’s spouse aged 65 through 69,” after “aged 65 through 69” and “, and the spouse of such employee,” after “as any employee”, in subsec. (g) relating to entitlement to coverage under group health plan.
+Subsec. (g)(1). Pub. L. 98–369 inserted “, and any employee’s spouse aged 65 through 69,” after “aged 65 through 69” and “, and the spouse of such employee,” after “as any employee”, in subsec. (g) relating to entitlement to coverage under group health plan.
 
 1982—Subsec. (g). Pub. L. 97–248 added subsec. (g) relating to entitlement to coverage under group health plans.
 
@@ -491,7 +491,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–458, title I, § 123(b), Dec. 23, 2008, 122 Stat. 5114, provided that: “The amendment made by this section [amending this section] shall take effect as if included in the provisions of the Pension Protection Act of 2006 [Pub. L. 109–280] to which such amendment relates.”
+Pub. L. 110–458, title I, § 123(b), Dec. 23, 2008, 122 Stat. 5114, provided that: “The amendment made by this section [amending this section] shall take effect as if included in the provisions of the Pension Protection Act of 2006 [Pub. L. 109–280] to which such amendment relates.”
 
 **Effective Date of 2006 Amendment**
 
@@ -499,7 +499,7 @@ Amendment by section 701(c) of Pub. L. 109–280 applicable to periods beginning
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–244, title IX, § 941(d), Oct. 7, 1998, 112 Stat. 1835, provided that:
+Pub. L. 105–244, title IX, § 941(d), Oct. 7, 1998, 112 Stat. 1835, provided that:
 
 > **“(1) In general.—** This section [amending this section and enacting provisions set out as a note below] shall take effect on the date of enactment of this Act [Oct. 7, 1998].
 
@@ -507,15 +507,15 @@ Pub. L. 105–244, title IX, § 941(d), Oct. 7, 1998, 112 Stat. 1835, provided
 
 **Effective Date of 1996 Amendment**
 
-Section 101(a) [title I, § 119[3]] of Pub. L. 104–208 provided that:
+Section 101(a) [title I, § 119[3]] of Pub. L. 104–208 provided that:
 
-> **“(a) General Effective Date.—** Except as provided in subsection (b), this title [probably means section 101(a) [title I, § 119] of Pub. L. 104–208, amending this section and enacting and repealing provisions set out as notes under this section] and the amendments made by this title shall take effect on the date of enactment of this Act [Sept. 30, 1996].
+> **“(a) General Effective Date.—** Except as provided in subsection (b), this title [probably means section 101(a) [title I, § 119] of Pub. L. 104–208, amending this section and enacting and repealing provisions set out as notes under this section] and the amendments made by this title shall take effect on the date of enactment of this Act [Sept. 30, 1996].
 
-> **“(b) Special Effective Date.—** The repeal made by section 2(a) and the reenactment made by section 2(b)(1) [probably means section 101(a) [title I, § 119[1(a), (b)(1)]] of Pub. L. 104–208, amending this section and repealing provisions set out as a note under this section] shall take effect on December 31, 1993.”
+> **“(b) Special Effective Date.—** The repeal made by section 2(a) and the reenactment made by section 2(b)(1) [probably means section 101(a) [title I, § 119[1(a), (b)(1)]] of Pub. L. 104–208, amending this section and repealing provisions set out as a note under this section] shall take effect on December 31, 1993.”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–433, title I, § 105, Oct. 16, 1990, 104 Stat. 981, as amended by Pub. L. 102–236, § 9, Dec. 12, 1991, 105 Stat. 1816, provided that:
+Pub. L. 101–433, title I, § 105, Oct. 16, 1990, 104 Stat. 981, as amended by Pub. L. 102–236, § 9, Dec. 12, 1991, 105 Stat. 1816, provided that:
 
 > **“(a) In General.—** Except as otherwise provided in this section, this title [amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title] and the amendments made by this title shall apply only to—
 
@@ -585,7 +585,7 @@ Amendment by Pub. L. 101–239 applicable to items and services furnished after 
 
 **Effective and Termination Dates of 1986 Amendments**
 
-Pub. L. 99–592, § 7, Oct. 31, 1986, 100 Stat. 3344, provided that:
+Pub. L. 99–592, § 7, Oct. 31, 1986, 100 Stat. 3344, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), this Act and the amendments made by this Act [amending this section and sections 630 and 631 of this title and enacting provisions set out as notes under this section and sections 621, 622, 624, and 631 of this title] shall take effect on January 1, 1987, except that with respect to any employee who is subject to a collective-bargaining agreement—
 
@@ -601,9 +601,9 @@ Pub. L. 99–592, § 7, Oct. 31, 1986, 100 Stat. 3344, provided that:
 
 > **“(b) Effect on Existing Causes of Action.—** The amendments made by sections 3 and 4 of this Act [amending this section and section 630 of this title and enacting provisions set out as a note below] shall not apply with respect to any cause of action arising under the Age Discrimination in Employment Act of 1967 [29 U.S.C. 621 et seq.] as in effect before January 1, 1987.”
 
-Pub. L. 99–592, § 3(b), Oct. 31, 1986, 100 Stat. 3342, which provided that the amendment made by section 3(a) of Pub. L. 99–592, which amended this section, was repealed Dec. 31, 1993, was itself repealed, effective Dec. 31, 1993, by Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119[1(a)]], Sept. 30, 1996, 110 Stat. 3009, 3009–23.
+Pub. L. 99–592, § 3(b), Oct. 31, 1986, 100 Stat. 3342, which provided that the amendment made by section 3(a) of Pub. L. 99–592, which amended this section, was repealed Dec. 31, 1993, was itself repealed, effective Dec. 31, 1993, by Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119[1(a)]], Sept. 30, 1996, 110 Stat. 3009, 3009–23.
 
-Pub. L. 99–509, title IX, § 9204, Oct. 21, 1986, 100 Stat. 1979, provided that:
+Pub. L. 99–509, title IX, § 9204, Oct. 21, 1986, 100 Stat. 1979, provided that:
 
 > **“(a) Applicability to Employees with Service after 1988.—**
 
@@ -621,7 +621,7 @@ Pub. L. 99–509, title IX, § 9204, Oct. 21, 1986, 100 Stat. 1979, provided t
 
 > **“(b) Applicability of Amendments Relating to Normal Retirement Age.—** The amendments made by section 9203 [amending sections 1002 and 1052 of this title and sections 410 and 411 of Title 26] shall apply only with respect to plan years beginning on or after January 1, 1988, and only with respect to service performed on or after such date.
 
-> **“(c) Plan Amendments.—** If any amendment made by this subtitle [subtitle C (§§ 9201–9204) of title IX of Pub. L. 99–509, amending this section, sections 1002, 1052, and 1054 of this title, and sections 410 and 411 of Title 26] requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after January 1, 1989, if—
+> **“(c) Plan Amendments.—** If any amendment made by this subtitle [subtitle C (§§ 9201–9204) of title IX of Pub. L. 99–509, amending this section, sections 1002, 1052, and 1054 of this title, and sections 410 and 411 of Title 26] requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after January 1, 1989, if—
 
 > **“(1)** during the period after such amendment takes effect and before such first plan year, the plan is operated in accordance with the requirements of such amendment, and
 
@@ -637,25 +637,25 @@ Amendment by Pub. L. 99–272 effective May 1, 1986, see section 9201(d)(2) of P
 
 **Effective Date of 1984 Amendments**
 
-Pub. L. 98–369, div. B, title III, § 2301(c)(2), July 18, 1984, 98 Stat. 1063, provided that: “The amendment made by subsection (b) [amending this section] shall become effective on January 1, 1985.”
+Pub. L. 98–369, div. B, title III, § 2301(c)(2), July 18, 1984, 98 Stat. 1063, provided that: “The amendment made by subsection (b) [amending this section] shall become effective on January 1, 1985.”
 
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under section 3001 of Title 42, The Public Health and Welfare.
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title I, § 116(c), Sept. 3, 1982, 96 Stat. 354, provided that: “The amendment made by subsection (a) [amending this section] shall become effective on January 1, 1983, and the amendment made by subsection (b) [enacting section 1395y(b)(3) of Title 42, The Public Health and Welfare] shall apply with respect to items and services furnished on or after such date.”
+Pub. L. 97–248, title I, § 116(c), Sept. 3, 1982, 96 Stat. 354, provided that: “The amendment made by subsection (a) [amending this section] shall become effective on January 1, 1983, and the amendment made by subsection (b) [enacting section 1395y(b)(3) of Title 42, The Public Health and Welfare] shall apply with respect to items and services furnished on or after such date.”
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–256, § 2(b), Apr. 6, 1978, 92 Stat. 189, provided that: “The amendment made by subsection (a) of this section [amending this section] shall take effect on the date of enactment of this Act [Apr. 6, 1978], except that, in the case of employees covered by a collective bargaining agreement which is in effect on September 1, 1977, which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 [section 206(d)(4) of this title]), and which would otherwise be prohibited by the amendment made by section 3(a) of this Act [amending section 631 of this title], the amendment made by subsection (a) of this section [amending this section] shall take effect upon the termination of such agreement or on January 1, 1980, whichever occurs first.”
+Pub. L. 95–256, § 2(b), Apr. 6, 1978, 92 Stat. 189, provided that: “The amendment made by subsection (a) of this section [amending this section] shall take effect on the date of enactment of this Act [Apr. 6, 1978], except that, in the case of employees covered by a collective bargaining agreement which is in effect on September 1, 1977, which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 [section 206(d)(4) of this title]), and which would otherwise be prohibited by the amendment made by section 3(a) of this Act [amending section 631 of this title], the amendment made by subsection (a) of this section [amending this section] shall take effect upon the termination of such agreement or on January 1, 1980, whichever occurs first.”
 
 **Regulations**
 
-Pub. L. 101–433, title I, § 104, Oct. 16, 1990, 104 Stat. 981, provided that: “Notwithstanding section 9 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 628), the Equal Employment Opportunity Commission may issue such rules and regulations as the Commission may consider necessary or appropriate for carrying out this title [amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title], and the amendments made by this title, only after consultation with the Secretary of the Treasury and the Secretary of Labor.”
+Pub. L. 101–433, title I, § 104, Oct. 16, 1990, 104 Stat. 981, provided that: “Notwithstanding section 9 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 628), the Equal Employment Opportunity Commission may issue such rules and regulations as the Commission may consider necessary or appropriate for carrying out this title [amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title], and the amendments made by this title, only after consultation with the Secretary of the Treasury and the Secretary of Labor.”
 
 **Construction of 1998 Amendment**
 
-Pub. L. 105–244, title IX, § 941(c), Oct. 7, 1998, 112 Stat. 1835, provided that:
+Pub. L. 105–244, title IX, § 941(c), Oct. 7, 1998, 112 Stat. 1835, provided that:
 
 > “Nothing in the amendment made by subsection (a) [amending this section] shall affect the application of section 4 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 623) with respect to—
 
@@ -667,9 +667,9 @@ Pub. L. 105–244, title IX, § 941(c), Oct. 7, 1998, 112 Stat. 1835, provided
 
 **Construction of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119[1(c)]], Sept. 30, 1996, 110 Stat. 3009–24, provided that:
+Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119[1(c)]], Sept. 30, 1996, 110 Stat. 3009–24, provided that:
 
-> “Nothing in the repeal, reenactment, and amendment made by subsections (a) and (b) [section 101(a) [title I, § 119[1(a), (b)]] of Pub. L. 104–208, amending this section and repealing provisions set out as a note under this section] shall be construed to make lawful the failure or refusal to hire, or the discharge of, an individual pursuant to a law that—
+> “Nothing in the repeal, reenactment, and amendment made by subsections (a) and (b) [section 101(a) [title I, § 119[1(a), (b)]] of Pub. L. 104–208, amending this section and repealing provisions set out as a note under this section] shall be construed to make lawful the failure or refusal to hire, or the discharge of, an individual pursuant to a law that—
 
 > **“(1)** was enacted after March 3, 1983 and before the date of enactment of the Age Discrimination in Employment Amendments of 1996 [Sept. 30, 1996]; and
 
@@ -677,15 +677,15 @@ Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119[1(c)]], Sept.
 
 **Study and Guidelines for Performance Tests**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119[2]], Sept. 30, 1996, 110 Stat. 3009, 3009–24, required the Secretary of Health and Human Services to conduct a study on tests assessing the abilities important for the completion of public safety tasks performed by law enforcement officers and firefighters no later than 3 years after Sept. 30, 1996, and to develop and issue advisory guidelines based on the results of the study no later than 4 years after Sept. 30, 1996, and authorized appropriations.
+Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119[2]], Sept. 30, 1996, 110 Stat. 3009, 3009–24, required the Secretary of Health and Human Services to conduct a study on tests assessing the abilities important for the completion of public safety tasks performed by law enforcement officers and firefighters no later than 3 years after Sept. 30, 1996, and to develop and issue advisory guidelines based on the results of the study no later than 4 years after Sept. 30, 1996, and authorized appropriations.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
-## § 624. Study by Secretary of Labor; reports to President and Congress; scope of study; implementation of study; transmittal date of reports
+## § 624. Study by Secretary of Labor; reports to President and Congress; scope of study; implementation of study; transmittal date of reports
 
 **(a)**
 
@@ -703,7 +703,7 @@ Functions vested by this section in Secretary of Labor or Civil Service Commissi
 
 **(b)** The report required by subsection (a) of this section shall be transmitted to the President and to the Congress as an interim report not later than January 1, 1981, and in final form not later than January 1, 1982.
 
-(Pub. L. 90–202, § 5, Dec. 15, 1967, 81 Stat. 604; Pub. L. 95–256, § 6, Apr. 6, 1978, 92 Stat. 192.)
+(Pub. L. 90–202, § 5, Dec. 15, 1967, 81 Stat. 604; Pub. L. 95–256, § 6, Apr. 6, 1978, 92 Stat. 192.)
 
 **Editorial Notes**
 
@@ -717,9 +717,9 @@ Section 3(a) of the Age Discrimination in Employment Act Amendments of 1978, ref
 
 **Study To Analyze Potential Consequences of Elimination of Mandatory Retirement on Institutions of Higher Education**
 
-Pub. L. 99–592, § 6(c), Oct. 31, 1986, 100 Stat. 3344, required the Equal Employment Opportunity Commission, not later than 12 months after Oct. 31, 1986, to enter into an agreement with the National Academy of Sciences for the conduct of a study to analyze the potential consequences of the elimination of mandatory retirement on institutions of higher education and to report the results of the study, with recommendations, to the President and to Congress not later than 5 years after Oct. 31, 1986.
+Pub. L. 99–592, § 6(c), Oct. 31, 1986, 100 Stat. 3344, required the Equal Employment Opportunity Commission, not later than 12 months after Oct. 31, 1986, to enter into an agreement with the National Academy of Sciences for the conduct of a study to analyze the potential consequences of the elimination of mandatory retirement on institutions of higher education and to report the results of the study, with recommendations, to the President and to Congress not later than 5 years after Oct. 31, 1986.
 
-## § 625. Administration
+## § 625. Administration
 
 The Secretary shall have the power—
 
@@ -731,15 +731,15 @@ to make delegations, to appoint such agents and employees, and to pay for techni
 
 to cooperate with regional, State, local, and other agencies, and to cooperate with and furnish technical assistance to employers, labor organizations, and employment agencies to aid in effectuating the purposes of this chapter.
 
-(Pub. L. 90–202, § 6, Dec. 15, 1967, 81 Stat. 604.)
+(Pub. L. 90–202, § 6, Dec. 15, 1967, 81 Stat. 604.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions relating to age discrimination administration and enforcement vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+Functions relating to age discrimination administration and enforcement vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
-## § 626. Recordkeeping, investigation, and enforcement
+## § 626. Recordkeeping, investigation, and enforcement
 
 **(a) Attendance of witnesses; investigations, inspections, records, and homework regulations**
 
@@ -809,25 +809,25 @@ Section 259 of this title shall apply to actions under this chapter. If a charge
 
 **(4)** No waiver agreement may affect the Commission’s rights and responsibilities to enforce this chapter. No waiver may be used to justify interfering with the protected right of an employee to file a charge or participate in an investigation or proceeding conducted by the Commission.
 
-(Pub. L. 90–202, § 7, Dec. 15, 1967, 81 Stat. 604; Pub. L. 95–256, § 4(a), (b)(1), (c)(1), Apr. 6, 1978, 92 Stat. 190, 191; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 101–433, title II, § 201, Oct. 16, 1990, 104 Stat. 983; Pub. L. 102–166, title I, § 115, Nov. 21, 1991, 105 Stat. 1079; Pub. L. 111–2, § 4, Jan. 29, 2009, 123 Stat. 6.)
+(Pub. L. 90–202, § 7, Dec. 15, 1967, 81 Stat. 604; Pub. L. 95–256, § 4(a), (b)(1), (c)(1), Apr. 6, 1978, 92 Stat. 190, 191; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 101–433, title II, § 201, Oct. 16, 1990, 104 Stat. 983; Pub. L. 102–166, title I, § 115, Nov. 21, 1991, 105 Stat. 1079; Pub. L. 111–2, § 4, Jan. 29, 2009, 123 Stat. 6.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2009—Subsec. (d). Pub. L. 111–2, § 4(1)(B)–(3), inserted “(1)” before “No civil” and “(2)” before “Upon receiving” and added par. (3).
+2009—Subsec. (d). Pub. L. 111–2, § 4(1)(B)–(3), inserted “(1)” before “No civil” and “(2)” before “Upon receiving” and added par. (3).
 
-Pub. L. 111–2, § 4(1)(A), which directed amendment of first sentence by redesignating pars. (1) and (2) as subpars. (A) and (B), respectively, was executed by making the redesignation in the second sentence to reflect the probable intent of Congress.
+Pub. L. 111–2, § 4(1)(A), which directed amendment of first sentence by redesignating pars. (1) and (2) as subpars. (A) and (B), respectively, was executed by making the redesignation in the second sentence to reflect the probable intent of Congress.
 
 1991—Subsec. (e). Pub. L. 102–166 struck out par. (1) designation, substituted “Section” for “Sections 255 and”, inserted at end “If a charge filed with the Commission under this chapter is dismissed or the proceedings of the Commission are otherwise terminated by the Commission, the Commission shall notify the person aggrieved. A civil action may be brought under this section by a person defined in section 630(a) of this title against the respondent named in the charge within 90 days after the date of the receipt of such notice.”, and struck out par. (2) which read as follows: “For the period during which the Equal Employment Opportunity Commission is attempting to effect voluntary compliance with requirements of this chapter through informal methods of conciliation, conference, and persuasion pursuant to subsection (b), the statute of limitations as provided in section 255 of this title shall be tolled, but in no event for a period in excess of one year.”
 
 1990—Subsec. (f). Pub. L. 101–433 added subsec. (f).
 
-1978—Subsec. (c). Pub. L. 95–256, § 4(a), designated existing provisions as par. (1) and added par. (2).
+1978—Subsec. (c). Pub. L. 95–256, § 4(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d). Pub. L. 95–256, § 4(b)(1), substituted references to the filing of a charge with the Secretary alleging unlawful discrimination for references to the filing with the Secretary of notice of intent to sue.
+Subsec. (d). Pub. L. 95–256, § 4(b)(1), substituted references to the filing of a charge with the Secretary alleging unlawful discrimination for references to the filing with the Secretary of notice of intent to sue.
 
-Subsec. (e). Pub. L. 95–256, § 4(c)(1), designated existing provisions as par. (1) and added par. (2).
+Subsec. (e). Pub. L. 95–256, § 4(c)(1), designated existing provisions as par. (1) and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -841,65 +841,65 @@ Amendment by Pub. L. 102–166 effective Nov. 21, 1991, except as otherwise prov
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–433, title II, § 202(a), Oct. 16, 1990, 104 Stat. 984, provided that: “The amendment made by section 201 [amending this section] shall not apply with respect to waivers that occur before the date of enactment of this Act [Oct. 16, 1990].”
+Pub. L. 101–433, title II, § 202(a), Oct. 16, 1990, 104 Stat. 984, provided that: “The amendment made by section 201 [amending this section] shall not apply with respect to waivers that occur before the date of enactment of this Act [Oct. 16, 1990].”
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–256, § 4(b)(2), Apr. 6, 1978, 92 Stat. 190, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall take effect with respect to civil actions brought after the date of enactment of this Act [Apr. 6, 1978].”
+Pub. L. 95–256, § 4(b)(2), Apr. 6, 1978, 92 Stat. 190, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall take effect with respect to civil actions brought after the date of enactment of this Act [Apr. 6, 1978].”
 
-Pub. L. 95–256, § 4(c)(2), Apr. 6, 1978, 92 Stat. 191, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall take effect with respect to conciliations commenced by the Secretary of Labor after the date of enactment of this Act [Apr. 6, 1978].”
+Pub. L. 95–256, § 4(c)(2), Apr. 6, 1978, 92 Stat. 191, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall take effect with respect to conciliations commenced by the Secretary of Labor after the date of enactment of this Act [Apr. 6, 1978].”
 
 **Rule on Waivers**
 
-Pub. L. 101–433, title II, § 202(b), Oct. 16, 1990, 104 Stat. 984, provided that: “Effective on the date of enactment of this Act [Oct. 16, 1990], the rule on waivers issued by the Equal Employment Opportunity Commission and contained in section 1627.16(c) of title 29, Code of Federal Regulations, shall have no force and effect.”
+Pub. L. 101–433, title II, § 202(b), Oct. 16, 1990, 104 Stat. 984, provided that: “Effective on the date of enactment of this Act [Oct. 16, 1990], the rule on waivers issued by the Equal Employment Opportunity Commission and contained in section 1627.16(c) of title 29, Code of Federal Regulations, shall have no force and effect.”
 
 **Age Discrimination Claims Assistance**
 
-Pub. L. 100–283, Apr. 7, 1988, 102 Stat. 78, as amended by Pub. L. 101–504, § 2, Nov. 3, 1990, 104 Stat. 1298, provided extension period for filing civil actions under this section, such period consisting of 450 days beginning on Apr. 7, 1988, in cases where a charge was timely filed with the Equal Employment Opportunity Commission after Dec. 31, 1983, and 450 days beginning on Nov. 3, 1990, in cases where a charge was timely filed after Apr. 6, 1985, but the Commission did not, within the applicable period set forth in subsec. (e) of this section either eliminate the alleged unlawful practice or notify the complainant, in writing, of the disposition of the charge and of right of such person to bring civil action on such claim; required the Commission to provide notice regarding claims for which extension period was applicable; and required the Commission to submit reports to Congress containing, among other things, information as to number of persons eligible for extension period and number of persons who were provided notice regarding claims for which extension period was provided.
+Pub. L. 100–283, Apr. 7, 1988, 102 Stat. 78, as amended by Pub. L. 101–504, § 2, Nov. 3, 1990, 104 Stat. 1298, provided extension period for filing civil actions under this section, such period consisting of 450 days beginning on Apr. 7, 1988, in cases where a charge was timely filed with the Equal Employment Opportunity Commission after Dec. 31, 1983, and 450 days beginning on Nov. 3, 1990, in cases where a charge was timely filed after Apr. 6, 1985, but the Commission did not, within the applicable period set forth in subsec. (e) of this section either eliminate the alleged unlawful practice or notify the complainant, in writing, of the disposition of the charge and of right of such person to bring civil action on such claim; required the Commission to provide notice regarding claims for which extension period was applicable; and required the Commission to submit reports to Congress containing, among other things, information as to number of persons eligible for extension period and number of persons who were provided notice regarding claims for which extension period was provided.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-“Equal Employment Opportunity Commission” and “Commission” substituted for “Secretary”, meaning Secretary of Labor, pursuant to Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+“Equal Employment Opportunity Commission” and “Commission” substituted for “Secretary”, meaning Secretary of Labor, pursuant to Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
-## § 627. Notices to be posted
+## § 627. Notices to be posted
 
 Every employer, employment agency, and labor organization shall post and keep posted in conspicuous places upon its premises a notice to be prepared or approved by the Equal Employment Opportunity Commission setting forth information as the Commission deems appropriate to effectuate the purposes of this chapter.
 
-(Pub. L. 90–202, § 8, Dec. 15, 1967, 81 Stat. 605; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781.)
+(Pub. L. 90–202, § 8, Dec. 15, 1967, 81 Stat. 605; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-“Equal Employment Opportunity Commission” and “Commission” substituted in text for “Secretary”, meaning Secretary of Labor, pursuant to Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+“Equal Employment Opportunity Commission” and “Commission” substituted in text for “Secretary”, meaning Secretary of Labor, pursuant to Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
-## § 628. Rules and regulations; exemptions
+## § 628. Rules and regulations; exemptions
 
 In accordance with the provisions of subchapter II of chapter 5 of title 5, the Equal Employment Opportunity Commission may issue such rules and regulations as it may consider necessary or appropriate for carrying out this chapter, and may establish such reasonable exemptions to and from any or all provisions of this chapter as it may find necessary and proper in the public interest.
 
-(Pub. L. 90–202, § 9, Dec. 15, 1967, 81 Stat. 605; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781.)
+(Pub. L. 90–202, § 9, Dec. 15, 1967, 81 Stat. 605; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-“Equal Employment Opportunity Commission” and “it” substituted in text for “Secretary of Labor” and “he”, respectively, pursuant to Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+“Equal Employment Opportunity Commission” and “it” substituted in text for “Secretary of Labor” and “he”, respectively, pursuant to Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
-## § 629. Criminal penalties
+## § 629. Criminal penalties
 
 Whoever shall forcibly resist, oppose, impede, intimidate or interfere with a duly authorized representative of the Equal Employment Opportunity Commission while it is engaged in the performance of duties under this chapter shall be punished by a fine of not more than $500 or by imprisonment for not more than one year, or by both: *Provided, however*, That no person shall be imprisoned under this section except when there has been a prior conviction here­under.
 
-(Pub. L. 90–202, § 10, Dec. 15, 1967, 81 Stat. 605; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781.)
+(Pub. L. 90–202, § 10, Dec. 15, 1967, 81 Stat. 605; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-“Equal Employment Opportunity Commission” and “it” substituted in text for “Secretary”, meaning Secretary of Labor, and “he”, respectively, pursuant to Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+“Equal Employment Opportunity Commission” and “it” substituted in text for “Secretary”, meaning Secretary of Labor, and “he”, respectively, pursuant to Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
-## § 630. Definitions
+## § 630. Definitions
 
 For the purposes of this chapter—
 
@@ -937,21 +937,21 @@ For the purposes of this chapter—
 
 **(l)** The term “compensation, terms, conditions, or privileges of employment” encompasses all employee benefits, including such benefits provided pursuant to a bona fide employee benefit plan.
 
-(Pub. L. 90–202, § 11, Dec. 15, 1967, 81 Stat. 605; Pub. L. 93–259, § 28(a)(1)–(4), Apr. 8, 1974, 88 Stat. 74; Pub. L. 98–459, title VIII, § 802(a), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–592, § 4, Oct. 31, 1986, 100 Stat. 3343; Pub. L. 101–433, title I, § 102, Oct. 16, 1990, 104 Stat. 978.)
+(Pub. L. 90–202, § 11, Dec. 15, 1967, 81 Stat. 605; Pub. L. 93–259, § 28(a)(1)–(4), Apr. 8, 1974, 88 Stat. 74; Pub. L. 98–459, title VIII, § 802(a), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–592, § 4, Oct. 31, 1986, 100 Stat. 3343; Pub. L. 101–433, title I, § 102, Oct. 16, 1990, 104 Stat. 978.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Labor Relations Act, referred to in subsec. (e)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
+The National Labor Relations Act, referred to in subsec. (e)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
 
-The Railway Labor Act, referred to in subsec. (e)(1), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (e)(1), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
-The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (h), is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, which is classified principally to chapter 11 (§ 401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title, and Tables.
+The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (h), is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, which is classified principally to chapter 11 (§ 401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title, and Tables.
 
 For definition of Canal Zone, referred to in subsec. (i), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 **Amendments**
 
@@ -961,11 +961,11 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7
 
 1984—Subsec. (f). Pub. L. 98–459 inserted provision defining “employee” as including any individual who is a citizen of the United States employed by an employer in a workplace in a foreign country.
 
-1974—Subsec. (b). Pub. L. 93–259, § 28(a)(1), (2), substituted in first sentence “twenty” for “twenty-five” and, in second sentence, defined term “employer” to include a State or political subdivision of a State and any agency or instrumentality of a State or a political subdivision of a State, and any interstate agency, and deleted text excluding from such term a State or political subdivision thereof.
+1974—Subsec. (b). Pub. L. 93–259, § 28(a)(1), (2), substituted in first sentence “twenty” for “twenty-five” and, in second sentence, defined term “employer” to include a State or political subdivision of a State and any agency or instrumentality of a State or a political subdivision of a State, and any interstate agency, and deleted text excluding from such term a State or political subdivision thereof.
 
-Subsec. (c). Pub. L. 93–259, § 28(a)(3), struck out text excluding from term “employment agency” an agency of a State or political subdivision of a State, but including the United States Employment Service and the system of State and local employment services receiving Federal assistance.
+Subsec. (c). Pub. L. 93–259, § 28(a)(3), struck out text excluding from term “employment agency” an agency of a State or political subdivision of a State, but including the United States Employment Service and the system of State and local employment services receiving Federal assistance.
 
-Subsec. (f). Pub. L. 93–259, § 28(a)(4), excepted from the term “employee” elected public officials, persons chosen by such officials for such officials’ personal staff, appointees on policymaking level, and immediate advisers with respect to exercise of constitutional or legal powers of the public office but excluded from such exemption employees subject to civil laws of a State government, governmental agency, or political subdivision.
+Subsec. (f). Pub. L. 93–259, § 28(a)(4), excepted from the term “employee” elected public officials, persons chosen by such officials for such officials’ personal staff, appointees on policymaking level, and immediate advisers with respect to exercise of constitutional or legal powers of the public office but excluded from such exemption employees subject to civil laws of a State government, governmental agency, or political subdivision.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -989,9 +989,9 @@ Amendment by Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L
 
 **Transfer of Functions**
 
-Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
-## § 631. Age limits
+## § 631. Age limits
 
 **(a) Individuals at least 40 years of age**
 
@@ -1007,7 +1007,7 @@ In the case of any personnel action affecting employees or applicants for employ
 
 **(2)** In applying the retirement benefit test of paragraph (1) of this subsection, if any such retirement benefit is in a form other than a straight life annuity (with no ancillary benefits), or if employees contribute to any such plan or make rollover contributions, such benefit shall be adjusted in accordance with regulations prescribed by the Equal Employment Opportunity Commission, after consultation with the Secretary of the Treasury, so that the benefit is the equivalent of a straight life annuity (with no ancillary benefits) under a plan to which employees do not contribute and under which no rollover contributions are made.
 
-(Pub. L. 90–202, § 12, Dec. 15, 1967, 81 Stat. 607; Pub. L. 95–256, § 3(a), (b)(3), Apr. 6, 1978, 92 Stat. 189, 190; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 98–459, title VIII, § 802(c)(1), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, § 9201(b)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–592, §§ 2(c), 6(a), Oct. 31, 1986, 100 Stat. 3342, 3344; Pub. L. 101–239, title VI, § 6202(b)(3)(C)(ii), Dec. 19, 1989, 103 Stat. 2233.)
+(Pub. L. 90–202, § 12, Dec. 15, 1967, 81 Stat. 607; Pub. L. 95–256, § 3(a), (b)(3), Apr. 6, 1978, 92 Stat. 189, 190; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 98–459, title VIII, § 802(c)(1), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, § 9201(b)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–592, §§ 2(c), 6(a), Oct. 31, 1986, 100 Stat. 3342, 3344; Pub. L. 101–239, title VI, § 6202(b)(3)(C)(ii), Dec. 19, 1989, 103 Stat. 2233.)
 
 **Editorial Notes**
 
@@ -1015,17 +1015,17 @@ In the case of any personnel action affecting employees or applicants for employ
 
 1989—Subsec. (a). Pub. L. 101–239 struck out “(except the provisions of section 623(g) of this title)” after “in this chapter”.
 
-1986—Subsec. (a). Pub. L. 99–592, § 2(c)(1), which directed that “but less than seventy years of age” be struck out was executed by striking out “but less than 70 years of age” after “40 years of age” as the probable intent of Congress.
+1986—Subsec. (a). Pub. L. 99–592, § 2(c)(1), which directed that “but less than seventy years of age” be struck out was executed by striking out “but less than 70 years of age” after “40 years of age” as the probable intent of Congress.
 
 Pub. L. 99–272 inserted “(except the provisions of section 623(g) of this title)” after “this chapter”.
 
-Subsec. (c)(1). Pub. L. 99–592, § 2(c)(2), which directed that “but not seventy years of age,” be struck out was executed by striking out “but not 70 years of age,” after “65 years of age” as the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 99–592, § 2(c)(2), which directed that “but not seventy years of age,” be struck out was executed by striking out “but not 70 years of age,” after “65 years of age” as the probable intent of Congress.
 
-Subsec. (d). Pub. L. 99–592, § 6(a), (b), temporarily added subsec. (d) which read as follows: “Nothing in this chapter shall be construed to prohibit compulsory retirement of any employee who has attained 70 years of age, and who is serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) at an institution of higher education (as defined by section 1141(a) of title 20).” See Effective and Termination Dates of 1986 Amendments note below.
+Subsec. (d). Pub. L. 99–592, § 6(a), (b), temporarily added subsec. (d) which read as follows: “Nothing in this chapter shall be construed to prohibit compulsory retirement of any employee who has attained 70 years of age, and who is serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) at an institution of higher education (as defined by section 1141(a) of title 20).” See Effective and Termination Dates of 1986 Amendments note below.
 
 1984—Subsec. (c)(1). Pub. L. 98–459 substituted “$44,000” for “$27,000”.
 
-1978—Pub. L. 95–256, § 3(a), designated existing provisions as subsec. (a), substituted “40 years of age but less than 70 years of age” for “forty years of age but less than sixty-five years of age”, added subsecs. (b) and (c), and temporarily added subsec. (d). See Effective and Termination Dates of 1978 Amendment note below.
+1978—Pub. L. 95–256, § 3(a), designated existing provisions as subsec. (a), substituted “40 years of age but less than 70 years of age” for “forty years of age but less than sixty-five years of age”, added subsecs. (b) and (c), and temporarily added subsec. (d). See Effective and Termination Dates of 1978 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1037,17 +1037,17 @@ Amendment by Pub. L. 101–239 applicable to items and services furnished after 
 
 Amendment by Pub. L. 99–592 effective Jan. 1, 1987, with certain exceptions, see section 7(a) of Pub. L. 99–592 set out as a note under section 623 of this title.
 
-Pub. L. 99–592, § 6(b), Oct. 31, 1986, 100 Stat. 3344, provided that: “The amendment made by subsection (a) of this section [amending this section] is repealed December 31, 1993.”
+Pub. L. 99–592, § 6(b), Oct. 31, 1986, 100 Stat. 3344, provided that: “The amendment made by subsection (a) of this section [amending this section] is repealed December 31, 1993.”
 
 Amendment by Pub. L. 99–272 effective May 1, 1986, see section 9201(d)(2) of Pub. L. 99–272, set out as an Effective Date of 1986 Amendment note under section 1395p of Title 42, The Public Health and Welfare.
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–459, title VIII, § 802(c)(2), Oct. 9, 1984, 98 Stat. 1792, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall not apply with respect to any individual who retires, or is compelled to retire, before the date of the enactment of this Act [Oct. 9, 1984].”
+Pub. L. 98–459, title VIII, § 802(c)(2), Oct. 9, 1984, 98 Stat. 1792, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall not apply with respect to any individual who retires, or is compelled to retire, before the date of the enactment of this Act [Oct. 9, 1984].”
 
 **Effective and Termination Dates of 1978 Amendment**
 
-Pub. L. 95–256, § 3(b), Apr. 6, 1978, 92 Stat. 190, provided that:
+Pub. L. 95–256, § 3(b), Apr. 6, 1978, 92 Stat. 190, provided that:
 
 > **“(1)** Sections 12(a), 12(c), and 12(d) of the Age Discrimination in Employment Act of 1967, as amended by subsection (a) of this section [subsecs. (a), (c), and (d) of this section] shall take effect on January 1, 1979.
 
@@ -1059,17 +1059,17 @@ Pub. L. 95–256, § 3(b), Apr. 6, 1978, 92 Stat. 190, provided that:
 
 **Transfer of Functions**
 
-“Equal Employment Opportunity Commission” substituted for “Secretary”, meaning Secretary of Labor, in subsec. (c)(2) pursuant to Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+“Equal Employment Opportunity Commission” substituted for “Secretary”, meaning Secretary of Labor, in subsec. (c)(2) pursuant to Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
-## § 632. Omitted
+## § 632. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 90–202, § 13, Dec. 15, 1967, 81 Stat. 607; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781, which required the Equal Employment Opportunity Commission to submit to Congress an annual report on the Commission’s activities including an evaluation and appraisal of the effect of the minimum and maximum ages established by this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 123 of House Document No. 103–7.
+Section, Pub. L. 90–202, § 13, Dec. 15, 1967, 81 Stat. 607; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781, which required the Equal Employment Opportunity Commission to submit to Congress an annual report on the Commission’s activities including an evaluation and appraisal of the effect of the minimum and maximum ages established by this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 123 of House Document No. 103–7.
 
-## § 633. Federal-State relationship
+## § 633. Federal-State relationship
 
 **(a) Federal action superseding State action**
 
@@ -1079,15 +1079,15 @@ Nothing in this chapter shall affect the jurisdiction of any agency of any State
 
 In the case of an alleged unlawful practice occurring in a State which has a law prohibiting discrimination in employment because of age and establishing or authorizing a State authority to grant or seek relief from such discriminatory practice, no suit may be brought under section 626 of this title before the expiration of sixty days after proceedings have been commenced under the State law, unless such proceedings have been earlier terminated: *Provided*, That such sixty-day period shall be extended to one hundred and twenty days during the first year after the effective date of such State law. If any requirement for the commencement of such proceedings is imposed by a State authority other than a requirement of the filing of a written and signed statement of the facts upon which the proceeding is based, the proceeding shall be deemed to have been commenced for the purposes of this subsection at the time such statement is sent by registered mail to the appropriate State authority.
 
-(Pub. L. 90–202, § 14, Dec. 15, 1967, 81 Stat. 607.)
+(Pub. L. 90–202, § 14, Dec. 15, 1967, 81 Stat. 607.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
-## § 633a. Nondiscrimination on account of age in Federal Government employment
+## § 633a. Nondiscrimination on account of age in Federal Government employment
 
 **(a) Federal agencies affected**
 
@@ -1125,7 +1125,7 @@ Any personnel action of any department, agency, or other entity referred to in s
 
 **(2)** The Equal Employment Opportunity Commission shall transmit a report to the President and to the Congress containing the findings of the Commission resulting from the study of the Commission under paragraph (1) of this subsection. Such report shall be transmitted no later than January 1, 1980.
 
-(Pub. L. 90–202, § 15, as added Pub. L. 93–259, § 28(b)(2), Apr. 8, 1974, 88 Stat. 74; amended Pub. L. 95–256, § 5(a), (e), Apr. 6, 1978, 92 Stat. 191; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, § 2, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 104–1, title II, § 201(c)(2), Jan. 23, 1995, 109 Stat. 8; Pub. L. 105–220, title III, § 341(b), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–2, § 5(c)(3), Jan. 29, 2009, 123 Stat. 7; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 90–202, § 15, as added Pub. L. 93–259, § 28(b)(2), Apr. 8, 1974, 88 Stat. 74; amended Pub. L. 95–256, § 5(a), (e), Apr. 6, 1978, 92 Stat. 191; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, § 2, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 104–1, title II, § 201(c)(2), Jan. 23, 1995, 109 Stat. 8; Pub. L. 105–220, title III, § 341(b), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–2, § 5(c)(3), Jan. 29, 2009, 123 Stat. 7; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
@@ -1145,9 +1145,9 @@ The amendments made to this section by the Age Discrimination in Employment Act 
 
 1995—Subsec. (a). Pub. L. 104–1 substituted “units of the judicial branch” for “units of the legislative and judicial branches” and inserted “Government Printing Office, the General Accounting Office, and the” before “Library of Congress”.
 
-1978—Subsec. (a). Pub. L. 95–256, § 5(a), inserted age requirement of at least 40 years of age, and “personnel actions” after “except”.
+1978—Subsec. (a). Pub. L. 95–256, § 5(a), inserted age requirement of at least 40 years of age, and “personnel actions” after “except”.
 
-Subsecs. (f), (g). Pub. L. 95–256, § 5(e), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 95–256, § 5(e), added subsecs. (f) and (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1161,7 +1161,7 @@ Amendment by Pub. L. 111–2 effective as if enacted May 28, 2007, and applicabl
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–220, title III, § 341(d), Aug. 7, 1998, 112 Stat. 1092, which provided that amendments made by subsections (a), (b), and (c) (amending this section, section 791 of this title, and section 2000e–16 of Title 42, The Public Health and Welfare) would take effect on Aug. 7, 1998, and would be applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after Aug. 7, 1998, regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705.
+Pub. L. 105–220, title III, § 341(d), Aug. 7, 1998, 112 Stat. 1092, which provided that amendments made by subsections (a), (b), and (c) (amending this section, section 791 of this title, and section 2000e–16 of Title 42, The Public Health and Welfare) would take effect on Aug. 7, 1998, and would be applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after Aug. 7, 1998, regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705.
 
 **Effective Date of 1995 Amendment**
 
@@ -1169,7 +1169,7 @@ Amendment by Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see section 1
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–256, § 5(f), Apr. 6, 1978, 92 Stat. 192, provided that: “The amendments made by this section [amending this section and sections 8335 and 8339 of Title 5, Government Organization and Employees, and repealing section 3322 of Title 5] shall take effect on September 30, 1978, except that section 15(g) of the Age Discrimination in Employment Act of 1967, as amended by subsection (e) of this section [subsec. (g) of this section], shall take effect on the date of enactment of this Act [Apr. 6, 1978].”
+Pub. L. 95–256, § 5(f), Apr. 6, 1978, 92 Stat. 192, provided that: “The amendments made by this section [amending this section and sections 8335 and 8339 of Title 5, Government Organization and Employees, and repealing section 3322 of Title 5] shall take effect on September 30, 1978, except that section 15(g) of the Age Discrimination in Employment Act of 1967, as amended by subsection (e) of this section [subsec. (g) of this section], shall take effect on the date of enactment of this Act [Apr. 6, 1978].”
 
 **Effective Date**
 
@@ -1179,21 +1179,21 @@ Section effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as
 
 **Transfer of Functions**
 
-“Equal Employment Opportunity Commission” substituted for “Civil Service Commission” in subsecs. (b) and (g) pursuant to Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Civil Service Commission to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+“Equal Employment Opportunity Commission” substituted for “Civil Service Commission” in subsecs. (b) and (g) pursuant to Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Civil Service Commission to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
-## § 634. Authorization of appropriations
+## § 634. Authorization of appropriations
 
 There are hereby authorized to be appropriated such sums as may be necessary to carry out this chapter.
 
-(Pub. L. 90–202, § 17, formerly § 16, Dec. 15, 1967, 81 Stat. 608; renumbered and amended Pub. L. 93–259, § 28(a)(5), (b)(1), Apr. 8, 1974, 88 Stat. 74; Pub. L. 95–256, § 7, Apr. 6, 1978, 92 Stat. 193.)
+(Pub. L. 90–202, § 17, formerly § 16, Dec. 15, 1967, 81 Stat. 608; renumbered and amended Pub. L. 93–259, § 28(a)(5), (b)(1), Apr. 8, 1974, 88 Stat. 74; Pub. L. 95–256, § 7, Apr. 6, 1978, 92 Stat. 193.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1978—Pub. L. 95–256 struck out “, not in excess of $5,000,000 for any fiscal year,” after “sums”.
+1978—Pub. L. 95–256 struck out “, not in excess of $5,000,000 for any fiscal year,” after “sums”.
 
-1974—Pub. L. 93–259, § 28(a)(5), increased appropriations authorization to $5,000,000 from $3,000,000.
+1974—Pub. L. 93–259, § 28(a)(5), increased appropriations authorization to $5,000,000 from $3,000,000.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1205,4 +1205,4 @@ Amendment by Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L
 
 **Transfer of Functions**
 
-Functions relating to age discrimination administration and enforcement vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+Functions relating to age discrimination administration and enforcement vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, § 2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 2—ELECTIVE FRANCHISE
 
-## §§ 31, 32. Transferred
+## §§ 31, 32. Transferred
 
 **Editorial Notes**
 

@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2023—Pub. L. 117–355, § 6(b), Jan. 5, 2023, 136 Stat. 6281, added item 2411 and struck out former item 2411 “Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing Federal or State capital crimes”.
+2023—Pub. L. 117–355, § 6(b), Jan. 5, 2023, 136 Stat. 6281, added item 2411 and struck out former item 2411 “Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing Federal or State capital crimes”.
 
-2021—Pub. L. 116–315, title II, § 2205(b)(2), Jan. 5, 2021, 134 Stat. 4987, inserted “, counties, and tribal organizations” after “States” in item 2408.
+2021—Pub. L. 116–315, title II, § 2205(b)(2), Jan. 5, 2021, 134 Stat. 4987, inserted “, counties, and tribal organizations” after “States” in item 2408.
 
-2013—Pub. L. 112–260, title I, § 103(b), Jan. 10, 2013, 126 Stat. 2420, added item 2414.
+2013—Pub. L. 112–260, title I, § 103(b), Jan. 10, 2013, 126 Stat. 2420, added item 2414.
 
-2012—Pub. L. 112–154, title VI, §§ 601(c)(2), 602(b), Aug. 6, 2012, 126 Stat. 1199, 1200, added items 2410A and 2413 and struck out former item 2413 “Prohibition on certain demonstrations at cemeteries under control of the National Cemetery Administration and at Arlington National Cemetery”.
+2012—Pub. L. 112–154, title VI, §§ 601(c)(2), 602(b), Aug. 6, 2012, 126 Stat. 1199, 1200, added items 2410A and 2413 and struck out former item 2413 “Prohibition on certain demonstrations at cemeteries under control of the National Cemetery Administration and at Arlington National Cemetery”.
 
-2006—Pub. L. 109–228, § 2(a)(2), May 29, 2006, 120 Stat. 388, added item 2413.
+2006—Pub. L. 109–228, § 2(a)(2), May 29, 2006, 120 Stat. 388, added item 2413.
 
-2004—Pub. L. 108–454, title VI, § 602(b), Dec. 10, 2004, 118 Stat. 3624, added item 2412.
+2004—Pub. L. 108–454, title VI, § 602(b), Dec. 10, 2004, 118 Stat. 3624, added item 2412.
 
-1998—Pub. L. 105–368, title IV, § 403(c)(4), (d)(1), Nov. 11, 1998, 112 Stat. 3338, 3339, substituted “Administration; composition of Administration” for “System; composition of such system; appointment of director” in item 2400 and “Administration” for “System” in item 2411.
+1998—Pub. L. 105–368, title IV, § 403(c)(4), (d)(1), Nov. 11, 1998, 112 Stat. 3338, 3339, substituted “Administration; composition of Administration” for “System; composition of such system; appointment of director” in item 2400 and “Administration” for “System” in item 2411.
 
-1997—Pub. L. 105–116, § 1(b), Nov. 21, 1997, 111 Stat. 2382, added item 2411.
+1997—Pub. L. 105–116, § 1(b), Nov. 21, 1997, 111 Stat. 2382, added item 2411.
 
-1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1000 to 1010 as 2400 to 2410, respectively.
+1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1000 to 1010 as 2400 to 2410, respectively.
 
-1989—Pub. L. 101–237, title V, § 502(b), Dec. 18, 1989, 103 Stat. 2093, added item 1010.
+1989—Pub. L. 101–237, title V, § 502(b), Dec. 18, 1989, 103 Stat. 2093, added item 1010.
 
-1986—Pub. L. 99–576, title IV, § 413(b), Oct. 28, 1986, 100 Stat. 3284, added item 1009.
+1986—Pub. L. 99–576, title IV, § 413(b), Oct. 28, 1986, 100 Stat. 3284, added item 1009.
 
-1978—Pub. L. 95–476, title II, § 202(b)(2), Oct. 18, 1978, 92 Stat. 1505, added item 1008.
+1978—Pub. L. 95–476, title II, § 202(b)(2), Oct. 18, 1978, 92 Stat. 1505, added item 1008.
 
-## § 2400. Establishment of National Cemetery Administration; composition of Administration
+## § 2400. Establishment of National Cemetery Administration; composition of Administration
 
 **(a)** There shall be within the Department a National Cemetery Administration responsible for the interment of deceased servicemembers and veterans. The National Cemetery Administration shall be headed by the Under Secretary for Memorial Affairs, who shall perform such functions as may be assigned by the Secretary.
 
@@ -55,13 +55,13 @@ retrieved: 2026-10-11
 
 **(3)** any other cemetery, memorial, or monument transferred to the Veterans’ Administration by the National Cemeteries Act of 1973, or later acquired or developed by the Secretary.
 
-(Added Pub. L. 93–43, § 2(a), June 18, 1973, 87 Stat. 75, § 1000; amended Pub. L. 99–576, title VII, § 701(52), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–527, § 13(i), Oct. 25, 1988, 102 Stat. 2644; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2400 and amended Pub. L. 102–83, §§ 4(a)(3), (4), 5(a), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 105–368, title IV, § 403(c)(3), Nov. 11, 1998, 112 Stat. 3338.)
+(Added Pub. L. 93–43, § 2(a), June 18, 1973, 87 Stat. 75, § 1000; amended Pub. L. 99–576, title VII, § 701(52), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–527, § 13(i), Oct. 25, 1988, 102 Stat. 2644; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2400 and amended Pub. L. 102–83, §§ 4(a)(3), (4), 5(a), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 105–368, title IV, § 403(c)(3), Nov. 11, 1998, 112 Stat. 3338.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), is Pub. L. 93–43, June 18, 1973, 87 Stat. 75, which is classified principally to this chapter (§ 2400 et seq.). For complete classification of this Act to the Code, see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under section 101 of this title and Tables.
+The National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), is Pub. L. 93–43, June 18, 1973, 87 Stat. 75, which is classified principally to this chapter (§ 2400 et seq.). For complete classification of this Act to the Code, see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under section 101 of this title and Tables.
 
 For national cemeteries transferred from the Department of the Army to the Veterans’ Administration by the National Cemeteries Act of 1973, and any other cemetery, memorial, or monument transferred to the Veterans’ Administration by the National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), see Transfer of Functions note set out under section 2404 of this title.
 
@@ -69,15 +69,15 @@ The date of enactment of this chapter, referred to in subsec. (b)(2), is the dat
 
 **Amendments**
 
-1998—Pub. L. 105–368, § 403(c)(3)(C), substituted “Administration; composition of Administration” for “System; composition of such system; appointment of director” in section catchline.
+1998—Pub. L. 105–368, § 403(c)(3)(C), substituted “Administration; composition of Administration” for “System; composition of such system; appointment of director” in section catchline.
 
-Subsec. (a). Pub. L. 105–368, § 403(c)(3)(A), in first sentence, substituted “Administration responsible” for “System” and, in second sentence, substituted “The National Cemetery Administration shall be headed by the Under Secretary for Memorial Affairs” for “Such system shall be headed by the Director of the National Cemetery System”.
+Subsec. (a). Pub. L. 105–368, § 403(c)(3)(A), in first sentence, substituted “Administration responsible” for “System” and, in second sentence, substituted “The National Cemetery Administration shall be headed by the Under Secretary for Memorial Affairs” for “Such system shall be headed by the Director of the National Cemetery System”.
 
-Subsec. (b). Pub. L. 105–368, § 403(c)(3)(B), substituted “national cemeteries and other facilities under the control of the National Cemetery Administration” for “National Cemetery System” in introductory provisions.
+Subsec. (b). Pub. L. 105–368, § 403(c)(3)(B), substituted “national cemeteries and other facilities under the control of the National Cemetery Administration” for “National Cemetery System” in introductory provisions.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1000 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1000 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (a). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
 1989—Subsec. (b)(3). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
@@ -89,9 +89,9 @@ Subsec. (a). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” f
 
 **Change of Name**
 
-Pub. L. 105–368, title IV, § 403(a)(1), Nov. 11, 1998, 112 Stat. 3337, provided that: “The National Cemetery System of the Department of Veterans Affairs shall hereafter be known and designated as the National Cemetery Administration. The position of Director of the National Cemetery System is hereby redesignated as Under Secretary of Veterans Affairs for Memorial Affairs.”
+Pub. L. 105–368, title IV, § 403(a)(1), Nov. 11, 1998, 112 Stat. 3337, provided that: “The National Cemetery System of the Department of Veterans Affairs shall hereafter be known and designated as the National Cemetery Administration. The position of Director of the National Cemetery System is hereby redesignated as Under Secretary of Veterans Affairs for Memorial Affairs.”
 
-Pub. L. 105–368, title IV, § 403(d), Nov. 11, 1998, 112 Stat. 3339, provided that:
+Pub. L. 105–368, title IV, § 403(d), Nov. 11, 1998, 112 Stat. 3339, provided that:
 
 > **“(1)** Any reference in a law, map, regulation, document, paper, or other record of the United States to the National Cemetery System shall be deemed to be a reference to the National Cemetery Administration.
 
@@ -103,7 +103,7 @@ Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub
 
 **Effective Date**
 
-Pub. L. 93–43, § 10(a), June 18, 1973, 87 Stat. 88, provided that: “The first section [set out as a Short Title of 1973 Amendment note under section 101 of this title] and sections 2 [enacting this chapter and amending section 5316 of Title 5, Government Organization and Employees], 3 [set out as a note under section 2404 of this title], 4 [enacting section 218 and repealing section 625 of this title], and 8 [amending section 3505 [now 6105] of this title] of this Act shall take effect on the date of enactment of this Act [June 18, 1973].”
+Pub. L. 93–43, § 10(a), June 18, 1973, 87 Stat. 88, provided that: “The first section [set out as a Short Title of 1973 Amendment note under section 101 of this title] and sections 2 [enacting this chapter and amending section 5316 of Title 5, Government Organization and Employees], 3 [set out as a note under section 2404 of this title], 4 [enacting section 218 and repealing section 625 of this title], and 8 [amending section 3505 [now 6105] of this title] of this Act shall take effect on the date of enactment of this Act [June 18, 1973].”
 
 **Short Title**
 
@@ -111,7 +111,7 @@ For short title of Pub. L. 93–43, June 18, 1973, 87 Stat. 75, which enacted th
 
 **Transfer of Mare Island Naval Cemetery to Secretary of Veterans Affairs for Maintenance by National Cemetery Administration**
 
-Pub. L. 116–283, div. H, title XCI, § 9107, Jan. 1, 2021, 134 Stat. 4784, provided that:
+Pub. L. 116–283, div. H, title XCI, § 9107, Jan. 1, 2021, 134 Stat. 4784, provided that:
 
 > **“(a) Agreement.—** Beginning on the date that is 180 days after the date on which the Secretary submits the report required by subsection (c)(1), the Secretary of Veterans Affairs shall seek to enter into an agreement with the city of Vallejo, California, under which the city of Vallejo shall transfer to the Secretary all right, title, and interest in the Mare Island Naval Cemetery in Vallejo, California, at no cost to the Secretary. The Secretary shall seek to enter into such agreement before the date that is one year after the date on which such report is submitted.
 
@@ -135,7 +135,7 @@ Pub. L. 116–283, div. H, title XCI, § 9107, Jan. 1, 2021, 134 Stat. 4784, p
 
 **Grants for Cemetery Research and the Production of Educational Materials**
 
-Pub. L. 116–107, § 1, Jan. 17, 2020, 133 Stat. 3292, provided that:
+Pub. L. 116–107, § 1, Jan. 17, 2020, 133 Stat. 3292, provided that:
 
 > **“(a) Grants Authorized.—**
 
@@ -179,7 +179,7 @@ Pub. L. 116–107, § 1, Jan. 17, 2020, 133 Stat. 3292, provided that:
 
 **Reports on Selection of New National Cemeteries**
 
-Pub. L. 111–275, title V, § 503, Oct. 13, 2010, 124 Stat. 2883, provided that:
+Pub. L. 111–275, title V, § 503, Oct. 13, 2010, 124 Stat. 2883, provided that:
 
 > **“(a) Initial Report.—**
 
@@ -247,7 +247,7 @@ Pub. L. 108–109, Nov. 11, 2003, 117 Stat. 1322, provided that:
 
 **Establishment of Additional National Cemeteries**
 
-Pub. L. 106–117, title VI, § 611, Nov. 30, 1999, 113 Stat. 1580, provided that:
+Pub. L. 106–117, title VI, § 611, Nov. 30, 1999, 113 Stat. 1580, provided that:
 
 > **“(a) Establishment.—** The Secretary [of Veterans Affairs] shall establish, in accordance with chapter 24 of title 38, United States Code, a national cemetery in each of the six areas in the United States that the Secretary determines to be most in need of such a cemetery to serve the needs of veterans and their families.
 
@@ -273,7 +273,7 @@ Pub. L. 105–276, title I, Oct. 21, 1998, 112 Stat. 2466, provided in part: “
 
 **Transfer of Pershing Hall to Department of Veterans Affairs**
 
-Pub. L. 102–86, title IV, § 403, Aug. 14, 1991, 105 Stat. 422, as amended by Pub. L. 103–79, § 4, Aug. 13, 1993, 107 Stat. 772; Pub. L. 103–446, title XII, § 1202(c), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 107–217, § 3(*o*), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 107–330, title III, § 308(i), Dec. 6, 2002, 116 Stat. 2829, provided that:
+Pub. L. 102–86, title IV, § 403, Aug. 14, 1991, 105 Stat. 422, as amended by Pub. L. 103–79, § 4, Aug. 13, 1993, 107 Stat. 772; Pub. L. 103–446, title XII, § 1202(c), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 107–217, § 3(*o*), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 107–330, title III, § 308(i), Dec. 6, 2002, 116 Stat. 2829, provided that:
 
 > **“(a) In General.—** Pershing Hall, an existing memorial in Paris, France, owned by the United States, together with the personal property of such memorial, is hereby placed under the jurisdiction, custody, and control of the Department of Veterans Affairs so that the memorial to the commander-in-chief, officers, men, and auxiliary services of the American Expeditionary Forces in France during World War I may be continued in an appropriate manner and financial support be provided therefor.
 
@@ -325,11 +325,11 @@ Pub. L. 102–86, title IV, § 403, Aug. 14, 1991, 105 Stat. 422, as amended b
 
 [Section 3(*o*) of Pub. L. 107–217, which directed amendment of section 403(e) of Pub. L. 102–86, set out above, by substituting “subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40” for “section 303b of title 40, sections 483 and 484 of title 40”, could not be executed.]
 
-[Section 403 of Pub. L. 102–86, set out above, was classified to section 493 of former Title 36 prior to the general revision and enactment of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, by Pub. L. 105–225, § 1, Aug. 12, 1998, 112 Stat. 1253.]
+[Section 403 of Pub. L. 102–86, set out above, was classified to section 493 of former Title 36 prior to the general revision and enactment of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, by Pub. L. 105–225, § 1, Aug. 12, 1998, 112 Stat. 1253.]
 
 **Authority To Establish National Cemeteries**
 
-Pub. L. 99–576, title IV, § 414, Oct. 28, 1986, 100 Stat. 3284, provided that:
+Pub. L. 99–576, title IV, § 414, Oct. 28, 1986, 100 Stat. 3284, provided that:
 
 > **“(a) Authority.—** The authority of the Administrator of Veterans’ Affairs [now Secretary of Veterans Affairs] under chapter 24 of title 38, United States Code, to develop and acquire cemeteries as part of the National Cemetery System [now National Cemetery Administration] includes, but is not limited to, the authority to establish additional national cemeteries to serve the needs of veterans and their families in—
 
@@ -357,11 +357,11 @@ Pub. L. 99–576, title IV, § 414, Oct. 28, 1986, 100 Stat. 3284, provided th
 
 > **“(b) Land Acquisition.—** The Administrator [now Secretary] may acquire land necessary for a cemetery authorized by subsection (a) of this section by donation, purchase, condemnation, exchange of lands in the United States public domain, or otherwise.”
 
-## § 2401. Advisory Committee on Cemeteries and Memorials
+## § 2401. Advisory Committee on Cemeteries and Memorials
 
 There shall be appointed by the Secretary an Advisory Committee on Cemeteries and Memorials. The Secretary shall advise and consult with the Committee from time to time with respect to the administration of the cemeteries for which the Secretary is responsible, and with respect to the selection of cemetery sites, the erection of appropriate memorials, and the adequacy of Federal burial benefits. The Committee shall make periodic reports and recommendations to the Secretary and to Congress.
 
-(Added Pub. L. 93–43, § 2(a), June 18, 1973, 87 Stat. 75, § 1001; amended Pub. L. 99–576, title VII, § 701(53), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2401, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 93–43, § 2(a), June 18, 1973, 87 Stat. 75, § 1001; amended Pub. L. 99–576, title VII, § 701(53), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2401, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -383,7 +383,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 
-## § 2402. Persons eligible for interment in national cemeteries
+## § 2402. Persons eligible for interment in national cemeteries
 
 **(a)** Under such regulations as the Secretary may prescribe and subject to the provisions of section 6105 of this title, the remains of the following persons may be buried in any open national cemetery under the control of the National Cemetery Administration:
 
@@ -457,7 +457,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 **(3)** The term “training-related injury” means an injury incurred by a member of the Armed Forces while performing authorized training activities in preparation for a combat mission.
 
-(Added Pub. L. 93–43, § 2(a), June 18, 1973, 87 Stat. 75, § 1002; amended Pub. L. 99–576, title VII, § 701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 2402, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, § 1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§ 801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, § 211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, § 403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, § 331(a), title IV, § 404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865; Pub. L. 108–183, title II, § 212(b), title V, § 502(a), Dec. 16, 2003, 117 Stat. 2658, 2667; Pub. L. 111–275, title V, § 502(b), Oct. 13, 2010, 124 Stat. 2882; Pub. L. 115–141, div. J, title II, § 251(a), Mar. 23, 2018, 132 Stat. 824; Pub. L. 115–407, title II, § 202(b), Dec. 31, 2018, 132 Stat. 5373; Pub. L. 116–283, div. A, title IX, § 926(a)(39), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–81, div. F, title LXVI, § 6601(a), Dec. 27, 2021, 135 Stat. 2437; Pub. L. 118–31, div. A, title XVII, § 1723(b), Dec. 22, 2023, 137 Stat. 674; Pub. L. 118–83, div. B, title III, § 312, Sept. 26, 2024, 138 Stat. 1540; Pub. L. 118–271, § 3, Jan. 4, 2025, 138 Stat. 2991.)
+(Added Pub. L. 93–43, § 2(a), June 18, 1973, 87 Stat. 75, § 1002; amended Pub. L. 99–576, title VII, § 701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 2402, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, § 1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§ 801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, § 211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, § 403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, § 331(a), title IV, § 404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865; Pub. L. 108–183, title II, § 212(b), title V, § 502(a), Dec. 16, 2003, 117 Stat. 2658, 2667; Pub. L. 111–275, title V, § 502(b), Oct. 13, 2010, 124 Stat. 2882; Pub. L. 115–141, div. J, title II, § 251(a), Mar. 23, 2018, 132 Stat. 824; Pub. L. 115–407, title II, § 202(b), Dec. 31, 2018, 132 Stat. 5373; Pub. L. 116–283, div. A, title IX, § 926(a)(39), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–81, div. F, title LXVI, § 6601(a), Dec. 27, 2021, 135 Stat. 2437; Pub. L. 118–31, div. A, title XVII, § 1723(b), Dec. 22, 2023, 137 Stat. 674; Pub. L. 118–83, div. B, title III, § 312, Sept. 26, 2024, 138 Stat. 1540; Pub. L. 118–271, § 3, Jan. 4, 2025, 138 Stat. 2991.)
 
 **Editorial Notes**
 
@@ -477,19 +477,19 @@ Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000, referred to in
 
 Subsec. (a)(10)(B). Pub. L. 117–81 added subpar. (B).
 
-2018—Subsec. (a)(5). Pub. L. 115–407 inserted “, and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s or child’s death if such death occurs before October 1, 2024” after “paragraph (7)”.
+2018—Subsec. (a)(5). Pub. L. 115–407 inserted “, and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s or child’s death if such death occurs before October 1, 2024” after “paragraph (7)”.
 
 Subsec. (a)(10). Pub. L. 115–141 added par. (10).
 
 2010—Pub. L. 111–275 designated existing provisions as subsec. (a), realigned margins, added par. (9) of subsec. (a), and added subsec. (b).
 
-2003—Par. (5). Pub. L. 108–183, § 502(a), substituted “(which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage)” for “(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)”.
+2003—Par. (5). Pub. L. 108–183, § 502(a), substituted “(which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage)” for “(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)”.
 
-Par. (8). Pub. L. 108–183, § 212(b), substituted “subsection (a) or (b) of section 107” for “section 107(a)”.
+Par. (8). Pub. L. 108–183, § 212(b), substituted “subsection (a) or (b) of section 107” for “section 107(a)”.
 
-2000—Par. (7). Pub. L. 106–419, § 404(a)(5), substituted “chapter 1223 of title 10” for “chapter 67 of title 10”.
+2000—Par. (7). Pub. L. 106–419, § 404(a)(5), substituted “chapter 1223 of title 10” for “chapter 67 of title 10”.
 
-Par. (8). Pub. L. 106–419, § 331(a), added par. (8).
+Par. (8). Pub. L. 106–419, § 331(a), added par. (8).
 
 1998—Pub. L. 105–368 substituted “under the control of the National Cemetery Administration” for “in the National Cemetery System” in introductory provisions.
 
@@ -497,9 +497,9 @@ Par. (8). Pub. L. 106–419, § 331(a), added par. (8).
 
 1994—Par. (5). Pub. L. 103–446 inserted “spouse,” after “The” and “(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)” after “surviving spouse”.
 
-Pub. L. 103–240, § 1(b), inserted “and paragraph (7)” after “paragraphs (1) through (4)”.
+Pub. L. 103–240, § 1(b), inserted “and paragraph (7)” after “paragraphs (1) through (4)”.
 
-Par. (7). Pub. L. 103–240, § 1(a), added par. (7).
+Par. (7). Pub. L. 103–240, § 1(a), added par. (7).
 
 1991—Pub. L. 102–83 renumbered section 1002 of this title as this section.
 
@@ -507,19 +507,19 @@ Pub. L. 102–40 substituted “6105” for “3505” in introductory provision
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Pars. (2), (3). Pub. L. 99–576, § 701(54)(A), substituted “while such member” for “while he” wherever appearing.
+1986—Pars. (2), (3). Pub. L. 99–576, § 701(54)(A), substituted “while such member” for “while he” wherever appearing.
 
-Par. (5). Pub. L. 99–576, § 701(54)(B), struck out “wife, husband,” before “surviving spouse”.
+Par. (5). Pub. L. 99–576, § 701(54)(B), struck out “wife, husband,” before “surviving spouse”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–81, div. F, title LXVI, § 6601(b), Dec. 27, 2021, 135 Stat. 2438, provided that: “The amendments made by this section [amending this section] shall have effect as if included in the enactment of section 251(a) of title II of the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2018 (division J of Public Law 115–141; 132 Stat. 824).”
+Pub. L. 117–81, div. F, title LXVI, § 6601(b), Dec. 27, 2021, 135 Stat. 2438, provided that: “The amendments made by this section [amending this section] shall have effect as if included in the enactment of section 251(a) of title II of the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2018 (division J of Public Law 115–141; 132 Stat. 824).”
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–141, div. J, title II, § 251(b), Mar. 23, 2018, 132 Stat. 825, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to an individual dying on or after the date of the enactment of this Act [Mar. 23, 2018].”
+Pub. L. 115–141, div. J, title II, § 251(b), Mar. 23, 2018, 132 Stat. 825, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to an individual dying on or after the date of the enactment of this Act [Mar. 23, 2018].”
 
 **Effective Date of 2010 Amendment**
 
@@ -529,7 +529,7 @@ Amendment by Pub. L. 111–275 applicable with respect to the death, on or after
 
 Amendment by section 212(b) of Pub. L. 108–183 applicable with respect to deaths occurring on or after Dec. 16, 2003, see section 212(c) of Pub. L. 108–183, set out as a note under section 107 of this title.
 
-Pub. L. 108–183, title V, § 502(b), Dec. 16, 2003, 117 Stat. 2667, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to deaths occurring on or after January 1, 2000.”
+Pub. L. 108–183, title V, § 502(b), Dec. 16, 2003, 117 Stat. 2667, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to deaths occurring on or after January 1, 2000.”
 
 **Effective Date of 2000 Amendment**
 
@@ -537,7 +537,7 @@ Amendment by section 331(a) of Pub. L. 106–419 applicable with respect to deat
 
 **Criteria for Interment at Arlington National Cemetery**
 
-Pub. L. 115–232, div. A, title V, § 598, Aug. 13, 2018, 132 Stat. 1791, provided that:
+Pub. L. 115–232, div. A, title V, § 598, Aug. 13, 2018, 132 Stat. 1791, provided that:
 
 > **“(a) Criteria.—** The Secretary of the Army, in consultation with the Secretary of Defense, shall prescribe revised criteria for interment at Arlington National Cemetery that preserve Arlington National Cemetery as an active burial ground ‘well into the future,’ as that term is used in the report submitted by the Secretary of the Army to the Committees on Veterans’ Affairs and the Committees on Armed Services of the House of Representatives and the Senate, dated February 14, 2017, and titled ‘The Future of Arlington National Cemetery: Report on the Cemetery’s Interment and Inurnment Capacity 2017’.
 
@@ -545,15 +545,15 @@ Pub. L. 115–232, div. A, title V, § 598, Aug. 13, 2018, 132 Stat. 1791, pro
 
 **Identification of Unclaimed or Abandoned Human Remains**
 
-Pub. L. 112–260, title I, § 104(a), Jan. 10, 2013, 126 Stat. 2420, provided that: “The Secretary of Veterans Affairs shall cooperate with veterans service organizations to assist entities in possession of unclaimed or abandoned human remains in determining if any such remains are the remains of veterans or other individuals eligible for burial in a national cemetery under the jurisdiction of the Secretary.”
+Pub. L. 112–260, title I, § 104(a), Jan. 10, 2013, 126 Stat. 2420, provided that: “The Secretary of Veterans Affairs shall cooperate with veterans service organizations to assist entities in possession of unclaimed or abandoned human remains in determining if any such remains are the remains of veterans or other individuals eligible for burial in a national cemetery under the jurisdiction of the Secretary.”
 
 **Guidance Required**
 
-Pub. L. 111–275, title V, § 502(c), Oct. 13, 2010, 124 Stat. 2882, provided that: “The Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall develop guidance under which the parent of a person described in paragraph (9)(B) of subsection (a) of section 2402 of title 38, United States Code, as added by subsection (b), may be designated for interment in a national cemetery under that section.”
+Pub. L. 111–275, title V, § 502(c), Oct. 13, 2010, 124 Stat. 2882, provided that: “The Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall develop guidance under which the parent of a person described in paragraph (9)(B) of subsection (a) of section 2402 of title 38, United States Code, as added by subsection (b), may be designated for interment in a national cemetery under that section.”
 
 **Eligibility of Former Prisoners of War for Burial in Arlington National Cemetery**
 
-Pub. L. 103–160, div. A, title XI, § 1176, Nov. 30, 1993, 107 Stat. 1768, provided that:
+Pub. L. 103–160, div. A, title XI, § 1176, Nov. 30, 1993, 107 Stat. 1768, provided that:
 
 > **“(a) Eligibility for Burial.—** Former prisoners of war described in subsection (b) are eligible for burial in Arlington National Cemetery, Arlington, Virginia.
 
@@ -573,7 +573,7 @@ Pub. L. 103–160, div. A, title XI, § 1176, Nov. 30, 1993, 107 Stat. 1768, p
 
 > **“(2)** The term ‘active military, naval, or air service’ has the meaning given such term in section 101(24) of such title.”
 
-## § 2403. Memorial areas
+## § 2403. Memorial areas
 
 **(a)** The Secretary shall set aside, when available, suitable areas in national cemeteries to honor the memory of members of the Armed Forces and veterans—
 
@@ -597,7 +597,7 @@ Pub. L. 103–160, div. A, title XI, § 1176, Nov. 30, 1993, 107 Stat. 1768, p
 
 **(2)** In this subsection, the term “Fallen Soldier Display” means a memorial monument in honor of fallen members of the Armed Forces that may include a replica of an inverted rifle, boots, helmets, and identification tag.
 
-(Added Pub. L. 93–43, § 2(a), June 18, 1973, 87 Stat. 76, § 1003; amended Pub. L. 97–66, title VI, § 603(b), Oct. 17, 1981, 95 Stat. 1034; Pub. L. 97–295, § 4(34), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2403, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title IV, §§ 401(c), 403(c)(6), Nov. 11, 1998, 112 Stat. 3335, 3339; Pub. L. 116–106, § 2, Jan. 7, 2020, 133 Stat. 3291.)
+(Added Pub. L. 93–43, § 2(a), June 18, 1973, 87 Stat. 76, § 1003; amended Pub. L. 97–66, title VI, § 603(b), Oct. 17, 1981, 95 Stat. 1034; Pub. L. 97–295, § 4(34), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2403, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title IV, §§ 401(c), 403(c)(6), Nov. 11, 1998, 112 Stat. 3335, 3339; Pub. L. 116–106, § 2, Jan. 7, 2020, 133 Stat. 3291.)
 
 **Editorial Notes**
 
@@ -609,9 +609,9 @@ For cemeteries under the control of the National Cemetery Administration, referr
 
 2020—Subsec. (d). Pub. L. 116–106 added subsec. (d).
 
-1998—Subsec. (b). Pub. L. 105–368, § 401(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Under regulations prescribed by the Secretary, appropriate memorials or markers shall be erected to honor the memory of those individuals, or group of individuals, referred to in subsection (a) of this section.”
+1998—Subsec. (b). Pub. L. 105–368, § 401(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Under regulations prescribed by the Secretary, appropriate memorials or markers shall be erected to honor the memory of those individuals, or group of individuals, referred to in subsection (a) of this section.”
 
-Subsec. (c). Pub. L. 105–368, § 403(c)(6), substituted “under the control of the National Cemetery Administration” for “in the National Cemetery System created by this chapter”.
+Subsec. (c). Pub. L. 105–368, § 403(c)(6), substituted “under the control of the National Cemetery Administration” for “in the National Cemetery System created by this chapter”.
 
 1991—Pub. L. 102–83 renumbered section 1003 of this title as this section.
 
@@ -627,7 +627,7 @@ Subsec. (c). Pub. L. 105–368, § 403(c)(6), substituted “under the control
 
 Amendment by Pub. L. 97–66 applicable with respect to veterans dying before, on, or after Oct. 17, 1981, see section 701(b)(6) of Pub. L. 97–66, set out as a note under section 1114 of this title.
 
-## § 2404. Administration
+## § 2404. Administration
 
 **(a)** The Secretary is authorized to make all rules and regulations which are necessary or appropriate to carry out the provisions of this chapter, and may designate those cemeteries which are considered to be national cemeteries.
 
@@ -647,7 +647,7 @@ Amendment by Pub. L. 97–66 applicable with respect to veterans dying before, o
 
 **(D)** in the case of grave sites of cremated remains that are interred in the ground, the Secretary may provide for flat grave markers.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(E)** in the case of grave sites in a green burial section designated under subsection (i), the Secretary may provide for grave markers of such type as the Secretary considers appropriate; and
 
@@ -691,7 +691,7 @@ Amendment by Pub. L. 97–66 applicable with respect to veterans dying before, o
 
 **(B)** have been interred in a natural manner or in completely biodegradable burial receptacles.
 
-(Added Pub. L. 93–43, § 2(a), June 18, 1973, 87 Stat. 76, § 1004; amended Pub. L. 99–576, title IV, § 411, title VII, § 701(55), Oct. 28, 1986, 100 Stat. 3283, 3295; Pub. L. 100–322, title III, §§ 341(a), 342, May 20, 1988, 102 Stat. 539, 540; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, § 14(b)(21), June 13, 1991, 105 Stat. 284; renumbered § 2404 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(7), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 112–260, title I, § 102(a), Jan. 10, 2013, 126 Stat. 2418; Pub. L. 117–355, § 3, Jan. 5, 2023, 136 Stat. 6278; Pub. L. 118–83, div. B, title III, § 313, Sept. 26, 2024, 138 Stat. 1540.)
+(Added Pub. L. 93–43, § 2(a), June 18, 1973, 87 Stat. 76, § 1004; amended Pub. L. 99–576, title IV, § 411, title VII, § 701(55), Oct. 28, 1986, 100 Stat. 3283, 3295; Pub. L. 100–322, title III, §§ 341(a), 342, May 20, 1988, 102 Stat. 539, 540; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, § 14(b)(21), June 13, 1991, 105 Stat. 284; renumbered § 2404 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(7), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 112–260, title I, § 102(a), Jan. 10, 2013, 126 Stat. 2418; Pub. L. 117–355, § 3, Jan. 5, 2023, 136 Stat. 6278; Pub. L. 118–83, div. B, title III, § 313, Sept. 26, 2024, 138 Stat. 1540.)
 
 **Editorial Notes**
 
@@ -699,41 +699,41 @@ Amendment by Pub. L. 97–66 applicable with respect to veterans dying before, o
 
 2024—Subsec. (c)(2)(F). Pub. L. 118–83 added subpar. (F).
 
-2023—Subsec. (c)(2)(E). Pub. L. 117–355, § 3(1), added subpar. (E).
+2023—Subsec. (c)(2)(E). Pub. L. 117–355, § 3(1), added subpar. (E).
 
-Subsec. (i). Pub. L. 117–355, § 3(2), added subsec. (i).
+Subsec. (i). Pub. L. 117–355, § 3(2), added subsec. (i).
 
 2013—Subsec. (h). Pub. L. 112–260 added subsec. (h).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1004 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1004 of this title as this section.
 
-Subsec. (c)(2)(A). Pub. L. 102–83, § 4(b)(7), substituted “Administrator of Veterans’ Affairs” for “Secretary”.
+Subsec. (c)(2)(A). Pub. L. 102–83, § 4(b)(7), substituted “Administrator of Veterans’ Affairs” for “Secretary”.
 
 Subsec. (c)(2)(B). Pub. L. 102–54 substituted “October 28, 1986” for “the date of the enactment of the Veterans’ Benefits Improvement and Health-Care Authorization Act of 1986”.
 
-Subsec. (c)(2)(C). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (c)(2)(C). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (d). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (d). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
 1989—Pub. L. 101–237 substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
 
-1988—Subsec. (c)(2)(C), (D). Pub. L. 100–322, § 341(a), added subpars. (C) and (D).
+1988—Subsec. (c)(2)(C), (D). Pub. L. 100–322, § 341(a), added subpars. (C) and (D).
 
-Subsec. (f). Pub. L. 100–322, § 342, designated existing provisions as par. (1) and added par. (2).
+Subsec. (f). Pub. L. 100–322, § 342, designated existing provisions as par. (1) and added par. (2).
 
-1986—Subsec. (b). Pub. L. 99–576, § 701(55)(B), substituted “the Administrator” for “he” before “is responsible”.
+1986—Subsec. (b). Pub. L. 99–576, § 701(55)(B), substituted “the Administrator” for “he” before “is responsible”.
 
-Subsec. (c). Pub. L. 99–576, § 411, designated existing provisions as par. (1), substituted “Subject to paragraph (2), each” for “Each”, and added par. (2).
+Subsec. (c). Pub. L. 99–576, § 411, designated existing provisions as par. (1), substituted “Subject to paragraph (2), each” for “Each”, and added par. (2).
 
-Subsec. (d). Pub. L. 99–576, § 701(55)(A), substituted “the veteran” for “he”.
+Subsec. (d). Pub. L. 99–576, § 701(55)(A), substituted “the veteran” for “he”.
 
-Subsecs. (e), (g). Pub. L. 99–576, § 701(55)(B), (C), substituted “the Administrator” and “the Administrator’s” for “he” and “his”, respectively, wherever appearing.
+Subsecs. (e), (g). Pub. L. 99–576, § 701(55)(B), (C), substituted “the Administrator” and “the Administrator’s” for “he” and “his”, respectively, wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-Pub. L. 93–43, § 6, June 18, 1973, 87 Stat. 81, provided that:
+Pub. L. 93–43, § 6, June 18, 1973, 87 Stat. 81, provided that:
 
 > “[*Jurisdiction*] (a)(1) There are hereby transferred from the Secretary of the Army to the Administrator of Veterans’ Affairs all jurisdiction over, and responsibility for, (A) all national cemeteries (except the cemetery at the United States Soldiers’ and Airmen’s Home and Arlington National Cemetery), and (B) any other cemetery (including burial plots), memorial, or monument under the jurisdiction of the Secretary of the Army immediately preceding the effective date of this section [see note hereunder] (except the cemetery located at the United States Military Academy at West Point) which the President determines would be appropriate in carrying out the purposes of this Act [see Tables for classification].
 
@@ -753,15 +753,15 @@ Pub. L. 93–43, § 6, June 18, 1973, 87 Stat. 81, provided that:
 
 **Interim Implementation of 2013 Amendment**
 
-Pub. L. 112–260, title I, § 102(b), Jan. 10, 2013, 126 Stat. 2419, provided that: “The Secretary may carry out paragraphs (1) through (3) of section 2404(h) of such title [38 U.S.C. 2404(h)], as added by subsection (a), before the Secretary prescribes regulations pursuant to paragraph (4) of such section, as so added.”
+Pub. L. 112–260, title I, § 102(b), Jan. 10, 2013, 126 Stat. 2419, provided that: “The Secretary may carry out paragraphs (1) through (3) of section 2404(h) of such title [38 U.S.C. 2404(h)], as added by subsection (a), before the Secretary prescribes regulations pursuant to paragraph (4) of such section, as so added.”
 
 **Use of Flat Grave Markers at Santa Fe National Cemetery, New Mexico**
 
-Pub. L. 106–117, title VI, § 612, Nov. 30, 1999, 113 Stat. 1580, authorized the Secretary of Veterans Affairs to provide for flat grave markers at the Santa Fe National Cemetery, New Mexico, prior to repeal by Pub. L. 118–31, div. E, title L, § 5002(a), Dec. 22, 2023, 137 Stat. 931.
+Pub. L. 106–117, title VI, § 612, Nov. 30, 1999, 113 Stat. 1580, authorized the Secretary of Veterans Affairs to provide for flat grave markers at the Santa Fe National Cemetery, New Mexico, prior to repeal by Pub. L. 118–31, div. E, title L, § 5002(a), Dec. 22, 2023, 137 Stat. 931.
 
 **Independent Study on Improvements to Veterans’ Cemeteries**
 
-Pub. L. 106–117, title VI, § 613, Nov. 30, 1999, 113 Stat. 1581, provided that:
+Pub. L. 106–117, title VI, § 613, Nov. 30, 1999, 113 Stat. 1581, provided that:
 
 > **“(a) Study.—** Not later than 180 days after the date of the enactment of this Act [Nov. 30, 1999], the Secretary [of Veterans Affairs] shall enter into a contract with one or more qualified organizations to conduct a study of national cemeteries described in subsection (b). For purposes of this section, an entity of Federal, State, or local government is not a qualified organization.
 
@@ -793,11 +793,11 @@ Pub. L. 106–117, title VI, § 613, Nov. 30, 1999, 113 Stat. 1581, provided t
 
 **Grave Markers in Certain Locations**
 
-Pub. L. 103–446, title VIII, § 804, Nov. 2, 1994, 108 Stat. 4675, provided that: “Notwithstanding section 2404(c)(2) of title 38, United States Code, the Secretary of Veterans Affairs may provide for flat grave markers at the Willamette National Cemetery, Oregon.”
+Pub. L. 103–446, title VIII, § 804, Nov. 2, 1994, 108 Stat. 4675, provided that: “Notwithstanding section 2404(c)(2) of title 38, United States Code, the Secretary of Veterans Affairs may provide for flat grave markers at the Willamette National Cemetery, Oregon.”
 
-Pub. L. 102–54, § 11, June 13, 1991, 105 Stat. 273, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Notwithstanding section 2404(c)(2) of title 38, United States Code, the Secretary may provide for flat grave markers in that section of the Florida National Cemetery in which preplaced grave liners were installed before July 30, 1988.”
+Pub. L. 102–54, § 11, June 13, 1991, 105 Stat. 273, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Notwithstanding section 2404(c)(2) of title 38, United States Code, the Secretary may provide for flat grave markers in that section of the Florida National Cemetery in which preplaced grave liners were installed before July 30, 1988.”
 
-Pub. L. 100–322, title III, § 341(b), May 20, 1988, 102 Stat. 539, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Notwithstanding section 2404(c)(2) of title 38, United States Code, the Administrator may provide for flat grave markers in the cases of the national cemeteries in Riverside, California; Bourne, Massachusetts; Augusta, Michigan; and Indiantown Gap, Pennsylvania; and the proposed national cemetery approved by the Administrator, as of July 31, 1987, for Northern California.”
+Pub. L. 100–322, title III, § 341(b), May 20, 1988, 102 Stat. 539, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Notwithstanding section 2404(c)(2) of title 38, United States Code, the Administrator may provide for flat grave markers in the cases of the national cemeteries in Riverside, California; Bourne, Massachusetts; Augusta, Michigan; and Indiantown Gap, Pennsylvania; and the proposed national cemetery approved by the Administrator, as of July 31, 1987, for Northern California.”
 
 **Functions, Powers, and Duties of Secretaries Unaffected**
 
@@ -805,9 +805,9 @@ Repeal of sections 271 to 276, 278 to 279d, 281 to 282, 286 to 290, and 296 of T
 
 **Studies; Recommendations to Congress**
 
-Pub. L. 93–43, § 3, June 18, 1973, 87 Stat. 78, authorized the Administrator to conduct a comprehensive study concerning the criteria governing the development and operation of the National Cemetery System, including the concept of regional cemeteries, the relationship of the National Cemetery System to other burial benefits provided by Federal and State Governments to servicemen and veterans, steps taken to conform the existing system to the recommended criteria, private burial and funeral costs in the United States, current headstone and marker programs, and the marketing and sales practices of non-Federal cemeteries and interment facilities, and to submit his recommendations within twelve months after the convening of the first session of the Ninety-third Congress and also authorized the Administrator, in conjunction with the Secretary of Defense, to conduct a comprehensive study concerning the advisability of including Arlington National Cemetery within the National Cemetery System, the appropriateness of maintaining the present eligibility requirements for burial at Arlington National Cemetery and the advisability of establishing another national cemetery, and to submit the results of their joint recommendations within twelve months after the convening of the first session of the Ninety-third Congress.
+Pub. L. 93–43, § 3, June 18, 1973, 87 Stat. 78, authorized the Administrator to conduct a comprehensive study concerning the criteria governing the development and operation of the National Cemetery System, including the concept of regional cemeteries, the relationship of the National Cemetery System to other burial benefits provided by Federal and State Governments to servicemen and veterans, steps taken to conform the existing system to the recommended criteria, private burial and funeral costs in the United States, current headstone and marker programs, and the marketing and sales practices of non-Federal cemeteries and interment facilities, and to submit his recommendations within twelve months after the convening of the first session of the Ninety-third Congress and also authorized the Administrator, in conjunction with the Secretary of Defense, to conduct a comprehensive study concerning the advisability of including Arlington National Cemetery within the National Cemetery System, the appropriateness of maintaining the present eligibility requirements for burial at Arlington National Cemetery and the advisability of establishing another national cemetery, and to submit the results of their joint recommendations within twelve months after the convening of the first session of the Ninety-third Congress.
 
-## § 2405. Disposition of inactive cemeteries
+## § 2405. Disposition of inactive cemeteries
 
 **(a)** The Secretary may transfer, with the consent of the agency concerned, any inactive cemetery, burial plot, memorial, or monument within the Secretary’s control to the Department of the Interior for maintenance as a national monument or park, or to any other agency of the Government. Any cemetery transferred to the Department of the Interior shall be administered by the Secretary of the Interior as a part of the National Park System, and funds appropriated to the Secretary of the Interior for such system shall be available for the management and operation of such cemetery.
 
@@ -815,7 +815,7 @@ Pub. L. 93–43, § 3, June 18, 1973, 87 Stat. 78, authorized the Administrato
 
 **(c)** If a cemetery not under the control of the National Cemetery Administration has been or is to be discontinued, the Secretary may provide for the removal of remains from that cemetery to any cemetery under the control of such Administration. The Secretary may also provide for the removal of the remains of any veteran from a place of temporary interment, or from an abandoned grave or cemetery, to a national cemetery.
 
-(Added Pub. L. 93–43, § 2(a), June 18, 1973, 87 Stat. 77, § 1005; amended Pub. L. 99–576, title VII, § 701(56), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, § 313(b)(1), (4), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2405, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title IV, § 403(c)(7), Nov. 11, 1998, 112 Stat. 3339.)
+(Added Pub. L. 93–43, § 2(a), June 18, 1973, 87 Stat. 77, § 1005; amended Pub. L. 99–576, title VII, § 701(56), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, § 313(b)(1), (4), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2405, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title IV, § 403(c)(7), Nov. 11, 1998, 112 Stat. 3339.)
 
 **Editorial Notes**
 
@@ -825,17 +825,17 @@ Pub. L. 93–43, § 3, June 18, 1973, 87 Stat. 78, authorized the Administrato
 
 1991—Pub. L. 102–83 renumbered section 1005 of this title as this section.
 
-1989—Subsec. (a). Pub. L. 101–237, § 313(b)(4), inserted “of the Interior” after “funds appropriated to the Secretary”.
+1989—Subsec. (a). Pub. L. 101–237, § 313(b)(4), inserted “of the Interior” after “funds appropriated to the Secretary”.
 
-Pub. L. 101–237, § 313(b)(1), substituted “Secretary may transfer” for “Administrator may transfer” and “Secretary’s” for “Administrator’s”.
+Pub. L. 101–237, § 313(b)(1), substituted “Secretary may transfer” for “Administrator may transfer” and “Secretary’s” for “Administrator’s”.
 
-Subsecs. (b), (c). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (b), (c). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Subsec. (a). Pub. L. 99–576, § 701(56)(A), substituted “the Administrator’s” for “his”.
+1986—Subsec. (a). Pub. L. 99–576, § 701(56)(A), substituted “the Administrator’s” for “his”.
 
-Subsec. (c). Pub. L. 99–576, § 701(56)(B), substituted “The Administrator” for “He”.
+Subsec. (c). Pub. L. 99–576, § 701(56)(B), substituted “The Administrator” for “He”.
 
-## § 2406. Acquisition of lands
+## § 2406. Acquisition of lands
 
 **(a) In General.—** As additional lands are needed for national cemeteries, they may be acquired by the Secretary by purchase, gift (including donations from States or political subdivisions thereof), condemnation, transfer from other Federal agencies, exchange, or otherwise, as the Secretary determines to be in the best interest of the United States.
 
@@ -849,7 +849,7 @@ Subsec. (c). Pub. L. 99–576, § 701(56)(B), substituted “The Administrator
 
 **(4)** deemed to be property (as defined in section 102(9) of title 40) for as long as the land remains under the administrative jurisdiction of the Secretary of Veterans Affairs.
 
-(Added Pub. L. 93–43, § 2(a), June 18, 1973, 87 Stat. 78, § 1006; amended Pub. L. 99–576, title VII, § 701(57), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2406, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 108–454, title VI, § 603, Dec. 10, 2004, 118 Stat. 3624; Pub. L. 117–355, § 5, Jan. 5, 2023, 136 Stat. 6279.)
+(Added Pub. L. 93–43, § 2(a), June 18, 1973, 87 Stat. 78, § 1006; amended Pub. L. 99–576, title VII, § 701(57), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2406, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 108–454, title VI, § 603, Dec. 10, 2004, 118 Stat. 3624; Pub. L. 117–355, § 5, Jan. 5, 2023, 136 Stat. 6279.)
 
 **Editorial Notes**
 
@@ -865,11 +865,11 @@ Subsec. (c). Pub. L. 99–576, § 701(56)(B), substituted “The Administrator
 
 1986—Pub. L. 99–576 substituted “the Administrator” for “he”.
 
-## § 2407. Authority to accept and maintain suitable memorials
+## § 2407. Authority to accept and maintain suitable memorials
 
 Subject to such restrictions as the Secretary may prescribe, the Secretary may accept gifts, devises, or bequests from legitimate societies and organizations or reputable individuals, made in any manner, which are made for the purpose of beautifying national cemeteries, or are determined to be beneficial to such cemetery. The Secretary may make land available for this purpose, and may furnish such care and maintenance as the Secretary deems necessary.
 
-(Added Pub. L. 93–43, § 2(a), June 18, 1973, 87 Stat. 78, § 1007; amended Pub. L. 99–576, title VII, § 701(58), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2407, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 93–43, § 2(a), June 18, 1973, 87 Stat. 78, § 1007; amended Pub. L. 99–576, title VII, § 701(58), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2407, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -881,7 +881,7 @@ Subject to such restrictions as the Secretary may prescribe, the Secretary may a
 
 1986—Pub. L. 99–576 substituted “the Administrator” for “he” in two places and “The Administrator” for “He”.
 
-## § 2408. Aid to States, counties, and tribal organizations for establishment, expansion, and improvement of veterans’ cemeteries
+## § 2408. Aid to States, counties, and tribal organizations for establishment, expansion, and improvement of veterans’ cemeteries
 
 **(a)**
 
@@ -1009,7 +1009,7 @@ Subject to such restrictions as the Secretary may prescribe, the Secretary may a
 
 **(2)** The term “trust land” has the meaning given that term in section 3765(1) of this title.
 
-(Added Pub. L. 95–476, title II, § 202(b)(1), Oct. 18, 1978, 92 Stat. 1504, § 1008; amended Pub. L. 98–223, title II, § 202, Mar. 2, 1984, 98 Stat. 41; Pub. L. 100–322, title III, § 343, May 20, 1988, 102 Stat. 540; Pub. L. 100–687, div. B, title XVI, § 1601, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2408 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VIII, § 803, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–116, § 2, Nov. 21, 1997, 111 Stat. 2382; Pub. L. 105–368, title IV, §§ 403(c)(8), 404(a)(1), (b), (c), title X, § 1005(b)(5), Nov. 11, 1998, 112 Stat. 3339, 3365; Pub. L. 108–183, title V, § 503, Dec. 16, 2003, 117 Stat. 2667; Pub. L. 109–461, title IV, § 403, Dec. 22, 2006, 120 Stat. 3430; Pub. L. 110–157, title II, § 202(b)(1)–(3), Dec. 26, 2007, 121 Stat. 1832, 1833; Pub. L. 116–315, title II, §§ 2205(a), (b)(1), 2206, 2208(a), Jan. 5, 2021, 134 Stat. 4986–4988; Pub. L. 117–103, div. CC, § 102(a), Mar. 15, 2022, 136 Stat. 1109; Pub. L. 118–159, div. E, title L, § 5001, Dec. 23, 2024, 138 Stat. 2407.)
+(Added Pub. L. 95–476, title II, § 202(b)(1), Oct. 18, 1978, 92 Stat. 1504, § 1008; amended Pub. L. 98–223, title II, § 202, Mar. 2, 1984, 98 Stat. 41; Pub. L. 100–322, title III, § 343, May 20, 1988, 102 Stat. 540; Pub. L. 100–687, div. B, title XVI, § 1601, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2408 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VIII, § 803, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–116, § 2, Nov. 21, 1997, 111 Stat. 2382; Pub. L. 105–368, title IV, §§ 403(c)(8), 404(a)(1), (b), (c), title X, § 1005(b)(5), Nov. 11, 1998, 112 Stat. 3339, 3365; Pub. L. 108–183, title V, § 503, Dec. 16, 2003, 117 Stat. 2667; Pub. L. 109–461, title IV, § 403, Dec. 22, 2006, 120 Stat. 3430; Pub. L. 110–157, title II, § 202(b)(1)–(3), Dec. 26, 2007, 121 Stat. 1832, 1833; Pub. L. 116–315, title II, §§ 2205(a), (b)(1), 2206, 2208(a), Jan. 5, 2021, 134 Stat. 4986–4988; Pub. L. 117–103, div. CC, § 102(a), Mar. 15, 2022, 136 Stat. 1109; Pub. L. 118–159, div. E, title L, § 5001, Dec. 23, 2024, 138 Stat. 2407.)
 
 **Editorial Notes**
 
@@ -1017,101 +1017,101 @@ Subject to such restrictions as the Secretary may prescribe, the Secretary may a
 
 2024—Subsecs. (k), (*l*). Pub. L. 118–159 added subsec. (k) and redesignated former subsec. (k) as (*l*).
 
-2022—Subsec. (d)(2). Pub. L. 117–103, § 102(a)(1), substituted “Except as provided in subsection (i), the Secretary may” for “The Secretary may”.
+2022—Subsec. (d)(2). Pub. L. 117–103, § 102(a)(1), substituted “Except as provided in subsection (i), the Secretary may” for “The Secretary may”.
 
-Subsecs. (i) to (k). Pub. L. 117–103, § 102(a)(2), (3), added subsecs. (i) and (j) and redesignated former subsec. (i) as (k).
+Subsecs. (i) to (k). Pub. L. 117–103, § 102(a)(2), (3), added subsecs. (i) and (j) and redesignated former subsec. (i) as (k).
 
-2021—Pub. L. 116–315, § 2205(b)(1), inserted “, counties, and tribal organizations” after “States” in section catchline.
+2021—Pub. L. 116–315, § 2205(b)(1), inserted “, counties, and tribal organizations” after “States” in section catchline.
 
-Pub. L. 116–315, § 2205(a)(1), inserted “or county” after “State” wherever appearing.
+Pub. L. 116–315, § 2205(a)(1), inserted “or county” after “State” wherever appearing.
 
-Subsec. (a)(1). Pub. L. 116–315, § 2205(a)(2), substituted “subsections (b), (c), (d), and (g)” for “subsection (b)” in introductory provisions.
+Subsec. (a)(1). Pub. L. 116–315, § 2205(a)(2), substituted “subsections (b), (c), (d), and (g)” for “subsection (b)” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 116–315, § 2208(a)(1)(A), substituted “(ii) the cost” for “and (ii) the cost” and inserted before semicolon “; and (iii) training costs described in subsection (c)(1)”.
+Subsec. (b)(1)(A). Pub. L. 116–315, § 2208(a)(1)(A), substituted “(ii) the cost” for “and (ii) the cost” and inserted before semicolon “; and (iii) training costs described in subsection (c)(1)”.
 
-Subsec. (b)(1)(B). Pub. L. 116–315, § 2208(a)(1)(B), substituted “(ii) the cost” for “and (ii) the cost” and inserted “; and (iii) training costs described in subsection (c)(1)” before period at end.
+Subsec. (b)(1)(B). Pub. L. 116–315, § 2208(a)(1)(B), substituted “(ii) the cost” for “and (ii) the cost” and inserted “; and (iii) training costs described in subsection (c)(1)” before period at end.
 
-Subsec. (c). Pub. L. 116–315, § 2208(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 116–315, § 2208(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsecs. (d), (e). Pub. L. 116–315, § 2208(a)(2), redesignated subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
+Subsecs. (d), (e). Pub. L. 116–315, § 2208(a)(2), redesignated subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
 
-Subsec. (e)(2). Pub. L. 116–315, § 2206, substituted “$10,000,000” for “$5,000,000”.
+Subsec. (e)(2). Pub. L. 116–315, § 2206, substituted “$10,000,000” for “$5,000,000”.
 
-Subsec. (f). Pub. L. 116–315, § 2208(a)(2), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 116–315, § 2208(a)(2), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (f)(3). Pub. L. 116–315, § 2205(a)(4)(A), (B), redesignated par. (3) as (h). Such subsec. (h) subsequently redesignated (i).
+Subsec. (f)(3). Pub. L. 116–315, § 2205(a)(4)(A), (B), redesignated par. (3) as (h). Such subsec. (h) subsequently redesignated (i).
 
-Subsec. (g). Pub. L. 116–315, § 2208(a)(2), redesignated subsec. (f) as (g). Another subsec. (g), which was added by Pub. L. 116–315, § 2205(a)(3), was redesignated (h).
+Subsec. (g). Pub. L. 116–315, § 2208(a)(2), redesignated subsec. (f) as (g). Another subsec. (g), which was added by Pub. L. 116–315, § 2205(a)(3), was redesignated (h).
 
-Pub. L. 116–315, § 2205(a)(3), added subsec. (g).
+Pub. L. 116–315, § 2205(a)(3), added subsec. (g).
 
-Subsec. (h). Pub. L. 116–315, § 2208(a)(2), redesignated subsec. (g), as added by Pub. L. 116–315, § 2205(a)(3), as (h). Another subsec. (h), which was redesignated from (f)(3) by Pub. L. 116–315, § 2205(a)(4)(A), was redesignated (i).
+Subsec. (h). Pub. L. 116–315, § 2208(a)(2), redesignated subsec. (g), as added by Pub. L. 116–315, § 2205(a)(3), as (h). Another subsec. (h), which was redesignated from (f)(3) by Pub. L. 116–315, § 2205(a)(4)(A), was redesignated (i).
 
-Pub. L. 116–315, § 2205(a)(4), redesignated subsec. (f)(3) as (h) and subpars. (A) and (B) as pars. (1) and (2), respectively, and substituted “this section” for “this subsection” in introductory provisions. Subsec. (h) subsequently redesignated (i).
+Pub. L. 116–315, § 2205(a)(4), redesignated subsec. (f)(3) as (h) and subpars. (A) and (B) as pars. (1) and (2), respectively, and substituted “this section” for “this subsection” in introductory provisions. Subsec. (h) subsequently redesignated (i).
 
-Subsec. (i). Pub. L. 116–315, § 2208(a)(2), redesignated subsec. (h), as redesignated by Pub. L. 116–315, § 2205(a)(4)(A), (B), as (i).
+Subsec. (i). Pub. L. 116–315, § 2208(a)(2), redesignated subsec. (h), as redesignated by Pub. L. 116–315, § 2205(a)(4)(A), (B), as (i).
 
-2007—Subsec. (a). Pub. L. 110–157, § 202(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b) of this section, the Secretary may make grants to any State to assist such State in establishing, expanding, or improving veterans’ cemeteries owned by such State. Any such grant may be made only upon submission of an application to the Secretary in such form and manner, and containing such information, as the Secretary may require.”
+2007—Subsec. (a). Pub. L. 110–157, § 202(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b) of this section, the Secretary may make grants to any State to assist such State in establishing, expanding, or improving veterans’ cemeteries owned by such State. Any such grant may be made only upon submission of an application to the Secretary in such form and manner, and containing such information, as the Secretary may require.”
 
-Subsec. (b). Pub. L. 110–157, § 202(b)(3)(A), substituted “A grant under this section for a purpose described in subsection (a)(1)(A)” for “Grants under this section” in introductory provisions and “such a grant” for “a grant under this section” wherever appearing.
+Subsec. (b). Pub. L. 110–157, § 202(b)(3)(A), substituted “A grant under this section for a purpose described in subsection (a)(1)(A)” for “Grants under this section” in introductory provisions and “such a grant” for “a grant under this section” wherever appearing.
 
-Subsec. (d)(1). Pub. L. 110–157, § 202(b)(3)(B), struck out “to assist such State in establishing, expanding, or improving a veterans’ cemetery” before “shall be made subject”.
+Subsec. (d)(1). Pub. L. 110–157, § 202(b)(3)(B), struck out “to assist such State in establishing, expanding, or improving a veterans’ cemetery” before “shall be made subject”.
 
-Subsec. (e). Pub. L. 110–157, § 202(b)(2), designated existing provisions as par. (1) and added par. (2).
+Subsec. (e). Pub. L. 110–157, § 202(b)(2), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (f)(1). Pub. L. 110–157, § 202(b)(3)(C), inserted “, or in operating and maintaining such cemeteries,” after “veterans’ cemeteries”.
+Subsec. (f)(1). Pub. L. 110–157, § 202(b)(3)(C), inserted “, or in operating and maintaining such cemeteries,” after “veterans’ cemeteries”.
 
 2006—Subsec. (f). Pub. L. 109–461 added subsec. (f).
 
-2003—Subsec. (a). Pub. L. 108–183, § 503(a), struck out par. (1) designation before “Subject to” and struck out par. (2) which authorized amounts for fiscal years 1999 through 2004 for grants.
+2003—Subsec. (a). Pub. L. 108–183, § 503(a), struck out par. (1) designation before “Subject to” and struck out par. (2) which authorized amounts for fiscal years 1999 through 2004 for grants.
 
-Subsec. (d)(1). Pub. L. 108–183, § 503(c), struck out “on or after November 21, 1997,” after “grant made”.
+Subsec. (d)(1). Pub. L. 108–183, § 503(c), struck out “on or after November 21, 1997,” after “grant made”.
 
-Subsec. (e). Pub. L. 108–183, § 503(b), substituted “Amounts appropriated to carry out this section” for “Sums appropriated under subsection (a) of this section”.
+Subsec. (e). Pub. L. 108–183, § 503(b), substituted “Amounts appropriated to carry out this section” for “Sums appropriated under subsection (a) of this section”.
 
-1998—Subsec. (a)(2). Pub. L. 105–368, § 404(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is authorized to be appropriated $5,000,000 for fiscal year 1980 and for each of the four succeeding fiscal years, and such sums as may be necessary for fiscal year 1985 and for each of the fourteen succeeding fiscal years, for the purpose of making grants under paragraph (1) of this subsection.”
+1998—Subsec. (a)(2). Pub. L. 105–368, § 404(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is authorized to be appropriated $5,000,000 for fiscal year 1980 and for each of the four succeeding fiscal years, and such sums as may be necessary for fiscal year 1985 and for each of the fourteen succeeding fiscal years, for the purpose of making grants under paragraph (1) of this subsection.”
 
-Subsec. (b)(1), (2). Pub. L. 105–368, § 404(a)(1), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
+Subsec. (b)(1), (2). Pub. L. 105–368, § 404(a)(1), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
 “(1) The amount of any grant under this section may not exceed an amount equal to 50 percent of the total of the value of the land to be acquired or dedicated for the cemetery and the cost of the improvements to be made on such land, with the remaining amount to be contributed by the State receiving the grant.
 
 “(2) If at the time of a grant under this section the State receiving the grant dedicates for the purposes of the cemetery involved land already owned by the State, the value of such land may be considered in determining the amount of the State’s contribution under paragraph (1) of this subsection, but the value of such land may not be used for more than an amount equal to 50 percent of the amount of such contribution and may not be used as part of such State’s contribution for any subsequent grant under this section.”
 
-Subsec. (c)(1). Pub. L. 105–368, § 403(c)(8), substituted “under the control of the National Cemetery Administration” for “in the National Cemetery System”.
+Subsec. (c)(1). Pub. L. 105–368, § 403(c)(8), substituted “under the control of the National Cemetery Administration” for “in the National Cemetery System”.
 
-Subsec. (d)(1). Pub. L. 105–368, § 1005(b)(5), substituted “November 21, 1997,” for “the date of the enactment of this subsection” and “subject to the condition specified in” for “on the condition described in”.
+Subsec. (d)(1). Pub. L. 105–368, § 1005(b)(5), substituted “November 21, 1997,” for “the date of the enactment of this subsection” and “subject to the condition specified in” for “on the condition described in”.
 
-Subsec. (e). Pub. L. 105–368, § 401(b), substituted “shall remain available until expended” for “shall remain available until the end of the second fiscal year following the fiscal year for which they are appropriated” in first sentence.
+Subsec. (e). Pub. L. 105–368, § 401(b), substituted “shall remain available until expended” for “shall remain available until the end of the second fiscal year following the fiscal year for which they are appropriated” in first sentence.
 
 1997—Subsecs. (d), (e). Pub. L. 105–116 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1994—Subsec. (a)(2). Pub. L. 103–446 substituted “fourteen” for “nine”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1008 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1008 of this title as this section.
 
-Subsec. (c)(1). Pub. L. 102–83, § 5(c)(1), substituted “2404” for “1004”.
+Subsec. (c)(1). Pub. L. 102–83, § 5(c)(1), substituted “2404” for “1004”.
 
 1989—Subsecs. (a)(1), (c). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
 1988—Subsec. (a)(2). Pub. L. 100–687 substituted “nine” for second reference to “four”.
 
-Subsec. (b)(1). Pub. L. 100–322, § 343(1)–(3), redesignated par. (2) as (1), substituted “percent” for “per centum”, and struck out former par. (1) which read as follows: “No State may receive grants under this section in any fiscal year in a total amount in excess of 20 per centum of the total amount appropriated for such grants for such fiscal year.”
+Subsec. (b)(1). Pub. L. 100–322, § 343(1)–(3), redesignated par. (2) as (1), substituted “percent” for “per centum”, and struck out former par. (1) which read as follows: “No State may receive grants under this section in any fiscal year in a total amount in excess of 20 per centum of the total amount appropriated for such grants for such fiscal year.”
 
-Subsec. (b)(2). Pub. L. 100–322, § 343(2)–(4), redesignated par. (3) as (2) and substituted “percent” for “per centum” and “paragraph (1)” for “paragraph (2)”. Former par. (2) redesignated (1).
+Subsec. (b)(2). Pub. L. 100–322, § 343(2)–(4), redesignated par. (3) as (2) and substituted “percent” for “per centum” and “paragraph (1)” for “paragraph (2)”. Former par. (2) redesignated (1).
 
-Subsec. (b)(3), (4). Pub. L. 100–322, § 343(2), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+Subsec. (b)(3), (4). Pub. L. 100–322, § 343(2), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-1984—Subsec. (a)(2). Pub. L. 98–223 inserted “, and such sums as may be necessary for fiscal year 1985 and for each of the four succeeding fiscal years,” after “fiscal years”.
+1984—Subsec. (a)(2). Pub. L. 98–223 inserted “, and such sums as may be necessary for fiscal year 1985 and for each of the four succeeding fiscal years,” after “fiscal years”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2021 Amendment; Applicability**
 
-Pub. L. 116–315, title II, § 2205(c), Jan. 5, 2021, 134 Stat. 4987, as amended by Pub. L. 117–16, § 7(b)(2), June 8, 2021, 135 Stat. 285, provided that: “The amendments made by this section [amending this section] shall take on [sic] effect on the date of the enactment of this Act [Jan. 5, 2021] and shall apply with respect to grants applications submitted on or after the date that is two years after the date of the enactment of this Act..[sic]”
+Pub. L. 116–315, title II, § 2205(c), Jan. 5, 2021, 134 Stat. 4987, as amended by Pub. L. 117–16, § 7(b)(2), June 8, 2021, 135 Stat. 285, provided that: “The amendments made by this section [amending this section] shall take on [sic] effect on the date of the enactment of this Act [Jan. 5, 2021] and shall apply with respect to grants applications submitted on or after the date that is two years after the date of the enactment of this Act..[sic]”
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–368, title IV, § 404(a)(2), Nov. 11, 1998, 112 Stat. 3339, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to grants under section 2408 of title 38, United States Code, made after the end of the 60-day period beginning on the date of the enactment of this Act [Nov. 11, 1998].”
+Pub. L. 105–368, title IV, § 404(a)(2), Nov. 11, 1998, 112 Stat. 3339, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to grants under section 2408 of title 38, United States Code, made after the end of the 60-day period beginning on the date of the enactment of this Act [Nov. 11, 1998].”
 
 **Effective Date**
 
@@ -1119,13 +1119,13 @@ Section effective Oct. 18, 1978, see section 205(a) of Pub. L. 95–476, set out
 
 **Regulations**
 
-Pub. L. 110–157, title II, § 202(b)(4), Dec. 26, 2007, 121 Stat. 1833, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 26, 2007], the Secretary of Veterans Affairs shall prescribe regulations to carry out the amendments made by this subsection [amending this section].”
+Pub. L. 110–157, title II, § 202(b)(4), Dec. 26, 2007, 121 Stat. 1833, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 26, 2007], the Secretary of Veterans Affairs shall prescribe regulations to carry out the amendments made by this subsection [amending this section].”
 
 **Prohibition on Enforcing Certain Conditions on Grants for State Veterans’ Cemeteries**
 
-Pub. L. 117–103, div. CC, § 102(b), Mar. 15, 2022, 136 Stat. 1110, provided that: “The Secretary of Veterans Affairs may not enforce a condition on a grant described in subsection (i)(1) of section 2408 of title 38, United States Code, as added by subsection (a), that was established before the date of the enactment of this Act [Mar. 15, 2022].”
+Pub. L. 117–103, div. CC, § 102(b), Mar. 15, 2022, 136 Stat. 1110, provided that: “The Secretary of Veterans Affairs may not enforce a condition on a grant described in subsection (i)(1) of section 2408 of title 38, United States Code, as added by subsection (a), that was established before the date of the enactment of this Act [Mar. 15, 2022].”
 
-## § 2409. Memorial areas in Arlington National Cemetery
+## § 2409. Memorial areas in Arlington National Cemetery
 
 **(a)** The Secretary of the Army may set aside, when available, a suitable area or areas in Arlington National Cemetery, Virginia, to honor the memory of members of the Armed Forces and veterans—
 
@@ -1193,7 +1193,7 @@ Pub. L. 117–103, div. CC, § 102(b), Mar. 15, 2022, 136 Stat. 1110, provided
 
 **(ii)** the date that is 30 session days after the date on which Congress received the veto and objections of the President.
 
-(Added Pub. L. 99–576, title IV, § 413(a), Oct. 28, 1986, 100 Stat. 3284, § 1009; amended Pub. L. 101–237, title III, § 313(b)(5), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2409, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–154, title VI, § 604, Aug. 6, 2012, 126 Stat. 1201.)
+(Added Pub. L. 99–576, title IV, § 413(a), Oct. 28, 1986, 100 Stat. 3284, § 1009; amended Pub. L. 101–237, title III, § 313(b)(5), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2409, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–154, title VI, § 604, Aug. 6, 2012, 126 Stat. 1201.)
 
 **Editorial Notes**
 
@@ -1209,7 +1209,7 @@ Pub. L. 117–103, div. CC, § 102(b), Mar. 15, 2022, 136 Stat. 1110, provided
 
 **Updates and Preservation of Memorials to Chaplains at Arlington National Cemetery**
 
-Pub. L. 119–60, div. A, title X, § 1092, Dec. 18, 2025, 139 Stat. 1064, provided that:
+Pub. L. 119–60, div. A, title X, § 1092, Dec. 18, 2025, 139 Stat. 1064, provided that:
 
 > **“(a) Updates and Preservation of Memorials.—**
 
@@ -1243,17 +1243,17 @@ Pub. L. 119–60, div. A, title X, § 1092, Dec. 18, 2025, 139 Stat. 1064, pro
 
 Similar provisions were contained in the following prior act:
 
-Pub. L. 117–81, div. A, title V, § 584, Dec. 27, 2021, 135 Stat. 1758, as amended by Pub. L. 117–263, div. A, title V, § 593, Dec. 23, 2022, 136 Stat. 2612.
+Pub. L. 117–81, div. A, title V, § 584, Dec. 27, 2021, 135 Stat. 1758, as amended by Pub. L. 117–263, div. A, title V, § 593, Dec. 23, 2022, 136 Stat. 2612.
 
 **Transfer to the Secretary of the Army and Management of Parcel of Federal Land in Arlington, Virginia**
 
-Pub. L. 116–92, div. B, title XXVIII, § 2834(a), Dec. 20, 2019, 133 Stat. 1893, provided that:
+Pub. L. 116–92, div. B, title XXVIII, § 2834(a), Dec. 20, 2019, 133 Stat. 1893, provided that:
 
 > **“(1) Transfer.—** Administrative jurisdiction over the parcel of Federal land described in paragraph (2) is transferred from the Secretary of the Interior to the Secretary of the Army.
 
 > **“(2) Description of land.—** The parcel of Federal land referred to in paragraph (1) is the approximately 16.09-acre parcel of land in Arlington, Virginia, as depicted on the map entitled ‘Arlington National Cemetery, Memorial Ave–NPS Parcel’ and dated February 11, 2019.”
 
-Pub. L. 116–92, div. B, title XXVIII, § 2834(e)(3)(A), Dec. 20, 2019, 133 Stat. 1893, provided that:
+Pub. L. 116–92, div. B, title XXVIII, § 2834(e)(3)(A), Dec. 20, 2019, 133 Stat. 1893, provided that:
 
 > “The parcel of Federal land transferred to the Secretary of the Army by subsection (a)(1) [set out above] shall be administered by the Secretary of the Army—
 
@@ -1267,7 +1267,7 @@ Pub. L. 116–92, div. B, title XXVIII, § 2834(e)(3)(A), Dec. 20, 2019, 133 S
 
 **Construction of Memorial to the Crew of the Apollo I Launch Test Accident at Arlington National Cemetery**
 
-Pub. L. 115–91, div. A, title X, § 1087, Dec. 12, 2017, 131 Stat. 1604, provided that: “Subject to applicable requirements of section 2409(b)(2)(E) of title 38, United States Code, the Secretary of the Army, in consultation with the Administrator of the National Aeronautics and Space Administration, the Commission of Fine Arts, and the Advisory Committee on Arlington National Cemetery, shall authorize the construction, at an appropriate place in Arlington National Cemetery, Virginia, of a memorial marker honoring the three members of the crew of the Apollo I who died during a launch rehearsal test on January 27, 1967, in Cape Canaveral, Florida. The memorial may not be constructed in a location that is otherwise suitable as an interment site.”
+Pub. L. 115–91, div. A, title X, § 1087, Dec. 12, 2017, 131 Stat. 1604, provided that: “Subject to applicable requirements of section 2409(b)(2)(E) of title 38, United States Code, the Secretary of the Army, in consultation with the Administrator of the National Aeronautics and Space Administration, the Commission of Fine Arts, and the Advisory Committee on Arlington National Cemetery, shall authorize the construction, at an appropriate place in Arlington National Cemetery, Virginia, of a memorial marker honoring the three members of the crew of the Apollo I who died during a launch rehearsal test on January 27, 1967, in Cape Canaveral, Florida. The memorial may not be constructed in a location that is otherwise suitable as an interment site.”
 
 **Columbia Orbiter Memorial**
 
@@ -1297,9 +1297,9 @@ Pub. L. 108–11, title III, Apr. 16, 2003, 117 Stat. 603, provided that:
 
 **Authorization of Placement of a Memorial in Arlington National Cemetery Honoring World War II Veterans Who Fought in the Battle of the Bulge**
 
-Pub. L. 107–330, title II, § 204, Dec. 6, 2002, 116 Stat. 2824, provided that: “The Secretary of the Army is authorized to place in Arlington National Cemetery a memorial marker honoring veterans who fought in the battle in the European theater of operations during World War II known as the Battle of the Bulge.”
+Pub. L. 107–330, title II, § 204, Dec. 6, 2002, 116 Stat. 2824, provided that: “The Secretary of the Army is authorized to place in Arlington National Cemetery a memorial marker honoring veterans who fought in the battle in the European theater of operations during World War II known as the Battle of the Bulge.”
 
-## § 2410. Burial of cremated remains in Arlington National Cemetery
+## § 2410. Burial of cremated remains in Arlington National Cemetery
 
 **(a)** The Secretary of the Army shall designate an area of appropriate size within Arlington National Cemetery for the unmarked interment, in accordance with such regulations as the Secretary may prescribe, of the ashes of persons eligible for interment in Arlington National Cemetery whose remains were cremated. Such area shall be an area not suitable for the burial of casketed remains.
 
@@ -1311,7 +1311,7 @@ Pub. L. 107–330, title II, § 204, Dec. 6, 2002, 116 Stat. 2824, provided th
 
 **(2)** A person described in this paragraph is a person whose service has been determined to be active duty service pursuant to section 401 of the GI Bill Improvement Act of 1977 (Public Law 95–202; 38 U.S.C. 106 note) as of the date of the enactment of this paragraph.
 
-(Added Pub. L. 101–237, title V, § 502(a), Dec. 18, 1989, 103 Stat. 2093, § 1010; amended Pub. L. 102–54, § 14(b)(22), June 13, 1991, 105 Stat. 284; renumbered § 2410, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 114–158, § 1(a), May 20, 2016, 130 Stat. 394.)
+(Added Pub. L. 101–237, title V, § 502(a), Dec. 18, 1989, 103 Stat. 2093, § 1010; amended Pub. L. 102–54, § 14(b)(22), June 13, 1991, 105 Stat. 284; renumbered § 2410, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 114–158, § 1(a), May 20, 2016, 130 Stat. 394.)
 
 **Editorial Notes**
 
@@ -1331,7 +1331,7 @@ Subsec. (b). Pub. L. 102–54 substituted “each military department” for “
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–158, § 1(b), May 20, 2016, 130 Stat. 394, provided that:
+Pub. L. 114–158, § 1(b), May 20, 2016, 130 Stat. 394, provided that:
 
 > **“(1) In general.—** The amendment made by subsection (a) [amending this section] shall apply with respect to—
 
@@ -1341,7 +1341,7 @@ Pub. L. 114–158, § 1(b), May 20, 2016, 130 Stat. 394, provided that:
 
 > **“(2) Formally interred or inurned defined.—** In this subsection, the term ‘formally interred or inurned’ means interred or inurned in a cemetery, crypt, mausoleum, columbarium, niche, or other similar formal location.”
 
-## § 2410A. Arlington National Cemetery: other administrative matters
+## § 2410A. Arlington National Cemetery: other administrative matters
 
 **(a) One Gravesite.—**
 
@@ -1363,19 +1363,19 @@ Pub. L. 114–158, § 1(b), May 20, 2016, 130 Stat. 394, provided that:
 
 **(ii)** the Committee on Veterans’ Affairs and the Committee on Armed Services of the House of Representatives.
 
-(Added Pub. L. 112–154, title VI, § 602(a), Aug. 6, 2012, 126 Stat. 1199.)
+(Added Pub. L. 112–154, title VI, § 602(a), Aug. 6, 2012, 126 Stat. 1199.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 112–154, title VI, § 602(c), Aug. 6, 2012, 126 Stat. 1200, provided that:
+Pub. L. 112–154, title VI, § 602(c), Aug. 6, 2012, 126 Stat. 1200, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), section 2410A of title 38, United States Code, as added by subsection (a), shall apply with respect to all interments at Arlington National Cemetery after the date of the enactment of this Act [Aug. 6, 2012].
 
 > **“(2) Exception.—** Subsection (b) of such section, as so added, shall not apply with respect to the interment of an individual for whom a request for a reserved gravesite was approved by the Secretary of the Army before January 1, 1962.”
 
-## § 2411. Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing certain Federal or State crimes
+## § 2411. Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing certain Federal or State crimes
 
 **(a)**
 
@@ -1479,61 +1479,61 @@ Pub. L. 112–154, title VI, § 602(c), Aug. 6, 2012, 126 Stat. 1200, provided
 
 **(B)** the Secretary of the Army, in the case of Arlington National Cemetery.
 
-(Added Pub. L. 105–116, § 1(a), Nov. 21, 1997, 111 Stat. 2381; amended Pub. L. 105–368, title IV, § 403(d)(1), Nov. 11, 1998, 112 Stat. 3339; Pub. L. 107–330, title II, § 202, Dec. 6, 2002, 116 Stat. 2824; Pub. L. 109–163, div. A, title VI, § 662(a), Jan. 6, 2006, 119 Stat. 3314; Pub. L. 112–260, title I, § 105(a), (b), Jan. 10, 2013, 126 Stat. 2421; Pub. L. 113–65, § 2(a), (b), Dec. 20, 2013, 127 Stat. 669, 671; Pub. L. 114–58, title VI, § 601(14), Sept. 30, 2015, 129 Stat. 539; Pub. L. 117–355, § 6(a), Jan. 5, 2023, 136 Stat. 6280.)
+(Added Pub. L. 105–116, § 1(a), Nov. 21, 1997, 111 Stat. 2381; amended Pub. L. 105–368, title IV, § 403(d)(1), Nov. 11, 1998, 112 Stat. 3339; Pub. L. 107–330, title II, § 202, Dec. 6, 2002, 116 Stat. 2824; Pub. L. 109–163, div. A, title VI, § 662(a), Jan. 6, 2006, 119 Stat. 3314; Pub. L. 112–260, title I, § 105(a), (b), Jan. 10, 2013, 126 Stat. 2421; Pub. L. 113–65, § 2(a), (b), Dec. 20, 2013, 127 Stat. 669, 671; Pub. L. 114–58, title VI, § 601(14), Sept. 30, 2015, 129 Stat. 539; Pub. L. 117–355, § 6(a), Jan. 5, 2023, 136 Stat. 6280.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Sex Offender Registration and Notification Act, referred to in subsecs. (b)(4)(A), (5)(A), (d)(2)(A)(ii), and (e)(1)(B), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§ 20901 et seq.) of chapter 209 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see section 101 of Pub. L. 109–248, set out as a Short Title of 2006 Act note under section 10101 of Title 34, and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsecs. (b)(4)(A), (5)(A), (d)(2)(A)(ii), and (e)(1)(B), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§ 20901 et seq.) of chapter 209 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see section 101 of Pub. L. 109–248, set out as a Short Title of 2006 Act note under section 10101 of Title 34, and Tables.
 
 **Amendments**
 
-2023—Pub. L. 117–355, § 6(a)(1), substituted “certain Federal or State crimes” for “Federal or State capital crimes” in section catchline.
+2023—Pub. L. 117–355, § 6(a)(1), substituted “certain Federal or State crimes” for “Federal or State capital crimes” in section catchline.
 
-Subsec. (b)(4)(A). Pub. L. 117–355, § 6(a)(2)(A)(i), substituted “(34 U.S.C. 20901 et seq.); and” for “(42 U.S.C. 16901 et seq.);”.
+Subsec. (b)(4)(A). Pub. L. 117–355, § 6(a)(2)(A)(i), substituted “(34 U.S.C. 20901 et seq.); and” for “(42 U.S.C. 16901 et seq.);”.
 
-Subsec. (b)(4)(B). Pub. L. 117–355, § 6(a)(2)(A)(ii), inserted “or to a period of 99 years or more” after “life imprisonment”.
+Subsec. (b)(4)(B). Pub. L. 117–355, § 6(a)(2)(A)(ii), inserted “or to a period of 99 years or more” after “life imprisonment”.
 
-Subsec. (b)(5). Pub. L. 117–355, § 6(a)(2)(B), added par. (5).
+Subsec. (b)(5). Pub. L. 117–355, § 6(a)(2)(B), added par. (5).
 
-Subsec. (c). Pub. L. 117–355, § 6(a)(3), substituted “paragraph (3) or (5) of subsection (b)” for “subsection (b)(3)”.
+Subsec. (c). Pub. L. 117–355, § 6(a)(3), substituted “paragraph (3) or (5) of subsection (b)” for “subsection (b)(3)”.
 
-Subsec. (d)(2)(A)(ii). Pub. L. 117–355, § 6(a)(4), substituted “, a State capital crime, or a Federal or State crime that would cause the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act (34 U.S.C. 20901 et seq.),” for “or a State capital crime”.
+Subsec. (d)(2)(A)(ii). Pub. L. 117–355, § 6(a)(4), substituted “, a State capital crime, or a Federal or State crime that would cause the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act (34 U.S.C. 20901 et seq.),” for “or a State capital crime”.
 
-Subsec. (e)(1)(B). Pub. L. 117–355, § 6(a)(5), substituted “, a State capital crime, or a Federal or State crime that would cause the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act (34 U.S.C. 20901 et seq.),” for “or a State capital crime”.
+Subsec. (e)(1)(B). Pub. L. 117–355, § 6(a)(5), substituted “, a State capital crime, or a Federal or State crime that would cause the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act (34 U.S.C. 20901 et seq.),” for “or a State capital crime”.
 
 2015—Subsec. (e)(1). Pub. L. 114–58 substituted “Federal official” for “federal official” in introductory provisions.
 
-2013—Subsec. (a)(2). Pub. L. 113–65, § 2(b), struck out “such official approves an application for” after “received by the appropriate Federal official before”.
+2013—Subsec. (a)(2). Pub. L. 113–65, § 2(b), struck out “such official approves an application for” after “received by the appropriate Federal official before”.
 
-Pub. L. 112–260, § 105(b), substituted “, (b)(2), or (b)(4)” for “or (b)(2)” in two places and struck out “capital” before “crime” in two places.
+Pub. L. 112–260, § 105(b), substituted “, (b)(2), or (b)(4)” for “or (b)(2)” in two places and struck out “capital” before “crime” in two places.
 
-Subsec. (b)(4). Pub. L. 112–260, § 105(a), added par. (4).
+Subsec. (b)(4). Pub. L. 112–260, § 105(a), added par. (4).
 
-Subsecs. (d) to (f). Pub. L. 113–65, § 2(a), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
+Subsecs. (d) to (f). Pub. L. 113–65, § 2(a), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
-2006—Subsec. (b)(1). Pub. L. 109–163, § 662(a)(1)(A), substituted “and whose conviction is final (other than a person whose sentence was commuted by the President)” for “for which the person was sentenced to death or life imprisonment”.
+2006—Subsec. (b)(1). Pub. L. 109–163, § 662(a)(1)(A), substituted “and whose conviction is final (other than a person whose sentence was commuted by the President)” for “for which the person was sentenced to death or life imprisonment”.
 
-Subsec. (b)(2). Pub. L. 109–163, § 662(a)(1)(B), substituted “and whose conviction is final (other than a person whose sentence was commuted by the Governor of a State)” for “for which the person was sentenced to death or life imprisonment without parole”.
+Subsec. (b)(2). Pub. L. 109–163, § 662(a)(1)(B), substituted “and whose conviction is final (other than a person whose sentence was commuted by the Governor of a State)” for “for which the person was sentenced to death or life imprisonment without parole”.
 
-Subsec. (d)(1). Pub. L. 109–163, § 662(a)(2)(A), substituted “a sentence of imprisonment for life or the death penalty may be imposed” for “the death penalty or life imprisonment may be imposed”.
+Subsec. (d)(1). Pub. L. 109–163, § 662(a)(2)(A), substituted “a sentence of imprisonment for life or the death penalty may be imposed” for “the death penalty or life imprisonment may be imposed”.
 
-Subsec. (d)(2). Pub. L. 109–163, § 662(a)(2)(B), substituted “a sentence of imprisonment for life or the death penalty may be imposed” for “the death penalty or life imprisonment without parole may be imposed”.
+Subsec. (d)(2). Pub. L. 109–163, § 662(a)(2)(B), substituted “a sentence of imprisonment for life or the death penalty may be imposed” for “the death penalty or life imprisonment without parole may be imposed”.
 
 2002—Subsec. (a)(2). Pub. L. 107–330 substituted “In the case of a person described in subsection (b)(1) or (b)(2), the prohibition” for “The prohibition” and “referred to in subsection (b)(1) or (b)(2), as the case may be,” for “or finding under subsection (b)”.
 
-1998—Pub. L. 105–368, § 403(d)(1), substituted “Administration” for “System” in section catchline.
+1998—Pub. L. 105–368, § 403(d)(1), substituted “Administration” for “System” in section catchline.
 
-Subsecs. (a)(1)(A), (B), (d)(3)(A). Pub. L. 105–368, § 403(d)(1), substituted “Administration” for “System”.
+Subsecs. (a)(1)(A), (B), (d)(3)(A). Pub. L. 105–368, § 403(d)(1), substituted “Administration” for “System”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–65, § 2(c), Dec. 20, 2013, 127 Stat. 671, provided that: “The amendments made by this section [amending this section] shall apply with respect to any interment or memorialization conducted by the Secretary of Veterans Affairs or the Secretary of the Army in a cemetery in the National Cemetery Administration or in Arlington National Cemetery after the date of the enactment of this Act [Dec. 20, 2013].”
+Pub. L. 113–65, § 2(c), Dec. 20, 2013, 127 Stat. 671, provided that: “The amendments made by this section [amending this section] shall apply with respect to any interment or memorialization conducted by the Secretary of Veterans Affairs or the Secretary of the Army in a cemetery in the National Cemetery Administration or in Arlington National Cemetery after the date of the enactment of this Act [Dec. 20, 2013].”
 
-Pub. L. 112–260, title I, § 105(c), Jan. 10, 2013, 126 Stat. 2421, provided that: “The amendments made by this section [amending this section] shall apply with respect to interments and memorializations that occur on or after the date of the enactment of this Act [Jan. 10, 2013].”
+Pub. L. 112–260, title I, § 105(c), Jan. 10, 2013, 126 Stat. 2421, provided that: “The amendments made by this section [amending this section] shall apply with respect to interments and memorializations that occur on or after the date of the enactment of this Act [Jan. 10, 2013].”
 
 **Effective Date of 2006 Amendment**
 
@@ -1541,13 +1541,13 @@ Amendment by Pub. L. 109–163 applicable with respect to funerals and burials t
 
 **Effective Date**
 
-Pub. L. 105–116, § 1(c), Nov. 21, 1997, 111 Stat. 2382, provided that: “Section 2411 of title 38, United States Code, as added by subsection (a), shall apply with respect to applications for interment or memorialization made on or after the date of the enactment of this Act [Nov. 21, 1997].”
+Pub. L. 105–116, § 1(c), Nov. 21, 1997, 111 Stat. 2382, provided that: “Section 2411 of title 38, United States Code, as added by subsection (a), shall apply with respect to applications for interment or memorialization made on or after the date of the enactment of this Act [Nov. 21, 1997].”
 
 **Regulations**
 
-Pub. L. 109–163, div. A, title VI, § 662(d)(1), Jan. 6, 2006, 119 Stat. 3315, provided that: “The Secretary of Veterans Affairs shall prescribe regulations to ensure that a person is not interred in any cemetery in the National Cemetery System unless a good faith effort has been made to determine whether such person is ineligible for such interment or honors by reason of being a person described in section 2411(b) of title 38, United States Code, or is otherwise ineligible for such interment under Federal law.”
+Pub. L. 109–163, div. A, title VI, § 662(d)(1), Jan. 6, 2006, 119 Stat. 3315, provided that: “The Secretary of Veterans Affairs shall prescribe regulations to ensure that a person is not interred in any cemetery in the National Cemetery System unless a good faith effort has been made to determine whether such person is ineligible for such interment or honors by reason of being a person described in section 2411(b) of title 38, United States Code, or is otherwise ineligible for such interment under Federal law.”
 
-## § 2412. Lease of land and buildings
+## § 2412. Lease of land and buildings
 
 **(a) Lease Authorized.—** The Secretary may lease any undeveloped land and unused or underutilized buildings, or parts or parcels thereof, belonging to the United States and part of the National Cemetery Administration.
 
@@ -1557,7 +1557,7 @@ Pub. L. 109–163, div. A, title VI, § 662(d)(1), Jan. 6, 2006, 119 Stat. 331
 
 **(1)** A lease under subsection (a) to any public or nonprofit organization may be made without regard to the provisions of section 3709 of the Revised Statutes (41 U.S.C. 5).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** Notwithstanding section 1302 of title 40 or any other provision of law, a lease under subsection (a) to any public or nonprofit organization may provide for the maintenance, protection, or restoration of the leased property by the lessee, as a part or all of the consideration for the lease.
 
@@ -1579,15 +1579,15 @@ Pub. L. 109–163, div. A, title VI, § 662(d)(1), Jan. 6, 2006, 119 Stat. 331
 
 **(4)** Amounts in the Fund shall remain available until expended.
 
-(Added Pub. L. 108–454, title VI, § 602(a), Dec. 10, 2004, 118 Stat. 3623.)
+(Added Pub. L. 108–454, title VI, § 602(a), Dec. 10, 2004, 118 Stat. 3623.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3709 of the Revised Statutes, referred to in subsec. (c)(1), was classified to section 5 of former Title 41, Public Contracts, and was repealed and restated in section 6101 of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
+Section 3709 of the Revised Statutes, referred to in subsec. (c)(1), was classified to section 5 of former Title 41, Public Contracts, and was repealed and restated in section 6101 of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
-## § 2413. Prohibition on certain demonstrations and disruptions at cemeteries under control of the National Cemetery Administration and at Arlington National Cemetery
+## § 2413. Prohibition on certain demonstrations and disruptions at cemeteries under control of the National Cemetery Administration and at Arlington National Cemetery
 
 **(a) Prohibition.—** It shall be unlawful for any person—
 
@@ -1669,7 +1669,7 @@ Section 3709 of the Revised Statutes, referred to in subsec. (c)(1), was classif
 
 **(2)** the term “immediate family” means, with respect to a person, the immediate family members of such person, as such term is defined in section 115 of title 18.
 
-(Added Pub. L. 109–228, § 2(a)(1), May 29, 2006, 120 Stat. 387; amended Pub. L. 112–154, title VI, § 601(c)(1), Aug. 6, 2012, 126 Stat. 1197.)
+(Added Pub. L. 109–228, § 2(a)(1), May 29, 2006, 120 Stat. 387; amended Pub. L. 112–154, title VI, § 601(c)(1), Aug. 6, 2012, 126 Stat. 1197.)
 
 **Editorial Notes**
 
@@ -1681,9 +1681,9 @@ Section 3709 of the Revised Statutes, referred to in subsec. (c)(1), was classif
 
 **Construction**
 
-Pub. L. 109–228, § 2(b), May 29, 2006, 120 Stat. 388, provided that: “Nothing in section 2413 of title 38, United States Code (as amended by subsection (a)), shall be construed as limiting the authority of the Secretary of Veterans Affairs, with respect to property under control of the National Cemetery Administration, or the Secretary of the Army, with respect to Arlington National Cemetery, to issue or enforce regulations that prohibit or restrict conduct that is not specifically covered by section 2413 of such title (as so added).”
+Pub. L. 109–228, § 2(b), May 29, 2006, 120 Stat. 388, provided that: “Nothing in section 2413 of title 38, United States Code (as amended by subsection (a)), shall be construed as limiting the authority of the Secretary of Veterans Affairs, with respect to property under control of the National Cemetery Administration, or the Secretary of the Army, with respect to Arlington National Cemetery, to issue or enforce regulations that prohibit or restrict conduct that is not specifically covered by section 2413 of such title (as so added).”
 
-## § 2414. Communication between Department of Veterans Affairs and medical examiners and funeral directors
+## § 2414. Communication between Department of Veterans Affairs and medical examiners and funeral directors
 
 **(a) Required Information.—** With respect to each deceased veteran described in subsection (b) who is transported to a national cemetery for burial, the Secretary shall ensure that the local medical examiner, funeral director, county service group, or other entity responsible for the body of the deceased veteran before such transportation submits to the Secretary the following information:
 
@@ -1697,10 +1697,10 @@ Pub. L. 109–228, § 2(b), May 29, 2006, 120 Stat. 388, provided that: “Not
 
 **(2)** who does not have sufficient resources for the furnishing of a casket or urn for the burial of the deceased veteran in a national cemetery, as determined by the Secretary.
 
-(Added Pub. L. 112–260, title I, § 103(a), Jan. 10, 2013, 126 Stat. 2419.)
+(Added Pub. L. 112–260, title I, § 103(a), Jan. 10, 2013, 126 Stat. 2419.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 112–260, title I, § 103(c), Jan. 10, 2013, 126 Stat. 2420, provided that: “Section 2414 of title 38, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act [Jan. 10, 2013] and shall apply with respect to deaths occurring on or after the date that is 180 days after the date of the enactment of this Act.”
+Pub. L. 112–260, title I, § 103(c), Jan. 10, 2013, 126 Stat. 2420, provided that: “Section 2414 of title 38, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act [Jan. 10, 2013] and shall apply with respect to deaths occurring on or after the date that is 180 days after the date of the enactment of this Act.”

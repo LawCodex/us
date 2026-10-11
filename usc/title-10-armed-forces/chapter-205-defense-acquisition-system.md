@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 205 “DEFENSE ACQUISITION SYSTEM”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1826, and consisting of reserved section 3051, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1808(a)(1), Jan. 1, 2021, 134 Stat. 4159.
+A prior chapter 205 “DEFENSE ACQUISITION SYSTEM”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1826, and consisting of reserved section 3051, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1808(a)(1), Jan. 1, 2021, 134 Stat. 4159.
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title VIII, § 811(a)(3), title XVIII, § 1801(a)(1), (c)(1)(A), Dec. 18, 2025, 139 Stat. 948, 1221, 1223, substituted “Objectives of the defense acquisition system” for “Customer-oriented acquisition system” and “Acquisition-related functions of service chiefs” for “Acquisition-related functions of chiefs of the armed forces” in items 3102 and 3104, respectively, and struck out item 3106 “Elements of the defense acquisition system: performance goals”. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title VIII, § 811(a)(3), title XVIII, § 1801(a)(1), (c)(1)(A), Dec. 18, 2025, 139 Stat. 948, 1221, 1223, substituted “Objectives of the defense acquisition system” for “Customer-oriented acquisition system” and “Acquisition-related functions of service chiefs” for “Acquisition-related functions of chiefs of the armed forces” in items 3102 and 3104, respectively, and struck out item 3106 “Elements of the defense acquisition system: performance goals”. Amendments were made pursuant to operation of section 102 of this title.
 
-2023—Pub. L. 118–31, div. A, title XVIII, § 1801(a)(25), Dec. 22, 2023, 137 Stat. 684, inserted period at end of item 3106.
+2023—Pub. L. 118–31, div. A, title XVIII, § 1801(a)(25), Dec. 22, 2023, 137 Stat. 684, inserted period at end of item 3106.
 
-2021—Pub. L. 116–283, div. A, title XVIII, §§ 1808(a)(1), (3)(B), (c)(3), Jan. 1, 2021, 134 Stat. 4159, 4160, transferred chapter 149 of this title to this chapter, renumbered items 2545, 2546, 2546a, 2547, and 2548 as 3101, 3103, 3102, 3104, and 3105, respectively, moved item 3102 so as to follow item 3101, added items 3105 and 3106, and struck out former item 3105 (as renumbered from 2548) “Performance assessments of the defense acquisition system”.
+2021—Pub. L. 116–283, div. A, title XVIII, §§ 1808(a)(1), (3)(B), (c)(3), Jan. 1, 2021, 134 Stat. 4159, 4160, transferred chapter 149 of this title to this chapter, renumbered items 2545, 2546, 2546a, 2547, and 2548 as 3101, 3103, 3102, 3104, and 3105, respectively, moved item 3102 so as to follow item 3101, added items 3105 and 3106, and struck out former item 3105 (as renumbered from 2548) “Performance assessments of the defense acquisition system”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Review and Alignment of Standards, Guidance, and Policies Relating to Digital Engineering**
 
-Pub. L. 119–60, div. A, title II, § 221, Dec. 18, 2025, 139 Stat. 779, provided that:
+Pub. L. 119–60, div. A, title II, § 221, Dec. 18, 2025, 139 Stat. 779, provided that:
 
 > **“(a) Review Required.—**
 
@@ -99,7 +99,7 @@ Pub. L. 119–60, div. A, title II, § 221, Dec. 18, 2025, 139 Stat. 779, prov
 
 **Pilot Program for Data-Enabled Ground Vehicle Maintenance**
 
-Pub. L. 119–60, div. A, title III, § 350, Dec. 18, 2025, 139 Stat. 831, provided that:
+Pub. L. 119–60, div. A, title III, § 350, Dec. 18, 2025, 139 Stat. 831, provided that:
 
 > **“(a) In General.—** Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary concerned with respect to a covered Armed Force, in consultation with the Chief Digital and Artificial Intelligence Officer of the Department of Defense, shall establish in such covered Armed Force a pilot program under which the covered Armed Force shall use commercially available artificial intelligence technologies to improve the maintenance of ground vehicles performed by such covered Armed Force.
 
@@ -123,7 +123,7 @@ Pub. L. 119–60, div. A, title III, § 350, Dec. 18, 2025, 139 Stat. 831, pro
 
 **Objectives for Accelerating Requirements; Consultation**
 
-Pub. L. 119–60, div. A, title XVIII, § 1812(c), (d), Dec. 18, 2025, 139 Stat. 1245, provided that:
+Pub. L. 119–60, div. A, title XVIII, § 1812(c), (d), Dec. 18, 2025, 139 Stat. 1245, provided that:
 
 > **“(c) Objectives for Accelerating Requirements.—** Not later than 90 days after the date of enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall establish annual objectives for requirements processes that include, at a minimum, objectives for—
 
@@ -139,7 +139,7 @@ Pub. L. 119–60, div. A, title XVIII, § 1812(c), (d), Dec. 18, 2025, 139 Sta
 
 **Management and Utilization of Digital Data To Enhance Maintenance Activities**
 
-Pub. L. 118–159, div. A, title II, § 233, Dec. 23, 2024, 138 Stat. 1838, provided that:
+Pub. L. 118–159, div. A, title II, § 233, Dec. 23, 2024, 138 Stat. 1838, provided that:
 
 > **“(a) Policies Required.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Under Secretary of Defense for Acquisition and Sustainment, in consultation with the Secretaries of the military departments and the Chief Digital and Artificial Intelligence Officer of the Department of Defense, shall develop and implement policies to manage and utilize data derived from digital data systems for aircraft, ships, and ground vehicles to inform and support maintenance activities conducted with respect to such aircraft, ships, and vehicles.
 
@@ -173,7 +173,7 @@ Pub. L. 118–159, div. A, title II, § 233, Dec. 23, 2024, 138 Stat. 1838, pr
 
 **Modernizing the Department of Defense Requirements Process**
 
-Pub. L. 118–31, div. A, title VIII, § 811, Dec. 22, 2023, 137 Stat. 321, provided that:
+Pub. L. 118–31, div. A, title VIII, § 811, Dec. 22, 2023, 137 Stat. 321, provided that:
 
 > **“(a) Modernizing the Department of Defense Requirements Process.—** Not later than October 1, 2025, the Secretary of Defense, acting through the Vice Chairman of the Joint Chiefs of Staff, in coordination with the Secretaries of the military departments and the commanders of the combatant commands, and in consultation with the Under Secretary of Defense for Acquisition and Sustainment, shall develop and implement a streamlined requirements development process for the Department of Defense, to include revising the Joint Capabilities Integration and Development System, in order to improve alignment between modern warfare concepts, technologies, and system development and reduce the time to deliver needed capabilities to warfighters.
 
@@ -219,7 +219,7 @@ Pub. L. 118–31, div. A, title VIII, § 811, Dec. 22, 2023, 137 Stat. 321, pr
 
 **Digital Modernization of Analytical and Decision-Support Processes for Managing and Overseeing Department of Defense Acquisition Programs**
 
-Pub. L. 116–283, div. A, title VIII, § 836, Jan. 1, 2021, 134 Stat. 3756, provided that:
+Pub. L. 116–283, div. A, title VIII, § 836, Jan. 1, 2021, 134 Stat. 3756, provided that:
 
 > **“(a) Digital Data Management and Analytics Capabilities.—**
 
@@ -381,7 +381,7 @@ Pub. L. 116–283, div. A, title VIII, § 836, Jan. 1, 2021, 134 Stat. 3756, p
 
 **Prototype Projects To Digitize Defense Acquisition Regulations, Policies, and Guidance, and Empower User Tailoring of Acquisition Process**
 
-Pub. L. 115–91, div. A, title VIII, § 868, Dec. 12, 2017, 131 Stat. 1495, provided that:
+Pub. L. 115–91, div. A, title VIII, § 868, Dec. 12, 2017, 131 Stat. 1495, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, shall conduct development efforts to develop prototypes to digitize defense acquisition regulations, policies, and guidance and to develop a digital decision support tool that facilitates the ability of users to tailor programs in accordance with existing laws, regulations, and guidance.
 
@@ -399,11 +399,11 @@ Pub. L. 115–91, div. A, title VIII, § 868, Dec. 12, 2017, 131 Stat. 1495, p
 
 **Software Development Pilot Program Using Agile Best Practices**
 
-Pub. L. 115–91, div. A, title VIII, § 874, Dec. 12, 2017, 131 Stat. 1500, which required the Secretary of Defense to identify no fewer than four and up to eight software development activities within the Department of Defense or military departments to be developed in a pilot program using agile acquisition methods, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(6)(B), Dec. 18, 2025, 139 Stat. 948.
+Pub. L. 115–91, div. A, title VIII, § 874, Dec. 12, 2017, 131 Stat. 1500, which required the Secretary of Defense to identify no fewer than four and up to eight software development activities within the Department of Defense or military departments to be developed in a pilot program using agile acquisition methods, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(6)(B), Dec. 18, 2025, 139 Stat. 948.
 
 **Establishment of Set of Activities That Use Data Analysis, Measurement, and Other Evaluation-Related Methods To Improve Acquisition Program Outcomes**
 
-Pub. L. 115–91, div. A, title IX, § 913, Dec. 12, 2017, 131 Stat. 1523, as amended by Pub. L. 115–232, div. A, title X, § 1081(c)(2), Aug. 13, 2018, 132 Stat. 1985; Pub. L. 118–159, div. A, title XVII, § 1701(d)(2), Dec. 23, 2024, 138 Stat. 2207, provided that:
+Pub. L. 115–91, div. A, title IX, § 913, Dec. 12, 2017, 131 Stat. 1523, as amended by Pub. L. 115–232, div. A, title X, § 1081(c)(2), Aug. 13, 2018, 132 Stat. 1985; Pub. L. 118–159, div. A, title XVII, § 1701(d)(2), Dec. 23, 2024, 138 Stat. 2207, provided that:
 
 > **“(a) Establishment Required.—** Not later than one year after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall establish a set of activities that use data analysis, measurement, and other evaluation-related methods to improve the acquisition outcomes of the Department of Defense and enhance organizational learning.
 
@@ -427,13 +427,13 @@ Pub. L. 115–91, div. A, title IX, § 913, Dec. 12, 2017, 131 Stat. 1523, as 
 
 > **“(9)** Establishment of focused research and educational activities at the Defense Acquisition University, and appropriate private sector academic institutions, to support enhanced use of data management, data analytics, and other evaluation-related methods to improve acquisition outcomes.”
 
-[Pub. L. 115–232, div. A, title X, § 1081(c), Aug. 13, 2018, 132 Stat. 1985, provided that the amendment made by section 1081(c)(2) to section 913 of Pub. L. 115–91, set out above, is effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted.]
+[Pub. L. 115–232, div. A, title X, § 1081(c), Aug. 13, 2018, 132 Stat. 1985, provided that the amendment made by section 1081(c)(2) to section 913 of Pub. L. 115–91, set out above, is effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted.]
 
 **Review of Time-Based Requirements Process and Budgeting and Acquisition Systems**
 
-Pub. L. 114–92, div. A, title VIII, § 810, Nov. 25, 2015, 129 Stat. 890, which related to review of time-based requirements process and budgeting and acquisition systems, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(8)(B), Dec. 18, 2025, 139 Stat. 948.
+Pub. L. 114–92, div. A, title VIII, § 810, Nov. 25, 2015, 129 Stat. 890, which related to review of time-based requirements process and budgeting and acquisition systems, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(8)(B), Dec. 18, 2025, 139 Stat. 948.
 
-## § 3101. Definitions
+## § 3101. Definitions
 
 In this chapter:
 
@@ -461,21 +461,21 @@ In this chapter:
 
 **(E)** the Chief of Space Operations, with respect to matters concerning the Space Force.
 
-(Added Pub. L. 111–383, div. A, title VIII, § 861(a), Jan. 7, 2011, 124 Stat. 4288, § 2545; amended Pub. L. 113–291, div. A, title X, § 1071(a)(11), Dec. 19, 2014, 128 Stat. 3505; renumbered § 3101 and amended Pub. L. 116–283, div. A, title XVIII, § 1808(a)(2), (b)(1), Jan. 1, 2021, 134 Stat. 4159, 4160; Pub. L. 119–60, div. A, title XVIII, § 1801(e)(1), Dec. 18, 2025, 139 Stat. 1224.)
+(Added Pub. L. 111–383, div. A, title VIII, § 861(a), Jan. 7, 2011, 124 Stat. 4288, § 2545; amended Pub. L. 113–291, div. A, title X, § 1071(a)(11), Dec. 19, 2014, 128 Stat. 3505; renumbered § 3101 and amended Pub. L. 116–283, div. A, title XVIII, § 1808(a)(2), (b)(1), Jan. 1, 2021, 134 Stat. 4159, 4160; Pub. L. 119–60, div. A, title XVIII, § 1801(e)(1), Dec. 18, 2025, 139 Stat. 1224.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section 2545 of this title, which was transferred to this section by Pub. L. 116–283, § 1808(a)(2), was also transferred or copied in large part to section 3001 of this title by Pub. L. 116–283, § 1806(a)(2)–(4).
+Section 2545 of this title, which was transferred to this section by Pub. L. 116–283, § 1808(a)(2), was also transferred or copied in large part to section 3001 of this title by Pub. L. 116–283, § 1806(a)(2)–(4).
 
 **Amendments**
 
 2025—Pub. L. 119–60 amended text generally. Prior to amendment, text defined the term “acquisition”.
 
-2021—Pub. L. 116–283, § 1808(b)(1), substituted “In this chapter, the term” for “In this chapter:”, par. (1) designation, and “The term” and struck out pars. (2) to (4) which defined “defense acquisition system”, “element of the defense acquisition system”, and “acquisition workforce”.
+2021—Pub. L. 116–283, § 1808(b)(1), substituted “In this chapter, the term” for “In this chapter:”, par. (1) designation, and “The term” and struck out pars. (2) to (4) which defined “defense acquisition system”, “element of the defense acquisition system”, and “acquisition workforce”.
 
-Pub. L. 116–283, § 1808(a)(2), renumbered section 2545 of this title as this section.
+Pub. L. 116–283, § 1808(a)(2), renumbered section 2545 of this title as this section.
 
 2014—Par. (1). Pub. L. 113–291 substituted “section 131 of title 41” for “section 4(16) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(16))”.
 
@@ -485,7 +485,7 @@ Pub. L. 116–283, § 1808(a)(2), renumbered section 2545 of this title as thi
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 3102. Objectives of the defense acquisition system
+## § 3102. Objectives of the defense acquisition system
 
 **(a) In General.—** The Secretary of Defense shall ensure that the defense acquisition system expeditiously provides the armed forces with the capabilities necessary to operate effectively, to address evolving threats, and to sustain the military advantage of the United States in the most cost-effective manner practicable.
 
@@ -505,7 +505,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(7)** Approaches to workforce training and development that equally balance emphasis on functional and technical skills with skills in cross-functional integration, critical thinking, and innovative approaches that best deliver solutions to operational problems.
 
-(Added Pub. L. 114–92, div. A, title VIII, § 802(a)(1), Nov. 25, 2015, 129 Stat. 878, § 2546a; renumbered § 3102 and amended Pub. L. 116–283, div. A, title XVIII, § 1808(a)(2), (3)(A), Jan. 1, 2021, 134 Stat. 4159; Pub. L. 119–60, div. A, title XVIII, § 1801(a)(1), Dec. 18, 2025, 139 Stat. 1221.)
+(Added Pub. L. 114–92, div. A, title VIII, § 802(a)(1), Nov. 25, 2015, 129 Stat. 878, § 2546a; renumbered § 3102 and amended Pub. L. 116–283, div. A, title XVIII, § 1808(a)(2), (3)(A), Jan. 1, 2021, 134 Stat. 4159; Pub. L. 119–60, div. A, title XVIII, § 1801(a)(1), Dec. 18, 2025, 139 Stat. 1221.)
 
 **Editorial Notes**
 
@@ -523,9 +523,9 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Consideration of Trade-Offs Among Cost, Schedule, and Performance Objectives in Department of Defense Acquisition Programs**
 
-Pub. L. 111–23, title II, § 201(a), May 22, 2009, 123 Stat. 1719, which related to consideration of trade-offs among cost, schedule, and performance objectives in Department of Defense acquisition programs, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(4), Dec. 18, 2025, 139 Stat. 1244.
+Pub. L. 111–23, title II, § 201(a), May 22, 2009, 123 Stat. 1719, which related to consideration of trade-offs among cost, schedule, and performance objectives in Department of Defense acquisition programs, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(4), Dec. 18, 2025, 139 Stat. 1244.
 
-## § 3103. Civilian management of the defense acquisition system
+## § 3103. Civilian management of the defense acquisition system
 
 **(a) Responsibility of the Under Secretary of Defense for Acquisition and Sustainment.—** Subject to the authority, direction and control of the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment shall be responsible for the management of the defense acquisition system and shall exercise such control of the system and perform such duties as are necessary in accordance with the objectives of the defense acquisition system established pursuant to section 3102 of this title, including the duties enumerated and assigned to the Under Secretary elsewhere in this title.
 
@@ -543,21 +543,21 @@ Pub. L. 111–23, title II, § 201(a), May 22, 2009, 123 Stat. 1719, which rel
 
 **(6)** foster mutual transparency and cooperation between the Government and private sector entities and require collaboration with such entities to ensure delivery of safe, suitable, and effective systems on relevant timelines and on established cost baselines.
 
-(Added Pub. L. 111–383, div. A, title VIII, § 861(a), Jan. 7, 2011, 124 Stat. 4288, § 2546; amended Pub. L. 116–92, div. A, title IX, § 902(78), Dec. 20, 2019, 133 Stat. 1552; renumbered § 3103, Pub. L. 116–283, div. A, title XVIII, § 1808(a)(2), Jan. 1, 2021, 134 Stat. 4159; Pub. L. 119–60, div. A, title XVIII, § 1801(b), Dec. 18, 2025, 139 Stat. 1222.)
+(Added Pub. L. 111–383, div. A, title VIII, § 861(a), Jan. 7, 2011, 124 Stat. 4288, § 2546; amended Pub. L. 116–92, div. A, title IX, § 902(78), Dec. 20, 2019, 133 Stat. 1552; renumbered § 3103, Pub. L. 116–283, div. A, title XVIII, § 1808(a)(2), Jan. 1, 2021, 134 Stat. 4159; Pub. L. 119–60, div. A, title XVIII, § 1801(b), Dec. 18, 2025, 139 Stat. 1222.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 1801(b)(1), substituted “in accordance with the objectives of the defense acquisition system established pursuant to section 3102 of this title” for “to ensure the successful and efficient operation of the defense acquisition system”.
+2025—Subsec. (a). Pub. L. 119–60, § 1801(b)(1), substituted “in accordance with the objectives of the defense acquisition system established pursuant to section 3102 of this title” for “to ensure the successful and efficient operation of the defense acquisition system”.
 
-Subsec. (b). Pub. L. 119–60, § 1801(b)(2), substituted “in accordance with the objectives of the defense acquisition system established pursuant to section 3102 of this title. In carrying out this subsection, each service acquisition executive shall—” and pars. (1) to (6) for “to ensure the successful and efficient operation of such elements of the defense acquisition system.”
+Subsec. (b). Pub. L. 119–60, § 1801(b)(2), substituted “in accordance with the objectives of the defense acquisition system established pursuant to section 3102 of this title. In carrying out this subsection, each service acquisition executive shall—” and pars. (1) to (6) for “to ensure the successful and efficient operation of such elements of the defense acquisition system.”
 
 2021—Pub. L. 116–283 renumbered section 2546 of this title as this section.
 
-2019—Subsec. (a). Pub. L. 116–92, § 902(78)(A), (B), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics” in heading and text.
+2019—Subsec. (a). Pub. L. 116–92, § 902(78)(A), (B), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics” in heading and text.
 
-Subsec. (b). Pub. L. 116–92, § 902(78)(C), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (b). Pub. L. 116–92, § 902(78)(C), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -565,7 +565,7 @@ Subsec. (b). Pub. L. 116–92, § 902(78)(C), substituted “Under Secretary o
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 3104. Acquisition-related functions of service chiefs
+## § 3104. Acquisition-related functions of service chiefs
 
 **(a) Performance of Certain Acquisition-related Functions.—** The Secretary of Defense shall ensure that the service chiefs assist the Secretary of the military department concerned, in accordance with the objectives established pursuant to section 3102 of this title, in the performance of the following acquisition-related functions of such department:
 
@@ -615,21 +615,21 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(d) Requirements Document Defined.—** In this section, the term “requirements document” means a document that establishes the need for a materiel approach to address an operational problem.
 
-(Added Pub. L. 111–383, div. A, title VIII, § 861(a), Jan. 7, 2011, 124 Stat. 4289, § 2547; amended Pub. L. 112–239, div. A, title IX, § 951(c), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, § 802(b), Nov. 25, 2015, 129 Stat. 879; Pub. L. 114–328, div. A, title VIII, § 807(c), Dec. 23, 2016, 130 Stat. 2261; Pub. L. 115–91, div. A, title VIII, § 833, Dec. 12, 2017, 131 Stat. 1468; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title XVII, § 1731(a)(52), Dec. 20, 2019, 133 Stat. 1815; renumbered § 3104 and amended Pub. L. 116–283, div. A, title IX, § 924(b)(32), title XVIII, § 1808(a)(2), (b)(2), Jan. 1, 2021, 134 Stat. 3825, 4159, 4160; Pub. L. 119–60, div. A, title XVIII, § 1801(c), Dec. 18, 2025, 139 Stat. 1223.)
+(Added Pub. L. 111–383, div. A, title VIII, § 861(a), Jan. 7, 2011, 124 Stat. 4289, § 2547; amended Pub. L. 112–239, div. A, title IX, § 951(c), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, § 802(b), Nov. 25, 2015, 129 Stat. 879; Pub. L. 114–328, div. A, title VIII, § 807(c), Dec. 23, 2016, 130 Stat. 2261; Pub. L. 115–91, div. A, title VIII, § 833, Dec. 12, 2017, 131 Stat. 1468; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title XVII, § 1731(a)(52), Dec. 20, 2019, 133 Stat. 1815; renumbered § 3104 and amended Pub. L. 116–283, div. A, title IX, § 924(b)(32), title XVIII, § 1808(a)(2), (b)(2), Jan. 1, 2021, 134 Stat. 3825, 4159, 4160; Pub. L. 119–60, div. A, title XVIII, § 1801(c), Dec. 18, 2025, 139 Stat. 1223.)
 
 **Editorial Notes**
 
 **Codification**
 
-In addition to being transferred to this section as part of the renumbering of section 2547 of this title, subsec. (b) of section 2547 of this title had also been directed to be transferred to section 4274 of this title and redesignated as subsec. (a) of that section by Pub. L. 116–283, div. A, title XVIII, § 1847(e)(4)(B), Jan. 1, 2021, 134 Stat. 4257. Section 1847(e)(4)(B) of Pub. L. 116–283 was repealed by Pub. L. 117–81, div. A, title XVII, § 1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149, effective as if included in title XVIII of Pub. L. 116–283.
+In addition to being transferred to this section as part of the renumbering of section 2547 of this title, subsec. (b) of section 2547 of this title had also been directed to be transferred to section 4274 of this title and redesignated as subsec. (a) of that section by Pub. L. 116–283, div. A, title XVIII, § 1847(e)(4)(B), Jan. 1, 2021, 134 Stat. 4257. Section 1847(e)(4)(B) of Pub. L. 116–283 was repealed by Pub. L. 117–81, div. A, title XVII, § 1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149, effective as if included in title XVIII of Pub. L. 116–283.
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 1801(c)(1)(A), substituted “Acquisition-related functions of service chiefs” for “Acquisition-related functions of chiefs of the armed forces” in section catchline.
+2025—Pub. L. 119–60, § 1801(c)(1)(A), substituted “Acquisition-related functions of service chiefs” for “Acquisition-related functions of chiefs of the armed forces” in section catchline.
 
-Subsec. (a). Pub. L. 119–60, § 1801(c)(1)(B)(i), (ii), in introductory provisions, substituted “service chiefs assist” for “Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, and the Chief of Space Operations assist” and inserted “, in accordance with the objectives established pursuant to section 3102 of this title,” after “Secretary of the military department concerned”.
+Subsec. (a). Pub. L. 119–60, § 1801(c)(1)(B)(i), (ii), in introductory provisions, substituted “service chiefs assist” for “Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, and the Chief of Space Operations assist” and inserted “, in accordance with the objectives established pursuant to section 3102 of this title,” after “Secretary of the military department concerned”.
 
-Subsec. (a)(1) to (7). Pub. L. 119–60, § 1801(c)(1)(B)(iii), amended pars. (1) to (7) generally. Prior to amendment, pars. (1) to (7) read as follows:
+Subsec. (a)(1) to (7). Pub. L. 119–60, § 1801(c)(1)(B)(iii), amended pars. (1) to (7) generally. Prior to amendment, pars. (1) to (7) read as follows:
 
 “(1) The development of requirements for equipping the armed force concerned (subject, where appropriate, to validation by the Joint Requirements Oversight Council pursuant to section 181 of this title).
 
@@ -645,27 +645,27 @@ Subsec. (a)(1) to (7). Pub. L. 119–60, § 1801(c)(1)(B)(iii), amended pars. 
 
 “(7) The assignment and training of contracting officer representatives when such representatives are required to be members of the armed forces because of the nature of the contract concerned.”
 
-Subsec. (b)(1). Pub. L. 119–60, § 1801(c)(2)(A), substituted “any requirements document” for “the program capability document supporting a Milestone B or subsequent decision” and “service chief concerned” for “chief of the armed force concerned”.
+Subsec. (b)(1). Pub. L. 119–60, § 1801(c)(2)(A), substituted “any requirements document” for “the program capability document supporting a Milestone B or subsequent decision” and “service chief concerned” for “chief of the armed force concerned”.
 
-Subsec. (b)(2). Pub. L. 119–60, § 1801(c)(2)(B)(i), in introductory provisions, substituted “service chief concerned” for “Chief of the armed force concerned” and “service chiefs concerned” for “chiefs of the armed forces concerned”.
+Subsec. (b)(2). Pub. L. 119–60, § 1801(c)(2)(B)(i), in introductory provisions, substituted “service chief concerned” for “Chief of the armed force concerned” and “service chiefs concerned” for “chiefs of the armed forces concerned”.
 
-Subsec. (b)(2)(A). Pub. L. 119–60, § 1801(c)(2)(B)(ii), struck out “prior to entry into the Materiel Solution Analysis Phase under Department of Defense Instruction 5000.02” before semicolon at end.
+Subsec. (b)(2)(A). Pub. L. 119–60, § 1801(c)(2)(B)(ii), struck out “prior to entry into the Materiel Solution Analysis Phase under Department of Defense Instruction 5000.02” before semicolon at end.
 
-Subsec. (b)(2)(B). Pub. L. 119–60, § 1801(c)(2)(B)(iii), substituted “life-cycle cost, delivery schedule, performance objective, technical feasibility, and procurement quantity trade-offs” for “cost, schedule, technical feasibility, and performance trade-offs”.
+Subsec. (b)(2)(B). Pub. L. 119–60, § 1801(c)(2)(B)(iii), substituted “life-cycle cost, delivery schedule, performance objective, technical feasibility, and procurement quantity trade-offs” for “cost, schedule, technical feasibility, and performance trade-offs”.
 
-Subsec. (d). Pub. L. 119–60, § 1801(c)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) defined the terms “requirements creep”, ‘requirements document”, and “program capability document”.
+Subsec. (d). Pub. L. 119–60, § 1801(c)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) defined the terms “requirements creep”, ‘requirements document”, and “program capability document”.
 
-2021—Pub. L. 116–283, § 1808(a)(2), renumbered section 2547 of this title as this section.
+2021—Pub. L. 116–283, § 1808(a)(2), renumbered section 2547 of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, § 924(b)(32), substituted “the Commandant of the Marine Corps, and the Chief of Space Operations” for “and the Commandant of the Marine Corps”.
+Subsec. (a). Pub. L. 116–283, § 924(b)(32), substituted “the Commandant of the Marine Corps, and the Chief of Space Operations” for “and the Commandant of the Marine Corps”.
 
-Subsec. (b)(1). Pub. L. 116–283, § 1808(b)(2)(A), substituted “section 4271(a)” for “section 2448a(a)”.
+Subsec. (b)(1). Pub. L. 116–283, § 1808(b)(2)(A), substituted “section 4271(a)” for “section 2448a(a)”.
 
-Subsec. (b)(2)(B). Pub. L. 116–283, § 1808(b)(2)(B), substituted “section 4251” for “section 2366a”.
+Subsec. (b)(2)(B). Pub. L. 116–283, § 1808(b)(2)(B), substituted “section 4251” for “section 2366a”.
 
-Subsec. (b)(2)(C). Pub. L. 116–283, § 1808(b)(2)(C), substituted “section 4252” for “section 2366b”.
+Subsec. (b)(2)(C). Pub. L. 116–283, § 1808(b)(2)(C), substituted “section 4252” for “section 2366b”.
 
-Subsec. (d)(3). Pub. L. 116–283, § 1808(b)(2)(D), substituted “section 4401(b)(5)” for “section 2446a(b)(5)”.
+Subsec. (d)(3). Pub. L. 116–283, § 1808(b)(2)(D), substituted “section 4401(b)(5)” for “section 2446a(b)(5)”.
 
 2019—Subsec. (b)(2)(A). Pub. L. 116–92 substituted “materiel” for “material” and “Materiel” for “Material” in two places.
 
@@ -673,21 +673,21 @@ Subsec. (d)(3). Pub. L. 116–283, § 1808(b)(2)(D), substituted “section 44
 
 2017—Subsec. (b). Pub. L. 115–91 designated existing provisions as par. (1) and added par. (2).
 
-2016—Subsecs. (b), (c). Pub. L. 114–328, § 807(c)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+2016—Subsecs. (b), (c). Pub. L. 114–328, § 807(c)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 114–328, § 807(c)(1), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 114–328, § 807(c)(1), redesignated subsec. (c) as (d).
 
-Subsec. (d)(3). Pub. L. 114–328, § 807(c)(3), added par. (3).
+Subsec. (d)(3). Pub. L. 114–328, § 807(c)(3), added par. (3).
 
-2015—Subsec. (a)(2) to (5). Pub. L. 114–92, § 802(b)(1), (2), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
+2015—Subsec. (a)(2) to (5). Pub. L. 114–92, § 802(b)(1), (2), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
 
-Subsec. (a)(6). Pub. L. 114–92, § 802(b)(1), (3), redesignated par. (5) as (6) and substituted “The development and management” for “The development”. Former par. (6) redesignated (7).
+Subsec. (a)(6). Pub. L. 114–92, § 802(b)(1), (3), redesignated par. (5) as (6) and substituted “The development and management” for “The development”. Former par. (6) redesignated (7).
 
-Subsec. (a)(7). Pub. L. 114–92, § 802(b)(1), redesignated par. (6) as (7).
+Subsec. (a)(7). Pub. L. 114–92, § 802(b)(1), redesignated par. (6) as (7).
 
-2013—Subsec. (a)(1). Pub. L. 112–239, § 951(c)(1), substituted “of requirements for equipping the armed force concerned” for “of requirements relating to the defense acquisition system”.
+2013—Subsec. (a)(1). Pub. L. 112–239, § 951(c)(1), substituted “of requirements for equipping the armed force concerned” for “of requirements relating to the defense acquisition system”.
 
-Subsec. (a)(3) to (6). Pub. L. 112–239, § 951(c)(2), (3), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
+Subsec. (a)(3) to (6). Pub. L. 112–239, § 951(c)(2), (3), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -701,9 +701,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Implementation**
 
-Pub. L. 119–60, div. A, title XVIII, § 1801(d), Dec. 18, 2025, 139 Stat. 1224, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall revise Department of Defense Directive 5000.01 and any other relevant instructions, policies, or guidance to carry out the requirements of this section and the amendments made by this section [amending this section and sections 133b, 139, 139a, 3102, and 3103 of this title].”
+Pub. L. 119–60, div. A, title XVIII, § 1801(d), Dec. 18, 2025, 139 Stat. 1224, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall revise Department of Defense Directive 5000.01 and any other relevant instructions, policies, or guidance to carry out the requirements of this section and the amendments made by this section [amending this section and sections 133b, 139, 139a, 3102, and 3103 of this title].”
 
-## § 3105. Elements of the defense acquisition system: performance assessments
+## § 3105. Elements of the defense acquisition system: performance assessments
 
 **(a) Performance Assessments Required.—** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, the Director of Procurement and Acquisition Policy, and the Director of the Office of Performance Assessment and Root Cause Analysis, shall issue guidance, with detailed implementation instructions, for the Department of Defense to provide for periodic independent performance assessments of elements of the defense acquisition system for the purpose of—
 
@@ -775,31 +775,31 @@ Pub. L. 119–60, div. A, title XVIII, § 1801(d), Dec. 18, 2025, 139 Stat. 12
 
 **(8)** procedures for ensuring that information from performance assessments are retained electronically and are provided in a timely manner to the Under Secretary of Defense for Acquisition and Sustainment and the Director of the Office of Performance Assessment and Root Cause Analysis as needed to assist them in performing their responsibilities under this section.
 
-(Added Pub. L. 111–383, div. A, title VIII, § 861(a), Jan. 7, 2011, 124 Stat. 4289, § 2548; amended Pub. L. 112–239, div. A, title X, § 1076(d)(5), (f)(30), Jan. 2, 2013, 126 Stat. 1951, 1953; Pub. L. 115–91, div. A, title X, § 1081(a)(41), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title IX, § 902(79), Dec. 20, 2019, 133 Stat. 1553; renumbered § 3105 and amended Pub. L. 116–283, div. A, title XVIII, § 1808(a)(2), (b)(3), (c)(1)(A), (2), Jan. 1, 2021, 134 Stat. 4159, 4160.)
+(Added Pub. L. 111–383, div. A, title VIII, § 861(a), Jan. 7, 2011, 124 Stat. 4289, § 2548; amended Pub. L. 112–239, div. A, title X, § 1076(d)(5), (f)(30), Jan. 2, 2013, 126 Stat. 1951, 1953; Pub. L. 115–91, div. A, title X, § 1081(a)(41), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title IX, § 902(79), Dec. 20, 2019, 133 Stat. 1553; renumbered § 3105 and amended Pub. L. 116–283, div. A, title XVIII, § 1808(a)(2), (b)(3), (c)(1)(A), (2), Jan. 1, 2021, 134 Stat. 4159, 4160.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1808(a)(2), (c)(2), renumbered section 2548 of this title as this section and substituted “Elements of the defense acquisition system: performance assessments” for “Performance assessments of the defense acquisition system” in section catchline.
+2021—Pub. L. 116–283, § 1808(a)(2), (c)(2), renumbered section 2548 of this title as this section and substituted “Elements of the defense acquisition system: performance assessments” for “Performance assessments of the defense acquisition system” in section catchline.
 
-Subsec. (b)(2)(B)(i). Pub. L. 116–283, § 1808(b)(3), substituted “sections 3701 through 3708” for “section 2306a”.
+Subsec. (b)(2)(B)(i). Pub. L. 116–283, § 1808(b)(3), substituted “sections 3701 through 3708” for “section 2306a”.
 
-Subsecs. (d), (e). Pub. L. 116–283, § 1808(c)(1)(A), transferred subsecs. (d) and (e) of this section to section 3106 of this title.
+Subsecs. (d), (e). Pub. L. 116–283, § 1808(c)(1)(A), transferred subsecs. (d) and (e) of this section to section 3106 of this title.
 
 2019—Subsecs. (a), (c)(8). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
 2017—Subsec. (e). Pub. L. 115–91 substituted “Requirement” for “Requirements” in heading, struck out introductory provisions “Beginning with fiscal year 2012—”, substituted “The annual report prepared by the Secretary” for “(1) the annual report prepared by the Secretary”, and struck out par. (2) which read as follows: “the annual report prepared by the Director of the Office of Performance Assessment and Root Cause Analysis pursuant to section 2438(f) of this title shall include information on the activities undertaken by the Department pursuant to such section, including a summary of significant findings or recommendations arising out of performance assessments.”
 
-2013—Subsec. (a). Pub. L. 112–239, § 1076(f)(30)(A)(i), substituted “The Secretary” for “Not later than 180 days after the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, the Secretary” in introductory provisions.
+2013—Subsec. (a). Pub. L. 112–239, § 1076(f)(30)(A)(i), substituted “The Secretary” for “Not later than 180 days after the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, the Secretary” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 112–239, § 1076(f)(30)(A)(ii), inserted period at end.
+Subsec. (a)(3). Pub. L. 112–239, § 1076(f)(30)(A)(ii), inserted period at end.
 
-Subsec. (d). Pub. L. 112–239, § 1076(f)(30)(B), inserted “and” after “Government Performance” in heading and substituted “The” for “Beginning with fiscal year 2012, the” in text.
+Subsec. (d). Pub. L. 112–239, § 1076(f)(30)(B), inserted “and” after “Government Performance” in heading and substituted “The” for “Beginning with fiscal year 2012, the” in text.
 
-Subsec. (e)(1). Pub. L. 112–239, § 1076(f)(30)(C), struck out “, United States Code,” after “title 31”.
+Subsec. (e)(1). Pub. L. 112–239, § 1076(f)(30)(C), struck out “, United States Code,” after “title 31”.
 
-Subsec. (e)(2). Pub. L. 112–239, § 1076(d)(5), substituted “section 2438(f) of this title” for “section 103(f) of the Weapon Systems Acquisition Reform Act of 2009 (10 U.S.C. 2430 note),”.
+Subsec. (e)(2). Pub. L. 112–239, § 1076(d)(5), substituted “section 2438(f) of this title” for “section 103(f) of the Weapon Systems Acquisition Reform Act of 2009 (10 U.S.C. 2430 note),”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -807,6 +807,6 @@ Subsec. (e)(2). Pub. L. 112–239, § 1076(d)(5), substituted “section 2438(
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## [§ 3106. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(3), Dec. 18, 2025, 139 Stat. 948]
+## [§ 3106. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(3), Dec. 18, 2025, 139 Stat. 948]
 
-Section, added and amended Pub. L. 116–283, div. A, title XVIII, § 1808(c)(1), Jan. 1, 2021, 134 Stat. 4160, related to performance goals for elements of the defense acquisition system.
+Section, added and amended Pub. L. 116–283, div. A, title XVIII, § 1808(c)(1), Jan. 1, 2021, 134 Stat. 4160, related to performance goals for elements of the defense acquisition system.

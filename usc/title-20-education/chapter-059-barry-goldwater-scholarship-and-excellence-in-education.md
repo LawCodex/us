@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 59—BARRY GOLDWATER SCHOLARSHIP AND EXCELLENCE IN EDUCATION PROGRAM
 
-## § 4701. Findings
+## § 4701. Findings
 
 The Congress makes the following findings:
 
@@ -27,19 +27,19 @@ The Congress makes the following findings:
 
 **(4)** It would, therefore, be a fitting tribute to the leadership, courage, and vision of Senator Goldwater to establish in his name a scholarship program to foster and encourage excellence in science and mathematics.
 
-(Pub. L. 99–661, div. A, title XIV, § 1402, Nov. 14, 1986, 100 Stat. 4008.)
+(Pub. L. 99–661, div. A, title XIV, § 1402, Nov. 14, 1986, 100 Stat. 4008.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 117–81, div. F, title LXIII, § 6301, Dec. 27, 2021, 135 Stat. 2393, provided that: “This title [amending sections 4702, 4704 to 4707, and 4710 of this title] may be cited as the ‘Barry Goldwater Scholarship and Excellence in Education Modernization Act of 2021’.”
+Pub. L. 117–81, div. F, title LXIII, § 6301, Dec. 27, 2021, 135 Stat. 2393, provided that: “This title [amending sections 4702, 4704 to 4707, and 4710 of this title] may be cited as the ‘Barry Goldwater Scholarship and Excellence in Education Modernization Act of 2021’.”
 
 **Short Title**
 
-Pub. L. 99–661, div. A, title XIV, § 1401, Nov. 14, 1986, 100 Stat. 4007, provided that: “This title [enacting this chapter] may be cited as the ‘Barry Goldwater Scholarship and Excellence in Education Act’.”
+Pub. L. 99–661, div. A, title XIV, § 1401, Nov. 14, 1986, 100 Stat. 4007, provided that: “This title [enacting this chapter] may be cited as the ‘Barry Goldwater Scholarship and Excellence in Education Act’.”
 
-## § 4702. Definitions
+## § 4702. Definitions
 
 In this chapter:
 
@@ -63,15 +63,15 @@ In this chapter:
 
 **(D)** any person who may be admitted to lawfully engage in occupations and establish residence as a nonimmigrant in the United States as permitted under the Compact of Free Association agreements with the Republic of the Marshall Islands, the Federal States of Micronesia, or the Republic of Palau.
 
-(Pub. L. 99–661, div. A, title XIV, § 1403, Nov. 14, 1986, 100 Stat. 4008; Pub. L. 105–244, title I, § 102(a)(6)(H), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 117–81, div. F, title LXIII, § 6302, Dec. 27, 2021, 135 Stat. 2393.)
+(Pub. L. 99–661, div. A, title XIV, § 1403, Nov. 14, 1986, 100 Stat. 4008; Pub. L. 105–244, title I, § 102(a)(6)(H), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 117–81, div. F, title LXIII, § 6302, Dec. 27, 2021, 135 Stat. 2393.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Par. (5). Pub. L. 117–81, § 6302(1), added par. (5) and struck out former par. (5) which read as follows: “The term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and, considered as a single entity, Guam, the Virgin Islands, American Samoa, the Trust Territories of the Pacific Islands, and the Commonwealth of the Northern Marianas.”
+2021—Par. (5). Pub. L. 117–81, § 6302(1), added par. (5) and struck out former par. (5) which read as follows: “The term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and, considered as a single entity, Guam, the Virgin Islands, American Samoa, the Trust Territories of the Pacific Islands, and the Commonwealth of the Northern Marianas.”
 
-Par. (6). Pub. L. 117–81, § 6302(2), added par. (6) and struck out former par. (6) which read as follows: “The term ‘eligible person’ means a citizen or national of the United States or a permanent resident alien of the United States.”
+Par. (6). Pub. L. 117–81, § 6302(2), added par. (6) and struck out former par. (6) which read as follows: “The term ‘eligible person’ means a citizen or national of the United States or a permanent resident alien of the United States.”
 
 1998—Par. (4). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
@@ -87,7 +87,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 4703. Establishment of Barry Goldwater Scholarship and Excellence in Education Foundation
+## § 4703. Establishment of Barry Goldwater Scholarship and Excellence in Education Foundation
 
 **(a) Establishment**
 
@@ -119,7 +119,7 @@ There is established, as an independent establishment of the executive branch of
 
 Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
-(Pub. L. 99–661, div. A, title XIV, § 1404, Nov. 14, 1986, 100 Stat. 4008; Pub. L. 100–26, § 3(10), Apr. 21, 1987, 101 Stat. 274; Pub. L. 102–190, div. A, title X, § 1089(1), Dec. 5, 1991, 105 Stat. 1485; Pub. L. 103–160, div. A, title XI, § 1179(a), Nov. 30, 1993, 107 Stat. 1770.)
+(Pub. L. 99–661, div. A, title XIV, § 1404, Nov. 14, 1986, 100 Stat. 4008; Pub. L. 100–26, § 3(10), Apr. 21, 1987, 101 Stat. 274; Pub. L. 102–190, div. A, title X, § 1089(1), Dec. 5, 1991, 105 Stat. 1485; Pub. L. 103–160, div. A, title XI, § 1179(a), Nov. 30, 1993, 107 Stat. 1770.)
 
 **Editorial Notes**
 
@@ -127,7 +127,7 @@ Members of the Board shall serve without pay, but shall be entitled to reimburse
 
 1993—Subsec. (c)(1)(C). Pub. L. 103–160 added subpar. (C).
 
-1991—Subsec. (b)(3). Pub. L. 102–190 struck out before period at end “, at least one of whom shall be a representative of the aerospace industry and at least one of whom shall be a representative of a private foundation concerned with aerospace education”.
+1991—Subsec. (b)(3). Pub. L. 102–190 struck out before period at end “, at least one of whom shall be a representative of the aerospace industry and at least one of whom shall be a representative of a private foundation concerned with aerospace education”.
 
 1987—Subsec. (c)(2). Pub. L. 100–26 substituted “clause (1) or (2)” for “clause (2) or (3)”.
 
@@ -137,7 +137,7 @@ Members of the Board shall serve without pay, but shall be entitled to reimburse
 
 Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of Title 10, Armed Forces.
 
-## § 4704. Barry Goldwater scholarship and excellence in education awards
+## § 4704. Barry Goldwater scholarship and excellence in education awards
 
 **(a) Award of scholarships, fellowships, and research internships**
 
@@ -169,31 +169,31 @@ Recipients of scholarships and fellowships under this chapter shall be known as 
 
 **(2)** The Board shall establish a schedule of honoraria to be awarded under paragraph (1).
 
-(Pub. L. 99–661, div. A, title XIV, § 1405, Nov. 14, 1986, 100 Stat. 4009; Pub. L. 117–81, div. F, title LXIII, § 6303, Dec. 27, 2021, 135 Stat. 2393.)
+(Pub. L. 99–661, div. A, title XIV, § 1405, Nov. 14, 1986, 100 Stat. 4009; Pub. L. 117–81, div. F, title LXIII, § 6303, Dec. 27, 2021, 135 Stat. 2393.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 117–81, § 6303(a)(1), substituted “Award of scholarships, fellowships, and research internships” for “Award of scholarships and fellowships” in heading.
+2021—Subsec. (a). Pub. L. 117–81, § 6303(a)(1), substituted “Award of scholarships, fellowships, and research internships” for “Award of scholarships and fellowships” in heading.
 
-Subsec. (a)(1). Pub. L. 117–81, § 6303(a)(2)(B), substituted “the natural sciences, engineering, and mathematics” for “science and mathematics”.
+Subsec. (a)(1). Pub. L. 117–81, § 6303(a)(2)(B), substituted “the natural sciences, engineering, and mathematics” for “science and mathematics”.
 
-Pub. L. 117–81, § 6303(a)(2)(A), which directed substitution of “scholarships, fellowships, and research internships” for “scholarships and fellowships”, was executed by making the substitution in two places, to reflect the probable intent of Congress.
+Pub. L. 117–81, § 6303(a)(2)(A), which directed substitution of “scholarships, fellowships, and research internships” for “scholarships and fellowships”, was executed by making the substitution in two places, to reflect the probable intent of Congress.
 
-Subsec. (a)(2). Pub. L. 117–81, § 6303(a)(3), substituted “the natural sciences, engineering, and mathematics, which shall be prioritized for students attending community colleges and minority-serving institutions specified in section 1067q(a) of this title” for “mathematics and the natural sciences”.
+Subsec. (a)(2). Pub. L. 117–81, § 6303(a)(3), substituted “the natural sciences, engineering, and mathematics, which shall be prioritized for students attending community colleges and minority-serving institutions specified in section 1067q(a) of this title” for “mathematics and the natural sciences”.
 
-Subsec. (a)(3). Pub. L. 117–81, § 6303(a)(4), substituted “the natural sciences, engineering, and mathematics” for “mathematics and the natural sciences”.
+Subsec. (a)(3). Pub. L. 117–81, § 6303(a)(4), substituted “the natural sciences, engineering, and mathematics” for “mathematics and the natural sciences”.
 
-Subsec. (a)(4), (5). Pub. L. 117–81, § 6303(a)(5)–(7), added par. (4), redesignated former par. (4) as (5), and in par. (5) substituted “scholarships, fellowships, and research internships” for “scholarships and fellowships”.
+Subsec. (a)(4), (5). Pub. L. 117–81, § 6303(a)(5)–(7), added par. (4), redesignated former par. (4) as (5), and in par. (5) substituted “scholarships, fellowships, and research internships” for “scholarships and fellowships”.
 
-Subsec. (b). Pub. L. 117–81, § 6303(b), inserted “and Research Interns” after “Scholars” in heading, and inserted “Recipients of research internships under this chapter shall be known as ‘Barry Goldwater Interns’.” at end.
+Subsec. (b). Pub. L. 117–81, § 6303(b), inserted “and Research Interns” after “Scholars” in heading, and inserted “Recipients of research internships under this chapter shall be known as ‘Barry Goldwater Interns’.” at end.
 
-## § 4705. Stipends
+## § 4705. Stipends
 
 Each person awarded a scholarship or fellowship under this chapter shall receive a stipend which shall not exceed the cost to such person for tuition, fees, books, room and board, or such lesser amount as may be prescribed by the Board. Each person awarded a research internship under this chapter shall receive a stipend as may be prescribed by the Board, which shall not exceed the maximum stipend amount awarded for a scholarship or fellowship.
 
-(Pub. L. 99–661, div. A, title XIV, § 1406, Nov. 14, 1986, 100 Stat. 4010; Pub. L. 117–81, div. F, title LXIII, § 6304, Dec. 27, 2021, 135 Stat. 2394.)
+(Pub. L. 99–661, div. A, title XIV, § 1406, Nov. 14, 1986, 100 Stat. 4010; Pub. L. 117–81, div. F, title LXIII, § 6304, Dec. 27, 2021, 135 Stat. 2394.)
 
 **Editorial Notes**
 
@@ -201,7 +201,7 @@ Each person awarded a scholarship or fellowship under this chapter shall receive
 
 2021—Pub. L. 117–81 inserted at end “Each person awarded a research internship under this chapter shall receive a stipend as may be prescribed by the Board, which shall not exceed the maximum stipend amount awarded for a scholarship or fellowship.”
 
-## § 4706. Scholarship and research internship conditions
+## § 4706. Scholarship and research internship conditions
 
 **(a) Scholarship conditions**
 
@@ -219,21 +219,21 @@ A person awarded a research internship under this chapter may receive payments a
 
 The Foundation may require reports containing such information in such form and to be filed at such times as the Foundation determines to be necessary from any person awarded a research internship under this chapter. Such reports may be accompanied by a certificate from an appropriate official at the institution of higher education or internship employer, approved by the Foundation, stating that such person is maintaining satisfactory progress in the internship.
 
-(Pub. L. 99–661, div. A, title XIV, § 1407, Nov. 14, 1986, 100 Stat. 4010; Pub. L. 117–81, div. F, title LXIII, § 6305, Dec. 27, 2021, 135 Stat. 2394.)
+(Pub. L. 99–661, div. A, title XIV, § 1407, Nov. 14, 1986, 100 Stat. 4010; Pub. L. 117–81, div. F, title LXIII, § 6305, Dec. 27, 2021, 135 Stat. 2394.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 117–81, § 6305(1), inserted “and research internship” after “Scholarship” in section catchline.
+2021—Pub. L. 117–81, § 6305(1), inserted “and research internship” after “Scholarship” in section catchline.
 
-Subsec. (a). Pub. L. 117–81, § 6305(2), substituted “Scholarship conditions” for “In general” in heading and struck out “and devoting full time to study or research and is not engaging in gainful employment other than employment approved by the Foundation” after “satisfactory proficiency” in text.
+Subsec. (a). Pub. L. 117–81, § 6305(2), substituted “Scholarship conditions” for “In general” in heading and struck out “and devoting full time to study or research and is not engaging in gainful employment other than employment approved by the Foundation” after “satisfactory proficiency” in text.
 
-Subsec. (b). Pub. L. 117–81, § 6305(3), substituted “Reports on scholarships” for “Reports” in heading.
+Subsec. (b). Pub. L. 117–81, § 6305(3), substituted “Reports on scholarships” for “Reports” in heading.
 
-Subsecs. (c), (d). Pub. L. 117–81, § 6305(4), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 117–81, § 6305(4), added subsecs. (c) and (d).
 
-## § 4707. Barry Goldwater Scholarship and Excellence in Education Fund
+## § 4707. Barry Goldwater Scholarship and Excellence in Education Fund
 
 **(a) Establishment of fund**
 
@@ -249,13 +249,13 @@ It shall be the duty of the Secretary of the Treasury to invest in full the amou
 
 **(2)** the securities in which such funds are invested are traded in established United States markets.
 
-**(d) 1 [footnote: 1 So in original. Two subsecs. (d) have been enacted.] Construction**
+**(d) 1 [footnote: 1 So in original. Two subsecs. (d) have been enacted.] Construction**
 
-Nothing in this section shall be construed to limit the authority of the Board to increase the number of scholarships provided under section 4704 2
+Nothing in this section shall be construed to limit the authority of the Board to increase the number of scholarships provided under section 4704 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
-of this title, or to increase the amount of the stipend authorized by section 4705 2 of this title, as the Board considers appropriate and is otherwise consistent with the requirements of this chapter.
+of this title, or to increase the amount of the stipend authorized by section 4705 2 of this title, as the Board considers appropriate and is otherwise consistent with the requirements of this chapter.
 
 **(d) <sup>1</sup> Authority to sell obligations**
 
@@ -265,7 +265,7 @@ Any obligation acquired by the fund may be sold by the Secretary at the market p
 
 The interest on, and the proceeds from the sale or redemption of, any obligations held in the fund shall be credited to and form a part of the fund.
 
-(Pub. L. 99–661, div. A, title XIV, § 1408, Nov. 14, 1986, 100 Stat. 4010; Pub. L. 102–190, div. A, title X, § 1089(2), Dec. 5, 1991, 105 Stat. 1485; Pub. L. 102–484, div. A, title X, § 1054(h), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 117–81, div. F, title LXIII, § 6306, Dec. 27, 2021, 135 Stat. 2395.)
+(Pub. L. 99–661, div. A, title XIV, § 1408, Nov. 14, 1986, 100 Stat. 4010; Pub. L. 102–190, div. A, title X, § 1089(2), Dec. 5, 1991, 105 Stat. 1485; Pub. L. 102–484, div. A, title X, § 1054(h), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 117–81, div. F, title LXIII, § 6306, Dec. 27, 2021, 135 Stat. 2395.)
 
 **Editorial Notes**
 
@@ -275,7 +275,7 @@ Sections 4704 and 4705 of this title, referred to in subsec. (d) relating to con
 
 **Codification**
 
-In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
@@ -283,13 +283,13 @@ In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liber
 
 1992—Subsec. (c). Pub. L. 102–484 struck out “(except special obligations issued exclusively to the fund)” after “by the fund”.
 
-1991—Subsec. (b). Pub. L. 102–190, § 1089(2)(A), substituted “public debt securities of the United States with maturities suitable to the fund.” for “interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.”
+1991—Subsec. (b). Pub. L. 102–190, § 1089(2)(A), substituted “public debt securities of the United States with maturities suitable to the fund.” for “interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.”
 
-Subsec. (c). Pub. L. 102–190, § 1089(2)(B)(ii), struck out “, and such special obligations may be redeemed at par plus accrued interest” after “market price”.
+Subsec. (c). Pub. L. 102–190, § 1089(2)(B)(ii), struck out “, and such special obligations may be redeemed at par plus accrued interest” after “market price”.
 
-Pub. L. 102–190, § 1089(2)(B)(i), which directed striking out of “(exceptional special obligations issued exclusively to the fund)”, could not be executed because those words did not appear. See 1992 Amendment note above.
+Pub. L. 102–190, § 1089(2)(B)(i), which directed striking out of “(exceptional special obligations issued exclusively to the fund)”, could not be executed because those words did not appear. See 1992 Amendment note above.
 
-## § 4708. Expenditures from fund
+## § 4708. Expenditures from fund
 
 **(a) In general**
 
@@ -299,7 +299,7 @@ The Secretary of the Treasury may pay to the Foundation from the interest and ea
 
 The activities of the Foundation under this chapter may be audited by the Government Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. Representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, and files and all other papers, things, or property belonging to or in use by the Foundation pertaining to such activities and necessary to facilitate the audit.
 
-(Pub. L. 99–661, div. A, title XIV, § 1409, Nov. 14, 1986, 100 Stat. 4011; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 99–661, div. A, title XIV, § 1409, Nov. 14, 1986, 100 Stat. 4011; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -307,7 +307,7 @@ The activities of the Foundation under this chapter may be audited by the Govern
 
 2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
-## § 4709. Executive Secretary
+## § 4709. Executive Secretary
 
 **(a) Appointment by Board**
 
@@ -317,7 +317,7 @@ There shall be an Executive Secretary of the Foundation who shall be appointed b
 
 The Executive Secretary of the Foundation shall serve as a noncareer appointee of the Senior Executive Service and shall be compensated at a rate determined by the Board in accordance with section 5383 of title 5.
 
-(Pub. L. 99–661, div. A, title XIV, § 1410, Nov. 14, 1986, 100 Stat. 4011; Pub. L. 102–190, div. A, title X, § 1089(3), Dec. 5, 1991, 105 Stat. 1485.)
+(Pub. L. 99–661, div. A, title XIV, § 1410, Nov. 14, 1986, 100 Stat. 4011; Pub. L. 102–190, div. A, title X, § 1089(3), Dec. 5, 1991, 105 Stat. 1485.)
 
 **Editorial Notes**
 
@@ -325,13 +325,13 @@ The Executive Secretary of the Foundation shall serve as a noncareer appointee o
 
 1991—Subsec. (b). Pub. L. 102–190 substituted “serve as a noncareer appointee of the Senior Executive Service and shall be compensated at a rate determined by the Board in accordance with section 5383” for “be compensated at the rate specified for employees in grade GS–18 of the General Schedule under section 5332”.
 
-## § 4710. Administrative provisions
+## § 4710. Administrative provisions
 
 **(a) In general** In order to carry out this chapter, the Foundation may—
 
-**(1)** appoint and fix the rates of basic pay of not more than three employees (in addition to the Executive Secretary appointed under section 4709 1
+**(1)** appoint and fix the rates of basic pay of not more than three employees (in addition to the Executive Secretary appointed under section 4709 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) to carry out the provisions of this chapter, without regard to the provisions in chapter 33 of title 5 governing appointment in the competitive service or the provisions of chapter 51 and subchapter III of chapter 53 of such title, except that—
 
@@ -361,7 +361,7 @@ of this title) to carry out the provisions of this chapter, without regard to th
 
 The Foundation shall submit to the President and to Congress an annual report of its operations under this chapter.
 
-(Pub. L. 99–661, div. A, title XIV, § 1411, Nov. 14, 1986, 100 Stat. 4011; Pub. L. 103–160, div. A, title XI, § 1179(b), Nov. 30, 1993, 107 Stat. 1770; Pub. L. 117–81, div. F, title LXIII, § 6307, Dec. 27, 2021, 135 Stat. 2395.)
+(Pub. L. 99–661, div. A, title XIV, § 1411, Nov. 14, 1986, 100 Stat. 4011; Pub. L. 103–160, div. A, title XI, § 1179(b), Nov. 30, 1993, 107 Stat. 1770; Pub. L. 117–81, div. F, title LXIII, § 6307, Dec. 27, 2021, 135 Stat. 2395.)
 
 **Editorial Notes**
 
@@ -373,20 +373,20 @@ Level IV of the Executive Schedule, referred to in subsec. (a)(2), is set out in
 
 **Codification**
 
-In subsec. (a)(6), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(6), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
-2021—Subsec. (a)(1). Pub. L. 117–81, § 6307(1), added par. (1) and struck out former par. (1) which related to compensation of personnel.
+2021—Subsec. (a)(1). Pub. L. 117–81, § 6307(1), added par. (1) and struck out former par. (1) which related to compensation of personnel.
 
-Subsec. (a)(2). Pub. L. 117–81, § 6307(2), substituted “level IV of the Executive Schedule” for “grade GS–18 under section 5332 of such title”.
+Subsec. (a)(2). Pub. L. 117–81, § 6307(2), substituted “level IV of the Executive Schedule” for “grade GS–18 under section 5332 of such title”.
 
-Subsec. (a)(8) to (10). Pub. L. 117–81, § 6307(3)–(5), added pars. (8) and (9) and redesignated former par. (8) as (10).
+Subsec. (a)(8) to (10). Pub. L. 117–81, § 6307(3)–(5), added pars. (8) and (9) and redesignated former par. (8) as (10).
 
 1993—Subsec. (a)(7). Pub. L. 103–160 substituted “the Washington, District of Columbia, metropolitan area” for “the District of Columbia”.
 
-## § 4711. Authorization of appropriations
+## § 4711. Authorization of appropriations
 
 There is hereby authorized to be appropriated to the fund $40,000,000 to carry out this chapter.
 
-(Pub. L. 99–661, div. A, title XIV, § 1412, Nov. 14, 1986, 100 Stat. 4012.)
+(Pub. L. 99–661, div. A, title XIV, § 1412, Nov. 14, 1986, 100 Stat. 4012.)

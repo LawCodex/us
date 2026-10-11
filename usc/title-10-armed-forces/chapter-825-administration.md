@@ -19,39 +19,39 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–263, div. A, title V, § 592(d)(2), Dec. 23, 2022, 136 Stat. 2612, added item 8227.
+2022—Pub. L. 117–263, div. A, title V, § 592(d)(2), Dec. 23, 2022, 136 Stat. 2612, added item 8227.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 555 of this title as this chapter and items 6011 to 6014, 6019, 6021, 6022, 6024, 6027, 6029, 6031, 6032, 6035, and 6036 as 8211 to 8222, 8225, and 8226, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 555 of this title as this chapter and items 6011 to 6014, 6019, 6021, 6022, 6024, 6027, 6029, 6031, 6032, 6035, and 6036 as 8211 to 8222, 8225, and 8226, respectively.
 
-2003—Pub. L. 108–136, div. A, title V, § 576(b)(2), Nov. 24, 2003, 117 Stat. 1487, added item 6036.
+2003—Pub. L. 108–136, div. A, title V, § 576(b)(2), Nov. 24, 2003, 117 Stat. 1487, added item 6036.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title V, § 573(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, added item 6035.
+2000—Pub. L. 106–398, § 1 [[div. A], title V, § 573(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, added item 6035.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1673(b)(3), Oct. 5, 1994, 108 Stat. 3016, struck out items 6017 “Retired list for Reserve members entitled to retired pay” and 6034 “Regulations for retired pay based on service in the Reserve”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1673(b)(3), Oct. 5, 1994, 108 Stat. 3016, struck out items 6017 “Retired list for Reserve members entitled to retired pay” and 6034 “Regulations for retired pay based on service in the Reserve”.
 
-1993—Pub. L. 103–160, div. A, title V, § 541(b), Nov. 30, 1993, 107 Stat. 1659, struck out item 6015 “Women members: duty; qualifications; restrictions”.
+1993—Pub. L. 103–160, div. A, title V, § 541(b), Nov. 30, 1993, 107 Stat. 1659, struck out item 6015 “Women members: duty; qualifications; restrictions”.
 
-1980—Pub. L. 96–513, title V, § 503(43), Dec. 12, 1980, 94 Stat. 2914, struck out items 6018 “Naval officers: shore duty; limitations” and 6028 “Medical Service Corps: composition”.
+1980—Pub. L. 96–513, title V, § 503(43), Dec. 12, 1980, 94 Stat. 2914, struck out items 6018 “Naval officers: shore duty; limitations” and 6028 “Medical Service Corps: composition”.
 
-1972—Pub. L. 92–310, title II, § 204(c), June 6, 1972, 86 Stat. 203, struck out item 6026 “Supply Corps officers: bonds”.
+1972—Pub. L. 92–310, title II, § 204(c), June 6, 1972, 86 Stat. 203, struck out item 6026 “Supply Corps officers: bonds”.
 
-1971—Pub. L. 92–168, § 2(3), Nov. 24, 1971, 85 Stat. 489, struck out items 6023 “Aviation designations: naval aviator,” and 6025 “Aviation designations: aviation pilot”.
+1971—Pub. L. 92–168, § 2(3), Nov. 24, 1971, 85 Stat. 489, struck out items 6023 “Aviation designations: naval aviator,” and 6025 “Aviation designations: aviation pilot”.
 
-1970—Pub. L. 91–198, § 1(3), Feb. 26, 1970, 84 Stat. 15, substituted “naval flight officer” for “naval aviation observer” in item 6024.
+1970—Pub. L. 91–198, § 1(3), Feb. 26, 1970, 84 Stat. 15, substituted “naval flight officer” for “naval aviation observer” in item 6024.
 
-1968—Pub. L. 90–235, § 7(a)(5), Jan. 2, 1968, 81 Stat. 763, struck out item 6033 “Woman member: definition of dependents”.
+1968—Pub. L. 90–235, § 7(a)(5), Jan. 2, 1968, 81 Stat. 763, struck out item 6033 “Woman member: definition of dependents”.
 
-1967—Pub. L. 90–130, § 1(22), Nov. 8, 1967, 81 Stat. 380, struck out item 6030 “Nurse Corps officers: authority”.
+1967—Pub. L. 90–130, § 1(22), Nov. 8, 1967, 81 Stat. 380, struck out item 6030 “Nurse Corps officers: authority”.
 
-1961—Pub. L. 87–123, § 5(24), Aug. 3, 1961, 75 Stat. 266, struck out item 6020 “Marine Corps officers: detail to duty in Supply Department”.
+1961—Pub. L. 87–123, § 5(24), Aug. 3, 1961, 75 Stat. 266, struck out item 6020 “Marine Corps officers: detail to duty in Supply Department”.
 
-1958—Pub. L. 85–861, § 1(135), Sept. 2, 1958, 72 Stat. 1507, struck out item 6016 “Retired officers carried on Navy Register”.
+1958—Pub. L. 85–861, § 1(135), Sept. 2, 1958, 72 Stat. 1507, struck out item 6016 “Retired officers carried on Navy Register”.
 
-## § 8211. Navy Regulations
+## § 8211. Navy Regulations
 
 United States Navy Regulations shall be issued by the Secretary of the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 375, § 6011; Pub. L. 97–60, title II, § 204(a)(2), Oct. 14, 1981, 95 Stat. 1007; renumbered § 8211, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 375, § 6011; Pub. L. 97–60, title II, § 204(a)(2), Oct. 14, 1981, 95 Stat. 1007; renumbered § 8211, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
@@ -65,7 +65,7 @@ So much as pertains to the “orders, regulations, and instructions issued by th
 
 **Prior Provisions**
 
-A prior section 8211, acts Aug. 10, 1956, ch. 1041, 70A Stat. 501; Sept. 2, 1958, Pub. L. 85–861, § 1(162), 72 Stat. 1514, prescribed authorized strength of Regular Air Force in officers in each regular grade on each of promotion lists authorized by former section 8296 of this title, prior to repeal by Pub. L. 96–513, title II, § 202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981. See section 521 et seq. of this title.
+A prior section 8211, acts Aug. 10, 1956, ch. 1041, 70A Stat. 501; Sept. 2, 1958, Pub. L. 85–861, § 1(162), 72 Stat. 1514, prescribed authorized strength of Regular Air Force in officers in each regular grade on each of promotion lists authorized by former section 8296 of this title, prior to repeal by Pub. L. 96–513, title II, § 202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981. See section 521 et seq. of this title.
 
 **Amendments**
 
@@ -81,7 +81,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Navy Regulations Issued Before October 14, 1981**
 
-Pub. L. 97–60, title II, § 204(b), Oct. 14, 1981, 95 Stat. 1007, provided that: “United States Navy regulations issued under section 6011 of title 10, United States Code, before the date of the enactment of this Act [Oct. 14, 1981] shall remain in effect in accordance with their terms until amended or revoked by the Secretary of the Navy.”
+Pub. L. 97–60, title II, § 204(b), Oct. 14, 1981, 95 Stat. 1007, provided that: “United States Navy regulations issued under section 6011 of title 10, United States Code, before the date of the enactment of this Act [Oct. 14, 1981] shall remain in effect in accordance with their terms until amended or revoked by the Secretary of the Navy.”
 
 **Executive Documents**
 
@@ -89,11 +89,11 @@ Pub. L. 97–60, title II, § 204(b), Oct. 14, 1981, 95 Stat. 1007, provided t
 
 For delegation to Secretary of Defense of authority vested in President by section 591 of former Title 34, see Ex. Ord. No. 10621, July 1, 1955, 20 F.R. 4759, set out as a note under section 301 of Title 3, The President.
 
-## § 8212. Additional regulations for Marine Corps
+## § 8212. Additional regulations for Marine Corps
 
 The President may prescribe military regulations for the discipline of the Marine Corps.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 375, § 6012; renumbered § 8212, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 375, § 6012; renumbered § 8212, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
@@ -107,7 +107,7 @@ The words “such” and “as he may deem expedient” are omitted as surplusag
 
 **Prior Provisions**
 
-A prior section 8212, acts Aug. 10, 1956, ch. 1041, 70A Stat. 501; Aug. 21, 1957, Pub. L. 85–155, title III, § 301(3), 71 Stat. 386; Sept. 2, 1958, Pub. L. 85–861, § 1(163), 72 Stat. 1515; June 30, 1960, Pub. L. 86–559, § 1(48), 74 Stat. 275; Dec. 12, 1980, Pub. L. 96–513, title V, § 504(8), 94 Stat. 2916, related to temporary increases in authorized strength in grade of Air Reserve and Air National Guard of United States, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(a)(3), Oct. 5, 1994, 108 Stat. 2988. See section 12009 of this title.
+A prior section 8212, acts Aug. 10, 1956, ch. 1041, 70A Stat. 501; Aug. 21, 1957, Pub. L. 85–155, title III, § 301(3), 71 Stat. 386; Sept. 2, 1958, Pub. L. 85–861, § 1(163), 72 Stat. 1515; June 30, 1960, Pub. L. 86–559, § 1(48), 74 Stat. 275; Dec. 12, 1980, Pub. L. 96–513, title V, § 504(8), 94 Stat. 2916, related to temporary increases in authorized strength in grade of Air Reserve and Air National Guard of United States, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(a)(3), Oct. 5, 1994, 108 Stat. 2988. See section 12009 of this title.
 
 **Amendments**
 
@@ -119,18 +119,18 @@ A prior section 8212, acts Aug. 10, 1956, ch. 1041, 70A Stat. 501; Aug. 21, 1957
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8213. Enlisted grades and ratings: authority to establish
+## § 8213. Enlisted grades and ratings: authority to establish
 
 The Secretary of the Navy may establish such enlisted grades and ratings as are necessary for the proper administration of the Navy and the Marine Corps.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 375, § 6013; renumbered § 8213, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 375, § 6013; renumbered § 8213, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6013 | 34 U.S.C. 176. | June 4, 1920, ch. 228, § 7 (proviso), 41 Stat. 836. |
-|  | 34 U.S.C. 34 (less 1st sentence, and less proviso of 2d sentence). | Aug. 29, 1916, ch. 417 (1st par. under “Hospital Corps”, less 1st sentence, and less proviso of 2d sentence), 39 Stat. 572; Aug. 4, 1947, ch. 459, § 301(a), 61 Stat. 738. |
+| 6013 | 34 U.S.C. 176. | June 4, 1920, ch. 228, § 7 (proviso), 41 Stat. 836. |
+|  | 34 U.S.C. 34 (less 1st sentence, and less proviso of 2d sentence). | Aug. 29, 1916, ch. 417 (1st par. under “Hospital Corps”, less 1st sentence, and less proviso of 2d sentence), 39 Stat. 572; Aug. 4, 1947, ch. 459, § 301(a), 61 Stat. 738. |
 
 The words “in his discretion” and “of the enlisted personnel” are omitted as surplusage. The words “Navy and the Marine Corps” are substituted for the words “naval service”.
 
@@ -138,7 +138,7 @@ The words “in his discretion” and “of the enlisted personnel” are omitte
 
 **Prior Provisions**
 
-A prior section 8213, act Aug. 10, 1956, ch. 1041, 70A Stat. 501, prescribed authorized strength of Regular Air Force in warrant officers on active list, prior to repeal by Pub. L. 96–513, title II, § 202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981.
+A prior section 8213, act Aug. 10, 1956, ch. 1041, 70A Stat. 501, prescribed authorized strength of Regular Air Force in warrant officers on active list, prior to repeal by Pub. L. 96–513, title II, § 202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -150,28 +150,28 @@ A prior section 8213, act Aug. 10, 1956, ch. 1041, 70A Stat. 501, prescribed aut
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8214. Enlisted members: authority for transfer between Marine Corps and Hospital Corps of the Navy
+## § 8214. Enlisted members: authority for transfer between Marine Corps and Hospital Corps of the Navy
 
 Under regulations prescribed by the Secretary of the Navy, enlisted members of the Marine Corps are eligible for transfer to the Hospital Corps of the Navy, and enlisted members of the Hospital Corps are eligible for transfer to the Marine Corps.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 375, § 6014; renumbered § 8214, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 375, § 6014; renumbered § 8214, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6014 | 34 U.S.C. 34 (proviso of 2d sentence). | Aug. 29, 1916, ch. 417 (proviso of 2d sentence in 1st paragraph under “Hospital Corps”), 39 Stat. 572; Aug. 4, 1947, ch. 459, § 301(a), 61 Stat. 738. |
-|  | 34 U.S.C. 34a. | Aug. 4, 1947, ch. 459, § 302, 61 Stat. 738. |
+| 6014 | 34 U.S.C. 34 (proviso of 2d sentence). | Aug. 29, 1916, ch. 417 (proviso of 2d sentence in 1st paragraph under “Hospital Corps”), 39 Stat. 572; Aug. 4, 1947, ch. 459, § 301(a), 61 Stat. 738. |
+|  | 34 U.S.C. 34a. | Aug. 4, 1947, ch. 459, § 302, 61 Stat. 738. |
 
 The authority to transfer Navy personnel to the Hospital Corps and personnel of that Corps to other branches or designations in the Navy is omitted as unnecessary because transfers within the Navy are permitted under provisions which authorize the Secretary of the Navy to establish grades and ratings (34 U.S.C. 176) and to administer the Department (5 U.S.C. 171a(c)).
 
-The saving provision of 34 U.S.C. 34a which provided that no person would suffer any reduction in grade, rating, or pay, is omitted as executed. It pertained to personnel who, when the Hospital Corps was reorganized under the Act of August 4, 1947, ch. 459, §§ 301, 302, 61 Stat. 738, were in grades and ratings prescribed by prior laws.
+The saving provision of 34 U.S.C. 34a which provided that no person would suffer any reduction in grade, rating, or pay, is omitted as executed. It pertained to personnel who, when the Hospital Corps was reorganized under the Act of August 4, 1947, ch. 459, §§ 301, 302, 61 Stat. 738, were in grades and ratings prescribed by prior laws.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8214, acts Aug. 10, 1956, ch. 1041, 70A Stat. 501; Sept. 2, 1958, Pub. L. 85–861, § 1(159), 72 Stat. 1514, prescribed authorized strength of Regular Air Force in enlisted members on active duty, exclusive of officer candidates and aviation cadets, prior to repeal by Pub. L. 96–513, title II, § 202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981.
+A prior section 8214, acts Aug. 10, 1956, ch. 1041, 70A Stat. 501; Sept. 2, 1958, Pub. L. 85–861, § 1(159), 72 Stat. 1514, prescribed authorized strength of Regular Air Force in enlisted members on active duty, exclusive of officer candidates and aviation cadets, prior to repeal by Pub. L. 96–513, title II, § 202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981.
 
 **Amendments**
 
@@ -183,11 +183,11 @@ A prior section 8214, acts Aug. 10, 1956, ch. 1041, 70A Stat. 501; Sept. 2, 1958
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8215. Citizenship of officers of vessels
+## § 8215. Citizenship of officers of vessels
 
 The officers of vessels of the United States shall in all cases by citizens of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 376, § 6019; renumbered § 8215, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 376, § 6019; renumbered § 8215, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
@@ -199,7 +199,7 @@ The officers of vessels of the United States shall in all cases by citizens of t
 
 **Prior Provisions**
 
-A prior section 8215, acts Aug. 10, 1956, ch. 1041, 70A Stat. 502; Nov. 8, 1967, Pub. L. 90–130, § 1(26)(E), (F), 81 Stat. 382, prescribed authorized strength of Regular Air Force in female warrant officers on active list, prior to repeal by Pub. L. 96–513, title II, § 202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981.
+A prior section 8215, acts Aug. 10, 1956, ch. 1041, 70A Stat. 502; Nov. 8, 1967, Pub. L. 90–130, § 1(26)(E), (F), 81 Stat. 382, prescribed authorized strength of Regular Air Force in female warrant officers on active list, prior to repeal by Pub. L. 96–513, title II, § 202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981.
 
 **Amendments**
 
@@ -211,20 +211,20 @@ A prior section 8215, acts Aug. 10, 1956, ch. 1041, 70A Stat. 502; Nov. 8, 1967,
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8216. Aviation duties: number of personnel assigned
+## § 8216. Aviation duties: number of personnel assigned
 
 The number of officers and enlisted members of the Navy and the Marine Corps detailed to duty involving flying and to other duties in connection with aircraft shall be in accordance with the requirements of naval aviation as determined by the Secretary of the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 376, § 6021; renumbered § 8216, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 376, § 6021; renumbered § 8216, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6021 | 34 U.S.C. 732. | July 12, 1921, ch. 44, § 8 (last par., less provisos), 42 Stat. 141. |
-|  | 34 U.S.C. 732a. | July 22, 1935, ch. 402, § 8, 49 Stat. 490. |
+| 6021 | 34 U.S.C. 732. | July 12, 1921, ch. 44, § 8 (last par., less provisos), 42 Stat. 141. |
+|  | 34 U.S.C. 732a. | July 22, 1935, ch. 402, § 8, 49 Stat. 490. |
 
-The provisions cited as source are consolidated in this section. The second sentence of § 8 of the Act of July 22, 1935, is omitted as executed.
+The provisions cited as source are consolidated in this section. The second sentence of § 8 of the Act of July 22, 1935, is omitted as executed.
 
 **Editorial Notes**
 
@@ -238,17 +238,17 @@ The provisions cited as source are consolidated in this section. The second sent
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8217. Aviation training facilities
+## § 8217. Aviation training facilities
 
 The President may maintain facilities to provide flight training for 16,000 members of the naval service.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 376, § 6022; renumbered § 8217, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 376, § 6022; renumbered § 8217, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6022 | 34 U.S.C. 736. | June 15, 1940, ch. 375, § 1 (2d sentence), 54 Stat. 400. |
+| 6022 | 34 U.S.C. 736. | June 15, 1940, ch. 375, § 1 (2d sentence), 54 Stat. 400. |
 
 The proviso to the effect that the section does not affect the responsibility of the Secretary of the Navy under 34 U.S.C. 732 is omitted as unnecessary. The words “as may, in his judgment, be necessary” are omitted as surplusage. The words “members of the naval service” are substituted for “naval aviators” to avoid the implication that trainees are naval aviators while undergoing the training. The designation depends on successful completion of flight training.
 
@@ -256,7 +256,7 @@ The proviso to the effect that the section does not affect the responsibility of
 
 **Prior Provisions**
 
-A prior section 8217, added Pub. L. 85–861, § 1(164)(A), Sept. 2, 1958, 72 Stat. 1515, related to authorized strength of Air Force in reserve commissioned officers in active status, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(a)(3), Oct. 5, 1994, 108 Stat. 2988. See section 12003 of this title.
+A prior section 8217, added Pub. L. 85–861, § 1(164)(A), Sept. 2, 1958, 72 Stat. 1515, related to authorized strength of Air Force in reserve commissioned officers in active status, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(a)(3), Oct. 5, 1994, 108 Stat. 2988. See section 12003 of this title.
 
 **Amendments**
 
@@ -268,17 +268,17 @@ A prior section 8217, added Pub. L. 85–861, § 1(164)(A), Sept. 2, 1958, 72 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8218. Aviation designations: naval flight officer
+## § 8218. Aviation designations: naval flight officer
 
 Any officer of the naval service may be designated a naval flight officer if he has successfully completed the course prescribed for naval flight officers.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 377, § 6024; Pub. L. 91–198, § 1(2), Feb. 26, 1970, 84 Stat. 15; renumbered § 8218, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 377, § 6024; Pub. L. 91–198, § 1(2), Feb. 26, 1970, 84 Stat. 15; renumbered § 8218, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6024 | 34 U.S.C. 735 (par. 3). | June 24, 1926, ch. 668, § 3 (par. 3), 44 Stat. 767. |
+| 6024 | 34 U.S.C. 735 (par. 3). | June 24, 1926, ch. 668, § 3 (par. 3), 44 Stat. 767. |
 
 The phrase “by competent authority” is omitted as surplusage. The definition form of 34 U.S.C. 735 is not followed.
 
@@ -286,7 +286,7 @@ The phrase “by competent authority” is omitted as surplusage. The definition
 
 **Prior Provisions**
 
-A prior section 8218, added Pub. L. 85–861, § 1(164)(A), Sept. 2, 1958, 72 Stat. 1515; amended Pub. L. 96–107, title III, § 302(d), Nov. 9, 1979, 93 Stat. 806; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 102–190, div. A, title X, § 1061(a)(23)(B), Dec. 5, 1991, 105 Stat. 1473, related to authorized strength of Air Force in reserve general officers in active status, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(a)(3), Oct. 5, 1994, 108 Stat. 2988. See section 12004 of this title.
+A prior section 8218, added Pub. L. 85–861, § 1(164)(A), Sept. 2, 1958, 72 Stat. 1515; amended Pub. L. 96–107, title III, § 302(d), Nov. 9, 1979, 93 Stat. 806; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 102–190, div. A, title X, § 1061(a)(23)(B), Dec. 5, 1991, 105 Stat. 1473, related to authorized strength of Air Force in reserve general officers in active status, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(a)(3), Oct. 5, 1994, 108 Stat. 2988. See section 12004 of this title.
 
 **Amendments**
 
@@ -300,18 +300,18 @@ A prior section 8218, added Pub. L. 85–861, § 1(164)(A), Sept. 2, 1958, 72 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8219. Medical Department: composition
+## § 8219. Medical Department: composition
 
 The Medical Corps and Dental Corps, and such other staff corps as the Secretary of the Navy may establish under section 8090(b) of this title and designate to be in the Medical Department of the Navy, are in the Medical Department of the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 377, § 6027; Pub. L. 96–513, title III, § 353, Dec. 12, 1980, 94 Stat. 2902; Pub. L. 99–433, title V, § 514(c)(3), Oct. 1, 1986, 100 Stat. 1055; renumbered § 8219 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(b)(7), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 377, § 6027; Pub. L. 96–513, title III, § 353, Dec. 12, 1980, 94 Stat. 2902; Pub. L. 99–433, title V, § 514(c)(3), Oct. 1, 1986, 100 Stat. 1055; renumbered § 8219 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(b)(7), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6027 | 34 U.S.C. 30a (1st 20 words of 1st sentence). | Aug. 4, 1947, ch. 459, § 201 (1st 20 words of 1st sentence), 61 Stat. 736. |
-|  | 34 U.S.C. 43 (less 2d sentence). | Apr. 16, 1947, ch. 38, § 201 (less 2d sentence), 61 Stat. 47; Aug. 7, 1947, ch. 512, § 434(a), 61 Stat. 882. |
+| 6027 | 34 U.S.C. 30a (1st 20 words of 1st sentence). | Aug. 4, 1947, ch. 459, § 201 (1st 20 words of 1st sentence), 61 Stat. 736. |
+|  | 34 U.S.C. 43 (less 2d sentence). | Apr. 16, 1947, ch. 38, § 201 (less 2d sentence), 61 Stat. 47; Aug. 7, 1947, ch. 512, § 434(a), 61 Stat. 882. |
 |  | 34 U.S.C. 32. | Aug. 29, 1916, ch. 417, 39 Stat. 573 (30th through 44th words of 6th par. under “Hospital Corps”). |
 |  | 34 U.S.C. 51 (26th through 37th words). | Aug. 29, 1916, ch. 417 (1st par. under “Naval Dental Corps”, 75th word to end of 1st sentence); added July 1, 1918, ch. 114, 40 Stat. 708 (4th par.). |
 
@@ -323,7 +323,7 @@ The words “effective August 4, 1947” and the words “establishing the Medic
 
 **Prior Provisions**
 
-A prior section 8219, added Pub. L. 85–861, § 1(164)(A), Sept. 2, 1958, 72 Stat. 1515, related to authorized strength of Air Force in reserve commissioned officers in grades below brigadier general in active status, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(a)(3), Oct. 5, 1994, 108 Stat. 2988. See section 12005(a) of this title.
+A prior section 8219, added Pub. L. 85–861, § 1(164)(A), Sept. 2, 1958, 72 Stat. 1515, related to authorized strength of Air Force in reserve commissioned officers in grades below brigadier general in active status, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(a)(3), Oct. 5, 1994, 108 Stat. 2988. See section 12005(a) of this title.
 
 **Amendments**
 
@@ -347,23 +347,23 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
 
-## § 8220. Dental services: responsibilities of senior dental officer
+## § 8220. Dental services: responsibilities of senior dental officer
 
 **(a)** The Secretary of the Navy shall prescribe regulations for dental services on ships and at shore stations. Such services shall be under the senior dental officer, who is responsible to the commanding officer of the ship or station for all professional, technical, and administrative matters concerning dental services.
 
 **(b)** This section does not impose any administrative requirements that would interfere with the proper functioning of battle organizations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 377, § 6029; renumbered § 8220, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 377, § 6029; renumbered § 8220, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6029 | 5 U.S.C. 456d. | Dec. 28, 1945, ch. 604, § 4, 59 Stat. 667. |
+| 6029 | 5 U.S.C. 456d. | Dec. 28, 1945, ch. 604, § 4, 59 Stat. 667. |
 
 The words “for establishing” are omitted as executed and unnecessary.
 
-The last sentence of § 4 of the Act of December 28, 1945, ch. 604, 59 Stat. 667, was a repealing clause and savings provision. It is omitted from this section.
+The last sentence of § 4 of the Act of December 28, 1945, ch. 604, 59 Stat. 667, was a repealing clause and savings provision. It is omitted from this section.
 
 **Editorial Notes**
 
@@ -377,7 +377,7 @@ The last sentence of § 4 of the Act of December 28, 1945, ch. 604, 59 Stat. 6
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8221. Chaplains: divine services
+## § 8221. Chaplains: divine services
 
 **(a)** An officer in the Chaplain Corps may conduct public worship according to the manner and forms of the church of which he is a member.
 
@@ -385,15 +385,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** All persons in the Navy and in the Marine Corps are enjoined to behave themselves in a reverent and becoming manner during divine service.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 378, § 6031; Pub. L. 86–140, Aug. 7, 1959, 73 Stat. 288; renumbered § 8221, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 378, § 6031; Pub. L. 86–140, Aug. 7, 1959, 73 Stat. 288; renumbered § 8221, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 6031(a) | 34 U.S.C. 95. | R.S. 1397. |
-| 6031(b) | 34 U.S.C. 266 (1st sentence). | May 5, 1950, ch. 169, § 7(d), 64 Stat. 146. |
-| 6031(c) | 34 U.S.C. 266 (2d sentence). | May 5, 1950, ch. 169, § 7(e), 64 Stat. 146. |
+| 6031(b) | 34 U.S.C. 266 (1st sentence). | May 5, 1950, ch. 169, § 7(d), 64 Stat. 146. |
+| 6031(c) | 34 U.S.C. 266 (2d sentence). | May 5, 1950, ch. 169, § 7(e), 64 Stat. 146. |
 | 6031(d) | 34 U.S.C. 96. | R.S. 1398. |
 
 In subsection (c) the words “and in the Marine Corps” are added to execute the definition of “Navy” in section 1, article 1, of the Act of May 5, 1950, ch. 169, 64 Stat. 146.
@@ -402,7 +402,7 @@ In subsection (c) the words “and in the Marine Corps” are added to execute t
 
 **Prior Provisions**
 
-A prior section 8221, ct Aug. 10, 1956, ch. 1041, 70A Stat. 502, related to authorized strength of Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(a)(3), Oct. 5, 1994, 108 Stat. 2988. See section 12001 of this title.
+A prior section 8221, ct Aug. 10, 1956, ch. 1041, 70A Stat. 502, related to authorized strength of Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(a)(3), Oct. 5, 1994, 108 Stat. 2988. See section 12001 of this title.
 
 **Amendments**
 
@@ -416,17 +416,17 @@ A prior section 8221, ct Aug. 10, 1956, ch. 1041, 70A Stat. 502, related to auth
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8222. Indebtedness to Marine Corps Exchanges: payment from appropriated funds in certain cases
+## § 8222. Indebtedness to Marine Corps Exchanges: payment from appropriated funds in certain cases
 
 Under regulations prescribed by the Secretary of the Navy, appropriations for the pay of the Marine Corps are available to pay any indebtedness to Marine Corps Exchanges of members of the Marine Corps who are discharged, who desert, or who are sentenced to prison.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 378, § 6032; renumbered § 8222, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 378, § 6032; renumbered § 8222, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6032 | 34 U.S.C. 725. | Aug. 2, 1946, ch. 756, § 28, 60 Stat. 857. |
+| 6032 | 34 U.S.C. 725. | Aug. 2, 1946, ch. 756, § 28, 60 Stat. 857. |
 
 The words “while in debt to the United States” are omitted as surplusage and to avoid the erroneous interpretation that the provision authorizes the payment, out of appropriations, of debts other than to Marine Corps Exchanges.
 
@@ -434,9 +434,9 @@ The words “while in debt to the United States” are omitted as surplusage and
 
 **Prior Provisions**
 
-Prior sections 8222 to 8224 were repealed by Pub. L. 103–337, div. A, title XVI, § 1662(a)(3), Oct. 5, 1994, 108 Stat. 2988.
+Prior sections 8222 to 8224 were repealed by Pub. L. 103–337, div. A, title XVI, § 1662(a)(3), Oct. 5, 1994, 108 Stat. 2988.
 
-Section 8222, acts Aug. 10, 1956, ch. 1041, 70A Stat. 502; Dec. 12, 1980, Pub. L. 96–513, title V, § 504(9), 94 Stat. 2916, related to authorized strength of Air Force Reserve, exclusive of members on active duty. See section 12002(a) of this title.
+Section 8222, acts Aug. 10, 1956, ch. 1041, 70A Stat. 502; Dec. 12, 1980, Pub. L. 96–513, title V, § 504(9), 94 Stat. 2916, related to authorized strength of Air Force Reserve, exclusive of members on active duty. See section 12002(a) of this title.
 
 Section 8223, act Aug. 10, 1956, ch. 1041, 70A Stat. 502, related to authorized strength of Air Force Reserve in warrant officers. See section 12008 of this title.
 
@@ -452,7 +452,7 @@ Section 8224, act Aug. 10, 1956. ch. 1041, 70A Stat. 502, related to authorized 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8225. Female members: congressional review period for assignment to duty on submarines or for reconfiguration of submarines
+## § 8225. Female members: congressional review period for assignment to duty on submarines or for reconfiguration of submarines
 
 **(a)** No change in the Department of the Navy policy limiting service on submarines to males, as in effect on May 10, 2000, may take effect until—
 
@@ -468,13 +468,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title V, § 573(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, § 6035; renumbered § 8225, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 106–398, § 1 [[div. A], title V, § 573(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, § 6035; renumbered § 8225, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8225, acts Aug. 10, 1956, ch. 1041, 70A Stat. 503; Dec. 12, 1980, Pub. L. 96–513, title V, § 504(9), 94 Stat. 2916; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, § 1234(a)(1), 102 Stat. 2059, related to authorized strength of Air National Guard and Air National Guard of United States, exclusive of members on active duty, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(a)(3), Oct. 5, 1994, 108 Stat. 2988. See section 12002 of this title.
+A prior section 8225, acts Aug. 10, 1956, ch. 1041, 70A Stat. 503; Dec. 12, 1980, Pub. L. 96–513, title V, § 504(9), 94 Stat. 2916; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, § 1234(a)(1), 102 Stat. 2059, related to authorized strength of Air National Guard and Air National Guard of United States, exclusive of members on active duty, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(a)(3), Oct. 5, 1994, 108 Stat. 2988. See section 12002 of this title.
 
 **Amendments**
 
@@ -486,7 +486,7 @@ A prior section 8225, acts Aug. 10, 1956, ch. 1041, 70A Stat. 503; Dec. 12, 1980
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8226. Fatality reviews
+## § 8226. Fatality reviews
 
 **(a) Review of Fatalities.—** The Secretary of the Navy shall conduct a multidisciplinary, impartial review (referred to as a “fatality review”) in the case of each fatality known or suspected to have resulted from domestic violence or child abuse against any of the following.
 
@@ -512,13 +512,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c) OSD Guidance.—** The Secretary of Defense shall prescribe guidance, which shall be uniform for the military departments, for the conduct of reviews by the Secretary under subsection (a).
 
-(Added Pub. L. 108–136, div. A, title V, § 576(b)(1), Nov. 24, 2003, 117 Stat. 1487, § 6036; renumbered § 8226, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 108–136, div. A, title V, § 576(b)(1), Nov. 24, 2003, 117 Stat. 1487, § 6036; renumbered § 8226, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8230, added Pub. L. 85–861, § 1(164)(B), Sept. 2, 1958, 72 Stat. 1515, provided that members of Air Force who are detailed for any duty with agencies of United States outside the Department of Defense on a reimbursable basis not be counted in computing strengths under any law, prior to repeal by Pub. L. 96–513, title II, § 232, Dec. 12, 1980, 94 Stat. 2886, effective Sept. 15, 1981.
+A prior section 8230, added Pub. L. 85–861, § 1(164)(B), Sept. 2, 1958, 72 Stat. 1515, provided that members of Air Force who are detailed for any duty with agencies of United States outside the Department of Defense on a reimbursable basis not be counted in computing strengths under any law, prior to repeal by Pub. L. 96–513, title II, § 232, Dec. 12, 1980, 94 Stat. 2886, effective Sept. 15, 1981.
 
 **Amendments**
 
@@ -534,7 +534,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Section applicable to fatalities that occur on or after Nov. 24, 2003, see section 576(d) of Pub. L. 108–136, set out as a note under section 7381 of this title.
 
-## § 8227. Notifications on manning of afloat naval forces
+## § 8227. Notifications on manning of afloat naval forces
 
 **(a) In General.—** The Secretary of the Navy shall notify the congressional defense committees, in writing, not later than 30 days after the end of each fiscal year quarter, of each covered ship (if any) that met either condition as follows:
 
@@ -580,10 +580,10 @@ Section applicable to fatalities that occur on or after Nov. 24, 2003, see secti
 
 **(4)** The term “surface combatant vessel” means any littoral combat ship (including the LCS–1 and LCS–2 classes), frigate (including the FFG–62 class), destroyer (excluding the DDG–1000 class), or cruiser (including the CG–47 class).
 
-(Added Pub. L. 117–263, div. A, title V, § 592(d)(1), Dec. 23, 2022, 136 Stat. 2612.)
+(Added Pub. L. 117–263, div. A, title V, § 592(d)(1), Dec. 23, 2022, 136 Stat. 2612.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section is based on Pub. L. 116–92, div. A, title V, § 597(a)–(e), Dec. 20, 2019, 133 Stat. 1418, 1419, as amended by Pub. L. 117–263, div. A, title V, § 592(a)(1), (b), (c), Dec. 23, 2022, 136 Stat. 2612, which was formerly set out as a note under section 8013 of this title before being transferred to this chapter and renumbered as this section by Pub. L. 117–263, § 592(d)(1).
+Section is based on Pub. L. 116–92, div. A, title V, § 597(a)–(e), Dec. 20, 2019, 133 Stat. 1418, 1419, as amended by Pub. L. 117–263, div. A, title V, § 592(a)(1), (b), (c), Dec. 23, 2022, 136 Stat. 2612, which was formerly set out as a note under section 8013 of this title before being transferred to this chapter and renumbered as this section by Pub. L. 117–263, § 592(d)(1).

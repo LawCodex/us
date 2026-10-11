@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 9A—WEATHER MODIFICATION ACTIVITIES OR ATTEMPTS; REPORTING REQUIREMENT
 
-## § 330. Definitions
+## § 330. Definitions
 
 As used in this chapter—
 
@@ -27,7 +27,7 @@ As used in this chapter—
 
 **(4)** The term “United States” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or insular possession of the United States.
 
-(Pub. L. 92–205, § 1, Dec. 18, 1971, 85 Stat. 735.)
+(Pub. L. 92–205, § 1, Dec. 18, 1971, 85 Stat. 735.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -37,7 +37,7 @@ Pub. L. 92–205, which is classified to this chapter, is popularly known as the
 
 **National Weather Modification Policy Act of 1976**
 
-Pub. L. 94–490, §§ 1–6(a), Oct. 13, 1976, 90 Stat. 2359–2361, provided:
+Pub. L. 94–490, §§ 1–6(a), Oct. 13, 1976, 90 Stat. 2359–2361, provided:
 
 > **“[Section 1].**
 
@@ -131,13 +131,13 @@ Pub. L. 94–490, §§ 1–6(a), Oct. 13, 1976, 90 Stat. 2359–2361, provided
 
 > **“(a)** There is authorized to be appropriated to the Secretary for the purposes of carrying out the provisions of this Act not to exceed $1,000,000.”
 
-## § 330a. Report requirement; form; information; time of submission
+## § 330a. Report requirement; form; information; time of submission
 
 No person may engage, or attempt to engage, in any weather modification activity in the United States unless he submits to the Secretary such reports with respect thereto, in such form and containing such information, as the Secretary may by rule prescribe. The Secretary may require that such reports be submitted to him before, during, and after any such activity or attempt.
 
-(Pub. L. 92–205, § 2, Dec. 18, 1971, 85 Stat. 736.)
+(Pub. L. 92–205, § 2, Dec. 18, 1971, 85 Stat. 736.)
 
-## § 330b. Duties of Secretary
+## § 330b. Duties of Secretary
 
 **(a) Records, maintenance; summaries, publication**
 
@@ -155,9 +155,9 @@ All reports, documents, and other information received by the Secretary under th
 
 **(3)** to the public if necessary to protect their health and safety.
 
-(Pub. L. 92–205, § 3, Dec. 18, 1971, 85 Stat. 736.)
+(Pub. L. 92–205, § 3, Dec. 18, 1971, 85 Stat. 736.)
 
-## § 330c. Authority of Secretary
+## § 330c. Authority of Secretary
 
 **(a) Information; reports and records; inspection; availability of data from any Federal agency as limitation of authority**
 
@@ -167,19 +167,19 @@ The Secretary may obtain from any person whose activities relate to weather modi
 
 In case of contumacy by, or refusal to obey a subpena served upon any person pursuant to this section, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the Attorney General, shall have jurisdiction to issue an order requiring such person to appear and give testimony or to appear and produce documents, or both; and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
-(Pub. L. 92–205, § 4, Dec. 18, 1971, 85 Stat. 736.)
+(Pub. L. 92–205, § 4, Dec. 18, 1971, 85 Stat. 736.)
 
-## § 330d. Violation; penalty
+## § 330d. Violation; penalty
 
 Any person who knowingly and willfully violates section 330a of this title, or any rule issued thereunder, shall upon conviction thereof be fined not more than $10,000.
 
-(Pub. L. 92–205, § 5, Dec. 18, 1971, 85 Stat. 736.)
+(Pub. L. 92–205, § 5, Dec. 18, 1971, 85 Stat. 736.)
 
-## § 330e. Authorization of appropriations
+## § 330e. Authorization of appropriations
 
 There are authorized to be appropriated $150,000 for the fiscal year ending June 30, 1972, $200,000 each for the fiscal years 1973 through 1980, $100,000 for the fiscal year ending September 30, 1981, $100,000 for the fiscal year ending September 30, 1986, $100,000 for the fiscal year ending September 30, 1987, $100,000 for the fiscal year ending September 30, 1988, to carry out the provisions of this chapter.
 
-(Pub. L. 92–205, § 6, Dec. 18, 1971, 85 Stat. 736; Pub. L. 93–436, Oct. 5, 1974, 88 Stat. 1212; Pub. L. 94–490, § 6(b), Oct. 13, 1976, 90 Stat. 2362; Pub. L. 96–547, § 2, Dec. 18, 1980, 94 Stat. 3217; Pub. L. 99–272, title VI, § 6081, Apr. 7, 1986, 100 Stat. 135.)
+(Pub. L. 92–205, § 6, Dec. 18, 1971, 85 Stat. 736; Pub. L. 93–436, Oct. 5, 1974, 88 Stat. 1212; Pub. L. 94–490, § 6(b), Oct. 13, 1976, 90 Stat. 2362; Pub. L. 96–547, § 2, Dec. 18, 1980, 94 Stat. 3217; Pub. L. 99–272, title VI, § 6081, Apr. 7, 1986, 100 Stat. 135.)
 
 **Editorial Notes**
 

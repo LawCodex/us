@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 11B—CHEMICAL WEAPONS
 
-## § 229. Prohibited activities
+## § 229. Prohibited activities
 
 **(a) Unlawful Conduct.—** Except as provided in subsection (b), it shall be unlawful for any person knowingly—
 
@@ -43,13 +43,13 @@ retrieved: 2026-10-11
 
 **(4)** is committed against any property that is owned, leased, or used by the United States or by any department or agency of the United States, whether the property is within or outside the United States.
 
-(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–866.)
+(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–866.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Revocations of Export Privileges**
 
-Pub. L. 105–277, div. I, title II, § 211, Oct. 21, 1998, 112 Stat. 2681–872, provided that: “If the President determines, after notice and an opportunity for a hearing in accordance with section 554 of title 5, United States Code, that any person within the United States, or any national of the United States located outside the United States, has committed any violation of section 229 of title 18, United States Code, the President may issue an order for the suspension or revocation of the authority of the person to export from the United States any goods or technology (as such terms are defined in [former] section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415)) [former 50 U.S.C. 4618].”
+Pub. L. 105–277, div. I, title II, § 211, Oct. 21, 1998, 112 Stat. 2681–872, provided that: “If the President determines, after notice and an opportunity for a hearing in accordance with section 554 of title 5, United States Code, that any person within the United States, or any national of the United States located outside the United States, has committed any violation of section 229 of title 18, United States Code, the President may issue an order for the suspension or revocation of the authority of the person to export from the United States any goods or technology (as such terms are defined in [former] section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415)) [former 50 U.S.C. 4618].”
 
 [For authority of Secretary of Commerce to suspend or revoke export privileges pursuant to section 211 of Pub. L. 105–277, set out above, see section 4 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under section 6711 of Title 22, Foreign Relations and Intercourse.]
 
@@ -59,7 +59,7 @@ Pub. L. 105–277, div. I, title II, § 211, Oct. 21, 1998, 112 Stat. 2681–8
 
 For authority to issue regulations under this chapter, see section 3 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under section 6711 of Title 22, Foreign Relations and Intercourse.
 
-## § 229A. Penalties
+## § 229A. Penalties
 
 **(a) Criminal Penalties.—**
 
@@ -75,9 +75,9 @@ For authority to issue regulations under this chapter, see section 3 of Ex. Ord.
 
 **(c) Reimbursement of Costs.—** The court shall order any person convicted of an offense under subsection (a) to reimburse the United States for any expenses incurred by the United States incident to the seizure, storage, handling, transportation, and destruction or other disposition of any property that was seized in connection with an investigation of the commission of the offense by that person. A person ordered to reimburse the United States for expenses under this subsection shall be jointly and severally liable for such expenses with each other person, if any, who is ordered under this subsection to reimburse the United States for the same expenses.
 
-(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–867.)
+(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–867.)
 
-## § 229B. Criminal forfeitures; destruction of weapons
+## § 229B. Criminal forfeitures; destruction of weapons
 
 **(a) Property Subject to Criminal Forfeiture.—** Any person convicted under section 229A(a) shall forfeit to the United States irrespective of any provision of State law—
 
@@ -117,45 +117,45 @@ The court, in imposing sentence on such person, shall order, in addition to any 
 
 **(f) Owner Liability.—** The owner or possessor of any property seized under this section shall be liable to the United States for any expenses incurred incident to the seizure, including any expenses relating to the handling, storage, transportation, and destruction or other disposition of the seized property.
 
-(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–868.)
+(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–868.)
 
-## § 229C. Individual self-defense devices
+## § 229C. Individual self-defense devices
 
 Nothing in this chapter shall be construed to prohibit any individual self-defense device, including those using a pepper spray or chemical mace.
 
-(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–869.)
+(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–869.)
 
-## § 229D. Injunctions
+## § 229D. Injunctions
 
 The United States may obtain in a civil action an injunction against—
 
 **(1)** the conduct prohibited under section 229 or 229C of this title; or
 
-**(2)** the preparation or solicitation to engage in conduct prohibited under section 229 or 229D 1
+**(2)** the preparation or solicitation to engage in conduct prohibited under section 229 or 229D 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 of this title.
 
-(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–869.)
+(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–869.)
 
-## § 229E. Requests for military assistance to enforce prohibition in certain emergencies
+## § 229E. Requests for military assistance to enforce prohibition in certain emergencies
 
-The Attorney General may request the Secretary of Defense to provide assistance under section 382 of title 10 1
+The Attorney General may request the Secretary of Defense to provide assistance under section 382 of title 10 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 in support of Department of Justice activities relating to the enforcement of section 229 of this title in an emergency situation involving a chemical weapon. The authority to make such a request may be exercised by another official of the Department of Justice in accordance with section 382(f)(2) of title 10.1
 
-(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–869.)
+(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–869.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 382 of title 10, referred to in text, was renumbered section 282 of title 10, Armed Forces, by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Section 382 of title 10, referred to in text, was renumbered section 282 of title 10, Armed Forces, by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
-## § 229F. Definitions
+## § 229F. Definitions
 
 In this chapter:
 
@@ -199,9 +199,9 @@ In this chapter:
 
 **(9) United states.—** The term “United States” means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
 
-**(A)** any of the places within the provisions of paragraph (41) 1
+**(A)** any of the places within the provisions of paragraph (41) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of section 40102 of title 49, United States Code;
 
@@ -209,13 +209,13 @@ of section 40102 of title 49, United States Code;
 
 **(C)** any vessel of the United States, as such term is defined in section 70502(b) of title 46, United States Code.
 
-(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–869; amended Pub. L. 109–304, § 17(d)(1), Oct. 6, 2006, 120 Stat. 1707.)
+(Added Pub. L. 105–277, div. I, title II, § 201(a), Oct. 21, 1998, 112 Stat. 2681–869; amended Pub. L. 109–304, § 17(d)(1), Oct. 6, 2006, 120 Stat. 1707.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Paragraphs (17), (37), and (41) of section 40102 of title 49, referred to in par. (9)(A), (B), probably means paragraphs (17), (37), and (41) of subsection (a) of section 40102 of title 49. Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by Pub. L. 108–176, title II, § 225(a)(1), (3), Dec. 12, 2003, 117 Stat. 2528.
+Paragraphs (17), (37), and (41) of section 40102 of title 49, referred to in par. (9)(A), (B), probably means paragraphs (17), (37), and (41) of subsection (a) of section 40102 of title 49. Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by Pub. L. 108–176, title II, § 225(a)(1), (3), Dec. 12, 2003, 117 Stat. 2528.
 
 **Amendments**
 

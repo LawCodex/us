@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1998—Pub. L. 105–362, title XIII, § 1302(b)(2)(A), Nov. 10, 1998, 112 Stat. 3293, struck out item 1308 “Annual reports”.
+1998—Pub. L. 105–362, title XIII, § 1302(b)(2)(A), Nov. 10, 1998, 112 Stat. 3293, struck out item 1308 “Annual reports”.
 
-1978—Pub. L. 95–251, § 2(c)(1), Mar. 27, 1978, 92 Stat. 183, substituted “Administrative law judges” for “Hearing examiners” in item 1305.
+1978—Pub. L. 95–251, § 2(c)(1), Mar. 27, 1978, 92 Stat. 183, substituted “Administrative law judges” for “Hearing examiners” in item 1305.
 
-## § 1301. Rules
+## § 1301. Rules
 
 The Office of Personnel Management shall aid the President, as he may request, in preparing the rules he prescribes under this title for the administration of the competitive service.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 633(1) (function of Civil Service Commission). | Jan. 16, 1883, ch. 27, § 2(1) (function of Civil Service Commission), 22 Stat. 403. |
+|  | 5 U.S.C. 633(1) (function of Civil Service Commission). | Jan. 16, 1883, ch. 27, § 2(1) (function of Civil Service Commission), 22 Stat. 403. |
 
 The authority of the President to prescribe rules is carried into sections 2951, 3302, 3304(a), 3306(a), 3321, 7152, 7153, 7321, and 7322 of this title.
 
@@ -51,7 +51,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 1302. Regulations
+## § 1302. Regulations
 
 **(a)** The Office of Personnel Management, subject to the rules prescribed by the President under this title for the administration of the competitive service, shall prescribe regulations for, control, supervise, and preserve the records of, examinations for the competitive service.
 
@@ -61,16 +61,16 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **(d)** The Office may prescribe reasonable procedure and regulations for the administration of its functions under chapter 15 of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 633(2)7 (last 17 words), (3) (less last 10 words). | Jan. 16, 1883, ch. 27, §§ 2(2)7 (last 17 words), (3) (less last 10 words), 22 Stat. 404. |
-| (b) | 5 U.S.C. 851 (1st 76 words), 868 (less proviso). | June 27, 1944, ch. 287, §§ 2 (1st 76 words), 19, 58 Stat. 387, 391. |
-| (c) | 5 U.S.C. 851 (1st 76 words), 860. | June 27, 1944, ch. 287, §§ 2 (1st 76 words), 11, 58 Stat. 387, 390. |
-| (d) | 5 U.S.C. 118k(d) (1st sentence). | July 19, 1940, ch. 640 § 4 “Sec. 12(d) (1st sentence)”, 54 Stat. 769. |
+| (a) | 5 U.S.C. 633(2)7 (last 17 words), (3) (less last 10 words). | Jan. 16, 1883, ch. 27, §§ 2(2)7 (last 17 words), (3) (less last 10 words), 22 Stat. 404. |
+| (b) | 5 U.S.C. 851 (1st 76 words), 868 (less proviso). | June 27, 1944, ch. 287, §§ 2 (1st 76 words), 19, 58 Stat. 387, 391. |
+| (c) | 5 U.S.C. 851 (1st 76 words), 860. | June 27, 1944, ch. 287, §§ 2 (1st 76 words), 11, 58 Stat. 387, 390. |
+| (d) | 5 U.S.C. 118k(d) (1st sentence). | July 19, 1940, ch. 640 § 4 “Sec. 12(d) (1st sentence)”, 54 Stat. 769. |
 
 Subsection (a) is based on former section 633(3) (less last 10 words). The regulation-making power conferred by that section covers the power conferred by former section 633(2)7 (last 17 words) which is, therefore, omitted. The requirement of notice is preserved in section 3304. The words “through its members or the examiners” are omitted as unnecessary in view of section 1104. The authority of the President to prescribe rules, based on former section 633(1) is carried into sections 2951, 3302, 3304(a), 3306(a), 3321, 7152, 7153, 7321, and 7322 of this title.
 
@@ -102,7 +102,7 @@ Ex. Ord. No. 10561, Sept. 13, 1954, 19 F.R. 5963, which related to official pers
 
 Ex. Ord. No. 11397, Feb. 9, 1968, 33 F.R. 2833, formerly set out as a note under this section, which related to transitional appointments of veterans who served during the Vietnam Era, was revoked by Ex. Ord. No. 11521, Mar. 26, 1970, 35 F.R. 5311, set out as a note under section 3302 of this title.
 
-## § 1303. Investigations; reports
+## § 1303. Investigations; reports
 
 The Office of Personnel Management, Merit Systems Protection Board, and Special Counsel may investigate and report on matters concerning—
 
@@ -110,17 +110,17 @@ The Office of Personnel Management, Merit Systems Protection Board, and Special 
 
 **(2)** the action of an examiner, a board of examiners, and other employees concerning the execution of the provisions of this title that relate to the administration of the competitive service.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 95–454, title IX, § 906(a)(4), (11), Oct. 13, 1978, 92 Stat. 1225.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 95–454, title IX, § 906(a)(4), (11), Oct. 13, 1978, 92 Stat. 1225.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 633(4). | Jan. 16, 1883, ch. 27, § 2(4), 22 Stat. 404. |
+|  | 5 U.S.C. 633(4). | Jan. 16, 1883, ch. 27, § 2(4), 22 Stat. 404. |
 
 The authority of the President to prescribe rules is carried into sections 2951, 3302, 3304(a), 3306(a), 3321, 7152, 7153, 7321, and 7322 of this title.
 
-In paragraph (2), the words “in respect to the execution of this act” are changed to “concerning the execution of the provisions of this title that relate to the administration of the competitive service” to avoid having to refer in the text to the sections of this title into which the Civil Service Act, the act referred to, is codified. These sections are: 1101, 1102, 1105, 1302(a), 1303, 1307, 1308(a)(1), 2102, 2951, 3302, 3303, 3304(a), (d), 3305(a), 3306, 3318(a), 3319(a), 3321, 7152, 7153, 7321, 7322, and 7352. The words “the provisions of this title that relate to the administration of the competitive service” will include some of the sections derived from the Veterans’ Preference Act of 1944 (former sections 851–869). They are based in part on former section 860 (codified in § 1302(c)). The authorization in that section to make and enforce regulations for the competitive service would include the authority to investigate and report. The words “and other employees” are substituted for “and its own subordinates, and those in the public service” in view of the definition of “employee” in section 2105.
+In paragraph (2), the words “in respect to the execution of this act” are changed to “concerning the execution of the provisions of this title that relate to the administration of the competitive service” to avoid having to refer in the text to the sections of this title into which the Civil Service Act, the act referred to, is codified. These sections are: 1101, 1102, 1105, 1302(a), 1303, 1307, 1308(a)(1), 2102, 2951, 3302, 3303, 3304(a), (d), 3305(a), 3306, 3318(a), 3319(a), 3321, 7152, 7153, 7321, 7322, and 7352. The words “the provisions of this title that relate to the administration of the competitive service” will include some of the sections derived from the Veterans’ Preference Act of 1944 (former sections 851–869). They are based in part on former section 860 (codified in § 1302(c)). The authorization in that section to make and enforce regulations for the competitive service would include the authority to investigate and report. The words “and other employees” are substituted for “and its own subordinates, and those in the public service” in view of the definition of “employee” in section 2105.
 
 Standard changes are made to conform with the definition applicable and the style of this title as outlined in the preface to the report.
 
@@ -136,7 +136,7 @@ Standard changes are made to conform with the definition applicable and the styl
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 1304. Loyalty investigations; reports; revolving fund
+## § 1304. Loyalty investigations; reports; revolving fund
 
 **(a)** The Office of Personnel Management shall conduct the investigations and issue the reports required by the following statutes—
 
@@ -184,18 +184,18 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **(g)** This section does not affect the responsibility of the Federal Bureau of Investigation to investigate espionage, sabotage, or subversive acts.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 91–189, § 1, Dec. 30, 1969, 83 Stat. 851; Pub. L. 91–648, title V, § 510, Jan. 5, 1971, 84 Stat. 1928; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–60, title II, § 203(a)(2), Aug. 15, 1979, 93 Stat. 398; Pub. L. 97–412, § 1(a), Jan. 3, 1983, 96 Stat. 2047; Pub. L. 98–224, § 5(b)(1), Mar. 2, 1984, 98 Stat. 48; Pub. L. 103–437, § 3(a), Nov. 2, 1994, 108 Stat. 4581; Pub. L. 104–66, title II, § 2182, Dec. 21, 1995, 109 Stat. 732; Pub. L. 104–208, div. A, title I, § 101(f) [title IV, § 421], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343; Pub. L. 113–80, § 2, Feb. 12, 2014, 128 Stat. 1006.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 91–189, § 1, Dec. 30, 1969, 83 Stat. 851; Pub. L. 91–648, title V, § 510, Jan. 5, 1971, 84 Stat. 1928; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–60, title II, § 203(a)(2), Aug. 15, 1979, 93 Stat. 398; Pub. L. 97–412, § 1(a), Jan. 3, 1983, 96 Stat. 2047; Pub. L. 98–224, § 5(b)(1), Mar. 2, 1984, 98 Stat. 48; Pub. L. 103–437, § 3(a), Nov. 2, 1994, 108 Stat. 4581; Pub. L. 104–66, title II, § 2182, Dec. 21, 1995, 109 Stat. 732; Pub. L. 104–208, div. A, title I, § 101(f) [title IV, § 421], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343; Pub. L. 113–80, § 2, Feb. 12, 2014, 128 Stat. 1006.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (b)–(d) | 5 U.S.C. 655. | Apr. 5, 1952, ch. 159, § 1 (provisos), 66 Stat. 44. July 31, 1953, ch. 283, § 9, 67 Stat. 241. |
-| (e) | 5 U.S.C. 657. | June 5, 1952, ch. 369, § 701 (par. under “Civil Service Commission”), 66 Stat. 107. |
-| (f) | [Uncodified]. | Apr. 5, 1952, ch. 159, § 4, 66 Stat. 44. |
-| (g) | 5 U.S.C. 656. | Apr. 5, 1952, ch. 159, § 3, 66 Stat. 44. |
+| (b)–(d) | 5 U.S.C. 655. | Apr. 5, 1952, ch. 159, § 1 (provisos), 66 Stat. 44. July 31, 1953, ch. 283, § 9, 67 Stat. 241. |
+| (e) | 5 U.S.C. 657. | June 5, 1952, ch. 369, § 701 (par. under “Civil Service Commission”), 66 Stat. 107. |
+| (f) | [Uncodified]. | Apr. 5, 1952, ch. 159, § 4, 66 Stat. 44. |
+| (g) | 5 U.S.C. 656. | Apr. 5, 1952, ch. 159, § 3, 66 Stat. 44. |
 
-Subsection (a) is based on section 1 of the Act of April 5, 1952, as amended, and is added for clarity. In subsection (a), the reference to section 10(b)(5)(B)(i) and (B)(ii) of the Act of August 1, 1946 (60 Stat. 766) is omitted because of the amendment of the Act of April 5, 1952, by the Act of July 31, 1953, ch. 283, 67 Stat. 240, and the reenactment of the provisions of the Act of April 5, 1952, insofar as they relate to the Atomic Energy Commission as section 145 of the Atomic Energy Act of 1954 (68 Stat. 942; 42 U.S.C. 2165). The references to section 1(2) of the Act of May 22, 1947 (61 Stat. 125), section 1 of the joint resolution of May 21, 1947 (61 Stat. 125), and section 110(c) of the Act of April 3, 1948 (62 Stat. 137) are omitted as these Acts were repealed by the Act of Aug. 26, 1954, ch. 937 § 542(a) (1), (2), and (4), 68 Stat. 861. Reference to section 510 of the Mutual Security Act of 1951 (65 Stat. 381) is omitted because this section was replaced by section 531 of the Mutual Security Act of 1954 (68 Stat. 859) and the latter was repealed by the Act of Sept. 4, 1961, Pub. L. 87–195, § 642(2), 75 Stat. 460.
+Subsection (a) is based on section 1 of the Act of April 5, 1952, as amended, and is added for clarity. In subsection (a), the reference to section 10(b)(5)(B)(i) and (B)(ii) of the Act of August 1, 1946 (60 Stat. 766) is omitted because of the amendment of the Act of April 5, 1952, by the Act of July 31, 1953, ch. 283, 67 Stat. 240, and the reenactment of the provisions of the Act of April 5, 1952, insofar as they relate to the Atomic Energy Commission as section 145 of the Atomic Energy Act of 1954 (68 Stat. 942; 42 U.S.C. 2165). The references to section 1(2) of the Act of May 22, 1947 (61 Stat. 125), section 1 of the joint resolution of May 21, 1947 (61 Stat. 125), and section 110(c) of the Act of April 3, 1948 (62 Stat. 137) are omitted as these Acts were repealed by the Act of Aug. 26, 1954, ch. 937 § 542(a) (1), (2), and (4), 68 Stat. 861. Reference to section 510 of the Mutual Security Act of 1951 (65 Stat. 381) is omitted because this section was replaced by section 531 of the Mutual Security Act of 1954 (68 Stat. 859) and the latter was repealed by the Act of Sept. 4, 1961, Pub. L. 87–195, § 642(2), 75 Stat. 460.
 
 In subsection (d), the references to section 10(b)(5)(B)(i) and (ii) of the Atomic Energy Act of 1946, section 510 of the Mutual Security Act of 1951, a majority of the members of the Atomic Energy Commission, and the Director of Mutual Security (which was changed to Director of the International Cooperation Administration on authority of section 8 of 1953 Reorg. Plan No. 7, 67 Stat. 641, and Executive Order 10610 of May 9, 1955) are omitted because of the disposition of the two sections as explained with reference to subsection (a).
 
@@ -209,15 +209,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **References in Text**
 
-Section 1874(c) of title 42, referred to in subsec. (a)(2), which related to clearance of National Science Foundation personnel, was repealed by Pub. L. 96–516, § 21(b)(1), Dec. 12, 1980, 94 Stat. 3010.
+Section 1874(c) of title 42, referred to in subsec. (a)(2), which related to clearance of National Science Foundation personnel, was repealed by Pub. L. 96–516, § 21(b)(1), Dec. 12, 1980, 94 Stat. 3010.
 
 **Amendments**
 
-2014—Subsec. (e)(1). Pub. L. 113–80, § 2(1), inserted “, and for the cost of audits, investigations, and oversight activities, conducted by the Inspector General of the Office, of the fund and the activities financed by the fund” before period at end of first sentence.
+2014—Subsec. (e)(1). Pub. L. 113–80, § 2(1), inserted “, and for the cost of audits, investigations, and oversight activities, conducted by the Inspector General of the Office, of the fund and the activities financed by the fund” before period at end of first sentence.
 
-Subsec. (e)(5). Pub. L. 113–80, § 2(2), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+Subsec. (e)(5). Pub. L. 113–80, § 2(2), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-1996—Subsec. (e)(1). Pub. L. 104–208 inserted “, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities” before period at end of first sentence.
+1996—Subsec. (e)(1). Pub. L. 104–208 inserted “, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities” before period at end of first sentence.
 
 1995—Subsec. (e)(6). Pub. L. 104–66 struck out before period at end “at least once every three years”.
 
@@ -231,11 +231,11 @@ Subsec. (e)(5). Pub. L. 113–80, § 2(2), designated existing provisions as s
 
 1978—Subsecs. (a) to (f). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
-1971—Subsec. (e). Pub. L. 91–648 struck out in par. (1) “of $4,000,000” after “revolving fund” and inserted in par. (2)(A) “, which appropriations are hereby authorized”.
+1971—Subsec. (e). Pub. L. 91–648 struck out in par. (1) “of $4,000,000” after “revolving fund” and inserted in par. (2)(A) “, which appropriations are hereby authorized”.
 
-1969—Subsec. (e). Pub. L. 91–189, § 1(a), increased the scope of reimbursable services for which the fund may be used, restricted reimbursement to services which were included in the budget estimates submitted to Congress for that fiscal year, inserted a list of components which comprise the fund, specifically listed those items that would be credited directly to the capital fund, required that a budget be prepared by the Commission, and directed the Comptroller General as a result of the activities financed to make recommendations to the committees on Post Office and Civil Service of the Senate and House of Representatives at least once every three years.
+1969—Subsec. (e). Pub. L. 91–189, § 1(a), increased the scope of reimbursable services for which the fund may be used, restricted reimbursement to services which were included in the budget estimates submitted to Congress for that fiscal year, inserted a list of components which comprise the fund, specifically listed those items that would be credited directly to the capital fund, required that a budget be prepared by the Commission, and directed the Comptroller General as a result of the activities financed to make recommendations to the committees on Post Office and Civil Service of the Senate and House of Representatives at least once every three years.
 
-Subsec. (f). Pub. L. 91–189, § 1(b), authorized an agency to use available appropriations to reimburse the Commission or the Federal Bureau of Investigation for the cost of training and functions performed.
+Subsec. (f). Pub. L. 91–189, § 1(b), authorized an agency to use available appropriations to reimburse the Commission or the Federal Bureau of Investigation for the cost of training and functions performed.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -245,7 +245,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 97–412, § 1(b), Jan. 3, 1983, 96 Stat. 2047, provided that: “The authority granted in subsection (a) [amending this section] shall terminate on December 31, 1983.”
+Pub. L. 97–412, § 1(b), Jan. 3, 1983, 96 Stat. 2047, provided that: “The authority granted in subsection (a) [amending this section] shall terminate on December 31, 1983.”
 
 **Effective Date of 1979 Amendment**
 
@@ -259,11 +259,11 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-## § 1305. Administrative law judges
+## § 1305. Administrative law judges
 
 For the purpose of sections 3105, 3344, 4301(2)(D), and 5372 of this title and the provisions of section 5335(a)(B) of this title that relate to administrative law judges, the Office of Personnel Management may, and for the purpose of section 7521 of this title, the Merit Systems Protection Board may investigate, prescribe regulations, appoint advisory committees as necessary, recommend legislation, subpena witnesses and records, and pay witness fees as established for the courts of the United States.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 402; Pub. L. 90–83, § 1(3), Sept. 11, 1967, 81 Stat. 196; Pub. L. 95–251, § 2(a)(1), (b)(1), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title VIII, § 801(a)(3)(B)(iii), title IX, § 906(a)(12), Oct. 13, 1978, 92 Stat. 1221, 1225; Pub. L. 102–378, § 2(4), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 105–362, title XIII, § 1302(a), Nov. 10, 1998, 112 Stat. 3293.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 402; Pub. L. 90–83, § 1(3), Sept. 11, 1967, 81 Stat. 196; Pub. L. 95–251, § 2(a)(1), (b)(1), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title VIII, § 801(a)(3)(B)(iii), title IX, § 906(a)(12), Oct. 13, 1978, 92 Stat. 1221, 1225; Pub. L. 102–378, § 2(4), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 105–362, title XIII, § 1302(a), Nov. 10, 1998, 112 Stat. 3293.)
 
 **Historical and Revision Notes**
 
@@ -271,7 +271,7 @@ For the purpose of sections 3105, 3344, 4301(2)(D), and 5372 of this title and t
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1010 (5th sentence). | June 11, 1946, ch. 324, § 11 (5th sentence), 60 Stat. 244. |
+|  | 5 U.S.C. 1010 (5th sentence). | June 11, 1946, ch. 324, § 11 (5th sentence), 60 Stat. 244. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -307,18 +307,18 @@ Amendment by Pub. L. 90–83 effective as of Sept. 6, 1966, for all purposes, se
 
 Advisory committees in existence on Jan. 5, 1973, excluding committees composed wholly of full-time officers or employees of the Federal Government, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of this title.
 
-## § 1306. Oaths to witnesses
+## § 1306. Oaths to witnesses
 
 The Director of the Office of Personnel Management and authorized representatives of the Director may administer oaths to witnesses in matters pending before the Office.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 402; Pub. L. 95–454, title IX, § 906(a)(13), Oct. 13, 1978, 92 Stat. 1226.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 402; Pub. L. 95–454, title IX, § 906(a)(13), Oct. 13, 1978, 92 Stat. 1226.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 634. | Aug. 23, 1912, ch. 350, § 1 (last par. under “Civil Service Commission”), 37 Stat. 372. |
-|  | [Uncodified]. | 1949 Reorg. Plan No. 5, § 2(c), eff. Aug. 19, 1949, 63 Stat. 1069. |
+|  | 5 U.S.C. 634. | Aug. 23, 1912, ch. 350, § 1 (last par. under “Civil Service Commission”), 37 Stat. 372. |
+|  | [Uncodified]. | 1949 Reorg. Plan No. 5, § 2(c), eff. Aug. 19, 1949, 63 Stat. 1069. |
 
 The section is rewritten to reflect expansion of authority of the Commission to include its Chairman under section 2(c) of 1949 Reorg. Plan No. 5.
 
@@ -336,7 +336,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 1307. Minutes
+## § 1307. Minutes
 
 The Civil Service Commission shall keep minutes of its proceedings.
 
@@ -346,7 +346,7 @@ The Civil Service Commission shall keep minutes of its proceedings.
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 633(3) (last 10 words). | Jan. 16, 1883, ch. 27, § 2(3) (last 10 words), 22 Stat. 404. |
+|  | 5 U.S.C. 633(3) (last 10 words). | Jan. 16, 1883, ch. 27, § 2(3) (last 10 words), 22 Stat. 404. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -354,8 +354,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Transfer of Functions**
 
-Functions vested by statute in United States Civil Service Commission transferred to Director of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of this title, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of this title.
+Functions vested by statute in United States Civil Service Commission transferred to Director of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of this title, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of this title.
 
-## [§ 1308. Repealed. Pub. L. 105–362, title XIII, § 1302(b)(1), Nov. 10, 1998, 112 Stat. 3293]
+## [§ 1308. Repealed. Pub. L. 105–362, title XIII, § 1302(b)(1), Nov. 10, 1998, 112 Stat. 3293]
 
-Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 402; Pub. L. 91–93, title I, § 104, Oct. 20, 1969, 83 Stat. 138; Pub. L. 93–156, Nov. 21, 1973, 87 Stat. 623; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, § 2(a)(3), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–470, title I, § 121, Oct. 19, 1980, 94 Stat. 2241, required annual reports on operation of subchapter III of chapter 83 of this title and chapters 87 and 89 of this title.
+Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 402; Pub. L. 91–93, title I, § 104, Oct. 20, 1969, 83 Stat. 138; Pub. L. 93–156, Nov. 21, 1973, 87 Stat. 623; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, § 2(a)(3), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–470, title I, § 121, Oct. 19, 1980, 94 Stat. 2241, required annual reports on operation of subchapter III of chapter 83 of this title and chapters 87 and 89 of this title.

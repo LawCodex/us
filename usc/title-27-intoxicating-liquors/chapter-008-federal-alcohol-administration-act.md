@@ -17,23 +17,23 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—FEDERAL ALCOHOL ADMINISTRATION
 
-### § 201. Short title
+### § 201. Short title
 
 This subchapter may be cited as the “Federal Alcohol Administration Act”.
 
-(Aug. 29, 1935, ch. 814, title I, § 101, formerly § 1, 49 Stat. 977; renumbered title I, § 101, and amended Pub. L. 100–690, title VIII, § 8001(a)(1), (2), (b)(1), Nov. 18, 1988, 102 Stat. 4517, 4521.)
+(Aug. 29, 1935, ch. 814, title I, § 101, formerly § 1, 49 Stat. 977; renumbered title I, § 101, and amended Pub. L. 100–690, title VIII, § 8001(a)(1), (2), (b)(1), Nov. 18, 1988, 102 Stat. 4517, 4521.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Pub. L. 100–690, § 8001(b)(1), amended section generally, substituting “subchapter” for “chapter”.
+1988—Pub. L. 100–690, § 8001(b)(1), amended section generally, substituting “subchapter” for “chapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Act Aug. 29, 1935, title II, § 201, as added Nov. 18, 1988, Pub. L. 100–690, title VIII, § 8001(a)(3), 102 Stat. 4518, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Alcoholic Beverage Labeling Act of 1988’.”
+Act Aug. 29, 1935, title II, § 201, as added Nov. 18, 1988, Pub. L. 100–690, title VIII, § 8001(a)(3), 102 Stat. 4518, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Alcoholic Beverage Labeling Act of 1988’.”
 
 **Transfer of Functions**
 
@@ -43,9 +43,9 @@ For transfer of authorities, functions, personnel, and assets of the Bureau of A
 
 **Transfer of Functions**
 
-Federal Alcohol Administration and offices of members and Administrator thereof were abolished and their functions directed to be administered under direction and supervision of Secretary of Treasury through Bureau of Internal Revenue [now Internal Revenue Service] in Department of Treasury, by Reorg. Plan No. III of 1940, § 2, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees. See also, sections 8 and 9 of said plan for provisions relating to transfer of records, property, personnel, and funds. Section 2 of Reorg. Plan No. III of 1940 was repealed as executed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1085, the first section of which enacted Title 31, Money and Finance. Department of the Treasury Order 221 of July 1, 1972, established the Bureau of Alcohol, Tobacco and Firearms and transferred to it functions of the Internal Revenue Service arising under certain laws relating to alcohol, tobacco, firearms, and explosives.
+Federal Alcohol Administration and offices of members and Administrator thereof were abolished and their functions directed to be administered under direction and supervision of Secretary of Treasury through Bureau of Internal Revenue [now Internal Revenue Service] in Department of Treasury, by Reorg. Plan No. III of 1940, § 2, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees. See also, sections 8 and 9 of said plan for provisions relating to transfer of records, property, personnel, and funds. Section 2 of Reorg. Plan No. III of 1940 was repealed as executed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1085, the first section of which enacted Title 31, Money and Finance. Department of the Treasury Order 221 of July 1, 1972, established the Bureau of Alcohol, Tobacco and Firearms and transferred to it functions of the Internal Revenue Service arising under certain laws relating to alcohol, tobacco, firearms, and explosives.
 
-### § 202. General provisions
+### § 202. General provisions
 
 **(a) to (d) Omitted**
 
@@ -65,7 +65,7 @@ The provisions including penalties, of sections 49 and 50 of title 15, shall be 
 
 The Secretary of the Treasury is authorized to require, in such manner and form as he shall prescribe, such reports as are necessary to carry out his powers and duties under this chapter.
 
-(Aug. 29, 1935, ch. 814, title I, § 102, formerly § 2, 49 Stat. 977; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 7, 1946, ch. 770, § 1(46), 60 Stat. 870; renumbered title I, § 102, Pub. L. 100–690, title VIII, § 8001(a)(1), (2), Nov. 18, 1988, 102 Stat. 4517.)
+(Aug. 29, 1935, ch. 814, title I, § 102, formerly § 2, 49 Stat. 977; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 7, 1946, ch. 770, § 1(46), 60 Stat. 870; renumbered title I, § 102, Pub. L. 100–690, title VIII, § 8001(a)(1), (2), Nov. 18, 1988, 102 Stat. 4517.)
 
 **Editorial Notes**
 
@@ -77,21 +77,21 @@ Subsections (a) to (d) provided for the creation of a Federal Alcohol Administra
 
 1946—Subsec. (i). Act Aug. 7, 1946, struck out subsec. (i) which related to reports to Congress by the Secretary of the Treasury with respect to the administration of the functions charged to the Secretary under this chapter.
 
-### §§ 202a, 202b. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 649
+### §§ 202a, 202b. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 649
 
-Section 202a, act June 26, 1936, ch. 830, title V, § 501, 49 Stat. 1964, established the Federal Alcohol Administration, and provided for appointment, duties, and pay of its employees.
+Section 202a, act June 26, 1936, ch. 830, title V, § 501, 49 Stat. 1964, established the Federal Alcohol Administration, and provided for appointment, duties, and pay of its employees.
 
-Section 202b, act June 26, 1936, ch. 830, title V, § 502, 49 Stat. 1964, provided for appointment, pay, tenure, and powers of members of the Federal Alcohol Administration.
+Section 202b, act June 26, 1936, ch. 830, title V, § 502, 49 Stat. 1964, provided for appointment, pay, tenure, and powers of members of the Federal Alcohol Administration.
 
-### § 202c. Omitted
+### § 202c. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 26, 1936, ch. 830, title V, § 503, 49 Stat. 1965, which provided for repeal of former laws, was to have taken effect when a majority of the members authorized to be appointed took office under section 202b of this title. The members, however, were never appointed.
+Section, act June 26, 1936, ch. 830, title V, § 503, 49 Stat. 1965, which provided for repeal of former laws, was to have taken effect when a majority of the members authorized to be appointed took office under section 202b of this title. The members, however, were never appointed.
 
-### § 203. Unlawful businesses without permit; application to State agency
+### § 203. Unlawful businesses without permit; application to State agency
 
 In order effectively to regulate interstate and foreign commerce in distilled spirits, wine, and malt beverages, to enforce the twenty-first amendment, and to protect the revenue and enforce the postal laws with respect to distilled spirits, wine, and malt beverages:
 
@@ -117,7 +117,7 @@ This subsection shall take effect July 1, 1936.
 
 This section shall not apply to any agency of a State or political subdivision thereof or any officer or employee of any such agency, and no such agency or officer or employee shall be required to obtain a basic permit under this subchapter.
 
-(Aug. 29, 1935, ch. 814, title I, § 103, formerly § 3, 49 Stat. 978; Feb. 29, 1936, ch. 105, § 1, 49 Stat. 1152; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; renumbered title I, § 103, and amended Pub. L. 100–690, title VIII, § 8001(a)(1), (2), (b)(2), Nov. 18, 1988, 102 Stat. 4517, 4521.)
+(Aug. 29, 1935, ch. 814, title I, § 103, formerly § 3, 49 Stat. 978; Feb. 29, 1936, ch. 105, § 1, 49 Stat. 1152; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; renumbered title I, § 103, and amended Pub. L. 100–690, title VIII, § 8001(a)(1), (2), (b)(2), Nov. 18, 1988, 102 Stat. 4517, 4521.)
 
 **Editorial Notes**
 
@@ -127,7 +127,7 @@ In the original, subsections (a) and (b) of this section contained a final parag
 
 **Amendments**
 
-1988—Pub. L. 100–690, § 8001(b)(2), substituted “subchapter” for “chapter” wherever appearing.
+1988—Pub. L. 100–690, § 8001(b)(2), substituted “subchapter” for “chapter” wherever appearing.
 
 1936—Subsec. (c). Act Feb. 29, 1936, extended the effective date from March 1, 1936, to July 1, 1936.
 
@@ -137,7 +137,7 @@ In the original, subsections (a) and (b) of this section contained a final parag
 
 “Secretary of the Treasury” was substituted in text for “Administrator”, meaning the Administrator of the Federal Alcohol Administration, pursuant to Reorg. Plan No. III of 1940, see note set out under section 201 of this title.
 
-### § 204. Permits
+### § 204. Permits
 
 **(a) Who entitled thereto** The following persons shall, on application therefor, be entitled to a basic permit:
 
@@ -177,7 +177,7 @@ An appeal may be taken by the permittee or applicant for a permit from any order
 
 No proceeding for the suspension or revocation of a basic permit for violation of any condition thereof relating to compliance with Federal law shall be instituted by the Secretary more than eighteen months after conviction of the violation of Federal law, or, if no conviction has been had, more than three years after the violation occurred; and no basic permit shall be suspended or revoked for a violation of any such condition thereof if the alleged violation of Federal law has been compromised by any officer of the Government authorized to compromise such violation.
 
-(Aug. 29, 1935, ch. 814, title I, § 104, formerly § 4, 49 Stat. 978; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 14, Aug. 28, 1958, 72 Stat. 946; renumbered title I, § 104, and amended Pub. L. 100–690, title VIII, § 8001(a)(1), (2), (b)(2), (3), Nov. 18, 1988, 102 Stat. 4517, 4521.)
+(Aug. 29, 1935, ch. 814, title I, § 104, formerly § 4, 49 Stat. 978; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 14, Aug. 28, 1958, 72 Stat. 946; renumbered title I, § 104, and amended Pub. L. 100–690, title VIII, § 8001(a)(1), (2), (b)(2), (3), Nov. 18, 1988, 102 Stat. 4517, 4521.)
 
 **Editorial Notes**
 
@@ -187,9 +187,9 @@ In subsec. (h) of this section, “section 1254 of title 28” was substituted f
 
 **Amendments**
 
-1988—Subsec. (c). Pub. L. 100–690, § 8001(b)(2), substituted “subchapter” for “chapter” wherever appearing.
+1988—Subsec. (c). Pub. L. 100–690, § 8001(b)(2), substituted “subchapter” for “chapter” wherever appearing.
 
-Subsec. (d). Pub. L. 100–690, § 8001(b)(3), made technical amendment to references to sections 205 and 206 of this title to reflect renumbering of corresponding sections of original act.
+Subsec. (d). Pub. L. 100–690, § 8001(b)(3), made technical amendment to references to sections 205 and 206 of this title to reflect renumbering of corresponding sections of original act.
 
 1958—Subsec. (h). Pub. L. 85–791, in third sentence, substituted “transmitted by the clerk of the court to the Secretary, or” for “served upon, the Secretary, or upon any”, substituted “file in the court” for “certify and file in the court a transcript of”, and inserted “as provided in section 2112 of title 28”, and in fourth sentence, substituted “petition” for “transcript”.
 
@@ -201,7 +201,7 @@ Subsec. (d). Pub. L. 100–690, § 8001(b)(3), made technical amendment to ref
 
 **Applicability of Administrative Procedure Act**
 
-Pub. L. 85–791, § 35, Aug. 28, 1958, 72 Stat. 951, provided that: “This Act shall not be construed to repeal or modify any provision of the Administrative Procedure Act [see Short Title note preceding section 551 of Title 5, Government Organization and Employees].”
+Pub. L. 85–791, § 35, Aug. 28, 1958, 72 Stat. 951, provided that: “This Act shall not be construed to repeal or modify any provision of the Administrative Procedure Act [see Short Title note preceding section 551 of Title 5, Government Organization and Employees].”
 
 **Executive Documents**
 
@@ -209,7 +209,7 @@ Pub. L. 85–791, § 35, Aug. 28, 1958, 72 Stat. 951, provided that: “This A
 
 “Secretary of the Treasury” and “Secretary” were substituted in subsecs. (a) to (c) and (e) to (i) for “Administrator”, meaning the Administrator of the Federal Alcohol Administration, pursuant to Reorg. Plan No. III of 1940, see note set out under section 201 of this title.
 
-### § 205. Unfair competition and unlawful practices
+### § 205. Unfair competition and unlawful practices
 
 It shall be unlawful for any person engaged in business as a distiller, brewer, rectifier, blender, or other producer, or as an importer or wholesaler, of distilled spirits, wine, or malt beverages, or as a bottler, or warehouseman and bottler, of distilled spirits, directly or indirectly or through an affiliate:
 
@@ -247,7 +247,7 @@ In the case of malt beverages, the provisions of subsections (a), (b), (c), and 
 
 The Secretary of the Treasury shall give reasonable public notice, and afford to interested parties opportunity for hearing, prior to prescribing regulations to carry out the provisions of this section.
 
-(Aug. 29, 1935, ch. 814, title I, § 105, formerly § 5, 49 Stat. 981; Feb. 29, 1936, ch. 105, § 2, 49 Stat. 1152; June 25, 1936, ch. 804, 49 Stat. 1921; June 26, 1936, ch. 830, title V, §§ 505, 506, 49 Stat. 1965, 1966; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Apr. 20, 1942, ch. 244, § 1(h), 56 Stat. 219; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; renumbered title I, § 105, and amended Pub. L. 100–690, title VIII, § 8001(a)(1), (2), (b)(2), Nov. 18, 1988, 102 Stat. 4517, 4521; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(13)], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
+(Aug. 29, 1935, ch. 814, title I, § 105, formerly § 5, 49 Stat. 981; Feb. 29, 1936, ch. 105, § 2, 49 Stat. 1152; June 25, 1936, ch. 804, 49 Stat. 1921; June 26, 1936, ch. 830, title V, §§ 505, 506, 49 Stat. 1965, 1966; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Apr. 20, 1942, ch. 244, § 1(h), 56 Stat. 219; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; renumbered title I, § 105, and amended Pub. L. 100–690, title VIII, § 8001(a)(1), (2), (b)(2), Nov. 18, 1988, 102 Stat. 4517, 4521; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(13)], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
 
 **Editorial Notes**
 
@@ -255,7 +255,7 @@ The Secretary of the Treasury shall give reasonable public notice, and afford to
 
 As originally enacted subsec. (e) of this section contained a reference to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted “the district court of the United States for the District of Columbia” for “the Supreme Court of the District of Columbia”, and act June 25, 1948, as amended by act May 24, 1949, substituted “United States District Court for the District of Columbia” for “district court of the United States for the District of Columbia”. However, the words “United States District Court for the District of Columbia” have been deleted entirely as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of Title 28 which states that “the District of Columbia constitutes one judicial district”.
 
-An amendment to the second proviso of subsec. (e) of this title was contained in act June 26, 1936, ch. 830, title V, § 506, 49 Stat. 1965. The amendment was to have taken effect when a majority of the members of the Federal Alcohol Administration authorized to be appointed under section 202b of this title took office. However, the members were never appointed and section 202b of this title was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 649.
+An amendment to the second proviso of subsec. (e) of this title was contained in act June 26, 1936, ch. 830, title V, § 506, 49 Stat. 1965. The amendment was to have taken effect when a majority of the members of the Federal Alcohol Administration authorized to be appointed under section 202b of this title took office. However, the members were never appointed and section 202b of this title was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 649.
 
 **Constitutionality**
 
@@ -265,7 +265,7 @@ For information regarding the constitutionality of certain provisions of this se
 
 1999—Subsec. (e). Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “United States Patent Office” in first par.
 
-1988—Subsec. (e). Pub. L. 100–690, § 8001(b)(2), substituted “the date of the enactment of this title” for “the date of the enactment of this Act”, which had been translated editorially as “August 29, 1935”, thereby requiring no change in text.
+1988—Subsec. (e). Pub. L. 100–690, § 8001(b)(2), substituted “the date of the enactment of this title” for “the date of the enactment of this Act”, which had been translated editorially as “August 29, 1935”, thereby requiring no change in text.
 
 1942—Subsec. (f)(2). Act Apr. 20, 1942, substituted “beverages and wines are prohibited” for “beverages are prohibited and except that, in case of wines, statements of alcoholic content shall be required only for wines containing more than 14 per centum of alcohol by volume,”.
 
@@ -277,7 +277,7 @@ Subsec. (e). Act June 26, 1936, amended subsec. (e) generally.
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Executive Documents**
 
@@ -285,7 +285,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 “Secretary of the Treasury” and “Secretary” were substituted in subsecs. (b), (e), and (f) for “Administrator”, meaning the Administrator of the Federal Alcohol Administration, pursuant to Reorg. Plan No. III of 1940, see note set out under section 201 of this title.
 
-### § 206. Bulk sales and bottling
+### § 206. Bulk sales and bottling
 
 **(a) Offenses** It shall be unlawful for any person—
 
@@ -303,7 +303,7 @@ Any person who violates the requirements of this section shall, upon conviction 
 
 The term “in bulk” mean in containers having a capacity in excess of one wine gallon.
 
-(Aug. 29, 1935, ch. 814, title I, § 106, formerly § 6, 49 Stat. 985; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; renumbered title I, § 106, Pub. L. 100–690, title VIII, § 8001(a)(1), (2), Nov. 18, 1988, 102 Stat. 4517.)
+(Aug. 29, 1935, ch. 814, title I, § 106, formerly § 6, 49 Stat. 985; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; renumbered title I, § 106, Pub. L. 100–690, title VIII, § 8001(a)(1), (2), Nov. 18, 1988, 102 Stat. 4517.)
 
 **Executive Documents**
 
@@ -311,11 +311,11 @@ The term “in bulk” mean in containers having a capacity in excess of one win
 
 “Secretary of the Treasury” was substituted in subsec. (a)(1) for “Administrator”, meaning the Administrator of the Federal Alcohol Administration, pursuant to Reorg. Plan No. III of 1940, see note set out under section 201 of this title.
 
-### § 207. Penalties; jurisdiction; compromise of liability
+### § 207. Penalties; jurisdiction; compromise of liability
 
 The District Courts of the United States, and the United States court for any Territory, of the District where the offense is committed or threatened or of which the offender is an inhabitant or has his principal place of business, are vested with jurisdiction of any suit brought by the Attorney General in the name of the United States, to prevent and restrain violations of any of the provisions of this subchapter. Any person violating any of the provisions of section 203 or 205 of this title shall be guilty of a misdemeanor and upon conviction thereof be fined not more than $1,000 for each offense. The Secretary of the Treasury is authorized, with respect to any violation of this subchapter, to compromise the liability arising with respect to such violation (1) upon payment of a sum not in excess of $500 for each offense, to be collected by the Secretary and to be paid into the Treasury as miscellaneous receipts, and (2) in case of repetitious violations and in order to avoid multiplicity of criminal proceedings, upon agreement to a stipulation, that the United States may, on its own motion upon five days’ notice to the violator, cause a consent decree to be entered by any court of competent jurisdiction enjoining the repetition of such violation.
 
-(Aug. 29, 1935, ch. 814, title I, § 107, formerly § 7, 49 Stat. 985; June 25, 1936, ch. 804, 49 Stat. 1921; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; 1940 Reorg. Plan No. IV, § 2, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; renumbered title I, § 107, and amended Pub. L. 100–690, title VIII, § 8001(a)(1), (2), (b)(2), (4), Nov. 18, 1988, 102 Stat. 4517, 4521.)
+(Aug. 29, 1935, ch. 814, title I, § 107, formerly § 7, 49 Stat. 985; June 25, 1936, ch. 804, 49 Stat. 1921; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; 1940 Reorg. Plan No. IV, § 2, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; renumbered title I, § 107, and amended Pub. L. 100–690, title VIII, § 8001(a)(1), (2), (b)(2), (4), Nov. 18, 1988, 102 Stat. 4517, 4521.)
 
 **Editorial Notes**
 
@@ -325,9 +325,9 @@ As originally enacted this section contained a reference to the Supreme Court of
 
 **Amendments**
 
-1988—Pub. L. 100–690, § 8001(b)(2), substituted “subchapter” for “chapter” in two places.
+1988—Pub. L. 100–690, § 8001(b)(2), substituted “subchapter” for “chapter” in two places.
 
-Pub. L. 100–690, § 8001(b)(4), made technical amendment to references to sections 203 and 205 of this title to reflect renumbering of corresponding sections of original act.
+Pub. L. 100–690, § 8001(b)(4), made technical amendment to references to sections 203 and 205 of this title to reflect renumbering of corresponding sections of original act.
 
 **Executive Documents**
 
@@ -335,7 +335,7 @@ Pub. L. 100–690, § 8001(b)(4), made technical amendment to references to se
 
 “The Secretary of the Treasury is authorized” and “Secretary” were substituted for “Subject to the approval of the Attorney General, the Administrator is authorized” and “Administrator”, meaning the Administrator of the Federal Alcohol Administration, respectively, pursuant to Reorg. Plan No. IV of 1940, set out in the Appendix to Title 5, Government Organization and Employees, which transferred the function of approving compromises made in accordance with this section from the Attorney General to the Secretary of the Treasury, to be exercised by him or under his direction and supervision by officer in the Department of the Treasury designated by him, and Reorg. Plan No. III of 1940, set out in the Appendix to Title V, which transferred the functions of the Administrator of the Federal Alcohol Administration to the Secretary of the Treasury. Reorg. Plan No. IV of 1940, in addition, contained the following proviso: “*Provided*, That exclusive jurisdiction to compromise cases arising under the Federal Alcohol Administration Act which are pending before the courts or which have been or may hereafter be referred to the Department of Justice for action shall be vested in the Attorney General, and may be exercised by him or by any officer in the Department of Justice designated by him.” See also note set out under section 201 of this title.
 
-### § 208. Interlocking directorates
+### § 208. Interlocking directorates
 
 **(a) Offenses**
 
@@ -359,7 +359,7 @@ As used in this section, the term “company” means a corporation, joint stock
 
 Any individual taking office in violation of this section shall be punished by a fine of not exceeding $1,000.
 
-(Aug. 29, 1935, ch. 814, title I, § 108, formerly § 8, 49 Stat. 986; June 25, 1936, ch. 804, 49 Stat. 1921; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; renumbered title I, § 108, and amended Pub. L. 100–690, title VIII, § 8001(a)(1), (2), (b)(2), Nov. 18, 1988, 102 Stat. 4517, 4521.)
+(Aug. 29, 1935, ch. 814, title I, § 108, formerly § 8, 49 Stat. 986; June 25, 1936, ch. 804, 49 Stat. 1921; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; renumbered title I, § 108, and amended Pub. L. 100–690, title VIII, § 8001(a)(1), (2), (b)(2), Nov. 18, 1988, 102 Stat. 4517, 4521.)
 
 **Editorial Notes**
 
@@ -369,7 +369,7 @@ As originally enacted subsec. (a) of this section contained a reference to the S
 
 **Amendments**
 
-1988—Subsecs. (a), (b)(1), (3), (4). Pub. L. 100–690, § 8001(b)(2), substituted “the date of the enactment of this title” for “the date of the enactment of this Act”, which had been translated editorially as “August 29, 1935”, thereby requiring no change in text.
+1988—Subsecs. (a), (b)(1), (3), (4). Pub. L. 100–690, § 8001(b)(2), substituted “the date of the enactment of this title” for “the date of the enactment of this Act”, which had been translated editorially as “August 29, 1935”, thereby requiring no change in text.
 
 **Executive Documents**
 
@@ -377,17 +377,17 @@ As originally enacted subsec. (a) of this section contained a reference to the S
 
 “Secretary of the Treasury” and “Secretary” were substituted for “Administrator”, meaning the Administrator of the Federal Alcohol Administration, pursuant to Reorg. Plan No. III of 1940, see note set out under section 201 of this title.
 
-### §§ 209, 210. Omitted
+### §§ 209, 210. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 209, acts Aug. 29, 1935, ch. 814, title I, § 109, formerly § 9, 49 Stat. 987; June 26, 1936, ch. 830, title V, § 507, 49 Stat. 1966; renumbered title I, § 109, Nov. 18, 1988, Pub. L. 100–690, title VIII, § 8001(a)(1), (2), 102 Stat. 4517, which related to disposal of forfeited alcoholic beverages, was superseded. See section 5688 of Title 26, Internal Revenue Code.
+Section 209, acts Aug. 29, 1935, ch. 814, title I, § 109, formerly § 9, 49 Stat. 987; June 26, 1936, ch. 830, title V, § 507, 49 Stat. 1966; renumbered title I, § 109, Nov. 18, 1988, Pub. L. 100–690, title VIII, § 8001(a)(1), (2), 102 Stat. 4517, which related to disposal of forfeited alcoholic beverages, was superseded. See section 5688 of Title 26, Internal Revenue Code.
 
-Section 210, act Aug. 29, 1935, ch. 814, title I, § 110, formerly § 10, 49 Stat. 987; renumbered title I, § 110, Nov. 18, 1988, Pub. L. 100–690, title VIII, § 8001(a)(1), (2), 102 Stat. 4517, abolished the Federal Alcohol Control Administration established by Ex. Ord. No. 6474, Dec. 4, 1933; Ex. Ord. No. 6576, Jan. 25, 1934; Ex. Ord. No. 6683, Apr. 19, 1934; Ex. Ord. No. 6788, June 30, 1934; Ex. Ord. No. 6829, Aug. 21, 1934, issued under provisions of section 702 of Title 15, Commerce and Trade.
+Section 210, act Aug. 29, 1935, ch. 814, title I, § 110, formerly § 10, 49 Stat. 987; renumbered title I, § 110, Nov. 18, 1988, Pub. L. 100–690, title VIII, § 8001(a)(1), (2), 102 Stat. 4517, abolished the Federal Alcohol Control Administration established by Ex. Ord. No. 6474, Dec. 4, 1933; Ex. Ord. No. 6576, Jan. 25, 1934; Ex. Ord. No. 6683, Apr. 19, 1934; Ex. Ord. No. 6788, June 30, 1934; Ex. Ord. No. 6829, Aug. 21, 1934, issued under provisions of section 702 of Title 15, Commerce and Trade.
 
-### § 211. Miscellaneous provisions
+### § 211. Miscellaneous provisions
 
 **(a) Definitions** As used in this subchapter—
 
@@ -415,7 +415,7 @@ The right to amend or repeal the provisions of this subchapter is expressly rese
 
 If any provision of this subchapter, or the application of such provision to any person or circumstance, is held invalid, the remainder of the chapter and the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-(Aug. 29, 1935, ch. 814, title I, § 117, formerly § 17, 49 Stat. 989; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; renumbered title I, § 117, and amended Pub. L. 100–690, title VIII, § 8001(a)(1), (2), (b)(2), Nov. 18, 1988, 102 Stat. 4517, 4521.)
+(Aug. 29, 1935, ch. 814, title I, § 117, formerly § 17, 49 Stat. 989; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; renumbered title I, § 117, and amended Pub. L. 100–690, title VIII, § 8001(a)(1), (2), (b)(2), Nov. 18, 1988, 102 Stat. 4517, 4521.)
 
 **Editorial Notes**
 
@@ -429,7 +429,7 @@ As originally enacted subsection (a)(1) of this section defined the term “Admi
 
 **Amendments**
 
-1988—Pub. L. 100–690, § 8001(b)(2), substituted “this subchapter” for “this chapter” wherever appearing.
+1988—Pub. L. 100–690, § 8001(b)(2), substituted “this subchapter” for “this chapter” wherever appearing.
 
 **Executive Documents**
 
@@ -437,17 +437,17 @@ As originally enacted subsection (a)(1) of this section defined the term “Admi
 
 Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
 
-### § 212. Omitted
+### § 212. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 26, 1936, ch. 830, title V, § 504, 49 Stat. 1965, proposed a transfer of the appropriations authorized for the Federal Alcohol Administration created by section 202 of this title to the Administration created by section 202b of this title. It was to have taken effect when a majority of the members authorized to be appointed under section 202b of this title took office. The members, however, were never appointed.
+Section, act June 26, 1936, ch. 830, title V, § 504, 49 Stat. 1965, proposed a transfer of the appropriations authorized for the Federal Alcohol Administration created by section 202 of this title to the Administration created by section 202b of this title. It was to have taken effect when a majority of the members authorized to be appointed under section 202b of this title took office. The members, however, were never appointed.
 
 ## SUBCHAPTER II—ALCOHOLIC BEVERAGE LABELING
 
-### § 213. Declaration of policy and purpose
+### § 213. Declaration of policy and purpose
 
 The Congress finds that the American public should be informed about the health hazards that may result from the consumption or abuse of alcoholic beverages, and has determined that it would be beneficial to provide a clear, nonconfusing reminder of such hazards, and that there is a need for national uniformity in such reminders in order to avoid the promulgation of incorrect or misleading information and to minimize burdens on interstate commerce. The Congress finds that requiring such reminders on all containers of alcoholic beverages is appropriate and necessary in view of the substantial role of the Federal Government in promoting the health and safety of the Nation’s population. It is therefore the policy of the Congress, and the purpose of this subchapter, to exercise the full reach of the Federal Government’s constitutional powers in order to establish a comprehensive Federal program, in connection with the manufacture and sale of alcoholic beverages in or affecting interstate commerce, to deal with the provision of warning or other information with respect to any relationship between the consumption or abuse of alcoholic beverages and health, so that—
 
@@ -461,19 +461,19 @@ The Congress finds that the American public should be informed about the health 
 
 **(C)** protected from the adverse effects that would result from a noncomprehensive program covering alcoholic beverage containers sold in interstate commerce, but not alcoholic beverage containers manufactured and sold within a single State.
 
-(Aug. 29, 1935, ch. 814, title II, § 202, as added Pub. L. 100–690, title VIII, § 8001(a)(3), Nov. 18, 1988, 102 Stat. 4518.)
+(Aug. 29, 1935, ch. 814, title II, § 202, as added Pub. L. 100–690, title VIII, § 8001(a)(3), Nov. 18, 1988, 102 Stat. 4518.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Act Aug. 29, 1935, ch. 814, title II, § 210, as added Nov. 18, 1988, Pub. L. 100–690, title VIII, § 8001(a)(3), 102 Stat. 4521, provided that: “Except as provided in section 204(a) [27 U.S.C. 215(a)], this title [enacting this subchapter] shall take effect on the date of its enactment into law [Nov. 18, 1988].”
+Act Aug. 29, 1935, ch. 814, title II, § 210, as added Nov. 18, 1988, Pub. L. 100–690, title VIII, § 8001(a)(3), 102 Stat. 4521, provided that: “Except as provided in section 204(a) [27 U.S.C. 215(a)], this title [enacting this subchapter] shall take effect on the date of its enactment into law [Nov. 18, 1988].”
 
 **Short Title**
 
 For short title of title II of act Aug. 29, 1935, which is classified to this subchapter, as the “Alcoholic Beverage Labeling Act of 1988”, see section 201 of act Aug. 29, 1935, set out as a note under section 201 of this title.
 
-### § 214. Definitions
+### § 214. Definitions
 
 As used in this subchapter—
 
@@ -497,9 +497,9 @@ As used in this subchapter—
 
 **(7)** The term “person” means an individual, partnership, joint stock company, business trust, association, corporation, or any other business or legal entity, including a receiver, trustee, or liquidating agent, and also includes any State, any State agency, or any officer or employee thereof.
 
-**(8)** The term 1
+**(8)** The term 1
 
-<sup>1</sup>  So in original. Probably should be “terms”.
+<sup>1</sup> So in original. Probably should be “terms”.
 
 “sale” and “distribution” include sampling or any other distribution not for sale.
 
@@ -511,9 +511,9 @@ As used in this subchapter—
 
 **(12)** The term “United States”, when used in geographical sense, includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, Wake Island, the Midway Islands, Kingman Reef, and Johnston Island.
 
-(Aug. 29, 1935, ch. 814, title II, § 203, as added Pub. L. 100–690, title VIII, § 8001(a)(3), Nov. 18, 1988, 102 Stat. 4518.)
+(Aug. 29, 1935, ch. 814, title II, § 203, as added Pub. L. 100–690, title VIII, § 8001(a)(3), Nov. 18, 1988, 102 Stat. 4518.)
 
-### § 215. Labeling requirement
+### § 215. Labeling requirement
 
 **(a) Statement required on container**
 
@@ -539,7 +539,7 @@ Subsection (a) of this section shall not apply with respect to alcoholic beverag
 
 **(2)** consult and coordinate the health awareness efforts of the labeling requirements of this subchapter with the Surgeon General of the United States.
 
-(Aug. 29, 1935, ch. 814, title II, § 204, as added Pub. L. 100–690, title VIII, § 8001(a)(3), Nov. 18, 1988, 102 Stat. 4519.)
+(Aug. 29, 1935, ch. 814, title II, § 204, as added Pub. L. 100–690, title VIII, § 8001(a)(3), Nov. 18, 1988, 102 Stat. 4519.)
 
 **Editorial Notes**
 
@@ -547,34 +547,34 @@ Subsection (a) of this section shall not apply with respect to alcoholic beverag
 
 The internal revenue laws of the United States, referred to in subsec. (c), are classified generally to Title 26, Internal Revenue Code.
 
-### § 216. Preemption
+### § 216. Preemption
 
 No statement relating to alcoholic beverages and health, other than the statement required by section 215 of this title, shall be required under State law to be placed on any container of an alcoholic beverage, or on any box, carton, or other package, irrespective of the material from which made, that contains such a container.
 
-(Aug. 29, 1935, ch. 814, title II, § 205, as added Pub. L. 100–690, title VIII, § 8001(a)(3), Nov. 18, 1988, 102 Stat. 4520.)
+(Aug. 29, 1935, ch. 814, title II, § 205, as added Pub. L. 100–690, title VIII, § 8001(a)(3), Nov. 18, 1988, 102 Stat. 4520.)
 
-### § 217. Report to Congress
+### § 217. Report to Congress
 
 If, after appropriate investigation and consultation with the Surgeon General carried out after the expiration of the 24-month period following November 18, 1988, the Secretary finds that available scientific information would justify a change in, addition to, or deletion of the statement, or any part thereof, set forth in section 215(a) of this title, the Secretary shall promptly report such information to the Congress together with specific recommendations for such amendments to this subchapter as the Secretary determines to be appropriate and in the public interest.
 
-(Aug. 29, 1935, ch. 814, title II, § 206, as added Pub. L. 100–690, title VIII, § 8001(a)(3), Nov. 18, 1988, 102 Stat. 4520.)
+(Aug. 29, 1935, ch. 814, title II, § 206, as added Pub. L. 100–690, title VIII, § 8001(a)(3), Nov. 18, 1988, 102 Stat. 4520.)
 
-### § 218. Civil penalties
+### § 218. Civil penalties
 
 Any person who violates the provisions of this subchapter shall be subject to a civil penalty of not more than $10,000, and each day shall constitute a separate offense.
 
-(Aug. 29, 1935, ch. 814, title II, § 207, as added Pub. L. 100–690, title VIII, § 8001(a)(3), Nov. 18, 1988, 102 Stat. 4520.)
+(Aug. 29, 1935, ch. 814, title II, § 207, as added Pub. L. 100–690, title VIII, § 8001(a)(3), Nov. 18, 1988, 102 Stat. 4520.)
 
-### § 219. Injunction proceedings; compromise of liability
+### § 219. Injunction proceedings; compromise of liability
 
 **(a)** The several district courts of the United States are vested with jurisdiction, for cause shown, to prevent and restrain violations of this subchapter upon the application of the Attorney General of the United States acting through the several United States attorneys in their several districts.
 
 **(b)** The Secretary is authorized, with respect to any violation of this subchapter, to compromise the liability arising with respect to such violation upon payment of a sum for each offense, to be collected by the Secretary and to be paid into the Treasury as miscellaneous receipts.
 
-(Aug. 29, 1935, ch. 814, title II, § 208, as added Pub. L. 100–690, title VIII, § 8001(a)(3), Nov. 18, 1988, 102 Stat. 4520.)
+(Aug. 29, 1935, ch. 814, title II, § 208, as added Pub. L. 100–690, title VIII, § 8001(a)(3), Nov. 18, 1988, 102 Stat. 4520.)
 
-### § 219a. Severability
+### § 219a. Severability
 
 If any provision of this subchapter or the application thereof to any person or circumstance is held invalid, the validity of the remainder of this subchapter and this chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-(Aug. 29, 1935, ch. 814, title II, § 209, as added Pub. L. 100–690, title VIII, § 8001(a)(3), Nov. 18, 1988, 102 Stat. 4521.)
+(Aug. 29, 1935, ch. 814, title II, § 209, as added Pub. L. 100–690, title VIII, § 8001(a)(3), Nov. 18, 1988, 102 Stat. 4521.)

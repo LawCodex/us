@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 112—COMBATING GLOBAL CORRUPTION
 
-## § 10501. Definitions
+## § 10501. Definitions
 
 In this chapter:
 
@@ -39,15 +39,15 @@ In this chapter:
 
 **(B)** Involves economically or socially large-scale government activities.
 
-(Pub. L. 118–31, div. E, title LIV, § 5402, Dec. 22, 2023, 137 Stat. 944.)
+(Pub. L. 118–31, div. E, title LIV, § 5402, Dec. 22, 2023, 137 Stat. 944.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 118–31, div. E, title LIV, § 5401, Dec. 22, 2023, 137 Stat. 944, provided that: “This subtitle [subtitle A (§§ 5401–5406) of title LIV of div. E of Pub. L. 118–31, enacting this chapter] may be cited as the ‘Combating Global Corruption Act’.”
+Pub. L. 118–31, div. E, title LIV, § 5401, Dec. 22, 2023, 137 Stat. 944, provided that: “This subtitle [subtitle A (§§ 5401–5406) of title LIV of div. E of Pub. L. 118–31, enacting this chapter] may be cited as the ‘Combating Global Corruption Act’.”
 
-## § 10502. Publication and provision of lists regarding progress on anti-corruption efforts
+## § 10502. Publication and provision of lists regarding progress on anti-corruption efforts
 
 **(a) Public list**
 
@@ -75,9 +75,9 @@ Not later than one year after December 22, 2023, the Secretary shall submit to t
 
 The Secretary may, in specific instances where the Secretary determines the inclusion of specific countries on the public list required by subsection (a) would not be in the national interests of the United States, submit the information required by subsection (a) about such specific countries in a classified manner in writing to the appropriate congressional committees, together with a justification for why publication would not be in the national interest. The justification, if applicable, shall be submitted the same date as the public list required by subsection (a).
 
-(Pub. L. 118–31, div. E, title LIV, § 5403, Dec. 22, 2023, 137 Stat. 944.)
+(Pub. L. 118–31, div. E, title LIV, § 5403, Dec. 22, 2023, 137 Stat. 944.)
 
-## § 10503. Minimum standards for the elimination of corruption and assessment of efforts to combat corruption
+## § 10503. Minimum standards for the elimination of corruption and assessment of efforts to combat corruption
 
 **(a) In general** The government of a country is complying with the minimum standards for the elimination of corruption if the government—
 
@@ -121,13 +121,13 @@ The Secretary may, in specific instances where the Secretary determines the incl
 
 **(1)** The Inter-American Convention against Corruption of the Organization of American States, done at Caracas March 29, 1996.
 
-**(2)** The Convention on Combating Bribery of Foreign Public Officials in International Business Transactions of the Organisation of 1
+**(2)** The Convention on Combating Bribery of Foreign Public Officials in International Business Transactions of the Organisation of 1
 
-<sup>1</sup>  So in original. Probably should be “for”.
+<sup>1</sup> So in original. Probably should be “for”.
 
 Economic Co-operation and Development, done at Paris December 21,2
 
-<sup>2</sup>  So in original. Probably should be “17,”.
+<sup>2</sup> So in original. Probably should be “17,”.
 
 1997 (commonly referred to as the “Anti-Bribery Convention”).
 
@@ -137,9 +137,9 @@ Economic Co-operation and Development, done at Paris December 21,2
 
 **(5)** Such other treaties or conventions ratified by the United States as the Secretary of State considers appropriate.
 
-(Pub. L. 118–31, div. E, title LIV, § 5404, Dec. 22, 2023, 137 Stat. 945.)
+(Pub. L. 118–31, div. E, title LIV, § 5404, Dec. 22, 2023, 137 Stat. 945.)
 
-## § 10504. Imposition of sanctions under Global Magnitsky Human Rights Accountability Act
+## § 10504. Imposition of sanctions under Global Magnitsky Human Rights Accountability Act
 
 **(a) In general** The Secretary of State, in consultation with the Secretary of the Treasury, should evaluate whether there are foreign persons engaged in significant corruption for the purposes of potential imposition of sanctions under the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 10101 et seq.)—
 
@@ -169,15 +169,15 @@ The Secretary of State, in consultation with the Secretary of the Treasury, may,
 
 The requirements under subsections (a)(2) and (b)(4) shall terminate on the date that is 5 years after December 22, 2023.
 
-(Pub. L. 118–31, div. E, title LIV, § 5405, Dec. 22, 2023, 137 Stat. 947.)
+(Pub. L. 118–31, div. E, title LIV, § 5405, Dec. 22, 2023, 137 Stat. 947.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Global Magnitsky Human Rights Accountability Act, referred to in subsec. (a), is subtitle F (§§ 1261–1264) of title XII of div. A of Pub. L. 114–328, Dec. 23, 2016, 130 Stat. 2533, which is classified generally to chapter 108 (§ 10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10101 of this title and Tables.
+The Global Magnitsky Human Rights Accountability Act, referred to in subsec. (a), is subtitle F (§§ 1261–1264) of title XII of div. A of Pub. L. 114–328, Dec. 23, 2016, 130 Stat. 2533, which is classified generally to chapter 108 (§ 10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10101 of this title and Tables.
 
-## § 10505. Designation of embassy anti-corruption points of contact
+## § 10505. Designation of embassy anti-corruption points of contact
 
 **(a) In general**
 
@@ -197,4 +197,4 @@ The Secretary of State shall annually designate an anti-corruption point of cont
 
 The Secretary of State shall implement appropriate training for anti-corruption points of contact designated under subsection (a).
 
-(Pub. L. 118–31, div. E, title LIV, § 5406, Dec. 22, 2023, 137 Stat. 947.)
+(Pub. L. 118–31, div. E, title LIV, § 5406, Dec. 22, 2023, 137 Stat. 947.)

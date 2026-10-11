@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 805—GOLD STAR WIVES OF AMERICA"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 805—GOLD STAR WIVES OF AMERICA"
 identifier: "/us/usc/t36/stII/ptB/ch805"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 805—GOLD STAR WIVES OF AMERICA
 
-## § 80501. Definition
+## § 80501. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
 
@@ -25,11 +25,11 @@ For purposes of this chapter, “State” includes the District of Columbia and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80501 | 36:1613. | Dec. 4, 1980, Pub. L. 96–497, § 14, 94 Stat. 2597. |
+| 80501 | 36:1613. | Dec. 4, 1980, Pub. L. 96–497, § 14, 94 Stat. 2597. |
 
 The word “includes” is substituted for “means” for consistency in the revised title. The word “several” is omitted as unnecessary. The words “the Commonwealth of Puerto Rico” are omitted as included in “the territories and possessions of the United States”.
 
-## § 80502. Organization
+## § 80502. Organization
 
 **(a) Federal Charter.—** Gold Star Wives of America (in this chapter, the “corporation”), incorporated in New York, is a federally chartered corporation.
 
@@ -41,12 +41,12 @@ The word “includes” is substituted for “means” for consistency in the re
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80502(a) | 36:1601. | Dec. 4, 1980, Pub. L. 96–497, §§ 1, 15 (last sentence), 94 Stat. 2595, 2597. |
+| 80502(a) | 36:1601. | Dec. 4, 1980, Pub. L. 96–497, §§ 1, 15 (last sentence), 94 Stat. 2595, 2597. |
 | 80502(b) | 36:1614 (last sentence). |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
-## § 80503. Purposes
+## § 80503. Purposes
 
 The purposes of the corporation are—
 
@@ -60,11 +60,11 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80503 | 36:1603 (less discrimination). | Dec. 4, 1980, Pub. L. 96–497, § 3 (less discrimination), 94 Stat. 2595. |
+| 80503 | 36:1603 (less discrimination). | Dec. 4, 1980, Pub. L. 96–497, § 3 (less discrimination), 94 Stat. 2595. |
 
-Before clause (1), the words “purposes of the corporation are” are substituted for “objects and purposes of the corporation shall be, solely, that it is” for consistency in the revised title and to eliminate unnecessary words. In clause (1), the words “to operate in the public interest, as a nonpartisan and nonprofit organization, solely for” are substituted for “(a) organized and operated in the public interest, as a nonpartisan and nonprofit organization . . . (b) organized and operated solely for” to eliminate unnecessary words and because the prohibition on discrimination in 36:1603(a) is restated in sections 80504 and 80505 of the revised title.
+Before clause (1), the words “purposes of the corporation are” are substituted for “objects and purposes of the corporation shall be, solely, that it is” for consistency in the revised title and to eliminate unnecessary words. In clause (1), the words “to operate in the public interest, as a nonpartisan and nonprofit organization, solely for” are substituted for “(a) organized and operated in the public interest, as a nonpartisan and nonprofit organization . . . (b) organized and operated solely for” to eliminate unnecessary words and because the prohibition on discrimination in 36:1603(a) is restated in sections 80504 and 80505 of the revised title.
 
-## § 80504. Membership
+## § 80504. Membership
 
 **(a) Eligibility.—** Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the articles of incorporation and bylaws.
 
@@ -76,10 +76,10 @@ Before clause (1), the words “purposes of the corporation are” are substitut
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80504(a) | 36:1605. | Dec. 4, 1980, Pub. L. 96–497, §§ 3 (related to discrimination in membership), 5, 94 Stat. 2595. |
+| 80504(a) | 36:1605. | Dec. 4, 1980, Pub. L. 96–497, §§ 3 (related to discrimination in membership), 5, 94 Stat. 2595. |
 | 80504(b) | 36:1603 (related to discrimination in membership). |  |
 
-## § 80505. Governing body
+## § 80505. Governing body
 
 **(a) Board of Directors.—** The board of directors and the responsibilities of the board are as provided in the articles of incorporation.
 
@@ -93,13 +93,13 @@ Before clause (1), the words “purposes of the corporation are” are substitut
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80505(a) | 36:1606. | Dec. 4, 1980, Pub. L. 96–497, §§ 3 (related to discrimination in holding office), 6, 7, 94 Stat. 2595, 2596. |
+| 80505(a) | 36:1606. | Dec. 4, 1980, Pub. L. 96–497, §§ 3 (related to discrimination in holding office), 6, 7, 94 Stat. 2595, 2596. |
 | 80505(b) | 36:1607. |  |
 | 80505(c) | 36:1603 (related to discrimination in holding office). |  |
 
 In subsections (a) and (b), the words “and in conformity with the laws of the State or States where incorporated” in 36:1606 and 36:1607 are omitted as unnecessary.
 
-## § 80506. Powers
+## § 80506. Powers
 
 The corporation has only the powers provided in its bylaws and articles of incorporation filed in the State in which it is incorporated.
 
@@ -109,9 +109,9 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80506 | 36:1602. | Dec. 4, 1980, Pub. L. 96–497, § 2, 94 Stat. 2595. |
+| 80506 | 36:1602. | Dec. 4, 1980, Pub. L. 96–497, § 2, 94 Stat. 2595. |
 
-## § 80507. Restrictions
+## § 80507. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -127,7 +127,7 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80507(a) | 36:1608(d). | Dec. 4, 1980, Pub. L. 96–497, § 8, 94 Stat. 2596. |
+| 80507(a) | 36:1608(d). | Dec. 4, 1980, Pub. L. 96–497, § 8, 94 Stat. 2596. |
 | 80507(b) | 36:1608(c). |  |
 | 80507(c) | 36:1608(a). |  |
 | 80507(d) | 36:1608(b). |  |
@@ -138,7 +138,7 @@ In subsection (b), the words “as such” are substituted for “acting as such
 
 In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
 
-## § 80508. Duty to maintain tax-exempt status
+## § 80508. Duty to maintain tax-exempt status
 
 The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
@@ -148,9 +148,9 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80508 | 36:1614 (1st sentence). | Dec. 4, 1980, Pub. L. 96–497, § 15 (1st sentence), 94 Stat. 2597. |
+| 80508 | 36:1614 (1st sentence). | Dec. 4, 1980, Pub. L. 96–497, § 15 (1st sentence), 94 Stat. 2597. |
 
-## § 80509. Records and inspection
+## § 80509. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -168,11 +168,11 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80509 | 36:1610. | Dec. 4, 1980, Pub. L. 96–497, § 10, 94 Stat. 2596. |
+| 80509 | 36:1610. | Dec. 4, 1980, Pub. L. 96–497, § 10, 94 Stat. 2596. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code. The words “However, nothing in this section shall be construed to contravene any applicable State law” are omitted as unnecessary.
 
-## § 80510. Service of process
+## § 80510. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
@@ -182,11 +182,11 @@ The corporation shall comply with the law on service of process of each State in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80510 | 36:1604. | Dec. 4, 1980, Pub. L. 96–497, § 4, 94 Stat. 2595. |
+| 80510 | 36:1604. | Dec. 4, 1980, Pub. L. 96–497, § 4, 94 Stat. 2595. |
 
 The words “in furtherance of its corporate purposes” are omitted as unnecessary.
 
-## § 80511. Liability for acts of officers and agents
+## § 80511. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority and in accordance with the laws of the States in which it carries on its activities.
 
@@ -196,9 +196,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80511 | 36:1609. | Dec. 4, 1980, Pub. L. 96–497, § 9, 94 Stat. 2596. |
+| 80511 | 36:1609. | Dec. 4, 1980, Pub. L. 96–497, § 9, 94 Stat. 2596. |
 
-## § 80512. Annual report
+## § 80512. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior calendar year. The report may not be printed as a public document.
 
@@ -208,7 +208,7 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 80512 | 36:1611. | Dec. 4, 1980, Pub. L. 96–497, § 12, 94 Stat. 2597. |
+| 80512 | 36:1611. | Dec. 4, 1980, Pub. L. 96–497, § 12, 94 Stat. 2597. |
 
 **Statutory Notes and Related Subsidiaries**
 

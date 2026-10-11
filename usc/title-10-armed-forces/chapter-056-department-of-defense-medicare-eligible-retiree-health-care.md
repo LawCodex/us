@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2001—Pub. L. 107–107, div. A, title VII, § 711(e)(3), Dec. 28, 2001, 115 Stat. 1167, inserted “; authority to enter into agreements” after “definitions” in item 1111.
+2001—Pub. L. 107–107, div. A, title VII, § 711(e)(3), Dec. 28, 2001, 115 Stat. 1167, inserted “; authority to enter into agreements” after “definitions” in item 1111.
 
-## § 1111. Establishment and purpose of Fund; definitions; authority to enter into agreements
+## § 1111. Establishment and purpose of Fund; definitions; authority to enter into agreements
 
 **(a)** There is established on the books of the Treasury a fund to be known as the Department of Defense Medicare-Eligible Retiree Health Care Fund (hereinafter in this chapter referred to as the “Fund”), which shall be administered by the Secretary of the Treasury. The Fund shall be used for the accumulation of funds in order to finance on an actuarially sound basis liabilities of the uniformed services under uniformed services retiree health care programs for medicare-eligible beneficiaries.
 
@@ -39,33 +39,33 @@ retrieved: 2026-10-11
 
 **(c)** The Secretary of Defense shall enter into an agreement with each other administering Secretary (as defined in section 1072(3) of this title) for participation in the Fund by a uniformed service under the jurisdiction of that Secretary. The agreement shall require that Secretary to determine contributions to the Fund on behalf of the members of the uniformed service under the jurisdiction of that Secretary in a manner comparable to the determination with respect to contributions to the Fund made by the Secretary of Defense under section 1115(b) of this title, and such contributions shall be paid into the Fund as provided in section 1116(a).
 
-(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–179; amended Pub. L. 107–107, div. A, title VII, § 711(a), (b)(1), (e)(1), (2), title X, § 1048(a)(12), Dec. 28, 2001, 115 Stat. 1164–1166, 1223; Pub. L. 107–314, div. A, title VII, § 704(b), Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, § 725(c)(1), Oct. 28, 2004, 118 Stat. 1992; Pub. L. 109–364, div. A, title V, § 592(a), Oct. 17, 2006, 120 Stat. 2233; Pub. L. 116–283, div. A, title IX, § 924(b)(1)(I), Jan. 1, 2021, 134 Stat. 3820.)
+(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–179; amended Pub. L. 107–107, div. A, title VII, § 711(a), (b)(1), (e)(1), (2), title X, § 1048(a)(12), Dec. 28, 2001, 115 Stat. 1164–1166, 1223; Pub. L. 107–314, div. A, title VII, § 704(b), Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, § 725(c)(1), Oct. 28, 2004, 118 Stat. 1992; Pub. L. 109–364, div. A, title V, § 592(a), Oct. 17, 2006, 120 Stat. 2233; Pub. L. 116–283, div. A, title IX, § 924(b)(1)(I), Jan. 1, 2021, 134 Stat. 3820.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title XVIII of the Act is classified generally to part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title XVIII of the Act is classified generally to part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
 2021—Subsec. (b)(4). Pub. L. 116–283 substituted “Marine Corps, and Space Force” for “and Marine Corps”.
 
-2006—Subsec. (a). Pub. L. 109–364, § 592(a)(1), substituted “of the uniformed services” for “of the Department of Defense”.
+2006—Subsec. (a). Pub. L. 109–364, § 592(a)(1), substituted “of the uniformed services” for “of the Department of Defense”.
 
-Subsec. (b)(5). Pub. L. 109–364, § 592(a)(2), added par. (5).
+Subsec. (b)(5). Pub. L. 109–364, § 592(a)(2), added par. (5).
 
 2004—Subsec. (c). Pub. L. 108–375 substituted “1115(b) of this title, and such contributions shall be paid into the Fund as provided in section 1116(a)” for “1116 of this title, and such administering Secretary may make such contributions”.
 
 2002—Subsec. (c). Pub. L. 107–314 substituted “shall enter into an agreement with each other administering Secretary” for “may enter into an agreement with any other administering Secretary” in first sentence and “The” for “Any such” in second sentence.
 
-2001—Pub. L. 107–107, § 711(e)(2), inserted “; authority to enter into agreements” after “definitions” in section catchline.
+2001—Pub. L. 107–107, § 711(e)(2), inserted “; authority to enter into agreements” after “definitions” in section catchline.
 
-Subsec. (a). Pub. L. 107–107, § 1048(a)(12), substituted “hereinafter” for “hereafter”.
+Subsec. (a). Pub. L. 107–107, § 1048(a)(12), substituted “hereinafter” for “hereafter”.
 
-Pub. L. 107–107, § 711(e)(1), substituted “uniformed services retiree health care programs” for “Department of Defense retiree health care programs”.
+Pub. L. 107–107, § 711(e)(1), substituted “uniformed services retiree health care programs” for “Department of Defense retiree health care programs”.
 
-Subsec. (b). Pub. L. 107–107, § 711(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In this chapter:
+Subsec. (b). Pub. L. 107–107, § 711(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In this chapter:
 
 “(1) The term ‘Department of Defense retiree health care programs for medicare-eligible beneficiaries’ means the provisions of this title or any other provision of law creating entitlement to health care for a medicare-eligible member or former member of the uniformed services entitled to retired or retainer pay, or a medicare-eligible dependent of a member or former member of the uniformed services entitled to retired or retainer pay.
 
@@ -73,27 +73,27 @@ Subsec. (b). Pub. L. 107–107, § 711(a), amended subsec. (b) generally. Prio
 
 “(3) The term ‘dependent’ means a dependent (as such term is defined in section 1072 of this title) described in section 1076(b)(1) of this title.”
 
-Subsec. (c). Pub. L. 107–107, § 711(b)(1), added subsec. (c).
+Subsec. (c). Pub. L. 107–107, § 711(b)(1), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title V, § 592(c), Oct. 17, 2006, 120 Stat. 2234, provided that: “The amendments made by this section [amending this section and section 1115 of this title] shall take effect with respect to payments under chapter 56 of title 10, United States Code, beginning with fiscal year 2008.”
+Pub. L. 109–364, div. A, title V, § 592(c), Oct. 17, 2006, 120 Stat. 2234, provided that: “The amendments made by this section [amending this section and section 1115 of this title] shall take effect with respect to payments under chapter 56 of title 10, United States Code, beginning with fiscal year 2008.”
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–375, div. A, title VII, § 725(d), Oct. 28, 2004, 118 Stat. 1992, provided that: “The amendments made by this section [amending this section and sections 1115 and 1116 of this title] shall take effect on October 1, 2005.”
+Pub. L. 108–375, div. A, title VII, § 725(d), Oct. 28, 2004, 118 Stat. 1992, provided that: “The amendments made by this section [amending this section and sections 1115 and 1116 of this title] shall take effect on October 1, 2005.”
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title VII, § 711(f), Dec. 28, 2001, 115 Stat. 1167, provided that: “The amendments made by this section [amending this section and sections 1112, 1113, 1115, and 1116 of this title] shall take effect as if included in the enactment of chapter 56 of title 10, United States Code, by section 713(a)(1) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–179).”
+Pub. L. 107–107, div. A, title VII, § 711(f), Dec. 28, 2001, 115 Stat. 1167, provided that: “The amendments made by this section [amending this section and sections 1112, 1113, 1115, and 1116 of this title] shall take effect as if included in the enactment of chapter 56 of title 10, United States Code, by section 713(a)(1) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–179).”
 
 **Payment of Contributions for the Uniformed Service of the Public Health Service**
 
 Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part: “That notwithstanding any other provision of law, contributions authorized by 10 U.S.C. 1111 for the Uniformed Service of the Public Health Service shall be paid in fiscal year 2003 and thereafter from the Department of Health and Human Services’ Retirement Pay and Medical Benefits for Commissioned Officers account without charges billed to the Indian Health Service”.
 
-## § 1112. Assets of Fund
+## § 1112. Assets of Fund
 
 There shall be deposited into the Fund the following, which shall constitute the assets of the Fund:
 
@@ -105,7 +105,7 @@ There shall be deposited into the Fund the following, which shall constitute the
 
 **(4)** Amounts paid into the Fund pursuant to section 1111(c) of this title.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–180; amended Pub. L. 107–107, div. A, title VII, § 711(b)(2), Dec. 28, 2001, 115 Stat. 1165.)
+(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–180; amended Pub. L. 107–107, div. A, title VII, § 711(b)(2), Dec. 28, 2001, 115 Stat. 1165.)
 
 **Editorial Notes**
 
@@ -119,7 +119,7 @@ There shall be deposited into the Fund the following, which shall constitute the
 
 Amendment by Pub. L. 107–107 effective as if included in the enactment of this chapter by Pub. L. 106–398, see section 711(f) of Pub. L. 107–107, set out as a note under section 1111 of this title.
 
-## § 1113. Payments from the Fund
+## § 1113. Payments from the Fund
 
 **(a)** There shall be paid from the Fund amounts payable for the costs of all uniformed service retiree health care programs for the benefit of members or former members of a participating uniformed service who are entitled to retired or retainer pay and are medicare eligible, and eligible dependents who are medicare eligible.
 
@@ -137,15 +137,15 @@ Amendment by Pub. L. 107–107 effective as if included in the enactment of this
 
 **(f)** If the Secretary of Defense enters into an agreement with another administering Secretary pursuant to section 1111(c), the Secretary of Defense may take the actions described in subsections (c), (d), and (e) on behalf of the beneficiaries and programs of the other participating uniformed service.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–180; amended Pub. L. 107–107, div. A, title VII, § 711(c), Dec. 28, 2001, 115 Stat. 1165.)
+(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–180; amended Pub. L. 107–107, div. A, title VII, § 711(c), Dec. 28, 2001, 115 Stat. 1165.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2001—Subsec. (a). Pub. L. 107–107, § 711(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There shall be paid from the Fund amounts payable for Department of Defense retiree health care programs for medicare-eligible beneficiaries.”
+2001—Subsec. (a). Pub. L. 107–107, § 711(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There shall be paid from the Fund amounts payable for Department of Defense retiree health care programs for medicare-eligible beneficiaries.”
 
-Subsecs. (c) to (f). Pub. L. 107–107, § 711(c)(2), added subsecs. (c) to (f).
+Subsecs. (c) to (f). Pub. L. 107–107, § 711(c)(2), added subsecs. (c) to (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -155,9 +155,9 @@ Amendment by Pub. L. 107–107 effective as if included in the enactment of this
 
 **Effective Date**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 713(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, provided that: “Sections 1113 and 1116 of title 10, United States Code (as added by subsection (a)), shall take effect on October 1, 2002.”
+Pub. L. 106–398, § 1 [[div. A], title VII, § 713(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, provided that: “Sections 1113 and 1116 of title 10, United States Code (as added by subsection (a)), shall take effect on October 1, 2002.”
 
-## § 1114. Board of Actuaries
+## § 1114. Board of Actuaries
 
 **(a)**
 
@@ -175,7 +175,7 @@ Pub. L. 106–398, § 1 [[div. A], title VII, § 713(b)(1)], Oct. 30, 2000, 
 
 **(c)** The Board shall review valuations of the Fund under section 1115(c) of this title and shall report periodically, not less than once every four years, to the President and Congress on the status of the Fund. The Board shall include in such reports recommendations for such changes as in the Board’s judgment are necessary to protect the public interest and maintain the Fund on a sound actuarial basis.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–180; amended Pub. L. 107–107, div. A, title X, § 1048(a)(12), Dec. 28, 2001, 115 Stat. 1223.)
+(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–180; amended Pub. L. 107–107, div. A, title X, § 1048(a)(12), Dec. 28, 2001, 115 Stat. 1223.)
 
 **Editorial Notes**
 
@@ -183,7 +183,7 @@ Pub. L. 106–398, § 1 [[div. A], title VII, § 713(b)(1)], Oct. 30, 2000, 
 
 2001—Subsec. (a)(1). Pub. L. 107–107 substituted “hereinafter” for “hereafter”.
 
-## § 1115. Determination of contributions to the Fund
+## § 1115. Determination of contributions to the Fund
 
 **(a)** The Board shall determine the amount that is the present value (as of October 1, 2002) of future benefits payable from the Fund that are attributable to service in the participating uniformed services performed before October 1, 2002. That amount is the original unfunded liability of the Fund. The Board shall determine the period of time over which the original unfunded liability should be liquidated and shall determine an amortization schedule for the liquidation of such liability over that period. Contributions to the Fund for the liquidation of the original unfunded liability in accordance with such schedule shall be made as provided in section 1116 of this title.
 
@@ -223,45 +223,45 @@ Such single level dollar amounts shall be used for the purposes of subsection (b
 
 **(e)** The Secretary of Defense shall provide for the keeping of such records as are necessary for determining the actuarial status of the Fund.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–181; amended Pub. L. 107–107, div. A, title VII, § 711(b)(3), (e)(1), Dec. 28, 2001, 115 Stat. 1165, 1166; Pub. L. 108–136, div. A, title VII, § 722(a), (c), title X, § 1045(a)(3), Nov. 24, 2003, 117 Stat. 1532, 1612; Pub. L. 108–375, div. A, title VII, § 725(c)(2)–(5), Oct. 28, 2004, 118 Stat. 1992; Pub. L. 109–364, div. A, title V, § 592(b), Oct. 17, 2006, 120 Stat. 2233.)
+(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–181; amended Pub. L. 107–107, div. A, title VII, § 711(b)(3), (e)(1), Dec. 28, 2001, 115 Stat. 1165, 1166; Pub. L. 108–136, div. A, title VII, § 722(a), (c), title X, § 1045(a)(3), Nov. 24, 2003, 117 Stat. 1532, 1612; Pub. L. 108–375, div. A, title VII, § 725(c)(2)–(5), Oct. 28, 2004, 118 Stat. 1992; Pub. L. 109–364, div. A, title V, § 592(b), Oct. 17, 2006, 120 Stat. 2233.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (b)(1)(B). Pub. L. 109–364, § 592(b)(1)(A), substituted “on active duty and full-time National Guard duty, but excluding any member who would be excluded for active-duty end strength purposes by section 115(i) of this title” for “on active duty (other than active duty for training) and full-time National Guard duty (other than full-time National Guard duty for training only)”.
+2006—Subsec. (b)(1)(B). Pub. L. 109–364, § 592(b)(1)(A), substituted “on active duty and full-time National Guard duty, but excluding any member who would be excluded for active-duty end strength purposes by section 115(i) of this title” for “on active duty (other than active duty for training) and full-time National Guard duty (other than full-time National Guard duty for training only)”.
 
-Subsec. (b)(2)(B). Pub. L. 109–364, § 592(b)(1)(B), substituted “Selected Reserve” for “Ready Reserve” and struck out “(other than members on full-time National Guard duty other than for training)” after “Secretary of Defense”.
+Subsec. (b)(2)(B). Pub. L. 109–364, § 592(b)(1)(B), substituted “Selected Reserve” for “Ready Reserve” and struck out “(other than members on full-time National Guard duty other than for training)” after “Secretary of Defense”.
 
-Subsec. (c)(1)(A). Pub. L. 109–364, § 592(b)(2)(A), substituted “on active duty and full-time National Guard duty, but excluding any member who would be excluded for active-duty end strength purposes by section 115(i) of this title” for “on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only)”.
+Subsec. (c)(1)(A). Pub. L. 109–364, § 592(b)(2)(A), substituted “on active duty and full-time National Guard duty, but excluding any member who would be excluded for active-duty end strength purposes by section 115(i) of this title” for “on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only)”.
 
-Subsec. (c)(1)(B). Pub. L. 109–364, § 592(b)(2)(B), substituted “Selected Reserve” for “Ready Reserve” and struck out “(other than members on full-time National Guard duty other than for training)” after “uniformed services”.
+Subsec. (c)(1)(B). Pub. L. 109–364, § 592(b)(2)(B), substituted “Selected Reserve” for “Ready Reserve” and struck out “(other than members on full-time National Guard duty other than for training)” after “uniformed services”.
 
-2004—Subsec. (a). Pub. L. 108–375, § 725(c)(2), substituted “1116” for “1116(c)”.
+2004—Subsec. (a). Pub. L. 108–375, § 725(c)(2), substituted “1116” for “1116(c)”.
 
-Subsec. (b). Pub. L. 108–375, § 725(c)(3), substituted “The Secretary of Defense shall determine, before the beginning of each fiscal year after September 30, 2005, the total amount of the Department of Defense contribution to be made to the Fund for that fiscal year for purposes of section 1116(b)(2).” for “(1) The Secretary of Defense shall determine each year, in sufficient time for inclusion in budget requests for the following fiscal year, the total amount of Department of Defense contributions to be made to the Fund during that fiscal year under section 1116(a) of this title.”, redesignated subpar. (A) as par. (1) and cls. (i) and (ii) as subpars. (A) and (B), respectively, of par. (1), redesignated subpar. (B) as par. (2) and cls. (i) and (ii) as subpars. (A) and (B), respectively, of par. (2), substituted “paragraph (1)(B)” for “subparagraph (A)(ii)” in par. (2)(B), and struck out former par. (2) which read as follows: “The amount determined under paragraph (1) for any fiscal year is the amount needed to be appropriated to the Department of Defense (or to the other executive department having jurisdiction over the participating uniformed service) for that fiscal year for payments to be made to the Fund during that year under section 1116(a) of this title. The President shall include not less than the full amount so determined in the budget transmitted to Congress for that fiscal year under section 1105 of title 31. The President may comment and make recommendations concerning any such amount.”
+Subsec. (b). Pub. L. 108–375, § 725(c)(3), substituted “The Secretary of Defense shall determine, before the beginning of each fiscal year after September 30, 2005, the total amount of the Department of Defense contribution to be made to the Fund for that fiscal year for purposes of section 1116(b)(2).” for “(1) The Secretary of Defense shall determine each year, in sufficient time for inclusion in budget requests for the following fiscal year, the total amount of Department of Defense contributions to be made to the Fund during that fiscal year under section 1116(a) of this title.”, redesignated subpar. (A) as par. (1) and cls. (i) and (ii) as subpars. (A) and (B), respectively, of par. (1), redesignated subpar. (B) as par. (2) and cls. (i) and (ii) as subpars. (A) and (B), respectively, of par. (2), substituted “paragraph (1)(B)” for “subparagraph (A)(ii)” in par. (2)(B), and struck out former par. (2) which read as follows: “The amount determined under paragraph (1) for any fiscal year is the amount needed to be appropriated to the Department of Defense (or to the other executive department having jurisdiction over the participating uniformed service) for that fiscal year for payments to be made to the Fund during that year under section 1116(a) of this title. The President shall include not less than the full amount so determined in the budget transmitted to Congress for that fiscal year under section 1105 of title 31. The President may comment and make recommendations concerning any such amount.”
 
-Subsec. (c)(1). Pub. L. 108–375, § 725(c)(4), struck out “and section 1116(a) of this title” after “subsection (b)” in concluding provisions.
+Subsec. (c)(1). Pub. L. 108–375, § 725(c)(4), struck out “and section 1116(a) of this title” after “subsection (b)” in concluding provisions.
 
-Subsec. (c)(5). Pub. L. 108–375, § 725(c)(5), substituted “1116” for “1116(c)”.
+Subsec. (c)(5). Pub. L. 108–375, § 725(c)(5), substituted “1116” for “1116(c)”.
 
-2003—Subsec. (a). Pub. L. 108–136, § 722(c), substituted “section 1116(c) of this title” for “section 1116(b) of this title”.
+2003—Subsec. (a). Pub. L. 108–136, § 722(c), substituted “section 1116(c) of this title” for “section 1116(b) of this title”.
 
-Subsec. (c)(1). Pub. L. 108–136, § 722(a), inserted at end of concluding provisions “The Secretary of Defense may determine a separate single level dollar amount under subparagraph (A) or (B) for any participating uniformed service, if, in the judgment of the Secretary, such a determination would produce a more accurate and appropriate actuarial valuation for that uniformed service.”
+Subsec. (c)(1). Pub. L. 108–136, § 722(a), inserted at end of concluding provisions “The Secretary of Defense may determine a separate single level dollar amount under subparagraph (A) or (B) for any participating uniformed service, if, in the judgment of the Secretary, such a determination would produce a more accurate and appropriate actuarial valuation for that uniformed service.”
 
-Subsec. (c)(1)(B). Pub. L. 108–136, § 1045(a)(3), substituted “(other than members” for “and other than members”.
+Subsec. (c)(1)(B). Pub. L. 108–136, § 1045(a)(3), substituted “(other than members” for “and other than members”.
 
-Subsec. (c)(5). Pub. L. 108–136, § 722(c), substituted “section 1116(c) of this title” for “section 1116(b) of this title”.
+Subsec. (c)(5). Pub. L. 108–136, § 722(c), substituted “section 1116(c) of this title” for “section 1116(b) of this title”.
 
-2001—Subsec. (a). Pub. L. 107–107, § 711(b)(3)(A), inserted “participating” before “uniformed services”.
+2001—Subsec. (a). Pub. L. 107–107, § 711(b)(3)(A), inserted “participating” before “uniformed services”.
 
-Subsec. (b)(1)(A)(ii), (B)(ii). Pub. L. 107–107, § 711(b)(3)(B), inserted “under the jurisdiction of the Secretary of Defense” after “uniformed services”.
+Subsec. (b)(1)(A)(ii), (B)(ii). Pub. L. 107–107, § 711(b)(3)(B), inserted “under the jurisdiction of the Secretary of Defense” after “uniformed services”.
 
-Subsec. (b)(2). Pub. L. 107–107, § 711(b)(3)(C), inserted “(or to the other executive department having jurisdiction over the participating uniformed service)” after “Department of Defense”.
+Subsec. (b)(2). Pub. L. 107–107, § 711(b)(3)(C), inserted “(or to the other executive department having jurisdiction over the participating uniformed service)” after “Department of Defense”.
 
-Subsec. (c)(1)(A), (B). Pub. L. 107–107, § 711(b)(3)(D), inserted “participating” before “uniformed services”.
+Subsec. (c)(1)(A), (B). Pub. L. 107–107, § 711(b)(3)(D), inserted “participating” before “uniformed services”.
 
-Subsec. (c)(2). Pub. L. 107–107, § 711(e)(1), substituted “uniformed services retiree health care programs” for “Department of Defense retiree health care programs”.
+Subsec. (c)(2). Pub. L. 107–107, § 711(e)(1), substituted “uniformed services retiree health care programs” for “Department of Defense retiree health care programs”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -279,9 +279,9 @@ Amendment by Pub. L. 107–107 effective as if included in the enactment of this
 
 **Effective Date**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 713(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, provided that: “Section 1115 of such title (as added by such subsection) shall take effect on October 1, 2001.”
+Pub. L. 106–398, § 1 [[div. A], title VII, § 713(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, provided that: “Section 1115 of such title (as added by such subsection) shall take effect on October 1, 2001.”
 
-## § 1116. Payments into the Fund
+## § 1116. Payments into the Fund
 
 **(a)** At the beginning of each fiscal year after September 30, 2005, the Secretary of the Treasury shall promptly pay into the Fund from the General Fund of the Treasury—
 
@@ -305,7 +305,7 @@ Pub. L. 106–398, § 1 [[div. A], title VII, § 713(b)(2)], Oct. 30, 2000, 
 
 **(d)** At the same time as the Secretary of Defense makes the certification under subsection (c), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives the information provided to the Secretary of the Treasury under that subsection.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–182; amended Pub. L. 107–107, div. A, title VII, § 711(b)(4), (d), (e)(1), title X, § 1048(a)(13), Dec. 28, 2001, 115 Stat. 1165, 1166, 1223; Pub. L. 107–314, div. A, title VII, § 704(a), Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–136, div. A, title VII, § 722(b), Nov. 24, 2003, 117 Stat. 1532; Pub. L. 108–375, div. A, title VII, § 725(a), Oct. 28, 2004, 118 Stat. 1991.)
+(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–182; amended Pub. L. 107–107, div. A, title VII, § 711(b)(4), (d), (e)(1), title X, § 1048(a)(13), Dec. 28, 2001, 115 Stat. 1165, 1166, 1223; Pub. L. 107–314, div. A, title VII, § 704(a), Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–136, div. A, title VII, § 722(b), Nov. 24, 2003, 117 Stat. 1532; Pub. L. 108–375, div. A, title VII, § 725(a), Oct. 28, 2004, 118 Stat. 1991.)
 
 **Editorial Notes**
 
@@ -313,25 +313,25 @@ Pub. L. 106–398, § 1 [[div. A], title VII, § 713(b)(2)], Oct. 30, 2000, 
 
 2004—Pub. L. 108–375 reenacted section catchline without change and amended text generally. Prior to amendment, section related to, in subsec. (a), calculation of the Department of Defense monthly contribution to the Fund, in subsec. (b), separate calculation by a participating uniformed service, in subsec. (c), payments to the Fund at the beginning of each fiscal year by the Secretary of the Treasury, and, in subsec. (d), amounts paid into the Fund under subsec. (a) from the pay of members of the participating uniformed services.
 
-2003—Subsec. (a). Pub. L. 108–136, § 722(b)(1), substituted “the amount that, subject to subsection (b),” for “the amount that” in introductory provisions.
+2003—Subsec. (a). Pub. L. 108–136, § 722(b)(1), substituted “the amount that, subject to subsection (b),” for “the amount that” in introductory provisions.
 
-Subsecs. (b) to (d). Pub. L. 108–136, § 722(b)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+Subsecs. (b) to (d). Pub. L. 108–136, § 722(b)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 2002—Subsec. (c). Pub. L. 107–314 substituted “pay of members” for “health care programs”.
 
-2001—Subsec. (a)(1)(A). Pub. L. 107–107, § 711(e)(1), substituted “uniformed services retiree health care programs” for “Department of Defense retiree health care programs”.
+2001—Subsec. (a)(1)(A). Pub. L. 107–107, § 711(e)(1), substituted “uniformed services retiree health care programs” for “Department of Defense retiree health care programs”.
 
-Subsec. (a)(1)(B). Pub. L. 107–107, § 711(b)(4), inserted “under the jurisdiction of the Secretary of Defense” after “uniformed services”.
+Subsec. (a)(1)(B). Pub. L. 107–107, § 711(b)(4), inserted “under the jurisdiction of the Secretary of Defense” after “uniformed services”.
 
-Subsec. (a)(2)(A). Pub. L. 107–107, § 711(e)(1), substituted “uniformed services retiree health care programs” for “Department of Defense retiree health care programs”.
+Subsec. (a)(2)(A). Pub. L. 107–107, § 711(e)(1), substituted “uniformed services retiree health care programs” for “Department of Defense retiree health care programs”.
 
-Subsec. (a)(2)(B). Pub. L. 107–107, § 1048(a)(13)(A), inserted an opening parenthesis before “other than for training”.
+Subsec. (a)(2)(B). Pub. L. 107–107, § 1048(a)(13)(A), inserted an opening parenthesis before “other than for training”.
 
-Pub. L. 107–107, § 711(b)(4), (d)(1), inserted “under the jurisdiction of the Secretary of Defense” after “uniformed services” and struck out at end “Amounts paid into the Fund under this subsection shall be paid from funds available for the Defense Health Program.”.
+Pub. L. 107–107, § 711(b)(4), (d)(1), inserted “under the jurisdiction of the Secretary of Defense” after “uniformed services” and struck out at end “Amounts paid into the Fund under this subsection shall be paid from funds available for the Defense Health Program.”.
 
-Subsec. (b)(2)(D). Pub. L. 107–107, § 1048(a)(13)(B), substituted “section 1115(c)(4)” for “section 111(c)(4)”.
+Subsec. (b)(2)(D). Pub. L. 107–107, § 1048(a)(13)(B), substituted “section 1115(c)(4)” for “section 111(c)(4)”.
 
-Subsec. (c). Pub. L. 107–107, § 711(d)(2), added subsec. (c).
+Subsec. (c). Pub. L. 107–107, § 711(d)(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -345,7 +345,7 @@ Amendment by section 711 of Pub. L. 107–107 effective as if included in the en
 
 **Effective Date**
 
-Section effective Oct. 1, 2002, see section 1 [[div. A], title VII, § 713(b)(1)] of Pub. L. 106–398, set out as a note under section 1113 of this title.
+Section effective Oct. 1, 2002, see section 1 [[div. A], title VII, § 713(b)(1)] of Pub. L. 106–398, set out as a note under section 1113 of this title.
 
 **Termination of Reporting Requirements**
 
@@ -357,10 +357,10 @@ Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in par
 
 **First Year Contributions**
 
-Pub. L. 107–107, div. A, title VII, § 711(g), Dec. 28, 2001, 115 Stat. 1167, provided that: “With respect to contributions under section 1116(a) of title 10, United States Code, for the first year that the Department of Defense Medicare-Eligible Retiree Health Care Fund is established under chapter 56 of such title, if the Board of Actuaries is unable to execute its responsibilities with respect to such section, the Secretary of Defense may make contributions under such section using methods and assumptions developed by the Secretary.”
+Pub. L. 107–107, div. A, title VII, § 711(g), Dec. 28, 2001, 115 Stat. 1167, provided that: “With respect to contributions under section 1116(a) of title 10, United States Code, for the first year that the Department of Defense Medicare-Eligible Retiree Health Care Fund is established under chapter 56 of such title, if the Board of Actuaries is unable to execute its responsibilities with respect to such section, the Secretary of Defense may make contributions under such section using methods and assumptions developed by the Secretary.”
 
-## § 1117. Investment of assets of Fund
+## § 1117. Investment of assets of Fund
 
 The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary of Defense required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary of Defense, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to and form a part of the Fund.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–184.)
+(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–184.)

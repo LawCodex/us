@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 50—FEDERAL OCEAN ACIDIFICATION RESEARCH AND MONITORING
 
-## § 3701. Purposes
+## § 3701. Purposes
 
 The purposes of this chapter are to provide for—
 
-**(1)** development coordination 1
+**(1)** development coordination 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 and implementation of a comprehensive interagency plan to—
 
@@ -35,33 +35,33 @@ and implementation of a comprehensive interagency plan to—
 
 **(4)** research adaptation strategies and mitigating the impacts of ocean and coastal acidification and related co-stressors on marine ecosystems.
 
-(Pub. L. 111–11, title XII, § 12402, Mar. 30, 2009, 123 Stat. 1436; Pub. L. 117–167, div. B, title VI, § 10642, Aug. 9, 2022, 136 Stat. 1672.)
+(Pub. L. 111–11, title XII, § 12402, Mar. 30, 2009, 123 Stat. 1436; Pub. L. 117–167, div. B, title VI, § 10642, Aug. 9, 2022, 136 Stat. 1672.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–167, § 10642(b), struck out subsec. (a) designation and heading “Purposes” before “The purposes” in introductory provisions.
+2022—Pub. L. 117–167, § 10642(b), struck out subsec. (a) designation and heading “Purposes” before “The purposes” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 117–167, § 10642(a)(1), substituted “development coordination and implementation” for “development and coordination” in introductory provisions, “acidification and coastal acidification on marine organisms” for “acidification on marine organisms” in subpar. (A), and “maintain and advise an interagency research, monitoring, and public outreach program on ocean acidification and coastal acidification;” for “establish an interagency research and monitoring program on ocean acidification;” in subpar. (B).
+Subsec. (a)(1). Pub. L. 117–167, § 10642(a)(1), substituted “development coordination and implementation” for “development and coordination” in introductory provisions, “acidification and coastal acidification on marine organisms” for “acidification on marine organisms” in subpar. (A), and “maintain and advise an interagency research, monitoring, and public outreach program on ocean acidification and coastal acidification;” for “establish an interagency research and monitoring program on ocean acidification;” in subpar. (B).
 
-Subsec. (a)(2). Pub. L. 117–167, § 10642(a)(2), substituted “maintenance” for “establishment”.
+Subsec. (a)(2). Pub. L. 117–167, § 10642(a)(2), substituted “maintenance” for “establishment”.
 
-Subsec. (a)(3). Pub. L. 117–167, § 10642(a)(3), inserted “and coastal acidification” after “ocean acidification”.
+Subsec. (a)(3). Pub. L. 117–167, § 10642(a)(3), inserted “and coastal acidification” after “ocean acidification”.
 
-Subsec. (a)(4). Pub. L. 117–167, § 10642(a)(4), substituted “mitigating the impacts of ocean and coastal acidification and related co-stressors on marine ecosystems.” for “techniques for effectively conserving marine ecosystems as they cope with increased ocean acidification.”
+Subsec. (a)(4). Pub. L. 117–167, § 10642(a)(4), substituted “mitigating the impacts of ocean and coastal acidification and related co-stressors on marine ecosystems.” for “techniques for effectively conserving marine ecosystems as they cope with increased ocean acidification.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–167, div. B, title VI, § 10641, Aug. 9, 2022, 136 Stat. 1672, provided that: “This subtitle [subtitle E (§§ 10641–10649) of title VI of div. B of Pub. L. 117–167, amending this section and sections 3702 to 3708 of this title] may be cited as the ‘Coastal and Ocean Acidification Research and Innovation Act of 2021’.”
+Pub. L. 117–167, div. B, title VI, § 10641, Aug. 9, 2022, 136 Stat. 1672, provided that: “This subtitle [subtitle E (§§ 10641–10649) of title VI of div. B of Pub. L. 117–167, amending this section and sections 3702 to 3708 of this title] may be cited as the ‘Coastal and Ocean Acidification Research and Innovation Act of 2021’.”
 
 **Short Title**
 
-Pub. L. 111–11, title XII, § 12401, Mar. 30, 2009, 123 Stat. 1436, provided that: “This subtitle [subtitle D (§§ 12401–12409) of title XII of Pub. L. 111–11, enacting this chapter] may be cited as the ‘Federal Ocean Acidification Research And Monitoring Act of 2009’ or the ‘FOARAM Act’.”
+Pub. L. 111–11, title XII, § 12401, Mar. 30, 2009, 123 Stat. 1436, provided that: “This subtitle [subtitle D (§§ 12401–12409) of title XII of Pub. L. 111–11, enacting this chapter] may be cited as the ‘Federal Ocean Acidification Research And Monitoring Act of 2009’ or the ‘FOARAM Act’.”
 
-## § 3702. Definitions
+## § 3702. Definitions
 
 In this chapter:
 
@@ -85,27 +85,27 @@ The term “Subcommittee” means the National Science and Technology Council Su
 
 The term “State” means each State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory or possession of the United States.
 
-(Pub. L. 111–11, title XII, § 12403, Mar. 30, 2009, 123 Stat. 1437; Pub. L. 117–167, div. B, title VI, § 10643, Aug. 9, 2022, 136 Stat. 1672.)
+(Pub. L. 111–11, title XII, § 12403, Mar. 30, 2009, 123 Stat. 1437; Pub. L. 117–167, div. B, title VI, § 10643, Aug. 9, 2022, 136 Stat. 1672.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Par. (1). Pub. L. 117–167, § 10643(4), added par. (1). Former par. (1) redesignated (2).
+2022—Par. (1). Pub. L. 117–167, § 10643(4), added par. (1). Former par. (1) redesignated (2).
 
-Pub. L. 117–167, § 10643(1), substituted “and changes in the water chemistry of the Earth’s oceans, coastal estuaries, marine waterways, and Great Lakes caused by carbon dioxide from the atmosphere and the breakdown of organic matter” for “of the Earth’s oceans and changes in ocean chemistry caused by chemical inputs from the atmosphere, including carbon dioxide”.
+Pub. L. 117–167, § 10643(1), substituted “and changes in the water chemistry of the Earth’s oceans, coastal estuaries, marine waterways, and Great Lakes caused by carbon dioxide from the atmosphere and the breakdown of organic matter” for “of the Earth’s oceans and changes in ocean chemistry caused by chemical inputs from the atmosphere, including carbon dioxide”.
 
-Par. (2). Pub. L. 117–167, § 10643(3), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+Par. (2). Pub. L. 117–167, § 10643(3), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-Par. (3). Pub. L. 117–167, § 10643(3), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Par. (3). Pub. L. 117–167, § 10643(3), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Pub. L. 117–167, § 10643(2), substituted “National Science and Technology Council Subcommittee on Ocean Science and Technology” for “Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council”.
+Pub. L. 117–167, § 10643(2), substituted “National Science and Technology Council Subcommittee on Ocean Science and Technology” for “Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council”.
 
-Par. (4). Pub. L. 117–167, § 10643(3), redesignated par. (3) as (4).
+Par. (4). Pub. L. 117–167, § 10643(3), redesignated par. (3) as (4).
 
-Par. (5). Pub. L. 117–167, § 10643(5), added par. (5).
+Par. (5). Pub. L. 117–167, § 10643(5), added par. (5).
 
-## § 3703. Interagency working group
+## § 3703. Interagency working group
 
 **(a) Designation**
 
@@ -135,9 +135,9 @@ The interagency working group shall be chaired by the representative from the Na
 
 **(4)** coordinate the United States Federal research and monitoring program with research and monitoring programs and scientists from other nations;
 
-**(5)** establish or designate, and contribute to as appropriate, an Ocean Acidification Information Exchange to make information on ocean acidification and coastal acidification developed through or utilized by the interagency ocean acidification program accessible through electronic means, including information which would be useful to policymakers, researchers, and other stakeholders in mitigating or adapting to the impacts of ocean acidification and coastal acidification; and 1
+**(5)** establish or designate, and contribute to as appropriate, an Ocean Acidification Information Exchange to make information on ocean acidification and coastal acidification developed through or utilized by the interagency ocean acidification program accessible through electronic means, including information which would be useful to policymakers, researchers, and other stakeholders in mitigating or adapting to the impacts of ocean acidification and coastal acidification; and 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(c) Advisory Board**
 
@@ -241,7 +241,7 @@ Nothing in subparagraph (A) may be construed as affecting any requirement to con
 
 Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Board for 10 years from August 9, 2022.2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(d) Prize competitions**
 
@@ -341,45 +341,45 @@ In this paragraph and in paragraph (5), the term “appropriate committees of Co
 
 **(C)** that leverage existing platforms, where possible.
 
-(Pub. L. 111–11, title XII, § 12404, Mar. 30, 2009, 123 Stat. 1437; Pub. L. 116–271, title I, § 109, Dec. 31, 2020, 134 Stat. 3341; Pub. L. 117–167, div. B, title VI, § 10644, Aug. 9, 2022, 136 Stat. 1673.)
+(Pub. L. 111–11, title XII, § 12404, Mar. 30, 2009, 123 Stat. 1437; Pub. L. 116–271, title I, § 109, Dec. 31, 2020, 134 Stat. 3341; Pub. L. 117–167, div. B, title VI, § 10644, Aug. 9, 2022, 136 Stat. 1673.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c)(10), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c)(10), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 August 9, 2022, referred to in subsec. (c)(10), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 117–167, which enacted subsec. (c), to reflect the probable intent of Congress.
 
 **Amendments**
 
-2022—Pub. L. 117–167, § 10644(1), substituted “working group” for “Subcommittee” in section catchline.
+2022—Pub. L. 117–167, § 10644(1), substituted “working group” for “Subcommittee” in section catchline.
 
-Subsec. (a)(1). Pub. L. 117–167, § 10644(2)(A), substituted “Subcommittee shall coordinate Federal activities on ocean and coastal acidification and establish and maintain” for “Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council shall coordinate Federal activities on ocean acidification and establish”.
+Subsec. (a)(1). Pub. L. 117–167, § 10644(2)(A), substituted “Subcommittee shall coordinate Federal activities on ocean and coastal acidification and establish and maintain” for “Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council shall coordinate Federal activities on ocean acidification and establish”.
 
-Subsec. (a)(2). Pub. L. 117–167, § 10644(2)(B), substituted “Wildlife Service, the Bureau of Ocean Energy Management, the Environmental Protection Agency, the Department of Agriculture, the Department of State, the Department of Energy, the Department of the Navy, the National Park Service, the Bureau of Indian Affairs, the National Institute of Standards and Technology, the Smithsonian Institution,” for “Wildlife Service,”.
+Subsec. (a)(2). Pub. L. 117–167, § 10644(2)(B), substituted “Wildlife Service, the Bureau of Ocean Energy Management, the Environmental Protection Agency, the Department of Agriculture, the Department of State, the Department of Energy, the Department of the Navy, the National Park Service, the Bureau of Indian Affairs, the National Institute of Standards and Technology, the Smithsonian Institution,” for “Wildlife Service,”.
 
-Subsec. (a)(3). Pub. L. 117–167, § 10644(2)(C), substituted “Chair” for “Chairman” in heading.
+Subsec. (a)(3). Pub. L. 117–167, § 10644(2)(C), substituted “Chair” for “Chairman” in heading.
 
-Subsec. (b)(2). Pub. L. 117–167, § 10644(3)(A), inserted “and coastal acidification” after “ocean acidification” in subpars. (A) and (B).
+Subsec. (b)(2). Pub. L. 117–167, § 10644(3)(A), inserted “and coastal acidification” after “ocean acidification” in subpars. (A) and (B).
 
-Subsec. (b)(4). Pub. L. 117–167, § 10644(3)(B), substituted semicolon for “; and”.
+Subsec. (b)(4). Pub. L. 117–167, § 10644(3)(B), substituted semicolon for “; and”.
 
-Subsec. (b)(5). Pub. L. 117–167, § 10644(3)(C), inserted “, and contribute to as appropriate,” after “designate” and substituted “and coastal acidification developed” for “developed” and “and coastal acidification; and” for period at end.
+Subsec. (b)(5). Pub. L. 117–167, § 10644(3)(C), inserted “, and contribute to as appropriate,” after “designate” and substituted “and coastal acidification developed” for “developed” and “and coastal acidification; and” for period at end.
 
-Subsec. (c). Pub. L. 117–167, § 10644(6), added subsec. (c). Former subsec. (c) redesignated (e).
+Subsec. (c). Pub. L. 117–167, § 10644(6), added subsec. (c). Former subsec. (c) redesignated (e).
 
-Subsec. (c)(2). Pub. L. 117–167, § 10644(4)(A)(i), (ii), in introductory provisions, inserted “until 2032” after “every 2 years thereafter” and “, and to the Office of Management and Budget,” after “House of Representatives”.
+Subsec. (c)(2). Pub. L. 117–167, § 10644(4)(A)(i), (ii), in introductory provisions, inserted “until 2032” after “every 2 years thereafter” and “, and to the Office of Management and Budget,” after “House of Representatives”.
 
-Subsec. (c)(2)(B). Pub. L. 117–167, § 10644(4)(A)(iii), substituted “interagency strategic research” for “the interagency research”.
+Subsec. (c)(2)(B). Pub. L. 117–167, § 10644(4)(A)(iii), substituted “interagency strategic research” for “the interagency research”.
 
-Subsec. (c)(3). Pub. L. 117–167, § 10644(4)(B), inserted “until 2031” after “at least once every 5 years”.
+Subsec. (c)(3). Pub. L. 117–167, § 10644(4)(B), inserted “until 2031” after “at least once every 5 years”.
 
-Subsec. (c)(4)(A). Pub. L. 117–167, § 10644(4)(C), inserted “until 2032” after “and every 6 years thereafter” in introductory provisions.
+Subsec. (c)(4)(A). Pub. L. 117–167, § 10644(4)(C), inserted “until 2032” after “and every 6 years thereafter” in introductory provisions.
 
-Subsec. (d). Pub. L. 117–167, § 10644(6), added subsec. (d).
+Subsec. (d). Pub. L. 117–167, § 10644(6), added subsec. (d).
 
-Subsec. (e). Pub. L. 117–167, § 10644(5), redesignated subsec. (c) as (e).
+Subsec. (e). Pub. L. 117–167, § 10644(5), redesignated subsec. (c) as (e).
 
 2020—Subsec. (c)(4), (5). Pub. L. 116–271 added pars. (4) and (5).
 
@@ -389,7 +389,7 @@ Subsec. (e). Pub. L. 117–167, § 10644(5), redesignated subsec. (c) as (e).
 
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-## § 3704. Strategic research plan
+## § 3704. Strategic research plan
 
 **(a) In general**
 
@@ -457,9 +457,9 @@ Not later than 2 years after March 30, 2009, and not later than every 5 years fo
 
 **(9)** describe specific activities designed to facilitate outreach and data and information exchange with stakeholder communities;
 
-**(10)** make recommendations for research to be conducted, including in the social sciences and economics, to address the key knowledge gaps identified in the Ocean Chemistry Coastal Community Vulnerability Assessment conducted under section 3703(c)(4) 1
+**(10)** make recommendations for research to be conducted, including in the social sciences and economics, to address the key knowledge gaps identified in the Ocean Chemistry Coastal Community Vulnerability Assessment conducted under section 3703(c)(4) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title;
 
@@ -495,69 +495,69 @@ of this title;
 
 Concurrent with the submission of the plan to Congress, the Subcommittee shall publish the plan on a public website.
 
-(Pub. L. 111–11, title XII, § 12405, Mar. 30, 2009, 123 Stat. 1438; Pub. L. 116–271, title I, § 110(a)–(c), Dec. 31, 2020, 134 Stat. 3343; Pub. L. 117–167, div. B, title VI, § 10645, Aug. 9, 2022, 136 Stat. 1677.)
+(Pub. L. 111–11, title XII, § 12405, Mar. 30, 2009, 123 Stat. 1438; Pub. L. 116–271, title I, § 110(a)–(c), Dec. 31, 2020, 134 Stat. 3343; Pub. L. 117–167, div. B, title VI, § 10645, Aug. 9, 2022, 136 Stat. 1677.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3703(c)(4) of this title, referred to in subsec. (b)(10), was redesignated as section 3703(e)(4) of this title by Pub. L. 117–167, div. B, title VI, § 10644(5), Aug. 9, 2022, 136 Stat. 1674.
+Section 3703(c)(4) of this title, referred to in subsec. (b)(10), was redesignated as section 3703(e)(4) of this title by Pub. L. 117–167, div. B, title VI, § 10644(5), Aug. 9, 2022, 136 Stat. 1674.
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–167, § 10645(1), substituted “acidification and coastal acidification” for “acidification” wherever appearing; in the first sentence, inserted “, and not later than every 5 years following the publication of each subsequent strategic research plan until 2035” after “March 30, 2009” and “address the socioeconomic impacts of ocean acidification and coastal acidification and to” after “mitigation strategies to” and substituted “ecosystems” for “marine ecosystems” in two places; and in the second sentence, substituted “Advisory Board established in section 3703(c) of this title” for “National Academy of Sciences in the review of the plan required under subsection (d)”.
+2022—Subsec. (a). Pub. L. 117–167, § 10645(1), substituted “acidification and coastal acidification” for “acidification” wherever appearing; in the first sentence, inserted “, and not later than every 5 years following the publication of each subsequent strategic research plan until 2035” after “March 30, 2009” and “address the socioeconomic impacts of ocean acidification and coastal acidification and to” after “mitigation strategies to” and substituted “ecosystems” for “marine ecosystems” in two places; and in the second sentence, substituted “Advisory Board established in section 3703(c) of this title” for “National Academy of Sciences in the review of the plan required under subsection (d)”.
 
-Subsec. (b)(1). Pub. L. 117–167, § 10645(2)(A), inserted “and social sciences” after “among the ocean sciences”.
+Subsec. (b)(1). Pub. L. 117–167, § 10645(2)(A), inserted “and social sciences” after “among the ocean sciences”.
 
-Subsec. (b)(2)(B). Pub. L. 117–167, § 10645(2)(B)(i), substituted “assess the short-term and long-term” for “improve the ability to assess the” and semicolon for “; and”.
+Subsec. (b)(2)(B). Pub. L. 117–167, § 10645(2)(B)(i), substituted “assess the short-term and long-term” for “improve the ability to assess the” and semicolon for “; and”.
 
-Subsec. (b)(2)(C). Pub. L. 117–167, § 10645(2)(B)(ii), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “provide information for the development of adaptation and mitigation strategies to conserve marine organisms and marine ecosystems;”.
+Subsec. (b)(2)(C). Pub. L. 117–167, § 10645(2)(B)(ii), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “provide information for the development of adaptation and mitigation strategies to conserve marine organisms and marine ecosystems;”.
 
-Subsec. (b)(2)(D). Pub. L. 117–167, § 10645(2)(B)(iii), added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 117–167, § 10645(2)(B)(iii), added subpar. (D).
 
-Subsec. (b)(3)(F). Pub. L. 117–167, § 10645(2)(C)(i), substituted “data management” for “database development”.
+Subsec. (b)(3)(F). Pub. L. 117–167, § 10645(2)(C)(i), substituted “data management” for “database development”.
 
-Subsec. (b)(3)(J), (K). Pub. L. 117–167, § 10645(2)(C)(ii), (iii), added subpars. (J) and (K).
+Subsec. (b)(3)(J), (K). Pub. L. 117–167, § 10645(2)(C)(ii), (iii), added subpars. (J) and (K).
 
-Subsec. (b)(4). Pub. L. 117–167, § 10645(2)(D), substituted “ensure an appropriate balance of contribution in establishing” for “set forth”.
+Subsec. (b)(4). Pub. L. 117–167, § 10645(2)(D), substituted “ensure an appropriate balance of contribution in establishing” for “set forth”.
 
-Subsec. (b)(5). Pub. L. 117–167, § 10645(2)(E), substituted “the best available peer-reviewed scientific reports” for “reports”.
+Subsec. (b)(5). Pub. L. 117–167, § 10645(2)(E), substituted “the best available peer-reviewed scientific reports” for “reports”.
 
-Subsec. (b)(6). Pub. L. 117–167, § 10645(2)(F), inserted “and coastal acidification” after “ocean acidification” and substituted “within the United States” for “of the United States”.
+Subsec. (b)(6). Pub. L. 117–167, § 10645(2)(F), inserted “and coastal acidification” after “ocean acidification” and substituted “within the United States” for “of the United States”.
 
-Subsec. (b)(8). Pub. L. 117–167, § 10645(2)(G)(iii), which directed the substitution of a semicolon for “; and”, could not be executed because “and” had already been struck out at the end of par. (8) by Pub. L. 116–271, § 110(a)(1), in the course of adding par. (10). See 2020 Amendment note below.
+Subsec. (b)(8). Pub. L. 117–167, § 10645(2)(G)(iii), which directed the substitution of a semicolon for “; and”, could not be executed because “and” had already been struck out at the end of par. (8) by Pub. L. 116–271, § 110(a)(1), in the course of adding par. (10). See 2020 Amendment note below.
 
-Pub. L. 117–167, § 10645(2)(G)(i), (ii), inserted “and coastal acidification” after “ocean acidification” in two places and substituted “their” for “its”.
+Pub. L. 117–167, § 10645(2)(G)(i), (ii), inserted “and coastal acidification” after “ocean acidification” in two places and substituted “their” for “its”.
 
-Subsec. (b)(11), (12). Pub. L. 117–167, § 10645(2)(H)–(J), added pars. (11) and (12).
+Subsec. (b)(11), (12). Pub. L. 117–167, § 10645(2)(H)–(J), added pars. (11) and (12).
 
-Subsec. (c)(1)(C). Pub. L. 117–167, § 10645(3)(A), struck out “surface” before “ocean chemistry”.
+Subsec. (c)(1)(C). Pub. L. 117–167, § 10645(3)(A), struck out “surface” before “ocean chemistry”.
 
-Subsec. (c)(2). Pub. L. 117–167, § 10645(3)(B), inserted “and coastal acidification” after “ocean acidification” wherever appearing.
+Subsec. (c)(2). Pub. L. 117–167, § 10645(3)(B), inserted “and coastal acidification” after “ocean acidification” wherever appearing.
 
-Subsec. (c)(3). Pub. L. 117–167, § 10645(3)(C), substituted “inputs,” for “input, and” and inserted “, marine food webs,” after “marine ecosystems” and “, and modeling that supports fisheries management” after “marine organisms”.
+Subsec. (c)(3). Pub. L. 117–167, § 10645(3)(C), substituted “inputs,” for “input, and” and inserted “, marine food webs,” after “marine ecosystems” and “, and modeling that supports fisheries management” after “marine organisms”.
 
-Subsec. (c)(5). Pub. L. 117–167, § 10645(3)(D), inserted “and coastal acidification” after “ocean acidification”.
+Subsec. (c)(5). Pub. L. 117–167, § 10645(3)(D), inserted “and coastal acidification” after “ocean acidification”.
 
-Subsec. (c)(8). Pub. L. 117–167, § 10645(3)(E), added par. (8).
+Subsec. (c)(8). Pub. L. 117–167, § 10645(3)(E), added par. (8).
 
-Subsec. (d). Pub. L. 117–167, § 10645(4), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary shall enter into an agreement with the National Academy of Sciences to review the plan.”
+Subsec. (d). Pub. L. 117–167, § 10645(4), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary shall enter into an agreement with the National Academy of Sciences to review the plan.”
 
-Subsec. (e). Pub. L. 117–167, § 10645(4), struck out subsec. (e). Text read as follows: “In developing the plan, the Subcommittee shall consult with representatives of academic, State, industry and environmental groups, tribal governments, and subsistence users. Not later than 90 days before the plan, or any revision thereof, is submitted to the Congress, the plan shall be published in the Federal Register for a public comment period of not less than 60 days.”
+Subsec. (e). Pub. L. 117–167, § 10645(4), struck out subsec. (e). Text read as follows: “In developing the plan, the Subcommittee shall consult with representatives of academic, State, industry and environmental groups, tribal governments, and subsistence users. Not later than 90 days before the plan, or any revision thereof, is submitted to the Congress, the plan shall be published in the Federal Register for a public comment period of not less than 60 days.”
 
-2020—Subsec. (b)(10). Pub. L. 116–271, § 110(a), added par. (10).
+2020—Subsec. (b)(10). Pub. L. 116–271, § 110(a), added par. (10).
 
-Subsec. (c)(6), (7). Pub. L. 116–271, § 110(b), added pars. (6) and (7).
+Subsec. (c)(6), (7). Pub. L. 116–271, § 110(b), added pars. (6) and (7).
 
-Subsec. (e). Pub. L. 116–271, § 110(c), inserted “, tribal governments, and subsistence users” after “groups”.
+Subsec. (e). Pub. L. 116–271, § 110(c), inserted “, tribal governments, and subsistence users” after “groups”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Revised Strategic Research Plan**
 
-Pub. L. 116–271, title I, § 110(d), Dec. 31, 2020, 134 Stat. 3343, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 31, 2020], the Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council shall submit to Congress a revised strategic research plan under section 12405 of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3704) that includes the matters required by the amendments made by this section.”
+Pub. L. 116–271, title I, § 110(d), Dec. 31, 2020, 134 Stat. 3343, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 31, 2020], the Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council shall submit to Congress a revised strategic research plan under section 12405 of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3704) that includes the matters required by the amendments made by this section.”
 
-## § 3705. NOAA ocean acidification activities
+## § 3705. NOAA ocean acidification activities
 
 **(a) In general** The Secretary shall establish and maintain an ocean acidification program within the National Oceanic and Atmospheric Administration to conduct research, monitoring, coordination, and other activities consistent with the strategic research and implementation plan developed by the Subcommittee under section 3704 of this title that—
 
@@ -569,9 +569,9 @@ Pub. L. 116–271, title I, § 110(d), Dec. 31, 2020, 134 Stat. 3343, provided
 
 **(C)** prioritization of the location of monitoring instruments, assets, and projects to maximize the efficiency of resources and agency and department missions;
 
-**(D)** an optimization of understanding of socioeconomic impacts and ecosystem health 1
+**(D)** an optimization of understanding of socioeconomic impacts and ecosystem health 1
 
-<sup>1</sup>  So in original. Probably should be followed by a semicolon.
+<sup>1</sup> So in original. Probably should be followed by a semicolon.
 
 **(E)** research to identify and develop adaptation and mitigation strategies and techniques for effectively conserving marine ecosystems as they cope with increased ocean acidification and coastal acidification;
 
@@ -629,39 +629,39 @@ In conducting the Program, the Secretary may enter into and perform such contrac
 
 The Secretary to, the extent possible, shall ensure all such data adheres to data and metadata standards to support the public findability, accessibility, interoperability, and reusability of such data.
 
-(Pub. L. 111–11, title XII, § 12406, Mar. 30, 2009, 123 Stat. 1440; Pub. L. 115–232, div. A, title VIII, § 809(k)(2), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 116–271, title I, § 111, Dec. 31, 2020, 134 Stat. 3343; Pub. L. 117–167, div. B, title VI, § 10646, Aug. 9, 2022, 136 Stat. 1679.)
+(Pub. L. 111–11, title XII, § 12406, Mar. 30, 2009, 123 Stat. 1440; Pub. L. 115–232, div. A, title VIII, § 809(k)(2), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 116–271, title I, § 111, Dec. 31, 2020, 134 Stat. 3343; Pub. L. 117–167, div. B, title VI, § 10646, Aug. 9, 2022, 136 Stat. 1679.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–167, § 10646(1)(A), inserted “coordination,” after “research, monitoring,” in introductory provisions.
+2022—Subsec. (a). Pub. L. 117–167, § 10646(1)(A), inserted “coordination,” after “research, monitoring,” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 117–167, § 10646(1)(D), substituted “acidification and coastal acidification” for “acidification” wherever appearing. Amendment was not executed in subpars. (F), (J), and (K) as added by Pub. L. 117–167, § 10646(1)(B)(v), (viii), to reflect the probable intent of Congress.
+Subsec. (a)(1). Pub. L. 117–167, § 10646(1)(D), substituted “acidification and coastal acidification” for “acidification” wherever appearing. Amendment was not executed in subpars. (F), (J), and (K) as added by Pub. L. 117–167, § 10646(1)(B)(v), (viii), to reflect the probable intent of Congress.
 
-Subsec. (a)(1)(B). Pub. L. 117–167, § 10646(1)(B)(i), inserted “including leveraging, as appropriate, the Integrated Ocean Observing System and the ocean observing assets of other Federal, State, and Tribal agencies,” after “ocean observing assets,”.
+Subsec. (a)(1)(B). Pub. L. 117–167, § 10646(1)(B)(i), inserted “including leveraging, as appropriate, the Integrated Ocean Observing System and the ocean observing assets of other Federal, State, and Tribal agencies,” after “ocean observing assets,”.
 
-Subsec. (a)(1)(C), (D). Pub. L. 117–167, § 10646(1)(B)(iii), added subpars. (C) and (D). Former subpars. (C) and (D) redesignated (E) and (G), respectively.
+Subsec. (a)(1)(C), (D). Pub. L. 117–167, § 10646(1)(B)(iii), added subpars. (C) and (D). Former subpars. (C) and (D) redesignated (E) and (G), respectively.
 
-Subsec. (a)(1)(E). Pub. L. 117–167, § 10646(1)(B)(ii), (iv), redesignated subpar. (C) as (E) and substituted “adaptation and mitigation” for “adaptation”. Former subpar. (E) redesignated (H).
+Subsec. (a)(1)(E). Pub. L. 117–167, § 10646(1)(B)(ii), (iv), redesignated subpar. (C) as (E) and substituted “adaptation and mitigation” for “adaptation”. Former subpar. (E) redesignated (H).
 
-Subsec. (a)(1)(F). Pub. L. 117–167, § 10646(1)(B)(v), added subpar. (F).
+Subsec. (a)(1)(F). Pub. L. 117–167, § 10646(1)(B)(v), added subpar. (F).
 
-Subsec. (a)(1)(G). Pub. L. 117–167, § 10646(1)(B)(ii), redesignated subpar. (D) as (G).
+Subsec. (a)(1)(G). Pub. L. 117–167, § 10646(1)(B)(ii), redesignated subpar. (D) as (G).
 
-Subsec. (a)(1)(H). Pub. L. 117–167, § 10646(1)(B)(ii), (vi), redesignated subpar. (E) as (H), substituted “their respective impacts” for “its impacts”, and struck out “and” at end.
+Subsec. (a)(1)(H). Pub. L. 117–167, § 10646(1)(B)(ii), (vi), redesignated subpar. (E) as (H), substituted “their respective impacts” for “its impacts”, and struck out “and” at end.
 
-Subsec. (a)(1)(I). Pub. L. 117–167, § 10646(1)(B)(vii)(II), which directed the substitution of a semicolon for a period at the end, could not be executed because a semicolon, rather than a period, already appeared at the end.
+Subsec. (a)(1)(I). Pub. L. 117–167, § 10646(1)(B)(vii)(II), which directed the substitution of a semicolon for a period at the end, could not be executed because a semicolon, rather than a period, already appeared at the end.
 
-Pub. L. 117–167, § 10646(1)(B)(ii), (vii)(I), redesignated subpar. (F) as (I) and substituted “research, monitoring, and adaptation and mitigation strategies” for “monitoring and impacts research”.
+Pub. L. 117–167, § 10646(1)(B)(ii), (vii)(I), redesignated subpar. (F) as (I) and substituted “research, monitoring, and adaptation and mitigation strategies” for “monitoring and impacts research”.
 
-Subsec. (a)(1)(J), (K). Pub. L. 117–167, § 10646(1)(B)(viii), added subpars. (J) and (K).
+Subsec. (a)(1)(J), (K). Pub. L. 117–167, § 10646(1)(B)(viii), added subpars. (J) and (K).
 
-Subsec. (a)(2). Pub. L. 117–167, § 10646(1)(D), substituted “acidification and coastal acidification” for “acidification” in two places.
+Subsec. (a)(2). Pub. L. 117–167, § 10646(1)(D), substituted “acidification and coastal acidification” for “acidification” in two places.
 
-Pub. L. 117–167, § 10646(1)(C), substituted “critical research, education, and outreach projects that explore and communicate” for “critical research projects that explore”.
+Pub. L. 117–167, § 10646(1)(C), substituted “critical research, education, and outreach projects that explore and communicate” for “critical research projects that explore”.
 
-Subsecs. (c), (d). Pub. L. 117–167, § 10646(2), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 117–167, § 10646(2), added subsecs. (c) and (d).
 
 2020—Subsec. (a)(4). Pub. L. 116–271 added par. (4).
 
@@ -673,7 +673,7 @@ Subsecs. (c), (d). Pub. L. 117–167, § 10646(2), added subsecs. (c) and (d).
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
 
-## § 3706. NSF ocean acidification activities
+## § 3706. NSF ocean acidification activities
 
 **(a) Research activities** The Director of the National Science Foundation shall continue to carry out research activities on ocean acidification and coastal acidification which shall support competitive, merit-based, peer-reviewed proposals for research, observation, and monitoring of ocean acidification and coastal acidification and their respective impacts, including—
 
@@ -701,21 +701,21 @@ The Director shall encourage coordination of the Foundation’s ocean acidificat
 
 **(2)** submit such data to the Director and the Secretary after publication, in accordance with any rules promulgated by the Director or the Secretary.
 
-(Pub. L. 111–11, title XII, § 12407, Mar. 30, 2009, 123 Stat. 1441; Pub. L. 116–271, title I, § 112, Dec. 31, 2020, 134 Stat. 3344; Pub. L. 117–167, div. B, title VI, § 10647, Aug. 9, 2022, 136 Stat. 1680.)
+(Pub. L. 111–11, title XII, § 12407, Mar. 30, 2009, 123 Stat. 1441; Pub. L. 116–271, title I, § 112, Dec. 31, 2020, 134 Stat. 3344; Pub. L. 117–167, div. B, title VI, § 10647, Aug. 9, 2022, 136 Stat. 1680.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–167, § 10647(1), substituted “ocean acidification and coastal acidification” for “ocean acidification” wherever appearing in text.
+2022—Pub. L. 117–167, § 10647(1), substituted “ocean acidification and coastal acidification” for “ocean acidification” wherever appearing in text.
 
-Subsec. (a). Pub. L. 117–167, § 10647(2)(A), substituted “their respective impacts” for “its impacts” in introductory provisions.
+Subsec. (a). Pub. L. 117–167, § 10647(2)(A), substituted “their respective impacts” for “its impacts” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 117–167, § 10647(2)(B), substituted “and their respective impacts” for “and its impacts”.
+Subsec. (a)(3). Pub. L. 117–167, § 10647(2)(B), substituted “and their respective impacts” for “and its impacts”.
 
-Subsec. (a)(5). Pub. L. 117–167, § 10647(2)(C), (D), added par. (5).
+Subsec. (a)(5). Pub. L. 117–167, § 10647(2)(C), (D), added par. (5).
 
-Subsec. (d). Pub. L. 117–167, § 10647(3), added subsec. (d).
+Subsec. (d). Pub. L. 117–167, § 10647(3), added subsec. (d).
 
 2020—Subsec. (a). Pub. L. 116–271 amended subsec. (a) generally. Prior to amendment, text read as follows: “The Director of the National Science Foundation shall continue to carry out research activities on ocean acidification which shall support competitive, merit-based, peer-reviewed proposals for research and monitoring of ocean acidification and its impacts, including—
 
@@ -725,7 +725,7 @@ Subsec. (d). Pub. L. 117–167, § 10647(3), added subsec. (d).
 
 “(3) the development of methodologies and technologies to evaluate ocean acidification and its impacts.”
 
-## § 3707. NASA ocean acidification activities
+## § 3707. NASA ocean acidification activities
 
 **(a) Ocean acidification activities**
 
@@ -745,19 +745,19 @@ The Administrator shall encourage coordination of the Agency’s ocean acidifica
 
 **(2)** submit such data to the Administrator and the Secretary, in accordance with any rules promulgated by the Administrator or the Secretary.
 
-(Pub. L. 111–11, title XII, § 12408, Mar. 30, 2009, 123 Stat. 1441; Pub. L. 117–167, div. B, title VI, § 10648, Aug. 9, 2022, 136 Stat. 1681.)
+(Pub. L. 111–11, title XII, § 12408, Mar. 30, 2009, 123 Stat. 1441; Pub. L. 117–167, div. B, title VI, § 10648, Aug. 9, 2022, 136 Stat. 1681.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–167, § 10648(1), substituted “ocean acidification and coastal acidification” for “ocean acidification” wherever appearing in text.
+2022—Pub. L. 117–167, § 10648(1), substituted “ocean acidification and coastal acidification” for “ocean acidification” wherever appearing in text.
 
-Subsec. (a). Pub. L. 117–167, § 10648(2), substituted “their respective impacts” for “its impacts”.
+Subsec. (a). Pub. L. 117–167, § 10648(2), substituted “their respective impacts” for “its impacts”.
 
-Subsec. (d). Pub. L. 117–167, § 10648(3), added subsec. (d).
+Subsec. (d). Pub. L. 117–167, § 10648(3), added subsec. (d).
 
-## § 3708. Authorization of appropriations
+## § 3708. Authorization of appropriations
 
 **(a) NOAA** There are authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out the purposes of this chapter—
 
@@ -775,12 +775,12 @@ Subsec. (d). Pub. L. 117–167, § 10648(3), added subsec. (d).
 
 There are authorized to be appropriated to the National Science Foundation to carry out the purposes of this chapter, $20,000,000 for each of the fiscal years 2023 through 2027.
 
-(Pub. L. 111–11, title XII, § 12409, Mar. 30, 2009, 123 Stat. 1441; Pub. L. 117–167, div. B, title VI, § 10649, Aug. 9, 2022, 136 Stat. 1681.)
+(Pub. L. 111–11, title XII, § 12409, Mar. 30, 2009, 123 Stat. 1441; Pub. L. 117–167, div. B, title VI, § 10649, Aug. 9, 2022, 136 Stat. 1681.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–167, § 10649(1), substituted pars. (1) to (5) for former pars. (1) to (4) which authorized appropriations for fiscal years 2009 to 2012.
+2022—Subsec. (a). Pub. L. 117–167, § 10649(1), substituted pars. (1) to (5) for former pars. (1) to (4) which authorized appropriations for fiscal years 2009 to 2012.
 
-Subsec. (b). Pub. L. 117–167, § 10649(2), substituted “chapter, $20,000,000 for each of the fiscal years 2023 through 2027.” for “chapter—” and pars. (1) to (4) which authorized appropriations for fiscal years 2009 to 2012.
+Subsec. (b). Pub. L. 117–167, § 10649(2), substituted “chapter, $20,000,000 for each of the fiscal years 2023 through 2027.” for “chapter—” and pars. (1) to (4) which authorized appropriations for fiscal years 2009 to 2012.

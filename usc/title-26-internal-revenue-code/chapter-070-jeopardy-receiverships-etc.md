@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1980—Pub. L. 96–589, § 6(g)(3)(C), (D), Dec. 24, 1980, 94 Stat. 3410, substituted “JEOPARDY, RECEIVERSHIPS ETC.” for “JEOPARDY, BANKRUPTCY AND RECEIVERSHIPS” in chapter heading, and “Receiverships, etc.” for “Bankruptcy and receiverships” in item for subchapter B.
+1980—Pub. L. 96–589, § 6(g)(3)(C), (D), Dec. 24, 1980, 94 Stat. 3410, substituted “JEOPARDY, RECEIVERSHIPS ETC.” for “JEOPARDY, BANKRUPTCY AND RECEIVERSHIPS” in chapter heading, and “Receiverships, etc.” for “Bankruptcy and receiverships” in item for subchapter B.
 
 ## Subchapter A—Jeopardy
 
-1982—Pub. L. 97–248, title III, § 330(b), Sept. 3, 1982, 96 Stat. 620, added item for part III.
+1982—Pub. L. 97–248, title III, § 330(b), Sept. 3, 1982, 96 Stat. 620, added item for part III.
 
 ### PART I—TERMINATION OF TAXABLE YEAR
 
@@ -31,11 +31,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1987—Pub. L. 100–203, title X, § 10713(b)(2)(H), Dec. 22, 1987, 101 Stat. 1330–470, added item 6852.
+1987—Pub. L. 100–203, title X, § 10713(b)(2)(H), Dec. 22, 1987, 101 Stat. 1330–470, added item 6852.
 
-1976—Pub. L. 94–455, title XII, § 1204(c)(12), Oct. 4, 1976, 90 Stat. 1699, substituted “assessments of income tax” for “of taxable year” in item 6851.
+1976—Pub. L. 94–455, title XII, § 1204(c)(12), Oct. 4, 1976, 90 Stat. 1699, substituted “assessments of income tax” for “of taxable year” in item 6851.
 
-#### § 6851. Termination assessments of income tax
+#### § 6851. Termination assessments of income tax
 
 **(a) Authority for making**
 
@@ -79,23 +79,23 @@ The provisions of section 6861(f) (relating to collection of unpaid amounts) and
 
 **(2)** For provisions relating to the review of jeopardy, see section 7429.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 833; Pub. L. 85–866, title I, § 87, Sept. 2, 1958, 72 Stat. 1665; Pub. L. 94–455, title XII, § 1204(b), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1696, 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 833; Pub. L. 85–866, title I, § 87, Sept. 2, 1958, 72 Stat. 1665; Pub. L. 94–455, title XII, § 1204(b), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1696, 1834.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Pub. L. 94–455, § 1204(b)(1), substituted “assessments of income tax” for “of taxable year” in section catchline.
+1976—Pub. L. 94–455, § 1204(b)(1), substituted “assessments of income tax” for “of taxable year” in section catchline.
 
-Subsec. (a). Pub. L. 94–455, § 1204(b)(1), revised pars. (1) and (2) to provide that a termination assessment does not end the taxable year for any purpose other than the computation of the amount of tax to be assessed and collected and to set out the method for determining the tax for the current taxable year, and added pars. (3) and (4).
+Subsec. (a). Pub. L. 94–455, § 1204(b)(1), revised pars. (1) and (2) to provide that a termination assessment does not end the taxable year for any purpose other than the computation of the amount of tax to be assessed and collected and to set out the method for determining the tax for the current taxable year, and added pars. (3) and (4).
 
-Subsec. (b). Pub. L. 94–455, § 1204(b)(1), substituted provisions for the mailing of a notice of deficiency for provisions for the reopening of taxable period.
+Subsec. (b). Pub. L. 94–455, § 1204(b)(1), substituted provisions for the mailing of a notice of deficiency for provisions for the reopening of taxable period.
 
-Subsecs. (c), (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+Subsecs. (c), (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-Subsec. (e). Pub. L. 94–455, § 1204(b)(2), substituted provisions making section 6861(f) and (g) applicable with respect to assessments under subsec. (a).
+Subsec. (e). Pub. L. 94–455, § 1204(b)(2), substituted provisions making section 6861(f) and (g) applicable with respect to assessments under subsec. (a).
 
-Subsec. (f). Pub. L. 94–455, § 1204(b)(2), added subsec. (f).
+Subsec. (f). Pub. L. 94–455, § 1204(b)(2), added subsec. (f).
 
 1958—Subsec. (d). Pub. L. 85–866 designated existing provisions as par. (1), inserted opening provisions, and added par. (2).
 
@@ -103,13 +103,13 @@ Subsec. (f). Pub. L. 94–455, § 1204(b)(2), added subsec. (f).
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XII, § 1204(d), Oct. 4, 1976, 90 Stat. 1699, as amended by Pub. L. 94–528, § 2(a), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [enacting section 7429 of this title and amending this section and sections 443, 6091, 6211, 6213, 6863, 7103, and 7421 of this title] apply with respect to action taken under section 6851, 6861, or 6862 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] where the notice and demand takes place after February 28, 1977.”
+Pub. L. 94–455, title XII, § 1204(d), Oct. 4, 1976, 90 Stat. 1699, as amended by Pub. L. 94–528, § 2(a), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [enacting section 7429 of this title and amending this section and sections 443, 6091, 6211, 6213, 6863, 7103, and 7421 of this title] apply with respect to action taken under section 6851, 6861, or 6862 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] where the notice and demand takes place after February 28, 1977.”
 
 **Effective Date of 1958 Amendment**
 
 Amendment by Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-#### § 6852. Termination assessments in case of flagrant political expenditures of section 501(c)(3) organizations
+#### § 6852. Termination assessments in case of flagrant political expenditures of section 501(c)(3) organizations
 
 **(a) Authority to make**
 
@@ -143,7 +143,7 @@ For purposes of this section, the terms “section 501(c)(3) organization”, �
 
 The provisions of sections 6851(b), 6861(f), and 6861(g) shall apply with respect to any assessment made under subsection (a), except that determinations under section 6861(g) shall be made on the basis of whether the requirements of subsection (a)(1)(B) of this section are met in lieu of whether jeopardy exists.
 
-(Added Pub. L. 100–203, title X, § 10713(b)(1), Dec. 22, 1987, 101 Stat. 1330–469.)
+(Added Pub. L. 100–203, title X, § 10713(b)(1), Dec. 22, 1987, 101 Stat. 1330–469.)
 
 ### PART II—JEOPARDY ASSESSMENTS
 
@@ -151,9 +151,9 @@ The provisions of sections 6851(b), 6861(f), and 6861(g) shall apply with respec
 
 **Amendments**
 
-1974—Pub. L. 93–406, title II, § 1016(b)(5), Sept. 2, 1974, 88 Stat. 932, substituted “gift, and certain excise taxes” for “and gift taxes” in items 6861 and 6862.
+1974—Pub. L. 93–406, title II, § 1016(b)(5), Sept. 2, 1974, 88 Stat. 932, substituted “gift, and certain excise taxes” for “and gift taxes” in items 6861 and 6862.
 
-#### § 6861. Jeopardy assessments of income, estate, gift, and certain excise taxes
+#### § 6861. Jeopardy assessments of income, estate, gift, and certain excise taxes
 
 **(a) Authority for making**
 
@@ -189,7 +189,7 @@ The Secretary may abate the jeopardy assessment if he finds that jeopardy does n
 
 **(2)** For provision permitting immediate levy in case of jeopardy, see section 6331(a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 834; Pub. L. 93–406, title II, § 1016(a)(24), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976,90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 834; Pub. L. 93–406, title II, § 1016(a)(24), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976,90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -197,7 +197,7 @@ The Secretary may abate the jeopardy assessment if he finds that jeopardy does n
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1974—Pub. L. 93–406 substituted “, gift, and certain excise taxes” for “and gift taxes” in section catchline.
+1974—Pub. L. 93–406 substituted “, gift, and certain excise taxes” for “and gift taxes” in section catchline.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -205,7 +205,7 @@ The Secretary may abate the jeopardy assessment if he finds that jeopardy does n
 
 Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
-#### § 6862. Jeopardy assessment of taxes other than income, estate, gift, and certain excise taxes
+#### § 6862. Jeopardy assessment of taxes other than income, estate, gift, and certain excise taxes
 
 **(a) Immediate assessment**
 
@@ -215,7 +215,7 @@ If the Secretary believes that the collection of any tax (other than income tax,
 
 For provision permitting immediate levy in case of jeopardy, see section 6331(a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 836; Pub. L. 93–406, title II, § 1016(a)(25), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–222, title I, § 108(b)(1)(C), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–223, title I, § 101(f)(9), Apr. 2, 1980, 94 Stat. 253; Pub. L. 100–418, title I, § 1941(b)(2)(N), Aug. 23, 1988, 102 Stat. 1324.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 836; Pub. L. 93–406, title II, § 1016(a)(25), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–222, title I, § 108(b)(1)(C), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–223, title I, § 101(f)(9), Apr. 2, 1980, 94 Stat. 253; Pub. L. 100–418, title I, § 1941(b)(2)(N), Aug. 23, 1988, 102 Stat. 1324.)
 
 **Editorial Notes**
 
@@ -229,7 +229,7 @@ Pub. L. 96–222 substituted “the taxes imposed by chapters 41, 42, 43, and 44
 
 1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1974—Pub. L. 93–406 substituted “, gift, and certain excise taxes” for “, and gift taxes” in section catchline and “gift tax, and certain excise taxes)” for “and gift tax)” in subsec. (a).
+1974—Pub. L. 93–406 substituted “, gift, and certain excise taxes” for “, and gift taxes” in section catchline and “gift tax, and certain excise taxes)” for “and gift tax)” in subsec. (a).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -247,7 +247,7 @@ Amendment by Pub. L. 96–222 effective as if included in the provisions of the 
 
 Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
-#### § 6863. Stay of collection of jeopardy assessments
+#### § 6863. Stay of collection of jeopardy assessments
 
 **(a) Bond to stay collection**
 
@@ -299,7 +299,7 @@ If, but for the application of subparagraph (B), a sale would be prohibited by s
 
 With respect to any property described in paragraph (1), the exceptions provided by subsection (b)(3)(B) shall apply.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 836; Pub. L. 94–455, title XII, § 1204(c)(7)–(9), title XIX, § 1906(a)(38), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1830, 1834; Pub. L. 100–203, title X, § 10713(b)(2)(E), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–647, title VI, § 6245(a), Nov. 10, 1988, 102 Stat. 3750; Pub. L. 101–239, title VII, § 7822(d)(2), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 115–141, div. U, title IV, § 401(a)(321), Mar. 23, 2018, 132 Stat. 1199.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 836; Pub. L. 94–455, title XII, § 1204(c)(7)–(9), title XIX, § 1906(a)(38), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1830, 1834; Pub. L. 100–203, title X, § 10713(b)(2)(E), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–647, title VI, § 6245(a), Nov. 10, 1988, 102 Stat. 3750; Pub. L. 101–239, title VII, § 7822(d)(2), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 115–141, div. U, title IV, § 401(a)(321), Mar. 23, 2018, 132 Stat. 1199.)
 
 **Editorial Notes**
 
@@ -307,25 +307,25 @@ With respect to any property described in paragraph (1), the exceptions provided
 
 2018—Subsec. (a). Pub. L. 115–141 substituted “6852,” for “6852,,”.
 
-1989—Subsec. (b)(3)(A)(iii). Pub. L. 101–239 made technical correction to Pub. L. 100–203, § 10713(b)(2)(E)(iii), see 1987 Amendment note below.
+1989—Subsec. (b)(3)(A)(iii). Pub. L. 101–239 made technical correction to Pub. L. 100–203, § 10713(b)(2)(E)(iii), see 1987 Amendment note below.
 
 1988—Subsec. (b)(3)(C). Pub. L. 100–647 added subpar. (C).
 
-1987—Subsec. (a). Pub. L. 100–203, § 10713(b)(2)(E)(i), substituted “6851, 6852,” for “6851”.
+1987—Subsec. (a). Pub. L. 100–203, § 10713(b)(2)(E)(i), substituted “6851, 6852,” for “6851”.
 
-Subsec. (b)(3)(A). Pub. L. 100–203, § 10713(b)(2)(E)(ii), substituted “6851, 6852, or 6861” for “6851 or 6861”.
+Subsec. (b)(3)(A). Pub. L. 100–203, § 10713(b)(2)(E)(ii), substituted “6851, 6852, or 6861” for “6851 or 6861”.
 
-Subsec. (b)(3)(A)(iii). Pub. L. 100–203, § 10713(b)(2)(E)(iii), as amended by Pub. L. 101–239, substituted “6851(a), 6852(a), nor 6861(a)” for “6851(a) nor 6861(a)”.
+Subsec. (b)(3)(A)(iii). Pub. L. 100–203, § 10713(b)(2)(E)(iii), as amended by Pub. L. 101–239, substituted “6851(a), 6852(a), nor 6861(a)” for “6851(a) nor 6861(a)”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§ 1204(c)(7), 1906(b)(13)(A), inserted reference to section 6851, substituted “an assessment” for “a jeopardy assessment”, struck out “or his delegate” after “Secretary”, and substituted “such assessment” for “the jeopardy assessment”.
+1976—Subsec. (a). Pub. L. 94–455, §§ 1204(c)(7), 1906(b)(13)(A), inserted reference to section 6851, substituted “an assessment” for “a jeopardy assessment”, struck out “or his delegate” after “Secretary”, and substituted “such assessment” for “the jeopardy assessment”.
 
-Subsec. (b)(3)(A). Pub. L. 94–455, § 1204(c)(8), substituted “an assessment has been made under section 6851 or 6861,” for “a jeopardy assessment has been made under section 6861” in provisions preceding cl. (i), added cl. (i), redesignated former cl. (i) as (ii) and substituted “before the issuance of the notice of deficiency described in section 6851(b) or 6861(b), and the expiration of the period” for “if section 6861(b) is applicable, prior to the issuance of the notice of deficiency and the expiration of the time”, redesignated former cl. (ii) as (iii) and substituted “assessment), before the expiration” for “jeopardy assessment under section 6861), prior to the expiration” and “if neither sections 6851(a) nor 6861(a) were applicable” for “if section 6861(a) were not applicable”, and inserted provisions following cl. (iii).
+Subsec. (b)(3)(A). Pub. L. 94–455, § 1204(c)(8), substituted “an assessment has been made under section 6851 or 6861,” for “a jeopardy assessment has been made under section 6861” in provisions preceding cl. (i), added cl. (i), redesignated former cl. (i) as (ii) and substituted “before the issuance of the notice of deficiency described in section 6851(b) or 6861(b), and the expiration of the period” for “if section 6861(b) is applicable, prior to the issuance of the notice of deficiency and the expiration of the time”, redesignated former cl. (ii) as (iii) and substituted “assessment), before the expiration” for “jeopardy assessment under section 6861), prior to the expiration” and “if neither sections 6851(a) nor 6861(a) were applicable” for “if section 6861(a) were not applicable”, and inserted provisions following cl. (iii).
 
-Subsec. (b)(3)(B)(ii). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b)(3)(B)(ii). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b)(3)(C). Pub. L. 94–455, § 1906(a)(38), struck out subpar. (C) which had limited the applicability of subpars. (A) and (B) to jeopardy assessments made on or after Jan. 1, 1955, with respect to taxes imposed by this title, and with respect to taxes imposed by the Internal Revenue Code of 1939.
+Subsec. (b)(3)(C). Pub. L. 94–455, § 1906(a)(38), struck out subpar. (C) which had limited the applicability of subpars. (A) and (B) to jeopardy assessments made on or after Jan. 1, 1955, with respect to taxes imposed by this title, and with respect to taxes imposed by the Internal Revenue Code of 1939.
 
-Subsec. (c). Pub. L. 94–455, § 1204(c)(9), added subsec. (c).
+Subsec. (c). Pub. L. 94–455, § 1204(c)(9), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -335,7 +335,7 @@ Amendment by Pub. L. 101–239 effective as if included in the provision of the 
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title VI, § 6245(b), Nov. 10, 1988, 102 Stat. 3751, provided that: “The amendments made by this section [amending this section] shall take effect on the 90th day after the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title VI, § 6245(b), Nov. 10, 1988, 102 Stat. 3751, provided that: “The amendments made by this section [amending this section] shall take effect on the 90th day after the date of the enactment of this Act [Nov. 10, 1988].”
 
 **Effective Date of 1976 Amendment**
 
@@ -343,7 +343,7 @@ Amendment by section 1204(c)(7)–(9) of Pub. L. 94–455 applicable with respec
 
 Amendment by section 1906(a)(38), (b)(13)(A) of Pub. L. 94–455 effective on first day of first month which begins more than ninety days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
-#### § 6864. Termination of extended period for payment in case of carryback
+#### § 6864. Termination of extended period for payment in case of carryback
 
 For termination of extensions of time for payment of income tax granted to corporations expecting carrybacks in case of jeopardy, see section 6164(h).
 
@@ -351,7 +351,7 @@ For termination of extensions of time for payment of income tax granted to corpo
 
 ### PART III—SPECIAL RULES WITH RESPECT TO CERTAIN CASH
 
-#### § 6867. Presumptions where owner of large amount of cash is not identified
+#### § 6867. Presumptions where owner of large amount of cash is not identified
 
 **(a) General rule** If the individual who is in physical possession of cash in excess of $10,000 does not claim such cash—
 
@@ -397,7 +397,7 @@ The term “cash” includes any cash equivalent.
 
 **(B)** in the case of any other cash equivalent, at its fair market value.
 
-(Added Pub. L. 97–248, title III, § 330(a), Sept. 3, 1982, 96 Stat. 619; amended Pub. L. 100–647, title I, § 1001(a)(1), Nov. 10, 1988, 102 Stat. 3349.)
+(Added Pub. L. 97–248, title III, § 330(a), Sept. 3, 1982, 96 Stat. 619; amended Pub. L. 100–647, title I, § 1001(a)(1), Nov. 10, 1988, 102 Stat. 3349.)
 
 **Editorial Notes**
 
@@ -413,7 +413,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 **Effective Date**
 
-Pub. L. 97–248, title III, § 330(c), Sept. 3, 1982, 96 Stat. 620, provided that: “The amendments made by subsections (a) and (b) [enacting this section] shall take effect on the day after the date of the enactment of this Act [Sept. 3, 1982].”
+Pub. L. 97–248, title III, § 330(c), Sept. 3, 1982, 96 Stat. 620, provided that: “The amendments made by subsections (a) and (b) [enacting this section] shall take effect on the day after the date of the enactment of this Act [Sept. 3, 1982].”
 
 ## Subchapter B—Receiverships, Etc.
 
@@ -421,9 +421,9 @@ Pub. L. 97–248, title III, § 330(c), Sept. 3, 1982, 96 Stat. 620, provided 
 
 **Amendments**
 
-1980—Pub. L. 96–589, § 6(g)(3)(A), (B), Dec. 24, 1980, 94 Stat. 3410, substituted “Receiverships, Etc.” for “Bankruptcy and Receiverships” in subchapter heading, and “gift, and certain excise taxes in receivership proceedings, etc.” for “and gift taxes in bankruptcy and receivership proceedings” in item 6871.
+1980—Pub. L. 96–589, § 6(g)(3)(A), (B), Dec. 24, 1980, 94 Stat. 3410, substituted “Receiverships, Etc.” for “Bankruptcy and Receiverships” in subchapter heading, and “gift, and certain excise taxes in receivership proceedings, etc.” for “and gift taxes in bankruptcy and receivership proceedings” in item 6871.
 
-### § 6871. Claims for income, estate, gift, and certain excise taxes in receivership proceedings, etc.
+### § 6871. Claims for income, estate, gift, and certain excise taxes in receivership proceedings, etc.
 
 **(a) Immediate assessment in receivership proceedings**
 
@@ -443,7 +443,7 @@ may, despite the restrictions imposed by section 6213(a) on assessments, be imme
 
 **(2)** in the case of a receivership proceeding, no petition for any such redetermination shall be filed with the Tax Court after the appointment of the receiver.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 838; Pub. L. 85–866, title I, § 88, Sept. 2, 1958, 72 Stat. 1665; Pub. L. 94–455, title XIX, §§ 1906(b)(13)(A), (c)(1), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 96–589, § 6(g)(1), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 101–239, title VII, § 7841(d)(2), Dec. 19, 1989, 103 Stat. 2428.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 838; Pub. L. 85–866, title I, § 88, Sept. 2, 1958, 72 Stat. 1665; Pub. L. 94–455, title XIX, §§ 1906(b)(13)(A), (c)(1), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 96–589, § 6(g)(1), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 101–239, title VII, § 7841(d)(2), Dec. 19, 1989, 103 Stat. 2428.)
 
 **Editorial Notes**
 
@@ -455,13 +455,13 @@ may, despite the restrictions imposed by section 6213(a) on assessments, be imme
 
 Subsecs. (b), (c). Pub. L. 96–589 added subsec. (b), redesignated former subsec. (b) as (c), inserted reference to chapters 41, 42, 43, 44, and 45, and struck out reference to bankruptcy proceedings.
 
-1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Pub. L. 94–455, § 1906(c)(1), struck out “or Territory” after “any State”.
+Pub. L. 94–455, § 1906(c)(1), struck out “or Territory” after “any State”.
 
-1958—Subsec. (a). Pub. L. 85–866, § 88(a), substituted “the filing or (where approval is required by the Bankruptcy Act) the approval of a petition of, or the approval of a petition against, any taxpayer” for “the approval of a petition of, or against, any taxpayer”.
+1958—Subsec. (a). Pub. L. 85–866, § 88(a), substituted “the filing or (where approval is required by the Bankruptcy Act) the approval of a petition of, or the approval of a petition against, any taxpayer” for “the approval of a petition of, or against, any taxpayer”.
 
-Subsec. (b). Pub. L. 85–866, § 88(b), substituted “the filing or (where approval is required by the Bankruptcy Act) the approval of a petition of, or the approval of a petition against, any taxpayer” for “approval of the petition”.
+Subsec. (b). Pub. L. 85–866, § 88(b), substituted “the filing or (where approval is required by the Bankruptcy Act) the approval of a petition of, or the approval of a petition against, any taxpayer” for “approval of the petition”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -477,11 +477,11 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 Amendment by Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-### § 6872. Suspension of period on assessment
+### § 6872. Suspension of period on assessment
 
 If the regulations issued pursuant to section 6036 require the giving of notice by any fiduciary in any case under title 11 of the United States Code, or by a receiver in any other court proceeding, to the Secretary of his qualification as such, the running of the period of limitations on the making of assessments shall be suspended for the period from the date of the institution of the proceeding to a date 30 days after the date upon which the notice from the receiver or other fiduciary is received by the Secretary; but the suspension under this sentence shall in no case be for a period in excess of 2 years.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 838; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, § 6 (i)(12), Dec. 24, 1980, 94 Stat. 3411.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 838; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, § 6 (i)(12), Dec. 24, 1980, 94 Stat. 3411.)
 
 **Editorial Notes**
 
@@ -497,7 +497,7 @@ If the regulations issued pursuant to section 6036 require the giving of notice 
 
 Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
-### § 6873. Unpaid claims
+### § 6873. Unpaid claims
 
 **(a) General rule**
 
@@ -509,7 +509,7 @@ Any portion of a claim for taxes allowed in a receivership proceeding which is u
 
 **(2)** For extension of time for payment, see section 6161(c).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 838; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, § 6(g)(2), Dec. 24, 1980, 94 Stat. 3409.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 838; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, § 6(g)(2), Dec. 24, 1980, 94 Stat. 3409.)
 
 **Editorial Notes**
 

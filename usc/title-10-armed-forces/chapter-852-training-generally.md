@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 602 of this title as this chapter and items 6931 and 6932 as 8431 and 8432, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 602 of this title as this chapter and items 6931 and 6932 as 8431 and 8432, respectively.
 
-1998—Pub. L. 105–261, div. A, title V, § 522(b)(2), Oct. 17, 1998, 112 Stat. 2013, added item 6932.
+1998—Pub. L. 105–261, div. A, title V, § 522(b)(2), Oct. 17, 1998, 112 Stat. 2013, added item 6932.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program for Generative Artificial Intelligence and Spatial Computing for Performance Training and Proficiency Assessment**
 
-Pub. L. 119–60, div. A, title V, § 547, Dec. 18, 2025, 139 Stat. 874, provided that:
+Pub. L. 119–60, div. A, title V, § 547, Dec. 18, 2025, 139 Stat. 874, provided that:
 
 > **“(a) Establishment.—** Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of the Navy shall develop and implement a pilot program to optimize the use of generative artificial intelligence and spatial computing for immersive training and assessment.
 
@@ -43,7 +43,7 @@ Pub. L. 119–60, div. A, title V, § 547, Dec. 18, 2025, 139 Stat. 874, provi
 
 **Prohibition on Gender-Segregated Training at Marine Corps Recruit Depots**
 
-Pub. L. 116–92, div. A, title V, § 565, Dec. 20, 2019, 133 Stat. 1395, provided that:
+Pub. L. 116–92, div. A, title V, § 565, Dec. 20, 2019, 133 Stat. 1395, provided that:
 
 > **“(a) Parris Island.—**
 
@@ -59,9 +59,9 @@ Pub. L. 116–92, div. A, title V, § 565, Dec. 20, 2019, 133 Stat. 1395, prov
 
 **Annual Certifications Related to Ready, Relevant Learning Initiative of the Navy**
 
-Pub. L. 115–91, div. A, title V, § 545, Dec. 12, 2017, 131 Stat. 1396, which related to additional elements to be submitted in 2021 and 2022 along with the certification for implementation of the Ready, Relevant Learning initiative of the Navy, was repealed by Pub. L. 119–60, div. A, title V, § 544, Dec. 18, 2025, 139 Stat. 873.
+Pub. L. 115–91, div. A, title V, § 545, Dec. 12, 2017, 131 Stat. 1396, which related to additional elements to be submitted in 2021 and 2022 along with the certification for implementation of the Ready, Relevant Learning initiative of the Navy, was repealed by Pub. L. 119–60, div. A, title V, § 544, Dec. 18, 2025, 139 Stat. 873.
 
-Pub. L. 115–91, div. A, title V, § 545, Dec. 12, 2017, 131 Stat. 1396, provided that:
+Pub. L. 115–91, div. A, title V, § 545, Dec. 12, 2017, 131 Stat. 1396, provided that:
 
 > **“(a) Annual Certifications Required.—** Not later than March 1, 2018, and each year thereafter, the Secretary of the Navy shall submit to the Committees on Armed Services of the Senate and the House of Representatives a certification on the status of implementation of the Ready, Relevant Learning initiative of the Navy for each applicable enlisted rating.
 
@@ -81,7 +81,7 @@ Pub. L. 115–91, div. A, title V, § 545, Dec. 12, 2017, 131 Stat. 1396, prov
 
 > **“(B)** contracting actions contain sufficient specification detail to enable a low risk approach to receiving the deliverable end item or items on-budget, on-schedule, and with satisfactory performance.”
 
-## § 8431. Recruit basic training: separate housing for male and female recruits
+## § 8431. Recruit basic training: separate housing for male and female recruits
 
 **(a) Physically Separate Housing.—**
 
@@ -97,7 +97,7 @@ Pub. L. 115–91, div. A, title V, § 545, Dec. 12, 2017, 131 Stat. 1396, prov
 
 **(d) Basic Training Defined.—** In this section, the term “basic training” means the initial entry training programs of the Navy and Marine Corps that constitute the basic training of new recruits.
 
-(Added Pub. L. 105–261, div. A, title V, § 521(b)(1), Oct. 17, 1998, 112 Stat. 2010, § 6931; renumbered § 8431, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 105–261, div. A, title V, § 521(b)(1), Oct. 17, 1998, 112 Stat. 2010, § 6931; renumbered § 8431, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -113,43 +113,43 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Implementation**
 
-Pub. L. 105–261, div. A, title V, § 521(b)(3), Oct. 17, 1998, 112 Stat. 2011, provided that: “The Secretary of the Navy shall implement section 6931 [now 8431] of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
+Pub. L. 105–261, div. A, title V, § 521(b)(3), Oct. 17, 1998, 112 Stat. 2011, provided that: “The Secretary of the Navy shall implement section 6931 [now 8431] of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
 
-## § 8432. Recruit basic training: privacy
+## § 8432. Recruit basic training: privacy
 
 The Secretary of the Navy shall require that access by recruit division commanders and other training personnel to a living area in which Navy recruits are housed during basic training shall be limited after the end of the training day, other than in the case of an emergency or other exigent circumstance, to recruit division commanders and other training personnel who are of the same sex as the recruits housed in that living area or to superiors in the chain of command of those recruits who, if not of the same sex as the recruits housed in that living area, are accompanied by a member (other than a recruit) who is of the same sex as the recruits housed in that living area.
 
-(Added Pub. L. 105–261, div. A, title V, § 522(b)(1), Oct. 17, 1998, 112 Stat. 2012, § 6932; renumbered § 8432, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 105–261, div. A, title V, § 522(b)(1), Oct. 17, 1998, 112 Stat. 2012, § 6932; renumbered § 8432, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior sections 8441 and 8442 were repealed by Pub. L. 96–513, title II, § 207, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981.
+Prior sections 8441 and 8442 were repealed by Pub. L. 96–513, title II, § 207, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981.
 
 Section 8441, act Aug. 10, 1956, ch. 1041, 70A Stat. 521, provided that temporary appointments be made only in the Air Force without specification of component.
 
 Section 8442, act Aug. 10, 1956, ch. 1041, 70A Stat. 521, provided that a regular commissioned officer, or a reserve commissioned officer who is serving on active duty, may be appointed, based upon ability and efficiency with regard being given to seniority and age, in a temporary grade that is equal to or higher than his regular or reserve grade, without vacating any other grade held by him. See section 601 of this title.
 
-A prior section 8443, act Aug. 10, 1956, ch. 1041, 70A Stat. 522, related to grade of reserve commissioned officers ordered to active duty or serving on active duty, prior to repeal by Pub. L. 85–861, § 36B(25), Sept. 2, 1958, 72 Stat. 1571.
+A prior section 8443, act Aug. 10, 1956, ch. 1041, 70A Stat. 522, related to grade of reserve commissioned officers ordered to active duty or serving on active duty, prior to repeal by Pub. L. 85–861, § 36B(25), Sept. 2, 1958, 72 Stat. 1571.
 
-Prior sections 8444 and 8445 were repealed by Pub. L. 96–513, title II, § 207, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981.
+Prior sections 8444 and 8445 were repealed by Pub. L. 96–513, title II, § 207, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981.
 
-Section 8444, acts Aug. 10, 1956, ch. 1041, 70A Stat. 522; Sept. 2, 1958, Pub. L. 85–861, § 1(180)(A), 72 Stat. 1532, authorized President, in time of war or national emergency, to appoint any qualified person, including a person who is not a Regular or Reserve, in any temporary grade, provided for vacation of the appointment, and permitted, for purposes of determining grade, position on a promotion list, seniority in temporary grade, and eligibility for promotion, a medical or dental officer of the Air Force who is appointed in a temporary grade to be credited, when he enters active duty, with the constructive service authorized by section 8294(b) of this title. See section 603 of this title.
+Section 8444, acts Aug. 10, 1956, ch. 1041, 70A Stat. 522; Sept. 2, 1958, Pub. L. 85–861, § 1(180)(A), 72 Stat. 1532, authorized President, in time of war or national emergency, to appoint any qualified person, including a person who is not a Regular or Reserve, in any temporary grade, provided for vacation of the appointment, and permitted, for purposes of determining grade, position on a promotion list, seniority in temporary grade, and eligibility for promotion, a medical or dental officer of the Air Force who is appointed in a temporary grade to be credited, when he enters active duty, with the constructive service authorized by section 8294(b) of this title. See section 603 of this title.
 
-Section 8445, acts Aug. 10, 1956, ch. 1041, 70A Stat. 522; Sept. 2, 1958, Pub. L. 85–861, § 1(180)(B), 72 Stat. 1532, provided that in addition to temporary appointments authorized, in time of war or national emergency, a regular officer or a reserve warrant officer may be appointed in any temporary grade higher than his regular or reserve grade, without vacating that grade, or a person who holds no commissioned grade in Regular Air Force be appointed in any temporary commissioned grade. See section 603 of this title.
+Section 8445, acts Aug. 10, 1956, ch. 1041, 70A Stat. 522; Sept. 2, 1958, Pub. L. 85–861, § 1(180)(B), 72 Stat. 1532, provided that in addition to temporary appointments authorized, in time of war or national emergency, a regular officer or a reserve warrant officer may be appointed in any temporary grade higher than his regular or reserve grade, without vacating that grade, or a person who holds no commissioned grade in Regular Air Force be appointed in any temporary commissioned grade. See section 603 of this title.
 
 A prior section 8446 was renumbered section 9176 of this title.
 
-A prior section 8447, acts Aug. 10, 1956, ch. 1041, 70A Stat. 523; Sept. 2, 1958, Pub. L. 85–861, § 1(180)(D), 72 Stat. 1532; Sept. 28, 1971, Pub. L. 92–129, title VI, § 604, 85 Stat. 362, provided that temporary appointment of a person be made without reference to any other appointment that he may hold in the Air Force, temporary appointments of commissioned officers in the Regular Air Force be made by the President alone in grades below lieutenant colonel and by the President, by and with the consent of the Senate, in grades of lieutenant colonel and above, temporary appointments of commissioned officers in the reserve components of the Air Force be made by the President alone in grades below lieutenant colonel and by the President, by and with the consent of the Senate, in grades above major, and that the President may vacate at any time a temporary appointment in a commissioned grade, prior to repeal by Pub. L. 96–513, title II, § 207, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981. See section 601 of this title.
+A prior section 8447, acts Aug. 10, 1956, ch. 1041, 70A Stat. 523; Sept. 2, 1958, Pub. L. 85–861, § 1(180)(D), 72 Stat. 1532; Sept. 28, 1971, Pub. L. 92–129, title VI, § 604, 85 Stat. 362, provided that temporary appointment of a person be made without reference to any other appointment that he may hold in the Air Force, temporary appointments of commissioned officers in the Regular Air Force be made by the President alone in grades below lieutenant colonel and by the President, by and with the consent of the Senate, in grades of lieutenant colonel and above, temporary appointments of commissioned officers in the reserve components of the Air Force be made by the President alone in grades below lieutenant colonel and by the President, by and with the consent of the Senate, in grades above major, and that the President may vacate at any time a temporary appointment in a commissioned grade, prior to repeal by Pub. L. 96–513, title II, § 207, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981. See section 601 of this title.
 
-Prior sections 8448 and 8449 were repealed by Pub. L. 96–513, title II, § 208, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981.
+Prior sections 8448 and 8449 were repealed by Pub. L. 96–513, title II, § 208, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981.
 
-Section 8448, acts Aug. 10, 1956, ch. 1041, 70A Stat. 523; Aug. 8, 1958, Pub. L. 85–603, § 1(4), 72 Stat. 526; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(39), 72 Stat. 1566, authorized Secretary of the Air Force, upon his determination of need, to appoint qualified persons as warrant officers, with such appointments to continue at pleasure of Secretary, and such warrant officers entitled to count all periods of active duty under appointment as warrant or enlisted service for all purposes and to benefits of all laws and regulations applicable to retirement, pensions, and disability of members of Air Force on active duty. See section 602 of this title.
+Section 8448, acts Aug. 10, 1956, ch. 1041, 70A Stat. 523; Aug. 8, 1958, Pub. L. 85–603, § 1(4), 72 Stat. 526; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(39), 72 Stat. 1566, authorized Secretary of the Air Force, upon his determination of need, to appoint qualified persons as warrant officers, with such appointments to continue at pleasure of Secretary, and such warrant officers entitled to count all periods of active duty under appointment as warrant or enlisted service for all purposes and to benefits of all laws and regulations applicable to retirement, pensions, and disability of members of Air Force on active duty. See section 602 of this title.
 
 Section 8449, act Aug. 10, 1956, ch. 1041, 70A Stat. 523, provided that temporary promotions in warrant officer grades be governed by such regulations as the Secretary of the Air Force prescribe. See section 602 of this title.
 
-A prior section 8450, act Aug. 10, 1956, ch. 1041, 70A Stat. 523, provided for suspension of laws for promotion or mandatory retirement or separation during war or emergency of temporary warrant officers of Air Force, prior to repeal by Pub. L. 90–235, § 3(b)(1), Jan. 2, 1968, 81 Stat. 758.
+A prior section 8450, act Aug. 10, 1956, ch. 1041, 70A Stat. 523, provided for suspension of laws for promotion or mandatory retirement or separation during war or emergency of temporary warrant officers of Air Force, prior to repeal by Pub. L. 90–235, § 3(b)(1), Jan. 2, 1968, 81 Stat. 758.
 
 **Amendments**
 
@@ -163,4 +163,4 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Implementation**
 
-Pub. L. 105–261, div. A, title V, § 522(b)(3), Oct. 17, 1998, 112 Stat. 2013, provided that: “The Secretary of the Navy shall implement section 6932 [now 8432] of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
+Pub. L. 105–261, div. A, title V, § 522(b)(3), Oct. 17, 1998, 112 Stat. 2013, provided that: “The Secretary of the Navy shall implement section 6932 [now 8432] of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”

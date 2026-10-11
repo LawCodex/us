@@ -19,39 +19,39 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2010—Pub. L. 111–204, § 2(h)(6)(B)(i), July 22, 2010, 124 Stat. 2231, struck out subchapter VI heading “RECOVERY AUDITS” and items 3561 “Identification of errors made by executive agencies in payments to contractors and recovery of amounts erroneously paid”, 3562 “Disposition of recovered funds”, 3563 “Sources of recovery services”, 3564 “Management improvement programs”, 3565 “Relationship to authority of Inspectors General”, 3566 “Privacy protections”, and 3567 “Definition of executive agency”.
+2010—Pub. L. 111–204, § 2(h)(6)(B)(i), July 22, 2010, 124 Stat. 2231, struck out subchapter VI heading “RECOVERY AUDITS” and items 3561 “Identification of errors made by executive agencies in payments to contractors and recovery of amounts erroneously paid”, 3562 “Disposition of recovered funds”, 3563 “Sources of recovery services”, 3564 “Management improvement programs”, 3565 “Relationship to authority of Inspectors General”, 3566 “Privacy protections”, and 3567 “Definition of executive agency”.
 
-2008—Pub. L. 110–417, [div. A], title X, § 1061(c)(3), Oct. 14, 2008, 122 Stat. 4613, struck out item 3557 “Expedited action in protests for public-private competitions”, as added by Pub. L. 110–161.
+2008—Pub. L. 110–417, [div. A], title X, § 1061(c)(3), Oct. 14, 2008, 122 Stat. 4613, struck out item 3557 “Expedited action in protests for public-private competitions”, as added by Pub. L. 110–161.
 
-Pub. L. 110–181, div. A, title III, § 326(b)(2), Jan. 28, 2008, 122 Stat. 63, added item 3557 “Expedited action in protests of public-private competitions”.
+Pub. L. 110–181, div. A, title III, § 326(b)(2), Jan. 28, 2008, 122 Stat. 63, added item 3557 “Expedited action in protests of public-private competitions”.
 
-2007—Pub. L. 110–161, div. D, title VII, § 739(c)(1)(B)(ii), Dec. 26, 2007, 121 Stat. 2031, added item 3557.
+2007—Pub. L. 110–161, div. D, title VII, § 739(c)(1)(B)(ii), Dec. 26, 2007, 121 Stat. 2031, added item 3557.
 
-2001—Pub. L. 107–107, div. A, title VIII, § 831(a)(2), Dec. 28, 2001, 115 Stat. 1188, added subchapter VI heading and items 3561 to 3567.
+2001—Pub. L. 107–107, div. A, title VIII, § 831(a)(2), Dec. 28, 2001, 115 Stat. 1188, added subchapter VI heading and items 3561 to 3567.
 
-2000—Pub. L. 106–531, § 3(c), Nov. 22, 2000, 114 Stat. 2539, added item 3516.
+2000—Pub. L. 106–531, § 3(c), Nov. 22, 2000, 114 Stat. 2539, added item 3516.
 
-1996—Pub. L. 104–316, title I, § 115(f)(2), Oct. 19, 1996, 110 Stat. 3834, struck out item 3531 “Property returns”.
+1996—Pub. L. 104–316, title I, § 115(f)(2), Oct. 19, 1996, 110 Stat. 3834, struck out item 3531 “Property returns”.
 
-1990—Pub. L. 101–576, title III, §§ 301(b), 303(f), Nov. 15, 1990, 104 Stat. 2848, 2852, substituted “and other financial management reports and plans” for “systems” in item 3512 and added item 3515.
+1990—Pub. L. 101–576, title III, §§ 301(b), 303(f), Nov. 15, 1990, 104 Stat. 2848, 2852, substituted “and other financial management reports and plans” for “systems” in item 3512 and added item 3515.
 
-1984—Pub. L. 98–369, div. B, title VII, § 2741(b), July 18, 1984, 98 Stat. 1203, added subchapter V heading and items 3551 to 3556.
+1984—Pub. L. 98–369, div. B, title VII, § 2741(b), July 18, 1984, 98 Stat. 1203, added subchapter V heading and items 3551 to 3556.
 
 ## SUBCHAPTER I—GENERAL
 
-### § 3501. Definition
+### § 3501. Definition
 
 In this chapter, “executive agency” does not include (except in section 3513) a corporation, agency, or instrumentality subject to chapter 91 of this title.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959; Pub. L. 107–107, div. A, title VIII, § 831(c), Dec. 28, 2001, 115 Stat. 1189; Pub. L. 111–204, § 2(h)(6)(B)(ii), July 22, 2010, 124 Stat. 2231.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959; Pub. L. 107–107, div. A, title VIII, § 831(c), Dec. 28, 2001, 115 Stat. 1189; Pub. L. 111–204, § 2(h)(6)(B)(ii), July 22, 2010, 124 Stat. 2231.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3501 | 31:65a. | Sept. 12, 1950, ch. 946, § 118, 64 Stat. 837; Aug. 1, 1956, ch. 814, § 2(c), 70 Stat. 783. |
+| 3501 | 31:65a. | Sept. 12, 1950, ch. 946, § 118, 64 Stat. 837; Aug. 1, 1956, ch. 814, § 2(c), 70 Stat. 783. |
 
-The words “As used . . . the term” are omitted as surplus. The words “means any executive department or independent establishment in the executive branch of the Government” are omitted because of section 102 of the revised title. The reference to 31:66d is unnecessary because the defined term is not used in the restatement of 31:66d in section 3514 of the revised title. The text of 31:65a(words after 4th comma) is omitted as unnecessary because of 39:410.
+The words “As used . . . the term” are omitted as surplus. The words “means any executive department or independent establishment in the executive branch of the Government” are omitted because of section 102 of the revised title. The reference to 31:66d is unnecessary because the defined term is not used in the restatement of 31:66d in section 3514 of the revised title. The text of 31:65a(words after 4th comma) is omitted as unnecessary because of 39:410.
 
 **Editorial Notes**
 
@@ -65,15 +65,15 @@ The words “As used . . . the term” are omitted as surplus. The words “
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–289, § 1, Nov. 7, 2002, 116 Stat. 2049, provided that: “This Act [amending section 3515 of this title and enacting provisions set out as a note under section 3515 of this title] may be cited as the ‘Accountability of Tax Dollars Act of 2002’.”
+Pub. L. 107–289, § 1, Nov. 7, 2002, 116 Stat. 2049, provided that: “This Act [amending section 3515 of this title and enacting provisions set out as a note under section 3515 of this title] may be cited as the ‘Accountability of Tax Dollars Act of 2002’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–531, § 1, Nov. 22, 2000, 114 Stat. 2537, provided that: “This Act [enacting section 3516 of this title, amending sections 1116, 3515, and 3521 of this title, and enacting provisions set out as notes under sections 1116 and 3516 of this title] may be cited as the ‘Reports Consolidation Act of 2000’.”
+Pub. L. 106–531, § 1, Nov. 22, 2000, 114 Stat. 2537, provided that: “This Act [enacting section 3516 of this title, amending sections 1116, 3515, and 3521 of this title, and enacting provisions set out as notes under sections 1116 and 3516 of this title] may be cited as the ‘Reports Consolidation Act of 2000’.”
 
 ## SUBCHAPTER II—ACCOUNTING REQUIREMENTS, SYSTEMS, AND INFORMATION
 
-### § 3511. Prescribing accounting requirements and developing accounting systems
+### § 3511. Prescribing accounting requirements and developing accounting systems
 
 **(a)** The Comptroller General shall prescribe the accounting principles, standards, and requirements that the head of each executive agency shall observe. Before prescribing the principles, standards, and requirements, the Comptroller General shall consult with the Secretary of the Treasury and the President on their accounting, financial reporting, and budgetary needs, and shall consider the needs of the heads of the other executive agencies.
 
@@ -99,15 +99,15 @@ Pub. L. 106–531, § 1, Nov. 22, 2000, 114 Stat. 2537, provided that: “This
 
 **(d)** The Comptroller General, the Secretary, and the President shall conduct a continuous program for improving accounting and financial reporting in the Government.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959; Pub. L. 107–217, § 3(h)(5), Aug. 21, 2002, 116 Stat. 1299.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959; Pub. L. 107–217, § 3(h)(5), Aug. 21, 2002, 116 Stat. 1299.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3511(a) | 31:66(a)(1st sentence words before last comma). | Sept. 12, 1950, ch. 946, §§ 111(f), 112(a), 64 Stat. 835; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+| 3511(a) | 31:66(a)(1st sentence words before last comma). | Sept. 12, 1950, ch. 946, §§ 111(f), 112(a), 64 Stat. 835; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
 | 3511(b) | 31:66(a)(1st sentence words after last comma, 2d sentence). |  |
-| 3511(c) | 31:49 | June 10, 1921, ch. 18, § 309, 42 Stat. 25. |
+| 3511(c) | 31:49 | June 10, 1921, ch. 18, § 309, 42 Stat. 25. |
 |  | 31:66(a)(3d, last sentences). |  |
 | 3511(d) | 31:65(f). |  |
 
@@ -129,9 +129,9 @@ Subsection (c)(2) is substituted for 31:49 and the words “and, to the extent h
 
 **Adoption of Capital Accounting Standards**
 
-Pub. L. 101–576, title III, § 307, Nov. 15, 1990, 104 Stat. 2855, provided that: “No capital accounting standard or principle, including any human capital standard or principle, shall be adopted for use in an executive department or agency until such standard has been reported to the Congress and a period of 45 days of continuous session of the Congress has expired.”
+Pub. L. 101–576, title III, § 307, Nov. 15, 1990, 104 Stat. 2855, provided that: “No capital accounting standard or principle, including any human capital standard or principle, shall be adopted for use in an executive department or agency until such standard has been reported to the Congress and a period of 45 days of continuous session of the Congress has expired.”
 
-### § 3512. Executive agency accounting and other financial management reports and plans
+### § 3512. Executive agency accounting and other financial management reports and plans
 
 **(a)**
 
@@ -155,13 +155,13 @@ Pub. L. 101–576, title III, § 307, Nov. 15, 1990, 104 Stat. 2855, provided 
 
 **(D)** a summary of reports on internal accounting and administrative control systems submitted to the President and the Congress under the amendments made by the Federal Managers’ Financial Integrity Act of 1982 (Public Law 97–255);
 
-**(E)** a listing of agencies whose financial management systems do not comply substantially with the requirements of Section 1
+**(E)** a listing of agencies whose financial management systems do not comply substantially with the requirements of Section 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
-3(a) 2
+3(a) 2
 
-<sup>2</sup>  So in original. Probably should be followed by “of”. See References in Text note below.
+<sup>2</sup> So in original. Probably should be followed by “of”. See References in Text note below.
 
 the Federal Financial Management Improvement Act of 1996, and a summary statement of the efforts underway to remedy the noncompliance; and
 
@@ -263,7 +263,7 @@ the Federal Financial Management Improvement Act of 1996, and a summary statemen
 
 **(g)** The Comptroller General shall review the accounting systems of each executive agency. The results of a review shall be available to the head of the executive agency, the Secretary, and the President. The Comptroller General shall report to Congress on a review when the Comptroller General considers it proper.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959; Pub. L. 97–452, § 1(12), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 101–576, title III, § 301(a), Nov. 15, 1990, 104 Stat. 2847; Pub. L. 103–272, § 4(f)(1)(J), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, § 101(f) [title VIII, § 805(b)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392; Pub. L. 113–101, § 4, May 9, 2014, 128 Stat. 1153; Pub. L. 116–283, div. H, title XCVI, § 9601(c)(2)(E), Jan. 1, 2021, 134 Stat. 4828.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959; Pub. L. 97–452, § 1(12), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 101–576, title III, § 301(a), Nov. 15, 1990, 104 Stat. 2847; Pub. L. 103–272, § 4(f)(1)(J), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, § 101(f) [title VIII, § 805(b)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392; Pub. L. 113–101, § 4, May 9, 2014, 128 Stat. 1153; Pub. L. 116–283, div. H, title XCVI, § 9601(c)(2)(E), Jan. 1, 2021, 134 Stat. 4828.)
 
 **Historical and Revision Notes**
 
@@ -271,9 +271,9 @@ the Federal Financial Management Improvement Act of 1996, and a summary statemen
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3512(a) | 31:66a(a). | Sept. 12, 1950, ch. 946, §§ 112(c), 113(a), 64 Stat. 835; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
-| 3512(b) | 31:66a(c). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(c); added Aug. 1, 1956, ch. 814, § 2(b), 70 Stat. 782. |
-| 3512(c) | 31:66(b)(less Treasury Department). | Sept. 12, 1950, ch. 946, §§ 112(b)(less Treasury Department), 113(b), 64 Stat. 835, 836. |
+| 3512(a) | 31:66a(a). | Sept. 12, 1950, ch. 946, §§ 112(c), 113(a), 64 Stat. 835; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+| 3512(b) | 31:66a(c). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(c); added Aug. 1, 1956, ch. 814, § 2(b), 70 Stat. 782. |
+| 3512(c) | 31:66(b)(less Treasury Department). | Sept. 12, 1950, ch. 946, §§ 112(b)(less Treasury Department), 113(b), 64 Stat. 835, 836. |
 |  | 31:66a(b). |  |
 | 3512(d) | 31:66(c). |  |
 
@@ -295,10 +295,10 @@ In subsection (d), the word “concerned” is omitted as surplus. The word “P
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3512(b) | 31 App.:66a(d)(1). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(d); added Sept. 8, 1982, Pub. L. 97–255, § 2, 96 Stat. 814. |
+| 3512(b) | 31 App.:66a(d)(1). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(d); added Sept. 8, 1982, Pub. L. 97–255, § 2, 96 Stat. 814. |
 | 3512(c)(1) | 31 App.:66a(d)(2). |  |
 | 3512(c)(2) (A) | 31 App.:66a(d)(3), (4). |  |
-| 3512(c)(2) (B) | 31 App.:66a(b)(last sentence). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8, 1982, Pub. L. 97–255, § 4, 96 Stat. 815. |
+| 3512(c)(2) (B) | 31 App.:66a(b)(last sentence). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8, 1982, Pub. L. 97–255, § 4, 96 Stat. 815. |
 | 3512(c)(3) | 31 App.:66a(d)(5). |  |
 
 In subsections (b)(1) and (c)(1)(A), the words “the requirements of” are omitted as surplus.
@@ -315,9 +315,9 @@ In subsection (c)(3)(A), the words “provision of” are omitted as surplus.
 
 **References in Text**
 
-The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(2)(D), is Pub. L. 97–255, Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as this section. Provisions relating to reports on internal accounting and administrative control systems are restated in subsec. (d)(2) and (3) of this section.
+The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(2)(D), is Pub. L. 97–255, Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as this section. Provisions relating to reports on internal accounting and administrative control systems are restated in subsec. (d)(2) and (3) of this section.
 
-The Federal Financial Management Improvement Act of 1996, referred to in subsec. (a)(2)(E), is Pub. L. 104–208, div. A, title I, § 101(f) [title VIII], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, which is set out as a note under this section. Section 3(a) of the act probably means section 803(a) of the act, which contains requirements relating to financial management systems.
+The Federal Financial Management Improvement Act of 1996, referred to in subsec. (a)(2)(E), is Pub. L. 104–208, div. A, title I, § 101(f) [title VIII], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, which is set out as a note under this section. Section 3(a) of the act probably means section 803(a) of the act, which contains requirements relating to financial management systems.
 
 The date of the enactment of this subsection, referred to in subsec. (a)(4)(A), is the date of enactment of Pub. L. 101–576, which added subsec. (a) and was approved Nov. 15, 1990.
 
@@ -329,9 +329,9 @@ The date of the enactment of this subsection, referred to in subsec. (a)(4)(A), 
 
 1996—Subsec. (a)(2)(E), (F). Pub. L. 104–208 added subpar. (E) and redesignated former subpar. (E) as (F).
 
-1994—Subsec. (c)(1). Pub. L. 103–272, § 4(f)(1)(J)(i), substituted “subsection (b)(3)” for “subsection (a)(3)” in introductory provisions.
+1994—Subsec. (c)(1). Pub. L. 103–272, § 4(f)(1)(J)(i), substituted “subsection (b)(3)” for “subsection (a)(3)” in introductory provisions.
 
-Subsec. (d)(1), (2). Pub. L. 103–272, § 4(f)(1)(J)(ii), substituted “subsection (c)” for “subsection (b)” wherever appearing.
+Subsec. (d)(1), (2). Pub. L. 103–272, § 4(f)(1)(J)(ii), substituted “subsection (c)” for “subsection (b)” wherever appearing.
 
 1990—Pub. L. 101–576 substituted “and other financial management reports and plans” for “systems” in section catchline, added subsec. (a), and redesignated former subsecs. (a) to (f) as (b) to (g), respectively.
 
@@ -353,11 +353,11 @@ This section is popularly known as the “Federal Managers Financial Integrity A
 
 **Termination of Reporting Requirements**
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit statements and reports to Congress under subsection (d)(3) of this section is listed on page 151), see section 3003 of Pub. L. 104–66, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit statements and reports to Congress under subsection (d)(3) of this section is listed on page 151), see section 3003 of Pub. L. 104–66, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 **Federal Financial Management Improvement**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VIII], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, as amended by Pub. L. 117–286, § 4(b)(54), Dec. 27, 2022, 136 Stat. 4349, provided that:
+Pub. L. 104–208, div. A, title I, § 101(f) [title VIII], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, as amended by Pub. L. 117–286, § 4(b)(54), Dec. 27, 2022, 136 Stat. 4349, provided that:
 
 > **“SEC. 801. SHORT TITLE[.]**
 
@@ -519,11 +519,11 @@ Pub. L. 104–208, div. A, title I, § 101(f) [title VIII], Sept. 30, 1996, 11
 
 > **“(a) [Amended section 4001 of Pub. L. 104–106, set out as a Short Title of 1996 Act note under section 101 of Title 41, Public Contracts.]**
 
-> **“(b) [Amended section 5001 of Pub. L. 104–106, div. E, Feb. 10, 1996, 110 Stat. 679, subsequently repealed by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304.]**
+> **“(b) [Amended section 5001 of Pub. L. 104–106, div. E, Feb. 10, 1996, 110 Stat. 679, subsequently repealed by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304.]**
 
 > **“(c)** Any reference in any law, regulation, document, record, or other paper of the United States to the Federal Acquisition Reform Act of 1996 or to the Information Technology Management Reform Act of 1996 shall be considered to be a reference to the Clinger-Cohen Act of 1996 [see Short Title of 1996 Act note set out under section 101 of Title 41].”
 
-### § 3513. Financial reporting and accounting system
+### § 3513. Financial reporting and accounting system
 
 **(a)** The Secretary of the Treasury shall prepare reports that will inform the President, Congress, and the public on the financial operations of the United States Government. The reports shall include financial information the President requires. The head of each executive agency shall give the Secretary reports and information on the financial conditions and operations of the agency the Secretary requires to prepare the reports.
 
@@ -545,8 +545,8 @@ Pub. L. 104–208, div. A, title I, § 101(f) [title VIII], Sept. 30, 1996, 11
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3513(a) | 31:66b(a). | Sept. 12, 1950, ch. 946, § 114(a), 64 Stat. 836; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
-| 3513(b) | 31:66b(b). | Sept. 12, 1950, ch. 946, §§ 112(b)(related to Treasury Department), 114(b), (c), 64 Stat. 835, 836. |
+| 3513(a) | 31:66b(a). | Sept. 12, 1950, ch. 946, § 114(a), 64 Stat. 836; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. |
+| 3513(b) | 31:66b(b). | Sept. 12, 1950, ch. 946, §§ 112(b)(related to Treasury Department), 114(b), (c), 64 Stat. 835, 836. |
 | 3513(c) | 31:66(b)(related to Treasury Department). |  |
 |  | 31:66b(c). |  |
 
@@ -556,7 +556,7 @@ In subsection (b)(2), the words “install, revise, or eliminate”, “the seve
 
 In subsection (c), before clause (1), the text of 31:66b(c) is omitted as unnecessary. The words “Comptroller General” are substituted for “General Accounting Office” for consistency. In clause (1), the word “Secretary” is substituted for “Treasury Department” in 31:66(b)(related to Treasury Department) for consistency. The word “central” is omitted as surplus. In clause (2), the word “considers” is substituted for “deemed” as being more precise. The words “under section 3511 of this title” are substituted for “by him” for clarity.
 
-### § 3514. Discontinuing certain accounts maintained by the Comptroller General
+### § 3514. Discontinuing certain accounts maintained by the Comptroller General
 
 The Comptroller General may discontinue an agency appropriation, expenditure, limitation, receipt, or personal ledger account maintained by the Comptroller General when the Comptroller General believes that the accounting system and internal controls of the agency will allow the Comptroller General to carry out the functions related to the account.
 
@@ -566,17 +566,17 @@ The Comptroller General may discontinue an agency appropriation, expenditure, li
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3514 | 31:66d. | Sept. 12, 1950, ch. 946, § 116, 64 Stat. 837. |
+| 3514 | 31:66d. | Sept. 12, 1950, ch. 946, § 116, 64 Stat. 837. |
 
 The words “Comptroller General” are substituted for “General Accounting Office” for consistency. The word “agency” is substituted for “executive, legislative, and judicial agencies” because of sections 101, 102, and 3501 of the revised title. The word “properly” is omitted as surplus.
 
-### § 3515. Financial statements of agencies
+### § 3515. Financial statements of agencies
 
 **(a)**
 
-**(1)**  1
+**(1)** 1
 
-<sup>1</sup>  So in original. No par. (2) has been enacted
+<sup>1</sup> So in original. No par. (2) has been enacted
 
 Except as provided in subsection (e), not later than March 1 of 2003 and each year thereafter, the head of each covered executive agency shall prepare and submit to the Congress and the Director of the Office of Management and Budget an audited financial statement for the preceding fiscal year, covering all accounts and associated activities of each office, bureau, and activity of the agency.
 
@@ -606,23 +606,23 @@ Except as provided in subsection (e), not later than March 1 of 2003 and each ye
 
 **(2)** does not include a corporation, agency, or instrumentality subject to chapter 91 of this title.
 
-(Added Pub. L. 101–576, title III, § 303(a)(1), Nov. 15, 1990, 104 Stat. 2849; amended Pub. L. 103–356, title IV, § 405(a), Oct. 13, 1994, 108 Stat. 3415; Pub. L. 106–531, § 4(a), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 107–289, § 2(a), Nov. 7, 2002, 116 Stat. 2049.)
+(Added Pub. L. 101–576, title III, § 303(a)(1), Nov. 15, 1990, 104 Stat. 2849; amended Pub. L. 103–356, title IV, § 405(a), Oct. 13, 1994, 108 Stat. 3415; Pub. L. 106–531, § 4(a), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 107–289, § 2(a), Nov. 7, 2002, 116 Stat. 2049.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–289, § 2(a)(1), substituted “(1) Except as provided in subsection (e), not later” for “Not later”, “2003” for “1997”, and “each covered executive agency” for “each executive agency identified in section 901(b) of this title”.
+2002—Subsec. (a). Pub. L. 107–289, § 2(a)(1), substituted “(1) Except as provided in subsection (e), not later” for “Not later”, “2003” for “1997”, and “each covered executive agency” for “each executive agency identified in section 901(b) of this title”.
 
-Subsec. (b). Pub. L. 107–289, § 2(a)(2), substituted “a covered executive agency” for “an executive agency” in introductory provisions.
+Subsec. (b). Pub. L. 107–289, § 2(a)(2), substituted “a covered executive agency” for “an executive agency” in introductory provisions.
 
-Subsecs. (c), (d). Pub. L. 107–289, § 2(a)(3), substituted “covered executive agencies” for “executive agencies”.
+Subsecs. (c), (d). Pub. L. 107–289, § 2(a)(3), substituted “covered executive agencies” for “executive agencies”.
 
-Subsecs. (e), (f). Pub. L. 107–289, § 2(a)(4), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 107–289, § 2(a)(4), added subsecs. (e) and (f).
 
-2000—Subsec. (a). Pub. L. 106–531, § 4(a)(1), inserted “Congress and the” before “Director”.
+2000—Subsec. (a). Pub. L. 106–531, § 4(a)(1), inserted “Congress and the” before “Director”.
 
-Subsecs. (e) to (h). Pub. L. 106–531, § 4(a)(2), struck out subsecs. (e) to (h) which read as follows:
+Subsecs. (e) to (h). Pub. L. 106–531, § 4(a)(2), struck out subsecs. (e) to (h) which read as follows:
 
 “(e) The Director of the Office of Management and Budget may waive the application of all or part of subsection (a) for financial statements required for fiscal years 1996 and 1997.
 
@@ -648,11 +648,11 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 **Effective Date; Waiver of Requirement; Resolution Approving Designation of Agencies**
 
-Pub. L. 101–576, title III, § 303(a)(2), (3), (b), Nov. 15, 1990, 104 Stat. 2849, 2850, provided that section 3515(e) of this title, as added by section 303(a)(1) of Pub. L. 101–576, would take effect on date on which a resolution was passed by Congress and approved by the President, provided that Director of Office of Management and Budget could, for fiscal year 1991, waive application of section 3515(a) of this title with respect to any revolving fund, trust fund, or account of an executive agency, and described and specified procedures for passage of the resolution.
+Pub. L. 101–576, title III, § 303(a)(2), (3), (b), Nov. 15, 1990, 104 Stat. 2849, 2850, provided that section 3515(e) of this title, as added by section 303(a)(1) of Pub. L. 101–576, would take effect on date on which a resolution was passed by Congress and approved by the President, provided that Director of Office of Management and Budget could, for fiscal year 1991, waive application of section 3515(a) of this title with respect to any revolving fund, trust fund, or account of an executive agency, and described and specified procedures for passage of the resolution.
 
 **Waiver Authority**
 
-Pub. L. 107–289, § 2(b), Nov. 7, 2002, 116 Stat. 2050, provided that:
+Pub. L. 107–289, § 2(b), Nov. 7, 2002, 116 Stat. 2050, provided that:
 
 > **“(1) In general.—** The Director of the Office of Management and Budget may waive the application of all or part of section 3515(a) of title 31, United States Code, as amended by this section, for financial statements required for the first 2 fiscal years beginning after the date of the enactment of this Act [Nov. 7, 2002] for an agency described in paragraph (2) of this subsection.
 
@@ -660,13 +660,13 @@ Pub. L. 107–289, § 2(b), Nov. 7, 2002, 116 Stat. 2050, provided that:
 
 **Report on Substantial Commercial Functions**
 
-Pub. L. 101–576, title III, § 303(c), Nov. 15, 1990, 104 Stat. 2851, directed Director of Office of Management and Budget, not later than 180 days after Nov. 15, 1990, to determine and report to Congress on which executive agencies or parts thereof perform substantial commercial functions for which financial statements can be prepared practicably under 31 U.S.C. 3515.
+Pub. L. 101–576, title III, § 303(c), Nov. 15, 1990, 104 Stat. 2851, directed Director of Office of Management and Budget, not later than 180 days after Nov. 15, 1990, to determine and report to Congress on which executive agencies or parts thereof perform substantial commercial functions for which financial statements can be prepared practicably under 31 U.S.C. 3515.
 
 **Pilot Project for Preparation and Audit of Financial Statements; Report to Congress**
 
-Pub. L. 101–576, title III, § 303(d), (e), Nov. 15, 1990, 104 Stat. 2851, 2852, directed specific departments, administrations, and services by Mar. 31 of 1991, 1992, and 1993 to prepare and submit to Director of Office of Management and Budget financial statements for the preceding fiscal year for the accounts of all of the offices, bureaus, and activities, required each financial statement to be audited in accordance with 31 U.S.C. section 3521(e), (f), (g), and (h), and directed Director of Office of Management and Budget, not later than June 30, 1993, to report to Congress on the financial statements including an analysis of the accuracy of the data, the difficulties encountered in preparing the data, the benefits derived from preparation of the financial statements, and the cost associated with preparing and auditing the financial statements.
+Pub. L. 101–576, title III, § 303(d), (e), Nov. 15, 1990, 104 Stat. 2851, 2852, directed specific departments, administrations, and services by Mar. 31 of 1991, 1992, and 1993 to prepare and submit to Director of Office of Management and Budget financial statements for the preceding fiscal year for the accounts of all of the offices, bureaus, and activities, required each financial statement to be audited in accordance with 31 U.S.C. section 3521(e), (f), (g), and (h), and directed Director of Office of Management and Budget, not later than June 30, 1993, to report to Congress on the financial statements including an analysis of the accuracy of the data, the difficulties encountered in preparing the data, the benefits derived from preparation of the financial statements, and the cost associated with preparing and auditing the financial statements.
 
-### § 3516. Reports consolidation
+### § 3516. Reports consolidation
 
 **(a)**
 
@@ -678,9 +678,9 @@ Pub. L. 101–576, title III, § 303(d), (e), Nov. 15, 1990, 104 Stat. 2851, 2
 
 **(B)** The following agency-specific reports:
 
-**(i)** The biennial financial management improvement plan by the Secretary of Defense under section 2222 1
+**(i)** The biennial financial management improvement plan by the Secretary of Defense under section 2222 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 10.
 
@@ -712,13 +712,13 @@ of title 10.
 
 **(B)** permit assessment, by the Congress and by managers within the Department, of the Department’s performance in executing such strategy.
 
-(Added Pub. L. 106–531, § 3(a), Nov. 22, 2000, 114 Stat. 2537; amended Pub. L. 108–330, § 4(a), Oct. 16, 2004, 118 Stat. 1277.)
+(Added Pub. L. 106–531, § 3(a), Nov. 22, 2000, 114 Stat. 2537; amended Pub. L. 108–330, § 4(a), Oct. 16, 2004, 118 Stat. 1277.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2222 of title 10, referred to in subsec. (a)(2)(B)(i), was repealed by Pub. L. 107–314, div. A, title X, § 1004(h)(1), Dec. 2, 2002, 116 Stat. 2631.
+Section 2222 of title 10, referred to in subsec. (a)(2)(B)(i), was repealed by Pub. L. 107–314, div. A, title X, § 1004(h)(1), Dec. 2, 2002, 116 Stat. 2631.
 
 Section 874(b)(2) of the Homeland Security Act of 2002, referred to in subsec. (f)(3)(A), is classified to section 454(b)(2) of Title 6, Domestic Security.
 
@@ -766,7 +766,7 @@ Pub. L. 112–217, Dec. 20, 2012, 126 Stat. 1591, provided that:
 
 **Audit Opinion and Internal Controls by Secretary of Homeland Security**
 
-Pub. L. 108–330, § 4(b), (c), Oct. 16, 2004, 118 Stat. 1277, provided that:
+Pub. L. 108–330, § 4(b), (c), Oct. 16, 2004, 118 Stat. 1277, provided that:
 
 > **“(b) Implementation of Audit Opinion Requirement.—** The Secretary of Homeland Security shall include audit opinions in performance and accountability reports under section 3516(f) of title 31, United States Code, as amended by subsection (a), only for fiscal years after fiscal year 2005.
 
@@ -774,7 +774,7 @@ Pub. L. 108–330, § 4(b), (c), Oct. 16, 2004, 118 Stat. 1277, provided that:
 
 **Findings and Purposes**
 
-Pub. L. 106–531, § 2, Nov. 22, 2000, 114 Stat. 2537, provided that:
+Pub. L. 106–531, § 2, Nov. 22, 2000, 114 Stat. 2537, provided that:
 
 > **“(a) Findings.—** Congress finds that—
 
@@ -796,11 +796,11 @@ Pub. L. 106–531, § 2, Nov. 22, 2000, 114 Stat. 2537, provided that:
 
 **Special Rule for Fiscal Years 2000 and 2001**
 
-Pub. L. 106–531, § 3(b), Nov. 22, 2000, 114 Stat. 2538, provided that: “Notwithstanding paragraph (1) of section 3516(a) of title 31, United States Code (as added by subsection (a) of this section), the head of an executive agency may submit a consolidated report under such paragraph not later than 180 days after the end of that agency’s fiscal year, with respect to fiscal years 2000 and 2001.”
+Pub. L. 106–531, § 3(b), Nov. 22, 2000, 114 Stat. 2538, provided that: “Notwithstanding paragraph (1) of section 3516(a) of title 31, United States Code (as added by subsection (a) of this section), the head of an executive agency may submit a consolidated report under such paragraph not later than 180 days after the end of that agency’s fiscal year, with respect to fiscal years 2000 and 2001.”
 
 ## SUBCHAPTER III—AUDITING AND SETTLING ACCOUNTS
 
-### § 3521. Audits by agencies
+### § 3521. Audits by agencies
 
 **(a)** Each account of an agency shall be audited administratively before being submitted to the Comptroller General. The head of each agency shall prescribe regulations for conducting the audit and designate a place at which the audit is to be conducted. However, a disbursing official of an executive agency may not administratively audit vouchers for which the official is responsible. With the consent of the Comptroller General, the head of the agency may waive any part of an audit.
 
@@ -848,23 +848,23 @@ An audit the Comptroller General performs under this subsection shall be in lieu
 
 **(4)** Any reimbursement under paragraph (1) or (2) shall be deposited to a special account in the Treasury and shall be available to the Government Accountability Office for such purposes and in such amounts as are specified in annual appropriations Acts.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 961; Pub. L. 101–576, title III, § 304(a), Nov. 15, 1990, 104 Stat. 2852; Pub. L. 103–356, title IV, § 405(b), Oct. 13, 1994, 108 Stat. 3416; Pub. L. 104–208, div. A, title I, § 101(f) [title VIII, § 805(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392; Pub. L. 106–531, § 4(b), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 110–323, § 6(a), Sept. 22, 2008, 122 Stat. 3547; Pub. L. 117–286, § 4(b)(55), Dec. 27, 2022, 136 Stat. 4349.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 961; Pub. L. 101–576, title III, § 304(a), Nov. 15, 1990, 104 Stat. 2852; Pub. L. 103–356, title IV, § 405(b), Oct. 13, 1994, 108 Stat. 3416; Pub. L. 104–208, div. A, title I, § 101(f) [title VIII, § 805(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392; Pub. L. 106–531, § 4(b), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 110–323, § 6(a), Sept. 22, 2008, 122 Stat. 3547; Pub. L. 117–286, § 4(b)(55), Dec. 27, 2022, 136 Stat. 4349.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3521(a) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
-|  | 31:65b. | Sept. 12, 1950, ch. 946, § 119, 64 Stat. 838. |
-|  | 31:75, 41:21. | July 31, 1894, ch. 174, § 22, 28 Stat. 210. |
-|  | 31:82. | Aug. 23, 1912, ch. 350, § 1(last par. under heading “Office of the Comptroller of the Treasury”), 37 Stat. 375. |
-| 3521(b) | 31:82b–1(a)(1st sentence words before semicolon, last sentence). | Aug. 30, 1964, Pub. L. 88–521, 78 Stat. 700; Jan. 2, 1975, Pub. L. 93–604, § 101, 88 Stat. 1959. |
+| 3521(a) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
+|  | 31:65b. | Sept. 12, 1950, ch. 946, § 119, 64 Stat. 838. |
+|  | 31:75, 41:21. | July 31, 1894, ch. 174, § 22, 28 Stat. 210. |
+|  | 31:82. | Aug. 23, 1912, ch. 350, § 1(last par. under heading “Office of the Comptroller of the Treasury”), 37 Stat. 375. |
+| 3521(b) | 31:82b–1(a)(1st sentence words before semicolon, last sentence). | Aug. 30, 1964, Pub. L. 88–521, 78 Stat. 700; Jan. 2, 1975, Pub. L. 93–604, § 101, 88 Stat. 1959. |
 | 3521(c) | 31:82b–1(a)(1st sentence words after semicolon). |  |
 | 3521(d) | 31:82b–1(b). |  |
 
 In the section, the word “audit” is substituted for “examination”, and the word “official” is substituted for “officer”, for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a), the words “Except as otherwise provided” in 31:82(words before 5th comma) are omitted as unnecessary. The words “on and after August 23, 1912” are omitted as executed. The words “of an agency” are substituted for “public” for clarity and consistency. The words “preliminary to their audit by the General Accounting Office . . . as contemplated by section 78 of this title” are omitted as unnecessary. The words “Comptroller General” are substituted for “General Accounting Office” in 31:75 for consistency. The words “prepared and” in 31:82(words between 5th and 6th commas) are omitted as surplus. The words “by and through the administrative heads of divisions and bureaus” are omitted because of the authority vested in the heads of agencies. The words “and pay rolls” are omitted as being included in “vouchers”. The text of 31:82(words after 6th comma) is omitted as executed. The text of 31:75(1st par.) is omitted as unnecessary because of section 321(b) of the revised title. The words “head of each agency” are substituted for “head of each executive agency . . . *Provided*, That the same authority is conferred upon the officers responsible for the administrative examination of accounts for legislative and judicial agencies” in 31:65b and “heads of the several executive departments and of the proper officers of other Government establishments, not within the jurisdiction of any executive department” in 31:75 because of sections 101, 102, and 3501 of the revised title. The words “shall prescribe regulations for conducting the audit” are substituted for “It shall also be the duty of . . . to make appropriate rules and regulations to secure a proper administrative examination of all accounts sent to them, as required by section 78 of this title” for consistency and to eliminate unnecessary words. The words “and for the execution of other requirements of this chapter insofar as the same relate to the several departments or establishments” are omitted as unnecessary. The words “or places, at the seat of government or elsewhere . . . of fiscal officers’ accounts” in 31:65b are omitted as surplus.
+In subsection (a), the words “Except as otherwise provided” in 31:82(words before 5th comma) are omitted as unnecessary. The words “on and after August 23, 1912” are omitted as executed. The words “of an agency” are substituted for “public” for clarity and consistency. The words “preliminary to their audit by the General Accounting Office . . . as contemplated by section 78 of this title” are omitted as unnecessary. The words “Comptroller General” are substituted for “General Accounting Office” in 31:75 for consistency. The words “prepared and” in 31:82(words between 5th and 6th commas) are omitted as surplus. The words “by and through the administrative heads of divisions and bureaus” are omitted because of the authority vested in the heads of agencies. The words “and pay rolls” are omitted as being included in “vouchers”. The text of 31:82(words after 6th comma) is omitted as executed. The text of 31:75(1st par.) is omitted as unnecessary because of section 321(b) of the revised title. The words “head of each agency” are substituted for “head of each executive agency . . . *Provided*, That the same authority is conferred upon the officers responsible for the administrative examination of accounts for legislative and judicial agencies” in 31:65b and “heads of the several executive departments and of the proper officers of other Government establishments, not within the jurisdiction of any executive department” in 31:75 because of sections 101, 102, and 3501 of the revised title. The words “shall prescribe regulations for conducting the audit” are substituted for “It shall also be the duty of . . . to make appropriate rules and regulations to secure a proper administrative examination of all accounts sent to them, as required by section 78 of this title” for consistency and to eliminate unnecessary words. The words “and for the execution of other requirements of this chapter insofar as the same relate to the several departments or establishments” are omitted as unnecessary. The words “or places, at the seat of government or elsewhere . . . of fiscal officers’ accounts” in 31:65b are omitted as surplus.
 
 In subsection (b), the words “the Mayor of the District of Columbia” are omitted as superseded by sections 448(2) and 449 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, 87 Stat. 802, 803).
 
@@ -890,11 +890,11 @@ In subsection (c), the words “made by him” are omitted as surplus. The words
 
 **Effective Date of 1996 Amendment**
 
-Amendment by Pub. L. 104–208 effective for fiscal year ending Sept. 30, 1997, see section 101(f) [title VIII, § 807] of Pub. L. 104–208, set out in a Federal Financial Management Improvement note under section 3512 of this title.
+Amendment by Pub. L. 104–208 effective for fiscal year ending Sept. 30, 1997, see section 101(f) [title VIII, § 807] of Pub. L. 104–208, set out in a Federal Financial Management Improvement note under section 3512 of this title.
 
 **Audits and Reports of Agency Financial Statements**
 
-Pub. L. 105–206, title I, § 1103(d), July 22, 1998, 112 Stat. 709, provided that:
+Pub. L. 105–206, title I, § 1103(d), July 22, 1998, 112 Stat. 709, provided that:
 
 > “Subject to section 3521(g) of title 31, United States Code—
 
@@ -912,13 +912,13 @@ Pub. L. 105–206, title I, § 1103(d), July 22, 1998, 112 Stat. 709, provided
 
 **Waiver of Requirements**
 
-Pub. L. 101–576, title III, § 304(b), Nov. 15, 1990, 104 Stat. 2853, provided that: “The Director of the Office of Management and Budget may waive application of subsections (e) and (f) of section 3521 of title 31, United States Code, as amended by this section, to a financial statement submitted by an agency for fiscal years 1990 and 1991.”
+Pub. L. 101–576, title III, § 304(b), Nov. 15, 1990, 104 Stat. 2853, provided that: “The Director of the Office of Management and Budget may waive application of subsections (e) and (f) of section 3521 of title 31, United States Code, as amended by this section, to a financial statement submitted by an agency for fiscal years 1990 and 1991.”
 
 **Time Limit for Resolving Pending and New Audits**
 
-Pub. L. 96–304, title III, § 305, July 8, 1980, 94 Stat. 928, provided that: “All unresolved audits currently pending within agencies and departments, for which appropriations are made under this Act, shall be resolved not later than September 30, 1981. Any new audits, involving questioned costs, arising after July 8, 1980, shall be resolved within 6 months.”
+Pub. L. 96–304, title III, § 305, July 8, 1980, 94 Stat. 928, provided that: “All unresolved audits currently pending within agencies and departments, for which appropriations are made under this Act, shall be resolved not later than September 30, 1981. Any new audits, involving questioned costs, arising after July 8, 1980, shall be resolved within 6 months.”
 
-### § 3522. Making and submitting accounts
+### § 3522. Making and submitting accounts
 
 **(a)**
 
@@ -952,21 +952,21 @@ Pub. L. 96–304, title III, § 305, July 8, 1980, 94 Stat. 928, provided that
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3522(a)(1) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
-|  | 31:496(1st sentence). | R.S. § 3622; Feb. 27, 1877, ch. 69(8th complete par. on p. 249), 19 Stat. 249; July 31, 1894, ch. 174, § 12(last par.), 28 Stat. 209. |
-|  | 31:497. | Aug. 30, 1890, ch. 837, § 4, 26 Stat. 413. |
-| 3522(a)(2) | 31:498. | R.S. § 3623. |
+| 3522(a)(1) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
+|  | 31:496(1st sentence). | R.S. § 3622; Feb. 27, 1877, ch. 69(8th complete par. on p. 249), 19 Stat. 249; July 31, 1894, ch. 174, § 12(last par.), 28 Stat. 209. |
+|  | 31:497. | Aug. 30, 1890, ch. 837, § 4, 26 Stat. 413. |
+| 3522(a)(2) | 31:498. | R.S. § 3623. |
 | 3522(b)(1), (2) | 31:44(1st sentence). |  |
-|  | 31:78(1st, last sentences). | July 31, 1894, ch. 174, § 12(1st par.), 28 Stat. 209; Mar. 2, 1895, ch. 177, § 4, 28 Stat. 807. |
+|  | 31:78(1st, last sentences). | July 31, 1894, ch. 174, § 12(1st par.), 28 Stat. 209; Mar. 2, 1895, ch. 177, § 4, 28 Stat. 807. |
 |  | 31:496(2d sentence). |  |
-| 3522(b)(3) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
+| 3522(b)(3) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
 |  | 31:80. | Mar. 2, 1901, ch. 803(3d par. on p. 910), 31 Stat. 910; July 9, 1918, ch. 143, ch. XVIII(last par.), 40 Stat. 892. |
 |  | 31:80a. | Nov. 21, 1941, ch. 499, 55 Stat. 781. |
 |  | 31:80b. | Dec. 26, 1941, ch. 629, 55 Stat. 862; Dec. 23, 1944, ch. 720, 58 Stat. 923. |
 |  | 31:80c. | Feb. 20, 1942, ch. 95, 56 Stat. 94. |
 |  | 31:496(3d sentence). |  |
 | 3522(b)(4) | 31:44(1st sentence). |  |
-|  | 31:81. | Mar. 4, 1907, ch. 2918, § 1(3d par. under heading “United States Courts”), 34 Stat. 1360. |
+|  | 31:81. | Mar. 4, 1907, ch. 2918, § 1(3d par. under heading “United States Courts”), 34 Stat. 1360. |
 | 3522(c) | 31:496(4th sentence). |  |
 | 3522(d) | 31:496(last sentence). |  |
 | 3522(e)(1) | 31:44(1st sentence). |  |
@@ -990,13 +990,13 @@ In subsection (b)(4), the words “Notwithstanding paragraphs (1) and (2) of thi
 
 In subsection (c), the words “whose accounts are in default”, “be required to”, “satisfactory”, “at the General Accounting Office or proper bureau”, and “proper” are omitted as surplus. The words “after the time required by subsection (b) of this section” are substituted for “thereafter” for clarity.
 
-In subsection (d), the word “agency” is substituted for “departments” because of the definition of “agency” in section 102 of the revised title. The word “may” is substituted for “Nothing contained in this section shall, however, be construed to restrain . . . from” to eliminate unnecessary words. The words “about the agency” are substituted for “from the officer or agent, subject to the control of such heads of departments” for clarity.
+In subsection (d), the word “agency” is substituted for “departments” because of the definition of “agency” in section 102 of the revised title. The word “may” is substituted for “Nothing contained in this section shall, however, be construed to restrain . . . from” to eliminate unnecessary words. The words “about the agency” are substituted for “from the officer or agent, subject to the control of such heads of departments” for clarity.
 
 In subsection (e)(1), the words “if an account from which the advance is to be made is not submitted to the Comptroller General within the time required by subsection (b) of this section” are substituted for “Should there by any delinquency in this regard” for clarity.
 
 In subsection (e)(2), the 1st sentence is substituted for 31:78(3d sentence), and the words “If an account is not submitted to the Comptroller General on time under subsection (b)” are substituted for “Should there be a delay by the administrative departments beyond the aforesaid twenty or sixty days in transmitting accounts”, for clarity and to eliminate unnecessary words. The words “District of Columbia” are substituted for “seat of Government” for consistency. The words “in the particular case” and “of money requested” are omitted as surplus.
 
-### § 3523. General audit authority of the Comptroller General
+### § 3523. General audit authority of the Comptroller General
 
 **(a)** Except as specifically provided by law, the Comptroller General shall audit the financial transactions of each agency. In deciding on auditing procedures and the extent to which records are to be inspected, the Comptroller General shall consider generally accepted auditing principles, including the effectiveness of accounting organizations and systems, internal audit and control, and related administrative practices of each agency.
 
@@ -1014,9 +1014,9 @@ In subsection (e)(2), the 1st sentence is substituted for 31:78(3d sentence), an
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3523(a) | 31:67(a). | Sept. 12, 1950, ch. 946, § 117(a), 64 Stat. 837. |
-| 3523(b) | 31:67(c). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(c); added Aug. 20, 1964, Pub. L. 88–454, § 105(a)(last par.), 78 Stat. 551. |
-| 3523(c) | 31:67(b). | Sept. 12, 1950, ch. 946, § 117(b), 64 Stat. 837; Aug 20, 1964, Pub. L. 88–454, § 105(a)(last par.), 78 Stat. 551. |
+| 3523(a) | 31:67(a). | Sept. 12, 1950, ch. 946, § 117(a), 64 Stat. 837. |
+| 3523(b) | 31:67(c). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(c); added Aug. 20, 1964, Pub. L. 88–454, § 105(a)(last par.), 78 Stat. 551. |
+| 3523(c) | 31:67(b). | Sept. 12, 1950, ch. 946, § 117(b), 64 Stat. 837; Aug 20, 1964, Pub. L. 88–454, § 105(a)(last par.), 78 Stat. 551. |
 
 In the section, the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
 
@@ -1034,9 +1034,9 @@ In subsection (c)(2), the words “*Provided*, That” are omitted because of th
 
 **Payment for Audits**
 
-Pub. L. 108–83, title I, § 1401, Sept. 30, 2003, 117 Stat. 1034, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, authorized the Comptroller General, at any time during fiscal year 2004 or thereafter, to accept payment from the Securities and Exchange Commission for performance of audits of financial statements of the Commission, prior to repeal by Pub. L. 110–323, § 6(b), Sept. 22, 2008, 122 Stat. 3547, effective Oct. 1, 2010.
+Pub. L. 108–83, title I, § 1401, Sept. 30, 2003, 117 Stat. 1034, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, authorized the Comptroller General, at any time during fiscal year 2004 or thereafter, to accept payment from the Securities and Exchange Commission for performance of audits of financial statements of the Commission, prior to repeal by Pub. L. 110–323, § 6(b), Sept. 22, 2008, 122 Stat. 3547, effective Oct. 1, 2010.
 
-### § 3524. Auditing expenditures approved without vouchers
+### § 3524. Auditing expenditures approved without vouchers
 
 **(a)**
 
@@ -1054,9 +1054,9 @@ Pub. L. 108–83, title I, § 1401, Sept. 30, 2003, 117 Stat. 1034, as amended
 
 **(2)** affect authority under section 8(b) of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j(b)).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-**(e)** Information about a financial transaction exempt under subsection (c) of this section or a financial transaction under section 8(b) of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j(b)) <sup>1</sup> may be reviewed by the Permanent Select Committee on Intelligence of the House and the Select Committee on Intelligence of the Senate.
+**(e)** Information about a financial transaction exempt under subsection (c) of this section or a financial transaction under section 8(b) of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j(b)) <sup>1</sup> may be reviewed by the Permanent Select Committee on Intelligence of the House and the Select Committee on Intelligence of the Senate.
 
 **(f)** Subsections (a)(1) and (d)(1) of this section may be superseded only by a law enacted after April 3, 1980, specifically repealing or amending this section.
 
@@ -1066,7 +1066,7 @@ Pub. L. 108–83, title I, § 1401, Sept. 30, 2003, 117 Stat. 1034, as amended
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3524(a)(1) | 31:67(f)(1)(1st sentence). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(f); added Apr. 3, 1980, Pub. L. 96–226, § 101, 94 Stat. 311. |
+| 3524(a)(1) | 31:67(f)(1)(1st sentence). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 117(f); added Apr. 3, 1980, Pub. L. 96–226, § 101, 94 Stat. 311. |
 | 3524(a)(2) | 31:67(f)(2). |  |
 | 3524(b) | 31:67(f)(4). |  |
 | 3524(c) | 31:67(f)(3)(B). |  |
@@ -1074,7 +1074,7 @@ Pub. L. 108–83, title I, § 1401, Sept. 30, 2003, 117 Stat. 1034, as amended
 | 3524(e) | 31:67(f)(3)(C). |  |
 | 3524(f) | 31:67(f)(1)(2d sentence). |  |
 
-In subsection (a)(1), the words “Notwithstanding any provision of law” are omitted as unnecessary. The words “may audit” are added for clarity and for consistency in the revised section and chapter. The words “as may be necessary to enable him” and “in fact, actually” are omitted as surplus. The words “Records . . . shall be made available” are substituted for “shall have access to such books, documents, papers, records” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a)(1), the words “Notwithstanding any provision of law” are omitted as unnecessary. The words “may audit” are added for clarity and for consistency in the revised section and chapter. The words “as may be necessary to enable him” and “in fact, actually” are omitted as surplus. The words “Records . . . shall be made available” are substituted for “shall have access to such books, documents, papers, records” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (a)(2), the words “With respect to any expenditure accounted for solely on the approval, authorization, or certificate of the President of the United States or an official of an executive agency and notwithstanding any provision of law” are omitted because of the restatement. The words “in question” are omitted as surplus.
 
@@ -1090,7 +1090,7 @@ In subsection (e), the words “from the provisions of paragraph (1)” are omit
 
 **References in Text**
 
-The Central Intelligence Agency Act of 1949, referred to in subsecs. (d)(2) and (e), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified generally to chapter 46 (§ 3501 et seq.) of Title 50. Section 8 of the Act is now classified to section 3510 of Title 50. For complete classification of this Act to the Code, see Tables.
+The Central Intelligence Agency Act of 1949, referred to in subsecs. (d)(2) and (e), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified generally to chapter 46 (§ 3501 et seq.) of Title 50. Section 8 of the Act is now classified to section 3510 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1102,9 +1102,9 @@ Committee on Government Operations of House of Representatives treated as referr
 
 **Termination of Reporting Requirements**
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the reporting requirement under subsec. (b) of this section is listed on page 42), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the reporting requirement under subsec. (b) of this section is listed on page 42), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
-### § 3525. Auditing nonappropriated fund activities
+### § 3525. Auditing nonappropriated fund activities
 
 **(a)** The Comptroller General may audit—
 
@@ -1132,19 +1132,19 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3525(a) | 31:135(a)(1st sentence). | Jan. 2, 1975, Pub. L. 93–604, § 301, 88 Stat. 1961. |
+| 3525(a) | 31:135(a)(1st sentence). | Jan. 2, 1975, Pub. L. 93–604, § 301, 88 Stat. 1961. |
 | 3525(b) | 31:135(b). |  |
 | 3525(c) | 31:135(a)(last sentence). |  |
 
 In the section, the words “the head of” are added for consistency.
 
-In subsection (a), before clause (1), the words “unless otherwise provided by law” are omitted as surplus. The words “may audit” are substituted for “shall . . . be subject to review” for consistency. The words “in accordance with such principles and procedures and under such rules and regulations as he may prescribe” are omitted as unnecessary because of section 711 of the revised title. In clause (1), the words “(including central funds)” and “military or other . . . such as the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, Exchange Councils of the National Aeronautics and Space Administration, commissaries, clubs, and theaters” are omitted as surplus.
+In subsection (a), before clause (1), the words “unless otherwise provided by law” are omitted as surplus. The words “may audit” are substituted for “shall . . . be subject to review” for consistency. The words “in accordance with such principles and procedures and under such rules and regulations as he may prescribe” are omitted as unnecessary because of section 711 of the revised title. In clause (1), the words “(including central funds)” and “military or other . . . such as the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, Exchange Councils of the National Aeronautics and Space Administration, commissaries, clubs, and theaters” are omitted as surplus.
 
 In subsection (b), before clause (1), the words “the Comptroller General” are added for clarity. In clause (1)(B), the words “for another fund and related activities” are substituted for “in any other case” for clarity.
 
-In subsection (c), the words “and his duly authorized representatives” are omitted as unnecessary. The words “Records . . . shall be made available” are substituted for “shall have access to those books, accounts, records, documents, reports, files, and other papers, things” for consistency in the revised title and with other titles of the United States Code.
+In subsection (c), the words “and his duly authorized representatives” are omitted as unnecessary. The words “Records . . . shall be made available” are substituted for “shall have access to those books, accounts, records, documents, reports, files, and other papers, things” for consistency in the revised title and with other titles of the United States Code.
 
-### § 3526. Settlement of accounts
+### § 3526. Settlement of accounts
 
 **(a)** The Comptroller General shall settle all accounts of the United States Government and supervise the recovery of all debts finally certified by the Comptroller General as due the Government.
 
@@ -1154,7 +1154,7 @@ In subsection (c), the words “and his duly authorized representatives” are o
 
 **(1)** The Comptroller General shall settle an account of an accountable official within 3 years after the date the Comptroller General receives the account. A copy of the certificate of settlement shall be provided the official.
 
-**(2)** The settlement of an account is conclusive on the Comptroller General after 3 years after the account is received by the Comptroller General. However, an amount may be charged against the account after the 3-year period when the Government has or may have lost money because the official acted fraudulently or criminally.
+**(2)** The settlement of an account is conclusive on the Comptroller General after 3 years after the account is received by the Comptroller General. However, an amount may be charged against the account after the 3-year period when the Government has or may have lost money because the official acted fraudulently or criminally.
 
 **(3)** A 3-year period under this subsection is suspended during a war.
 
@@ -1184,17 +1184,17 @@ In subsection (c), the words “and his duly authorized representatives” are o
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3526(a) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par.), 42 Stat. 24. |
-|  | 31:71(related to accounts). | R.S. § 236(related to accounts); restated June 10, 1921, ch. 18, § 305, 42 Stat. 24. |
+| 3526(a) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par.), 42 Stat. 24. |
+|  | 31:71(related to accounts). | R.S. § 236(related to accounts); restated June 10, 1921, ch. 18, § 305, 42 Stat. 24. |
 |  | 31:538. | June 5, 1920, ch. 240(3d par. under heading “Advances to Disbursing Officers”), 41 Stat. 975. |
-|  | 31:541. | June 19, 1878, ch. 312, § 3, 20 Stat. 168. |
+|  | 31:541. | June 19, 1878, ch. 312, § 3, 20 Stat. 168. |
 | 3526(b) | 31:44(1st sentence). |  |
-|  | 31:74(last par. words after 4th comma). | July 31, 1894, ch. 174, § 8(1st par. less proviso, 3d par. 1st sentence words after semicolon, 4th par., 6th par. words after 4th comma), 28 Stat. 207, 208; Oct. 25, 1951, ch. 562, § 3(1), 65 Stat. 639. |
-| 3526(c) | 31:82i. | May 19, 1947, ch. 78, 61 Stat. 101; June 6, 1972, Pub. L. 92–310, § 231(ee), 86 Stat. 213. |
+|  | 31:74(last par. words after 4th comma). | July 31, 1894, ch. 174, § 8(1st par. less proviso, 3d par. 1st sentence words after semicolon, 4th par., 6th par. words after 4th comma), 28 Stat. 207, 208; Oct. 25, 1951, ch. 562, § 3(1), 65 Stat. 639. |
+| 3526(c) | 31:82i. | May 19, 1947, ch. 78, 61 Stat. 101; June 6, 1972, Pub. L. 92–310, § 231(ee), 86 Stat. 213. |
 | 3526(d) | 31:44. |  |
 |  | 31:74(1st par. 1st sentence). |  |
 | 3526(e) | 31:44(1st sentence). |  |
-|  | 31:107. | R.S. § 291. |
+|  | 31:107. | R.S. § 291. |
 | 3526(f) | 31:44(1st sentence). |  |
 |  | 31:74(2d par.). |  |
 | 3526(g) | 31:44(1st sentence). |  |
@@ -1206,13 +1206,13 @@ In subsection (a), the text of 31:538 and 541 is omitted as executed and obsolet
 
 Subsection (b) is substituted for 31:74(last par. words after 4th comma) for clarity and consistency and because of the restatement.
 
-In subsection (c)(1), the words “Effective three years after May 19, 1947” are omitted as executed. The words “monthly or quarterly . . . disbursing . . . or certifying” are omitted as surplus. The word “official” is substituted for “officer” for consistency in the revised title and with other titles of the United States Code. The words “a period of not to exceed”, “in each case”, and “involved” are omitted as surplus.
+In subsection (c)(1), the words “Effective three years after May 19, 1947” are omitted as executed. The words “monthly or quarterly . . . disbursing . . . or certifying” are omitted as surplus. The word “official” is substituted for “officer” for consistency in the revised title and with other titles of the United States Code. The words “a period of not to exceed”, “in each case”, and “involved” are omitted as surplus.
 
 In subsection (c)(2), the words “final and”, “the expiration of”, and “date of” are omitted as surplus. The words “However, an amount may be charged against the account after the 3-year period when” are substituted for “to the extent that no further charges or debts shall be raised in such account thereafter except as to” for clarity and consistency.
 
 Subsection (c)(3) is substituted for 31:82i(last proviso) to eliminate unnecessary words.
 
-In subsection (c)(4), before clause (A), the words “*Provided*, That” and “*Provided further*, That” are omitted because of the restatement. In clause (A), the words “from any payee” and “to such payee” are omitted as surplus. In clause (B), the words “disbursing, accountable, or certifying”, “found . . . made”, and “as provided in this section” are omitted as surplus. In clause (C), the words “of his right at any time” and “existing” are omitted as surplus.
+In subsection (c)(4), before clause (A), the words “*Provided*, That” and “*Provided further*, That” are omitted because of the restatement. In clause (A), the words “from any payee” and “to such payee” are omitted as surplus. In clause (B), the words “disbursing, accountable, or certifying”, “found . . . made”, and “as provided in this section” are omitted as surplus. In clause (C), the words “of his right at any time” and “existing” are omitted as surplus.
 
 In subsection (d), the text of 31:44(last sentence) is omitted as executed. The words “final and” are omitted as surplus. The words “an account of the Government” are substituted for “public” for consistency. The words “On the initiative of” and “after settlement” are added for clarity.
 
@@ -1220,7 +1220,7 @@ In subsection (e), before clause (1), the words “is expended” are substitute
 
 In subsection (f), the word “settled” is substituted for “which have been finally adjusted” for consistency. The words “together with” are omitted as surplus.
 
-### § 3527. General authority to relieve accountable officials and agents from liability
+### § 3527. General authority to relieve accountable officials and agents from liability
 
 **(a)** Except as provided in subsection (b) of this section, the Comptroller General may relieve a present or former accountable official or agent of an agency responsible for the physical loss or deficiency of public money, vouchers, checks, securities, or records, or may authorize reimbursement from an appropriation or fund available for the activity in which the loss or deficiency occurred for the amount of the loss or deficiency paid by the official or agent as restitution, when—
 
@@ -1268,15 +1268,15 @@ In subsection (f), the word “settled” is substituted for “which have been 
 
 **(e)** Relief provided under this section is in addition to relief provided under another law.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 965; Pub. L. 104–106, div. A, title IX, § 913(c)(4), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, § 1009(c)(2), Sept. 23, 1996, 110 Stat. 2635; Pub. L. 109–241, title IX, § 902(b)(3), July 11, 2006, 120 Stat. 566.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 965; Pub. L. 104–106, div. A, title IX, § 913(c)(4), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, § 1009(c)(2), Sept. 23, 1996, 110 Stat. 2635; Pub. L. 109–241, title IX, § 902(b)(3), July 11, 2006, 120 Stat. 566.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3527(a) | 31:82a–1(1st, 2d sentences). | Aug. 1, 1947, ch. 441, § 1, 61 Stat. 720; Aug. 9, 1955, ch. 694, 69 Stat. 626. |
-| 3527(b) | 31:95a(1st–3d sentences). | Dec. 13, 1944, ch. 552, 58 Stat. 800; restated Aug. 11, 1955, ch. 803, § 2(a), 69 Stat. 687. |
-| 3527(c) | 31:82a–2(a). | Aug. 11, 1955, ch. 803, § 1, 69 Stat. 687. |
+| 3527(a) | 31:82a–1(1st, 2d sentences). | Aug. 1, 1947, ch. 441, § 1, 61 Stat. 720; Aug. 9, 1955, ch. 694, 69 Stat. 626. |
+| 3527(b) | 31:95a(1st–3d sentences). | Dec. 13, 1944, ch. 552, 58 Stat. 800; restated Aug. 11, 1955, ch. 803, § 2(a), 69 Stat. 687. |
+| 3527(c) | 31:82a–2(a). | Aug. 11, 1955, ch. 803, § 1, 69 Stat. 687. |
 | 3527(d)(1) | 31:82a–1(last sentence). |  |
 |  | 31:82a–2(c). |  |
 | 3527(d)(2) | 31:82a–2(b)(1st sentence). |  |
@@ -1287,13 +1287,13 @@ In the section, the word “official” is substituted for “officer”, and th
 
 In subsection (a), before clause (1), the words “Except as provided in subsection (b) of this section” are added for clarity. The words “disbursing or other” are omitted as surplus. The words “public money, vouchers, checks, securities, or records” are substituted for “Government funds, vouchers, records, checks, securities, or papers” for consistency in the revised title and with other titles of the Code. The words “subsequent to August 1, 1947” are omitted as executed. In clause (1)(A), the words “carrying out” are substituted for “acting in the discharge of” for consistency. The words “failure to act” are substituted for “omission” for clarity. Clause (2) is substituted for 31:82a–1(a)(2d sentence), and clause (3) is substituted for 31:82a–1(1st sentence words between 1st and 2d commas), to eliminate unnecessary words.
 
-In subsection (b)(1), before clause (A), the words “armed forces” are substituted for “Army, Navy, Air Force, or Marine Corps” for consistency with title 10. The words “responsible for” are substituted for “Whenever . . . incurs or has incurred” for consistency. The words “public money, vouchers, or records” are substituted for “Government funds, vouchers, records, or papers” for consistency in the revised title and with other titles of the Code. The word “reimbursement” is substituted for “that purpose” for clarity. In clause (A), the words “the Secretary of Defense, or” are added for clarity because of Comptroller General decision B–201579 (Apr. 1, 1981). The words “appropriate Secretary of the military department of the Department of Defense” are substituted for “the Secretary of the department concerned”, for clarity. The words “carrying out official” are substituted for “in line of his” for consistency. In clause (B), the words “the loss or deficiency was not the result of an illegal or incorrect payment” are substituted for 31:95a(3d sentence) to eliminate unnecessary words.
+In subsection (b)(1), before clause (A), the words “armed forces” are substituted for “Army, Navy, Air Force, or Marine Corps” for consistency with title 10. The words “responsible for” are substituted for “Whenever . . . incurs or has incurred” for consistency. The words “public money, vouchers, or records” are substituted for “Government funds, vouchers, records, or papers” for consistency in the revised title and with other titles of the Code. The word “reimbursement” is substituted for “that purpose” for clarity. In clause (A), the words “the Secretary of Defense, or” are added for clarity because of Comptroller General decision B–201579 (Apr. 1, 1981). The words “appropriate Secretary of the military department of the Department of Defense” are substituted for “the Secretary of the department concerned”, for clarity. The words “carrying out official” are substituted for “in line of his” for consistency. In clause (B), the words “the loss or deficiency was not the result of an illegal or incorrect payment” are substituted for 31:95a(3d sentence) to eliminate unnecessary words.
 
 In subsection (b)(2), the word “involved” is added for clarity because of Comptroller General decision B–201579, April 1, 1981.
 
 In subsection (c), the words “or any officer of the General Accounting Office designated by the Comptroller General” are omitted as unnecessary because of section 731 of the revised title. The word “initiative” is substituted for “motion” for consistency. The words “findings and” and “concerned” are omitted as surplus. The words “or his designee” are omitted as unnecessary because of section 731 of the revised title. The words “in his discretion”, “of accountability and”, “official disbursing”, and “the making of” are omitted as surplus. The word “reasonable” is substituted for “due”, the words “the head of” are added, and the words “carry out” are substituted for “pursued”, for consistency.
 
-In subsection (d)(1), before clause (A), the words “restore or otherwise”, and the words “in . . . any amount” in 31:82a–2(c), are omitted as surplus. In clause (A), the words “to be charged” are substituted for “therefor” for clarity. In clause (B), the words “carried out” are substituted for “effected” for consistency.
+In subsection (d)(1), before clause (A), the words “restore or otherwise”, and the words “in . . . any amount” in 31:82a–2(c), are omitted as surplus. In clause (A), the words “to be charged” are substituted for “therefor” for clarity. In clause (B), the words “carried out” are substituted for “effected” for consistency.
 
 Subsection (e) is substituted for 31:82a–2(b)(last sentence) and 95a(last sentence) to eliminate unnecessary words.
 
@@ -1303,15 +1303,15 @@ Subsection (e) is substituted for 31:82a–2(b)(last sentence) and 95a(last sent
 
 2006—Subsec. (b)(1)(A)(i), (B). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-1996—Subsec. (b)(1). Pub. L. 104–106, § 913(c)(4)(C)–(F), inserted “(A) in the case of a physical loss or deficiency—”, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
+1996—Subsec. (b)(1). Pub. L. 104–106, § 913(c)(4)(C)–(F), inserted “(A) in the case of a physical loss or deficiency—”, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
 
-Pub. L. 104–106, § 913(c)(4)(A), (B), in introductory provisions, substituted “an official of the armed forces referred to in subsection (a)” for “a disbursing official of the armed forces” and “records, or a payment described in section 3528(a)(4)(A) of this title,” for “records,”.
+Pub. L. 104–106, § 913(c)(4)(A), (B), in introductory provisions, substituted “an official of the armed forces referred to in subsection (a)” for “a disbursing official of the armed forces” and “records, or a payment described in section 3528(a)(4)(A) of this title,” for “records,”.
 
-Subsec. (b)(1)(A)(i). Pub. L. 104–201, § 1009(c)(2)(A), inserted “(or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Department of Defense”.
+Subsec. (b)(1)(A)(i). Pub. L. 104–201, § 1009(c)(2)(A), inserted “(or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Department of Defense”.
 
-Subsec. (b)(1)(B). Pub. L. 104–201, § 1009(c)(2)(B), inserted “(or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “or the Secretary of the appropriate military department”.
+Subsec. (b)(1)(B). Pub. L. 104–201, § 1009(c)(2)(B), inserted “(or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “or the Secretary of the appropriate military department”.
 
-### § 3528. Responsibilities and relief from liability of certifying officials
+### § 3528. Responsibilities and relief from liability of certifying officials
 
 **(a)** A certifying official certifying a voucher is responsible for—
 
@@ -1353,7 +1353,7 @@ Subsec. (b)(1)(B). Pub. L. 104–201, § 1009(c)(2)(B), inserted “(or the Se
 
 **(2)** provided under a Government bill of lading or transportation request when the overpayment was the result of using improper transportation rates or classifications or the failure to deduct the proper amount under a land-grant law or agreement and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 966; Pub. L. 98–216, § 1(4), Feb. 14, 1984, 98 Stat. 4; Pub. L. 104–106, div. A, title IX, § 913(c)(5), Feb. 10, 1996, 110 Stat. 412; Pub. L. 105–264, § 3(a)(2), Oct. 19, 1998, 112 Stat. 2352.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 966; Pub. L. 98–216, § 1(4), Feb. 14, 1984, 98 Stat. 4; Pub. L. 104–106, div. A, title IX, § 913(c)(5), Feb. 10, 1996, 110 Stat. 412; Pub. L. 105–264, § 3(a)(2), Oct. 19, 1998, 112 Stat. 2352.)
 
 **Historical and Revision Notes**
 
@@ -1361,12 +1361,12 @@ Subsec. (b)(1)(B). Pub. L. 104–201, § 1009(c)(2)(B), inserted “(or the Se
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3528(a) | 31:82c(less provisos). | Dec. 29, 1941, ch. 641, § 2, 55 Stat. 875; June 6, 1972, Pub. L. 92–310, § 231(cc), 86 Stat. 213. |
-|  | 31:82f(related to certifying officers). | Apr. 28, 1942, ch. 247, § 301(1st par. proviso under heading “Bureau of Accounts” related to certifying officers), 56 Stat. 244. |
+| 3528(a) | 31:82c(less provisos). | Dec. 29, 1941, ch. 641, § 2, 55 Stat. 875; June 6, 1972, Pub. L. 92–310, § 231(cc), 86 Stat. 213. |
+|  | 31:82f(related to certifying officers). | Apr. 28, 1942, ch. 247, § 301(1st par. proviso under heading “Bureau of Accounts” related to certifying officers), 56 Stat. 244. |
 | 3528(b) | 31:82c(1st proviso). |  |
 | 3528(c) | 31:82c(last proviso). |  |
 |  | 31:82g(related to certifying officers). | June 1, 1942, ch. 320(related to certifying officers), 56 Stat. 306. |
-| 3528(d) | 31:82e(related to 31:82c). | Dec. 29, 1941, ch. 641, § 4(related to § 2), 55 Stat. 876. |
+| 3528(d) | 31:82e(related to 31:82c). | Dec. 29, 1941, ch. 641, § 4(related to § 2), 55 Stat. 876. |
 
 In the section, the word “official” is substituted for “officer or employee” and “officer” for consistency in the revised title and with other titles of the United States Code.
 
@@ -1386,11 +1386,11 @@ This clarifies section 3528(b) by restoring the authority of the Comptroller Gen
 
 **Amendments**
 
-1998—Subsec. (a)(5). Pub. L. 105–264, § 3(a)(2)(A), added par. (5).
+1998—Subsec. (a)(5). Pub. L. 105–264, § 3(a)(2)(A), added par. (5).
 
-Subsec. (c)(1). Pub. L. 105–264, § 3(a)(2)(B), inserted “and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “deductions”.
+Subsec. (c)(1). Pub. L. 105–264, § 3(a)(2)(B), inserted “and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “deductions”.
 
-Subsec. (c)(2). Pub. L. 105–264, § 3(a)(2)(C), inserted “and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “agreement”.
+Subsec. (c)(2). Pub. L. 105–264, § 3(a)(2)(C), inserted “and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “agreement”.
 
 1996—Subsec. (d). Pub. L. 104–106 struck out subsec. (d) which read as follows: “This section does not apply to disbursements of a military department of the Department of Defense, except disbursements for departmental pay and expenses in the District of Columbia.”
 
@@ -1406,7 +1406,7 @@ Amendment by Pub. L. 105–264 effective 18 months after Oct. 19, 1998, see sect
 
 Amendment by Pub. L. 98–216 effective Sept. 13, 1982, see section 4(c) of Pub. L. 98–216, set out as a note under section 490 of Title 18, Crimes and Criminal Procedure.
 
-### § 3529. Requests for decisions of the Comptroller General
+### § 3529. Requests for decisions of the Comptroller General
 
 **(a)** A disbursing or certifying official or the head of an agency may request a decision from the Comptroller General on a question involving—
 
@@ -1424,15 +1424,15 @@ Amendment by Pub. L. 98–216 effective Sept. 13, 1982, see section 4(c) of Pub.
 
 **(B)** in the case of a function delegated by the Director to another agency, by the head of the agency to which the function was delegated.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 967; Pub. L. 104–316, title II, § 204, Oct. 19, 1996, 110 Stat. 3845.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 967; Pub. L. 104–316, title II, § 204, Oct. 19, 1996, 110 Stat. 3845.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3529 | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
-|  | 31:74(last par. words before 4th comma). | July 31, 1894, ch. 174, § 8(6th par. words before 4th comma), 28 Stat. 208. |
-|  | 31:82d(words after semicolon). | Dec. 29, 1941, ch. 641, §§ 3(words after semicolon), 4(related to § 3 ), 55 Stat. 876. |
+| 3529 | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
+|  | 31:74(last par. words before 4th comma). | July 31, 1894, ch. 174, § 8(6th par. words before 4th comma), 28 Stat. 208. |
+|  | 31:82d(words after semicolon). | Dec. 29, 1941, ch. 641, §§ 3(words after semicolon), 4(related to § 3 ), 55 Stat. 876. |
 |  | 31:82e(related to 31:82d). |  |
 
 In subsection (a), before clause (1), the text of 31:82e(related to 82d) is omitted as unnecessary because it does not apply to 31:82d. The words “of law” in 31:82d(words after semicolon) are omitted as surplus. In clause (1), the words “or under them” in 31:74(last par. words before 4th comma) are omitted as unnecessary. In clause (2), the words “a payment on” in 31:82d(words after semicolon) are omitted as surplus.
@@ -1451,7 +1451,7 @@ This Act, referred to in subsec. (b)(2), probably means Pub. L. 104–316, Oct. 
 
 1996—Subsec. (b). Pub. L. 104–316 designated existing provisions as par. (1) and substituted “Except as provided in paragraph (2), the Comptroller General” for “The Comptroller General”, and added par. (2).
 
-### § 3530. Adjusting accounts
+### § 3530. Adjusting accounts
 
 **(a)** An appropriation or fund currently available for the expense of an accountable function shall be charged with an amount necessary to adjust an account of an accountable official or agent when—
 
@@ -1471,10 +1471,10 @@ This Act, referred to in subsec. (b)(2), probably means Pub. L. 104–316, Oct. 
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3530(a) | 31:1202(a)(1st sentence). | June 6, 1972, Pub. L. 92–310, § 102, 86 Stat. 201. |
+| 3530(a) | 31:1202(a)(1st sentence). | June 6, 1972, Pub. L. 92–310, § 102, 86 Stat. 201. |
 | 3530(b) | 31:1202(a)(last sentence). |  |
 | 3530(c) | 31:1202(b). |  |
-| 3530(d) | 31:581d. | July 15, 1954, ch. 509, § 3(a), 68 Stat. 483. |
+| 3530(d) | 31:581d. | July 15, 1954, ch. 509, § 3(a), 68 Stat. 483. |
 
 In subsection (a), before clause (1), the words “restore or otherwise” are omitted as surplus. The word “currently” is substituted for “at the time the restoration or adjustment is made” to eliminate unnecessary words. The word “official” is substituted for “officer” for consistency in the revised title and with other titles of the United States Code. In clause (2), the words “concerned” and “the amount of” are omitted as surplus.
 
@@ -1484,13 +1484,13 @@ In subsections (c) and (d), the words “of the United States” are omitted as 
 
 In subsection (c), the words “and issue” are omitted as surplus. The words “to carry out subsection (a) of this section” are substituted for “The restorations and adjustments provided for by subsection (a) of this section shall be made in accordance with” to eliminate unnecessary words.
 
-In subsection (d), the word “settlement” is omitted as surplus. The words “the Secretary of the department concerned or . . . or independent establishment concerned” are omitted as unnecessary because of the restatement. The word “occurring” is omitted as surplus. The word “accounts” is substituted for “amount” before “was payable” for clarity. The word “succeeding” is omitted as surplus.
+In subsection (d), the word “settlement” is omitted as surplus. The words “the Secretary of the department concerned or . . . or independent establishment concerned” are omitted as unnecessary because of the restatement. The word “occurring” is omitted as surplus. The word “accounts” is substituted for “amount” before “was payable” for clarity. The word “succeeding” is omitted as surplus.
 
-### [§ 3531. Repealed. Pub. L. 104–316, title I, § 115(f)(1), Oct. 19, 1996, 110 Stat. 3834]
+### [§ 3531. Repealed. Pub. L. 104–316, title I, § 115(f)(1), Oct. 19, 1996, 110 Stat. 3834]
 
 Section, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 967, related to certification by heads of executive departments to Comptroller General regarding losses resulting from public property entrusted to officials or agents.
 
-### § 3532. Notification of account deficiencies
+### § 3532. Notification of account deficiencies
 
 An accounting official discovering a deficiency in an account of an official of the United States Government having custody of public money shall notify the head of the agency having jurisdiction of the official of the kind and amount of the deficiency.
 
@@ -1500,13 +1500,13 @@ An accounting official discovering a deficiency in an account of an official of 
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3532 | 31:497a. | June 6, 1972, Pub. L. 92–310, § 260, 86 Stat. 215. |
+| 3532 | 31:497a. | June 6, 1972, Pub. L. 92–310, § 260, 86 Stat. 215. |
 
-The word “official” is substituted for “officers”, and the word “Government” is added, for consistency in the revised title and with other titles of the United States Code. The words “having custody of public money” are substituted for “or in the accounts of any officer disbursing or chargeable with public money” for clarity and consistency. The words “immediately” and “the affairs of . . . or officer” are omitted as surplus.
+The word “official” is substituted for “officers”, and the word “Government” is added, for consistency in the revised title and with other titles of the United States Code. The words “having custody of public money” are substituted for “or in the accounts of any officer disbursing or chargeable with public money” for clarity and consistency. The words “immediately” and “the affairs of . . . or officer” are omitted as surplus.
 
 ## SUBCHAPTER IV—COLLECTION
 
-### § 3541. Distress warrants
+### § 3541. Distress warrants
 
 **(a)** When an official receiving public money before it is paid to the Treasury or a disbursing or certifying official of the United States Government does not submit an account or pay the money as prescribed by law, the Comptroller General shall make the account for the official and certify to the Secretary of the Treasury the amount due the Government.
 
@@ -1518,13 +1518,13 @@ The word “official” is substituted for “officers”, and the word “Gover
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3541(a) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
-|  | 31:82d(words before semicolon). | Dec. 29, 1941, ch. 641, § 3(words before semicolon), 55 Stat. 876. |
-|  | 31:506(1st sentence words before 8th comma). | R.S. § 3625; Feb. 27, 1877, ch. 69(9th complete par. on p. 249), 19 Stat. 249; July 31, 1894, ch. 174, § 4(5th par.), 28 Stat. 206; June 6, 1972, Pub. L. 92–310, § 231(k), 86 Stat. 210. |
-|  | 31:514. | R.S. § 3633; July 31, 1894, ch. 174, § 4(last par.), 28 Stat. 206. |
-|  | 31:516. | R.S. 3634; June 6, 1972, Pub. L. 92–310, § 231(q), 86 Stat. 210. |
+| 3541(a) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
+|  | 31:82d(words before semicolon). | Dec. 29, 1941, ch. 641, § 3(words before semicolon), 55 Stat. 876. |
+|  | 31:506(1st sentence words before 8th comma). | R.S. § 3625; Feb. 27, 1877, ch. 69(9th complete par. on p. 249), 19 Stat. 249; July 31, 1894, ch. 174, § 4(5th par.), 28 Stat. 206; June 6, 1972, Pub. L. 92–310, § 231(k), 86 Stat. 210. |
+|  | 31:514. | R.S. § 3633; July 31, 1894, ch. 174, § 4(last par.), 28 Stat. 206. |
+|  | 31:516. | R.S. 3634; June 6, 1972, Pub. L. 92–310, § 231(q), 86 Stat. 210. |
 | 3541(b) | 31:506(1st sentence words after 8th comma, last sentence). |  |
-|  | 31:507. | R.S. § 3626. |
+|  | 31:507. | R.S. § 3626. |
 
 In the section, the word “official” is substituted for “officer” for consistency in the revised title and with other titles of the United States Code.
 
@@ -1532,7 +1532,7 @@ In subsection (a), the words “any collector of the revenue, receiver of public
 
 In subsection (b), the words “delinquent” in 31:506(1st sentence words after 8th comma, last sentence) and “if any, which have been” in 31:507 are omitted as surplus. The words “If the Secretary intends to take and sell the property of an official that is located in a district other than where the official resides” are substituted for “Where the officer resides in a district other than that in which his estate may be, which it is intended to take and sell” in 31:506 for clarity.
 
-### § 3542. Carrying out distress warrants
+### § 3542. Carrying out distress warrants
 
 **(a)** A marshal carrying out a distress warrant issued under section 3541 of this title shall seize the personal property of the official and sell the property after giving 10 days notice of the sale. Notice shall be given by posting an advertisement of the property to be sold in at least 2 public places in the town and county in which the property was taken or the town and county in which the owner of the property resides. If the property does not satisfy the amount due under the warrant, the official may be sent to prison until discharged by law.
 
@@ -1550,15 +1550,15 @@ In subsection (b), the words “delinquent” in 31:506(1st sentence words after
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3542(a) | 31:508. | R.S. § 3627. |
-| 3542(b)(1) | 31:510. | R.S. § 3629; June 6, 1972, Pub. L. 92–310, § 231(m), 86 Stat. 210. |
-| 3542(b)(2) | 31:511. | R.S. § 3630; June 6, 1972, Pub. L. 92–310, § 231(n), 86 Stat. 210. |
-|  | 31:512. | R.S. § 3631; June 6, 1972, Pub. L. 92–310, § 231(*o*), 86 Stat. 210. |
-| 3542(c) | 31:513. | R.S. § 3632; June 6, 1972, Pub. L. 92–310, § 231(p), 86 Stat. 210. |
+| 3542(a) | 31:508. | R.S. § 3627. |
+| 3542(b)(1) | 31:510. | R.S. § 3629; June 6, 1972, Pub. L. 92–310, § 231(m), 86 Stat. 210. |
+| 3542(b)(2) | 31:511. | R.S. § 3630; June 6, 1972, Pub. L. 92–310, § 231(n), 86 Stat. 210. |
+|  | 31:512. | R.S. § 3631; June 6, 1972, Pub. L. 92–310, § 231(*o*), 86 Stat. 210. |
+| 3542(c) | 31:513. | R.S. § 3632; June 6, 1972, Pub. L. 92–310, § 231(p), 86 Stat. 210. |
 
 In the section, the word “delinquent” is omitted as surplus.
 
-In subsection (a), the words “issued under section 3541 of this title” are added for clarity. The words “by himself or by his deputy, proceed to levy and collect the sum remaining due, by” are omitted as surplus. The words “seize the personal property” are substituted for “distress . . . of the goods and chattels” for clarity. The word “intended” is omitted as surplus. The last sentence is substituted for 31:508(last sentence) to eliminate unnecessary words.
+In subsection (a), the words “issued under section 3541 of this title” are added for clarity. The words “by himself or by his deputy, proceed to levy and collect the sum remaining due, by” are omitted as surplus. The words “seize the personal property” are substituted for “distress . . . of the goods and chattels” for clarity. The word “intended” is omitted as surplus. The last sentence is substituted for 31:508(last sentence) to eliminate unnecessary words.
 
 In subsection (b), the words “real property” are substituted for “lands, tenements, and hereditaments” for clarity.
 
@@ -1568,7 +1568,7 @@ In subsection (b)(2), the words “personal property” are substituted for “g
 
 In subsection (c), the words “that part” are substituted for “All moneys” for clarity.
 
-### § 3543. Postponing a distress warrant proceeding
+### § 3543. Postponing a distress warrant proceeding
 
 **(a)** A distress warrant proceeding may be postponed for a reasonable time if the Secretary of the Treasury believes the public interest will not be harmed by the postponement.
 
@@ -1588,23 +1588,23 @@ In subsection (c), the words “that part” are substituted for “All moneys�
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3543(a) | 31:517. | R.S. § 3635. |
-| 3543(b) | 31:518. | R.S. § 3636. |
-| 3543(c) | 31:519. | R.S. § 3637. |
+| 3543(a) | 31:517. | R.S. § 3635. |
+| 3543(b) | 31:518. | R.S. § 3636. |
+| 3543(c) | 31:519. | R.S. § 3637. |
 
 In subsection (a), the words “With the approval of” and “the institution of” are omitted as surplus.
 
 In subsections (b) and (c), the words “person adversely affected” are substituted for “person who considers himself aggrieved” for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b)(1), the words “bring a civil action . . . court” are substituted for “prefer a bill of complaint . . . judge” for consistency in the revised title and with other titles of the Code. The words “of which he complains” are omitted as surplus. The words “any part of a distress warrant proceeding” are substituted for “proceedings on such warrant altogether, or for so much thereof as the nature of” to eliminate unnecessary words. The words “with sufficient security” and “as may be awarded against him” are omitted as surplus.
+In subsection (b)(1), the words “bring a civil action . . . court” are substituted for “prefer a bill of complaint . . . judge” for consistency in the revised title and with other titles of the Code. The words “of which he complains” are omitted as surplus. The words “any part of a distress warrant proceeding” are substituted for “proceedings on such warrant altogether, or for so much thereof as the nature of” to eliminate unnecessary words. The words “with sufficient security” and “as may be awarded against him” are omitted as surplus.
 
 In subsection (b)(2), the words “in any manner” are omitted as surplus. The words “under section 3542(b)(1) of this title” are substituted for “produced by the issuing of the warrant” for clarity. The last sentence is substituted for 31:518(2d sentence words before semicolon) to eliminate unnecessary words.
 
-In subsection (b)(3), the words “on a finding” are substituted for “it appears to the satisfaction of the judge” for clarity and consistency and to eliminate unnecessary words. The words “civil action” are substituted for “application” for consistency. The words “increase the interest rate imposed . . . to” are substituted for “add to the lawful interest assessed . . . such damages as, with such lawful interest, shall” to eliminate unnecessary words. The words “all” and “district” are omitted as surplus.
+In subsection (b)(3), the words “on a finding” are substituted for “it appears to the satisfaction of the judge” for clarity and consistency and to eliminate unnecessary words. The words “civil action” are substituted for “application” for consistency. The words “increase the interest rate imposed . . . to” are substituted for “add to the lawful interest assessed . . . such damages as, with such lawful interest, shall” to eliminate unnecessary words. The words “all” and “district” are omitted as surplus.
 
-In subsection (c), the text of R.S. § 3637(last sentence) is omitted as obsolete because of section 289 of the Act of March 3, 1911 (ch. 231, 36 Stat. 1167). The words “When the district judge”, “to stay proceedings on a distress warrant”, “after it is granted”, and “by the decision in the premises”, are omitted as surplus. The words “may petition . . . by giving the judge or justice” are substituted for “may lay before” for clarity. The words “judge of a circuit court of appeals” are substituted for “circuit judge of the circuit” for consistency with 28:43. The words “Supreme Court justice allotted to that district” are substituted for “circuit justice” for clarity and consistency with 28:42. The words “and thereupon”, “as the case may be”, and “the equity of” are omitted as surplus.
+In subsection (c), the text of R.S. § 3637(last sentence) is omitted as obsolete because of section 289 of the Act of March 3, 1911 (ch. 231, 36 Stat. 1167). The words “When the district judge”, “to stay proceedings on a distress warrant”, “after it is granted”, and “by the decision in the premises”, are omitted as surplus. The words “may petition . . . by giving the judge or justice” are substituted for “may lay before” for clarity. The words “judge of a circuit court of appeals” are substituted for “circuit judge of the circuit” for consistency with 28:43. The words “Supreme Court justice allotted to that district” are substituted for “circuit justice” for clarity and consistency with 28:42. The words “and thereupon”, “as the case may be”, and “the equity of” are omitted as surplus.
 
-### § 3544. Rights and remedies of the United States Government reserved
+### § 3544. Rights and remedies of the United States Government reserved
 
 This subchapter does not affect a right or remedy the United States Government has by law to recover a tax, debt, or demand.
 
@@ -1614,11 +1614,11 @@ This subchapter does not affect a right or remedy the United States Government h
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3544 | 31:520. | R.S. § 3638. |
+| 3544 | 31:520. | R.S. § 3638. |
 
 The words “relating to distress warrants” and “take away or” are omitted as surplus.
 
-### § 3545. Civil action to recover money
+### § 3545. Civil action to recover money
 
 The Attorney General shall bring a civil action to recover an amount due to the United States Government on settlement of the account of a person accountable for public money when the person neglects or refuses to pay the amount to the Treasury. Any commission of that person and interest of 6 percent a year from the time the money is received by the person until repaid to the Treasury shall be added to the amount due on the account. The commission is forfeited when judgment is obtained.
 
@@ -1628,13 +1628,13 @@ The Attorney General shall bring a civil action to recover an amount due to the 
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3545 | 31:505. | R.S. § 3624. |
+| 3545 | 31:505. | R.S. § 3624. |
 
-The functions of the First Comptroller of the Treasury, referred to in Revised Statutes section 3624, were as a matter of law vested in the Solicitor of the Treasury by Revised Statutes sections 377 and 379 (based on the Act of May 28, 1830, ch. 153, 45 Stat. 414). This function is now vested in the Attorney General. See 28:507 as enacted in 1948 and revision notes thereto and existing 28:519, 547, and 509. The words “bring a civil action” are substituted for “institute suit” for consistency in the revised title and with other titles of the United States Code. The word “amount” is substituted for “sum or balance” to eliminate unnecessary words. The words “reported to be” are omitted as surplus. The word “settlement” is substituted for “adjustment” for consistency. The words “by the person” are added for clarity. The words “stated to be”, “in every instance where suit is commenced and . . . thereon”, and “it shall be” are omitted as surplus.
+The functions of the First Comptroller of the Treasury, referred to in Revised Statutes section 3624, were as a matter of law vested in the Solicitor of the Treasury by Revised Statutes sections 377 and 379 (based on the Act of May 28, 1830, ch. 153, 45 Stat. 414). This function is now vested in the Attorney General. See 28:507 as enacted in 1948 and revision notes thereto and existing 28:519, 547, and 509. The words “bring a civil action” are substituted for “institute suit” for consistency in the revised title and with other titles of the United States Code. The word “amount” is substituted for “sum or balance” to eliminate unnecessary words. The words “reported to be” are omitted as surplus. The word “settlement” is substituted for “adjustment” for consistency. The words “by the person” are added for clarity. The words “stated to be”, “in every instance where suit is commenced and . . . thereon”, and “it shall be” are omitted as surplus.
 
 ## SUBCHAPTER V—PROCUREMENT PROTEST SYSTEM
 
-### § 3551. Definitions
+### § 3551. Definitions
 
 In this subchapter:
 
@@ -1662,15 +1662,15 @@ In this subchapter:
 
 **(3)** The term “Federal agency” has the meaning given such term by section 102 of title 40.
 
-(Added Pub. L. 98–369, div. B, title VII, § 2741(a), July 18, 1984, 98 Stat. 1199; amended Pub. L. 99–145, title XIII, § 1304(d), Nov. 8, 1985, 99 Stat. 742; Pub. L. 103–272, § 4(f)(1)(K), July 5, 1994, 108 Stat. 1362; Pub. L. 103–355, title I, § 1401, Oct. 13, 1994, 108 Stat. 3287; Pub. L. 104–106, div. D, title XLIII, § 4321(d)(1), Feb. 10, 1996, 110 Stat. 674; Pub. L. 107–217, § 3(h)(6), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–375, div. A, title III, § 326(a), Oct. 28, 2004, 118 Stat. 1848; Pub. L. 110–161, div. D, title VII, § 739(c)(1)(A), Dec. 26, 2007, 121 Stat. 2030; Pub. L. 110–181, div. A, title III, § 326(a), Jan. 28, 2008, 122 Stat. 62; Pub. L. 111–84, div. A, title III, § 327(a), (b), Oct. 28, 2009, 123 Stat. 2255.)
+(Added Pub. L. 98–369, div. B, title VII, § 2741(a), July 18, 1984, 98 Stat. 1199; amended Pub. L. 99–145, title XIII, § 1304(d), Nov. 8, 1985, 99 Stat. 742; Pub. L. 103–272, § 4(f)(1)(K), July 5, 1994, 108 Stat. 1362; Pub. L. 103–355, title I, § 1401, Oct. 13, 1994, 108 Stat. 3287; Pub. L. 104–106, div. D, title XLIII, § 4321(d)(1), Feb. 10, 1996, 110 Stat. 674; Pub. L. 107–217, § 3(h)(6), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–375, div. A, title III, § 326(a), Oct. 28, 2004, 118 Stat. 1848; Pub. L. 110–161, div. D, title VII, § 739(c)(1)(A), Dec. 26, 2007, 121 Stat. 2030; Pub. L. 110–181, div. A, title III, § 326(a), Jan. 28, 2008, 122 Stat. 62; Pub. L. 111–84, div. A, title III, § 327(a), (b), Oct. 28, 2009, 123 Stat. 2255.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2009—Par. (1)(E). Pub. L. 111–84, § 327(a), added subpar. (E).
+2009—Par. (1)(E). Pub. L. 111–84, § 327(a), added subpar. (E).
 
-Par. (2)(B)(i). Pub. L. 111–84, § 327(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “any official who submitted the agency tender in such competition; and”.
+Par. (2)(B)(i). Pub. L. 111–84, § 327(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “any official who submitted the agency tender in such competition; and”.
 
 2008—Par. (2). Pub. L. 110–181 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘interested party’—
 
@@ -1692,17 +1692,17 @@ Par. (2)(B)(i). Pub. L. 111–84, § 327(b), amended cl. (i) generally. Prior 
 
 2002—Par. (3). Pub. L. 107–217 substituted “section 102 of title 40” for “section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)”.
 
-1996—Pub. L. 104–106, § 4321(d)(1)(A), substituted “subchapter:” for “subchapter—” in introductory provisions.
+1996—Pub. L. 104–106, § 4321(d)(1)(A), substituted “subchapter:” for “subchapter—” in introductory provisions.
 
-Par. (2). Pub. L. 104–106, § 4321(d)(1)(B), substituted “or a solicitation or other request for offers” for “or proposed contract”.
+Par. (2). Pub. L. 104–106, § 4321(d)(1)(B), substituted “or a solicitation or other request for offers” for “or proposed contract”.
 
-1994—Par. (1). Pub. L. 103–355, § 1401(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘protest’ means a written objection by an interested party to a solicitation by a Federal agency for bids or proposals for a proposed contract for the procurement of property or services or a written objection by an interested party to a proposed award or the award of such a contract;”.
+1994—Par. (1). Pub. L. 103–355, § 1401(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘protest’ means a written objection by an interested party to a solicitation by a Federal agency for bids or proposals for a proposed contract for the procurement of property or services or a written objection by an interested party to a proposed award or the award of such a contract;”.
 
 Pub. L. 103–272 substituted “a Federal” for “an Federal”.
 
-Par. (2). Pub. L. 103–355, § 1401(b)(1), inserted “The term” after “(2)” and substituted a period for “; and” at end.
+Par. (2). Pub. L. 103–355, § 1401(b)(1), inserted “The term” after “(2)” and substituted a period for “; and” at end.
 
-Par. (3). Pub. L. 103–355, § 1401(b)(2), inserted “The term” after “(3)”.
+Par. (3). Pub. L. 103–355, § 1401(b)(2), inserted “The term” after “(3)”.
 
 1985—Par. (1). Pub. L. 99–145 substituted “Federal agency” for “executive agency”.
 
@@ -1710,7 +1710,7 @@ Par. (3). Pub. L. 103–355, § 1401(b)(2), inserted “The term” after “(
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title III, § 327(d), Oct. 28, 2009, 123 Stat. 2255, provided that:
+Pub. L. 111–84, div. A, title III, § 327(d), Oct. 28, 2009, 123 Stat. 2255, provided that:
 
 > “The amendments made by this section [amending this section and section 3554 of this title] shall apply—
 
@@ -1730,7 +1730,7 @@ Amendment by Pub. L. 110–161 applicable with respect to fiscal year 2008 and e
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–375, div. A, title III, § 326(d), Oct. 28, 2004, 118 Stat. 1848, provided that: “The amendments made by this section [amending this section and sections 3552 and 3553 of this title] shall apply to protests filed under subchapter V of chapter 35 of title 31, United States Code, that relate to studies initiated under Office of Management and Budget Circular A–76 on or after the end of the 90-day period beginning on the date of the enactment of this Act [Oct. 28, 2004].”
+Pub. L. 108–375, div. A, title III, § 326(d), Oct. 28, 2004, 118 Stat. 1848, provided that: “The amendments made by this section [amending this section and sections 3552 and 3553 of this title] shall apply to protests filed under subchapter V of chapter 35 of title 31, United States Code, that relate to studies initiated under Office of Management and Budget Circular A–76 on or after the end of the 90-day period beginning on the date of the enactment of this Act [Oct. 28, 2004].”
 
 **Effective Date of 1996 Amendment**
 
@@ -1746,9 +1746,9 @@ Section applicable with respect to any protest filed after Jan. 14, 1985, see se
 
 **Construction of 2004 Amendment**
 
-Pub. L. 108–375, div. A, title III, § 326(e), Oct. 28, 2004, 118 Stat. 1849, provided that: “The amendments made by this section [amending this section and sections 3552 and 3553 of this title] shall not be construed to authorize the use of a protest under subchapter V of chapter 35 of title 31, United States Code, with regard to a decision made by an agency tender official.”
+Pub. L. 108–375, div. A, title III, § 326(e), Oct. 28, 2004, 118 Stat. 1849, provided that: “The amendments made by this section [amending this section and sections 3552 and 3553 of this title] shall not be construed to authorize the use of a protest under subchapter V of chapter 35 of title 31, United States Code, with regard to a decision made by an agency tender official.”
 
-### § 3552. Protests by interested parties concerning procurement actions
+### § 3552. Protests by interested parties concerning procurement actions
 
 **(a)** A protest concerning an alleged violation of a procurement statute or regulation shall be decided by the Comptroller General if filed in accordance with this subchapter.
 
@@ -1758,7 +1758,7 @@ Pub. L. 108–375, div. A, title III, § 326(e), Oct. 28, 2004, 118 Stat. 1849
 
 **(2)** The determination of an agency tender official under paragraph (1) whether or not to file a protest is not subject to administrative or judicial review. An agency tender official shall provide written notification to Congress whenever the official makes a determination under paragraph (1) that there is no reasonable basis for a protest.
 
-(Added Pub. L. 98–369, div. B, title VII, § 2741(a), July 18, 1984, 98 Stat. 1199; amended Pub. L. 103–272, § 4(f)(1)(L), July 5, 1994, 108 Stat. 1362; Pub. L. 103–355, title X, § 10005(d), Oct. 13, 1994, 108 Stat. 3408; Pub. L. 104–106, div. E, title LVI, § 5603, Feb. 10, 1996, 110 Stat. 700; Pub. L. 108–375, div. A, title III, § 326(b), Oct. 28, 2004, 118 Stat. 1848.)
+(Added Pub. L. 98–369, div. B, title VII, § 2741(a), July 18, 1984, 98 Stat. 1199; amended Pub. L. 103–272, § 4(f)(1)(L), July 5, 1994, 108 Stat. 1362; Pub. L. 103–355, title X, § 10005(d), Oct. 13, 1994, 108 Stat. 3408; Pub. L. 104–106, div. E, title LVI, § 5603, Feb. 10, 1996, 110 Stat. 700; Pub. L. 108–375, div. A, title III, § 326(b), Oct. 28, 2004, 118 Stat. 1848.)
 
 **Editorial Notes**
 
@@ -1792,7 +1792,7 @@ Section applicable with respect to any protest filed after Jan. 14, 1985, see se
 
 Amendment by Pub. L. 108–375 not to be construed to authorize the use of a protest under this subchapter with regard to a decision made by an agency tender official, see section 326(e) of Pub. L. 108–375, set out as a note under section 3551 of this title.
 
-### § 3553. Review of protests; effect on contracts pending decision
+### § 3553. Review of protests; effect on contracts pending decision
 
 **(a)** Under procedures prescribed under section 3555 of this title, the Comptroller General shall decide a protest submitted to the Comptroller General by an interested party.
 
@@ -1878,7 +1878,7 @@ Amendment by Pub. L. 108–375 not to be construed to authorize the use of a pro
 
 **(g)** If an interested party files a protest in connection with a public-private competition described in section 3551(2)(B) of this title, a person representing a majority of the employees of the Federal agency who are engaged in the performance of the activity or function subject to the public-private competition may intervene in protest.
 
-(Added Pub. L. 98–369, div. B, title VII, § 2741(a), July 18, 1984, 98 Stat. 1200; amended Pub. L. 103–355, title I, §§ 1402, 1403(c), Oct. 13, 1994, 108 Stat. 3287, 3290; Pub. L. 104–106, div. D, title XLIII, § 4321(d)(2), div. E, title LV, § 5501(1), Feb. 10, 1996, 110 Stat. 674, 698; Pub. L. 108–375, div. A, title III, § 326(c), Oct. 28, 2004, 118 Stat. 1848; Pub. L. 115–91, div. A, title VIII, § 818(c), Dec. 12, 2017, 131 Stat. 1464; Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(5), Dec. 27, 2021, 135 Stat. 2160.)
+(Added Pub. L. 98–369, div. B, title VII, § 2741(a), July 18, 1984, 98 Stat. 1200; amended Pub. L. 103–355, title I, §§ 1402, 1403(c), Oct. 13, 1994, 108 Stat. 3287, 3290; Pub. L. 104–106, div. D, title XLIII, § 4321(d)(2), div. E, title LV, § 5501(1), Feb. 10, 1996, 110 Stat. 674, 698; Pub. L. 108–375, div. A, title III, § 326(c), Oct. 28, 2004, 118 Stat. 1848; Pub. L. 115–91, div. A, title VIII, § 818(c), Dec. 12, 2017, 131 Stat. 1464; Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(5), Dec. 27, 2021, 135 Stat. 2160.)
 
 **Editorial Notes**
 
@@ -1890,19 +1890,19 @@ Amendment by Pub. L. 108–375 not to be construed to authorize the use of a pro
 
 2004—Subsec. (g). Pub. L. 108–375 added subsec. (g).
 
-1996—Subsec. (b)(2)(A). Pub. L. 104–106, § 5501(1), substituted “30 days” for “35 days”.
+1996—Subsec. (b)(2)(A). Pub. L. 104–106, § 5501(1), substituted “30 days” for “35 days”.
 
-Subsec. (b)(3). Pub. L. 104–106, § 4321(d)(2), substituted “3554(a)(4)” for “3554(a)(3)”.
+Subsec. (b)(3). Pub. L. 104–106, § 4321(d)(2), substituted “3554(a)(4)” for “3554(a)(3)”.
 
-1994—Subsec. (b)(1). Pub. L. 103–355, § 1402(a)(1)(A), substituted “one day after” for “one working day of”.
+1994—Subsec. (b)(1). Pub. L. 103–355, § 1402(a)(1)(A), substituted “one day after” for “one working day of”.
 
-Subsec. (b)(2)(A). Pub. L. 103–355, § 1402(a)(1)(B)(i), substituted “35 days after” for “25 working days from”.
+Subsec. (b)(2)(A). Pub. L. 103–355, § 1402(a)(1)(B)(i), substituted “35 days after” for “25 working days from”.
 
-Subsec. (b)(2)(C). Pub. L. 103–355, § 1402(a)(1)(B)(ii), substituted “20 days after” for “10 working days from”.
+Subsec. (b)(2)(C). Pub. L. 103–355, § 1402(a)(1)(B)(ii), substituted “20 days after” for “10 working days from”.
 
-Subsec. (c)(3). Pub. L. 103–355, § 1402(a)(2), substituted “after the making of such finding” for “thereafter”.
+Subsec. (c)(3). Pub. L. 103–355, § 1402(a)(2), substituted “after the making of such finding” for “thereafter”.
 
-Subsec. (d). Pub. L. 103–355, § 1402(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+Subsec. (d). Pub. L. 103–355, § 1402(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
 “(d)(1) If a Federal agency receives notice of a protest under this section after the contract has been awarded but within 10 days of the date of the contract award, the Federal agency (except as provided under paragraph (2)) shall, upon receipt of that notice, immediately direct the contractor to cease performance under the contract and to suspend any related activities that may result in additional obligations being incurred by the United States under that contract. Performance of the contract may not be resumed while the protest is pending.
 
@@ -1916,7 +1916,7 @@ Subsec. (d). Pub. L. 103–355, § 1402(b), amended subsec. (d) generally. Pri
 
 “(B) after the Comptroller General is notified of that finding.”
 
-Subsec. (f). Pub. L. 103–355, § 1403(c), designated existing provisions as par. (1) and added par. (2).
+Subsec. (f). Pub. L. 103–355, § 1403(c), designated existing provisions as par. (1) and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1942,7 +1942,7 @@ Section applicable with respect to any protest filed after Jan. 14, 1985, see se
 
 Amendment by Pub. L. 108–375 not to be construed to authorize the use of a protest under this subchapter with regard to a decision made by an agency tender official, see section 326(e) of Pub. L. 108–375, set out as a note under section 3551 of this title.
 
-### § 3554. Decisions on protests
+### § 3554. Decisions on protests
 
 **(a)**
 
@@ -2020,7 +2020,7 @@ Amendment by Pub. L. 108–375 not to be construed to authorize the use of a pro
 
 **(2)** Not later than January 31 of each year, the Comptroller General shall transmit to the Congress a report containing a summary of each instance in which a Federal agency did not fully implement a recommendation of the Comptroller General under subsection (b) or (c) during the preceding year. The report shall also describe each instance in which a final decision in a protest was not rendered within 100 days after the date the protest is submitted to the Comptroller General. The report shall also include a summary of the most prevalent grounds for sustaining protests during such preceding year.
 
-(Added Pub. L. 98–369, div. B, title VII, § 2741(a), July 18, 1984, 98 Stat. 1201; amended Pub. L. 100–463, title VIII, § 8139, Oct. 1, 1988, 102 Stat. 2270–47; Pub. L. 103–355, title I, § 1403(a)–(b)(3), Oct. 13, 1994, 108 Stat. 3289, 3290; Pub. L. 104–106, div. D, title XLIII, § 4321(d)(3), div. E, title LV, § 5501(2), Feb. 10, 1996, 110 Stat. 674, 698; Pub. L. 111–84, div. A, title III, § 327(c), Oct. 28, 2009, 123 Stat. 2255; Pub. L. 112–239, div. A, title VIII, § 867, Jan. 2, 2013, 126 Stat. 1862.)
+(Added Pub. L. 98–369, div. B, title VII, § 2741(a), July 18, 1984, 98 Stat. 1201; amended Pub. L. 100–463, title VIII, § 8139, Oct. 1, 1988, 102 Stat. 2270–47; Pub. L. 103–355, title I, § 1403(a)–(b)(3), Oct. 13, 1994, 108 Stat. 3289, 3290; Pub. L. 104–106, div. D, title XLIII, § 4321(d)(3), div. E, title LV, § 5501(2), Feb. 10, 1996, 110 Stat. 674, 698; Pub. L. 111–84, div. A, title III, § 327(c), Oct. 28, 2009, 123 Stat. 2255; Pub. L. 112–239, div. A, title VIII, § 867, Jan. 2, 2013, 126 Stat. 1862.)
 
 **Editorial Notes**
 
@@ -2032,25 +2032,25 @@ Section 3(a) of the Small Business Act, referred to in subsec. (c)(2), is classi
 
 2013—Subsec. (e)(2). Pub. L. 112–239 inserted at end “The report shall also include a summary of the most prevalent grounds for sustaining protests during such preceding year.”
 
-2009—Subsec. (b)(1)(C) to (H). Pub. L. 111–84 added subpar. (C), redesignated former subpars. (C) to (G) as (D) to (H), respectively, and substituted “, (E), and (F)” for “, and (E)” in subpar. (G).
+2009—Subsec. (b)(1)(C) to (H). Pub. L. 111–84 added subpar. (C), redesignated former subpars. (C) to (G) as (D) to (H), respectively, and substituted “, (E), and (F)” for “, and (E)” in subpar. (G).
 
-1996—Subsec. (a)(1). Pub. L. 104–106, § 5501(2)(A), substituted “100 days” for “125 days”.
+1996—Subsec. (a)(1). Pub. L. 104–106, § 5501(2)(A), substituted “100 days” for “125 days”.
 
-Subsec. (b)(2). Pub. L. 104–106, § 4321(d)(3), substituted “section 3553(d)(3)(C)(i)(I)” for “section 3553(d)(2)(A)(i)”.
+Subsec. (b)(2). Pub. L. 104–106, § 4321(d)(3), substituted “section 3553(d)(3)(C)(i)(I)” for “section 3553(d)(2)(A)(i)”.
 
-Subsec. (e)(1). Pub. L. 104–106, § 5501(2)(B)(i), substituted “Government Reform and Oversight” for “Government Operations”.
+Subsec. (e)(1). Pub. L. 104–106, § 5501(2)(B)(i), substituted “Government Reform and Oversight” for “Government Operations”.
 
-Subsec. (e)(2). Pub. L. 104–106, § 5501(2)(B)(ii), substituted “100 days” for “125 days”.
+Subsec. (e)(2). Pub. L. 104–106, § 5501(2)(B)(ii), substituted “100 days” for “125 days”.
 
-1994—Subsec. (a)(1). Pub. L. 103–355, § 1403(a)(1), substituted “125 days after” for “90 working days from”.
+1994—Subsec. (a)(1). Pub. L. 103–355, § 1403(a)(1), substituted “125 days after” for “90 working days from”.
 
-Subsec. (a)(2). Pub. L. 103–355, § 1403(a)(2), substituted “65 days after” for “45 calendar days from”.
+Subsec. (a)(2). Pub. L. 103–355, § 1403(a)(2), substituted “65 days after” for “45 calendar days from”.
 
-Subsec. (a)(3), (4). Pub. L. 103–355, § 1403(a)(3), (4), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (a)(3), (4). Pub. L. 103–355, § 1403(a)(3), (4), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (b)(3). Pub. L. 103–355, § 1403(b)(1), added par. (3).
+Subsec. (b)(3). Pub. L. 103–355, § 1403(b)(1), added par. (3).
 
-Subsec. (c). Pub. L. 103–355, § 1403(b)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+Subsec. (c). Pub. L. 103–355, § 1403(b)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
 “(c)(1) If the Comptroller General determines that a solicitation for a contract or a proposed award or the award of a contract does not comply with a statute or regulation, the Comptroller General may declare an appropriate interested party to be entitled to the costs of—
 
@@ -2060,7 +2060,7 @@ Subsec. (c). Pub. L. 103–355, § 1403(b)(2), amended subsec. (c) generally. 
 
 “(2) Monetary awards to which a party is declared to be entitled under paragraph (1) of this subsection shall be paid promptly by the Federal agency concerned out of funds available to or for the use of the Federal agency for the procurement of property and services.”
 
-Subsec. (e). Pub. L. 103–355, § 1403(b)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
+Subsec. (e). Pub. L. 103–355, § 1403(b)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
 
 “(e)(1) The head of the procuring activity responsible for the solicitation, proposed award, or award of the contract shall report to the Comptroller General, if the Federal agency has not fully implemented those recommendations within 60 days of receipt of the Comptroller General’s recommendations under subsection (b) of this section.
 
@@ -2096,13 +2096,13 @@ Section applicable with respect to any protest filed after Jan. 14, 1985, see se
 
 **Inclusion of Information on Common Grounds for Sustaining Bid Protests in Annual Government Accountability Office Reports to Congress**
 
-Pub. L. 114–328, div. A, title VIII, § 889, Dec. 23, 2016, 130 Stat. 2323, provided that: “The Comptroller General of the United States shall include in the annual report to Congress on the Government Accountability Office each year a list of the most common grounds for sustaining protests relating to bids for contracts during such year.”
+Pub. L. 114–328, div. A, title VIII, § 889, Dec. 23, 2016, 130 Stat. 2323, provided that: “The Comptroller General of the United States shall include in the annual report to Congress on the Government Accountability Office each year a list of the most common grounds for sustaining protests relating to bids for contracts during such year.”
 
 **Prompt Payment of Costs Under Prior Law**
 
-Pub. L. 103–355, title I, § 1403(b)(4), Oct. 13, 1994, 108 Stat. 3290, provided that: “Costs to which the Comptroller General declared an interested party to be entitled under section 3554 of title 31, United States Code, as in effect immediately before the enactment of this Act [Oct. 13, 1994], shall, if not paid or otherwise satisfied by the Federal agency concerned before the date of the enactment of this Act, be paid promptly.”
+Pub. L. 103–355, title I, § 1403(b)(4), Oct. 13, 1994, 108 Stat. 3290, provided that: “Costs to which the Comptroller General declared an interested party to be entitled under section 3554 of title 31, United States Code, as in effect immediately before the enactment of this Act [Oct. 13, 1994], shall, if not paid or otherwise satisfied by the Federal agency concerned before the date of the enactment of this Act, be paid promptly.”
 
-### § 3555. Regulations; authority of Comptroller General to verify assertions
+### § 3555. Regulations; authority of Comptroller General to verify assertions
 
 **(a)** The Comptroller General shall prescribe such procedures as may be necessary to the expeditious decision of protests under this subchapter, including procedures for accelerated resolution of protests under the express option authorized by section 3554(a)(2) of this title. Such procedures shall provide that the protest process may not be delayed by the failure of a party to make a filing within the time provided for the filing.
 
@@ -2138,7 +2138,7 @@ Pub. L. 103–355, title I, § 1403(b)(4), Oct. 13, 1994, 108 Stat. 3290, prov
 
 **(d)** The Comptroller General may use any authority available under chapter 7 of this title and this chapter to verify assertions made by parties in protests under this subchapter.
 
-(Added Pub. L. 98–369, div. B, title VII, § 2741(a), July 18, 1984, 98 Stat. 1202; amended Pub. L. 103–355, title I, § 1404, Oct. 13, 1994, 108 Stat. 3291; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–76, div. I, title I, § 1501, Jan. 17, 2014, 128 Stat. 433.)
+(Added Pub. L. 98–369, div. B, title VII, § 2741(a), July 18, 1984, 98 Stat. 1202; amended Pub. L. 103–355, title I, § 1404, Oct. 13, 1994, 108 Stat. 3291; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–76, div. I, title I, § 1501, Jan. 17, 2014, 128 Stat. 433.)
 
 **Editorial Notes**
 
@@ -2148,9 +2148,9 @@ Pub. L. 103–355, title I, § 1403(b)(4), Oct. 13, 1994, 108 Stat. 3290, prov
 
 2004—Subsec. (b)(2)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
-1994—Subsec. (a). Pub. L. 103–355, § 1404(c), substituted “The Comptroller General” for “Not later than January 15, 1985, the Comptroller General”.
+1994—Subsec. (a). Pub. L. 103–355, § 1404(c), substituted “The Comptroller General” for “Not later than January 15, 1985, the Comptroller General”.
 
-Subsecs. (b) to (d). Pub. L. 103–355, § 1404(a), (b), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+Subsecs. (b) to (d). Pub. L. 103–355, § 1404(a), (b), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2162,11 +2162,11 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 4751 of Title 10, Armed Forces.
 
-### § 3556. Nonexclusivity of remedies; matters included in agency record
+### § 3556. Nonexclusivity of remedies; matters included in agency record
 
 This subchapter does not give the Comptroller General exclusive jurisdiction over protests, and nothing contained in this subchapter shall affect the right of any interested party to file a protest with the contracting agency or to file an action in the United States Court of Federal Claims. In any such action based on a procurement or proposed procurement with respect to which a protest has been filed under this subchapter, the reports required by sections 3553(b)(2) and 3554(e)(1) of this title with respect to such procurement or proposed procurement and any decision or recommendation of the Comptroller General under this subchapter with respect to such procurement or proposed procurement shall be considered to be part of the agency record subject to review.
 
-(Added Pub. L. 98–369, div. B, title VII, § 2741(a), July 18, 1984, 98 Stat. 1202; amended Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–320, § 12(f), Oct. 19, 1996, 110 Stat. 3876.)
+(Added Pub. L. 98–369, div. B, title VII, § 2741(a), July 18, 1984, 98 Stat. 1202; amended Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–320, § 12(f), Oct. 19, 1996, 110 Stat. 3876.)
 
 **Editorial Notes**
 
@@ -2192,43 +2192,43 @@ Section applicable with respect to any protest filed after Jan. 14, 1985, see se
 
 **Nonexclusivity of GAO Remedies**
 
-Pub. L. 104–320, § 12(f), Oct. 19, 1996, 110 Stat. 3876, provided that: “In the event that the bid protest jurisdiction of the district courts of the United States is terminated pursuant to subsection (d) [set out as a Sunset Provision note under section 1491 of Title 28, Judiciary and Judicial Procedure], then section 3556 of title 31, United States Code, shall be amended by striking ‘a court of the United States or’ in the first sentence.” [Bid protest jurisdiction of the district courts of the United States terminated on Jan. 1, 2001, pursuant to section 12(d) of Pub. L. 104–320.]
+Pub. L. 104–320, § 12(f), Oct. 19, 1996, 110 Stat. 3876, provided that: “In the event that the bid protest jurisdiction of the district courts of the United States is terminated pursuant to subsection (d) [set out as a Sunset Provision note under section 1491 of Title 28, Judiciary and Judicial Procedure], then section 3556 of title 31, United States Code, shall be amended by striking ‘a court of the United States or’ in the first sentence.” [Bid protest jurisdiction of the district courts of the United States terminated on Jan. 1, 2001, pursuant to section 12(d) of Pub. L. 104–320.]
 
-### § 3557. Expedited action in protests of public-private competitions
+### § 3557. Expedited action in protests of public-private competitions
 
 For any protest of a public-private competition conducted under Office of Management and Budget Circular A–76 with respect to the performance of an activity or function of a Federal agency, the Comptroller General shall administer the provisions of this subchapter in the manner best suited for expediting the final resolution of the protest and the final action in the public-private competition.
 
-(Added Pub. L. 110–181, div. A, title III, § 326(b)(1), Jan. 28, 2008, 122 Stat. 63; amended Pub. L. 110–417, [div. A], title X, § 1061(c)(2), Oct. 14, 2008, 122 Stat. 4613.)
+(Added Pub. L. 110–181, div. A, title III, § 326(b)(1), Jan. 28, 2008, 122 Stat. 63; amended Pub. L. 110–417, [div. A], title X, § 1061(c)(2), Oct. 14, 2008, 122 Stat. 4613.)
 
 **Editorial Notes**
 
 **Codification**
 
-Another section 3557, added Pub. L. 110–161, div. D, title VII, § 739(c)(1)(B)(i), Dec. 26, 2007, 121 Stat. 2030, related to an expedited action in protests for public-private competitions, prior to repeal by Pub. L. 110–417, [div. A], title X, § 1061(c)(1), Oct. 14, 2008, 122 Stat. 4613.
+Another section 3557, added Pub. L. 110–161, div. D, title VII, § 739(c)(1)(B)(i), Dec. 26, 2007, 121 Stat. 2030, related to an expedited action in protests for public-private competitions, prior to repeal by Pub. L. 110–417, [div. A], title X, § 1061(c)(1), Oct. 14, 2008, 122 Stat. 4613.
 
 **Amendments**
 
 2008—Pub. L. 110–417 substituted “public-private” for “Public-Private” in section catchline.
 
-## SUBCHAPTER VI—RECOVERY AUDITS 1 [footnote: 1 Editorially supplied.]
+## SUBCHAPTER VI—RECOVERY AUDITS 1 [footnote: 1 Editorially supplied.]
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–204, § 2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231, struck out heading “SUBCHAPTER VI—RECOVERY AUDITS”.
+2010—Pub. L. 111–204, § 2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231, struck out heading “SUBCHAPTER VI—RECOVERY AUDITS”.
 
-### [§ 3561. Repealed. Pub. L. 111–204, § 2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231]
+### [§ 3561. Repealed. Pub. L. 111–204, § 2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231]
 
-Section, added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 2001, 115 Stat. 1186, related to identification of errors made by executive agencies in payments to contractors and recovery of amounts erroneously paid.
+Section, added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 2001, 115 Stat. 1186, related to identification of errors made by executive agencies in payments to contractors and recovery of amounts erroneously paid.
 
-### § 3562. Disposition of recovered funds
+### § 3562. Disposition of recovered funds
 
 **(a) Availability of Funds for Recovery Audits and Activities Program.—** Funds collected under a program carried out by an executive agency under section 3352(i) of this title shall be available to the executive agency to reimburse the actual expenses incurred by the executive agency in the administration of the program.
 
-**[(b)** , (c). Repealed. Pub. L. 111–204, § 2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231.]
+**[(b)** , (c). Repealed. Pub. L. 111–204, § 2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231.]
 
-(Added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 2001, 115 Stat. 1187; Pub. L. 111–204, § 2(h)(6)(A), July 22, 2010, 124 Stat. 2231; Pub. L. 116–117, § 3(b)(4), Mar. 2, 2020, 134 Stat. 134.)
+(Added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 2001, 115 Stat. 1187; Pub. L. 111–204, § 2(h)(6)(A), July 22, 2010, 124 Stat. 2231; Pub. L. 116–117, § 3(b)(4), Mar. 2, 2020, 134 Stat. 134.)
 
 **Editorial Notes**
 
@@ -2238,14 +2238,14 @@ Section, added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 2
 
 2010—Pub. L. 111–204 repealed section but provided that subsec. (a) was to continue in effect, with certain exceptions related to programs carried out under section 3561 of this title. Prior to amendment, in addition to subsec. (a), section contained subsecs. (b) and (c) which related to treatment of funds not used for programs under section 3561 of this title and priority of other authorized dispositions, respectively.
 
-### [§§ 3563 to 3567. Repealed. Pub. L. 111–204, § 2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231]
+### [§§ 3563 to 3567. Repealed. Pub. L. 111–204, § 2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231]
 
-Section 3563, added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 2001, 115 Stat. 1187, related to sources of recovery services.
+Section 3563, added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 2001, 115 Stat. 1187, related to sources of recovery services.
 
-Section 3564, added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 2001, 115 Stat. 1188, related to management improvement programs.
+Section 3564, added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 2001, 115 Stat. 1188, related to management improvement programs.
 
-Section 3565, added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 2001, 115 Stat. 1188, related to relationship of subchapter VI to authority of Inspectors General.
+Section 3565, added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 2001, 115 Stat. 1188, related to relationship of subchapter VI to authority of Inspectors General.
 
-Section 3566, added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 2001, 115 Stat. 1188, related to privacy protections.
+Section 3566, added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 2001, 115 Stat. 1188, related to privacy protections.
 
-Section 3567, added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 2001, 115 Stat. 1188; amended Pub. L. 111–350, § 5(h)(5), Jan. 4, 2011, 124 Stat. 3849, defined “executive agency”.
+Section 3567, added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 2001, 115 Stat. 1188; amended Pub. L. 111–350, § 5(h)(5), Jan. 4, 2011, 124 Stat. 3849, defined “executive agency”.

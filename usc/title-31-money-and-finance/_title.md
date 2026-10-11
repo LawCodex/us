@@ -13,13 +13,13 @@ retrieved: 2026-10-11
 
 # Title 31—MONEY AND FINANCE
 
-This title was enacted by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877
+This title was enacted by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877
 
-Current through 119-102not101
+Current through 119-102not101
 
 **Table Showing Disposition of All Sections of Former Title 31**
 
-| *Title 31* *Former Sections* | *Title 31* *New Sections* |
+| *Title 31* *Former Sections* | *Title 31* *New Sections* |
 |---|---|
 | 1 | Rep. |
 | 2 | 701, 1101 |
@@ -33,7 +33,7 @@ Current through 119-102not101
 | 11(k)(2) | 1113 |
 | 11 note | 1105 |
 | 11a | 1109 |
-| 11b | T. 2 § 661 |
+| 11b | T. 2 § 661 |
 | 11c | 1110 |
 | 11d | 1104 |
 | 12 | Rep. |
@@ -85,7 +85,7 @@ Current through 119-102not101
 | 43b(q) | 773 |
 | 43b(r) | 779 |
 | 43c | 777 |
-| 44 (1st sentence) | 711, 731, 3301, 3323, 3324, 3521, 3522, 3526, 3529, 3531, 3541, 3702, (See § 2(b) of Pub. L. 97–258) |
+| 44 (1st sentence) | 711, 731, 3301, 3323, 3324, 3521, 3522, 3526, 3529, 3531, 3541, 3702, (See § 2(b) of Pub. L. 97–258) |
 | 44 (2d, last sentences) | 3526 |
 | 45 | Rep. |
 | 46 | 704 |
@@ -177,29 +177,29 @@ Current through 119-102not101
 | 82f (related to certifying officers) | 3528 |
 | 82g (related to disbursing officers) | 3322 |
 | 82g (related to certifying officers) | 3528 |
-| 82h | T. 7 § 1032a |
+| 82h | T. 7 § 1032a |
 | 82i | 3526 |
 | 82j to 82p | Rep. |
 | 83, 84 | Rep. |
-| 85 | T. 48 § 1469–1 |
+| 85 | T. 48 § 1469–1 |
 | 86 | 3702 |
 | 87, 88 | Rep. |
 | 89–92 | 3531 |
 | 93, 94 | Rep. |
-| 95 | T. 10 § 4842 |
+| 95 | T. 10 § 4842 |
 | 95a | 3527 |
-| 95b (related to Army, Navy, Air Force) | T. 10 § 2777 |
-| 95b (related to State Department) | T. 22 § 2668 |
+| 95b (related to Army, Navy, Air Force) | T. 10 § 2777 |
+| 95b (related to State Department) | T. 22 § 2668 |
 | 96–102 | Rep. |
-| 103 | T. 10 § 2778 |
-| 103a | T. 10 § 2773 |
-| 103b | T. 10 § 2773 |
-| 104 | T. 10 § 7861 |
+| 103 | T. 10 § 2778 |
+| 103a | T. 10 § 2773 |
+| 103b | T. 10 § 2773 |
+| 104 | T. 10 § 7861 |
 | 105 | Rep. |
-| 106 | T. 10 § 7862 |
+| 106 | T. 10 § 7862 |
 | 107 | 3526 |
 | 107a | Rep. |
-| 108 | T. 10 § 7231 |
+| 108 | T. 10 § 7231 |
 | 109–116 | Rep. |
 | 117 | 711 |
 | 118–121 | Rep. |
@@ -265,8 +265,8 @@ Current through 119-102not101
 | 224c to 226 | Rep. |
 | 227 | 3728 |
 | 228 | Rep. |
-| 229 | T. 2 § 190*l* |
-| 230 | T. 2 § 190m |
+| 229 | T. 2 § 190*l* |
+| 230 | T. 2 § 190m |
 | 231 | 3729 |
 | 232(A)–(E) | 3730 |
 | 232(F) | 3731 |
@@ -422,19 +422,19 @@ Current through 119-102not101
 | 473 | 3303 |
 | 474–483 | Rep. |
 | 483a | 9701 |
-| 483b | T. 10 § 1042 |
+| 483b | T. 10 § 1042 |
 | 484 | 3302 |
 | 485 | Rep. |
 | 486 | 321 |
 | 486a to 488 | Rep. |
-| 488a | T. 16 § 580*o*–2 |
+| 488a | T. 16 § 580*o*–2 |
 | 488b to 488b–2 | Rep. |
-| 488b–3 | T. 16 § 580*o* |
-| 488b–4 | T. 16 § 580*o*–1 |
-| 488b–5 | T. 16 § 580*o*–3 |
-| 488b–6 | T. 16 § 580*o*–4 |
-| 489 | T. 40 § 485a (See Rev. T. 40 Table) |
-| 489a | T. 10 § 2636 |
+| 488b–3 | T. 16 § 580*o* |
+| 488b–4 | T. 16 § 580*o*–1 |
+| 488b–5 | T. 16 § 580*o*–3 |
+| 488b–6 | T. 16 § 580*o*–4 |
+| 489 | T. 40 § 485a (See Rev. T. 40 Table) |
+| 489a | T. 10 § 2636 |
 | 490 | 3302 |
 | 491 | Rep. |
 | 492(a) | 3322 |
@@ -444,8 +444,8 @@ Current through 119-102not101
 | 492–2 | Rep. |
 | 492a–492c | 3342 |
 | 492d | Rep. |
-| 493 | T. 10 § 4841 |
-| 493a | T. 10 § 2776 |
+| 493 | T. 10 § 4841 |
+| 493a | T. 10 § 2776 |
 | 493b, 494 | Rep. |
 | 495 | 3302 |
 | 495a | Rep. |
@@ -475,37 +475,37 @@ Current through 119-102not101
 | 528(h) | Rep. |
 | 529 | 3324 |
 | 529a | Rep. |
-| 529b | T. 19 § 2076 |
-| 529c | T. 19 § 2077 |
-| 529d | T. 19 § 2078 |
-| 529e | T. 19 § 2079 |
-| 529f | T. 19 § 2080 |
+| 529b | T. 19 § 2076 |
+| 529c | T. 19 § 2077 |
+| 529d | T. 19 § 2078 |
+| 529e | T. 19 § 2079 |
+| 529f | T. 19 § 2080 |
 | 529g, 529h | Rep. |
-| 529i, 529j | T. 10 § 2395 |
+| 529i, 529j | T. 10 § 2395 |
 | 530 | Rep. |
 | 530a, 530b | 3324 |
-| 531 | T. 15 § 196 |
-| 532 | T. 28 § 571 |
+| 531 | T. 15 § 196 |
+| 532 | T. 28 § 571 |
 | 533 | Rep. |
-| 534 | T. 16 § 556d |
-| 535 | T. 22 § 268b |
-| 536, 537 | T. 10 § 2777 |
+| 534 | T. 16 § 556d |
+| 535 | T. 22 § 268b |
+| 536, 537 | T. 10 § 2777 |
 | 538 | 3526 |
-| 539, 540 | T. 10 § 2777 |
+| 539, 540 | T. 10 § 2777 |
 | 541 | 3526 |
 | 542, 543 | Rep. |
 | 544 | 3341 |
 | 545 | 3302 |
 | 546 | Rep. |
-| 547 | T. 22 § 2668a |
+| 547 | T. 22 § 2668a |
 | 547a | 9702 |
 | 548 | 3305 |
 | 549 | Rep. |
-| 550 | T. 33 § 877 |
+| 550 | T. 33 § 877 |
 | 551, 552 | 1345 |
-| 553 | T. 42 § 3514 |
+| 553 | T. 42 § 3514 |
 | 554 | Rep. |
-| 555 | T. 26 § 4986 note |
+| 555 | T. 26 § 4986 note |
 | 561–563a | 3343 |
 | 564 | 321 |
 | 571 | Rep. |
@@ -521,7 +521,7 @@ Current through 119-102not101
 | 624–626 | Rep. |
 | 627, 628 | 1301 |
 | 628–1 | 1532 |
-| 628–2, 628–3 | T. 10 § 2779 |
+| 628–2, 628–3 | T. 10 § 2779 |
 | 628a | 1534 |
 | 629–638 | Rep. |
 | 638a(a)–(c)(1) | 1343 |
@@ -530,19 +530,19 @@ Current through 119-102not101
 | 638a(d) | Rep. |
 | 638a(e) | 1343 |
 | 638a–1 | 1343 |
-| 638b | T. 33 § 576a |
+| 638b | T. 33 § 576a |
 | 638c | 1343 note |
 | 638d, 638e | 1343 |
 | 638f | Elim. |
 | 639–649 | Rep. |
-| 649a | T. 10 § 956 note |
+| 649a | T. 10 § 956 note |
 | 649b | Rep. |
-| 649c | T. 10 § 2394 |
+| 649c | T. 10 § 2394 |
 | 650 | Rep. |
-| 650a | T. 37 § 406 |
+| 650a | T. 37 § 406 |
 | 650b to 660 | Rep. |
-| 661 | T. 33 § 878 |
-| 662 | T. 16 § 754a |
+| 661 | T. 33 § 878 |
+| 662 | T. 16 § 754a |
 | 663, 663a | Rep. |
 | 664 | Rep. |
 | 665(a) | 1341 |
@@ -568,14 +568,14 @@ Current through 119-102not101
 | 665(i)(2) (related to (h)) | 1517 |
 | 665a | 1515 |
 | 665b | 1502 |
-| 666 | T. 10 § 4541 |
+| 666 | T. 10 § 4541 |
 | 667 | Rep. |
-| 668 | T. 41 § 11a (See Rev. T. 41 Table) |
+| 668 | T. 41 § 11a (See Rev. T. 41 Table) |
 | 668a | 1308 |
 | 669 (words before semicolon) | 1513 |
 | 669 (words after semicolon) | 1341 |
 | 670 | 1302 |
-| 671 | T. 2 §§ 68–2, 95a |
+| 671 | T. 2 §§ 68–2, 95a |
 | 671a | Rep. |
 | 672, 673 | 1346 |
 | 674–678 | Rep. |
@@ -593,24 +593,24 @@ Current through 119-102not101
 | 686b(a), (b), (c) (related to 31:686, 686b) | 1535 |
 | 686b(c) (related to 31:686) | 1536 |
 | 686c to 688 | Rep. |
-| 689 | T. 40 § 166a–1 (See T. 2 § 1861) |
+| 689 | T. 40 § 166a–1 (See T. 2 § 1861) |
 | 690 | Rep. |
 | 691 | 1346 |
-| 692 | T. 43 § 1470 |
-| 693 | T. 43 § 1471 |
-| 693a | T. 28 § 524 |
+| 692 | T. 43 § 1470 |
+| 693 | T. 43 § 1471 |
+| 693a | T. 28 § 524 |
 | 694, 695 | Rep. |
 | 696 | 1347 |
 | 697 | 1533 |
-| 698 | T. 32 § 107 |
-| 698a | T. 37 § 1012 |
-| 699 | T. 42 § 2459a |
+| 698 | T. 32 § 107 |
+| 698a | T. 37 § 1012 |
+| 699 | T. 42 § 2459a |
 | 699a | 1309 |
-| 699b | T. 5 § 3101 note |
-| 700 | T. 10 § 1584 note |
+| 699b | T. 5 § 3101 note |
+| 700 | T. 10 § 1584 note |
 | 700a, 700b | Elim. |
 | 700c | Rep. |
-| 700d | T. 38 § 203 |
+| 700d | T. 38 § 203 |
 | 701(a), (b) | 1552 |
 | 701(c) (1st sentence) | 1551 |
 | 701(c) (last sentence), (d) | 1552 |
@@ -631,17 +631,17 @@ Current through 119-102not101
 | 717, 718 | 1301 |
 | 719, 720 | Rep. |
 | 721 | 1310 |
-| 722 | T. 2 § 30 |
-| 723, 723a | T. 10 § 2661a |
+| 722 | T. 2 § 30 |
+| 723, 723a | T. 10 § 2661a |
 | 724 | 1306 |
 | 724a (1st sentence) | 1304 |
-| 724a (last sentence) | T. 39 § 409 |
+| 724a (last sentence) | T. 39 § 409 |
 | 725 | Rep. |
 | 725a to 725d | Elim. |
 | 725e | Rep. |
 | 725f | Elim. |
 | 725g | Rep. |
-| 725h | T. 24 § 21b |
+| 725h | T. 24 § 21b |
 | 725i to 725k | Rep. |
 | 725*l*, 725m | Elim. |
 | 725n, 725*o* | Rep. |
@@ -653,18 +653,18 @@ Current through 119-102not101
 | 725q (less (a) (last sentence)) | Rep. |
 | 725q–1 | 1322 |
 | 725q–1a | 1324 |
-| 725q–2 | T. 18 § 3150a |
+| 725q–2 | T. 18 § 3150a |
 | 725r | 1323 |
 | 725s (less (a) (last sentence last proviso)) | 1321 |
 | 725s(a) (last sentence last proviso) | 1322 |
-| 725s–1 | T. 25 § 385a |
-| 725s–2 | T. 25 § 385b |
-| 725s–3 | T. 25 § 385c |
-| 725s–4 | T. 18 § 4043 |
+| 725s–1 | T. 25 § 385a |
+| 725s–2 | T. 25 § 385b |
+| 725s–3 | T. 25 § 385c |
+| 725s–4 | T. 18 § 4043 |
 | 725t, 725u | Rep. |
 | 725v(a) | Rep. |
-| 725v(b) (related to marshals) | T. 28 § 572a |
-| 725v(b) (related to clerks) | T. 28 § 2043 |
+| 725v(b) (related to marshals) | T. 28 § 572a |
+| 725v(b) (related to clerks) | T. 28 § 2043 |
 | 725w | 1503 |
 | 725x to 725z | Rep. |
 | 731–733 (words before semicolon) | 3123 |
@@ -692,7 +692,7 @@ Current through 119-102not101
 | 754(a) (less form of certificates of indebtedness and Treasury bills, finality) | 3104 |
 | 754(a) (related to form of certificates of indebtedness and Treasury bills, finality) | 3121 |
 | 754(b) | Rep. |
-| 754(c) | T. 12 § 221 |
+| 754(c) | T. 12 § 221 |
 | 754(d) | Rep. |
 | 754a | 3111 |
 | 754b | 3121 |
@@ -802,7 +802,7 @@ Current through 119-102not101
 | 1021, 1022 | Rep. |
 | 1023(a) | 321 |
 | 1023(b) | 3302 |
-| 1023(c) | T. 18 § 3059 |
+| 1023(c) | T. 18 § 3059 |
 | 1024 | 321 |
 | 1025 | Rep. |
 | 1026 | 330 |
@@ -811,10 +811,10 @@ Current through 119-102not101
 | 1029, 1030 | 331 |
 | 1031, 1032 | 326 |
 | 1033 | 322 |
-| 1034 | T. 21 § 967 |
-| 1035 | T. 21 § 968 |
-| 1036 | T. 21 § 969 |
-| 1037 | T. 26 § 7802 |
+| 1034 | T. 21 § 967 |
+| 1035 | T. 21 § 968 |
+| 1036 | T. 21 § 969 |
+| 1037 | T. 26 § 7802 |
 | 1038 | 323 |
 | 1051 | 5311 |
 | 1052(a)–(i) | 5312 |
@@ -936,32 +936,32 @@ Current through 119-102not101
 | 1263 | 6722 |
 | 1264 | 6713 |
 | 1265 | Rep. |
-| 1301 | T. 2 § 621 |
-| 1302 | T. 2 § 622 |
-| 1303 | T. 2 § 623 |
-| 1321 | T. 2 § 631 |
-| 1322 | T. 2 § 632 |
-| 1323 | T. 2 § 633 |
-| 1324 | T. 2 § 634 |
-| 1325 | T. 2 § 635 |
-| 1326 | T. 2 § 636 |
-| 1327 | T. 2 § 637 |
-| 1328 | T. 2 § 638 |
-| 1329 | T. 2 § 639 |
-| 1330 | T. 2 § 640 |
-| 1331 | T. 2 § 641 |
-| 1332 | T. 2 § 642 |
-| 1351 | T. 2 § 651 |
-| 1352 | T. 2 § 652 |
-| 1353 | T. 2 § 653 |
-| 1400 | T. 2 § 681 |
-| 1401 | T. 2 § 682 |
-| 1402 | T. 2 § 683 |
-| 1403 | T. 2 § 684 |
-| 1404 | T. 2 § 685 |
-| 1405 | T. 2 § 686 |
-| 1406 | T. 2 § 687 |
-| 1407 | T. 2 § 688 |
+| 1301 | T. 2 § 621 |
+| 1302 | T. 2 § 622 |
+| 1303 | T. 2 § 623 |
+| 1321 | T. 2 § 631 |
+| 1322 | T. 2 § 632 |
+| 1323 | T. 2 § 633 |
+| 1324 | T. 2 § 634 |
+| 1325 | T. 2 § 635 |
+| 1326 | T. 2 § 636 |
+| 1327 | T. 2 § 637 |
+| 1328 | T. 2 § 638 |
+| 1329 | T. 2 § 639 |
+| 1330 | T. 2 § 640 |
+| 1331 | T. 2 § 641 |
+| 1332 | T. 2 § 642 |
+| 1351 | T. 2 § 651 |
+| 1352 | T. 2 § 652 |
+| 1353 | T. 2 § 653 |
+| 1400 | T. 2 § 681 |
+| 1401 | T. 2 § 682 |
+| 1402 | T. 2 § 683 |
+| 1403 | T. 2 § 684 |
+| 1404 | T. 2 § 685 |
+| 1405 | T. 2 § 686 |
+| 1406 | T. 2 § 687 |
+| 1407 | T. 2 § 688 |
 | 1501–1510 | Rep. |
 | 1521–1531 | Elim. |
 | 1601 | 6902 |
@@ -991,49 +991,49 @@ Current through 119-102not101
 
 **Enacting Clause**
 
-Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877, provided in part that: “Certain general and permanent laws of the United States, related to money and finance, are revised, codified, and enacted as title 31, United States Code, ‘Money and Finance’… .”
+Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877, provided in part that: “Certain general and permanent laws of the United States, related to money and finance, are revised, codified, and enacted as title 31, United States Code, ‘Money and Finance’… .”
 
 **Legislative Purpose; Inconsistent Provisions**
 
-Pub. L. 97–258, § 4(a), Sept. 13, 1982, 96 Stat. 1067, provided that: “Sections 1–3 of this Act restate, without substantive change, laws enacted before April 16, 1982, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after April 15, 1982, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.”
+Pub. L. 97–258, § 4(a), Sept. 13, 1982, 96 Stat. 1067, provided that: “Sections 1–3 of this Act restate, without substantive change, laws enacted before April 16, 1982, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after April 15, 1982, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.”
 
 **References to Other Laws**
 
-Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, provided that: “A reference to a law replaced by sections 1–3 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.”
+Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, provided that: “A reference to a law replaced by sections 1–3 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.”
 
 **Outstanding Orders, Rules, and Regulations**
 
-Pub. L. 97–258, § 4(c), Sept. 13, 1982, 96 Stat. 1067, provided that: “An order, rule, or regulation in effect under a law replaced by sections 1–3 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.”
+Pub. L. 97–258, § 4(c), Sept. 13, 1982, 96 Stat. 1067, provided that: “An order, rule, or regulation in effect under a law replaced by sections 1–3 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.”
 
 **Savings Provision**
 
-Pub. L. 97–258, § 4(d), Sept. 13, 1982, 96 Stat. 1067, provided that: “An action taken or an offense committed under a law replaced by sections 1–3 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.”
+Pub. L. 97–258, § 4(d), Sept. 13, 1982, 96 Stat. 1067, provided that: “An action taken or an offense committed under a law replaced by sections 1–3 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.”
 
 **Legislative Construction**
 
-Pub. L. 97–258, § 4(e), Sept. 13, 1982, 96 Stat. 1067, provided that: “An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of the caption or catchline of the provision.”
+Pub. L. 97–258, § 4(e), Sept. 13, 1982, 96 Stat. 1067, provided that: “An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of the caption or catchline of the provision.”
 
 **Severability**
 
-Pub. L. 97–258, § 4(f), Sept. 13, 1982, 96 Stat. 1067, provided that: “If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+Pub. L. 97–258, § 4(f), Sept. 13, 1982, 96 Stat. 1067, provided that: “If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
 **Repeals**
 
-Pub. L. 98–216, § 6(a), Feb. 14, 1984, 98 Stat. 7, provided that: “The repeal of a law enacted by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 98–216, § 6(a), Feb. 14, 1984, 98 Stat. 7, provided that: “The repeal of a law enacted by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Pub. L. 98–216, § 6(b), Feb. 14, 1984, 98 Stat. 7, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Feb. 14, 1984.
+Pub. L. 98–216, § 6(b), Feb. 14, 1984, 98 Stat. 7, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Feb. 14, 1984.
 
-Pub. L. 97–452, § 4(a), Jan. 12, 1983, 96 Stat. 2479, provided that: “The repeal of a law enacted by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 97–452, § 4(a), Jan. 12, 1983, 96 Stat. 2479, provided that: “The repeal of a law enacted by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Pub. L. 97–452, § 4(b), Jan. 12, 1983, 96 Stat. 2480, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 12, 1983.
+Pub. L. 97–452, § 4(b), Jan. 12, 1983, 96 Stat. 2480, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 12, 1983.
 
-Pub. L. 97–258, § 5(a), Sept. 13, 1982, 96 Stat. 1068, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 97–258, § 5(a), Sept. 13, 1982, 96 Stat. 1068, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, repealed the sections or parts thereof of the Revised Statutes or Statutes at Large codified in this title, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Sept. 13, 1982.
+Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, repealed the sections or parts thereof of the Revised Statutes or Statutes at Large codified in this title, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Sept. 13, 1982.
 
 **Improvement of United States Code by Pub. L. 98–216; Legislative Purpose; Inconsistent Provisions; Corresponding Provisions; Savings and Separability of Provisions**
 
-Pub. L. 98–216, § 5, Feb. 14, 1984, 98 Stat. 7, provided that:
+Pub. L. 98–216, § 5, Feb. 14, 1984, 98 Stat. 7, provided that:
 
 > **“(a)** Sections 1–4 of this Act restate, without substantive change, laws enacted before April 1, 1983, that were replaced by those sections. Sections 1–4 may not be construed as making a substantive change in the laws replaced. Laws enacted after March 31, 1983, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
@@ -1049,7 +1049,7 @@ Pub. L. 98–216, § 5, Feb. 14, 1984, 98 Stat. 7, provided that:
 
 **Improvement of United States Code by Pub. L. 97–452; Legislative Purpose; Inconsistent Provisions; Corresponding Provisions; Savings and Separability of Provisions**
 
-Pub. L. 97–452, § 3, Jan. 12, 1983, 96 Stat. 2479, provided that:
+Pub. L. 97–452, § 3, Jan. 12, 1983, 96 Stat. 2479, provided that:
 
 > **“(a)** Sections 1 and 2 of this Act restate, without substantive change, laws enacted before December 1, 1982, that were replaced by those sections. Sections 1 and 2 may not be construed as making a substantive change in the laws replaced. Laws enacted after November 30, 1982, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
@@ -1069,9 +1069,9 @@ Pub. L. 97–452, § 3, Jan. 12, 1983, 96 Stat. 2479, provided that:
 
 **Amendments**
 
-2004—Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, substituted “Government Accountability Office” for “General Accounting Office” in item for chapter 7.
+2004—Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, substituted “Government Accountability Office” for “General Accounting Office” in item for chapter 7.
 
-1990—Pub. L. 101–576, title II, § 205(b), Nov. 15, 1990, 104 Stat. 2845, added item for chapter 9.
+1990—Pub. L. 101–576, title II, § 205(b), Nov. 15, 1990, 104 Stat. 2845, added item for chapter 9.
 
 - [CHAPTER 1—DEFINITIONS](chapter-001-definitions.md)
 
@@ -1093,9 +1093,9 @@ Pub. L. 97–452, § 3, Jan. 12, 1983, 96 Stat. 2479, provided that:
 
 ## SUBTITLE III—FINANCIAL MANAGEMENT
 
-1986—Pub. L. 99–509, title VI, § 6103(b), Oct. 21, 1986, 100 Stat. 1948, added item for chapter 38.
+1986—Pub. L. 99–509, title VI, § 6103(b), Oct. 21, 1986, 100 Stat. 1948, added item for chapter 38.
 
-1983—Pub. L. 97–452, § 1(18)(B), Jan. 12, 1983, 96 Stat. 2477, added item for chapter 39.
+1983—Pub. L. 97–452, § 1(18)(B), Jan. 12, 1983, 96 Stat. 2477, added item for chapter 39.
 
 - [CHAPTER 31—PUBLIC DEBT](chapter-031-public-debt.md)
 
@@ -1121,19 +1121,19 @@ Pub. L. 97–452, § 3, Jan. 12, 1983, 96 Stat. 2479, provided that:
 
 **Amendments**
 
-2019—Pub. L. 116–103, § 4(b), Dec. 30, 2019, 133 Stat. 3270, added item for chapter 64.
+2019—Pub. L. 116–103, § 4(b), Dec. 30, 2019, 133 Stat. 3270, added item for chapter 64.
 
-1996—Pub. L. 104–134, title III, § 31001(i)(3)(B), Apr. 26, 1996, 110 Stat. 1321–365, which directed that the table of chapters for subtitle VI of this title be amended by inserting a new item for chapter 77 “Access to information for debt collection” before the item for chapter 91, was executed to the table of chapters for subtitle V of this title by substituting “Access to information for debt collection” for “Loan Requirements” in item for chapter 77, to reflect the probable intent of Congress.
+1996—Pub. L. 104–134, title III, § 31001(i)(3)(B), Apr. 26, 1996, 110 Stat. 1321–365, which directed that the table of chapters for subtitle VI of this title be amended by inserting a new item for chapter 77 “Access to information for debt collection” before the item for chapter 91, was executed to the table of chapters for subtitle V of this title by substituting “Access to information for debt collection” for “Loan Requirements” in item for chapter 77, to reflect the probable intent of Congress.
 
-1994—Pub. L. 103–322, title III, § 31002, Sept. 13, 1994, 108 Stat. 1882, added item for chapter 67.
+1994—Pub. L. 103–322, title III, § 31002, Sept. 13, 1994, 108 Stat. 1882, added item for chapter 67.
 
-Pub. L. 103–272, § 4(f)(1)(Y)(ii), July 5, 1994, 108 Stat. 1363, added item for chapter 77.
+Pub. L. 103–272, § 4(f)(1)(Y)(ii), July 5, 1994, 108 Stat. 1363, added item for chapter 77.
 
-1986—Pub. L. 99–547, § 2(c), Oct. 27, 1986, 100 Stat. 3060, added item for chapter 62.
+1986—Pub. L. 99–547, § 2(c), Oct. 27, 1986, 100 Stat. 3060, added item for chapter 62.
 
-Pub. L. 99–272, title XIV, § 14001(b)(1), Apr. 7, 1986, 100 Stat. 328, struck out item for chapter 67 “Revenue Sharing”.
+Pub. L. 99–272, title XIV, § 14001(b)(1), Apr. 7, 1986, 100 Stat. 328, struck out item for chapter 67 “Revenue Sharing”.
 
-1984—Pub. L. 98–502, § 2(c), Oct. 19, 1984, 98 Stat. 2334, added item for chapter 75.
+1984—Pub. L. 98–502, § 2(c), Oct. 19, 1984, 98 Stat. 2334, added item for chapter 75.
 
 - [CHAPTER 61—PROGRAM INFORMATION](chapter-061-program-information.md)
 
@@ -1163,7 +1163,7 @@ Pub. L. 99–272, title XIV, § 14001(b)(1), Apr. 7, 1986, 100 Stat. 328, stru
 
 **Amendments**
 
-1996—Pub. L. 104–134, title III, § 31001(i)(3)(B), Apr. 26, 1996, 110 Stat. 1321–365, which directed that the table of chapters for subtitle VI of this title be amended by inserting a new item for chapter 77 “Access to information for debt collection” before the item for chapter 91, was executed to the table of chapters for subtitle V of this title by substituting “Access to information for debt collection” for “Loan Requirements” in item for chapter 77, to reflect the probable intent of Congress.
+1996—Pub. L. 104–134, title III, § 31001(i)(3)(B), Apr. 26, 1996, 110 Stat. 1321–365, which directed that the table of chapters for subtitle VI of this title be amended by inserting a new item for chapter 77 “Access to information for debt collection” before the item for chapter 91, was executed to the table of chapters for subtitle V of this title by substituting “Access to information for debt collection” for “Loan Requirements” in item for chapter 77, to reflect the probable intent of Congress.
 
 - [CHAPTER 91—GOVERNMENT CORPORATIONS](chapter-091-government-corporations.md)
 

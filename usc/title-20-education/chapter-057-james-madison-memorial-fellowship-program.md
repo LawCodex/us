@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 57—JAMES MADISON MEMORIAL FELLOWSHIP PROGRAM
 
-## § 4501. Purpose
+## § 4501. Purpose
 
 It is the purpose of this chapter to establish the James Madison Fellowship Program which is designed to encourage graduate study of the American Constitution, its roots, its formation, its principles, and its development.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 802], Oct. 18, 1986, 100 Stat. 1783–39, 1783–76, and Pub. L. 99–591, § 101(b) [title VIII, § 802], Oct. 30, 1986, 100 Stat. 3341–39, 3341–76.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 802], Oct. 18, 1986, 100 Stat. 1783–39, 1783–76, and Pub. L. 99–591, § 101(b) [title VIII, § 802], Oct. 30, 1986, 100 Stat. 3341–39, 3341–76.)
 
 **Editorial Notes**
 
@@ -31,9 +31,9 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **Short Title**
 
-Pub. L. 99–500, § 101(b) [title VIII, § 801], Oct. 18, 1986, 100 Stat. 1783–39, 1783–76, and Pub. L. 99–591, § 101(b) [title VIII, § 801], Oct. 30, 1986, 100 Stat. 3341–39, 3341–76, provided that: “This title [enacting this chapter] may be cited as the ‘James Madison Memorial Fellowship Act’.”
+Pub. L. 99–500, § 101(b) [title VIII, § 801], Oct. 18, 1986, 100 Stat. 1783–39, 1783–76, and Pub. L. 99–591, § 101(b) [title VIII, § 801], Oct. 30, 1986, 100 Stat. 3341–39, 3341–76, provided that: “This title [enacting this chapter] may be cited as the ‘James Madison Memorial Fellowship Act’.”
 
-## § 4502. Foundation
+## § 4502. Foundation
 
 **(a) Establishment**
 
@@ -71,7 +71,7 @@ Members of the Board shall elect from the members of the Board a Chairman and su
 
 **(2)** Members of the Board and the President, Executive Secretary, and other personnel of the Foundation shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties at rates applicable to judges of the United States under section 456(a) of title 28.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 803], Oct. 18, 1986, 100 Stat. 1783–39, 1783–76, and Pub. L. 99–591, § 101(b) [title VIII, § 803], Oct. 30, 1986, 100 Stat. 3341–39, 3341–76; Pub. L. 101–208, § 1, Dec. 7, 1989, 103 Stat. 1836; Pub. L. 102–221, § 1(1), Dec. 11, 1991, 105 Stat. 1676.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 803], Oct. 18, 1986, 100 Stat. 1783–39, 1783–76, and Pub. L. 99–591, § 101(b) [title VIII, § 803], Oct. 30, 1986, 100 Stat. 3341–39, 3341–76; Pub. L. 101–208, § 1, Dec. 7, 1989, 103 Stat. 1836; Pub. L. 102–221, § 1(1), Dec. 11, 1991, 105 Stat. 1676.)
 
 **Editorial Notes**
 
@@ -85,7 +85,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 1989—Subsec. (d). Pub. L. 101–208 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.”
 
-## § 4503. Fellowship recipients
+## § 4503. Fellowship recipients
 
 **(a)** The Foundation is authorized to award fellowships to outstanding students and teachers who will pursue graduate study leading to the degree of Master of Arts in teaching or other appropriate masters degree for teachers, with a major in social studies or American history. Each recipient must take at least twelve semester hours, or its equivalent in topics directly related to the Constitution of the United States, as determined by the Board.
 
@@ -97,7 +97,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **(3)** Senior fellowships shall be awarded to experienced teachers who wish to undertake work for a graduate degree on a part-time basis during summers or in evening programs.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 804], Oct. 18, 1986, 100 Stat. 1783–39, 1783–77, and Pub. L. 99–591, § 101(b) [title VIII, § 804], Oct. 30, 1986, 100 Stat. 3341–39, 3341–77.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 804], Oct. 18, 1986, 100 Stat. 1783–39, 1783–77, and Pub. L. 99–591, § 101(b) [title VIII, § 804], Oct. 30, 1986, 100 Stat. 3341–39, 3341–77.)
 
 **Editorial Notes**
 
@@ -105,11 +105,11 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
-## § 4504. Period for award
+## § 4504. Period for award
 
 Junior fellowships shall be granted for such periods as the Foundation may prescribe but not to exceed two academic years. Senior fellowship shall be granted for such periods as the Foundation may prescribe, but not to exceed five calendar years.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 805], Oct. 18, 1986, 100 Stat. 1783–39, 1783–77, and Pub. L. 99–591, § 101(b) [title VIII, § 805], Oct. 30, 1986, 100 Stat. 3341–39, 3341–77.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 805], Oct. 18, 1986, 100 Stat. 1783–39, 1783–77, and Pub. L. 99–591, § 101(b) [title VIII, § 805], Oct. 30, 1986, 100 Stat. 3341–39, 3341–77.)
 
 **Editorial Notes**
 
@@ -117,11 +117,11 @@ Junior fellowships shall be granted for such periods as the Foundation may presc
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
-## § 4505. Recipient’s choice of institution
+## § 4505. Recipient’s choice of institution
 
 Fellowship recipients may attend any institution of higher education in the United States with an accredited graduate program which offers courses of study or training which emphasize the origins of the Constitution of the United States, its principles, its development, and its comparison with other forms of government, as determined according to criteria established by the Foundation.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 806], Oct. 18, 1986, 100 Stat. 1783–39, 1783–77, and Pub. L. 99–591, § 101(b) [title VIII, § 806], Oct. 30, 1986, 100 Stat. 3341–39, 3341–77.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 806], Oct. 18, 1986, 100 Stat. 1783–39, 1783–77, and Pub. L. 99–591, § 101(b) [title VIII, § 806], Oct. 30, 1986, 100 Stat. 3341–39, 3341–77.)
 
 **Editorial Notes**
 
@@ -129,19 +129,19 @@ Fellowship recipients may attend any institution of higher education in the Unit
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
-## § 4506. Recipient’s eligibility
+## § 4506. Recipient’s eligibility
 
 Each student awarded a fellowship under this chapter shall demonstrate the potential, and a serious intention, to follow a career of educating students in secondary schools. Each institution of higher education at which such a student is in attendance shall make reasonable efforts to encourage such a student to meet the objectives of this section.
 
-Each student receiving a Fellowship under this chapter 1
+Each student receiving a Fellowship under this chapter 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall enter into an agreement under which the recipient shall:
 
-(a) within a 5-year period after completing the education for which the fellowship was awarded, teach on a full-time basis students in secondary school for a period of not less than one year for each year for which asistance 2
+(a) within a 5-year period after completing the education for which the fellowship was awarded, teach on a full-time basis students in secondary school for a period of not less than one year for each year for which asistance 2
 
-<sup>2</sup>  So in original. Probably should be “assistance”.
+<sup>2</sup> So in original. Probably should be “assistance”.
 
 was received;
 
@@ -161,7 +161,7 @@ was received;
 
 (6) is seeking and unable to find full-time employment as a teacher.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 807], Oct. 18, 1986, 100 Stat. 1783–39, 1783–77, and Pub. L. 99–591, § 101(b) [title VIII, § 807], Oct. 30, 1986, 100 Stat. 3341–39, 3341–77.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 807], Oct. 18, 1986, 100 Stat. 1783–39, 1783–77, and Pub. L. 99–591, § 101(b) [title VIII, § 807], Oct. 30, 1986, 100 Stat. 3341–39, 3341–77.)
 
 **Editorial Notes**
 
@@ -173,7 +173,7 @@ This chapter, referred to in provisions preceding par. (a), was in the original 
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
-## § 4507. Selection of fellowship recipients
+## § 4507. Selection of fellowship recipients
 
 **(a) Criteria for selection**
 
@@ -195,7 +195,7 @@ Madison Fellows shall be selected for their academic achievements and their pote
 
 The Foundation shall adopt selection procedures which shall assure that at least one Madison Fellow shall be selected each year from each State, the District of Columbia, and the Commonwealth of Puerto Rico, and considered as a single entity, Guam, the Virgin Islands, American Samoa, the Trust Territories of the Pacific Islands, and the Commonwealth of the Northern Marianas in which there are at least two resident applicants who meet the minimum criteria established by the Foundation; and, if sufficient funding is available, to invite applications from scholars overseas for study in the United States.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 808], Oct. 18, 1986, 100 Stat. 1783–39, 1783–78, and Pub. L. 99–591, § 101(b) [title VIII, § 808], Oct. 30, 1986, 100 Stat. 3341–39, 3341–78.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 808], Oct. 18, 1986, 100 Stat. 1783–39, 1783–78, and Pub. L. 99–591, § 101(b) [title VIII, § 808], Oct. 30, 1986, 100 Stat. 3341–39, 3341–78.)
 
 **Editorial Notes**
 
@@ -209,11 +209,11 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 4508. Amount of fellowships
+## § 4508. Amount of fellowships
 
 Each student awarded a fellowship shall receive a stipend which shall not exceed the cost to the student for tuition, fees, books, room and board, or $12,000, whichever is less, for each academic year of study.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 809], Oct. 18, 1986, 100 Stat. 1783–39, 1783–78, and Pub. L. 99–591, § 101(b) [title VIII, § 809], Oct. 30, 1986, 100 Stat. 3341–39, 3341–78.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 809], Oct. 18, 1986, 100 Stat. 1783–39, 1783–78, and Pub. L. 99–591, § 101(b) [title VIII, § 809], Oct. 30, 1986, 100 Stat. 3341–39, 3341–78.)
 
 **Editorial Notes**
 
@@ -221,13 +221,13 @@ Each student awarded a fellowship shall receive a stipend which shall not exceed
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
-## § 4509. Fellowship conditions
+## § 4509. Fellowship conditions
 
 **(a)** A student awarded a Madison Fellowship shall continue to receive payments only during such periods as the Foundation finds that the student is maintaining satisfactory progress in an approved program of study or research. Recipients of junior fellowships shall devote essentially full time to their program of study.
 
 **(b)** The Foundation is authorized to require reports from any fellowship recipient containing such information, in such form, and to be filed at such times as the Foundation determines to be necessary. Such reports shall be accompanied by a certificate from an appropriate official at the institution of higher education, approved by the Foundation, stating that such student is making satisfactory progress in a program of study or research, with such exceptions as the Foundation may establish.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 810], Oct. 18, 1986, 100 Stat. 1783–39, 1783–79, and Pub. L. 99–591, § 101(b) [title VIII, § 810], Oct. 30, 1986, 100 Stat. 3341–39, 3341–79.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 810], Oct. 18, 1986, 100 Stat. 1783–39, 1783–79, and Pub. L. 99–591, § 101(b) [title VIII, § 810], Oct. 30, 1986, 100 Stat. 3341–39, 3341–79.)
 
 **Editorial Notes**
 
@@ -235,7 +235,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
-## § 4510. James Madison Memorial Fellowship Trust Fund
+## § 4510. James Madison Memorial Fellowship Trust Fund
 
 **(a) Establishment**
 
@@ -255,7 +255,7 @@ At the request of the Trust Fund, the Secretary of the Treasury shall redeem any
 
 The interest on, and the proceeds from, the sale or redemption of any obligations held in the fund shall be credited to and form a part of the fund.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 811], Oct. 18, 1986, 100 Stat. 1783–39, 1783–79, and Pub. L. 99–591, § 101(b) [title VIII, § 811], Oct. 30, 1986, 100 Stat. 3341–39, 3341–79; Pub. L. 102–221, § 1(2), Dec. 11, 1991, 105 Stat. 1676; Pub. L. 108–7, div. J, title I, § 126, Feb. 20, 2003, 117 Stat. 440.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 811], Oct. 18, 1986, 100 Stat. 1783–39, 1783–79, and Pub. L. 99–591, § 101(b) [title VIII, § 811], Oct. 30, 1986, 100 Stat. 3341–39, 3341–79; Pub. L. 102–221, § 1(2), Dec. 11, 1991, 105 Stat. 1676; Pub. L. 108–7, div. J, title I, § 126, Feb. 20, 2003, 117 Stat. 440.)
 
 **Editorial Notes**
 
@@ -265,19 +265,19 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **Amendments**
 
-2003—Subsec. (b). Pub. L. 108–7, § 126(1), added heading and text of subsec. (b) and struck out former subsec. (b) which read as follows: “It shall be the duty of the Secretary of the Treasury to invest in full the amounts appropriated and contributed to the fund. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose, such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under the Second Liberty Bond Act, as amended, are hereby extended to authorize the issuance at par of special obligations exclusively to the fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month next preceding the date of such issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt; except that where such average rate is not a multiple of one-eighth of 1 per centum, the rate of interest of such special obligations shall be the multiple of one-eighth of 1 per centum next lower than such average rate. Such special obligations shall be issued only if the Secretary determines that the purchase of other obligations of the United States, or of obligations guaranteed as to both principal and interest by the United States or original issue at the market price, is not in the public interest.”
+2003—Subsec. (b). Pub. L. 108–7, § 126(1), added heading and text of subsec. (b) and struck out former subsec. (b) which read as follows: “It shall be the duty of the Secretary of the Treasury to invest in full the amounts appropriated and contributed to the fund. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose, such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under the Second Liberty Bond Act, as amended, are hereby extended to authorize the issuance at par of special obligations exclusively to the fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month next preceding the date of such issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt; except that where such average rate is not a multiple of one-eighth of 1 per centum, the rate of interest of such special obligations shall be the multiple of one-eighth of 1 per centum next lower than such average rate. Such special obligations shall be issued only if the Secretary determines that the purchase of other obligations of the United States, or of obligations guaranteed as to both principal and interest by the United States or original issue at the market price, is not in the public interest.”
 
-Subsec. (c). Pub. L. 108–7, § 126(2), added heading and text of subsec. (c) and struck out former subsec. (c) which read as follows: “Any obligations acquired by the fund (except special obligations issued exclusively to the fund) may be sold by the Secretary at the market price, and such special obligations may be redeemed at par plus accrued interest.”
+Subsec. (c). Pub. L. 108–7, § 126(2), added heading and text of subsec. (c) and struck out former subsec. (c) which read as follows: “Any obligations acquired by the fund (except special obligations issued exclusively to the fund) may be sold by the Secretary at the market price, and such special obligations may be redeemed at par plus accrued interest.”
 
 1991—Subsec. (a). Pub. L. 102–221 struck out “(1)” before “There shall be”, substituted “and other” for “an other” after “Constitution”, and struck out par. (2) which read as follows: “No funds in the Trust Fund may be available for fellowships until the contributions from private sources are equal to $10,000,000.”
 
-## § 4511. Expenditures and audit
+## § 4511. Expenditures and audit
 
 **(a)** The Secretary of the Treasury is authorized to pay to the Foundation from the interest and earnings of the fund such sums as the Board determines are necessary and appropriate to enable the Foundation to carry out the provisions of this chapter.
 
 **(b)** The activities of the Foundation under this chapter may be audited by the Government Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, and files and all other papers, things, or property belonging to or in use by the Foundation, pertaining to such activities and necessary to facilitate the audit.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 812], Oct. 18, 1986, 100 Stat. 1783–39, 1783–80, and Pub. L. 99–591, § 101(b) [title VIII, § 812], Oct. 30, 1986, 100 Stat. 3341–39, 3341–80; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 812], Oct. 18, 1986, 100 Stat. 1783–39, 1783–80, and Pub. L. 99–591, § 101(b) [title VIII, § 812], Oct. 30, 1986, 100 Stat. 3341–39, 3341–80; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -289,7 +289,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
-## § 4512. President and Executive Secretary of Foundation
+## § 4512. President and Executive Secretary of Foundation
 
 **(a)**
 
@@ -301,7 +301,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **(4)** Sections 5532,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 8344, and 8468 of title 5 shall not apply to a person while such person is serving as President of the Foundation.
 
@@ -313,13 +313,13 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **(3)** The Executive Secretary shall be compensated at the rate specified for employees placed in grade GS–18 of the General Schedule set forth in section 5332 of title 5.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 813], Oct. 18, 1986, 100 Stat. 1783–39, 1783–80, and Pub. L. 99–591, § 101(b) [title VIII, § 813], Oct. 30, 1986, 100 Stat. 3341–39, 3341–80; Pub. L. 101–208, § 2, Dec. 7, 1989, 103 Stat. 1836; Pub. L. 101–557, title V, § 501, Nov. 15, 1990, 104 Stat. 2771; Pub. L. 101–589, title II, § 253, Nov. 16, 1990, 104 Stat. 2895.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 813], Oct. 18, 1986, 100 Stat. 1783–39, 1783–80, and Pub. L. 99–591, § 101(b) [title VIII, § 813], Oct. 30, 1986, 100 Stat. 3341–39, 3341–80; Pub. L. 101–208, § 2, Dec. 7, 1989, 103 Stat. 1836; Pub. L. 101–557, title V, § 501, Nov. 15, 1990, 104 Stat. 2771; Pub. L. 101–589, title II, § 253, Nov. 16, 1990, 104 Stat. 2895.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5532 of title 5, referred to in subsec. (a)(4), was repealed by Pub. L. 106–65, div. A, title VI, § 651(a)(1), Oct. 5, 1999, 113 Stat. 664.
+Section 5532 of title 5, referred to in subsec. (a)(4), was repealed by Pub. L. 106–65, div. A, title VI, § 651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 **Codification**
 
@@ -339,15 +339,15 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 4513. Administrative provisions
+## § 4513. Administrative provisions
 
 **(a) General powers** The Foundation is authorized—
 
 **(1)** to appoint and fix the compensation of such personnel as may be necessary to carry out this chapter,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 without regard to the provisions of title 5 governing appointments in the competitive service, but at General Schedule pay rates not in excess of the maximum rate for grade GS–15 of the General Schedule under section 5332 of that title;
 
@@ -373,9 +373,9 @@ without regard to the provisions of title 5 governing appointments in the compet
 
 **(b) Annual report**
 
-The foundation 2
+The foundation 2
 
-<sup>2</sup>  So in original. Probably should be capitalized.
+<sup>2</sup> So in original. Probably should be capitalized.
 
 shall submit to the President and to the Congress an annual report of its operations under this chapter.
 
@@ -383,7 +383,7 @@ shall submit to the President and to the Congress an annual report of its operat
 
 On request of the Chairman of the Foundation, the head of a Federal agency may detail personnel of the agency to the Foundation to assist the Foundation in carrying out this chapter.<sup>1</sup> Details under this subsection shall be without reimbursement by the Foundation to the agency from which personnel are detailed.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 814], Oct. 18, 1986, 100 Stat. 1783–39, 1783–80, and Pub. L. 99–591, § 101(b) [title VIII, § 814], Oct. 30, 1986, 100 Stat. 3341–39, 3341–80; Pub. L. 101–208, § 3, Dec. 7, 1989, 103 Stat. 1837.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 814], Oct. 18, 1986, 100 Stat. 1783–39, 1783–80, and Pub. L. 99–591, § 101(b) [title VIII, § 814], Oct. 30, 1986, 100 Stat. 3341–39, 3341–80; Pub. L. 101–208, § 3, Dec. 7, 1989, 103 Stat. 1837.)
 
 **Editorial Notes**
 
@@ -395,21 +395,21 @@ This chapter, referred to in subsec. (a)(6), was in the original “this chapter
 
 **Codification**
 
-In subsec. (a)(6), “section 6101 of title 41” substituted for “section 5 of title 41” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(6), “section 6101 of title 41” substituted for “section 5 of title 41” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(7), “section 3324(a) and (b) of title 31” substituted for “section 529 of title 31” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a)(7), “section 3324(a) and (b) of title 31” substituted for “section 529 of title 31” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **Amendments**
 
-1989—Subsec. (a)(1). Pub. L. 101–208, § 3(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Secretary be compensated at a rate to exceed the rate provided for employees in grade GS–15 of the General Schedule set forth in section 5332 of title 5;”.
+1989—Subsec. (a)(1). Pub. L. 101–208, § 3(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Secretary be compensated at a rate to exceed the rate provided for employees in grade GS–15 of the General Schedule set forth in section 5332 of title 5;”.
 
-Subsec. (a)(8). Pub. L. 101–208, § 3(1)(B), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “to rent office space;”.
+Subsec. (a)(8). Pub. L. 101–208, § 3(1)(B), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “to rent office space;”.
 
-Subsec. (a)(10), (11). Pub. L. 101–208, § 3(1)(C)–(E), added par. (10) and redesignated former par. (10) as (11).
+Subsec. (a)(10), (11). Pub. L. 101–208, § 3(1)(C)–(E), added par. (10) and redesignated former par. (10) as (11).
 
-Subsec. (c). Pub. L. 101–208, § 3(2), added subsec. (c).
+Subsec. (c). Pub. L. 101–208, § 3(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -417,7 +417,7 @@ Subsec. (c). Pub. L. 101–208, § 3(2), added subsec. (c).
 
 For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to submitting an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 176 of House Document No. 103–7.
 
-## § 4514. Definitions
+## § 4514. Definitions
 
 As used in this chapter—
 
@@ -429,7 +429,7 @@ As used in this chapter—
 
 **(4)** the term “secondary school” has the same meaning given that term by section 7801 of this title.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 815], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, § 101(b) [title VIII, § 815], Oct. 30, 1986, 100 Stat. 3341–39, 3341–81; Pub. L. 105–244, title I, § 102(a)(6)(G), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–110, title X, § 1076(m), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 114–95, title IX, § 9215(vv), Dec. 10, 2015, 129 Stat. 2184.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 815], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, § 101(b) [title VIII, § 815], Oct. 30, 1986, 100 Stat. 3341–39, 3341–81; Pub. L. 105–244, title I, § 102(a)(6)(G), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–110, title X, § 1076(m), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 114–95, title IX, § 9215(vv), Dec. 10, 2015, 129 Stat. 2184.)
 
 **Editorial Notes**
 
@@ -443,9 +443,9 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 2002—Par. (4). Pub. L. 107–110 substituted “7801” for “8801”.
 
-1998—Par. (3). Pub. L. 105–244, § 102(a)(6)(G)(i), substituted “section 1001” for “section 1141(a)”.
+1998—Par. (3). Pub. L. 105–244, § 102(a)(6)(G)(i), substituted “section 1001” for “section 1141(a)”.
 
-Par. (4). Pub. L. 105–244, § 102(a)(6)(G)(ii), substituted “section 8801” for “section 1141(d)”.
+Par. (4). Pub. L. 105–244, § 102(a)(6)(G)(ii), substituted “section 8801” for “section 1141(d)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -461,11 +461,11 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
-## § 4515. Appropriations
+## § 4515. Appropriations
 
 There are appropriated to the James Madison Memorial Trust Fund $20,000,000 to carry out the provisions of this chapter, $10,000,000 of which shall be available on November 1, 1987, and to remain available until expended; and $10,000,000 of which shall be available on November 1, 1988, and to remain available until expended.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 816], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, § 101(b) [title VIII, § 816], Oct. 30, 1986, 100 Stat. 3341–39, 3341–81.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 816], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, § 101(b) [title VIII, § 816], Oct. 30, 1986, 100 Stat. 3341–39, 3341–81.)
 
 **Editorial Notes**
 
@@ -473,7 +473,7 @@ There are appropriated to the James Madison Memorial Trust Fund $20,000,000 to c
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
-## § 4516. Constitutional Law Resource Centers
+## § 4516. Constitutional Law Resource Centers
 
 **(a) Establishment**
 
@@ -487,7 +487,7 @@ In order to encourage recipient universities to provide such a continuing servic
 
 The income from each endowment shall be used to help support a chair for a Professor of Constitutional law.1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 Each endowment shall be held in trust with the income from the portion provided herein used exclusively to contribute toward the salary and related costs of the professor filling the chair and for services directly related to the support of such professor such as secretarial and research services. The recipient university shall from sources other than that portion of the endowment funded herein furnish the office, classroom and related services suitable to such a member of the faculty.
 
@@ -495,9 +495,9 @@ The professor holding each chair shall file a copy of such articles with the Lib
 
 **(d) Investment of endowment**
 
-That portion of each endowment provided by this chapter 2
+That portion of each endowment provided by this chapter 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 and any accumulations attributable to such grant shall be invested by the recipient university in interest bearing obligations of the United States or in obligations guaranteed both as to principal and interest by the United States and shall be subject to audit by the Government Accountability Office for the sole purpose of determining that such funds are accounted for or have been used as provided herein. If a grantee university elects to discontinue such chair and support services, the corpus of the endowment attributable to the Federal grant shall revert to the Treasury of the United States.
 
@@ -509,7 +509,7 @@ The application for the grant for an endowment shall require only such informati
 
 The grants for each endowment shall be for $800,000 and shall be offered to Howard University School of Law in Washington, D.C., Drake University School of Law in Des Moines, Iowa, the University of Akron School of Law in Akron, Ohio, and the University of South Carolina School of Law at Columbia, South Carolina.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 817], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, § 101(b) [title VIII, § 817], Oct. 30, 1986, 100 Stat. 3341–39, 3341–81; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 817], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, § 101(b) [title VIII, § 817], Oct. 30, 1986, 100 Stat. 3341–39, 3341–81; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -529,13 +529,13 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **Temporary Authority To Receive, Review, and Certify for Payment Grant Applications**
 
-Pub. L. 100–202, § 101(a) [title V, § 501], Dec. 22, 1987, 101 Stat. 1329, 1329–29, provided in part: “That until the Board of Trustees of the James Madison Memorial Fellowship Foundation is appointed, the Commission on the Bicentennial of the United States Constitution is authorized to receive, review and certify for payment the applications for grants of endowment funds for the establishment of Constitutional Law Resource Centers as provided and appropriated under the James Madison Memorial Fellowship Act, title VIII, sections 817 and 818, Public Law 99–500 and Public Law 99–591 [20 U.S.C. 4516, 4517]”.
+Pub. L. 100–202, § 101(a) [title V, § 501], Dec. 22, 1987, 101 Stat. 1329, 1329–29, provided in part: “That until the Board of Trustees of the James Madison Memorial Fellowship Foundation is appointed, the Commission on the Bicentennial of the United States Constitution is authorized to receive, review and certify for payment the applications for grants of endowment funds for the establishment of Constitutional Law Resource Centers as provided and appropriated under the James Madison Memorial Fellowship Act, title VIII, sections 817 and 818, Public Law 99–500 and Public Law 99–591 [20 U.S.C. 4516, 4517]”.
 
-## § 4517. Appropriations for universities
+## § 4517. Appropriations for universities
 
 There is hereby appropriated to each recipient University named above or to the trustee of the fund designated by the President of the University the sum of $800,000 to carry out the provisions of section 4516 of this title, to be available on November 1, 1987, and to remain available until expended.
 
-(Pub. L. 99–500, § 101(b) [title VIII, § 818], Oct. 18, 1986, 100 Stat. 1783–39, 1783–82, and Pub. L. 99–591, § 101(b) [title VIII, § 818], Oct. 30, 1986, 100 Stat. 3341–39, 3341–82.)
+(Pub. L. 99–500, § 101(b) [title VIII, § 818], Oct. 18, 1986, 100 Stat. 1783–39, 1783–82, and Pub. L. 99–591, § 101(b) [title VIII, § 818], Oct. 30, 1986, 100 Stat. 3341–39, 3341–82.)
 
 **Editorial Notes**
 

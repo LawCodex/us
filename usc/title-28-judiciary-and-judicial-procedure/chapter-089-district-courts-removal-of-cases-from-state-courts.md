@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–63, title I, § 103(d)(1), Dec. 7, 2011, 125 Stat. 762, substituted “Removal of civil actions” for “Actions removable generally” in item 1441, inserted “of civil actions” after “removal” in item 1446, and added item 1455.
+2011—Pub. L. 112–63, title I, § 103(d)(1), Dec. 7, 2011, 125 Stat. 762, substituted “Removal of civil actions” for “Actions removable generally” in item 1441, inserted “of civil actions” after “removal” in item 1446, and added item 1455.
 
-Pub. L. 112–29, § 19(c)(2), Sept. 16, 2011, 125 Stat. 332, added item 1454.
+Pub. L. 112–29, § 19(c)(2), Sept. 16, 2011, 125 Stat. 332, added item 1454.
 
-2005—Pub. L. 109–2, § 5(b), Feb. 18, 2005, 119 Stat. 13, added item 1453.
+2005—Pub. L. 109–2, § 5(b), Feb. 18, 2005, 119 Stat. 13, added item 1453.
 
-1996—Pub. L. 104–317, title II, § 206(b), Oct. 19, 1996, 110 Stat. 3850, inserted “and agencies” after “officers” in item 1442.
+1996—Pub. L. 104–317, title II, § 206(b), Oct. 19, 1996, 110 Stat. 3850, inserted “and agencies” after “officers” in item 1442.
 
-1984—Pub. L. 98–353, title I, § 103(b), July 10, 1984, 98 Stat. 335, added item 1452.
+1984—Pub. L. 98–353, title I, § 103(b), July 10, 1984, 98 Stat. 335, added item 1452.
 
-1970—Pub. L. 91–358, title I, § 172(d)(2), July 29, 1970, 84 Stat. 591, added item 1451.
+1970—Pub. L. 91–358, title I, § 172(d)(2), July 29, 1970, 84 Stat. 591, added item 1451.
 
-1958—Pub. L. 85–554, § 5(b), July 25, 1958, 72 Stat. 416, substituted “Nonremovable actions” for “Carriers; non-removable actions” in item 1445.
+1958—Pub. L. 85–554, § 5(b), July 25, 1958, 72 Stat. 416, substituted “Nonremovable actions” for “Carriers; non-removable actions” in item 1445.
 
-1956—Act Aug. 10, 1956, ch. 1041, § 19(b), 70A Stat. 627, added item 1442a.
+1956—Act Aug. 10, 1956, ch. 1041, § 19(b), 70A Stat. 627, added item 1442a.
 
-## § 1441. Removal of civil actions
+## § 1441. Removal of civil actions
 
 **(a) Generally.—** Except as otherwise expressly provided by Act of Congress, any civil action brought in a State court of which the district courts of the United States have original jurisdiction, may be removed by the defendant or the defendants, to the district court of the United States for the district and division embracing the place where such action is pending.
 
@@ -69,9 +69,9 @@ the entire action may be removed if the action would be removable without the in
 
 The removal of an action under this subsection shall be made in accordance with section 1446 of this title, except that a notice of removal may also be filed before trial of the action in State court within 30 days after the date on which the defendant first becomes a party to an action under section 1369 in a United States district court that arises from the same accident as the action in State court, or at a later time with leave of the district court.
 
-**(2)** Whenever an action is removed under this subsection and the district court to which it is removed or transferred under section 1407(j) 1
+**(2)** Whenever an action is removed under this subsection and the district court to which it is removed or transferred under section 1407(j) 1
 
-<sup>1</sup>  So in original. Section 1407 of this title does not contain a subsec. (j).
+<sup>1</sup> So in original. Section 1407 of this title does not contain a subsec. (j).
 
 has made a liability determination requiring further proceedings as to damages, the district court shall remand the action to the State court from which it had been removed for the determination of damages, unless the court finds that, for the convenience of parties and witnesses and in the interest of justice, the action should be retained for the determination of damages.
 
@@ -85,11 +85,11 @@ has made a liability determination requiring further proceedings as to damages, 
 
 **(f) Derivative Removal Jurisdiction.—** The court to which a civil action is removed under this section is not precluded from hearing and determining any claim in such civil action because the State court from which such civil action is removed did not have jurisdiction over that claim.
 
-(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 94–583, § 6, Oct. 21, 1976, 90 Stat. 2898; Pub. L. 99–336, § 3(a), June 19, 1986, 100 Stat. 637; Pub. L. 100–702, title X, § 1016(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, § 312, Dec. 1, 1990, 104 Stat. 5114; Pub. L. 102–198, § 4, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 107–273, div. C, title I, § 11020(b)(3), Nov. 2, 2002, 116 Stat. 1827; Pub. L. 112–63, title I, § 103(a), Dec. 7, 2011, 125 Stat. 759.)
+(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 94–583, § 6, Oct. 21, 1976, 90 Stat. 2898; Pub. L. 99–336, § 3(a), June 19, 1986, 100 Stat. 637; Pub. L. 100–702, title X, § 1016(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, § 312, Dec. 1, 1990, 104 Stat. 5114; Pub. L. 102–198, § 4, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 107–273, div. C, title I, § 11020(b)(3), Nov. 2, 2002, 116 Stat. 1827; Pub. L. 112–63, title I, § 103(a), Dec. 7, 2011, 125 Stat. 759.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 71, 114 (Mar. 3, 1911, ch. 231, §§ 28, 53, 36 Stat. 1094, 1101; Jan. 20, 1914, ch. 11, 38 Stat. 278; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54).
+Based on title 28, U.S.C., 1940 ed., §§ 71, 114 (Mar. 3, 1911, ch. 231, §§ 28, 53, 36 Stat. 1094, 1101; Jan. 20, 1914, ch. 11, 38 Stat. 278; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54).
 
 Section consolidates removal provisions of sections 71 and 114 of title 28, U.S.C., 1940 ed., and is intended to resolve ambiguities and conflicts of decisions.
 
@@ -107,31 +107,31 @@ Subsection (c) permits the removal of a separate cause of action but not of a se
 
 Rules 18, 20, and 23 of the Federal Rules of Civil Procedure permit the most liberal joinder of parties, claims, and remedies in civil actions. Therefore there will be no procedural difficulty occasioned by the removal of the entire action. Conversely, if the court so desires, it may remand to the State court all nonremovable matters.
 
-The provisions of section 71 of title 28, U.S.C., 1940 ed., with respect to removal of actions under the Federal Employer’s Liability Act (U.S.C., 1940 ed., title 45, Railroads, §§ 51–60) and actions against a carrier for loss, damage, or delay to shipments under section 20 of title 49, U.S.C., 1940 ed., Transportation, are incorporated in section 1445 of this title.
+The provisions of section 71 of title 28, U.S.C., 1940 ed., with respect to removal of actions under the Federal Employer’s Liability Act (U.S.C., 1940 ed., title 45, Railroads, §§ 51–60) and actions against a carrier for loss, damage, or delay to shipments under section 20 of title 49, U.S.C., 1940 ed., Transportation, are incorporated in section 1445 of this title.
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Pub. L. 112–63, § 103(a)(1), substituted “Removal of civil actions” for “Actions removable generally” in section catchline.
+2011—Pub. L. 112–63, § 103(a)(1), substituted “Removal of civil actions” for “Actions removable generally” in section catchline.
 
-Subsec. (a). Pub. L. 112–63, § 103(a)(2), inserted heading and in text struck out at end “For purposes of removal under this chapter, the citizenship of defendants sued under fictitious names shall be disregarded.”
+Subsec. (a). Pub. L. 112–63, § 103(a)(2), inserted heading and in text struck out at end “For purposes of removal under this chapter, the citizenship of defendants sued under fictitious names shall be disregarded.”
 
-Subsec. (b). Pub. L. 112–63, § 103(a)(3), amended subsec. (b) generally. Prior to amendment, text read as follows: “Any civil action of which the district courts have original jurisdiction founded on a claim or right arising under the Constitution, treaties or laws of the United States shall be removable without regard to the citizenship or residence of the parties. Any other such action shall be removable only if none of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.”
+Subsec. (b). Pub. L. 112–63, § 103(a)(3), amended subsec. (b) generally. Prior to amendment, text read as follows: “Any civil action of which the district courts have original jurisdiction founded on a claim or right arising under the Constitution, treaties or laws of the United States shall be removable without regard to the citizenship or residence of the parties. Any other such action shall be removable only if none of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.”
 
-Subsec. (c). Pub. L. 112–63, § 103(a)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: “Whenever a separate and independent claim or cause of action within the jurisdiction conferred by section 1331 of this title is joined with one or more otherwise non-removable claims or causes of action, the entire case may be removed and the district court may determine all issues therein, or, in its discretion, may remand all matters in which State law predominates.”
+Subsec. (c). Pub. L. 112–63, § 103(a)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: “Whenever a separate and independent claim or cause of action within the jurisdiction conferred by section 1331 of this title is joined with one or more otherwise non-removable claims or causes of action, the entire case may be removed and the district court may determine all issues therein, or, in its discretion, may remand all matters in which State law predominates.”
 
-Subsec. (d). Pub. L. 112–63, § 103(a)(5), inserted heading.
+Subsec. (d). Pub. L. 112–63, § 103(a)(5), inserted heading.
 
-Subsec. (e). Pub. L. 112–63, § 103(a)(6), inserted heading.
+Subsec. (e). Pub. L. 112–63, § 103(a)(6), inserted heading.
 
-Subsec. (f). Pub. L. 112–63, § 103(a)(7), inserted heading.
+Subsec. (f). Pub. L. 112–63, § 103(a)(7), inserted heading.
 
 2002—Subsecs. (e), (f). Pub. L. 107–273 added subsec. (e), redesignated former subsec. (e) as (f), and substituted “The court to which a civil action is removed under this section” for “The court to which such civil action is removed”.
 
 1991—Subsec. (c). Pub. L. 102–198 struck out comma after “title” and substituted “may” for “may may” before “remand”.
 
-1990—Subsec. (c). Pub. L. 101–650 substituted “within the jurisdiction conferred by section 1331 of this title” for “, which would be removable if sued upon alone” and “may remand all matters in which State law predominates” for “remand all matters not otherwise within its original jurisdiction”.
+1990—Subsec. (c). Pub. L. 101–650 substituted “within the jurisdiction conferred by section 1331 of this title” for “, which would be removable if sued upon alone” and “may remand all matters in which State law predominates” for “remand all matters not otherwise within its original jurisdiction”.
 
 1988—Subsec. (a). Pub. L. 100–702 inserted at end “For purposes of removal under this chapter, the citizenship of defendants sued under fictitious names shall be disregarded.”
 
@@ -151,13 +151,13 @@ Amendment by Pub. L. 107–273 applicable to a civil action if the accident givi
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–336, § 3(b), June 19, 1986, 100 Stat. 637, provided that: “The amendment made by this section [amending this section] shall apply with respect to claims in civil actions commenced in State courts on or after the date of the enactment of this section [June 19, 1986].”
+Pub. L. 99–336, § 3(b), June 19, 1986, 100 Stat. 637, provided that: “The amendment made by this section [amending this section] shall apply with respect to claims in civil actions commenced in State courts on or after the date of the enactment of this section [June 19, 1986].”
 
 **Effective Date of 1976 Amendment**
 
 Amendment by Pub. L. 94–583 effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as an Effective Date note under section 1602 of this title.
 
-## § 1442. Federal officers or agencies sued or prosecuted
+## § 1442. Federal officers or agencies sued or prosecuted
 
 **(a)** A civil action or criminal prosecution that is commenced in a State court and that is against or directed to any of the following may be removed by them to the district court of the United States for the district and division embracing the place wherein it is pending:
 
@@ -193,11 +193,11 @@ Amendment by Pub. L. 94–583 effective 90 days after Oct. 21, 1976, see section
 
 **(6)** The term “State court” includes the Superior Court of the District of Columbia, a court of a United States territory or insular possession, and a tribal court.
 
-(June 25, 1948, ch. 646, 62 Stat. 938; Pub. L. 104–317, title II, § 206(a), Oct. 19, 1996, 110 Stat. 3850; Pub. L. 112–51, § 2(a), (b), Nov. 9, 2011, 125 Stat. 545; Pub. L. 112–239, div. A, title X, § 1087, Jan. 2, 2013, 126 Stat. 1969.)
+(June 25, 1948, ch. 646, 62 Stat. 938; Pub. L. 104–317, title II, § 206(a), Oct. 19, 1996, 110 Stat. 3850; Pub. L. 112–51, § 2(a), (b), Nov. 9, 2011, 125 Stat. 545; Pub. L. 112–239, div. A, title X, § 1087, Jan. 2, 2013, 126 Stat. 1969.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 76 and 77 (Mar. 3, 1911, ch. 231, §§ 33, 34, 36 Stat. 1097, 1098; Aug. 23, 1916, ch. 399, 39 Stat. 532).
+Based on title 28, U.S.C., 1940 ed., §§ 76 and 77 (Mar. 3, 1911, ch. 231, §§ 33, 34, 36 Stat. 1097, 1098; Aug. 23, 1916, ch. 399, 39 Stat. 532).
 
 Section consolidates sections 76 and 77 of title 28, U.S.C., 1940 ed.
 
@@ -213,31 +213,31 @@ Changes were made in phraseology.
 
 2013—Subsecs. (c), (d). Pub. L. 112–239 added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “As used in subsection (a), the terms ‘civil action’ and ‘criminal prosecution’ include any proceeding (whether or not ancillary to another proceeding) to the extent that in such proceeding a judicial order, including a subpoena for testimony or documents, is sought or issued. If removal is sought for a proceeding described in the previous sentence, and there is no other basis for removal, only that proceeding may be removed to the district court.”
 
-2011—Subsec. (a). Pub. L. 112–51, § 2(a)(1), inserted “that is” after “or criminal prosecution”, “and that is” after “in a State court”, and “or directed to” after “against” in introductory provisions.
+2011—Subsec. (a). Pub. L. 112–51, § 2(a)(1), inserted “that is” after “or criminal prosecution”, “and that is” after “in a State court”, and “or directed to” after “against” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 112–51, § 2(b)(1), substituted “capacity, for or relating to” for “capacity for” and struck out “sued” after “thereof,”.
+Subsec. (a)(1). Pub. L. 112–51, § 2(b)(1), substituted “capacity, for or relating to” for “capacity for” and struck out “sued” after “thereof,”.
 
-Subsec. (a)(3), (4). Pub. L. 112–51, § 2(b)(2), inserted “or relating to” after “for”.
+Subsec. (a)(3), (4). Pub. L. 112–51, § 2(b)(2), inserted “or relating to” after “for”.
 
-Subsec. (c). Pub. L. 112–51, § 2(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 112–51, § 2(a)(2), added subsec. (c).
 
-1996—Pub. L. 104–317, § 206(a)(1), inserted “or agencies” after “officers” in section catchline.
+1996—Pub. L. 104–317, § 206(a)(1), inserted “or agencies” after “officers” in section catchline.
 
-Subsec. (a). Pub. L. 104–317, § 206(a)(2), struck out “persons” after “following” in introductory provisions and substituted “The United States or any agency thereof or any officer (or any person acting under that officer) of the United States or of any agency thereof, sued in an official or individual capacity for any act under color of such office” for “Any officer of the United States or any agency thereof, or person acting under him, for any act under color of such office” in par. (1).
+Subsec. (a). Pub. L. 104–317, § 206(a)(2), struck out “persons” after “following” in introductory provisions and substituted “The United States or any agency thereof or any officer (or any person acting under that officer) of the United States or of any agency thereof, sued in an official or individual capacity for any act under color of such office” for “Any officer of the United States or any agency thereof, or person acting under him, for any act under color of such office” in par. (1).
 
-## § 1442a. Members of armed forces sued or prosecuted
+## § 1442a. Members of armed forces sued or prosecuted
 
 A civil or criminal prosecution in a court of a State of the United States against a member of the armed forces of the United States on account of an act done under color of his office or status, or in respect to which he claims any right, title, or authority under a law of the United States respecting the armed forces thereof, or under the law of war, may at any time before the trial or final hearing thereof be removed for trial into the district court of the United States for the district where it is pending in the manner prescribed by law, and it shall thereupon be entered on the docket of the district court, which shall proceed as if the cause had been originally commenced therein and shall have full power to hear and determine the cause.
 
-(Added Aug. 10, 1956, ch. 1041, § 19(a), 70A Stat. 626.)
+(Added Aug. 10, 1956, ch. 1041, § 19(a), 70A Stat. 626.)
 
 **Editorial Notes**
 
 **Derivation**
 
-Section was from the Uniform Code of Military Justice, act May 5, 1950, ch. 169, § 9, 64 Stat. 146, which was based on Article 117, Articles of War, act June 4, 1920, ch. 227, subch. II, § 1, 41 Stat. 811, as amended June 24, 1948, ch. 625, title II, § 242, 62 Stat. 642.
+Section was from the Uniform Code of Military Justice, act May 5, 1950, ch. 169, § 9, 64 Stat. 146, which was based on Article 117, Articles of War, act June 4, 1920, ch. 227, subch. II, § 1, 41 Stat. 811, as amended June 24, 1948, ch. 625, title II, § 242, 62 Stat. 642.
 
-## § 1443. Civil rights cases
+## § 1443. Civil rights cases
 
 Any of the following civil actions or criminal prosecutions, commenced in a State court may be removed by the defendant to the district court of the United States for the district and division embracing the place wherein it is pending:
 
@@ -249,7 +249,7 @@ Any of the following civil actions or criminal prosecutions, commenced in a Stat
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 74 (Mar. 3, 1911, ch. 231, § 31, 36 Stat. 1096).
+Based on title 28, U.S.C., 1940 ed., § 74 (Mar. 3, 1911, ch. 231, § 31, 36 Stat. 1096).
 
 Other provisions of section 74 of title 28, U.S.C., 1940 ed., are incorporated in sections 1446 and 1447 of this title.
 
@@ -257,17 +257,17 @@ Words “or in the part of the State where such suit or prosecution is pending�
 
 Changes were made in phraseology.
 
-## § 1444. Foreclosure action against United States
+## § 1444. Foreclosure action against United States
 
 Any action brought under section 2410 of this title against the United States in any State court may be removed by the United States to the district court of the United States for the district and division in which the action is pending.
 
-(June 25, 1948, ch. 646, 62 Stat. 938; May 24, 1949, ch. 139, § 82, 63 Stat. 101.)
+(June 25, 1948, ch. 646, 62 Stat. 938; May 24, 1949, ch. 139, § 82, 63 Stat. 101.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., § 903 (Mar. 4, 1931, ch. 515, § 3, 46 Stat. 1529).
+Based on title 28, U.S.C., 1940 ed., § 903 (Mar. 4, 1931, ch. 515, § 3, 46 Stat. 1529).
 
 The procedural provisions of section 903 of title 28, U.S.C., 1940 ed., were omitted as covered by section 1446 of this title.
 
@@ -283,7 +283,7 @@ This section corrects typographical errors in section 1444 of title 28, U.S.C.
 
 1949—Act May 24, 1949, inserted “court” between “State” and “may”, and substituted “division” for “divisions”.
 
-## § 1445. Nonremovable actions
+## § 1445. Nonremovable actions
 
 **(a)** A civil action in any State court against a railroad or its receivers or trustees, arising under sections 1–4 and 5–10 of the Act of April 22, 1908 (45 U.S.C. 51–54, 55–60), may not be removed to any district court of the United States.
 
@@ -293,11 +293,11 @@ This section corrects typographical errors in section 1444 of title 28, U.S.C.
 
 **(d)** A civil action in any State court arising under section 40302 of the Violence Against Women Act of 1994 may not be removed to any district court of the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 939; Pub. L. 85–554, § 5, July 25, 1958, 72 Stat. 415; Pub. L. 95–473, § 2(a)(3)(A), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 95–486, § 9(b), Oct. 20, 1978, 92 Stat. 1634; Pub. L. 103–322, title IV, § 40302(e)(5), Sept. 13, 1994, 108 Stat. 1942; Pub. L. 104–88, title III, § 305(b), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–287, § 3, Oct. 11, 1996, 110 Stat. 3388.)
+(June 25, 1948, ch. 646, 62 Stat. 939; Pub. L. 85–554, § 5, July 25, 1958, 72 Stat. 415; Pub. L. 95–473, § 2(a)(3)(A), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 95–486, § 9(b), Oct. 20, 1978, 92 Stat. 1634; Pub. L. 103–322, title IV, § 40302(e)(5), Sept. 13, 1994, 108 Stat. 1942; Pub. L. 104–88, title III, § 305(b), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–287, § 3, Oct. 11, 1996, 110 Stat. 3388.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 71 (Mar. 3, 1911, ch. 231, § 28, 36 Stat. 1094; Jan. 20, 1914, ch. 11, 38 Stat. 278; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54).
+Based on title 28, U.S.C., 1940 ed., § 71 (Mar. 3, 1911, ch. 231, § 28, 36 Stat. 1094; Jan. 20, 1914, ch. 11, 38 Stat. 278; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54).
 
 The words “or its receivers or trustees” were inserted in both subsections to make clear that nonremovable actions against a carrier do not become removable under section 1442 of this title when filed against court receivers or trustees.
 
@@ -343,7 +343,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 Amendment by Pub. L. 85–554 applicable only in the case of actions commenced after July 25, 1958, see section 3 of Pub. L. 85–554, set out as a note under section 1331 of this title.
 
-## § 1446. Procedure for removal of civil actions
+## § 1446. Procedure for removal of civil actions
 
 **(a) Generally.—** A defendant or defendants desiring to remove any civil action from a State court shall file in the district court of the United States for the district and division within which such action is pending a notice of removal signed pursuant to Rule 11 of the Federal Rules of Civil Procedure and containing a short and plain statement of the grounds for removal, together with a copy of all process, pleadings, and orders served upon such defendant or defendants in such action.
 
@@ -385,19 +385,19 @@ Amendment by Pub. L. 85–554 applicable only in the case of actions commenced a
 
 **(e) Counterclaim in 337 Proceeding.—** With respect to any counterclaim removed to a district court pursuant to section 337(c) of the Tariff Act of 1930, the district court shall resolve such counterclaim in the same manner as an original complaint under the Federal Rules of Civil Procedure, except that the payment of a filing fee shall not be required in such cases and the counterclaim shall relate back to the date of the original complaint in the proceeding before the International Trade Commission under section 337 of that Act.
 
-**(g)**  1
+**(g)** 1
 
-<sup>1</sup>  So in original. Section does not contain a subsec. (f).
+<sup>1</sup> So in original. Section does not contain a subsec. (f).
 
 Where the civil action or criminal prosecution that is removable under section 1442(a) is a proceeding in which a judicial order for testimony or documents is sought or issued or sought to be enforced, the 30-day requirement of subsection (b) of this section and paragraph (1) of section 1455(b) is satisfied if the person or entity desiring to remove the proceeding files the notice of removal not later than 30 days after receiving, through service, notice of any such proceeding.
 
-(June 25, 1948, ch. 646, 62 Stat. 939; May 24, 1949, ch. 139, § 83, 63 Stat. 101; Pub. L. 89–215, Sept. 29, 1965, 79 Stat. 887; Pub. L. 95–78, § 3, July 30, 1977, 91 Stat. 321; Pub. L. 100–702, title X, § 1016(b), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 102–198, § 10(a), Dec. 9, 1991, 105 Stat. 1626; Pub. L. 103–465, title III, § 321(b)(2), Dec. 8, 1994, 108 Stat. 4946; Pub. L. 104–317, title VI, § 603, Oct. 19, 1996, 110 Stat. 3857; Pub. L. 112–51, § 2(c), Nov. 9, 2011, 125 Stat. 545; Pub. L. 112–63, title I, §§ 103(b), 104, Dec. 7, 2011, 125 Stat. 760, 762.)
+(June 25, 1948, ch. 646, 62 Stat. 939; May 24, 1949, ch. 139, § 83, 63 Stat. 101; Pub. L. 89–215, Sept. 29, 1965, 79 Stat. 887; Pub. L. 95–78, § 3, July 30, 1977, 91 Stat. 321; Pub. L. 100–702, title X, § 1016(b), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 102–198, § 10(a), Dec. 9, 1991, 105 Stat. 1626; Pub. L. 103–465, title III, § 321(b)(2), Dec. 8, 1994, 108 Stat. 4946; Pub. L. 104–317, title VI, § 603, Oct. 19, 1996, 110 Stat. 3857; Pub. L. 112–51, § 2(c), Nov. 9, 2011, 125 Stat. 545; Pub. L. 112–63, title I, §§ 103(b), 104, Dec. 7, 2011, 125 Stat. 760, 762.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., §§ 72, 74, 75, 76 (May 3, 1911, ch. 231, §§ 29, 31, 32, 33, 36 Stat. 1095, 1097; Aug. 23, 1916, ch. 399, 39 Stat. 532; July 30, 1977, Pub. L. 95–78, § 3, 91 Stat. 321.)
+Based on title 28, U.S.C., 1940 ed., §§ 72, 74, 75, 76 (May 3, 1911, ch. 231, §§ 29, 31, 32, 33, 36 Stat. 1095, 1097; Aug. 23, 1916, ch. 399, 39 Stat. 532; July 30, 1977, Pub. L. 95–78, § 3, 91 Stat. 321.)
 
 Section consolidates portions of sections 74, 75, and 76 with section 72 of title 28, U.S.C., 1940 ed., with important changes of substance and phraseology.
 
@@ -449,21 +449,21 @@ Section 337 of the Tariff Act of 1930, referred to in subsec. (e), is classified
 
 **Amendments**
 
-2011—Pub. L. 112–63, § 103(b)(1), amended section catchline generally, substituting “Procedure for removal of civil actions” for “Procedure for removal”.
+2011—Pub. L. 112–63, § 103(b)(1), amended section catchline generally, substituting “Procedure for removal of civil actions” for “Procedure for removal”.
 
-Subsec. (a). Pub. L. 112–63, § 103(b)(2), inserted heading and struck out “or criminal prosecution” after “civil action” in text.
+Subsec. (a). Pub. L. 112–63, § 103(b)(2), inserted heading and struck out “or criminal prosecution” after “civil action” in text.
 
-Subsec. (b). Pub. L. 112–63, § 103(b)(3)(A), (B), inserted heading, designated first par. as par. (1), added pars. (2) and (3), and struck out second par. which read as follows: “If the case stated by the initial pleading is not removable, a notice of removal may be filed within thirty days after receipt by the defendant, through service or otherwise, of a copy of an amended pleading, motion, order or other paper from which it may first be ascertained that the case is one which is or has become removable, except that a case may not be removed on the basis of jurisdiction conferred by section 1332 of this title more than 1 year after commencement of the action.”
+Subsec. (b). Pub. L. 112–63, § 103(b)(3)(A), (B), inserted heading, designated first par. as par. (1), added pars. (2) and (3), and struck out second par. which read as follows: “If the case stated by the initial pleading is not removable, a notice of removal may be filed within thirty days after receipt by the defendant, through service or otherwise, of a copy of an amended pleading, motion, order or other paper from which it may first be ascertained that the case is one which is or has become removable, except that a case may not be removed on the basis of jurisdiction conferred by section 1332 of this title more than 1 year after commencement of the action.”
 
-Subsec. (b)(1). Pub. L. 112–63, § 103(b)(4)(B), substituted “30 days” for “thirty days” in two places.
+Subsec. (b)(1). Pub. L. 112–63, § 103(b)(4)(B), substituted “30 days” for “thirty days” in two places.
 
-Subsec. (c). Pub. L. 112–63, § 103(b)(3)(C), added subsec. (c) and struck out former subsec. (c) which related to notice of removal of a criminal prosecution.
+Subsec. (c). Pub. L. 112–63, § 103(b)(3)(C), added subsec. (c) and struck out former subsec. (c) which related to notice of removal of a criminal prosecution.
 
-Subsec. (d). Pub. L. 112–63, § 103(b)(4)(A), inserted heading.
+Subsec. (d). Pub. L. 112–63, § 103(b)(4)(A), inserted heading.
 
-Subsecs. (e), (f). Pub. L. 112–63, § 103(b)(4)(C), (D), redesignated subsec. (f) as (e), inserted heading, and struck out former subsec. (e) which read as follows: “If the defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into his custody and deliver a copy of the writ to the clerk of such State court.”
+Subsecs. (e), (f). Pub. L. 112–63, § 103(b)(4)(C), (D), redesignated subsec. (f) as (e), inserted heading, and struck out former subsec. (e) which read as follows: “If the defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into his custody and deliver a copy of the writ to the clerk of such State court.”
 
-Subsec. (g). Pub. L. 112–63, § 104, substituted “subsection (b) of this section and paragraph (1) of section 1455(b)” for “subsections (b) and (c)”.
+Subsec. (g). Pub. L. 112–63, § 104, substituted “subsection (b) of this section and paragraph (1) of section 1455(b)” for “subsections (b) and (c)”.
 
 Pub. L. 112–51 added subsec. (g).
 
@@ -471,35 +471,35 @@ Pub. L. 112–51 added subsec. (g).
 
 1994—Subsec. (f). Pub. L. 103–465 added subsec. (f).
 
-1991—Subsec. (c)(1). Pub. L. 102–198, § 10(a)(1), (4), substituted “notice of” for “petition for” and “the notice” for “the petition”.
+1991—Subsec. (c)(1). Pub. L. 102–198, § 10(a)(1), (4), substituted “notice of” for “petition for” and “the notice” for “the petition”.
 
-Subsec. (c)(2). Pub. L. 102–198, § 10(a)(1), (4), substituted “notice of” for “petition for” and substituted “notice” for “petition” in three places.
+Subsec. (c)(2). Pub. L. 102–198, § 10(a)(1), (4), substituted “notice of” for “petition for” and substituted “notice” for “petition” in three places.
 
-Subsec. (c)(3). Pub. L. 102–198, § 10(a)(1), (2), substituted “notice of” for “petition for” and “prosecution is first remanded” for “petition is first denied”.
+Subsec. (c)(3). Pub. L. 102–198, § 10(a)(1), (2), substituted “notice of” for “petition for” and “prosecution is first remanded” for “petition is first denied”.
 
-Subsec. (c)(4), (5). Pub. L. 102–198, § 10(a)(3), added pars. (4) and (5) and struck out former pars. (4) and (5) which read as follows:
+Subsec. (c)(4), (5). Pub. L. 102–198, § 10(a)(3), added pars. (4) and (5) and struck out former pars. (4) and (5) which read as follows:
 
 “(4) The United States district court to which such petition is directed shall examine the petition promptly. If it clearly appears on the face of the petition and any exhibits annexed thereto that the petition for removal should not be granted, the court shall make an order for its summary dismissal.
 
 “(5) If the United States district court does not order the summary dismissal of such petition, it shall order an evidentiary hearing to be held promptly and after such hearing shall make such disposition of the petition as justice shall require. If the United States district court determines that such petition shall be granted, it shall so notify the State court in which prosecution is pending, which shall proceed no further.”
 
-Subsec. (d). Pub. L. 102–198, § 10(a)(1), (4), (5), substituted “notice of removal” for “petition for the removal”, struck out “and bond” after “civil action”, and substituted “notice with” for “petition with”.
+Subsec. (d). Pub. L. 102–198, § 10(a)(1), (4), (5), substituted “notice of removal” for “petition for the removal”, struck out “and bond” after “civil action”, and substituted “notice with” for “petition with”.
 
-1988—Subsec. (a). Pub. L. 100–702, § 1016(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A defendant or defendants desiring to remove any civil action or criminal prosecution from a State court shall file in the district court of the United States for the district and division within which such action is pending a verified petition containing a short and plain statement of the facts which entitle him or them to removal together with a copy of all process, pleadings and orders served upon him or them in such action.”
+1988—Subsec. (a). Pub. L. 100–702, § 1016(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A defendant or defendants desiring to remove any civil action or criminal prosecution from a State court shall file in the district court of the United States for the district and division within which such action is pending a verified petition containing a short and plain statement of the facts which entitle him or them to removal together with a copy of all process, pleadings and orders served upon him or them in such action.”
 
-Subsec. (b). Pub. L. 100–702, § 1016(b)(2), substituted “notice of removal” for “petition for removal” in two places and inserted before period at end of second par. “, except that a case may not be removed on the basis of jurisdiction conferred by section 1332 of this title more than 1 year after commencement of the action”.
+Subsec. (b). Pub. L. 100–702, § 1016(b)(2), substituted “notice of removal” for “petition for removal” in two places and inserted before period at end of second par. “, except that a case may not be removed on the basis of jurisdiction conferred by section 1332 of this title more than 1 year after commencement of the action”.
 
-Subsecs. (d) to (f). Pub. L. 100–702, § 1016(b)(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “Each petition for removal of a civil action or proceeding, except a petition in behalf of the United States, shall be accompanied by a bond with good and sufficient surety conditioned that the defendant or defendants will pay all costs and disbursements incurred by reason of the removal proceedings should it be determined that the case was not removable or was improperly removed.”
+Subsecs. (d) to (f). Pub. L. 100–702, § 1016(b)(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “Each petition for removal of a civil action or proceeding, except a petition in behalf of the United States, shall be accompanied by a bond with good and sufficient surety conditioned that the defendant or defendants will pay all costs and disbursements incurred by reason of the removal proceedings should it be determined that the case was not removable or was improperly removed.”
 
-1977—Subsec. (c). Pub. L. 95–78, § 3(a), designated existing provisions as par. (1), set a period of 30 days as the maximum allowable time prior to commencement of trial and following arraignment during which time a petition for removal can be filed, provided for the grant of additional time for good cause shown, and added pars. (2) to (5).
+1977—Subsec. (c). Pub. L. 95–78, § 3(a), designated existing provisions as par. (1), set a period of 30 days as the maximum allowable time prior to commencement of trial and following arraignment during which time a petition for removal can be filed, provided for the grant of additional time for good cause shown, and added pars. (2) to (5).
 
-Subsec. (e). Pub. L. 95–78, § 3(b), inserted “for the removal of a civil action” after “filing of such petition”.
+Subsec. (e). Pub. L. 95–78, § 3(b), inserted “for the removal of a civil action” after “filing of such petition”.
 
 1965—Subsec. (b). Pub. L. 89–215 substituted “thirty days” for “twenty days” wherever appearing.
 
-1949—Subsec. (b). Act May 24, 1949, § 83(a), provided that the petition for removal need not be filed until 20 days after the defendant has received a copy of the plaintiff’s initial pleading, and provided that the petition for removal shall be filed within 20 days after the service of summons.
+1949—Subsec. (b). Act May 24, 1949, § 83(a), provided that the petition for removal need not be filed until 20 days after the defendant has received a copy of the plaintiff’s initial pleading, and provided that the petition for removal shall be filed within 20 days after the service of summons.
 
-Subsec. (e). Act May 24, 1949, § 83(b), indicated that notice need not be given simultaneously with the filing, but may be made promptly thereafter.
+Subsec. (e). Act May 24, 1949, § 83(b), indicated that notice need not be given simultaneously with the filing, but may be made promptly thereafter.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -515,7 +515,7 @@ Amendment by Pub. L. 103–465 applicable with respect to complaints filed under
 
 Amendment by Pub. L. 95–78 effective Oct. 1, 1977, see section 4 of Pub. L. 95–78, set out as an Effective Date of Pub. L. 95–78 note under section 2074 of this title.
 
-## § 1447. Procedure after removal generally
+## § 1447. Procedure after removal generally
 
 **(a)** In any case removed from a State court, the district court may issue all necessary orders and process to bring before it all proper parties whether served by process issued by the State court or otherwise.
 
@@ -527,13 +527,13 @@ Amendment by Pub. L. 95–78 effective Oct. 1, 1977, see section 4 of Pub. L. 95
 
 **(e)** If after removal the plaintiff seeks to join additional defendants whose joinder would destroy subject matter jurisdiction, the court may deny joinder, or permit joinder and remand the action to the State court.
 
-(June 25, 1948, ch. 646, 62 Stat. 939; May 24, 1949, ch. 139, § 84, 63 Stat. 102; Pub. L. 88–352, title IX, § 901, July 2, 1964, 78 Stat. 266; Pub. L. 100–702, title X, § 1016(c), Nov. 19, 1988, 102 Stat. 4670; Pub. L. 102–198, § 10(b), Dec. 9, 1991, 105 Stat. 1626; Pub. L. 104–219, § 1, Oct. 1, 1996, 110 Stat. 3022; Pub. L. 112–51, § 2(d), Nov. 9, 2011, 125 Stat. 546.)
+(June 25, 1948, ch. 646, 62 Stat. 939; May 24, 1949, ch. 139, § 84, 63 Stat. 102; Pub. L. 88–352, title IX, § 901, July 2, 1964, 78 Stat. 266; Pub. L. 100–702, title X, § 1016(c), Nov. 19, 1988, 102 Stat. 4670; Pub. L. 102–198, § 10(b), Dec. 9, 1991, 105 Stat. 1626; Pub. L. 104–219, § 1, Oct. 1, 1996, 110 Stat. 3022; Pub. L. 112–51, § 2(d), Nov. 9, 2011, 125 Stat. 546.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., §§ 71, 72, 74, 76, 80, 81 and 83 (Mar. 3, 1911, ch. 231, §§ 28, 29, 31, 33, 37 and 38, 36 Stat. 1094–1098; Jan. 20, 1914, ch. 11, 39 Stat. 278; Aug. 23, 1916, ch. 399, 39 Stat. 532; Apr. 16, 1920, ch. 146, 41 Stat. 554; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54).
+Based on title 28, U.S.C., 1940 ed., §§ 71, 72, 74, 76, 80, 81 and 83 (Mar. 3, 1911, ch. 231, §§ 28, 29, 31, 33, 37 and 38, 36 Stat. 1094–1098; Jan. 20, 1914, ch. 11, 39 Stat. 278; Aug. 23, 1916, ch. 399, 39 Stat. 532; Apr. 16, 1920, ch. 146, 41 Stat. 554; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54).
 
 Section consolidates procedural provisions of sections 71, 72, 74, 76, 80, 81 and 83 of title 28, U.S.C., 1940 ed., with important changes in substance and phraseology.
 
@@ -569,23 +569,23 @@ This section strikes out subsections (c) and (d) of section 1447 of title 28, U.
 
 1991—Subsec. (b). Pub. L. 102–198 substituted “removing party” for “petitioner”.
 
-1988—Subsec. (c). Pub. L. 100–702, § 1016(c)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If at any time before final judgment it appears that the case was removed improvidently and without jurisdiction, the district court shall remand the case, and may order the payment of just costs. A certified copy of the order of remand shall be mailed by its clerk to the clerk of the State court. The State court may thereupon proceed with such case.”
+1988—Subsec. (c). Pub. L. 100–702, § 1016(c)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If at any time before final judgment it appears that the case was removed improvidently and without jurisdiction, the district court shall remand the case, and may order the payment of just costs. A certified copy of the order of remand shall be mailed by its clerk to the clerk of the State court. The State court may thereupon proceed with such case.”
 
-Subsec. (e). Pub. L. 100–702, § 1016(c)(2), added subsec. (e).
+Subsec. (e). Pub. L. 100–702, § 1016(c)(2), added subsec. (e).
 
 1964—Subsec. (d). Pub. L. 88–352, inserted exception provision.
 
-1949—Subsec. (c). Act May 24, 1949, § 84(a), struck out former subsecs. (c) and (d), renumbered former subsec. (e) to be subsec. (c) and inserted at end of first sentence of new subsec. (c) “and may order the payment of just costs”.
+1949—Subsec. (c). Act May 24, 1949, § 84(a), struck out former subsecs. (c) and (d), renumbered former subsec. (e) to be subsec. (c) and inserted at end of first sentence of new subsec. (c) “and may order the payment of just costs”.
 
-Subsec. (d). Act May 24, 1949, § 84(b), added subsec. (d).
+Subsec. (d). Act May 24, 1949, § 84(b), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Exception to Subsection (d)**
 
-Act Aug. 4, 1947, ch. 458, § 3(c), 61 Stat. 732, provides in part that the United States shall have the right to appeal from any order of remand entered in any case removed to a United States district court pursuant to the provisions of act Apr. 12, 1926, ch. 115, 44 Stat. 239. These acts referred to herein relate to restrictions on land of the Five Civilized Tribes of Oklahoma and are set out as notes under section 355 of Title 25, Indians.
+Act Aug. 4, 1947, ch. 458, § 3(c), 61 Stat. 732, provides in part that the United States shall have the right to appeal from any order of remand entered in any case removed to a United States district court pursuant to the provisions of act Apr. 12, 1926, ch. 115, 44 Stat. 239. These acts referred to herein relate to restrictions on land of the Five Civilized Tribes of Oklahoma and are set out as notes under section 355 of Title 25, Indians.
 
-## § 1448. Process after removal
+## § 1448. Process after removal
 
 In all cases removed from any State court to any district court of the United States in which any one or more of the defendants has not been served with process or in which the service has not been perfected prior to removal, or in which process served proves to be defective, such process or service may be completed or new process issued in the same manner as in cases originally filed in such district court.
 
@@ -595,23 +595,23 @@ This section shall not deprive any defendant upon whom process is served after r
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 83 (Apr. 16, 1920, ch. 146, 41 Stat. 554).
+Based on title 28, U.S.C., 1940 ed., § 83 (Apr. 16, 1920, ch. 146, 41 Stat. 554).
 
 Words “district court of the United States” were substituted for “United States Court,” because only the district courts now possess jurisdiction over removed civil and criminal cases.
 
 Changes were made in phraseology.
 
-## § 1449. State court record supplied
+## § 1449. State court record supplied
 
 Where a party is entitled to copies of the rec­ords and proceedings in any suit or prosecution in a State court, to be used in any district court of the United States, and the clerk of such State court, upon demand, and the payment or tender of the legal fees, fails to deliver certified copies, the district court may, on affidavit reciting such facts, direct such record to be supplied by affidavit or otherwise. Thereupon such proceedings, trial, and judgment may be had in such district court, and all such process awarded, as if certified copies had been filed in the district court.
 
-(June 25, 1948, ch. 646, 62 Stat. 940; May 24, 1949, ch. 139, § 85, 63 Stat. 102.)
+(June 25, 1948, ch. 646, 62 Stat. 940; May 24, 1949, ch. 139, § 85, 63 Stat. 102.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., § 78 (Mar. 3, 1911, ch. 231, § 35, 36 Stat. 1098).
+Based on title 28, U.S.C., 1940 ed., § 78 (Mar. 3, 1911, ch. 231, § 35, 36 Stat. 1098).
 
 Changes were made in phraseology.
 
@@ -625,7 +625,7 @@ This section corrects a typographical error by eliminating from section 1449 of 
 
 1949—Act May 24, 1949, substituted “and the clerk of such State court, upon” for “any attachment or sequestration of the”.
 
-## § 1450. Attachment or sequestration; securities
+## § 1450. Attachment or sequestration; securities
 
 Whenever any action is removed from a State court to a district court of the United States, any attachment or sequestration of the goods or estate of the defendant in such action in the State court shall hold the goods or estate to answer the final judgment or decree in the same manner as they would have been held to answer final judgment or decree had it been rendered by the State court.
 
@@ -637,11 +637,11 @@ All injunctions, orders, and other proceedings had in such action prior to its r
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 79 (Mar. 3, 1911, ch. 231, § 36, 36 Stat. 1098).
+Based on title 28, U.S.C., 1940 ed., § 79 (Mar. 3, 1911, ch. 231, § 36, 36 Stat. 1098).
 
 Changes were made in phraseology.
 
-## § 1451. Definitions
+## § 1451. Definitions
 
 For purposes of this chapter—
 
@@ -649,7 +649,7 @@ For purposes of this chapter—
 
 **(2)** The term “State” includes the District of Columbia.
 
-(Added Pub. L. 91–358, title I, § 172(d)(1), July 29, 1970, 84 Stat. 591.)
+(Added Pub. L. 91–358, title I, § 172(d)(1), July 29, 1970, 84 Stat. 591.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -657,13 +657,13 @@ For purposes of this chapter—
 
 Section effective first day of seventh calendar month which begins after July 29, 1970, see section 199(a) of Pub. L. 91–358, set out as an Effective Date of 1970 Amendment note under section 1257 of this title.
 
-## § 1452. Removal of claims related to bankruptcy cases
+## § 1452. Removal of claims related to bankruptcy cases
 
 **(a)** A party may remove any claim or cause of action in a civil action other than a proceeding before the United States Tax Court or a civil action by a governmental unit to enforce such governmental unit’s police or regulatory power, to the district court for the district where such civil action is pending, if such district court has jurisdiction of such claim or cause of action under section 1334 of this title.
 
 **(b)** The court to which such claim or cause of action is removed may remand such claim or cause of action on any equitable ground. An order entered under this subsection remanding a claim or cause of action, or a decision to not remand, is not reviewable by appeal or otherwise by the court of appeals under section 158(d), 1291, or 1292 of this title or by the Supreme Court of the United States under section 1254 of this title.
 
-(Added Pub. L. 98–353, title I, § 103(a), July 10, 1984, 98 Stat. 335; amended Pub. L. 101–650, title III, § 309(c), Dec. 1, 1990, 104 Stat. 5113.)
+(Added Pub. L. 98–353, title I, § 103(a), July 10, 1984, 98 Stat. 335; amended Pub. L. 101–650, title III, § 309(c), Dec. 1, 1990, 104 Stat. 5113.)
 
 **Editorial Notes**
 
@@ -677,7 +677,7 @@ Section effective first day of seventh calendar month which begins after July 29
 
 Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out as a note under section 151 of this title.
 
-## § 1453. Removal of class actions
+## § 1453. Removal of class actions
 
 **(a) Definitions.—** In this section, the terms “class”, “class action”, “class certification order”, and “class member” shall have the meanings given such terms under section 1332(d)(1).
 
@@ -699,9 +699,9 @@ Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out
 
 **(d) Exception.—** This section shall not apply to any class action that solely involves—
 
-**(1)** a claim concerning a covered security as defined under section 16(f)(3) of the Securities Act of 1933 (15 U.S.C. 78p(f)(3) 1
+**(1)** a claim concerning a covered security as defined under section 16(f)(3) of the Securities Act of 1933 (15 U.S.C. 78p(f)(3) 1
 
-<sup>1</sup>  So in original. Probably should be “77p(f)(3)”.
+<sup>1</sup> So in original. Probably should be “77p(f)(3)”.
 
 ) and section 28(f)(5)(E) of the Securities Exchange Act of 1934 (15 U.S.C. 78bb(f)(5)(E));
 
@@ -709,7 +709,7 @@ Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out
 
 **(3)** a claim that relates to the rights, duties (including fiduciary duties), and obligations relating to or created by or pursuant to any security (as defined under section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)) and the regulations issued thereunder).
 
-(Added Pub. L. 109–2, § 5(a), Feb. 18, 2005, 119 Stat. 12; amended Pub. L. 111–16, § 6(2), May 7, 2009, 123 Stat. 1608; Pub. L. 112–63, title I, § 103(d)(2), Dec. 7, 2011, 125 Stat. 762.)
+(Added Pub. L. 109–2, § 5(a), Feb. 18, 2005, 119 Stat. 12; amended Pub. L. 111–16, § 6(2), May 7, 2009, 123 Stat. 1608; Pub. L. 112–63, title I, § 103(d)(2), Dec. 7, 2011, 125 Stat. 762.)
 
 **Editorial Notes**
 
@@ -733,7 +733,7 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 Section applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as an Effective Date of 2005 Amendment note under section 1332 of this title.
 
-## § 1454. Patent, plant variety protection, and copyright cases
+## § 1454. Patent, plant variety protection, and copyright cases
 
 **(a) In General.—** A civil action in which any party asserts a claim for relief arising under any Act of Congress relating to patents, plant variety protection, or copyrights may be removed to the district court of the United States for the district and division embracing the place where the action is pending.
 
@@ -751,7 +751,7 @@ Section applicable to any civil action commenced on or after Feb. 18, 2005, see 
 
 **(2)** may, under the circumstances specified in section 1367(c), remand any claims within the supplemental jurisdiction of the district court under section 1367.
 
-(Added Pub. L. 112–29, § 19(c)(1), Sept. 16, 2011, 125 Stat. 332.)
+(Added Pub. L. 112–29, § 19(c)(1), Sept. 16, 2011, 125 Stat. 332.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -759,7 +759,7 @@ Section applicable to any civil action commenced on or after Feb. 18, 2005, see 
 
 Section applicable to any civil action commenced on or after Sept. 16, 2011, see section 19(e) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment note under section 1295 of this title.
 
-## § 1455. Procedure for removal of criminal prosecutions
+## § 1455. Procedure for removal of criminal prosecutions
 
 **(a) Notice of Removal.—** A defendant or defendants desiring to remove any criminal prosecution from a State court shall file in the district court of the United States for the district and division within which such prosecution is pending a notice of removal signed pursuant to Rule 11 of the Federal Rules of Civil Procedure and containing a short and plain statement of the grounds for removal, together with a copy of all process, pleadings, and orders served upon such defendant or defendants in such action.
 
@@ -777,7 +777,7 @@ Section applicable to any civil action commenced on or after Sept. 16, 2011, see
 
 **(c) Writ of Habeas Corpus.—** If the defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into the marshal’s custody and deliver a copy of the writ to the clerk of such State court.
 
-(Added Pub. L. 112–63, title I, § 103(c), Dec. 7, 2011, 125 Stat. 761.)
+(Added Pub. L. 112–63, title I, § 103(c), Dec. 7, 2011, 125 Stat. 761.)
 
 **Editorial Notes**
 

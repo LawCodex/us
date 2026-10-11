@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 93—INSURANCE
 
-## § 6701. Operation of State law
+## § 6701. Operation of State law
 
 **(a) State regulation of the business of insurance**
 
@@ -193,45 +193,45 @@ The term “insurer” means any person engaged in the business of insurance.
 
 The term “State” means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
 
-(Pub. L. 106–102, title I, § 104, Nov. 12, 1999, 113 Stat. 1352.)
+(Pub. L. 106–102, title I, § 104, Nov. 12, 1999, 113 Stat. 1352.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The McCarran-Ferguson Act, referred to in subsecs. (a) and (d)(3)(A), is act Mar. 9, 1945, ch. 20, 59 Stat. 33, which is classified generally to chapter 20 (§ 1011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1011 of this title and Tables.
+The McCarran-Ferguson Act, referred to in subsecs. (a) and (d)(3)(A), is act Mar. 9, 1945, ch. 20, 59 Stat. 33, which is classified generally to chapter 20 (§ 1011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1011 of this title and Tables.
 
 This Act, referred to in subsecs. (c)(1), (d)(1), (4)(D)(iii), (iv), (e), and (f)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
-Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (d)(2)(B)(viii)(I), is Pub. L. 91–607, title I, § 106, Dec. 31, 1970, 84 Stat. 1766, which is classified generally to chapter 22 (§ 1971 et seq.) of Title 12, Banks and Banking.
+Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (d)(2)(B)(viii)(I), is Pub. L. 91–607, title I, § 106, Dec. 31, 1970, 84 Stat. 1766, which is classified generally to chapter 22 (§ 1971 et seq.) of Title 12, Banks and Banking.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–94, div. I, title V, § 501, Dec. 20, 2019, 133 Stat. 3026, provided that: “This title [amending provisions set out as a note under this section] may be cited as the ‘Terrorism Risk Insurance Program Reauthorization Act of 2019’.”
+Pub. L. 116–94, div. I, title V, § 501, Dec. 20, 2019, 133 Stat. 3026, provided that: “This title [amending provisions set out as a note under this section] may be cited as the ‘Terrorism Risk Insurance Program Reauthorization Act of 2019’.”
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–1, § 1(a), Jan. 12, 2015, 129 Stat. 3, provided that: “This Act [enacting subchapter III of this chapter, amending section 78*o*–10 of this title, section 6s of Title 7, Agriculture, and section 241 of Title 12, Banks and Banking, enacting provisions set out as notes under this section, sections 1 and 6s of Title 7, and section 241 of Title 12, and amending provisions set out as a note under this section] may be cited as the ‘Terrorism Risk Insurance Program Reauthorization Act of 2015’.”
+Pub. L. 114–1, § 1(a), Jan. 12, 2015, 129 Stat. 3, provided that: “This Act [enacting subchapter III of this chapter, amending section 78*o*–10 of this title, section 6s of Title 7, Agriculture, and section 241 of Title 12, Banks and Banking, enacting provisions set out as notes under this section, sections 1 and 6s of Title 7, and section 241 of Title 12, and amending provisions set out as a note under this section] may be cited as the ‘Terrorism Risk Insurance Program Reauthorization Act of 2015’.”
 
-Pub. L. 114–1, title II, § 201, Jan. 12, 2015, 129 Stat. 12, provided that: “This title [enacting subchapter III of this chapter] may be cited as the ‘National Association of Registered Agents and Brokers Reform Act of 2015’.”
+Pub. L. 114–1, title II, § 201, Jan. 12, 2015, 129 Stat. 12, provided that: “This title [enacting subchapter III of this chapter] may be cited as the ‘National Association of Registered Agents and Brokers Reform Act of 2015’.”
 
 **Short Title of 2007 Amendment**
 
-Pub. L. 110–160, § 1(a), Dec. 26, 2007, 121 Stat. 1839, provided that: “This Act [amending provisions set out as a note under this section] may be cited as the ‘Terrorism Risk Insurance Program Reauthorization Act of 2007’.”
+Pub. L. 110–160, § 1(a), Dec. 26, 2007, 121 Stat. 1839, provided that: “This Act [amending provisions set out as a note under this section] may be cited as the ‘Terrorism Risk Insurance Program Reauthorization Act of 2007’.”
 
 **Short Title of 2005 Amendment**
 
-Pub. L. 109–144, § 1, Dec. 22, 2005, 119 Stat. 2660, provided that: “This Act [amending provisions set out as a note under this section] may be cited as the ‘Terrorism Risk Insurance Extension Act of 2005’.”
+Pub. L. 109–144, § 1, Dec. 22, 2005, 119 Stat. 2660, provided that: “This Act [amending provisions set out as a note under this section] may be cited as the ‘Terrorism Risk Insurance Extension Act of 2005’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–297, § 1(a), Nov. 26, 2002, 116 Stat. 2322, provided that: “This Act [amending section 248 of Title 12, Banks and Banking, and sections 1606 and 1610 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and section 1610 of Title 28, and amending provisions set out as a note under section 1610 of Title 28] may be cited as the ‘Terrorism Risk Insurance Act of 2002’.”
+Pub. L. 107–297, § 1(a), Nov. 26, 2002, 116 Stat. 2322, provided that: “This Act [amending section 248 of Title 12, Banks and Banking, and sections 1606 and 1610 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and section 1610 of Title 28, and amending provisions set out as a note under section 1610 of Title 28] may be cited as the ‘Terrorism Risk Insurance Act of 2002’.”
 
 **Advisory Committee on Risk-Sharing Mechanisms**
 
-Pub. L. 114–1, title I, § 110, Jan. 12, 2015, 129 Stat. 9, provided that:
+Pub. L. 114–1, title I, § 110, Jan. 12, 2015, 129 Stat. 9, provided that:
 
 > **“(a) Finding; Rule of Construction.—**
 
@@ -249,7 +249,7 @@ Pub. L. 114–1, title I, § 110, Jan. 12, 2015, 129 Stat. 9, provided that:
 
 **Terrorism Insurance Program**
 
-Pub. L. 107–297, title I, Nov. 26, 2002, 116 Stat. 2322, as amended by Pub. L. 109–144, §§ 2–8, Dec. 22, 2005, 119 Stat. 2660–2662; Pub. L. 110–160, §§ 2–5, Dec. 26, 2007, 121 Stat. 1839–1841, Pub. L. 114–1, title I, §§ 101–106, 107(e), 111, 112, Jan. 12, 2015, 129 Stat. 3–5, 8, 10, 12; Pub. L. 116–94, div. I, title V, § 502(a)–(c), Dec. 20, 2019, 133 Stat. 3026, 3027, provided that:
+Pub. L. 107–297, title I, Nov. 26, 2002, 116 Stat. 2322, as amended by Pub. L. 109–144, §§ 2–8, Dec. 22, 2005, 119 Stat. 2660–2662; Pub. L. 110–160, §§ 2–5, Dec. 26, 2007, 121 Stat. 1839–1841, Pub. L. 114–1, title I, §§ 101–106, 107(e), 111, 112, Jan. 12, 2015, 129 Stat. 3–5, 8, 10, 12; Pub. L. 116–94, div. I, title V, § 502(a)–(c), Dec. 20, 2019, 133 Stat. 3026, 3027, provided that:
 
 > **“SEC. 101. CONGRESSIONAL FINDINGS AND PURPOSE.**
 
@@ -853,9 +853,9 @@ Pub. L. 107–297, title I, Nov. 26, 2002, 116 Stat. 2322, as amended by Pub. L.
 
 > **“(2) Report.—** The Secretary shall submit a report to the Congress setting forth the findings and conclusions of each study required under paragraph (1).”
 
-[Pub. L. 114–1, title I, §§ 103, 105, 111, 112, Jan. 12, 2015, 129 Stat. 4, 5, 10, 12, which directed amendment of “subparagraph (B) of section 103(e)(1)”, “paragraph (1)(A) of section 102”, “section 104”, and “section 108”, respectively, without specifying the name of the Act being amended, were executed to those sections of the Terrorism Risk Insurance Act of 2002 (title I of Pub. L. 107–297, set out above), to reflect the probable intent of Congress.]
+[Pub. L. 114–1, title I, §§ 103, 105, 111, 112, Jan. 12, 2015, 129 Stat. 4, 5, 10, 12, which directed amendment of “subparagraph (B) of section 103(e)(1)”, “paragraph (1)(A) of section 102”, “section 104”, and “section 108”, respectively, without specifying the name of the Act being amended, were executed to those sections of the Terrorism Risk Insurance Act of 2002 (title I of Pub. L. 107–297, set out above), to reflect the probable intent of Congress.]
 
-[Pub. L. 110–160, § 4(b)(2), Dec. 26, 2007, 121 Stat. 1840, which directed amendment of section 103(e)(3) of Pub. L. 107–297, set out above, by substituting period for “ ‘and the Congress shall’ and all that follows through the end of the paragraph”, was executed by substituting period for “and the Congress shall” and all that followed through end of first sentence, to reflect the probable intent of Congress, in light of insertion of last sentence of par. (3) by Pub. L. 110–160, § 4(b)(1).]
+[Pub. L. 110–160, § 4(b)(2), Dec. 26, 2007, 121 Stat. 1840, which directed amendment of section 103(e)(3) of Pub. L. 107–297, set out above, by substituting period for “ ‘and the Congress shall’ and all that follows through the end of the paragraph”, was executed by substituting period for “and the Congress shall” and all that followed through end of first sentence, to reflect the probable intent of Congress, in light of insertion of last sentence of par. (3) by Pub. L. 110–160, § 4(b)(1).]
 
 **Executive Documents**
 
@@ -865,13 +865,13 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 ## SUBCHAPTER I—STATE REGULATION OF INSURANCE
 
-### § 6711. Functional regulation of insurance
+### § 6711. Functional regulation of insurance
 
 The insurance activities of any person (including a national bank exercising its power to act as agent under section 92 of title 12) shall be functionally regulated by the States, subject to section 6701 of this title.
 
-(Pub. L. 106–102, title III, § 301, Nov. 12, 1999, 113 Stat. 1407.)
+(Pub. L. 106–102, title III, § 301, Nov. 12, 1999, 113 Stat. 1407.)
 
-### § 6712. Insurance underwriting in national banks
+### § 6712. Insurance underwriting in national banks
 
 **(a) In general**
 
@@ -915,9 +915,9 @@ Except as provided in section 6713 of this title, a national bank and the subsid
 
 For purposes of this section, providing insurance (including reinsurance) outside the United States that insures, guarantees, or indemnifies insurance products provided in a State, or that indemnifies an insurance company with regard to insurance products provided in a State, shall be considered to be providing insurance as principal in that State.
 
-(Pub. L. 106–102, title III, § 302, Nov. 12, 1999, 113 Stat. 1407.)
+(Pub. L. 106–102, title III, § 302, Nov. 12, 1999, 113 Stat. 1407.)
 
-### § 6713. Title insurance activities of national banks and their affiliates
+### § 6713. Title insurance activities of national banks and their affiliates
 
 **(a) General prohibition**
 
@@ -955,7 +955,7 @@ For purposes of this section, the terms “affiliate” and “subsidiary” hav
 
 No provision of this Act or any other Federal law shall be construed as superseding or affecting a State law which was in effect before November 12, 1999, and which prohibits title insurance from being offered, provided, or sold in such State, or from being underwritten with respect to real property in such State, by any person whatsoever.
 
-(Pub. L. 106–102, title III, § 303, Nov. 12, 1999, 113 Stat. 1408.)
+(Pub. L. 106–102, title III, § 303, Nov. 12, 1999, 113 Stat. 1408.)
 
 **Editorial Notes**
 
@@ -963,7 +963,7 @@ No provision of this Act or any other Federal law shall be construed as supersed
 
 This Act, referred to in subsec. (e), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
-### § 6714. Expedited and equalized dispute resolution for Federal regulators
+### § 6714. Expedited and equalized dispute resolution for Federal regulators
 
 **(a) Filing in Court of Appeals**
 
@@ -987,9 +987,9 @@ Any request for certiorari to the Supreme Court of the United States of any judg
 
 The court shall decide a petition filed under this section based on its review on the merits of all questions presented under State and Federal law, including the nature of the product or activity and the history and purpose of its regulation under State and Federal law, without unequal deference.
 
-(Pub. L. 106–102, title III, § 304, Nov. 12, 1999, 113 Stat. 1409.)
+(Pub. L. 106–102, title III, § 304, Nov. 12, 1999, 113 Stat. 1409.)
 
-### § 6715. Certain State affiliation laws preempted for insurance companies and affiliates
+### § 6715. Certain State affiliation laws preempted for insurance companies and affiliates
 
 Except as provided in section 6701(c)(2) of this title, no State may, by law, regulation, order, interpretation, or otherwise—
 
@@ -999,9 +999,9 @@ Except as provided in section 6701(c)(2) of this title, no State may, by law, re
 
 **(3)** prevent, significantly interfere with, or have the authority to review, approve, or disapprove a plan of reorganization by which an insurer proposes to reorganize from mutual form to become a stock insurer (whether as a direct or indirect subsidiary of a mutual holding company or otherwise) unless such State is the State of domicile of the insurer.
 
-(Pub. L. 106–102, title III, § 306, Nov. 12, 1999, 113 Stat. 1415.)
+(Pub. L. 106–102, title III, § 306, Nov. 12, 1999, 113 Stat. 1415.)
 
-### § 6716. Interagency consultation
+### § 6716. Interagency consultation
 
 **(a) Purpose**
 
@@ -1051,19 +1051,19 @@ The terms “appropriate Federal banking agency” and “depository institution
 
 The terms “Board” and “financial holding company” have the same meanings as in section 1841 of title 12.
 
-(Pub. L. 106–102, title III, § 307, Nov. 12, 1999, 113 Stat. 1415.)
+(Pub. L. 106–102, title III, § 307, Nov. 12, 1999, 113 Stat. 1415.)
 
-### § 6717. Definition of State
+### § 6717. Definition of State
 
 For purposes of this subchapter, the term “State” means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
 
-(Pub. L. 106–102, title III, § 308, Nov. 12, 1999, 113 Stat. 1417.)
+(Pub. L. 106–102, title III, § 308, Nov. 12, 1999, 113 Stat. 1417.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in original “this subtitle”, meaning subtitle A (§ 301 et seq.) of title III of Pub. L. 106–102, which enacted this subchapter and section 1831x of Title 12, Banks and Banking. For complete classification of this subtitle to the Code, see Tables.
+This subchapter, referred to in text, was in original “this subtitle”, meaning subtitle A (§ 301 et seq.) of title III of Pub. L. 106–102, which enacted this subchapter and section 1831x of Title 12, Banks and Banking. For complete classification of this subtitle to the Code, see Tables.
 
 **Executive Documents**
 
@@ -1073,19 +1073,19 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 ## SUBCHAPTER II—REDOMESTICATION OF MUTUAL INSURERS
 
-### § 6731. General application
+### § 6731. General application
 
 This subchapter shall only apply to a mutual insurance company in a State which has not enacted a law which expressly establishes reasonable terms and conditions for a mutual insurance company domiciled in such State to reorganize into a mutual holding company.
 
-(Pub. L. 106–102, title III, § 311, Nov. 12, 1999, 113 Stat. 1417.)
+(Pub. L. 106–102, title III, § 311, Nov. 12, 1999, 113 Stat. 1417.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 106–102, title III, § 316, Nov. 12, 1999, 113 Stat. 1422, provided that: “This subtitle [subtitle B (§§ 311–316) of title III of Pub. L. 106–102, enacting this subchapter] shall take effect on the date of the enactment of this Act [Nov. 12, 1999].”
+Pub. L. 106–102, title III, § 316, Nov. 12, 1999, 113 Stat. 1422, provided that: “This subtitle [subtitle B (§§ 311–316) of title III of Pub. L. 106–102, enacting this subchapter] shall take effect on the date of the enactment of this Act [Nov. 12, 1999].”
 
-### § 6732. Redomestication of mutual insurers
+### § 6732. Redomestication of mutual insurers
 
 **(a) Redomestication**
 
@@ -1137,9 +1137,9 @@ Upon reorganization into a mutual holding company, the contractual rights of the
 
 The reorganization is approved as fair and equitable to the policyholders by the insurance regulator of the transferee domicile.
 
-(Pub. L. 106–102, title III, § 312, Nov. 12, 1999, 113 Stat. 1417.)
+(Pub. L. 106–102, title III, § 312, Nov. 12, 1999, 113 Stat. 1417.)
 
-### § 6733. Effect on State laws restricting redomestication
+### § 6733. Effect on State laws restricting redomestication
 
 **(a) In general** Unless otherwise permitted by this subchapter, State laws of any transferor domicile that conflict with the purposes and intent of this subchapter are preempted, including but not limited to—
 
@@ -1181,15 +1181,15 @@ No State law, regulation, interpretation, or functional equivalent thereof, of a
 
 **(9)** require a person acting, or offering to act, as an insurance licensee for a redomesticated insurer in the licensed State to obtain a license from that State, except that such State may not impose any qualification or requirement that discriminates against a nonresident insurance licensee.
 
-(Pub. L. 106–102, title III, § 313, Nov. 12, 1999, 113 Stat. 1419.)
+(Pub. L. 106–102, title III, § 313, Nov. 12, 1999, 113 Stat. 1419.)
 
-### § 6734. Other provisions
+### § 6734. Other provisions
 
 **(a) Judicial review**
 
-The appropriate United States district court shall have exclusive jurisdiction over litigation arising under this section 1
+The appropriate United States district court shall have exclusive jurisdiction over litigation arising under this section 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 involving any redomesticating or redomesticated insurer.
 
@@ -1197,15 +1197,15 @@ involving any redomesticating or redomesticated insurer.
 
 If any provision of this section,<sup>1</sup> or the application thereof to any person or circumstances, is held invalid, the remainder of the section,<sup>1</sup> and the application of such provision to other persons or circumstances, shall not be affected thereby.
 
-(Pub. L. 106–102, title III, § 314, Nov. 12, 1999, 113 Stat. 1420.)
+(Pub. L. 106–102, title III, § 314, Nov. 12, 1999, 113 Stat. 1420.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This section, referred to in text, probably should be a reference to this subtitle, meaning subtitle B (§§ 311–316) of title III of Pub. L. 106–102, which is classified generally to this subchapter.
+This section, referred to in text, probably should be a reference to this subtitle, meaning subtitle B (§§ 311–316) of title III of Pub. L. 106–102, which is classified generally to this subchapter.
 
-### § 6735. Definitions
+### § 6735. Definitions
 
 For purposes of this subchapter, the following definitions shall apply:
 
@@ -1269,7 +1269,7 @@ The term “transferee domicile” means the State to which a mutual insurer is 
 
 The term “transferor domicile” means the State from which a mutual insurer is redomesticating pursuant to this subchapter.
 
-(Pub. L. 106–102, title III, § 315, Nov. 12, 1999, 113 Stat. 1420.)
+(Pub. L. 106–102, title III, § 315, Nov. 12, 1999, 113 Stat. 1420.)
 
 **Executive Documents**
 
@@ -1283,9 +1283,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **Codification**
 
-Subtitle C of title III of the Gramm-Leach-Bliley Act, comprising this subchapter, was originally enacted by Pub. L. 106–102, title III, Nov. 12, 1999, 113 Stat. 1422. Such subtitle is shown herein, however, as having been added by Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 12, because of the extensive revision of subtitle C by Pub. L. 114–1.
+Subtitle C of title III of the Gramm-Leach-Bliley Act, comprising this subchapter, was originally enacted by Pub. L. 106–102, title III, Nov. 12, 1999, 113 Stat. 1422. Such subtitle is shown herein, however, as having been added by Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 12, because of the extensive revision of subtitle C by Pub. L. 114–1.
 
-### § 6751. National Association of Registered Agents and Brokers
+### § 6751. National Association of Registered Agents and Brokers
 
 **(a) Establishment**
 
@@ -1301,7 +1301,7 @@ There is established the National Association of Registered Agents and Brokers (
 
 **(4)** except as otherwise provided in this subchapter, be subject to, and have all the powers conferred upon, a nonprofit corporation by the District of Columbia Nonprofit Corporation Act (D.C. Code, sec. 29–301.01 et seq.) or any successor thereto.
 
-(Pub. L. 106–102, title III, § 321, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 13.)
+(Pub. L. 106–102, title III, § 321, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 13.)
 
 **Editorial Notes**
 
@@ -1313,9 +1313,9 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b)(4
 
 Provisions similar to this section were contained in section 6752 of this title, prior to the general amendment of this subchapter by Pub. L. 114–1.
 
-A prior section 6751, Pub. L. 106–102, title III, § 321, Nov. 12, 1999, 113 Stat. 1422, related to State flexibility in multistate licensing reforms, prior to the general amendment of this subchapter by Pub. L. 114–1.
+A prior section 6751, Pub. L. 106–102, title III, § 321, Nov. 12, 1999, 113 Stat. 1422, related to State flexibility in multistate licensing reforms, prior to the general amendment of this subchapter by Pub. L. 114–1.
 
-### § 6752. Purpose
+### § 6752. Purpose
 
 The purpose of the Association shall be to provide a mechanism through which licensing, continuing education, and other nonresident insurance producer qualification requirements and conditions may be adopted and applied on a multi-state basis without affecting the laws, rules, and regulations, and preserving the rights of a State, pertaining to—
 
@@ -1329,7 +1329,7 @@ The purpose of the Association shall be to provide a mechanism through which lic
 
 **(5)** prescribing and enforcing laws and regulations regulating the conduct of resident and nonresident insurance producers.
 
-(Pub. L. 106–102, title III, § 322, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 13.)
+(Pub. L. 106–102, title III, § 322, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 13.)
 
 **Editorial Notes**
 
@@ -1337,9 +1337,9 @@ The purpose of the Association shall be to provide a mechanism through which lic
 
 Provisions similar to this section were contained in section 6753 of this title, prior to the general amendment of this subchapter by Pub. L. 114–1.
 
-A prior section 6752, Pub. L. 106–102, title III, § 322, Nov. 12, 1999, 113 Stat. 1424, related to National Association of Registered Agents and Brokers, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6751 of this title.
+A prior section 6752, Pub. L. 106–102, title III, § 322, Nov. 12, 1999, 113 Stat. 1424, related to National Association of Registered Agents and Brokers, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6751 of this title.
 
-### § 6753. Membership
+### § 6753. Membership
 
 **(a) Eligibility**
 
@@ -1589,9 +1589,9 @@ State insurance regulators shall provide the Association with information regard
 
 **(j) Information sharing** The Association may—
 
-**(1)** share documents, materials, or other information, including confidential and privileged documents, with a State, Federal, or international governmental entity or with the NAIC or other appropriate entity referred to 1
+**(1)** share documents, materials, or other information, including confidential and privileged documents, with a State, Federal, or international governmental entity or with the NAIC or other appropriate entity referred to 1
 
-<sup>1</sup>  So in original. Probably should be followed by “in”.
+<sup>1</sup> So in original. Probably should be followed by “in”.
 
 paragraphs (3) and (4), provided that the recipient has the authority and agrees to maintain the confidentiality or privileged status of the document, material, or other information;
 
@@ -1607,7 +1607,7 @@ paragraphs (3) and (4), provided that the recipient has the authority and agrees
 
 **(2)** the date of incorporation of the Association.
 
-(Pub. L. 106–102, title III, § 323, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 13.)
+(Pub. L. 106–102, title III, § 323, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 13.)
 
 **Editorial Notes**
 
@@ -1619,9 +1619,9 @@ The Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec
 
 Provisions similar to this section were contained in section 6755 of this title, prior to the general amendment of this subchapter by Pub. L. 114–1.
 
-A prior section 6753, Pub. L. 106–102, title III, § 323, Nov. 12, 1999, 113 Stat. 1424, related to purpose of the Association, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6752 of this title.
+A prior section 6753, Pub. L. 106–102, title III, § 323, Nov. 12, 1999, 113 Stat. 1424, related to purpose of the Association, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6752 of this title.
 
-### § 6754. Board of directors
+### § 6754. Board of directors
 
 **(a) Establishment**
 
@@ -1631,7 +1631,7 @@ There is established a board of directors of the Association, which shall have a
 
 The Board shall have such of the powers and authority of the Association as may be specified in the bylaws of the Association.1
 
-<sup>1</sup>  So in original. Probably should be “such powers and authority as may be specified in the bylaws of the Association.”
+<sup>1</sup> So in original. Probably should be “such powers and authority as may be specified in the bylaws of the Association.”
 
 **(c) Composition**
 
@@ -1687,19 +1687,19 @@ Except as provided under paragraph (2), the term of service for each Board membe
 
 **(i)** 4 of the State insurance commissioner Board members initially appointed under paragraph (1)(A),2
 
-<sup>2</sup>  So in original. Probably should be “paragraph (1)(A) of subsection (c),”.
+<sup>2</sup> So in original. Probably should be “paragraph (1)(A) of subsection (c),”.
 
 of whom not more than 2 shall belong to the same political party;
 
-**(ii)** 1 of the Board members initially appointed under paragraph (1)(B); 3
+**(ii)** 1 of the Board members initially appointed under paragraph (1)(B); 3
 
-<sup>3</sup>  So in original. Probably should be “paragraph (1)(B) of subsection (c);”.
+<sup>3</sup> So in original. Probably should be “paragraph (1)(B) of subsection (c);”.
 
 and
 
 **(iii)** 1 of the Board members initially appointed under paragraph (1)(C).4
 
-<sup>4</sup>  So in original. Probably should be “paragraph (1)(C) of subsection (c).”
+<sup>4</sup> So in original. Probably should be “paragraph (1)(C) of subsection (c).”
 
 **(B) Expiration of term**
 
@@ -1765,7 +1765,7 @@ Except as provided in paragraph (2), no Board member may receive any compensatio
 
 Board members may be reimbursed only by the Association for travel expenses, including per diem in lieu of subsistence, at rates consistent with rates authorized for employees of Federal agencies under subchapter I of chapter 57 of title 5, while away from home or regular places of business in performance of services for the Association.
 
-(Pub. L. 106–102, title III, § 324, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 20.)
+(Pub. L. 106–102, title III, § 324, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 20.)
 
 **Editorial Notes**
 
@@ -1777,9 +1777,9 @@ Senate Resolution 116 of the 112th Congress, referred to in subsec. (c)(1), whic
 
 Provisions similar to this section were contained in section 6756 of this title, prior to the general amendment of this subchapter by Pub. L. 114–1.
 
-A prior section 6754, Pub. L. 106–102, title III, § 324, Nov. 12, 1999, 113 Stat. 1424, related to relationship to the Federal Government, prior to the general amendment of this subchapter by Pub. L. 114–1.
+A prior section 6754, Pub. L. 106–102, title III, § 324, Nov. 12, 1999, 113 Stat. 1424, related to relationship to the Federal Government, prior to the general amendment of this subchapter by Pub. L. 114–1.
 
-### § 6755. Bylaws, standards, and disciplinary actions
+### § 6755. Bylaws, standards, and disciplinary actions
 
 **(a) Adoption and amendment of bylaws and standards**
 
@@ -1819,7 +1819,7 @@ In any proceeding to determine whether membership shall be denied, suspended, re
 
 **(B)** have access to confidential information concerning any disciplinary action.
 
-(Pub. L. 106–102, title III, § 325, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 23.)
+(Pub. L. 106–102, title III, § 325, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 23.)
 
 **Editorial Notes**
 
@@ -1827,9 +1827,9 @@ In any proceeding to determine whether membership shall be denied, suspended, re
 
 Provisions similar to this section were contained in section 6758 of this title, prior to the general amendment of this subchapter by Pub. L. 114–1.
 
-A prior section 6755, Pub. L. 106–102, title III, § 325, Nov. 12, 1999, 113 Stat. 1424, related to membership in the Association, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6753 of this title.
+A prior section 6755, Pub. L. 106–102, title III, § 325, Nov. 12, 1999, 113 Stat. 1424, related to membership in the Association, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6753 of this title.
 
-### § 6756. Powers
+### § 6756. Powers
 
 In addition to all the powers conferred upon a nonprofit corporation by the District of Columbia Nonprofit Corporation Act, the Association shall have the power to—
 
@@ -1849,7 +1849,7 @@ In addition to all the powers conferred upon a nonprofit corporation by the Dist
 
 **(8)** secure funding for such amounts as the Association determines to be necessary and appropriate to organize and begin operations of the Association, which shall be treated as loans to be repaid by the Association with interest at market rate.
 
-(Pub. L. 106–102, title III, § 326, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 24.)
+(Pub. L. 106–102, title III, § 326, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 24.)
 
 **Editorial Notes**
 
@@ -1859,9 +1859,9 @@ The District of Columbia Nonprofit Corporation Act, referred to in text, is Pub.
 
 **Prior Provisions**
 
-A prior section 6756, Pub. L. 106–102, title III, § 326, Nov. 12, 1999, 113 Stat. 1426, related to board of directors, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6754 of this title.
+A prior section 6756, Pub. L. 106–102, title III, § 326, Nov. 12, 1999, 113 Stat. 1426, related to board of directors, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6754 of this title.
 
-### § 6757. Report by the Association
+### § 6757. Report by the Association
 
 **(a) In general**
 
@@ -1871,7 +1871,7 @@ As soon as practicable after the close of each fiscal year, the Association shal
 
 Each report submitted under subsection (a) with respect to any fiscal year shall include audited financial statements setting forth the financial position of the Association at the end of such fiscal year and the results of its operations (including the source and application of its funds) for such fiscal year.
 
-(Pub. L. 106–102, title III, § 327, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 24.)
+(Pub. L. 106–102, title III, § 327, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 24.)
 
 **Editorial Notes**
 
@@ -1879,9 +1879,9 @@ Each report submitted under subsection (a) with respect to any fiscal year shall
 
 Provisions similar to this section were contained in section 6762(c) of this title, prior to the general amendment of this subchapter by Pub. L. 114–1.
 
-A prior section 6757, Pub. L. 106–102, title III, § 327, Nov. 12, 1999, 113 Stat. 1427, related to officers of the Association, prior to the general amendment of this subchapter by Pub. L. 114–1.
+A prior section 6757, Pub. L. 106–102, title III, § 327, Nov. 12, 1999, 113 Stat. 1427, related to officers of the Association, prior to the general amendment of this subchapter by Pub. L. 114–1.
 
-### § 6758. Liability of the Association and the Board members, officers, and employees of the Association
+### § 6758. Liability of the Association and the Board members, officers, and employees of the Association
 
 **(a) In general**
 
@@ -1891,7 +1891,7 @@ The Association shall not be deemed to be an insurer or insurance producer withi
 
 No Board member, officer, or employee of the Association shall be personally liable to any person for any action taken or omitted in good faith in any matter within the scope of their responsibilities in connection with the Association.
 
-(Pub. L. 106–102, title III, § 328, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 25.)
+(Pub. L. 106–102, title III, § 328, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 25.)
 
 **Editorial Notes**
 
@@ -1899,9 +1899,9 @@ No Board member, officer, or employee of the Association shall be personally lia
 
 Provisions similar to this section were contained in section 6761 of this title, prior to the general amendment of this subchapter by Pub. L. 114–1.
 
-A prior section 6758, Pub. L. 106–102, title III, § 328, Nov. 12, 1999, 113 Stat. 1427, related to bylaws, rules, and disciplinary action, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6755 of this title.
+A prior section 6758, Pub. L. 106–102, title III, § 328, Nov. 12, 1999, 113 Stat. 1427, related to bylaws, rules, and disciplinary action, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6755 of this title.
 
-### § 6759. Presidential oversight
+### § 6759. Presidential oversight
 
 **(a) Removal of Board**
 
@@ -1915,7 +1915,7 @@ The President may remove a Board member only for neglect of duty or malfeasance 
 
 Following notice to the Board, the President, or a person designated by the President for such purpose, may suspend the effectiveness of any bylaw or standard, or prohibit any action, of the Association that the President or the designee determines is contrary to the purposes of this subchapter.
 
-(Pub. L. 106–102, title III, § 329, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 25.)
+(Pub. L. 106–102, title III, § 329, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 25.)
 
 **Editorial Notes**
 
@@ -1927,9 +1927,9 @@ Senate Resolution 116 of the 112th Congress, referred to in subsec. (a), which w
 
 Provisions similar to this section were contained in section 6762(b)(2)(C) of this title, prior to the general amendment of this subchapter by Pub. L. 114–1.
 
-A prior section 6759, Pub. L. 106–102, title III, § 329, Nov. 12, 1999, 113 Stat. 1430, related to assessments, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6756(1) of this title.
+A prior section 6759, Pub. L. 106–102, title III, § 329, Nov. 12, 1999, 113 Stat. 1430, related to assessments, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6756(1) of this title.
 
-### § 6760. Relationship to State law
+### § 6760. Relationship to State law
 
 **(a) Preemption of State laws**
 
@@ -1959,7 +1959,7 @@ State laws, regulations, provisions, or other actions purporting to regulate ins
 
 Nothing in this section may be construed to prohibit a State from investigating and taking appropriate disciplinary action, including suspension or revocation of authority of an insurance producer to do business in a State, in accordance with State law and that is not inconsistent with the provisions of this section, against a member of the Association as a result of a complaint or for any alleged activity, regardless of whether the activity occurred before or after the insurance producer commenced doing business in the State pursuant to Association membership.
 
-(Pub. L. 106–102, title III, § 330, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 25.)
+(Pub. L. 106–102, title III, § 330, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 25.)
 
 **Editorial Notes**
 
@@ -1967,13 +1967,13 @@ Nothing in this section may be construed to prohibit a State from investigating 
 
 Provisions similar to this section were contained in section 6763 of this title, prior to the general amendment of this subchapter by Pub. L. 114–1.
 
-A prior section 6760, Pub. L. 106–102, title III, § 330, Nov. 12, 1999, 113 Stat. 1430, related to functions of the NAIC, prior to the general amendment of this subchapter by Pub. L. 114–1.
+A prior section 6760, Pub. L. 106–102, title III, § 330, Nov. 12, 1999, 113 Stat. 1430, related to functions of the NAIC, prior to the general amendment of this subchapter by Pub. L. 114–1.
 
-### § 6761. Coordination with Financial Industry Regulatory Authority
+### § 6761. Coordination with Financial Industry Regulatory Authority
 
 The Association shall coordinate with the Financial Industry Regulatory Authority in order to ease any administrative burdens that fall on members of the Association that are subject to regulation by the Financial Industry Regulatory Authority, consistent with the requirements of this subchapter and the Federal securities laws.
 
-(Pub. L. 106–102, title III, § 331, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 26.)
+(Pub. L. 106–102, title III, § 331, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 26.)
 
 **Editorial Notes**
 
@@ -1981,9 +1981,9 @@ The Association shall coordinate with the Financial Industry Regulatory Authorit
 
 Provisions similar to this section were contained in section 6764(b) of this title, prior to the general amendment of this subchapter by Pub. L. 114–1.
 
-A prior section 6761, Pub. L. 106–102, title III, § 331, Nov. 12, 1999, 113 Stat. 1430, related to liability of the Association and the directors, officers, and employees of the Association, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6758 of this title.
+A prior section 6761, Pub. L. 106–102, title III, § 331, Nov. 12, 1999, 113 Stat. 1430, related to liability of the Association and the directors, officers, and employees of the Association, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6758 of this title.
 
-### § 6762. Right of action
+### § 6762. Right of action
 
 **(a) Right of action**
 
@@ -1993,7 +1993,7 @@ Any person aggrieved by a decision or action of the Association may, after reaso
 
 In any action under subsection (a), the court shall give appropriate weight to the interpretation of the Association of its bylaws and standards and this subchapter.
 
-(Pub. L. 106–102, title III, § 332, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 26.)
+(Pub. L. 106–102, title III, § 332, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 26.)
 
 **Editorial Notes**
 
@@ -2001,25 +2001,25 @@ In any action under subsection (a), the court shall give appropriate weight to t
 
 Provisions similar to this section were contained in section 6765 of this title, prior to the general amendment of this subchapter by Pub. L. 114–1.
 
-A prior section 6762, Pub. L. 106–102, title III, § 332, Nov. 12, 1999, 113 Stat. 1431, related to elimination of NAIC oversight, prior to the general amendment of this subchapter by Pub. L. 114–1. See sections 6757 and 6759 of this title.
+A prior section 6762, Pub. L. 106–102, title III, § 332, Nov. 12, 1999, 113 Stat. 1431, related to elimination of NAIC oversight, prior to the general amendment of this subchapter by Pub. L. 114–1. See sections 6757 and 6759 of this title.
 
-### § 6763. Federal funding prohibited
+### § 6763. Federal funding prohibited
 
 The Association may not receive, accept, or borrow any amounts from the Federal Government to pay for, or reimburse,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 the Association for, the costs of establishing or operating the Association.
 
-(Pub. L. 106–102, title III, § 333, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 27.)
+(Pub. L. 106–102, title III, § 333, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 27.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6763, Pub. L. 106–102, title III, § 333, Nov. 12, 1999, 113 Stat. 1432, related to relationship to State law, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6760 of this title.
+A prior section 6763, Pub. L. 106–102, title III, § 333, Nov. 12, 1999, 113 Stat. 1432, related to relationship to State law, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6760 of this title.
 
-### § 6764. Definitions
+### § 6764. Definitions
 
 For purposes of this subchapter, the following definitions shall apply:
 
@@ -2069,7 +2069,7 @@ The term “State law” includes all laws, decisions, rules, regulations, or ot
 
 A law of the United States applicable only to or within the District of Columbia shall be treated as a State law rather than a law of the United States.
 
-(Pub. L. 106–102, title III, § 334, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 27.)
+(Pub. L. 106–102, title III, § 334, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 27.)
 
 **Editorial Notes**
 
@@ -2077,15 +2077,15 @@ A law of the United States applicable only to or within the District of Columbia
 
 Provisions similar to this section were contained in section 6766 of this title, prior to the general amendment of this subchapter by Pub. L. 114–1.
 
-A prior section 6764, Pub. L. 106–102, title III, § 334, Nov. 12, 1999, 113 Stat. 1433, related to coordination with other regulators, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6761 of this title.
+A prior section 6764, Pub. L. 106–102, title III, § 334, Nov. 12, 1999, 113 Stat. 1433, related to coordination with other regulators, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6761 of this title.
 
-A prior section 6765, Pub. L. 106–102, title III, § 335, Nov. 12, 1999, 113 Stat. 1433, which related to judicial review, was omitted in the general amendment of this subchapter by Pub. L. 114–1. See section 6762 of this title.
+A prior section 6765, Pub. L. 106–102, title III, § 335, Nov. 12, 1999, 113 Stat. 1433, which related to judicial review, was omitted in the general amendment of this subchapter by Pub. L. 114–1. See section 6762 of this title.
 
-A prior section 6766, Pub. L. 106–102, title III, § 336, Nov. 12, 1999, 113 Stat. 1433, which related to definitions, was omitted in the general amendment of this subchapter by Pub. L. 114–1.
+A prior section 6766, Pub. L. 106–102, title III, § 336, Nov. 12, 1999, 113 Stat. 1433, which related to definitions, was omitted in the general amendment of this subchapter by Pub. L. 114–1.
 
 ## SUBCHAPTER IV—RENTAL CAR AGENCY INSURANCE ACTIVITIES
 
-### § 6781. Standard of regulation for motor vehicle rentals
+### § 6781. Standard of regulation for motor vehicle rentals
 
 **(a) Protection against retroactive application of regulatory and legal action**
 
@@ -2111,4 +2111,4 @@ which, by its specific terms, expressly regulates or exempts from regulation any
 
 For purposes of this section, the term “motor vehicle” has the same meaning as in section 13102 of title 49.
 
-(Pub. L. 106–102, title III, § 341, Nov. 12, 1999, 113 Stat. 1434.)
+(Pub. L. 106–102, title III, § 341, Nov. 12, 1999, 113 Stat. 1434.)

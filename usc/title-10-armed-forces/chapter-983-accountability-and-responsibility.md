@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 953 of this title as this chapter.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 953 of this title as this chapter.
 
-2008—Pub. L. 110–181, div. A, title III, § 375(c)(2)(B), Jan. 28, 2008, 122 Stat. 84, struck out items 9832 “Property accountability: regulations” and 9836 “Individual equipment: unauthorized disposition”.
+2008—Pub. L. 110–181, div. A, title III, § 375(c)(2)(B), Jan. 28, 2008, 122 Stat. 84, struck out items 9832 “Property accountability: regulations” and 9836 “Individual equipment: unauthorized disposition”.
 
-2006—Pub. L. 109–163, div. A, title VI, § 683(c)(2), (3), Jan. 6, 2006, 119 Stat. 3324, struck out “enlisted” before “members” in item 9837.
+2006—Pub. L. 109–163, div. A, title VI, § 683(c)(2), (3), Jan. 6, 2006, 119 Stat. 3324, struck out “enlisted” before “members” in item 9837.
 
-2002—Pub. L. 107–314, div. A, title X, § 1006(c)(2), Dec. 2, 2002, 116 Stat. 2633, struck out item 9835 “Reports of survey”.
+2002—Pub. L. 107–314, div. A, title X, § 1006(c)(2), Dec. 2, 2002, 116 Stat. 2633, struck out item 9835 “Reports of survey”.
 
-1982—Pub. L. 97–258, § 2(b)(14)(A), Sept. 13, 1982, 96 Stat. 1058, added items 9841 and 9842.
+1982—Pub. L. 97–258, § 2(b)(14)(A), Sept. 13, 1982, 96 Stat. 1058, added items 9841 and 9842.
 
-1980—Pub. L. 96–513, title V, § 514(22)(C), Dec. 12, 1980, 94 Stat. 2937, substituted “remission or cancellation of indebtedness of enlisted members” for “deductions from pay” in item 9837.
+1980—Pub. L. 96–513, title V, § 514(22)(C), Dec. 12, 1980, 94 Stat. 2937, substituted “remission or cancellation of indebtedness of enlisted members” for “deductions from pay” in item 9837.
 
-1962—Pub. L. 87–480, § 1(5), June 8, 1962, 76 Stat. 94, struck out item 9833 “Accountability for public money; disbursing officers; agent officers”.
+1962—Pub. L. 87–480, § 1(5), June 8, 1962, 76 Stat. 94, struck out item 9833 “Accountability for public money; disbursing officers; agent officers”.
 
-## § 9831. Custody of departmental records and property
+## § 9831. Custody of departmental records and property
 
 The Secretary of the Air Force has custody and charge of all books, records, papers, furniture, fixtures, and other property under the lawful control of the executive part of the Department of the Air Force.
 
@@ -47,15 +47,15 @@ The Secretary of the Air Force has custody and charge of all books, records, pap
 
 The words “under the lawful control of the executive part of the Department of the Air Force” are substituted for the words “appertaining to the Department”.
 
-## [§ 9832. Repealed. Pub. L. 110–181, div. A, title III, § 375(c)(1)(C), Jan. 28, 2008, 122 Stat. 84]
+## [§ 9832. Repealed. Pub. L. 110–181, div. A, title III, § 375(c)(1)(C), Jan. 28, 2008, 122 Stat. 84]
 
 Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 593, authorized Secretary of the Air Force to prescribe regulations for property accountability.
 
-## [§ 9833. Repealed. Pub. L. 87–480, § 1(4), June 8, 1962, 76 Stat. 94]
+## [§ 9833. Repealed. Pub. L. 87–480, § 1(4), June 8, 1962, 76 Stat. 94]
 
 Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 593, related to accountability of Air Force officers for public money. See section 2773 of this title.
 
-## [§ 9835. Repealed. Pub. L. 107–314, div. A, title X, § 1006(c)(1), Dec. 2, 2002, 116 Stat. 2633]
+## [§ 9835. Repealed. Pub. L. 107–314, div. A, title X, § 1006(c)(1), Dec. 2, 2002, 116 Stat. 2633]
 
 Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 593, related to action upon reports of surveys and vouchers pertaining to the loss, spoilage, unserviceability, unsuitability, or destruction of or damage to property of the United States under the control of the Department of the Air Force.
 
@@ -65,11 +65,11 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 593, related to action upon repo
 
 Repeal applicable with respect to loss, spoilage, unserviceability, unsuitability, or destruction of, or damage to, property of United States under control of Department of Defense occurring on or after effective date of regulations prescribed pursuant to section 2787 of this title, see section 1006(d) of Pub. L. 107–314, set out as an Effective Date note under section 2787 of this title.
 
-## [§ 9836. Repealed. Pub. L. 110–181, div. A, title III, § 375(c)(1)(D), Jan. 28, 2008, 122 Stat. 84]
+## [§ 9836. Repealed. Pub. L. 110–181, div. A, title III, § 375(c)(1)(D), Jan. 28, 2008, 122 Stat. 84]
 
 Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 594, prohibited unauthorized disposition of individual equipment by enlisted members of the Air Force.
 
-## § 9837. Settlement of accounts: remission or cancellation of indebtedness of members
+## § 9837. Settlement of accounts: remission or cancellation of indebtedness of members
 
 **(a) In General.—** The Secretary of the Air Force may have remitted or cancelled any part of the indebtedness of a person to the United States or any instrumentality of the United States incurred while the person was serving as a member of the Air Force or the Space Force, whether as a regular or a reserve in active status, but only if the Secretary considers such action to be in the best interest of the United States.
 
@@ -77,7 +77,7 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 594, prohibited unauthorized dis
 
 **(c) Regulations.—** This section shall be administered under regulations prescribed by the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 594; Pub. L. 85–861, § 33(a)(45), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 87–649, § 14c(58), Sept. 7, 1962, 76 Stat. 502; Pub. L. 96–513, title V, § 514(22)(A), (B), Dec. 12, 1980, 94 Stat. 2936; Pub. L. 109–163, div. A, title VI, § 683(c)(1), Jan. 6, 2006, 119 Stat. 3323; Pub. L. 109–364, div. A, title VI, § 673(c)(1), (2), (e)(3), Oct. 17, 2006, 120 Stat. 2271, 2272; Pub. L. 110–181, div. A, title X, § 1063(c)(7)(C), Jan. 28, 2008, 122 Stat. 323; Pub. L. 114–328, div. A, title VI, § 671(b)(3), Dec. 23, 2016, 130 Stat. 2173; Pub. L. 116–283, div. A, title IX, § 923(e)(22), Jan. 1, 2021, 134 Stat. 3819.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 594; Pub. L. 85–861, § 33(a)(45), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 87–649, § 14c(58), Sept. 7, 1962, 76 Stat. 502; Pub. L. 96–513, title V, § 514(22)(A), (B), Dec. 12, 1980, 94 Stat. 2936; Pub. L. 109–163, div. A, title VI, § 683(c)(1), Jan. 6, 2006, 119 Stat. 3323; Pub. L. 109–364, div. A, title VI, § 673(c)(1), (2), (e)(3), Oct. 17, 2006, 120 Stat. 2271, 2272; Pub. L. 110–181, div. A, title X, § 1063(c)(7)(C), Jan. 28, 2008, 122 Stat. 323; Pub. L. 114–328, div. A, title VI, § 671(b)(3), Dec. 23, 2016, 130 Stat. 2173; Pub. L. 116–283, div. A, title IX, § 923(e)(22), Jan. 1, 2021, 134 Stat. 3819.)
 
 **Historical and Revision Notes**
 
@@ -87,7 +87,7 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 594, prohibited unauthorized dis
 |---|---|---|
 | 9837(a) | 10:875. | R.S. 1300. |
 |  | 10:875b. | R.S. 1301. |
-| 9837(b)   9837(c) 9837(d) | 10:875a (less 3d and last provisos). 10:875a (last proviso). 10:875a (3d proviso). | May 22, 1928, ch. 676, 45 Stat. 698; June 26, 1934, ch. 751, 48 Stat. 1222. |
+| 9837(b) 9837(c) 9837(d) | 10:875a (less 3d and last provisos). 10:875a (last proviso). 10:875a (3d proviso). | May 22, 1928, ch. 676, 45 Stat. 698; June 26, 1934, ch. 751, 48 Stat. 1222. |
 | 9837(e) | 10:871. | R.S. 1303. |
 | 9837(f) | 10:872. | R.S. 1304. |
 | 9837(g) | 10:875c. | R.S. 1299. |
@@ -98,7 +98,7 @@ In subsection (b), the last sentence is substituted for 10:875a (1st and 2d prov
 
 In subsection (c), the words “Subject to subsection (b)” are substituted for the words “in the proportions hereinbefore indicated”.
 
-In subsection (d), the words “If he considers it in the best interests of the United States” are substituted for the words “when in his opinion the interests of the Government are best served by such action”. The words “before, or at the time of” are substituted for the words “either on \* \* \* or prior thereto”.
+In subsection (d), the words “If he considers it in the best interests of the United States” are substituted for the words “when in his opinion the interests of the Government are best served by such action”. The words “before, or at the time of” are substituted for the words “either on \* \* \* or prior thereto”.
 
 In subsection (e), the words “member” and “his” are substituted for the words “officer or soldier”. The words “or implement” are omitted as surplusage.
 
@@ -120,15 +120,15 @@ The change [in subsec. (f)] reflects the opinion of the Assistant General Counse
 
 2016—Subsec. (a). Pub. L. 114–328 substituted “as a member of the Air Force, whether as a regular or a reserve in active status” for “on active duty as a member of the Air Force”.
 
-2008—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, § 673(c)(1). See 2006 Amendment note below.
+2008—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, § 673(c)(1). See 2006 Amendment note below.
 
 2006—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows: “If he considers it in the best interest of the United States, the Secretary may have remitted or cancelled any part of an enlisted member’s indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of, that member’s honorable discharge.”
 
-Subsec. (a). Pub. L. 109–364, § 673(e)(3), substituted “The Secretary of the Air Force” for “If the Secretary considers it to be in the best interest of the United States, the Secretary” and inserted before period at end “, but only if the Secretary considers such action to be in the best interest of the United States”.
+Subsec. (a). Pub. L. 109–364, § 673(e)(3), substituted “The Secretary of the Air Force” for “If the Secretary considers it to be in the best interest of the United States, the Secretary” and inserted before period at end “, but only if the Secretary considers such action to be in the best interest of the United States”.
 
-Pub. L. 109–364, § 673(c)(1), as amended by Pub. L. 110–181, substituted “of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the Air Force” for “of a member of the Air Force on active duty, or a member of a reserve component of the Air Force in an active status, to the United States or any instrumentality of the United States incurred while the member was serving on active duty”.
+Pub. L. 109–364, § 673(c)(1), as amended by Pub. L. 110–181, substituted “of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the Air Force” for “of a member of the Air Force on active duty, or a member of a reserve component of the Air Force in an active status, to the United States or any instrumentality of the United States incurred while the member was serving on active duty”.
 
-Subsecs. (b) to (d). Pub. L. 109–364, § 673(c)(2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary may exercise the authority in subsection (a) with respect to a member—
+Subsecs. (b) to (d). Pub. L. 109–364, § 673(c)(2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary may exercise the authority in subsection (a) with respect to a member—
 
 “(1) while the member is on active duty or in active status, as the case may be;
 
@@ -140,9 +140,9 @@ Subsecs. (b) to (d). Pub. L. 109–364, § 673(c)(2), redesignated subsecs. (c
 
 1962—Pub. L. 87–649 repealed subsecs. (a) to (c) and (e) to (g) which related to deductions from pay. See subsecs. (b) to (g) of section 1007 of Title 37, Pay and Allowances of the Uniformed Services.
 
-1958—Subsec. (b). Pub. L. 85–861, § 33(a)(45)(A), substituted “his pay for that month” for “his basic pay for that month”.
+1958—Subsec. (b). Pub. L. 85–861, § 33(a)(45)(A), substituted “his pay for that month” for “his basic pay for that month”.
 
-Subsec. (f). Pub. L. 85–861, § 33(a)(45)(B), substituted “an officer” for “a commissioned officer” in two places.
+Subsec. (f). Pub. L. 85–861, § 33(a)(45)(B), substituted “an officer” for “a commissioned officer” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -152,11 +152,11 @@ Amendment by Pub. L. 114–328 effective Dec. 23, 2016, and applicable with resp
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title X, § 1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(7)(C) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
+Pub. L. 110–181, div. A, title X, § 1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(7)(C) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
 
 **Termination Date of 2006 Amendment**
 
-Pub. L. 109–163, div. A, title VI, § 683(c)(3), Jan. 6, 2006, 119 Stat. 3324, which provided for termination of amendments by Pub. L. 109–163, § 683(c), amending this section and the analysis to this chapter, on Dec. 31, 2007, and restoration of provisions as in effect on the day before Jan. 6, 2006, was repealed by Pub. L. 109–364, div. A, title VI, § 673(c)(3), Oct. 17, 2006, 120 Stat. 2272.
+Pub. L. 109–163, div. A, title VI, § 683(c)(3), Jan. 6, 2006, 119 Stat. 3324, which provided for termination of amendments by Pub. L. 109–163, § 683(c), amending this section and the analysis to this chapter, on Dec. 31, 2007, and restoration of provisions as in effect on the day before Jan. 6, 2006, was repealed by Pub. L. 109–364, div. A, title VI, § 673(c)(3), Oct. 17, 2006, 120 Stat. 2272.
 
 **Effective Date of 1980 Amendment**
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 Secretary of Defense to prescribe regulations required for purposes of this section, as amended by Pub. L. 109–364, not later than Mar. 1, 2007, see section 673(d) of Pub. L. 109–364, set out as a note under section 4837 of this title.
 
-## § 9838. Settlement of accounts: affidavit of squadron commander
+## § 9838. Settlement of accounts: affidavit of squadron commander
 
 In the settlement of the accounts of the commanding officer of a squadron for clothing and other military supplies, his affidavit may be received to show—
 
@@ -196,7 +196,7 @@ The affidavit may be used as evidence of the facts set forth, with or without ot
 
 The word “anything” is substituted for the words “any matter or circumstance”. The words “properly used” are substituted for the words “legally used and appropriated”. The words “of the case” are omitted as surplusage.
 
-## § 9839. Settlement of accounts: oaths
+## § 9839. Settlement of accounts: oaths
 
 The Secretary of the Air Force may detail any employee of the Department of the Air Force to administer oaths required by law in the settlement of an officer’s accounts for clothing and other military supplies. An oath administered under this section shall be without expense to the person to whom it is administered.
 
@@ -210,19 +210,19 @@ The Secretary of the Air Force may detail any employee of the Department of the 
 
 The words “and other military supplies” are substituted for the words “camp and garrison equipage, quartermaster’s stores, and ordnance” to conform to section 9838 of this title. The words “person to whom administered” are substituted for the words “parties taking them.” The words “for the purpose of” are omitted as surplusage.
 
-## § 9840. Final settlement of officer’s accounts
+## § 9840. Final settlement of officer’s accounts
 
 Before final payment upon discharge may be made to an officer of the Air Force or the Space Force who has been accountable or responsible for public property, the officer must obtain a certificate of nonindebtedness to the United States from each officer to whom the officer was accountable or responsible for property. The officer must also make an affidavit, certified by the officer’s commanding officer to be correct, that the officer is not accountable or responsible for property to any other officer. An officer who has not been responsible for public property must make an affidavit of that fact, certified by the officer’s commanding officer. Compliance with this section warrants the final payment of the officer concerned.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 595; Pub. L. 116–283, div. A, title IX, § 923(e)(23), Jan. 1, 2021, 134 Stat. 3819; Pub. L. 117–81, div. A, title X, § 1081(a)(37), Dec. 27, 2021, 135 Stat. 1922.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 595; Pub. L. 116–283, div. A, title IX, § 923(e)(23), Jan. 1, 2021, 134 Stat. 3819; Pub. L. 117–81, div. A, title X, § 1081(a)(37), Dec. 27, 2021, 135 Stat. 1922.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9840 | 10:878. | Jan. 12, 1899, ch. 46, § 2, 30 Stat. 784. |
+| 9840 | 10:878. | Jan. 12, 1899, ch. 46, § 2, 30 Stat. 784. |
 
-The words “Before final payment upon discharge may be made” are substituted for the words “shall warrant their final payment”. The words “at any time” are omitted as surplusage. The word “must” is substituted for the words “shall be required \* \* \* to”. The words “He must also make” are substituted for the words “accompanied by”. The words “from each officer to whom he was accountable or responsible for property” are substituted for the words “from only such of the bureaus of the Department of the Army to which the property for which they were accountable or responsible pertains”, since the Air Force does not have organic bureaus created by statute. The words “that he is not accountable or responsible for property to any other officer” are substituted for the words “accompanied by the affidavits of officers, of nonaccountability, or nonresponsibility to other bureaus of the Department of the Army” for the same reason. The reference to certificates from the General Accounting Office is omitted as obsolete. The last sentence is substituted for 10:878 (last 18 words). The last proviso of section 2 of the Act of January 12, 1899, ch. 46, 30 Stat. 784, is not contained in 10:878. It is also omitted from the revised section, since it related to authority of mustering officers to administer oaths, and the general authority to administer oaths is now contained in section 936 of this title (article 136 of the Uniform Code of Military Justice).
+The words “Before final payment upon discharge may be made” are substituted for the words “shall warrant their final payment”. The words “at any time” are omitted as surplusage. The word “must” is substituted for the words “shall be required \* \* \* to”. The words “He must also make” are substituted for the words “accompanied by”. The words “from each officer to whom he was accountable or responsible for property” are substituted for the words “from only such of the bureaus of the Department of the Army to which the property for which they were accountable or responsible pertains”, since the Air Force does not have organic bureaus created by statute. The words “that he is not accountable or responsible for property to any other officer” are substituted for the words “accompanied by the affidavits of officers, of nonaccountability, or nonresponsibility to other bureaus of the Department of the Army” for the same reason. The reference to certificates from the General Accounting Office is omitted as obsolete. The last sentence is substituted for 10:878 (last 18 words). The last proviso of section 2 of the Act of January 12, 1899, ch. 46, 30 Stat. 784, is not contained in 10:878. It is also omitted from the revised section, since it related to authority of mustering officers to administer oaths, and the general authority to administer oaths is now contained in section 936 of this title (article 136 of the Uniform Code of Military Justice).
 
 **Editorial Notes**
 
@@ -232,11 +232,11 @@ The words “Before final payment upon discharge may be made” are substituted 
 
 Pub. L. 116–283 inserted “or the Space Force” after “Air Force” and substituted “the officer” for “he” wherever appearing and “the officer’s” for “his” in two places.
 
-## § 9841. Payment of small amounts to public creditors
+## § 9841. Payment of small amounts to public creditors
 
 When authorized by the Secretary of the Air Force, a disbursing official of Air Force or Space Force subsistence funds may keep a limited amount of those funds in the personal possession and at the risk of the disbursing official to pay small amounts to public creditors.
 
-(Added Pub. L. 97–258, § 2(b)(14)(B), Sept. 13, 1982, 96 Stat. 1058; amended Pub. L. 116–283, div. A, title IX, § 923(e)(24), Jan. 1, 2021, 134 Stat. 3820.)
+(Added Pub. L. 97–258, § 2(b)(14)(B), Sept. 13, 1982, 96 Stat. 1058; amended Pub. L. 116–283, div. A, title IX, § 923(e)(24), Jan. 1, 2021, 134 Stat. 3820.)
 
 **Historical and Revision Notes**
 
@@ -252,18 +252,18 @@ The words “Secretary of the Air Force” are substituted for “Secretary of W
 
 2021—Pub. L. 116–283 inserted “or Space Force” after “official of Air Force”.
 
-## § 9842. Settlement of accounts of line officers
+## § 9842. Settlement of accounts of line officers
 
 The Comptroller General shall settle the account of a line officer of the Air Force or the Space Force for pay due the officer even if the officer cannot account for property entrusted to the officer or cannot make a monthly report or return, when the Comptroller General is satisfied that the inability to account for property or make a report or return was the result of the officer having been a prisoner, or of an accident or casualty of war.
 
-(Added Pub. L. 97–258, § 2(b)(14)(B), Sept. 13, 1982, 96 Stat. 1058; amended Pub. L. 116–283, div. A, title IX, § 923(e)(25), Jan. 1, 2021, 134 Stat. 3820.)
+(Added Pub. L. 97–258, § 2(b)(14)(B), Sept. 13, 1982, 96 Stat. 1058; amended Pub. L. 116–283, div. A, title IX, § 923(e)(25), Jan. 1, 2021, 134 Stat. 3820.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9842 | 31:44 (1st sentence). | June 10, 1921, ch. 18, § 304 (1st par. 1st sentence), 42 Stat. 24. |
-|  | 31:95. | R.S. § 278. |
+| 9842 | 31:44 (1st sentence). | June 10, 1921, ch. 18, § 304 (1st par. 1st sentence), 42 Stat. 24. |
+|  | 31:95. | R.S. § 278. |
 
 The section is made applicable to the Air Force by section 207(a) and (f) of the Act of July 26, 1947 (ch. 343, 61 Stat. 502). For comparable provisions that apply to the Army, see the revision note for 10:4842.
 

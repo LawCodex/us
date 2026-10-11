@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 39—ALTERNATIVE MORTGAGE TRANSACTIONS
 
-## § 3801. Findings and purpose
+## § 3801. Findings and purpose
 
 **(a)** The Congress hereby finds that—
 
-**(1)** increasingly volatile and dynamic changes in interest rates have seriously impared 1
+**(1)** increasingly volatile and dynamic changes in interest rates have seriously impared 1
 
-<sup>1</sup>  So in original. Probably should be “impaired”.
+<sup>1</sup> So in original. Probably should be “impaired”.
 
 the ability of housing creditors to provide consumers with fixed-term, fixed-rate credit secured by interests in real property, cooperative housing, manufactured homes, and other dwellings;
 
@@ -31,7 +31,7 @@ the ability of housing creditors to provide consumers with fixed-term, fixed-rat
 
 **(b)** It is the purpose of this chapter to eliminate the discriminatory impact that those regulations have upon nonfederally chartered housing creditors and provide them with parity with federally chartered institutions by authorizing all housing creditors to make, purchase, and enforce alternative mortgage transactions so long as the transactions are in conformity with the regulations issued by the Federal agencies.
 
-(Pub. L. 97–320, title VIII, § 802, Oct. 15, 1982, 96 Stat. 1545; Pub. L. 101–73, title VII, § 744(c), Aug. 9, 1989, 103 Stat. 438.)
+(Pub. L. 97–320, title VIII, § 802, Oct. 15, 1982, 96 Stat. 1545; Pub. L. 101–73, title VII, § 744(c), Aug. 9, 1989, 103 Stat. 438.)
 
 **Editorial Notes**
 
@@ -43,17 +43,17 @@ the ability of housing creditors to provide consumers with fixed-term, fixed-rat
 
 **Effective Date**
 
-Pub. L. 97–320, title VIII, § 807(a), Oct. 15, 1982, 96 Stat. 1548, provided that: “This title [enacting this chapter] shall be effective upon enactment [Oct. 15, 1982].”
+Pub. L. 97–320, title VIII, § 807(a), Oct. 15, 1982, 96 Stat. 1548, provided that: “This title [enacting this chapter] shall be effective upon enactment [Oct. 15, 1982].”
 
 **Short Title**
 
-Pub. L. 97–320, title VIII, § 801, Oct. 15, 1982, 96 Stat. 1545, provided that: “This title [enacting this chapter] may be cited as the ‘Alternative Mortgage Transaction Parity Act of 1982’.”
+Pub. L. 97–320, title VIII, § 801, Oct. 15, 1982, 96 Stat. 1545, provided that: “This title [enacting this chapter] may be cited as the ‘Alternative Mortgage Transaction Parity Act of 1982’.”
 
 **Identification, Description and Publication of Regulations Inapplicable To, or Conformation of Regulations for Use Of Nonfederally Chartered Housing Creditors**
 
-Pub. L. 97–320, title VIII, § 807(b), Oct. 15, 1982, 96 Stat. 1548, provided that: “Within sixty days of the enactment of this title [Oct. 15, 1982], the Comptroller of the Currency, the National Credit Union Administration, and the Federal Home Loan Bank Board shall identify, describe, and publish those portions or provisions of their respective regulations that are inappropriate for (and thus inapplicable to), or that need to be conformed for the use of, the nonfederally chartered housing creditors to which their respective regulations apply, including without limitation, making necessary changes in terminology to conform the regulatory and disclosure provisions to those more typically associated with various types of transactions including credit sales.”
+Pub. L. 97–320, title VIII, § 807(b), Oct. 15, 1982, 96 Stat. 1548, provided that: “Within sixty days of the enactment of this title [Oct. 15, 1982], the Comptroller of the Currency, the National Credit Union Administration, and the Federal Home Loan Bank Board shall identify, describe, and publish those portions or provisions of their respective regulations that are inappropriate for (and thus inapplicable to), or that need to be conformed for the use of, the nonfederally chartered housing creditors to which their respective regulations apply, including without limitation, making necessary changes in terminology to conform the regulatory and disclosure provisions to those more typically associated with various types of transactions including credit sales.”
 
-## § 3802. Definitions
+## § 3802. Definitions
 
 As used in this chapter—
 
@@ -71,7 +71,7 @@ As used in this chapter—
 
 A person is not a “housing creditor” with respect to a specific alternative mortgage transaction if, except for this chapter, in order to enter into that transaction, the person would be required to comply with licensing requirements imposed under State law, unless such person is licensed under applicable State law and such person remains, or becomes, subject to the applicable regulatory requirements and enforcement mechanisms provided by State law.
 
-(Pub. L. 97–320, title VIII, § 803, Oct. 15, 1982, 96 Stat. 1545; Pub. L. 111–203, title X, § 1083(a)(1), July 21, 2010, 124 Stat. 2080.)
+(Pub. L. 97–320, title VIII, § 803, Oct. 15, 1982, 96 Stat. 1545; Pub. L. 111–203, title X, § 1083(a)(1), July 21, 2010, 124 Stat. 2080.)
 
 **Editorial Notes**
 
@@ -79,7 +79,7 @@ A person is not a “housing creditor” with respect to a specific alternative 
 
 Section 501(a)(2) of the Depository Institutions Deregulation and Monetary Control Act of 1980, referred to in par. (2)(A), is section 501(a)(2) of Pub. L. 96–221, title V, Mar. 31, 1980, 94 Stat. 161, which is set out as a note under section 1735f–7 of this title.
 
-The National Housing Act, referred to in par. (2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in par. (2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 **Amendments**
 
@@ -97,7 +97,7 @@ described and defined by applicable regulation; and”.
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–203, title X, § 1083(b), July 21, 2010, 124 Stat. 2081, provided that: “This section [amending this section and section 3803 of this title and enacting provisions set out as a note under this section] and the amendments made by this section shall become effective on the designated transfer date.”
+Pub. L. 111–203, title X, § 1083(b), July 21, 2010, 124 Stat. 2081, provided that: “This section [amending this section and section 3803 of this title and enacting provisions set out as a note under this section] and the amendments made by this section shall become effective on the designated transfer date.”
 
 [For definition of “designated transfer date”, see section 5481 of this title.]
 
@@ -107,11 +107,11 @@ Section effective Oct. 15, 1982, see section 807(a) of Pub. L. 97–320, set out
 
 **Construction of 2010 Amendment**
 
-Pub. L. 111–203, title X, § 1083(c), July 21, 2010, 124 Stat. 2081, provided that: “The amendments made by subsection (a) [amending this section and section 3803 of this title] shall not affect any transaction covered by the Alternative Mortgage Transaction Parity Act of l982 (12 U.S.C. 3801 et seq.) and entered into on or before the designated transfer date.”
+Pub. L. 111–203, title X, § 1083(c), July 21, 2010, 124 Stat. 2081, provided that: “The amendments made by subsection (a) [amending this section and section 3803 of this title] shall not affect any transaction covered by the Alternative Mortgage Transaction Parity Act of l982 (12 U.S.C. 3801 et seq.) and entered into on or before the designated transfer date.”
 
 [For definition of “designated transfer date”, see section 5481 of this title.]
 
-## § 3803. Alternative mortgage authority
+## § 3803. Alternative mortgage authority
 
 **(a) General authority; compliance by banks, credit unions and all other housing creditors with applicable regulations** In order to prevent discrimination against State-chartered depository institutions, and other nonfederally chartered housing creditors, with respect to making, purchasing, and enforcing alternative mortgage transactions, housing creditors may make, purchase, and enforce alternative mortgage transactions, except that this section shall apply—
 
@@ -137,7 +137,7 @@ An alternative mortgage transaction may be made by a housing creditor in accorda
 
 **(1)** review the regulations identified by the Comptroller of the Currency and the National Credit Union Administration,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 (as those rules exist on the designated transfer date), as applicable under paragraphs (1) through (3) of subsection (a);
 
@@ -149,23 +149,23 @@ An alternative mortgage transaction may be made by a housing creditor in accorda
 
 As used in this section, the term “designated transfer date” means the date determined under section 1062 of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5582].
 
-(Pub. L. 97–320, title VIII, § 804, Oct. 15, 1982, 96 Stat. 1546; Pub. L. 101–73, title VII, § 744(c), Aug. 9, 1989, 103 Stat. 438; Pub. L. 111–203, title X, § 1083(a)(2), July 21, 2010, 124 Stat. 2080.)
+(Pub. L. 97–320, title VIII, § 804, Oct. 15, 1982, 96 Stat. 1546; Pub. L. 101–73, title VII, § 744(c), Aug. 9, 1989, 103 Stat. 438; Pub. L. 111–203, title X, § 1083(a)(2), July 21, 2010, 124 Stat. 2080.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consumer Financial Protection Act of 2010, referred to in subsec. (d)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§ 5481 et seq.) of chapter 53 of this title and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsec. (d)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§ 5481 et seq.) of chapter 53 of this title and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
-2010—Subsec. (a)(1), (2), (3). Pub. L. 111–203, § 1083(a)(2)(A)(i), inserted “on or before the designated transfer date, as determined under section 1062 of the Consumer Financial Protection Act of 2010,” after “transactions made”.
+2010—Subsec. (a)(1), (2), (3). Pub. L. 111–203, § 1083(a)(2)(A)(i), inserted “on or before the designated transfer date, as determined under section 1062 of the Consumer Financial Protection Act of 2010,” after “transactions made”.
 
-Subsec. (a)(4). Pub. L. 111–203, § 1083(a)(2)(A)(ii)–(iv), added par. (4).
+Subsec. (a)(4). Pub. L. 111–203, § 1083(a)(2)(A)(ii)–(iv), added par. (4).
 
-Subsec. (c). Pub. L. 111–203, § 1083(a)(2)(B), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “An alternative mortgage transaction may be made by a housing creditor in accordance with this section, notwithstanding any State constitution, law, or regulation.”
+Subsec. (c). Pub. L. 111–203, § 1083(a)(2)(B), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “An alternative mortgage transaction may be made by a housing creditor in accordance with this section, notwithstanding any State constitution, law, or regulation.”
 
-Subsecs. (d), (e). Pub. L. 111–203, § 1083(a)(2)(C), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 111–203, § 1083(a)(2)(C), added subsecs. (d) and (e).
 
 1989—Subsec. (a)(3). Pub. L. 101–73 substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board” wherever appearing.
 
@@ -179,7 +179,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective Oct. 15, 1982, see section 807(a) of Pub. L. 97–320, set out as a note under section 3801 of this title.
 
-## § 3804. Applicability of preemption provisions
+## § 3804. Applicability of preemption provisions
 
 **(a)** The provisions of section 3803 of this title shall not apply to any alternative mortgage transaction in any State made on or after the effective date (if such effective date occurs on or after October 15, 1982, and prior to a date three years after October 15, 1982) of a State law or a certification that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the preemption provided in section 3803 of this title to apply with respect to alternative mortgage transactions (or to any class or type of alternative mortgage transaction) subject to the laws of such State, except that section 3803 of this title shall continue to apply to—
 
@@ -193,7 +193,7 @@ Section effective Oct. 15, 1982, see section 807(a) of Pub. L. 97–320, set out
 
 **(2)** is a renewal, extension, refinancing, or other modification of an alternative mortgage transaction entered into before the preemption period and such renewal, extension, or other modification is made during such period with the written consent of any person obligated to repay such credit.
 
-(Pub. L. 97–320, title VIII, § 805, Oct. 15, 1982, 96 Stat. 1547; Pub. L. 98–181, title I [title IV, § 472], Nov. 30, 1983, 97 Stat. 1237.)
+(Pub. L. 97–320, title VIII, § 805, Oct. 15, 1982, 96 Stat. 1547; Pub. L. 98–181, title I [title IV, § 472], Nov. 30, 1983, 97 Stat. 1237.)
 
 **Editorial Notes**
 
@@ -207,11 +207,11 @@ Section effective Oct. 15, 1982, see section 807(a) of Pub. L. 97–320, set out
 
 Section effective Oct. 15, 1982, see section 807(a) of Pub. L. 97–320, set out as a note under section 3801 of this title.
 
-## § 3805. Applicability of consumer protection provisions
+## § 3805. Applicability of consumer protection provisions
 
 Section 501(c)(1) of the Depository Institutions Deregulation and Monetary Control Act of 1980 shall not apply to transactions which are subject to this chapter.
 
-(Pub. L. 97–320, title VIII, § 806, Oct. 15, 1982, 96 Stat. 1548.)
+(Pub. L. 97–320, title VIII, § 806, Oct. 15, 1982, 96 Stat. 1548.)
 
 **Editorial Notes**
 
@@ -225,7 +225,7 @@ Section 501(c)(1) of the Depository Institutions Deregulation and Monetary Contr
 
 Section effective Oct. 15, 1982, see section 807(a) of Pub. L. 97–320, set out as a note under section 3801 of this title.
 
-## § 3806. Adjustable rate mortgage caps
+## § 3806. Adjustable rate mortgage caps
 
 **(a) In general**
 
@@ -249,13 +249,13 @@ Any violation of this section shall be treated as a violation of the Truth in Le
 
 This section shall take effect upon the expiration of 120 days after August 10, 1987.
 
-(Pub. L. 100–86, title XII, § 1204, Aug. 10, 1987, 101 Stat. 662; Pub. L. 102–550, title IX, § 952, Oct. 28, 1992, 106 Stat. 3893.)
+(Pub. L. 100–86, title XII, § 1204, Aug. 10, 1987, 101 Stat. 662; Pub. L. 102–550, title IX, § 952, Oct. 28, 1992, 106 Stat. 3893.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Truth in Lending Act, referred to in subsec. (c), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec. (c), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 **Codification**
 

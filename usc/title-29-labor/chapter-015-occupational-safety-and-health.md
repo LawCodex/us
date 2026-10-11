@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 15—OCCUPATIONAL SAFETY AND HEALTH
 
-## § 651. Congressional statement of findings and declaration of purpose and policy
+## § 651. Congressional statement of findings and declaration of purpose and policy
 
 **(a)** The Congress finds that personal injuries and illnesses arising out of work situations impose a substantial burden upon, and are a hindrance to, interstate commerce in terms of lost production, wage loss, medical expenses, and disability compensation payments.
 
@@ -47,7 +47,7 @@ retrieved: 2026-10-11
 
 **(13)** by encouraging joint labor-management efforts to reduce injuries and disease arising out of employment.
 
-(Pub. L. 91–596, § 2, Dec. 29, 1970, 84 Stat. 1590.)
+(Pub. L. 91–596, § 2, Dec. 29, 1970, 84 Stat. 1590.)
 
 **Editorial Notes**
 
@@ -59,23 +59,23 @@ This chapter, referred to in subsec. (b)(3), (11), and (12), was in the original
 
 **Effective Date**
 
-Pub. L. 91–596, § 34, Dec. 29, 1970, 84 Stat. 1620, provided that: “This Act [enacting this chapter and section 3142–1 of Title 42, The Public Health and Welfare, amending section 553 of this title, sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, section 1114 of Title 18, Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1114 of Title 18] shall take effect one hundred and twenty days after the date of its enactment [Dec. 29, 1970].”
+Pub. L. 91–596, § 34, Dec. 29, 1970, 84 Stat. 1620, provided that: “This Act [enacting this chapter and section 3142–1 of Title 42, The Public Health and Welfare, amending section 553 of this title, sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, section 1114 of Title 18, Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1114 of Title 18] shall take effect one hundred and twenty days after the date of its enactment [Dec. 29, 1970].”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–197, § 1, July 16, 1998, 112 Stat. 638, provided that: “This Act [amending section 670 of this title] may be cited as the ‘Occupational Safety and Health Administration Compliance Assistance Authorization Act of 1998’.”
+Pub. L. 105–197, § 1, July 16, 1998, 112 Stat. 638, provided that: “This Act [amending section 670 of this title] may be cited as the ‘Occupational Safety and Health Administration Compliance Assistance Authorization Act of 1998’.”
 
 **Short Title**
 
-Pub. L. 91–596, § 1, Dec. 29, 1970, 84 Stat. 1590, provided: “That this Act [enacting this chapter and section 3142–1 of Title 42, The Public Health and Welfare, amending section 553 of this title, sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, section 1114 of Title 18, Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1114 of Title 18] may be cited as the ‘Occupational Safety and Health Act of 1970’.”
+Pub. L. 91–596, § 1, Dec. 29, 1970, 84 Stat. 1590, provided: “That this Act [enacting this chapter and section 3142–1 of Title 42, The Public Health and Welfare, amending section 553 of this title, sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, section 1114 of Title 18, Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1114 of Title 18] may be cited as the ‘Occupational Safety and Health Act of 1970’.”
 
-## § 652. Definitions
+## § 652. Definitions
 
 For the purposes of this chapter—
 
-**(1)** The term “Secretary” mean 1
+**(1)** The term “Secretary” mean 1
 
-<sup>1</sup>  So in original. Probably should be “means”.
+<sup>1</sup> So in original. Probably should be “means”.
 
 the Secretary of Labor.
 
@@ -95,7 +95,7 @@ the Secretary of Labor.
 
 **(9)** The term “national consensus standard” means any occupational safety and health standard or modification thereof which (1),2
 
-<sup>2</sup>  So in original. The comma probably should not appear.
+<sup>2</sup> So in original. The comma probably should not appear.
 
 has been adopted and promulgated by a nationally recognized standards-producing organization under procedures whereby it can be determined by the Secretary that persons interested and affected by the scope or provisions of the standard have reached substantial agreement on its adoption, (2) was formulated in a manner which afforded an opportunity for diverse views to be considered and (3) has been designated as such a standard by the Secretary, after consultation with other appropriate Federal agencies.
 
@@ -109,7 +109,7 @@ has been adopted and promulgated by a nationally recognized standards-producing 
 
 **(14)** The term “Workmen’s Compensation Commission” means the National Commission on State Workmen’s Compensation Laws established under this chapter.
 
-(Pub. L. 91–596, § 3, Dec. 29, 1970, 84 Stat. 1591; Pub. L. 105–241, § 2(a), Sept. 28, 1998, 112 Stat. 1572.)
+(Pub. L. 91–596, § 3, Dec. 29, 1970, 84 Stat. 1591; Pub. L. 105–241, § 2(a), Sept. 28, 1998, 112 Stat. 1572.)
 
 **Editorial Notes**
 
@@ -129,7 +129,7 @@ Advisory committees in existence on January 5, 1973, to terminate not later than
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 653. Geographic applicability; judicial enforcement; applicability to existing standards; report to Congress on duplication and coordination of Federal laws; workmen’s compensation law or common law or statutory rights, duties, or liabilities of employers and employees unaffected
+## § 653. Geographic applicability; judicial enforcement; applicability to existing standards; report to Congress on duplication and coordination of Federal laws; workmen’s compensation law or common law or statutory rights, duties, or liabilities of employers and employees unaffected
 
 **(a)** This chapter shall apply with respect to employment performed in a workplace in a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, the Trust Territory of the Pacific Islands, Wake Island, Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act [43 U.S.C. 1331 et seq.], Johnston Island, and the Canal Zone. The Secretary of the Interior shall, by regulation, provide for judicial enforcement of this chapter by the courts established for areas in which there are no United States district courts having jurisdiction.
 
@@ -139,7 +139,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(2)** The safety and health standards promulgated under the Act of June 30, 1936, commonly known as the Walsh-Healey Act,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Service Contract Act of 1965,1 Public Law 91–54, Act of August 9, 1969, Public Law 85–742, Act of August 23, 1958, and the National Foundation on Arts and Humanities Act [20 U.S.C. 951 et seq.] are superseded on the effective date of corresponding standards, promulgated under this chapter, which are determined by the Secretary to be more effective. Standards issued under the laws listed in this paragraph and in effect on or after the effective date of this chapter shall be deemed to be occupational safety and health standards issued under this chapter, as well as under such other Acts.
 
@@ -147,25 +147,25 @@ the Service Contract Act of 1965,1 Public Law 91–54, Act of August 9, 1969, Pu
 
 **(4)** Nothing in this chapter shall be construed to supersede or in any manner affect any workmen’s compensation law or to enlarge or diminish or affect in any other manner the common law or statutory rights, duties, or liabilities of employers and employees under any law with respect to injuries, diseases, or death of employees arising out of, or in the course of, employment.
 
-(Pub. L. 91–596, § 4, Dec. 29, 1970, 84 Stat. 1592.)
+(Pub. L. 91–596, § 4, Dec. 29, 1970, 84 Stat. 1592.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (a), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (a), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-Act of June 30, 1936, commonly known as the Walsh-Healey Act, referred to in subsec. (b)(2), is act June 30, 1936, ch. 881, 49 Stat. 2036, which was classified principally to sections 35 to 45 of former Title 41, Public Contracts, and was substantially repealed and restated as chapter 65 (§ 6501 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1936 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+Act of June 30, 1936, commonly known as the Walsh-Healey Act, referred to in subsec. (b)(2), is act June 30, 1936, ch. 881, 49 Stat. 2036, which was classified principally to sections 35 to 45 of former Title 41, Public Contracts, and was substantially repealed and restated as chapter 65 (§ 6501 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1936 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
-The Service Contract Act of 1965, referred to in subsec. (b)(2), was Pub. L. 89–286, Oct. 22, 1965, 79 Stat. 1034, which was classified generally to chapter 6 (§ 351 et seq.) of former Title 41, Public Contracts, and was repealed and restated as chapter 67 (§ 6701 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+The Service Contract Act of 1965, referred to in subsec. (b)(2), was Pub. L. 89–286, Oct. 22, 1965, 79 Stat. 1034, which was classified generally to chapter 6 (§ 351 et seq.) of former Title 41, Public Contracts, and was repealed and restated as chapter 67 (§ 6701 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
-Public Law 91–54, Act of August 9, 1969, referred to in subsec. (b)(2), is Pub. L. 91–54, Aug. 9, 1969, 83 Stat. 96, which amended sections 1 and 2 and added section 107 of Pub. L. 87–581, Aug. 13, 1962, 76 Stat. 357. Sections 1 and 2 of Pub. L. 87–581 were set out as notes under section 327, and section 107 of Pub. L. 87–581 was classified to section 333, of former Title 40, Public Buildings, Property, and Works. Sections 1 and 2 of Pub. L. 87–581 were repealed, and section 107 of Pub. L. 87–581 was repealed and reenacted as sections 3704 and 3705 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+Public Law 91–54, Act of August 9, 1969, referred to in subsec. (b)(2), is Pub. L. 91–54, Aug. 9, 1969, 83 Stat. 96, which amended sections 1 and 2 and added section 107 of Pub. L. 87–581, Aug. 13, 1962, 76 Stat. 357. Sections 1 and 2 of Pub. L. 87–581 were set out as notes under section 327, and section 107 of Pub. L. 87–581 was classified to section 333, of former Title 40, Public Buildings, Property, and Works. Sections 1 and 2 of Pub. L. 87–581 were repealed, and section 107 of Pub. L. 87–581 was repealed and reenacted as sections 3704 and 3705 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 
 Public Law 85–742, Act of August 23, 1958, referred to in subsec. (b)(2), is Pub. L. 85–742, Aug. 23, 1958, 72 Stat. 835, which amended section 941 of Title 33, Navigation and Navigable Waters, and enacted provisions set out as a note under section 941 of Title 33. For complete classification of this Act to the Code, see Tables.
 
-The National Foundation on the Arts and the Humanities Act, referred to in subsec. (b)(2), is Pub. L. 89–209, Sept. 29, 1965, 79 Stat. 845, known as the National Foundation on the Arts and the Humanities Act of 1965, which is classified principally to subchapter I (§ 951 et seq.) of chapter 26 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 20 and Tables.
+The National Foundation on the Arts and the Humanities Act, referred to in subsec. (b)(2), is Pub. L. 89–209, Sept. 29, 1965, 79 Stat. 845, known as the National Foundation on the Arts and the Humanities Act of 1965, which is classified principally to subchapter I (§ 951 et seq.) of chapter 26 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 20 and Tables.
 
 The effective date of this chapter, referred to in subsec. (b)(2), (3), is the effective date of Pub. L. 91–596, which is 120 days after Dec. 29, 1970, see section 34 of Pub. L. 91–596, set out as an Effective Date note under section 651 of this title.
 
@@ -181,7 +181,7 @@ In exercising any authority under the Toxic Substances Control Act (15 U.S.C. 26
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 654. Duties of employers and employees
+## § 654. Duties of employers and employees
 
 **(a)** Each employer—
 
@@ -191,9 +191,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(b)** Each employee shall comply with occupational safety and health standards and all rules, regulations, and orders issued pursuant to this chapter which are applicable to his own actions and conduct.
 
-(Pub. L. 91–596, § 5, Dec. 29, 1970, 84 Stat. 1593.)
+(Pub. L. 91–596, § 5, Dec. 29, 1970, 84 Stat. 1593.)
 
-## § 655. Standards
+## § 655. Standards
 
 **(a) Promulgation by Secretary of national consensus standards and established Federal standards; time for promulgation; conflicting standards**
 
@@ -259,7 +259,7 @@ Any person who may be adversely affected by a standard issued under this section
 
 In determining the priority for establishing standards under this section, the Secretary shall give due regard to the urgency of the need for mandatory safety and health standards for particular industries, trades, crafts, occupations, businesses, workplaces or work environments. The Secretary shall also give due regard to the recommendations of the Secretary of Health and Human Services regarding the need for mandatory standards in determining the priority for establishing such standards.
 
-(Pub. L. 91–596, § 6, Dec. 29, 1970, 84 Stat. 1593; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–596, § 6, Dec. 29, 1970, 84 Stat. 1593; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
@@ -279,27 +279,27 @@ Advisory committees in existence on January 5, 1973, to terminate not later than
 
 **Prohibition on Exposure of Workers to Chemical or Other Hazards for Purpose of Conducting Experiments**
 
-Pub. L. 102–394, title I, § 102, Oct. 6, 1992, 106 Stat. 1799, provided that: “None of the funds appropriated under this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be used to grant variances, interim orders or letters of clarification to employers which will allow exposure of workers to chemicals or other workplace hazards in excess of existing Occupational Safety and Health Administration standards for the purpose of conducting experiments on workers’ health or safety.”
+Pub. L. 102–394, title I, § 102, Oct. 6, 1992, 106 Stat. 1799, provided that: “None of the funds appropriated under this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be used to grant variances, interim orders or letters of clarification to employers which will allow exposure of workers to chemicals or other workplace hazards in excess of existing Occupational Safety and Health Administration standards for the purpose of conducting experiments on workers’ health or safety.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 102–170, title I, § 102, Nov. 26, 1991, 105 Stat. 1114.
+Pub. L. 102–170, title I, § 102, Nov. 26, 1991, 105 Stat. 1114.
 
-Pub. L. 101–517, title I, § 102, Nov. 5, 1990, 104 Stat. 2196.
+Pub. L. 101–517, title I, § 102, Nov. 5, 1990, 104 Stat. 2196.
 
-Pub. L. 101–166, title I, § 102, Nov. 21, 1989, 103 Stat. 1165.
+Pub. L. 101–166, title I, § 102, Nov. 21, 1989, 103 Stat. 1165.
 
-Pub. L. 100–202, § 101(h) [title I, § 102], Dec. 22, 1987, 101 Stat. 1329–256, 1329–263.
+Pub. L. 100–202, § 101(h) [title I, § 102], Dec. 22, 1987, 101 Stat. 1329–256, 1329–263.
 
-Pub. L. 99–500, § 101(i) [H.R. 5233, title I, § 102], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title I, § 102], Oct. 30, 1986, 100 Stat. 3341–287.
+Pub. L. 99–500, § 101(i) [H.R. 5233, title I, § 102], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title I, § 102], Oct. 30, 1986, 100 Stat. 3341–287.
 
-Pub. L. 99–178, title I, § 102, Dec. 12, 1985, 99 Stat. 1109.
+Pub. L. 99–178, title I, § 102, Dec. 12, 1985, 99 Stat. 1109.
 
-Pub. L. 98–619, title I, § 102, Nov. 8, 1984, 98 Stat. 3311.
+Pub. L. 98–619, title I, § 102, Nov. 8, 1984, 98 Stat. 3311.
 
 **Occupational Health Standard Concerning Exposure to Bloodborne Pathogens**
 
-Pub. L. 102–170, title I, § 100, Nov. 26, 1991, 105 Stat. 1113, provided that:
+Pub. L. 102–170, title I, § 100, Nov. 26, 1991, 105 Stat. 1113, provided that:
 
 > **“(a)** Notwithstanding any other provision of law, on or before December 1, 1991, the Secretary of Labor, acting under the Occupational Safety and Health Act of 1970 [29 U.S.C. 651 et seq.], shall promulgate a final occupational health standard concerning occupational exposure to bloodborne pathogens. The final standard shall be based on the proposed standard as published in the Federal Register on May 30, 1989 (54 FR 23042), concerning occupational exposures to the hepatitis B virus, the human immunodeficiency virus and other bloodborne pathogens.
 
@@ -309,11 +309,11 @@ Pub. L. 102–170, title I, § 100, Nov. 26, 1991, 105 Stat. 1113, provided th
 
 **Retention of Markings and Placards**
 
-Pub. L. 101–615, § 29, Nov. 16, 1990, 104 Stat. 3277, provided that: “Not later than 18 months after the date of enactment of this Act [Nov. 16, 1990], the Secretary of Labor, in consultation with the Secretary of Transportation and the Secretary of the Treasury, shall issue under section 6(b) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 655(b)) standards requiring any employer who receives a package, container, motor vehicle, rail freight car, aircraft, or vessel which contains a hazardous material and which is required to be marked, placarded, or labeled in accordance with regulations issued under the Hazardous Materials Transportation Act [former 49 U.S.C. 1801 et seq.] to retain the markings, placards, and labels, and any other information as may be required by such regulations on the package, container, motor vehicle, rail freight car, aircraft, or vessel, until the hazardous materials have been removed therefrom.”
+Pub. L. 101–615, § 29, Nov. 16, 1990, 104 Stat. 3277, provided that: “Not later than 18 months after the date of enactment of this Act [Nov. 16, 1990], the Secretary of Labor, in consultation with the Secretary of Transportation and the Secretary of the Treasury, shall issue under section 6(b) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 655(b)) standards requiring any employer who receives a package, container, motor vehicle, rail freight car, aircraft, or vessel which contains a hazardous material and which is required to be marked, placarded, or labeled in accordance with regulations issued under the Hazardous Materials Transportation Act [former 49 U.S.C. 1801 et seq.] to retain the markings, placards, and labels, and any other information as may be required by such regulations on the package, container, motor vehicle, rail freight car, aircraft, or vessel, until the hazardous materials have been removed therefrom.”
 
 **Chemical Process Safety Management**
 
-Pub. L. 101–549, title III, § 304, Nov. 15, 1990, 104 Stat. 2576, provided that:
+Pub. L. 101–549, title III, § 304, Nov. 15, 1990, 104 Stat. 2576, provided that:
 
 > **“(a) Chemical Process Safety Standard.—** The Secretary of Labor shall act under the Occupational Safety and Health Act of 1970 (29 U.S.C. 653) [29 U.S.C. 651 et seq.] to prevent accidental releases of chemicals which could pose a threat to employees. Not later than 12 months after the date of enactment of the Clean Air Act Amendments of 1990 [Nov. 15, 1990], the Secretary of Labor, in coordination with the Administrator of the Environmental Protection Agency, shall promulgate, pursuant to the Occupational Safety and Health Act, a chemical process safety standard designed to protect employees from hazards associated with accidental releases of highly hazardous chemicals in the workplace.
 
@@ -353,7 +353,7 @@ Pub. L. 101–549, title III, § 304, Nov. 15, 1990, 104 Stat. 2576, provided 
 
 **Worker Protection Standards**
 
-Pub. L. 99–499, title I, § 126(a)–(f), Oct. 17, 1986, 100 Stat. 1690–1692, as amended by Pub. L. 100–202, § 101(f) [title II, § 201], Dec. 22, 1987, 101 Stat. 1329–187, 1329–198, provided:
+Pub. L. 99–499, title I, § 126(a)–(f), Oct. 17, 1986, 100 Stat. 1690–1692, as amended by Pub. L. 100–202, § 101(f) [title II, § 201], Dec. 22, 1987, 101 Stat. 1329–187, 1329–198, provided:
 
 > **“(a) Promulgation.—** Within one year after the date of the enactment of this section [Oct. 17, 1986], the Secretary of Labor shall, pursuant to section 6 of the Occupational Safety and Health Act of 1970 [29 U.S.C. 655], promulgate standards for the health and safety protection of employees engaged in hazardous waste operations.
 
@@ -397,7 +397,7 @@ Pub. L. 99–499, title I, § 126(a)–(f), Oct. 17, 1986, 100 Stat. 1690–16
 
 > **“(f) Coverage of Certain State and Local Employees.—** Not later than 90 days after the promulgation of final regulations under subsection (a), the Administrator shall promulgate standards identical to those promulgated by the Secretary of Labor under subsection (a). Standards promulgated under this subsection shall apply to employees of State and local governments in each State which does not have in effect an approved State plan under section 18 of the Occupational Safety and Health Act of 1970 [29 U.S.C. 667] providing for standards for the health and safety protection of employees engaged in hazardous waste operations.”
 
-## § 656. Administration
+## § 656. Administration
 
 **(a) National Advisory Committee on Occupational Safety and Health; establishment; membership; appointment; Chairman; functions; meetings; compensation; secretarial and clerical personnel**
 
@@ -423,7 +423,7 @@ An advisory committee may be appointed by the Secretary to assist him in his sta
 
 There is established a Maritime Occupational Safety and Health Advisory Committee, which shall be a continuing body and shall provide advice to the Secretary in formulating maritime industry standards and regarding matters pertaining to the administration of this chapter related to the maritime industry. The composition of such advisory committee shall be consistent with the advisory committees established under subsection (b). A member of the advisory committee who is otherwise qualified may continue to serve until a successor is appointed. The Secretary may promulgate or amend regulations as necessary to implement this subsection.
 
-(Pub. L. 91–596, § 7, Dec. 29, 1970, 84 Stat. 1597; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 116–92, div. C, title XXXV, § 3510, Dec. 20, 2019, 133 Stat. 1977.)
+(Pub. L. 91–596, § 7, Dec. 29, 1970, 84 Stat. 1597; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 116–92, div. C, title XXXV, § 3510, Dec. 20, 2019, 133 Stat. 1977.)
 
 **Editorial Notes**
 
@@ -447,9 +447,9 @@ Advisory committees in existence on January 5, 1973, to terminate not later than
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 657. Inspections, investigations, and recordkeeping
+## § 657. Inspections, investigations, and recordkeeping
 
 **(a) Authority of Secretary to enter, inspect, and investigate places of employment; time and manner** In order to carry out the purposes of this chapter, the Secretary, upon presenting appropriate credentials to the owner, operator, or agent in charge, is authorized—
 
@@ -493,7 +493,7 @@ Subject to regulations issued by the Secretary, a representative of the employer
 
 The Secretary shall not use the results of enforcement activities, such as the number of citations issued or penalties assessed, to evaluate employees directly involved in enforcement activities under this chapter or to impose quotas or goals with regard to the results of such activities.
 
-(Pub. L. 91–596, § 8, Dec. 29, 1970, 84 Stat. 1598; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 105–198, § 1, July 16, 1998, 112 Stat. 640.)
+(Pub. L. 91–596, § 8, Dec. 29, 1970, 84 Stat. 1598; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 105–198, § 1, July 16, 1998, 112 Stat. 640.)
 
 **Editorial Notes**
 
@@ -511,7 +511,7 @@ For information regarding the constitutionality of certain provisions of this se
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (c), (d), and (g) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-## § 658. Citations
+## § 658. Citations
 
 **(a) Authority to issue; grounds; contents; notice in lieu of citation for de minimis violations**
 
@@ -525,9 +525,9 @@ Each citation issued under this section, or a copy or copies thereof, shall be p
 
 No citation may be issued under this section after the expiration of six months following the occurrence of any violation.
 
-(Pub. L. 91–596, § 9, Dec. 29, 1970, 84 Stat. 1601.)
+(Pub. L. 91–596, § 9, Dec. 29, 1970, 84 Stat. 1601.)
 
-## § 659. Enforcement procedures
+## § 659. Enforcement procedures
 
 **(a) Notification of employer of proposed assessment of penalty subsequent to issuance of citation; time for notification of Secretary by employer of contest by employer of citation or proposed assessment; citation and proposed assessment as final order upon failure of employer to notify of contest and failure of employees to file notice**
 
@@ -541,9 +541,9 @@ If the Secretary has reason to believe that an employer has failed to correct a 
 
 If an employer notifies the Secretary that he intends to contest a citation issued under section 658(a) of this title or notification issued under subsection (a) or (b) of this section, or if, within fifteen working days of the issuance of a citation under section 658(a) of this title, any employee or representative of employees files a notice with the Secretary alleging that the period of time fixed in the citation for the abatement of the violation is unreasonable, the Secretary shall immediately advise the Commission of such notification, and the Commission shall afford an opportunity for a hearing (in accordance with section 554 of title 5 but without regard to subsection (a)(3) of such section). The Commission shall thereafter issue an order, based on findings of fact, affirming, modifying, or vacating the Secretary’s citation or proposed penalty, or directing other appropriate relief, and such order shall become final thirty days after its issuance. Upon a showing by an employer of a good faith effort to comply with the abatement requirements of a citation, and that abatement has not been completed because of factors beyond his reasonable control, the Secretary, after an opportunity for a hearing as provided in this subsection, shall issue an order affirming or modifying the abatement requirements in such citation. The rules of procedure prescribed by the Commission shall provide affected employees or representatives of affected employees an opportunity to participate as parties to hearings under this subsection.
 
-(Pub. L. 91–596, § 10, Dec. 29, 1970, 84 Stat. 1601.)
+(Pub. L. 91–596, § 10, Dec. 29, 1970, 84 Stat. 1601.)
 
-## § 660. Judicial review
+## § 660. Judicial review
 
 **(a) Filing of petition by persons adversely affected or aggrieved; orders subject to review; jurisdiction; venue; procedure; conclusiveness of record and findings of Commission; appropriate relief; finality of judgment**
 
@@ -561,7 +561,7 @@ The Secretary may also obtain review or enforcement of any final order of the Co
 
 **(3)** Within 90 days of the receipt of a complaint filed under this subsection the Secretary shall notify the complainant of his determination under paragraph (2) of this subsection.
 
-(Pub. L. 91–596, § 11, Dec. 29, 1970, 84 Stat. 1602; Pub. L. 98–620, title IV, § 402(32), Nov. 8, 1984, 98 Stat. 3360.)
+(Pub. L. 91–596, § 11, Dec. 29, 1970, 84 Stat. 1602; Pub. L. 98–620, title IV, § 402(32), Nov. 8, 1984, 98 Stat. 3360.)
 
 **Editorial Notes**
 
@@ -575,7 +575,7 @@ The Secretary may also obtain review or enforcement of any final order of the Co
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as a note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
-## § 661. Occupational Safety and Health Review Commission
+## § 661. Occupational Safety and Health Review Commission
 
 **(a) Establishment; membership; appointment; Chairman**
 
@@ -615,7 +615,7 @@ For the purpose of any proceeding before the Commission, the provisions of secti
 
 A1
 
-<sup>1</sup>  So in original. Probably should be “An”.
+<sup>1</sup> So in original. Probably should be “An”.
 
 administrative law judge appointed by the Commission shall hear, and make a determination upon, any proceeding instituted before the Commission and any motion in connection therewith, assigned to such administrative law judge by the Chairman of the Commission, and shall make a report of any such determination which constitutes his final disposition of the proceedings. The report of the administrative law judge shall become the final order of the Commission within thirty days after such report by the administrative law judge, unless within such period any Commission member has directed that such report shall be reviewed by the Commission.
 
@@ -623,7 +623,7 @@ administrative law judge appointed by the Commission shall hear, and make a dete
 
 Except as otherwise provided in this chapter, the administrative law judges shall be subject to the laws governing employees in the classified civil service, except that appointments shall be made without regard to section 5108 of title 5. Each administrative law judge shall receive compensation at a rate not less than that prescribed for GS–16 under section 5332 of title 5.
 
-(Pub. L. 91–596, § 12, Dec. 29, 1970, 84 Stat. 1603; Pub. L. 95–251, § 2(a)(7), Mar. 27, 1978, 92 Stat. 183.)
+(Pub. L. 91–596, § 12, Dec. 29, 1970, 84 Stat. 1603; Pub. L. 95–251, § 2(a)(7), Mar. 27, 1978, 92 Stat. 183.)
 
 **Editorial Notes**
 
@@ -637,7 +637,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (g), are set out in
 
 Subsec. (c) of this section amended sections 5314 and 5315 of Title 5, Government Organization and Employees.
 
-In subsec. (e), reference to section 5372 of title 5 was substituted for section 5362 on authority of Pub. L. 95–454, § 801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221, which redesignated sections 5361 through 5365 of title 5 as sections 5371 through 5375.
+In subsec. (e), reference to section 5372 of title 5 was substituted for section 5362 on authority of Pub. L. 95–454, § 801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221, which redesignated sections 5361 through 5365 of title 5 as sections 5371 through 5375.
 
 **Amendments**
 
@@ -647,9 +647,9 @@ In subsec. (e), reference to section 5372 of title 5 was substituted for section
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 662. Injunction proceedings
+## § 662. Injunction proceedings
 
 **(a) Petition by Secretary to restrain imminent dangers; scope of order**
 
@@ -667,7 +667,7 @@ Whenever and as soon as an inspector concludes that conditions or practices desc
 
 If the Secretary arbitrarily or capriciously fails to seek relief under this section, any employee who may be injured by reason of such failure, or the representative of such employees, might bring an action against the Secretary in the United States district court for the district in which the imminent danger is alleged to exist or the employer has its principal office, or for the District of Columbia, for a writ of mandamus to compel the Secretary to seek such an order and for such further relief as may be appropriate.
 
-(Pub. L. 91–596, § 13, Dec. 29, 1970, 84 Stat. 1605.)
+(Pub. L. 91–596, § 13, Dec. 29, 1970, 84 Stat. 1605.)
 
 **Editorial Notes**
 
@@ -675,25 +675,25 @@ If the Secretary arbitrarily or capriciously fails to seek relief under this sec
 
 Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (b), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 663. Representation in civil litigation
+## § 663. Representation in civil litigation
 
 Except as provided in section 518(a) of title 28 relating to litigation before the Supreme Court, the Solicitor of Labor may appear for and represent the Secretary in any civil litigation brought under this chapter but all such litigations shall be subject to the direction and control of the Attorney General.
 
-(Pub. L. 91–596, § 14, Dec. 29, 1970, 84 Stat. 1606.)
+(Pub. L. 91–596, § 14, Dec. 29, 1970, 84 Stat. 1606.)
 
-## § 664. Disclosure of trade secrets; protective orders
+## § 664. Disclosure of trade secrets; protective orders
 
 All information reported to or otherwise obtained by the Secretary or his representative in connection with any inspection or proceeding under this chapter which contains or which might reveal a trade secret referred to in section 1905 of title 18 shall be considered confidential for the purpose of that section, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. In any such proceeding the Secretary, the Commission, or the court shall issue such orders as may be appropriate to protect the confidentiality of trade secrets.
 
-(Pub. L. 91–596, § 15, Dec. 29, 1970, 84 Stat. 1606.)
+(Pub. L. 91–596, § 15, Dec. 29, 1970, 84 Stat. 1606.)
 
-## § 665. Variations, tolerances, and exemptions from required provisions; procedure; duration
+## § 665. Variations, tolerances, and exemptions from required provisions; procedure; duration
 
 The Secretary, on the record, after notice and opportunity for a hearing may provide such reasonable limitations and may make such rules and regulations allowing reasonable variations, tolerances, and exemptions to and from any or all provisions of this chapter as he may find necessary and proper to avoid serious impairment of the national defense. Such action shall not be in effect for more than six months without notification to affected employees and an opportunity being afforded for a hearing.
 
-(Pub. L. 91–596, § 16, Dec. 29, 1970, 84 Stat. 1606.)
+(Pub. L. 91–596, § 16, Dec. 29, 1970, 84 Stat. 1606.)
 
-## § 666. Civil and criminal penalties
+## § 666. Civil and criminal penalties
 
 **(a) Willful or repeated violation**
 
@@ -741,7 +741,7 @@ For purposes of this section, a serious violation shall be deemed to exist in a 
 
 Civil penalties owed under this chapter shall be paid to the Secretary for deposit into the Treasury of the United States and shall accrue to the United States and may be recovered in a civil action in the name of the United States brought in the United States district court for the district where the violation is alleged to have occurred or where the employer has its principal office.
 
-(Pub. L. 91–596, § 17, Dec. 29, 1970, 84 Stat. 1606, 1607; Pub. L. 101–508, title III, § 3101, Nov. 5, 1990, 104 Stat. 1388–29.)
+(Pub. L. 91–596, § 17, Dec. 29, 1970, 84 Stat. 1606, 1607; Pub. L. 101–508, title III, § 3101, Nov. 5, 1990, 104 Stat. 1388–29.)
 
 **Editorial Notes**
 
@@ -751,11 +751,11 @@ Subsec. (h) of this section amended section 1114 of Title 18, Crimes and Crimina
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–508, § 3101(1), substituted “$70,000 for each violation, but not less than $5,000 for each willful violation” for “$10,000 for each violation”.
+1990—Subsec. (a). Pub. L. 101–508, § 3101(1), substituted “$70,000 for each violation, but not less than $5,000 for each willful violation” for “$10,000 for each violation”.
 
-Subsecs. (b) to (d), (i). Pub. L. 101–508, § 3101(2), substituted “$7,000” for “$1,000”.
+Subsecs. (b) to (d), (i). Pub. L. 101–508, § 3101(2), substituted “$7,000” for “$1,000”.
 
-## § 667. State jurisdiction and plans
+## § 667. State jurisdiction and plans
 
 **(a) Assertion of State standards in absence of applicable Federal standards**
 
@@ -803,9 +803,9 @@ The State may obtain a review of a decision of the Secretary withdrawing approva
 
 The Secretary may enter into an agreement with a State under which the State will be permitted to continue to enforce one or more occupational health and safety standards in effect in such State until final action is taken by the Secretary with respect to a plan submitted by a State under subsection (b) of this section, or two years from December 29, 1970, whichever is earlier.
 
-(Pub. L. 91–596, § 18, Dec. 29, 1970, 84 Stat. 1608.)
+(Pub. L. 91–596, § 18, Dec. 29, 1970, 84 Stat. 1608.)
 
-## § 668. Programs of Federal agencies
+## § 668. Programs of Federal agencies
 
 **(a) Establishment, development, and maintenance by head of each Federal agency** It shall be the responsibility of the head of each Federal agency (not including the United States Postal Service) to establish and maintain an effective and comprehensive occupational safety and health program which is consistent with the standards promulgated under section 655 of this title. The head of each agency shall (after consultation with representatives of the employees thereof)—
 
@@ -829,7 +829,7 @@ The Secretary shall report to the President a summary or digest of reports submi
 
 The Secretary shall have access to records and reports kept and filed by Federal agencies pursuant to subsections (a)(3) and (5) of this section unless those records and reports are specifically required by Executive order to be kept secret in the interest of the national defense or foreign policy, in which case the Secretary shall have access to such information as will not jeopardize national defense or foreign policy.
 
-(Pub. L. 91–596, § 19, Dec. 29, 1970, 84 Stat. 1609; Pub. L. 97–375, title I, § 110(c), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 105–241, § 2(b)(1), Sept. 28, 1998, 112 Stat. 1572.)
+(Pub. L. 91–596, § 19, Dec. 29, 1970, 84 Stat. 1609; Pub. L. 97–375, title I, § 110(c), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 105–241, § 2(b)(1), Sept. 28, 1998, 112 Stat. 1572.)
 
 **Editorial Notes**
 
@@ -849,7 +849,7 @@ Subsec. (c) of this section amended section 7902 of Title 5, Government Organiza
 
 Occupational safety and health programs for Federal employees and continuation of Federal Advisory Council on Occupational Safety and Health, see Ex. Ord. No. 12196, Feb. 26, 1980, 45 F.R. 12769, set out as a note under section 7902 of Title 5, Government Organization and Employees.
 
-## § 669. Research and related activities
+## § 669. Research and related activities
 
 **(a) Authority of Secretary of Health and Human Services to conduct research, experiments, and demonstrations, develop plans, establish criteria, promulgate regulations, authorize programs, and publish results and industrywide studies; consultations**
 
@@ -883,7 +883,7 @@ Information obtained by the Secretary and the Secretary of Health and Human Serv
 
 The functions of the Secretary of Health and Human Services under this chapter shall, to the extent feasible, be delegated to the Director of the National Institute for Occupational Safety and Health established by section 671 of this title.
 
-(Pub. L. 91–596, § 20, Dec. 29, 1970, 84 Stat. 1610; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–596, § 20, Dec. 29, 1970, 84 Stat. 1610; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -891,11 +891,11 @@ The functions of the Secretary of Health and Human Services under this chapter s
 
 “Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-## § 669a. Expanded research on worker health and safety
+## § 669a. Expanded research on worker health and safety
 
 The Secretary of Health and Human Services (referred to in this section as the “Secretary”), acting through the Director of the National Institute of Occupational Safety and Health, shall enhance and expand research as deemed appropriate on the health and safety of workers who are at risk for bioterrorist threats or attacks in the workplace, including research on the health effects of measures taken to treat or protect such workers for diseases or disorders resulting from a bioterrorist threat or attack. Nothing in this section may be construed as establishing new regulatory authority for the Secretary or the Director to issue or modify any occupational safety and health rule or regulation.
 
-(Pub. L. 107–188, title I, § 153, June 12, 2002, 116 Stat. 631.)
+(Pub. L. 107–188, title I, § 153, June 12, 2002, 116 Stat. 631.)
 
 **Editorial Notes**
 
@@ -903,7 +903,7 @@ The Secretary of Health and Human Services (referred to in this section as the �
 
 Section was enacted as part of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, and not as part of the Occupational Safety and Health Act of 1970 which comprises this chapter.
 
-## § 670. Training and employee education
+## § 670. Training and employee education
 
 **(a) Authority of Secretary of Health and Human Services to conduct education and informational programs; consultations**
 
@@ -943,7 +943,7 @@ may be exempt from an inspection (except an inspection requested under section 6
 
 **(5)** A State shall provide worksite consultations under paragraph (2) at the request of an employer. Priority in scheduling such consultations shall be assigned to requests from small businesses which are in higher hazard industries or have the most hazardous conditions at issue in the request.
 
-(Pub. L. 91–596, § 21, Dec. 29, 1970, 84 Stat. 1612; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 105–197, § 2, July 16, 1998, 112 Stat. 638.)
+(Pub. L. 91–596, § 21, Dec. 29, 1970, 84 Stat. 1612; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 105–197, § 2, July 16, 1998, 112 Stat. 638.)
 
 **Editorial Notes**
 
@@ -969,21 +969,21 @@ Pub. L. 108–7, div. G, title I, Feb. 20, 2003, 117 Stat. 303.
 
 Pub. L. 107–116, title I, Jan. 10, 2002, 115 Stat. 2182.
 
-Pub. L. 106–554, § 1(a)(1) [title I], Dec. 21, 2000, 114 Stat. 2763, 2763A–8.
+Pub. L. 106–554, § 1(a)(1) [title I], Dec. 21, 2000, 114 Stat. 2763, 2763A–8.
 
-Pub. L. 106–113, div. B, § 1000(a)(4) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–222.
+Pub. L. 106–113, div. B, § 1000(a)(4) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–222.
 
-Pub. L. 105–277, div. A, § 101(f) [title I], Oct. 21, 1998, 112 Stat. 2681–337, 2681–343.
+Pub. L. 105–277, div. A, § 101(f) [title I], Oct. 21, 1998, 112 Stat. 2681–337, 2681–343.
 
 Pub. L. 105–78, title I, Nov. 13, 1997, 111 Stat. 1474.
 
-Pub. L. 104–208, div. A, title I, § 101(e) [title I], Sept. 30, 1996, 110 Stat. 3009–233, 3009–239.
+Pub. L. 104–208, div. A, title I, § 101(e) [title I], Sept. 30, 1996, 110 Stat. 3009–233, 3009–239.
 
-Pub. L. 104–134, title I, § 101(d) [title I], Apr. 26, 1996, 110 Stat. 1321–211, 1321–217; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101(d) [title I], Apr. 26, 1996, 110 Stat. 1321–211, 1321–217; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 103–333, title I, Sept. 30, 1994, 108 Stat. 2544.
 
-## § 671. National Institute for Occupational Safety and Health
+## § 671. National Institute for Occupational Safety and Health
 
 **(a) Statement of purpose**
 
@@ -1095,19 +1095,19 @@ Not later than 1 year after the establishment of the Office under this subsectio
 
 There is authorized to be appropriated, such sums as may be necessary to enable the Institute and the Office of Mine Safety and Health to carry out this subsection.
 
-(Pub. L. 91–596, § 22, Dec. 29, 1970, 84 Stat. 1612; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–550, title X, § 1033, Oct. 28, 1992, 106 Stat. 3924; Pub. L. 109–236, § 6(a), June 15, 2006, 120 Stat. 498.)
+(Pub. L. 91–596, § 22, Dec. 29, 1970, 84 Stat. 1612; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–550, title X, § 1033, Oct. 28, 1992, 106 Stat. 3924; Pub. L. 109–236, § 6(a), June 15, 2006, 120 Stat. 498.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Toxic Substances Control Act, referred to in subsec. (g)(1)(B)(i), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003. Title IV of the Act is classified generally to subchapter IV (§ 2681 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
+The Toxic Substances Control Act, referred to in subsec. (g)(1)(B)(i), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003. Title IV of the Act is classified generally to subchapter IV (§ 2681 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
 **Codification**
 
-In subsec. (e)(7), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended (41 U.S.C. 5),” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (e)(7), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended (41 U.S.C. 5),” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (e)(8), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (e)(8), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
@@ -1125,7 +1125,7 @@ In subsec. (e)(8), “section 3324(a) and (b) of title 31” substituted for “
 
 For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 97 of House Document No. 103–7.
 
-## § 671a. Workers’ family protection
+## § 671a. Workers’ family protection
 
 **(a) Short title**
 
@@ -1243,7 +1243,7 @@ If the Secretary of Labor determines that additional regulations or standards ar
 
 There are authorized to be appropriated from sums otherwise authorized to be appropriated, for each fiscal year such sums as may be necessary to carry out this section.
 
-(Pub. L. 102–522, title II, § 209, Oct. 26, 1992, 106 Stat. 3420.)
+(Pub. L. 102–522, title II, § 209, Oct. 26, 1992, 106 Stat. 3420.)
 
 **Editorial Notes**
 
@@ -1255,7 +1255,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsecs. (c)(1)(B
 
 Section was enacted as part of the Fire Administration Authorization Act of 1992, and not as part of the Occupational Safety and Health Act of 1970 which comprises this chapter.
 
-## § 672. Grants to States
+## § 672. Grants to States
 
 **(a) Designation of State agency to assist State in identifying State needs and responsibilities and in developing State plans** The Secretary is authorized, during the fiscal year ending June 30, 1971, and the two succeeding fiscal years, to make grants to the States which have designated a State agency under section 667 of this title to assist them—
 
@@ -1299,7 +1299,7 @@ The Secretary is authorized to make grants to the States to assist them in admin
 
 Prior to June 30, 1973, the Secretary shall, after consultation with the Secretary of Health and Human Services, transmit a report to the President and to the Congress, describing the experience under the grant programs authorized by this section and making any recommendations he may deem appropriate.
 
-(Pub. L. 91–596, § 23, Dec. 29, 1970, 84 Stat. 1613; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–596, § 23, Dec. 29, 1970, 84 Stat. 1613; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1307,7 +1307,7 @@ Prior to June 30, 1973, the Secretary shall, after consultation with the Secreta
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (c), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-## § 673. Statistics
+## § 673. Statistics
 
 **(a) Development and maintenance of program of collection, compilation, and analysis; employments subject to coverage; scope**
 
@@ -1337,7 +1337,7 @@ On the basis of the records made and kept pursuant to section 657(c) of this tit
 
 Agreements between the Department of Labor and States pertaining to the collection of occupational safety and health statistics already in effect on the effective date of this chapter shall remain in effect until superseded by grants or contracts made under this chapter.
 
-(Pub. L. 91–596, § 24, Dec. 29, 1970, 84 Stat. 1614; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–596, § 24, Dec. 29, 1970, 84 Stat. 1614; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
@@ -1351,13 +1351,13 @@ The effective date of this chapter, referred to in subsec. (f), means the effect
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-## § 674. Audit of grant recipient; maintenance of rec­ords; contents of records; access to books, etc.
+## § 674. Audit of grant recipient; maintenance of rec­ords; contents of records; access to books, etc.
 
 **(a)** Each recipient of a grant under this chapter shall keep such records as the Secretary or the Secretary of Health and Human Services shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the project or undertaking in connection with which such grant is made or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 **(b)** The Secretary or the Secretary of Health and Human Services, and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and rec­ords of the recipients of any grant under this chapter that are pertinent to any such grant.
 
-(Pub. L. 91–596, § 25, Dec. 29, 1970, 84 Stat. 1615; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–596, § 25, Dec. 29, 1970, 84 Stat. 1615; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1365,11 +1365,11 @@ The effective date of this chapter, referred to in subsec. (f), means the effect
 
 “Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-## § 675. Annual reports by Secretary of Labor and Secretary of Health and Human Services; contents
+## § 675. Annual reports by Secretary of Labor and Secretary of Health and Human Services; contents
 
 Within one hundred and twenty days following the convening of each regular session of each Congress, the Secretary and the Secretary of Health and Human Services shall each prepare and submit to the President for transmittal to the Congress a report upon the subject matter of this chapter, the progress toward achievement of the purpose of this chapter, the needs and requirements in the field of occupational safety and health, and any other relevant information. Such reports shall include information regarding occupational safety and health standards, and criteria for such standards, developed during the preceding year; evaluation of standards and criteria previously developed under this chapter, defining areas of emphasis for new criteria and standards; an evaluation of the degree of observance of applicable occupational safety and health standards, and a summary of inspection and enforcement activity undertaken; analysis and evaluation of research activities for which results have been obtained under governmental and nongovernmental sponsorship; an analysis of major occupational diseases; evaluation of available control and measurement technology for hazards for which standards or criteria have been developed during the preceding year; description of cooperative efforts undertaken between Government agencies and other interested parties in the implementation of this chapter during the preceding year; a progress report on the development of an adequate supply of trained manpower in the field of occupational safety and health, including estimates of future needs and the efforts being made by Government and others to meet those needs; listing of all toxic substances in industrial usage for which labeling requirements, criteria, or standards have not yet been established; and such recommendations for additional legislation as are deemed necessary to protect the safety and health of the worker and improve the administration of this chapter.
 
-(Pub. L. 91–596, § 26, Dec. 29, 1970, 84 Stat. 1615; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–596, § 26, Dec. 29, 1970, 84 Stat. 1615; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1383,24 +1383,24 @@ For termination, effective May 15, 2000, of provisions in this section relating 
 
 **Study of Occupationally Related Pulmonary and Respiratory Diseases; Study To Be Completed and Report Submitted by September 1, 1979**
 
-Pub. L. 95–239, § 17, Mar. 1, 1978, 92 Stat. 105, authorized Secretary of Labor, in cooperation with Director of National Institute for Occupational Safety and Health, to conduct a study of occupationally related pulmonary and respiratory diseases and to complete such study and report findings to President and Congress not later than 18 months after Mar. 1, 1978.
+Pub. L. 95–239, § 17, Mar. 1, 1978, 92 Stat. 105, authorized Secretary of Labor, in cooperation with Director of National Institute for Occupational Safety and Health, to conduct a study of occupationally related pulmonary and respiratory diseases and to complete such study and report findings to President and Congress not later than 18 months after Mar. 1, 1978.
 
-## § 676. Omitted
+## § 676. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 91–596, § 27, Dec. 29, 1970, 84 Stat. 1616, provided for establishment of a National Commission on State Workmen’s Compensation Laws to make an effective study and evaluation of State workmen’s compensation laws to determine whether such laws provide an adequate, prompt, and equitable system of compensation for injury or death, with a final report to be transmitted to President and Congress not later than July 31, 1972, ninety days after which the Commission ceased to exist.
+Section, Pub. L. 91–596, § 27, Dec. 29, 1970, 84 Stat. 1616, provided for establishment of a National Commission on State Workmen’s Compensation Laws to make an effective study and evaluation of State workmen’s compensation laws to determine whether such laws provide an adequate, prompt, and equitable system of compensation for injury or death, with a final report to be transmitted to President and Congress not later than July 31, 1972, ninety days after which the Commission ceased to exist.
 
-## § 677. Separability
+## § 677. Separability
 
 If any provision of this chapter, or the application of such provision to any person or circumstance, shall be held invalid, the remainder of this chapter, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-(Pub. L. 91–596, § 32, Dec. 29, 1970, 84 Stat. 1619.)
+(Pub. L. 91–596, § 32, Dec. 29, 1970, 84 Stat. 1619.)
 
-## § 678. Authorization of appropriations
+## § 678. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this chapter for each fiscal year such sums as the Congress shall deem necessary.
 
-(Pub. L. 91–596, § 33, Dec. 29, 1970, 84 Stat. 1620.)
+(Pub. L. 91–596, § 33, Dec. 29, 1970, 84 Stat. 1620.)

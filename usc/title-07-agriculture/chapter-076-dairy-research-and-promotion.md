@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—DAIRY PROMOTION PROGRAM
 
-### § 4501. Congressional findings and declaration of policy
+### § 4501. Congressional findings and declaration of policy
 
 **(a)** Congress finds that—
 
@@ -33,7 +33,7 @@ retrieved: 2026-10-11
 
 **(b)** It, therefore, is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided herein, of an orderly procedure for financing (through assessments on all milk produced in the United States for commercial use and on imported dairy products) and carrying out a coordinated program of promotion designed to strengthen the dairy industry’s position in the marketplace and to maintain and expand domestic and foreign markets and uses for fluid milk and dairy products. Nothing in this subchapter may be construed to provide for the control of production or otherwise limit the right of individual milk producers to produce milk or the right of any person to import dairy products.
 
-(Pub. L. 98–180, title I, § 110, Nov. 29, 1983, 97 Stat. 1136; Pub. L. 107–171, title I, § 1505(h)(1), May 13, 2002, 116 Stat. 210.)
+(Pub. L. 98–180, title I, § 110, Nov. 29, 1983, 97 Stat. 1136; Pub. L. 107–171, title I, § 1505(h)(1), May 13, 2002, 116 Stat. 210.)
 
 **Editorial Notes**
 
@@ -47,7 +47,7 @@ retrieved: 2026-10-11
 
 For short title of title I of Pub. L. 98–180 as the “Dairy Production Stabilization Act of 1983”, see Short Title of 1983 Amendment note set out under section 1421 of this title.
 
-### § 4502. Definitions
+### § 4502. Definitions
 
 As used in this subchapter—
 
@@ -89,7 +89,7 @@ As used in this subchapter—
 
 **(o)** the term “Customs” means the United States Customs Service.
 
-(Pub. L. 98–180, title I, § 111, Nov. 29, 1983, 97 Stat. 1136; Pub. L. 107–171, title I, § 1505(a), (h)(2), May 13, 2002, 116 Stat. 207, 210; Pub. L. 110–234, title I, § 1507(b), May 22, 2008, 122 Stat. 997; Pub. L. 110–246, § 4(a), title I, § 1507(b), June 18, 2008, 122 Stat. 1664, 1725.)
+(Pub. L. 98–180, title I, § 111, Nov. 29, 1983, 97 Stat. 1136; Pub. L. 107–171, title I, § 1505(a), (h)(2), May 13, 2002, 116 Stat. 207, 210; Pub. L. 110–234, title I, § 1507(b), May 22, 2008, 122 Stat. 997; Pub. L. 110–246, § 4(a), title I, § 1507(b), June 18, 2008, 122 Stat. 1664, 1725.)
 
 **Editorial Notes**
 
@@ -99,13 +99,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (*l*). Pub. L. 110–246, § 1507(b)(1), added subsec. (*l*) and struck out former subsec. (*l*) which read as follows: “the term ‘United States’ as used in sections 4501 through 4508 of this title means the forty-eight contiguous States in the continental United States;”.
+2008—Subsec. (*l*). Pub. L. 110–246, § 1507(b)(1), added subsec. (*l*) and struck out former subsec. (*l*) which read as follows: “the term ‘United States’ as used in sections 4501 through 4508 of this title means the forty-eight contiguous States in the continental United States;”.
 
-Subsec. (m). Pub. L. 110–246, § 1507(b)(2), struck out “(as defined in subsection (*l*) of this section)” before “, including”.
+Subsec. (m). Pub. L. 110–246, § 1507(b)(2), struck out “(as defined in subsection (*l*) of this section)” before “, including”.
 
-2002—Subsec. (d). Pub. L. 107–171, § 1505(h)(2), struck out “produced in the United States” before semicolon at end.
+2002—Subsec. (d). Pub. L. 107–171, § 1505(h)(2), struck out “produced in the United States” before semicolon at end.
 
-Subsec. (m) to (*o*). Pub. L. 107–171, § 1505(a), added subsecs. (m) to (*o*).
+Subsec. (m) to (*o*). Pub. L. 107–171, § 1505(a), added subsecs. (m) to (*o*).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -117,7 +117,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-### § 4503. Issuance of orders
+### § 4503. Issuance of orders
 
 **(a) Notice and opportunity for public comment**
 
@@ -135,7 +135,7 @@ The Secretary may, from time to time, amend a dairy products promotion and resea
 
 The Secretary, in consultation with the United States Trade Representative, shall ensure that the order is implemented in a manner consistent with the international trade obligations of the Federal Government.
 
-(Pub. L. 98–180, title I, § 112, Nov. 29, 1983, 97 Stat. 1137; Pub. L. 107–171, title I, § 1505(g), May 13, 2002, 116 Stat. 209.)
+(Pub. L. 98–180, title I, § 112, Nov. 29, 1983, 97 Stat. 1137; Pub. L. 107–171, title I, § 1505(g), May 13, 2002, 116 Stat. 209.)
 
 **Editorial Notes**
 
@@ -143,7 +143,7 @@ The Secretary, in consultation with the United States Trade Representative, shal
 
 2002—Subsec. (d). Pub. L. 107–171, which directed the addition of subsec. (d) at the end of section 112 of the Dairy Promotion Stabilization Act of 1983, was executed by adding subsec. (d) at the end of this section to reflect the probable intent of Congress.
 
-### § 4504. Required terms in orders
+### § 4504. Required terms in orders
 
 Any order issued under this subchapter shall contain terms and conditions as follows:
 
@@ -231,7 +231,7 @@ Any order issued under this subchapter shall contain terms and conditions as fol
 
 **(l)** The order shall provide terms and conditions, not inconsistent with the provisions of this subchapter, as necessary to effectuate the provisions of the order.
 
-(Pub. L. 98–180, title I, § 113, Nov. 29, 1983, 97 Stat. 1137; Pub. L. 104–127, title I, § 152, Apr. 4, 1996, 110 Stat. 922; Pub. L. 107–171, title I, § 1505(b)–(e), May 13, 2002, 116 Stat. 208, 209; Pub. L. 110–234, title I, § 1507(a), (d)–(f), May 22, 2008, 122 Stat. 997; Pub. L. 110–246, § 4(a), title I, § 1507(a), (d)–(f), June 18, 2008, 122 Stat. 1664, 1725; Pub. L. 113–79, title I, § 1426, Feb. 7, 2014, 128 Stat. 695; Pub. L. 115–334, title I, § 1402(c), Dec. 20, 2018, 132 Stat. 4518.)
+(Pub. L. 98–180, title I, § 113, Nov. 29, 1983, 97 Stat. 1137; Pub. L. 104–127, title I, § 152, Apr. 4, 1996, 110 Stat. 922; Pub. L. 107–171, title I, § 1505(b)–(e), May 13, 2002, 116 Stat. 208, 209; Pub. L. 110–234, title I, § 1507(a), (d)–(f), May 22, 2008, 122 Stat. 997; Pub. L. 110–246, § 4(a), title I, § 1507(a), (d)–(f), June 18, 2008, 122 Stat. 1664, 1725; Pub. L. 113–79, title I, § 1426, Feb. 7, 2014, 128 Stat. 695; Pub. L. 115–334, title I, § 1402(c), Dec. 20, 2018, 132 Stat. 4518.)
 
 **Editorial Notes**
 
@@ -249,21 +249,21 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (e)(2). Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Subsec. (e)(2). Pub. L. 110–246, § 1507(a), substituted “2012” for “2007”.
+2008—Subsec. (e)(2). Pub. L. 110–246, § 1507(a), substituted “2012” for “2007”.
 
-Subsec. (g)(3). Pub. L. 110–246, § 1507(d), added par. (3) and struck out former par. (3) which read as follows: “The rate of assessment for milk produced in the United States and imported dairy products prescribed by the order shall be 15 cents per hundredweight of milk for commercial use or the equivalent thereof, as determined by the Secretary.”
+Subsec. (g)(3). Pub. L. 110–246, § 1507(d), added par. (3) and struck out former par. (3) which read as follows: “The rate of assessment for milk produced in the United States and imported dairy products prescribed by the order shall be 15 cents per hundredweight of milk for commercial use or the equivalent thereof, as determined by the Secretary.”
 
-Subsec. (g)(6)(B), (C). Pub. L. 110–246, § 1507(e), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The assessment on imported dairy products shall be paid by the importer to Customs at the time the entry documents are filed with Customs. Customs shall remit the assessments to the Board. For purposes of this subparagraph, the term ‘importer’ includes persons who hold title to foreign-produced dairy products immediately upon release by Customs, as well as persons who act on behalf of others, as agents, brokers, or consignees, to secure the release of dairy products from Customs.”
+Subsec. (g)(6)(B), (C). Pub. L. 110–246, § 1507(e), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The assessment on imported dairy products shall be paid by the importer to Customs at the time the entry documents are filed with Customs. Customs shall remit the assessments to the Board. For purposes of this subparagraph, the term ‘importer’ includes persons who hold title to foreign-produced dairy products immediately upon release by Customs, as well as persons who act on behalf of others, as agents, brokers, or consignees, to secure the release of dairy products from Customs.”
 
-Subsec. (g)(7). Pub. L. 110–246, § 1507(f), added par. (7).
+Subsec. (g)(7). Pub. L. 110–246, § 1507(f), added par. (7).
 
-2002—Subsec. (b). Pub. L. 107–171, § 1505(b), inserted heading, designated first to ninth sentences as pars. (1) to (5) and (7) to (10), respectively, and realigned margins, substituted “Except as provided in paragraph (6), the members of the Board” for “Members of the Board” in par. (2) and “is produced as well as importers of dairy products” for “is produced” in par. (8), and added par. (6).
+2002—Subsec. (b). Pub. L. 107–171, § 1505(b), inserted heading, designated first to ninth sentences as pars. (1) to (5) and (7) to (10), respectively, and realigned margins, substituted “Except as provided in paragraph (6), the members of the Board” for “Members of the Board” in par. (2) and “is produced as well as importers of dairy products” for “is produced” in par. (8), and added par. (6).
 
-Subsec. (e). Pub. L. 107–171, § 1505(c), inserted heading, designated existing provisions as par. (1), inserted heading, and struck out “For each of fiscal years 1997 through 2001, the Board’s budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States.” at end, and added par. (2).
+Subsec. (e). Pub. L. 107–171, § 1505(c), inserted heading, designated existing provisions as par. (1), inserted heading, and struck out “For each of fiscal years 1997 through 2001, the Board’s budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States.” at end, and added par. (2).
 
-Subsec. (g). Pub. L. 107–171, § 1505(d), inserted heading, designated first to fifth sentences as pars. (1) to (5), respectively, and realigned margins, inserted “for milk produced in the United States and imported dairy products” after “The rate of assessment” and “, as determined by the Secretary” before period at end in par. (3), and added par. (6).
+Subsec. (g). Pub. L. 107–171, § 1505(d), inserted heading, designated first to fifth sentences as pars. (1) to (5), respectively, and realigned margins, inserted “for milk produced in the United States and imported dairy products” after “The rate of assessment” and “, as determined by the Secretary” before period at end in par. (3), and added par. (6).
 
-Subsec. (k). Pub. L. 107–171, § 1505(e), substituted “importer of imported dairy products, each person receiving milk from farmers” for “person receiving milk from farmers” in first sentence.
+Subsec. (k). Pub. L. 107–171, § 1505(e), substituted “importer of imported dairy products, each person receiving milk from farmers” for “person receiving milk from farmers” in first sentence.
 
 1996—Subsec. (e). Pub. L. 104–127 inserted at end “For each of fiscal years 1997 through 2001, the Board’s budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States.”
 
@@ -273,7 +273,7 @@ Subsec. (k). Pub. L. 107–171, § 1505(e), substituted “importer of importe
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 4505. Certification of organizations
+### § 4505. Certification of organizations
 
 **(a)** The eligibility of any organization to represent milk producers, and to participate in the making of nominations under section 4504 of this title shall be certified by the Secretary. The Secretary shall certify any organization that the Secretary determines meets the eligibility criteria established by the Secretary under this section and the Secretary’s determination as to eligibility shall be final.
 
@@ -293,17 +293,17 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 The primary considerations in determining the eligibility of an organization shall be whether its membership consists primarily of milk producers who produce a substantial volume of milk and whether the primary or overriding interest of the organization is in the production or processing of fluid milk and dairy products and promotion of the nutritional attributes of fluid milk and dairy products.
 
-(Pub. L. 98–180, title I, § 114, Nov. 29, 1983, 97 Stat. 1140.)
+(Pub. L. 98–180, title I, § 114, Nov. 29, 1983, 97 Stat. 1140.)
 
-### § 4506. Requirement of referendum
+### § 4506. Requirement of referendum
 
 **(a)** Within the sixty-day period immediately preceding September 30, 1985, the Secretary shall conduct a referendum among producers who, during a representative period (as determined by the Secretary), have been engaged in the production of milk for commercial use for the purpose of ascertaining whether the order then in effect shall be continued. Such order shall be continued only if the Secretary determines that it has been approved by not less than a majority of the producers voting in the referendum, who during a representative period (as determined by the Secretary) have been engaged in the production of milk for commercial use. If continuation of the order is not approved by a majority of the producers voting in the referendum, the Secretary shall terminate collection of assessments under the order within six months after the Secretary determines that such action is favored by a majority of the producers voting in the referendum and shall terminate the order in an orderly manner as soon as practicable after such determination.
 
 **(b)** The Secretary shall be reimbursed from assessments collected by the Board for any expenses incurred by the Department in connection with the conduct of any referendum under this section and section 4507 of this title, except for the salaries of Government employees.
 
-(Pub. L. 98–180, title I, § 115, Nov. 29, 1983, 97 Stat. 1141.)
+(Pub. L. 98–180, title I, § 115, Nov. 29, 1983, 97 Stat. 1141.)
 
-### § 4507. Suspension and termination of orders
+### § 4507. Suspension and termination of orders
 
 **(a) Determination by Secretary**
 
@@ -317,7 +317,7 @@ After September 30, 1985, the Secretary may conduct a referendum at any time, an
 
 The termination or suspension of any order, or any provision thereof, shall not be considered an order within the meaning of this subchapter.
 
-(Pub. L. 98–180, title I, § 116, Nov. 29, 1983, 97 Stat. 1141; Pub. L. 107–171, title I, § 1505(f), May 13, 2002, 116 Stat. 209.)
+(Pub. L. 98–180, title I, § 116, Nov. 29, 1983, 97 Stat. 1141; Pub. L. 107–171, title I, § 1505(f), May 13, 2002, 116 Stat. 209.)
 
 **Editorial Notes**
 
@@ -325,21 +325,21 @@ The termination or suspension of any order, or any provision thereof, shall not 
 
 2002—Subsec. (b). Pub. L. 107–171, which directed amendment of section 116(b) of the Dairy Promotion Stabilization Act of 1983 by inserting “and importers” after “of producers” and after “whether the producers” in first sentence and inserting “and importers voting in the referendum (who have been engaged in the importation of dairy products during the same representative period, as determined by the Secretary)” after “commercial use” in second sentence, was executed by making the insertions in subsec. (b) of this section, section 116 of the Dairy Production Stabilization Act of 1983, to reflect the probable intent of Congress.
 
-### § 4508. Cooperative association representation
+### § 4508. Cooperative association representation
 
 Whenever, under the provisions of this subchapter, the Secretary is required to determine the approval or disapproval of producers, the Secretary shall consider the approval or disapproval by any cooperative association of producers, engaged in a bona fide manner in marketing milk or the products thereof, as the approval or disapproval of the producers who are members of or under contract with such cooperative association of producers. If a cooperative association of producers elects to vote on behalf of its members, such cooperative association shall provide each producer, on whose behalf the cooperative association is expressing approval or disapproval, a description of the question presented in the referendum together with a statement of the manner in which the cooperative association intends to cast its vote on behalf of the membership. Such information shall inform the producer of procedures to follow to cast an individual ballot should the producer so choose within the period of time established by the Secretary for casting ballots. Such notification shall be made at least thirty days prior to the referendum and shall include an official ballot. The ballots shall be tabulated by the Secretary and the vote of the cooperative association shall be adjusted to reflect such individual votes.
 
-(Pub. L. 98–180, title I, § 117, Nov. 29, 1983, 97 Stat. 1141.)
+(Pub. L. 98–180, title I, § 117, Nov. 29, 1983, 97 Stat. 1141.)
 
-### § 4509. Petition and review
+### § 4509. Petition and review
 
 **(a)** Any person subject to any order issued under this subchapter may file with the Secretary a petition stating that any such order or any provision of such order or any obligation imposed in connection therewith is not in accordance with law and requesting a modification thereof or an exemption therefrom. The petitioner shall thereupon be given an opportunity for a hearing on the petition, in accordance with regulations issued by the Secretary. After such hearing, the Secretary shall make a ruling on the petition, which shall be final if in accordance with law.
 
 **(b)** The district courts of the United States in any district in which such person is an inhabitant or carries on business are hereby vested with jurisdiction to review such ruling, if a complaint for that purpose is filed within twenty days from the date of the entry of such ruling. Service of process in such proceedings may be had on the Secretary by delivering a copy of the complaint to the Secretary. If the court determines that such ruling is not in accordance with law, it shall remand such proceedings to the Secretary with directions either (1) to make such ruling as the court shall determine to be in accordance with law, or (2) to take such further proceedings as, in its opinion, the law requires.
 
-(Pub. L. 98–180, title I, § 118, Nov. 29, 1983, 97 Stat. 1142.)
+(Pub. L. 98–180, title I, § 118, Nov. 29, 1983, 97 Stat. 1142.)
 
-### § 4510. Enforcement
+### § 4510. Enforcement
 
 **(a) Restraining order; civil action; minor violation**
 
@@ -353,29 +353,29 @@ Any person who willfully violates any provision of any order issued by the Secre
 
 The remedies provided in subsections (a) and (b) of this section shall be in addition to, and not exclusive of, other remedies that may be available.
 
-(Pub. L. 98–180, title I, § 119, Nov. 29, 1983, 97 Stat. 1142.)
+(Pub. L. 98–180, title I, § 119, Nov. 29, 1983, 97 Stat. 1142.)
 
-### § 4511. Investigations; power to subpena and take oaths and affirmations; aid of courts
+### § 4511. Investigations; power to subpena and take oaths and affirmations; aid of courts
 
 The Secretary may make such investigations as the Secretary deems necessary for the effective administration of this subchapter or to determine whether any person subject to the provisions of this subchapter has engaged or is about to engage in any act that constitutes or will constitute a violation of any provision of this subchapter or of any order, or rule or regulation issued under this subchapter. For the purpose of such investigation, the Secretary may administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any records that are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpena to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of records. The court may issue an order requiring such person to appear before the Secretary to produce records or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. Process in any such case may be served in the judicial district in which such person is an inhabitant or wherever such person may be found.
 
-(Pub. L. 98–180, title I, § 120, Nov. 29, 1983, 97 Stat. 1143.)
+(Pub. L. 98–180, title I, § 120, Nov. 29, 1983, 97 Stat. 1143.)
 
-### § 4512. Administrative provisions
+### § 4512. Administrative provisions
 
 **(a)** Nothing in this subchapter may be construed to preempt or supersede any other program relating to dairy product promotion organized and operated under the laws of the United States or any State.
 
 **(b)** The provisions of this subchapter applicable to orders shall be applicable to amendments to orders.
 
-(Pub. L. 98–180, title I, § 121, Nov. 29, 1983, 97 Stat. 1143.)
+(Pub. L. 98–180, title I, § 121, Nov. 29, 1983, 97 Stat. 1143.)
 
-### § 4513. Authorization of appropriations
+### § 4513. Authorization of appropriations
 
 There are hereby authorized to be appropriated such funds as are necessary to carry out the provisions of this subchapter. The funds so appropriated shall not be available for payment of the expenses or expenditures of the Board in administering any provisions of any order issued under the terms of this subchapter.
 
-(Pub. L. 98–180, title I, § 122, Nov. 29, 1983, 97 Stat. 1143.)
+(Pub. L. 98–180, title I, § 122, Nov. 29, 1983, 97 Stat. 1143.)
 
-### § 4514. Dairy reports
+### § 4514. Dairy reports
 
 The Secretary of Agriculture shall submit to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry the following reports:
 
@@ -401,11 +401,11 @@ The Secretary of Agriculture shall submit to the House Committee on Agriculture 
 
 **(4)** Not later than July 1, 1985, and July 1 of each year after the date of enactment of this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 an annual report describing activities conducted under the dairy products promotion and research order issued under subtitle B of title I of this Act [7 U.S.C. 4501 et seq.], and accounting for the receipt and disbursement of all funds received by the National Dairy Promotion and Research Board under such order including an independent analysis of the effectiveness of the program.
 
-(Pub. L. 98–180, title III, § 301, Nov. 29, 1983, 97 Stat. 1150.)
+(Pub. L. 98–180, title III, § 301, Nov. 29, 1983, 97 Stat. 1150.)
 
 **Editorial Notes**
 
@@ -413,7 +413,7 @@ an annual report describing activities conducted under the dairy products promot
 
 The date of enactment of this title, referred to in par. (4), means the date of enactment of title III of Pub. L. 98–180, which was approved Nov. 29, 1983.
 
-Subtitle B of title I of this Act, referred to in par. (4), is subtitle B (§§ 110–122) of title I of Pub. L. 98–180, which is classified generally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
+Subtitle B of title I of this Act, referred to in par. (4), is subtitle B (§§ 110–122) of title I of Pub. L. 98–180, which is classified generally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
 
 **Codification**
 
@@ -421,7 +421,7 @@ Section was enacted as part of Pub. L. 98–180, known as the Dairy and Tobacco 
 
 ## SUBCHAPTER II—DAIRY RESEARCH PROGRAM
 
-### § 4531. Definitions
+### § 4531. Definitions
 
 For purposes of this subchapter—
 
@@ -449,7 +449,7 @@ For purposes of this subchapter—
 
 **(12)** the term “United States”, when used in a geographical sense, means all of the States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 98–180, title I, § 130, as added Pub. L. 99–198, title I, § 121, Dec. 23, 1985, 99 Stat. 1367; amended Pub. L. 110–234, title I, § 1507(c), May 22, 2008, 122 Stat. 997; Pub. L. 110–246, § 4(a), title I, § 1507(c), June 18, 2008, 122 Stat. 1664, 1725.)
+(Pub. L. 98–180, title I, § 130, as added Pub. L. 99–198, title I, § 121, Dec. 23, 1985, 99 Stat. 1367; amended Pub. L. 110–234, title I, § 1507(c), May 22, 2008, 122 Stat. 997; Pub. L. 110–246, § 4(a), title I, § 1507(c), June 18, 2008, 122 Stat. 1664, 1725.)
 
 **Editorial Notes**
 
@@ -459,7 +459,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Par. (12). Pub. L. 110–246, § 1507(c), added par. (12) and struck out former par. (12) which read as follows: “the term ‘United States’ means the several States and the territories and possessions of the United States, except that for purposes of sections 4532, 4534(a), and 4537 of this title, and paragraph (7) of this section, such term means the forty-eight contiguous States in the continental United States.”
+2008—Par. (12). Pub. L. 110–246, § 1507(c), added par. (12) and struck out former par. (12) which read as follows: “the term ‘United States’ means the several States and the territories and possessions of the United States, except that for purposes of sections 4532, 4534(a), and 4537 of this title, and paragraph (7) of this section, such term means the forty-eight contiguous States in the continental United States.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -467,13 +467,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 4532. Establishment of National Dairy Research Endowment Institute
+### § 4532. Establishment of National Dairy Research Endowment Institute
 
 The Secretary of Agriculture may establish in the Department of Agriculture a National Dairy Research Endowment Institute whose function shall be to aid the dairy industry through the implementation of the dairy products research order, which its board of trustees shall administer, and the use of monies made available to its board of trustees from the Dairy Research Trust Fund to implement the order. In implementing the order, the Institute shall provide a permanent system for funding scientific research activities designed to facilitate the expansion of markets for milk and dairy products marketed in the United States. The Institute shall be headed by a board of trustees composed of the members of the National Dairy Promotion and Research Board. The board may appoint from among its members an executive committee whose membership shall reflect equally each of the different regions in the United States in which milk is produced. The executive committee shall have such duties and powers as are delegated to it by the board. The members of the board shall serve without compensation. While away from their homes or regular places of business in the performance of services for the board, members of the board shall be allowed reasonable travel expenses, including a per diem allowance in lieu of subsistence, as recommended by the board and approved by the Secretary, except that there shall be no duplication of payment for such expenses.
 
-(Pub. L. 98–180, title I, § 131, as added Pub. L. 99–198, title I, § 121, Dec. 23, 1985, 99 Stat. 1368.)
+(Pub. L. 98–180, title I, § 131, as added Pub. L. 99–198, title I, § 121, Dec. 23, 1985, 99 Stat. 1368.)
 
-### § 4533. Issuance of order
+### § 4533. Issuance of order
 
 **(a) Publication in Federal Register; public comment; submission**
 
@@ -487,9 +487,9 @@ After the Secretary provides for such publication and a reasonable opportunity f
 
 The Secretary may amend, from time to time, the dairy products research order issued under subsection (b).
 
-(Pub. L. 98–180, title I, § 132, as added Pub. L. 99–198, title I, § 121, Dec. 23, 1985, 99 Stat. 1369.)
+(Pub. L. 98–180, title I, § 132, as added Pub. L. 99–198, title I, § 121, Dec. 23, 1985, 99 Stat. 1369.)
 
-### § 4534. Required terms of order; agreements under order; records
+### § 4534. Required terms of order; agreements under order; records
 
 **(a) Required terms** The dairy products research order issued under section 4533(b) of this title shall—
 
@@ -561,15 +561,15 @@ The Secretary may amend, from time to time, the dairy products research order is
 
 **(3)** No information obtained under the authority of this section may be made available to any agency, officer, or employee of the United States for any purpose other than the implementation of this subchapter and any investigatory or enforcement action necessary to implement this subchapter. Any person who violates this paragraph shall be subject to a fine of not more than $1,000, or to imprisonment for not more than one year, or both, and, if such person is employed by the board or the Department, shall be terminated from such employment.
 
-(Pub. L. 98–180, title I, § 133, as added Pub. L. 99–198, title I, § 121, Dec. 23, 1985, 99 Stat. 1369.)
+(Pub. L. 98–180, title I, § 133, as added Pub. L. 99–198, title I, § 121, Dec. 23, 1985, 99 Stat. 1369.)
 
-### § 4535. Petition and review; enforcement; investigations
+### § 4535. Petition and review; enforcement; investigations
 
 The provisions of sections 4509, 4510, and 4511 of this title shall apply, except when inconsistent with this subchapter, to the Institute, the board, the persons subject to the order issued under section 4533(b) of this title, the jurisdiction of district courts of the United States, and the authority of the Secretary under this subchapter in the same manner as such sections apply with respect to subchapter I.
 
-(Pub. L. 98–180, title I, § 134, as added Pub. L. 99–198, title I, § 121, Dec. 23, 1985, 99 Stat. 1371.)
+(Pub. L. 98–180, title I, § 134, as added Pub. L. 99–198, title I, § 121, Dec. 23, 1985, 99 Stat. 1371.)
 
-### § 4536. Dairy Research Trust Fund
+### § 4536. Dairy Research Trust Fund
 
 **(a) Establishment**
 
@@ -585,9 +585,9 @@ There may be established in the Treasury of the United States a trust fund to be
 
 Moneys in the Fund, other than moneys appropriated or transferred under paragraph (1) of subsection (b), shall be available to the board, in such amounts, and for such activities authorized by this subchapter, as the Secretary may approve.
 
-(Pub. L. 98–180, title I, § 135, as added Pub. L. 99–198, title I, § 121, Dec. 23, 1985, 99 Stat. 1371.)
+(Pub. L. 98–180, title I, § 135, as added Pub. L. 99–198, title I, § 121, Dec. 23, 1985, 99 Stat. 1371.)
 
-### § 4537. Termination of order, Institute, and Fund
+### § 4537. Termination of order, Institute, and Fund
 
 **(a) Termination or suspension of order**
 
@@ -601,15 +601,15 @@ If the Secretary terminates the order, the Institute shall be dissolved 180 days
 
 If the Institute is dissolved for any reason, the moneys remaining in the Fund shall be disposed of as shall be agreed to by the board and the Secretary.
 
-(Pub. L. 98–180, title I, § 136, as added Pub. L. 99–198, title I, § 121, Dec. 23, 1985, 99 Stat. 1371.)
+(Pub. L. 98–180, title I, § 136, as added Pub. L. 99–198, title I, § 121, Dec. 23, 1985, 99 Stat. 1371.)
 
-### § 4538. Additional authority
+### § 4538. Additional authority
 
 **(a)** No provision of this subchapter shall be construed to preempt or supersede any other program relating to milk or dairy products research organized and operated under the laws of the United States or any State.
 
 **(b)** The provisions of this subchapter applicable to the order issued under section 4533(b) of this title shall be applicable to any amendment to the order.
 
-(Pub. L. 98–180, title I, § 137, as added Pub. L. 99–198, title I, § 121, Dec. 23, 1985, 99 Stat. 1372.)
+(Pub. L. 98–180, title I, § 137, as added Pub. L. 99–198, title I, § 121, Dec. 23, 1985, 99 Stat. 1372.)
 
 ## SUBCHAPTER III—INDEMNITY PAYMENTS TO DAIRY FARMERS
 
@@ -619,11 +619,11 @@ If the Institute is dissolved for any reason, the moneys remaining in the Fund s
 
 Subchapter was enacted as Pub. L. 90–484, and not as part of the Dairy Production Stabilization Act of 1983 which comprises this chapter.
 
-### § 4551. Indemnity payments to dairy farmers and manufacturers of dairy products; milk removed for its residue of chemical or toxic substances; nuclear radiation or fallout contaminants; other legal recourse
+### § 4551. Indemnity payments to dairy farmers and manufacturers of dairy products; milk removed for its residue of chemical or toxic substances; nuclear radiation or fallout contaminants; other legal recourse
 
 The Secretary of Agriculture is authorized to make indemnity payments for milk or cows producing such milk at a fair market value, to dairy farmers who have been directed since January 1, 1964 (but only since August 10, 1973, in the case of indemnity payments not authorized prior to August 10, 1973), to remove their milk, and to make indemnity payments for dairy products at fair market value to manufacturers of dairy products who have been directed since November 30, 1970, to remove their dairy products from commercial markets because of residues of chemicals registered and approved for use by the Federal Government at the time of such use. The Secretary is also authorized to make indemnity payments for milk, or cows producing such milk, at a fair market value to any dairy farmer who is directed to remove his milk from commercial markets because of (1) the presence of products of nuclear radiation or fallout if such contamination is not due to the fault of the farmer, or (2) residues of chemicals or toxic substances not included under the first sentence of this section if such chemicals or toxic substances were not used in a manner contrary to applicable regulations or labeling instructions provided at the time of use and the contamination is not due to the fault of the farmer: *Provided*, That no indemnity payment may be made for contamination resulting from such residues of chemicals or toxic substances if the Secretary determines within thirty days after the date of application for payment that other legal recourse is available to the farmer. Any indemnity payment to any farmer shall continue until he has been reinstated and is again allowed to dispose of his milk on commercial markets.
 
-(Pub. L. 90–484, § 1, Aug. 13, 1968, 82 Stat. 750; Pub. L. 91–524, title II, § 204(b), Nov. 30, 1970, 84 Stat. 1362; Pub. L. 93–86, § 1(5)(B), Aug. 10, 1973, 87 Stat. 223; Pub. L. 95–113, title II, § 205(1), Sept. 29, 1977, 91 Stat. 920.)
+(Pub. L. 90–484, § 1, Aug. 13, 1968, 82 Stat. 750; Pub. L. 91–524, title II, § 204(b), Nov. 30, 1970, 84 Stat. 1362; Pub. L. 93–86, § 1(5)(B), Aug. 10, 1973, 87 Stat. 223; Pub. L. 95–113, title II, § 205(1), Sept. 29, 1977, 91 Stat. 920.)
 
 **Editorial Notes**
 
@@ -637,21 +637,21 @@ Section was enacted as part of Pub. L. 90–484, and not as part of the Dairy Pr
 
 The following Acts authorized indemnity payments for the periods ending as indicated:
 
-June 30, 1968—Pub. L. 90–95, § 1, Sept. 28, 1967, 81 Stat. 231.
+June 30, 1968—Pub. L. 90–95, § 1, Sept. 28, 1967, 81 Stat. 231.
 
-June 30, 1967—Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465.
+June 30, 1967—Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465.
 
-June 30, 1966—Pub. L. 89–253, § 24, Oct. 9, 1965, 79 Stat. 977.
+June 30, 1966—Pub. L. 89–253, § 24, Oct. 9, 1965, 79 Stat. 977.
 
-June 30, 1965—Pub. L. 89–16, title III, § 303, Apr. 30. 1965, 79 Stat. 108.
+June 30, 1965—Pub. L. 89–16, title III, § 303, Apr. 30. 1965, 79 Stat. 108.
 
-Jan. 31, 1965—Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525.
+Jan. 31, 1965—Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525.
 
 **Amendments**
 
 1977—Pub. L. 95–113 authorized indemnity payments for milk, or cows producing such milk, at a fair market value to any dairy farmer who is directed to remove his milk from commercial markets because of the presence of products of nuclear radiation or fallout if such contamination is not due to the fault of the farmer, or because of residues of chemicals or toxic substances not included under the first sentence of this section if such chemicals or toxic substances were not used in a manner contrary to applicable regulations or labeling instructions provided at the time of use and the contamination is not due to the fault of the farmer, and inserted provision that no indemnity payment may be made for contamination resulting from residues of chemicals or toxic substances if the Secretary determines within thirty days after the date of application for payment that other legal recourse is available to the farmer.
 
-1973—Pub. L. 93–86 inserted “for milk or cows producing such milk” after “The Secretary of Agriculture is authorized to make indemnity payments” and “(but only since August 10, 1973, in the case of indemnity payments not authorized prior to August 10, 1973)” after “January 1, 1964” and substituted “, and to make indemnity payments for dairy products at fair market value to” for “and” after “remove their milk” and “of” for “it contained” before “residues of chemicals”.
+1973—Pub. L. 93–86 inserted “for milk or cows producing such milk” after “The Secretary of Agriculture is authorized to make indemnity payments” and “(but only since August 10, 1973, in the case of indemnity payments not authorized prior to August 10, 1973)” after “January 1, 1964” and substituted “, and to make indemnity payments for dairy products at fair market value to” for “and” after “remove their milk” and “of” for “it contained” before “residues of chemicals”.
 
 1970—Pub. L. 91–524 inserted “and manufacturers of dairy products who have been directed since November 30, 1970, to remove their dairy products,” after “milk”, in first sentence, and substituted “Any indemnity payment to any farmer shall continue” for “Such indemnity payments shall continue to each dairy farmer” in second sentence.
 
@@ -661,11 +661,11 @@ Jan. 31, 1965—Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 5
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
 
-### § 4552. Authorization of appropriations for dairy farmer indemnities
+### § 4552. Authorization of appropriations for dairy farmer indemnities
 
 There is hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this subchapter.
 
-(Pub. L. 90–484, § 2, Aug. 13, 1968, 82 Stat. 750.)
+(Pub. L. 90–484, § 2, Aug. 13, 1968, 82 Stat. 750.)
 
 **Editorial Notes**
 
@@ -679,21 +679,21 @@ Section was enacted as part of Pub. L. 90–484, and not as part of the Dairy Pr
 
 The following Acts authorized indemnity payments for the periods ending as indicated:
 
-June 30, 1968—Pub. L. 90–95, § 2, Sept. 28, 1967, 81 Stat. 231.
+June 30, 1968—Pub. L. 90–95, § 2, Sept. 28, 1967, 81 Stat. 231.
 
-June 30, 1967—Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465.
+June 30, 1967—Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465.
 
-June 30, 1966—Pub. L. 89–253, § 24, Oct. 9, 1965, 79 Stat. 977.
+June 30, 1966—Pub. L. 89–253, § 24, Oct. 9, 1965, 79 Stat. 977.
 
-June 30, 1965—Pub. L. 89–16, title III, § 303, Apr. 30, 1965, 79 Stat. 108.
+June 30, 1965—Pub. L. 89–16, title III, § 303, Apr. 30, 1965, 79 Stat. 108.
 
-Jan. 31, 1965—Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525.
+Jan. 31, 1965—Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525.
 
-### § 4553. Expiration of dairy farmer indemnity program
+### § 4553. Expiration of dairy farmer indemnity program
 
 The authority granted under this subchapter shall expire on September 30, 2023.
 
-(Pub. L. 90–484, § 3, Aug. 13, 1968, 82 Stat. 750; Pub. L. 91–524, title II, § 204(a), Nov. 30, 1970, 84 Stat. 1361; Pub. L. 93–86, § 1(5)(A), Aug. 10, 1973, 87 Stat. 223; Pub. L. 95–113, title II, § 205(2), Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–98, title I, § 105, Dec. 22, 1981, 95 Stat. 1220; Pub. L. 99–198, title I, § 152, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 101–624, title I, § 110, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 107–171, title I, § 1503(b), May 13, 2002, 116 Stat. 207; Pub. L. 110–234, title I, § 1505, May 22, 2008, 122 Stat. 994; Pub. L. 110–246, § 4(a), title I, § 1505, June 18, 2008, 122 Stat. 1664, 1723; Pub. L. 113–79, title I, § 1425, Feb. 7, 2014, 128 Stat. 695; Pub. L. 115–334, title I, § 1402(b), Dec. 20, 2018, 132 Stat. 4518.)
+(Pub. L. 90–484, § 3, Aug. 13, 1968, 82 Stat. 750; Pub. L. 91–524, title II, § 204(a), Nov. 30, 1970, 84 Stat. 1361; Pub. L. 93–86, § 1(5)(A), Aug. 10, 1973, 87 Stat. 223; Pub. L. 95–113, title II, § 205(2), Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–98, title I, § 105, Dec. 22, 1981, 95 Stat. 1220; Pub. L. 99–198, title I, § 152, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 101–624, title I, § 110, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 107–171, title I, § 1503(b), May 13, 2002, 116 Stat. 207; Pub. L. 110–234, title I, § 1505, May 22, 2008, 122 Stat. 994; Pub. L. 110–246, § 4(a), title I, § 1505, June 18, 2008, 122 Stat. 1664, 1723; Pub. L. 113–79, title I, § 1425, Feb. 7, 2014, 128 Stat. 695; Pub. L. 115–334, title I, § 1402(b), Dec. 20, 2018, 132 Stat. 4518.)
 
 **Editorial Notes**
 
@@ -713,15 +713,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 The following Acts authorized indemnity payments for the periods ending as indicated:
 
-June 30, 1968—Pub. L. 90–95, § 3, Sept. 28, 1967, 81 Stat. 231.
+June 30, 1968—Pub. L. 90–95, § 3, Sept. 28, 1967, 81 Stat. 231.
 
-June 30, 1967—Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465.
+June 30, 1967—Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465.
 
-June 30, 1966—Pub. L. 89–253, § 24, Oct. 9, 1965, 79 Stat. 977.
+June 30, 1966—Pub. L. 89–253, § 24, Oct. 9, 1965, 79 Stat. 977.
 
-June 30, 1965—Pub. L. 89–16, title III, § 303, Apr. 30, 1965, 79 Stat. 108.
+June 30, 1965—Pub. L. 89–16, title III, § 303, Apr. 30, 1965, 79 Stat. 108.
 
-Jan. 31, 1965—Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525.
+Jan. 31, 1965—Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525.
 
 **Amendments**
 
@@ -729,7 +729,7 @@ Jan. 31, 1965—Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 5
 
 2014—Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Pub. L. 110–246, § 1505, substituted “2012” for “2007”.
+2008—Pub. L. 110–246, § 1505, substituted “2012” for “2007”.
 
 2002—Pub. L. 107–171 substituted “2007” for “1995”.
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 40—INDIAN DAMS SAFETY
 
-## § 3801. Findings
+## § 3801. Findings
 
 The Congress finds that—
 
@@ -29,15 +29,15 @@ The Congress finds that—
 
 **(5)** it is necessary to institute a regular dam maintenance and repair program, utilizing the expertise in the Bureau, Indian tribes, and other Federal agencies.
 
-(Pub. L. 103–302, § 2, Aug. 23, 1994, 108 Stat. 1560.)
+(Pub. L. 103–302, § 2, Aug. 23, 1994, 108 Stat. 1560.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 103–302, § 1, Aug. 23, 1994, 108 Stat. 1560, provided that: “This Act [enacting this chapter] may be cited as the ‘Indian Dams Safety Act of 1994’.”
+Pub. L. 103–302, § 1, Aug. 23, 1994, 108 Stat. 1560, provided that: “This Act [enacting this chapter] may be cited as the ‘Indian Dams Safety Act of 1994’.”
 
-## § 3802. Definitions
+## § 3802. Definitions
 
 As used in this chapter:
 
@@ -49,19 +49,19 @@ As used in this chapter:
 
 **(4)** The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or regional corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.], which is recognized as eligible for the special programs and services provided by the United States to Indian tribes because of their status as Indians.
 
-(Pub. L. 103–302, § 3, Aug. 23, 1994, 108 Stat. 1560; Pub. L. 104–303, title II, § 215(d), Oct. 12, 1996, 110 Stat. 3694.)
+(Pub. L. 103–302, § 3, Aug. 23, 1994, 108 Stat. 1560; Pub. L. 104–303, title II, § 215(d), Oct. 12, 1996, 110 Stat. 3694.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Amendments**
 
 1996—Par. (2). Pub. L. 104–303 made technical amendment to reference in original act which appears in text as reference to section 467 of title 33.
 
-## § 3803. Dam Safety Maintenance and Repair Program
+## § 3803. Dam Safety Maintenance and Repair Program
 
 **(a) Establishment**
 
@@ -131,9 +131,9 @@ To carry out the purposes of this chapter, the Secretary may obtain technical as
 
 **(h) Contract authority**
 
-In addition to any other authority established by law, the Secretary is authorized to contract with Indian tribes under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
+In addition to any other authority established by law, the Secretary is authorized to contract with Indian tribes under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 to carry out the Dam Safety Maintenance and Repair Program established under this chapter.
 
@@ -145,13 +145,13 @@ to carry out the Dam Safety Maintenance and Repair Program established under thi
 
 The report shall be submitted at the time the budget is required to be submitted under section 1105 of title 31 to the Subcommittee on Native American Affairs of the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate.
 
-(Pub. L. 103–302, § 4, Aug. 23, 1994, 108 Stat. 1561; Pub. L. 104–109, § 3, Feb. 12, 1996, 110 Stat. 764.)
+(Pub. L. 103–302, § 4, Aug. 23, 1994, 108 Stat. 1561; Pub. L. 104–109, § 3, Feb. 12, 1996, 110 Stat. 764.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (h), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (h), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
@@ -161,13 +161,13 @@ The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq
 
 Subcommittee on Native American Affairs changed to Subcommittee for Indigenous Peoples of the United States.
 
-## § 3804. Authorization of appropriations
+## § 3804. Authorization of appropriations
 
 There is authorized to be appropriated such sums as may be necessary to carry out this chapter. Funds provided under this chapter are to be considered nonreimbursable.
 
-(Pub. L. 103–302, § 5, Aug. 23, 1994, 108 Stat. 1563.)
+(Pub. L. 103–302, § 5, Aug. 23, 1994, 108 Stat. 1563.)
 
-## § 3805. Indian dam safety
+## § 3805. Indian dam safety
 
 **(a) Definitions** In this section:
 
@@ -351,9 +351,9 @@ Maintenance, repair, and replacement activities for Indian dams under this secti
 
 **(I)**
 
-**(aa)**  1
+**(aa)** 1
 
-<sup>1</sup>  So in original. No cl. (ii) has been enacted.
+<sup>1</sup> So in original. No cl. (ii) has been enacted.
 
 are owned by the Federal Government, as listed in the Federal inventory required by Executive Order 13327 (40 U.S.C. 121 note; relating to Federal real property asset management); and
 
@@ -487,9 +487,9 @@ The Secretary of the Interior shall establish within the Bureau of Indian Affair
 
 **(ff)** the Rocky Mountain Region;
 
-**(gg)** the Great Plans 2
+**(gg)** the Great Plans 2
 
-<sup>2</sup>  So in original. Probably should be “Plains”.
+<sup>2</sup> So in original. Probably should be “Plains”.
 
 Region; and
 
@@ -647,7 +647,7 @@ The program shall terminate on the date that is 11 years after December 16, 2016
 
 Of the amounts authorized to be expended from either Fund, $250,000 shall be made available from either Fund during each of fiscal years 2017 through 2026 to carry out this subsection, to remain available until expended.
 
-(Pub. L. 114–322, title III, § 3101, Dec. 16, 2016, 130 Stat. 1740; Pub. L. 115–270, title IV, § 4314, Oct. 23, 2018, 132 Stat. 3893.)
+(Pub. L. 114–322, title III, § 3101, Dec. 16, 2016, 130 Stat. 1740; Pub. L. 115–270, title IV, § 4314, Oct. 23, 2018, 132 Stat. 3893.)
 
 **Editorial Notes**
 
@@ -655,7 +655,7 @@ Of the amounts authorized to be expended from either Fund, $250,000 shall be mad
 
 The Indian Dams Safety Act of 1994, referred to in subsecs. (c)(1)(C), (2)(A)(i), (B)(i), (3)(A)(i), (B)(vi) and (d)(2)(A), (B), is Pub. L. 103–302, Aug. 23, 1994, 108 Stat. 1560, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3801 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(A)(iii)(I)(bb), (B)(ii)(I)(bb), (5)(E), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(A)(iii)(I)(bb), (B)(ii)(I)(bb), (5)(E), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -663,12 +663,12 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 
 **Amendments**
 
-2018—Pub. L. 115–270, § 4314(1), substituted “each of fiscal years 2017 through 2030” for “each of fiscal years 2017 through 2023” wherever appearing.
+2018—Pub. L. 115–270, § 4314(1), substituted “each of fiscal years 2017 through 2030” for “each of fiscal years 2017 through 2023” wherever appearing.
 
-Subsec. (b)(1)(F). Pub. L. 115–270, § 4314(2)(A), substituted “September 30, 2030” for “September 30, 2023” in introductory provisions.
+Subsec. (b)(1)(F). Pub. L. 115–270, § 4314(2)(A), substituted “September 30, 2030” for “September 30, 2023” in introductory provisions.
 
-Subsec. (b)(2)(F). Pub. L. 115–270, § 4314(2)(B), substituted “September 30, 2030” for “September 30, 2023” in introductory provisions.
+Subsec. (b)(2)(F). Pub. L. 115–270, § 4314(2)(B), substituted “September 30, 2030” for “September 30, 2023” in introductory provisions.
 
-Subsec. (f)(2). Pub. L. 115–270, § 4314(3)(A), substituted “11 years” for “4 years”.
+Subsec. (f)(2). Pub. L. 115–270, § 4314(3)(A), substituted “11 years” for “4 years”.
 
-Subsec. (f)(3). Pub. L. 115–270, § 4314(3)(B), substituted “each of fiscal years 2017 through 2026” for “each of fiscal years 2017, 2018, and 2019”.
+Subsec. (f)(3). Pub. L. 115–270, § 4314(3)(B), substituted “each of fiscal years 2017 through 2026” for “each of fiscal years 2017, 2018, and 2019”.

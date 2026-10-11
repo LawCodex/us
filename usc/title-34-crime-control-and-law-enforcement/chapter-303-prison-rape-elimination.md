@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 303—PRISON RAPE ELIMINATION
 
-## § 30301. Findings
+## § 30301. Findings
 
 Congress makes the following findings:
 
@@ -69,7 +69,7 @@ Congress makes the following findings:
 
 **(D)** the risk of recidivism, civil strife, and violent crime by individuals who have been brutalized by prison rape.
 
-(Pub. L. 108–79, § 2, Sept. 4, 2003, 117 Stat. 972.)
+(Pub. L. 108–79, § 2, Sept. 4, 2003, 117 Stat. 972.)
 
 **Editorial Notes**
 
@@ -107,7 +107,7 @@ The Director of the Office of Management and Budget is hereby authorized and dir
 
 Barack Obama.
 
-## § 30302. Purposes
+## § 30302. Purposes
 
 The purposes of this chapter are to—
 
@@ -129,7 +129,7 @@ The purposes of this chapter are to—
 
 **(9)** reduce the costs that prison rape imposes on interstate commerce.
 
-(Pub. L. 108–79, § 3, Sept. 4, 2003, 117 Stat. 974.)
+(Pub. L. 108–79, § 3, Sept. 4, 2003, 117 Stat. 974.)
 
 **Editorial Notes**
 
@@ -137,7 +137,7 @@ The purposes of this chapter are to—
 
 Section was formerly classified to section 15602 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 30303. National prison rape statistics, data, and research
+## § 30303. National prison rape statistics, data, and research
 
 **(a) Annual comprehensive statistical review**
 
@@ -263,7 +263,7 @@ The report shall divide the prisons surveyed into three categories. One category
 
 There are authorized to be appropriated $15,000,000 for each of fiscal years 2004 through 2010 to carry out this section.
 
-(Pub. L. 108–79, § 4, Sept. 4, 2003, 117 Stat. 975; Pub. L. 109–108, title I, § 113(a), Nov. 22, 2005, 119 Stat. 2305.)
+(Pub. L. 108–79, § 4, Sept. 4, 2003, 117 Stat. 975; Pub. L. 109–108, title I, § 113(a), Nov. 22, 2005, 119 Stat. 2305.)
 
 **Editorial Notes**
 
@@ -273,11 +273,11 @@ Section was formerly classified to section 15603 of Title 42, The Public Health 
 
 **Amendments**
 
-2005—Subsec. (a)(5). Pub. L. 109–108, § 113(a)(1), inserted “, except as authorized in paragraph (7)” before period at end.
+2005—Subsec. (a)(5). Pub. L. 109–108, § 113(a)(1), inserted “, except as authorized in paragraph (7)” before period at end.
 
-Subsec. (a)(7). Pub. L. 109–108, § 113(a)(2), added par. (7).
+Subsec. (a)(7). Pub. L. 109–108, § 113(a)(2), added par. (7).
 
-## § 30304. Prison rape prevention and prosecution
+## § 30304. Prison rape prevention and prosecution
 
 **(a) Information and assistance**
 
@@ -303,7 +303,7 @@ The report required under paragraph (1) shall summarize the activities of the De
 
 There are authorized to be appropriated $5,000,000 for each of fiscal years 2004 through 2010 to carry out this section.
 
-(Pub. L. 108–79, § 5, Sept. 4, 2003, 117 Stat. 978.)
+(Pub. L. 108–79, § 5, Sept. 4, 2003, 117 Stat. 978.)
 
 **Editorial Notes**
 
@@ -311,7 +311,7 @@ There are authorized to be appropriated $5,000,000 for each of fiscal years 2004
 
 Section was formerly classified to section 15604 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 30305. Grants to protect inmates and safeguard communities
+## § 30305. Grants to protect inmates and safeguard communities
 
 **(a) Grants authorized**
 
@@ -407,7 +407,7 @@ There are authorized to be appropriated for grants under this section $40,000,00
 
 Of amounts made available for grants under this section, not less than 50 percent shall be available only for activities specified in paragraph (1) of subsection (b).
 
-(Pub. L. 108–79, § 6, Sept. 4, 2003, 117 Stat. 978; Pub. L. 114–324, § 7(1), Dec. 16, 2016, 130 Stat. 1951.)
+(Pub. L. 108–79, § 6, Sept. 4, 2003, 117 Stat. 978; Pub. L. 114–324, § 7(1), Dec. 16, 2016, 130 Stat. 1951.)
 
 **Editorial Notes**
 
@@ -423,7 +423,7 @@ Section was formerly classified to section 15605 of Title 42, The Public Health 
 
 “(ii) will consider adopting all national prison rape standards that are promulgated under this chapter after such date;”.
 
-## § 30306. National Prison Rape Elimination Commission
+## § 30306. National Prison Rape Elimination Commission
 
 **(a) Establishment**
 
@@ -663,7 +663,7 @@ The Commission shall terminate on the date that is 60 days after the date on whi
 
 The Commission shall be exempt from chapter 10 of title 5.
 
-(Pub. L. 108–79, § 7, Sept. 4, 2003, 117 Stat. 980; Pub. L. 108–447, div. B, title I, § 123(1), Dec. 8, 2004, 118 Stat. 2871; Pub. L. 109–108, title I, § 113(b), Nov. 22, 2005, 119 Stat. 2305; Pub. L. 109–162, title XI, § 1181, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 110–199, title II, § 261, Apr. 9, 2008, 122 Stat. 694; Pub. L. 117–286, § 4(a)(212), Dec. 27, 2022, 136 Stat. 4329.)
+(Pub. L. 108–79, § 7, Sept. 4, 2003, 117 Stat. 980; Pub. L. 108–447, div. B, title I, § 123(1), Dec. 8, 2004, 118 Stat. 2871; Pub. L. 109–108, title I, § 113(b), Nov. 22, 2005, 119 Stat. 2305; Pub. L. 109–162, title XI, § 1181, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 110–199, title II, § 261, Apr. 9, 2008, 122 Stat. 694; Pub. L. 117–286, § 4(a)(212), Dec. 27, 2022, 136 Stat. 4329.)
 
 **Editorial Notes**
 
@@ -689,7 +689,7 @@ Section was formerly classified to section 15606 of Title 42, The Public Health 
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of this title.
 
-## § 30307. Adoption and effect of national standards
+## § 30307. Adoption and effect of national standards
 
 **(a) Publication of proposed standards**
 
@@ -927,7 +927,7 @@ The PREA Management Office shall establish a system, to be administered by the O
 
 The Director of the Bureau of Prisons shall comply with each request for documentation necessary to conduct an audit under subsection (a), which is made by a certified auditor in accordance with the provisions of the certification agreement described in subparagraph (A)(ii). The Director of the Bureau of Prisons may require an auditor to sign a confidentiality agreement or other agreement designed to address the auditor’s use of personally identifiable information, except that such an agreement may not limit an auditor’s ability to provide all such documentation to the Department of Justice, as required under section 115.401(j) of title 28, Code of Federal Regulations.
 
-(Pub. L. 108–79, § 8, Sept. 4, 2003, 117 Stat. 985; Pub. L. 113–4, title XI, § 1101(c), Mar. 7, 2013, 127 Stat. 134; Pub. L. 114–324, §§ 5, 7(2), Dec. 16, 2016, 130 Stat. 1950, 1951; Pub. L. 115–274, § 4, Oct. 31, 2018, 132 Stat. 4161.)
+(Pub. L. 108–79, § 8, Sept. 4, 2003, 117 Stat. 985; Pub. L. 113–4, title XI, § 1101(c), Mar. 7, 2013, 127 Stat. 134; Pub. L. 114–324, §§ 5, 7(2), Dec. 16, 2016, 130 Stat. 1950, 1951; Pub. L. 115–274, § 4, Oct. 31, 2018, 132 Stat. 4161.)
 
 **Editorial Notes**
 
@@ -939,19 +939,19 @@ Section was formerly classified to section 15607 of Title 42, The Public Health 
 
 2018—Subsec. (e)(8). Pub. L. 115–274 amended par. (8) generally. Prior to amendment, text read as follows: “An individual seeking certification by the Department of Justice to serve as an auditor of prison compliance with the national standards described in subsection (a) shall, upon request, submit fingerprints in the manner determined by the Attorney General for criminal history record checks of the applicable State and Federal Bureau of Investigation repositories.”
 
-2016—Subsec. (e)(1)(A)(iii). Pub. L. 114–324, § 5, added cl. (iii).
+2016—Subsec. (e)(1)(A)(iii). Pub. L. 114–324, § 5, added cl. (iii).
 
-Subsec. (e)(2). Pub. L. 114–324, § 7(2)(A), added par. (2) and struck out former par. (2) which read as follows: “For each fiscal year, any amount that a State would otherwise receive for prison purposes for that fiscal year under a grant program covered by this subsection shall be reduced by 5 percent, unless the chief executive of the State submits to the Attorney General—
+Subsec. (e)(2). Pub. L. 114–324, § 7(2)(A), added par. (2) and struck out former par. (2) which read as follows: “For each fiscal year, any amount that a State would otherwise receive for prison purposes for that fiscal year under a grant program covered by this subsection shall be reduced by 5 percent, unless the chief executive of the State submits to the Attorney General—
 
 “(A) a certification that the State has adopted, and is in full compliance with, the national standards described in subsection (a); or
 
 “(B) an assurance that not less than 5 percent of such amount shall be used only for the purpose of enabling the State to adopt, and achieve full compliance with, those national standards, so as to ensure that a certification under subparagraph (A) may be submitted in future years.”
 
-Subsec. (e)(8). Pub. L. 114–324, § 7(2)(B), added par. (8).
+Subsec. (e)(8). Pub. L. 114–324, § 7(2)(B), added par. (8).
 
 2013—Subsecs. (c) to (e). Pub. L. 113–4 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
-## § 30308. Requirement that accreditation organizations adopt accreditation standards
+## § 30308. Requirement that accreditation organizations adopt accreditation standards
 
 **(a) Eligibility for Federal grants**
 
@@ -963,7 +963,7 @@ Notwithstanding any other provision of law, an organization responsible for the 
 
 **(2)** At all times after 1 year after the date of the adoption of the final rule under section 30307(a)(4) of this title, the organization shall, in addition to any other such standards that it may promulgate relevant to the detection, prevention, reduction, and punishment of prison rape, adopt accreditation standards consistent with the national standards adopted pursuant to such final rule.
 
-(Pub. L. 108–79, § 9, Sept. 4, 2003, 117 Stat. 987.)
+(Pub. L. 108–79, § 9, Sept. 4, 2003, 117 Stat. 987.)
 
 **Editorial Notes**
 
@@ -971,7 +971,7 @@ Notwithstanding any other provision of law, an organization responsible for the 
 
 Section was formerly classified to section 15608 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 30309. Definitions
+## § 30309. Definitions
 
 In this chapter, the following definitions shall apply:
 
@@ -1039,7 +1039,7 @@ The term “sexual fondling” means the touching of the private body parts of a
 
 **(C)** the use of a health care provider’s hands or fingers and the use of instruments to perform body cavity searches in order to maintain security and safety within the prison or detention facility, provided that the search is conducted in a manner consistent with constitutional requirements.
 
-(Pub. L. 108–79, § 10, Sept. 4, 2003, 117 Stat. 987.)
+(Pub. L. 108–79, § 10, Sept. 4, 2003, 117 Stat. 987.)
 
 **Editorial Notes**
 

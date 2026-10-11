@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 836(b)(6)(B)(ii), Aug. 13, 2018, 132 Stat. 1861, substituted “List of laws inapplicable to procurements of commercial products and commercial services” for “List of laws inapplicable to procurements of commercial items” in item 1906.
+2018—Pub. L. 115–232, div. A, title VIII, § 836(b)(6)(B)(ii), Aug. 13, 2018, 132 Stat. 1861, substituted “List of laws inapplicable to procurements of commercial products and commercial services” for “List of laws inapplicable to procurements of commercial items” in item 1906.
 
-2012—Pub. L. 112–194, § 2(a)(2), Oct. 5, 2012, 126 Stat. 1447, added item 1909.
+2012—Pub. L. 112–194, § 2(a)(2), Oct. 5, 2012, 126 Stat. 1447, added item 1909.
 
-## § 1901. Simplified acquisition procedures
+## § 1901. Simplified acquisition procedures
 
 **(a) When Procedures Are To Be Used.—** To promote efficiency and economy in contracting and to avoid unnecessary burdens for agencies and contractors, the Federal Acquisition Regulation shall provide for special simplified procedures for purchases of property and services for amounts—
 
@@ -45,13 +45,13 @@ retrieved: 2026-10-11
 
 **(3)** shall include in the contract file a written description of the procedures used in awarding the contract and the number of offers received.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3719; Pub. L. 115–232, div. A, title VIII, § 836(b)(4), Aug. 13, 2018, 132 Stat. 1861; Pub. L. 117–81, div. A, title XVII, § 1702(h)(6), Dec. 27, 2021, 135 Stat. 2158.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3719; Pub. L. 115–232, div. A, title VIII, § 836(b)(4), Aug. 13, 2018, 132 Stat. 1861; Pub. L. 117–81, div. A, title XVII, § 1702(h)(6), Dec. 27, 2021, 135 Stat. 2158.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1901 | 41:427. | Pub. L. 93–400, § 31, as added Pub. L. 103–355, title IV, § 4201(a), Oct. 13, 1994, 108 Stat. 3342; Pub. L. 104–106, title XLII, § 4202(c), title XLIII, § 4302(b), Feb. 10, 1996, 110 Stat. 653, 658, as amended Pub. L. 104–201, title X, § 1074(b)(6) (less effective date), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 105–85, title VIII, § 850(d), Nov. 18, 1997, 111 Stat. 1848. |
+| 1901 | 41:427. | Pub. L. 93–400, § 31, as added Pub. L. 103–355, title IV, § 4201(a), Oct. 13, 1994, 108 Stat. 3342; Pub. L. 104–106, title XLII, § 4202(c), title XLIII, § 4302(b), Feb. 10, 1996, 110 Stat. 653, 658, as amended Pub. L. 104–201, title X, § 1074(b)(6) (less effective date), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 105–85, title VIII, § 850(d), Nov. 18, 1997, 111 Stat. 1848. |
 
 Section 31(e) of the Office of Federal Procurement Policy Act (41 U.S.C. 427(e)) is omitted as obsolete.
 
@@ -63,9 +63,9 @@ In subsection (e)(2), the reference to section 253 of this title is limited to s
 
 2021—Subsec. (e)(2). Pub. L. 117–81 substituted “section 3204(e)” for “section 2304(f)”.
 
-2018—Subsec. (a)(2). Pub. L. 115–232, § 836(b)(4)(A), substituted “commercial products or commercial services” for “commercial items”.
+2018—Subsec. (a)(2). Pub. L. 115–232, § 836(b)(4)(A), substituted “commercial products or commercial services” for “commercial items”.
 
-Subsec. (e). Pub. L. 115–232, § 836(b)(4)(B), substituted “Commercial Products and Commercial Services” for “Commercial Items” in heading and, in introductory provisions, substituted “commercial products or commercial services” for “commercial items”.
+Subsec. (e). Pub. L. 115–232, § 836(b)(4)(B), substituted “Commercial Products and Commercial Services” for “Commercial Items” in heading and, in introductory provisions, substituted “commercial products or commercial services” for “commercial items”.
 
 **Effective Date of 2018 Amendment**
 
@@ -75,7 +75,7 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **Procurement Through Commercial E-Commerce Portals**
 
-Pub. L. 115–91, div. A, title VIII, § 846, Dec. 12, 2017, 131 Stat. 1483, as amended by Pub. L. 115–232, div. A, title VIII, § 838(a), Aug. 13, 2018, 132 Stat. 1875; Pub. L. 117–81, div. A, title VIII, § 853, title XVII, § 1702(i)(2), Dec. 27, 2021, 135 Stat. 1848, 2159, provided that:
+Pub. L. 115–91, div. A, title VIII, § 846, Dec. 12, 2017, 131 Stat. 1483, as amended by Pub. L. 115–232, div. A, title VIII, § 838(a), Aug. 13, 2018, 132 Stat. 1875; Pub. L. 117–81, div. A, title VIII, § 853, title XVII, § 1702(i)(2), Dec. 27, 2021, 135 Stat. 1848, 2159, provided that:
 
 > **“(a) Establishment of Program.—** The Administrator shall establish a program to procure commercial products through commercial e-commerce portals for purposes of enhancing competition, expediting procurement, enabling market research, and ensuring reasonable pricing of commercial products. The Administrator shall carry out the program in accordance with this section, through multiple contracts with multiple commercial e-commerce portal providers, and shall design the program to be implemented in phases with the objective of enabling Government-wide use of such portals.
 
@@ -205,7 +205,7 @@ Pub. L. 115–91, div. A, title VIII, § 846, Dec. 12, 2017, 131 Stat. 1483, a
 
 > **“(5) Small business concern.—** The term ‘small business concern’ has the meaning given such term under section 3 of the Small Business Act (15 U.S.C. 632).”
 
-## § 1902. Procedures applicable to purchases below micro-purchase threshold
+## § 1902. Procedures applicable to purchases below micro-purchase threshold
 
 **(a) Definition.—**
 
@@ -231,7 +231,7 @@ Pub. L. 115–91, div. A, title VIII, § 846, Dec. 12, 2017, 131 Stat. 1483, a
 
 **(f) Implementation Through Federal Acquisition Regulation.—** This section shall be implemented through the Federal Acquisition Regulation.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3720; Pub. L. 114–328, div. A, title II, § 217(b), Dec. 23, 2016, 130 Stat. 2051; Pub. L. 115–91, div. A, title VIII, § 806(a), Dec. 12, 2017, 131 Stat. 1456; Pub. L. 115–232, div. A, title VIII, §§ 812(a)(2)(C)(ix), 821(b), Aug. 13, 2018, 132 Stat. 1847, 1853.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3720; Pub. L. 114–328, div. A, title II, § 217(b), Dec. 23, 2016, 130 Stat. 2051; Pub. L. 115–91, div. A, title VIII, § 806(a), Dec. 12, 2017, 131 Stat. 1456; Pub. L. 115–232, div. A, title VIII, §§ 812(a)(2)(C)(ix), 821(b), Aug. 13, 2018, 132 Stat. 1847, 1853.)
 
 **Adjustment of Micro-Purchase Threshold**
 
@@ -241,35 +241,35 @@ For adjustment of dollar threshold pursuant to section 1908 of this title, see d
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1902 | 41:428. | Pub. L. 93–400, § 32, as added Pub. L. 103–355, title IV, § 4301(a), Oct. 13, 1994, 108 Stat. 3346; Pub. L. 104–106, title XLIII, §§ 4304(b)(4), (c)(3), 4311, Feb. 10, 1996, 110 Stat. 664, 671. |
+| 1902 | 41:428. | Pub. L. 93–400, § 32, as added Pub. L. 103–355, title IV, § 4301(a), Oct. 13, 1994, 108 Stat. 3346; Pub. L. 104–106, title XLIII, §§ 4304(b)(4), (c)(3), 4311, Feb. 10, 1996, 110 Stat. 664, 671. |
 
 **Senate Revision Amendment**
 
-In subsecs. (a), (d), and (e), “$3,000” substituted for “$2,500” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
+In subsecs. (a), (d), and (e), “$3,000” substituted for “$2,500” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–232, § 821(b), struck out “sections 2338 and 2339 of title 10 and” after “Except as provided in”.
+2018—Subsec. (a)(1). Pub. L. 115–232, § 821(b), struck out “sections 2338 and 2339 of title 10 and” after “Except as provided in”.
 
-Subsec. (b)(1). Pub. L. 115–232, § 812(a)(2)(C)(ix), struck out “, section 2323 of title 10,” after “(15 U.S.C. 637(a))”.
+Subsec. (b)(1). Pub. L. 115–232, § 812(a)(2)(C)(ix), struck out “, section 2323 of title 10,” after “(15 U.S.C. 637(a))”.
 
 2017—Subsec. (a)(1). Pub. L. 115–91 substituted “$10,000” for “$3,000”.
 
-2016—Subsec. (a). Pub. L. 114–328, § 217(b)(1), designated existing provisions as par. (1), substituted “Except as provided in sections 2338 and 2339 of title 10 and paragraph (2) of this subsection, for purposes” for “For purposes” and added par. (2).
+2016—Subsec. (a). Pub. L. 114–328, § 217(b)(1), designated existing provisions as par. (1), substituted “Except as provided in sections 2338 and 2339 of title 10 and paragraph (2) of this subsection, for purposes” for “For purposes” and added par. (2).
 
-Subsecs. (d), (e). Pub. L. 114–328, § 217(b)(2), substituted “with a price not greater than the micro-purchase threshold” for “not greater than $3,000”.
+Subsecs. (d), (e). Pub. L. 114–328, § 217(b)(2), substituted “with a price not greater than the micro-purchase threshold” for “not greater than $3,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Convenience Checks**
 
-Pub. L. 115–91, div. A, title VIII, § 806(b), Dec. 12, 2017, 131 Stat. 1456, provided that: “A convenience check may not be used for an amount in excess of one half of the micro-purchase threshold under section 1902(a) of title 41, United States Code, or a lower amount established by the head of the agency.”
+Pub. L. 115–91, div. A, title VIII, § 806(b), Dec. 12, 2017, 131 Stat. 1456, provided that: “A convenience check may not be used for an amount in excess of one half of the micro-purchase threshold under section 1902(a) of title 41, United States Code, or a lower amount established by the head of the agency.”
 
 **Micro-Purchase Threshold for Procurement Solicitations by Research Institutions**
 
-Pub. L. 114–329, div. A, title II, § 207, Jan. 6, 2017, 130 Stat. 3001, provided that:
+Pub. L. 114–329, div. A, title II, § 207, Jan. 6, 2017, 130 Stat. 3001, provided that:
 
 > **“(a) Micro-purchase Threshold.—** The micro-purchase threshold for procurement activities administered under sections 6303 through 6305 of title 31, United States Code, awarded by the Foundation, the National Aeronautics and Space Administration, or the National Institute of Standards and Technology to institutions of higher education, or related or affiliated nonprofit entities, or to nonprofit research organizations or independent research institutes is—
 
@@ -283,11 +283,11 @@ Pub. L. 114–329, div. A, title II, § 207, Jan. 6, 2017, 130 Stat. 3001, pro
 
 **Micro-Purchase Guidelines**
 
-Pub. L. 111–240, title I, § 1332, Sept. 27, 2010, 124 Stat. 2541, provided that: “Not later than 1 year after the date of enactment of this Act [Sept. 27, 2010], the Director of the Office of Management and Budget, in coordination with the Administrator of General Services, shall issue guidelines regarding the analysis of purchase card expenditures to identify opportunities for achieving and accurately measuring fair participation of small business concerns in purchases in an amount not in excess of the micro-purchase threshold, as defined in section 32 of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 428) [now 41 U.S.C. 1902] (in this section referred to as ‘micro-purchases’), consistent with the national policy on small business participation in Federal procurements set forth in sections 2(a) and 15(g) of the Small Business Act (15 U.S.C. 631(a) and 644(g)), and dissemination of best practices for participation of small business concerns in micro-purchases.”
+Pub. L. 111–240, title I, § 1332, Sept. 27, 2010, 124 Stat. 2541, provided that: “Not later than 1 year after the date of enactment of this Act [Sept. 27, 2010], the Director of the Office of Management and Budget, in coordination with the Administrator of General Services, shall issue guidelines regarding the analysis of purchase card expenditures to identify opportunities for achieving and accurately measuring fair participation of small business concerns in purchases in an amount not in excess of the micro-purchase threshold, as defined in section 32 of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 428) [now 41 U.S.C. 1902] (in this section referred to as ‘micro-purchases’), consistent with the national policy on small business participation in Federal procurements set forth in sections 2(a) and 15(g) of the Small Business Act (15 U.S.C. 631(a) and 644(g)), and dissemination of best practices for participation of small business concerns in micro-purchases.”
 
 [For definition of “small business concern” as used in section 1332 of Pub. L. 111–240, set out above, see section 1001 of Pub. L. 111–240, set out as a note under section 632 of Title 15, Commerce and Trade.]
 
-## § 1903. Special emergency procurement authority
+## § 1903. Special emergency procurement authority
 
 **(a) Applicability.—** The authorities provided in subsections (b) and (c) apply with respect to a procurement of property or services by or for an executive agency that the head of the executive agency determines are to be used—
 
@@ -325,13 +325,13 @@ Pub. L. 111–240, title I, § 1332, Sept. 27, 2010, 124 Stat. 2541, provided 
 
 **(B)** cost or pricing data requirements (commonly referred to as truth in negotiating) under chapter 35 of this title and chapter 271 of title 10.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3721; Pub. L. 114–92, div. A, title VIII, § 816, Nov. 25, 2015, 129 Stat. 897; Pub. L. 114–328, div. A, title VIII, § 816, title XVI, § 1641, Dec. 23, 2016, 130 Stat. 2272, 2600; Pub. L. 115–232, div. A, title VIII, § 836(b)(5), Aug. 13, 2018, 132 Stat. 1861; Pub. L. 117–81, div. A, title XVII, § 1702(h)(7), Dec. 27, 2021, 135 Stat. 2158.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3721; Pub. L. 114–92, div. A, title VIII, § 816, Nov. 25, 2015, 129 Stat. 897; Pub. L. 114–328, div. A, title VIII, § 816, title XVI, § 1641, Dec. 23, 2016, 130 Stat. 2272, 2600; Pub. L. 115–232, div. A, title VIII, § 836(b)(5), Aug. 13, 2018, 132 Stat. 1861; Pub. L. 117–81, div. A, title XVII, § 1702(h)(7), Dec. 27, 2021, 135 Stat. 2158.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1903(a) | 41:428a(a), (e). | Pub. L. 93–400, § 32A, as added Pub. L. 108–136, title XIV, § 1443(a)(1), Nov. 24, 2003, 117 Stat. 1675; Pub. L. 108–375, title VIII, § 822, Oct. 28, 2004, 118 Stat. 2016. |
+| 1903(a) | 41:428a(a), (e). | Pub. L. 93–400, § 32A, as added Pub. L. 108–136, title XIV, § 1443(a)(1), Nov. 24, 2003, 117 Stat. 1675; Pub. L. 108–375, title VIII, § 822, Oct. 28, 2004, 118 Stat. 2016. |
 | 1903(b) | 41:428a(b), (c). |  |
 | 1903(c) | 41:428a(d). |  |
 
@@ -339,27 +339,27 @@ Pub. L. 111–240, title I, § 1332, Sept. 27, 2010, 124 Stat. 2541, provided 
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 9 of part I of the Act is classified generally to part IX [§ 2292 et seq.] of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 9 of part I of the Act is classified generally to part IX [§ 2292 et seq.] of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 **Amendments**
 
-2021—Subsec. (b)(3). Pub. L. 117–81, § 1702(h)(7)(A), substituted “section 3205(a)(2)” for “section 2304(g)(1)(B)”.
+2021—Subsec. (b)(3). Pub. L. 117–81, § 1702(h)(7)(A), substituted “section 3205(a)(2)” for “section 2304(g)(1)(B)”.
 
-Subsec. (c)(2)(B). Pub. L. 117–81, § 1701(h)(7)(B), substituted “chapter 271” for “section 2306a”.
+Subsec. (c)(2)(B). Pub. L. 117–81, § 1701(h)(7)(B), substituted “chapter 271” for “section 2306a”.
 
-2018—Subsec. (c). Pub. L. 115–232, § 836(b)(5)(A), substituted “Commercial Product or Commercial Service” for “Commercial Item” in heading.
+2018—Subsec. (c). Pub. L. 115–232, § 836(b)(5)(A), substituted “Commercial Product or Commercial Service” for “Commercial Item” in heading.
 
-Subsec. (c)(1). Pub. L. 115–232, § 836(b)(5)(B), substituted “as a commercial product or a commercial service” for “as a commercial item”.
+Subsec. (c)(1). Pub. L. 115–232, § 836(b)(5)(B), substituted “as a commercial product or a commercial service” for “as a commercial item”.
 
-Subsec. (c)(2). Pub. L. 115–232, § 836(b)(5)(C), substituted “for a product or service treated as a commercial product or a commercial service” for “for an item or service treated as a commercial item” in introductory provisions.
+Subsec. (c)(2). Pub. L. 115–232, § 836(b)(5)(C), substituted “for a product or service treated as a commercial product or a commercial service” for “for an item or service treated as a commercial item” in introductory provisions.
 
-2016—Subsec. (a)(2). Pub. L. 114–328, § 1641, inserted “cyber,” before “nuclear,”.
+2016—Subsec. (a)(2). Pub. L. 114–328, § 1641, inserted “cyber,” before “nuclear,”.
 
-Subsec. (a)(3), (4). Pub. L. 114–328, § 816, added pars. (3) and (4).
+Subsec. (a)(3), (4). Pub. L. 114–328, § 816, added pars. (3) and (4).
 
-2015—Subsec. (b)(2)(A). Pub. L. 114–92, § 816(1), substituted “$750,000” for “$250,000”.
+2015—Subsec. (b)(2)(A). Pub. L. 114–92, § 816(1), substituted “$750,000” for “$250,000”.
 
-Subsec. (b)(2)(B). Pub. L. 114–92, § 816(2), substituted “$1,500,000” for “$1,000,000”.
+Subsec. (b)(2)(B). Pub. L. 114–92, § 816(2), substituted “$1,500,000” for “$1,000,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -367,17 +367,17 @@ Subsec. (b)(2)(B). Pub. L. 114–92, § 816(2), substituted “$1,500,000” f
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 1904. Certain transactions for defense against attack
+## § 1904. Certain transactions for defense against attack
 
 **(a) Authority.—**
 
-**(1) In general.—** The head of an executive agency that engages in basic research, applied research, advanced research, and development projects that are necessary to the responsibilities of the executive agency in the field of research and development and have the potential to facilitate defense against or recovery from terrorism or nuclear, biological, chemical, or radiological attack may exercise the same authority (subject to the same restrictions and conditions) with respect to the research and projects as the Secretary of Defense may exercise under section 2371 1
+**(1) In general.—** The head of an executive agency that engages in basic research, applied research, advanced research, and development projects that are necessary to the responsibilities of the executive agency in the field of research and development and have the potential to facilitate defense against or recovery from terrorism or nuclear, biological, chemical, or radiological attack may exercise the same authority (subject to the same restrictions and conditions) with respect to the research and projects as the Secretary of Defense may exercise under section 2371 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 10, except for subsections (b) and (f) of section 2371.
 
-**(2) Prototype projects.—** The head of an executive agency, under the authority of paragraph (1), may carry out prototype projects that meet the requirements of paragraph (1) in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 <sup>1</sup> of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160, 10 U.S.C. 2371 note), including that, to the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out projects under section 845(a) of that Act and that the period of authority to carry out projects under section 845(a) of that Act terminates as provided in section 845(i) of that Act.
+**(2) Prototype projects.—** The head of an executive agency, under the authority of paragraph (1), may carry out prototype projects that meet the requirements of paragraph (1) in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 <sup>1</sup> of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160, 10 U.S.C. 2371 note), including that, to the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out projects under section 845(a) of that Act and that the period of authority to carry out projects under section 845(a) of that Act terminates as provided in section 845(i) of that Act.
 
 **(3) Application of requirements and conditions.—** In applying the requirements and conditions of section 845 of that Act under this subsection—
 
@@ -393,17 +393,17 @@ of title 10, except for subsections (b) and (f) of section 2371.
 
 **(b) Regulations.—** The Director of the Office of Management and Budget shall prescribe regulations to carry out this section. No transaction may be conducted under the authority of this section before the regulations take effect.
 
-**(c) Annual Report.—** The annual report of the head of an executive agency that is required under section 2371(h) <sup>1</sup> of title 10, as applied to the head of the executive agency by subsection (a), shall be submitted to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives.
+**(c) Annual Report.—** The annual report of the head of an executive agency that is required under section 2371(h) <sup>1</sup> of title 10, as applied to the head of the executive agency by subsection (a), shall be submitted to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives.
 
 **(d) Termination of Authority.—** The authority to carry out transactions under subsection (a) terminates on September 30, 2008.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3721.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3721.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1904 | 41:428a note. | Pub. L. 108–136, title XIV, § 1441, Nov. 24, 2003, 117 Stat. 1673. |
+| 1904 | 41:428a note. | Pub. L. 108–136, title XIV, § 1441, Nov. 24, 2003, 117 Stat. 1673. |
 
 In subsection (a)(2), the reference to subsection (g) of section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160, 10 U.S.C. 2371 note) is changed to subsection (i) because of section 847(c)(1) of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136, 117 Stat. 1554), which redesignated subsection (g) as subsection (h), and section 823(2) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163, 119 Stat. 3387), which redesignated subsection (h) as subsection (i).
 
@@ -417,11 +417,11 @@ In subsection (c), the words “Committee on Homeland Security and Governmental 
 
 **References in Text**
 
-Section 2371 of title 10, referred to in subsec. (a)(1), was renumbered section 4021 of title 10 by Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151.
+Section 2371 of title 10, referred to in subsec. (a)(1), was renumbered section 4021 of title 10 by Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151.
 
-Section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160, 10 U.S.C. 2371 note), referred to in subsec. (a)(2), was repealed by Pub. L. 114–92, div. A, title VIII, § 815(c), Nov. 25, 2015, 129 Stat. 896.
+Section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160, 10 U.S.C. 2371 note), referred to in subsec. (a)(2), was repealed by Pub. L. 114–92, div. A, title VIII, § 815(c), Nov. 25, 2015, 129 Stat. 896.
 
-Section 2371(h) of title 10, referred to in subsec. (c), was repealed by Pub. L. 113–291, div. A, title X, § 1071(f)(20), Dec. 19, 2014, 128 Stat. 3511.
+Section 2371(h) of title 10, referred to in subsec. (c), was repealed by Pub. L. 113–291, div. A, title X, § 1071(f)(20), Dec. 19, 2014, 128 Stat. 3511.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -429,7 +429,7 @@ Section 2371(h) of title 10, referred to in subsec. (c), was repealed by Pub. L.
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-## § 1905. List of laws inapplicable to contracts or subcontracts not greater than simplified acquisition threshold
+## § 1905. List of laws inapplicable to contracts or subcontracts not greater than simplified acquisition threshold
 
 **(a) Definition.—** In this section, the term “Council” has the meaning given that term in section 1301 of this title.
 
@@ -447,16 +447,16 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **(d) Petition.—** A person may petition the Administrator to take appropriate action when a provision of law described in subsection (c) is not included on the list of inapplicable provisions of law as required by subsection (b) and the Council has not made a written determination pursuant to subsection (b)(2). The Administrator shall revise the Federal Acquisition Regulation to include the provision on the list of inapplicable provisions of law unless the Council makes a determination pursuant to subsection (b)(2) within 60 days after the petition is received.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3722.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3722.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 1905(a) | no source. |  |
-| 1905(b)–(d) | 41:429. | Pub. L. 93–400, § 33, as added Pub. L. 103–355, title IV, § 4101, Oct. 13, 1994, 108 Stat. 3339. |
+| 1905(b)–(d) | 41:429. | Pub. L. 93–400, § 33, as added Pub. L. 103–355, title IV, § 4101, Oct. 13, 1994, 108 Stat. 3339. |
 
-## § 1906. List of laws inapplicable to procurements of commercial products and commercial services
+## § 1906. List of laws inapplicable to procurements of commercial products and commercial services
 
 **(a) Definition.—** In this section, the term “Council” has the meaning given that term in section 1301 of this title.
 
@@ -484,22 +484,22 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **(e) Petition.—** A person may petition the Administrator to take appropriate action when a provision of law described in subsection (d) is not included on the list of inapplicable provisions of law as required by subsection (b) or (c) and the Council has not made a written determination pursuant to subsection (b)(2) or (c)(3). The Administrator shall revise the Federal Acquisition Regulation to include the provision on the list of inapplicable provisions of law unless the Council makes a determination pursuant to subsection (b)(2) or (c)(3) within 60 days after the petition is received.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3723; Pub. L. 115–91, div. A, title VIII, § 820, Dec. 12, 2017, 131 Stat. 1464; Pub. L. 115–232, div. A, title VIII, § 836(b)(6)(A), (B)(i), Aug. 13, 2018, 132 Stat. 1861.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3723; Pub. L. 115–91, div. A, title VIII, § 820, Dec. 12, 2017, 131 Stat. 1464; Pub. L. 115–232, div. A, title VIII, § 836(b)(6)(A), (B)(i), Aug. 13, 2018, 132 Stat. 1861.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 1906(a) | no source. |  |
-| 1906(b)–(e) | 41:430. | Pub. L. 93–400, § 34, as added Pub. L. 103–355, title VIII, § 8003(a), Oct. 13, 1994, 108 Stat. 3388. |
+| 1906(b)–(e) | 41:430. | Pub. L. 93–400, § 34, as added Pub. L. 103–355, title VIII, § 8003(a), Oct. 13, 1994, 108 Stat. 3388. |
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 836(b)(6)(B)(i), substituted “List of laws inapplicable to procurements of commercial products and commercial services” for “List of laws inapplicable to procurements of commercial items” in section catchline.
+2018—Pub. L. 115–232, § 836(b)(6)(B)(i), substituted “List of laws inapplicable to procurements of commercial products and commercial services” for “List of laws inapplicable to procurements of commercial items” in section catchline.
 
-Subsecs. (b) to (d). Pub. L. 115–232, § 836(b)(6)(A), substituted “commercial products or commercial services” for “commercial items” wherever appearing.
+Subsecs. (b) to (d). Pub. L. 115–232, § 836(b)(6)(A), substituted “commercial products or commercial services” for “commercial items” wherever appearing.
 
 2017—Subsec. (c)(1). Pub. L. 115–91 inserted at end “The term does not include agreements entered into by a contractor for the supply of commodities that are intended for use in the performance of multiple contracts with the Federal Government and other parties and are not identifiable to any particular contract.”
 
@@ -509,7 +509,7 @@ Subsecs. (b) to (d). Pub. L. 115–232, § 836(b)(6)(A), substituted “commer
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 1907. List of laws inapplicable to procurements of commercially available off-the-shelf items
+## § 1907. List of laws inapplicable to procurements of commercially available off-the-shelf items
 
 **(a) Inclusion in Federal Acquisition Regulation.—**
 
@@ -535,19 +535,19 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(2)** specifically refers to this section and provides that, notwithstanding this section, it shall be applicable to contracts for the procurement of commercially available off-the-shelf items.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3724;Pub. L. 117–81, div. A, title XVII, § 1702(h)(8), Dec. 27, 2021, 135 Stat. 2158.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3724;Pub. L. 117–81, div. A, title XVII, § 1702(h)(8), Dec. 27, 2021, 135 Stat. 2158.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1907 | 41:431(a), (b). | Pub. L. 93–400, § 35(a), (b), as added Pub. L. 104–106, title XLII, § 4203(a), Feb. 10, 1996, 110 Stat. 654; Pub. L. 105–85, title X, § 1073(g)(2)(C), Nov. 18, 1997, 111 Stat. 1906. |
+| 1907 | 41:431(a), (b). | Pub. L. 93–400, § 35(a), (b), as added Pub. L. 104–106, title XLII, § 4203(a), Feb. 10, 1996, 110 Stat. 654; Pub. L. 105–85, title X, § 1073(g)(2)(C), Nov. 18, 1997, 111 Stat. 1906. |
 
 **Amendments**
 
 2021—Subsec. (a)(3)(B)(ii). Pub. L. 117–81 substituted “section 3308” for “section 2305(e) and (f)”.
 
-## § 1908. Inflation adjustment of acquisition-related dollar thresholds
+## § 1908. Inflation adjustment of acquisition-related dollar thresholds
 
 **(a) Definition.—** In this section, the term “Council” has the meaning given that term in section 1301 of this title.
 
@@ -613,18 +613,18 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(3) Effective date of adjustment by petition.—** The adjustment of a dollar threshold pursuant to a petition under this subsection takes effect on the date the revised notice adding the adjustment under paragraph (2)(B) is published.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3725; Pub. L. 114–92, div. A, title VIII, § 817, Nov. 25, 2015, 129 Stat. 897; Pub. L. 115–91, div. A, title VIII, § 821, Dec. 12, 2017, 131 Stat. 1464; Pub. L. 117–58, div. G, title IX, § 70922(f), Nov. 15, 2021, 135 Stat. 1305; Pub. L. 117–81, div. A, title VIII, § 861, Dec. 27, 2021, 135 Stat. 1851.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3725; Pub. L. 114–92, div. A, title VIII, § 817, Nov. 25, 2015, 129 Stat. 897; Pub. L. 115–91, div. A, title VIII, § 821, Dec. 12, 2017, 131 Stat. 1464; Pub. L. 117–58, div. G, title IX, § 70922(f), Nov. 15, 2021, 135 Stat. 1305; Pub. L. 117–81, div. A, title VIII, § 861, Dec. 27, 2021, 135 Stat. 1851.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 1908(a) | no source. |  |
-| 1908(b)(1) | 41:431a(c). | Pub. L. 93–400, § 35A, as added Pub. L. 108–375, title VIII, § 807(a)(1), Oct. 28, 2004, 118 Stat. 2010. |
+| 1908(b)(1) | 41:431a(c). | Pub. L. 93–400, § 35A, as added Pub. L. 108–375, title VIII, § 807(a)(1), Oct. 28, 2004, 118 Stat. 2010. |
 | 1908(b)(2) | 41:431a(d). |  |
-| 1908(b)(3) | 41:431a note. | Pub. L. 108–375, title VIII, § 807(c)(1), Oct. 28, 2004, 118 Stat. 2011. |
+| 1908(b)(3) | 41:431a note. | Pub. L. 108–375, title VIII, § 807(c)(1), Oct. 28, 2004, 118 Stat. 2011. |
 | 1908(c)(1), (2) | 41:431a(a). |  |
-| 1908(c)(3) | 41:431a note. | Pub. L. 108–375, title VIII, § 807(c)(2), Oct. 28, 2004, 118 Stat. 2011. |
+| 1908(c)(3) | 41:431a note. | Pub. L. 108–375, title VIII, § 807(c)(2), Oct. 28, 2004, 118 Stat. 2011. |
 | 1908(d) | 41:431a(b). |  |
 | 1908(e) | 41:431a(e). |  |
 | 1908(f) | 41:431a(f). |  |
@@ -637,7 +637,7 @@ In subsection (e)(1), the words “Secretary of Labor” are substituted for “
 
 **References in Text**
 
-The Trade Agreements Act of 1979, referred to in subsec. (b)(2)(C), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144. Title III of the Act is classified generally to subchapter I (§ 2511 et seq.) of chapter 13 of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19 and Tables.
+The Trade Agreements Act of 1979, referred to in subsec. (b)(2)(C), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144. Title III of the Act is classified generally to subchapter I (§ 2511 et seq.) of chapter 13 of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19 and Tables.
 
 The date of the enactment of this subparagraph, referred to in subsec. (b)(2)(D), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
 
@@ -645,23 +645,23 @@ The date of the enactment of this subparagraph, referred to in subsec. (b)(2)(D)
 
 2021—Subsec. (b)(2)(A). Pub. L. 117–58 substituted “chapters 67 and 83” for “chapter 67”.
 
-Subsec. (b)(2)(D). Pub. L. 117–81, § 861(a), added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 117–81, § 861(a), added subpar. (D).
 
-Subsec. (d). Pub. L. 117–81, § 861(b), struck out second period at end.
+Subsec. (d). Pub. L. 117–81, § 861(b), struck out second period at end.
 
 2017—Subsec. (d). Pub. L. 115–91 inserted before period at end “and shall apply, in the case of the procurement of property or services by contract, to a contract, and any subcontract at any tier under the contract, in effect on that date without regard to the date of award of the contract or subcontract.”
 
-2015—Subsec. (e)(2). Pub. L. 114–92, § 817(1), substituted “as calculated under paragraph (1)” for “on the day before the adjustment” in introductory provisions.
+2015—Subsec. (e)(2). Pub. L. 114–92, § 817(1), substituted “as calculated under paragraph (1)” for “on the day before the adjustment” in introductory provisions.
 
-Subsec. (e)(2)(D) to (G). Pub. L. 114–92, § 817(2), (3), added subpars. (D) to (G) and struck out former subpar. (D) which read as follows: “$1,000,000 or more, to the nearest $500,000.”
+Subsec. (e)(2)(D) to (G). Pub. L. 114–92, § 817(2), (3), added subpars. (D) to (G) and struck out former subpar. (D) which read as follows: “$1,000,000 or more, to the nearest $500,000.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Adjustment for Inflation of Right-Hand Drive Passenger Sedans**
 
-Pub. L. 112–81, div. A, title VIII, § 814(b), Dec. 31, 2011, 125 Stat. 1491, provided that: “The Department of Defense representative to the Federal Acquisition Regulatory Council established under section 1302 of title 41, United States Code, shall ensure that the threshold established in section 2253 of title 10, United States Code, for the acquisition of right-hand drive passenger sedans is included on the list of dollar thresholds that are subject to adjustment for inflation in accordance with the requirements of section 1908 of title 41, United States Code, and is adjusted pursuant to such provision, as appropriate.”
+Pub. L. 112–81, div. A, title VIII, § 814(b), Dec. 31, 2011, 125 Stat. 1491, provided that: “The Department of Defense representative to the Federal Acquisition Regulatory Council established under section 1302 of title 41, United States Code, shall ensure that the threshold established in section 2253 of title 10, United States Code, for the acquisition of right-hand drive passenger sedans is included on the list of dollar thresholds that are subject to adjustment for inflation in accordance with the requirements of section 1908 of title 41, United States Code, and is adjusted pursuant to such provision, as appropriate.”
 
-## § 1909. Management of purchase cards
+## § 1909. Management of purchase cards
 
 **(a) Required Safeguards and Internal Controls.—** The head of each executive agency that issues and uses purchase cards and convenience checks shall establish and maintain safeguards and internal controls to ensure the following:
 
@@ -731,7 +731,7 @@ Pub. L. 112–81, div. A, title VIII, § 814(b), Dec. 31, 2011, 125 Stat. 1491
 
 **(e) Relationship to Department of Defense Purchase Card Regulations.—** The requirements of this section shall not apply to the Department of Defense. See section 4754 of title 10 for provisions relating to management of purchase cards in the Department.
 
-(Added Pub. L. 112–194, § 2(a)(1), Oct. 5, 2012, 126 Stat. 1445; Pub. L. 117–81, div. A, title XVII, § 1702(h)(9), Dec. 27, 2021, 135 Stat. 2158.)
+(Added Pub. L. 112–194, § 2(a)(1), Oct. 5, 2012, 126 Stat. 1445; Pub. L. 117–81, div. A, title XVII, § 1702(h)(9), Dec. 27, 2021, 135 Stat. 2158.)
 
 **Editorial Notes**
 
@@ -743,4 +743,4 @@ Pub. L. 112–81, div. A, title VIII, § 814(b), Dec. 31, 2011, 125 Stat. 1491
 
 **Deadline for Guidance on Management of Purchase Cards**
 
-Pub. L. 112–194, § 2(c), Oct. 5, 2012, 126 Stat. 1448, required the Director of the Office of Management and Budget to prescribe the guidance required by subsec. (b) of this section not later than 180 days after Oct. 5, 2012.
+Pub. L. 112–194, § 2(c), Oct. 5, 2012, 126 Stat. 1448, required the Director of the Office of Management and Budget to prescribe the guidance required by subsec. (b) of this section not later than 180 days after Oct. 5, 2012.

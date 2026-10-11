@@ -19,29 +19,29 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2010—Pub. L. 111–154, § 3(b), Mar. 31, 2010, 124 Stat. 1109, added item 1716E.
+2010—Pub. L. 111–154, § 3(b), Mar. 31, 2010, 124 Stat. 1109, added item 1716E.
 
-2000—Pub. L. 106–578, § 4, Dec. 28, 2000, 114 Stat. 3076, struck out item 1738 “Mailing private identification documents without a disclaimer”.
+2000—Pub. L. 106–578, § 4, Dec. 28, 2000, 114 Stat. 3076, struck out item 1738 “Mailing private identification documents without a disclaimer”.
 
-1994—Pub. L. 103–322, title XXXII, § 320108(b)(2), Sept. 13, 1994, 108 Stat. 2113, added item 1716D.
+1994—Pub. L. 103–322, title XXXII, § 320108(b)(2), Sept. 13, 1994, 108 Stat. 2113, added item 1716D.
 
-1990—Pub. L. 101–647, title XII, § 1210(b), (c), title XXXV, § 3552(b), Nov. 29, 1990, 104 Stat. 4832, 4926, struck out item 1714 “Foreign divorce information as nonmailable”, struck out “; opening letters” after “nonmailable” in item 1717, and struck out item 1718 “Libelous matter on wrappers or envelopes”.
+1990—Pub. L. 101–647, title XII, § 1210(b), (c), title XXXV, § 3552(b), Nov. 29, 1990, 104 Stat. 4832, 4926, struck out item 1714 “Foreign divorce information as nonmailable”, struck out “; opening letters” after “nonmailable” in item 1717, and struck out item 1718 “Libelous matter on wrappers or envelopes”.
 
-1988—Pub. L. 100–690, title VII, § 7090(d), Nov. 18, 1988, 102 Stat. 4410, inserted “locksmithing devices and” before “motor” in item 1716A.
+1988—Pub. L. 100–690, title VII, § 7090(d), Nov. 18, 1988, 102 Stat. 4410, inserted “locksmithing devices and” before “motor” in item 1716A.
 
-Pub. L. 100–574, §§ 1(b)(2), 2(b), Oct. 31, 1988, 102 Stat. 2893, added items 1716B and 1716C.
+Pub. L. 100–574, §§ 1(b)(2), 2(b), Oct. 31, 1988, 102 Stat. 2893, added items 1716B and 1716C.
 
-1982—Pub. L. 97–398, § 4(b), Dec. 31, 1982, 96 Stat. 2011, added item 1738.
+1982—Pub. L. 97–398, § 4(b), Dec. 31, 1982, 96 Stat. 2011, added item 1738.
 
-1970—Pub. L. 91–375, § 6(j)(19)(B), (36)(B), (37)(B), Aug. 12, 1970, 84 Stat. 778, 780, 781, substituted “officer” for “postmaster” in item 1709 and “Mailing periodical publications without prepayment of postage” for “Affidavits relating to second class mail” in item 1733, and added items 1735 to 1737.
+1970—Pub. L. 91–375, § 6(j)(19)(B), (36)(B), (37)(B), Aug. 12, 1970, 84 Stat. 778, 780, 781, substituted “officer” for “postmaster” in item 1709 and “Mailing periodical publications without prepayment of postage” for “Affidavits relating to second class mail” in item 1733, and added items 1735 to 1737.
 
-1968—Pub. L. 90–560, § 2(2), Oct. 12, 1968, 82 Stat. 997, added item 1716A.
+1968—Pub. L. 90–560, § 2(2), Oct. 12, 1968, 82 Stat. 997, added item 1716A.
 
-Pub. L. 90–384, § 1(b), July 5, 1968, 82 Stat. 292, struck out item 1727 “Postage accounting”.
+Pub. L. 90–384, § 1(b), July 5, 1968, 82 Stat. 292, struck out item 1727 “Postage accounting”.
 
-1960—Pub. L. 86–682, § 8, Sept. 2, 1960, 74 Stat. 706, added items 1733 and 1734.
+1960—Pub. L. 86–682, § 8, Sept. 2, 1960, 74 Stat. 706, added items 1733 and 1734.
 
-## § 1691. Laws governing postal savings
+## § 1691. Laws governing postal savings
 
 All the safeguards provided by law for the protection of public moneys, and all statutes relating to the embezzlement, conversion, improper handling, retention, use, or disposal of postal and money-order funds, false returns of postal and money-order business, forgery, counterfeiting, alteration, improper use or handling of postal and money-order blanks, forms, vouchers, accounts, and records, and the dies, plates, and engravings therefor, with the punishments provided for such offenses are extended and made applicable to postal savings depository business and funds and related matters.
 
@@ -49,11 +49,11 @@ All the safeguards provided by law for the protection of public moneys, and all 
 
 **Historical and Revision Notes**
 
-Based on section 765 of title 39, U.S.C., 1940 ed., The Postal Service (June 25, 1910, ch. 386, § 15, 36 Stat. 818).
+Based on section 765 of title 39, U.S.C., 1940 ed., The Postal Service (June 25, 1910, ch. 386, § 15, 36 Stat. 818).
 
 Changes of phraseology were made without change of substance.
 
-## § 1692. Foreign mail as United States mail
+## § 1692. Foreign mail as United States mail
 
 Every foreign mail, while being transported across the territory of the United States under authority of law, is mail of the United States, and any depredation thereon, or offense in respect thereto, shall be punishable as though it were United States mail.
 
@@ -61,19 +61,19 @@ Every foreign mail, while being transported across the territory of the United S
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 359 (Mar. 4, 1909, ch. 321, § 229, 35 Stat. 1134).
+Based on title 18, U.S.C., 1940 ed., § 359 (Mar. 4, 1909, ch. 321, § 229, 35 Stat. 1134).
 
 Minor changes were made in phraseology and obvious surplusage omitted.
 
-## § 1693. Carriage of mail generally
+## § 1693. Carriage of mail generally
 
 Whoever, being concerned in carrying the mail, collects, receives, or carries any letter or packet, contrary to law, shall be fined under this title or imprisoned not more than thirty days, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 776; Pub. L. 103–322, title XXXIII, § 330016(1)(A), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 776; Pub. L. 103–322, title XXXIII, § 330016(1)(A), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 303 (Mar. 4, 1909, ch. 321, § 180, 35 Stat. 1123).
+Based on title 18, U.S.C., 1940 ed., § 303 (Mar. 4, 1909, ch. 321, § 180, 35 Stat. 1123).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -85,15 +85,15 @@ Minor verbal changes were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $50”.
 
-## § 1694. Carriage of matter out of mail over post routes
+## § 1694. Carriage of matter out of mail over post routes
 
 Whoever, having charge or control of any conveyance operating by land, air, or water, which regularly performs trips at stated periods on any post route, or from one place to another between which the mail is regularly carried, carries, otherwise than in the mail, any letters or packets, except such as relate to some part of the cargo of such conveyance, or to the current business of the carrier, or to some article carried at the same time by the same conveyance, shall, except as otherwise provided by law, be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 776; Pub. L. 103–322, title XXXIII, § 330016(1)(A), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 776; Pub. L. 103–322, title XXXIII, § 330016(1)(A), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 307 (Mar. 4, 1909, ch. 321, § 184, 35 Stat. 1124).
+Based on title 18, U.S.C., 1940 ed., § 307 (Mar. 4, 1909, ch. 321, § 184, 35 Stat. 1124).
 
 Words “by land, air, or water” were substituted for “stagecoach, railway car, steamboat” with necessary minor changes in phraseology.
 
@@ -111,15 +111,15 @@ Enumeration of persons having charge was omitted as unnecessary.
 
 Congressional findings of need for study and reevaluation of restrictions on private carriage of letters and packets contained in this section and submission by United States Postal Service of reports to President and Congress for modernization of law, regulations, and administrative practices, see section 7 of Pub. L. 91–375, set out as a note under section 601 of Title 39, Postal Service.
 
-## § 1695. Carriage of matter out of mail on vessels
+## § 1695. Carriage of matter out of mail on vessels
 
 Whoever carries any letter or packet on board any vessel which carries the mail, otherwise than in such mail, shall, except as otherwise provided by law, be fined under this title or imprisoned not more than thirty days, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 777; Pub. L. 103–322, title XXXIII, § 330016(1)(A), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 777; Pub. L. 103–322, title XXXIII, § 330016(1)(A), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 308 (Mar. 4, 1909, ch. 321, § 185, 35 Stat. 1124).
+Based on title 18, U.S.C., 1940 ed., § 308 (Mar. 4, 1909, ch. 321, § 185, 35 Stat. 1124).
 
 The words “thirty days” were substituted for “one month,” to make the term of imprisonment more definite and to conform to other comparable sections. (See section 1693 of this title.)
 
@@ -137,7 +137,7 @@ Minor changes were made in phraseology.
 
 Congressional findings of need for study and reevaluation of restrictions on private carriage of letters and packets contained in this section and submission by United States Postal Service of reports to President and Congress for modernization of law, regulations, and administrative practices, see section 7 of Pub. L. 91–375, set out as a note under section 601 of Title 39, Postal Service.
 
-## § 1696. Private express for letters and packets
+## § 1696. Private express for letters and packets
 
 **(a)** Whoever establishes any private express for the conveyance of letters or packets, or in any manner causes or provides for the conveyance of the same by regular trips or at stated periods over any post route which is or may be established by law, or from any city, town, or place to any other city, town, or place, between which the mail is regularly carried, shall be fined not more than $500 or imprisoned not more than six months, or both.
 
@@ -147,11 +147,11 @@ This section shall not prohibit any person from receiving and delivering to the 
 
 **(c)** This chapter shall not prohibit the conveyance or transmission of letters or packets by private hands without compensation, or by special messenger employed for the particular occasion only. Whenever more than twenty-five such letters or packets are conveyed or transmitted by such special messenger, the requirements of section 601 of title 39, shall be observed as to each piece.
 
-(June 25, 1948, ch. 645, 62 Stat. 777; Pub. L. 91–375, § 6(j)(14), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(A), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 777; Pub. L. 91–375, § 6(j)(14), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(A), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 304, 306, 309 (Mar. 4, 1909, ch. 321, §§ 181, 183, 186, 35 Stat. 1123, 1124; June 22, 1934, ch. 716, 48 Stat. 1207).
+Based on title 18, U.S.C., 1940 ed., §§ 304, 306, 309 (Mar. 4, 1909, ch. 321, §§ 181, 183, 186, 35 Stat. 1123, 1124; June 22, 1934, ch. 716, 48 Stat. 1207).
 
 Section consolidates sections 304, 306, and 309 of title 18, U.S.C., 1940 ed. Reference to persons causing, procuring, aiding or assisting was omitted as such persons are principals under section 2 of this title.
 
@@ -175,15 +175,15 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Congressional findings of need for study and reevaluation of restrictions on private carriage of letters and packets contained in this section and submission by United States Postal Service of reports to President and Congress for modernization of law, regulations, and administrative practices, see section 7 of Pub. L. 91–375, set out as a note under section 601 of Title 39, Postal Service.
 
-## § 1697. Transportation of persons acting as private express
+## § 1697. Transportation of persons acting as private express
 
 Whoever, having charge or control of any conveyance operating by land, air, or water, knowingly conveys or knowingly permits the conveyance of any person acting or employed as a private express for the conveyance of letters or packets, and actually in possession of the same for the purpose of conveying them contrary to law, shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 777; Pub. L. 103–322, title XXXIII, § 330016(1)(C), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 777; Pub. L. 103–322, title XXXIII, § 330016(1)(C), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 305 (Mar. 4, 1909, ch. 321, § 182, 35 Stat. 1124).
+Based on title 18, U.S.C., 1940 ed., § 305 (Mar. 4, 1909, ch. 321, § 182, 35 Stat. 1124).
 
 Same changes were made as in section 1694 of this title.
 
@@ -193,15 +193,15 @@ Same changes were made as in section 1694 of this title.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $150”.
 
-## § 1698. Prompt delivery of mail from vessel
+## § 1698. Prompt delivery of mail from vessel
 
 Whoever, having charge or control of any vessel passing between ports or places in the United States, and arriving at any such port or place where there is a post office, fails to deliver to the postmaster or at the post office, within three hours after his arrival, if in the daytime, and if at night, within two hours after the next sunrise, all letters and packages brought by him or within his power or control and not relating to the cargo, addressed to or destined for such port or place, shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 777; Pub. L. 103–322, title XXXIII, §§ 330004(10), 330016(1)(C), Sept. 13, 1994, 108 Stat. 2141, 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 777; Pub. L. 103–322, title XXXIII, §§ 330004(10), 330016(1)(C), Sept. 13, 1994, 108 Stat. 2141, 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed. § 323 (Mar. 4, 1909, ch. 321, § 200, 35 Stat. 1126).
+Based on title 18, U.S.C., 1940 ed. § 323 (Mar. 4, 1909, ch. 321, § 200, 35 Stat. 1126).
 
 Changes were made in phraseology.
 
@@ -209,11 +209,11 @@ Changes were made in phraseology.
 
 **Amendments**
 
-1994—Pub. L. 103–322, § 330016(1)(C), substituted “fined under this title” for “fined not more than $150”.
+1994—Pub. L. 103–322, § 330016(1)(C), substituted “fined under this title” for “fined not more than $150”.
 
-Pub. L. 103–322, § 330004(10), struck out second par. which read as follows: “For each letter or package so delivered he shall receive two cents unless the same is carried under contract.”
+Pub. L. 103–322, § 330004(10), struck out second par. which read as follows: “For each letter or package so delivered he shall receive two cents unless the same is carried under contract.”
 
-## § 1699. Certification of delivery from vessel
+## § 1699. Certification of delivery from vessel
 
 No vessel arriving within a port or collection district of the United States shall be allowed to make entry or break bulk until all letters on board are delivered to the nearest post office, except where waybilled for discharge at other ports in the United States at which the vessel is scheduled to call and the Postal Service does not determine that unreasonable delay in the mails will occur, and the master or other person having charge or control thereof has signed and sworn to the following declaration before the collector or other proper customs officer:
 
@@ -221,11 +221,11 @@ I, A. B., master \_\_\_, of the \_\_\_, arriving from \_\_\_, and now lying in t
 
 Whoever, being the master or other person having charge or control of such vessel, breaks bulk before he has arranged for such delivery or onward carriage, shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 777; July 3, 1952, ch. 553, 66 Stat. 325; Pub. L. 91–375, § 6(j)(15), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 777; July 3, 1952, ch. 553, 66 Stat. 325; Pub. L. 91–375, § 6(j)(15), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 327 (Mar. 4, 1909, ch. 321, § 204, 35 Stat. 1127).
+Based on title 18, U.S.C., 1940 ed., § 327 (Mar. 4, 1909, ch. 321, § 204, 35 Stat. 1127).
 
 Minor changes were made in phraseology.
 
@@ -251,15 +251,15 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate were ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. Functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
-## § 1700. Desertion of mails
+## § 1700. Desertion of mails
 
 Whoever, having taken charge of any mail, voluntarily quits or deserts the same before he has delivered it into the post office at the termination of the route, or to some known mail carrier, messenger, agent, or other employee in the Postal Service authorized to receive the same, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 322 (Mar. 4, 1909, ch. 321, § 199, 35 Stat. 1126).
+Based on title 18, U.S.C., 1940 ed., § 322 (Mar. 4, 1909, ch. 321, § 199, 35 Stat. 1126).
 
 Minor changes were made in phraseology.
 
@@ -269,15 +269,15 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-## § 1701. Obstruction of mails generally
+## § 1701. Obstruction of mails generally
 
 Whoever knowingly and willfully obstructs or retards the passage of the mail, or any carrier or conveyance carrying the mail, shall be fined under this title or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 324, 325 (Mar. 4, 1909, ch. 321, §§ 201, 202, 35 Stat. 1127).
+Based on title 18, U.S.C., 1940 ed., §§ 324, 325 (Mar. 4, 1909, ch. 321, §§ 201, 202, 35 Stat. 1127).
 
 Sections 324 and 325 of title 18, U.S.C., 1940 ed., were consolidated with changes of phraseology necessary to effect consolidation.
 
@@ -291,15 +291,15 @@ The punishment provision is derived from said section 324 rather than from secti
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $100”.
 
-## § 1702. Obstruction of correspondence
+## § 1702. Obstruction of correspondence
 
 Whoever takes any letter, postal card, or package out of any post office or any authorized depository for mail matter, or from any letter or mail carrier, or which has been in any post office or authorized depository, or in the custody of any letter or mail carrier, before it has been delivered to the person to whom it was directed, with design to obstruct the correspondence, or to pry into the business or secrets of another, or opens, secretes, embezzles, or destroys the same, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 317 (Mar. 4, 1909, ch. 321, § 194, 35 Stat. 1125; Feb. 25, 1925, ch. 318, 43 Stat. 977; Aug. 26, 1935, ch. 693, 49 Stat. 867; Aug. 7, 1939, ch. 557, 53 Stat. 1256).
+Based on title 18, U.S.C., 1940 ed., § 317 (Mar. 4, 1909, ch. 321, § 194, 35 Stat. 1125; Feb. 25, 1925, ch. 318, 43 Stat. 977; Aug. 26, 1935, ch. 693, 49 Stat. 867; Aug. 7, 1939, ch. 557, 53 Stat. 1256).
 
 Section 317 of said title 18, U.S.C., 1940 ed., was incorporated in this and section 1708 of this title.
 
@@ -311,7 +311,7 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 
-## § 1703. Delay or destruction of mail or newspapers
+## § 1703. Delay or destruction of mail or newspapers
 
 **(a)** Whoever, being a Postal Service officer or employee, unlawfully secretes, destroys, detains, delays, or opens any letter, postal card, package, bag, or mail entrusted to him or which shall come into his possession, and which was intended to be conveyed by mail, or carried or delivered by any carrier or other employee of the Postal Service, or forwarded through or delivered from any post office or station thereof established by authority of the Postmaster General or the Postal Service, shall be fined under this title or imprisoned not more than five years, or both.
 
@@ -319,13 +319,13 @@ Minor changes were made in phraseology.
 
 Whoever, without authority, opens, or destroys any mail or package of newspapers not directed to him, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 778; May 24, 1949, ch. 139, § 37, 63 Stat. 95; Pub. L. 91–375, § 6(j)(16), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(B), (G), Sept. 13, 1994, 108 Stat. 2146, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 778; May 24, 1949, ch. 139, § 37, 63 Stat. 95; Pub. L. 91–375, § 6(j)(16), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(B), (G), Sept. 13, 1994, 108 Stat. 2146, 2147.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., §§ 318, 319 (Mar. 4, 1909, ch. 321, §§ 195, 196, 35 Stat. 1125, 1126).
+Based on title 18, U.S.C., 1940 ed., §§ 318, 319 (Mar. 4, 1909, ch. 321, §§ 195, 196, 35 Stat. 1125, 1126).
 
 Section consolidated sections 318 and 319 of said title 18, U.S.C., 1940 ed. The embezzlement and theft provisions of each were incorporated in sections 1709 and 1710 of this title.
 
@@ -341,13 +341,13 @@ This section [section 37] corrects typographical errors in section 1703 of title
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in subsec. (a) and “fined under this title” for “fined not more than $100” in last par.
 
-1970—Subsec. (a). Pub. L. 91–375, § 6(j)(16)(A), amended subsec. (a) generally, which prior to amendment read as follows: “Whoever, being a postmaster or Postal Service employee, unlawfully detains, delays, or opens any letter, postal card, package, bag, or mail intrusted to him or which shall come into his possession, and which was intended to be conveyed by mail, or carried or delivered by any carrier or other employee of the Postal Service, or forwarded through or delivered from any post office or station thereof established by authority of the Postmaster General; or secretes, or destroys any such letter, postal card, package, bag, or mail, shall be fined not more than $500 or imprisoned not more than five years, or both.”
+1970—Subsec. (a). Pub. L. 91–375, § 6(j)(16)(A), amended subsec. (a) generally, which prior to amendment read as follows: “Whoever, being a postmaster or Postal Service employee, unlawfully detains, delays, or opens any letter, postal card, package, bag, or mail intrusted to him or which shall come into his possession, and which was intended to be conveyed by mail, or carried or delivered by any carrier or other employee of the Postal Service, or forwarded through or delivered from any post office or station thereof established by authority of the Postmaster General; or secretes, or destroys any such letter, postal card, package, bag, or mail, shall be fined not more than $500 or imprisoned not more than five years, or both.”
 
-Subsec. (b). Pub. L. 91–375, § 6(j)(16)(B), substituted “Postal Service officer or employee” for “postmaster or Postal Service employee”.
+Subsec. (b). Pub. L. 91–375, § 6(j)(16)(B), substituted “Postal Service officer or employee” for “postmaster or Postal Service employee”.
 
-1949—Subsec. (a). Act May 24, 1949, § 37(a), substituted “secretes” for “secrets”.
+1949—Subsec. (a). Act May 24, 1949, § 37(a), substituted “secretes” for “secrets”.
 
-Subsec. (b). Act May 24, 1949, § 37(b), substituted “newspapers” for “newspaper”.
+Subsec. (b). Act May 24, 1949, § 37(b), substituted “newspapers” for “newspaper”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -355,7 +355,7 @@ Subsec. (b). Act May 24, 1949, § 37(b), substituted “newspapers” for “n
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1704. Keys or locks stolen or reproduced
+## § 1704. Keys or locks stolen or reproduced
 
 Whoever steals, purloins, embezzles, or obtains by false pretense any key suited to any lock adopted by the Post Office Department or the Postal Service and in use on any of the mails or bags thereof, or any key to any lock box, lock drawer, or other authorized receptacle for the deposit or delivery of mail matter; or
 
@@ -365,11 +365,11 @@ Whoever, being engaged as a contractor or otherwise in the manufacture of any su
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 778; Pub. L. 91–375, § 6(j)(17), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 778; Pub. L. 91–375, § 6(j)(17), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 314 (Mar. 4, 1909, ch. 321, § 191, 35 Stat. 1125).
+Based on title 18, U.S.C., 1940 ed., § 314 (Mar. 4, 1909, ch. 321, § 191, 35 Stat. 1125).
 
 Reference to persons aiding, causing or assisting was omitted. Such persons are principals under section 2 of this title.
 
@@ -391,17 +391,17 @@ Minor changes were made in phraseology.
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1705. Destruction of letter boxes or mail
+## § 1705. Destruction of letter boxes or mail
 
 Whoever willfully or maliciously injures, tears down or destroys any letter box or other receptacle intended or used for the receipt or delivery of mail on any mail route, or breaks open the same or willfully or maliciously injures, defaces or destroys any mail deposited therein, shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 779; May 24, 1949, ch. 139, § 38, 63 Stat. 95; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–273, div. B, title III, § 3002(a)(2), Nov. 2, 2002, 116 Stat. 1805.)
+(June 25, 1948, ch. 645, 62 Stat. 779; May 24, 1949, ch. 139, § 38, 63 Stat. 95; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–273, div. B, title III, § 3002(a)(2), Nov. 2, 2002, 116 Stat. 1805.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., § 321 (Mar. 4, 1909, ch. 321, § 198, 35 Stat. 1126; May 18, 1916, ch. 126, § 10, 39 Stat. 162; July 28, 1916, ch. 261, § 1, 39 Stat. 418; May 7, 1934, ch. 220, § 1, 48 Stat. 667).
+Based on title 18, U.S.C., 1940 ed., § 321 (Mar. 4, 1909, ch. 321, § 198, 35 Stat. 1126; May 18, 1916, ch. 126, § 10, 39 Stat. 162; July 28, 1916, ch. 261, § 1, 39 Stat. 418; May 7, 1934, ch. 220, § 1, 48 Stat. 667).
 
 Words “or shall willfully take or steal such mail from or out of such letter box or other receptacle” were omitted as covered by section 1702 of this title. Prosecutions for theft of mail matter are invariably made under that section whereas this section is used as basis for prosecutions for malicious mischief to mail boxes or receptacles. By Postal Regulations (1928), section 700, paragraph 2, an ordinary letter box is within this section and also section 1702 of this title. *Huebner v. United States* (C.C.A. 1928, 28 F. 2d 929).
 
@@ -417,21 +417,21 @@ As amended by this section [section 38] of the bill, section 1705 of title 18, U
 
 **Amendments**
 
-2002—Pub. L. 107–273 inserted “, or both” after “years”.
+2002—Pub. L. 107–273 inserted “, or both” after “years”.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
 1949—Act May 24, 1949, struck out reference to a “conveyance” which was not in original statute.
 
-## § 1706. Injury to mail bags
+## § 1706. Injury to mail bags
 
 Whoever tears, cuts, or otherwise injures any mail bag, pouch, or other thing used or designed for use in the conveyance of the mail, or draws or breaks any staple or loosens any part of any lock, chain, or strap attached thereto, with intent to rob or steal any such mail, or to render the same insecure, shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 779; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 779; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 312 (Mar. 4, 1909, ch. 321, § 189, 35 Stat. 1124).
+Based on title 18, U.S.C., 1940 ed., § 312 (Mar. 4, 1909, ch. 321, § 189, 35 Stat. 1124).
 
 A fine of “$1,000” was substituted for “$500” thus increasing the maximum to correspond with other comparable sections. (See section 1705 of this title.)
 
@@ -443,15 +443,15 @@ Minor verbal changes were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 1707. Theft of property used by Postal Service
+## § 1707. Theft of property used by Postal Service
 
 Whoever steals, purloins, or embezzles any property used by the Postal Service, or appropriates any such property to his own or any other than its proper use, or conveys away any such property to the hindrance or detriment of the public service, shall be fined under this title or imprisoned not more than three years, or both; but if the value of such property does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 779; Pub. L. 91–375, § 6(j)(18), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(G), (H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 779; Pub. L. 91–375, § 6(j)(18), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(G), (H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 313 (Mar. 4, 1909, ch. 321, § 190, 35 Stat. 1124).
+Based on title 18, U.S.C., 1940 ed., § 313 (Mar. 4, 1909, ch. 321, § 190, 35 Stat. 1124).
 
 The phrase “used by” was substituted for “in use by or belonging to” in order to limit the application of the section to property used by the Post Office Department. Theft of public property belonging to governmental departments is covered by section 641 of this title.
 
@@ -477,7 +477,7 @@ Minor changes in phraseology were made.
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1708. Theft or receipt of stolen mail matter gen­erally
+## § 1708. Theft or receipt of stolen mail matter gen­erally
 
 Whoever steals, takes, or abstracts, or by fraud or deception obtains, or attempts so to obtain, from or out of any mail, post office, or station thereof, letter box, mail receptacle, or any mail route or other authorized depository for mail matter, or from a letter or mail carrier, any letter, postal card, package, bag, or mail, or abstracts or removes from any such letter, package, bag, or mail, any article or thing contained therein, or secretes, embezzles, or destroys any such letter, postal card, package, bag, or mail, or any article or thing contained therein; or
 
@@ -487,13 +487,13 @@ Whoever buys, receives, or conceals, or unlawfully has in his possession, any le
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 779; May 24, 1949, ch. 139, § 39, 63 Stat. 95; July 1, 1952, ch. 535, 66 Stat. 314; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 779; May 24, 1949, ch. 139, § 39, 63 Stat. 95; July 1, 1952, ch. 535, 66 Stat. 314; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., §§ 317, 321 (Mar. 4, 1909, ch. 321, §§ 194, 198, 35 Stat. 1125, 1126; May 18, 1916, ch. 126, § 10, 39 Stat. 162; July 28, 1916, ch. 261, § 1, 39 Stat. 418; Feb. 25, 1925, ch. 318, 43 Stat. 977; May 7, 1934, ch. 220, § 1, 48 Stat. 667; Aug. 26, 1935, ch. 693, 49 Stat. 867; Aug. 7, 1939, ch. 557, 53 Stat. 1256).
+Based on title 18, U.S.C., 1940 ed., §§ 317, 321 (Mar. 4, 1909, ch. 321, §§ 194, 198, 35 Stat. 1125, 1126; May 18, 1916, ch. 126, § 10, 39 Stat. 162; July 28, 1916, ch. 261, § 1, 39 Stat. 418; Feb. 25, 1925, ch. 318, 43 Stat. 977; May 7, 1934, ch. 220, § 1, 48 Stat. 667; Aug. 26, 1935, ch. 693, 49 Stat. 867; Aug. 7, 1939, ch. 557, 53 Stat. 1256).
 
 Each of these two sections has been divided. Provisions relating to theft or larceny of mail were placed in this section.
 
@@ -521,15 +521,15 @@ This section [section 39] corrects a typographical error in section 1708 of titl
 
 1949—Act May 24, 1949, substituted “buys” for “buy” in third par.
 
-## § 1709. Theft of mail matter by officer or employee
+## § 1709. Theft of mail matter by officer or employee
 
 Whoever, being a Postal Service officer or employee, embezzles any letter, postal card, package, bag, or mail, or any article or thing contained therein entrusted to him or which comes into his possession intended to be conveyed by mail, or carried or delivered by any carrier, messenger, agent, or other person employed in any department of the Postal Service, or forwarded through or delivered from any post office or station thereof established by authority of the Postmaster General or of the Postal Service; or steals, abstracts, or removes from any such letter, package, bag, or mail, any article or thing contained therein, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 780; Pub. L. 91–375, § 6(j)(19)(A), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 780; Pub. L. 91–375, § 6(j)(19)(A), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 318 (Mar. 4, 1909, ch. 321, § 195, 35 Stat. 1125).
+Based on title 18, U.S.C., 1940 ed., § 318 (Mar. 4, 1909, ch. 321, § 195, 35 Stat. 1125).
 
 The provisions of said section 318 of title 18, U.S.C., 1940 ed., were incorporated in this section and section 1703 of this title.
 
@@ -551,15 +551,15 @@ Changes were made in phraseology.
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1710. Theft of newspapers
+## § 1710. Theft of newspapers
 
 Whoever, being a Postal Service officer or employee, takes or steals any newspaper or package of newspapers from any post office or from any person having custody thereof, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 780; Pub. L. 91–375, § 6(j)(20), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 780; Pub. L. 91–375, § 6(j)(20), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 319 (Mar. 4, 1909, ch. 321, § 196, 35 Stat. 1126).
+Based on title 18, U.S.C., 1940 ed., § 319 (Mar. 4, 1909, ch. 321, § 196, 35 Stat. 1126).
 
 Theft provisions alone are retained in this section. Those relating to other offenses were incorporated in section 1703 of this title.
 
@@ -581,17 +581,17 @@ Changes were made in phraseology.
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1711. Misappropriation of postal funds
+## § 1711. Misappropriation of postal funds
 
 Whoever, being a Postal Service officer or employee, loans, uses, pledges, hypothecates, or converts to his own use, or deposits in any bank, or exchanges for other funds or property, except as authorized by law, any money or property coming into his hands or under his control in any manner, in the execution or under color of his office, employment, or service, whether or not the same shall be the money or property of the United States; or fails or refuses to remit to or deposit in the Treasury of the United States or in a designated depository, or to account for or turn over to the proper officer or agent, any such money or property, when required to do so by law or the regulations of the Postal Service, or upon demand or order of the Postal Service, either directly or through a duly authorized officer or agent, is guilty of embezzlement; and every such person, as well as every other person advising or knowingly participating therein, shall be fined under this title or in a sum equal to the amount or value of the money or property embezzled, whichever is greater, or imprisoned not more than ten years, or both; but if the amount or value thereof does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
 This section shall not prohibit any Postal Service officer or employee from depositing, under the direction of the Postal Service, in a national bank designated by the Secretary of the Treasury for that purpose, to his own credit as Postal Service officer or employee, any funds in his charge, nor prevent his negotiating drafts or other evidences of debt through such bank, or through United States disbursing officers, or otherwise, when instructed or required so to do by the Postal Service, for the purpose of remitting surplus funds from one post office to another.
 
-(June 25, 1948, ch. 645, 62 Stat. 780; Pub. L. 91–375, § 6(j)(21), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(H), (2)(G), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 780; Pub. L. 91–375, § 6(j)(21), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(H), (2)(G), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 355 (Mar. 4, 1909, ch. 321, § 225, 35 Stat. 1133; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
+Based on title 18, U.S.C., 1940 ed., § 355 (Mar. 4, 1909, ch. 321, § 225, 35 Stat. 1133; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
 
 Said section 355 was divided into two sections, this section and section 3498 of this title.
 
@@ -605,9 +605,9 @@ Changes of phraseology only were made.
 
 1996—Pub. L. 104–294 substituted “$1,000” for “$100” in first par.
 
-1994—Pub. L. 103–322, § 330016(2)(G), in first par., substituted “be fined under this title or in a sum equal to the amount or value of the money or property embezzled, whichever is greater, or imprisoned” for “be fined in a sum equal to the amount or value of the money or property embezzled or imprisoned”.
+1994—Pub. L. 103–322, § 330016(2)(G), in first par., substituted “be fined under this title or in a sum equal to the amount or value of the money or property embezzled, whichever is greater, or imprisoned” for “be fined in a sum equal to the amount or value of the money or property embezzled or imprisoned”.
 
-Pub. L. 103–322, § 330016(1)(H), in first par., substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
+Pub. L. 103–322, § 330016(1)(H), in first par., substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
 
 1970—Pub. L. 91–375 substituted “Postal Service officer or employee” and “Postal Service” for “postmaster or Postal Service employee” and “Post Office Department” in first par., “Postal Service officer or employee” for “Postmaster” in two places in second par., and “Postal Service” for “Postmaster General” once in first par. after “order of the” and twice in second par., respectively.
 
@@ -617,7 +617,7 @@ Pub. L. 103–322, § 330016(1)(H), in first par., substituted “fined under 
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1712. Falsification of postal returns to increase compensation
+## § 1712. Falsification of postal returns to increase compensation
 
 Whoever, being a Postal Service officer or employee, makes a false return, statement, or account to any officer of the United States, or makes a false entry in any record, book, or account, required by law or the rules or regulations of the Postal Service to be kept in respect of the business or operations of any post office or other branch of the Postal Service, for the purpose of fraudulently increasing his compensation or the compensation of the postmaster or any employee in a post office; or
 
@@ -625,11 +625,11 @@ Whoever, being a Postal Service officer or employee in any post office or statio
 
 Shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 780; Pub. L. 91–375, § 6(j)(22), Aug. 12, 1970, 84 Stat. 779; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 780; Pub. L. 91–375, § 6(j)(22), Aug. 12, 1970, 84 Stat. 779; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 329 and on section 172 of title 39, U.S.C., 1940 ed., The Postal Service (Aug. 4, 1886, ch. 901, § 3, 24 Stat. 221; Mar. 4, 1909, ch. 321, § 206, 35 Stat. 1128; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
+Based on title 18, U.S.C., 1940 ed., § 329 and on section 172 of title 39, U.S.C., 1940 ed., The Postal Service (Aug. 4, 1886, ch. 901, § 3, 24 Stat. 221; Mar. 4, 1909, ch. 321, § 206, 35 Stat. 1128; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
 
 Said sections were consolidated.
 
@@ -653,15 +653,15 @@ Minor verbal changes were made.
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1713. Issuance of money orders without payment
+## § 1713. Issuance of money orders without payment
 
 Whoever, being an officer or employee of the Postal Service, issues a money order without having previously received the money therefor, shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 781; Pub. L. 91–375, § 6(j)(23), Aug. 12, 1970, 84 Stat. 779; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 781; Pub. L. 91–375, § 6(j)(23), Aug. 12, 1970, 84 Stat. 779; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 333 (Mar. 4, 1909, ch. 321, § 210, 35 Stat. 1129).
+Based on title 18, U.S.C., 1940 ed., § 333 (Mar. 4, 1909, ch. 321, § 210, 35 Stat. 1129).
 
 Minor change was made in phraseology.
 
@@ -679,23 +679,23 @@ Minor change was made in phraseology.
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## [§ 1714. Repealed. Pub. L. 101–647, title XII, § 1210(b), Nov. 29, 1990, 104 Stat. 4832]
+## [§ 1714. Repealed. Pub. L. 101–647, title XII, § 1210(b), Nov. 29, 1990, 104 Stat. 4832]
 
 Section, act June 25, 1948, ch. 645, 62 Stat. 781, provided that certain foreign divorce information was nonmailable.
 
-## § 1715. Firearms as nonmailable; regulations
+## § 1715. Firearms as nonmailable; regulations
 
 Pistols, revolvers, and other firearms capable of being concealed on the person are nonmailable and shall not be deposited in or carried by the mails or delivered by any officer or employee of the Postal Service. Such articles may be conveyed in the mails, under such regulations as the Postal Service shall prescribe, for use in connection with their official duty, to officers of the Army, Navy, Air Force, Coast Guard, Marine Corps, Space Force, or Organized Reserve Corps; to officers of the National Guard or Militia of a State, Territory, Commonwealth, Possession, or District; to officers of the United States or of a State, Territory, Commonwealth, Possession, or District whose official duty is to serve warrants of arrest or commitments; to employees of the Postal Service; to officers and employees of enforcement agencies of the United States; and to watchmen engaged in guarding the property of the United States, a State, Territory, Commonwealth, Possession, or District. Such articles also may be conveyed in the mails to manufacturers of firearms or bona fide dealers therein in customary trade shipments, including such articles for repairs or replacement of parts, from one to the other, under such regulations as the Postal Service shall prescribe.
 
 Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail according to the direction thereon, or at any place to which it is directed to be delivered by the person to whom it is addressed, any pistol, revolver, or firearm declared nonmailable by this section, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 781; May 24, 1949, ch. 139, § 40, 63 Stat. 95; Pub. L. 91–375, § 6(j)(24), Aug. 12, 1970, 84 Stat. 779; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 607(f), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 116–283, div. A, title IX, § 927(c), Jan. 1, 2021, 134 Stat. 3831.)
+(June 25, 1948, ch. 645, 62 Stat. 781; May 24, 1949, ch. 139, § 40, 63 Stat. 95; Pub. L. 91–375, § 6(j)(24), Aug. 12, 1970, 84 Stat. 779; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 607(f), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 116–283, div. A, title IX, § 927(c), Jan. 1, 2021, 134 Stat. 3831.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., § 361 (Feb. 8, 1927, ch. 75, § 1, 44 Stat. 1059; May 15, 1939, ch. 134, 53 Stat. 744; Mar. 7, 1942, ch. 160, 56 Stat. 141).
+Based on title 18, U.S.C., 1940 ed., § 361 (Feb. 8, 1927, ch. 75, § 1, 44 Stat. 1059; May 15, 1939, ch. 134, 53 Stat. 744; Mar. 7, 1942, ch. 160, 56 Stat. 141).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -703,7 +703,7 @@ Minor changes were made in phraseology.
 
 **1949 Act**
 
-This section [section 40] inserts “Air Force,” in section 1715 of title 18, U.S.C., in view of the establishment in 1947 of this separate branch of the armed forces, and substitutes, “Organized” for “Officers’ ”, preceding “Reserve Corps”, to conform to section 2 of title 10, U.S.C., as amended by the act of March 25, 1948 (ch. 157, § 1, 62 Stat. 87), which grouped all reserve branches into a reserve component called the Organized Reserve Corps.
+This section [section 40] inserts “Air Force,” in section 1715 of title 18, U.S.C., in view of the establishment in 1947 of this separate branch of the armed forces, and substitutes, “Organized” for “Officers’ ”, preceding “Reserve Corps”, to conform to section 2 of title 10, U.S.C., as amended by the act of March 25, 1948 (ch. 157, § 1, 62 Stat. 87), which grouped all reserve branches into a reserve component called the Organized Reserve Corps.
 
 **Editorial Notes**
 
@@ -717,7 +717,7 @@ This section [section 40] inserts “Air Force,” in section 1715 of title 18, 
 
 1970—Pub. L. 91–375 substituted “Postal Service” for “Postmaster General” after “such regulations as the” in two places and “officer or employee of” for “postmaster, letter carrier, or other person in” in first par., respectively.
 
-1949—Act May 24, 1949, inserted “Air Force” after “Navy” and substituted “Organized” for “Officers’ ” before “Reserve Corps” in first par., to make section applicable to the Air Force and to conform to the grouping of all reserve branches into a single reserve component.
+1949—Act May 24, 1949, inserted “Air Force” after “Navy” and substituted “Organized” for “Officers’ ” before “Reserve Corps” in first par., to make section applicable to the Air Force and to conform to the grouping of all reserve branches into a single reserve component.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -725,7 +725,7 @@ This section [section 40] inserts “Air Force,” in section 1715 of title 18, 
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1716. Injurious articles as nonmailable
+## § 1716. Injurious articles as nonmailable
 
 **(a)** All kinds of poison, and all articles and compositions containing poison, and all poisonous animals, insects, reptiles, and all explosives, hazardous materials, inflammable materials, infernal machines, and mechanical, chemical, or other devices or compositions which may ignite or explode, and all disease germs or scabs, and all other natural or artificial articles, compositions, or material which may kill or injure another, or injure the mails or other property, whether or not sealed as first-class matter, are nonmailable matter and shall not be conveyed in the mails or delivered from any post office or station thereof, nor by any officer or employee of the Postal Service.
 
@@ -769,11 +769,11 @@ The Postal Service may require, as a condition of conveying any such knife in th
 
 **(k)** For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 781; May 8, 1952, ch. 246, 66 Stat. 67; June 29, 1955, ch. 224, 69 Stat. 191; Pub. L. 85–268, Sept. 2, 1957, 71 Stat. 594; Pub. L. 85–623, § 5, Aug. 12, 1958, 72 Stat. 562; Pub. L. 91–375, § 6(j)(25), Aug. 12, 1970, 84 Stat. 779; Pub. L. 92–191, § 1, Dec. 15, 1971, 85 Stat. 647; Pub. L. 99–570, title X, § 10003, Oct. 27, 1986, 100 Stat. 3207–167; Pub. L. 103–322, title VI, § 60003(a)(7), title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–294, title VI, § 607(g), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–273, div. B, title IV, § 4002(b)(2), (6), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 109–435, title X, § 1008(d), Dec. 20, 2006, 120 Stat. 3261.)
+(June 25, 1948, ch. 645, 62 Stat. 781; May 8, 1952, ch. 246, 66 Stat. 67; June 29, 1955, ch. 224, 69 Stat. 191; Pub. L. 85–268, Sept. 2, 1957, 71 Stat. 594; Pub. L. 85–623, § 5, Aug. 12, 1958, 72 Stat. 562; Pub. L. 91–375, § 6(j)(25), Aug. 12, 1970, 84 Stat. 779; Pub. L. 92–191, § 1, Dec. 15, 1971, 85 Stat. 647; Pub. L. 99–570, title X, § 10003, Oct. 27, 1986, 100 Stat. 3207–167; Pub. L. 103–322, title VI, § 60003(a)(7), title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–294, title VI, § 607(g), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–273, div. B, title IV, § 4002(b)(2), (6), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 109–435, title X, § 1008(d), Dec. 20, 2006, 120 Stat. 3261.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 340 (Mar. 4, 1909. ch. 321, § 217, 35 Stat. 1131; May 25, 1920, ch. 196, 41 Stat. 620; Jan. 11, 1929, ch. 53, 45 Stat. 1072; June 19, 1934, ch. 650, 48 Stat. 1063).
+Based on title 18, U.S.C., 1940 ed., § 340 (Mar. 4, 1909. ch. 321, § 217, 35 Stat. 1131; May 25, 1920, ch. 196, 41 Stat. 620; Jan. 11, 1929, ch. 53, 45 Stat. 1072; June 19, 1934, ch. 650, 48 Stat. 1063).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -787,21 +787,21 @@ Minor changes were made in phraseology.
 
 2006—Subsec. (a). Pub. L. 109–435 inserted “hazardous materials,” after “explosives,”.
 
-2002—Subsec. (g)(3). Pub. L. 107–273, § 4002(b)(2), made technical correction to directory language of Pub. L. 104–294, § 607(g)(2). See 1996 Amendment note below.
+2002—Subsec. (g)(3). Pub. L. 107–273, § 4002(b)(2), made technical correction to directory language of Pub. L. 104–294, § 607(g)(2). See 1996 Amendment note below.
 
-Subsec. (j). Pub. L. 107–273, § 4002(b)(6), designated first, second, and third undesignated pars. after subsec. (i) as pars. (1) to (3), respectively, of subsec. (j) and, in par. (2), substituted “under this title” for “not more than $10,000”. Former subsec. (j) redesignated (k).
+Subsec. (j). Pub. L. 107–273, § 4002(b)(6), designated first, second, and third undesignated pars. after subsec. (i) as pars. (1) to (3), respectively, of subsec. (j) and, in par. (2), substituted “under this title” for “not more than $10,000”. Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 107–273, § 4002(b)(6)(D), redesignated subsec. (j) as (k).
+Subsec. (k). Pub. L. 107–273, § 4002(b)(6)(D), redesignated subsec. (j) as (k).
 
-1996—Subsec. (g)(2). Pub. L. 104–294, § 607(g)(1), substituted “State” for “State, Territory, or the District of Columbia”.
+1996—Subsec. (g)(2). Pub. L. 104–294, § 607(g)(1), substituted “State” for “State, Territory, or the District of Columbia”.
 
-Subsec. (g)(3). Pub. L. 104–294, § 607(g)(2), as amended by Pub. L. 107–273, § 4002(b)(2), substituted “any State, or any political subdivision of a State” for “the municipal government of the District of Columbia or of the government of any State or Territory, or any county, city, or other political subdivision of a State”.
+Subsec. (g)(3). Pub. L. 104–294, § 607(g)(2), as amended by Pub. L. 107–273, § 4002(b)(2), substituted “any State, or any political subdivision of a State” for “the municipal government of the District of Columbia or of the government of any State or Territory, or any county, city, or other political subdivision of a State”.
 
-Subsec. (j). Pub. L. 104–294, § 607(g)(3), added subsec. (j) at end.
+Subsec. (j). Pub. L. 104–294, § 607(g)(3), added subsec. (j) at end.
 
-1994—Pub. L. 103–322, § 330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” in first undesignated par. after subsec. (i).
+1994—Pub. L. 103–322, § 330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” in first undesignated par. after subsec. (i).
 
-Pub. L. 103–322, § 60003(a)(7), in last par., struck out before period at end “, if the jury shall in its discretion so direct, or, in the case of a plea of guilty, or a plea of not guilty where the defendant has waived a trial by jury, if the court in its discretion, shall so order”.
+Pub. L. 103–322, § 60003(a)(7), in last par., struck out before period at end “, if the jury shall in its discretion so direct, or, in the case of a plea of guilty, or a plea of not guilty where the defendant has waived a trial by jury, if the court in its discretion, shall so order”.
 
 1986—Subsec. (i). Pub. L. 99–570 added subsec. (i).
 
@@ -809,19 +809,19 @@ Pub. L. 103–322, § 60003(a)(7), in last par., struck out before period at e
 
 Subsec. (h). Pub. L. 92–191 added subsec. (h).
 
-1970—First par. Pub. L. 91–375, § 6(j)(25)(B)(ii), substituted “officer or employee of the Postal Service” for “letter carrier”.
+1970—First par. Pub. L. 91–375, § 6(j)(25)(B)(ii), substituted “officer or employee of the Postal Service” for “letter carrier”.
 
-Second par. Pub. L. 91–375, § 6(j)(25)(A), substituted “Postal Service” and “it shall prescribe” for “Postmaster General” and “he shall prescribe”.
+Second par. Pub. L. 91–375, § 6(j)(25)(A), substituted “Postal Service” and “it shall prescribe” for “Postmaster General” and “he shall prescribe”.
 
-Third par. Pub. L. 91–375, § 6(j)(25)(A), substituted “Postal Service” for “Postmaster General” in two places, “prescribed by it” for “prescribed by him”, “antivenom” for “antivenin”, “necessary or desirable” for “necessary or advisable”, and “Postal Service personnel” for “Post Office Department personnel”.
+Third par. Pub. L. 91–375, § 6(j)(25)(A), substituted “Postal Service” for “Postmaster General” in two places, “prescribed by it” for “prescribed by him”, “antivenom” for “antivenin”, “necessary or desirable” for “necessary or advisable”, and “Postal Service personnel” for “Post Office Department personnel”.
 
-Fourth par. Pub. L. 91–375, § 6(j)(25)(A), substituted “Postal Service” and “it shall prescribe” for “Postmaster General” and “he shall prescribe”, respectively, and struck out the comma after “veterinarians”.
+Fourth par. Pub. L. 91–375, § 6(j)(25)(A), substituted “Postal Service” and “it shall prescribe” for “Postmaster General” and “he shall prescribe”, respectively, and struck out the comma after “veterinarians”.
 
-Fifth par. Pub. L. 91–375 § 6(j)(25)(B)(i) substituted “Postal Service” for “Postmaster General” in two places.
+Fifth par. Pub. L. 91–375 § 6(j)(25)(B)(i) substituted “Postal Service” for “Postmaster General” in two places.
 
-Seventh par. Pub. L. 91–375, § 6(j)(25)(B)(i), (iii), substituted “Postal Service” for “Postmaster General” in three places, and “officer or employee of the Postal Service” for “postmaster, letter carrier, or other person in the postal service”, respectively.
+Seventh par. Pub. L. 91–375, § 6(j)(25)(B)(i), (iii), substituted “Postal Service” for “Postmaster General” in three places, and “officer or employee of the Postal Service” for “postmaster, letter carrier, or other person in the postal service”, respectively.
 
-Eighth to tenth pars. Pub. L. 91–375, § 6(j)(25)(B)(i), substituted “Postal Service” for “Postmaster General”.
+Eighth to tenth pars. Pub. L. 91–375, § 6(j)(25)(B)(i), substituted “Postal Service” for “Postmaster General”.
 
 1958—Pub. L. 85–623 inserted paragraph prohibiting mailing of switchblade knives except in connection with Armed Forces or other Government orders.
 
@@ -835,7 +835,7 @@ Eighth to tenth pars. Pub. L. 91–375, § 6(j)(25)(B)(i), substituted “Post
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. B, title IV, § 4002(b)(2), Nov. 2, 2002, 116 Stat. 1807, provided that the amendment made by section 4002(b)(2) is effective Oct. 11, 1996.
+Pub. L. 107–273, div. B, title IV, § 4002(b)(2), Nov. 2, 2002, 116 Stat. 1807, provided that the amendment made by section 4002(b)(2) is effective Oct. 11, 1996.
 
 **Effective Date of 1986 Amendment**
 
@@ -843,7 +843,7 @@ Amendment by Pub. L. 99–570 effective 30 days after Oct. 27, 1986, see section
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 92–191, § 3, Dec. 15, 1971, 85 Stat. 647, provided that: “The amendments made by this Act [amending this section and section 3001 of Title 39, Postal Service] shall become effective at the beginning of the third calendar month following the date of enactment of this Act [Dec. 15, 1971] or on the date section 3001 of title 39, United States Code, becomes effective [July 1, 1971] pursuant to section 15(a) of Public Law 91–375 [set out as an Effective Date note preceding section 101 of title 39], whichever is the later.”
+Pub. L. 92–191, § 3, Dec. 15, 1971, 85 Stat. 647, provided that: “The amendments made by this Act [amending this section and section 3001 of Title 39, Postal Service] shall become effective at the beginning of the third calendar month following the date of enactment of this Act [Dec. 15, 1971] or on the date section 3001 of title 39, United States Code, becomes effective [July 1, 1971] pursuant to section 15(a) of Public Law 91–375 [set out as an Effective Date note preceding section 101 of title 39], whichever is the later.”
 
 **Effective Date of 1970 Amendment**
 
@@ -855,15 +855,15 @@ Amendment by Pub. L. 85–623 effective on the sixtieth day after Aug. 12, 1958,
 
 **Hazardous Substances**
 
-Federal Hazardous Substances Act as not modifying this section, see Pub. L. 86–613, § 17, July 12, 1960, 74 Stat. 380, set out as a note under section 1261 of Title 15, Commerce and Trade.
+Federal Hazardous Substances Act as not modifying this section, see Pub. L. 86–613, § 17, July 12, 1960, 74 Stat. 380, set out as a note under section 1261 of Title 15, Commerce and Trade.
 
-## § 1716A. Nonmailable locksmithing devices and motor vehicle master keys
+## § 1716A. Nonmailable locksmithing devices and motor vehicle master keys
 
 **(a)** Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail according to the direction thereon, or at any place to which it is directed to be delivered by the person to whom it is addressed, any matter declared to be nonmailable by section 3002 of title 39, shall be fined under this title or imprisoned not more than one year, or both.
 
 **(b)** Whoever knowingly deposits for mailing or delivery, causes to be delivered by mail, or causes to be delivered by any interstate mailing or delivery other than by the United States Postal Service, any matter declared to be nonmailable by section 3002a of title 39, shall be fined under this title, imprisoned not more than one year, or both.
 
-(Added Pub. L. 90–560, § 2(1), Oct. 12, 1968, 82 Stat. 997; amended Pub. L. 91–375, Aug. 12, 1970, § 6(j)(26), 84 Stat. 780; Pub. L. 100–690, title VII, § 7090(c), Nov. 18, 1988, 102 Stat. 4410; Pub. L. 101–647, title XXXV, § 3551, Nov. 29, 1990, 104 Stat. 4926.)
+(Added Pub. L. 90–560, § 2(1), Oct. 12, 1968, 82 Stat. 997; amended Pub. L. 91–375, Aug. 12, 1970, § 6(j)(26), 84 Stat. 780; Pub. L. 100–690, title VII, § 7090(c), Nov. 18, 1988, 102 Stat. 4410; Pub. L. 101–647, title XXXV, § 3551, Nov. 29, 1990, 104 Stat. 4926.)
 
 **Editorial Notes**
 
@@ -883,13 +883,13 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 **Effective Date**
 
-Pub. L. 90–560, § 3, Oct. 12, 1968, 82 Stat. 997, provided that: “The amendments made by the first section and section 2 of this Act [enacting this section and section 4010 of former Title 39, The Postal Service] shall become effective on the sixtieth day after the date of enactment of this Act [Oct. 12, 1968].”
+Pub. L. 90–560, § 3, Oct. 12, 1968, 82 Stat. 997, provided that: “The amendments made by the first section and section 2 of this Act [enacting this section and section 4010 of former Title 39, The Postal Service] shall become effective on the sixtieth day after the date of enactment of this Act [Oct. 12, 1968].”
 
-## § 1716B. Nonmailable plants
+## § 1716B. Nonmailable plants
 
 Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail, according to the direction thereon, or at any place at which it is directed to be delivered by the person to whom it is addressed, anything declared nonmailable by section 3014(b) of title 39, unless in accordance with the rules and regulations prescribed by the Postal Service under section 3014(c) of such title, shall be fined under this title, or imprisoned not more than one year, or both.
 
-(Added Pub. L. 100–574, § 1(b)(1), Oct. 31, 1988, 102 Stat. 2893.)
+(Added Pub. L. 100–574, § 1(b)(1), Oct. 31, 1988, 102 Stat. 2893.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -897,11 +897,11 @@ Whoever knowingly deposits for mailing or delivery, or knowingly causes to be de
 
 Section effective Oct. 31, 1989, see section 4 of Pub. L. 100–574, set out as a note under section 3014 of Title 39, Postal Service.
 
-## § 1716C. Forged agricultural certifications
+## § 1716C. Forged agricultural certifications
 
 Whoever forges or counterfeits any certification authorized under any rules or regulations prescribed under section 3014(c) of title 39 with intent to make it appear that such is a genuine certification, or makes or knowingly uses or sells, or possesses with intent to use or sell, any forged or counterfeited certification so authorized, or device for imprinting any such certification, shall be fined under this title, or imprisoned not more than one year, or both.
 
-(Added Pub. L. 100–574, § 2(a), Oct. 31, 1988, 102 Stat. 2893.)
+(Added Pub. L. 100–574, § 2(a), Oct. 31, 1988, 102 Stat. 2893.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -909,13 +909,13 @@ Whoever forges or counterfeits any certification authorized under any rules or r
 
 Section effective Oct. 31, 1989, see section 4 of Pub. L. 100–574, set out as a note under section 3014 of Title 39, Postal Service.
 
-## § 1716D. Nonmailable injurious animals, plant pests, plants, and illegally taken fish, wildlife, and plants
+## § 1716D. Nonmailable injurious animals, plant pests, plants, and illegally taken fish, wildlife, and plants
 
 A person who knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail, according to the direction thereon, or at any place at which it is directed to be delivered by the person to whom it is addressed, anything that section 3015 of title 39 declares to be nonmailable matter shall be fined under this title, imprisoned not more than 1 year, or both.
 
-(Added Pub. L. 103–322, title XXXII, § 320108(b)(1), Sept. 13, 1994, 108 Stat. 2113.)
+(Added Pub. L. 103–322, title XXXII, § 320108(b)(1), Sept. 13, 1994, 108 Stat. 2113.)
 
-## § 1716E. Tobacco products as nonmailable
+## § 1716E. Tobacco products as nonmailable
 
 **(a) Prohibition.—**
 
@@ -955,9 +955,9 @@ A person who knowingly deposits for mailing or delivery, or knowingly causes to 
 
 **(IV)** that the identity of the business or government entity submitting the mailing containing otherwise nonmailable tobacco products for delivery and the identity of the business or government entity receiving the mailing are clearly set forth on the package;
 
-**(V)** the United States Postal Service to maintain identifying information described in subclause (IV) during the 3-year period beginning on the date of the mailing and make the information available to the Postal Service, the Attorney General of the United States, and to persons eligible to bring enforcement actions under section 3(d) 1
+**(V)** the United States Postal Service to maintain identifying information described in subclause (IV) during the 3-year period beginning on the date of the mailing and make the information available to the Postal Service, the Attorney General of the United States, and to persons eligible to bring enforcement actions under section 3(d) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Prevent All Cigarette Trafficking Act of 2009;
 
@@ -995,9 +995,9 @@ of the Prevent All Cigarette Trafficking Act of 2009;
 
 **(5) Exception for mailings for consumer testing by manufacturers.—**
 
-**(A) In general.—** Subject to subparagraph (B), subsection (a) shall not preclude a legally operating cigarette manufacturer or a legally authorized agent of a legally operating cigarette manufacturer from using the United States Postal Service to mail cigarettes to verified 2
+**(A) In general.—** Subject to subparagraph (B), subsection (a) shall not preclude a legally operating cigarette manufacturer or a legally authorized agent of a legally operating cigarette manufacturer from using the United States Postal Service to mail cigarettes to verified 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “a”.
+<sup>2</sup> So in original. Probably should be preceded by “a”.
 
 adult smoker solely for consumer testing purposes, if—
 
@@ -1031,7 +1031,7 @@ adult smoker solely for consumer testing purposes, if—
 
 **(I)** the United States Postal Service to verify that any person submitting a tobacco product into the mails under this paragraph is a legally operating cigarette manufacturer permitted to make a mailing under this paragraph,3
 
-<sup>3</sup>  So in original. The comma probably should not appear.
+<sup>3</sup> So in original. The comma probably should not appear.
 
 or an agent legally authorized by the legally operating cigarette manufacturer to submit the tobacco product into the mails on behalf of the manufacturer;
 
@@ -1087,7 +1087,7 @@ or an agent legally authorized by the legally operating cigarette manufacturer t
 
 **(i) Definition.—** In this section, the term “State” has the meaning given that term in section 1716(k).
 
-(Added Pub. L. 111–154, § 3(a), Mar. 31, 2010, 124 Stat. 1103.)
+(Added Pub. L. 111–154, § 3(a), Mar. 31, 2010, 124 Stat. 1103.)
 
 **Editorial Notes**
 
@@ -1111,23 +1111,23 @@ Section effective on the date that is 90 days after March 31, 2010, see section 
 
 **Nonmailability of Electronic Nicotine Delivery Systems**
 
-Pub. L. 116–260, div. FF, title VI, § 603, Dec. 27, 2020, 134 Stat. 3137, provided that:
+Pub. L. 116–260, div. FF, title VI, § 603, Dec. 27, 2020, 134 Stat. 3137, provided that:
 
 > **“(a) Regulations.—** Not later than 120 days after the date of enactment of this Act [Dec. 27, 2020], the United States Postal Service shall promulgate regulations to clarify the applicability of the prohibition on mailing of cigarettes under section 1716E of title 18, United States Code, to electronic nicotine delivery systems, in accordance with the amendment to the definition of ‘cigarette’ made by section 602 [amending sections 375 and 376a of Title 15, Commerce and Trade].
 
 > **“(b) Effective Date.—** The prohibition on mailing of cigarettes under section 1716E of title 18, United States Code, shall apply to electronic nicotine delivery systems on and after the date on which the United States Postal Service promulgates regulations under subsection (a) of this section.”
 
-## § 1717. Letters and writings as nonmailable
+## § 1717. Letters and writings as nonmailable
 
 **(a)** Every letter, writing, circular, postal card, picture, print, engraving, photograph, newspaper, pamphlet, book, or other publication, matter or thing, in violation of sections 499, 506, 793, 794, 915, 954, 956, 957, 960, 964, 1017, 1542, 1543, 1544 or 2388 of this title or which contains any matter advocating or urging treason, insurrection, or forcible resistance to any law of the United States is nonmailable and shall not be conveyed in the mails or delivered from any post office or by any letter carrier.
 
 **(b)** Whoever uses or attempts to use the mails or Postal Service for the transmission of any matter declared by this section to be nonmailable, shall be fined under this title or imprisoned not more than ten years or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 782; Pub. L. 86–682, § 12(b), Sept. 2, 1960, 74 Stat. 708; Pub. L. 91–375, § 6(j)(27), Aug. 12, 1970, 84 Stat. 780; Pub. L. 101–647, title XXXV, § 3552(a), Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 782; Pub. L. 86–682, § 12(b), Sept. 2, 1960, 74 Stat. 708; Pub. L. 91–375, § 6(j)(27), Aug. 12, 1970, 84 Stat. 780; Pub. L. 101–647, title XXXV, § 3552(a), Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 343, 344, 345, 346 (June 15, 1917, ch. 30, title XII, §§ 1–3, title XIII, § 1, 40 Stat. 230, 231; Mar. 28, 1940, ch. 72, § 9, 54 Stat. 80).
+Based on title 18, U.S.C., 1940 ed., §§ 343, 344, 345, 346 (June 15, 1917, ch. 30, title XII, §§ 1–3, title XIII, § 1, 40 Stat. 230, 231; Mar. 28, 1940, ch. 72, § 9, 54 Stat. 80).
 
 Section consolidates said sections 343–345 of title 18, U.S.C., 1940 ed. The provision as to opening letters was incorporated in paragraph (c).
 
@@ -1147,7 +1147,7 @@ Minor changes were made in arrangement, translation, and phraseology.
 
 1994—Subsec. (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-1990—Pub. L. 101–647 struck out “; opening letters” after “nonmailable” in section catchline.
+1990—Pub. L. 101–647 struck out “; opening letters” after “nonmailable” in section catchline.
 
 1970—Subsec. (b). Pub. L. 91–375 struck out “of the United States” after “Postal Service”.
 
@@ -1163,19 +1163,19 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Amendment by Pub. L. 86–682 effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, Sept. 2, 1960, 74 Stat. 708.
 
-## [§ 1718. Repealed. Pub. L. 101–647, title XII, § 1210(c), Nov. 29, 1990, 104 Stat. 4832]
+## [§ 1718. Repealed. Pub. L. 101–647, title XII, § 1210(c), Nov. 29, 1990, 104 Stat. 4832]
 
-Section, acts June 25, 1948, ch. 645, 62 Stat. 782; Aug. 12, 1970, Pub. L. 91–375, § 6(j)(28), 84 Stat. 780, provided that libelous matter on wrappers or envelopes was nonmailable.
+Section, acts June 25, 1948, ch. 645, 62 Stat. 782; Aug. 12, 1970, Pub. L. 91–375, § 6(j)(28), 84 Stat. 780, provided that libelous matter on wrappers or envelopes was nonmailable.
 
-## § 1719. Franking privilege
+## § 1719. Franking privilege
 
 Whoever makes use of any official envelope, label, or indorsement authorized by law, to avoid the payment of postage or registry fee on his private letter, packet, package, or other matter in the mail, shall be fined under this title.
 
-(June 25, 1948, ch. 645. 62 Stat. 783; Pub. L. 103–322, title XXXIII, § 330016(1)(F), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645. 62 Stat. 783; Pub. L. 103–322, title XXXIII, § 330016(1)(F), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 357 (Mar. 4, 1909, ch. 321, § 227, 35 Stat. 1134).
+Based on title 18, U.S.C., 1940 ed., § 357 (Mar. 4, 1909, ch. 321, § 227, 35 Stat. 1134).
 
 Minor verbal change was made. Section 746(f) of title 8, U.S.C., 1940 ed., Aliens and Nationality, providing same penalty for misuse of franking privilege in naturalization service, should be repealed as covered by this section. The proviso in section 337 of title 39, U.S.C., 1940 ed., The Postal Service, should also be repealed for the same reason.
 
@@ -1185,7 +1185,7 @@ Minor verbal change was made. Section 746(f) of title 8, U.S.C., 1940 ed., Alien
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $300”.
 
-## § 1720. Canceled stamps and envelopes
+## § 1720. Canceled stamps and envelopes
 
 Whoever uses or attempts to use in payment of postage, any canceled postage stamp, whether the same has been used or not, or removes, attempts to remove, or assists in removing, the canceling or defacing marks from any postage stamp, or the superscription from any stamped envelope, or postal card, that has once been used in payment of postage, with the intent to use the same for a like purpose, or to sell or offer to sell the same, or knowingly possesses any such postage stamp, stamped envelope, or postal card, with intent to use the same or knowingly sells or offers to sell any such postage stamp, stamped envelope, or postal card, or uses or attempts to use the same in payment of postage; or
 
@@ -1195,11 +1195,11 @@ Whoever knowingly uses in payment of postage, any postage stamp, postal card, or
 
 Shall be fined under this title or imprisoned not more than one year, or both; but if he is a person employed in the Postal Service, he shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 783; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 783; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 328 (Mar. 4, 1909, ch. 321, § 205, 35 Stat. 1127).
+Based on title 18, U.S.C., 1940 ed., § 328 (Mar. 4, 1909, ch. 321, § 205, 35 Stat. 1127).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -1211,15 +1211,15 @@ Minor verbal changes were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in two places in last par.
 
-## § 1721. Sale or pledge of stamps
+## § 1721. Sale or pledge of stamps
 
 Whoever, being a Postal Service officer or employee, knowingly and willfully: uses or disposes of postage stamps, stamped envelopes, or postal cards entrusted to his care or custody in the payment of debts, or in the purchase of merchandise or other salable articles, or pledges or hypothecates the same or sells or disposes of them except for cash; or sells or disposes of postage stamps or postal cards for any larger or less sum than the values indicated on their faces; or sells or disposes of stamped envelopes for a larger or less sum than is charged therefor by the Postal Service for like quantities; or sells or disposes of postage stamps, stamped envelopes, or postal cards at any point or place outside of the delivery of the office where such officer or employee is employed; or for the purpose of increasing the emoluments, or compensation of any such officer or employee, inflates or induces the inflation of the receipts of any post office or any station or branch thereof; or sells or disposes of postage stamps, stamped envelopes, or postal cards, otherwise than as provided by law or the regulations of the Postal Service; shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 783; Aug. 1, 1956, ch. 818, 70 Stat. 784; Pub. L. 91–375, § 6(j)(29), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 783; Aug. 1, 1956, ch. 818, 70 Stat. 784; Pub. L. 91–375, § 6(j)(29), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 331 of title 18 and section 364 of title 39, The Postal Service, both U.S.C., 1940 ed. (R.S. § 3920; Mar. 4, 1909, ch. 321, § 208, 35 Stat. 1128).
+Based on section 331 of title 18 and section 364 of title 39, The Postal Service, both U.S.C., 1940 ed. (R.S. § 3920; Mar. 4, 1909, ch. 321, § 208, 35 Stat. 1128).
 
 Said sections were consolidated with only minor changes in phraseology.
 
@@ -1241,15 +1241,15 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1722. False evidence to secure second-class rate
+## § 1722. False evidence to secure second-class rate
 
 Whoever knowingly submits to the Postal Service or to any officer or employee of the Postal Service, any false evidence relative to any publication for the purpose of securing the admission thereof at the second-class rate, for transportation in the mails, shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 783; Pub. L. 91–375, § 6(j)(30), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 783; Pub. L. 91–375, § 6(j)(30), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 353 (Mar. 4, 1909, ch. 321, § 223, 35 Stat. 1133).
+Based on title 18, U.S.C., 1940 ed., § 353 (Mar. 4, 1909, ch. 321, § 223, 35 Stat. 1133).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -1269,17 +1269,17 @@ Minor verbal change was made.
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1723. Avoidance of postage by using lower class matter
+## § 1723. Avoidance of postage by using lower class matter
 
 Matter of the second, third, or fourth class containing any writing or printing in addition to the original matter, other than as authorized by law, shall not be admitted to the mails, nor delivered, except upon payment of postage for matter of the first class, deducting therefrom any amount which may have been prepaid by stamps affixed, unless by direction of a duly authorized officer of the Postal Service such postage shall be remitted.
 
 Whoever knowingly conceals or incloses any matter of a higher class in that of a lower class, and deposits the same for conveyance by mail, at a less rate than would be charged for such higher class matter, shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 784; Pub. L. 91–375, § 6(j)(31), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 784; Pub. L. 91–375, § 6(j)(31), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 351 (Mar. 4, 1909, ch. 321, § 221, 35 Stat. 1132).
+Based on title 18, U.S.C., 1940 ed., § 351 (Mar. 4, 1909, ch. 321, § 221, 35 Stat. 1132).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -1299,15 +1299,15 @@ Minor verbal changes were made.
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1724. Postage on mail delivered by foreign vessels
+## § 1724. Postage on mail delivered by foreign vessels
 
 Except as otherwise provided by treaty or convention the Postal Service may require the transportation by any steamship of mail between the United States and any foreign port at the compensation fixed under authority of law. Upon refusal by the master or the commander of such steamship or vessel to accept the mail, when tendered by the Postal Service or its representative, the collector or other officer of the port empowered to grant clearance, on notice of the refusal aforesaid, shall withhold clearance, until the collector or other officer of the port is informed by the Postal Service or its representative that the master or commander of the steamship or vessel has accepted the mail or that conveyance by his steamship or vessel is no longer required by the Postal Service.
 
-(June 25, 1948, ch. 645, 62 Stat. 784; Sept. 25, 1951, ch. 413, § 1(4), 65 Stat. 336; Pub. L. 91–375, § 6(j)(32), Aug. 12, 1970, 84 Stat. 780.)
+(June 25, 1948, ch. 645, 62 Stat. 784; Sept. 25, 1951, ch. 413, § 1(4), 65 Stat. 336; Pub. L. 91–375, § 6(j)(32), Aug. 12, 1970, 84 Stat. 780.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 326 (Mar. 4, 1909, ch. 321, § 203, 35 Stat. 1127; Feb. 6, 1929, ch. 157, 45 Stat. 1153).
+Based on title 18, U.S.C., 1940 ed., § 326 (Mar. 4, 1909, ch. 321, § 203, 35 Stat. 1127; Feb. 6, 1929, ch. 157, 45 Stat. 1153).
 
 **Editorial Notes**
 
@@ -1323,15 +1323,15 @@ Based on title 18, U.S.C., 1940 ed., § 326 (Mar. 4, 1909, ch. 321, § 203, 
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1725. Postage unpaid on deposited mail matter
+## § 1725. Postage unpaid on deposited mail matter
 
 Whoever knowingly and willfully deposits any mailable matter such as statements of accounts, circulars, sale bills, or other like matter, on which no postage has been paid, in any letter box established, approved, or accepted by the Postal Service for the receipt or delivery of mail matter on any mail route with intent to avoid payment of lawful postage thereon, shall for each such offense be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 784; Pub. L. 91–375, § 6(j)(33), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, § 330016(1)(F), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 784; Pub. L. 91–375, § 6(j)(33), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, § 330016(1)(F), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 321a (May 7, 1934, ch. 220, § 2, 48 Stat. 667).
+Based on title 18, U.S.C., 1940 ed., § 321a (May 7, 1934, ch. 220, § 2, 48 Stat. 667).
 
 Reference to persons aiding or assisting was struck out as unnecessary since such persons are made principals by section 2 of this title.
 
@@ -1351,15 +1351,15 @@ Minor verbal changes were made.
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1726. Postage collected unlawfully
+## § 1726. Postage collected unlawfully
 
 Whoever, being a postmaster or other person authorized to receive the postage of mail matter, fraudulently demands or receives any rate of postage or gratuity or reward other than is provided by law for the postage of such mail matter, shall be fined under this title or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 784; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 784; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 330 (Mar. 4, 1909, ch. 321, § 207, 35 Stat. 1128).
+Based on title 18, U.S.C., 1940 ed., § 330 (Mar. 4, 1909, ch. 321, § 207, 35 Stat. 1128).
 
 Minor verbal changes were made.
 
@@ -1369,7 +1369,7 @@ Minor verbal changes were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $100”.
 
-## [§ 1727. Repealed. Pub. L. 90–384, § 1(a), July 5, 1968, 82 Stat. 292]
+## [§ 1727. Repealed. Pub. L. 90–384, § 1(a), July 5, 1968, 82 Stat. 292]
 
 Section, act June 25, 1948, ch. 645, 62 Stat. 785, provided for a fine of not more than $50 for postage accounting violations.
 
@@ -1377,17 +1377,17 @@ Section, act June 25, 1948, ch. 645, 62 Stat. 785, provided for a fine of not mo
 
 **Savings Provision**
 
-Pub. L. 90–384, § 2, July 5, 1968, 82 Stat. 292, provided that: “Nothing in this Act [repealing this section] shall be construed to affect in any way any prosecution for any offense occurring prior to the date of enactment of such Act [July 5, 1968].”
+Pub. L. 90–384, § 2, July 5, 1968, 82 Stat. 292, provided that: “Nothing in this Act [repealing this section] shall be construed to affect in any way any prosecution for any offense occurring prior to the date of enactment of such Act [July 5, 1968].”
 
-## § 1728. Weight of mail increased fraudulently
+## § 1728. Weight of mail increased fraudulently
 
 Whoever places any matter in the mails during the regular weighing period, for the purpose of increasing the weight of the mail, with intent to cause an increase in the compensation of the railroad mail carrier over whose route such mail may pass, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 103–322, title XXXIII, § 330016(1)(N), Sept. 13, 1994, 108 Stat. 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 103–322, title XXXIII, § 330016(1)(N), Sept. 13, 1994, 108 Stat. 2148.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 358 (Mar. 4, 1909, ch. 321, § 228, 35 Stat. 1134).
+Based on title 18, U.S.C., 1940 ed., § 358 (Mar. 4, 1909, ch. 321, § 228, 35 Stat. 1134).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -1399,15 +1399,15 @@ Minor verbal changes were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $20,000”.
 
-## § 1729. Post office conducted without authority
+## § 1729. Post office conducted without authority
 
 Whoever, without authority from the Postal Service, sets up or professes to keep any office or place of business bearing the sign, name, or title of post office, shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 91–375, § 6(j)(34), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 91–375, § 6(j)(34), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 302 (Mar. 4, 1909, ch. 321, § 179, 35 Stat. 1123).
+Based on title 18, U.S.C., 1940 ed., § 302 (Mar. 4, 1909, ch. 321, § 179, 35 Stat. 1123).
 
 Minor verbal changes were made.
 
@@ -1425,17 +1425,17 @@ Minor verbal changes were made.
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1730. Uniforms of carriers
+## § 1730. Uniforms of carriers
 
 Whoever, not being connected with the letter-carrier branch of the Postal Service, wears the uniform or badge which may be prescribed by the Postal Service to be worn by letter carriers, shall be fined under this title or imprisoned not more than six months, or both.
 
 The provisions of the preceding paragraph shall not apply to an actor or actress in a theatrical, television, or motion-picture production who wears the uniform or badge of the letter-carrier branch of the Postal Service while portraying a member of that service.
 
-(June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 90–413, July 21, 1968, 82 Stat. 396; Pub. L. 91–375, § 6(j)(35), Aug. 12, 1970, 84 Stat. 780; Pub. L. 101–647, title XII, § 1210(a), Nov. 29, 1990, 104 Stat. 4832; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 90–413, July 21, 1968, 82 Stat. 396; Pub. L. 91–375, § 6(j)(35), Aug. 12, 1970, 84 Stat. 780; Pub. L. 101–647, title XII, § 1210(a), Nov. 29, 1990, 104 Stat. 4832; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 310 (Mar. 4, 1909, ch. 321, § 187, 35 Stat. 1124).
+Based on title 18, U.S.C., 1940 ed., § 310 (Mar. 4, 1909, ch. 321, § 187, 35 Stat. 1124).
 
 Minor verbal change was made.
 
@@ -1445,7 +1445,7 @@ Minor verbal change was made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $100” in first par.
 
-1990—Pub. L. 101–647 struck out “, if the portrayal does not tend to discredit that service” before period at end of second par.
+1990—Pub. L. 101–647 struck out “, if the portrayal does not tend to discredit that service” before period at end of second par.
 
 1970—Pub. L. 91–375 substituted “Postal Service” for “Postmaster General” before “to be worn” in first par.
 
@@ -1457,17 +1457,17 @@ Minor verbal change was made.
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1731. Vehicles falsely labeled as carriers
+## § 1731. Vehicles falsely labeled as carriers
 
 It shall be unlawful to paint, print, or in any manner to place upon or attach to any steamboat or other vessel, or any car, stagecoach, vehicle, or other conveyance, not actually used in carrying the mail, the words “United States Mail”, or any words, letters, or characters of like import; or to give notice, by publishing in any newspaper or otherwise, that any steamboat or other vessel, or any car, stagecoach, vehicle, or other conveyance, is used in carrying the mail, when the same is not actually so used.
 
 Whoever violates, and every owner, receiver, lessee, or managing operator who suffers, or permits the violation of, any provision of this section, shall be fined under this title or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 311 (Mar. 4, 1909, ch. 321, § 188, 35 Stat. 1124).
+Based on title 18, U.S.C., 1940 ed., § 311 (Mar. 4, 1909, ch. 321, § 188, 35 Stat. 1124).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -1481,15 +1481,15 @@ Minor verbal changes were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in second par.
 
-## § 1732. Approval of bond or sureties by postmaster
+## § 1732. Approval of bond or sureties by postmaster
 
 Whoever, being a postmaster, affixes his signature to the approval of any bond of a bidder, or to the certificate of sufficiency of sureties in any contract, before the said bond or contract is signed by the bidder or contractor and his sureties, or knowingly, or without the exercise of due diligence, approves any bond of a bidder with insufficient sureties, or knowingly makes any false or fraudulent certificate, shall be fined under this title or imprisoned not more than one year, or both; and shall be dismissed from office and disqualified from holding the office of postmaster.
 
-(June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 352 (Mar. 4, 1909, ch. 321, § 222, 35 Stat. 1133).
+Based on title 18, U.S.C., 1940 ed., § 352 (Mar. 4, 1909, ch. 321, § 222, 35 Stat. 1133).
 
 Minor verbal changes were made.
 
@@ -1499,11 +1499,11 @@ Minor verbal changes were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 1733. Mailing periodical publications without prepayment of postage
+## § 1733. Mailing periodical publications without prepayment of postage
 
 Whoever, except as permitted by law, knowingly mails any periodical publication without the prepayment of postage, or, being an officer or employee of the Postal Service, knowingly permits any periodical publication to be mailed without prepayment of postage, shall be fined under this title, or imprisoned not more than one year, or both.
 
-(Added Pub. L. 86–682, § 7, Sept. 2, 1960, 74 Stat. 705; amended Pub. L. 91–375, § 6(j)(36)(A), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 86–682, § 7, Sept. 2, 1960, 74 Stat. 705; amended Pub. L. 91–375, § 6(j)(36)(A), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -1511,7 +1511,7 @@ Whoever, except as permitted by law, knowingly mails any periodical publication 
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-1970—Pub. L. 91–375 substituted “Mailing periodical publications without prepayment of postage” for “Affidavits relating to second class mail” as section catchline, struck out subsec. (a) penalty provision for fine of not more than $1,000 for each refusal to make affidavits relating to second class mail when tendering for mailing such mail without any affidavits, and reenacted subsec. (b) as the section without any subsection designation, inserting “, except as permitted by law,” and substituting “periodical publication” for “second class mail” in two places, “prepayment of postage” for “payment of postage” where first appearing, and “officer or employee of the Postal Service” for “postmaster or postal official”.
+1970—Pub. L. 91–375 substituted “Mailing periodical publications without prepayment of postage” for “Affidavits relating to second class mail” as section catchline, struck out subsec. (a) penalty provision for fine of not more than $1,000 for each refusal to make affidavits relating to second class mail when tendering for mailing such mail without any affidavits, and reenacted subsec. (b) as the section without any subsection designation, inserting “, except as permitted by law,” and substituting “periodical publication” for “second class mail” in two places, “prepayment of postage” for “payment of postage” where first appearing, and “officer or employee of the Postal Service” for “postmaster or postal official”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1523,11 +1523,11 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, Sept. 2, 1960, 74 Stat. 708.
 
-## § 1734. Editorials and other matter as “advertisements”
+## § 1734. Editorials and other matter as “advertisements”
 
 Whoever, being an editor or publisher, prints in a publication entered as second class mail, editorial or other reading matter for which he has been paid or promised a valuable consideration, without plainly marking the same “advertisement” shall be fined under this title.
 
-(Added Pub. L. 86–682, § 7, Sept. 2, 1960, 74 Stat. 706; amended Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 86–682, § 7, Sept. 2, 1960, 74 Stat. 706; amended Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -1541,7 +1541,7 @@ Whoever, being an editor or publisher, prints in a publication entered as second
 
 Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, Sept. 2, 1960, 74 Stat. 708.
 
-## § 1735. Sexually oriented advertisements
+## § 1735. Sexually oriented advertisements
 
 **(a)** Whoever—
 
@@ -1553,7 +1553,7 @@ shall be fined under this title or imprisoned not more than five years, or both,
 
 **(b)** For the purposes of this section, the term “sexually oriented advertisement” shall have the same meaning as given it in section 3010(d) of title 39.
 
-(Added Pub. L. 91–375, § 6(j)(37)(A), Aug. 12, 1970, 84 Stat. 781; amended Pub. L. 103–322, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 91–375, § 6(j)(37)(A), Aug. 12, 1970, 84 Stat. 781; amended Pub. L. 103–322, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -1567,7 +1567,7 @@ shall be fined under this title or imprisoned not more than five years, or both,
 
 Section effective on first day of sixth month which begins after Aug. 12, 1970, see section 15(b) of Pub. L. 91–375, set out as a note preceding section 101 of Title 39, Postal Service.
 
-## § 1736. Restrictive use of information
+## § 1736. Restrictive use of information
 
 **(a)** No information or evidence obtained by reason of compliance by a natural person with any provision of section 3010 of title 39, or regulations issued thereunder, shall, except as provided in subsection (c) of this section, be used, directly or indirectly, as evidence against that person in a criminal proceeding.
 
@@ -1575,7 +1575,7 @@ Section effective on first day of sixth month which begins after Aug. 12, 1970, 
 
 **(c)** Subsections (a) and (b) of this section shall not preclude the use of any such information or evidence in a prosecution or other action under any applicable provision of law with respect to the furnishing of false information.
 
-(Added Pub. L. 91–375, § 6(j)(37)(A), Aug. 12, 1970, 84 Stat. 781.)
+(Added Pub. L. 91–375, § 6(j)(37)(A), Aug. 12, 1970, 84 Stat. 781.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1583,13 +1583,13 @@ Section effective on first day of sixth month which begins after Aug. 12, 1970, 
 
 Section effective on first day of sixth month which begins after Aug. 12, 1970, see section 15(b) of Pub. L. 91–375, set out as a note preceding section 101 of Title 39, Postal Service.
 
-## § 1737. Manufacturer of sexually related mail matter
+## § 1737. Manufacturer of sexually related mail matter
 
 **(a)** Whoever shall print, reproduce, or manufacture any sexually related mail matter, intending or knowing that such matter will be deposited for mailing or delivery by mail in violation of section 3008 or 3010 of title 39, or in violation of any regulation of the Postal Service issued under such section, shall be fined under this title or imprisoned not more than five years, or both, for the first offense, and shall be fined under this title or imprisoned not more than ten years, or both, for any second or subsequent offense.
 
 **(b)** As used in this section, the term “sexually related mail matter” means any matter which is within the scope of section 3008(a) or 3010(d) of title 39.
 
-(Added Pub. L. 91–375, § 6(j)(37)(A), Aug. 12, 1970, 84 Stat. 781; amended Pub. L. 103–322, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 91–375, § 6(j)(37)(A), Aug. 12, 1970, 84 Stat. 781; amended Pub. L. 103–322, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -1603,9 +1603,9 @@ Section effective on first day of sixth month which begins after Aug. 12, 1970, 
 
 Section effective on first day of sixth month which begins after Aug. 12, 1970, see section 15(b) of Pub. L. 91–375, set out as a note preceding section 101 of Title 39, Postal Service.
 
-## [§ 1738. Repealed. Pub. L. 106–578, § 4, Dec. 28, 2000, 114 Stat. 3076]
+## [§ 1738. Repealed. Pub. L. 106–578, § 4, Dec. 28, 2000, 114 Stat. 3076]
 
-Section, added Pub. L. 97–398, § 4(a), Dec. 31, 1982, 96 Stat. 2011; amended Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147, related to mailing private identification documents without a disclaimer.
+Section, added Pub. L. 97–398, § 4(a), Dec. 31, 1982, 96 Stat. 2011; amended Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147, related to mailing private identification documents without a disclaimer.
 
 **Statutory Notes and Related Subsidiaries**
 

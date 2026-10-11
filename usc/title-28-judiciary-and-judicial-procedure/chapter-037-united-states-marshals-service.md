@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1988—Pub. L. 100–690, title VII, § 7608(a)(3), Nov. 18, 1988, 102 Stat. 4514, substituted in chapter heading “Marshals Service” for “Marshals” and amended chapter analysis generally, substituting items 561 to 569 for former items 561 to 576.
+1988—Pub. L. 100–690, title VII, § 7608(a)(3), Nov. 18, 1988, 102 Stat. 4514, substituted in chapter heading “Marshals Service” for “Marshals” and amended chapter analysis generally, substituting items 561 to 569 for former items 561 to 576.
 
-1984—Pub. L. 98–473, title II, § 1211(c), Oct. 12, 1984, 98 Stat. 2163, added item 576.
+1984—Pub. L. 98–473, title II, § 1211(c), Oct. 12, 1984, 98 Stat. 2163, added item 576.
 
-1982—Pub. L. 97–258, § 2(g)(3)(A), Sept. 13, 1982, 96 Stat. 1060, added item 572a.
+1982—Pub. L. 97–258, § 2(g)(3)(A), Sept. 13, 1982, 96 Stat. 1060, added item 572a.
 
-1972—Pub. L. 92–310, title II, § 206(a)(2), June 6, 1972, 86 Stat. 203, struck out item 564 “Bond”.
+1972—Pub. L. 92–310, title II, § 206(a)(2), June 6, 1972, 86 Stat. 203, struck out item 564 “Bond”.
 
-1966—Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 619, added chapter 37 and items 561 to 575.
+1966—Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 619, added chapter 37 and items 561 to 575.
 
-## § 561. United States Marshals Service
+## § 561. United States Marshals Service
 
 **(a)** There is hereby established a United States Marshals Service as a bureau within the Department of Justice under the authority and direction of the Attorney General. There shall be at the head of the United States Marshals Service (hereafter in this chapter referred to as the “Service”) a Director who shall be appointed by the President, by and with the advice and consent of the Senate.
 
@@ -61,13 +61,13 @@ retrieved: 2026-10-11
 
 **(4)** experience in or with county, State, and Federal court systems or experience with protection of court personnel, jurors, and witnesses.
 
-(Added Pub. L. 100–690, title VII, § 7608(a)(1), Nov. 18, 1988, 102 Stat. 4512; amended Pub. L. 107–273, div. A, title III, § 301(b), Nov. 2, 2002, 116 Stat. 1781; Pub. L. 109–177, title V, § 505, Mar. 9, 2006, 120 Stat. 247.)
+(Added Pub. L. 100–690, title VII, § 7608(a)(1), Nov. 18, 1988, 102 Stat. 4512; amended Pub. L. 107–273, div. A, title III, § 301(b), Nov. 2, 2002, 116 Stat. 1781; Pub. L. 109–177, title V, § 505, Mar. 9, 2006, 120 Stat. 247.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 561, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 619; amended Pub. L. 95–530, § 2, Oct. 27, 1978, 92 Stat. 2028, related to appointment, term, and residence of United States marshals, prior to repeal by Pub. L. 100–690, § 7608(a)(1).
+A prior section 561, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 619; amended Pub. L. 95–530, § 2, Oct. 27, 1978, 92 Stat. 2028, related to appointment, term, and residence of United States marshals, prior to repeal by Pub. L. 100–690, § 7608(a)(1).
 
 **Amendments**
 
@@ -75,7 +75,7 @@ A prior section 561, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 
 
 2002—Subsec. (i). Pub. L. 107–273 struck out subsec. (i) which read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out the functions of the Service.”
 
-## § 562. Vacancies
+## § 562. Vacancies
 
 **(a)** In the case of a vacancy in the office of a United States marshal, the Attorney General may designate a person to perform the functions of and act as marshal, except that the Attorney General may not designate to act as marshal any person who was appointed by the President to that office but with respect to such appointment the Senate has refused to give its advice and consent.
 
@@ -87,51 +87,51 @@ A prior section 561, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 
 
 **(3)** If such designee of the Attorney General is appointed by the President pursuant to section 561(c), but the Senate refuses to give its advice and consent to the appointment, the expiration of the thirtieth day following such refusal.
 
-(Added Pub. L. 100–690, title VII, § 7608(a)(1), Nov. 18, 1988, 102 Stat. 4513.)
+(Added Pub. L. 100–690, title VII, § 7608(a)(1), Nov. 18, 1988, 102 Stat. 4513.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 562, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 619, related to appointment of deputy marshals and clerical assistants, prior to repeal by Pub. L. 100–690, § 7608(a)(1). See section 561(f) of this title.
+A prior section 562, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 619, related to appointment of deputy marshals and clerical assistants, prior to repeal by Pub. L. 100–690, § 7608(a)(1). See section 561(f) of this title.
 
-## § 563. Oath of office
+## § 563. Oath of office
 
 The Director and each United States marshal and law enforcement officer of the Service, before taking office, shall take an oath or affirmation to faithfully execute the duties of that office.
 
-(Added Pub. L. 100–690, title VII, § 7608(a)(1), Nov. 18, 1988, 102 Stat. 4513.)
+(Added Pub. L. 100–690, title VII, § 7608(a)(1), Nov. 18, 1988, 102 Stat. 4513.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 563, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 619, specifically stated the oath of office to be taken, prior to repeal by Pub. L. 100–690, § 7608(a)(1). See section 561(h) of this title.
+A prior section 563, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 619, specifically stated the oath of office to be taken, prior to repeal by Pub. L. 100–690, § 7608(a)(1). See section 561(h) of this title.
 
-## § 564. Powers as sheriff
+## § 564. Powers as sheriff
 
 United States marshals, deputy marshals and such other officials of the Service as may be designated by the Director, in executing the laws of the United States within a State, may exercise the same powers which a sheriff of the State may exercise in executing the laws thereof.
 
-(Added Pub. L. 100–690, title VII, § 7608(a)(1), Nov. 18, 1988, 102 Stat. 4513.)
+(Added Pub. L. 100–690, title VII, § 7608(a)(1), Nov. 18, 1988, 102 Stat. 4513.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 564, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 619, related to bonds of United States marshals, prior to repeal by Pub. L. 92–310, title II, § 206(a)(1), June 6, 1972, 86 Stat. 203.
+A prior section 564, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 619, related to bonds of United States marshals, prior to repeal by Pub. L. 92–310, title II, § 206(a)(1), June 6, 1972, 86 Stat. 203.
 
-## § 565. Expenses of the Service
+## § 565. Expenses of the Service
 
 The Director is authorized to use funds appropriated for the Service to make payments for expenses incurred pursuant to personal services contracts and cooperative agreements, authorized by the Attorney General, for security guards and for the service of summons on complaints, subpoenas, and notices in lieu of services by United States marshals and deputy marshals.
 
-(Added Pub. L. 100–690, title VII, § 7608(a)(1), Nov. 18, 1988, 102 Stat. 4513.)
+(Added Pub. L. 100–690, title VII, § 7608(a)(1), Nov. 18, 1988, 102 Stat. 4513.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 565, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 620, related to filling vacancies, prior to repeal by Pub. L. 100–690, § 7608(a)(1). See section 562 of this title.
+A prior section 565, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 620, related to filling vacancies, prior to repeal by Pub. L. 100–690, § 7608(a)(1). See section 562 of this title.
 
-## § 566. Powers and duties
+## § 566. Powers and duties
 
 **(a)** It is the primary role and mission of the United States Marshals Service to provide for the security and to obey, execute, and enforce all orders of the United States District Courts, the United States Courts of Appeals, the Court of International Trade, and the United States Tax Court, as provided by law.
 
@@ -167,13 +167,13 @@ A prior section 565, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 
 
 **(i)** The Director of the United States Marshals Service shall consult with the Judicial Conference of the United States on a continuing basis regarding the security requirements for the judicial branch of the United States Government, to ensure that the views of the Judicial Conference regarding the security requirements for the judicial branch of the Federal Government are taken into account when determining staffing levels, setting priorities for programs regarding judicial security, and allocating judicial security resources. In this paragraph, the term “judicial security” includes the security of buildings housing the judiciary, the personal security of judicial officers, the assessment of threats made to judicial officers, and the protection of all other judicial personnel. The United States Marshals Service retains final authority regarding security requirements for the judicial branch of the Federal Government.
 
-(Added Pub. L. 100–690, title VII, § 7608(a)(1), Nov. 18, 1988, 102 Stat. 4514; amended Pub. L. 110–177, title I, §§ 101(a), 102(a), Jan. 7, 2008, 121 Stat. 2534, 2535; Pub. L. 112–206, § 4(b), Dec. 7, 2012, 126 Stat. 1492; Pub. L. 114–22, title VI, § 605, May 29, 2015, 129 Stat. 260.)
+(Added Pub. L. 100–690, title VII, § 7608(a)(1), Nov. 18, 1988, 102 Stat. 4514; amended Pub. L. 110–177, title I, §§ 101(a), 102(a), Jan. 7, 2008, 121 Stat. 2534, 2535; Pub. L. 112–206, § 4(b), Dec. 7, 2012, 126 Stat. 1492; Pub. L. 114–22, title VI, § 605, May 29, 2015, 129 Stat. 260.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 566, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 620; amended Pub. L. 92–310, title II, § 206(b), June 6, 1972, 86 Stat. 203, provided that upon death of a marshal his deputy or deputies perform his duties until a successor is appointed and qualifies, prior to repeal by Pub. L. 100–690, § 7608(a)(1).
+A prior section 566, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 620; amended Pub. L. 92–310, title II, § 206(b), June 6, 1972, 86 Stat. 203, provided that upon death of a marshal his deputy or deputies perform his duties until a successor is appointed and qualifies, prior to repeal by Pub. L. 100–690, § 7608(a)(1).
 
 **Amendments**
 
@@ -181,15 +181,15 @@ A prior section 566, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 
 
 2012—Subsec. (e)(1)(C). Pub. L. 112–206 added subpar. (C).
 
-2008—Subsec. (a). Pub. L. 110–177, § 102(a), substituted “, the Court of International Trade, and the United States Tax Court, as provided by law” for “and the Court of International Trade”.
+2008—Subsec. (a). Pub. L. 110–177, § 102(a), substituted “, the Court of International Trade, and the United States Tax Court, as provided by law” for “and the Court of International Trade”.
 
-Subsec. (i). Pub. L. 110–177, § 101(a), added subsec. (i).
+Subsec. (i). Pub. L. 110–177, § 101(a), added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Fugitive Apprehension Task Forces**
 
-Pub. L. 106–544, § 6, Dec. 19, 2000, 114 Stat. 2718, as amended by Pub. L. 110–177, title V, § 507, Jan. 7, 2008, 121 Stat. 2543, relating to the establishment of Fugitive Apprehension Task Forces, was editorially reclassified as section 41503 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 106–544, § 6, Dec. 19, 2000, 114 Stat. 2718, as amended by Pub. L. 110–177, title V, § 507, Jan. 7, 2008, 121 Stat. 2543, relating to the establishment of Fugitive Apprehension Task Forces, was editorially reclassified as section 41503 of Title 34, Crime Control and Law Enforcement.
 
 **Executive Documents**
 
@@ -269,13 +269,13 @@ Sec. 6. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 567. Collection of fees; accounting
+## § 567. Collection of fees; accounting
 
 **(a)** Each United States marshal shall collect, as far as possible, his lawful fees and account for the same as public moneys.
 
 **(b)** The marshal’s accounts of fees and costs paid to a witness or juror on certificate of attendance issued as provided by sections 1825 and 1871 of this title may not be reexamined to charge him for an erroneous payment of the fees or costs.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 621, § 572; renumbered § 567, Pub. L. 100–690, title VII, § 7608(a)(2)(B), Nov. 18, 1988, 102 Stat. 4514.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 621, § 572; renumbered § 567, Pub. L. 100–690, title VII, § 7608(a)(2)(B), Nov. 18, 1988, 102 Stat. 4514.)
 
 **Historical and Revision Notes**
 
@@ -289,7 +289,7 @@ In subsection (b), the words “may not” are substituted for “shall not”.
 
 **1948 Act**
 
-*Prior section 551.—*Based on title 28, U.S.C., 1940 ed., §§ 577, 578a (R.S. § 846; May 28, 1896, ch. 252, §§ 6, 13, 24, 29 Stat. 179, 183, 186; May 27, 1908, ch. 200, § 1, 35 Stat. 375; June 6, 1930, ch. 409, 46 Stat. 522; Oct. 13, 1941, ch. 431, § 1, 55 Stat. 736).
+*Prior section 551.—*Based on title 28, U.S.C., 1940 ed., §§ 577, 578a (R.S. § 846; May 28, 1896, ch. 252, §§ 6, 13, 24, 29 Stat. 179, 183, 186; May 27, 1908, ch. 200, § 1, 35 Stat. 375; June 6, 1930, ch. 409, 46 Stat. 522; Oct. 13, 1941, ch. 431, § 1, 55 Stat. 736).
 
 Section consolidates first sentence of section 577 with section 578a of title 28, U.S.C., 1940 ed., with changes of phraseology necessary to effect consolidation. Other provisions of said section 577 are incorporated in section 1929 of this title.
 
@@ -303,17 +303,17 @@ The provision of section 578a of title 28, U.S.C., 1940 ed., requiring that fees
 
 **Prior Provisions**
 
-A prior section 567, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 620, related to expenses of marshals, prior to repeal by Pub. L. 100–690, § 7608(a)(1). See section 565 of this title.
+A prior section 567, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 620, related to expenses of marshals, prior to repeal by Pub. L. 100–690, § 7608(a)(1). See section 565 of this title.
 
 **Amendments**
 
 1988—Pub. L. 100–690 renumbered section 572 of this title as this section.
 
-## § 568. Practice of law prohibited
+## § 568. Practice of law prohibited
 
 A United States marshal or deputy marshal may not practice law in any court of the United States.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 621, § 575; renumbered § 568, Pub. L. 100–690, title VII, § 7608(a)(2)(B), Nov. 18, 1988, 102 Stat. 4514.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 621, § 575; renumbered § 568, Pub. L. 100–690, title VII, § 7608(a)(2)(B), Nov. 18, 1988, 102 Stat. 4514.)
 
 **Historical and Revision Notes**
 
@@ -327,7 +327,7 @@ The words “may not” are substituted for “shall not”.
 
 **1948 Act**
 
-*Prior section 556.—*Based on title 28, U.S.C., 1940 ed., §§ 395 and 396 (Mar. 3, 1911, ch. 231, §§ 273, 274, 36 Stat. 1164).
+*Prior section 556.—*Based on title 28, U.S.C., 1940 ed., §§ 395 and 396 (Mar. 3, 1911, ch. 231, §§ 273, 274, 36 Stat. 1164).
 
 Section consolidates parts of sections 395 and 396 of title 28, U.S.C., 1940 ed. Similar provisions in said sections, relating to clerks, are incorporated in section 955 of this title.
 
@@ -341,13 +341,13 @@ Changes were made in phraseology.
 
 **Prior Provisions**
 
-A prior section 568, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 620, related to availability of appropriations for transfer of prisoners to narcotic farms, prior to repeal by Pub. L. 100–690, § 7608(a)(1).
+A prior section 568, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 620, related to availability of appropriations for transfer of prisoners to narcotic farms, prior to repeal by Pub. L. 100–690, § 7608(a)(1).
 
 **Amendments**
 
 1988—Pub. L. 100–690 renumbered section 575 of this title as this section.
 
-## § 569. Reemployment rights
+## § 569. Reemployment rights
 
 **(a)** A United States marshal for a judicial district who was appointed from a position in the competitive service (as defined in section 2102 of title 5) in the United States Marshals Service and who, for reasons other than misconduct, neglect of duty, or malfeasance, is removed from such office, is entitled to be reemployed in any vacant position in the competitive service in the United States Marshals Service at the same grade or pay level, or lower, as the individual’s former position if—
 
@@ -359,7 +359,7 @@ Such individual shall be so reemployed within thirty days after making such appl
 
 **(b)** Any United States marshal serving on the effective date of this section shall continue to serve for the remainder of the term for which such marshal was appointed, unless sooner removed by the President.
 
-(Added Pub. L. 98–473, title II, § 1211(a), Oct. 12, 1984, 98 Stat. 2163, § 576; renumbered § 569, Pub. L. 100–690, title VII, § 7608(a)(2)(B), Nov. 18, 1988, 102 Stat. 4514.)
+(Added Pub. L. 98–473, title II, § 1211(a), Oct. 12, 1984, 98 Stat. 2163, § 576; renumbered § 569, Pub. L. 100–690, title VII, § 7608(a)(2)(B), Nov. 18, 1988, 102 Stat. 4514.)
 
 **Editorial Notes**
 
@@ -369,7 +369,7 @@ The effective date of this section, referred to in subsec. (b), is Oct. 1, 1984.
 
 **Prior Provisions**
 
-A prior section 569, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 620; amended Pub. L. 95–598, title II, § 221, Nov. 6, 1978, 92 Stat. 2662; Pub. L. 96–417, title V, § 501(12), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 99–466, § 3(a), Oct. 14, 1986, 100 Stat. 1191, related to powers and duties generally and supervision by the Attorney General, prior to repeal by Pub. L. 100–690, § 7608(a)(1). See section 566 of this title.
+A prior section 569, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 620; amended Pub. L. 95–598, title II, § 221, Nov. 6, 1978, 92 Stat. 2662; Pub. L. 96–417, title V, § 501(12), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 99–466, § 3(a), Oct. 14, 1986, 100 Stat. 1191, related to powers and duties generally and supervision by the Attorney General, prior to repeal by Pub. L. 100–690, § 7608(a)(1). See section 566 of this title.
 
 **Amendments**
 
@@ -379,22 +379,22 @@ A prior section 569, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 
 
 **Effective Date**
 
-Pub. L. 98–473, title II, § 1212, Oct. 12, 1984, 98 Stat. 2163, provided that: “The amendments made by this subpart [subpart B (§§ 1211, 1212) of part F of chapter XII of title II of Pub. L. 98–473, enacting this section] shall take effect on October 1, 1984.”
+Pub. L. 98–473, title II, § 1212, Oct. 12, 1984, 98 Stat. 2163, provided that: “The amendments made by this subpart [subpart B (§§ 1211, 1212) of part F of chapter XII of title II of Pub. L. 98–473, enacting this section] shall take effect on October 1, 1984.”
 
-## [§§ 570, 571. Repealed. Pub. L. 100–690, title VII, § 7608(a)(1), Nov. 18, 1988, 102 Stat. 4512]
+## [§§ 570, 571. Repealed. Pub. L. 100–690, title VII, § 7608(a)(1), Nov. 18, 1988, 102 Stat. 4512]
 
-Section 570, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 620, granted United States marshals the power of a sheriff in executing laws of the United States in a State. See section 564 of this title.
+Section 570, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 620, granted United States marshals the power of a sheriff in executing laws of the United States in a State. See section 564 of this title.
 
-Section 571, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 621; amended Pub. L. 95–598, title II, §§ 222, 223, Nov. 6, 1978, 92 Stat. 2662; Pub. L. 97–258, § 2(g)(2), Sept. 13, 1982, 96 Stat. 1060, related to disbursement of salaries and moneys.
+Section 571, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 621; amended Pub. L. 95–598, title II, §§ 222, 223, Nov. 6, 1978, 92 Stat. 2662; Pub. L. 97–258, § 2(g)(2), Sept. 13, 1982, 96 Stat. 1060, related to disbursement of salaries and moneys.
 
-## [§ 572. Renumbered § 567]
+## [§ 572. Renumbered § 567]
 
-## [§§ 572a to 574. Repealed. Pub. L. 100–690, title VII, § 7608(a)(2)(A), Nov. 18, 1988, 102 Stat. 4514]
+## [§§ 572a to 574. Repealed. Pub. L. 100–690, title VII, § 7608(a)(2)(A), Nov. 18, 1988, 102 Stat. 4514]
 
-Section 572a, added Pub. L. 97–258, § 2(g)(3)(B), Sept. 13, 1982, 96 Stat. 1060, related to depositing of public moneys. See section 566(f) of this title.
+Section 572a, added Pub. L. 97–258, § 2(g)(3)(B), Sept. 13, 1982, 96 Stat. 1060, related to depositing of public moneys. See section 566(f) of this title.
 
-Section 573, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 621, related to delivery of prisoners to a successor. See section 566(g)(1) of this title.
+Section 573, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 621, related to delivery of prisoners to a successor. See section 566(g)(1) of this title.
 
-Section 574, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 621, related to delivery of unserved process to a successor. See section 566(g)(2) of this title.
+Section 574, added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 621, related to delivery of unserved process to a successor. See section 566(g)(2) of this title.
 
-## [§§ 575, 576. Renumbered §§ 568, 569]
+## [§§ 575, 576. Renumbered §§ 568, 569]

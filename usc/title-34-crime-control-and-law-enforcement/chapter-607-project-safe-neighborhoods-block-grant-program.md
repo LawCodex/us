@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 607—PROJECT SAFE NEIGHBORHOODS BLOCK GRANT PROGRAM
 
-## § 60701. Definitions
+## § 60701. Definitions
 
 For the purposes of this chapter—
 
@@ -25,7 +25,7 @@ For the purposes of this chapter—
 
 **(3)** the term “transnational organized crime group” has the meaning given such term in section 2708(k)(6) of title 22.
 
-(Pub. L. 115–185, § 2, June 18, 2018, 132 Stat. 1485.)
+(Pub. L. 115–185, § 2, June 18, 2018, 132 Stat. 1485.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -33,13 +33,13 @@ For the purposes of this chapter—
 
 For short title of Pub. L. 115–185, which is classified to this chapter, as the “Project Safe Neighborhoods Grant Program Authorization Act of 2018”, see section 1 of Pub. L. 115–185, set out as a Short Title of 2018 Amendment note under section 10101 of this title.
 
-## § 60702. Establishment
+## § 60702. Establishment
 
 The Attorney General of the United States is authorized to establish and carry out a program, to be known as the “Project Safe Neighborhoods Block Grant Program” within the Office of Justice Programs at the Department of Justice.
 
-(Pub. L. 115–185, § 3, June 18, 2018, 132 Stat. 1485.)
+(Pub. L. 115–185, § 3, June 18, 2018, 132 Stat. 1485.)
 
-## § 60703. Purpose
+## § 60703. Purpose
 
 **(a) Project Safe Neighborhoods Block Grant Program** The purpose of the Program is to foster and improve existing partnerships between Federal, State, and local agencies, including the United States Attorney in each Federal judicial district, entities representing members of the community affected by increased violence, victims’ advocates, and researchers to create safer neighborhoods through sustained reductions in violent crimes by—
 
@@ -53,17 +53,17 @@ The Attorney General of the United States is authorized to establish and carry o
 
 **(1)** competitive and evidence-based programs to reduce gun crime and gang violence;
 
-**(2)** the Edward Byrne criminal justice innovation program; 1
+**(2)** the Edward Byrne criminal justice innovation program; 1
 
-<sup>1</sup>  So in original. Probably should be “Edward Byrne Criminal Justice Innovation Program;”.
+<sup>1</sup> So in original. Probably should be “Edward Byrne Criminal Justice Innovation Program;”.
 
 **(3)** community-based violence prevention initiatives; or
 
 **(4)** gang and youth violence education, prevention and intervention, and related activities.
 
-(Pub. L. 115–185, § 4, June 18, 2018, 132 Stat. 1485.)
+(Pub. L. 115–185, § 4, June 18, 2018, 132 Stat. 1485.)
 
-## § 60704. Rules and regulations
+## § 60704. Rules and regulations
 
 **(a) In general**
 
@@ -81,10 +81,10 @@ Thirty percent of the amounts made available as grants under the Program each fi
 
 Amounts made available as grants under the Program shall be used to prioritize the investigation and prosecution of individuals who have an aggravating or leadership role in a criminal or transnational organization described in subsection (c).
 
-(Pub. L. 115–185, § 5, June 18, 2018, 132 Stat. 1486.)
+(Pub. L. 115–185, § 5, June 18, 2018, 132 Stat. 1486.)
 
-## § 60705. Authorization of appropriations
+## § 60705. Authorization of appropriations
 
 There are authorized to be appropriated to the Attorney General to carry out the Program $50,000,000 for each of fiscal years 2019 through 2021.
 
-(Pub. L. 115–185, § 6, June 18, 2018, 132 Stat. 1486.)
+(Pub. L. 115–185, § 6, June 18, 2018, 132 Stat. 1486.)

@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 559 of this title as this chapter and item 6113 as 8253.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 559 of this title as this chapter and item 6113 as 8253.
 
-1980—Pub. L. 96–513, title V, § 513(12), Dec. 12, 1980, 94 Stat. 2932, struck out item 6111 “Pay: withheld during absence due to use of drugs or alcohol”.
+1980—Pub. L. 96–513, title V, § 513(12), Dec. 12, 1980, 94 Stat. 2932, struck out item 6111 “Pay: withheld during absence due to use of drugs or alcohol”.
 
-1968—Pub. L. 90–235, § 6(a)(4), (9), Jan. 2, 1968, 81 Stat. 762, struck out item 6114 “Civilian employment: enlisted members”, and item 6116 “Service credit: officers; service as midshipman or cadet not counted”.
+1968—Pub. L. 90–235, § 6(a)(4), (9), Jan. 2, 1968, 81 Stat. 762, struck out item 6114 “Civilian employment: enlisted members”, and item 6116 “Service credit: officers; service as midshipman or cadet not counted”.
 
-1967—Pub. L. 90–83, § 3(5), Sept. 11, 1967, 81 Stat. 220, struck out item 6112 “Pay: officers; withheld while employed by certain contractors”.
+1967—Pub. L. 90–83, § 3(5), Sept. 11, 1967, 81 Stat. 220, struck out item 6112 “Pay: officers; withheld while employed by certain contractors”.
 
-1958—Pub. L. 85–861, § 1(136), Sept. 2, 1958, 72 Stat. 1507, struck out item 6115 “Drill pay; uniform gratuity: time limit for filing claim”.
+1958—Pub. L. 85–861, § 1(136), Sept. 2, 1958, 72 Stat. 1507, struck out item 6115 “Drill pay; uniform gratuity: time limit for filing claim”.
 
-## § 8253. Loans: Supply Corps officers
+## § 8253. Loans: Supply Corps officers
 
 Except as otherwise provided by law, an officer in the Supply Corps on active duty may not advance or lend any sum of money, public or private, or any article or commodity and may not extend credit to any officer of the naval service on active duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 381, § 6113; renumbered § 8253, Pub. L. 115–232, div. A, title VIII, § 807(b)(9), Aug. 13, 2018, 132 Stat. 1835.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 381, § 6113; renumbered § 8253, Pub. L. 115–232, div. A, title VIII, § 807(b)(9), Aug. 13, 2018, 132 Stat. 1835.)
 
 **Historical and Revision Notes**
 
@@ -43,15 +43,15 @@ Except as otherwise provided by law, an officer in the Supply Corps on active du
 
 The words “paymaster, passed assistant paymaster, or assistant paymaster” are omitted because those titles no longer exist, and the words “officer in the Supply Corps” are substituted therefor.
 
-The words “except as otherwise provided by law” are added because the Act of Oct. 5, 1949, ch. 600 (34 U.S.C. 875a), authorizes advances of pay to personnel upon permanent changes of station or where such personnel are on distant duty stations where disbursements of pay and allowances cannot be regularly made, and § 303(a) of the Career Compensation Act of 1949 (37 U.S.C. 253) authorizes advance payments of travel and transportation allowances. The words “on active duty” are supplied since the section has application to officers accountable for public funds or property. Officers not on active duty are not accountable officers.
+The words “except as otherwise provided by law” are added because the Act of Oct. 5, 1949, ch. 600 (34 U.S.C. 875a), authorizes advances of pay to personnel upon permanent changes of station or where such personnel are on distant duty stations where disbursements of pay and allowances cannot be regularly made, and § 303(a) of the Career Compensation Act of 1949 (37 U.S.C. 253) authorizes advance payments of travel and transportation allowances. The words “on active duty” are supplied since the section has application to officers accountable for public funds or property. Officers not on active duty are not accountable officers.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8253, act Aug. 10, 1956, ch. 1041, 70A Stat. 503; Pub. L. 87–143, § 1(2), Aug. 17, 1961, 75 Stat. 364; Pub. L. 90–235, § 2(a)(4)(A), Jan. 2, 1968, 81 Stat. 756; Pub. L. 96–513, title V, § 514(2), Dec. 12, 1980, 94 Stat. 2935, provided that, in peace time, Air Force enlistment was available only to citizens and persons lawfully admitted to the United States for permanent residence, prior to repeal by Pub. L. 109–163, div. A, title V, § 542(b)(1), Jan. 6, 2006, 119 Stat. 3253.
+A prior section 8253, act Aug. 10, 1956, ch. 1041, 70A Stat. 503; Pub. L. 87–143, § 1(2), Aug. 17, 1961, 75 Stat. 364; Pub. L. 90–235, § 2(a)(4)(A), Jan. 2, 1968, 81 Stat. 756; Pub. L. 96–513, title V, § 514(2), Dec. 12, 1980, 94 Stat. 2935, provided that, in peace time, Air Force enlistment was available only to citizens and persons lawfully admitted to the United States for permanent residence, prior to repeal by Pub. L. 109–163, div. A, title V, § 542(b)(1), Jan. 6, 2006, 119 Stat. 3253.
 
-Prior sections 8254 to 8256 were repealed by Pub. L. 90–235, § 2(a) (4)(B), Jan. 2, 1968, 81 Stat. 756.
+Prior sections 8254 to 8256 were repealed by Pub. L. 90–235, § 2(a) (4)(B), Jan. 2, 1968, 81 Stat. 756.
 
 Section 8254, act Aug. 10, 1956, ch. 1041, 70A Stat. 503, provided for temporary enlistments in Air Force during war or emergency.
 
@@ -61,9 +61,9 @@ Section 8256, act Aug. 10, 1956, ch. 1041, 70A Stat. 504, set forth qualificatio
 
 Prior sections 8257 and 8258 were renumbered sections 9137 and 9138 of this title.
 
-Prior sections 8259 and 8260 were repealed by Pub. L. 103–337, div. A, title XVI, § 1662(b)(3), Oct. 5, 1994, 108 Stat. 2990.
+Prior sections 8259 and 8260 were repealed by Pub. L. 103–337, div. A, title XVI, § 1662(b)(3), Oct. 5, 1994, 108 Stat. 2990.
 
-Section 8259, acts Aug. 10, 1956, ch. 1041, 70A Stat. 505; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, § 1234(a)(1), 102 Stat. 2059, related to transfers in grade of members of Air National Guard of United States to Air Force Reserve. See section 12105 of this title.
+Section 8259, acts Aug. 10, 1956, ch. 1041, 70A Stat. 505; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, § 1234(a)(1), 102 Stat. 2059, related to transfers in grade of members of Air National Guard of United States to Air Force Reserve. See section 12105 of this title.
 
 Section 8260, act Aug. 10, 1956, ch. 1041, 70A Stat. 505, provided that enlisted members of Air National Guard of United States are transferred to Air Force Reserve upon withdrawal as members of Air National Guard. See section 12106 of this title.
 

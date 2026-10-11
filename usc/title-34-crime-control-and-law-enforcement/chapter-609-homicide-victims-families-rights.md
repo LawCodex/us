@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 609—HOMICIDE VICTIMS’ FAMILIES’ RIGHTS
 
-## § 60901. Case file review
+## § 60901. Case file review
 
 **(a) In general**
 
@@ -63,7 +63,7 @@ The agency may extend the time limit under subsection (g) once for a period of t
 
 For cases for which the time limit in subsection (g) is extended, the agency shall provide notice and an explanation of its reasoning to one designated person who filed the written application pursuant to this section.
 
-(Pub. L. 117–164, § 2, Aug. 3, 2022, 136 Stat. 1358.)
+(Pub. L. 117–164, § 2, Aug. 3, 2022, 136 Stat. 1358.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -71,13 +71,13 @@ For cases for which the time limit in subsection (g) is extended, the agency sha
 
 For short title of Pub. L. 117–164, which enacted this chapter, as the Homicide Victims’ Families’ Rights Act of 2021, see section 1 of Pub. L. 117–164, set out as a Short Title of 2022 Amendment note under section 10101 of this title.
 
-## § 60902. Application
+## § 60902. Application
 
 Each agency shall develop a written application to be used for designated persons to request a case file review under section 60901 of this title.
 
-(Pub. L. 117–164, § 3, Aug. 3, 2022, 136 Stat. 1359.)
+(Pub. L. 117–164, § 3, Aug. 3, 2022, 136 Stat. 1359.)
 
-## § 60903. Full reinvestigation
+## § 60903. Full reinvestigation
 
 **(a) In general**
 
@@ -95,9 +95,9 @@ A reinvestigation required under subsection (a) shall not be conducted by a pers
 
 Only one full reinvestigation shall be undertaken at any one time with respect to the same cold case murder victim.
 
-(Pub. L. 117–164, § 4, Aug. 3, 2022, 136 Stat. 1359.)
+(Pub. L. 117–164, § 4, Aug. 3, 2022, 136 Stat. 1359.)
 
-## § 60904. Consultation and updates
+## § 60904. Consultation and updates
 
 **(a) In general**
 
@@ -107,15 +107,15 @@ The agency shall consult with the designated person who filed the written applic
 
 The agency shall meet with the designated person and discuss the evidence to explain to the designated person who filed the written application pursuant to section 60901 of this title its decision whether or not to engage in the full reinvestigation provided for under section 60903 of this title at the conclusion of the case file review.
 
-(Pub. L. 117–164, § 5, Aug. 3, 2022, 136 Stat. 1359.)
+(Pub. L. 117–164, § 5, Aug. 3, 2022, 136 Stat. 1359.)
 
-## § 60905. Subsequent reviews
+## § 60905. Subsequent reviews
 
 **(a) Case file review**
 
-If a review under subsection (a) case file 1
+If a review under subsection (a) case file 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 regarding a cold case murder is conducted and a conclusion is reached not to conduct a full reinvestigation, no additional case file review shall be required to be undertaken under this chapter with respect to that cold case murder for a period of five years, unless there is newly discovered, materially significant evidence. An agency may continue an investigation absent a designated person’s application.
 
@@ -123,9 +123,9 @@ regarding a cold case murder is conducted and a conclusion is reached not to con
 
 If a full reinvestigation of a cold case murder is completed and a suspect is not identified at its conclusion, no additional case file review or full reinvestigation shall be undertaken with regard to that cold case murder for a period of five years beginning on the date of the conclusion of the reinvestigation, unless there is newly discovered, materially significant evidence.
 
-(Pub. L. 117–164, § 6, Aug. 3, 2022, 136 Stat. 1359.)
+(Pub. L. 117–164, § 6, Aug. 3, 2022, 136 Stat. 1359.)
 
-## § 60906. Data collection
+## § 60906. Data collection
 
 **(a) In general**
 
@@ -135,9 +135,9 @@ Beginning on the date that is three years after August 3, 2022, and annually the
 
 The statistics published pursuant to subsection (a) shall, at a minimum, be disaggregated by the circumstances of the cold case murder, including the classification of the offense, and by agency.
 
-(Pub. L. 117–164, § 7, Aug. 3, 2022, 136 Stat. 1360.)
+(Pub. L. 117–164, § 7, Aug. 3, 2022, 136 Stat. 1360.)
 
-## § 60907. Procedures to promote compliance
+## § 60907. Procedures to promote compliance
 
 **(a) Regulations**
 
@@ -155,27 +155,27 @@ Not later than one year after August 3, 2022, the head of each agency shall prom
 
 **(5)** provide that the head of the agency, or the designee thereof, shall be the final arbiter of the complaint, and that there shall be no judicial review of the final decision of the head of the agency by a complainant.
 
-(Pub. L. 117–164, § 8, Aug. 3, 2022, 136 Stat. 1360.)
+(Pub. L. 117–164, § 8, Aug. 3, 2022, 136 Stat. 1360.)
 
-## § 60908. Withholding information
+## § 60908. Withholding information
 
 Nothing in this chapter shall require an agency to provide information that would endanger the safety of any person, unreasonably impede an ongoing investigation, violate a court order, or violate legal obligations regarding privacy.
 
-(Pub. L. 117–164, § 9, Aug. 3, 2022, 136 Stat. 1360.)
+(Pub. L. 117–164, § 9, Aug. 3, 2022, 136 Stat. 1360.)
 
-## § 60909. Multiple agencies
+## § 60909. Multiple agencies
 
 In the case that more than one agency conducted the initial investigation of a cold case murder, each agency shall coordinate their case file review or full reinvestigation such that there is only one joint case file review or full reinvestigation occurring at a time in compliance with section 60901(f) or 60903(d) of this title, as applicable.
 
-(Pub. L. 117–164, § 10, Aug. 3, 2022, 136 Stat. 1361.)
+(Pub. L. 117–164, § 10, Aug. 3, 2022, 136 Stat. 1361.)
 
-## § 60910. Applicability
+## § 60910. Applicability
 
 This chapter applies in the case of any cold case murder occurring on or after January 1, 1970.
 
-(Pub. L. 117–164, § 11, Aug. 3, 2022, 136 Stat. 1361.)
+(Pub. L. 117–164, § 11, Aug. 3, 2022, 136 Stat. 1361.)
 
-## § 60911. Definitions
+## § 60911. Definitions
 
 In this chapter:
 
@@ -199,9 +199,9 @@ In this chapter:
 
 **(D)** for which no likely perpetrator has been identified.
 
-(Pub. L. 117–164, § 12, Aug. 3, 2022, 136 Stat. 1361.)
+(Pub. L. 117–164, § 12, Aug. 3, 2022, 136 Stat. 1361.)
 
-## § 60912. Annual report
+## § 60912. Annual report
 
 **(a) In general**
 
@@ -217,4 +217,4 @@ Each agency shall submit an annual report to the Committees on the Judiciary of 
 
 **(4)** statistics and individualized information on topics that include identified suspects, arrests, charges, and convictions for reviews under section 60901 of this title and reinvestigations under section 60903 of this title.
 
-(Pub. L. 117–164, § 13, Aug. 3, 2022, 136 Stat. 1361.)
+(Pub. L. 117–164, § 13, Aug. 3, 2022, 136 Stat. 1361.)

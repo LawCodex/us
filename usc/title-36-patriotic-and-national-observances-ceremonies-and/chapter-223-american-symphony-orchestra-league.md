@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 223—AMERICAN SYMPHONY ORCHESTRA LEAGUE"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 223—AMERICAN SYMPHONY ORCHESTRA LEAGUE"
 identifier: "/us/usc/t36/stII/ptB/ch223"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 223—AMERICAN SYMPHONY ORCHESTRA LEAGUE
 
-## § 22301. Organization
+## § 22301. Organization
 
 **(a) Federal Charter.—** American Symphony Orchestra League (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -27,14 +27,14 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22301 | 36:3401. | Oct. 15, 1962, Pub. L. 87–817, §§ 1, 2, 4(1), 76 Stat. 929, 930. |
+| 22301 | 36:3401. | Oct. 15, 1962, Pub. L. 87–817, §§ 1, 2, 4(1), 76 Stat. 929, 930. |
 |  | 36:3402. 36:3404(1). |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
 The text of 36:3402 is omitted as executed and obsolete.
 
-## § 22302. Purposes
+## § 22302. Purposes
 
 The purposes of the corporation are—
 
@@ -52,9 +52,9 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22302 | 36:3403. | Oct. 15, 1962, Pub. L. 87–817, § 3, 76 Stat. 930. |
+| 22302 | 36:3403. | Oct. 15, 1962, Pub. L. 87–817, § 3, 76 Stat. 930. |
 
-## § 22303. Membership
+## § 22303. Membership
 
 **(a) Eligibility.—** Except as provided in this chapter, eligibility for membership in the corporation and the rights, privileges, and designation of classes of members are as provided in the constitution and bylaws of the corporation.
 
@@ -66,13 +66,13 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22303 | 36:3406. | Oct. 15, 1962, Pub. L. 87–817, § 6, 76 Stat. 931. |
+| 22303 | 36:3406. | Oct. 15, 1962, Pub. L. 87–817, § 6, 76 Stat. 931. |
 
-In subsection (a), the words “are as provided in the constitution and bylaws of the corporation” are substituted for “shall . . . be determined as the constitution and bylaws of the corporation may provide” to eliminate unnecessary words.
+In subsection (a), the words “are as provided in the constitution and bylaws of the corporation” are substituted for “shall . . . be determined as the constitution and bylaws of the corporation may provide” to eliminate unnecessary words.
 
 In subsection (b), the words “the right to” are omitted as unnecessary.
 
-## § 22304. Governing body
+## § 22304. Governing body
 
 **(a) Board of Directors.—**
 
@@ -92,12 +92,12 @@ In subsection (b), the words “the right to” are omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22304(a) | 36:3407. | Oct. 15, 1962, Pub. L. 87–817, §§ 7, 8, 76 Stat. 931. |
+| 22304(a) | 36:3407. | Oct. 15, 1962, Pub. L. 87–817, §§ 7, 8, 76 Stat. 931. |
 | 22304(b) | 36:3408. |  |
 
 In subsection (a), the text of 36:3407(a) and the word “Thereafter” in 36:3407(b) are omitted as obsolete. The word “contributions” is substituted for “all contributed funds” to eliminate unnecessary words.
 
-## § 22305. Powers
+## § 22305. Powers
 
 The corporation may—
 
@@ -121,7 +121,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22305 | 36:3404(2)–(9). | Oct. 15, 1962, Pub. L. 87–817, §§ 4(2)–(9), 17, 76 Stat. 930, 933. |
+| 22305 | 36:3404(2)–(9). | Oct. 15, 1962, Pub. L. 87–817, §§ 4(2)–(9), 17, 76 Stat. 930, 933. |
 |  | 36:3417. |  |
 
 In this section, the text of 36:3417 is omitted as executed and obsolete.
@@ -140,7 +140,7 @@ In clause (6), the words “instruments of indebtedness” are substituted for �
 
 In clause (7), the words “complain and defend in any court of competent jurisdiction” are omitted as unnecessary.
 
-## § 22306. Exclusive right to name, insignia, emblems, and badges
+## § 22306. Exclusive right to name, insignia, emblems, and badges
 
 The corporation has the exclusive right to use the name “American Symphony Orchestra League” and distinctive insignia, emblems and badges, descriptive or designating marks, and words or phrases required to carry out the duties and powers of the corporation. This section does not affect any vested rights.
 
@@ -150,11 +150,11 @@ The corporation has the exclusive right to use the name “American Symphony Orc
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22306 | 36:3416. | Oct. 15, 1962, Pub. L. 87–817, § 16, 76 Stat. 933. |
+| 22306 | 36:3416. | Oct. 15, 1962, Pub. L. 87–817, § 16, 76 Stat. 933. |
 
 The words “sole” and “to have and to use in carrying out its purposes” are omitted as unnecessary. The words “required to carry out the duties and powers of the corporation” are substituted for “as may be required in the furtherance of its functions” for consistency in the revised title and with other titles of the United States Code. The last sentence is substituted for “No powers or privileges hereby granted shall, however, interfere or conflict with established or vested rights” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 22307. Restrictions
+## § 22307. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -170,7 +170,7 @@ The words “sole” and “to have and to use in carrying out its purposes” a
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22307(a) | 36:3412. | Oct. 15, 1962, Pub. L. 87–817, §§ 9, 10, 12, 76 Stat. 932. |
+| 22307(a) | 36:3412. | Oct. 15, 1962, Pub. L. 87–817, §§ 9, 10, 12, 76 Stat. 932. |
 | 22307(b) | 36:3410. |  |
 | 22307(c) | 36:3409(a). |  |
 | 22307(d) | 36:3409(b). |  |
@@ -181,7 +181,7 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 In subsection (d), the words “or advance” are added in 2 places for consistency in the subsection.
 
-## § 22308. Principal office
+## § 22308. Principal office
 
 The principal office of the corporation shall be in Charleston, West Virginia, or another place decided by the board of directors. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States.
 
@@ -191,11 +191,11 @@ The principal office of the corporation shall be in Charleston, West Virginia, o
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22308 | 36:3405(a). | Oct. 15, 1962, Pub. L. 87–817, § 5(a), 76 Stat. 930. |
+| 22308 | 36:3405(a). | Oct. 15, 1962, Pub. L. 87–817, § 5(a), 76 Stat. 930. |
 
 The words “the Commonwealth of Puerto Rico” are omitted as included in “territories, and possessions of the United States”.
 
-## § 22309. Records and inspection
+## § 22309. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -213,12 +213,12 @@ The words “the Commonwealth of Puerto Rico” are omitted as included in “te
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22309(a) | 36:3413 (1st sentence). | Oct. 15, 1962, Pub. L. 87–817, § 13, 76 Stat. 932. |
+| 22309(a) | 36:3413 (1st sentence). | Oct. 15, 1962, Pub. L. 87–817, § 13, 76 Stat. 932. |
 | 22309(b) | 36:3413 (last sentence). |  |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 22310. Service of process
+## § 22310. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -228,11 +228,11 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22310 | 36:3405(b). | Oct. 15, 1962, Pub. L. 87–817, § 5(b), 76 Stat. 930. |
+| 22310 | 36:3405(b). | Oct. 15, 1962, Pub. L. 87–817, § 5(b), 76 Stat. 930. |
 
 The words “at all times” and “authorized” are omitted as unnecessary.
 
-## § 22311. Liability for acts of officers and agents
+## § 22311. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -242,9 +242,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22311 | 36:3411. | Oct. 15, 1962, Pub. L. 87–817, § 11, 76 Stat. 932. |
+| 22311 | 36:3411. | Oct. 15, 1962, Pub. L. 87–817, § 11, 76 Stat. 932. |
 
-## § 22312. Distribution of assets on dissolution or final liquidation
+## § 22312. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed as provided by the board of directors, but in compliance with the constitution and bylaws of the corporation.
 
@@ -254,6 +254,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 22312 | 36:3415. | Oct. 15, 1962, Pub. L. 87–817, § 15, 76 Stat. 933. |
+| 22312 | 36:3415. | Oct. 15, 1962, Pub. L. 87–817, § 15, 76 Stat. 933. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The words “outstanding” and “all Federal and State laws applicable thereto” are omitted as unnecessary.

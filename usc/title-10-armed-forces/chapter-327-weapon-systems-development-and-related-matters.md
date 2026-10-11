@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 327 “RESEARCH AND DEVELOPMENT CENTERS AND FACILITIES”, consisting of reserved section 4401, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.
+A prior chapter 327 “RESEARCH AND DEVELOPMENT CENTERS AND FACILITIES”, consisting of reserved section 4401, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.
 
-A prior chapter 329 “OPERATIONAL TEST AND EVALUATION; DEVELOPMENTAL TEST AND EVALUATION”, consisting of reserved section 4451, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.
+A prior chapter 329 “OPERATIONAL TEST AND EVALUATION; DEVELOPMENTAL TEST AND EVALUATION”, consisting of reserved section 4451, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.
 
 ## SUBCHAPTER I—MODULAR OPEN SYSTEM APPROACH IN DEVELOPMENT OF WEAPON SYSTEMS
 
-### § 4401. Requirement for modular open system approach in major defense acquisition programs; definitions
+### § 4401. Requirement for modular open system approach in major defense acquisition programs; definitions
 
 **(a) Modular Open System Approach Requirement.—** A major defense acquisition program that receives Milestone A or Milestone B approval after January 1, 2019, shall be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability. Other defense acquisition programs shall also be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.
 
@@ -89,7 +89,7 @@ A prior chapter 329 “OPERATIONAL TEST AND EVALUATION; DEVELOPMENTAL TEST AND E
 
 **(9)** The term “major weapon system” has the meaning provided in section 101(a) of this title.
 
-(Added Pub. L. 114–328, div. A, title VIII, § 805(a)(1), Dec. 23, 2016, 130 Stat. 2252, § 2446a; renumbered § 4401 and amended Pub. L. 116–283, div. A, title VIII, § 804(b)(1), title XVIII, § 1851(b)(1), (2), Jan. 1, 2021, 134 Stat. 3737, 4272; Pub. L. 118–159, div. A, title VIII, § 819, Dec. 23, 2024, 138 Stat. 1982; Pub. L. 119–60, div. A, title VIII, § 811(c)(2)(D), Dec. 18, 2025, 139 Stat. 950.)
+(Added Pub. L. 114–328, div. A, title VIII, § 805(a)(1), Dec. 23, 2016, 130 Stat. 2252, § 2446a; renumbered § 4401 and amended Pub. L. 116–283, div. A, title VIII, § 804(b)(1), title XVIII, § 1851(b)(1), (2), Jan. 1, 2021, 134 Stat. 3737, 4272; Pub. L. 118–159, div. A, title VIII, § 819, Dec. 23, 2024, 138 Stat. 1982; Pub. L. 119–60, div. A, title VIII, § 811(c)(2)(D), Dec. 18, 2025, 139 Stat. 950.)
 
 **Editorial Notes**
 
@@ -105,35 +105,35 @@ Section 804 of the William M. (Mac) Thornberry National Defense Authorization Ac
 
 2024—Subsecs. (b), (c). Pub. L. 118–159 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-2021—Pub. L. 116–283, § 1851(b)(1), renumbered section 2446a of this title as this section.
+2021—Pub. L. 116–283, § 1851(b)(1), renumbered section 2446a of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, § 804(b)(1)(A), inserted at end “Other defense acquisition programs shall also be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.”
+Subsec. (a). Pub. L. 116–283, § 804(b)(1)(A), inserted at end “Other defense acquisition programs shall also be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.”
 
-Subsec. (b)(1)(A). Pub. L. 116–283, § 804(b)(1)(B)(i)(I), substituted “modular system interfaces between major systems, major system components and modular systems;” for “major system interfaces between a major system platform and a major system component, between major system components, or between major system platforms;”.
+Subsec. (b)(1)(A). Pub. L. 116–283, § 804(b)(1)(B)(i)(I), substituted “modular system interfaces between major systems, major system components and modular systems;” for “major system interfaces between a major system platform and a major system component, between major system components, or between major system platforms;”.
 
-Subsec. (b)(1)(B). Pub. L. 116–283, § 804(b)(1)(B)(i)(II), substituted “that relevant modular system interfaces—” for “major system interfaces comply with, if available and suitable, widely supported and consensus-based standards;” and added cls. (i) and (ii).
+Subsec. (b)(1)(B). Pub. L. 116–283, § 804(b)(1)(B)(i)(II), substituted “that relevant modular system interfaces—” for “major system interfaces comply with, if available and suitable, widely supported and consensus-based standards;” and added cls. (i) and (ii).
 
-Subsec. (b)(1)(C). Pub. L. 116–283, § 804(b)(1)(B)(i)(III), inserted “and modular systems” after “severable major system components” in introductory provisions.
+Subsec. (b)(1)(C). Pub. L. 116–283, § 804(b)(1)(B)(i)(III), inserted “and modular systems” after “severable major system components” in introductory provisions.
 
-Subsec. (b)(1)(D). Pub. L. 116–283, § 1851(b)(2)(A), substituted “sections 3771 through 3775” for “section 2320”.
+Subsec. (b)(1)(D). Pub. L. 116–283, § 1851(b)(2)(A), substituted “sections 3771 through 3775” for “section 2320”.
 
-Subsec. (b)(3)(A). Pub. L. 116–283, § 804(b)(1)(B)(ii), substituted “modular system interfaces” for “well-defined major system interfaces”.
+Subsec. (b)(3)(A). Pub. L. 116–283, § 804(b)(1)(B)(ii), substituted “modular system interfaces” for “well-defined major system interfaces”.
 
-Subsec. (b)(4). Pub. L. 116–283, § 804(b)(1)(B)(iii), amended par. (4) generally. Prior to amendment, par. (4) defined major system interface.
+Subsec. (b)(4). Pub. L. 116–283, § 804(b)(1)(B)(iii), amended par. (4) generally. Prior to amendment, par. (4) defined major system interface.
 
-Subsec. (b)(5), (6). Pub. L. 116–283, § 804(b)(1)(B)(iv), (v), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+Subsec. (b)(5), (6). Pub. L. 116–283, § 804(b)(1)(B)(iv), (v), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
-Subsec. (b)(7). Pub. L. 116–283, § 1851(b)(2)(B), which directed amendment of par. (6) of subsec. (b) by substituting “section 4271(a)” for “section 2448a(a)”, was executed by making the substitution in par. (7) to reflect the probable intent of Congress and the intervening amendment by section 804(b)(1)(B)(iv) of Pub. L. 116–283 which redesignated par. (6) as (7). See below.
+Subsec. (b)(7). Pub. L. 116–283, § 1851(b)(2)(B), which directed amendment of par. (6) of subsec. (b) by substituting “section 4271(a)” for “section 2448a(a)”, was executed by making the substitution in par. (7) to reflect the probable intent of Congress and the intervening amendment by section 804(b)(1)(B)(iv) of Pub. L. 116–283 which redesignated par. (6) as (7). See below.
 
-Pub. L. 116–283, § 804(b)(1)(B)(iv), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+Pub. L. 116–283, § 804(b)(1)(B)(iv), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-Subsec. (b)(8). Pub. L. 116–283, § 1851(b)(2)(C), which directed amendment of par. (7) of subsec. (b) by substituting “section 4201” for “section 2430”, was executed by making the substitution in par. (8) to reflect the probable intent of Congress and the intervening amendment by section 804(b)(1)(B)(iv) of Pub. L. 116–283 which redesignated par. (7) as (8). See below.
+Subsec. (b)(8). Pub. L. 116–283, § 1851(b)(2)(C), which directed amendment of par. (7) of subsec. (b) by substituting “section 4201” for “section 2430”, was executed by making the substitution in par. (8) to reflect the probable intent of Congress and the intervening amendment by section 804(b)(1)(B)(iv) of Pub. L. 116–283 which redesignated par. (7) as (8). See below.
 
-Pub. L. 116–283, § 804(b)(1)(B)(iv), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+Pub. L. 116–283, § 804(b)(1)(B)(iv), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-Subsec. (b)(9). Pub. L. 116–283, § 1851(b)(2)(D), which directed amendment of par. (8) of subsec. (b) by substituting “section 3455(f)” for “section 2379(f)”, was executed by making the substitution in par. (9) to reflect the probable intent of Congress and the intervening amendment by section 804(b)(1)(B)(iv) of Pub. L. 116–283 which redesignated par. (8) as (9). See below.
+Subsec. (b)(9). Pub. L. 116–283, § 1851(b)(2)(D), which directed amendment of par. (8) of subsec. (b) by substituting “section 3455(f)” for “section 2379(f)”, was executed by making the substitution in par. (9) to reflect the probable intent of Congress and the intervening amendment by section 804(b)(1)(B)(iv) of Pub. L. 116–283 which redesignated par. (8) as (9). See below.
 
-Pub. L. 116–283, § 804(b)(1)(B)(iv), redesignated par. (8) as (9).
+Pub. L. 116–283, § 804(b)(1)(B)(iv), redesignated par. (8) as (9).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -143,11 +143,11 @@ Amendment by section 1851(b)(1), (2) of Pub. L. 116–283 effective Jan. 1, 2022
 
 **Effective Date**
 
-Pub. L. 114–328, div. A, title VIII, § 805(a)(4), Dec. 23, 2016, 130 Stat. 2255, provided that: “Subchapter I of chapter 144B of title 10, United States Code [see, now, this subchapter], as added by paragraph (1), shall take effect on January 1, 2017.”
+Pub. L. 114–328, div. A, title VIII, § 805(a)(4), Dec. 23, 2016, 130 Stat. 2255, provided that: “Subchapter I of chapter 144B of title 10, United States Code [see, now, this subchapter], as added by paragraph (1), shall take effect on January 1, 2017.”
 
 **Implementation of Modular Open Systems Approaches**
 
-Pub. L. 116–283, div. A, title VIII, § 804, Jan. 1, 2021, 134 Stat. 3735, provided that:
+Pub. L. 116–283, div. A, title VIII, § 804, Jan. 1, 2021, 134 Stat. 3735, provided that:
 
 > **“(a) Requirements for Interface Delivery.—**
 
@@ -285,7 +285,7 @@ Pub. L. 116–283, div. A, title VIII, § 804, Jan. 1, 2021, 134 Stat. 3735, p
 
 > **“(4)** The terms ‘major system’, ‘major system component’, ‘modular open system approach’, ‘modular system’, ‘modular system interface’, and ‘weapon system’ have the meanings given such terms, respectively, in section 2446a of title 10, United States Code [now 10 U.S.C. 4401].”
 
-### § 4402. Requirement to address modular open system approach in program capabilities development and acquisition weapon system design
+### § 4402. Requirement to address modular open system approach in program capabilities development and acquisition weapon system design
 
 **(a) Program Capability Document.—** A program capability document for a major defense acquisition program shall identify and characterize—
 
@@ -317,9 +317,9 @@ Pub. L. 116–283, div. A, title VIII, § 804, Jan. 1, 2021, 134 Stat. 3735, p
 
 **(A)** the program incorporates clearly defined major system interfaces between the major system platform and major system components, between major system components, and between major system platforms;
 
-**(B)** such major system interfaces are consistent with the the 1
+**(B)** such major system interfaces are consistent with the the 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 requirements of section 4401(a) of this title; and
 
@@ -329,7 +329,7 @@ requirements of section 4401(a) of this title; and
 
 **(f) Implementation Guidance.—** The Secretaries of the military departments shall issue guidance to implement the requirements of this section.
 
-(Added Pub. L. 114–328, div. A, title VIII, § 805(a)(1), Dec. 23, 2016, 130 Stat. 2253, § 2446b; amended Pub. L. 115–91, div. A, title X, § 1081(a)(40), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title VIII, § 840(a), Dec. 20, 2019, 133 Stat. 1499; renumbered § 4402 and amended Pub. L. 116–283, div. A, title XVIII, § 1851(b)(1), (3), Jan. 1, 2021, 134 Stat. 4272; Pub. L. 119–60, div. A, title XVIII, § 1832(a), Dec. 18, 2025, 139 Stat. 1253.)
+(Added Pub. L. 114–328, div. A, title VIII, § 805(a)(1), Dec. 23, 2016, 130 Stat. 2253, § 2446b; amended Pub. L. 115–91, div. A, title X, § 1081(a)(40), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title VIII, § 840(a), Dec. 20, 2019, 133 Stat. 1499; renumbered § 4402 and amended Pub. L. 116–283, div. A, title XVIII, § 1851(b)(1), (3), Jan. 1, 2021, 134 Stat. 4272; Pub. L. 119–60, div. A, title XVIII, § 1832(a), Dec. 18, 2025, 139 Stat. 1253.)
 
 **Editorial Notes**
 
@@ -337,15 +337,15 @@ requirements of section 4401(a) of this title; and
 
 2025—Subsec. (e)(1)(B). Pub. L. 119–60 substituted “the requirements of section 4401(a) of this title” for “widely supported and consensus-based standards that exist at the time of the milestone decision, unless such standards are unavailable or unsuitable for particular major system interfaces”.
 
-2021—Pub. L. 116–283, § 1851(b)(1), renumbered section 2446b of this title as this section.
+2021—Pub. L. 116–283, § 1851(b)(1), renumbered section 2446b of this title as this section.
 
-Subsec. (c). Pub. L. 116–283, § 1851(b)(3)(A), substituted “section 4211” for “section 2431a” in introductory provisions.
+Subsec. (c). Pub. L. 116–283, § 1851(b)(3)(A), substituted “section 4211” for “section 2431a” in introductory provisions.
 
-Subsec. (e). Pub. L. 116–283, § 1851(b)(3)(B), substituted “section 4252” for “section 2366b” in introductory provisions.
+Subsec. (e). Pub. L. 116–283, § 1851(b)(3)(B), substituted “section 4252” for “section 2366b” in introductory provisions.
 
 2019—Subsec. (f). Pub. L. 116–92 added subsec. (f).
 
-2017—Subsec. (e). Pub. L. 115–91 substituted “in writing—” for “in writing that—” in introductory provisions and inserted “, that” after “open system approach” in introductory provisions of par. (1).
+2017—Subsec. (e). Pub. L. 115–91 substituted “in writing—” for “in writing that—” in introductory provisions and inserted “, that” after “open system approach” in introductory provisions of par. (1).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -357,7 +357,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 Section effective Jan. 1, 2017, see section 805(a)(4) of Pub. L. 114–328, set out as a note under section 4401 of this title.
 
-### § 4403. Requirements relating to availability of major system interfaces and support for modular open system approach
+### § 4403. Requirements relating to availability of major system interfaces and support for modular open system approach
 
 The Secretary of each military department shall—
 
@@ -373,7 +373,7 @@ The Secretary of each military department shall—
 
 **(6)** issue guidance to implement the requirements of this section.
 
-(Added Pub. L. 114–328, div. A, title VIII, § 805(a)(1), Dec. 23, 2016, 130 Stat. 2255, § 2446c; amended Pub. L. 116–92, div. A, title VIII, § 840(b), Dec. 20, 2019, 133 Stat. 1499; renumbered § 4403, Pub. L. 116–283, div. A, title XVIII, § 1851(b)(1), Jan. 1, 2021, 134 Stat. 4272; Pub. L. 119–60, div. A, title XVIII, § 1832(b), Dec. 18, 2025, 139 Stat. 1253.)
+(Added Pub. L. 114–328, div. A, title VIII, § 805(a)(1), Dec. 23, 2016, 130 Stat. 2255, § 2446c; amended Pub. L. 116–92, div. A, title VIII, § 840(b), Dec. 20, 2019, 133 Stat. 1499; renumbered § 4403, Pub. L. 116–283, div. A, title XVIII, § 1851(b)(1), Jan. 1, 2021, 134 Stat. 4272; Pub. L. 119–60, div. A, title XVIII, § 1832(b), Dec. 18, 2025, 139 Stat. 1253.)
 
 **Editorial Notes**
 
@@ -381,7 +381,7 @@ The Secretary of each military department shall—
 
 Prior sections 4411 to 4414 were renumbered sections 7481 to 7484 of this title, respectively.
 
-A prior section 4415, added Pub. L. 100–180, div. A, title III, § 319(a)(1), Dec. 4, 1987, 101 Stat. 1077; amended Pub. L. 100–526, title I, § 106(c), Oct. 24, 1988, 102 Stat. 2625, related to United States Army School of the Americas, prior to repeal by Pub. L. 106–398, § 1 [[div. A], title IX, § 911(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A-228.
+A prior section 4415, added Pub. L. 100–180, div. A, title III, § 319(a)(1), Dec. 4, 1987, 101 Stat. 1077; amended Pub. L. 100–526, title I, § 106(c), Oct. 24, 1988, 102 Stat. 2625, related to United States Army School of the Americas, prior to repeal by Pub. L. 106–398, § 1 [[div. A], title IX, § 911(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A-228.
 
 Prior sections 4416 and 4417 were renumbered sections 7486 and 7487 of this title, respectively.
 
@@ -409,13 +409,13 @@ Section effective Jan. 1, 2017, see section 805(a)(4) of Pub. L. 114–328, set 
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title VIII, § 811(a)(7), Dec. 18, 2025, 139 Stat. 948, struck out item 4423 “Requirements and limitations for weapon system component or technology prototype projects”. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title VIII, § 811(a)(7), Dec. 18, 2025, 139 Stat. 948, struck out item 4423 “Requirements and limitations for weapon system component or technology prototype projects”. Amendment was made pursuant to operation of section 102 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program on Development of Reentry Vehicles and Related Systems**
 
-Pub. L. 118–31, div. A, title XVI, § 1645, Dec. 22, 2023, 137 Stat. 598, as amended by Pub. L. 118–159, div. A, title XVI, § 1625, Dec. 23, 2024, 138 Stat. 2173, provided that:
+Pub. L. 118–31, div. A, title XVI, § 1645, Dec. 22, 2023, 137 Stat. 598, as amended by Pub. L. 118–159, div. A, title XVI, § 1625, Dec. 23, 2024, 138 Stat. 2173, provided that:
 
 > **“(a) In General.—** The Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force, acting jointly or separately, may carry out a pilot program, to be known as the ‘Reentry Vehicle Flight Test Bed Program’, to assess the feasibility of providing regular flight test opportunities that support the development of reentry vehicles and reentry systems to—
 
@@ -463,7 +463,7 @@ Pub. L. 118–31, div. A, title XVI, § 1645, Dec. 22, 2023, 137 Stat. 598, as
 
 > **“(e) Termination.—** The authority to carry out a pilot program under this section shall terminate on December 31, 2029.”
 
-### § 4421. Weapon system component or technology prototype projects: display of budget information
+### § 4421. Weapon system component or technology prototype projects: display of budget information
 
 **(a) Requirements for Budget Display.—** In the defense budget materials for any fiscal year, the Secretary of Defense shall, with respect to advanced component development and prototype activities (within the research, development, test, and evaluation budget), set forth the amounts requested for each of the following:
 
@@ -481,7 +481,7 @@ Pub. L. 118–31, div. A, title XVI, § 1645, Dec. 22, 2023, 137 Stat. 598, as
 
 **(c) Definitions.—** In this section, the terms “budget” and “defense budget materials” have the meaning given those terms in section 234 of this title and the term “commercial product” has the meaning given that term in section 103 of title 41.
 
-(Added Pub. L. 114–328, div. A, title VIII, § 806(a)(1), Dec. 23, 2016, 130 Stat. 2256, § 2447a; amended Pub. L. 115–232, div. A, title VIII, § 836(e)(8), Aug. 13, 2018, 132 Stat. 1870; Pub. L. 116–92, div. A, title XVII, § 1731(a)(51), Dec. 20, 2019, 133 Stat. 1815; renumbered § 4421, Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1), Jan. 1, 2021, 134 Stat. 4272.)
+(Added Pub. L. 114–328, div. A, title VIII, § 806(a)(1), Dec. 23, 2016, 130 Stat. 2256, § 2447a; amended Pub. L. 115–232, div. A, title VIII, § 836(e)(8), Aug. 13, 2018, 132 Stat. 1870; Pub. L. 116–92, div. A, title XVII, § 1731(a)(51), Dec. 20, 2019, 133 Stat. 1815; renumbered § 4421, Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1), Jan. 1, 2021, 134 Stat. 4272.)
 
 **Editorial Notes**
 
@@ -491,9 +491,9 @@ Pub. L. 118–31, div. A, title XVI, § 1645, Dec. 22, 2023, 137 Stat. 598, as
 
 2019—Subsec. (a). Pub. L. 116–92 struck out “after fiscal year 2017” after “any fiscal year” in introductory provisions.
 
-2018—Subsec. (a)(2). Pub. L. 115–232, § 836(e)(8)(A), substituted “commercial products and technologies” for “commercial items and technologies”.
+2018—Subsec. (a)(2). Pub. L. 115–232, § 836(e)(8)(A), substituted “commercial products and technologies” for “commercial items and technologies”.
 
-Subsec. (c). Pub. L. 115–232, § 836(e)(8)(B), inserted before period at end “and the term ‘commercial product’ has the meaning given that term in section 103 of title 41”.
+Subsec. (c). Pub. L. 115–232, § 836(e)(8)(B), inserted before period at end “and the term ‘commercial product’ has the meaning given that term in section 103 of title 41”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -507,9 +507,9 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **Effective Date**
 
-Pub. L. 114–328, div. A, title VIII, § 806(a)(2), Dec. 23, 2016, 130 Stat. 2259, provided that: “Subchapter II of chapter 144B of title 10, United States Code [see, now, this subchapter], as added by paragraph (1), shall take effect on January 1, 2017.”
+Pub. L. 114–328, div. A, title VIII, § 806(a)(2), Dec. 23, 2016, 130 Stat. 2259, provided that: “Subchapter II of chapter 144B of title 10, United States Code [see, now, this subchapter], as added by paragraph (1), shall take effect on January 1, 2017.”
 
-### § 4422. Weapon system component or technology prototype projects: oversight
+### § 4422. Weapon system component or technology prototype projects: oversight
 
 **(a) Establishment.—** The Secretary of each military department shall establish an oversight board or identify a similar existing group of senior advisors for managing prototype projects for weapon system components and other technologies and subsystems, including the use of funds for such projects, within the military department concerned.
 
@@ -551,17 +551,17 @@ Pub. L. 114–328, div. A, title VIII, § 806(a)(2), Dec. 23, 2016, 130 Stat. 
 
 **(B)** the results achieved from weapon system component prototype and technology projects completed and tested during the preceding six months.
 
-(Added Pub. L. 114–328, div. A, title VIII, § 806(a)(1), Dec. 23, 2016, 130 Stat. 2257, § 2447b; renumbered § 4422 and amended Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1), (2), Jan. 1, 2021, 134 Stat. 4272; Pub. L. 119–60, div. A, title VIII, § 811(d)(3), Dec. 18, 2025, 139 Stat. 951.)
+(Added Pub. L. 114–328, div. A, title VIII, § 806(a)(1), Dec. 23, 2016, 130 Stat. 2257, § 2447b; renumbered § 4422 and amended Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1), (2), Jan. 1, 2021, 134 Stat. 4272; Pub. L. 119–60, div. A, title VIII, § 811(d)(3), Dec. 18, 2025, 139 Stat. 951.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (c)(3). Pub. L. 119–60 struck out “, subject to the requirements and limitations in section 4423 of this title” after “projects”.
+2025—Subsec. (c)(3). Pub. L. 119–60 struck out “, subject to the requirements and limitations in section 4423 of this title” after “projects”.
 
-2021—Pub. L. 116–283, § 1851(c)(1), renumbered section 2447b of this title as this section.
+2021—Pub. L. 116–283, § 1851(c)(1), renumbered section 2447b of this title as this section.
 
-Subsec. (c)(3). Pub. L. 116–283, § 1851(c)(2), substituted “section 4423” for “section 2447c”.
+Subsec. (c)(3). Pub. L. 116–283, § 1851(c)(2), substituted “section 4423” for “section 2447c”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -573,11 +573,11 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set out as a note under section 4421 of this title.
 
-### [§ 4423. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(7), Dec. 18, 2025, 139 Stat. 948]
+### [§ 4423. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(7), Dec. 18, 2025, 139 Stat. 948]
 
-Section, added Pub. L. 114–328, div. A, title VIII, § 806(a)(1), Dec. 23, 2016, 130 Stat. 2258, § 2447c; renumbered § 4423 and amended Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1), (3), Jan. 1, 2021, 134 Stat. 4272, 4273; Pub. L. 117–263, div. A, title X, § 1081(a)(5), Dec. 23, 2022, 136 Stat. 2797; Pub. L. 118–159, div. A, title VIII, § 804(c)(4), Dec. 23, 2024, 138 Stat. 1968, related to duration, selection and funding requirements and limitations for weapon system component or technology prototype projects.
+Section, added Pub. L. 114–328, div. A, title VIII, § 806(a)(1), Dec. 23, 2016, 130 Stat. 2258, § 2447c; renumbered § 4423 and amended Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1), (3), Jan. 1, 2021, 134 Stat. 4272, 4273; Pub. L. 117–263, div. A, title X, § 1081(a)(5), Dec. 23, 2022, 136 Stat. 2797; Pub. L. 118–159, div. A, title VIII, § 804(c)(4), Dec. 23, 2024, 138 Stat. 1968, related to duration, selection and funding requirements and limitations for weapon system component or technology prototype projects.
 
-### § 4424. Mechanisms to speed deployment of successful weapon system component or technology prototypes
+### § 4424. Mechanisms to speed deployment of successful weapon system component or technology prototypes
 
 **(a) Selection of Prototype Project for Production and Rapid Fielding.—** A weapon system component or technology prototype project may be selected by the service acquisition executive of the military department concerned for a follow-on production contract or other transaction without the use of competitive procedures, notwithstanding the requirements of sections 3201 through 3205 of this title, if—
 
@@ -599,15 +599,15 @@ Section, added Pub. L. 114–328, div. A, title VIII, § 806(a)(1), Dec. 23, 2
 
 **(c) Notification to Congress.—** Within 30 days after the service acquisition executive of a military department selects a weapon system component or technology project for a follow-on production contract or other transaction, the service acquisition executive shall notify the congressional defense committees of the selection and provide a brief description of the rapid fielding project.
 
-(Added Pub. L. 114–328, div. A, title VIII, § 806(a)(1), Dec. 23, 2016, 130 Stat. 2259, § 2447d; renumbered § 4424 and amended Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1), (4), Jan. 1, 2021, 134 Stat. 4272, 4273.)
+(Added Pub. L. 114–328, div. A, title VIII, § 806(a)(1), Dec. 23, 2016, 130 Stat. 2259, § 2447d; renumbered § 4424 and amended Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1), (4), Jan. 1, 2021, 134 Stat. 4272, 4273.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1851(c)(1), renumbered section 2447d of this title as this section.
+2021—Pub. L. 116–283, § 1851(c)(1), renumbered section 2447d of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, § 1851(c)(4), substituted “sections 3201 through 3205” for “section 2304” in introductory provisions.
+Subsec. (a). Pub. L. 116–283, § 1851(c)(4), substituted “sections 3201 through 3205” for “section 2304” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -619,19 +619,19 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set out as a note under section 4421 of this title.
 
-### § 4425. Definition of weapon system component
+### § 4425. Definition of weapon system component
 
 In this subchapter, the term “weapon system component” has the meaning given the term “major system component” in section 4401 of this title.
 
-(Added Pub. L. 114–328, div. A, title VIII, § 806(a)(1), Dec. 23, 2016, 130 Stat. 2259, § 2447e; renumbered § 4425 and amended Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1), (5), Jan. 1, 2021, 134 Stat. 4272, 4273.)
+(Added Pub. L. 114–328, div. A, title VIII, § 806(a)(1), Dec. 23, 2016, 130 Stat. 2259, § 2447e; renumbered § 4425 and amended Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1), (5), Jan. 1, 2021, 134 Stat. 4272, 4273.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1851(c)(5), substituted “section 4401” for “section 2446a”.
+2021—Pub. L. 116–283, § 1851(c)(5), substituted “section 4401” for “section 2446a”.
 
-Pub. L. 116–283, § 1851(c)(1), renumbered section 2447e of this title as this section.
+Pub. L. 116–283, § 1851(c)(1), renumbered section 2447e of this title as this section.
 
 **Statutory Notes and Related Subsidiaries**
 

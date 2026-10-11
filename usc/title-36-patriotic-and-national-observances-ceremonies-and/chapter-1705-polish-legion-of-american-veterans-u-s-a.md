@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1705—POLISH LEGION OF AMERICAN VETERANS, U.S.A."
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1705—POLISH LEGION OF AMERICAN VETERANS, U.S.A."
 identifier: "/us/usc/t36/stII/ptB/ch1705"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1705—POLISH LEGION OF AMERICAN VETERANS, U.S.A.
 
-## § 170501. Definition
+## § 170501. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
 
@@ -25,11 +25,11 @@ For purposes of this chapter, “State” includes the District of Columbia and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 170501 | 36:2513. | July 23, 1984, Pub. L. 98–372, § 14, 98 Stat. 1241. |
+| 170501 | 36:2513. | July 23, 1984, Pub. L. 98–372, § 14, 98 Stat. 1241. |
 
 The words “the Commonwealth of Puerto Rico” are omitted as included in “the territories and possessions of the United States”.
 
-## § 170502. Organization
+## § 170502. Organization
 
 **(a) Federal Charter.—** Polish Legion of American Veterans, U.S.A. (in this chapter, the “corporation”), a nonprofit corporation incorporated in Illinois, is a federally chartered corporation.
 
@@ -41,12 +41,12 @@ The words “the Commonwealth of Puerto Rico” are omitted as included in “th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 170502(a) | 36:2501. | July 23, 1984, Pub. L. 98–372, §§ 1, 15 (last sentence), 16, 98 Stat. 1239, 1241. |
+| 170502(a) | 36:2501. | July 23, 1984, Pub. L. 98–372, §§ 1, 15 (last sentence), 16, 98 Stat. 1239, 1241. |
 | 170502(b) | 36:2514 (last sentence). 36:2515. |  |
 
 This section is substituted for the source provisions for consistency in the revised title.
 
-## § 170503. Purposes
+## § 170503. Purposes
 
 The purposes of the corporation are as provided in its articles of incorporation. The corporation shall function as a veterans’ and patriotic organization as authorized by the laws of each State in which it is incorporated.
 
@@ -56,11 +56,11 @@ The purposes of the corporation are as provided in its articles of incorporation
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 170503 | 36:2503. | July 23, 1984, Pub. L. 98–372, § 3, 98 Stat. 1239. |
+| 170503 | 36:2503. | July 23, 1984, Pub. L. 98–372, § 3, 98 Stat. 1239. |
 
 The word “objects” is omitted as unnecessary.
 
-## § 170504. Membership
+## § 170504. Membership
 
 **(a) Eligibility.—** Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the constitution and bylaws of the corporation.
 
@@ -72,10 +72,10 @@ The word “objects” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 170504(a) | 36:2505 (words before 3d comma). | July 23, 1984, Pub. L. 98–372, § 5 (words before 3d comma, words after 3d comma related to discrimination in membership), 98 Stat. 1239. |
+| 170504(a) | 36:2505 (words before 3d comma). | July 23, 1984, Pub. L. 98–372, § 5 (words before 3d comma, words after 3d comma related to discrimination in membership), 98 Stat. 1239. |
 | 170504(b) | 36:2505 (words after 3d comma related to discrimination in membership). |  |
 
-## § 170505. Governing body
+## § 170505. Governing body
 
 **(a) Board of Directors.—** The board of directors and the responsibilities of the board are as provided in the articles of incorporation.
 
@@ -89,13 +89,13 @@ The word “objects” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 170505(a) | 36:2506. | July 23, 1984, Pub. L. 98–372, §§ 5 (words after 3d comma related to discrimination in holding office), 6, 7, 98 Stat. 1239. |
+| 170505(a) | 36:2506. | July 23, 1984, Pub. L. 98–372, §§ 5 (words after 3d comma related to discrimination in holding office), 6, 7, 98 Stat. 1239. |
 | 170505(b) | 36:2507. |  |
 | 170505(c) | 36:2505 (words after 3d comma related to discrimination in holding office). |  |
 
 In subsections (a) and (b), the words “and in conformity with the laws of the State or States in which it is incorporated” in 36:2506 and “and in conformity with the laws of the State or States wherein it is incorporated” in 36:2507 are omitted as unnecessary.
 
-## § 170506. Powers
+## § 170506. Powers
 
 The corporation has only the powers provided in its bylaws and articles of incorporation filed in each State in which it is incorporated.
 
@@ -105,11 +105,11 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 170506 | 36:2502. | July 23, 1984, Pub. L. 98–372, § 2, 98 Stat. 1239. |
+| 170506 | 36:2502. | July 23, 1984, Pub. L. 98–372, § 2, 98 Stat. 1239. |
 
 The words “and subject to the laws of such State or States” are omitted as unnecessary.
 
-## § 170507. Restrictions
+## § 170507. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -127,7 +127,7 @@ The words “and subject to the laws of such State or States” are omitted as u
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 170507(a) | 36:2508(d). | July 23, 1984, Pub. L. 98–372, § 8, 98 Stat. 1240. |
+| 170507(a) | 36:2508(d). | July 23, 1984, Pub. L. 98–372, § 8, 98 Stat. 1240. |
 | 170507(b) | 36:2508(c). |  |
 | 170507(c) | 36:2508(a). |  |
 | 170507(d) | 36:2508(b). |  |
@@ -137,7 +137,7 @@ In subsection (a), the words “any shares of” are omitted as unnecessary.
 
 In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
 
-## § 170508. Duty to maintain tax-exempt status
+## § 170508. Duty to maintain tax-exempt status
 
 The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
@@ -147,9 +147,9 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 170508 | 36:2514 (1st sentence). | July 23, 1984, Pub. L. 98–372, § 15 (1st sentence), 98 Stat. 1241. |
+| 170508 | 36:2514 (1st sentence). | July 23, 1984, Pub. L. 98–372, § 15 (1st sentence), 98 Stat. 1241. |
 
-## § 170509. Records and inspection
+## § 170509. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -167,11 +167,11 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 170509 | 36:2510. | July 23, 1984, Pub. L. 98–372, § 10, 98 Stat. 1240. |
+| 170509 | 36:2510. | July 23, 1984, Pub. L. 98–372, § 10, 98 Stat. 1240. |
 
 In this section, the word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code. The words “Nothing in this section shall be construed to contravene any applicable State law” are omitted as unnecessary.
 
-## § 170510. Service of process
+## § 170510. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
@@ -181,11 +181,11 @@ The corporation shall comply with the law on service of process of each State in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 170510 | 36:2504. | July 23, 1984, Pub. L. 98–372, § 4, 98 Stat. 1239. |
+| 170510 | 36:2504. | July 23, 1984, Pub. L. 98–372, § 4, 98 Stat. 1239. |
 
 The words “in furtherance of its corporate purposes” are omitted as unnecessary.
 
-## § 170511. Liability for acts of officers and agents
+## § 170511. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -195,9 +195,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 170511 | 36:2509. | July 23, 1984, Pub. L. 98–372, § 9, 98 Stat. 1240. |
+| 170511 | 36:2509. | July 23, 1984, Pub. L. 98–372, § 9, 98 Stat. 1240. |
 
-## § 170512. Annual report
+## § 170512. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year. The report shall be submitted at the same time as the report of the audit required by section 10101 of this title. The report may not be printed as a public document.
 
@@ -207,7 +207,7 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 170512 | 36:2511. | July 23, 1984, Pub. L. 98–372, § 12, 98 Stat. 1240. |
+| 170512 | 36:2511. | July 23, 1984, Pub. L. 98–372, § 12, 98 Stat. 1240. |
 
 **Statutory Notes and Related Subsidiaries**
 
